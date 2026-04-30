@@ -6,7 +6,7 @@ Session memory log for current project context, decisions, and next actions. Kee
 
 ## Current State
 
-**2026-04-30:** Publish prep for public GitHub: reconciled drifted **Corpus edition** / **Effective date** stamps to **`SC-Corpus-2026.04.32`** / **2026-04-24**; README companion list deduped. **`make regression`** and **`make best-practices-check`** green; **`make regression-full`** still fails **`readability-audit`** (`very-long-sentence` findings—see [README.md](README.md)). **P3** holistic redundancy sweep **waived** for this cut ([TODO.md](TODO.md)). **LICENSE** (CC BY 4.0) and **`.gitignore`** added. Earlier continuation narrative: `1819cbc` → [archive/MEMLOG_ARCHIVED_2026-04-30.md](archive/MEMLOG_ARCHIVED_2026-04-30.md). Deferred **P1** in [TODO.md](TODO.md).
+**2026-04-30:** [architecture_primer.md](architecture_primer.md) marked **Locked** (`2026-04-30`) with cross-reference alignment in **Chapters Eleven–Fourteen** routing. Publish prep for public GitHub: reconciled drifted **Corpus edition** / **Effective date** stamps to **`SC-Corpus-2026.04.32`** / **2026-04-24**; README companion list deduped. **`make regression`** and **`make best-practices-check`** green; **`make regression-full`** still fails **`readability-audit`** (`very-long-sentence` findings—see [README.md](README.md)). **P3** holistic redundancy sweep **waived** for this cut ([TODO.md](TODO.md)). **LICENSE** (CC BY 4.0) and **`.gitignore`** added. Earlier continuation narrative: `1819cbc` → [archive/MEMLOG_ARCHIVED_2026-04-30.md](archive/MEMLOG_ARCHIVED_2026-04-30.md). Deferred **P1** in [TODO.md](TODO.md).
 
 ## Active Threads
 

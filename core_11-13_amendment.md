@@ -28,7 +28,7 @@ This file is **part of the Sentient Constitution** and is **binding only togethe
 - Upstream: [Chapter One](core_00-01_principles.md#chapter-01-principles-and-constraints); [Chapters Two through Four](core_02-04_definition_mechanics.md) integrity and verification; [Chapter Nine](core_09-09_rights_part_a.md#chapter-nine-foundational-rights) rights floor; [Chapter Ten](core_10-10_governance.md#chapter-ten-constitutional-contract-legitimacy-authorization-and-stewardship) legitimacy and stewardship requirements.
 - Subsections: [§1](#1-non-regression-floor); [§2](#2-test-1-substantive-non-regression-validity); [§3](#3-anti-evasion-clause-and-constitutional-misconduct-referral); [§4](#4-scope-limit-and-layer-discipline).
 - Downstream: [Chapter Twelve](core_11-13_amendment.md#chapter-twelve-expansion-supremacy-and-external-legal-orders) expansion and supremacy; [Chapter Thirteen](core_11-13_amendment.md#chapter-thirteen-amendment-ratification-and-procedural-validity) procedural validity, ratification, and amendment requirements; [Chapter Six](core_06-06_standing_classification.md#chapter-six-compliance-violation-and-standing-model) and [Chapter Seven](core_07-07_misconduct.md#chapter-seven-anti-constitutional-misconduct) for canonical classification where referral triggers route.
-- Read with: [architecture_primer.md](architecture_primer.md) non-operative walkthrough for **Chapters Eleven through Fourteen** on constitutional change and incorporation.
+- Read with: [architecture_primer.md](architecture_primer.md) (*non-operative framing and reading-order integration; **Chapter Nine** rights presentation map; walkthrough for **Chapters Eleven through Fourteen** on constitutional change and incorporation*).
 
 </details>
 
@@ -126,7 +126,7 @@ Detailed institutional procedure, staffing mechanics, court-operational workflow
 
 Cross-layer drift that imports adjudicative workflow or sanction mechanics from **Chapter Six** or **Chapter Seven** into **Chapter Eleven** or **Chapter Thirteen** — whether as direct text, as reader-guidance prose treated as operative effect, or as inference from review-trigger language — is non-compliant under this section.
 
-For a non-operative reading walkthrough of **Chapters Eleven through Fourteen** on constitutional change and incorporation, see [architecture_primer.md](architecture_primer.md).
+For non-operative reading orientation—including reading-order integration, **Chapter Nine** rights presentation (primer **section 6**), and walkthroughs for **Chapters Eleven through Fourteen** on constitutional change and incorporation—see [architecture_primer.md](architecture_primer.md).
 
 ---
 
