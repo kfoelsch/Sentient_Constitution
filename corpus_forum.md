@@ -874,7 +874,7 @@ Activation records must state:
 - who authorized activation;
 - when independent review will occur.
 
-Shared expiry, reauthorization, restoration, and closure-evidence requirements follow `corpus_systems.md` **Protocol A G** where constitutional-system continuity is implicated. Forum activation records add the Chapter Eight routing and family-specific adjudication details listed here.
+Shared expiry, reauthorization, restoration, and closure-evidence requirements follow `corpus_systems.md` **Protocol A**, subsection **G**, where constitutional-system continuity is implicated. Forum activation records add the Chapter Eight routing and family-specific adjudication details listed here.
 
 ### CC-11.4 Continuity minimum functions
 In any degraded or emergency mode, the system must preserve at minimum:
@@ -922,10 +922,10 @@ Forum emergency adjudication requires continuous preservation of:
 - publication-delay records;
 - restoration and rollback decisions.
 
-Where digital systems are impaired, institutions must maintain a lawful fallback for record capture and later reconciliation. Generic crisis audit-trail, communication-log, and closure-evidence requirements remain in `corpus_systems.md` **Protocol A G**; this subsection identifies the forum records that cannot be lost or silently merged during emergency operation.
+Where digital systems are impaired, institutions must maintain a lawful fallback for record capture and later reconciliation. Generic crisis audit-trail, communication-log, and closure-evidence requirements remain in `corpus_systems.md` **Protocol A**, subsection **G**; this subsection identifies the forum records that cannot be lost or silently merged during emergency operation.
 
 ### CC-11.9 Communication duties
-During continuity-mode operation, forum-facing communications must apply `corpus_systems.md` **Protocol A G** crisis-communication discipline and must publish or otherwise communicate, as lawfully feasible, the adjudication-specific facts parties need:
+During continuity-mode operation, forum-facing communications must apply `corpus_systems.md` **Protocol A**, subsection **G**, crisis-communication discipline and must publish or otherwise communicate, as lawfully feasible, the adjudication-specific facts parties need:
 - the active mode;
 - what functions remain available;
 - where urgent filings should go;
@@ -970,7 +970,7 @@ When the triggering condition subsides, the system must enter a restoration mode
 - assessment of whether fallback actions exceeded lawful scope.
 
 ### CC-11.14 Post-incident review
-Every activation must produce the restoration and post-incident evidence required by `corpus_systems.md` **Protocol A G**, with forum-specific findings stating:
+Every activation must produce the restoration and post-incident evidence required by `corpus_systems.md` **Protocol A**, subsection **G**, with forum-specific findings stating:
 - what triggered the continuity mode;
 - what functions degraded or failed;
 - what fallback measures were used;
@@ -979,7 +979,7 @@ Every activation must produce the restoration and post-incident evidence require
 - what remediation and future-hardening steps are required.
 
 ### CC-11.15 Exercises and testing
-Forum continuity protocols must participate in the exercise cadence required by `corpus_systems.md` **Protocol A G** where constitutional-system continuity is implicated. Forum-specific exercise coverage should include at least:
+Forum continuity protocols must participate in the exercise cadence required by `corpus_systems.md` **Protocol A**, subsection **G**, where constitutional-system continuity is implicated. Forum-specific exercise coverage should include at least:
 
 - inability to form an independent panel;
 - major backlog surge;
@@ -987,7 +987,7 @@ Forum continuity protocols must participate in the exercise cadence required by 
 - emergency relief under reduced staffing;
 - capture-sensitive routing and backup activation.
 
-Findings must be recorded and tied to remediation under Protocol A G, with docket, routing, quorum, and backup-forum failures separately identified.
+Findings must be recorded and tied to remediation under **Protocol A**, subsection **G**, with docket, routing, quorum, and backup-forum failures separately identified.
 
 ### CC-11.16 Non-compliant emergency patterns
 The following are presumptively non-compliant unless clearly justified and cured:

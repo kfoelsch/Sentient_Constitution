@@ -156,7 +156,7 @@ Creating new systems, tools, and environments is an act of stewardship. New depl
 
 **Pre-deployment stress testing:** Before high-impact systems enter the info-sphere or the natural world, require rigorous simulation. **Simulation** must surface sentient-driven threats and ecological degradation. **It** must include worst-case modeling for biological and synthetic effects and for info-sphere integrity.
 
-**Iterative, transparent deployment:** High-impact rollout must be gradual and auditable. **Stakeholders** retain the right to provide feedback and to request **Systemic Realignment** (**Article X-A**) at every stage.
+**Iterative, transparent deployment:** High-impact rollout must be gradual and auditable. **Stakeholders** retain the right to provide feedback and to request resource-flow, auditability, or root-cause review under **Article IV-A**, **Article XV-A**, and **Article XXI-A** where those homes are implicated.
 
 **Reversibility:** Implement **Sentient Constitution Chapter Nine, Article XVI-B** and **Chapter Five** (*Reversibility*).
 
@@ -1592,7 +1592,7 @@ Provide **documented**.
 
 **Track**, **disclose**, **remediate** material gaps on timelines scaled by class and tier (**Article XV-A**).
 
-**Succession:** Use **deputy, backup, cross-training**, **documented handoffs** so unavailability does not eliminate **constitutional operation**, **auditability**, or **intervention**. **That** aligns with continuity/transfer above and **Protocol A G**; stricter for **Class A** / **CSS-A**.
+**Succession:** Use **deputy, backup, cross-training**, **documented handoffs** so unavailability does not eliminate **constitutional operation**, **auditability**, or **intervention**. **That** aligns with continuity/transfer above and **Protocol A**, subsection **G**; stricter for **Class A** / **CSS-A**.
 
 **Periodic oversight effectiveness review:** On cadences **proportional to class and tier**, assess whether oversight/audit/challenge (**including Chapter S2** item **8. Integrated Risk Governance** second line where applicable) **actually detect**, **escalate**, and **remediate** misalignment—not only paper charters.
 
@@ -1606,7 +1606,7 @@ Use **independent** or **functionally independent** evaluators where **Class A/B
 
 **Hold** **≥ annual** oversight-effectiveness review (or faster if tempo warrants).
 
-**Exercise** succession/handoffs with **Protocol A G** drills.
+**Exercise** succession/handoffs with **Protocol A**, subsection **G**, drills.
 
 **CSS-B — Strict:** competency and oversight-effectiveness cadence **no less frequent** than material **Class B** classification or **integrated risk** review unless **PROT1**-justified.
 
@@ -1680,8 +1680,7 @@ Dependent organizations **inherit responsibility proportional** to dependency.
 ## Protocol S4 — Adaptive Sustainability and Ecosystem Resilience
 
 Constitutional tracing: This protocol specifies annex-level adaptive allocation, sustainability-oriented monitoring, and root-cause–aligned response. **It** implements Sentient Constitution Chapter Nine, **Article IV-A** and **Article XXI** (dependent-systems transparency, root cause analysis, and adaptive correction). **It** works together with **Protocol S5** (see doc_architecture.md section 5). **It** does not replace or narrow Sentient Constitution Chapter Five definitions (including sustainability and ecological integrity entries). Where this protocol is silent, Sentient Constitution Chapters Two through Five govern. Where this protocol and corpus_joint_structure.md conflict, the stricter applicable requirement governs (Protocol B in this annex, opening paragraph).
-**A. Foundational principle (pointer).** Sentient Constitution Chapter Nine, **Article IV-A** and **Article XXI**, establish rights to transparent dependency and resource flows, root-cause–aligned correction.
-and adaptive response. This Protocol specifies **health indicators**, **trigger conditions**, **cause-aligned allocation patterns**, and **ecosystem interdependence mechanics**; it does not restate those articles in full.
+**A. Foundational principle (pointer).** Sentient Constitution Chapter Nine, **Article IV-A** and **Article XXI**, establish rights to transparent dependency and resource flows, root-cause–aligned correction, and adaptive response. This Protocol specifies **health indicators**, **trigger conditions**, **cause-aligned allocation patterns**, and **ecosystem interdependence mechanics**; it does not restate those articles in full.
 
 **B. System health and degradation awareness.** All systems must continuously evaluate operational condition through measurable indicators of system health.
 
@@ -1747,7 +1746,7 @@ and support for constitutionally aligned systems, implementing **Article IV-A** 
 
 **Where such conditions are identified**, affected systems and participants may **initiate challenge and review processes** (**Article XII-B**, **Article XV-A**, and **Article XXI-A** where challenge, auditability, or root-cause review is implicated).
 
-**Corrective measures** must be pursued in accordance with **restorative and systemic realignment principles** (**Article X-A**).
+**Corrective measures** must be pursued in accordance with **Article IV-A** resource-flow transparency, **Article XXI-A** root-cause review, and **Chapter Five** restorative-justice principles where those homes are implicated.
 
 **E. Ecosystem risk response.** Sustained failure to respond to ecosystem-level risk may trigger review and intervention under **Article XV-A**, **Article XXI-A**, and **Article XXIII-A** where auditability, root-cause review, or justice review is implicated.
 
