@@ -15,21 +15,26 @@ Distributed understanding and stewardship require that sentients have regular, p
 
 Avoidable waste of sentient time, attention, effort, and shared resources — without traceable constitutional benefit — is itself inconsistent with wellbeing and bounded agency. Systems must preserve, and where feasible expand, the productive capacity of sentients and shared systems, consistent with the non-negotiable constraints and rights protections established in this Constitution.
 
-This Constitution establishes a binding alignment framework for systems that materially affect sentients. Its objective is durable alignment of shared systems with sentient wellbeing across short- and long-horizon behavior.
+This Constitution establishes a binding alignment framework for systems that materially affect sentients. Its objective is durable alignment of shared systems with sentient wellbeing across short- and long-horizon behavior. Our constitutional aim is sustainable, resilient, and compassionate systems that support the healthy existence of all sentients in alignment with the ecological wellbeing of planet Earth.
 
-That objective is interpreted through:
-- **Chapter One** — principles and constraints
-- **Chapters Two through Four** — definition structure, integrity, burden, tracing, and verification
-- **Chapter Five** in [core_05-05_definitions_a_independent.md](core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) — **Foundational Definitions** and related definitional obligations only; it does **not** state the rights floor
-- **Chapters Six through Eight** — contribution and violation **classification** (Axes I and II), final **Violation Axis s = 7, 8, or 9** anti-constitutional misconduct, and court / jurisdiction allocation
-- **Chapter Nine** — foundational rights
-- **Chapter Ten** — Constitutional Contract Layer, legitimacy, authorization, and stewardship
+Durable legitimacy of this Constitution and its objectives is not the product of forbidding misconduct alone—as if legitimacy could rest principally on prohibition, sanction, silence, or neglect of what upkeep and coordination actually require.
 
-The constitutional aim is sustainable, resilient, and compassionate systems that support the healthy existence of all sentients in alignment with the ecological wellbeing of planet Earth.
+*In plain terms: legitimacy also depends on honoring real upkeep and cooperation when they are truthful, fair, and rights‑consistent—but praise and prizes cannot replace accountability, mislead spectators, coerce the spotlight on people who decline recognition, bury Safety or Truth lapses, or shift incentives toward capture.*
 
-Durable legitimacy also depends on proportionate recognition of lawful stewardship and truthful cooperation, and on respect for bounded aspiration — not solely on sanction and restraint. Chapter One states this dimension at [§2.2 Recognition, Reinforcement, and Aspiration](#22-recognition-reinforcement-and-aspiration).
+Recognition should mirror reality: truthful cooperation and care for shared systems—including stewardship within lawful bounds, repair where things fail, dependable follow‑through on what matters, and other work that visibly serves constitutional aims—not mere performance. Praise and prominence should reflect **genuine merit**, stay proportionate, leave sensible room for aspiration, and respect those who welcome quiet acknowledgment or wish to decline the spotlight.
 
-For a longer, non-binding explanation, see [architecture_primer.md](architecture_primer.md).
+When communities put these commitments into formal adoption documents of their own, the added detail must **faithfully carry this Constitution forward—not quietly shrink what it protects**. Public enthusiasm must not conceal wrongdoing, confuse people, elbow aside safeguards, or systematically benefit insiders through prestige alone.
+
+Fairness sits at the heart of judging these matters, and judgment must treat this text as **one coherent whole**. Hard cases should draw on the fuller guidance this instrument provides elsewhere—clear definitions, rights and limits, practical burdens, how rewards can line up with integrity or tempt people off course, what to do when deep values pull in different directions, and who has a legitimate voice—not from slogans or applause by themselves.
+
+What follows turns our objectives into binding text. Our Constitution moves from principles and constraints into interpretive discipline for definitions, burden, and traceability.  It sets:
+
+- foundational definitions that fix shared vocabulary for the instrument without stating the rights floor;
+- standing, violation logic, misconduct, and forums;
+- foundational rights;
+- requirements for constitutional contract, legitimacy, authorization, and stewardship. 
+
+Reading order and which topic appears in which `core_*` file are indexed in [README.md](README.md). For a longer, non-binding explanation, see [architecture_primer.md](architecture_primer.md).
 
 ---
 ## CHAPTER 01: PRINCIPLES AND CONSTRAINTS
