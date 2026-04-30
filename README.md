@@ -63,7 +63,15 @@ The **structure map** ([doc_architecture.md](doc_architecture.md)) and corpus cr
 
 The constitutional corpus is intentionally written in plain language with low jargon to improve accessibility, audit readability, and practical adoption testing.
 
-**Review modes:** `make regression` / `make regression-full` run automated repository integrity checks. `make best-practices-check` runs the benchmark-style governance review defined in `implementation/BEST_PRACTICES_CHECK_STANDARD_2026-04-12.md`.
+**License:** [LICENSE](LICENSE) (Creative Commons Attribution 4.0 International).
+
+**Review modes:** `make regression` is the **blocking** integrity gate before publication cuts (reference audit, scenario matrix, markdown corpus audit, Chapter Five tooling stack, prose continuity, lexical vocabulary). `make regression-full` also runs `readability-audit`; it currently reports **`very-long-sentence`** hotspots (dense definitional cross-links and lists—especially in Chapter One) and **does not pass** until those editorial passes land—see `tools/readability_audit.py` and `READABILITY_MAX_GRADE` in the [Makefile](Makefile). `make best-practices-check` runs the benchmark-style governance review defined in `implementation/BEST_PRACTICES_CHECK_STANDARD_2026-04-12.md` (informational gap matrix, not a blocking regression gate).
+
+**GitHub publication checklist (operator):**
+1. Confirm **Corpus edition** / **Effective date** stamps match [README.md](README.md) and [architecture_adoption_appendix.md](architecture_adoption_appendix.md) section **17**.
+2. Run **`make regression`** (expect **PASS**); optionally run **`make best-practices-check`**.
+3. Human read-through in corpus order: [architecture_primer.md](architecture_primer.md), then Chapters **1**→**14** per the chapter list above, then companion files as needed.
+4. Tag the release (example): `git tag -a SC-Corpus-2026.04.32 -m "Public corpus cut"` and push tags; attach an evidence packet per appendix section **17** if adopters require custody artifacts. The `evidence/` directory remains tracked as dated assurance and drill history.
 
 **Markdown preview (Cursor / VS Code):** Put a **blank line before** `---` when you mean a horizontal rule between sections.
 
@@ -72,12 +80,11 @@ If `---` sits directly under a paragraph, CommonMark-style parsers may treat tha
 Related documents (same corpus):
 
 - **corpus_systems.md** — operational taxonomies and protocols. Coverage includes data types (**Chapter S1**), system classes and dependency types (**Chapter S2**), steward tiers (**Chapter S3**), and companion protocols.
-- **corpus_joint_structure.md** — **Implementation Groups One through Four** (Meta-Integrity, Presentation, Architecture, governance implementation labels).
+- **corpus_joint_structure.md** — **Implementation Groups One through Four** (Meta-Integrity, Presentation, Architecture, governance implementation labels) and cross-companion joint structural rules and integration interfaces among implementation labels, systems, institutions, and forums.
 - **corpus_institutions.md** — binding incorporated institutional law for governance architecture, oversight and assurance structure, proportionality-scaled formation and operation, and institutional sanctions/dissolution pathways.
 - **corpus_forum.md** — forum-operational doctrine for panel formation, recusal, review lanes, forensic and investigative support, technical specialist forums, performance requirements, and continuity / emergency adjudication.
-- **corpus_joint_structure.md** — cross-companion joint structural rules and integration interfaces among implementation labels, systems, institutions, and forums.
 
-**Incorporation rule:** Obligations in **corpus_joint_structure.md**, **corpus_systems.md**, **corpus_institutions.md**, **corpus_forum.md**, and **corpus_joint_structure.md** are **binding implementation text incorporated by reference** into the corpus. They do **not** create a second constitutional source.
+**Incorporation rule:** Obligations in **corpus_joint_structure.md**, **corpus_systems.md**, **corpus_institutions.md**, and **corpus_forum.md** are **binding implementation text incorporated by reference** into the corpus. They do **not** create a second constitutional source.
 
 Sentient Constitution **Chapter Fourteen** in `core_14-14_incorporation.md` is the **constitutional incorporation bridge**. It defines binding incorporated implementation text, adoption and custody, and the no-silent-drift rule. **§4 Adoption framing and scope of authority** of Chapter Fourteen states the instrument's own adoption-framing self-description: the Sentient Constitution is an **aspirational model constitutional instrument** whose substantive content (principles, definitions, rights floor, and other substantive chapters) stands as stated regardless of adoption, but whose **operative enforcement effect** within any jurisdiction, federation, polity, organization, system, or adopter body is contingent on valid adoption under **Chapter Thirteen** and **Chapter Fourteen**. "The instrument lacks jurisdiction" is not a substantive rebuttal of the instrument's content; it is only a correct statement about operative enforcement against a non-adopter.
 
@@ -85,7 +92,7 @@ Sentient Constitution **Chapter Fourteen** in `core_14-14_incorporation.md` is t
 
 Quick authority order:
 - **Binding constitutional source:** the numbered `core_*` Sentient Constitution files read together as one instrument (`core_00-01_principles.md` through `core_14-14_incorporation.md`).
-- **Binding incorporated implementation source:** designated obligations in `corpus_joint_structure.md`, `corpus_systems.md`, `corpus_institutions.md`, `corpus_forum.md`, and `corpus_joint_structure.md` within valid adoption scope.
+- **Binding incorporated implementation source:** designated obligations in `corpus_joint_structure.md`, `corpus_systems.md`, `corpus_institutions.md`, and `corpus_forum.md` within valid adoption scope.
 - **Process/map support (non-constitutional):** `doc_architecture.md`, `TODO.md`, regression and evidence artifacts unless explicitly incorporated by valid adopting instrument.
 - **Conflict order:** Sentient Constitution meaning controls. Use the **Authority Stack and Internal Hierarchy** cluster in Chapter Five to distinguish source-layer status from last-resort interpretive hierarchy. Incorporated and process layers must satisfy, not narrow, Sentient Constitution constraints.
 

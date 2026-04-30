@@ -639,4 +639,4 @@ Any review-trigger, escalation-trigger, or referral-trigger language in this cha
 
 ---
 
-*Corpus alignment:* edition `SC-Corpus-2026.04.29`, effective **2026-04-17**; canonical mapping in [doc_architecture.md](doc_architecture.md) **section 17**.
+*Corpus alignment:* edition `SC-Corpus-2026.04.32`, effective **2026-04-24**; canonical mapping in [doc_architecture.md](doc_architecture.md) **section 17**.

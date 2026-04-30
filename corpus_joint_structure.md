@@ -1,7 +1,7 @@
 # Constitutional joint structure
 
-**Corpus edition:** `SC-Corpus-2026.04.30`  
-**Effective date:** 2026-04-18  
+**Corpus edition:** `SC-Corpus-2026.04.32`  
+**Effective date:** 2026-04-24  
 *(Edition alignment: same labels as the Sentient Constitution numbered `core_*.md` files (see [README.md](README.md)), `core_05-05_definitions_a_independent.md`, `corpus_systems.md`, `corpus_institutions.md`, and `corpus_forum.md`.)*
 
 This file is intentionally written in plain language with low jargon to improve accessibility, audit readability, and practical adoption testing.
@@ -1737,4 +1737,4 @@ For collective-choice procedure, entitlement, records, gates, method neutrality,
 
 `doc_architecture.md` remains the **editorial map** and **placement guide**. **`corpus_joint_structure.md`** holds **binding joint structural** text within **Corpus** as designated in **Chapter Five** and incorporated through **Chapter Fourteen**.
 
-*Corpus alignment:* edition `SC-Corpus-2026.04.30`, effective **2026-04-18**; canonical mapping in [doc_architecture.md](doc_architecture.md) **section 17**.
+*Corpus alignment:* edition `SC-Corpus-2026.04.32`, effective **2026-04-24**; canonical mapping in [doc_architecture.md](doc_architecture.md) **section 17**.

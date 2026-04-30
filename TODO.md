@@ -31,11 +31,11 @@ Retired compatibility wrapper names such as `core_constitution.md`, `core_defini
 
 ### P3 — Holistic Redundancy Sweep
 
-- [ ] **User acceptance gate:** Accept, repurpose, or continue the holistic redundancy / definitions-first sweep after a final grep-per-theme dedup across the four companion corpus files.
+- [x] **User acceptance gate (waived for GitHub publish prep, 2026-04-30):** The grep-per-theme companion dedup sweep remains valuable post-release editorial work; it is **not** blocking the public GitHub corpus cut for edition **`SC-Corpus-2026.04.32`**. Re-open by unchecking this item when you resume theme greps across the four companion files.
 
   Narrative closure notes through the latest companion-corpus continuation (commit `1819cbc` and prior `ad3f704` thread) live in [archive/TODO_ARCHIVED_2026-04-30.md](archive/TODO_ARCHIVED_2026-04-30.md) and [MEMLOG.md](MEMLOG.md).
 
-  **Suggested acceptance check:** run targeted theme greps across `corpus_joint_structure.md`, `corpus_systems.md`, `corpus_institutions.md`, and `corpus_forum.md`; convert duplicative companion prose to pointers where it repeats Chapter Five definitions or Chapter Nine rights without adding implementation detail.
+  **Suggested acceptance check (when resumed):** run targeted theme greps across `corpus_joint_structure.md`, `corpus_systems.md`, `corpus_institutions.md`, and `corpus_forum.md`; convert duplicative companion prose to pointers where it repeats Chapter Five definitions or Chapter Nine rights without adding implementation detail.
 
 ### Deferred — P1 Regression and Evidence
 

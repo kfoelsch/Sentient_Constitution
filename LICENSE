@@ -1,0 +1,7 @@
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+The Markdown corpus in this repository—the numbered Sentient Constitution files (`core_*.md`), designated companion corpus files (`corpus_joint_structure.md`, `corpus_systems.md`, `corpus_institutions.md`, `corpus_forum.md`), and repository documentation that describes them—is licensed under the Creative Commons Attribution 4.0 International License.
+
+To view a copy of this license, visit https://creativecommons.org/licenses/by/4.0/
+
+Supporting automation under `tools/` is offered under the same license unless a file header states otherwise.
