@@ -80,7 +80,7 @@ MISSING_C = {
     "sentience-non-exclusion",
 }
 
-# Title anchor remains an alphabetical stub; O/E/C bullets live under the
+# Title anchor remains a directory/reader aid; O/E/C bullets live under the
 # Self-Determination cluster with explicit -o / -e / -c anchors.
 STUB_CLUSTER_OEC = {
     "educational-agency",

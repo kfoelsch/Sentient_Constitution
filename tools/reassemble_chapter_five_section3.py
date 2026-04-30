@@ -39,8 +39,7 @@ MAP_OUT = ROOT / "implementation" / "CHAPTER_FIVE_OLD_TO_NEW_MAP.md"
 # Stable cluster anchor immediately before each #### heading (plan: unchanged)
 ANCHOR_BY_TITLE: dict[str, str] = {
     "Accountability, Contestability, Adjudication and Dispute Resolution, Collective Accountability Failure, and Force Majeure": "accountability-contestability-and-collective-accountability-failure-cluster",
-    "Animal Life, Sentient Life, and Sentience Status": "animal-life-sentient-life-and-sentience-status-cluster",
-    "Assembly and Collective Organization": "assembly-and-collective-organization-cluster",
+        "Assembly and Collective Organization": "assembly-and-collective-organization-cluster",
     "Binding Stakeholder Choice": "binding-stakeholder-choice-cluster",
     "Bodily-Maintenance Access, Safe Conditions, Tenure Security, Environmental Preconditions, Cultural Continuity, Rest, and Anti-Displacement Floor": "safe-conditions-tenure-security-and-environmental-preconditions-cluster",
     "Capture, Resolution Integrity, and Anti-Capture": "capture-resolution-integrity-and-anti-capture-cluster",
@@ -54,13 +53,13 @@ ANCHOR_BY_TITLE: dict[str, str] = {
     "Forum Families and Dispute Routing": "forum-families-and-dispute-routing-cluster",
     "Governance Architecture, Oversight, Dependency, Decentralization, Concentration, Market Structure, and Exit-Path Integrity": "governance-architecture-oversight-decentralization-and-concentration-cluster",
     "Movement, Refuge, Non-Statelessness, and Exit Integrity": "movement-refuge-non-statelessness-and-exit-integrity-cluster",
-    "Privacy (Informational) — peer-level cluster head": "privacy-informational-cluster",
+    "Privacy (Informational)": "privacy-informational-cluster",
     "Protected Internal-State Boundary and Type-N Anti-Bypass": "protected-internal-state-boundary-and-type-n-anti-bypass-cluster",
     "Protected Reporting and Anti-Retaliation": "protected-reporting-and-anti-retaliation-cluster",
     "Proxy Integrity and Indicator-Reality Alignment": "proxy-integrity-and-indicator-reality-alignment-cluster",
     "Self-Determination, Meaningful Agency, Expression, Educational Agency, Reproductive Autonomy, and Volitional Integrity": "self-determination-and-meaningful-agency-cluster",
     "Stakeholder Status, Emergency, and Participation Weight": "stakeholder-status-emergency-and-participation-weight-cluster",
-    "Standing State, Contribution, and Violation": "standing-state-contribution-and-violation-cluster",
+    "Standing Inputs, Contribution State, and Violation Findings": "standing-state-contribution-and-violation-cluster",
     "Strategic Stewardship and Stewardship Defect": "strategic-stewardship-and-stewardship-defect-cluster",
     "Substantive and Procedural Fairness": "substantive-and-procedural-fairness-cluster",
     "Transparency, Auditability, and Verification": "transparency-auditability-and-verification-cluster",
@@ -295,7 +294,7 @@ def synth_bodily() -> str:
 - [Indigenous Continuity](#indigenous-continuity-constitutional), where materially implicated;
 - [Language, Culture, and Heritage](#language-culture-and-heritage-constitutional), where materially implicated.
 
-**Read-with definitions.** Apply [Ecological Integrity, Footprint, and Sustainability](#ecological-integrity-footprint-and-sustainability-cluster), [Movement, Refuge, Non-Statelessness, and Exit Integrity](#movement-refuge-non-statelessness-and-exit-integrity-cluster), [Meaningful Agency](#meaningful-agency), [Dependency](#dependency), [Procedural Fairness](#procedural-fairness-constitutional), [Necessity](#necessity), [Proportionality](#proportionality), [Dignity and Equal Moral Standing](#dignity-and-equal-moral-standing), and [Sentience Non-Exclusion](#sentience-non-exclusion) where materially implicated.
+**Read-with definitions.** Apply [Ecological Integrity, Footprint, and Sustainability](#ecological-integrity-footprint-and-sustainability-cluster), [Movement, Refuge, Non-Statelessness, and Exit Integrity](#movement-refuge-non-statelessness-and-exit-integrity-cluster), [Meaningful Agency](#meaningful-agency), [Dependency](#dependency), [Procedural Fairness](#procedural-fairness-constitutional), [Necessity](#necessity), [Proportionality](#proportionality), [Dignity and Equal Moral Standing](#dignity-and-equal-moral-standing), and [Sentience Non-Exclusion](core_05-05_definitions_b_semi_independent.md#sentience-non-exclusion) where materially implicated.
 
 **Joint invocation and anti-bypass.** Under §3.1, a matter within the admission scope must not be segmented into separate healthcare-access, safety, tenure, hosting, rest, environmental-precondition, cultural-continuity, or displacement questions in a way that satisfies one pathway while defeating the survival-scale continuity floor. Formal availability of a partial pathway is not sufficient where material interdependence requires joint satisfaction across the cluster members.
 """
@@ -339,7 +338,7 @@ def synth_creative_work() -> str:
 - [Productive Capacity](#productive-capacity-constitutional);
 - [Innovation Reward and Anti-Enclosure](#innovation-reward-and-anti-enclosure), where materially implicated.
 
-**Read-with definitions.** Apply [Privacy (Informational) — peer-level cluster head](#privacy-informational-cluster), [Consent](#consent-constitutional), [Truth (Constitutional Constraint)](#truth-constitutional-constraint), [Good Faith](#good-faith), [Meaningful Agency](#meaningful-agency), [Collective Organization](#collective-organization-constitutional), and [Sentience Non-Exclusion](#sentience-non-exclusion) where materially implicated.
+**Read-with definitions.** Apply [Privacy (Informational)](#privacy-informational-cluster), [Consent](#consent-constitutional), [Truth (Constitutional Constraint)](#truth-constitutional-constraint), [Good Faith](#good-faith), [Meaningful Agency](#meaningful-agency), [Collective Organization](#collective-organization-constitutional), and [Sentience Non-Exclusion](core_05-05_definitions_b_semi_independent.md#sentience-non-exclusion) where materially implicated.
 
 **Joint invocation and anti-bypass.** Under §3.1, a matter within the admission scope must not be segmented into separate privacy, consent, attribution, compensation, displacement, or innovation-reward issues in a way that satisfies one component while defeating materially interdependent duties under **Article VIII-D** and **Article III-D**.
 """
@@ -362,9 +361,9 @@ def synth_derived_developing() -> str:
 - [Instantiation Consent](#instantiation-consent-constitutional);
 - [Non-Separation](#non-separation-constitutional);
 - [Family and Care Relationships](#family-and-care-relationships-constitutional), where materially implicated;
-- [Animal Life, Sentient Life, and Sentience Status](#animal-life-sentient-life-and-sentience-status-cluster), where sentience-status or subclass routing is materially implicated.
+- [Animal Life, Sentient Life, Sentience Status, Derivation, and Development](core_05-05_definitions_b_semi_independent.md#animal-life-sentient-life-and-sentience-status-cluster), where sentience-status or subclass routing is materially implicated.
 
-**Read-with definitions.** Apply [Dignity and Equal Moral Standing](#dignity-and-equal-moral-standing), [Meaningful Agency](#meaningful-agency), [Sentience Non-Exclusion](#sentience-non-exclusion), [Sentience Status Adjudication](#sentience-status-adjudication-constitutional), [Procedural Fairness](#procedural-fairness-constitutional), [Reproductive Autonomy](#reproductive-autonomy-constitutional), and [Self-Determination, Meaningful Agency, Expression, Educational Agency, Reproductive Autonomy, and Volitional Integrity](#self-determination-and-meaningful-agency-cluster) where materially implicated.
+**Read-with definitions.** Apply [Dignity and Equal Moral Standing](#dignity-and-equal-moral-standing), [Meaningful Agency](#meaningful-agency), [Sentience Non-Exclusion](core_05-05_definitions_b_semi_independent.md#sentience-non-exclusion), [Sentience Status Adjudication](core_05-05_definitions_b_semi_independent.md#sentience-status-adjudication-constitutional), [Procedural Fairness](#procedural-fairness-constitutional), [Reproductive Autonomy](#reproductive-autonomy-constitutional), and [Self-Determination, Meaningful Agency, Expression, Educational Agency, Reproductive Autonomy, and Volitional Integrity](#self-determination-and-meaningful-agency-cluster) where materially implicated.
 
 **Joint invocation and anti-bypass.** Under §3.1, a matter within the admission scope must not be segmented into separate derivation, instantiation, care, custody, capability, or family-structure questions in a way that defeats best-interest, graduated-capability, non-separation, or sentience-status routing where those duties jointly apply.
 """
@@ -425,7 +424,7 @@ def synth_use_of_force() -> str:
 - [Irreversible Sanction](#irreversible-sanction-constitutional), for non-conflation discipline with **Article XXIII-B**;
 - [Coercion and Manipulation](#coercion-and-manipulation-constitutional), where autonomous coercion tools materially implicate manipulation pathways.
 
-**Read-with definitions.** Apply [Necessity](#necessity), [Proportionality](#proportionality), [Reversibility](#reversibility-constitutional), [Redress and Remediation](#redress-and-remediation-constitutional), [Existential Risk](#existential-risk), [Safety (Constraint)](#safety-constraint), [Adversarial, Scaled, and Exploited Conditions](#adversarial-scaled-and-exploited-conditions), and [Sentience Non-Exclusion](#sentience-non-exclusion) where materially implicated.
+**Read-with definitions.** Apply [Necessity](#necessity), [Proportionality](#proportionality), [Reversibility](#reversibility-constitutional), [Redress and Remediation](#redress-and-remediation-constitutional), [Existential Risk](#existential-risk), [Safety (Constraint)](#safety-constraint), [Adversarial, Scaled, and Exploited Conditions](#adversarial-scaled-and-exploited-conditions), and [Sentience Non-Exclusion](core_05-05_definitions_b_semi_independent.md#sentience-non-exclusion) where materially implicated.
 
 **Joint invocation and anti-bypass.** Under §3.1, a matter within the admission scope must not be segmented into separate authorization, targeting, weapons-class, autonomy, coercion, or review questions in a way that satisfies one component while defeating materially interdependent force, discrimination, autonomy-control, or non-conflation duties.
 """
@@ -463,13 +462,13 @@ SYNTH = {
     "Forum Families and Dispute Routing": synth_forum_families,
     "Governance Architecture, Oversight, Dependency, Decentralization, Concentration, Market Structure, and Exit-Path Integrity": synth_governance_arch,
     "Movement, Refuge, Non-Statelessness, and Exit Integrity": synth_movement_refuge,
-    "Privacy (Informational) — peer-level cluster head": synth_privacy_peer,
+    "Privacy (Informational)": synth_privacy_peer,
     "Protected Internal-State Boundary and Type-N Anti-Bypass": synth_protected_internal_type_n,
     "Protected Reporting and Anti-Retaliation": synth_protected_reporting,
     "Proxy Integrity and Indicator-Reality Alignment": synth_proxy_integrity,
     "Self-Determination, Meaningful Agency, Expression, Educational Agency, Reproductive Autonomy, and Volitional Integrity": synth_self_determination,
     "Stakeholder Status, Emergency, and Participation Weight": synth_stakeholder_emergency_weight,
-    "Standing State, Contribution, and Violation": synth_standing_contribution_violation,
+    "Standing Inputs, Contribution State, and Violation Findings": synth_standing_contribution_violation,
     "Strategic Stewardship and Stewardship Defect": synth_strategic_stewardship,
     "Substantive and Procedural Fairness": synth_substantive_procedural_fairness,
     "Transparency, Auditability, and Verification": transparency_cluster_from_copy,

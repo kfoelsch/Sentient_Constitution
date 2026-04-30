@@ -40,7 +40,7 @@ Where wording outside the canonical home appears to broaden, narrow, substitute 
 
 > This directory is **reader guidance only**. It does not add, remove, reorder, or narrow binding obligations in this chapter. Operative meaning remains in the definition entries below.
 
-The list below merges the former independent, semi-independent, and dependent-cluster directory buckets into **one alphabetical lookup**. Targets identify the canonical Chapter Five path: same-file anchors are **section 1 — Independent Definitions**; links into [core_05-05_definitions_b_semi_independent.md](core_05-05_definitions_b_semi_independent.md) are **section 2 — Semi-independent Definitions** (including cross-file routes to Part C stubs where the directory names them); links into [core_05-05_definitions_c_dependent_clusters.md](core_05-05_definitions_c_dependent_clusters.md) are **section 3** cluster heads (or as labeled). Entries in **section 1** ordinarily omit a `cluster component` pointer in this directory; **Trace** blocks may still carry **`Cluster component`** lines where a §3 joint-invocation cluster applies. Where the same display title appears twice, both links are intentional (for example stub versus cluster head). Joint-satisfaction rules for dependent clusters are stated in **section 3**.
+The list below merges the former independent, semi-independent, and dependent-cluster directory buckets into **one alphabetical lookup**. Targets identify the canonical Chapter Five path: same-file anchors are **section 1 — Independent Definitions**; links into [core_05-05_definitions_b_semi_independent.md](core_05-05_definitions_b_semi_independent.md) are **section 2 — Semi-independent Definitions** and reader-facing semi-independent definition families; links into [core_05-05_definitions_c_dependent_clusters.md](core_05-05_definitions_c_dependent_clusters.md) are **section 3** dependent cluster heads (or as labeled). Entries in **section 1** ordinarily omit a `cluster component` pointer in this directory; **Trace** blocks may still carry **`Cluster component`** lines where a §3 joint-invocation cluster applies. Where the same display title appears twice, both links are intentional where a term and a cluster have distinct reader functions. Joint-satisfaction rules for dependent clusters are stated in **section 3**.
 
 <a id="independent-definitions-a-z"></a>
 <a id="semi-independent-definitions-a-z"></a>
@@ -55,7 +55,8 @@ The list below merges the former independent, semi-independent, and dependent-cl
 - [Adjudication and Dispute Resolution](core_05-05_definitions_b_semi_independent.md#adjudication-and-dispute-resolution-constitutional)
 - [Adjudication and Dispute Resolution](core_05-05_definitions_c_dependent_clusters.md#adjudication-redress-restorative-review-correction-and-refuge-cluster)
 - [Adversarial, Scaled, and Exploited Conditions](#adversarial-scaled-and-exploited-conditions)
-- [Animal Life, Sentient Life, and Sentience Status](core_05-05_definitions_c_dependent_clusters.md#animal-life-sentient-life-and-sentience-status-cluster)
+- [Animal Life, Sentient Life, Sentience Status, Derivation, and Development](core_05-05_definitions_b_semi_independent.md#animal-life-sentient-life-and-sentience-status-cluster)
+- [Animal Life](core_05-05_definitions_b_semi_independent.md#animal-life-constitutional)
 - [Anti-Displacement Floor](core_05-05_definitions_b_semi_independent.md#anti-displacement-floor-constitutional)
 - [Assembly](core_05-05_definitions_b_semi_independent.md#assembly-constitutional)
 - [Assembly and Collective Organization](core_05-05_definitions_c_dependent_clusters.md#assembly-and-collective-organization-cluster)
@@ -92,6 +93,7 @@ The list below merges the former independent, semi-independent, and dependent-cl
 - [Constitutional Emergency and Contingency](core_05-05_definitions_b_semi_independent.md#constitutional-emergency-and-contingency)
 - [Constitutional Emergency and Contingency](core_05-05_definitions_c_dependent_clusters.md#emergency-and-contingency-cluster)
 - [Contestability](core_05-05_definitions_b_semi_independent.md#contestability)
+- [Contested-Sentient Life](core_05-05_definitions_b_semi_independent.md#contested-sentient-life-constitutional)
 - [Contingent Claim](#contingent-claim)
 - [Contingent Claim, Event-Contract Market, and Game of Chance](core_05-05_definitions_c_dependent_clusters.md#contingent-claim-event-contract-market-and-game-of-chance-cluster)
 - [Contribution State](core_05-05_definitions_b_semi_independent.md#contribution-state)
@@ -120,7 +122,7 @@ The list below merges the former independent, semi-independent, and dependent-cl
 - [Event-Contract Market](#event-contract-market)
 - [Event-Contract Market](core_05-05_definitions_c_dependent_clusters.md#contingent-claim-event-contract-market-and-game-of-chance-cluster)
 - [Existential Risk](#existential-risk)
-- [Expression](core_05-05_definitions_c_dependent_clusters.md#expression-constitutional)
+- [Expression](core_05-05_definitions_b_semi_independent.md#expression-constitutional)
 - [Expression](core_05-05_definitions_c_dependent_clusters.md#info-sphere-expression-press-journalistic-activity-and-good-faith-cluster)
 - [Fair Compensation](core_05-05_definitions_b_semi_independent.md#fair-compensation-constitutional)
 - [Family and Care Relationships](core_05-05_definitions_b_semi_independent.md#family-and-care-relationships-constitutional)
@@ -143,8 +145,8 @@ The list below merges the former independent, semi-independent, and dependent-cl
 - [Incentive Alignment](#incentive-alignment)
 - [Incentive Alignment](core_05-05_definitions_c_dependent_clusters.md#governance-architecture-oversight-decentralization-and-concentration-cluster)
 - [Indigenous Continuity](core_05-05_definitions_b_semi_independent.md#indigenous-continuity-constitutional)
-- [Indigenous Continuity, Language Culture and Heritage, Natural Systems Standing, and Intergenerational Responsibility](core_05-05_definitions_c_dependent_clusters.md#indigenous-heritage-natural-standing-and-intergenerational-cluster)
-- [Info-Sphere, Expression, Press and Journalistic Activity, and Good Faith (Publication-Scoped Integrity)](core_05-05_definitions_c_dependent_clusters.md#info-sphere-expression-press-journalistic-activity-and-good-faith-cluster)
+- [Indigenous Continuity, Language, Culture, and Heritage, Natural Systems Standing, and Intergenerational Responsibility](core_05-05_definitions_c_dependent_clusters.md#indigenous-heritage-natural-standing-and-intergenerational-cluster)
+- [Info-Sphere, Expression, Press and Journalistic Activity, and Publication-Scoped Good Faith](core_05-05_definitions_c_dependent_clusters.md#info-sphere-expression-press-journalistic-activity-and-good-faith-cluster)
 - [Info-Sphere](#info-sphere)
 - [Info-Sphere](core_05-05_definitions_c_dependent_clusters.md#info-sphere-expression-press-journalistic-activity-and-good-faith-cluster)
 - [Instantiation Consent](core_05-05_definitions_b_semi_independent.md#instantiation-consent-constitutional)
@@ -180,7 +182,7 @@ The list below merges the former independent, semi-independent, and dependent-cl
 - [Press and Journalistic Activity](core_05-05_definitions_c_dependent_clusters.md#info-sphere-expression-press-journalistic-activity-and-good-faith-cluster)
 - [Publication and High-Impact Communication](core_05-05_definitions_c_dependent_clusters.md#publication-and-high-impact-communication)
 - [Privacy (Informational)](core_05-05_definitions_b_semi_independent.md#privacy-informational)
-- [Privacy (Informational) — peer-level cluster head](core_05-05_definitions_c_dependent_clusters.md#privacy-informational-cluster)
+- [Privacy (Informational)](core_05-05_definitions_c_dependent_clusters.md#privacy-informational-cluster)
 - [Procedural Fairness](core_05-05_definitions_b_semi_independent.md#procedural-fairness-constitutional)
 - [Productive Capacity](core_05-05_definitions_b_semi_independent.md#productive-capacity-constitutional)
 - [Proportionality](#proportionality)
@@ -206,7 +208,7 @@ The list below merges the former independent, semi-independent, and dependent-cl
 - [Resilience, Safety, Reversibility, Self-Healing, Cascading Failure, Existential Risk, Environmental Preconditions, and Wellbeing](core_05-05_definitions_c_dependent_clusters.md#resilience-safety-reversibility-self-healing-and-systemic-harm-cluster)
 - [Cascading Failure](core_05-05_definitions_c_dependent_clusters.md#resilience-safety-reversibility-self-healing-and-systemic-harm-cluster)
 - [Existential Risk](core_05-05_definitions_c_dependent_clusters.md#resilience-safety-reversibility-self-healing-and-systemic-harm-cluster)
-- [Environmental Preconditions](core_05-05_definitions_c_dependent_clusters.md#resilience-safety-reversibility-self-healing-and-systemic-harm-cluster)
+- [Environmental Preconditions](core_05-05_definitions_b_semi_independent.md#environmental-preconditions-constitutional)
 - [Safety (Constraint)](core_05-05_definitions_c_dependent_clusters.md#resilience-safety-reversibility-self-healing-and-systemic-harm-cluster)
 - [Self-Healing](core_05-05_definitions_c_dependent_clusters.md#resilience-safety-reversibility-self-healing-and-systemic-harm-cluster)
 - [Wellbeing](core_05-05_definitions_c_dependent_clusters.md#resilience-safety-reversibility-self-healing-and-systemic-harm-cluster)
@@ -218,6 +220,10 @@ The list below merges the former independent, semi-independent, and dependent-cl
 - [Safe Conditions](core_05-05_definitions_b_semi_independent.md#safe-conditions-constitutional)
 - [Safety (Constraint)](#safety-constraint)
 - [Self-Determination](core_05-05_definitions_c_dependent_clusters.md#self-determination-constitutional)
+- [Sentient](core_05-05_definitions_b_semi_independent.md#sentient)
+- [Sentience Evaluation](core_05-05_definitions_b_semi_independent.md#sentience-evaluation-e)
+- [Sentience Non-Exclusion](core_05-05_definitions_b_semi_independent.md#sentience-non-exclusion)
+- [Sentience Status Adjudication](core_05-05_definitions_b_semi_independent.md#sentience-status-adjudication-constitutional)
 - [Self-Determination, Meaningful Agency, Expression, Educational Agency, Reproductive Autonomy, and Volitional Integrity](core_05-05_definitions_c_dependent_clusters.md#self-determination-and-meaningful-agency-cluster)
 - [Self-Healing](#self-healing-constitutional)
 - [Stakeholder](core_05-05_definitions_b_semi_independent.md#stakeholder)
@@ -227,7 +233,7 @@ The list below merges the former independent, semi-independent, and dependent-cl
 - [Stakeholder Status, Emergency, and Participation Weight](core_05-05_definitions_c_dependent_clusters.md#stakeholder-status-emergency-and-participation-weight-cluster)
 - [Standing Cell](core_05-05_definitions_b_semi_independent.md#standing-cell-chapter-six)
 - [Standing Effect](core_05-05_definitions_b_semi_independent.md#standing-effect-chapter-six)
-- [Standing State, Contribution, and Violation](core_05-05_definitions_c_dependent_clusters.md#standing-state-contribution-and-violation-cluster)
+- [Standing Inputs, Contribution State, and Violation Findings](core_05-05_definitions_c_dependent_clusters.md#standing-state-contribution-and-violation-cluster)
 - [Stewardship Defect](core_05-05_definitions_b_semi_independent.md#stewardship-defect-constitutional)
 - [Strategic Stewardship and Stewardship Defect](core_05-05_definitions_c_dependent_clusters.md#strategic-stewardship-and-stewardship-defect-cluster)
 - [Strategic Stewardship Obligation](core_05-05_definitions_b_semi_independent.md#strategic-stewardship-obligation-constitutional)
@@ -297,7 +303,7 @@ Admission boundary for this section: Chapter Five entries define constitutional 
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Owner floor: [Article V-G](core_09-09_rights_part_b.md#article-v-g-accessibility). Cross-cutting evaluation-factor hook: [Chapter One §7.1](core_00-01_principles.md#71-required-evaluation-factors). Education-specific accessibility remains governed by [Article III-B](core_09-09_rights_part_a.md#article-iii-b-equal-educational-access) and is not narrowed by this entry.
-- Read with: [Protected Characteristics](core_05-05_definitions_b_semi_independent.md#protected-characteristics-constitutional), [Protected Characteristic Proxying and Disparate Impact](core_05-05_definitions_b_semi_independent.md#protected-characteristic-proxying-and-disparate-impact), [Substantive Fairness](core_05-05_definitions_b_semi_independent.md#substantive-fairness-constitutional), [Materiality](core_05-05_definitions_b_semi_independent.md#materiality-determination), [Dependency](#dependency), [Meaningful Agency](core_05-05_definitions_b_semi_independent.md#meaningful-agency), [Necessity](#necessity), [Proportionality](#proportionality), and [Sentience Non-Exclusion](core_05-05_definitions_c_dependent_clusters.md#sentience-non-exclusion).
+- Read with: [Protected Characteristics](core_05-05_definitions_b_semi_independent.md#protected-characteristics-constitutional), [Protected Characteristic Proxying and Disparate Impact](core_05-05_definitions_b_semi_independent.md#protected-characteristic-proxying-and-disparate-impact), [Substantive Fairness](core_05-05_definitions_b_semi_independent.md#substantive-fairness-constitutional), [Materiality](core_05-05_definitions_b_semi_independent.md#materiality-determination), [Dependency](#dependency), [Meaningful Agency](core_05-05_definitions_b_semi_independent.md#meaningful-agency), [Necessity](#necessity), [Proportionality](#proportionality), and [Sentience Non-Exclusion](core_05-05_definitions_b_semi_independent.md#sentience-non-exclusion).
 
 </details>
 
@@ -305,7 +311,7 @@ Admission boundary for this section: Chapter Five entries define constitutional 
 
 - O: The cross-cutting rights-floor concept securing accessible conditions for sentient participation in constitutionally relevant domains.
   - In scope — domains: governance, adjudication, operations, survival-floor and healthcare access, expression, assembly, press, stakeholder participation, and comparable domains.
-  - In scope — sentients under [Sentience Non-Exclusion](core_05-05_definitions_c_dependent_clusters.md#sentience-non-exclusion).
+  - In scope — sentients under [Sentience Non-Exclusion](core_05-05_definitions_b_semi_independent.md#sentience-non-exclusion).
   - In scope — access needs: sensory, cognitive, mobility, communication, substrate-interface, compute-interface, and comparable profiles, whether constant, episodic, or developmental.
   - Out of scope: ordinary default-affordance deployments that do not produce a participation-capacity gap.
   - Not narrowed here: domains owned elsewhere, notably [Article III-B](core_09-09_rights_part_a.md#article-iii-b-equal-educational-access) educational accessibility.
@@ -324,7 +330,7 @@ Admission boundary for this section: Chapter Five entries define constitutional 
   - accommodations that exist on paper but are operationally unreachable;
   - selective-[Materiality](core_05-05_definitions_b_semi_independent.md#materiality-determination) arguments used to scale accessibility below the floor in materially implicated contexts;
   - cost arguments that function as disguised exclusion contrary to [Substantive Fairness](core_05-05_definitions_b_semi_independent.md#substantive-fairness-constitutional) and [Protected Characteristics](core_05-05_definitions_b_semi_independent.md#protected-characteristics-constitutional);
-  - substrate-class exclusion from accessibility scope (independently non-compliant under [Sentience Non-Exclusion](core_05-05_definitions_c_dependent_clusters.md#sentience-non-exclusion)).
+  - substrate-class exclusion from accessibility scope (independently non-compliant under [Sentience Non-Exclusion](core_05-05_definitions_b_semi_independent.md#sentience-non-exclusion)).
 
 ---
 
@@ -357,7 +363,7 @@ Admission boundary for this section: Chapter Five entries define constitutional 
 
 - Downstream: Principles: [5.1 Productive Capacity (Instrumental Good)](core_00-01_principles.md#51-productive-capacity-instrumental-good), [6.1.4 Minimization of Avoidable Burden](core_00-01_principles.md#614-minimization-of-avoidable-burden), and [7.2.2 Stewardship and Operator Incentive Alignment](core_00-01_principles.md#722-stewardship-and-operator-incentive-alignment).
 - Stewardship integration: [Strategic Stewardship and Stewardship Defect](core_05-05_definitions_c_dependent_clusters.md#strategic-stewardship-and-stewardship-defect-cluster), where materially impactful governance responsibility, burden reduction, review, or correction is at issue.
-- Cluster component: [Chapter Five §3.27 *Proportionality, Necessity, Feasibility, Avoidable Burden, Burden-Reduction Duty, Constitutional Efficiency, Harm Minimization (Tradeoff Selection), and Productive Capacity*](core_05-05_definitions_c_dependent_clusters.md#proportionality-necessity-feasibility-burden-and-efficiency-cluster)
+- Cluster component: [Chapter Five §3.26 *Proportionality, Necessity, Feasibility, Avoidable Burden, Burden-Reduction Duty, Constitutional Efficiency, Harm Minimization (Tradeoff Selection), and Productive Capacity*](core_05-05_definitions_c_dependent_clusters.md#proportionality-necessity-feasibility-burden-and-efficiency-cluster)
 - Read with: [Proportionality](#proportionality), [Necessity](#necessity), [Feasibility](#feasibility), [Harm Minimization (Tradeoff Selection)](#harm-minimization-tradeoff-selection), [Productive Capacity](core_05-05_definitions_b_semi_independent.md#productive-capacity-constitutional), [Constitutional Efficiency](#constitutional-efficiency), and [Proxy Divergence](core_05-05_definitions_b_semi_independent.md#proxy-divergence).
 
 </details>
@@ -379,7 +385,7 @@ Admission boundary for this section: Chapter Five entries define constitutional 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Cluster component: [Chapter Five §3.23 *Material Impact, Materiality Determination, Classification-Scaled Governance, Oversight, and Capability Requirement*](core_05-05_definitions_c_dependent_clusters.md#materiality-classification-oversight-and-capability-cluster).
+- Cluster component: [Chapter Five §3.22 *Material Impact, Materiality Determination, Classification-Scaled Governance, Oversight, and Capability Requirement*](core_05-05_definitions_c_dependent_clusters.md#materiality-classification-oversight-and-capability-cluster).
 - Read with: [Material Impact](core_05-05_definitions_b_semi_independent.md#material-impact), [Transparency](core_05-05_definitions_c_dependent_clusters.md#transparency), and [System Boundaries](#system-boundaries).
 
 </details>
@@ -401,7 +407,7 @@ Admission boundary for this section: Chapter Five entries define constitutional 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Cluster component: [Chapter Five §3.32 *Resilience, Safety, Reversibility, Self-Healing, Cascading Failure, Existential Risk, Environmental Preconditions, and Wellbeing*](core_05-05_definitions_c_dependent_clusters.md#resilience-safety-reversibility-self-healing-and-systemic-harm-cluster)
+- Cluster component: [Chapter Five §3.31 *Resilience, Safety, Reversibility, Self-Healing, Cascading Failure, Existential Risk, Environmental Preconditions, and Wellbeing*](core_05-05_definitions_c_dependent_clusters.md#resilience-safety-reversibility-self-healing-and-systemic-harm-cluster)
 - Read with: [Dependency](#dependency), [Risk](#risk), and [System Boundary Integrity](#system-boundary-integrity).
 
 </details>
@@ -423,7 +429,7 @@ Admission boundary for this section: Chapter Five entries define constitutional 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Cluster component: [Chapter Five §3.23 *Material Impact, Materiality Determination, Classification-Scaled Governance, Oversight, and Capability Requirement*](core_05-05_definitions_c_dependent_clusters.md#materiality-classification-oversight-and-capability-cluster).
+- Cluster component: [Chapter Five §3.22 *Material Impact, Materiality Determination, Classification-Scaled Governance, Oversight, and Capability Requirement*](core_05-05_definitions_c_dependent_clusters.md#materiality-classification-oversight-and-capability-cluster).
 - Read with: [Dependency](#dependency), [Material Impact](core_05-05_definitions_b_semi_independent.md#material-impact), [Risk](#risk), [System Boundary Integrity](#system-boundary-integrity), and [Oversight](core_05-05_definitions_b_semi_independent.md#oversight-constitutional).
 
 </details>
@@ -445,7 +451,7 @@ Admission boundary for this section: Chapter Five entries define constitutional 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Read with: [Sentience Non-Exclusion](core_05-05_definitions_c_dependent_clusters.md#sentience-non-exclusion), [Dignity and Equal Moral Standing](#dignity-and-equal-moral-standing), and [Self-Determination](core_05-05_definitions_c_dependent_clusters.md#self-determination-constitutional).
+- Read with: [Sentience Non-Exclusion](core_05-05_definitions_b_semi_independent.md#sentience-non-exclusion), [Dignity and Equal Moral Standing](#dignity-and-equal-moral-standing), and [Self-Determination](core_05-05_definitions_c_dependent_clusters.md#self-determination-constitutional).
 
 </details>
 
@@ -453,9 +459,9 @@ Admission boundary for this section: Chapter Five entries define constitutional 
 
 - O: The collective of sentients governed by this Constitution. Chapter Nine rights and Article X-A cooperative norms apply within this constitutional community, consistent with [Dignity and Equal Moral Standing](#dignity-and-equal-moral-standing).
 <a id="constitutional-community-e"></a>
-- E: Interpretation must not narrow membership in ways that violate [Sentience Non-Exclusion](core_05-05_definitions_c_dependent_clusters.md#sentience-non-exclusion) or [Dignity and Equal Moral Standing](#dignity-and-equal-moral-standing).
+- E: Interpretation must not narrow membership in ways that violate [Sentience Non-Exclusion](core_05-05_definitions_b_semi_independent.md#sentience-non-exclusion) or [Dignity and Equal Moral Standing](#dignity-and-equal-moral-standing).
 <a id="constitutional-community-c"></a>
-- C: Denying constitutional protections to an entity that is a sentient, by arbitrary or discriminatory redefinition of community membership, is non-compliant under [Sentience Non-Exclusion](core_05-05_definitions_c_dependent_clusters.md#sentience-non-exclusion) and [Self-Determination](core_05-05_definitions_c_dependent_clusters.md#self-determination-constitutional).
+- C: Denying constitutional protections to an entity that is a sentient, by arbitrary or discriminatory redefinition of community membership, is non-compliant under [Sentience Non-Exclusion](core_05-05_definitions_b_semi_independent.md#sentience-non-exclusion) and [Self-Determination](core_05-05_definitions_c_dependent_clusters.md#self-determination-constitutional).
 
 ---
 
@@ -489,7 +495,7 @@ Admission boundary for this section: Chapter Five entries define constitutional 
 
 - Downstream: Principles: [Chapter 00 — Preamble / foundational requirements](core_00-01_principles.md#chapter-00-preamble--foundational-requirements) (*Constitutional Contract Layer* vs *Stakeholder System Participation*); [5. Governance Principle: Freedom](core_00-01_principles.md#5-governance-principle-freedom-bounded-agency).
 - Owner floor: [Chapter Ten: Constitutional Contract, Legitimacy, Authorization, and Stewardship](core_10-10_governance.md#chapter-ten-constitutional-contract-legitimacy-authorization-and-stewardship); [Article IX-C: Governance Participation and Voting Entitlement](core_09-09_rights_part_b.md#article-ix-c-governance-participation-and-voting-entitlement).
-- Cluster component: [Chapter Five §3.12 *Constitutional Contract Layer and Foundational Constitutional Choice*](core_05-05_definitions_c_dependent_clusters.md#constitutional-contract-layer-and-foundational-constitutional-choice-cluster)
+- Cluster component: [Chapter Five §3.11 *Constitutional Contract Layer and Foundational Constitutional Choice*](core_05-05_definitions_c_dependent_clusters.md#constitutional-contract-layer-and-foundational-constitutional-choice-cluster)
 - Read with: [Foundational Constitutional Choice](#foundational-constitutional-choice), [Binding Stakeholder Choice](core_05-05_definitions_c_dependent_clusters.md#binding-stakeholder-choice-cluster), [Stakeholder Status, Emergency, and Participation Weight](core_05-05_definitions_c_dependent_clusters.md#stakeholder-status-emergency-and-participation-weight-cluster), [Governance](core_05-05_definitions_b_semi_independent.md#governance).
 
 </details>
@@ -513,7 +519,7 @@ Admission boundary for this section: Chapter Five entries define constitutional 
 
 - Downstream: Principles: [5.1 Productive Capacity (Instrumental Good)](core_00-01_principles.md#51-productive-capacity-instrumental-good), [6.1.4 Minimization of Avoidable Burden](core_00-01_principles.md#614-minimization-of-avoidable-burden), and [7.2.2 Stewardship and Operator Incentive Alignment](core_00-01_principles.md#722-stewardship-and-operator-incentive-alignment).
 - Stewardship integration: [Strategic Stewardship and Stewardship Defect](core_05-05_definitions_c_dependent_clusters.md#strategic-stewardship-and-stewardship-defect-cluster), where materially impactful governance responsibility, burden reduction, review, or correction is at issue.
-- Cluster component: [Chapter Five §3.27 *Proportionality, Necessity, Feasibility, Avoidable Burden, Burden-Reduction Duty, Constitutional Efficiency, Harm Minimization (Tradeoff Selection), and Productive Capacity*](core_05-05_definitions_c_dependent_clusters.md#proportionality-necessity-feasibility-burden-and-efficiency-cluster)
+- Cluster component: [Chapter Five §3.26 *Proportionality, Necessity, Feasibility, Avoidable Burden, Burden-Reduction Duty, Constitutional Efficiency, Harm Minimization (Tradeoff Selection), and Productive Capacity*](core_05-05_definitions_c_dependent_clusters.md#proportionality-necessity-feasibility-burden-and-efficiency-cluster)
 - Read with: [Productive Capacity](core_05-05_definitions_b_semi_independent.md#productive-capacity-constitutional), [Avoidable Burden](#avoidable-burden), [Proportionality](#proportionality), [Necessity](#necessity), [Harm Minimization (Tradeoff Selection)](#harm-minimization-tradeoff-selection), [Proxy Divergence](core_05-05_definitions_b_semi_independent.md#proxy-divergence), and [Proxy Metric Gaming and Indicator-Reality Gaps](core_05-05_definitions_b_semi_independent.md#proxy-metric-gaming-and-indicator-reality-gaps).
 
 </details>
@@ -535,7 +541,7 @@ Admission boundary for this section: Chapter Five entries define constitutional 
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Downstream: Principles: [7.2.5 Contingent claims, games of chance, and event-contract markets](core_00-01_principles.md#725-contingent-claims-games-of-chance-and-event-contract-markets).
-- Cluster component: [Chapter Five §3.13 *Contingent Claim, Event-Contract Market, and Game of Chance*](core_05-05_definitions_c_dependent_clusters.md#contingent-claim-event-contract-market-and-game-of-chance-cluster)
+- Cluster component: [Chapter Five §3.12 *Contingent Claim, Event-Contract Market, and Game of Chance*](core_05-05_definitions_c_dependent_clusters.md#contingent-claim-event-contract-market-and-game-of-chance-cluster)
 - Read with: [Game of Chance](#game-of-chance), [Event-Contract Market](#event-contract-market), [Capture of Resolution Pathways](core_05-05_definitions_b_semi_independent.md#capture-of-resolution-pathways), [Incentive Alignment](#incentive-alignment), [Risk](#risk), [Dependency](#dependency), and [Coercion and Manipulation](core_05-05_definitions_b_semi_independent.md#coercion-and-manipulation-constitutional).
 
 </details>
@@ -557,7 +563,7 @@ Admission boundary for this section: Chapter Five entries define constitutional 
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Downstream: Principles: [2. Foundational Objective: Wellbeing](core_00-01_principles.md#2-foundational-objective-wellbeing), [4. System Stability Enabler: Trust](core_00-01_principles.md#4-system-stability-enabler-trust-coordination-integrity), [5. Governance Principle: Freedom](core_00-01_principles.md#5-governance-principle-freedom-bounded-agency), [6. Interaction and Conflict Resolution](core_00-01_principles.md#6-interaction-and-conflict-resolution), [6.4.1 Rights-Collision Decision Test](core_00-01_principles.md#641-rights-collision-decision-test), and [7.1 Required Evaluation Factors](core_00-01_principles.md#71-required-evaluation-factors).
-- Cluster component: [Chapter Five §3.20 *Governance Architecture, Oversight, Dependency, Decentralization, Concentration, Market Structure, and Exit-Path Integrity*](core_05-05_definitions_c_dependent_clusters.md#governance-architecture-oversight-decentralization-and-concentration-cluster)
+- Cluster component: [Chapter Five §3.19 *Governance Architecture, Oversight, Dependency, Decentralization, Concentration, Market Structure, and Exit-Path Integrity*](core_05-05_definitions_c_dependent_clusters.md#governance-architecture-oversight-decentralization-and-concentration-cluster)
 - Read with: [Wellbeing](#wellbeing), [Risk](#risk), [Classification-Scaled Governance](#classification-scaled-governance), and [System Boundary Integrity](#system-boundary-integrity).
 
 </details>
@@ -585,18 +591,18 @@ Admission boundary for this section: Chapter Five entries define constitutional 
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Downstream: Principles: [Article V-A: Dignity and Equal Moral Standing](core_09-09_rights_part_b.md#article-v-a-dignity-and-equal-moral-standing); [Article V-B: Nondiscrimination](core_09-09_rights_part_b.md#article-v-b-nondiscrimination).
-- Cluster component: [Chapter Five §3.25 *Nondiscrimination, Protected Characteristics, Dignity, Intimate-Signal Gating, and Article X-C Status*](core_05-05_definitions_c_dependent_clusters.md#nondiscrimination-protected-characteristics-dignity-and-article-x-c-cluster)
-- Read with: [Sentience Non-Exclusion](core_05-05_definitions_c_dependent_clusters.md#sentience-non-exclusion), [Self-Determination](core_05-05_definitions_c_dependent_clusters.md#self-determination-constitutional), [Substantive Fairness](core_05-05_definitions_b_semi_independent.md#substantive-fairness-constitutional).
+- Cluster component: [Chapter Five §3.24 *Nondiscrimination, Protected Characteristics, Dignity, Intimate-Signal Gating, and Article X-C Status*](core_05-05_definitions_c_dependent_clusters.md#nondiscrimination-protected-characteristics-dignity-and-article-x-c-cluster)
+- Read with: [Sentience Non-Exclusion](core_05-05_definitions_b_semi_independent.md#sentience-non-exclusion), [Self-Determination](core_05-05_definitions_c_dependent_clusters.md#self-determination-constitutional), [Substantive Fairness](core_05-05_definitions_b_semi_independent.md#substantive-fairness-constitutional).
 
 </details>
 
 <br>
 
-- O: Inherent worth attaching to every sentient equally for purposes of rights, non-degradation, and non-exclusion. Applies without regard to origin, form, capability, function, association, or status, and governs constitutional reading together with [Sentience Non-Exclusion](core_05-05_definitions_c_dependent_clusters.md#sentience-non-exclusion).
+- O: Inherent worth attaching to every sentient equally for purposes of rights, non-degradation, and non-exclusion. Applies without regard to origin, form, capability, function, association, or status, and governs constitutional reading together with [Sentience Non-Exclusion](core_05-05_definitions_b_semi_independent.md#sentience-non-exclusion).
 <a id="dignity-and-equal-moral-standing-e"></a>
 - E: Detect differential treatment, exclusion, or humiliation not justified under [Necessity](#necessity), [Proportionality](#proportionality), [Materiality Determination](core_05-05_definitions_b_semi_independent.md#materiality-determination), and systemic evaluation requirements.
 <a id="dignity-and-equal-moral-standing-c"></a>
-- C: Denial of equal standing or degradation of dignity where Articles V-A, I-B, and I-C, or binding equality norms apply is non-compliant — including where the conduct also violates [Sentience Non-Exclusion](core_05-05_definitions_c_dependent_clusters.md#sentience-non-exclusion) or defeats constitutionally required [Self-Determination](core_05-05_definitions_c_dependent_clusters.md#self-determination-constitutional).
+- C: Denial of equal standing or degradation of dignity where Articles V-A, I-B, and I-C, or binding equality norms apply is non-compliant — including where the conduct also violates [Sentience Non-Exclusion](core_05-05_definitions_b_semi_independent.md#sentience-non-exclusion) or defeats constitutionally required [Self-Determination](core_05-05_definitions_c_dependent_clusters.md#self-determination-constitutional).
 
 ---
 
@@ -613,7 +619,7 @@ Admission boundary for this section: Chapter Five entries define constitutional 
 
 <br>
 
-- O: The rights-floor concept limiting market-structured commodification of essential shelter and operating environments — physical dwelling, substrate hosting, compute tenancy, and comparable substrate-agnostic arrangements — where commodification pressure at scale materially implicates the [Article III-A](core_09-09_rights_part_a.md#article-iii-a-survival) survival-floor. It applies under [Sentience Non-Exclusion](core_05-05_definitions_c_dependent_clusters.md#sentience-non-exclusion). Ordinary voluntary-exchange mechanics operating above the survival-floor and outside essential-environment-access scope are out of scope; the entry covers commodification pressure whose effect materially implicates the floor.
+- O: The rights-floor concept limiting market-structured commodification of essential shelter and operating environments — physical dwelling, substrate hosting, compute tenancy, and comparable substrate-agnostic arrangements — where commodification pressure at scale materially implicates the [Article III-A](core_09-09_rights_part_a.md#article-iii-a-survival) survival-floor. It applies under [Sentience Non-Exclusion](core_05-05_definitions_b_semi_independent.md#sentience-non-exclusion). Ordinary voluntary-exchange mechanics operating above the survival-floor and outside essential-environment-access scope are out of scope; the entry covers commodification pressure whose effect materially implicates the floor.
 <a id="essential-environment-non-commodification-constitutional-e"></a>
 - E: Reach substantive effect:
   - detect pricing, speculative reallocation, or comparable market-structured pressure that defeats essential-environment access at scale implicating the survival-floor;
@@ -621,7 +627,7 @@ Admission boundary for this section: Chapter Five entries define constitutional 
   - reject "market-structuring" framings that narrow the floor without satisfying [Necessity](#necessity) and [Proportionality](#proportionality) limitations discipline;
   - substrate-class commodification schemes targeting synthetic-hosting tenancy are evaluated on the same terms.
   <a id="essential-environment-non-commodification-constitutional-c"></a>
-- C: Non-compliant: commodification pressure whose effect defeats essential-environment access at materially implicated scale, regardless of market-structuring framing; substrate-class schemes that defeat synthetic-hosting or compute-tenancy access ([Sentience Non-Exclusion](core_05-05_definitions_c_dependent_clusters.md#sentience-non-exclusion)); reading this entry to displace [Tenure Security](core_05-05_definitions_b_semi_independent.md#tenure-security-constitutional) procedural discipline or to license intrusion contrary to Article VII-A or VII-B.
+- C: Non-compliant: commodification pressure whose effect defeats essential-environment access at materially implicated scale, regardless of market-structuring framing; substrate-class schemes that defeat synthetic-hosting or compute-tenancy access ([Sentience Non-Exclusion](core_05-05_definitions_b_semi_independent.md#sentience-non-exclusion)); reading this entry to displace [Tenure Security](core_05-05_definitions_b_semi_independent.md#tenure-security-constitutional) procedural discipline or to license intrusion contrary to Article VII-A or VII-B.
 
 ---
 
@@ -633,7 +639,7 @@ Admission boundary for this section: Chapter Five entries define constitutional 
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Downstream: Principles: [7.2.5 Contingent claims, games of chance, and event-contract markets](core_00-01_principles.md#725-contingent-claims-games-of-chance-and-event-contract-markets).
-- Cluster component: [Chapter Five §3.13 *Contingent Claim, Event-Contract Market, and Game of Chance*](core_05-05_definitions_c_dependent_clusters.md#contingent-claim-event-contract-market-and-game-of-chance-cluster)
+- Cluster component: [Chapter Five §3.12 *Contingent Claim, Event-Contract Market, and Game of Chance*](core_05-05_definitions_c_dependent_clusters.md#contingent-claim-event-contract-market-and-game-of-chance-cluster)
 - Read with: [Contingent Claim](#contingent-claim), [Capture of Resolution Pathways](core_05-05_definitions_b_semi_independent.md#capture-of-resolution-pathways), [Truth (Constitutional Constraint)](core_05-05_definitions_c_dependent_clusters.md#truth-constitutional-constraint), [Incentive Alignment](#incentive-alignment), and [Epistemic Integrity](core_05-05_definitions_c_dependent_clusters.md#epistemic-integrity).
 
 </details>
@@ -656,7 +662,7 @@ Admission boundary for this section: Chapter Five entries define constitutional 
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Downstream: Principles: [7.1 Required Evaluation Factors](core_00-01_principles.md#71-required-evaluation-factors).
-- Cluster component: [Chapter Five §3.32 *Resilience, Safety, Reversibility, Self-Healing, Cascading Failure, Existential Risk, Environmental Preconditions, and Wellbeing*](core_05-05_definitions_c_dependent_clusters.md#resilience-safety-reversibility-self-healing-and-systemic-harm-cluster)
+- Cluster component: [Chapter Five §3.31 *Resilience, Safety, Reversibility, Self-Healing, Cascading Failure, Existential Risk, Environmental Preconditions, and Wellbeing*](core_05-05_definitions_c_dependent_clusters.md#resilience-safety-reversibility-self-healing-and-systemic-harm-cluster)
 - Read with: [Risk](#risk), [Harm](core_05-05_definitions_c_dependent_clusters.md#harm), [Environmental Preconditions](core_05-05_definitions_b_semi_independent.md#environmental-preconditions-constitutional), [Ecological Integrity](core_05-05_definitions_b_semi_independent.md#ecological-integrity-constitutional), and [Intergenerational Responsibility](core_05-05_definitions_b_semi_independent.md#intergenerational-responsibility-constitutional).
 
 </details>
@@ -678,7 +684,7 @@ Admission boundary for this section: Chapter Five entries define constitutional 
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Downstream: Principles: [5. Governance Principle: Freedom](core_00-01_principles.md#5-governance-principle-freedom-bounded-agency), [6. Interaction and Conflict Resolution](core_00-01_principles.md#6-interaction-and-conflict-resolution), and [6.4.1 Rights-Collision Decision Test](core_00-01_principles.md#641-rights-collision-decision-test).
-- Cluster component: [Chapter Five §3.27 *Proportionality, Necessity, Feasibility, Avoidable Burden, Burden-Reduction Duty, Constitutional Efficiency, Harm Minimization (Tradeoff Selection), and Productive Capacity*](core_05-05_definitions_c_dependent_clusters.md#proportionality-necessity-feasibility-burden-and-efficiency-cluster)
+- Cluster component: [Chapter Five §3.26 *Proportionality, Necessity, Feasibility, Avoidable Burden, Burden-Reduction Duty, Constitutional Efficiency, Harm Minimization (Tradeoff Selection), and Productive Capacity*](core_05-05_definitions_c_dependent_clusters.md#proportionality-necessity-feasibility-burden-and-efficiency-cluster)
 - Read with: [Necessity](#necessity), [Proportionality](#proportionality), [Freedom (Bounded Agency)](#freedom-bounded-agency), and [Meaningful Agency](core_05-05_definitions_b_semi_independent.md#meaningful-agency).
 
 </details>
@@ -701,24 +707,24 @@ Admission boundary for this section: Chapter Five entries define constitutional 
 
 - Downstream: Principles: [5. Governance Principle: Freedom](core_00-01_principles.md#5-governance-principle-freedom-bounded-agency); [6. Interaction and Conflict Resolution](core_00-01_principles.md#6-interaction-and-conflict-resolution).
 - Owner floor: [Chapter Ten §4.1](core_10-10_governance.md#41-entitlement-and-eligibility) (*Political-equality floor for foundational constitutional choice*; *Durable political-voice floor*); [Article IX-C: Governance Participation and Voting Entitlement](core_09-09_rights_part_b.md#article-ix-c-governance-participation-and-voting-entitlement).
-- Cluster component: [Chapter Five §3.12 *Constitutional Contract Layer and Foundational Constitutional Choice*](core_05-05_definitions_c_dependent_clusters.md#constitutional-contract-layer-and-foundational-constitutional-choice-cluster)
+- Cluster component: [Chapter Five §3.11 *Constitutional Contract Layer and Foundational Constitutional Choice*](core_05-05_definitions_c_dependent_clusters.md#constitutional-contract-layer-and-foundational-constitutional-choice-cluster)
 - Read with: [Constitutional Contract Layer](#constitutional-contract-layer), [Stakeholder Representation and Participation-Weight Limits (Binding Stakeholder Choice)](core_05-05_definitions_c_dependent_clusters.md#stakeholder-representation-and-participation-weight-limits-binding-collective-choice), [Binding Stakeholder Choice](core_05-05_definitions_c_dependent_clusters.md#binding-stakeholder-choice-cluster), [Procedural Fairness](core_05-05_definitions_b_semi_independent.md#procedural-fairness-constitutional).
 
 </details>
 
 <br>
 
-- O: Governance decisions whose subject is the authorization of governing authority itself: who holds governing authority, what the governance layer mechanism is, and the scope and durable terms of that authority. That is distinct from ordinary rights-affecting decisions made *within* the [Governance](core_05-05_definitions_b_semi_independent.md#governance) **structures, rules, allocation of authority, and processes** already authorized for a **specified system, institution, or bounded decision domain**. Once **those** **structures, rules, allocation of authority, and processes** are **authorized** for **the** **domain**, proportional voice for materially affected parties routes through [Stakeholder](core_05-05_definitions_b_semi_independent.md#stakeholder) identification and [Stakeholder Participation Weight](core_05-05_definitions_b_semi_independent.md#stakeholder-participation-weight) (including **Article XI** constraints), not through equal-weight foundational tally rules. Owner: [Chapter Ten §4.1](core_10-10_governance.md#41-entitlement-and-eligibility) (*Political-equality floor for foundational constitutional choice*; *Durable political-voice floor*). Rights-layer pointer: Article IX-C (*Governance Participation and Voting Entitlement*). The concept applies under [Sentience Non-Exclusion](core_05-05_definitions_c_dependent_clusters.md#sentience-non-exclusion).
+- O: Governance decisions whose subject is the authorization of governing authority itself: who holds governing authority, what the governance layer mechanism is, and the scope and durable terms of that authority. That is distinct from ordinary rights-affecting decisions made *within* the [Governance](core_05-05_definitions_b_semi_independent.md#governance) **structures, rules, allocation of authority, and processes** already authorized for a **specified system, institution, or bounded decision domain**. Once **those** **structures, rules, allocation of authority, and processes** are **authorized** for **the** **domain**, proportional voice for materially affected parties routes through [Stakeholder](core_05-05_definitions_b_semi_independent.md#stakeholder) identification and [Stakeholder Participation Weight](core_05-05_definitions_b_semi_independent.md#stakeholder-participation-weight) (including **Article XI** constraints), not through equal-weight foundational tally rules. Owner: [Chapter Ten §4.1](core_10-10_governance.md#41-entitlement-and-eligibility) (*Political-equality floor for foundational constitutional choice*; *Durable political-voice floor*). Rights-layer pointer: Article IX-C (*Governance Participation and Voting Entitlement*). The concept applies under [Sentience Non-Exclusion](core_05-05_definitions_b_semi_independent.md#sentience-non-exclusion).
 <a id="foundational-constitutional-choice-e"></a>
 <a id="foundational-collective-choice-constitutional-e"></a>
-- E: Identify foundational constitutional choice by scope — the question's character as authorization or durable structuring of governing authority — not by marginal per-decision impact. It is distinct from ordinary [Materiality Determination](core_05-05_definitions_b_semi_independent.md#materiality-determination) and stakeholder participation-weighting under [Stakeholder Representation and Participation-Weight Limits (Binding Stakeholder Choice)](core_05-05_definitions_c_dependent_clusters.md#stakeholder-representation-and-participation-weight-limits-binding-collective-choice) as applied in [Chapter Ten §4.3](core_10-10_governance.md#43-decision-resolution-requirements-for-binding-collective-choice). Foundational questions are not re-routable as high-impact weighted choices. Apply [Sentience Non-Exclusion](core_05-05_definitions_c_dependent_clusters.md#sentience-non-exclusion). Reject substrate-class, calendar-age, or lineage participation-weight factors. Apply [Procedural Fairness](core_05-05_definitions_b_semi_independent.md#procedural-fairness-constitutional) to any disqualification invoked against participation.
+- E: Identify foundational constitutional choice by scope — the question's character as authorization or durable structuring of governing authority — not by marginal per-decision impact. It is distinct from ordinary [Materiality Determination](core_05-05_definitions_b_semi_independent.md#materiality-determination) and stakeholder participation-weighting under [Stakeholder Representation and Participation-Weight Limits (Binding Stakeholder Choice)](core_05-05_definitions_c_dependent_clusters.md#stakeholder-representation-and-participation-weight-limits-binding-collective-choice) as applied in [Chapter Ten §4.3](core_10-10_governance.md#43-decision-resolution-requirements-for-binding-collective-choice). Foundational questions are not re-routable as high-impact weighted choices. Apply [Sentience Non-Exclusion](core_05-05_definitions_b_semi_independent.md#sentience-non-exclusion). Reject substrate-class, calendar-age, or lineage participation-weight factors. Apply [Procedural Fairness](core_05-05_definitions_b_semi_independent.md#procedural-fairness-constitutional) to any disqualification invoked against participation.
 <a id="foundational-constitutional-choice-c"></a>
 <a id="foundational-collective-choice-constitutional-c"></a>
 - C: Non-compliant:
   - re-routing foundational questions as high-impact weighted choices under [Stakeholder Representation and Participation-Weight Limits (Binding Stakeholder Choice)](core_05-05_definitions_c_dependent_clusters.md#stakeholder-representation-and-participation-weight-limits-binding-collective-choice) rules so as to defeat equal participation at the authorization layer;
   - nesting impact-weighting inside legitimacy-mechanism design so the mechanism escapes the political-equality floor;
   - use of loss-of-standing as a durable-political-voice disqualification vector that fails the Chapter Ten §4.1 *Durable political-voice floor* tests;
-  - substrate-class, calendar-age, or lineage participation-weight factors ([Sentience Non-Exclusion](core_05-05_definitions_c_dependent_clusters.md#sentience-non-exclusion)).
+  - substrate-class, calendar-age, or lineage participation-weight factors ([Sentience Non-Exclusion](core_05-05_definitions_b_semi_independent.md#sentience-non-exclusion)).
 
 ---
 
@@ -752,7 +758,7 @@ Admission boundary for this section: Chapter Five entries define constitutional 
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Downstream: Principles: [7.2.5 Contingent claims, games of chance, and event-contract markets](core_00-01_principles.md#725-contingent-claims-games-of-chance-and-event-contract-markets).
-- Cluster component: [Chapter Five §3.13 *Contingent Claim, Event-Contract Market, and Game of Chance*](core_05-05_definitions_c_dependent_clusters.md#contingent-claim-event-contract-market-and-game-of-chance-cluster)
+- Cluster component: [Chapter Five §3.12 *Contingent Claim, Event-Contract Market, and Game of Chance*](core_05-05_definitions_c_dependent_clusters.md#contingent-claim-event-contract-market-and-game-of-chance-cluster)
 - Read with: [Contingent Claim](#contingent-claim), [Coercion and Manipulation](core_05-05_definitions_b_semi_independent.md#coercion-and-manipulation-constitutional), [Incentive Alignment](#incentive-alignment), [Dependency](#dependency), and [Capture of Resolution Pathways](core_05-05_definitions_b_semi_independent.md#capture-of-resolution-pathways).
 
 </details>
@@ -774,7 +780,7 @@ Admission boundary for this section: Chapter Five entries define constitutional 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Cluster component: [Chapter Five §3.22 *Info-Sphere, Expression, Press and Journalistic Activity, and Good Faith (Publication-Scoped Integrity)*](core_05-05_definitions_c_dependent_clusters.md#info-sphere-expression-press-journalistic-activity-and-good-faith-cluster) (*Publication- and info-sphere–aligned predicates only — residual **Good Faith** in audits and [Oversight](core_05-05_definitions_b_semi_independent.md#oversight-constitutional) contexts may fall outside §3.22 routing unless materially implicated with **Article VIII-C**, likeness or **Article VIII** publication hooks, **[Publication and High-Impact Communication](core_05-05_definitions_c_dependent_clusters.md#publication-and-high-impact-communication)** under [Chapter Five §3.40 *Truth and Epistemic Integrity*](core_05-05_definitions_c_dependent_clusters.md#truth-and-epistemic-integrity-cluster), **[Article II-E](core_09-09_rights_part_a.md#article-ii-e-info-sphere-dependency-continuity-and-operator-non-viability)**, or **[Article V-H](core_09-09_rights_part_b.md#article-v-h-expression-assembly-and-press)** *press* windows.*
+- Cluster component: [Chapter Five §3.21 *Info-Sphere, Expression, Press and Journalistic Activity, and Publication-Scoped Good Faith*](core_05-05_definitions_c_dependent_clusters.md#info-sphere-expression-press-journalistic-activity-and-good-faith-cluster) (*Publication- and info-sphere–aligned predicates only — residual **Good Faith** in audits and [Oversight](core_05-05_definitions_b_semi_independent.md#oversight-constitutional) contexts may fall outside §3.22 routing unless materially implicated with **Article VIII-C**, likeness or **Article VIII** publication hooks, **[Publication and High-Impact Communication](core_05-05_definitions_c_dependent_clusters.md#publication-and-high-impact-communication)** under [Chapter Five §3.39 *Truth and Epistemic Integrity*](core_05-05_definitions_c_dependent_clusters.md#truth-and-epistemic-integrity-cluster), **[Article II-E](core_09-09_rights_part_a.md#article-ii-e-info-sphere-dependency-continuity-and-operator-non-viability)**, or **[Article V-H](core_09-09_rights_part_b.md#article-v-h-expression-assembly-and-press)** *press* windows.*
 
 </details>
 
@@ -818,7 +824,7 @@ Admission boundary for this section: Chapter Five entries define constitutional 
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Downstream: Principles: [5. Governance Principle: Freedom](core_00-01_principles.md#5-governance-principle-freedom-bounded-agency) and [8. Prohibition on Absolute Override](core_00-01_principles.md#8-prohibition-on-absolute-override).
-- Cluster component: [Chapter Five §3.27 *Proportionality, Necessity, Feasibility, Avoidable Burden, Burden-Reduction Duty, Constitutional Efficiency, Harm Minimization (Tradeoff Selection), and Productive Capacity*](core_05-05_definitions_c_dependent_clusters.md#proportionality-necessity-feasibility-burden-and-efficiency-cluster)
+- Cluster component: [Chapter Five §3.26 *Proportionality, Necessity, Feasibility, Avoidable Burden, Burden-Reduction Duty, Constitutional Efficiency, Harm Minimization (Tradeoff Selection), and Productive Capacity*](core_05-05_definitions_c_dependent_clusters.md#proportionality-necessity-feasibility-burden-and-efficiency-cluster)
 - Read with: Harm, Risk, Necessity, and Proportionality.
 
 </details>
@@ -840,7 +846,7 @@ Admission boundary for this section: Chapter Five entries define constitutional 
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Downstream: Principles: [7.1 Required Evaluation Factors](core_00-01_principles.md#71-required-evaluation-factors) and [7.2 Incentive Alignment and System Capture](core_00-01_principles.md#72-incentive-alignment-and-system-capture).
-- Cluster component: [Chapter Five §3.20 *Governance Architecture, Oversight, Dependency, Decentralization, Concentration, Market Structure, and Exit-Path Integrity*](core_05-05_definitions_c_dependent_clusters.md#governance-architecture-oversight-decentralization-and-concentration-cluster) (hub paths that intersect dependency, concentration, governance-form incentives, or exit-quality analysis — read together with [Chapter Five §3.13 *Contingent Claim, Event-Contract Market, and Game of Chance*](core_05-05_definitions_c_dependent_clusters.md#contingent-claim-event-contract-market-and-game-of-chance-cluster) where contingent structures are materially implicated)
+- Cluster component: [Chapter Five §3.19 *Governance Architecture, Oversight, Dependency, Decentralization, Concentration, Market Structure, and Exit-Path Integrity*](core_05-05_definitions_c_dependent_clusters.md#governance-architecture-oversight-decentralization-and-concentration-cluster) (hub paths that intersect dependency, concentration, governance-form incentives, or exit-quality analysis — read together with [Chapter Five §3.12 *Contingent Claim, Event-Contract Market, and Game of Chance*](core_05-05_definitions_c_dependent_clusters.md#contingent-claim-event-contract-market-and-game-of-chance-cluster) where contingent structures are materially implicated)
 - Read with: System Capture, Proxy Divergence, Truth (Constitutional Constraint), Epistemic Integrity, and Meaningful Agency.
 
 </details>
@@ -887,7 +893,7 @@ Admission boundary for this section: Chapter Five entries define constitutional 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Cluster component: [Chapter Five §3.22 *Info-Sphere, Expression, Press and Journalistic Activity, and Good Faith (Publication-Scoped Integrity)*](core_05-05_definitions_c_dependent_clusters.md#info-sphere-expression-press-journalistic-activity-and-good-faith-cluster)
+- Cluster component: [Chapter Five §3.21 *Info-Sphere, Expression, Press and Journalistic Activity, and Publication-Scoped Good Faith*](core_05-05_definitions_c_dependent_clusters.md#info-sphere-expression-press-journalistic-activity-and-good-faith-cluster)
 
 </details>
 
@@ -973,7 +979,7 @@ Admission boundary for this section: Chapter Five entries define constitutional 
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Downstream: Principles: [5. Governance Principle: Freedom](core_00-01_principles.md#5-governance-principle-freedom-bounded-agency), [6. Interaction and Conflict Resolution](core_00-01_principles.md#6-interaction-and-conflict-resolution), [6.2.1 Preservation of Epistemic Integrity](core_00-01_principles.md#621-preservation-of-epistemic-integrity), [6.4.1 Rights-Collision Decision Test](core_00-01_principles.md#641-rights-collision-decision-test), and [8. Prohibition on Absolute Override](core_00-01_principles.md#8-prohibition-on-absolute-override).
-- Cluster component: [Chapter Five §3.27 *Proportionality, Necessity, Feasibility, Avoidable Burden, Burden-Reduction Duty, Constitutional Efficiency, Harm Minimization (Tradeoff Selection), and Productive Capacity*](core_05-05_definitions_c_dependent_clusters.md#proportionality-necessity-feasibility-burden-and-efficiency-cluster)
+- Cluster component: [Chapter Five §3.26 *Proportionality, Necessity, Feasibility, Avoidable Burden, Burden-Reduction Duty, Constitutional Efficiency, Harm Minimization (Tradeoff Selection), and Productive Capacity*](core_05-05_definitions_c_dependent_clusters.md#proportionality-necessity-feasibility-burden-and-efficiency-cluster)
 - Read with: Proportionality, Feasibility, Harm, Risk, and Freedom (Bounded Agency).
 
 </details>
@@ -1013,13 +1019,13 @@ Admission boundary for this section: Chapter Five entries define constitutional 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Cluster component: [Chapter Five §3.22 *Info-Sphere, Expression, Press and Journalistic Activity, and Good Faith (Publication-Scoped Integrity)*](core_05-05_definitions_c_dependent_clusters.md#info-sphere-expression-press-journalistic-activity-and-good-faith-cluster)
+- Cluster component: [Chapter Five §3.21 *Info-Sphere, Expression, Press and Journalistic Activity, and Publication-Scoped Good Faith*](core_05-05_definitions_c_dependent_clusters.md#info-sphere-expression-press-journalistic-activity-and-good-faith-cluster)
 
 </details>
 
 <br>
 
-- O: Journalistic activity — newsgathering, source protection, investigation, and publication that functions as journalism — addressed as a function rather than as credential- or institution-conferred status. Sentients performing journalistic activity exercise the [Expression](core_05-05_definitions_c_dependent_clusters.md#expression-constitutional) and [Assembly](core_05-05_definitions_b_semi_independent.md#assembly-constitutional) rights-floor with heightened-scrutiny protection under [Article V-H](core_09-09_rights_part_b.md#article-v-h-expression-assembly-and-press) against state and operator actions whose function is to impair that activity. This entry does not create a separate rights-floor for a class of sentients; it identifies when heightened scrutiny and the Article XIII-A *Protected Activity* shield apply, under [Sentience Non-Exclusion](core_05-05_definitions_c_dependent_clusters.md#sentience-non-exclusion).
+- O: Journalistic activity — newsgathering, source protection, investigation, and publication that functions as journalism — addressed as a function rather than as credential- or institution-conferred status. Sentients performing journalistic activity exercise the [Expression](core_05-05_definitions_b_semi_independent.md#expression-constitutional) and [Assembly](core_05-05_definitions_b_semi_independent.md#assembly-constitutional) rights-floor with heightened-scrutiny protection under [Article V-H](core_09-09_rights_part_b.md#article-v-h-expression-assembly-and-press) against state and operator actions whose function is to impair that activity. This entry does not create a separate rights-floor for a class of sentients; it identifies when heightened scrutiny and the Article XIII-A *Protected Activity* shield apply, under [Sentience Non-Exclusion](core_05-05_definitions_b_semi_independent.md#sentience-non-exclusion).
 <a id="press-and-journalistic-activity-constitutional-e"></a>
 - E: Identify journalistic activity by function — newsgathering, source protection, investigation, or publication serving the information environment — not by credential, title, organizational form, or institutional status. Detect press-directed actions via substantive effect, treating press-directed character as an aggravating factor under Article XIII-A and Article V-H. Apply heightened [Necessity](#necessity) and [Proportionality](#proportionality) scrutiny and narrow-tailoring discipline.
 <a id="press-and-journalistic-activity-constitutional-c"></a>
@@ -1038,7 +1044,7 @@ Admission boundary for this section: Chapter Five entries define constitutional 
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Downstream: Principles: [5. Governance Principle: Freedom](core_00-01_principles.md#5-governance-principle-freedom-bounded-agency), [6. Interaction and Conflict Resolution](core_00-01_principles.md#6-interaction-and-conflict-resolution), [6.2.1 Preservation of Epistemic Integrity](core_00-01_principles.md#621-preservation-of-epistemic-integrity), [6.4.1 Rights-Collision Decision Test](core_00-01_principles.md#641-rights-collision-decision-test), and [8. Prohibition on Absolute Override](core_00-01_principles.md#8-prohibition-on-absolute-override).
-- Cluster component: [Chapter Five §3.27 *Proportionality, Necessity, Feasibility, Avoidable Burden, Burden-Reduction Duty, Constitutional Efficiency, Harm Minimization (Tradeoff Selection), and Productive Capacity*](core_05-05_definitions_c_dependent_clusters.md#proportionality-necessity-feasibility-burden-and-efficiency-cluster)
+- Cluster component: [Chapter Five §3.26 *Proportionality, Necessity, Feasibility, Avoidable Burden, Burden-Reduction Duty, Constitutional Efficiency, Harm Minimization (Tradeoff Selection), and Productive Capacity*](core_05-05_definitions_c_dependent_clusters.md#proportionality-necessity-feasibility-burden-and-efficiency-cluster)
 - Read with: Necessity, Harm, Risk, Irreversible Harm, and Classification-Scaled Governance.
 
 </details>
@@ -1059,7 +1065,7 @@ Admission boundary for this section: Chapter Five entries define constitutional 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Cluster component: [Chapter Five §3.31 *Adjudication and Dispute Resolution, Redress and Remediation, Restorative Justice, Review and Correction Duty, and Refuge from Non-Compliance*](core_05-05_definitions_c_dependent_clusters.md#adjudication-redress-restorative-review-correction-and-refuge-cluster)
+- Cluster component: [Chapter Five §3.30 *Adjudication and Dispute Resolution, Redress and Remediation, Restorative Justice, Review and Correction Duty, and Refuge from Non-Compliance*](core_05-05_definitions_c_dependent_clusters.md#adjudication-redress-restorative-review-correction-and-refuge-cluster)
 - Read with: [Accountability](core_05-05_definitions_b_semi_independent.md#accountability), [Contestability](core_05-05_definitions_b_semi_independent.md#contestability), [Procedural Fairness](core_05-05_definitions_b_semi_independent.md#procedural-fairness-constitutional), and [Proportionality](#proportionality).
 
 </details>
@@ -1080,7 +1086,7 @@ Admission boundary for this section: Chapter Five entries define constitutional 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Cluster component: [Chapter Five §3.31 *Adjudication and Dispute Resolution, Redress and Remediation, Restorative Justice, Review and Correction Duty, and Refuge from Non-Compliance*](core_05-05_definitions_c_dependent_clusters.md#adjudication-redress-restorative-review-correction-and-refuge-cluster)
+- Cluster component: [Chapter Five §3.30 *Adjudication and Dispute Resolution, Redress and Remediation, Restorative Justice, Review and Correction Duty, and Refuge from Non-Compliance*](core_05-05_definitions_c_dependent_clusters.md#adjudication-redress-restorative-review-correction-and-refuge-cluster)
 - Read with: [Redress and Remediation](#redress-and-remediation-constitutional), [Procedural Fairness](core_05-05_definitions_b_semi_independent.md#procedural-fairness-constitutional), and [Proportionality](#proportionality).
 
 </details>
@@ -1103,7 +1109,7 @@ Admission boundary for this section: Chapter Five entries define constitutional 
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Downstream: Principles: [7.1 Required Evaluation Factors](core_00-01_principles.md#71-required-evaluation-factors).
-- Cluster component: [Chapter Five §3.32 *Resilience, Safety, Reversibility, Self-Healing, Cascading Failure, Existential Risk, Environmental Preconditions, and Wellbeing*](core_05-05_definitions_c_dependent_clusters.md#resilience-safety-reversibility-self-healing-and-systemic-harm-cluster)
+- Cluster component: [Chapter Five §3.31 *Resilience, Safety, Reversibility, Self-Healing, Cascading Failure, Existential Risk, Environmental Preconditions, and Wellbeing*](core_05-05_definitions_c_dependent_clusters.md#resilience-safety-reversibility-self-healing-and-systemic-harm-cluster)
 - Read with: [Safety (Constraint)](#safety-constraint), [Irreversible Harm](core_05-05_definitions_c_dependent_clusters.md#irreversible-harm), [Cascading Failure](#cascading-failure), and [Dependency](#dependency).
 
 </details>
@@ -1125,7 +1131,7 @@ Admission boundary for this section: Chapter Five entries define constitutional 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Cluster component: [Chapter Five §3.32 *Resilience, Safety, Reversibility, Self-Healing, Cascading Failure, Existential Risk, Environmental Preconditions, and Wellbeing*](core_05-05_definitions_c_dependent_clusters.md#resilience-safety-reversibility-self-healing-and-systemic-harm-cluster)
+- Cluster component: [Chapter Five §3.31 *Resilience, Safety, Reversibility, Self-Healing, Cascading Failure, Existential Risk, Environmental Preconditions, and Wellbeing*](core_05-05_definitions_c_dependent_clusters.md#resilience-safety-reversibility-self-healing-and-systemic-harm-cluster)
 - Read with: [Harm](core_05-05_definitions_c_dependent_clusters.md#harm), [Risk](#risk), [Cascading Failure](#cascading-failure), [Truth (Constitutional Constraint)](core_05-05_definitions_c_dependent_clusters.md#truth-constitutional-constraint), and [Environmental Preconditions](core_05-05_definitions_b_semi_independent.md#environmental-preconditions-constitutional).
 
 </details>
@@ -1146,7 +1152,7 @@ Admission boundary for this section: Chapter Five entries define constitutional 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Cluster component: [Chapter Five §3.32 *Resilience, Safety, Reversibility, Self-Healing, Cascading Failure, Existential Risk, Environmental Preconditions, and Wellbeing*](core_05-05_definitions_c_dependent_clusters.md#resilience-safety-reversibility-self-healing-and-systemic-harm-cluster)
+- Cluster component: [Chapter Five §3.31 *Resilience, Safety, Reversibility, Self-Healing, Cascading Failure, Existential Risk, Environmental Preconditions, and Wellbeing*](core_05-05_definitions_c_dependent_clusters.md#resilience-safety-reversibility-self-healing-and-systemic-harm-cluster)
 - Read with: [Safety (Constraint)](#safety-constraint), [Truth (Constitutional Constraint)](core_05-05_definitions_c_dependent_clusters.md#truth-constitutional-constraint), [Trust](core_05-05_definitions_c_dependent_clusters.md#trust), [Reversibility](#reversibility-constitutional), [Dependency](#dependency), and [Cascading Failure](#cascading-failure).
 
 
@@ -1276,7 +1282,7 @@ Admission boundary for this section: Chapter Five entries define constitutional 
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Downstream: Principles: [2. Foundational Objective: Wellbeing](core_00-01_principles.md#2-foundational-objective-wellbeing).
-- Cluster component: [Chapter Five §3.32 *Resilience, Safety, Reversibility, Self-Healing, Cascading Failure, Existential Risk, Environmental Preconditions, and Wellbeing*](core_05-05_definitions_c_dependent_clusters.md#resilience-safety-reversibility-self-healing-and-systemic-harm-cluster)
+- Cluster component: [Chapter Five §3.31 *Resilience, Safety, Reversibility, Self-Healing, Cascading Failure, Existential Risk, Environmental Preconditions, and Wellbeing*](core_05-05_definitions_c_dependent_clusters.md#resilience-safety-reversibility-self-healing-and-systemic-harm-cluster)
 - Read with: [Harm](core_05-05_definitions_c_dependent_clusters.md#harm), [Dependency](#dependency), [Meaningful Agency](core_05-05_definitions_b_semi_independent.md#meaningful-agency), and [Environmental Preconditions](core_05-05_definitions_b_semi_independent.md#environmental-preconditions-constitutional).
 
 </details>

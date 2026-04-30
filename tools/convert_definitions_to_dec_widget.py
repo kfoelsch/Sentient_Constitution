@@ -98,7 +98,7 @@ CLUSTERED_HEADS = {
 # can be re-added here without reshaping the converter.
 MISSING_C: set[str] = set()
 
-# Title anchor remains an alphabetical stub; O/E/C bullets live under the
+# Title anchor remains a directory/reader aid; O/E/C bullets live under the
 # Self-Determination / Meaningful Agency / Educational Agency cluster.
 STUB_CLUSTER_OEC: frozenset[str] = frozenset(
     {

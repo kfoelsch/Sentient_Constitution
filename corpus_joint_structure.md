@@ -128,7 +128,7 @@ This section is the **integration spine** for the four companion layers: **who o
 **Default read order for joint topics** (when material to compliance):
 
 1. **`corpus_joint_structure.md` (this file)** — **Cross-domain implementation layer** and **joint** requirements (**CJS-2**, **CJS-3**) with explicit **read-with** ordering where **two or more** companions would otherwise admit **inconsistent structural treatment**.
-2. **`corpus_systems.md`** — **Chapter S1–S3** taxonomies and designated protocols where system class, stewardship, or lifecycle fixes the **scale** of obligations.
+2. **`corpus_systems.md`** — **Chapter S1**, **Chapter S2**, and **Chapter S3** taxonomies and designated protocols where system class, stewardship, or lifecycle fixes the **scale** of obligations.
 3. **`corpus_institutions.md`** — institutional governance, assurance lanes, escalation, non-court architecture.
 4. **`corpus_forum.md`** — forum-operational doctrine for **Chapter Eight** forum families.
 
@@ -139,7 +139,7 @@ Some topics are **deliberately** split across companions (for example contest-in
 
 - the **domain owner** states the **full operative** rules for its scope;
 - **this file** states **joint satisfaction conditions**, **read-with pointers**, and **interface requirements** only;
-- do **not** restate **PRIM/PROT** text, **S2/S3** tables, or **CC-** / **CI-** checklists except in brief **quote** or **summary pointer** form when needed for coherence.
+- do **not** restate **PRIM/PROT** text, **Chapter S2** / **Chapter S3** tables, or **CC-** / **CI-** checklists except in brief **quote** or **summary pointer** form when needed for coherence.
 
 ### CJS-2.3: Two-tier definition contract (binding abstraction + owner detail)
 This file may adopt **binding high-level joint abstractions** only where a term or construct is materially cross-companion and cannot be safely interpreted through a single owner file alone.
@@ -172,7 +172,7 @@ Each row names the **first** operative owner for the topic. **Mandatory read-wit
 | **CJS-R14** | Institutional functional lanes and non-delegable splits | `corpus_institutions.md` **CI-2** | `corpus_joint_structure.md` **PROT1**; `corpus_systems.md` **Chapter S3** where CSS stewardship intersects |
 | **CJS-R15** | Contest-integrity monitoring (pathway integrity, not merits) | `corpus_institutions.md` **CI-7.3** | `corpus_systems.md` **Chapter S2**, **Chapter S3** (including steward contest-integrity paragraphs where applicable); `corpus_joint_structure.md` **PROT6**; **CJS-R03**, **CJS-R10** where court performance data feeds monitors |
 | **CJS-R16** | Cross-institution coordination, deadlock, and escalation | `corpus_institutions.md` **CI-8** | `corpus_forum.md` **CC-4**, **CC-6**; `core_08-08_forum.md` **Chapter Eight** (including backup and cross-court integrity routing) |
-| **CJS-R17** | Cross-companion trust integrity (joint operation model) | `corpus_joint_structure.md` Implementation Group One (*Meta-integrity obligation: Trust and Trustworthiness*) | **`corpus_joint_structure.md` CJS-3.9**; `core_05-05_definitions_c_dependent_clusters.md` **Chapter Five, section 3.39** (*Trust*, *Trustworthiness*, *Trust Degradation and Misleading Reliance*); `corpus_systems.md` **Chapter S2**, **Chapter S3** where classification or dependency scales assurance burden; `corpus_institutions.md` **CI-7.3**, **CI-8** and `corpus_forum.md` **CC-10** where pathway integrity, publication cadence, or accessibility materially conditions justified trust |
+| **CJS-R17** | Cross-companion trust integrity (joint operation model) | `corpus_joint_structure.md` Implementation Group One (*Meta-integrity obligation: Trust and Trustworthiness*) | **`corpus_joint_structure.md` CJS-3.9**; `core_05-05_definitions_c_dependent_clusters.md` **Chapter Five, section 3.38** (*Trust*, *Trustworthiness*, *Trust Degradation and Misleading Reliance*); `corpus_systems.md` **Chapter S2**, **Chapter S3** where classification or dependency scales assurance burden; `corpus_institutions.md` **CI-7.3**, **CI-8** and `corpus_forum.md` **CC-10** where pathway integrity, publication cadence, or accessibility materially conditions justified trust |
 | **CJS-R18** | Class-scaled lane staffing and competency redundancy for materially binding stewardship | `corpus_institutions.md` **CI-2**, **CI-4**, **CI-11**, **CI-12** | **`corpus_joint_structure.md` CJS-3.11**; `corpus_systems.md` **Chapter S2**, **Chapter S3**; `core_10-10_governance.md` **Chapter Ten**, section **5** |
 | **CJS-R19** | Cross-companion integrity assurance and resilience operations | `corpus_joint_structure.md` **CJS-3.13** | `corpus_joint_structure.md` **PRIM9** through **PRIM15**; `core_05-05_definitions_a_independent.md` **Chapter Five** (*Auditability*, *Verifiability*, *Verification Accessibility*, *Reversibility*, *Dependency*, *Cascading Failure*, *Adversarial, Scaled, and Exploited Conditions*, *Trustworthiness*); `corpus_systems.md` **Chapter S1**, **Chapter S2**, **Chapter S3** where classification, data handling, or stewardship scales burden; `corpus_institutions.md` **CI-7.3**, **CI-8** and `corpus_forum.md` **CC-10** where monitoring, escalation, publication, or review pathways are materially required |
 
@@ -226,7 +226,7 @@ Where ordinary lawful deciding bodies are **multi-member**, the instrument must 
 
 Where **CI** and **CC** obligations overlap on the same structure, the **stricter** clearly adopted rule governs (**CJS-2**, stricter-wins).
 
-**Mandatory read-with:** **`corpus_institutions.md` CI-9.1B.1**–**CI-9.1B.4**; **`corpus_forum.md` CC-2.5.1**–**CC-2.5.5** and **CC-11** as applicable; **`corpus_systems.md` Chapter S2** and **Chapter S3** where classification scales the body.
+**Mandatory read-with:** **`corpus_institutions.md` CI-9.1B.1**–**CI-9.1B.4**; **`corpus_forum.md` CC-2.5.1**–**CC-2.5.5** and **CC-11** as applicable; `corpus_systems.md` **Chapter S2** and **Chapter S3** where classification scales the body.
 
 ### CJS-3.7A Shared attachment and continuity mechanics
 Where **CJS-3.7** applies, rotating and home-based poles must follow these shared requirements:
@@ -257,7 +257,7 @@ When revising **CP** (implementation):
 ### CJS-3.9 Cross-companion trust integrity (joint operation model)
 This subsection applies where **CJS-R17** materially applies, or where a **CJS-2.2** read-with chain jointly determines whether reliance is justified in practice.
 
-Canonical meaning of **Trust**, **Trustworthiness**, and **Trust Degradation and Misleading Reliance** remains in **`core_05-05_definitions_c_dependent_clusters.md` Chapter Five, section 3.39** (*Trust and Trustworthiness*). **Joint** evaluation for **trust degradation** and **misleading reliance** within this subsection’s scope follows those definitions together with their listed member definitions. Operative implementation remains in **`corpus_joint_structure.md`** Implementation Group One (*Meta-integrity obligation: Trust and Trustworthiness*). This subsection states **joint** requirements only.
+Canonical meaning of **Trust**, **Trustworthiness**, and **Trust Degradation and Misleading Reliance** remains in **`core_05-05_definitions_c_dependent_clusters.md` Chapter Five, section 3.38** (*Trust and Trustworthiness*). **Joint** evaluation for **trust degradation** and **misleading reliance** within this subsection’s scope follows those definitions together with their listed member definitions. Operative implementation remains in **`corpus_joint_structure.md`** Implementation Group One (*Meta-integrity obligation: Trust and Trustworthiness*). This subsection states **joint** requirements only.
 
 It is **non-compliant** to claim trustworthiness when one companion presents conforming signals but another companion in the same materially relevant chain leaves unresolved conditions that defeat **observable**, **verifiable**, or **contestable** reliance (for example classification-scaled controls, pathway integrity, publication timeliness, accessibility, or documented escalation reliability).
 
@@ -279,7 +279,7 @@ When language in a CJS Tier 1 abstraction and a companion-owner Tier 2 section a
 If unresolved ambiguity remains after this order, treat the narrower reading as non-authoritative and route clarification to the canonical owner with an explicit CJS pointer update.
 
 ### CJS-3.11 Class-scaled lane staffing and competency redundancy
-This subsection applies where **CJS-R18** materially applies: stewardship or operational roles with materially binding effect under **Chapter Ten**, section **5**, where system class and stewardship **profile** in **`corpus_systems.md` Chapter S2** and **Chapter S3** scale the burden for institutional lane design and competency continuity.
+This subsection applies where **CJS-R18** materially applies: stewardship or operational roles with materially binding effect under **Chapter Ten**, section **5**, where system class and stewardship **profile** in `corpus_systems.md` **Chapter S2** and **Chapter S3** scale the burden for institutional lane design and competency continuity.
 
 For **Class A** and **Class B** systems, institutions that host a constitutional functional separation (**lane**) with materially binding duties must maintain:
 - at least **three sentients** assigned to that lane;
@@ -288,7 +288,7 @@ For **Class A** and **Class B** systems, institutions that host a constitutional
 
 Lane design must also preserve a functional **role-density balance**. Assignment, rotation, and backup rules must give each material role enough sustained engagement for competence, memory, and accountable judgment, while preserving enough cross-training and cross-functional familiarity for continuity, independent challenge, and lawful succession. It is not sufficient to satisfy numeric staffing while either diffusing responsibility across so many intermittent participants that competence becomes shallow, or concentrating practical knowledge in so few participants that the lane becomes fragile, captured, or unable to replace itself.
 
-The constitutional floor remains in **[core_10-10_governance.md](core_10-10_governance.md) Chapter Ten**, section **5**. This subsection states joint structural requirements for cross-companion satisfaction only. Detailed role taxonomy, qualification controls, succession mechanics, and pathway-access design remain with domain owners in **CI-2**, **CI-4**, **CI-11**, and **CI-12**, read with **`corpus_systems.md` Chapter S2** and **Chapter S3**.
+The constitutional floor remains in **[core_10-10_governance.md](core_10-10_governance.md) Chapter Ten**, section **5**. This subsection states joint structural requirements for cross-companion satisfaction only. Detailed role taxonomy, qualification controls, succession mechanics, and pathway-access design remain with domain owners in **CI-2**, **CI-4**, **CI-11**, and **CI-12**, read with `corpus_systems.md` **Chapter S2** and **Chapter S3**.
 
 ### CJS-3.12 Shared procedural abstractions for delegated bodies and forum routing
 This subsection supplies **Tier 1** cross-companion abstractions for **CJS-R01** through **CJS-R04**. It does not replace owner detail in **CI** or **CC**.
@@ -369,7 +369,7 @@ Notification and pathway integrity
 - OP-C: It is non-compliant to treat a participatory process as legitimate where notice is materially incomplete, too late for practical engagement, or structured so participation is formal only.
 
 ### CJS-3.15 Cross-companion comprehensibility and cognitive accessibility terms
-This subsection supplies CJS-local operational definitions for cross-companion comprehensibility and cognitive accessibility where transparency, participation, auditability, and accountability depend on combined companion behavior. It is read with `corpus_joint_structure.md` **PRIM2**, `corpus_systems.md` Protocol B, and does not replace constitutional meaning in the Sentient Constitution `core_*.md` files (see [README.md](README.md)) or `core_05-05_definitions_a_independent.md`.
+This subsection supplies CJS-local operational definitions for cross-companion comprehensibility and cognitive accessibility where transparency, participation, auditability, and accountability depend on combined companion behavior. It is read with `corpus_joint_structure.md` **PRIM2**, `corpus_systems.md` **Protocol B**, and does not replace constitutional meaning in the Sentient Constitution `core_*.md` files (see [README.md](README.md)) or `core_05-05_definitions_a_independent.md`.
 
 Cross-companion comprehensibility and cognitive accessibility terms (operational cluster head)
 - OP-O: Operational definition set for whether materially relevant information is understandable, evaluable, and usable for lawful participation, audit, and oversight across companion interfaces.
@@ -498,7 +498,7 @@ Private internal-state boundary and external observability attribution
 - OP-C: It is non-compliant either to force private internal-state exposure beyond lawful scope or to hide externally relevant behavior behind privacy-boundary claims.
 
 ### CJS-3.18 Cross-companion dependency integrity and disclosure terms
-This subsection supplies CJS-local operational definitions for dependency integrity and disclosure where dependency mapping, risk treatment, and accountability depend on combined companion behavior. It is read with `corpus_joint_structure.md` **PRIM5**, **PRIM4**, **PRIM7**, **PRIM9**, **PRIM15**, `corpus_systems.md` Protocol A, and the Sentient Constitution `core_*.md` files (see [README.md](README.md)) **Article XV-A**.
+This subsection supplies CJS-local operational definitions for dependency integrity and disclosure where dependency mapping, risk treatment, and accountability depend on combined companion behavior. It is read with `corpus_joint_structure.md` **PRIM5**, **PRIM4**, **PRIM7**, **PRIM9**, **PRIM15**, `corpus_systems.md` **Protocol A**, and the Sentient Constitution `core_*.md` files (see [README.md](README.md)) **Article XV-A**.
 
 Cross-companion dependency integrity and disclosure terms (operational cluster head)
 - OP-O: Operational definition set for dependency identification, criticality treatment, substitution and exit constraints, anti-evasion controls, and dependency-monitoring obligations in materially relevant companion chains.
@@ -536,7 +536,7 @@ Proportional application
 - OP-C: It is non-compliant to apply simplified dependency controls where material cross-system or cross-sentient exposure remains.
 
 ### CJS-3.19 Cross-companion graceful degradation and failure-mode integrity terms
-This subsection supplies CJS-local operational definitions for graceful degradation and failure-mode integrity where reliability, signaling, containment, and recovery depend on combined companion behavior. It is read with `corpus_joint_structure.md` **PRIM6**, **PRIM1**, **PRIM5**, **PRIM12**, **PRIM15**, `corpus_systems.md` Protocol A, and constitutional hooks in the Sentient Constitution `core_*.md` files (see [README.md](README.md)) (**Chapter One**, **Article XV-A**, and **Article XVI-A** where lifecycle constraints are material).
+This subsection supplies CJS-local operational definitions for graceful degradation and failure-mode integrity where reliability, signaling, containment, and recovery depend on combined companion behavior. It is read with `corpus_joint_structure.md` **PRIM6**, **PRIM1**, **PRIM5**, **PRIM12**, **PRIM15**, `corpus_systems.md` **Protocol A**, and constitutional hooks in the Sentient Constitution `core_*.md` files (see [README.md](README.md)) (**Chapter One**, **Article XV-A**, and **Article XVI-A** where lifecycle constraints are material).
 
 Cross-companion graceful degradation and failure-mode integrity terms (operational cluster head)
 - OP-O: Operational definition set for degraded-mode behavior under partial failure, uncertainty, or stress, including failure-mode coverage, signaling, bounded operation, escalation, and cross-boundary controls.
@@ -718,7 +718,7 @@ Article VII-B boundary and anti-concealment rule
 - OP-C: It is non-compliant to use internal-state protections to conceal systemic behavior or defeat accountability obligations.
 
 ### CJS-3.23 Cross-companion tiered transparency and audit-access terms
-This subsection supplies CJS-local operational definitions for tiered transparency and audit access where public visibility, qualified review, and forensic reconstruction depend on combined companion behavior. It is read with `corpus_joint_structure.md` **PRIM10**, **PRIM9**, **PRIM12**, and constitutional hooks in the Sentient Constitution `core_*.md` files (see [README.md](README.md)) (**Chapter Nine, Articles V through IX**, **Article XV-A**, and **Article VII-B**).
+This subsection supplies CJS-local operational definitions for tiered transparency and audit access where public visibility, qualified review, and forensic reconstruction depend on combined companion behavior. It is read with `corpus_joint_structure.md` **PRIM10**, **PRIM9**, **PRIM12**, and constitutional hooks in the Sentient Constitution `core_*.md` files (see [README.md](README.md)) (**Sentient Constitution Chapter Nine, Articles V through IX**, **Article XV-A**, and **Article VII-B**).
 
 Cross-companion tiered transparency and audit-access terms (operational cluster head)
 - OP-O: Operational definition set for tiered information access balancing transparency, auditability, and protected internal-state boundaries while preserving contestability.
@@ -841,7 +841,7 @@ Accountability-preserving record floor
 
 Classification alignment and creep handling
 - OP-O: When accumulation, linkage, or inference makes data functionally more sensitive than nominal category, stricter applicable protections are applied.
-- OP-E: Evaluation must verify alignment between retention rules and S1 class duties, including CJS-3.5 joint alignment where institution-facing supervision and S2/S3 assignments overlap on materially supervised scope.
+- OP-E: Evaluation must verify alignment between retention rules and **Chapter S1** class duties, including CJS-3.5 joint alignment where institution-facing supervision and **Chapter S2** / **Chapter S3** assignments overlap on materially supervised scope.
 - OP-C: It is non-compliant to keep nominal lower-class handling once functional sensitivity has materially escalated.
 
 Transparency disclosures and stakeholder legibility
@@ -1251,13 +1251,13 @@ Articles: Apply with **Sentient Constitution Chapter Nine (Articles V–XXV)** a
 
 **Definitions:** Apply with **Chapter Five** definitions for *Trust*, *Trustworthiness*, *Trust Degradation and Misleading Reliance*, and *Epistemic Integrity*.
 
-**Canonical meaning:** Evaluative methodology for **Trust**, **Trustworthiness**, and **Trust Degradation and Misleading Reliance** remains in **`core_05-05_definitions_c_dependent_clusters.md` Chapter Five, section 3.39**. This subsection states **classification floors**, **implementation-label routing**, and **governance consequences** only.
+**Canonical meaning:** Evaluative methodology for **Trust**, **Trustworthiness**, and **Trust Degradation and Misleading Reliance** remains in **`core_05-05_definitions_c_dependent_clusters.md` Chapter Five, section 3.38**. This subsection states **classification floors**, **implementation-label routing**, and **governance consequences** only.
 
 **Class A, B, and C** systems (**[corpus_systems.md](corpus_systems.md), Chapter S2 — System Classification and Handling**) must be **designed**, **operated**, and **evolved** for **trustworthiness**. **Class L and P** systems follow **S2** criteria and limits. **They** must **not** be used to **evade** obligations where **material external effects** exist (**Sentient Constitution Chapter One**, **PROT1**).
 
 **Implementation label-layer routing (illustrative; non-exhaustive):** **PRIM1**, **PRIM4**, **PRIM5**, **PRIM6**, **PRIM7**, **PRIM9**, **PRIM11**, and **PRIM12**; also read this file's *Incentive Alignment and Mechanism Integrity* meta-integrity obligation.
 
-**Trust degradation as harm:** **Monitor**, **detect**, and **mitigate** trust erosion under **`core_05-05_definitions_c_dependent_clusters.md` Chapter Five, section 3.39** and **`corpus_joint_structure.md` CJS-3.9** where **cross-companion** trust applies. That work must **not** narrow **Epistemic Integrity**, **Truth (Constitutional Constraint)**, **Transparency**, or **Article XII-C**.
+**Trust degradation as harm:** **Monitor**, **detect**, and **mitigate** trust erosion under **`core_05-05_definitions_c_dependent_clusters.md` Chapter Five, section 3.38** and **`corpus_joint_structure.md` CJS-3.9** where **cross-companion** trust applies. That work must **not** narrow **Epistemic Integrity**, **Truth (Constitutional Constraint)**, **Transparency**, or **Article XII-C**.
 
 **Sustained** failure to restore trustworthiness may yield **loss of standing**, **restricted participation**, or **replacement** under applicable governance.
 
@@ -1500,7 +1500,7 @@ Principles: **Agency and Anti-Lock-In** through usable portability, reciprocal i
 
 **Canonical meaning:** This section states implementation-layer obligations for this domain, applied consistently with cited constitutional sources and without narrowing them.
 
-**Sentient Constitution Chapter Nine, Article XIX** (*Interoperability, Portability, and Exit Integrity*) and **Chapter Five** ([§3.20](core_05-05_definitions_c_dependent_clusters.md#governance-architecture-oversight-decentralization-and-concentration-cluster) *Governance Architecture, Oversight, Dependency…* — *Systemic Lock-In*, *Dependency*, and related exit-path and market-structure analysis where applicable; [§3.24](core_05-05_definitions_c_dependent_clusters.md#movement-refuge-non-statelessness-and-exit-integrity-cluster) *Movement, Refuge, Non-Statelessness, and Exit Integrity* where mobility, refuge, or exit-integrity predicates apply jointly) state the foundational rights and foreclosure conditions. **PRIM7** is the **architecture-layer** home for operational interoperability, usable portability, integration boundaries, exit-feasibility transparency, and transition continuity.
+**Sentient Constitution Chapter Nine, Article XIX** (*Interoperability, Portability, and Exit Integrity*) and **Chapter Five** ([§3.19](core_05-05_definitions_c_dependent_clusters.md#governance-architecture-oversight-decentralization-and-concentration-cluster) *Governance Architecture, Oversight, Dependency…* — *Systemic Lock-In*, *Dependency*, and related exit-path and market-structure analysis where applicable; [§3.23](core_05-05_definitions_c_dependent_clusters.md#movement-refuge-non-statelessness-and-exit-integrity-cluster) *Movement, Refuge, Non-Statelessness, and Exit Integrity* where mobility, refuge, or exit-integrity predicates apply jointly) state the foundational rights and foreclosure conditions. **PRIM7** is the **architecture-layer** home for operational interoperability, usable portability, integration boundaries, exit-feasibility transparency, and transition continuity.
 
 **PROT4** governs justified limits on integration or export. Read this section together with **PRIM5** for dependency mapping and disclosure, and with **PRIM4**, **Article XV-A**, and **[corpus_systems.md](corpus_systems.md), Chapter S1 — Information Types and Handling** (Types **I** and **H**) where portability, attribution, or handling constraints apply.
 
@@ -1543,7 +1543,7 @@ Principles: **Truth, Accountability, and Proportional Access** through tiered tr
 
 Articles: Apply with **Sentient Constitution Chapter Nine, Articles V through IX** (rights-impacting systems), **Article VII-B** (internal-state boundary), and **Article XV-A** (auditability floor).
 
-**Constitutional anchor:** Systems that **materially** affect foundational rights under **Chapter Nine, Articles V through IX** must maintain records and disclosures that enable **PRIM4**-grade participation, **PRIM9** verification, and evaluation of **risk**, **dependency**, and **systemic** effects.
+**Constitutional anchor:** Systems that **materially** affect foundational rights under **Sentient Constitution Chapter Nine, Articles V through IX** must maintain records and disclosures that enable **PRIM4**-grade participation, **PRIM9** verification, and evaluation of **risk**, **dependency**, and **systemic** effects.
 
 **Definitions:** Apply with **Chapter Five** definitions for *Transparency*, *Epistemic Integrity*, *Trustworthiness*, and *Protected Internal-State Boundary*.
 

@@ -219,7 +219,7 @@ def collect_all_ch5_anchors(root: Path) -> set[str]:
 
 
 def directory_slugs_from_part_a(root: Path) -> set[str]:
-    """Slugs declared by the Chapter Five A–Z directory (includes stubs)."""
+    """Slugs declared by the Chapter Five A–Z directory."""
     path = root / CH5_PART_A
     if not path.exists():
         return set()

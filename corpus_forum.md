@@ -391,7 +391,7 @@ This section governs:
 
 ### CC-5.1 Disposition effect classification (numeric codes)
 
-**Usage.** Adopting instruments should classify dispositions that materially affect later panels, institutions, or multi-party systems using the **corpus-local numeric codes** in this subsection. Each code states **how far a disposition travels** as a horizontal or vertical stabilizer. These labels are **not** **PRIM**/**PROT** implementation label codes, **not** data-type or system-class labels from `corpus_systems.md` (**Chapter S1–S3** or successor numbering), and **not** institutional **CI-** anchors from `corpus_institutions.md`; they apply only to **forum disposition effect** documentation and review routing.
+**Usage.** Adopting instruments should classify dispositions that materially affect later panels, institutions, or multi-party systems using the **corpus-local numeric codes** in this subsection. Each code states **how far a disposition travels** as a horizontal or vertical stabilizer. These labels are **not** **PRIM**/**PROT** implementation label codes, **not** data-type or system-class labels from `corpus_systems.md` (**Chapter S1**, **Chapter S2**, **Chapter S3**, or successor numbering), and **not** institutional **CI-** anchors from `corpus_institutions.md`; they apply only to **forum disposition effect** documentation and review routing.
 
 **CC-5.1.101 — Party-bound effect.** The determination binds the parties before the tribunal on the issues decided, including ordinary **issue preclusion** effects adopting law assigns, but does **not** by itself establish a published rule for unrelated matters. This is the default classification for routine inter-partes outcomes unless the record states another **CC-5.1** code with broader reach.
 
@@ -608,7 +608,7 @@ Local variation must not be used as a pretext for regression, forum shopping, hi
 
 Non-recognition must identify whether the forum is adopting an interim local rule, certifying the issue for reconsideration, or invoking another recognized shared standard. Silent non-recognition is non-compliant where this subsection applies. Repeated unexplained refusal to recognize materially applicable shared standards may be treated as a capture, evasion, or forum-shopping indicator for escalation under `corpus_institutions.md` **CI-8**, external assurance, or cross-jurisdiction enforcement continuity rules.
 
-**Educational materials and textbook disputes.** Where technical forums hear disputes about publicly governed textbooks, curriculum standards, or comparable educational materials, the question is integrity of evidence presentation, methodological honesty, age-appropriate explanation, and administrative regularity. These forums must not act as general ideological censors or displace the constitutional rights and educational principles stated in `core_09-09_rights_part_a.md` and related **Chapter Nine** materials.
+**Educational materials and textbook disputes.** Where technical forums hear disputes about publicly governed textbooks, curriculum standards, or comparable educational materials, the question is integrity of evidence presentation, methodological honesty, age-appropriate explanation, and administrative regularity. These forums must not act as general ideological censors or displace the constitutional rights and educational principles stated in `core_09-09_rights_part_a.md` and related **Sentient Constitution Chapter Nine** materials.
 
 **Independence and composition.** Panels must include relevant domain competence, conflict screening, published selection criteria, and meaningful challenge pathways. Service terms, compensation, and promotion structures must reduce dependence on journal prestige, dominant funders, vendor capture, or institutional retaliation against replication, criticism, or correction.
 
@@ -637,7 +637,7 @@ This section does not displace stricter lawful deadlines.
 
 ### CC-10.0 Class-scaled service requirements (notice through remediation closure)
 
-**Purpose:** **Contestability** requires **practically usable** notice, record access, review, appeal, restorative follow-through, and closure — not formal rights alone. This subsection ties **CC-10** timing and backlog discipline to **end-to-end** obligations. It does **not** add **Chapter Nine** rights text; operational detail for non-forum institutions sits in **`corpus_institutions.md`** **CI-6**, **CI-12**, and **CI-13**.
+**Purpose:** **Contestability** requires **practically usable** notice, record access, review, appeal, restorative follow-through, and closure — not formal rights alone. This subsection ties **CC-10** timing and backlog discipline to **end-to-end** obligations. It does **not** add **Sentient Constitution Chapter Nine** rights text; operational detail for non-forum institutions sits in **`corpus_institutions.md`** **CI-6**, **CI-12**, and **CI-13**.
 
 **Matter classes (minimum set for target windows and disclosure):**
 - **Emergency / imminent harm** — hours to a small number of days for initial responsive action where life, serious injury, or irreversible rights loss is at stake.
@@ -657,7 +657,7 @@ Forum performance must be measured against whether affected parties retain a pra
 - challenge adverse decisions before remedy becomes meaningless;
 - secure urgent relief when delay would produce irreversible or materially compounding harm.
 
-Backlog is constitutionally relevant when it materially degrades challenge rights, independent review, remedy, or trust in lawful adjudication. Where **material reliance** on timely or accessible adjudication is at issue, evaluate under **`core_05-05_definitions_c_dependent_clusters.md` Chapter Five, section 3.39** *Trust Degradation and Misleading Reliance* together with **Contestability** and **Transparency**.
+Backlog is constitutionally relevant when it materially degrades challenge rights, independent review, remedy, or trust in lawful adjudication. Where **material reliance** on timely or accessible adjudication is at issue, evaluate under **`core_05-05_definitions_c_dependent_clusters.md` Chapter Five, section 3.38** *Trust Degradation and Misleading Reliance* together with **Contestability** and **Transparency**.
 
 ### CC-10.2 Minimum metric categories
 Each forum family must publish and maintain metrics for at least:
@@ -812,11 +812,11 @@ Each forum system should maintain:
 - annual or periodic forum-performance summary linked to governance reporting.
 
 ### CC-10.15 Lived conditions during restriction and re-entry alignment (cross-layer)
-Forum systems must treat `corpus_systems.md` **Protocol C** section **10** (*Lived-condition floors, continuity, and re-entry alignment*) as a **binding implementation cross-check** when **coercive**, **supervised**, **quarantine**, or **durable-containment** matters are **routed** or **reviewed**. **Calendar** and **metric** performance under **CC-10.4**–**CC-10.6** must **not** **treat** **lived-condition** failures as **closed** because **procedural** milestones were **technically** reached.
+Forum systems must treat `corpus_systems.md` **Protocol C**, subsection **10** (*Lived-condition floors, continuity, and re-entry alignment*) as a **binding implementation cross-check** when **coercive**, **supervised**, **quarantine**, or **durable-containment** matters are **routed** or **reviewed**. **Calendar** and **metric** performance under **CC-10.4**–**CC-10.6** must **not** **treat** **lived-condition** failures as **closed** because **procedural** milestones were **technically** reached.
 
-Protocol C section **10** remains the owner of lived-condition substance. **CC-10.15** records only the forum performance and restoration interface: whether review dates, publication windows, access to records or counsel, restoration milestones, re-entry steps, and evidence-based renewed findings remain real in practice rather than closed by calendar compliance alone.
+`corpus_systems.md` **Protocol C**, subsection **10** remains the owner of lived-condition substance. **CC-10.15** records only the forum performance and restoration interface: whether review dates, publication windows, access to records or counsel, restoration milestones, re-entry steps, and evidence-based renewed findings remain real in practice rather than closed by calendar compliance alone.
 
-**Read with:** `corpus_institutions.md` **CI-13** (failure and accountability patterns); **CC-11.13** (*Restoration and reconciliation*); **Article XXIII** and **Article XXIII-A** as referenced in **Protocol C** §**10**.
+**Read with:** `corpus_institutions.md` **CI-13** (failure and accountability patterns); **CC-11.13** (*Restoration and reconciliation*); **Article XXIII** and **Article XXIII-A** as referenced in `corpus_systems.md` **Protocol C**, subsection **10**.
 
 ---
 
@@ -836,7 +836,7 @@ This section applies when ordinary forum operation is materially impaired by:
 
 It governs continuity of adjudication. It does not authorize permanent alteration of constitutional forum-family boundaries.
 
-Where forum continuity materially depends on constitutional systems, this section must be read with `corpus_systems.md` **Protocol A**, subsection **G** (*Governance continuity, crisis communications, and exercises*). Protocol A states the shared emergency lifecycle, crisis-communication, exercise, restoration-evidence, and audit-trail mechanics; **CC-11** supplies the forum-specific triggers, routing, quorum, backup-forum, docket, and adjudicative-review requirements.
+Where forum continuity materially depends on constitutional systems, this section must be read with `corpus_systems.md` **Protocol A**, subsection **G** (*Governance continuity, crisis communications, and exercises*). `corpus_systems.md` **Protocol A** states the shared emergency lifecycle, crisis-communication, exercise, restoration-evidence, and audit-trail mechanics; **CC-11** supplies the forum-specific triggers, routing, quorum, backup-forum, docket, and adjudicative-review requirements.
 
 ### CC-11.1 Rights-floor continuity rule
 Emergency forum operation must preserve, to the greatest feasible extent:
@@ -987,7 +987,7 @@ Forum continuity protocols must participate in the exercise cadence required by 
 - emergency relief under reduced staffing;
 - capture-sensitive routing and backup activation.
 
-Findings must be recorded and tied to remediation under **Protocol A**, subsection **G**, with docket, routing, quorum, and backup-forum failures separately identified.
+Findings must be recorded and tied to remediation under `corpus_systems.md` **Protocol A**, subsection **G**, with docket, routing, quorum, and backup-forum failures separately identified.
 
 ### CC-11.16 Non-compliant emergency patterns
 The following are presumptively non-compliant unless clearly justified and cured:

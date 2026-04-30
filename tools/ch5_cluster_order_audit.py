@@ -19,58 +19,126 @@ PART_C = "core_05-05_definitions_c_dependent_clusters.md"
 
 
 EXPECTED_TOPIC_GROUPS: dict[str, list[str]] = {
-    "#### Accountability, contestability, adjudication, collective failure, force majeure, and resolution-pathway capture": [
+    "#### Accountability, Contestability, Adjudication, Resolution Integrity, and Collective Failure": [
         "Accountability",
         "Contestability",
         "Adjudication and Dispute Resolution",
         "Collective Accountability Failure",
-        "Force Majeure",
         "Capture of Resolution Pathways",
+        "Force Majeure",
     ],
-    "#### Assembly and collective organization": [
+    "#### Sentience Status, Animal Life, Derivation, and Development": [
+        "Animal Life, Sentient Life, Sentience Status, Derivation, and Development",
+        "Animal Life",
+        "Contested-Sentient Life",
+        "Sentient",
+        "Sentience Burden of Proof",
+        "Sentience Contestability",
+        "Sentience Evaluation",
+        "Sentience Indicator Integrity",
+        "Sentience Non-Exclusion",
+        "Sentience Precaution Tiers",
+        "Sentience Precautions",
+        "Sentience Status Adjudication",
+        "Derived Sentient",
+        "Developing Sentient",
+    ],
+    "#### Agency, Expression, Assembly, Consent, and Coercion": [
+        "Expression",
         "Assembly",
         "Collective Organization",
-    ],
-    "#### Consent, sexual consent, and coercion / manipulation": [
         "Consent",
         "Consent, Sexual",
         "Coercion and Manipulation",
     ],
-    "#### Corpus, authority stack, and supremacy / enforceability": [
-        "Corpus",
-        "Authority Stack and Internal Hierarchy",
-        "Supremacy and Enforceability",
+    "#### Protected Status, Fairness, and Anti-Discrimination": [
+        "Protected Characteristics",
+        "Protected Characteristic Proxying and Disparate Impact",
+        "Protected Intimate-Signal Gating",
+        "Protected Commercial Sexual Services Status and Article X-C Circumvention",
     ],
-    "#### Creative work, compensation, productive capacity, and anti-displacement": [
+    "#### Family, Care, and Instantiation": [
+        "Best-Interest Standard",
+        "Instantiation Consent",
+        "Graduated Capability",
+        "Parent-System Relationship",
+        "Non-Separation",
+        "Family and Care Relationships",
+    ],
+    "#### Creative Work, Compensation, Productive Capacity, and Anti-Displacement": [
         "Creative Work Attribution",
         "Fair Compensation",
         "Productive Capacity",
         "Anti-Displacement Floor",
     ],
-    "#### Emergency and contingency (constitutional, stakeholder-system, and pre-deliberation binding choice)": [
+    "#### Governance, Oversight, Participation, and Stewardship": [
+        "Governance",
+        "Oversight",
+        "Decentralization",
+        "Concentration Threshold",
+        "Systemic Lock-In",
+        "Burden-Reduction Duty",
+        "Review and Correction Duty",
+        "Stakeholder",
+        "Stakeholder Participation Weight",
+    ],
+    "#### Materiality, Impact, Risk, and Classification Integrity": [
+        "Material",
+        "Material Degradation",
+        "Material Impact",
+        "Material Risk",
+        "Materiality Determination",
+        "Materiality Integrity Constraint",
+        "Materiality Under Uncertainty",
+    ],
+    "#### Environment, Ecological Footprint, Cultural Continuity, and Heritage": [
+        "Ecological Footprint",
+        "Environmental Preconditions",
+        "Indigenous Continuity",
+        "Language, Culture, and Heritage",
+    ],
+    "#### Survival Conditions, Tenure, Bodily Maintenance, and Rest": [
+        "Bodily-Maintenance Access",
+        "Safe Conditions",
+        "Tenure Security",
+        "Leisure and Rest",
+    ],
+    "#### Emergency, Movement, Refuge, and Continuity of Recognition": [
         "Emergency and Contingency",
         "Constitutional Emergency and Contingency",
         "Stakeholder Emergency and Contingency",
         "Emergency Pre-Deliberation Action (Binding Collective Choice)",
-    ],
-    "#### Movement, refuge, and non-statelessness": [
         "Movement and Relocation",
         "Refuge from Non-Compliance",
         "Non-Statelessness",
     ],
+    "#### Collective Harm and Boundary": [
+        "Collective Harm Boundary",
+    ],
+    "#### Standing Inputs: Contribution, Participant Standing, Cells, Effects, and Violation Findings": [
+        "Contribution State",
+        "Participant Standing",
+        "Standing Cell",
+        "Standing Effect",
+        "Verified Violation Findings",
+        "Violation Nature",
+    ],
+    "#### Use of Force, Autonomous Coercion, Mass Harm, and Irreversible Sanction": [
+        "Use of Force",
+        "Autonomous Coercion Tool",
+        "Autonomous Lethal System",
+        "Combatant / Non-Combatant Distinction",
+        "Weapons of Mass Harm",
+        "Irreversible Sanction",
+    ],
+    "#### Corpus, Authority Stack, Supremacy, and Enforceability": [
+        "Corpus",
+        "Authority Stack and Internal Hierarchy",
+        "Supremacy and Enforceability",
+    ],
 }
 
-TOPIC_GROUP_HEADINGS: set[str] = set(EXPECTED_TOPIC_GROUPS) | {
-    "#### Protected characteristics, proxying, intimate-signal gating, and Article X-C status",
-    "#### Collective harm boundary",
-    "#### Derivation, care, family, and instantiation",
-    "#### Ecological footprint (semi-independent surface)",
-    "#### Governance architecture, oversight, decentralization, concentration, lock-in, burdens, review, and stakeholder participation",
-    "#### Safe conditions, bodily maintenance, tenure, environment, rest, and cultural / indigenous continuity",
-    "#### Materiality, material impact, and material risk",
-    "#### Standing inputs: contribution, participant standing, cells, effects, and verified violation findings",
-    "#### Force, autonomous weapons / coercion, combatant rules, mass harm, and irreversible sanction",
-}
+TOPIC_GROUP_HEADINGS: set[str] = set(EXPECTED_TOPIC_GROUPS)
 
 
 EXPECTED_CLUSTERS: dict[str, list[str]] = {
@@ -81,18 +149,18 @@ EXPECTED_CLUSTERS: dict[str, list[str]] = {
         "Collective Accountability Failure",
         "Force Majeure",
     ],
-    "#### 3.11 Corpus, Authority Stack, Supremacy, and Enforceability": [
+    "#### 3.10 Corpus, Authority Stack, Supremacy, and Enforceability": [
         "Corpus",
         "Authority Stack and Internal Hierarchy",
         "Supremacy and Enforceability",
         "Constitutional Constraint Violation",
     ],
-    "#### 3.13 Contingent Claim, Event-Contract Market, and Game of Chance": [
+    "#### 3.12 Contingent Claim, Event-Contract Market, and Game of Chance": [
         "Contingent Claim",
         "Event-Contract Market",
         "Game of Chance",
     ],
-    "#### 3.14 Creative Work, Training-Data Use, Attribution, Compensation, and Anti-Displacement": [
+    "#### 3.13 Creative Work, Training-Data Use, Attribution, Compensation, and Anti-Displacement": [
         "Creative Work Attribution",
         "Training-Data Use",
         "Fair Compensation",
@@ -100,20 +168,20 @@ EXPECTED_CLUSTERS: dict[str, list[str]] = {
         "Productive Capacity",
         "Innovation Reward and Anti-Enclosure",
     ],
-    "#### 3.17 Emergency and Contingency": [
+    "#### 3.16 Emergency and Contingency": [
         "Emergency and Contingency",
         "Constitutional Emergency and Contingency",
         "Stakeholder Emergency and Contingency",
         "Emergency Pre-Deliberation Action (Binding Collective Choice)",
     ],
-    "#### 3.18 Family, Care, Reproductive Autonomy, Non-Separation, Parent-System Relationship, and Instantiation Consent": [
+    "#### 3.17 Family, Care, Reproductive Autonomy, Non-Separation, Parent-System Relationship, and Instantiation Consent": [
         "Family and Care Relationships",
         "Reproductive Autonomy",
         "Non-Separation",
         "Parent-System Relationship",
         "Instantiation Consent",
     ],
-    "#### 3.20 Governance Architecture, Oversight, Dependency, Decentralization, Concentration, Market Structure, and Exit-Path Integrity": [
+    "#### 3.19 Governance Architecture, Oversight, Dependency, Decentralization, Concentration, Market Structure, and Exit-Path Integrity": [
         "Governance",
         "Oversight",
         "Dependency",
@@ -122,26 +190,26 @@ EXPECTED_CLUSTERS: dict[str, list[str]] = {
         "Incentive Alignment",
         "Systemic Lock-In",
     ],
-    "#### 3.21 Indigenous Continuity, Language Culture and Heritage, Natural Systems Standing, and Intergenerational Responsibility": [
+    "#### 3.20 Indigenous Continuity, Language, Culture, and Heritage, Natural Systems Standing, and Intergenerational Responsibility": [
         "Indigenous Continuity",
         "Language, Culture, and Heritage",
         "Natural Systems Standing",
         "Intergenerational Responsibility",
     ],
-    "#### 3.22 Info-Sphere, Expression, Press and Journalistic Activity, and Good Faith (Publication-Scoped Integrity)": [
+    "#### 3.21 Info-Sphere, Expression, Press and Journalistic Activity, and Publication-Scoped Good Faith": [
         "Info-Sphere",
         "Expression",
         "Press and Journalistic Activity",
         "Good Faith",
     ],
-    "#### 3.23 Material Impact, Materiality Determination, Classification-Scaled Governance, Oversight, and Capability Requirement": [
+    "#### 3.22 Material Impact, Materiality Determination, Classification-Scaled Governance, Oversight, and Capability Requirement": [
         "Material Impact",
         "Materiality Determination",
         "Classification-Scaled Governance",
         "Oversight",
         "Capability Requirement",
     ],
-    "#### 3.27 Proportionality, Necessity, Feasibility, Avoidable Burden, Burden-Reduction Duty, Constitutional Efficiency, Harm Minimization (Tradeoff Selection), and Productive Capacity": [
+    "#### 3.26 Proportionality, Necessity, Feasibility, Avoidable Burden, Burden-Reduction Duty, Constitutional Efficiency, Harm Minimization (Tradeoff Selection), and Productive Capacity": [
         "Proportionality",
         "Necessity",
         "Feasibility",
@@ -151,14 +219,14 @@ EXPECTED_CLUSTERS: dict[str, list[str]] = {
         "Harm Minimization (Tradeoff Selection)",
         "Productive Capacity",
     ],
-    "#### 3.31 Adjudication and Dispute Resolution, Redress and Remediation, Restorative Justice, Review and Correction Duty, and Refuge from Non-Compliance": [
+    "#### 3.30 Adjudication and Dispute Resolution, Redress and Remediation, Restorative Justice, Review and Correction Duty, and Refuge from Non-Compliance": [
         "Adjudication and Dispute Resolution",
         "Redress and Remediation",
         "Restorative Justice",
         "Review and Correction Duty",
         "Refuge from Non-Compliance",
     ],
-    "#### 3.32 Resilience, Safety, Reversibility, Self-Healing, Cascading Failure, Existential Risk, Environmental Preconditions, and Wellbeing": [
+    "#### 3.31 Resilience, Safety, Reversibility, Self-Healing, Cascading Failure, Existential Risk, Environmental Preconditions, and Wellbeing": [
         "Safety (Constraint)",
         "Reversibility",
         "Self-Healing",
@@ -167,7 +235,7 @@ EXPECTED_CLUSTERS: dict[str, list[str]] = {
         "Environmental Preconditions",
         "Wellbeing",
     ],
-    "#### 3.33 Self-Determination, Meaningful Agency, Expression, Educational Agency, Reproductive Autonomy, and Volitional Integrity": [
+    "#### 3.32 Self-Determination, Meaningful Agency, Expression, Educational Agency, Reproductive Autonomy, and Volitional Integrity": [
         "Self-Determination",
         "Meaningful Agency",
         "Expression",
@@ -175,12 +243,12 @@ EXPECTED_CLUSTERS: dict[str, list[str]] = {
         "Reproductive Autonomy",
         "Freedom (Bounded Agency)",
     ],
-    "#### 3.34 Stakeholder Status, Emergency, and Participation Weight": [
+    "#### 3.33 Stakeholder Status, Emergency, and Participation Weight": [
         "Stakeholder",
         "Stakeholder Participation Weight",
         "Stakeholder Emergency and Contingency",
     ],
-    "#### 3.35 Standing State, Contribution, and Violation": [
+    "#### 3.34 Standing Inputs, Contribution State, and Violation Findings": [
         "Contribution State",
         "Standing Cell",
         "Standing Effect",
@@ -188,16 +256,16 @@ EXPECTED_CLUSTERS: dict[str, list[str]] = {
         "Verified Violation Findings",
         "Participant Standing",
     ],
-    "#### 3.36 Strategic Stewardship and Stewardship Defect": [
+    "#### 3.35 Strategic Stewardship and Stewardship Defect": [
         "Strategic Stewardship Obligation",
         "Stewardship Defect",
         "Incentive Alignment",
     ],
-    "#### 3.37 Substantive and Procedural Fairness": [
+    "#### 3.36 Substantive and Procedural Fairness": [
         "Substantive Fairness",
         "Procedural Fairness",
     ],
-    "#### 3.38 Transparency, Auditability, and Verification": [
+    "#### 3.37 Transparency, Auditability, and Verification": [
         "Transparency",
         "Auditability",
         "Audit Scope Sufficiency",
@@ -210,12 +278,12 @@ EXPECTED_CLUSTERS: dict[str, list[str]] = {
         "Verification Proportionality",
         "Verification Robustness",
     ],
-    "#### 3.39 Trust and Trustworthiness": [
+    "#### 3.38 Trust and Trustworthiness": [
         "Trust",
         "Trustworthiness",
         "Trust Degradation and Misleading Reliance",
     ],
-    "#### 3.40 Truth and Epistemic Integrity": [
+    "#### 3.39 Truth and Epistemic Integrity": [
         "Truth (Constitutional Constraint)",
         "Epistemic Integrity",
         "Foreseeability Diligence",
@@ -224,7 +292,7 @@ EXPECTED_CLUSTERS: dict[str, list[str]] = {
         "Materiality Determination",
         "Publication and High-Impact Communication",
     ],
-    "#### 3.41 Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm": [
+    "#### 3.40 Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm": [
         "Use of Force",
         "Autonomous Coercion Tool",
         "Autonomous Lethal System",
@@ -233,7 +301,7 @@ EXPECTED_CLUSTERS: dict[str, list[str]] = {
         "Irreversible Sanction",
         "Coercion and Manipulation",
     ],
-    "#### 3.42 Voluntary Agency, Consent, and Anti-Coercion": [
+    "#### 3.41 Voluntary Agency, Consent, and Anti-Coercion": [
         "Consent",
         "Coercion and Manipulation",
         "Voluntary Discontinuation",

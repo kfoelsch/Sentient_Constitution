@@ -153,7 +153,7 @@ For a non-operative reading walkthrough of **Chapters Eleven through Fourteen** 
 - Upstream: [Chapter Eleven](core_11-13_amendment.md#chapter-eleven-non-regression-and-substantive-amendment-validity) non-regression and Test 1; [Authority Stack and Internal Hierarchy](core_05-05_definitions_b_semi_independent.md#authority-stack), [Supremacy and Enforceability](core_05-05_definitions_b_semi_independent.md#supremacy-and-enforceability), and related [Corpus](core_05-05_definitions_b_semi_independent.md#corpus) boundary concepts.
 - Subsections: [§1](#1-additive-expansion-permitted)–[§2](#2-continuity-of-supremacy-and-challenge-rights-during-amendment); [§3](#3-supremacy-relative-to-other-binding-norms)–[§4](#4-disputes-involving-external-legal-orders).
 - Downstream: [Chapter Thirteen](core_11-13_amendment.md#chapter-thirteen-amendment-ratification-and-procedural-validity) adoption and supremacy continuity during amendment; [Article XXIII-A](core_09-09_rights_part_d.md) review pathways preserved against external process gaps; [Chapter Seven, section 6.2 — *Rights-floor waivers and unconstitutional contract terms*](core_07-07_misconduct.md#62-rights-floor-waivers-and-unconstitutional-contract-terms) where external-order interfaces implicate waiver or pseudo-contract devices.
-- Read with: **[corpus_systems.md](corpus_systems.md)** and **Protocol C** references in operative text on cross-jurisdiction execution; [Chapter Six, section 9 — *Enforcement Realism Anchors*](core_06-06_standing_integration.md#10-enforcement-realism-anchors) where cited in §3.3; [Corpus, Authority Stack, Supremacy, and Enforceability](core_05-05_definitions_c_dependent_clusters.md#corpus-authority-stack-supremacy-and-enforceability-cluster) (*Chapter Five §3.11 cluster — read with [Corpus](core_05-05_definitions_b_semi_independent.md#corpus) for custody and adoption*).
+- Read with: **[corpus_systems.md](corpus_systems.md)** and **Protocol C** references in operative text on cross-jurisdiction execution; [Chapter Six, section 9 — *Enforcement Realism Anchors*](core_06-06_standing_integration.md#10-enforcement-realism-anchors) where cited in §3.3; [Corpus, Authority Stack, Supremacy, and Enforceability](core_05-05_definitions_c_dependent_clusters.md#corpus-authority-stack-supremacy-and-enforceability-cluster) (*Chapter Five §3.10 cluster — read with [Corpus](core_05-05_definitions_b_semi_independent.md#corpus) for custody and adoption*).
 
 </details>
 
@@ -333,7 +333,7 @@ Constitutional interpretation, appeal, and review pathways under **Article XXIII
 
 - Upstream: [Chapter Eleven](core_11-13_amendment.md#chapter-eleven-non-regression-and-substantive-amendment-validity) Test 1 and non-regression; [Chapter Twelve](core_11-13_amendment.md#chapter-twelve-expansion-supremacy-and-external-legal-orders) supremacy and external-order interface; [Chapter Ten](core_10-10_governance.md#chapter-ten-constitutional-contract-legitimacy-authorization-and-stewardship) legitimacy context for collective change.
 - Subsections: [§§ 1–12](#1-heightened-review-for-rights-affecting-changes) procedural and custody validity suite (Tests 2–4, ratification, procedure requirements, and scope limit).
-- Downstream: Adoption instruments and edition custody tie to [Chapter Five *Corpus*](core_05-05_definitions_b_semi_independent.md#corpus), [Corpus, Authority Stack, Supremacy, and Enforceability](core_05-05_definitions_c_dependent_clusters.md#corpus-authority-stack-supremacy-and-enforceability-cluster) (*Chapter Five §3.11 cluster*), and [doc_architecture.md](doc_architecture.md); invalidity remediation interfaces with owner implementation layers.
+- Downstream: Adoption instruments and edition custody tie to [Chapter Five *Corpus*](core_05-05_definitions_b_semi_independent.md#corpus), [Corpus, Authority Stack, Supremacy, and Enforceability](core_05-05_definitions_c_dependent_clusters.md#corpus-authority-stack-supremacy-and-enforceability-cluster) (*Chapter Five §3.10 cluster*), and [doc_architecture.md](doc_architecture.md); invalidity remediation interfaces with owner implementation layers.
 - Read with: [Chapters Two through Four](core_02-04_definition_mechanics.md) publication, burden, and tracing requirements invoked in Tests 2 and 11.
 
 </details>
@@ -414,7 +414,7 @@ A proposed amendment is invalid unless required publication elements are satisfi
 
 - Upstream: [§4](#4-test-2-procedural-validity-and-publication-integrity) Test 2 publication integrity.
 - Downstream: [§10](#10-ratification-and-adoption) instruments and custody expectations; [Chapter Five *Corpus*](core_05-05_definitions_b_semi_independent.md#corpus) consistency requirements.
-- Read with: [doc_architecture.md](doc_architecture.md) document control and edition identifiers referenced in §10; [Corpus, Authority Stack, Supremacy, and Enforceability](core_05-05_definitions_c_dependent_clusters.md#corpus-authority-stack-supremacy-and-enforceability-cluster) (*Chapter Five §3.11 cluster*).
+- Read with: [doc_architecture.md](doc_architecture.md) document control and edition identifiers referenced in §10; [Corpus, Authority Stack, Supremacy, and Enforceability](core_05-05_definitions_c_dependent_clusters.md#corpus-authority-stack-supremacy-and-enforceability-cluster) (*Chapter Five §3.10 cluster*).
 
 </details>
 

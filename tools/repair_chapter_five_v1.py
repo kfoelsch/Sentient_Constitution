@@ -11,7 +11,6 @@ CH5 = ROOT / "core_05-05_definitions_a_independent.md"
 
 CANONICAL_CLUSTER_ANCHOR: dict[str, str] = {
     "Accountability, Contestability, Adjudication and Dispute Resolution, Collective Accountability Failure, and Force Majeure": "accountability-contestability-and-collective-accountability-failure-cluster",
-    "Animal Life, Sentient Life, and Sentience Status": "animal-life-sentient-life-and-sentience-status-cluster",
     "Assembly and Collective Organization": "assembly-and-collective-organization-cluster",
     "Binding Stakeholder Choice": "binding-stakeholder-choice-cluster",
     "Bodily-Maintenance Access, Safe Conditions, Tenure Security, Environmental Preconditions, Cultural Continuity, Rest, and Anti-Displacement Floor": "safe-conditions-tenure-security-and-environmental-preconditions-cluster",
@@ -26,13 +25,13 @@ CANONICAL_CLUSTER_ANCHOR: dict[str, str] = {
     "Forum Families and Dispute Routing": "forum-families-and-dispute-routing-cluster",
     "Governance Architecture, Oversight, Dependency, Decentralization, Concentration, Market Structure, and Exit-Path Integrity": "governance-architecture-oversight-decentralization-and-concentration-cluster",
     "Movement, Refuge, Non-Statelessness, and Exit Integrity": "movement-refuge-non-statelessness-and-exit-integrity-cluster",
-    "Privacy (Informational) — peer-level cluster head": "privacy-informational-cluster",
+    "Privacy (Informational)": "privacy-informational-cluster",
     "Protected Internal-State Boundary and Type-N Anti-Bypass": "protected-internal-state-boundary-and-type-n-anti-bypass-cluster",
     "Protected Reporting and Anti-Retaliation": "protected-reporting-and-anti-retaliation-cluster",
     "Proxy Integrity and Indicator-Reality Alignment": "proxy-integrity-and-indicator-reality-alignment-cluster",
     "Self-Determination, Meaningful Agency, Expression, Educational Agency, Reproductive Autonomy, and Volitional Integrity": "self-determination-and-meaningful-agency-cluster",
     "Stakeholder Status, Emergency, and Participation Weight": "stakeholder-status-emergency-and-participation-weight-cluster",
-    "Standing State, Contribution, and Violation": "standing-state-contribution-and-violation-cluster",
+    "Standing Inputs, Contribution State, and Violation Findings": "standing-state-contribution-and-violation-cluster",
     "Strategic Stewardship and Stewardship Defect": "strategic-stewardship-and-stewardship-defect-cluster",
     "Substantive and Procedural Fairness": "substantive-and-procedural-fairness-cluster",
     "Transparency, Auditability, and Verification": "transparency-auditability-and-verification-cluster",

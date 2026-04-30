@@ -5,7 +5,7 @@ groups without changing definition text. Run from repo root:
 
   python3 tools/reorder_ch5_section2_groups.py
 
-Writes core_05-05_definitions_a_independent.md in place (backup recommended).
+Writes core_05-05_definitions_b_semi_independent.md in place (backup recommended).
 
 Extraction skips O/E/C widget anchors (-e / -c / -o) when finding the next entry
 boundary so spans stay correct.
@@ -17,62 +17,57 @@ import re
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
-PATH = ROOT / "core_05-05_definitions_a_independent.md"
+PATH = ROOT / "core_05-05_definitions_b_semi_independent.md"
 
 # (non-operative group label, ordered list of primary anchor ids)
 GROUPS: list[tuple[str, list[str]]] = [
     (
-        "Accountability, contestability, adjudication, collective failure, force majeure, and resolution-pathway capture",
+        "Accountability, Contestability, Adjudication, Resolution Integrity, and Collective Failure",
         [
             "accountability",
             "contestability",
             "adjudication-and-dispute-resolution-constitutional",
             "collective-accountability-failure",
-            "force-majeure-constitutional",
             "capture-of-resolution-pathways",
+            "force-majeure-constitutional",
         ],
     ),
     (
-        "Assembly and collective organization",
+        "Sentience Status, Animal Life, Derivation, and Development",
         [
+            "animal-life-sentient-life-and-sentience-status-cluster",
+            "animal-life-constitutional",
+            "contested-sentient-life-constitutional",
+            "sentient",
+            "sentience-non-exclusion",
+            "sentience-status-adjudication-constitutional",
+            "derived-sentient-constitutional",
+            "developing-sentient-constitutional",
+        ],
+    ),
+    (
+        "Agency, Expression, Assembly, Consent, and Coercion",
+        [
+            "expression-constitutional",
             "assembly-constitutional",
             "collective-organization-constitutional",
-        ],
-    ),
-    (
-        "Consent, sexual consent, and coercion / manipulation",
-        [
             "consent-constitutional",
             "consent-sexual",
             "coercion-and-manipulation-constitutional",
         ],
     ),
     (
-        "Collective harm boundary",
-        ["collective-harm-boundary"],
-    ),
-    (
-        "Corpus, authority stack, and supremacy / enforceability",
+        "Protected Status, Fairness, and Anti-Discrimination",
         [
-            "corpus",
-            "authority-stack",
-            "supremacy-and-enforceability",
+            "protected-characteristics-constitutional",
+            "protected-characteristic-proxying-and-disparate-impact",
+            "protected-intimate-signal-gating",
+            "protected-commercial-sexual-services-status-and-article-x-c-circumvention",
         ],
     ),
     (
-        "Creative work, compensation, productive capacity, and anti-displacement",
+        "Family, Care, and Instantiation",
         [
-            "creative-work-attribution-constitutional",
-            "fair-compensation-constitutional",
-            "productive-capacity-constitutional",
-            "anti-displacement-floor-constitutional",
-        ],
-    ),
-    (
-        "Derivation, care, family, and instantiation",
-        [
-            "derived-sentient-constitutional",
-            "developing-sentient-constitutional",
             "best-interest-standard-constitutional",
             "instantiation-consent-constitutional",
             "graduated-capability-constitutional",
@@ -82,20 +77,16 @@ GROUPS: list[tuple[str, list[str]]] = [
         ],
     ),
     (
-        "Ecological footprint (semi-independent surface)",
-        ["ecological-footprint"],
-    ),
-    (
-        "Emergency and contingency (constitutional, stakeholder-system, and pre-deliberation binding choice)",
+        "Creative Work, Compensation, Productive Capacity, and Anti-Displacement",
         [
-            "emergency-and-contingency-constitutional",
-            "constitutional-emergency-and-contingency",
-            "stakeholder-emergency-and-contingency",
-            "emergency-pre-deliberation-action-binding-collective-choice",
+            "creative-work-attribution-constitutional",
+            "fair-compensation-constitutional",
+            "productive-capacity-constitutional",
+            "anti-displacement-floor-constitutional",
         ],
     ),
     (
-        "Governance architecture, oversight, decentralization, concentration, lock-in, burdens, review, and stakeholder participation",
+        "Governance, Oversight, Participation, and Stewardship",
         [
             "governance",
             "oversight-constitutional",
@@ -109,27 +100,53 @@ GROUPS: list[tuple[str, list[str]]] = [
         ],
     ),
     (
-        "Safe conditions, bodily maintenance, tenure, environment, rest, and cultural / indigenous continuity",
+        "Materiality, Impact, Risk, and Classification Integrity",
         [
-            "bodily-maintenance-access-constitutional",
-            "safe-conditions-constitutional",
-            "tenure-security-constitutional",
+            "material",
+            "material-degradation",
+            "material-impact",
+            "material-risk",
+            "materiality-determination",
+            "materiality-integrity-constraint",
+            "materiality-under-uncertainty",
+        ],
+    ),
+    (
+        "Environment, Ecological Footprint, Cultural Continuity, and Heritage",
+        [
+            "ecological-footprint",
             "environmental-preconditions-constitutional",
-            "leisure-and-rest-constitutional",
             "indigenous-continuity-constitutional",
             "language-culture-and-heritage-constitutional",
         ],
     ),
     (
-        "Movement, refuge, and non-statelessness",
+        "Survival Conditions, Tenure, Bodily Maintenance, and Rest",
         [
+            "bodily-maintenance-access-constitutional",
+            "safe-conditions-constitutional",
+            "tenure-security-constitutional",
+            "leisure-and-rest-constitutional",
+        ],
+    ),
+    (
+        "Emergency, Movement, Refuge, and Continuity of Recognition",
+        [
+            "emergency-and-contingency-constitutional",
+            "constitutional-emergency-and-contingency",
+            "stakeholder-emergency-and-contingency",
+            "emergency-pre-deliberation-action-binding-collective-choice",
             "movement-and-relocation-constitutional",
             "refuge-from-non-compliance-constitutional",
             "non-statelessness-constitutional",
         ],
     ),
     (
-        "Standing inputs: contribution, participant standing, cells, effects, and verified violation findings",
+        "Collective Harm and Boundary",
+        ["collective-harm-boundary"],
+    ),
+    (
+        "Standing Inputs: Contribution, Participant Standing, Cells, Effects, and Violation Findings",
         [
             "contribution-state",
             "participant-standing-constitutional",
@@ -140,7 +157,7 @@ GROUPS: list[tuple[str, list[str]]] = [
         ],
     ),
     (
-        "Force, autonomous weapons / coercion, combatant rules, mass harm, and irreversible sanction",
+        "Use of Force, Autonomous Coercion, Mass Harm, and Irreversible Sanction",
         [
             "use-of-force-constitutional",
             "autonomous-coercion-tool-constitutional",
@@ -150,12 +167,41 @@ GROUPS: list[tuple[str, list[str]]] = [
             "irreversible-sanction-constitutional",
         ],
     ),
+    (
+        "Corpus, Authority Stack, Supremacy, and Enforceability",
+        [
+            "corpus",
+            "authority-stack",
+            "supremacy-and-enforceability",
+        ],
+    ),
 ]
 
-GROUP_PREAMBLE = (
-    "**Reader grouping (non-operative).** The following definitions are collected for reading convenience. "
-    "Operative text is unchanged. Where **section 3** dependent clusters state admission scope or joint satisfaction, "
-    "those cluster rules still govern; this grouping does not create new joint-invocation obligations.\n\n"
+GROUP_LABELS = frozenset(
+    label
+    for label, _ids in GROUPS
+) | frozenset(
+    {
+        "Accountability, contestability, adjudication, collective failure, force majeure, and resolution-pathway capture",
+        "Animal Life, Sentient Life, Sentience Status, Derivation, and Development",
+        "Assembly, expression, and collective organization",
+        "Assembly and collective organization",
+        "Consent, sexual consent, and coercion / manipulation",
+        "Protected characteristics, proxying, intimate-signal gating, and Article X-C status",
+        "Collective Harm Boundary",
+        "Corpus, authority stack, and supremacy / enforceability",
+        "Creative Work, Compensation, Productive Capacity, and Anti-Displacement",
+        "Derivation, care, family, and instantiation",
+        "Care, family, and instantiation",
+        "Ecological footprint (semi-independent surface)",
+        "Emergency and contingency (constitutional, stakeholder-system, and pre-deliberation binding choice)",
+        "Governance architecture, oversight, decentralization, concentration, lock-in, burdens, review, and stakeholder participation",
+        "Safe conditions, bodily maintenance, tenure, environment, rest, and cultural / indigenous continuity",
+        "Materiality, material impact, and material risk",
+        "Movement, refuge, and non-statelessness",
+        "Standing Inputs: Contribution, Participant Standing, Cells, Effects, and Violation Findings",
+        "Force, autonomous weapons / coercion, combatant rules, mass harm, and irreversible sanction",
+    }
 )
 
 # Paired / alias anchors on the same definition as another primary id; do not treat as separate entries.
@@ -163,16 +209,17 @@ NON_PRIMARY_ANCHOR_IDS = frozenset(
     {
         "internal-hierarchy",
         "movement-and-relocation",
+        "sentient-composite",
     }
 )
 
 SECTION2_INTRO = """### 2. Semi-independent Definitions
 
-**Semi-independent Definitions** use the same O/E/C discipline as **section 1** where the full statement appears in this section. Terms whose canonical O/E/C appears only under a **section 3** dependent cluster are listed here for alphabetical continuity; their operative text is in that cluster.
+**Semi-independent Definitions** use the same O/E/C discipline as **section 1**. Where related semi-independent definitions must be read together, their reader-facing family context, admission scope, and joint-invocation / anti-bypass rule live in this section beside the relevant entries.
 
 Each entry has a single canonical O/E/C home in this chapter—either in **section 2** or in the applicable **section 3** cluster. Where **section 3**'s admission scope applies, joint satisfaction rules there govern; otherwise apply sections 1–2 as ordinary standalone definitions.
 
-Below, entries are **grouped by topic** for reading convenience (non-operative only). The alphabetical directory above still lists every semi-independent term in A–Z order."""
+Below, entries are **grouped by topic** for reading convenience (non-operative only). The alphabetical directory in [core_05-05_definitions_a_independent.md](core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) still lists every semi-independent term in A–Z order."""
 
 
 def find_next_primary_line_start(s: str, from_pos: int) -> int | None:
@@ -221,17 +268,30 @@ def extract_all_primary_blocks(s: str) -> dict[str, str]:
 
 
 def norm_block(b: str) -> str:
-    b = b.rstrip()
-    b = re.sub(r"\n---\s*$", "", b)
-    return b + "\n"
+    lines = b.rstrip().splitlines()
+    while lines:
+        while lines and not lines[-1].strip():
+            lines.pop()
+        if lines and lines[-1].strip() == "---":
+            lines.pop()
+            continue
+        if lines and lines[-1].startswith("#### "):
+            label = lines[-1].removeprefix("#### ").strip()
+            if label in GROUP_LABELS:
+                lines.pop()
+                continue
+        break
+    return "\n".join(lines).rstrip() + "\n"
 
 
 def main() -> None:
     text = PATH.read_text(encoding="utf-8")
     m2 = text.find("### 2. Semi-independent Definitions\n")
     m3 = text.find("\n### 3. Dependent clusters", m2)
-    if m2 < 0 or m3 < 0:
-        raise SystemExit("Could not locate section 2 / section 3 boundaries")
+    if m2 < 0:
+        raise SystemExit("Could not locate section 2 boundary")
+    if m3 < 0:
+        m3 = len(text)
 
     head = text[:m2]
     s2_full = text[m2:m3]
@@ -256,7 +316,6 @@ def main() -> None:
     for gi, (label, ids) in enumerate(GROUPS):
         if gi:
             out_parts.append("\n---\n\n")
-        out_parts.append(GROUP_PREAMBLE)
         out_parts.append(f"#### {label}\n\n")
         # Separator before the first entry in each group (ch5_entry_format_audit trace rule).
         out_parts.append("---\n\n")
