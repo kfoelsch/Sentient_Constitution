@@ -1,6 +1,6 @@
 # TODO
 
-**2026-04-30 cleanup:** Full active snapshots are preserved at [archive/TODO_SNAPSHOT_2026-04-30.md](archive/TODO_SNAPSHOT_2026-04-30.md) and [archive/TODO_SNAPSHOT_2026-04-30_POST_COMMIT.md](archive/TODO_SNAPSHOT_2026-04-30_POST_COMMIT.md). Older snapshots and completed-work archives remain listed below.
+**2026-04-30 cleanup:** A full pre-cleanup snapshot is preserved at [archive/TODO_SNAPSHOT_2026-04-30.md](archive/TODO_SNAPSHOT_2026-04-30.md). Older snapshots and completed-work archives remain listed below.
 
 ## Editor Checklist (Pre-Review / Pre-Merge)
 
@@ -35,7 +35,7 @@ Retired compatibility wrapper names such as `core_constitution.md`, `core_defini
 
   **Engineer status as of 2026-04-30 cleanup:** Many 2026-04-29 non-regression passes corrected stale chapter, article, anchor, and terminology routing without flipping this user-owned checkbox. Full detail is archived in [archive/TODO_SNAPSHOT_2026-04-30.md](archive/TODO_SNAPSHOT_2026-04-30.md) and summarized in [MEMLOG.md](MEMLOG.md).
 
-  **2026-04-30 continuation:** The non-regression redundancy sweep continued across the four companion corpus files and was committed as `ad3f704` (`Tighten companion corpus ownership pointers`). Detailed pass notes are archived in [archive/TODO_SNAPSHOT_2026-04-30_POST_COMMIT.md](archive/TODO_SNAPSHOT_2026-04-30_POST_COMMIT.md) and [MEMLOG.md](MEMLOG.md). Regression testing was intentionally left out.
+  **2026-04-30 continuation:** Targeted theme greps across the four companion corpus files found concrete self-healing duplication in `corpus_systems.md`; Protocol S4 now points to Protocol A subsection H and keeps only ecosystem-specific cross-checks. A follow-on pass converted the decentralized-continuity self-healing section into a Protocol A subsection H application, preserving only partition/offline/rejoin-specific safeguards. A later comprehensibility pass tightened Protocol B into an Article XX / CJS-3.15-through-3.19 / CJS-3.27 application while keeping systems-specific scaling, audit, modularity, resilience, incident-learning, and simplification checks. A further institutional-continuity pass shortened `corpus_institutions.md` **CI-11** so it states only the institutional trigger and supervisory interface for Protocol A subsection G, leaving operative exercise, crisis-communication, recovery-record, and remediation requirements in `corpus_systems.md`. A transition-governance pass then tightened `corpus_institutions.md` **CI-14** into the institutional custody, authorization, and oversight interface for `corpus_systems.md` **Protocol T**, leaving system phase structure, gate criteria, fallback handling, off-ramps, and re-baselining mechanics in Protocol T. The same pass corrected a stale Protocol D internal reference from section **5.D** to **5A**. A forum-records pass then replaced the `corpus_forum.md` **CC-12** scaffold with a pointer-first standard records, forms, access classes, evidence artifacts, publication/retention, and non-compliance section aligned to `corpus_joint_structure.md` **CJS-R12**, and removed stale migration notes saying **CC-3**, **CC-10**, **CC-11**, and **CI-7A/CI-7B** still needed migration. A non-regression cleanup pass then removed process-only regression-coverage prompts from `corpus_institutions.md`, removed the regression-matrix hook from `corpus_forum.md` **CC-10.0**, and converted the `corpus_joint_structure.md` drafting note to use active review notes until regression reinstatement. A further institutional pass corrected stale **CI-1.4** section-range text from **CI-1 through CI-16** to **CI-1 through CI-24** and tightened **CI-15A** so Chapter Five / Article XVII-D / PRIM7 / PROT4 ownership is stated once in a pointer-first owner-boundary paragraph while preserving institutional registry, access-order, sunset, and appeal mechanics. A further forum-continuity pass tightened `corpus_forum.md` **CC-11** so generic emergency lifecycle, crisis-communication, exercise, restoration-evidence, and audit-trail mechanics point to `corpus_systems.md` **Protocol A** subsection **G**, while **CC-11** keeps forum-specific activation, routing, quorum, backup-forum, docket, and adjudicative-review rules. A final forum/institution pass tightened `corpus_forum.md` **CC-8** protected-investigation language into a pointer-first Article XIII-A / Chapter Five / secrecy-rules interface while preserving only forum-specific authorization, renewal, taint-remedy, and later-challenge record fields; tightened `corpus_forum.md` **CC-10.15** so Protocol C section 10 remains the lived-condition owner while **CC-10.15** records only forum performance/restoration tracking; and shortened `corpus_institutions.md` **CI-7.3** Article XIII-A monitoring language into a monitor-interface pointer to Article XIII-A and **CC-8**. A science-publication pass then tightened `corpus_institutions.md` **CI-15B** into the institutional custody, evidence-package, conflict-control, reliance-gate, correction, access, incentive, and appeal interface for **Article XVII-E**, leaving constitutional meaning in Chapter Nine and forum routing in `corpus_forum.md` **CC-9**. A final monitor-interface pass tightened the remaining **CI-7.3** Article XIII-A monitoring-emphasis paragraph so it tests pathway function, independence failure, protected-activity chill, secrecy drift, notice/disclosure availability, and bypass indicators without restating Article XIII-A safeguards. Regression testing was intentionally left out.
 
   **Suggested acceptance check:** run targeted theme greps across `corpus_joint_structure.md`, `corpus_systems.md`, `corpus_institutions.md`, and `corpus_forum.md`; convert duplicative companion prose to pointers where it repeats Chapter Five definitions or Chapter Nine rights without adding implementation detail.
 
@@ -61,18 +61,8 @@ Keep this active file limited to:
 
 Move completed narratives to `archive/` when they make the active file hard to scan. Archived TODO text is history only; if it disagrees with the current corpus, the corpus wins.
 
-## Standard Procedure
-
-For future substantive cleanup passes:
-
-1. Commit corpus/source changes first, excluding generated noise such as `.DS_Store`.
-2. Then snapshot active meta files such as `TODO.md`, `MEMLOG.md`, and `implementation/ARCHITECTURE_WORKLIST.md` into `archive/`.
-3. Trim active meta files back to current open work, archive pointers, and the minimum context needed for the next session.
-4. Keep regression/evidence artifacts separate unless regression reinstatement or validation is explicitly in scope.
-
 ## Archives
 
-- **2026-04-30 post-commit active snapshot:** [archive/TODO_SNAPSHOT_2026-04-30_POST_COMMIT.md](archive/TODO_SNAPSHOT_2026-04-30_POST_COMMIT.md)
 - **2026-04-30 active cleanup snapshot:** [archive/TODO_SNAPSHOT_2026-04-30.md](archive/TODO_SNAPSHOT_2026-04-30.md)
 - **2026-04-29 snapshot:** [archive/TODO_SNAPSHOT_2026-04-29.md](archive/TODO_SNAPSHOT_2026-04-29.md)
 - **2026-04-26 full archive and snapshot:** [archive/TODO_ARCHIVED_2026-04-26.md](archive/TODO_ARCHIVED_2026-04-26.md), [archive/TODO_SNAPSHOT_2026-04-26.md](archive/TODO_SNAPSHOT_2026-04-26.md)

@@ -2,7 +2,7 @@
 
 This file holds the living architecture and publication checklist that previously lived in [doc_architecture.md](../doc_architecture.md) section 14.
 
-It is a process and execution tracker, not part of the normative Sentient Constitution corpus. Full cleanup snapshots are preserved at [../archive/ARCHITECTURE_WORKLIST_SNAPSHOT_2026-04-30.md](../archive/ARCHITECTURE_WORKLIST_SNAPSHOT_2026-04-30.md) and [../archive/ARCHITECTURE_WORKLIST_SNAPSHOT_2026-04-30_POST_COMMIT.md](../archive/ARCHITECTURE_WORKLIST_SNAPSHOT_2026-04-30_POST_COMMIT.md).
+It is a process and execution tracker, not part of the normative Sentient Constitution corpus. A full pre-cleanup snapshot is preserved at [../archive/ARCHITECTURE_WORKLIST_SNAPSHOT_2026-04-30.md](../archive/ARCHITECTURE_WORKLIST_SNAPSHOT_2026-04-30.md).
 
 Numbering note: section number **14** is preserved from [doc_architecture.md](../doc_architecture.md) so historical references remain easy to translate.
 
@@ -27,8 +27,6 @@ Numbering note: section number **14** is preserved from [doc_architecture.md](..
 8. **Optional dual format:** if `.md` mirrors or generated publication formats are added, follow the canonical-source and mirror discipline in [doc_architecture.md](../doc_architecture.md) section 1.
 
 9. **Redundancy pass (definitions-first):** continue using [doc_architecture.md](../doc_architecture.md) section 13. Grep by term/theme and convert competing text to pointers, especially where companion files repeat Chapter Five definitions or Chapter Nine rights without operational value.
-
-10. **Meta-file closeout standard:** after substantive corpus/source edits, commit those edits first; then snapshot `TODO.md`, `MEMLOG.md`, and this worklist into `archive/`; then reduce active meta files to current open work and archive pointers.
 
 ### Completed Historical Work
 
