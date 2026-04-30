@@ -874,14 +874,6 @@ Repeated or aggregated decisions that individually satisfy these constraints mus
 
 - [Proportionality](core_05-05_definitions_a_independent.md#proportionality) · [O](core_05-05_definitions_a_independent.md#proportionality) · [E](core_05-05_definitions_a_independent.md#proportionality-e) · [C](core_05-05_definitions_a_independent.md#proportionality-c)
 - [Risk](core_05-05_definitions_a_independent.md#risk) · [O](core_05-05_definitions_a_independent.md#risk) · [E](core_05-05_definitions_a_independent.md#risk-e) · [C](core_05-05_definitions_a_independent.md#risk-c)
-
-</details>
-
-*Heightened-risk and exposure terms (open for full O / E / C facets in Chapter Five):*
-
-<details>
-<summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
-
 - [Irreversible Harm](core_05-05_definitions_c_dependent_clusters.md#irreversible-harm) · [O](core_05-05_definitions_c_dependent_clusters.md#irreversible-harm) · [E](core_05-05_definitions_c_dependent_clusters.md#irreversible-harm-e) · [C](core_05-05_definitions_c_dependent_clusters.md#irreversible-harm-c)
 - [Existential Risk](core_05-05_definitions_a_independent.md#existential-risk) · [O](core_05-05_definitions_a_independent.md#existential-risk) · [E](core_05-05_definitions_a_independent.md#existential-risk-e) · [C](core_05-05_definitions_a_independent.md#existential-risk-c)
 - [Systemic Lock-In](core_05-05_definitions_b_semi_independent.md#systemic-lock-in) · [O](core_05-05_definitions_b_semi_independent.md#systemic-lock-in) · [E](core_05-05_definitions_b_semi_independent.md#systemic-lock-in-e) · [C](core_05-05_definitions_b_semi_independent.md#systemic-lock-in-c)
@@ -894,17 +886,11 @@ Repeated or aggregated decisions that individually satisfy these constraints mus
 
 *In plain terms: any action that limits a value must match the size and likelihood of the harm it addresses. The bar rises sharply where the risk is irreversible, could lock systems in, or could threaten recovery capacity.*
 
-Actions that constrain any value must be proportionate to the magnitude and likelihood of the harm or systemic impact being addressed.
+Actions that constrain any value must be proportionate to the magnitude and likelihood of the harm or systemic impact being addressed. Where actions introduce risk of irreversible harm, systemic lock-in, or Existential Risk, systems must apply heightened thresholds. Those thresholds cover justification, scrutiny, and reversibility where feasible.
+
+Escalation of these thresholds is required where materially relevant indicators apply. Those indicators include irreversibility exposure, concentrated dependency, high-consequence tail risk, plausible systemic lock-in, or Existential Risk.
 
 No system may be governed at a level lower than that required by its highest applicable classification.
-
-Where actions introduce risk of irreversible harm, systemic lock-in, or Existential Risk, systems must apply heightened thresholds.
-
-Those thresholds cover justification, scrutiny, and reversibility where feasible.
-
-Escalation of these thresholds is required where materially relevant indicators apply.
-
-Those indicators include irreversibility exposure, concentrated dependency, high-consequence tail risk, plausible systemic lock-in, or Existential Risk.
 
 ##### 6.1.2 Necessity
 
@@ -1172,12 +1158,12 @@ No evaluation is complete if it considers only immediate or local effects. Evalu
   - *Cluster-head home.* Chapter Five [§3.25 Privacy (Informational)](core_05-05_definitions_c_dependent_clusters.md#privacy-informational-cluster). Umbrella definition: [Privacy (Informational)](core_05-05_definitions_b_semi_independent.md#privacy-informational).
   - *No relaxation by read-across.* Each cluster member's locally-stated standard controls within its own scope and may **not** be loosened by importing a laxer standard from another member ("read-across").
   - *Type-N floor preserved.* Where **Article VII-B** *Protected Internal-State Boundary* is materially implicated, **Type N** handling under *[corpus_systems.md](corpus_systems.md), Chapter S1* applies and is **not** narrowed by this factor.
-  - *Scope of this factor.* This factor states evaluation-integration and anti-segmentation discipline across the existing distributed privacy coverage. It does **not** create, extend, or narrow any Chapter Nine rights-floor.
-- **voluntary agency, consent, and anti-coercion: high-stakes joint-invocation cluster** — A high-stakes life-direction matter may not be treated as voluntary through formal assent where substantive agency, consent, or anti-coercion conditions fail.
+  - *Scope of this factor.* Chapter Nine places privacy safeguards in **several** articles—not under one lone heading. That layout can tempt reviewers to address only the narrowest angle they prefer. **Evaluation integration** means treating together every safeguard the matter truly invokes under that sprawling coverage; **anti-segmentation** means nobody may carve the controversy into pigeonholes so a stricter rule elsewhere becomes easy to dodge. Such discipline attaches to Chapter Nine privacy as **already defined** elsewhere in this corpus. This factor therefore does **not** create, extend, or narrow any Chapter Nine rights-floor.
+- **voluntary agency, consent, and anti-coercion: high-stakes joint-invocation cluster** — **High-stakes life-direction matters** are decisions whose gravity substantially sets life's course or matches the admissions pattern noted under *Admission scope* immediately below. For those cases, reviewers must weigh **agency**, genuine **consent**, and protections against improper **coercion or manipulation** as a coherent bundle ("joint invocation"). Formal assent—sign-offs, scripted check-the-box approvals—cannot **substitute for** substantive satisfaction of those safeguards. Where substantive agency, consent, or anti-coercion conditions genuinely fail—that is, the person's reflective control, agreement, or freedom from undue pressure is not actually present—the matter **may not** be treated as voluntary through formal assent alone.
   - *Admission scope.* The cluster applies to voluntary discontinuation, irreversible or practically irreversible self-directed changes, dependency-rich decisions materially affecting continued existence or essential agency, and comparable decisions where voluntariness depends on jointly testing consent, self-determination, coercion/manipulation, information, dependency pressure, and reversibility.
   - *Cluster-head home.* Chapter Five [§3.41 Voluntary Agency, Consent, and Anti-Coercion](core_05-05_definitions_c_dependent_clusters.md#voluntary-agency-consent-and-anti-coercion-cluster).
-  - *No ordinary-consent import.* Outside that admission scope, Chapter Five *Consent*, *Self-Determination*, and *Coercion and Manipulation* remain reusable Independent Definitions and this cluster does **not** import voluntary-discontinuation discipline into ordinary consent, privacy, association, publication, training-data, sexual-consent, or commercial-service contexts.
-- **assembly and collective organization: joint-invocation cluster** — A matter within the cluster's admission scope must not be segmented into separate civic-association, labor-organization, platform-access, or authorization framings in a way that preserves formal access while defeating assembly or collective-organization protection.
+  - *No ordinary-consent import.* When a matter never satisfies *Admission scope* above, two guardrails work together. Chapter Five *Consent*, *Self-Determination*, and *Coercion and Manipulation* remain reusable Independent Definitions—applied on their ordinary footing without forcing reviewers to rerun this cluster's voluntary-discontinuation bundle. This cluster moreover does **not** carry voluntary-discontinuation discipline into ordinary consent, privacy, association, publication, training-data, sexual-consent, or commercial-service contexts: boilerplate invitations to consent **do not**, by themselves, engage the discontinuation-floor logic this subsection installs for admissions-tier matters.
+- **assembly and collective organization: joint-invocation cluster** — For matters admitted under Chapter Five [§3.4 Assembly and Collective Organization](core_05-05_definitions_c_dependent_clusters.md#assembly-and-collective-organization-cluster), **joint invocation** means one evaluation pass in which assembly safeguards and collective-organization safeguards stay bound together—not parallel exercises that silently drop one side. Evaluators **must not** segment the matter into separate civic-association, labor-organization, platform-access, or authorization framings in a way that **preserves formal access** on paper while **defeating** assembly protection **or** collective-organization protection in effect.
   - *Cluster-head home.* Chapter Five [§3.4 Assembly and Collective Organization](core_05-05_definitions_c_dependent_clusters.md#assembly-and-collective-organization-cluster). Member definitions: [Assembly](core_05-05_definitions_b_semi_independent.md#assembly-constitutional), [Collective Organization](core_05-05_definitions_b_semi_independent.md#collective-organization-constitutional).
   - *Owner floors.* **Article V-H** (assembly) and **Article III-D** (collective organization within the labor and economic floor) remain controlling within their scopes; this factor supplies evaluation-integration and anti-segmentation discipline only.
   - *Outside admission scope.* [Assembly](core_05-05_definitions_b_semi_independent.md#assembly-constitutional) and [Collective Organization](core_05-05_definitions_b_semi_independent.md#collective-organization-constitutional) may operate as supporting Independent Definitions without importing the whole cluster (Chapter Five §3.4).
@@ -1236,7 +1222,7 @@ Incentives must not reward behavior that degrades safety, truth, systemic stabil
 
 <br>
 
-**Definition map.** Incentive Alignment states the parent doctrine. Productive Capacity, Constitutional Efficiency, and Avoidable Burden identify the lawful incentive target. Proxy Divergence and Auditability test whether the claimed incentive actually tracks constitutional outcomes. Safety, Truth, and System Capture provide the boundary: incentives cannot reward harm, deception, or capture even when they appear efficient.
+**Definition map.** **Incentive Alignment** is the umbrella rule: pay, recognition, and other rewards should push stewards and operators toward what this instrument is actually trying to achieve. **Productive Capacity**, **Constitutional Efficiency**, and **Avoidable Burden** name the constructive side of that aim—building useful capability without wasting lawful effort and without creating hardship that reasonably could have been avoided. **Proxy Divergence** and **Auditability** are the skeptical follow-up: they ask whether simplified scores and dashboards still reflect those real aims, or have slipped out of sync—and whether the record is open enough to check. **Safety**, **Truth**, and **System Capture** mark the hard edge: incentives must not reward serious harm, misleading people, or private grip on power or governance, even when that path looks efficient on a spreadsheet.
 
 *In plain terms: stewards and operators should be rewarded for measurable constitutional outcomes — safety, truth, auditability, fixing problems, resisting capture, and durably expanding productive capacity — not for raw volume, utilization, headcount, or narrow financial targets that predictably erode those outcomes or manufacture avoidable burden.*
 
@@ -1315,7 +1301,7 @@ Concentrated or obscured control structures that undermine challenge rights, ove
 
 <br>
 
-**Definition map.** Contingent Claim, Game of Chance, and Event-Contract Market state the special market context. Incentive Alignment, Necessity, and Proportionality govern whether the structure can be justified. Capture of Resolution Pathways, Coercion and Manipulation, Contestability, Dependency, and Truth state the boundaries: settlement mechanics, prices, or odds cannot substitute for lawful process, non-coercion, or constitutional truth.
+**Definition map.** **Contingent Claim**, **Game of Chance**, and **Event-Contract Market** set the scene: pooled stakes and payouts tied to uncertain future outcomes. **Incentive Alignment**, **Necessity**, and **Proportionality** run the permissibility test—whether incentives still line up with constitutional aims, whether lighter means could accomplish the purpose, and whether scale and intrusion stay proportional to risk. **Capture of Resolution Pathways**, **Coercion and Manipulation**, **Contestability**, **Dependency**, and **Truth** mark the boundaries. Narrow or opaque control over who settles an uncertain payoff cannot substitute for lawful procedures that run through accountable, observable channels—in line with **Capture of Resolution Pathways**. Automated settlement rails, trader prices, and betting odds nonetheless cannot substitute for fair process overall, safeguards against undue pressure and deceptive steering, workable challenge where stakes demand it, proper attention when dependence is uneven, or grounded factual honesty under **Truth**—especially where rights, safety, or governance hang in the balance.
 
 *In plain terms: gambling and prediction-market–style systems may not be structured to reward unlawful harm, coercion, corruption, or capture of the **participants** and **processes** that decide outcomes. Their prices and odds are not, by themselves, evidence strong enough to settle questions of truth, rights, or compliance.*
 
