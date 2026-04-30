@@ -28,6 +28,7 @@ EXPECTED: dict[str, list[str]] = {
         "Harm",
         "Irreversible Harm",
         "Risk",
+        "Existential Risk",
         "Materiality",
         "Dependency",
         "Foreseeability",
