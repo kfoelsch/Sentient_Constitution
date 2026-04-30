@@ -1,0 +1,551 @@
+# Sentient Constitution — Definition mechanics and traceability
+
+This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one instrument. It contains **Chapters Two through Four**; chapter numbering and cross-references match the integrated instrument. Reading order, the binding/support split, and corpus edition metadata are maintained in [README.md](README.md).
+
+Upstream constitutional direction for this file's terms and evaluative constraints begins in [core_00-01_principles.md](core_00-01_principles.md). Canonical constitutional term ownership for Chapter Five resides in [core_05-05_definitions_a_independent.md](core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions).
+
+---
+
+## CHAPTER TWO: DEFINITION STRUCTURE AND COMPONENT REQUIREMENTS
+### 1. Purpose and Role
+This chapter defines how definitions must be decomposed into Ontological (O), Evaluative (E), and Compliance (C) components and how those components must remain internally aligned within each definition.
+
+Anti-evasion interpretation and observable non-compliance are governed by **Chapter Three**. Burden of proof, definition traceability, observability, security-constrained verification, and verification accessibility are governed by **Chapter Four**.
+
+Terminology and definitional refinements for evaluative and compliance work appear in **Chapter Five** §§1–3 (*Independent Definitions*, *Semi-independent Definitions*, and *Dependent clusters*).
+
+Enforceability in the constitutional sense is further specified in Chapter Five Independent Definitions ([Supremacy and Enforceability](core_05-05_definitions_b_semi_independent.md#supremacy-and-enforceability)).
+
+This chapter does not define:
+- enforcement mechanisms
+- governance processes
+- implementation methods
+- specific measurement techniques or tools
+- procedural audit workflows
+- classification schemas beyond definitional scope
+
+All such mechanisms must be defined in subsequent chapters and must operate in full compliance with the structural constraints established herein.
+
+### 2. Definition Structure Requirement
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Upstream: Principles: [Chapter Two opening](#chapter-two-definition-structure-and-component-requirements) — O/E/C decomposition and internal alignment requirement.
+- Downstream: [2.4 Definition Integrity Requirement](#24-definition-integrity-requirement); [Chapter Three, section 1 — Definition Integrity and Anti-Evasion Constraints](#1-definition-integrity-and-anti-evasion-constraints); [Chapter Four, section 1 — Exclusive Enforcement and Burden Allocation](#1-exclusive-enforcement-and-burden-allocation); [Chapter Four, section 2 — Compliance Evidence Standard](#2-compliance-evidence-standard).
+- Read with: [Chapter Five Clustered Definitions (Foreseeability Diligence)](core_05-05_definitions_c_dependent_clusters.md#foreseeability-diligence) — this section is the governing rule that makes every "reasonably foreseeable" in Chapters Two through Four an explicit invocation of Foreseeability; the phrase is also defined as [Reasonably Foreseeable](core_05-05_definitions_c_dependent_clusters.md#reasonably-foreseeable) (Chapter Five, section 3 — Dependent clusters (Truth and Epistemic Integrity cluster; Foreseeability Diligence)).
+
+</details>
+
+<strong><span style="color: #2563eb;">Definition:</span></strong> [Foreseeability](core_05-05_definitions_c_dependent_clusters.md#foreseeability-diligence) · [O](core_05-05_definitions_c_dependent_clusters.md#foreseeability-diligence) · [E](core_05-05_definitions_c_dependent_clusters.md#foreseeability-diligence-e) · [C](core_05-05_definitions_c_dependent_clusters.md#foreseeability-diligence-c)
+
+All definitions MUST be decomposed into single-function components. Each component must perform exactly one of the following roles:
+- Ontological (O): what the subject of the definition is
+- Evaluative (E): how the subject must be assessed
+- Compliance (C): what must be true in practice
+
+Definitions must be satisfied across full functional systems, including distributed and multi-actor implementations.
+
+All components (O, E, C) of a definition must be satisfied jointly and applied to the same functional system scope and evaluation conditions.
+
+No component may be satisfied independently in a manner that bypasses or weakens the others.
+
+All uses of “reasonably foreseeable” in **Chapters Two through Four** are governed exclusively by the Foreseeability definitions in Chapter Five, section 3 — Dependent clusters (Truth and Epistemic Integrity cluster; Foreseeability Diligence). They must be explicitly traceable where invoked.
+
+#### 2.1 Ontological Components (O) — What It Is
+Ontological components define the subject of the definition. Ontological components must not encode evaluation procedures or compliance outcomes. They must:
+- specify the nature of the concept
+- define inclusion and exclusion boundaries
+- identify the relevant system components, interactions, dependencies, and effects
+
+Ontological components must reflect functional reality. They must not rely on formal classification, labeling, jurisdiction, or declared intent where such representations diverge from actual system behavior or effects.
+
+#### 2.2 Evaluative Components (E) — How It Must Be Assessed
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Upstream: Principles: [Chapter Two opening](#chapter-two-definition-structure-and-component-requirements); [2. Definition Structure Requirement](#2-definition-structure-requirement) — E component role within O/E/C decomposition.
+- Downstream: [Chapter Three, section 1 — Definition Integrity and Anti-Evasion Constraints](#1-definition-integrity-and-anti-evasion-constraints); [Chapter Four, section 1 — Exclusive Enforcement and Burden Allocation](#1-exclusive-enforcement-and-burden-allocation) — exclusive enforcement pathway for evaluation requirements defined in Chapters Two and Three; [Chapter Four, section 2 — Compliance Evidence Standard](#2-compliance-evidence-standard) — evidence sufficiency for that enforcement.
+- Read with: [Chapter Five Independent Definitions](core_05-05_definitions_a_independent.md#1-interdependent-definitions) — applicable definitions that govern evaluative scope and conditions.
+
+</details>
+
+<br>
+
+Evaluative components define how a definition must be assessed. Evaluative components must not prescribe or imply required outcomes. All enforceable outcomes must be defined exclusively in Compliance components. They must:
+- specify required evaluation scope
+- specify required evaluation conditions
+- specify treatment of uncertainty where relevant
+
+All evaluation requirements defined in **Chapters Two and Three** must be enforced under **Chapter Four, section 1 — Exclusive Enforcement and Burden Allocation**, with evidence sufficiency governed by **Chapter Four, section 2 — Compliance Evidence Standard**. They must be applied consistently with all applicable Independent Definitions (Chapter Five, section 1 — Independent Definitions).
+
+#### 2.3 Compliance Components (C) — What Must Be True in Practice
+Compliance components define the required real-world conditions that must be satisfied. They must:
+- specify observable and enforceable outcomes
+- define conditions under which a definition is satisfied or violated
+- operate independently of internal claims, representations, or intent
+
+#### 2.4 Definition Integrity Requirement
+##### 2.4.1 Core Integrity Conditions
+Definitions must be internally coherent.
+
+They must preserve full alignment between their Ontological (O), Evaluative (E), and Compliance (C) components under all applicable evaluation conditions and functional system contexts.
+
+A definition is satisfied only where all Ontological (O), Evaluative (E), and Compliance (C) components are jointly satisfied.
+
+Joint satisfaction requires the same functional system scope and evaluation conditions. Failure to satisfy any component is non-compliant.
+
+##### 2.4.2 Non-Compliance by Structural or Applied Weakening
+A definition is non-compliant if its structure, interpretation, or application permits satisfaction of any component in a manner that:
+- weakens, bypasses, or contradicts any other component
+- produces outcomes that would not satisfy the full semantic, evaluative, and compliance scope of the definition under full functional system conditions
+- enables partial, selective, or condition-dependent satisfaction that would not hold under required evaluative conditions
+
+##### 2.4.3 Construction Constraints
+Definitions must be constructed such that:
+- all components (O, E, C) are jointly satisfiable only under conditions that reflect real-world system behavior and outcomes
+- no component can be satisfied through abstraction, decomposition, scoping, or representation that excludes materially relevant system elements, interactions, or effects
+- no implicit assumptions, structural dependencies, or omitted conditions alter or weaken required evaluation scope or compliance outcomes
+
+##### 2.4.4 Internal Consistency Conditions
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Upstream: Principles: [2.4 Definition Integrity Requirement](#24-definition-integrity-requirement); [2. Definition Structure Requirement](#2-definition-structure-requirement) governing-rule for "reasonably foreseeable" uses in Chapters Two through Four.
+- Downstream: [Chapter Three, section 2 — Non-Compliance from Observable System Behavior](#2-non-compliance-from-observable-system-behavior); [Chapter Four, section 3 — Definition Traceability Requirement](#3-definition-traceability-requirement).
+- Read with: [Chapter Five Clustered Definitions (Foreseeability Diligence)](core_05-05_definitions_c_dependent_clusters.md#foreseeability-diligence) for the operative meaning of "reasonably foreseeable" conditions, including [Reasonably Foreseeable](core_05-05_definitions_c_dependent_clusters.md#reasonably-foreseeable).
+
+</details>
+
+<strong><span style="color: #2563eb;">Definition:</span></strong> [Foreseeability](core_05-05_definitions_c_dependent_clusters.md#foreseeability-diligence) · [O](core_05-05_definitions_c_dependent_clusters.md#foreseeability-diligence) · [E](core_05-05_definitions_c_dependent_clusters.md#foreseeability-diligence-e) · [C](core_05-05_definitions_c_dependent_clusters.md#foreseeability-diligence-c)
+
+Internal consistency must hold across:
+- full functional system conditions; those conditions include normal, degraded, adversarial, temporal, and cross-system interaction contexts where materially relevant.
+- all reasonably foreseeable conditions as defined in Chapter Five, section 3 — Dependent clusters (Truth and Epistemic Integrity cluster; Foreseeability Diligence) (Foreseeability)
+- all valid interpretations consistent with the definition’s language and structure
+
+##### 2.4.5 Interpretation Rule Under Ambiguity
+Where multiple valid interpretations of a definition are possible, choose the interpretation that preserves the definition’s full semantic scope. That choice governs how the definition is applied. Interpretation must also preserve evaluative rigor. It must preserve compliance requirements. 
+
+Interpretations that produce materially weaker protections, reduced evaluation scope, or diminished real-world outcomes are invalid. Failure of definition integrity is non-compliant independent of system behavior or outcome. Definitions that cannot be applied without internal contradiction, scope misalignment, or component bypass must not be used for evaluation or compliance determination.
+
+## CHAPTER THREE: DEFINITION INTEGRITY AND OBSERVABLE NON-COMPLIANCE
+
+### 1. Definition Integrity and Anti-Evasion Constraints
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Upstream: Principles: [Chapter Two, section 2 — Definition Structure Requirement](#2-definition-structure-requirement); [Chapter Two, 2.4 Definition Integrity Requirement](#24-definition-integrity-requirement).
+- Downstream: [Chapter Three, section 2 — Non-Compliance from Observable System Behavior](#2-non-compliance-from-observable-system-behavior); [Chapter Four, section 2 — Compliance Evidence Standard](#2-compliance-evidence-standard); [Chapter Four, section 3 — Definition Traceability Requirement](#3-definition-traceability-requirement); [Chapter Six — Contribution, Violation, and Standing Model](core_06-06_standing_classification.md#chapter-six-compliance-violation-and-standing-model).
+- Read with: [Chapter One, section 3.2 — Truth (Epistemic Integrity Constraint)](core_00-01_principles.md#32-truth-epistemic-integrity-constraint) — interpretation based on observable behavior rather than declared structure or intent operationalizes the constitutional truth constraint at the definition-integrity layer.
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">Chapter Three index (non-operative): alphabetical links to in-chapter headings</span></strong></summary>
+
+[Cross-Component Scope Integrity Constraint](#24-cross-component-scope-integrity-constraint)
+
+[Cross-System Interaction Integrity Constraint](#25-cross-system-interaction-integrity-constraint)
+
+[Definition Integrity and Anti-Evasion Constraints](#1-definition-integrity-and-anti-evasion-constraints)
+
+[Evasion is Non-Compliance](#21-evasion-is-non-compliance)
+
+[Non-Compliance from Observable System Behavior](#2-non-compliance-from-observable-system-behavior)
+
+[Non-Reductive Evasion Types](#22-non-reductive-evasion-types)
+
+[Reductive Evasion](#23-reductive-evasion)
+
+[Temporal Integrity and Continuity Constraint](#26-temporal-integrity-and-continuity-constraint)
+
+[Uncertainty Integrity and Non-Exploitation Constraint](#27-uncertainty-integrity-and-non-exploitation-constraint)
+
+</details>
+
+<br>
+
+This section defines prohibited interpretations, constructions, and system behaviors.
+
+Those behaviors undermine the full semantic, evaluative, and compliance scope of definitions.
+
+It governs how definitions must be interpreted and applied in practice.
+
+This section does not define evaluation standards, evidence sufficiency, or burden of proof, which are governed exclusively by **Chapter Two, section 2** and **Chapter Four, sections 1 and 2**.
+
+Definitions must be interpreted and applied based on observable system behavior and outcomes under full functional system conditions.
+
+Functional equivalence governs over naming, structure, decomposition, representation, or declared intent.
+
+### 2. Non-Compliance from Observable System Behavior
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Upstream: Principles: [Chapter Three, section 1 — Definition Integrity and Anti-Evasion Constraints](#1-definition-integrity-and-anti-evasion-constraints); [Chapter Two, 2.4 Definition Integrity Requirement](#24-definition-integrity-requirement).
+- Downstream: the non-reductive, reductive, cross-component, cross-system, temporal, and uncertainty integrity constraints in sections [2.1](#21-evasion-is-non-compliance) through [2.7](#27-uncertainty-integrity-and-non-exploitation-constraint) of this chapter; [Chapter Four, section 4 — Observability of Traceability Requirement](#4-observability-of-traceability-requirement); [Chapter Six — Contribution, Violation, and Standing Model](core_06-06_standing_classification.md#chapter-six-compliance-violation-and-standing-model).
+- Read with: [Chapter Two, section 2 — Definition Structure Requirement](#2-definition-structure-requirement) for the joint-satisfaction rule under full functional system conditions; [Chapter Four, 2.1 — Verification requirements for evidence](#21-verification-requirements-for-evidence) — observable outcomes govern declared representations at the evidence layer.
+
+</details>
+
+<br>
+
+This section defines when systems are non-compliant based on observable behavior and outcomes, including where declared behavior or scope diverges from actual effects.
+
+A system is non-compliant where its observable behavior or outcomes would violate a definition. That violation is assessed under full application of its Ontological (O), Evaluative (E), and Compliance (C) components. That rule applies regardless of declared structure, interpretation, or implementation.
+
+Systems are non-compliant where:
+- declared system behavior, representations, or audit artifacts conflict with observable outcomes; in that case, observable outcomes govern
+- declared system scope conflicts with actual functional effects; in that case, definitions must be applied based on actual system behavior and effects
+
+#### 2.1 Evasion is Non-Compliance
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Upstream: Principles: [Chapter Three, section 2 — Non-Compliance from Observable System Behavior](#2-non-compliance-from-observable-system-behavior); [Chapter Two, 2.4.2 Non-Compliance by Structural or Applied Weakening](#242-non-compliance-by-structural-or-applied-weakening).
+- Downstream: [2.2 Non-Reductive Evasion Types](#22-non-reductive-evasion-types); [2.3 Reductive Evasion](#23-reductive-evasion); [Chapter Four, 2.4 — Disqualifying evidence; uncertainty; default rule](#24-disqualifying-evidence-uncertainty-default-rule); [Chapter Six — Contribution, Violation, and Standing Model](core_06-06_standing_classification.md#chapter-six-compliance-violation-and-standing-model).
+- Read with: [Chapter Two, 2.4.5 Interpretation Rule Under Ambiguity](#245-interpretation-rule-under-ambiguity) — interpretations that produce materially weaker protections are invalid and reinforce the anti-evasion determination made on observable outcomes rather than declared intent.
+
+</details>
+
+<br>
+
+Evasion must be determined based on observable system behavior and outcomes across time, scale, system interaction, and operational conditions where materially relevant.
+
+Evasion occurs where definitions are:
+- not satisfied in their full semantic, evaluative, and compliance scope under full functional system conditions
+- satisfied in form, representation, structure, or limited conditions, but not in their full semantic, evaluative, and compliance scope
+
+Evasion is non-compliant regardless of intent, awareness, or declared system purpose. Evasion is a form of structural or applied weakening of a definition at the point of application, and is non-compliant under the standard established in **Chapter Two, 2.4.2 — Non-Compliance by Structural or Applied Weakening**.
+
+A system exhibits evasion, and is non-compliant, where it:
+- produces outcomes inconsistent with the full protective, evaluative, or compliance scope of a definition
+- satisfies definition components only under restricted, non-representative, or selectively constructed conditions
+- relies on interpretations that preserve formal compliance while degrading real-world outcomes
+
+#### 2.2 Non-Reductive Evasion Types
+The following forms of evasion are prohibited. These categories are non-exhaustive and may co-occur.
+- Representation and Proxy-Based Evasion
+  - Proxy substitution: substituting metrics, indicators, or representations that diverge from the underlying definition while claiming compliance
+  - Metric exploitation: optimizing for measurable criteria in ways that degrade real-world outcomes required by the definition
+  - Representational evasion: generating or presenting artifacts or evidence that materially misrepresent actual system behavior or compliance status
+  - Formal compliance without functional effect: satisfying requirements in representation, structure, or process without producing required real-world outcomes
+- Scope and Boundary Evasion
+  - Selective scope limitation: restricting evaluation or application to exclude materially relevant system elements, effects, or conditions
+  - Fragmentation or decomposition: distributing responsibility across components, actors, or time to avoid full-system application
+  - Temporal evasion: satisfying definitions only under observation, audit, or limited conditions while violating them under broader operation
+- Incentive and System Dynamics Evasion
+  - Incentive-induced evasion: creating conditions under which compliance is systematically undermined by system incentives, dynamics, or equilibria
+
+#### 2.3 Reductive Evasion
+
+Reduction occurs where application of a definition produces outcomes that do not satisfy the full expression of its Ontological (O), Evaluative (E), and Compliance (C) components. A system is non-compliant where its interpretation or application of a definition reduces the definition's semantic scope, evaluative rigor, or compliance requirements, producing materially weaker protections or outcomes than the full definition requires.
+
+The following forms of reduction are prohibited:
+- Semantic reduction: treating a definition as descriptive while removing normative or evaluative force
+- Procedural reduction: treating execution of processes as sufficient regardless of real-world outcomes
+- Formal reduction: treating documentation, structure, or representation as sufficient without functional effect
+- Scope reduction: excluding materially relevant conditions, system elements, or effects
+- Evaluative reduction: weakening required evaluation conditions in practice through selective application
+- Outcome reduction: substituting proxy, partial, or intermediate outcomes for required real-world outcomes
+
+#### 2.4 Cross-Component Scope Integrity Constraint
+All definition components (Ontological (O), Evaluative (E), and Compliance (C)) must be applied to the same functional system scope, evaluation conditions, and temporal frame. All components must be satisfied jointly under consistent scope, conditions, and temporal context.
+
+Misalignment across components is both evasion and non-compliance, including:
+- applying Ontological components to broader or different system scopes than Compliance components
+- satisfying Evaluative components under constrained or idealized conditions while asserting compliance under full operation
+- demonstrating component satisfaction across different timeframes, instances, or system states
+
+#### 2.5 Cross-System Interaction Integrity Constraint
+Systems must be evaluated as part of the broader functional system in which they operate. That evaluation includes upstream dependencies, downstream effects, and interaction pathways where materially relevant. Definitions must be applied across interacting systems where such interactions materially affect outcomes governed by the definition.
+
+A system is non-compliant where:
+- its behavior, in combination with other systems, produces outcomes that violate a definition
+- it externalizes effects onto other systems, populations, or environments to preserve local compliance
+- system boundaries are used to exclude materially relevant interaction effects
+
+#### 2.6 Temporal Integrity and Continuity Constraint
+All components must be satisfied continuously under full functional system conditions across the system lifecycle.
+
+Compliance must be maintained across time, including system updates, version changes, retraining, reconfiguration, and deployment context shifts.
+
+A system is non-compliant where:
+- compliance is demonstrated only at a point in time or under limited observation
+- system changes degrade or invalidate previously satisfied definition components
+- compliance is fragmented across lifecycle stages such that no stage satisfies all components under full conditions
+
+#### 2.7 Uncertainty Integrity and Non-Exploitation Constraint
+Where uncertainty exists, definitions must be applied in a manner that preserves their full semantic, evaluative, and compliance scope.
+
+Application must occur under conditions proportionate to potential harm, dependency, and risk.
+
+Uncertainty must not be used to weaken, delay, or avoid application of definitions.
+
+A system is non-compliant where it:
+- invokes uncertainty to defer or avoid evaluation or compliance determination
+- applies uncertainty asymmetrically to favor compliance claims
+- amplifies ambiguity to weaken required rigor or outcomes
+- requires unattainable certainty to recognize non-compliance
+
+## CHAPTER FOUR: BURDEN OF PROOF, TRACEABILITY, AND VERIFICATION
+
+**Non-overlapping roles of sections 1 through 6.** Sections 1 through 6 of this chapter implement one integrated pipeline; failure in any section fails the whole. To limit redundancy and editorial drift, each section's **primary** job—what **neighboring** sections do not already do—is:
+
+- **Section 1:** **Who must prove compliance** and the **exclusive enforcement pathway** for every evaluation standard referenced elsewhere in this chapter. It does **not** specify evidence sufficiency (section 2), the trace **artifact** (section 3), required **instrumentation and access** (section 4), security **exceptions** (section 5), or practical accessibility (section 6).
+- **Section 2:** **What suffices as evidence**—joint O/E/C satisfaction under real conditions, independence where reasonably achievable, scaling with impact, disqualifying evidence, uncertainty defaults, and science-informed alignment. It does **not** allocate burden (section 1) or specify the trace **artifact** (section 3).
+- **Section 3:** The **structured trace artifact**: explicit mapping from each O/E/C component (and invoked **Chapter Five** definitions) to observable behavior and effects, and the rule that failure to invoke or correctly apply any materially required **Chapter Five** definition invalidates the determination in full. It does **not** allocate burden (section 1), restate evidence sufficiency (section 2), supply observability **capability** (section 4), or authorize security **exceptions** (section 5).
+- **Section 4:** **Observability enablers**—instrumentation and access so section 3's mappings can be examined under required conditions. Design-driven opacity is a compliance problem here, not a burden rule (section 1) and not a security carve-out (section 5).
+- **Section 5:** **Justified limits** on the manner, scope, timing, or accessibility of disclosure and verification; **pretextual** security claims cannot nullify tracing or independent validation. It does **not** define evidence sufficiency (section 2) or substitute crypto for sections **3** through **6** (**5.1**).
+- **Section 6:** **Practical achievability** for appropriately authorized or affected parties—cost, delay, complexity, and structural dependence must not make independent verification **practically** illusory. Constraints here remain subject to section **5**. It does **not** restate burden allocation (section **1**).
+
+Section **7** is a non-operative pointer to Chapter Six — Contribution, Violation, and Standing Model.
+
+### 1. Exclusive Enforcement and Burden Allocation
+All evaluation standards referenced elsewhere in this chapter are enforced exclusively through this section.
+
+The burden of demonstrating compliance rests on the system or actor asserting it.
+
+### 2. Compliance Evidence Standard
+#### 2.1 Verification requirements for evidence
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Upstream: Principles: [Chapter Four, section 1 — Exclusive Enforcement and Burden Allocation](#1-exclusive-enforcement-and-burden-allocation); [Chapter Two, section 2 — Definition Structure Requirement](#2-definition-structure-requirement); [Chapter Two, 2.4 Definition Integrity Requirement](#24-definition-integrity-requirement).
+- Downstream: [2.4 Disqualifying evidence; uncertainty; default rule](#24-disqualifying-evidence-uncertainty-default-rule); [Chapter Four, section 3 — Definition Traceability Requirement](#3-definition-traceability-requirement); [Chapter Four, section 4 — Observability of Traceability Requirement](#4-observability-of-traceability-requirement); [Chapter Four, section 6 — Verification Accessibility and Feasibility Constraint](#6-verification-accessibility-and-feasibility-constraint).
+- Read with: [Chapter Five, section 3 — Dependent clusters (Truth and Epistemic Integrity; Foreseeability Diligence)](core_05-05_definitions_c_dependent_clusters.md#foreseeability-diligence) — foreseeable conditions include adversarial, strategic, scaled, repeated, and misuse contexts where relevant.
+
+</details>
+
+<strong><span style="color: #2563eb;">Definition:</span></strong> [Foreseeability](core_05-05_definitions_c_dependent_clusters.md#foreseeability-diligence) · [O](core_05-05_definitions_c_dependent_clusters.md#foreseeability-diligence) · [E](core_05-05_definitions_c_dependent_clusters.md#foreseeability-diligence-e) · [C](core_05-05_definitions_c_dependent_clusters.md#foreseeability-diligence-c)
+
+Verification of evidence must satisfy each of the following, jointly and without substitution:
+
+**Evaluation conditions (scope and realism).** Verification must:
+- occur under conditions fully consistent with the required evaluative scope
+- not be derived from evaluation conditions that fail to represent actual system behavior, operation, or impact; such evidence does not satisfy the burden of proof.
+- reflect full functional system conditions and demonstrate compliance based on real-world system behavior and outcomes
+  - Outcomes must be assessed under reasonably foreseeable conditions as defined in Chapter Five, section 3 — Dependent clusters (Truth and Epistemic Integrity cluster; Foreseeability Diligence) (Foreseeability).
+  - The foreseeable set includes adversarial, strategic, scaled, repeated, and misuse contexts where relevant.
+- demonstrate robustness under such conditions given system capabilities, incentives, and access.
+
+**Joint satisfaction across definitions and O/E/C components.** Verification must:
+- satisfy all definitions jointly where multiple components apply, unless explicitly designated as mutually exclusive
+- demonstrate satisfaction of all Ontological (O), Evaluative (E), and Compliance (C) components jointly under the same functional system scope and evaluation conditions
+
+**Independence.** Verification must:
+- not rely solely on internally generated or self-attested artifacts where independent validation is reasonably achievable. Absence of such validation must be justified under proportionality constraints.
+
+**Minimum sufficiency properties.** Evidence must satisfy all of the following conditions jointly and without substitution:
+- be observable
+- be verifiable
+- be complete relative to required evaluative scope; incomplete or selectively scoped evidence does not satisfy the burden of proof
+- demonstrate sustained compliance across time, not point-in-time or condition-limited performance
+- be sufficient, in scope and rigor proportionate to system impact, dependency, and risk, to withstand independent audit and adversarial testing.
+
+**Consistency with the rest of the Constitution.** Verification must:
+- remain consistent with **Chapter Three, sections 1 and 2**. Where constitutional values or constraints interact or conflict in the same evaluation, verification must also remain consistent with Chapter One (Interaction and Conflict Resolution).
+
+#### 2.2 Invalidation and linked constraints
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Upstream: Principles: [Chapter Four, section 1 — Exclusive Enforcement and Burden Allocation](#1-exclusive-enforcement-and-burden-allocation); [2.1 Verification requirements for evidence](#21-verification-requirements-for-evidence); [Chapter Two, 2.4 Definition Integrity Requirement](#24-definition-integrity-requirement); [Chapter Three, section 1 — Definition Integrity and Anti-Evasion Constraints](#1-definition-integrity-and-anti-evasion-constraints).
+- Downstream: [2.4 Disqualifying evidence; uncertainty; default rule](#24-disqualifying-evidence-uncertainty-default-rule); [Chapter Four, section 5 — Security-Constrained Observability and Verification Rule](#5-security-constrained-observability-and-verification-rule); [5.1 Cryptographic protection, credentials, and verification](#51-cryptographic-protection-credentials-and-verification-constitutional-layer); [Chapter Six — Contribution, Violation, and Standing Model](core_06-06_standing_classification.md#chapter-six-compliance-violation-and-standing-model).
+- Read with: [Chapter Four, 3.1 Chapter Five definitions and tracing integrity](#31-interdependent-definitions-and-tracing-integrity) — invalidation here tracks the tracing-integrity rule that failure to invoke or correctly apply any materially required **Chapter Five** definition invalidates the associated evaluation, evidence, and compliance determination in full.
+
+</details>
+
+<br>
+
+Failure to satisfy any required definition or definition component invalidates all dependent compliance claims. Any constraints on evidence generation, disclosure, or verification must comply with **section 5** of this chapter (Security-Constrained Observability and Verification Rule). They must comply with **5.1** where cryptographic controls apply.
+
+#### 2.3 Scaling with impact, dependency, and risk
+This required standard scales with:
+- system impact
+- dependency
+- risk
+
+#### 2.4 Disqualifying evidence; uncertainty; default rule
+The following conditions or evidence types do not meet the burden of proof and are non-compliant:
+- failure to provide required evidence where it exists or is required to exist under this chapter
+- data consisting of proxy indicators, derived metrics, or self-reported claims that do not demonstrate real-world outcomes required by Compliance (C) components
+- insufficient or partial evidence
+
+Where uncertainty prevents definitive demonstration of compliance for materially relevant definition components, systems must meet a precautionary burden proportionate to potential harm. Failure to do so results in non-compliance. Where the burden of proof is not satisfied, systems must default to non-compliant status. They may default instead to the most conservative classification consistent with potential harm.
+
+#### 2.5 Science-informed evidence alignment
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Upstream: Principles: [2.1 Verification requirements for evidence](#21-verification-requirements-for-evidence); [Chapter One, section 3.2 — Truth (Epistemic Integrity Constraint)](core_00-01_principles.md#32-truth-epistemic-integrity-constraint); [Chapter One, section 6.2 — Epistemic Disclosure Constraints](core_00-01_principles.md#62-epistemic-disclosure-constraints).
+- Downstream: [Chapter Four, section 3 — Definition Traceability Requirement](#3-definition-traceability-requirement); [Chapter Four, section 6 — Verification Accessibility and Feasibility Constraint](#6-verification-accessibility-and-feasibility-constraint).
+- Read with: [Chapter Five Truth (Constitutional Constraint)](core_05-05_definitions_c_dependent_clusters.md#truth-constitutional-constraint) and [Chapter Five Epistemic Integrity](core_05-05_definitions_c_dependent_clusters.md#epistemic-integrity) — this section operationalizes both at the evidence layer.
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
+
+- [Truth (Constitutional Constraint)](core_05-05_definitions_c_dependent_clusters.md#truth-constitutional-constraint) · [O](core_05-05_definitions_c_dependent_clusters.md#truth-constitutional-constraint-o) · [E](core_05-05_definitions_c_dependent_clusters.md#truth-constitutional-constraint-e) · [C](core_05-05_definitions_c_dependent_clusters.md#truth-constitutional-constraint-c)
+- [Epistemic Integrity](core_05-05_definitions_c_dependent_clusters.md#epistemic-integrity) · [O](core_05-05_definitions_c_dependent_clusters.md#epistemic-integrity-o) · [E](core_05-05_definitions_c_dependent_clusters.md#epistemic-integrity-e) · [C](core_05-05_definitions_c_dependent_clusters.md#epistemic-integrity-c)
+
+</details>
+
+<br>
+
+For **empirical**, **predictive**, or **causal** claims material to compliance, classification, or governance, evidence generation and reporting should reflect **scientific integrity**. Where proportionate:
+- use **testable** or **reviewable** methods 
+- document **assumptions** and **limitations**
+- do **not** suppress **null results**, **failed replications**, or **known conflicts** where they bear on decisions
+- keep conclusions **revisable** on new evidence.
+
+That standard is consistent with **Truth (Constitutional Constraint)**, **Epistemic Integrity** (Chapter Five), and this section. This does not require laboratory science for every decision. It does require **proportional** openness to **disconfirmation** and **independent** validation where this chapter and Chapter Five require verification.
+
+### 3. Definition Traceability Requirement
+This section specifies the structured trace artifact that links each Ontological (O), Evaluative (E), and Compliance (C) component—and every materially required **Chapter Five** definition—to observable system behavior and effects. Joint O/E/C satisfaction, observable-behavior interpretation, and evidence-sufficiency substance are not restated here; they are governed by **Chapter Two, section 2**, **Chapter Three, section 2**, and **this chapter's sections 1 and 2** respectively. Tracing mappings and their verification methods must satisfy the **Compliance Evidence Standard** (**section 2** of this chapter) and must be supported by observable, verifiable evidence.
+
+<a id="31-interdependent-definitions-and-tracing-integrity"></a>
+
+#### 3.1 Chapter Five definitions and tracing integrity
+Failure to invoke or correctly apply any materially required **Chapter Five** definition invalidates the associated evaluation, evidence, and compliance determination in full. Partial, selective, or non-representative tracing is non-compliant.
+
+#### 3.2 Mandatory traceability properties
+Traceability must be:
+- evaluated in full compliance with **Chapter Three, sections 1 and 2** (Definition Integrity and Anti-Evasion Constraints; Non-Compliance from Observable System Behavior).
+- expressed in a structured, auditable form that maps each definition component (O/E/C) to specific system properties, behaviors, and effects.
+- verified in actual operational conditions, with all mapped components (O/E/C) satisfied jointly under the same functional system scope and evaluation conditions.
+- mapped to actual operational system behavior under full functional system conditions including normal, degraded, adversarial, and interaction conditions where materially relevant. Mappings to abstracted, idealized, or non-operational representations do not satisfy this requirement.
+- complete relative to the required evaluative scope and must include normal, degraded, adversarial, temporal, and cross-system interaction conditions where materially relevant.
+- maintained across system updates, version changes, and deployment contexts; failure to maintain tracing over time is non-compliant.
+- bidirectional, such that:
+  - each definition component (O/E/C) maps to observable system behavior and effects, including direct, indirect, delayed, and aggregated effects where materially relevant.
+  - all materially relevant system behaviors must be mapped completely and representatively, without omission of materially relevant behaviors or conditions
+
+### 4. Observability of Traceability Requirement
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Upstream: Principles: [Chapter Four, section 3 — Definition Traceability Requirement](#3-definition-traceability-requirement); [Chapter Four, section 2 — Compliance Evidence Standard](#2-compliance-evidence-standard).
+- Downstream: [Chapter Four, section 5 — Security-Constrained Observability and Verification Rule](#5-security-constrained-observability-and-verification-rule); [Chapter Four, section 6 — Verification Accessibility and Feasibility Constraint](#6-verification-accessibility-and-feasibility-constraint).
+- Read with: [Chapter Five Clustered Definitions (Foreseeability Diligence)](core_05-05_definitions_c_dependent_clusters.md#foreseeability-diligence) — design-driven opacity must be evaluated against reasonably foreseeable conditions, not best-case operation.
+
+</details>
+
+<strong><span style="color: #2563eb;">Definition:</span></strong> [Foreseeability](core_05-05_definitions_c_dependent_clusters.md#foreseeability-diligence) · [O](core_05-05_definitions_c_dependent_clusters.md#foreseeability-diligence) · [E](core_05-05_definitions_c_dependent_clusters.md#foreseeability-diligence-e) · [C](core_05-05_definitions_c_dependent_clusters.md#foreseeability-diligence-c)
+
+Systems must possess sufficient observability, instrumentation, and access to system components, data, and interactions. Those capabilities must enable full satisfaction of Definition Traceability requirements (**section 3** of this chapter).
+
+Inability to observe, measure, or verify any materially relevant definition component (Ontological, Evaluative, or Compliance) is non-compliant. That inability must arise under required evaluation conditions as defined in this chapter.
+
+Limitations arising from system design, architectural opacity, external dependencies, or third-party components do not exempt systems from this requirement. Such limitations must be treated as system design failures and addressed through modification, constraint, or exclusion of non-compliant components.
+
+Systems must not rely on components or dependencies that prevent satisfaction of this requirement under reasonably foreseeable conditions. Where full tracing cannot be achieved, systems must be treated as non-compliant for the affected definition components and any dependent compliance claims.
+
+### 5. Security-Constrained Observability and Verification Rule
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Upstream: Principles: [Chapter Four, section 4 — Observability of Traceability Requirement](#4-observability-of-traceability-requirement); [Chapter One, section 6.2 — Epistemic Disclosure Constraints](core_00-01_principles.md#62-epistemic-disclosure-constraints).
+- Downstream: [5.1 Cryptographic protection, credentials, and verification](#51-cryptographic-protection-credentials-and-verification-constitutional-layer); [Chapter Four, section 6 — Verification Accessibility and Feasibility Constraint](#6-verification-accessibility-and-feasibility-constraint).
+- Read with: [Chapter Five Clustered Definitions (Foreseeability Diligence)](core_05-05_definitions_c_dependent_clusters.md#foreseeability-diligence) — design choices that predictably prevent verification under reasonably foreseeable conditions are non-compliant regardless of stated security rationale.
+
+</details>
+
+<strong><span style="color: #2563eb;">Definition:</span></strong> [Foreseeability](core_05-05_definitions_c_dependent_clusters.md#foreseeability-diligence) · [O](core_05-05_definitions_c_dependent_clusters.md#foreseeability-diligence) · [E](core_05-05_definitions_c_dependent_clusters.md#foreseeability-diligence-e) · [C](core_05-05_definitions_c_dependent_clusters.md#foreseeability-diligence-c)
+
+Security, misuse-prevention, or adversarial risk may justify proportionate constraint on the manner, scope, timing, or accessibility of disclosure, audit, or verification. Such risk does **not** eliminate the underlying obligation to satisfy observability, tracing, verifiability, or auditability requirements.
+
+No system may invoke security, confidentiality, or misuse risk to avoid obligations toward materially relevant evidence. Those obligations include creation, maintenance, and independent validation required for compliance determination. Independent validation must be independent of the system or actor asserting compliance.
+
+Systems must not be designed or structured in a manner that predictably prevents satisfaction of these requirements under reasonably foreseeable conditions.
+
+Where unrestricted disclosure would materially increase foreseeable risk, systems must implement the least-restrictive constraint consistent with safety and security. Foreseeable risk includes exploitation, circumvention, and systemic harm. At the same time, they must preserve the maximum achievable degree of independent audit, verification, and challenge rights. That preservation must use reasonably available methods proportionate to system impact, dependency, and risk.
+
+Such constraints must be:
+- justified as materially necessary
+- proportionate to the risk addressed
+- narrowly scoped
+- auditable
+- independently verifiable in their justification and scope
+- time-limited where feasible
+- non-pretextual
+
+Restrictions that prevent meaningful independent validation of materially relevant compliance claims render those claims non-compliant unless all of the following are true:
+
+- No safer validation pathway is reasonably achievable.
+- That determination is independently justified and auditable.
+- The remaining method preserves sufficient epistemic integrity for compliance determination.
+
+#### 5.1 Cryptographic protection, credentials, and verification (constitutional layer)
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Upstream: Principles: [Chapter Four, section 5 — Security-Constrained Observability and Verification Rule](#5-security-constrained-observability-and-verification-rule); [Chapter One, section 3.1 — Safety (Harm Constraint)](core_00-01_principles.md#31-safety-harm-constraint); [Chapter One, section 3.2 — Truth (Epistemic Integrity Constraint)](core_00-01_principles.md#32-truth-epistemic-integrity-constraint).
+- Downstream: Implementation-layer choices live in `corpus_systems.md`, annex protocols, and adopter technical baselines; this subsection states constitutional outcomes only. Cross-reads: Article VII-A (Self-Ownership), Article VII-B (Internal-State Boundary and Type-N Protection), Article XV-A, and Article XVI-A where environment-separation constraints are material.
+- Read with: [Chapter Five Truth (Constitutional Constraint)](core_05-05_definitions_c_dependent_clusters.md#truth-constitutional-constraint) and [Chapter Five Safety (Constraint)](core_05-05_definitions_a_independent.md#safety-constraint) — cryptographic controls must stay consistent with both and must not be invoked to replace sections 3 through 6 of this chapter.
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
+
+- [Truth (Constitutional Constraint)](core_05-05_definitions_c_dependent_clusters.md#truth-constitutional-constraint) · [O](core_05-05_definitions_c_dependent_clusters.md#truth-constitutional-constraint-o) · [E](core_05-05_definitions_c_dependent_clusters.md#truth-constitutional-constraint-e) · [C](core_05-05_definitions_c_dependent_clusters.md#truth-constitutional-constraint-c)
+- [Safety (Constraint)](core_05-05_definitions_a_independent.md#safety-constraint) · [O](core_05-05_definitions_a_independent.md#safety-constraint) · [E](core_05-05_definitions_a_independent.md#safety-constraint-e) · [C](core_05-05_definitions_a_independent.md#safety-constraint-c)
+
+</details>
+
+<br>
+
+**Cryptography** (encryption, signing, **key** management, **credential** and **token** protection) serves **confidentiality**, **integrity**, **authenticity**, and **misuse resistance**.
+
+Those services must stay consistent with [Truth (Constitutional Constraint)](core_05-05_definitions_c_dependent_clusters.md#truth-constitutional-constraint) and [Safety (Constraint)](core_05-05_definitions_a_independent.md#safety-constraint), and with **Articles VII-A and VII-B** (*Self-Ownership*; *Internal-State Boundary and Type-N Protection*).
+
+They must stay consistent with **Chapter One**, section 6.2 (*Epistemic Disclosure Constraints*) where applicable.
+
+**Operational** choices—algorithms, key lengths, rotation cadences, HSM use, and protocol suites—are specified in **corpus_systems.md**, annex protocols, and adopters’ technical baselines.
+
+This subsection states **constitutional outcomes**, not cipher catalogs.
+
+- **Non-substitution:** Cryptographic controls **do not** satisfy, and **must not** be invoked to replace, **sections 3 through 6** of this chapter. For **materially relevant** compliance facts, **observability**, **definition traceability**, **independent verification**, and **challenge rights** must remain achievable. That achievement must use **qualified** pathways under **section 5** (including **security-constrained** verification). It must also use adopted implementation requirements for transparency, auditability, and verification together with **[corpus_systems.md](corpus_systems.md), Chapter S1 — Information Types and Handling**. Pathways must **not** rely on **permanent** concealment of compliance-relevant evidence. They must **not** rest on **pretextual** claims that encryption makes verification impossible where safer pathways are **reasonably achievable**.
+- **Key and environment discipline:** **Secrets**, **keys**, and **credentials** must be **scoped**, **rotated**, and **segregated**. **Non-production** compromise must **not** grant **production** authority. **Custody** must support **audit** and **incident** response without defeating **section 5** justification rules (see **[corpus_systems.md](corpus_systems.md)**, **Protocol A**, environment-separation expectations).
+- **Integrity of records:** Where encryption protects stored or transmitted **audit** or **decision** records, systems must preserve **attributable custody** and **recoverability** for **independent** review. They must preserve **tamper-evidence** or **equivalent integrity assurance**. Review must be proportionate to impact. Those requirements are consistent with **Article XV-A** and **Chapter Four** tracing.
+
+### 6. Verification Accessibility and Feasibility Constraint
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Upstream: Principles: [Chapter Four, section 2 — Compliance Evidence Standard](#2-compliance-evidence-standard); [Chapter Four, section 3 — Definition Traceability Requirement](#3-definition-traceability-requirement); [Chapter Four, section 4 — Observability of Traceability Requirement](#4-observability-of-traceability-requirement).
+- Downstream: [Chapter Four, section 5 — Security-Constrained Observability and Verification Rule](#5-security-constrained-observability-and-verification-rule) governs any constraints imposed for security, safety, or operational reasons; [5.1](#51-cryptographic-protection-credentials-and-verification-constitutional-layer) governs cryptographic controls.
+- Read with: [Chapter Five Clustered Definitions (Foreseeability Diligence)](core_05-05_definitions_c_dependent_clusters.md#foreseeability-diligence) — theoretical verifiability that is not practically achievable under reasonably foreseeable conditions is non-compliant.
+
+</details>
+
+<strong><span style="color: #2563eb;">Definition:</span></strong> [Foreseeability](core_05-05_definitions_c_dependent_clusters.md#foreseeability-diligence) · [O](core_05-05_definitions_c_dependent_clusters.md#foreseeability-diligence) · [E](core_05-05_definitions_c_dependent_clusters.md#foreseeability-diligence-e) · [C](core_05-05_definitions_c_dependent_clusters.md#foreseeability-diligence-c)
+
+Verification of compliance must be practically achievable by appropriately authorized or affected parties.
+
+Methods, resources, and access conditions must be proportionate to system impact, dependency, and risk.
+
+Systems must not impose cost, complexity, delay, access restrictions, or informational conditions that materially impair the ability to perform independent verification of compliance.
+
+Verification mechanisms must be designed such that:
+- required resources (technical, financial, computational, or informational) are proportionate to system impact and do not create prohibitive barriers
+- access is available within timeframes that preserve the ability to detect, challenge, and respond to non-compliance
+- information is structured, complete, and usable for verification purposes, and not obscured through fragmentation, aggregation, or noise
+- access conditions do not require dependence on the system or actor asserting compliance beyond what is strictly necessary
+
+Systems must not rely on theoretical verifiability where practical verification is not achievable under reasonably foreseeable conditions.
+
+Where verification is technically possible but not practically achievable, compliance claims must be treated as non-compliant. Any constraints on verification imposed for security, safety, or operational reasons must comply with **section 5** of this chapter (Security-Constrained Observability and Verification Rule). They must comply with **5.1** (*Cryptographic protection, credentials, and verification*) where cryptographic controls apply. Such constraints must **not** reduce verification below a level sufficient to maintain epistemic integrity and independent validation.
+
+**Plain-language accessibility cross-reference.** The **principle-layer plain-language accessibility stewardship duty** stated at [Chapter One §3.3](core_00-01_principles.md#33-plain-language-accessibility-stewardship-duty) operates at the engagement layer (governance, adjudicative, and operational text that sentients must engage to exercise rights, participate in governance, contest decisions, or verify compliance). It does **not** narrow this chapter, Chapter Two, or Chapter Three definition mechanics. Where an engagement-layer plain-language framing appears to conflict with a Chapter Five O/E/C component, a definitional gloss, or the traceability, observability, or verification discipline stated in this chapter, the **definition-layer and verification-layer discipline governs**, and the engagement-layer drafting must be adjusted to align without softening definitional rigor or verification sufficiency. Correspondingly, jargon, stacked complexity, or opacity used to defeat [Contestability](core_05-05_definitions_b_semi_independent.md#contestability), independent verification under **section 6** of this chapter, or [Article XV: Audit, Transparency, and Independent Verification](core_09-09_rights_part_c.md#article-xv-audit-transparency-and-independent-verification) access is non-compliant under both this chapter and **Chapter One §3.3**.
+
+### 7. Contribution and Standing Alignment Pointer
+This chapter does not define the operative constitutional model for:
+- contribution state (Axis I)
+- violation nature
+- standing effect
+
+That model is defined in **Chapter Six — Contribution, Violation, and Standing Model**.
+
+---
