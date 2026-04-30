@@ -1,0 +1,266 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://constitution.sentient/schemas/ch06_assessment.schema.json",
+  "title": "ch06_assessment",
+  "description": "Logical Chapter Six classification snapshot; semantic meaning and obligations are in core_06-06_standing_classification.md and core_06-06_standing_integration.md (Chapter Six). Snapshots that drive standing effect must reflect verified standing inputs only (demonstrable Contribution Axis; verified violation findings for the Violation Axis per Chapter Six section 2 Verified inputs for standing and Chapter Five Verified Violation Findings); allegations and forum-phase material are not standing inputs. Cross-field rules (e.g. when axis_two is present, joint.highest_severity should equal axis_two.severity; no netting of severity via descriptors) may require validators beyond this schema or custom assertions.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "assessment_id",
+    "subject_ref",
+    "evaluation_scope",
+    "assessed_at",
+    "assessor",
+    "axis_one"
+  ],
+  "properties": {
+    "assessment_id": {
+      "type": "string",
+      "minLength": 1,
+      "description": "Stable identifier for this assessment snapshot (UUID recommended)."
+    },
+    "subject_ref": {
+      "type": "string",
+      "minLength": 1,
+      "description": "Who or what is classified (URI or implementation-stable key)."
+    },
+    "evaluation_scope": {
+      "type": "string",
+      "minLength": 1,
+      "description": "Boundaries under which inputs were evaluated (jurisdiction, system, time window)."
+    },
+    "assessed_at": {
+      "type": "string",
+      "format": "date-time",
+      "description": "RFC 3339 datetime when the snapshot was issued."
+    },
+    "assessor": {
+      "type": "string",
+      "minLength": 1,
+      "description": "Party responsible for the classification (role, system component, or office code)."
+    },
+    "rationale_uri": {
+      "type": "string",
+      "format": "uri",
+      "description": "Optional pointer to auditable reasoning artifact."
+    },
+    "axis_one": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["primary_band"],
+      "properties": {
+        "primary_band": {
+          "$ref": "#/$defs/axisOnePrimary"
+        },
+        "descriptors": {
+          "type": "array",
+          "uniqueItems": true,
+          "items": {
+            "$ref": "#/$defs/axisOneDescriptor"
+          },
+          "description": "Supplemental D2-* tags; order not normative."
+        }
+      }
+    },
+    "axis_two": {
+      "description": "Omit or null only when the record asserts no adverse Chapter Six violation typing for the declared scope.",
+      "oneOf": [
+        {
+          "type": "null"
+        },
+        {
+          "type": "object",
+          "additionalProperties": false,
+          "required": ["severity", "legal_types"],
+          "properties": {
+            "severity": {
+              "$ref": "#/$defs/violationSeverity"
+            },
+            "legal_types": {
+              "type": "array",
+              "uniqueItems": true,
+              "items": {
+                "$ref": "#/$defs/legalConstitutionalType"
+              },
+              "description": "Subset of legal-constitutional types; empty array allowed only when legal typing is genuinely undetermined (rationale_uri should explain deferral)."
+            },
+            "descriptors": {
+              "type": "array",
+              "uniqueItems": true,
+              "items": {
+                "$ref": "#/$defs/axisTwoDescriptor"
+              },
+              "description": "Supplemental D3-* tags."
+            }
+          }
+        }
+      ]
+    },
+    "joint": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "highest_severity": {
+          "$ref": "#/$defs/violationSeverity",
+          "description": "When axis_two is non-null, MUST equal axis_two.severity for a coherent snapshot."
+        }
+      }
+    },
+    "chapter_seven": {
+      "type": "object",
+      "additionalProperties": false,
+      "description": "Optional; populated only by the Chapter Seven process, not by Chapter Six inference alone. Prefer slot and label for new records; tier is legacy shorthand only.",
+      "properties": {
+        "slot": {
+          "$ref": "#/$defs/chapterSevenSlot",
+          "description": "Final Chapter Seven Violation Axis slot for anti-constitutional misconduct."
+        },
+        "label": {
+          "$ref": "#/$defs/chapterSevenLabel",
+          "description": "Canonical Chapter Seven display label for the final slot."
+        },
+        "tier": {
+          "$ref": "#/$defs/chapterSevenTier",
+          "description": "Legacy shorthand only: T1 maps to slot 7, T2 to slot 8, and T3 to slot 9."
+        },
+        "reference": {
+          "type": "string",
+          "format": "uri",
+          "description": "Link to tier determination packet, docket, or system record."
+        }
+      }
+    },
+    "nine_slot": {
+      "type": "object",
+      "additionalProperties": false,
+      "description": "Optional numeric layer per implementation/CH06_NINE_SLOT_STANDING_SCALE.md: nine slots on each axis, Contribution Axis LEQU thresholds with a 5x multiplier anchored at s=7, and legacy-compatible category keys I|II|III and sub-tier keys minor|mid|major. Fields named category_tranche_display and category_tranche_role_display in ch06_nine_slot_constants.json are implementation display helpers retained for compatibility; the core Chapter Six presentation no longer treats tranche labels as independent categories. Contribution Axis s=1..3 displays participant labels, s=4..6 displays steward labels, and s=7..9 displays recognized, distinguished, and exemplary champion while retaining minor|mid|major interchange keys. Violation Axis s=1..3 displays non-compliance finding labels, s=4..6 displays violation finding labels, and s=7..9 displays Serious, Grave, and Pernicious anti-constitutional misconduct while retaining minor|mid|major interchange keys. Does not replace primary band/severity enums on axis_one and axis_two; does not override Chapter Six joint assessment, highest applicable non-compliance, or no-netting rules.",
+      "properties": {
+        "c_unit": {
+          "type": "number",
+          "exclusiveMinimum": 0,
+          "description": "Display scalar for LEQU thresholds; default c_unit=1 LEQU. Contribution threshold for slot s is c_unit * 5^(s-7) for s=2..9, with c_min(1)=0."
+        },
+        "c_star_cumulative": {
+          "type": "number",
+          "minimum": 0,
+          "description": "Recency-weighted sum of verified contribution credit in LEQU (§8.1) before slot assignment."
+        },
+        "contribution_slot": {
+          "$ref": "#/$defs/nineSlotIndex",
+          "description": "Largest s in 1..9 such that c_star_cumulative >= c_min(s); omit if not computed from C*."
+        },
+        "highest_finding_slot": {
+          "$ref": "#/$defs/nineSlotIndex",
+          "description": "Slot s of the severest open verified violation finding (1:1 from Violation Axis when using default map in CH06_NINE_SLOT_STANDING_SCALE.md)."
+        },
+        "v_star_sum": {
+          "type": "number",
+          "minimum": 0,
+          "description": "Optional sum of 3^(s-1) over findings; for analytics only, not a substitute for highest applicable severity (Chapter Six §8.2)."
+        }
+      }
+    }
+  },
+  "allOf": [
+    {
+      "if": {
+        "properties": {
+          "axis_two": {
+            "type": "object"
+          }
+        },
+        "required": ["axis_two"]
+      },
+      "then": {
+        "required": ["joint"],
+        "properties": {
+          "joint": {
+            "required": ["highest_severity"]
+          }
+        }
+      }
+    }
+  ],
+  "$defs": {
+    "axisOnePrimary": {
+      "type": "string",
+      "enum": ["C-BL", "C-PC", "C-SP", "C-CH"]
+    },
+    "axisOneDescriptor": {
+      "type": "string",
+      "enum": [
+        "D2-REMEDIAL",
+        "D2-RELATIONAL",
+        "D2-RESOURCE",
+        "D2-INFO-INTEGRITY",
+        "D2-SYSTEMIC",
+        "D2-CONSTITUTIONAL-RESILIENCE",
+        "D2-ECO-STEWARDSHIP",
+        "D2-BODILY-SAFETY",
+        "D2-DILIGENCE"
+      ]
+    },
+    "violationSeverity": {
+      "type": "string",
+      "enum": [
+        "V-FN",
+        "V-RSN",
+        "V-CSN",
+        "V-DHN",
+        "V-AN",
+        "V-CPP",
+        "V-CGN",
+        "V-CN"
+      ],
+      "description": "Chapter Six Violation Axis ladder. V-CSN is retained as the stable interchange key for Significant Substantive Non-Compliance. V-CPP and V-CGN are synonymous operational labels for the same level (V-CGN legacy; V-CPP in core_06-06_standing_classification.md)."
+    },
+    "nineSlotIndex": {
+      "type": "integer",
+      "minimum": 1,
+      "maximum": 9
+    },
+    "legalConstitutionalType": {
+      "type": "string",
+      "enum": ["V-CIV", "V-CRIM", "V-CONST"]
+    },
+    "axisTwoDescriptor": {
+      "type": "string",
+      "enum": [
+        "D3-VIOLENCE",
+        "D3-INTERPERSONAL",
+        "D3-PROPERTY",
+        "D3-INFO-ENV",
+        "D3-SYSTEM",
+        "D3-ANTI-CONSTITUTIONAL",
+        "D3-NEGLIGENCE",
+        "D3-ECOLOGICAL"
+      ]
+    },
+    "chapterSevenTier": {
+      "type": "string",
+      "enum": ["T1", "T2", "T3", "none", "pending"]
+    },
+    "chapterSevenSlot": {
+      "oneOf": [
+        {
+          "type": "integer",
+          "enum": [7, 8, 9]
+        },
+        {
+          "type": "string",
+          "enum": ["none", "pending"]
+        }
+      ]
+    },
+    "chapterSevenLabel": {
+      "type": "string",
+      "enum": [
+        "Serious anti-constitutional misconduct",
+        "Grave anti-constitutional misconduct",
+        "Pernicious anti-constitutional misconduct",
+        "none",
+        "pending"
+      ]
+    }
+  }
+}
