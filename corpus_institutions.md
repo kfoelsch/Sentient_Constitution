@@ -242,8 +242,6 @@ This subsection names **implementation-layer** trigger categories and routes so 
 
 **Cure, remediation, disclosure, and referral — pointer-only to classification owners:** Where a matter implicates whether conduct is a **contribution / violation / standing** issue, or what **Violation Axis s = 7, 8, or 9** slot label applies, institutions apply **Chapter Six** and **Chapter Seven** through their ordinary procedures and records. This subsection does **not** restate those tests. Criminal or specialized external referral remains as required by applicable law and **CI-5** records duties.
 
-**Regression coverage:** When the project’s regression matrix is available, record adversarial drill coverage for procurement-capture and assurance-capture paths against this subsection and **CI-5** minimum stack artifacts.
-
 ---
 
 ## CI-6: Procedure integrity, contestability, and secondary review
@@ -337,6 +335,8 @@ Where institutional governed scope includes **Class A** or **Class B** systems (
 
 **Purpose.** Assess whether **contest, secondary review, audit access, and protected escalation** pathways **function in practice**. This includes **timeliness**, **accessibility**, **backlogs**, **evidence availability** within **security-constrained observability** (`core_02-04_definition_mechanics.md` **Chapter Four**), and **patterns** suggestive of **chill**, **capture**, or **retaliation**. Monitors do this without substituting for **merits adjudication** on individual disputes under `core_09-09_rights_part_c.md` **Article XII-B**, `core_05-05_definitions_a_independent.md` **Chapter Five** (*Procedural Fairness*, *Contestability*, *Redress and Remediation*), and **CI-6**. Monitors **escalate** structural failures to remediation, **CI-8** where cross-institution deadlock applies, and **external assurance** triggers in this chapter.
 
+**Protected-activity monitor interface.** Where monitoring concerns covert, secrecy-constrained, or protected-activity-sensitive pathways, constitutional meaning remains in `core_09-09_rights_part_c.md` **Article XIII-A** and forum authorization, taint, and later-challenge records remain in `corpus_forum.md` **CC-8**. **CI-7.3** monitors only whether those pathways are practically available, independent, timely, and auditable at the institutional layer.
+
 **Dual scope.**
 - **Institutional:** materially impactful decisions, contest pathways, procedure maps, and records under **CI-6**; **protected escalation** **path** under **CI-12** and **`INST-PROTO-12`** where applicable.
 - **System-supervised:** operator-published challenge routes, observability and verification access, and classification or **misclassification** handling under **`corpus_systems.md` Chapters S2–S3** and **Sentient Constitution Article XV-A** plus Article XV's verification-access provisions, within the institution’s constitutional mandate.
@@ -345,7 +345,7 @@ Where institutional governed scope includes **Class A** or **Class B** systems (
 
 **Outputs.** Findings must be **auditable**; **material** contest-integrity failures must feed **remediation** and may invoke **`INST-PROTO-17`**. Operational pattern and evidence expectations for this subsection are referenced as **`INST-PROTO-24`**.
 
-**Article XIII-A monitoring emphasis.** Where institutions exercise or supervise covert, secrecy-constrained, intelligence-like, or politically sensitive security powers, contest-integrity monitoring must explicitly assess whether **Article XIII-A** safeguards function in practice. That includes anti-secret-police boundaries, protected-activity shielding, independence of authorization and review, emergency-use lapse and reauthorization discipline, secrecy duration control, eventual notice or disclosure pathways where lawful, and signs of foreign, contractor, or inter-agency bypass used to evade constitutional limits.
+**Article XIII-A monitoring emphasis.** Where institutions exercise or supervise covert, secrecy-constrained, intelligence-like, or politically sensitive security powers, contest-integrity monitoring must explicitly test whether the Article XIII-A and **CC-8** pathways identified above function in practice. The monitor record must be sufficient to detect independence failure, protected-activity chill, secrecy-duration drift, unavailable lawful notice or disclosure pathways, and foreign, contractor, or inter-agency bypass of applicable limits without restating the underlying Article XIII-A rule set.
 
 Where `core_08-08_forum.md` **Chapter Eight** requires **cross-court anti-self-judging** routing, contest-integrity functions must preserve records sufficient to support **reasoned** transfer, recusal, and backup-forum activation. They must also preserve enough record to review whether the designated forum could form an **independent** panel. They must do so without displacing the assigned merits court. See also **`corpus_joint_structure.md` CJS-3.3**.
 
@@ -523,7 +523,7 @@ Institutions must document, for governed scope, how **revenue and fee choices** 
 
 **Continuity planning:** Institutions must maintain resource adequacy for safe continuity and constitutional performance. **Sabotage of continuity planning** and **willful negligence in continuity planning** are **anti-constitutional misconduct** for purposes of malus, clawback, and related remedies in this chapter when they are **material** to institutional duties or supervised scope and **verified** under **Chapters Two through Four** and **Chapter Six** as applicable. Malus and clawback pathways must apply when severe control failures or verified anti-constitutional misconduct occur.
 
-**High-impact governance continuity and exercises.** This applies where governed scope includes **Class A** or **Class B** systems. It also applies where the governed scope materially affects **Critical System Stewards**. In those cases, institutions must align supervised operation with **`corpus_systems.md` Protocol A**, subsection **G** (*Governance continuity, crisis communications, and exercises*). In brief, that subsection expects **governance-side** business continuity and recovery. It includes documented succession and crisis decision boundaries when primary authorities are impaired. It also includes **tabletop, simulation, or live** exercises on cadences proportional to class and stewardship tier, plus **recorded** exercise findings, **remediation**, and audit trails for crisis communications and emergency records that are sufficient for retrospective review. It does **not** create constitutional rights; operative text remains in **Protocol A G**.
+**High-impact governance continuity and exercises.** Where governed scope includes **Class A** or **Class B** systems, or materially affects **Critical System Stewards**, institutions must align supervised operation with **`corpus_systems.md` Protocol A**, subsection **G** (*Governance continuity, crisis communications, and exercises*). **CI-11** states the institutional trigger and supervisory interface only; operative exercise, crisis-communication, recovery-record, and remediation requirements remain in **Protocol A G**.
 
 **Class-aligned fiscal orientation:** taxes, access charges, and similar revenue are covered in **CI-10.1** and **CI-10.2** within **CI-10**. Those sections align to `corpus_systems.md` **Chapter S2** system classes. The **Article III-A** interface for survival floors, voluntary exchange, and markets is in **CI-9.2**.
 
@@ -658,15 +658,14 @@ Dissolution does not replace personal accountability. Sentients responsible for 
 
 ## CI-14: Transitional governance and institutional evolution
 
-Institutional redesign, consolidation, or transfer must preserve non-regression and continuity duties.
+Institutional redesign, consolidation, or transfer must preserve non-regression and continuity duties. Where the transition materially involves constitutional systems, institutions must read this section with `corpus_systems.md` **Protocol T** (*Transition Constitution and Migration Governance*). **CI-14** states the institutional custody, authorization, and oversight interface; Protocol T remains the operative home for system phase structure, gate criteria, fallback handling, off-ramps, and re-baselining mechanics.
 
-Transition-governance mechanics (Article XXV interface):
-- Transition plans must define phases, entry and exit gate criteria, accountable owners, and required verification artifacts before progression.
-- Interim authorities must be explicitly scoped, sunset-bounded, and subject to independent review on a documented cadence.
-- Continuation beyond planned windows requires documented justification and recorded reauthorization.
-- Plans must include predefined fallback pathways, partial rollback criteria, and re-baselining procedures when milestones fail.
-- Transition handling must avoid governance vacuum and anti-constitutional lock-in.
-- Material transition decisions, delays, reversals, and remediation actions must be documented in auditable form with rationale and risk implications.
+Institutional transition interface (Article XXV interface):
+- name the institution, role, or body that owns each transition authority, review authority, and evidence-custody duty;
+- keep interim institutional authority explicitly scoped, sunset-bounded, and subject to independent review on a documented cadence;
+- require recorded reauthorization, with unresolved-risk explanation, before any continuation beyond planned windows;
+- prevent governance vacuum, unmanaged authority transfer, and anti-constitutional lock-in during redesign, consolidation, dissolution, or transfer;
+- document material institutional transition decisions, delays, reversals, and remediation actions in auditable form with rationale and risk implications.
 
 ### CI-14.1: Interface — Article XXV-D (non-compliant property, seizure, voluntary incentives)
 Where transition plans address **non-compliant property or systems** under **Sentient Constitution Chapter Nine, Article XXV-D**, institutions must publish and maintain:
@@ -685,7 +684,7 @@ After material structural change, institutions must run revalidation for:
 
 Scenario-based continuity and succession stress tests must run on a cadence proportional to class/tier.
 
-**See also:** For **Class A**, **Class B**, and **Critical System Steward** scope (`corpus_systems.md` **Chapters S2–S3**), **`corpus_systems.md` Protocol A**, subsection **G** (*Governance continuity, crisis communications, and exercises*) states complementary governance continuity, exercise, and audit-trail expectations; **CI-11** summarizes the interface for institutions.
+**See also:** For **Class A**, **Class B**, and **Critical System Steward** scope (`corpus_systems.md` **Chapters S2-S3**), **`corpus_systems.md` Protocol A**, subsection **G** (*Governance continuity, crisis communications, and exercises*) states complementary governance continuity, exercise, and audit-trail expectations; **CI-11** states the institutional trigger and supervisory interface.
 
 ### CI-14.2: Article XXV-D — trigger catalog, anti-abuse metrics, and publication requirements
 
@@ -706,8 +705,6 @@ Scenario-based continuity and succession stress tests must run on a cadence prop
 - restitution or substitute safeguards for **non-culpable holders** where **Article XXV-D** requires proportionate treatment.
 
 **Periodic summaries:** Institutions must publish or provide stakeholder-facing summaries on a fixed cadence (at least annual for high-impact scope, more frequent when programs are active), subject to narrow security, safety, and privacy limits. Summaries must be intelligible without specialist training; raw sensitive data may be aggregated.
-
-**Regression coverage:** When the regression matrix is live, record adversarial scenarios for bounty-hunting misuse, pretextual seizure, and essential-access deprivation against **Article XXV-D** and **CI-14.1**.
 
 ---
 
@@ -777,9 +774,11 @@ Institutions should publish **phased** **transition** plans that include:
 
 **Purpose.** This section governs institutions that publish, certify, review, rank, fund, archive, or rely upon scientific and scholarly claims where constitutional adoption brings those functions within scope. The aim is to align knowledge production with truth-seeking, reproducibility, correction, public access, and accountable dissent rather than prestige bottlenecks, opaque gatekeeping, manufactured scarcity, or cartelized reputation.
 
+**Constitutional and forum boundary.** Constitutional meaning remains in **Sentient Constitution Chapter Nine, Article XVII-E** (*Scientific Publication, Review, and Replication Integrity*) and related **Chapter Five** definitions. Technical specialist forum routing, expert-evidence standards, and certified standards-governance questions remain in `corpus_forum.md` **CC-9**. **CI-15B** states the institutional custody, publication, evidence-package, conflict-control, reliance-gate, correction, access, incentive, and appeal interface; it does not create a second rights article or a parallel technical-court rule.
+
 **Default institutional preference.** Institutions should prefer open publication plus structured post-publication review over prestige-gated pre-publication exclusion. Discovery, review, curation, funding, archival custody, and reputation should remain separable functions unless a bundled arrangement is affirmatively justified and independently audited.
 
-**1. Open publication and versioned record.** Scientific and scholarly work should be publishable without requiring prior endorsement by a prestige gatekeeper, subject only to narrow integrity, privacy, biosafety, or comparable safeguards justified under **Chapter One**, **Article XVII-E**, and `core_05-05_definitions_a_independent.md` **Chapter Five** (*Necessity*, *Proportionality*, *Transparency*, *Epistemic Integrity*). Institutions must preserve a versioned public record of submissions, revisions, corrections, withdrawals, retractions, and superseding updates, with clear timestamps and accountable authorship or sponsorship.
+**1. Open publication and versioned record.** Institutions must preserve channels through which scientific and scholarly work can be published without requiring prior endorsement by a prestige gatekeeper, subject only to narrow integrity, privacy, biosafety, or comparable safeguards justified under **Chapter One**, **Article XVII-E**, and `core_05-05_definitions_a_independent.md` **Chapter Five** (*Necessity*, *Proportionality*, *Transparency*, *Epistemic Integrity*). They must preserve a versioned public record of submissions, revisions, corrections, withdrawals, retractions, and superseding updates, with clear timestamps and accountable authorship or sponsorship.
 
 **2. Evidence package minimums.** Material empirical, analytical, or methodological claims must travel with enough evidence for independent understanding and proportionate verification. Unless a narrower treatment is justified and documented, the publication package should include methods, provenance, funding and conflict disclosures, uncertainty statements, analysis code or equivalent workflow description where relevant, and data or a public explanation of why access must be restricted. Claims lacking the minimum package must be visibly marked as preliminary, incomplete, or non-verifying.
 
@@ -787,7 +786,7 @@ Institutions should publish **phased** **transition** plans that include:
 
 **4. Open identity options, accountable review, and conflict controls.** Institutions may allow signed, pseudonymous, or confidential review where retaliation risk, field conditions, or personal safety justify it, but review itself must remain auditable. Reviewer selection, recusals, conflicts, funding ties, editorial interventions, and substantive review history must be recorded. Secret black-box editorial overrides, citation cartel behavior, and reviewer suppression of competing or inconvenient results are non-compliant.
 
-**5. Replication and adversarial review lane.** Institutions must maintain a first-class lane for replication, reanalysis, null results, methodological critique, and adversarial collaboration. High-impact claims, policy-relevant claims, safety-relevant claims, and claims likely to change clinical, ecological, infrastructural, or educational practice should face a rebuttable presumption of independent replication, adversarial review, or both before they receive strong institutional reliance.
+**5. Replication and adversarial review lane.** Institutions must maintain a first-class lane for replication, reanalysis, null results, methodological critique, and adversarial collaboration. High-impact claims, policy-relevant claims, safety-relevant claims, and claims likely to change clinical, ecological, infrastructural, or educational practice should face a rebuttable institutional-reliance gate requiring independent replication, adversarial review, or both before they receive durable institutional deference.
 
 **6. Correction, retraction, and supersession integrity.** Institutions must make correction cheaper and faster than concealment. They must maintain visible pathways for amendments, expressions of concern, retractions, and superseding records, with reasons stated in a standardized and searchable form. Good-faith correction should strengthen standing relative to concealment or reputational laundering. Retraction must not erase the audit trail unless a narrower privacy or safety exception is justified.
 
@@ -795,7 +794,7 @@ Institutions should publish **phased** **transition** plans that include:
 
 **8. Incentives, standing, and anti-prestige capture.** Hiring, promotion, grantmaking, and institutional standing should not rely primarily on journal brand, impact-factor proxies, or closed editorial prestige. Institutions should weight replication history, correction behavior, review quality, data and method stewardship, audit responsiveness, and long-run predictive or explanatory reliability. Metrics that predict gaming, salami-slicing, hype inflation, or selective-publication bias must not dominate career or funding outcomes.
 
-**9. Specialized oversight and appeal.** Institutions using this section must maintain a dedicated review or ombuds lane for publication suppression claims, conflict complaints, retaliation against reviewers or replicators, data-access disputes, and retraction or correction contests. That lane must remain structurally separate from prestige, revenue, or ranking incentives and must preserve secondary review and cross-institution escalation under **CI-6** and **CI-8**.
+**9. Specialized oversight and appeal.** Institutions using this section must maintain a dedicated review or ombuds lane for publication suppression claims, conflict complaints, retaliation against reviewers or replicators, data-access disputes, and retraction or correction contests. That institutional lane must remain structurally separate from prestige, revenue, or ranking incentives and must preserve secondary review and cross-institution escalation under **CI-6** and **CI-8**. Where the dispute's dominant issue is technical specialist forum governance, certification, or expert-evidence standards, routing remains subject to **CC-9**.
 
 ---
 
@@ -808,8 +807,6 @@ Institutions should publish **phased** **transition** plans that include:
 **2. Voluntary association and non-compelled social life.** Rules must **preserve** **freedom not to associate** and **freedom to leave** **coercive** **group** settings. **Anti-romanticization:** **community** mechanisms must **not** **excuse** **exclusion**, **caste-like** **local** hierarchy, **gendered** burden-shifting, or **informal** **coercion**; those risks are also addressed under **CI-21** and **CI-20**.
 
 **3. Digital and physical hostile design.** Institutions should **audit** **routing**, **visibility**, **fees**, and **access** rules that **functionally** **exclude** **peaceable** **assembly** or **cultural** **practice** through **private chokepoints**; route **substantive** patterns to **`corpus_systems.md` Chapter S2** section **9** and **CI-6**/**CI-8** escalation when **capture** or **retaliation** is **indicated**.
-
-**Regression coverage:** When the regression matrix is live, record scenarios for **hostile design** of **public**/**digital** gathering spaces, **exclusion** from **community infrastructure** via **private chokepoints**, and **productivity** regimes that make **non-instrumental** life **practically unavailable**.
 
 ---
 
@@ -825,8 +822,6 @@ Institutions should publish **phased** **transition** plans that include:
 
 **4. No sanction shortcut.** **Nothing** in this section **authorizes** **deprivation of life** as **sanction** or **bypasses** **consent**/**crisis** safeguards.
 
-**Regression coverage:** When the matrix is live, record scenarios for **coerced** end-of-life **decisions**, **exploitative** **posthumous** **identity** use, **denial** of **culturally** **significant** **mourning**, and **substrate** **disposal** framed as **ordinary** **decommissioning** where **dignity** **floor** is **implicated**.
-
 ---
 
 ## CI-19: Care labor, dependent support, respite, and care-economy fairness
@@ -841,8 +836,6 @@ Institutions should publish **phased** **transition** plans that include:
 
 **4. Reproductive and embodiment justice (implementation routing).** **Pregnancy**, **gestation** **analogues**, and **intimate** **dependency** **power** are **governed** at the **rights** **floor** by **Article VII-A**, **VII-C**, **VII-D**; this section **requires** **institutional** **metrics** and **labor** **pathways** that **do not** **treat** **reproductive** **labor** or **care** **work** as **economically invisible** **default** **obligations**.
 
-**Regression coverage:** When the matrix is live, record scenarios for **unpaid-care** **collapse**, **respite** **denial**, **substrate** **maintenance** **dependency**, and **formal** **services** that are **unreachable in practice**.
-
 ---
 
 ## CI-20: Relational coercive control, intimate power, and anti-domination routing
@@ -854,8 +847,6 @@ Institutions should publish **phased** **transition** plans that include:
 **2. Economic and credential asymmetry.** **Institutions** must **not** **require** a **formal** **marriage** or **contract** **label** to **recognize** **dependency** **sabotage** or **retaliation** that **defeats** **exit** or **remedy** **access**; **read** with **Article IX-A** and **CI-6**.
 
 **3. Platform and reputation systems.** **Reputation**, **scoring**, and **visibility** **tools** that **trap** **in-home** or **gig** **workers** route through **CI-12**, **CI-5**, and **`corpus_systems.md` Chapter S2** **section 9** as **applicable**.
-
-**Regression coverage:** When the matrix is live, record scenarios for **coercive-control** **households**, **carer-dependent** **abuse**, **community** **expulsion** used as **material** **deprivation**, and **platform** **reputation** **traps** for **intimate** or **in-home** **workers**.
 
 ---
 
@@ -869,8 +860,6 @@ Institutions should publish **phased** **transition** plans that include:
 
 **3. Anti-romanticization guardrails.** **Community** **process** must **include** **appeal** to **independent** **review** when **exclusion** or **informal** **power** **harms** **sentients**; **read** **CI-17** **section 2** and **CI-20**.
 
-**Regression coverage:** When the matrix is live, record scenarios for **enclosure** of **commons**, **mutual-aid** **criminalization**, **local-elite** **capture** of **community** **process**, and **formal** **ownership** **rules** **defeating** **stewardship**.
-
 ---
 
 ## CI-22: Place-based stewardship, Indigenous continuity, and consultation routes
@@ -881,8 +870,6 @@ Institutions should publish **phased** **transition** plans that include:
 
 **2. Extractive “compliance theater.”** **Box-checking** **without** **meaningful** **response** to **stated** **risks** must **trigger** **CI-7.2**/**CI-8** **escalation** **pathways** for **funded** **projects** **in** **scope**.
 
-**Regression coverage:** When the matrix is live, record scenarios for **extractive** **projects** using **formal** **compliance** to **bypass** **Indigenous** **continuity**, **appropriation** of **protected** **knowledge**, **translation**-**burden** **exclusion**, and **ecosystem** **restoration** that **displaces** **local** **stewards** **without** **consent** or **remedy** **pathways** **per** **adopter** **law**.
-
 ---
 
 ## CI-23: Neurodiversity, disability justice, and trauma-informed participation
@@ -892,8 +879,6 @@ Institutions should publish **phased** **transition** plans that include:
 **1. Procedural design.** **Hearings**, **governance** **forums**, and **high-stakes** **self-service** **paths** under **CI-12.1** must offer **stated** **alternatives** to **adversarial** **trap** **designs** where **trauma** or **episodic** **disability** **otherwise** **excludes** **credible** **participation**.
 
 **2. Anti-exclusion by label.** **“Complexity”**, **“resilience”**, or **“capacity”** **framing** must **not** **excuse** **dismissal** where **Necessity** does **not** **support** it; read with **Article VII-C** and **CI-6** **secondary** **review**.
-
-**Regression coverage:** When the matrix is live, record scenarios for **inaccessible** **hearings**, **trauma**-**triggering** **adversarial** **process** **without** **alternatives**, **episodic**-**disability** **deadline** **loss**, and **neurodivergent** **communication** treated as **non**-**credibility**.
 
 ---
 
@@ -906,8 +891,6 @@ Institutions should publish **phased** **transition** plans that include:
 **2. Stigma and non-punitive pathways.** **Rules** should **reduce** **stigma**-**driven** **enforcement** and **route** **addiction** **primarily** through **care** and **stabilization** **pathways** where **safety** **allows**; read with **Article VII-C**.
 
 **3. Secrecy and time bounds.** **Emergency** **secrecy** must **sunset** with **Necessity**; **indefinite** **opaque** **continuity** is a **governance** **integrity** **risk** under **CI-5** and **CI-7**.
-
-**Regression coverage:** When the matrix is live, record scenarios for **quarantine** **without** **support**, **stigma**-**based** **health** **restrictions**, **addiction** **treated** **only** as **misconduct**, and **public**-**health** **secrecy** **outlasting** **necessity**.
 
 ---
 

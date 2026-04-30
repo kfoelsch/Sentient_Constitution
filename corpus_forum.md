@@ -551,11 +551,11 @@ Where institutions exercise or supervise **civil**, **criminal**, **constitution
 
 **Independence and appointment.** Appointment, removal protection, conflict screening, recusal, and challenge pathways must satisfy `corpus_institutions.md` **CI-4** and **CI-5**. For materially sensitive or high-impact scopes, institutions should use mixed appointment, fixed terms, transparent qualification criteria, and external participation sufficient to reduce dependence on any single operational appointing chain.
 
-**Protected investigations and rights.** Investigative restrictions, delayed notice, compartmentalization, or sealed steps must satisfy `core_05-05_definitions_a_independent.md` **Chapter Five** (*Necessity*, *Proportionality*, *Oversight*, *Accountability*, *Transparency*) together with any applicable secrecy-implementation rules in companion files. No restricted investigation may run without independent, functionally effective oversight, contemporaneous records, later reconstruction, and post-hoc challenge pathways. Subjects, complainants, and materially affected parties retain rights to lawful notice, contest, exculpatory preservation, and remedy consistent with the stage of proceedings and legitimate investigative constraints.
+**Protected investigations and rights.** Investigative restrictions, delayed notice, compartmentalization, sealed steps, covert measures, secrecy-constrained measures, or intelligence-like measures must satisfy `core_09-09_rights_part_c.md` **Article XIII-A**, `core_05-05_definitions_a_independent.md` **Chapter Five** (*Necessity*, *Proportionality*, *Oversight*, *Accountability*, *Transparency*), and any applicable secrecy-implementation rules in companion files. **CC-8** supplies the forum-facing record interface only.
 
-**Article XIII-A implementation floor.** Where `core_09-09_rights_part_c.md` **Article XIII-A** applies, forums and investigative services must treat covert, secrecy-constrained, or intelligence-like measures as exceptional rather than routine. Authorization records must state the lawful objective, why less intrusive means are not reasonably sufficient, the approved scope, duration, review point, minimization or segregation requirements, and any protected-activity considerations. Orders must lapse automatically when their stated justification expires unless reauthorized through the same or a stricter lawful process.
+Forum authorization records for protected or secrecy-constrained investigative steps must state the lawful objective, narrower-alternative analysis, approved scope, duration, review point, minimization or segregation requirements, protected-activity considerations where applicable, and the renewal or lapse rule. Applications touching journalism, protected reporting, associational life, lawful political activity, labor organization, research, or constitutional challenge activity require explicit protected-activity analysis.
 
-**Protected-activity and taint controls.** Applications touching journalism, protected reporting, associational life, lawful political activity, labor organization, research, or constitutional challenge activity require heightened scrutiny, explicit protected-activity analysis, and documented consideration of narrower alternatives. Where collection, retention, or use is later found inconsistent with **Article XIII-A**, tribunals must preserve a practical pathway for exclusion, segregation, deletion, notice where lawful, and derivative-use review sufficient to make remedy functionally real.
+Where collection, retention, or use is later found inconsistent with **Article XIII-A** or the governing secrecy rules, tribunals must preserve a practical later-challenge record for exclusion, segregation, deletion, notice where lawful, and derivative-use review. This subsection does not restate the Article XIII-A rights floor or convert forum authorization mechanics into a parallel secrecy taxonomy.
 
 **Outputs and interfaces.** The investigative service must produce attributable, reviewable records stating scope, steps taken, evidentiary basis, uncertainty, preserved exculpatory and inculpatory material, and referral or closure reasons. Those records must support:
 - prosecutorial or civil-enforcement decisions without making the investigators the final charging or merits authority;
@@ -648,7 +648,7 @@ This section does not displace stricter lawful deadlines.
 
 **Cross-layer requirements:** Tribunals publish class-scaled targets under **CC-10.4**; institutions publish compatible **notice and pathway** requirements under **CI-6** and **CI-12**. When **backlog** or **accessibility** failures cross **CC-10.5** thresholds, **CC-10.6** remediation and **CI-7.3** / **CI-8** escalation paths apply. **Stakeholder-facing** backlog and delay disclosure must be intelligible without specialist training, subject to lawful secrecy limits.
 
-**Scenario coverage (for assurance, not doctrine):** adopting systems should rehearse **delayed notice**, **inaccessible records**, **appeal backlog**, and **failed restorative follow-through** against these requirements and record results in governance evidence stores. When the project regression matrix is live, tie recorded drills to that matrix.
+**Scenario coverage (for assurance, not doctrine):** adopting systems should rehearse **delayed notice**, **inaccessible records**, **appeal backlog**, and **failed restorative follow-through** against these requirements and record results in governance evidence stores.
 
 ### CC-10.1 Core rule
 Forum performance must be measured against whether affected parties retain a practical ability to:
@@ -814,7 +814,7 @@ Each forum system should maintain:
 ### CC-10.15 Lived conditions during restriction and re-entry alignment (cross-layer)
 Forum systems must treat `corpus_systems.md` **Protocol C** section **10** (*Lived-condition floors, continuity, and re-entry alignment*) as a **binding implementation cross-check** when **coercive**, **supervised**, **quarantine**, or **durable-containment** matters are **routed** or **reviewed**. **Calendar** and **metric** performance under **CC-10.4**–**CC-10.6** must **not** **treat** **lived-condition** failures as **closed** because **procedural** milestones were **technically** reached.
 
-**Judicial and administrative review** must ask whether **review** and **restoration** promises are **real in practice**: **healthcare and mental-health access**; **family or care contact** where **safety** allows; **counsel** or **advocate** access; **non-degrading** **conditions**; and **re-entry** steps that **do not** **strip credentials**, **withhold records**, or **indefinitely defer** **predicated** **review** without a **new**, **evidence-based** **finding**. Findings of **sensory** or **isolation** practices framed as **safety** require **independent** or **second-line** **scrutiny** on a **published** **cadence** unless **Necessity** and **Proportionality** **narrowly** justify a **briefer** **classification**.
+Protocol C section **10** remains the owner of lived-condition substance. **CC-10.15** records only the forum performance and restoration interface: whether review dates, publication windows, access to records or counsel, restoration milestones, re-entry steps, and evidence-based renewed findings remain real in practice rather than closed by calendar compliance alone.
 
 **Read with:** `corpus_institutions.md` **CI-13** (failure and accountability patterns); **CC-11.13** (*Restoration and reconciliation*); **Article XXIII** and **Article XXIII-A** as referenced in **Protocol C** §**10**.
 
@@ -835,6 +835,8 @@ This section applies when ordinary forum operation is materially impaired by:
 - network or infrastructure disruption that impairs constitutional adjudication.
 
 It governs continuity of adjudication. It does not authorize permanent alteration of constitutional forum-family boundaries.
+
+Where forum continuity materially depends on constitutional systems, this section must be read with `corpus_systems.md` **Protocol A**, subsection **G** (*Governance continuity, crisis communications, and exercises*). Protocol A states the shared emergency lifecycle, crisis-communication, exercise, restoration-evidence, and audit-trail mechanics; **CC-11** supplies the forum-specific triggers, routing, quorum, backup-forum, docket, and adjudicative-review requirements.
 
 ### CC-11.1 Rights-floor continuity rule
 Emergency forum operation must preserve, to the greatest feasible extent:
@@ -871,6 +873,8 @@ Activation records must state:
 - what rights-protective functions must continue without interruption;
 - who authorized activation;
 - when independent review will occur.
+
+Shared expiry, reauthorization, restoration, and closure-evidence requirements follow `corpus_systems.md` **Protocol A G** where constitutional-system continuity is implicated. Forum activation records add the Chapter Eight routing and family-specific adjudication details listed here.
 
 ### CC-11.4 Continuity minimum functions
 In any degraded or emergency mode, the system must preserve at minimum:
@@ -909,7 +913,7 @@ Each forum family must identify, in advance:
 Fallback operation must preserve dominant-purpose routing as much as feasible. It does not authorize silent reclassification of the matter.
 
 ### CC-11.8 Record continuity and custody
-Emergency adjudication requires continuous preservation of:
+Forum emergency adjudication requires continuous preservation of:
 - docket identity;
 - filings and timestamps;
 - panel-formation and recusal records;
@@ -918,10 +922,10 @@ Emergency adjudication requires continuous preservation of:
 - publication-delay records;
 - restoration and rollback decisions.
 
-Where digital systems are impaired, institutions must maintain a lawful fallback for record capture and later reconciliation.
+Where digital systems are impaired, institutions must maintain a lawful fallback for record capture and later reconciliation. Generic crisis audit-trail, communication-log, and closure-evidence requirements remain in `corpus_systems.md` **Protocol A G**; this subsection identifies the forum records that cannot be lost or silently merged during emergency operation.
 
 ### CC-11.9 Communication duties
-During continuity-mode operation, the system must publish or otherwise communicate, as lawfully feasible:
+During continuity-mode operation, forum-facing communications must apply `corpus_systems.md` **Protocol A G** crisis-communication discipline and must publish or otherwise communicate, as lawfully feasible, the adjudication-specific facts parties need:
 - the active mode;
 - what functions remain available;
 - where urgent filings should go;
@@ -966,7 +970,7 @@ When the triggering condition subsides, the system must enter a restoration mode
 - assessment of whether fallback actions exceeded lawful scope.
 
 ### CC-11.14 Post-incident review
-Every activation must produce a post-incident review record stating:
+Every activation must produce the restoration and post-incident evidence required by `corpus_systems.md` **Protocol A G**, with forum-specific findings stating:
 - what triggered the continuity mode;
 - what functions degraded or failed;
 - what fallback measures were used;
@@ -975,16 +979,15 @@ Every activation must produce a post-incident review record stating:
 - what remediation and future-hardening steps are required.
 
 ### CC-11.15 Exercises and testing
-Forum continuity protocols must be exercised on a cadence proportional to impact and dependency.
+Forum continuity protocols must participate in the exercise cadence required by `corpus_systems.md` **Protocol A G** where constitutional-system continuity is implicated. Forum-specific exercise coverage should include at least:
 
-Exercises should cover at least:
 - inability to form an independent panel;
 - major backlog surge;
 - digital outage affecting filings or records;
 - emergency relief under reduced staffing;
 - capture-sensitive routing and backup activation.
 
-Findings must be recorded and tied to remediation.
+Findings must be recorded and tied to remediation under Protocol A G, with docket, routing, quorum, and backup-forum failures separately identified.
 
 ### CC-11.16 Non-compliant emergency patterns
 The following are presumptively non-compliant unless clearly justified and cured:
@@ -999,22 +1002,80 @@ The following are presumptively non-compliant unless clearly justified and cured
 
 ## CC-12: Standard records, forms, and evidence artifacts
 
-This section should identify the minimum standard records for forum operation, including:
-- panel-formation record
-- member disclosure record
-- recusal challenge and decision
-- inability-to-form independent panel certification
-- backup-forum activation order
-- transfer / certification order
-- restricted-evidence review order
-- continuity activation record
-- post-incident restoration review
+**Constitutional index (abridged)**
+- Topic-level routing and cited authorities remain in subsection text and cross-references.
+- Canonical owner map: `corpus_joint_structure.md` **CJS-2.2** and `doc_architecture.md` section 4.
 
-This section should also specify which records are:
-- party-facing
-- audit-facing
-- contest-integrity-facing
-- external-assurance-facing
+This section is the forum-operational home for standard court records, forms, and evidence artifacts. It consolidates the record duties created in **CC-3** through **CC-11** and supplies a common minimum set for adopting systems. It does not create a second traceability or verification standard; traceability and verification discipline remain governed by `core_02-04_definition_mechanics.md` **Chapters Two through Four**, **Article XV-A**, and `corpus_joint_structure.md` **CJS-R12**.
+
+### CC-12.1 Minimum record set
+Each adopting system must maintain standard templates or equivalent structured records for at least:
+- filing intake and routing decision;
+- panel-formation record;
+- member disclosure record;
+- recusal notice;
+- recusal challenge and decision;
+- substitute-selection record;
+- inability-to-form independent panel finding;
+- backup-forum activation order;
+- transfer or certification order;
+- interim-relief order;
+- rights-collision record under **CC-5**;
+- disposition-effect classification record under **CC-5.1**;
+- forensic or analytical support scope order under **CC-7**;
+- restricted-evidence review order;
+- investigative scope, referral, or closure record under **CC-8** where the forum interface is used;
+- technical-standard departure, variance, or recognition record under **CC-9**;
+- backlog-threshold remediation record under **CC-10**;
+- publication-delay log entry;
+- continuity activation record;
+- restoration and reconciliation record;
+- post-incident review record.
+
+Adopting systems may combine compatible forms, but must not merge records in a way that hides who acted, what authority was used, what facts or constraints mattered, what review path remains, or which forum family is responsible.
+
+### CC-12.2 Required fields
+Each standard record must include, proportionate to the action:
+- forum family, chamber or panel, and docket identity;
+- authority invoked, including Chapter Eight routing basis where material;
+- date, time, responsible role, and any approving or reviewing role;
+- affected parties or affected class, with lawful anonymization where required;
+- scope of action and duration where temporary or restricted;
+- reasons, material uncertainty, and evidence relied on;
+- conflict, recusal, or independence disclosures where material;
+- publication status, restriction basis, and later publication or reconstruction path;
+- challenge, appeal, certification, or review path still available;
+- retention class and audit-access handling.
+
+### CC-12.3 Access classes
+Records must be tagged, at minimum, for the following access classes:
+- **party-facing** — available to parties or affected persons subject to lawful privacy, safety, and evidence-protection limits;
+- **public-facing** — published or summarized where needed for routing intelligibility, precedent, shared standards, or governance trust;
+- **audit-facing** — available for lawful audit, reconstruction, and Article XV-A verification;
+- **contest-integrity-facing** — available to `corpus_institutions.md` **CI-7.3** monitors where pathway performance, backlog, recusal, routing, or publication integrity is at issue;
+- **external-assurance-facing** — available when **CI-7.2**, **CI-8**, or equivalent lawful assurance triggers apply;
+- **restricted or sealed** — limited only as justified by lawful secrecy, safety, privacy, protected internal-state, or evidence-integrity constraints, with a deferred review or reconstruction path wherever feasible.
+
+Access tagging must support meaningful review without converting lawful restriction into concealment. If a record is withheld or summarized, the forum must preserve enough attributable detail for later lawful reconstruction.
+
+### CC-12.4 Evidence artifact handling
+Forum evidence artifacts must preserve chain of custody, source, method, transformation history, uncertainty, and access restrictions proportionate to impact and sensitivity. This applies to physical evidence, digital records, model or system logs, expert analyses, summaries of restricted evidence, forensic workpapers, and technical-standard materials.
+
+Where an artifact is transformed, summarized, redacted, compressed, or represented through a derived exhibit, the record must preserve enough information to test reliability, contest material assumptions, and reconstruct the original evidentiary path where lawful.
+
+### CC-12.5 Publication, retention, and reconciliation
+Publication and retention rules must be written in advance and aligned with **CC-10** publication timeliness, **CC-11** continuity, and applicable systems-data handling rules. Delayed-publication records must state the restriction basis and the next review or release condition.
+
+During degraded or emergency operation, temporary paper, offline, or local records may be used only if they preserve docket identity, timestamps, responsible roles, and later reconciliation. Reconciled records must identify any gap, conflict, loss, or reconstruction uncertainty.
+
+### CC-12.6 Non-compliant record patterns
+The following patterns are non-compliant:
+- material forum action with no attributable record;
+- records that omit review path or publication status for rights-affecting actions;
+- form designs that obscure forum-family routing or backup activation;
+- restricted-evidence handling that prevents lawful later reconstruction;
+- emergency or continuity records that cannot be reconciled to ordinary dockets;
+- private or vendor-controlled evidence artifacts that cannot be audited or contested within lawful limits.
 
 ---
 
@@ -1090,27 +1151,9 @@ Each adopting system must maintain and periodically update at least:
 
 ---
 
-## Migration notes
-
-This file is currently a scaffold. It is not yet the single fully populated owner of all forum-operational doctrine.
-
-The intended migration path is:
-
-1. move the three P0 forum-operation drafts into this file
-2. migrate forum-specific operational content from `corpus_institutions.md` sections now acting as provisional owners
-3. replace migrated material in other companion files with shorter owner-pointer text where appropriate
-4. update `README.md`, `doc_architecture.md`, and incorporation references if this file is adopted as binding
-
 ## Relationship to existing files
 
 - `core_08-08_forum.md` remains the constitutional owner of forum-family architecture and routing.
 - `corpus_institutions.md` remains the general owner of non-adjudicative institutional governance (as distinct from the forum layer).
 - `corpus_joint_structure.md` remains the owner of general procedural-integrity and adjudication implementation labels.
 - `corpus_systems.md` remains the owner of system continuity, class, steward, and cross-jurisdiction execution taxonomies that forums may rely on.
-
-## Immediate next drafting targets
-
-1. populate **CC-3** from the panel / recusal draft
-2. populate **CC-10** from the performance / backlog draft
-3. populate **CC-11** from the continuity / emergency adjudication draft
-4. decide whether **CI-7A**, **CI-7A.1**, and **CI-7B** migrate fully or stay duplicated temporarily during transition
