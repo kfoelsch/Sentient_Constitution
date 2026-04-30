@@ -296,7 +296,22 @@ This section is where the mapping exercise will pay off most. It should separate
 - proxy divergence as invalidation;
 - ecological and intergenerational terms as hard boundaries.
 
-### 5.2 Distributed Understanding and Stewardship
+### 5.2 Concentration Threshold Mechanism
+
+Current core attachments:
+
+- Concentration Threshold (definition owner in Chapter Five).
+
+Assessment:
+
+- Primary: Concentration Threshold.
+- Boundary: Article IV owns resource-allocation dependency floors; Chapter Seven evaluates conduct crossing the §5.1 concentration floor once thresholds bind.
+
+Drafting implication:
+
+Keep principle-layer threshold-mechanism discipline legible alongside §5.1’s non-concentration rule without duplicating rights-floor text.
+
+### 5.3 Distributed Understanding and Stewardship
 
 Current core attachments:
 

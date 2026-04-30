@@ -1144,7 +1144,7 @@ while defeating practical reconstructability, contestability, or proportionate a
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [§5.2 Distributed Understanding and Stewardship](core_00-01_principles.md#52-distributed-understanding-and-stewardship), [6.2.1 Preservation of Epistemic Integrity](core_00-01_principles.md#621-preservation-of-epistemic-integrity).
+- Downstream: Principles: [§5.3 Distributed Understanding and Stewardship](core_00-01_principles.md#53-distributed-understanding-and-stewardship), [6.2.1 Preservation of Epistemic Integrity](core_00-01_principles.md#621-preservation-of-epistemic-integrity).
 - Read with: [Epistemic Integrity](#epistemic-integrity), [Truth (Constitutional Constraint)](#truth-constitutional-constraint), [Contestability](core_05-05_definitions_b_semi_independent.md#contestability), and [Auditability](#auditability).
 
 </details>
@@ -1186,7 +1186,7 @@ while defeating practical reconstructability, contestability, or proportionate a
 
 - O: The property enabling systematic examination, reconstruction, and evaluation of system behavior through sufficient [Observability](#observability) and [Verifiability](#verifiability).
 <a id="auditability-e"></a>
-- E: Must function across relevant conditions and [Stakeholders](core_05-05_definitions_b_semi_independent.md#stakeholder), including conditions relevant to [Contestability](core_05-05_definitions_b_semi_independent.md#contestability) and [Oversight](core_05-05_definitions_b_semi_independent.md#oversight-constitutional). Where stewardship relies on repeated comparable measures of materially relevant behavior, audit paths should support review of whether variation-over-time monitoring and threshold-triggered follow-through are present and proportionate when claimed ([Chapter One §5.2.3](core_00-01_principles.md#523-institutional-development); [Observability](#observability); [Proportionality](core_05-05_definitions_a_independent.md#proportionality)).
+- E: Must function across relevant conditions and [Stakeholders](core_05-05_definitions_b_semi_independent.md#stakeholder), including conditions relevant to [Contestability](core_05-05_definitions_b_semi_independent.md#contestability) and [Oversight](core_05-05_definitions_b_semi_independent.md#oversight-constitutional). Where stewardship relies on repeated comparable measures of materially relevant behavior, audit paths should support review of whether variation-over-time monitoring and threshold-triggered follow-through are present and proportionate when claimed ([Chapter One §5.3.3](core_00-01_principles.md#533-institutional-development); [Observability](#observability); [Proportionality](core_05-05_definitions_a_independent.md#proportionality)).
 <a id="auditability-c"></a>
 - C: Non-compliant: non-functional audit mechanisms; failure to enable practical reconstruction and evaluation.
 <a id="evaluation-completeness-constraint"></a>

@@ -56,7 +56,7 @@ EXPECTED: dict[str, list[str]] = {
         "Environmental Preconditions",
         "Intergenerational Responsibility",
     ],
-    "#### 5.2 Distributed Understanding and Stewardship": [
+    "#### 5.3 Distributed Understanding and Stewardship": [
         "Educational Agency",
         "Transparency",
         "Meaningful Agency",
@@ -73,7 +73,7 @@ EXPECTED: dict[str, list[str]] = {
         "Avoidable Burden",
         "Epistemic Integrity",
     ],
-    "##### 5.2.1 Distributed Understanding": [
+    "##### 5.3.1 Distributed Understanding": [
         "Transparency",
         "Materiality",
         "Dependency",

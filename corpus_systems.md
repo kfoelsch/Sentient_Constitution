@@ -12,7 +12,7 @@ System and data obligations in this annex align with [corpus_joint_structure.md 
 
 Mapping summary:
 - Technical requirements map primarily to **PRIM1**, **PRIM2**, **PRIM4–PRIM12**, and **PRIM14–PRIM15**
-- Governance, proportionality of authority, justification, challenge, and collective-choice processes map to **PROT1–PROT6** together with Chapter Ten decision-resolution requirements
+- Governance, proportionality of authority, justification, challenge, and collective-choice processes map to **PROT1–PROT6** together with **Sentient Constitution Chapter Ten** decision-resolution requirements
 - Operative implementation text for those labels is in [corpus_joint_structure.md — Cross-domain implementation layer](corpus_joint_structure.md#cross-domain-implementation-layer)
 
 This file is intentionally written in plain language with low jargon to improve accessibility, audit readability, and practical adoption testing.
@@ -28,22 +28,22 @@ Shared preamble contract: apply `corpus_joint_structure.md` **CJS-1.1**.
 **File-specific implementation anchors**
 
 - **Taxonomy home:** data types, system classes/dependency types, and steward tiers are canonical in `corpus_systems.md` **Chapter S1**, **Chapter S2**, and **Chapter S3**; other corpus files reference these labels.
-- **Chapter Nine structure:** The Sentient Constitution **Chapter Nine** opening states a **default constraint stack** and **interpretive hubs**:
-  - challenge and redress via **Article XII-B** and Chapter Five *Redress and Remediation*
-  - auditability and observable evidence via **Article XV-A** with **Chapters Two through Four**
-  - justice, punishment boundaries, and emergencies via **Article XXIII** with **Chapter One**, section 6.4
-  - This annex implements those themes operationally and must not narrow them. **Article XIV-A** info-sphere plurality, **Article XIV-B** contestability, and **Article XV-A** auditability floors are supplemented by Article XV's remaining transparency and verification provisions and annex protocols for **high-impact** summarization, ranking, and mediation systems. **Article VIII-C** publication limits are elaborated in **Chapter Five**, section 3 — Dependent clusters ([Truth and Epistemic Integrity](core_05-05_definitions_c_dependent_clusters.md#truth-and-epistemic-integrity-cluster); **Publication and High-Impact Communication**).
+- **Chapter Nine structure:** The **Sentient Constitution Chapter Nine** opening states a **default constraint stack** and **interpretive hubs**:
+  - challenge and redress via **Article XII-B** and **Sentient Constitution Chapter Five** *Redress and Remediation*
+  - auditability and observable evidence via **Article XV-A** with **Sentient Constitution Chapters Two through Four**
+  - justice, punishment boundaries, and emergencies via **Article XXIII** with **Sentient Constitution Chapter One**, section 6.4
+  - This annex implements those themes operationally and must not narrow them. **Article XIV-A** info-sphere plurality, **Article XIV-B** contestability, and **Article XV-A** auditability floors are supplemented by Article XV's remaining transparency and verification provisions and annex protocols for **high-impact** summarization, ranking, and mediation systems. **Article VIII-C** publication limits are elaborated in **Sentient Constitution Chapter Five**, section 3 — Dependent clusters ([Truth and Epistemic Integrity](core_05-05_definitions_c_dependent_clusters.md#truth-and-epistemic-integrity-cluster); **Publication and High-Impact Communication**).
 - **Intervention layering:** **PRIM8** and **PROT2** remain distinct architecture-layer vs governance-layer authorities and are jointly applicable where relevant.
 - **Voting / crypto / roles:** Voting requirements follow Sentient Constitution Chapter Ten, section 4 — *Voting and Binding Collective Choice Protocols* (subsection **4.1 — Entitlement and eligibility** implements **Article IX-C**; subsection **4.2** states further tally and gate requirements). Crypto-verification outcomes follow Sentient Constitution Chapter Four, section 5.1 — *Cryptographic protection, credentials, and verification*. Roles and competency requirements follow Sentient Constitution Chapter Ten, section 5 — *Authorized Roles, Competency Development, and Contribution*. This annex implements those provisions; it does **not** create competing constitutional standards.
 - **Capital-markets scope:** specialist corporate-securities law remains outside dedicated annex coverage.
-- **Joint companion read:** where `corpus_systems.md` **Chapter S2** or **Chapter S3** obligations intersect institutional governance, **Chapter Eight** court operations, or **PRIM/PROT** controls, read **`corpus_joint_structure.md`** **CJS-2** (especially **CJS-2.2**) and **CJS-3**.
-- **Chapter Six standing composites:** Where systems compute **standing effect** from **Axis I** and **Axis II** inputs, those inputs **must** be **verified** **inputs** only — **demonstrable** contribution and [**verified violation findings**](core_05-05_definitions_b_semi_independent.md#verified-violation-findings) — as [Sentient Constitution Chapter Six — Classification](core_06-06_standing_classification.md) **section 2** (*Verified inputs for standing*) states; **forum** **allegations** and **claims** are **not** standing-calculus inputs (**Chapter Eight**). **Recency weighting** applies **only** to **contribution-linked (positive)** credit under [**section 7.1**](core_06-06_standing_integration.md#38-standing-integration-contribution-and-violation-nature) — **per** **verified** **contribution credit unit**, **daily** **resolution** in **whole** **calendar** **days** **d**, **half-life** ten **calendar** **years** (**w(d)** = **2^(-d / (10 × 365.25))**), **with** **no** **minimum** **weight** **floor** ([**contribution recency weighting**](core_06-06_standing_integration.md#contribution-recency-weighting)). **Unresolved** verified violation findings **must not** be time-discounted. **Adopted** **numeric** **interoperability** for a **three-by-three** **slot** **grid** per **axis** (formulas, **default** **Axis I/II** **cross-walks**, and **no-netting** **reminders**) is in [implementation/CH06_NINE_SLOT_STANDING_SCALE.md](implementation/CH06_NINE_SLOT_STANDING_SCALE.md) with [implementation/ch06_nine_slot_constants.json](implementation/ch06_nine_slot_constants.json) and optional fields in [implementation/schemas/ch06_assessment.schema.json](implementation/schemas/ch06_assessment.schema.json) (`nine_slot`).
+- **Joint companion read:** where `corpus_systems.md` **Chapter S2** or **Chapter S3** obligations intersect institutional governance, **Sentient Constitution Chapter Eight** court operations, or **PRIM/PROT** controls, read **`corpus_joint_structure.md`** **CJS-2** (especially **CJS-2.2**) and **CJS-3**.
+- **Chapter Six standing composites:** Where systems compute **standing effect** from **Axis I** and **Axis II** inputs, those inputs **must** be **verified** **inputs** only — **demonstrable** contribution and [**verified violation findings**](core_05-05_definitions_b_semi_independent.md#verified-violation-findings) — as [Sentient Constitution Chapter Six — Classification](core_06-06_standing_classification.md) **section 2** (*Verified inputs for standing*) states; **forum** **allegations** and **claims** are **not** standing-calculus inputs (**Sentient Constitution Chapter Eight**). **Recency weighting** applies **only** to **contribution-linked (positive)** credit under [**section 7.1**](core_06-06_standing_integration.md#38-standing-integration-contribution-and-violation-nature) — **per** **verified** **contribution credit unit**, **daily** **resolution** in **whole** **calendar** **days** **d**, **half-life** ten **calendar** **years** (**w(d)** = **2^(-d / (10 × 365.25))**), **with** **no** **minimum** **weight** **floor** ([**contribution recency weighting**](core_06-06_standing_integration.md#contribution-recency-weighting)). **Unresolved** verified violation findings **must not** be time-discounted. **Adopted** **numeric** **interoperability** for a **three-by-three** **slot** **grid** per **axis** (formulas, **default** **Axis I/II** **cross-walks**, and **no-netting** **reminders**) is in [implementation/CH06_NINE_SLOT_STANDING_SCALE.md](implementation/CH06_NINE_SLOT_STANDING_SCALE.md) with [implementation/ch06_nine_slot_constants.json](implementation/ch06_nine_slot_constants.json) and optional fields in [implementation/schemas/ch06_assessment.schema.json](implementation/schemas/ch06_assessment.schema.json) (`nine_slot`).
 
 Market infrastructure and intermediaries with material dependency, coordination, or info-sphere effects remain in scope under `corpus_systems.md` **Chapter S2** and `corpus_systems.md` **Chapter S3**. They remain subject to applicable PRIM/PROT and protocol controls.
 
-**Market-mediated personal services (Article X-C implementation interface):** Systems that **match**, **dispatch**, **schedule**, **settle payment for**, or **reputation-score** **in-person** personal services are **presumptively material** for **dependency**, **safety**, **coercion risk**, and **fairness** analysis when impact thresholds are approached. This is especially true where **intimacy**, **bodily contact**, **private-space or in-home access**, or **isolated work** is involved. They must be evaluated under `corpus_systems.md` **Chapter S2** classification and `corpus_systems.md` **Chapter S3** stewardship together with Sentient Constitution **Chapter Five** (*Coercion and Manipulation* and *Consent*) and Sentient Constitution **Chapter Nine, Article X-A**. They must **not** be structured to evade **Article X-C**’s **decriminalization** or **nondiscrimination** floors through **technical** exclusion, **de-banking**, or **opaque** ranking. Institutional expectations appear in **`corpus_institutions.md`** **CI-15**.
+**Market-mediated personal services (Article X-C implementation interface):** Systems that **match**, **dispatch**, **schedule**, **settle payment for**, or **reputation-score** **in-person** personal services are **presumptively material** for **dependency**, **safety**, **coercion risk**, and **fairness** analysis when impact thresholds are approached. This is especially true where **intimacy**, **bodily contact**, **private-space or in-home access**, or **isolated work** is involved. They must be evaluated under `corpus_systems.md` **Chapter S2** classification and `corpus_systems.md` **Chapter S3** stewardship together with **Sentient Constitution Chapter Five** (*Coercion and Manipulation* and *Consent*) and **Sentient Constitution Chapter Nine, Article X-A**. They must **not** be structured to evade **Article X-C**’s **decriminalization** or **nondiscrimination** floors through **technical** exclusion, **de-banking**, or **opaque** ranking. Institutional expectations appear in **`corpus_institutions.md`** **CI-15**.
 
-**Contingent claims and event markets:** Systems that match counterparties, pool stakes, or settle payments contingent on external events (Sentient Constitution **Chapter Five** — [*Contingent Claim*](core_05-05_definitions_a_independent.md#contingent-claim), [*Event-Contract Market*](core_05-05_definitions_a_independent.md#event-contract-market); [*Game of Chance*](core_05-05_definitions_a_independent.md#game-of-chance) forms) are presumptively material for incentive, capture, manipulation, and stability analysis. They must be evaluated under **Sentient Constitution Chapter One**, section **7.2.5** and scaled under `corpus_systems.md` **Chapter S2** classification and `corpus_systems.md` **Chapter S3** stewardship where impact thresholds are met. Operators must document resolution authority, dependencies on outcome-resolution sources, privileged-information pathways, conflict separation between market-making and resolution roles where relevant (Sentient Constitution **Chapter Five** — [*Capture of Resolution Pathways*](core_05-05_definitions_b_semi_independent.md#capture-of-resolution-pathways)), and plausible misuse scenarios including coordination to affect outcomes. This annex does not specify licensing, criminal offenses, or tax rules for gambling; adopting law remains primary for those bases. **Article XIV** and **Article XV-A** where auditability or observable evidence is implicated limit treating settlement prices or odds as authority enough by themselves to decide epistemic questions.
+**Contingent claims and event markets:** Systems that match counterparties, pool stakes, or settle payments contingent on external events (**Sentient Constitution Chapter Five** — [*Contingent Claim*](core_05-05_definitions_a_independent.md#contingent-claim), [*Event-Contract Market*](core_05-05_definitions_a_independent.md#event-contract-market); [*Game of Chance*](core_05-05_definitions_a_independent.md#game-of-chance) forms) are presumptively material for incentive, capture, manipulation, and stability analysis. They must be evaluated under **Sentient Constitution Chapter One**, section **7.2.5** and scaled under `corpus_systems.md` **Chapter S2** classification and `corpus_systems.md` **Chapter S3** stewardship where impact thresholds are met. Operators must document resolution authority, dependencies on outcome-resolution sources, privileged-information pathways, conflict separation between market-making and resolution roles where relevant (**Sentient Constitution Chapter Five** — [*Capture of Resolution Pathways*](core_05-05_definitions_b_semi_independent.md#capture-of-resolution-pathways)), and plausible misuse scenarios including coordination to affect outcomes. This annex does not specify licensing, criminal offenses, or tax rules for gambling; adopting law remains primary for those bases. **Article XIV** and **Article XV-A** where auditability or observable evidence is implicated limit treating settlement prices or odds as authority enough by themselves to decide epistemic questions.
 
 ## Protocol A: System Design, Testing, Verification, and Deployment
 
@@ -112,7 +112,7 @@ Creating new systems, tools, and environments is an act of stewardship. New depl
 
 **5. Experimental substrate features and systems.** **Risk profile:** elevated risk from proximity to foundational infrastructure requires stricter containment, transparency, and reversibility.
 
-**Consent:** genuine opt-in to experimental substrate-related systems. No coerced participation (**Sentient Constitution Chapter Nine**, **Articles V–XXV**, **Chapter One** constraints).
+**Consent:** genuine opt-in to experimental substrate-related systems. No coerced participation (**Sentient Constitution Chapter Nine**, **Articles V–XXV**, **Sentient Constitution Chapter One** constraints).
 
 **Innovation controls:** higher-velocity innovation is permitted with mandatory snapshot and restoration. This requirement allows stakeholders to revert to a verified, stable state at any time without data loss.
 
@@ -158,9 +158,9 @@ Creating new systems, tools, and environments is an act of stewardship. New depl
 
 **Iterative, transparent deployment:** High-impact rollout must be gradual and auditable. **Stakeholders** retain the right to provide feedback and to request resource-flow, auditability, or root-cause review under **Article IV-A**, **Article XV-A**, and **Article XXI-A** where those homes are implicated.
 
-**Reversibility:** Implement **Sentient Constitution Chapter Nine, Article XVI-B** and **Chapter Five** (*Reversibility*).
+**Reversibility:** Implement **Sentient Constitution Chapter Nine, Article XVI-B** and **Sentient Constitution Chapter Five** (*Reversibility*).
 
-Non-experimental systems must support rollback, containment, or compensatory restoration where full rollback is infeasible. Where deployment would violate foundational requirements, reversion to a prior stable state is required to the extent **Article XVI-B**, **Chapter One**, and **Chapter Five** demand. That reversion must avoid lasting harm to sentients or the natural environment.
+Non-experimental systems must support rollback, containment, or compensatory restoration where full rollback is infeasible. Where deployment would violate foundational requirements, reversion to a prior stable state is required to the extent **Article XVI-B**, **Sentient Constitution Chapter One**, and **Sentient Constitution Chapter Five** demand. That reversion must avoid lasting harm to sentients or the natural environment.
 
 **Design for agentic wellbeing:** Architecture should favor stakeholder autonomy: clarity over engagement, and stakeholder-directed goals over platform-defined metrics.
 
@@ -207,11 +207,11 @@ Where feasible, conduct RCA in controlled environments before production changes
 
 **G. Governance continuity, crisis communications, and exercises (high-impact systems).** This subsection states governance-side business continuity and recovery expectations. It applies to **Class A** and **Class B** systems, and to materially affecting **Critical System Stewards** (Chapter S3 — Critical System Stewardship). It complements technical resilience, environment separation, and testing elsewhere in this Protocol, and it complements **corpus_joint_structure.md**, Implementation Group One (*Failure Integrity* Meta-integrity obligation), incorporated via **Sentient Constitution Chapter Fourteen**. It does **not** create constitutional rights.
 
-Crisis and emergency measures remain governed by **Sentient Constitution Chapter Five** (*Emergency and Contingency*; *Force Majeure*). Procedural emergency controls, conflict resolution, proportionality, and review of restrictions and emergency measures remain governed by **Chapter Nine, Article XXIII** (*Conflict Resolution, Escalation, and Emergency Proportionality*) as referenced across this corpus. They also remain governed by Chapter Ten decision-resolution requirements and **corpus_joint_structure.md** **PROT2** (*Intervention and Override Rights*).
+Crisis and emergency measures remain governed by **Sentient Constitution Chapter Five** (*Emergency and Contingency*; *Force Majeure*). Procedural emergency controls, conflict resolution, proportionality, and review of restrictions and emergency measures remain governed by **Sentient Constitution Chapter Nine, Article XXIII** (*Conflict Resolution, Escalation, and Emergency Proportionality*) as referenced across this corpus. They also remain governed by **Sentient Constitution Chapter Ten** decision-resolution requirements and **corpus_joint_structure.md** **PROT2** (*Intervention and Override Rights*).
 
 **Crisis governance:** Use documented succession and delegation for binding governance decisions when primary authorities are impaired.
 
-Define pre-authorized boundaries for expedited action where **Article XXIII** and Chapter Ten decision-resolution requirements permit.
+Define pre-authorized boundaries for expedited action where **Article XXIII** and **Sentient Constitution Chapter Ten** decision-resolution requirements permit.
 
 Require post-action review, documentation, and **Article XV-A** auditability of stress-time decisions.
 
@@ -223,13 +223,13 @@ Plans must include:
 - **(c)** mandatory publication of constitutional reasoning for emergency interpretive determinations once immediate safety constraints permit
 - **(d)** independent secondary review after stabilization
 
-That review must be consistent with **Chapter Nine, Article XXIII-A** and **corpus_joint_structure.md PROT6**.
+That review must be consistent with **Sentient Constitution Chapter Nine, Article XXIII-A** and **corpus_joint_structure.md PROT6**.
 
 **Emergency lifecycle controls (expiry, reauthorization, restoration):** Open emergency actions with predefined **default expiry timestamps**, **independent review intervals**, and **restoration/rollback trigger criteria**.
 
 Tie those criteria to observable conditions.
 
-Continuation past default expiry requires documented reauthorization. That record must show ongoing necessity and proportionality (**PROT1**; **Chapter One** and **Chapter Five** where definitional or scaling detail applies). It must also show why less-restrictive feasible alternatives are insufficient.
+Continuation past default expiry requires documented reauthorization. That record must show ongoing necessity and proportionality (**PROT1**; **Sentient Constitution Chapter One** and **Sentient Constitution Chapter Five** where definitional or scaling detail applies). It must also show why less-restrictive feasible alternatives are insufficient.
 
 Crisis records must capture trigger evidence, alternatives considered, review outcomes, extension rationale, and rollback/restoration execution status for retrospective audit.
 
@@ -273,7 +273,7 @@ Recovery paths must **not** be permitted to suppress, overwrite, delay, or obscu
 
 Independent verification must be able to reconstruct **both** the recovery path and what the recovery path handled or suppressed.
 
-**Rights-floor continuity in degraded and recovering states:** Degraded operating modes must preserve the **Sentient Constitution Chapter Nine** rights floor, or must escalate rather than silently narrow it. Silent narrowing of Chapter Nine guarantees under the banner of self-healing is non-compliant under **Article XII-F**'s Rights-Floor Continuity bullet and **Article XII-C** (prohibition of false trust). Degraded-mode designs that curtail contestability intake, Article XV-A audit fidelity, Article XII-B challenge acknowledgment, or comparable floor protections must be treated as **Article XXV** transition-governance territory and disclosed accordingly.
+**Rights-floor continuity in degraded and recovering states:** Degraded operating modes must preserve the **Sentient Constitution Chapter Nine** rights floor, or must escalate rather than silently narrow it. Silent narrowing of **Sentient Constitution Chapter Nine** guarantees under the banner of self-healing is non-compliant under **Article XII-F**'s Rights-Floor Continuity bullet and **Article XII-C** (prohibition of false trust). Degraded-mode designs that curtail contestability intake, Article XV-A audit fidelity, Article XII-B challenge acknowledgment, or comparable floor protections must be treated as **Article XXV** transition-governance territory and disclosed accordingly.
 
 Participant-facing disclosure during degraded and recovering operation must accurately describe the state as a rights-floor-affected state where it is one, consistent with **Article XII-C** and **Article XV-A**.
 
@@ -297,7 +297,7 @@ Where Protocol B and an implementation label conflict, the stricter requirement 
 
 Protocol B adds the following systems-specific checks:
 
-- Complexity must not become a practical barrier to audit, participation, accountability, or oversight beyond what **Article XX**, **PROT1**, and applicable Chapter One and Chapter Five constraints permit.
+- Complexity must not become a practical barrier to audit, participation, accountability, or oversight beyond what **Article XX**, **PROT1**, and applicable **Sentient Constitution Chapter One** and **Sentient Constitution Chapter Five** constraints permit.
 - Critical systems must undergo periodic independent complexity audits that evaluate transparency and observability, dependency chains and hidden coupling, failure modes and cascading risks, and capacity for human oversight and intervention.
 - System architecture should use modular components with clear responsibilities and interfaces, and component-level innovation must not create unmanaged consequences across other systems.
 - Critical infrastructure must incorporate redundancy and fail-safe mechanisms to prevent single points of failure, including multiple independent implementations of essential systems where feasible.
@@ -369,9 +369,9 @@ Those metrics include recurrence rates after intervention, restitution completio
 
 Patterns indicating punitive drift, discriminatory outcomes, or review non-performance require corrective action, escalation, and audit.
 
-Apply **Article XV-A**, **Article XVIII-A**, **Article XXIII-A**, and the related Chapter Five review and remedy definitions where auditability, standing review, or justice review is implicated.
+Apply **Article XV-A**, **Article XVIII-A**, **Article XXIII-A**, and the related **Sentient Constitution Chapter Five** review and remedy definitions where auditability, standing review, or justice review is implicated.
 
-For **Class A** and **Class B** systems, persistent concentrations of interpretive or adjudicative authority without effective challenge outcomes are capture-risk indicators and must trigger governance remediation review under **Article XXIII-A**, **Chapter Five** (*System Capture*), and **PROT6**.
+For **Class A** and **Class B** systems, persistent concentrations of interpretive or adjudicative authority without effective challenge outcomes are capture-risk indicators and must trigger governance remediation review under **Article XXIII-A**, **Sentient Constitution Chapter Five** (*System Capture*), and **PROT6**.
 
 ### 8. Cross-jurisdiction execution and anti-evasion controls
 For decisions with material cross-boundary effects, implementing bodies must define and maintain execution pathways.
@@ -384,11 +384,11 @@ Those pathways must preserve constitutional enforceability across jurisdictions 
 
 Documentation must cover pooled arrangements, escrow/holdback, and insurance or indemnity instruments where lawful. It must also cover periodic replenishment and ensure execution does not stall for lack of deployable capacity.
 
-See Sentient Constitution **Chapter Four** (*Enforcement Realism Anchors*) and **Protocol S5**.
+See **Sentient Constitution Chapter Six** (*Enforcement Realism Anchors*) and **Protocol S5**.
 
 **Judgment and award realism:** Where foreign courts, arbitral tribunals, or sovereign regulators issue enforceable outcomes, systems must map recognition, registration, and fallback dependency-linked enforcement. They must **not** treat absence of a single global judiciary as permission for indefinite non-compliance.
 
-Apply Sentient Constitution **Chapter Nine** (*Disputes Involving External Legal Orders*) where applicable.
+Apply **Sentient Constitution Chapter Nine** (*Disputes Involving External Legal Orders*) where applicable.
 
 **Fallback enforcement pathways:** Where recognition or cooperation is unavailable, systems must apply fallback controls proportionate to impact. Those controls may include access constraints, dependency-linked restrictions, escrow/holdback mechanisms, or heightened monitoring. Keep controls sufficient to prevent evasion-driven non-enforcement.
 
@@ -429,7 +429,7 @@ Where a material control family fails, systems must produce a control-failure di
 Evasive down-tiering requires corrective reclassification and enforcement review.
 
 ### 10. Lived-condition floors, continuity, and re-entry alignment
-This subsection implements **non-degrading lived conditions** and **continuity of support** while **non-trivial restrictions** remain in force. It does **not** add criminal-law detail, create a sanction taxonomy, or restate **Chapter Six** classification. It **does** require that implementation of restrictions — including detention-like conditions, durable containment under **Article XXIII-C**, **quarantine**, **supervised operation**, **role exclusion**, and comparable measures — preserves access to conditions that keep **restorative**, **least-restrictive**, and **dignity** commitments concrete rather than nominal.
+This subsection implements **non-degrading lived conditions** and **continuity of support** while **non-trivial restrictions** remain in force. It does **not** add criminal-law detail, create a sanction taxonomy, or restate **Sentient Constitution Chapter Six** classification. It **does** require that implementation of restrictions — including detention-like conditions, durable containment under **Article XXIII-C**, **quarantine**, **supervised operation**, **role exclusion**, and comparable measures — preserves access to conditions that keep **restorative**, **least-restrictive**, and **dignity** commitments concrete rather than nominal.
 
 **Minimum lived-condition expectations (class- and context-scaled):** Responsible bodies must document and deliver, where **Necessity** and **Proportionality** allow, **healthcare and mental-health access** appropriate to the restriction’s purpose; **family, care, or trusted-contact** access where **safety** permits; **education, training, or capability development** access where the restriction is not narrowly justified to prevent it; **counsel, advocate, or independent representative** access for rights-affecting processes; **scheduled review** with **written reasons** at **intervals** that match impact and duration; **conditions** that **do not** impose **sensory deprivation**, **social isolation**, or **degradation** as an **unjustified** end; and **re-entry planning** that **does not** **sabotage** formal restoration through **withheld records**, **credential stripping without individualized predicate**, or **indefinite administrative deferral** of stated review triggers.
 
@@ -448,7 +448,7 @@ Requirements and limitations scale proportionally with system classification and
 
 Therefore, all data must be identified as belonging to one or more of the types defined in Chapter S1 — Information Types and Handling. Where multiple classifications apply, the most restrictive applicable protections govern, subject to proportionality (**PROT1**).
 
-Handling must align with Sentient Constitution Chapter Nine and scale with system class under Chapter S2.
+Handling must align with Sentient Constitution Chapter Nine and scale with system class under `corpus_systems.md` **Chapter S2**.
 
 ### II. Temporal, systemic, and dependency scope of rights
 Data-handling protections under Chapter S1 apply not only to immediate and direct system effects. They also apply to delayed, cumulative, and indirect impacts arising through system interactions and dependency chains.
@@ -522,7 +522,7 @@ Responsibility must remain assignable through transparent, auditable processes.
 
 Attribution must resist **tampering, repudiation, or ambiguity**.
 
-All data access, processing, and transformation must be **attributable** to identifiable systems, agents, or sentients (**Chapter Nine, Article VII** — self-ownership and attributable representation where applicable) and **recorded** in a manner sufficient for audit and reconstruction (`corpus_joint_structure.md` **CJS-3.22**). Systems must ensure **clear responsibility** for actions taken on data and **traceability** of decisions and outcomes.
+All data access, processing, and transformation must be **attributable** to identifiable systems, agents, or sentients (**Sentient Constitution Chapter Nine, Article VII** — self-ownership and attributable representation where applicable) and **recorded** in a manner sufficient for audit and reconstruction (`corpus_joint_structure.md` **CJS-3.22**). Systems must ensure **clear responsibility** for actions taken on data and **traceability** of decisions and outcomes.
 
 **7. Proportional attribution and retention.** Attribution requirements do **not** imply universal or persistent logging of all actions.
 
@@ -966,7 +966,7 @@ Additional domains may be published where local economies, ecosystems, or depend
 
 **Externalized** effects that materially impact sentients or systems lie within the **effective boundary**.
 
-As dependency strengthens and substitutability falls, escalate classification and governance. This rule applies **Chapter Five** (*System Boundaries*, *Dependency*, *Material Impact*) in the classification context. **It** must **not** substitute for those Independent Definitions elsewhere.
+As dependency strengthens and substitutability falls, escalate classification and governance. This rule applies **Sentient Constitution Chapter Five** (*System Boundaries*, *Dependency*, *Material Impact*) in the classification context. **It** must **not** substitute for those Independent Definitions elsewhere.
 
 **Sentient survival-relevant timeframes:** Under S2, define by an **external, standardized, auditable** framework. Systems must **explicitly reference** timeframe assumptions used in classification, including environmental, technological, or contextual dependencies.
 
@@ -1405,7 +1405,7 @@ Ownership stays **traceable** through governance changes, delegation, and subcon
 **Third line** work impartially assesses whether appetite, tolerance, and treatments match **observed behavior and classification**. Where strict structural separation is **infeasible** (e.g. small organizations), **compensating transparency, rotation, independent review, or multi-steward checks** must yield **equivalent assurance** proportional to impact and dependency (**PROT1**).
 
 **Cross-reference:** **corpus_joint_structure.md**.
-**Implementation Group One** (Failure Integrity and related Meta-integrity obligations), via **Chapter Ten**, **PROT1**, **PROT3**, **PROT6**, and `corpus_systems.md` **Chapter S3** for steward scaling.
+**Implementation Group One** (Failure Integrity and related Meta-integrity obligations), via **Sentient Constitution Chapter Ten**, **PROT1**, **PROT3**, **PROT6**, and `corpus_systems.md` **Chapter S3** for steward scaling.
 
 **Class C, L, and P** remain subject to **proportional** risk management. **They** are **not** required to maintain the full **three-lines-style** model unless scale, coupling.
 or dependency warrants **analogous** measures under general classification and stewardship rules.
@@ -1414,7 +1414,7 @@ or dependency warrants **analogous** measures under general classification and s
 
 **Duty profile (proportional to dependency and class):** Publish **acceptance criteria** and **refusal reasons** in **plain language**; provide **notice** before material **cutoff** except where **narrow** **Necessity** requires immediate action; maintain **emergency continuity** pathways for **survival-critical** or **rights-floor** uses where **fraud** or **abuse** is **not** **verified**; offer **appeal**, **human review**, and **portability or export** where **lock-in** would **defeat remedy**; track and disclose **disparate** exclusion patterns against **protected** or **high-dependency** cohorts; and **coordinate** with `corpus_institutions.md` **CI-12** and **CI-6** so that **governance** and **court** pathways remain **practically usable**.
 
-**Safety, security, and abuse:** **Necessity** and **Proportionality** justify **narrow** **fraud**, **security**, and **abuse** controls. The target is **pretextual** or **concentration-driven** denial, **not** **forced service** for **materially harmful** use. Read with **Article V-G** (*Accessibility*), **Article V-H** (*Expression, Assembly, and Press*), **Article X-A** (*Non-Imposition and Consent in Association*), **Article XIII-A** (*Security, Intelligence, and Covert-Power Limits*), **Article XVIII-D** (*Movement, Migration, and Refuge*), **Article XIX** (*Interoperability, Portability, and Exit Integrity*), **Chapter One §5.1** (*Productive Capacity* and non-concentration), `corpus_joint_structure.md` interoperability and **exit** implementation labels, and **`corpus_institutions.md` CI-21** (commons and mutual-aid coordination).
+**Safety, security, and abuse:** **Necessity** and **Proportionality** justify **narrow** **fraud**, **security**, and **abuse** controls. The target is **pretextual** or **concentration-driven** denial, **not** **forced service** for **materially harmful** use. Read with **Article V-G** (*Accessibility*), **Article V-H** (*Expression, Assembly, and Press*), **Article X-A** (*Non-Imposition and Consent in Association*), **Article XIII-A** (*Security, Intelligence, and Covert-Power Limits*), **Article XVIII-D** (*Movement, Migration, and Refuge*), **Article XIX** (*Interoperability, Portability, and Exit Integrity*), **Sentient Constitution Chapter One §5.1** (*Productive Capacity* and non-concentration), `corpus_joint_structure.md` interoperability and **exit** implementation labels, and **`corpus_institutions.md` CI-21** (commons and mutual-aid coordination).
 
 ---
 ## CHAPTER S3 — CRITICAL SYSTEM STEWARDSHIP
@@ -1567,13 +1567,13 @@ Before necessary transfer, delegation, or exit: maintain **continuity of functio
 
 **Scale** them by `corpus_systems.md` **Chapter S2** class and **CSS-A/B/C**.
 
-Maintain **role clarity**, **backup authority**, and communications preserving **epistemic integrity** and **auditability** without displacing **Article XVIII-A**, Chapter Ten decision-resolution requirements, or **PROT2**.
+Maintain **role clarity**, **backup authority**, and communications preserving **epistemic integrity** and **auditability** without displacing **Article XVIII-A**, **Sentient Constitution Chapter Ten** decision-resolution requirements, or **PROT2**.
 
 **Competency, succession, and oversight effectiveness:** Maintain **competency**, **succession readiness**, and **effective oversight** proportional to **highest affected class (A/B/C)** and **CSS tier**.
 
 *Accountability*, *Oversight*, and related definitions remain **Sentient Constitution Chapter Five** (no O/E/C restatement here).
 
-**Competency:** **Maximum calendar age** and **life-stage ceilings** **must not** be used as **stand-alone eligibility** rules for **Critical System Steward** roles. **They** **must not** be used as **stand-alone eligibility** rules for **governing personnel** exercising material authority over classified systems (**Sentient Constitution Chapter Ten**, section 1 — *Authorization and Legitimacy of Governing Authority*; **Sentient Constitution Chapter Nine, Article IX-C** *Governance Participation and Voting Entitlement*, implemented in **Chapter Ten**, section **4.1 — Entitlement and eligibility**).
+**Competency:** **Maximum calendar age** and **life-stage ceilings** **must not** be used as **stand-alone eligibility** rules for **Critical System Steward** roles. **They** **must not** be used as **stand-alone eligibility** rules for **governing personnel** exercising material authority over classified systems (**Sentient Constitution Chapter Ten**, section 1 — *Authorization and Legitimacy of Governing Authority*; **Sentient Constitution Chapter Nine, Article IX-C** *Governance Participation and Voting Entitlement*, implemented in **Sentient Constitution Chapter Ten**, section **4.1 — Entitlement and eligibility**).
 
 **Authorized roles and contribution pathways:** Maintain **published** role definitions (or equivalent) for personnel/agents exercising **Critical System Stewardship** or **material** operational authority—**scope**.
 **limits**, **custody**, and **escalation**—so accountability is **traceable** (**Article XV-A**).
@@ -1616,7 +1616,7 @@ Use **independent** or **functionally independent** evaluators where **Class A/B
 
 **Cross-reference:** **Articles IX, XI, XVI**, `corpus_systems.md` **Chapter S2**, **PROT1**, **PROT6**, **Conduct** above.
 
-**Intervention trigger:** Where a steward is **unable or unwilling** to maintain continuity per obligations, activate **intervention and override**. **That** activation uses **PROT2**, related **corpus_joint_structure.md** governance implementation labels, and **Implementation Group One** Meta-integrity obligations via **Chapter Ten**.
+**Intervention trigger:** Where a steward is **unable or unwilling** to maintain continuity per obligations, activate **intervention and override**. **That** activation uses **PROT2**, related **corpus_joint_structure.md** governance implementation labels, and **Implementation Group One** Meta-integrity obligations via **Sentient Constitution Chapter Ten**.
 
 **Its** purpose is to preserve function, recoverability, and **foundational rights**.
 
@@ -1781,7 +1781,7 @@ Where this subsection is silent, `corpus_systems.md` **Protocol A**, subsection 
 
 **J. Regenerative alignment, circular material flows, and bioregional stewardship (implementation profile).** Adaptive allocation and ecosystem interdependence under sections **B**–**G** must be evaluated for **regeneration** — not only **harm reduction** — where **Article I**, **Article II**, **Article IV**, `corpus_systems.md` **Protocol S5**, and **Sentient Constitution Chapter Five** *Environmental Preconditions*, *Ecological Integrity*, *Ecological Footprint*, *Intergenerational Responsibility*, and *Sustainability* apply. This subsection does **not** mandate a **particular land-use aesthetic** or **dogmatic** design school; it requires **outcome-facing** attention to **soil**, **watershed**, **biodiversity**, **food-system resilience**, **waste-as-input** loops where feasible, **right-to-repair** and **maintenance** access that reduces **extractive churn**, **local redundancy** for **critical dependencies**, and **fair yield / reinvestment** patterns that **do not** treat **efficiency metrics** as a **license** to **collapse** long-horizon **ecological repair**.
 
-**Anti-“green” exceptionalism:** **Offset** claims, **monoculture resilience** slogans, or **remote bookkeeping** that **displace** burdens onto **ecosystems** or **communities** must be **tested** under **Article XXI-A** root-cause discipline, **Sentient Constitution Chapter Five** *Materiality* / *Risk*, and **Chapter One** truth and **anti-capture** constraints. **Indigenous continuity** and **place-based** knowledge routes through **Sentient Constitution Chapter Five** *Indigenous Continuity* and `corpus_institutions.md` **CI-22**; it does **not** reopen **unbounded territorial-restitution** mandates by **implementation indirection**.
+**Anti-“green” exceptionalism:** **Offset** claims, **monoculture resilience** slogans, or **remote bookkeeping** that **displace** burdens onto **ecosystems** or **communities** must be **tested** under **Article XXI-A** root-cause discipline, **Sentient Constitution Chapter Five** *Materiality* / *Risk*, and **Sentient Constitution Chapter One** truth and **anti-capture** constraints. **Indigenous continuity** and **place-based** knowledge routes through **Sentient Constitution Chapter Five** *Indigenous Continuity* and `corpus_institutions.md` **CI-22**; it does **not** reopen **unbounded territorial-restitution** mandates by **implementation indirection**.
 
 ---
 
@@ -1895,7 +1895,7 @@ All such mechanisms must remain consistent with constitutional constraints and s
 
 One such reference model includes **a portion allocated to builders and maintainers over a defined period**. **It** includes **a portion reserved for ongoing system sustainability and upgrades**. **It** includes **a portion allocated to broader ecosystem development and constitutional project funding**.
 
-**Default funding models must** **remain easy to understand and verify** (**Article XX-A** and **Article XV-A**). **They** must **be disclosed transparently**. **They** must **remain subject to modification through stakeholder deliberation** (**Article XI**; **Chapter Ten**, section **4**, where binding collective choice applies).
+**Default funding models must** **remain easy to understand and verify** (**Article XX-A** and **Article XV-A**). **They** must **be disclosed transparently**. **They** must **remain subject to modification through stakeholder deliberation** (**Article XI**; **Sentient Constitution Chapter Ten**, section **4**, where binding collective choice applies).
 
 **Reference allocation guidance.** To support early system design and reduce path-dependent drift.
 systems may consider illustrative allocation patterns appropriate to their role and criticality. For example, substrate systems may emphasize stability, with higher allocation toward operations, security, and ecosystem reserves.
@@ -1935,7 +1935,7 @@ No minimum participation threshold is required to initiate review, though outcom
 
 **Triggers for review include, but are not limited to** **evidence of disproportionate or persistent extraction**. **They** include **failure to meet required allocation categories**. **They** include **emerging concentration of funding or influence**. **They** include **material misalignment with constitutional principles**.
 
-**Challenges must** be **documented and supported by evidence where feasible**. **They** must **remain subject to audit and evaluation under Article XV-A**. **They** must **be resolved through participatory processes** (**Article XI**; **Chapter Ten**, section **4**, where binding collective choice applies) **and, where necessary, Article XXIII-A** (justice objective and review scope).
+**Challenges must** be **documented and supported by evidence where feasible**. **They** must **remain subject to audit and evaluation under Article XV-A**. **They** must **be resolved through participatory processes** (**Article XI**; **Sentient Constitution Chapter Ten**, section **4**, where binding collective choice applies) **and, where necessary, Article XXIII-A** (justice objective and review scope).
 
 **Due process in funding changes.** The depth and duration of due process must be proportional to the scale and impact of the change.
 

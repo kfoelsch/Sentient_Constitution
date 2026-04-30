@@ -35,6 +35,10 @@ Retired compatibility wrapper names such as `core_constitution.md`, `core_defini
 
   Narrative closure notes through the latest companion-corpus continuation (commit `1819cbc` and prior `ad3f704` thread) live in [archive/TODO_ARCHIVED_2026-04-30.md](archive/TODO_ARCHIVED_2026-04-30.md) and [MEMLOG.md](MEMLOG.md).
 
+  **2026-04-30 continuation addendum 9:** Normalized remaining bare constitutional chapter references where companion prose identified owners (**Chapter Nine**/**Five**/**One**/**Ten**/**Six** shorthand; **Chapter S2** classification routing; forum opening bullet) across `corpus_systems.md`, `corpus_institutions.md`, `corpus_forum.md`, and `corpus_joint_structure.md` (**PRIM6**, **PRIM7**, **PRIM8** constitutional-anchor lines). Ran non-regression checks only: `make reference-audit`, `make corpus-markdown-audit`, `make lexical-vocabulary-audit`.
+
+  **2026-04-30 continuation addendum 10:** Tightened `corpus_joint_structure.md` **PRIM6**/**PRIM7** read-with lines so **Article XV-A**, **Article XVI-A**, and **Chapter S1** use explicit owner routing (`corpus_systems.md` **Chapter S1**; **Sentient Constitution Chapter Nine** article pointers). Normalized **PROT3** reflexivity stack clause so **Chapter Six**/**Chapter Nine** are owner-explicit. Corrected `corpus_systems.md` **Protocol C** cross-reference that labeled *Enforcement Realism Anchors* as **Sentient Constitution Chapter Four** — authoritative section is **Chapter Six** (`core_06-06_standing_integration.md`). Ran non-regression checks only: `make reference-audit`, `make corpus-markdown-audit`, `make lexical-vocabulary-audit`.
+
   **Suggested acceptance check (when resumed):** run targeted theme greps across `corpus_joint_structure.md`, `corpus_systems.md`, `corpus_institutions.md`, and `corpus_forum.md`; convert duplicative companion prose to pointers where it repeats Chapter Five definitions or Chapter Nine rights without adding implementation detail.
 
 ### Deferred — P1 Regression and Evidence

@@ -205,9 +205,9 @@ The following subsections state criteria interactions and named pattern routing.
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [Chapter One §5.1](core_00-01_principles.md#51-productive-capacity-instrumental-good) (*Productive Capacity*); [Chapter One §5.1.1](core_00-01_principles.md#511-concentration-threshold-mechanism-adopter-tunable) (*Concentration Threshold Mechanism*); [§2](#2-criteria-set-for-slot-assignment) (*Criteria set*).
+- Upstream: [Chapter One §5.1](core_00-01_principles.md#51-productive-capacity-instrumental-good) (*Productive Capacity*); [Chapter One §5.2](core_00-01_principles.md#52-concentration-threshold-mechanism-adopter-tunable) (*Concentration Threshold Mechanism*); [§2](#2-criteria-set-for-slot-assignment) (*Criteria set*).
 - Downstream: [§3](#3-violation-axis-s-7-9-slot-assignment-incident-gravity) (*Violation Axis s = 7–9 slot assignment*).
-- Read with: [Concentration Threshold](core_05-05_definitions_b_semi_independent.md#concentration-threshold-constitutional) in **Chapter Five** for definitional anchoring referenced from the **§5.1.1** mechanism.
+- Read with: [Concentration Threshold](core_05-05_definitions_b_semi_independent.md#concentration-threshold-constitutional) in **Chapter Five** for definitional anchoring referenced from the **§5.2** mechanism.
 
 </details>
 
@@ -215,13 +215,13 @@ The following subsections state criteria interactions and named pattern routing.
 
 *In plain terms: dangerous concentration of money or power is not a separate “mystery criterion” — it still has to show up through rollback, blocked remedies, or capture that makes constitutional process unusable in practice.*
 
-Prohibited **concentration of wealth, power, control, or opportunity** under **Chapter One §5.1** and **§5.1.1** is not a separate slot-assignment criterion. It is reached through the existing criteria where it produces the equivalent constitutional effect:
+Prohibited **concentration of wealth, power, control, or opportunity** under **Chapter One §5.1** and **§5.2** is not a separate slot-assignment criterion. It is reached through the existing criteria where it produces the equivalent constitutional effect:
 
 - It satisfies **criterion 3** where concentration operates as an **equivalent structural workaround** producing material rollback of constitutional protections.
 - It satisfies **criterion 4** where concentration materially contributes to **rights-floor degradation**, delayed correction, or blocked challenge rights.
 - It satisfies **criterion 6** where concentration makes constitutional process or remedies unusable in practice. This can occur through capture, coercive dependency, or usurpation of operative authority, even without overt force.
 
-The absence of overt deception or forcible act does **not** defeat anti-constitutional misconduct assignment where prohibited concentration produces the equivalent constitutional effect. Quantitative threshold-setting for concentration remains owned by **Chapter One §5.1.1** and is not relitigated here; this chapter evaluates the **conduct** that creates, maintains, or exploits concentration that has crossed the **§5.1** floor.
+The absence of overt deception or forcible act does **not** defeat anti-constitutional misconduct assignment where prohibited concentration produces the equivalent constitutional effect. Quantitative threshold-setting for concentration remains owned by **Chapter One §5.2** and is not relitigated here; this chapter evaluates the **conduct** that creates, maintains, or exploits concentration that has crossed the **§5.1** floor.
 
 ### 6.2 Rights-floor waivers and unconstitutional contract terms
 <details>

@@ -1318,9 +1318,9 @@ Principles: **Wellbeing, Safety, and Truth**. Preserve **Safety** and **Truth** 
 
 Articles: Apply with **Sentient Constitution Chapter Nine, Article XXIII** (*Conflict Resolution, Escalation, and Emergency Proportionality*); **Chapter Nine rights defaults (Articles V-XXV)** where degradation affects protected rights; and **Chapter Fourteen** incorporation discipline. This subsection is the local *Failure Integrity* meta-integrity obligation.
 
-**Constitutional anchor:** Apply this section in conjunction with **Sentient Constitution Chapter One** (non-negotiable constraints and conflict ordering), **Chapter Nine** rights protections, and **Chapter Fourteen** incorporation and failure-priority bridge; this section implements and does not narrow them.
+**Constitutional anchor:** Apply this section in conjunction with **Sentient Constitution Chapter One** (non-negotiable constraints and conflict ordering), **Sentient Constitution Chapter Nine** rights protections, and **Sentient Constitution Chapter Fourteen** incorporation and failure-priority bridge; this section implements and does not narrow them.
 
-**Definitions:** Apply with **Chapter Five** definitions for *Epistemic Integrity*, *Truth (Constitutional Constraint)*, *Safety and Non-Degradation Baseline*, and *Trust Degradation and Misleading Reliance*.
+**Definitions:** Apply with **Sentient Constitution Chapter Five** definitions for *Epistemic Integrity*, *Truth (Constitutional Constraint)*, *Safety and Non-Degradation Baseline*, and *Trust Degradation and Misleading Reliance*.
 
 **Canonical meaning:** This section states implementation-layer obligations for this domain and must be applied consistently with, without narrowing, the cited constitutional sources.
 
@@ -1342,7 +1342,7 @@ Where **full** compliance is **not** maintainable: **prioritize** **Safety** and
 
 **Preservation ordering (degraded conditions):** **Safety** → **Truth (Epistemic Integrity)** → **System Stability (Trust)** → **Functional Performance**.
 
-**Governance continuity under stress:** For **high-impact** systems, **[corpus_systems.md](corpus_systems.md), Protocol A** and **Chapter S3 — Critical System Stewardship** govern designated crisis authority, crisis communications, and periodic exercises. That work does **not** displace **Sentient Constitution Chapter Nine, Article XXIII** (*Conflict Resolution, Escalation, and Emergency Proportionality*), **PROT2**, [core_10-10_governance.md](core_10-10_governance.md) **Chapter Ten**, or related cross-companion requirements. Where those layers and **institutions** or **courts** govern the same facts, read **`corpus_joint_structure.md` CJS-2** and **CJS-3.2**.
+**Governance continuity under stress:** For **high-impact** systems, `corpus_systems.md` **Protocol A** and `corpus_systems.md` **Chapter S3 — Critical System Stewardship** govern designated crisis authority, crisis communications, and periodic exercises. That work does **not** displace **Sentient Constitution Chapter Nine, Article XXIII** (*Conflict Resolution, Escalation, and Emergency Proportionality*), **PROT2**, [core_10-10_governance.md](core_10-10_governance.md) **Chapter Ten**, or related cross-companion requirements. Where those layers and **institutions** or **courts** govern the same facts, read **`corpus_joint_structure.md` CJS-2** and **CJS-3.2**.
 
 **Layer B — Integrity implementation labels (PRIM9–PRIM15)**
 The following integrity implementation labels operationalize and test the Meta-Integrity constraints above.
@@ -1356,8 +1356,8 @@ Principles: **Truth and Epistemic Integrity** through accurate status, scope, un
 
 **Canonical meaning:** This section states implementation-layer obligations for this domain, applied consistently with cited constitutional sources and without narrowing them.
 
-**Sentient Constitution Chapter Nine, Article XIV**, **Article XV-A** where auditability or observable evidence is implicated, and **Chapter Five** (*Truth (Constitutional Constraint)*, *Epistemic Integrity*) govern informational integrity at the constitutional term layer.
-**Chapters Two through Four** govern burden, traceability, and verification where representations affect compliance.
+**Sentient Constitution Chapter Nine, Article XIV**, **Article XV-A** where auditability or observable evidence is implicated, and **Sentient Constitution Chapter Five** (*Truth (Constitutional Constraint)*, *Epistemic Integrity*) govern informational integrity at the constitutional term layer.
+**Sentient Constitution Chapters Two through Four** govern burden, traceability, and verification where representations affect compliance.
 
 **PRIM1** specifies **presentation-layer** requirements for status, risk, scope, and uncertainty representation. **It must** **not** substitute weaker tests than those sources.
 
@@ -1395,7 +1395,7 @@ Where uncertainty exists or may materially affect outcomes, disclose uncertainty
 - use formatting, ranking, or presentation to imply unwarranted certainty or authority
 - constrain model diversity, inputs, or analytical frameworks so as to suppress meaningful disagreement without disclosure and justification
 
-Such conduct violates **Article XIV** informational integrity, **Article XV-A** where auditability or observable evidence is implicated, and this implementation label.
+Such conduct violates **Sentient Constitution Chapter Nine, Article XIV** informational integrity, **Article XV-A** where auditability or observable evidence is implicated, and this implementation label.
 
 **High-impact systems:** Treat a system as high-impact when it has material impact on sentients, the environment, or the info-sphere. **Those** systems must support multi-model evaluation where technically and practically feasible.
 
@@ -1428,13 +1428,13 @@ Principles: **Agency and Accessibility** through understandable, usable, and cog
 
 **PRIM2** governs whether presentation is **understandable** and **usable**—including layering and cognitive load—so stakeholders can evaluate and act.
 
-**[corpus_systems.md](corpus_systems.md), Protocol B** (*Comprehensibility and Complexity Stewardship*) scales annex comprehensibility obligations with system and steward class.
+`corpus_systems.md` **Protocol B** (*Comprehensibility and Complexity Stewardship*) scales annex comprehensibility obligations with system and steward class.
 
-Where both apply, the **stricter** requirement governs (see Protocol B header).
+Where both apply, the **stricter** requirement governs (see `corpus_systems.md` **Protocol B** header).
 
 **PRIM2** aligns with **PRIM1** and **PRIM4**.
 
-**It must** **not** substitute weaker accessibility than **Chapters Two through Four** requires for verification accessibility, traceability, and observability. **That** rule applies where those requirements apply to the same presentation. Systems must present information, behavior, and structure without unreasonable cognitive burden.
+**It must** **not** substitute weaker accessibility than **Sentient Constitution Chapters Two through Four** requires for verification accessibility, traceability, and observability. **That** rule applies where those requirements apply to the same presentation. Systems must present information, behavior, and structure without unreasonable cognitive burden.
 
 Disclosure volume alone is insufficient: material must be meaningfully understandable, evaluable, and actionable.
 
@@ -1449,13 +1449,13 @@ Principles: **Truth and Contestability** through sufficient disclosure for infor
 
 **Canonical meaning:** This section states implementation-layer obligations for this domain, applied consistently with cited constitutional sources and without narrowing them.
 
-**Sentient Constitution Chapter Nine, Article XIV**, **Article XV-A** where auditability or observable evidence is implicated, and **Chapter Five** define info-sphere integrity and epistemic obligations at the constitutional term layer.
+**Sentient Constitution Chapter Nine, Article XIV**, **Article XV-A** where auditability or observable evidence is implicated, and **Sentient Constitution Chapter Five** define info-sphere integrity and epistemic obligations at the constitutional term layer.
 
-**Chapter Five** cites *Truth (Constitutional Constraint)*, *Epistemic Integrity*, and observability and verification entries where applicable.
+**Sentient Constitution Chapter Five** cites *Truth (Constitutional Constraint)*, *Epistemic Integrity*, and observability and verification entries where applicable.
 
 **PRIM4** specifies **presentation-layer** disclosure and transparency requirements scaled with **PROT1**.
 
-**It must** **not** substitute weaker tests than those sources (or **Chapters Two through Four** verification accessibility rules) where they apply.
+**It must** **not** substitute weaker tests than those sources (or **Sentient Constitution Chapters Two through Four** verification accessibility rules) where they apply.
 
 Cross-companion operational definitions for disclosure sufficiency, verification-enabling transparency, private-state boundary handling, and observability attribution are maintained in `corpus_joint_structure.md` **CJS-3.17** (*Cross-companion disclosure sufficiency and observability terms*). Apply that subsection as required read-with for this **PRIM4** implementation scope.
 
@@ -1472,11 +1472,11 @@ Principles: **Safety and Accountability** through explicit dependency mapping, c
 
 **Canonical meaning:** This section states implementation-layer obligations for this domain, applied consistently with cited constitutional sources and without narrowing them.
 
-**PRIM5** is the **architecture-layer** home for dependency awareness and risk integrity. **It must** **not** substitute weaker tests than **Article XV-A** or **Chapters Two through Four** where dependency disclosures affect informational or compliance outcomes. No system may depend on what it refuses to reveal, nor impose dependencies it does not account for.
+**PRIM5** is the **architecture-layer** home for dependency awareness and risk integrity. **It must** **not** substitute weaker tests than **Sentient Constitution Chapter Nine, Article XV-A** or **Sentient Constitution Chapters Two through Four** where dependency disclosures affect informational or compliance outcomes. No system may depend on what it refuses to reveal, nor impose dependencies it does not account for.
 
-**Chapter Five** supplies the definitional standards for dependency and impact evaluation, including *Dependency*, *Risk*, the materiality-family entries, *System*, *System Boundary Integrity*, and *Cascading Failure* where applicable. **[corpus_systems.md](corpus_systems.md), Protocol A** operationalizes lifecycle and environment boundaries that create or change dependencies.
+**Sentient Constitution Chapter Five** supplies the definitional standards for dependency and impact evaluation, including *Dependency*, *Risk*, the materiality-family entries, *System*, *System Boundary Integrity*, and *Cascading Failure* where applicable. `corpus_systems.md` **Protocol A** operationalizes lifecycle and environment boundaries that create or change dependencies.
 
-Read this section together with **PRIM4**, **PRIM7**, **PRIM9**, **PRIM12**, **PRIM15**, **PROT1**, **PROT4**, and **Protocol B** where disclosure, mapping, retention lifecycle, classification alignment, or comprehensibility obligations apply to the same facts. For overlapping institution-system supervised scope, also apply **`corpus_joint_structure.md` CJS-3.5**.
+Read this section together with **PRIM4**, **PRIM7**, **PRIM9**, **PRIM12**, **PRIM15**, **PROT1**, **PROT4**, and `corpus_systems.md` **Protocol B** where disclosure, mapping, retention lifecycle, classification alignment, or comprehensibility obligations apply to the same facts. For overlapping institution-system supervised scope, also apply **`corpus_joint_structure.md` CJS-3.5**.
 
 Cross-companion operational definitions for dependency disclosure, criticality classification, substitutability and exit constraints, anti-externalization controls, monitoring and map obligations, and proportional scaling are maintained in `corpus_joint_structure.md` **CJS-3.18** (*Cross-companion dependency integrity and disclosure terms*). Apply that subsection as required read-with for this **PRIM5** implementation scope.
 
@@ -1487,9 +1487,9 @@ Principles: **Safety and Truth** through bounded degradation, honest signaling, 
 
 **Canonical meaning:** This section states implementation-layer obligations for this domain, applied consistently with cited constitutional sources and without narrowing them.
 
-**Sentient Constitution Chapter Fourteen** incorporation discipline and **Chapter One** govern the priority ordering for degraded conditions. **Chapter Five** (*Truth (Constitutional Constraint)*; *Epistemic Integrity*), **Chapter Nine, Article XIV**, and **Article XV-A** where auditability or observable evidence is implicated apply where degraded or misleading outputs implicate informational integrity. Local *Failure Integrity* implementation is in the meta-integrity obligation above.
+**Sentient Constitution Chapter Fourteen** incorporation discipline and **Sentient Constitution Chapter One** govern the priority ordering for degraded conditions. **Sentient Constitution Chapter Five** (*Truth (Constitutional Constraint)*; *Epistemic Integrity*), **Sentient Constitution Chapter Nine**, **Article XIV**, and **Article XV-A** where auditability or observable evidence is implicated apply where degraded or misleading outputs implicate informational integrity. Local *Failure Integrity* implementation is in the meta-integrity obligation above.
 
-Read this section together with **PRIM1**, **PRIM4**, **PRIM5**, **PRIM12**, **PRIM15**, **PROT1**, **Protocol A**, **Article XV-A** where degradation affects presentation integrity or auditability, and **Article XVI-A** where degradation affects lifecycle discipline, dependency handling, or governance response.
+Read this section together with **PRIM1**, **PRIM4**, **PRIM5**, **PRIM12**, **PRIM15**, **PROT1**, `corpus_systems.md` **Protocol A**, **Sentient Constitution Chapter Nine, Article XV-A** where degradation affects presentation integrity or auditability, and **Sentient Constitution Chapter Nine, Article XVI-A** where degradation affects lifecycle discipline, dependency handling, or governance response.
 
 Cross-companion operational definitions for graceful degradation, failure-mode integrity, signaling discipline, bounded operation, fail-soft limits, transition escalation, cross-boundary propagation, and proportional scaling are maintained in `corpus_joint_structure.md` **CJS-3.19** (*Cross-companion graceful degradation and failure-mode integrity terms*). Apply that subsection as required read-with for this **PRIM6** implementation scope.
 
@@ -1500,9 +1500,9 @@ Principles: **Agency and Anti-Lock-In** through usable portability, reciprocal i
 
 **Canonical meaning:** This section states implementation-layer obligations for this domain, applied consistently with cited constitutional sources and without narrowing them.
 
-**Sentient Constitution Chapter Nine, Article XIX** (*Interoperability, Portability, and Exit Integrity*) and **Chapter Five** ([§3.19](core_05-05_definitions_c_dependent_clusters.md#governance-architecture-oversight-decentralization-and-concentration-cluster) *Governance Architecture, Oversight, Dependency…* — *Systemic Lock-In*, *Dependency*, and related exit-path and market-structure analysis where applicable; [§3.23](core_05-05_definitions_c_dependent_clusters.md#movement-refuge-non-statelessness-and-exit-integrity-cluster) *Movement, Refuge, Non-Statelessness, and Exit Integrity* where mobility, refuge, or exit-integrity predicates apply jointly) state the foundational rights and foreclosure conditions. **PRIM7** is the **architecture-layer** home for operational interoperability, usable portability, integration boundaries, exit-feasibility transparency, and transition continuity.
+**Sentient Constitution Chapter Nine, Article XIX** (*Interoperability, Portability, and Exit Integrity*) and **Sentient Constitution Chapter Five** ([§3.19](core_05-05_definitions_c_dependent_clusters.md#governance-architecture-oversight-decentralization-and-concentration-cluster) *Governance Architecture, Oversight, Dependency…* — *Systemic Lock-In*, *Dependency*, and related exit-path and market-structure analysis where applicable; [§3.23](core_05-05_definitions_c_dependent_clusters.md#movement-refuge-non-statelessness-and-exit-integrity-cluster) *Movement, Refuge, Non-Statelessness, and Exit Integrity* where mobility, refuge, or exit-integrity predicates apply jointly) state the foundational rights and foreclosure conditions. **PRIM7** is the **architecture-layer** home for operational interoperability, usable portability, integration boundaries, exit-feasibility transparency, and transition continuity.
 
-**PROT4** governs justified limits on integration or export. Read this section together with **PRIM5** for dependency mapping and disclosure, and with **PRIM4**, **Article XV-A**, and **[corpus_systems.md](corpus_systems.md), Chapter S1 — Information Types and Handling** (Types **I** and **H**) where portability, attribution, or handling constraints apply.
+**PROT4** governs justified limits on integration or export. Read this section together with **PRIM5** for dependency mapping and disclosure, and with **PRIM4**, **Sentient Constitution Chapter Nine, Article XV-A**, and `corpus_systems.md` **Chapter S1 — Information Types and Handling** (Types **I** and **H**) where portability, attribution, or handling constraints apply.
 
 Cross-companion operational definitions for anti-lock-in controls, portability, interoperability, open-interface treatment, innovation-reward boundary handling, continuity-preserving exit, and proportional scaling are maintained in `corpus_joint_structure.md` **CJS-3.20** (*Cross-companion interoperability, portability, and exit-integrity terms*). Apply that subsection as required read-with for this **PRIM7** implementation scope.
 
@@ -1515,9 +1515,9 @@ Principles: **Safety, Proportionality, and Accountability** through timely, audi
 
 `PROT6` states the implementation-layer minimum for procedural integrity and adjudication-related governance role. Detailed court, institution, and cross-companion implementation remains with the canonical owner files.
 
-**Sentient Constitution Chapter Nine** (**Articles IX, XII, and XIII**), **Chapter One**, **Chapter Five** (*Harm*, *Risk*, *Accountability*, *Oversight*, *Reversibility*, related entries), and **Chapter Ten** inform intervention where audit, standing/challenge, conflict or emergency proportionality, and misuse controls are implicated.
+**Sentient Constitution Chapter Nine** (**Articles IX, XII, and XIII**), **Sentient Constitution Chapter One**, **Sentient Constitution Chapter Five** (*Harm*, *Risk*, *Accountability*, *Oversight*, *Reversibility*, related entries), and **Sentient Constitution Chapter Ten** inform intervention where audit, standing/challenge, conflict or emergency proportionality, and misuse controls are implicated.
 
-**PRIM6**, **PRIM14**, **PRIM9**, **PROT1**, **PROT4**, **PROT5**, Chapter Ten decision-resolution requirements, and **PRIM15** also intersect.
+**PRIM6**, **PRIM14**, **PRIM9**, **PROT1**, **PROT4**, **PROT5**, **Sentient Constitution Chapter Ten** decision-resolution requirements, and **PRIM15** also intersect.
 
 **PRIM8** is the **architecture-layer** home for **technical** intervention and override capacity. **PROT2** states the **governance-layer** authorization and procedural requirements. Where both apply, neither may be satisfied in lieu of the other.
 
@@ -1661,7 +1661,7 @@ Principles: **Reflexive Accountability and Truth** through parity, auditability,
 
 **Canonical meaning:** This section states implementation-layer obligations for this domain, applied consistently with cited constitutional sources and without narrowing them.
 
-**PRIM4**, **PRIM9**, **PRIM10**, **PRIM11**, **PROT4**, **PROT5**, **PROT1**, **PRIM15**, **Sentient Constitution Chapters Two through Four**, **Chapter Six** (*Enforcement Realism Anchors*), and **Chapter Nine** (**Articles I, IX, XII**) frame reflexive transparency and accountability for governance itself.
+**PRIM4**, **PRIM9**, **PRIM10**, **PRIM11**, **PROT4**, **PROT5**, **PROT1**, **PRIM15**, **Sentient Constitution Chapters Two through Four**, **Sentient Constitution Chapter Six** (*Enforcement Realism Anchors*), and **Sentient Constitution Chapter Nine** (**Articles I, IX, XII**) frame reflexive transparency and accountability for governance itself.
 
 Cross-companion operational definitions for reflexive accountability parity, transparency/audit verification integrity, enforcement-capacity realism, pluralistic validation safeguards, and anti-corruption auditability controls are maintained in `corpus_joint_structure.md` **CJS-3.30** (*Cross-companion reflexive transparency and accountability terms*). Apply that subsection as required read-with for this **PROT3** implementation scope.
 

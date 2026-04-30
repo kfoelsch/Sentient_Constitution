@@ -786,7 +786,7 @@ Unless this Constitution expressly provides otherwise, **sentient** and **sentie
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [5.1 Productive Capacity (Instrumental Good)](core_00-01_principles.md#51-productive-capacity-instrumental-good); [5.2.1 Distributed Understanding](core_00-01_principles.md#521-distributed-understanding) (attribution / traceability read-with).
+- Downstream: Principles: [5.1 Productive Capacity (Instrumental Good)](core_00-01_principles.md#51-productive-capacity-instrumental-good); [5.3.1 Distributed Understanding](core_00-01_principles.md#531-distributed-understanding) (attribution / traceability read-with).
 - Read with: [Training-Data Use](core_05-05_definitions_c_dependent_clusters.md#training-data-use-constitutional), [Anti-Displacement Floor](#anti-displacement-floor-constitutional), [Fair Compensation](#fair-compensation-constitutional), [Good Faith](core_05-05_definitions_a_independent.md#good-faith), [Consent](#consent-constitutional), [Truth (Constitutional Constraint)](core_05-05_definitions_c_dependent_clusters.md#truth-constitutional-constraint), and [Sentience Non-Exclusion](core_05-05_definitions_b_semi_independent.md#sentience-non-exclusion).
 
 </details>
@@ -868,7 +868,7 @@ Unless this Constitution expressly provides otherwise, **sentient** and **sentie
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [5.1 Productive Capacity (Instrumental Good)](core_00-01_principles.md#51-productive-capacity-instrumental-good); [5.1.1 Concentration Threshold Mechanism](core_00-01_principles.md#511-concentration-threshold-mechanism-adopter-tunable) (displacement at population scale read-with §5.1 stack).
+- Downstream: Principles: [5.1 Productive Capacity (Instrumental Good)](core_00-01_principles.md#51-productive-capacity-instrumental-good); [5.2 Concentration Threshold Mechanism](core_00-01_principles.md#52-concentration-threshold-mechanism-adopter-tunable) (displacement at population scale read-with §5.1 stack).
 - Cluster component: [Bodily-Maintenance Access, Safe Conditions, Tenure Security, Environmental Preconditions, Cultural Continuity, Rest, and Anti-Displacement Floor](core_05-05_definitions_c_dependent_clusters.md#safe-conditions-tenure-security-and-environmental-preconditions-cluster) where deployment-scale displacement materially affects livelihood continuity, safe participation conditions, rest / recuperation, tenure, care access, or community continuity.
 - Read with: [Fair Compensation](#fair-compensation-constitutional), [Collective Organization](#collective-organization-constitutional), [Creative Work Attribution](#creative-work-attribution-constitutional), [Training-Data Use](core_05-05_definitions_c_dependent_clusters.md#training-data-use-constitutional), [Productive Capacity](#productive-capacity-constitutional), [Avoidable Burden](core_05-05_definitions_a_independent.md#avoidable-burden), [Proxy Divergence](#proxy-divergence), and [Sentience Non-Exclusion](core_05-05_definitions_b_semi_independent.md#sentience-non-exclusion).
 
@@ -885,7 +885,7 @@ Unless this Constitution expressly provides otherwise, **sentient** and **sentie
   - measure displacement against pre-deployment baselines for compensation, attribution, and livelihood sustainability across the affected population;
   - apply [Proxy Divergence](#proxy-divergence) and [Avoidable Burden](core_05-05_definitions_a_independent.md#avoidable-burden); aggregate-productivity, efficiency, innovation, and [Productive Capacity](#productive-capacity-constitutional) framings do not satisfy the floor where underlying sentient-labor outcomes degrade;
   - cover [Adversarial, Scaled, and Exploited Conditions](core_05-05_definitions_a_independent.md#adversarial-scaled-and-exploited-conditions), including gradual ratcheting, platform-consolidation pressure, and cross-domain substitution;
-  - where deployment shows concentration characteristics, interact explicitly with the [Chapter One §5.1](core_00-01_principles.md#51-productive-capacity-instrumental-good) non-concentration principle and the [§5.1.1](core_00-01_principles.md#511-concentration-threshold-mechanism-adopter-tunable) threshold mechanism.
+  - where deployment shows concentration characteristics, interact explicitly with the [Chapter One §5.1](core_00-01_principles.md#51-productive-capacity-instrumental-good) non-concentration principle and the [§5.2](core_00-01_principles.md#52-concentration-threshold-mechanism-adopter-tunable) threshold mechanism.
   <a id="anti-displacement-floor-constitutional-c"></a>
 - C: Non-compliant with the floor:
   - "aggregate productivity" or "aggregate welfare" framing used to erase displacement at population scale;
@@ -981,7 +981,7 @@ Unless this Constitution expressly provides otherwise, **sentient** and **sentie
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [5.1 Productive Capacity (Instrumental Good)](core_00-01_principles.md#51-productive-capacity-instrumental-good); [5.1.1 Concentration Threshold Mechanism (Adopter-Tunable)](core_00-01_principles.md#511-concentration-threshold-mechanism-adopter-tunable) (operative mechanism cite in [Concentration Threshold](#concentration-threshold-constitutional) **O** line).
+- Downstream: Principles: [5.1 Productive Capacity (Instrumental Good)](core_00-01_principles.md#51-productive-capacity-instrumental-good); [5.2 Concentration Threshold Mechanism (Adopter-Tunable)](core_00-01_principles.md#52-concentration-threshold-mechanism-adopter-tunable) (operative mechanism cite in [Concentration Threshold](#concentration-threshold-constitutional) **O** line).
 - Cluster component: [Governance Architecture, Oversight, Dependency, Decentralization, Concentration, Market Structure, and Exit-Path Integrity](core_05-05_definitions_c_dependent_clusters.md#governance-architecture-oversight-decentralization-and-concentration-cluster).
 - Read with: [Productive Capacity](#productive-capacity-constitutional), [Constitutional Efficiency](core_05-05_definitions_a_independent.md#constitutional-efficiency), [Proxy Divergence](#proxy-divergence), [System Boundary Integrity](core_05-05_definitions_a_independent.md#system-boundary-integrity), [Adversarial, Scaled, and Exploited Conditions](core_05-05_definitions_a_independent.md#adversarial-scaled-and-exploited-conditions), [Essential-Environment Non-Commodification](core_05-05_definitions_a_independent.md#essential-environment-non-commodification-constitutional), and [Sentience Non-Exclusion](core_05-05_definitions_b_semi_independent.md#sentience-non-exclusion).
 
@@ -989,13 +989,13 @@ Unless this Constitution expressly provides otherwise, **sentient** and **sentie
 
 <br>
 
-- O: The adopter-tunable operational trigger for when material, jurisdictional, capability, platform, or information-sphere concentration has reached a level that requires heightened review, intervention, or structural remedy. That threshold sits under the [Chapter One §5.1](core_00-01_principles.md#51-productive-capacity-instrumental-good) non-concentration rule. Owner: [Chapter One §5.1.1](core_00-01_principles.md#511-concentration-threshold-mechanism-adopter-tunable) (principle-layer mechanism). Rights-layer pointer: [Article IV](core_09-09_rights_part_a.md#article-iv-resource-allocation-dependencies-and-ecosystem-funding). Thresholds are adopter-tunable within the Chapter One §5.1 floor against concentration that predictably degrades wellbeing, agency, dignity, or ecological integrity. The concept is substrate- and jurisdiction-agnostic. Material, jurisdictional, capability, platform, and information-sphere domains are each in scope.
+- O: The adopter-tunable operational trigger for when material, jurisdictional, capability, platform, or information-sphere concentration has reached a level that requires heightened review, intervention, or structural remedy. That threshold sits under the [Chapter One §5.1](core_00-01_principles.md#51-productive-capacity-instrumental-good) non-concentration rule. Owner: [Chapter One §5.2](core_00-01_principles.md#52-concentration-threshold-mechanism-adopter-tunable) (principle-layer mechanism). Rights-layer pointer: [Article IV](core_09-09_rights_part_a.md#article-iv-resource-allocation-dependencies-and-ecosystem-funding). Thresholds are adopter-tunable within the Chapter One §5.1 floor against concentration that predictably degrades wellbeing, agency, dignity, or ecological integrity. The concept is substrate- and jurisdiction-agnostic. Material, jurisdictional, capability, platform, and information-sphere domains are each in scope.
 <a id="concentration-threshold-constitutional-e"></a>
 - E: Reach substantive concentration, not formal entity count. In scope: federated structures, shell entities, interlocking directorates, cross-platform integration, information-sphere control, [Article XII-E](core_09-09_rights_part_c.md#article-xii-e-autonomy-scaling-and-info-sphere-dependency-stewardship) autonomy-stewardship capture, and comparable indirection that produces concentrated effect. Apply [Proxy Divergence](#proxy-divergence) and [Proxy Metric Gaming and Indicator-Reality Gaps](#proxy-metric-gaming-and-indicator-reality-gaps) when the regime relies on proxies that foreseeably understate concentration. Consider [Adversarial, Scaled, and Exploited Conditions](core_05-05_definitions_a_independent.md#adversarial-scaled-and-exploited-conditions). Examples include aggregation under federated structures used to evade a threshold, and dynamic restructuring that preserves effective concentration while clearing nominal tests.
 
   When concentration implicates [Article I-D](core_09-09_rights_part_a.md#article-i-d-existential-risk-and-recovery-capacity), [Article XII-A](core_09-09_rights_part_c.md#article-xii-a-reliability-and-trustworthiness-baseline), or [Article XIII-A](core_09-09_rights_part_c.md#article-xiii-a-security-intelligence-and-covert-power-limits) in a material way, those articles' heightened standards apply regardless of ordinary-threshold framing.
 <a id="concentration-threshold-constitutional-c"></a>
-- C: Non-compliant under [Chapter One §5.1.1](core_00-01_principles.md#511-concentration-threshold-mechanism-adopter-tunable) anti-nullification discipline:
+- C: Non-compliant under [Chapter One §5.2](core_00-01_principles.md#52-concentration-threshold-mechanism-adopter-tunable) anti-nullification discipline:
   - thresholds set at levels that foreseeably never bind;
   - threshold regimes paired with unused or unusable enforcement instruments;
   - threshold-regime designs that produce no actual review or intervention;
@@ -1014,7 +1014,7 @@ Unless this Constitution expressly provides otherwise, **sentient** and **sentie
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [6.1.1 Proportionality](core_00-01_principles.md#611-proportionality) (heightened-risk index: **Systemic Lock-In**, **Reversibility**, **Dependency**); [5.2.4 Openness Aspiration](core_00-01_principles.md#524-openness-aspiration) (anti-lock-in aspiration read with interoperability / exit artifacts).
+- Downstream: Principles: [6.1.1 Proportionality](core_00-01_principles.md#611-proportionality) (heightened-risk index: **Systemic Lock-In**, **Reversibility**, **Dependency**); [5.3.4 Openness Aspiration](core_00-01_principles.md#534-openness-aspiration) (anti-lock-in aspiration read with interoperability / exit artifacts).
 - Cluster component: [Chapter Five §3.19 *Governance Architecture, Oversight, Dependency, Decentralization, Concentration, Market Structure, and Exit-Path Integrity*](core_05-05_definitions_c_dependent_clusters.md#governance-architecture-oversight-decentralization-and-concentration-cluster)
 - Read with: [Dependency](core_05-05_definitions_a_independent.md#dependency), [Material Impact](core_05-05_definitions_b_semi_independent.md#material-impact), [Meaningful Agency](#meaningful-agency), [Consent](#consent-constitutional), [Contestability](#contestability), and [Article XIX](core_09-09_rights_part_c.md#article-xix-interoperability-portability-and-exit-integrity) where incorporated implementation assigns exit-integrity duties.
 
@@ -1184,7 +1184,7 @@ Unless this Constitution expressly provides otherwise, **sentient** and **sentie
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [7.1 Required Evaluation Factors](core_00-01_principles.md#71-required-evaluation-factors); [§5.2 Distributed Understanding and Stewardship — §5.2.1 Distributed understanding](core_00-01_principles.md#521-distributed-understanding) (understanding scales with **Materiality**); [6.1.1 Proportionality](core_00-01_principles.md#611-proportionality) (material impact in the tradeoff index).
+- Downstream: Principles: [7.1 Required Evaluation Factors](core_00-01_principles.md#71-required-evaluation-factors); [§5.3 Distributed Understanding and Stewardship — §5.3.1 Distributed understanding](core_00-01_principles.md#531-distributed-understanding) (understanding scales with **Materiality**); [6.1.1 Proportionality](core_00-01_principles.md#611-proportionality) (material impact in the tradeoff index).
 - Cluster component: [Chapter Five §3.22 *Material Impact, Materiality Determination, Classification-Scaled Governance, Oversight, and Capability Requirement*](core_05-05_definitions_c_dependent_clusters.md#materiality-classification-oversight-and-capability-cluster).
 - Read with: [Harm](core_05-05_definitions_c_dependent_clusters.md#harm), [Risk](core_05-05_definitions_a_independent.md#risk), [Systemic Materiality](core_05-05_definitions_a_independent.md#systemic-materiality), [Dependency](core_05-05_definitions_a_independent.md#dependency), [Classification-Scaled Governance](core_05-05_definitions_a_independent.md#classification-scaled-governance), [Oversight](#oversight-constitutional), and [Transparency](core_05-05_definitions_c_dependent_clusters.md#transparency).
 
@@ -1231,7 +1231,7 @@ Unless this Constitution expressly provides otherwise, **sentient** and **sentie
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: Chapter One surfaces this definition across **Safety** (**§3.1**), **Truth** (**§3.2**), **Trust** (**§6.2**), **§5.2** stewardship and openness passages, **§7.1**, **§7.2**, and **§6.4.2** where **Materiality** appears in D/E/C widgets — see [7.1 Required Evaluation Factors](core_00-01_principles.md#71-required-evaluation-factors) as the principal systems-evaluation home.
+- Downstream: Principles: Chapter One surfaces this definition across **Safety** (**§3.1**), **Truth** (**§3.2**), **Trust** (**§6.2**), **§5.3** stewardship and openness passages, **§7.1**, **§7.2**, and **§6.4.2** where **Materiality** appears in D/E/C widgets — see [7.1 Required Evaluation Factors](core_00-01_principles.md#71-required-evaluation-factors) as the principal systems-evaluation home.
 - Cluster component: [Chapter Five §3.22 *Material Impact, Materiality Determination, Classification-Scaled Governance, Oversight, and Capability Requirement*](core_05-05_definitions_c_dependent_clusters.md#materiality-classification-oversight-and-capability-cluster).
 - Read with: [Material Impact](#material-impact), [Material Risk](#material-risk), [Systemic Materiality](core_05-05_definitions_a_independent.md#systemic-materiality), and [Auditability](core_05-05_definitions_c_dependent_clusters.md#auditability).
 

@@ -628,7 +628,7 @@ Those requirements protect shared infrastructure and the systems that depend on 
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: Principles: Chapter One [2. Foundational Objective: Wellbeing](core_00-01_principles.md#2-foundational-objective-wellbeing), [6.1 Core Tradeoff Principles](core_00-01_principles.md#61-core-tradeoff-principles), and [7.1 Required Evaluation Factors](core_00-01_principles.md#71-required-evaluation-factors).
-- Read with: [Chapter Five §3.19 *Governance Architecture, Oversight, Dependency, Decentralization, Concentration, Market Structure, and Exit-Path Integrity*](core_05-05_definitions_c_dependent_clusters.md#governance-architecture-oversight-decentralization-and-concentration-cluster) (joint invocation where concentration, oversight, dependency, governing-authority structure, or incentive routing intersect **§5.1** / **§5.1.1** and the *Concentration-threshold interaction* discipline in the operative text below).
+- Read with: [Chapter Five §3.19 *Governance Architecture, Oversight, Dependency, Decentralization, Concentration, Market Structure, and Exit-Path Integrity*](core_05-05_definitions_c_dependent_clusters.md#governance-architecture-oversight-decentralization-and-concentration-cluster) (joint invocation where concentration, oversight, dependency, governing-authority structure, or incentive routing intersect **§5.1** / **§5.2** and the *Concentration-threshold interaction* discipline in the operative text below).
 
 </details>
 
@@ -657,7 +657,7 @@ Those requirements protect shared infrastructure and the systems that depend on 
   Systems must not persistently extract from shared infrastructure or foundational dependencies without corresponding support. Persistent imbalances that materially threaten constitutional alignment are subject to audit, challenge, and corrective review under **Articles IX, XII, XIV, and XVII**.
 - **Concentration-threshold interaction:** Resource-allocation arrangements that produce or preserve concentration of wealth, power, control, or opportunity in ways that predictably degrade wellbeing, agency, dignity, or ecological integrity for other sentients engage:
   - the **Chapter One §5.1 non-concentration floor**;
-  - the **[§5.1.1 Concentration Threshold Mechanism](core_00-01_principles.md#511-concentration-threshold-mechanism-adopter-tunable)** discipline.
+  - the **[§5.2 Concentration Threshold Mechanism](core_00-01_principles.md#52-concentration-threshold-mechanism-adopter-tunable)** discipline.
   
   Adopter-tunable operational thresholds are permitted within the floor. Threshold regimes set to nullify the floor are non-compliant. Examples of nullifying regimes:
   - thresholds that foreseeably never bind;
