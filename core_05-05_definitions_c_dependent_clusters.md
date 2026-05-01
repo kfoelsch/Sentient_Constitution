@@ -2,7 +2,7 @@
 
 This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one instrument. It contains **Chapter Five, Part C** — Dependent clusters (Clustered Definitions); chapter numbering and cross-references match the integrated instrument. Reading order, the binding/support split, and corpus edition metadata are maintained in [README.md](README.md).
 
-Upstream constitutional direction for this file's definitions begins in [core_00-01_principles.md](core_00-01_principles.md), the definition-mechanics pipeline in [core_02-04_definition_mechanics.md](core_02-04_definition_mechanics.md), **Chapter Five, Part A** in [core_05-05_definitions_a_independent.md](core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions), and **Chapter Five, Part B** in [core_05-05_definitions_b_semi_independent.md](core_05-05_definitions_b_semi_independent.md#section-2-semi-independent-definitions).
+Upstream constitutional direction for this file's definitions begins in [core_00-01_principles.md](core_00-01_principles.md), the definition-mechanics pipeline in [core_02-04_definition_mechanics.md](core_02-04_definition_mechanics.md), **Chapter Five, Part A** in [core_05-05_definitions_a_independent.md](core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions), and **Chapter Five, Part B** in [core_05-05_definitions_b_semi_independent.md](core_05-05_definitions_b_semi_independent.md#section-2-semi-independent-definitions). **Plain-language reading help** for Chapter Five is in Part A’s opening reader box; see also [AUDIENCE.md](AUDIENCE.md).
 
 ---
 
@@ -426,7 +426,7 @@ This cluster is the joint-invocation home for creative-work training-data use, a
 
 #### Training-Data Use
 
-- O: Use of sentient-produced creative, expressive, personal, experiential, or otherwise identifiable work as training data for generative, analytical, or comparable systems, read with **[Article VIII-D](core_09-09_rights_part_b.md#article-viii-d-creative-work-training-data-use-and-anti-displacement)** and this §3.13 cluster. Consent, experiential-data, privacy, and attribution duties apply jointly; defending use on non-personal-data grounds alone does not satisfy this entry where work is sentient-produced and materially identifiable.
+- O: Use of sentient-produced creative, expressive, personal, experiential, or otherwise identifiable work as training data for generative, analytical, or comparable systems. Owner floors: **[Article VIII-D](core_09-09_rights_part_b.md#article-viii-d-creative-work-training-data-use-and-anti-displacement)** and, where labor-and-economic participation is materially implicated, **[Article III-D](core_09-09_rights_part_a.md#article-iii-d-labor-and-economic-floor)**. Read with this §3.13 cluster. Consent, experiential-data, privacy, and attribution duties apply jointly; defending use on non-personal-data grounds alone does not satisfy this entry where work is sentient-produced and materially identifiable.
 <a id="training-data-use-constitutional-e"></a>
 - E: Evaluate scope, purpose, duration, downstream reuse, revocation, aggregation risk, and re-identification under [Consent](core_05-05_definitions_b_semi_independent.md#consent-constitutional), **[Article VIII-B](core_09-09_rights_part_b.md#article-viii-b-experiential-and-derived-data-rights)**, [Privacy (Informational)](core_05-05_definitions_b_semi_independent.md#privacy-informational), and [Creative Work Attribution](core_05-05_definitions_b_semi_independent.md#creative-work-attribution-constitutional).
 <a id="training-data-use-constitutional-c"></a>
@@ -1014,7 +1014,7 @@ This cluster is the joint-invocation home for self-determination, meaningful age
 
 #### Educational Agency
 
-- O: Capability-building, lifelong-learning, and contestable education autonomy under **[Article VI: Right to Sentient-Centered Education](core_09-09_rights_part_b.md#article-vi-right-to-sentient-centered-education)**, **[Article III-B: Equal Educational Access](core_09-09_rights_part_a.md#article-iii-b-equal-educational-access)**, and this §3.32 cluster; includes practical access sufficient to develop and exercise constitution-relevant capabilities, not credential symbolism alone.
+- O: Capability-building, lifelong-learning, and contestable education autonomy. Owner floors: **[Article VI: Right to Sentient-Centered Education](core_09-09_rights_part_b.md#article-vi-right-to-sentient-centered-education)** and **[Article III-B: Equal Educational Access](core_09-09_rights_part_a.md#article-iii-b-equal-educational-access)**. Read with this §3.32 cluster. The floor includes practical access sufficient to develop and exercise constitution-relevant capabilities, not credential symbolism alone.
 <a id="educational-agency-e"></a>
 - E: Evaluate access, lock-in, assessment opacity, and displacement of learning pathways against [Meaningful Agency](core_05-05_definitions_b_semi_independent.md#meaningful-agency), [Systemic Lock-In](core_05-05_definitions_b_semi_independent.md#systemic-lock-in), [Contestability](core_05-05_definitions_b_semi_independent.md#contestability), and **Article VI-B** contestability expectations.
 <a id="educational-agency-c"></a>

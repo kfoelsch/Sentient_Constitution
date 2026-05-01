@@ -1,6 +1,6 @@
 # TODO
 
-**2026-05-01:** Full active backlog text before this slim pass: [archive/TODO_ARCHIVED_2026-05-01.md](archive/TODO_ARCHIVED_2026-05-01.md). Earlier: [archive/TODO_ARCHIVED_2026-04-30.md](archive/TODO_ARCHIVED_2026-04-30.md), [archive/TODO_SNAPSHOT_2026-04-30.md](archive/TODO_SNAPSHOT_2026-04-30.md), [archive/TODO_SNAPSHOT_2026-04-30_POST_COMMIT.md](archive/TODO_SNAPSHOT_2026-04-30_POST_COMMIT.md).
+**2026-04-30:** Full active backlog text before slim pass: [archive/TODO_ARCHIVED_2026-04-30.md](archive/TODO_ARCHIVED_2026-04-30.md). Earlier snapshots remain under [archive/TODO_SNAPSHOT_2026-04-30.md](archive/TODO_SNAPSHOT_2026-04-30.md) and [archive/TODO_SNAPSHOT_2026-04-30_POST_COMMIT.md](archive/TODO_SNAPSHOT_2026-04-30_POST_COMMIT.md).
 
 ## Editor Checklist (Pre-Review / Pre-Merge)
 
@@ -33,7 +33,13 @@ Retired compatibility wrapper names such as `core_constitution.md`, `core_defini
 
 - [x] **User acceptance gate (waived for GitHub publish prep, 2026-04-30):** The grep-per-theme companion dedup sweep remains valuable post-release editorial work; it is **not** blocking the public GitHub corpus cut for edition **`SC-Corpus-2026.04.32`**. Re-open by unchecking this item when you resume theme greps across the four companion files.
 
-  Continuation narrative (addenda 9–10, suggested acceptance checks, and pointers) lives in [archive/TODO_ARCHIVED_2026-05-01.md](archive/TODO_ARCHIVED_2026-05-01.md) and [archive/TODO_ARCHIVED_2026-04-30.md](archive/TODO_ARCHIVED_2026-04-30.md).
+  Narrative closure notes through the latest companion-corpus continuation (commit `1819cbc` and prior `ad3f704` thread) live in [archive/TODO_ARCHIVED_2026-04-30.md](archive/TODO_ARCHIVED_2026-04-30.md) and [MEMLOG.md](MEMLOG.md).
+
+  **2026-04-30 continuation addendum 9:** Normalized remaining bare constitutional chapter references where companion prose identified owners (**Chapter Nine**/**Five**/**One**/**Ten**/**Six** shorthand; **Chapter S2** classification routing; forum opening bullet) across `corpus_systems.md`, `corpus_institutions.md`, `corpus_forum.md`, and `corpus_joint_structure.md` (**PRIM6**, **PRIM7**, **PRIM8** constitutional-anchor lines). Ran non-regression checks only: `make reference-audit`, `make corpus-markdown-audit`, `make lexical-vocabulary-audit`.
+
+  **2026-04-30 continuation addendum 10:** Tightened `corpus_joint_structure.md` **PRIM6**/**PRIM7** read-with lines so **Article XV-A**, **Article XVI-A**, and **Chapter S1** use explicit owner routing (`corpus_systems.md` **Chapter S1**; **Sentient Constitution Chapter Nine** article pointers). Normalized **PROT3** reflexivity stack clause so **Chapter Six**/**Chapter Nine** are owner-explicit. Corrected `corpus_systems.md` **Protocol C** cross-reference that labeled *Enforcement Realism Anchors* as **Sentient Constitution Chapter Four** — authoritative section is **Chapter Six** (`core_06-06_standing_integration.md`). Ran non-regression checks only: `make reference-audit`, `make corpus-markdown-audit`, `make lexical-vocabulary-audit`.
+
+  **Suggested acceptance check (when resumed):** run targeted theme greps across `corpus_joint_structure.md`, `corpus_systems.md`, `corpus_institutions.md`, and `corpus_forum.md`; convert duplicative companion prose to pointers where it repeats Chapter Five definitions or Chapter Nine rights without adding implementation detail.
 
 ### Deferred — P1 Regression and Evidence
 
@@ -68,7 +74,6 @@ For future substantive cleanup passes:
 
 ## Archives
 
-- **2026-05-01 full archive (pre-slim):** [archive/TODO_ARCHIVED_2026-05-01.md](archive/TODO_ARCHIVED_2026-05-01.md)
 - **2026-04-30 full archive (pre-slim):** [archive/TODO_ARCHIVED_2026-04-30.md](archive/TODO_ARCHIVED_2026-04-30.md)
 - **2026-04-30 post-commit active snapshot:** [archive/TODO_SNAPSHOT_2026-04-30_POST_COMMIT.md](archive/TODO_SNAPSHOT_2026-04-30_POST_COMMIT.md)
 - **2026-04-30 active cleanup snapshot:** [archive/TODO_SNAPSHOT_2026-04-30.md](archive/TODO_SNAPSHOT_2026-04-30.md)

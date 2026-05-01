@@ -85,7 +85,7 @@ Read the stack top-down:
 | **Binding incorporated source** | Designated obligations in adopted companion implementation text, as adopted under this chapter and **Chapter Thirteen** (*Ratification and Adoption*). |
 | **Process and map support (non-binding unless adopted)** | `doc_architecture.md`, regression artifacts, and evidence logs—unless a valid adopting instrument expressly elevates them. |
 
-References across these constitutional volumes to **Chapter Fourteen** or incorporated annex files invoke the corresponding adopted implementation obligations **where applicable** and **within stated adoption scope**.
+References across these constitutional volumes to **Chapter Fourteen** or incorporated companion files invoke the corresponding adopted implementation obligations **where applicable** and **within stated adoption scope**.
 
 **Interpretive anchor.** Integrated reading, ambiguity handling (including fullest protective effect and limits on abstract strictness), and last-resort internal hierarchy live in **[Chapter One — Interpretive Constraints](core_00-01_principles.md#interpretive-constraints)** under **[§0.1 Ambiguity resolution, integrated reading, and internal hierarchy](core_00-01_principles.md#integrated-reading-internal-hierarchy)**. The incorporation-layer **strictest applicable** / **stricter clearly adopted baseline** procedure lives under **[§0.2 Canonical conflict resolution procedure](core_00-01_principles.md#canonical-conflict-resolution-procedure)**. That Chapter One material is **not** restated in this chapter.
 

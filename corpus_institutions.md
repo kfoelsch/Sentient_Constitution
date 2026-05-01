@@ -32,7 +32,7 @@ Institutions may design local procedures, but those procedures must remain consi
 
 This file applies that meaning to institutional design and operation.
 
-**Joint companion read:** where institutional rules intersect **[corpus_systems.md](corpus_systems.md)** classification, **PRIM/PROT** implementation labels, or **Chapter Eight** court operations, read **`corpus_joint_structure.md`** **CJS-2** (especially **CJS-2.2**) and **CJS-3** in addition to the owner sections cited in each topic.
+**Joint companion read:** where institutional rules intersect **[corpus_systems.md](corpus_systems.md)** classification, **PRIM/PROT** implementation labels, or `core_08-08_forum.md` **Chapter Eight** court operations, read **`corpus_joint_structure.md`** **CJS-2** (especially **CJS-2.2**) and **CJS-3** in addition to the owner sections cited in each topic.
 
 ### CI-1.1: Definition discipline and source hierarchy
 Definition discipline is single-home:
@@ -50,12 +50,12 @@ That format uses a titled entry followed by:
 - **`- OP-E:`** for how satisfaction is assessed or evidenced,
 - **`- OP-C:`** for binding operational requirements and non-compliance hooks.
 
-These labels align by analogy with **Chapter Two**, section **2** (*Ontological (O)*, *Evaluative (E)*, *Compliance (C)*) but remain local to this companion institutional-law file.
+These labels align by analogy with `core_02-04_definition_mechanics.md` **Chapter Two**, section **2** (*Ontological (O)*, *Evaluative (E)*, *Compliance (C)*) but remain local to this companion institutional-law file.
 
 The consequences of that structure are:
 - **OP-** lines are **not** Independent Definitions,
 - they do **not** add constitutional **terms**,
-- they do **not** satisfy **Chapter Two** or **Chapter Three** definition-integrity rules for defined concepts.
+- they do **not** satisfy `core_02-04_definition_mechanics.md` **Chapter Two** or `core_02-04_definition_mechanics.md` **Chapter Three** definition-integrity rules for defined concepts.
 
 Constitutional terms used in **OP-O**, **OP-E**, or **OP-C** take their meanings from the Sentient Constitution `core_*.md` files and from `core_02-04_definition_mechanics.md` / `core_05-05_definitions_a_independent.md` (see [README.md](README.md)).
 
@@ -82,7 +82,7 @@ Application rules are strict:
 This follows the **joint invocation and satisfaction** rule for **Dependent clusters** in `core_05-05_definitions_c_dependent_clusters.md` **Chapter Five**, **section 3** (*Dependent clusters*), by structural analogy.
 
 Operational clusters remain local to this companion institutional-law file:
-- they are **not** **Chapter Five** Clustered Definitions,
+- they are **not** `core_05-05_definitions_c_dependent_clusters.md` **Chapter Five** Clustered Definitions,
 - they do **not** add **Independent Definitions**.
 
 Any **read-with** cross-reference stated in the head **OP-O** remains operative for the whole cluster, for example to **CI-10.2** where **recurring or transaction-linked charges** apply.
@@ -96,6 +96,8 @@ Unless another reference pattern is stated, **Article** labels with Roman numera
 Where this file refers to **anti-constitutional misconduct**, it means **verified** conduct that **materially breaches** the Sentient Constitution or binding incorporated rules within valid adoption scope. Assessment still occurs under **Sentient Constitution Chapters Two through Six** and adopting instruments where they apply. **Sentient Constitution Chapter Seven** (*Anti-Constitutional Misconduct*) in [core_07-07_misconduct.md](core_07-07_misconduct.md#chapter-seven-anti-constitutional-misconduct) supplies the final **Violation Axis s = 7, 8, or 9** criteria and slot labels for conduct within that chapter’s scope. This file does **not** create a parallel offense taxonomy or substitute labels for **Sentient Constitution Chapter Seven**. **General** classification on **Axes I and II** (contribution **state**, violation nature, standing effect) remains authoritative in **Sentient Constitution Chapter Six**, and final top-end anti-constitutional-misconduct slot labels remain authoritative in **Sentient Constitution Chapter Seven**.
 
 ### CI-1.6: Proportionality rule
+Interpretive framing defers to **Sentient Constitution Chapter One** (*Proportionality* and *Necessity*), **`corpus_joint_structure.md` PROT1** (*Distributed and Proportional Authority*), **`corpus_joint_structure.md` PROT4** (*Burden of Justification and Constraint*), and **`corpus_systems.md`, Chapter S2** impact and classification signals where materially relevant. The bullets below state institution-facing scaling only.
+
 Institutional burden must scale with impact.
 
 - Low-impact institutional scopes should be simple, accessible, and inexpensive to establish and operate.
@@ -136,7 +138,7 @@ Delegations must state:
 - revocation trigger,
 - accountable reviewer.
 
-Emergency delegation is permitted only for necessity and proportionality reasons and must include rapid post-event review.
+Emergency delegation is permitted only where **Sentient Constitution Chapter One** necessity and proportionality, **`corpus_joint_structure.md` PROT4** justification discipline, **`corpus_joint_structure.md` PROT2** (*Intervention and Override Rights*) routing where materially applicable, and **Sentient Constitution Chapter Nine**, **Article XXIII** escalation and emergency-proportionality hooks (where materially applicable) authorize the delegation’s shape and limits. Delegations must include rapid post-event review.
 
 ### CI-3.1: Risk profile requirement
 Each institution must maintain a plain-language risk appetite and tolerance statement aligned to constitutional constraints and class/tier obligations. That statement must be reviewed on a fixed cadence and after material incidents.
@@ -371,7 +373,7 @@ Where `core_08-08_forum.md` **Chapter Eight** requires **cross-court anti-self-j
 
 **Joint read:** **`corpus_joint_structure.md` CJS-2.2** row **CJS-R09**; **CJS-3.3**.
 
-**Operative owner:** `corpus_forum.md` **CC-9**. Science, engineering, medical, or comparable technical courts must **satisfy CC-9 in full**, remain chambers or designated panels within **Chapter Eight** court families, and must not displace dominant-purpose routing. Institutions using shared cross-jurisdiction or cross-sector standards should treat technical courts as the principal reviewable standards-maintenance forum within lawful scope while leaving ordinary institution-facing enforcement to the lead court family **Chapter Eight** assigns. Where disputes implicate publication suppression, replication denial, correction refusal, or manipulation of scientific standing, read **CC-9** together with **CI-15B**.
+**Operative owner:** `corpus_forum.md` **CC-9**. Science, engineering, medical, or comparable technical courts must **satisfy CC-9 in full**, remain chambers or designated panels within `core_08-08_forum.md` **Chapter Eight** court families, and must not displace dominant-purpose routing. Institutions using shared cross-jurisdiction or cross-sector standards should treat technical courts as the principal reviewable standards-maintenance forum within lawful scope while leaving ordinary institution-facing enforcement to the lead court family `core_08-08_forum.md` **Chapter Eight** assigns. Where disputes implicate publication suppression, replication denial, correction refusal, or manipulation of scientific standing, read **CC-9** together with **CI-15B**.
 
 ---
 
@@ -431,17 +433,17 @@ Institutions must not rely on unlabeled, ad hoc, or selectively applied sector c
 ### CI-9.1B: Delegated subunits, institutional design class, and attachment discipline
 **Purpose.** This subsection generalizes internal delegation discipline—identification, authority-composition transparency, **anticipatable** bounds on **rotating** service, and published continuity rules for **home-based** roles—across institutions. It scales with **institutional design class** under this subsection.
 
-**Court-specific detail** (families, routing, appeals, specialist chamber doctrine) remains in `corpus_forum.md` **CC-2** (including **CC-2.5** onward). Where **CC-2.5** through **CC-2.5.4** state court-specific duties or illustrations, **CC** text governs for **Chapter Eight** tribunals. Where obligations overlap, the **stricter** applicable rule governs.
+**Court-specific detail** (families, routing, appeals, specialist chamber doctrine) remains in `corpus_forum.md` **CC-2** (including **CC-2.5** onward). Where **CC-2.5** through **CC-2.5.4** state court-specific duties or illustrations, **CC** text governs for `core_08-08_forum.md` **Chapter Eight** tribunals. Where obligations overlap, the **stricter** applicable rule governs.
 
 **Institutional design class (this subsection only).** Use the **highest** `corpus_systems.md` **Chapter S2 — System Classification and Handling** class among systems in the institution's **published governed scope** (including maps under **CI-9.1A**). Only **Class A**, **Class B**, and **Class C** are in range for the default scaling below.
 
-**Court floor.** Every **court family**, **tribunal**, or **adjudicative body** within **Chapter Eight** in `core_08-08_forum.md` is treated as **at least Class C** for **institutional design class** under this subsection—including for **internal chambers** and **designated panels**—regardless of whether other governed systems are labeled below Class C.
+**Court floor.** Every **court family**, **tribunal**, or **adjudicative body** within `core_08-08_forum.md` **Chapter Eight** is treated as **at least Class C** for **institutional design class** under this subsection—including for **internal chambers** and **designated panels**—regardless of whether other governed systems are labeled below Class C.
 
 **Delegated subunit** means a standing or recurring internal body (for example a division, chamber, committee, designated panel, or regional or functional office with decision rights) that exercises **materially binding** delegated authority for the parent institution and is **not** the institution's sole governing plenary.
 
 **Applicability.**
 - Where institutional design class is **Class C**, **Class B**, or **Class A**, each **delegated subunit** with materially binding authority must satisfy **CI-9.1B.1**. Each such subunit must satisfy **CI-9.1B.2** (hybrid composition joint minimum in **`corpus_joint_structure.md` CJS-3.7** plus **CI-9.1B.2** institution-specific rules), **CI-9.1B.3** (rotating attachment bounds for the rotating pole), and **CI-9.1B.4** (home-based term and renewal rules for the home-based pole).
-- Where institutional design class is **below Class C** and the institution is **not** a **Chapter Eight** court, **CI-9.1B** applies only to delegated subunits that **materially bind** outsiders, **allocate scarce public goods**, **license or certify** conduct with material impact, or **materially affect** systems classified **Class A**, **Class B**, or **Class C**. In those cases, evaluate **CI-9.1B** at the **highest** class **triggered** by the subunit's work (minimum **Class C** treatment for that subunit).
+- Where institutional design class is **below Class C** and the institution is **not** a `core_08-08_forum.md` **Chapter Eight** court, **CI-9.1B** applies only to delegated subunits that **materially bind** outsiders, **allocate scarce public goods**, **license or certify** conduct with material impact, or **materially affect** systems classified **Class A**, **Class B**, or **Class C**. In those cases, evaluate **CI-9.1B** at the **highest** class **triggered** by the subunit's work (minimum **Class C** treatment for that subunit).
 
 ### CI-9.1B.1: Identification and competence
 Each formation or authorizing instrument must state:
@@ -449,7 +451,7 @@ Each formation or authorizing instrument must state:
 - the subunit's **subject-matter scope**;
 - the **competence profile** expected for service in the subunit.
 
-Subunits must remain **subordinate** to the parent mandate. They must not operate as **parallel** decision routes that bypass published hierarchy, **CI-6** contest pathways, or **Chapter Eight** routing where adjudication applies.
+Subunits must remain **subordinate** to the parent mandate. They must not operate as **parallel** decision routes that bypass published hierarchy, **CI-6** contest pathways, or `core_08-08_forum.md` **Chapter Eight** routing where adjudication applies.
 
 ### CI-9.1B.2: Authority composition
 **Joint minimum.** Delegated subunits in scope must satisfy **`corpus_joint_structure.md` CJS-3.7** (*Mandatory hybrid authority composition*). Read **CJS-3.7** with **CI-9.1B.1**, **CI-9.1B.3**, and **CI-9.1B.4** for identification, attachment bounds, and home-based term rules.
@@ -802,7 +804,7 @@ Institutions should publish **phased** **transition** plans that include:
 
 **Purpose.** This section records **institutional and system design expectations** for **community belonging**, **cultural gathering**, **play**, **recreation**, **solitude**, and **non-productive time** that are **adjacent to** but **not exhausted by** **Article V-H** (*Expression, Assembly, and Press*), **Article VII-D** (*Family and Care Relationships*), **Article X** (*Cooperative Interaction*), **Article XI** (*Participation*), and **Article III-D** (*Labor and Economic Floor*). It does **not** create a **forced belonging** mandate, a **surveillance** entitlement, or a **state-approved** community form.
 
-**1. Civic and social infrastructure.** Institutions should **fund**, **zone**, **license**, and **steward** **shared spaces** — including **third places**, **libraries**, **commons**, **parks**, **clubs**, **digital town squares**, and **local meeting infrastructure** — using **classification-scaled** transparency and **anti-capture** controls under **CI-5**, **CI-9**, and **CI-12**. **Productivity-only** allocation that **starves** **non-instrumental** **time** and **association** without **Necessity** is **non-compliant** with **Sentient Constitution Chapter One §6.1.4** (*Minimization of Avoidable Burden*) read with **Article III-D**.
+**1. Civic and social infrastructure.** Institutions should **fund**, **zone**, **license**, and **steward** **shared spaces** — including **third places**, **libraries**, **commons**, **parks**, **clubs**, **digital town squares**, and **local meeting infrastructure** — using **classification-scaled** transparency and **anti-capture** controls under **CI-5**, **CI-9**, and **CI-12**. **Productivity-only** allocation that **starves** **non-instrumental** **time** and **association** without **Necessity** is **non-compliant** with [Chapter One §6.1.4](core_00-01_principles.md#614-minimization-of-avoidable-burden) (*Minimization of Avoidable Burden*) read with **Article III-D**.
 
 **2. Voluntary association and non-compelled social life.** Rules must **preserve** **freedom not to associate** and **freedom to leave** **coercive** **group** settings. **Anti-romanticization:** **community** mechanisms must **not** **excuse** **exclusion**, **caste-like** **local** hierarchy, **gendered** burden-shifting, or **informal** **coercion**; those risks are also addressed under **CI-21** and **CI-20**.
 

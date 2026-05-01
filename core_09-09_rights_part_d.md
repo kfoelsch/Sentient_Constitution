@@ -328,7 +328,7 @@ Inertia, convenience, and historical precedent alone cannot entrench arrangement
 
 - **Periodic review:** Material governance and allocation mechanisms must be subject to:
   - periodic revalidation and transparency;
-  - stakeholder-visible criteria for continuation or replacement, as implemented in annex protocols and governance safeguards.
+  - stakeholder-visible criteria for continuation or replacement, as implemented in companion protocols and governance safeguards.
 - **Accelerated review:** Revalidation must accelerate where evidence shows any of the following:
   - capture pressure;
   - stakeholder exclusion;

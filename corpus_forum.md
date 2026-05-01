@@ -19,7 +19,7 @@ Shared preamble contract: apply `corpus_joint_structure.md` **CJS-1.1**.
 - **Operational home:** this file is the operational home for forum structure, forum independence safeguards, forum process governance, and forum continuity mechanics.
 - **Boundary rule:** this file does **not** redefine constitutional terms, rights floors, offense taxonomy, or the constitutional routing logic owned by `core_08-08_forum.md` **Chapter Eight**.
 - **Forum-family limit:** this file does **not** create new forum families beyond those authorized in `core_08-08_forum.md` **Chapter Eight**.
-- **Sentient Constitution Chapter Nine structure:** this file operationalizes challenge and redress through **Article XII-B**, auditability and observable evidence through **Article XV-A** with **Chapters Two through Four**, interpretation safeguards through **Article XXII**, justice / emergency boundaries through **Article XXIII** and its subarticles, and transition-phase adjudication support as **Article XXV** references into this file and **`corpus_institutions.md`** **CI-14**.
+- **Sentient Constitution Chapter Nine structure:** this file operationalizes challenge and redress through **Article XII-B**, auditability and observable evidence through **Article XV-A** with `core_02-04_definition_mechanics.md` **Chapters Two through Four**, interpretation safeguards through **Article XXII**, justice / emergency boundaries through **Article XXIII** and its subarticles, and transition-phase adjudication support as **Article XXV** references into this file and **`corpus_institutions.md`** **CI-14**.
 
 **Implementation cross-reference index (routing only):** This companion file is implemented with `corpus_joint_structure.md` implementation labels **PRIM1**, **PRIM2**, **PRIM4**, **PRIM5**, **PRIM6**, **PRIM7**, **PRIM8**, **PRIM9**, **PRIM10**, **PRIM11**, **PRIM12**, **PRIM14**, **PRIM15**, **PROT1**, **PROT2**, **PROT3**, **PROT4**, **PROT5**, and **PROT6** where materially applicable. This index is routing guidance only and does not redefine owner-layer meaning.
 
@@ -55,7 +55,7 @@ This file governs how constitutional forum families are constituted, supported, 
 
 This file must not:
 - collapse distinct forum families into one another;
-- silently expand constitutional-forum jurisdiction beyond Chapter Eight;
+- silently expand constitutional-forum jurisdiction beyond `core_08-08_forum.md` **Chapter Eight**;
 - replace general constitutional due-process, traceability, or rights rules with weaker local procedure;
 - create a parallel offense taxonomy.
 
@@ -85,7 +85,7 @@ Every adopting system must establish and maintain a published forum structure th
 - preserves independence, contestability, and traceability in actual tribunal design rather than by labels alone;
 - maintains enough qualified personnel and, as specified in **CC-13**, reserve and substitute capacity to keep the forum families functional in ordinary and stress conditions.
 
-**Practical flexibility:** Local forum names, internal organization, and administrative detail may differ from any model structure, as long as filers and review bodies can still see and use **each** forum family Chapter Eight requires—separate intake, panels where applicable, and appeal or review paths that match that family's role. **What is not allowed:** satisfying the rule only on paper—by renaming tribunals, redrawing chamber lines, or similar cosmetic moves—if the real effect is to merge or erase boundaries between families that the constitution treats as distinct.
+**Practical flexibility:** Local forum names, internal organization, and administrative detail may differ from any model structure, as long as filers and review bodies can still see and use **each** forum family `core_08-08_forum.md` **Chapter Eight** requires—separate intake, panels where applicable, and appeal or review paths that match that family's role. **What is not allowed:** satisfying the rule only on paper—by renaming tribunals, redrawing chamber lines, or similar cosmetic moves—if the real effect is to merge or erase boundaries between families that the constitution treats as distinct.
 
 ### CC-2.2 Family-to-tribunal translation map
 Each adopting system must publish a forum-structure map that states, in plain language:
@@ -106,11 +106,11 @@ Adopting instruments must preserve the distinct constitutional functions of the 
 - a single chief administrator or budgeting authority serves multiple families;
 - a jurisdiction uses a unified judiciary for ordinary administration.
 
-The following patterns are non-compliant unless adopted through constitutional amendment that lawfully changes Chapter Eight itself:
+The following patterns are non-compliant unless adopted through constitutional amendment that lawfully changes `core_08-08_forum.md` **Chapter Eight** itself:
 - treating one family as a mere chamber of another where the result removes independent routing, review, or remedy authority;
 - giving one family routine authority to decide another family's dominant questions merely by internal reassignment;
 - using emergency, specialization, efficiency, or caseload pressures as a standing justification for family merger;
-- creating technical, commercial, security, or other specialist forums that operate as de facto sovereign families outside the Chapter Eight structure.
+- creating technical, commercial, security, or other specialist forums that operate as de facto sovereign families outside the `core_08-08_forum.md` **Chapter Eight** structure.
 
 ### CC-2.4 Minimum structural availability by family
 Each required forum family must maintain, at minimum:
@@ -125,7 +125,7 @@ No family may exist only on paper. If a family's work is assigned to a broader j
 ### CC-2.5 Chamber formation and limits
 Forum families may create internal chambers, divisions, or designated panels to improve competence, speed, or consistency, but chamber structure must remain subordinate to family boundaries.
 
-**Institutional design class.** For **institutional design class** (including the **Class C** floor for specialist forums) and the **general** delegated-subunit pattern aligned with **CC-2.5** through **CC-2.5.4**, see `corpus_institutions.md` **CI-9.1B** and **`INST-PROTO-27`**. **CC-2.5** through **CC-2.5.4** remain **operative** for **Chapter Eight** forum families and chambers; where general and forum-specific rules overlap, the **stricter** rule governs.
+**Institutional design class.** For **institutional design class** (including the **Class C** floor for specialist forums) and the **general** delegated-subunit pattern aligned with **CC-2.5** through **CC-2.5.4**, see `corpus_institutions.md` **CI-9.1B** and **`INST-PROTO-27`**. **CC-2.5** through **CC-2.5.4** remain **operative** for `core_08-08_forum.md` **Chapter Eight** forum families and chambers; where general and forum-specific rules overlap, the **stricter** rule governs.
 
 ### CC-2.5.1 Identification and competence
 Each chamber-creation instrument must state:
@@ -145,11 +145,11 @@ Apply **`corpus_joint_structure.md` CJS-3.7A** for shared rotating-attachment re
 Apply **`corpus_joint_structure.md` CJS-3.7A** for shared home-based continuity requirements (published term/renewal/stagger rules and no mirror requirement relative to rotating formulas). Forum-specific continuity and emergency controls remain in **CC-11**.
 
 ### CC-2.5.5 Appeals and review path
-Each chamber-creation instrument must state whether chamber rulings are appealable within the same family, directly to another family only on certified questions, or through another published review path consistent with Chapter Eight.
+Each chamber-creation instrument must state whether chamber rulings are appealable within the same family, directly to another family only on certified questions, or through another published review path consistent with `core_08-08_forum.md` **Chapter Eight**.
 
 Chambers must not:
 - rewrite family-level routing by internal practice;
-- make certification or transfer unnecessary where Chapter Eight would otherwise require it;
+- make certification or transfer unnecessary where `core_08-08_forum.md` **Chapter Eight** would otherwise require it;
 - hold themselves out as a separate constitutional forum family;
 - use specialization to reduce challenge rights, publication duties, or independence safeguards.
 
@@ -183,7 +183,7 @@ For this section:
 - `lawful panel` means a bench formed under published authority, with the required competence, quorum, independence, and conflict screening for the matter at issue.
 - `independent panel` means a lawful panel in which no member has an unresolved material conflict, capture relationship, direct stake, dependency-linked bias risk, or recusal defect that would reasonably call impartial merits determination into question.
 - `panel coordinator` means the published role responsible for recording panel formation, disclosures, recusals, substitutions, and inability-to-form findings. This role may be clerical, judicial-administrative, or equivalent, but must not unilaterally decide contested recusal merits where the coordinator is materially interested.
-- `backup activation` means transfer or co-routing to the constitutionally designated backup family under Chapter Eight when the otherwise designated lead family cannot provide a lawful and independent merits forum.
+- `backup activation` means transfer or co-routing to the constitutionally designated backup family under `core_08-08_forum.md` **Chapter Eight** when the otherwise designated lead family cannot provide a lawful and independent merits forum.
 
 For cross-companion interoperability, read these local definitions with `corpus_joint_structure.md` **CJS-3.12** (Tier 1 abstractions for delegated bodies, lawful independent forums, backup activation, and representative treatment).
 
@@ -229,7 +229,7 @@ Recusal is required where:
 - impartiality is reasonably contested under `corpus_institutions.md` **CI-4**;
 - the member has prior investigative, prosecutorial, administrative, or advisory involvement in the same matter that would collapse role separation;
 - the member is a subject, likely material witness, or direct institutional subordinate of a subject in a way that materially impairs independence;
-- the matter triggers Chapter Eight cross-forum anti-self-judging protection and the proposed member is part of the compromised chain;
+- the matter triggers `core_08-08_forum.md` **Chapter Eight** cross-forum anti-self-judging protection and the proposed member is part of the compromised chain;
 - service would create a reasonable appearance that the tribunal is judging its own concealed bias, capture, recusal failure, or process abuse without a sufficiently independent bench.
 
 ### CC-3.6 Recusal challenge workflow
@@ -284,7 +284,7 @@ This finding may not be inferred silently. It requires an attributable written r
 - the competence and quorum rule that could not be satisfied;
 - whether the barrier is conflict, capture, incapacity, deadlock, or another lawful reason;
 - whether temporary interim relief is still possible;
-- whether backup routing is mandatory under Chapter Eight;
+- whether backup routing is mandatory under `core_08-08_forum.md` **Chapter Eight**;
 - who certified the record and when.
 
 ### CC-3.10 Certifier for inability-to-form findings
@@ -299,7 +299,7 @@ The certifier must:
 For cross-forum anti-self-judging cases, the certifier should, where feasible, include or be reviewed by contest-integrity or equivalent independent assurance capacity under `corpus_institutions.md` **CI-7.3** without displacing the merits forum assignment rules.
 
 ### CC-3.11 Backup-forum activation
-Where Chapter Eight makes backup routing available, activation is mandatory when:
+Where `core_08-08_forum.md` **Chapter Eight** makes backup routing available, activation is mandatory when:
 - a documented inability-to-form finding exists in the designated lead family;
 - the lead family is materially compromised by capture, recusal failure, concealment, or comparable integrity breach;
 - emergency incapacity or unavailability makes timely independent adjudication otherwise impossible.
@@ -349,7 +349,7 @@ These records must be retained in a way that supports:
 - Topic-level routing and cited authorities remain in subsection text and cross-references.
 - Canonical owner map: `corpus_joint_structure.md` **CJS-2.2** and `doc_architecture.md` section 4.
 
-This section operationalizes Chapter Eight. It governs:
+This section operationalizes `core_08-08_forum.md` **Chapter Eight**. It governs:
 - published intake classes and intake triage (**CC-4.1**, **CC-4.2**);
 - routing decision procedures;
 - mixed-stakes tie-break workflow;
@@ -361,7 +361,7 @@ This section operationalizes Chapter Eight. It governs:
 
 This section must implement, and not alter, the dominant-purpose rule in `core_08-08_forum.md` **Chapter Eight**.
 
-**Chapter Eight linkage.** **Per-family intake triage bodies** are constitutionally required in **Chapter Eight**, **section 5** (together with **default venue** in **section 2**, **forensic and analytical support** in **section 3**, and **transfer**, **consolidation**, **certification**, and **backup** discipline in **sections 6 and 7**); they are **not** a separate forum family. **CC-4.1**–**CC-4.2** operationalize that requirement and its **non-substitution** boundary for **merits** panels.
+**`core_08-08_forum.md` Chapter Eight linkage.** **Per-family intake triage bodies** are constitutionally required in `core_08-08_forum.md` **Chapter Eight**, **section 5** (together with **default venue** in **section 2**, **forensic and analytical support** in **section 3**, and **transfer**, **consolidation**, **certification**, and **backup** discipline in **sections 6 and 7**); they are **not** a separate forum family. **CC-4.1**–**CC-4.2** operationalize that requirement and its **non-substitution** boundary for **merits** panels.
 
 ### CC-4.1 Published intake classes
 Each required forum family must publish an intake path that, at minimum:
@@ -463,7 +463,7 @@ Omission of a materially required element makes the sanction or restriction proc
 - Topic-level routing and cited authorities remain in subsection text and cross-references.
 - Canonical owner map: `corpus_joint_structure.md` **CJS-2.2** and `doc_architecture.md` section 4.
 
-**Chapter Eight linkage.** `core_08-08_forum.md` **Chapter Eight**, **section 4** authorizes **Integrity** forum **alignment** rulings and **supervisory coordination**; **section 6** states **integrity-led alignment coordination** with **other** forum families; **section 7** limits **alignment** rulings that would establish **general** doctrine. This section operationalizes those interfaces **without** relocating constitutional routing to this file.
+**`core_08-08_forum.md` Chapter Eight linkage.** `core_08-08_forum.md` **Chapter Eight**, **section 4** authorizes **Integrity** forum **alignment** rulings and **supervisory coordination**; **section 6** states **integrity-led alignment coordination** with **other** forum families; **section 7** limits **alignment** rulings that would establish **general** doctrine. This section operationalizes those interfaces **without** relocating constitutional routing to this file.
 
 ### CC-6.1 Alignment rulings, component referral, and supervisory coordination
 
@@ -474,15 +474,15 @@ Omission of a materially required element makes the sanction or restriction proc
 - the **system**, **process**, **institutional**, or **pathway** dependencies the tribunal treated as material;
 - each **component** matter **referred**, **certified**, or **stayed**, the **assigned** **lead** **family** or tribunal, and the **stated** **priority** basis for **sequencing** when **multiple** components compete;
 - **stays**, **sequencing**, **milestones**, or **coordination** orders the **Integrity** tribunal **retains** on the **lead** record;
-- where applicable, **remediation** **options** or **menus** and which elements are **binding** versus **advisory**, consistent with **Chapter Eight**, **section** **4**.
+- where applicable, **remediation** **options** or **menus** and which elements are **binding** versus **advisory**, consistent with `core_08-08_forum.md` **Chapter Eight**, **section** **4**.
 
-**Referral priority publication.** Adopting instruments must publish **tie-break** rules for **ordering** **component** referrals and **overlapping** **urgency** — **without** displacing **dominant-purpose** assignment of **merits**. Published criteria must account for **rights-floor** **urgency**, **irreversible** **harm** risk, **classification** or **compliance** **dependency** where **Sentient Constitution Chapter Six** is implicated, **evidentiary** **decay** or **preservation** **need**, and **practical** **resolution** **sequence**. **Opaque** or **caption-driven** sorting at the referral threshold is presumptively non-compliant.
+**Referral priority publication.** Adopting instruments must publish **tie-break** rules for **ordering** **component** referrals and **overlapping** **urgency** — **without** displacing **dominant-purpose** assignment of **merits**. Published criteria must account for **rights-floor** **urgency**, **irreversible** **harm** risk, **classification** or **compliance** **dependency** where **Sentient Constitution Chapter Six** ([core_06-06_standing_classification.md](core_06-06_standing_classification.md); [core_06-06_standing_integration.md](core_06-06_standing_integration.md)) is implicated, **evidentiary** **decay** or **preservation** **need**, and **practical** **resolution** **sequence**. **Opaque** or **caption-driven** sorting at the referral threshold is presumptively non-compliant.
 
 **Neutral coordination role.** **Supervisory coordination** means **forum-managed** **stays**, **sequencing**, **status** review, and **milestone** **accountability** — **not** partisan **advocacy** for a party outcome and **not** a substitute for **prosecutorial**, **institutional**, or **investigative** **merits** bodies where those roles are lawfully distinct under **CC-8** and `corpus_institutions.md`.
 
-**Merits boundaries.** **Integrity** tribunals **must** **not** issue **final** **merits** determinations **reserved** to **another** family's **dominant** question — including **constitutional** validity and **class-wide** **structural** remedy — except where **Chapter Eight** assigns that **primary** stake to **Integrity** forums. Tribunals receiving **referrals** exercise **their** **lawful** **merits** authority and **must** treat **binding** **integrity** findings and **coordination** orders on the **lead** **Integrity** record as **lawful** **inputs** under **certification**, **issue** **preclusion**, **stay**, and **sequencing** rules — **without** **collateral** **re-litigation** of those findings **outside** **published** review paths.
+**Merits boundaries.** **Integrity** tribunals **must** **not** issue **final** **merits** determinations **reserved** to **another** family's **dominant** question — including **constitutional** validity and **class-wide** **structural** remedy — except where `core_08-08_forum.md` **Chapter Eight** assigns that **primary** stake to **Integrity** forums. Tribunals receiving **referrals** exercise **their** **lawful** **merits** authority and **must** treat **binding** **integrity** findings and **coordination** orders on the **lead** **Integrity** record as **lawful** **inputs** under **certification**, **issue** **preclusion**, **stay**, and **sequencing** rules — **without** **collateral** **re-litigation** of those findings **outside** **published** review paths.
 
-**Disposition effect labeling.** Where an **alignment** ruling materially stabilizes outcomes beyond the named parties, adopting instruments should identify the applicable **CC-5.1** effect code(s) — ordinarily at least **CC-5.1.102** when **pattern** or **shared-practice** stakes are material — and must **not** silently treat **alignment** rulings as **CC-5.1.103** **general** panel-rule doctrine when **constitutional** **certification** under **Chapter Eight**, **section** **7** is **required**.
+**Disposition effect labeling.** Where an **alignment** ruling materially stabilizes outcomes beyond the named parties, adopting instruments should identify the applicable **CC-5.1** effect code(s) — ordinarily at least **CC-5.1.102** when **pattern** or **shared-practice** stakes are material — and must **not** silently treat **alignment** rulings as **CC-5.1.103** **general** panel-rule doctrine when **constitutional** **certification** under `core_08-08_forum.md` **Chapter Eight**, **section** **7** is **required**.
 
 ### CC-6.2 Anti-self-judging activation, capture-sensitive routing, and contest-integrity interfaces
 
@@ -608,7 +608,7 @@ Local variation must not be used as a pretext for regression, forum shopping, hi
 
 Non-recognition must identify whether the forum is adopting an interim local rule, certifying the issue for reconsideration, or invoking another recognized shared standard. Silent non-recognition is non-compliant where this subsection applies. Repeated unexplained refusal to recognize materially applicable shared standards may be treated as a capture, evasion, or forum-shopping indicator for escalation under `corpus_institutions.md` **CI-8**, external assurance, or cross-jurisdiction enforcement continuity rules.
 
-**Educational materials and textbook disputes.** Where technical forums hear disputes about publicly governed textbooks, curriculum standards, or comparable educational materials, the question is integrity of evidence presentation, methodological honesty, age-appropriate explanation, and administrative regularity. These forums must not act as general ideological censors or displace the constitutional rights and educational principles stated in `core_09-09_rights_part_a.md` and related **Sentient Constitution Chapter Nine** materials.
+**Educational materials and textbook disputes.** Where technical forums hear disputes about publicly governed textbooks, curriculum standards, or comparable educational materials, the question is integrity of evidence presentation, methodological honesty, age-appropriate explanation, and administrative regularity. These forums must not act as general ideological censors or displace the constitutional rights and educational principles stated in `core_09-09_rights_part_a.md` and related **Sentient Constitution Chapter Nine** materials in the `core_09-09_rights_part_*.md` files (see [README.md](README.md)).
 
 **Independence and composition.** Panels must include relevant domain competence, conflict screening, published selection criteria, and meaningful challenge pathways. Service terms, compensation, and promotion structures must reduce dependence on journal prestige, dominant funders, vendor capture, or institutional retaliation against replication, criticism, or correction.
 
@@ -691,7 +691,7 @@ Each adopting system must set published target windows for:
 - emergency interim-relief review;
 - transfer or certification decision;
 - publication of routing, transfer, and merits records;
-- backup-forum activation where Chapter Eight requires it.
+- backup-forum activation where `core_08-08_forum.md` **Chapter Eight** requires it.
 
 For emergency or rights-floor matters, targets must be materially shorter than for ordinary civil matters.
 
@@ -874,7 +874,7 @@ Activation records must state:
 - who authorized activation;
 - when independent review will occur.
 
-Shared expiry, reauthorization, restoration, and closure-evidence requirements follow `corpus_systems.md` **Protocol A**, subsection **G**, where constitutional-system continuity is implicated. Forum activation records add the Chapter Eight routing and family-specific adjudication details listed here.
+Shared expiry, reauthorization, restoration, and closure-evidence requirements follow `corpus_systems.md` **Protocol A**, subsection **G**, where constitutional-system continuity is implicated. Forum activation records add `core_08-08_forum.md` **Chapter Eight** routing context and family-specific adjudication details listed here.
 
 ### CC-11.4 Continuity minimum functions
 In any degraded or emergency mode, the system must preserve at minimum:
@@ -907,7 +907,7 @@ Temporary quorum rules must not be used to concentrate durable control or to byp
 ### CC-11.7 Fallback venues and backup forums
 Each forum family must identify, in advance:
 - what fallback venue or operational mode applies if its ordinary forum is unavailable;
-- how the designated backup family under Chapter Eight will receive emergency matters if anti-self-judging or inability-to-form conditions activate;
+- how the designated backup family under `core_08-08_forum.md` **Chapter Eight** will receive emergency matters if anti-self-judging or inability-to-form conditions activate;
 - how transfer records, docket identity, and review rights will be preserved across the shift.
 
 Fallback operation must preserve dominant-purpose routing as much as feasible. It does not authorize silent reclassification of the matter.
@@ -1037,7 +1037,7 @@ Adopting systems may combine compatible forms, but must not merge records in a w
 ### CC-12.2 Required fields
 Each standard record must include, proportionate to the action:
 - forum family, chamber or panel, and docket identity;
-- authority invoked, including Chapter Eight routing basis where material;
+- authority invoked, including `core_08-08_forum.md` **Chapter Eight** routing basis where material;
 - date, time, responsible role, and any approving or reviewing role;
 - affected parties or affected class, with lawful anonymization where required;
 - scope of action and duration where temporary or restricted;

@@ -15,6 +15,16 @@ Upstream constitutional direction for this file's definitions begins in [core_00
 > The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this chapter or in other chapters.
 >
 > Plain-language reading note: Read **Chapter One** for high-level values and direction; **Chapters Two through Four** for definition structure, integrity, and verification mechanics; and **Chapter Nine** for the foundational **rights** floor, then return to this chapter for term precision in interpretation, audit, and adjudication. (Other chapters, including **Chapter Seven** *Misconduct* and **Chapter Six** *Standing*, apply on their own reading paths; they are not a substitute for the rights floor in Chapter Nine or for definition mechanics in Chapters Two through Four.)
+>
+> **Who this is for (non-operative).** This chapter is still part of the binding instrument, but the sentences below are **reading help only**. They follow the clarity norms in [**AUDIENCE.md**](AUDIENCE.md) (average adult reader; short sentences; jargon explained or linked).
+>
+> **“Participation capacity” and “participation-capacity gap” (plain terms).**
+> - **Participation capacity** means whether affected **sentients** can **actually take part** in something that matters here—governance, healthcare, work, expression, and similar areas—not whether a form or screen merely exists.
+> - A **participation-capacity gap** means someone is **left out in practice**: they cannot meaningfully join in, even if the system says it is “open to everyone” or uses the same default path for all.
+>
+> **Routine defaults—usually not the focus.** If you deploy the **normal, off-the-shelf experience** (standard layout, usual workflow, default options) and **no affected sentient is stuck unable to participate**, then there is **no gap**. This chapter is **not** meant to turn that situation into an extra homework assignment. Other rules (**materiality**, [**Chapter Nine** rights](core_09-09_rights_part_a.md), owner chapters) still apply where they matter.
+>
+> **When to read closely.** If defaults **do** leave sentients unable to take part, read [**Accessibility**](#accessibility-constitutional) and related terms for **real-world effect**, not checkbox compliance. The same **substantive participation** standard appears under [**Chapter One** — Required evaluation factors](core_00-01_principles.md#71-required-evaluation-factors).
 
 </details>
 
@@ -111,7 +121,7 @@ The list below merges the former independent, semi-independent, and dependent-cl
 - [Ecological Footprint](core_05-05_definitions_b_semi_independent.md#ecological-footprint)
 - [Ecological Integrity](core_05-05_definitions_b_semi_independent.md#ecological-integrity-constitutional)
 - [Ecological Integrity, Footprint, and Sustainability](core_05-05_definitions_c_dependent_clusters.md#ecological-integrity-footprint-and-sustainability-cluster)
-- [Educational Agency](core_05-05_definitions_c_dependent_clusters.md#educational-agency)
+- [Educational Agency](core_05-05_definitions_c_dependent_clusters.md#educational-agency) (cluster home: §3.32)
 - [Emergency and Contingency](core_05-05_definitions_b_semi_independent.md#emergency-and-contingency-constitutional)
 - [Emergency and Contingency](core_05-05_definitions_c_dependent_clusters.md#emergency-and-contingency-cluster)
 - [Emergency Pre-Deliberation Action (Binding Collective Choice)](core_05-05_definitions_b_semi_independent.md#emergency-pre-deliberation-action-binding-collective-choice)
@@ -180,7 +190,7 @@ The list below merges the former independent, semi-independent, and dependent-cl
 - [Participant Standing](core_05-05_definitions_b_semi_independent.md#participant-standing-constitutional)
 - [Press and Journalistic Activity](#press-and-journalistic-activity-constitutional)
 - [Press and Journalistic Activity](core_05-05_definitions_c_dependent_clusters.md#info-sphere-expression-press-journalistic-activity-and-good-faith-cluster)
-- [Publication and High-Impact Communication](core_05-05_definitions_c_dependent_clusters.md#publication-and-high-impact-communication)
+- [Publication and High-Impact Communication](core_05-05_definitions_c_dependent_clusters.md#publication-and-high-impact-communication) (cluster home: §3.39)
 - [Privacy (Informational)](core_05-05_definitions_b_semi_independent.md#privacy-informational)
 - [Privacy (Informational)](core_05-05_definitions_c_dependent_clusters.md#privacy-informational-cluster)
 - [Procedural Fairness](core_05-05_definitions_b_semi_independent.md#procedural-fairness-constitutional)
@@ -219,7 +229,7 @@ The list below merges the former independent, semi-independent, and dependent-cl
 - [Review and Correction Duty](core_05-05_definitions_c_dependent_clusters.md#adjudication-redress-restorative-review-correction-and-refuge-cluster)
 - [Safe Conditions](core_05-05_definitions_b_semi_independent.md#safe-conditions-constitutional)
 - [Safety (Constraint)](#safety-constraint)
-- [Self-Determination](core_05-05_definitions_c_dependent_clusters.md#self-determination-constitutional)
+- [Self-Determination](core_05-05_definitions_c_dependent_clusters.md#self-determination-constitutional) (cluster home: §3.32)
 - [Sentient](core_05-05_definitions_b_semi_independent.md#sentient)
 - [Sentience Evaluation](core_05-05_definitions_b_semi_independent.md#sentience-evaluation-e)
 - [Sentience Non-Exclusion](core_05-05_definitions_b_semi_independent.md#sentience-non-exclusion)
@@ -245,13 +255,13 @@ The list below merges the former independent, semi-independent, and dependent-cl
 - [Systemic Lock-In](core_05-05_definitions_b_semi_independent.md#systemic-lock-in)
 - [Systemic Lock-In](core_05-05_definitions_c_dependent_clusters.md#governance-architecture-oversight-decentralization-and-concentration-cluster)
 - [Tenure Security](core_05-05_definitions_b_semi_independent.md#tenure-security-constitutional)
-- [Training-Data Use](core_05-05_definitions_c_dependent_clusters.md#training-data-use-constitutional)
+- [Training-Data Use](core_05-05_definitions_c_dependent_clusters.md#training-data-use-constitutional) (cluster home: §3.13)
 - [Transparency](core_05-05_definitions_b_semi_independent.md#transparency)
 - [Transparency, Auditability, and Verification](core_05-05_definitions_c_dependent_clusters.md#transparency-auditability-and-verification-cluster)
-- [Trust](core_05-05_definitions_c_dependent_clusters.md#trust)
+- [Trust](core_05-05_definitions_c_dependent_clusters.md#trust) (cluster home: §3.38)
 - [Trust Degradation and Misleading Reliance](core_05-05_definitions_c_dependent_clusters.md#trust-degradation-and-misleading-reliance-constitutional)
 - [Trust, Trustworthiness, and Trust Degradation / Misleading Reliance](core_05-05_definitions_c_dependent_clusters.md#trust-and-trustworthiness-cluster)
-- [Trustworthiness](core_05-05_definitions_c_dependent_clusters.md#trustworthiness)
+- [Trustworthiness](core_05-05_definitions_c_dependent_clusters.md#trustworthiness) (cluster home: §3.38)
 - [Truth (Constitutional Constraint)](core_05-05_definitions_b_semi_independent.md#truth-constitutional-constraint)
 - [Truth and Epistemic Integrity](core_05-05_definitions_c_dependent_clusters.md#truth-and-epistemic-integrity-cluster)
 - [Use of Force](core_05-05_definitions_b_semi_independent.md#use-of-force-constitutional)
@@ -262,14 +272,6 @@ The list below merges the former independent, semi-independent, and dependent-cl
 - [Voluntary Discontinuation](core_05-05_definitions_b_semi_independent.md#voluntary-discontinuation-constitutional)
 - [Weapons of Mass Harm](core_05-05_definitions_b_semi_independent.md#weapons-of-mass-harm-constitutional)
 - [Wellbeing](#wellbeing)
-
-#### Reader-friendly additions to consider
-
-- Add short `cluster home` labels in the directory where a term’s O/E/C body lives only in **section 3**, so readers can jump to joint-invocation context without scanning the cluster list manually.
-- Add O/E/C jump links in this directory only after the anchor audit confirms every listed component has stable O, E, and C anchors.
-- Add owner-floor links beside rights-floor definitions where the owner article is the next thing most readers need.
-- Add a compact `common pathways` table for frequent traces, such as privacy, trust, sentience status, fairness, materiality, and ecological integrity.
-- Add a generated alphabetical check so future Chapter Five edits fail fast when a new §1 entry or directory row lands out of order.
 
 </details>
 
@@ -313,11 +315,11 @@ Admission boundary for this section: Chapter Five entries define constitutional 
   - In scope — domains: governance, adjudication, operations, survival-floor and healthcare access, expression, assembly, press, stakeholder participation, and comparable domains.
   - In scope — sentients under [Sentience Non-Exclusion](core_05-05_definitions_b_semi_independent.md#sentience-non-exclusion).
   - In scope — access needs: sensory, cognitive, mobility, communication, substrate-interface, compute-interface, and comparable profiles, whether constant, episodic, or developmental.
-  - Out of scope: ordinary default-affordance deployments that do not produce a participation-capacity gap.
+  - Out of scope: **routine default setup**—standard layout and usual paths—when **no participation-capacity gap** exists (affected sentients can **actually take part** in the domain; nobody is stuck unable to participate in practice).
   - Not narrowed here: domains owned elsewhere, notably [Article III-B](core_09-09_rights_part_a.md#article-iii-b-equal-educational-access) educational accessibility.
   <a id="accessibility-constitutional-e"></a>
 - E: Test substantive participation effect, not formal-affordance compliance:
-  - detect "general access" patterns that defer to default affordances without producing participation capacity;
+  - detect **“general access”** or **same path for everyone** claims that still leave sentients **unable to participate in practice** (**participation-capacity gap**);
   - detect paper-only accommodations that are operationally unreachable;
   - detect selective [Materiality](core_05-05_definitions_b_semi_independent.md#materiality-determination) arguments used to scale accommodation below the participation floor;
   - scale obligation with domain [Materiality](core_05-05_definitions_b_semi_independent.md#materiality-determination) (rights-, governance-, or survival-relevant) and with [Dependency](#dependency) on the entity, system, or venue;
@@ -436,9 +438,9 @@ Admission boundary for this section: Chapter Five entries define constitutional 
 
 <br>
 
-- O: Governance intensity, [oversight](core_05-05_definitions_b_semi_independent.md#oversight-constitutional) depth, verification burden, and procedural rigor must scale with [material impact](core_05-05_definitions_b_semi_independent.md#material-impact), [dependency](#dependency), and [risk](#risk). Scaling follows system classification and annex criteria, including *[corpus_systems.md](corpus_systems.md)*, Chapter S2 — System Classification and Handling, and dependent provisions.
+- O: Governance intensity, [oversight](core_05-05_definitions_b_semi_independent.md#oversight-constitutional) depth, verification burden, and procedural rigor must scale with [material impact](core_05-05_definitions_b_semi_independent.md#material-impact), [dependency](#dependency), and [risk](#risk). Scaling follows system classification and companion criteria, including *[corpus_systems.md](corpus_systems.md)*, Chapter S2 — System Classification and Handling, and dependent provisions.
 <a id="classification-scaled-governance-e"></a>
-- E: Apply the operative classification under annex rules together with [Materiality Determination](core_05-05_definitions_b_semi_independent.md#materiality-determination) and [System Boundary Integrity](#system-boundary-integrity). Self-assigned or informal low classification is not sufficient where full functional effects warrant higher [Oversight](core_05-05_definitions_b_semi_independent.md#oversight-constitutional) or governance.
+- E: Apply the operative classification under companion rules together with [Materiality Determination](core_05-05_definitions_b_semi_independent.md#materiality-determination) and [System Boundary Integrity](#system-boundary-integrity). Self-assigned or informal low classification is not sufficient where full functional effects warrant higher [Oversight](core_05-05_definitions_b_semi_independent.md#oversight-constitutional) or governance.
 <a id="classification-scaled-governance-c"></a>
 - C: Non-compliant: operating or classifying a system below the level warranted by its full functional effects; applying class-gated obligations inconsistently with assigned classification where [Material Impact](core_05-05_definitions_b_semi_independent.md#material-impact), [Dependency](#dependency), or [Risk](#risk) require stronger governance.
 
@@ -714,12 +716,24 @@ Admission boundary for this section: Chapter Five entries define constitutional 
 
 <br>
 
-- O: Governance decisions whose subject is the authorization of governing authority itself: who holds governing authority, what the governance layer mechanism is, and the scope and durable terms of that authority. That is distinct from ordinary rights-affecting decisions made *within* the [Governance](core_05-05_definitions_b_semi_independent.md#governance) **structures, rules, allocation of authority, and processes** already authorized for a **specified system, institution, or bounded decision domain**. Once **those** **structures, rules, allocation of authority, and processes** are **authorized** for **the** **domain**, proportional voice for materially affected parties routes through [Stakeholder](core_05-05_definitions_b_semi_independent.md#stakeholder) identification and [Stakeholder Participation Weight](core_05-05_definitions_b_semi_independent.md#stakeholder-participation-weight) (including **Article XI** constraints), not through equal-weight foundational tally rules. Owner: [Chapter Ten §4.1](core_10-10_governance.md#41-entitlement-and-eligibility) (*Political-equality floor for foundational constitutional choice*; *Durable political-voice floor*). Rights-layer pointer: Article IX-C (*Governance Participation and Voting Entitlement*). The concept applies under [Sentience Non-Exclusion](core_05-05_definitions_b_semi_independent.md#sentience-non-exclusion).
-<a id="foundational-constitutional-choice-e"></a>
-<a id="foundational-collective-choice-constitutional-e"></a>
-- E: Identify foundational constitutional choice by scope — the question's character as authorization or durable structuring of governing authority — not by marginal per-decision impact. It is distinct from ordinary [Materiality Determination](core_05-05_definitions_b_semi_independent.md#materiality-determination) and stakeholder participation-weighting under [Stakeholder Representation and Participation-Weight Limits (Binding Stakeholder Choice)](core_05-05_definitions_c_dependent_clusters.md#stakeholder-representation-and-participation-weight-limits-binding-collective-choice) as applied in [Chapter Ten §4.3](core_10-10_governance.md#43-decision-resolution-requirements-for-binding-collective-choice). Foundational questions are not re-routable as high-impact weighted choices. Apply [Sentience Non-Exclusion](core_05-05_definitions_b_semi_independent.md#sentience-non-exclusion). Reject substrate-class, calendar-age, or lineage participation-weight factors. Apply [Procedural Fairness](core_05-05_definitions_b_semi_independent.md#procedural-fairness-constitutional) to any disqualification invoked against participation.
-<a id="foundational-constitutional-choice-c"></a>
-<a id="foundational-collective-choice-constitutional-c"></a>
+- O: A decision is a **Foundational Constitutional Choice** when it decides the basic authorization of governing authority: 
+
+  - who may govern,
+  - what legitimacy mechanism authorizes them, 
+  - and what durable scope and terms limit that authority. 
+
+  It answers the "who may govern, by what authority, and on what lasting terms" question. It is not the same as an ordinary rights-affecting decision made *within* [Governance](core_05-05_definitions_b_semi_independent.md#governance) **structures, rules, allocation of authority, and processes** that have already been authorized for a **specified system, institution, or bounded decision domain**. 
+
+  
+
+  After those structures are authorized for that domain, proportional voice for materially affected parties routes through [Stakeholder](core_05-05_definitions_b_semi_independent.md#stakeholder) identification and [Stakeholder Participation Weight](core_05-05_definitions_b_semi_independent.md#stakeholder-participation-weight) (including **Article XI** constraints), not through equal-weight foundational tally rules. Owner: [Chapter Ten §4.1](core_10-10_governance.md#41-entitlement-and-eligibility) (*Political-equality floor for foundational constitutional choice*; *Durable political-voice floor*). Rights-layer pointer: Article IX-C (*Governance Participation and Voting Entitlement*). The concept applies under [Sentience Non-Exclusion](core_05-05_definitions_b_semi_independent.md#sentience-non-exclusion).
+  <a id="foundational-constitutional-choice-e"></a>
+  <a id="foundational-collective-choice-constitutional-e"></a>
+
+- E: Identify foundational constitutional choice by the kind of question being decided, not by how large or urgent one decision's effects may be. The question is foundational when it authorizes or durably structures governing authority. It is not an ordinary [Materiality Determination](core_05-05_definitions_b_semi_independent.md#materiality-determination) or stakeholder-weighted decision under [Stakeholder Representation and Participation-Weight Limits (Binding Stakeholder Choice)](core_05-05_definitions_c_dependent_clusters.md#stakeholder-representation-and-participation-weight-limits-binding-collective-choice), including as applied in [Chapter Ten §4.3](core_10-10_governance.md#43-decision-resolution-requirements-for-binding-collective-choice). A foundational question must not be treated as an ordinary high-impact stakeholder decision in order to avoid the political-equality floor. Apply [Sentience Non-Exclusion](core_05-05_definitions_b_semi_independent.md#sentience-non-exclusion). Reject substrate-class, calendar-age, or lineage participation-weight factors. Apply [Procedural Fairness](core_05-05_definitions_b_semi_independent.md#procedural-fairness-constitutional) to any disqualification invoked against participation.
+  <a id="foundational-constitutional-choice-c"></a>
+  <a id="foundational-collective-choice-constitutional-c"></a>
+
 - C: Non-compliant:
   - re-routing foundational questions as high-impact weighted choices under [Stakeholder Representation and Participation-Weight Limits (Binding Stakeholder Choice)](core_05-05_definitions_c_dependent_clusters.md#stakeholder-representation-and-participation-weight-limits-binding-collective-choice) rules so as to defeat equal participation at the authorization layer;
   - nesting impact-weighting inside legitimacy-mechanism design so the mechanism escapes the political-equality floor;
@@ -965,7 +979,7 @@ Admission boundary for this section: Chapter Five entries define constitutional 
 
 - O: Recognition that life-supporting natural systems — including Earth's biosphere as described in Article I-A — have continuity and integrity interests. Those interests must inform interpretation and governance alongside sentient interests, and must not be treated solely as extractive inventory.
 <a id="natural-systems-standing-e"></a>
-- E: Align with [Ecological Integrity](core_05-05_definitions_b_semi_independent.md#ecological-integrity-constitutional), [Environmental Preconditions](core_05-05_definitions_b_semi_independent.md#environmental-preconditions-constitutional), [Harm](core_05-05_definitions_c_dependent_clusters.md#harm), and [Risk](#risk). Article I-A and annex protocols supply operational measures and must not narrow this recognition.
+- E: Align with [Ecological Integrity](core_05-05_definitions_b_semi_independent.md#ecological-integrity-constitutional), [Environmental Preconditions](core_05-05_definitions_b_semi_independent.md#environmental-preconditions-constitutional), [Harm](core_05-05_definitions_c_dependent_clusters.md#harm), and [Risk](#risk). Article I-A and incorporated companion protocols supply operational measures and must not narrow this recognition.
 <a id="natural-systems-standing-c"></a>
 - C: Non-compliant: treating natural systems as lacking protectable interests where Article I-A or binding environmental norms require such consideration.
 
