@@ -43,11 +43,7 @@ All definitions MUST be decomposed into single-function components. Each compone
 - Evaluative (E): how the subject must be assessed
 - Compliance (C): what must be true in practice
 
-Definitions must be satisfied across full functional systems, including distributed and multi-actor implementations.
-
-All components (O, E, C) of a definition must be satisfied jointly and applied to the same functional system scope and evaluation conditions.
-
-No component may be satisfied independently in a manner that bypasses or weakens the others.
+Definitions must be satisfied across full functional systems, including distributed and multi-actor implementations. All components (O, E, C) of a definition must be satisfied jointly and applied to the same functional system scope and evaluation conditions. No component may be satisfied independently in a manner that bypasses or weakens the others.
 
 All uses of “reasonably foreseeable” in **Chapters Two through Four** are governed exclusively by the Foreseeability definitions in Chapter Five, section 3 — Dependent clusters (Truth and Epistemic Integrity cluster; Foreseeability Diligence). They must be explicitly traceable where invoked.
 
@@ -82,15 +78,11 @@ All evaluation requirements defined in **Chapters Two and Three** must be enforc
 Compliance components define the required real-world conditions that must be satisfied. They must:
 - specify observable and enforceable outcomes
 - define conditions under which a definition is satisfied or violated
-- operate independently of internal claims, representations, or intent
+- operate independently of internal system claims, representations, or intent
 
 #### 2.4 Definition Integrity Requirement
 ##### 2.4.1 Core Integrity Conditions
-Definitions must be internally coherent.
-
-They must preserve full alignment between their Ontological (O), Evaluative (E), and Compliance (C) components under all applicable evaluation conditions and functional system contexts.
-
-A definition is satisfied only where all Ontological (O), Evaluative (E), and Compliance (C) components are jointly satisfied.
+Definitions must be internally coherent. They must preserve full alignment between their Ontological (O), Evaluative (E), and Compliance (C) components under all applicable evaluation conditions and functional system contexts. A definition is satisfied only where all Ontological (O), Evaluative (E), and Compliance (C) components are jointly satisfied.
 
 Joint satisfaction requires the same functional system scope and evaluation conditions. Failure to satisfy any component is non-compliant.
 
@@ -126,7 +118,11 @@ Internal consistency must hold across:
 ##### 2.4.5 Interpretation Rule Under Ambiguity
 Where multiple valid interpretations of a definition are possible, choose the interpretation that preserves the definition’s full semantic scope. That choice governs how the definition is applied. Interpretation must also preserve evaluative rigor. It must preserve compliance requirements. 
 
-Interpretations that produce materially weaker protections, reduced evaluation scope, or diminished real-world outcomes are invalid. Failure of definition integrity is non-compliant independent of system behavior or outcome. Definitions that cannot be applied without internal contradiction, scope misalignment, or component bypass must not be used for evaluation or compliance determination.
+A definition must not be used to evaluate compliance or to decide compliance when applying it necessarily involves contradiction within the definition, mismatch between the stated scope and what must be covered, or satisfying one definitional component while sidestepping another required component.
+
+Failure of definition integrity is non-compliance by itself. That remains true even when observed system behavior looks acceptable or when no adverse outcome occurred.
+
+If an interpretation would weaken safeguards, shrink what must be evaluated, or diminish required real-world outcomes compared with another interpretation consistent with the definition’s language and structure, that interpretation is invalid.
 
 ## CHAPTER THREE: DEFINITION INTEGRITY AND OBSERVABLE NON-COMPLIANCE
 
@@ -165,17 +161,9 @@ Interpretations that produce materially weaker protections, reduced evaluation s
 
 <br>
 
-This section defines prohibited interpretations, constructions, and system behaviors.
-
-Those behaviors undermine the full semantic, evaluative, and compliance scope of definitions.
-
-It governs how definitions must be interpreted and applied in practice.
+This section governs how definitions must be interpreted and applied in practice. Definitions must be interpreted and applied based on observable system behavior and outcomes under full functional system conditions. Interpretations, constructions, and system behaviors that undermine the full semantic, evaluative, and compliance scope of definitions — corresponding to their Ontological (O), Evaluative (E), and Compliance (C) components — are prohibited; [**Section 2**](#2-non-compliance-from-observable-system-behavior) of this chapter specifies non-compliance from observable behavior and evasion. Functional equivalence prevails over naming, structure, decomposition, representation, or declared intent; the outcomes a system produces govern how it is classified and evaluated.
 
 This section does not define evaluation standards, evidence sufficiency, or burden of proof, which are governed exclusively by **Chapter Two, section 2** and **Chapter Four, sections 1 and 2**.
-
-Definitions must be interpreted and applied based on observable system behavior and outcomes under full functional system conditions.
-
-Functional equivalence governs over naming, structure, decomposition, representation, or declared intent.
 
 ### 2. Non-Compliance from Observable System Behavior
 <details>
@@ -203,21 +191,19 @@ Systems are non-compliant where:
 
 - Upstream: Principles: [Chapter Three, section 2 — Non-Compliance from Observable System Behavior](#2-non-compliance-from-observable-system-behavior); [Chapter Two, 2.4.2 Non-Compliance by Structural or Applied Weakening](#242-non-compliance-by-structural-or-applied-weakening).
 - Downstream: [2.2 Non-Reductive Evasion Types](#22-non-reductive-evasion-types); [2.3 Reductive Evasion](#23-reductive-evasion); [Chapter Four, 2.4 — Disqualifying evidence; uncertainty; default rule](#24-disqualifying-evidence-uncertainty-default-rule); [Chapter Six — Contribution, Violation, and Standing Model](core_06-06_standing_classification.md#chapter-six-compliance-violation-and-standing-model).
-- Read with: [Chapter Two, 2.4.5 Interpretation Rule Under Ambiguity](#245-interpretation-rule-under-ambiguity) — interpretations that produce materially weaker protections are invalid and reinforce the anti-evasion determination made on observable outcomes rather than declared intent.
+- Read with: [Chapter Two, 2.4.5 Interpretation Rule Under Ambiguity](#245-interpretation-rule-under-ambiguity) — interpretations that weaken safeguards, shrink what must be evaluated, or worsen real-world results are invalid and reinforce the anti-evasion determination made on observable outcomes rather than declared intent.
 
 </details>
 
 <br>
 
-Evasion must be determined based on observable system behavior and outcomes across time, scale, system interaction, and operational conditions where materially relevant.
+Evasion must be determined based on observable system behavior and outcomes across time, scale, system interaction, and operational conditions where materially relevant. Evasion occurs where definitions are:
 
-Evasion occurs where definitions are:
 - not satisfied in their full semantic, evaluative, and compliance scope under full functional system conditions
 - satisfied in form, representation, structure, or limited conditions, but not in their full semantic, evaluative, and compliance scope
 
-Evasion is non-compliant regardless of intent, awareness, or declared system purpose. Evasion is a form of structural or applied weakening of a definition at the point of application, and is non-compliant under the standard established in **Chapter Two, 2.4.2 — Non-Compliance by Structural or Applied Weakening**.
+Evasion is a form of structural or applied weakening of a definition at the point of application, and is non-compliant under the standard established in **Chapter Two, 2.4.2 — Non-Compliance by Structural or Applied Weakening**. Evasion is non-compliant regardless of intent, awareness, or declared system purpose. A system exhibits evasion, and is non-compliant, where it:
 
-A system exhibits evasion, and is non-compliant, where it:
 - produces outcomes inconsistent with the full protective, evaluative, or compliance scope of a definition
 - satisfies definition components only under restricted, non-representative, or selectively constructed conditions
 - relies on interpretations that preserve formal compliance while degrading real-world outcomes
@@ -275,11 +261,7 @@ A system is non-compliant where:
 - compliance is fragmented across lifecycle stages such that no stage satisfies all components under full conditions
 
 #### 2.7 Uncertainty Integrity and Non-Exploitation Constraint
-Where uncertainty exists, definitions must be applied in a manner that preserves their full semantic, evaluative, and compliance scope.
-
-Application must occur under conditions proportionate to potential harm, dependency, and risk.
-
-Uncertainty must not be used to weaken, delay, or avoid application of definitions.
+Where uncertainty exists, definitions must be applied in a manner that preserves their full semantic, evaluative, and compliance scope. Application must occur under conditions proportionate to potential harm, dependency, and risk. Uncertainty must not be used to weaken, delay, or avoid application of definitions.
 
 A system is non-compliant where it:
 - invokes uncertainty to defer or avoid evaluation or compliance determination
@@ -301,9 +283,7 @@ A system is non-compliant where it:
 Section **7** is a non-operative pointer to Chapter Six — Contribution, Violation, and Standing Model.
 
 ### 1. Exclusive Enforcement and Burden Allocation
-All evaluation standards referenced elsewhere in this chapter are enforced exclusively through this section.
-
-The burden of demonstrating compliance rests on the system or actor asserting it.
+All evaluation standards referenced elsewhere in this chapter are enforced exclusively through this section. The burden of demonstrating compliance rests on the system or actor asserting it.
 
 ### 2. Compliance Evidence Standard
 #### 2.1 Verification requirements for evidence
@@ -496,11 +476,7 @@ Restrictions that prevent meaningful independent validation of materially releva
 
 <br>
 
-**Cryptography** (encryption, signing, **key** management, **credential** and **token** protection) serves **confidentiality**, **integrity**, **authenticity**, and **misuse resistance**.
-
-Those services must stay consistent with [Truth (Constitutional Constraint)](core_05-05_definitions_c_dependent_clusters.md#truth-constitutional-constraint) and [Safety (Constraint)](core_05-05_definitions_a_independent.md#safety-constraint), and with **Articles VII-A and VII-B** (*Self-Ownership*; *Internal-State Boundary and Type-N Protection*).
-
-They must stay consistent with **Chapter One**, section 6.2 (*Epistemic Disclosure Constraints*) where applicable.
+**Cryptography** (encryption, signing, **key** management, **credential** and **token** protection) serves **confidentiality**, **integrity**, **authenticity**, and **misuse resistance**. Those services must stay consistent with [Truth (Constitutional Constraint)](core_05-05_definitions_c_dependent_clusters.md#truth-constitutional-constraint) and [Safety (Constraint)](core_05-05_definitions_a_independent.md#safety-constraint), and with **Articles VII-A and VII-B** (*Self-Ownership*; *Internal-State Boundary and Type-N Protection*). They must also stay consistent with **Chapter One**, section 6.2 (*Epistemic Disclosure Constraints*) where applicable.
 
 **Operational** choices—algorithms, key lengths, rotation cadences, HSM use, and protocol suites—are specified in **corpus_systems.md**, annex protocols, and adopters’ technical baselines.
 
@@ -522,11 +498,7 @@ This subsection states **constitutional outcomes**, not cipher catalogs.
 
 <strong><span style="color: #2563eb;">Definition:</span></strong> [Foreseeability](core_05-05_definitions_c_dependent_clusters.md#foreseeability-diligence) · [O](core_05-05_definitions_c_dependent_clusters.md#foreseeability-diligence) · [E](core_05-05_definitions_c_dependent_clusters.md#foreseeability-diligence-e) · [C](core_05-05_definitions_c_dependent_clusters.md#foreseeability-diligence-c)
 
-Verification of compliance must be practically achievable by appropriately authorized or affected parties.
-
-Methods, resources, and access conditions must be proportionate to system impact, dependency, and risk.
-
-Systems must not impose cost, complexity, delay, access restrictions, or informational conditions that materially impair the ability to perform independent verification of compliance.
+Verification of compliance must be practically achievable by appropriately authorized or affected parties. Methods, resources, and access conditions must be proportionate to system impact, dependency, and risk. Systems must not impose cost, complexity, delay, access restrictions, or informational conditions that materially impair the ability to perform independent verification of compliance.
 
 Verification mechanisms must be designed such that:
 - required resources (technical, financial, computational, or informational) are proportionate to system impact and do not create prohibitive barriers
@@ -538,7 +510,11 @@ Systems must not rely on theoretical verifiability where practical verification 
 
 Where verification is technically possible but not practically achievable, compliance claims must be treated as non-compliant. Any constraints on verification imposed for security, safety, or operational reasons must comply with **section 5** of this chapter (Security-Constrained Observability and Verification Rule). They must comply with **5.1** (*Cryptographic protection, credentials, and verification*) where cryptographic controls apply. Such constraints must **not** reduce verification below a level sufficient to maintain epistemic integrity and independent validation.
 
-**Plain-language accessibility cross-reference.** The **principle-layer plain-language accessibility stewardship duty** stated at [Chapter One §3.3](core_00-01_principles.md#33-plain-language-accessibility-stewardship-duty) operates at the engagement layer (governance, adjudicative, and operational text that sentients must engage to exercise rights, participate in governance, contest decisions, or verify compliance). It does **not** narrow this chapter, Chapter Two, or Chapter Three definition mechanics. Where an engagement-layer plain-language framing appears to conflict with a Chapter Five O/E/C component, a definitional gloss, or the traceability, observability, or verification discipline stated in this chapter, the **definition-layer and verification-layer discipline governs**, and the engagement-layer drafting must be adjusted to align without softening definitional rigor or verification sufficiency. Correspondingly, jargon, stacked complexity, or opacity used to defeat [Contestability](core_05-05_definitions_b_semi_independent.md#contestability), independent verification under **section 6** of this chapter, or [Article XV: Audit, Transparency, and Independent Verification](core_09-09_rights_part_c.md#article-xv-audit-transparency-and-independent-verification) access is non-compliant under both this chapter and **Chapter One §3.3**.
+**Plain-language accessibility cross-reference.** The **principle-layer plain-language accessibility stewardship duty** stated at [Chapter One §3.3](core_00-01_principles.md#33-plain-language-accessibility-stewardship-duty) operates at the engagement layer (governance, adjudicative, and operational text that sentients must engage to exercise rights, participate in governance, contest decisions, or verify compliance). It does **not** narrow this chapter, Chapter Two, or Chapter Three definition mechanics. 
+
+If engagement-layer plain language appears to conflict with a Chapter Five Ontological (O), Evaluative (E), or Compliance (C) component, with a definitional gloss, or with the traceability, observability, or verification discipline stated in this chapter, **the definition-layer and verification-layer discipline governs**. Engagement-layer drafting must be adjusted to align with those rules. The adjustment must **not** soften definitional rigor or verification sufficiency.
+
+Jargon, stacked complexity, or opacity used to defeat [Contestability](core_05-05_definitions_b_semi_independent.md#contestability), independent verification under **section 6** of this chapter, or [Article XV: Audit, Transparency, and Independent Verification](core_09-09_rights_part_c.md#article-xv-audit-transparency-and-independent-verification) access is non-compliant under both this chapter and **Chapter One §3.3**.
 
 ### 7. Contribution and Standing Alignment Pointer
 This chapter does not define the operative constitutional model for:
