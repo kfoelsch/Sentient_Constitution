@@ -33,39 +33,20 @@ from ch5_extended_cluster_synth import (  # noqa: E402
     synth_substantive_procedural_fairness,
     transparency_cluster_from_copy,
 )
-CH5 = ROOT / "core_05-05_definitions_a_independent.md"
+CH5 = ROOT / "core_05-05_definitions_c_dependent_clusters.md"
 MAP_OUT = ROOT / "implementation" / "CHAPTER_FIVE_OLD_TO_NEW_MAP.md"
 
-# Stable cluster anchor immediately before each #### heading (plan: unchanged)
+# Stable cluster anchor immediately before each definition-bearing #### heading.
+# Shell-only cluster contexts are co-located with their related Part A/B
+# definitions and must not be regenerated as numbered Part C sections.
 ANCHOR_BY_TITLE: dict[str, str] = {
-    "Accountability, Contestability, Adjudication and Dispute Resolution, Collective Accountability Failure, and Force Majeure": "accountability-contestability-and-collective-accountability-failure-cluster",
-        "Assembly and Collective Organization": "assembly-and-collective-organization-cluster",
-    "Binding Stakeholder Choice": "binding-stakeholder-choice-cluster",
-    "Bodily-Maintenance Access, Safe Conditions, Tenure Security, Environmental Preconditions, Cultural Continuity, Rest, and Anti-Displacement Floor": "safe-conditions-tenure-security-and-environmental-preconditions-cluster",
-    "Capture, Resolution Integrity, and Anti-Capture": "capture-resolution-integrity-and-anti-capture-cluster",
     "Collective Harm Boundary, Harm, and Harassment and Bullying": "collective-harm-boundary-and-harm-cluster",
-    "Consent and Sexual Consent": "consent-and-sexual-consent-cluster",
-    "Corpus, Authority Stack, Supremacy, and Enforceability": "corpus-authority-stack-supremacy-and-enforceability-cluster",
     "Creative Work, Training-Data Use, Attribution, Compensation, and Anti-Displacement": "creative-work-training-data-attribution-compensation-and-anti-displacement-cluster",
-    "Derived and Developing Sentients, Instantiation, and Care Authority": "derived-developing-sentients-instantiation-and-care-authority-cluster",
-    "Ecological Integrity, Footprint, and Sustainability": "ecological-integrity-footprint-and-sustainability-cluster",
-    "Emergency and Contingency": "emergency-and-contingency-cluster",
     "Forum Families and Dispute Routing": "forum-families-and-dispute-routing-cluster",
-    "Governance Architecture, Oversight, Dependency, Decentralization, Concentration, Market Structure, and Exit-Path Integrity": "governance-architecture-oversight-decentralization-and-concentration-cluster",
-    "Movement, Refuge, Non-Statelessness, and Exit Integrity": "movement-refuge-non-statelessness-and-exit-integrity-cluster",
-    "Privacy (Informational)": "privacy-informational-cluster",
-    "Protected Internal-State Boundary and Type-N Anti-Bypass": "protected-internal-state-boundary-and-type-n-anti-bypass-cluster",
-    "Protected Reporting and Anti-Retaliation": "protected-reporting-and-anti-retaliation-cluster",
-    "Proxy Integrity and Indicator-Reality Alignment": "proxy-integrity-and-indicator-reality-alignment-cluster",
     "Self-Determination, Meaningful Agency, Expression, Educational Agency, Reproductive Autonomy, and Volitional Integrity": "self-determination-and-meaningful-agency-cluster",
-    "Stakeholder Status, Emergency, and Participation Weight": "stakeholder-status-emergency-and-participation-weight-cluster",
-    "Standing Inputs, Contribution State, and Violation Findings": "standing-state-contribution-and-violation-cluster",
-    "Strategic Stewardship and Stewardship Defect": "strategic-stewardship-and-stewardship-defect-cluster",
-    "Substantive and Procedural Fairness": "substantive-and-procedural-fairness-cluster",
     "Transparency, Auditability, and Verification": "transparency-auditability-and-verification-cluster",
     "Trust and Trustworthiness": "trust-and-trustworthiness-cluster",
     "Truth and Epistemic Integrity": "truth-and-epistemic-integrity-cluster",
-    "Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm": "use-of-force-autonomous-coercion-and-mass-harm-cluster",
     "Voluntary Agency, Consent, and Anti-Coercion": "voluntary-agency-consent-and-anti-coercion-cluster",
 }
 

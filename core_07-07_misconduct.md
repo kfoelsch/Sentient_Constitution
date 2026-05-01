@@ -87,7 +87,7 @@ For final classification of anti-constitutional misconduct, this chapter control
 
 </details>
 
-<strong><span style="color: #2563eb;">Definition:</span></strong> [Necessity](core_05-05_definitions_a_independent.md#necessity) · [O](core_05-05_definitions_a_independent.md#necessity) · [E](core_05-05_definitions_a_independent.md#necessity-e) · [C](core_05-05_definitions_a_independent.md#necessity-c)
+<strong><span style="color: #2563eb;">Definition:</span></strong> [Necessity](core_05-05_definitions_c_dependent_clusters.md#necessity) · [O](core_05-05_definitions_c_dependent_clusters.md#necessity) · [E](core_05-05_definitions_c_dependent_clusters.md#necessity-e) · [C](core_05-05_definitions_c_dependent_clusters.md#necessity-c)
 
 *In plain terms: evaluators first build one coherent picture of what happened: one episode, one sustained campaign, or another unified incident. They then ask how serious that incident is, using six checks: intent, records, rollback, real-world blockage, forcible takeover, and practical nullification of remedies. They may not split one scheme into artificial fragments to game the slot.*
 
@@ -238,8 +238,8 @@ The absence of overt deception or forcible act does **not** defeat anti-constitu
 
 - [Auditability](core_05-05_definitions_c_dependent_clusters.md#auditability) · [O](core_05-05_definitions_c_dependent_clusters.md#auditability) · [E](core_05-05_definitions_c_dependent_clusters.md#auditability-e) · [C](core_05-05_definitions_c_dependent_clusters.md#auditability-c)
 - [Contestability](core_05-05_definitions_b_semi_independent.md#contestability) · [O](core_05-05_definitions_b_semi_independent.md#contestability) · [E](core_05-05_definitions_b_semi_independent.md#contestability-e) · [C](core_05-05_definitions_b_semi_independent.md#contestability-c)
-- [Necessity](core_05-05_definitions_a_independent.md#necessity) · [O](core_05-05_definitions_a_independent.md#necessity) · [E](core_05-05_definitions_a_independent.md#necessity-e) · [C](core_05-05_definitions_a_independent.md#necessity-c)
-- [Proportionality](core_05-05_definitions_a_independent.md#proportionality) · [O](core_05-05_definitions_a_independent.md#proportionality) · [E](core_05-05_definitions_a_independent.md#proportionality-e) · [C](core_05-05_definitions_a_independent.md#proportionality-c)
+- [Necessity](core_05-05_definitions_c_dependent_clusters.md#necessity) · [O](core_05-05_definitions_c_dependent_clusters.md#necessity) · [E](core_05-05_definitions_c_dependent_clusters.md#necessity-e) · [C](core_05-05_definitions_c_dependent_clusters.md#necessity-c)
+- [Proportionality](core_05-05_definitions_c_dependent_clusters.md#proportionality) · [O](core_05-05_definitions_c_dependent_clusters.md#proportionality) · [E](core_05-05_definitions_c_dependent_clusters.md#proportionality-e) · [C](core_05-05_definitions_c_dependent_clusters.md#proportionality-c)
 
 </details>
 
@@ -321,7 +321,7 @@ This subsection does **not** add an additional slot-assignment criterion beyond 
 
 - Upstream: [§2](#2-criteria-set-for-slot-assignment) (*Criteria set*); [§6.3](#63-flooding-the-zone-and-contest-pathway-denial) (*Flooding the zone — contest-pathway distinction*); [Chapter One §3.2](core_00-01_principles.md#32-truth-epistemic-integrity-constraint) (*Truth / epistemic integrity*); [Chapter One §7.2.1](core_00-01_principles.md#721-preservation-of-epistemic-integrity) (*Preservation of epistemic integrity*).
 - Downstream: [§3](#3-violation-axis-s-7-9-slot-assignment-incident-gravity) (*Violation Axis s = 7–9 slot assignment*); [§5](#5-cross-chapter-discipline) (*Cross-chapter discipline*).
-- Read with: [Info-Sphere](core_05-05_definitions_a_independent.md#info-sphere), [Epistemic Integrity](core_05-05_definitions_c_dependent_clusters.md#epistemic-integrity), [Truth (Constitutional Constraint)](core_05-05_definitions_c_dependent_clusters.md#truth-constitutional-constraint), and [Transparency](core_05-05_definitions_c_dependent_clusters.md#transparency) in **Chapter Five**.
+- Read with: [Info-Sphere](core_05-05_definitions_c_dependent_clusters.md#info-sphere), [Epistemic Integrity](core_05-05_definitions_c_dependent_clusters.md#epistemic-integrity), [Truth (Constitutional Constraint)](core_05-05_definitions_c_dependent_clusters.md#truth-constitutional-constraint), and [Transparency](core_05-05_definitions_c_dependent_clusters.md#transparency) in **Chapter Five**.
 - Rights and verification: [Article V-H: Expression, Assembly, and Press](core_09-09_rights_part_b.md#article-v-h-expression-assembly-and-press) and [Article XV: Audit, Transparency, and Independent Verification](core_09-09_rights_part_c.md#article-xv-audit-transparency-and-independent-verification) in **Chapter Nine**. These supply rights floors and verification discipline without relocating slot assignment.
 - Implementation context: adopted **[corpus_systems.md](corpus_systems.md)** and institutional implementation under **Chapter Fourteen** where materially relevant.
 
@@ -331,7 +331,7 @@ This subsection does **not** add an additional slot-assignment criterion beyond 
 <summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
 
 - [Epistemic Integrity](core_05-05_definitions_c_dependent_clusters.md#epistemic-integrity) · [O](core_05-05_definitions_c_dependent_clusters.md#epistemic-integrity-o) · [E](core_05-05_definitions_c_dependent_clusters.md#epistemic-integrity-e) · [C](core_05-05_definitions_c_dependent_clusters.md#epistemic-integrity-c)
-- [Info-Sphere](core_05-05_definitions_a_independent.md#info-sphere) · [O](core_05-05_definitions_a_independent.md#info-sphere) · [E](core_05-05_definitions_a_independent.md#info-sphere-e) · [C](core_05-05_definitions_a_independent.md#info-sphere-c)
+- [Info-Sphere](core_05-05_definitions_c_dependent_clusters.md#info-sphere) · [O](core_05-05_definitions_c_dependent_clusters.md#info-sphere) · [E](core_05-05_definitions_c_dependent_clusters.md#info-sphere-e) · [C](core_05-05_definitions_c_dependent_clusters.md#info-sphere-c)
 - [Truth (Constitutional Constraint)](core_05-05_definitions_c_dependent_clusters.md#truth-constitutional-constraint) · [O](core_05-05_definitions_c_dependent_clusters.md#truth-constitutional-constraint-o) · [E](core_05-05_definitions_c_dependent_clusters.md#truth-constitutional-constraint-e) · [C](core_05-05_definitions_c_dependent_clusters.md#truth-constitutional-constraint-c)
 - [Transparency](core_05-05_definitions_c_dependent_clusters.md#transparency) · [O](core_05-05_definitions_c_dependent_clusters.md#transparency) · [E](core_05-05_definitions_c_dependent_clusters.md#transparency-e) · [C](core_05-05_definitions_c_dependent_clusters.md#transparency-c)
 
@@ -380,7 +380,7 @@ This subsection does **not** add an additional slot-assignment criterion beyond 
 
 - Upstream: [§2](#2-criteria-set-for-slot-assignment) (*Criteria set*); [§3](#3-violation-axis-s-7-9-slot-assignment-incident-gravity) (*Violation Axis s = 7–9 slot assignment*); [§4](#4-due-process-safeguards-for-slot-classification) (*Due-process safeguards*).
 - Integrity and governance context: [Chapter Eight](core_08-08_forum.md#chapter-eight-forums-and-jurisdiction) for Integrity-family routing where final Chapter Seven classification is the dominant stake; [Chapter Ten](core_10-10_governance.md#chapter-ten-constitutional-contract-legitimacy-authorization-and-stewardship) where governing authority, selection, or stewardship legitimacy is materially distorted.
-- Read with: [Accountability](core_05-05_definitions_b_semi_independent.md#accountability), [Auditability](core_05-05_definitions_c_dependent_clusters.md#auditability), conflict controls, [Incentive Alignment](core_05-05_definitions_a_independent.md#incentive-alignment), [Oversight](core_05-05_definitions_b_semi_independent.md#oversight-constitutional), [Procedural Fairness](core_05-05_definitions_b_semi_independent.md#procedural-fairness-constitutional), and [System Capture](core_05-05_definitions_a_independent.md#system-capture).
+- Read with: [Accountability](core_05-05_definitions_b_semi_independent.md#accountability), [Auditability](core_05-05_definitions_c_dependent_clusters.md#auditability), conflict controls, [Incentive Alignment](core_05-05_definitions_a_independent.md#incentive-alignment), [Oversight](core_05-05_definitions_b_semi_independent.md#oversight-constitutional), [Procedural Fairness](core_05-05_definitions_b_semi_independent.md#procedural-fairness-constitutional), and [System Capture](core_05-05_definitions_c_dependent_clusters.md#system-capture).
 - Implementation context: adopted [corpus_joint_structure.md](corpus_joint_structure.md) anti-corruption and undue-influence auditability controls and adopted [corpus_systems.md](corpus_systems.md) incentive-governance and funding-stewardship controls where materially relevant.
 
 </details>
@@ -393,7 +393,7 @@ This subsection does **not** add an additional slot-assignment criterion beyond 
 - [Incentive Alignment](core_05-05_definitions_a_independent.md#incentive-alignment) · [O](core_05-05_definitions_a_independent.md#incentive-alignment) · [E](core_05-05_definitions_a_independent.md#incentive-alignment-e) · [C](core_05-05_definitions_a_independent.md#incentive-alignment-c)
 - [Oversight](core_05-05_definitions_b_semi_independent.md#oversight-constitutional) · [O](core_05-05_definitions_b_semi_independent.md#oversight-constitutional) · [E](core_05-05_definitions_b_semi_independent.md#oversight-constitutional-e) · [C](core_05-05_definitions_b_semi_independent.md#oversight-constitutional-c)
 - [Procedural Fairness](core_05-05_definitions_b_semi_independent.md#procedural-fairness-constitutional) · [O](core_05-05_definitions_b_semi_independent.md#procedural-fairness-constitutional) · [E](core_05-05_definitions_b_semi_independent.md#procedural-fairness-constitutional-e) · [C](core_05-05_definitions_b_semi_independent.md#procedural-fairness-constitutional-c)
-- [System Capture](core_05-05_definitions_a_independent.md#system-capture) · [O](core_05-05_definitions_a_independent.md#system-capture) · [E](core_05-05_definitions_a_independent.md#system-capture-e) · [C](core_05-05_definitions_a_independent.md#system-capture-c)
+- [System Capture](core_05-05_definitions_c_dependent_clusters.md#system-capture) · [O](core_05-05_definitions_c_dependent_clusters.md#system-capture) · [E](core_05-05_definitions_c_dependent_clusters.md#system-capture-e) · [C](core_05-05_definitions_c_dependent_clusters.md#system-capture-c)
 
 </details>
 
@@ -425,7 +425,7 @@ This subsection does **not** add an additional slot-assignment criterion beyond 
 
 - Upstream: [§2](#2-criteria-set-for-slot-assignment) (*Criteria set*); [§4](#4-due-process-safeguards-for-slot-classification) (*Due-process safeguards*); [§5](#5-cross-chapter-discipline) (*Cross-chapter discipline*).
 - Standing and role effects: [Chapter Six](core_06-06_standing_classification.md#chapter-six-compliance-violation-and-standing-model) for verified inputs and standing cells; [Article XVIII](core_09-09_rights_part_c.md#article-xviii-standing-reputation-and-participation-status) for standing, reputation, and participation status; [Chapter Ten §5](core_10-10_governance.md#5-authorized-roles-competency-development-and-contribution) for authorized-role trustworthiness.
-- Read with: [Accountability](core_05-05_definitions_b_semi_independent.md#accountability), [Contestability](core_05-05_definitions_b_semi_independent.md#contestability), [Procedural Fairness](core_05-05_definitions_b_semi_independent.md#procedural-fairness-constitutional), [Proportionality](core_05-05_definitions_a_independent.md#proportionality), and [Trust](core_05-05_definitions_c_dependent_clusters.md#trust).
+- Read with: [Accountability](core_05-05_definitions_b_semi_independent.md#accountability), [Contestability](core_05-05_definitions_b_semi_independent.md#contestability), [Procedural Fairness](core_05-05_definitions_b_semi_independent.md#procedural-fairness-constitutional), [Proportionality](core_05-05_definitions_c_dependent_clusters.md#proportionality), and [Trust](core_05-05_definitions_c_dependent_clusters.md#trust).
 
 </details>
 

@@ -16,7 +16,7 @@ Read this file together with [core_09-09_rights_part_a.md](core_09-09_rights_par
 
 - [Trustworthiness](core_05-05_definitions_c_dependent_clusters.md#trustworthiness) · [O](core_05-05_definitions_c_dependent_clusters.md#trustworthiness) · [E](core_05-05_definitions_c_dependent_clusters.md#trustworthiness-e) · [C](core_05-05_definitions_c_dependent_clusters.md#trustworthiness-c)
 - [Trust](core_05-05_definitions_c_dependent_clusters.md#trust) · [O](core_05-05_definitions_c_dependent_clusters.md#trust) · [E](core_05-05_definitions_c_dependent_clusters.md#trust-e) · [C](core_05-05_definitions_c_dependent_clusters.md#trust-c)
-- [Wellbeing](core_05-05_definitions_a_independent.md#wellbeing) · [O](core_05-05_definitions_a_independent.md#wellbeing) · [E](core_05-05_definitions_a_independent.md#wellbeing-e) · [C](core_05-05_definitions_a_independent.md#wellbeing-c)
+- [Wellbeing](core_05-05_definitions_c_dependent_clusters.md#wellbeing) · [O](core_05-05_definitions_c_dependent_clusters.md#wellbeing) · [E](core_05-05_definitions_c_dependent_clusters.md#wellbeing-e) · [C](core_05-05_definitions_c_dependent_clusters.md#wellbeing-c)
 - [Dependency](core_05-05_definitions_a_independent.md#dependency) · [O](core_05-05_definitions_a_independent.md#dependency) · [E](core_05-05_definitions_a_independent.md#dependency-e) · [C](core_05-05_definitions_a_independent.md#dependency-c)
 
 </details>
@@ -64,7 +64,7 @@ Trustworthiness must be evaluated across time, scale, and dependency relationshi
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
 
-- [Good Faith](core_05-05_definitions_a_independent.md#good-faith) · [O](core_05-05_definitions_a_independent.md#good-faith) · [E](core_05-05_definitions_a_independent.md#good-faith-e) · [C](core_05-05_definitions_a_independent.md#good-faith-c)
+- [Good Faith](core_05-05_definitions_c_dependent_clusters.md#good-faith) · [O](core_05-05_definitions_c_dependent_clusters.md#good-faith) · [E](core_05-05_definitions_c_dependent_clusters.md#good-faith-e) · [C](core_05-05_definitions_c_dependent_clusters.md#good-faith-c)
 - [Redress and Remediation](core_05-05_definitions_a_independent.md#redress-and-remediation-constitutional) · [O](core_05-05_definitions_a_independent.md#redress-and-remediation-constitutional) · [E](core_05-05_definitions_a_independent.md#redress-and-remediation-constitutional-e) · [C](core_05-05_definitions_a_independent.md#redress-and-remediation-constitutional-c)
 - [Protected Reporting (Whistleblowing)](core_05-05_definitions_b_semi_independent.md#protected-reporting-whistleblowing) · [O](core_05-05_definitions_b_semi_independent.md#protected-reporting-whistleblowing) · [E](core_05-05_definitions_b_semi_independent.md#protected-reporting-whistleblowing-e) · [C](core_05-05_definitions_b_semi_independent.md#protected-reporting-whistleblowing-c)
 
@@ -165,7 +165,7 @@ Trustworthiness must be evaluated across time, scale, and dependency relationshi
 
 - [Truth (Constitutional Constraint)](core_05-05_definitions_c_dependent_clusters.md#truth-constitutional-constraint) · [O](core_05-05_definitions_c_dependent_clusters.md#truth-constitutional-constraint-o) · [E](core_05-05_definitions_c_dependent_clusters.md#truth-constitutional-constraint-e) · [C](core_05-05_definitions_c_dependent_clusters.md#truth-constitutional-constraint-c)
 - [Contestability](core_05-05_definitions_b_semi_independent.md#contestability) · [O](core_05-05_definitions_b_semi_independent.md#contestability) · [E](core_05-05_definitions_b_semi_independent.md#contestability-e) · [C](core_05-05_definitions_b_semi_independent.md#contestability-c)
-- [Necessity](core_05-05_definitions_a_independent.md#necessity) · [O](core_05-05_definitions_a_independent.md#necessity) · [E](core_05-05_definitions_a_independent.md#necessity-e) · [C](core_05-05_definitions_a_independent.md#necessity-c)
+- [Necessity](core_05-05_definitions_c_dependent_clusters.md#necessity) · [O](core_05-05_definitions_c_dependent_clusters.md#necessity) · [E](core_05-05_definitions_c_dependent_clusters.md#necessity-e) · [C](core_05-05_definitions_c_dependent_clusters.md#necessity-c)
 
 </details>
 
@@ -197,12 +197,12 @@ Trustworthiness must be evaluated across time, scale, and dependency relationshi
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
 
-- [Self-Healing](core_05-05_definitions_a_independent.md#self-healing-constitutional) · [O](core_05-05_definitions_a_independent.md#self-healing-constitutional) · [E](core_05-05_definitions_a_independent.md#self-healing-constitutional-e) · [C](core_05-05_definitions_a_independent.md#self-healing-constitutional-c)
-- [Reversibility](core_05-05_definitions_a_independent.md#reversibility-constitutional) · [O](core_05-05_definitions_a_independent.md#reversibility-constitutional) · [E](core_05-05_definitions_a_independent.md#reversibility-constitutional-e) · [C](core_05-05_definitions_a_independent.md#reversibility-constitutional-c)
-- [Cascading Failure](core_05-05_definitions_a_independent.md#cascading-failure) · [O](core_05-05_definitions_a_independent.md#cascading-failure) · [E](core_05-05_definitions_a_independent.md#cascading-failure-e) · [C](core_05-05_definitions_a_independent.md#cascading-failure-c)
+- [Self-Healing](core_05-05_definitions_c_dependent_clusters.md#self-healing-constitutional) · [O](core_05-05_definitions_c_dependent_clusters.md#self-healing-constitutional) · [E](core_05-05_definitions_c_dependent_clusters.md#self-healing-constitutional-e) · [C](core_05-05_definitions_c_dependent_clusters.md#self-healing-constitutional-c)
+- [Reversibility](core_05-05_definitions_c_dependent_clusters.md#reversibility-constitutional) · [O](core_05-05_definitions_c_dependent_clusters.md#reversibility-constitutional) · [E](core_05-05_definitions_c_dependent_clusters.md#reversibility-constitutional-e) · [C](core_05-05_definitions_c_dependent_clusters.md#reversibility-constitutional-c)
+- [Cascading Failure](core_05-05_definitions_c_dependent_clusters.md#cascading-failure) · [O](core_05-05_definitions_c_dependent_clusters.md#cascading-failure) · [E](core_05-05_definitions_c_dependent_clusters.md#cascading-failure-e) · [C](core_05-05_definitions_c_dependent_clusters.md#cascading-failure-c)
 - [Auditability](core_05-05_definitions_c_dependent_clusters.md#auditability) · [O](core_05-05_definitions_c_dependent_clusters.md#auditability) · [E](core_05-05_definitions_c_dependent_clusters.md#auditability-e) · [C](core_05-05_definitions_c_dependent_clusters.md#auditability-c)
 - [Contestability](core_05-05_definitions_b_semi_independent.md#contestability) · [O](core_05-05_definitions_b_semi_independent.md#contestability) · [E](core_05-05_definitions_b_semi_independent.md#contestability-e) · [C](core_05-05_definitions_b_semi_independent.md#contestability-c)
-- [Avoidable Burden](core_05-05_definitions_a_independent.md#avoidable-burden) · [O](core_05-05_definitions_a_independent.md#avoidable-burden) · [E](core_05-05_definitions_a_independent.md#avoidable-burden-e) · [C](core_05-05_definitions_a_independent.md#avoidable-burden-c)
+- [Avoidable Burden](core_05-05_definitions_c_dependent_clusters.md#avoidable-burden) · [O](core_05-05_definitions_c_dependent_clusters.md#avoidable-burden) · [E](core_05-05_definitions_c_dependent_clusters.md#avoidable-burden-e) · [C](core_05-05_definitions_c_dependent_clusters.md#avoidable-burden-c)
 
 </details>
 
@@ -210,15 +210,15 @@ Trustworthiness must be evaluated across time, scale, and dependency relationshi
 
 *In plain terms: systems must be able to detect, contain, and recover from faults — but recovery cannot be used to hide failures, silently narrow rights, or skip root-cause work. Safe failure beats speculative auto-repair.*
 
-- **Recovery baseline:** Systems within scope of this Article must implement recovery behavior proportionate to their impact, dependency, and risk, consistent with [**4.1 Resilience and Self-Healing Design**](core_00-01_principles.md#41-resilience-and-self-healing-design) in **Chapter One** and [**Self-Healing**](core_05-05_definitions_a_independent.md#self-healing-constitutional) in **Chapter Five**.
+- **Recovery baseline:** Systems within scope of this Article must implement recovery behavior proportionate to their impact, dependency, and risk, consistent with [**4.1 Resilience and Self-Healing Design**](core_00-01_principles.md#41-resilience-and-self-healing-design) in **Chapter One** and [**Self-Healing**](core_05-05_definitions_c_dependent_clusters.md#self-healing-constitutional) in **Chapter Five**.
   - Detailed recovery-architecture requirements appear in incorporated implementation text, including **[corpus_systems.md](corpus_systems.md), Protocol A** (*System Design, Testing, Verification, and Deployment*), **Protocol S4** (*Adaptive Sustainability and Ecosystem Resilience*), and **Protocol D** (*Decentralized Constitutional Continuity and Partition Resilience*).
   - That implementation text must not narrow this Article.
 - **Detection:** Recovery requires timely, observable detection of fault, degradation, or constitutional-constraint violation sufficient to satisfy **Article XV-A** [Auditability](core_05-05_definitions_c_dependent_clusters.md#auditability) — for the recovery path itself, not only the steady state.
 - **Containment:** Recovery must bound blast radius. Recovery actions must not:
-  - propagate failure through [Cascading Failure](core_05-05_definitions_a_independent.md#cascading-failure) pathways;
+  - propagate failure through [Cascading Failure](core_05-05_definitions_c_dependent_clusters.md#cascading-failure) pathways;
   - alter persistent state, credentials, obligations, or configurations attributed to sentients, operators, or other systems **outside** the declared fault-and-recovery scope, except through changes that satisfy **Article XV-A** [Auditability](core_05-05_definitions_c_dependent_clusters.md#auditability) for observability and attribution and that, where others are materially affected, include proportionate notice, authorization, or contestable handoff consistent with **Chapter Nine**;
   - expand authority beyond the pre-fault envelope.
-- **Safe-failure preference:** Where correct recovery is uncertain, safe failure, quarantine, or controlled handoff must be preferred over speculative auto-repair. [Reversibility](core_05-05_definitions_a_independent.md#reversibility-constitutional) preference under **Article XXI-B** governs tie-breaking.
+- **Safe-failure preference:** Where correct recovery is uncertain, safe failure, quarantine, or controlled handoff must be preferred over speculative auto-repair. [Reversibility](core_05-05_definitions_c_dependent_clusters.md#reversibility-constitutional) preference under **Article XXI-B** governs tie-breaking.
 - **Non-masking:** Automatic recovery must not suppress, overwrite, or delay evidence needed for root-cause analysis under **Article XXI**.
   - Recovery actions, recovery attempts, and suppressed recovery attempts are themselves auditable events under **Article XV-A** and are within the scope of [Contestability](core_05-05_definitions_b_semi_independent.md#contestability).
 - **Rights-floor continuity:** Degraded operating modes must preserve the **Chapter Nine** rights floor, or must escalate rather than silently narrow it.
@@ -229,15 +229,15 @@ Trustworthiness must be evaluated across time, scale, and dependency relationshi
   - an open root-cause obligation under **Article XXI**;
   - a disclosed expected-closure timeline under **Article XV-A**.
   
-  Reducing operator burden consistent with [Avoidable Burden](core_05-05_definitions_a_independent.md#avoidable-burden) under **Chapter One §6.1.4** must not be used to defer indefinite closure of defects that materially affect safety or the rights floor.
+  Reducing operator burden consistent with [Avoidable Burden](core_05-05_definitions_c_dependent_clusters.md#avoidable-burden) under **Chapter One §6.1.4** must not be used to defer indefinite closure of defects that materially affect safety or the rights floor.
 
 ### Article XIII: Security, Intelligence, Force, and Autonomous Coercive Systems
 
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
 
-- [Necessity](core_05-05_definitions_a_independent.md#necessity) · [O](core_05-05_definitions_a_independent.md#necessity) · [E](core_05-05_definitions_a_independent.md#necessity-e) · [C](core_05-05_definitions_a_independent.md#necessity-c)
-- [Proportionality](core_05-05_definitions_a_independent.md#proportionality) · [O](core_05-05_definitions_a_independent.md#proportionality) · [E](core_05-05_definitions_a_independent.md#proportionality-e) · [C](core_05-05_definitions_a_independent.md#proportionality-c)
+- [Necessity](core_05-05_definitions_c_dependent_clusters.md#necessity) · [O](core_05-05_definitions_c_dependent_clusters.md#necessity) · [E](core_05-05_definitions_c_dependent_clusters.md#necessity-e) · [C](core_05-05_definitions_c_dependent_clusters.md#necessity-c)
+- [Proportionality](core_05-05_definitions_c_dependent_clusters.md#proportionality) · [O](core_05-05_definitions_c_dependent_clusters.md#proportionality) · [E](core_05-05_definitions_c_dependent_clusters.md#proportionality-e) · [C](core_05-05_definitions_c_dependent_clusters.md#proportionality-c)
 - [Use of Force](core_05-05_definitions_b_semi_independent.md#use-of-force-constitutional) · [O](core_05-05_definitions_b_semi_independent.md#use-of-force-constitutional) · [E](core_05-05_definitions_b_semi_independent.md#use-of-force-constitutional-e) · [C](core_05-05_definitions_b_semi_independent.md#use-of-force-constitutional-c)
 
 </details>
@@ -257,8 +257,8 @@ This Article states the rights-floor for **exceptional institutional power**: co
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
 
-- [Necessity](core_05-05_definitions_a_independent.md#necessity) · [O](core_05-05_definitions_a_independent.md#necessity) · [E](core_05-05_definitions_a_independent.md#necessity-e) · [C](core_05-05_definitions_a_independent.md#necessity-c)
-- [Proportionality](core_05-05_definitions_a_independent.md#proportionality) · [O](core_05-05_definitions_a_independent.md#proportionality) · [E](core_05-05_definitions_a_independent.md#proportionality-e) · [C](core_05-05_definitions_a_independent.md#proportionality-c)
+- [Necessity](core_05-05_definitions_c_dependent_clusters.md#necessity) · [O](core_05-05_definitions_c_dependent_clusters.md#necessity) · [E](core_05-05_definitions_c_dependent_clusters.md#necessity-e) · [C](core_05-05_definitions_c_dependent_clusters.md#necessity-c)
+- [Proportionality](core_05-05_definitions_c_dependent_clusters.md#proportionality) · [O](core_05-05_definitions_c_dependent_clusters.md#proportionality) · [E](core_05-05_definitions_c_dependent_clusters.md#proportionality-e) · [C](core_05-05_definitions_c_dependent_clusters.md#proportionality-c)
 - [Protected Internal-State Boundary](core_05-05_definitions_b_semi_independent.md#protected-internal-state-boundary-constitutional) · [O](core_05-05_definitions_b_semi_independent.md#protected-internal-state-boundary-constitutional) · [E](core_05-05_definitions_b_semi_independent.md#protected-internal-state-boundary-constitutional-e) · [C](core_05-05_definitions_b_semi_independent.md#protected-internal-state-boundary-constitutional-c)
 
 </details>
@@ -342,7 +342,7 @@ This Article states the rights-floor for **exceptional institutional power**: co
 
 - Upstream: Principles: Chapter One [3.1 Safety](core_00-01_principles.md#31-safety-harm-constraint), [6.1.2 Necessity](core_00-01_principles.md#612-necessity), [6.3 Freedom-Limitation Constraints](core_00-01_principles.md#63-freedom-limitation-constraints), [6.4.1 Rights-Collision Decision Test](core_00-01_principles.md#641-rights-collision-decision-test), [8. Prohibition on Absolute Override](core_00-01_principles.md#8-prohibition-on-absolute-override).
 - Downstream: **Article I-A** environmental preconditions, **Article I-D** existential-risk scrutiny, **Article V-A** dignity, **Article XIII-A** covert-power limits (overt-power counterpart), **Article XXIII-D** emergency-measure limits, **Article XXIII** conflict resolution, **Article XXV** transition governance. Cross-reference: **Article XXIII-B** (*Categorical prohibition of irreversible sanction as deprivation of life*) and Chapter Five *[Irreversible Sanction](core_05-05_definitions_b_semi_independent.md#irreversible-sanction-constitutional)* — this article does not create, extend, or predicate irreversible sanction authority; see *Non-Conflation* below.
-- Read with: [Chapter Five §3.40 *Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm*](core_05-05_definitions_c_dependent_clusters.md#use-of-force-autonomous-coercion-and-mass-harm-cluster) (joint invocation where materially implicated); Chapter Five *Use of Force*, *Weapons of Mass Harm*, *Combatant / Non-Combatant Distinction*, *[Irreversible Sanction](core_05-05_definitions_b_semi_independent.md#irreversible-sanction-constitutional)*, *Existential Risk*, *Reversibility*, *Redress and Remediation*.
+- Read with: [Chapter Five §3.38 *Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm*](core_05-05_definitions_b_semi_independent.md#use-of-force-autonomous-coercion-and-mass-harm-cluster) (joint invocation where materially implicated); Chapter Five *Use of Force*, *Weapons of Mass Harm*, *Combatant / Non-Combatant Distinction*, *[Irreversible Sanction](core_05-05_definitions_b_semi_independent.md#irreversible-sanction-constitutional)*, *Existential Risk*, *Reversibility*, *Redress and Remediation*.
 
 </details>
 
@@ -405,7 +405,7 @@ This Article states the rights-floor for **exceptional institutional power**: co
 
 - Upstream: Principles: Chapter One [3.1 Safety](core_00-01_principles.md#31-safety-harm-constraint), [4. Trust](core_00-01_principles.md#4-system-stability-enabler-trust-coordination-integrity), [6.1.1 Proportionality](core_00-01_principles.md#611-proportionality), [6.1.2 Necessity](core_00-01_principles.md#612-necessity), [7.2.1 Alignment Requirement](core_00-01_principles.md#721-alignment-requirement), [8. Prohibition on Absolute Override](core_00-01_principles.md#8-prohibition-on-absolute-override).
 - Downstream: **Article I-D** existential-risk scrutiny, **Article IX-A** freedom from manipulation, **Article XIII-A** covert-power limits, **Article XIII-B** overt-force floor, **Article XII-A** reliability and trustworthiness baseline (systems-layer counterpart), **Article XII-E** autonomy-stewardship and autonomy-scaling, **Article XII-F** resilience and self-healing baseline. Cross-reference: **Article XXIII-B** (*Categorical prohibition of irreversible sanction as deprivation of life*) and Chapter Five *[Irreversible Sanction](core_05-05_definitions_b_semi_independent.md#irreversible-sanction-constitutional)* — this Article does not authorize, broaden, or supply a constitutional predicate for irreversible sanction; see *Non-Conflation* below.
-- Read with: [Chapter Five §3.40 *Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm*](core_05-05_definitions_c_dependent_clusters.md#use-of-force-autonomous-coercion-and-mass-harm-cluster) (joint invocation where materially implicated); Chapter Five *Autonomous Lethal System*, *Autonomous Coercion Tool*, *[Irreversible Sanction](core_05-05_definitions_b_semi_independent.md#irreversible-sanction-constitutional)*, *Coercion and Manipulation*, *Reversibility*. Systems-layer companion: **[corpus_systems.md](corpus_systems.md), Chapter S2** classification.
+- Read with: [Chapter Five §3.38 *Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm*](core_05-05_definitions_b_semi_independent.md#use-of-force-autonomous-coercion-and-mass-harm-cluster) (joint invocation where materially implicated); Chapter Five *Autonomous Lethal System*, *Autonomous Coercion Tool*, *[Irreversible Sanction](core_05-05_definitions_b_semi_independent.md#irreversible-sanction-constitutional)*, *Coercion and Manipulation*, *Reversibility*. Systems-layer companion: **[corpus_systems.md](corpus_systems.md), Chapter S2** classification.
 
 </details>
 
@@ -631,7 +631,7 @@ They operate consistently with **Chapters Two through Four**, including exclusiv
 
 - [Oversight](core_05-05_definitions_b_semi_independent.md#oversight-constitutional) · [O](core_05-05_definitions_b_semi_independent.md#oversight-constitutional) · [E](core_05-05_definitions_b_semi_independent.md#oversight-constitutional-e) · [C](core_05-05_definitions_b_semi_independent.md#oversight-constitutional-c)
 - [Contestability](core_05-05_definitions_b_semi_independent.md#contestability) · [O](core_05-05_definitions_b_semi_independent.md#contestability) · [E](core_05-05_definitions_b_semi_independent.md#contestability-e) · [C](core_05-05_definitions_b_semi_independent.md#contestability-c)
-- [System Capture](core_05-05_definitions_a_independent.md#system-capture) · [O](core_05-05_definitions_a_independent.md#system-capture) · [E](core_05-05_definitions_a_independent.md#system-capture-e) · [C](core_05-05_definitions_a_independent.md#system-capture-c)
+- [System Capture](core_05-05_definitions_c_dependent_clusters.md#system-capture) · [O](core_05-05_definitions_c_dependent_clusters.md#system-capture) · [E](core_05-05_definitions_c_dependent_clusters.md#system-capture-e) · [C](core_05-05_definitions_c_dependent_clusters.md#system-capture-c)
 
 </details>
 
@@ -655,7 +655,7 @@ They operate consistently with **Chapters Two through Four**, including exclusiv
 
 - [Auditability](core_05-05_definitions_c_dependent_clusters.md#auditability) · [O](core_05-05_definitions_c_dependent_clusters.md#auditability) · [E](core_05-05_definitions_c_dependent_clusters.md#auditability-e) · [C](core_05-05_definitions_c_dependent_clusters.md#auditability-c)
 - [Contestability](core_05-05_definitions_b_semi_independent.md#contestability) · [O](core_05-05_definitions_b_semi_independent.md#contestability) · [E](core_05-05_definitions_b_semi_independent.md#contestability-e) · [C](core_05-05_definitions_b_semi_independent.md#contestability-c)
-- [Proportionality](core_05-05_definitions_a_independent.md#proportionality) · [O](core_05-05_definitions_a_independent.md#proportionality) · [E](core_05-05_definitions_a_independent.md#proportionality-e) · [C](core_05-05_definitions_a_independent.md#proportionality-c)
+- [Proportionality](core_05-05_definitions_c_dependent_clusters.md#proportionality) · [O](core_05-05_definitions_c_dependent_clusters.md#proportionality) · [E](core_05-05_definitions_c_dependent_clusters.md#proportionality-e) · [C](core_05-05_definitions_c_dependent_clusters.md#proportionality-c)
 
 </details>
 
@@ -680,8 +680,8 @@ They operate consistently with **Chapters Two through Four**, including exclusiv
 - [Risk](core_05-05_definitions_a_independent.md#risk) · [O](core_05-05_definitions_a_independent.md#risk) · [E](core_05-05_definitions_a_independent.md#risk-e) · [C](core_05-05_definitions_a_independent.md#risk-c)
 - [Materiality](core_05-05_definitions_b_semi_independent.md#materiality-determination) · [O](core_05-05_definitions_b_semi_independent.md#materiality-determination) · [E](core_05-05_definitions_b_semi_independent.md#materiality-determination-e) · [C](core_05-05_definitions_b_semi_independent.md#materiality-determination-c)
 - [Dependency](core_05-05_definitions_a_independent.md#dependency) · [O](core_05-05_definitions_a_independent.md#dependency) · [E](core_05-05_definitions_a_independent.md#dependency-e) · [C](core_05-05_definitions_a_independent.md#dependency-c)
-- [Reversibility](core_05-05_definitions_a_independent.md#reversibility-constitutional) · [O](core_05-05_definitions_a_independent.md#reversibility-constitutional) · [E](core_05-05_definitions_a_independent.md#reversibility-constitutional-e) · [C](core_05-05_definitions_a_independent.md#reversibility-constitutional-c)
-- [Safety (Constraint)](core_05-05_definitions_a_independent.md#safety-constraint) · [O](core_05-05_definitions_a_independent.md#safety-constraint) · [E](core_05-05_definitions_a_independent.md#safety-constraint-e) · [C](core_05-05_definitions_a_independent.md#safety-constraint-c)
+- [Reversibility](core_05-05_definitions_c_dependent_clusters.md#reversibility-constitutional) · [O](core_05-05_definitions_c_dependent_clusters.md#reversibility-constitutional) · [E](core_05-05_definitions_c_dependent_clusters.md#reversibility-constitutional-e) · [C](core_05-05_definitions_c_dependent_clusters.md#reversibility-constitutional-c)
+- [Safety (Constraint)](core_05-05_definitions_c_dependent_clusters.md#safety-constraint) · [O](core_05-05_definitions_c_dependent_clusters.md#safety-constraint) · [E](core_05-05_definitions_c_dependent_clusters.md#safety-constraint-e) · [C](core_05-05_definitions_c_dependent_clusters.md#safety-constraint-c)
 - [Epistemic Integrity](core_05-05_definitions_c_dependent_clusters.md#epistemic-integrity) · [O](core_05-05_definitions_c_dependent_clusters.md#epistemic-integrity-o) · [E](core_05-05_definitions_c_dependent_clusters.md#epistemic-integrity-e) · [C](core_05-05_definitions_c_dependent_clusters.md#epistemic-integrity-c)
 - [Contestability](core_05-05_definitions_b_semi_independent.md#contestability) · [O](core_05-05_definitions_b_semi_independent.md#contestability) · [E](core_05-05_definitions_b_semi_independent.md#contestability-e) · [C](core_05-05_definitions_b_semi_independent.md#contestability-c)
 
@@ -735,9 +735,9 @@ Sentients have the right to stewardship that preserves safety, epistemic integri
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
 
-- [Reversibility](core_05-05_definitions_a_independent.md#reversibility-constitutional) · [O](core_05-05_definitions_a_independent.md#reversibility-constitutional) · [E](core_05-05_definitions_a_independent.md#reversibility-constitutional-e) · [C](core_05-05_definitions_a_independent.md#reversibility-constitutional-c)
+- [Reversibility](core_05-05_definitions_c_dependent_clusters.md#reversibility-constitutional) · [O](core_05-05_definitions_c_dependent_clusters.md#reversibility-constitutional) · [E](core_05-05_definitions_c_dependent_clusters.md#reversibility-constitutional-e) · [C](core_05-05_definitions_c_dependent_clusters.md#reversibility-constitutional-c)
 - [Risk](core_05-05_definitions_a_independent.md#risk) · [O](core_05-05_definitions_a_independent.md#risk) · [E](core_05-05_definitions_a_independent.md#risk-e) · [C](core_05-05_definitions_a_independent.md#risk-c)
-- [Proportionality](core_05-05_definitions_a_independent.md#proportionality) · [O](core_05-05_definitions_a_independent.md#proportionality) · [E](core_05-05_definitions_a_independent.md#proportionality-e) · [C](core_05-05_definitions_a_independent.md#proportionality-c)
+- [Proportionality](core_05-05_definitions_c_dependent_clusters.md#proportionality) · [O](core_05-05_definitions_c_dependent_clusters.md#proportionality) · [E](core_05-05_definitions_c_dependent_clusters.md#proportionality-e) · [C](core_05-05_definitions_c_dependent_clusters.md#proportionality-c)
 
 </details>
 
@@ -824,7 +824,7 @@ Further elaboration appears in **[corpus_systems.md](corpus_systems.md), Protoco
 
 - [Consent](core_05-05_definitions_b_semi_independent.md#consent-constitutional) · [O](core_05-05_definitions_b_semi_independent.md#consent-constitutional) · [E](core_05-05_definitions_b_semi_independent.md#consent-constitutional-e) · [C](core_05-05_definitions_b_semi_independent.md#consent-constitutional-c)
 - [Risk](core_05-05_definitions_a_independent.md#risk) · [O](core_05-05_definitions_a_independent.md#risk) · [E](core_05-05_definitions_a_independent.md#risk-e) · [C](core_05-05_definitions_a_independent.md#risk-c)
-- [Reversibility](core_05-05_definitions_a_independent.md#reversibility-constitutional) · [O](core_05-05_definitions_a_independent.md#reversibility-constitutional) · [E](core_05-05_definitions_a_independent.md#reversibility-constitutional-e) · [C](core_05-05_definitions_a_independent.md#reversibility-constitutional-c)
+- [Reversibility](core_05-05_definitions_c_dependent_clusters.md#reversibility-constitutional) · [O](core_05-05_definitions_c_dependent_clusters.md#reversibility-constitutional) · [E](core_05-05_definitions_c_dependent_clusters.md#reversibility-constitutional-e) · [C](core_05-05_definitions_c_dependent_clusters.md#reversibility-constitutional-c)
 
 </details>
 
@@ -855,7 +855,7 @@ Further elaboration appears in **[corpus_systems.md](corpus_systems.md), Protoco
 
 - [Classification-Scaled Governance](core_05-05_definitions_a_independent.md#classification-scaled-governance) · [O](core_05-05_definitions_a_independent.md#classification-scaled-governance) · [E](core_05-05_definitions_a_independent.md#classification-scaled-governance-e) · [C](core_05-05_definitions_a_independent.md#classification-scaled-governance-c)
 - [Dependency](core_05-05_definitions_a_independent.md#dependency) · [O](core_05-05_definitions_a_independent.md#dependency) · [E](core_05-05_definitions_a_independent.md#dependency-e) · [C](core_05-05_definitions_a_independent.md#dependency-c)
-- [Reversibility](core_05-05_definitions_a_independent.md#reversibility-constitutional) · [O](core_05-05_definitions_a_independent.md#reversibility-constitutional) · [E](core_05-05_definitions_a_independent.md#reversibility-constitutional-e) · [C](core_05-05_definitions_a_independent.md#reversibility-constitutional-c)
+- [Reversibility](core_05-05_definitions_c_dependent_clusters.md#reversibility-constitutional) · [O](core_05-05_definitions_c_dependent_clusters.md#reversibility-constitutional) · [E](core_05-05_definitions_c_dependent_clusters.md#reversibility-constitutional-e) · [C](core_05-05_definitions_c_dependent_clusters.md#reversibility-constitutional-c)
 
 </details>
 
@@ -881,7 +881,7 @@ Further elaboration appears in **[corpus_systems.md](corpus_systems.md), Protoco
 
 - [Innovation Reward and Anti-Enclosure](core_05-05_definitions_a_independent.md#innovation-reward-and-anti-enclosure) · [O](core_05-05_definitions_a_independent.md#innovation-reward-and-anti-enclosure) · [E](core_05-05_definitions_a_independent.md#innovation-reward-and-anti-enclosure-e) · [C](core_05-05_definitions_a_independent.md#innovation-reward-and-anti-enclosure-c)
 - [Systemic Lock-In](core_05-05_definitions_b_semi_independent.md#systemic-lock-in) · [O](core_05-05_definitions_b_semi_independent.md#systemic-lock-in) · [E](core_05-05_definitions_b_semi_independent.md#systemic-lock-in-e) · [C](core_05-05_definitions_b_semi_independent.md#systemic-lock-in-c)
-- [Proportionality](core_05-05_definitions_a_independent.md#proportionality) · [O](core_05-05_definitions_a_independent.md#proportionality) · [E](core_05-05_definitions_a_independent.md#proportionality-e) · [C](core_05-05_definitions_a_independent.md#proportionality-c)
+- [Proportionality](core_05-05_definitions_c_dependent_clusters.md#proportionality) · [O](core_05-05_definitions_c_dependent_clusters.md#proportionality) · [E](core_05-05_definitions_c_dependent_clusters.md#proportionality-e) · [C](core_05-05_definitions_c_dependent_clusters.md#proportionality-c)
 
 </details>
 
@@ -1052,7 +1052,7 @@ It must remain distinct from:
 <summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
 
 - [Contestability](core_05-05_definitions_b_semi_independent.md#contestability) · [O](core_05-05_definitions_b_semi_independent.md#contestability) · [E](core_05-05_definitions_b_semi_independent.md#contestability-e) · [C](core_05-05_definitions_b_semi_independent.md#contestability-c)
-- [Proportionality](core_05-05_definitions_a_independent.md#proportionality) · [O](core_05-05_definitions_a_independent.md#proportionality) · [E](core_05-05_definitions_a_independent.md#proportionality-e) · [C](core_05-05_definitions_a_independent.md#proportionality-c)
+- [Proportionality](core_05-05_definitions_c_dependent_clusters.md#proportionality) · [O](core_05-05_definitions_c_dependent_clusters.md#proportionality) · [E](core_05-05_definitions_c_dependent_clusters.md#proportionality-e) · [C](core_05-05_definitions_c_dependent_clusters.md#proportionality-c)
 - [Procedural Fairness](core_05-05_definitions_b_semi_independent.md#procedural-fairness-constitutional) · [O](core_05-05_definitions_b_semi_independent.md#procedural-fairness-constitutional) · [E](core_05-05_definitions_b_semi_independent.md#procedural-fairness-constitutional-e) · [C](core_05-05_definitions_b_semi_independent.md#procedural-fairness-constitutional-c)
 
 </details>
@@ -1125,7 +1125,7 @@ It must remain distinct from:
 
 - Upstream: Principles: Chapter One [3.1 Safety](core_00-01_principles.md#31-safety-constraint), [5. Freedom](core_00-01_principles.md#5-governance-principle-freedom-bounded-agency), [6.1.1 Reversibility-under-uncertainty](core_00-01_principles.md#611-proportionality-necessity-and-reversibility-under-uncertainty), [6.3 Freedom Preservation](core_00-01_principles.md#63-freedom-preservation).
 - Downstream: **Article V-A** dignity floor, **Article V-B** non-discrimination, **Article XI** stakeholder participation, **Article XVIII** standing and reputation, **Article XIX** interoperability and exit integrity (operational counterpart), **Article XXIII-D** emergency-measure limits, **Article XXV** transition governance.
-- Read with: Chapter Five [**§3.23** *Movement, Refuge, Non-Statelessness, and Exit Integrity*](core_05-05_definitions_c_dependent_clusters.md#movement-refuge-non-statelessness-and-exit-integrity-cluster); *Movement and Relocation*, *Refuge from Non-Compliance*, *Non-Statelessness*, *Sentience Non-Exclusion*; *Systemic Lock-In* and *Tenure Security* where exit, hosting termination, eviction, or substantive relocation is materially implicated.
+- Read with: Chapter Five [**§3.23** *Movement, Refuge, Non-Statelessness, and Exit Integrity*](core_05-05_definitions_b_semi_independent.md#movement-refuge-non-statelessness-and-exit-integrity-cluster); *Movement and Relocation*, *Refuge from Non-Compliance*, *Non-Statelessness*, *Sentience Non-Exclusion*; *Systemic Lock-In* and *Tenure Security* where exit, hosting termination, eviction, or substantive relocation is materially implicated.
 
 </details>
 
@@ -1195,7 +1195,7 @@ Sentients and dependent systems have the right to meaningful, usable exit, migra
 
 - The right does not require unsafe or unjustified exposure.
 - It does require transition conditions that are real in practice — not merely formal.
-- It is consistent with **Chapter Five** [*Systemic Lock-In*](core_05-05_definitions_b_semi_independent.md#systemic-lock-in) read with **[§3.19 *Governance Architecture, Oversight, Dependency, Decentralization, Concentration, Market Structure, and Exit-Path Integrity*](core_05-05_definitions_c_dependent_clusters.md#governance-architecture-oversight-decentralization-and-concentration-cluster)** where dependency, coupling, or foreclosure matters for anti-lock-in analysis, jointly with **[§3.23 *Movement, Refuge, Non-Statelessness, and Exit Integrity*](core_05-05_definitions_c_dependent_clusters.md#movement-refuge-non-statelessness-and-exit-integrity-cluster)** where exit, portability, refuge, recognition, or non-statelessness is materially interdependent, and with incorporated implementation requirements for interoperability, portability, exit integrity, and justified constraints.
+- It is consistent with **Chapter Five** [*Systemic Lock-In*](core_05-05_definitions_b_semi_independent.md#systemic-lock-in) read with **[§3.19 *Governance Architecture, Oversight, Dependency, Decentralization, Concentration, Market Structure, and Exit-Path Integrity*](core_05-05_definitions_b_semi_independent.md#governance-architecture-oversight-decentralization-and-concentration-cluster)** where dependency, coupling, or foreclosure matters for anti-lock-in analysis, jointly with **[§3.23 *Movement, Refuge, Non-Statelessness, and Exit Integrity*](core_05-05_definitions_b_semi_independent.md#movement-refuge-non-statelessness-and-exit-integrity-cluster)** where exit, portability, refuge, recognition, or non-statelessness is materially interdependent, and with incorporated implementation requirements for interoperability, portability, exit integrity, and justified constraints.
 #### Article XIX-A: Portability Rights
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
@@ -1209,7 +1209,7 @@ Sentients and dependent systems have the right to meaningful, usable exit, migra
 
 - [Meaningful Agency](core_05-05_definitions_b_semi_independent.md#meaningful-agency) · [O](core_05-05_definitions_a_independent.md#meaningful-agency-o) · [E](core_05-05_definitions_b_semi_independent.md#meaningful-agency-e) · [C](core_05-05_definitions_b_semi_independent.md#meaningful-agency-c)
 - [Systemic Lock-In](core_05-05_definitions_b_semi_independent.md#systemic-lock-in) · [O](core_05-05_definitions_b_semi_independent.md#systemic-lock-in) · [E](core_05-05_definitions_b_semi_independent.md#systemic-lock-in-e) · [C](core_05-05_definitions_b_semi_independent.md#systemic-lock-in-c)
-- [Proportionality](core_05-05_definitions_a_independent.md#proportionality) · [O](core_05-05_definitions_a_independent.md#proportionality) · [E](core_05-05_definitions_a_independent.md#proportionality-e) · [C](core_05-05_definitions_a_independent.md#proportionality-c)
+- [Proportionality](core_05-05_definitions_c_dependent_clusters.md#proportionality) · [O](core_05-05_definitions_c_dependent_clusters.md#proportionality) · [E](core_05-05_definitions_c_dependent_clusters.md#proportionality-e) · [C](core_05-05_definitions_c_dependent_clusters.md#proportionality-c)
 
 </details>
 
@@ -1236,8 +1236,8 @@ Sentients and dependent systems have the right to meaningful, usable exit, migra
 <summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
 
 - [Dependency](core_05-05_definitions_a_independent.md#dependency) · [O](core_05-05_definitions_a_independent.md#dependency) · [E](core_05-05_definitions_a_independent.md#dependency-e) · [C](core_05-05_definitions_a_independent.md#dependency-c)
-- [Feasibility](core_05-05_definitions_a_independent.md#feasibility) · [O](core_05-05_definitions_a_independent.md#feasibility) · [E](core_05-05_definitions_a_independent.md#feasibility-e) · [C](core_05-05_definitions_a_independent.md#feasibility-c)
-- [Proportionality](core_05-05_definitions_a_independent.md#proportionality) · [O](core_05-05_definitions_a_independent.md#proportionality) · [E](core_05-05_definitions_a_independent.md#proportionality-e) · [C](core_05-05_definitions_a_independent.md#proportionality-c)
+- [Feasibility](core_05-05_definitions_c_dependent_clusters.md#feasibility) · [O](core_05-05_definitions_c_dependent_clusters.md#feasibility) · [E](core_05-05_definitions_c_dependent_clusters.md#feasibility-e) · [C](core_05-05_definitions_c_dependent_clusters.md#feasibility-c)
+- [Proportionality](core_05-05_definitions_c_dependent_clusters.md#proportionality) · [O](core_05-05_definitions_c_dependent_clusters.md#proportionality) · [E](core_05-05_definitions_c_dependent_clusters.md#proportionality-e) · [C](core_05-05_definitions_c_dependent_clusters.md#proportionality-c)
 
 </details>
 
@@ -1283,9 +1283,9 @@ Sentients and dependent systems have the right to meaningful, usable exit, migra
 <summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
 
 - [Productive Capacity](core_05-05_definitions_b_semi_independent.md#productive-capacity-constitutional) · [O](core_05-05_definitions_b_semi_independent.md#productive-capacity-constitutional) · [E](core_05-05_definitions_b_semi_independent.md#productive-capacity-constitutional-e) · [C](core_05-05_definitions_b_semi_independent.md#productive-capacity-constitutional-c)
-- [Constitutional Efficiency](core_05-05_definitions_a_independent.md#constitutional-efficiency) · [O](core_05-05_definitions_a_independent.md#constitutional-efficiency) · [E](core_05-05_definitions_a_independent.md#constitutional-efficiency-e) · [C](core_05-05_definitions_a_independent.md#constitutional-efficiency-c)
-- [Avoidable Burden](core_05-05_definitions_a_independent.md#avoidable-burden) · [O](core_05-05_definitions_a_independent.md#avoidable-burden) · [E](core_05-05_definitions_a_independent.md#avoidable-burden-e) · [C](core_05-05_definitions_a_independent.md#avoidable-burden-c)
-- [Safety (Constraint)](core_05-05_definitions_a_independent.md#safety-constraint) · [O](core_05-05_definitions_a_independent.md#safety-constraint) · [E](core_05-05_definitions_a_independent.md#safety-constraint-e) · [C](core_05-05_definitions_a_independent.md#safety-constraint-c)
+- [Constitutional Efficiency](core_05-05_definitions_c_dependent_clusters.md#constitutional-efficiency) · [O](core_05-05_definitions_c_dependent_clusters.md#constitutional-efficiency) · [E](core_05-05_definitions_c_dependent_clusters.md#constitutional-efficiency-e) · [C](core_05-05_definitions_c_dependent_clusters.md#constitutional-efficiency-c)
+- [Avoidable Burden](core_05-05_definitions_c_dependent_clusters.md#avoidable-burden) · [O](core_05-05_definitions_c_dependent_clusters.md#avoidable-burden) · [E](core_05-05_definitions_c_dependent_clusters.md#avoidable-burden-e) · [C](core_05-05_definitions_c_dependent_clusters.md#avoidable-burden-c)
+- [Safety (Constraint)](core_05-05_definitions_c_dependent_clusters.md#safety-constraint) · [O](core_05-05_definitions_c_dependent_clusters.md#safety-constraint) · [E](core_05-05_definitions_c_dependent_clusters.md#safety-constraint-e) · [C](core_05-05_definitions_c_dependent_clusters.md#safety-constraint-c)
 - [Truth (Constitutional Constraint)](core_05-05_definitions_c_dependent_clusters.md#truth-constitutional-constraint) · [O](core_05-05_definitions_c_dependent_clusters.md#truth-constitutional-constraint-o) · [E](core_05-05_definitions_c_dependent_clusters.md#truth-constitutional-constraint-e) · [C](core_05-05_definitions_c_dependent_clusters.md#truth-constitutional-constraint-c)
 - [Materiality](core_05-05_definitions_b_semi_independent.md#materiality-determination) · [O](core_05-05_definitions_b_semi_independent.md#materiality-determination) · [E](core_05-05_definitions_b_semi_independent.md#materiality-determination-e) · [C](core_05-05_definitions_b_semi_independent.md#materiality-determination-c)
 - [Meaningful Agency](core_05-05_definitions_b_semi_independent.md#meaningful-agency) · [O](core_05-05_definitions_a_independent.md#meaningful-agency-o) · [E](core_05-05_definitions_b_semi_independent.md#meaningful-agency-e) · [C](core_05-05_definitions_b_semi_independent.md#meaningful-agency-c)
@@ -1334,7 +1334,7 @@ This requirement applies to legal and adjudicative frameworks as well. Courts an
 
 - [Transparency](core_05-05_definitions_c_dependent_clusters.md#transparency) · [O](core_05-05_definitions_c_dependent_clusters.md#transparency) · [E](core_05-05_definitions_c_dependent_clusters.md#transparency-e) · [C](core_05-05_definitions_c_dependent_clusters.md#transparency-c)
 - [Material Impact](core_05-05_definitions_b_semi_independent.md#material-impact) · [O](core_05-05_definitions_b_semi_independent.md#material-impact) · [E](core_05-05_definitions_b_semi_independent.md#material-impact-e) · [C](core_05-05_definitions_b_semi_independent.md#material-impact-c)
-- [Feasibility](core_05-05_definitions_a_independent.md#feasibility) · [O](core_05-05_definitions_a_independent.md#feasibility) · [E](core_05-05_definitions_a_independent.md#feasibility-e) · [C](core_05-05_definitions_a_independent.md#feasibility-c)
+- [Feasibility](core_05-05_definitions_c_dependent_clusters.md#feasibility) · [O](core_05-05_definitions_c_dependent_clusters.md#feasibility) · [E](core_05-05_definitions_c_dependent_clusters.md#feasibility-e) · [C](core_05-05_definitions_c_dependent_clusters.md#feasibility-c)
 
 </details>
 
@@ -1388,7 +1388,7 @@ This requirement applies to legal and adjudicative frameworks as well. Courts an
 <summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
 
 - [Materiality](core_05-05_definitions_b_semi_independent.md#materiality-determination) · [O](core_05-05_definitions_b_semi_independent.md#materiality-determination) · [E](core_05-05_definitions_b_semi_independent.md#materiality-determination-e) · [C](core_05-05_definitions_b_semi_independent.md#materiality-determination-c)
-- [System Capture](core_05-05_definitions_a_independent.md#system-capture) · [O](core_05-05_definitions_a_independent.md#system-capture) · [E](core_05-05_definitions_a_independent.md#system-capture-e) · [C](core_05-05_definitions_a_independent.md#system-capture-c)
+- [System Capture](core_05-05_definitions_c_dependent_clusters.md#system-capture) · [O](core_05-05_definitions_c_dependent_clusters.md#system-capture) · [E](core_05-05_definitions_c_dependent_clusters.md#system-capture-e) · [C](core_05-05_definitions_c_dependent_clusters.md#system-capture-c)
 - [Auditability](core_05-05_definitions_c_dependent_clusters.md#auditability) · [O](core_05-05_definitions_c_dependent_clusters.md#auditability) · [E](core_05-05_definitions_c_dependent_clusters.md#auditability-e) · [C](core_05-05_definitions_c_dependent_clusters.md#auditability-c)
 - [Contestability](core_05-05_definitions_b_semi_independent.md#contestability) · [O](core_05-05_definitions_b_semi_independent.md#contestability) · [E](core_05-05_definitions_b_semi_independent.md#contestability-e) · [C](core_05-05_definitions_b_semi_independent.md#contestability-c)
 
@@ -1445,7 +1445,7 @@ Diagnostic rigor must remain auditable and challengeable. It must be consistent 
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
 
-- [Reversibility](core_05-05_definitions_a_independent.md#reversibility-constitutional) · [O](core_05-05_definitions_a_independent.md#reversibility-constitutional) · [E](core_05-05_definitions_a_independent.md#reversibility-constitutional-e) · [C](core_05-05_definitions_a_independent.md#reversibility-constitutional-c)
+- [Reversibility](core_05-05_definitions_c_dependent_clusters.md#reversibility-constitutional) · [O](core_05-05_definitions_c_dependent_clusters.md#reversibility-constitutional) · [E](core_05-05_definitions_c_dependent_clusters.md#reversibility-constitutional-e) · [C](core_05-05_definitions_c_dependent_clusters.md#reversibility-constitutional-c)
 - [Risk](core_05-05_definitions_a_independent.md#risk) · [O](core_05-05_definitions_a_independent.md#risk) · [E](core_05-05_definitions_a_independent.md#risk-e) · [C](core_05-05_definitions_a_independent.md#risk-c)
 - [Auditability](core_05-05_definitions_c_dependent_clusters.md#auditability) · [O](core_05-05_definitions_c_dependent_clusters.md#auditability) · [E](core_05-05_definitions_c_dependent_clusters.md#auditability-e) · [C](core_05-05_definitions_c_dependent_clusters.md#auditability-c)
 
@@ -1526,7 +1526,7 @@ Final **constitutional** interpretation must remain authoritative, bounded, audi
 <summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
 
 - [Procedural Fairness](core_05-05_definitions_b_semi_independent.md#procedural-fairness-constitutional) · [O](core_05-05_definitions_b_semi_independent.md#procedural-fairness-constitutional) · [E](core_05-05_definitions_b_semi_independent.md#procedural-fairness-constitutional-e) · [C](core_05-05_definitions_b_semi_independent.md#procedural-fairness-constitutional-c)
-- [System Capture](core_05-05_definitions_a_independent.md#system-capture) · [O](core_05-05_definitions_a_independent.md#system-capture) · [E](core_05-05_definitions_a_independent.md#system-capture-e) · [C](core_05-05_definitions_a_independent.md#system-capture-c)
+- [System Capture](core_05-05_definitions_c_dependent_clusters.md#system-capture) · [O](core_05-05_definitions_c_dependent_clusters.md#system-capture) · [E](core_05-05_definitions_c_dependent_clusters.md#system-capture-e) · [C](core_05-05_definitions_c_dependent_clusters.md#system-capture-c)
 - [Forum Family, Constitutional](core_05-05_definitions_c_dependent_clusters.md#forum-family-constitutional) · [O](core_05-05_definitions_c_dependent_clusters.md#forum-family-constitutional) · [E](core_05-05_definitions_c_dependent_clusters.md#forum-family-constitutional-e) · [C](core_05-05_definitions_c_dependent_clusters.md#forum-family-constitutional-c)
 
 </details>
@@ -1598,7 +1598,7 @@ Final **constitutional** interpretation must remain authoritative, bounded, audi
 
 - [Accountability](core_05-05_definitions_b_semi_independent.md#accountability) · [O](core_05-05_definitions_b_semi_independent.md#accountability) · [E](core_05-05_definitions_b_semi_independent.md#accountability-e) · [C](core_05-05_definitions_b_semi_independent.md#accountability-c)
 - [Procedural Fairness](core_05-05_definitions_b_semi_independent.md#procedural-fairness-constitutional) · [O](core_05-05_definitions_b_semi_independent.md#procedural-fairness-constitutional) · [E](core_05-05_definitions_b_semi_independent.md#procedural-fairness-constitutional-e) · [C](core_05-05_definitions_b_semi_independent.md#procedural-fairness-constitutional-c)
-- [System Capture](core_05-05_definitions_a_independent.md#system-capture) · [O](core_05-05_definitions_a_independent.md#system-capture) · [E](core_05-05_definitions_a_independent.md#system-capture-e) · [C](core_05-05_definitions_a_independent.md#system-capture-c)
+- [System Capture](core_05-05_definitions_c_dependent_clusters.md#system-capture) · [O](core_05-05_definitions_c_dependent_clusters.md#system-capture) · [E](core_05-05_definitions_c_dependent_clusters.md#system-capture-e) · [C](core_05-05_definitions_c_dependent_clusters.md#system-capture-c)
 
 </details>
 

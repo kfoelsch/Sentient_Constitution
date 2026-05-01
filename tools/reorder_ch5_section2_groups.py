@@ -5,7 +5,13 @@ groups without changing definition text. Run from repo root:
 
   python3 tools/reorder_ch5_section2_groups.py
 
-Writes core_05-05_definitions_b_semi_independent.md in place (backup recommended).
+Writes ``core_05-05_definitions_b_semi_independent.md`` in place (backup recommended).
+
+Primary anchors listed under ``GROUPS`` are emitted in reader-facing order.
+By default, the script **fails** if Part B contains a primary anchor not listed
+in ``GROUPS`` (or if ``GROUPS`` references a missing anchor). Pass
+``--relax-unlisted`` to append unlisted anchors under an editorial heading
+instead (with a stderr warning).
 
 Extraction skips O/E/C widget anchors (-e / -c / -o) when finding the next entry
 boundary so spans stay correct.
@@ -13,11 +19,18 @@ boundary so spans stay correct.
 
 from __future__ import annotations
 
+import argparse
 import re
+import sys
 from pathlib import Path
 
+_TOOLS = Path(__file__).resolve().parent
+if str(_TOOLS) not in sys.path:
+    sys.path.insert(0, str(_TOOLS))
+
+from ch5_paths import CH5_PART_B  # noqa: E402
+
 ROOT = Path(__file__).resolve().parents[1]
-PATH = ROOT / "core_05-05_definitions_b_semi_independent.md"
 
 # (non-operative group label, ordered list of primary anchor ids)
 GROUPS: list[tuple[str, list[str]]] = [
@@ -284,12 +297,24 @@ def norm_block(b: str) -> str:
     return "\n".join(lines).rstrip() + "\n"
 
 
-def main() -> None:
-    text = PATH.read_text(encoding="utf-8")
+def reorder_section2_groups(
+    root: Path | None = None, *, strict: bool = True
+) -> int:
+    """Rewrite Part B section 2 into reader-facing groups. Returns 0 on success.
+
+    When ``strict`` is True (default), require every Part B primary anchor to
+    appear exactly in ``GROUPS`` and every ``GROUPS`` id to exist in the file.
+    When ``strict`` is False, anchors missing from ``GROUPS`` are appended after
+    grouped content with a stderr warning.
+    """
+    base = root if root is not None else ROOT
+    path = base / CH5_PART_B
+    text = path.read_text(encoding="utf-8")
     m2 = text.find("### 2. Semi-independent Definitions\n")
     m3 = text.find("\n### 3. Dependent clusters", m2)
     if m2 < 0:
-        raise SystemExit("Could not locate section 2 boundary")
+        print("Could not locate section 2 boundary", file=sys.stderr)
+        return 1
     if m3 < 0:
         m3 = len(text)
 
@@ -303,13 +328,24 @@ def main() -> None:
         ordered_ids.extend(ids)
 
     missing = set(ordered_ids) - set(blocks.keys())
-    extra = set(blocks.keys()) - set(ordered_ids)
+    extra = sorted(set(blocks.keys()) - set(ordered_ids))
     if missing:
-        raise SystemExit(f"Missing primary blocks for ids: {sorted(missing)}")
-    if extra:
-        raise SystemExit(
+        print(
+            f"Missing primary blocks for ids: {sorted(missing)}", file=sys.stderr
+        )
+        return 1
+    if extra and strict:
+        print(
             "Section 2 has primary anchors not listed in GROUPS "
-            f"(update GROUPS or investigate): {sorted(extra)}"
+            f"(update GROUPS or investigate): {extra}",
+            file=sys.stderr,
+        )
+        return 1
+    if extra:
+        print(
+            f"Warning: appending {len(extra)} Part B primary anchor(s) not listed in "
+            "GROUPS under an editorial heading; tighten GROUPS when convenient.",
+            file=sys.stderr,
         )
 
     out_parts: list[str] = [SECTION2_INTRO.rstrip(), "\n\n---\n\n"]
@@ -324,6 +360,17 @@ def main() -> None:
             if i < len(ids) - 1:
                 out_parts.append("\n---\n\n")
 
+    if extra:
+        out_parts.append("\n---\n\n")
+        out_parts.append(
+            "#### Ungrouped semi-independent entries (non-operative placement)\n\n"
+        )
+        out_parts.append("---\n\n")
+        for i, aid in enumerate(extra):
+            out_parts.append(norm_block(blocks[aid]))
+            if i < len(extra) - 1:
+                out_parts.append("\n---\n\n")
+
     new_s2 = "".join(out_parts)
     tail = re.sub(
         r'^\s*<a id="wellbeing"></a>\s*\n+',
@@ -332,8 +379,24 @@ def main() -> None:
         count=1,
     )
 
-    PATH.write_text(head + new_s2 + tail, encoding="utf-8")
-    print(f"Wrote grouped section 2 ({len(ordered_ids)} entries, {len(GROUPS)} groups).")
+    path.write_text(head + new_s2 + tail, encoding="utf-8")
+    detail = f"{len(ordered_ids)} grouped"
+    if extra:
+        detail += f", {len(extra)} ungrouped"
+    print(f"Wrote section 2 ({detail} entries; {len(GROUPS)} reader groups).")
+    return 0
+
+
+def main() -> None:
+    p = argparse.ArgumentParser(description=__doc__)
+    p.add_argument(
+        "--relax-unlisted",
+        action="store_true",
+        help="Append Part B primary anchors not listed in GROUPS (stderr warning) "
+        "instead of failing.",
+    )
+    args = p.parse_args()
+    raise SystemExit(reorder_section2_groups(ROOT, strict=not args.relax_unlisted))
 
 
 if __name__ == "__main__":

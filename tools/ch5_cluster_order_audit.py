@@ -42,6 +42,7 @@ EXPECTED_TOPIC_GROUPS: dict[str, list[str]] = {
         "Sentience Status Adjudication",
         "Derived Sentient",
         "Developing Sentient",
+        "Meaningful Agency",
     ],
     "#### Agency, Expression, Assembly, Consent, and Coercion": [
         "Expression",
@@ -64,6 +65,7 @@ EXPECTED_TOPIC_GROUPS: dict[str, list[str]] = {
         "Parent-System Relationship",
         "Non-Separation",
         "Family and Care Relationships",
+        "Reproductive Autonomy",
     ],
     "#### Creative Work, Compensation, Productive Capacity, and Anti-Displacement": [
         "Creative Work Attribution",
@@ -81,6 +83,9 @@ EXPECTED_TOPIC_GROUPS: dict[str, list[str]] = {
         "Review and Correction Duty",
         "Stakeholder",
         "Stakeholder Participation Weight",
+        "Binding Stakeholder Choice — Decision-Resolution Requirements",
+        "Stakeholder Representation and Participation-Weight Limits (Binding Stakeholder Choice)",
+        "Stakeholder Rights-Collision Record (Binding Stakeholder Choice)",
     ],
     "#### Materiality, Impact, Risk, and Classification Integrity": [
         "Material",
@@ -142,25 +147,14 @@ TOPIC_GROUP_HEADINGS: set[str] = set(EXPECTED_TOPIC_GROUPS)
 
 
 EXPECTED_CLUSTERS: dict[str, list[str]] = {
-    "#### 3.3 Accountability, Contestability, Adjudication and Dispute Resolution, Collective Accountability Failure, and Force Majeure": [
-        "Accountability",
-        "Contestability",
-        "Adjudication and Dispute Resolution",
-        "Collective Accountability Failure",
-        "Force Majeure",
+    "#### 3.3 Collective Harm Boundary, Harm, and Harassment and Bullying": [
+        "Harm",
+        "Psychological Harm",
+        "Irreversible Harm",
+        "Collective Harm Boundary",
+        "Harassment and Bullying",
     ],
-    "#### 3.10 Corpus, Authority Stack, Supremacy, and Enforceability": [
-        "Corpus",
-        "Authority Stack and Internal Hierarchy",
-        "Supremacy and Enforceability",
-        "Constitutional Constraint Violation",
-    ],
-    "#### 3.12 Contingent Claim, Event-Contract Market, and Game of Chance": [
-        "Contingent Claim",
-        "Event-Contract Market",
-        "Game of Chance",
-    ],
-    "#### 3.13 Creative Work, Training-Data Use, Attribution, Compensation, and Anti-Displacement": [
+    "#### 3.4 Creative Work, Training-Data Use, Attribution, Compensation, and Anti-Displacement": [
         "Creative Work Attribution",
         "Training-Data Use",
         "Fair Compensation",
@@ -168,104 +162,23 @@ EXPECTED_CLUSTERS: dict[str, list[str]] = {
         "Productive Capacity",
         "Innovation Reward and Anti-Enclosure",
     ],
-    "#### 3.16 Emergency and Contingency": [
-        "Emergency and Contingency",
-        "Constitutional Emergency and Contingency",
-        "Stakeholder Emergency and Contingency",
-        "Emergency Pre-Deliberation Action (Binding Collective Choice)",
-    ],
-    "#### 3.17 Family, Care, Reproductive Autonomy, Non-Separation, Parent-System Relationship, and Instantiation Consent": [
-        "Family and Care Relationships",
-        "Reproductive Autonomy",
-        "Non-Separation",
-        "Parent-System Relationship",
-        "Instantiation Consent",
-    ],
-    "#### 3.19 Governance Architecture, Oversight, Dependency, Decentralization, Concentration, Market Structure, and Exit-Path Integrity": [
-        "Governance",
-        "Oversight",
-        "Dependency",
-        "Decentralization",
-        "Concentration Threshold",
-        "Incentive Alignment",
-        "Systemic Lock-In",
-    ],
-    "#### 3.20 Indigenous Continuity, Language, Culture, and Heritage, Natural Systems Standing, and Intergenerational Responsibility": [
-        "Indigenous Continuity",
-        "Language, Culture, and Heritage",
-        "Natural Systems Standing",
-        "Intergenerational Responsibility",
-    ],
-    "#### 3.21 Info-Sphere, Expression, Press and Journalistic Activity, and Publication-Scoped Good Faith": [
-        "Info-Sphere",
-        "Expression",
-        "Press and Journalistic Activity",
-        "Good Faith",
-    ],
-    "#### 3.22 Material Impact, Materiality Determination, Classification-Scaled Governance, Oversight, and Capability Requirement": [
-        "Material Impact",
-        "Materiality Determination",
-        "Classification-Scaled Governance",
-        "Oversight",
-        "Capability Requirement",
-    ],
-    "#### 3.26 Proportionality, Necessity, Feasibility, Avoidable Burden, Burden-Reduction Duty, Constitutional Efficiency, Harm Minimization (Tradeoff Selection), and Productive Capacity": [
-        "Proportionality",
-        "Necessity",
-        "Feasibility",
-        "Avoidable Burden",
-        "Burden-Reduction Duty",
-        "Constitutional Efficiency",
-        "Harm Minimization (Tradeoff Selection)",
-        "Productive Capacity",
-    ],
-    "#### 3.30 Adjudication and Dispute Resolution, Redress and Remediation, Restorative Justice, Review and Correction Duty, and Refuge from Non-Compliance": [
+    "#### 3.5 Forum Families and Dispute Routing": [
+        "Forum Family, Sentient",
+        "Forum Family, Technical",
+        "Forum Family, Institutional",
+        "Forum Family, Environment",
+        "Forum Family, Integrity",
+        "Forum Family, Constitutional",
         "Adjudication and Dispute Resolution",
-        "Redress and Remediation",
-        "Restorative Justice",
-        "Review and Correction Duty",
-        "Refuge from Non-Compliance",
     ],
-    "#### 3.31 Resilience, Safety, Reversibility, Self-Healing, Cascading Failure, Existential Risk, Environmental Preconditions, and Wellbeing": [
-        "Safety (Constraint)",
-        "Reversibility",
-        "Self-Healing",
-        "Cascading Failure",
-        "Existential Risk",
-        "Environmental Preconditions",
-        "Wellbeing",
-    ],
-    "#### 3.32 Self-Determination, Meaningful Agency, Expression, Educational Agency, Reproductive Autonomy, and Volitional Integrity": [
+    "#### 3.6 Self-Determination, Meaningful Agency, Educational Agency, and Volitional Integrity": [
         "Self-Determination",
         "Meaningful Agency",
-        "Expression",
         "Educational Agency",
-        "Reproductive Autonomy",
+        "Volitional Integrity",
         "Freedom (Bounded Agency)",
     ],
-    "#### 3.33 Stakeholder Status, Emergency, and Participation Weight": [
-        "Stakeholder",
-        "Stakeholder Participation Weight",
-        "Stakeholder Emergency and Contingency",
-    ],
-    "#### 3.34 Standing Inputs, Contribution State, and Violation Findings": [
-        "Contribution State",
-        "Standing Cell",
-        "Standing Effect",
-        "Violation Nature",
-        "Verified Violation Findings",
-        "Participant Standing",
-    ],
-    "#### 3.35 Strategic Stewardship and Stewardship Defect": [
-        "Strategic Stewardship Obligation",
-        "Stewardship Defect",
-        "Incentive Alignment",
-    ],
-    "#### 3.36 Substantive and Procedural Fairness": [
-        "Substantive Fairness",
-        "Procedural Fairness",
-    ],
-    "#### 3.37 Transparency, Auditability, and Verification": [
+    "#### 3.7 Transparency, Auditability, and Verification": [
         "Transparency",
         "Auditability",
         "Audit Scope Sufficiency",
@@ -278,30 +191,30 @@ EXPECTED_CLUSTERS: dict[str, list[str]] = {
         "Verification Proportionality",
         "Verification Robustness",
     ],
-    "#### 3.38 Trust and Trustworthiness": [
+    "#### 3.8 Trust and Trustworthiness": [
         "Trust",
         "Trustworthiness",
         "Trust Degradation and Misleading Reliance",
     ],
-    "#### 3.39 Truth and Epistemic Integrity": [
+    "#### 3.9 Truth and Epistemic Integrity": [
         "Truth (Constitutional Constraint)",
         "Epistemic Integrity",
+        "Foreseeability Burden",
         "Foreseeability Diligence",
+        "Foreseeability Failure",
+        "Foreseeability Scaling",
+        "Foreseeability Scope",
         "Reasonably Foreseeable",
         "Good Faith",
         "Materiality Determination",
         "Publication and High-Impact Communication",
+        "Publication Truthfulness and Recklessness Floor",
+        "Protected Data and Internal-State Publication Constraint",
+        "Likeness and Documentary Depiction Interface",
+        "High-Impact and Systemic Harm Publication Constraint",
+        "Security-Sensitive Disclosure Balance",
     ],
-    "#### 3.40 Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm": [
-        "Use of Force",
-        "Autonomous Coercion Tool",
-        "Autonomous Lethal System",
-        "Weapons of Mass Harm",
-        "Combatant / Non-Combatant Distinction",
-        "Irreversible Sanction",
-        "Coercion and Manipulation",
-    ],
-    "#### 3.41 Voluntary Agency, Consent, and Anti-Coercion": [
+    "#### 3.10 Voluntary Agency, Consent, and Anti-Coercion": [
         "Consent",
         "Coercion and Manipulation",
         "Voluntary Discontinuation",

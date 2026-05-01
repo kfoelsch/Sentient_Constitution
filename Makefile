@@ -1,7 +1,7 @@
 PYTHON ?= python3
 READABILITY_MAX_GRADE ?= 14.0
 
-.PHONY: reference-audit scenario-audit prose-continuity-audit corpus-markdown-audit ch5-definitions-gravity-audit ch5-trace-crosslink-audit ch5-entry-format-audit ch5-dec-widget-audit ch5-cross-file-link-audit ch5-cluster-order-audit ch1-dec-order-audit ch9-trace-audit subarticle-gloss-audit lexical-vocabulary-audit plain-language-audit plain-language-audit-evidence regression regression-full regression-ch7-stack-ab reference-audit-evidence prose-continuity-audit-evidence readability-audit readability-audit-with-gloss readability-audit-evidence readability-top-candidates readability-top-candidates-evidence best-practices-check best-practices-check-evidence todo-close-check scoring-v1
+.PHONY: reference-audit scenario-audit prose-continuity-audit corpus-markdown-audit ch5-definitions-gravity-audit ch5-trace-crosslink-audit ch5-definition-location-audit sort-ch5-definitions ch5-structure-audit ch5-entry-format-audit ch5-dec-widget-audit ch5-cross-file-link-audit ch5-cluster-order-audit ch1-dec-order-audit ch9-trace-audit subarticle-gloss-audit lexical-vocabulary-audit plain-language-audit plain-language-audit-evidence regression regression-full regression-ch7-stack-ab reference-audit-evidence prose-continuity-audit-evidence readability-audit readability-audit-with-gloss readability-audit-evidence readability-top-candidates readability-top-candidates-evidence best-practices-check best-practices-check-evidence todo-close-check scoring-v1
 
 reference-audit:
 	$(PYTHON) tools/reference_audit.py --root .
@@ -20,6 +20,17 @@ ch5-definitions-gravity-audit:
 
 ch5-trace-crosslink-audit:
 	$(PYTHON) tools/ch5_trace_crosslink_audit.py --root .
+
+ch5-definition-location-audit:
+	$(PYTHON) tools/ch5_definition_location_audit.py --root . --audit
+
+# Sort / relocate Chapter Five definitions (dry-run by default). --apply writes files;
+# when Part B changes, section 2 is then regrouped (reorder_section2_groups, relaxed).
+sort-ch5-definitions:
+	$(PYTHON) tools/sort_ch5_definitions.py --root . $(ARGS)
+
+ch5-structure-audit:
+	$(PYTHON) tools/ch5_structure_audit.py --root .
 
 ch5-entry-format-audit:
 	$(PYTHON) tools/ch5_entry_format_audit.py --root .
@@ -56,6 +67,8 @@ regression:
 		corpus-markdown-audit \
 		ch5-definitions-gravity-audit \
 		ch5-trace-crosslink-audit \
+		ch5-definition-location-audit \
+		ch5-structure-audit \
 		ch5-entry-format-audit \
 		ch5-dec-widget-audit \
 		ch5-cluster-order-audit \

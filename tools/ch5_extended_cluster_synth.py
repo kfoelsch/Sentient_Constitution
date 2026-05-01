@@ -415,7 +415,7 @@ def synth_stakeholder_emergency_weight() -> str:
 - [Stakeholder Participation Weight](#stakeholder-participation-weight);
 - [Stakeholder Emergency and Contingency](#stakeholder-emergency-and-contingency).
 
-**Read-with definitions.** Apply [Governance](#governance), [Materiality Determination](#materiality-determination), [Dependency](#dependency), [Proportionality](#proportionality), [Feasibility](#feasibility), [Meaningful Agency](#meaningful-agency), [Binding Stakeholder Choice](#binding-stakeholder-choice-cluster), and [Article XI](core_09-09_rights_part_b.md#article-xi-stakeholder-system-participation-representation-and-due-process) where materially implicated.
+**Read-with definitions.** Apply [Governance](#governance), [Materiality Determination](#materiality-determination), [Dependency](#dependency), [Proportionality](#proportionality), [Feasibility](#feasibility), [Meaningful Agency](#meaningful-agency), [Binding Stakeholder Choice](core_05-05_definitions_b_semi_independent.md#binding-stakeholder-choice-cluster), and [Article XI](core_09-09_rights_part_b.md#article-xi-stakeholder-system-participation-representation-and-due-process) where materially implicated.
 
 **Joint invocation and anti-bypass.** Under §3.1, a matter within the admission scope must not be segmented into separate notice, consultation, weighting, or emergency questions in a way that substitutes symbolic participation for proportionate stakeholder influence or evades restoration duties after contingency measures end.
 """

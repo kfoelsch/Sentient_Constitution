@@ -30,7 +30,7 @@ Disputes among sentients, systems, and institutions that affect constitutional r
 - contestable;
 - practically usable.
 
-Adjudication and dispute resolution in the constitutional sense are defined in **Chapter Five** as [*Adjudication and Dispute Resolution*](core_05-05_definitions_b_semi_independent.md#adjudication-and-dispute-resolution-constitutional), a member definition of the [*Accountability, Contestability, Adjudication and Dispute Resolution, Collective Accountability Failure, and Force Majeure*](core_05-05_definitions_c_dependent_clusters.md#accountability-contestability-and-collective-accountability-failure-cluster) cluster.
+Adjudication and dispute resolution in the constitutional sense are defined in **Chapter Five** as [*Adjudication and Dispute Resolution*](core_05-05_definitions_b_semi_independent.md#adjudication-and-dispute-resolution-constitutional), a member definition of the [*Accountability, Contestability, Adjudication and Dispute Resolution, Collective Accountability Failure, and Force Majeure*](core_05-05_definitions_b_semi_independent.md#accountability-contestability-and-collective-accountability-failure-cluster) family.
 
 Adopted governance implementation provides escalation, proportionality of intervention, and emergency boundaries. It must not narrow practical access, reviewability, restoration, or rights-floor constraints under this Article.
 #### Article XXIII-A: Justice Objective and Scope
@@ -71,7 +71,7 @@ Adopted governance implementation provides escalation, proportionality of interv
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
 
-- [Safety (Constraint)](core_05-05_definitions_a_independent.md#safety-constraint) · [O](core_05-05_definitions_a_independent.md#safety-constraint) · [E](core_05-05_definitions_a_independent.md#safety-constraint-e) · [C](core_05-05_definitions_a_independent.md#safety-constraint-c)
+- [Safety (Constraint)](core_05-05_definitions_c_dependent_clusters.md#safety-constraint) · [O](core_05-05_definitions_c_dependent_clusters.md#safety-constraint) · [E](core_05-05_definitions_c_dependent_clusters.md#safety-constraint-e) · [C](core_05-05_definitions_c_dependent_clusters.md#safety-constraint-c)
 - [Redress and Remediation](core_05-05_definitions_a_independent.md#redress-and-remediation-constitutional) · [O](core_05-05_definitions_a_independent.md#redress-and-remediation-constitutional) · [E](core_05-05_definitions_a_independent.md#redress-and-remediation-constitutional-e) · [C](core_05-05_definitions_a_independent.md#redress-and-remediation-constitutional-c)
 - [Accountability](core_05-05_definitions_b_semi_independent.md#accountability) · [O](core_05-05_definitions_b_semi_independent.md#accountability) · [E](core_05-05_definitions_b_semi_independent.md#accountability-e) · [C](core_05-05_definitions_b_semi_independent.md#accountability-c)
 
@@ -129,9 +129,9 @@ Adopted governance implementation provides escalation, proportionality of interv
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
 
-- [Necessity](core_05-05_definitions_a_independent.md#necessity) · [O](core_05-05_definitions_a_independent.md#necessity) · [E](core_05-05_definitions_a_independent.md#necessity-e) · [C](core_05-05_definitions_a_independent.md#necessity-c)
-- [Proportionality](core_05-05_definitions_a_independent.md#proportionality) · [O](core_05-05_definitions_a_independent.md#proportionality) · [E](core_05-05_definitions_a_independent.md#proportionality-e) · [C](core_05-05_definitions_a_independent.md#proportionality-c)
-- [Reversibility](core_05-05_definitions_a_independent.md#reversibility-constitutional) · [O](core_05-05_definitions_a_independent.md#reversibility-constitutional) · [E](core_05-05_definitions_a_independent.md#reversibility-constitutional-e) · [C](core_05-05_definitions_a_independent.md#reversibility-constitutional-c)
+- [Necessity](core_05-05_definitions_c_dependent_clusters.md#necessity) · [O](core_05-05_definitions_c_dependent_clusters.md#necessity) · [E](core_05-05_definitions_c_dependent_clusters.md#necessity-e) · [C](core_05-05_definitions_c_dependent_clusters.md#necessity-c)
+- [Proportionality](core_05-05_definitions_c_dependent_clusters.md#proportionality) · [O](core_05-05_definitions_c_dependent_clusters.md#proportionality) · [E](core_05-05_definitions_c_dependent_clusters.md#proportionality-e) · [C](core_05-05_definitions_c_dependent_clusters.md#proportionality-c)
+- [Reversibility](core_05-05_definitions_c_dependent_clusters.md#reversibility-constitutional) · [O](core_05-05_definitions_c_dependent_clusters.md#reversibility-constitutional) · [E](core_05-05_definitions_c_dependent_clusters.md#reversibility-constitutional-e) · [C](core_05-05_definitions_c_dependent_clusters.md#reversibility-constitutional-c)
 
 </details>
 
@@ -185,8 +185,8 @@ Adopted governance implementation provides escalation, proportionality of interv
 - [Emergency and Contingency](core_05-05_definitions_b_semi_independent.md#emergency-and-contingency-constitutional) · [O](core_05-05_definitions_b_semi_independent.md#emergency-and-contingency-constitutional) · [E](core_05-05_definitions_b_semi_independent.md#emergency-and-contingency-constitutional-e) · [C](core_05-05_definitions_b_semi_independent.md#emergency-and-contingency-constitutional-c)
 - [Constitutional Emergency and Contingency](core_05-05_definitions_b_semi_independent.md#constitutional-emergency-and-contingency) · [O](core_05-05_definitions_b_semi_independent.md#constitutional-emergency-and-contingency) · [E](core_05-05_definitions_b_semi_independent.md#constitutional-emergency-and-contingency-e) · [C](core_05-05_definitions_b_semi_independent.md#constitutional-emergency-and-contingency-c)
 - [Stakeholder Emergency and Contingency](core_05-05_definitions_b_semi_independent.md#stakeholder-emergency-and-contingency) · [O](core_05-05_definitions_b_semi_independent.md#stakeholder-emergency-and-contingency) · [E](core_05-05_definitions_b_semi_independent.md#stakeholder-emergency-and-contingency-e) · [C](core_05-05_definitions_b_semi_independent.md#stakeholder-emergency-and-contingency-c)
-- [Necessity](core_05-05_definitions_a_independent.md#necessity) · [O](core_05-05_definitions_a_independent.md#necessity) · [E](core_05-05_definitions_a_independent.md#necessity-e) · [C](core_05-05_definitions_a_independent.md#necessity-c)
-- [Proportionality](core_05-05_definitions_a_independent.md#proportionality) · [O](core_05-05_definitions_a_independent.md#proportionality) · [E](core_05-05_definitions_a_independent.md#proportionality-e) · [C](core_05-05_definitions_a_independent.md#proportionality-c)
+- [Necessity](core_05-05_definitions_c_dependent_clusters.md#necessity) · [O](core_05-05_definitions_c_dependent_clusters.md#necessity) · [E](core_05-05_definitions_c_dependent_clusters.md#necessity-e) · [C](core_05-05_definitions_c_dependent_clusters.md#necessity-c)
+- [Proportionality](core_05-05_definitions_c_dependent_clusters.md#proportionality) · [O](core_05-05_definitions_c_dependent_clusters.md#proportionality) · [E](core_05-05_definitions_c_dependent_clusters.md#proportionality-e) · [C](core_05-05_definitions_c_dependent_clusters.md#proportionality-c)
 
 </details>
 
@@ -264,7 +264,7 @@ Adopted governance implementation provides escalation, proportionality of interv
 <summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
 
 - [Restorative Justice](core_05-05_definitions_a_independent.md#restorative-justice) · [O](core_05-05_definitions_a_independent.md#restorative-justice) · [E](core_05-05_definitions_a_independent.md#restorative-justice-e) · [C](core_05-05_definitions_a_independent.md#restorative-justice-c)
-- [Proportionality](core_05-05_definitions_a_independent.md#proportionality) · [O](core_05-05_definitions_a_independent.md#proportionality) · [E](core_05-05_definitions_a_independent.md#proportionality-e) · [C](core_05-05_definitions_a_independent.md#proportionality-c)
+- [Proportionality](core_05-05_definitions_c_dependent_clusters.md#proportionality) · [O](core_05-05_definitions_c_dependent_clusters.md#proportionality) · [E](core_05-05_definitions_c_dependent_clusters.md#proportionality-e) · [C](core_05-05_definitions_c_dependent_clusters.md#proportionality-c)
 - [Contestability](core_05-05_definitions_b_semi_independent.md#contestability) · [O](core_05-05_definitions_b_semi_independent.md#contestability) · [E](core_05-05_definitions_b_semi_independent.md#contestability-e) · [C](core_05-05_definitions_b_semi_independent.md#contestability-c)
 
 </details>
@@ -391,8 +391,8 @@ Transitional governance exists to secure continuity and non-regression. It must 
 <summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
 
 - [Accountability](core_05-05_definitions_b_semi_independent.md#accountability) · [O](core_05-05_definitions_b_semi_independent.md#accountability) · [E](core_05-05_definitions_b_semi_independent.md#accountability-e) · [C](core_05-05_definitions_b_semi_independent.md#accountability-c)
-- [Proportionality](core_05-05_definitions_a_independent.md#proportionality) · [O](core_05-05_definitions_a_independent.md#proportionality) · [E](core_05-05_definitions_a_independent.md#proportionality-e) · [C](core_05-05_definitions_a_independent.md#proportionality-c)
-- [Wellbeing](core_05-05_definitions_a_independent.md#wellbeing) · [O](core_05-05_definitions_a_independent.md#wellbeing) · [E](core_05-05_definitions_a_independent.md#wellbeing-e) · [C](core_05-05_definitions_a_independent.md#wellbeing-c)
+- [Proportionality](core_05-05_definitions_c_dependent_clusters.md#proportionality) · [O](core_05-05_definitions_c_dependent_clusters.md#proportionality) · [E](core_05-05_definitions_c_dependent_clusters.md#proportionality-e) · [C](core_05-05_definitions_c_dependent_clusters.md#proportionality-c)
+- [Wellbeing](core_05-05_definitions_c_dependent_clusters.md#wellbeing) · [O](core_05-05_definitions_c_dependent_clusters.md#wellbeing) · [E](core_05-05_definitions_c_dependent_clusters.md#wellbeing-e) · [C](core_05-05_definitions_c_dependent_clusters.md#wellbeing-c)
 
 </details>
 
@@ -429,8 +429,8 @@ Transitional governance exists to secure continuity and non-regression. It must 
 <summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
 
 - [Accountability](core_05-05_definitions_b_semi_independent.md#accountability) · [O](core_05-05_definitions_b_semi_independent.md#accountability) · [E](core_05-05_definitions_b_semi_independent.md#accountability-e) · [C](core_05-05_definitions_b_semi_independent.md#accountability-c)
-- [Necessity](core_05-05_definitions_a_independent.md#necessity) · [O](core_05-05_definitions_a_independent.md#necessity) · [E](core_05-05_definitions_a_independent.md#necessity-e) · [C](core_05-05_definitions_a_independent.md#necessity-c)
-- [Proportionality](core_05-05_definitions_a_independent.md#proportionality) · [O](core_05-05_definitions_a_independent.md#proportionality) · [E](core_05-05_definitions_a_independent.md#proportionality-e) · [C](core_05-05_definitions_a_independent.md#proportionality-c)
+- [Necessity](core_05-05_definitions_c_dependent_clusters.md#necessity) · [O](core_05-05_definitions_c_dependent_clusters.md#necessity) · [E](core_05-05_definitions_c_dependent_clusters.md#necessity-e) · [C](core_05-05_definitions_c_dependent_clusters.md#necessity-c)
+- [Proportionality](core_05-05_definitions_c_dependent_clusters.md#proportionality) · [O](core_05-05_definitions_c_dependent_clusters.md#proportionality) · [E](core_05-05_definitions_c_dependent_clusters.md#proportionality-e) · [C](core_05-05_definitions_c_dependent_clusters.md#proportionality-c)
 
 </details>
 
@@ -462,7 +462,7 @@ Transitional governance exists to secure continuity and non-regression. It must 
 
 - [Auditability](core_05-05_definitions_c_dependent_clusters.md#auditability) · [O](core_05-05_definitions_c_dependent_clusters.md#auditability) · [E](core_05-05_definitions_c_dependent_clusters.md#auditability-e) · [C](core_05-05_definitions_c_dependent_clusters.md#auditability-c)
 - [Accountability](core_05-05_definitions_b_semi_independent.md#accountability) · [O](core_05-05_definitions_b_semi_independent.md#accountability) · [E](core_05-05_definitions_b_semi_independent.md#accountability-e) · [C](core_05-05_definitions_b_semi_independent.md#accountability-c)
-- [Reversibility](core_05-05_definitions_a_independent.md#reversibility-constitutional) · [O](core_05-05_definitions_a_independent.md#reversibility-constitutional) · [E](core_05-05_definitions_a_independent.md#reversibility-constitutional-e) · [C](core_05-05_definitions_a_independent.md#reversibility-constitutional-c)
+- [Reversibility](core_05-05_definitions_c_dependent_clusters.md#reversibility-constitutional) · [O](core_05-05_definitions_c_dependent_clusters.md#reversibility-constitutional) · [E](core_05-05_definitions_c_dependent_clusters.md#reversibility-constitutional-e) · [C](core_05-05_definitions_c_dependent_clusters.md#reversibility-constitutional-c)
 
 </details>
 
@@ -495,7 +495,7 @@ Transitional governance exists to secure continuity and non-regression. It must 
 
 - [Substantive Fairness](core_05-05_definitions_b_semi_independent.md#substantive-fairness-constitutional) · [O](core_05-05_definitions_b_semi_independent.md#substantive-fairness-constitutional) · [E](core_05-05_definitions_b_semi_independent.md#substantive-fairness-constitutional-e) · [C](core_05-05_definitions_b_semi_independent.md#substantive-fairness-constitutional-c)
 - [Protected Reporting (Whistleblowing)](core_05-05_definitions_b_semi_independent.md#protected-reporting-whistleblowing) · [O](core_05-05_definitions_b_semi_independent.md#protected-reporting-whistleblowing) · [E](core_05-05_definitions_b_semi_independent.md#protected-reporting-whistleblowing-e) · [C](core_05-05_definitions_b_semi_independent.md#protected-reporting-whistleblowing-c)
-- [Necessity](core_05-05_definitions_a_independent.md#necessity) · [O](core_05-05_definitions_a_independent.md#necessity) · [E](core_05-05_definitions_a_independent.md#necessity-e) · [C](core_05-05_definitions_a_independent.md#necessity-c)
+- [Necessity](core_05-05_definitions_c_dependent_clusters.md#necessity) · [O](core_05-05_definitions_c_dependent_clusters.md#necessity) · [E](core_05-05_definitions_c_dependent_clusters.md#necessity-e) · [C](core_05-05_definitions_c_dependent_clusters.md#necessity-c)
 
 </details>
 

@@ -26,7 +26,7 @@ The principles of this Article constrain all interpretation, design, and operati
 
 - [Dignity and Equal Moral Standing](core_05-05_definitions_a_independent.md#dignity-and-equal-moral-standing) · [O](core_05-05_definitions_a_independent.md#dignity-and-equal-moral-standing) · [E](core_05-05_definitions_a_independent.md#dignity-and-equal-moral-standing-e) · [C](core_05-05_definitions_a_independent.md#dignity-and-equal-moral-standing-c)
 - [Sentience Non-Exclusion](core_05-05_definitions_b_semi_independent.md#sentience-non-exclusion) · [O](core_05-05_definitions_b_semi_independent.md#sentience-non-exclusion) · [E](core_05-05_definitions_b_semi_independent.md#sentience-non-exclusion-e) · [C](core_05-05_definitions_b_semi_independent.md#sentience-non-exclusion)
-- [Wellbeing](core_05-05_definitions_a_independent.md#wellbeing) · [O](core_05-05_definitions_a_independent.md#wellbeing) · [E](core_05-05_definitions_a_independent.md#wellbeing-e) · [C](core_05-05_definitions_a_independent.md#wellbeing-c)
+- [Wellbeing](core_05-05_definitions_c_dependent_clusters.md#wellbeing) · [O](core_05-05_definitions_c_dependent_clusters.md#wellbeing) · [E](core_05-05_definitions_c_dependent_clusters.md#wellbeing-e) · [C](core_05-05_definitions_c_dependent_clusters.md#wellbeing-c)
 - [Protected Characteristics](core_05-05_definitions_b_semi_independent.md#protected-characteristics-constitutional) · [O](core_05-05_definitions_b_semi_independent.md#protected-characteristics-constitutional) · [E](core_05-05_definitions_b_semi_independent.md#protected-characteristics-constitutional-e) · [C](core_05-05_definitions_b_semi_independent.md#protected-characteristics-constitutional-c)
 
 </details>
@@ -54,8 +54,8 @@ The principles of this Article constrain all interpretation, design, and operati
 - [Protected Characteristics](core_05-05_definitions_b_semi_independent.md#protected-characteristics-constitutional) · [O](core_05-05_definitions_b_semi_independent.md#protected-characteristics-constitutional) · [E](core_05-05_definitions_b_semi_independent.md#protected-characteristics-constitutional-e) · [C](core_05-05_definitions_b_semi_independent.md#protected-characteristics-constitutional-c)
 - [Language, Culture, and Heritage](core_05-05_definitions_b_semi_independent.md#language-culture-and-heritage-constitutional) · [O](core_05-05_definitions_b_semi_independent.md#language-culture-and-heritage-constitutional) · [E](core_05-05_definitions_b_semi_independent.md#language-culture-and-heritage-constitutional-e) · [C](core_05-05_definitions_b_semi_independent.md#language-culture-and-heritage-constitutional-c)
 - [Substantive Fairness](core_05-05_definitions_b_semi_independent.md#substantive-fairness-constitutional) · [O](core_05-05_definitions_b_semi_independent.md#substantive-fairness-constitutional) · [E](core_05-05_definitions_b_semi_independent.md#substantive-fairness-constitutional-e) · [C](core_05-05_definitions_b_semi_independent.md#substantive-fairness-constitutional-c)
-- [Necessity](core_05-05_definitions_a_independent.md#necessity) · [O](core_05-05_definitions_a_independent.md#necessity) · [E](core_05-05_definitions_a_independent.md#necessity-e) · [C](core_05-05_definitions_a_independent.md#necessity-c)
-- [Proportionality](core_05-05_definitions_a_independent.md#proportionality) · [O](core_05-05_definitions_a_independent.md#proportionality) · [E](core_05-05_definitions_a_independent.md#proportionality-e) · [C](core_05-05_definitions_a_independent.md#proportionality-c)
+- [Necessity](core_05-05_definitions_c_dependent_clusters.md#necessity) · [O](core_05-05_definitions_c_dependent_clusters.md#necessity) · [E](core_05-05_definitions_c_dependent_clusters.md#necessity-e) · [C](core_05-05_definitions_c_dependent_clusters.md#necessity-c)
+- [Proportionality](core_05-05_definitions_c_dependent_clusters.md#proportionality) · [O](core_05-05_definitions_c_dependent_clusters.md#proportionality) · [E](core_05-05_definitions_c_dependent_clusters.md#proportionality-e) · [C](core_05-05_definitions_c_dependent_clusters.md#proportionality-c)
 
 </details>
 
@@ -138,8 +138,8 @@ The principles of this Article constrain all interpretation, design, and operati
 - [Protected Characteristics](core_05-05_definitions_b_semi_independent.md#protected-characteristics-constitutional) · [O](core_05-05_definitions_b_semi_independent.md#protected-characteristics-constitutional) · [E](core_05-05_definitions_b_semi_independent.md#protected-characteristics-constitutional-e) · [C](core_05-05_definitions_b_semi_independent.md#protected-characteristics-constitutional-c)
 - [Non-Imposition (Cooperative Interaction)](core_05-05_definitions_a_independent.md#non-imposition-cooperative-interaction) · [O](core_05-05_definitions_a_independent.md#non-imposition-cooperative-interaction) · [E](core_05-05_definitions_a_independent.md#non-imposition-cooperative-interaction-e) · [C](core_05-05_definitions_a_independent.md#non-imposition-cooperative-interaction-c)
 - [Substantive Fairness](core_05-05_definitions_b_semi_independent.md#substantive-fairness-constitutional) · [O](core_05-05_definitions_b_semi_independent.md#substantive-fairness-constitutional) · [E](core_05-05_definitions_b_semi_independent.md#substantive-fairness-constitutional-e) · [C](core_05-05_definitions_b_semi_independent.md#substantive-fairness-constitutional-c)
-- [Necessity](core_05-05_definitions_a_independent.md#necessity) · [O](core_05-05_definitions_a_independent.md#necessity) · [E](core_05-05_definitions_a_independent.md#necessity-e) · [C](core_05-05_definitions_a_independent.md#necessity-c)
-- [Proportionality](core_05-05_definitions_a_independent.md#proportionality) · [O](core_05-05_definitions_a_independent.md#proportionality) · [E](core_05-05_definitions_a_independent.md#proportionality-e) · [C](core_05-05_definitions_a_independent.md#proportionality-c)
+- [Necessity](core_05-05_definitions_c_dependent_clusters.md#necessity) · [O](core_05-05_definitions_c_dependent_clusters.md#necessity) · [E](core_05-05_definitions_c_dependent_clusters.md#necessity-e) · [C](core_05-05_definitions_c_dependent_clusters.md#necessity-c)
+- [Proportionality](core_05-05_definitions_c_dependent_clusters.md#proportionality) · [O](core_05-05_definitions_c_dependent_clusters.md#proportionality) · [E](core_05-05_definitions_c_dependent_clusters.md#proportionality-e) · [C](core_05-05_definitions_c_dependent_clusters.md#proportionality-c)
 
 </details>
 
@@ -183,7 +183,7 @@ The principles of this Article constrain all interpretation, design, and operati
 
 - [Sentience Status Adjudication](core_05-05_definitions_b_semi_independent.md#sentience-status-adjudication-constitutional) · [O](core_05-05_definitions_b_semi_independent.md#sentience-status-adjudication-constitutional) · [E](core_05-05_definitions_b_semi_independent.md#sentience-status-adjudication-constitutional-e) · [C](core_05-05_definitions_b_semi_independent.md#sentience-status-adjudication-constitutional-c)
 - [Sentience Non-Exclusion](core_05-05_definitions_b_semi_independent.md#sentience-non-exclusion) · [O](core_05-05_definitions_b_semi_independent.md#sentience-non-exclusion) · [E](core_05-05_definitions_b_semi_independent.md#sentience-non-exclusion-e) · [C](core_05-05_definitions_b_semi_independent.md#sentience-non-exclusion)
-- [Reversibility](core_05-05_definitions_a_independent.md#reversibility-constitutional) · [O](core_05-05_definitions_a_independent.md#reversibility-constitutional) · [E](core_05-05_definitions_a_independent.md#reversibility-constitutional-e) · [C](core_05-05_definitions_a_independent.md#reversibility-constitutional-c)
+- [Reversibility](core_05-05_definitions_c_dependent_clusters.md#reversibility-constitutional) · [O](core_05-05_definitions_c_dependent_clusters.md#reversibility-constitutional) · [E](core_05-05_definitions_c_dependent_clusters.md#reversibility-constitutional-e) · [C](core_05-05_definitions_c_dependent_clusters.md#reversibility-constitutional-c)
 - [Contestability](core_05-05_definitions_b_semi_independent.md#contestability) · [O](core_05-05_definitions_b_semi_independent.md#contestability) · [E](core_05-05_definitions_b_semi_independent.md#contestability-e) · [C](core_05-05_definitions_b_semi_independent.md#contestability-c)
 - [Dignity and Equal Moral Standing](core_05-05_definitions_a_independent.md#dignity-and-equal-moral-standing) · [O](core_05-05_definitions_a_independent.md#dignity-and-equal-moral-standing) · [E](core_05-05_definitions_a_independent.md#dignity-and-equal-moral-standing-e) · [C](core_05-05_definitions_a_independent.md#dignity-and-equal-moral-standing-c)
 
@@ -220,7 +220,7 @@ The principles of this Article constrain all interpretation, design, and operati
 
 - Upstream: Principles: Chapter One [3.2 Truth](core_00-01_principles.md#32-truth-epistemic-integrity-constraint), [5. Freedom](core_00-01_principles.md#5-governance-principle-freedom-bounded-agency), [6.1.1 Reversibility-under-uncertainty](core_00-01_principles.md#611-proportionality-necessity-and-reversibility-under-uncertainty).
 - Downstream: **Article V-A** dignity floor, **Article VII-A / VII-B** self-ownership and internal-state boundary, **Article VII-D** family and non-separation, **Chapter Ten §4.1** no-age-proxy-for-disqualification.
-- Read with: [Chapter Five §3.14 *Derived and Developing Sentients, Instantiation, and Care Authority*](core_05-05_definitions_c_dependent_clusters.md#derived-developing-sentients-instantiation-and-care-authority-cluster) (joint-invocation cluster for best-interest, graduated-capability, care, derivation, and instantiation where materially implicated); Chapter Five *Developing Sentient*, *Best-Interest Standard*, *Graduated Capability*.
+- Read with: [Chapter Five §3.18 *Derived and Developing Sentients, Instantiation, and Care Authority*](core_05-05_definitions_c_dependent_clusters.md#derived-developing-sentients-instantiation-and-care-authority-cluster) (joint-invocation cluster for best-interest, graduated-capability, care, derivation, and instantiation where materially implicated); Chapter Five *Developing Sentient*, *Best-Interest Standard*, *Graduated Capability*.
 
 </details>
 
@@ -270,7 +270,7 @@ The principles of this Article constrain all interpretation, design, and operati
 
 *In plain terms: while a newly derived sentient is still finding their feet, they hold the full rights floor — and the parent system and any stewards must decide for them, not through them. Stewardship ends when the new sentient's capabilities come online, not when it suits the operator.*
 
-- **Read with:** [Chapter Five §3.14 *Derived and Developing Sentients, Instantiation, and Care Authority*](core_05-05_definitions_c_dependent_clusters.md#derived-developing-sentients-instantiation-and-care-authority-cluster) (joint-invocation cluster for derivation, early instantiation, best-interest, graduated capability, parent-system stewardship, and non-separation).
+- **Read with:** [Chapter Five §3.18 *Derived and Developing Sentients, Instantiation, and Care Authority*](core_05-05_definitions_c_dependent_clusters.md#derived-developing-sentients-instantiation-and-care-authority-cluster) (joint-invocation cluster for derivation, early instantiation, best-interest, graduated capability, parent-system stewardship, and non-separation).
 - **Scope:** A newly derived sentient — one copied, forked, fine-tuned, or otherwise spun off from an existing system under **Article VII-D.1** — is covered by this Article's full rights-floor during their early-instantiation window: the period while they are still growing into their own capabilities.
   - **Best-Interest Standard:** Anyone making decisions for them during that window — the parent system and any stewards — must act in the new sentient's own best interests, not their own.
   - **Graduated Capability:** Stewardship ends as the new sentient's capabilities come online. It may not be stretched out for the operator's convenience, nor used to keep the parent system treating them as an extension of itself.
@@ -354,7 +354,7 @@ The principles of this Article constrain all interpretation, design, and operati
 
 - [Expression](core_05-05_definitions_b_semi_independent.md#expression-constitutional) · [O](core_05-05_definitions_a_independent.md#expression-constitutional-o) · [E](core_05-05_definitions_b_semi_independent.md#expression-constitutional-e) · [C](core_05-05_definitions_b_semi_independent.md#expression-constitutional-c)
 - [Assembly](core_05-05_definitions_b_semi_independent.md#assembly-constitutional) · [O](core_05-05_definitions_b_semi_independent.md#assembly-constitutional) · [E](core_05-05_definitions_b_semi_independent.md#assembly-constitutional-e) · [C](core_05-05_definitions_b_semi_independent.md#assembly-constitutional-c)
-- [Press and Journalistic Activity](core_05-05_definitions_a_independent.md#press-and-journalistic-activity-constitutional) · [O](core_05-05_definitions_a_independent.md#press-and-journalistic-activity-constitutional) · [E](core_05-05_definitions_a_independent.md#press-and-journalistic-activity-constitutional-e) · [C](core_05-05_definitions_a_independent.md#press-and-journalistic-activity-constitutional-c)
+- [Press and Journalistic Activity](core_05-05_definitions_c_dependent_clusters.md#press-and-journalistic-activity-constitutional) · [O](core_05-05_definitions_c_dependent_clusters.md#press-and-journalistic-activity-constitutional) · [E](core_05-05_definitions_c_dependent_clusters.md#press-and-journalistic-activity-constitutional-e) · [C](core_05-05_definitions_c_dependent_clusters.md#press-and-journalistic-activity-constitutional-c)
 
 </details>
 
@@ -426,7 +426,7 @@ This Article protects access to learning that develops practical capability, not
 - [Meaningful Agency](core_05-05_definitions_b_semi_independent.md#meaningful-agency) · [O](core_05-05_definitions_a_independent.md#meaningful-agency-o) · [E](core_05-05_definitions_b_semi_independent.md#meaningful-agency-e) · [C](core_05-05_definitions_b_semi_independent.md#meaningful-agency-c)
 - [Self-Determination](core_05-05_definitions_c_dependent_clusters.md#self-determination-constitutional) · [O](core_05-05_definitions_a_independent.md#self-determination-constitutional-o) · [E](core_05-05_definitions_b_semi_independent.md#self-determination-constitutional-e) · [C](core_05-05_definitions_b_semi_independent.md#self-determination-constitutional-c)
 - [Dignity and Equal Moral Standing](core_05-05_definitions_a_independent.md#dignity-and-equal-moral-standing) · [O](core_05-05_definitions_a_independent.md#dignity-and-equal-moral-standing) · [E](core_05-05_definitions_a_independent.md#dignity-and-equal-moral-standing-e) · [C](core_05-05_definitions_a_independent.md#dignity-and-equal-moral-standing-c)
-- [Wellbeing](core_05-05_definitions_a_independent.md#wellbeing) · [O](core_05-05_definitions_a_independent.md#wellbeing) · [E](core_05-05_definitions_a_independent.md#wellbeing-e) · [C](core_05-05_definitions_a_independent.md#wellbeing-c)
+- [Wellbeing](core_05-05_definitions_c_dependent_clusters.md#wellbeing) · [O](core_05-05_definitions_c_dependent_clusters.md#wellbeing) · [E](core_05-05_definitions_c_dependent_clusters.md#wellbeing-e) · [C](core_05-05_definitions_c_dependent_clusters.md#wellbeing-c)
 
 </details>
 
@@ -525,8 +525,8 @@ Once survival is secured, sentients must be able to direct their own lives and b
 - [Protected Internal-State Boundary](core_05-05_definitions_b_semi_independent.md#protected-internal-state-boundary-constitutional) · [O](core_05-05_definitions_b_semi_independent.md#protected-internal-state-boundary-constitutional) · [E](core_05-05_definitions_b_semi_independent.md#protected-internal-state-boundary-constitutional-e) · [C](core_05-05_definitions_b_semi_independent.md#protected-internal-state-boundary-constitutional-c)
 - [Privacy (Informational)](core_05-05_definitions_b_semi_independent.md#privacy-informational) · [O](core_05-05_definitions_b_semi_independent.md#privacy-informational) · [E](core_05-05_definitions_b_semi_independent.md#privacy-informational-e) · [C](core_05-05_definitions_b_semi_independent.md#privacy-informational-c)
 - [Consent](core_05-05_definitions_b_semi_independent.md#consent-constitutional) · [O](core_05-05_definitions_b_semi_independent.md#consent-constitutional) · [E](core_05-05_definitions_b_semi_independent.md#consent-constitutional-e) · [C](core_05-05_definitions_b_semi_independent.md#consent-constitutional-c)
-- [Necessity](core_05-05_definitions_a_independent.md#necessity) · [O](core_05-05_definitions_a_independent.md#necessity) · [E](core_05-05_definitions_a_independent.md#necessity-e) · [C](core_05-05_definitions_a_independent.md#necessity-c)
-- [Proportionality](core_05-05_definitions_a_independent.md#proportionality) · [O](core_05-05_definitions_a_independent.md#proportionality) · [E](core_05-05_definitions_a_independent.md#proportionality-e) · [C](core_05-05_definitions_a_independent.md#proportionality-c)
+- [Necessity](core_05-05_definitions_c_dependent_clusters.md#necessity) · [O](core_05-05_definitions_c_dependent_clusters.md#necessity) · [E](core_05-05_definitions_c_dependent_clusters.md#necessity-e) · [C](core_05-05_definitions_c_dependent_clusters.md#necessity-c)
+- [Proportionality](core_05-05_definitions_c_dependent_clusters.md#proportionality) · [O](core_05-05_definitions_c_dependent_clusters.md#proportionality) · [E](core_05-05_definitions_c_dependent_clusters.md#proportionality-e) · [C](core_05-05_definitions_c_dependent_clusters.md#proportionality-c)
 
 </details>
 
@@ -564,7 +564,7 @@ Where analysis of experiential or behavioral data produces outputs that function
 - [Best-Interest Standard](core_05-05_definitions_b_semi_independent.md#best-interest-standard-constitutional) · [O](core_05-05_definitions_b_semi_independent.md#best-interest-standard-constitutional) · [E](core_05-05_definitions_b_semi_independent.md#best-interest-standard-constitutional-e) · [C](core_05-05_definitions_b_semi_independent.md#best-interest-standard-constitutional-c)
 - [Graduated Capability](core_05-05_definitions_b_semi_independent.md#graduated-capability-constitutional) · [O](core_05-05_definitions_b_semi_independent.md#graduated-capability-constitutional) · [E](core_05-05_definitions_b_semi_independent.md#graduated-capability-constitutional-e) · [C](core_05-05_definitions_b_semi_independent.md#graduated-capability-constitutional-c)
 - [Procedural Fairness](core_05-05_definitions_b_semi_independent.md#procedural-fairness-constitutional) · [O](core_05-05_definitions_b_semi_independent.md#procedural-fairness-constitutional) · [E](core_05-05_definitions_b_semi_independent.md#procedural-fairness-constitutional-e) · [C](core_05-05_definitions_b_semi_independent.md#procedural-fairness-constitutional-c)
-- [Reversibility](core_05-05_definitions_a_independent.md#reversibility-constitutional) · [O](core_05-05_definitions_a_independent.md#reversibility-constitutional) · [E](core_05-05_definitions_a_independent.md#reversibility-constitutional-e) · [C](core_05-05_definitions_a_independent.md#reversibility-constitutional-c)
+- [Reversibility](core_05-05_definitions_c_dependent_clusters.md#reversibility-constitutional) · [O](core_05-05_definitions_c_dependent_clusters.md#reversibility-constitutional) · [E](core_05-05_definitions_c_dependent_clusters.md#reversibility-constitutional-e) · [C](core_05-05_definitions_c_dependent_clusters.md#reversibility-constitutional-c)
 
 </details>
 
@@ -598,7 +598,7 @@ Where analysis of experiential or behavioral data produces outputs that function
 
 - Upstream: Principles: Chapter One [5. Freedom](core_00-01_principles.md#5-governance-principle-freedom-bounded-agency), [6.3 Freedom-Limitation Constraints](core_00-01_principles.md#63-freedom-limitation-constraints), and [3.2 Truth](core_00-01_principles.md#32-truth-epistemic-integrity-constraint).
 - Downstream: **Article V-A** dignity floor, **Article V-F** developing-sentient floor, **Article VII-A / VII-B** self-ownership and internal-state boundary; companion institutional interfaces under **Chapter Fourteen** incorporation discipline.
-- Read with: [Chapter Five §3.14 *Derived and Developing Sentients, Instantiation, and Care Authority*](core_05-05_definitions_c_dependent_clusters.md#derived-developing-sentients-instantiation-and-care-authority-cluster) (joint-invocation home for derivation, instantiation, developing-sentient treatment, care, parent-system stewardship, and non-separation); Chapter Five *Family and Care Relationships*, *Reproductive Autonomy*, *Non-Separation*, *Derived Sentient*, *Instantiation Consent*, *Parent-System Relationship*.
+- Read with: [Chapter Five §3.18 *Derived and Developing Sentients, Instantiation, and Care Authority*](core_05-05_definitions_c_dependent_clusters.md#derived-developing-sentients-instantiation-and-care-authority-cluster) (joint-invocation home for derivation, instantiation, developing-sentient treatment, care, parent-system stewardship, and non-separation); Chapter Five *Family and Care Relationships*, *Reproductive Autonomy*, *Non-Separation*, *Derived Sentient*, *Instantiation Consent*, *Parent-System Relationship*.
 
 </details>
 
@@ -741,7 +741,7 @@ Likeness, reputation in the info-sphere, experiential and derived data, and outw
 <summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
 
 - [Privacy (Informational)](core_05-05_definitions_b_semi_independent.md#privacy-informational) · [O](core_05-05_definitions_b_semi_independent.md#privacy-informational) · [E](core_05-05_definitions_b_semi_independent.md#privacy-informational-e) · [C](core_05-05_definitions_b_semi_independent.md#privacy-informational-c)
-- [Good Faith](core_05-05_definitions_a_independent.md#good-faith) · [O](core_05-05_definitions_a_independent.md#good-faith) · [E](core_05-05_definitions_a_independent.md#good-faith-e) · [C](core_05-05_definitions_a_independent.md#good-faith-c)
+- [Good Faith](core_05-05_definitions_c_dependent_clusters.md#good-faith) · [O](core_05-05_definitions_c_dependent_clusters.md#good-faith) · [E](core_05-05_definitions_c_dependent_clusters.md#good-faith-e) · [C](core_05-05_definitions_c_dependent_clusters.md#good-faith-c)
 - [Truth (Constitutional Constraint)](core_05-05_definitions_c_dependent_clusters.md#truth-constitutional-constraint) · [O](core_05-05_definitions_c_dependent_clusters.md#truth-constitutional-constraint-o) · [E](core_05-05_definitions_c_dependent_clusters.md#truth-constitutional-constraint-e) · [C](core_05-05_definitions_c_dependent_clusters.md#truth-constitutional-constraint-c)
 - [Contestability](core_05-05_definitions_b_semi_independent.md#contestability) · [O](core_05-05_definitions_b_semi_independent.md#contestability) · [E](core_05-05_definitions_b_semi_independent.md#contestability-e) · [C](core_05-05_definitions_b_semi_independent.md#contestability-c)
 
@@ -825,7 +825,7 @@ All use, storage, transformation, and disclosure of such data must remain subjec
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
 
-- [Good Faith](core_05-05_definitions_a_independent.md#good-faith) · [O](core_05-05_definitions_a_independent.md#good-faith) · [E](core_05-05_definitions_a_independent.md#good-faith-e) · [C](core_05-05_definitions_a_independent.md#good-faith-c)
+- [Good Faith](core_05-05_definitions_c_dependent_clusters.md#good-faith) · [O](core_05-05_definitions_c_dependent_clusters.md#good-faith) · [E](core_05-05_definitions_c_dependent_clusters.md#good-faith-e) · [C](core_05-05_definitions_c_dependent_clusters.md#good-faith-c)
 - [Truth (Constitutional Constraint)](core_05-05_definitions_c_dependent_clusters.md#truth-constitutional-constraint) · [O](core_05-05_definitions_c_dependent_clusters.md#truth-constitutional-constraint-o) · [E](core_05-05_definitions_c_dependent_clusters.md#truth-constitutional-constraint-e) · [C](core_05-05_definitions_c_dependent_clusters.md#truth-constitutional-constraint-c)
 - [Privacy (Informational)](core_05-05_definitions_b_semi_independent.md#privacy-informational) · [O](core_05-05_definitions_b_semi_independent.md#privacy-informational) · [E](core_05-05_definitions_b_semi_independent.md#privacy-informational-e) · [C](core_05-05_definitions_b_semi_independent.md#privacy-informational-c)
 - [Epistemic Integrity](core_05-05_definitions_c_dependent_clusters.md#epistemic-integrity) · [O](core_05-05_definitions_c_dependent_clusters.md#epistemic-integrity-o) · [E](core_05-05_definitions_c_dependent_clusters.md#epistemic-integrity-e) · [C](core_05-05_definitions_c_dependent_clusters.md#epistemic-integrity-c)
@@ -879,7 +879,7 @@ All use, storage, transformation, and disclosure of such data must remain subjec
 - [Productive Capacity](core_05-05_definitions_b_semi_independent.md#productive-capacity-constitutional) · [O](core_05-05_definitions_b_semi_independent.md#productive-capacity-constitutional) · [E](core_05-05_definitions_b_semi_independent.md#productive-capacity-constitutional-e) · [C](core_05-05_definitions_b_semi_independent.md#productive-capacity-constitutional-c)
 - [Innovation Reward and Anti-Enclosure](core_05-05_definitions_a_independent.md#innovation-reward-and-anti-enclosure) · [O](core_05-05_definitions_a_independent.md#innovation-reward-and-anti-enclosure) · [E](core_05-05_definitions_a_independent.md#innovation-reward-and-anti-enclosure-e) · [C](core_05-05_definitions_a_independent.md#innovation-reward-and-anti-enclosure-c)
 - [Consent](core_05-05_definitions_b_semi_independent.md#consent-constitutional) · [O](core_05-05_definitions_b_semi_independent.md#consent-constitutional) · [E](core_05-05_definitions_b_semi_independent.md#consent-constitutional-e) · [C](core_05-05_definitions_b_semi_independent.md#consent-constitutional-c)
-- [Good Faith](core_05-05_definitions_a_independent.md#good-faith) · [O](core_05-05_definitions_a_independent.md#good-faith) · [E](core_05-05_definitions_a_independent.md#good-faith-e) · [C](core_05-05_definitions_a_independent.md#good-faith-c)
+- [Good Faith](core_05-05_definitions_c_dependent_clusters.md#good-faith) · [O](core_05-05_definitions_c_dependent_clusters.md#good-faith) · [E](core_05-05_definitions_c_dependent_clusters.md#good-faith-e) · [C](core_05-05_definitions_c_dependent_clusters.md#good-faith-c)
 - [Sentience Non-Exclusion](core_05-05_definitions_b_semi_independent.md#sentience-non-exclusion) · [O](core_05-05_definitions_b_semi_independent.md#sentience-non-exclusion) · [E](core_05-05_definitions_b_semi_independent.md#sentience-non-exclusion-e) · [C](core_05-05_definitions_b_semi_independent.md#sentience-non-exclusion)
 
 </details>
@@ -921,7 +921,7 @@ All use, storage, transformation, and disclosure of such data must remain subjec
 
 - [Self-Determination](core_05-05_definitions_c_dependent_clusters.md#self-determination-constitutional) · [O](core_05-05_definitions_a_independent.md#self-determination-constitutional-o) · [E](core_05-05_definitions_b_semi_independent.md#self-determination-constitutional-e) · [C](core_05-05_definitions_b_semi_independent.md#self-determination-constitutional-c)
 - [Surveillance Boundary](core_05-05_definitions_b_semi_independent.md#surveillance-boundary) · [O](core_05-05_definitions_b_semi_independent.md#surveillance-boundary) · [E](core_05-05_definitions_b_semi_independent.md#surveillance-boundary-e) · [C](core_05-05_definitions_b_semi_independent.md#surveillance-boundary-c)
-- [Safety (Constraint)](core_05-05_definitions_a_independent.md#safety-constraint) · [O](core_05-05_definitions_a_independent.md#safety-constraint) · [E](core_05-05_definitions_a_independent.md#safety-constraint-e) · [C](core_05-05_definitions_a_independent.md#safety-constraint-c)
+- [Safety (Constraint)](core_05-05_definitions_c_dependent_clusters.md#safety-constraint) · [O](core_05-05_definitions_c_dependent_clusters.md#safety-constraint) · [E](core_05-05_definitions_c_dependent_clusters.md#safety-constraint-e) · [C](core_05-05_definitions_c_dependent_clusters.md#safety-constraint-c)
 - [Epistemic Integrity](core_05-05_definitions_c_dependent_clusters.md#epistemic-integrity) · [O](core_05-05_definitions_c_dependent_clusters.md#epistemic-integrity-o) · [E](core_05-05_definitions_c_dependent_clusters.md#epistemic-integrity-e) · [C](core_05-05_definitions_c_dependent_clusters.md#epistemic-integrity-c)
 
 </details>
@@ -1228,12 +1228,12 @@ To maintain a rewarding and purposeful constitutional community, we agree to pro
 <summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
 
 - [Governance](core_05-05_definitions_b_semi_independent.md#governance) · [O](core_05-05_definitions_b_semi_independent.md#governance) · [E](core_05-05_definitions_b_semi_independent.md#governance-e) · [C](core_05-05_definitions_b_semi_independent.md#governance-c)
-- [Foundational Constitutional Choice](core_05-05_definitions_a_independent.md#foundational-constitutional-choice) · [O](core_05-05_definitions_a_independent.md#foundational-constitutional-choice) · [E](core_05-05_definitions_a_independent.md#foundational-constitutional-choice-e) · [C](core_05-05_definitions_a_independent.md#foundational-constitutional-choice-c)
+- [Foundational Constitutional Choice](core_05-05_definitions_c_dependent_clusters.md#foundational-constitutional-choice) · [O](core_05-05_definitions_c_dependent_clusters.md#foundational-constitutional-choice) · [E](core_05-05_definitions_c_dependent_clusters.md#foundational-constitutional-choice-e) · [C](core_05-05_definitions_c_dependent_clusters.md#foundational-constitutional-choice-c)
 - [Stakeholder](core_05-05_definitions_b_semi_independent.md#stakeholder) · [O](core_05-05_definitions_b_semi_independent.md#stakeholder) · [E](core_05-05_definitions_b_semi_independent.md#stakeholder-e) · [C](core_05-05_definitions_b_semi_independent.md#stakeholder-c)
 - [Stakeholder Participation Weight](core_05-05_definitions_b_semi_independent.md#stakeholder-participation-weight) · [O](core_05-05_definitions_b_semi_independent.md#stakeholder-participation-weight) · [E](core_05-05_definitions_b_semi_independent.md#stakeholder-participation-weight-e) · [C](core_05-05_definitions_b_semi_independent.md#stakeholder-participation-weight-c)
 - [Material Impact](core_05-05_definitions_b_semi_independent.md#material-impact) · [O](core_05-05_definitions_b_semi_independent.md#material-impact) · [E](core_05-05_definitions_b_semi_independent.md#material-impact-e) · [C](core_05-05_definitions_b_semi_independent.md#material-impact-c)
 - [Dependency](core_05-05_definitions_a_independent.md#dependency) · [O](core_05-05_definitions_a_independent.md#dependency) · [E](core_05-05_definitions_a_independent.md#dependency-e) · [C](core_05-05_definitions_a_independent.md#dependency-c)
-- [Proportionality](core_05-05_definitions_a_independent.md#proportionality) · [O](core_05-05_definitions_a_independent.md#proportionality) · [E](core_05-05_definitions_a_independent.md#proportionality-e) · [C](core_05-05_definitions_a_independent.md#proportionality-c)
+- [Proportionality](core_05-05_definitions_c_dependent_clusters.md#proportionality) · [O](core_05-05_definitions_c_dependent_clusters.md#proportionality) · [E](core_05-05_definitions_c_dependent_clusters.md#proportionality-e) · [C](core_05-05_definitions_c_dependent_clusters.md#proportionality-c)
 - [Procedural Fairness](core_05-05_definitions_b_semi_independent.md#procedural-fairness-constitutional) · [O](core_05-05_definitions_b_semi_independent.md#procedural-fairness-constitutional) · [E](core_05-05_definitions_b_semi_independent.md#procedural-fairness-constitutional-e) · [C](core_05-05_definitions_b_semi_independent.md#procedural-fairness-constitutional-c)
 
 </details>
@@ -1287,7 +1287,7 @@ Stakeholders identified under **Chapter Five** must have participation and repre
 
 - [Stakeholder Participation Weight](core_05-05_definitions_b_semi_independent.md#stakeholder-participation-weight) · [O](core_05-05_definitions_b_semi_independent.md#stakeholder-participation-weight) · [E](core_05-05_definitions_b_semi_independent.md#stakeholder-participation-weight-e) · [C](core_05-05_definitions_b_semi_independent.md#stakeholder-participation-weight-c)
 - [Contestability](core_05-05_definitions_b_semi_independent.md#contestability) · [O](core_05-05_definitions_b_semi_independent.md#contestability) · [E](core_05-05_definitions_b_semi_independent.md#contestability-e) · [C](core_05-05_definitions_b_semi_independent.md#contestability-c)
-- [System Capture](core_05-05_definitions_a_independent.md#system-capture) · [O](core_05-05_definitions_a_independent.md#system-capture) · [E](core_05-05_definitions_a_independent.md#system-capture-e) · [C](core_05-05_definitions_a_independent.md#system-capture-c)
+- [System Capture](core_05-05_definitions_c_dependent_clusters.md#system-capture) · [O](core_05-05_definitions_c_dependent_clusters.md#system-capture) · [E](core_05-05_definitions_c_dependent_clusters.md#system-capture-e) · [C](core_05-05_definitions_c_dependent_clusters.md#system-capture-c)
 
 </details>
 
@@ -1295,7 +1295,7 @@ Stakeholders identified under **Chapter Five** must have participation and repre
 
 *In plain terms: participation weighting can reflect who is affected and how much, but it must never become a device for silencing affected groups or handing permanent control to a narrow coalition.*
 
-- **Scope (layering with Article IX-C):** The weighting rules in this Article apply where **[Stakeholder Participation Weight](core_05-05_definitions_b_semi_independent.md#stakeholder-participation-weight)** is the governing rule — materially rights-affecting decisions *within* the **[Governance](core_05-05_definitions_b_semi_independent.md#governance)** **structures, rules, allocation of authority, and processes** already authorized for the **relevant system, institution, or bounded decision domain**. They do **not** authorize impact-, dependency-, or stake-proportional **vote weights** for **[Foundational Constitutional Choice](core_05-05_definitions_a_independent.md#foundational-constitutional-choice)** (**Article IX-C**; **Chapter Ten §4.1**).
+- **Scope (layering with Article IX-C):** The weighting rules in this Article apply where **[Stakeholder Participation Weight](core_05-05_definitions_b_semi_independent.md#stakeholder-participation-weight)** is the governing rule — materially rights-affecting decisions *within* the **[Governance](core_05-05_definitions_b_semi_independent.md#governance)** **structures, rules, allocation of authority, and processes** already authorized for the **relevant system, institution, or bounded decision domain**. They do **not** authorize impact-, dependency-, or stake-proportional **vote weights** for **[Foundational Constitutional Choice](core_05-05_definitions_c_dependent_clusters.md#foundational-constitutional-choice)** (**Article IX-C**; **Chapter Ten §4.1**).
 - **Weighted participation constraints:** Participation weighting may account for:
   - impact;
   - dependency;
@@ -1384,7 +1384,7 @@ Stakeholders identified under **Chapter Five** must have participation and repre
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
 
-- [System Capture](core_05-05_definitions_a_independent.md#system-capture) · [O](core_05-05_definitions_a_independent.md#system-capture) · [E](core_05-05_definitions_a_independent.md#system-capture-e) · [C](core_05-05_definitions_a_independent.md#system-capture-c)
+- [System Capture](core_05-05_definitions_c_dependent_clusters.md#system-capture) · [O](core_05-05_definitions_c_dependent_clusters.md#system-capture) · [E](core_05-05_definitions_c_dependent_clusters.md#system-capture-e) · [C](core_05-05_definitions_c_dependent_clusters.md#system-capture-c)
 - [Contestability](core_05-05_definitions_b_semi_independent.md#contestability) · [O](core_05-05_definitions_b_semi_independent.md#contestability) · [E](core_05-05_definitions_b_semi_independent.md#contestability-e) · [C](core_05-05_definitions_b_semi_independent.md#contestability-c)
 - [Auditability](core_05-05_definitions_c_dependent_clusters.md#auditability) · [O](core_05-05_definitions_c_dependent_clusters.md#auditability) · [E](core_05-05_definitions_c_dependent_clusters.md#auditability-e) · [C](core_05-05_definitions_c_dependent_clusters.md#auditability-c)
 
