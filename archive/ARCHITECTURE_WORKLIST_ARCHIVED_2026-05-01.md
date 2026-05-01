@@ -2,7 +2,7 @@
 
 This file holds the living architecture and publication checklist that previously lived in [doc_architecture.md](../doc_architecture.md) section 14.
 
-It is a process and execution tracker, not part of the normative Sentient Constitution corpus. Full cleanup snapshots are preserved at [../archive/ARCHITECTURE_WORKLIST_ARCHIVED_2026-04-30.md](../archive/ARCHITECTURE_WORKLIST_ARCHIVED_2026-04-30.md) (pre-slim copy), [../archive/ARCHITECTURE_WORKLIST_SNAPSHOT_2026-04-30.md](../archive/ARCHITECTURE_WORKLIST_SNAPSHOT_2026-04-30.md), and [../archive/ARCHITECTURE_WORKLIST_SNAPSHOT_2026-04-30_POST_COMMIT.md](../archive/ARCHITECTURE_WORKLIST_SNAPSHOT_2026-04-30_POST_COMMIT.md).
+It is a process and execution tracker, not part of the normative Sentient Constitution corpus. Full cleanup snapshots are preserved at [ARCHITECTURE_WORKLIST_ARCHIVED_2026-05-01_prior.md](ARCHITECTURE_WORKLIST_ARCHIVED_2026-05-01_prior.md) (superseded 2026-05-01 snapshot), [ARCHITECTURE_WORKLIST_ARCHIVED_2026-04-30.md](ARCHITECTURE_WORKLIST_ARCHIVED_2026-04-30.md) (pre–2026-04-30 slim copy), [ARCHITECTURE_WORKLIST_SNAPSHOT_2026-04-30.md](ARCHITECTURE_WORKLIST_SNAPSHOT_2026-04-30.md), and [ARCHITECTURE_WORKLIST_SNAPSHOT_2026-04-30_POST_COMMIT.md](ARCHITECTURE_WORKLIST_SNAPSHOT_2026-04-30_POST_COMMIT.md).
 
 Numbering note: section number **14** is preserved from [doc_architecture.md](../doc_architecture.md) so historical references remain easy to translate.
 
@@ -32,7 +32,7 @@ Numbering note: section number **14** is preserved from [doc_architecture.md](..
 
 ### Completed Historical Work
 
-The detailed completed checklist history, including external-governance-framework alignment items, is archived in [../archive/ARCHITECTURE_WORKLIST_SNAPSHOT_2026-04-30.md](../archive/ARCHITECTURE_WORKLIST_SNAPSHOT_2026-04-30.md) and mirrored in the pre-slim full copy [../archive/ARCHITECTURE_WORKLIST_ARCHIVED_2026-04-30.md](../archive/ARCHITECTURE_WORKLIST_ARCHIVED_2026-04-30.md).
+The detailed completed checklist history, including external-governance-framework alignment items, is archived in [ARCHITECTURE_WORKLIST_SNAPSHOT_2026-04-30.md](ARCHITECTURE_WORKLIST_SNAPSHOT_2026-04-30.md) and mirrored in the pre-slim copies [ARCHITECTURE_WORKLIST_ARCHIVED_2026-05-01_prior.md](ARCHITECTURE_WORKLIST_ARCHIVED_2026-05-01_prior.md) and [ARCHITECTURE_WORKLIST_ARCHIVED_2026-04-30.md](ARCHITECTURE_WORKLIST_ARCHIVED_2026-04-30.md).
 
 Completed items include:
 

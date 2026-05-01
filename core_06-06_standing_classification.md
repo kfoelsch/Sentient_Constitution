@@ -374,7 +374,7 @@ Adopted implementation may publish calibrated units, evidentiary methods, and ex
 - [Materiality Determination](core_05-05_definitions_b_semi_independent.md#materiality-determination) · [O](core_05-05_definitions_b_semi_independent.md#materiality-determination) · [E](core_05-05_definitions_b_semi_independent.md#materiality-determination-e) · [C](core_05-05_definitions_b_semi_independent.md#materiality-determination-c)
 - [Auditability](core_05-05_definitions_c_dependent_clusters.md#auditability) · [O](core_05-05_definitions_c_dependent_clusters.md#auditability) · [E](core_05-05_definitions_c_dependent_clusters.md#auditability-e) · [C](core_05-05_definitions_c_dependent_clusters.md#auditability-c)
 - [Contestability](core_05-05_definitions_b_semi_independent.md#contestability) · [O](core_05-05_definitions_b_semi_independent.md#contestability) · [E](core_05-05_definitions_b_semi_independent.md#contestability-e) · [C](core_05-05_definitions_b_semi_independent.md#contestability-c)
-- [Dependency](core_05-05_definitions_a_independent.md#dependency) · [O](core_05-05_definitions_a_independent.md#dependency) · [E](core_05-05_definitions_a_independent.md#dependency-e) · [C](core_05-05_definitions_a_independent.md#dependency-c)
+- [Dependency](core_05-05_definitions_b_semi_independent.md#dependency) · [O](core_05-05_definitions_b_semi_independent.md#dependency) · [E](core_05-05_definitions_b_semi_independent.md#dependency-e) · [C](core_05-05_definitions_b_semi_independent.md#dependency-c)
 - [Supremacy and Enforceability](core_05-05_definitions_b_semi_independent.md#supremacy-and-enforceability) · [O](core_05-05_definitions_b_semi_independent.md#supremacy-and-enforceability) · [E](core_05-05_definitions_b_semi_independent.md#supremacy-and-enforceability-e) · [C](core_05-05_definitions_b_semi_independent.md#supremacy-and-enforceability-c)
 
 </details>
@@ -475,7 +475,7 @@ Baseline contribution means required constitutional conditions are met without u
 
 - Upstream: [§3.2.1](#31-baseline-contribution) (*baseline band*); [§3.2](#3-axis-i-contribution-state-and-standing-effect) (*positive-only discipline*).
 - Downstream: [§3.2.4](#34-champion-contribution); [§4.4](core_06-06_standing_integration.md#38-standing-integration-category-hook); [§6.2](core_06-06_standing_integration.md#72-stackable-benefit-and-stewardship-descriptors-contribution-state-supplement).
-- Read with: [Contribution State](core_05-05_definitions_b_semi_independent.md#contribution-state) (*Chapter Five pointer — operative Contribution Axis text in **section 3.2***); [Harm](core_05-05_definitions_c_dependent_clusters.md#harm) · [O](core_05-05_definitions_c_dependent_clusters.md#harm) · [E](core_05-05_definitions_c_dependent_clusters.md#harm-e) · [C](core_05-05_definitions_c_dependent_clusters.md#harm-c); [Risk](core_05-05_definitions_a_independent.md#risk) · [O](core_05-05_definitions_a_independent.md#risk) · [E](core_05-05_definitions_a_independent.md#risk-e) · [C](core_05-05_definitions_a_independent.md#risk-c).
+- Read with: [Contribution State](core_05-05_definitions_b_semi_independent.md#contribution-state) (*Chapter Five pointer — operative Contribution Axis text in **section 3.2***); [Harm](core_05-05_definitions_c_dependent_clusters.md#harm) · [O](core_05-05_definitions_c_dependent_clusters.md#harm) · [E](core_05-05_definitions_c_dependent_clusters.md#harm-e) · [C](core_05-05_definitions_c_dependent_clusters.md#harm-c); [Risk](core_05-05_definitions_b_semi_independent.md#risk) · [O](core_05-05_definitions_b_semi_independent.md#risk) · [E](core_05-05_definitions_b_semi_independent.md#risk-e) · [C](core_05-05_definitions_b_semi_independent.md#risk-c).
 
 </details>
 
@@ -505,7 +505,7 @@ Improvements include measurable reduction of systemic risk, restoration of harme
 
 - Upstream: [§3.2.2](#32-positive-contribution) (*uplift beyond baseline*); [§3.2](#3-axis-i-contribution-state-and-standing-effect).
 - Downstream: [§3.2.4](#34-champion-contribution); [§6.2](core_06-06_standing_integration.md#72-stackable-benefit-and-stewardship-descriptors-contribution-state-supplement) (*Constitutional Alignment and related supplements*).
-- Read with: [Contribution State](core_05-05_definitions_b_semi_independent.md#contribution-state) (*Chapter Five pointer — operative Contribution Axis text in **section 3.2***); [Dependency](core_05-05_definitions_a_independent.md#dependency) · [O](core_05-05_definitions_a_independent.md#dependency) · [E](core_05-05_definitions_a_independent.md#dependency-e) · [C](core_05-05_definitions_a_independent.md#dependency-c); [System Capture](core_05-05_definitions_c_dependent_clusters.md#system-capture) · [O](core_05-05_definitions_c_dependent_clusters.md#system-capture) · [E](core_05-05_definitions_c_dependent_clusters.md#system-capture-e) · [C](core_05-05_definitions_c_dependent_clusters.md#system-capture-c).
+- Read with: [Contribution State](core_05-05_definitions_b_semi_independent.md#contribution-state) (*Chapter Five pointer — operative Contribution Axis text in **section 3.2***); [Dependency](core_05-05_definitions_b_semi_independent.md#dependency) · [O](core_05-05_definitions_b_semi_independent.md#dependency) · [E](core_05-05_definitions_b_semi_independent.md#dependency-e) · [C](core_05-05_definitions_b_semi_independent.md#dependency-c); [System Capture](core_05-05_definitions_c_dependent_clusters.md#system-capture) · [O](core_05-05_definitions_c_dependent_clusters.md#system-capture) · [E](core_05-05_definitions_c_dependent_clusters.md#system-capture-e) · [C](core_05-05_definitions_c_dependent_clusters.md#system-capture-c).
 
 </details>
 
@@ -513,8 +513,8 @@ Improvements include measurable reduction of systemic risk, restoration of harme
 <summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
 
 - [Contribution State](core_05-05_definitions_b_semi_independent.md#contribution-state) · [O](core_05-05_definitions_b_semi_independent.md#contribution-state) · [E](core_05-05_definitions_b_semi_independent.md#contribution-state-e) · [C](core_05-05_definitions_b_semi_independent.md#contribution-state-c)
-- [Dependency](core_05-05_definitions_a_independent.md#dependency) · [O](core_05-05_definitions_a_independent.md#dependency) · [E](core_05-05_definitions_a_independent.md#dependency-e) · [C](core_05-05_definitions_a_independent.md#dependency-c)
-- [Risk](core_05-05_definitions_a_independent.md#risk) · [O](core_05-05_definitions_a_independent.md#risk) · [E](core_05-05_definitions_a_independent.md#risk-e) · [C](core_05-05_definitions_a_independent.md#risk-c)
+- [Dependency](core_05-05_definitions_b_semi_independent.md#dependency) · [O](core_05-05_definitions_b_semi_independent.md#dependency) · [E](core_05-05_definitions_b_semi_independent.md#dependency-e) · [C](core_05-05_definitions_b_semi_independent.md#dependency-c)
+- [Risk](core_05-05_definitions_b_semi_independent.md#risk) · [O](core_05-05_definitions_b_semi_independent.md#risk) · [E](core_05-05_definitions_b_semi_independent.md#risk-e) · [C](core_05-05_definitions_b_semi_independent.md#risk-c)
 
 </details>
 
@@ -534,7 +534,7 @@ That contribution includes prevention investments, ecosystem-strengthening coord
 
 - Upstream: [§3.2.3](#33-stewardship-positive-contribution) (*stewardship-positive band*); [§3.2](#3-axis-i-contribution-state-and-standing-effect) (*positive-only discipline*).
 - Downstream: [§4.1](core_06-06_standing_integration.md#35-positive-standing-recognition); [§4.4](core_06-06_standing_integration.md#38-standing-integration-category-hook); [§6.2](core_06-06_standing_integration.md#72-stackable-benefit-and-stewardship-descriptors-contribution-state-supplement).
-- Read with: [Contribution State](core_05-05_definitions_b_semi_independent.md#contribution-state) (*Chapter Five pointer — operative Contribution Axis text in **section 3.2***); [Dependency](core_05-05_definitions_a_independent.md#dependency) · [O](core_05-05_definitions_a_independent.md#dependency) · [E](core_05-05_definitions_a_independent.md#dependency-e) · [C](core_05-05_definitions_a_independent.md#dependency-c); [System Capture](core_05-05_definitions_c_dependent_clusters.md#system-capture) · [O](core_05-05_definitions_c_dependent_clusters.md#system-capture) · [E](core_05-05_definitions_c_dependent_clusters.md#system-capture-e) · [C](core_05-05_definitions_c_dependent_clusters.md#system-capture-c); [Materiality Determination](core_05-05_definitions_b_semi_independent.md#materiality-determination) · [O](core_05-05_definitions_b_semi_independent.md#materiality-determination) · [E](core_05-05_definitions_b_semi_independent.md#materiality-determination-e) · [C](core_05-05_definitions_b_semi_independent.md#materiality-determination-c).
+- Read with: [Contribution State](core_05-05_definitions_b_semi_independent.md#contribution-state) (*Chapter Five pointer — operative Contribution Axis text in **section 3.2***); [Dependency](core_05-05_definitions_b_semi_independent.md#dependency) · [O](core_05-05_definitions_b_semi_independent.md#dependency) · [E](core_05-05_definitions_b_semi_independent.md#dependency-e) · [C](core_05-05_definitions_b_semi_independent.md#dependency-c); [System Capture](core_05-05_definitions_c_dependent_clusters.md#system-capture) · [O](core_05-05_definitions_c_dependent_clusters.md#system-capture) · [E](core_05-05_definitions_c_dependent_clusters.md#system-capture-e) · [C](core_05-05_definitions_c_dependent_clusters.md#system-capture-c); [Materiality Determination](core_05-05_definitions_b_semi_independent.md#materiality-determination) · [O](core_05-05_definitions_b_semi_independent.md#materiality-determination) · [E](core_05-05_definitions_b_semi_independent.md#materiality-determination-e) · [C](core_05-05_definitions_b_semi_independent.md#materiality-determination-c).
 
 </details>
 
@@ -542,8 +542,8 @@ That contribution includes prevention investments, ecosystem-strengthening coord
 <summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
 
 - [Contribution State](core_05-05_definitions_b_semi_independent.md#contribution-state) · [O](core_05-05_definitions_b_semi_independent.md#contribution-state) · [E](core_05-05_definitions_b_semi_independent.md#contribution-state-e) · [C](core_05-05_definitions_b_semi_independent.md#contribution-state-c)
-- [Dependency](core_05-05_definitions_a_independent.md#dependency) · [O](core_05-05_definitions_a_independent.md#dependency) · [E](core_05-05_definitions_a_independent.md#dependency-e) · [C](core_05-05_definitions_a_independent.md#dependency-c)
-- [Risk](core_05-05_definitions_a_independent.md#risk) · [O](core_05-05_definitions_a_independent.md#risk) · [E](core_05-05_definitions_a_independent.md#risk-e) · [C](core_05-05_definitions_a_independent.md#risk-c)
+- [Dependency](core_05-05_definitions_b_semi_independent.md#dependency) · [O](core_05-05_definitions_b_semi_independent.md#dependency) · [E](core_05-05_definitions_b_semi_independent.md#dependency-e) · [C](core_05-05_definitions_b_semi_independent.md#dependency-c)
+- [Risk](core_05-05_definitions_b_semi_independent.md#risk) · [O](core_05-05_definitions_b_semi_independent.md#risk) · [E](core_05-05_definitions_b_semi_independent.md#risk-e) · [C](core_05-05_definitions_b_semi_independent.md#risk-c)
 - [Auditability](core_05-05_definitions_c_dependent_clusters.md#auditability) · [O](core_05-05_definitions_c_dependent_clusters.md#auditability) · [E](core_05-05_definitions_c_dependent_clusters.md#auditability-e) · [C](core_05-05_definitions_c_dependent_clusters.md#auditability-c)
 
 </details>
@@ -566,7 +566,7 @@ It includes outcomes such as **durable** reduction of **systemic** **dependency*
 
 - Upstream: [§2](#2-primary-contribution-and-violation-levels) (*two-axis map, verified-input rule, and standing-cell records*); [§3.1](#3-primary-category-defaults-and-lequ-slot-baseline) (*primary category defaults and LEQU slot baseline*); [§3.2](#3-axis-i-contribution-state-and-standing-effect) (*contribution state on the **Contribution Axis***); [§6.3](core_06-06_standing_integration.md#73-stackable-harm-and-conduct-descriptors-violation-nature-supplement) (*Violation Axis supplements*).
 - Downstream: [§3.3.0](#40-scope-violation-nature-and-standing-inputs) (*Violation Axis rule*); [§3.3.1](#41-formal-non-compliance) through [§3.3.7](#47-critical-non-compliance) (*non-compliance severity ladder*); [§3.3.8](#48-adjacent-level-application-notes) (*adjacent-level application notes*); [§5](core_06-06_standing_integration.md#6-extended-axis-ii-legal-hybrid-duty-and-harm-descriptors) (*process / response character, hybrid, and duty material*); [§7](core_06-06_standing_integration.md#8-cross-axis-coupling-and-escalation-constraints) (*standing integration and no-netting mechanics*); [Chapter Seven](core_07-07_misconduct.md#chapter-seven-anti-constitutional-misconduct).
-- Read with: [Supremacy and Enforceability](core_05-05_definitions_b_semi_independent.md#supremacy-and-enforceability), [Constitutional Constraint Violation](core_05-05_definitions_a_independent.md#constitutional-constraint-violation), [Harm](core_05-05_definitions_c_dependent_clusters.md#harm), and [Materiality Determination](core_05-05_definitions_b_semi_independent.md#materiality-determination).
+- Read with: [Supremacy and Enforceability](core_05-05_definitions_b_semi_independent.md#supremacy-and-enforceability), [Constitutional Constraint Violation](core_05-05_definitions_b_semi_independent.md#constitutional-constraint-violation), [Harm](core_05-05_definitions_c_dependent_clusters.md#harm), and [Materiality Determination](core_05-05_definitions_b_semi_independent.md#materiality-determination).
 
 </details>
 
@@ -575,7 +575,7 @@ It includes outcomes such as **durable** reduction of **systemic** **dependency*
 
 - [Harm](core_05-05_definitions_c_dependent_clusters.md#harm) · [O](core_05-05_definitions_c_dependent_clusters.md#harm) · [E](core_05-05_definitions_c_dependent_clusters.md#harm-e) · [C](core_05-05_definitions_c_dependent_clusters.md#harm-c)
 - [Materiality Determination](core_05-05_definitions_b_semi_independent.md#materiality-determination) · [O](core_05-05_definitions_b_semi_independent.md#materiality-determination) · [E](core_05-05_definitions_b_semi_independent.md#materiality-determination-e) · [C](core_05-05_definitions_b_semi_independent.md#materiality-determination-c)
-- [Constitutional Constraint Violation](core_05-05_definitions_a_independent.md#constitutional-constraint-violation) · [O](core_05-05_definitions_a_independent.md#constitutional-constraint-violation) · [E](core_05-05_definitions_a_independent.md#constitutional-constraint-violation-e) · [C](core_05-05_definitions_a_independent.md#constitutional-constraint-violation-c)
+- [Constitutional Constraint Violation](core_05-05_definitions_b_semi_independent.md#constitutional-constraint-violation) · [O](core_05-05_definitions_b_semi_independent.md#constitutional-constraint-violation) · [E](core_05-05_definitions_b_semi_independent.md#constitutional-constraint-violation-e) · [C](core_05-05_definitions_b_semi_independent.md#constitutional-constraint-violation-c)
 - [Coercion and Manipulation](core_05-05_definitions_b_semi_independent.md#coercion-and-manipulation-constitutional) · [O](core_05-05_definitions_b_semi_independent.md#coercion-and-manipulation-constitutional) · [E](core_05-05_definitions_b_semi_independent.md#coercion-and-manipulation-constitutional-e) · [C](core_05-05_definitions_b_semi_independent.md#coercion-and-manipulation-constitutional-c)
 - [Foreseeability Diligence](core_05-05_definitions_c_dependent_clusters.md#foreseeability-diligence) · [O](core_05-05_definitions_c_dependent_clusters.md#foreseeability-diligence) · [E](core_05-05_definitions_c_dependent_clusters.md#foreseeability-diligence-e) · [C](core_05-05_definitions_c_dependent_clusters.md#foreseeability-diligence-c)
 
@@ -622,7 +622,7 @@ This table is a reader map. It shows the shared `s` = 1 through 9 slot display w
 
 - [Harm](core_05-05_definitions_c_dependent_clusters.md#harm) · [O](core_05-05_definitions_c_dependent_clusters.md#harm) · [E](core_05-05_definitions_c_dependent_clusters.md#harm-e) · [C](core_05-05_definitions_c_dependent_clusters.md#harm-c)
 - [Materiality Determination](core_05-05_definitions_b_semi_independent.md#materiality-determination) · [O](core_05-05_definitions_b_semi_independent.md#materiality-determination) · [E](core_05-05_definitions_b_semi_independent.md#materiality-determination-e) · [C](core_05-05_definitions_b_semi_independent.md#materiality-determination-c)
-- [Constitutional Constraint Violation](core_05-05_definitions_a_independent.md#constitutional-constraint-violation) · [O](core_05-05_definitions_a_independent.md#constitutional-constraint-violation) · [E](core_05-05_definitions_a_independent.md#constitutional-constraint-violation-e) · [C](core_05-05_definitions_a_independent.md#constitutional-constraint-violation-c)
+- [Constitutional Constraint Violation](core_05-05_definitions_b_semi_independent.md#constitutional-constraint-violation) · [O](core_05-05_definitions_b_semi_independent.md#constitutional-constraint-violation) · [E](core_05-05_definitions_b_semi_independent.md#constitutional-constraint-violation-e) · [C](core_05-05_definitions_b_semi_independent.md#constitutional-constraint-violation-c)
 - [Supremacy and Enforceability](core_05-05_definitions_b_semi_independent.md#supremacy-and-enforceability) · [O](core_05-05_definitions_b_semi_independent.md#supremacy-and-enforceability) · [E](core_05-05_definitions_b_semi_independent.md#supremacy-and-enforceability-e) · [C](core_05-05_definitions_b_semi_independent.md#supremacy-and-enforceability-c)
 
 </details>
@@ -690,7 +690,7 @@ Where binding obligations require operational capability, treating paper claims,
 
 - [Materiality Determination](core_05-05_definitions_b_semi_independent.md#materiality-determination) · [O](core_05-05_definitions_b_semi_independent.md#materiality-determination) · [E](core_05-05_definitions_b_semi_independent.md#materiality-determination-e) · [C](core_05-05_definitions_b_semi_independent.md#materiality-determination-c)
 - [Coercion and Manipulation](core_05-05_definitions_b_semi_independent.md#coercion-and-manipulation-constitutional) · [O](core_05-05_definitions_b_semi_independent.md#coercion-and-manipulation-constitutional) · [E](core_05-05_definitions_b_semi_independent.md#coercion-and-manipulation-constitutional-e) · [C](core_05-05_definitions_b_semi_independent.md#coercion-and-manipulation-constitutional-c)
-- [Meaningful Agency](core_05-05_definitions_b_semi_independent.md#meaningful-agency) · [O](core_05-05_definitions_a_independent.md#meaningful-agency-o) · [E](core_05-05_definitions_b_semi_independent.md#meaningful-agency-e) · [C](core_05-05_definitions_b_semi_independent.md#meaningful-agency-c)
+- [Meaningful Agency](core_05-05_definitions_b_semi_independent.md#meaningful-agency) · [O](core_05-05_definitions_b_semi_independent.md#meaningful-agency-o) · [E](core_05-05_definitions_b_semi_independent.md#meaningful-agency-e) · [C](core_05-05_definitions_b_semi_independent.md#meaningful-agency-c)
 
 </details>
 
@@ -712,16 +712,16 @@ Material psychological harm, trauma, or coercively induced psychological destabi
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [§3.3.2](#42-remedial-substantive-non-compliance); [Supremacy and Enforceability](core_05-05_definitions_b_semi_independent.md#supremacy-and-enforceability); [Constitutional Constraint Violation](core_05-05_definitions_a_independent.md#constitutional-constraint-violation).
+- Upstream: [§3.3.2](#42-remedial-substantive-non-compliance); [Supremacy and Enforceability](core_05-05_definitions_b_semi_independent.md#supremacy-and-enforceability); [Constitutional Constraint Violation](core_05-05_definitions_b_semi_independent.md#constitutional-constraint-violation).
 - Downstream: [§3.3.5](#45-aggravated-non-compliance); [§3.3.7](#47-critical-non-compliance); [§5.3](core_06-06_standing_integration.md#63-constitutional-floor-character); [§10](core_06-06_standing_integration.md#10-violation-axis-s-7-9-anti-constitutional-misconduct-authoritative-location).
-- Read with: [Constitutional Constraint Violation](core_05-05_definitions_a_independent.md#constitutional-constraint-violation) · [O](core_05-05_definitions_a_independent.md#constitutional-constraint-violation) · [E](core_05-05_definitions_a_independent.md#constitutional-constraint-violation-e) · [C](core_05-05_definitions_a_independent.md#constitutional-constraint-violation-c); [Supremacy and Enforceability](core_05-05_definitions_b_semi_independent.md#supremacy-and-enforceability).
+- Read with: [Constitutional Constraint Violation](core_05-05_definitions_b_semi_independent.md#constitutional-constraint-violation) · [O](core_05-05_definitions_b_semi_independent.md#constitutional-constraint-violation) · [E](core_05-05_definitions_b_semi_independent.md#constitutional-constraint-violation-e) · [C](core_05-05_definitions_b_semi_independent.md#constitutional-constraint-violation-c); [Supremacy and Enforceability](core_05-05_definitions_b_semi_independent.md#supremacy-and-enforceability).
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
 
-- [Constitutional Constraint Violation](core_05-05_definitions_a_independent.md#constitutional-constraint-violation) · [O](core_05-05_definitions_a_independent.md#constitutional-constraint-violation) · [E](core_05-05_definitions_a_independent.md#constitutional-constraint-violation-e) · [C](core_05-05_definitions_a_independent.md#constitutional-constraint-violation-c)
+- [Constitutional Constraint Violation](core_05-05_definitions_b_semi_independent.md#constitutional-constraint-violation) · [O](core_05-05_definitions_b_semi_independent.md#constitutional-constraint-violation) · [E](core_05-05_definitions_b_semi_independent.md#constitutional-constraint-violation-e) · [C](core_05-05_definitions_b_semi_independent.md#constitutional-constraint-violation-c)
 - [Supremacy and Enforceability](core_05-05_definitions_b_semi_independent.md#supremacy-and-enforceability) · [O](core_05-05_definitions_b_semi_independent.md#supremacy-and-enforceability) · [E](core_05-05_definitions_b_semi_independent.md#supremacy-and-enforceability-e) · [C](core_05-05_definitions_b_semi_independent.md#supremacy-and-enforceability-c)
 
 </details>
@@ -773,7 +773,7 @@ It may co-occur with remedial, significant substantive, aggravated, coercive or 
 
 - Upstream: [§3.3.1](#41-formal-non-compliance); [§3.3.2](#42-remedial-substantive-non-compliance); [§3.3.3](#43-constitutional-substantive-non-compliance); [§3.3.4](#44-duty-based-or-negligent-harm-non-compliance); [§7](core_06-06_standing_integration.md#8-cross-axis-coupling-and-escalation-constraints) (*pattern escalation*).
 - Downstream: [§3.3.6](#46-coercive-or-punitive-process-non-compliance); [§3.3.7](#47-critical-non-compliance); [§9](core_06-06_standing_integration.md#10-enforcement-realism-anchors) (*anti-evasion anchor*).
-- Read with: [System Capture](core_05-05_definitions_c_dependent_clusters.md#system-capture) · [O](core_05-05_definitions_c_dependent_clusters.md#system-capture) · [E](core_05-05_definitions_c_dependent_clusters.md#system-capture-e) · [C](core_05-05_definitions_c_dependent_clusters.md#system-capture-c); [Dependency](core_05-05_definitions_a_independent.md#dependency) · [O](core_05-05_definitions_a_independent.md#dependency) · [E](core_05-05_definitions_a_independent.md#dependency-e) · [C](core_05-05_definitions_a_independent.md#dependency-c).
+- Read with: [System Capture](core_05-05_definitions_c_dependent_clusters.md#system-capture) · [O](core_05-05_definitions_c_dependent_clusters.md#system-capture) · [E](core_05-05_definitions_c_dependent_clusters.md#system-capture-e) · [C](core_05-05_definitions_c_dependent_clusters.md#system-capture-c); [Dependency](core_05-05_definitions_b_semi_independent.md#dependency) · [O](core_05-05_definitions_b_semi_independent.md#dependency) · [E](core_05-05_definitions_b_semi_independent.md#dependency-e) · [C](core_05-05_definitions_b_semi_independent.md#dependency-c).
 
 </details>
 
@@ -830,7 +830,7 @@ It may carry a **punitive or liberty-restricting character** under **section 5.2
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
 
-- [Dignity and Equal Moral Standing](core_05-05_definitions_a_independent.md#dignity-and-equal-moral-standing) · [O](core_05-05_definitions_a_independent.md#dignity-and-equal-moral-standing) · [E](core_05-05_definitions_a_independent.md#dignity-and-equal-moral-standing-e) · [C](core_05-05_definitions_a_independent.md#dignity-and-equal-moral-standing-c)
+- [Dignity and Equal Moral Standing](core_05-05_definitions_b_semi_independent.md#dignity-and-equal-moral-standing) · [O](core_05-05_definitions_b_semi_independent.md#dignity-and-equal-moral-standing) · [E](core_05-05_definitions_b_semi_independent.md#dignity-and-equal-moral-standing-e) · [C](core_05-05_definitions_b_semi_independent.md#dignity-and-equal-moral-standing-c)
 - [Harm](core_05-05_definitions_c_dependent_clusters.md#harm) · [O](core_05-05_definitions_c_dependent_clusters.md#harm) · [E](core_05-05_definitions_c_dependent_clusters.md#harm-e) · [C](core_05-05_definitions_c_dependent_clusters.md#harm-c)
 
 </details>

@@ -96,7 +96,7 @@ The Earth's biophysical and living-system conditions are preconditions for every
 - [Environmental Preconditions](core_05-05_definitions_b_semi_independent.md#environmental-preconditions-constitutional) · [O](core_05-05_definitions_b_semi_independent.md#environmental-preconditions-constitutional) · [E](core_05-05_definitions_b_semi_independent.md#environmental-preconditions-constitutional-e) · [C](core_05-05_definitions_b_semi_independent.md#environmental-preconditions-constitutional-c)
 - [Ecological Integrity](core_05-05_definitions_b_semi_independent.md#ecological-integrity-constitutional) · [O](core_05-05_definitions_b_semi_independent.md#ecological-integrity-constitutional) · [E](core_05-05_definitions_b_semi_independent.md#ecological-integrity-constitutional-e) · [C](core_05-05_definitions_b_semi_independent.md#ecological-integrity-constitutional-c)
 - [Sustainability](core_05-05_definitions_b_semi_independent.md#sustainability) · [O](core_05-05_definitions_b_semi_independent.md#sustainability) · [E](core_05-05_definitions_b_semi_independent.md#sustainability-e) · [C](core_05-05_definitions_b_semi_independent.md#sustainability-c)
-- [Natural Systems Standing](core_05-05_definitions_a_independent.md#natural-systems-standing) · [O](core_05-05_definitions_a_independent.md#natural-systems-standing) · [E](core_05-05_definitions_a_independent.md#natural-systems-standing-e) · [C](core_05-05_definitions_a_independent.md#natural-systems-standing-c)
+- [Natural Systems Standing](core_05-05_definitions_b_semi_independent.md#natural-systems-standing) · [O](core_05-05_definitions_b_semi_independent.md#natural-systems-standing) · [E](core_05-05_definitions_b_semi_independent.md#natural-systems-standing-e) · [C](core_05-05_definitions_b_semi_independent.md#natural-systems-standing-c)
 - [Animal Life](core_05-05_definitions_b_semi_independent.md#animal-life-constitutional) · [O](core_05-05_definitions_b_semi_independent.md#animal-life-constitutional) · [E](core_05-05_definitions_b_semi_independent.md#animal-life-constitutional-e) · [C](core_05-05_definitions_b_semi_independent.md#animal-life-constitutional-c)
 - [Contested-Sentient Life](core_05-05_definitions_b_semi_independent.md#contested-sentient-life-constitutional) · [O](core_05-05_definitions_b_semi_independent.md#contested-sentient-life-constitutional) · [E](core_05-05_definitions_b_semi_independent.md#contested-sentient-life-constitutional-e) · [C](core_05-05_definitions_b_semi_independent.md#contested-sentient-life-constitutional-c)
 - [Wellbeing](core_05-05_definitions_c_dependent_clusters.md#wellbeing) · [O](core_05-05_definitions_c_dependent_clusters.md#wellbeing) · [E](core_05-05_definitions_c_dependent_clusters.md#wellbeing-e) · [C](core_05-05_definitions_c_dependent_clusters.md#wellbeing-c)
@@ -187,7 +187,7 @@ The Earth's biophysical and living-system conditions are preconditions for every
 
 - [Existential Risk](core_05-05_definitions_c_dependent_clusters.md#existential-risk) · [O](core_05-05_definitions_c_dependent_clusters.md#existential-risk) · [E](core_05-05_definitions_c_dependent_clusters.md#existential-risk-e) · [C](core_05-05_definitions_c_dependent_clusters.md#existential-risk-c)
 - [Foreseeability](core_05-05_definitions_c_dependent_clusters.md#foreseeability-diligence) · [O](core_05-05_definitions_c_dependent_clusters.md#foreseeability-diligence) · [E](core_05-05_definitions_c_dependent_clusters.md#foreseeability-diligence-e) · [C](core_05-05_definitions_c_dependent_clusters.md#foreseeability-diligence-c)
-- [Dependency](core_05-05_definitions_a_independent.md#dependency) · [O](core_05-05_definitions_a_independent.md#dependency) · [E](core_05-05_definitions_a_independent.md#dependency-e) · [C](core_05-05_definitions_a_independent.md#dependency-c)
+- [Dependency](core_05-05_definitions_b_semi_independent.md#dependency) · [O](core_05-05_definitions_b_semi_independent.md#dependency) · [E](core_05-05_definitions_b_semi_independent.md#dependency-e) · [C](core_05-05_definitions_b_semi_independent.md#dependency-c)
 
 </details>
 
@@ -271,7 +271,7 @@ Procedural detail for **Article II** lives in companion text:
 
 - [Necessity](core_05-05_definitions_c_dependent_clusters.md#necessity) · [O](core_05-05_definitions_c_dependent_clusters.md#necessity) · [E](core_05-05_definitions_c_dependent_clusters.md#necessity-e) · [C](core_05-05_definitions_c_dependent_clusters.md#necessity-c)
 - [Proportionality](core_05-05_definitions_c_dependent_clusters.md#proportionality) · [O](core_05-05_definitions_c_dependent_clusters.md#proportionality) · [E](core_05-05_definitions_c_dependent_clusters.md#proportionality-e) · [C](core_05-05_definitions_c_dependent_clusters.md#proportionality-c)
-- [Dependency](core_05-05_definitions_a_independent.md#dependency) · [O](core_05-05_definitions_a_independent.md#dependency) · [E](core_05-05_definitions_a_independent.md#dependency-e) · [C](core_05-05_definitions_a_independent.md#dependency-c)
+- [Dependency](core_05-05_definitions_b_semi_independent.md#dependency) · [O](core_05-05_definitions_b_semi_independent.md#dependency) · [E](core_05-05_definitions_b_semi_independent.md#dependency-e) · [C](core_05-05_definitions_b_semi_independent.md#dependency-c)
 
 </details>
 
@@ -302,7 +302,7 @@ Procedural detail for **Article II** lives in companion text:
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
 
-- [Incentive Alignment](core_05-05_definitions_a_independent.md#incentive-alignment) · [O](core_05-05_definitions_a_independent.md#incentive-alignment) · [E](core_05-05_definitions_a_independent.md#incentive-alignment-e) · [C](core_05-05_definitions_a_independent.md#incentive-alignment-c)
+- [Incentive Alignment](core_05-05_definitions_b_semi_independent.md#incentive-alignment) · [O](core_05-05_definitions_b_semi_independent.md#incentive-alignment) · [E](core_05-05_definitions_b_semi_independent.md#incentive-alignment-e) · [C](core_05-05_definitions_b_semi_independent.md#incentive-alignment-c)
 - [Foreseeability](core_05-05_definitions_c_dependent_clusters.md#foreseeability-diligence) · [O](core_05-05_definitions_c_dependent_clusters.md#foreseeability-diligence) · [E](core_05-05_definitions_c_dependent_clusters.md#foreseeability-diligence-e) · [C](core_05-05_definitions_c_dependent_clusters.md#foreseeability-diligence-c)
 - [Necessity](core_05-05_definitions_c_dependent_clusters.md#necessity) · [O](core_05-05_definitions_c_dependent_clusters.md#necessity) · [E](core_05-05_definitions_c_dependent_clusters.md#necessity-e) · [C](core_05-05_definitions_c_dependent_clusters.md#necessity-c)
 - [Proportionality](core_05-05_definitions_c_dependent_clusters.md#proportionality) · [O](core_05-05_definitions_c_dependent_clusters.md#proportionality) · [E](core_05-05_definitions_c_dependent_clusters.md#proportionality-e) · [C](core_05-05_definitions_c_dependent_clusters.md#proportionality-c)
@@ -332,8 +332,8 @@ Procedural detail for **Article II** lives in companion text:
 
 - [Consent](core_05-05_definitions_b_semi_independent.md#consent-constitutional) · [O](core_05-05_definitions_b_semi_independent.md#consent-constitutional) · [E](core_05-05_definitions_b_semi_independent.md#consent-constitutional-e) · [C](core_05-05_definitions_b_semi_independent.md#consent-constitutional-c)
 - [Truth (Constitutional Constraint)](core_05-05_definitions_c_dependent_clusters.md#truth-constitutional-constraint) · [O](core_05-05_definitions_c_dependent_clusters.md#truth-constitutional-constraint-o) · [E](core_05-05_definitions_c_dependent_clusters.md#truth-constitutional-constraint-e) · [C](core_05-05_definitions_c_dependent_clusters.md#truth-constitutional-constraint-c)
-- [Dependency](core_05-05_definitions_a_independent.md#dependency) · [O](core_05-05_definitions_a_independent.md#dependency) · [E](core_05-05_definitions_a_independent.md#dependency-e) · [C](core_05-05_definitions_a_independent.md#dependency-c)
-- [Meaningful Agency](core_05-05_definitions_b_semi_independent.md#meaningful-agency) · [O](core_05-05_definitions_a_independent.md#meaningful-agency-o) · [E](core_05-05_definitions_b_semi_independent.md#meaningful-agency-e) · [C](core_05-05_definitions_b_semi_independent.md#meaningful-agency-c)
+- [Dependency](core_05-05_definitions_b_semi_independent.md#dependency) · [O](core_05-05_definitions_b_semi_independent.md#dependency) · [E](core_05-05_definitions_b_semi_independent.md#dependency-e) · [C](core_05-05_definitions_b_semi_independent.md#dependency-c)
+- [Meaningful Agency](core_05-05_definitions_b_semi_independent.md#meaningful-agency) · [O](core_05-05_definitions_b_semi_independent.md#meaningful-agency-o) · [E](core_05-05_definitions_b_semi_independent.md#meaningful-agency-e) · [C](core_05-05_definitions_b_semi_independent.md#meaningful-agency-c)
 - [Coercion and Manipulation](core_05-05_definitions_b_semi_independent.md#coercion-and-manipulation-constitutional) · [O](core_05-05_definitions_b_semi_independent.md#coercion-and-manipulation-constitutional) · [E](core_05-05_definitions_b_semi_independent.md#coercion-and-manipulation-constitutional-e) · [C](core_05-05_definitions_b_semi_independent.md#coercion-and-manipulation-constitutional-c)
 - [Trust Degradation and Misleading Reliance](core_05-05_definitions_c_dependent_clusters.md#trust-degradation-and-misleading-reliance-constitutional) · [O](core_05-05_definitions_c_dependent_clusters.md#trust-degradation-and-misleading-reliance-constitutional) · [E](core_05-05_definitions_c_dependent_clusters.md#trust-degradation-cluster-scope-confirmation-and-routing-e) · [C](core_05-05_definitions_c_dependent_clusters.md#trust-degradation-cluster-anti-bypass-within-admission-scope-c)
 
@@ -359,11 +359,11 @@ Procedural detail for **Article II** lives in companion text:
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
 
-- [Dependency](core_05-05_definitions_a_independent.md#dependency) · [O](core_05-05_definitions_a_independent.md#dependency) · [E](core_05-05_definitions_a_independent.md#dependency-e) · [C](core_05-05_definitions_a_independent.md#dependency-c)
+- [Dependency](core_05-05_definitions_b_semi_independent.md#dependency) · [O](core_05-05_definitions_b_semi_independent.md#dependency) · [E](core_05-05_definitions_b_semi_independent.md#dependency-e) · [C](core_05-05_definitions_b_semi_independent.md#dependency-c)
 - [Intergenerational Responsibility](core_05-05_definitions_b_semi_independent.md#intergenerational-responsibility-constitutional) · [O](core_05-05_definitions_b_semi_independent.md#intergenerational-responsibility-constitutional) · [E](core_05-05_definitions_b_semi_independent.md#intergenerational-responsibility-constitutional-e) · [C](core_05-05_definitions_b_semi_independent.md#intergenerational-responsibility-constitutional-c)
 - [Materiality Determination](core_05-05_definitions_b_semi_independent.md#materiality-determination) · [O](core_05-05_definitions_b_semi_independent.md#materiality-determination) · [E](core_05-05_definitions_b_semi_independent.md#materiality-determination-e) · [C](core_05-05_definitions_b_semi_independent.md#materiality-determination-c)
 - [Necessity](core_05-05_definitions_c_dependent_clusters.md#necessity) · [O](core_05-05_definitions_c_dependent_clusters.md#necessity) · [E](core_05-05_definitions_c_dependent_clusters.md#necessity-e) · [C](core_05-05_definitions_c_dependent_clusters.md#necessity-c)
-- [Negligence](core_05-05_definitions_a_independent.md#negligence) · [O](core_05-05_definitions_a_independent.md#negligence) · [E](core_05-05_definitions_a_independent.md#negligence-e) · [C](core_05-05_definitions_a_independent.md#negligence-c)
+- [Negligence](core_05-05_definitions_b_semi_independent.md#negligence) · [O](core_05-05_definitions_b_semi_independent.md#negligence) · [E](core_05-05_definitions_a_independent.md#negligence-e) · [C](core_05-05_definitions_a_independent.md#negligence-c)
 
 </details>
 
@@ -408,8 +408,8 @@ Procedural detail for **Article II** lives in companion text:
 <summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
 
 - [Wellbeing](core_05-05_definitions_c_dependent_clusters.md#wellbeing) · [O](core_05-05_definitions_c_dependent_clusters.md#wellbeing) · [E](core_05-05_definitions_c_dependent_clusters.md#wellbeing-e) · [C](core_05-05_definitions_c_dependent_clusters.md#wellbeing-c)
-- [Dependency](core_05-05_definitions_a_independent.md#dependency) · [O](core_05-05_definitions_a_independent.md#dependency) · [E](core_05-05_definitions_a_independent.md#dependency-e) · [C](core_05-05_definitions_a_independent.md#dependency-c)
-- [Meaningful Agency](core_05-05_definitions_b_semi_independent.md#meaningful-agency) · [O](core_05-05_definitions_a_independent.md#meaningful-agency-o) · [E](core_05-05_definitions_b_semi_independent.md#meaningful-agency-e) · [C](core_05-05_definitions_b_semi_independent.md#meaningful-agency-c)
+- [Dependency](core_05-05_definitions_b_semi_independent.md#dependency) · [O](core_05-05_definitions_b_semi_independent.md#dependency) · [E](core_05-05_definitions_b_semi_independent.md#dependency-e) · [C](core_05-05_definitions_b_semi_independent.md#dependency-c)
+- [Meaningful Agency](core_05-05_definitions_b_semi_independent.md#meaningful-agency) · [O](core_05-05_definitions_b_semi_independent.md#meaningful-agency-o) · [E](core_05-05_definitions_b_semi_independent.md#meaningful-agency-e) · [C](core_05-05_definitions_b_semi_independent.md#meaningful-agency-c)
 - [Info-Sphere](core_05-05_definitions_c_dependent_clusters.md#info-sphere) · [O](core_05-05_definitions_c_dependent_clusters.md#info-sphere) · [E](core_05-05_definitions_c_dependent_clusters.md#info-sphere-e) · [C](core_05-05_definitions_c_dependent_clusters.md#info-sphere-c)
 
 </details>
@@ -431,8 +431,8 @@ Procedural detail for **Article II** lives in companion text:
     - reach the sentient with meaningful notice and contest opportunity;
     - satisfy [Necessity](core_05-05_definitions_c_dependent_clusters.md#necessity) and [Proportionality](core_05-05_definitions_c_dependent_clusters.md#proportionality).
   - Commodification pressure — pricing, speculative reallocation, or comparable market-structured pressure — is non-compliant where it defeats essential-environment access at a scale that materially implicates the survival floor.
-  - Essential-environment access carries a non-commodification floor governed by [Essential-Environment Non-Commodification](core_05-05_definitions_a_independent.md#essential-environment-non-commodification-constitutional). Ordinary market-structuring instruments may not narrow that floor.
-  - Cross-reference: **Article XXV-D** transitional-stewardship discipline for essential-environment continuity across transition; **Chapter Five** [*Tenure Security*](core_05-05_definitions_b_semi_independent.md#tenure-security-constitutional), [*Essential-Environment Non-Commodification*](core_05-05_definitions_a_independent.md#essential-environment-non-commodification-constitutional), and the joint-invocation cluster at [**§3.7** *Bodily-Maintenance Access, Safe Conditions, Tenure Security, Environmental Preconditions, Cultural Continuity, Rest, and Anti-Displacement Floor*](core_05-05_definitions_b_semi_independent.md#safe-conditions-tenure-security-and-environmental-preconditions-cluster) where applicable.
+  - Essential-environment access carries a non-commodification floor governed by [Essential-Environment Non-Commodification](core_05-05_definitions_b_semi_independent.md#essential-environment-non-commodification-constitutional). Ordinary market-structuring instruments may not narrow that floor.
+  - Cross-reference: **Article XXV-D** transitional-stewardship discipline for essential-environment continuity across transition; **Chapter Five** [*Tenure Security*](core_05-05_definitions_b_semi_independent.md#tenure-security-constitutional), [*Essential-Environment Non-Commodification*](core_05-05_definitions_b_semi_independent.md#essential-environment-non-commodification-constitutional), and the joint-invocation cluster at [**§3.7** *Bodily-Maintenance Access, Safe Conditions, Tenure Security, Environmental Preconditions, Cultural Continuity, Rest, and Anti-Displacement Floor*](core_05-05_definitions_b_semi_independent.md#safe-conditions-tenure-security-and-environmental-preconditions-cluster) where applicable.
 - **Connectivity:** Access to the info-sphere and to core information and communication systems is a foundational requirement for participation in modern sentient society.
   - Sentients must have access sufficient to maintain agency, awareness, and meaningful participation, subject to proportional system constraints.
 - **Institutional guarantees:** Securing the preceding rights at scale may require positive institutional arrangements where adopting orders implement **this Constitution**. Those arrangements may include:
@@ -456,7 +456,7 @@ Procedural detail for **Article II** lives in companion text:
 
 - [Protected Characteristics](core_05-05_definitions_b_semi_independent.md#protected-characteristics-constitutional) · [O](core_05-05_definitions_b_semi_independent.md#protected-characteristics-constitutional) · [E](core_05-05_definitions_b_semi_independent.md#protected-characteristics-constitutional-e) · [C](core_05-05_definitions_b_semi_independent.md#protected-characteristics-constitutional-c)
 - [Substantive Fairness](core_05-05_definitions_b_semi_independent.md#substantive-fairness-constitutional) · [O](core_05-05_definitions_b_semi_independent.md#substantive-fairness-constitutional) · [E](core_05-05_definitions_b_semi_independent.md#substantive-fairness-constitutional-e) · [C](core_05-05_definitions_b_semi_independent.md#substantive-fairness-constitutional-c)
-- [Educational Agency](core_05-05_definitions_c_dependent_clusters.md#educational-agency) · [O](core_05-05_definitions_a_independent.md#educational-agency-o) · [E](core_05-05_definitions_b_semi_independent.md#educational-agency-e) · [C](core_05-05_definitions_b_semi_independent.md#educational-agency-c)
+- [Educational Agency](core_05-05_definitions_c_dependent_clusters.md#educational-agency) · [O](core_05-05_definitions_c_dependent_clusters.md#educational-agency) · [E](core_05-05_definitions_c_dependent_clusters.md#educational-agency-e) · [C](core_05-05_definitions_c_dependent_clusters.md#educational-agency-c)
 - [Necessity](core_05-05_definitions_c_dependent_clusters.md#necessity) · [O](core_05-05_definitions_c_dependent_clusters.md#necessity) · [E](core_05-05_definitions_c_dependent_clusters.md#necessity-e) · [C](core_05-05_definitions_c_dependent_clusters.md#necessity-c)
 - [Proportionality](core_05-05_definitions_c_dependent_clusters.md#proportionality) · [O](core_05-05_definitions_c_dependent_clusters.md#proportionality) · [E](core_05-05_definitions_c_dependent_clusters.md#proportionality-e) · [C](core_05-05_definitions_c_dependent_clusters.md#proportionality-c)
 
@@ -605,9 +605,9 @@ Those requirements protect shared infrastructure and the systems that depend on 
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
 
-- [Dependency](core_05-05_definitions_a_independent.md#dependency) · [O](core_05-05_definitions_a_independent.md#dependency) · [E](core_05-05_definitions_a_independent.md#dependency-e) · [C](core_05-05_definitions_a_independent.md#dependency-c)
+- [Dependency](core_05-05_definitions_b_semi_independent.md#dependency) · [O](core_05-05_definitions_b_semi_independent.md#dependency) · [E](core_05-05_definitions_b_semi_independent.md#dependency-e) · [C](core_05-05_definitions_b_semi_independent.md#dependency-c)
 - [Transparency](core_05-05_definitions_c_dependent_clusters.md#transparency) · [O](core_05-05_definitions_c_dependent_clusters.md#transparency) · [E](core_05-05_definitions_c_dependent_clusters.md#transparency-e) · [C](core_05-05_definitions_c_dependent_clusters.md#transparency-c)
-- [System Boundary Integrity](core_05-05_definitions_a_independent.md#system-boundary-integrity) · [O](core_05-05_definitions_a_independent.md#system-boundary-integrity) · [E](core_05-05_definitions_a_independent.md#system-boundary-integrity-e) · [C](core_05-05_definitions_a_independent.md#system-boundary-integrity-c)
+- [System Boundary Integrity](core_05-05_definitions_b_semi_independent.md#system-boundary-integrity) · [O](core_05-05_definitions_b_semi_independent.md#system-boundary-integrity) · [E](core_05-05_definitions_b_semi_independent.md#system-boundary-integrity-e) · [C](core_05-05_definitions_b_semi_independent.md#system-boundary-integrity-c)
 
 </details>
 
@@ -635,7 +635,7 @@ Those requirements protect shared infrastructure and the systems that depend on 
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
 
-- [Dependency](core_05-05_definitions_a_independent.md#dependency) · [O](core_05-05_definitions_a_independent.md#dependency) · [E](core_05-05_definitions_a_independent.md#dependency-e) · [C](core_05-05_definitions_a_independent.md#dependency-c)
+- [Dependency](core_05-05_definitions_b_semi_independent.md#dependency) · [O](core_05-05_definitions_b_semi_independent.md#dependency) · [E](core_05-05_definitions_b_semi_independent.md#dependency-e) · [C](core_05-05_definitions_b_semi_independent.md#dependency-c)
 - [Substantive Fairness](core_05-05_definitions_b_semi_independent.md#substantive-fairness-constitutional) · [O](core_05-05_definitions_b_semi_independent.md#substantive-fairness-constitutional) · [E](core_05-05_definitions_b_semi_independent.md#substantive-fairness-constitutional-e) · [C](core_05-05_definitions_b_semi_independent.md#substantive-fairness-constitutional-c)
 - [Materiality Determination](core_05-05_definitions_b_semi_independent.md#materiality-determination) · [O](core_05-05_definitions_b_semi_independent.md#materiality-determination) · [E](core_05-05_definitions_b_semi_independent.md#materiality-determination-e) · [C](core_05-05_definitions_b_semi_independent.md#materiality-determination-c)
 - [Ecological Footprint](core_05-05_definitions_b_semi_independent.md#ecological-footprint) · [O](core_05-05_definitions_b_semi_independent.md#ecological-footprint) · [E](core_05-05_definitions_b_semi_independent.md#ecological-footprint-e) · [C](core_05-05_definitions_b_semi_independent.md#ecological-footprint-c)

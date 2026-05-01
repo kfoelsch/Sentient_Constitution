@@ -1,24 +1,41 @@
 #!/usr/bin/env python3
 """Audit Chapter Five definition homes against cluster-member routing.
 
-Routing contract:
-- Chapter Five links listed under ``**Cluster members.**`` or
-  ``**Family members.**`` (semi-independent compound families) blocks are the
-  routing inventory for dependent and semi-independent cluster contexts.
-- Part B member lists expect a §2 home when they belong to a semi-independent
-  family.
-- Any ``Dependent-cluster context:`` contract must live in §3; member links
-  still route to their canonical linked O/E/C homes.
-- Part C member lists expect a §3 home unless the cluster prose uses an
-  owning-cluster note or same-list routing to keep the reader-facing home in
-  Part B.
-- Full O/E/C entries may live in §1 (independent) or §2 (semi-independent)
-  when they are not Part C cluster-owned.
+Placement contract:
+- **Semi-independent definitions:** canonical full O/E/C appear **only** in Part B
+  (**Chapter Five section 2**). They are never relocated into section 3.
+- **Dependent-cluster definitions:** canonical full O/E/C for cluster-owned members
+  appear **only** in Part C (**section 3**). The cluster contracts, dependent-cluster
+  context lines, and other **section-3** definition bodies are authored **only** in
+  Part C — not relocated into §1 or §2.
+
+Routing inventory:
+- Links listed under ``**Cluster members.**`` or ``**Family members.**``
+  (semi-independent compound families) are the routing inventory for joint-invocation
+  routing. ``**Read-with definitions.**``, ``**Read-with.**``, ``**Owning cluster note.**``,
+  and ordinary prose links **do not** count as cluster membership—their cross-links may
+  target any Chapter Five file.
+- **Semi-independent joint-invocation cluster contracts** are introduced by
+  ``**Cluster context**`` lines and must appear **only** in Part B (section 2).
+  ``tools/ch5_structure_audit.py`` enforces that placement across Chapter Five files.
+- Part B member rosters (**Cluster members.** / **Family members.**) may use Part A
+  file paths in ``href`` values. For slugs listed in ``PART_B_ROSTER_PART_A_RELOCATE_SLUGS``,
+  the canonical O/E/C home is **§2** (relocate with ``sort_ch5_definitions``); for all
+  other Part A targets in those rosters, canonical homes remain **§1** until editors
+  adopt a wider relocation policy. If a slug’s O/E/C is already in Part B but a roster
+  line still targets Part A, that stale link fails the audit.
+- Any ``Dependent-cluster context:`` contract must live in §3. For **Part C**
+  dependent clusters, every ``**Cluster members.**`` link must target
+  ``core_05-05_definitions_c_dependent_clusters.md`` (same file), and the linked slug’s
+  full **O / E / C** must appear in **section 3**—not only under Part A or Part B.
+- Independent definitions keep canonical full O/E/C in **§1** unless semi-independent
+  cluster routing assigns relocation into §2 per the Part B roster rules above.
 
 The script is intentionally report-oriented. Listing modes show the inventory
-used by the audit; ``--audit`` fails on placement drift, duplicate full O/E/C
-titles, and unresolved cluster-member anchors. Other structural shell/stub
-checks remain in ``tools/ch5_structure_audit.py``.
+used by the audit; ``--audit`` fails on placement drift, stale Part B roster links
+that still target Part A after a term’s O/E/C moved to §2, duplicate full O/E/C
+titles, conflicting §2+§3 homes for the same slug, and unresolved cluster-member
+anchors. Other structural shell/stub checks remain in ``tools/ch5_structure_audit.py``.
 """
 
 from __future__ import annotations
@@ -45,11 +62,24 @@ CH5_SECTION_BY_FILE = {
 }
 CH5_FILE_NAMES = set(CH5_SECTION_BY_FILE)
 
+# Part B **Cluster members.** / **Family members.** may use Part A paths while editors
+# relocate blocks. Only these slugs use the §2 target when listed from Part B toward
+# Part A; other Part A hrefs keep canonical §1 for semi-independent roster pointers.
+PART_B_ROSTER_PART_A_RELOCATE_SLUGS: frozenset[str] = frozenset(
+    {
+        "system",
+        "system-boundaries",
+        "system-boundary-integrity",
+    }
+)
+
 HEADING_RE = re.compile(r"^(#{3,5})\s+(.+?)\s*$")
 DEF_HEADING_RE = re.compile(r"^(#{4,5})\s+(.+?)\s*$")
 ANCHOR_RE = re.compile(r'^<a id="([^"]+)"></a>\s*$')
 MEMBER_LINK_RE = re.compile(r"\[([^\]]+)\]\(([^)]+)\)")
 DEPENDENT_CONTEXT_RE = re.compile(r"^\*\*Dependent-cluster context:\s*(.+?)\.?\*\*$")
+CLUSTER_MEMBERS_LINE = re.compile(r"^\*\*Cluster members\.\*\*")
+FAMILY_MEMBERS_LINE = re.compile(r"^\*\*Family members\.\*\*")
 
 STRUCTURAL_TITLE_PREFIXES = (
     "3.",
@@ -92,6 +122,7 @@ class ClusterMember:
     line: int
     owner_heading: str
     is_dependent_context: bool
+    part_c_cluster_roster: bool  # Part C **Cluster members.** (Part C has no Family rosters)
 
     @property
     def location(self) -> str:
@@ -170,6 +201,17 @@ def normalize_href(owner_file: str, href: str) -> tuple[str, str] | None:
     if file_name not in CH5_FILE_NAMES:
         return None
     return file_name, slug
+
+
+def routing_expected_section(owner_file: str, target_file: str, slug: str) -> str:
+    """Map roster link targets to expected canonical §1 / §2 / §3 for full O/E/C bodies."""
+    if (
+        owner_file == CH5_PART_B
+        and target_file == CH5_PART_A
+        and slug in PART_B_ROSTER_PART_A_RELOCATE_SLUGS
+    ):
+        return "2"
+    return CH5_SECTION_BY_FILE[target_file]
 
 
 def entry_anchor_slugs(lines: list[str], heading_idx: int, title: str) -> frozenset[str]:
@@ -262,7 +304,9 @@ def iter_cluster_members(root: Path) -> Iterable[ClusterMember]:
             if dm:
                 owner_heading = dm.group(1).strip()
                 in_dependent_context = True
-            if "**Cluster members.**" in line or "**Family members.**" in line:
+            if CLUSTER_MEMBERS_LINE.match(
+                line.strip()
+            ) or FAMILY_MEMBERS_LINE.match(line.strip()):
                 in_members = True
             if not in_members:
                 continue
@@ -270,6 +314,7 @@ def iter_cluster_members(root: Path) -> Iterable[ClusterMember]:
             if (
                 stripped.startswith("**Read-with")
                 or stripped.startswith("**Joint")
+                or stripped.startswith("**Owning cluster note")
                 or stripped == "---"
                 or stripped.startswith("<a id=")
                 or HEADING_RE.match(line)
@@ -282,16 +327,23 @@ def iter_cluster_members(root: Path) -> Iterable[ClusterMember]:
                 if normalized is None:
                     continue
                 target_file, slug = normalized
+                part_c_cluster_roster = file_name == CH5_PART_C
+                expected_section = (
+                    "3"
+                    if part_c_cluster_roster
+                    else routing_expected_section(file_name, target_file, slug)
+                )
                 yield ClusterMember(
                     title=title,
                     slug=slug,
                     href=href,
                     owner_file=file_name,
                     target_file=target_file,
-                    expected_section=CH5_SECTION_BY_FILE[target_file],
+                    expected_section=expected_section,
                     line=idx + 1,
                     owner_heading=owner_heading,
                     is_dependent_context=in_dependent_context,
+                    part_c_cluster_roster=part_c_cluster_roster,
                 )
 
 
@@ -356,7 +408,7 @@ def print_independent(entries: list[DefinitionEntry], members: list[ClusterMembe
             continue
         if entry.slugs & member_slugs:
             continue
-        expected = "§1/§2" if entry.section in {"1", "2"} else "§1"
+        expected = {"1": "§1", "2": "§2", "3": "§3"}[entry.section]
         print(f"{entry.title}\t{entry.primary_slug}\t{expected}\t§{entry.section}:{entry.location}")
 
 
@@ -365,6 +417,32 @@ def audit(entries: list[DefinitionEntry], members: list[ClusterMember]) -> list[
     by_slug = entry_by_slug(entries)
     members_by_slug = member_by_slug(members)
     anchors = anchor_slugs(Path("."))
+
+    for member in members:
+        if (
+            member.part_c_cluster_roster
+            and member.target_file != CH5_PART_C
+        ):
+            errors.append(
+                f"{member.location}: Part C **Cluster members.** link targets "
+                f"{member.target_file} (#{member.slug}); roster members must use "
+                f"{CH5_PART_C} anchors (relocate full O/E/C here). **Read-with** links "
+                f"may still target Part A/B."
+            )
+
+    for member in members:
+        if member.owner_file == CH5_PART_B and member.target_file == CH5_PART_A:
+            loc_sec2 = [
+                e
+                for e in by_slug.get(member.slug, [])
+                if e.has_full_oec and e.section == "2"
+            ]
+            if loc_sec2:
+                errors.append(
+                    f"{member.location}: Part B cluster roster still links to "
+                    f"{CH5_PART_A} (#{member.slug}) but O/E/C is in §2; update href "
+                    f"to {CH5_PART_B} or run tools/ch5_reanchor_post_split.py"
+                )
 
     dependent_context_locations = {
         (m.owner_file, m.owner_heading, m.location)
@@ -382,6 +460,14 @@ def audit(entries: list[DefinitionEntry], members: list[ClusterMember]) -> list[
         locations = [e for e in by_slug.get(slug, []) if e.has_full_oec]
         member_summary = ", ".join(f"{m.location} ({m.owner_heading})" for m in slug_members)
         if expected == "CONFLICT":
+            detail = "; ".join(
+                f"{m.location}→§{m.expected_section}"
+                for m in sorted(slug_members, key=lambda x: (x.owner_file, x.line))
+            )
+            errors.append(
+                f"cluster member #{slug} has conflicting expected canonical sections "
+                f"across rosters: {detail}"
+            )
             continue
         expected_locations = [e for e in locations if e.section == expected]
         if not locations:
@@ -423,6 +509,14 @@ def audit(entries: list[DefinitionEntry], members: list[ClusterMember]) -> list[
             full_by_slug[entry.primary_slug].append(entry)
     for slug, slug_entries in sorted(full_by_slug.items()):
         if len(slug_entries) <= 1:
+            continue
+        secs = {e.section for e in slug_entries}
+        if "2" in secs and "3" in secs:
+            rendered = ", ".join(f"§{e.section}:{e.location}" for e in slug_entries)
+            errors.append(
+                f"canonical slug #{slug} has full O/E/C in both §2 and §3 (semi-independent "
+                f"bodies belong only in §2; dependent-cluster bodies only in §3): {rendered}"
+            )
             continue
         rendered = ", ".join(f"§{e.section}:{e.location}#{e.primary_slug}" for e in slug_entries)
         errors.append(f"duplicate full O/E/C canonical slug #{slug}: {rendered}")

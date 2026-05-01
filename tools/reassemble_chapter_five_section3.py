@@ -295,7 +295,7 @@ def synth_consent_sexual() -> str:
 - [Protected Intimate-Signal Gating](#protected-intimate-signal-gating);
 - [Protected Commercial Sexual Services Status and Article X-C Circumvention](#protected-commercial-sexual-services-status-and-article-x-c-circumvention);
 - [Bodily Integrity](#bodily-integrity-constitutional), where materially implicated;
-- [Harassment and Bullying](#harassment-and-bullying), where materially implicated.
+- [Harassment and Bullying](#harassment-and-bullying-partc), where materially implicated.
 
 **Read-with definitions.** Apply [Self-Determination, Meaningful Agency, Expression, Educational Agency, Reproductive Autonomy, and Volitional Integrity](#self-determination-and-meaningful-agency-cluster), [Coercion and Manipulation](#coercion-and-manipulation-constitutional), [Dependency](#dependency), [Meaningful Agency](#meaningful-agency), [Dignity and Equal Moral Standing](#dignity-and-equal-moral-standing), [Feasibility](#feasibility), and [Non-Imposition (Cooperative Interaction)](#non-imposition-cooperative-interaction) where materially implicated.
 

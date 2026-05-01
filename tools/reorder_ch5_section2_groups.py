@@ -122,6 +122,10 @@ GROUPS: list[tuple[str, list[str]]] = [
             "materiality-determination",
             "materiality-integrity-constraint",
             "materiality-under-uncertainty",
+            "system-system-boundaries-and-boundary-integrity-cluster",
+            "system",
+            "system-boundaries",
+            "system-boundary-integrity",
         ],
     ),
     (
@@ -230,7 +234,7 @@ SECTION2_INTRO = """### 2. Semi-independent Definitions
 
 **Semi-independent Definitions** use the same O/E/C discipline as **section 1**. Where related semi-independent definitions must be read together, their reader-facing family context, admission scope, and joint-invocation / anti-bypass rule live in this section beside the relevant entries.
 
-Each entry has a single canonical O/E/C home in this chapter—either in **section 2** or in the applicable **section 3** cluster. Where **section 3**'s admission scope applies, joint satisfaction rules there govern; otherwise apply sections 1–2 as ordinary standalone definitions.
+Each **semi-independent** definition has its single canonical O/E/C home in **section 2** only (Part B). **Dependent-cluster** definitions—canonical full O/E/C for cluster-owned members—live **only** in **section 3** (Part C). Where **section 3** joint-invocation applies, satisfy those clusters together with applicable **section 1** and **section 2** definitions as each cluster routes by pointer; semi-independent canonical bodies are **not** relocated into section 3.
 
 Below, entries are **grouped by topic** for reading convenience (non-operative only). The alphabetical directory in [core_05-05_definitions_a_independent.md](core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) still lists every semi-independent term in A–Z order."""
 

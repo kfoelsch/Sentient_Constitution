@@ -263,9 +263,9 @@ This character triggers criminal-process or equivalent constitutional protection
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [§5.1](#61-remedial-restorative-and-civil-correction-character); [Supremacy and Enforceability](core_05-05_definitions_b_semi_independent.md#supremacy-and-enforceability); [Constitutional Constraint Violation](core_05-05_definitions_a_independent.md#constitutional-constraint-violation).
+- Upstream: [§5.1](#61-remedial-restorative-and-civil-correction-character); [Supremacy and Enforceability](core_05-05_definitions_b_semi_independent.md#supremacy-and-enforceability); [Constitutional Constraint Violation](core_05-05_definitions_b_semi_independent.md#constitutional-constraint-violation).
 - Downstream: [§5.4](#64-concurrent-character-and-non-exclusivity); [§5.5](#65-constitutional-floor-rule); [§10](#10-violation-axis-s-7-9-anti-constitutional-misconduct-authoritative-location) (*Chapter Seven pointer for final Violation Axis s = 7, 8, and 9 assignment*).
-- Read with: [Constitutional Constraint Violation](core_05-05_definitions_a_independent.md#constitutional-constraint-violation) · [O](core_05-05_definitions_a_independent.md#constitutional-constraint-violation) · [E](core_05-05_definitions_a_independent.md#constitutional-constraint-violation-e) · [C](core_05-05_definitions_a_independent.md#constitutional-constraint-violation-c).
+- Read with: [Constitutional Constraint Violation](core_05-05_definitions_b_semi_independent.md#constitutional-constraint-violation) · [O](core_05-05_definitions_b_semi_independent.md#constitutional-constraint-violation) · [E](core_05-05_definitions_b_semi_independent.md#constitutional-constraint-violation-e) · [C](core_05-05_definitions_b_semi_independent.md#constitutional-constraint-violation-c).
 
 </details>
 
@@ -273,7 +273,7 @@ This character triggers criminal-process or equivalent constitutional protection
 
 *In plain terms: this character applies when the finding implicates binding constitutional constraints, rights floors, supremacy, anti-evasion discipline, or challenge-and-remedy access — and it can ride alongside remedial or punitive-process character.*
 
-<strong><span style="color: #2563eb;">Definition:</span></strong> [Constitutional Constraint Violation](core_05-05_definitions_a_independent.md#constitutional-constraint-violation) · [O](core_05-05_definitions_a_independent.md#constitutional-constraint-violation) · [E](core_05-05_definitions_a_independent.md#constitutional-constraint-violation-e) · [C](core_05-05_definitions_a_independent.md#constitutional-constraint-violation-c)
+<strong><span style="color: #2563eb;">Definition:</span></strong> [Constitutional Constraint Violation](core_05-05_definitions_b_semi_independent.md#constitutional-constraint-violation) · [O](core_05-05_definitions_b_semi_independent.md#constitutional-constraint-violation) · [E](core_05-05_definitions_b_semi_independent.md#constitutional-constraint-violation-e) · [C](core_05-05_definitions_b_semi_independent.md#constitutional-constraint-violation-c)
 
 A finding has **constitutional-floor character** where it violates binding constitutional constraints, rights floors, anti-evasion requirements, challenge-and-remedy access, or supremacy and binding-effect conditions.
 
@@ -308,7 +308,7 @@ A single pattern of conduct may carry multiple process / response characters at 
 
 - Upstream: [§5.3](#63-constitutional-floor-character); [Chapter Nine](core_09-09_rights_part_a.md#chapter-nine-foundational-rights).
 - Downstream: [§7](#8-cross-axis-coupling-and-escalation-constraints); [Chapter Eight](core_08-08_forum.md#chapter-eight-forums-and-jurisdiction).
-- Read with: [Constitutional Constraint Violation](core_05-05_definitions_a_independent.md#constitutional-constraint-violation) · [O](core_05-05_definitions_a_independent.md#constitutional-constraint-violation) · [E](core_05-05_definitions_a_independent.md#constitutional-constraint-violation-e) · [C](core_05-05_definitions_a_independent.md#constitutional-constraint-violation-c).
+- Read with: [Constitutional Constraint Violation](core_05-05_definitions_b_semi_independent.md#constitutional-constraint-violation) · [O](core_05-05_definitions_b_semi_independent.md#constitutional-constraint-violation) · [E](core_05-05_definitions_b_semi_independent.md#constitutional-constraint-violation-e) · [C](core_05-05_definitions_b_semi_independent.md#constitutional-constraint-violation-c).
 
 </details>
 
@@ -790,7 +790,7 @@ Enforcement mechanisms implementing this chapter must remain practical, proporti
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
 
-- [Constitutional Constraint Violation](core_05-05_definitions_a_independent.md#constitutional-constraint-violation) · [O](core_05-05_definitions_a_independent.md#constitutional-constraint-violation) · [E](core_05-05_definitions_a_independent.md#constitutional-constraint-violation-e) · [C](core_05-05_definitions_a_independent.md#constitutional-constraint-violation-c)
+- [Constitutional Constraint Violation](core_05-05_definitions_b_semi_independent.md#constitutional-constraint-violation) · [O](core_05-05_definitions_b_semi_independent.md#constitutional-constraint-violation) · [E](core_05-05_definitions_b_semi_independent.md#constitutional-constraint-violation-e) · [C](core_05-05_definitions_b_semi_independent.md#constitutional-constraint-violation-c)
 - [Procedural Fairness](core_05-05_definitions_b_semi_independent.md#procedural-fairness-constitutional) · [O](core_05-05_definitions_b_semi_independent.md#procedural-fairness-constitutional) · [E](core_05-05_definitions_b_semi_independent.md#procedural-fairness-constitutional-e) · [C](core_05-05_definitions_b_semi_independent.md#procedural-fairness-constitutional-c)
 
 </details>

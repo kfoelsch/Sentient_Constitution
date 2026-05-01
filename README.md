@@ -57,7 +57,7 @@ This edition treats the following chapters as binding constitutional text, not a
 
 **Binding vs support (quick rule):**
 - **Binding:** the numbered `core_*` constitutional files read together as one instrument, plus designated adopted obligations in `corpus_joint_structure.md`, `corpus_systems.md`, `corpus_institutions.md`, `corpus_forum.md`, and `corpus_joint_structure.md`.
-- **Support unless explicitly adopted:** `doc_architecture.md`, `TODO.md`, regression/evidence artifacts, and implementation notes.
+- **Support unless explicitly adopted:** `doc_architecture.md`, archived task history under `archive/` (e.g. `archive/TODO_ARCHIVED_2026-05-01.md`), regression/evidence artifacts, and implementation notes.
 
 The **structure map** ([doc_architecture.md](doc_architecture.md)) and corpus cross-references are maintained in lockstep with the numbered Sentient Constitution core files. Bump the edition label only on a deliberate corpus publication cut.
 
@@ -93,7 +93,7 @@ Sentient Constitution **Chapter Fourteen** in `core_14-14_incorporation.md` is t
 Quick authority order:
 - **Binding constitutional source:** the numbered `core_*` Sentient Constitution files read together as one instrument (`core_00-01_principles.md` through `core_14-14_incorporation.md`).
 - **Binding incorporated implementation source:** designated obligations in `corpus_joint_structure.md`, `corpus_systems.md`, `corpus_institutions.md`, and `corpus_forum.md` within valid adoption scope.
-- **Process/map support (non-constitutional):** `doc_architecture.md`, `TODO.md`, regression and evidence artifacts unless explicitly incorporated by valid adopting instrument.
+- **Process/map support (non-constitutional):** `doc_architecture.md`, archived task history under `archive/` (e.g. `archive/TODO_ARCHIVED_2026-05-01.md`), regression and evidence artifacts unless explicitly incorporated by valid adopting instrument.
 - **Conflict order:** Sentient Constitution meaning controls. Use the **Authority Stack and Internal Hierarchy** cluster in Chapter Five to distinguish source-layer status from last-resort interpretive hierarchy. Incorporated and process layers must satisfy, not narrow, Sentient Constitution constraints.
 
 For longer explanatory orientation and first-pass reading flow, see [architecture_primer.md](architecture_primer.md).

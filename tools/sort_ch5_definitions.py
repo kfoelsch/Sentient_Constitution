@@ -2,7 +2,8 @@
 """Sort / relocate Chapter Five full O/E/C definitions (``sort definitions``).
 
 Moves definition *blocks* between Part A/B/C when they disagree with
-cluster / family member routing (same rules as ``ch5_definition_location_audit``).
+cluster / family member routing (**semi-independent §2-only** and **dependent-cluster §3-only**
+placement rules—same inventory as ``ch5_definition_location_audit``).
 
 Default is **dry-run** (plan only). Pass ``--apply`` to rewrite the three Chapter
 Five files in ``--root``. After moves, Part A alphabetical bullets that still
@@ -10,11 +11,16 @@ use fragment-only ``](#slug)`` links are rewritten when the slug's home is now
 Part B or Part C.
 
 After a successful ``--apply`` that adds, removes, or rewrites Part B content,
-**section 2 is automatically regrouped** using ``reorder_ch5_section2_groups``
-in **relaxed** mode (same as ``--relax-unlisted``): known ``GROUPS`` order
-first, then any other Part B primary anchors under an editorial **Ungrouped**
-heading. To fail fast when ``GROUPS`` is incomplete, run the reorder script
-manually with default (strict) flags.
+**section 2 is automatically regrouped** unless ``--no-regroup`` is passed.
+After any move that shifts anchors from Part A to Part B/C, run
+``python3 tools/ch5_reanchor_post_split.py`` locally so ``core_05-05_definitions_a_independent.md#…``
+links rewrite to the correct Chapter Five filename (tool sandboxes may block that script).
+Regrouping uses ``reorder_ch5_section2_groups`` in **relaxed** mode (same as
+``--relax-unlisted``): known ``GROUPS`` order first, then any other Part B
+primary anchors under an editorial **Ungrouped** heading. Use ``--no-regroup``
+when the reshuffle would corrupt reader topic headings (then run reorder
+manually after updating ``GROUPS``). To fail fast when ``GROUPS`` is incomplete,
+run the reorder script manually with default (strict) flags.
 
 Does **not** fix: dependent-cluster context in the wrong file, duplicate O/E/C
 slugs, §3 orphan definitions (not in any member list), or conflicts where one
@@ -67,6 +73,11 @@ def parse_args() -> argparse.Namespace:
         "--apply",
         action="store_true",
         help="Perform moves (default: print plan only).",
+    )
+    p.add_argument(
+        "--no-regroup",
+        action="store_true",
+        help="Skip automatic section 2 regroup after Part B edits.",
     )
     return p.parse_args()
 
@@ -268,17 +279,32 @@ def main() -> int:
     initial_home = build_anchor_home_from_texts(text_by)
     post_home = adjusted_anchor_home(initial_home, moves)
     lines_map: dict[str, list[str]] = {f: text_by[f].split("\n") for f in CH5_ALL}
+    # Snapshot before splices: ``entry.line`` is only valid against this copy.
+    # Mutating ``lines_map`` between extractions corrupts multi-move relocations
+    # from the same file (stale indices).
+    original_lines: dict[str, list[str]] = {f: lines_map[f][:] for f in CH5_ALL}
     extracted: list[tuple[str, str]] = []
+    ops: list[tuple[str, int, int, str, str]] = []
 
-    for m in sorted(moves, key=lambda x: (x.entry.file, -x.entry.line)):
+    for m in moves:
         fname = m.entry.file
-        lines = lines_map[fname]
-        start, end = extract_block_span(lines, m.entry)
-        block_raw = "\n".join(lines[start:end])
-        dest = FILE_FOR_SECTION[m.expected_section]
-        block = rewrite_fragment_links(block_raw, dest, post_home)
-        lines_map[fname] = lines[:start] + lines[end:]
-        extracted.append((dest, block))
+        start, end = extract_block_span(original_lines[fname], m.entry)
+        block_raw = "\n".join(original_lines[fname][start:end])
+        dest_file = FILE_FOR_SECTION[m.expected_section]
+        block = rewrite_fragment_links(block_raw, dest_file, post_home)
+        ops.append((fname, start, end, block, dest_file))
+
+    for fname in CH5_ALL:
+        file_ops = [(s, e, b, d) for (fn, s, e, b, d) in ops if fn == fname]
+        if not file_ops:
+            continue
+        for start, end, _block, _dest in sorted(
+            file_ops, key=lambda t: t[0], reverse=True
+        ):
+            cur = lines_map[fname]
+            lines_map[fname] = cur[:start] + cur[end:]
+        for _s, _e, block, dest in file_ops:
+            extracted.append((dest, block))
 
     by_dest: dict[str, list[str]] = {CH5_PART_A: [], CH5_PART_B: [], CH5_PART_C: []}
     for dest_file, block in extracted:
@@ -325,7 +351,7 @@ def main() -> int:
         or FILE_FOR_SECTION[m.expected_section] == CH5_PART_B
         for m in moves
     )
-    if part_b_touched:
+    if part_b_touched and not args.no_regroup:
         regroup_rc = reorder_section2_groups(root, strict=False)
         if regroup_rc != 0:
             print(
@@ -336,6 +362,7 @@ def main() -> int:
 
     print(
         f"Applied {len(moves)} relocation(s). PASS: Chapter Five definition locations."
+        + (" (--no-regroup: section 2 order unchanged)" if args.no_regroup else "")
     )
     return 0
 

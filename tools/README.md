@@ -27,7 +27,7 @@ Python utilities for this repository. Run from the repo root unless noted.
 
 `ch1_dec_order_audit.py` guards against AI drift in Chapter One D/E/C widgets by checking the highest-risk principle sections against the functional order documented in `doc_architecture.md` and `implementation/CHAPTER_ONE_PRINCIPLE_DEFINITION_MATRIX_2026-04-29.md`. It is intentionally narrow and blocking in `make regression`.
 
-`readability_audit.py` excludes `MEMLOG.md` and `TODO.md` by default because those files are treated as AI-only working memory and project task tracking rather than reader-facing corpus prose.
+`readability_audit.py` excludes root-level `MEMLOG.md` and `TODO.md` by default when present (AI working memory / task tracking). Archived copies live under `archive/` and are excluded via the `archive` directory rule.
 
 `plain_language_audit.py` is an advisory checker for jargon-heavy reader notes and navigation prose. It flags exact phrases such as `extended narrative context` and `non-operative explanatory framing`, plus dense guidance sentences that stack abstract terms instead of plain words. Start by running it manually and tune the rule list before promoting it into a blocking bundle.
 

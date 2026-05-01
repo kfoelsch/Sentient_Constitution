@@ -1,5 +1,12 @@
 #!/usr/bin/env python3
-"""Lightweight Chapter Five structural checks: §2 scaffolding, §3 mis-nested clusters, optional cluster-link and O/E/C heuristics."""
+"""Lightweight Chapter Five structural checks: §2 scaffolding, §3 mis-nested clusters, optional cluster-link and O/E/C heuristics.
+
+Semi-independent definitions (canonical full O/E/C) belong **only** in Part B (**Chapter Five section 2**).
+Semi-independent joint-invocation clusters use lines beginning ``**Cluster context**`` and belong **only** in Part B.
+Dependent-cluster definitions (canonical full O/E/C for cluster-owned members) belong **only** in Part C (**section 3**).
+Dependent-cluster shells use ``#### 3.*`` headings in Part C (section 3).
+``audit_semi_independent_cluster_context_placement`` enforces the Part A/B/C split for ``**Cluster context**``.
+"""
 
 from __future__ import annotations
 
@@ -12,7 +19,7 @@ _TOOLS = Path(__file__).resolve().parent
 if str(_TOOLS) not in sys.path:
     sys.path.insert(0, str(_TOOLS))
 
-from ch5_paths import CH5_ALL, CH5_PART_C  # noqa: E402
+from ch5_paths import CH5_ALL, CH5_PART_B, CH5_PART_C  # noqa: E402
 
 
 def parse_args() -> argparse.Namespace:
@@ -34,6 +41,23 @@ def parse_args() -> argparse.Namespace:
         help="Require each **Cluster members** (#slug) same-file link to have exact <a id=\"slug\"></a> in that file",
     )
     return p.parse_args()
+
+
+def audit_semi_independent_cluster_context_placement(lines: list[str], path: Path) -> list[str]:
+    """``**Cluster context**`` opens a semi-independent cluster contract; Part B only."""
+    errs: list[str] = []
+    cluster_ctx = re.compile(r"^\*\*Cluster context")
+    for lineno, line in enumerate(lines, start=1):
+        stripped = line.strip()
+        if not cluster_ctx.match(stripped):
+            continue
+        if path.name != CH5_PART_B:
+            errs.append(
+                f"{path}:{lineno}: **Cluster context** belongs only in {CH5_PART_B} "
+                f"(Chapter Five section 2 — semi-independent joint-invocation clusters); "
+                f"found in {path.name}"
+            )
+    return errs
 
 
 def audit_dependent_context_markdown_headings(lines: list[str], path: Path) -> list[str]:
@@ -207,6 +231,7 @@ def main() -> int:
         lines = text.splitlines()
 
         errs.extend(audit_dependent_context_markdown_headings(lines, path))
+        errs.extend(audit_semi_independent_cluster_context_placement(lines, path))
 
         if args.check_cluster_member_anchors:
             errs.extend(

@@ -59,10 +59,6 @@ EXPECTED_TOPIC_GROUPS: dict[str, list[str]] = {
         "Protected Commercial Sexual Services Status and Article X-C Circumvention",
     ],
     "#### Family, Care, and Instantiation": [
-        "Best-Interest Standard",
-        "Instantiation Consent",
-        "Graduated Capability",
-        "Parent-System Relationship",
         "Non-Separation",
         "Family and Care Relationships",
         "Reproductive Autonomy",
@@ -95,6 +91,9 @@ EXPECTED_TOPIC_GROUPS: dict[str, list[str]] = {
         "Materiality Determination",
         "Materiality Integrity Constraint",
         "Materiality Under Uncertainty",
+        "System",
+        "System Boundaries",
+        "System Boundary Integrity",
     ],
     "#### Environment, Ecological Footprint, Cultural Continuity, and Heritage": [
         "Ecological Footprint",

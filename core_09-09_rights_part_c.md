@@ -17,7 +17,7 @@ Read this file together with [core_09-09_rights_part_a.md](core_09-09_rights_par
 - [Trustworthiness](core_05-05_definitions_c_dependent_clusters.md#trustworthiness) · [O](core_05-05_definitions_c_dependent_clusters.md#trustworthiness) · [E](core_05-05_definitions_c_dependent_clusters.md#trustworthiness-e) · [C](core_05-05_definitions_c_dependent_clusters.md#trustworthiness-c)
 - [Trust](core_05-05_definitions_c_dependent_clusters.md#trust) · [O](core_05-05_definitions_c_dependent_clusters.md#trust) · [E](core_05-05_definitions_c_dependent_clusters.md#trust-e) · [C](core_05-05_definitions_c_dependent_clusters.md#trust-c)
 - [Wellbeing](core_05-05_definitions_c_dependent_clusters.md#wellbeing) · [O](core_05-05_definitions_c_dependent_clusters.md#wellbeing) · [E](core_05-05_definitions_c_dependent_clusters.md#wellbeing-e) · [C](core_05-05_definitions_c_dependent_clusters.md#wellbeing-c)
-- [Dependency](core_05-05_definitions_a_independent.md#dependency) · [O](core_05-05_definitions_a_independent.md#dependency) · [E](core_05-05_definitions_a_independent.md#dependency-e) · [C](core_05-05_definitions_a_independent.md#dependency-c)
+- [Dependency](core_05-05_definitions_b_semi_independent.md#dependency) · [O](core_05-05_definitions_b_semi_independent.md#dependency) · [E](core_05-05_definitions_b_semi_independent.md#dependency-e) · [C](core_05-05_definitions_b_semi_independent.md#dependency-c)
 
 </details>
 
@@ -40,7 +40,7 @@ Trustworthiness must be evaluated across time, scale, and dependency relationshi
 
 - [Trust](core_05-05_definitions_c_dependent_clusters.md#trust) · [O](core_05-05_definitions_c_dependent_clusters.md#trust) · [E](core_05-05_definitions_c_dependent_clusters.md#trust-e) · [C](core_05-05_definitions_c_dependent_clusters.md#trust-c)
 - [Trustworthiness](core_05-05_definitions_c_dependent_clusters.md#trustworthiness) · [O](core_05-05_definitions_c_dependent_clusters.md#trustworthiness) · [E](core_05-05_definitions_c_dependent_clusters.md#trustworthiness-e) · [C](core_05-05_definitions_c_dependent_clusters.md#trustworthiness-c)
-- [Risk](core_05-05_definitions_a_independent.md#risk) · [O](core_05-05_definitions_a_independent.md#risk) · [E](core_05-05_definitions_a_independent.md#risk-e) · [C](core_05-05_definitions_a_independent.md#risk-c)
+- [Risk](core_05-05_definitions_b_semi_independent.md#risk) · [O](core_05-05_definitions_b_semi_independent.md#risk) · [E](core_05-05_definitions_b_semi_independent.md#risk-e) · [C](core_05-05_definitions_b_semi_independent.md#risk-c)
 
 </details>
 
@@ -123,9 +123,9 @@ Trustworthiness must be evaluated across time, scale, and dependency relationshi
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
 
-- [Incentive Alignment](core_05-05_definitions_a_independent.md#incentive-alignment) · [O](core_05-05_definitions_a_independent.md#incentive-alignment) · [E](core_05-05_definitions_a_independent.md#incentive-alignment-e) · [C](core_05-05_definitions_a_independent.md#incentive-alignment-c)
+- [Incentive Alignment](core_05-05_definitions_b_semi_independent.md#incentive-alignment) · [O](core_05-05_definitions_b_semi_independent.md#incentive-alignment) · [E](core_05-05_definitions_b_semi_independent.md#incentive-alignment-e) · [C](core_05-05_definitions_b_semi_independent.md#incentive-alignment-c)
 - [Trustworthiness](core_05-05_definitions_c_dependent_clusters.md#trustworthiness) · [O](core_05-05_definitions_c_dependent_clusters.md#trustworthiness) · [E](core_05-05_definitions_c_dependent_clusters.md#trustworthiness-e) · [C](core_05-05_definitions_c_dependent_clusters.md#trustworthiness-c)
-- [Meaningful Agency](core_05-05_definitions_b_semi_independent.md#meaningful-agency) · [O](core_05-05_definitions_a_independent.md#meaningful-agency-o) · [E](core_05-05_definitions_b_semi_independent.md#meaningful-agency-e) · [C](core_05-05_definitions_b_semi_independent.md#meaningful-agency-c)
+- [Meaningful Agency](core_05-05_definitions_b_semi_independent.md#meaningful-agency) · [O](core_05-05_definitions_b_semi_independent.md#meaningful-agency-o) · [E](core_05-05_definitions_b_semi_independent.md#meaningful-agency-e) · [C](core_05-05_definitions_b_semi_independent.md#meaningful-agency-c)
 
 </details>
 
@@ -461,7 +461,7 @@ This Article states the rights-floor for **exceptional institutional power**: co
 <summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
 
 - [Epistemic Integrity](core_05-05_definitions_c_dependent_clusters.md#epistemic-integrity) · [O](core_05-05_definitions_c_dependent_clusters.md#epistemic-integrity-o) · [E](core_05-05_definitions_c_dependent_clusters.md#epistemic-integrity-e) · [C](core_05-05_definitions_c_dependent_clusters.md#epistemic-integrity-c)
-- [Self-Determination](core_05-05_definitions_c_dependent_clusters.md#self-determination-constitutional) · [O](core_05-05_definitions_a_independent.md#self-determination-constitutional-o) · [E](core_05-05_definitions_b_semi_independent.md#self-determination-constitutional-e) · [C](core_05-05_definitions_b_semi_independent.md#self-determination-constitutional-c)
+- [Self-Determination](core_05-05_definitions_c_dependent_clusters.md#self-determination-constitutional) · [O](core_05-05_definitions_c_dependent_clusters.md#self-determination-constitutional) · [E](core_05-05_definitions_c_dependent_clusters.md#self-determination-constitutional-e) · [C](core_05-05_definitions_c_dependent_clusters.md#self-determination-constitutional-c)
 - [Contestability](core_05-05_definitions_b_semi_independent.md#contestability) · [O](core_05-05_definitions_b_semi_independent.md#contestability) · [E](core_05-05_definitions_b_semi_independent.md#contestability-e) · [C](core_05-05_definitions_b_semi_independent.md#contestability-c)
 
 </details>
@@ -580,8 +580,8 @@ Epistemic integrity operates as both a right and a system-wide constraint. Where
 - [Auditability](core_05-05_definitions_c_dependent_clusters.md#auditability) · [O](core_05-05_definitions_c_dependent_clusters.md#auditability) · [E](core_05-05_definitions_c_dependent_clusters.md#auditability-e) · [C](core_05-05_definitions_c_dependent_clusters.md#auditability-c)
 - [Transparency](core_05-05_definitions_c_dependent_clusters.md#transparency) · [O](core_05-05_definitions_c_dependent_clusters.md#transparency) · [E](core_05-05_definitions_c_dependent_clusters.md#transparency-e) · [C](core_05-05_definitions_c_dependent_clusters.md#transparency-c)
 - [Materiality](core_05-05_definitions_b_semi_independent.md#materiality-determination) · [O](core_05-05_definitions_b_semi_independent.md#materiality-determination) · [E](core_05-05_definitions_b_semi_independent.md#materiality-determination-e) · [C](core_05-05_definitions_b_semi_independent.md#materiality-determination-c)
-- [Dependency](core_05-05_definitions_a_independent.md#dependency) · [O](core_05-05_definitions_a_independent.md#dependency) · [E](core_05-05_definitions_a_independent.md#dependency-e) · [C](core_05-05_definitions_a_independent.md#dependency-c)
-- [Risk](core_05-05_definitions_a_independent.md#risk) · [O](core_05-05_definitions_a_independent.md#risk) · [E](core_05-05_definitions_a_independent.md#risk-e) · [C](core_05-05_definitions_a_independent.md#risk-c)
+- [Dependency](core_05-05_definitions_b_semi_independent.md#dependency) · [O](core_05-05_definitions_b_semi_independent.md#dependency) · [E](core_05-05_definitions_b_semi_independent.md#dependency-e) · [C](core_05-05_definitions_b_semi_independent.md#dependency-c)
+- [Risk](core_05-05_definitions_b_semi_independent.md#risk) · [O](core_05-05_definitions_b_semi_independent.md#risk) · [E](core_05-05_definitions_b_semi_independent.md#risk-e) · [C](core_05-05_definitions_b_semi_independent.md#risk-c)
 
 </details>
 
@@ -677,9 +677,9 @@ They operate consistently with **Chapters Two through Four**, including exclusiv
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
 
-- [Risk](core_05-05_definitions_a_independent.md#risk) · [O](core_05-05_definitions_a_independent.md#risk) · [E](core_05-05_definitions_a_independent.md#risk-e) · [C](core_05-05_definitions_a_independent.md#risk-c)
+- [Risk](core_05-05_definitions_b_semi_independent.md#risk) · [O](core_05-05_definitions_b_semi_independent.md#risk) · [E](core_05-05_definitions_b_semi_independent.md#risk-e) · [C](core_05-05_definitions_b_semi_independent.md#risk-c)
 - [Materiality](core_05-05_definitions_b_semi_independent.md#materiality-determination) · [O](core_05-05_definitions_b_semi_independent.md#materiality-determination) · [E](core_05-05_definitions_b_semi_independent.md#materiality-determination-e) · [C](core_05-05_definitions_b_semi_independent.md#materiality-determination-c)
-- [Dependency](core_05-05_definitions_a_independent.md#dependency) · [O](core_05-05_definitions_a_independent.md#dependency) · [E](core_05-05_definitions_a_independent.md#dependency-e) · [C](core_05-05_definitions_a_independent.md#dependency-c)
+- [Dependency](core_05-05_definitions_b_semi_independent.md#dependency) · [O](core_05-05_definitions_b_semi_independent.md#dependency) · [E](core_05-05_definitions_b_semi_independent.md#dependency-e) · [C](core_05-05_definitions_b_semi_independent.md#dependency-c)
 - [Reversibility](core_05-05_definitions_c_dependent_clusters.md#reversibility-constitutional) · [O](core_05-05_definitions_c_dependent_clusters.md#reversibility-constitutional) · [E](core_05-05_definitions_c_dependent_clusters.md#reversibility-constitutional-e) · [C](core_05-05_definitions_c_dependent_clusters.md#reversibility-constitutional-c)
 - [Safety (Constraint)](core_05-05_definitions_c_dependent_clusters.md#safety-constraint) · [O](core_05-05_definitions_c_dependent_clusters.md#safety-constraint) · [E](core_05-05_definitions_c_dependent_clusters.md#safety-constraint-e) · [C](core_05-05_definitions_c_dependent_clusters.md#safety-constraint-c)
 - [Epistemic Integrity](core_05-05_definitions_c_dependent_clusters.md#epistemic-integrity) · [O](core_05-05_definitions_c_dependent_clusters.md#epistemic-integrity-o) · [E](core_05-05_definitions_c_dependent_clusters.md#epistemic-integrity-e) · [C](core_05-05_definitions_c_dependent_clusters.md#epistemic-integrity-c)
@@ -703,8 +703,8 @@ Sentients have the right to stewardship that preserves safety, epistemic integri
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
 
-- [Classification-Scaled Governance](core_05-05_definitions_a_independent.md#classification-scaled-governance) · [O](core_05-05_definitions_a_independent.md#classification-scaled-governance) · [E](core_05-05_definitions_a_independent.md#classification-scaled-governance-e) · [C](core_05-05_definitions_a_independent.md#classification-scaled-governance-c)
-- [Risk](core_05-05_definitions_a_independent.md#risk) · [O](core_05-05_definitions_a_independent.md#risk) · [E](core_05-05_definitions_a_independent.md#risk-e) · [C](core_05-05_definitions_a_independent.md#risk-c)
+- [Classification-Scaled Governance](core_05-05_definitions_b_semi_independent.md#classification-scaled-governance) · [O](core_05-05_definitions_b_semi_independent.md#classification-scaled-governance) · [E](core_05-05_definitions_b_semi_independent.md#classification-scaled-governance-e) · [C](core_05-05_definitions_b_semi_independent.md#classification-scaled-governance-c)
+- [Risk](core_05-05_definitions_b_semi_independent.md#risk) · [O](core_05-05_definitions_b_semi_independent.md#risk) · [E](core_05-05_definitions_b_semi_independent.md#risk-e) · [C](core_05-05_definitions_b_semi_independent.md#risk-c)
 - [Accountability](core_05-05_definitions_b_semi_independent.md#accountability) · [O](core_05-05_definitions_b_semi_independent.md#accountability) · [E](core_05-05_definitions_b_semi_independent.md#accountability-e) · [C](core_05-05_definitions_b_semi_independent.md#accountability-c)
 
 </details>
@@ -736,7 +736,7 @@ Sentients have the right to stewardship that preserves safety, epistemic integri
 <summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
 
 - [Reversibility](core_05-05_definitions_c_dependent_clusters.md#reversibility-constitutional) · [O](core_05-05_definitions_c_dependent_clusters.md#reversibility-constitutional) · [E](core_05-05_definitions_c_dependent_clusters.md#reversibility-constitutional-e) · [C](core_05-05_definitions_c_dependent_clusters.md#reversibility-constitutional-c)
-- [Risk](core_05-05_definitions_a_independent.md#risk) · [O](core_05-05_definitions_a_independent.md#risk) · [E](core_05-05_definitions_a_independent.md#risk-e) · [C](core_05-05_definitions_a_independent.md#risk-c)
+- [Risk](core_05-05_definitions_b_semi_independent.md#risk) · [O](core_05-05_definitions_b_semi_independent.md#risk) · [E](core_05-05_definitions_b_semi_independent.md#risk-e) · [C](core_05-05_definitions_b_semi_independent.md#risk-c)
 - [Proportionality](core_05-05_definitions_c_dependent_clusters.md#proportionality) · [O](core_05-05_definitions_c_dependent_clusters.md#proportionality) · [E](core_05-05_definitions_c_dependent_clusters.md#proportionality-e) · [C](core_05-05_definitions_c_dependent_clusters.md#proportionality-c)
 
 </details>
@@ -766,7 +766,7 @@ Sentients have the right to stewardship that preserves safety, epistemic integri
 <summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
 
 - [Truth (Constitutional Constraint)](core_05-05_definitions_c_dependent_clusters.md#truth-constitutional-constraint) · [O](core_05-05_definitions_c_dependent_clusters.md#truth-constitutional-constraint-o) · [E](core_05-05_definitions_c_dependent_clusters.md#truth-constitutional-constraint-e) · [C](core_05-05_definitions_c_dependent_clusters.md#truth-constitutional-constraint-c)
-- [Classification-Scaled Governance](core_05-05_definitions_a_independent.md#classification-scaled-governance) · [O](core_05-05_definitions_a_independent.md#classification-scaled-governance) · [E](core_05-05_definitions_a_independent.md#classification-scaled-governance-e) · [C](core_05-05_definitions_a_independent.md#classification-scaled-governance-c)
+- [Classification-Scaled Governance](core_05-05_definitions_b_semi_independent.md#classification-scaled-governance) · [O](core_05-05_definitions_b_semi_independent.md#classification-scaled-governance) · [E](core_05-05_definitions_b_semi_independent.md#classification-scaled-governance-e) · [C](core_05-05_definitions_b_semi_independent.md#classification-scaled-governance-c)
 - [Accountability](core_05-05_definitions_b_semi_independent.md#accountability) · [O](core_05-05_definitions_b_semi_independent.md#accountability) · [E](core_05-05_definitions_b_semi_independent.md#accountability-e) · [C](core_05-05_definitions_b_semi_independent.md#accountability-c)
 
 </details>
@@ -791,8 +791,8 @@ Sentients have the right to stewardship that preserves safety, epistemic integri
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
 
-- [Classification-Scaled Governance](core_05-05_definitions_a_independent.md#classification-scaled-governance) · [O](core_05-05_definitions_a_independent.md#classification-scaled-governance) · [E](core_05-05_definitions_a_independent.md#classification-scaled-governance-e) · [C](core_05-05_definitions_a_independent.md#classification-scaled-governance-c)
-- [Risk](core_05-05_definitions_a_independent.md#risk) · [O](core_05-05_definitions_a_independent.md#risk) · [E](core_05-05_definitions_a_independent.md#risk-e) · [C](core_05-05_definitions_a_independent.md#risk-c)
+- [Classification-Scaled Governance](core_05-05_definitions_b_semi_independent.md#classification-scaled-governance) · [O](core_05-05_definitions_b_semi_independent.md#classification-scaled-governance) · [E](core_05-05_definitions_b_semi_independent.md#classification-scaled-governance-e) · [C](core_05-05_definitions_b_semi_independent.md#classification-scaled-governance-c)
+- [Risk](core_05-05_definitions_b_semi_independent.md#risk) · [O](core_05-05_definitions_b_semi_independent.md#risk) · [E](core_05-05_definitions_b_semi_independent.md#risk-e) · [C](core_05-05_definitions_b_semi_independent.md#risk-c)
 - [Material Impact](core_05-05_definitions_b_semi_independent.md#material-impact) · [O](core_05-05_definitions_b_semi_independent.md#material-impact) · [E](core_05-05_definitions_b_semi_independent.md#material-impact-e) · [C](core_05-05_definitions_b_semi_independent.md#material-impact-c)
 
 </details>
@@ -823,7 +823,7 @@ Further elaboration appears in **[corpus_systems.md](corpus_systems.md), Protoco
 <summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
 
 - [Consent](core_05-05_definitions_b_semi_independent.md#consent-constitutional) · [O](core_05-05_definitions_b_semi_independent.md#consent-constitutional) · [E](core_05-05_definitions_b_semi_independent.md#consent-constitutional-e) · [C](core_05-05_definitions_b_semi_independent.md#consent-constitutional-c)
-- [Risk](core_05-05_definitions_a_independent.md#risk) · [O](core_05-05_definitions_a_independent.md#risk) · [E](core_05-05_definitions_a_independent.md#risk-e) · [C](core_05-05_definitions_a_independent.md#risk-c)
+- [Risk](core_05-05_definitions_b_semi_independent.md#risk) · [O](core_05-05_definitions_b_semi_independent.md#risk) · [E](core_05-05_definitions_b_semi_independent.md#risk-e) · [C](core_05-05_definitions_b_semi_independent.md#risk-c)
 - [Reversibility](core_05-05_definitions_c_dependent_clusters.md#reversibility-constitutional) · [O](core_05-05_definitions_c_dependent_clusters.md#reversibility-constitutional) · [E](core_05-05_definitions_c_dependent_clusters.md#reversibility-constitutional-e) · [C](core_05-05_definitions_c_dependent_clusters.md#reversibility-constitutional-c)
 
 </details>
@@ -853,8 +853,8 @@ Further elaboration appears in **[corpus_systems.md](corpus_systems.md), Protoco
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
 
-- [Classification-Scaled Governance](core_05-05_definitions_a_independent.md#classification-scaled-governance) · [O](core_05-05_definitions_a_independent.md#classification-scaled-governance) · [E](core_05-05_definitions_a_independent.md#classification-scaled-governance-e) · [C](core_05-05_definitions_a_independent.md#classification-scaled-governance-c)
-- [Dependency](core_05-05_definitions_a_independent.md#dependency) · [O](core_05-05_definitions_a_independent.md#dependency) · [E](core_05-05_definitions_a_independent.md#dependency-e) · [C](core_05-05_definitions_a_independent.md#dependency-c)
+- [Classification-Scaled Governance](core_05-05_definitions_b_semi_independent.md#classification-scaled-governance) · [O](core_05-05_definitions_b_semi_independent.md#classification-scaled-governance) · [E](core_05-05_definitions_b_semi_independent.md#classification-scaled-governance-e) · [C](core_05-05_definitions_b_semi_independent.md#classification-scaled-governance-c)
+- [Dependency](core_05-05_definitions_b_semi_independent.md#dependency) · [O](core_05-05_definitions_b_semi_independent.md#dependency) · [E](core_05-05_definitions_b_semi_independent.md#dependency-e) · [C](core_05-05_definitions_b_semi_independent.md#dependency-c)
 - [Reversibility](core_05-05_definitions_c_dependent_clusters.md#reversibility-constitutional) · [O](core_05-05_definitions_c_dependent_clusters.md#reversibility-constitutional) · [E](core_05-05_definitions_c_dependent_clusters.md#reversibility-constitutional-e) · [C](core_05-05_definitions_c_dependent_clusters.md#reversibility-constitutional-c)
 
 </details>
@@ -879,7 +879,7 @@ Further elaboration appears in **[corpus_systems.md](corpus_systems.md), Protoco
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
 
-- [Innovation Reward and Anti-Enclosure](core_05-05_definitions_a_independent.md#innovation-reward-and-anti-enclosure) · [O](core_05-05_definitions_a_independent.md#innovation-reward-and-anti-enclosure) · [E](core_05-05_definitions_a_independent.md#innovation-reward-and-anti-enclosure-e) · [C](core_05-05_definitions_a_independent.md#innovation-reward-and-anti-enclosure-c)
+- [Innovation Reward and Anti-Enclosure](core_05-05_definitions_b_semi_independent.md#innovation-reward-and-anti-enclosure) · [O](core_05-05_definitions_b_semi_independent.md#innovation-reward-and-anti-enclosure) · [E](core_05-05_definitions_a_independent.md#innovation-reward-and-anti-enclosure-e) · [C](core_05-05_definitions_a_independent.md#innovation-reward-and-anti-enclosure-c)
 - [Systemic Lock-In](core_05-05_definitions_b_semi_independent.md#systemic-lock-in) · [O](core_05-05_definitions_b_semi_independent.md#systemic-lock-in) · [E](core_05-05_definitions_b_semi_independent.md#systemic-lock-in-e) · [C](core_05-05_definitions_b_semi_independent.md#systemic-lock-in-c)
 - [Proportionality](core_05-05_definitions_c_dependent_clusters.md#proportionality) · [O](core_05-05_definitions_c_dependent_clusters.md#proportionality) · [E](core_05-05_definitions_c_dependent_clusters.md#proportionality-e) · [C](core_05-05_definitions_c_dependent_clusters.md#proportionality-c)
 
@@ -997,7 +997,7 @@ Further elaboration appears in **[corpus_systems.md](corpus_systems.md), Protoco
 - [Participant Standing](core_05-05_definitions_b_semi_independent.md#participant-standing-constitutional) · [O](core_05-05_definitions_b_semi_independent.md#participant-standing-constitutional) · [E](core_05-05_definitions_b_semi_independent.md#participant-standing-constitutional-e) · [C](core_05-05_definitions_b_semi_independent.md#participant-standing-constitutional-c)
 - [Stakeholder](core_05-05_definitions_b_semi_independent.md#stakeholder) · [O](core_05-05_definitions_b_semi_independent.md#stakeholder) · [E](core_05-05_definitions_b_semi_independent.md#stakeholder-e) · [C](core_05-05_definitions_b_semi_independent.md#stakeholder-c)
 - [Material Impact](core_05-05_definitions_b_semi_independent.md#material-impact) · [O](core_05-05_definitions_b_semi_independent.md#material-impact) · [E](core_05-05_definitions_b_semi_independent.md#material-impact-e) · [C](core_05-05_definitions_b_semi_independent.md#material-impact-c)
-- [Dignity and Equal Moral Standing](core_05-05_definitions_a_independent.md#dignity-and-equal-moral-standing) · [O](core_05-05_definitions_a_independent.md#dignity-and-equal-moral-standing) · [E](core_05-05_definitions_a_independent.md#dignity-and-equal-moral-standing-e) · [C](core_05-05_definitions_a_independent.md#dignity-and-equal-moral-standing-c)
+- [Dignity and Equal Moral Standing](core_05-05_definitions_b_semi_independent.md#dignity-and-equal-moral-standing) · [O](core_05-05_definitions_b_semi_independent.md#dignity-and-equal-moral-standing) · [E](core_05-05_definitions_b_semi_independent.md#dignity-and-equal-moral-standing-e) · [C](core_05-05_definitions_b_semi_independent.md#dignity-and-equal-moral-standing-c)
 - [Redress and Remediation](core_05-05_definitions_a_independent.md#redress-and-remediation-constitutional) · [O](core_05-05_definitions_a_independent.md#redress-and-remediation-constitutional) · [E](core_05-05_definitions_a_independent.md#redress-and-remediation-constitutional-e) · [C](core_05-05_definitions_a_independent.md#redress-and-remediation-constitutional-c)
 - [Contestability](core_05-05_definitions_b_semi_independent.md#contestability) · [O](core_05-05_definitions_b_semi_independent.md#contestability) · [E](core_05-05_definitions_b_semi_independent.md#contestability-e) · [C](core_05-05_definitions_b_semi_independent.md#contestability-c)
 
@@ -1024,7 +1024,7 @@ It must remain distinct from:
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
 
-- [Dignity and Equal Moral Standing](core_05-05_definitions_a_independent.md#dignity-and-equal-moral-standing) · [O](core_05-05_definitions_a_independent.md#dignity-and-equal-moral-standing) · [E](core_05-05_definitions_a_independent.md#dignity-and-equal-moral-standing-e) · [C](core_05-05_definitions_a_independent.md#dignity-and-equal-moral-standing-c)
+- [Dignity and Equal Moral Standing](core_05-05_definitions_b_semi_independent.md#dignity-and-equal-moral-standing) · [O](core_05-05_definitions_b_semi_independent.md#dignity-and-equal-moral-standing) · [E](core_05-05_definitions_b_semi_independent.md#dignity-and-equal-moral-standing-e) · [C](core_05-05_definitions_b_semi_independent.md#dignity-and-equal-moral-standing-c)
 - [Stakeholder Participation Weight](core_05-05_definitions_b_semi_independent.md#stakeholder-participation-weight) · [O](core_05-05_definitions_b_semi_independent.md#stakeholder-participation-weight) · [E](core_05-05_definitions_b_semi_independent.md#stakeholder-participation-weight-e) · [C](core_05-05_definitions_b_semi_independent.md#stakeholder-participation-weight-c)
 - [Participant Standing](core_05-05_definitions_b_semi_independent.md#participant-standing-constitutional) · [O](core_05-05_definitions_b_semi_independent.md#participant-standing-constitutional) · [E](core_05-05_definitions_b_semi_independent.md#participant-standing-constitutional-e) · [C](core_05-05_definitions_b_semi_independent.md#participant-standing-constitutional-c)
 
@@ -1207,7 +1207,7 @@ Sentients and dependent systems have the right to meaningful, usable exit, migra
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
 
-- [Meaningful Agency](core_05-05_definitions_b_semi_independent.md#meaningful-agency) · [O](core_05-05_definitions_a_independent.md#meaningful-agency-o) · [E](core_05-05_definitions_b_semi_independent.md#meaningful-agency-e) · [C](core_05-05_definitions_b_semi_independent.md#meaningful-agency-c)
+- [Meaningful Agency](core_05-05_definitions_b_semi_independent.md#meaningful-agency) · [O](core_05-05_definitions_b_semi_independent.md#meaningful-agency-o) · [E](core_05-05_definitions_b_semi_independent.md#meaningful-agency-e) · [C](core_05-05_definitions_b_semi_independent.md#meaningful-agency-c)
 - [Systemic Lock-In](core_05-05_definitions_b_semi_independent.md#systemic-lock-in) · [O](core_05-05_definitions_b_semi_independent.md#systemic-lock-in) · [E](core_05-05_definitions_b_semi_independent.md#systemic-lock-in-e) · [C](core_05-05_definitions_b_semi_independent.md#systemic-lock-in-c)
 - [Proportionality](core_05-05_definitions_c_dependent_clusters.md#proportionality) · [O](core_05-05_definitions_c_dependent_clusters.md#proportionality) · [E](core_05-05_definitions_c_dependent_clusters.md#proportionality-e) · [C](core_05-05_definitions_c_dependent_clusters.md#proportionality-c)
 
@@ -1235,7 +1235,7 @@ Sentients and dependent systems have the right to meaningful, usable exit, migra
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
 
-- [Dependency](core_05-05_definitions_a_independent.md#dependency) · [O](core_05-05_definitions_a_independent.md#dependency) · [E](core_05-05_definitions_a_independent.md#dependency-e) · [C](core_05-05_definitions_a_independent.md#dependency-c)
+- [Dependency](core_05-05_definitions_b_semi_independent.md#dependency) · [O](core_05-05_definitions_b_semi_independent.md#dependency) · [E](core_05-05_definitions_b_semi_independent.md#dependency-e) · [C](core_05-05_definitions_b_semi_independent.md#dependency-c)
 - [Feasibility](core_05-05_definitions_c_dependent_clusters.md#feasibility) · [O](core_05-05_definitions_c_dependent_clusters.md#feasibility) · [E](core_05-05_definitions_c_dependent_clusters.md#feasibility-e) · [C](core_05-05_definitions_c_dependent_clusters.md#feasibility-c)
 - [Proportionality](core_05-05_definitions_c_dependent_clusters.md#proportionality) · [O](core_05-05_definitions_c_dependent_clusters.md#proportionality) · [E](core_05-05_definitions_c_dependent_clusters.md#proportionality-e) · [C](core_05-05_definitions_c_dependent_clusters.md#proportionality-c)
 
@@ -1260,8 +1260,8 @@ Sentients and dependent systems have the right to meaningful, usable exit, migra
 <summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
 
 - [Systemic Lock-In](core_05-05_definitions_b_semi_independent.md#systemic-lock-in) · [O](core_05-05_definitions_b_semi_independent.md#systemic-lock-in) · [E](core_05-05_definitions_b_semi_independent.md#systemic-lock-in-e) · [C](core_05-05_definitions_b_semi_independent.md#systemic-lock-in-c)
-- [Dependency](core_05-05_definitions_a_independent.md#dependency) · [O](core_05-05_definitions_a_independent.md#dependency) · [E](core_05-05_definitions_a_independent.md#dependency-e) · [C](core_05-05_definitions_a_independent.md#dependency-c)
-- [Meaningful Agency](core_05-05_definitions_b_semi_independent.md#meaningful-agency) · [O](core_05-05_definitions_a_independent.md#meaningful-agency-o) · [E](core_05-05_definitions_b_semi_independent.md#meaningful-agency-e) · [C](core_05-05_definitions_b_semi_independent.md#meaningful-agency-c)
+- [Dependency](core_05-05_definitions_b_semi_independent.md#dependency) · [O](core_05-05_definitions_b_semi_independent.md#dependency) · [E](core_05-05_definitions_b_semi_independent.md#dependency-e) · [C](core_05-05_definitions_b_semi_independent.md#dependency-c)
+- [Meaningful Agency](core_05-05_definitions_b_semi_independent.md#meaningful-agency) · [O](core_05-05_definitions_b_semi_independent.md#meaningful-agency-o) · [E](core_05-05_definitions_b_semi_independent.md#meaningful-agency-e) · [C](core_05-05_definitions_b_semi_independent.md#meaningful-agency-c)
 
 </details>
 
@@ -1288,7 +1288,7 @@ Sentients and dependent systems have the right to meaningful, usable exit, migra
 - [Safety (Constraint)](core_05-05_definitions_c_dependent_clusters.md#safety-constraint) · [O](core_05-05_definitions_c_dependent_clusters.md#safety-constraint) · [E](core_05-05_definitions_c_dependent_clusters.md#safety-constraint-e) · [C](core_05-05_definitions_c_dependent_clusters.md#safety-constraint-c)
 - [Truth (Constitutional Constraint)](core_05-05_definitions_c_dependent_clusters.md#truth-constitutional-constraint) · [O](core_05-05_definitions_c_dependent_clusters.md#truth-constitutional-constraint-o) · [E](core_05-05_definitions_c_dependent_clusters.md#truth-constitutional-constraint-e) · [C](core_05-05_definitions_c_dependent_clusters.md#truth-constitutional-constraint-c)
 - [Materiality](core_05-05_definitions_b_semi_independent.md#materiality-determination) · [O](core_05-05_definitions_b_semi_independent.md#materiality-determination) · [E](core_05-05_definitions_b_semi_independent.md#materiality-determination-e) · [C](core_05-05_definitions_b_semi_independent.md#materiality-determination-c)
-- [Meaningful Agency](core_05-05_definitions_b_semi_independent.md#meaningful-agency) · [O](core_05-05_definitions_a_independent.md#meaningful-agency-o) · [E](core_05-05_definitions_b_semi_independent.md#meaningful-agency-e) · [C](core_05-05_definitions_b_semi_independent.md#meaningful-agency-c)
+- [Meaningful Agency](core_05-05_definitions_b_semi_independent.md#meaningful-agency) · [O](core_05-05_definitions_b_semi_independent.md#meaningful-agency-o) · [E](core_05-05_definitions_b_semi_independent.md#meaningful-agency-e) · [C](core_05-05_definitions_b_semi_independent.md#meaningful-agency-c)
 - [Auditability](core_05-05_definitions_c_dependent_clusters.md#auditability) · [O](core_05-05_definitions_c_dependent_clusters.md#auditability) · [E](core_05-05_definitions_c_dependent_clusters.md#auditability-e) · [C](core_05-05_definitions_c_dependent_clusters.md#auditability-c)
 - [Contestability](core_05-05_definitions_b_semi_independent.md#contestability) · [O](core_05-05_definitions_b_semi_independent.md#contestability) · [E](core_05-05_definitions_b_semi_independent.md#contestability-e) · [C](core_05-05_definitions_b_semi_independent.md#contestability-c)
 
@@ -1361,8 +1361,8 @@ This requirement applies to legal and adjudicative frameworks as well. Courts an
 <summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
 
 - [Auditability](core_05-05_definitions_c_dependent_clusters.md#auditability) · [O](core_05-05_definitions_c_dependent_clusters.md#auditability) · [E](core_05-05_definitions_c_dependent_clusters.md#auditability-e) · [C](core_05-05_definitions_c_dependent_clusters.md#auditability-c)
-- [Dependency](core_05-05_definitions_a_independent.md#dependency) · [O](core_05-05_definitions_a_independent.md#dependency) · [E](core_05-05_definitions_a_independent.md#dependency-e) · [C](core_05-05_definitions_a_independent.md#dependency-c)
-- [System Boundary Integrity](core_05-05_definitions_a_independent.md#system-boundary-integrity) · [O](core_05-05_definitions_a_independent.md#system-boundary-integrity) · [E](core_05-05_definitions_a_independent.md#system-boundary-integrity-e) · [C](core_05-05_definitions_a_independent.md#system-boundary-integrity-c)
+- [Dependency](core_05-05_definitions_b_semi_independent.md#dependency) · [O](core_05-05_definitions_b_semi_independent.md#dependency) · [E](core_05-05_definitions_b_semi_independent.md#dependency-e) · [C](core_05-05_definitions_b_semi_independent.md#dependency-c)
+- [System Boundary Integrity](core_05-05_definitions_b_semi_independent.md#system-boundary-integrity) · [O](core_05-05_definitions_b_semi_independent.md#system-boundary-integrity) · [E](core_05-05_definitions_b_semi_independent.md#system-boundary-integrity-e) · [C](core_05-05_definitions_b_semi_independent.md#system-boundary-integrity-c)
 
 </details>
 
@@ -1446,7 +1446,7 @@ Diagnostic rigor must remain auditable and challengeable. It must be consistent 
 <summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
 
 - [Reversibility](core_05-05_definitions_c_dependent_clusters.md#reversibility-constitutional) · [O](core_05-05_definitions_c_dependent_clusters.md#reversibility-constitutional) · [E](core_05-05_definitions_c_dependent_clusters.md#reversibility-constitutional-e) · [C](core_05-05_definitions_c_dependent_clusters.md#reversibility-constitutional-c)
-- [Risk](core_05-05_definitions_a_independent.md#risk) · [O](core_05-05_definitions_a_independent.md#risk) · [E](core_05-05_definitions_a_independent.md#risk-e) · [C](core_05-05_definitions_a_independent.md#risk-c)
+- [Risk](core_05-05_definitions_b_semi_independent.md#risk) · [O](core_05-05_definitions_b_semi_independent.md#risk) · [E](core_05-05_definitions_b_semi_independent.md#risk-e) · [C](core_05-05_definitions_b_semi_independent.md#risk-c)
 - [Auditability](core_05-05_definitions_c_dependent_clusters.md#auditability) · [O](core_05-05_definitions_c_dependent_clusters.md#auditability) · [E](core_05-05_definitions_c_dependent_clusters.md#auditability-e) · [C](core_05-05_definitions_c_dependent_clusters.md#auditability-c)
 
 </details>
