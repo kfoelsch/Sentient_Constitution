@@ -1101,6 +1101,7 @@ It must remain distinct from:
     - remain subject to **Chapter Six** (*Contribution, Violation, and Standing Model*);
     - remain revisable when current evidence changes, and — where material restrictions or degradations are corrected — allow restoration or requalification pathways that are real rather than merely formal;
     - account for acquiescent participation and failure to resist unlawful or unconstitutional directives where material duty and capacity were present, consistent with **Chapter Five** (*Collective Accountability Failure*);
+    - account for **verified prior misconduct outside constitutional authority** only where the record is auditable, contestable, materially role-relevant, current enough to be probative, and bounded by **Procedural Fairness**, **Necessity**, and **Proportionality**, consistent with **Chapter Seven §6.6**;
     - not operate as a durable-political-voice disqualification vector in **Foundational Constitutional Choice** (**Chapter Five**), except where **Chapter Ten §4.1** withholds **durable political voice** for **final** **Chapter Seven** **anti-constitutional misconduct** pending **full restitution**.
 - **Political-voice discipline:** Where loss of standing is invoked to restrict participation in authorization of governing authority, the restriction must satisfy:
   - individualized predicate under **Procedural Fairness**;
@@ -1112,6 +1113,7 @@ It must remain distinct from:
   
   The following are non-compliant:
   - broad-misconduct categories swept into disqualification scope;
+  - using prior non-constitutional misconduct as a categorical loyalty test, ideology screen, permanent disqualification, or proxy for group status;
   - standing-loss patterns that track **Protected Characteristics** or their material proxies.
   
   Operational implementation lives in **Chapter Ten §4.1** (*Durable political-voice floor*).
