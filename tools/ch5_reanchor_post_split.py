@@ -57,12 +57,9 @@ def directory_supplement_map(part_a: str) -> dict[str, str]:
             if m:
                 extra[m.group(1)] = CH5_PART_C
 
-    if unified_heading in part_a:
+    if unified_heading in part_a and reader_marker in part_a:
         _, rest = part_a.split(unified_heading, 1)
-        if reader_marker in rest:
-            block, _ = rest.split(reader_marker, 1)
-        else:
-            block = rest.split("</details>", 1)[0]
+        block, _ = rest.split(reader_marker, 1)
         ingest_block(block)
         return extra
 
@@ -80,7 +77,7 @@ def directory_supplement_map(part_a: str) -> dict[str, str]:
 
 
 def merged_anchor_home(part_a: str, part_b: str, part_c: str) -> dict[str, str]:
-    """Explicit <a id> wins; directory fills gaps (historical heading-only targets)."""
+    """Explicit <a id> wins; directory fills gaps (stub / heading-only targets)."""
     home: dict[str, str] = {}
     for a in collect_anchors(part_a):
         home[a] = CH5_PART_A

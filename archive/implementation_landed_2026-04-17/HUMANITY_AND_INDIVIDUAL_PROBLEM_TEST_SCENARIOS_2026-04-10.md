@@ -1,12 +1,12 @@
 # Humanity + Individual Problem Sets and Test Scenarios (2026-04-10)
 
-## Plan–Act–Verify (scenario authoring workflow)
+## Plan-Act-Verify
 
 - **Plan:** Build two ranked watchlists (humanity-level and individual-level) to pressure-test constitutional design assumptions.
 - **Act:** Convert them into structured constitutional testing scenarios with clear triggers, target corpus areas, and pass/fail criteria.
 - **Verify:** Ensure scenarios stress rights, enforcement realism, epistemic integrity, anti-capture, and amendment validity boundaries without relocating owner-layer mechanics.
 
-> Scope note: authoritative norms stay in the binding `core_*` corpus and adopted companions per [README.md](../../README.md); this document is scenario/design pressure-testing material under `archive/`.
+> Scope note: `src/types/` and `src/core/` are treated as OS-locked read-only boundaries in this project identity model.
 
 ---
 

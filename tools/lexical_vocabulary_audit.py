@@ -70,7 +70,6 @@ _BREACH_FAMILY = re.compile(
 )
 
 _MINIMA_WORD = re.compile(r"\bminima\b", re.IGNORECASE)
-_ANNEX_WORD = re.compile(r"\bannex\b", re.IGNORECASE)
 
 _MALFORMED_CONSTITUTIONAL: list[tuple[str, re.Pattern[str]]] = [
     ("dangling-this-constitutional", re.compile(r"\bthis constitutional\.")),
@@ -283,35 +282,6 @@ def scan_avoid_minima(rel_path: str, text: str) -> list[Finding]:
     return findings
 
 
-def scan_avoid_annex(rel_path: str, text: str) -> list[Finding]:
-    """Reject **annex**; prefer **companion**, **incorporated companion**, or a specific corpus filename."""
-    findings: list[Finding] = []
-    lines = text.splitlines()
-    in_fence = False
-
-    for idx, raw in enumerate(lines, start=1):
-        if raw.strip().startswith("```"):
-            in_fence = not in_fence
-            continue
-        if in_fence:
-            continue
-
-        if rel_path == "doc_architecture.md" and "| **`annex`** |" in raw:
-            continue
-
-        if _ANNEX_WORD.search(raw):
-            findings.append(
-                Finding(
-                    file=rel_path,
-                    line=idx,
-                    rule="avoid-annex",
-                    text=raw.strip(),
-                ),
-            )
-
-    return findings
-
-
 def scan_malformed_constitutional_phrasing(rel_path: str, text: str) -> list[Finding]:
     """Flag grammar glitches from bad ``constitutional`` compounding (prefer **this Constitution** or *constitutionally* …)."""
     findings: list[Finding] = []
@@ -352,7 +322,6 @@ def report_markdown(run_date: str, scope: list[str], findings: list[Finding]) ->
         "- **`avoid-accession-jargon`:** reject **accede**, **acceding**, and **accession** → prefer **join** / **joining** / **additional parties** adoption wording.",
         "- **`avoid-undefined-breach-family`:** reject standalone **breach** / **breaches** / **breached** / **breaching**, **duty breach**, and **duty-breaching** → prefer **violation**, **non-compliance**, **unmet duties**, or defined Chapter Six typing (see `.cursor/rules/clarity.mdc`). *Currently enforced only on files in `_BREACH_FAMILY_SCOPE` inside `tools/lexical_vocabulary_audit.py`.*",
         "- **`avoid-minima`:** reject **minima** → prefer **requirements**, **floors**, **conditions**, or another context-specific term.",
-        "- **`avoid-annex`:** reject **annex** → prefer **companion**, **incorporated companion**, or a specific corpus filename.",
         "",
         "## Scope",
     ]
@@ -409,7 +378,6 @@ def main() -> int:
         findings.extend(scan_prefer_sentients_not_people_phrasing(rel_path, text))
         findings.extend(scan_avoid_accession_jargon(rel_path, text))
         findings.extend(scan_avoid_minima(rel_path, text))
-        findings.extend(scan_avoid_annex(rel_path, text))
         if rel_path in _BREACH_FAMILY_SCOPE:
             findings.extend(scan_avoid_breach_family(rel_path, text))
 

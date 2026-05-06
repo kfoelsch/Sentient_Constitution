@@ -19,7 +19,7 @@ Chapter Six sets the general **Contribution Axis**, **Violation Axis**, standing
 > Where this lives (navigation):
 > - **Constitutional owner:** final **Violation Axis s = 7, s = 8, and s = 9** classification for **anti-constitutional misconduct** within this scope.
 > - **Owner contents:** criteria, **unified-incident** slot assignment under **section 3**, due-process safeguards, and cross-chapter discipline tied to those slot assignments.
-> - **Named pattern routing:** **section 6.3** covers *Flooding the zone and contest-pathway denial*. **Section 6.4** covers *Info-sphere zone flooding*. **Section 6.5** covers *Bribery and improper benefit exchange*. **Section 6.6** covers verified prior misconduct outside constitutional authority when it becomes role-relevant to constitutional trustworthiness.
+> - **Named pattern routing:** **section 6.3** covers *Flooding the zone and contest-pathway denial*. **Section 6.4** covers *Info-sphere zone flooding*. **Section 6.5** covers *Bribery and improper benefit exchange*.
 > - **Upstream:** **Chapter Six** supplies the Contribution and Violation axes, general contribution / violation / standing classification, the **section 2.1** standing-slot map, the **section 3.1** primary slot defaults, the **section 3.3** adverse severity ladder, and **section 5** process / response character.
 > - **Chapter Six pointer:** **Chapter Six**, section **10** routes final top-end anti-constitutional misconduct substance here. Chapter Six process / response character does **not** by itself supply final **s = 7, 8, or 9** assignment.
 > - **Foundation map:** this chapter is the **specialized top-end Violation Axis layer** of the Chapter Six **section 2.1** map. What older drafts called **Tier 1**, **Tier 2**, and **Tier 3** now correspond to final **Violation Axis s = 7**, **s = 8**, and **s = 9** anti-constitutional misconduct classification, respectively.
@@ -37,7 +37,7 @@ Chapter Six sets the general **Contribution Axis**, **Violation Axis**, standing
 - Upstream: [Chapter Six](core_06-06_standing_classification.md#chapter-six-compliance-violation-and-standing-model) (*Contribution, Violation, and Standing Model*), including [§2.1 — Two-axis map](core_06-06_standing_classification.md#21-two-axis-map), [§3.1 — Primary category defaults and LEQU slot baseline](core_06-06_standing_classification.md#3-primary-category-defaults-and-lequ-slot-baseline), and [§10 — Violation Axis s = 7–9 anti-constitutional misconduct — authoritative location](core_06-06_standing_integration.md#10-violation-axis-s-7-9-anti-constitutional-misconduct-authoritative-location).
 - Upstream integrity sources: [Chapters Two through Four](core_02-04_definition_mechanics.md) integrity, tracing, and verification.
 - Upstream principles: [Chapter One](core_00-01_principles.md#chapter-01-principles-and-constraints) principles where **Necessity**-bounded emergency or concentration floors apply.
-- Subsections: [§1](#1-scope-and-authority); [§2](#2-criteria-set-for-slot-assignment); [§3](#3-violation-axis-s-7-9-slot-assignment-incident-gravity); [§4](#4-due-process-safeguards-for-slot-classification); [§5](#5-cross-chapter-discipline); [§6](#6-criteria-interactions-and-named-pattern-routing); [§6.1](#61-concentration-based-subversion-criteria-interaction); [§6.2](#62-rights-floor-waivers-and-unconstitutional-contract-terms); [§6.3](#63-flooding-the-zone-and-contest-pathway-denial); [§6.4](#64-info-sphere-zone-flooding); [§6.5](#65-bribery-and-improper-benefit-exchange); [§6.6](#66-verified-prior-misconduct-outside-constitutional-authority).
+- Subsections: [§1](#1-scope-and-authority); [§2](#2-criteria-set-for-slot-assignment); [§3](#3-violation-axis-s-7-9-slot-assignment-incident-gravity); [§4](#4-due-process-safeguards-for-slot-classification); [§5](#5-cross-chapter-discipline); [§6](#6-criteria-interactions-and-named-pattern-routing); [§6.1](#61-concentration-based-subversion-criteria-interaction); [§6.2](#62-rights-floor-waivers-and-unconstitutional-contract-terms); [§6.3](#63-flooding-the-zone-and-contest-pathway-denial); [§6.4](#64-info-sphere-zone-flooding); [§6.5](#65-bribery-and-improper-benefit-exchange).
 - Downstream courts: [Chapter Eight](core_08-08_forum.md#chapter-eight-forums-and-jurisdiction) court families, **default Integrity lead family** for dominant Chapter Seven **s = 7, 8, or 9** classification (**section 2**), and **transfer** / **certification** discipline (**sections 5–7**).
 - Downstream governance: [Chapter Ten](core_10-10_governance.md#chapter-ten-constitutional-contract-legitimacy-authorization-and-stewardship) governance legitimacy, including durable-voice consequences tied to final Chapter Seven slot classification.
 - Downstream change paths: [Chapters Eleven through Thirteen](core_11-13_amendment.md#chapter-eleven-non-regression-and-substantive-amendment-validity) change-path validity, referral triggers, and procedural adoption controls.
@@ -87,7 +87,7 @@ For final classification of anti-constitutional misconduct, this chapter control
 
 </details>
 
-<strong><span style="color: #2563eb;">Definition:</span></strong> [Necessity](core_05-05_definitions_c_dependent_clusters.md#necessity) · [O](core_05-05_definitions_c_dependent_clusters.md#necessity) · [E](core_05-05_definitions_c_dependent_clusters.md#necessity-e) · [C](core_05-05_definitions_c_dependent_clusters.md#necessity-c)
+<strong><span style="color: #2563eb;">Definition:</span></strong> [Necessity](core_05-05_definitions_a_independent.md#necessity) · [O](core_05-05_definitions_a_independent.md#necessity) · [E](core_05-05_definitions_a_independent.md#necessity-e) · [C](core_05-05_definitions_a_independent.md#necessity-c)
 
 *In plain terms: evaluators first build one coherent picture of what happened: one episode, one sustained campaign, or another unified incident. They then ask how serious that incident is, using six checks: intent, records, rollback, real-world blockage, forcible takeover, and practical nullification of remedies. They may not split one scheme into artificial fragments to game the slot.*
 
@@ -190,7 +190,7 @@ No final **Violation Axis anti-constitutional misconduct** classification under 
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [§2](#2-criteria-set-for-slot-assignment) (*Criteria set*); [§3](#3-violation-axis-s-7-9-slot-assignment-incident-gravity) (*Violation Axis s = 7–9 slot assignment*); [§4](#4-due-process-safeguards-for-slot-classification) (*Due-process safeguards*); [§5](#5-cross-chapter-discipline) (*Cross-chapter discipline*).
-- Subsections: [§6.1](#61-concentration-based-subversion-criteria-interaction); [§6.2](#62-rights-floor-waivers-and-unconstitutional-contract-terms); [§6.3](#63-flooding-the-zone-and-contest-pathway-denial); [§6.4](#64-info-sphere-zone-flooding); [§6.5](#65-bribery-and-improper-benefit-exchange); [§6.6](#66-verified-prior-misconduct-outside-constitutional-authority).
+- Subsections: [§6.1](#61-concentration-based-subversion-criteria-interaction); [§6.2](#62-rights-floor-waivers-and-unconstitutional-contract-terms); [§6.3](#63-flooding-the-zone-and-contest-pathway-denial); [§6.4](#64-info-sphere-zone-flooding); [§6.5](#65-bribery-and-improper-benefit-exchange).
 - Read with: [Chapter Five](core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) for definitions named inside each pattern-routing subsection.
 
 </details>
@@ -205,9 +205,9 @@ The following subsections state criteria interactions and named pattern routing.
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [Chapter One §5.1](core_00-01_principles.md#51-productive-capacity-instrumental-good) (*Productive Capacity*); [Chapter One §5.2](core_00-01_principles.md#52-concentration-threshold-mechanism-adopter-tunable) (*Concentration Threshold Mechanism*); [§2](#2-criteria-set-for-slot-assignment) (*Criteria set*).
+- Upstream: [Chapter One §5.1](core_00-01_principles.md#51-productive-capacity-instrumental-good) (*Productive Capacity*); [Chapter One §5.1.1](core_00-01_principles.md#511-concentration-threshold-mechanism-adopter-tunable) (*Concentration Threshold Mechanism*); [§2](#2-criteria-set-for-slot-assignment) (*Criteria set*).
 - Downstream: [§3](#3-violation-axis-s-7-9-slot-assignment-incident-gravity) (*Violation Axis s = 7–9 slot assignment*).
-- Read with: [Concentration Threshold](core_05-05_definitions_b_semi_independent.md#concentration-threshold-constitutional) in **Chapter Five** for definitional anchoring referenced from the **§5.2** mechanism.
+- Read with: [Concentration Threshold](core_05-05_definitions_b_semi_independent.md#concentration-threshold-constitutional) in **Chapter Five** for definitional anchoring referenced from the **§5.1.1** mechanism.
 
 </details>
 
@@ -215,13 +215,13 @@ The following subsections state criteria interactions and named pattern routing.
 
 *In plain terms: dangerous concentration of money or power is not a separate “mystery criterion” — it still has to show up through rollback, blocked remedies, or capture that makes constitutional process unusable in practice.*
 
-Prohibited **concentration of wealth, power, control, or opportunity** under **Chapter One §5.1** and **§5.2** is not a separate slot-assignment criterion. It is reached through the existing criteria where it produces the equivalent constitutional effect:
+Prohibited **concentration of wealth, power, control, or opportunity** under **Chapter One §5.1** and **§5.1.1** is not a separate slot-assignment criterion. It is reached through the existing criteria where it produces the equivalent constitutional effect:
 
 - It satisfies **criterion 3** where concentration operates as an **equivalent structural workaround** producing material rollback of constitutional protections.
 - It satisfies **criterion 4** where concentration materially contributes to **rights-floor degradation**, delayed correction, or blocked challenge rights.
 - It satisfies **criterion 6** where concentration makes constitutional process or remedies unusable in practice. This can occur through capture, coercive dependency, or usurpation of operative authority, even without overt force.
 
-The absence of overt deception or forcible act does **not** defeat anti-constitutional misconduct assignment where prohibited concentration produces the equivalent constitutional effect. Quantitative threshold-setting for concentration remains owned by **Chapter One §5.2** and is not relitigated here; this chapter evaluates the **conduct** that creates, maintains, or exploits concentration that has crossed the **§5.1** floor.
+The absence of overt deception or forcible act does **not** defeat anti-constitutional misconduct assignment where prohibited concentration produces the equivalent constitutional effect. Quantitative threshold-setting for concentration remains owned by **Chapter One §5.1.1** and is not relitigated here; this chapter evaluates the **conduct** that creates, maintains, or exploits concentration that has crossed the **§5.1** floor.
 
 ### 6.2 Rights-floor waivers and unconstitutional contract terms
 <details>
@@ -238,8 +238,8 @@ The absence of overt deception or forcible act does **not** defeat anti-constitu
 
 - [Auditability](core_05-05_definitions_c_dependent_clusters.md#auditability) · [O](core_05-05_definitions_c_dependent_clusters.md#auditability) · [E](core_05-05_definitions_c_dependent_clusters.md#auditability-e) · [C](core_05-05_definitions_c_dependent_clusters.md#auditability-c)
 - [Contestability](core_05-05_definitions_b_semi_independent.md#contestability) · [O](core_05-05_definitions_b_semi_independent.md#contestability) · [E](core_05-05_definitions_b_semi_independent.md#contestability-e) · [C](core_05-05_definitions_b_semi_independent.md#contestability-c)
-- [Necessity](core_05-05_definitions_c_dependent_clusters.md#necessity) · [O](core_05-05_definitions_c_dependent_clusters.md#necessity) · [E](core_05-05_definitions_c_dependent_clusters.md#necessity-e) · [C](core_05-05_definitions_c_dependent_clusters.md#necessity-c)
-- [Proportionality](core_05-05_definitions_c_dependent_clusters.md#proportionality) · [O](core_05-05_definitions_c_dependent_clusters.md#proportionality) · [E](core_05-05_definitions_c_dependent_clusters.md#proportionality-e) · [C](core_05-05_definitions_c_dependent_clusters.md#proportionality-c)
+- [Necessity](core_05-05_definitions_a_independent.md#necessity) · [O](core_05-05_definitions_a_independent.md#necessity) · [E](core_05-05_definitions_a_independent.md#necessity-e) · [C](core_05-05_definitions_a_independent.md#necessity-c)
+- [Proportionality](core_05-05_definitions_a_independent.md#proportionality) · [O](core_05-05_definitions_a_independent.md#proportionality) · [E](core_05-05_definitions_a_independent.md#proportionality-e) · [C](core_05-05_definitions_a_independent.md#proportionality-c)
 
 </details>
 
@@ -321,7 +321,7 @@ This subsection does **not** add an additional slot-assignment criterion beyond 
 
 - Upstream: [§2](#2-criteria-set-for-slot-assignment) (*Criteria set*); [§6.3](#63-flooding-the-zone-and-contest-pathway-denial) (*Flooding the zone — contest-pathway distinction*); [Chapter One §3.2](core_00-01_principles.md#32-truth-epistemic-integrity-constraint) (*Truth / epistemic integrity*); [Chapter One §7.2.1](core_00-01_principles.md#721-preservation-of-epistemic-integrity) (*Preservation of epistemic integrity*).
 - Downstream: [§3](#3-violation-axis-s-7-9-slot-assignment-incident-gravity) (*Violation Axis s = 7–9 slot assignment*); [§5](#5-cross-chapter-discipline) (*Cross-chapter discipline*).
-- Read with: [Info-Sphere](core_05-05_definitions_c_dependent_clusters.md#info-sphere), [Epistemic Integrity](core_05-05_definitions_c_dependent_clusters.md#epistemic-integrity), [Truth (Constitutional Constraint)](core_05-05_definitions_c_dependent_clusters.md#truth-constitutional-constraint), and [Transparency](core_05-05_definitions_c_dependent_clusters.md#transparency) in **Chapter Five**.
+- Read with: [Info-Sphere](core_05-05_definitions_a_independent.md#info-sphere), [Epistemic Integrity](core_05-05_definitions_c_dependent_clusters.md#epistemic-integrity), [Truth (Constitutional Constraint)](core_05-05_definitions_c_dependent_clusters.md#truth-constitutional-constraint), and [Transparency](core_05-05_definitions_c_dependent_clusters.md#transparency) in **Chapter Five**.
 - Rights and verification: [Article V-H: Expression, Assembly, and Press](core_09-09_rights_part_b.md#article-v-h-expression-assembly-and-press) and [Article XV: Audit, Transparency, and Independent Verification](core_09-09_rights_part_c.md#article-xv-audit-transparency-and-independent-verification) in **Chapter Nine**. These supply rights floors and verification discipline without relocating slot assignment.
 - Implementation context: adopted **[corpus_systems.md](corpus_systems.md)** and institutional implementation under **Chapter Fourteen** where materially relevant.
 
@@ -331,7 +331,7 @@ This subsection does **not** add an additional slot-assignment criterion beyond 
 <summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
 
 - [Epistemic Integrity](core_05-05_definitions_c_dependent_clusters.md#epistemic-integrity) · [O](core_05-05_definitions_c_dependent_clusters.md#epistemic-integrity-o) · [E](core_05-05_definitions_c_dependent_clusters.md#epistemic-integrity-e) · [C](core_05-05_definitions_c_dependent_clusters.md#epistemic-integrity-c)
-- [Info-Sphere](core_05-05_definitions_c_dependent_clusters.md#info-sphere) · [O](core_05-05_definitions_c_dependent_clusters.md#info-sphere) · [E](core_05-05_definitions_c_dependent_clusters.md#info-sphere-e) · [C](core_05-05_definitions_c_dependent_clusters.md#info-sphere-c)
+- [Info-Sphere](core_05-05_definitions_a_independent.md#info-sphere) · [O](core_05-05_definitions_a_independent.md#info-sphere) · [E](core_05-05_definitions_a_independent.md#info-sphere-e) · [C](core_05-05_definitions_a_independent.md#info-sphere-c)
 - [Truth (Constitutional Constraint)](core_05-05_definitions_c_dependent_clusters.md#truth-constitutional-constraint) · [O](core_05-05_definitions_c_dependent_clusters.md#truth-constitutional-constraint-o) · [E](core_05-05_definitions_c_dependent_clusters.md#truth-constitutional-constraint-e) · [C](core_05-05_definitions_c_dependent_clusters.md#truth-constitutional-constraint-c)
 - [Transparency](core_05-05_definitions_c_dependent_clusters.md#transparency) · [O](core_05-05_definitions_c_dependent_clusters.md#transparency) · [E](core_05-05_definitions_c_dependent_clusters.md#transparency-e) · [C](core_05-05_definitions_c_dependent_clusters.md#transparency-c)
 
@@ -380,7 +380,7 @@ This subsection does **not** add an additional slot-assignment criterion beyond 
 
 - Upstream: [§2](#2-criteria-set-for-slot-assignment) (*Criteria set*); [§3](#3-violation-axis-s-7-9-slot-assignment-incident-gravity) (*Violation Axis s = 7–9 slot assignment*); [§4](#4-due-process-safeguards-for-slot-classification) (*Due-process safeguards*).
 - Integrity and governance context: [Chapter Eight](core_08-08_forum.md#chapter-eight-forums-and-jurisdiction) for Integrity-family routing where final Chapter Seven classification is the dominant stake; [Chapter Ten](core_10-10_governance.md#chapter-ten-constitutional-contract-legitimacy-authorization-and-stewardship) where governing authority, selection, or stewardship legitimacy is materially distorted.
-- Read with: [Accountability](core_05-05_definitions_b_semi_independent.md#accountability), [Auditability](core_05-05_definitions_c_dependent_clusters.md#auditability), conflict controls, [Incentive Alignment](core_05-05_definitions_b_semi_independent.md#incentive-alignment), [Oversight](core_05-05_definitions_b_semi_independent.md#oversight-constitutional), [Procedural Fairness](core_05-05_definitions_b_semi_independent.md#procedural-fairness-constitutional), and [System Capture](core_05-05_definitions_c_dependent_clusters.md#system-capture).
+- Read with: [Accountability](core_05-05_definitions_b_semi_independent.md#accountability), [Auditability](core_05-05_definitions_c_dependent_clusters.md#auditability), conflict controls, [Incentive Alignment](core_05-05_definitions_a_independent.md#incentive-alignment), [Oversight](core_05-05_definitions_b_semi_independent.md#oversight-constitutional), [Procedural Fairness](core_05-05_definitions_b_semi_independent.md#procedural-fairness-constitutional), and [System Capture](core_05-05_definitions_a_independent.md#system-capture).
 - Implementation context: adopted [corpus_joint_structure.md](corpus_joint_structure.md) anti-corruption and undue-influence auditability controls and adopted [corpus_systems.md](corpus_systems.md) incentive-governance and funding-stewardship controls where materially relevant.
 
 </details>
@@ -390,10 +390,10 @@ This subsection does **not** add an additional slot-assignment criterion beyond 
 
 - [Accountability](core_05-05_definitions_b_semi_independent.md#accountability) · [O](core_05-05_definitions_b_semi_independent.md#accountability) · [E](core_05-05_definitions_b_semi_independent.md#accountability-e) · [C](core_05-05_definitions_b_semi_independent.md#accountability-c)
 - [Auditability](core_05-05_definitions_c_dependent_clusters.md#auditability) · [O](core_05-05_definitions_c_dependent_clusters.md#auditability) · [E](core_05-05_definitions_c_dependent_clusters.md#auditability-e) · [C](core_05-05_definitions_c_dependent_clusters.md#auditability-c)
-- [Incentive Alignment](core_05-05_definitions_b_semi_independent.md#incentive-alignment) · [O](core_05-05_definitions_b_semi_independent.md#incentive-alignment) · [E](core_05-05_definitions_b_semi_independent.md#incentive-alignment-e) · [C](core_05-05_definitions_b_semi_independent.md#incentive-alignment-c)
+- [Incentive Alignment](core_05-05_definitions_a_independent.md#incentive-alignment) · [O](core_05-05_definitions_a_independent.md#incentive-alignment) · [E](core_05-05_definitions_a_independent.md#incentive-alignment-e) · [C](core_05-05_definitions_a_independent.md#incentive-alignment-c)
 - [Oversight](core_05-05_definitions_b_semi_independent.md#oversight-constitutional) · [O](core_05-05_definitions_b_semi_independent.md#oversight-constitutional) · [E](core_05-05_definitions_b_semi_independent.md#oversight-constitutional-e) · [C](core_05-05_definitions_b_semi_independent.md#oversight-constitutional-c)
 - [Procedural Fairness](core_05-05_definitions_b_semi_independent.md#procedural-fairness-constitutional) · [O](core_05-05_definitions_b_semi_independent.md#procedural-fairness-constitutional) · [E](core_05-05_definitions_b_semi_independent.md#procedural-fairness-constitutional-e) · [C](core_05-05_definitions_b_semi_independent.md#procedural-fairness-constitutional-c)
-- [System Capture](core_05-05_definitions_c_dependent_clusters.md#system-capture) · [O](core_05-05_definitions_c_dependent_clusters.md#system-capture) · [E](core_05-05_definitions_c_dependent_clusters.md#system-capture-e) · [C](core_05-05_definitions_c_dependent_clusters.md#system-capture-c)
+- [System Capture](core_05-05_definitions_a_independent.md#system-capture) · [O](core_05-05_definitions_a_independent.md#system-capture) · [E](core_05-05_definitions_a_independent.md#system-capture-e) · [C](core_05-05_definitions_a_independent.md#system-capture-c)
 
 </details>
 
@@ -418,30 +418,5 @@ The conduct is in scope only where it has one of the following material effects:
 **Criteria routing.** Evaluators assess these patterns under **criteria 1 and 2** where deception, concealment, material omission, or record, custody, disclosure, provenance, or verification manipulation is implicated. **Criterion 3** applies where the exchange produces material rollback or an equivalent structural workaround. **Criterion 4** applies where it materially contributes to blocked challenge rights, delayed correction beyond practical remedy, rights-floor degradation, or selectively weakened enforcement or remedy. **Criterion 6** applies only where **section 2** and **section 4** substantiation shows that constitutional process or remedies became unusable in practice. Bribery, giving, receiving, solicitation, or routing alone is not sufficient for final slot assignment without the required criteria and due-process showing.
 
 This subsection does **not** add an additional slot-assignment criterion beyond the **section 2** set; it routes evaluation of the named pattern into that set.
-
-### 6.6 Verified prior misconduct outside constitutional authority
-<details>
-<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
-
-- Upstream: [§2](#2-criteria-set-for-slot-assignment) (*Criteria set*); [§4](#4-due-process-safeguards-for-slot-classification) (*Due-process safeguards*); [§5](#5-cross-chapter-discipline) (*Cross-chapter discipline*).
-- Standing and role effects: [Chapter Six](core_06-06_standing_classification.md#chapter-six-compliance-violation-and-standing-model) for verified inputs and standing cells; [Article XVIII](core_09-09_rights_part_c.md#article-xviii-standing-reputation-and-participation-status) for standing, reputation, and participation status; [Chapter Ten §5](core_10-10_governance.md#5-authorized-roles-competency-development-and-contribution) for authorized-role trustworthiness.
-- Read with: [Accountability](core_05-05_definitions_b_semi_independent.md#accountability), [Contestability](core_05-05_definitions_b_semi_independent.md#contestability), [Procedural Fairness](core_05-05_definitions_b_semi_independent.md#procedural-fairness-constitutional), [Proportionality](core_05-05_definitions_c_dependent_clusters.md#proportionality), and [Trust](core_05-05_definitions_c_dependent_clusters.md#trust).
-
-</details>
-
-<br>
-
-*In plain terms: a prior record of sabotage, fraud, coercion, capture, or serious rights abuse outside this Constitution does not make someone an enemy or strip basic rights. But it can matter when that sentient asks to hold constitutional power, custody, oversight, or security-sensitive trust.*
-
-**Verified prior misconduct outside constitutional authority** may affect standing, role eligibility, custody access, or trust-sensitive authorization where all of the following are satisfied:
-
-- The misconduct is established by an auditable, contestable, and reasoned finding under a lawful process or by an equivalent record satisfying **Chapters Two through Four** verification discipline.
-- The conduct is materially relevant to the constitutional role, access, custody, office, or authority sought, including prior sabotage, fraud, coercion, corruption, capture, evidence manipulation, abuse of entrusted power, rights-floor abuse, or comparable conduct.
-- The effect is necessary, proportionate, current enough to be probative, and tied to the specific trust risk rather than to viewpoint, association, origin, protected characteristic, or status.
-- The affected sentient receives notice, reasons, review access, and a real restoration, requalification, or changed-circumstances pathway.
-
-Such prior misconduct is not, by itself, final **anti-constitutional misconduct** under this chapter. It becomes relevant to Chapter Seven classification only where the later constitutional record also satisfies the **section 2** criteria, the **section 3** slot rules, and the **section 4** safeguards. Evaluators may use the prior record to assess knowledge, foreseeability, concealment, pattern, role fitness, or capture risk, but they must not use it to substitute for proof of a constitutionally material incident.
-
-No adopter, forum, or implementation body may use this subsection to create a secret blacklist, categorical loyalty test, ideology screen, permanent civil death, or group-membership disqualification. Baseline dignity, minimum subsistence, challenge rights, remedy access, and stakeholder identification by material impact remain protected under Chapter Nine.
 
 ---

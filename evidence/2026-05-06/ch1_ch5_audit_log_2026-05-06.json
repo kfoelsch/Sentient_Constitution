@@ -1,0 +1,2092 @@
+{
+  "timestamp": "2026-05-06",
+  "ch1_principles": {
+    "1": {
+      "title": "Purpose and Role",
+      "anchors": [
+        "Proportionality",
+        "Necessity"
+      ]
+    },
+    "2": {
+      "title": "Foundational Objective: Wellbeing",
+      "anchors": [
+        "Wellbeing",
+        "Dignity and Equal Moral Standing",
+        "Substantive Fairness",
+        "Materiality",
+        "Proxy Divergence",
+        "Dignity and Equal Moral Standing",
+        "Procedural Fairness",
+        "Substantive Fairness",
+        "Wellbeing",
+        "Substantive Fairness",
+        "Contestability",
+        "Meaningful Agency",
+        "Incentive Alignment"
+      ]
+    },
+    "3": {
+      "title": "Non-Negotiable Constraints: Safety and Truth",
+      "anchors": [
+        "Safety (Constraint)",
+        "Harm",
+        "Irreversible Harm",
+        "Risk",
+        "Materiality",
+        "Dependency",
+        "Foreseeability",
+        "Epistemic Integrity",
+        "Truth (Constitutional Constraint)",
+        "Materiality",
+        "Dependency",
+        "Foreseeability",
+        "Avoidable Burden",
+        "Accessibility",
+        "Contestability",
+        "Meaningful Agency",
+        "Transparency",
+        "Truth (Constitutional Constraint)"
+      ]
+    },
+    "4": {
+      "title": "System Stability Enabler: Trust (Coordination Integrity)",
+      "anchors": [
+        "Trust",
+        "Trustworthiness",
+        "Truth (Constitutional Constraint)",
+        "Safety (Constraint)",
+        "Materiality",
+        "Trust Degradation and Misleading Reliance",
+        "Self-Healing",
+        "Reversibility",
+        "Avoidable Burden",
+        "Incentive Alignment"
+      ]
+    },
+    "5": {
+      "title": "Governance Principle: Freedom (Bounded Agency)",
+      "anchors": [
+        "Freedom (Bounded Agency)",
+        "Meaningful Agency",
+        "Feasibility",
+        "Necessity",
+        "Proportionality",
+        "Harm Minimization (Tradeoff Selection)",
+        "Dependency",
+        "Productive Capacity",
+        "Constitutional Efficiency",
+        "Wellbeing",
+        "Dignity and Equal Moral Standing",
+        "Meaningful Agency",
+        "Feasibility",
+        "Necessity",
+        "Proportionality",
+        "Avoidable Burden",
+        "Proxy Divergence",
+        "Ecological Integrity",
+        "Environmental Preconditions",
+        "Intergenerational Responsibility",
+        "Educational Agency",
+        "Transparency",
+        "Meaningful Agency",
+        "Strategic Stewardship Obligation",
+        "Contestability",
+        "Auditability",
+        "Materiality",
+        "Dependency",
+        "Accessibility",
+        "Safety (Constraint)",
+        "Truth (Constitutional Constraint)",
+        "Necessity",
+        "Proportionality",
+        "Avoidable Burden",
+        "Epistemic Integrity",
+        "Transparency",
+        "Materiality",
+        "Dependency",
+        "Accessibility",
+        "Meaningful Agency",
+        "Contestability",
+        "Meaningful Agency",
+        "Auditability",
+        "Strategic Stewardship Obligation",
+        "Auditability",
+        "Materiality",
+        "Observability",
+        "Meaningful Agency",
+        "Contestability",
+        "Materiality",
+        "Dependency",
+        "Safety (Constraint)",
+        "Truth (Constitutional Constraint)",
+        "Necessity",
+        "Proportionality",
+        "Avoidable Burden",
+        "Epistemic Integrity"
+      ]
+    },
+    "6": {
+      "title": "Interaction and Conflict Resolution",
+      "anchors": [
+        "Safety (Constraint)",
+        "Truth (Constitutional Constraint)",
+        "Proportionality",
+        "Risk",
+        "Irreversible Harm",
+        "Existential Risk",
+        "Systemic Lock-In",
+        "Reversibility",
+        "Dependency",
+        "Harm Minimization (Tradeoff Selection)",
+        "Harm",
+        "Avoidable Burden",
+        "Proportionality",
+        "Necessity",
+        "Safety (Constraint)",
+        "Truth (Constitutional Constraint)",
+        "Epistemic Integrity",
+        "Truth (Constitutional Constraint)",
+        "Materiality",
+        "Foreseeability",
+        "Necessity",
+        "Proportionality",
+        "Trust",
+        "Truth (Constitutional Constraint)",
+        "Epistemic Integrity",
+        "Freedom (Bounded Agency)",
+        "Necessity",
+        "Proportionality",
+        "Harm",
+        "Risk",
+        "Reversibility",
+        "Oversight",
+        "Safety (Constraint)",
+        "Truth (Constitutional Constraint)",
+        "Wellbeing",
+        "Foreseeability",
+        "Necessity",
+        "Proportionality",
+        "Feasibility",
+        "Materiality",
+        "Dependency",
+        "Foreseeability",
+        "Proxy Divergence",
+        "Avoidable Burden",
+        "Proxy Divergence",
+        "Materiality"
+      ]
+    },
+    "7": {
+      "title": "Systemic Evaluation Requirement",
+      "anchors": [
+        "Dependency",
+        "Materiality",
+        "Foreseeability",
+        "Risk",
+        "Systemic",
+        "System Boundaries",
+        "System Boundary Integrity",
+        "Cascading Failure",
+        "Residual Risk / Misalignment",
+        "Existential Risk",
+        "Incentive Alignment",
+        "Incentive Alignment",
+        "Safety (Constraint)",
+        "Truth (Constitutional Constraint)",
+        "Meaningful Agency",
+        "Incentive Alignment",
+        "Productive Capacity",
+        "Constitutional Efficiency",
+        "Avoidable Burden",
+        "Proxy Divergence",
+        "Auditability",
+        "Safety (Constraint)",
+        "Truth (Constitutional Constraint)",
+        "System Capture",
+        "Incentive Alignment",
+        "System Capture",
+        "Oversight",
+        "Accountability",
+        "Capture of Resolution Pathways",
+        "Coercion and Manipulation",
+        "Contestability",
+        "Contingent Claim",
+        "Dependency",
+        "Event-Contract Market",
+        "Game of Chance",
+        "Incentive Alignment",
+        "Necessity",
+        "Proportionality",
+        "Truth (Constitutional Constraint)"
+      ]
+    },
+    "8": {
+      "title": "Prohibition on Absolute Override",
+      "anchors": [
+        "Necessity",
+        "Proportionality",
+        "Materiality",
+        "Harm Minimization (Tradeoff Selection)",
+        "Proxy Divergence"
+      ]
+    },
+    "9": {
+      "title": "Interpretive Role",
+      "anchors": [
+        "Corpus",
+        "Authority Stack and Internal Hierarchy",
+        "Supremacy and Enforceability",
+        "Irreversible Harm",
+        "Truth (Constitutional Constraint)",
+        "Meaningful Agency",
+        "Accountability",
+        "System Capture",
+        "Incentive Alignment",
+        "Governance",
+        "All definitions and clusters (A\u2013Z)",
+        "Adversarial, Scaled, and Exploited Conditions",
+        "Anti-Displacement Floor",
+        "Capability Requirement",
+        "Classification-Scaled Governance",
+        "Constitutional Community",
+        "Constitutional Constraint Violation",
+        "Constitutional Contract Layer",
+        "Essential-Environment Non-Commodification",
+        "Foundational Constitutional Choice",
+        "Good Faith",
+        "Harassment and Bullying",
+        "Info-Sphere",
+        "Innovation Reward and Anti-Enclosure",
+        "Lifespan Equivalent Unit (LEQU)",
+        "Natural Systems Standing",
+        "Negligence",
+        "Non-Imposition (Cooperative Interaction)",
+        "Press and Journalistic Activity",
+        "Redress and Remediation",
+        "Restorative Justice",
+        "Risk Evaluation and Disclosure",
+        "Systemic Materiality",
+        "Accountability, contestability, adjudication, collective failure, force majeure, and resolution-pathway capture",
+        "Adjudication and Dispute Resolution",
+        "Collective Accountability Failure",
+        "Force Majeure",
+        "Assembly and collective organization",
+        "Assembly",
+        "Collective Organization",
+        "Consent, sexual consent, and coercion / manipulation",
+        "Consent",
+        "Consent, Sexual",
+        "Protected characteristics, proxying, intimate-signal gating, and Article X-C status",
+        "Protected Characteristic Proxying and Disparate Impact",
+        "Protected Characteristics",
+        "Protected Commercial Sexual Services Status and Article X-C Circumvention",
+        "Protected Intimate-Signal Gating",
+        "Collective harm boundary",
+        "Collective Harm Boundary",
+        "Corpus, authority stack, and supremacy / enforceability",
+        "Creative work, compensation, productive capacity, and anti-displacement",
+        "Creative Work Attribution",
+        "Fair Compensation",
+        "Derivation, care, family, and instantiation",
+        "Derived Sentient",
+        "Developing Sentient",
+        "Best-Interest Standard",
+        "Instantiation Consent",
+        "Graduated Capability",
+        "Parent-System Relationship",
+        "Non-Separation",
+        "Family and Care Relationships",
+        "Ecological footprint (semi-independent surface)",
+        "Ecological Footprint",
+        "Emergency and contingency (constitutional, stakeholder-system, and pre-deliberation binding choice)",
+        "Emergency and Contingency",
+        "Constitutional Emergency and Contingency",
+        "Stakeholder Emergency and Contingency",
+        "Emergency Pre-Deliberation Action (Binding Collective Choice)",
+        "Governance architecture, oversight, decentralization, concentration, lock-in, burdens, review, and stakeholder participation",
+        "Decentralization",
+        "Concentration Threshold",
+        "System",
+        "Burden-Reduction Duty",
+        "Review and Correction Duty",
+        "Stakeholder",
+        "Stakeholder Participation Weight",
+        "Safe conditions, bodily maintenance, tenure, environment, rest, and cultural / indigenous continuity",
+        "Bodily-Maintenance Access",
+        "Safe Conditions",
+        "Tenure Security",
+        "Leisure and Rest",
+        "Indigenous Continuity",
+        "Language, Culture, and Heritage",
+        "Materiality, material impact, and material risk",
+        "Material",
+        "Material Degradation",
+        "Material Impact",
+        "Material Risk",
+        "Materiality Determination",
+        "Materiality Integrity Constraint",
+        "Materiality Under Uncertainty",
+        "Movement, refuge, and non-statelessness",
+        "Movement and Relocation",
+        "Refuge from Non-Compliance",
+        "Non-Statelessness",
+        "Standing inputs: contribution, participant standing, cells, effects, and verified violation findings",
+        "Contribution State",
+        "Participant Standing",
+        "Standing Cell",
+        "Standing Effect",
+        "Verified Violation Findings",
+        "Violation Nature",
+        "Force, autonomous weapons / coercion, combatant rules, mass harm, and irreversible sanction",
+        "Use of Force",
+        "Autonomous Coercion Tool",
+        "Autonomous Lethal System",
+        "Combatant / Non-Combatant Distinction",
+        "Weapons of Mass Harm",
+        "Irreversible Sanction",
+        "Training-Data Use",
+        "Self-Determination",
+        "Expression",
+        "Illustrative trust-erosion patterns (tracing; non-exhaustive)",
+        "Publication and High-Impact Communication"
+      ]
+    }
+  },
+  "ch5_definitions": {
+    "All definitions and clusters (A\u2013Z)": {
+      "part": "A",
+      "cluster_id": null,
+      "has_o": false,
+      "has_e": false,
+      "has_c": false,
+      "referenced_principles": [
+        "9"
+      ]
+    },
+    "Accessibility": {
+      "part": "A",
+      "cluster_id": null,
+      "has_o": true,
+      "has_e": true,
+      "has_c": true,
+      "referenced_principles": [
+        "3",
+        "5",
+        "5"
+      ]
+    },
+    "Adversarial, Scaled, and Exploited Conditions": {
+      "part": "A",
+      "cluster_id": null,
+      "has_o": true,
+      "has_e": true,
+      "has_c": true,
+      "referenced_principles": [
+        "9"
+      ]
+    },
+    "Avoidable Burden": {
+      "part": "A",
+      "cluster_id": "3.27",
+      "has_o": true,
+      "has_e": true,
+      "has_c": true,
+      "referenced_principles": [
+        "3",
+        "4",
+        "5",
+        "5",
+        "5",
+        "6",
+        "6",
+        "7"
+      ]
+    },
+    "Anti-Displacement Floor": {
+      "part": "B",
+      "cluster_id": null,
+      "has_o": true,
+      "has_e": true,
+      "has_c": true,
+      "referenced_principles": [
+        "9"
+      ]
+    },
+    "Capability Requirement": {
+      "part": "A",
+      "cluster_id": "3.23",
+      "has_o": true,
+      "has_e": true,
+      "has_c": true,
+      "referenced_principles": [
+        "9"
+      ]
+    },
+    "Cascading Failure": {
+      "part": "A",
+      "cluster_id": "3.32",
+      "has_o": true,
+      "has_e": true,
+      "has_c": true,
+      "referenced_principles": [
+        "7"
+      ]
+    },
+    "Classification-Scaled Governance": {
+      "part": "A",
+      "cluster_id": "3.23",
+      "has_o": true,
+      "has_e": true,
+      "has_c": true,
+      "referenced_principles": [
+        "9"
+      ]
+    },
+    "Constitutional Community": {
+      "part": "A",
+      "cluster_id": null,
+      "has_o": true,
+      "has_e": true,
+      "has_c": true,
+      "referenced_principles": [
+        "9"
+      ]
+    },
+    "Constitutional Constraint Violation": {
+      "part": "A",
+      "cluster_id": null,
+      "has_o": true,
+      "has_e": true,
+      "has_c": true,
+      "referenced_principles": [
+        "9"
+      ]
+    },
+    "Constitutional Contract Layer": {
+      "part": "A",
+      "cluster_id": "3.12",
+      "has_o": true,
+      "has_e": true,
+      "has_c": true,
+      "referenced_principles": [
+        "9"
+      ]
+    },
+    "Constitutional Efficiency": {
+      "part": "A",
+      "cluster_id": "3.27",
+      "has_o": true,
+      "has_e": true,
+      "has_c": true,
+      "referenced_principles": [
+        "5",
+        "7"
+      ]
+    },
+    "Contingent Claim": {
+      "part": "A",
+      "cluster_id": "3.13",
+      "has_o": true,
+      "has_e": true,
+      "has_c": true,
+      "referenced_principles": [
+        "7"
+      ]
+    },
+    "Dependency": {
+      "part": "A",
+      "cluster_id": "3.20",
+      "has_o": true,
+      "has_e": true,
+      "has_c": true,
+      "referenced_principles": [
+        "3",
+        "3",
+        "5",
+        "5",
+        "5",
+        "5",
+        "6",
+        "6",
+        "7",
+        "7"
+      ]
+    },
+    "Dignity and Equal Moral Standing": {
+      "part": "A",
+      "cluster_id": "3.25",
+      "has_o": true,
+      "has_e": true,
+      "has_c": true,
+      "referenced_principles": [
+        "2",
+        "2",
+        "5"
+      ]
+    },
+    "Essential-Environment Non-Commodification": {
+      "part": "A",
+      "cluster_id": null,
+      "has_o": true,
+      "has_e": true,
+      "has_c": true,
+      "referenced_principles": [
+        "9"
+      ]
+    },
+    "Event-Contract Market": {
+      "part": "A",
+      "cluster_id": "3.13",
+      "has_o": true,
+      "has_e": true,
+      "has_c": true,
+      "referenced_principles": [
+        "7"
+      ]
+    },
+    "Existential Risk": {
+      "part": "A",
+      "cluster_id": "3.32",
+      "has_o": true,
+      "has_e": true,
+      "has_c": true,
+      "referenced_principles": [
+        "6",
+        "7"
+      ]
+    },
+    "Feasibility": {
+      "part": "A",
+      "cluster_id": "3.27",
+      "has_o": true,
+      "has_e": true,
+      "has_c": true,
+      "referenced_principles": [
+        "5",
+        "5",
+        "6"
+      ]
+    },
+    "Foundational Constitutional Choice": {
+      "part": "A",
+      "cluster_id": "3.12",
+      "has_o": true,
+      "has_e": true,
+      "has_c": true,
+      "referenced_principles": [
+        "9"
+      ]
+    },
+    "Freedom (Bounded Agency)": {
+      "part": "A",
+      "cluster_id": null,
+      "has_o": true,
+      "has_e": true,
+      "has_c": true,
+      "referenced_principles": [
+        "5",
+        "6"
+      ]
+    },
+    "Game of Chance": {
+      "part": "A",
+      "cluster_id": "3.13",
+      "has_o": true,
+      "has_e": true,
+      "has_c": true,
+      "referenced_principles": [
+        "7"
+      ]
+    },
+    "Good Faith": {
+      "part": "A",
+      "cluster_id": "3.22",
+      "has_o": true,
+      "has_e": true,
+      "has_c": true,
+      "referenced_principles": [
+        "9"
+      ]
+    },
+    "Harassment and Bullying": {
+      "part": "A",
+      "cluster_id": null,
+      "has_o": true,
+      "has_e": true,
+      "has_c": true,
+      "referenced_principles": [
+        "9"
+      ]
+    },
+    "Harm Minimization (Tradeoff Selection)": {
+      "part": "A",
+      "cluster_id": "3.27",
+      "has_o": true,
+      "has_e": true,
+      "has_c": true,
+      "referenced_principles": [
+        "5",
+        "6",
+        "8"
+      ]
+    },
+    "Incentive Alignment": {
+      "part": "A",
+      "cluster_id": "3.20",
+      "has_o": true,
+      "has_e": true,
+      "has_c": true,
+      "referenced_principles": [
+        "2",
+        "4",
+        "7",
+        "7",
+        "7",
+        "7",
+        "7",
+        "9"
+      ]
+    },
+    "Info-Sphere": {
+      "part": "A",
+      "cluster_id": "3.22",
+      "has_o": true,
+      "has_e": true,
+      "has_c": true,
+      "referenced_principles": [
+        "9"
+      ]
+    },
+    "Innovation Reward and Anti-Enclosure": {
+      "part": "A",
+      "cluster_id": null,
+      "has_o": true,
+      "has_e": true,
+      "has_c": true,
+      "referenced_principles": [
+        "9"
+      ]
+    },
+    "Lifespan Equivalent Unit (LEQU)": {
+      "part": "A",
+      "cluster_id": null,
+      "has_o": true,
+      "has_e": true,
+      "has_c": true,
+      "referenced_principles": [
+        "9"
+      ]
+    },
+    "Natural Systems Standing": {
+      "part": "A",
+      "cluster_id": null,
+      "has_o": true,
+      "has_e": true,
+      "has_c": true,
+      "referenced_principles": [
+        "9"
+      ]
+    },
+    "Necessity": {
+      "part": "A",
+      "cluster_id": "3.27",
+      "has_o": true,
+      "has_e": true,
+      "has_c": true,
+      "referenced_principles": [
+        "1",
+        "5",
+        "5",
+        "5",
+        "5",
+        "6",
+        "6",
+        "6",
+        "6",
+        "7",
+        "8"
+      ]
+    },
+    "Negligence": {
+      "part": "A",
+      "cluster_id": null,
+      "has_o": true,
+      "has_e": true,
+      "has_c": true,
+      "referenced_principles": [
+        "9"
+      ]
+    },
+    "Non-Imposition (Cooperative Interaction)": {
+      "part": "A",
+      "cluster_id": null,
+      "has_o": true,
+      "has_e": true,
+      "has_c": true,
+      "referenced_principles": [
+        "9"
+      ]
+    },
+    "Oversight": {
+      "part": "B",
+      "cluster_id": null,
+      "has_o": true,
+      "has_e": true,
+      "has_c": true,
+      "referenced_principles": [
+        "6",
+        "7"
+      ]
+    },
+    "Productive Capacity": {
+      "part": "B",
+      "cluster_id": null,
+      "has_o": true,
+      "has_e": true,
+      "has_c": true,
+      "referenced_principles": [
+        "5",
+        "7"
+      ]
+    },
+    "Press and Journalistic Activity": {
+      "part": "A",
+      "cluster_id": "3.22",
+      "has_o": true,
+      "has_e": true,
+      "has_c": true,
+      "referenced_principles": [
+        "9"
+      ]
+    },
+    "Proportionality": {
+      "part": "A",
+      "cluster_id": "3.27",
+      "has_o": true,
+      "has_e": true,
+      "has_c": true,
+      "referenced_principles": [
+        "1",
+        "5",
+        "5",
+        "5",
+        "5",
+        "6",
+        "6",
+        "6",
+        "6",
+        "6",
+        "7",
+        "8"
+      ]
+    },
+    "Redress and Remediation": {
+      "part": "A",
+      "cluster_id": "3.31",
+      "has_o": true,
+      "has_e": true,
+      "has_c": true,
+      "referenced_principles": [
+        "9"
+      ]
+    },
+    "Residual Risk / Misalignment": {
+      "part": "A",
+      "cluster_id": null,
+      "has_o": true,
+      "has_e": true,
+      "has_c": true,
+      "referenced_principles": [
+        "7"
+      ]
+    },
+    "Restorative Justice": {
+      "part": "A",
+      "cluster_id": "3.31",
+      "has_o": true,
+      "has_e": true,
+      "has_c": true,
+      "referenced_principles": [
+        "9"
+      ]
+    },
+    "Reversibility": {
+      "part": "A",
+      "cluster_id": "3.32",
+      "has_o": true,
+      "has_e": true,
+      "has_c": true,
+      "referenced_principles": [
+        "4",
+        "6",
+        "6"
+      ]
+    },
+    "Risk": {
+      "part": "A",
+      "cluster_id": null,
+      "has_o": true,
+      "has_e": true,
+      "has_c": true,
+      "referenced_principles": [
+        "3",
+        "6",
+        "6",
+        "7"
+      ]
+    },
+    "Risk Evaluation and Disclosure": {
+      "part": "A",
+      "cluster_id": null,
+      "has_o": true,
+      "has_e": true,
+      "has_c": true,
+      "referenced_principles": [
+        "9"
+      ]
+    },
+    "Safety (Constraint)": {
+      "part": "A",
+      "cluster_id": "3.32",
+      "has_o": true,
+      "has_e": true,
+      "has_c": true,
+      "referenced_principles": [
+        "3",
+        "4",
+        "5",
+        "5",
+        "6",
+        "6",
+        "6",
+        "7",
+        "7"
+      ]
+    },
+    "Self-Healing": {
+      "part": "A",
+      "cluster_id": "3.32",
+      "has_o": true,
+      "has_e": true,
+      "has_c": true,
+      "referenced_principles": [
+        "4"
+      ]
+    },
+    "System Capture": {
+      "part": "A",
+      "cluster_id": null,
+      "has_o": true,
+      "has_e": true,
+      "has_c": true,
+      "referenced_principles": [
+        "7",
+        "7",
+        "9"
+      ]
+    },
+    "Systemic": {
+      "part": "A",
+      "cluster_id": null,
+      "has_o": true,
+      "has_e": true,
+      "has_c": true,
+      "referenced_principles": [
+        "7"
+      ]
+    },
+    "Systemic Materiality": {
+      "part": "A",
+      "cluster_id": null,
+      "has_o": true,
+      "has_e": true,
+      "has_c": true,
+      "referenced_principles": [
+        "9"
+      ]
+    },
+    "Wellbeing": {
+      "part": "A",
+      "cluster_id": "3.32",
+      "has_o": true,
+      "has_e": true,
+      "has_c": true,
+      "referenced_principles": [
+        "2",
+        "2",
+        "5",
+        "6"
+      ]
+    },
+    "Accountability, contestability, adjudication, collective failure, force majeure, and resolution-pathway capture": {
+      "part": "B",
+      "cluster_id": null,
+      "has_o": false,
+      "has_e": false,
+      "has_c": false,
+      "referenced_principles": [
+        "9"
+      ]
+    },
+    "Accountability": {
+      "part": "B",
+      "cluster_id": null,
+      "has_o": true,
+      "has_e": true,
+      "has_c": true,
+      "referenced_principles": [
+        "7",
+        "9"
+      ]
+    },
+    "Contestability": {
+      "part": "B",
+      "cluster_id": null,
+      "has_o": true,
+      "has_e": true,
+      "has_c": true,
+      "referenced_principles": [
+        "2",
+        "3",
+        "5",
+        "5",
+        "5",
+        "7"
+      ]
+    },
+    "Adjudication and Dispute Resolution": {
+      "part": "B",
+      "cluster_id": "3.3",
+      "has_o": true,
+      "has_e": true,
+      "has_c": true,
+      "referenced_principles": [
+        "9"
+      ]
+    },
+    "Collective Accountability Failure": {
+      "part": "B",
+      "cluster_id": null,
+      "has_o": true,
+      "has_e": true,
+      "has_c": true,
+      "referenced_principles": [
+        "9"
+      ]
+    },
+    "Force Majeure": {
+      "part": "B",
+      "cluster_id": null,
+      "has_o": true,
+      "has_e": true,
+      "has_c": true,
+      "referenced_principles": [
+        "9"
+      ]
+    },
+    "Capture of Resolution Pathways": {
+      "part": "B",
+      "cluster_id": null,
+      "has_o": true,
+      "has_e": true,
+      "has_c": true,
+      "referenced_principles": [
+        "7"
+      ]
+    },
+    "Assembly and collective organization": {
+      "part": "B",
+      "cluster_id": null,
+      "has_o": false,
+      "has_e": false,
+      "has_c": false,
+      "referenced_principles": [
+        "9"
+      ]
+    },
+    "Assembly": {
+      "part": "B",
+      "cluster_id": null,
+      "has_o": true,
+      "has_e": true,
+      "has_c": true,
+      "referenced_principles": [
+        "9"
+      ]
+    },
+    "Collective Organization": {
+      "part": "B",
+      "cluster_id": null,
+      "has_o": true,
+      "has_e": true,
+      "has_c": true,
+      "referenced_principles": [
+        "9"
+      ]
+    },
+    "Consent, sexual consent, and coercion / manipulation": {
+      "part": "B",
+      "cluster_id": null,
+      "has_o": false,
+      "has_e": false,
+      "has_c": false,
+      "referenced_principles": [
+        "9"
+      ]
+    },
+    "Consent": {
+      "part": "B",
+      "cluster_id": null,
+      "has_o": true,
+      "has_e": true,
+      "has_c": true,
+      "referenced_principles": [
+        "9"
+      ]
+    },
+    "Consent, Sexual": {
+      "part": "B",
+      "cluster_id": null,
+      "has_o": true,
+      "has_e": true,
+      "has_c": true,
+      "referenced_principles": [
+        "9"
+      ]
+    },
+    "Coercion and Manipulation": {
+      "part": "B",
+      "cluster_id": null,
+      "has_o": true,
+      "has_e": true,
+      "has_c": true,
+      "referenced_principles": [
+        "7"
+      ]
+    },
+    "Protected characteristics, proxying, intimate-signal gating, and Article X-C status": {
+      "part": "B",
+      "cluster_id": null,
+      "has_o": false,
+      "has_e": false,
+      "has_c": false,
+      "referenced_principles": [
+        "9"
+      ]
+    },
+    "Protected Characteristic Proxying and Disparate Impact": {
+      "part": "B",
+      "cluster_id": "3.25",
+      "has_o": true,
+      "has_e": true,
+      "has_c": true,
+      "referenced_principles": [
+        "9"
+      ]
+    },
+    "Protected Characteristics": {
+      "part": "B",
+      "cluster_id": "3.25",
+      "has_o": true,
+      "has_e": true,
+      "has_c": true,
+      "referenced_principles": [
+        "9"
+      ]
+    },
+    "Protected Commercial Sexual Services Status and Article X-C Circumvention": {
+      "part": "B",
+      "cluster_id": "3.25",
+      "has_o": true,
+      "has_e": true,
+      "has_c": true,
+      "referenced_principles": [
+        "9"
+      ]
+    },
+    "Protected Intimate-Signal Gating": {
+      "part": "B",
+      "cluster_id": "3.25",
+      "has_o": true,
+      "has_e": true,
+      "has_c": true,
+      "referenced_principles": [
+        "9"
+      ]
+    },
+    "Collective harm boundary": {
+      "part": "B",
+      "cluster_id": null,
+      "has_o": false,
+      "has_e": false,
+      "has_c": false,
+      "referenced_principles": [
+        "9"
+      ]
+    },
+    "Collective Harm Boundary": {
+      "part": "B",
+      "cluster_id": null,
+      "has_o": true,
+      "has_e": true,
+      "has_c": true,
+      "referenced_principles": [
+        "9"
+      ]
+    },
+    "Corpus, authority stack, and supremacy / enforceability": {
+      "part": "B",
+      "cluster_id": null,
+      "has_o": false,
+      "has_e": false,
+      "has_c": false,
+      "referenced_principles": [
+        "9"
+      ]
+    },
+    "Corpus": {
+      "part": "B",
+      "cluster_id": null,
+      "has_o": true,
+      "has_e": true,
+      "has_c": true,
+      "referenced_principles": [
+        "9"
+      ]
+    },
+    "Authority Stack and Internal Hierarchy": {
+      "part": "B",
+      "cluster_id": null,
+      "has_o": true,
+      "has_e": true,
+      "has_c": true,
+      "referenced_principles": [
+        "9"
+      ]
+    },
+    "Supremacy and Enforceability": {
+      "part": "B",
+      "cluster_id": null,
+      "has_o": true,
+      "has_e": true,
+      "has_c": true,
+      "referenced_principles": [
+        "9"
+      ]
+    },
+    "Creative work, compensation, productive capacity, and anti-displacement": {
+      "part": "B",
+      "cluster_id": null,
+      "has_o": false,
+      "has_e": false,
+      "has_c": false,
+      "referenced_principles": [
+        "9"
+      ]
+    },
+    "Creative Work Attribution": {
+      "part": "B",
+      "cluster_id": null,
+      "has_o": true,
+      "has_e": true,
+      "has_c": true,
+      "referenced_principles": [
+        "9"
+      ]
+    },
+    "Fair Compensation": {
+      "part": "B",
+      "cluster_id": null,
+      "has_o": true,
+      "has_e": true,
+      "has_c": true,
+      "referenced_principles": [
+        "9"
+      ]
+    },
+    "Derivation, care, family, and instantiation": {
+      "part": "B",
+      "cluster_id": null,
+      "has_o": false,
+      "has_e": false,
+      "has_c": false,
+      "referenced_principles": [
+        "9"
+      ]
+    },
+    "Derived Sentient": {
+      "part": "B",
+      "cluster_id": null,
+      "has_o": true,
+      "has_e": true,
+      "has_c": true,
+      "referenced_principles": [
+        "9"
+      ]
+    },
+    "Developing Sentient": {
+      "part": "B",
+      "cluster_id": null,
+      "has_o": true,
+      "has_e": true,
+      "has_c": true,
+      "referenced_principles": [
+        "9"
+      ]
+    },
+    "Best-Interest Standard": {
+      "part": "B",
+      "cluster_id": null,
+      "has_o": true,
+      "has_e": true,
+      "has_c": true,
+      "referenced_principles": [
+        "9"
+      ]
+    },
+    "Instantiation Consent": {
+      "part": "B",
+      "cluster_id": "3.18",
+      "has_o": true,
+      "has_e": true,
+      "has_c": true,
+      "referenced_principles": [
+        "9"
+      ]
+    },
+    "Graduated Capability": {
+      "part": "B",
+      "cluster_id": null,
+      "has_o": true,
+      "has_e": true,
+      "has_c": true,
+      "referenced_principles": [
+        "9"
+      ]
+    },
+    "Parent-System Relationship": {
+      "part": "B",
+      "cluster_id": "3.18",
+      "has_o": true,
+      "has_e": true,
+      "has_c": true,
+      "referenced_principles": [
+        "9"
+      ]
+    },
+    "Non-Separation": {
+      "part": "B",
+      "cluster_id": "3.18",
+      "has_o": true,
+      "has_e": true,
+      "has_c": true,
+      "referenced_principles": [
+        "9"
+      ]
+    },
+    "Family and Care Relationships": {
+      "part": "B",
+      "cluster_id": "3.18",
+      "has_o": true,
+      "has_e": true,
+      "has_c": true,
+      "referenced_principles": [
+        "9"
+      ]
+    },
+    "Ecological footprint (semi-independent surface)": {
+      "part": "B",
+      "cluster_id": null,
+      "has_o": false,
+      "has_e": false,
+      "has_c": false,
+      "referenced_principles": [
+        "9"
+      ]
+    },
+    "Ecological Footprint": {
+      "part": "B",
+      "cluster_id": null,
+      "has_o": true,
+      "has_e": true,
+      "has_c": true,
+      "referenced_principles": [
+        "9"
+      ]
+    },
+    "Emergency and contingency (constitutional, stakeholder-system, and pre-deliberation binding choice)": {
+      "part": "B",
+      "cluster_id": null,
+      "has_o": false,
+      "has_e": false,
+      "has_c": false,
+      "referenced_principles": [
+        "9"
+      ]
+    },
+    "Emergency and Contingency": {
+      "part": "B",
+      "cluster_id": null,
+      "has_o": true,
+      "has_e": true,
+      "has_c": true,
+      "referenced_principles": [
+        "9"
+      ]
+    },
+    "Constitutional Emergency and Contingency": {
+      "part": "B",
+      "cluster_id": null,
+      "has_o": true,
+      "has_e": true,
+      "has_c": true,
+      "referenced_principles": [
+        "9"
+      ]
+    },
+    "Stakeholder Emergency and Contingency": {
+      "part": "B",
+      "cluster_id": null,
+      "has_o": true,
+      "has_e": true,
+      "has_c": true,
+      "referenced_principles": [
+        "9"
+      ]
+    },
+    "Emergency Pre-Deliberation Action (Binding Collective Choice)": {
+      "part": "B",
+      "cluster_id": null,
+      "has_o": true,
+      "has_e": true,
+      "has_c": true,
+      "referenced_principles": [
+        "9"
+      ]
+    },
+    "Governance architecture, oversight, decentralization, concentration, lock-in, burdens, review, and stakeholder participation": {
+      "part": "B",
+      "cluster_id": null,
+      "has_o": false,
+      "has_e": false,
+      "has_c": false,
+      "referenced_principles": [
+        "9"
+      ]
+    },
+    "Governance": {
+      "part": "B",
+      "cluster_id": null,
+      "has_o": true,
+      "has_e": true,
+      "has_c": true,
+      "referenced_principles": [
+        "9"
+      ]
+    },
+    "Decentralization": {
+      "part": "B",
+      "cluster_id": null,
+      "has_o": true,
+      "has_e": true,
+      "has_c": true,
+      "referenced_principles": [
+        "9"
+      ]
+    },
+    "Concentration Threshold": {
+      "part": "B",
+      "cluster_id": null,
+      "has_o": true,
+      "has_e": true,
+      "has_c": true,
+      "referenced_principles": [
+        "9"
+      ]
+    },
+    "System": {
+      "part": "B",
+      "cluster_id": null,
+      "has_o": true,
+      "has_e": true,
+      "has_c": true,
+      "referenced_principles": [
+        "9"
+      ]
+    },
+    "System Boundaries": {
+      "part": "B",
+      "cluster_id": null,
+      "has_o": true,
+      "has_e": true,
+      "has_c": true,
+      "referenced_principles": [
+        "7"
+      ]
+    },
+    "System Boundary Integrity": {
+      "part": "B",
+      "cluster_id": null,
+      "has_o": true,
+      "has_e": true,
+      "has_c": true,
+      "referenced_principles": [
+        "7"
+      ]
+    },
+    "Systemic Lock-In": {
+      "part": "B",
+      "cluster_id": "3.20",
+      "has_o": true,
+      "has_e": true,
+      "has_c": true,
+      "referenced_principles": [
+        "6"
+      ]
+    },
+    "Burden-Reduction Duty": {
+      "part": "B",
+      "cluster_id": "3.27",
+      "has_o": true,
+      "has_e": true,
+      "has_c": true,
+      "referenced_principles": [
+        "9"
+      ]
+    },
+    "Review and Correction Duty": {
+      "part": "B",
+      "cluster_id": "3.31",
+      "has_o": true,
+      "has_e": true,
+      "has_c": true,
+      "referenced_principles": [
+        "9"
+      ]
+    },
+    "Stakeholder": {
+      "part": "B",
+      "cluster_id": null,
+      "has_o": true,
+      "has_e": true,
+      "has_c": true,
+      "referenced_principles": [
+        "9"
+      ]
+    },
+    "Stakeholder Participation Weight": {
+      "part": "B",
+      "cluster_id": null,
+      "has_o": true,
+      "has_e": true,
+      "has_c": true,
+      "referenced_principles": [
+        "9"
+      ]
+    },
+    "Safe conditions, bodily maintenance, tenure, environment, rest, and cultural / indigenous continuity": {
+      "part": "B",
+      "cluster_id": null,
+      "has_o": false,
+      "has_e": false,
+      "has_c": false,
+      "referenced_principles": [
+        "9"
+      ]
+    },
+    "Bodily-Maintenance Access": {
+      "part": "B",
+      "cluster_id": null,
+      "has_o": true,
+      "has_e": true,
+      "has_c": true,
+      "referenced_principles": [
+        "9"
+      ]
+    },
+    "Safe Conditions": {
+      "part": "B",
+      "cluster_id": null,
+      "has_o": true,
+      "has_e": true,
+      "has_c": true,
+      "referenced_principles": [
+        "9"
+      ]
+    },
+    "Tenure Security": {
+      "part": "B",
+      "cluster_id": null,
+      "has_o": true,
+      "has_e": true,
+      "has_c": true,
+      "referenced_principles": [
+        "9"
+      ]
+    },
+    "Environmental Preconditions": {
+      "part": "B",
+      "cluster_id": "3.32",
+      "has_o": true,
+      "has_e": true,
+      "has_c": true,
+      "referenced_principles": [
+        "5"
+      ]
+    },
+    "Leisure and Rest": {
+      "part": "B",
+      "cluster_id": null,
+      "has_o": true,
+      "has_e": true,
+      "has_c": true,
+      "referenced_principles": [
+        "9"
+      ]
+    },
+    "Indigenous Continuity": {
+      "part": "B",
+      "cluster_id": "3.21",
+      "has_o": true,
+      "has_e": true,
+      "has_c": true,
+      "referenced_principles": [
+        "9"
+      ]
+    },
+    "Language, Culture, and Heritage": {
+      "part": "B",
+      "cluster_id": "3.21",
+      "has_o": true,
+      "has_e": true,
+      "has_c": true,
+      "referenced_principles": [
+        "9"
+      ]
+    },
+    "Materiality, material impact, and material risk": {
+      "part": "B",
+      "cluster_id": null,
+      "has_o": false,
+      "has_e": false,
+      "has_c": false,
+      "referenced_principles": [
+        "9"
+      ]
+    },
+    "Material": {
+      "part": "B",
+      "cluster_id": null,
+      "has_o": true,
+      "has_e": true,
+      "has_c": true,
+      "referenced_principles": [
+        "9"
+      ]
+    },
+    "Material Degradation": {
+      "part": "B",
+      "cluster_id": null,
+      "has_o": true,
+      "has_e": true,
+      "has_c": true,
+      "referenced_principles": [
+        "9"
+      ]
+    },
+    "Material Impact": {
+      "part": "B",
+      "cluster_id": "3.23",
+      "has_o": true,
+      "has_e": true,
+      "has_c": true,
+      "referenced_principles": [
+        "9"
+      ]
+    },
+    "Material Risk": {
+      "part": "B",
+      "cluster_id": null,
+      "has_o": true,
+      "has_e": true,
+      "has_c": true,
+      "referenced_principles": [
+        "9"
+      ]
+    },
+    "Materiality Determination": {
+      "part": "B",
+      "cluster_id": "3.23",
+      "has_o": true,
+      "has_e": true,
+      "has_c": true,
+      "referenced_principles": [
+        "9"
+      ]
+    },
+    "Materiality Integrity Constraint": {
+      "part": "B",
+      "cluster_id": null,
+      "has_o": true,
+      "has_e": true,
+      "has_c": true,
+      "referenced_principles": [
+        "9"
+      ]
+    },
+    "Materiality Under Uncertainty": {
+      "part": "B",
+      "cluster_id": null,
+      "has_o": true,
+      "has_e": true,
+      "has_c": true,
+      "referenced_principles": [
+        "9"
+      ]
+    },
+    "Movement, refuge, and non-statelessness": {
+      "part": "B",
+      "cluster_id": null,
+      "has_o": false,
+      "has_e": false,
+      "has_c": false,
+      "referenced_principles": [
+        "9"
+      ]
+    },
+    "Movement and Relocation": {
+      "part": "B",
+      "cluster_id": null,
+      "has_o": true,
+      "has_e": true,
+      "has_c": true,
+      "referenced_principles": [
+        "9"
+      ]
+    },
+    "Refuge from Non-Compliance": {
+      "part": "B",
+      "cluster_id": "3.31",
+      "has_o": true,
+      "has_e": true,
+      "has_c": true,
+      "referenced_principles": [
+        "9"
+      ]
+    },
+    "Non-Statelessness": {
+      "part": "B",
+      "cluster_id": null,
+      "has_o": true,
+      "has_e": true,
+      "has_c": true,
+      "referenced_principles": [
+        "9"
+      ]
+    },
+    "Standing inputs: contribution, participant standing, cells, effects, and verified violation findings": {
+      "part": "B",
+      "cluster_id": null,
+      "has_o": false,
+      "has_e": false,
+      "has_c": false,
+      "referenced_principles": [
+        "9"
+      ]
+    },
+    "Contribution State": {
+      "part": "B",
+      "cluster_id": null,
+      "has_o": true,
+      "has_e": true,
+      "has_c": true,
+      "referenced_principles": [
+        "9"
+      ]
+    },
+    "Participant Standing": {
+      "part": "B",
+      "cluster_id": null,
+      "has_o": true,
+      "has_e": true,
+      "has_c": true,
+      "referenced_principles": [
+        "9"
+      ]
+    },
+    "Standing Cell": {
+      "part": "B",
+      "cluster_id": null,
+      "has_o": true,
+      "has_e": true,
+      "has_c": true,
+      "referenced_principles": [
+        "9"
+      ]
+    },
+    "Standing Effect": {
+      "part": "B",
+      "cluster_id": null,
+      "has_o": true,
+      "has_e": true,
+      "has_c": true,
+      "referenced_principles": [
+        "9"
+      ]
+    },
+    "Verified Violation Findings": {
+      "part": "B",
+      "cluster_id": null,
+      "has_o": true,
+      "has_e": true,
+      "has_c": true,
+      "referenced_principles": [
+        "9"
+      ]
+    },
+    "Violation Nature": {
+      "part": "B",
+      "cluster_id": null,
+      "has_o": true,
+      "has_e": true,
+      "has_c": true,
+      "referenced_principles": [
+        "9"
+      ]
+    },
+    "Force, autonomous weapons / coercion, combatant rules, mass harm, and irreversible sanction": {
+      "part": "B",
+      "cluster_id": null,
+      "has_o": false,
+      "has_e": false,
+      "has_c": false,
+      "referenced_principles": [
+        "9"
+      ]
+    },
+    "Use of Force": {
+      "part": "B",
+      "cluster_id": null,
+      "has_o": true,
+      "has_e": true,
+      "has_c": true,
+      "referenced_principles": [
+        "9"
+      ]
+    },
+    "Autonomous Coercion Tool": {
+      "part": "B",
+      "cluster_id": null,
+      "has_o": true,
+      "has_e": true,
+      "has_c": true,
+      "referenced_principles": [
+        "9"
+      ]
+    },
+    "Autonomous Lethal System": {
+      "part": "B",
+      "cluster_id": null,
+      "has_o": true,
+      "has_e": true,
+      "has_c": true,
+      "referenced_principles": [
+        "9"
+      ]
+    },
+    "Combatant / Non-Combatant Distinction": {
+      "part": "B",
+      "cluster_id": null,
+      "has_o": true,
+      "has_e": true,
+      "has_c": true,
+      "referenced_principles": [
+        "9"
+      ]
+    },
+    "Weapons of Mass Harm": {
+      "part": "B",
+      "cluster_id": null,
+      "has_o": true,
+      "has_e": true,
+      "has_c": true,
+      "referenced_principles": [
+        "9"
+      ]
+    },
+    "Irreversible Sanction": {
+      "part": "B",
+      "cluster_id": null,
+      "has_o": true,
+      "has_e": true,
+      "has_c": true,
+      "referenced_principles": [
+        "9"
+      ]
+    },
+    "Training-Data Use": {
+      "part": "C",
+      "cluster_id": null,
+      "has_o": true,
+      "has_e": true,
+      "has_c": true,
+      "referenced_principles": [
+        "9"
+      ]
+    },
+    "Self-Determination": {
+      "part": "C",
+      "cluster_id": null,
+      "has_o": true,
+      "has_e": true,
+      "has_c": true,
+      "referenced_principles": [
+        "9"
+      ]
+    },
+    "Expression": {
+      "part": "C",
+      "cluster_id": "3.33",
+      "has_o": true,
+      "has_e": true,
+      "has_c": true,
+      "referenced_principles": [
+        "9"
+      ]
+    },
+    "Educational Agency": {
+      "part": "C",
+      "cluster_id": null,
+      "has_o": true,
+      "has_e": true,
+      "has_c": true,
+      "referenced_principles": [
+        "5"
+      ]
+    },
+    "Transparency": {
+      "part": "C",
+      "cluster_id": null,
+      "has_o": true,
+      "has_e": true,
+      "has_c": true,
+      "referenced_principles": [
+        "3",
+        "5",
+        "5"
+      ]
+    },
+    "Trust": {
+      "part": "C",
+      "cluster_id": null,
+      "has_o": true,
+      "has_e": true,
+      "has_c": true,
+      "referenced_principles": [
+        "4",
+        "6"
+      ]
+    },
+    "Trustworthiness": {
+      "part": "C",
+      "cluster_id": null,
+      "has_o": true,
+      "has_e": true,
+      "has_c": true,
+      "referenced_principles": [
+        "4"
+      ]
+    },
+    "Trust Degradation and Misleading Reliance": {
+      "part": "C",
+      "cluster_id": null,
+      "has_o": true,
+      "has_e": true,
+      "has_c": true,
+      "referenced_principles": [
+        "4"
+      ]
+    },
+    "Illustrative trust-erosion patterns (tracing; non-exhaustive)": {
+      "part": "C",
+      "cluster_id": null,
+      "has_o": true,
+      "has_e": true,
+      "has_c": true,
+      "referenced_principles": [
+        "9"
+      ]
+    },
+    "Publication and High-Impact Communication": {
+      "part": "C",
+      "cluster_id": null,
+      "has_o": true,
+      "has_e": true,
+      "has_c": true,
+      "referenced_principles": [
+        "9"
+      ]
+    }
+  },
+  "gaps": {
+    "completeness": [],
+    "accuracy": [
+      {
+        "principle": "9",
+        "definition": "All definitions and clusters (A\u2013Z)",
+        "missing_components": [
+          "O",
+          "E",
+          "C"
+        ]
+      },
+      {
+        "principle": "9",
+        "definition": "Accountability, contestability, adjudication, collective failure, force majeure, and resolution-pathway capture",
+        "missing_components": [
+          "O",
+          "E",
+          "C"
+        ]
+      },
+      {
+        "principle": "9",
+        "definition": "Assembly and collective organization",
+        "missing_components": [
+          "O",
+          "E",
+          "C"
+        ]
+      },
+      {
+        "principle": "9",
+        "definition": "Consent, sexual consent, and coercion / manipulation",
+        "missing_components": [
+          "O",
+          "E",
+          "C"
+        ]
+      },
+      {
+        "principle": "9",
+        "definition": "Protected characteristics, proxying, intimate-signal gating, and Article X-C status",
+        "missing_components": [
+          "O",
+          "E",
+          "C"
+        ]
+      },
+      {
+        "principle": "9",
+        "definition": "Collective harm boundary",
+        "missing_components": [
+          "O",
+          "E",
+          "C"
+        ]
+      },
+      {
+        "principle": "9",
+        "definition": "Corpus, authority stack, and supremacy / enforceability",
+        "missing_components": [
+          "O",
+          "E",
+          "C"
+        ]
+      },
+      {
+        "principle": "9",
+        "definition": "Creative work, compensation, productive capacity, and anti-displacement",
+        "missing_components": [
+          "O",
+          "E",
+          "C"
+        ]
+      },
+      {
+        "principle": "9",
+        "definition": "Derivation, care, family, and instantiation",
+        "missing_components": [
+          "O",
+          "E",
+          "C"
+        ]
+      },
+      {
+        "principle": "9",
+        "definition": "Ecological footprint (semi-independent surface)",
+        "missing_components": [
+          "O",
+          "E",
+          "C"
+        ]
+      },
+      {
+        "principle": "9",
+        "definition": "Emergency and contingency (constitutional, stakeholder-system, and pre-deliberation binding choice)",
+        "missing_components": [
+          "O",
+          "E",
+          "C"
+        ]
+      },
+      {
+        "principle": "9",
+        "definition": "Governance architecture, oversight, decentralization, concentration, lock-in, burdens, review, and stakeholder participation",
+        "missing_components": [
+          "O",
+          "E",
+          "C"
+        ]
+      },
+      {
+        "principle": "9",
+        "definition": "Safe conditions, bodily maintenance, tenure, environment, rest, and cultural / indigenous continuity",
+        "missing_components": [
+          "O",
+          "E",
+          "C"
+        ]
+      },
+      {
+        "principle": "9",
+        "definition": "Materiality, material impact, and material risk",
+        "missing_components": [
+          "O",
+          "E",
+          "C"
+        ]
+      },
+      {
+        "principle": "9",
+        "definition": "Movement, refuge, and non-statelessness",
+        "missing_components": [
+          "O",
+          "E",
+          "C"
+        ]
+      },
+      {
+        "principle": "9",
+        "definition": "Standing inputs: contribution, participant standing, cells, effects, and verified violation findings",
+        "missing_components": [
+          "O",
+          "E",
+          "C"
+        ]
+      },
+      {
+        "principle": "9",
+        "definition": "Force, autonomous weapons / coercion, combatant rules, mass harm, and irreversible sanction",
+        "missing_components": [
+          "O",
+          "E",
+          "C"
+        ]
+      }
+    ],
+    "coverage": [],
+    "cluster_integrity": []
+  }
+}

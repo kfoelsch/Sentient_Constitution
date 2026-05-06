@@ -45,15 +45,13 @@ Actions:
 | 4.1 Resilience and Self-Healing | Self-Healing; Reversibility | Avoidable Burden; Incentive Alignment | Safety; Truth; rights-floor continuity | Auditability; root-cause evidence via Article XXI/Article XII-F | Non-masking; no governance substitution | Keep/clarify: Article XII-F owns detailed recovery floor. |
 | 5. Freedom | Freedom (Bounded Agency); Meaningful Agency | Dependency | Feasibility; Necessity; Proportionality; Harm Minimization | Chapter Four proof for feasibility claims | Safety; Truth; rights of others | Add: foreground Freedom (Bounded Agency) as P in the definition list. |
 | 5.1 Productive Capacity | Productive Capacity | Wellbeing; Dignity and Equal Moral Standing; Constitutional Efficiency | Feasibility; Necessity; Proportionality | Avoidable Burden; Proxy Divergence | Ecological Integrity; Environmental Preconditions; Intergenerational Responsibility; non-concentration floor | Split: group the current large definition list by function. |
-| 5.1.1 Nature, Purpose, and Bounds | Productive Capacity | Wellbeing; Ecological Integrity; Environmental Preconditions; Intergenerational Responsibility | Feasibility; Necessity; Proportionality | Avoidable Burden; Proxy Divergence | Chapter Nine rights floor; Article I-A | Groups operative bounds prose after the §5.1 definition-map; binding term wording stays in `core_*`. |
-| 5.1.2 Stewardship Obligations and Limits | Productive Capacity; Constitutional Efficiency | Ecological Integrity; Environmental Preconditions; Intergenerational Responsibility | Feasibility; Necessity; Proportionality | Avoidable Burden; Proxy Divergence | Article I-A; Chapter Four tracing; §6.4.2 | Preservation/expansion duties, fair metrics, prohibited override uses, proxy invalidation hook. |
-| 5.2 Concentration Threshold Mechanism | Concentration Threshold | Dependency; System Capture; Market Structure | Proportionality; Necessity | Materiality; Classification-Scaled Governance | Article IV and Chapter Seven ownership | Add selectively only if this subsection gets a local definition block; otherwise keep in prose. |
-| 5.3 Distributed Understanding and Stewardship | Educational Agency; Transparency; Strategic Stewardship Obligation; Meaningful Agency | Contestability; Auditability; Dependency; Materiality | Necessity; Proportionality; Safety; Truth | Observability; Verification Accessibility if verification is invoked | Avoidable Burden; Epistemic Integrity; Chapter Ten/corpus_systems ownership | Split: understanding, stewardship, evidence, and boundary groups. |
-| 5.3.1 Distributed Understanding | Transparency | Materiality; Dependency; Meaningful Agency; Contestability | Safety/Truth disclosure limits | Accessibility; Auditability if verification-facing | Does not require every sentient to master every subsystem | Keep. Consider adding Accessibility as S where ability-profile access is central. |
-| 5.3.2 Stewardship | Meaningful Agency | Auditability; Contribution State where Chapter Six is invoked | Safety; consent constraints | Competency/role evidence | Symbolic participation is not a substitute | Keep light. Avoid importing all Chapter Six standing terms. |
-| 5.3.3 Institutional Development | Strategic Stewardship Obligation | Auditability; Materiality | Incentive Alignment | Observability | Governance learning is not technical artifact upgrade alone | Keep. This is a good home for Observability. |
-| 5.3.4 Openness Aspiration | Transparency; Interoperability / exit-related terms where materially implicated | Educational Agency; Auditability | Safety; Truth; confidentiality constraints | Verification Feasibility | Openness is aspirational and bounded | Decide: include only if current block is thin or ambiguity remains. |
-| 5.3.5 Bounds and Rights-Floor Disclaimer | None beyond parent | Safety; Truth | Necessity; Proportionality | Avoidable Burden | Chapter Nine ownership | Keep as boundary prose, not a large definition list. |
+| 5.1.1 Concentration Threshold Mechanism | Concentration Threshold | Dependency; System Capture; Market Structure | Proportionality; Necessity | Materiality; Classification-Scaled Governance | Article IV and Chapter Seven ownership | Add selectively only if this subsection gets a local definition block; otherwise keep in prose. |
+| 5.2 Distributed Understanding and Stewardship | Educational Agency; Transparency; Strategic Stewardship Obligation; Meaningful Agency | Contestability; Auditability; Dependency; Materiality | Necessity; Proportionality; Safety; Truth | Observability; Verification Accessibility if verification is invoked | Avoidable Burden; Epistemic Integrity; Chapter Ten/corpus_systems ownership | Split: understanding, stewardship, evidence, and boundary groups. |
+| 5.2.1 Distributed Understanding | Transparency | Materiality; Dependency; Meaningful Agency; Contestability | Safety/Truth disclosure limits | Accessibility; Auditability if verification-facing | Does not require every sentient to master every subsystem | Keep. Consider adding Accessibility as S where ability-profile access is central. |
+| 5.2.2 Stewardship | Meaningful Agency | Auditability; Contribution State where Chapter Six is invoked | Safety; consent constraints | Competency/role evidence | Symbolic participation is not a substitute | Keep light. Avoid importing all Chapter Six standing terms. |
+| 5.2.3 Institutional Development | Strategic Stewardship Obligation | Auditability; Materiality | Incentive Alignment | Observability | Governance learning is not technical artifact upgrade alone | Keep. This is a good home for Observability. |
+| 5.2.4 Openness Aspiration | Transparency; Interoperability / exit-related terms where materially implicated | Educational Agency; Auditability | Safety; Truth; confidentiality constraints | Verification Feasibility | Openness is aspirational and bounded | Decide: include only if current block is thin or ambiguity remains. |
+| 5.2.5 Bounds and Rights-Floor Disclaimer | None beyond parent | Safety; Truth | Necessity; Proportionality | Avoidable Burden | Chapter Nine ownership | Keep as boundary prose, not a large definition list. |
 | 6. Interaction and Conflict Resolution | Safety; Truth | Wellbeing; Trust; Freedom | Proportionality; Necessity; Harm Minimization | Materiality; Foreseeability | Rights-collision procedure owns detailed test | Keep parent sparse. Detail belongs below. |
 | 6.1.1 Proportionality | Proportionality; Risk | Harm; Dependency | Reversibility | Materiality; Foreseeability | Irreversible Harm; Existential Risk; Systemic Lock-In | Clarify: present as a tradeoff stack, not independent rules. |
 | 6.1.2 Necessity | Necessity | Feasibility | Proportionality | Chapter Four proof | Less-restrictive effective alternative | Keep. No expansion needed. |
@@ -91,13 +89,12 @@ These edits make existing doctrine more explicit without changing substantive ru
    - Collision mechanics: Feasibility; Necessity; Proportionality.
    - Evidence / invalidation: Avoidable Burden; Proxy Divergence.
    - Boundary terms: Ecological Integrity; Environmental Preconditions; Intergenerational Responsibility.
-2. Section 5.2 Concentration Threshold Mechanism: keep threshold-mechanism discipline primarily in principle-layer prose aligned with [Concentration Threshold](core_05-05_definitions_b_semi_independent.md#concentration-threshold-constitutional); add a local Chapter One D/E/C block only if navigation cost remains high.
-3. Section 5.3 Distributed Understanding and Stewardship:
+2. Section 5.2 Distributed Understanding and Stewardship:
    - Understanding: Educational Agency; Transparency; Meaningful Agency.
    - Stewardship: Strategic Stewardship Obligation; Contestability.
    - Evidence: Auditability; Observability; Materiality; Dependency.
    - Boundary/collision: Safety; Truth; Necessity; Proportionality; Avoidable Burden; Epistemic Integrity.
-4. Section 7.2 Incentive Alignment and System Capture:
+3. Section 7.2 Incentive Alignment and System Capture:
    - Parent doctrine: Incentive Alignment; System Capture.
    - Governance checks: Accountability; Oversight.
    - Failure modes: Proxy Divergence; Trust Degradation; Epistemic Integrity.
@@ -111,7 +108,7 @@ These sections are correct in substance but heavy in presentation. Grouping woul
 
 1. Should Avoidable Burden be added to the main §6.4 rights-collision definition list, or is the current pairing through §6.1.4 enough?
 2. Should §7.1 add Systemic, System Boundaries, System Boundary Integrity, Cascading Failure, and Residual Risk / Misalignment?
-3. Should §5.3.1 Distributed Understanding include Accessibility as a supporting definition, or should ability-profile access remain owned by §3.3 and Article V-G?
+3. Should §5.2.1 Distributed Understanding include Accessibility as a supporting definition, or should ability-profile access remain owned by §3.3 and Article V-G?
 4. Should §4 Trust include Trust Degradation and Misleading Reliance directly, or is it better left to failure-mode sections?
 
 Reason:

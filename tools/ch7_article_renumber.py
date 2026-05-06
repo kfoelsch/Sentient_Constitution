@@ -49,6 +49,7 @@ FILES = [
     "doc_architecture.md",
     "CONSTITUTIONAL_REGRESSION_SCENARIOS.md",
     "README.md",
+    "TODO.md",
 ]
 
 

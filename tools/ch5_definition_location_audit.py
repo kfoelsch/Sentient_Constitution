@@ -2,6 +2,9 @@
 """Audit Chapter Five definition homes against cluster-member routing.
 
 Placement contract:
+- **Independent definitions:** canonical full O/E/C appear **only** in Part A
+  (**Chapter Five section 1**). Cluster/family routing may point to them, but
+  it never relocates their canonical bodies into section 2 or section 3.
 - **Semi-independent definitions:** canonical full O/E/C appear **only** in Part B
   (**Chapter Five section 2**). They are never relocated into section 3.
 - **Dependent-cluster definitions:** canonical full O/E/C for cluster-owned members
@@ -11,28 +14,24 @@ Placement contract:
 
 Routing inventory:
 - Links listed under ``**Cluster members.**`` or ``**Family members.**``
-  (semi-independent compound families) are the routing inventory for joint-invocation
-  routing. ``**Read-with definitions.**``, ``**Read-with.**``, ``**Owning cluster note.**``,
+  are the routing inventory for the local cluster type. A Part B roster is a
+  semi-independent-cluster roster; a Part C roster is a dependent-cluster roster.
+  ``**Read-with definitions.**``, ``**Read-with.**``, ``**Owning cluster note.**``,
   and ordinary prose links **do not** count as cluster membership—their cross-links may
   target any Chapter Five file.
 - **Semi-independent joint-invocation cluster contracts** are introduced by
   ``**Cluster context**`` lines and must appear **only** in Part B (section 2).
   ``tools/ch5_structure_audit.py`` enforces that placement across Chapter Five files.
-- Part B member rosters (**Cluster members.** / **Family members.**) may use Part A
-  file paths in ``href`` values. For slugs listed in ``PART_B_ROSTER_PART_A_RELOCATE_SLUGS``,
-  the canonical O/E/C home is **§2** (relocate with ``sort_ch5_definitions``); for all
-  other Part A targets in those rosters, canonical homes remain **§1** until editors
-  adopt a wider relocation policy. If a slug’s O/E/C is already in Part B but a roster
-  line still targets Part A, that stale link fails the audit.
+- Part B member rosters (**Cluster members.** / **Family members.**) may point to
+  Part A only for entries whose canonical full O/E/C home remains **§1**. If a
+  semi-independent term's O/E/C is in Part B, the roster must target Part B.
 - Any ``Dependent-cluster context:`` contract must live in §3. For **Part C**
   dependent clusters, every ``**Cluster members.**`` link must target
   ``core_05-05_definitions_c_dependent_clusters.md`` (same file), and the linked slug’s
   full **O / E / C** must appear in **section 3**—not only under Part A or Part B.
-- Independent definitions keep canonical full O/E/C in **§1** unless semi-independent
-  cluster routing assigns relocation into §2 per the Part B roster rules above.
 
-The script is intentionally report-oriented. Listing modes show the inventory
-used by the audit; ``--audit`` fails on placement drift, stale Part B roster links
+The script is intentionally report-oriented. Listing modes show the routed
+cluster/family inventory used by the audit; ``--audit`` fails on placement drift, stale Part B roster links
 that still target Part A after a term’s O/E/C moved to §2, duplicate full O/E/C
 titles, conflicting §2+§3 homes for the same slug, and unresolved cluster-member
 anchors. Other structural shell/stub checks remain in ``tools/ch5_structure_audit.py``.
@@ -61,17 +60,6 @@ CH5_SECTION_BY_FILE = {
     CH5_PART_C: "3",
 }
 CH5_FILE_NAMES = set(CH5_SECTION_BY_FILE)
-
-# Part B **Cluster members.** / **Family members.** may use Part A paths while editors
-# relocate blocks. Only these slugs use the §2 target when listed from Part B toward
-# Part A; other Part A hrefs keep canonical §1 for semi-independent roster pointers.
-PART_B_ROSTER_PART_A_RELOCATE_SLUGS: frozenset[str] = frozenset(
-    {
-        "system",
-        "system-boundaries",
-        "system-boundary-integrity",
-    }
-)
 
 HEADING_RE = re.compile(r"^(#{3,5})\s+(.+?)\s*$")
 DEF_HEADING_RE = re.compile(r"^(#{4,5})\s+(.+?)\s*$")
@@ -166,14 +154,26 @@ def parse_args() -> argparse.Namespace:
     p = argparse.ArgumentParser(description=__doc__)
     p.add_argument("--root", default=".", help="Repository root.")
     p.add_argument(
+        "--list-routed",
+        action="store_true",
+        help=(
+            "List every Chapter Five link under Cluster members / Family members "
+            "(Part B semi-independent cluster rosters and Part C dependent-cluster rosters)."
+        ),
+    )
+    p.add_argument(
         "--list-dependent",
         action="store_true",
-        help="List every Chapter Five definition link under Cluster members / Family members.",
+        help=argparse.SUPPRESS,
     )
     p.add_argument(
         "--list-independent",
         action="store_true",
-        help="List every full O/E/C definition that is not a cluster member.",
+        help=(
+            "List every full O/E/C definition that is not listed in a "
+            "Cluster members / Family members roster. This is a routing view; "
+            "it can include §1 independent and §2 semi-independent entries."
+        ),
     )
     p.add_argument(
         "--audit",
@@ -203,14 +203,8 @@ def normalize_href(owner_file: str, href: str) -> tuple[str, str] | None:
     return file_name, slug
 
 
-def routing_expected_section(owner_file: str, target_file: str, slug: str) -> str:
+def routing_expected_section(_owner_file: str, target_file: str, _slug: str) -> str:
     """Map roster link targets to expected canonical §1 / §2 / §3 for full O/E/C bodies."""
-    if (
-        owner_file == CH5_PART_B
-        and target_file == CH5_PART_A
-        and slug in PART_B_ROSTER_PART_A_RELOCATE_SLUGS
-    ):
-        return "2"
     return CH5_SECTION_BY_FILE[target_file]
 
 
@@ -385,17 +379,22 @@ def expected_section_for_slug(members_for_slug: list[ClusterMember]) -> str:
     return next(iter(sections))
 
 
-def print_dependent(entries: list[DefinitionEntry], members: list[ClusterMember]) -> None:
+def print_routed(entries: list[DefinitionEntry], members: list[ClusterMember]) -> None:
     by_slug = entry_by_slug(entries)
-    print("title\tslug\texpected_section\tcluster_owner\tmember_location\tcurrent_oec_locations")
+    print("title\tslug\troster_kind\texpected_section\tcluster_owner\tmember_location\tcurrent_oec_locations")
     for member in sorted(members, key=lambda m: (m.expected_section, m.owner_file, m.line, m.title)):
+        roster_kind = (
+            "dependent-cluster"
+            if member.owner_file == CH5_PART_C
+            else "semi-independent-cluster"
+        )
         current = [
             f"§{e.section}:{e.location}"
             for e in by_slug.get(member.slug, [])
             if e.has_full_oec
         ]
         print(
-            f"{member.title}\t{member.slug}\t§{member.expected_section}\t"
+            f"{member.title}\t{member.slug}\t{roster_kind}\t§{member.expected_section}\t"
             f"{member.owner_heading}\t{member.location}\t{', '.join(current) or 'MISSING'}"
         )
 
@@ -416,8 +415,6 @@ def audit(entries: list[DefinitionEntry], members: list[ClusterMember]) -> list[
     errors: list[str] = []
     by_slug = entry_by_slug(entries)
     members_by_slug = member_by_slug(members)
-    anchors = anchor_slugs(Path("."))
-
     for member in members:
         if (
             member.part_c_cluster_roster
@@ -526,7 +523,9 @@ def audit(entries: list[DefinitionEntry], members: list[ClusterMember]) -> list[
 
 def main() -> int:
     args = parse_args()
-    if not (args.list_dependent or args.list_independent or args.audit):
+    if args.list_dependent:
+        args.list_routed = True
+    if not (args.list_routed or args.list_independent or args.audit):
         args.audit = True
     root = Path(args.root).resolve()
     missing = [name for name in CH5_ALL if not (root / name).is_file()]
@@ -535,10 +534,10 @@ def main() -> int:
         return 2
 
     entries, members = build_indexes(root)
-    if args.list_dependent:
-        print_dependent(entries, members)
+    if args.list_routed:
+        print_routed(entries, members)
     if args.list_independent:
-        if args.list_dependent:
+        if args.list_routed:
             print()
         print_independent(entries, members)
     if args.audit:

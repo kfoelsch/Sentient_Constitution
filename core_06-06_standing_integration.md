@@ -57,7 +57,7 @@ Upstream constitutional direction for this file begins in [core_00-01_principles
 
 *In plain terms: this is the standing-effects home. It says when verified contribution can support trust or recognition, when findings can restrict standing, how restoration works, and where the detailed integration mechanics live.*
 
-**Principle-layer foundation.** [Distributed Understanding and Stewardship](core_00-01_principles.md#53-distributed-understanding-and-stewardship) (**Chapter One**, **§5.3**) is the normative foundation for this standing system. Trust-, role-, and recognition-eligibility must track proportionate understanding of systems that materially affect sentients, plus consequential stewardship and repair contribution. They must remain auditable and contestable. They must not rest on opaque credentialism, symbolic participation, or inaccessible specialization alone.
+**Principle-layer foundation.** [Distributed Understanding and Stewardship](core_00-01_principles.md#52-distributed-understanding-and-stewardship) (**Chapter One**, **§5.2**) is the normative foundation for this standing system. Trust-, role-, and recognition-eligibility must track proportionate understanding of systems that materially affect sentients, plus consequential stewardship and repair contribution. They must remain auditable and contestable. They must not rest on opaque credentialism, symbolic participation, or inaccessible specialization alone.
 
 Standing consequences may affect eligibility for roles, delegated authority, or enhanced trust pathways. These standing-effect pathways classify trust, role, recognition, restriction, remediation, and review consequences under constitutional principles, rights articles, and definitions. More than one pathway may apply to the same sentient, institution, record, assessment, action, pattern, or bounded event. They must not extinguish inherent dignity, equal moral standing, baseline rights, or access to required challenge rights and remedy.
 
@@ -107,7 +107,7 @@ Recognition must remain contestable, reviewable, and non-monopolistic.
 
 - Upstream: [§3.2](core_06-06_standing_classification.md#3-axis-i-contribution-state-and-standing-effect); [§3.3.1](core_06-06_standing_classification.md#41-formal-non-compliance) (*Formal Non-Compliance ladder class*).
 - Downstream: [§4.3](#37-reinstatement-review-and-non-entrenchment); [§4.4](#38-standing-integration-category-hook); [§7.1](#38-standing-integration-contribution-and-violation-nature); [§7.2](#62-joint-assessment-escalation-constraints-and-scrutiny).
-- Read with: [Contribution State](core_05-05_definitions_b_semi_independent.md#contribution-state) (*Chapter Five pointer — operative Contribution Axis text in **section 3.2***); [Proportionality](core_05-05_definitions_c_dependent_clusters.md#proportionality) · [O](core_05-05_definitions_c_dependent_clusters.md#proportionality) · [E](core_05-05_definitions_c_dependent_clusters.md#proportionality-e) · [C](core_05-05_definitions_c_dependent_clusters.md#proportionality-c); [Necessity](core_05-05_definitions_c_dependent_clusters.md#necessity) · [O](core_05-05_definitions_c_dependent_clusters.md#necessity) · [E](core_05-05_definitions_c_dependent_clusters.md#necessity-e) · [C](core_05-05_definitions_c_dependent_clusters.md#necessity-c).
+- Read with: [Contribution State](core_05-05_definitions_b_semi_independent.md#contribution-state) (*Chapter Five pointer — operative Contribution Axis text in **section 3.2***); [Proportionality](core_05-05_definitions_a_independent.md#proportionality) · [O](core_05-05_definitions_a_independent.md#proportionality) · [E](core_05-05_definitions_a_independent.md#proportionality-e) · [C](core_05-05_definitions_a_independent.md#proportionality-c); [Necessity](core_05-05_definitions_a_independent.md#necessity) · [O](core_05-05_definitions_a_independent.md#necessity) · [E](core_05-05_definitions_a_independent.md#necessity-e) · [C](core_05-05_definitions_a_independent.md#necessity-c).
 
 </details>
 
@@ -115,7 +115,7 @@ Recognition must remain contestable, reviewable, and non-monopolistic.
 <summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
 
 - [Contribution State](core_05-05_definitions_b_semi_independent.md#contribution-state) · [O](core_05-05_definitions_b_semi_independent.md#contribution-state) · [E](core_05-05_definitions_b_semi_independent.md#contribution-state-e) · [C](core_05-05_definitions_b_semi_independent.md#contribution-state-c)
-- [Proportionality](core_05-05_definitions_c_dependent_clusters.md#proportionality) · [O](core_05-05_definitions_c_dependent_clusters.md#proportionality) · [E](core_05-05_definitions_c_dependent_clusters.md#proportionality-e) · [C](core_05-05_definitions_c_dependent_clusters.md#proportionality-c)
+- [Proportionality](core_05-05_definitions_a_independent.md#proportionality) · [O](core_05-05_definitions_a_independent.md#proportionality) · [E](core_05-05_definitions_a_independent.md#proportionality-e) · [C](core_05-05_definitions_a_independent.md#proportionality-c)
 - [Harm](core_05-05_definitions_c_dependent_clusters.md#harm) · [O](core_05-05_definitions_c_dependent_clusters.md#harm) · [E](core_05-05_definitions_c_dependent_clusters.md#harm-e) · [C](core_05-05_definitions_c_dependent_clusters.md#harm-c)
 - [Materiality Determination](core_05-05_definitions_b_semi_independent.md#materiality-determination) · [O](core_05-05_definitions_b_semi_independent.md#materiality-determination) · [E](core_05-05_definitions_b_semi_independent.md#materiality-determination-e) · [C](core_05-05_definitions_b_semi_independent.md#materiality-determination-c)
 
@@ -241,7 +241,7 @@ Punitive culpability need not be established for this character to apply.
 
 - Upstream: [§5.1](#61-remedial-restorative-and-civil-correction-character); [§5.4](#64-concurrent-character-and-non-exclusivity); [Chapter Nine](core_09-09_rights_part_a.md#chapter-nine-foundational-rights) (*criminal-process rights floor*).
 - Downstream: [§5.4](#64-concurrent-character-and-non-exclusivity); [§7](#8-cross-axis-coupling-and-escalation-constraints); [Article XXIII](core_09-09_rights_part_d.md#article-xxiii-a-justice-objective-and-scope).
-- Read with: [Proportionality](core_05-05_definitions_c_dependent_clusters.md#proportionality) · [O](core_05-05_definitions_c_dependent_clusters.md#proportionality) · [E](core_05-05_definitions_c_dependent_clusters.md#proportionality-e) · [C](core_05-05_definitions_c_dependent_clusters.md#proportionality-c); [Necessity](core_05-05_definitions_c_dependent_clusters.md#necessity) · [O](core_05-05_definitions_c_dependent_clusters.md#necessity) · [E](core_05-05_definitions_c_dependent_clusters.md#necessity-e) · [C](core_05-05_definitions_c_dependent_clusters.md#necessity-c).
+- Read with: [Proportionality](core_05-05_definitions_a_independent.md#proportionality) · [O](core_05-05_definitions_a_independent.md#proportionality) · [E](core_05-05_definitions_a_independent.md#proportionality-e) · [C](core_05-05_definitions_a_independent.md#proportionality-c); [Necessity](core_05-05_definitions_a_independent.md#necessity) · [O](core_05-05_definitions_a_independent.md#necessity) · [E](core_05-05_definitions_a_independent.md#necessity-e) · [C](core_05-05_definitions_a_independent.md#necessity-c).
 
 </details>
 
@@ -263,9 +263,9 @@ This character triggers criminal-process or equivalent constitutional protection
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [§5.1](#61-remedial-restorative-and-civil-correction-character); [Supremacy and Enforceability](core_05-05_definitions_b_semi_independent.md#supremacy-and-enforceability); [Constitutional Constraint Violation](core_05-05_definitions_b_semi_independent.md#constitutional-constraint-violation).
+- Upstream: [§5.1](#61-remedial-restorative-and-civil-correction-character); [Supremacy and Enforceability](core_05-05_definitions_b_semi_independent.md#supremacy-and-enforceability); [Constitutional Constraint Violation](core_05-05_definitions_a_independent.md#constitutional-constraint-violation).
 - Downstream: [§5.4](#64-concurrent-character-and-non-exclusivity); [§5.5](#65-constitutional-floor-rule); [§10](#10-violation-axis-s-7-9-anti-constitutional-misconduct-authoritative-location) (*Chapter Seven pointer for final Violation Axis s = 7, 8, and 9 assignment*).
-- Read with: [Constitutional Constraint Violation](core_05-05_definitions_b_semi_independent.md#constitutional-constraint-violation) · [O](core_05-05_definitions_b_semi_independent.md#constitutional-constraint-violation) · [E](core_05-05_definitions_b_semi_independent.md#constitutional-constraint-violation-e) · [C](core_05-05_definitions_b_semi_independent.md#constitutional-constraint-violation-c).
+- Read with: [Constitutional Constraint Violation](core_05-05_definitions_a_independent.md#constitutional-constraint-violation) · [O](core_05-05_definitions_a_independent.md#constitutional-constraint-violation) · [E](core_05-05_definitions_a_independent.md#constitutional-constraint-violation-e) · [C](core_05-05_definitions_a_independent.md#constitutional-constraint-violation-c).
 
 </details>
 
@@ -273,7 +273,7 @@ This character triggers criminal-process or equivalent constitutional protection
 
 *In plain terms: this character applies when the finding implicates binding constitutional constraints, rights floors, supremacy, anti-evasion discipline, or challenge-and-remedy access — and it can ride alongside remedial or punitive-process character.*
 
-<strong><span style="color: #2563eb;">Definition:</span></strong> [Constitutional Constraint Violation](core_05-05_definitions_b_semi_independent.md#constitutional-constraint-violation) · [O](core_05-05_definitions_b_semi_independent.md#constitutional-constraint-violation) · [E](core_05-05_definitions_b_semi_independent.md#constitutional-constraint-violation-e) · [C](core_05-05_definitions_b_semi_independent.md#constitutional-constraint-violation-c)
+<strong><span style="color: #2563eb;">Definition:</span></strong> [Constitutional Constraint Violation](core_05-05_definitions_a_independent.md#constitutional-constraint-violation) · [O](core_05-05_definitions_a_independent.md#constitutional-constraint-violation) · [E](core_05-05_definitions_a_independent.md#constitutional-constraint-violation-e) · [C](core_05-05_definitions_a_independent.md#constitutional-constraint-violation-c)
 
 A finding has **constitutional-floor character** where it violates binding constitutional constraints, rights floors, anti-evasion requirements, challenge-and-remedy access, or supremacy and binding-effect conditions.
 
@@ -308,7 +308,7 @@ A single pattern of conduct may carry multiple process / response characters at 
 
 - Upstream: [§5.3](#63-constitutional-floor-character); [Chapter Nine](core_09-09_rights_part_a.md#chapter-nine-foundational-rights).
 - Downstream: [§7](#8-cross-axis-coupling-and-escalation-constraints); [Chapter Eight](core_08-08_forum.md#chapter-eight-forums-and-jurisdiction).
-- Read with: [Constitutional Constraint Violation](core_05-05_definitions_b_semi_independent.md#constitutional-constraint-violation) · [O](core_05-05_definitions_b_semi_independent.md#constitutional-constraint-violation) · [E](core_05-05_definitions_b_semi_independent.md#constitutional-constraint-violation-e) · [C](core_05-05_definitions_b_semi_independent.md#constitutional-constraint-violation-c).
+- Read with: [Constitutional Constraint Violation](core_05-05_definitions_a_independent.md#constitutional-constraint-violation) · [O](core_05-05_definitions_a_independent.md#constitutional-constraint-violation) · [E](core_05-05_definitions_a_independent.md#constitutional-constraint-violation-e) · [C](core_05-05_definitions_a_independent.md#constitutional-constraint-violation-c).
 
 </details>
 
@@ -357,7 +357,7 @@ Violation nature may be individual, collective, or hybrid. Responsibility is not
 
 - Upstream: [§5.6](#410-collective-accountability-and-acquiescent-participation); [Chapter Seven §6.2](core_07-07_misconduct.md#62-rights-floor-waivers-and-unconstitutional-contract-terms); [Article XXIII-A: Justice Objective and Scope](core_09-09_rights_part_d.md#article-xxiii-a-justice-objective-and-scope).
 - Downstream: [§7](#8-cross-axis-coupling-and-escalation-constraints); [Chapter Eight](core_08-08_forum.md#chapter-eight-forums-and-jurisdiction).
-- Read with: [Contestability](core_05-05_definitions_b_semi_independent.md#contestability) · [O](core_05-05_definitions_b_semi_independent.md#contestability) · [E](core_05-05_definitions_b_semi_independent.md#contestability-e) · [C](core_05-05_definitions_b_semi_independent.md#contestability-c); [Proportionality](core_05-05_definitions_c_dependent_clusters.md#proportionality) · [O](core_05-05_definitions_c_dependent_clusters.md#proportionality) · [E](core_05-05_definitions_c_dependent_clusters.md#proportionality-e) · [C](core_05-05_definitions_c_dependent_clusters.md#proportionality-c).
+- Read with: [Contestability](core_05-05_definitions_b_semi_independent.md#contestability) · [O](core_05-05_definitions_b_semi_independent.md#contestability) · [E](core_05-05_definitions_b_semi_independent.md#contestability-e) · [C](core_05-05_definitions_b_semi_independent.md#contestability-c); [Proportionality](core_05-05_definitions_a_independent.md#proportionality) · [O](core_05-05_definitions_a_independent.md#proportionality) · [E](core_05-05_definitions_a_independent.md#proportionality-e) · [C](core_05-05_definitions_a_independent.md#proportionality-c).
 
 </details>
 
@@ -382,7 +382,7 @@ They must use protected reporting and adjudication pathways where applicable.
 
 - Upstream: [§3.3.4](core_06-06_standing_classification.md#44-duty-based-or-negligent-harm-non-compliance); [§5.6](#410-collective-accountability-and-acquiescent-participation); [§6.3](#73-stackable-harm-and-conduct-descriptors-violation-nature-supplement) (*Negligent Misconduct supplement*).
 - Downstream: [§7](#8-cross-axis-coupling-and-escalation-constraints).
-- Read with: [Foreseeability Diligence](core_05-05_definitions_c_dependent_clusters.md#foreseeability-diligence) · [O](core_05-05_definitions_c_dependent_clusters.md#foreseeability-diligence) · [E](core_05-05_definitions_c_dependent_clusters.md#foreseeability-diligence-e) · [C](core_05-05_definitions_c_dependent_clusters.md#foreseeability-diligence-c); [Feasibility](core_05-05_definitions_c_dependent_clusters.md#feasibility) · [O](core_05-05_definitions_c_dependent_clusters.md#feasibility) · [E](core_05-05_definitions_c_dependent_clusters.md#feasibility-e) · [C](core_05-05_definitions_c_dependent_clusters.md#feasibility-c).
+- Read with: [Foreseeability Diligence](core_05-05_definitions_c_dependent_clusters.md#foreseeability-diligence) · [O](core_05-05_definitions_c_dependent_clusters.md#foreseeability-diligence) · [E](core_05-05_definitions_c_dependent_clusters.md#foreseeability-diligence-e) · [C](core_05-05_definitions_c_dependent_clusters.md#foreseeability-diligence-c); [Feasibility](core_05-05_definitions_a_independent.md#feasibility) · [O](core_05-05_definitions_a_independent.md#feasibility) · [E](core_05-05_definitions_a_independent.md#feasibility-e) · [C](core_05-05_definitions_a_independent.md#feasibility-c).
 
 </details>
 
@@ -755,7 +755,7 @@ Operational response mechanisms must implement, but not narrow, this section. Th
 
 - [Redress and Remediation](core_05-05_definitions_a_independent.md#redress-and-remediation-constitutional) · [O](core_05-05_definitions_a_independent.md#redress-and-remediation-constitutional) · [E](core_05-05_definitions_a_independent.md#redress-and-remediation-constitutional-e) · [C](core_05-05_definitions_a_independent.md#redress-and-remediation-constitutional-c)
 - [Auditability](core_05-05_definitions_c_dependent_clusters.md#auditability) · [O](core_05-05_definitions_c_dependent_clusters.md#auditability) · [E](core_05-05_definitions_c_dependent_clusters.md#auditability-e) · [C](core_05-05_definitions_c_dependent_clusters.md#auditability-c)
-- [Proportionality](core_05-05_definitions_c_dependent_clusters.md#proportionality) · [O](core_05-05_definitions_c_dependent_clusters.md#proportionality) · [E](core_05-05_definitions_c_dependent_clusters.md#proportionality-e) · [C](core_05-05_definitions_c_dependent_clusters.md#proportionality-c)
+- [Proportionality](core_05-05_definitions_a_independent.md#proportionality) · [O](core_05-05_definitions_a_independent.md#proportionality) · [E](core_05-05_definitions_a_independent.md#proportionality-e) · [C](core_05-05_definitions_a_independent.md#proportionality-c)
 
 </details>
 
@@ -790,7 +790,7 @@ Enforcement mechanisms implementing this chapter must remain practical, proporti
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
 
-- [Constitutional Constraint Violation](core_05-05_definitions_b_semi_independent.md#constitutional-constraint-violation) · [O](core_05-05_definitions_b_semi_independent.md#constitutional-constraint-violation) · [E](core_05-05_definitions_b_semi_independent.md#constitutional-constraint-violation-e) · [C](core_05-05_definitions_b_semi_independent.md#constitutional-constraint-violation-c)
+- [Constitutional Constraint Violation](core_05-05_definitions_a_independent.md#constitutional-constraint-violation) · [O](core_05-05_definitions_a_independent.md#constitutional-constraint-violation) · [E](core_05-05_definitions_a_independent.md#constitutional-constraint-violation-e) · [C](core_05-05_definitions_a_independent.md#constitutional-constraint-violation-c)
 - [Procedural Fairness](core_05-05_definitions_b_semi_independent.md#procedural-fairness-constitutional) · [O](core_05-05_definitions_b_semi_independent.md#procedural-fairness-constitutional) · [E](core_05-05_definitions_b_semi_independent.md#procedural-fairness-constitutional-e) · [C](core_05-05_definitions_b_semi_independent.md#procedural-fairness-constitutional-c)
 
 </details>

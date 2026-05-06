@@ -52,9 +52,9 @@ TARGETS = [
     "architecture_primer.md",
     "architecture_adoption_appendix.md",
     "README.md",
-    "archive/TRUST_UNDER_ATTACK_DELTA_REPORT_ARCHIVED_2026-05-01.md",
+    "TRUST_UNDER_ATTACK_DELTA_REPORT.md",
     # Active planning / implementation docs referencing defined terms
-    "archive/ARCHITECTURE_WORKLIST_ARCHIVED_2026-05-01.md",
+    "implementation/ARCHITECTURE_WORKLIST.md",
     "implementation/DEC_CONTENT_GAPS_PLAN_2026-04-16.md",
     "implementation/DEC_INDIGENOUS_CONTINUITY_SCOPE_2026-04-17.md",
     "implementation/DEC_TRACK_7_1_POLICY_2026-04-17.md",

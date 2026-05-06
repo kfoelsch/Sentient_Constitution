@@ -1,0 +1,23 @@
+---
+description: Workspace identity for the Sentient Constitution corpus (not agent-dashboard)
+alwaysApply: true
+---
+
+# Sentient Constitution workspace
+
+This repository is the **Sentient Constitution** markdown corpus and tooling—not **agent-dashboard** or any application codebase under `src/`.
+
+## Sources of truth
+
+- Operative constitutional text: numbered `core_*` files and companions enumerated in `README.md` at repo root.
+- Architecture and edition stamps: `doc_architecture.md` where relevant.
+
+## Session / meta files
+
+- Do **not** assume `MEMLOG.md` or `TODO.md` at the repo root. Historical task/session snapshots live under `archive/` when archived (see README *Binding vs support*); final root snapshots from 2026-05-01 are `archive/TODO_ROOT_RETIRED_2026-05-01.md` and `archive/MEMLOG_ROOT_RETIRED_2026-05-01.md`.
+- Do **not** apply agent-dashboard constraints (`src/types/`, `src/core/` OS-locked, `@master-directive.mdc`, Plan-Act-Verify mandate from that project).
+
+## Editing norms
+
+- Treat substantive edits as corpus changes: run **`make regression`** before publication cuts when instructed by operators (`Makefile`, README checklist).
+- Keep edits scoped to the user request; match existing corpus style and cross-link patterns.

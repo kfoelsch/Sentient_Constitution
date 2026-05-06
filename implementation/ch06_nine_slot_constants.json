@@ -1,0 +1,152 @@
+{
+  "$comment": "Precomputed rows for the nine-slot standing scale in CH06_NINE_SLOT_STANDING_SCALE.md. c_min_over_c_unit is expressed in LEQU units: for s=2..9 it equals 5^(s-7), with c_min(1)=0. v_weight equals 3^(s-1) and remains an ordinal analytics weight. sub_tier is the stable interchange key (minor|mid|major). Fields named category_tranche_display and category_tranche_role_display are retained as legacy-compatible implementation display helpers; the core Chapter Six presentation no longer treats tranche labels as independent categories. category_tranche_role_display gives axis-specific role names per key (contribution: participant|steward|champion; violation: non-compliance finding|violation finding|anti-constitutional misconduct). Contribution Axis s=7..9 display uses recognized, distinguished, and exemplary champion while retaining minor|mid|major interchange keys. Violation Axis s=7..9 display uses Serious, Grave, and Pernicious while retaining minor|mid|major interchange keys. See core_06-06_standing_classification.md Table 1. In composed human-readable table cells, sub-tier display precedes the role label (e.g. exemplary champion, Grave anti-constitutional misconduct).",
+  "contribution_multiplier": 5,
+  "contribution_anchor_slot": 7,
+  "contribution_anchor_unit": "LEQU",
+  "violation_weight_base": 3,
+  "category_tranche_display": {
+    "I": "Limited",
+    "II": "Material",
+    "III": "Grand"
+  },
+  "category_tranche_role_display": {
+    "contribution": {
+      "I": "participant",
+      "II": "steward",
+      "III": "champion"
+    },
+    "violation": {
+      "I": "non-compliance finding",
+      "II": "violation finding",
+      "III": "anti-constitutional misconduct"
+    }
+  },
+  "c_min_formula": "For slot s: c_min = c_unit * 5^(s-7) for s=2..9; c_min(1) = 0. Default c_unit=1 LEQU.",
+  "v_weight_formula": "v_weight(s) = 3^(s-1).",
+  "slots": [
+    {
+      "s": 1,
+      "category": "I",
+      "category_index": 1,
+      "sub_tier": "minor",
+      "sub_tier_display": {
+        "contribution": "minor",
+        "violation": "minor"
+      },
+      "c_min_over_c_unit": 0,
+      "v_weight": 1
+    },
+    {
+      "s": 2,
+      "category": "I",
+      "category_index": 1,
+      "sub_tier": "mid",
+      "sub_tier_display": {
+        "contribution": "mid",
+        "violation": "mid"
+      },
+      "c_min_over_c_unit": 0.00032,
+      "v_weight": 3
+    },
+    {
+      "s": 3,
+      "category": "I",
+      "category_index": 1,
+      "sub_tier": "major",
+      "sub_tier_display": {
+        "contribution": "major",
+        "violation": "major"
+      },
+      "c_min_over_c_unit": 0.0016,
+      "v_weight": 9
+    },
+    {
+      "s": 4,
+      "category": "II",
+      "category_index": 2,
+      "sub_tier": "minor",
+      "sub_tier_display": {
+        "contribution": "minor",
+        "violation": "minor"
+      },
+      "c_min_over_c_unit": 0.008,
+      "v_weight": 27
+    },
+    {
+      "s": 5,
+      "category": "II",
+      "category_index": 2,
+      "sub_tier": "mid",
+      "sub_tier_display": {
+        "contribution": "mid",
+        "violation": "mid"
+      },
+      "c_min_over_c_unit": 0.04,
+      "v_weight": 81
+    },
+    {
+      "s": 6,
+      "category": "II",
+      "category_index": 2,
+      "sub_tier": "major",
+      "sub_tier_display": {
+        "contribution": "major",
+        "violation": "major"
+      },
+      "c_min_over_c_unit": 0.2,
+      "v_weight": 243
+    },
+    {
+      "s": 7,
+      "category": "III",
+      "category_index": 3,
+      "sub_tier": "minor",
+      "sub_tier_display": {
+        "contribution": "recognized",
+        "violation": "Serious"
+      },
+      "c_min_over_c_unit": 1,
+      "v_weight": 729
+    },
+    {
+      "s": 8,
+      "category": "III",
+      "category_index": 3,
+      "sub_tier": "mid",
+      "sub_tier_display": {
+        "contribution": "distinguished",
+        "violation": "Grave"
+      },
+      "c_min_over_c_unit": 5,
+      "v_weight": 2187
+    },
+    {
+      "s": 9,
+      "category": "III",
+      "category_index": 3,
+      "sub_tier": "major",
+      "sub_tier_display": {
+        "contribution": "exemplary",
+        "violation": "Pernicious"
+      },
+      "c_min_over_c_unit": 25,
+      "v_weight": 6561
+    }
+  ],
+  "axis_two_default_slot": {
+    "V-FN": 1,
+    "V-RSN": 2,
+    "V-CSN": 3,
+    "V-DHN": 4,
+    "V-AN": 5,
+    "V-CPP": 6,
+    "V-CGN": 6,
+    "V-CN": 7
+  },
+  "axis_one_slot_ranges": {
+    "C-BL": [1, 1],
+    "C-PC": [2, 3],
+    "C-SP": [4, 6],
+    "C-CH": [7, 9]
+  }
+}
