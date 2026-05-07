@@ -25,7 +25,7 @@ This file is **part of the Sentient Constitution** and is **binding only togethe
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [Chapter One](core_00-01_principles.md#chapter-01-principles-and-constraints); [Chapters Two through Four](core_02-04_definition_mechanics.md) integrity and verification; [Chapter Nine](core_09-09_rights_part_a.md#chapter-nine-foundational-rights) rights floor; [Chapter Ten](core_10-10_governance.md#chapter-ten-constitutional-contract-legitimacy-authorization-and-stewardship) legitimacy and stewardship requirements.
+- Upstream: [Chapter One](core_00-01_principles.md#chapter-01-principles-and-constraints); [Chapters Two through Four](core_02-04_definition_mechanics.md) integrity and verification; [Chapter Nine](core_09-09_rights_part_a.md#chapter-nine-foundational-rights) Rights Floor; [Chapter Ten](core_10-10_governance.md#chapter-ten-constitutional-contract-legitimacy-authorization-and-stewardship) legitimacy and stewardship requirements.
 - Subsections: [§1](#1-non-regression-floor); [§2](#2-test-1-substantive-non-regression-validity); [§3](#3-anti-evasion-clause-and-constitutional-misconduct-referral); [§4](#4-scope-limit-and-layer-discipline).
 - Downstream: [Chapter Twelve](core_11-13_amendment.md#chapter-twelve-expansion-supremacy-and-external-legal-orders) expansion and supremacy; [Chapter Thirteen](core_11-13_amendment.md#chapter-thirteen-amendment-ratification-and-procedural-validity) procedural validity, ratification, and amendment requirements; [Chapter Six](core_06-06_standing_classification.md#chapter-six-compliance-violation-and-standing-model) and [Chapter Seven](core_07-07_misconduct.md#chapter-seven-anti-constitutional-misconduct) for canonical classification where referral triggers route.
 - Read with: [architecture_primer.md](architecture_primer.md) non-operative walkthrough for **Chapters Eleven through Fourteen** on constitutional change and incorporation.
@@ -52,7 +52,7 @@ Permitted expansion of protection, supremacy sequencing, ratification, and proce
 
 - Upstream: [Chapter Eleven](#chapter-eleven-non-regression-and-substantive-amendment-validity) opening floor list (Chapters One through Four, Nine, Ten); integrated definitions — [Safety (Constraint)](core_05-05_definitions_a_independent.md#safety-constraint), [Truth (Constitutional Constraint)](core_05-05_definitions_c_dependent_clusters.md#truth-constitutional-constraint), [Epistemic Integrity](core_05-05_definitions_c_dependent_clusters.md#epistemic-integrity) (canonical O/E/C under [Truth and Epistemic Integrity](core_05-05_definitions_c_dependent_clusters.md#truth-and-epistemic-integrity-cluster)), [Dignity and Equal Moral Standing](core_05-05_definitions_a_independent.md#dignity-and-equal-moral-standing), [Meaningful Agency](core_05-05_definitions_b_semi_independent.md#meaningful-agency), and related floors named in operative text ([Chapter Five definitions](core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions)).
 - Downstream: [§2](#2-test-1-substantive-non-regression-validity) Test 1 inventory; [§3](#3-anti-evasion-clause-and-constitutional-misconduct-referral) anti-evasion and referral triggers.
-- Read with: [Chapter Nine](core_09-09_rights_part_a.md#chapter-nine-foundational-rights) for rights-floor specifics; [Chapters Two through Four](core_02-04_definition_mechanics.md) for verification, standing gates, and observability as potential indirect narrowing vectors.
+- Read with: [Chapter Nine](core_09-09_rights_part_a.md#chapter-nine-foundational-rights) for Rights-Floor specifics; [Chapters Two through Four](core_02-04_definition_mechanics.md) for verification, standing gates, and observability as potential indirect narrowing vectors.
 
 </details>
 
@@ -79,7 +79,7 @@ No constitutional change is valid if it materially weakens core protections for 
 A proposed amendment is invalid if it materially weakens any of the following:
 - Chapter One non-negotiable constraints
 - **Chapters Two through Four** integrity requirements
-- Chapter Nine rights floors
+- Chapter Nine Rights Floors
 - Chapter Ten legitimacy obligations
 
 Invalidity includes indirect narrowing through definitions, standing gates, evidentiary burden manipulation, observability degradation, or emergency re-labeling.
@@ -152,7 +152,7 @@ For a non-operative reading walkthrough of **Chapters Eleven through Fourteen** 
 
 - Upstream: [Chapter Eleven](core_11-13_amendment.md#chapter-eleven-non-regression-and-substantive-amendment-validity) non-regression and Test 1; [Authority Stack and Internal Hierarchy](core_05-05_definitions_b_semi_independent.md#authority-stack), [Supremacy and Enforceability](core_05-05_definitions_b_semi_independent.md#supremacy-and-enforceability), and related [Corpus](core_05-05_definitions_b_semi_independent.md#corpus) boundary concepts.
 - Subsections: [§1](#1-additive-expansion-permitted)–[§2](#2-continuity-of-supremacy-and-challenge-rights-during-amendment); [§3](#3-supremacy-relative-to-other-binding-norms)–[§4](#4-disputes-involving-external-legal-orders).
-- Downstream: [Chapter Thirteen](core_11-13_amendment.md#chapter-thirteen-amendment-ratification-and-procedural-validity) adoption and supremacy continuity during amendment; [Article XXIII-A](core_09-09_rights_part_d.md) review pathways preserved against external process gaps; [Chapter Seven, section 6.2 — *Rights-floor waivers and unconstitutional contract terms*](core_07-07_misconduct.md#62-rights-floor-waivers-and-unconstitutional-contract-terms) where external-order interfaces implicate waiver or pseudo-contract devices.
+- Downstream: [Chapter Thirteen](core_11-13_amendment.md#chapter-thirteen-amendment-ratification-and-procedural-validity) adoption and supremacy continuity during amendment; [Article XXIII-A](core_09-09_rights_part_d.md) review pathways preserved against external process gaps; [Chapter Seven, section 6.2 — *Rights-Floor waivers and unconstitutional contract terms*](core_07-07_misconduct.md#62-rights-floor-waivers-and-unconstitutional-contract-terms) where external-order interfaces implicate waiver or pseudo-contract devices.
 - Read with: **[corpus_systems.md](corpus_systems.md)** and **Protocol C** references in operative text on cross-jurisdiction execution; [Chapter Six, section 9 — *Enforcement Realism Anchors*](core_06-06_standing_integration.md#10-enforcement-realism-anchors) where cited in §3.3; [Corpus, Authority Stack, Supremacy, and Enforceability](core_05-05_definitions_c_dependent_clusters.md#corpus-authority-stack-supremacy-and-enforceability-cluster) (*Chapter Five §3.11 cluster — read with [Corpus](core_05-05_definitions_b_semi_independent.md#corpus) for custody and adoption*).
 
 </details>
@@ -254,11 +254,11 @@ Where valid external law, regulation, or treaty obligation applicable to the ado
 
 *In plain terms: when outside requirements and constitutional floors seem impossible to square, say so on the record, tell **affected** **stakeholders** where it makes sense, try to sequence harm down — and never use the conflict as cover to comply only where it is easy or to dodge rights.*
 
-Where external requirements appear irreconcilable with constitutional rights floors or non-negotiable constraints, adopters must document the conflict. They must:
+Where external requirements appear irreconcilable with constitutional Rights Floors or non-negotiable constraints, adopters must document the conflict. They must:
 
 - notify materially affected stakeholders where appropriate.
 - pursue feasible harmonization and least-harm sequencing.
-- **not** treat external norms as a pretext for selective compliance, forum shopping, reincorporation arbitrage, or evasion of rights-floor obligations.
+- **not** treat external norms as a pretext for selective compliance, forum shopping, reincorporation arbitrage, or evasion of Rights-Floor obligations.
 
 Cross-jurisdiction coordination and anti-evasion execution follow **[corpus_systems.md](corpus_systems.md)**, **Protocol C — Justice Safeguards, Restitution, and Rehabilitation Implementation**. That Protocol includes Cross-Jurisdiction Execution and Anti-Evasion Controls. Execution also follows [Chapter Six, section 9 — *Enforcement Realism Anchors*](core_06-06_standing_integration.md#10-enforcement-realism-anchors), where applicable.
 
@@ -299,7 +299,7 @@ Adopters must cooperate in good faith with competent external tribunals and regu
 
 - Upstream: [§4.1](#41-good-faith-cooperation) cooperation duty.
 - Downstream: [Chapter Thirteen](core_11-13_amendment.md#chapter-thirteen-amendment-ratification-and-procedural-validity) procedural validity for waivers tied to adoption instruments.
-- Read with: [Article XXIII-A](core_09-09_rights_part_d.md) review and appeal safeguards referenced in operative text; [Chapter Seven, section 6.2 — *Rights-floor waivers and unconstitutional contract terms*](core_07-07_misconduct.md#62-rights-floor-waivers-and-unconstitutional-contract-terms).
+- Read with: [Article XXIII-A](core_09-09_rights_part_d.md) review and appeal safeguards referenced in operative text; [Chapter Seven, section 6.2 — *Rights-Floor waivers and unconstitutional contract terms*](core_07-07_misconduct.md#62-rights-floor-waivers-and-unconstitutional-contract-terms).
 
 </details>
 
@@ -307,7 +307,7 @@ Adopters must cooperate in good faith with competent external tribunals and regu
 
 *In plain terms: if an outside process cannot deliver timely, real protection, the constitution's own review and appeal routes stay open — boilerplate waivers demanded just to use a product or service do not erase those rights where the chapter applies.*
 
-Constitutional interpretation, appeal, and review pathways under **Article XXIII-A** remain available where external processes do not provide substitute protection within reasonable time and scope. Waivers of challenge rights, standing, or audit rights demanded as a condition of ordinary commercial convenience alone are **anti-constitutional misconduct** within the scope of [Chapter Seven, section 6.2 — *Rights-floor waivers and unconstitutional contract terms*](core_07-07_misconduct.md#62-rights-floor-waivers-and-unconstitutional-contract-terms), and are **never binding** where applicable. The same **non-binding** discipline applies to agreement terms that purport to waive rights-floor protections or to override binding constitutional obligations, as stated in that section.
+Constitutional interpretation, appeal, and review pathways under **Article XXIII-A** remain available where external processes do not provide substitute protection within reasonable time and scope. Waivers of challenge rights, standing, or audit rights demanded as a condition of ordinary commercial convenience alone are **anti-constitutional misconduct** within the scope of [Chapter Seven, section 6.2 — *Rights-Floor waivers and unconstitutional contract terms*](core_07-07_misconduct.md#62-rights-floor-waivers-and-unconstitutional-contract-terms), and are **never binding** where applicable. The same **non-binding** discipline applies to agreement terms that purport to waive Rights-Floor protections or to override binding constitutional obligations, as stated in that section.
 
 ---
 
@@ -348,7 +348,7 @@ This Constitution may be amended to improve protection, clarity, binding effect,
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [Chapter Thirteen](#chapter-thirteen-amendment-ratification-and-procedural-validity) validity stack; [Chapter Nine](core_09-09_rights_part_a.md#chapter-nine-foundational-rights) rights floor.
+- Upstream: [Chapter Thirteen](#chapter-thirteen-amendment-ratification-and-procedural-validity) validity stack; [Chapter Nine](core_09-09_rights_part_a.md#chapter-nine-foundational-rights) Rights Floor.
 - Downstream: [§2](#2-burden-of-justification-and-public-traceability) public justification; [§7](#7-review-triggers) automatic triggers list.
 - Read with: [Article XI](core_09-09_rights_part_b.md#article-xi-stakeholder-system-participation-representation-and-due-process) family for materially rights-affecting process design.
 
@@ -566,7 +566,7 @@ Adopters must maintain an identifiable instrument of adoption. Examples include 
 
 *In plain terms: new adopters can come aboard under published rules — but expanding the club cannot be a back door to dilute rights or challenge rights for those already **covered** without their genuine, procedurally valid consent.*
 
-Additional parties may **join** as adopters under rules published by existing adopters. **Joining** must not reduce rights floors or challenge rights for already-covered sentients without procedurally valid, informed participation. That participation must be consistent with Article X-B where participation weight applies.
+Additional parties may **join** as adopters under rules published by existing adopters. **Joining** must not reduce Rights Floors or challenge rights for already-covered sentients without procedurally valid, informed participation. That participation must be consistent with Article X-B where participation weight applies.
 
 ### 11. Amendment Procedure Requirements
 <details>
@@ -621,7 +621,7 @@ Amendments take effect only on a stated effective date or event recorded in the 
 
 - Upstream: [Chapter Eleven §4](core_11-13_amendment.md#4-scope-limit-and-layer-discipline) substantive-chapter mirror; [§7](#7-review-triggers) and [§9](#9-invalid-change-handling-and-remediation-continuity) trigger language scoped here.
 - Downstream: [Chapter Six](core_06-06_standing_classification.md#chapter-six-compliance-violation-and-standing-model) and [Chapter Seven](core_07-07_misconduct.md#chapter-seven-anti-constitutional-misconduct) remain sole canonical homes for listed taxonomies.
-- Read with: [core_09-09_rights_part_d.md](core_09-09_rights_part_d.md) Chapter Nine boundary-watch zone for the converse rights-floor discipline pattern.
+- Read with: [core_09-09_rights_part_d.md](core_09-09_rights_part_d.md) Chapter Nine boundary-watch zone for the converse Rights-Floor discipline pattern.
 
 </details>
 

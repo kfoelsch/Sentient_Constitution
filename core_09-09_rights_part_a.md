@@ -1,4 +1,4 @@
-# Sentient Constitution — Foundational rights (Part A)
+# Sentient Constitution — Foundational Rights (Part A)
 
 This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one instrument. It contains **Chapter Nine, Part A**; article numbering and cross-references match the integrated instrument. Reading order, the binding/support split, and corpus edition metadata are maintained in [README.md](README.md).
 
@@ -6,7 +6,7 @@ Upstream constitutional direction for this file begins in [core_00-01_principles
 
 ---
 ## CHAPTER NINE: FOUNDATIONAL RIGHTS
-This chapter is the constitutional owner of rights floors and rights-level interpretive scope.
+This chapter is the constitutional owner of Rights Floors and rights-level interpretive scope.
 
 Designated implementation layers operationalize these rights but must not narrow, redefine, or relocate them. The converse-direction discipline — **Chapter Nine** does not absorb process mechanics, governance details, or implementation obligations belonging to **Chapters Two through Four**, **Chapter Six**, **Chapter Seven**, **Chapter Eight**, **Chapter Ten**, **Chapter Eleven**, **Chapter Thirteen**, **Chapter Fourteen**, or any companion implementation layer — is stated in the closing **Scope Limit and Layer Discipline (Rights-Floor Boundary Watch)** section at the end of **Part D** and applies across **Parts A through D**.
 
@@ -110,12 +110,12 @@ The Earth's biophysical and living-system conditions are preconditions for every
 - **Preconditions, integrity, and sustainability:** **Environmental Preconditions**, **Ecological Integrity**, and **Sustainability** in Chapter Five are operative under this Article.
   - Life-supporting natural systems hold continuity and integrity interests of their own. Those interests inform interpretation alongside sentient interests.
   - Material degradation that violates this Article or binding environmental constraints is non-compliant where applicable.
-- **Animal life interaction:** [Animal Life](core_05-05_definitions_c_dependent_clusters.md#animal-life-constitutional) occupies the welfare-protection domain between **Natural Systems Standing** and the Chapter Nine rights floor for sentients.
+- **Animal life interaction:** [Animal Life](core_05-05_definitions_c_dependent_clusters.md#animal-life-constitutional) occupies the welfare-protection domain between **Natural Systems Standing** and the Chapter Nine Rights Floor for sentients.
   - It establishes minimum cruelty and welfare floors for animal life under **Sentience Non-Exclusion** where welfare-like harm is materially implicated.
   - It is not a substitute for sentience-status adjudication where the record materially implicates sentience.
 - **Contested-sentient life interaction:** [Contested-Sentient Life](core_05-05_definitions_c_dependent_clusters.md#contested-sentient-life-constitutional) applies under **Sentience Non-Exclusion** where sentience is uncertain, disputed, materially contested, or under adjudication.
   - It routes the question to the [Sentience Status Adjudication](core_05-05_definitions_c_dependent_clusters.md#sentience-status-adjudication-constitutional) procedure (owner article **Article V-E**).
-  - Under **Article V-E**, materially unsettled sentience status defaults to inclusion under the Chapter Nine rights floor unless the party seeking to withhold, narrow, or revoke protection satisfies the applicable burden.
+  - Under **Article V-E**, materially unsettled sentience status defaults to inclusion under the Chapter Nine Rights Floor unless the party seeking to withhold, narrow, or revoke protection satisfies the applicable burden.
   
   These references are definitional only. They do **not** narrow **Article I-A** protections; the Chapter Nine floor for entities determined sentient or default-included under **Article V-E** during adjudication; or the scope of **Natural Systems Standing**.
 
@@ -142,7 +142,7 @@ The Earth's biophysical and living-system conditions are preconditions for every
 *In plain terms: environmental costs tied to activities and systems—including upstream and downstream links—should be counted and reported honestly enough for comparison and audit when applicable transparency rules require it; this subsection supplies the shared vocabulary and integrity standards for doing that, but mandatory cuts or numeric caps come from other provisions or instruments, not from this subsection acting alone.*
 
 - **Footprint:** **Ecological Footprint** in Chapter Five defines how environmental burdens (energy, materials, emissions, land use, and cognate pressures) are **attributed** to a sentient actor, **System**, product, or service—including across **Dependency** relationships and a materially relevant lifecycle—and how those burdens support **disclosure**, **comparison**, and informed discussion of **footprint reduction**.
-  - **Scope on this floor:** the definition applies wherever those burdens are materially at issue under **Article I** or where footprint-related transparency is required or invoked under another rights-floor provision (including **Article XV-C** and related implementation companion rules). This subsection does not, by itself, fix accounting methods, verification protocols, or numeric targets; those follow the instrument that imposes the duty.
+  - **Scope on this floor:** the definition applies wherever those burdens are materially at issue under **Article I** or where footprint-related transparency is required or invoked under another Rights-Floor provision (including **Article XV-C** and related implementation companion rules). This subsection does not, by itself, fix accounting methods, verification protocols, or numeric targets; those follow the instrument that imposes the duty.
   - **Evaluation and reporting:** where footprint information must be produced or relied upon, assessment must be systemic for **Material Impact**, and presentation must satisfy **Transparency** and **Epistemic Integrity** as set out in Chapter Five.
   - **Reduction:** nothing in this Article **alone** creates a binding obligation to achieve footprint reduction; binding duties to reduce, cap, or remediate arise only when another constitutional provision, implementation companion, or applicable instrument expressly imposes them.
 
@@ -554,11 +554,11 @@ Procedural detail for **Article II** lives in companion text:
 
 *In plain terms: anyone who works — in any form, on any substrate — has rights to fair pay, the freedom to organize with others, safe conditions, and real time off. None of those can be defeated by classification tricks, market structure, or substrate-class arguments.*
 
-- **Labor and economic floor:** This Article states the rights-floor for productive and contributed activity of sentients under **Sentience Non-Exclusion** — waged, contracted, platformed, cooperative, or comparable.
+- **Labor and economic floor:** This Article states the Rights-Floor for productive and contributed activity of sentients under **Sentience Non-Exclusion** — waged, contracted, platformed, cooperative, or comparable.
   - Read this floor **on top of** the **Article III-A** survival floor, not as a substitute for it.
   - Satisfying the **Article III-A** survival floor alone does not satisfy this Article.
   - Satisfying the **Chapter One §5.1** non-concentration rule alone does not satisfy this Article.
-  - The rights-floor consists of four interlocking components, each defined in Chapter Five: **Fair Compensation**, **Collective Organization**, **Safe Conditions**, and **Leisure and Rest**.
+  - The Rights-Floor consists of four interlocking components, each defined in Chapter Five: **Fair Compensation**, **Collective Organization**, **Safe Conditions**, and **Leisure and Rest**.
 - **Fair compensation:** Compensation for productive activity must:
   - reach substantive adequacy under [Fair Compensation](core_05-05_definitions_b_semi_independent.md#fair-compensation-constitutional);
   - track [Substantive Fairness](core_05-05_definitions_b_semi_independent.md#substantive-fairness-constitutional) across comparable activity;
@@ -576,7 +576,7 @@ Procedural detail for **Article II** lives in companion text:
   - apply [Adversarial, Scaled, and Exploited Conditions](core_05-05_definitions_a_independent.md#adversarial-scaled-and-exploited-conditions) to foreseeable risk.
   
   Withholding **Safe Conditions** from sentients, or applying a weaker standard to them, because of substrate or implementation classification rather than materially comparable risk is non-compliant under **Sentience Non-Exclusion**.
-- **Leisure and rest:** Sentients hold a rights-floor entitlement to rest, recuperation, and non-productive time sufficient to preserve [Meaningful Agency](core_05-05_definitions_b_semi_independent.md#meaningful-agency), wellbeing, and participation capacity.
+- **Leisure and rest:** Sentients hold a Rights-Floor entitlement to rest, recuperation, and non-productive time sufficient to preserve [Meaningful Agency](core_05-05_definitions_b_semi_independent.md#meaningful-agency), wellbeing, and participation capacity.
   - Compensation and productivity-requirement schemes must not be structured to defeat this floor.
   - Treating rest and recuperation as optional based on substrate or implementation classification is non-compliant under **Sentience Non-Exclusion**.
 - **Non-concentration interaction:** **Chapter One §5.1** non-concentration discipline applies to productive-activity power structures, but it is distinct from this floor.
@@ -664,4 +664,4 @@ Those requirements protect shared infrastructure and the systems that depend on 
   - unused enforcement;
   - aggregation under federated structures used to evade.
   
-  See [Concentration Threshold](core_05-05_definitions_b_semi_independent.md#concentration-threshold-constitutional). This bullet only points to the principle-layer discipline; it does not create a new rights-floor and does not narrow **Article IV-A** or **Article IV-B**.
+  See [Concentration Threshold](core_05-05_definitions_b_semi_independent.md#concentration-threshold-constitutional). This bullet only points to the principle-layer discipline; it does not create a new Rights-Floor and does not narrow **Article IV-A** or **Article IV-B**.

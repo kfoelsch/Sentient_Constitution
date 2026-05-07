@@ -6,13 +6,13 @@
 
 This file is intentionally written in plain language with low jargon to improve accessibility, audit readability, and practical adoption testing.
 
-It defines institutional governance law: the operational rules for how institutions are formed, authorized, overseen, corrected, and dissolved within constitutional boundaries. It does not redefine constitutional terms, rights floors, or offense taxonomy.
+It defines institutional governance law: the operational rules for how institutions are formed, authorized, overseen, corrected, and dissolved within constitutional boundaries. It does not redefine constitutional terms, Rights Floors, or offense taxonomy.
 
 **Non-core Corpus Document**
 
 This file is part of the constitutional corpus as **binding incorporated implementation text** where **Corpus** designates it, incorporated through **Sentient Constitution Chapter Fourteen**.
 
-Canonical meaning for constitutional terms, rights floors, and definition-satisfaction rules remains in the Sentient Constitution and canonical owners in `doc_architecture.md`; nothing here transfers that authority.
+Canonical meaning for constitutional terms, Rights Floors, and definition-satisfaction rules remains in the Sentient Constitution and canonical owners in `doc_architecture.md`; nothing here transfers that authority.
 
 Shared preamble contract: apply `corpus_joint_structure.md` **CJS-1.1**.
 
@@ -93,7 +93,7 @@ Headings use **CI-1** through **CI-24** (*Corpus Institutions* section *n*). Sub
 Unless another reference pattern is stated, **Article** labels with Roman numerals in this file point to Sentient Constitution Chapter Nine in the `core_09-09_rights_part_*.md` files.
 
 ### CI-1.5: Anti-constitutional misconduct usage in this file
-Where this file refers to **anti-constitutional misconduct**, it means **verified** conduct that **materially breaches** the Sentient Constitution or binding incorporated rules within valid adoption scope. Assessment still occurs under **Sentient Constitution Chapters Two through Six** and adopting instruments where they apply. **Chapter Seven** (*Anti-Constitutional Misconduct*) in [core_07-07_misconduct.md](core_07-07_misconduct.md#chapter-seven-anti-constitutional-misconduct) supplies the final **Violation Axis s = 7, 8, or 9** criteria and slot labels for conduct within that chapter’s scope. This file does **not** create a parallel offense taxonomy or substitute labels for **Chapter Seven**. **General** classification on **Axes I and II** (contribution **state**, violation nature, standing effect) remains authoritative in **Chapter Six**, and final top-end anti-constitutional-misconduct slot labels remain authoritative in **Chapter Seven**.
+References in this file to **anti-constitutional misconduct** are routing shorthand only. Assessment remains under **Sentient Constitution Chapters Two through Six** and adopting instruments where they apply. **Chapter Seven** (*Anti-Constitutional Misconduct*) in [core_07-07_misconduct.md](core_07-07_misconduct.md#chapter-seven-anti-constitutional-misconduct) supplies the final **Violation Axis s = 7, 8, or 9** criteria and slot labels for conduct within that chapter's scope. This file does **not** create a parallel offense taxonomy or substitute labels for **Chapter Seven**. **General** classification on **Axes I and II** (contribution **state**, violation nature, standing effect) remains authoritative in **Chapter Six**, and final top-end anti-constitutional-misconduct slot labels remain authoritative in **Chapter Seven**.
 
 ### CI-1.6: Proportionality rule
 Institutional burden must scale with impact.
@@ -248,9 +248,7 @@ This subsection names **implementation-layer** trigger categories and routes so 
 
 Procedure rules here must remain consistent with `core_05-05_definitions_a_independent.md` **Chapter Five** (*Procedural Fairness*, *Contestability*, *Accountability*, *Redress and Remediation*) and with `core_02-04_definition_mechanics.md` **Chapter Four** verification and traceability rules. This chapter does not create a second offense-classification system.
 
-**Usage in this section.** **Representative treatment** means procedure in which one or more parties litigate one or more **common** questions for a broader affected group, subject to notice, adequacy, contestability, and any required subclassing, issue separation, or sentient-specific process. **Common decision rule** means a shared rule, policy logic, model behavior, institutional criterion, or comparable decision basis that materially drives outcomes across multiple affected parties.
-
-For cross-companion interoperability, read this usage block with `corpus_joint_structure.md` **CJS-3.12** (Tier 1 abstractions) while keeping CI procedural detail authoritative in this chapter.
+**Usage in this section.** **Representative treatment** uses the `corpus_joint_structure.md` **CJS-3.12** Tier 1 abstraction for resolving common questions for a broader affected group while preserving notice, adequacy, contestability, and sentient-specific process. **CI-6** adds the institutional procedure details below. **Common decision rule** is CI-local shorthand for a shared rule, policy logic, model behavior, institutional criterion, or comparable decision basis that materially drives outcomes across multiple affected parties.
 
 Due-process operationalization (**Article XI-D** — internal roles, accountability, and due-process requirements — interface) must include:
 - notice,
@@ -435,7 +433,7 @@ Institutions must not rely on unlabeled, ad hoc, or selectively applied sector c
 
 **Court floor.** Every **court family**, **tribunal**, or **adjudicative body** within **Chapter Eight** in `core_08-08_forum.md` is treated as **at least Class C** for **institutional design class** under this subsection—including for **internal chambers** and **designated panels**—regardless of whether other governed systems are labeled below Class C.
 
-**Delegated subunit** means a standing or recurring internal body (for example a division, chamber, committee, designated panel, or regional or functional office with decision rights) that exercises **materially binding** delegated authority for the parent institution and is **not** the institution's sole governing plenary.
+**Delegated subunit** is the CI-specific application of the `corpus_joint_structure.md` **CJS-3.12** **Delegated binding body** abstraction: a standing or recurring internal body (for example a division, chamber, committee, designated panel, or regional or functional office with decision rights) that exercises **materially binding** delegated authority for the parent institution and is **not** the institution's sole governing plenary.
 
 **Applicability.**
 - Where institutional design class is **Class C**, **Class B**, or **Class A**, each **delegated subunit** with materially binding authority must satisfy **CI-9.1B.1**. Each such subunit must satisfy **CI-9.1B.2** (hybrid composition joint minimum in **`corpus_joint_structure.md` CJS-3.7** plus **CI-9.1B.2** institution-specific rules), **CI-9.1B.3** (rotating attachment bounds for the rotating pole), and **CI-9.1B.4** (home-based term and renewal rules for the home-based pole).
@@ -686,7 +684,7 @@ Scenario-based continuity and succession stress tests must run on a cadence prop
 
 ### CI-14.2: Article XXV-D — trigger catalog, anti-abuse metrics, and publication requirements
 
-**Constitutional home:** **Chapter Nine**, **Article XXV-D** (*Non-Compliant Property, Seizure, Impoundment, Quarantine, Forfeiture, and Voluntary Turnover Incentives*). This subsection is **implementation-only**; it does not restate the rights floor.
+**Constitutional home:** **Chapter Nine**, **Article XXV-D** (*Non-Compliant Property, Seizure, Impoundment, Quarantine, Forfeiture, and Voluntary Turnover Incentives*). This subsection is **implementation-only**; it does not restate the Rights Floor.
 
 **Trigger catalog (for published transition and institution plans):**
 - **Compliance-linked deprivation** — seizure, impoundment, quarantine, or disposition tied to a **Chapter Six**-consistent or equivalent binding finding of non-compliance with applicable rules, with notice and contest paths as Article XXV-D requires.

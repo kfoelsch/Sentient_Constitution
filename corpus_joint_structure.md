@@ -10,7 +10,7 @@ This file is intentionally written in plain language with low jargon to improve 
 
 This file is part of the constitutional corpus as **binding incorporated implementation text** where **Corpus** designates it, incorporated through **Sentient Constitution Chapter Fourteen**.
 
-Canonical meaning for constitutional terms, rights floors, and definition-satisfaction rules remains in the Sentient Constitution and canonical owners in `doc_architecture.md`; nothing here transfers that authority.
+Canonical meaning for constitutional terms, Rights Floors, and definition-satisfaction rules remains in the Sentient Constitution and canonical owners in `doc_architecture.md`; nothing here transfers that authority.
 
 **File-specific implementation anchors**
 
@@ -50,7 +50,7 @@ Companion files should keep this contract concise by pointer and avoid repeating
 
 The shared contract is:
 
-- Inherit canonical meaning and do not redefine constitutional terms, rights floors, or O/E/C definition mechanics.
+- Inherit canonical meaning and do not redefine constitutional terms, Rights Floors, or O/E/C definition mechanics.
 - Add only domain-specific implementation detail within each file's assigned scope.
 - For cross-companion overlap on the same facts, apply **CJS-2** (read order and stricter-wins) and **CJS-3** (joint requirements).
 - Keep companion text usable under **Article XX** comprehensibility expectations.
@@ -240,7 +240,7 @@ Where **CJS-3.7** applies, rotating and home-based poles must follow these share
 Class-, court-, and institution-specific scaling, assurance gates, emergency deviation controls, and substitution safeguards remain in domain-owner sections (**CI-9.1B**, **CC-2.5**, **CC-11**, and related cited hooks).
 
 ### CJS-3.8 Implementation companion boundary (CP ↔ CJS seam)
-This file supplies the operative implementation text for its stable local labels. Those labels do not replace canonical constitutional definitions, rights floors, or owner-layer meanings elsewhere in the corpus.
+This file supplies the operative implementation text for its stable local labels. Those labels do not replace canonical constitutional definitions, Rights Floors, or owner-layer meanings elsewhere in the corpus.
 
 **Cross-domain implementation layer** in **`corpus_joint_structure.md`** is the **authoritative incorporated home** for **Implementation Groups One through Four** operative implementation text (meta-integrity through governance implementation labels).
 
@@ -584,7 +584,7 @@ Proportional application
 - OP-C: It is non-compliant to apply reduced degraded-mode controls where material harm or dependency exposure persists.
 
 ### CJS-3.20 Cross-companion interoperability, portability, and exit-integrity terms
-This subsection supplies CJS-local operational definitions for interoperability, portability, and exit integrity where lock-in risk, transition feasibility, interface controls, and dependency exposure depend on combined companion behavior. It is read with `corpus_joint_structure.md` **PRIM7**, **PRIM5**, **PRIM4**, `corpus_systems.md` **Chapter S1**, **Chapter S2**, **Chapter S3**, and constitutional hooks in the Sentient Constitution `core_*.md` files (see [README.md](README.md)) (**Article XIX**, **Article XV-A**, and related rights floors where materially implicated).
+This subsection supplies CJS-local operational definitions for interoperability, portability, and exit integrity where lock-in risk, transition feasibility, interface controls, and dependency exposure depend on combined companion behavior. It is read with `corpus_joint_structure.md` **PRIM7**, **PRIM5**, **PRIM4**, `corpus_systems.md` **Chapter S1**, **Chapter S2**, **Chapter S3**, and constitutional hooks in the Sentient Constitution `core_*.md` files (see [README.md](README.md)) (**Article XIX**, **Article XV-A**, and related Rights Floors where materially implicated).
 
 Cross-companion interoperability, portability, and exit-integrity terms (operational cluster head)
 - OP-O: Operational definition set for anti-lock-in safeguards, usable exit pathways, portability quality, interoperability reciprocity, innovation-boundary handling, and continuity-preserving transition controls.
@@ -597,7 +597,7 @@ Lock-in and anti-coercion safeguards
 - OP-C: It is non-compliant to retaliate against exit through service degradation, discriminatory penalties, or forfeiture conditions on portability or interoperability rights.
 
 Right-to-exit pathway integrity
-- OP-O: Exit is functionally available without violating foundational rights, with clear, time-bound pathways proportionate to impact, dependency, and feasibility.
+- OP-O: Exit is functionally available without violating Foundational Rights, with clear, time-bound pathways proportionate to impact, dependency, and feasibility.
 - OP-E: Evaluation must verify practical support for sentients and dependents to exit without undue delay, obstruction, coercion, loss of survival-critical access, or unjustified punitive standing effects.
 - OP-C: It is non-compliant where exit is nominal but functionally blocked or coercively constrained.
 
@@ -907,10 +907,10 @@ Testing and hardening cycle obligations
 - OP-E: Evaluation must verify known material vulnerabilities receive tracked remediation or explicit bounded risk treatment with review.
 - OP-C: Known material unaddressed vulnerabilities are non-compliant.
 
-Defense-boundary and rights-floor limits
+Defense-boundary and Rights-Floor limits
 - OP-O: Defensive measures remain rights-bounded, proportionate, transparent where feasible, auditable, independently reviewable/challengeable, and do not become security theater.
 - OP-E: Evaluation must verify defenses avoid disproportionate surveillance/coercion/restriction and do not create opaque, unchallengeable enforcement structures.
-- OP-C: It is non-compliant where defense architecture violates rights floors without lawful justification.
+- OP-C: It is non-compliant where defense architecture violates Rights Floors without lawful justification.
 
 Proportional application
 - OP-O: Adversarial-robustness obligations scale with impact on sentients/environment/info-sphere, dependency, and coordinated/systemic harm potential.
@@ -1211,7 +1211,7 @@ Shared preamble contract: apply **CJS-1.1**. For stable implementation-label cit
 **Implementation anchors**
 
 - **Intervention layering:** **PRIM8** (architecture-layer intervention) and **PROT2** (governance-layer intervention) remain distinct and jointly applicable where relevant.
-- **Canonical owners:** Constitutional rights floors, Chapter Nine default ordering, and governance definitions remain in the Sentient Constitution and Chapter Five. Text in this section implements those anchors and must not narrow them.
+- **Canonical owners:** Constitutional Rights Floors, Chapter Nine default ordering, and governance definitions remain in the Sentient Constitution and Chapter Five. Text in this section implements those anchors and must not narrow them.
 - **Meta home:** Meta-integrity elaboration is anchored in **Implementation Group One** below. Stable implementation-label subsections implement that layer and must not narrow it.
 - **Emergency and continuity routing:** Read **CJS-2** and **CJS-3.2** where systems, institutions, courts, and this section govern the same operational facts.
 
@@ -1500,7 +1500,7 @@ Principles: **Agency and Anti-Lock-In** through usable portability, reciprocal i
 
 **Canonical meaning:** This section states implementation-layer obligations for this domain, applied consistently with cited constitutional sources and without narrowing them.
 
-**Sentient Constitution Chapter Nine, Article XIX** (*Interoperability, Portability, and Exit Integrity*) and **Chapter Five** ([§3.20](core_05-05_definitions_c_dependent_clusters.md#governance-architecture-oversight-decentralization-and-concentration-cluster) *Governance Architecture, Oversight, Dependency…* — *Systemic Lock-In*, *Dependency*, and related exit-path and market-structure analysis where applicable; [§3.24](core_05-05_definitions_c_dependent_clusters.md#movement-refuge-non-statelessness-and-exit-integrity-cluster) *Movement, Refuge, Non-Statelessness, and Exit Integrity* where mobility, refuge, or exit-integrity predicates apply jointly) state the foundational rights and foreclosure conditions. **PRIM7** is the **architecture-layer** home for operational interoperability, usable portability, integration boundaries, exit-feasibility transparency, and transition continuity.
+**Sentient Constitution Chapter Nine, Article XIX** (*Interoperability, Portability, and Exit Integrity*) and **Chapter Five** ([§3.20](core_05-05_definitions_c_dependent_clusters.md#governance-architecture-oversight-decentralization-and-concentration-cluster) *Governance Architecture, Oversight, Dependency…* — *Systemic Lock-In*, *Dependency*, and related exit-path and market-structure analysis where applicable; [§3.24](core_05-05_definitions_c_dependent_clusters.md#movement-refuge-non-statelessness-and-exit-integrity-cluster) *Movement, Refuge, Non-Statelessness, and Exit Integrity* where mobility, refuge, or exit-integrity predicates apply jointly) state the Foundational Rights and foreclosure conditions. **PRIM7** is the **architecture-layer** home for operational interoperability, usable portability, integration boundaries, exit-feasibility transparency, and transition continuity.
 
 **PROT4** governs justified limits on integration or export. Read this section together with **PRIM5** for dependency mapping and disclosure, and with **PRIM4**, **Article XV-A**, and **[corpus_systems.md](corpus_systems.md), Chapter S1 — Information Types and Handling** (Types **I** and **H**) where portability, attribution, or handling constraints apply.
 
@@ -1543,7 +1543,7 @@ Principles: **Truth, Accountability, and Proportional Access** through tiered tr
 
 Articles: Apply with **Sentient Constitution Chapter Nine, Articles V through IX** (rights-impacting systems), **Article VII-B** (internal-state boundary), and **Article XV-A** (auditability floor).
 
-**Constitutional anchor:** Systems that **materially** affect foundational rights under **Chapter Nine, Articles V through IX** must maintain records and disclosures that enable **PRIM4**-grade participation, **PRIM9** verification, and evaluation of **risk**, **dependency**, and **systemic** effects.
+**Constitutional anchor:** Systems that **materially** affect Foundational Rights under **Chapter Nine, Articles V through IX** must maintain records and disclosures that enable **PRIM4**-grade participation, **PRIM9** verification, and evaluation of **risk**, **dependency**, and **systemic** effects.
 
 **Definitions:** Apply with **Chapter Five** definitions for *Transparency*, *Epistemic Integrity*, *Trustworthiness*, and *Protected Internal-State Boundary*.
 
@@ -1624,7 +1624,7 @@ Articles: Apply with **Sentient Constitution Chapter Nine, Articles XXIV-A and X
 
 All covered systems and structures must **undergo periodic revalidation**, remain **subject to challenge and replacement**, and preserve enough auditability and verification to test whether continued legitimacy still exists.
 
-**Failure to evolve** in response to **new capabilities**, **identified risks**, or **superior alternatives** may trigger **review**, **reauthorization**, or **replacement** under applicable **PROT6**, **Articles XXIV-A and XXIV-B**, **Chapters Eleven through Thirteen**, **Chapter Nine** rights floors, and related **Chapter Five** definitions where materially relevant.
+**Failure to evolve** in response to **new capabilities**, **identified risks**, or **superior alternatives** may trigger **review**, **reauthorization**, or **replacement** under applicable **PROT6**, **Articles XXIV-A and XXIV-B**, **Chapters Eleven through Thirteen**, **Chapter Nine** Rights Floors, and related **Chapter Five** definitions where materially relevant.
 
 ---
 ## IMPLEMENTATION GROUP FOUR: GOVERNANCE
@@ -1705,7 +1705,7 @@ Principles: **Procedural Fairness, Contestability, and Timeliness** through due 
 
 `PROT6` states the implementation-layer minimum for procedural integrity and adjudication-related governance role. Detailed court, institution, and cross-companion implementation remains with the canonical owner files.
 
-Procedural integrity translates constitutional principles into consistent, enforceable outcomes under real-world conditions. Foundational rights affected by such processes remain governed by **Sentient Constitution Chapter Nine**. **Article XXIII** and **Article XXIII-A** supply substantive justice requirements, and **Chapter Five** supplies the governing definitions, including *Adjudication and Dispute Resolution* and *Procedural Fairness*, read with the **Chapter Five** clustered definition *Accountability, Contestability, Adjudication and Dispute Resolution, Collective Accountability Failure, and Force Majeure* where attribution, challenge, adjudication, excuse claims, or collective failure modes are materially implicated.
+Procedural integrity translates constitutional principles into consistent, enforceable outcomes under real-world conditions. Foundational Rights affected by such processes remain governed by **Sentient Constitution Chapter Nine**. **Article XXIII** and **Article XXIII-A** supply substantive justice requirements, and **Chapter Five** supplies the governing definitions, including *Adjudication and Dispute Resolution* and *Procedural Fairness*, read with the **Chapter Five** clustered definition *Accountability, Contestability, Adjudication and Dispute Resolution, Collective Accountability Failure, and Force Majeure* where attribution, challenge, adjudication, excuse claims, or collective failure modes are materially implicated.
 
 **PROT6** is the governance-layer home for due-process requirements, reviewability, correction access, and procedural safeguards for binding outcomes. It states those process properties by reference only and must **not** redefine, narrow, or substitute the constitutional sources or rights.
 

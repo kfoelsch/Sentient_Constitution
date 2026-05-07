@@ -71,6 +71,9 @@ _BREACH_FAMILY = re.compile(
 
 _MINIMA_WORD = re.compile(r"\bminima\b", re.IGNORECASE)
 
+_RIGHTS_FLOOR_CASING = re.compile(r"\b(?:rights floor|rights floors|rights-floor)\b")
+_FOUNDATIONAL_RIGHTS_CASING = re.compile(r"\b(?:Foundational rights|foundational rights)\b")
+
 _MALFORMED_CONSTITUTIONAL: list[tuple[str, re.Pattern[str]]] = [
     ("dangling-this-constitutional", re.compile(r"\bthis constitutional\.")),
     ("implement-this-constitutional-period", re.compile(r"\bimplement this constitutional\.")),
@@ -282,6 +285,71 @@ def scan_avoid_minima(rel_path: str, text: str) -> list[Finding]:
     return findings
 
 
+def _mask_inline_code_and_link_targets(line: str) -> str:
+    """Hide inline code and Markdown link destinations while preserving link text."""
+    chars = list(line)
+    idx = 0
+    while idx < len(chars):
+        if chars[idx] == "`":
+            end = line.find("`", idx + 1)
+            if end == -1:
+                for mask_idx in range(idx, len(chars)):
+                    chars[mask_idx] = " "
+                break
+            for mask_idx in range(idx, end + 1):
+                chars[mask_idx] = " "
+            idx = end + 1
+            continue
+        if chars[idx] == "]" and idx + 1 < len(chars) and chars[idx + 1] == "(":
+            end = line.find(")", idx + 2)
+            if end == -1:
+                for mask_idx in range(idx + 1, len(chars)):
+                    chars[mask_idx] = " "
+                break
+            for mask_idx in range(idx + 1, end + 1):
+                chars[mask_idx] = " "
+            idx = end + 1
+            continue
+        idx += 1
+    return "".join(chars)
+
+
+def scan_load_bearing_capitalization(rel_path: str, text: str) -> list[Finding]:
+    """Require load-bearing **Rights Floor** / **Foundational Rights** casing outside links and code."""
+    findings: list[Finding] = []
+    lines = text.splitlines()
+    in_fence = False
+
+    for idx, raw in enumerate(lines, start=1):
+        if raw.strip().startswith("```"):
+            in_fence = not in_fence
+            continue
+        if in_fence:
+            continue
+
+        check_line = _mask_inline_code_and_link_targets(raw)
+        if _RIGHTS_FLOOR_CASING.search(check_line):
+            findings.append(
+                Finding(
+                    file=rel_path,
+                    line=idx,
+                    rule="load-bearing-rights-floor-casing",
+                    text=raw.strip(),
+                ),
+            )
+        if _FOUNDATIONAL_RIGHTS_CASING.search(check_line):
+            findings.append(
+                Finding(
+                    file=rel_path,
+                    line=idx,
+                    rule="load-bearing-foundational-rights-casing",
+                    text=raw.strip(),
+                ),
+            )
+
+    return findings
+
+
 def scan_malformed_constitutional_phrasing(rel_path: str, text: str) -> list[Finding]:
     """Flag grammar glitches from bad ``constitutional`` compounding (prefer **this Constitution** or *constitutionally* …)."""
     findings: list[Finding] = []
@@ -322,6 +390,8 @@ def report_markdown(run_date: str, scope: list[str], findings: list[Finding]) ->
         "- **`avoid-accession-jargon`:** reject **accede**, **acceding**, and **accession** → prefer **join** / **joining** / **additional parties** adoption wording.",
         "- **`avoid-undefined-breach-family`:** reject standalone **breach** / **breaches** / **breached** / **breaching**, **duty breach**, and **duty-breaching** → prefer **violation**, **non-compliance**, **unmet duties**, or defined Chapter Six typing (see `.cursor/rules/clarity.mdc`). *Currently enforced only on files in `_BREACH_FAMILY_SCOPE` inside `tools/lexical_vocabulary_audit.py`.*",
         "- **`avoid-minima`:** reject **minima** → prefer **requirements**, **floors**, **conditions**, or another context-specific term.",
+        "- **`load-bearing-rights-floor-casing`:** reject lowercase **rights floor**, **rights floors**, and **rights-floor** outside Markdown link targets and inline code → use **Rights Floor**, **Rights Floors**, or **Rights-Floor** for the named Chapter Nine layer.",
+        "- **`load-bearing-foundational-rights-casing`:** reject **Foundational rights** / **foundational rights** outside Markdown link targets and inline code → use **Foundational Rights** when naming the Chapter Nine title or layer.",
         "",
         "## Scope",
     ]
@@ -378,6 +448,7 @@ def main() -> int:
         findings.extend(scan_prefer_sentients_not_people_phrasing(rel_path, text))
         findings.extend(scan_avoid_accession_jargon(rel_path, text))
         findings.extend(scan_avoid_minima(rel_path, text))
+        findings.extend(scan_load_bearing_capitalization(rel_path, text))
         if rel_path in _BREACH_FAMILY_SCOPE:
             findings.extend(scan_avoid_breach_family(rel_path, text))
 

@@ -162,14 +162,40 @@ Assessment:
 - Primary: Truth (Constitutional Constraint); Epistemic Integrity.
 - Supporting: Foreseeability; Dependency.
 - Evidence: Materiality.
-- Boundary: Scientific integrity is a reference discipline, not a freestanding exclusive procedure.
+- Boundary: Scientific integrity is now routed through §3.3 as a support discipline for Safety and Truth, not a freestanding exclusive procedure.
 - Possible overlap: Truth, Epistemic Integrity, Transparency, Auditability, and Trustworthiness are close but not identical.
 
 Drafting implication:
 
 This section is conceptually strong. The map should preserve the distinction between truthfulness as a constraint, epistemic integrity as method/structure, and transparency/auditability as access mechanisms.
 
-### 3.3 Plain-Language Accessibility
+### 3.3 Science-Informed Inquiry and Decision Support
+
+Current core attachments:
+
+- Safety (Constraint)
+- Truth (Constitutional Constraint)
+- Epistemic Integrity
+- Risk
+- Materiality
+- Dependency
+- Foreseeability
+- Classification-Scaled Governance
+- Auditability
+
+Assessment:
+
+- Primary: Safety (Constraint); Truth (Constitutional Constraint); Epistemic Integrity.
+- Supporting: Risk; Materiality; Dependency; Foreseeability.
+- Evidence: Auditability; Chapter Four proof.
+- Collision: Classification-Scaled Governance and section 6.2 disclosure constraints govern how rigor, access, safety-sensitive limits, and review scale.
+- Boundary: Science-informed inquiry supports Safety and Truth; it is not a third non-negotiable constraint or an exclusive method for every decision.
+
+Drafting implication:
+
+This section should keep empirical claims tied to both safety-risk discipline and truth/epistemic-integrity discipline. It should require methods, uncertainty treatment, conflicting-evidence handling, and revision while preserving safety-sensitive disclosure limits through reviewable safeguards.
+
+### 3.4 Plain-Language Accessibility
 
 Current core attachments:
 

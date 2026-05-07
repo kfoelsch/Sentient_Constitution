@@ -130,7 +130,7 @@ When readability and enforceability tension:
 
 ### Read Eleven–Thirteen as one checklist
 
-1. **Non-regression floor (Ch 11):** Amendments cannot materially weaken foundational constraints, integrity requirements, or Chapter Nine rights floors.
+1. **Non-regression floor (Ch 11):** Amendments cannot materially weaken foundational constraints, integrity requirements, or Chapter Nine Rights Floors.
 
 2. **Procedural and custody validity (Ch 13):** Amendment attempts fail if publication, authority-chain / custody, or contestability / review requirements are not met.
 

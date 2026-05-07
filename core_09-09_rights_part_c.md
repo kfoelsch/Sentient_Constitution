@@ -1,4 +1,4 @@
-# Sentient Constitution — Foundational rights (Part C)
+# Sentient Constitution — Foundational Rights (Part C)
 
 This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one instrument. It contains **Chapter Nine, Part C**; article numbering and cross-references match the integrated instrument. Reading order, the binding/support split, and corpus edition metadata are maintained in [README.md](README.md).
 
@@ -221,15 +221,15 @@ Trustworthiness must be evaluated across time, scale, and dependency relationshi
 - **Safe-failure preference:** Where correct recovery is uncertain, safe failure, quarantine, or controlled handoff must be preferred over speculative auto-repair. [Reversibility](core_05-05_definitions_a_independent.md#reversibility-constitutional) preference under **Article XXI-B** governs tie-breaking.
 - **Non-masking:** Automatic recovery must not suppress, overwrite, or delay evidence needed for root-cause analysis under **Article XXI**.
   - Recovery actions, recovery attempts, and suppressed recovery attempts are themselves auditable events under **Article XV-A** and are within the scope of [Contestability](core_05-05_definitions_b_semi_independent.md#contestability).
-- **Rights-floor continuity:** Degraded operating modes must preserve the **Chapter Nine** rights floor, or must escalate rather than silently narrow it.
-  - Silent narrowing of rights-floor guarantees under the banner of self-healing is non-compliant. It is governed by **Article XII-C** (prohibition of false trust) and **Article XXV** (transition governance).
+- **Rights-Floor continuity:** Degraded operating modes must preserve the **Chapter Nine** Rights Floor, or must escalate rather than silently narrow it.
+  - Silent narrowing of Rights-Floor guarantees under the banner of self-healing is non-compliant. It is governed by **Article XII-C** (prohibition of false trust) and **Article XXV** (transition governance).
 - **Autonomy scaling:** Autonomous recovery by high-autonomy systems is subject to **Article XII-E**.
   - Recovery authority must not be used to bypass [Contestability](core_05-05_definitions_b_semi_independent.md#contestability), challenge under **Article XII-B**, or independent verification under **Article XV**.
 - **Root-cause closure:** Self-healing that succeeds operationally but leaves a known defective condition in place is a conditional state, not a final one. It must carry:
   - an open root-cause obligation under **Article XXI**;
   - a disclosed expected-closure timeline under **Article XV-A**.
   
-  Reducing operator burden consistent with [Avoidable Burden](core_05-05_definitions_a_independent.md#avoidable-burden) under **Chapter One §6.1.4** must not be used to defer indefinite closure of defects that materially affect safety or the rights floor.
+  Reducing operator burden consistent with [Avoidable Burden](core_05-05_definitions_a_independent.md#avoidable-burden) under **Chapter One §6.1.4** must not be used to defer indefinite closure of defects that materially affect safety or the Rights Floor.
 
 ### Article XIII: Security, Intelligence, Force, and Autonomous Coercive Systems
 
@@ -244,7 +244,7 @@ Trustworthiness must be evaluated across time, scale, and dependency relationshi
 
 <br>
 
-This Article states the rights-floor for **exceptional institutional power**: covert intelligence and security activity (**Article XIII-A**), overt force and military power (**Article XIII-B**), and autonomous lethal systems and autonomous coercion tools (**Article XIII-C**). It is placed immediately after **Article XII** because reliability, contestability, and recovery discipline at the systems layer (**Article XII-A** through **Article XII-F**) materially bear on how such power may be exercised and overseen. Read **Article IX-A** (*Agency and Freedom from Manipulation*) alongside **Article XIII-A** on surveillance and covert collection.
+This Article states the Rights-Floor for **exceptional institutional power**: covert intelligence and security activity (**Article XIII-A**), overt force and military power (**Article XIII-B**), and autonomous lethal systems and autonomous coercion tools (**Article XIII-C**). It is placed immediately after **Article XII** because reliability, contestability, and recovery discipline at the systems layer (**Article XII-A** through **Article XII-F**) materially bear on how such power may be exercised and overseen. Read **Article IX-A** (*Agency and Freedom from Manipulation*) alongside **Article XIII-A** on surveillance and covert collection.
 
 #### Article XIII-A: Security, Intelligence, and Covert-Power Limits
 <details>
@@ -359,7 +359,7 @@ This Article states the rights-floor for **exceptional institutional power**: co
 
 *In plain terms: armed force is an exception, not a default. It must be authorized, narrow, proportionate, and reviewable. It must never be used as a back door to irreversible sanction, and it cannot be dressed up as emergency to escape review.*
 
-- **Overt-force floor:** This Article states the rights-floor for overt use of force, armed conflict, and military-power deployment.
+- **Overt-force floor:** This Article states the Rights-Floor for overt use of force, armed conflict, and military-power deployment.
   - It applies under **Sentience Non-Exclusion** to both force-users and force-affected sentients.
   - It is the overt-power counterpart to **Article XIII-A** (*Security, Intelligence, and Covert-Power Limits*) and is read together with it.
   - Use of force is constitutionally exceptional. Authorization, conduct, and review are subject to **Necessity**, **Proportionality**, narrow tailoring, time-bounding, and independent-review discipline.
@@ -447,8 +447,8 @@ This Article states the rights-floor for **exceptional institutional power**: co
 - **Existential-risk interaction:** Autonomous lethal systems at scales, capability levels, or deployment conditions materially implicating **Article I-D** existential-risk scrutiny are subject to that provision's heightened review.
   - Framings that treat such systems as ordinary capability-expansion rather than as **Article I-D** objects are non-compliant.
 - **Systems-layer interaction:** Operational classification, reliability, and **Chapter S2** class-scaled governance route to the systems layer — **Article XII-A** baseline and **[corpus_systems.md](corpus_systems.md), Chapter S2**.
-  - The systems-layer routing does not narrow the rights-floor stated here.
-  - Conflicts resolve under **Chapter One §6.4.1** without narrowing the rights floor.
+  - The systems-layer routing does not narrow the Rights-Floor stated here.
+  - Conflicts resolve under **Chapter One §6.4.1** without narrowing the Rights Floor.
 - **Non-conflation:** This Article sets heightened-scrutiny floor discipline for autonomous lethal systems and autonomous coercion tools. It does **not** govern **irreversible deprivation of life imposed by a state or comparable actor as sanction, punishment, or comparable non-combat outcome**.
   - Nothing in this Article authorizes such deprivation, broadens any existing authority to impose it, or supplies a constitutional predicate for it.
   - This rule holds whether the decision is made by a human operator, by an autonomous system, or by a hybrid human–system pipeline. Automating, delegating, or routing the decision through an autonomous system does not create a read-across into this Article.
@@ -1145,7 +1145,7 @@ It must remain distinct from:
 - **Movement and relocation floor:** All sentients hold the right to move within and between jurisdictions, federations, and adopter regimes, and to relocate where continued presence materially impairs:
   - survival;
   - dignity;
-  - rights-floor access;
+  - Rights-Floor access;
   - freedom from manipulation.
   
   The floor applies under **Sentience Non-Exclusion**.
@@ -1153,16 +1153,16 @@ It must remain distinct from:
     - physical movement for biological sentients;
     - operationally equivalent forms for synthetic and hybrid sentients (relocation of instance, hosting-substrate change, or equivalent), subject to **Chapter One** safety and continuity constraints.
 - **Refuge from non-compliance:** A sentient facing a jurisdiction, federation, or adopter regime whose practice is materially non-compliant with this Constitution holds a right to seek refuge in a compliant regime.
-  - The receiving regime's duty to consider and — where consistent with its own rights-floor — grant refuge is stated here.
+  - The receiving regime's duty to consider and — where consistent with its own Rights-Floor — grant refuge is stated here.
   - Operational procedures for cross-regime recognition route to incorporated implementation text under **Chapter Fourteen** and must not narrow this floor.
   - Refuge may not be denied on the ground that the claimant's substrate class differs from substrate classes the receiving regime ordinarily hosts, consistent with [Sentience Non-Exclusion](core_05-05_definitions_c_dependent_clusters.md#sentience-non-exclusion).
 - **Non-statelessness:** No sentient may be rendered without a regime that will:
-  - recognize their baseline rights-floor;
+  - recognize their baseline Rights-Floor;
   - adjudicate their standing;
   - provide **Redress and Remediation** pathways.
   
   Parent-system collapse, adopter withdrawal, federation exit, or comparable structural discontinuity does not extinguish a sentient's Chapter Nine protection. Transitional recognition must be arranged consistent with **Article XXV** transition governance.
-- **Distinction from Article XIX:** **Article XIX** is interoperability, portability, and exit integrity — the operational counterpart. This Article is the rights-floor counterpart for physical, jurisdictional, and regime-to-regime movement.
+- **Distinction from Article XIX:** **Article XIX** is interoperability, portability, and exit integrity — the operational counterpart. This Article is the Rights-Floor counterpart for physical, jurisdictional, and regime-to-regime movement.
   - Where the same action implicates both — for example, a synthetic sentient relocating across federations through substrate portability — both Articles apply without either narrowing the other.
   - Conflicts resolve under **Chapter One §6.4.1**.
 - **Limitations discipline:** Limitations on movement, migration, or refuge must satisfy **Chapter One §6.3** freedom-limitation constraints: **Necessity**, **Proportionality**, narrow tailoring, and least-restrictive-effective means.
@@ -1179,7 +1179,7 @@ It must remain distinct from:
   - delay regimes designed to exhaust claimants;
   - credentialing regimes functioning as substrate-class exclusion;
   - allocation regimes that route claimants to non-equivalent services.
-- **Non-conflation:** This Article states a rights floor.
+- **Non-conflation:** This Article states a Rights Floor.
   - Cross-federation recognition procedure routes to `corpus_institutions.md`.
   - Substrate-portability mechanics route to **Article XIX**.
   - Transitional-recognition mechanics route to **Article XXV**.
@@ -1309,7 +1309,7 @@ Avoidable complexity that degrades the productive capacity of sentients or share
 That clause does **not** authorize reducing complexity, process, or disclosure where such reduction would weaken:
 - Safety;
 - Truth;
-- rights-floor protections;
+- Rights-Floor protections;
 - audit;
 - contestability;
 - retrospective-review obligations.
@@ -1503,8 +1503,8 @@ Final **constitutional** interpretation must remain authoritative, bounded, audi
 
 - **Bounded mandate:** **Constitutional** forums may issue binding interpretive determinations only on a bounded set of topics:
   - **constitutional** scope;
-  - rights-floor compatibility;
-  - conflict resolution under **Chapters One through Eight**, including foundational rights in **Chapter Nine**.
+  - Rights-Floor compatibility;
+  - conflict resolution under **Chapters One through Eight**, including Foundational Rights in **Chapter Nine**.
 - **Limits:** Constitutional forums and their panels must not:
   - assume open-ended policy control;
   - assume operational command;
@@ -1578,11 +1578,11 @@ Final **constitutional** interpretation must remain authoritative, bounded, audi
   Confidentiality exceptions must be narrow, time-bounded, and justified under **Chapter One** constraints.
 - **Independent challenge and external review:** Affected stakeholders must have standing to seek secondary review through an independent pathway.
   - The pathway must be structurally separate from the originating decision body.
-  - It must be capable of correction, suspension, or reversal where material error, capture, or rights-floor breach is shown.
+  - It must be capable of correction, suspension, or reversal where material error, capture, or Rights-Floor breach is shown.
 - **Mandatory external review:** Independent external review at defined intervals is mandatory. It must assess:
   - capture indicators;
   - decision quality;
-  - rights-floor integrity.
+  - Rights-Floor integrity.
 #### Article XXII-D: Removal for Cause and Non-Entrenchment
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>

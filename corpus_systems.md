@@ -21,7 +21,7 @@ This file is intentionally written in plain language with low jargon to improve 
 
 This file is part of the constitutional corpus as **binding incorporated implementation text** where **Corpus** designates it, incorporated through **Sentient Constitution Chapter Fourteen**.
 
-Canonical meaning for constitutional terms, rights floors, and definition-satisfaction rules remains in the Sentient Constitution and canonical owners in `doc_architecture.md`; nothing here transfers that authority.
+Canonical meaning for constitutional terms, Rights Floors, and definition-satisfaction rules remains in the Sentient Constitution and canonical owners in `doc_architecture.md`; nothing here transfers that authority.
 
 Shared preamble contract: apply `corpus_joint_structure.md` **CJS-1.1**.
 
@@ -273,13 +273,13 @@ Recovery paths must **not** be permitted to suppress, overwrite, delay, or obscu
 
 Independent verification must be able to reconstruct **both** the recovery path and what the recovery path handled or suppressed.
 
-**Rights-floor continuity in degraded and recovering states:** Degraded operating modes must preserve the **Chapter Nine** rights floor, or must escalate rather than silently narrow it. Silent narrowing of Chapter Nine guarantees under the banner of self-healing is non-compliant under **Article XII-F**'s Rights-Floor Continuity bullet and **Article XII-C** (prohibition of false trust). Degraded-mode designs that curtail contestability intake, Article XV-A audit fidelity, Article XII-B challenge acknowledgment, or comparable floor protections must be treated as **Article XXV** transition-governance territory and disclosed accordingly.
+**Rights-Floor continuity in degraded and recovering states:** Degraded operating modes must preserve the **Chapter Nine** Rights Floor, or must escalate rather than silently narrow it. Silent narrowing of Chapter Nine guarantees under the banner of self-healing is non-compliant under **Article XII-F**'s Rights-Floor Continuity bullet and **Article XII-C** (prohibition of false trust). Degraded-mode designs that curtail contestability intake, Article XV-A audit fidelity, Article XII-B challenge acknowledgment, or comparable floor protections must be treated as **Article XXV** transition-governance territory and disclosed accordingly.
 
-Participant-facing disclosure during degraded and recovering operation must accurately describe the state as a rights-floor-affected state where it is one, consistent with **Article XII-C** and **Article XV-A**.
+Participant-facing disclosure during degraded and recovering operation must accurately describe the state as a Rights-Floor-affected state where it is one, consistent with **Article XII-C** and **Article XV-A**.
 
 **Root-cause closure discipline:** Self-healing that succeeds operationally but leaves a known defective condition in place is a conditional state, not a final one. Operators must maintain an **open root-cause obligations register** recording recurring fault classes, confidence levels, material uncertainties, and disclosed expected-closure timeline per **Article XV-A**.
 
-Recurrence of the same fault class across cycles must be treated as a single open root-cause obligation and not as closure of each incident. Reducing operator burden consistent with **Avoidable Burden** under **Chapter One §6.1.4** must not be used to defer indefinite closure of defects that materially affect safety or the rights floor.
+Recurrence of the same fault class across cycles must be treated as a single open root-cause obligation and not as closure of each incident. Reducing operator burden consistent with **Avoidable Burden** under **Chapter One §6.1.4** must not be used to defer indefinite closure of defects that materially affect safety or the Rights Floor.
 
 **High-autonomy recovery (Article XII-E pointer):** Autonomous recovery by high-autonomy systems is subject to **Article XII-E**. Recovery authority must not be used to bypass [Contestability](core_05-05_definitions_b_semi_independent.md#contestability), challenge under **Article XII-B**, or independent verification under **Article XV-A** and Article XV's verification-access provisions. Internalization of contestability intake, audit-event emission, or external-review pathways during recovery is prohibited; such channels must remain materially external or independently verifiable.
 
@@ -435,7 +435,7 @@ This subsection implements **non-degrading lived conditions** and **continuity o
 
 **Cross-layer coordination:** Courts and institutions must treat **Protocol C** validation records and **review cadence** as **first-class inputs** to **court** and **institutional** performance requirements (`corpus_forum.md` **CC-10**; `corpus_institutions.md` **CI-6**, **CI-12**, **CI-13**). **Solitary** or **sensory-restrictive** measures framed as **safety** require **independent** or **secondary** **review** on a **schedule** published in advance; **endless deferral** of review is **non-compliant** where a **review date** or **sunset** was **predicated** at imposition.
 
-**Read with:** **Article XXIII-B**, **Article XXIII-C**, and **Article XXIII-F** (rights-floor homes); **Article VII-C** (crisis-intervention boundaries); **Article XXIII** and **Article XXIII-A** (proportionality, justice objective, and restoration); **Protocol C** sections **2–5** above; `corpus_institutions.md` **CI-17** through **CI-20** where **community**, **care**, and **relational-autonomy** supports intersect restriction contexts.
+**Read with:** **Article XXIII-B**, **Article XXIII-C**, and **Article XXIII-F** (Rights-Floor homes); **Article VII-C** (crisis-intervention boundaries); **Article XXIII** and **Article XXIII-A** (proportionality, justice objective, and restoration); **Protocol C** sections **2–5** above; `corpus_institutions.md` **CI-17** through **CI-20** where **community**, **care**, and **relational-autonomy** supports intersect restriction contexts.
 
 ## CHAPTER S1 — INFORMATION TYPES AND HANDLING
 
@@ -444,7 +444,7 @@ This subsection implements **non-degrading lived conditions** and **continuity o
 Requirements and limitations scale proportionally with system classification and potential impact. They must impose proportionate safeguards on publication within their boundaries where necessary to preserve trust, safety, and constitutional compliance.
 
 ### I. Purpose and scope
-**Sentient Constitution Chapter Nine** (Articles **I**–**XXV**; presentation **Parts A–D**) states foundational rights that depend upon strong, reproducible procedures and governance. That includes info-sphere, audit, and comprehensibility hooks where they apply to data handling (e.g., **Articles XIV**, **XV**, and **XX**).
+**Sentient Constitution Chapter Nine** (Articles **I**–**XXV**; presentation **Parts A–D**) states Foundational Rights that depend upon strong, reproducible procedures and governance. That includes info-sphere, audit, and comprehensibility hooks where they apply to data handling (e.g., **Articles XIV**, **XV**, and **XX**).
 
 Therefore, all data must be identified as belonging to one or more of the types defined in Chapter S1 — Information Types and Handling. Where multiple classifications apply, the most restrictive applicable protections govern, subject to proportionality (**PROT1**).
 
@@ -490,7 +490,7 @@ Higher-impact systems and actions require **greater transparency (`corpus_joint_
 
 **2. Most restrictive applicable classification governs.** Where data falls under multiple classifications, the most restrictive applicable protections govern.
 
-Reductions in protection may occur only through **proportional application (**PROT1**)** and **justified, documented override (**PROT4**)**. Systems must **not** selectively apply less restrictive classifications to enable access, processing, or disclosure that would otherwise be prohibited.
+Reductions in protection may occur only through **proportional application** (**PROT1**) and **justified, documented override** (**PROT4**). Systems must **not** selectively apply less restrictive classifications to enable access, processing, or disclosure that would otherwise be prohibited.
 
 **3. Tiered transparency and audit access.** Data access must satisfy `corpus_joint_structure.md` **CJS-3.23** for balancing transparency, auditability, and protected-boundary constraints.
 
@@ -512,7 +512,7 @@ All material transformations must remain **transparent (`corpus_joint_structure.
 
 All data must be **periodically re-evaluated** for appropriate classification (`corpus_joint_structure.md` **CJS-3.26**). **It** must be **reclassified** whenever necessary to maintain alignment with constitutional requirements. **It** must be **stored** in alignment with its classification, including **duration limits** proportional to purpose, risk, and stakeholder impact.
 
-Reclassification must **preserve the highest applicable protections** unless reduced through **justified override (**PROT4**)**. **It** must remain **transparent and documented** and stay **subject to audit and challenge**. **No** system may **rely on outdated classification** to justify continued access or reduced protection. **No** system may **delay or avoid reclassification** where material changes in impact or use have occurred.
+Reclassification must **preserve the highest applicable protections** unless reduced through **justified override** (**PROT4**). **It** must remain **transparent and documented** and stay **subject to audit and challenge**. **No** system may **rely on outdated classification** to justify continued access or reduced protection. **No** system may **delay or avoid reclassification** where material changes in impact or use have occurred.
 
 **6. Accountability and attribution in data use.** This subsection governs attribution of data access, processing, and transformation.
 
@@ -526,7 +526,7 @@ All data access, processing, and transformation must be **attributable** to iden
 
 **7. Proportional attribution and retention.** Attribution requirements do **not** imply universal or persistent logging of all actions.
 
-Systems must provide attribution capability **proportional to system impact (**PROT1**)**. **That** capability may include **ephemeral** mechanisms, **event-triggered or conditional** logging, **limited retention windows**, and **aggregated or anonymized** records where appropriate.
+Systems must provide attribution capability **proportional to system impact** (**PROT1**). **That** capability may include **ephemeral** mechanisms, **event-triggered or conditional** logging, **limited retention windows**, and **aggregated or anonymized** records where appropriate.
 
 **Low-impact** systems are not required to **retain full historical logs of all actions**.
 They are also not required to **maintain persistent identity linkage** beyond what is necessary for system integrity and participant safety. Systems must **not** **eliminate attribution capability** where material harm, dispute, or abuse cannot be investigated. **They** must **not** **design retention policies** that prevent reasonable reconstruction of significant events when required.
@@ -565,7 +565,7 @@ under **PROT1** may permit **pseudonymous or abstracted** identity at the user-i
 It is permitted **only if** all of the following are true:
 - **identity abstraction** is context-bound and does **not** produce **persistent or cross-system** attribution without **consent** or **justified override** under **PROT4**
 - the system does **not** materially affect **sentient reputation external to the system**
-- the system does **not** materially affect **sentient survival or foundational resources (**Articles I–III and V**)**
+- the system does **not** materially affect **sentient survival or foundational resources** (**Articles I–III and V**)
 - the system does **not** materially affect **shared infrastructure stability**, **resource systems or external economic structures**, or **the integrity of the info-sphere**
 - **system-level accountability** is preserved and all actions within the system remain attributable at an audit level consistent with system impact (`corpus_joint_structure.md` **CJS-3.17**, **CJS-3.22**, **CJS-3.24**, and **PROT1**)
 - participants are **not** exposed to **non-consensual** harm, coercion, or manipulation
@@ -848,7 +848,7 @@ Systems contributing materially to such risk must be classified and governed at 
 
 **Classification under Chapter S2** is **mandatory** for all systems with **material impact**. **It** is **functionally determined** from observed and reasonably foreseeable effects rather than declared intent, structure, or self-description. **It** must be **transparent**, **auditable**, and **subject to challenge** under **Article XV-A**, Article XV's verification-access provisions, and **Article XII-B**. **It** must be **continuously revalidated** per `corpus_joint_structure.md` **CJS-3.26**. **No** system may claim **reduced obligations**, **exemptions**, or **lower-impact** classification while exerting **material external** effects.
 
-Where ambiguity exists, default to the level that protects **foundational rights** (**Chapter Nine, Articles V through IX**), subject to **PROT1**.
+Where ambiguity exists, default to the level that protects **Foundational Rights** (**Chapter Nine, Articles V through IX**), subject to **PROT1**.
 
 **Operates in conjunction with:** **Chapter S1 — Information Types and Handling** (data). **It** also operates with **corpus_joint_structure.md**, **Implementation Groups One through Four** (**PRIM1**, **PRIM2**, **PRIM4–PRIM12**, **PRIM14–PRIM15**, **PROT1–PROT6**) (meta-integrity, presentation, architecture, governance). **It** also operates with **Protocol A** (implementation and lifecycle). **It** also operates with **Sentient Constitution Chapters Two through Five** (definition requirements and Independent Definitions for materiality, reasonable foreseeability, dependency, system boundaries, risk, harm).
 
@@ -1372,7 +1372,7 @@ Affected stakeholders must be able to **challenge** classification, **present ev
 
 **Take** **corrective action** addressing resulting harm or exposure.
 
-**7. Default and precautionary classification.** Where classification is **uncertain, incomplete, or contested**, default to the classification that **preserves foundational rights** (**Chapter Nine, Articles V through IX**).
+**7. Default and precautionary classification.** Where classification is **uncertain, incomplete, or contested**, default to the classification that **preserves Foundational Rights** (**Chapter Nine, Articles V through IX**).
 
 **That** default must account for **worst-case reasonably foreseeable impact**. **It** must **maintain transparency, auditability, and intervention capability**.
 
@@ -1412,7 +1412,7 @@ or dependency warrants **analogous** measures under general classification and s
 
 **9. High-dependency private chokepoints (access continuity and non-capture duties).** Some **coordination layers** — including **payments**, **identity and credentials**, **core compute or model access**, **messaging and calls**, **hosting and DNS**, **application distribution**, and **search or discovery surfaces** with **high substitutability cost** — can function as **private chokepoints** even when they are not **state** bodies. Where a **Class A**, **Class B**, or **Class C** system or institution **depends** on such a layer for **survival**, **healthcare**, **refuge**, **political participation**, **remedy**, or **non-degrading continuity of personhood**, operators and **Critical System Stewards** must implement **access-continuity** and **fair-process** mechanics that **defeat arbitrary** or **capture-driven** exclusion.
 
-**Duty profile (proportional to dependency and class):** Publish **acceptance criteria** and **refusal reasons** in **plain language**; provide **notice** before material **cutoff** except where **narrow** **Necessity** requires immediate action; maintain **emergency continuity** pathways for **survival-critical** or **rights-floor** uses where **fraud** or **abuse** is **not** **verified**; offer **appeal**, **human review**, and **portability or export** where **lock-in** would **defeat remedy**; track and disclose **disparate** exclusion patterns against **protected** or **high-dependency** cohorts; and **coordinate** with `corpus_institutions.md` **CI-12** and **CI-6** so that **governance** and **court** pathways remain **practically usable**.
+**Duty profile (proportional to dependency and class):** Publish **acceptance criteria** and **refusal reasons** in **plain language**; provide **notice** before material **cutoff** except where **narrow** **Necessity** requires immediate action; maintain **emergency continuity** pathways for **survival-critical** or **Rights-Floor** uses where **fraud** or **abuse** is **not** **verified**; offer **appeal**, **human review**, and **portability or export** where **lock-in** would **defeat remedy**; track and disclose **disparate** exclusion patterns against **protected** or **high-dependency** cohorts; and **coordinate** with `corpus_institutions.md` **CI-12** and **CI-6** so that **governance** and **court** pathways remain **practically usable**.
 
 **Safety, security, and abuse:** **Necessity** and **Proportionality** justify **narrow** **fraud**, **security**, and **abuse** controls. The target is **pretextual** or **concentration-driven** denial, **not** **forced service** for **materially harmful** use. Read with **Article V-G** (*Accessibility*), **Article V-H** (*Expression, Assembly, and Press*), **Article X-A** (*Non-Imposition and Consent in Association*), **Article XIII-A** (*Security, Intelligence, and Covert-Power Limits*), **Article XVIII-D** (*Movement, Migration, and Refuge*), **Article XIX** (*Interoperability, Portability, and Exit Integrity*), **Chapter One §5.1** (*Productive Capacity* and non-concentration), `corpus_joint_structure.md` interoperability and **exit** implementation labels, and **`corpus_institutions.md` CI-21** (commons and mutual-aid coordination).
 
@@ -1575,14 +1575,11 @@ Maintain **role clarity**, **backup authority**, and communications preserving *
 
 **Competency:** **Maximum calendar age** and **life-stage ceilings** **must not** be used as **stand-alone eligibility** rules for **Critical System Steward** roles. **They** **must not** be used as **stand-alone eligibility** rules for **governing personnel** exercising material authority over classified systems (**Sentient Constitution Chapter Ten**, section 1 — *Authorization and Legitimacy of Governing Authority*; **Chapter Nine**, **Article IX-C** *Governance Participation and Voting Entitlement*, implemented in **Chapter Ten**, section **4.1 — Entitlement and eligibility**).
 
-**Authorized roles and contribution pathways:** Maintain **published** role definitions (or equivalent) for personnel/agents exercising **Critical System Stewardship** or **material** operational authority—**scope**.
-**limits**, **custody**, and **escalation**—so accountability is **traceable** (**Article XV-A**).
+**Authorized roles and contribution pathways:** Maintain **published** role definitions (or equivalent) for personnel/agents exercising **Critical System Stewardship** or **material** operational authority: **scope**, **limits**, **custody**, and **escalation**, so accountability is **traceable** (**Article XV-A**).
 
 Provide **cross-domain exposure**, **mentorship**, and **rotation** proportional to **CSS** tier and **Class A/B/C** exposure so **caretaker competency** is not siloed.
 
-Provide **documented**.
-**low-friction** paths for **qualified** contributors to assume **progressively consequential** duties (**delegation**.
-**pairing**, **staged** trust) **without** **arbitrary** exclusion that serves **capture** or **symbolic** participation only, consistent with **Sentient Constitution Chapter Ten**, section 5.
+Provide **documented**, **low-friction** paths for **qualified** contributors to assume **progressively consequential** duties (**delegation**, **pairing**, **staged** trust) **without** **arbitrary** exclusion that serves **capture** or **symbolic** participation only, consistent with **Sentient Constitution Chapter Ten**, section 5.
 
 **Incentive** and **remuneration** design aligns with **Sentient Constitution Chapter One**, section 7.2 and **Protocol S5** where applicable. **It** **must not** systematically reward **concealment**, **latency gaming**, or **trade-downs** against **safety** or **Truth**.
 
@@ -1618,7 +1615,7 @@ Use **independent** or **functionally independent** evaluators where **Class A/B
 
 **Intervention trigger:** Where a steward is **unable or unwilling** to maintain continuity per obligations, activate **intervention and override**. **That** activation uses **PROT2**, related **corpus_joint_structure.md** governance implementation labels, and **Implementation Group One** Meta-integrity obligations via **Chapter Ten**.
 
-**Its** purpose is to preserve function, recoverability, and **foundational rights**.
+**Its** purpose is to preserve function, recoverability, and **Foundational Rights**.
 
 **Stewardship failure:** Failure to maintain required **operational integrity**, **transparency**.
 or **dependency reduction** is a **high-severity** constitutional violation, **proportional** to affected class and resulting risk or harm.
@@ -1679,9 +1676,9 @@ Dependent organizations **inherit responsibility proportional** to dependency.
 ---
 ## Protocol S4 — Adaptive Sustainability and Ecosystem Resilience
 
-Constitutional tracing: This protocol specifies implementation companion-level adaptive allocation, sustainability-oriented monitoring, and root-cause–aligned response. **It** implements Sentient Constitution Chapter Nine, **Article IV-A** and **Article XXI** (dependent-systems transparency, root cause analysis, and adaptive correction). **It** works together with **Protocol S5** (see doc_architecture.md section 5). **It** does not replace or narrow Sentient Constitution Chapter Five definitions (including sustainability and ecological integrity entries). Where this protocol is silent, Sentient Constitution Chapters Two through Five govern. Where this protocol and corpus_joint_structure.md conflict, the stricter applicable requirement governs (Protocol B in this implementation companion, opening paragraph).
-**A. Foundational principle (pointer).** Sentient Constitution Chapter Nine, **Article IV-A** and **Article XXI**, establish rights to transparent dependency and resource flows, root-cause–aligned correction.
-and adaptive response. This Protocol specifies **health indicators**, **trigger conditions**, **cause-aligned allocation patterns**, and **ecosystem interdependence mechanics**; it does not restate those articles in full.
+Constitutional tracing: This protocol specifies implementation companion-level adaptive allocation, sustainability-oriented monitoring, and root-cause-aligned response. **It** implements Sentient Constitution Chapter Nine, **Article IV-A** and **Article XXI** (dependent-systems transparency, root cause analysis, and adaptive correction). **It** works together with **Protocol S5** (see doc_architecture.md section 5). **It** does not replace or narrow Sentient Constitution Chapter Five definitions (including sustainability and ecological integrity entries). Where this protocol is silent, Sentient Constitution Chapters Two through Five govern. Where this protocol and corpus_joint_structure.md conflict, the stricter applicable requirement governs (Protocol B in this implementation companion, opening paragraph).
+
+**A. Foundational principle (pointer).** Sentient Constitution Chapter Nine, **Article IV-A** and **Article XXI**, establish rights to transparent dependency and resource flows, root-cause-aligned correction, and adaptive response. This Protocol specifies **health indicators**, **trigger conditions**, **cause-aligned allocation patterns**, and **ecosystem interdependence mechanics**; it does not restate those articles in full.
 
 **B. System health and degradation awareness.** All systems must continuously evaluate operational condition through measurable indicators of system health.
 
@@ -1689,31 +1686,18 @@ and adaptive response. This Protocol specifies **health indicators**, **trigger 
 
 **These indicators must** be **transparent and auditable** (**Article XV-A**). **They** must **inform funding and allocation decisions**. **They** must be **resistant to manipulation or selective reporting**. **They** must **include defined thresholds or conditions** that trigger adaptive processes under **section C** of this Protocol.
 
-**C. Adaptive allocation requirement.** Allocation structures must implement **Article IV-A** (responsive, ecosystem-aware flows).
+**C. Adaptive allocation requirement.** Allocation structures must implement **Article IV-A** (responsive, ecosystem-aware flows) and apply **Article XXI-A** as the rights owner for diagnostic rigor and causal attribution. This Protocol adds allocation-specific triggers, cause mapping, and response records.
 
-Every adaptive adjustment must satisfy **Article XXI-A**. **That** requires documented, auditable root cause analysis. **It** requires pluralistic evaluation. **It** requires use of dependent systems maps—not symptom-only budgeting.
+**1. Root cause analysis.** When degradation, instability, or systemic risk is detected, the Protocol S4 record must identify **primary and contributing** causes and distinguish, where applicable:
+- **technical failures**;
+- **security vulnerabilities**;
+- **governance or coordination failures**;
+- **incentive misalignment**;
+- **ecosystem dependency issues**;
+- **dependent system performance degradation**;
+- **external environmental factors**.
 
-**1. Root cause analysis.** When degradation, instability, or systemic risk is detected, identify **primary and contributing** causes.
-
-Distinguish, where applicable, **technical failures**.
-
-**Distinguish** **security vulnerabilities**.
-
-**Distinguish** **governance or coordination failures**.
-
-**Distinguish** **incentive misalignment**.
-
-**Distinguish** **ecosystem dependency issues**.
-
-**Distinguish** **dependent system performance degradation**.
-
-**Distinguish** **external environmental factors**.
-
-Root cause analysis must meet **Article XXI-A** and **Article XV-A** (documentation, auditability, contestability). **It** must remain open to pluralistic evaluation (**Articles XIV and XV**). **It** must avoid premature single-cause attribution. **It** must consider cross-system interactions from the dependent systems map (**Article IV-A**).
-
-**Indicate confidence** in identified causes.
-
-**Scale allocation** to severity and confidence.
+The record must indicate confidence in identified causes and scale allocation to severity and confidence while preserving the auditability, contestability, pluralistic-evaluation, and dependent-systems-map requirements in **Article XXI-A**, **Article XV-A**, **Articles XIV and XV**, and **Article IV-A**.
 
 **2. Cause-aligned allocation mitigation.** Resource allocations must address **identified causes** rather than uniformly increasing all reinvestment categories.
 
@@ -1771,7 +1755,7 @@ Adaptive allocation behaviors must be **transparent, auditable, and historically
 
 **I. Self-healing and recovery-path integration (Article XII-F implementation profile).** This subsection ties this Protocol's adaptive-allocation and root-cause architecture to **Sentient Constitution Chapter Nine, Article XII-F** (*Resilience and Self-Healing Baseline*), **Chapter One §4.1** (*Resilience and Self-Healing Design*), and **Chapter Five** [*Self-Healing*](core_05-05_definitions_a_independent.md#self-healing-constitutional). It is a Protocol S4-specific application of **Protocol A**, subsection **H** (*Self-healing and recovery-path integrity*), not a second self-healing profile.
 
-Adaptive allocation, cause-aligned mitigation, and ecosystem risk response under sections **B** through **G** must satisfy the Protocol A self-healing baseline for detection, containment, safe-failure preference, non-masking, rights-floor continuity, autonomy scaling, and root-cause closure. Protocol S4 adds only the ecosystem-specific cross-checks below.
+Adaptive allocation, cause-aligned mitigation, and ecosystem risk response under sections **B** through **G** must satisfy the Protocol A self-healing baseline for detection, containment, safe-failure preference, non-masking, Rights-Floor continuity, autonomy scaling, and root-cause closure. Protocol S4 adds only the ecosystem-specific cross-checks below.
 
 - Root-cause analysis under section **C.1** must not let adaptive reallocation suppress, overwrite, obscure, or repeatedly silence the fault signals that triggered it. Recurrence across cycles remains a single open root-cause obligation under section **C.1** and **Article XXI-A**.
 - Where adaptive response narrows capacity that implements Chapter Nine guarantees (for example, contestability capacity, audit fidelity, or participation access), narrowing must be explicit, time-bounded, and escalated under **Article XXV** transition-governance when degraded modes persist beyond pre-declared thresholds.
@@ -1939,13 +1923,15 @@ No minimum participation threshold is required to initiate review, though outcom
 
 **Challenges must** be **documented and supported by evidence where feasible**. **They** must **remain subject to audit and evaluation under Article XV-A**. **They** must **be resolved through participatory processes** (**Article XI**; **Chapter Ten**, section **4**, where binding collective choice applies) **and, where necessary, Article XXIII-A** (justice objective and review scope).
 
-**Due process in funding changes.** The depth and duration of due process must be proportional to the scale and impact of the change.
+**Due process in funding changes.** Funding-related decisions apply **Article XI**, **Article XV-A**, and `corpus_joint_structure.md` **CJS-3.33** / **PROT6** for process depth, duration, reviewability, and proportionality. Protocol S5 funding records add:
+- transparent proposal;
+- sufficient notice and justification;
+- affected-participant response, contest, or adaptation pathway;
+- defined evaluation period before implementation;
+- audit and review route;
+- reversibility assessment where feasible.
 
-Due process in funding-related decisions requires that such decisions **be proposed transparently**. **They** must **provide sufficient notice and justification**. **They** must **allow affected participants to respond, contest, or adapt**. **They** must **include a defined evaluation period prior to implementation**. **They** must **remain subject to audit and review** (**Article XV-A**). **They** must **be reversible where feasible**.
-
-**Steward, operator.
-and governance remuneration (incentive governance).** Compensation, equity, bonuses, performance metrics.
-and deferred incentives for **builders, operators, maintainers, and human governance roles** must be **aligned with long-term constitutional outcomes**. **That** requirement applies when those roles materially influence resource flows or funding decisions. **That** obligation applies when those roles materially influence dependent-systems maps. **It** applies when those roles materially influence **system classification** or **Critical System Stewardship** (Chapter S3 — Critical System Stewardship). That alignment includes ecosystem-aware stewardship under **Sentient Constitution Chapter Nine**, **Articles I-B** and **XI**. **It** includes substrate and dependency integrity (**Articles I–III and V**). **It** includes non-entrenchment and fitness over time (**Article XXIV-A**).
+**Steward, operator, and governance remuneration (incentive governance).** Compensation, equity, bonuses, performance metrics, and deferred incentives for **builders, operators, maintainers, and human governance roles** must be **aligned with long-term constitutional outcomes**. **That** requirement applies when those roles materially influence resource flows or funding decisions. **That** obligation applies when those roles materially influence dependent-systems maps. **It** applies when those roles materially influence **system classification** or **Critical System Stewardship** (Chapter S3 — Critical System Stewardship). That alignment includes ecosystem-aware stewardship under **Sentient Constitution Chapter Nine**, **Articles I-B** and **XI**. **It** includes substrate and dependency integrity (**Articles I–III and V**). **It** includes non-entrenchment and fitness over time (**Article XXIV-A**).
 
 Remuneration design must satisfy [corpus_joint_structure.md — Cross-domain implementation layer](corpus_joint_structure.md#cross-domain-implementation-layer) (*Implementation Group One — Incentive Alignment and Mechanism Integrity* Meta-integrity obligation), incorporated via **Sentient Constitution Chapter Fourteen**, and **Sentient Constitution Chapter One**. **That** includes the requirement that incentives not systematically undermine Safety, Truth (Epistemic Integrity), or meaningful agency.
 
@@ -1971,7 +1957,7 @@ Constitutional tracing: This protocol operationalizes phased migration into cons
 
 **1. Phased transition structure.** Transition programs must define at least: preparation, limited adoption, expanded adoption, and steady-state phases.
 
-Each phase must publish **scope of affected systems and stakeholders**. **It** must publish **rights-floor controls that remain invariant during the phase**. **It** must publish **accountable transition owners and review bodies**.
+Each phase must publish **scope of affected systems and stakeholders**. **It** must publish **Rights-Floor controls that remain invariant during the phase**. **It** must publish **accountable transition owners and review bodies**.
 
 **2. Gate criteria and advancement rules.** Phase advancement requires auditable evidence that predefined gate criteria are satisfied.
 
@@ -1985,7 +1971,7 @@ Extensions require documented reauthorization with **unresolved risk explanation
 
 **4. Failure handling, off-ramps, and re-baselining.** Transition plans must include predefined failure conditions and responses.
 
-**Responses** include **partial rollback or safe-mode fallback where feasible**. **They** include **continuity-preserving operating baseline when gates fail**. **They** include **re-baselining process that updates milestones, risks, and owners without reducing constitutional rights floors**.
+**Responses** include **partial rollback or safe-mode fallback where feasible**. **They** include **continuity-preserving operating baseline when gates fail**. **They** include **re-baselining process that updates milestones, risks, and owners without reducing constitutional Rights Floors**.
 
 **5. Transition audit, disclosure, and challenge.** Material transition decisions, delays, reversals, and gate outcomes must be logged in auditable form.
 
@@ -2010,7 +1996,7 @@ Constitutional tracing: This protocol operationalizes coordinated response when 
 - **immediate publication** of a stakeholder-visible summary subject to justified and time-bounded confidentiality limits
 
 **2. Priority triage and dependency-aware containment.** When landscape response is activated, systems must prioritize controls by constitutional harm potential and dependency criticality:
-- **Tier 1:** survival-critical and rights-floor sustaining systems and pathways (Class A and critical Class B dependencies)
+- **Tier 1:** survival-critical and Rights-Floor sustaining systems and pathways (Class A and critical Class B dependencies)
 - **Tier 2:** high-impact governance and verification infrastructure required for contestability and accountability
 - **Tier 3:** other affected systems where delayed action does not materially increase irreversible harm
 
@@ -2106,9 +2092,9 @@ Repeated activation patterns indicating potential normalization or abuse of exce
 - Topic-level routing and cited authorities remain in subsection text and cross-references.
 - Canonical owner map: `corpus_joint_structure.md` **CJS-2.2** and `doc_architecture.md` section 4.
 
-Constitutional tracing: This protocol operationalizes constitutional continuity under prolonged network disruption, partition, and adversarial connectivity conditions (including LAN-level compromise or sustained denial). **It** implements Sentient Constitution Chapter One constraints (Safety, Truth, proportionality, necessity). **It** implements **Chapter Five** definitions where materially relevant (**[§3.20](core_05-05_definitions_c_dependent_clusters.md#governance-architecture-oversight-decentralization-and-concentration-cluster)** *Governance Architecture… — Systemic Lock-In*, *Dependency*, *Oversight*, and related hubs where partition or coupling analysis applies jointly; **[§3.24](core_05-05_definitions_c_dependent_clusters.md#movement-refuge-non-statelessness-and-exit-integrity-cluster)** *Movement, Refuge, Non-Statelessness, and Exit Integrity* where partition or exit implicates movement, refuge, or recognition jointly; **[§3.3](core_05-05_definitions_c_dependent_clusters.md#accountability-contestability-and-collective-accountability-failure-cluster)** *Accountability* and collective-accountability routing where materially relevant; **[§3.32](core_05-05_definitions_c_dependent_clusters.md#resilience-safety-reversibility-self-healing-and-systemic-harm-cluster)** *Resilience*, *Reversibility*, *Safety*, *Cascading Failure*, and systemic-harm containment where materially relevant; **[§3.17](core_05-05_definitions_c_dependent_clusters.md#emergency-and-contingency-cluster)** *Emergency and Contingency* where prolonged disruption or contingency predicates apply). **It** implements **Chapter Nine, Article XXIII** (conflict and emergency proportionality). **It** implements **Article XIX** (interoperability, portability, and exit integrity). **It** implements **Article XXIV** (constitutional evolution and non-entrenchment). **It** implements **Article XI** (stakeholder governance, participation, and due process). **It** implements **Article XXV-C** where continuity-mode failure handling, off-ramps, or rejoin re-baselining are implicated. **It** also applies `corpus_joint_structure.md` **CJS-3.19**, **CJS-3.22**, **CJS-3.23**, **CJS-3.24**, **CJS-3.25**, **CJS-3.26**, **CJS-3.28**, **CJS-3.30**, and **CJS-3.33**. This protocol does not narrow rights floors.
+Constitutional tracing: This protocol operationalizes constitutional continuity under prolonged network disruption, partition, and adversarial connectivity conditions (including LAN-level compromise or sustained denial). **It** implements Sentient Constitution Chapter One constraints (Safety, Truth, proportionality, necessity). **It** implements **Chapter Five** definitions where materially relevant (**[§3.20](core_05-05_definitions_c_dependent_clusters.md#governance-architecture-oversight-decentralization-and-concentration-cluster)** *Governance Architecture… — Systemic Lock-In*, *Dependency*, *Oversight*, and related hubs where partition or coupling analysis applies jointly; **[§3.24](core_05-05_definitions_c_dependent_clusters.md#movement-refuge-non-statelessness-and-exit-integrity-cluster)** *Movement, Refuge, Non-Statelessness, and Exit Integrity* where partition or exit implicates movement, refuge, or recognition jointly; **[§3.3](core_05-05_definitions_c_dependent_clusters.md#accountability-contestability-and-collective-accountability-failure-cluster)** *Accountability* and collective-accountability routing where materially relevant; **[§3.32](core_05-05_definitions_c_dependent_clusters.md#resilience-safety-reversibility-self-healing-and-systemic-harm-cluster)** *Resilience*, *Reversibility*, *Safety*, *Cascading Failure*, and systemic-harm containment where materially relevant; **[§3.17](core_05-05_definitions_c_dependent_clusters.md#emergency-and-contingency-cluster)** *Emergency and Contingency* where prolonged disruption or contingency predicates apply). **It** implements **Chapter Nine, Article XXIII** (conflict and emergency proportionality). **It** implements **Article XIX** (interoperability, portability, and exit integrity). **It** implements **Article XXIV** (constitutional evolution and non-entrenchment). **It** implements **Article XI** (stakeholder governance, participation, and due process). **It** implements **Article XXV-C** where continuity-mode failure handling, off-ramps, or rejoin re-baselining are implicated. **It** also applies `corpus_joint_structure.md` **CJS-3.19**, **CJS-3.22**, **CJS-3.23**, **CJS-3.24**, **CJS-3.25**, **CJS-3.26**, **CJS-3.28**, **CJS-3.30**, and **CJS-3.33**. This protocol does not narrow Rights Floors.
 
-**1. Continuity modes and rights-floor invariants.** Systems must define and publish at least four operational continuity modes: **Normal**, **Degraded-Partitioned**, **Offline-Sovereign**, **Rejoin-Reconciliation**.
+**1. Continuity modes and Rights-Floor invariants.** Systems must define and publish at least four operational continuity modes: **Normal**, **Degraded-Partitioned**, **Offline-Sovereign**, **Rejoin-Reconciliation**.
 
 For every mode, systems must preserve non-regression constitutional floors. **Those** floors include Safety, Truth (Epistemic Integrity), dignity-equality protections, meaningful agency constraints, and challengeability to the maximum feasible extent under conditions.
 
@@ -2116,7 +2102,7 @@ For every mode, systems must preserve non-regression constitutional floors. **Th
 
 **2. Local-first governance execution under disconnection.** High-impact systems must support local execution of constitutional minimums when wide-area coordination is unavailable.
 
-**That** execution includes **safety and harm-containment actions**. **It** includes **rights-floor protection and standing triage**. **It** includes **temporary dispute handling with recorded rationale**. **It** includes **protected reporting and escalation intake**.
+**That** execution includes **safety and harm-containment actions**. **It** includes **Rights-Floor protection and standing triage**. **It** includes **temporary dispute handling with recorded rationale**. **It** includes **protected reporting and escalation intake**.
 
 Local execution authority must be scope-limited, time-bounded, and constrained by least-restrictive and reversibility requirements.
 
@@ -2156,7 +2142,7 @@ Decisions taken under partition remain challengeable and must be revalidated dur
 
 **6. Performance and reliability under decentralized operation.** Class-scaled continuity profiles must define measurable decentralized performance targets (for example, local decision latency, offline survivability duration, and reconciliation convergence bounds).
 
-**Targets must** **be auditable and periodically reviewed**. **They** must **scale with Chapter S2 class and Chapter S3 stewardship tier where applicable**. **They** must **never justify weakening constitutional rights floors or verification integrity**.
+**Targets must** **be auditable and periodically reviewed**. **They** must **scale with Chapter S2 class and Chapter S3 stewardship tier where applicable**. **They** must **never justify weakening constitutional Rights Floors or verification integrity**.
 
 **7. Rejoin, de-escalation, and anti-normalization.** Rejoin-Reconciliation mode must include **staged restoration of normal governance pathways**.
 
@@ -2164,14 +2150,14 @@ Decisions taken under partition remain challengeable and must be revalidated dur
 
 Persistent operation in degraded modes without renewed necessity and independent review is non-compliant and must trigger structural oversight escalation.
 
-**8. Self-healing under decentralized continuity (Article XII-F implementation profile).** This section applies **Protocol A**, subsection **H** (*Self-healing and recovery-path integrity*) to the four continuity modes defined in section **1** — **Normal**, **Degraded-Partitioned**, **Offline-Sovereign**, and **Rejoin-Reconciliation**. It is not a second self-healing profile. Detection, containment, safe-failure preference, non-masking, rights-floor continuity, autonomy scaling, and root-cause closure remain governed by Protocol A subsection **H**, **Sentient Constitution Chapter Nine, Article XII-F**, **Chapter One §4.1**, and **Chapter Five** [*Self-Healing*](core_05-05_definitions_a_independent.md#self-healing-constitutional). This section adds only the decentralized-continuity cross-checks below.
+**8. Self-healing under decentralized continuity (Article XII-F implementation profile).** This section applies **Protocol A**, subsection **H** (*Self-healing and recovery-path integrity*) to the four continuity modes defined in section **1** — **Normal**, **Degraded-Partitioned**, **Offline-Sovereign**, and **Rejoin-Reconciliation**. It is not a second self-healing profile. Detection, containment, safe-failure preference, non-masking, Rights-Floor continuity, autonomy scaling, and root-cause closure remain governed by Protocol A subsection **H**, **Sentient Constitution Chapter Nine, Article XII-F**, **Chapter One §4.1**, and **Chapter Five** [*Self-Healing*](core_05-05_definitions_a_independent.md#self-healing-constitutional). This section adds only the decentralized-continuity cross-checks below.
 
 - Offline and partitioned modes must maintain tamper-evident local recovery-event chains consistent with section **4** (offline audit integrity), and must reconcile recovery events on rejoin rather than treating mode-internal recovery as closed.
 - Recovery across partitions must not alter persistent state, credentials, obligations, or configurations attributed to sentients, operators, or other systems **in other partitions** that fall **outside** the declared fault-and-recovery scope except through changes that satisfy **Article XV-A** [Auditability](core_05-05_definitions_c_dependent_clusters.md#auditability) for observability and attribution and that, where parties in those partitions are materially affected, include proportionate notice, authorization, or contestable handoff consistent with **Chapter Nine**.
 - Recovery authority must not expand beyond the pre-fault envelope in any partition and must not propagate failure through [Cascading Failure](core_05-05_definitions_a_independent.md#cascading-failure) pathways exposed by partition topology.
 - Recovery actions taken under partition that prove invalid on rejoin must be subject to section **7**'s correction, reversal, or remediation pathway.
 - Mode transitions, provisional trust states under section **5A**, and emergency-authority invocations must not suppress, overwrite, or delay evidence needed for root-cause analysis under **Article XXI-A**. Reconciliation on rejoin must treat masked or under-logged recovery as a post-rejoin validation failure under section **7**.
-- Where rights-floor capacity is genuinely constrained by partition topology, narrowing must be explicit, time-bound, and restoration-triggered, and must be treated as **Article XXV** transition-governance territory at rejoin.
+- Where Rights-Floor capacity is genuinely constrained by partition topology, narrowing must be explicit, time-bound, and restoration-triggered, and must be treated as **Article XXV** transition-governance territory at rejoin.
 - Partition-local contestability intake, audit emission, or external-review pathways must remain materially external or independently verifiable within the partition and must reconcile on rejoin.
 - Self-healing that succeeds operationally in a partitioned or offline mode but leaves a known defective condition in place must carry the Protocol A open root-cause obligation into Rejoin-Reconciliation mode. Recurrence across partition cycles or rejoin cycles remains a single open obligation, not closure of each incident.
 

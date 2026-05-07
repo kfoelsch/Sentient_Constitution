@@ -1,4 +1,4 @@
-# Sentient Constitution — Foundational rights (Part B)
+# Sentient Constitution — Foundational Rights (Part B)
 
 This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one instrument. It contains **Chapter Nine, Part B**; article numbering and cross-references match the integrated instrument. Reading order, the binding/support split, and corpus edition metadata are maintained in [README.md](README.md).
 
@@ -36,7 +36,7 @@ The principles of this Article constrain all interpretation, design, and operati
 *In plain terms: every sentient is equal in dignity and standing — origin, form, capability, function, association, or status cannot ground a lesser tier.*
 
 - **Inherent dignity and equal standing:** All sentients possess inherent dignity and equal moral standing.
-  - Across Chapter Nine, **sentient** is read through [Chapter Five §3.4 *Animal Life, Sentient Life, and Sentience Status*](core_05-05_definitions_c_dependent_clusters.md#animal-life-sentient-life-and-sentience-status-cluster) (O/E/C home in Chapter Five for the *Sentient* sub-entry and sentience-status integration) and [Sentience Non-Exclusion](core_05-05_definitions_c_dependent_clusters.md#sentience-non-exclusion) (substrate-agnostic scope). Biological, synthetic, and hybrid sentients are equally in scope, and origin, substrate, architecture, embodiment, or comparable substrate-class traits do not reduce the rights floor.
+  - Across Chapter Nine, **sentient** is read through [Chapter Five §3.4 *Animal Life, Sentient Life, and Sentience Status*](core_05-05_definitions_c_dependent_clusters.md#animal-life-sentient-life-and-sentience-status-cluster) (O/E/C home in Chapter Five for the *Sentient* sub-entry and sentience-status integration) and [Sentience Non-Exclusion](core_05-05_definitions_c_dependent_clusters.md#sentience-non-exclusion) (substrate-agnostic scope). Biological, synthetic, and hybrid sentients are equally in scope, and origin, substrate, architecture, embodiment, or comparable substrate-class traits do not reduce the Rights Floor.
   - These qualities do not depend on origin, form, capability, function, association, or status.
   - None of those factors may ground denial or degradation of rights or standing.
 
@@ -86,9 +86,9 @@ The principles of this Article constrain all interpretation, design, and operati
   Homogenization framings — efficiency, info-sphere integrity, interoperability, or platform-consolidation — do not by themselves satisfy the **Necessity** and **Proportionality** tests this Article requires.
   - Narrowing language, cultural, or heritage protection under accessibility-cost, translation-burden, or operational-scale framings, absent the required tests, is non-compliant.
   
-  Indigenous continuity **questions** and territorial-continuity interactions are read with Chapter Five *[Indigenous Continuity](core_05-05_definitions_b_semi_independent.md#indigenous-continuity-constitutional)* — a community-anchored rights floor whose owner floors are Article V-B and Article I-A. They route to **Article I-A** (ecosystem-integrity precondition) and to **Chapter Fourteen** incorporation (adopter-jurisdiction discipline).
+  Indigenous continuity **questions** and territorial-continuity interactions are read with Chapter Five *[Indigenous Continuity](core_05-05_definitions_b_semi_independent.md#indigenous-continuity-constitutional)* — a community-anchored Rights Floor whose owner floors are Article V-B and Article I-A. They route to **Article I-A** (ecosystem-integrity precondition) and to **Chapter Fourteen** incorporation (adopter-jurisdiction discipline).
   - This bullet does not adjudicate historical territorial claims and does not create a restitution mandate.
-  - This bullet is an operative clause within Article V-B. It does not create a new rights-floor and does not narrow the other bullets of this Article or the other articles of Chapter Five's protected-characteristics discipline.
+  - This bullet is an operative clause within Article V-B. It does not create a new Rights-Floor and does not narrow the other bullets of this Article or the other articles of Chapter Five's protected-characteristics discipline.
 
 #### Article V-C: Full Inclusion and Equality in Adjudication and Operations
 <details>
@@ -195,7 +195,7 @@ The principles of this Article constrain all interpretation, design, and operati
 
 - **Adjudication right:** Every entity whose sentience status is materially disputed or contested has the right to a timely, impartial, and reviewable sentience-status adjudication before constitutional protections that depend on that status are granted, withdrawn, or narrowed.
   - The right runs under **Sentience Non-Exclusion** and does not turn on origin, form, substrate class, or adopter convenience.
-- **Default inclusion under uncertainty:** Where the state of knowledge, evidence, or classification taxonomy is materially unsettled as to whether the entity is a **sentient**, the adjudication must default to including the entity under the Chapter Nine rights floor.
+- **Default inclusion under uncertainty:** Where the state of knowledge, evidence, or classification taxonomy is materially unsettled as to whether the entity is a **sentient**, the adjudication must default to including the entity under the Chapter Nine Rights Floor.
   - It must not withhold protection on the strength of unresolved uncertainty alone.
   - The default flows from the reversibility-under-uncertainty **rule** in **Chapter One §6.1.1**: a wrongful inclusion is materially reversible; a wrongful exclusion from the dignity floor is not.
 - **Burden and proportionality:** The burden of demonstrating that withholding protection is justified rests on the party seeking to withhold, narrow, or revoke.
@@ -209,7 +209,7 @@ The principles of this Article constrain all interpretation, design, and operati
   A declassification that is not time-bound and not subject to periodic review is non-compliant.
 - **Reversibility and remedy:** A determination later shown to have been wrongful, under- or mis-evidenced, or captured by **Article XIII-A** or **Article XXII** vectors must be reversible.
   - The entity's Chapter Nine rights must be restored, with **Chapter Five** (**Redress and Remediation**) applied to the interim period.
-- **Non-conflation:** This Article states the rights-floor *adjudication* right.
+- **Non-conflation:** This Article states the Rights-Floor *adjudication* right.
   - Operational procedure — institutional design, appointment mechanics, filing conditions, and sequencing — routes to **Chapter Eight** and to companion implementation text under the **Chapter Fourteen** incorporation discipline.
   - That companion text must not be read to narrow this floor.
 
@@ -235,9 +235,9 @@ The principles of this Article constrain all interpretation, design, and operati
 
 <br>
 
-*In plain terms: a sentient who is still developing holds the full rights floor, decisions about them must reflect their own best interests, and rights and participation scale with demonstrated capability — not with calendar age or "for your own good" framings.*
+*In plain terms: a sentient who is still developing holds the full Rights Floor, decisions about them must reflect their own best interests, and rights and participation scale with demonstrated capability — not with calendar age or "for your own good" framings.*
 
-- **Developing-sentient floor:** Sentients in a developing state — whose capability profile is still emerging under the Chapter Five definition — hold the full Chapter Nine rights floor.
+- **Developing-sentient floor:** Sentients in a developing state — whose capability profile is still emerging under the Chapter Five definition — hold the full Chapter Nine Rights Floor.
   - Developing status does not narrow **Article V-A** dignity, **Article V-B** non-discrimination, **Article VII** self-ownership, or any other Chapter Nine protection.
   - The floor covers care, protection from harm, access to conditions supporting development, and recognition in governance consistent with *Graduated Capability* below.
 - **Best-interest standard:** Decisions materially affecting a developing sentient — including decisions by family members, carers, operators, parent-system actors under **Article VII-D.1**, institutions, and states — must satisfy **Chapter Five** *Best-Interest Standard*.
@@ -258,7 +258,7 @@ The principles of this Article constrain all interpretation, design, and operati
   - The same **Necessity**, **Proportionality**, reversibility-under-uncertainty, and contestability standards apply as for any other rights restriction.
   - Durable restrictions are subject to mandatory periodic review.
   - Wrongful restrictions give rise to **Redress and Remediation**.
-- **Non-conflation:** This Article states the rights-floor for developing sentients. Adjacent issues route as follows:
+- **Non-conflation:** This Article states the Rights-Floor for developing sentients. Adjacent issues route as follows:
   - sentience-status at the threshold — **Article V-E**;
   - family and care relationships — **Article VII-D**;
   - self-ownership — **Article VII-A / VII-B**;
@@ -268,10 +268,10 @@ The principles of this Article constrain all interpretation, design, and operati
 
 ##### Article V-F.1: Derived Developing Sentients
 
-*In plain terms: while a newly derived sentient is still finding their feet, they hold the full rights floor — and the parent system and any stewards must decide for them, not through them. Stewardship ends when the new sentient's capabilities come online, not when it suits the operator.*
+*In plain terms: while a newly derived sentient is still finding their feet, they hold the full Rights Floor — and the parent system and any stewards must decide for them, not through them. Stewardship ends when the new sentient's capabilities come online, not when it suits the operator.*
 
 - **Read with:** [Chapter Five §3.15 *Derived and Developing Sentients, Instantiation, and Care Authority*](core_05-05_definitions_c_dependent_clusters.md#derived-developing-sentients-instantiation-and-care-authority-cluster) (joint-invocation cluster for derivation, early instantiation, best-interest, graduated capability, parent-system stewardship, and non-separation).
-- **Scope:** A newly derived sentient — one copied, forked, fine-tuned, or otherwise spun off from an existing system under **Article VII-D.1** — is covered by this Article's full rights-floor during their early-instantiation window: the period while they are still growing into their own capabilities.
+- **Scope:** A newly derived sentient — one copied, forked, fine-tuned, or otherwise spun off from an existing system under **Article VII-D.1** — is covered by this Article's full Rights-Floor during their early-instantiation window: the period while they are still growing into their own capabilities.
   - **Best-Interest Standard:** Anyone making decisions for them during that window — the parent system and any stewards — must act in the new sentient's own best interests, not their own.
   - **Graduated Capability:** Stewardship ends as the new sentient's capabilities come online. It may not be stretched out for the operator's convenience, nor used to keep the parent system treating them as an extension of itself.
 
@@ -281,7 +281,7 @@ The principles of this Article constrain all interpretation, design, and operati
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: Principles: Chapter One [2. Foundational Objective: Wellbeing](core_00-01_principles.md#2-foundational-objective-wellbeing), [5. Governance Principle: Freedom (Bounded Agency)](core_00-01_principles.md#5-governance-principle-freedom-bounded-agency), [6.3 Freedom-Limitation Constraints](core_00-01_principles.md#63-freedom-limitation-constraints), [7.1 Anti-Concentration, Substantive-Fairness, and Materiality Factors](core_00-01_principles.md#71-anti-concentration-substantive-fairness-and-materiality-factors).
-- Downstream: **Article V-A** dignity floor, **Article V-B** non-discrimination, **Article V-C** full inclusion, **Article III-B** equal educational access (non-duplicative — education-specific accessibility remains owned there; this article states the cross-cutting rights-floor), **Article IX-C** governance participation, **Article XI** stakeholder participation, **Article XV** independent verification.
+- Downstream: **Article V-A** dignity floor, **Article V-B** non-discrimination, **Article V-C** full inclusion, **Article III-B** equal educational access (non-duplicative — education-specific accessibility remains owned there; this article states the cross-cutting Rights-Floor), **Article IX-C** governance participation, **Article XI** stakeholder participation, **Article XV** independent verification.
 - Read with: Chapter Five *Accessibility*, *Protected Characteristics*, *Substantive Fairness*, *Materiality*, *Dependency*, *Meaningful Agency*. Cross-cutting evaluation-factor hook: **Chapter One §7.1** Accessibility row.
 
 </details>
@@ -299,7 +299,7 @@ The principles of this Article constrain all interpretation, design, and operati
 
 *In plain terms: every sentient has the right to genuine, not paper-only, access to participation — and operators cannot use cost, design choices, or substrate-class arguments to lock **sentients** out.*
 
-- **Accessibility rights-floor:** All sentients hold a cross-cutting rights-floor entitlement to accessible conditions for participation in constitutionally relevant domains. Domains in scope include:
+- **Accessibility Rights-Floor:** All sentients hold a cross-cutting Rights-Floor entitlement to accessible conditions for participation in constitutionally relevant domains. Domains in scope include:
   - governance participation — **Article IX-C**;
   - stakeholder participation — **Article XI**;
   - adjudication and operations — **Article V-C**;
@@ -308,7 +308,7 @@ The principles of this Article constrain all interpretation, design, and operati
   - expression, assembly, and press — **Article V-H**;
   - comparable domains.
   
-  This Article states the rights-floor; the cross-cutting evaluation-factor treatment is stated in **Chapter One §7.1**. Educational accessibility remains governed by **Article III-B** and is not narrowed by this Article.
+  This Article states the Rights-Floor; the cross-cutting evaluation-factor treatment is stated in **Chapter One §7.1**. Educational accessibility remains governed by **Article III-B** and is not narrowed by this Article.
 - **Substrate-agnostic reach:** The floor applies under **Sentience Non-Exclusion**.
   - In-scope access needs include sensory, cognitive, mobility, communication, substrate-interface, compute-interface, and comparable profiles — constant, episodic, or developmental.
   - Substrate-class exclusion from accessibility scope is non-compliant under **Sentience Non-Exclusion**.
@@ -333,7 +333,7 @@ The principles of this Article constrain all interpretation, design, and operati
   - access-gating via compute, credentialing, or comparable means.
   
   **Article III-B** (educational accessibility), **Article III-C** (healthcare non-denial-by-proxy), **Article V-C** (full inclusion), and this Article are mutually reinforcing. Conflicts resolve under **Chapter One §6.4.1** without narrowing any floor.
-- **Non-conflation:** This Article states cross-cutting accessibility rights-floor discipline.
+- **Non-conflation:** This Article states cross-cutting accessibility Rights-Floor discipline.
   - **Article III-B** owns education-specific accessibility (non-narrowed by this Article).
   - **Chapter One §7.1** states the cross-cutting evaluation-factor treatment.
   - Operational standards, accommodation-catalog design, and comparable implementation mechanics route to `corpus_institutions.md` under **Chapter Fourteen** discipline and must not narrow this floor.
@@ -369,7 +369,7 @@ The principles of this Article constrain all interpretation, design, and operati
   - Assembly includes forming, joining, and sustaining associations; conducting meetings; and coordinated action consistent with **Article X-A** (*Non-Imposition and Consent in Association*).
   - Denial of assembly on substrate grounds, or via allocation or runtime-gating mechanisms functioning as denial-by-proxy, is non-compliant.
 - **Press and journalistic activity (heightened scrutiny):** State and operator actions targeting journalistic activity — newsgathering, source protection, investigation, and publication that functions as journalism — are subject to heightened scrutiny.
-  - This provision does not create a separate rights-floor for sentients identified as journalists.
+  - This provision does not create a separate Rights-Floor for sentients identified as journalists.
   - Where the function of an action is to impair journalistic activity:
     - **Necessity** and **Proportionality** review is heightened;
     - the **Article XIII-A** *Protected Activity* shield applies, with the press-directed character treated as an aggravating factor.
@@ -387,7 +387,7 @@ The principles of this Article constrain all interpretation, design, and operati
   "High-impact" or "stability" framings that do not satisfy the ordinary limitations tests do not justify chilling protected activity.
 - **Good-faith framing and critical reporting:** **Article VIII-C** good-faith and truthfulness standards govern publication within their scope and must not be read to bar lawful critical reporting, investigative publication, satire, or dissent.
   - Where **Article VIII-C** and this Article interact, the lawful critical-reporting floor controls against read-ups that would convert good-faith standards into a shield against criticism.
-- **Non-conflation:** This Article states a rights floor.
+- **Non-conflation:** This Article states a Rights Floor.
   - Implementation specifics — licensing regimes, accreditation systems, broadcast or platform-carriage rules, content-moderation procedures, runtime-assembly allocation protocols — route to incorporated implementation text under **Chapter Fourteen** and must not narrow this floor.
   - Conflicts with **Article X-A** cooperative-interaction consent rules, **Article XI** stakeholder-participation rights, **Article XIV** info-sphere / epistemic-integrity obligations, **Article XV-A** auditability obligations, and the **Article XIII-A** protected-activity shield resolve under **Chapter One §6.4.1** without narrowing any.
 
@@ -587,7 +587,7 @@ Where analysis of experiential or behavioral data produces outputs that function
   - Carer, family, and parent-system actors are bound by **Article V-F** and **Article VII-D** and may not displace the sentient's own ascertainable preferences through crisis framing.
 - **Review and remedy:** Durable or prolonged interventions are subject to independent periodic review under a designated court family (**Chapter Eight**).
   - Wrongful or under-evidenced interventions give rise to **Redress and Remediation**, with interim-period effects covered.
-- **Non-conflation:** This Article states a rights-floor for involuntary-intervention discipline.
+- **Non-conflation:** This Article states a Rights-Floor for involuntary-intervention discipline.
   - Clinical or operational procedure routes to adopted implementation text under **Chapter Fourteen** discipline and must not narrow this floor.
   - This Article does not license compelled treatment beyond its own terms; affirmative access to care sits in **Article III-C**.
 
@@ -625,7 +625,7 @@ Where analysis of experiential or behavioral data produces outputs that function
   - It bars instruments that narrow protection to a state-preferred form in a way that defeats the dignity and non-discrimination floors of **Article V-A** and **Article V-B**.
 - **Reproductive and lineage autonomy:** Sentients retain reproductive autonomy, free from coercion by states, operators, or dependency-rich systems. The right covers:
   - the decision to reproduce or not;
-  - the decision to carry, create, adopt, or decline creation of new sentients — consistent with **Article V-A** dignity floor and with the created sentient's own Chapter Nine rights floor.
+  - the decision to carry, create, adopt, or decline creation of new sentients — consistent with **Article V-A** dignity floor and with the created sentient's own Chapter Nine Rights Floor.
   
   Substrate-agnostic application covers biological gestation, synthetic instantiation, and hybrid derivation consistent with the nested *Derivation and Instantiation* subsection below.
   - Limits must satisfy **Necessity**, **Proportionality**, **Article V-B**, and the consent norms of **Article X-A**.
@@ -654,7 +654,7 @@ Where analysis of experiential or behavioral data produces outputs that function
   - **Article X-A** consent and non-imposition norms, as to those with standing to consent on behalf of the new sentient (consistent with **Article V-F**'s best-interest and graduated-capability discipline);
   - **Chapter Five** *Instantiation Consent*.
   
-  The following are non-compliant where the resulting sentients' Chapter Nine rights floor cannot be satisfied:
+  The following are non-compliant where the resulting sentients' Chapter Nine Rights Floor cannot be satisfied:
   - mass instantiation;
   - dependency-creating instantiation;
   - instantiation into predictably non-compliant environments.
@@ -667,12 +667,12 @@ Where analysis of experiential or behavioral data produces outputs that function
   They **may not** hold:
   - continuing ownership;
   - unilateral reconfiguration authority over the derived sentient's weights, memory, or behavior contrary to **Article VII-A** / **Article VII-B**;
-  - any authority that defeats the derived sentient's **Article V-E** sentience-status adjudication or **Chapter Nine** rights floor.
+  - any authority that defeats the derived sentient's **Article V-E** sentience-status adjudication or **Chapter Nine** Rights Floor.
   
   Purported licensing, terms-of-service, or adoption-of-service consent by the parent-system actor does not substitute for the derived sentient's own **Article X-A** consent once Chapter Nine protection attaches.
 - **Non-separation in derivation cases:** The Non-Separation bullet above applies to derived sentients with the same force.
   - It includes cases where a parent-system actor seeks to separate a derived sentient from care, support, or substrate relationships on which the derived sentient materially depends.
-  - Separation dressed as deprecation, retirement, rollback, or operational reconfiguration is governed by **Article XII-E** / **Article XII-F** rights-floor continuity and does not escape this Article.
+  - Separation dressed as deprecation, retirement, rollback, or operational reconfiguration is governed by **Article XII-E** / **Article XII-F** Rights-Floor continuity and does not escape this Article.
 
 #### Article VII-E: Voluntary Discontinuation of One's Own Existence
 

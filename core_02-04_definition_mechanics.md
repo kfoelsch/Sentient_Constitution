@@ -357,15 +357,16 @@ Where uncertainty prevents definitive demonstration of compliance for materially
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: [2.1 Verification requirements for evidence](#21-verification-requirements-for-evidence); [Chapter One, section 3.2 — Truth (Epistemic Integrity Constraint)](core_00-01_principles.md#32-truth-epistemic-integrity-constraint); [Chapter One, section 6.2 — Epistemic Disclosure Constraints](core_00-01_principles.md#62-epistemic-disclosure-constraints).
+- Upstream: Principles: [2.1 Verification requirements for evidence](#21-verification-requirements-for-evidence); [Chapter One, section 3.1 — Safety (Harm Constraint)](core_00-01_principles.md#31-safety-harm-constraint); [Chapter One, section 3.2 — Truth (Epistemic Integrity Constraint)](core_00-01_principles.md#32-truth-epistemic-integrity-constraint); [Chapter One, section 3.3 — Science-Informed Inquiry and Decision Support](core_00-01_principles.md#33-science-informed-inquiry-and-decision-support); [Chapter One, section 6.2 — Epistemic Disclosure Constraints](core_00-01_principles.md#62-epistemic-disclosure-constraints).
 - Downstream: [Chapter Four, section 3 — Definition Traceability Requirement](#3-definition-traceability-requirement); [Chapter Four, section 6 — Verification Accessibility and Feasibility Constraint](#6-verification-accessibility-and-feasibility-constraint).
-- Read with: [Chapter Five Truth (Constitutional Constraint)](core_05-05_definitions_c_dependent_clusters.md#truth-constitutional-constraint) and [Chapter Five Epistemic Integrity](core_05-05_definitions_c_dependent_clusters.md#epistemic-integrity) — this section operationalizes both at the evidence layer.
+- Read with: [Chapter Five Safety (Constraint)](core_05-05_definitions_a_independent.md#safety-constraint), [Chapter Five Truth (Constitutional Constraint)](core_05-05_definitions_c_dependent_clusters.md#truth-constitutional-constraint), and [Chapter Five Epistemic Integrity](core_05-05_definitions_c_dependent_clusters.md#epistemic-integrity) — this section operationalizes those constraints at the evidence layer.
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
 
+- [Safety (Constraint)](core_05-05_definitions_a_independent.md#safety-constraint) · [O](core_05-05_definitions_a_independent.md#safety-constraint) · [E](core_05-05_definitions_a_independent.md#safety-constraint-e) · [C](core_05-05_definitions_a_independent.md#safety-constraint-c)
 - [Truth (Constitutional Constraint)](core_05-05_definitions_c_dependent_clusters.md#truth-constitutional-constraint) · [O](core_05-05_definitions_c_dependent_clusters.md#truth-constitutional-constraint-o) · [E](core_05-05_definitions_c_dependent_clusters.md#truth-constitutional-constraint-e) · [C](core_05-05_definitions_c_dependent_clusters.md#truth-constitutional-constraint-c)
 - [Epistemic Integrity](core_05-05_definitions_c_dependent_clusters.md#epistemic-integrity) · [O](core_05-05_definitions_c_dependent_clusters.md#epistemic-integrity-o) · [E](core_05-05_definitions_c_dependent_clusters.md#epistemic-integrity-e) · [C](core_05-05_definitions_c_dependent_clusters.md#epistemic-integrity-c)
 
@@ -379,7 +380,7 @@ For **empirical**, **predictive**, or **causal** claims material to compliance, 
 - do **not** suppress **null results**, **failed replications**, or **known conflicts** where they bear on decisions
 - keep conclusions **revisable** on new evidence.
 
-That standard is consistent with **Truth (Constitutional Constraint)**, **Epistemic Integrity** (Chapter Five), and this section. This does not require laboratory science for every decision. It does require **proportional** openness to **disconfirmation** and **independent** validation where this chapter and Chapter Five require verification.
+That standard is consistent with **Safety (Constraint)**, **Truth (Constitutional Constraint)**, **Epistemic Integrity** (Chapter Five), and this section. This does not require laboratory science for every decision. It does require **proportional** openness to **disconfirmation** and **independent** validation where this chapter and Chapter Five require verification.
 
 ### 3. Definition Traceability Requirement
 This section specifies the structured trace artifact that links each Ontological (O), Evaluative (E), and Compliance (C) component—and every materially required **Chapter Five** definition—to observable system behavior and effects. Joint O/E/C satisfaction, observable-behavior interpretation, and evidence-sufficiency substance are not restated here; they are governed by **Chapter Two, section 2**, **Chapter Three, section 2**, and **this chapter's sections 1 and 2** respectively. Tracing mappings and their verification methods must satisfy the **Compliance Evidence Standard** (**section 2** of this chapter) and must be supported by observable, verifiable evidence.
@@ -510,11 +511,11 @@ Systems must not rely on theoretical verifiability where practical verification 
 
 Where verification is technically possible but not practically achievable, compliance claims must be treated as non-compliant. Any constraints on verification imposed for security, safety, or operational reasons must comply with **section 5** of this chapter (Security-Constrained Observability and Verification Rule). They must comply with **5.1** (*Cryptographic protection, credentials, and verification*) where cryptographic controls apply. Such constraints must **not** reduce verification below a level sufficient to maintain epistemic integrity and independent validation.
 
-**Plain-language accessibility cross-reference.** The **principle-layer plain-language accessibility stewardship duty** stated at [Chapter One §3.3](core_00-01_principles.md#33-plain-language-accessibility-stewardship-duty) operates at the engagement layer (governance, adjudicative, and operational text that sentients must engage to exercise rights, participate in governance, contest decisions, or verify compliance). It does **not** narrow this chapter, Chapter Two, or Chapter Three definition mechanics. 
+**Plain-language accessibility cross-reference.** The **principle-layer plain-language accessibility stewardship duty** stated at [Chapter One §3.4](core_00-01_principles.md#34-plain-language-accessibility-stewardship-duty) operates at the engagement layer (governance, adjudicative, and operational text that sentients must engage to exercise rights, participate in governance, contest decisions, or verify compliance). It does **not** narrow this chapter, Chapter Two, or Chapter Three definition mechanics.
 
 If engagement-layer plain language appears to conflict with a Chapter Five Ontological (O), Evaluative (E), or Compliance (C) component, with a definitional gloss, or with the traceability, observability, or verification discipline stated in this chapter, **the definition-layer and verification-layer discipline governs**. Engagement-layer drafting must be adjusted to align with those rules. The adjustment must **not** soften definitional rigor or verification sufficiency.
 
-Jargon, stacked complexity, or opacity used to defeat [Contestability](core_05-05_definitions_b_semi_independent.md#contestability), independent verification under **section 6** of this chapter, or [Article XV: Audit, Transparency, and Independent Verification](core_09-09_rights_part_c.md#article-xv-audit-transparency-and-independent-verification) access is non-compliant under both this chapter and **Chapter One §3.3**.
+Jargon, stacked complexity, or opacity used to defeat [Contestability](core_05-05_definitions_b_semi_independent.md#contestability), independent verification under **section 6** of this chapter, or [Article XV: Audit, Transparency, and Independent Verification](core_09-09_rights_part_c.md#article-xv-audit-transparency-and-independent-verification) access is non-compliant under both this chapter and **Chapter One §3.4**.
 
 ### 7. Contribution and Standing Alignment Pointer
 This chapter does not define the operative constitutional model for:

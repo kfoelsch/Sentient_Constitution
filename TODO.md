@@ -31,6 +31,12 @@ Retired compatibility wrapper names such as `core_constitution.md`, `core_defini
 
 ## Open Backlog
 
+### P2 - Load-Bearing Capitalization Pass
+
+- [ ] **P2 - Standardize reader-signal capitalization for core constitutional objects:** Capitalize **Wellbeing**, **Safety**, **Truth**, **Rights Floor**, and **Foundational Rights** when they identify named constitutional objectives, constraints, layers, or chapter titles; keep ordinary lowercase uses for generic wellbeing, safety, truth, and rights-language.
+
+  **Acceptance checks:** add a short capitalization rule to `doc_architecture.md`; sweep active binding/current guidance scope for `rights floor`, `rights-floor`, `Foundational rights`, and named-object uses of `wellbeing` / `safety` / `truth`; preserve lowercase ordinary uses such as `challenge rights`, `review rights`, `audit rights`, `sentient wellbeing`, and operational `safety`; update `tools/lexical_vocabulary_audit.py` with high-confidence drift checks for **Rights Floor** / **Foundational Rights** casing; run `make reference-audit`, `make corpus-markdown-audit`, and `make lexical-vocabulary-audit`. Regression scenario validation remains deferred unless separately reinstated.
+
 ### P3 - Holistic Redundancy Sweep
 
 - [x] **User acceptance gate:** Accept, repurpose, or continue the holistic redundancy / definitions-first sweep after a final grep-per-theme dedup across the four companion corpus files.
@@ -42,6 +48,8 @@ Retired compatibility wrapper names such as `core_constitution.md`, `core_defini
   **2026-04-30 continuation addendum:** Normalized remaining **Protocol A**, subsection **G** continuity pointers in `corpus_forum.md`, `corpus_institutions.md`, and `corpus_systems.md` so forum, institutional, and steward-continuity references use the established owner phrasing instead of the stale **Protocol A G** shorthand. Ran non-regression checks only: `make reference-audit`, `make corpus-markdown-audit`, and `make lexical-vocabulary-audit`.
 
   **2026-04-30 continuation addendum 2:** Completed another targeted non-regression grep pass for owner-phrasing drift across the companion corpus. Normalized `corpus_institutions.md` S2/S3 references, tightened a **Sentient Constitution Chapter Nine, Article XV-A** pointer, restored **Article X-C**/**Article X-A** to the CI-15 rights-owner boundary, and tightened `corpus_systems.md` **Article XXV-A** transition routing to **Sentient Constitution Chapter Nine**. Ran non-regression checks only: `make reference-audit`, `make corpus-markdown-audit`, and `make lexical-vocabulary-audit`. Regression testing remained intentionally omitted.
+
+  **2026-05-06 continuation addendum:** Continued the non-regression companion-corpus redundancy sweep for remaining owner-phrasing drift. Tightened `corpus_institutions.md` **CI-1.5**, **CI-6**, and **CI-9.1B** into pointer-first applications of Chapter Seven, `corpus_joint_structure.md` **CJS-3.12**, and delegated-body owner language; tightened `corpus_forum.md` **CC-6.1** and **CC-10.0** into pointer-first applications of **CJS-3.3**, **CJS-3.33**, and existing rights owners; tightened `corpus_systems.md` **Protocol S4** and **Protocol S5** so Article XXI-A and due-process rights stay in their owner layers while the systems companion preserves only allocation, cause-mapping, funding-record, and incentive-governance mechanics. Also corrected local Markdown emphasis and sentence-wrap defects found during the sweep. Ran non-regression checks only: `make reference-audit`, `make corpus-markdown-audit`, and `make lexical-vocabulary-audit`. Regression testing remained intentionally omitted.
 
   **Suggested acceptance check:** run targeted theme greps across `corpus_joint_structure.md`, `corpus_systems.md`, `corpus_institutions.md`, and `corpus_forum.md`; convert duplicative companion prose to pointers where it repeats Chapter Five definitions or Chapter Nine rights without adding implementation detail.
 

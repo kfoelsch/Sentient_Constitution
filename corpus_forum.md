@@ -10,14 +10,14 @@ This file is intentionally written in plain language with low jargon to improve 
 
 This file is part of the constitutional corpus as **binding incorporated implementation text** where **Corpus** designates it, incorporated through **Sentient Constitution Chapter Fourteen**.
 
-Canonical meaning for constitutional terms, rights floors, and definition-satisfaction rules remains in the Sentient Constitution and canonical owners in `doc_architecture.md`; nothing here transfers that authority.
+Canonical meaning for constitutional terms, Rights Floors, and definition-satisfaction rules remains in the Sentient Constitution and canonical owners in `doc_architecture.md`; nothing here transfers that authority.
 
 Shared preamble contract: apply `corpus_joint_structure.md` **CJS-1.1**.
 
 **File-specific implementation anchors**
 
 - **Operational home:** this file is the operational home for forum structure, forum independence safeguards, forum process governance, and forum continuity mechanics.
-- **Boundary rule:** this file does **not** redefine constitutional terms, rights floors, offense taxonomy, or the constitutional routing logic owned by `core_08-08_forum.md` **Chapter Eight**.
+- **Boundary rule:** this file does **not** redefine constitutional terms, Rights Floors, offense taxonomy, or the constitutional routing logic owned by `core_08-08_forum.md` **Chapter Eight**.
 - **Forum-family limit:** this file does **not** create new forum families beyond those authorized in `core_08-08_forum.md` **Chapter Eight**.
 - **Chapter Nine structure:** this file operationalizes challenge and redress through **Article XII-B**, auditability and observable evidence through **Article XV-A** with **Chapters Two through Four**, interpretation safeguards through **Article XXII**, justice / emergency boundaries through **Article XXIII** and its subarticles, and transition-phase adjudication support as **Article XXV** references into this file and **`corpus_institutions.md`** **CI-14**.
 
@@ -372,7 +372,7 @@ Each required forum family must publish an intake path that, at minimum:
 ### CC-4.2 Intake triage body
 Each required forum family must publish an **intake triage body**, or a functionally equivalent arrangement with the same duties, independence expectations, and contestability. That body or arrangement must, at minimum:
 - sort incoming matters into the published classes under **CC-4.1**;
-- flag preservation, rights-floor, cross-family routing, and backup-forum needs;
+- flag preservation, Rights-Floor, cross-family routing, and backup-forum needs;
 - maintain attributable intake records sufficient for review;
 - **not** substitute for lawfully constituted merits panels on substantive outcomes;
 - publish its mandate, composition or duty pool, conflict rules, confidentiality boundaries where applicable, and a prompt path to challenge contested routing or classification.
@@ -395,7 +395,7 @@ This section governs:
 
 **CC-5.1.101 — Party-bound effect.** The determination binds the parties before the tribunal on the issues decided, including ordinary **issue preclusion** effects adopting law assigns, but does **not** by itself establish a published rule for unrelated matters. This is the default classification for routine inter-partes outcomes unless the record states another **CC-5.1** code with broader reach.
 
-**CC-5.1.102 — Scope-anchored effect.** The determination binds or governs a **class**, **subclass**, **common practice**, **common decision rule**, or comparable **shared** stake, including representative proceedings authorized under `core_08-08_forum.md` **Chapter Eight**, **section 6** (*Scope expansion and representative treatment*). **High-impact, rights-floor, constitutional, or structurally precedential** determinations referenced in the **Minimum lane structure** rule in this section ordinarily carry at least **CC-5.1.102** when they materially extend beyond the named parties in the caption.
+**CC-5.1.102 — Scope-anchored effect.** The determination binds or governs a **class**, **subclass**, **common practice**, **common decision rule**, or comparable **shared** stake, including representative proceedings authorized under `core_08-08_forum.md` **Chapter Eight**, **section 6** (*Scope expansion and representative treatment*). **High-impact, Rights-Floor, constitutional, or structurally precedential** determinations referenced in the **Minimum lane structure** rule in this section ordinarily carry at least **CC-5.1.102** when they materially extend beyond the named parties in the caption.
 
 **CC-5.1.103 — Published panel-rule effect.** The determination publishes an **intra-family** (or expressly stated **cross-family**) rule, threshold placement, or disposition pattern that other **lawful merits panels** in the same adopting system must treat as **presumptive** until **reasoned departure** on a reviewable record, consistent with **meaningfully independent** review where **CC-5** requires it and with panel-formation discipline in **CC-3**. Departure mechanics must be **published**; unexplained inconsistency across panels in the same class of dispute is presumptively non-compliant unless a **published coordination rule** explains the divergence.
 
@@ -407,13 +407,13 @@ This section governs:
 
 **Minimum lane structure.**
 - Ordinary merits determinations must have a published review path.
-- High-impact, rights-floor, constitutional, or structurally precedential determinations must have access to a review body that is meaningfully independent of the original decision-maker. The attributable record must state the applicable **CC-5.1.101**–**CC-5.1.104** code(s) from **CC-5.1**; the default expectation for this bullet is at least **CC-5.1.102** unless adopting law expressly treats the outcome as party-bound only.
+- High-impact, Rights-Floor, constitutional, or structurally precedential determinations must have access to a review body that is meaningfully independent of the original decision-maker. The attributable record must state the applicable **CC-5.1.101**–**CC-5.1.104** code(s) from **CC-5.1**; the default expectation for this bullet is at least **CC-5.1.102** unless adopting law expressly treats the outcome as party-bound only.
 - Emergency or imminent-harm matters must have an expedited interim-review lane.
 - Restricted-evidence matters must preserve a lawful route for scope, secrecy, access, and later merits review without turning secrecy alone into practical unreviewability.
 
 **Internal review vs independent review.** Internal or same-family review may be sufficient for low-impact, highly reversible, or tightly bounded procedural matters where the review body is still conflict-screened and authorized to correct error. Independent secondary review is mandatory where one or more of the following materially apply:
 - irreversible or hard-to-reverse harm risk;
-- deprivation of foundational rights or survival-relevant access;
+- deprivation of Foundational Rights or survival-relevant access;
 - constitutional-meaning disputes;
 - structural conflict, capture, or recusal concerns;
 - sanctions or exclusions whose practical effect extends beyond a minor and rapidly reversible interval.
@@ -476,9 +476,9 @@ Omission of a materially required element makes the sanction or restriction proc
 - **stays**, **sequencing**, **milestones**, or **coordination** orders the **Integrity** tribunal **retains** on the **lead** record;
 - where applicable, **remediation** **options** or **menus** and which elements are **binding** versus **advisory**, consistent with **Chapter Eight**, **section** **4**.
 
-**Referral priority publication.** Adopting instruments must publish **tie-break** rules for **ordering** **component** referrals and **overlapping** **urgency** — **without** displacing **dominant-purpose** assignment of **merits**. Published criteria must account for **rights-floor** **urgency**, **irreversible** **harm** risk, **classification** or **compliance** **dependency** where **Chapter Six** is implicated, **evidentiary** **decay** or **preservation** **need**, and **practical** **resolution** **sequence**. **Opaque** or **caption-driven** sorting at the referral threshold is presumptively non-compliant.
+**Referral priority publication.** Adopting instruments must publish **tie-break** rules for **ordering** **component** referrals and **overlapping** **urgency** — **without** displacing **dominant-purpose** assignment of **merits**. Published criteria must account for **Rights-Floor** **urgency**, **irreversible** **harm** risk, **classification** or **compliance** **dependency** where **Chapter Six** is implicated, **evidentiary** **decay** or **preservation** **need**, and **practical** **resolution** **sequence**. **Opaque** or **caption-driven** sorting at the referral threshold is presumptively non-compliant.
 
-**Neutral coordination role.** **Supervisory coordination** means **forum-managed** **stays**, **sequencing**, **status** review, and **milestone** **accountability** — **not** partisan **advocacy** for a party outcome and **not** a substitute for **prosecutorial**, **institutional**, or **investigative** **merits** bodies where those roles are lawfully distinct under **CC-8** and `corpus_institutions.md`.
+**Neutral coordination role.** **Supervisory coordination** applies the `corpus_joint_structure.md` **CJS-3.3** merits-boundary rule to **forum-managed** **stays**, **sequencing**, **status** review, and **milestone** **accountability**. It is **not** partisan **advocacy** for a party outcome and **not** a substitute for **prosecutorial**, **institutional**, or **investigative** **merits** bodies where those roles are lawfully distinct under **CC-8** and `corpus_institutions.md`.
 
 **Merits boundaries.** **Integrity** tribunals **must** **not** issue **final** **merits** determinations **reserved** to **another** family's **dominant** question — including **constitutional** validity and **class-wide** **structural** remedy — except where **Chapter Eight** assigns that **primary** stake to **Integrity** forums. Tribunals receiving **referrals** exercise **their** **lawful** **merits** authority and **must** treat **binding** **integrity** findings and **coordination** orders on the **lead** **Integrity** record as **lawful** **inputs** under **certification**, **issue** **preclusion**, **stay**, and **sequencing** rules — **without** **collateral** **re-litigation** of those findings **outside** **published** review paths.
 
@@ -633,7 +633,7 @@ This section does not displace stricter lawful deadlines.
 
 ### CC-10.0 Class-scaled service requirements (notice through remediation closure)
 
-**Purpose:** **Contestability** requires **practically usable** notice, record access, review, appeal, restorative follow-through, and closure — not formal rights alone. This subsection ties **CC-10** timing and backlog discipline to **end-to-end** obligations. It does **not** add **Chapter Nine** rights text; operational detail for non-forum institutions sits in **`corpus_institutions.md`** **CI-6**, **CI-12**, and **CI-13**.
+**Purpose:** This subsection applies **Contestability** and `corpus_joint_structure.md` **CJS-3.33** to forum timing and backlog discipline so notice, record access, review, appeal, restorative follow-through, and closure remain practically usable. It does **not** add **Chapter Nine** rights text; operational detail for non-forum institutions sits in **`corpus_institutions.md`** **CI-6**, **CI-12**, and **CI-13**.
 
 **Matter classes (minimum set for target windows and disclosure):**
 - **Emergency / imminent harm** — hours to a small number of days for initial responsive action where life, serious injury, or irreversible rights loss is at stake.
@@ -689,7 +689,7 @@ Each adopting system must set published target windows for:
 - publication of routing, transfer, and merits records;
 - backup-forum activation where Chapter Eight requires it.
 
-For emergency or rights-floor matters, targets must be materially shorter than for ordinary civil matters.
+For emergency or Rights-Floor matters, targets must be materially shorter than for ordinary civil matters.
 
 If a system cannot yet justify its own calibrated numbers, the interim default should be:
 - routing and emergency-screening windows measured in hours or a small number of days, not weeks, for emergency / imminent-harm cases;
@@ -783,7 +783,7 @@ The standard governance report should include at minimum:
 
 ### CC-10.12 Non-compliant performance patterns
 The following patterns are presumptively non-compliant unless clearly justified and corrected:
-- chronic delay concentrated in rights-floor or emergency matters;
+- chronic delay concentrated in Rights-Floor or emergency matters;
 - backlog aging that predictably defeats practical remedy;
 - unexplained publication delay on materially impactful rulings;
 - selective speed for favored parties or favored issue classes;
@@ -834,7 +834,7 @@ It governs continuity of adjudication. It does not authorize permanent alteratio
 
 Where forum continuity materially depends on constitutional systems, this section must be read with `corpus_systems.md` **Protocol A**, subsection **G** (*Governance continuity, crisis communications, and exercises*). Protocol A states the shared emergency lifecycle, crisis-communication, exercise, restoration-evidence, and audit-trail mechanics; **CC-11** supplies the forum-specific triggers, routing, quorum, backup-forum, docket, and adjudicative-review requirements.
 
-### CC-11.1 Rights-floor continuity rule
+### CC-11.1 Rights-Floor continuity rule
 Emergency forum operation must preserve, to the greatest feasible extent:
 - baseline challenge rights;
 - access to emergency relief;
@@ -876,7 +876,7 @@ Shared expiry, reauthorization, restoration, and closure-evidence requirements f
 In any degraded or emergency mode, the system must preserve at minimum:
 - intake for urgent matters;
 - emergency interim-relief authority;
-- routing or triage sufficient to identify rights-floor, evidence-preservation, and safety-critical cases;
+- routing or triage sufficient to identify Rights-Floor, evidence-preservation, and safety-critical cases;
 - record preservation and chain of custody;
 - a way to challenge emergency orders;
 - a path to restore ordinary forum review when feasible.
@@ -936,7 +936,7 @@ That review must assess:
 - whether the trigger still exists;
 - whether emergency simplifications remain necessary and proportionate;
 - whether continuity powers are drifting into durable concentration;
-- whether rights-floor, challenge, and publication duties are being preserved enough to remain lawful.
+- whether Rights-Floor, challenge, and publication duties are being preserved enough to remain lawful.
 
 Continuation beyond the published window requires reasoned reauthorization.
 
@@ -970,7 +970,7 @@ Every activation must produce the restoration and post-incident evidence require
 - what triggered the continuity mode;
 - what functions degraded or failed;
 - what fallback measures were used;
-- whether rights-floor continuity was maintained;
+- whether Rights-Floor continuity was maintained;
 - what delays or review failures occurred;
 - what remediation and future-hardening steps are required.
 

@@ -32,11 +32,11 @@ This edition treats the following chapters as binding constitutional text, not a
 **Start Here (first read):**
 - Read **Chapter One** first in `core_00-01_principles.md` (core values and constraints).
 - Use **Chapters Two through Four** in `core_02-04_definition_mechanics.md` for definition structure, integrity, burden and verification links.
-- Use **Chapter Five** in `core_05-05_definitions_a_independent.md` (Part A), `core_05-05_definitions_b_semi_independent.md` (Part B), and `core_05-05_definitions_c_dependent_clusters.md` (Part C) for foundational definitions (Chapter Five is the definition stack, not the rights floor).
+- Use **Chapter Five** in `core_05-05_definitions_a_independent.md` (Part A), `core_05-05_definitions_b_semi_independent.md` (Part B), and `core_05-05_definitions_c_dependent_clusters.md` (Part C) for foundational definitions (Chapter Five is the definition stack, not the Rights Floor).
 - Use **Chapter Six** in `core_06-06_standing_classification.md` and `core_06-06_standing_integration.md` for contribution, violation, and standing (two-axis model: **Axis I** — contribution state; **Axis II** — violation nature; **standing effect** — the **combined** **effect** of both axes).
 - Use **Chapter Seven** in `core_07-07_misconduct.md` for anti-constitutional misconduct and final **s = 7, 8, or 9** slot assignment (unified-incident gravity; **Chapter Six**, section **10** is the authoritative pointer into this chapter).
 - Use **Chapter Eight** in `core_08-08_forum.md` for constitutional forum families, default jurisdiction, and the **cross-forum anti-self-judging** rule.
-- Read **Chapter Nine** in `core_09-09_rights_part_a.md` through `core_09-09_rights_part_d.md` for the rights floor (articles appear in **Parts A–D** in a **planet-first** presentation order; non-operative summary in [architecture_primer.md](architecture_primer.md) **section 6**).
+- Read **Chapter Nine** in `core_09-09_rights_part_a.md` through `core_09-09_rights_part_d.md` for the Rights Floor (articles appear in **Parts A–D** in a **planet-first** presentation order; non-operative summary in [architecture_primer.md](architecture_primer.md) **section 6**).
 - Use **Chapter Ten** in `core_10-10_governance.md` for constitutional contract, legitimacy, authorization, and stewardship requirements.
 - Use **Chapter Eleven** in `core_11-13_amendment.md` for non-regression and substantive amendment validity (Test 1; anti-evasion; referral triggers).
 - Use **Chapter Twelve** in `core_11-13_amendment.md` for expansion of protection, supremacy relative to other norms, and external legal orders.
@@ -44,7 +44,7 @@ This edition treats the following chapters as binding constitutional text, not a
 - Use **Chapter Fourteen** in `core_14-14_incorporation.md` for the incorporation bridge (what companion files bind, adoption and custody, and no silent drift).
 
 **Fast Locator:**
-- Rights floor -> **Chapter Nine** (`core_09-09_rights_part_a.md` through `core_09-09_rights_part_d.md`; see [architecture_primer.md](architecture_primer.md) **section 6** for Part A–D reading map)
+- Rights Floor -> **Chapter Nine** (`core_09-09_rights_part_a.md` through `core_09-09_rights_part_d.md`; see [architecture_primer.md](architecture_primer.md) **section 6** for Part A–D reading map)
 - Anti-constitutional misconduct (final **s = 7, 8, or 9**; unified-incident gravity) -> **Chapter Seven** (`core_07-07_misconduct.md`)
 - Forum families, jurisdiction, and cross-forum anti-self-judging -> **Chapter Eight** (`core_08-08_forum.md`)
 - Burden of proof, traceability, verification -> **Chapter Four** (`core_02-04_definition_mechanics.md`)
@@ -79,7 +79,7 @@ Related documents (same corpus):
 
 **Incorporation rule:** Obligations in **corpus_joint_structure.md**, **corpus_systems.md**, **corpus_institutions.md**, **corpus_forum.md**, and **corpus_joint_structure.md** are **binding implementation text incorporated by reference** into the corpus. They do **not** create a second constitutional source.
 
-Sentient Constitution **Chapter Fourteen** in `core_14-14_incorporation.md` is the **constitutional incorporation bridge**. It defines binding incorporated implementation text, adoption and custody, and the no-silent-drift rule. **§4 Adoption framing and scope of authority** of Chapter Fourteen states the instrument's own adoption-framing self-description: the Sentient Constitution is an **aspirational model constitutional instrument** whose substantive content (principles, definitions, rights floor, and other substantive chapters) stands as stated regardless of adoption, but whose **operative enforcement effect** within any jurisdiction, federation, polity, organization, system, or adopter body is contingent on valid adoption under **Chapter Thirteen** and **Chapter Fourteen**. "The instrument lacks jurisdiction" is not a substantive rebuttal of the instrument's content; it is only a correct statement about operative enforcement against a non-adopter.
+Sentient Constitution **Chapter Fourteen** in `core_14-14_incorporation.md` is the **constitutional incorporation bridge**. It defines binding incorporated implementation text, adoption and custody, and the no-silent-drift rule. **§4 Adoption framing and scope of authority** of Chapter Fourteen states the instrument's own adoption-framing self-description: the Sentient Constitution is an **aspirational model constitutional instrument** whose substantive content (principles, definitions, Rights Floor, and other substantive chapters) stands as stated regardless of adoption, but whose **operative enforcement effect** within any jurisdiction, federation, polity, organization, system, or adopter body is contingent on valid adoption under **Chapter Thirteen** and **Chapter Fourteen**. "The instrument lacks jurisdiction" is not a substantive rebuttal of the instrument's content; it is only a correct statement about operative enforcement against a non-adopter.
 
 `doc_architecture.md` describes corpus ownership, file boundaries, and project-wide definition discipline.
 

@@ -421,8 +421,8 @@ Each item below specifies (a) owner chapter, (b) insertion site, (c) Ch 5 entrie
 
 #### 11.2 — Plain-language accessibility obligation (T3)
 
-- **Owner chapter:** **[REVIEW-Q-11.2.A]** Chapter One (principle) **vs.** Chapter Two (definition mechanics). Recommend **Chapter One §3.3 (new sub-section) plus Chapter Two §2 cross-reference** — the obligation is a principle-layer stewardship duty under §6.1.4 *Avoidable Burden* and Article VI capability-building, with Chapter Two's existing plain-language guardrails already in `doc_architecture.md` §4.
-- **Insertion site:** `core_00-01_principles.md` new §3.3 (or extension of §3.1 / §3.2 — final placement in drafting); `core_02-04_definition_mechanics.md` cross-reference only.
+- **Owner chapter:** **[REVIEW-Q-11.2.A]** Chapter One (principle) **vs.** Chapter Two (definition mechanics). Recommend **Chapter One current §3.4 (originally proposed as a new subsection before the science-informed inquiry insertion) plus Chapter Two §2 cross-reference** — the obligation is a principle-layer stewardship duty under §6.1.4 *Avoidable Burden* and Article VI capability-building, with Chapter Two's existing plain-language guardrails already in `doc_architecture.md` §4.
+- **Insertion site:** `core_00-01_principles.md` current §3.4 (originally proposed as a new subsection, or extension of §3.1 / §3.2 — final placement in drafting); `core_02-04_definition_mechanics.md` cross-reference only.
 - **Ch 5 additions:** none; reuses `Avoidable Burden`, `Accessibility` (Track 8.3).
 - **Definitional rigor preservation:** plain-language is not a license to soften definitions.
 - **Regression seeds:** `RS-CH1-PLAIN-001` (Core; jargon used to defeat contestability); `RS-CH1-PLAIN-002` (Adversarial; plain-language obligation used to soften a definition's compliance bullet).

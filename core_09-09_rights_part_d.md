@@ -1,4 +1,4 @@
-# Sentient Constitution — Foundational rights (Part D)
+# Sentient Constitution — Foundational Rights (Part D)
 
 This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one instrument. It contains **Chapter Nine, Part D**; article numbering and cross-references match the integrated instrument. Reading order, the binding/support split, and corpus edition metadata are maintained in [README.md](README.md).
 
@@ -32,7 +32,7 @@ Disputes among sentients, systems, and institutions that affect constitutional r
 
 Adjudication and dispute resolution in the constitutional sense are defined in **Chapter Five** as [*Adjudication and Dispute Resolution*](core_05-05_definitions_b_semi_independent.md#adjudication-and-dispute-resolution-constitutional), a member definition of the [*Accountability, Contestability, Adjudication and Dispute Resolution, Collective Accountability Failure, and Force Majeure*](core_05-05_definitions_c_dependent_clusters.md#accountability-contestability-and-collective-accountability-failure-cluster) cluster.
 
-Adopted governance implementation provides escalation, proportionality of intervention, and emergency boundaries. It must not narrow practical access, reviewability, restoration, or rights-floor constraints under this Article.
+Adopted governance implementation provides escalation, proportionality of intervention, and emergency boundaries. It must not narrow practical access, reviewability, restoration, or Rights-Floor constraints under this Article.
 #### Article XXIII-A: Justice Objective and Scope
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
@@ -407,7 +407,7 @@ Transitional governance exists to secure continuity and non-regression. It must 
     - convenience;
     - political pressure.
   - Detailed gate criteria, owner assignment, and verification artifacts are governed by `corpus_institutions.md` **CI-14**.
-- **Rights-floor continuity:** At every phase, baseline protections must remain in force for:
+- **Rights-Floor continuity:** At every phase, baseline protections must remain in force for:
   - survival;
   - dignity;
   - agency;
@@ -561,7 +561,7 @@ Transitional governance exists to secure continuity and non-regression. It must 
 
 This closing section is operative for **Chapter Nine** as a whole and applies across **Parts A through D** (Articles **I** through **XXV**, including all sub-articles).
 
-This chapter states **rights floors and rights-level interpretive scope** for sentients (substrate-agnostic under *Sentience Non-Exclusion*). Rights-floor language operates at the rights-floor layer; designated implementation layers operationalize these rights but must not narrow, redefine, or relocate them, as already stated at the opening of **Part A**. This section operates the converse-direction discipline: **Chapter Nine** does not absorb process mechanics, governance details, or implementation obligations belonging to other owner layers.
+This chapter states **Rights Floors and rights-level interpretive scope** for sentients (substrate-agnostic under *Sentience Non-Exclusion*). Rights-Floor language operates at the Rights-Floor layer; designated implementation layers operationalize these rights but must not narrow, redefine, or relocate them, as already stated at the opening of **Part A**. This section operates the converse-direction discipline: **Chapter Nine** does not absorb process mechanics, governance details, or implementation obligations belonging to other owner layers.
 
 This chapter does **not** establish, restate, or expand:
 
@@ -577,12 +577,12 @@ This chapter does **not** establish, restate, or expand:
 
 Pointer-only cross-references from **Chapter Nine** into the canonical owner layers above — including read-with directives, default-constraint-stack invocation, interpretive-hub anchors, and integration sentences such as "implementation belongs in" or "must not narrow" — are permitted and expected; **substantive restatement** of process / governance / implementation mechanics into rights-layer text is **non-compliant** under this section.
 
-Reader-guidance, reading-map, and orientation prose in this chapter (including the **Part A** opening default-constraint stack, planet-first reading-order explanation, interpretive-hub anchors, and reader map; the **Part D** justice-and-evolution opening framing; and any forward / backward navigation pointers across **Parts A through D**) is **non-operative for relocation**: it does not create, narrow, or relocate rights floors and does not import process / governance / implementation mechanics from other owner layers into **Chapter Nine**.
+Reader-guidance, reading-map, and orientation prose in this chapter (including the **Part A** opening default-constraint stack, planet-first reading-order explanation, interpretive-hub anchors, and reader map; the **Part D** justice-and-evolution opening framing; and any forward / backward navigation pointers across **Parts A through D**) is **non-operative for relocation**: it does not create, narrow, or relocate Rights Floors and does not import process / governance / implementation mechanics from other owner layers into **Chapter Nine**.
 
 Future additions to **Chapter Nine** that touch process-flavored, governance-flavored, or implementation-flavored language **must include an explicit non-relocation pointer** to the canonical owner home named above (and, where applicable, to the corresponding Chapter Five definition entry as the constitutional-layer integration point) so the rights-layer floor stays at the rights-layer floor and the process / governance / implementation home retains canonical authority. 
 
 Cross-layer drift that imports process mechanics, governance details, or implementation obligations from **Chapters Two through Four**, **Chapter Six**, **Chapter Seven**, **Chapter Eight**, **Chapter Ten**, **Chapter Eleven**, **Chapter Thirteen**, **Chapter Fourteen**, or any companion implementation file into **Chapter Nine** — whether as direct text, as reader-guidance prose elevated to operative **effect**, or as inference from cross-references — is **non-compliant** under this section. 
 
-Conversely, any owner-layer chapter or companion implementation file that purports to **narrow, redefine, or relocate** a Chapter Nine rights floor through process-mechanics framing, governance-procedure framing, implementation-detail framing, or reader-guidance elevation is non-compliant under **Chapter Eleven** non-regression and under the opening contract of **Part A** (rights-floor inviolability against operationalization-driven narrowing).
+Conversely, any owner-layer chapter or companion implementation file that purports to **narrow, redefine, or relocate** a Chapter Nine Rights Floor through process-mechanics framing, governance-procedure framing, implementation-detail framing, or reader-guidance elevation is non-compliant under **Chapter Eleven** non-regression and under the opening contract of **Part A** (Rights-Floor inviolability against operationalization-driven narrowing).
 
 For a non-operative reading walkthrough of **Chapter Nine** rights-layer architecture, see [architecture_primer.md](architecture_primer.md). The doctrinal map is in [doc_architecture.md](doc_architecture.md) **section 5** (Chapter Nine rows) and **section 17** (current edition cut).

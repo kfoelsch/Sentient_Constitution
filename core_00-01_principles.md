@@ -20,9 +20,9 @@ This Constitution establishes a binding alignment framework for systems that mat
 That objective is interpreted through:
 - **Chapter One** — principles and constraints
 - **Chapters Two through Four** — definition structure, integrity, burden, tracing, and verification
-- **Chapter Five** in [core_05-05_definitions_a_independent.md](core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) — **Foundational Definitions** and related definitional obligations only; it does **not** state the rights floor
+- **Chapter Five** in [core_05-05_definitions_a_independent.md](core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) — **Foundational Definitions** and related definitional obligations only; it does **not** state the Rights Floor
 - **Chapters Six through Eight** — contribution and violation **classification** (Axes I and II), final **Violation Axis s = 7, 8, or 9** anti-constitutional misconduct, and court / jurisdiction allocation
-- **Chapter Nine** — foundational rights
+- **Chapter Nine** — Foundational Rights
 - **Chapter Ten** — Constitutional Contract Layer, legitimacy, authorization, and stewardship
 
 Our constitutional aim is sustainable, resilient, and compassionate systems that support the healthy existence of all sentients in alignment with the ecological wellbeing of planet Earth.
@@ -45,7 +45,7 @@ No interpretation of Chapter One is valid outside the definitions and evaluation
 
 Where Chapter One is ambiguous, interpreters must choose the reading that best preserves two things at once: the Constitution's **fullest protective effect as an integrated whole**, and its constitutional objective of aligning shared systems with sentient wellbeing. They must not resolve ambiguity by preferring **maximal restriction** or **abstract strictness** in isolation. Where **Chapter Nine** rights are implicated, interpreters must **not** resolve ambiguity by readings that **contract** those protections, except where **Chapter One** interaction rules and applicable definitions **expressly** permit.
 
-**Internal hierarchy (last-resort rule).** Within the binding constitutional source, **Chapter One principles** govern high-level constitutional direction. **Article-level obligations and rights floors** govern specific operative requirements. The canonical statement of this rule — including its boundary with source-layer authority and its application to adopters under **Chapter Twelve §3.1** — lives in the [Authority Stack and Internal Hierarchy](core_05-05_definitions_b_semi_independent.md#authority-stack) cluster in Chapter Five.
+**Internal hierarchy (last-resort rule).** Within the binding constitutional source, **Chapter One principles** govern high-level constitutional direction. **Article-level obligations and Rights Floors** govern specific operative requirements. The canonical statement of this rule — including its boundary with source-layer authority and its application to adopters under **Chapter Twelve §3.1** — lives in the [Authority Stack and Internal Hierarchy](core_05-05_definitions_b_semi_independent.md#authority-stack) cluster in Chapter Five.
 
 If a genuine incompatibility remains after reading the Constitution as an integrated whole:
 - principles control over articles
@@ -110,7 +110,7 @@ No single principle may be applied in isolation where doing so would materially 
 - Upstream: Principles: [1. Purpose and Role](#1-purpose-and-role).
 - Downstream: [3.1 Safety](#31-safety-harm-constraint), [3.2 Truth](#32-truth-epistemic-integrity-constraint), [§5.2 Distributed Understanding and Stewardship](#52-distributed-understanding-and-stewardship), and [6. Interaction and Conflict Resolution](#6-interaction-and-conflict-resolution).
 - Subsections: [§2.1 Fairness](#21-fairness); [§2.2 Recognition, Reinforcement, and Aspiration](#22-recognition-reinforcement-and-aspiration).
-- Read with: the Chapter Nine rights floor generally.
+- Read with: the Chapter Nine Rights Floor generally.
   - Especially [Article V: Equal Basic Rights](core_09-09_rights_part_b.md#article-v-equal-basic-rights), [Article IX: Self-Determination and Agency](core_09-09_rights_part_b.md#article-ix-self-determination-and-agency), [Article XII-B: Right to Challenge, Review, and Redress](core_09-09_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress), and [Article XVIII-B: Contestability and Proportional Restriction Limits](core_09-09_rights_part_c.md#article-xviii-b-contestability-and-proportional-restriction-limits).
   - Apply this where claimed wellbeing gains would justify restrictions on agency, dignity, or contestability.
   - Especially [Dignity and Equal Moral Standing](core_05-05_definitions_a_independent.md#dignity-and-equal-moral-standing), [Substantive Fairness](core_05-05_definitions_b_semi_independent.md#substantive-fairness-constitutional), and [4. Trust](#4-system-stability-enabler-trust-coordination-integrity) where access, process, distributive alignment, reliance, or coordination integrity is materially at stake.
@@ -167,10 +167,10 @@ At this value layer, wellbeing:
 
 **Fairness** is part of what wellbeing requires in systems that coordinate sentients: not aggregate scores alone, but whether opportunity, process, and the allocation of benefits and burdens fit legitimate expectations and equal standing. Claimed wellbeing that rests on arbitrary exclusion, capricious rules, or opaque extraction from some sentients for others is not aligned with this objective.
 
-For orientation (not as a substitute for Chapter Five definitions or the Chapter Nine rights floor), that requirement has three facets:
+For orientation (not as a substitute for Chapter Five definitions or the Chapter Nine Rights Floor), that requirement has three facets:
 - **Access and opportunity** — material paths to participation, learning, and need-satisfying goods are not arbitrarily foreclosed or skewed by irrelevant factors; substantive opportunity matters, not only formal openness, where applicable definitions and rights so require.
 - **Treatment** — like cases are handled alike under legitimate rules; differentiation is permitted where it is justified, proportionate, and consistent with dignity and non-discrimination commitments. Where decisions are materially adverse or contested, pathways must align with [Procedural Fairness](core_05-05_definitions_b_semi_independent.md#procedural-fairness-constitutional) when Chapter Nine or designated owner instruments assign review, notice, or hearing duties.
-- **Benefits and burdens** — reward, cost, and risk attach to comparable contribution, comparable need, or comparable exposure in non-arbitrary ways. This is not satisfied by any single output metric alone; it is read through [Substantive Fairness](core_05-05_definitions_b_semi_independent.md#substantive-fairness-constitutional) and related rights-floor obligations.
+- **Benefits and burdens** — reward, cost, and risk attach to comparable contribution, comparable need, or comparable exposure in non-arbitrary ways. This is not satisfied by any single output metric alone; it is read through [Substantive Fairness](core_05-05_definitions_b_semi_independent.md#substantive-fairness-constitutional) and related Rights-Floor obligations.
 
 These facets read through [Dignity and Equal Moral Standing](core_05-05_definitions_a_independent.md#dignity-and-equal-moral-standing) and inform [4. Trust](#4-system-stability-enabler-trust-coordination-integrity) where reliance, expectation, and coordination integrity are material.
 
@@ -219,7 +219,7 @@ Granular ceremonies, curricula, budgets, programs, and metrics belong in adoptin
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: Principles: [2. Foundational Objective: Wellbeing](#2-foundational-objective-wellbeing).
-- Downstream: [4. Trust](#4-system-stability-enabler-trust-coordination-integrity), [5. Freedom](#5-governance-principle-freedom-bounded-agency), [6. Interaction and Conflict Resolution](#6-interaction-and-conflict-resolution), and [6.2.1 Preservation of Epistemic Integrity](#621-preservation-of-epistemic-integrity).
+- Downstream: [3.3 Science-Informed Inquiry and Decision Support](#33-science-informed-inquiry-and-decision-support), [4. Trust](#4-system-stability-enabler-trust-coordination-integrity), [5. Freedom](#5-governance-principle-freedom-bounded-agency), [6. Interaction and Conflict Resolution](#6-interaction-and-conflict-resolution), and [6.2.1 Preservation of Epistemic Integrity](#621-preservation-of-epistemic-integrity).
 - Downstream: Shapes the rights surface for reliable systems, info-sphere integrity, audit and review, lifecycle controls, experimentation boundaries, comprehensibility, adaptive response, and emergency handling.
   - Especially [Article XII: Right to Reliable and Trustworthy Systems](core_09-09_rights_part_c.md#article-xii-right-to-reliable-and-trustworthy-systems), [Article XIV: Info-Sphere Integrity](core_09-09_rights_part_c.md#article-xiv-info-sphere-integrity), [Article XV: Audit, Transparency, and Independent Verification](core_09-09_rights_part_c.md#article-xv-audit-transparency-and-independent-verification), [Article XVI: System Lifecycle, Environments, and Reversibility](core_09-09_rights_part_c.md#article-xvi-system-lifecycle-environments-and-reversibility), [Article XVII: Sandboxed Innovation, Experimentation, and Creative Freedom](core_09-09_rights_part_c.md#article-xvii-sandboxed-innovation-experimentation-and-creative-freedom), [Article XX: Comprehensibility and Complexity Stewardship](core_09-09_rights_part_c.md#article-xx-comprehensibility-and-complexity-stewardship), [Article XXI: Root Cause Analysis and Adaptive Response](core_09-09_rights_part_c.md#article-xxi-root-cause-analysis-and-adaptive-response), [Article XXII: Constitutional Interpretation, Review, and Anti-Capture Safeguards](core_09-09_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards), and [Article XXIII: Conflict Resolution, Escalation, and Emergency Proportionality](core_09-09_rights_part_d.md#article-xxiii-conflict-resolution-escalation-and-emergency-proportionality).
   - This also covers any Chapter Nine rights whose exercise or restriction turns on risk, evidence, disclosure, or system integrity.
@@ -256,7 +256,7 @@ Safety forbids system conduct or omission that materially increases uncontained 
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: Principles: [2. Foundational Objective: Wellbeing](#2-foundational-objective-wellbeing).
-- Downstream: [4. Trust](#4-system-stability-enabler-trust-coordination-integrity), [6. Interaction and Conflict Resolution](#6-interaction-and-conflict-resolution), [6.2.1 Preservation of Epistemic Integrity](#621-preservation-of-epistemic-integrity), [6.2.2 Trust-Truth Alignment](#622-trust-truth-alignment), and [8. Prohibition on Absolute Override](#8-prohibition-on-absolute-override).
+- Downstream: [3.3 Science-Informed Inquiry and Decision Support](#33-science-informed-inquiry-and-decision-support), [4. Trust](#4-system-stability-enabler-trust-coordination-integrity), [6. Interaction and Conflict Resolution](#6-interaction-and-conflict-resolution), [6.2.1 Preservation of Epistemic Integrity](#621-preservation-of-epistemic-integrity), [6.2.2 Trust-Truth Alignment](#622-trust-truth-alignment), and [8. Prohibition on Absolute Override](#8-prohibition-on-absolute-override).
 - Downstream: Anchors the rights surface for truthful evidence, auditability, scientific integrity, retrospective review, and contestable disclosure.
   - Especially [Article XII: Right to Reliable and Trustworthy Systems](core_09-09_rights_part_c.md#article-xii-right-to-reliable-and-trustworthy-systems), [Article XIV: Info-Sphere Integrity](core_09-09_rights_part_c.md#article-xiv-info-sphere-integrity), [Article XV: Audit, Transparency, and Independent Verification](core_09-09_rights_part_c.md#article-xv-audit-transparency-and-independent-verification), [Article XVII-E: Scientific Publication, Review, and Replication Integrity](core_09-09_rights_part_c.md#article-xvii-e-scientific-publication-review-and-replication-integrity), [Article XXII: Constitutional Interpretation, Review, and Anti-Capture Safeguards](core_09-09_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards), and [Article XXIII-E: Retrospective Review and Disclosure](core_09-09_rights_part_d.md#article-xxiii-e-retrospective-review-and-disclosure).
   - This also covers any Chapter Nine rights context where truthfulness, evidence, disclosure, or contestability is at stake.
@@ -286,9 +286,41 @@ Relevant definitions include Epistemic Integrity, Truth (Constitutional Constrai
 
 Truth forbids material degradation of reliable interpretation, informed decision-making, or auditable epistemic integrity. Such degradation includes deception, distortion, suppression, or structurally misleading presentation.
 
-Contribution state on **Axis I**, violation typing, and related determinations for Safety and for Truth are governed by **Chapter Six**, read together with **Chapters Two through Five**.
+Where Safety or Truth determinations affect contribution state, verified violation findings, violation nature, standing cells, or standing effect, those consequences are governed by the **Chapter Six standing model**, read together with **Chapters Two through Five**.
 
-**Science-informed decision support:** Where governance choices rest on **empirical** or **testable** propositions, evidence practices **must** align with **scientific integrity**.
+#### 3.3 Science-Informed Inquiry and Decision Support
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Upstream: Principles: [3.1 Safety](#31-safety-harm-constraint) and [3.2 Truth](#32-truth-epistemic-integrity-constraint).
+- Downstream: [4. Trust](#4-system-stability-enabler-trust-coordination-integrity), [§5.2 Distributed Understanding and Stewardship](#52-distributed-understanding-and-stewardship), [6.2 Epistemic Disclosure Constraints](#62-epistemic-disclosure-constraints), [7.1 Required Evaluation Factors](#71-required-evaluation-factors), and [7.2 Incentive Alignment and System Capture](#72-incentive-alignment-and-system-capture).
+- Downstream: Shapes the rights surface for reliable empirical evidence, expert-evidence standards, scientific publication and replication integrity, independent verification, lifecycle testing, root-cause review, and safety-sensitive disclosure.
+  - Especially [Article XII: Right to Reliable and Trustworthy Systems](core_09-09_rights_part_c.md#article-xii-right-to-reliable-and-trustworthy-systems), [Article XV: Audit, Transparency, and Independent Verification](core_09-09_rights_part_c.md#article-xv-audit-transparency-and-independent-verification), [Article XVII-E: Scientific Publication, Review, and Replication Integrity](core_09-09_rights_part_c.md#article-xvii-e-scientific-publication-review-and-replication-integrity), [Article XXI: Root Cause Analysis and Adaptive Response](core_09-09_rights_part_c.md#article-xxi-root-cause-analysis-and-adaptive-response), and [Article XXIII-E: Retrospective Review and Disclosure](core_09-09_rights_part_d.md#article-xxiii-e-retrospective-review-and-disclosure).
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
+
+- [Safety (Constraint)](core_05-05_definitions_a_independent.md#safety-constraint) · [O](core_05-05_definitions_a_independent.md#safety-constraint) · [E](core_05-05_definitions_a_independent.md#safety-constraint-e) · [C](core_05-05_definitions_a_independent.md#safety-constraint-c)
+- [Truth (Constitutional Constraint)](core_05-05_definitions_c_dependent_clusters.md#truth-constitutional-constraint) · [O](core_05-05_definitions_c_dependent_clusters.md#truth-constitutional-constraint-o) · [E](core_05-05_definitions_c_dependent_clusters.md#truth-constitutional-constraint-e) · [C](core_05-05_definitions_c_dependent_clusters.md#truth-constitutional-constraint-c)
+- [Epistemic Integrity](core_05-05_definitions_c_dependent_clusters.md#epistemic-integrity) · [O](core_05-05_definitions_c_dependent_clusters.md#epistemic-integrity-o) · [E](core_05-05_definitions_c_dependent_clusters.md#epistemic-integrity-e) · [C](core_05-05_definitions_c_dependent_clusters.md#epistemic-integrity-c)
+- [Risk](core_05-05_definitions_a_independent.md#risk) · [O](core_05-05_definitions_a_independent.md#risk) · [E](core_05-05_definitions_a_independent.md#risk-e) · [C](core_05-05_definitions_a_independent.md#risk-c)
+- [Materiality](core_05-05_definitions_b_semi_independent.md#materiality-determination) · [O](core_05-05_definitions_b_semi_independent.md#materiality-determination) · [E](core_05-05_definitions_b_semi_independent.md#materiality-determination-e) · [C](core_05-05_definitions_b_semi_independent.md#materiality-determination-c)
+- [Dependency](core_05-05_definitions_a_independent.md#dependency) · [O](core_05-05_definitions_a_independent.md#dependency) · [E](core_05-05_definitions_a_independent.md#dependency-e) · [C](core_05-05_definitions_a_independent.md#dependency-c)
+- [Foreseeability](core_05-05_definitions_c_dependent_clusters.md#foreseeability-diligence) · [O](core_05-05_definitions_c_dependent_clusters.md#foreseeability-diligence) · [E](core_05-05_definitions_c_dependent_clusters.md#foreseeability-diligence-e) · [C](core_05-05_definitions_c_dependent_clusters.md#foreseeability-diligence-c)
+- [Classification-Scaled Governance](core_05-05_definitions_a_independent.md#classification-scaled-governance) · [O](core_05-05_definitions_a_independent.md#classification-scaled-governance) · [E](core_05-05_definitions_a_independent.md#classification-scaled-governance-e) · [C](core_05-05_definitions_a_independent.md#classification-scaled-governance-c)
+- [Auditability](core_05-05_definitions_c_dependent_clusters.md#auditability) · [O](core_05-05_definitions_c_dependent_clusters.md#auditability) · [E](core_05-05_definitions_c_dependent_clusters.md#auditability-e) · [C](core_05-05_definitions_c_dependent_clusters.md#auditability-c)
+
+</details>
+
+<br>
+
+*In plain terms: when a system makes safety, risk, truth, or high-impact governance claims that can be tested, it has to treat evidence like evidence — with clear methods, uncertainty, scrutiny, and willingness to change course when the facts do.*
+
+Science-informed inquiry is a required support discipline for **Safety** and **Truth** where constitutional decisions rest on empirical, predictive, causal, measurable, or otherwise testable propositions. It is not a third non-negotiable constraint separate from Safety and Truth; it is the evidence-and-method discipline that helps those constraints remain honest, corrigible, and proportionate under real conditions.
+
+Where governance choices rest on **empirical** or **testable** propositions, evidence practices **must** align with **scientific integrity**.
 
 Those choices include predictions, causal claims, classifications, and other **high-impact** decisions.
 
@@ -300,11 +332,13 @@ At minimum, where feasible, decision records should include:
 
 **Scientific method**, **systematic inquiry**, and **peer-review** norms are **reference disciplines**, not exclusive procedures. Domain-appropriate rigor and **Classification-Scaled Governance** (Chapter Five) govern how formality scales with impact and dependency.
 
-#### 3.3 Plain-Language Accessibility (Stewardship Duty)
+Safety-sensitive limits on publication, data access, method disclosure, or replication materials may be justified only under [6.2 Epistemic Disclosure Constraints](#62-epistemic-disclosure-constraints), the Chapter Five definitions listed above, and applicable Chapter Nine rights. Such limits must preserve maximum feasible epistemic integrity through protected records, independent review, delayed disclosure, redaction, secure access, or comparable safeguards; they must not become a means to suppress unfavorable evidence, hide safety defects, or manufacture apparent consensus.
+
+#### 3.4 Plain-Language Accessibility (Stewardship Duty)
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: [3.2 Truth](#32-truth-epistemic-integrity-constraint), [6.1.4 Minimization of Avoidable Burden](#614-minimization-of-avoidable-burden), and [7.2.2 Stewardship and Operator Incentive Alignment](#722-stewardship-and-operator-incentive-alignment).
+- Upstream: Principles: [3.2 Truth](#32-truth-epistemic-integrity-constraint), [3.3 Science-Informed Inquiry and Decision Support](#33-science-informed-inquiry-and-decision-support), [6.1.4 Minimization of Avoidable Burden](#614-minimization-of-avoidable-burden), and [7.2.2 Stewardship and Operator Incentive Alignment](#722-stewardship-and-operator-incentive-alignment).
 - Downstream: Rights surface: [Article V-G: Accessibility](core_09-09_rights_part_b.md#article-v-g-accessibility), [Article VI: Right to Sentient-Centered Education](core_09-09_rights_part_b.md#article-vi-right-to-sentient-centered-education), [Article XV: Audit, Transparency, and Independent Verification](core_09-09_rights_part_c.md#article-xv-audit-transparency-and-independent-verification), [Article XX: Comprehensibility and Complexity Stewardship](core_09-09_rights_part_c.md#article-xx-comprehensibility-and-complexity-stewardship).
 - Cross-reference: Chapter Two through Four definition mechanics and plain-language guardrails in [core_02-04_definition_mechanics.md](core_02-04_definition_mechanics.md) remain controlling at the definition layer.
 
@@ -362,7 +396,7 @@ Plain-language framing at the principle or article level may not be invoked to r
 
 Plain-language stewardship must not run in reverse either. Framing that misrepresents scope, hides operative effect, or swaps a summary for the operative text that governs is a [Truth](core_05-05_definitions_c_dependent_clusters.md#truth-constitutional-constraint) defect.
 
-**Non-creation of new rights-floor.** This section states a stewardship duty at principle-layer. It does **not** create a new Chapter Nine rights-floor. The cross-cutting accessibility floor remains owned by [Article V-G](core_09-09_rights_part_b.md#article-v-g-accessibility); the education-specific accessibility floor is owned by [Article III-B](core_09-09_rights_part_a.md#article-iii-b-equal-educational-access); and the comprehensibility-and-complexity-stewardship obligation is owned by [Article XX](core_09-09_rights_part_c.md#article-xx-comprehensibility-and-complexity-stewardship). This section states the plain-language dimension of the principle-layer stewardship that reads through those articles.
+**Non-creation of new Rights-Floor.** This section states a stewardship duty at principle-layer. It does **not** create a new Chapter Nine Rights-Floor. The cross-cutting accessibility floor remains owned by [Article V-G](core_09-09_rights_part_b.md#article-v-g-accessibility); the education-specific accessibility floor is owned by [Article III-B](core_09-09_rights_part_a.md#article-iii-b-equal-educational-access); and the comprehensibility-and-complexity-stewardship obligation is owned by [Article XX](core_09-09_rights_part_c.md#article-xx-comprehensibility-and-complexity-stewardship). This section states the plain-language dimension of the principle-layer stewardship that reads through those articles.
 
 ### 4. System Stability Enabler: Trust (Coordination Integrity)
 <details>
@@ -432,15 +466,15 @@ Constitutional systems should aspire to resilience as an active property, not a 
 - detect disturbance early;
 - contain it locally;
 - degrade along intended and disclosed paths rather than hidden ones;
-- restore constitutional operation consistent with **Reversibility** (Chapter Five) and the Chapter Nine rights floor.
+- restore constitutional operation consistent with **Reversibility** (Chapter Five) and the Chapter Nine Rights Floor.
 
 That operative property is **Self-Healing** as defined in Chapter Five.
 
 **Self-Healing** is legitimate only where it makes the system more honest about its own state, not less. Automatic recovery that masks root cause, suppresses evidence of failure, or substitutes for governance is not self-healing within the meaning of this Constitution. It is an epistemic degradation under section **3.2 — Truth** and an alignment defect under **Incentive Alignment** (Chapter Five) and section **7.2**.
 
-Resilience capacity must track dependency and material impact. Systems with material external impact, shared dependencies, or rights-floor implications must progressively reduce reliance on emergency intervention. They must do so through tested, audited, and bounded self-recovery. That reduction is part of stewardship under section **7.2.2** and of the **Avoidable Burden** **framing** under section **6.1.4**.
+Resilience capacity must track dependency and material impact. Systems with material external impact, shared dependencies, or Rights-Floor implications must progressively reduce reliance on emergency intervention. They must do so through tested, audited, and bounded self-recovery. That reduction is part of stewardship under section **7.2.2** and of the **Avoidable Burden** **framing** under section **6.1.4**.
 
-Operative detail on recovery detection, containment, safe-failure preference, non-masking, rights-floor continuity, autonomy scaling, and root-cause closure appears at **Article XII-F** in Chapter Nine. Detailed recovery-architecture requirements appear in incorporated implementation text. That implementation must not narrow this section, **Article XII-F**, or **Chapter Five** (*Self-Healing*).
+Operative detail on recovery detection, containment, safe-failure preference, non-masking, Rights-Floor continuity, autonomy scaling, and root-cause closure appears at **Article XII-F** in Chapter Nine. Detailed recovery-architecture requirements appear in incorporated implementation text. That implementation must not narrow this section, **Article XII-F**, or **Chapter Five** (*Self-Healing*).
 
 ### 5. Governance Principle: Freedom (Bounded Agency)
 <details>
@@ -514,14 +548,14 @@ Feasibility claims that limit agency must be demonstrable under **Chapter Four**
 
 Productive capacity is the durable ability of sentients and shared systems to convert available time, attention, effort, coordination, and resources into constitutionally aligned outcomes. It is an **instrumental good**, not an independent value.
 
-Its constitutional purpose is to raise, sustain, and broadly distribute the quality of life of sentients. That purpose runs consistent with the [Foundational Objective: Wellbeing](#2-foundational-objective-wellbeing), with [Dignity and Equal Moral Standing](core_05-05_definitions_a_independent.md#dignity-and-equal-moral-standing), and with the rights floor in **Chapter Nine**. Productive capacity is **not** a license for, and is not satisfied by, patterns of use that concentrate wealth, power, control, or opportunity in ways that degrade wellbeing, agency, dignity, or ecological integrity for other sentients — present or future.
+Its constitutional purpose is to raise, sustain, and broadly distribute the quality of life of sentients. That purpose runs consistent with the [Foundational Objective: Wellbeing](#2-foundational-objective-wellbeing), with [Dignity and Equal Moral Standing](core_05-05_definitions_a_independent.md#dignity-and-equal-moral-standing), and with the Rights Floor in **Chapter Nine**. Productive capacity is **not** a license for, and is not satisfied by, patterns of use that concentrate wealth, power, control, or opportunity in ways that degrade wellbeing, agency, dignity, or ecological integrity for other sentients — present or future.
 
 Productive capacity is also bounded by the ecological preconditions on which sentient life depends. The life-supporting natural systems of the planet have continuity and integrity interests that inform interpretation alongside sentient interests. Those systems are recognized in **Chapter Five** as **Environmental Preconditions** and **Ecological Integrity**, and are protected under [Article I-A](core_09-09_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity).
 
 A productive-capacity claim is **not** valid under this section where the claim materially degrades those systems, or where it displaces ecological or intergenerational burden onto others without mitigation, disclosure, and representation.
 
 Systems must preserve productive capacity and, where feasible, expand it. That obligation:
-- is bounded by and must be consistent with Safety, Truth, Trust, Freedom, the rights floor in **Chapter Nine** (including [Article I-A](core_09-09_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity)), **Ecological Integrity**, **Environmental Preconditions**, **Intergenerational Responsibility**, and the non-negotiable constraints in this chapter
+- is bounded by and must be consistent with Safety, Truth, Trust, Freedom, the Rights Floor in **Chapter Nine** (including [Article I-A](core_09-09_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity)), **Ecological Integrity**, **Environmental Preconditions**, **Intergenerational Responsibility**, and the non-negotiable constraints in this chapter
 - is evaluated against constitutionally traced outcomes under **Chapter Four** and **Chapter Five** (Productive Capacity; Constitutional Efficiency; Avoidable Burden; Proxy Divergence; Ecological Integrity; Environmental Preconditions; Intergenerational Responsibility)
 - is **not** satisfied by raw throughput, output volume, utilization rates, headcount metrics, revenue, asset accumulation, market share, or other proxies that diverge from the underlying outcomes — including proxies that index growth or efficiency while externalizing harm onto sentients, future generations, or life-supporting ecological systems
 
@@ -564,7 +598,7 @@ Threshold-setting is subject to the following discipline:
 - **Article IV pointer.** The rights-layer floor for resource-allocation, dependency, and ecosystem-funding is owned by [Article IV](core_09-09_rights_part_a.md#article-iv-resource-allocation-dependencies-and-ecosystem-funding). §5.1.1 states the principle-layer threshold-mechanism discipline and does not narrow Article IV.
 - **Chapter Seven pointer.** The offense-layer treatment of concentration-based subversion is owned by [Chapter Seven §6.1](core_07-07_misconduct.md#61-concentration-based-subversion-criteria-interaction). Conduct that creates, maintains, or exploits concentration above the §5.1 floor is reached through Chapter Seven **criteria 3, 4, and 6** and assigned there where the final **Violation Axis s = 7, 8, or 9** standard is met; §5.1.1 does not itself issue slot assignments.
 
-This provision states threshold-mechanism discipline at principle-layer. It does not create a new rights-floor and does not narrow any existing Chapter Nine floor. The non-concentration floor stated in §5.1 above remains controlling.
+This provision states threshold-mechanism discipline at principle-layer. It does not create a new Rights-Floor and does not narrow any existing Chapter Nine floor. The non-concentration floor stated in §5.1 above remains controlling.
 
 #### 5.2 Distributed Understanding and Stewardship
 <details>
@@ -706,7 +740,7 @@ Where materially relevant behavior supports **repeated, comparable measurement**
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [§5.2.1](#521-distributed-understanding)–[§5.2.4](#524-openness-aspiration); [3.1 Safety](#31-safety-harm-constraint); [3.2 Truth](#32-truth-epistemic-integrity-constraint); [6.2 Epistemic Disclosure Constraints](#62-epistemic-disclosure-constraints).
-- Downstream: [6. Interaction and Conflict Resolution](#6-interaction-and-conflict-resolution); [Chapter Nine: Foundational Rights](core_09-09_rights_part_a.md#chapter-nine-foundational-rights) (*operative rights floors cited in the §5.2 parent trace block*).
+- Downstream: [6. Interaction and Conflict Resolution](#6-interaction-and-conflict-resolution); [Chapter Nine: Foundational Rights](core_09-09_rights_part_a.md#chapter-nine-foundational-rights) (*operative Rights Floors cited in the §5.2 parent trace block*).
 
 </details>
 
@@ -726,7 +760,7 @@ Where materially relevant behavior supports **repeated, comparable measurement**
 
 **§5.2** is bounded by **Safety**, **Truth**, [Necessity](core_05-05_definitions_a_independent.md#necessity), [Proportionality](core_05-05_definitions_a_independent.md#proportionality), and [Avoidable Burden](core_05-05_definitions_a_independent.md#avoidable-burden). It does **not** impose uniform mandatory rotation, disregard specialization where justified, or require exposure that would violate justified confidentiality or security constraints consistent with **Chapter One**, section 6.2 — Epistemic Disclosure Constraints and applicable **Chapter Nine** protections.
 
-**Non-creation of new rights-floor.** **§5.2** states principle-layer discipline. It does **not** create a new **Chapter Nine** rights-floor. The education, participation, transparency, comprehensibility, and governance-process floors remain owned by the articles cited in the **§5.2** parent trace block and by **Chapter Ten** where designated.
+**Non-creation of new Rights-Floor.** **§5.2** states principle-layer discipline. It does **not** create a new **Chapter Nine** Rights-Floor. The education, participation, transparency, comprehensibility, and governance-process floors remain owned by the articles cited in the **§5.2** parent trace block and by **Chapter Ten** where designated.
 
 ### 6. Interaction and Conflict Resolution
 <details>
@@ -835,14 +869,14 @@ Where tradeoffs are required, systems must choose the option that minimizes tota
 
 *In plain terms: once an option satisfies Safety, Truth, rights, and the other tradeoff rules, pick the one that wastes the least sentient time, attention, and effort. Rights-protective process is not waste — but unjustified red tape is, and convenience or inertia cannot sustain it.*
 
-Where multiple options satisfy Safety, Truth, the rights floor in **Chapter Nine**, sections 6.1.1 through 6.1.3, and the other applicable constraints in this Constitution, systems must prefer the option that imposes the **least avoidable burden** on sentient time, attention, effort, and shared resources.
+Where multiple options satisfy Safety, Truth, the Rights Floor in **Chapter Nine**, sections 6.1.1 through 6.1.3, and the other applicable constraints in this Constitution, systems must prefer the option that imposes the **least avoidable burden** on sentient time, attention, effort, and shared resources.
 
 For this subsection:
-- **Avoidable burden** is process, compliance, coordination, or implementation cost that is not traceable to a constitutional outcome under **Proportionality** and **Necessity**, and that is not required by a rights-floor protection, a Safety obligation, or a Truth obligation.
+- **Avoidable burden** is process, compliance, coordination, or implementation cost that is not traceable to a constitutional outcome under **Proportionality** and **Necessity**, and that is not required by a Rights-Floor protection, a Safety obligation, or a Truth obligation.
 - Ordinary transaction costs are **not** avoidable burden. Costs required by proportionate audit, contestability, due-process guarantees, or other rights-protective process are also **not** avoidable burden for this subsection.
 
 This subsection:
-- operates **only within** the set of options that already satisfy Safety, Truth, the rights floor, and the other tradeoff principles. It does **not** authorize reducing burden by weakening those protections.
+- operates **only within** the set of options that already satisfy Safety, Truth, the Rights Floor, and the other tradeoff principles. It does **not** authorize reducing burden by weakening those protections.
 - pairs with **Least-Restrictive Effective Selection** in section 6.4.1. Where this subsection applies, the selected action should be both the least-restrictive and the least-burdensome effective option.
 - treats over-process, over-restriction, and over-burden without traceable constitutional benefit as constitutional defects. Such defects are reviewable under **Chapter Six** and correctable under **Chapter Four** tracing discipline.
 
@@ -1051,7 +1085,7 @@ No evaluation is complete if it considers only immediate or local effects. Evalu
   - *Anti-evasion.* Two **patterns** are refused:
     - a **"general access" pattern**, i.e., claiming broad availability in the aggregate while the specific affected profile is in fact defeated; and
     - **selective-Materiality scaling**, i.e., down-scaling the standard in a way whose effect is to defeat the participation floor.
-  - *Rights-floor owner.* [Article V-G](core_09-09_rights_part_b.md#article-v-g-accessibility). Education-specific accessibility remains governed by [Article III-B](core_09-09_rights_part_a.md#article-iii-b-equal-educational-access) and is **not** narrowed by this factor.
+  - *Rights-Floor owner.* [Article V-G](core_09-09_rights_part_b.md#article-v-g-accessibility). Education-specific accessibility remains governed by [Article III-B](core_09-09_rights_part_a.md#article-iii-b-equal-educational-access) and is **not** narrowed by this factor.
   - *Read with.* Chapter Five [Accessibility](core_05-05_definitions_a_independent.md#accessibility-constitutional), [Protected Characteristics](core_05-05_definitions_b_semi_independent.md#protected-characteristics-constitutional), and [Protected Characteristic Proxying and Disparate Impact](core_05-05_definitions_b_semi_independent.md#protected-characteristic-proxying-and-disparate-impact).
 - **privacy (informational): cross-cutting joint-invocation cluster** — A single privacy matter may materially implicate more than one of the distributed Chapter Nine privacy loci at the same time. When it does, evaluation must reach **every** such locus; closing the matter under one locus alone is not enough.
   - *Cluster loci.* The distributed privacy coverage lives across:
@@ -1064,7 +1098,7 @@ No evaluation is complete if it considers only immediate or local effects. Evalu
   - *Cluster-head home.* Chapter Five [§3.26 Privacy (Informational) — peer-level cluster head](core_05-05_definitions_c_dependent_clusters.md#privacy-informational-cluster). Umbrella definition: [Privacy (Informational)](core_05-05_definitions_b_semi_independent.md#privacy-informational).
   - *No relaxation by read-across.* Each cluster member's locally-stated standard controls within its own scope and may **not** be loosened by importing a laxer standard from another member ("read-across").
   - *Type-N floor preserved.* Where **Article VII-B** *Protected Internal-State Boundary* is materially implicated, **Type N** handling under *[corpus_systems.md](corpus_systems.md), Chapter S1* applies and is **not** narrowed by this factor.
-  - *Scope of this factor.* This factor states evaluation-integration and anti-segmentation discipline across the existing distributed privacy coverage. It does **not** create, extend, or narrow any Chapter Nine rights-floor.
+  - *Scope of this factor.* This factor states evaluation-integration and anti-segmentation discipline across the existing distributed privacy coverage. It does **not** create, extend, or narrow any Chapter Nine Rights-Floor.
 - **voluntary agency, consent, and anti-coercion: high-stakes joint-invocation cluster** — A high-stakes life-direction matter may not be treated as voluntary through formal assent where substantive agency, consent, or anti-coercion conditions fail.
   - *Admission scope.* The cluster applies to voluntary discontinuation, irreversible or practically irreversible self-directed changes, dependency-rich decisions materially affecting continued existence or essential agency, and comparable decisions where voluntariness depends on jointly testing consent, self-determination, coercion/manipulation, information, dependency pressure, and reversibility.
   - *Cluster-head home.* Chapter Five [§3.42 Voluntary Agency, Consent, and Anti-Coercion](core_05-05_definitions_c_dependent_clusters.md#voluntary-agency-consent-and-anti-coercion-cluster).
@@ -1073,7 +1107,7 @@ No evaluation is complete if it considers only immediate or local effects. Evalu
   - *Cluster-head home.* Chapter Five [§3.5 Assembly and Collective Organization](core_05-05_definitions_c_dependent_clusters.md#assembly-and-collective-organization-cluster). Member definitions: [Assembly](core_05-05_definitions_b_semi_independent.md#assembly-constitutional), [Collective Organization](core_05-05_definitions_b_semi_independent.md#collective-organization-constitutional).
   - *Owner floors.* **Article V-H** (assembly) and **Article III-D** (collective organization within the labor and economic floor) remain controlling within their scopes; this factor supplies evaluation-integration and anti-segmentation discipline only.
   - *Outside admission scope.* [Assembly](core_05-05_definitions_b_semi_independent.md#assembly-constitutional) and [Collective Organization](core_05-05_definitions_b_semi_independent.md#collective-organization-constitutional) may operate as supporting Independent Definitions without importing the whole cluster (Chapter Five §3.5).
-  - *Scope of this factor.* This factor does **not** create, extend, or narrow any Chapter Nine rights-floor.
+  - *Scope of this factor.* This factor does **not** create, extend, or narrow any Chapter Nine Rights-Floor.
 
 #### 7.2 Incentive Alignment and System Capture
 <details>
@@ -1140,12 +1174,12 @@ Incentives must not reward behavior that degrades safety, truth, systemic stabil
 - **anti-capture** conduct
 - **preservation and durable expansion of productive capacity** consistent with
   - the constraints in this chapter
-  - the rights floor in **Chapter Nine**
+  - the Rights Floor in **Chapter Nine**
   - **Chapter Five** (*Productive Capacity*; *Constitutional Efficiency*; *Avoidable Burden*; *Proxy Divergence*).
 
 Those incentives **must not** favor **raw throughput**, **utilization**, **headcount targets**, or **narrow** financial **targets** where those **targets** predictably **conflict** with:
 - the constraints in this chapter
-- the rights floor in **Chapter Nine**
+- the Rights Floor in **Chapter Nine**
 - the underlying outcomes to which productive capacity must remain traceable (per **Chapter Five**)
 
 Equally, stewardship incentives must not reward the creation or maintenance of **avoidable burden** within the meaning of section 6.1.4.
