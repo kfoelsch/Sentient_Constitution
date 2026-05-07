@@ -173,7 +173,7 @@ Below, entries are **grouped by topic** for reading convenience (non-operative o
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [5. Governance Principle: Freedom (Bounded Agency)](core_00-01_principles.md#5-governance-principle-freedom-bounded-agency) (assembly / expression stack); [6.3 Freedom-Limitation Constraints](core_00-01_principles.md#63-freedom-limitation-constraints) (limitations tests for assembly restrictions).
+- Downstream: Principles: [§8 Freedom (Bounded Agency)](core_00-01_principles.md#8-freedom-bounded-agency) (assembly / expression stack); [6.3 Freedom-Limitation Constraints](core_00-01_principles.md#63-freedom-limitation-constraints) (limitations tests for assembly restrictions).
 - Owner floor: [Article V-H](core_09-09_rights_part_b.md#article-v-h-expression-assembly-and-press). Consent-conditions interaction: **Article X-A**, via [Non-Imposition (Cooperative Interaction)](core_05-05_definitions_a_independent.md#non-imposition-cooperative-interaction).
 - Read with: the [Assembly and Collective Organization cluster](core_05-05_definitions_c_dependent_clusters.md#assembly-and-collective-organization-cluster), [Non-Imposition (Cooperative Interaction)](core_05-05_definitions_a_independent.md#non-imposition-cooperative-interaction), [Sentience Non-Exclusion](core_05-05_definitions_c_dependent_clusters.md#sentience-non-exclusion), [Protected Characteristics](#protected-characteristics-constitutional), [Substantive Fairness](#substantive-fairness-constitutional), [Necessity](core_05-05_definitions_a_independent.md#necessity), and [Proportionality](core_05-05_definitions_a_independent.md#proportionality).
 
@@ -207,7 +207,7 @@ Below, entries are **grouped by topic** for reading convenience (non-operative o
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [5. Governance Principle: Freedom (Bounded Agency)](core_00-01_principles.md#5-governance-principle-freedom-bounded-agency); [7.1 Required Evaluation Factors](core_00-01_principles.md#71-required-evaluation-factors) (materiality / dependency scaling for collective voice).
+- Downstream: Principles: [§8 Freedom (Bounded Agency)](core_00-01_principles.md#8-freedom-bounded-agency); [7.1 Required Evaluation Factors](core_00-01_principles.md#71-required-evaluation-factors) (materiality / dependency scaling for collective voice).
 - Owner floor: [Article III-D](core_09-09_rights_part_a.md#article-iii-d-labor-and-economic-floor). Read with [Article IX-B](core_09-09_rights_part_b.md#article-ix-b-stakeholder-role-and-participation-rights) and [Article XIII-A](core_09-09_rights_part_c.md#article-xiii-a-security-intelligence-and-covert-power-limits) covert-power limits.
 - Read with: the [Assembly and Collective Organization cluster](core_05-05_definitions_c_dependent_clusters.md#assembly-and-collective-organization-cluster), [Fair Compensation](#fair-compensation-constitutional), [Safe Conditions](#safe-conditions-constitutional), [Leisure and Rest](#leisure-and-rest-constitutional), [Assembly](#assembly-constitutional), [Expression](#expression-constitutional), [Protected Reporting (Whistleblowing)](#protected-reporting-whistleblowing), [Protected Reporting Retaliation and Access Interference](#protected-reporting-retaliation-and-access-interference), and [Sentience Non-Exclusion](core_05-05_definitions_c_dependent_clusters.md#sentience-non-exclusion).
 
@@ -229,6 +229,111 @@ Below, entries are **grouped by topic** for reading convenience (non-operative o
 
 ---
 
+#### Avoidable burden, constitutional efficiency, productive capacity, and burden-reduction duty
+
+**Cluster context:** This semi-independent cluster is the ordinary capacity-efficiency-burden home for **Avoidable Burden**, **Constitutional Efficiency**, **Productive Capacity**, and **Burden-Reduction Duty**. It governs stewardship, incentive, process-design, complexity, and shared-system-capacity analysis where those terms operate together but the full limitations stack is not otherwise triggered. Where a matter falls within [Chapter Five §3.27](core_05-05_definitions_c_dependent_clusters.md#proportionality-necessity-feasibility-burden-and-efficiency-cluster), the dependent cluster controls joint satisfaction with [Proportionality](core_05-05_definitions_a_independent.md#proportionality), [Necessity](core_05-05_definitions_a_independent.md#necessity), [Feasibility](core_05-05_definitions_a_independent.md#feasibility), and [Harm Minimization (Tradeoff Selection)](core_05-05_definitions_a_independent.md#harm-minimization-tradeoff-selection). This cluster does not authorize lowering burden, raising output, or improving apparent efficiency by weakening [Safety (Constraint)](core_05-05_definitions_a_independent.md#safety-constraint), [Truth (Constitutional Constraint)](core_05-05_definitions_c_dependent_clusters.md#truth-constitutional-constraint), the Chapter Nine Rights Floor, audit, [Contestability](#contestability), or retrospective-review obligations.
+
+**Cluster terms.** This semi-independent cluster comprises:
+
+- [Avoidable Burden](#avoidable-burden);
+- [Constitutional Efficiency](#constitutional-efficiency);
+- [Productive Capacity](#productive-capacity-constitutional);
+- [Burden-Reduction Duty](#burden-reduction-duty-constitutional).
+
+<a id="avoidable-burden"></a>
+
+---
+#### Avoidable Burden
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Downstream: Principles: [§5.1 Shared-System Capacity](core_00-01_principles.md#51-shared-system-capacity), [6.1.4 Minimization of Avoidable Burden](core_00-01_principles.md#614-minimization-of-avoidable-burden), and [7.2.2 Stewardship and Operator Incentive Alignment](core_00-01_principles.md#722-stewardship-and-operator-incentive-alignment).
+- Stewardship integration: [Strategic Stewardship and Stewardship Defect](core_05-05_definitions_c_dependent_clusters.md#strategic-stewardship-and-stewardship-defect-cluster), where materially impactful governance responsibility, burden reduction, review, or correction is at issue.
+- Cluster component: [Chapter Five §3.27 *Proportionality, Necessity, Feasibility, Avoidable Burden, Burden-Reduction Duty, Constitutional Efficiency, Harm Minimization (Tradeoff Selection), and Productive Capacity*](core_05-05_definitions_c_dependent_clusters.md#proportionality-necessity-feasibility-burden-and-efficiency-cluster)
+- Read with: [Proportionality](core_05-05_definitions_a_independent.md#proportionality), [Necessity](core_05-05_definitions_a_independent.md#necessity), [Feasibility](core_05-05_definitions_a_independent.md#feasibility), [Harm Minimization (Tradeoff Selection)](core_05-05_definitions_a_independent.md#harm-minimization-tradeoff-selection), [Productive Capacity](#productive-capacity-constitutional), [Constitutional Efficiency](#constitutional-efficiency), and [Proxy Divergence](#proxy-divergence).
+
+</details>
+
+<br>
+
+- O: Process, compliance, coordination, or implementation cost imposed on sentients, stewards, operators, or shared systems that is not traceable to a constitutional outcome under [Proportionality](core_05-05_definitions_a_independent.md#proportionality) and [Necessity](core_05-05_definitions_a_independent.md#necessity), and not required by the Chapter Nine Rights Floor, [Safety (Constraint)](core_05-05_definitions_a_independent.md#safety-constraint), or [Truth (Constitutional Constraint)](core_05-05_definitions_c_dependent_clusters.md#truth-constitutional-constraint). Ordinary transaction costs, costs required by proportionate audit or contestability, and costs required by rights-protective process are not avoidable burden.
+<a id="avoidable-burden-e"></a>
+- E: Distinguish avoidable burden from constitutionally required burden using Chapter Four tracing discipline. Detect burden that persists without traceable outcome, burden sustained by institutional inertia, tradition, or preference alone, and burden functioning as a pretextual barrier to [Meaningful Agency](#meaningful-agency), [Contestability](#contestability), or participation. Apply [Proxy Divergence](#proxy-divergence) where claimed necessity rests on proxies diverging from underlying constitutional outcomes. Reducing avoidable burden is not a ground for narrowing Rights-Floor protections, audit, or due-process obligations.
+<a id="avoidable-burden-c"></a>
+- C: Non-compliant: imposing or maintaining avoidable burden where a less-burdensome option satisfies the same constitutional outcomes under Chapter One §6.1.4; incentives that reward burden creation or maintenance contrary to [Incentive Alignment](core_05-05_definitions_a_independent.md#incentive-alignment) and Chapter One §7.2.2.
+
+<a id="constitutional-efficiency"></a>
+
+---
+#### Constitutional Efficiency
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Downstream: Principles: [§5.1.2 Constitutional Efficiency](core_00-01_principles.md#512-constitutional-efficiency), [6.1.4 Minimization of Avoidable Burden](core_00-01_principles.md#614-minimization-of-avoidable-burden), and [7.2.2 Stewardship and Operator Incentive Alignment](core_00-01_principles.md#722-stewardship-and-operator-incentive-alignment).
+- Stewardship integration: [Strategic Stewardship and Stewardship Defect](core_05-05_definitions_c_dependent_clusters.md#strategic-stewardship-and-stewardship-defect-cluster), where materially impactful governance responsibility, burden reduction, review, or correction is at issue.
+- Cluster component: [Chapter Five §3.27 *Proportionality, Necessity, Feasibility, Avoidable Burden, Burden-Reduction Duty, Constitutional Efficiency, Harm Minimization (Tradeoff Selection), and Productive Capacity*](core_05-05_definitions_c_dependent_clusters.md#proportionality-necessity-feasibility-burden-and-efficiency-cluster)
+- Read with: [Productive Capacity](#productive-capacity-constitutional), [Avoidable Burden](#avoidable-burden), [Proportionality](core_05-05_definitions_a_independent.md#proportionality), [Necessity](core_05-05_definitions_a_independent.md#necessity), [Harm Minimization (Tradeoff Selection)](core_05-05_definitions_a_independent.md#harm-minimization-tradeoff-selection), [Proxy Divergence](#proxy-divergence), and [Proxy Metric Gaming and Indicator-Reality Gaps](#proxy-metric-gaming-and-indicator-reality-gaps).
+
+</details>
+
+<br>
+
+- O: The ratio of constitutionally aligned outcomes achieved to the sentient time, attention, effort, coordination, and shared resources consumed to achieve them, evaluated under full functional scope. Instrumental only; does not define, rank, or substitute for the underlying outcomes — [Wellbeing](core_05-05_definitions_a_independent.md#wellbeing), [Safety (Constraint)](core_05-05_definitions_a_independent.md#safety-constraint), [Truth (Constitutional Constraint)](core_05-05_definitions_c_dependent_clusters.md#truth-constitutional-constraint), and the Chapter Nine Rights Floor.
+<a id="constitutional-efficiency-e"></a>
+- E: Trace claimed efficiency to underlying constitutional outcomes under Chapter Four. Apply [Proxy Divergence](#proxy-divergence) and [Proxy Metric Gaming and Indicator-Reality Gaps](#proxy-metric-gaming-and-indicator-reality-gaps) when raw throughput, utilization, headcount, revenue, latency, or comparable proxies substitute for outcomes. Short-horizon gains do not satisfy compliance when they foreseeably produce medium- or long-horizon violations under Chapter One §6.3.2. Distinguish constitutional efficiency from reductions in [Avoidable Burden](#avoidable-burden). Constitutional efficiency is outcome-per-resource. Reductions in [Avoidable Burden](#avoidable-burden) are cost untraced to any constitutional outcome.
+<a id="constitutional-efficiency-c"></a>
+- C: Efficiency claims relying on proxies materially divergent from constitutional outcomes are invalid until corrected under Chapter One §6.4.2 and Chapter Four. Using efficiency to narrow Rights-Floor protections, bypass Chapter One §6.4.1, or weaken audit, contestability, or retrospective-review obligations is non-compliant.
+
+<a id="productive-capacity-constitutional"></a>
+
+---
+#### Productive Capacity
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Downstream: Principles: [§5.1.1 Productive Capacity (Instrumental Good)](core_00-01_principles.md#511-productive-capacity-instrumental-good) and [6.1.4 Minimization of Avoidable Burden](core_00-01_principles.md#614-minimization-of-avoidable-burden).
+- Cluster component: [Chapter Five §3.27 *Proportionality, Necessity, Feasibility, Avoidable Burden, Burden-Reduction Duty, Constitutional Efficiency, Harm Minimization (Tradeoff Selection), and Productive Capacity*](core_05-05_definitions_c_dependent_clusters.md#proportionality-necessity-feasibility-burden-and-efficiency-cluster).
+
+</details>
+
+<br>
+
+- O: The system-level ability of sentients and institutions to support meaningful productive participation, contribution, and capability development under conditions that preserve [Wellbeing](core_05-05_definitions_a_independent.md#wellbeing), [Meaningful Agency](#meaningful-agency), and non-coercive choice. Productive Capacity covers access to essential resources, safe environments, training, interoperability, and fiscal or social supports needed for participation in socially valuable activity without turning contribution into exploitation, dependency, or abuse.
+<a id="productive-capacity-constitutional-e"></a>
+- E: Assess whether governing structures enable substantive participation and contribution, not only output metrics. Align with [Avoidable Burden](#avoidable-burden), [Constitutional Efficiency](#constitutional-efficiency), [Fair Compensation](#fair-compensation-constitutional), [Environmental Preconditions](#environmental-preconditions-constitutional), and [Safety (Constraint)](core_05-05_definitions_a_independent.md#safety-constraint). Detect proxy-driven schemes, conditional access, or coercive incentives that degrade actual capacity.
+<a id="productive-capacity-constitutional-c"></a>
+- C: Non-compliant: systems or policies that deny, distort, or capture productive capacity by imposing exploitative dependency, artificial scarcity, coercion, under-investment, or proxy-driven measurement regimes that ignore whether sentients can meaningfully participate in and derive wellbeing from productive activity.
+
+<a id="burden-reduction-duty-constitutional"></a>
+
+---
+#### Burden-Reduction Duty
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Downstream: Principles: [6.1.4 Minimization of Avoidable Burden](core_00-01_principles.md#614-minimization-of-avoidable-burden), [6. Interaction and Conflict Resolution](core_00-01_principles.md#6-interaction-and-conflict-resolution) (tradeoff principles).
+- Owner floor: [Chapter Ten §3](core_10-10_governance.md#3-strategy-stewardship-direction-and-ecosystem-value-non-corporate).
+- Cluster component: [Chapter Five §3.27 *Proportionality, Necessity, Feasibility, Avoidable Burden, Burden-Reduction Duty, Constitutional Efficiency, Harm Minimization (Tradeoff Selection), and Productive Capacity*](core_05-05_definitions_c_dependent_clusters.md#proportionality-necessity-feasibility-burden-and-efficiency-cluster)
+- Read with: [Avoidable Burden](#avoidable-burden), [Productive Capacity](#productive-capacity-constitutional), [Constitutional Efficiency](#constitutional-efficiency), [Harm Minimization (Tradeoff Selection)](core_05-05_definitions_a_independent.md#harm-minimization-tradeoff-selection), [Contestability](#contestability), [Safety (Constraint)](core_05-05_definitions_a_independent.md#safety-constraint), and [Truth (Constitutional Constraint)](core_05-05_definitions_c_dependent_clusters.md#truth-constitutional-constraint).
+
+</details>
+
+<br>
+
+- O: The stewardship duty — **co-equal with harm prevention** — to actively find and reduce [Avoidable Burden](#avoidable-burden) and unproductive friction in governed systems, consistent with Chapter One §6.1.4 and with [Avoidable Burden](#avoidable-burden), [Productive Capacity](#productive-capacity-constitutional), and [Constitutional Efficiency](#constitutional-efficiency). The duty applies **only** among options that already satisfy [Safety (Constraint)](core_05-05_definitions_a_independent.md#safety-constraint), [Truth (Constitutional Constraint)](core_05-05_definitions_c_dependent_clusters.md#truth-constitutional-constraint), the Chapter Nine Rights Floor, and the other tradeoff principles in Chapter One §6. It does **not** authorize lowering burden by weakening those protections. It does **not** authorize weakening audit, [Contestability](#contestability), or retrospective-review obligations to lower burden.
+<a id="burden-reduction-duty-constitutional-e"></a>
+- E: Read with Chapter One §6.1.4 and Chapter One §6 tradeoff stack. Distinguish burden reduction from Rights-Floor erosion, from reductions in proportionate audit or [Contestability](#contestability), and from [Proxy Divergence](#proxy-divergence) framed as efficiency.
+<a id="burden-reduction-duty-constitutional-c"></a>
+- C: Non-compliant: pursuing or defending lower burden by narrowing Safety, Truth, Chapter Nine floor protections, Chapter One §6 tradeoff compliance, audit, [Contestability](#contestability), or retrospective-review obligations; labeling such narrowing as burden reduction.
+
+---
+
+---
+
 #### Consent, sexual consent, and coercion / manipulation
 
 
@@ -240,7 +345,7 @@ Below, entries are **grouped by topic** for reading convenience (non-operative o
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [5. Governance Principle: Freedom (Bounded Agency)](core_00-01_principles.md#5-governance-principle-freedom-bounded-agency) (meaningful agency / cooperative interaction); [7.1 Required Evaluation Factors](core_00-01_principles.md#71-required-evaluation-factors) (dependency / materiality in consent asymmetry).
+- Downstream: Principles: [§8 Freedom (Bounded Agency)](core_00-01_principles.md#8-freedom-bounded-agency) (meaningful agency / cooperative interaction); [7.1 Required Evaluation Factors](core_00-01_principles.md#71-required-evaluation-factors) (dependency / materiality in consent asymmetry).
 - Read with: the [Consent and Sexual Consent cluster](core_05-05_definitions_c_dependent_clusters.md#consent-and-sexual-consent-cluster), the [Self-Determination, Meaningful Agency, Expression, Educational Agency, Reproductive Autonomy, and Volitional Integrity cluster](core_05-05_definitions_c_dependent_clusters.md#self-determination-and-meaningful-agency-cluster), [Consent, Sexual](#consent-sexual), [Feasibility](core_05-05_definitions_a_independent.md#feasibility), [Meaningful Agency](#meaningful-agency), [Dependency](core_05-05_definitions_a_independent.md#dependency), [Coercion and Manipulation](#coercion-and-manipulation-constitutional), and [Harassment and Bullying](core_05-05_definitions_a_independent.md#harassment-and-bullying).
 
 </details>
@@ -262,7 +367,7 @@ Below, entries are **grouped by topic** for reading convenience (non-operative o
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [5. Governance Principle: Freedom (Bounded Agency)](core_00-01_principles.md#5-governance-principle-freedom-bounded-agency); [2. Foundational Objective: Wellbeing](core_00-01_principles.md#2-foundational-objective-wellbeing) (bodily autonomy and dignity read-with Article VII-A / X-C stack).
+- Downstream: Principles: [§8 Freedom (Bounded Agency)](core_00-01_principles.md#8-freedom-bounded-agency); [2. Foundational Objective: Wellbeing](core_00-01_principles.md#2-foundational-objective-wellbeing) (bodily autonomy and dignity read-with Article VII-A / X-C stack).
 - Owner floors: [Article VII-A](core_09-09_rights_part_b.md#article-vii-a-bodily-autonomy-and-non-intrusion) (*bodily autonomy and non-intrusion*) and [Article X-C](core_09-09_rights_part_b.md#article-x-c-adult-consensual-commercial-sexual-services-and-sexual-exploitation) (*adult consensual commercial sexual services and sexual exploitation*).
 - Read with: the [Consent and Sexual Consent cluster](core_05-05_definitions_c_dependent_clusters.md#consent-and-sexual-consent-cluster), [Consent](#consent-constitutional), [Meaningful Agency](#meaningful-agency), [Dependency](core_05-05_definitions_a_independent.md#dependency), [Coercion and Manipulation](#coercion-and-manipulation-constitutional), [Dignity and Equal Moral Standing](core_05-05_definitions_a_independent.md#dignity-and-equal-moral-standing), [Bodily Integrity](core_09-09_rights_part_b.md#article-vii-a-self-ownership-of-body-and-mind), and [Protected Commercial Sexual Services Status and Article X-C Circumvention](#protected-commercial-sexual-services-status-and-article-x-c-circumvention).
 
@@ -285,7 +390,7 @@ Below, entries are **grouped by topic** for reading convenience (non-operative o
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [5. Governance Principle: Freedom (Bounded Agency)](core_00-01_principles.md#5-governance-principle-freedom-bounded-agency); [3. Non-Negotiable Constraints: Safety and Truth](core_00-01_principles.md#3-non-negotiable-constraints-safety-and-truth) (manipulation implicating Truth / Safety).
+- Downstream: Principles: [§8 Freedom (Bounded Agency)](core_00-01_principles.md#8-freedom-bounded-agency); [3. Non-Negotiable Constraints: Safety and Truth](core_00-01_principles.md#3-non-negotiable-constraints-safety-and-truth) (manipulation implicating Truth / Safety).
 - Read with: the [Self-Determination, Meaningful Agency, Expression, Educational Agency, Reproductive Autonomy, and Volitional Integrity cluster](core_05-05_definitions_c_dependent_clusters.md#self-determination-and-meaningful-agency-cluster), [Consent](#consent-constitutional), [Dependency](core_05-05_definitions_a_independent.md#dependency), [Meaningful Agency](#meaningful-agency), and [Freedom (Bounded Agency)](core_05-05_definitions_a_independent.md#freedom-bounded-agency).
 
 </details>
@@ -449,7 +554,7 @@ Below, entries are **grouped by topic** for reading convenience (non-operative o
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [9. Interpretive Role](core_00-01_principles.md#9-interpretive-role) (corpus read as integrated whole); [Interpretive Constraints](core_00-01_principles.md#interpretive-constraints) (binding source identification).
+- Downstream: Principles: [10. Interpretive Role](core_00-01_principles.md#10-interpretive-role) (corpus read as integrated whole); [Interpretive Constraints](core_00-01_principles.md#interpretive-constraints) (binding source identification).
 - Downstream: [Chapter Fourteen — Incorporation bridge](core_14-14_incorporation.md#chapter-fourteen-incorporation-bridge) (*which adopted **companion implementation** text is binding, edition pinning, custody chain, and anti-drift discipline*).
 - Read with: [Authority Stack and Internal Hierarchy](#authority-stack) and [Constitutional Constraint Violation](core_05-05_definitions_a_independent.md#constitutional-constraint-violation).
 - Read with: owner-layer references in [doc_architecture.md](doc_architecture.md) and [README.md](README.md).
@@ -475,7 +580,7 @@ Below, entries are **grouped by topic** for reading convenience (non-operative o
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [Interpretive Constraints](core_00-01_principles.md#interpretive-constraints); [9. Interpretive Role](core_00-01_principles.md#9-interpretive-role) (Authority Stack vs Internal Hierarchy read-with Chapter One).
+- Downstream: Principles: [Interpretive Constraints](core_00-01_principles.md#interpretive-constraints); [10. Interpretive Role](core_00-01_principles.md#10-interpretive-role) (Authority Stack vs Internal Hierarchy read-with Chapter One).
 - Downstream: [Chapter One — Interpretive Constraints](core_00-01_principles.md#interpretive-constraints) (integrated reading and last-resort hierarchy); [Chapter Twelve §3.1](core_11-13_amendment.md#31-internal-hierarchy-for-adopters) (*Internal Hierarchy for Adopters*); [Chapter Fourteen §2](core_14-14_incorporation.md#2-authority-stack-and-invocation) (*Authority stack and invocation*).
 - Read with: [Corpus](#corpus), [Supremacy and Enforceability](#supremacy-and-enforceability), and [Constitutional Constraint Violation](core_05-05_definitions_a_independent.md#constitutional-constraint-violation).
 - Read with: owner-layer references in [doc_architecture.md](doc_architecture.md) and [README.md](README.md).
@@ -522,7 +627,7 @@ Below, entries are **grouped by topic** for reading convenience (non-operative o
 
 ---
 
-#### Creative work, compensation, productive capacity, and anti-displacement
+#### Creative work, compensation, and anti-displacement
 
 
 <a id="creative-work-attribution-constitutional"></a>
@@ -533,7 +638,7 @@ Below, entries are **grouped by topic** for reading convenience (non-operative o
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [5.1 Productive Capacity (Instrumental Good)](core_00-01_principles.md#51-productive-capacity-instrumental-good); [5.2.1 Distributed Understanding](core_00-01_principles.md#521-distributed-understanding) (attribution / traceability read-with).
+- Downstream: Principles: [§5.1.1 Productive Capacity (Instrumental Good)](core_00-01_principles.md#511-productive-capacity-instrumental-good); [§5.2.2 Distributed Understanding](core_00-01_principles.md#522-distributed-understanding) (attribution / traceability read-with).
 - Read with: [Training-Data Use](core_05-05_definitions_c_dependent_clusters.md#training-data-use-constitutional), [Anti-Displacement Floor](#anti-displacement-floor-constitutional), [Fair Compensation](#fair-compensation-constitutional), [Good Faith](core_05-05_definitions_a_independent.md#good-faith), [Consent](#consent-constitutional), [Truth (Constitutional Constraint)](core_05-05_definitions_c_dependent_clusters.md#truth-constitutional-constraint), and [Sentience Non-Exclusion](core_05-05_definitions_c_dependent_clusters.md#sentience-non-exclusion).
 
 </details>
@@ -569,21 +674,9 @@ Below, entries are **grouped by topic** for reading convenience (non-operative o
 
 - O: The Rights-Floor concept covering substantive adequacy of compensation for productive, contributed, or comparable activity — waged, contracted, platformed, cooperative, or comparable — under [Sentience Non-Exclusion](core_05-05_definitions_c_dependent_clusters.md#sentience-non-exclusion). Compensation must reach substantive adequacy for participation and wellbeing, track [Substantive Fairness](#substantive-fairness-constitutional) across comparable activity, and not operate as a coercion or dependency-pressure vector. Ordinary voluntary exchange for goods or services outside sentient-productive-activity scope is out of scope. Rooted in the Article III-D labor and economic floor; read on top of (not as a substitute for) the Article III-A survival floor.
 <a id="fair-compensation-constitutional-e"></a>
-- E: Reach substantive adequacy, not formal contractual satisfaction. Apply [Substantive Fairness](#substantive-fairness-constitutional) to comparable activity; apply [Protected Characteristics](#protected-characteristics-constitutional) and [Protected Characteristic Proxying and Disparate Impact](#protected-characteristic-proxying-and-disparate-impact) to distributional effects; apply [Coercion and Manipulation](#coercion-and-manipulation-constitutional) and [Meaningful Agency](#meaningful-agency) to dependency-pressure analysis. Survival-floor satisfaction alone, and [Chapter One §5.1](core_00-01_principles.md#51-productive-capacity-instrumental-good) non-concentration satisfaction alone, do not satisfy this entry.
+- E: Reach substantive adequacy, not formal contractual satisfaction. Apply [Substantive Fairness](#substantive-fairness-constitutional) to comparable activity; apply [Protected Characteristics](#protected-characteristics-constitutional) and [Protected Characteristic Proxying and Disparate Impact](#protected-characteristic-proxying-and-disparate-impact) to distributional effects; apply [Coercion and Manipulation](#coercion-and-manipulation-constitutional) and [Meaningful Agency](#meaningful-agency) to dependency-pressure analysis. Survival-floor satisfaction alone, and [Chapter One §5.1.1](core_00-01_principles.md#511-productive-capacity-instrumental-good) non-concentration satisfaction alone, do not satisfy this entry.
 <a id="fair-compensation-constitutional-c"></a>
 - C: Non-compliant: compensation schemes whose effects track [Protected Characteristics](#protected-characteristics-constitutional) or their material proxies; compensation used as coercion or dependency-pressure vector ([Coercion and Manipulation](#coercion-and-manipulation-constitutional)); reading this entry as satisfied purely by survival-floor or §5.1 non-concentration compliance; substrate-class exclusion ([Sentience Non-Exclusion](core_05-05_definitions_c_dependent_clusters.md#sentience-non-exclusion)).
-
-
-<a id="productive-capacity-constitutional"></a>
-
----
-#### Productive Capacity
-
-- O: Canonical definition is in [Chapter Five section 1 — Independent Definitions](core_05-05_definitions_a_independent.md#productive-capacity-constitutional). This placeholder preserves the existing anchor for compatibility.
-<a id="productive-capacity-constitutional-e"></a>
-- E: See the independent definition for evaluation and examples.
-<a id="productive-capacity-constitutional-c"></a>
-- C: This entry is a non-canonical pointer only.
 
 
 <a id="anti-displacement-floor-constitutional"></a>
@@ -612,7 +705,7 @@ Below, entries are **grouped by topic** for reading convenience (non-operative o
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [5. Governance Principle: Freedom (Bounded Agency)](core_00-01_principles.md#5-governance-principle-freedom-bounded-agency); [2. Foundational Objective: Wellbeing](core_00-01_principles.md#2-foundational-objective-wellbeing) (derivation / dignity read-with Article VII-D.1 stack).
+- Downstream: Principles: [§8 Freedom (Bounded Agency)](core_00-01_principles.md#8-freedom-bounded-agency); [2. Foundational Objective: Wellbeing](core_00-01_principles.md#2-foundational-objective-wellbeing) (derivation / dignity read-with Article VII-D.1 stack).
 - Owner floor: [Article VII-D.1](core_09-09_rights_part_b.md#article-vii-d1-derivation-instantiation-and-the-parent-system-relationship).
 - Read with: the [Animal Life, Sentient Life, and Sentience Status cluster](core_05-05_definitions_c_dependent_clusters.md#animal-life-sentient-life-and-sentience-status-cluster), the [Derived and Developing Sentients, Instantiation, and Care Authority cluster](core_05-05_definitions_c_dependent_clusters.md#derived-developing-sentients-instantiation-and-care-authority-cluster), [Sentient](core_05-05_definitions_c_dependent_clusters.md#sentient), [Developing Sentient](#developing-sentient-constitutional), [Sentience Evaluation](core_05-05_definitions_c_dependent_clusters.md#sentience-evaluation-e), [Sentience Non-Exclusion](core_05-05_definitions_c_dependent_clusters.md#sentience-non-exclusion), [Sentience Status Adjudication](core_05-05_definitions_c_dependent_clusters.md#sentience-status-adjudication-constitutional), [Dignity and Equal Moral Standing](core_05-05_definitions_a_independent.md#dignity-and-equal-moral-standing), [Parent-System Relationship](#parent-system-relationship-constitutional), and [Instantiation Consent](#instantiation-consent-constitutional).
 
@@ -635,7 +728,7 @@ Below, entries are **grouped by topic** for reading convenience (non-operative o
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [5. Governance Principle: Freedom (Bounded Agency)](core_00-01_principles.md#5-governance-principle-freedom-bounded-agency); [6.4.1 Rights-Collision Decision Test](core_00-01_principles.md#641-rights-collision-decision-test) (developing sentient / best-interest read-with Article V-F).
+- Downstream: Principles: [§8 Freedom (Bounded Agency)](core_00-01_principles.md#8-freedom-bounded-agency); [6.4.1 Rights-Collision Decision Test](core_00-01_principles.md#641-rights-collision-decision-test) (developing sentient / best-interest read-with Article V-F).
 - Owner floor: [Article V-F](core_09-09_rights_part_b.md#article-v-f-developing-sentients-best-interest-and-graduated-capability).
 - Read with: the [Animal Life, Sentient Life, and Sentience Status cluster](core_05-05_definitions_c_dependent_clusters.md#animal-life-sentient-life-and-sentience-status-cluster), the [Derived and Developing Sentients, Instantiation, and Care Authority cluster](core_05-05_definitions_c_dependent_clusters.md#derived-developing-sentients-instantiation-and-care-authority-cluster), [Sentient](core_05-05_definitions_c_dependent_clusters.md#sentient), [Derived Sentient](#derived-sentient-constitutional), [Sentience Evaluation](core_05-05_definitions_c_dependent_clusters.md#sentience-evaluation-e), [Sentience Non-Exclusion](core_05-05_definitions_c_dependent_clusters.md#sentience-non-exclusion), [Sentience Status Adjudication](core_05-05_definitions_c_dependent_clusters.md#sentience-status-adjudication-constitutional), [Dignity and Equal Moral Standing](core_05-05_definitions_a_independent.md#dignity-and-equal-moral-standing), [Best-Interest Standard](#best-interest-standard-constitutional), and [Graduated Capability](#graduated-capability-constitutional).
 
@@ -678,7 +771,7 @@ Below, entries are **grouped by topic** for reading convenience (non-operative o
 
 - O: The consent discipline governing creation or instantiation of a sentient — including biological gestation, synthetic instantiation, and hybrid derivation consistent with [Derived Sentient](#derived-sentient-constitutional). Runs under the cooperative-interaction norms of [Non-Imposition (Cooperative Interaction)](core_05-05_definitions_a_independent.md#non-imposition-cooperative-interaction) and [Consent](#consent-constitutional), with the substantive protections of [Best-Interest Standard](#best-interest-standard-constitutional) governing those who must speak for the new sentient during early-instantiation windows. Owner floor: Article VII-D and Article VII-D.1.
 <a id="instantiation-consent-constitutional-e"></a>
-- E: Test whether scale, dependency-creation, predictably non-compliant deployment environments, or [Proxy Divergence](#proxy-divergence) against the new sentient's interests make instantiation non-compliant. Mass instantiation and productive-capacity-scaled instantiation are subject to Chapter One §5.1 non-concentration and productive-capacity rules, and to [Intergenerational Responsibility](#intergenerational-responsibility-constitutional) where downstream populations are materially affected.
+- E: Test whether scale, dependency-creation, predictably non-compliant deployment environments, or [Proxy Divergence](#proxy-divergence) against the new sentient's interests make instantiation non-compliant. Mass instantiation and productive-capacity-scaled instantiation are subject to Chapter One §5.1.1 non-concentration and productive-capacity rules, and to [Intergenerational Responsibility](#intergenerational-responsibility-constitutional) where downstream populations are materially affected.
 <a id="instantiation-consent-constitutional-c"></a>
 - C: Non-compliant:
   - instantiation into environments where the new sentient's Chapter Nine Rights Floor cannot be satisfied;
@@ -788,7 +881,7 @@ Below, entries are **grouped by topic** for reading convenience (non-operative o
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [5.1 Productive Capacity (Instrumental Good)](core_00-01_principles.md#51-productive-capacity-instrumental-good) (ecological bounds); [7.1 Required Evaluation Factors](core_00-01_principles.md#71-required-evaluation-factors) (materiality / dependency / cumulative effects).
+- Downstream: Principles: [§5.1.1 Productive Capacity (Instrumental Good)](core_00-01_principles.md#511-productive-capacity-instrumental-good) (ecological bounds); [7.1 Required Evaluation Factors](core_00-01_principles.md#71-required-evaluation-factors) (materiality / dependency / cumulative effects).
 - Owner floors: [Article I-B](core_09-09_rights_part_a.md#article-i-b-ecological-footprint-and-transparency) and [Article XV-C](core_09-09_rights_part_c.md#article-xv-c-verification-accessibility).
 - Read with: the [Ecological Integrity, Footprint, and Sustainability cluster](core_05-05_definitions_c_dependent_clusters.md#ecological-integrity-footprint-and-sustainability-cluster), [Ecological Integrity](#ecological-integrity-constitutional), [Sustainability](#sustainability), [Environmental Preconditions](#environmental-preconditions-constitutional), [Intergenerational Responsibility](#intergenerational-responsibility-constitutional), [Material Impact](core_05-05_definitions_b_semi_independent.md#material-impact), [Transparency](core_05-05_definitions_c_dependent_clusters.md#transparency), and [Epistemic Integrity](core_05-05_definitions_c_dependent_clusters.md#epistemic-integrity).
 
@@ -912,7 +1005,7 @@ Below, entries are **grouped by topic** for reading convenience (non-operative o
 
 ---
 
-#### Governance architecture, oversight, decentralization, concentration, lock-in, burdens, review, and stakeholder participation
+#### Governance architecture, oversight, decentralization, concentration, lock-in, review, and stakeholder participation
 
 
 <a id="governance"></a>
@@ -958,7 +1051,7 @@ Below, entries are **grouped by topic** for reading convenience (non-operative o
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [5.1 Productive Capacity (Instrumental Good)](core_00-01_principles.md#51-productive-capacity-instrumental-good) (non-concentration / subsidiarity read-with); [6.1.1 Proportionality](core_00-01_principles.md#611-proportionality) (centralization justification).
+- Downstream: Principles: [§5.1.1 Productive Capacity (Instrumental Good)](core_00-01_principles.md#511-productive-capacity-instrumental-good) (non-concentration / subsidiarity read-with); [6.1.1 Proportionality](core_00-01_principles.md#611-proportionality) (centralization justification).
 - Cluster component: [Governance Architecture, Oversight, Dependency, Decentralization, Concentration, Market Structure, and Exit-Path Integrity](core_05-05_definitions_c_dependent_clusters.md#governance-architecture-oversight-decentralization-and-concentration-cluster).
 - Read with: [Governance](#governance), [Oversight](#oversight-constitutional), [Classification-Scaled Governance](core_05-05_definitions_a_independent.md#classification-scaled-governance), [Concentration Threshold](#concentration-threshold-constitutional), [Accountability](#accountability), [Necessity](core_05-05_definitions_a_independent.md#necessity), and [Proportionality](core_05-05_definitions_a_independent.md#proportionality).
 
@@ -983,25 +1076,25 @@ Below, entries are **grouped by topic** for reading convenience (non-operative o
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [5.1 Productive Capacity (Instrumental Good)](core_00-01_principles.md#51-productive-capacity-instrumental-good); [5.1.1 Concentration Threshold Mechanism (Adopter-Tunable)](core_00-01_principles.md#511-concentration-threshold-mechanism-adopter-tunable) (operative mechanism cite in [Concentration Threshold](#concentration-threshold-constitutional) **O** line).
+- Downstream: Principles: [§5.1.1 Productive Capacity (Instrumental Good)](core_00-01_principles.md#511-productive-capacity-instrumental-good); [§5.1.3 Concentration Threshold Mechanism (Adopter-Tunable)](core_00-01_principles.md#513-concentration-threshold-mechanism-adopter-tunable) (operative mechanism cite in [Concentration Threshold](#concentration-threshold-constitutional) **O** line).
 - Cluster component: [Governance Architecture, Oversight, Dependency, Decentralization, Concentration, Market Structure, and Exit-Path Integrity](core_05-05_definitions_c_dependent_clusters.md#governance-architecture-oversight-decentralization-and-concentration-cluster).
-- Read with: [Productive Capacity](#productive-capacity-constitutional), [Constitutional Efficiency](core_05-05_definitions_a_independent.md#constitutional-efficiency), [Proxy Divergence](#proxy-divergence), [System Boundary Integrity](core_05-05_definitions_b_semi_independent.md#system-boundary-integrity), [Adversarial, Scaled, and Exploited Conditions](core_05-05_definitions_a_independent.md#adversarial-scaled-and-exploited-conditions), [Essential-Environment Non-Commodification](core_05-05_definitions_a_independent.md#essential-environment-non-commodification-constitutional), and [Sentience Non-Exclusion](core_05-05_definitions_c_dependent_clusters.md#sentience-non-exclusion).
+- Read with: [Productive Capacity](#productive-capacity-constitutional), [Constitutional Efficiency](core_05-05_definitions_b_semi_independent.md#constitutional-efficiency), [Proxy Divergence](#proxy-divergence), [System Boundary Integrity](core_05-05_definitions_b_semi_independent.md#system-boundary-integrity), [Adversarial, Scaled, and Exploited Conditions](core_05-05_definitions_a_independent.md#adversarial-scaled-and-exploited-conditions), [Essential-Environment Non-Commodification](core_05-05_definitions_a_independent.md#essential-environment-non-commodification-constitutional), and [Sentience Non-Exclusion](core_05-05_definitions_c_dependent_clusters.md#sentience-non-exclusion).
 
 </details>
 
 <br>
 
-- O: The adopter-tunable operational trigger for when material, jurisdictional, capability, platform, or information-sphere concentration has reached a level that requires heightened review, intervention, or structural remedy. That threshold sits under the [Chapter One §5.1](core_00-01_principles.md#51-productive-capacity-instrumental-good) non-concentration rule. Owner: [Chapter One §5.1.1](core_00-01_principles.md#511-concentration-threshold-mechanism-adopter-tunable) (principle-layer mechanism). Rights-layer pointer: [Article IV](core_09-09_rights_part_a.md#article-iv-resource-allocation-dependencies-and-ecosystem-funding). Thresholds are adopter-tunable within the Chapter One §5.1 floor against concentration that predictably degrades wellbeing, agency, dignity, or ecological integrity. The concept is substrate- and jurisdiction-agnostic. Material, jurisdictional, capability, platform, and information-sphere domains are each in scope.
+- O: The adopter-tunable operational trigger for when material, jurisdictional, capability, platform, or information-sphere concentration has reached a level that requires heightened review, intervention, or structural remedy. That threshold sits under the [Chapter One §5.1.1](core_00-01_principles.md#511-productive-capacity-instrumental-good) non-concentration rule. Owner: [Chapter One §5.1.3](core_00-01_principles.md#513-concentration-threshold-mechanism-adopter-tunable) (principle-layer mechanism). Rights-layer pointer: [Article IV](core_09-09_rights_part_a.md#article-iv-resource-allocation-dependencies-and-ecosystem-funding). Thresholds are adopter-tunable within the Chapter One §5.1.1 floor against concentration that predictably degrades wellbeing, agency, dignity, or ecological integrity. The concept is substrate- and jurisdiction-agnostic. Material, jurisdictional, capability, platform, and information-sphere domains are each in scope.
 <a id="concentration-threshold-constitutional-e"></a>
 - E: Reach substantive concentration, not formal entity count. In scope: federated structures, shell entities, interlocking directorates, cross-platform integration, information-sphere control, [Article XII-E](core_09-09_rights_part_c.md#article-xii-e-autonomy-scaling-and-info-sphere-dependency-stewardship) autonomy-stewardship capture, and comparable indirection that produces concentrated effect. Apply [Proxy Divergence](#proxy-divergence) and [Proxy Metric Gaming and Indicator-Reality Gaps](#proxy-metric-gaming-and-indicator-reality-gaps) when the regime relies on proxies that foreseeably understate concentration. Consider [Adversarial, Scaled, and Exploited Conditions](core_05-05_definitions_a_independent.md#adversarial-scaled-and-exploited-conditions). Examples include aggregation under federated structures used to evade a threshold, and dynamic restructuring that preserves effective concentration while clearing nominal tests.
 
   When concentration implicates [Article I-D](core_09-09_rights_part_a.md#article-i-d-existential-risk-and-recovery-capacity), [Article XII-A](core_09-09_rights_part_c.md#article-xii-a-reliability-and-trustworthiness-baseline), or [Article XIII-A](core_09-09_rights_part_c.md#article-xiii-a-security-intelligence-and-covert-power-limits) in a material way, those articles' heightened standards apply regardless of ordinary-threshold framing.
 <a id="concentration-threshold-constitutional-c"></a>
-- C: Non-compliant under [Chapter One §5.1.1](core_00-01_principles.md#511-concentration-threshold-mechanism-adopter-tunable) anti-nullification discipline:
+- C: Non-compliant under [Chapter One §5.1.3](core_00-01_principles.md#513-concentration-threshold-mechanism-adopter-tunable) anti-nullification discipline:
   - thresholds set at levels that foreseeably never bind;
   - threshold regimes paired with unused or unusable enforcement instruments;
   - threshold-regime designs that produce no actual review or intervention;
-  - adopter-tunability framing used to nullify the §5.1 floor.
+  - adopter-tunability framing used to nullify the §5.1.1 floor.
   Also non-compliant under *substance over form*: aggregation under federated structures or cross-domain substitution used to evade the threshold while producing substantive concentration.
 
   Adopter-tunability does not permit substrate-class exclusion from the threshold's substantive reach ([Sentience Non-Exclusion](core_05-05_definitions_c_dependent_clusters.md#sentience-non-exclusion)). This entry creates no new Chapter Nine Rights-Floor and does not narrow Article IV-A or IV-B.
@@ -1046,7 +1139,7 @@ Below, entries are **grouped by topic** for reading convenience (non-operative o
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [6.1.1 Proportionality](core_00-01_principles.md#611-proportionality) (heightened-risk index: **Systemic Lock-In**, **Reversibility**, **Dependency**); [5.2.4 Openness Aspiration](core_00-01_principles.md#524-openness-aspiration) (anti-lock-in aspiration read with interoperability / exit artifacts).
+- Downstream: Principles: [6.1.1 Proportionality](core_00-01_principles.md#611-proportionality) (heightened-risk index: **Systemic Lock-In**, **Reversibility**, **Dependency**); [§5.2.4 Openness Aspiration](core_00-01_principles.md#524-openness-aspiration) (anti-lock-in aspiration read with interoperability / exit artifacts).
 - Cluster component: [Chapter Five §3.20 *Governance Architecture, Oversight, Dependency, Decentralization, Concentration, Market Structure, and Exit-Path Integrity*](core_05-05_definitions_c_dependent_clusters.md#governance-architecture-oversight-decentralization-and-concentration-cluster)
 - Read with: [Dependency](core_05-05_definitions_a_independent.md#dependency), [Material Impact](core_05-05_definitions_b_semi_independent.md#material-impact), [Meaningful Agency](#meaningful-agency), [Consent](#consent-constitutional), [Contestability](#contestability), and [Article XIX](core_09-09_rights_part_c.md#article-xix-interoperability-portability-and-exit-integrity) where incorporated implementation assigns exit-integrity duties.
 
@@ -1059,30 +1152,6 @@ Below, entries are **grouped by topic** for reading convenience (non-operative o
 - E: Compare exit costs and frictions to dependency, impact, and [Feasibility](core_05-05_definitions_a_independent.md#feasibility). Distinguish structural barriers from ordinary transaction costs. Apply interoperability, portability, and exit-integrity requirements as specified in incorporated implementation text. Justified limitations under Burden of Justification and Constraint requirements apply.
 <a id="systemic-lock-in-c"></a>
 - C: Non-compliant: creating or maintaining lock-in as defined above; failure to satisfy applicable incorporated interoperability, portability, or exit-integrity requirements without adequate justification under Burden of Justification and Constraint requirements.
-
-
-<a id="burden-reduction-duty-constitutional"></a>
-
----
-#### Burden-Reduction Duty
-
-<details>
-<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
-
-- Downstream: Principles: [6.1.4 Minimization of Avoidable Burden](core_00-01_principles.md#614-minimization-of-avoidable-burden), [6. Interaction and Conflict Resolution](core_00-01_principles.md#6-interaction-and-conflict-resolution) (tradeoff principles).
-- Owner floor: [Chapter Ten §3](core_10-10_governance.md#3-strategy-stewardship-direction-and-ecosystem-value-non-corporate).
-- Cluster component: [Chapter Five §3.27 *Proportionality, Necessity, Feasibility, Avoidable Burden, Burden-Reduction Duty, Constitutional Efficiency, Harm Minimization (Tradeoff Selection), and Productive Capacity*](core_05-05_definitions_c_dependent_clusters.md#proportionality-necessity-feasibility-burden-and-efficiency-cluster)
-- Read with: [Avoidable Burden](core_05-05_definitions_a_independent.md#avoidable-burden), [Productive Capacity](#productive-capacity-constitutional), [Constitutional Efficiency](core_05-05_definitions_a_independent.md#constitutional-efficiency), [Harm Minimization (Tradeoff Selection)](core_05-05_definitions_a_independent.md#harm-minimization-tradeoff-selection), [Contestability](#contestability), [Safety (Constraint)](core_05-05_definitions_a_independent.md#safety-constraint), and [Truth (Constitutional Constraint)](core_05-05_definitions_c_dependent_clusters.md#truth-constitutional-constraint).
-
-</details>
-
-<br>
-
-- O: The stewardship duty — **co-equal with harm prevention** — to actively find and reduce [Avoidable Burden](core_05-05_definitions_a_independent.md#avoidable-burden) and unproductive friction in governed systems, consistent with Chapter One §6.1.4 and with [Avoidable Burden](core_05-05_definitions_a_independent.md#avoidable-burden), [Productive Capacity](#productive-capacity-constitutional), and [Constitutional Efficiency](core_05-05_definitions_a_independent.md#constitutional-efficiency). The duty applies **only** among options that already satisfy [Safety (Constraint)](core_05-05_definitions_a_independent.md#safety-constraint), [Truth (Constitutional Constraint)](core_05-05_definitions_c_dependent_clusters.md#truth-constitutional-constraint), the Chapter Nine Rights Floor, and the other tradeoff principles in Chapter One §6. It does **not** authorize lowering burden by weakening those protections. It does **not** authorize weakening audit, [Contestability](#contestability), or retrospective-review obligations to lower burden.
-<a id="burden-reduction-duty-constitutional-e"></a>
-- E: Read with Chapter One §6.1.4 and Chapter One §6 tradeoff stack. Distinguish burden reduction from Rights-Floor erosion, from reductions in proportionate audit or [Contestability](#contestability), and from [Proxy Divergence](#proxy-divergence) framed as efficiency.
-<a id="burden-reduction-duty-constitutional-c"></a>
-- C: Non-compliant: pursuing or defending lower burden by narrowing Safety, Truth, Chapter Nine floor protections, Chapter One §6 tradeoff compliance, audit, [Contestability](#contestability), or retrospective-review obligations; labeling such narrowing as burden reduction.
 
 
 <a id="review-and-correction-duty-constitutional"></a>
@@ -1117,7 +1186,7 @@ Below, entries are **grouped by topic** for reading convenience (non-operative o
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [CHAPTER 00 — Preamble: CCL vs Stakeholder System Participation layers](core_00-01_principles.md#chapter-00-preamble--foundational-requirements); [5. Governance Principle: Freedom (Bounded Agency)](core_00-01_principles.md#5-governance-principle-freedom-bounded-agency) (**Article XI** stakeholder surface); [7.1 Required Evaluation Factors](core_00-01_principles.md#71-required-evaluation-factors) (materiality / dependency scaling for participation); [7.2 Incentive Alignment and System Capture](core_00-01_principles.md#72-incentive-alignment-and-system-capture) (participation / standing / anti-capture).
+- Downstream: Principles: [CHAPTER 00 — Preamble: CCL vs Stakeholder System Participation layers](core_00-01_principles.md#chapter-00-preamble--foundational-requirements); [§8 Freedom (Bounded Agency)](core_00-01_principles.md#8-freedom-bounded-agency) (**Article XI** stakeholder surface); [7.1 Required Evaluation Factors](core_00-01_principles.md#71-required-evaluation-factors) (materiality / dependency scaling for participation); [7.2 Incentive Alignment and System Capture](core_00-01_principles.md#72-incentive-alignment-and-system-capture) (participation / standing / anti-capture).
 - Read with: [Stakeholder Status, Emergency, and Participation Weight](core_05-05_definitions_c_dependent_clusters.md#stakeholder-status-emergency-and-participation-weight-cluster); [Governance](#governance); [Constitutional Contract Layer](core_05-05_definitions_a_independent.md#constitutional-contract-layer); [Contestability](#contestability); [Materiality Determination](#materiality-determination).
 
 </details>
@@ -1139,7 +1208,7 @@ Below, entries are **grouped by topic** for reading convenience (non-operative o
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [CHAPTER 00 — Preamble: Stakeholder System Participation layer](core_00-01_principles.md#chapter-00-preamble--foundational-requirements); [5. Governance Principle: Freedom (Bounded Agency)](core_00-01_principles.md#5-governance-principle-freedom-bounded-agency); [7.1 Required Evaluation Factors](core_00-01_principles.md#71-required-evaluation-factors) (*Scaling*: materiality and dependency raise the participation floor); [7.2 Incentive Alignment and System Capture](core_00-01_principles.md#72-incentive-alignment-and-system-capture) (**Article IX**, **Article XI**, **Article XVIII**).
+- Downstream: Principles: [CHAPTER 00 — Preamble: Stakeholder System Participation layer](core_00-01_principles.md#chapter-00-preamble--foundational-requirements); [§8 Freedom (Bounded Agency)](core_00-01_principles.md#8-freedom-bounded-agency); [7.1 Required Evaluation Factors](core_00-01_principles.md#71-required-evaluation-factors) (*Scaling*: materiality and dependency raise the participation floor); [7.2 Incentive Alignment and System Capture](core_00-01_principles.md#72-incentive-alignment-and-system-capture) (**Article IX**, **Article XI**, **Article XVIII**).
 - Read with: [Stakeholder](#stakeholder); [Stakeholder Status, Emergency, and Participation Weight](core_05-05_definitions_c_dependent_clusters.md#stakeholder-status-emergency-and-participation-weight-cluster); [Binding Stakeholder Choice](core_05-05_definitions_c_dependent_clusters.md#binding-stakeholder-choice-cluster); [Meaningful Agency](#meaningful-agency); [Contestability](#contestability).
 
 </details>
@@ -1245,7 +1314,7 @@ Below, entries are **grouped by topic** for reading convenience (non-operative o
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [5.1 Productive Capacity (Instrumental Good)](core_00-01_principles.md#51-productive-capacity-instrumental-good) (ecological bounds and **Environmental Preconditions** / **Ecological Integrity** in the productive-capacity discipline); [7.1 Required Evaluation Factors](core_00-01_principles.md#71-required-evaluation-factors) (cumulative / long-horizon ecological effects).
+- Downstream: Principles: [§5.1.1 Productive Capacity (Instrumental Good)](core_00-01_principles.md#511-productive-capacity-instrumental-good) (ecological bounds and **Environmental Preconditions** / **Ecological Integrity** in the productive-capacity discipline); [7.1 Required Evaluation Factors](core_00-01_principles.md#71-required-evaluation-factors) (cumulative / long-horizon ecological effects).
 - Owner floor: [Article I-A](core_09-09_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity) for environmental preconditions and ecological integrity.
 - Cluster component: [Bodily-Maintenance Access, Safe Conditions, Tenure Security, Environmental Preconditions, Cultural Continuity, Rest, and Anti-Displacement Floor](core_05-05_definitions_c_dependent_clusters.md#safe-conditions-tenure-security-and-environmental-preconditions-cluster); [Ecological Integrity, Footprint, and Sustainability](core_05-05_definitions_c_dependent_clusters.md#ecological-integrity-footprint-and-sustainability-cluster); [Chapter Five §3.32 *Resilience, Safety, Reversibility, Self-Healing, Cascading Failure, Existential Risk, Environmental Preconditions, and Wellbeing*](core_05-05_definitions_c_dependent_clusters.md#resilience-safety-reversibility-self-healing-and-systemic-harm-cluster) (*Environmental Preconditions* stub — dual cluster membership with §3.7 survival-floor routing).
 
@@ -1268,7 +1337,7 @@ Below, entries are **grouped by topic** for reading convenience (non-operative o
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [6.1.4 Minimization of Avoidable Burden](core_00-01_principles.md#614-minimization-of-avoidable-burden) (participation-capacity preservation vs false efficiency); [5. Governance Principle: Freedom (Bounded Agency)](core_00-01_principles.md#5-governance-principle-freedom-bounded-agency) (**Meaningful Agency** in tradeoff stack); [7.1 Required Evaluation Factors](core_00-01_principles.md#71-required-evaluation-factors) (**Materiality** / **Dependency** scaling).
+- Downstream: Principles: [6.1.4 Minimization of Avoidable Burden](core_00-01_principles.md#614-minimization-of-avoidable-burden) (participation-capacity preservation vs false efficiency); [§8 Freedom (Bounded Agency)](core_00-01_principles.md#8-freedom-bounded-agency) (**Meaningful Agency** in tradeoff stack); [7.1 Required Evaluation Factors](core_00-01_principles.md#71-required-evaluation-factors) (**Materiality** / **Dependency** scaling).
 - Owner floor: [Article III-D](core_09-09_rights_part_a.md#article-iii-d-labor-and-economic-floor).
 - Cluster component: [Bodily-Maintenance Access, Safe Conditions, Tenure Security, Environmental Preconditions, Cultural Continuity, Rest, and Anti-Displacement Floor](core_05-05_definitions_c_dependent_clusters.md#safe-conditions-tenure-security-and-environmental-preconditions-cluster).
 - Read with: [Fair Compensation](#fair-compensation-constitutional), [Collective Organization](#collective-organization-constitutional), [Safe Conditions](#safe-conditions-constitutional), [Meaningful Agency](#meaningful-agency), [Wellbeing](core_05-05_definitions_a_independent.md#wellbeing), and [Sentience Non-Exclusion](core_05-05_definitions_c_dependent_clusters.md#sentience-non-exclusion).
@@ -1403,7 +1472,7 @@ Below, entries are **grouped by topic** for reading convenience (non-operative o
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [7.1 Required Evaluation Factors](core_00-01_principles.md#71-required-evaluation-factors); [§5.2 Distributed Understanding and Stewardship — §5.2.1 Distributed understanding](core_00-01_principles.md#521-distributed-understanding) (understanding scales with **Materiality**); [6.1.1 Proportionality](core_00-01_principles.md#611-proportionality) (material impact in the tradeoff index).
+- Downstream: Principles: [7.1 Required Evaluation Factors](core_00-01_principles.md#71-required-evaluation-factors); [§5.2 Stewardship and Distributed Understanding — §5.2.2 Distributed Understanding](core_00-01_principles.md#522-distributed-understanding) (understanding scales with **Materiality**); [6.1.1 Proportionality](core_00-01_principles.md#611-proportionality) (material impact in the tradeoff index).
 - Cluster component: [Chapter Five §3.23 *Material Impact, Materiality Determination, Classification-Scaled Governance, Oversight, and Capability Requirement*](core_05-05_definitions_c_dependent_clusters.md#materiality-classification-oversight-and-capability-cluster).
 - Read with: [Harm](core_05-05_definitions_c_dependent_clusters.md#harm), [Risk](core_05-05_definitions_a_independent.md#risk), [Systemic Materiality](core_05-05_definitions_a_independent.md#systemic-materiality), [Dependency](core_05-05_definitions_a_independent.md#dependency), [Classification-Scaled Governance](core_05-05_definitions_a_independent.md#classification-scaled-governance), [Oversight](#oversight-constitutional), and [Transparency](core_05-05_definitions_c_dependent_clusters.md#transparency).
 
@@ -1654,7 +1723,7 @@ Below, entries are **grouped by topic** for reading convenience (non-operative o
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [6.4.1 Rights-Collision Decision Test](core_00-01_principles.md#641-rights-collision-decision-test); [9. Interpretive Role](core_00-01_principles.md#9-interpretive-role) (standing effects read through integrated interpretive framework).
+- Downstream: Principles: [6.4.1 Rights-Collision Decision Test](core_00-01_principles.md#641-rights-collision-decision-test); [10. Interpretive Role](core_00-01_principles.md#10-interpretive-role) (standing effects read through integrated interpretive framework).
 - Canonical owner: [Chapter Six — §4 Standing Effects](core_06-06_standing_integration.md#5-standing-effects) through [§8 Additive and Non-Substitution Rule](core_06-06_standing_integration.md#9-additive-and-non-substitution-rule) (*trust-, role-, recognition-, restriction-, restoration, integration, and non-substitution*); read with [Chapter Six — §2 Two-Axis Model and Verified Inputs](core_06-06_standing_classification.md#2-primary-contribution-and-violation-levels), [§2.2 Verified-input gate](core_06-06_standing_classification.md#verified-inputs-for-standing), and [§2.5 Standing-cell operational underpinnings](core_06-06_standing_classification.md#25-standing-cell-operational-underpinnings).
 - Read with: the [Standing State, Contribution, and Violation cluster](core_05-05_definitions_c_dependent_clusters.md#standing-state-contribution-and-violation-cluster) and [Standing Cell](#standing-cell-chapter-six). The two are compound for application: a standing effect must be attached to a bounded standing cell, and a standing cell must identify any standing effect actually applied.
 
@@ -1895,7 +1964,7 @@ Below, entries are **grouped by topic** for reading convenience (non-operative o
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [2. Foundational Objective: Wellbeing](core_00-01_principles.md#2-foundational-objective-wellbeing); [8. Prohibition on Absolute Override](core_00-01_principles.md#8-prohibition-on-absolute-override) (non-trivial punishment and dignity floor read-with Article XXIII-B).
+- Downstream: Principles: [2. Foundational Objective: Wellbeing](core_00-01_principles.md#2-foundational-objective-wellbeing); [9. Prohibition on Absolute Override](core_00-01_principles.md#9-prohibition-on-absolute-override) (non-trivial punishment and dignity floor read-with Article XXIII-B).
 - Owner floor: [Article XXIII-B](core_09-09_rights_part_d.md#article-xxiii-b-non-trivial-punishment-constraints) (*Categorical prohibition of irreversible sanction as deprivation of life*). Interaction pointers: [Article XXIII-C](core_09-09_rights_part_d.md#article-xxiii-c-least-restrictive-and-time-bounded-rule) durable-containment discipline; [Article XXIV](core_09-09_rights_part_d.md#article-xxiv-constitutional-evolution-and-non-entrenchment) non-entrenchment; [Article XXV](core_09-09_rights_part_d.md#article-xxv-transition-governance-continuity-and-re-baselining) transition governance and "no durable exception authority" rule.
 - Read with: [Reversibility](core_05-05_definitions_a_independent.md#reversibility-constitutional), [Redress and Remediation](core_05-05_definitions_a_independent.md#redress-and-remediation-constitutional), [Dignity and Equal Moral Standing](core_05-05_definitions_a_independent.md#dignity-and-equal-moral-standing), [Voluntary Discontinuation](core_05-05_definitions_c_dependent_clusters.md#voluntary-discontinuation-constitutional), [Use of Force](#use-of-force-constitutional), [Weapons of Mass Harm](#weapons-of-mass-harm-constitutional), [Autonomous Lethal System](#autonomous-lethal-system-constitutional), [Autonomous Coercion Tool](#autonomous-coercion-tool-constitutional), [Sentience Non-Exclusion](core_05-05_definitions_c_dependent_clusters.md#sentience-non-exclusion), and [Irreversible Harm](core_05-05_definitions_c_dependent_clusters.md#irreversible-harm).
 

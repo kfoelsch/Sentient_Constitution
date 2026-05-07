@@ -263,7 +263,7 @@ Drafting implication:
 
 Good candidate for distinguishing principle, right, and implementation layer. "Self-healing" should not absorb root-cause, audit, or governance duties.
 
-### 5. Freedom
+### 5.1 Freedom
 
 Current core attachments:
 
@@ -285,7 +285,7 @@ Drafting implication:
 
 Freedom should explicitly include Freedom (Bounded Agency) as a primary definition, not only Meaningful Agency. The current map emphasizes limitation logic; the audit should ensure the positive agency concept is equally visible.
 
-### 5.1 Productive Capacity
+### 5.1 Shared-System Capacity
 
 Current core attachments:
 
@@ -322,32 +322,32 @@ This section is where the mapping exercise will pay off most. It should separate
 - proxy divergence as invalidation;
 - ecological and intergenerational terms as hard boundaries.
 
-### 5.2 Distributed Understanding and Stewardship
+### 5.2 Stewardship and Distributed Understanding
 
 Current core attachments:
 
+- Strategic Stewardship Obligation
+- Meaningful Agency
+- Auditability
+- Contestability
 - Educational Agency
 - Transparency
 - Materiality
 - Dependency
-- Meaningful Agency
-- Contestability
 - Avoidable Burden
 - Necessity
 - Proportionality
-- Strategic Stewardship Obligation
-- Auditability
 - Safety
 - Truth
 - Epistemic Integrity
 
 Assessment:
 
-- Primary: Educational Agency; Transparency; Strategic Stewardship Obligation; Meaningful Agency.
-- Supporting: Dependency; Materiality; Contestability; Auditability.
+- Primary: Strategic Stewardship Obligation; Meaningful Agency; Educational Agency; Transparency.
+- Supporting: Auditability; Contestability; Dependency; Materiality.
 - Collision: Necessity; Proportionality; Safety; Truth.
 - Boundary: Avoidable Burden; Epistemic Integrity.
-- Possible overlap: Distributed Understanding, Transparency, Accessibility, Auditability, Educational Agency, and Comprehensibility are adjacent and should be sorted by function.
+- Possible overlap: Stewardship, Distributed Understanding, Transparency, Accessibility, Auditability, Educational Agency, and Comprehensibility are adjacent and should be sorted by function.
 
 Drafting implication:
 
@@ -524,7 +524,7 @@ Drafting implication:
 
 Separate the general incentive/capture doctrine from the special event-market/gambling application. The special application should not distort the general principle map.
 
-### 8. Prohibition on Absolute Override
+### 9. Prohibition on Absolute Override
 
 Current core attachments:
 
@@ -546,7 +546,7 @@ Drafting implication:
 
 This section is properly light. It should not become a duplicate of section 6.
 
-### 9. Interpretive Role
+### 10. Interpretive Role
 
 Current core attachments:
 

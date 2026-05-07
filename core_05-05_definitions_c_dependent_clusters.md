@@ -401,6 +401,8 @@ This cluster is the joint-invocation home for harm, the boundary at which one se
 <a id="harm-c"></a>
 - C: Harm must not be excluded based on distribution or aggregation where [Materiality Determination](core_05-05_definitions_b_semi_independent.md#materiality-determination) would treat the effect as material.
 
+---
+
 <a id="collective-harm-boundary"></a>
 ##### Collective Harm Boundary
 
@@ -437,7 +439,7 @@ This cluster is the joint-invocation home for harm, the boundary at which one se
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [3.1 Safety](core_00-01_principles.md#31-safety-harm-constraint), [6.1.1 Proportionality](core_00-01_principles.md#611-proportionality), and [9. Interpretive Role](core_00-01_principles.md#9-interpretive-role).
+- Downstream: Principles: [3.1 Safety](core_00-01_principles.md#31-safety-harm-constraint), [6.1.1 Proportionality](core_00-01_principles.md#611-proportionality), and [10. Interpretive Role](core_00-01_principles.md#10-interpretive-role).
 - Read with: Harm, Risk, Proportionality, and Existential Risk.
 
 </details>
@@ -983,7 +985,7 @@ This cluster is the peer-level joint-invocation home for distributed **Privacy (
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [6.1.1 Proportionality](core_00-01_principles.md#611-proportionality), [6.1.2 Necessity](core_00-01_principles.md#612-necessity), [6.1.4 Minimization of Avoidable Burden](core_00-01_principles.md#614-minimization-of-avoidable-burden), [5.1 Productive Capacity (Instrumental Good)](core_00-01_principles.md#51-productive-capacity-instrumental-good), and [5. Governance Principle: Freedom](core_00-01_principles.md#5-governance-principle-freedom-bounded-agency).
+- Downstream: Principles: [6.1.1 Proportionality](core_00-01_principles.md#611-proportionality), [6.1.2 Necessity](core_00-01_principles.md#612-necessity), [6.1.4 Minimization of Avoidable Burden](core_00-01_principles.md#614-minimization-of-avoidable-burden), [§5.1.1 Productive Capacity (Instrumental Good)](core_00-01_principles.md#511-productive-capacity-instrumental-good), and [§8 Freedom](core_00-01_principles.md#8-freedom-bounded-agency).
 - Read with: [Materiality Determination](core_05-05_definitions_b_semi_independent.md#materiality-determination), [Harm](core_05-05_definitions_c_dependent_clusters.md#harm), [Risk](core_05-05_definitions_a_independent.md#risk), [Foreseeability Diligence](core_05-05_definitions_c_dependent_clusters.md#foreseeability-diligence), [Classification-Scaled Governance](core_05-05_definitions_a_independent.md#classification-scaled-governance), and [Dependency](core_05-05_definitions_a_independent.md#dependency) where materially implicated.
 
 </details>
@@ -999,9 +1001,9 @@ This cluster is the joint-invocation home for limitations discipline, burden ste
 - [Proportionality](core_05-05_definitions_a_independent.md#proportionality);
 - [Necessity](core_05-05_definitions_a_independent.md#necessity);
 - [Feasibility](core_05-05_definitions_a_independent.md#feasibility);
-- [Avoidable Burden](core_05-05_definitions_a_independent.md#avoidable-burden);
+- [Avoidable Burden](core_05-05_definitions_b_semi_independent.md#avoidable-burden);
 - [Burden-Reduction Duty](core_05-05_definitions_b_semi_independent.md#burden-reduction-duty-constitutional);
-- [Constitutional Efficiency](core_05-05_definitions_a_independent.md#constitutional-efficiency);
+- [Constitutional Efficiency](core_05-05_definitions_b_semi_independent.md#constitutional-efficiency);
 - [Harm Minimization (Tradeoff Selection)](core_05-05_definitions_a_independent.md#harm-minimization-tradeoff-selection);
 - [Productive Capacity](core_05-05_definitions_b_semi_independent.md#productive-capacity-constitutional).
 
@@ -1318,7 +1320,7 @@ while defeating practical reconstructability, contestability, or proportionate a
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [§5.2 Distributed Understanding and Stewardship](core_00-01_principles.md#52-distributed-understanding-and-stewardship), [6.2.1 Preservation of Epistemic Integrity](core_00-01_principles.md#621-preservation-of-epistemic-integrity).
+- Downstream: Principles: [§5.2 Stewardship and Distributed Understanding](core_00-01_principles.md#52-stewardship-and-distributed-understanding), [6.2.1 Preservation of Epistemic Integrity](core_00-01_principles.md#621-preservation-of-epistemic-integrity).
 - Read with: [Epistemic Integrity](#epistemic-integrity), [Truth (Constitutional Constraint)](#truth-constitutional-constraint), [Contestability](core_05-05_definitions_b_semi_independent.md#contestability), and [Auditability](#auditability).
 
 </details>

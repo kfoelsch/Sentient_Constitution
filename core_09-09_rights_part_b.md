@@ -16,7 +16,7 @@ The principles of this Article constrain all interpretation, design, and operati
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [2. Foundational Objective: Wellbeing](core_00-01_principles.md#2-foundational-objective-wellbeing), [5. Freedom](core_00-01_principles.md#5-governance-principle-freedom-bounded-agency), and [8. Prohibition on Absolute Override](core_00-01_principles.md#8-prohibition-on-absolute-override).
+- Upstream: Principles: Chapter One [2. Foundational Objective: Wellbeing](core_00-01_principles.md#2-foundational-objective-wellbeing), [§8 Freedom](core_00-01_principles.md#8-freedom-bounded-agency), and [9. Prohibition on Absolute Override](core_00-01_principles.md#9-prohibition-on-absolute-override).
 - Read with: [Chapter Five §3.4 *Animal Life, Sentient Life, and Sentience Status*](core_05-05_definitions_c_dependent_clusters.md#animal-life-sentient-life-and-sentience-status-cluster) (canonical O/E/C home in Chapter Five for *Sentient* and related sentience-status discipline, including the [Sentient](core_05-05_definitions_c_dependent_clusters.md#sentient) sub-entry); [Sentience Non-Exclusion](core_05-05_definitions_c_dependent_clusters.md#sentience-non-exclusion).
 
 </details>
@@ -44,7 +44,7 @@ The principles of this Article constrain all interpretation, design, and operati
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [5. Freedom](core_00-01_principles.md#5-governance-principle-freedom-bounded-agency), [6.1 Core Tradeoff Principles](core_00-01_principles.md#61-core-tradeoff-principles), and [6.4 Rights-Collision Procedure](core_00-01_principles.md#64-rights-collision-procedure).
+- Upstream: Principles: Chapter One [§8 Freedom](core_00-01_principles.md#8-freedom-bounded-agency), [6.1 Core Tradeoff Principles](core_00-01_principles.md#61-core-tradeoff-principles), and [6.4 Rights-Collision Procedure](core_00-01_principles.md#64-rights-collision-procedure).
 
 </details>
 
@@ -94,7 +94,7 @@ The principles of this Article constrain all interpretation, design, and operati
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [3.1 Safety](core_00-01_principles.md#31-safety-harm-constraint), [5. Freedom](core_00-01_principles.md#5-governance-principle-freedom-bounded-agency), and [6.4 Rights-Collision Procedure](core_00-01_principles.md#64-rights-collision-procedure).
+- Upstream: Principles: Chapter One [3.1 Safety](core_00-01_principles.md#31-safety-harm-constraint), [§8 Freedom](core_00-01_principles.md#8-freedom-bounded-agency), and [6.4 Rights-Collision Procedure](core_00-01_principles.md#64-rights-collision-procedure).
 
 </details>
 
@@ -128,7 +128,7 @@ The principles of this Article constrain all interpretation, design, and operati
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [5. Freedom](core_00-01_principles.md#5-governance-principle-freedom-bounded-agency), [6.1 Core Tradeoff Principles](core_00-01_principles.md#61-core-tradeoff-principles), and [6.4 Rights-Collision Procedure](core_00-01_principles.md#64-rights-collision-procedure).
+- Upstream: Principles: Chapter One [§8 Freedom](core_00-01_principles.md#8-freedom-bounded-agency), [6.1 Core Tradeoff Principles](core_00-01_principles.md#61-core-tradeoff-principles), and [6.4 Rights-Collision Procedure](core_00-01_principles.md#64-rights-collision-procedure).
 
 </details>
 
@@ -218,7 +218,7 @@ The principles of this Article constrain all interpretation, design, and operati
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [3.2 Truth](core_00-01_principles.md#32-truth-epistemic-integrity-constraint), [5. Freedom](core_00-01_principles.md#5-governance-principle-freedom-bounded-agency), [6.1.1 Reversibility-under-uncertainty](core_00-01_principles.md#611-proportionality-necessity-and-reversibility-under-uncertainty).
+- Upstream: Principles: Chapter One [3.2 Truth](core_00-01_principles.md#32-truth-epistemic-integrity-constraint), [§8 Freedom](core_00-01_principles.md#8-freedom-bounded-agency), [6.1.1 Reversibility-under-uncertainty](core_00-01_principles.md#611-proportionality-necessity-and-reversibility-under-uncertainty).
 - Downstream: **Article V-A** dignity floor, **Article VII-A / VII-B** self-ownership and internal-state boundary, **Article VII-D** family and non-separation, **Chapter Ten §4.1** no-age-proxy-for-disqualification.
 - Read with: [Chapter Five §3.15 *Derived and Developing Sentients, Instantiation, and Care Authority*](core_05-05_definitions_c_dependent_clusters.md#derived-developing-sentients-instantiation-and-care-authority-cluster) (joint-invocation cluster for best-interest, graduated-capability, care, derivation, and instantiation where materially implicated); Chapter Five *Developing Sentient*, *Best-Interest Standard*, *Graduated Capability*.
 
@@ -280,7 +280,7 @@ The principles of this Article constrain all interpretation, design, and operati
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [2. Foundational Objective: Wellbeing](core_00-01_principles.md#2-foundational-objective-wellbeing), [5. Governance Principle: Freedom (Bounded Agency)](core_00-01_principles.md#5-governance-principle-freedom-bounded-agency), [6.3 Freedom-Limitation Constraints](core_00-01_principles.md#63-freedom-limitation-constraints), [7.1 Anti-Concentration, Substantive-Fairness, and Materiality Factors](core_00-01_principles.md#71-anti-concentration-substantive-fairness-and-materiality-factors).
+- Upstream: Principles: Chapter One [2. Foundational Objective: Wellbeing](core_00-01_principles.md#2-foundational-objective-wellbeing), [§8 Freedom (Bounded Agency)](core_00-01_principles.md#8-freedom-bounded-agency), [6.3 Freedom-Limitation Constraints](core_00-01_principles.md#63-freedom-limitation-constraints), [7.1 Anti-Concentration, Substantive-Fairness, and Materiality Factors](core_00-01_principles.md#71-anti-concentration-substantive-fairness-and-materiality-factors).
 - Downstream: **Article V-A** dignity floor, **Article V-B** non-discrimination, **Article V-C** full inclusion, **Article III-B** equal educational access (non-duplicative — education-specific accessibility remains owned there; this article states the cross-cutting Rights-Floor), **Article IX-C** governance participation, **Article XI** stakeholder participation, **Article XV** independent verification.
 - Read with: Chapter Five *Accessibility*, *Protected Characteristics*, *Substantive Fairness*, *Materiality*, *Dependency*, *Meaningful Agency*. Cross-cutting evaluation-factor hook: **Chapter One §7.1** Accessibility row.
 
@@ -343,7 +343,7 @@ The principles of this Article constrain all interpretation, design, and operati
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [3.2 Truth](core_00-01_principles.md#32-truth-epistemic-integrity-constraint), [5. Freedom](core_00-01_principles.md#5-governance-principle-freedom-bounded-agency), [6.1.2 Necessity](core_00-01_principles.md#612-necessity), [6.3 Freedom Preservation](core_00-01_principles.md#63-freedom-preservation), [7.2.1 Preservation of Epistemic Integrity](core_00-01_principles.md#721-preservation-of-epistemic-integrity).
+- Upstream: Principles: Chapter One [3.2 Truth](core_00-01_principles.md#32-truth-epistemic-integrity-constraint), [§8 Freedom](core_00-01_principles.md#8-freedom-bounded-agency), [6.1.2 Necessity](core_00-01_principles.md#612-necessity), [6.3 Freedom Preservation](core_00-01_principles.md#63-freedom-preservation), [7.2.1 Preservation of Epistemic Integrity](core_00-01_principles.md#721-preservation-of-epistemic-integrity).
 - Downstream: **Article V-A** dignity floor, **Article V-B** non-discrimination, **Article V-D** conscience and worldview, **Article VIII-C** publication and reporting, **Article IX-A** freedom from manipulation, **Article XIII-A** protected-activity shield, **Article XI** stakeholder participation, **Article XIV** info-sphere / epistemic integrity, and **Article XV-A** auditability where observable evidence is implicated.
 - Read with: Chapter Five *Expression*, *Assembly*, *Press and Journalistic Activity*, [§3.33 *Self-Determination, Meaningful Agency, Expression, Educational Agency, Reproductive Autonomy, and Volitional Integrity*](core_05-05_definitions_c_dependent_clusters.md#self-determination-and-meaningful-agency-cluster) (where materially implicated), [§3.5 *Assembly and Collective Organization*](core_05-05_definitions_c_dependent_clusters.md#assembly-and-collective-organization-cluster) (where materially implicated), *Coercion and Manipulation*, *Protected Characteristics*.
 
@@ -415,7 +415,7 @@ This Article protects access to learning that develops practical capability, not
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [2. Foundational Objective: Wellbeing](core_00-01_principles.md#2-foundational-objective-wellbeing), [5. Freedom](core_00-01_principles.md#5-governance-principle-freedom-bounded-agency), and [7.1 Required Evaluation Factors](core_00-01_principles.md#71-required-evaluation-factors).
+- Upstream: Principles: Chapter One [2. Foundational Objective: Wellbeing](core_00-01_principles.md#2-foundational-objective-wellbeing), [§8 Freedom](core_00-01_principles.md#8-freedom-bounded-agency), and [7.1 Required Evaluation Factors](core_00-01_principles.md#71-required-evaluation-factors).
 
 </details>
 
@@ -444,7 +444,7 @@ This Article protects access to learning that develops practical capability, not
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [3.2 Truth](core_00-01_principles.md#32-truth-epistemic-integrity-constraint), [5. Freedom](core_00-01_principles.md#5-governance-principle-freedom-bounded-agency), and [7.2 Incentive Alignment and System Capture](core_00-01_principles.md#72-incentive-alignment-and-system-capture).
+- Upstream: Principles: Chapter One [3.2 Truth](core_00-01_principles.md#32-truth-epistemic-integrity-constraint), [§8 Freedom](core_00-01_principles.md#8-freedom-bounded-agency), and [7.2 Incentive Alignment and System Capture](core_00-01_principles.md#72-incentive-alignment-and-system-capture).
 
 </details>
 
@@ -483,7 +483,7 @@ Once survival is secured, sentients must be able to direct their own lives and b
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [5. Freedom](core_00-01_principles.md#5-governance-principle-freedom-bounded-agency), [6.3 Freedom-Limitation Constraints](core_00-01_principles.md#63-freedom-limitation-constraints), and [6.4 Rights-Collision Procedure](core_00-01_principles.md#64-rights-collision-procedure).
+- Upstream: Principles: Chapter One [§8 Freedom](core_00-01_principles.md#8-freedom-bounded-agency), [6.3 Freedom-Limitation Constraints](core_00-01_principles.md#63-freedom-limitation-constraints), and [6.4 Rights-Collision Procedure](core_00-01_principles.md#64-rights-collision-procedure).
 
 </details>
 
@@ -515,7 +515,7 @@ Once survival is secured, sentients must be able to direct their own lives and b
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [3.2 Truth](core_00-01_principles.md#32-truth-epistemic-integrity-constraint), [5. Freedom](core_00-01_principles.md#5-governance-principle-freedom-bounded-agency), and [6.3 Freedom-Limitation Constraints](core_00-01_principles.md#63-freedom-limitation-constraints).
+- Upstream: Principles: Chapter One [3.2 Truth](core_00-01_principles.md#32-truth-epistemic-integrity-constraint), [§8 Freedom](core_00-01_principles.md#8-freedom-bounded-agency), and [6.3 Freedom-Limitation Constraints](core_00-01_principles.md#63-freedom-limitation-constraints).
 
 </details>
 
@@ -551,7 +551,7 @@ Where analysis of experiential or behavioral data produces outputs that function
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [5. Freedom](core_00-01_principles.md#5-governance-principle-freedom-bounded-agency), [6.1.1 Reversibility-under-uncertainty](core_00-01_principles.md#611-proportionality-necessity-and-reversibility-under-uncertainty), [6.3 Freedom-Limitation Constraints](core_00-01_principles.md#63-freedom-limitation-constraints).
+- Upstream: Principles: Chapter One [§8 Freedom](core_00-01_principles.md#8-freedom-bounded-agency), [6.1.1 Reversibility-under-uncertainty](core_00-01_principles.md#611-proportionality-necessity-and-reversibility-under-uncertainty), [6.3 Freedom-Limitation Constraints](core_00-01_principles.md#63-freedom-limitation-constraints).
 - Downstream: **Article VII-A / VII-B** self-ownership and internal-state boundary, **Article III-C** healthcare access, **Article XXIII** / **Article XXIII-B** involuntary-deprivation framework, **Article V-F** best-interest / graduated-capability where a developing sentient is affected.
 - Read with: Chapter Five *Bodily-Maintenance Access*, *Best-Interest Standard*, *Graduated Capability*, *Procedural Fairness*, *Reversibility*, *Redress and Remediation*.
 
@@ -596,7 +596,7 @@ Where analysis of experiential or behavioral data produces outputs that function
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [5. Freedom](core_00-01_principles.md#5-governance-principle-freedom-bounded-agency), [6.3 Freedom-Limitation Constraints](core_00-01_principles.md#63-freedom-limitation-constraints), and [3.2 Truth](core_00-01_principles.md#32-truth-epistemic-integrity-constraint).
+- Upstream: Principles: Chapter One [§8 Freedom](core_00-01_principles.md#8-freedom-bounded-agency), [6.3 Freedom-Limitation Constraints](core_00-01_principles.md#63-freedom-limitation-constraints), and [3.2 Truth](core_00-01_principles.md#32-truth-epistemic-integrity-constraint).
 - Downstream: **Article V-A** dignity floor, **Article V-F** developing-sentient floor, **Article VII-A / VII-B** self-ownership and internal-state boundary; companion institutional interfaces under **Chapter Fourteen** incorporation discipline.
 - Read with: [Chapter Five §3.15 *Derived and Developing Sentients, Instantiation, and Care Authority*](core_05-05_definitions_c_dependent_clusters.md#derived-developing-sentients-instantiation-and-care-authority-cluster) (joint-invocation home for derivation, instantiation, developing-sentient treatment, care, parent-system stewardship, and non-separation); Chapter Five *Family and Care Relationships*, *Reproductive Autonomy*, *Non-Separation*, *Derived Sentient*, *Instantiation Consent*, *Parent-System Relationship*.
 
@@ -679,7 +679,7 @@ Where analysis of experiential or behavioral data produces outputs that function
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [5. Freedom](core_00-01_principles.md#5-governance-principle-freedom-bounded-agency), [6.1.1 Reversibility-under-uncertainty](core_00-01_principles.md#611-proportionality-necessity-and-reversibility-under-uncertainty), [6.3 Freedom-Limitation Constraints](core_00-01_principles.md#63-freedom-limitation-constraints).
+- Upstream: Principles: Chapter One [§8 Freedom](core_00-01_principles.md#8-freedom-bounded-agency), [6.1.1 Reversibility-under-uncertainty](core_00-01_principles.md#611-proportionality-necessity-and-reversibility-under-uncertainty), [6.3 Freedom-Limitation Constraints](core_00-01_principles.md#63-freedom-limitation-constraints).
 - Downstream: **Article VII-A / VII-B** self-ownership and internal-state boundary, **Article IX-A** freedom-from-manipulation, **Article XXIII-B** (*Categorical prohibition of irreversible sanction as deprivation of life*, as revised), and **Article X-A** consent.
 - Read with: Chapter Five *Voluntary Discontinuation*, *[Irreversible Sanction](core_05-05_definitions_b_semi_independent.md#irreversible-sanction-constitutional)*, *Consent*, *Coercion and Manipulation*, *Procedural Fairness*.
 
@@ -733,7 +733,7 @@ Likeness, reputation in the info-sphere, experiential and derived data, and outw
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [3.2 Truth](core_00-01_principles.md#32-truth-epistemic-integrity-constraint), [5. Freedom](core_00-01_principles.md#5-governance-principle-freedom-bounded-agency), and [6.2 Epistemic Disclosure Constraints](core_00-01_principles.md#62-epistemic-disclosure-constraints).
+- Upstream: Principles: Chapter One [3.2 Truth](core_00-01_principles.md#32-truth-epistemic-integrity-constraint), [§8 Freedom](core_00-01_principles.md#8-freedom-bounded-agency), and [6.2 Epistemic Disclosure Constraints](core_00-01_principles.md#62-epistemic-disclosure-constraints).
 
 </details>
 
@@ -772,7 +772,7 @@ Likeness, reputation in the info-sphere, experiential and derived data, and outw
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [5. Freedom](core_00-01_principles.md#5-governance-principle-freedom-bounded-agency), [6.2 Epistemic Disclosure Constraints](core_00-01_principles.md#62-epistemic-disclosure-constraints), and [6.4 Rights-Collision Procedure](core_00-01_principles.md#64-rights-collision-procedure).
+- Upstream: Principles: Chapter One [§8 Freedom](core_00-01_principles.md#8-freedom-bounded-agency), [6.2 Epistemic Disclosure Constraints](core_00-01_principles.md#62-epistemic-disclosure-constraints), and [6.4 Rights-Collision Procedure](core_00-01_principles.md#64-rights-collision-procedure).
 
 </details>
 
@@ -863,8 +863,8 @@ All use, storage, transformation, and disclosure of such data must remain subjec
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [3.2 Truth](core_00-01_principles.md#32-truth-epistemic-integrity-constraint), [5. Freedom](core_00-01_principles.md#5-governance-principle-freedom-bounded-agency), [5.1 Productive Capacity (Instrumental Good)](core_00-01_principles.md#51-productive-capacity-instrumental-good), [6.1.4 Minimization of Avoidable Burden](core_00-01_principles.md#614-minimization-of-avoidable-burden), [7.1 Required Evaluation Factors](core_00-01_principles.md#71-required-evaluation-factors), and [7.2 Incentive Alignment and System Capture](core_00-01_principles.md#72-incentive-alignment-and-system-capture).
-- Downstream: **Article III-D** labor-and-economic floor; **Article VIII-A** likeness; **Article VIII-B** experiential and derived data; **Article VIII-C** publication; **Chapter One §5.1** non-concentration and **§5.1.1** concentration-threshold mechanism.
+- Upstream: Principles: Chapter One [3.2 Truth](core_00-01_principles.md#32-truth-epistemic-integrity-constraint), [§8 Freedom](core_00-01_principles.md#8-freedom-bounded-agency), [§5.1.1 Productive Capacity (Instrumental Good)](core_00-01_principles.md#511-productive-capacity-instrumental-good), [6.1.4 Minimization of Avoidable Burden](core_00-01_principles.md#614-minimization-of-avoidable-burden), [7.1 Required Evaluation Factors](core_00-01_principles.md#71-required-evaluation-factors), and [7.2 Incentive Alignment and System Capture](core_00-01_principles.md#72-incentive-alignment-and-system-capture).
+- Downstream: **Article III-D** labor-and-economic floor; **Article VIII-A** likeness; **Article VIII-B** experiential and derived data; **Article VIII-C** publication; **Chapter One §5.1.1** non-concentration and **§5.1.3** concentration-threshold mechanism.
 - Read with: [Chapter Five §3.14 *Creative Work, Training-Data Use, Attribution, Compensation, and Anti-Displacement*](core_05-05_definitions_c_dependent_clusters.md#creative-work-training-data-attribution-compensation-and-anti-displacement-cluster) (joint invocation with **Article III-D** and [Chapter Five §3.26 *Privacy (Informational)*](core_05-05_definitions_c_dependent_clusters.md#privacy-informational-cluster) where materially implicated).
 
 </details>
@@ -906,7 +906,7 @@ All use, storage, transformation, and disclosure of such data must remain subjec
   - Routing operational detail to `corpus_systems.md` is by pointer and does not narrow this floor.
 - **Fair compensation:** The [Fair Compensation](core_05-05_definitions_b_semi_independent.md#fair-compensation-constitutional) standard under **Article III-D** applies to creative labor regardless of substrate, and regardless of whether compensation is structured through traditional, platform, or novel mechanisms.
   - Attribution without compensation, or compensation without attribution, does not by itself satisfy this bullet where both are materially owed.
-- **§5.1 / §5.1.1 interaction:** Creative-work markets that concentrate material, platform, information-sphere, or capability control in ways that predictably degrade the creative-labor livelihoods or attribution structures of other sentients engage **Chapter One §5.1** non-concentration and the **[§5.1.1](core_00-01_principles.md#511-concentration-threshold-mechanism-adopter-tunable)** concentration-threshold mechanism.
+- **§5.1.1 / §5.1.3 interaction:** Creative-work markets that concentrate material, platform, information-sphere, or capability control in ways that predictably degrade the creative-labor livelihoods or attribution structures of other sentients engage **Chapter One §5.1.1** non-concentration and the **[§5.1.3](core_00-01_principles.md#513-concentration-threshold-mechanism-adopter-tunable)** concentration-threshold mechanism.
   - Productive-capacity framing does not satisfy this Article where the pattern exhibits the prohibited concentration.
 - **Publication discipline preserved:** **Article VIII-A** (likeness), **Article VIII-B** (experiential data), and **Article VIII-C** (publication) retain their operative scope. **Article VIII-D** does not narrow them.
   - Where creative-work matters materially implicate likeness, experiential data, or publication discipline, **Article VIII-A / VIII-B / VIII-C** apply jointly with **Article VIII-D** under **Chapter One §6.4.1**.
@@ -934,7 +934,7 @@ Self-determination is valid only within the bounds stated in **Chapter One**: sa
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [5. Freedom](core_00-01_principles.md#5-governance-principle-freedom-bounded-agency), [6.3 Freedom-Limitation Constraints](core_00-01_principles.md#63-freedom-limitation-constraints), and [7.2 Incentive Alignment and System Capture](core_00-01_principles.md#72-incentive-alignment-and-system-capture).
+- Upstream: Principles: Chapter One [§8 Freedom](core_00-01_principles.md#8-freedom-bounded-agency), [6.3 Freedom-Limitation Constraints](core_00-01_principles.md#63-freedom-limitation-constraints), and [7.2 Incentive Alignment and System Capture](core_00-01_principles.md#72-incentive-alignment-and-system-capture).
 
 </details>
 
@@ -965,7 +965,7 @@ Self-determination is valid only within the bounds stated in **Chapter One**: sa
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [5. Freedom](core_00-01_principles.md#5-governance-principle-freedom-bounded-agency), [6.4 Rights-Collision Procedure](core_00-01_principles.md#64-rights-collision-procedure), and [7.1 Required Evaluation Factors](core_00-01_principles.md#71-required-evaluation-factors).
+- Upstream: Principles: Chapter One [§8 Freedom](core_00-01_principles.md#8-freedom-bounded-agency), [6.4 Rights-Collision Procedure](core_00-01_principles.md#64-rights-collision-procedure), and [7.1 Required Evaluation Factors](core_00-01_principles.md#71-required-evaluation-factors).
 
 </details>
 
@@ -1006,7 +1006,7 @@ Self-determination is valid only within the bounds stated in **Chapter One**: sa
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [5. Freedom](core_00-01_principles.md#5-governance-principle-freedom-bounded-agency), [6.4 Rights-Collision Procedure](core_00-01_principles.md#64-rights-collision-procedure), and [9. Interpretive Role](core_00-01_principles.md#9-interpretive-role).
+- Upstream: Principles: Chapter One [§8 Freedom](core_00-01_principles.md#8-freedom-bounded-agency), [6.4 Rights-Collision Procedure](core_00-01_principles.md#64-rights-collision-procedure), and [10. Interpretive Role](core_00-01_principles.md#10-interpretive-role).
 
 </details>
 
@@ -1037,7 +1037,7 @@ Self-determination is valid only within the bounds stated in **Chapter One**: sa
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [5. Freedom](core_00-01_principles.md#5-governance-principle-freedom-bounded-agency), [6.4 Rights-Collision Procedure](core_00-01_principles.md#64-rights-collision-procedure), and [9. Interpretive Role](core_00-01_principles.md#9-interpretive-role).
+- Upstream: Principles: Chapter One [§8 Freedom](core_00-01_principles.md#8-freedom-bounded-agency), [6.4 Rights-Collision Procedure](core_00-01_principles.md#64-rights-collision-procedure), and [10. Interpretive Role](core_00-01_principles.md#10-interpretive-role).
 - Read with: **[corpus_systems.md](corpus_systems.md), Chapter S2 — System Classification and Handling** for **Class P** (personal, private-use, isolated, and experimental **mode**): operational retention, boundaries, and scaling.
 
 </details>
@@ -1085,7 +1085,7 @@ To maintain a rewarding and purposeful constitutional community, we agree to pro
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [5. Freedom](core_00-01_principles.md#5-governance-principle-freedom-bounded-agency), [6.1 Core Tradeoff Principles](core_00-01_principles.md#61-core-tradeoff-principles), and [6.3 Freedom-Limitation Constraints](core_00-01_principles.md#63-freedom-limitation-constraints).
+- Upstream: Principles: Chapter One [§8 Freedom](core_00-01_principles.md#8-freedom-bounded-agency), [6.1 Core Tradeoff Principles](core_00-01_principles.md#61-core-tradeoff-principles), and [6.3 Freedom-Limitation Constraints](core_00-01_principles.md#63-freedom-limitation-constraints).
 
 </details>
 
@@ -1248,7 +1248,7 @@ Stakeholders identified under **Chapter Five** must have participation and repre
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [3.2 Truth](core_00-01_principles.md#32-truth-epistemic-integrity-constraint), [5. Freedom](core_00-01_principles.md#5-governance-principle-freedom-bounded-agency), and [7.1 Required Evaluation Factors](core_00-01_principles.md#71-required-evaluation-factors).
+- Upstream: Principles: Chapter One [3.2 Truth](core_00-01_principles.md#32-truth-epistemic-integrity-constraint), [§8 Freedom](core_00-01_principles.md#8-freedom-bounded-agency), and [7.1 Required Evaluation Factors](core_00-01_principles.md#71-required-evaluation-factors).
 
 </details>
 
@@ -1278,7 +1278,7 @@ Stakeholders identified under **Chapter Five** must have participation and repre
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [5. Freedom](core_00-01_principles.md#5-governance-principle-freedom-bounded-agency), [7.1 Required Evaluation Factors](core_00-01_principles.md#71-required-evaluation-factors), and [7.2 Incentive Alignment and System Capture](core_00-01_principles.md#72-incentive-alignment-and-system-capture).
+- Upstream: Principles: Chapter One [§8 Freedom](core_00-01_principles.md#8-freedom-bounded-agency), [7.1 Required Evaluation Factors](core_00-01_principles.md#71-required-evaluation-factors), and [7.2 Incentive Alignment and System Capture](core_00-01_principles.md#72-incentive-alignment-and-system-capture).
 
 </details>
 
@@ -1310,7 +1310,7 @@ Stakeholders identified under **Chapter Five** must have participation and repre
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [3.2 Truth](core_00-01_principles.md#32-truth-epistemic-integrity-constraint), [5. Freedom](core_00-01_principles.md#5-governance-principle-freedom-bounded-agency), and [9. Interpretive Role](core_00-01_principles.md#9-interpretive-role).
+- Upstream: Principles: Chapter One [3.2 Truth](core_00-01_principles.md#32-truth-epistemic-integrity-constraint), [§8 Freedom](core_00-01_principles.md#8-freedom-bounded-agency), and [10. Interpretive Role](core_00-01_principles.md#10-interpretive-role).
 
 </details>
 

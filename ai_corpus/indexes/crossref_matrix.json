@@ -1,0 +1,143 @@
+{
+  "$schema": "../schemas/crossref_matrix.schema.json",
+  "edition": "SC-Corpus-2026.04.32",
+  "generated_at": "2026-05-07T16:00:00Z",
+  "description": "Cross-reference graph showing file-to-file dependencies in the Sentient Constitution corpus",
+  "graph": {
+    "nodes": [
+      {"id": "core_00-01_principles.md", "type": "core", "chapter": "0-1"},
+      {"id": "core_02-04_definition_mechanics.md", "type": "core", "chapter": "2-4"},
+      {"id": "core_05-05_definitions_a_independent.md", "type": "core", "chapter": "5"},
+      {"id": "core_05-05_definitions_b_semi_independent.md", "type": "core", "chapter": "5"},
+      {"id": "core_05-05_definitions_c_dependent_clusters.md", "type": "core", "chapter": "5"},
+      {"id": "core_06-06_standing_classification.md", "type": "core", "chapter": "6"},
+      {"id": "core_06-06_standing_integration.md", "type": "core", "chapter": "6"},
+      {"id": "core_07-07_misconduct.md", "type": "core", "chapter": "7"},
+      {"id": "core_08-08_forum.md", "type": "core", "chapter": "8"},
+      {"id": "core_09-09_rights_part_a.md", "type": "core", "chapter": "9a"},
+      {"id": "core_09-09_rights_part_b.md", "type": "core", "chapter": "9b"},
+      {"id": "core_09-09_rights_part_c.md", "type": "core", "chapter": "9c"},
+      {"id": "core_09-09_rights_part_d.md", "type": "core", "chapter": "9d"},
+      {"id": "core_10-10_governance.md", "type": "core", "chapter": "10"},
+      {"id": "core_11-13_amendment.md", "type": "core", "chapter": "11-13"},
+      {"id": "core_14-14_incorporation.md", "type": "core", "chapter": "14"},
+      {"id": "corpus_systems.md", "type": "companion", "role": "systems"},
+      {"id": "corpus_institutions.md", "type": "companion", "role": "institutions"},
+      {"id": "corpus_forum.md", "type": "companion", "role": "forum"},
+      {"id": "corpus_joint_structure.md", "type": "companion", "role": "joint_structure"}
+    ],
+    "edges": [
+      {
+        "source": "core_00-01_principles.md",
+        "targets": [
+          {"file": "core_05-05_definitions_a_independent.md", "count": 12, "anchors": ["#proportionality", "#necessity", "#feasibility"]},
+          {"file": "core_05-05_definitions_b_semi_independent.md", "count": 8, "anchors": ["#accountability", "#contestability"]},
+          {"file": "core_05-05_definitions_c_dependent_clusters.md", "count": 6, "anchors": ["#harm", "#sentience-non-exclusion"]},
+          {"file": "core_09-09_rights_part_a.md", "count": 4, "anchors": ["#article-i", "#article-iii"]},
+          {"file": "core_09-09_rights_part_b.md", "count": 5, "anchors": ["#article-v", "#article-vii"]},
+          {"file": "core_09-09_rights_part_c.md", "count": 3, "anchors": ["#article-xii"]}
+        ]
+      },
+      {
+        "source": "core_02-04_definition_mechanics.md",
+        "targets": [
+          {"file": "core_05-05_definitions_a_independent.md", "count": 25, "anchors": ["#oec-structure-reference"]},
+          {"file": "core_05-05_definitions_b_semi_independent.md", "count": 15, "anchors": []},
+          {"file": "core_05-05_definitions_c_dependent_clusters.md", "count": 10, "anchors": []},
+          {"file": "core_06-06_standing_classification.md", "count": 8, "anchors": []},
+          {"file": "core_06-06_standing_integration.md", "count": 6, "anchors": []}
+        ]
+      },
+      {
+        "source": "core_05-05_definitions_a_independent.md",
+        "targets": [
+          {"file": "core_00-01_principles.md", "count": 5, "anchors": []},
+          {"file": "core_05-05_definitions_b_semi_independent.md", "count": 35, "anchors": ["#materiality", "#dependency"]},
+          {"file": "core_05-05_definitions_c_dependent_clusters.md", "count": 40, "anchors": ["#harm", "#trustworthiness"]},
+          {"file": "core_09-09_rights_part_a.md", "count": 12, "anchors": []},
+          {"file": "core_09-09_rights_part_b.md", "count": 15, "anchors": []},
+          {"file": "core_09-09_rights_part_c.md", "count": 18, "anchors": []},
+          {"file": "corpus_systems.md", "count": 20, "anchors": ["#protocol-a", "#chapter-s2"]}
+        ]
+      },
+      {
+        "source": "core_05-05_definitions_b_semi_independent.md",
+        "targets": [
+          {"file": "core_05-05_definitions_a_independent.md", "count": 45, "anchors": ["#proportionality", "#feasibility"]},
+          {"file": "core_05-05_definitions_c_dependent_clusters.md", "count": 30, "anchors": []},
+          {"file": "core_06-06_standing_classification.md", "count": 15, "anchors": []},
+          {"file": "core_09-09_rights_part_b.md", "count": 20, "anchors": []},
+          {"file": "corpus_institutions.md", "count": 10, "anchors": []}
+        ]
+      },
+      {
+        "source": "core_05-05_definitions_c_dependent_clusters.md",
+        "targets": [
+          {"file": "core_05-05_definitions_a_independent.md", "count": 50, "anchors": []},
+          {"file": "core_05-05_definitions_b_semi_independent.md", "count": 40, "anchors": []},
+          {"file": "core_09-09_rights_part_c.md", "count": 12, "anchors": []},
+          {"file": "corpus_systems.md", "count": 8, "anchors": []}
+        ]
+      },
+      {
+        "source": "core_09-09_rights_part_a.md",
+        "targets": [
+          {"file": "core_05-05_definitions_a_independent.md", "count": 8, "anchors": []},
+          {"file": "core_05-05_definitions_b_semi_independent.md", "count": 6, "anchors": []},
+          {"file": "core_05-05_definitions_c_dependent_clusters.md", "count": 10, "anchors": []},
+          {"file": "corpus_systems.md", "count": 12, "anchors": ["#protocol-s5", "#protocol-s4"]}
+        ]
+      },
+      {
+        "source": "core_09-09_rights_part_b.md",
+        "targets": [
+          {"file": "core_05-05_definitions_a_independent.md", "count": 15, "anchors": ["#accessibility"]},
+          {"file": "core_05-05_definitions_b_semi_independent.md", "count": 25, "anchors": ["#consent", "#protected-characteristics"]},
+          {"file": "core_05-05_definitions_c_dependent_clusters.md", "count": 18, "anchors": []},
+          {"file": "corpus_institutions.md", "count": 8, "anchors": []}
+        ]
+      },
+      {
+        "source": "core_09-09_rights_part_c.md",
+        "targets": [
+          {"file": "core_05-05_definitions_a_independent.md", "count": 12, "anchors": []},
+          {"file": "core_05-05_definitions_c_dependent_clusters.md", "count": 20, "anchors": ["#trustworthiness"]},
+          {"file": "corpus_systems.md", "count": 35, "anchors": ["#protocol-a", "#chapter-s1", "#chapter-s2", "#protocol-s4", "#protocol-s5"]},
+          {"file": "corpus_institutions.md", "count": 15, "anchors": ["#ci-4", "#ci-5", "#ci-12"]}
+        ]
+      },
+      {
+        "source": "corpus_systems.md",
+        "targets": [
+          {"file": "core_05-05_definitions_a_independent.md", "count": 30, "anchors": []},
+          {"file": "core_05-05_definitions_b_semi_independent.md", "count": 20, "anchors": ["#materiality", "#material-impact"]},
+          {"file": "core_09-09_rights_part_c.md", "count": 25, "anchors": []},
+          {"file": "corpus_joint_structure.md", "count": 15, "anchors": ["#cjs-2", "#cjs-3"]},
+          {"file": "corpus_institutions.md", "count": 10, "anchors": []}
+        ]
+      },
+      {
+        "source": "corpus_institutions.md",
+        "targets": [
+          {"file": "core_05-05_definitions_b_semi_independent.md", "count": 20, "anchors": ["#governance", "#oversight"]},
+          {"file": "core_09-09_rights_part_b.md", "count": 12, "anchors": []},
+          {"file": "core_09-09_rights_part_c.md", "count": 18, "anchors": []},
+          {"file": "corpus_joint_structure.md", "count": 25, "anchors": []},
+          {"file": "corpus_forum.md", "count": 15, "anchors": []}
+        ]
+      }
+    ],
+    "high_traffic_references": [
+      {"term": "Proportionality", "file": "core_05-05_definitions_a_independent.md", "referencing_files": 12},
+      {"term": "Materiality", "file": "core_05-05_definitions_b_semi_independent.md", "referencing_files": 10},
+      {"term": "Dependency", "file": "core_05-05_definitions_a_independent.md", "referencing_files": 9},
+      {"term": "Harm", "file": "core_05-05_definitions_c_dependent_clusters.md", "referencing_files": 11},
+      {"term": "Necessity", "file": "core_05-05_definitions_a_independent.md", "referencing_files": 8}
+    ]
+  },
+  "usage_notes": {
+    "edit_impact_analysis": "Before editing a definition, check 'high_traffic_references' to understand cross-file impact",
+    "navigation_strategy": "Use this matrix to plan multi-file edits efficiently - read only files that reference your target",
+    "token_optimization": "High-traffic terms (>8 referencing files) should be checked for consistency across all referencing files"
+  }
+}

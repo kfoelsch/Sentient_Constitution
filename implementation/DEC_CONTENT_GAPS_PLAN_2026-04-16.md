@@ -380,7 +380,7 @@ Each item below specifies (a) owner chapter, (b) insertion site, (c) Ch 5 entrie
 #### 10.1 — Economic concentration thresholds (T2)
 
 - **Owner chapter:** **[REVIEW-Q-10.1.A]** Chapter One §5.1 extension **vs.** Chapter Nine new article (Article IV-C). Recommend **Chapter One §5.1 extension** plus **Chapter Nine pointer** — threshold mechanism is a principle-layer matter (it scales with adopter context); rights-layer floor lives in Article IV-A non-concentration language already.
-- **Insertion site:** `core_00-01_principles.md` §5.1 new sub-clause (threshold mechanism; adopter-tunable); `core_09-09_rights_part_a.md` Article IV pointer.
+- **Insertion site:** `core_00-01_principles.md` §5.1.1 sub-clause (threshold mechanism; adopter-tunable); `core_09-09_rights_part_a.md` Article IV pointer.
 - **Ch 5 additions:** `Concentration Threshold`.
 - **Pluralism preservation:** adopter-tunable within a constitutional floor, not a single global number.
 - **§5.1 interaction:** existing non-concentration rule provides the floor; threshold provides the operational scaling.

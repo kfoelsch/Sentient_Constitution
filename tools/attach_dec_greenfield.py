@@ -356,7 +356,7 @@ ATTACHMENTS: list[tuple[str, str, list[str]]] = [
     ),
     (
         "core_00-01_principles.md",
-        "### 9. Interpretive Role",
+        "### 10. Interpretive Role",
         [
             "Irreversible Harm",
             "Truth (Constitutional Constraint)",

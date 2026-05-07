@@ -37,7 +37,7 @@ Adopted governance implementation provides escalation, proportionality of interv
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [3.1 Safety](core_00-01_principles.md#31-safety-harm-constraint), [6.4 Rights-Collision Procedure](core_00-01_principles.md#64-rights-collision-procedure), and [9. Interpretive Role](core_00-01_principles.md#9-interpretive-role).
+- Upstream: Principles: Chapter One [3.1 Safety](core_00-01_principles.md#31-safety-harm-constraint), [6.4 Rights-Collision Procedure](core_00-01_principles.md#64-rights-collision-procedure), and [10. Interpretive Role](core_00-01_principles.md#10-interpretive-role).
 
 </details>
 
@@ -122,7 +122,7 @@ Adopted governance implementation provides escalation, proportionality of interv
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [6.1 Core Tradeoff Principles](core_00-01_principles.md#61-core-tradeoff-principles), [6.4 Rights-Collision Procedure](core_00-01_principles.md#64-rights-collision-procedure), and [8. Prohibition on Absolute Override](core_00-01_principles.md#8-prohibition-on-absolute-override).
+- Upstream: Principles: Chapter One [6.1 Core Tradeoff Principles](core_00-01_principles.md#61-core-tradeoff-principles), [6.4 Rights-Collision Procedure](core_00-01_principles.md#64-rights-collision-procedure), and [9. Prohibition on Absolute Override](core_00-01_principles.md#9-prohibition-on-absolute-override).
 
 </details>
 
@@ -221,7 +221,7 @@ Adopted governance implementation provides escalation, proportionality of interv
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [3.2 Truth](core_00-01_principles.md#32-truth-epistemic-integrity-constraint), [6.2 Epistemic Disclosure Constraints](core_00-01_principles.md#62-epistemic-disclosure-constraints), and [9. Interpretive Role](core_00-01_principles.md#9-interpretive-role).
+- Upstream: Principles: Chapter One [3.2 Truth](core_00-01_principles.md#32-truth-epistemic-integrity-constraint), [6.2 Epistemic Disclosure Constraints](core_00-01_principles.md#62-epistemic-disclosure-constraints), and [10. Interpretive Role](core_00-01_principles.md#10-interpretive-role).
 
 </details>
 
@@ -256,7 +256,7 @@ Adopted governance implementation provides escalation, proportionality of interv
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [6.4 Rights-Collision Procedure](core_00-01_principles.md#64-rights-collision-procedure), [8. Prohibition on Absolute Override](core_00-01_principles.md#8-prohibition-on-absolute-override), and [9. Interpretive Role](core_00-01_principles.md#9-interpretive-role).
+- Upstream: Principles: Chapter One [6.4 Rights-Collision Procedure](core_00-01_principles.md#64-rights-collision-procedure), [9. Prohibition on Absolute Override](core_00-01_principles.md#9-prohibition-on-absolute-override), and [10. Interpretive Role](core_00-01_principles.md#10-interpretive-role).
 
 </details>
 
@@ -309,7 +309,7 @@ Inertia, convenience, and historical precedent alone cannot entrench arrangement
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [2. Foundational Objective: Wellbeing](core_00-01_principles.md#2-foundational-objective-wellbeing), [7.1 Required Evaluation Factors](core_00-01_principles.md#71-required-evaluation-factors), and [8. Prohibition on Absolute Override](core_00-01_principles.md#8-prohibition-on-absolute-override).
+- Upstream: Principles: Chapter One [2. Foundational Objective: Wellbeing](core_00-01_principles.md#2-foundational-objective-wellbeing), [7.1 Required Evaluation Factors](core_00-01_principles.md#71-required-evaluation-factors), and [9. Prohibition on Absolute Override](core_00-01_principles.md#9-prohibition-on-absolute-override).
 
 </details>
 
@@ -338,7 +338,7 @@ Inertia, convenience, and historical precedent alone cannot entrench arrangement
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [3.2 Truth](core_00-01_principles.md#32-truth-epistemic-integrity-constraint), [7.1 Required Evaluation Factors](core_00-01_principles.md#71-required-evaluation-factors), and [8. Prohibition on Absolute Override](core_00-01_principles.md#8-prohibition-on-absolute-override).
+- Upstream: Principles: Chapter One [3.2 Truth](core_00-01_principles.md#32-truth-epistemic-integrity-constraint), [7.1 Required Evaluation Factors](core_00-01_principles.md#71-required-evaluation-factors), and [9. Prohibition on Absolute Override](core_00-01_principles.md#9-prohibition-on-absolute-override).
 
 </details>
 
@@ -421,7 +421,7 @@ Transitional governance exists to secure continuity and non-regression. It must 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [3.1 Safety](core_00-01_principles.md#31-safety-harm-constraint), [6.1 Core Tradeoff Principles](core_00-01_principles.md#61-core-tradeoff-principles), and [8. Prohibition on Absolute Override](core_00-01_principles.md#8-prohibition-on-absolute-override).
+- Upstream: Principles: Chapter One [3.1 Safety](core_00-01_principles.md#31-safety-harm-constraint), [6.1 Core Tradeoff Principles](core_00-01_principles.md#61-core-tradeoff-principles), and [9. Prohibition on Absolute Override](core_00-01_principles.md#9-prohibition-on-absolute-override).
 
 </details>
 
@@ -453,7 +453,7 @@ Transitional governance exists to secure continuity and non-regression. It must 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [3.1 Safety](core_00-01_principles.md#31-safety-harm-constraint), [6.1 Core Tradeoff Principles](core_00-01_principles.md#61-core-tradeoff-principles), and [9. Interpretive Role](core_00-01_principles.md#9-interpretive-role).
+- Upstream: Principles: Chapter One [3.1 Safety](core_00-01_principles.md#31-safety-harm-constraint), [6.1 Core Tradeoff Principles](core_00-01_principles.md#61-core-tradeoff-principles), and [10. Interpretive Role](core_00-01_principles.md#10-interpretive-role).
 
 </details>
 

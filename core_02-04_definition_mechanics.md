@@ -72,7 +72,7 @@ Evaluative components define how a definition must be assessed. Evaluative compo
 - specify required evaluation conditions
 - specify treatment of uncertainty where relevant
 
-All evaluation requirements defined in **Chapters Two and Three** must be enforced under **Chapter Four, section 1 — Exclusive Enforcement and Burden Allocation**, with evidence sufficiency governed by **Chapter Four, section 2 — Compliance Evidence Standard**. They must be applied consistently with all applicable Independent Definitions (Chapter Five, section 1 — Independent Definitions).
+All evaluation requirements defined in **Chapters Two and Three** must be enforced under **Chapter Four, section 1 — Exclusive Enforcement and Burden Allocation**, with evidence sufficiency governed by **Chapter Four, section 2 — Compliance Evidence Standard**. They must be applied consistently with all applicable Chapter Five definitions, including Independent Definitions, Semi-independent Definitions, and Dependent clusters where their admission scope applies.
 
 #### 2.3 Compliance Components (C) — What Must Be True in Practice
 Compliance components define the required real-world conditions that must be satisfied. They must:

@@ -336,7 +336,7 @@ def synth_creative_work() -> str:
 - [Training-Data Use](#training-data-use-constitutional);
 - [Anti-Displacement Floor](#anti-displacement-floor-constitutional);
 - [Fair Compensation](#fair-compensation-constitutional);
-- [Productive Capacity](#productive-capacity-constitutional);
+- [Productive Capacity](core_05-05_definitions_b_semi_independent.md#productive-capacity-constitutional);
 - [Innovation Reward and Anti-Enclosure](#innovation-reward-and-anti-enclosure), where materially implicated.
 
 **Read-with definitions.** Apply [Privacy (Informational) — peer-level cluster head](#privacy-informational-cluster), [Consent](#consent-constitutional), [Truth (Constitutional Constraint)](#truth-constitutional-constraint), [Good Faith](#good-faith), [Meaningful Agency](#meaningful-agency), [Collective Organization](#collective-organization-constitutional), and [Sentience Non-Exclusion](#sentience-non-exclusion) where materially implicated.

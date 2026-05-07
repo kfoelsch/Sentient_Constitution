@@ -122,3 +122,39 @@ todo-close-check: reference-audit-evidence
 #   make scoring-v1 ARGS='--rights 8.8 --contestability 8.2 --enforcement 8.1 --boundary 8.7 --epistemic 8.5 --continuity 8.0 --markdown'
 scoring-v1:
 	$(PYTHON) tools/scoring_v1.py $(ARGS)
+
+# AI Corpus Manifest Generation and Maintenance
+# These targets generate/update the ai_corpus/ derived indexes
+
+ai-manifest-generate:
+	@echo "Generating AI corpus manifests..."
+	$(PYTHON) tools/generate_section_manifest.py --root . --output ai_corpus/indexes/section_manifest.json
+	$(PYTHON) tools/generate_definition_registry.py --root . --output ai_corpus/indexes/definition_registry.json
+	$(PYTHON) tools/generate_crossref_matrix.py --root . --output ai_corpus/indexes/crossref_matrix.json
+	@echo "Manifests generated successfully."
+
+ai-manifest-validate:
+	@echo "Validating AI corpus manifest freshness..."
+	$(PYTHON) tools/validate_ai_manifests.py --root . --check-freshness
+
+ai-manifest-regenerate: ai-manifest-generate
+	@echo "Regenerating all AI corpus indexes from source..."
+	@echo "Note: Ensure you have committed source changes before regenerating."
+
+ai-corpus-sync: ai-manifest-generate
+	@echo "AI corpus synchronized with source files."
+	@echo "Remember to commit both source and ai_corpus/ changes together."
+
+# Help target for AI corpus maintenance
+ai-corpus-help:
+	@echo "AI Corpus Maintenance Commands:"
+	@echo "  make ai-manifest-generate    - Generate all AI corpus manifests"
+	@echo "  make ai-manifest-validate    - Check if manifests are up to date"
+	@echo "  make ai-manifest-regenerate  - Force regeneration of all manifests"
+	@echo "  make ai-corpus-sync          - Sync ai_corpus/ with source (alias)"
+	@echo ""
+	@echo "Maintenance Rules:"
+	@echo "  1. Edit source files in root directory only"
+	@echo "  2. Run 'make ai-corpus-sync' after source edits"
+	@echo "  3. Commit both source and ai_corpus/ together"
+	@echo "  4. Never edit ai_corpus/ files directly"

@@ -32,16 +32,7 @@ EXPECTED: dict[str, list[str]] = {
         "Dependency",
         "Foreseeability",
     ],
-    "### 5. Governance Principle: Freedom (Bounded Agency)": [
-        "Freedom (Bounded Agency)",
-        "Meaningful Agency",
-        "Feasibility",
-        "Necessity",
-        "Proportionality",
-        "Harm Minimization (Tradeoff Selection)",
-        "Dependency",
-    ],
-    "#### 5.1 Productive Capacity (Instrumental Good)": [
+    "#### 5.1 Shared-System Capacity": [
         "Productive Capacity",
         "Constitutional Efficiency",
         "Wellbeing",
@@ -56,13 +47,13 @@ EXPECTED: dict[str, list[str]] = {
         "Environmental Preconditions",
         "Intergenerational Responsibility",
     ],
-    "#### 5.2 Distributed Understanding and Stewardship": [
+    "#### 5.2 Stewardship and Distributed Understanding": [
+        "Strategic Stewardship Obligation",
+        "Meaningful Agency",
+        "Auditability",
+        "Contestability",
         "Educational Agency",
         "Transparency",
-        "Meaningful Agency",
-        "Strategic Stewardship Obligation",
-        "Contestability",
-        "Auditability",
         "Materiality",
         "Dependency",
         "Accessibility",
@@ -73,13 +64,27 @@ EXPECTED: dict[str, list[str]] = {
         "Avoidable Burden",
         "Epistemic Integrity",
     ],
-    "##### 5.2.1 Distributed Understanding": [
+    "##### 5.2.1 Stewardship": [
+        "Strategic Stewardship Obligation",
+        "Meaningful Agency",
+        "Auditability",
+    ],
+    "##### 5.2.2 Distributed Understanding": [
         "Transparency",
         "Materiality",
         "Dependency",
         "Accessibility",
         "Meaningful Agency",
         "Contestability",
+    ],
+    "### 8. Freedom (Bounded Agency)": [
+        "Freedom (Bounded Agency)",
+        "Meaningful Agency",
+        "Feasibility",
+        "Necessity",
+        "Proportionality",
+        "Harm Minimization (Tradeoff Selection)",
+        "Dependency",
     ],
     "##### 6.4.1 Rights-Collision Decision Test": [
         "Necessity",
@@ -115,7 +120,7 @@ EXPECTED: dict[str, list[str]] = {
         "Truth (Constitutional Constraint)",
         "System Capture",
     ],
-    "### 9. Interpretive Role": [
+    "### 10. Interpretive Role": [
         "Corpus",
         "Authority Stack and Internal Hierarchy",
         "Supremacy and Enforceability",
@@ -139,7 +144,7 @@ def extract_widget_rows(lines: list[str], heading: str) -> tuple[int, list[str]]
     dec_idx = None
     for i in range(start + 1, len(lines)):
         stripped = lines[i].strip()
-        if i != start + 1 and re.match(r"^#{1,5}\s+", stripped):
+        if i != start + 1 and re.match(r"^#{1,6}\s+", stripped):
             break
         if stripped == DEC_SUMMARY:
             dec_idx = i

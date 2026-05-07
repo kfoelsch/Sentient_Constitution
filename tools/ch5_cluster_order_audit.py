@@ -31,6 +31,12 @@ EXPECTED_TOPIC_GROUPS: dict[str, list[str]] = {
         "Assembly",
         "Collective Organization",
     ],
+    "#### Avoidable burden, constitutional efficiency, productive capacity, and burden-reduction duty": [
+        "Avoidable Burden",
+        "Constitutional Efficiency",
+        "Productive Capacity",
+        "Burden-Reduction Duty",
+    ],
     "#### Consent, sexual consent, and coercion / manipulation": [
         "Consent",
         "Consent, Sexual",
@@ -41,10 +47,9 @@ EXPECTED_TOPIC_GROUPS: dict[str, list[str]] = {
         "Authority Stack and Internal Hierarchy",
         "Supremacy and Enforceability",
     ],
-    "#### Creative work, compensation, productive capacity, and anti-displacement": [
+    "#### Creative work, compensation, and anti-displacement": [
         "Creative Work Attribution",
         "Fair Compensation",
-        "Productive Capacity",
         "Anti-Displacement Floor",
     ],
     "#### Emergency and contingency (constitutional, stakeholder-system, and pre-deliberation binding choice)": [
@@ -65,7 +70,7 @@ TOPIC_GROUP_HEADINGS: set[str] = set(EXPECTED_TOPIC_GROUPS) | {
     "#### Collective harm boundary",
     "#### Derivation, care, family, and instantiation",
     "#### Ecological footprint (semi-independent surface)",
-    "#### Governance architecture, oversight, decentralization, concentration, lock-in, burdens, review, and stakeholder participation",
+    "#### Governance architecture, oversight, decentralization, concentration, lock-in, review, and stakeholder participation",
     "#### Safe conditions, bodily maintenance, tenure, environment, rest, and cultural / indigenous continuity",
     "#### Materiality, material impact, and material risk",
     "#### Standing inputs: contribution, participant standing, cells, effects, and verified violation findings",

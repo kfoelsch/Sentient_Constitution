@@ -40,6 +40,15 @@ GROUPS: list[tuple[str, list[str]]] = [
         ],
     ),
     (
+        "Avoidable burden, constitutional efficiency, productive capacity, and burden-reduction duty",
+        [
+            "avoidable-burden",
+            "constitutional-efficiency",
+            "productive-capacity-constitutional",
+            "burden-reduction-duty-constitutional",
+        ],
+    ),
+    (
         "Consent, sexual consent, and coercion / manipulation",
         [
             "consent-constitutional",
@@ -60,11 +69,10 @@ GROUPS: list[tuple[str, list[str]]] = [
         ],
     ),
     (
-        "Creative work, compensation, productive capacity, and anti-displacement",
+        "Creative work, compensation, and anti-displacement",
         [
             "creative-work-attribution-constitutional",
             "fair-compensation-constitutional",
-            "productive-capacity-constitutional",
             "anti-displacement-floor-constitutional",
         ],
     ),
@@ -95,14 +103,13 @@ GROUPS: list[tuple[str, list[str]]] = [
         ],
     ),
     (
-        "Governance architecture, oversight, decentralization, concentration, lock-in, burdens, review, and stakeholder participation",
+        "Governance architecture, oversight, decentralization, concentration, lock-in, review, and stakeholder participation",
         [
             "governance",
             "oversight-constitutional",
             "decentralization",
             "concentration-threshold-constitutional",
             "systemic-lock-in",
-            "burden-reduction-duty-constitutional",
             "review-and-correction-duty-constitutional",
             "stakeholder",
             "stakeholder-participation-weight",

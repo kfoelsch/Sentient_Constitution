@@ -205,9 +205,9 @@ The following subsections state criteria interactions and named pattern routing.
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [Chapter One §5.1](core_00-01_principles.md#51-productive-capacity-instrumental-good) (*Productive Capacity*); [Chapter One §5.1.1](core_00-01_principles.md#511-concentration-threshold-mechanism-adopter-tunable) (*Concentration Threshold Mechanism*); [§2](#2-criteria-set-for-slot-assignment) (*Criteria set*).
+- Upstream: [Chapter One §5.1.1](core_00-01_principles.md#511-productive-capacity-instrumental-good) (*Productive Capacity*); [Chapter One §5.1.3](core_00-01_principles.md#513-concentration-threshold-mechanism-adopter-tunable) (*Concentration Threshold Mechanism*); [§2](#2-criteria-set-for-slot-assignment) (*Criteria set*).
 - Downstream: [§3](#3-violation-axis-s-7-9-slot-assignment-incident-gravity) (*Violation Axis s = 7–9 slot assignment*).
-- Read with: [Concentration Threshold](core_05-05_definitions_b_semi_independent.md#concentration-threshold-constitutional) in **Chapter Five** for definitional anchoring referenced from the **§5.1.1** mechanism.
+- Read with: [Concentration Threshold](core_05-05_definitions_b_semi_independent.md#concentration-threshold-constitutional) in **Chapter Five** for definitional anchoring referenced from the **§5.1.3** mechanism.
 
 </details>
 

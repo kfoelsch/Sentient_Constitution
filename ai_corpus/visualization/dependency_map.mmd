@@ -1,0 +1,89 @@
+%%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#e1f5fe', 'primaryTextColor': '#01579b', 'primaryBorderColor': '#0288d1', 'lineColor': '#0288d1', 'secondaryColor': '#fff3e0', 'tertiaryColor': '#f3e5f5'}}}%%
+graph TB
+    subgraph CoreConstitution["📜 Sentient Constitution (Core)"]
+        direction TB
+        Ch01["Ch 0-1: Principles<br/>core_00-01_principles.md"]
+        Ch02["Ch 2-4: Definition Mechanics<br/>core_02-04_definition_mechanics.md"]
+        Ch05A["Ch 5 §1: Independent Definitions<br/>core_05-05_definitions_a_independent.md"]
+        Ch05B["Ch 5 §2: Semi-Independent<br/>core_05-05_definitions_b_semi_independent.md"]
+        Ch05C["Ch 5 §3: Dependent Clusters<br/>core_05-05_definitions_c_dependent_clusters.md"]
+        Ch06A["Ch 6 Part A: Classification<br/>core_06-06_standing_classification.md"]
+        Ch06B["Ch 6 Part B: Integration<br/>core_06-06_standing_integration.md"]
+        Ch07["Ch 7: Misconduct<br/>core_07-07_misconduct.md"]
+        Ch08["Ch 8: Forums<br/>core_08-08_forum.md"]
+        Ch09["Ch 9: Rights (A-D)<br/>4 files"]
+        Ch10["Ch 10: Governance<br/>core_10-10_governance.md"]
+        Ch1113["Ch 11-13: Amendment<br/>core_11-13_amendment.md"]
+        Ch14["Ch 14: Incorporation<br/>core_14-14_incorporation.md"]
+    end
+
+    subgraph Companions["🛠️ Implementation Companions"]
+        direction TB
+        CS["Systems<br/>corpus_systems.md"]
+        CI["Institutions<br/>corpus_institutions.md"]
+        CF["Forum Ops<br/>corpus_forum.md"]
+        CJS["Joint Structure<br/>corpus_joint_structure.md"]
+    end
+
+    %% Cross-references: Chapter 5 definitions are the hub
+    Ch05A -->|"40+ refs"| Ch09
+    Ch05A -->|"35 refs"| Ch05B
+    Ch05A -->|"25 refs"| Ch05C
+    Ch05A -->|"20 refs"| CS
+    Ch05A -->|"12 refs"| Ch02
+
+    Ch05B -->|"45 refs"| Ch05A
+    Ch05B -->|"30 refs"| Ch05C
+    Ch05B -->|"20 refs"| Ch09
+    Ch05B -->|"15 refs"| Ch06A
+
+    Ch05C -->|"50 refs"| Ch05A
+    Ch05C -->|"40 refs"| Ch05B
+
+    %% Rights reference definitions heavily
+    Ch09 -->|"15 refs"| Ch05A
+    Ch09 -->|"25 refs"| Ch05B
+    Ch09 -->|"18 refs"| Ch05C
+
+    %% Systems companion is well-connected
+    CS -->|"30 refs"| Ch05A
+    CS -->|"20 refs"| Ch05B
+    CS -->|"35 refs"| Ch09
+    CS -->|"15 refs"| CJS
+
+    %% Institutions companion connects
+    CI -->|"20 refs"| Ch05B
+    CI -->|"18 refs"| Ch09
+    CI -->|"25 refs"| CJS
+    CI -->|"15 refs"| CF
+
+    %% Principles chapter spreads downstream
+    Ch01 -->|"12 refs"| Ch05A
+    Ch01 -->|"8 refs"| Ch05B
+    Ch01 -->|"5 refs"| Ch09
+
+    %% Definition mechanics underpin everything
+    Ch02 -->|"25 refs"| Ch05A
+    Ch02 -->|"15 refs"| Ch05B
+
+    %% Visual styling
+    style Ch05A fill:#ffccbc,stroke:#bf360c,stroke-width:3px
+    style Ch05B fill:#ffccbc,stroke:#bf360c,stroke-width:3px
+    style Ch05C fill:#ffccbc,stroke:#bf360c,stroke-width:3px
+    style Ch09 fill:#c8e6c9,stroke:#2e7d32,stroke-width:2px
+    style CS fill:#fff9c4,stroke:#f57f17,stroke-width:2px
+    style Ch01 fill:#e3f2fd,stroke:#1565c0,stroke-width:2px
+
+    %% Legend
+    subgraph Legend["Legend"]
+        direction LR
+        L1["Definition Hub"]:::hub
+        L2["Rights Floor"]:::rights
+        L3["Companion"]:::companion
+        L4["Core Chapter"]:::core
+    end
+
+    classDef hub fill:#ffccbc,stroke:#bf360c,stroke-width:2px
+    classDef rights fill:#c8e6c9,stroke:#2e7d32,stroke-width:2px
+    classDef companion fill:#fff9c4,stroke:#f57f17,stroke-width:2px
+    classDef core fill:#e3f2fd,stroke:#1565c0,stroke-width:1px
