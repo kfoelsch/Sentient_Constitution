@@ -1195,7 +1195,7 @@ Incentives must not reward behavior that degrades safety, truth, systemic stabil
 
 <br>
 
-**Definition map.** Incentive Alignment states the parent doctrine. Productive Capacity, Constitutional Efficiency, and Avoidable Burden identify the lawful incentive target. Proxy Divergence and Auditability test whether the claimed incentive actually tracks constitutional outcomes. Safety, Truth, and System Capture provide the boundary: incentives cannot reward harm, deception, or capture even when they appear efficient.
+**How to read the index:** Start with **Incentive Alignment**: rewards and penalties must point toward this Constitution's goals. **Productive Capacity**, **Constitutional Efficiency**, and **Avoidable Burden** explain what stewards may be rewarded for: building real capacity and saving time, effort, and resources without shifting needless burden onto others. **Proxy Divergence** and **Auditability** ask whether the metric proves the result, or only looks good on paper. **Safety**, **Truth**, and **System Capture** set the hard stop: no incentive is valid if it rewards harm, falsehood, or captured decision-making, even when the numbers look efficient.
 
 *In plain terms: stewards and operators should be rewarded for measurable constitutional outcomes — safety, truth, auditability, fixing problems, resisting capture, and durably expanding productive capacity — not for raw volume, utilization, headcount, or narrow financial targets that predictably erode those outcomes or manufacture avoidable burden.*
 
@@ -1274,7 +1274,7 @@ Concentrated or obscured control structures that undermine challenge rights, ove
 
 <br>
 
-**Definition map.** Contingent Claim, Game of Chance, and Event-Contract Market state the special market context. Incentive Alignment, Necessity, and Proportionality govern whether the structure can be justified. Capture of Resolution Pathways, Coercion and Manipulation, Contestability, Dependency, and Truth state the boundaries: settlement mechanics, prices, or odds cannot substitute for lawful process, non-coercion, or constitutional truth.
+**Definition map.** These definitions divide the work. Contingent Claim, Game of Chance, and Event-Contract Market identify the kind of system at issue: a structure that pays, stakes, or settles value based on uncertain outcomes. Incentive Alignment, Necessity, and Proportionality ask whether that structure has a legitimate reason to exist and whether its risks are kept within justified limits. Capture of Resolution Pathways, Coercion and Manipulation, Contestability, Dependency, and Truth set the hard boundaries: payout rules, market prices, and odds cannot replace lawful process, freedom from coercion, meaningful challenge, or constitutional truth.
 
 *In plain terms: gambling and prediction-market–style systems may not be structured to reward unlawful harm, coercion, corruption, or capture of the **participants** and **processes** that decide outcomes. Their prices and odds are not, by themselves, evidence strong enough to settle questions of truth, rights, or compliance.*
 

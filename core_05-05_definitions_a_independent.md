@@ -243,14 +243,6 @@ The list below merges the former independent, semi-independent, and dependent-cl
 - [Weapons of Mass Harm](core_05-05_definitions_b_semi_independent.md#weapons-of-mass-harm-constitutional)
 - [Wellbeing](#wellbeing)
 
-#### Reader-friendly additions to consider
-
-- Add short `cluster home` labels in the directory where a term’s O/E/C body lives only in **section 3**, so readers can jump to joint-invocation context without scanning the cluster list manually.
-- Add O/E/C jump links in this directory only after the anchor audit confirms every listed component has stable O, E, and C anchors.
-- Add owner-floor links beside Rights-Floor definitions where the owner article is the next thing most readers need.
-- Add a compact `common pathways` table for frequent traces, such as privacy, trust, sentience status, fairness, materiality, and ecological integrity.
-- Add a generated alphabetical check so future Chapter Five edits fail fast when a new §1 entry or directory row lands out of order.
-
 </details>
 
 <br>
@@ -259,17 +251,11 @@ The list below merges the former independent, semi-independent, and dependent-cl
 
 ### 1. Independent Definitions
 
-Independent Definitions are reusable semantic building blocks that can be invoked across multiple definitions. They define shared ontological, evaluative, and compliance constructs. Apply them wherever they are materially relevant to system behavior, outcomes, evaluation scope, or compliance determination.
+Independent Definitions are reusable constitutional term entries. Chapter Five supplies term content; **Chapters Two through Four** govern definition structure, integrity, burden allocation, traceability, observability, and verification for those terms.
 
-Failing to invoke or correctly apply any materially required Independent Definition invalidates the associated compliance determination. All Independent Definitions invoked in system evaluation must appear explicitly in Definition Traceability mappings (Chapter Four, section 3 — Definition Traceability Requirement). Those mappings must include their Ontological (O), Evaluative (E), and Compliance (C) components. Traceability must show how each invoked Independent Definition contributes to observable system behavior and to compliance outcomes under full functional system conditions.
+Apply Independent Definitions wherever they are materially relevant to system behavior, outcomes, evaluation scope, or compliance determination. **Chapter Four, section 3 — Definition Traceability Requirement** governs material-invocation and tracing-integrity consequences for every Chapter Five definition. **Chapter Three** governs selective invocation, omission, weakening, or bypass as definition evasion.
 
-When an Independent Definition is invoked, it must be satisfied in full across its O, E, and C components. That satisfaction must be consistent with the Definition Structure Requirement (Chapter Two, section 2 — Definition Structure Requirement). Partial satisfaction or selective application is non-compliant.
-
-Independent and Semi-independent definitions do not require joint satisfaction with other definitions unless a Dependent-cluster definition explicitly requires it (**section 3** of this chapter). They must still be applied consistently with all applicable definitions under shared functional system scope, evaluation conditions, and temporal context. Chapter Three, sections 1 and 2 — Definition Integrity and Anti-Evasion Constraints; Non-Compliance from Observable System Behavior — require that consistency.
-
-Selective invocation, omission of materially relevant definitions, and application that alters, weakens, or bypasses compliance determination are evasion. Chapter Three, sections 1 and 2 — Definition Integrity and Anti-Evasion Constraints; Non-Compliance from Observable System Behavior — govern that conduct.
-
-Independent Definitions must not fragment, isolate, or redistribute compliance in a way that blocks full-system evaluation under required evaluative conditions.
+Independent and Semi-independent definitions do not require joint satisfaction with other definitions unless a Dependent-cluster definition explicitly requires it (**section 3** of this chapter). Where a Dependent-cluster definition applies, that cluster's joint-satisfaction rule governs.
 
 Admission boundary for this section: Chapter Five entries define constitutional concepts and their O/E/C validity conditions. Institutional architecture, procedural sequencing, appointment mechanics, and operational governance implementation belong to their owner layers. Those layers include **Sentient Constitution** Chapters Six through Fourteen and designated implementation text. Reference those layers; do not restate them here.
 

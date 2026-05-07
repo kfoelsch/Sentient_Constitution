@@ -41,7 +41,7 @@ def rewrite_directory_lists(part_a: str) -> str:
     """Prefix semi-independent and dependent directory bullets with Part B / Part C paths."""
     semi_marker = '<a id="semi-independent-definitions-a-z"></a>'
     dep_marker = '<a id="dependent-clusters-a-z"></a>'
-    reader_marker = "#### Reader-friendly additions to consider"
+    directory_end_marker = "\n</details>"
 
     if semi_marker not in part_a or dep_marker not in part_a:
         raise SystemExit("directory markers not found in Part A")
@@ -62,10 +62,10 @@ def rewrite_directory_lists(part_a: str) -> str:
         return "\n".join(out_lines)
 
     semi_fixed = prefix_bullets(semi_block, CH5_PART_B)
-    if reader_marker in tail:
-        dep_section, rest = tail.split(reader_marker, 1)
+    if directory_end_marker in tail:
+        dep_section, rest = tail.split(directory_end_marker, 1)
         dep_fixed = prefix_bullets(dep_section, CH5_PART_C)
-        tail = dep_fixed + reader_marker + rest
+        tail = dep_fixed + directory_end_marker + rest
     else:
         tail = prefix_bullets(tail, CH5_PART_C)
 

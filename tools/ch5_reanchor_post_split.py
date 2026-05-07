@@ -30,8 +30,8 @@ def collect_anchors(text: str) -> set[str]:
 def directory_supplement_map(part_a: str) -> dict[str, str]:
     """Anchors listed in the alphabetical directory but missing explicit <a id> in body."""
     extra: dict[str, str] = {}
-    reader_marker = "#### Reader-friendly additions to consider"
     unified_heading = "#### All definitions and clusters (A–Z)"
+    directory_end_marker = "\n</details>"
     semi_marker = '<a id="semi-independent-definitions-a-z"></a>'
     dep_marker = '<a id="dependent-clusters-a-z"></a>'
     indep_marker = '<a id="independent-definitions-a-z"></a>'
@@ -57,9 +57,9 @@ def directory_supplement_map(part_a: str) -> dict[str, str]:
             if m:
                 extra[m.group(1)] = CH5_PART_C
 
-    if unified_heading in part_a and reader_marker in part_a:
+    if unified_heading in part_a:
         _, rest = part_a.split(unified_heading, 1)
-        block, _ = rest.split(reader_marker, 1)
+        block = rest.split(directory_end_marker, 1)[0]
         ingest_block(block)
         return extra
 
@@ -68,7 +68,7 @@ def directory_supplement_map(part_a: str) -> dict[str, str]:
     before_semi, semi_and_rest = part_a.split(semi_marker, 1)
     _, indep_section = before_semi.split(indep_marker, 1)
     semi_section, dep_and_rest = semi_and_rest.split(dep_marker, 1)
-    dep_section, _ = dep_and_rest.split(reader_marker, 1)
+    dep_section = dep_and_rest.split(directory_end_marker, 1)[0]
     ingest_block(indep_section)
     ingest_block(semi_section)
     ingest_block(dep_section)

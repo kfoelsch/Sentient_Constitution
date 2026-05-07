@@ -113,7 +113,7 @@ def renumber_cluster(block: str, new_num: str) -> str:
 
 
 def replace_directory(preamble: str, new_middle: str) -> str:
-    pat = r"#### Interdependent Definitions A-Z\n\n.*?(?=\n#### Reader-friendly additions to consider)"
+    pat = r"#### Interdependent Definitions A-Z\n\n.*?(?=\n</details>)"
     if not re.search(pat, preamble, flags=re.DOTALL):
         raise SystemExit("Could not find directory to replace in preamble")
     return re.sub(pat, new_middle.rstrip() + "\n", preamble, count=1, flags=re.DOTALL)
