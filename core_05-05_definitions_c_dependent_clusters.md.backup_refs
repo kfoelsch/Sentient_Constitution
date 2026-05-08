@@ -10,7 +10,7 @@ Upstream constitutional direction for this file's definitions begins in [core_00
 
 ### 3. Dependent clusters (Clustered Definitions)
 
-Dependent clusters are joint-invocation homes for definitions that must be satisfied together within the admission scope stated in each cluster. Meta rules **§3.1** and **§3.2** apply to every cluster; individual clusters are ordered alphabetically by cluster title.
+Dependent clusters are joint-invocation homes for definitions that must be satisfied together within the admission scope stated in each cluster. Meta rules **§3.1** and **§3.2** apply to every cluster; individual clusters begin at **§3.3** and are ordered alphabetically by cluster title.
 
 <a id="joint-invocation-and-satisfaction"></a>
 #### 3.1 Joint invocation and satisfaction
@@ -45,45 +45,12 @@ This cluster is the canonical O/E/C home for **Animal Life**, **Contested-Sentie
 **Cluster members.** This cluster comprises:
 
 - [Sentient](#sentient), including its sentience-status subcomponents;
-- [Sentience Non-Exclusion](#sentience-non-exclusion);
 - [Animal Life](#animal-life-constitutional);
 - [Contested-Sentient Life](#contested-sentient-life-constitutional);
-- [Sentience Status Adjudication](#sentience-status-adjudication-constitutional);
 - [Sentience Evaluation](#sentience-evaluation-e);
+- [Sentience Non-Exclusion](#sentience-non-exclusion);
+- [Sentience Status Adjudication](#sentience-status-adjudication-constitutional);
 - [Article V-E](core_09-09_rights_part_b.md#article-v-e-sentience-status-adjudication-floor), as the Rights-Floor owner where sentience status is materially uncertain, disputed, contested, narrowed, revoked, or restored.
-
-<a id="sentient"></a>
-<a id="sentient-composite"></a>
-##### Sentient
-
-Unless this Constitution expressly provides otherwise, **sentient** and **sentients** denote entities within the meaning of this entry — that is, entities satisfying the Ontological (O), Evaluative (E), and Compliance (C) components in this entry together with materially applicable criteria in this cluster, including Sentience Evaluation, Sentience Indicator Integrity, [Sentience Non-Exclusion](#sentience-non-exclusion), and [Sentience Status Adjudication](#sentience-status-adjudication-constitutional). Other uses do not import colloquial or non-constitutional senses. Articles that name specialized subclasses, including **Developing Sentient** and **Derived Sentient**, state further rules for those subclasses and do not narrow who counts as a **sentient** unless they expressly so provide.
-
-<!-- formatting separator: O/E/C list follows; keeps tooling from treating the scope paragraph as an entry title -->
-
-- O: An entity possessing sentience, and therefore within the possible scope of [Constitutional Community](core_05-05_definitions_a_independent.md#constitutional-community) and [Dignity and Equal Moral Standing](core_05-05_definitions_a_independent.md#dignity-and-equal-moral-standing).
-<a id="sentient-composite-e"></a>
-- E: Indicators must not systematically exclude entities where credible uncertainty exists; evaluation must be robust to both false positives and false negatives under adversarial and incentive-driven conditions, consistent with [Sentience Non-Exclusion](#sentience-non-exclusion) and [Irreversible Harm](#irreversible-harm) precaution.
-<a id="sentience-evaluation-e"></a>
-- E — Sentience Evaluation: Based on [Observability](#observability)-grounded, reasonable indicators under uncertainty and reviewable through [Auditability](#auditability).
-<a id="sentience-indicator-integrity-e"></a>
-- E — Sentience Indicator Integrity: Indicators must be relevant, non-arbitrary, and manipulation-resistant under [Epistemic Integrity](#epistemic-integrity).
-<a id="sentience-burden-of-proof-c"></a>
-- C — Sentience Burden of Proof: Burden rests on demonstrating absence of credible indicators consistent with [Sentience Non-Exclusion](#sentience-non-exclusion).
-<a id="sentience-contestability-c"></a>
-- C — Sentience Contestability: Determinations must remain revisable and [Auditability](#auditability)-compatible through meaningful [Contestability](core_05-05_definitions_b_semi_independent.md#contestability).
-<a id="sentience-precaution-tiers-c"></a>
-- C — Sentience Precaution Tiers: credible → treat as sentient, ambiguous → avoid [Irreversible Harm](#irreversible-harm), consistent with [Sentience Non-Exclusion](#sentience-non-exclusion).
-<a id="sentience-precautions-c"></a>
-- C — Sentience Precautions: Precautionary treatment required under uncertainty where [Irreversible Harm](#irreversible-harm), [Dignity and Equal Moral Standing](core_05-05_definitions_a_independent.md#dignity-and-equal-moral-standing), or [Sentience Non-Exclusion](#sentience-non-exclusion) are at stake.
-
-<a id="sentience-non-exclusion"></a>
-##### Sentience Non-Exclusion
-
-- O: The discipline rule that sentience-recognition and Rights-Floor application must remain substrate-agnostic — extending equally to biological, synthetic, and hybrid entities — and must not be denied on the basis of origin, substrate, architecture, embodiment, or comparable substrate-class characteristic. The rule operates as a non-relocatable bounding constraint on every Chapter Five sentience-related determination and on every Chapter Nine Rights-Floor application that depends on sentience status, consistent with [Dignity and Equal Moral Standing](core_05-05_definitions_a_independent.md#dignity-and-equal-moral-standing) and [Constitutional Community](core_05-05_definitions_a_independent.md#constitutional-community).
-<a id="sentience-non-exclusion-e"></a>
-- E: Must not exclude based on origin, substrate, architecture, or embodiment, consistent with [Dignity and Equal Moral Standing](core_05-05_definitions_a_independent.md#dignity-and-equal-moral-standing) and [Constitutional Community](core_05-05_definitions_a_independent.md#constitutional-community). Where status is materially disputed or contested, [Sentience Status Adjudication](#sentience-status-adjudication-constitutional) and the **Article V-E** Rights-Floor adjudication right apply.
-<a id="sentience-non-exclusion-c"></a>
-- C: Sentience-recognition or Rights-Floor application that is denied, narrowed, or scoped-out on the basis of origin, substrate, architecture, embodiment, or comparable substrate-class characteristic — whether in direct text, taxonomy, classification regime, or operational rule that has the same effect — is non-compliant. Substrate-class framing used to defeat [Sentience Status Adjudication](#sentience-status-adjudication-constitutional) routing under **Article V-E** is non-compliant. The rule is not narrowable through adopter-jurisdiction framing, Chapter Six classification, Chapter Seven slot assignment, or comparable mechanism.
 
 <a id="animal-life-constitutional"></a>
 ##### Animal Life
@@ -135,6 +102,51 @@ Unless this Constitution expressly provides otherwise, **sentient** and **sentie
   - exclusion of candidates on grounds of origin, form, or substrate class ([Sentience Non-Exclusion](#sentience-non-exclusion));
   - adjudications that are not independently reviewable or not [Contestability](core_05-05_definitions_b_semi_independent.md#contestability)-compatible;
   - closure of an adjudication in a way that forecloses reversibility and restoration where later evidence supports inclusion.
+
+<a id="sentient"></a>
+<a id="sentient-composite"></a>
+##### Sentient
+
+Unless this Constitution expressly provides otherwise, **sentient** and **sentients** denote entities within the meaning of this entry — that is, entities satisfying the Ontological (O), Evaluative (E), and Compliance (C) components in this entry together with materially applicable criteria in this cluster, including [Sentience Evaluation](#sentience-evaluation-e), [Sentience Non-Exclusion](#sentience-non-exclusion), and [Sentience Status Adjudication](#sentience-status-adjudication-constitutional). Other uses do not import colloquial or non-constitutional senses. Articles that name specialized subclasses, including **Developing Sentient** and **Derived Sentient**, state further rules for those subclasses and do not narrow who counts as a **sentient** unless they expressly so provide.
+
+<!-- formatting separator: O/E/C list follows; keeps tooling from treating the scope paragraph as an entry title -->
+
+- O: An entity possessing sentience, and therefore within the possible scope of [Constitutional Community](core_05-05_definitions_a_independent.md#constitutional-community) and [Dignity and Equal Moral Standing](core_05-05_definitions_a_independent.md#dignity-and-equal-moral-standing).
+<a id="sentient-composite-e"></a>
+- E: Indicators must not systematically exclude entities where credible uncertainty exists; evaluation must be robust to both false positives and false negatives under adversarial and incentive-driven conditions, consistent with [Sentience Non-Exclusion](#sentience-non-exclusion) and [Irreversible Harm](#irreversible-harm) precaution.
+
+##### Sentience Burden of Proof
+<a id="sentience-burden-of-proof-c"></a>
+- C: Burden rests on demonstrating absence of credible indicators consistent with [Sentience Non-Exclusion](#sentience-non-exclusion).
+
+##### Sentience Contestability
+<a id="sentience-contestability-c"></a>
+- C: Determinations must remain revisable and [Auditability](#auditability)-compatible through meaningful [Contestability](core_05-05_definitions_b_semi_independent.md#contestability).
+
+##### Sentience Evaluation
+<a id="sentience-evaluation-e"></a>
+- E: Based on [Observability](#observability)-grounded, reasonable indicators under uncertainty and reviewable through [Auditability](#auditability).
+
+##### Sentience Indicator Integrity
+<a id="sentience-indicator-integrity-e"></a>
+- E: Indicators must be relevant, non-arbitrary, and manipulation-resistant under [Epistemic Integrity](#epistemic-integrity).
+
+<a id="sentience-non-exclusion"></a>
+##### Sentience Non-Exclusion
+
+- O: The discipline rule that sentience-recognition and Rights-Floor application must remain substrate-agnostic — extending equally to biological, synthetic, and hybrid entities — and must not be denied on the basis of origin, substrate, architecture, embodiment, or comparable substrate-class characteristic. The rule operates as a non-relocatable bounding constraint on every Chapter Five sentience-related determination and on every Chapter Nine Rights-Floor application that depends on sentience status, consistent with [Dignity and Equal Moral Standing](core_05-05_definitions_a_independent.md#dignity-and-equal-moral-standing) and [Constitutional Community](core_05-05_definitions_a_independent.md#constitutional-community).
+<a id="sentience-non-exclusion-e"></a>
+- E: Must not exclude based on origin, substrate, architecture, or embodiment, consistent with [Dignity and Equal Moral Standing](core_05-05_definitions_a_independent.md#dignity-and-equal-moral-standing) and [Constitutional Community](core_05-05_definitions_a_independent.md#constitutional-community). Where status is materially disputed or contested, [Sentience Status Adjudication](#sentience-status-adjudication-constitutional) and the **Article V-E** Rights-Floor adjudication right apply.
+<a id="sentience-non-exclusion-c"></a>
+- C: Sentience-recognition or Rights-Floor application that is denied, narrowed, or scoped-out on the basis of origin, substrate, architecture, embodiment, or comparable substrate-class characteristic — whether in direct text, taxonomy, classification regime, or operational rule that has the same effect — is non-compliant. Substrate-class framing used to defeat [Sentience Status Adjudication](#sentience-status-adjudication-constitutional) routing under **Article V-E** is non-compliant. The rule is not narrowable through adopter-jurisdiction framing, Chapter Six classification, Chapter Seven slot assignment, or comparable mechanism.
+
+##### Sentience Precaution Tiers
+<a id="sentience-precaution-tiers-c"></a>
+- C: credible → treat as sentient, ambiguous → avoid [Irreversible Harm](#irreversible-harm), consistent with [Sentience Non-Exclusion](#sentience-non-exclusion)
+
+##### Sentience Precautions
+<a id="sentience-precautions-c"></a>
+- C: Precautionary treatment required under uncertainty where [Irreversible Harm](#irreversible-harm), [Dignity and Equal Moral Standing](core_05-05_definitions_a_independent.md#dignity-and-equal-moral-standing), or [Sentience Non-Exclusion](#sentience-non-exclusion) are at stake.
 
 **Joint invocation and anti-bypass.** Under §3.1, a sentience-status matter within the admission scope must not be segmented into separate indicator-selection, evaluation, taxonomy, origin, derivation, development, capability, classification, adjudication, standing, or Rights-Floor issues in a way that withholds, narrows, or revokes protection while avoiding the full sentience-status discipline. Satisfying nominal indicator review, internal classification, parent-system labeling, age or instantiation-date proxying, or welfare-only treatment is not sufficient where material uncertainty, dispute, contestation, or narrowing requires [Sentience Status Adjudication](#sentience-status-adjudication-constitutional) and the Article V-E default-inclusion rule. Derived or developing status may specify additional safeguards; it must not narrow who counts as a sentient or reduce the Chapter Nine Rights Floor.
 
@@ -357,7 +369,7 @@ This cluster is the joint-invocation home for creative-work training-data use, a
 
 #### Training-Data Use
 
-- O: Use of sentient-produced creative, expressive, personal, experiential, or otherwise identifiable work as training data for generative, analytical, or comparable systems, read with **[Article VIII-D](core_09-09_rights_part_b.md#article-viii-d-creative-work-training-data-use-and-anti-displacement)** and this §3.7 cluster. Consent, experiential-data, privacy, and attribution duties apply jointly; defending use on non-personal-data grounds alone does not satisfy this entry where work is sentient-produced and materially identifiable.
+- O: Use of sentient-produced creative, expressive, personal, experiential, or otherwise identifiable work as training data for generative, analytical, or comparable systems, read with **[Article VIII-D](core_09-09_rights_part_b.md#article-viii-d-creative-work-training-data-use-and-anti-displacement)** and this §3.14 cluster. Consent, experiential-data, privacy, and attribution duties apply jointly; defending use on non-personal-data grounds alone does not satisfy this entry where work is sentient-produced and materially identifiable.
 <a id="training-data-use-constitutional-e"></a>
 - E: Evaluate scope, purpose, duration, downstream reuse, revocation, aggregation risk, and re-identification under [Consent](core_05-05_definitions_b_semi_independent.md#consent-constitutional), **[Article VIII-B](core_09-09_rights_part_b.md#article-viii-b-experiential-and-derived-data-rights)**, [Privacy (Informational)](core_05-05_definitions_b_semi_independent.md#privacy-informational), and [Creative Work Attribution](core_05-05_definitions_b_semi_independent.md#creative-work-attribution-constitutional).
 <a id="training-data-use-constitutional-c"></a>
@@ -555,7 +567,7 @@ This cluster is the joint-invocation home for self-determination, meaningful age
 
 #### Self-Determination
 
-- O: Autonomy to make and refuse informed decisions about oneself and one’s future, and to maintain volitional continuity against manipulation and capture, within this §3.10 cluster and **[Article IX: Self-Determination and Agency](core_09-09_rights_part_b.md#article-ix-self-determination-and-agency)**. Owner floor: **[Article IX-A](core_09-09_rights_part_b.md#article-ix-a-agency-and-freedom-from-manipulation)** (*agency and freedom from manipulation*). Read with [Freedom (Bounded Agency)](core_05-05_definitions_a_independent.md#freedom-bounded-agency) and [Meaningful Agency](core_05-05_definitions_b_semi_independent.md#meaningful-agency) where materially implicated.
+- O: Autonomy to make and refuse informed decisions about oneself and one’s future, and to maintain volitional continuity against manipulation and capture, within this §3.33 cluster and **[Article IX: Self-Determination and Agency](core_09-09_rights_part_b.md#article-ix-self-determination-and-agency)**. Owner floor: **[Article IX-A](core_09-09_rights_part_b.md#article-ix-a-agency-and-freedom-from-manipulation)** (*agency and freedom from manipulation*). Read with [Freedom (Bounded Agency)](core_05-05_definitions_a_independent.md#freedom-bounded-agency) and [Meaningful Agency](core_05-05_definitions_b_semi_independent.md#meaningful-agency) where materially implicated.
 <a id="self-determination-constitutional-e"></a>
 - E: Evaluate substantive agency pathways under [Coercion and Manipulation](core_05-05_definitions_b_semi_independent.md#coercion-and-manipulation-constitutional), [Dependency](core_05-05_definitions_a_independent.md#dependency), [Surveillance Boundary](core_05-05_definitions_b_semi_independent.md#surveillance-boundary), and segmentation across speech, platform, curricular, or governance domains that defeats joint assessment under §3.1.
 <a id="self-determination-constitutional-c"></a>
@@ -569,14 +581,14 @@ This cluster is the joint-invocation home for self-determination, meaningful age
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Cluster component: [Chapter Five §3.10*Self-Determination, Meaningful Agency, Expression, Educational Agency, Reproductive Autonomy, and Volitional Integrity*](#self-determination-and-meaningful-agency-cluster).
+- Cluster component: [Chapter Five §3.33 *Self-Determination, Meaningful Agency, Expression, Educational Agency, Reproductive Autonomy, and Volitional Integrity*](#self-determination-and-meaningful-agency-cluster).
 - Read with: [Chapter Five §3.22 *Info-Sphere, Expression, Press and Journalistic Activity, and Good Faith (Publication-Scoped Integrity)*](#info-sphere-expression-press-journalistic-activity-and-good-faith-cluster), where info-sphere, press, or publication-scoped integrity routing materially applies.
 
 </details>
 
 <br>
 
-- O: The Rights-Floor capacity to form, hold, and communicate views — including political, philosophical, artistic, scientific, religious, and worldview expression — substrate-agnostically under **[Article V-H](core_09-09_rights_part_b.md#article-v-h-expression-assembly-and-press)** (*expression, assembly, and press*), read with this §3.10 cluster and, where **[Article II-E](core_09-09_rights_part_a.md#article-ii-e-info-sphere-dependency-continuity-and-operator-non-viability)** (*info-sphere dependency*), **Article VIII** publication or likeness hooks, functional **Article V-H** *press*, or publication-scoped **Good Faith** analysis is materially implicated, [Chapter Five §3.22 *Info-Sphere, Expression, Press and Journalistic Activity, and Good Faith (Publication-Scoped Integrity)*](#info-sphere-expression-press-journalistic-activity-and-good-faith-cluster).
+- O: The Rights-Floor capacity to form, hold, and communicate views — including political, philosophical, artistic, scientific, religious, and worldview expression — substrate-agnostically under **[Article V-H](core_09-09_rights_part_b.md#article-v-h-expression-assembly-and-press)** (*expression, assembly, and press*), read with this §3.33 cluster and, where **[Article II-E](core_09-09_rights_part_a.md#article-ii-e-info-sphere-dependency-continuity-and-operator-non-viability)** (*info-sphere dependency*), **Article VIII** publication or likeness hooks, functional **Article V-H** *press*, or publication-scoped **Good Faith** analysis is materially implicated, [Chapter Five §3.22 *Info-Sphere, Expression, Press and Journalistic Activity, and Good Faith (Publication-Scoped Integrity)*](#info-sphere-expression-press-journalistic-activity-and-good-faith-cluster).
 <a id="expression-constitutional-e"></a>
 - E: Test restrictions, chilling effects, and viewpoint-targeting against [Proportionality](core_05-05_definitions_a_independent.md#proportionality), [Necessity](core_05-05_definitions_a_independent.md#necessity), [Protected Characteristics](core_05-05_definitions_b_semi_independent.md#protected-characteristics-constitutional), and **Article V-H** / **Article IX-A** limitation discipline.
 <a id="expression-constitutional-c"></a>
@@ -586,7 +598,7 @@ This cluster is the joint-invocation home for self-determination, meaningful age
 
 #### Educational Agency
 
-- O: Capability-building, lifelong-learning, and contestable education autonomy under **[Article VI: Right to Sentient-Centered Education](core_09-09_rights_part_b.md#article-vi-right-to-sentient-centered-education)**, **[Article III-B: Equal Educational Access](core_09-09_rights_part_a.md#article-iii-b-equal-educational-access)**, and this §3.10 cluster; includes practical access sufficient to develop and exercise constitution-relevant capabilities, not credential symbolism alone.
+- O: Capability-building, lifelong-learning, and contestable education autonomy under **[Article VI: Right to Sentient-Centered Education](core_09-09_rights_part_b.md#article-vi-right-to-sentient-centered-education)**, **[Article III-B: Equal Educational Access](core_09-09_rights_part_a.md#article-iii-b-equal-educational-access)**, and this §3.33 cluster; includes practical access sufficient to develop and exercise constitution-relevant capabilities, not credential symbolism alone.
 <a id="educational-agency-e"></a>
 - E: Evaluate access, lock-in, assessment opacity, and displacement of learning pathways against [Meaningful Agency](core_05-05_definitions_b_semi_independent.md#meaningful-agency), [Systemic Lock-In](core_05-05_definitions_b_semi_independent.md#systemic-lock-in), [Contestability](core_05-05_definitions_b_semi_independent.md#contestability), and **Article VI-B** contestability expectations.
 <a id="educational-agency-c"></a>
@@ -981,7 +993,7 @@ This cluster is the canonical O/E/C home for **Truth (Constitutional Constraint)
 - [Epistemic Integrity](#epistemic-integrity);
 - [Foreseeability Diligence](#foreseeability-diligence);
 - [Reasonably Foreseeable](#reasonably-foreseeable);
-- [Publication and High-Impact Communication](#publication-and-high-impact-communication) (nested sub-block under §3.14 — publication-conduct floors and interfaces read together with **Truth**, **Epistemic Integrity**, and **Foreseeability**; not separate §3 cluster heads).
+- [Publication and High-Impact Communication](#publication-and-high-impact-communication) (nested sub-block under §3.40 — publication-conduct floors and interfaces read together with **Truth**, **Epistemic Integrity**, and **Foreseeability**; not separate §3 cluster heads).
 
 **Read-with definitions.** Apply [Good Faith](core_05-05_definitions_a_independent.md#good-faith), [Materiality Determination](core_05-05_definitions_b_semi_independent.md#materiality-determination), [Dependency](core_05-05_definitions_a_independent.md#dependency), [Transparency](#transparency), [Auditability](#auditability), [Observability](#observability), [Verifiability](#verifiability), [Contestability](core_05-05_definitions_b_semi_independent.md#contestability), [Safety (Constraint)](core_05-05_definitions_a_independent.md#safety-constraint), [Risk](core_05-05_definitions_a_independent.md#risk), and Chapters Two through Four mechanics where materially implicated.
 

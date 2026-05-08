@@ -905,27 +905,42 @@ Independent Definitions must not fragment, isolate, or redistribute compliance i
 <a id="innovation-reward-and-anti-enclosure"></a>
 #### Innovation Reward and Anti-Enclosure
 
-- O: The constitutional rule for rewarding materially novel and socially useful invention, research, building, and creation without allowing the reward itself to become durable enclosure. Reward may recognize contribution, development burden, and disclosure. It may include temporary exclusion only when that exclusion is narrow, time-bounded, reviewable, and justified. Continuing attribution and provenance are different from exclusion: credit and source history may persist, but control over use must not harden into permanent scarcity, [Systemic Lock-In](core_05-05_definitions_b_semi_independent.md#systemic-lock-in), or suppression of repair, interoperability, learning, safety work, truthful disclosure, or downstream experimentation. Apply this rule where reward structures could affect [Wellbeing](#wellbeing), [Safety (Constraint)](#safety-constraint), [Truth (Constitutional Constraint)](core_05-05_definitions_c_dependent_clusters.md#truth-constitutional-constraint), or [Meaningful Agency](core_05-05_definitions_b_semi_independent.md#meaningful-agency).
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- For innovations with direct constitutional impact, public benefit may be assessed using [Lifespan Equivalent Unit (LEQU)](#lifespan-equivalent-unit-lequ) as one measure of contribution magnitude under Chapter Six.
+
+</details>
+
+<br>
+
+- O: The constitutional rule for rewarding invention, research, building, and creation that is materially novel and socially useful—without letting that reward become durable enclosure.
+
+  Reward may recognize contribution, development burden, and disclosure. It may include temporary exclusion only when that exclusion is narrow, time-bounded, reviewable, and justified.
+
+  Attribution is not exclusion. Credit and source history may persist after any exclusion ends. But control over use must not harden into permanent scarcity, [Systemic Lock-In](core_05-05_definitions_b_semi_independent.md#systemic-lock-in), or suppression of repair, interoperability, learning, safety work, truthful disclosure, or downstream experimentation.
+
+  Apply this rule where reward structures could affect [Wellbeing](#wellbeing), [Safety (Constraint)](#safety-constraint), [Truth (Constitutional Constraint)](core_05-05_definitions_c_dependent_clusters.md#truth-constitutional-constraint), or [Meaningful Agency](core_05-05_definitions_b_semi_independent.md#meaningful-agency).
 <a id="innovation-reward-and-anti-enclosure-e"></a>
 <a id="innovation-reward-and-anti-enclosure-contribution-and-necessity-assessment-e"></a>
 <a id="innovation-reward-and-anti-enclosure-class-scaled-exclusion-analysis-e"></a>
 <a id="innovation-reward-and-anti-enclosure-preference-for-non-monopoly-reward-tools-e"></a>
 <a id="innovation-reward-and-anti-enclosure-rebuttable-presumption-against-strong-exclusion-e"></a>
-- E: Evaluate innovation-reward claims in sequence:
-  - Identify the actual contribution, development burden, disclosure sufficiency, and public benefit. Reward requires a real contribution and enough disclosure for independent understanding, audit, and later implementation, subject only to justified temporary limits.
-  - Separate attribution from exclusion. A claimant may retain credit, provenance, and recognition after any exclusion term ends; those interests do not by themselves justify control over repair, reuse, compatibility, research, education, migration, or public-interest implementation.
-  - Test necessity and proportionality. Ask whether exclusivity is needed at all, whether the same or greater public benefit could be achieved through less-restrictive reward tools, and whether any exclusion is narrow, time-bounded, and reviewable under [Necessity](#necessity) and [Proportionality](#proportionality).
-  - Scale the analysis to system class, [Dependency](#dependency), coordination power, interoperability burden, and [Reversibility](#reversibility-constitutional). Stronger presumptions against exclusion apply as dependency, coordination leverage, or reversibility limits increase.
-  - Prefer prize, levy, pooled-license, public-buyout, compulsory-access, or similar non-monopoly mechanisms where exclusivity would predictably create lock-in, anti-competitive warehousing, or material harm to Class A, Class B, or Class C systems, survival-critical domains, standards-setting functions, or foundational knowledge.
-  - Apply a rebuttable presumption against strong exclusion for medicines and public-health essentials, survival-critical infrastructure, foundational scientific knowledge, core interoperability standards, and constitutional safety, audit, or compliance mechanisms.
+- E: Evaluate innovation-reward claims in this sequence:
+  1. **Identify the actual contribution.** Assess development burden, disclosure sufficiency, and public benefit. Reward requires a real contribution and enough disclosure for independent understanding, audit, and later implementation—subject only to justified temporary limits.
+  2. **Separate attribution from exclusion.** A claimant may keep credit, provenance, and recognition after any exclusion term ends. These interests do not by themselves justify control over repair, reuse, compatibility, research, education, migration, or public-interest implementation.
+  3. **Test necessity and proportionality.** Ask whether exclusivity is needed at all. Ask whether the same or greater public benefit could come through less-restrictive reward tools. Any exclusion must be narrow, time-bounded, and reviewable under [Necessity](#necessity) and [Proportionality](#proportionality).
+  4. **Scale to context.** Adjust analysis for system class, [Dependency](#dependency), coordination power, interoperability burden, and [Reversibility](#reversibility-constitutional). The stronger the dependency, leverage, or irreversibility, the stronger the presumption against exclusion.
+  5. **Prefer non-monopoly mechanisms.** Use prize, levy, pooled-license, public-buyout, compulsory-access, or similar tools where exclusivity would predictably create lock-in, anti-competitive warehousing, or material harm to Class A, Class B, or Class C systems; survival-critical domains; standards-setting functions; or foundational knowledge.
+  6. **Apply rebuttable presumptions.** Strong exclusion faces a rebuttable presumption against it for: medicines and public-health essentials; survival-critical infrastructure; foundational scientific knowledge; core interoperability standards; and constitutional safety, audit, or compliance mechanisms.
   <a id="innovation-reward-and-anti-enclosure-c"></a>
   <a id="innovation-reward-and-anti-enclosure-class-scaled-exclusion-analysis-c"></a>
   <a id="innovation-reward-and-anti-enclosure-anti-enclosure-non-compliance-c"></a>
 - C: Non-compliant:
-  - durable or open-ended exclusion, strategic non-use, trolling, artificial scarcity, or reward claims that materially block repair, security testing, interoperability, migration, education, research, truthful scrutiny, or public-interest implementation;
-  - continued exclusion of a [Dependency](#dependency)-critical innovation without class-scaled tightening, conversion to access-preserving reward, or sunset under [corpus_systems.md](corpus_systems.md), Chapter S2 — System Classification and Handling;
-  - exclusion that creates [Systemic Lock-In](core_05-05_definitions_b_semi_independent.md#systemic-lock-in), anti-competitive bottlenecks, material [Harm](core_05-05_definitions_c_dependent_clusters.md#harm), or avoidable dependence on a single claimant where less-restrictive reward tools would work as well or better;
-  - reward claims resting on concealment, inadequate disclosure, or pretextual restriction beyond what is justified under Chapter One and Chapter Nine.
+  - Durable or open-ended exclusion; strategic non-use; trolling; artificial scarcity; or reward claims that materially block repair, security testing, interoperability, migration, education, research, truthful scrutiny, or public-interest implementation.
+  - Continued exclusion of a [Dependency](#dependency)-critical innovation without class-scaled tightening, conversion to access-preserving reward, or sunset under [corpus_systems.md](corpus_systems.md), Chapter S2 — System Classification and Handling.
+  - Exclusion that creates [Systemic Lock-In](core_05-05_definitions_b_semi_independent.md#systemic-lock-in), anti-competitive bottlenecks, material [Harm](core_05-05_definitions_c_dependent_clusters.md#harm), or avoidable dependence on a single claimant where less-restrictive reward tools would work as well or better.
+  - Reward claims resting on concealment, inadequate disclosure, or pretextual restriction beyond what Chapter One and Chapter Nine justify.
 
 ---
 
