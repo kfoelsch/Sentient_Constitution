@@ -259,7 +259,7 @@ This Article states the Rights-Floor for **exceptional institutional power**: co
 
 - [Necessity](core_05-05_definitions_a_independent.md#necessity) · [O](core_05-05_definitions_a_independent.md#necessity) · [E](core_05-05_definitions_a_independent.md#necessity-e) · [C](core_05-05_definitions_a_independent.md#necessity-c)
 - [Proportionality](core_05-05_definitions_a_independent.md#proportionality) · [O](core_05-05_definitions_a_independent.md#proportionality) · [E](core_05-05_definitions_a_independent.md#proportionality-e) · [C](core_05-05_definitions_a_independent.md#proportionality-c)
-- [Protected Internal-State Boundary](core_05-05_definitions_b_semi_independent.md#protected-internal-state-boundary-constitutional) · [O](core_05-05_definitions_b_semi_independent.md#protected-internal-state-boundary-constitutional) · [E](core_05-05_definitions_b_semi_independent.md#protected-internal-state-boundary-constitutional-e) · [C](core_05-05_definitions_b_semi_independent.md#protected-internal-state-boundary-constitutional-c)
+- [Protected Internal-State Boundary](core_05-05_definitions_c_dependent_clusters.md#protected-internal-state-boundary-constitutional) · [O](core_05-05_definitions_b_semi_independent.md#protected-internal-state-boundary-constitutional) · [E](core_05-05_definitions_b_semi_independent.md#protected-internal-state-boundary-constitutional-e) · [C](core_05-05_definitions_b_semi_independent.md#protected-internal-state-boundary-constitutional-c)
 
 </details>
 

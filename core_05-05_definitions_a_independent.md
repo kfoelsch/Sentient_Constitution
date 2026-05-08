@@ -162,7 +162,7 @@ This directory lists **Definitions A-Z** and **Clusters A-Z** separately. Each v
 - [Parent-System Relationship](core_05-05_definitions_b_semi_independent.md#parent-system-relationship-constitutional)
 - [Participant Standing](core_05-05_definitions_b_semi_independent.md#participant-standing-constitutional)
 - [Press and Journalistic Activity](#press-and-journalistic-activity-constitutional)
-- [Privacy (Informational)](core_05-05_definitions_b_semi_independent.md#privacy-informational)
+- [Privacy (Informational)](core_05-05_definitions_c_dependent_clusters.md#privacy-informational)
 - [Procedural Fairness](core_05-05_definitions_b_semi_independent.md#procedural-fairness-constitutional)
 - [Productive Capacity](core_05-05_definitions_b_semi_independent.md#productive-capacity-constitutional)
 - [Proportionality](#proportionality)
@@ -170,7 +170,7 @@ This directory lists **Definitions A-Z** and **Clusters A-Z** separately. Each v
 - [Protected Characteristics](core_05-05_definitions_b_semi_independent.md#protected-characteristics-constitutional)
 - [Protected Commercial Sexual Services Status and Article X-C Circumvention](core_05-05_definitions_b_semi_independent.md#protected-commercial-sexual-services-status-and-article-x-c-circumvention)
 - [Protected Data and Internal-State Publication Constraint](core_05-05_definitions_c_dependent_clusters.md#protected-data-and-internal-state-publication-constraint)
-- [Protected Internal-State Boundary](core_05-05_definitions_b_semi_independent.md#protected-internal-state-boundary-constitutional)
+- [Protected Internal-State Boundary](core_05-05_definitions_c_dependent_clusters.md#protected-internal-state-boundary-constitutional)
 - [Protected Intimate-Signal Gating](core_05-05_definitions_b_semi_independent.md#protected-intimate-signal-gating)
 - [Protected Reporting (Whistleblowing)](core_05-05_definitions_b_semi_independent.md#protected-reporting-whistleblowing)
 - [Protected Reporting Retaliation and Access Interference](core_05-05_definitions_b_semi_independent.md#protected-reporting-retaliation-and-access-interference)
@@ -206,7 +206,7 @@ This directory lists **Definitions A-Z** and **Clusters A-Z** separately. Each v
 - [Strategic Stewardship Obligation](core_05-05_definitions_b_semi_independent.md#strategic-stewardship-obligation-constitutional)
 - [Substantive Fairness](core_05-05_definitions_b_semi_independent.md#substantive-fairness-constitutional)
 - [Supremacy and Enforceability](core_05-05_definitions_c_dependent_clusters.md#supremacy-and-enforceability)
-- [Surveillance Boundary](core_05-05_definitions_b_semi_independent.md#surveillance-boundary)
+- [Surveillance Boundary](core_05-05_definitions_c_dependent_clusters.md#surveillance-boundary)
 - [Sustainability](core_05-05_definitions_b_semi_independent.md#sustainability)
 - [System](core_05-05_definitions_b_semi_independent.md#system)
 - [System Boundaries](core_05-05_definitions_b_semi_independent.md#system-boundaries)
@@ -359,33 +359,11 @@ Independent Definitions must not fragment, isolate, or redistribute compliance i
 
 #### Anti-Displacement Floor
 
-<details>
-<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+*Canonical O/E/C definition moved to [Chapter Five §3.7 *Creative Work, Training-Data Use, Attribution, Compensation, and Anti-Displacement*](core_05-05_definitions_c_dependent_clusters.md#anti-displacement-floor-constitutional). This pointer retains the anchor for backward compatibility.*
 
-- Downstream: Principles: [§5.1.1 Productive Capacity (Instrumental Good)](core_00-01_principles.md#511-productive-capacity-instrumental-good); [§5.1.3 Concentration Threshold Mechanism](core_00-01_principles.md#513-concentration-threshold-mechanism-adopter-tunable) (displacement at population scale read-with §5.1 stack).
-- Cluster component: [Bodily-Maintenance Access, Safe Conditions, Tenure Security, Environmental Preconditions, Cultural Continuity, Rest, and Anti-Displacement Floor](core_05-05_definitions_c_dependent_clusters.md#safe-conditions-tenure-security-and-environmental-preconditions-cluster) where deployment-scale displacement materially affects livelihood continuity, safe participation conditions, rest / recuperation, tenure, care access, or community continuity.
-- Read with: [Fair Compensation](core_05-05_definitions_b_semi_independent.md#fair-compensation-constitutional), [Collective Organization](core_05-05_definitions_b_semi_independent.md#collective-organization-constitutional), [Creative Work Attribution](core_05-05_definitions_b_semi_independent.md#creative-work-attribution-constitutional), [Training-Data Use](core_05-05_definitions_c_dependent_clusters.md#training-data-use-constitutional), [Productive Capacity](core_05-05_definitions_b_semi_independent.md#productive-capacity-constitutional), [Avoidable Burden](core_05-05_definitions_b_semi_independent.md#avoidable-burden), [Proxy Divergence](core_05-05_definitions_b_semi_independent.md#proxy-divergence), and [Sentience Non-Exclusion](core_05-05_definitions_c_dependent_clusters.md#sentience-non-exclusion).
-
-</details>
-
-<br>
-
-- O: The Rights-Floor concept governing deployment of generative, automation, or comparable systems that produce material displacement of sentient labor at population scale. Displacement is material when, at population scale, it degrades volume of available work, compensation, attribution, or ability to sustain livelihood.
-  - Owner floors: [Article III-D](core_09-09_rights_part_a.md#article-iii-d-labor-and-economic-floor) (labor-and-economic, cross-cutting) and [Article VIII-D](core_09-09_rights_part_b.md#article-viii-d-creative-work-training-data-use-and-anti-displacement) (creative-work application).
-  - Where deployment-scale displacement foreseeably degrades the sustainability of sentient labor (creative, analytical, service, or comparable) for an affected population, mitigation must be substantive — compensation regimes, transition support, attribution or licensing structures, and participation in derived value.
-  - Substrate-agnostic under [Sentience Non-Exclusion](core_05-05_definitions_c_dependent_clusters.md#sentience-non-exclusion).
-  <a id="anti-displacement-floor-constitutional-e"></a>
-- E: Test substantive effect at population scale, not single-employer or single-platform framing:
-  - measure displacement against pre-deployment baselines for compensation, attribution, and livelihood sustainability across the affected population;
-  - apply [Proxy Divergence](core_05-05_definitions_b_semi_independent.md#proxy-divergence) and [Avoidable Burden](core_05-05_definitions_b_semi_independent.md#avoidable-burden); aggregate-productivity, efficiency, innovation, and [Productive Capacity](core_05-05_definitions_b_semi_independent.md#productive-capacity-constitutional) framings do not satisfy the floor where underlying sentient-labor outcomes degrade;
-  - cover [Adversarial, Scaled, and Exploited Conditions](core_05-05_definitions_a_independent.md#adversarial-scaled-and-exploited-conditions), including gradual ratcheting, platform-consolidation pressure, and cross-domain substitution;
-  - where deployment shows concentration characteristics, interact explicitly with the [Chapter One §5.1.1](core_00-01_principles.md#511-productive-capacity-instrumental-good) non-concentration principle and the [§5.1.3](core_00-01_principles.md#513-concentration-threshold-mechanism-adopter-tunable) threshold mechanism.
-  <a id="anti-displacement-floor-constitutional-c"></a>
-- C: Non-compliant with the floor:
-  - "aggregate productivity" or "aggregate welfare" framing used to erase displacement at population scale;
-  - nominal mitigation — e.g., token compensation, unused transition programs, or inaccessible attribution schemes;
-  - substrate-class exclusion under [Sentience Non-Exclusion](core_05-05_definitions_c_dependent_clusters.md#sentience-non-exclusion);
-  - treating the companion pointer to `corpus_systems.md` (operational detail only) as scope-closing.
+- **Owner floors:** [Article III-D](core_09-09_rights_part_a.md#article-iii-d-labor-and-economic-floor) (*labor-and-economic, cross-cutting*) and [Article VIII-D](core_09-09_rights_part_b.md#article-viii-d-creative-work-training-data-use-and-anti-displacement) (*creative-work application*).
+- **Cluster:** [Chapter Five §3.7](core_05-05_definitions_c_dependent_clusters.md#creative-work-training-data-attribution-compensation-and-anti-displacement-cluster).
+- **Secondary cluster component:** [Bodily-Maintenance Access, Safe Conditions, Tenure Security, Environmental Preconditions, Cultural Continuity, Rest, and Anti-Displacement Floor](core_05-05_definitions_c_dependent_clusters.md#safe-conditions-tenure-security-and-environmental-preconditions-cluster) where deployment-scale displacement materially affects livelihood continuity, safe participation conditions, rest / recuperation, tenure, care access, or community continuity.
 
 ---
 

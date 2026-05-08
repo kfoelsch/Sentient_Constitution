@@ -650,22 +650,9 @@ Below, entries are **grouped by topic** for reading convenience (non-operative o
 ---
 #### Privacy (Informational)
 
-<details>
-<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+*Canonical O/E/C definition moved to [Chapter Five §3.9 *Privacy (Informational) — peer-level cluster head*](core_05-05_definitions_c_dependent_clusters.md#privacy-informational). This pointer retains the anchor for backward compatibility.*
 
-- Downstream: Principles: [§8 Freedom (Bounded Agency)](core_00-01_principles.md#8-freedom-bounded-agency), [3. Non-Negotiable Constraints: Safety and Truth](core_00-01_principles.md#3-non-negotiable-constraints-safety-and-truth), and Chapter Nine privacy-distribution articles where informational handling affects agency, dignity, security, or truth.
-- Cluster component: [Chapter Five §3.5 *Privacy (Informational) — peer-level cluster head*](core_05-05_definitions_c_dependent_clusters.md#privacy-informational-cluster).
-- Read with: [Protected Internal-State Boundary](#protected-internal-state-boundary-constitutional), [Consent](#consent-constitutional), [Surveillance Boundary](#surveillance-boundary), [Truth (Constitutional Constraint)](core_05-05_definitions_c_dependent_clusters.md#truth-constitutional-constraint), [Dignity and Equal Moral Standing](core_05-05_definitions_a_independent.md#dignity-and-equal-moral-standing), and [corpus_systems.md](corpus_systems.md), Chapter S1 where Type N or comparable handling is implicated.
-
-</details>
-
-<br>
-
-- O: The constitutional protection of personal, relational, experiential, behavioral, likeness, metadata, internal-state-adjacent, and comparable information against collection, inference, exposure, retention, transfer, or use that materially impairs dignity, agency, safety, consent, or Rights-Floor access without adequate authority and safeguards.
-<a id="privacy-informational-e"></a>
-- E: Evaluate the complete information lifecycle, including collection, inference, aggregation, retention, access, publication, secondary use, model training, reconstruction, and cross-context combination. Consent, necessity, proportionality, data-minimization, contestability, and protected-status safeguards scale with sensitivity, dependency, material impact, and risk.
-<a id="privacy-informational-c"></a>
-- C: Non-compliant: treating availability, observability, platform possession, or prior disclosure as blanket permission; using indirect inference or aggregation to evade privacy duties; or handling sensitive information in ways that defeat consent, agency, dignity, safety, or contestability.
+- **Cluster:** [Chapter Five §3.9](core_05-05_definitions_c_dependent_clusters.md#privacy-informational-cluster).
 
 
 <a id="protected-internal-state-boundary-constitutional"></a>
@@ -673,22 +660,9 @@ Below, entries are **grouped by topic** for reading convenience (non-operative o
 ---
 #### Protected Internal-State Boundary
 
-<details>
-<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+*Canonical O/E/C definition moved to [Chapter Five §3.9 *Privacy (Informational) — peer-level cluster head*](core_05-05_definitions_c_dependent_clusters.md#protected-internal-state-boundary-constitutional). This pointer retains the anchor for backward compatibility.*
 
-- Downstream: Principles: [§8 Freedom (Bounded Agency)](core_00-01_principles.md#8-freedom-bounded-agency), [3. Non-Negotiable Constraints: Safety and Truth](core_00-01_principles.md#3-non-negotiable-constraints-safety-and-truth), and Article VII-B internal-state protections.
-- Cluster component: [Chapter Five §3.28 *Protected Internal-State Boundary and Type-N Anti-Bypass*](core_05-05_definitions_c_dependent_clusters.md#protected-internal-state-boundary-and-type-n-anti-bypass-cluster).
-- Read with: [Privacy (Informational)](#privacy-informational), [Consent](#consent-constitutional), [Protected Intimate-Signal Gating](#protected-intimate-signal-gating), [Surveillance Boundary](#surveillance-boundary), [Coercion and Manipulation](#coercion-and-manipulation-constitutional), and [Truth (Constitutional Constraint)](core_05-05_definitions_c_dependent_clusters.md#truth-constitutional-constraint).
-
-</details>
-
-<br>
-
-- O: The boundary protecting a sentient's cognitive, emotional, motivational, memory, preference, identity, volitional, or comparable internal states from extraction, compelled disclosure, inference, reconstruction, publication, coercive use, or operational bypass without the specific authority and safeguards required by the Constitution and incorporated handling rules.
-<a id="protected-internal-state-boundary-constitutional-e"></a>
-- E: Reach functional equivalents, including behavioral inference, biometric or substrate telemetry, model-based reconstruction, intimate-signal scoring, compelled self-reporting, and security or productivity tools that expose internal states. Evaluate whether the pathway reconstructs or pressures protected states even if it avoids direct recording.
-<a id="protected-internal-state-boundary-constitutional-c"></a>
-- C: Non-compliant: using proxy inference, Type N handling, consent bundling, security framing, employment or standing gates, or publication workflows to obtain or exploit protected internal states without the required narrow predicate, safeguards, and contestability.
+- **Cluster:** [Chapter Five §3.9](core_05-05_definitions_c_dependent_clusters.md#privacy-informational-cluster).
 
 
 <a id="surveillance-boundary"></a>
@@ -696,21 +670,9 @@ Below, entries are **grouped by topic** for reading convenience (non-operative o
 ---
 #### Surveillance Boundary
 
-<details>
-<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+*Canonical O/E/C definition moved to [Chapter Five §3.9 *Privacy (Informational) — peer-level cluster head*](core_05-05_definitions_c_dependent_clusters.md#surveillance-boundary). This pointer retains the anchor for backward compatibility.*
 
-- Downstream: Principles: [§8 Freedom (Bounded Agency)](core_00-01_principles.md#8-freedom-bounded-agency), [6.1 Core Tradeoff Principles](core_00-01_principles.md#61-core-tradeoff-principles), and Article XIII-A / privacy-layer controls where observation or monitoring affects agency, safety, security, or internal-state protection.
-- Read with: [Privacy (Informational)](#privacy-informational), [Protected Internal-State Boundary](#protected-internal-state-boundary-constitutional), [Consent](#consent-constitutional), [Necessity](core_05-05_definitions_a_independent.md#necessity), [Proportionality](core_05-05_definitions_a_independent.md#proportionality), [Meaningful Agency](#meaningful-agency), and [Coercion and Manipulation](#coercion-and-manipulation-constitutional).
-
-</details>
-
-<br>
-
-- O: The constitutional line between permissible observation, measurement, security logging, or evidence gathering and surveillance that materially chills, coerces, manipulates, exposes, reconstructs, or controls sentient agency, association, privacy, internal state, or Rights-Floor access.
-<a id="surveillance-boundary-e"></a>
-- E: Consider scope, duration, granularity, purpose, notice, consent, aggregation, inference, retention, access, alternatives, and dependency. A monitoring practice crosses the boundary where less intrusive means were feasible, where it reconstructs protected states, or where it materially alters conduct through coercive visibility without adequate justification.
-<a id="surveillance-boundary-c"></a>
-- C: Non-compliant: blanket, covert, indefinite, or dependency-backed monitoring that materially impairs privacy, internal-state protection, consent, expression, association, or meaningful agency without satisfying necessity, proportionality, minimization, and contestability requirements.
+- **Cluster:** [Chapter Five §3.9](core_05-05_definitions_c_dependent_clusters.md#privacy-informational-cluster).
 
 ---
 
@@ -720,46 +682,25 @@ Below, entries are **grouped by topic** for reading convenience (non-operative o
 <a id="creative-work-attribution-constitutional"></a>
 
 ---
+
 #### Creative Work Attribution
 
-<details>
-<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+*Canonical O/E/C definition moved to [Chapter Five §3.7 *Creative Work, Training-Data Use, Attribution, Compensation, and Anti-Displacement*](core_05-05_definitions_c_dependent_clusters.md#creative-work-attribution-constitutional). This pointer retains the anchor for backward compatibility.*
 
-- Downstream: Principles: [§5.1.1 Productive Capacity (Instrumental Good)](core_00-01_principles.md#511-productive-capacity-instrumental-good); [§5.2.2 Distributed Understanding](core_00-01_principles.md#522-distributed-understanding) (attribution / traceability read-with).
-- Read with: [Training-Data Use](core_05-05_definitions_c_dependent_clusters.md#training-data-use-constitutional), [Anti-Displacement Floor](core_05-05_definitions_a_independent.md#anti-displacement-floor-constitutional), [Fair Compensation](#fair-compensation-constitutional), [Good Faith](core_05-05_definitions_a_independent.md#good-faith), [Consent](#consent-constitutional), [Truth (Constitutional Constraint)](core_05-05_definitions_c_dependent_clusters.md#truth-constitutional-constraint), and [Sentience Non-Exclusion](core_05-05_definitions_c_dependent_clusters.md#sentience-non-exclusion).
-
-</details>
-
-<br>
-
-- O: The Rights-Floor concept addressing the attribution interest sentients hold in creative, intellectual, or comparable expressive work they produce, where that work is used, reproduced, adapted, transformed, or incorporated into derivative output by systems or other sentients. Owner: [Article VIII-D](core_09-09_rights_part_b.md#article-viii-d-creative-work-training-data-use-and-anti-displacement). Substrate-agnostic under [Sentience Non-Exclusion](core_05-05_definitions_c_dependent_clusters.md#sentience-non-exclusion). Attribution is a substantive traceability interest from derivative output back to upstream creator-work, not a specific format; structured attribution (direct, aggregate, or inventory-based) is permitted where the substantive traceability function survives.
-- E: Evaluate for traceability and credit-continuity, not form. "Fair use" or "transformative" framings do not extinguish the floor where derivative output is materially traceable to the creator's work; those framings operate within adopter-specified intellectual-property regimes inside the floor. [Consent](#consent-constitutional), [Good Faith](core_05-05_definitions_a_independent.md#good-faith), and [Truth (Constitutional Constraint)](core_05-05_definitions_c_dependent_clusters.md#truth-constitutional-constraint) apply where derivative output misrepresents provenance. Interaction with [Fair Compensation](#fair-compensation-constitutional) under [Article III-D](core_09-09_rights_part_a.md#article-iii-d-labor-and-economic-floor) is joint: attribution without compensation, or compensation without attribution, does not satisfy the floor where both are materially owed.
-- C: Non-compliant:
-  - erasure of attribution under "fair use" / "transformative" / "public-domain training-data" / "aggregate style" framings that defeats substantive traceability;
-  - attribution regimes that cannot function at deployment scale (opt-in mechanisms inaccessible to affected creators, post-use inventory disclosures, aggregate credits untraceable to actual work) where the affected creator-population is materially identifiable;
-  - substrate-class exclusion under [Sentience Non-Exclusion](core_05-05_definitions_c_dependent_clusters.md#sentience-non-exclusion);
-  - adopter-specified IP-regime framing used to narrow this floor (Article VIII-D *Non-Conflation*).
+- **Owner floor:** [Article VIII-D](core_09-09_rights_part_b.md#article-viii-d-creative-work-training-data-use-and-anti-displacement) (*creative work, training-data use, and anti-displacement*).
+- **Cluster:** [Chapter Five §3.7](core_05-05_definitions_c_dependent_clusters.md#creative-work-training-data-attribution-compensation-and-anti-displacement-cluster).
 
 
 <a id="fair-compensation-constitutional"></a>
 
 ---
+
 #### Fair Compensation
 
-<details>
-<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+*Canonical O/E/C definition moved to [Chapter Five §3.7 *Creative Work, Training-Data Use, Attribution, Compensation, and Anti-Displacement*](core_05-05_definitions_c_dependent_clusters.md#fair-compensation-constitutional). This pointer retains the anchor for backward compatibility.*
 
-- Downstream: Principles: [2. Foundational Objective: Wellbeing](core_00-01_principles.md#2-foundational-objective-wellbeing); [6.1.4 Minimization of Avoidable Burden](core_00-01_principles.md#614-minimization-of-avoidable-burden) (labor-floor burden vs false efficiency).
-- Owner floor: [Article III-D](core_09-09_rights_part_a.md#article-iii-d-labor-and-economic-floor). Companion routing: `corpus_institutions.md` CI-9 / CI-10 / CI-11.
-- Read with: [Collective Organization](#collective-organization-constitutional), [Safe Conditions](#safe-conditions-constitutional), [Leisure and Rest](#leisure-and-rest-constitutional), [Substantive Fairness](#substantive-fairness-constitutional), [Protected Characteristics](#protected-characteristics-constitutional), [Protected Characteristic Proxying and Disparate Impact](#protected-characteristic-proxying-and-disparate-impact), [Meaningful Agency](#meaningful-agency), [Coercion and Manipulation](#coercion-and-manipulation-constitutional), and [Dependency](core_05-05_definitions_a_independent.md#dependency).
-
-</details>
-
-<br>
-
-- O: The Rights-Floor concept covering substantive adequacy of compensation for productive, contributed, or comparable activity — waged, contracted, platformed, cooperative, or comparable — under [Sentience Non-Exclusion](core_05-05_definitions_c_dependent_clusters.md#sentience-non-exclusion). Compensation must reach substantive adequacy for participation and wellbeing, track [Substantive Fairness](#substantive-fairness-constitutional) across comparable activity, and not operate as a coercion or dependency-pressure vector. Ordinary voluntary exchange for goods or services outside sentient-productive-activity scope is out of scope. Rooted in the Article III-D labor and economic floor; read on top of (not as a substitute for) the Article III-A survival floor.
-- E: Reach substantive adequacy, not formal contractual satisfaction. Apply [Substantive Fairness](#substantive-fairness-constitutional) to comparable activity; apply [Protected Characteristics](#protected-characteristics-constitutional) and [Protected Characteristic Proxying and Disparate Impact](#protected-characteristic-proxying-and-disparate-impact) to distributional effects; apply [Coercion and Manipulation](#coercion-and-manipulation-constitutional) and [Meaningful Agency](#meaningful-agency) to dependency-pressure analysis. Survival-floor satisfaction alone, and [Chapter One §5.1.1](core_00-01_principles.md#511-productive-capacity-instrumental-good) non-concentration satisfaction alone, do not satisfy this entry.
-- C: Non-compliant: compensation schemes whose effects track [Protected Characteristics](#protected-characteristics-constitutional) or their material proxies; compensation used as coercion or dependency-pressure vector ([Coercion and Manipulation](#coercion-and-manipulation-constitutional)); reading this entry as satisfied purely by survival-floor or §5.1 non-concentration compliance; substrate-class exclusion ([Sentience Non-Exclusion](core_05-05_definitions_c_dependent_clusters.md#sentience-non-exclusion)).
+- **Owner floor:** [Article III-D](core_09-09_rights_part_a.md#article-iii-d-labor-and-economic-floor) (*labor and economic floor*).
+- **Cluster:** [Chapter Five §3.7](core_05-05_definitions_c_dependent_clusters.md#creative-work-training-data-attribution-compensation-and-anti-displacement-cluster).
 
 ---
 
