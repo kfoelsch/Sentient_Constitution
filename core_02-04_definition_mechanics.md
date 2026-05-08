@@ -14,7 +14,7 @@ Anti-evasion interpretation and observable non-compliance are governed by **Chap
 
 Terminology and definitional refinements for evaluative and compliance work appear in **Chapter Five** §§1–3 (*Independent Definitions*, *Semi-independent Definitions*, and *Dependent clusters*). **Section 2** is the **exclusive** home for semi-independent joint-invocation cluster contracts (lines beginning `**Cluster context**` in Part B). **Section 3** is the **exclusive** home for dependent-cluster contracts (`#### 3.*` heads and nested member definitions in Part C). Repository verification tooling enforces that split.
 
-Enforceability in the constitutional sense is further specified in Chapter Five Independent Definitions ([Supremacy and Enforceability](core_05-05_definitions_b_semi_independent.md#supremacy-and-enforceability)).
+Enforceability in the constitutional sense is further specified in Chapter Five Independent Definitions ([Supremacy and Enforceability](core_05-05_definitions_c_dependent_clusters.md#supremacy-and-enforceability)).
 
 This chapter does not define:
 - enforcement mechanisms

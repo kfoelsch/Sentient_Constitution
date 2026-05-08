@@ -59,7 +59,7 @@ This directory lists **Definitions A-Z** and **Clusters A-Z** separately. Each v
 - [Assembly](core_05-05_definitions_b_semi_independent.md#assembly-constitutional)
 - [Audit Scope Sufficiency](core_05-05_definitions_c_dependent_clusters.md#audit-scope-sufficiency)
 - [Auditability](core_05-05_definitions_c_dependent_clusters.md#auditability)
-- [Authority Stack and Internal Hierarchy](core_05-05_definitions_b_semi_independent.md#authority-stack)
+- [Authority Stack and Internal Hierarchy](core_05-05_definitions_c_dependent_clusters.md#authority-stack)
 - [Autonomous Coercion Tool](core_05-05_definitions_b_semi_independent.md#autonomous-coercion-tool-constitutional)
 - [Autonomous Lethal System](core_05-05_definitions_b_semi_independent.md#autonomous-lethal-system-constitutional)
 - [Avoidable Burden](core_05-05_definitions_b_semi_independent.md#avoidable-burden)
@@ -88,7 +88,7 @@ This directory lists **Definitions A-Z** and **Clusters A-Z** separately. Each v
 - [Contested-Sentient Life](core_05-05_definitions_c_dependent_clusters.md#contested-sentient-life-constitutional)
 - [Contingent Claim](#contingent-claim)
 - [Contribution State](core_05-05_definitions_b_semi_independent.md#contribution-state)
-- [Corpus](core_05-05_definitions_b_semi_independent.md#corpus)
+- [Corpus](core_05-05_definitions_c_dependent_clusters.md#corpus)
 - [Creative Work Attribution](core_05-05_definitions_b_semi_independent.md#creative-work-attribution-constitutional)
 - [Decentralization](core_05-05_definitions_b_semi_independent.md#decentralization)
 - [Dependency](#dependency)
@@ -205,7 +205,7 @@ This directory lists **Definitions A-Z** and **Clusters A-Z** separately. Each v
 - [Stewardship Defect](core_05-05_definitions_b_semi_independent.md#stewardship-defect-constitutional)
 - [Strategic Stewardship Obligation](core_05-05_definitions_b_semi_independent.md#strategic-stewardship-obligation-constitutional)
 - [Substantive Fairness](core_05-05_definitions_b_semi_independent.md#substantive-fairness-constitutional)
-- [Supremacy and Enforceability](core_05-05_definitions_b_semi_independent.md#supremacy-and-enforceability)
+- [Supremacy and Enforceability](core_05-05_definitions_c_dependent_clusters.md#supremacy-and-enforceability)
 - [Surveillance Boundary](core_05-05_definitions_b_semi_independent.md#surveillance-boundary)
 - [Sustainability](core_05-05_definitions_b_semi_independent.md#sustainability)
 - [System](core_05-05_definitions_b_semi_independent.md#system)
@@ -473,27 +473,6 @@ Independent Definitions must not fragment, isolate, or redistribute compliance i
 - E: Interpretation must not narrow membership in ways that violate [Sentience Non-Exclusion](core_05-05_definitions_c_dependent_clusters.md#sentience-non-exclusion) or [Dignity and Equal Moral Standing](#dignity-and-equal-moral-standing).
 <a id="constitutional-community-c"></a>
 - C: Denying constitutional protections to an entity that is a sentient, by arbitrary or discriminatory redefinition of community membership, is non-compliant under [Sentience Non-Exclusion](core_05-05_definitions_c_dependent_clusters.md#sentience-non-exclusion) and [Self-Determination](core_05-05_definitions_c_dependent_clusters.md#self-determination-constitutional).
-
----
-
-<a id="constitutional-constraint-violation"></a>
-
-#### Constitutional Constraint Violation
-
-<details>
-<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
-
-- Read with: [Safety (Constraint)](#safety-constraint), [Truth (Constitutional Constraint)](core_05-05_definitions_c_dependent_clusters.md#truth-constitutional-constraint), and [Harm](core_05-05_definitions_c_dependent_clusters.md#harm).
-
-</details>
-
-<br>
-
-- O: Any system behavior or outcome that materially degrades [Safety (Constraint)](#safety-constraint), [Truth (Constitutional Constraint)](core_05-05_definitions_c_dependent_clusters.md#truth-constitutional-constraint), or other binding constitutional requirements.
-<a id="constitutional-constraint-violation-e"></a>
-- E: Include direct, indirect, delayed, and aggregated effects, consistent with [Harm](core_05-05_definitions_c_dependent_clusters.md#harm), [Safety (Constraint)](#safety-constraint), and [Truth (Constitutional Constraint)](core_05-05_definitions_c_dependent_clusters.md#truth-constitutional-constraint).
-<a id="constitutional-constraint-violation-c"></a>
-- C: Any such degradation is non-compliant.
 
 ---
 

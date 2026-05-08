@@ -164,3 +164,69 @@ Specifically excluded from this cluster standing alone:
 - Isolated technical questions about risk without harm implicated
 
 Individual definitions about harm, materiality, or non-imposition may still guide analysis, but they cannot trigger the cluster's full procedural and substantive integration where the admission scope is not met.
+
+---
+
+## Chapter 5s3.6 — Corpus, Authority Stack, Supremacy, and Enforceability (Audience Guidance)
+
+### What this cluster does
+
+This cluster serves as the central home for understanding what text is actually binding, how different sources relate to each other, and how constitutional obligations remain enforceable. It brings together:
+
+- **Corpus** — what counts as the authoritative constitutional text
+- **Authority Stack** — the hierarchy of binding sources (core constitution, incorporated implementation, support materials)
+- **Internal Hierarchy** — how to resolve genuine conflicts within the binding text itself
+- **Supremacy and Enforceability** — ensuring binding obligations prevail and can be verified
+- **Constitutional Constraint Violation** — when system behavior materially degrades constitutional requirements
+
+### What it protects
+
+The cluster establishes several interconnected protections that cannot be separated:
+
+1. **Operative text integrity** — distinguishing binding constitutional law from explanatory materials, process artifacts, or unincorporated drafts
+2. **Custody and edition discipline** — tracking which version is authoritative and who maintains it
+3. **Supremacy ordering** — preventing implementation text, operational practice, or emergency framing from overriding constitutional requirements
+4. **Two-layer governance clarity** — distinguishing constitutional authorization (who may govern) from stakeholder participation rights (voice within authorized systems)
+5. **Observable enforceability** — requiring compliance to be traceable, contestable, and verifiable, not merely asserted
+6. **Anti-inversion discipline** — preventing support materials or adopted companion text from being treated as overriding the Constitution itself
+
+*In plain terms:* You cannot satisfy constitutional obligations by pointing to unimplemented plans, internal process documents, or adopted implementation guides that narrow the Constitution's meaning. Binding text governs; everything else supports or implements within its proper scope. Claims of compliance must be demonstrable, not just claimed.
+
+### When this cluster applies
+
+The cluster is triggered whenever decisions about a text involve:
+
+**Core corpus questions:**
+- Which edition or version is operative
+- Whether materials are binding constitutional text, incorporated implementation, or support-only
+- Custody chain and edition control
+- Supremacy disputes between sources
+
+**Authority and hierarchy questions:**
+- Layer status and source precedence
+- Whether incorporated text narrows constitutional meaning impermissibly
+- Residual conflict between principles, articles, or definitions
+- Claims that support materials override binding text
+
+**Enforceability questions:**
+- Whether claimed compliance is observable and verifiable
+- Audit and contest pathways for supremacy or custody disputes
+- Demonstrated operational capability versus paper assertions
+- Anti-drift discipline for adopted companion implementation
+
+**Two-layer governance questions:**
+- Constitutional contract layer (authorization of governing authority itself)
+- Stakeholder system participation layer (voice within authorized systems)
+- Whether one layer is being invoked to bypass the other
+
+### What stays outside
+
+When none of the above triggers apply, individual definitions about corpus, authority, or supremacy may still be used as supporting references. However, they cannot import the cluster's full joint-invocation discipline or enforceability requirements.
+
+Specifically excluded from this cluster standing alone:
+- Technical questions about document formatting or presentation without binding status implications
+- General inquiries about constitutional interpretation without supremacy, custody, or enforceability stakes
+- Operational guidance that remains within valid adoption scope and does not narrow constitutional meaning
+- Edition management that does not affect which text is binding
+
+Individual definitions may still guide analysis, but they cannot trigger the cluster's full procedural integration where the admission scope is not met.

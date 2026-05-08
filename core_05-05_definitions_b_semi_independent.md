@@ -714,90 +714,6 @@ Below, entries are **grouped by topic** for reading convenience (non-operative o
 
 ---
 
-#### Corpus, authority stack, and supremacy / enforceability
-
-
-<a id="corpus"></a>
-
----
-#### Corpus
-
-<details>
-<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
-
-- Downstream: Principles: [10. Interpretive Role](core_00-01_principles.md#10-interpretive-role) (corpus read as integrated whole); [Interpretive Constraints](core_00-01_principles.md#interpretive-constraints) (binding source identification).
-- Downstream: [Chapter Fourteen — Incorporation bridge](core_14-14_incorporation.md#chapter-fourteen-incorporation-bridge) (*which adopted **companion implementation** text is binding, edition pinning, custody chain, and anti-drift discipline*).
-- Read with: [Authority Stack and Internal Hierarchy](#authority-stack) and [Constitutional Constraint Violation](core_05-05_definitions_a_independent.md#constitutional-constraint-violation).
-- Read with: owner-layer references in [doc_architecture.md](doc_architecture.md) and [README.md](README.md).
-
-</details>
-
-<br>
-
-- O: The authoritative integrated set of binding constitutional sources: the numbered `core_*` Sentient Constitution files read as one instrument, plus any valid compatibility wrappers during transition and adopted companion implementation text. Sources are versioned and custodied through valid adoption and edition controls under the [Corpus, Authority Stack, Supremacy, and Enforceability cluster](core_05-05_definitions_c_dependent_clusters.md#corpus-authority-stack-supremacy-and-enforceability-cluster).
-<a id="corpus-e"></a>
-- E: For compliance and adoption claims, identify the operative corpus edition and custody chain under the applicable [Corpus, Authority Stack, Supremacy, and Enforceability cluster](core_05-05_definitions_c_dependent_clusters.md#corpus-authority-stack-supremacy-and-enforceability-cluster). Then:
-  - distinguish incorporated binding text from explanatory/process artifacts;
-  - apply Chapter Twelve supremacy and Chapter Thirteen adoption conditions.
-  <a id="corpus-c"></a>
-- C: Non-compliant: representing divergent, uncontrolled, or misidentified text as the Corpus; collapsing non-binding process artifacts into binding scope without valid incorporation contrary to the governing [Corpus, Authority Stack, Supremacy, and Enforceability cluster](core_05-05_definitions_c_dependent_clusters.md#corpus-authority-stack-supremacy-and-enforceability-cluster).
-
-
-<a id="authority-stack"></a>
-
----
-#### Authority Stack and Internal Hierarchy
-
-<details>
-<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
-
-- Downstream: Principles: [Interpretive Constraints](core_00-01_principles.md#interpretive-constraints); [10. Interpretive Role](core_00-01_principles.md#10-interpretive-role) (Authority Stack vs Internal Hierarchy read-with Chapter One).
-- Downstream: [Chapter One — Interpretive Constraints](core_00-01_principles.md#interpretive-constraints) (integrated reading and last-resort hierarchy); [Chapter Twelve §3.1](core_11-13_amendment.md#31-internal-hierarchy-for-adopters) (*Internal Hierarchy for Adopters*); [Chapter Fourteen §2](core_14-14_incorporation.md#2-authority-stack-and-invocation) (*Authority stack and invocation*).
-- Read with: [Corpus](#corpus), [Supremacy and Enforceability](#supremacy-and-enforceability), and [Constitutional Constraint Violation](core_05-05_definitions_a_independent.md#constitutional-constraint-violation).
-- Read with: owner-layer references in [doc_architecture.md](doc_architecture.md) and [README.md](README.md).
-
-</details>
-
-<br>
-
-- O: The paired rule for source status and residual conflict resolution across the operative [Corpus](#corpus).
-  - **Authority Stack:** the ordered source-of-authority framework governing constitutional interpretation, adoption effect, and layer status across constitutional, incorporated, and support layers. Order:
-    - binding constitutional sources — Sentient Constitution core files read together, starting with `core_00-01_principles.md` and the remaining numbered core files;
-    - binding incorporated implementation source — designated obligations in adopted companion implementation text within valid Chapter Thirteen / Fourteen adoption scope;
-    - process/map support sources — `doc_architecture.md`, `TODO.md`, and regression/evidence artifacts, unless explicitly incorporated by valid adopting instrument.
-  - **Internal Hierarchy:** the last-resort interpretive ordering rule that resolves genuine residual incompatibility within the binding constitutional source after integrated reading under [Chapter One — Interpretive Constraints](core_00-01_principles.md#interpretive-constraints) has been exhausted. Within that source, Chapter One principles govern high-level constitutional direction; article-level obligations and Rights Floors govern specific operative requirements; principles control over articles only for genuine residual incompatibility; and articles control over definitions read as independent substantive glosses. Canonical Chapter Five definitions continue to govern the meaning of the terms used at each layer.
-  - **Boundary between them:** the Authority Stack decides which source layer is speaking and whether that layer is binding, incorporated, or support-only. Internal Hierarchy decides how binding constitutional meaning is resolved once the operative layer has been identified. For adopters, Chapter Twelve §3.1 applies this paired discipline at the binding-corpus / adopted-companion boundary: this Constitution and its integrated definitions govern interpretation and compliance, while adopted companion implementation text governs only within its stated adoption scope and remains subject to [Chapter Eleven non-regression](core_11-13_amendment.md) and [Supremacy and Enforceability](#supremacy-and-enforceability).
-  <a id="authority-stack-e"></a>
-  <a id="internal-hierarchy-e"></a>
-  <a id="internal-hierarchy-constitutional-e"></a>
-- E: First identify the operative edition/custody chain and source layer under the Authority Stack. Then apply integrated reading under [Chapter One — Interpretive Constraints](core_00-01_principles.md#interpretive-constraints). Preserve the Constitution's fullest protective effect as an integrated whole and the [Chapter Nine](core_09-09_rights_part_a.md#chapter-nine-foundational-rights) non-contraction default. Use Internal Hierarchy only as a last-resort residual rule; do not use it to replace ordinary integrated reading or to resolve mere disagreement over canonical term meaning. Where the dispute is term meaning, the Chapter Five canonical definition governs at every layer. Reject interpretations that invert source precedence, obscure source status, treat non-incorporated process text as binding constitutional law, or let incorporated/support layers narrow Sentient Constitution meaning. Apply Chapter Four burden, tracing, and verification requirements to any claim that a layer collision exists.
-<a id="authority-stack-c"></a>
-<a id="internal-hierarchy-c"></a>
-<a id="internal-hierarchy-constitutional-c"></a>
-- C: Non-compliant:
-  - treating support/process artifacts as constitutionally binding without valid incorporation, or applying incorporated text contrary to the constitutional [Corpus](#corpus);
-  - invoking Internal Hierarchy to license abstract-strictness preferences, to contract [Chapter Nine](core_09-09_rights_part_a.md#chapter-nine-foundational-rights) protections outside expressly permitted Chapter One interaction rules, or to substitute one layer for another under ordinary operation;
-  - treating canonical Chapter Five definitions as a competing substantive layer that displaces principles or articles ([Chapter One — Interpretive Constraints](core_00-01_principles.md#interpretive-constraints));
-  - for adopters, treating adopted companion implementation text as overriding binding constitutional source within scope of adoption, or as relaxing [Chapter Eleven](core_11-13_amendment.md) non-regression floors (Chapter Twelve §3.1; [Supremacy and Enforceability](#supremacy-and-enforceability)).
-
-
-<a id="supremacy-and-enforceability"></a>
-#### Supremacy and Enforceability
-
-- O: The requirement that binding corpus obligations prevail within their valid source, adoption, and governance-layer scope, and remain enforceable through observable, traceable, and [Contestable](#contestability) compliance assessment. Supremacy is determined under the [Authority Stack and Internal Hierarchy](#authority-stack), operative [Corpus](#corpus), and applicable adoption or incorporation instrument. It applies distinctly across the [Constitutional Contract Layer](core_05-05_definitions_a_independent.md#constitutional-contract-layer) and **Stakeholder System Participation** layer: constitutional-contract obligations govern authorization of governing authority itself, while stakeholder-system-participation obligations govern participation, representation, contestability, and due process within already-authorized systems, institutions, or bounded decision domains. Neither layer may be invoked to bypass the other.
-<a id="supremacy-and-enforceability-e"></a>
-- E: Apply Chapter Four burden, tracing, and verification requirements. First identify the operative source layer, adoption scope, and governance layer at issue. Where authority to govern, legitimacy mechanism, reauthorization, durable restructuring, or foundational participation entitlement is at issue, apply the [Constitutional Contract Layer](core_05-05_definitions_a_independent.md#constitutional-contract-layer), [Foundational Constitutional Choice](core_05-05_definitions_a_independent.md#foundational-constitutional-choice), Chapter Ten, and applicable Rights-Floor provisions. Where materially rights-affecting decisions occur within already-authorized governance structures, apply **Stakeholder System Participation**, including [Stakeholder](#stakeholder), [Stakeholder Participation Weight](#stakeholder-participation-weight), Article XI, and related contestability and due-process requirements. Apply the supremacy, adoption, and incorporation hierarchy in Chapters Ten through Twelve, including incorporated obligations in designated companion implementation text, consistent with the [Authority Stack and Internal Hierarchy](#authority-stack), operative [Corpus](#corpus), and [Auditability](core_05-05_definitions_c_dependent_clusters.md#auditability), without allowing implementation, support text, private ordering, emergency framing, or operational practice to narrow binding constitutional obligations.
-<a id="supremacy-and-enforceability-c"></a>
-- C: Non-compliant:
-  - claims of supremacy or compliance that evade auditable verification, suppress [Contestability](#contestability) rights, or invert the established constitutional hierarchy;
-  - treating stakeholder consultation, system use, market participation, operational acceptance, or impact-weighted stakeholder process as constitutional authorization where the [Constitutional Contract Layer](core_05-05_definitions_a_independent.md#constitutional-contract-layer) requires documented legitimacy;
-  - treating constitutional authorization as eliminating stakeholder participation, representation, contestability, or due-process duties within already-authorized systems or bounded decision domains;
-  - where binding obligations require operational capability, treating text or assertions alone as sufficient compliance without verified operational capability. This includes incorporated implementation text, companion text, support artifacts, private instruments, emergency practice, paper claims, unimplemented controls, and unobservable assertions used to override or satisfy binding constitutional obligations ([Authority Stack and Internal Hierarchy](#authority-stack); [Corpus](#corpus); [Auditability](core_05-05_definitions_c_dependent_clusters.md#auditability)).
-
----
-
----
-
 #### Creative work, compensation, and anti-displacement
 
 
@@ -817,9 +733,7 @@ Below, entries are **grouped by topic** for reading convenience (non-operative o
 <br>
 
 - O: The Rights-Floor concept addressing the attribution interest sentients hold in creative, intellectual, or comparable expressive work they produce, where that work is used, reproduced, adapted, transformed, or incorporated into derivative output by systems or other sentients. Owner: [Article VIII-D](core_09-09_rights_part_b.md#article-viii-d-creative-work-training-data-use-and-anti-displacement). Substrate-agnostic under [Sentience Non-Exclusion](core_05-05_definitions_c_dependent_clusters.md#sentience-non-exclusion). Attribution is a substantive traceability interest from derivative output back to upstream creator-work, not a specific format; structured attribution (direct, aggregate, or inventory-based) is permitted where the substantive traceability function survives.
-<a id="creative-work-attribution-constitutional-e"></a>
 - E: Evaluate for traceability and credit-continuity, not form. "Fair use" or "transformative" framings do not extinguish the floor where derivative output is materially traceable to the creator's work; those framings operate within adopter-specified intellectual-property regimes inside the floor. [Consent](#consent-constitutional), [Good Faith](core_05-05_definitions_a_independent.md#good-faith), and [Truth (Constitutional Constraint)](core_05-05_definitions_c_dependent_clusters.md#truth-constitutional-constraint) apply where derivative output misrepresents provenance. Interaction with [Fair Compensation](#fair-compensation-constitutional) under [Article III-D](core_09-09_rights_part_a.md#article-iii-d-labor-and-economic-floor) is joint: attribution without compensation, or compensation without attribution, does not satisfy the floor where both are materially owed.
-<a id="creative-work-attribution-constitutional-c"></a>
 - C: Non-compliant:
   - erasure of attribution under "fair use" / "transformative" / "public-domain training-data" / "aggregate style" framings that defeats substantive traceability;
   - attribution regimes that cannot function at deployment scale (opt-in mechanisms inaccessible to affected creators, post-use inventory disclosures, aggregate credits untraceable to actual work) where the affected creator-population is materially identifiable;
@@ -844,9 +758,7 @@ Below, entries are **grouped by topic** for reading convenience (non-operative o
 <br>
 
 - O: The Rights-Floor concept covering substantive adequacy of compensation for productive, contributed, or comparable activity — waged, contracted, platformed, cooperative, or comparable — under [Sentience Non-Exclusion](core_05-05_definitions_c_dependent_clusters.md#sentience-non-exclusion). Compensation must reach substantive adequacy for participation and wellbeing, track [Substantive Fairness](#substantive-fairness-constitutional) across comparable activity, and not operate as a coercion or dependency-pressure vector. Ordinary voluntary exchange for goods or services outside sentient-productive-activity scope is out of scope. Rooted in the Article III-D labor and economic floor; read on top of (not as a substitute for) the Article III-A survival floor.
-<a id="fair-compensation-constitutional-e"></a>
 - E: Reach substantive adequacy, not formal contractual satisfaction. Apply [Substantive Fairness](#substantive-fairness-constitutional) to comparable activity; apply [Protected Characteristics](#protected-characteristics-constitutional) and [Protected Characteristic Proxying and Disparate Impact](#protected-characteristic-proxying-and-disparate-impact) to distributional effects; apply [Coercion and Manipulation](#coercion-and-manipulation-constitutional) and [Meaningful Agency](#meaningful-agency) to dependency-pressure analysis. Survival-floor satisfaction alone, and [Chapter One §5.1.1](core_00-01_principles.md#511-productive-capacity-instrumental-good) non-concentration satisfaction alone, do not satisfy this entry.
-<a id="fair-compensation-constitutional-c"></a>
 - C: Non-compliant: compensation schemes whose effects track [Protected Characteristics](#protected-characteristics-constitutional) or their material proxies; compensation used as coercion or dependency-pressure vector ([Coercion and Manipulation](#coercion-and-manipulation-constitutional)); reading this entry as satisfied purely by survival-floor or §5.1 non-concentration compliance; substrate-class exclusion ([Sentience Non-Exclusion](core_05-05_definitions_c_dependent_clusters.md#sentience-non-exclusion)).
 
 ---
@@ -2111,7 +2023,7 @@ Below, entries are **grouped by topic** for reading convenience (non-operative o
 
 - O: **Axis II** classification of **adverse** constitutional outcomes from [**verified violation findings**](#verified-violation-findings) — **non-compliance** severity, attached process / response character, and **§6** supplements — under [Chapter Six](core_06-06_standing_classification.md) and [integration sections](core_06-06_standing_integration.md). This entry is a Chapter Five pointer; canonical Axis II classification rules are in Chapter Six **§3.3** and **§5**. It is compound with [Verified Violation Findings](#verified-violation-findings): violation nature supplies the classification layer, while verified violation findings supply the admissible record basis. Distinct from [**contribution state**](#contribution-state) (**Axis I**, positive-only).
 <a id="violation-nature-chapter-six-e"></a>
-- E: Classify for **standing** only from **findings** satisfying Chapters **Two through Four** and [**verified inputs for standing**](core_06-06_standing_classification.md#verified-inputs-for-standing). The record must identify the verified finding basis and the violation-nature classification together, including severity, applicable attachments or supplements, scope, review status, and whether Chapter Seven controls final top-slot assignment. Read with [Harm](core_05-05_definitions_c_dependent_clusters.md#harm), [Materiality Determination](core_05-05_definitions_b_semi_independent.md#materiality-determination), [Constitutional Constraint Violation](core_05-05_definitions_a_independent.md#constitutional-constraint-violation), and [Supremacy and Enforceability](#supremacy-and-enforceability) where material.
+- E: Classify for **standing** only from **findings** satisfying Chapters **Two through Four** and [**verified inputs for standing**](core_06-06_standing_classification.md#verified-inputs-for-standing). The record must identify the verified finding basis and the violation-nature classification together, including severity, applicable attachments or supplements, scope, review status, and whether Chapter Seven controls final top-slot assignment. Read with [Harm](core_05-05_definitions_c_dependent_clusters.md#harm), [Materiality Determination](core_05-05_definitions_b_semi_independent.md#materiality-determination), [Constitutional Constraint Violation](core_05-05_definitions_c_dependent_clusters.md#constitutional-constraint-violation), and [Supremacy and Enforceability](#supremacy-and-enforceability) where material.
 <a id="violation-nature-chapter-six-c"></a>
 - C: Non-compliant: using **allegations**, **provisional** labels, or **forum-phase** material alone as **violation nature** for **standing**; recording verified violation findings for adverse standing effect without stating the applicable violation nature; relabeling **adverse** **violation** **findings** as **negative contribution** on **Axis I**; using [**contribution state**](#contribution-state) to **net away** or **substitute** for [**verified violation findings**](#verified-violation-findings) required under Chapter Six.
 

@@ -1466,7 +1466,7 @@ Diagnostic rigor must remain auditable and challengeable. It must be consistent 
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
 
-- [Authority Stack and Internal Hierarchy](core_05-05_definitions_b_semi_independent.md#authority-stack) · [O](core_05-05_definitions_b_semi_independent.md#authority-stack) · [E](core_05-05_definitions_b_semi_independent.md#authority-stack-e) · [C](core_05-05_definitions_b_semi_independent.md#authority-stack-c)
+- [Authority Stack and Internal Hierarchy](core_05-05_definitions_c_dependent_clusters.md#authority-stack) · [O](core_05-05_definitions_c_dependent_clusters.md#authority-stack) · [E](core_05-05_definitions_c_dependent_clusters.md#authority-stack-e) · [C](core_05-05_definitions_c_dependent_clusters.md#authority-stack-c)
 - [Forum Family, Constitutional](core_05-05_definitions_c_dependent_clusters.md#forum-family-constitutional) · [O](core_05-05_definitions_c_dependent_clusters.md#forum-family-constitutional) · [E](core_05-05_definitions_c_dependent_clusters.md#forum-family-constitutional-e) · [C](core_05-05_definitions_c_dependent_clusters.md#forum-family-constitutional-c)
 - [Auditability](core_05-05_definitions_c_dependent_clusters.md#auditability) · [O](core_05-05_definitions_c_dependent_clusters.md#auditability) · [E](core_05-05_definitions_c_dependent_clusters.md#auditability-e) · [C](core_05-05_definitions_c_dependent_clusters.md#auditability-c)
 - [Contestability](core_05-05_definitions_b_semi_independent.md#contestability) · [O](core_05-05_definitions_b_semi_independent.md#contestability) · [E](core_05-05_definitions_b_semi_independent.md#contestability-e) · [C](core_05-05_definitions_b_semi_independent.md#contestability-c)
@@ -1492,7 +1492,7 @@ Final **constitutional** interpretation must remain authoritative, bounded, audi
 <summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
 
 - [Forum Family, Constitutional](core_05-05_definitions_c_dependent_clusters.md#forum-family-constitutional) · [O](core_05-05_definitions_c_dependent_clusters.md#forum-family-constitutional) · [E](core_05-05_definitions_c_dependent_clusters.md#forum-family-constitutional-e) · [C](core_05-05_definitions_c_dependent_clusters.md#forum-family-constitutional-c)
-- [Authority Stack and Internal Hierarchy](core_05-05_definitions_b_semi_independent.md#authority-stack) · [O](core_05-05_definitions_b_semi_independent.md#authority-stack) · [E](core_05-05_definitions_b_semi_independent.md#authority-stack-e) · [C](core_05-05_definitions_b_semi_independent.md#authority-stack-c)
+- [Authority Stack and Internal Hierarchy](core_05-05_definitions_c_dependent_clusters.md#authority-stack) · [O](core_05-05_definitions_c_dependent_clusters.md#authority-stack) · [E](core_05-05_definitions_c_dependent_clusters.md#authority-stack-e) · [C](core_05-05_definitions_c_dependent_clusters.md#authority-stack-c)
 - [Contestability](core_05-05_definitions_b_semi_independent.md#contestability) · [O](core_05-05_definitions_b_semi_independent.md#contestability) · [E](core_05-05_definitions_b_semi_independent.md#contestability-e) · [C](core_05-05_definitions_b_semi_independent.md#contestability-c)
 
 </details>

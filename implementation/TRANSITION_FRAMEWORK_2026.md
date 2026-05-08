@@ -5,7 +5,7 @@
 **Authoritative corpus edition:** `SC-Corpus-2026.04.6`  
 **Effective date:** 2026-04-08  
 
-**Corpus (binding scope):** The numbered `core_*` Sentient Constitution files and valid incorporated companion implementation text are the **Corpus** as defined in [Chapter Five *Corpus*](../core_05-05_definitions_b_semi_independent.md#corpus). This implementation file is **not** part of that corpus unless an adopting instrument expressly incorporates it.
+**Corpus (binding scope):** The numbered `core_*` Sentient Constitution files and valid incorporated companion implementation text are the **Corpus** as defined in [Chapter Five *Corpus*](../core_05-05_definitions_c_dependent_clusters.md#corpus). This implementation file is **not** part of that corpus unless an adopting instrument expressly incorporates it.
 
 **Custody:** Record here the repository branch, publication channel, or custodian identity that holds the authoritative edition of the numbered Sentient Constitution `core_*.md` files, [corpus_joint_structure.md](../corpus_joint_structure.md), and [corpus_systems.md](../corpus_systems.md), consistent with [doc_architecture.md](../doc_architecture.md) section 17 (*Corpus document control*).
 
