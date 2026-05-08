@@ -77,7 +77,7 @@ def directory_supplement_map(part_a: str) -> dict[str, str]:
 
 
 def merged_anchor_home(part_a: str, part_b: str, part_c: str) -> dict[str, str]:
-    """Explicit <a id> wins; directory fills gaps (stub / heading-only targets)."""
+    """Explicit <a id> wins; directory fills heading-only navigation gaps."""
     home: dict[str, str] = {}
     for a in collect_anchors(part_a):
         home[a] = CH5_PART_A

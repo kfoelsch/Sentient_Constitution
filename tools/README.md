@@ -11,7 +11,8 @@ Python utilities for this repository. Run from the repo root unless noted.
 | Blocking regression bundle | `make regression` |
 | Markdown / prose / definitions gravity | `make corpus-markdown-audit`, `make prose-continuity-audit`, `make ch5-definitions-gravity-audit`, `make ch5-trace-crosslink-audit` |
 | Chapter Five compound heading/member order | `make ch5-cluster-order-audit` |
-| Chapter Five section 1 alphabetical order | `make ch5-alphabetical-directory-audit` |
+| Chapter Five single-definition and owner-roster rule | `make ch5-single-definition-audit` |
+| Chapter Five alphabetical directory and section 1 order | `make ch5-alphabetical-directory-audit` |
 | Chapter One D/E/C functional ordering | `make ch1-dec-order-audit` |
 | Readability estimates | `make readability-audit` |
 | Plain-language jargon scan | `make plain-language-audit` |
@@ -21,6 +22,8 @@ Python utilities for this repository. Run from the repo root unless noted.
 `reference_audit.py` builds the **canonical Chapter Nine map** from merged `### Article …:` headings in `core_09-09_rights_part_*.md` (falling back across part files as needed). If a citation fails the audit, fix the citing file or the heading—not the audit script.
 
 `ch5_trace_crosslink_audit.py` enforces the Chapter Five navigation-metadata rule: `Read with:` lines belong inside each entry's local `Trace` / `<details>` block, not in operative prose after the block closes. It does not ban selective same-file cross-definition links in O / E / C body text.
+
+`ch5_single_definition_audit.py` enforces the Chapter Five directory cleanup rule: one visible definition label, one directory row, no placeholder-only definition shells, and no repeated `Cluster members.` owner roster membership. Anchor fragments remain navigation targets only.
 
 `ch9_trace_audit.py` enforces the Chapter Nine trace-placement rule: each `#### Article …` subarticle in the rights split files must carry its own local `Trace` / `<details>` block, and each block must include both `Principles:` and linked `Definitions:` metadata.
 

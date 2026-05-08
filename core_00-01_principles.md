@@ -962,7 +962,7 @@ Trust must not be preserved through deception or suppression of truth. Where ten
 - [Harm](core_05-05_definitions_c_dependent_clusters.md#harm) · [O](core_05-05_definitions_c_dependent_clusters.md#harm) · [E](core_05-05_definitions_c_dependent_clusters.md#harm-e) · [C](core_05-05_definitions_c_dependent_clusters.md#harm-c)
 - [Risk](core_05-05_definitions_a_independent.md#risk) · [O](core_05-05_definitions_a_independent.md#risk) · [E](core_05-05_definitions_a_independent.md#risk-e) · [C](core_05-05_definitions_a_independent.md#risk-c)
 - [Reversibility](core_05-05_definitions_a_independent.md#reversibility-constitutional) · [O](core_05-05_definitions_a_independent.md#reversibility-constitutional) · [E](core_05-05_definitions_a_independent.md#reversibility-constitutional-e) · [C](core_05-05_definitions_a_independent.md#reversibility-constitutional-c)
-- [Oversight](core_05-05_definitions_b_semi_independent.md#oversight-constitutional) · [O](core_05-05_definitions_b_semi_independent.md#oversight-constitutional) · [E](core_05-05_definitions_b_semi_independent.md#oversight-constitutional-e) · [C](core_05-05_definitions_b_semi_independent.md#oversight-constitutional-c)
+- [Oversight](core_05-05_definitions_a_independent.md#oversight-constitutional) · [O](core_05-05_definitions_a_independent.md#oversight-constitutional) · [E](core_05-05_definitions_a_independent.md#oversight-constitutional-e) · [C](core_05-05_definitions_a_independent.md#oversight-constitutional-c)
 
 </details>
 
@@ -1238,7 +1238,7 @@ They **must not** treat **symbolic** participation as a **substitute** for **con
 
 - [Incentive Alignment](core_05-05_definitions_a_independent.md#incentive-alignment) · [O](core_05-05_definitions_a_independent.md#incentive-alignment) · [E](core_05-05_definitions_a_independent.md#incentive-alignment) · [C](core_05-05_definitions_a_independent.md#incentive-alignment)
 - [System Capture](core_05-05_definitions_a_independent.md#system-capture) · [O](core_05-05_definitions_a_independent.md#system-capture) · [E](core_05-05_definitions_a_independent.md#system-capture-e) · [C](core_05-05_definitions_a_independent.md#system-capture-c)
-- [Oversight](core_05-05_definitions_b_semi_independent.md#oversight-constitutional) · [O](core_05-05_definitions_b_semi_independent.md#oversight-constitutional) · [E](core_05-05_definitions_b_semi_independent.md#oversight-constitutional-e) · [C](core_05-05_definitions_b_semi_independent.md#oversight-constitutional-c)
+- [Oversight](core_05-05_definitions_a_independent.md#oversight-constitutional) · [O](core_05-05_definitions_a_independent.md#oversight-constitutional) · [E](core_05-05_definitions_a_independent.md#oversight-constitutional-e) · [C](core_05-05_definitions_a_independent.md#oversight-constitutional-c)
 - [Accountability](core_05-05_definitions_b_semi_independent.md#accountability) · [O](core_05-05_definitions_b_semi_independent.md#accountability) · [E](core_05-05_definitions_b_semi_independent.md#accountability-e) · [C](core_05-05_definitions_b_semi_independent.md#accountability-c)
 
 </details>

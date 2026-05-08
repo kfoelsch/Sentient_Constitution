@@ -629,7 +629,7 @@ They operate consistently with **Chapters Two through Four**, including exclusiv
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
 
-- [Oversight](core_05-05_definitions_b_semi_independent.md#oversight-constitutional) · [O](core_05-05_definitions_b_semi_independent.md#oversight-constitutional) · [E](core_05-05_definitions_b_semi_independent.md#oversight-constitutional-e) · [C](core_05-05_definitions_b_semi_independent.md#oversight-constitutional-c)
+- [Oversight](core_05-05_definitions_a_independent.md#oversight-constitutional) · [O](core_05-05_definitions_a_independent.md#oversight-constitutional) · [E](core_05-05_definitions_a_independent.md#oversight-constitutional-e) · [C](core_05-05_definitions_a_independent.md#oversight-constitutional-c)
 - [Contestability](core_05-05_definitions_b_semi_independent.md#contestability) · [O](core_05-05_definitions_b_semi_independent.md#contestability) · [E](core_05-05_definitions_b_semi_independent.md#contestability-e) · [C](core_05-05_definitions_b_semi_independent.md#contestability-c)
 - [System Capture](core_05-05_definitions_a_independent.md#system-capture) · [O](core_05-05_definitions_a_independent.md#system-capture) · [E](core_05-05_definitions_a_independent.md#system-capture-e) · [C](core_05-05_definitions_a_independent.md#system-capture-c)
 

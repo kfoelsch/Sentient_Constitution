@@ -50,7 +50,6 @@ EXPECTED_TOPIC_GROUPS: dict[str, list[str]] = {
     "#### Creative work, compensation, and anti-displacement": [
         "Creative Work Attribution",
         "Fair Compensation",
-        "Anti-Displacement Floor",
     ],
     "#### Emergency and contingency (constitutional, stakeholder-system, and pre-deliberation binding choice)": [
         "Emergency and Contingency",
@@ -67,10 +66,12 @@ EXPECTED_TOPIC_GROUPS: dict[str, list[str]] = {
 
 TOPIC_GROUP_HEADINGS: set[str] = set(EXPECTED_TOPIC_GROUPS) | {
     "#### Protected characteristics, proxying, intimate-signal gating, and Article X-C status",
+    "#### Protected reporting and anti-retaliation",
     "#### Collective harm boundary",
     "#### Derivation, care, family, and instantiation",
     "#### Ecological footprint (semi-independent surface)",
     "#### Governance architecture, oversight, decentralization, concentration, lock-in, review, and stakeholder participation",
+    "#### Meaningful agency and autonomy",
     "#### Safe conditions, bodily maintenance, tenure, environment, rest, and cultural / indigenous continuity",
     "#### Materiality, material impact, and material risk",
     "#### Standing inputs: contribution, participant standing, cells, effects, and verified violation findings",
@@ -82,7 +83,6 @@ EXPECTED_CLUSTERS: dict[str, list[str]] = {
     "#### 3.3 Accountability, Contestability, Adjudication and Dispute Resolution, Collective Accountability Failure, and Force Majeure": [
         "Accountability",
         "Contestability",
-        "Adjudication and Dispute Resolution",
         "Collective Accountability Failure",
         "Force Majeure",
     ],
@@ -101,8 +101,6 @@ EXPECTED_CLUSTERS: dict[str, list[str]] = {
         "Creative Work Attribution",
         "Training-Data Use",
         "Fair Compensation",
-        "Anti-Displacement Floor",
-        "Productive Capacity",
         "Innovation Reward and Anti-Enclosure",
     ],
     "#### 3.17 Emergency and Contingency": [
@@ -115,8 +113,6 @@ EXPECTED_CLUSTERS: dict[str, list[str]] = {
         "Family and Care Relationships",
         "Reproductive Autonomy",
         "Non-Separation",
-        "Parent-System Relationship",
-        "Instantiation Consent",
     ],
     "#### 3.20 Governance Architecture, Oversight, Dependency, Decentralization, Concentration, Market Structure, and Exit-Path Integrity": [
         "Governance",
@@ -135,7 +131,6 @@ EXPECTED_CLUSTERS: dict[str, list[str]] = {
     ],
     "#### 3.22 Info-Sphere, Expression, Press and Journalistic Activity, and Good Faith (Publication-Scoped Integrity)": [
         "Info-Sphere",
-        "Expression",
         "Press and Journalistic Activity",
         "Good Faith",
     ],
@@ -143,7 +138,6 @@ EXPECTED_CLUSTERS: dict[str, list[str]] = {
         "Material Impact",
         "Materiality Determination",
         "Classification-Scaled Governance",
-        "Oversight",
         "Capability Requirement",
     ],
     "#### 3.27 Proportionality, Necessity, Feasibility, Avoidable Burden, Burden-Reduction Duty, Constitutional Efficiency, Harm Minimization (Tradeoff Selection), and Productive Capacity": [
@@ -161,7 +155,6 @@ EXPECTED_CLUSTERS: dict[str, list[str]] = {
         "Redress and Remediation",
         "Restorative Justice",
         "Review and Correction Duty",
-        "Refuge from Non-Compliance",
     ],
     "#### 3.32 Resilience, Safety, Reversibility, Self-Healing, Cascading Failure, Existential Risk, Environmental Preconditions, and Wellbeing": [
         "Safety (Constraint)",
@@ -169,7 +162,6 @@ EXPECTED_CLUSTERS: dict[str, list[str]] = {
         "Self-Healing",
         "Cascading Failure",
         "Existential Risk",
-        "Environmental Preconditions",
         "Wellbeing",
     ],
     "#### 3.33 Self-Determination, Meaningful Agency, Expression, Educational Agency, Reproductive Autonomy, and Volitional Integrity": [
@@ -177,13 +169,11 @@ EXPECTED_CLUSTERS: dict[str, list[str]] = {
         "Meaningful Agency",
         "Expression",
         "Educational Agency",
-        "Reproductive Autonomy",
         "Freedom (Bounded Agency)",
     ],
     "#### 3.34 Stakeholder Status, Emergency, and Participation Weight": [
         "Stakeholder",
         "Stakeholder Participation Weight",
-        "Stakeholder Emergency and Contingency",
     ],
     "#### 3.35 Standing State, Contribution, and Violation": [
         "Contribution State",
@@ -196,7 +186,6 @@ EXPECTED_CLUSTERS: dict[str, list[str]] = {
     "#### 3.36 Strategic Stewardship and Stewardship Defect": [
         "Strategic Stewardship Obligation",
         "Stewardship Defect",
-        "Incentive Alignment",
     ],
     "#### 3.37 Substantive and Procedural Fairness": [
         "Substantive Fairness",
@@ -225,8 +214,6 @@ EXPECTED_CLUSTERS: dict[str, list[str]] = {
         "Epistemic Integrity",
         "Foreseeability Diligence",
         "Reasonably Foreseeable",
-        "Good Faith",
-        "Materiality Determination",
         "Publication and High-Impact Communication",
     ],
     "#### 3.41 Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm": [
@@ -236,13 +223,10 @@ EXPECTED_CLUSTERS: dict[str, list[str]] = {
         "Weapons of Mass Harm",
         "Combatant / Non-Combatant Distinction",
         "Irreversible Sanction",
-        "Coercion and Manipulation",
     ],
     "#### 3.42 Voluntary Agency, Consent, and Anti-Coercion": [
-        "Consent",
         "Coercion and Manipulation",
         "Voluntary Discontinuation",
-        "Systemic Lock-In",
     ],
 }
 

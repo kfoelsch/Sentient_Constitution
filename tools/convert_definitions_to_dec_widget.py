@@ -98,9 +98,9 @@ CLUSTERED_HEADS = {
 # can be re-added here without reshaping the converter.
 MISSING_C: set[str] = set()
 
-# Title anchor remains an alphabetical stub; O/E/C bullets live under the
-# Self-Determination / Meaningful Agency / Educational Agency cluster.
-STUB_CLUSTER_OEC: frozenset[str] = frozenset(
+# These concepts use cluster-level O/E/C anchors rather than direct sibling
+# anchors on every local sub-entry heading.
+CLUSTER_OEC_FALLBACK: frozenset[str] = frozenset(
     {
         "educational-agency",
         "meaningful-agency",
@@ -368,7 +368,7 @@ def _targets(slug: str) -> tuple[str, str, str]:
     base = f"{file_base}#{slug}"
     if slug in CLUSTERED_HEADS:
         return base, base, base
-    if slug in STUB_CLUSTER_OEC:
+    if slug in CLUSTER_OEC_FALLBACK:
         return (
             f"{file_base}#{slug}-o",
             f"{file_base}#{slug}-e",

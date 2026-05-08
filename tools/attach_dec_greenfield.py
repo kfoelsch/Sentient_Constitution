@@ -80,9 +80,9 @@ MISSING_C = {
     "sentience-non-exclusion",
 }
 
-# Title anchor remains an alphabetical stub; O/E/C bullets live under the
-# Self-Determination cluster with explicit -o / -e / -c anchors.
-STUB_CLUSTER_OEC = {
+# These concepts use cluster-level O/E/C anchors rather than direct sibling
+# anchors on every local sub-entry heading.
+CLUSTER_OEC_FALLBACK = {
     "educational-agency",
     "meaningful-agency",
     "self-determination-constitutional",
@@ -172,7 +172,7 @@ def targets(name: str) -> tuple[str, str, str]:
     base = f"{fb}#{s}"
     if s in CLUSTERED_HEADS:
         return base, base, base
-    if s in STUB_CLUSTER_OEC:
+    if s in CLUSTER_OEC_FALLBACK:
         return f"{fb}#{s}-o", f"{fb}#{s}-e", f"{fb}#{s}-c"
     e = f"{fb}#{s}-e"
     if s in MISSING_C:

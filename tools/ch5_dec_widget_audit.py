@@ -118,7 +118,8 @@ STRUCTURAL_HEADINGS: set[str] = {
     "dependent-clusters-a-z",
     "all-definitions-and-clusters-a-z",
     "definitions-a-z-unified",
-    "reader-friendly-additions-to-consider",
+    "definitions-a-z",
+    "clusters-a-z",
     "1-independent-definitions",
     "1-interdependent-definitions",
     "2-semi-independent-definitions",
@@ -219,12 +220,13 @@ def collect_all_ch5_anchors(root: Path) -> set[str]:
 
 
 def directory_slugs_from_part_a(root: Path) -> set[str]:
-    """Slugs declared by the Chapter Five A–Z directory (includes stubs)."""
+    """Anchor fragments declared by the Chapter Five A-Z directory."""
     path = root / CH5_PART_A
     if not path.exists():
         return set()
     part_a = path.read_text(encoding="utf-8")
     unified_heading = "#### All definitions and clusters (A–Z)"
+    definitions_heading = "#### Definitions A-Z"
     directory_end_marker = "\n</details>"
     semi_marker = '<a id="semi-independent-definitions-a-z"></a>'
     dep_marker = '<a id="dependent-clusters-a-z"></a>'
@@ -254,6 +256,12 @@ def directory_slugs_from_part_a(root: Path) -> set[str]:
 
     if unified_heading in part_a:
         _, rest = part_a.split(unified_heading, 1)
+        block = rest.split(directory_end_marker, 1)[0]
+        scan_directory_block(block)
+        return out
+
+    if definitions_heading in part_a:
+        _, rest = part_a.split(definitions_heading, 1)
         block = rest.split(directory_end_marker, 1)[0]
         scan_directory_block(block)
         return out

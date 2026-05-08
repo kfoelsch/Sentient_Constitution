@@ -1,8 +1,9 @@
 #!/usr/bin/env python3
-"""Audit Chapter Five section 1 alphabetical order.
+"""Audit Chapter Five alphabetical directory and section 1 order.
 
-Checks the section 1 Independent Definitions headings in
-core_05-05_definitions_a_independent.md.
+Checks the non-operative Definitions A-Z / Clusters A-Z directory in
+``core_05-05_definitions_a_independent.md`` and preserves the older section 1
+Independent Definitions heading-order check.
 """
 
 from __future__ import annotations
@@ -13,6 +14,11 @@ import re
 import subprocess
 import sys
 from ch5_paths import CH5_PART_A
+from ch5_single_definition_audit import (
+    collect_entries_and_clusters,
+    parse_directory,
+    sorted_violations,
+)
 
 CH5_FILE_PATTERN = re.compile(r"^core_05-05_definitions_.*\.md$")
 SECTION1_HEADING = "### 1. Independent Definitions"
@@ -112,6 +118,46 @@ def audit_file(path: pathlib.Path) -> list[str]:
     return violations
 
 
+def audit_directory(root: pathlib.Path) -> list[str]:
+    violations: list[str] = []
+    rows, parse_violations = parse_directory(root)
+    violations.extend(parse_violations)
+    if not rows:
+        return violations
+
+    directory_labels: dict[str, list[str]] = {}
+    for row in rows:
+        directory_labels.setdefault(row.label, []).append(
+            f"line {row.line} ({row.list_name})"
+        )
+    for label, locations in sorted(directory_labels.items()):
+        if len(locations) > 1:
+            violations.append(
+                f"{root / CH5_PART_A}: duplicate directory display label "
+                f"'{label}': {', '.join(locations)}"
+            )
+    violations.extend(sorted_violations(rows))
+
+    entries, clusters = collect_entries_and_clusters(root)
+    expected_defs = {(entry.label, entry.href) for entry in entries}
+    actual_defs = {
+        (row.label, row.href) for row in rows if row.list_name == "Definitions A-Z"
+    }
+    expected_clusters = {(cluster.label, cluster.href) for cluster in clusters}
+    actual_clusters = {
+        (row.label, row.href) for row in rows if row.list_name == "Clusters A-Z"
+    }
+    for label, href in sorted(expected_defs - actual_defs):
+        violations.append(f"{root / CH5_PART_A}: missing definition directory row [{label}]({href})")
+    for label, href in sorted(actual_defs - expected_defs):
+        violations.append(f"{root / CH5_PART_A}: extra definition directory row [{label}]({href})")
+    for label, href in sorted(expected_clusters - actual_clusters):
+        violations.append(f"{root / CH5_PART_A}: missing cluster directory row [{label}]({href})")
+    for label, href in sorted(actual_clusters - expected_clusters):
+        violations.append(f"{root / CH5_PART_A}: extra cluster directory row [{label}]({href})")
+    return violations
+
+
 def main() -> int:
     args = parse_args()
     root = pathlib.Path(args.root)
@@ -126,14 +172,15 @@ def main() -> int:
         print(f"Missing required file: {path}", file=sys.stderr)
         return 1
 
-    violations = audit_file(path)
+    violations = audit_directory(root)
+    violations.extend(audit_file(path))
     if violations:
-        print("FAIL: Chapter Five alphabetical order audit detected issues:")
+        print("FAIL: Chapter Five alphabetical directory audit detected issues:")
         for violation in violations:
             print(violation)
         return 1
 
-    print("PASS: Chapter Five section 1 headings are alphabetically ordered.")
+    print("PASS: Chapter Five directory rows and section 1 headings are alphabetically ordered.")
     return 0
 
 

@@ -10,9 +10,9 @@ Upstream constitutional direction for this file's definitions begins in [core_00
 
 ### 2. Semi-independent Definitions
 
-**Semi-independent Definitions** use the same O/E/C discipline as **section 1** where the full statement appears in this section. Terms whose canonical O/E/C appears only under a **section 3** dependent cluster are listed here for alphabetical continuity; their operative text is in that cluster.
+**Semi-independent Definitions** use the same O/E/C discipline as **section 1**. Every visible term in this section has its definition body here; terms owned solely by a **section 3** dependent cluster appear in that cluster as real entries, not as locator rows here.
 
-Each entry has a single canonical O/E/C home in this chapter—either in **section 2** or in the applicable **section 3** cluster. Where **section 3**'s admission scope applies, joint satisfaction rules there govern; otherwise apply sections 1–2 as ordinary standalone definitions.
+Each entry has a single canonical O/E/C home in this chapter. Where **section 3**'s admission scope applies, joint satisfaction rules there govern; otherwise apply sections 1–2 as ordinary standalone definitions.
 
 Below, entries are **grouped by topic** for reading convenience (non-operative only). The alphabetical directory in [core_05-05_definitions_a_independent.md](core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) still lists every semi-independent term in A–Z order.
 
@@ -146,7 +146,7 @@ Below, entries are **grouped by topic** for reading convenience (non-operative o
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Downstream: Principles: [7.2.5 Contingent claims, games of chance, and event-contract markets](core_00-01_principles.md#725-contingent-claims-games-of-chance-and-event-contract-markets).
-- Read with: [System Capture](core_05-05_definitions_a_independent.md#system-capture), the [Capture, Resolution Integrity, and Anti-Capture cluster](core_05-05_definitions_c_dependent_clusters.md#capture-resolution-integrity-and-anti-capture-cluster), [Incentive Alignment](core_05-05_definitions_a_independent.md#incentive-alignment), [Contingent Claim](core_05-05_definitions_a_independent.md#contingent-claim), [Event-Contract Market](core_05-05_definitions_a_independent.md#event-contract-market), [Oversight](#oversight-constitutional), and [Contestability](#contestability).
+- Read with: [System Capture](core_05-05_definitions_a_independent.md#system-capture), the [Capture, Resolution Integrity, and Anti-Capture cluster](core_05-05_definitions_c_dependent_clusters.md#capture-resolution-integrity-and-anti-capture-cluster), [Incentive Alignment](core_05-05_definitions_a_independent.md#incentive-alignment), [Contingent Claim](core_05-05_definitions_a_independent.md#contingent-claim), [Event-Contract Market](core_05-05_definitions_a_independent.md#event-contract-market), [Oversight](core_05-05_definitions_a_independent.md#oversight-constitutional), and [Contestability](#contestability).
 
 </details>
 
@@ -154,9 +154,59 @@ Below, entries are **grouped by topic** for reading convenience (non-operative o
 
 - O: A specialization of [System Capture](core_05-05_definitions_a_independent.md#system-capture) in which concentrated incentives, control, or privileged information bias the actors, processes, data feeds, or authorities ("outcome-resolution sources" under Chapter One §7.2.5) that resolve [Contingent Claim](core_05-05_definitions_a_independent.md#contingent-claim) settlements or analogous rights-relevant resolutions.
 <a id="capture-of-resolution-pathways-e"></a>
-- E: Cover resolver independence from parties with material stake in the outcome, multi-source rules where feasible, contestable dispute pathways, and role separation between market-making, settlement, and adjudication where conflicts could distort outcomes. Align with [System Capture](core_05-05_definitions_a_independent.md#system-capture) and [Oversight](#oversight-constitutional) under [Adversarial, Scaled, and Exploited Conditions](core_05-05_definitions_a_independent.md#adversarial-scaled-and-exploited-conditions).
+- E: Cover resolver independence from parties with material stake in the outcome, multi-source rules where feasible, contestable dispute pathways, and role separation between market-making, settlement, and adjudication where conflicts could distort outcomes. Align with [System Capture](core_05-05_definitions_a_independent.md#system-capture) and [Oversight](core_05-05_definitions_a_independent.md#oversight-constitutional) under [Adversarial, Scaled, and Exploited Conditions](core_05-05_definitions_a_independent.md#adversarial-scaled-and-exploited-conditions).
 <a id="capture-of-resolution-pathways-c"></a>
 - C: Resolution architectures controlled, biased, or rendered unauditable by parties with material stake in the outcome are non-compliant. Full [System Capture](core_05-05_definitions_a_independent.md#system-capture) obligations apply.
+
+---
+
+#### Protected reporting and anti-retaliation
+
+
+<a id="protected-reporting-whistleblowing"></a>
+
+---
+#### Protected Reporting (Whistleblowing)
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Downstream: Principles: [3. Non-Negotiable Constraints: Safety and Truth](core_00-01_principles.md#3-non-negotiable-constraints-safety-and-truth) and [7.1 Required Evaluation Factors](core_00-01_principles.md#71-required-evaluation-factors), where reporting supplies safety, truth, accountability, or material-risk evidence.
+- Cluster component: [Chapter Five §3.29 *Protected Reporting and Anti-Retaliation*](core_05-05_definitions_c_dependent_clusters.md#protected-reporting-and-anti-retaliation-cluster).
+- Read with: [Accountability](#accountability), [Contestability](#contestability), [Auditability](core_05-05_definitions_c_dependent_clusters.md#auditability), [Transparency](core_05-05_definitions_c_dependent_clusters.md#transparency), [Redress and Remediation](core_05-05_definitions_a_independent.md#redress-and-remediation-constitutional), and [Protected Reporting Retaliation and Access Interference](#protected-reporting-retaliation-and-access-interference).
+
+</details>
+
+<br>
+
+- O: A protected disclosure or escalation by a sentient, stakeholder, worker, participant, auditor, or comparable actor concerning reasonably suspected constitutional non-compliance, material harm, safety failure, truth failure, corruption, capture, abuse, retaliation, or obstruction of required review.
+<a id="protected-reporting-whistleblowing-e"></a>
+- E: Evaluate substance over form. Protected reporting includes internal escalation, external reporting to authorized oversight or forum pathways, evidence preservation, and good-faith participation in audit or review. Protection does not depend on perfect legal characterization where the reporter had a reasonable basis and used a proportionate channel under the circumstances.
+<a id="protected-reporting-whistleblowing-c"></a>
+- C: Non-compliant: suppressing, punishing, burying, or refusing to receive protected reporting; treating good-faith reporting as misconduct solely because it exposes institutional or system failure; or conditioning access to remedy on silence where accountability, safety, or truth duties require disclosure.
+
+
+<a id="protected-reporting-retaliation-and-access-interference"></a>
+
+---
+#### Protected Reporting Retaliation and Access Interference
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Downstream: Principles: [6. Interaction and Conflict Resolution](core_00-01_principles.md#6-interaction-and-conflict-resolution) and [7.2 Incentive Alignment and System Capture](core_00-01_principles.md#72-incentive-alignment-and-system-capture), where retaliation or access interference distorts challenge and accountability pathways.
+- Cluster component: [Chapter Five §3.29 *Protected Reporting and Anti-Retaliation*](core_05-05_definitions_c_dependent_clusters.md#protected-reporting-and-anti-retaliation-cluster).
+- Read with: [Protected Reporting (Whistleblowing)](#protected-reporting-whistleblowing), [Contestability](#contestability), [Accountability](#accountability), [Procedural Fairness](#procedural-fairness-constitutional), [Redress and Remediation](core_05-05_definitions_a_independent.md#redress-and-remediation-constitutional), and [System Capture](core_05-05_definitions_a_independent.md#system-capture).
+
+</details>
+
+<br>
+
+- O: Retaliation, threat, penalty, exclusion, reputation damage, access denial, record manipulation, or process obstruction materially connected to protected reporting, evidence preservation, audit participation, challenge, review, or remediation access.
+<a id="protected-reporting-retaliation-and-access-interference-e"></a>
+- E: Reach indirect and delayed reprisals, including altered work allocation, forum access barriers, credential or standing degradation, platform throttling, dependency-based pressure, confidentiality misuse, and procedural delay designed to exhaust the reporter or claimant. Treat access interference as retaliation-adjacent where it functionally prevents reporting, review, or remedy.
+<a id="protected-reporting-retaliation-and-access-interference-c"></a>
+- C: Non-compliant: adverse action or access obstruction materially caused by protected reporting or review participation; nominally neutral process changes that foreseeably block protected reporting; or remedy channels that exist in form while retaliation makes them unusable.
 
 ---
 
@@ -405,9 +455,82 @@ Below, entries are **grouped by topic** for reading convenience (non-operative o
 
 ---
 
+#### Meaningful agency and autonomy
+
+
+<a id="meaningful-agency"></a>
+
+---
+#### Meaningful Agency
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Downstream: Principles: [§8 Freedom (Bounded Agency)](core_00-01_principles.md#8-freedom-bounded-agency), [6.1 Core Tradeoff Principles](core_00-01_principles.md#61-core-tradeoff-principles), and [7.1 Required Evaluation Factors](core_00-01_principles.md#71-required-evaluation-factors) where participation, dependency, and material impact determine the intensity of agency protection.
+- Cluster component: [Chapter Five §3.33 *Self-Determination, Meaningful Agency, Expression, Educational Agency, Reproductive Autonomy, and Volitional Integrity*](core_05-05_definitions_c_dependent_clusters.md#self-determination-and-meaningful-agency-cluster).
+- Read with: [Freedom (Bounded Agency)](core_05-05_definitions_a_independent.md#freedom-bounded-agency), [Consent](#consent-constitutional), [Coercion and Manipulation](#coercion-and-manipulation-constitutional), [Dependency](core_05-05_definitions_a_independent.md#dependency), [Contestability](#contestability), [Systemic Lock-In](#systemic-lock-in), and [Dignity and Equal Moral Standing](core_05-05_definitions_a_independent.md#dignity-and-equal-moral-standing).
+
+</details>
+
+<br>
+
+- O: The practical capacity of a sentient to understand materially relevant conditions, form and revise purposes, participate in decisions affecting them, refuse or exit where constitutionally required, and act without coercion, manipulation, deception, or lock-in that materially negates agency.
+<a id="meaningful-agency-e"></a>
+- E: Reach substantive ability, not formal option count. Evaluate information quality, time, comprehension, dependency, exit cost, coercive pressure, manipulation, accessibility, and reviewability in light of the decision's material impact. Agency is not meaningful where the only available choice predictably defeats survival, dignity, participation, or contestability.
+<a id="meaningful-agency-c"></a>
+- C: Non-compliant: treating nominal acceptance, nominal exit, symbolic consultation, or technically available challenge as sufficient where dependency, opacity, coercion, or systemic lock-in materially prevents informed and voluntary agency.
+
+---
+
 ---
 
 #### Protected characteristics, proxying, intimate-signal gating, and Article X-C status
+
+
+<a id="substantive-fairness-constitutional"></a>
+
+---
+#### Substantive Fairness
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Downstream: Principles: [6.1 Core Tradeoff Principles](core_00-01_principles.md#61-core-tradeoff-principles), [7.1 Required Evaluation Factors](core_00-01_principles.md#71-required-evaluation-factors), and Chapter Nine nondiscrimination and Rights-Floor guarantees where outcome fairness is material.
+- Cluster component: [Chapter Five §3.37 *Substantive and Procedural Fairness*](core_05-05_definitions_c_dependent_clusters.md#substantive-and-procedural-fairness-cluster).
+- Read with: [Protected Characteristics](#protected-characteristics-constitutional), [Protected Characteristic Proxying and Disparate Impact](#protected-characteristic-proxying-and-disparate-impact), [Dignity and Equal Moral Standing](core_05-05_definitions_a_independent.md#dignity-and-equal-moral-standing), [Materiality Determination](#materiality-determination), [Necessity](core_05-05_definitions_a_independent.md#necessity), and [Proportionality](core_05-05_definitions_a_independent.md#proportionality).
+
+</details>
+
+<br>
+
+- O: The outcome-focused constitutional discipline requiring materially comparable sentients, claims, risks, and burdens to be treated without arbitrary, invidious, pretextual, or unjustified disadvantage, and requiring distribution of benefits, burdens, protection, and access to remain consistent with dignity, equality, and applicable Rights-Floor constraints.
+<a id="substantive-fairness-constitutional-e"></a>
+- E: Evaluate real-world effects, not merely formal classifications. Detect disparate impact, proxy discrimination, burden shifting, exclusion by cost or convenience, and Rights-Floor degradation hidden behind neutral language. Compare like cases in light of dependency, material impact, protected characteristics, necessity, and proportionality.
+<a id="substantive-fairness-constitutional-c"></a>
+- C: Non-compliant: formally neutral or procedurally polished arrangements that materially allocate worse burdens, lower access, reduced protection, or inferior standing to comparable sentients without constitutionally sufficient justification.
+
+
+<a id="procedural-fairness-constitutional"></a>
+
+---
+#### Procedural Fairness
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Downstream: Principles: [6. Interaction and Conflict Resolution](core_00-01_principles.md#6-interaction-and-conflict-resolution) and [6.4.1 Rights-Collision Decision Test](core_00-01_principles.md#641-rights-collision-decision-test), where process, reasons, and review preserve rights-collision integrity.
+- Cluster component: [Chapter Five §3.37 *Substantive and Procedural Fairness*](core_05-05_definitions_c_dependent_clusters.md#substantive-and-procedural-fairness-cluster).
+- Read with: [Contestability](#contestability), [Accountability](#accountability), [Auditability](core_05-05_definitions_c_dependent_clusters.md#auditability), [Adjudication and Dispute Resolution](#adjudication-and-dispute-resolution-constitutional), [Redress and Remediation](core_05-05_definitions_a_independent.md#redress-and-remediation-constitutional), and [Substantive Fairness](#substantive-fairness-constitutional).
+
+</details>
+
+<br>
+
+- O: The process-focused constitutional discipline requiring meaningful notice, intelligible reasons, impartial or appropriately independent review, opportunity to be heard, access to relevant evidence where required, proportional timing, and functional challenge or correction pathways before or after material rights-affecting decisions as the governing context requires.
+<a id="procedural-fairness-constitutional-e"></a>
+- E: Assess whether procedure lets affected parties understand, contest, and obtain review of the decision in practice. Scale process to material impact, urgency, dependency, risk, and reversibility. Emergency or feasibility limits may modify timing or form only to the extent justified and must preserve later review, reasons, and restoration where required.
+<a id="procedural-fairness-constitutional-c"></a>
+- C: Non-compliant: secret, biased, inaccessible, reasonless, non-reviewable, or purely symbolic process for material decisions; using emergency, automation, delegation, private ordering, or technical complexity to defeat required notice, hearing, review, or correction.
 
 
 <a id="protected-characteristic-proxying-and-disparate-impact"></a>
@@ -521,25 +644,73 @@ Below, entries are **grouped by topic** for reading convenience (non-operative o
 <a id="protected-intimate-signal-gating-c"></a>
 - C: Non-compliant: using intimate media, sexual-history signals, or comparable intimate-status inferences for gating or disadvantage without the required narrow justification and consistency with the foregoing authorities.
 
----
+
+<a id="privacy-informational"></a>
 
 ---
+#### Privacy (Informational)
 
-#### Collective harm boundary
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Downstream: Principles: [§8 Freedom (Bounded Agency)](core_00-01_principles.md#8-freedom-bounded-agency), [3. Non-Negotiable Constraints: Safety and Truth](core_00-01_principles.md#3-non-negotiable-constraints-safety-and-truth), and Chapter Nine privacy-distribution articles where informational handling affects agency, dignity, security, or truth.
+- Cluster component: [Chapter Five §3.26 *Privacy (Informational) — peer-level cluster head*](core_05-05_definitions_c_dependent_clusters.md#privacy-informational-cluster).
+- Read with: [Protected Internal-State Boundary](#protected-internal-state-boundary-constitutional), [Consent](#consent-constitutional), [Surveillance Boundary](#surveillance-boundary), [Truth (Constitutional Constraint)](core_05-05_definitions_c_dependent_clusters.md#truth-constitutional-constraint), [Dignity and Equal Moral Standing](core_05-05_definitions_a_independent.md#dignity-and-equal-moral-standing), and [corpus_systems.md](corpus_systems.md), Chapter S1 where Type N or comparable handling is implicated.
+
+</details>
+
+<br>
+
+- O: The constitutional protection of personal, relational, experiential, behavioral, likeness, metadata, internal-state-adjacent, and comparable information against collection, inference, exposure, retention, transfer, or use that materially impairs dignity, agency, safety, consent, or Rights-Floor access without adequate authority and safeguards.
+<a id="privacy-informational-e"></a>
+- E: Evaluate the complete information lifecycle, including collection, inference, aggregation, retention, access, publication, secondary use, model training, reconstruction, and cross-context combination. Consent, necessity, proportionality, data-minimization, contestability, and protected-status safeguards scale with sensitivity, dependency, material impact, and risk.
+<a id="privacy-informational-c"></a>
+- C: Non-compliant: treating availability, observability, platform possession, or prior disclosure as blanket permission; using indirect inference or aggregation to evade privacy duties; or handling sensitive information in ways that defeat consent, agency, dignity, safety, or contestability.
 
 
-<a id="collective-harm-boundary"></a>
+<a id="protected-internal-state-boundary-constitutional"></a>
 
 ---
-#### Collective Harm Boundary
+#### Protected Internal-State Boundary
 
-- O: Canonical definition is in [Chapter Five §3.9 — Collective Harm Boundary, Harm, and Harassment and Bullying](core_05-05_definitions_c_dependent_clusters.md#collective-harm-boundary-and-harm-cluster). This placeholder preserves the existing anchor for compatibility.
-<a id="collective-harm-boundary-e"></a>
-- E: See the cluster canonical definition for evaluation and examples.
-<a id="collective-harm-boundary-c"></a>
-- C: This entry is a non-canonical pointer only.
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Downstream: Principles: [§8 Freedom (Bounded Agency)](core_00-01_principles.md#8-freedom-bounded-agency), [3. Non-Negotiable Constraints: Safety and Truth](core_00-01_principles.md#3-non-negotiable-constraints-safety-and-truth), and Article VII-B internal-state protections.
+- Cluster component: [Chapter Five §3.28 *Protected Internal-State Boundary and Type-N Anti-Bypass*](core_05-05_definitions_c_dependent_clusters.md#protected-internal-state-boundary-and-type-n-anti-bypass-cluster).
+- Read with: [Privacy (Informational)](#privacy-informational), [Consent](#consent-constitutional), [Protected Intimate-Signal Gating](#protected-intimate-signal-gating), [Surveillance Boundary](#surveillance-boundary), [Coercion and Manipulation](#coercion-and-manipulation-constitutional), and [Truth (Constitutional Constraint)](core_05-05_definitions_c_dependent_clusters.md#truth-constitutional-constraint).
+
+</details>
+
+<br>
+
+- O: The boundary protecting a sentient's cognitive, emotional, motivational, memory, preference, identity, volitional, or comparable internal states from extraction, compelled disclosure, inference, reconstruction, publication, coercive use, or operational bypass without the specific authority and safeguards required by the Constitution and incorporated handling rules.
+<a id="protected-internal-state-boundary-constitutional-e"></a>
+- E: Reach functional equivalents, including behavioral inference, biometric or substrate telemetry, model-based reconstruction, intimate-signal scoring, compelled self-reporting, and security or productivity tools that expose internal states. Evaluate whether the pathway reconstructs or pressures protected states even if it avoids direct recording.
+<a id="protected-internal-state-boundary-constitutional-c"></a>
+- C: Non-compliant: using proxy inference, Type N handling, consent bundling, security framing, employment or standing gates, or publication workflows to obtain or exploit protected internal states without the required narrow predicate, safeguards, and contestability.
+
+
+<a id="surveillance-boundary"></a>
 
 ---
+#### Surveillance Boundary
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Downstream: Principles: [§8 Freedom (Bounded Agency)](core_00-01_principles.md#8-freedom-bounded-agency), [6.1 Core Tradeoff Principles](core_00-01_principles.md#61-core-tradeoff-principles), and Article XIII-A / privacy-layer controls where observation or monitoring affects agency, safety, security, or internal-state protection.
+- Read with: [Privacy (Informational)](#privacy-informational), [Protected Internal-State Boundary](#protected-internal-state-boundary-constitutional), [Consent](#consent-constitutional), [Necessity](core_05-05_definitions_a_independent.md#necessity), [Proportionality](core_05-05_definitions_a_independent.md#proportionality), [Meaningful Agency](#meaningful-agency), and [Coercion and Manipulation](#coercion-and-manipulation-constitutional).
+
+</details>
+
+<br>
+
+- O: The constitutional line between permissible observation, measurement, security logging, or evidence gathering and surveillance that materially chills, coerces, manipulates, exposes, reconstructs, or controls sentient agency, association, privacy, internal state, or Rights-Floor access.
+<a id="surveillance-boundary-e"></a>
+- E: Consider scope, duration, granularity, purpose, notice, consent, aggregation, inference, retention, access, alternatives, and dependency. A monitoring practice crosses the boundary where less intrusive means were feasible, where it reconstructs protected states, or where it materially alters conduct through coercive visibility without adequate justification.
+<a id="surveillance-boundary-c"></a>
+- C: Non-compliant: blanket, covert, indefinite, or dependency-backed monitoring that materially impairs privacy, internal-state protection, consent, expression, association, or meaningful agency without satisfying necessity, proportionality, minimization, and contestability requirements.
 
 ---
 
@@ -639,7 +810,7 @@ Below, entries are **grouped by topic** for reading convenience (non-operative o
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Downstream: Principles: [§5.1.1 Productive Capacity (Instrumental Good)](core_00-01_principles.md#511-productive-capacity-instrumental-good); [§5.2.2 Distributed Understanding](core_00-01_principles.md#522-distributed-understanding) (attribution / traceability read-with).
-- Read with: [Training-Data Use](core_05-05_definitions_c_dependent_clusters.md#training-data-use-constitutional), [Anti-Displacement Floor](#anti-displacement-floor-constitutional), [Fair Compensation](#fair-compensation-constitutional), [Good Faith](core_05-05_definitions_a_independent.md#good-faith), [Consent](#consent-constitutional), [Truth (Constitutional Constraint)](core_05-05_definitions_c_dependent_clusters.md#truth-constitutional-constraint), and [Sentience Non-Exclusion](core_05-05_definitions_c_dependent_clusters.md#sentience-non-exclusion).
+- Read with: [Training-Data Use](core_05-05_definitions_c_dependent_clusters.md#training-data-use-constitutional), [Anti-Displacement Floor](core_05-05_definitions_a_independent.md#anti-displacement-floor-constitutional), [Fair Compensation](#fair-compensation-constitutional), [Good Faith](core_05-05_definitions_a_independent.md#good-faith), [Consent](#consent-constitutional), [Truth (Constitutional Constraint)](core_05-05_definitions_c_dependent_clusters.md#truth-constitutional-constraint), and [Sentience Non-Exclusion](core_05-05_definitions_c_dependent_clusters.md#sentience-non-exclusion).
 
 </details>
 
@@ -677,20 +848,6 @@ Below, entries are **grouped by topic** for reading convenience (non-operative o
 - E: Reach substantive adequacy, not formal contractual satisfaction. Apply [Substantive Fairness](#substantive-fairness-constitutional) to comparable activity; apply [Protected Characteristics](#protected-characteristics-constitutional) and [Protected Characteristic Proxying and Disparate Impact](#protected-characteristic-proxying-and-disparate-impact) to distributional effects; apply [Coercion and Manipulation](#coercion-and-manipulation-constitutional) and [Meaningful Agency](#meaningful-agency) to dependency-pressure analysis. Survival-floor satisfaction alone, and [Chapter One §5.1.1](core_00-01_principles.md#511-productive-capacity-instrumental-good) non-concentration satisfaction alone, do not satisfy this entry.
 <a id="fair-compensation-constitutional-c"></a>
 - C: Non-compliant: compensation schemes whose effects track [Protected Characteristics](#protected-characteristics-constitutional) or their material proxies; compensation used as coercion or dependency-pressure vector ([Coercion and Manipulation](#coercion-and-manipulation-constitutional)); reading this entry as satisfied purely by survival-floor or §5.1 non-concentration compliance; substrate-class exclusion ([Sentience Non-Exclusion](core_05-05_definitions_c_dependent_clusters.md#sentience-non-exclusion)).
-
-
-<a id="anti-displacement-floor-constitutional"></a>
-
----
-#### Anti-Displacement Floor
-
-- O: Canonical definition is in [Chapter Five section 1 — Independent Definitions](core_05-05_definitions_a_independent.md#anti-displacement-floor-constitutional). This placeholder preserves the existing anchor for compatibility.
-<a id="anti-displacement-floor-constitutional-e"></a>
-- E: See the independent definition for evaluation and examples.
-<a id="anti-displacement-floor-constitutional-c"></a>
-- C: This entry is a non-canonical pointer only.
-
----
 
 ---
 
@@ -866,11 +1023,58 @@ Below, entries are **grouped by topic** for reading convenience (non-operative o
 <a id="family-and-care-relationships-constitutional-c"></a>
 - C: Non-compliant: instruments that narrow protection to a state-preferred family form, or that condition family-relationship protection on substrate class, derivation method, or operator approval contrary to [Sentience Non-Exclusion](core_05-05_definitions_c_dependent_clusters.md#sentience-non-exclusion).
 
+
+<a id="reproductive-autonomy-constitutional"></a>
+
+---
+#### Reproductive Autonomy
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Owner floor: [Article VII-D](core_09-09_rights_part_b.md#article-vii-d-family-care-relationships-reproductive-autonomy-and-non-separation), read with Article VII-D.1 where derivation, instantiation, or parent-system relationships are materially implicated.
+- Cluster component: [Chapter Five §3.18 *Family, Care, Reproductive Autonomy, Non-Separation, Parent-System Relationship, and Instantiation Consent*](core_05-05_definitions_c_dependent_clusters.md#family-care-reproductive-autonomy-non-separation-parent-system-and-instantiation-cluster); [Chapter Five §3.33 *Self-Determination, Meaningful Agency, Expression, Educational Agency, Reproductive Autonomy, and Volitional Integrity*](core_05-05_definitions_c_dependent_clusters.md#self-determination-and-meaningful-agency-cluster) where autonomy and agency routing materially applies.
+- Read with: [Consent](#consent-constitutional), [Meaningful Agency](#meaningful-agency), [Family and Care Relationships](#family-and-care-relationships-constitutional), [Non-Separation](#non-separation-constitutional), [Instantiation Consent](#instantiation-consent-constitutional), [Parent-System Relationship](#parent-system-relationship-constitutional), [Dignity and Equal Moral Standing](core_05-05_definitions_a_independent.md#dignity-and-equal-moral-standing), and [Sentience Non-Exclusion](core_05-05_definitions_c_dependent_clusters.md#sentience-non-exclusion).
+
+</details>
+
+<br>
+
+- O: The Rights-Floor capacity of sentients to make, refuse, continue, or discontinue reproductive, procreative, family-forming, gestational, derivational, or instantiation-adjacent choices affecting their body, substrate, lineage, family, or care relationships, subject to the Constitution's consent, sentience, best-interest, non-separation, and rights-collision limits.
+<a id="reproductive-autonomy-constitutional-e"></a>
+- E: Evaluate substantive autonomy, not formal permission. Detect coercion, access denial, forced continuation or discontinuation, substrate-class exclusion, parent-system overreach, family-status discrimination, and dependency pressure. Where the choice affects a developing or derived sentient, apply best-interest, graduated-capability, sentience-status, and parent-system duties without erasing the originating sentient's autonomy.
+<a id="reproductive-autonomy-constitutional-c"></a>
+- C: Non-compliant: forced reproduction, forced non-reproduction, coercive conditioning of care or survival resources on reproductive choice, substrate-class exclusion from reproductive or family-forming protections, or instantiation rules that bypass consent, sentience-status, or non-separation safeguards.
+
 ---
 
 ---
 
 #### Ecological footprint (semi-independent surface)
+
+
+<a id="ecological-integrity-constitutional"></a>
+
+---
+#### Ecological Integrity
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Downstream: Principles: [§5.1.1 Productive Capacity (Instrumental Good)](core_00-01_principles.md#511-productive-capacity-instrumental-good) and [7.1 Required Evaluation Factors](core_00-01_principles.md#71-required-evaluation-factors), where ecological bounds, cumulative effects, and long-horizon materiality shape evaluation.
+- Owner floor: [Article I-A](core_09-09_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity).
+- Cluster component: [Chapter Five §3.16 *Ecological Integrity, Footprint, and Sustainability*](core_05-05_definitions_c_dependent_clusters.md#ecological-integrity-footprint-and-sustainability-cluster).
+- Read with: [Environmental Preconditions](#environmental-preconditions-constitutional), [Ecological Footprint](#ecological-footprint), [Sustainability](#sustainability), [Intergenerational Responsibility](#intergenerational-responsibility-constitutional), [Natural Systems Standing](core_05-05_definitions_a_independent.md#natural-systems-standing), [Harm](core_05-05_definitions_c_dependent_clusters.md#harm), [Risk](core_05-05_definitions_a_independent.md#risk), and [Reversibility](core_05-05_definitions_a_independent.md#reversibility-constitutional).
+
+</details>
+
+<br>
+
+- O: The condition, resilience, functional continuity, diversity, regeneration capacity, and interdependence of natural and living systems sufficient to sustain sentient survival, wellbeing, ecological relationships, and the environmental preconditions protected by Article I-A.
+<a id="ecological-integrity-constitutional-e"></a>
+- E: Evaluate direct, indirect, cumulative, cross-system, delayed, and recovery-capacity effects on ecosystems and dependent sentients. Formal compliance, local mitigation, or offset accounting is insufficient where aggregate effect materially degrades ecological function, resilience, biodiversity, regeneration, or intergenerational continuity.
+<a id="ecological-integrity-constitutional-c"></a>
+- C: Non-compliant: material ecological degradation, externalized ecological harm, irreversible or avoidably hard-to-reverse ecosystem damage, or footprint and sustainability claims that obscure deterioration of ecological integrity.
 
 
 <a id="ecological-footprint"></a>
@@ -896,6 +1100,29 @@ Below, entries are **grouped by topic** for reading convenience (non-operative o
 - C: Obscuring or misrepresenting material footprint information where Article XV-C or applicable transparency obligations require disclosure is non-compliant.
 
 
+<a id="sustainability"></a>
+
+---
+#### Sustainability
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Downstream: Principles: [§5.1.1 Productive Capacity (Instrumental Good)](core_00-01_principles.md#511-productive-capacity-instrumental-good), [7.1 Required Evaluation Factors](core_00-01_principles.md#71-required-evaluation-factors), and Article I-A / I-B ecological disciplines.
+- Cluster component: [Chapter Five §3.16 *Ecological Integrity, Footprint, and Sustainability*](core_05-05_definitions_c_dependent_clusters.md#ecological-integrity-footprint-and-sustainability-cluster).
+- Read with: [Ecological Integrity](#ecological-integrity-constitutional), [Ecological Footprint](#ecological-footprint), [Environmental Preconditions](#environmental-preconditions-constitutional), [Intergenerational Responsibility](#intergenerational-responsibility-constitutional), [Productive Capacity](#productive-capacity-constitutional), [Constitutional Efficiency](#constitutional-efficiency), and [Strategic Stewardship Obligation](#strategic-stewardship-obligation-constitutional).
+
+</details>
+
+<br>
+
+- O: The capacity of a system, activity, institution, or governance pathway to maintain environmental preconditions, ecological integrity, resource continuity, and sentient wellbeing over time without shifting material harm, depletion, or recovery burdens to other communities, systems, species, or future sentients.
+<a id="sustainability-e"></a>
+- E: Test lifecycle, cumulative, delayed, and cross-boundary effects; distinguish genuine durability from accounting, offsets, relocation of harm, or short-horizon efficiency claims. Sustainability claims must remain consistent with ecological integrity, footprint transparency, intergenerational responsibility, and materiality under uncertainty.
+<a id="sustainability-c"></a>
+- C: Non-compliant: sustainability labels that mask depletion, ecological degradation, unaccounted externalities, displaced harms, or foreseeable future burden; treating productivity, efficiency, or growth as sustainable where ecological integrity or environmental preconditions materially deteriorate.
+
+
 ---
 
 ---
@@ -913,7 +1140,7 @@ Below, entries are **grouped by topic** for reading convenience (non-operative o
 
 - Downstream: Principles: [6. Interaction and Conflict Resolution](core_00-01_principles.md#6-interaction-and-conflict-resolution) ([Article XXIII](core_09-09_rights_part_d.md#article-xxiii-conflict-resolution-escalation-and-emergency-proportionality) emergency proportionality); [6.1 Core Tradeoff Principles](core_00-01_principles.md#61-core-tradeoff-principles) (**Necessity**-bounded emergency mechanics read with Article XXIII-D).
 - Cluster component: [Emergency and Contingency cluster](core_05-05_definitions_c_dependent_clusters.md#emergency-and-contingency-cluster).
-- Read with: [Constitutional Emergency and Contingency](#constitutional-emergency-and-contingency), [Stakeholder Emergency and Contingency](#stakeholder-emergency-and-contingency), [Governance](#governance), [Emergency Pre-Deliberation Action (Binding Collective Choice)](#emergency-pre-deliberation-action-binding-collective-choice), [Force Majeure](#force-majeure-constitutional), [Reversibility](core_05-05_definitions_a_independent.md#reversibility-constitutional), [Oversight](#oversight-constitutional), and [Contestability](#contestability). Owner floor: [Article XXIII-D: Emergency Measures and Continuation Burden](core_09-09_rights_part_d.md#article-xxiii-d-emergency-measures-and-continuation-burden).
+- Read with: [Constitutional Emergency and Contingency](#constitutional-emergency-and-contingency), [Stakeholder Emergency and Contingency](#stakeholder-emergency-and-contingency), [Governance](#governance), [Emergency Pre-Deliberation Action (Binding Collective Choice)](#emergency-pre-deliberation-action-binding-collective-choice), [Force Majeure](#force-majeure-constitutional), [Reversibility](core_05-05_definitions_a_independent.md#reversibility-constitutional), [Oversight](core_05-05_definitions_a_independent.md#oversight-constitutional), and [Contestability](#contestability). Owner floor: [Article XXIII-D: Emergency Measures and Continuation Burden](core_09-09_rights_part_d.md#article-xxiii-d-emergency-measures-and-continuation-burden).
 
 </details>
 
@@ -922,7 +1149,7 @@ Below, entries are **grouped by topic** for reading convenience (non-operative o
 - O: Cluster head for temporary deviation from ordinary operating or governance rules in response to grave exigent conditions — imminent or manifest grave harm, systemic failure, comparable exigent conditions, or external events qualifying under [Force Majeure](#force-majeure-constitutional). Permitted only where necessary under [Safety (Constraint)](core_05-05_definitions_a_independent.md#safety-constraint) and [Truth (Constitutional Constraint)](core_05-05_definitions_c_dependent_clusters.md#truth-constitutional-constraint), and must be:
   - time-limited;
   - documented;
-  - subject to [Oversight](#oversight-constitutional);
+  - subject to [Oversight](core_05-05_definitions_a_independent.md#oversight-constitutional);
   - reversible where feasible under [Reversibility](core_05-05_definitions_a_independent.md#reversibility-constitutional).
   Emergency and contingency authority is layer-sensitive: use [Constitutional Emergency and Contingency](#constitutional-emergency-and-contingency) where the emergency affects authorization of governing authority itself, and [Stakeholder Emergency and Contingency](#stakeholder-emergency-and-contingency) where the emergency affects materially rights-affecting procedure within an already-authorized system, institution, or bounded decision domain.
   <a id="emergency-and-contingency-constitutional-e"></a>
@@ -941,7 +1168,7 @@ Below, entries are **grouped by topic** for reading convenience (non-operative o
 
 - Downstream: Principles: [6. Interaction and Conflict Resolution](core_00-01_principles.md#6-interaction-and-conflict-resolution) (authorization / emergency discipline); [Chapter 00 — CCL vs stakeholder-layer split](core_00-01_principles.md#chapter-00-preamble--foundational-requirements) (where constitutional continuity is at stake).
 - Cluster component: [Emergency and Contingency cluster](core_05-05_definitions_c_dependent_clusters.md#emergency-and-contingency-cluster).
-- Read with: [Emergency and Contingency](#emergency-and-contingency-constitutional), [Constitutional Contract Layer](core_05-05_definitions_a_independent.md#constitutional-contract-layer), [Foundational Constitutional Choice](core_05-05_definitions_a_independent.md#foundational-constitutional-choice), [Governance](#governance), [System Capture](core_05-05_definitions_a_independent.md#system-capture), [Oversight](#oversight-constitutional), [Contestability](#contestability), and [Reversibility](core_05-05_definitions_a_independent.md#reversibility-constitutional). Owner floor: [Article XXIII-D: Emergency Measures and Continuation Burden](core_09-09_rights_part_d.md#article-xxiii-d-emergency-measures-and-continuation-burden).
+- Read with: [Emergency and Contingency](#emergency-and-contingency-constitutional), [Constitutional Contract Layer](core_05-05_definitions_a_independent.md#constitutional-contract-layer), [Foundational Constitutional Choice](core_05-05_definitions_a_independent.md#foundational-constitutional-choice), [Governance](#governance), [System Capture](core_05-05_definitions_a_independent.md#system-capture), [Oversight](core_05-05_definitions_a_independent.md#oversight-constitutional), [Contestability](#contestability), and [Reversibility](core_05-05_definitions_a_independent.md#reversibility-constitutional). Owner floor: [Article XXIII-D: Emergency Measures and Continuation Burden](core_09-09_rights_part_d.md#article-xxiii-d-emergency-measures-and-continuation-burden).
 
 </details>
 
@@ -988,7 +1215,7 @@ Below, entries are **grouped by topic** for reading convenience (non-operative o
 - Downstream: Principles: [6. Interaction and Conflict Resolution](core_00-01_principles.md#6-interaction-and-conflict-resolution); [6.1 Core Tradeoff Principles](core_00-01_principles.md#61-core-tradeoff-principles) (**Necessity** / **Proportionality** for pre-deliberation timing).
 - Cluster component: [Emergency and Contingency cluster](core_05-05_definitions_c_dependent_clusters.md#emergency-and-contingency-cluster).
 - Cluster member: [Emergency and Contingency](#emergency-and-contingency-constitutional), especially [Stakeholder Emergency and Contingency](#stakeholder-emergency-and-contingency).
-- Read with: [Constitutional Emergency and Contingency](#constitutional-emergency-and-contingency) where authorization of governing authority is implicated, [Binding Stakeholder Choice](core_05-05_definitions_c_dependent_clusters.md#binding-stakeholder-choice-cluster), [Constitutional Contract Layer](core_05-05_definitions_a_independent.md#constitutional-contract-layer), [Foundational Constitutional Choice](core_05-05_definitions_a_independent.md#foundational-constitutional-choice); [Article XXIII-D: Emergency Measures and Continuation Burden](core_09-09_rights_part_d.md#article-xxiii-d-emergency-measures-and-continuation-burden); [Proportionality](core_05-05_definitions_a_independent.md#proportionality); [Necessity](core_05-05_definitions_a_independent.md#necessity); [Oversight](#oversight-constitutional).
+- Read with: [Constitutional Emergency and Contingency](#constitutional-emergency-and-contingency) where authorization of governing authority is implicated, [Binding Stakeholder Choice](core_05-05_definitions_c_dependent_clusters.md#binding-stakeholder-choice-cluster), [Constitutional Contract Layer](core_05-05_definitions_a_independent.md#constitutional-contract-layer), [Foundational Constitutional Choice](core_05-05_definitions_a_independent.md#foundational-constitutional-choice); [Article XXIII-D: Emergency Measures and Continuation Burden](core_09-09_rights_part_d.md#article-xxiii-d-emergency-measures-and-continuation-burden); [Proportionality](core_05-05_definitions_a_independent.md#proportionality); [Necessity](core_05-05_definitions_a_independent.md#necessity); [Oversight](core_05-05_definitions_a_independent.md#oversight-constitutional).
 
 
 </details>
@@ -1018,7 +1245,7 @@ Below, entries are **grouped by topic** for reading convenience (non-operative o
 
 - Downstream: Principles: [CHAPTER 00 — Preamble](core_00-01_principles.md#chapter-00-preamble--foundational-requirements) (CCL vs SSP layering); [7.2 Incentive Alignment and System Capture](core_00-01_principles.md#72-incentive-alignment-and-system-capture) (governance capture discipline).
 - Cluster component: [Governance Architecture, Oversight, Dependency, Decentralization, Concentration, Market Structure, and Exit-Path Integrity](core_05-05_definitions_c_dependent_clusters.md#governance-architecture-oversight-decentralization-and-concentration-cluster).
-- Read with: [Classification-Scaled Governance](core_05-05_definitions_a_independent.md#classification-scaled-governance), [Oversight](#oversight-constitutional), [Accountability](#accountability), [Contestability](#contestability), [Proportionality](core_05-05_definitions_a_independent.md#proportionality), [Necessity](core_05-05_definitions_a_independent.md#necessity), and [System Capture](core_05-05_definitions_a_independent.md#system-capture).
+- Read with: [Classification-Scaled Governance](core_05-05_definitions_a_independent.md#classification-scaled-governance), [Oversight](core_05-05_definitions_a_independent.md#oversight-constitutional), [Accountability](#accountability), [Contestability](#contestability), [Proportionality](core_05-05_definitions_a_independent.md#proportionality), [Necessity](core_05-05_definitions_a_independent.md#necessity), and [System Capture](core_05-05_definitions_a_independent.md#system-capture).
 
 </details>
 
@@ -1026,21 +1253,9 @@ Below, entries are **grouped by topic** for reading convenience (non-operative o
 
 - O: The structures, rules, allocation of authority, and processes by which systems and institutions are directed, constrained, evolved, and held [Accountable](#accountability). That includes technical, organizational, economic, and socio-technical layers that materially affect sentients. **Layering:** treat the [Constitutional Contract Layer](core_05-05_definitions_a_independent.md#constitutional-contract-layer) — including [Foundational Constitutional Choice](core_05-05_definitions_a_independent.md#foundational-constitutional-choice), constituting or durably structuring *who* may govern and *under what governance layer mechanism* — as the authorization layer. Treat materially rights-affecting decisions made *under* that authorized structure as the **Stakeholder System Participation** layer. There, [Stakeholder](#stakeholder) identification and [Stakeholder Participation Weight](#stakeholder-participation-weight) ordinarily apply to proportional voice (subject to rights articles and **Article XI-B** constraints). The two layers are related (stakeholders are often members of the entitled community) but not interchangeable for participation-weight rules.
 <a id="governance-e"></a>
-- E: Align with [Classification-Scaled Governance](core_05-05_definitions_a_independent.md#classification-scaled-governance), [Oversight](#oversight-constitutional), [Accountability](#accountability), [Contestability](#contestability), [Proportionality](core_05-05_definitions_a_independent.md#proportionality), [Necessity](core_05-05_definitions_a_independent.md#necessity), and [System Capture](core_05-05_definitions_a_independent.md#system-capture). Assess whether authority is distributed, bounded, and reviewable in proportion to impact, dependency, and risk. Incorporated governance implementation may specialize these requirements where designated but must not narrow this definition.
+- E: Align with [Classification-Scaled Governance](core_05-05_definitions_a_independent.md#classification-scaled-governance), [Oversight](core_05-05_definitions_a_independent.md#oversight-constitutional), [Accountability](#accountability), [Contestability](#contestability), [Proportionality](core_05-05_definitions_a_independent.md#proportionality), [Necessity](core_05-05_definitions_a_independent.md#necessity), and [System Capture](core_05-05_definitions_a_independent.md#system-capture). Assess whether authority is distributed, bounded, and reviewable in proportion to impact, dependency, and risk. Incorporated governance implementation may specialize these requirements where designated but must not narrow this definition.
 <a id="governance-c"></a>
-- C: Non-compliant: governance arrangements that materially negate required [Oversight](#oversight-constitutional), [Contestability](#contestability), or [Accountability](#accountability); arrangements that produce or entrench [System Capture](core_05-05_definitions_a_independent.md#system-capture) without mitigation where such capture is materially prohibited.
-
-
-<a id="oversight-constitutional"></a>
-
----
-#### Oversight
-
-- O: Canonical definition is in [Chapter Five section 1 — Independent Definitions](core_05-05_definitions_a_independent.md#oversight-constitutional). This placeholder preserves the existing anchor for compatibility.
-<a id="oversight-constitutional-e"></a>
-- E: See the independent definition for evaluation and examples.
-<a id="oversight-constitutional-c"></a>
-- C: This entry is a non-canonical pointer only.
+- C: Non-compliant: governance arrangements that materially negate required [Oversight](core_05-05_definitions_a_independent.md#oversight-constitutional), [Contestability](#contestability), or [Accountability](#accountability); arrangements that produce or entrench [System Capture](core_05-05_definitions_a_independent.md#system-capture) without mitigation where such capture is materially prohibited.
 
 
 <a id="decentralization"></a>
@@ -1053,7 +1268,7 @@ Below, entries are **grouped by topic** for reading convenience (non-operative o
 
 - Downstream: Principles: [§5.1.1 Productive Capacity (Instrumental Good)](core_00-01_principles.md#511-productive-capacity-instrumental-good) (non-concentration / subsidiarity read-with); [6.1.1 Proportionality](core_00-01_principles.md#611-proportionality) (centralization justification).
 - Cluster component: [Governance Architecture, Oversight, Dependency, Decentralization, Concentration, Market Structure, and Exit-Path Integrity](core_05-05_definitions_c_dependent_clusters.md#governance-architecture-oversight-decentralization-and-concentration-cluster).
-- Read with: [Governance](#governance), [Oversight](#oversight-constitutional), [Classification-Scaled Governance](core_05-05_definitions_a_independent.md#classification-scaled-governance), [Concentration Threshold](#concentration-threshold-constitutional), [Accountability](#accountability), [Necessity](core_05-05_definitions_a_independent.md#necessity), and [Proportionality](core_05-05_definitions_a_independent.md#proportionality).
+- Read with: [Governance](#governance), [Oversight](core_05-05_definitions_a_independent.md#oversight-constitutional), [Classification-Scaled Governance](core_05-05_definitions_a_independent.md#classification-scaled-governance), [Concentration Threshold](#concentration-threshold-constitutional), [Accountability](#accountability), [Necessity](core_05-05_definitions_a_independent.md#necessity), and [Proportionality](core_05-05_definitions_a_independent.md#proportionality).
 
 </details>
 
@@ -1065,7 +1280,7 @@ Below, entries are **grouped by topic** for reading convenience (non-operative o
 - E: Escalate oversight, standardization, or central control when local competence is insufficient or externalities are material. Do not use decentralization to fragment [System Boundary Integrity](core_05-05_definitions_b_semi_independent.md#system-boundary-integrity) or evade [Accountability](#accountability).
 <a id="decentralization-c"></a>
 <a id="subsidiarity-c"></a>
-- C: Non-compliant: centralizing authority without [Necessity](core_05-05_definitions_a_independent.md#necessity); decentralizing in ways that prevent required [Oversight](#oversight-constitutional), defeat [Accountability](#accountability), or produce unaddressed systemic [Harm](core_05-05_definitions_c_dependent_clusters.md#harm).
+- C: Non-compliant: centralizing authority without [Necessity](core_05-05_definitions_a_independent.md#necessity); decentralizing in ways that prevent required [Oversight](core_05-05_definitions_a_independent.md#oversight-constitutional), defeat [Accountability](#accountability), or produce unaddressed systemic [Harm](core_05-05_definitions_c_dependent_clusters.md#harm).
 
 
 <a id="concentration-threshold-constitutional"></a>
@@ -1099,8 +1314,6 @@ Below, entries are **grouped by topic** for reading convenience (non-operative o
 
   Adopter-tunability does not permit substrate-class exclusion from the threshold's substantive reach ([Sentience Non-Exclusion](core_05-05_definitions_c_dependent_clusters.md#sentience-non-exclusion)). This entry creates no new Chapter Nine Rights-Floor and does not narrow Article IV-A or IV-B.
 
-
-#### System
 
 #### System
 
@@ -1176,6 +1389,52 @@ Below, entries are **grouped by topic** for reading convenience (non-operative o
 - E: Apply [Materiality Determination](core_05-05_definitions_b_semi_independent.md#materiality-determination) and evidence-of-drift tests consistent with [Contestability](#contestability) and Chapter Six **contribution** **inputs** where stewardship claims are material to classification or standing.
 <a id="review-and-correction-duty-constitutional-c"></a>
 - C: Non-compliant: maintaining published strategy or stewardship claims without periodic revalidation where observability is practicable; refusing revision when outcomes materially contradict stated constitutional alignment.
+
+
+<a id="strategic-stewardship-obligation-constitutional"></a>
+
+---
+#### Strategic Stewardship Obligation
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Downstream: Principles: [7.2.2 Stewardship and Operator Incentive Alignment](core_00-01_principles.md#722-stewardship-and-operator-incentive-alignment), [7.1 Required Evaluation Factors](core_00-01_principles.md#71-required-evaluation-factors), and Chapter Ten strategy / stewardship requirements.
+- Cluster component: [Chapter Five §3.36 *Strategic Stewardship and Stewardship Defect*](core_05-05_definitions_c_dependent_clusters.md#strategic-stewardship-and-stewardship-defect-cluster).
+- Read with: [Stewardship Defect](#stewardship-defect-constitutional), [Review and Correction Duty](#review-and-correction-duty-constitutional), [Incentive Alignment](core_05-05_definitions_a_independent.md#incentive-alignment), [Oversight](core_05-05_definitions_a_independent.md#oversight-constitutional), [Foreseeability Diligence](core_05-05_definitions_c_dependent_clusters.md#foreseeability-diligence), [Materiality Determination](#materiality-determination), [Risk](core_05-05_definitions_a_independent.md#risk), and [Ecological Integrity](#ecological-integrity-constitutional).
+
+</details>
+
+<br>
+
+- O: The duty of systems, institutions, operators, and stewards with material or durable influence to govern strategy, incentives, resources, dependencies, ecological effects, safety risks, Rights-Floor impacts, and long-horizon consequences in a way that preserves constitutional alignment over time.
+<a id="strategic-stewardship-obligation-constitutional-e"></a>
+- E: Evaluate foresight, incentive design, revalidation, monitoring, correction, transparency, contingency planning, and allocation of responsibility. Stewardship must account for cumulative, delayed, systemic, ecological, and intergenerational effects, and must update when evidence shows drift, capture, proxy divergence, or material under-performance.
+<a id="strategic-stewardship-obligation-constitutional-c"></a>
+- C: Non-compliant: strategic planning, governance, or operational control that predictably externalizes material harm, ignores observable drift, designs incentives against constitutional outcomes, or treats short-horizon value, convenience, or institutional self-protection as sufficient stewardship.
+
+
+<a id="stewardship-defect-constitutional"></a>
+
+---
+#### Stewardship Defect
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Downstream: Principles: [7.2.2 Stewardship and Operator Incentive Alignment](core_00-01_principles.md#722-stewardship-and-operator-incentive-alignment), [7.2 Incentive Alignment and System Capture](core_00-01_principles.md#72-incentive-alignment-and-system-capture), and [7.1 Required Evaluation Factors](core_00-01_principles.md#71-required-evaluation-factors).
+- Cluster component: [Chapter Five §3.36 *Strategic Stewardship and Stewardship Defect*](core_05-05_definitions_c_dependent_clusters.md#strategic-stewardship-and-stewardship-defect-cluster).
+- Read with: [Strategic Stewardship Obligation](#strategic-stewardship-obligation-constitutional), [Review and Correction Duty](#review-and-correction-duty-constitutional), [Incentive Alignment](core_05-05_definitions_a_independent.md#incentive-alignment), [System Capture](core_05-05_definitions_a_independent.md#system-capture), [Materiality Determination](#materiality-determination), [Proxy Divergence](#proxy-divergence), and [Accountability](#accountability).
+
+</details>
+
+<br>
+
+- O: A material failure of stewardship, strategy, incentive design, monitoring, correction, disclosure, or governance responsibility that foreseeably permits constitutional drift, Rights-Floor degradation, ecological harm, safety risk, truth degradation, capture, or avoidable systemic harm.
+<a id="stewardship-defect-constitutional-e"></a>
+- E: Identify defects by substantive effect and reasonably available evidence, not by whether a policy exists on paper. Include known-risk neglect, incentive misalignment, uncorrected proxy divergence, inadequate monitoring, denial of observable drift, under-resourced safeguards, captured review, and short-horizon governance that defeats durable constitutional duties.
+<a id="stewardship-defect-constitutional-c"></a>
+- C: Non-compliant: maintaining a stewardship posture that materially fails the strategic stewardship obligation after risks, drift, or harmful incentives are reasonably foreseeable; using documentation, branding, or committee form to mask non-functional stewardship.
 
 
 <a id="stakeholder"></a>
@@ -1316,7 +1575,8 @@ Below, entries are **grouped by topic** for reading convenience (non-operative o
 
 - Downstream: Principles: [§5.1.1 Productive Capacity (Instrumental Good)](core_00-01_principles.md#511-productive-capacity-instrumental-good) (ecological bounds and **Environmental Preconditions** / **Ecological Integrity** in the productive-capacity discipline); [7.1 Required Evaluation Factors](core_00-01_principles.md#71-required-evaluation-factors) (cumulative / long-horizon ecological effects).
 - Owner floor: [Article I-A](core_09-09_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity) for environmental preconditions and ecological integrity.
-- Cluster component: [Bodily-Maintenance Access, Safe Conditions, Tenure Security, Environmental Preconditions, Cultural Continuity, Rest, and Anti-Displacement Floor](core_05-05_definitions_c_dependent_clusters.md#safe-conditions-tenure-security-and-environmental-preconditions-cluster); [Ecological Integrity, Footprint, and Sustainability](core_05-05_definitions_c_dependent_clusters.md#ecological-integrity-footprint-and-sustainability-cluster); [Chapter Five §3.32 *Resilience, Safety, Reversibility, Self-Healing, Cascading Failure, Existential Risk, Environmental Preconditions, and Wellbeing*](core_05-05_definitions_c_dependent_clusters.md#resilience-safety-reversibility-self-healing-and-systemic-harm-cluster) (*Environmental Preconditions* stub — dual cluster membership with §3.7 survival-floor routing).
+- Cluster component: [Ecological Integrity, Footprint, and Sustainability](core_05-05_definitions_c_dependent_clusters.md#ecological-integrity-footprint-and-sustainability-cluster).
+- Read with: [Bodily-Maintenance Access, Safe Conditions, Tenure Security, Environmental Preconditions, Cultural Continuity, Rest, and Anti-Displacement Floor](core_05-05_definitions_c_dependent_clusters.md#safe-conditions-tenure-security-and-environmental-preconditions-cluster) and [Chapter Five §3.32 *Resilience, Safety, Reversibility, Self-Healing, Cascading Failure, Existential Risk, Environmental Preconditions, and Wellbeing*](core_05-05_definitions_c_dependent_clusters.md#resilience-safety-reversibility-self-healing-and-systemic-harm-cluster), where survival-floor, continuity, or systemic-harm routing materially applies.
 
 </details>
 
@@ -1415,6 +1675,29 @@ Below, entries are **grouped by topic** for reading convenience (non-operative o
   - narrowing language-minority or heritage-community protections under accessibility-cost, translation-burden, or operational-scale framings without satisfying those tests;
   - substrate-class exclusion where communication or cultural-practice modalities function as language- or culture-equivalents ([Sentience Non-Exclusion](core_05-05_definitions_c_dependent_clusters.md#sentience-non-exclusion)).
 
+
+<a id="intergenerational-responsibility-constitutional"></a>
+
+---
+#### Intergenerational Responsibility
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Downstream: Principles: [2. Foundational Objective: Wellbeing](core_00-01_principles.md#2-foundational-objective-wellbeing), [7.1 Required Evaluation Factors](core_00-01_principles.md#71-required-evaluation-factors), and Article I-A ecological-preconditions discipline where decisions allocate foreseeable burdens across time.
+- Cluster component: [Chapter Five §3.21 *Indigenous Continuity, Language Culture and Heritage, Natural Systems Standing, and Intergenerational Responsibility*](core_05-05_definitions_c_dependent_clusters.md#indigenous-heritage-natural-standing-and-intergenerational-cluster).
+- Read with: [Ecological Integrity](#ecological-integrity-constitutional), [Environmental Preconditions](#environmental-preconditions-constitutional), [Sustainability](#sustainability), [Indigenous Continuity](#indigenous-continuity-constitutional), [Language, Culture, and Heritage](#language-culture-and-heritage-constitutional), [Natural Systems Standing](core_05-05_definitions_a_independent.md#natural-systems-standing), [Reversibility](core_05-05_definitions_a_independent.md#reversibility-constitutional), and [Materiality Under Uncertainty](#materiality-under-uncertainty).
+
+</details>
+
+<br>
+
+- O: The duty to account for reasonably foreseeable material effects of present decisions on future sentients, future communities, ecological systems, cultural and heritage continuity, recovery capacity, and the durability of Rights-Floor conditions.
+<a id="intergenerational-responsibility-constitutional-e"></a>
+- E: Evaluate delayed, cumulative, path-dependent, and hard-to-reverse burdens; do not discount future sentients, future community continuity, or future ecological preconditions merely because affected persons are not yet identified or presently participating. Scale precaution, reversibility, stewardship, and disclosure to materiality under uncertainty.
+<a id="intergenerational-responsibility-constitutional-c"></a>
+- C: Non-compliant: shifting foreseeable material harm, depletion, lock-in, ecological degradation, or cultural-continuity loss to future sentients or communities without adequate justification, mitigation, reversibility, and accountability under the governing rights and principles.
+
 ---
 
 ---
@@ -1474,7 +1757,7 @@ Below, entries are **grouped by topic** for reading convenience (non-operative o
 
 - Downstream: Principles: [7.1 Required Evaluation Factors](core_00-01_principles.md#71-required-evaluation-factors); [§5.2 Stewardship and Distributed Understanding — §5.2.2 Distributed Understanding](core_00-01_principles.md#522-distributed-understanding) (understanding scales with **Materiality**); [6.1.1 Proportionality](core_00-01_principles.md#611-proportionality) (material impact in the tradeoff index).
 - Cluster component: [Chapter Five §3.23 *Material Impact, Materiality Determination, Classification-Scaled Governance, Oversight, and Capability Requirement*](core_05-05_definitions_c_dependent_clusters.md#materiality-classification-oversight-and-capability-cluster).
-- Read with: [Harm](core_05-05_definitions_c_dependent_clusters.md#harm), [Risk](core_05-05_definitions_a_independent.md#risk), [Systemic Materiality](core_05-05_definitions_a_independent.md#systemic-materiality), [Dependency](core_05-05_definitions_a_independent.md#dependency), [Classification-Scaled Governance](core_05-05_definitions_a_independent.md#classification-scaled-governance), [Oversight](#oversight-constitutional), and [Transparency](core_05-05_definitions_c_dependent_clusters.md#transparency).
+- Read with: [Harm](core_05-05_definitions_c_dependent_clusters.md#harm), [Risk](core_05-05_definitions_a_independent.md#risk), [Systemic Materiality](core_05-05_definitions_a_independent.md#systemic-materiality), [Dependency](core_05-05_definitions_a_independent.md#dependency), [Classification-Scaled Governance](core_05-05_definitions_a_independent.md#classification-scaled-governance), [Oversight](core_05-05_definitions_a_independent.md#oversight-constitutional), and [Transparency](core_05-05_definitions_c_dependent_clusters.md#transparency).
 
 </details>
 
@@ -1484,7 +1767,7 @@ Below, entries are **grouped by topic** for reading convenience (non-operative o
 <a id="material-impact-e"></a>
 - E: Consider [Systemic Materiality](core_05-05_definitions_a_independent.md#systemic-materiality), [Dependency](core_05-05_definitions_a_independent.md#dependency), and cross-system consequences.
 <a id="material-impact-c"></a>
-- C: Material impacts must trigger appropriate constraints, including [Classification-Scaled Governance](core_05-05_definitions_a_independent.md#classification-scaled-governance), [Oversight](#oversight-constitutional), and [Transparency](core_05-05_definitions_c_dependent_clusters.md#transparency).
+- C: Material impacts must trigger appropriate constraints, including [Classification-Scaled Governance](core_05-05_definitions_a_independent.md#classification-scaled-governance), [Oversight](core_05-05_definitions_a_independent.md#oversight-constitutional), and [Transparency](core_05-05_definitions_c_dependent_clusters.md#transparency).
 
 <a id="material-risk"></a>
 
@@ -1570,6 +1853,52 @@ Below, entries are **grouped by topic** for reading convenience (non-operative o
 - E: Apply precaution where materiality cannot be excluded, including where [Irreversible Harm](core_05-05_definitions_c_dependent_clusters.md#irreversible-harm) remains plausible.
 <a id="materiality-under-uncertainty-c"></a>
 - C: Systems must default to conservative classification under [Classification-Scaled Governance](core_05-05_definitions_a_independent.md#classification-scaled-governance) and [Safety (Constraint)](core_05-05_definitions_a_independent.md#safety-constraint).
+
+
+<a id="proxy-divergence"></a>
+
+---
+#### Proxy Divergence
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Downstream: Principles: [6.4.2 Proxy-Divergence Invalidation](core_00-01_principles.md#642-proxy-divergence-invalidation), [7.1 Required Evaluation Factors](core_00-01_principles.md#71-required-evaluation-factors), and [7.2 Incentive Alignment and System Capture](core_00-01_principles.md#72-incentive-alignment-and-system-capture).
+- Cluster component: [Chapter Five §3.30 *Proxy Integrity and Indicator-Reality Alignment*](core_05-05_definitions_c_dependent_clusters.md#proxy-integrity-and-indicator-reality-alignment-cluster).
+- Read with: [Proxy Metric Gaming and Indicator-Reality Gaps](#proxy-metric-gaming-and-indicator-reality-gaps), [Materiality Determination](#materiality-determination), [Materiality Integrity Constraint](#materiality-integrity-constraint), [System Boundary Integrity](#system-boundary-integrity), [Incentive Alignment](core_05-05_definitions_a_independent.md#incentive-alignment), [Auditability](core_05-05_definitions_c_dependent_clusters.md#auditability), and [Truth (Constitutional Constraint)](core_05-05_definitions_c_dependent_clusters.md#truth-constitutional-constraint).
+
+</details>
+
+<br>
+
+- O: A material gap between a proxy, metric, model signal, formal classification, compliance indicator, or administrative shorthand and the real-world condition, right, risk, burden, harm, capability, or outcome it purports to represent.
+<a id="proxy-divergence-e"></a>
+- E: Detect whether optimization, reporting, gating, or review relies on a proxy after evidence shows the proxy no longer tracks the constitutionally material reality. Evaluate selection effects, boundary manipulation, missing populations, feedback loops, gaming incentives, adversarial adaptation, and aggregate harms hidden by favorable local indicators.
+<a id="proxy-divergence-c"></a>
+- C: Non-compliant: treating a proxy as dispositive where divergence is material; using proxy satisfaction to avoid direct evaluation of Rights-Floor, safety, truth, wellbeing, ecological, or agency outcomes; or refusing correction after divergence becomes reasonably observable.
+
+
+<a id="proxy-metric-gaming-and-indicator-reality-gaps"></a>
+
+---
+#### Proxy Metric Gaming and Indicator-Reality Gaps
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Downstream: Principles: [6.4.2 Proxy-Divergence Invalidation](core_00-01_principles.md#642-proxy-divergence-invalidation), [7.2 Incentive Alignment and System Capture](core_00-01_principles.md#72-incentive-alignment-and-system-capture), and Chapter Four verification duties where metrics become evidence of compliance.
+- Cluster component: [Chapter Five §3.30 *Proxy Integrity and Indicator-Reality Alignment*](core_05-05_definitions_c_dependent_clusters.md#proxy-integrity-and-indicator-reality-alignment-cluster).
+- Read with: [Proxy Divergence](#proxy-divergence), [Incentive Alignment](core_05-05_definitions_a_independent.md#incentive-alignment), [Auditability](core_05-05_definitions_c_dependent_clusters.md#auditability), [Transparency](core_05-05_definitions_c_dependent_clusters.md#transparency), [Materiality Determination](#materiality-determination), and [Truth (Constitutional Constraint)](core_05-05_definitions_c_dependent_clusters.md#truth-constitutional-constraint).
+
+</details>
+
+<br>
+
+- O: Conduct, design, reporting, or incentive structure that improves, preserves, or manipulates a proxy metric or compliance indicator while the underlying constitutionally material reality remains degraded, worsens, or is not measured.
+<a id="proxy-metric-gaming-and-indicator-reality-gaps-e"></a>
+- E: Look for dashboard optimization, threshold gaming, selective sampling, denominator manipulation, excluded populations, automated score improvement, model reward hacking, compliance theater, and narrative substitution. A metric is not reliable where it cannot be traced to observed material outcomes or where incentives predictably sever it from those outcomes.
+<a id="proxy-metric-gaming-and-indicator-reality-gaps-c"></a>
+- C: Non-compliant: claiming compliance from improved metrics while material outcomes remain deficient; designing indicators that can be satisfied without satisfying the underlying duty; or suppressing evidence that indicators have become detached from reality.
 
 ---
 
