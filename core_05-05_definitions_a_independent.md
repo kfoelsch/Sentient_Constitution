@@ -126,7 +126,7 @@ This directory lists **Definitions A-Z** and **Clusters A-Z** separately. Each v
 - [Good Faith](#good-faith)
 - [Governance](core_05-05_definitions_b_semi_independent.md#governance)
 - [Graduated Capability](core_05-05_definitions_b_semi_independent.md#graduated-capability-constitutional)
-- [Harassment and Bullying](#harassment-and-bullying)
+- [Harassment and Bullying](core_05-05_definitions_c_dependent_clusters.md#harassment-and-bullying)
 - [Harm](core_05-05_definitions_c_dependent_clusters.md#harm)
 - [Harm Minimization (Tradeoff Selection)](#harm-minimization-tradeoff-selection)
 - [High-Impact and Systemic Harm Publication Constraint](core_05-05_definitions_c_dependent_clusters.md#high-impact-and-systemic-harm-publication-constraint)
@@ -780,28 +780,6 @@ Independent Definitions must not fragment, isolate, or redistribute compliance i
 
 ---
 
-<a id="harassment-and-bullying"></a>
-
-#### Harassment and Bullying
-
-<details>
-<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
-
-- Owner floors: [Article X-A](core_09-09_rights_part_b.md#article-x-a-non-imposition-and-consent-in-association) (*non-imposition and consent in association*) and [Article X-B](core_09-09_rights_part_b.md#article-x-b-collective-harm-boundary-and-enforcement-interface) (*collective harm boundary and hostile-environment threshold*).
-- Read with: the [Collective Harm Boundary, Harm, and Harassment and Bullying cluster](core_05-05_definitions_c_dependent_clusters.md#collective-harm-boundary-and-harm-cluster); [Non-Imposition (Cooperative Interaction)](#non-imposition-cooperative-interaction); [Collective Harm Boundary](core_05-05_definitions_c_dependent_clusters.md#collective-harm-boundary); [Harm](core_05-05_definitions_c_dependent_clusters.md#harm); [Materiality Determination](core_05-05_definitions_b_semi_independent.md#materiality-determination); [Dependency](#dependency); [Coercion and Manipulation](core_05-05_definitions_b_semi_independent.md#coercion-and-manipulation-constitutional); [Dignity and Equal Moral Standing](#dignity-and-equal-moral-standing); [Safety (Constraint)](#safety-constraint); [Meaningful Agency](core_05-05_definitions_b_semi_independent.md#meaningful-agency); and [Protected Characteristics](core_05-05_definitions_b_semi_independent.md#protected-characteristics-constitutional).
-
-</details>
-
-<br>
-
-- O: Patterned unwanted conduct, targeted or environment-shaping, that materially degrades dignity, safety, equal standing or participation, wellbeing, rest, education, or [Meaningful Agency](core_05-05_definitions_b_semi_independent.md#meaningful-agency) in associational, institutional, dependency, productive-activity, care, household, digital, or comparable cooperative settings. The pattern may arise from repeated acts, coordinated conduct, role misuse, captive channels, designed conditions, or cumulative hostile-environment effects.
-<a id="harassment-and-bullying-e"></a>
-- E: Weigh persistence, intensity, humiliation or intimidation, credible threat, protected-characteristic targeting or proxying, audience and amplification, power asymmetry, role or dependency, practical exit cost, channel control, foreseeable retaliation, and feasibility of avoidance or response. A single act may be material where severity, threat, exposure, or power asymmetry makes the harm pathway clear; otherwise cumulative effect and hostile-environment degradation are assessed under [Collective Harm Boundary](core_05-05_definitions_c_dependent_clusters.md#collective-harm-boundary).
-<a id="harassment-and-bullying-c"></a>
-- C: Non-compliant: treating formal rule compliance, "just jokes," public-channel availability, nominal opt-out, or absence of a single decisive act as defeating a harassment or bullying finding where the pattern materially degrades protected conditions; fragmenting a course of conduct to avoid cumulative assessment; or using speech, association, discipline, moderation, caregiving, or operational authority as pretext for materially degrading unwanted conduct.
-
----
-
 <a id="harm-minimization-tradeoff-selection"></a>
 
 #### Harm Minimization (Tradeoff Selection)
@@ -1011,11 +989,11 @@ Independent Definitions must not fragment, isolate, or redistribute compliance i
 
 #### Non-Imposition (Cooperative Interaction)
 
-- O: The obligation not to force beliefs or unwanted communications on others through coercive or manipulative means in associational life. Also bars patterned [Harassment and Bullying](#harassment-and-bullying) or unreasonable capture of attention or sustained interruption that materially degrades [Dignity and Equal Moral Standing](#dignity-and-equal-moral-standing), [Safety (Constraint)](#safety-constraint), equal participation, or [Meaningful Agency](core_05-05_definitions_b_semi_independent.md#meaningful-agency) where Article X-A applies. Preserves [Freedom (Bounded Agency)](#freedom-bounded-agency), [Consent](core_05-05_definitions_b_semi_independent.md#consent-constitutional), and Article X-A cooperative norms.
+- O: The obligation not to force beliefs or unwanted communications on others through coercive or manipulative means in associational life. Also bars patterned [Harassment and Bullying](core_05-05_definitions_c_dependent_clusters.md#harassment-and-bullying) or unreasonable capture of attention or sustained interruption that materially degrades [Dignity and Equal Moral Standing](#dignity-and-equal-moral-standing), [Safety (Constraint)](#safety-constraint), equal participation, or [Meaningful Agency](core_05-05_definitions_b_semi_independent.md#meaningful-agency) where Article X-A applies. Preserves [Freedom (Bounded Agency)](#freedom-bounded-agency), [Consent](core_05-05_definitions_b_semi_independent.md#consent-constitutional), and Article X-A cooperative norms.
 <a id="non-imposition-cooperative-interaction-e"></a>
 - E: Weigh persistence, intensity, power asymmetry, and [Feasibility](#feasibility) of avoidance or exit. Align with [Coercion and Manipulation](core_05-05_definitions_b_semi_independent.md#coercion-and-manipulation-constitutional), [Harm](core_05-05_definitions_c_dependent_clusters.md#harm), and [Materiality Determination](core_05-05_definitions_b_semi_independent.md#materiality-determination). For attention and interruption, weigh dependency, role, channel control, and whether [Necessity](#necessity) and [Proportionality](#proportionality) justify the contact or signaling practice.
 <a id="non-imposition-cooperative-interaction-c"></a>
-- C: Non-compliant: coercive or manipulative imposition of beliefs or unwanted communications contrary to Article X-A; materially degrading [Harassment and Bullying](#harassment-and-bullying) or unreasonable attention capture or sustained interruption contrary to Article X-A and Article IX-A.
+- C: Non-compliant: coercive or manipulative imposition of beliefs or unwanted communications contrary to Article X-A; materially degrading [Harassment and Bullying](core_05-05_definitions_c_dependent_clusters.md#harassment-and-bullying) or unreasonable attention capture or sustained interruption contrary to Article X-A and Article IX-A.
 
 ---
 

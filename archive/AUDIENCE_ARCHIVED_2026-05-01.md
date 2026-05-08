@@ -100,3 +100,67 @@ The cluster is triggered whenever decisions about an entity involve:
 ### What stays outside
 
 When none of the above triggers apply, individual definitions about sentience may still be used on their own as supporting references. However, they cannot import the cluster's adjudication procedures or enforcement mechanics.
+
+---
+
+## Chapter 5s3.5 — Collective Harm Boundary, Harm, and Harassment and Bullying (Audience Guidance)
+
+### What this cluster does
+
+This cluster serves as the joint-invocation home for understanding when freedom of action must yield to verifiable harm affecting others. It brings together:
+
+- **Harm** as the general concept of degradation to protected interests
+- **Collective Harm Boundary** as the interaction rule limiting one party's freedom when it damages another
+- **Psychological Harm** for cognitive, emotional, and relational injury
+- **Irreversible Harm** for damage that cannot be meaningfully undone
+- **Harassment and Bullying** as patterned conduct that degrades conditions in cooperative settings
+
+### What it protects
+
+The cluster establishes several interconnected protections that cannot be separated:
+
+1. **Verifiability floor** — harm claims must be demonstrable, not based on mere offense or preference
+2. **Systemic scope discipline** — preventing fragmentation of harm across distributed or cumulative pathways
+3. **Anti-bypass integrity** — harm, boundary rules, and harassment assessment must stay connected
+4. **Hostile-environment recognition** — cumulative patterned conduct counts even when single acts don't
+5. **Proportionate response discipline** — containment and redress must match the harm severity
+6. **Highest constraint for irreversible harm** — triggering strictest limits when damage cannot be undone
+
+*In plain terms:* You cannot separate "Was there harm?" from "Does the boundary apply?" or "Is this harassment?" when these questions are materially connected. A formally private, expressive, or technical practice is not outside this cluster just because of its label — what matters is whether it materially degrades protected interests.
+
+### When this cluster applies
+
+The cluster is triggered whenever decisions involve:
+
+**Core harm questions:**
+- Harmful effects or claimed harmlessness
+- Collective or distributed harm (many small harms adding up)
+- Competing freedom or non-imposition claims
+- Shared-resource or info-sphere harms
+- Systemic harm pathways
+- Ecological or wellbeing degradation
+
+**Boundary and enforcement questions:**
+- Where protected action must be limited, contained, or redirected
+- Harassment or bullying in associational, institutional, or dependency settings
+- Hostile-environment degradation of dignity, safety, or equal standing
+- Cumulative patterned conduct in cooperative settings
+
+**Cross-cutting considerations:**
+- Direct, indirect, delayed, or cross-system effects
+- Trauma-producing patterns or sustained degrading conditions
+- Power asymmetries in relationships or roles
+- Exit costs and feasibility of avoiding harm
+- Protected-characteristic targeting or proxying
+
+### What stays outside
+
+When none of the above triggers apply, component definitions may still operate as supporting references. However, they cannot import the cluster's joint-invocation discipline or anti-bypass protections.
+
+Specifically excluded from this cluster standing alone:
+- Offense, discomfort, or disagreement without a material harm pathway
+- Preferences that don't affect protected interests
+- Matters where no verifiable degradation to wellbeing, agency, or integrity exists
+- Isolated technical questions about risk without harm implicated
+
+Individual definitions about harm, materiality, or non-imposition may still guide analysis, but they cannot trigger the cluster's full procedural and substantive integration where the admission scope is not met.

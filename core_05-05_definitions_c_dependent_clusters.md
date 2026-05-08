@@ -156,7 +156,9 @@ Unless this Constitution expressly provides otherwise, **sentient** and **sentie
 
 <br>
 
-This cluster is the canonical compound-definition home for binding stakeholder choice within already-authorized governance structures. It binds the decision-resolution sequence, stakeholder representation and participation-weight limits, and rights-collision record discipline into one functional requirement. It does not replace [Foundational Constitutional Choice](core_05-05_definitions_a_independent.md#foundational-constitutional-choice), equal-weight authorization rules under **Chapter Ten §4.1**, or emergency exception controls under [Emergency Pre-Deliberation Action (Binding Collective Choice)](core_05-05_definitions_b_semi_independent.md#emergency-pre-deliberation-action-binding-collective-choice).
+Governance under this Constitution has two related but distinct layers, as established in [Chapter 00](core_00-01_principles.md#chapter-00-preamble--foundational-requirements): the [**Constitutional Contract Layer**](core_05-05_definitions_a_independent.md#constitutional-contract-layer) governs the authorization of governing authority itself — who may govern, by what legitimacy mechanism, and under what scope and durable terms; the **Stakeholder System Participation** layer governs the participation, representation, contestability, and due process owed to sentients materially affected by already-authorized systems, institutions, and bounded decision domains. The two layers may overlap in practice, but stakeholder-level participation in already-authorized systems is not a substitute for constitutional authorization, and constitutional authorization does not erase duties owed under the Stakeholder System Participation layer.
+
+This cluster is the canonical compound-definition home for binding stakeholder choice within the **Stakeholder System Participation** layer — that is, within already-authorized governance structures. It binds the decision-resolution sequence, stakeholder representation and participation-weight limits, and rights-collision record discipline into one functional requirement. It does not replace [Foundational Constitutional Choice](core_05-05_definitions_a_independent.md#foundational-constitutional-choice), equal-weight authorization rules under **Chapter Ten §4.1**, or emergency exception controls under [Emergency Pre-Deliberation Action (Binding Collective Choice)](core_05-05_definitions_b_semi_independent.md#emergency-pre-deliberation-action-binding-collective-choice).
 
 **Admission scope.** This cluster applies when material disagreement requires a binding stakeholder choice within an already-authorized system, institution, or bounded decision domain, especially where affected-party participation, representation, proportional influence, materially rights-affecting outcomes, or rights-collision records are at issue. Outside that admission scope, the component concepts may still inform owner-layer procedure without importing the whole compound pathway.
 
@@ -220,19 +222,21 @@ This cluster is the canonical compound-definition home for binding stakeholder c
 
 <br>
 
-This cluster is the joint-invocation home for harm, the boundary at which one sentient's, collective's, or system's freedom of action must yield to verifiable harm affecting another sentient's protected interests or constitutionally protected shared conditions, and [Harassment and Bullying](core_05-05_definitions_a_independent.md#harassment-and-bullying) as the patterned-conduct construct for unwanted conduct that materially degrades protected conditions in associational, institutional, dependency, and comparable cooperative settings. It keeps [Harm](#harm) as the general degradation concept and [Collective Harm Boundary](#collective-harm-boundary) as the interaction-boundary rule, while preventing harm analysis from being separated from the boundary question — or from harassment and bullying assessment where materially implicated — where conduct affects others through direct, indirect, delayed, cumulative, cross-system, or collective pathways.
+This cluster is the joint-invocation home for harm, the boundary at which one sentient's, collective's, or system's freedom of action must yield to verifiable harm affecting another sentient's protected interests or constitutionally protected shared conditions, and [Harassment and Bullying](#harassment-and-bullying) as the patterned-conduct construct for unwanted conduct that materially degrades protected conditions in associational, institutional, dependency, and comparable cooperative settings. It keeps [Harm](#harm) as the general degradation concept and [Collective Harm Boundary](#collective-harm-boundary) as the interaction-boundary rule, while preventing harm analysis from being separated from the boundary question — or from harassment and bullying assessment where materially implicated — where conduct affects others through direct, indirect, delayed, cumulative, cross-system, or collective pathways.
 
 **Admission scope.** This cluster applies where a matter materially concerns harmful effects, claimed harmlessness, collective or distributed harm, competing freedom or non-imposition claims, shared-resource or info-sphere harms, systemic harm pathways, harassment or bullying or hostile-environment degradation, or the point at which protected action must be limited, contained, remediated, or redirected because it materially affects another sentient's protected interests or constitutionally protected shared conditions. Outside that admission scope, component definitions may still operate as supporting Independent Definitions without importing the whole cluster.
 
 **Cluster members.** This cluster comprises:
 
 - [Harm](#harm);
-- [Collective Harm Boundary](core_05-05_definitions_c_dependent_clusters.md#collective-harm-boundary);
-- [Harassment and Bullying](core_05-05_definitions_a_independent.md#harassment-and-bullying).
+- [Collective Harm Boundary](#collective-harm-boundary);
+- [Psychological Harm](#psychological-harm);
+- [Irreversible Harm](#irreversible-harm);
+- [Harassment and Bullying](#harassment-and-bullying).
 
 **Read-with definitions.** Apply [Materiality Determination](core_05-05_definitions_b_semi_independent.md#materiality-determination), [Material Impact](core_05-05_definitions_b_semi_independent.md#material-impact), [Risk](core_05-05_definitions_a_independent.md#risk), [Non-Imposition (Cooperative Interaction)](core_05-05_definitions_a_independent.md#non-imposition-cooperative-interaction), [Safety (Constraint)](core_05-05_definitions_a_independent.md#safety-constraint), [Redress and Remediation](core_05-05_definitions_a_independent.md#redress-and-remediation-constitutional), and [Harm Minimization (Tradeoff Selection)](core_05-05_definitions_a_independent.md#harm-minimization-tradeoff-selection) where materially implicated. Those definitions support this cluster but are not themselves cluster members unless another cluster or owner provision independently requires their joint invocation.
 
-**Joint invocation and anti-bypass.** Under §3.1, a matter within the admission scope must not be segmented into separate individual-harm, collective-harm, harassment-and-bullying, non-imposition, materiality, freedom-limitation, or remediation questions in a way that recognizes a harm pathway while avoiding the boundary rule, or invokes the boundary rule while understating harm, or isolates generic [Harm](#harm) or the boundary rule from [Harassment and Bullying](core_05-05_definitions_a_independent.md#harassment-and-bullying) where patterned unwanted conduct is materially in play. Offense, preference, discomfort, or disagreement alone is not sufficient without a material harm pathway. Conversely, a formally private, local, expressive, commercial, technical, or collective practice is not outside this cluster where direct, indirect, delayed, cumulative, cross-system, info-sphere, ecological, wellbeing, or agency effects materially degrade protected interests or shared constitutional conditions.
+**Joint invocation and anti-bypass.** Under §3.1, a matter within the admission scope must not be segmented into separate individual-harm, collective-harm, harassment-and-bullying, non-imposition, materiality, freedom-limitation, or remediation questions in a way that recognizes a harm pathway while avoiding the boundary rule, or invokes the boundary rule while understating harm, or isolates generic [Harm](#harm) or the boundary rule from [Harassment and Bullying](#harassment-and-bullying) where patterned unwanted conduct is materially in play. Offense, preference, discomfort, or disagreement alone is not sufficient without a material harm pathway. Conversely, a formally private, local, expressive, commercial, technical, or collective practice is not outside this cluster where direct, indirect, delayed, cumulative, cross-system, info-sphere, ecological, wellbeing, or agency effects materially degrade protected interests or shared constitutional conditions.
 
 ---
 
@@ -310,6 +314,28 @@ This cluster is the joint-invocation home for harm, the boundary at which one se
 - E: Consider system and human timescales together with [Dependency](core_05-05_definitions_a_independent.md#dependency) and recovery limits under [Reversibility](core_05-05_definitions_a_independent.md#reversibility-constitutional).
 <a id="irreversible-harm-c"></a>
 - C: Triggers highest constraint thresholds.
+
+---
+
+<a id="harassment-and-bullying"></a>
+
+##### Harassment and Bullying
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Owner floors: [Article X-A](core_09-09_rights_part_b.md#article-x-a-non-imposition-and-consent-in-association) (*non-imposition and consent in association*) and [Article X-B](core_09-09_rights_part_b.md#article-x-b-collective-harm-boundary-and-enforcement-interface) (*collective harm boundary and hostile-environment threshold*).
+- Read with: the [Collective Harm Boundary, Harm, and Harassment and Bullying cluster](#collective-harm-boundary-harm-and-harassment-and-bullying-cluster); [Non-Imposition (Cooperative Interaction)](core_05-05_definitions_a_independent.md#non-imposition-cooperative-interaction); [Collective Harm Boundary](#collective-harm-boundary); [Harm](#harm); [Psychological Harm](#psychological-harm); [Irreversible Harm](#irreversible-harm); [Materiality Determination](core_05-05_definitions_b_semi_independent.md#materiality-determination); [Dependency](core_05-05_definitions_a_independent.md#dependency); [Coercion and Manipulation](core_05-05_definitions_b_semi_independent.md#coercion-and-manipulation-constitutional); [Dignity and Equal Moral Standing](core_05-05_definitions_a_independent.md#dignity-and-equal-moral-standing); [Safety (Constraint)](core_05-05_definitions_a_independent.md#safety-constraint); [Meaningful Agency](core_05-05_definitions_b_semi_independent.md#meaningful-agency); and [Protected Characteristics](core_05-05_definitions_b_semi_independent.md#protected-characteristics-constitutional).
+
+</details>
+
+<br>
+
+- O: Patterned unwanted conduct, targeted or environment-shaping, that materially degrades dignity, safety, equal standing or participation, wellbeing, rest, education, or [Meaningful Agency](core_05-05_definitions_b_semi_independent.md#meaningful-agency) in associational, institutional, dependency, productive-activity, care, household, digital, or comparable cooperative settings. The pattern may arise from repeated acts, coordinated conduct, role misuse, captive channels, designed conditions, or cumulative hostile-environment effects.
+<a id="harassment-and-bullying-e"></a>
+- E: Weigh persistence, intensity, humiliation or intimidation, credible threat, protected-characteristic targeting or proxying, audience and amplification, power asymmetry, role or dependency, practical exit cost, channel control, foreseeable retaliation, and feasibility of avoidance or response. A single act may be material where severity, threat, exposure, or power asymmetry makes the harm pathway clear; otherwise cumulative effect and hostile-environment degradation are assessed under [Collective Harm Boundary](#collective-harm-boundary).
+<a id="harassment-and-bullying-c"></a>
+- C: Non-compliant: treating formal rule compliance, "just jokes," public-channel availability, nominal opt-out, or absence of a single decisive act as defeating a harassment or bullying finding where the pattern materially degrades protected conditions; fragmenting a course of conduct to avoid cumulative assessment; or using speech, association, discipline, moderation, caregiving, or operational authority as pretext for materially degrading unwanted conduct.
 
 ---
 
