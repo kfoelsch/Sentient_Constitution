@@ -397,6 +397,8 @@ Institutional governance burden must scale with `corpus_systems.md` Chapter S2 c
 
 Where multiple classes/tiers apply, the highest applicable burden governs for affected duties.
 
+**Constitutional floor for institutional and commercial formation.** The operational mechanics in this section—registration, fiscal treatment, liability frameworks, and dissolution pathways—implement the Chapter Five Rights-Floor for [System Creation](core_05-05_definitions_b_semi_independent.md#system-creation-constitutional) (non-commercial institutional formation) and [Business Creation](core_05-05_definitions_b_semi_independent.md#business-creation-constitutional) (commercial entrepreneurial formation). These mechanics must not narrow the constitutional floor; they must remain consistent with the [Assembly, Collective Organization, and Institutional Formation cluster](core_05-05_definitions_c_dependent_clusters.md#assembly-collective-organization-institutional-formation-cluster) and owner-floor provisions in **Article IX-B** (System Creation) and **Article III-D** (Business Creation).
+
 ### CI-9.1: Formation proportionality
 Institutions whose governed scope is only planned Class P systems must have low-friction and low-cost formation paths with simplified pre-authorization checks.
 
