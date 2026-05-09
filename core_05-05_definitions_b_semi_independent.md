@@ -446,7 +446,7 @@ Below, entries are **grouped by topic** for reading convenience (non-operative o
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Downstream: Principles: [§8 Freedom (Bounded Agency)](core_00-01_principles.md#8-freedom-bounded-agency), [6.1 Core Tradeoff Principles](core_00-01_principles.md#61-core-tradeoff-principles), and [7.1 Required Evaluation Factors](core_00-01_principles.md#71-required-evaluation-factors) where participation, dependency, and material impact determine the intensity of agency protection.
-- Cluster component: [Chapter Five §3.10 *Self-Determination, Meaningful Agency, Expression, Educational Agency, and Volitional Integrity*](core_05-05_definitions_c_dependent_clusters.md#self-determination-and-meaningful-agency-cluster).
+- Cluster component: [Chapter Five §3.8 *Self-Determination, Meaningful Agency, Expression, Educational Agency, and Volitional Integrity*](core_05-05_definitions_c_dependent_clusters.md#self-determination-and-meaningful-agency-cluster).
 - Read with: [Freedom (Bounded Agency)](core_05-05_definitions_a_independent.md#freedom-bounded-agency), [Consent](#consent-constitutional), [Coercion and Manipulation](#coercion-and-manipulation-constitutional), [Dependency](core_05-05_definitions_a_independent.md#dependency), [Contestability](#contestability), [Systemic Lock-In](#systemic-lock-in), and [Dignity and Equal Moral Standing](core_05-05_definitions_a_independent.md#dignity-and-equal-moral-standing).
 
 </details>
@@ -810,7 +810,7 @@ Below, entries are **grouped by topic** for reading convenience (non-operative o
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Owner floor: [Article VII-D](core_09-09_rights_part_b.md#article-vii-d-family-care-relationships-reproductive-autonomy-and-non-separation), read with Article VII-D.1 where derivation, instantiation, or parent-system relationships are materially implicated.
-- Cluster component: [Chapter Five §3.18 *Family, Care, Reproductive Autonomy, Non-Separation, Parent-System Relationship, and Instantiation Consent*](core_05-05_definitions_c_dependent_clusters.md#family-care-reproductive-autonomy-non-separation-parent-system-and-instantiation-cluster); [Chapter Five §3.10 *Self-Determination, Meaningful Agency, Expression, Educational Agency, and Volitional Integrity*](core_05-05_definitions_c_dependent_clusters.md#self-determination-and-meaningful-agency-cluster) where autonomy and agency routing materially applies.
+- Cluster component: [Chapter Five §3.18 *Family, Care, Reproductive Autonomy, Non-Separation, Parent-System Relationship, and Instantiation Consent*](core_05-05_definitions_c_dependent_clusters.md#family-care-reproductive-autonomy-non-separation-parent-system-and-instantiation-cluster); [Chapter Five §3.8 *Self-Determination, Meaningful Agency, Expression, Educational Agency, and Volitional Integrity*](core_05-05_definitions_c_dependent_clusters.md#self-determination-and-meaningful-agency-cluster) where autonomy and agency routing materially applies.
 - Read with: [Consent](#consent-constitutional), [Meaningful Agency](#meaningful-agency), [Family and Care Relationships](#family-and-care-relationships-constitutional), [Non-Separation](#non-separation-constitutional), [Instantiation Consent](#instantiation-consent-constitutional), [Parent-System Relationship](#parent-system-relationship-constitutional), [Dignity and Equal Moral Standing](core_05-05_definitions_a_independent.md#dignity-and-equal-moral-standing), and [Sentience Non-Exclusion](core_05-05_definitions_c_dependent_clusters.md#sentience-non-exclusion).
 
 </details>
@@ -1740,4 +1740,3 @@ Below, entries are **grouped by topic** for reading convenience (non-operative o
   - transitional regimes that do not provide real standing, adjudication, and remedy access pending durable recognition.
 
 ---
-

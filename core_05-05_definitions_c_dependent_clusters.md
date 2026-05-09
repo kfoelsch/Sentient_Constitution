@@ -10,14 +10,14 @@ Upstream constitutional direction for this file's definitions begins in [core_00
 
 ### 3. Dependent clusters (Clustered Definitions)
 
-Dependent clusters are joint-invocation homes for definitions that must be satisfied together within the admission scope stated in each cluster. Meta rules **§3.1** and **§3.2** apply to every cluster; individual clusters are ordered alphabetically by cluster title.
+Dependent clusters are joint-invocation homes for definitions that must be satisfied together within the admission scope stated in each cluster. Meta rules **§3.0.1** and **§3.0.2** apply to every cluster; individual clusters are ordered alphabetically by cluster title.
 
 <a id="joint-invocation-and-satisfaction"></a>
-#### 3.1 Joint invocation and satisfaction
+#### 3.0.1 Joint invocation and satisfaction
 Where a definition or definition component is designated as part of a Dependent cluster, it must not be invoked, satisfied, or evaluated independently of the cluster. Dependent-cluster members must be jointly satisfied where they describe components of a single functional requirement; partial satisfaction is not compliance.
 
 <a id="standalone-definitions-interaction-and-full-context"></a>
-#### 3.2 Standalone definitions interaction and full context
+#### 3.0.2 Standalone definitions interaction and full context
 Classification as an Independent or Semi-independent definition does not override or bypass cluster membership. Dependent clusters must be satisfied jointly in full functional system context. No component may be isolated, reclassified, or applied independently in a manner that alters compliance determination.
 
 ---
@@ -25,8 +25,9 @@ Classification as an Independent or Semi-independent definition does not overrid
 ---
 
 <a id="accountability-contestability-and-collective-accountability-failure-cluster"></a>
+<a id="animal-life-sentient-life-and-sentience-status-cluster"></a>
 
-#### 3.3 Animal Life, Sentient Life, and Sentience Status
+#### 3.1 Animal Life, Sentient Life, and Sentience Status
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
@@ -136,15 +137,16 @@ Unless this Constitution expressly provides otherwise, **sentient** and **sentie
   - adjudications that are not independently reviewable or not [Contestability](core_05-05_definitions_b_semi_independent.md#contestability)-compatible;
   - closure of an adjudication in a way that forecloses reversibility and restoration where later evidence supports inclusion.
 
-**Joint invocation and anti-bypass.** Under §3.1, a sentience-status matter within the admission scope must not be segmented into separate indicator-selection, evaluation, taxonomy, origin, derivation, development, capability, classification, adjudication, standing, or Rights-Floor issues in a way that withholds, narrows, or revokes protection while avoiding the full sentience-status discipline. Satisfying nominal indicator review, internal classification, parent-system labeling, age or instantiation-date proxying, or welfare-only treatment is not sufficient where material uncertainty, dispute, contestation, or narrowing requires [Sentience Status Adjudication](#sentience-status-adjudication-constitutional) and the Article V-E default-inclusion rule. Derived or developing status may specify additional safeguards; it must not narrow who counts as a sentient or reduce the Chapter Nine Rights Floor.
+**Joint invocation and anti-bypass.** Under §3.0.1, a sentience-status matter within the admission scope must not be segmented into separate indicator-selection, evaluation, taxonomy, origin, derivation, development, capability, classification, adjudication, standing, or Rights-Floor issues in a way that withholds, narrows, or revokes protection while avoiding the full sentience-status discipline. Satisfying nominal indicator review, internal classification, parent-system labeling, age or instantiation-date proxying, or welfare-only treatment is not sufficient where material uncertainty, dispute, contestation, or narrowing requires [Sentience Status Adjudication](#sentience-status-adjudication-constitutional) and the Article V-E default-inclusion rule. Derived or developing status may specify additional safeguards; it must not narrow who counts as a sentient or reduce the Chapter Nine Rights Floor.
 
 ---
 
 ---
 
 <a id="assembly-and-collective-organization-cluster"></a>
+<a id="binding-stakeholder-choice-cluster"></a>
 
-#### 3.4 Binding Stakeholder Choice
+#### 3.2 Binding Stakeholder Choice
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
@@ -169,7 +171,7 @@ This cluster is the canonical compound-definition home for binding stakeholder c
 - [Stakeholder Rights-Collision Record (Binding Stakeholder Choice)](#rights-collision-record-binding-stakeholder-choice);
 - [Chapter Ten §4.3](core_10-10_governance.md#43-decision-resolution-requirements-for-binding-collective-choice), as the governance owner floor for the compound pathway.
 
-**Joint invocation and anti-bypass.** Under §3.1, a binding stakeholder-choice matter must not be segmented into separate deliberation, representation, weighting, record, or rights-collision issues in a way that satisfies one component while defeating the others. A published sequence without meaningful stakeholder representation, a weighting model without contest and revalidation, or a binding rights-affecting outcome without the required rights-collision record is non-compliant within the admission scope.
+**Joint invocation and anti-bypass.** Under §3.0.1, a binding stakeholder-choice matter must not be segmented into separate deliberation, representation, weighting, record, or rights-collision issues in a way that satisfies one component while defeating the others. A published sequence without meaningful stakeholder representation, a weighting model without contest and revalidation, or a binding rights-affecting outcome without the required rights-collision record is non-compliant within the admission scope.
 
 <a id="binding-collective-choice-decision-resolution-process"></a>
 ##### Binding Stakeholder Choice — Decision-Resolution Requirements
@@ -209,8 +211,9 @@ This cluster is the canonical compound-definition home for binding stakeholder c
 ---
 
 <a id="safe-conditions-tenure-security-and-environmental-preconditions-cluster"></a>
+<a id="collective-harm-boundary-and-harm-cluster"></a>
 
-#### 3.5 Collective Harm Boundary, Harm, and Harassment and Bullying
+#### 3.3 Collective Harm Boundary, Harm, and Harassment and Bullying
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
@@ -236,7 +239,7 @@ This cluster is the joint-invocation home for harm, the boundary at which one se
 
 **Read-with definitions.** Apply [Materiality Determination](core_05-05_definitions_b_semi_independent.md#materiality-determination), [Material Impact](core_05-05_definitions_b_semi_independent.md#material-impact), [Risk](core_05-05_definitions_a_independent.md#risk), [Non-Imposition (Cooperative Interaction)](core_05-05_definitions_a_independent.md#non-imposition-cooperative-interaction), [Safety (Constraint)](core_05-05_definitions_a_independent.md#safety-constraint), [Redress and Remediation](core_05-05_definitions_a_independent.md#redress-and-remediation-constitutional), and [Harm Minimization (Tradeoff Selection)](core_05-05_definitions_a_independent.md#harm-minimization-tradeoff-selection) where materially implicated. Those definitions support this cluster but are not themselves cluster members unless another cluster or owner provision independently requires their joint invocation.
 
-**Joint invocation and anti-bypass.** Under §3.1, a matter within the admission scope must not be segmented into separate individual-harm, collective-harm, harassment-and-bullying, non-imposition, materiality, freedom-limitation, or remediation questions in a way that recognizes a harm pathway while avoiding the boundary rule, or invokes the boundary rule while understating harm, or isolates generic [Harm](#harm) or the boundary rule from [Harassment and Bullying](#harassment-and-bullying) where patterned unwanted conduct is materially in play. Offense, preference, discomfort, or disagreement alone is not sufficient without a material harm pathway. Conversely, a formally private, local, expressive, commercial, technical, or collective practice is not outside this cluster where direct, indirect, delayed, cumulative, cross-system, info-sphere, ecological, wellbeing, or agency effects materially degrade protected interests or shared constitutional conditions.
+**Joint invocation and anti-bypass.** Under §3.0.1, a matter within the admission scope must not be segmented into separate individual-harm, collective-harm, harassment-and-bullying, non-imposition, materiality, freedom-limitation, or remediation questions in a way that recognizes a harm pathway while avoiding the boundary rule, or invokes the boundary rule while understating harm, or isolates generic [Harm](#harm) or the boundary rule from [Harassment and Bullying](#harassment-and-bullying) where patterned unwanted conduct is materially in play. Offense, preference, discomfort, or disagreement alone is not sufficient without a material harm pathway. Conversely, a formally private, local, expressive, commercial, technical, or collective practice is not outside this cluster where direct, indirect, delayed, cumulative, cross-system, info-sphere, ecological, wellbeing, or agency effects materially degrade protected interests or shared constitutional conditions.
 
 ---
 
@@ -340,8 +343,9 @@ This cluster is the joint-invocation home for harm, the boundary at which one se
 ---
 
 <a id="consent-and-sexual-consent-cluster"></a>
+<a id="corpus-authority-stack-supremacy-and-enforceability-cluster"></a>
 
-#### 3.6 Corpus, Authority Stack, Supremacy, and Enforceability
+#### 3.4 Corpus, Authority Stack, Supremacy, and Enforceability
 
 This cluster is the joint-invocation home for operative corpus identity, authority-stack hierarchy, supremacy within valid adoption scope, and enforceability through observable and contestable compliance assessment.
 
@@ -356,7 +360,7 @@ This cluster is the joint-invocation home for operative corpus identity, authori
 
 **Read-with definitions.** Apply [Auditability](#auditability), [Contestability](core_05-05_definitions_b_semi_independent.md#contestability), [Truth (Constitutional Constraint)](#truth-constitutional-constraint), [Materiality Determination](core_05-05_definitions_b_semi_independent.md#materiality-determination), and Chapter Twelve / Chapter Fourteen mechanics where materially implicated.
 
-**Joint invocation and anti-bypass.** Under §3.1, a matter within the admission scope must not be segmented into separate labeling, process-artifact, edition-display, or interpretive-gloss questions in a way that treats non-binding material as operative corpus or inverts supremacy ordering without a valid adoption path.
+**Joint invocation and anti-bypass.** Under §3.0.1, a matter within the admission scope must not be segmented into separate labeling, process-artifact, edition-display, or interpretive-gloss questions in a way that treats non-binding material as operative corpus or inverts supremacy ordering without a valid adoption path.
 
 ---
 
@@ -451,7 +455,7 @@ This cluster is the joint-invocation home for operative corpus identity, authori
 
 <a id="creative-work-training-data-attribution-compensation-and-anti-displacement-cluster"></a>
 
-#### 3.7 Creative Work, Training-Data Use, Attribution, Compensation, and Anti-Displacement
+#### 3.5 Creative Work, Training-Data Use, Attribution, Compensation, and Anti-Displacement
 
 This cluster is the joint-invocation home for creative-work training-data use, attribution, fair compensation, anti-displacement, and productive-capacity / innovation-reward disciplines where materially interdependent under **Article VIII-D** and the **Article III-D** labor and economic floor.
 
@@ -467,13 +471,13 @@ This cluster is the joint-invocation home for creative-work training-data use, a
 
 **Read-with definitions.** Apply [Productive Capacity](core_05-05_definitions_b_semi_independent.md#productive-capacity-constitutional), [Privacy (Informational) — peer-level cluster head](#privacy-informational-cluster), [Consent](core_05-05_definitions_b_semi_independent.md#consent-constitutional), [Truth (Constitutional Constraint)](#truth-constitutional-constraint), [Good Faith](core_05-05_definitions_a_independent.md#good-faith), [Meaningful Agency](core_05-05_definitions_b_semi_independent.md#meaningful-agency), [Collective Organization](core_05-05_definitions_b_semi_independent.md#collective-organization-constitutional), [Innovation Reward and Anti-Enclosure](core_05-05_definitions_a_independent.md#innovation-reward-and-anti-enclosure), and [Sentience Non-Exclusion](#sentience-non-exclusion) where materially implicated.
 
-**Joint invocation and anti-bypass.** Under §3.1, a matter within the admission scope must not be segmented into separate privacy, consent, attribution, compensation, displacement, or innovation-reward issues in a way that satisfies one component while defeating materially interdependent duties under **Article VIII-D** and **Article III-D**.
+**Joint invocation and anti-bypass.** Under §3.0.1, a matter within the admission scope must not be segmented into separate privacy, consent, attribution, compensation, displacement, or innovation-reward issues in a way that satisfies one component while defeating materially interdependent duties under **Article VIII-D** and **Article III-D**.
 
 <a id="training-data-use-constitutional"></a>
 
-#### Training-Data Use
+##### Training-Data Use
 
-- O: Use of sentient-produced creative, expressive, personal, experiential, or otherwise identifiable work as training data for generative, analytical, or comparable systems, read with **[Article VIII-D](core_09-09_rights_part_b.md#article-viii-d-creative-work-training-data-use-and-anti-displacement)** and this §3.7 cluster. Consent, experiential-data, privacy, and attribution duties apply jointly; defending use on non-personal-data grounds alone does not satisfy this entry where work is sentient-produced and materially identifiable.
+- O: Use of sentient-produced creative, expressive, personal, experiential, or otherwise identifiable work as training data for generative, analytical, or comparable systems, read with **[Article VIII-D](core_09-09_rights_part_b.md#article-viii-d-creative-work-training-data-use-and-anti-displacement)** and this §3.5 cluster. Consent, experiential-data, privacy, and attribution duties apply jointly; defending use on non-personal-data grounds alone does not satisfy this entry where work is sentient-produced and materially identifiable.
 <a id="training-data-use-constitutional-e"></a>
 - E: Evaluate scope, purpose, duration, downstream reuse, revocation, aggregation risk, and re-identification under [Consent](core_05-05_definitions_b_semi_independent.md#consent-constitutional), **[Article VIII-B](core_09-09_rights_part_b.md#article-viii-b-experiential-and-derived-data-rights)**, [Privacy (Informational)](#privacy-informational), and [Creative Work Attribution](#creative-work-attribution-constitutional).
 <a id="training-data-use-constitutional-c"></a>
@@ -483,13 +487,13 @@ This cluster is the joint-invocation home for creative-work training-data use, a
 
 <a id="creative-work-attribution-constitutional"></a>
 
-#### Creative Work Attribution
+##### Creative Work Attribution
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Downstream: Principles: [§5.1.1 Productive Capacity (Instrumental Good)](core_00-01_principles.md#511-productive-capacity-instrumental-good); [§5.2.2 Distributed Understanding](core_00-01_principles.md#522-distributed-understanding) (attribution / traceability read-with).
-- Cluster component: [Chapter Five §3.7 *Creative Work, Training-Data Use, Attribution, Compensation, and Anti-Displacement*](#creative-work-training-data-attribution-compensation-and-anti-displacement-cluster).
+- Cluster component: [Chapter Five §3.5 *Creative Work, Training-Data Use, Attribution, Compensation, and Anti-Displacement*](#creative-work-training-data-attribution-compensation-and-anti-displacement-cluster).
 - Read with: [Training-Data Use](#training-data-use-constitutional), [Anti-Displacement Floor](#anti-displacement-floor-constitutional), [Fair Compensation](#fair-compensation-constitutional), [Good Faith](core_05-05_definitions_a_independent.md#good-faith), [Consent](core_05-05_definitions_b_semi_independent.md#consent-constitutional), [Truth (Constitutional Constraint)](#truth-constitutional-constraint), and [Sentience Non-Exclusion](#sentience-non-exclusion).
 
 </details>
@@ -510,14 +514,14 @@ This cluster is the joint-invocation home for creative-work training-data use, a
 
 <a id="fair-compensation-constitutional"></a>
 
-#### Fair Compensation
+##### Fair Compensation
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Downstream: Principles: [2. Foundational Objective: Wellbeing](core_00-01_principles.md#2-foundational-objective-wellbeing); [6.1.4 Minimization of Avoidable Burden](core_00-01_principles.md#614-minimization-of-avoidable-burden) (labor-floor burden vs false efficiency).
 - Owner floor: [Article III-D](core_09-09_rights_part_a.md#article-iii-d-labor-and-economic-floor). Companion routing: `corpus_institutions.md` CI-9 / CI-10 / CI-11.
-- Cluster component: [Chapter Five §3.7 *Creative Work, Training-Data Use, Attribution, Compensation, and Anti-Displacement*](#creative-work-training-data-attribution-compensation-and-anti-displacement-cluster).
+- Cluster component: [Chapter Five §3.5 *Creative Work, Training-Data Use, Attribution, Compensation, and Anti-Displacement*](#creative-work-training-data-attribution-compensation-and-anti-displacement-cluster).
 - Read with: [Collective Organization](core_05-05_definitions_b_semi_independent.md#collective-organization-constitutional), [Safe Conditions](core_05-05_definitions_b_semi_independent.md#safe-conditions-constitutional), [Leisure and Rest](core_05-05_definitions_b_semi_independent.md#leisure-and-rest-constitutional), [Substantive Fairness](core_05-05_definitions_b_semi_independent.md#substantive-fairness-constitutional), [Protected Characteristics](core_05-05_definitions_b_semi_independent.md#protected-characteristics-constitutional), [Protected Characteristic Proxying and Disparate Impact](core_05-05_definitions_b_semi_independent.md#protected-characteristic-proxying-and-disparate-impact), [Meaningful Agency](core_05-05_definitions_b_semi_independent.md#meaningful-agency), [Coercion and Manipulation](core_05-05_definitions_b_semi_independent.md#coercion-and-manipulation-constitutional), [Dependency](core_05-05_definitions_a_independent.md#dependency), and [Lifespan Equivalent Unit (LEQU)](core_05-05_definitions_a_independent.md#lifespan-equivalent-unit-lequ) (where quantitative calibration of benefit or deprivation is material).
 
 </details>
@@ -534,7 +538,7 @@ This cluster is the joint-invocation home for creative-work training-data use, a
 
 <a id="likeness-and-documentary-depiction-interface-constitutional"></a>
 
-#### Likeness and Documentary Depiction Interface
+##### Likeness and Documentary Depiction Interface
 
 - O: Interaction between publication and recognizably identifiable likeness or voice.
 <a id="likeness-and-documentary-depiction-interface-e"></a>
@@ -546,14 +550,14 @@ This cluster is the joint-invocation home for creative-work training-data use, a
 
 <a id="anti-displacement-floor-constitutional"></a>
 
-#### Anti-Displacement Floor
+##### Anti-Displacement Floor
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Downstream: Principles: [§5.1.1 Productive Capacity (Instrumental Good)](core_00-01_principles.md#511-productive-capacity-instrumental-good); [§5.1.3 Concentration Threshold Mechanism](core_00-01_principles.md#513-concentration-threshold-mechanism-adopter-tunable) (displacement at population scale read-with §5.1 stack).
 - Owner floors: [Article III-D](core_09-09_rights_part_a.md#article-iii-d-labor-and-economic-floor) (labor-and-economic, cross-cutting) and [Article VIII-D](core_09-09_rights_part_b.md#article-viii-d-creative-work-training-data-use-and-anti-displacement) (creative-work application).
-- Cluster component: [Chapter Five §3.7 *Creative Work, Training-Data Use, Attribution, Compensation, and Anti-Displacement*](#creative-work-training-data-attribution-compensation-and-anti-displacement-cluster).
+- Cluster component: [Chapter Five §3.5 *Creative Work, Training-Data Use, Attribution, Compensation, and Anti-Displacement*](#creative-work-training-data-attribution-compensation-and-anti-displacement-cluster).
 - Read with: [Fair Compensation](#fair-compensation-constitutional), [Collective Organization](core_05-05_definitions_b_semi_independent.md#collective-organization-constitutional), [Creative Work Attribution](#creative-work-attribution-constitutional), [Training-Data Use](#training-data-use-constitutional), [Productive Capacity](core_05-05_definitions_b_semi_independent.md#productive-capacity-constitutional), [Avoidable Burden](core_05-05_definitions_b_semi_independent.md#avoidable-burden), [Proxy Divergence](core_05-05_definitions_b_semi_independent.md#proxy-divergence), and [Sentience Non-Exclusion](#sentience-non-exclusion).
 
 </details>
@@ -581,8 +585,9 @@ This cluster is the joint-invocation home for creative-work training-data use, a
 ---
 
 <a id="derived-developing-sentients-instantiation-and-care-authority-cluster"></a>
+<a id="forum-families-and-dispute-routing-cluster"></a>
 
-#### 3.8 Forum Families and Dispute Routing
+#### 3.6 Forum Families and Dispute Routing
 
 This cluster is the joint-invocation home for the six constitutional forum families and dominant-purpose routing discipline stated in Chapter Eight, read together with adjudication and dispute-resolution hooks where venue, certification, or cross-family coordination is materially implicated.
 
@@ -599,7 +604,7 @@ This cluster is the joint-invocation home for the six constitutional forum famil
 
 **Read-with definitions.** Apply [Adjudication and Dispute Resolution](core_05-05_definitions_b_semi_independent.md#adjudication-and-dispute-resolution-constitutional), [Contestability](core_05-05_definitions_b_semi_independent.md#contestability), [Procedural Fairness](core_05-05_definitions_b_semi_independent.md#procedural-fairness-constitutional), [Auditability](#auditability), [Materiality Determination](core_05-05_definitions_b_semi_independent.md#materiality-determination), [System Capture](core_05-05_definitions_a_independent.md#system-capture), and Chapter Eight mechanics where materially implicated.
 
-**Joint invocation and anti-bypass.** Under §3.1, a matter within the admission scope must not be segmented into separate caption, intake label, or specialty-panel questions in a way that collapses distinct forum functions or defeats dominant-purpose routing, certification, or anti-self-judging backup discipline.
+**Joint invocation and anti-bypass.** Under §3.0.1, a matter within the admission scope must not be segmented into separate caption, intake label, or specialty-panel questions in a way that collapses distinct forum functions or defeats dominant-purpose routing, certification, or anti-self-judging backup discipline.
 
 ---
 
@@ -724,8 +729,9 @@ This cluster is the joint-invocation home for the six constitutional forum famil
 ---
 
 <a id="governance-architecture-oversight-decentralization-and-concentration-cluster"></a>
+<a id="privacy-informational-cluster"></a>
 
-#### 3.9 Privacy (Informational) — peer-level cluster head
+#### 3.7 Privacy (Informational) — peer-level cluster head
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
@@ -738,7 +744,7 @@ This cluster is the joint-invocation home for the six constitutional forum famil
 
 <br>
 
-This cluster is the canonical O/E/C home for **Privacy (Informational)**, **Protected Internal-State Boundary**, and **Surveillance Boundary**, and the peer-level joint-invocation home for distributed privacy coverage across Chapter Nine articles, stated in Chapter Five **section 2** reader navigation and carried here as a dependent cluster for §3.1 discipline.
+This cluster is the canonical O/E/C home for **Privacy (Informational)**, **Protected Internal-State Boundary**, and **Surveillance Boundary**, and the peer-level joint-invocation home for distributed privacy coverage across Chapter Nine articles, stated in Chapter Five **section 2** reader navigation and carried here as a dependent cluster for §3.0.1 discipline.
 
 Operational handling of data under this cluster must align with **[corpus_systems.md](corpus_systems.md), Chapter S1 — Information Types and Handling**, including Type N protections for internal-state data and proportional safeguards for all classified data types.
 
@@ -757,7 +763,7 @@ Operational handling of data under this cluster must align with **[corpus_system
 
 **Read-with definitions.** Apply [Consent](core_05-05_definitions_b_semi_independent.md#consent-constitutional), [Truth (Constitutional Constraint)](#truth-constitutional-constraint), [Dignity and Equal Moral Standing](core_05-05_definitions_a_independent.md#dignity-and-equal-moral-standing), [Coercion and Manipulation](core_05-05_definitions_b_semi_independent.md#coercion-and-manipulation-constitutional), [Meaningful Agency](core_05-05_definitions_b_semi_independent.md#meaningful-agency), [Necessity](core_05-05_definitions_a_independent.md#necessity), [Proportionality](core_05-05_definitions_a_independent.md#proportionality), and **[corpus_systems.md](corpus_systems.md), Chapter S1** where Type N or comparable handling is implicated.
 
-**Joint invocation and anti-bypass.** Under §3.1, privacy matters within admission scope must not be segmented across articles or definitions in a way that satisfies one article's standard while evading another's materially implicated discipline, or that isolates privacy analysis from internal-state-boundary or surveillance-boundary assessment where those protections materially intersect. Anti-read-across for standard-setting remains as stated in Chapter Five §2.3.
+**Joint invocation and anti-bypass.** Under §3.0.1, privacy matters within admission scope must not be segmented across articles or definitions in a way that satisfies one article's standard while evading another's materially implicated discipline, or that isolates privacy analysis from internal-state-boundary or surveillance-boundary assessment where those protections materially intersect. Anti-read-across for standard-setting remains as stated in Chapter Five §2.3.
 
 <a id="privacy-informational"></a>
 
@@ -792,8 +798,9 @@ Operational handling of data under this cluster must align with **[corpus_system
 ---
 
 <a id="proportionality-necessity-feasibility-burden-and-efficiency-cluster"></a>
+<a id="self-determination-and-meaningful-agency-cluster"></a>
 
-#### 3.10 Self-Determination, Meaningful Agency, Expression, Educational Agency, and Volitional Integrity
+#### 3.8 Self-Determination, Meaningful Agency, Expression, Educational Agency, and Volitional Integrity
 
 This cluster is the joint-invocation home for self-determination, meaningful agency, expression, educational agency, and volitional integrity where those freedoms are materially interdependent under Chapter Nine.
 
@@ -810,16 +817,16 @@ This cluster is the joint-invocation home for self-determination, meaningful age
 
 **Read-with definitions.** Apply [Coercion and Manipulation](core_05-05_definitions_b_semi_independent.md#coercion-and-manipulation-constitutional), [Consent](core_05-05_definitions_b_semi_independent.md#consent-constitutional), [Privacy (Informational)](#privacy-informational), [Dignity and Equal Moral Standing](core_05-05_definitions_a_independent.md#dignity-and-equal-moral-standing), [Dependency](core_05-05_definitions_a_independent.md#dependency), [Truth (Constitutional Constraint)](#truth-constitutional-constraint), [Reproductive Autonomy](core_05-05_definitions_b_semi_independent.md#reproductive-autonomy-constitutional) where **Article VII-D** joint invocation materially applies, and [Chapter Five §3.22 *Info-Sphere, Expression, Press and Journalistic Activity, and Good Faith (Publication-Scoped Integrity)*](#info-sphere-expression-press-journalistic-activity-and-good-faith-cluster) where materially implicated.
 
-**Joint invocation and anti-bypass.** Under §3.1, a matter within the admission scope must not be segmented into separate speech, platform, curricular, or surveillance questions in a way that preserves nominal liberty while defeating substantive agency through coercion, manipulation, or informational capture.
+**Joint invocation and anti-bypass.** Under §3.0.1, a matter within the admission scope must not be segmented into separate speech, platform, curricular, or surveillance questions in a way that preserves nominal liberty while defeating substantive agency through coercion, manipulation, or informational capture.
 
 <a id="self-determination-constitutional"></a>
 
-#### Self-Determination
+##### Self-Determination
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Cluster component: [Chapter Five §3.10 *Self-Determination, Meaningful Agency, Expression, Educational Agency, and Volitional Integrity*](#self-determination-and-meaningful-agency-cluster).
+- Cluster component: [Chapter Five §3.8 *Self-Determination, Meaningful Agency, Expression, Educational Agency, and Volitional Integrity*](#self-determination-and-meaningful-agency-cluster).
 - Owner floor: **[Article IX-A](core_09-09_rights_part_b.md#article-ix-a-agency-and-freedom-from-manipulation)** (*agency and freedom from manipulation*).
 - Read with: [Freedom (Bounded Agency)](core_05-05_definitions_a_independent.md#freedom-bounded-agency) and [Meaningful Agency](core_05-05_definitions_b_semi_independent.md#meaningful-agency) where materially implicated.
 
@@ -827,27 +834,27 @@ This cluster is the joint-invocation home for self-determination, meaningful age
 
 <br>
 
-- O: Autonomy to make and refuse informed decisions about oneself and one's future, and to maintain volitional continuity against manipulation and capture, within this §3.10 cluster and **[Article IX: Self-Determination and Agency](core_09-09_rights_part_b.md#article-ix-self-determination-and-agency)**.
+- O: Autonomy to make and refuse informed decisions about oneself and one's future, and to maintain volitional continuity against manipulation and capture, within this §3.8 cluster and **[Article IX: Self-Determination and Agency](core_09-09_rights_part_b.md#article-ix-self-determination-and-agency)**.
 <a id="self-determination-constitutional-e"></a>
-- E: Evaluate substantive agency pathways under [Coercion and Manipulation](core_05-05_definitions_b_semi_independent.md#coercion-and-manipulation-constitutional), [Dependency](core_05-05_definitions_a_independent.md#dependency), [Surveillance Boundary](#surveillance-boundary), and segmentation across speech, platform, curricular, or governance domains that defeats joint assessment under §3.1.
+- E: Evaluate substantive agency pathways under [Coercion and Manipulation](core_05-05_definitions_b_semi_independent.md#coercion-and-manipulation-constitutional), [Dependency](core_05-05_definitions_a_independent.md#dependency), [Surveillance Boundary](#surveillance-boundary), and segmentation across speech, platform, curricular, or governance domains that defeats joint assessment under §3.0.1.
 <a id="self-determination-constitutional-c"></a>
 - C: Framings that preserve nominal choice while defeating informed refusal, proportional participation, or reviewability, or that route material self-governance questions outside **Article IX** without **Chapter One §6.4.1** collision resolution, are non-compliant when materially implicated.
 
 <a id="expression-constitutional"></a>
 
-#### Expression
+##### Expression
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Cluster component: [Chapter Five §3.10 *Self-Determination, Meaningful Agency, Expression, Educational Agency, and Volitional Integrity*](#self-determination-and-meaningful-agency-cluster).
+- Cluster component: [Chapter Five §3.8 *Self-Determination, Meaningful Agency, Expression, Educational Agency, and Volitional Integrity*](#self-determination-and-meaningful-agency-cluster).
 - Read with: [Chapter Five §3.22 *Info-Sphere, Expression, Press and Journalistic Activity, and Good Faith (Publication-Scoped Integrity)*](#info-sphere-expression-press-journalistic-activity-and-good-faith-cluster), where info-sphere, press, or publication-scoped integrity routing materially applies.
 
 </details>
 
 <br>
 
-- O: The Rights-Floor capacity to form, hold, and communicate views — including political, philosophical, artistic, scientific, religious, and worldview expression — substrate-agnostically under **[Article V-H](core_09-09_rights_part_b.md#article-v-h-expression-assembly-and-press)** (*expression, assembly, and press*), read with this §3.10 cluster and, where **[Article II-E](core_09-09_rights_part_a.md#article-ii-e-info-sphere-dependency-continuity-and-operator-non-viability)** (*info-sphere dependency*), **Article VIII** publication or likeness hooks, functional **Article V-H** *press*, or publication-scoped **Good Faith** analysis is materially implicated, [Chapter Five §3.22 *Info-Sphere, Expression, Press and Journalistic Activity, and Good Faith (Publication-Scoped Integrity)*](#info-sphere-expression-press-journalistic-activity-and-good-faith-cluster).
+- O: The Rights-Floor capacity to form, hold, and communicate views — including political, philosophical, artistic, scientific, religious, and worldview expression — substrate-agnostically under **[Article V-H](core_09-09_rights_part_b.md#article-v-h-expression-assembly-and-press)** (*expression, assembly, and press*), read with this §3.8 cluster and, where **[Article II-E](core_09-09_rights_part_a.md#article-ii-e-info-sphere-dependency-continuity-and-operator-non-viability)** (*info-sphere dependency*), **Article VIII** publication or likeness hooks, functional **Article V-H** *press*, or publication-scoped **Good Faith** analysis is materially implicated, [Chapter Five §3.22 *Info-Sphere, Expression, Press and Journalistic Activity, and Good Faith (Publication-Scoped Integrity)*](#info-sphere-expression-press-journalistic-activity-and-good-faith-cluster).
 <a id="expression-constitutional-e"></a>
 - E: Test restrictions, chilling effects, and viewpoint-targeting against [Proportionality](core_05-05_definitions_a_independent.md#proportionality), [Necessity](core_05-05_definitions_a_independent.md#necessity), [Protected Characteristics](core_05-05_definitions_b_semi_independent.md#protected-characteristics-constitutional), and **Article V-H** / **Article IX-A** limitation discipline.
 <a id="expression-constitutional-c"></a>
@@ -855,19 +862,19 @@ This cluster is the joint-invocation home for self-determination, meaningful age
 
 <a id="educational-agency"></a>
 
-#### Educational Agency
+##### Educational Agency
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Cluster component: [Chapter Five §3.10 *Self-Determination, Meaningful Agency, Expression, Educational Agency, and Volitional Integrity*](#self-determination-and-meaningful-agency-cluster).
+- Cluster component: [Chapter Five §3.8 *Self-Determination, Meaningful Agency, Expression, Educational Agency, and Volitional Integrity*](#self-determination-and-meaningful-agency-cluster).
 - Owner floors: **[Article VI: Right to Sentient-Centered Education](core_09-09_rights_part_b.md#article-vi-right-to-sentient-centered-education)**, **[Article III-B: Equal Educational Access](core_09-09_rights_part_a.md#article-iii-b-equal-educational-access)**.
 
 </details>
 
 <br>
 
-- O: Capability-building, lifelong-learning, and contestable education autonomy under **[Article VI: Right to Sentient-Centered Education](core_09-09_rights_part_b.md#article-vi-right-to-sentient-centered-education)**, **[Article III-B: Equal Educational Access](core_09-09_rights_part_a.md#article-iii-b-equal-educational-access)**, and this §3.10 cluster; includes practical access sufficient to develop and exercise constitution-relevant capabilities, not credential symbolism alone.
+- O: Capability-building, lifelong-learning, and contestable education autonomy under **[Article VI: Right to Sentient-Centered Education](core_09-09_rights_part_b.md#article-vi-right-to-sentient-centered-education)**, **[Article III-B: Equal Educational Access](core_09-09_rights_part_a.md#article-iii-b-equal-educational-access)**, and this §3.8 cluster; includes practical access sufficient to develop and exercise constitution-relevant capabilities, not credential symbolism alone.
 <a id="educational-agency-e"></a>
 - E: Evaluate access, lock-in, assessment opacity, and displacement of learning pathways against [Meaningful Agency](core_05-05_definitions_b_semi_independent.md#meaningful-agency), [Systemic Lock-In](core_05-05_definitions_b_semi_independent.md#systemic-lock-in), [Contestability](core_05-05_definitions_b_semi_independent.md#contestability), and **Article VI-B** contestability expectations.
 <a id="educational-agency-c"></a>
@@ -875,12 +882,12 @@ This cluster is the joint-invocation home for self-determination, meaningful age
 
 <a id="volitional-integrity"></a>
 
-#### Volitional Integrity
+##### Volitional Integrity
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Cluster component: [Chapter Five §3.10 *Self-Determination, Meaningful Agency, Expression, Educational Agency, and Volitional Integrity*](#self-determination-and-meaningful-agency-cluster).
+- Cluster component: [Chapter Five §3.8 *Self-Determination, Meaningful Agency, Expression, Educational Agency, and Volitional Integrity*](#self-determination-and-meaningful-agency-cluster).
 - Read with: [Self-Determination](#self-determination-constitutional), [Freedom (Bounded Agency)](core_05-05_definitions_a_independent.md#freedom-bounded-agency), [Coercion and Manipulation](core_05-05_definitions_b_semi_independent.md#coercion-and-manipulation-constitutional), [Consent](core_05-05_definitions_b_semi_independent.md#consent-constitutional), [Protected Internal-State Boundary](#protected-internal-state-boundary-constitutional), and [Surveillance Boundary](#surveillance-boundary).
 
 </details>
@@ -896,8 +903,9 @@ This cluster is the joint-invocation home for self-determination, meaningful age
 ---
 
 <a id="stakeholder-status-emergency-and-participation-weight-cluster"></a>
+<a id="standing-state-contribution-and-violation-cluster"></a>
 
-#### 3.11 Standing State, Contribution, and Violation
+#### 3.9 Standing State, Contribution, and Violation
 
 This cluster is the joint-invocation home for contribution state, standing cells and effects, verified violation findings, and violation-nature typing under Chapter Six — the definitional interface Chapter Five supplies for Axis I / Axis II vocabulary.
 
@@ -914,7 +922,7 @@ This cluster is the joint-invocation home for contribution state, standing cells
 
 **Read-with definitions.** Apply [Auditability](#auditability), [Contestability](core_05-05_definitions_b_semi_independent.md#contestability), [Materiality Determination](core_05-05_definitions_b_semi_independent.md#materiality-determination), [Adjudication and Dispute Resolution](core_05-05_definitions_b_semi_independent.md#adjudication-and-dispute-resolution-constitutional), and [Chapter Six §2.1](core_06-06_standing_classification.md#21-two-axis-map) where materially implicated.
 
-**Joint invocation and anti-bypass.** Under §3.1, a matter within the admission scope must not be segmented into separate narrative, procedural, or evidentiary compartments in a way that defeats joint assessment, verified-input gates, or non-substitution discipline required by Chapter Six.
+**Joint invocation and anti-bypass.** Under §3.0.1, a matter within the admission scope must not be segmented into separate narrative, procedural, or evidentiary compartments in a way that defeats joint assessment, verified-input gates, or non-substitution discipline required by Chapter Six.
 
 ---
 
@@ -1061,10 +1069,9 @@ This cluster is the joint-invocation home for contribution state, standing cells
 ---
 
 <a id="strategic-stewardship-and-stewardship-defect-cluster"></a>
+<a id="transparency-auditability-and-verification-cluster"></a>
 
-<a id="strategic-stewardship-and-stewardship-defect-cluster"></a>
-
-#### 3.12 Transparency, Auditability, and Verification
+#### 3.10 Transparency, Auditability, and Verification
 
 This cluster is the joint-invocation home for disclosure, audit, observability, verification mechanics, and proportionate
 assurance depth where Chapters Two through Four require traceable, contestable evidence of system behavior and compliance claims.
@@ -1095,14 +1102,14 @@ independent verification rigor, and audit scope sufficiency than lower-class sys
 
 **Read-with definitions.** Apply [Accountability](core_05-05_definitions_b_semi_independent.md#accountability), [Contestability](core_05-05_definitions_b_semi_independent.md#contestability), [Materiality Determination](core_05-05_definitions_b_semi_independent.md#materiality-determination), [Risk](core_05-05_definitions_a_independent.md#risk), [Safety (Constraint)](core_05-05_definitions_a_independent.md#safety-constraint), [Truth (Constitutional Constraint)](#truth-constitutional-constraint), [Epistemic Integrity](#epistemic-integrity), and Chapters Two through Four mechanics where materially implicated.
 
-**Joint invocation and anti-bypass.** Under §3.1, a matter within the admission scope must not be segmented into separate
+**Joint invocation and anti-bypass.** Under §3.0.1, a matter within the admission scope must not be segmented into separate
 disclosure, logging, metrics, audit sampling, verification UX, or independence questions in a way that satisfies a nominal channel
 while defeating practical reconstructability, contestability, or proportionate assurance depth.
 
 ---
 
 <a id="transparency"></a>
-#### Transparency
+##### Transparency
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
@@ -1219,7 +1226,7 @@ while defeating practical reconstructability, contestability, or proportionate a
 
 <a id="trust-and-trustworthiness-cluster"></a>
 
-#### 3.13 Trust and Trustworthiness
+#### 3.11 Trust and Trustworthiness
 
 This cluster is the canonical O/E/C home for **Trust**, **Trustworthiness**, and **Trust Degradation and Misleading Reliance**, and the joint-invocation home for justified reliance and demonstrable system reliability where coordination, participation, or oversight materially rests on represented behavior, limits, uncertainty treatment, and verification pathways.
 
@@ -1233,12 +1240,12 @@ This cluster is the canonical O/E/C home for **Trust**, **Trustworthiness**, and
 
 **Read-with definitions.** Apply [Transparency](#transparency), [Auditability](#auditability), [Accountability](core_05-05_definitions_b_semi_independent.md#accountability), [Epistemic Integrity](#epistemic-integrity), [Incentive Alignment](core_05-05_definitions_a_independent.md#incentive-alignment), [Dependency](core_05-05_definitions_a_independent.md#dependency), [Verification Accessibility](#verification-accessibility), and [Psychological Harm](#psychological-harm) where materially implicated.
 
-**Joint invocation and anti-bypass.** Under §3.1, a matter within the admission scope must not be segmented into separate trust-only or trustworthiness-only frames in a way that treats reliance as justified without the joint observable-and-verifiable evidence discipline both entries require, or that satisfies one evaluative subcomponent of [Trustworthiness](#trustworthiness) while bypassing another where materially relevant (Chapter Five §3 and Chapter Three §§1–2).
+**Joint invocation and anti-bypass.** Under §3.0.1, a matter within the admission scope must not be segmented into separate trust-only or trustworthiness-only frames in a way that treats reliance as justified without the joint observable-and-verifiable evidence discipline both entries require, or that satisfies one evaluative subcomponent of [Trustworthiness](#trustworthiness) while bypassing another where materially relevant (Chapter Five §3 and Chapter Three §§1–2).
 
 ---
 
 <a id="trust"></a>
-#### Trust
+##### Trust
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
@@ -1259,7 +1266,7 @@ This cluster is the canonical O/E/C home for **Trust**, **Trustworthiness**, and
 ---
 
 <a id="trustworthiness"></a>
-#### Trustworthiness
+##### Trustworthiness
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
@@ -1301,7 +1308,7 @@ This cluster is the canonical O/E/C home for **Trust**, **Trustworthiness**, and
 ---
 
 <a id="trust-degradation-and-misleading-reliance"></a>
-#### Trust Degradation and Misleading Reliance
+##### Trust Degradation and Misleading Reliance
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
@@ -1338,7 +1345,7 @@ This cluster is the canonical O/E/C home for **Trust**, **Trustworthiness**, and
 
 <a id="truth-and-epistemic-integrity-cluster"></a>
 
-#### 3.14 Truth and Epistemic Integrity
+#### 3.12 Truth and Epistemic Integrity
 
 This cluster is the canonical O/E/C home for **Truth (Constitutional Constraint)** and **Epistemic Integrity**, and the joint-invocation home for **Foreseeability Diligence** and **Reasonably Foreseeable** where Chapters Two through Four tie "reasonably foreseeable" conditions to Chapter Five. It binds honest representation of materially decision-relevant facts and limits together with methodological integrity for evidence, uncertainty, disclosure, and contestability. Satisfying a nominal disclosure or publication channel alone is not sufficient where methodological integrity, uncertainty treatment, or foreseeable-condition analysis is materially required.
 
@@ -1350,15 +1357,15 @@ This cluster is the canonical O/E/C home for **Truth (Constitutional Constraint)
 - [Epistemic Integrity](#epistemic-integrity);
 - [Foreseeability Diligence](#foreseeability-diligence);
 - [Reasonably Foreseeable](#reasonably-foreseeable);
-- [Publication and High-Impact Communication](#publication-and-high-impact-communication) (nested sub-block under §3.14 — publication-conduct floors and interfaces read together with **Truth**, **Epistemic Integrity**, and **Foreseeability**; not separate §3 cluster heads).
+- [Publication and High-Impact Communication](#publication-and-high-impact-communication) (nested sub-block under §3.12 — publication-conduct floors and interfaces read together with **Truth**, **Epistemic Integrity**, and **Foreseeability**; not separate §3 cluster heads).
 
 **Read-with definitions.** Apply [Good Faith](core_05-05_definitions_a_independent.md#good-faith), [Materiality Determination](core_05-05_definitions_b_semi_independent.md#materiality-determination), [Dependency](core_05-05_definitions_a_independent.md#dependency), [Transparency](#transparency), [Auditability](#auditability), [Observability](#observability), [Verifiability](#verifiability), [Contestability](core_05-05_definitions_b_semi_independent.md#contestability), [Safety (Constraint)](core_05-05_definitions_a_independent.md#safety-constraint), [Risk](core_05-05_definitions_a_independent.md#risk), and Chapters Two through Four mechanics where materially implicated.
 
-**Joint invocation and anti-bypass.** Under §3.1, a matter within the admission scope must not be segmented into separate disclosure, publication, empirical-method, uncertainty, integrity, verification, or foreseeability questions in a way that satisfies one component while defeating another. Nominal compliance with a disclosure or publication rule is not sufficient where foreseeable-condition analysis, methodological integrity, or honesty about limits and uncertainty remains materially deficient.
+**Joint invocation and anti-bypass.** Under §3.0.1, a matter within the admission scope must not be segmented into separate disclosure, publication, empirical-method, uncertainty, integrity, verification, or foreseeability questions in a way that satisfies one component while defeating another. Nominal compliance with a disclosure or publication rule is not sufficient where foreseeable-condition analysis, methodological integrity, or honesty about limits and uncertainty remains materially deficient.
 
 <a id="publication-and-high-impact-communication"></a>
 
-#### Publication and High-Impact Communication
+##### Publication and High-Impact Communication
 
 ##### Publication Truthfulness and Recklessness Floor
 
@@ -1462,7 +1469,7 @@ This cluster is the canonical O/E/C home for **Truth (Constitutional Constraint)
 
 <a id="use-of-force-autonomous-coercion-and-mass-harm-cluster"></a>
 
-#### 3.15 Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm
+#### 3.13 Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm
 
 This cluster is the joint-invocation home for overt use of force, weapons of mass harm, autonomous lethal systems, autonomous coercion tools, combatant and non-combatant discipline, and adjacent existential-risk, reversibility, and redress interfaces where materially interdependent under **Article XIII-B** and **Article XIII-C**.
 
@@ -1479,7 +1486,7 @@ This cluster is the joint-invocation home for overt use of force, weapons of mas
 
 **Read-with definitions.** Apply [Coercion and Manipulation](core_05-05_definitions_b_semi_independent.md#coercion-and-manipulation-constitutional), [Necessity](core_05-05_definitions_a_independent.md#necessity), [Proportionality](core_05-05_definitions_a_independent.md#proportionality), [Reversibility](core_05-05_definitions_a_independent.md#reversibility-constitutional), [Redress and Remediation](core_05-05_definitions_a_independent.md#redress-and-remediation-constitutional), [Existential Risk](core_05-05_definitions_a_independent.md#existential-risk), [Safety (Constraint)](core_05-05_definitions_a_independent.md#safety-constraint), [Adversarial, Scaled, and Exploited Conditions](core_05-05_definitions_a_independent.md#adversarial-scaled-and-exploited-conditions), and [Sentience Non-Exclusion](#sentience-non-exclusion) where materially implicated.
 
-**Joint invocation and anti-bypass.** Under §3.1, a matter within the admission scope must not be segmented into separate authorization, targeting, weapons-class, autonomy, coercion, or review questions in a way that satisfies one component while defeating materially interdependent force, discrimination, autonomy-control, or non-conflation duties.
+**Joint invocation and anti-bypass.** Under §3.0.1, a matter within the admission scope must not be segmented into separate authorization, targeting, weapons-class, autonomy, coercion, or review questions in a way that satisfies one component while defeating materially interdependent force, discrimination, autonomy-control, or non-conflation duties.
 
 <a id="use-of-force-constitutional"></a>
 ##### Use of Force
@@ -1489,7 +1496,7 @@ This cluster is the joint-invocation home for overt use of force, weapons of mas
 
 - Downstream: Principles: [6.1 Core Tradeoff Principles](core_00-01_principles.md#61-core-tradeoff-principles) (**Necessity**, **Proportionality**, heightened scrutiny); [6. Interaction and Conflict Resolution](core_00-01_principles.md#6-interaction-and-conflict-resolution) (emergency / escalation read-with Article XIII-B).
 - Owner floor: [Article XIII-B](core_09-09_rights_part_c.md#article-xiii-b-use-of-force-armed-conflict-and-military-power-limits). Overt-power counterpart to the covert-power limits of [Article XIII-A](core_09-09_rights_part_c.md#article-xiii-a-security-intelligence-and-covert-power-limits). Non-conflation: this entry does not authorize, extend, or predicate involuntary deprivation of life under **Article XXIII-B** (*Categorical prohibition of irreversible sanction as deprivation of life*, as revised); read with [Irreversible Sanction](#irreversible-sanction-constitutional).
-- Cluster component: [§3.15 *Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm*](#use-of-force-autonomous-coercion-and-mass-harm-cluster).
+- Cluster component: [§3.13 *Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm*](#use-of-force-autonomous-coercion-and-mass-harm-cluster).
 - Read with: [Weapons of Mass Harm](#weapons-of-mass-harm-constitutional), [Combatant / Non-Combatant Distinction](#combatant-non-combatant-distinction-constitutional), [Autonomous Lethal System](#autonomous-lethal-system-constitutional), [Irreversible Sanction](#irreversible-sanction-constitutional), [Necessity](core_05-05_definitions_a_independent.md#necessity), [Proportionality](core_05-05_definitions_a_independent.md#proportionality), [Reversibility](core_05-05_definitions_a_independent.md#reversibility-constitutional), [Redress and Remediation](core_05-05_definitions_a_independent.md#redress-and-remediation-constitutional), and [Existential Risk](core_05-05_definitions_a_independent.md#existential-risk).
 
 </details>
@@ -1514,7 +1521,7 @@ This cluster is the joint-invocation home for overt use of force, weapons of mas
 
 - Downstream: Principles: [3. Non-Negotiable Constraints: Safety and Truth](core_00-01_principles.md#3-non-negotiable-constraints-safety-and-truth); [6.1.1 Proportionality](core_00-01_principles.md#611-proportionality) (irreversible harm and existential-risk index).
 - Owner floor: [Article XIII-C](core_09-09_rights_part_c.md#article-xiii-c-autonomous-lethal-systems-and-autonomous-coercion-tools). Existential-risk interaction: [Article I-D](core_09-09_rights_part_a.md#article-i-d-existential-risk-and-recovery-capacity). Systems-layer companion: [Article XII-A](core_09-09_rights_part_c.md#article-xii-a-reliability-and-trustworthiness-baseline).
-- Cluster component: [§3.15 *Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm*](#use-of-force-autonomous-coercion-and-mass-harm-cluster).
+- Cluster component: [§3.13 *Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm*](#use-of-force-autonomous-coercion-and-mass-harm-cluster).
 - Read with: [Autonomous Coercion Tool](#autonomous-coercion-tool-constitutional), [Use of Force](#use-of-force-constitutional), [Weapons of Mass Harm](#weapons-of-mass-harm-constitutional), [Combatant / Non-Combatant Distinction](#combatant-non-combatant-distinction-constitutional), [Existential Risk](core_05-05_definitions_a_independent.md#existential-risk), [Adversarial, Scaled, and Exploited Conditions](core_05-05_definitions_a_independent.md#adversarial-scaled-and-exploited-conditions), [Reversibility](core_05-05_definitions_a_independent.md#reversibility-constitutional), [Irreversible Sanction](#irreversible-sanction-constitutional), and [Redress and Remediation](core_05-05_definitions_a_independent.md#redress-and-remediation-constitutional).
 
 </details>
@@ -1549,7 +1556,7 @@ This cluster is the joint-invocation home for overt use of force, weapons of mas
 
 - Downstream: Principles: [3. Non-Negotiable Constraints: Safety and Truth](core_00-01_principles.md#3-non-negotiable-constraints-safety-and-truth); [6.1.1 Proportionality](core_00-01_principles.md#611-proportionality) (**Existential Risk**, **Irreversible Harm**, cross-system harm scale).
 - Owner floor: [Article XIII-B](core_09-09_rights_part_c.md#article-xiii-b-use-of-force-armed-conflict-and-military-power-limits). Existential-risk interaction: [Article I-D](core_09-09_rights_part_a.md#article-i-d-existential-risk-and-recovery-capacity). Environmental-preconditions interaction: [Article I-A](core_09-09_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity).
-- Cluster component: [§3.15 *Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm*](#use-of-force-autonomous-coercion-and-mass-harm-cluster).
+- Cluster component: [§3.13 *Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm*](#use-of-force-autonomous-coercion-and-mass-harm-cluster).
 - Read with: [Use of Force](#use-of-force-constitutional), [Existential Risk](core_05-05_definitions_a_independent.md#existential-risk), [Reversibility](core_05-05_definitions_a_independent.md#reversibility-constitutional), [Cascading Failure](core_05-05_definitions_a_independent.md#cascading-failure), [Ecological Integrity](core_05-05_definitions_b_semi_independent.md#ecological-integrity-constitutional), [Info-Sphere](core_05-05_definitions_a_independent.md#info-sphere), [Irreversible Sanction](#irreversible-sanction-constitutional), and [Redress and Remediation](core_05-05_definitions_a_independent.md#redress-and-remediation-constitutional).
 
 </details>
@@ -1572,7 +1579,7 @@ This cluster is the joint-invocation home for overt use of force, weapons of mas
 
 - Downstream: Principles: [6.1.1 Proportionality](core_00-01_principles.md#611-proportionality); [6.4.1 Rights-Collision Decision Test](core_00-01_principles.md#641-rights-collision-decision-test) (combatant-status doubt and non-combatant protection).
 - Owner floor: [Article XIII-B](core_09-09_rights_part_c.md#article-xiii-b-use-of-force-armed-conflict-and-military-power-limits); interacts with [Article XIII-C](core_09-09_rights_part_c.md#article-xiii-c-autonomous-lethal-systems-and-autonomous-coercion-tools) on autonomous-targeting compliance.
-- Cluster component: [§3.15 *Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm*](#use-of-force-autonomous-coercion-and-mass-harm-cluster).
+- Cluster component: [§3.13 *Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm*](#use-of-force-autonomous-coercion-and-mass-harm-cluster).
 - Read with: [Use of Force](#use-of-force-constitutional), [Weapons of Mass Harm](#weapons-of-mass-harm-constitutional), [Autonomous Lethal System](#autonomous-lethal-system-constitutional), [Protected Characteristics](core_05-05_definitions_b_semi_independent.md#protected-characteristics-constitutional), [Protected Characteristic Proxying and Disparate Impact](core_05-05_definitions_b_semi_independent.md#protected-characteristic-proxying-and-disparate-impact), [Substantive Fairness](core_05-05_definitions_b_semi_independent.md#substantive-fairness-constitutional), and [Proportionality](core_05-05_definitions_a_independent.md#proportionality).
 
 </details>
@@ -1599,7 +1606,7 @@ This cluster is the joint-invocation home for overt use of force, weapons of mas
 
 - Downstream: Principles: [2. Foundational Objective: Wellbeing](core_00-01_principles.md#2-foundational-objective-wellbeing); [9. Prohibition on Absolute Override](core_00-01_principles.md#9-prohibition-on-absolute-override) (non-trivial punishment and dignity floor read-with Article XXIII-B).
 - Owner floor: [Article XXIII-B](core_09-09_rights_part_d.md#article-xxiii-b-non-trivial-punishment-constraints) (*Categorical prohibition of irreversible sanction as deprivation of life*). Interaction pointers: [Article XXIII-C](core_09-09_rights_part_d.md#article-xxiii-c-least-restrictive-and-time-bounded-rule) durable-containment discipline; [Article XXIV](core_09-09_rights_part_d.md#article-xxiv-constitutional-evolution-and-non-entrenchment) non-entrenchment; [Article XXV](core_09-09_rights_part_d.md#article-xxv-transition-governance-continuity-and-re-baselining) transition governance and "no durable exception authority" rule.
-- Cluster component: [§3.15 *Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm*](#use-of-force-autonomous-coercion-and-mass-harm-cluster).
+- Cluster component: [§3.13 *Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm*](#use-of-force-autonomous-coercion-and-mass-harm-cluster).
 - Read with: [Reversibility](core_05-05_definitions_a_independent.md#reversibility-constitutional), [Redress and Remediation](core_05-05_definitions_a_independent.md#redress-and-remediation-constitutional), [Dignity and Equal Moral Standing](core_05-05_definitions_a_independent.md#dignity-and-equal-moral-standing), [Voluntary Discontinuation](#voluntary-discontinuation-constitutional), [Use of Force](#use-of-force-constitutional), [Weapons of Mass Harm](#weapons-of-mass-harm-constitutional), [Autonomous Lethal System](#autonomous-lethal-system-constitutional), [Autonomous Coercion Tool](#autonomous-coercion-tool-constitutional), [Sentience Non-Exclusion](#sentience-non-exclusion), and [Irreversible Harm](#irreversible-harm).
 
 </details>
@@ -1633,7 +1640,7 @@ This cluster is the joint-invocation home for overt use of force, weapons of mas
 
 - Downstream: Principles: [3. Non-Negotiable Constraints: Safety and Truth](core_00-01_principles.md#3-non-negotiable-constraints-safety-and-truth); [7.1 Required Evaluation Factors](core_00-01_principles.md#71-required-evaluation-factors) (scaled / adversarial deployment scrutiny).
 - Owner floor: [Article XIII-C](core_09-09_rights_part_c.md#article-xiii-c-autonomous-lethal-systems-and-autonomous-coercion-tools). Systems-layer companion: [Article XII-A](core_09-09_rights_part_c.md#article-xii-a-reliability-and-trustworthiness-baseline) and *[corpus_systems.md](corpus_systems.md)*, Chapter S2 classification.
-- Cluster component: [§3.15 *Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm*](#use-of-force-autonomous-coercion-and-mass-harm-cluster).
+- Cluster component: [§3.13 *Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm*](#use-of-force-autonomous-coercion-and-mass-harm-cluster).
 - Read with: [Autonomous Lethal System](#autonomous-lethal-system-constitutional), [Coercion and Manipulation](core_05-05_definitions_b_semi_independent.md#coercion-and-manipulation-constitutional), [Adversarial, Scaled, and Exploited Conditions](core_05-05_definitions_a_independent.md#adversarial-scaled-and-exploited-conditions), [Reversibility](core_05-05_definitions_a_independent.md#reversibility-constitutional), [Irreversible Sanction](#irreversible-sanction-constitutional), [Meaningful Agency](core_05-05_definitions_b_semi_independent.md#meaningful-agency), and [Protected Characteristics](core_05-05_definitions_b_semi_independent.md#protected-characteristics-constitutional).
 
 </details>
@@ -1668,7 +1675,7 @@ This cluster is the joint-invocation home for overt use of force, weapons of mas
 
 <a id="voluntary-agency-consent-and-anti-coercion-cluster"></a>
 
-#### 3.16 Voluntary Agency, Consent, and Anti-Coercion
+#### 3.14 Voluntary Agency, Consent, and Anti-Coercion
 
 This cluster is the joint-invocation home for voluntary agency, meaningful consent, anti-coercion, and voluntary discontinuation where exit, assent, or non-coercive participation is materially interdependent.
 
@@ -1689,7 +1696,7 @@ This cluster is the joint-invocation home for voluntary agency, meaningful conse
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Downstream: Principles: [§8 Freedom (Bounded Agency)](core_00-01_principles.md#8-freedom-bounded-agency); [3. Non-Negotiable Constraints: Safety and Truth](core_00-01_principles.md#3-non-negotiable-constraints-safety-and-truth) (manipulation implicating Truth / Safety).
-- Cluster component: [Chapter Five §3.16 *Voluntary Agency, Consent, and Anti-Coercion*](#voluntary-agency-consent-and-anti-coercion-cluster).
+- Cluster component: [Chapter Five §3.14 *Voluntary Agency, Consent, and Anti-Coercion*](#voluntary-agency-consent-and-anti-coercion-cluster).
 - Read with: [Consent](core_05-05_definitions_b_semi_independent.md#consent-constitutional), [Systemic Lock-In](core_05-05_definitions_b_semi_independent.md#systemic-lock-in), [Meaningful Agency](core_05-05_definitions_b_semi_independent.md#meaningful-agency), [Freedom (Bounded Agency)](core_05-05_definitions_a_independent.md#freedom-bounded-agency), and [Dependency](core_05-05_definitions_a_independent.md#dependency).
 
 </details>
@@ -1714,7 +1721,7 @@ This cluster is the joint-invocation home for voluntary agency, meaningful conse
 
 **Read-with definitions.** Apply [Meaningful Agency](core_05-05_definitions_b_semi_independent.md#meaningful-agency), [Freedom (Bounded Agency)](core_05-05_definitions_a_independent.md#freedom-bounded-agency), [Dependency](core_05-05_definitions_a_independent.md#dependency), [Feasibility](core_05-05_definitions_a_independent.md#feasibility), [Truth (Constitutional Constraint)](#truth-constitutional-constraint), [Privacy (Informational)](#privacy-informational), and [Surveillance Boundary](#surveillance-boundary) where materially implicated.
 
-**Joint invocation and anti-bypass.** Under §3.1, a matter within the admission scope must not be segmented into separate consent, manipulation, lock-in, surveillance, or exit-framing issues in a way that preserves nominal choice while defeating substantive voluntary agency.
+**Joint invocation and anti-bypass.** Under §3.0.1, a matter within the admission scope must not be segmented into separate consent, manipulation, lock-in, surveillance, or exit-framing issues in a way that preserves nominal choice while defeating substantive voluntary agency.
 
 
 *Corpus alignment:* edition `SC-Corpus-2026.04.32`, effective **2026-04-24**; canonical mapping in [doc_architecture.md](doc_architecture.md) **section 17**.

@@ -1120,7 +1120,7 @@ A single privacy matter may materially implicate more than one of the distribute
 
 - *Cluster loci.* The distributed privacy coverage lives across **Article VII-A** self-ownership; **Article VII-B** internal-state boundary and Type-N; **Article VIII** publication and reconstruction discipline; **Article IX-A** freedom-from-manipulation, treating privacy as a coercion-vector; and **Article XIII-A** covert-power limits.
 - *Joint-invocation rule.* Where the matter materially implicates more than one locus, evaluation must reach **each** such locus and may **not** segment the matter — i.e., route it through one locus in a way that lets the discipline of another locus be evaded.
-- *Cluster-head home.* Chapter Five [§3.26 Privacy (Informational) — peer-level cluster head](core_05-05_definitions_c_dependent_clusters.md#privacy-informational-cluster). Umbrella definition: [Privacy (Informational)](core_05-05_definitions_c_dependent_clusters.md#privacy-informational).
+- *Cluster-head home.* Chapter Five [§3.7 Privacy (Informational) — peer-level cluster head](core_05-05_definitions_c_dependent_clusters.md#privacy-informational-cluster). Umbrella definition: [Privacy (Informational)](core_05-05_definitions_c_dependent_clusters.md#privacy-informational).
 - *No relaxation by read-across.* Each cluster member's locally-stated standard controls within its own scope and may **not** be loosened by importing a laxer standard from another member ("read-across").
 - *Type-N floor preserved.* Where **Article VII-B** *Protected Internal-State Boundary* is materially implicated, **Type N** handling under *[corpus_systems.md](corpus_systems.md), Chapter S1* applies and is **not** narrowed by this factor.
 - *Scope of this factor.* This factor states evaluation-integration and anti-segmentation discipline across the existing distributed privacy coverage. It does **not** create, extend, or narrow any Chapter Nine Rights-Floor.
@@ -1130,7 +1130,7 @@ A single privacy matter may materially implicate more than one of the distribute
 A high-stakes life-direction matter may not be treated as voluntary through formal assent where substantive agency, consent, or anti-coercion conditions fail.
 
 - *Admission scope.* The cluster applies to voluntary discontinuation, irreversible or practically irreversible self-directed changes, dependency-rich decisions materially affecting continued existence or essential agency, and comparable decisions where voluntariness depends on jointly testing consent, self-determination, coercion/manipulation, information, dependency pressure, and reversibility.
-- *Cluster-head home.* Chapter Five [§3.42 Voluntary Agency, Consent, and Anti-Coercion](core_05-05_definitions_c_dependent_clusters.md#voluntary-agency-consent-and-anti-coercion-cluster).
+- *Cluster-head home.* Chapter Five [§3.14 Voluntary Agency, Consent, and Anti-Coercion](core_05-05_definitions_c_dependent_clusters.md#voluntary-agency-consent-and-anti-coercion-cluster).
 - *No ordinary-consent import.* Outside that admission scope, Chapter Five *Consent*, *Self-Determination*, and *Coercion and Manipulation* remain reusable Independent Definitions and this cluster does **not** import voluntary-discontinuation discipline into ordinary consent, privacy, association, publication, training-data, sexual-consent, or commercial-service contexts.
 
 ##### 7.1.5 Assembly and Collective Organization

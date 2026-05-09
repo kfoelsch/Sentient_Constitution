@@ -234,46 +234,20 @@ This directory lists **Definitions A-Z** and **Clusters A-Z** separately. Each v
 <a id="clusters-a-z"></a>
 #### Clusters A-Z
 
-- [3.3 Accountability, Contestability, Adjudication and Dispute Resolution, Collective Accountability Failure, and Force Majeure](core_05-05_definitions_c_dependent_clusters.md#accountability-contestability-and-collective-accountability-failure-cluster)
-- [3.31 Adjudication and Dispute Resolution, Redress and Remediation, Restorative Justice, Review and Correction Duty, and Refuge from Non-Compliance](core_05-05_definitions_c_dependent_clusters.md#adjudication-redress-restorative-review-correction-and-refuge-cluster)
-- [3.4 Animal Life, Sentient Life, and Sentience Status](core_05-05_definitions_c_dependent_clusters.md#animal-life-sentient-life-and-sentience-status-cluster)
-- [3.5 Assembly and Collective Organization](core_05-05_definitions_c_dependent_clusters.md#assembly-and-collective-organization-cluster)
-- [3.6 Binding Stakeholder Choice](core_05-05_definitions_c_dependent_clusters.md#binding-stakeholder-choice-cluster)
-- [3.7 Bodily-Maintenance Access, Safe Conditions, Tenure Security, Environmental Preconditions, Cultural Continuity, Rest, and Anti-Displacement Floor](core_05-05_definitions_c_dependent_clusters.md#safe-conditions-tenure-security-and-environmental-preconditions-cluster)
-- [3.8 Capture, Resolution Integrity, and Anti-Capture](core_05-05_definitions_c_dependent_clusters.md#capture-resolution-integrity-and-anti-capture-cluster)
-- [3.9 Collective Harm Boundary, Harm, and Harassment and Bullying](core_05-05_definitions_c_dependent_clusters.md#collective-harm-boundary-and-harm-cluster)
-- [3.10 Consent and Sexual Consent](core_05-05_definitions_c_dependent_clusters.md#consent-and-sexual-consent-cluster)
-- [3.12 Constitutional Contract Layer and Foundational Constitutional Choice](core_05-05_definitions_c_dependent_clusters.md#constitutional-contract-layer-and-foundational-constitutional-choice-cluster)
-- [3.13 Contingent Claim, Event-Contract Market, and Game of Chance](core_05-05_definitions_c_dependent_clusters.md#contingent-claim-event-contract-market-and-game-of-chance-cluster)
-- [3.11 Corpus, Authority Stack, Supremacy, and Enforceability](core_05-05_definitions_c_dependent_clusters.md#corpus-authority-stack-supremacy-and-enforceability-cluster)
-- [3.14 Creative Work, Training-Data Use, Attribution, Compensation, and Anti-Displacement](core_05-05_definitions_c_dependent_clusters.md#creative-work-training-data-attribution-compensation-and-anti-displacement-cluster)
-- [3.15 Derived and Developing Sentients, Instantiation, and Care Authority](core_05-05_definitions_c_dependent_clusters.md#derived-developing-sentients-instantiation-and-care-authority-cluster)
-- [3.16 Ecological Integrity, Footprint, and Sustainability](core_05-05_definitions_c_dependent_clusters.md#ecological-integrity-footprint-and-sustainability-cluster)
-- [3.17 Emergency and Contingency](core_05-05_definitions_c_dependent_clusters.md#emergency-and-contingency-cluster)
-- [3.18 Family, Care, Reproductive Autonomy, Non-Separation, Parent-System Relationship, and Instantiation Consent](core_05-05_definitions_c_dependent_clusters.md#family-care-reproductive-autonomy-non-separation-parent-system-and-instantiation-cluster)
-- [3.19 Forum Families and Dispute Routing](core_05-05_definitions_c_dependent_clusters.md#forum-families-and-dispute-routing-cluster)
-- [3.20 Governance Architecture, Oversight, Dependency, Decentralization, Concentration, Market Structure, and Exit-Path Integrity](core_05-05_definitions_c_dependent_clusters.md#governance-architecture-oversight-decentralization-and-concentration-cluster)
-- [3.21 Indigenous Continuity, Language Culture and Heritage, Natural Systems Standing, and Intergenerational Responsibility](core_05-05_definitions_c_dependent_clusters.md#indigenous-heritage-natural-standing-and-intergenerational-cluster)
-- [3.22 Info-Sphere, Expression, Press and Journalistic Activity, and Good Faith (Publication-Scoped Integrity)](core_05-05_definitions_c_dependent_clusters.md#info-sphere-expression-press-journalistic-activity-and-good-faith-cluster)
-- [3.23 Material Impact, Materiality Determination, Classification-Scaled Governance, Oversight, and Capability Requirement](core_05-05_definitions_c_dependent_clusters.md#materiality-classification-oversight-and-capability-cluster)
-- [3.24 Movement, Refuge, Non-Statelessness, and Exit Integrity](core_05-05_definitions_c_dependent_clusters.md#movement-refuge-non-statelessness-and-exit-integrity-cluster)
-- [3.25 Nondiscrimination, Protected Characteristics, Dignity, Intimate-Signal Gating, and Article X-C Status](core_05-05_definitions_c_dependent_clusters.md#nondiscrimination-protected-characteristics-dignity-and-article-x-c-cluster)
-- [3.26 Privacy (Informational) — peer-level cluster head](core_05-05_definitions_c_dependent_clusters.md#privacy-informational-cluster)
-- [3.27 Proportionality, Necessity, Feasibility, Avoidable Burden, Burden-Reduction Duty, Constitutional Efficiency, Harm Minimization (Tradeoff Selection), and Productive Capacity](core_05-05_definitions_c_dependent_clusters.md#proportionality-necessity-feasibility-burden-and-efficiency-cluster)
-- [3.28 Protected Internal-State Boundary and Type-N Anti-Bypass](core_05-05_definitions_c_dependent_clusters.md#protected-internal-state-boundary-and-type-n-anti-bypass-cluster)
-- [3.29 Protected Reporting and Anti-Retaliation](core_05-05_definitions_c_dependent_clusters.md#protected-reporting-and-anti-retaliation-cluster)
-- [3.30 Proxy Integrity and Indicator-Reality Alignment](core_05-05_definitions_c_dependent_clusters.md#proxy-integrity-and-indicator-reality-alignment-cluster)
-- [3.32 Resilience, Safety, Reversibility, Self-Healing, Cascading Failure, Existential Risk, Environmental Preconditions, and Wellbeing](core_05-05_definitions_c_dependent_clusters.md#resilience-safety-reversibility-self-healing-and-systemic-harm-cluster)
-- [3.33 Self-Determination, Meaningful Agency, Expression, Educational Agency, and Volitional Integrity](core_05-05_definitions_c_dependent_clusters.md#self-determination-and-meaningful-agency-cluster)
-- [3.34 Stakeholder Status, Emergency, and Participation Weight](core_05-05_definitions_c_dependent_clusters.md#stakeholder-status-emergency-and-participation-weight-cluster)
-- [3.35 Standing State, Contribution, and Violation](core_05-05_definitions_c_dependent_clusters.md#standing-state-contribution-and-violation-cluster)
-- [3.36 Strategic Stewardship and Stewardship Defect](core_05-05_definitions_c_dependent_clusters.md#strategic-stewardship-and-stewardship-defect-cluster)
-- [3.37 Substantive and Procedural Fairness](core_05-05_definitions_c_dependent_clusters.md#substantive-and-procedural-fairness-cluster)
-- [3.38 Transparency, Auditability, and Verification](core_05-05_definitions_c_dependent_clusters.md#transparency-auditability-and-verification-cluster)
-- [3.39 Trust and Trustworthiness](core_05-05_definitions_c_dependent_clusters.md#trust-and-trustworthiness-cluster)
-- [3.40 Truth and Epistemic Integrity](core_05-05_definitions_c_dependent_clusters.md#truth-and-epistemic-integrity-cluster)
-- [3.41 Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm](core_05-05_definitions_c_dependent_clusters.md#use-of-force-autonomous-coercion-and-mass-harm-cluster)
-- [3.42 Voluntary Agency, Consent, and Anti-Coercion](core_05-05_definitions_c_dependent_clusters.md#voluntary-agency-consent-and-anti-coercion-cluster)
+- [3.1 Animal Life, Sentient Life, and Sentience Status](core_05-05_definitions_c_dependent_clusters.md#animal-life-sentient-life-and-sentience-status-cluster)
+- [3.2 Binding Stakeholder Choice](core_05-05_definitions_c_dependent_clusters.md#binding-stakeholder-choice-cluster)
+- [3.3 Collective Harm Boundary, Harm, and Harassment and Bullying](core_05-05_definitions_c_dependent_clusters.md#collective-harm-boundary-and-harm-cluster)
+- [3.4 Corpus, Authority Stack, Supremacy, and Enforceability](core_05-05_definitions_c_dependent_clusters.md#corpus-authority-stack-supremacy-and-enforceability-cluster)
+- [3.5 Creative Work, Training-Data Use, Attribution, Compensation, and Anti-Displacement](core_05-05_definitions_c_dependent_clusters.md#creative-work-training-data-attribution-compensation-and-anti-displacement-cluster)
+- [3.6 Forum Families and Dispute Routing](core_05-05_definitions_c_dependent_clusters.md#forum-families-and-dispute-routing-cluster)
+- [3.7 Privacy (Informational) — peer-level cluster head](core_05-05_definitions_c_dependent_clusters.md#privacy-informational-cluster)
+- [3.8 Self-Determination, Meaningful Agency, Expression, Educational Agency, and Volitional Integrity](core_05-05_definitions_c_dependent_clusters.md#self-determination-and-meaningful-agency-cluster)
+- [3.9 Standing State, Contribution, and Violation](core_05-05_definitions_c_dependent_clusters.md#standing-state-contribution-and-violation-cluster)
+- [3.10 Transparency, Auditability, and Verification](core_05-05_definitions_c_dependent_clusters.md#transparency-auditability-and-verification-cluster)
+- [3.11 Trust and Trustworthiness](core_05-05_definitions_c_dependent_clusters.md#trust-and-trustworthiness-cluster)
+- [3.12 Truth and Epistemic Integrity](core_05-05_definitions_c_dependent_clusters.md#truth-and-epistemic-integrity-cluster)
+- [3.13 Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm](core_05-05_definitions_c_dependent_clusters.md#use-of-force-autonomous-coercion-and-mass-harm-cluster)
+- [3.14 Voluntary Agency, Consent, and Anti-Coercion](core_05-05_definitions_c_dependent_clusters.md#voluntary-agency-consent-and-anti-coercion-cluster)
 
 </details>
 
@@ -360,10 +334,10 @@ Independent Definitions must not fragment, isolate, or redistribute compliance i
 
 #### Anti-Displacement Floor
 
-*Canonical O/E/C definition moved to [Chapter Five §3.7 *Creative Work, Training-Data Use, Attribution, Compensation, and Anti-Displacement*](core_05-05_definitions_c_dependent_clusters.md#anti-displacement-floor-constitutional). This pointer retains the anchor for backward compatibility.*
+*Canonical O/E/C definition moved to [Chapter Five §3.5 *Creative Work, Training-Data Use, Attribution, Compensation, and Anti-Displacement*](core_05-05_definitions_c_dependent_clusters.md#anti-displacement-floor-constitutional). This pointer retains the anchor for backward compatibility.*
 
 - **Owner floors:** [Article III-D](core_09-09_rights_part_a.md#article-iii-d-labor-and-economic-floor) (*labor-and-economic, cross-cutting*) and [Article VIII-D](core_09-09_rights_part_b.md#article-viii-d-creative-work-training-data-use-and-anti-displacement) (*creative-work application*).
-- **Cluster:** [Chapter Five §3.7](core_05-05_definitions_c_dependent_clusters.md#creative-work-training-data-attribution-compensation-and-anti-displacement-cluster).
+- **Cluster:** [Chapter Five §3.5](core_05-05_definitions_c_dependent_clusters.md#creative-work-training-data-attribution-compensation-and-anti-displacement-cluster).
 - **Secondary cluster component:** [Bodily-Maintenance Access, Safe Conditions, Tenure Security, Environmental Preconditions, Cultural Continuity, Rest, and Anti-Displacement Floor](core_05-05_definitions_c_dependent_clusters.md#safe-conditions-tenure-security-and-environmental-preconditions-cluster) where deployment-scale displacement materially affects livelihood continuity, safe participation conditions, rest / recuperation, tenure, care access, or community continuity.
 
 ---
@@ -724,7 +698,7 @@ Independent Definitions must not fragment, isolate, or redistribute compliance i
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Cluster component: [Chapter Five §3.22 *Info-Sphere, Expression, Press and Journalistic Activity, and Good Faith (Publication-Scoped Integrity)*](core_05-05_definitions_c_dependent_clusters.md#info-sphere-expression-press-journalistic-activity-and-good-faith-cluster) (*Publication- and info-sphere–aligned predicates only — residual **Good Faith** in audits and [Oversight](core_05-05_definitions_a_independent.md#oversight-constitutional) contexts without §3.22 publication hooks routes to [Chapter Five §3.14 *Truth and Epistemic Integrity*](core_05-05_definitions_c_dependent_clusters.md#truth-and-epistemic-integrity-cluster) where truthful disclosure and epistemic integrity requirements materially apply.*
+- Cluster component: [Chapter Five §3.22 *Info-Sphere, Expression, Press and Journalistic Activity, and Good Faith (Publication-Scoped Integrity)*](core_05-05_definitions_c_dependent_clusters.md#info-sphere-expression-press-journalistic-activity-and-good-faith-cluster) (*Publication- and info-sphere–aligned predicates only — residual **Good Faith** in audits and [Oversight](core_05-05_definitions_a_independent.md#oversight-constitutional) contexts without §3.22 publication hooks routes to [Chapter Five §3.12 *Truth and Epistemic Integrity*](core_05-05_definitions_c_dependent_clusters.md#truth-and-epistemic-integrity-cluster) where truthful disclosure and epistemic integrity requirements materially apply.*
 
 </details>
 

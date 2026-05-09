@@ -1,4 +1,4 @@
-# Chapter 5 §3.11 — Standing State, Contribution, and Violation (Audience Guidance)
+# Chapter 5 §3.9 — Standing State, Contribution, and Violation (Audience Guidance)
 
 ## What this cluster does
 
