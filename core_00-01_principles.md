@@ -1125,19 +1125,19 @@ A single privacy matter may materially implicate more than one of the distribute
 - *Type-N floor preserved.* Where **Article VII-B** *Protected Internal-State Boundary* is materially implicated, **Type N** handling under *[corpus_systems.md](corpus_systems.md), Chapter S1* applies and is **not** narrowed by this factor.
 - *Scope of this factor.* This factor states evaluation-integration and anti-segmentation discipline across the existing distributed privacy coverage. It does **not** create, extend, or narrow any Chapter Nine Rights-Floor.
 
-##### 7.1.4 Voluntary Agency, Consent, and Anti-Coercion
+##### 7.1.4 Voluntary Discontinuation and Exit Rights
 
 A high-stakes life-direction matter may not be treated as voluntary through formal assent where substantive agency, consent, or anti-coercion conditions fail.
 
 - *Admission scope.* The cluster applies to voluntary discontinuation, irreversible or practically irreversible self-directed changes, dependency-rich decisions materially affecting continued existence or essential agency, and comparable decisions where voluntariness depends on jointly testing consent, self-determination, coercion/manipulation, information, dependency pressure, and reversibility.
-- *Cluster-head home.* Chapter Five [§3.14 Voluntary Agency, Consent, and Anti-Coercion](core_05-05_definitions_c_dependent_clusters.md#voluntary-agency-consent-and-anti-coercion-cluster).
-- *No ordinary-consent import.* Outside that admission scope, Chapter Five *Consent*, *Self-Determination*, and *Coercion and Manipulation* remain reusable Independent Definitions and this cluster does **not** import voluntary-discontinuation discipline into ordinary consent, privacy, association, publication, training-data, sexual-consent, or commercial-service contexts.
+- *Cluster-head home.* Chapter Five [§3.14 Voluntary Discontinuation and Exit Rights](core_05-05_definitions_c_dependent_clusters.md#voluntary-discontinuation-and-exit-rights-cluster).
+- *No ordinary-consent import.* Outside that admission scope, Chapter Five *Consent* (§2), *Self-Determination*, and *Coercion and Manipulation* (§2) remain reusable Independent Definitions and this cluster does **not** import voluntary-discontinuation discipline into ordinary consent, privacy, association, publication, training-data, sexual-consent, or commercial-service contexts.
 
-##### 7.1.5 Assembly and Collective Organization
+##### 7.1.5 Assembly, Collective Organization, and Institutional Formation
 
 A matter within the cluster's admission scope must not be segmented into separate civic-association, labor-organization, platform-access, or authorization framings in a way that preserves formal access while defeating assembly or collective-organization protection.
 
-- *Cluster-head home.* Chapter Five [§3.5 Assembly and Collective Organization](core_05-05_definitions_c_dependent_clusters.md#assembly-and-collective-organization-cluster). Member definitions: [Assembly](core_05-05_definitions_b_semi_independent.md#assembly-constitutional), [Collective Organization](core_05-05_definitions_b_semi_independent.md#collective-organization-constitutional).
+- *Cluster-head home.* Chapter Five [§3.5 Assembly, Collective Organization, and Institutional Formation](core_05-05_definitions_c_dependent_clusters.md#assembly-collective-organization-institutional-formation-cluster). Member definitions: [Assembly](core_05-05_definitions_b_semi_independent.md#assembly-constitutional), [Collective Organization](core_05-05_definitions_b_semi_independent.md#collective-organization-constitutional).
 - *Owner floors.* **Article V-H** (assembly) and **Article III-D** (collective organization within the labor and economic floor) remain controlling within their scopes; this factor supplies evaluation-integration and anti-segmentation discipline only.
 - *Outside admission scope.* [Assembly](core_05-05_definitions_b_semi_independent.md#assembly-constitutional) and [Collective Organization](core_05-05_definitions_b_semi_independent.md#collective-organization-constitutional) may operate as supporting Independent Definitions without importing the whole cluster (Chapter Five §3.5).
 - *Scope of this factor.* This factor does **not** create, extend, or narrow any Chapter Nine Rights-Floor.

@@ -67,6 +67,7 @@ This directory lists **Definitions A-Z** and **Clusters A-Z** separately. Each v
 - [Binding Stakeholder Choice — Decision-Resolution Requirements](core_05-05_definitions_c_dependent_clusters.md#binding-collective-choice-decision-resolution-process)
 - [Bodily-Maintenance Access](core_05-05_definitions_b_semi_independent.md#bodily-maintenance-access-constitutional)
 - [Burden-Reduction Duty](core_05-05_definitions_b_semi_independent.md#burden-reduction-duty-constitutional)
+- [Business Creation](core_05-05_definitions_b_semi_independent.md#business-creation-constitutional)
 - [Capability Requirement](#capability-requirement)
 - [Capture of Resolution Pathways](core_05-05_definitions_b_semi_independent.md#capture-of-resolution-pathways)
 - [Cascading Failure](#cascading-failure)
@@ -212,6 +213,7 @@ This directory lists **Definitions A-Z** and **Clusters A-Z** separately. Each v
 - [System Boundaries](core_05-05_definitions_b_semi_independent.md#system-boundaries)
 - [System Boundary Integrity](core_05-05_definitions_b_semi_independent.md#system-boundary-integrity)
 - [System Capture](#system-capture)
+- [System Creation](core_05-05_definitions_b_semi_independent.md#system-creation-constitutional)
 - [Systemic](#systemic)
 - [Systemic Lock-In](core_05-05_definitions_b_semi_independent.md#systemic-lock-in)
 - [Systemic Materiality](#systemic-materiality)
@@ -247,7 +249,7 @@ This directory lists **Definitions A-Z** and **Clusters A-Z** separately. Each v
 - [3.11 Trust and Trustworthiness](core_05-05_definitions_c_dependent_clusters.md#trust-and-trustworthiness-cluster)
 - [3.12 Truth and Epistemic Integrity](core_05-05_definitions_c_dependent_clusters.md#truth-and-epistemic-integrity-cluster)
 - [3.13 Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm](core_05-05_definitions_c_dependent_clusters.md#use-of-force-autonomous-coercion-and-mass-harm-cluster)
-- [3.14 Voluntary Agency, Consent, and Anti-Coercion](core_05-05_definitions_c_dependent_clusters.md#voluntary-agency-consent-and-anti-coercion-cluster)
+- [3.14 Voluntary Discontinuation and Exit Rights](core_05-05_definitions_c_dependent_clusters.md#voluntary-discontinuation-and-exit-rights-cluster)
 
 </details>
 
