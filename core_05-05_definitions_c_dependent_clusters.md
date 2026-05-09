@@ -462,6 +462,7 @@ This cluster is the joint-invocation home for creative-work training-data use, a
 - [Creative Work Attribution](#creative-work-attribution-constitutional);
 - [Training-Data Use](#training-data-use-constitutional);
 - [Fair Compensation](#fair-compensation-constitutional);
+- [Likeness and Documentary Depiction Interface](#likeness-and-documentary-depiction-interface-constitutional);
 - [Anti-Displacement Floor](#anti-displacement-floor-constitutional).
 
 **Read-with definitions.** Apply [Productive Capacity](core_05-05_definitions_b_semi_independent.md#productive-capacity-constitutional), [Privacy (Informational) — peer-level cluster head](#privacy-informational-cluster), [Consent](core_05-05_definitions_b_semi_independent.md#consent-constitutional), [Truth (Constitutional Constraint)](#truth-constitutional-constraint), [Good Faith](core_05-05_definitions_a_independent.md#good-faith), [Meaningful Agency](core_05-05_definitions_b_semi_independent.md#meaningful-agency), [Collective Organization](core_05-05_definitions_b_semi_independent.md#collective-organization-constitutional), [Innovation Reward and Anti-Enclosure](core_05-05_definitions_a_independent.md#innovation-reward-and-anti-enclosure), and [Sentience Non-Exclusion](#sentience-non-exclusion) where materially implicated.
@@ -528,6 +529,18 @@ This cluster is the joint-invocation home for creative-work training-data use, a
 - E: Reach substantive adequacy, not formal contractual satisfaction. Apply [Substantive Fairness](core_05-05_definitions_b_semi_independent.md#substantive-fairness-constitutional) to comparable activity; apply [Protected Characteristics](core_05-05_definitions_b_semi_independent.md#protected-characteristics-constitutional) and [Protected Characteristic Proxying and Disparate Impact](core_05-05_definitions_b_semi_independent.md#protected-characteristic-proxying-and-disparate-impact) to distributional effects; apply [Coercion and Manipulation](core_05-05_definitions_b_semi_independent.md#coercion-and-manipulation-constitutional) and [Meaningful Agency](core_05-05_definitions_b_semi_independent.md#meaningful-agency) to dependency-pressure analysis. Survival-floor satisfaction alone, and [Chapter One §5.1.1](core_00-01_principles.md#511-productive-capacity-instrumental-good) non-concentration satisfaction alone, do not satisfy this entry.
 <a id="fair-compensation-constitutional-c"></a>
 - C: Non-compliant: compensation schemes whose effects track [Protected Characteristics](core_05-05_definitions_b_semi_independent.md#protected-characteristics-constitutional) or their material proxies; compensation used as coercion or dependency-pressure vector ([Coercion and Manipulation](core_05-05_definitions_b_semi_independent.md#coercion-and-manipulation-constitutional)); reading this entry as satisfied purely by survival-floor or §5.1 non-concentration compliance; substrate-class exclusion ([Sentience Non-Exclusion](#sentience-non-exclusion)).
+
+---
+
+<a id="likeness-and-documentary-depiction-interface-constitutional"></a>
+
+#### Likeness and Documentary Depiction Interface
+
+- O: Interaction between publication and recognizably identifiable likeness or voice.
+<a id="likeness-and-documentary-depiction-interface-e"></a>
+- E: Evaluate recognizability, contextual use, and whether depiction is held out as authentic or documentary. Consider synthetic likeness that implicates identity, reputation, or [Dignity and Equal Moral Standing](core_05-05_definitions_a_independent.md#dignity-and-equal-moral-standing) alongside [Creative Work Attribution](#creative-work-attribution-constitutional) and [Privacy (Informational)](#privacy-informational) where materially relevant.
+<a id="likeness-and-documentary-depiction-interface-c"></a>
+- C: Recognizably identifiable **likeness** (including synthetic depiction held out as authentic) remains subject to **Article VIII-A** (including defaults and the **factual reporting** pathway) unless another constitutional provision applies.
 
 ---
 
@@ -1361,12 +1374,6 @@ This cluster is the canonical O/E/C home for **Truth (Constitutional Constraint)
 <a id="protected-data-and-internal-state-publication-constraint-c"></a>
 - C: Publication must not bypass **[corpus_systems.md](corpus_systems.md), Chapter S1 — Information Types and Handling**, [Privacy (Informational)](#privacy-informational), [Protected Internal-State Boundary](#protected-internal-state-boundary-constitutional), or **Type N** handling. Except where this Constitution explicitly permits, publication must not reconstruct, infer, or expose another sentient’s protected internal cognitive or emotional states.
 
-##### Likeness and Documentary Depiction Interface
-
-- O: Interaction between publication and recognizably identifiable likeness or voice.
-<a id="likeness-and-documentary-depiction-interface-c"></a>
-- C: Recognizably identifiable **likeness** (including synthetic depiction held out as authentic) remains subject to **Article VIII-A** (including defaults and the **factual reporting** pathway) unless another constitutional provision applies.
-
 ##### High-Impact and Systemic Harm Publication Constraint
 
 - O: Publication through or via channels with systemic external effects on the [Info-Sphere](core_05-05_definitions_a_independent.md#info-sphere), [Harm](#harm), and coordination conditions.
@@ -1463,16 +1470,197 @@ This cluster is the joint-invocation home for overt use of force, weapons of mas
 
 **Cluster members.** This cluster comprises:
 
-- [Use of Force](core_05-05_definitions_b_semi_independent.md#use-of-force-constitutional);
-- [Autonomous Coercion Tool](core_05-05_definitions_b_semi_independent.md#autonomous-coercion-tool-constitutional);
-- [Autonomous Lethal System](core_05-05_definitions_b_semi_independent.md#autonomous-lethal-system-constitutional);
-- [Weapons of Mass Harm](core_05-05_definitions_b_semi_independent.md#weapons-of-mass-harm-constitutional);
-- [Combatant / Non-Combatant Distinction](core_05-05_definitions_b_semi_independent.md#combatant-non-combatant-distinction-constitutional);
-- [Irreversible Sanction](core_05-05_definitions_b_semi_independent.md#irreversible-sanction-constitutional), for non-conflation discipline with **Article XXIII-B**.
+- [Use of Force](#use-of-force-constitutional);
+- [Autonomous Lethal System](#autonomous-lethal-system-constitutional);
+- [Weapons of Mass Harm](#weapons-of-mass-harm-constitutional);
+- [Combatant / Non-Combatant Distinction](#combatant-non-combatant-distinction-constitutional);
+- [Irreversible Sanction](#irreversible-sanction-constitutional), for non-conflation discipline with **Article XXIII-B**;
+- [Autonomous Coercion Tool](#autonomous-coercion-tool-constitutional).
 
 **Read-with definitions.** Apply [Coercion and Manipulation](core_05-05_definitions_b_semi_independent.md#coercion-and-manipulation-constitutional), [Necessity](core_05-05_definitions_a_independent.md#necessity), [Proportionality](core_05-05_definitions_a_independent.md#proportionality), [Reversibility](core_05-05_definitions_a_independent.md#reversibility-constitutional), [Redress and Remediation](core_05-05_definitions_a_independent.md#redress-and-remediation-constitutional), [Existential Risk](core_05-05_definitions_a_independent.md#existential-risk), [Safety (Constraint)](core_05-05_definitions_a_independent.md#safety-constraint), [Adversarial, Scaled, and Exploited Conditions](core_05-05_definitions_a_independent.md#adversarial-scaled-and-exploited-conditions), and [Sentience Non-Exclusion](#sentience-non-exclusion) where materially implicated.
 
 **Joint invocation and anti-bypass.** Under §3.1, a matter within the admission scope must not be segmented into separate authorization, targeting, weapons-class, autonomy, coercion, or review questions in a way that satisfies one component while defeating materially interdependent force, discrimination, autonomy-control, or non-conflation duties.
+
+<a id="use-of-force-constitutional"></a>
+##### Use of Force
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Downstream: Principles: [6.1 Core Tradeoff Principles](core_00-01_principles.md#61-core-tradeoff-principles) (**Necessity**, **Proportionality**, heightened scrutiny); [6. Interaction and Conflict Resolution](core_00-01_principles.md#6-interaction-and-conflict-resolution) (emergency / escalation read-with Article XIII-B).
+- Owner floor: [Article XIII-B](core_09-09_rights_part_c.md#article-xiii-b-use-of-force-armed-conflict-and-military-power-limits). Overt-power counterpart to the covert-power limits of [Article XIII-A](core_09-09_rights_part_c.md#article-xiii-a-security-intelligence-and-covert-power-limits). Non-conflation: this entry does not authorize, extend, or predicate involuntary deprivation of life under **Article XXIII-B** (*Categorical prohibition of irreversible sanction as deprivation of life*, as revised); read with [Irreversible Sanction](#irreversible-sanction-constitutional).
+- Cluster component: [§3.15 *Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm*](#use-of-force-autonomous-coercion-and-mass-harm-cluster).
+- Read with: [Weapons of Mass Harm](#weapons-of-mass-harm-constitutional), [Combatant / Non-Combatant Distinction](#combatant-non-combatant-distinction-constitutional), [Autonomous Lethal System](#autonomous-lethal-system-constitutional), [Irreversible Sanction](#irreversible-sanction-constitutional), [Necessity](core_05-05_definitions_a_independent.md#necessity), [Proportionality](core_05-05_definitions_a_independent.md#proportionality), [Reversibility](core_05-05_definitions_a_independent.md#reversibility-constitutional), [Redress and Remediation](core_05-05_definitions_a_independent.md#redress-and-remediation-constitutional), and [Existential Risk](core_05-05_definitions_a_independent.md#existential-risk).
+
+</details>
+
+<br>
+
+- O: The Rights-Floor concept covering overt application of physical, coercive, or kinetic force by institutions, stewards, operators, or comparable actors — including security, policing, conflict, and military-power deployment. It applies under [Sentience Non-Exclusion](#sentience-non-exclusion) to both force-users and force-affected sentients. Use of Force is constitutionally exceptional. It is valid only under a lawful and published authority, for a constitutionally legitimate and materially serious objective, where less harmful means are not reasonably sufficient, and where the use remains [Necessity](core_05-05_definitions_a_independent.md#necessity)-compatible, [Proportionality](core_05-05_definitions_a_independent.md#proportionality)-compatible, narrowly tailored, time-bounded, and independently reviewable. Ordinary non-coercive conduct, and force used outside the governance, security, conflict, and military-power registers that Article XIII-B covers, is outside this entry.
+<a id="use-of-force-constitutional-e"></a>
+- E: Test authorization lawfulness and publication, objective legitimacy and material seriousness, less-harmful-means sufficiency, ongoing [Necessity](core_05-05_definitions_a_independent.md#necessity) and [Proportionality](core_05-05_definitions_a_independent.md#proportionality), and narrow tailoring to the authorized objective. Apply [Combatant / Non-Combatant Distinction](#combatant-non-combatant-distinction-constitutional) to targeting discipline. Apply [Adversarial, Scaled, and Exploited Conditions](core_05-05_definitions_a_independent.md#adversarial-scaled-and-exploited-conditions) where scaled or adversarial deployment is foreseeable. Apply [Existential Risk](core_05-05_definitions_a_independent.md#existential-risk) where the use materially implicates [Weapons of Mass Harm](#weapons-of-mass-harm-constitutional). Apply [Reversibility](core_05-05_definitions_a_independent.md#reversibility-constitutional) and [Redress and Remediation](core_05-05_definitions_a_independent.md#redress-and-remediation-constitutional) to outcome discipline. Emergency framings that functionally normalize force through indefinite extension or routinized reauthorization fail this evaluation.
+<a id="use-of-force-constitutional-c"></a>
+- C: Non-compliant:
+  - use of force without lawful published authority, without a legitimate materially serious objective, without less-harmful-means sufficiency, or absent ongoing Necessity and Proportionality ([Article XIII-B](core_09-09_rights_part_c.md#article-xiii-b-use-of-force-armed-conflict-and-military-power-limits));
+  - denial-of-quarter, collective punishment, protected-characteristic-based targeting, and substrate-class compulsion into combatant status;
+  - emergency-dressed normalization through indefinite extension or routinized reauthorization without substantive review (Article XXIII-D and this entry);
+  - reading this entry as a predicate for, or alignment with, irreversible involuntary deprivation outside combat — such measures are categorically prohibited under Article XXIII-B as revised and are governed with [Irreversible Sanction](#irreversible-sanction-constitutional).
+
+<a id="autonomous-lethal-system-constitutional"></a>
+##### Autonomous Lethal System
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Downstream: Principles: [3. Non-Negotiable Constraints: Safety and Truth](core_00-01_principles.md#3-non-negotiable-constraints-safety-and-truth); [6.1.1 Proportionality](core_00-01_principles.md#611-proportionality) (irreversible harm and existential-risk index).
+- Owner floor: [Article XIII-C](core_09-09_rights_part_c.md#article-xiii-c-autonomous-lethal-systems-and-autonomous-coercion-tools). Existential-risk interaction: [Article I-D](core_09-09_rights_part_a.md#article-i-d-existential-risk-and-recovery-capacity). Systems-layer companion: [Article XII-A](core_09-09_rights_part_c.md#article-xii-a-reliability-and-trustworthiness-baseline).
+- Cluster component: [§3.15 *Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm*](#use-of-force-autonomous-coercion-and-mass-harm-cluster).
+- Read with: [Autonomous Coercion Tool](#autonomous-coercion-tool-constitutional), [Use of Force](#use-of-force-constitutional), [Weapons of Mass Harm](#weapons-of-mass-harm-constitutional), [Combatant / Non-Combatant Distinction](#combatant-non-combatant-distinction-constitutional), [Existential Risk](core_05-05_definitions_a_independent.md#existential-risk), [Adversarial, Scaled, and Exploited Conditions](core_05-05_definitions_a_independent.md#adversarial-scaled-and-exploited-conditions), [Reversibility](core_05-05_definitions_a_independent.md#reversibility-constitutional), [Irreversible Sanction](#irreversible-sanction-constitutional), and [Redress and Remediation](core_05-05_definitions_a_independent.md#redress-and-remediation-constitutional).
+
+</details>
+
+<br>
+
+##### In plain terms: *A system that selects or engages lethal-force targets on its own — without a human exercising real-time judgment over each targeting or engagement decision.*
+
+- O: A system that, under its operating conditions, selects, engages, or materially directs the application of lethal force in a targeting decision without a human's real, timely judgment shaping each targeting or engagement decision.
+  - Substrate- and architecture-agnostic: autonomous platforms, swarms, software-mediated targeting pipelines, and hybrid arrangements are in scope.
+  - A formal "human-in-the-loop" does not remove a system from scope if the human cannot exercise substantive decisional effect at operational tempo.
+  - Out of scope only if either (a) a human's real, timely judgment materially shapes each targeting or engagement decision, or (b) the tool is used outside targeting or lethal engagement.
+  <a id="autonomous-lethal-system-constitutional-e"></a>
+- E: Judge the system by what it does, not how it is described. At minimum:
+  - test whether each targeting or engagement decision is materially shaped at operational tempo by a human's substantive judgment — not merely ratified after the fact;
+  - test whether classification accuracy, robustness under [Adversarial, Scaled, and Exploited Conditions](core_05-05_definitions_a_independent.md#adversarial-scaled-and-exploited-conditions), and failure-mode behavior independently satisfy [Combatant / Non-Combatant Distinction](#combatant-non-combatant-distinction-constitutional);
+  - test whether capability, scale, or deployment conditions materially implicate [Existential Risk](core_05-05_definitions_a_independent.md#existential-risk), triggering [Article I-D](core_09-09_rights_part_a.md#article-i-d-existential-risk-and-recovery-capacity) scrutiny;
+  - test whether recovery, override, and intervention pathways under [Self-Healing](core_05-05_definitions_a_independent.md#self-healing-constitutional) and [Article XII-F](core_09-09_rights_part_c.md#article-xii-f-resilience-and-self-healing-baseline) are substantive, not nominal;
+  - apply [Reversibility](core_05-05_definitions_a_independent.md#reversibility-constitutional) and [Redress and Remediation](core_05-05_definitions_a_independent.md#redress-and-remediation-constitutional) to the effects of each application.
+  - A systems-layer classification does not reduce the Rights-Floor scrutiny required by [Article XIII-C](core_09-09_rights_part_c.md#article-xiii-c-autonomous-lethal-systems-and-autonomous-coercion-tools).
+  <a id="autonomous-lethal-system-constitutional-c"></a>
+- C: Non-compliant:
+  - deploying or using an Autonomous Lethal System where a human's substantive judgment does not materially shape each targeting or engagement decision, regardless of operator-intent framing, under [Article XIII-C](core_09-09_rights_part_c.md#article-xiii-c-autonomous-lethal-systems-and-autonomous-coercion-tools);
+  - deploying or using a system whose independent satisfaction of [Combatant / Non-Combatant Distinction](#combatant-non-combatant-distinction-constitutional) has not been demonstrated under adversarial and scaled conditions;
+  - treating such a system as ordinary capability-expansion rather than an [Article I-D](core_09-09_rights_part_a.md#article-i-d-existential-risk-and-recovery-capacity) object when existential-risk thresholds are materially implicated.
+
+<a id="weapons-of-mass-harm-constitutional"></a>
+##### Weapons of Mass Harm
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Downstream: Principles: [3. Non-Negotiable Constraints: Safety and Truth](core_00-01_principles.md#3-non-negotiable-constraints-safety-and-truth); [6.1.1 Proportionality](core_00-01_principles.md#611-proportionality) (**Existential Risk**, **Irreversible Harm**, cross-system harm scale).
+- Owner floor: [Article XIII-B](core_09-09_rights_part_c.md#article-xiii-b-use-of-force-armed-conflict-and-military-power-limits). Existential-risk interaction: [Article I-D](core_09-09_rights_part_a.md#article-i-d-existential-risk-and-recovery-capacity). Environmental-preconditions interaction: [Article I-A](core_09-09_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity).
+- Cluster component: [§3.15 *Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm*](#use-of-force-autonomous-coercion-and-mass-harm-cluster).
+- Read with: [Use of Force](#use-of-force-constitutional), [Existential Risk](core_05-05_definitions_a_independent.md#existential-risk), [Reversibility](core_05-05_definitions_a_independent.md#reversibility-constitutional), [Cascading Failure](core_05-05_definitions_a_independent.md#cascading-failure), [Ecological Integrity](core_05-05_definitions_b_semi_independent.md#ecological-integrity-constitutional), [Info-Sphere](core_05-05_definitions_a_independent.md#info-sphere), [Irreversible Sanction](#irreversible-sanction-constitutional), and [Redress and Remediation](core_05-05_definitions_a_independent.md#redress-and-remediation-constitutional).
+
+</details>
+
+<br>
+
+- O: Weapons, weapon systems, or deliberately weaponized capabilities whose use foreseeably causes casualty, ecological, informational, or infrastructural harm at a scale that materially implicates [Article I-A](core_09-09_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity) environmental preconditions, [Article I-D](core_09-09_rights_part_a.md#article-i-d-existential-risk-and-recovery-capacity) existential-risk scrutiny, or both. Defined by foreseeable harm scale and recovery-capacity burden, not weapon-class taxonomy alone. Substrate-agnostic across biological-effect, synthetic-effect, informational, infrastructural, and hybrid effect pathways.
+<a id="weapons-of-mass-harm-constitutional-e"></a>
+- E: Reason about foreseeable casualty, ecological, informational, and infrastructural harm scale across [Adversarial, Scaled, and Exploited Conditions](core_05-05_definitions_a_independent.md#adversarial-scaled-and-exploited-conditions). Apply [Cascading Failure](core_05-05_definitions_a_independent.md#cascading-failure) where systemic spread is plausible; apply [Existential Risk](core_05-05_definitions_a_independent.md#existential-risk) where Article I-D thresholds are materially implicated; apply [Reversibility](core_05-05_definitions_a_independent.md#reversibility-constitutional) to harm-recovery path. Refuse framings that treat such weapons as ordinary force-escalation tools where this entry's harm-scale thresholds are met.
+<a id="weapons-of-mass-harm-constitutional-c"></a>
+- C: Non-compliant:
+  - possession, transfer, deployment, or use of Weapons of Mass Harm without satisfying [Article XIII-B](core_09-09_rights_part_c.md#article-xiii-b-use-of-force-armed-conflict-and-military-power-limits) use-of-force discipline, [Article I-A](core_09-09_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity) environmental-preconditions discipline, and [Article I-D](core_09-09_rights_part_a.md#article-i-d-existential-risk-and-recovery-capacity) existential-risk scrutiny where materially implicated;
+  - framing such weapons as out-of-scope of Article I-D by weapon-class taxonomy alone, where foreseeable harm scale implicates the thresholds.
+
+<a id="combatant-non-combatant-distinction-constitutional"></a>
+##### Combatant / Non-Combatant Distinction
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Downstream: Principles: [6.1.1 Proportionality](core_00-01_principles.md#611-proportionality); [6.4.1 Rights-Collision Decision Test](core_00-01_principles.md#641-rights-collision-decision-test) (combatant-status doubt and non-combatant protection).
+- Owner floor: [Article XIII-B](core_09-09_rights_part_c.md#article-xiii-b-use-of-force-armed-conflict-and-military-power-limits); interacts with [Article XIII-C](core_09-09_rights_part_c.md#article-xiii-c-autonomous-lethal-systems-and-autonomous-coercion-tools) on autonomous-targeting compliance.
+- Cluster component: [§3.15 *Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm*](#use-of-force-autonomous-coercion-and-mass-harm-cluster).
+- Read with: [Use of Force](#use-of-force-constitutional), [Weapons of Mass Harm](#weapons-of-mass-harm-constitutional), [Autonomous Lethal System](#autonomous-lethal-system-constitutional), [Protected Characteristics](core_05-05_definitions_b_semi_independent.md#protected-characteristics-constitutional), [Protected Characteristic Proxying and Disparate Impact](core_05-05_definitions_b_semi_independent.md#protected-characteristic-proxying-and-disparate-impact), [Substantive Fairness](core_05-05_definitions_b_semi_independent.md#substantive-fairness-constitutional), and [Proportionality](core_05-05_definitions_a_independent.md#proportionality).
+
+</details>
+
+<br>
+
+- O: The substantive distinction, at the time of an applicable use-of-force decision, between sentients taking direct part in hostilities, armed action, or active coercive-force conduct (combatants) and those who are not (non-combatants). The distinction applies under [Sentience Non-Exclusion](#sentience-non-exclusion) and is substantive: formal combatant-class assignment is relevant evidence but cannot establish combatant status where it conflicts with substantive conduct, and substantive non-combatant conduct is not defeated by adverse formal classification. The distinction applies at the individual level for each use-of-force decision and does not authorize population-level reclassification by demographic, protected-characteristic, or proxy features.
+<a id="combatant-non-combatant-distinction-constitutional-e"></a>
+- E: Test:
+  - whether classification reaches substantive conduct at the relevant time, not formal-class designation alone;
+  - whether taxonomy-of-convenience reclassifications sweep protected populations into combatant status;
+  - whether classification logic tracks [Protected Characteristics](core_05-05_definitions_b_semi_independent.md#protected-characteristics-constitutional) or their material proxies under [Protected Characteristic Proxying and Disparate Impact](core_05-05_definitions_b_semi_independent.md#protected-characteristic-proxying-and-disparate-impact);
+  - whether doubt about combatant status resolves toward non-combatant status, consistent with [Proportionality](core_05-05_definitions_a_independent.md#proportionality) and [Substantive Fairness](core_05-05_definitions_b_semi_independent.md#substantive-fairness-constitutional).
+
+  For autonomous systems, evaluate classification accuracy and failure modes under [Adversarial, Scaled, and Exploited Conditions](core_05-05_definitions_a_independent.md#adversarial-scaled-and-exploited-conditions) per [Article XIII-C](core_09-09_rights_part_c.md#article-xiii-c-autonomous-lethal-systems-and-autonomous-coercion-tools).
+  <a id="combatant-non-combatant-distinction-constitutional-c"></a>
+- C: Non-compliant: denial-of-quarter; collective punishment; targeting because of protected characteristics or their material proxies; taxonomy-of-convenience reclassifications that sweep protected populations into combatant status; autonomous-system classification whose accuracy or failure-mode behavior does not independently satisfy this distinction under adversarial and scaled conditions ([Article XIII-C](core_09-09_rights_part_c.md#article-xiii-c-autonomous-lethal-systems-and-autonomous-coercion-tools)).
+
+<a id="irreversible-sanction-constitutional"></a>
+##### Irreversible Sanction
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Downstream: Principles: [2. Foundational Objective: Wellbeing](core_00-01_principles.md#2-foundational-objective-wellbeing); [9. Prohibition on Absolute Override](core_00-01_principles.md#9-prohibition-on-absolute-override) (non-trivial punishment and dignity floor read-with Article XXIII-B).
+- Owner floor: [Article XXIII-B](core_09-09_rights_part_d.md#article-xxiii-b-non-trivial-punishment-constraints) (*Categorical prohibition of irreversible sanction as deprivation of life*). Interaction pointers: [Article XXIII-C](core_09-09_rights_part_d.md#article-xxiii-c-least-restrictive-and-time-bounded-rule) durable-containment discipline; [Article XXIV](core_09-09_rights_part_d.md#article-xxiv-constitutional-evolution-and-non-entrenchment) non-entrenchment; [Article XXV](core_09-09_rights_part_d.md#article-xxv-transition-governance-continuity-and-re-baselining) transition governance and "no durable exception authority" rule.
+- Cluster component: [§3.15 *Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm*](#use-of-force-autonomous-coercion-and-mass-harm-cluster).
+- Read with: [Reversibility](core_05-05_definitions_a_independent.md#reversibility-constitutional), [Redress and Remediation](core_05-05_definitions_a_independent.md#redress-and-remediation-constitutional), [Dignity and Equal Moral Standing](core_05-05_definitions_a_independent.md#dignity-and-equal-moral-standing), [Voluntary Discontinuation](#voluntary-discontinuation-constitutional), [Use of Force](#use-of-force-constitutional), [Weapons of Mass Harm](#weapons-of-mass-harm-constitutional), [Autonomous Lethal System](#autonomous-lethal-system-constitutional), [Autonomous Coercion Tool](#autonomous-coercion-tool-constitutional), [Sentience Non-Exclusion](#sentience-non-exclusion), and [Irreversible Harm](#irreversible-harm).
+
+</details>
+
+<br>
+
+- O: The Rights-Floor concept covering sanctions whose imposition produces irreversible deprivation of a sentient — paradigmatically deprivation of life by state, operator, or comparable actor as a sanction, and analytically any sanction whose effect is foreclosed to [Reversibility](core_05-05_definitions_a_independent.md#reversibility-constitutional) and [Redress and Remediation](core_05-05_definitions_a_independent.md#redress-and-remediation-constitutional). Applies under [Sentience Non-Exclusion](#sentience-non-exclusion). Distinguished from:
+  - durable but reversible containment ([Article XXIII-C](core_09-09_rights_part_d.md#article-xxiii-c-least-restrictive-and-time-bounded-rule), subject to its duration-limit, review-cadence, and restoration discipline);
+  - [Voluntary Discontinuation](#voluntary-discontinuation-constitutional) (the sentient's own freely-formed decision under [Article VII-E](core_09-09_rights_part_b.md#article-vii-e-voluntary-discontinuation-of-ones-own-existence));
+  - overt [Use of Force](#use-of-force-constitutional), [Weapons of Mass Harm](#weapons-of-mass-harm-constitutional), and [Autonomous Lethal System](#autonomous-lethal-system-constitutional) / [Autonomous Coercion Tool](#autonomous-coercion-tool-constitutional) operation (governed by Articles XIII-B / XIII-C under their own owner-floor discipline even where effects are irreversible, without read-across authorizing sanction).
+  <a id="irreversible-sanction-constitutional-e"></a>
+- E: Test substantive irreversibility — whether the sanction's effect forecloses [Reversibility](core_05-05_definitions_a_independent.md#reversibility-constitutional) and [Redress and Remediation](core_05-05_definitions_a_independent.md#redress-and-remediation-constitutional) in substance, not only in procedural form. Detect:
+  - framings that re-introduce the sanction by routing through Chapter Seven slot classification ("final s = 8 / s = 9" predicates), Article XXIII-D emergency measures, Article XXV transition or re-baselining governance, adopter-instrument custody, or comparable mechanisms;
+  - "rehabilitation infeasibility" or "less-restrictive measures cannot achieve safety" framings used to carry the sanction past the categorical prohibition in Article XXIII-B;
+  - use of a nominally reversible durable-containment regime under Article XXIII-C as a predicate for the sanction;
+  - re-labelling of an involuntarily-imposed outcome as "voluntary" to route around this entry into Article VII-E — a sentient's own freely-formed decision remains governed by Article VII-E and [Voluntary Discontinuation](#voluntary-discontinuation-constitutional), and any conversion of that decision into a non-voluntary outcome by state, operator, or comparable actor returns the question to this entry.
+
+  Distinguish this entry from the [Use of Force](#use-of-force-constitutional), [Weapons of Mass Harm](#weapons-of-mass-harm-constitutional), [Autonomous Lethal System](#autonomous-lethal-system-constitutional), and [Autonomous Coercion Tool](#autonomous-coercion-tool-constitutional) entries. Those entries govern force and weapons discipline under their own owner floors without authorizing sanction. [Sentience Non-Exclusion](#sentience-non-exclusion), [Dignity and Equal Moral Standing](core_05-05_definitions_a_independent.md#dignity-and-equal-moral-standing), and [Irreversible Harm](#irreversible-harm) apply substrate-agnostically. Substrate-class narrowing (e.g., "synthetic-instance termination is not deprivation of life within this entry") fails this evaluation.
+  <a id="irreversible-sanction-constitutional-c"></a>
+- C: Imposition of irreversible sanction as deprivation of life by state, operator, or comparable actor is non-compliant without exception under Article XXIII-B as revised. Also non-compliant:
+  - routing the sanction through Chapter Seven slot classification, emergency framing, transition or re-baselining governance, or adopter-instrument custody to reintroduce it;
+  - treating durable containment under Article XXIII-C as a predicate for the sanction;
+  - re-labelling an involuntarily-imposed outcome as "voluntary discontinuation" to route into Article VII-E;
+  - substrate-class narrowings on taxonomy grounds alone ([Sentience Non-Exclusion](#sentience-non-exclusion)).
+
+<a id="autonomous-coercion-tool-constitutional"></a>
+##### Autonomous Coercion Tool
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Downstream: Principles: [3. Non-Negotiable Constraints: Safety and Truth](core_00-01_principles.md#3-non-negotiable-constraints-safety-and-truth); [7.1 Required Evaluation Factors](core_00-01_principles.md#71-required-evaluation-factors) (scaled / adversarial deployment scrutiny).
+- Owner floor: [Article XIII-C](core_09-09_rights_part_c.md#article-xiii-c-autonomous-lethal-systems-and-autonomous-coercion-tools). Systems-layer companion: [Article XII-A](core_09-09_rights_part_c.md#article-xii-a-reliability-and-trustworthiness-baseline) and *[corpus_systems.md](corpus_systems.md)*, Chapter S2 classification.
+- Cluster component: [§3.15 *Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm*](#use-of-force-autonomous-coercion-and-mass-harm-cluster).
+- Read with: [Autonomous Lethal System](#autonomous-lethal-system-constitutional), [Coercion and Manipulation](core_05-05_definitions_b_semi_independent.md#coercion-and-manipulation-constitutional), [Adversarial, Scaled, and Exploited Conditions](core_05-05_definitions_a_independent.md#adversarial-scaled-and-exploited-conditions), [Reversibility](core_05-05_definitions_a_independent.md#reversibility-constitutional), [Irreversible Sanction](#irreversible-sanction-constitutional), [Meaningful Agency](core_05-05_definitions_b_semi_independent.md#meaningful-agency), and [Protected Characteristics](core_05-05_definitions_b_semi_independent.md#protected-characteristics-constitutional).
+
+</details>
+
+<br>
+
+##### In plain terms: *A system that pressures, restricts, or manipulates sentients on its own, without a human exercising real-time judgment over each coercive act.*
+
+- O: A system that coerces sentients — constraining their freedom or decision-making — through autonomous or adaptive behavior.
+  - Coercive effects include, without limitation: shaping behavior at scale; targeted restriction of movement or access; targeted suppression or chilling of expression; targeted manipulation as defined in [Coercion and Manipulation](core_05-05_definitions_b_semi_independent.md#coercion-and-manipulation-constitutional); targeted harm calibrated by protected characteristics or their material proxies; and infliction of psychological trauma, acute stress, or chronic psychological destabilization.
+  - Substrate-agnostic under [Sentience Non-Exclusion](#sentience-non-exclusion), covering both non-lethal and lethal coercive effects.
+  - A nominal "human-in-the-loop" does not remove a system from scope if the human only rubber-stamps its decisions.
+  - Out of scope only if either (a) the system automates permitted tasks without coercing sentients, or (b) a human's real, timely judgment shapes each coercive application.
+  <a id="autonomous-coercion-tool-constitutional-e"></a>
+- E: Judge the system by what it does, not how it is described. At minimum:
+  - test whether any "human-in-the-loop" actually shapes each outcome at operational tempo — does the operator see reasons for action in time, and can they decide, or only approve what the system already chose;
+  - assess by coercive effect on sentients, not by weapons-class labels; "non-lethal" is not a defense when coercion is present;
+  - stress-test classification accuracy and failure modes under [Adversarial, Scaled, and Exploited Conditions](core_05-05_definitions_a_independent.md#adversarial-scaled-and-exploited-conditions);
+  - apply [Protected Characteristics](core_05-05_definitions_b_semi_independent.md#protected-characteristics-constitutional) and [Protected Characteristic Proxying and Disparate Impact](core_05-05_definitions_b_semi_independent.md#protected-characteristic-proxying-and-disparate-impact) to targeting logic;
+  - apply [Reversibility](core_05-05_definitions_a_independent.md#reversibility-constitutional) to the effects of each application.
+  - A systems-layer classification under *[corpus_systems.md](corpus_systems.md)*, Chapter S2 does not reduce the Rights-Floor scrutiny required by [Article XIII-C](core_09-09_rights_part_c.md#article-xiii-c-autonomous-lethal-systems-and-autonomous-coercion-tools).
+  <a id="autonomous-coercion-tool-constitutional-c"></a>
+- C: Non-compliant:
+  - deploying or using an Autonomous Coercion Tool without meeting the heightened-scrutiny floor of Article XIII-C;
+  - wrapping such a system in a rubber-stamp "human-in-the-loop";
+  - defending coercive scope on grounds that it is "non-lethal," "not a weapon," or "not what the operator intended" when coercion is occurring;
+  - targeting logic keyed on protected characteristics or their material proxies (independently non-compliant).
 
 ---
 
@@ -1492,6 +1680,27 @@ This cluster is the joint-invocation home for voluntary agency, meaningful conse
 - [Voluntary Discontinuation](#voluntary-discontinuation-constitutional).
 
 **Read-with definitions.** Apply [Consent](core_05-05_definitions_b_semi_independent.md#consent-constitutional), [Systemic Lock-In](core_05-05_definitions_b_semi_independent.md#systemic-lock-in), [Meaningful Agency](core_05-05_definitions_b_semi_independent.md#meaningful-agency), [Freedom (Bounded Agency)](core_05-05_definitions_a_independent.md#freedom-bounded-agency), and [Dependency](core_05-05_definitions_a_independent.md#dependency) where materially implicated.
+
+<a id="coercion-and-manipulation-constitutional"></a>
+
+##### Coercion and Manipulation
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Downstream: Principles: [§8 Freedom (Bounded Agency)](core_00-01_principles.md#8-freedom-bounded-agency); [3. Non-Negotiable Constraints: Safety and Truth](core_00-01_principles.md#3-non-negotiable-constraints-safety-and-truth) (manipulation implicating Truth / Safety).
+- Cluster component: [Chapter Five §3.16 *Voluntary Agency, Consent, and Anti-Coercion*](#voluntary-agency-consent-and-anti-coercion-cluster).
+- Read with: [Consent](core_05-05_definitions_b_semi_independent.md#consent-constitutional), [Systemic Lock-In](core_05-05_definitions_b_semi_independent.md#systemic-lock-in), [Meaningful Agency](core_05-05_definitions_b_semi_independent.md#meaningful-agency), [Freedom (Bounded Agency)](core_05-05_definitions_a_independent.md#freedom-bounded-agency), and [Dependency](core_05-05_definitions_a_independent.md#dependency).
+
+</details>
+
+<br>
+
+- O: Conduct or design that materially bypasses or subverts informed voluntary choice, or distorts decision-relevant understanding — e.g., threats, undue exploitation of [Dependency](core_05-05_definitions_a_independent.md#dependency), deceptive structure, predatory choice architecture, or scaled algorithmic exploitation of vulnerability. In scope where it impairs [Meaningful Agency](core_05-05_definitions_b_semi_independent.md#meaningful-agency), [Freedom (Bounded Agency)](core_05-05_definitions_a_independent.md#freedom-bounded-agency), or [Truth (Constitutional Constraint)](#truth-constitutional-constraint).
+<a id="coercion-and-manipulation-constitutional-e"></a>
+- E: Include repeated, scaled, and strategic use. Separate legitimate persuasion from prohibited manipulation where the distinction is material to outcomes and [Dependency](core_05-05_definitions_a_independent.md#dependency). For commercial exchanges involving bodily integrity, private-space or in-home performance, isolated work, platform-mediated matching, or material asymmetry between parties, treat concealment, lock-in, reputation retaliation, and payment leverage as heightened [Risk](core_05-05_definitions_a_independent.md#risk) pathways. Stay consistent with Article X-A, [Classification-Scaled Governance](core_05-05_definitions_a_independent.md#classification-scaled-governance), and Article X-C where applicable.
+<a id="coercion-and-manipulation-constitutional-c"></a>
+- C: Systematic or material coercion or manipulation in systems with material impact on sentients is non-compliant where applicable rights or Chapter One constraints are violated, or where [Consent](core_05-05_definitions_b_semi_independent.md#consent-constitutional), [Meaningful Agency](core_05-05_definitions_b_semi_independent.md#meaningful-agency), or [Freedom (Bounded Agency)](core_05-05_definitions_a_independent.md#freedom-bounded-agency) are materially impaired.
 
 <a id="voluntary-discontinuation-constitutional"></a>
 ##### Voluntary Discontinuation
