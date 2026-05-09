@@ -226,6 +226,7 @@ This directory lists **Definitions A-Z** and **Clusters A-Z** separately. Each v
 - [Verification Robustness](core_05-05_definitions_c_dependent_clusters.md#verification-robustness)
 - [Verified Violation Findings](core_05-05_definitions_b_semi_independent.md#verified-violation-findings)
 - [Violation Nature](core_05-05_definitions_b_semi_independent.md#violation-nature-chapter-six)
+- [Volitional Integrity](core_05-05_definitions_c_dependent_clusters.md#volitional-integrity)
 - [Voluntary Discontinuation](core_05-05_definitions_c_dependent_clusters.md#voluntary-discontinuation-constitutional)
 - [Weapons of Mass Harm](core_05-05_definitions_b_semi_independent.md#weapons-of-mass-harm-constitutional)
 - [Wellbeing](#wellbeing)
@@ -263,7 +264,7 @@ This directory lists **Definitions A-Z** and **Clusters A-Z** separately. Each v
 - [3.29 Protected Reporting and Anti-Retaliation](core_05-05_definitions_c_dependent_clusters.md#protected-reporting-and-anti-retaliation-cluster)
 - [3.30 Proxy Integrity and Indicator-Reality Alignment](core_05-05_definitions_c_dependent_clusters.md#proxy-integrity-and-indicator-reality-alignment-cluster)
 - [3.32 Resilience, Safety, Reversibility, Self-Healing, Cascading Failure, Existential Risk, Environmental Preconditions, and Wellbeing](core_05-05_definitions_c_dependent_clusters.md#resilience-safety-reversibility-self-healing-and-systemic-harm-cluster)
-- [3.33 Self-Determination, Meaningful Agency, Expression, Educational Agency, Reproductive Autonomy, and Volitional Integrity](core_05-05_definitions_c_dependent_clusters.md#self-determination-and-meaningful-agency-cluster)
+- [3.33 Self-Determination, Meaningful Agency, Expression, Educational Agency, and Volitional Integrity](core_05-05_definitions_c_dependent_clusters.md#self-determination-and-meaningful-agency-cluster)
 - [3.34 Stakeholder Status, Emergency, and Participation Weight](core_05-05_definitions_c_dependent_clusters.md#stakeholder-status-emergency-and-participation-weight-cluster)
 - [3.35 Standing State, Contribution, and Violation](core_05-05_definitions_c_dependent_clusters.md#standing-state-contribution-and-violation-cluster)
 - [3.36 Strategic Stewardship and Stewardship Defect](core_05-05_definitions_c_dependent_clusters.md#strategic-stewardship-and-stewardship-defect-cluster)
@@ -679,7 +680,7 @@ Independent Definitions must not fragment, isolate, or redistribute compliance i
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Downstream: Principles: [§8 Freedom](core_00-01_principles.md#8-freedom-bounded-agency).
-- Read with: the [Self-Determination, Meaningful Agency, Expression, Educational Agency, Reproductive Autonomy, and Volitional Integrity cluster](core_05-05_definitions_c_dependent_clusters.md#self-determination-and-meaningful-agency-cluster), [Meaningful Agency](core_05-05_definitions_b_semi_independent.md#meaningful-agency), [Necessity](#necessity), [Proportionality](#proportionality), [Coercion and Manipulation](core_05-05_definitions_b_semi_independent.md#coercion-and-manipulation-constitutional), and [Contestability](core_05-05_definitions_b_semi_independent.md#contestability).
+- Read with: the [Self-Determination, Meaningful Agency, Expression, Educational Agency, and Volitional Integrity cluster](core_05-05_definitions_c_dependent_clusters.md#self-determination-and-meaningful-agency-cluster), [Meaningful Agency](core_05-05_definitions_b_semi_independent.md#meaningful-agency), [Necessity](#necessity), [Proportionality](#proportionality), [Coercion and Manipulation](core_05-05_definitions_b_semi_independent.md#coercion-and-manipulation-constitutional), and [Contestability](core_05-05_definitions_b_semi_independent.md#contestability).
 
 </details>
 
@@ -723,7 +724,7 @@ Independent Definitions must not fragment, isolate, or redistribute compliance i
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Cluster component: [Chapter Five §3.22 *Info-Sphere, Expression, Press and Journalistic Activity, and Good Faith (Publication-Scoped Integrity)*](core_05-05_definitions_c_dependent_clusters.md#info-sphere-expression-press-journalistic-activity-and-good-faith-cluster) (*Publication- and info-sphere–aligned predicates only — residual **Good Faith** in audits and [Oversight](core_05-05_definitions_a_independent.md#oversight-constitutional) contexts may fall outside §3.22 routing unless materially implicated with **Article VIII-C**, likeness or **Article VIII** publication hooks, **[Publication and High-Impact Communication](core_05-05_definitions_c_dependent_clusters.md#publication-and-high-impact-communication)** under [Chapter Five §3.40 *Truth and Epistemic Integrity*](core_05-05_definitions_c_dependent_clusters.md#truth-and-epistemic-integrity-cluster), **[Article II-E](core_09-09_rights_part_a.md#article-ii-e-info-sphere-dependency-continuity-and-operator-non-viability)**, or **[Article V-H](core_09-09_rights_part_b.md#article-v-h-expression-assembly-and-press)** *press* windows.*
+- Cluster component: [Chapter Five §3.22 *Info-Sphere, Expression, Press and Journalistic Activity, and Good Faith (Publication-Scoped Integrity)*](core_05-05_definitions_c_dependent_clusters.md#info-sphere-expression-press-journalistic-activity-and-good-faith-cluster) (*Publication- and info-sphere–aligned predicates only — residual **Good Faith** in audits and [Oversight](core_05-05_definitions_a_independent.md#oversight-constitutional) contexts without §3.22 publication hooks routes to [Chapter Five §3.14 *Truth and Epistemic Integrity*](core_05-05_definitions_c_dependent_clusters.md#truth-and-epistemic-integrity-cluster) where truthful disclosure and epistemic integrity requirements materially apply.*
 
 </details>
 

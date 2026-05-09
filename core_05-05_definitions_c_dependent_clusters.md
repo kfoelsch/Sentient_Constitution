@@ -780,11 +780,11 @@ Operational handling of data under this cluster must align with **[corpus_system
 
 <a id="proportionality-necessity-feasibility-burden-and-efficiency-cluster"></a>
 
-#### 3.10 Self-Determination, Meaningful Agency, Expression, Educational Agency, Reproductive Autonomy, and Volitional Integrity
+#### 3.10 Self-Determination, Meaningful Agency, Expression, Educational Agency, and Volitional Integrity
 
-This cluster is the joint-invocation home for self-determination, meaningful agency, expression, educational agency, reproductive autonomy, and volitional integrity where those freedoms are materially interdependent under Chapter Nine.
+This cluster is the joint-invocation home for self-determination, meaningful agency, expression, educational agency, and volitional integrity where those freedoms are materially interdependent under Chapter Nine.
 
-**Admission scope.** This cluster applies where a matter materially concerns autonomy of thought, expression, education, reproductive choice, volitional continuity, or manipulation-resistant agency. Outside that admission scope, individual entries such as [Self-Determination](#self-determination-constitutional) may operate alone.
+**Admission scope.** This cluster applies where a matter materially concerns autonomy of thought, expression, education, volitional continuity, or manipulation-resistant agency. Outside that admission scope, individual entries such as [Self-Determination](#self-determination-constitutional) may operate alone.
 
 **Cluster members.** This cluster comprises:
 
@@ -792,17 +792,29 @@ This cluster is the joint-invocation home for self-determination, meaningful age
 - [Meaningful Agency](core_05-05_definitions_b_semi_independent.md#meaningful-agency);
 - [Expression](#expression-constitutional);
 - [Educational Agency](#educational-agency);
+- [Volitional Integrity](#volitional-integrity);
 - [Freedom (Bounded Agency)](core_05-05_definitions_a_independent.md#freedom-bounded-agency), where volitional or bounded-agency disciplines materially intersect this cluster.
 
-**Read-with definitions.** Apply [Coercion and Manipulation](core_05-05_definitions_b_semi_independent.md#coercion-and-manipulation-constitutional), [Consent](core_05-05_definitions_b_semi_independent.md#consent-constitutional), [Privacy (Informational)](#privacy-informational), [Dignity and Equal Moral Standing](core_05-05_definitions_a_independent.md#dignity-and-equal-moral-standing), [Dependency](core_05-05_definitions_a_independent.md#dependency), [Truth (Constitutional Constraint)](#truth-constitutional-constraint), [Chapter Five §3.18 *Family, Care, Reproductive Autonomy, Non-Separation, Parent-System Relationship, and Instantiation Consent*](#family-care-reproductive-autonomy-non-separation-parent-system-and-instantiation-cluster) where **Article VII-D** joint invocation materially applies, and [Chapter Five §3.22 *Info-Sphere, Expression, Press and Journalistic Activity, and Good Faith (Publication-Scoped Integrity)*](#info-sphere-expression-press-journalistic-activity-and-good-faith-cluster) where materially implicated.
+**Read-with definitions.** Apply [Coercion and Manipulation](core_05-05_definitions_b_semi_independent.md#coercion-and-manipulation-constitutional), [Consent](core_05-05_definitions_b_semi_independent.md#consent-constitutional), [Privacy (Informational)](#privacy-informational), [Dignity and Equal Moral Standing](core_05-05_definitions_a_independent.md#dignity-and-equal-moral-standing), [Dependency](core_05-05_definitions_a_independent.md#dependency), [Truth (Constitutional Constraint)](#truth-constitutional-constraint), [Reproductive Autonomy](core_05-05_definitions_b_semi_independent.md#reproductive-autonomy-constitutional) where **Article VII-D** joint invocation materially applies, and [Chapter Five §3.22 *Info-Sphere, Expression, Press and Journalistic Activity, and Good Faith (Publication-Scoped Integrity)*](#info-sphere-expression-press-journalistic-activity-and-good-faith-cluster) where materially implicated.
 
-**Joint invocation and anti-bypass.** Under §3.1, a matter within the admission scope must not be segmented into separate speech, platform, curricular, reproductive, or surveillance questions in a way that preserves nominal liberty while defeating substantive agency through coercion, manipulation, or informational capture.
+**Joint invocation and anti-bypass.** Under §3.1, a matter within the admission scope must not be segmented into separate speech, platform, curricular, or surveillance questions in a way that preserves nominal liberty while defeating substantive agency through coercion, manipulation, or informational capture.
 
 <a id="self-determination-constitutional"></a>
 
 #### Self-Determination
 
-- O: Autonomy to make and refuse informed decisions about oneself and one’s future, and to maintain volitional continuity against manipulation and capture, within this §3.10 cluster and **[Article IX: Self-Determination and Agency](core_09-09_rights_part_b.md#article-ix-self-determination-and-agency)**. Owner floor: **[Article IX-A](core_09-09_rights_part_b.md#article-ix-a-agency-and-freedom-from-manipulation)** (*agency and freedom from manipulation*). Read with [Freedom (Bounded Agency)](core_05-05_definitions_a_independent.md#freedom-bounded-agency) and [Meaningful Agency](core_05-05_definitions_b_semi_independent.md#meaningful-agency) where materially implicated.
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Cluster component: [Chapter Five §3.10 *Self-Determination, Meaningful Agency, Expression, Educational Agency, and Volitional Integrity*](#self-determination-and-meaningful-agency-cluster).
+- Owner floor: **[Article IX-A](core_09-09_rights_part_b.md#article-ix-a-agency-and-freedom-from-manipulation)** (*agency and freedom from manipulation*).
+- Read with: [Freedom (Bounded Agency)](core_05-05_definitions_a_independent.md#freedom-bounded-agency) and [Meaningful Agency](core_05-05_definitions_b_semi_independent.md#meaningful-agency) where materially implicated.
+
+</details>
+
+<br>
+
+- O: Autonomy to make and refuse informed decisions about oneself and one's future, and to maintain volitional continuity against manipulation and capture, within this §3.10 cluster and **[Article IX: Self-Determination and Agency](core_09-09_rights_part_b.md#article-ix-self-determination-and-agency)**.
 <a id="self-determination-constitutional-e"></a>
 - E: Evaluate substantive agency pathways under [Coercion and Manipulation](core_05-05_definitions_b_semi_independent.md#coercion-and-manipulation-constitutional), [Dependency](core_05-05_definitions_a_independent.md#dependency), [Surveillance Boundary](#surveillance-boundary), and segmentation across speech, platform, curricular, or governance domains that defeats joint assessment under §3.1.
 <a id="self-determination-constitutional-c"></a>
@@ -810,13 +822,12 @@ This cluster is the joint-invocation home for self-determination, meaningful age
 
 <a id="expression-constitutional"></a>
 
----
 #### Expression
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Cluster component: [Chapter Five §3.10*Self-Determination, Meaningful Agency, Expression, Educational Agency, Reproductive Autonomy, and Volitional Integrity*](#self-determination-and-meaningful-agency-cluster).
+- Cluster component: [Chapter Five §3.10 *Self-Determination, Meaningful Agency, Expression, Educational Agency, and Volitional Integrity*](#self-determination-and-meaningful-agency-cluster).
 - Read with: [Chapter Five §3.22 *Info-Sphere, Expression, Press and Journalistic Activity, and Good Faith (Publication-Scoped Integrity)*](#info-sphere-expression-press-journalistic-activity-and-good-faith-cluster), where info-sphere, press, or publication-scoped integrity routing materially applies.
 
 </details>
@@ -833,11 +844,41 @@ This cluster is the joint-invocation home for self-determination, meaningful age
 
 #### Educational Agency
 
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Cluster component: [Chapter Five §3.10 *Self-Determination, Meaningful Agency, Expression, Educational Agency, and Volitional Integrity*](#self-determination-and-meaningful-agency-cluster).
+- Owner floors: **[Article VI: Right to Sentient-Centered Education](core_09-09_rights_part_b.md#article-vi-right-to-sentient-centered-education)**, **[Article III-B: Equal Educational Access](core_09-09_rights_part_a.md#article-iii-b-equal-educational-access)**.
+
+</details>
+
+<br>
+
 - O: Capability-building, lifelong-learning, and contestable education autonomy under **[Article VI: Right to Sentient-Centered Education](core_09-09_rights_part_b.md#article-vi-right-to-sentient-centered-education)**, **[Article III-B: Equal Educational Access](core_09-09_rights_part_a.md#article-iii-b-equal-educational-access)**, and this §3.10 cluster; includes practical access sufficient to develop and exercise constitution-relevant capabilities, not credential symbolism alone.
 <a id="educational-agency-e"></a>
 - E: Evaluate access, lock-in, assessment opacity, and displacement of learning pathways against [Meaningful Agency](core_05-05_definitions_b_semi_independent.md#meaningful-agency), [Systemic Lock-In](core_05-05_definitions_b_semi_independent.md#systemic-lock-in), [Contestability](core_05-05_definitions_b_semi_independent.md#contestability), and **Article VI-B** contestability expectations.
 <a id="educational-agency-c"></a>
 - C: Symbolic-only access, credential gatekeeping that defeats capability formation, or segmentation that removes contestability or lifelong adaptation where **Article VI** jointly applies is non-compliant.
+
+<a id="volitional-integrity"></a>
+
+#### Volitional Integrity
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Cluster component: [Chapter Five §3.10 *Self-Determination, Meaningful Agency, Expression, Educational Agency, and Volitional Integrity*](#self-determination-and-meaningful-agency-cluster).
+- Read with: [Self-Determination](#self-determination-constitutional), [Freedom (Bounded Agency)](core_05-05_definitions_a_independent.md#freedom-bounded-agency), [Coercion and Manipulation](core_05-05_definitions_b_semi_independent.md#coercion-and-manipulation-constitutional), [Consent](core_05-05_definitions_b_semi_independent.md#consent-constitutional), [Protected Internal-State Boundary](#protected-internal-state-boundary-constitutional), and [Surveillance Boundary](#surveillance-boundary).
+
+</details>
+
+<br>
+
+- O: The continuity and coherence of a sentient's volitional states — including preferences, purposes, intentions, and identity-constitutive commitments — against degradation through manipulation, coercion, external control, or unauthorized interference with internal-state processes. It protects the integrity of decision-formation and self-direction from capture, fragmentation, or covert reshaping, consistent with **[Article IX-A](core_09-09_rights_part_b.md#article-ix-a-agency-and-freedom-from-manipulation)** (*agency and freedom from manipulation*).
+<a id="volitional-integrity-e"></a>
+- E: Evaluate for: (1) coherence of preference-formation over time; (2) resistance to covert manipulation, deception, or algorithmic exploitation of cognitive vulnerabilities; (3) protection from unauthorized external shaping of internal states through surveillance, inference, or behavioral conditioning; (4) preservation of meaningful choice architecture where [Coercion and Manipulation](core_05-05_definitions_b_semi_independent.md#coercion-and-manipulation-constitutional) threatens to subvert apparent voluntariness; and (5) continuity of identity-constitutive commitments against involuntary fragmentation or dissolution.
+<a id="volitional-integrity-c"></a>
+- C: Non-compliant: systematic manipulation or coercion that subverts volitional continuity; covert behavioral conditioning that defeats informed self-direction; unauthorized inference or reconstruction of internal states used to reshape preferences; external control mechanisms that fragment or destabilize volitional coherence; or design patterns that exploit cognitive vulnerabilities to override or redirect autonomous choice.
 
 ---
 
@@ -851,18 +892,162 @@ This cluster is the joint-invocation home for contribution state, standing cells
 
 **Cluster members.** This cluster comprises:
 
-- [Contribution State](core_05-05_definitions_b_semi_independent.md#contribution-state);
-- [Standing Cell](core_05-05_definitions_b_semi_independent.md#standing-cell-chapter-six);
-- [Standing Effect](core_05-05_definitions_b_semi_independent.md#standing-effect-chapter-six);
-- [Violation Nature](core_05-05_definitions_b_semi_independent.md#violation-nature-chapter-six);
-- [Verified Violation Findings](core_05-05_definitions_b_semi_independent.md#verified-violation-findings);
-- [Participant Standing](core_05-05_definitions_b_semi_independent.md#participant-standing-constitutional), where reputation- or record-based gating intersects Axis I typing.
+- [Participant Standing](#participant-standing-constitutional), where reputation- or record-based gating intersects Axis I typing;
+- [Contribution State](#contribution-state);
+- [Verified Violation Findings](#verified-violation-findings);
+- [Standing Effect](#standing-effect-chapter-six);
+- [Standing Cell](#standing-cell-chapter-six);
+- [Violation Nature](#violation-nature-chapter-six).
 
 **Read-with definitions.** Apply [Auditability](#auditability), [Contestability](core_05-05_definitions_b_semi_independent.md#contestability), [Materiality Determination](core_05-05_definitions_b_semi_independent.md#materiality-determination), [Adjudication and Dispute Resolution](core_05-05_definitions_b_semi_independent.md#adjudication-and-dispute-resolution-constitutional), and [Chapter Six §2.1](core_06-06_standing_classification.md#21-two-axis-map) where materially implicated.
 
 **Joint invocation and anti-bypass.** Under §3.1, a matter within the admission scope must not be segmented into separate narrative, procedural, or evidentiary compartments in a way that defeats joint assessment, verified-input gates, or non-substitution discipline required by Chapter Six.
 
 ---
+
+<a id="participant-standing-constitutional"></a>
+
+##### Participant Standing
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Downstream: Principles: [7.1 Required Evaluation Factors](core_00-01_principles.md#71-required-evaluation-factors); [7.2 Incentive Alignment and System Capture](core_00-01_principles.md#72-incentive-alignment-and-system-capture) (standing signals and capture).
+- Read with: the [Standing State, Contribution, and Violation cluster](#standing-state-contribution-and-violation-cluster), [Contribution State](#contribution-state), [Standing Cell](#standing-cell-chapter-six), [Standing Effect](#standing-effect-chapter-six), [Verified Violation Findings](#verified-violation-findings), [Violation Nature](#violation-nature-chapter-six), [Contestability](core_05-05_definitions_b_semi_independent.md#contestability), [Auditability](#auditability), [Transparency](#transparency), and [Redress and Remediation](core_05-05_definitions_a_independent.md#redress-and-remediation-constitutional).
+
+</details>
+
+<br>
+
+- O: Reputation-, record-, or qualification-based status used to gate access to audits, roles, funding challenges, or participation pathways. It is distinct from [Dignity and Equal Moral Standing](core_05-05_definitions_a_independent.md#dignity-and-equal-moral-standing) (inherent to all sentients) and from demonstration of material impact for [Stakeholder](core_05-05_definitions_b_semi_independent.md#stakeholder) identification. *Good standing* is a participant-standing state: current eligibility for ordinary participation, trust-sensitive roles, or qualified access under constitutionally valid, contestable criteria. It does not extinguish baseline rights, dignity, challenge access under [Contestability](core_05-05_definitions_b_semi_independent.md#contestability), or remedy access under [Redress and Remediation](core_05-05_definitions_a_independent.md#redress-and-remediation-constitutional). Operational detail is governed by [Article XVIII-A](core_09-09_rights_part_c.md#article-xviii-a-standing-distinction) (*Standing Distinction*), [Article XVIII-C](core_09-09_rights_part_c.md#article-xviii-c-good-standing-responsibility-and-continuous-audit) (*Good Standing, Responsibility, and Continuous Audit*), and related incorporated provisions where designated. **Axis I** **contribution state**, **Violation Axis** inputs, and **standing effect** under the Chapter Six model are not restated here; read [Contribution State](#contribution-state) with [Chapter Six](core_06-06_standing_classification.md#chapter-six-compliance-violation-and-standing-model), including [Contribution Axis rules](core_06-06_standing_classification.md#3-axis-i-contribution-state-and-standing-effect), [Violation Axis rules](core_06-06_standing_classification.md#3-axis-ii-violation-nature-legal-constitutional-type), and [standing effects and integration](core_06-06_standing_integration.md#chapter-six-standing-effects-and-integration). Final **Violation Axis s = 7, s = 8, and s = 9** anti-constitutional misconduct classification remains governed by [Chapter Seven](core_07-07_misconduct.md#chapter-seven-anti-constitutional-misconduct).
+<a id="participant-standing-constitutional-e"></a>
+- E: Ensure [Contestability](core_05-05_definitions_b_semi_independent.md#contestability), [Auditability](#auditability), and [Transparency](#transparency) proportional to impact. Detect arbitrary, opaque, or monopolistic control of standing signals. Align with [Epistemic Integrity](#epistemic-integrity) where standing claims are communicated. Apply Chapter Six standing-effect mechanics directly, and route any final top-end anti-constitutional misconduct assignment to Chapter Seven rather than to participant-standing criteria.
+<a id="participant-standing-constitutional-c"></a>
+- C: Non-compliant:
+  - using participant standing to permanently exclude sentients from survival-critical systems solely on standing;
+  - using participant standing, including good-standing determinations, to deny audit or challenge eligibility without justification under [Proportionality](core_05-05_definitions_a_independent.md#proportionality) and [Necessity](core_05-05_definitions_a_independent.md#necessity) where applicable instruments require access.
+
+---
+
+<a id="contribution-state"></a>
+
+##### Contribution State
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Downstream: Principles: [7.1 Required Evaluation Factors](core_00-01_principles.md#71-required-evaluation-factors) (materiality / verification in standing inputs); [6.4.2 Proxy-Divergence Invalidation](core_00-01_principles.md#642-proxy-divergence-invalidation) (standing metrics vs demonstrable facts).
+- Canonical owner: [Chapter Six — section 3](core_06-06_standing_classification.md#3-axis-i-contribution-state-and-standing-effect) (*Axis I — contribution state, standing-effect mechanics, and supplemental descriptors*); read with [Chapter Six — section 1](core_06-06_standing_classification.md#1-purpose-and-role) (*two-axis frame*); [Chapter Six §2.2 — Verified-input gate](core_06-06_standing_classification.md#verified-inputs-for-standing); [Chapter Six §3.1.1](core_06-06_standing_classification.md#215-constitutional-outcome-baseline-for-slots) (*LEQU and constitutional-outcome baselines*).
+- Read with: the [Standing State, Contribution, and Violation cluster](#standing-state-contribution-and-violation-cluster), [Participant Standing](#participant-standing-constitutional) (*distinct — reputation-/record-based gating versus Axis I typing*); [Standing Cell](#standing-cell-chapter-six); [Standing Effect](#standing-effect-chapter-six); [Violation Nature](#violation-nature-chapter-six); [Verified Violation Findings](#verified-violation-findings); [Lifespan Equivalent Unit (LEQU)](core_05-05_definitions_a_independent.md#lifespan-equivalent-unit-lequ) (*shorthand for full-life-equivalent calibration*); [Chapter Six — section 4](core_06-06_standing_classification.md#4-axis-ii-violation-nature-legal-constitutional-type) (*Axis II — violation-nature primary typing*); [Auditability](#auditability); [Contestability](core_05-05_definitions_b_semi_independent.md#contestability); [Materiality Determination](core_05-05_definitions_b_semi_independent.md#materiality-determination).
+
+</details>
+
+<br>
+
+- O: **Axis I** classifies **positive-only** constitutional outcomes: **baseline** satisfaction and **demonstrable** improvement beyond baseline, under applicable functional system conditions. It **does not** classify **adverse** **violation** **findings** or non-compliance; those are classified under **violation nature** on **Axis II**. Banding (including **baseline**, **positive**, **stewardship-positive**, and **champion** contribution), **standing effect** integration, stackable supplements, and contestability rules for **contribution state** are stated in [Chapter Six](core_06-06_standing_classification.md) [**section 3**](core_06-06_standing_classification.md#3-axis-i-contribution-state-and-standing-effect), read with [**sections 1–2**](core_06-06_standing_classification.md#1-purpose-and-role) (frame and **verified inputs for standing**). This entry is a Chapter Five pointer to those canonical Chapter Six mechanics and does not itself restate the full operative text. It is distinct from [Participant Standing](#participant-standing-constitutional) (Article XVIII family — **gating** for audits, roles, and participation pathways).
+<a id="contribution-state-e"></a>
+- E: Evaluate **contribution state** only from **demonstrable** **facts** under [Auditability](#auditability) and [Contestability](core_05-05_definitions_b_semi_independent.md#contestability). Apply [Materiality Determination](core_05-05_definitions_b_semi_independent.md#materiality-determination) where thresholds, scope, or record disputes are material. **Standing effect** must stay **traceable** to **contribution state** and **violation nature** as stated in Chapter Six **§§3.2–3.3** and the integration rules. **Must not** treat **alleged** misconduct as [**verified violation findings**](#verified-violation-findings) for standing purposes ([**verified inputs for standing**](core_06-06_standing_classification.md#verified-inputs-for-standing)). Where [Participant Standing](#participant-standing-constitutional) and Chapter Six labels co-apply, keep narratives consistent. Do not substitute **formal-channel** pedigree for **demonstrable** **contribution state** under Chapter Six **section 3**.
+<a id="contribution-state-c"></a>
+- C: Non-compliant:
+  - relabeling **adverse** **violation** findings as **negative contribution** on **Axis I**;
+  - using **contribution state** to **net away**, **average**, or **substitute** for [**verified violation findings**](#verified-violation-findings) required under Chapter Six **§2.2** and **§3.3**;
+  - **opaque**, **non-auditable**, or **undisclosed** criteria for **contribution state** or **standing effect** that cannot be **traced** to Chapter Six **section 3** mechanics.
+
+---
+
+<a id="verified-violation-findings"></a>
+
+##### Verified Violation Findings
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Downstream: Principles: [3. Non-Negotiable Constraints: Safety and Truth](core_00-01_principles.md#3-non-negotiable-constraints-safety-and-truth); [6. Interaction and Conflict Resolution](core_00-01_principles.md#6-interaction-and-conflict-resolution) (verified facts for adverse standing).
+- Canonical owner: [Chapter Six — §2.2 Verified-input gate](core_06-06_standing_classification.md#verified-inputs-for-standing) and [Chapter Six — §3.3 Violation Axis](core_06-06_standing_classification.md#4-axis-ii-violation-nature-legal-constitutional-type); read with the [Standing State, Contribution, and Violation cluster](#standing-state-contribution-and-violation-cluster), [Violation Nature](#violation-nature-chapter-six), [Standing Cell](#standing-cell-chapter-six), [Standing Effect](#standing-effect-chapter-six), [Auditability](#auditability), [Contestability](core_05-05_definitions_b_semi_independent.md#contestability), and [Adjudication and Dispute Resolution](core_05-05_definitions_b_semi_independent.md#adjudication-and-dispute-resolution-constitutional).
+- Read with: [Violation Nature](#violation-nature-chapter-six). The two are compound for standing use: verified violation findings supply the admissible finding basis, and violation nature supplies the adverse classification applied from that basis.
+
+</details>
+
+<br>
+
+- O: **Violation Axis** inputs that may affect **standing effect** because they rest on auditable, contestable findings satisfying Chapters **Two through Four** and Chapter Six **§2.2**. This entry is a Chapter Five pointer; canonical verified-input rules are in Chapter Six **§2.2** and **§3.3**. They are compound with [Violation Nature](#violation-nature-chapter-six): this entry supplies the admissible finding basis; violation nature supplies the classification of adverse constitutional outcome, severity, process / response character, duty or diffusion material, negligence or neglect material, and applicable adverse descriptors where the underlying finding supports them. Allegations, intake labels, provisional routing, and forum-phase narratives are not verified violation findings by themselves.
+<a id="verified-violation-findings-e"></a>
+- E: Identify the finding authority or record basis, the affected subject and scope, the applicable violation nature, the evidence and contestability path, and whether the finding is final, under review, superseded, resolved, or remediated for the standing context. Apply the Chapter Six no-offset rule and keep these findings separate from [Contribution State](#contribution-state). A finding that lacks an applicable violation-nature classification is incomplete for adverse standing effect; a violation-nature label that lacks verified findings is incomplete for adverse standing effect.
+<a id="verified-violation-findings-c"></a>
+- C: Non-compliant: treating allegations, provisional labels, intake tags, or unresolved forum-phase material as verified violation findings; assigning **violation nature** for adverse **standing effect** without verified findings; using **contribution state** to erase, average down, or relabel verified violation findings; or applying adverse standing consequences without the record basis and contestability required by Chapter Six **§2.2**.
+
+---
+
+<a id="standing-effect-chapter-six"></a>
+
+##### Standing Effect
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Downstream: Principles: [6.4.1 Rights-Collision Decision Test](core_00-01_principles.md#641-rights-collision-decision-test); [10. Interpretive Role](core_00-01_principles.md#10-interpretive-role) (standing effects read through integrated interpretive framework).
+- Canonical owner: [Chapter Six — §4 Standing Effects](core_06-06_standing_integration.md#5-standing-effects) through [§8 Additive and Non-Substitution Rule](core_06-06_standing_integration.md#9-additive-and-non-substitution-rule) (*trust-, role-, recognition-, restriction-, restoration, integration, and non-substitution*); read with [Chapter Six — §2 Two-Axis Model and Verified Inputs](core_06-06_standing_classification.md#2-primary-contribution-and-violation-levels), [§2.2 Verified-input gate](core_06-06_standing_classification.md#verified-inputs-for-standing), and [§2.5 Standing-cell operational underpinnings](core_06-06_standing_classification.md#25-standing-cell-operational-underpinnings).
+- Read with: the [Standing State, Contribution, and Violation cluster](#standing-state-contribution-and-violation-cluster) and [Standing Cell](#standing-cell-chapter-six). The two are compound for application: a standing effect must be attached to a bounded standing cell, and a standing cell must identify any standing effect actually applied.
+
+</details>
+
+<br>
+
+- O: The **consequence layer** that applies verified [**contribution state**](#contribution-state) and [**verified violation findings**](#verified-violation-findings) to trust eligibility, roles, delegated authority, recognition, restriction, restoration, remediation, safeguards, and review within a bounded standing cell. It is a decision consequence, not a dignity rank, Rights-Floor measure, or merged merit score. This entry is a Chapter Five pointer to Chapter Six standing-effect mechanics; the canonical rules appear in Chapter Six **sections 4**, **7**, and **8**. It must keep the Contribution Axis and Violation Axis separately traceable and must not net, average, offset, or substitute one axis for the other. **Operative** rules are stated in Chapter Six **sections 2**, **4**, **7**, and **8**; this entry does not restate them. Read with [Article XXIII-B: Non-Trivial Punishment Constraints](core_09-09_rights_part_d.md#article-xxiii-b-non-trivial-punishment-constraints) and [Article XXIII-C: Least-Restrictive and Time-Bounded Rule](core_09-09_rights_part_d.md#article-xxiii-c-least-restrictive-and-time-bounded-rule) where punitive or restrictive **standing**-linked measures are in play.
+<a id="standing-effect-chapter-six-e"></a>
+- E: **Standing effect** must remain **traceable** to [Chapter Six](core_06-06_standing_classification.md) **§§2–3** and [Chapter Six — Integration](core_06-06_standing_integration.md) **§§4** and **7**–**8**; evaluate under [Auditability](#auditability) and [Contestability](core_05-05_definitions_b_semi_independent.md#contestability). The record must identify the standing cell, subject, scope, time window, review status, separate axis inputs, verification basis, and consequence actually applied. **Contribution-linked** credit must follow Chapter Six **§7.1** recency and disclosure discipline where standing integration uses it. **Violation-linked** constraints must not be time-discounted, recency-weighted away, or softened by contribution upside while unresolved. **Must not** treat **alleged** misconduct, intake labels, or forum-phase material as [**verified violation findings**](#verified-violation-findings) for **standing** ([**verified inputs for standing**](core_06-06_standing_classification.md#verified-inputs-for-standing)).
+<a id="standing-effect-chapter-six-c"></a>
+- C: Non-compliant: **opaque** or **undisclosed** **standing** criteria; use of unverified allegations, provisional labels, or forum-phase material as adverse **standing** inputs; standing cells that collapse distinct subjects, scopes, time windows, or review statuses into an undifferentiated label; **netting**, **averaging**, offsetting, or **substitution** that displaces **Chapter Six §7.1–7.2** or **verified**-input discipline; positive standing recognition used to erase unresolved violation findings; restrictive **standing effect** that is broader, less reviewable, or less time-bounded than Article **XXIII** permits; or **standing effect** that **extinguishes** inherent dignity, equal moral standing, baseline rights, or access to **challenge** and **remedy** where Chapter Six and Article **XXIII** forbid it.
+
+---
+
+<a id="standing-cell-chapter-six"></a>
+
+##### Standing Cell
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Downstream: Principles: [7.1 Required Evaluation Factors](core_00-01_principles.md#71-required-evaluation-factors); [6.4.2 Proxy-Divergence Invalidation](core_00-01_principles.md#642-proxy-divergence-invalidation) (bounded standing cells vs merged labels).
+- Canonical owner: [Chapter Six — §2.5 Standing-cell operational underpinnings](core_06-06_standing_classification.md#25-standing-cell-operational-underpinnings); read with [Chapter Six — §2.2 Verified-input gate](core_06-06_standing_classification.md#verified-inputs-for-standing), [Chapter Six — §3 Primary Axis Categories and Slot Defaults](core_06-06_standing_classification.md#3-primary-category-defaults-and-lequ-slot-baseline), and [Chapter Six — Integration](core_06-06_standing_integration.md#chapter-six-standing-effects-and-integration).
+- Read with: the [Standing State, Contribution, and Violation cluster](#standing-state-contribution-and-violation-cluster), [Standing Effect](#standing-effect-chapter-six), [Contribution State](#contribution-state), [Violation Nature](#violation-nature-chapter-six), [Verified Violation Findings](#verified-violation-findings), [Auditability](#auditability), [Contestability](core_05-05_definitions_b_semi_independent.md#contestability), [Materiality Determination](core_05-05_definitions_b_semi_independent.md#materiality-determination), and [Participant Standing](#participant-standing-constitutional).
+
+</details>
+
+<br>
+
+- O: The bounded operational record that applies Chapter Six categories to a defined subject, functional scope, time window, review status, and decision context. This entry is a Chapter Five pointer description; the canonical operational definition is in Chapter Six §2.5. A standing cell may concern a sentient, institution, system, assessment, event, role, collective, actor-specific record, or other constitutionally relevant unit, but it must keep distinct units and contexts separately traceable. It is compound with [Standing Effect](#standing-effect-chapter-six): the standing cell supplies the record container and bounded application context; standing effect supplies the consequence layer applied from that record. A standing cell is not a general worth label, dignity rank, Rights-Floor measure, or merged merit score.
+<a id="standing-cell-chapter-six-e"></a>
+- E: Evaluate a standing cell by whether it states the assessed subject, scope, time window, review status, separate Contribution Axis and Violation Axis inputs, verification basis, evidence provenance, materiality reasoning, versioning, contestability pathway, and standing effect actually applied. The cell must preserve axis separation, currentness, audit trail, and no-offset discipline under Chapter Six. Collective and actor-specific cells may coexist only where their allocation basis is demonstrable and does not assign adverse standing by group membership alone.
+<a id="standing-cell-chapter-six-c"></a>
+- C: Non-compliant: using an undifferentiated standing label without a bounded cell; collapsing separate subjects, roles, time windows, review states, or decision contexts into one status; applying standing effect without a reviewable cell; hiding axis inputs, evidence, calibration assumptions, version changes, or contestability; using a collective cell to impose actor-specific adverse standing without verified linkage; or treating a standing cell as a substitute for inherent dignity, baseline rights, stakeholder status, challenge access, remedy access, or Chapter Eight forum findings.
+
+---
+
+<a id="violation-nature-chapter-six"></a>
+
+##### Violation Nature
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Downstream: Principles: [7.1 Required Evaluation Factors](core_00-01_principles.md#71-required-evaluation-factors); [6.4.2 Proxy-Divergence Invalidation](core_00-01_principles.md#642-proxy-divergence-invalidation) (Axis II classification integrity).
+- Canonical owner: [Chapter Six — §3.3 Violation Axis](core_06-06_standing_classification.md#4-axis-ii-violation-nature-legal-constitutional-type) (*non-compliance ladder, **§§3.3.0–3.3.8***); [Chapter Six — §5](core_06-06_standing_integration.md#6-extended-axis-ii-legal-hybrid-duty-and-harm-descriptors) (*process / response character*); [Chapter Six — §6.3](core_06-06_standing_integration.md#73-stackable-harm-and-conduct-descriptors-violation-nature-supplement) (*stackable harm descriptors*). Read with the [Standing State, Contribution, and Violation cluster](#standing-state-contribution-and-violation-cluster) and [Verified Violation Findings](#verified-violation-findings). Final **Violation Axis s = 7, 8, or 9** anti-constitutional assignment: [Chapter Seven](core_07-07_misconduct.md#chapter-seven-anti-constitutional-misconduct).
+- Read with: [Verified Violation Findings](#verified-violation-findings). The two are compound for standing use: violation nature classifies adverse constitutional outcome only from verified violation findings, and verified violation findings must state the violation nature actually applied where they affect standing.
+
+</details>
+
+<br>
+
+- O: **Axis II** classification of **adverse** constitutional outcomes from [**verified violation findings**](#verified-violation-findings) — **non-compliance** severity, attached process / response character, and **§6** supplements — under [Chapter Six](core_06-06_standing_classification.md) and [integration sections](core_06-06_standing_integration.md). This entry is a Chapter Five pointer; canonical Axis II classification rules are in Chapter Six **§3.3** and **§5**. It is compound with [Verified Violation Findings](#verified-violation-findings): violation nature supplies the classification layer, while verified violation findings supply the admissible record basis. Distinct from [**contribution state**](#contribution-state) (**Axis I**, positive-only).
+<a id="violation-nature-chapter-six-e"></a>
+- E: Classify for **standing** only from **findings** satisfying Chapters **Two through Four** and [**verified inputs for standing**](core_06-06_standing_classification.md#verified-inputs-for-standing). The record must identify the verified finding basis and the violation-nature classification together, including severity, applicable attachments or supplements, scope, review status, and whether Chapter Seven controls final top-slot assignment. Read with [Harm](#harm), [Materiality Determination](core_05-05_definitions_b_semi_independent.md#materiality-determination), [Constitutional Constraint Violation](#constitutional-constraint-violation), and [Supremacy and Enforceability](#supremacy-and-enforceability) where material.
+<a id="violation-nature-chapter-six-c"></a>
+- C: Non-compliant: using **allegations**, **provisional** labels, or **forum-phase** material alone as **violation nature** for **standing**; recording verified violation findings for adverse standing effect without stating the applicable violation nature; relabeling **adverse** **violation** **findings** as **negative contribution** on **Axis I**; using [**contribution state**](#contribution-state) to **net away** or **substitute** for [**verified violation findings**](#verified-violation-findings) required under Chapter Six.
+
+---
+
+<a id="strategic-stewardship-and-stewardship-defect-cluster"></a>
 
 <a id="strategic-stewardship-and-stewardship-defect-cluster"></a>
 
@@ -875,6 +1060,11 @@ assurance depth where Chapters Two through Four require traceable, contestable e
 behavior, auditability and reconstructor-grade records, evaluation completeness against plausible failure modes, observable
 indicators, independent verification, or verification accessibility and independence under scaled or adversarial conditions.
 Outside that admission scope, individual entries may still operate as supporting Independent Definitions without importing the whole cluster.
+
+**System class and proportionality.** Transparency, auditability, and verification obligations scale with system class under
+**[corpus_systems.md](corpus_systems.md), Chapter S2 — System Classification and Handling**, and with material impact,
+dependency, and risk. Higher-class systems (Class A, B, C) require proportionately greater assurance depth, record granularity,
+independent verification rigor, and audit scope sufficiency than lower-class systems (Class L, P).
 
 **Cluster members.** This cluster comprises:
 
@@ -1068,80 +1258,34 @@ This cluster is the canonical O/E/C home for **Trust**, **Trustworthiness**, and
 
 <br>
 
-- O: Reliability of system behavior relative to stated properties, sufficient to justify [Trust](#trust).
+<a id="trustworthiness-o"></a>
+- **O:** Reliability of system behavior relative to stated properties — demonstrated through observable, verifiable conduct over time across normal, degraded, and stressed conditions — sufficient to justify [Trust](#trust). Trustworthiness encompasses: (a) evidentiary basis grounded in observable behavior and attributable actions; (b) psychological safety conditions enabling [Meaningful Agency](core_05-05_definitions_b_semi_independent.md#meaningful-agency); (c) transparent, auditable, and contestable methodology; (d) class-scaled assessment for Class A/B/C systems; (e) informed consent and non-coercive participation pathways; (f) defined scope boundaries for justified reliance; (g) continuous behavioral revalidation; and (h) incentive alignment sustaining rather than degrading reliability.
+
 <a id="trustworthiness-e"></a>
-- E: Assess trustworthiness through the joint subcomponents below where material. Trustworthiness must appear in current, observable, verifiable behavior over time — not in assertion.
+- **E:** Assess trustworthiness through the joint evidentiary requirements below where material. Trustworthiness must appear in current, observable, verifiable behavior — not in assertion, reputation, or prior performance alone:
+  - **Evidentiary basis and temporal consistency:** Rely on observable behavior, verifiable outcomes, attributable actions, and disclosed commitments. Assess consistency across normal, degraded, stressed, and materially relevant operating conditions.
+  - **Psychological safety and substantive agency:** Test whether system behavior preserves psychological-safety conditions necessary for [Meaningful Agency](core_05-05_definitions_b_semi_independent.md#meaningful-agency) and non-coercive participation. Where participation, [Consent](core_05-05_definitions_b_semi_independent.md#consent-constitutional), or decision-making is relied on as trust-sustaining, it must be substantive, not merely formal.
+  - **Modeling, methodology, and contestability:** Trust-related assessment methods must be [transparent](#transparency) as to methodology and limitations (within Chapter One safety, security, and [Proportionality](core_05-05_definitions_a_independent.md#proportionality) bounds), [auditable](#auditability) in outcome, proportionate to impact, and [contestable](core_05-05_definitions_b_semi_independent.md#contestability) by affected sentients.
+  - **Class-scaled system assessment:** Under *[corpus_systems.md](corpus_systems.md)*, Chapter S2, Class A, Class B, and Class C systems must be assessed for whether they are designed, operated, and evolved to exhibit trustworthiness through [observable](#observability), [verifiable](#verifiability) behavior and [transparent](#transparency), [auditable](#auditability), [accountable](core_05-05_definitions_b_semi_independent.md#accountability) conduct toward [Stakeholders](core_05-05_definitions_b_semi_independent.md#stakeholder).
+  - **Consent and non-coercive participation:** Where [Consent](core_05-05_definitions_b_semi_independent.md#consent-constitutional) and [Meaningful Agency](core_05-05_definitions_b_semi_independent.md#meaningful-agency) apply, meaningful informed consent must be evidenced through [observable](#observability) properties and interaction outcomes. Continued participation should reflect justified trust, not constrained choice; evaluate together with [Dependency](core_05-05_definitions_a_independent.md#dependency), [Systemic Lock-In](core_05-05_definitions_b_semi_independent.md#systemic-lock-in), [Coercion and Manipulation](core_05-05_definitions_b_semi_independent.md#coercion-and-manipulation-constitutional), and [Verification Accessibility](#verification-accessibility).
+  - **Justified reliance and scope boundaries:** Require defined, disclosed scope, boundaries, and conditions under which trust is justified. Treat implied or extended trust beyond validated capabilities, operating conditions, or intended use as a trustworthiness assessment input.
+  - **Continuous revalidation and disclosure integrity:** Require ongoing behavioral revalidation. Treat as trustworthiness failures: revalidation producing instability destroying reliable expectations, and delayed, withheld, or post-hoc disclosure blocking meaningful response.
+  - **Decision-usable transparency:** Require non-deceptive signaling of capability, limits, and uncertainty. Incorporate adopted implementation requirements on trust, transparency, verification, and [Incentive Alignment](core_05-05_definitions_a_independent.md#incentive-alignment) with Chapter Fourteen, without treating those hooks as substitutes for this definition's full components.
+  - **Auditability, independent verification, and attributable behavior:** Require [Auditability](#auditability), independent verification, and attributable behavior under normal and stressed conditions.
+  - **Incentive integrity in sustained participation:** Assess whether [Incentive Alignment](core_05-05_definitions_a_independent.md#incentive-alignment) structures sustain rather than degrade trustworthiness.
+
 <a id="trustworthiness-c"></a>
-- C: Non-compliant where materially relevant:
-  - treating reliance as trustworthiness without the joint subcomponent evidence below;
-  - substituting prior performance, scale, adoption, reputation, history, or third-party endorsement for current, independent, observable, and verifiable evidence;
-  - inferring trust from intent or unverifiable claims;
-  - sustaining participation through [coercion](core_05-05_definitions_b_semi_independent.md#coercion-and-manipulation-constitutional), [lock-in](core_05-05_definitions_b_semi_independent.md#systemic-lock-in), or absence of viable alternatives;
-  - obscuring behavior, risks, or dependencies that impair informed trust;
-  - persistently destabilizing or manipulative system behavior that is preventable or unmitigated;
-  - cherry-picking one subcomponent below to bypass another (Chapter Five §3 and Chapter Three §§1–2).
-
-##### Trustworthiness — evidentiary basis and temporal consistency
-<a id="trustworthiness-evidentiary-basis-and-temporal-consistency-e"></a>
-- E: Rely on observable behavior, verifiable outcomes, attributable actions, and disclosed commitments and performance. Assess consistency over time and across normal, degraded, stressed, and other materially relevant operating conditions.
-
-##### Trustworthiness — psychological safety and substantive agency conditions
-<a id="trustworthiness-psychological-safety-and-substantive-agency-conditions-e"></a>
-- E: Test whether system behavior preserves psychological-safety conditions necessary for [Meaningful Agency](core_05-05_definitions_b_semi_independent.md#meaningful-agency) and non-coercive participation. Where participation, [Consent](core_05-05_definitions_b_semi_independent.md#consent-constitutional), or decision-making is relied on as trust-sustaining, it must be substantive, not merely formal.
-
-##### Trustworthiness — modeling, methodology, and contestability
-<a id="trustworthiness-modeling-methodology-and-contestability-e"></a>
-- E: Trust-related modeling and assessment methods must be [transparent](#transparency) as to methodology and limitations (within Chapter One safety, security, and [Proportionality](core_05-05_definitions_a_independent.md#proportionality) bounds), [auditable](#auditability) in outcome, proportionate to impact, and [contestable](core_05-05_definitions_b_semi_independent.md#contestability) by affected sentients.
-
-##### Trustworthiness — class-scaled system assessment
-<a id="trustworthiness-class-scaled-system-assessment-e"></a>
-- E: Under *[corpus_systems.md](corpus_systems.md)*, Chapter S2, Class A, Class B, and Class C systems must be assessed for whether they are designed, operated, and evolved to exhibit trustworthiness. That assessment must treat trustworthiness as appearing in [observable](#observability), [verifiable](#verifiability) behavior and, where material, in [transparent](#transparency), [auditable](#auditability), and [accountable](core_05-05_definitions_b_semi_independent.md#accountability) **behavior** toward [Stakeholders](core_05-05_definitions_b_semi_independent.md#stakeholder).
-
-##### Trustworthiness — consent and non-coercive participation
-<a id="trustworthiness-consent-and-non-coercive-participation-e"></a>
-- E: Where [Consent](core_05-05_definitions_b_semi_independent.md#consent-constitutional) and [Meaningful Agency](core_05-05_definitions_b_semi_independent.md#meaningful-agency) apply, meaningful informed consent must be evidenced through [observable](#observability) properties and interaction outcomes. Continued participation should reflect justified trust, not constrained choice; evaluate together with [Dependency](core_05-05_definitions_a_independent.md#dependency), [Systemic Lock-In](core_05-05_definitions_b_semi_independent.md#systemic-lock-in), [Coercion and Manipulation](core_05-05_definitions_b_semi_independent.md#coercion-and-manipulation-constitutional), and [Verification Accessibility](#verification-accessibility).
-
-##### Trustworthiness — justified reliance and scope boundaries
-<a id="trustworthiness-justified-reliance-and-scope-boundaries-e"></a>
-- E: Require defined, disclosed scope, boundaries, and conditions under which trust is justified. Treat implied or extended trust beyond validated capabilities, operating conditions, or intended use as a trustworthiness assessment input.
-
-##### Trustworthiness — continuous revalidation and disclosure integrity
-<a id="trustworthiness-continuous-revalidation-and-disclosure-integrity-e"></a>
-- E: Require ongoing behavioral revalidation. Treat as trustworthiness failures: revalidation that produces instability or unpredictability destroying reliable stakeholder expectations, and delayed, withheld, or post-hoc disclosure that blocks meaningful response.
-
-##### Trustworthiness — grounds and non-bases
-<a id="trustworthiness-grounds-and-non-bases-e"></a>
-- E: Trust must rest on current, observable, and verifiable trustworthiness over time. Prior performance, scale, adoption, reputation, history, or third-party endorsement must not substitute for current, independent evidence.
-
-##### Trustworthiness — decision-usable transparency
-<a id="trustworthiness-decision-usable-transparency-e"></a>
-- E: For decision-usable [Transparency](#transparency), require non-deceptive signaling of capability, limits, and uncertainty. Incorporate adopted implementation requirements on trust, transparency, verification, and [Incentive Alignment](core_05-05_definitions_a_independent.md#incentive-alignment) with Chapter Fourteen, without treating those hooks as a substitute for this definition's full components.
-<a id="trustworthiness-decision-usable-transparency-c"></a>
-- C: Systems must not obscure behavior, risks, or dependencies that impair informed trust where materially relevant.
-
-##### Trustworthiness — auditability, independent verification, and attributable behavior
-<a id="trustworthiness-auditability-independent-verification-and-attributable-behavior-e"></a>
-- E: Require [Auditability](#auditability), independent verification, and attributable behavior under normal and stressed conditions where materially relevant.
-<a id="trustworthiness-auditability-independent-verification-and-attributable-behavior-c"></a>
-- C: Prior performance, scale, adoption, reputation, history, or third-party endorsement must not, alone, satisfy trustworthiness without current, independent, observable, and verifiable evidence.
-
-##### Trustworthiness — incentive integrity in sustained participation
-<a id="trustworthiness-incentive-integrity-in-sustained-participation-e"></a>
-- E: Assess whether [Incentive Alignment](core_05-05_definitions_a_independent.md#incentive-alignment) structures sustain rather than degrade trustworthiness.
-<a id="trustworthiness-incentive-integrity-in-sustained-participation-c"></a>
-- C: Systems must not rely on unverifiable claims, [coercion](core_05-05_definitions_b_semi_independent.md#coercion-and-manipulation-constitutional), [lock-in](core_05-05_definitions_b_semi_independent.md#systemic-lock-in), or absence of viable alternatives to sustain participation where [Meaningful Agency](core_05-05_definitions_b_semi_independent.md#meaningful-agency) and [Consent](core_05-05_definitions_b_semi_independent.md#consent-constitutional) apply.
-
-##### Trustworthiness — non-inferred trust and protected internal-state limits
-<a id="trustworthiness-non-inferred-trust-and-protected-internal-state-limits-c"></a>
-- C: Trust must not be inferred from intent or unverifiable claims. Do not treat inferred internal states, intentions, or beliefs as fact or as verifiably established attributes. Do not construct, use, or act on models that reconstruct, approximate, or functionally replicate protected internal cognitive or emotional states except within limits established under [Protected Internal-State Boundary](#protected-internal-state-boundary-constitutional), [Privacy (Informational)](#privacy-informational), Article VII-A, Article VII-B, and Chapter S1.
-
-##### Trustworthiness — non-destabilizing and non-manipulative operation
-<a id="trustworthiness-non-destabilizing-and-non-manipulative-operation-c"></a>
-- C: Persistently trauma-producing, manipulative, or psychologically destabilizing system behavior that is preventable or unmitigated is incompatible with trustworthiness — especially where it constitutes [Psychological Harm](#psychological-harm) or [Coercion and Manipulation](core_05-05_definitions_b_semi_independent.md#coercion-and-manipulation-constitutional).
+- **C:** Non-compliant where materially relevant:
+  - Treating reliance as trustworthiness without the joint evidentiary requirements above;
+  - Substituting prior performance, scale, adoption, reputation, history, or third-party endorsement for current, independent, observable, and verifiable evidence;
+  - Inferring trust from intent or unverifiable claims;
+  - Sustaining participation through [coercion](core_05-05_definitions_b_semi_independent.md#coercion-and-manipulation-constitutional), [lock-in](core_05-05_definitions_b_semi_independent.md#systemic-lock-in), or absence of viable alternatives;
+  - Obscuring behavior, risks, or dependencies that impair informed trust;
+  - Persistently destabilizing or manipulative system behavior that is preventable or unmitigated — especially where it constitutes [Psychological Harm](#psychological-harm) or [Coercion and Manipulation](core_05-05_definitions_b_semi_independent.md#coercion-and-manipulation-constitutional);
+  - Constructing or acting on models that reconstruct protected internal cognitive or emotional states outside limits established under [Protected Internal-State Boundary](#protected-internal-state-boundary-constitutional), [Privacy (Informational)](#privacy-informational), Article VII-A, Article VII-B, and Chapter S1;
+  - Cherry-picking one evaluative element to bypass another where joint satisfaction is required (Chapter Five §3 and Chapter Three §§1–2).
 
 ---
-
-<a id="trust-degradation-and-misleading-reliance-constitutional"></a>
 
 <a id="trust-degradation-and-misleading-reliance"></a>
 #### Trust Degradation and Misleading Reliance
@@ -1156,61 +1300,26 @@ This cluster is the canonical O/E/C home for **Trust**, **Trustworthiness**, and
 
 <br>
 
-##### Trust degradation cluster — admission conditions
+<a id="trust-degradation-and-misleading-reliance-o"></a>
+- **O:** Evaluation conditions in which material reliance on represented capability, risk, intent, limits, [Dependency](core_05-05_definitions_a_independent.md#dependency), **Axis I** contribution inputs (read with violation nature and standing where material), or cross-companion assurance is at stake for decisions, continued participation, or [Oversight](core_05-05_definitions_a_independent.md#oversight-constitutional). This includes subscription, billing, classification, compliance, pathway, stewardship, and adjudication-support contexts where trust degradation is reasonably detectable or where prevention of misleading reliance is required. Observable pattern families used to detect trust erosion include: misrepresentation of capability, risk, or intent; inconsistency between behavior and disclosed function; accumulation of unresolved failures, inaccuracies, or harms; erosion of ability to verify, challenge, or exit; and material omission needed for informed understanding.
 
-- O: Evaluation conditions in which material reliance on represented capability, risk, intent, limits, [Dependency](core_05-05_definitions_a_independent.md#dependency), **Axis I** contribution inputs (read with violation nature and standing where material), or cross-companion assurance is at stake for decisions, continued participation, or [Oversight](core_05-05_definitions_a_independent.md#oversight-constitutional). Examples: subscription, billing, classification, compliance, pathway, stewardship, and adjudication-support contexts where trust degradation is reasonably detectable or where prevention of misleading reliance is required.
+<a id="trust-degradation-and-misleading-reliance-e"></a>
+- **E:** Confirm admission scope is materially present before applying joint-satisfaction discipline. Then evaluate through the following integrated requirements:
+  - **Representation-behavior consistency:** Integrate [Observability](#observability)-grounded representation-behavior consistency.
+  - **Omission and contextual completeness:** Integrate material omission and contextual completeness for informed decisions.
+  - **Verification, challenge, dependency, and exit:** Integrate practical [Verifiability](#verifiability) and [Contestability](core_05-05_definitions_b_semi_independent.md#contestability) pathways together with [Dependency](core_05-05_definitions_a_independent.md#dependency) and exit conditions under [Systemic Lock-In](core_05-05_definitions_b_semi_independent.md#systemic-lock-in).
+  - **Cumulative reliance-affecting harms and inaccuracies:** Integrate cumulative or unresolved harms or inaccuracies that affect reliance.
+  - **Detection, attribution, and correction:** Support detection of degradation, attribution of causes, and proportionate correction aligned with root causes and [Redress and Remediation](core_05-05_definitions_a_independent.md#redress-and-remediation-constitutional) where systems are assessed under adopted implementation requirements on trust and reliability.
+  - **Observability, independent verification, and stressed-condition effectiveness:** Supporting capabilities must be [Observability](#observability)-grounded, independently [Verifiable](#verifiability), and effective under normal, degraded, and adversarial conditions.
+  - **Proportional intensity scaling:** [Proportional](core_05-05_definitions_a_independent.md#proportionality) intensity must scale with [Material Impact](core_05-05_definitions_b_semi_independent.md#material-impact), stakeholder [Dependency](core_05-05_definitions_a_independent.md#dependency), [Irreversible Harm](#irreversible-harm) risk from failure, and reliance on system outputs for decision-making.
+  - **Trust-erosion pattern mapping:** Map each materially present pattern through [Epistemic Integrity](#epistemic-integrity), [Truth (Constitutional Constraint)](#truth-constitutional-constraint), [Transparency](#transparency), [Trustworthiness](#trustworthiness), [Contestability](core_05-05_definitions_b_semi_independent.md#contestability), [Auditability](#auditability), [Verifiability](#verifiability), [Verification Accessibility](#verification-accessibility), [Dependency](core_05-05_definitions_a_independent.md#dependency), [Systemic Lock-In](core_05-05_definitions_b_semi_independent.md#systemic-lock-in), [Coercion and Manipulation](core_05-05_definitions_b_semi_independent.md#coercion-and-manipulation-constitutional), and applicable adopted implementation expectations on trust and verification.
 
-##### Trust degradation cluster — scope confirmation and routing
-<a id="trust-degradation-cluster-scope-confirmation-and-routing-e"></a>
-- E: Confirm the admission scope is materially present before applying joint-satisfaction discipline across this cluster's jointly applicable members. Otherwise, evaluate under the narrower Independent Definitions that apply alone.
-
-##### Trust degradation cluster — anti-bypass within admission scope
-<a id="trust-degradation-cluster-anti-bypass-within-admission-scope-c"></a>
-- C: Cherry-picking one member definition to bypass another within admission scope is non-compliant (Chapter Five §3 — Dependent clusters; Chapter Three §§1–2).
-
-##### Trust degradation cluster — representation-behavior consistency
-<a id="trust-degradation-cluster-representation-behavior-consistency-e"></a>
-- E: Integrate [Observability](#observability)-grounded representation-behavior consistency, using this cluster's jointly applicable members.
-
-##### Trust degradation cluster — omission and contextual completeness
-<a id="trust-degradation-cluster-omission-and-contextual-completeness-e"></a>
-- E: Integrate material omission and contextual completeness for informed decisions, using this cluster's jointly applicable members.
-
-##### Trust degradation cluster — verification, challenge, dependency, and exit
-<a id="trust-degradation-cluster-verification-challenge-dependency-and-exit-e"></a>
-- E: Integrate practical [Verifiability](#verifiability) and [Contestability](core_05-05_definitions_b_semi_independent.md#contestability) pathways together with [Dependency](core_05-05_definitions_a_independent.md#dependency) and exit conditions under [Systemic Lock-In](core_05-05_definitions_b_semi_independent.md#systemic-lock-in), using this cluster's jointly applicable members.
-
-##### Trust degradation cluster — cumulative reliance-affecting harms and inaccuracies
-<a id="trust-degradation-cluster-cumulative-reliance-affecting-harms-and-inaccuracies-e"></a>
-- E: Integrate cumulative or unresolved harms or inaccuracies that affect reliance, using this cluster's jointly applicable members.
-
-##### Trust degradation cluster — detection, attribution, and correction
-<a id="trust-degradation-cluster-detection-attribution-and-correction-e"></a>
-- E: Support detection of degradation, attribution of causes, and proportionate correction aligned with root causes and [Redress and Remediation](core_05-05_definitions_a_independent.md#redress-and-remediation-constitutional) where systems are assessed under adopted implementation requirements on trust and reliability.
-
-##### Trust degradation cluster — observability, independent verification, and stressed-condition effectiveness
-<a id="trust-degradation-cluster-observability-independent-verification-and-stressed-condition-effectiveness-e"></a>
-- E: Supporting capabilities must be [Observability](#observability)-grounded, independently [Verifiable](#verifiability), and effective under normal, degraded, and adversarial conditions.
-
-##### Trust degradation cluster — proportional intensity scaling
-<a id="trust-degradation-cluster-proportional-intensity-scaling-e"></a>
-- E: [Proportional](core_05-05_definitions_a_independent.md#proportionality) intensity must scale with [Material Impact](core_05-05_definitions_b_semi_independent.md#material-impact), stakeholder [Dependency](core_05-05_definitions_a_independent.md#dependency), [Irreversible Harm](#irreversible-harm) risk from failure, and reliance on system outputs for decision-making where those factors are material.
-
-##### Trust degradation cluster — anti-facade compliance floor
-<a id="trust-degradation-cluster-anti-facade-compliance-floor-c"></a>
-- C: Isolated formal compliance with disclosure or audit artifacts that defeats substantively informed understanding, independent verification, or effective challenge is non-compliant.
-
-##### Trust degradation cluster — cross-companion trust-claim integrity
-<a id="trust-degradation-cluster-cross-companion-trust-claim-integrity-c"></a>
-- C: The same applies where cross-companion signals appear conforming while material obligations that jointly sustain a trust claim remain unmet for the same structural outcome (read `corpus_joint_structure.md` CJS-3.2 and CJS-3.9).
-
-#### Illustrative trust-erosion patterns (tracing; non-exhaustive)
-
-- O: Observable pattern families used to detect trust erosion without redefining underlying implementation obligations: misrepresentation of capability, risk, or intent; inconsistency between behavior and disclosed function; accumulation of unresolved failures, inaccuracies, or harms; erosion of ability to verify, challenge, or exit; material omission needed for informed understanding.
-<a id="illustrative-trust-erosion-patterns-tracing-non-exhaustive-e"></a>
-- E: Map each materially present pattern through [Epistemic Integrity](#epistemic-integrity), [Truth (Constitutional Constraint)](#truth-constitutional-constraint), [Transparency](#transparency), [Trustworthiness](#trustworthiness), [Contestability](core_05-05_definitions_b_semi_independent.md#contestability), [Auditability](#auditability), [Verifiability](#verifiability), [Verification Accessibility](#verification-accessibility), [Dependency](core_05-05_definitions_a_independent.md#dependency), [Systemic Lock-In](core_05-05_definitions_b_semi_independent.md#systemic-lock-in), [Coercion and Manipulation](core_05-05_definitions_b_semi_independent.md#coercion-and-manipulation-constitutional), and applicable adopted implementation expectations on trust and verification.
-<a id="illustrative-trust-erosion-patterns-tracing-non-exhaustive-c"></a>
-- C: Treating these patterns as non-material where the Materiality-family definitions in Chapter Five require treating them as material, or splitting evaluation so that no member definition captures the full functional wrong, is non-compliant within admission scope.
+<a id="trust-degradation-and-misleading-reliance-c"></a>
+- **C:** Non-compliant:
+  - Cherry-picking one member definition to bypass another within admission scope (Chapter Five §3 — Dependent clusters; Chapter Three §§1–2);
+  - Isolated formal compliance with disclosure or audit artifacts that defeats substantively informed understanding, independent verification, or effective challenge;
+  - Cross-companion signals appearing conforming while material obligations that jointly sustain a trust claim remain unmet for the same structural outcome (read `corpus_joint_structure.md` CJS-3.2 and CJS-3.9);
+  - Treating trust-erosion patterns as non-material where Materiality-family definitions require treating them as material, or splitting evaluation so no member definition captures the full functional wrong.
 
 ---
 

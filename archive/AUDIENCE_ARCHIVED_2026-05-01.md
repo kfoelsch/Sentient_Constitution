@@ -167,6 +167,73 @@ Individual definitions about harm, materiality, or non-imposition may still guid
 
 ---
 
+## Chapter 5s3.13 — Trust and Trustworthiness (Audience Guidance)
+
+### What this cluster does
+
+This cluster provides the framework for evaluating when reliance on systems, institutions, or other sentients is justified — and when it is not. It brings together:
+
+- **Trust** — justified reliance based on demonstrated trustworthiness
+- **Trustworthiness** — reliable system behavior relative to stated properties
+- **Trust Degradation and Misleading Reliance** — recognizing and responding to erosion of justified trust
+
+The cluster prevents reliance from being manufactured through coercion, lock-in, reputation alone, or unverifiable claims. Trust must rest on observable, verifiable behavior over time — not on assertions of good intent, scale of adoption, or absence of alternatives.
+
+### What it protects
+
+The cluster establishes several interconnected protections that cannot be separated:
+
+1. **Evidence-based reliance** — trust must be grounded in current, observable, verifiable behavior, not history or reputation alone
+2. **Psychological safety** — system behavior must preserve conditions necessary for meaningful agency and non-coercive participation
+3. **Transparency and contestability** — trust-related assessments must be auditable, with clear methodology and meaningful challenge pathways
+4. **Continuous revalidation** — trustworthiness requires ongoing behavioral confirmation, not one-time certification
+5. **Anti-coercion safeguards** — participation must reflect justified trust, not constrained choice from lock-in or dependency
+6. **Detection and correction** — systems must enable detection of trust degradation, attribution of causes, and proportionate remediation
+
+*In plain terms:* You cannot claim "users trust us" while obscuring risks, relying on locked-in participants, or substituting marketing for demonstrable reliability. Trust must be earned through current behavior that affected parties can verify and challenge.
+
+### When this cluster applies
+
+The cluster is triggered whenever decisions involve:
+
+**Core trust questions:**
+- Whether reliance on a system, institution, or representation is justified
+- Assessment of system reliability relative to stated capabilities and limits
+- Evaluation of trust degradation or misleading reliance claims
+- Coordination, participation, or oversight that materially rests on represented behavior
+
+**Behavior and representation matters:**
+- Consistency between disclosed function and actual behavior
+- Transparency about capabilities, risks, uncertainties, and dependencies
+- Conditions for meaningful consent versus constrained choice
+- Representation-behavior gaps that affect stakeholder decisions
+
+**System assessment contexts:**
+- Class A, B, or C systems under stewardship classification
+- Subscription, billing, classification, or compliance claims
+- Cross-companion assurance and joint operation models
+- Proportionate verification requirements under scaled or adversarial conditions
+
+**Dependency and exit considerations:**
+- Systemic lock-in that sustains participation through absence of alternatives
+- Coercion or manipulation that replaces justified trust
+- Exit feasibility and practical avoidance costs
+- Dependency-rich contexts where trust claims are especially consequential
+
+### What stays outside
+
+When none of the above triggers apply, individual definitions about trust or trustworthiness may still be used as supporting references. However, they cannot import the cluster's full joint-invocation discipline or anti-bypass protections.
+
+Specifically excluded from this cluster standing alone:
+- General reputation or brand assessment without reliance stakes
+- Historical performance claims divorced from current behavior evaluation
+- Technical capability assertions without material trust or coordination implications
+- Preference or satisfaction metrics that do not implicate justified reliance
+
+Individual definitions may still guide analysis, but they cannot trigger the cluster's full procedural integration where the admission scope is not met.
+
+---
+
 ## Chapter 5s3.6 — Corpus, Authority Stack, Supremacy, and Enforceability (Audience Guidance)
 
 ### What this cluster does

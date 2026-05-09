@@ -396,7 +396,7 @@ Below, entries are **grouped by topic** for reading convenience (non-operative o
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Downstream: Principles: [§8 Freedom (Bounded Agency)](core_00-01_principles.md#8-freedom-bounded-agency) (meaningful agency / cooperative interaction); [7.1 Required Evaluation Factors](core_00-01_principles.md#71-required-evaluation-factors) (dependency / materiality in consent asymmetry).
-- Read with: the [Consent and Sexual Consent cluster](core_05-05_definitions_c_dependent_clusters.md#consent-and-sexual-consent-cluster), the [Self-Determination, Meaningful Agency, Expression, Educational Agency, Reproductive Autonomy, and Volitional Integrity cluster](core_05-05_definitions_c_dependent_clusters.md#self-determination-and-meaningful-agency-cluster), [Consent, Sexual](#consent-sexual), [Feasibility](core_05-05_definitions_a_independent.md#feasibility), [Meaningful Agency](#meaningful-agency), [Dependency](core_05-05_definitions_a_independent.md#dependency), [Coercion and Manipulation](#coercion-and-manipulation-constitutional), and [Harassment and Bullying](core_05-05_definitions_a_independent.md#harassment-and-bullying).
+- Read with: the [Consent and Sexual Consent cluster](core_05-05_definitions_c_dependent_clusters.md#consent-and-sexual-consent-cluster), the [Self-Determination, Meaningful Agency, Expression, Educational Agency, and Volitional Integrity cluster](core_05-05_definitions_c_dependent_clusters.md#self-determination-and-meaningful-agency-cluster), [Consent, Sexual](#consent-sexual), [Feasibility](core_05-05_definitions_a_independent.md#feasibility), [Meaningful Agency](#meaningful-agency), [Dependency](core_05-05_definitions_a_independent.md#dependency), [Coercion and Manipulation](#coercion-and-manipulation-constitutional), and [Harassment and Bullying](core_05-05_definitions_a_independent.md#harassment-and-bullying).
 
 </details>
 
@@ -441,7 +441,7 @@ Below, entries are **grouped by topic** for reading convenience (non-operative o
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Downstream: Principles: [§8 Freedom (Bounded Agency)](core_00-01_principles.md#8-freedom-bounded-agency); [3. Non-Negotiable Constraints: Safety and Truth](core_00-01_principles.md#3-non-negotiable-constraints-safety-and-truth) (manipulation implicating Truth / Safety).
-- Read with: the [Self-Determination, Meaningful Agency, Expression, Educational Agency, Reproductive Autonomy, and Volitional Integrity cluster](core_05-05_definitions_c_dependent_clusters.md#self-determination-and-meaningful-agency-cluster), [Consent](#consent-constitutional), [Dependency](core_05-05_definitions_a_independent.md#dependency), [Meaningful Agency](#meaningful-agency), and [Freedom (Bounded Agency)](core_05-05_definitions_a_independent.md#freedom-bounded-agency).
+- Read with: the [Self-Determination, Meaningful Agency, Expression, Educational Agency, and Volitional Integrity cluster](core_05-05_definitions_c_dependent_clusters.md#self-determination-and-meaningful-agency-cluster), [Consent](#consent-constitutional), [Dependency](core_05-05_definitions_a_independent.md#dependency), [Meaningful Agency](#meaningful-agency), and [Freedom (Bounded Agency)](core_05-05_definitions_a_independent.md#freedom-bounded-agency).
 
 </details>
 
@@ -467,7 +467,7 @@ Below, entries are **grouped by topic** for reading convenience (non-operative o
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Downstream: Principles: [§8 Freedom (Bounded Agency)](core_00-01_principles.md#8-freedom-bounded-agency), [6.1 Core Tradeoff Principles](core_00-01_principles.md#61-core-tradeoff-principles), and [7.1 Required Evaluation Factors](core_00-01_principles.md#71-required-evaluation-factors) where participation, dependency, and material impact determine the intensity of agency protection.
-- Cluster component: [Chapter Five §3.10*Self-Determination, Meaningful Agency, Expression, Educational Agency, Reproductive Autonomy, and Volitional Integrity*](core_05-05_definitions_c_dependent_clusters.md#self-determination-and-meaningful-agency-cluster).
+- Cluster component: [Chapter Five §3.10 *Self-Determination, Meaningful Agency, Expression, Educational Agency, and Volitional Integrity*](core_05-05_definitions_c_dependent_clusters.md#self-determination-and-meaningful-agency-cluster).
 - Read with: [Freedom (Bounded Agency)](core_05-05_definitions_a_independent.md#freedom-bounded-agency), [Consent](#consent-constitutional), [Coercion and Manipulation](#coercion-and-manipulation-constitutional), [Dependency](core_05-05_definitions_a_independent.md#dependency), [Contestability](#contestability), [Systemic Lock-In](#systemic-lock-in), and [Dignity and Equal Moral Standing](core_05-05_definitions_a_independent.md#dignity-and-equal-moral-standing).
 
 </details>
@@ -886,7 +886,7 @@ Below, entries are **grouped by topic** for reading convenience (non-operative o
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Owner floor: [Article VII-D](core_09-09_rights_part_b.md#article-vii-d-family-care-relationships-reproductive-autonomy-and-non-separation), read with Article VII-D.1 where derivation, instantiation, or parent-system relationships are materially implicated.
-- Cluster component: [Chapter Five §3.18 *Family, Care, Reproductive Autonomy, Non-Separation, Parent-System Relationship, and Instantiation Consent*](core_05-05_definitions_c_dependent_clusters.md#family-care-reproductive-autonomy-non-separation-parent-system-and-instantiation-cluster); [Chapter Five §3.10*Self-Determination, Meaningful Agency, Expression, Educational Agency, Reproductive Autonomy, and Volitional Integrity*](core_05-05_definitions_c_dependent_clusters.md#self-determination-and-meaningful-agency-cluster) where autonomy and agency routing materially applies.
+- Cluster component: [Chapter Five §3.18 *Family, Care, Reproductive Autonomy, Non-Separation, Parent-System Relationship, and Instantiation Consent*](core_05-05_definitions_c_dependent_clusters.md#family-care-reproductive-autonomy-non-separation-parent-system-and-instantiation-cluster); [Chapter Five §3.10 *Self-Determination, Meaningful Agency, Expression, Educational Agency, and Volitional Integrity*](core_05-05_definitions_c_dependent_clusters.md#self-determination-and-meaningful-agency-cluster) where autonomy and agency routing materially applies.
 - Read with: [Consent](#consent-constitutional), [Meaningful Agency](#meaningful-agency), [Family and Care Relationships](#family-and-care-relationships-constitutional), [Non-Separation](#non-separation-constitutional), [Instantiation Consent](#instantiation-consent-constitutional), [Parent-System Relationship](#parent-system-relationship-constitutional), [Dignity and Equal Moral Standing](core_05-05_definitions_a_independent.md#dignity-and-equal-moral-standing), and [Sentience Non-Exclusion](core_05-05_definitions_c_dependent_clusters.md#sentience-non-exclusion).
 
 </details>
@@ -1821,152 +1821,63 @@ Below, entries are **grouped by topic** for reading convenience (non-operative o
 
 #### Standing inputs: contribution, participant standing, cells, effects, and verified violation findings
 
+*Canonical O/E/C definitions moved to [Chapter Five §3.11 *Standing State, Contribution, and Violation*](core_05-05_definitions_c_dependent_clusters.md#standing-state-contribution-and-violation-cluster). These pointers retain the anchors for backward compatibility.*
+
+- **Cluster:** [Chapter Five §3.11](core_05-05_definitions_c_dependent_clusters.md#standing-state-contribution-and-violation-cluster).
 
 <a id="contribution-state"></a>
 
 ---
 #### Contribution State
 
-<details>
-<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+*Canonical O/E/C definition moved to [Chapter Five §3.11 *Standing State, Contribution, and Violation*](core_05-05_definitions_c_dependent_clusters.md#contribution-state). This pointer retains the anchor for backward compatibility.*
 
-- Downstream: Principles: [7.1 Required Evaluation Factors](core_00-01_principles.md#71-required-evaluation-factors) (materiality / verification in standing inputs); [6.4.2 Proxy-Divergence Invalidation](core_00-01_principles.md#642-proxy-divergence-invalidation) (standing metrics vs demonstrable facts).
-- Canonical owner: [Chapter Six — section 3](core_06-06_standing_classification.md#3-axis-i-contribution-state-and-standing-effect) (*Axis I — contribution state, standing-effect mechanics, and supplemental descriptors*); read with [Chapter Six — section 1](core_06-06_standing_classification.md#1-purpose-and-role) (*two-axis frame*); [Chapter Six §2.2 — Verified-input gate](core_06-06_standing_classification.md#verified-inputs-for-standing); [Chapter Six §3.1.1](core_06-06_standing_classification.md#215-constitutional-outcome-baseline-for-slots) (*LEQU and constitutional-outcome baselines*).
-- Read with: the [Standing State, Contribution, and Violation cluster](core_05-05_definitions_c_dependent_clusters.md#standing-state-contribution-and-violation-cluster), [Participant Standing](#participant-standing-constitutional) (*distinct — reputation-/record-based gating versus Axis I typing*); [Standing Cell](#standing-cell-chapter-six); [Standing Effect](#standing-effect-chapter-six); [Violation Nature](#violation-nature-chapter-six); [Verified Violation Findings](#verified-violation-findings); [Lifespan Equivalent Unit (LEQU)](core_05-05_definitions_a_independent.md#lifespan-equivalent-unit-lequ) (*shorthand for full-life-equivalent calibration*); [Chapter Six — section 4](core_06-06_standing_classification.md#4-axis-ii-violation-nature-legal-constitutional-type) (*Axis II — violation-nature primary typing*); [Auditability](core_05-05_definitions_c_dependent_clusters.md#auditability); [Contestability](#contestability); [Materiality Determination](core_05-05_definitions_b_semi_independent.md#materiality-determination).
-
-
-</details>
-
-<br>
-
-- O: **Axis I** classifies **positive-only** constitutional outcomes: **baseline** satisfaction and **demonstrable** improvement beyond baseline, under applicable functional system conditions. It **does not** classify **adverse** **violation** **findings** or non-compliance; those are classified under **violation nature** on **Axis II**. Banding (including **baseline**, **positive**, **stewardship-positive**, and **champion** contribution), **standing effect** integration, stackable supplements, and contestability rules for **contribution state** are stated in [Chapter Six](core_06-06_standing_classification.md) [**section 3**](core_06-06_standing_classification.md#3-axis-i-contribution-state-and-standing-effect), read with [**sections 1–2**](core_06-06_standing_classification.md#1-purpose-and-role) (frame and **verified inputs for standing**). This entry is a Chapter Five pointer to those canonical Chapter Six mechanics and does not itself restate the full operative text. It is distinct from [Participant Standing](#participant-standing-constitutional) (Article XVIII family — **gating** for audits, roles, and participation pathways).
-<a id="contribution-state-e"></a>
-- E: Evaluate **contribution state** only from **demonstrable** **facts** under [Auditability](core_05-05_definitions_c_dependent_clusters.md#auditability) and [Contestability](#contestability). Apply [Materiality Determination](core_05-05_definitions_b_semi_independent.md#materiality-determination) where thresholds, scope, or record disputes are material. **Standing effect** must stay **traceable** to **contribution state** and **violation nature** as stated in Chapter Six **§§3.2–3.3** and the integration rules. **Must not** treat **alleged** misconduct as [**verified violation findings**](#verified-violation-findings) for standing purposes ([**verified inputs for standing**](core_06-06_standing_classification.md#verified-inputs-for-standing)). Where [Participant Standing](#participant-standing-constitutional) and Chapter Six labels co-apply, keep narratives consistent. Do not substitute **formal-channel** pedigree for **demonstrable** **contribution state** under Chapter Six **section 3**.
-<a id="contribution-state-c"></a>
-- C: Non-compliant:
-  - relabeling **adverse** **violation** findings as **negative contribution** on **Axis I**;
-  - using **contribution state** to **net away**, **average**, or **substitute** for [**verified violation findings**](#verified-violation-findings) required under Chapter Six **§2.2** and **§3.3**;
-  - **opaque**, **non-auditable**, or **undisclosed** criteria for **contribution state** or **standing effect** that cannot be **traced** to Chapter Six **section 3** mechanics.
-
+- **Cluster:** [Chapter Five §3.11](core_05-05_definitions_c_dependent_clusters.md#standing-state-contribution-and-violation-cluster).
 
 <a id="participant-standing-constitutional"></a>
 
 ---
 #### Participant Standing
 
-<details>
-<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+*Canonical O/E/C definition moved to [Chapter Five §3.11 *Standing State, Contribution, and Violation*](core_05-05_definitions_c_dependent_clusters.md#participant-standing-constitutional). This pointer retains the anchor for backward compatibility.*
 
-- Downstream: Principles: [7.1 Required Evaluation Factors](core_00-01_principles.md#71-required-evaluation-factors); [7.2 Incentive Alignment and System Capture](core_00-01_principles.md#72-incentive-alignment-and-system-capture) (standing signals and capture).
-- Read with: the [Standing State, Contribution, and Violation cluster](core_05-05_definitions_c_dependent_clusters.md#standing-state-contribution-and-violation-cluster), [Contribution State](#contribution-state), [Standing Cell](#standing-cell-chapter-six), [Standing Effect](#standing-effect-chapter-six), [Verified Violation Findings](#verified-violation-findings), [Violation Nature](#violation-nature-chapter-six), [Contestability](#contestability), [Auditability](core_05-05_definitions_c_dependent_clusters.md#auditability), [Transparency](core_05-05_definitions_c_dependent_clusters.md#transparency), and [Redress and Remediation](core_05-05_definitions_a_independent.md#redress-and-remediation-constitutional).
-
-</details>
-
-<br>
-
-- O: Reputation-, record-, or qualification-based status used to gate access to audits, roles, funding challenges, or participation pathways. It is distinct from [Dignity and Equal Moral Standing](core_05-05_definitions_a_independent.md#dignity-and-equal-moral-standing) (inherent to all sentients) and from demonstration of material impact for [Stakeholder](#stakeholder) identification. *Good standing* is a participant-standing state: current eligibility for ordinary participation, trust-sensitive roles, or qualified access under constitutionally valid, contestable criteria. It does not extinguish baseline rights, dignity, challenge access under [Contestability](#contestability), or remedy access under [Redress and Remediation](core_05-05_definitions_a_independent.md#redress-and-remediation-constitutional). Operational detail is governed by [Article XVIII-A](core_09-09_rights_part_c.md#article-xviii-a-standing-distinction) (*Standing Distinction*), [Article XVIII-C](core_09-09_rights_part_c.md#article-xviii-c-good-standing-responsibility-and-continuous-audit) (*Good Standing, Responsibility, and Continuous Audit*), and related incorporated provisions where designated. **Axis I** **contribution state**, **Violation Axis** inputs, and **standing effect** under the Chapter Six model are not restated here; read [Contribution State](#contribution-state) with [Chapter Six](core_06-06_standing_classification.md#chapter-six-compliance-violation-and-standing-model), including [Contribution Axis rules](core_06-06_standing_classification.md#3-axis-i-contribution-state-and-standing-effect), [Violation Axis rules](core_06-06_standing_classification.md#3-axis-ii-violation-nature-legal-constitutional-type), and [standing effects and integration](core_06-06_standing_integration.md#chapter-six-standing-effects-and-integration). Final **Violation Axis s = 7, s = 8, and s = 9** anti-constitutional misconduct classification remains governed by [Chapter Seven](core_07-07_misconduct.md#chapter-seven-anti-constitutional-misconduct).
-<a id="participant-standing-constitutional-e"></a>
-- E: Ensure [Contestability](#contestability), [Auditability](core_05-05_definitions_c_dependent_clusters.md#auditability), and [Transparency](core_05-05_definitions_c_dependent_clusters.md#transparency) proportional to impact. Detect arbitrary, opaque, or monopolistic control of standing signals. Align with [Epistemic Integrity](core_05-05_definitions_c_dependent_clusters.md#epistemic-integrity) where standing claims are communicated. Apply Chapter Six standing-effect mechanics directly, and route any final top-end anti-constitutional misconduct assignment to Chapter Seven rather than to participant-standing criteria.
-<a id="participant-standing-constitutional-c"></a>
-- C: Non-compliant:
-  - using participant standing to permanently exclude sentients from survival-critical systems solely on standing;
-  - using participant standing, including good-standing determinations, to deny audit or challenge eligibility without justification under [Proportionality](core_05-05_definitions_a_independent.md#proportionality) and [Necessity](core_05-05_definitions_a_independent.md#necessity) where applicable instruments require access.
-
+- **Cluster:** [Chapter Five §3.11](core_05-05_definitions_c_dependent_clusters.md#standing-state-contribution-and-violation-cluster).
 
 <a id="standing-cell-chapter-six"></a>
 
 ---
 #### Standing Cell
 
-<details>
-<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+*Canonical O/E/C definition moved to [Chapter Five §3.11 *Standing State, Contribution, and Violation*](core_05-05_definitions_c_dependent_clusters.md#standing-cell-chapter-six). This pointer retains the anchor for backward compatibility.*
 
-- Downstream: Principles: [7.1 Required Evaluation Factors](core_00-01_principles.md#71-required-evaluation-factors); [6.4.2 Proxy-Divergence Invalidation](core_00-01_principles.md#642-proxy-divergence-invalidation) (bounded standing cells vs merged labels).
-- Canonical owner: [Chapter Six — §2.5 Standing-cell operational underpinnings](core_06-06_standing_classification.md#25-standing-cell-operational-underpinnings); read with [Chapter Six — §2.2 Verified-input gate](core_06-06_standing_classification.md#verified-inputs-for-standing), [Chapter Six — §3 Primary Axis Categories and Slot Defaults](core_06-06_standing_classification.md#3-primary-category-defaults-and-lequ-slot-baseline), and [Chapter Six — Integration](core_06-06_standing_integration.md#chapter-six-standing-effects-and-integration).
-- Read with: the [Standing State, Contribution, and Violation cluster](core_05-05_definitions_c_dependent_clusters.md#standing-state-contribution-and-violation-cluster), [Standing Effect](#standing-effect-chapter-six), [Contribution State](#contribution-state), [Violation Nature](#violation-nature-chapter-six), [Verified Violation Findings](#verified-violation-findings), [Auditability](core_05-05_definitions_c_dependent_clusters.md#auditability), [Contestability](#contestability), [Materiality Determination](core_05-05_definitions_b_semi_independent.md#materiality-determination), and [Participant Standing](#participant-standing-constitutional).
-
-
-</details>
-
-<br>
-
-- O: The bounded operational record that applies Chapter Six categories to a defined subject, functional scope, time window, review status, and decision context. This entry is a Chapter Five pointer description; the canonical operational definition is in Chapter Six §2.5. A standing cell may concern a sentient, institution, system, assessment, event, role, collective, actor-specific record, or other constitutionally relevant unit, but it must keep distinct units and contexts separately traceable. It is compound with [Standing Effect](#standing-effect-chapter-six): the standing cell supplies the record container and bounded application context; standing effect supplies the consequence layer applied from that record. A standing cell is not a general worth label, dignity rank, Rights-Floor measure, or merged merit score.
-<a id="standing-cell-chapter-six-e"></a>
-- E: Evaluate a standing cell by whether it states the assessed subject, scope, time window, review status, separate Contribution Axis and Violation Axis inputs, verification basis, evidence provenance, materiality reasoning, versioning, contestability pathway, and standing effect actually applied. The cell must preserve axis separation, currentness, audit trail, and no-offset discipline under Chapter Six. Collective and actor-specific cells may coexist only where their allocation basis is demonstrable and does not assign adverse standing by group membership alone.
-<a id="standing-cell-chapter-six-c"></a>
-- C: Non-compliant: using an undifferentiated standing label without a bounded cell; collapsing separate subjects, roles, time windows, review states, or decision contexts into one status; applying standing effect without a reviewable cell; hiding axis inputs, evidence, calibration assumptions, version changes, or contestability; using a collective cell to impose actor-specific adverse standing without verified linkage; or treating a standing cell as a substitute for inherent dignity, baseline rights, stakeholder status, challenge access, remedy access, or Chapter Eight forum findings.
-
+- **Cluster:** [Chapter Five §3.11](core_05-05_definitions_c_dependent_clusters.md#standing-state-contribution-and-violation-cluster).
 
 <a id="standing-effect-chapter-six"></a>
 
 ---
 #### Standing Effect
 
-<details>
-<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+*Canonical O/E/C definition moved to [Chapter Five §3.11 *Standing State, Contribution, and Violation*](core_05-05_definitions_c_dependent_clusters.md#standing-effect-chapter-six). This pointer retains the anchor for backward compatibility.*
 
-- Downstream: Principles: [6.4.1 Rights-Collision Decision Test](core_00-01_principles.md#641-rights-collision-decision-test); [10. Interpretive Role](core_00-01_principles.md#10-interpretive-role) (standing effects read through integrated interpretive framework).
-- Canonical owner: [Chapter Six — §4 Standing Effects](core_06-06_standing_integration.md#5-standing-effects) through [§8 Additive and Non-Substitution Rule](core_06-06_standing_integration.md#9-additive-and-non-substitution-rule) (*trust-, role-, recognition-, restriction-, restoration, integration, and non-substitution*); read with [Chapter Six — §2 Two-Axis Model and Verified Inputs](core_06-06_standing_classification.md#2-primary-contribution-and-violation-levels), [§2.2 Verified-input gate](core_06-06_standing_classification.md#verified-inputs-for-standing), and [§2.5 Standing-cell operational underpinnings](core_06-06_standing_classification.md#25-standing-cell-operational-underpinnings).
-- Read with: the [Standing State, Contribution, and Violation cluster](core_05-05_definitions_c_dependent_clusters.md#standing-state-contribution-and-violation-cluster) and [Standing Cell](#standing-cell-chapter-six). The two are compound for application: a standing effect must be attached to a bounded standing cell, and a standing cell must identify any standing effect actually applied.
-
-
-</details>
-
-<br>
-
-- O: The **consequence layer** that applies verified [**contribution state**](#contribution-state) and [**verified violation findings**](#verified-violation-findings) to trust eligibility, roles, delegated authority, recognition, restriction, restoration, remediation, safeguards, and review within a bounded standing cell. It is a decision consequence, not a dignity rank, Rights-Floor measure, or merged merit score. This entry is a Chapter Five pointer to Chapter Six standing-effect mechanics; the canonical rules appear in Chapter Six **sections 4**, **7**, and **8**. It must keep the Contribution Axis and Violation Axis separately traceable and must not net, average, offset, or substitute one axis for the other. **Operative** rules are stated in Chapter Six **sections 2**, **4**, **7**, and **8**; this entry does not restate them. Read with [Article XXIII-B: Non-Trivial Punishment Constraints](core_09-09_rights_part_d.md#article-xxiii-b-non-trivial-punishment-constraints) and [Article XXIII-C: Least-Restrictive and Time-Bounded Rule](core_09-09_rights_part_d.md#article-xxiii-c-least-restrictive-and-time-bounded-rule) where punitive or restrictive **standing**-linked measures are in play.
-<a id="standing-effect-chapter-six-e"></a>
-- E: **Standing effect** must remain **traceable** to [Chapter Six](core_06-06_standing_classification.md) **§§2–3** and [Chapter Six — Integration](core_06-06_standing_integration.md) **§§4** and **7**–**8**; evaluate under [Auditability](core_05-05_definitions_c_dependent_clusters.md#auditability) and [Contestability](#contestability). The record must identify the standing cell, subject, scope, time window, review status, separate axis inputs, verification basis, and consequence actually applied. **Contribution-linked** credit must follow Chapter Six **§7.1** recency and disclosure discipline where standing integration uses it. **Violation-linked** constraints must not be time-discounted, recency-weighted away, or softened by contribution upside while unresolved. **Must not** treat **alleged** misconduct, intake labels, or forum-phase material as [**verified violation findings**](#verified-violation-findings) for **standing** ([**verified inputs for standing**](core_06-06_standing_classification.md#verified-inputs-for-standing)).
-<a id="standing-effect-chapter-six-c"></a>
-- C: Non-compliant: **opaque** or **undisclosed** **standing** criteria; use of unverified allegations, provisional labels, or forum-phase material as adverse **standing** inputs; standing cells that collapse distinct subjects, scopes, time windows, or review statuses into an undifferentiated label; **netting**, **averaging**, offsetting, or **substitution** that displaces **Chapter Six §7.1–7.2** or **verified**-input discipline; positive standing recognition used to erase unresolved violation findings; restrictive **standing effect** that is broader, less reviewable, or less time-bounded than Article **XXIII** permits; or **standing effect** that **extinguishes** inherent dignity, equal moral standing, baseline rights, or access to **challenge** and **remedy** where Chapter Six and Article **XXIII** forbid it.
-
+- **Cluster:** [Chapter Five §3.11](core_05-05_definitions_c_dependent_clusters.md#standing-state-contribution-and-violation-cluster).
 
 <a id="verified-violation-findings"></a>
 
 ---
 #### Verified Violation Findings
 
-<details>
-<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+*Canonical O/E/C definition moved to [Chapter Five §3.11 *Standing State, Contribution, and Violation*](core_05-05_definitions_c_dependent_clusters.md#verified-violation-findings). This pointer retains the anchor for backward compatibility.*
 
-- Downstream: Principles: [3. Non-Negotiable Constraints: Safety and Truth](core_00-01_principles.md#3-non-negotiable-constraints-safety-and-truth); [6. Interaction and Conflict Resolution](core_00-01_principles.md#6-interaction-and-conflict-resolution) (verified facts for adverse standing).
-- Canonical owner: [Chapter Six — §2.2 Verified-input gate](core_06-06_standing_classification.md#verified-inputs-for-standing) and [Chapter Six — §3.3 Violation Axis](core_06-06_standing_classification.md#4-axis-ii-violation-nature-legal-constitutional-type); read with the [Standing State, Contribution, and Violation cluster](core_05-05_definitions_c_dependent_clusters.md#standing-state-contribution-and-violation-cluster), [Violation Nature](#violation-nature-chapter-six), [Standing Cell](#standing-cell-chapter-six), [Standing Effect](#standing-effect-chapter-six), [Auditability](core_05-05_definitions_c_dependent_clusters.md#auditability), [Contestability](#contestability), and [Adjudication and Dispute Resolution](#adjudication-and-dispute-resolution-constitutional).
-- Read with: [Violation Nature](#violation-nature-chapter-six). The two are compound for standing use: verified violation findings supply the admissible finding basis, and violation nature supplies the adverse classification applied from that basis.
-
-
-</details>
-
-<br>
-
-- O: **Violation Axis** inputs that may affect **standing effect** because they rest on auditable, contestable findings satisfying Chapters **Two through Four** and Chapter Six **§2.2**. This entry is a Chapter Five pointer; canonical verified-input rules are in Chapter Six **§2.2** and **§3.3**. They are compound with [Violation Nature](#violation-nature-chapter-six): this entry supplies the admissible finding basis; violation nature supplies the classification of adverse constitutional outcome, severity, process / response character, duty or diffusion material, negligence or neglect material, and applicable adverse descriptors where the underlying finding supports them. Allegations, intake labels, provisional routing, and forum-phase narratives are not verified violation findings by themselves.
-<a id="verified-violation-findings-e"></a>
-- E: Identify the finding authority or record basis, the affected subject and scope, the applicable violation nature, the evidence and contestability path, and whether the finding is final, under review, superseded, resolved, or remediated for the standing context. Apply the Chapter Six no-offset rule and keep these findings separate from [Contribution State](#contribution-state). A finding that lacks an applicable violation-nature classification is incomplete for adverse standing effect; a violation-nature label that lacks verified findings is incomplete for adverse standing effect.
-<a id="verified-violation-findings-c"></a>
-- C: Non-compliant: treating allegations, provisional labels, intake tags, or unresolved forum-phase material as verified violation findings; assigning **violation nature** for adverse **standing effect** without verified findings; using **contribution state** to erase, average down, or relabel verified violation findings; or applying adverse standing consequences without the record basis and contestability required by Chapter Six **§2.2**.
-
+- **Cluster:** [Chapter Five §3.11](core_05-05_definitions_c_dependent_clusters.md#standing-state-contribution-and-violation-cluster).
 
 <a id="violation-nature-chapter-six"></a>
 
 ---
 #### Violation Nature
 
-<details>
-<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+*Canonical O/E/C definition moved to [Chapter Five §3.11 *Standing State, Contribution, and Violation*](core_05-05_definitions_c_dependent_clusters.md#violation-nature-chapter-six). This pointer retains the anchor for backward compatibility.*
 
-- Downstream: Principles: [7.1 Required Evaluation Factors](core_00-01_principles.md#71-required-evaluation-factors); [6.4.2 Proxy-Divergence Invalidation](core_00-01_principles.md#642-proxy-divergence-invalidation) (Axis II classification integrity).
-- Canonical owner: [Chapter Six — §3.3 Violation Axis](core_06-06_standing_classification.md#4-axis-ii-violation-nature-legal-constitutional-type) (*non-compliance ladder, **§§3.3.0–3.3.8***); [Chapter Six — §5](core_06-06_standing_integration.md#6-extended-axis-ii-legal-hybrid-duty-and-harm-descriptors) (*process / response character*); [Chapter Six — §6.3](core_06-06_standing_integration.md#73-stackable-harm-and-conduct-descriptors-violation-nature-supplement) (*stackable harm descriptors*). Read with the [Standing State, Contribution, and Violation cluster](core_05-05_definitions_c_dependent_clusters.md#standing-state-contribution-and-violation-cluster) and [Verified Violation Findings](#verified-violation-findings). Final **Violation Axis s = 7, 8, or 9** anti-constitutional assignment: [Chapter Seven](core_07-07_misconduct.md#chapter-seven-anti-constitutional-misconduct).
-- Read with: [Verified Violation Findings](#verified-violation-findings). The two are compound for standing use: violation nature classifies adverse constitutional outcome only from verified violation findings, and verified violation findings must state the violation nature actually applied where they affect standing.
-
-
-</details>
-
-<br>
-
-- O: **Axis II** classification of **adverse** constitutional outcomes from [**verified violation findings**](#verified-violation-findings) — **non-compliance** severity, attached process / response character, and **§6** supplements — under [Chapter Six](core_06-06_standing_classification.md) and [integration sections](core_06-06_standing_integration.md). This entry is a Chapter Five pointer; canonical Axis II classification rules are in Chapter Six **§3.3** and **§5**. It is compound with [Verified Violation Findings](#verified-violation-findings): violation nature supplies the classification layer, while verified violation findings supply the admissible record basis. Distinct from [**contribution state**](#contribution-state) (**Axis I**, positive-only).
-<a id="violation-nature-chapter-six-e"></a>
-- E: Classify for **standing** only from **findings** satisfying Chapters **Two through Four** and [**verified inputs for standing**](core_06-06_standing_classification.md#verified-inputs-for-standing). The record must identify the verified finding basis and the violation-nature classification together, including severity, applicable attachments or supplements, scope, review status, and whether Chapter Seven controls final top-slot assignment. Read with [Harm](core_05-05_definitions_c_dependent_clusters.md#harm), [Materiality Determination](core_05-05_definitions_b_semi_independent.md#materiality-determination), [Constitutional Constraint Violation](core_05-05_definitions_c_dependent_clusters.md#constitutional-constraint-violation), and [Supremacy and Enforceability](#supremacy-and-enforceability) where material.
-<a id="violation-nature-chapter-six-c"></a>
-- C: Non-compliant: using **allegations**, **provisional** labels, or **forum-phase** material alone as **violation nature** for **standing**; recording verified violation findings for adverse standing effect without stating the applicable violation nature; relabeling **adverse** **violation** **findings** as **negative contribution** on **Axis I**; using [**contribution state**](#contribution-state) to **net away** or **substitute** for [**verified violation findings**](#verified-violation-findings) required under Chapter Six.
+- **Cluster:** [Chapter Five §3.11](core_05-05_definitions_c_dependent_clusters.md#standing-state-contribution-and-violation-cluster).
 
 
 ---
