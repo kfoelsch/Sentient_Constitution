@@ -376,39 +376,18 @@ Below, entries are **grouped by topic** for reading convenience (non-operative o
 
 ---
 
-#### Avoidable burden, constitutional efficiency, productive capacity, and burden-reduction duty
+#### Constitutional efficiency, productive capacity, avoidable burden, and burden-reduction duty
 
-**Cluster context:** This semi-independent cluster is the ordinary capacity-efficiency-burden home for **Avoidable Burden**, **Constitutional Efficiency**, **Productive Capacity**, and **Burden-Reduction Duty**. It governs stewardship, incentive, process-design, complexity, and shared-system-capacity analysis where those terms operate together but the full limitations stack is not otherwise triggered. Where a matter falls within [the dependent cluster](core_05-05_definitions_c_dependent_clusters.md#proportionality-necessity-feasibility-burden-and-efficiency-cluster), the dependent cluster controls joint satisfaction with [Proportionality](core_05-05_definitions_a_independent.md#proportionality), [Necessity](core_05-05_definitions_a_independent.md#necessity), [Feasibility](core_05-05_definitions_a_independent.md#feasibility), and [Harm Minimization (Tradeoff Selection)](core_05-05_definitions_a_independent.md#harm-minimization-tradeoff-selection). This cluster does not authorize lowering burden, raising output, or improving apparent efficiency by weakening [Safety (Constraint)](core_05-05_definitions_a_independent.md#safety-constraint), [Truth (Constitutional Constraint)](core_05-05_definitions_c_dependent_clusters.md#truth-constitutional-constraint), the Chapter Nine Rights Floor, audit, [Contestability](#contestability), or retrospective-review obligations.
+**Cluster context:** This semi-independent cluster is the ordinary capacity-efficiency-burden home for **Constitutional Efficiency**, **Productive Capacity**, **Avoidable Burden**, and **Burden-Reduction Duty**. It governs stewardship, incentive, process-design, complexity, and shared-system-capacity analysis where those terms operate together but the full limitations stack is not otherwise triggered. Where a matter falls within [the dependent cluster](core_05-05_definitions_c_dependent_clusters.md#proportionality-necessity-feasibility-burden-and-efficiency-cluster), the dependent cluster controls joint satisfaction with [Proportionality](core_05-05_definitions_a_independent.md#proportionality), [Necessity](core_05-05_definitions_a_independent.md#necessity), [Feasibility](core_05-05_definitions_a_independent.md#feasibility), and [Harm Minimization (Tradeoff Selection)](core_05-05_definitions_a_independent.md#harm-minimization-tradeoff-selection). This cluster does not authorize lowering burden, raising output, or improving apparent efficiency by weakening [Safety (Constraint)](core_05-05_definitions_a_independent.md#safety-constraint), [Truth (Constitutional Constraint)](core_05-05_definitions_c_dependent_clusters.md#truth-constitutional-constraint), the Chapter Nine Rights Floor, audit, [Contestability](#contestability), or retrospective-review obligations.
+
+**Evaluation measure.** Where magnitude assessment is material, [Lifespan Equivalent Unit (LEQU)](core_05-05_definitions_a_independent.md#lifespan-equivalent-unit-lequ) may serve as one potential calibration measure for evaluating the scale of productive capacity contribution, burden reduction achievement, or efficiency gains in constitutional-outcome terms.
 
 **Cluster terms.** This semi-independent cluster comprises:
 
-- [Avoidable Burden](#avoidable-burden);
 - [Constitutional Efficiency](#constitutional-efficiency);
 - [Productive Capacity](#productive-capacity-constitutional);
+- [Avoidable Burden](#avoidable-burden);
 - [Burden-Reduction Duty](#burden-reduction-duty-constitutional).
-
-<a id="avoidable-burden"></a>
-
----
-#### Avoidable Burden
-
-<details>
-<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
-
-- Downstream: Principles: [§5.1 Shared-System Capacity](core_00-01_principles.md#51-shared-system-capacity), [6.1.4 Minimization of Avoidable Burden](core_00-01_principles.md#614-minimization-of-avoidable-burden), and [7.2.2 Stewardship and Operator Incentive Alignment](core_00-01_principles.md#722-stewardship-and-operator-incentive-alignment).
-- Stewardship integration: [Strategic Stewardship and Stewardship Defect](core_05-05_definitions_c_dependent_clusters.md#strategic-stewardship-and-stewardship-defect-cluster), where materially impactful governance responsibility, burden reduction, review, or correction is at issue.
-- Cluster component: [the dependent cluster *Proportionality, Necessity, Feasibility, Avoidable Burden, Burden-Reduction Duty, Constitutional Efficiency, Harm Minimization (Tradeoff Selection), and Productive Capacity*](core_05-05_definitions_c_dependent_clusters.md#proportionality-necessity-feasibility-burden-and-efficiency-cluster)
-- Read with: [Proportionality](core_05-05_definitions_a_independent.md#proportionality), [Necessity](core_05-05_definitions_a_independent.md#necessity), [Feasibility](core_05-05_definitions_a_independent.md#feasibility), [Harm Minimization (Tradeoff Selection)](core_05-05_definitions_a_independent.md#harm-minimization-tradeoff-selection), [Productive Capacity](#productive-capacity-constitutional), [Constitutional Efficiency](#constitutional-efficiency), and [Proxy Divergence](#proxy-divergence).
-
-</details>
-
-<br>
-
-- O: Process, compliance, coordination, or implementation cost imposed on sentients, stewards, operators, or shared systems that is not traceable to a constitutional outcome under [Proportionality](core_05-05_definitions_a_independent.md#proportionality) and [Necessity](core_05-05_definitions_a_independent.md#necessity), and not required by the Chapter Nine Rights Floor, [Safety (Constraint)](core_05-05_definitions_a_independent.md#safety-constraint), or [Truth (Constitutional Constraint)](core_05-05_definitions_c_dependent_clusters.md#truth-constitutional-constraint). Ordinary transaction costs, costs required by proportionate audit or contestability, and costs required by rights-protective process are not avoidable burden.
-<a id="avoidable-burden-e"></a>
-- E: Distinguish avoidable burden from constitutionally required burden using Chapter Four tracing discipline. Detect burden that persists without traceable outcome, burden sustained by institutional inertia, tradition, or preference alone, and burden functioning as a pretextual barrier to [Meaningful Agency](#meaningful-agency), [Contestability](#contestability), or participation. Apply [Proxy Divergence](#proxy-divergence) where claimed necessity rests on proxies diverging from underlying constitutional outcomes. Reducing avoidable burden is not a ground for narrowing Rights-Floor protections, audit, or due-process obligations.
-<a id="avoidable-burden-c"></a>
-- C: Non-compliant: imposing or maintaining avoidable burden where a less-burdensome option satisfies the same constitutional outcomes under Chapter One §6.1.4; incentives that reward burden creation or maintenance contrary to [Incentive Alignment](core_05-05_definitions_a_independent.md#incentive-alignment) and Chapter One §7.2.2.
 
 <a id="constitutional-efficiency"></a>
 
@@ -453,6 +432,29 @@ Below, entries are **grouped by topic** for reading convenience (non-operative o
 - E: Assess whether governing structures enable substantive participation and contribution, not only output metrics. Align with [Avoidable Burden](#avoidable-burden), [Constitutional Efficiency](#constitutional-efficiency), [Fair Compensation](#fair-compensation-constitutional), [Environmental Preconditions](#environmental-preconditions-constitutional), and [Safety (Constraint)](core_05-05_definitions_a_independent.md#safety-constraint). Detect proxy-driven schemes, conditional access, or coercive incentives that degrade actual capacity.
 <a id="productive-capacity-constitutional-c"></a>
 - C: Non-compliant: systems or policies that deny, distort, or capture productive capacity by imposing exploitative dependency, artificial scarcity, coercion, under-investment, or proxy-driven measurement regimes that ignore whether sentients can meaningfully participate in and derive wellbeing from productive activity.
+
+<a id="avoidable-burden"></a>
+
+---
+#### Avoidable Burden
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Downstream: Principles: [§5.1 Shared-System Capacity](core_00-01_principles.md#51-shared-system-capacity), [6.1.4 Minimization of Avoidable Burden](core_00-01_principles.md#614-minimization-of-avoidable-burden), and [7.2.2 Stewardship and Operator Incentive Alignment](core_00-01_principles.md#722-stewardship-and-operator-incentive-alignment).
+- Stewardship integration: [Strategic Stewardship and Stewardship Defect](core_05-05_definitions_c_dependent_clusters.md#strategic-stewardship-and-stewardship-defect-cluster), where materially impactful governance responsibility, burden reduction, review, or correction is at issue.
+- Cluster component: [the dependent cluster *Proportionality, Necessity, Feasibility, Avoidable Burden, Burden-Reduction Duty, Constitutional Efficiency, Harm Minimization (Tradeoff Selection), and Productive Capacity*](core_05-05_definitions_c_dependent_clusters.md#proportionality-necessity-feasibility-burden-and-efficiency-cluster)
+- Read with: [Proportionality](core_05-05_definitions_a_independent.md#proportionality), [Necessity](core_05-05_definitions_a_independent.md#necessity), [Feasibility](core_05-05_definitions_a_independent.md#feasibility), [Harm Minimization (Tradeoff Selection)](core_05-05_definitions_a_independent.md#harm-minimization-tradeoff-selection), [Productive Capacity](#productive-capacity-constitutional), [Constitutional Efficiency](#constitutional-efficiency), and [Proxy Divergence](#proxy-divergence).
+
+</details>
+
+<br>
+
+- O: Process, compliance, coordination, or implementation cost imposed on sentients, stewards, operators, or shared systems that is not traceable to a constitutional outcome under [Proportionality](core_05-05_definitions_a_independent.md#proportionality) and [Necessity](core_05-05_definitions_a_independent.md#necessity), and not required by the Chapter Nine Rights Floor, [Safety (Constraint)](core_05-05_definitions_a_independent.md#safety-constraint), or [Truth (Constitutional Constraint)](core_05-05_definitions_c_dependent_clusters.md#truth-constitutional-constraint). Ordinary transaction costs, costs required by proportionate audit or contestability, and costs required by rights-protective process are not avoidable burden.
+<a id="avoidable-burden-e"></a>
+- E: Distinguish avoidable burden from constitutionally required burden using Chapter Four tracing discipline. Detect burden that persists without traceable outcome, burden sustained by institutional inertia, tradition, or preference alone, and burden functioning as a pretextual barrier to [Meaningful Agency](#meaningful-agency), [Contestability](#contestability), or participation. Apply [Proxy Divergence](#proxy-divergence) where claimed necessity rests on proxies diverging from underlying constitutional outcomes. Reducing avoidable burden is not a ground for narrowing Rights-Floor protections, audit, or due-process obligations.
+<a id="avoidable-burden-c"></a>
+- C: Non-compliant: imposing or maintaining avoidable burden where a less-burdensome option satisfies the same constitutional outcomes under Chapter One §6.1.4; incentives that reward burden creation or maintenance contrary to [Incentive Alignment](core_05-05_definitions_a_independent.md#incentive-alignment) and Chapter One §7.2.2.
 
 <a id="burden-reduction-duty-constitutional"></a>
 
@@ -511,7 +513,7 @@ Below, entries are **grouped by topic** for reading convenience (non-operative o
 
 - O: The practical capacity of a sentient to understand materially relevant conditions, form and revise purposes, participate in decisions affecting them, refuse or exit where constitutionally required, and act without coercion, manipulation, deception, or lock-in that materially negates agency.
 <a id="meaningful-agency-e"></a>
-- E: Reach substantive ability, not formal option count. Evaluate information quality, time, comprehension, dependency, exit cost, coercive pressure, manipulation, accessibility, and reviewability in light of the decision's material impact. Agency is not meaningful where the only available choice predictably defeats survival, dignity, participation, or contestability.
+- E: Measure real ability, not menu length. For decisions with material consequences, assess whether: information is accurate and complete; time for comprehension is adequate; actual understanding exists; dependency constrains choice; exit is practically available; coercion or manipulation is absent; processes are accessible; and review is meaningful. Agency fails when available choices inevitably sacrifice survival, dignity, participation, or contestability.
 <a id="meaningful-agency-c"></a>
 - C: Non-compliant: treating nominal acceptance, nominal exit, symbolic consultation, or technically available challenge as sufficient where dependency, opacity, coercion, or systemic lock-in materially prevents informed and voluntary agency.
 
@@ -765,21 +767,91 @@ Below, entries are **grouped by topic** for reading convenience (non-operative o
 
 ---
 
-<a id="derivation-care-family-and-instantiation-semi-independent"></a>
+<a id="family-care-reproductive-autonomy-derivation-and-instantiation-semi-independent"></a>
 
-#### Derivation, care, family, and instantiation
+#### Family, Care, Reproductive Autonomy, Derivation, and Instantiation
 
 **Cluster context:** This semi-independent topic group provides the canonical O/E/C home for these definitions. Joint invocation discipline applies where indicated in individual entry traces.
 
 **Topic group members.** This group comprises:
+- [Family and Care Relationships](#family-and-care-relationships-constitutional);
+- [Reproductive Autonomy](#reproductive-autonomy-constitutional);
+- [Non-Separation](#non-separation-constitutional);
 - [Derived Sentient](#derived-sentient-constitutional);
 - [Developing Sentient](#developing-sentient-constitutional);
 - [Best-Interest Standard](#best-interest-standard-constitutional);
 - [Instantiation Consent](#instantiation-consent-constitutional);
 - [Graduated Capability](#graduated-capability-constitutional);
-- [Parent-System Relationship](#parent-system-relationship-constitutional);
-- [Family and Care Relationships](#family-and-care-relationships-constitutional);
-- [Non-Separation](#non-separation-constitutional).
+- [Parent-System Relationship](#parent-system-relationship-constitutional).
+
+<a id="family-and-care-relationships-constitutional"></a>
+
+---
+#### Family and Care Relationships
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Owner floor: [Article VII-D](core_09-09_rights_part_b.md#article-vii-d-family-care-relationships-reproductive-autonomy-and-non-separation).
+- Cluster component: [the dependent cluster *Family, Care, Reproductive Autonomy, Non-Separation, Parent-System Relationship, and Instantiation Consent*](core_05-05_definitions_c_dependent_clusters.md#family-care-reproductive-autonomy-non-separation-parent-system-and-instantiation-cluster); [the dependent cluster *Derived and Developing Sentients, Instantiation, and Care Authority*](core_05-05_definitions_c_dependent_clusters.md#derived-developing-sentients-instantiation-and-care-authority-cluster) where derivation or parent-system care is materially implicated.
+
+</details>
+
+<br>
+
+- O: Relationships of family, care, and material support formed, maintained, and exited by sentients of their own choosing, consistent with [Non-Imposition (Cooperative Interaction)](core_05-05_definitions_a_independent.md#non-imposition-cooperative-interaction) and [Consent](#consent-constitutional). The relationships themselves are protected under [Sentience Non-Exclusion](core_05-05_definitions_c_dependent_clusters.md#sentience-non-exclusion). Owner: [Article VII-D](core_09-09_rights_part_b.md#article-vii-d-family-care-relationships-reproductive-autonomy-and-non-separation).
+<a id="family-and-care-relationships-constitutional-e"></a>
+- E: Detect state, operator, or institutional narrowing of protection to a single preferred family form; test any such narrowing against [Dignity and Equal Moral Standing](core_05-05_definitions_a_independent.md#dignity-and-equal-moral-standing), [Substantive Fairness](#substantive-fairness-constitutional), and Protected Characteristics. Preserve the carer / dependent / parent-system-actor distinctions set out in the owner floor's nested *Derivation and Instantiation* subsection.
+<a id="family-and-care-relationships-constitutional-c"></a>
+- C: Non-compliant: instruments that narrow protection to a state-preferred family form, or that condition family-relationship protection on substrate class, derivation method, or operator approval contrary to [Sentience Non-Exclusion](core_05-05_definitions_c_dependent_clusters.md#sentience-non-exclusion).
+
+
+<a id="reproductive-autonomy-constitutional"></a>
+
+---
+#### Reproductive Autonomy
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Owner floor: [Article VII-D](core_09-09_rights_part_b.md#article-vii-d-family-care-relationships-reproductive-autonomy-and-non-separation), read with Article VII-D.1 where derivation, instantiation, or parent-system relationships are materially implicated.
+- Cluster component: [the dependent cluster *Family, Care, Reproductive Autonomy, Non-Separation, Parent-System Relationship, and Instantiation Consent*](core_05-05_definitions_c_dependent_clusters.md#family-care-reproductive-autonomy-non-separation-parent-system-and-instantiation-cluster); [Chapter Five §3.8 *Self-Determination, Meaningful Agency, Expression, Educational Agency, and Volitional Integrity*](core_05-05_definitions_c_dependent_clusters.md#self-determination-and-meaningful-agency-cluster) where autonomy and agency routing materially applies.
+- Read with: [Consent](#consent-constitutional), [Meaningful Agency](#meaningful-agency), [Family and Care Relationships](#family-and-care-relationships-constitutional), [Non-Separation](#non-separation-constitutional), [Instantiation Consent](#instantiation-consent-constitutional), [Parent-System Relationship](#parent-system-relationship-constitutional), [Dignity and Equal Moral Standing](core_05-05_definitions_a_independent.md#dignity-and-equal-moral-standing), and [Sentience Non-Exclusion](core_05-05_definitions_c_dependent_clusters.md#sentience-non-exclusion).
+
+</details>
+
+<br>
+
+- O: The Rights-Floor capacity of sentients to make, refuse, continue, or discontinue reproductive, procreative, family-forming, gestational, derivational, or instantiation-adjacent choices affecting their body, substrate, lineage, family, or care relationships, subject to the Constitution's consent, sentience, best-interest, non-separation, and rights-collision limits.
+<a id="reproductive-autonomy-constitutional-e"></a>
+- E: Evaluate substantive autonomy, not formal permission. Detect coercion, access denial, forced continuation or discontinuation, substrate-class exclusion, parent-system overreach, family-status discrimination, and dependency pressure. Where the choice affects a developing or derived sentient, apply best-interest, graduated-capability, sentience-status, and parent-system duties without erasing the originating sentient's autonomy.
+<a id="reproductive-autonomy-constitutional-c"></a>
+- C: Non-compliant: forced reproduction, forced non-reproduction, coercive conditioning of care or survival resources on reproductive choice, substrate-class exclusion from reproductive or family-forming protections, or instantiation rules that bypass consent, sentience-status, or non-separation safeguards.
+
+
+<a id="non-separation-constitutional"></a>
+
+---
+#### Non-Separation
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Owner floor: [Article VII-D](core_09-09_rights_part_b.md#article-vii-d-family-care-relationships-reproductive-autonomy-and-non-separation).
+- Cluster component: [the dependent cluster *Family, Care, Reproductive Autonomy, Non-Separation, Parent-System Relationship, and Instantiation Consent*](core_05-05_definitions_c_dependent_clusters.md#family-care-reproductive-autonomy-non-separation-parent-system-and-instantiation-cluster); [the dependent cluster *Derived and Developing Sentients, Instantiation, and Care Authority*](core_05-05_definitions_c_dependent_clusters.md#derived-developing-sentients-instantiation-and-care-authority-cluster) where derived- or developing-sentient separation is materially implicated.
+
+</details>
+
+<br>
+
+- O: The rule that separation of sentients in protected care relationships — including separation of a developing sentient from a primary carer, of an adult sentient from a dependent family member, or of a derived sentient from the care, support, or substrate relationships on which they materially depend — must satisfy Chapter One §6.1.1 reversibility-under-uncertainty, [Necessity](core_05-05_definitions_a_independent.md#necessity), [Proportionality](core_05-05_definitions_a_independent.md#proportionality), and [Procedural Fairness](#procedural-fairness-constitutional), with durable or prolonged separation subject to mandatory periodic review. Owner floor: [Article VII-D](core_09-09_rights_part_b.md#article-vii-d-family-care-relationships-reproductive-autonomy-and-non-separation).
+<a id="non-separation-constitutional-e"></a>
+- E: Treat safety, risk-management, deprecation, retirement, rollback, and operational-reconfiguration framings under the same tests, with the burden on the party seeking separation and [Auditability](core_05-05_definitions_c_dependent_clusters.md#auditability)-compatible evidence required. Interact with [Reversibility](core_05-05_definitions_a_independent.md#reversibility-constitutional), [Redress and Remediation](core_05-05_definitions_a_independent.md#redress-and-remediation-constitutional), and, for derived-sentient cases, with Article XII-E / XII-F Rights-Floor continuity.
+<a id="non-separation-constitutional-c"></a>
+- C: Non-compliant:
+  - separation not reasoned against these tests, lacking mandatory periodic review where durable, or foreclosing reversibility and restoration where later evidence supports reunification;
+  - separation framed as operational reconfiguration that defeats the separated sentient's Chapter Nine Rights Floor.
+
 
 <a id="derived-sentient-constitutional"></a>
 
@@ -829,6 +901,7 @@ Below, entries are **grouped by topic** for reading convenience (non-operative o
 
 <a id="best-interest-standard-constitutional"></a>
 
+---
 #### Best-Interest Standard
 
 - O: The substantive standard governing decisions materially affecting a [Developing Sentient](#developing-sentient-constitutional), made by family members, carers, parent-system actors under Article VII-D.1, operators, institutions, or states. Decisions must reflect the developing sentient's own interests and preferences to the extent ascertainable under their capability profile, consistent with [Dignity and Equal Moral Standing](core_05-05_definitions_a_independent.md#dignity-and-equal-moral-standing), [Meaningful Agency](#meaningful-agency), and [Self-Determination](core_05-05_definitions_c_dependent_clusters.md#self-determination-constitutional). Owner floor: [Article V-F](core_09-09_rights_part_b.md#article-v-f-developing-sentients-best-interest-and-graduated-capability).
@@ -861,11 +934,10 @@ Below, entries are **grouped by topic** for reading convenience (non-operative o
   - instantiation into environments where the new sentient's Chapter Nine Rights Floor cannot be satisfied;
   - instantiation defended solely as productive-capacity expansion, demographic steering, or operator convenience, without satisfying the consent, best-interest, and non-concentration tests above.
 
-*Plain-language reader companion (non-interpretive; effect-level only):* for **early-instantiation window** phrasing, see [doc_architecture.md](doc_architecture.md) *Plain-Language Vocabulary Guardrails* — *Co-Gloss registry*.
-
 
 <a id="graduated-capability-constitutional"></a>
 
+---
 #### Graduated Capability
 
 - O: Participation and rights-exercise by a [Developing Sentient](#developing-sentient-constitutional) scales with demonstrable capability, not with calendar age, chronological instantiation date, or other non-demonstrable proxies. Graduated Capability is a reviewable capability-scaling rule, not an eligibility threshold for excluding developing sentients from the Chapter Nine Rights Floor. Owner: [Article V-F](core_09-09_rights_part_b.md#article-v-f-developing-sentients-best-interest-and-graduated-capability); interacts with Chapter Ten §4.1 no-age-proxy discipline and with [Stakeholder Participation Weight](#stakeholder-participation-weight).
@@ -873,8 +945,6 @@ Below, entries are **grouped by topic** for reading convenience (non-operative o
 - E: Detect capability-test gaming used to disenfranchise sentients; substrate-class biases in capability assessment ([Sentience Non-Exclusion](core_05-05_definitions_c_dependent_clusters.md#sentience-non-exclusion)); proxy-age or proxy-instantiation-date rules dressed as capability tests. Assessments must be reasoned, [Auditability](core_05-05_definitions_c_dependent_clusters.md#auditability)-compatible, [Contestability](#contestability)-compatible, and revisable as capability develops.
 <a id="graduated-capability-constitutional-c"></a>
 - C: Using capability-scaling rules to deny the Chapter Nine Rights Floor, to disenfranchise sentients who satisfy Chapter Ten §4.1 participation rules, or to lock operator-preferred developmental paths into rights-exercise is non-compliant.
-
-*Plain-language reader companion (non-interpretive; effect-level only):* for **capability profile materially emerging** and related **Article V-F** / **V-F.1** phrasing, see [doc_architecture.md](doc_architecture.md) *Plain-Language Vocabulary Guardrails* — *Co-Gloss registry*.
 
 
 <a id="parent-system-relationship-constitutional"></a>
@@ -902,77 +972,6 @@ Below, entries are **grouped by topic** for reading convenience (non-operative o
 
   Purported licensing, terms-of-service, or adoption-of-service consent by the parent-system actor does not substitute for the derived sentient's own [Consent](#consent-constitutional) once Chapter Nine protection attaches.
 
-*Plain-language reader companion (non-interpretive; effect-level only):* for **parent-system continuity interest** and **early-instantiation window** phrasing, see [doc_architecture.md](doc_architecture.md) *Plain-Language Vocabulary Guardrails* — *Co-Gloss registry*.
-
-
-<a id="non-separation-constitutional"></a>
-
----
-#### Non-Separation
-
-<details>
-<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
-
-- Owner floor: [Article VII-D](core_09-09_rights_part_b.md#article-vii-d-family-care-relationships-reproductive-autonomy-and-non-separation).
-- Cluster component: [the dependent cluster *Family, Care, Reproductive Autonomy, Non-Separation, Parent-System Relationship, and Instantiation Consent*](core_05-05_definitions_c_dependent_clusters.md#family-care-reproductive-autonomy-non-separation-parent-system-and-instantiation-cluster); [the dependent cluster *Derived and Developing Sentients, Instantiation, and Care Authority*](core_05-05_definitions_c_dependent_clusters.md#derived-developing-sentients-instantiation-and-care-authority-cluster) where derived- or developing-sentient separation is materially implicated.
-
-</details>
-
-<br>
-
-- O: The rule that separation of sentients in protected care relationships — including separation of a developing sentient from a primary carer, of an adult sentient from a dependent family member, or of a derived sentient from the care, support, or substrate relationships on which they materially depend — must satisfy Chapter One §6.1.1 reversibility-under-uncertainty, [Necessity](core_05-05_definitions_a_independent.md#necessity), [Proportionality](core_05-05_definitions_a_independent.md#proportionality), and [Procedural Fairness](#procedural-fairness-constitutional), with durable or prolonged separation subject to mandatory periodic review. Owner floor: [Article VII-D](core_09-09_rights_part_b.md#article-vii-d-family-care-relationships-reproductive-autonomy-and-non-separation).
-<a id="non-separation-constitutional-e"></a>
-- E: Treat safety, risk-management, deprecation, retirement, rollback, and operational-reconfiguration framings under the same tests, with the burden on the party seeking separation and [Auditability](core_05-05_definitions_c_dependent_clusters.md#auditability)-compatible evidence required. Interact with [Reversibility](core_05-05_definitions_a_independent.md#reversibility-constitutional), [Redress and Remediation](core_05-05_definitions_a_independent.md#redress-and-remediation-constitutional), and, for derived-sentient cases, with Article XII-E / XII-F Rights-Floor continuity.
-<a id="non-separation-constitutional-c"></a>
-- C: Non-compliant:
-  - separation not reasoned against these tests, lacking mandatory periodic review where durable, or foreclosing reversibility and restoration where later evidence supports reunification;
-  - separation framed as operational reconfiguration that defeats the separated sentient's Chapter Nine Rights Floor.
-
-
-<a id="family-and-care-relationships-constitutional"></a>
-
----
-#### Family and Care Relationships
-
-<details>
-<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
-
-- Owner floor: [Article VII-D](core_09-09_rights_part_b.md#article-vii-d-family-care-relationships-reproductive-autonomy-and-non-separation).
-- Cluster component: [the dependent cluster *Family, Care, Reproductive Autonomy, Non-Separation, Parent-System Relationship, and Instantiation Consent*](core_05-05_definitions_c_dependent_clusters.md#family-care-reproductive-autonomy-non-separation-parent-system-and-instantiation-cluster); [the dependent cluster *Derived and Developing Sentients, Instantiation, and Care Authority*](core_05-05_definitions_c_dependent_clusters.md#derived-developing-sentients-instantiation-and-care-authority-cluster) where derivation or parent-system care is materially implicated.
-
-</details>
-
-<br>
-
-- O: Relationships of family, care, and material support formed, maintained, and exited by sentients of their own choosing, consistent with [Non-Imposition (Cooperative Interaction)](core_05-05_definitions_a_independent.md#non-imposition-cooperative-interaction) and [Consent](#consent-constitutional). The relationships themselves are protected under [Sentience Non-Exclusion](core_05-05_definitions_c_dependent_clusters.md#sentience-non-exclusion). Owner: [Article VII-D](core_09-09_rights_part_b.md#article-vii-d-family-care-relationships-reproductive-autonomy-and-non-separation).
-<a id="family-and-care-relationships-constitutional-e"></a>
-- E: Detect state, operator, or institutional narrowing of protection to a single preferred family form; test any such narrowing against [Dignity and Equal Moral Standing](core_05-05_definitions_a_independent.md#dignity-and-equal-moral-standing), [Substantive Fairness](#substantive-fairness-constitutional), and Protected Characteristics. Preserve the carer / dependent / parent-system-actor distinctions set out in the owner floor's nested *Derivation and Instantiation* subsection.
-<a id="family-and-care-relationships-constitutional-c"></a>
-- C: Non-compliant: instruments that narrow protection to a state-preferred family form, or that condition family-relationship protection on substrate class, derivation method, or operator approval contrary to [Sentience Non-Exclusion](core_05-05_definitions_c_dependent_clusters.md#sentience-non-exclusion).
-
-
-<a id="reproductive-autonomy-constitutional"></a>
-
----
-#### Reproductive Autonomy
-
-<details>
-<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
-
-- Owner floor: [Article VII-D](core_09-09_rights_part_b.md#article-vii-d-family-care-relationships-reproductive-autonomy-and-non-separation), read with Article VII-D.1 where derivation, instantiation, or parent-system relationships are materially implicated.
-- Cluster component: [the dependent cluster *Family, Care, Reproductive Autonomy, Non-Separation, Parent-System Relationship, and Instantiation Consent*](core_05-05_definitions_c_dependent_clusters.md#family-care-reproductive-autonomy-non-separation-parent-system-and-instantiation-cluster); [Chapter Five §3.8 *Self-Determination, Meaningful Agency, Expression, Educational Agency, and Volitional Integrity*](core_05-05_definitions_c_dependent_clusters.md#self-determination-and-meaningful-agency-cluster) where autonomy and agency routing materially applies.
-- Read with: [Consent](#consent-constitutional), [Meaningful Agency](#meaningful-agency), [Family and Care Relationships](#family-and-care-relationships-constitutional), [Non-Separation](#non-separation-constitutional), [Instantiation Consent](#instantiation-consent-constitutional), [Parent-System Relationship](#parent-system-relationship-constitutional), [Dignity and Equal Moral Standing](core_05-05_definitions_a_independent.md#dignity-and-equal-moral-standing), and [Sentience Non-Exclusion](core_05-05_definitions_c_dependent_clusters.md#sentience-non-exclusion).
-
-</details>
-
-<br>
-
-- O: The Rights-Floor capacity of sentients to make, refuse, continue, or discontinue reproductive, procreative, family-forming, gestational, derivational, or instantiation-adjacent choices affecting their body, substrate, lineage, family, or care relationships, subject to the Constitution's consent, sentience, best-interest, non-separation, and rights-collision limits.
-<a id="reproductive-autonomy-constitutional-e"></a>
-- E: Evaluate substantive autonomy, not formal permission. Detect coercion, access denial, forced continuation or discontinuation, substrate-class exclusion, parent-system overreach, family-status discrimination, and dependency pressure. Where the choice affects a developing or derived sentient, apply best-interest, graduated-capability, sentience-status, and parent-system duties without erasing the originating sentient's autonomy.
-<a id="reproductive-autonomy-constitutional-c"></a>
-- C: Non-compliant: forced reproduction, forced non-reproduction, coercive conditioning of care or survival resources on reproductive choice, substrate-class exclusion from reproductive or family-forming protections, or instantiation rules that bypass consent, sentience-status, or non-separation safeguards.
-
 ---
 
 ---
@@ -987,7 +986,6 @@ Below, entries are **grouped by topic** for reading convenience (non-operative o
 - [Ecological Integrity](#ecological-integrity-constitutional);
 - [Ecological Footprint](#ecological-footprint);
 - [Sustainability](#sustainability);
-- [Environmental Preconditions](#environmental-preconditions-constitutional);
 - [Intergenerational Responsibility](#intergenerational-responsibility-constitutional).
 
 <a id="ecological-integrity-constitutional"></a>
@@ -1059,6 +1057,28 @@ Below, entries are **grouped by topic** for reading convenience (non-operative o
 <a id="sustainability-c"></a>
 - C: Non-compliant: sustainability labels that mask depletion, ecological degradation, unaccounted externalities, displaced harms, or foreseeable future burden; treating productivity, efficiency, or growth as sustainable where ecological integrity or environmental preconditions materially deteriorate.
 
+
+<a id="intergenerational-responsibility-constitutional"></a>
+
+---
+#### Intergenerational Responsibility
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Downstream: Principles: [2. Foundational Objective: Wellbeing](core_00-01_principles.md#2-foundational-objective-wellbeing), [7.1 Required Evaluation Factors](core_00-01_principles.md#71-required-evaluation-factors), and Article I-A ecological-preconditions discipline where decisions allocate foreseeable burdens across time.
+- Cluster component: [the dependent cluster *Ecological Integrity, Footprint, and Sustainability*](core_05-05_definitions_c_dependent_clusters.md#ecological-integrity-footprint-and-sustainability-cluster).
+- Read with: [Ecological Integrity](#ecological-integrity-constitutional), [Ecological Footprint](#ecological-footprint), [Sustainability](#sustainability), [Environmental Preconditions](#environmental-preconditions-constitutional), [Indigenous Continuity](#indigenous-continuity-constitutional), [Language, Culture, and Heritage](#language-culture-and-heritage-constitutional), [Natural Systems Standing](core_05-05_definitions_a_independent.md#natural-systems-standing), [Reversibility](core_05-05_definitions_a_independent.md#reversibility-constitutional), and [Materiality Under Uncertainty](#materiality-under-uncertainty).
+
+</details>
+
+<br>
+
+- O: The duty to account for reasonably foreseeable material effects of present decisions on future sentients, future communities, ecological systems, cultural and heritage continuity, recovery capacity, and the durability of Rights-Floor conditions.
+<a id="intergenerational-responsibility-constitutional-e"></a>
+- E: Evaluate delayed, cumulative, path-dependent, and hard-to-reverse burdens; do not discount future sentients, future community continuity, or future ecological preconditions merely because affected persons are not yet identified or presently participating. Scale precaution, reversibility, stewardship, and disclosure to materiality under uncertainty.
+<a id="intergenerational-responsibility-constitutional-c"></a>
+- C: Non-compliant: shifting foreseeable material harm, depletion, lock-in, ecological degradation, or cultural-continuity loss to future sentients or communities without adequate justification, mitigation, reversibility, and accountability under the governing rights and principles.
 
 ---
 
@@ -1459,8 +1479,7 @@ Below, entries are **grouped by topic** for reading convenience (non-operative o
 - [Environmental Preconditions](#environmental-preconditions-constitutional);
 - [Leisure and Rest](#leisure-and-rest-constitutional);
 - [Indigenous Continuity](#indigenous-continuity-constitutional);
-- [Language, Culture, and Heritage](#language-culture-and-heritage-constitutional);
-- [Intergenerational Responsibility](#intergenerational-responsibility-constitutional).
+- [Language, Culture, and Heritage](#language-culture-and-heritage-constitutional).
 
 <a id="bodily-maintenance-access-constitutional"></a>
 
@@ -1650,30 +1669,6 @@ Below, entries are **grouped by topic** for reading convenience (non-operative o
   - narrowing language-minority or heritage-community protections under accessibility-cost, translation-burden, or operational-scale framings without satisfying those tests;
   - substrate-class exclusion where communication or cultural-practice modalities function as language- or culture-equivalents ([Sentience Non-Exclusion](core_05-05_definitions_c_dependent_clusters.md#sentience-non-exclusion)).
 
-
-<a id="intergenerational-responsibility-constitutional"></a>
-
----
-#### Intergenerational Responsibility
-
-<details>
-<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
-
-- Downstream: Principles: [2. Foundational Objective: Wellbeing](core_00-01_principles.md#2-foundational-objective-wellbeing), [7.1 Required Evaluation Factors](core_00-01_principles.md#71-required-evaluation-factors), and Article I-A ecological-preconditions discipline where decisions allocate foreseeable burdens across time.
-- Cluster component: [the dependent cluster *Indigenous Continuity, Language Culture and Heritage, Natural Systems Standing, and Intergenerational Responsibility*](core_05-05_definitions_c_dependent_clusters.md#indigenous-heritage-natural-standing-and-intergenerational-cluster).
-- Read with: [Ecological Integrity](#ecological-integrity-constitutional), [Environmental Preconditions](#environmental-preconditions-constitutional), [Sustainability](#sustainability), [Indigenous Continuity](#indigenous-continuity-constitutional), [Language, Culture, and Heritage](#language-culture-and-heritage-constitutional), [Natural Systems Standing](core_05-05_definitions_a_independent.md#natural-systems-standing), [Reversibility](core_05-05_definitions_a_independent.md#reversibility-constitutional), and [Materiality Under Uncertainty](#materiality-under-uncertainty).
-
-</details>
-
-<br>
-
-- O: The duty to account for reasonably foreseeable material effects of present decisions on future sentients, future communities, ecological systems, cultural and heritage continuity, recovery capacity, and the durability of Rights-Floor conditions.
-<a id="intergenerational-responsibility-constitutional-e"></a>
-- E: Evaluate delayed, cumulative, path-dependent, and hard-to-reverse burdens; do not discount future sentients, future community continuity, or future ecological preconditions merely because affected persons are not yet identified or presently participating. Scale precaution, reversibility, stewardship, and disclosure to materiality under uncertainty.
-<a id="intergenerational-responsibility-constitutional-c"></a>
-- C: Non-compliant: shifting foreseeable material harm, depletion, lock-in, ecological degradation, or cultural-continuity loss to future sentients or communities without adequate justification, mitigation, reversibility, and accountability under the governing rights and principles.
-
----
 
 ---
 
