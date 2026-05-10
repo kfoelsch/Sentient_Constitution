@@ -1198,24 +1198,16 @@ Below, entries are **grouped by topic** for reading convenience (non-operative o
 
 ---
 
-<a id="governance-architecture-semi-independent"></a>
+<a id="governance-structure-decentralization-concentration-semi-independent"></a>
 
-#### Governance architecture, oversight, decentralization, concentration, lock-in, review, and stakeholder participation
+#### Governance structure, decentralization, and concentration
 
-**Cluster context:** This semi-independent topic group provides the canonical O/E/C home for these definitions. Joint invocation discipline applies where indicated in individual entry traces.
+**Cluster context:** This semi-independent topic group provides the canonical O/E/C home for governance architecture concepts. Joint invocation discipline applies where indicated in individual entry traces.
 
 **Topic group members.** This group comprises:
 - [Governance](#governance);
 - [Decentralization](#decentralization);
-- [Concentration Threshold](#concentration-threshold-constitutional);
-- [System Boundaries](#system-boundaries);
-- [System Boundary Integrity](#system-boundary-integrity);
-- [Systemic Lock-In](#systemic-lock-in);
-- [Review and Correction Duty](#review-and-correction-duty-constitutional);
-- [Strategic Stewardship Obligation](#strategic-stewardship-obligation-constitutional);
-- [Stewardship Defect](#stewardship-defect-constitutional);
-- [Stakeholder](#stakeholder);
-- [Stakeholder Participation Weight](#stakeholder-participation-weight).
+- [Concentration Threshold](#concentration-threshold-constitutional).
 
 <a id="governance"></a>
 
@@ -1256,10 +1248,10 @@ Below, entries are **grouped by topic** for reading convenience (non-operative o
 
 <br>
 
-- O: Placement of decision authority at the least centralized and smallest scale that can still satisfy binding evaluation requirements — including [Safety (Constraint)](core_05-05_definitions_a_independent.md#safety-constraint), [Truth (Constitutional Constraint)](core_05-05_definitions_c_dependent_clusters.md#truth-constitutional-constraint), [Material Impact](core_05-05_definitions_b_semi_independent.md#material-impact), [Dependency](core_05-05_definitions_a_independent.md#dependency), [Classification-Scaled Governance](core_05-05_definitions_a_independent.md#classification-scaled-governance), and systemic evaluation.
+- O: Placement of decision authority at the least centralized and smallest scale that can still satisfy binding evaluation requirements — including [Safety (Constraint)](core_05-05_definitions_a_independent.md#safety-constraint), [Truth (Constitutional Constraint)](core_05-05_definitions_c_dependent_clusters.md#truth-constitutional-constraint), [Material Impact](#material-impact), [Dependency](core_05-05_definitions_a_independent.md#dependency), [Classification-Scaled Governance](core_05-05_definitions_a_independent.md#classification-scaled-governance), and systemic evaluation.
 <a id="decentralization-e"></a>
 <a id="subsidiarity-e"></a>
-- E: Escalate oversight, standardization, or central control when local competence is insufficient or externalities are material. Do not use decentralization to fragment [System Boundary Integrity](core_05-05_definitions_b_semi_independent.md#system-boundary-integrity) or evade [Accountability](#accountability).
+- E: Escalate oversight, standardization, or central control when local competence is insufficient or externalities are material. Do not use decentralization to fragment [System Boundary Integrity](#system-boundary-integrity) or evade [Accountability](#accountability).
 <a id="decentralization-c"></a>
 <a id="subsidiarity-c"></a>
 - C: Non-compliant: centralizing authority without [Necessity](core_05-05_definitions_a_independent.md#necessity); decentralizing in ways that prevent required [Oversight](core_05-05_definitions_a_independent.md#oversight-constitutional), defeat [Accountability](#accountability), or produce unaddressed systemic [Harm](core_05-05_definitions_c_dependent_clusters.md#harm).
@@ -1275,7 +1267,7 @@ Below, entries are **grouped by topic** for reading convenience (non-operative o
 
 - Downstream: Principles: [§5.1.1 Productive Capacity (Instrumental Good)](core_00-01_principles.md#511-productive-capacity-instrumental-good); [§5.1.3 Concentration Threshold Mechanism (Adopter-Tunable)](core_00-01_principles.md#513-concentration-threshold-mechanism-adopter-tunable) (operative mechanism cite in [Concentration Threshold](#concentration-threshold-constitutional) **O** line).
 - Cluster component: [Governance Architecture, Oversight, Dependency, Decentralization, Concentration, Market Structure, and Exit-Path Integrity](core_05-05_definitions_c_dependent_clusters.md#governance-architecture-oversight-decentralization-and-concentration-cluster).
-- Read with: [Productive Capacity](#productive-capacity-constitutional), [Constitutional Efficiency](core_05-05_definitions_b_semi_independent.md#constitutional-efficiency), [Proxy Divergence](#proxy-divergence), [System Boundary Integrity](core_05-05_definitions_b_semi_independent.md#system-boundary-integrity), [Adversarial, Scaled, and Exploited Conditions](core_05-05_definitions_a_independent.md#adversarial-scaled-and-exploited-conditions), [Essential-Environment Non-Commodification](core_05-05_definitions_a_independent.md#essential-environment-non-commodification-constitutional), and [Sentience Non-Exclusion](core_05-05_definitions_c_dependent_clusters.md#sentience-non-exclusion).
+- Read with: [Productive Capacity](#productive-capacity-constitutional), [Constitutional Efficiency](#constitutional-efficiency), [Proxy Divergence](#proxy-divergence), [System Boundary Integrity](#system-boundary-integrity), [Adversarial, Scaled, and Exploited Conditions](core_05-05_definitions_a_independent.md#adversarial-scaled-and-exploited-conditions), [Essential-Environment Non-Commodification](core_05-05_definitions_a_independent.md#essential-environment-non-commodification-constitutional), and [Sentience Non-Exclusion](core_05-05_definitions_c_dependent_clusters.md#sentience-non-exclusion).
 
 </details>
 
@@ -1297,31 +1289,56 @@ Below, entries are **grouped by topic** for reading convenience (non-operative o
   Adopter-tunability does not permit substrate-class exclusion from the threshold's substantive reach ([Sentience Non-Exclusion](core_05-05_definitions_c_dependent_clusters.md#sentience-non-exclusion)). This entry creates no new Chapter Nine Rights-Floor and does not narrow Article IV-A or IV-B.
 
 
+---
+
+---
+
+<a id="system-boundaries-exit-integrity-semi-independent"></a>
+
+#### System definition, boundaries, and integrity
+
+**Cluster context:** This semi-independent topic group provides the canonical O/E/C home for defining system scope, functional boundaries, and boundary integrity for constitutional evaluation. These definitions establish how systems are identified, how their boundaries are drawn based on material impact and dependency, and how boundary manipulation or systemic lock-in defeats accountability. Joint invocation discipline applies where indicated in individual entry traces.
+
+**Topic group members.** This group comprises:
+- [System](#system-definition);
+- [System Boundaries](#system-boundaries);
+- [System Boundary Integrity](#system-boundary-integrity);
+- [Systemic Lock-In](#systemic-lock-in).
+
+<a id="system-definition"></a>
+
+---
 #### System
 
-- O: A structured set of components — technical, organizational, and [Governance](core_05-05_definitions_b_semi_independent.md#governance) elements — producing effects on sentients, environment(s), or other systems.
+- O: A structured set of components — technical, organizational, and [Governance](#governance) elements — producing effects on sentients, environment(s), or other systems.
 <a id="system-e"></a>
 - E: Include:
   - inputs, outputs, and processes;
-  - [Dependency](#dependency) relationships;
+  - [Dependency](core_05-05_definitions_a_independent.md#dependency) relationships;
   - temporal effects;
   - system interactions within [System Boundaries](#system-boundaries).
   <a id="system-c"></a>
 - C: Systems must be evaluated in full functional scope under [System Boundaries](#system-boundaries) and [System Boundary Integrity](#system-boundary-integrity).
+
 <a id="system-boundaries"></a>
+
+---
 #### System Boundaries
 
-- O: Functional scope defined by [Material Impact](core_05-05_definitions_b_semi_independent.md#material-impact) and [Dependency](#dependency).
+- O: Functional scope defined by [Material Impact](#material-impact) and [Dependency](core_05-05_definitions_a_independent.md#dependency).
 <a id="system-boundaries-e"></a>
-- E: Do not rely on formal or jurisdictional boundaries where doing so would defeat [Materiality Determination](core_05-05_definitions_b_semi_independent.md#materiality-determination) or [Accountability](core_05-05_definitions_b_semi_independent.md#accountability).
+- E: Do not rely on formal or jurisdictional boundaries where doing so would defeat [Materiality Determination](#materiality-determination) or [Accountability](#accountability).
 <a id="system-boundaries-c"></a>
-- C: Non-compliant: exclusion of material components, under [System Boundary Integrity](#system-boundary-integrity), [Materiality Determination](core_05-05_definitions_b_semi_independent.md#materiality-determination), and [Accountability](core_05-05_definitions_b_semi_independent.md#accountability).
+- C: Non-compliant: exclusion of material components, under [System Boundary Integrity](#system-boundary-integrity), [Materiality Determination](#materiality-determination), and [Accountability](#accountability).
+
 <a id="system-boundary-integrity"></a>
+
+---
 #### System Boundary Integrity
 
 - O: Accuracy and stability of [System Boundaries](#system-boundaries) definition.
 <a id="system-boundary-integrity-e"></a>
-- E: Detect manipulation or exclusion that would distort [Materiality Determination](core_05-05_definitions_b_semi_independent.md#materiality-determination), [Dependency](#dependency), or [Risk](#risk).
+- E: Detect manipulation or exclusion that would distort [Materiality Determination](#materiality-determination), [Dependency](core_05-05_definitions_a_independent.md#dependency), or [Risk](core_05-05_definitions_a_independent.md#risk).
 <a id="system-boundary-integrity-c"></a>
 - C: Boundaries must be auditable, stable, and contestable.
 
@@ -1336,42 +1353,33 @@ Below, entries are **grouped by topic** for reading convenience (non-operative o
 
 - Downstream: Principles: [6.1.1 Proportionality](core_00-01_principles.md#611-proportionality) (heightened-risk index: **Systemic Lock-In**, **Reversibility**, **Dependency**); [§5.2.4 Openness Aspiration](core_00-01_principles.md#524-openness-aspiration) (anti-lock-in aspiration read with interoperability / exit artifacts).
 - Cluster component: [the dependent cluster *Governance Architecture, Oversight, Dependency, Decentralization, Concentration, Market Structure, and Exit-Path Integrity*](core_05-05_definitions_c_dependent_clusters.md#governance-architecture-oversight-decentralization-and-concentration-cluster)
-- Read with: [Dependency](core_05-05_definitions_a_independent.md#dependency), [Material Impact](core_05-05_definitions_b_semi_independent.md#material-impact), [Meaningful Agency](#meaningful-agency), [Consent](#consent-constitutional), [Contestability](#contestability), and [Article XIX](core_09-09_rights_part_c.md#article-xix-interoperability-portability-and-exit-integrity) where incorporated implementation assigns exit-integrity duties.
+- Read with: [Dependency](core_05-05_definitions_a_independent.md#dependency), [Material Impact](#material-impact), [Meaningful Agency](#meaningful-agency), [Consent](#consent-constitutional), [Contestability](#contestability), and [Article XIX](core_09-09_rights_part_c.md#article-xix-interoperability-portability-and-exit-integrity) where incorporated implementation assigns exit-integrity duties.
 
 </details>
 
 <br>
 
-- O: A condition in which exit, switching, or corrective action is practically foreclosed or disproportionately costly relative to [Dependency](core_05-05_definitions_a_independent.md#dependency) and [Material Impact](core_05-05_definitions_b_semi_independent.md#material-impact), such that [Meaningful Agency](#meaningful-agency), informed [Consent](#consent-constitutional), or [Contestability](#contestability) is materially negated.
+- O: A condition in which exit, switching, or corrective action is practically foreclosed or disproportionately costly relative to [Dependency](core_05-05_definitions_a_independent.md#dependency) and [Material Impact](#material-impact), such that [Meaningful Agency](#meaningful-agency), informed [Consent](#consent-constitutional), or [Contestability](#contestability) is materially negated.
 <a id="systemic-lock-in-e"></a>
 - E: Compare exit costs and frictions to dependency, impact, and [Feasibility](core_05-05_definitions_a_independent.md#feasibility). Distinguish structural barriers from ordinary transaction costs. Apply interoperability, portability, and exit-integrity requirements as specified in incorporated implementation text. Justified limitations under Burden of Justification and Constraint requirements apply.
 <a id="systemic-lock-in-c"></a>
 - C: Non-compliant: creating or maintaining lock-in as defined above; failure to satisfy applicable incorporated interoperability, portability, or exit-integrity requirements without adequate justification under Burden of Justification and Constraint requirements.
 
 
-<a id="review-and-correction-duty-constitutional"></a>
+---
 
 ---
-#### Review and Correction Duty
 
-<details>
-<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+<a id="stewardship-review-correction-semi-independent"></a>
 
-- Downstream: Principles: [7.2.2 Stewardship and Operator Incentive Alignment](core_00-01_principles.md#722-stewardship-and-operator-incentive-alignment); [7.1 Required Evaluation Factors](core_00-01_principles.md#71-required-evaluation-factors) (periodic revalidation / drift detection).
-- Owner floor: [Chapter Ten §3](core_10-10_governance.md#3-strategy-stewardship-direction-and-ecosystem-value-non-corporate).
-- Cluster component: [the dependent cluster *Adjudication and Dispute Resolution, Redress and Remediation, Restorative Justice, Review and Correction Duty, and Refuge from Non-Compliance*](core_05-05_definitions_c_dependent_clusters.md#adjudication-redress-restorative-review-correction-and-refuge-cluster)
-- Read with: [Material Impact](core_05-05_definitions_b_semi_independent.md#material-impact), [Proxy Divergence](#proxy-divergence), [System Capture](core_05-05_definitions_a_independent.md#system-capture), [Auditability](core_05-05_definitions_c_dependent_clusters.md#auditability), and Chapters Two through Four (tracing, observability, verification) as referenced in [Chapter Ten §3](core_10-10_governance.md#3-strategy-stewardship-direction-and-ecosystem-value-non-corporate).
+#### Stewardship, review, and correction
 
-</details>
+**Cluster context:** This semi-independent topic group defines the stewardship lifecycle: the affirmative duty to govern strategically toward constitutional alignment; the identification of material failures when that duty is breached; and the ongoing obligation to revalidate claims and correct course based on observable evidence. Joint invocation discipline applies where indicated in individual entry traces.
 
-<br>
-
-- O: The duty to periodically revalidate strategy and stewardship claims against observable outcomes and to revise them when evidence shows constitutional drift, capture pressure, or material under-performance.
-<a id="review-and-correction-duty-constitutional-e"></a>
-- E: Apply [Materiality Determination](core_05-05_definitions_b_semi_independent.md#materiality-determination) and evidence-of-drift tests consistent with [Contestability](#contestability) and Chapter Six **contribution** **inputs** where stewardship claims are material to classification or standing.
-<a id="review-and-correction-duty-constitutional-c"></a>
-- C: Non-compliant: maintaining published strategy or stewardship claims without periodic revalidation where observability is practicable; refusing revision when outcomes materially contradict stated constitutional alignment.
-
+**Topic group members.** This group comprises:
+- [Strategic Stewardship Obligation](#strategic-stewardship-obligation-constitutional);
+- [Stewardship Defect](#stewardship-defect-constitutional);
+- [Review and Correction Duty](#review-and-correction-duty-constitutional).
 
 <a id="strategic-stewardship-obligation-constitutional"></a>
 
@@ -1419,6 +1427,44 @@ Below, entries are **grouped by topic** for reading convenience (non-operative o
 - C: Non-compliant: maintaining a stewardship posture that materially fails the strategic stewardship obligation after risks, drift, or harmful incentives are reasonably foreseeable; using documentation, branding, or committee form to mask non-functional stewardship.
 
 
+<a id="review-and-correction-duty-constitutional"></a>
+
+---
+#### Review and Correction Duty
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Downstream: Principles: [7.2.2 Stewardship and Operator Incentive Alignment](core_00-01_principles.md#722-stewardship-and-operator-incentive-alignment); [7.1 Required Evaluation Factors](core_00-01_principles.md#71-required-evaluation-factors) (periodic revalidation / drift detection).
+- Owner floor: [Chapter Ten §3](core_10-10_governance.md#3-strategy-stewardship-direction-and-ecosystem-value-non-corporate).
+- Cluster component: [the dependent cluster *Adjudication and Dispute Resolution, Redress and Remediation, Restorative Justice, Review and Correction Duty, and Refuge from Non-Compliance*](core_05-05_definitions_c_dependent_clusters.md#adjudication-redress-restorative-review-correction-and-refuge-cluster)
+- Read with: [Material Impact](#material-impact), [Proxy Divergence](#proxy-divergence), [System Capture](core_05-05_definitions_a_independent.md#system-capture), [Auditability](core_05-05_definitions_c_dependent_clusters.md#auditability), and Chapters Two through Four (tracing, observability, verification) as referenced in [Chapter Ten §3](core_10-10_governance.md#3-strategy-stewardship-direction-and-ecosystem-value-non-corporate).
+
+</details>
+
+<br>
+
+- O: The duty to periodically revalidate strategy and stewardship claims against observable outcomes and to revise them when evidence shows constitutional drift, capture pressure, or material under-performance.
+<a id="review-and-correction-duty-constitutional-e"></a>
+- E: Apply [Materiality Determination](#materiality-determination) and evidence-of-drift tests consistent with [Contestability](#contestability) and Chapter Six **contribution** **inputs** where stewardship claims are material to classification or standing.
+<a id="review-and-correction-duty-constitutional-c"></a>
+- C: Non-compliant: maintaining published strategy or stewardship claims without periodic revalidation where observability is practicable; refusing revision when outcomes materially contradict stated constitutional alignment.
+
+
+---
+
+---
+
+<a id="stakeholder-identification-participation-semi-independent"></a>
+
+#### Stakeholder identification and participation
+
+**Cluster context:** This semi-independent topic group provides the canonical O/E/C home for stakeholder status and participation-weight definitions. Joint invocation discipline applies where indicated in individual entry traces.
+
+**Topic group members.** This group comprises:
+- [Stakeholder](#stakeholder);
+- [Stakeholder Participation Weight](#stakeholder-participation-weight).
+
 <a id="stakeholder"></a>
 
 ---
@@ -1434,11 +1480,11 @@ Below, entries are **grouped by topic** for reading convenience (non-operative o
 
 <br>
 
-- O: A sentient who uses, depends upon, or is materially affected by a specified system, institutional arrangement, or bounded decision domain — judged by that entity's operation or outcomes. Indirect or dependency-based impacts count when significant and demonstrable under [Auditability](core_05-05_definitions_c_dependent_clusters.md#auditability)-compatible criteria, consistent with [Material](core_05-05_definitions_b_semi_independent.md#material), [Dependency](core_05-05_definitions_a_independent.md#dependency), and [System Boundaries](core_05-05_definitions_b_semi_independent.md#system-boundaries). Stakeholder status answers *who is materially touched in a proportionality-relevant way* relative to that scope. It does not by itself state how governing authority over the whole community is authorized. For participation **weight** in materially rights-affecting decisions *within* the [Governance](#governance) **structures, rules, allocation of authority, and processes** already authorized for a **specified system, institution, or bounded decision domain**, see [Stakeholder Participation Weight](#stakeholder-participation-weight) and the [Stakeholder Status, Emergency, and Participation Weight cluster](core_05-05_definitions_c_dependent_clusters.md#stakeholder-status-emergency-and-participation-weight-cluster). For foundational authorization of governing authority and of the governance layer mechanism itself, see the [Constitutional Contract Layer](core_05-05_definitions_a_independent.md#constitutional-contract-layer), [Foundational Constitutional Choice](core_05-05_definitions_a_independent.md#foundational-constitutional-choice), **Article IX-C**, and **Chapter Ten §4.1** (political-equality floor — not impact-proportional stakeholder tally weights).
+- O: A sentient who uses, depends upon, or is materially affected by a specified system, institutional arrangement, or bounded decision domain — judged by that entity's operation or outcomes. Indirect or dependency-based impacts count when significant and demonstrable under [Auditability](core_05-05_definitions_c_dependent_clusters.md#auditability)-compatible criteria, consistent with [Material](#material), [Dependency](core_05-05_definitions_a_independent.md#dependency), and [System Boundaries](#system-boundaries). Stakeholder status answers *who is materially touched in a proportionality-relevant way* relative to that scope. It does not by itself state how governing authority over the whole community is authorized. For participation **weight** in materially rights-affecting decisions *within* the [Governance](#governance) **structures, rules, allocation of authority, and processes** already authorized for a **specified system, institution, or bounded decision domain**, see [Stakeholder Participation Weight](#stakeholder-participation-weight) and the [Stakeholder Status, Emergency, and Participation Weight cluster](core_05-05_definitions_c_dependent_clusters.md#stakeholder-status-emergency-and-participation-weight-cluster). For foundational authorization of governing authority and of the governance layer mechanism itself, see the [Constitutional Contract Layer](core_05-05_definitions_a_independent.md#constitutional-contract-layer), [Foundational Constitutional Choice](core_05-05_definitions_a_independent.md#foundational-constitutional-choice), **Article IX-C**, and **Chapter Ten §4.1** (political-equality floor — not impact-proportional stakeholder tally weights).
 <a id="stakeholder-e"></a>
 - E: Use transparent, reasonable criteria. Do not permit unilateral system-defined exclusion from stakeholder status without external [Contestability](#contestability) where Chapter Nine or governance safeguards require it.
 <a id="stakeholder-c"></a>
-- C: Non-compliant: denying stakeholder standing or associated protections to an entity that satisfies the ontological scope, where rights attach and the denial lacks justification under applicable articles and definitions ([Contestability](#contestability), [Constitutional Community](core_05-05_definitions_a_independent.md#constitutional-community), [Material Impact](core_05-05_definitions_b_semi_independent.md#material-impact)).
+- C: Non-compliant: denying stakeholder standing or associated protections to an entity that satisfies the ontological scope, where rights attach and the denial lacks justification under applicable articles and definitions ([Contestability](#contestability), [Constitutional Community](core_05-05_definitions_a_independent.md#constitutional-community), [Material Impact](#material-impact)).
 
 
 <a id="stakeholder-participation-weight"></a>
@@ -1456,13 +1502,11 @@ Below, entries are **grouped by topic** for reading convenience (non-operative o
 
 <br>
 
-- O: The scaling of scope, form, timing, and decision influence afforded to [Stakeholders](#stakeholder) in matters that materially affect them *within* the [Governance](#governance) **structures, rules, allocation of authority, and processes** already authorized for the **relevant system, institution, or bounded decision domain**. This is the **Stakeholder System Participation** layer. Weight must be proportionate to [Material Impact](core_05-05_definitions_b_semi_independent.md#material-impact), [Dependency](core_05-05_definitions_a_independent.md#dependency), demonstrated stake, and [Feasibility](core_05-05_definitions_a_independent.md#feasibility), under the [Stakeholder Status, Emergency, and Participation Weight cluster](core_05-05_definitions_c_dependent_clusters.md#stakeholder-status-emergency-and-participation-weight-cluster). It must not substitute symbolic participation for [Meaningful Agency](#meaningful-agency). It does **not** govern participation **weights** for [Foundational Constitutional Choice](core_05-05_definitions_a_independent.md#foundational-constitutional-choice), where the political-equality floor applies to the entitled community (**Article IX-C**; **Chapter Ten §4.1**).
+- O: The scaling of scope, form, timing, and decision influence afforded to [Stakeholders](#stakeholder) in matters that materially affect them *within* the [Governance](#governance) **structures, rules, allocation of authority, and processes** already authorized for the **relevant system, institution, or bounded decision domain**. This is the **Stakeholder System Participation** layer. Weight must be proportionate to [Material Impact](#material-impact), [Dependency](core_05-05_definitions_a_independent.md#dependency), demonstrated stake, and [Feasibility](core_05-05_definitions_a_independent.md#feasibility), under the [Stakeholder Status, Emergency, and Participation Weight cluster](core_05-05_definitions_c_dependent_clusters.md#stakeholder-status-emergency-and-participation-weight-cluster). It must not substitute symbolic participation for [Meaningful Agency](#meaningful-agency). It does **not** govern participation **weights** for [Foundational Constitutional Choice](core_05-05_definitions_a_independent.md#foundational-constitutional-choice), where the political-equality floor applies to the entitled community (**Article IX-C**; **Chapter Ten §4.1**).
 <a id="stakeholder-participation-weight-e"></a>
 - E: Detect capture of participation processes, formalistic or illusory voice, and exclusion of qualified stakeholders. Detect disproportionate weight to operators, narrow interests, or non-affected parties without required justification. Required justification tests: [Necessity](core_05-05_definitions_a_independent.md#necessity), [Proportionality](core_05-05_definitions_a_independent.md#proportionality), [Contestability](#contestability), and [Coercion and Manipulation](#coercion-and-manipulation-constitutional).
 <a id="stakeholder-participation-weight-c"></a>
 - C: Non-compliant: allocating participation rights or influence in a manner that materially negates [Meaningful Agency](#meaningful-agency) or [Freedom (Bounded Agency)](core_05-05_definitions_a_independent.md#freedom-bounded-agency) for affected stakeholders, where Chapter Nine or binding governance norms require voice.
-
----
 
 ---
 
