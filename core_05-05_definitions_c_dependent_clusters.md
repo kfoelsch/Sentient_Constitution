@@ -110,7 +110,7 @@ Unless this Constitution expressly provides otherwise, **sentient** and **sentie
   - uncertainty produced or amplified by classification, measurement, captivity, training, deployment, or experimentation conditions.
 
   Evaluate [Adversarial, Scaled, and Exploited Conditions](core_05-05_definitions_a_independent.md#adversarial-scaled-and-exploited-conditions), especially where large-scale production, experimentation, extraction, platform deployment, security use, or dependency relationships create incentives to under-recognize sentience.
-<a id="contested-sentient-life-constitutional-c"></a>
+  <a id="contested-sentient-life-constitutional-c"></a>
 - C: This entry preserves and does not narrow the Chapter Nine Rights-Floor, [Article V-E](core_09-09_rights_part_b.md#article-v-e-sentience-status-adjudication-floor), [Sentience Non-Exclusion](#sentience-non-exclusion), [Animal Life](#animal-life-constitutional), or [Natural Systems Standing](core_05-05_definitions_a_independent.md#natural-systems-standing). Where Contested-Sentient Life and Animal Life both apply, the [Article V-E](core_09-09_rights_part_b.md#article-v-e-sentience-status-adjudication-floor) default-inclusion rule controls in its more protective direction. Non-compliant framings:
   - using uncertainty as a reason to withhold protection rather than extend default inclusion;
   - relabeling a materially contested sentience question as animal welfare, property status, operational classification, research material, product inventory, or ecological management to avoid [Sentience Status Adjudication](#sentience-status-adjudication-constitutional);
@@ -128,7 +128,7 @@ Unless this Constitution expressly provides otherwise, **sentient** and **sentie
   3. any declassification is stated in the shortest necessary terms, carries a declared expected-closure timeline, and is subject to mandatory periodic review under a designated court family and anti-capture safeguards consistent with [System Capture](core_05-05_definitions_a_independent.md#system-capture);
   4. wrongful determinations remain reversible with [Redress and Remediation](core_05-05_definitions_a_independent.md#redress-and-remediation-constitutional) for the interim period; and
   5. the process is free of [Sentience Non-Exclusion](#sentience-non-exclusion) violations, taxonomy-of-convenience vectors, and [System Capture](core_05-05_definitions_a_independent.md#system-capture) pressures on the adjudicator.
-<a id="sentience-status-adjudication-constitutional-c"></a>
+  <a id="sentience-status-adjudication-constitutional-c"></a>
 - C: Non-compliant:
   - withholding, narrowing, or revoking Chapter Nine protection on the strength of unresolved uncertainty alone;
   - non-time-bound declassification; declassification lacking mandatory periodic review;
@@ -265,7 +265,7 @@ This cluster is the joint-invocation home for harm, the boundary at which one se
 - E: Include:
   - direct, indirect, delayed, cumulative, cross-system effects;
   - psychologically mediated effects — fear conditioning, coercive [Dependency](core_05-05_definitions_a_independent.md#dependency), chronic intimidation, sustained [Coercion and Manipulation](core_05-05_definitions_b_semi_independent.md#coercion-and-manipulation-constitutional), and neglect-mediated deterioration — where materially relevant.
-<a id="harm-c"></a>
+  <a id="harm-c"></a>
 - C: Harm must not be excluded based on distribution or aggregation where [Materiality Determination](core_05-05_definitions_b_semi_independent.md#materiality-determination) would treat the effect as material.
 
 ---
@@ -455,34 +455,160 @@ This cluster is the joint-invocation home for operative corpus identity, authori
 ---
 
 <a id="creative-work-training-data-attribution-compensation-and-anti-displacement-cluster"></a>
+<a id="labor-and-economic-floor-cluster"></a>
 
-#### 3.5 Creative Work, Training-Data Use, Attribution, Compensation, and Anti-Displacement
+#### 3.5 Labor and Economic Floor: Compensation, Organization, Safe Conditions, Leisure, and Creative Work
 
-This cluster is the joint-invocation home for creative-work training-data use, attribution, fair compensation, anti-displacement, and productive-capacity / innovation-reward disciplines where materially interdependent under **Article VIII-D** and the **Article III-D** labor and economic floor.
+This cluster is the joint-invocation home for the **Article III-D** labor and economic floor rights — **Fair Compensation**, **Collective Organization**, **Safe Conditions**, and **Leisure and Rest** — together with **Article VIII-D** creative-work disciplines (training-data use, attribution, anti-displacement, and innovation-reward) where materially interdependent. These rights form an integrated floor for productive, contributed, or comparable activity.
 
-**Admission scope.** This cluster applies where a matter materially concerns training-data use of sentient-produced work, attribution and credit continuity, anti-displacement of creative and economic participation, fair compensation for creative or platformed productive activity, or innovation reward and anti-enclosure claims that intersect those pathways. Outside that admission scope, the component definitions may operate as supporting Independent Definitions without importing the whole cluster.
+**Admission scope.** This cluster applies where a matter materially concerns:
+- Fair compensation for productive, contributed, or comparable activity;
+- Safe conditions under which productive activity is conducted;
+- Rest, recuperation, and non-productive time preserving participation capacity;
+- Collective organization rights including unions, cooperatives, guilds, and worker councils;
+- Likeness and documentary depiction interface;
+- Creative work attribution and training-data use of sentient-produced work;
+- Anti-displacement of creative and economic participation.
+
+Outside that admission scope, component definitions may operate as supporting Independent Definitions without importing the whole cluster.
 
 **Cluster members.** This cluster comprises:
 
+- [Fair Compensation](#fair-compensation-constitutional);
+- [Safe Conditions](#safe-conditions-constitutional);
+- [Leisure and Rest](#leisure-and-rest-constitutional);
+- [Collective Organization](#collective-organization-constitutional);
+- [Likeness and Documentary Depiction Interface](#likeness-and-documentary-depiction-interface-constitutional);
 - [Creative Work Attribution](#creative-work-attribution-constitutional);
 - [Training-Data Use](#training-data-use-constitutional);
-- [Fair Compensation](#fair-compensation-constitutional);
-- [Likeness and Documentary Depiction Interface](#likeness-and-documentary-depiction-interface-constitutional);
 - [Anti-Displacement Floor](#anti-displacement-floor-constitutional).
 
-**Read-with definitions.** Apply [Productive Capacity](core_05-05_definitions_b_semi_independent.md#productive-capacity-constitutional), [Privacy (Informational) — peer-level cluster head](#privacy-informational-cluster), [Consent](core_05-05_definitions_b_semi_independent.md#consent-constitutional), [Truth (Constitutional Constraint)](#truth-constitutional-constraint), [Good Faith](core_05-05_definitions_a_independent.md#good-faith), [Meaningful Agency](core_05-05_definitions_b_semi_independent.md#meaningful-agency), [Collective Organization](core_05-05_definitions_b_semi_independent.md#collective-organization-constitutional), [Innovation Reward and Anti-Enclosure](core_05-05_definitions_a_independent.md#innovation-reward-and-anti-enclosure), and [Sentience Non-Exclusion](#sentience-non-exclusion) where materially implicated.
+**Read-with definitions.** Apply [Productive Capacity](core_05-05_definitions_b_semi_independent.md#productive-capacity-constitutional), [Privacy (Informational) — peer-level cluster head](#privacy-informational-cluster), [Consent](core_05-05_definitions_b_semi_independent.md#consent-constitutional), [Truth (Constitutional Constraint)](#truth-constitutional-constraint), [Good Faith](core_05-05_definitions_a_independent.md#good-faith), [Meaningful Agency](core_05-05_definitions_b_semi_independent.md#meaningful-agency), [Innovation Reward and Anti-Enclosure](core_05-05_definitions_a_independent.md#innovation-reward-and-anti-enclosure), and [Sentience Non-Exclusion](#sentience-non-exclusion) where materially implicated.
 
-**Joint invocation and anti-bypass.** Under §3.0.1, a matter within the admission scope must not be segmented into separate privacy, consent, attribution, compensation, displacement, or innovation-reward issues in a way that satisfies one component while defeating materially interdependent duties under **Article VIII-D** and **Article III-D**.
+**Joint invocation and anti-bypass.** Under §3.0.1, a matter within the admission scope must not be segmented into separate compensation, organization, safety, rest, privacy, consent, attribution, displacement, or innovation-reward issues in a way that satisfies one component while defeating materially interdependent duties under **Article III-D** and **Article VIII-D**.
 
-<a id="training-data-use-constitutional"></a>
+<a id="fair-compensation-constitutional"></a>
 
-##### Training-Data Use
+##### Fair Compensation
 
-- O: Use of sentient-produced creative, expressive, personal, experiential, or otherwise identifiable work as training data for generative, analytical, or comparable systems, read with **[Article VIII-D](core_09-09_rights_part_b.md#article-viii-d-creative-work-training-data-use-and-anti-displacement)** and this §3.5 cluster. Consent, experiential-data, privacy, and attribution duties apply jointly; defending use on non-personal-data grounds alone does not satisfy this entry where work is sentient-produced and materially identifiable.
-<a id="training-data-use-constitutional-e"></a>
-- E: Evaluate scope, purpose, duration, downstream reuse, revocation, aggregation risk, and re-identification under [Consent](core_05-05_definitions_b_semi_independent.md#consent-constitutional), **[Article VIII-B](core_09-09_rights_part_b.md#article-viii-b-experiential-and-derived-data-rights)**, [Privacy (Informational)](#privacy-informational), and [Creative Work Attribution](#creative-work-attribution-constitutional).
-<a id="training-data-use-constitutional-c"></a>
-- C: Training-data pipelines that strip consent, substantive attribution, or required informational discipline by segmentation across privacy, licensing, or aggregate-processing labels are non-compliant where **Article VIII-D** joint invocation materially applies.
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Downstream: Principles: [2. Foundational Objective: Wellbeing](core_00-01_principles.md#2-foundational-objective-wellbeing); [6.1.4 Minimization of Avoidable Burden](core_00-01_principles.md#614-minimization-of-avoidable-burden) (labor-floor burden vs false efficiency).
+- Owner floor: [Article III-D](core_09-09_rights_part_a.md#article-iii-d-labor-and-economic-floor). Companion routing: `corpus_institutions.md` CI-9 / CI-10 / CI-11.
+- Cluster component: [Chapter Five §3.5 *Labor and Economic Floor*](#labor-and-economic-floor-cluster).
+- Read with: [Safe Conditions](#safe-conditions-constitutional), [Leisure and Rest](#leisure-and-rest-constitutional), [Collective Organization](#collective-organization-constitutional), [Substantive Fairness](core_05-05_definitions_b_semi_independent.md#substantive-fairness-constitutional), [Protected Characteristics](core_05-05_definitions_b_semi_independent.md#protected-characteristics-constitutional), [Protected Characteristic Proxying and Disparate Impact](core_05-05_definitions_b_semi_independent.md#protected-characteristic-proxying-and-disparate-impact), [Meaningful Agency](core_05-05_definitions_b_semi_independent.md#meaningful-agency), [Coercion and Manipulation](core_05-05_definitions_b_semi_independent.md#coercion-and-manipulation-constitutional), [Dependency](core_05-05_definitions_a_independent.md#dependency), and [Lifespan Equivalent Unit (LEQU)](core_05-05_definitions_a_independent.md#lifespan-equivalent-unit-lequ) (where quantitative calibration of benefit or deprivation is material).
+
+</details>
+
+<br>
+
+- O: The Rights-Floor concept covering substantive adequacy of compensation for productive, contributed, or comparable activity — waged, contracted, platformed, cooperative, or comparable — under [Sentience Non-Exclusion](#sentience-non-exclusion). Compensation must reach substantive adequacy for participation and wellbeing, track [Substantive Fairness](core_05-05_definitions_b_semi_independent.md#substantive-fairness-constitutional) across comparable activity, and not operate as a coercion or dependency-pressure vector. Ordinary voluntary exchange for goods or services outside sentient-productive-activity scope is out of scope. Rooted in the Article III-D labor and economic floor; read on top of (not as a substitute for) the Article III-A survival floor.
+<a id="fair-compensation-constitutional-e"></a>
+- E: Reach substantive adequacy, not formal contractual satisfaction. Apply [Substantive Fairness](core_05-05_definitions_b_semi_independent.md#substantive-fairness-constitutional) to comparable activity; apply [Protected Characteristics](core_05-05_definitions_b_semi_independent.md#protected-characteristics-constitutional) and [Protected Characteristic Proxying and Disparate Impact](core_05-05_definitions_b_semi_independent.md#protected-characteristic-proxying-and-disparate-impact) to distributional effects; apply [Coercion and Manipulation](core_05-05_definitions_b_semi_independent.md#coercion-and-manipulation-constitutional) and [Meaningful Agency](core_05-05_definitions_b_semi_independent.md#meaningful-agency) to dependency-pressure analysis. Survival-floor satisfaction alone, and [Chapter One §5.1.1](core_00-01_principles.md#511-productive-capacity-instrumental-good) non-concentration satisfaction alone, do not satisfy this entry.
+<a id="fair-compensation-constitutional-c"></a>
+- C: Non-compliant: compensation schemes whose effects track [Protected Characteristics](core_05-05_definitions_b_semi_independent.md#protected-characteristics-constitutional) or their material proxies; compensation used as coercion or dependency-pressure vector ([Coercion and Manipulation](core_05-05_definitions_b_semi_independent.md#coercion-and-manipulation-constitutional)); reading this entry as satisfied purely by survival-floor or §5.1 non-concentration compliance; substrate-class exclusion ([Sentience Non-Exclusion](#sentience-non-exclusion)).
+
+---
+
+<a id="safe-conditions-constitutional"></a>
+
+##### Safe Conditions
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Downstream: Principles: [7.1 Required Evaluation Factors](core_00-01_principles.md#71-required-evaluation-factors) (substantive participation and materiality under **accessibility** evaluation); [3. Non-Negotiable Constraints: Safety](core_00-01_principles.md#3-non-negotiable-constraints-safety-and-truth) (**Safety** stack read with labor-floor role of this entry).
+- Owner floor: [Article III-D](core_09-09_rights_part_a.md#article-iii-d-labor-and-economic-floor). Systems-layer companion: [Article XII-A](core_09-09_rights_part_c.md#article-xii-a-reliability-and-trustworthiness-baseline). Operational profile: `corpus_systems.md` Protocol A safety profiles where applicable.
+- Cluster component: [Chapter Five §3.5 *Labor and Economic Floor*](#labor-and-economic-floor-cluster).
+- Read with: [Fair Compensation](#fair-compensation-constitutional), [Collective Organization](#collective-organization-constitutional), [Leisure and Rest](#leisure-and-rest-constitutional), [Safety (Constraint)](core_05-05_definitions_a_independent.md#safety-constraint), [Adversarial, Scaled, and Exploited Conditions](core_05-05_definitions_a_independent.md#adversarial-scaled-and-exploited-conditions), [Harm](#harm), [Risk](core_05-05_definitions_a_independent.md#risk), [Reversibility](core_05-05_definitions_a_independent.md#reversibility-constitutional), and [Sentience Non-Exclusion](#sentience-non-exclusion).
+
+</details>
+
+<br>
+
+*In plain terms: every sentient has the right to work in conditions where they are genuinely protected from foreseeable harm — not just on paper, but in reality. This applies whether the worker is human, synthetic, or any other substrate. Box-checking safety programs that leave people actually exposed don't count.*
+
+- **O:** The floor that protects sentients from foreseeable harm while they work, contribute, or participate in productive activities. This protection must be real, not just formal — consistent with the hard Safety constraint, the ability to undo mistakes, and protection under adversarial or exploitative conditions. It applies equally to all sentients, whether they are doing the work or affected by it. This entry governs workplace safety specifically; general system safety is covered elsewhere.
+<a id="safe-conditions-constitutional-e"></a>
+- **E:** Check whether safety measures actually work in practice, not just under ideal conditions. Watch for attempts to exclude certain types of sentients from safety requirements based on their substrate. Where tools and systems mediate the work, ensure they are reliable. Check whether risk burdens fall unfairly on groups defined by protected characteristics. Reject "we comply with general safety law" claims that don't demonstrate real protection.
+<a id="safe-conditions-constitutional-c"></a>
+- **C:** Non-compliant:
+  - safety obligations that exist on paper but don't actually protect anyone;
+  - excluding certain sentient types from safety requirements because of their substrate;
+  - distributing risk so that it falls mainly on protected groups or their proxies;
+  - claiming contribution or employment status satisfies safety requirements when the actual risk protection fails.
+
+---
+
+<a id="leisure-and-rest-constitutional"></a>
+
+##### Leisure and Rest
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Downstream: Principles: [6.1.4 Minimization of Avoidable Burden](core_00-01_principles.md#614-minimization-of-avoidable-burden) (participation-capacity preservation vs false efficiency); [§8 Freedom (Bounded Agency)](core_00-01_principles.md#8-freedom-bounded-agency) (**Meaningful Agency** in tradeoff stack); [7.1 Required Evaluation Factors](core_00-01_principles.md#71-required-evaluation-factors) (**Materiality** / **Dependency** scaling).
+- Owner floor: [Article III-D](core_09-09_rights_part_a.md#article-iii-d-labor-and-economic-floor).
+- Cluster component: [Chapter Five §3.5 *Labor and Economic Floor*](#labor-and-economic-floor-cluster).
+- Read with: [Fair Compensation](#fair-compensation-constitutional), [Collective Organization](#collective-organization-constitutional), [Safe Conditions](#safe-conditions-constitutional), [Meaningful Agency](core_05-05_definitions_b_semi_independent.md#meaningful-agency), [Wellbeing](core_05-05_definitions_a_independent.md#wellbeing), and [Sentience Non-Exclusion](#sentience-non-exclusion).
+
+</details>
+
+<br>
+
+*In plain terms: everyone who works has a right to real time off — enough rest and recuperation to stay healthy, maintain their agency, and participate fully in life. Productivity demands that exhaust people don't satisfy this floor.*
+
+- **O:** The Rights-Floor concept covering sentients' entitlement to rest, recuperation, and non-productive time sufficient to preserve [Meaningful Agency](core_05-05_definitions_b_semi_independent.md#meaningful-agency), wellbeing, and participation capacity under [Sentience Non-Exclusion](#sentience-non-exclusion). Stated in Rights-Floor terms rather than fixed quantitative units; the substantive floor is participation-capacity preservation. Ordinary contractual rest provisions, scheduling arrangements, and comparable mechanics are outside this entry where they do not defeat participation-capacity preservation.
+<a id="leisure-and-rest-constitutional-e"></a>
+- **E:** Reach substantive effect on participation-capacity preservation under [Meaningful Agency](core_05-05_definitions_b_semi_independent.md#meaningful-agency) and [Wellbeing](core_05-05_definitions_a_independent.md#wellbeing), not formal rest-provision compliance. Detect compensation and productivity-requirement schemes structured to defeat the floor (including on-call regimes, targeted productivity-requirement escalation, or comparable practices). Apply [Protected Characteristics](#protected-characteristics-constitutional) and [Protected Characteristic Proxying and Disparate Impact](#protected-characteristic-proxying-and-disparate-impact) to distributional effects. Refuse substrate-class framings that treat rest and recuperation as optional for synthetic sentients on substrate-class grounds alone.
+<a id="leisure-and-rest-constitutional-c"></a>
+- **C:** Non-compliant:
+  - compensation or productivity-requirement schemes whose effect defeats rest and recuperation sufficient to preserve participation capacity;
+  - substrate-class framings treating rest and recuperation as optional for synthetic sentients on substrate-class grounds alone ([Sentience Non-Exclusion](#sentience-non-exclusion));
+  - reading this entry as narrowed by formal rest-provision compliance where the substantive participation-capacity floor fails.
+
+---
+
+<a id="collective-organization-constitutional"></a>
+
+##### Collective Organization
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Downstream: Principles: [§8 Freedom (Bounded Agency)](core_00-01_principles.md#8-freedom-bounded-agency); [7.1 Required Evaluation Factors](core_00-01_principles.md#71-required-evaluation-factors) (materiality / dependency scaling for collective voice).
+- Owner floor: [Article III-D](core_09-09_rights_part_a.md#article-iii-d-labor-and-economic-floor). Read with [Article IX-B](core_09-09_rights_part_b.md#article-ix-b-stakeholder-role-and-participation-rights) and [Article XIII-A](core_09-09_rights_part_c.md#article-xiii-a-security-intelligence-and-covert-power-limits) covert-power limits.
+- Cluster component: [Chapter Five §3.5 *Labor and Economic Floor*](#labor-and-economic-floor-cluster).
+- Read with: [Fair Compensation](#fair-compensation-constitutional), [Safe Conditions](#safe-conditions-constitutional), [Leisure and Rest](#leisure-and-rest-constitutional), [Assembly](core_05-05_definitions_b_semi_independent.md#assembly-constitutional), [Expression](core_05-05_definitions_b_semi_independent.md#expression-constitutional), [Protected Reporting (Whistleblowing)](core_05-05_definitions_b_semi_independent.md#protected-reporting-whistleblowing), [Protected Reporting Retaliation and Access Interference](core_05-05_definitions_b_semi_independent.md#protected-reporting-retaliation-and-access-interference), and [Sentience Non-Exclusion](#sentience-non-exclusion).
+
+</details>
+
+<br>
+
+*In plain terms: every sentient doing productive work has the right to join with others to organize, unionize, form cooperatives, and collectively bargain — and no one may retaliate, surveil, or reclassify workers to defeat that right.*
+
+- **O:** The right of sentients engaged in productive, contributed, or comparable activity to form, join, participate in, and act through collective-organization pathways. Pathways include unions, cooperatives, guilds, associations, worker councils, platform-worker collectives, and comparable substrate-agnostic forms, used to contest and shape the terms of that activity. The floor applies under [Sentience Non-Exclusion](#sentience-non-exclusion). It covers waged, contracted, platformed, cooperative, and comparable arrangements. Ordinary social or purely civic association outside productive-activity scope is governed by [Assembly](core_05-05_definitions_b_semi_independent.md#assembly-constitutional) and [Article IX-B](core_09-09_rights_part_b.md#article-ix-b-stakeholder-role-and-participation-rights), and is not narrowed here.
+<a id="collective-organization-constitutional-e"></a>
+- **E:** Reach substantive effect:
+  - detect classification re-routing that reclassifies workers into categories designed to defeat collective-organization pathways, regardless of formal label;
+  - detect retaliation, surveillance, or targeting of collective-organization activity, consistent with [Protected Reporting Retaliation and Access Interference](core_05-05_definitions_b_semi_independent.md#protected-reporting-retaliation-and-access-interference) and [Article XIII-A](core_09-09_rights_part_c.md#article-xiii-a-security-intelligence-and-covert-power-limits);
+  - detect platform-design or compute-access gating that materially chills collective-organization activity without satisfying [Chapter One §6.3](core_00-01_principles.md#63-freedom-limitation-constraints) limitations tests;
+  - apply [Protected Characteristics](#protected-characteristics-constitutional) and [Protected Characteristic Proxying and Disparate Impact](#protected-characteristic-proxying-and-disparate-impact) to retaliation and targeting logic.
+  <a id="collective-organization-constitutional-c"></a>
+- **C:** Non-compliant: retaliation, surveillance, or targeting of collective-organization activity; classification re-routing designed to defeat collective-organization pathways, regardless of formal label; substrate-class exclusion from scope (under [Sentience Non-Exclusion](#sentience-non-exclusion)); platform- or compute-access gating that chills collective-organization activity without satisfying ordinary limitations tests.
+
+---
+
+<a id="likeness-and-documentary-depiction-interface-constitutional"></a>
+
+##### Likeness and Documentary Depiction Interface
+
+- O: Interaction between publication and recognizably identifiable likeness or voice.
+<a id="likeness-and-documentary-depiction-interface-e"></a>
+- E: Evaluate recognizability, contextual use, and whether depiction is held out as authentic or documentary. Consider synthetic likeness that implicates identity, reputation, or [Dignity and Equal Moral Standing](core_05-05_definitions_a_independent.md#dignity-and-equal-moral-standing) alongside [Creative Work Attribution](#creative-work-attribution-constitutional) and [Privacy (Informational)](#privacy-informational) where materially relevant.
+<a id="likeness-and-documentary-depiction-interface-c"></a>
+- C: Recognizably identifiable **likeness** (including synthetic depiction held out as authentic) remains subject to **Article VIII-A** (including defaults and the **factual reporting** pathway) unless another constitutional provision applies.
 
 ---
 
@@ -494,8 +620,8 @@ This cluster is the joint-invocation home for creative-work training-data use, a
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Downstream: Principles: [§5.1.1 Productive Capacity (Instrumental Good)](core_00-01_principles.md#511-productive-capacity-instrumental-good); [§5.2.2 Distributed Understanding](core_00-01_principles.md#522-distributed-understanding) (attribution / traceability read-with).
-- Cluster component: [Chapter Five §3.5 *Creative Work, Training-Data Use, Attribution, Compensation, and Anti-Displacement*](#creative-work-training-data-attribution-compensation-and-anti-displacement-cluster).
-- Read with: [Training-Data Use](#training-data-use-constitutional), [Anti-Displacement Floor](#anti-displacement-floor-constitutional), [Fair Compensation](#fair-compensation-constitutional), [Good Faith](core_05-05_definitions_a_independent.md#good-faith), [Consent](core_05-05_definitions_b_semi_independent.md#consent-constitutional), [Truth (Constitutional Constraint)](#truth-constitutional-constraint), and [Sentience Non-Exclusion](#sentience-non-exclusion).
+- Cluster component: [Chapter Five §3.5 *Labor and Economic Floor*](#labor-and-economic-floor-cluster).
+- Read with: [Training-Data Use](#training-data-use-constitutional), [Anti-Displacement Floor](#anti-displacement-floor-constitutional), [Fair Compensation](#fair-compensation-constitutional), [Collective Organization](#collective-organization-constitutional), [Safe Conditions](#safe-conditions-constitutional), [Leisure and Rest](#leisure-and-rest-constitutional), [Good Faith](core_05-05_definitions_a_independent.md#good-faith), [Consent](core_05-05_definitions_b_semi_independent.md#consent-constitutional), [Truth (Constitutional Constraint)](#truth-constitutional-constraint), and [Sentience Non-Exclusion](#sentience-non-exclusion).
 
 </details>
 
@@ -513,39 +639,15 @@ This cluster is the joint-invocation home for creative-work training-data use, a
 
 ---
 
-<a id="fair-compensation-constitutional"></a>
+<a id="training-data-use-constitutional"></a>
 
-##### Fair Compensation
+##### Training-Data Use
 
-<details>
-<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
-
-- Downstream: Principles: [2. Foundational Objective: Wellbeing](core_00-01_principles.md#2-foundational-objective-wellbeing); [6.1.4 Minimization of Avoidable Burden](core_00-01_principles.md#614-minimization-of-avoidable-burden) (labor-floor burden vs false efficiency).
-- Owner floor: [Article III-D](core_09-09_rights_part_a.md#article-iii-d-labor-and-economic-floor). Companion routing: `corpus_institutions.md` CI-9 / CI-10 / CI-11.
-- Cluster component: [Chapter Five §3.5 *Creative Work, Training-Data Use, Attribution, Compensation, and Anti-Displacement*](#creative-work-training-data-attribution-compensation-and-anti-displacement-cluster).
-- Read with: [Collective Organization](core_05-05_definitions_b_semi_independent.md#collective-organization-constitutional), [Safe Conditions](core_05-05_definitions_b_semi_independent.md#safe-conditions-constitutional), [Leisure and Rest](core_05-05_definitions_b_semi_independent.md#leisure-and-rest-constitutional), [Substantive Fairness](core_05-05_definitions_b_semi_independent.md#substantive-fairness-constitutional), [Protected Characteristics](core_05-05_definitions_b_semi_independent.md#protected-characteristics-constitutional), [Protected Characteristic Proxying and Disparate Impact](core_05-05_definitions_b_semi_independent.md#protected-characteristic-proxying-and-disparate-impact), [Meaningful Agency](core_05-05_definitions_b_semi_independent.md#meaningful-agency), [Coercion and Manipulation](core_05-05_definitions_b_semi_independent.md#coercion-and-manipulation-constitutional), [Dependency](core_05-05_definitions_a_independent.md#dependency), and [Lifespan Equivalent Unit (LEQU)](core_05-05_definitions_a_independent.md#lifespan-equivalent-unit-lequ) (where quantitative calibration of benefit or deprivation is material).
-
-</details>
-
-<br>
-
-- O: The Rights-Floor concept covering substantive adequacy of compensation for productive, contributed, or comparable activity — waged, contracted, platformed, cooperative, or comparable — under [Sentience Non-Exclusion](#sentience-non-exclusion). Compensation must reach substantive adequacy for participation and wellbeing, track [Substantive Fairness](core_05-05_definitions_b_semi_independent.md#substantive-fairness-constitutional) across comparable activity, and not operate as a coercion or dependency-pressure vector. Ordinary voluntary exchange for goods or services outside sentient-productive-activity scope is out of scope. Rooted in the Article III-D labor and economic floor; read on top of (not as a substitute for) the Article III-A survival floor.
-<a id="fair-compensation-constitutional-e"></a>
-- E: Reach substantive adequacy, not formal contractual satisfaction. Apply [Substantive Fairness](core_05-05_definitions_b_semi_independent.md#substantive-fairness-constitutional) to comparable activity; apply [Protected Characteristics](core_05-05_definitions_b_semi_independent.md#protected-characteristics-constitutional) and [Protected Characteristic Proxying and Disparate Impact](core_05-05_definitions_b_semi_independent.md#protected-characteristic-proxying-and-disparate-impact) to distributional effects; apply [Coercion and Manipulation](core_05-05_definitions_b_semi_independent.md#coercion-and-manipulation-constitutional) and [Meaningful Agency](core_05-05_definitions_b_semi_independent.md#meaningful-agency) to dependency-pressure analysis. Survival-floor satisfaction alone, and [Chapter One §5.1.1](core_00-01_principles.md#511-productive-capacity-instrumental-good) non-concentration satisfaction alone, do not satisfy this entry.
-<a id="fair-compensation-constitutional-c"></a>
-- C: Non-compliant: compensation schemes whose effects track [Protected Characteristics](core_05-05_definitions_b_semi_independent.md#protected-characteristics-constitutional) or their material proxies; compensation used as coercion or dependency-pressure vector ([Coercion and Manipulation](core_05-05_definitions_b_semi_independent.md#coercion-and-manipulation-constitutional)); reading this entry as satisfied purely by survival-floor or §5.1 non-concentration compliance; substrate-class exclusion ([Sentience Non-Exclusion](#sentience-non-exclusion)).
-
----
-
-<a id="likeness-and-documentary-depiction-interface-constitutional"></a>
-
-##### Likeness and Documentary Depiction Interface
-
-- O: Interaction between publication and recognizably identifiable likeness or voice.
-<a id="likeness-and-documentary-depiction-interface-e"></a>
-- E: Evaluate recognizability, contextual use, and whether depiction is held out as authentic or documentary. Consider synthetic likeness that implicates identity, reputation, or [Dignity and Equal Moral Standing](core_05-05_definitions_a_independent.md#dignity-and-equal-moral-standing) alongside [Creative Work Attribution](#creative-work-attribution-constitutional) and [Privacy (Informational)](#privacy-informational) where materially relevant.
-<a id="likeness-and-documentary-depiction-interface-c"></a>
-- C: Recognizably identifiable **likeness** (including synthetic depiction held out as authentic) remains subject to **Article VIII-A** (including defaults and the **factual reporting** pathway) unless another constitutional provision applies.
+- O: Use of sentient-produced creative, expressive, personal, experiential, or otherwise identifiable work as training data for generative, analytical, or comparable systems, read with **[Article VIII-D](core_09-09_rights_part_b.md#article-viii-d-creative-work-training-data-use-and-anti-displacement)** and this §3.5 cluster. Consent, experiential-data, privacy, and attribution duties apply jointly; defending use on non-personal-data grounds alone does not satisfy this entry where work is sentient-produced and materially identifiable.
+<a id="training-data-use-constitutional-e"></a>
+- E: Evaluate scope, purpose, duration, downstream reuse, revocation, aggregation risk, and re-identification under [Consent](core_05-05_definitions_b_semi_independent.md#consent-constitutional), **[Article VIII-B](core_09-09_rights_part_b.md#article-viii-b-experiential-and-derived-data-rights)**, [Privacy (Informational)](#privacy-informational), and [Creative Work Attribution](#creative-work-attribution-constitutional).
+<a id="training-data-use-constitutional-c"></a>
+- C: Training-data pipelines that strip consent, substantive attribution, or required informational discipline by segmentation across privacy, licensing, or aggregate-processing labels are non-compliant where **Article VIII-D** joint invocation materially applies.
 
 ---
 
@@ -558,8 +660,8 @@ This cluster is the joint-invocation home for creative-work training-data use, a
 
 - Downstream: Principles: [§5.1.1 Productive Capacity (Instrumental Good)](core_00-01_principles.md#511-productive-capacity-instrumental-good); [§5.1.3 Concentration Threshold Mechanism](core_00-01_principles.md#513-concentration-threshold-mechanism-adopter-tunable) (displacement at population scale read-with §5.1 stack).
 - Owner floors: [Article III-D](core_09-09_rights_part_a.md#article-iii-d-labor-and-economic-floor) (labor-and-economic, cross-cutting) and [Article VIII-D](core_09-09_rights_part_b.md#article-viii-d-creative-work-training-data-use-and-anti-displacement) (creative-work application).
-- Cluster component: [Chapter Five §3.5 *Creative Work, Training-Data Use, Attribution, Compensation, and Anti-Displacement*](#creative-work-training-data-attribution-compensation-and-anti-displacement-cluster).
-- Read with: [Fair Compensation](#fair-compensation-constitutional), [Collective Organization](core_05-05_definitions_b_semi_independent.md#collective-organization-constitutional), [Creative Work Attribution](#creative-work-attribution-constitutional), [Training-Data Use](#training-data-use-constitutional), [Productive Capacity](core_05-05_definitions_b_semi_independent.md#productive-capacity-constitutional), [Avoidable Burden](core_05-05_definitions_b_semi_independent.md#avoidable-burden), [Proxy Divergence](core_05-05_definitions_b_semi_independent.md#proxy-divergence), and [Sentience Non-Exclusion](#sentience-non-exclusion).
+- Cluster component: [Chapter Five §3.5 *Labor and Economic Floor*](#labor-and-economic-floor-cluster).
+- Read with: [Fair Compensation](#fair-compensation-constitutional), [Collective Organization](#collective-organization-constitutional), [Safe Conditions](#safe-conditions-constitutional), [Leisure and Rest](#leisure-and-rest-constitutional), [Creative Work Attribution](#creative-work-attribution-constitutional), [Training-Data Use](#training-data-use-constitutional), [Productive Capacity](core_05-05_definitions_b_semi_independent.md#productive-capacity-constitutional), [Avoidable Burden](core_05-05_definitions_b_semi_independent.md#avoidable-burden), [Proxy Divergence](core_05-05_definitions_b_semi_independent.md#proxy-divergence), and [Sentience Non-Exclusion](#sentience-non-exclusion).
 
 </details>
 
@@ -576,7 +678,7 @@ This cluster is the joint-invocation home for creative-work training-data use, a
   - apply [Proxy Divergence](core_05-05_definitions_b_semi_independent.md#proxy-divergence) and [Avoidable Burden](core_05-05_definitions_b_semi_independent.md#avoidable-burden); aggregate-productivity, efficiency, innovation, and [Productive Capacity](core_05-05_definitions_b_semi_independent.md#productive-capacity-constitutional) framings do not satisfy the floor where underlying sentient-labor outcomes degrade;
   - cover [Adversarial, Scaled, and Exploited Conditions](core_05-05_definitions_a_independent.md#adversarial-scaled-and-exploited-conditions), including gradual ratcheting, platform-consolidation pressure, and cross-domain substitution;
   - where deployment shows concentration characteristics, interact explicitly with the [Chapter One §5.1.1](core_00-01_principles.md#511-productive-capacity-instrumental-good) non-concentration principle and the [§5.1.3](core_00-01_principles.md#513-concentration-threshold-mechanism-adopter-tunable) threshold mechanism.
-<a id="anti-displacement-floor-constitutional-c"></a>
+  <a id="anti-displacement-floor-constitutional-c"></a>
 - C: Non-compliant with the floor:
   - "aggregate productivity" or "aggregate welfare" framing used to erase displacement at population scale;
   - nominal mitigation — e.g., token compensation, unused transition programs, or inaccessible attribution schemes;

@@ -22,9 +22,9 @@ Below, entries are **grouped by topic** for reading convenience (non-operative o
 
 <a id="accountability-contestability-semi-independent"></a>
 
-#### Accountability, contestability, adjudication, collective failure, force majeure, and resolution-pathway capture
+#### Accountability, contestability, and redress pathways
 
-**Cluster context:** This semi-independent topic group provides the canonical O/E/C home for these definitions. Joint invocation discipline applies where indicated in individual entry traces.
+**Cluster context:** This semi-independent topic group establishes the foundational mechanisms for holding actors responsible and seeking correction of constitutional violations. It covers the attribution of responsibility ([Accountability](#accountability)), the ability to challenge and seek remedy ([Contestability](#contestability)), formal pathways for resolving disputes ([Adjudication and Dispute Resolution](#adjudication-and-dispute-resolution-constitutional)), systemic failures where responsibility is diffused ([Collective Accountability Failure](#collective-accountability-failure)), exceptional external disruptions ([Force Majeure](#force-majeure-constitutional)), and protection against capture of outcome-determination mechanisms ([Capture of Resolution Pathways](#capture-of-resolution-pathways)). These definitions operate together where review, redress, or resolution of constitutional claims is material.
 
 **Topic group members.** This group comprises:
 - [Accountability](#accountability);
@@ -175,7 +175,7 @@ Below, entries are **grouped by topic** for reading convenience (non-operative o
 
 #### Protected reporting and anti-retaliation
 
-**Cluster context:** This semi-independent topic group provides the canonical O/E/C home for these definitions. Joint invocation discipline applies where indicated in individual entry traces.
+**Cluster context:** This semi-independent topic group secures the channels through which constitutional violations, safety failures, and systemic harms are brought to light. [Protected Reporting (Whistleblowing)](#protected-reporting-whistleblowing) establishes the scope of disclosures shielded from reprisal, while [Protected Reporting Retaliation and Access Interference](#protected-reporting-retaliation-and-access-interference) defines prohibited responses and access-blocking tactics that would chill legitimate reporting. These definitions protect the information pathways essential to [Accountability](#accountability), [Contestability](#contestability), and [Auditability](core_05-05_definitions_c_dependent_clusters.md#auditability).
 
 **Topic group members.** This group comprises:
 - [Protected Reporting (Whistleblowing)](#protected-reporting-whistleblowing);
@@ -232,9 +232,9 @@ Below, entries are **grouped by topic** for reading convenience (non-operative o
 
 <a id="assembly-collective-organization-institutional-formation-semi-independent"></a>
 
-#### Assembly, Collective Organization, and Institutional Formation
+#### Assembly, collective organization, and institutional formation
 
-**Cluster context:** This semi-independent topic group provides the canonical O/E/C home for these definitions. Joint invocation discipline applies where indicated in individual entry traces.
+**Cluster context:** This semi-independent topic group establishes the rights-floor foundations for collective action and institutional creation. [Assembly](#assembly-constitutional) covers gathering and association for expressive, political, and community purposes. [Collective Organization](#collective-organization-constitutional) protects worker organizing and collective bargaining within productive activity. [System Creation](#system-creation-constitutional) secures the right to establish non-commercial institutions (educational, cultural, scientific, mutual aid). [Business Creation](#business-creation-constitutional) protects entrepreneurial and commercial enterprise formation. Together these definitions implement [Freedom (Bounded Agency)](core_05-05_definitions_a_independent.md#freedom-bounded-agency) through substrate-agnostic collective and institutional capacity.
 
 **Topic group members.** This group comprises:
 - [Assembly](#assembly-constitutional);
@@ -286,7 +286,7 @@ Below, entries are **grouped by topic** for reading convenience (non-operative o
 
 - Downstream: Principles: [§8 Freedom (Bounded Agency)](core_00-01_principles.md#8-freedom-bounded-agency); [7.1 Required Evaluation Factors](core_00-01_principles.md#71-required-evaluation-factors) (materiality / dependency scaling for collective voice).
 - Owner floor: [Article III-D](core_09-09_rights_part_a.md#article-iii-d-labor-and-economic-floor). Read with [Article IX-B](core_09-09_rights_part_b.md#article-ix-b-stakeholder-role-and-participation-rights) and [Article XIII-A](core_09-09_rights_part_c.md#article-xiii-a-security-intelligence-and-covert-power-limits) covert-power limits.
-- Read with: the [Assembly, Collective Organization, and Institutional Formation cluster](core_05-05_definitions_c_dependent_clusters.md#assembly-collective-organization-institutional-formation-cluster), [Fair Compensation](#fair-compensation-constitutional), [Safe Conditions](#safe-conditions-constitutional), [Leisure and Rest](#leisure-and-rest-constitutional), [Assembly](#assembly-constitutional), [Expression](#expression-constitutional), [Protected Reporting (Whistleblowing)](#protected-reporting-whistleblowing), [Protected Reporting Retaliation and Access Interference](#protected-reporting-retaliation-and-access-interference), and [Sentience Non-Exclusion](core_05-05_definitions_c_dependent_clusters.md#sentience-non-exclusion).
+- Read with: the [Assembly, Collective Organization, and Institutional Formation cluster](core_05-05_definitions_c_dependent_clusters.md#assembly-collective-organization-institutional-formation-cluster), [Fair Compensation](#fair-compensation-constitutional), [Safe Conditions](core_05-05_definitions_c_dependent_clusters.md#safe-conditions-constitutional), [Leisure and Rest](core_05-05_definitions_c_dependent_clusters.md#leisure-and-rest-constitutional), [Assembly](#assembly-constitutional), [Expression](#expression-constitutional), [Protected Reporting (Whistleblowing)](#protected-reporting-whistleblowing), [Protected Reporting Retaliation and Access Interference](#protected-reporting-retaliation-and-access-interference), and [Sentience Non-Exclusion](core_05-05_definitions_c_dependent_clusters.md#sentience-non-exclusion).
 
 </details>
 
@@ -376,14 +376,15 @@ Below, entries are **grouped by topic** for reading convenience (non-operative o
 
 ---
 
+<a id="constitutional-efficiency-productive-capacity-avoidable-burden-semi-independent"></a>
+
 #### Constitutional efficiency, productive capacity, avoidable burden, and burden-reduction duty
 
-**Cluster context:** This semi-independent cluster is the ordinary capacity-efficiency-burden home for **Constitutional Efficiency**, **Productive Capacity**, **Avoidable Burden**, and **Burden-Reduction Duty**. It governs stewardship, incentive, process-design, complexity, and shared-system-capacity analysis where those terms operate together but the full limitations stack is not otherwise triggered. Where a matter falls within [the dependent cluster](core_05-05_definitions_c_dependent_clusters.md#proportionality-necessity-feasibility-burden-and-efficiency-cluster), the dependent cluster controls joint satisfaction with [Proportionality](core_05-05_definitions_a_independent.md#proportionality), [Necessity](core_05-05_definitions_a_independent.md#necessity), [Feasibility](core_05-05_definitions_a_independent.md#feasibility), and [Harm Minimization (Tradeoff Selection)](core_05-05_definitions_a_independent.md#harm-minimization-tradeoff-selection). This cluster does not authorize lowering burden, raising output, or improving apparent efficiency by weakening [Safety (Constraint)](core_05-05_definitions_a_independent.md#safety-constraint), [Truth (Constitutional Constraint)](core_05-05_definitions_c_dependent_clusters.md#truth-constitutional-constraint), the Chapter Nine Rights Floor, audit, [Contestability](#contestability), or retrospective-review obligations.
+**Cluster context:** This semi-independent topic group governs the relationship between resource investment and constitutional outcomes. [Constitutional Efficiency](#constitutional-efficiency) measures outcome-per-resource-consumed for constitutionally aligned results. [Productive Capacity](#productive-capacity-constitutional) defines the system-level ability for meaningful participation without exploitation. [Avoidable Burden](#avoidable-burden) identifies costs not traceable to constitutional outcomes. [Burden-Reduction Duty](#burden-reduction-duty-constitutional) imposes an affirmative stewardship obligation to minimize such friction. Where these concepts intersect with proportionality, necessity, and feasibility constraints, [the dependent cluster](core_05-05_definitions_c_dependent_clusters.md#proportionality-necessity-feasibility-burden-and-efficiency-cluster) governs joint satisfaction. This cluster does not authorize efficiency gains or burden reduction achieved by weakening [Safety (Constraint)](core_05-05_definitions_a_independent.md#safety-constraint), [Truth (Constitutional Constraint)](core_05-05_definitions_c_dependent_clusters.md#truth-constitutional-constraint), the Chapter Nine Rights Floor, audit, [Contestability](#contestability), or retrospective-review obligations.
 
 **Evaluation measure.** Where magnitude assessment is material, [Lifespan Equivalent Unit (LEQU)](core_05-05_definitions_a_independent.md#lifespan-equivalent-unit-lequ) may serve as one potential calibration measure for evaluating the scale of productive capacity contribution, burden reduction achievement, or efficiency gains in constitutional-outcome terms.
 
-**Cluster terms.** This semi-independent cluster comprises:
-
+**Topic group members.** This group comprises:
 - [Constitutional Efficiency](#constitutional-efficiency);
 - [Productive Capacity](#productive-capacity-constitutional);
 - [Avoidable Burden](#avoidable-burden);
@@ -487,7 +488,7 @@ Below, entries are **grouped by topic** for reading convenience (non-operative o
 
 #### Agency, consent, and anti-coercion
 
-**Cluster context:** This semi-independent topic group provides the canonical O/E/C home for these interdependent definitions. Joint invocation discipline applies where indicated in individual entry traces.
+**Cluster context:** This semi-independent topic group establishes the foundations for self-determination and voluntary participation. [Meaningful Agency](#meaningful-agency) defines the practical capacity for informed, uncoerced choice. [Consent](#consent-constitutional) establishes requirements for valid agreement to participation, data use, or ongoing association. [Consent, Sexual](#consent-sexual) provides heightened specificity for sexual contact and intimacy contexts. [Coercion and Manipulation](#coercion-and-manipulation-constitutional) identifies conduct that subverts genuine voluntariness. These definitions protect [Freedom (Bounded Agency)](core_05-05_definitions_a_independent.md#freedom-bounded-agency) by ensuring choices reflect authentic understanding rather than exploitation of [Dependency](core_05-05_definitions_a_independent.md#dependency) or deceptive design.
 
 **Topic group members.** This group comprises:
 - [Meaningful Agency](#meaningful-agency);
@@ -591,11 +592,11 @@ Below, entries are **grouped by topic** for reading convenience (non-operative o
 
 ---
 
-<a id="substantive-and-procedural-fairness-semi-independent"></a>
+<a id="fairness-and-protected-status-semi-independent"></a>
 
-#### Protected characteristics, proxying, intimate-signal gating, and Article X-C status
+#### Fairness, protected characteristics, and nondiscrimination
 
-**Cluster context:** This semi-independent topic group provides the canonical O/E/C home for these definitions. Joint invocation discipline applies where indicated in individual entry traces.
+**Cluster context:** This semi-independent topic group establishes equality and fairness disciplines. [Substantive Fairness](#substantive-fairness-constitutional) governs outcome-focused distribution of benefits and burdens. [Procedural Fairness](#procedural-fairness-constitutional) ensures meaningful process for rights-affecting decisions. [Protected Characteristics](#protected-characteristics-constitutional) enumerates traits that must not serve as bases for invidious disadvantage. [Protected Characteristic Proxying and Disparate Impact](#protected-characteristic-proxying-and-disparate-impact) reaches facially neutral rules that replicate prohibited discrimination. [Protected Intimate-Signal Gating](#protected-intimate-signal-gating) restricts use of intimate media and sexual history for gating decisions. [Protected Commercial Sexual Services Status and Article X-C Circumvention](#protected-commercial-sexual-services-status-and-article-x-c-circumvention) prevents circumvention of Article X-C decriminalization protections. Together these definitions implement [Article V-B](core_09-09_rights_part_b.md#article-v-b-nondiscrimination) nondiscrimination guarantees.
 
 **Topic group members.** This group comprises:
 - [Substantive Fairness](#substantive-fairness-constitutional);
@@ -769,9 +770,9 @@ Below, entries are **grouped by topic** for reading convenience (non-operative o
 
 <a id="family-care-reproductive-autonomy-derivation-and-instantiation-semi-independent"></a>
 
-#### Family, Care, Reproductive Autonomy, Derivation, and Instantiation
+#### Family, care, reproductive autonomy, and instantiation
 
-**Cluster context:** This semi-independent topic group provides the canonical O/E/C home for these definitions. Joint invocation discipline applies where indicated in individual entry traces.
+**Cluster context:** This semi-independent topic group governs foundational relationships and creation of new sentients. [Family and Care Relationships](#family-and-care-relationships-constitutional) protects chosen relationships of support and intimacy. [Reproductive Autonomy](#reproductive-autonomy-constitutional) secures decision-making over reproductive and family-forming choices. [Non-Separation](#non-separation-constitutional) limits forced separation from protected care relationships. [Derived Sentient](#derived-sentient-constitutional) and [Developing Sentient](#developing-sentient-constitutional) establish constitutional status for sentients created through derivation or still emerging in capability. [Best-Interest Standard](#best-interest-standard-constitutional), [Graduated Capability](#graduated-capability-constitutional), and [Instantiation Consent](#instantiation-consent-constitutional) provide safeguards for decisions affecting developing or newly created sentients. [Parent-System Relationship](#parent-system-relationship-constitutional) defines the stewardship relationship between creator and created. These definitions implement [Article VII-D](core_09-09_rights_part_b.md#article-vii-d-family-care-relationships-reproductive-autonomy-and-non-separation) and [Article V-F](core_09-09_rights_part_b.md#article-v-f-developing-sentients-best-interest-and-graduated-capability).
 
 **Topic group members.** This group comprises:
 - [Family and Care Relationships](#family-and-care-relationships-constitutional);
@@ -978,9 +979,9 @@ Below, entries are **grouped by topic** for reading convenience (non-operative o
 
 <a id="ecological-footprint-semi-independent"></a>
 
-#### Ecological footprint (semi-independent surface)
+#### Ecological integrity, footprint, and sustainability
 
-**Cluster context:** This semi-independent topic group provides the canonical O/E/C home for these definitions. Joint invocation discipline applies where indicated in individual entry traces.
+**Cluster context:** This semi-independent topic group governs environmental stewardship and intergenerational duty. [Ecological Integrity](#ecological-integrity-constitutional) defines the condition and resilience of natural systems required for sentient survival. [Ecological Footprint](#ecological-footprint) measures attributable environmental flows across lifecycles. [Sustainability](#sustainability) establishes the capacity to maintain environmental preconditions without burden-shifting to other communities, systems, or future sentients. [Intergenerational Responsibility](#intergenerational-responsibility-constitutional) imposes the duty to account for foreseeable effects of present decisions on future sentients and ecological systems. These definitions implement [Article I-A](core_09-09_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity) and [Article I-B](core_09-09_rights_part_a.md#article-i-b-ecological-footprint-and-transparency).
 
 **Topic group members.** This group comprises:
 - [Ecological Integrity](#ecological-integrity-constitutional);
@@ -1086,9 +1087,9 @@ Below, entries are **grouped by topic** for reading convenience (non-operative o
 
 <a id="emergency-and-contingency-semi-independent"></a>
 
-#### Emergency and contingency (constitutional, stakeholder-system, and pre-deliberation binding choice)
+#### Emergency and contingency
 
-**Cluster context:** This semi-independent topic group provides the canonical O/E/C home for these definitions. Joint invocation discipline applies where indicated in individual entry traces.
+**Cluster context:** This semi-independent topic group establishes protocols for temporary deviation from ordinary rules during exigent conditions. [Emergency and Contingency](#emergency-and-contingency-constitutional) is the cluster head governing all emergency frameworks. [Constitutional Emergency and Contingency](#constitutional-emergency-and-contingency) addresses emergencies affecting the authorization of governing authority itself — the [Constitutional Contract Layer](core_05-05_definitions_a_independent.md#constitutional-contract-layer). [Stakeholder Emergency and Contingency](#stakeholder-emergency-and-contingency) governs emergencies within already-authorized systems — the Stakeholder System Participation layer. [Emergency Pre-Deliberation Action (Binding Collective Choice)](#emergency-pre-deliberation-action-binding-collective-choice) provides narrow exceptions for binding action before full deliberation where delay would cause imminent harm. These definitions implement [Article XXIII-D](core_09-09_rights_part_d.md#article-xxiii-d-emergency-measures-and-continuation-burden) and preserve [Safety (Constraint)](core_05-05_definitions_a_independent.md#safety-constraint), [Truth (Constitutional Constraint)](core_05-05_definitions_c_dependent_clusters.md#truth-constitutional-constraint), and [Contestability](#contestability) during crises.
 
 **Topic group members.** This group comprises:
 - [Emergency and Contingency](#emergency-and-contingency-constitutional);
@@ -1200,9 +1201,9 @@ Below, entries are **grouped by topic** for reading convenience (non-operative o
 
 <a id="governance-structure-decentralization-concentration-semi-independent"></a>
 
-#### Governance structure, decentralization, and concentration
+#### Governance architecture, decentralization, and concentration
 
-**Cluster context:** This semi-independent topic group provides the canonical O/E/C home for governance architecture concepts. Joint invocation discipline applies where indicated in individual entry traces.
+**Cluster context:** This semi-independent topic group establishes the structural framework for how authority is organized and constrained. [Governance](#governance) defines the structures, rules, and processes by which systems are directed and held accountable. [Decentralization](#decentralization) requires placement of authority at the least centralized scale that can satisfy binding requirements. [Concentration Threshold](#concentration-threshold-constitutional) provides the operational trigger for heightened review when material concentration reaches problematic levels. These definitions implement [Chapter One §5.1](core_00-05_principles.md#51-shared-system-capacity) non-concentration discipline and constrain [System Capture](core_05-05_definitions_a_independent.md#system-capture) through distributed, accountable authority structures.
 
 **Topic group members.** This group comprises:
 - [Governance](#governance);
@@ -1295,9 +1296,9 @@ Below, entries are **grouped by topic** for reading convenience (non-operative o
 
 <a id="system-boundaries-exit-integrity-semi-independent"></a>
 
-#### System definition, boundaries, and integrity
+#### System boundaries, integrity, and exit
 
-**Cluster context:** This semi-independent topic group provides the canonical O/E/C home for defining system scope, functional boundaries, and boundary integrity for constitutional evaluation. These definitions establish how systems are identified, how their boundaries are drawn based on material impact and dependency, and how boundary manipulation or systemic lock-in defeats accountability. Joint invocation discipline applies where indicated in individual entry traces.
+**Cluster context:** This semi-independent topic group establishes how constitutional evaluation scopes and constrains system behavior. [System](#system-definition) provides the foundational definition of structured components producing effects on sentients. [System Boundaries](#system-boundaries) defines functional scope based on material impact and dependency rather than formal or jurisdictional limits. [System Boundary Integrity](#system-boundary-integrity) requires accuracy and stability in boundary definition to prevent manipulation. [Systemic Lock-In](#systemic-lock-in) identifies conditions where exit or corrective action is foreclosed, negating [Meaningful Agency](#meaningful-agency) and [Contestability](#contestability). These definitions ensure systems are evaluated in full functional scope with meaningful pathways for change and exit.
 
 **Topic group members.** This group comprises:
 - [System](#system-definition);
@@ -1374,7 +1375,7 @@ Below, entries are **grouped by topic** for reading convenience (non-operative o
 
 #### Stewardship, review, and correction
 
-**Cluster context:** This semi-independent topic group defines the stewardship lifecycle: the affirmative duty to govern strategically toward constitutional alignment; the identification of material failures when that duty is breached; and the ongoing obligation to revalidate claims and correct course based on observable evidence. Joint invocation discipline applies where indicated in individual entry traces.
+**Cluster context:** This semi-independent topic group establishes the stewardship lifecycle for sustained constitutional alignment. [Strategic Stewardship Obligation](#strategic-stewardship-obligation-constitutional) imposes the affirmative duty to govern strategy and incentives toward constitutional outcomes over time. [Stewardship Defect](#stewardship-defect-constitutional) identifies material failures of that duty. [Review and Correction Duty](#review-and-correction-duty-constitutional) requires periodic revalidation of claims and course correction when evidence shows drift. These definitions operationalize [Chapter One §5.2](core_00-01_principles.md#52-stewardship-and-distributed-understanding) stewardship principles and ensure governance remains accountable to observable outcomes rather than static documentation.
 
 **Topic group members.** This group comprises:
 - [Strategic Stewardship Obligation](#strategic-stewardship-obligation-constitutional);
@@ -1457,9 +1458,9 @@ Below, entries are **grouped by topic** for reading convenience (non-operative o
 
 <a id="stakeholder-identification-participation-semi-independent"></a>
 
-#### Stakeholder identification and participation
+#### Stakeholder status and participation weight
 
-**Cluster context:** This semi-independent topic group provides the canonical O/E/C home for stakeholder status and participation-weight definitions. Joint invocation discipline applies where indicated in individual entry traces.
+**Cluster context:** This semi-independent topic group defines who has standing in materially rights-affecting decisions and how influence scales. [Stakeholder](#stakeholder) identifies sentients who use, depend upon, or are materially affected by a system — establishing the "who" of participation. [Stakeholder Participation Weight](#stakeholder-participation-weight) determines how voice and influence scale within already-authorized governance structures — establishing the "how much" of participation. This operates in the **Stakeholder System Participation** layer, distinct from the [Constitutional Contract Layer](core_05-05_definitions_a_independent.md#constitutional-contract-layer) where [Foundational Constitutional Choice](core_05-05_definitions_a_independent.md#foundational-constitutional-choice) and political-equality (not impact-proportional weight) governs authorization of governing authority. These definitions implement [Article IX-B](core_09-09_rights_part_b.md#article-ix-b-stakeholder-role-and-participation-rights) and [Article XI](core_09-09_rights_part_b.md#article-xi-stakeholder-system-participation-representation-and-due-process).
 
 **Topic group members.** This group comprises:
 - [Stakeholder](#stakeholder);
@@ -1512,18 +1513,14 @@ Below, entries are **grouped by topic** for reading convenience (non-operative o
 
 <a id="safe-conditions-continuity-semi-independent"></a>
 
-#### Safe conditions, bodily maintenance, tenure, environment, rest, and cultural / indigenous continuity
+#### Survival-floor continuity: bodily maintenance, tenure, and environment
 
-**Cluster context:** This semi-independent topic group provides the canonical O/E/C home for these definitions. Joint invocation discipline applies where indicated in individual entry traces.
+**Cluster context:** This semi-independent topic group establishes the foundational conditions that preserve sentient life, function, and capacity for agency. [Bodily-Maintenance Access](#bodily-maintenance-access-constitutional) secures healthcare and maintenance services necessary for life preservation across all substrates. [Tenure Security](#tenure-security-constitutional) protects procedural and substantive stability of essential shelter and operating-environment relationships. [Environmental Preconditions](#environmental-preconditions-constitutional) establishes the biophysical conditions — stable climate, functioning ecosystems, clean air and water — on which sentient survival depends. These definitions operate as a survival-floor stack implementing [Article III](core_09-09_rights_part_a.md#article-iii-survival) (Survival Floor) and [Article I-A](core_09-09_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity). **Note:** [Safe Conditions](core_05-05_definitions_c_dependent_clusters.md#safe-conditions-constitutional) and [Leisure and Rest](core_05-05_definitions_c_dependent_clusters.md#leisure-and-rest-constitutional) have been migrated to the [Labor and Economic Floor cluster](core_05-05_definitions_c_dependent_clusters.md#labor-and-economic-floor-cluster) in Section 3.5, where they participate in the joint-invocation home for Article III-D labor and economic floor rights together with Fair Compensation and Collective Organization.
 
 **Topic group members.** This group comprises:
 - [Bodily-Maintenance Access](#bodily-maintenance-access-constitutional);
-- [Safe Conditions](#safe-conditions-constitutional);
 - [Tenure Security](#tenure-security-constitutional);
-- [Environmental Preconditions](#environmental-preconditions-constitutional);
-- [Leisure and Rest](#leisure-and-rest-constitutional);
-- [Indigenous Continuity](#indigenous-continuity-constitutional);
-- [Language, Culture, and Heritage](#language-culture-and-heritage-constitutional).
+- [Environmental Preconditions](#environmental-preconditions-constitutional).
 
 <a id="bodily-maintenance-access-constitutional"></a>
 
@@ -1535,7 +1532,7 @@ Below, entries are **grouped by topic** for reading convenience (non-operative o
 
 - Downstream: Principles: [2. Foundational Objective: Wellbeing](core_00-01_principles.md#2-foundational-objective-wellbeing); [3. Non-Negotiable Constraints: Safety and Truth](core_00-01_principles.md#3-non-negotiable-constraints-safety-and-truth) (**Safety** stack read with survival-floor access).
 - Owner floor: [Article III-C](core_09-09_rights_part_a.md#article-iii-c-bodily-maintenance-and-healthcare-access); read with Article VII-A non-intrusion and Article VII-C involuntary-intervention floor.
-- Cluster component: [Bodily-Maintenance Access, Safe Conditions, Tenure Security, Environmental Preconditions, Cultural Continuity, Rest, and Anti-Displacement Floor](core_05-05_definitions_c_dependent_clusters.md#safe-conditions-tenure-security-and-environmental-preconditions-cluster) where care access is materially tied to survival-floor continuity, safe participation conditions, rest / recuperation, tenure, essential operating environments, or environmental preconditions.
+- Cluster component: [Bodily-Maintenance Access, Tenure Security, Environmental Preconditions, Cultural Continuity, and Anti-Displacement Floor](core_05-05_definitions_c_dependent_clusters.md#safe-conditions-tenure-security-and-environmental-preconditions-cluster) where care access is materially tied to survival-floor continuity, tenure, essential operating environments, or environmental preconditions. (Safe Conditions and Rest now in Section 3.5 Labor and Economic Floor cluster.)
 
 </details>
 
@@ -1548,34 +1545,6 @@ Below, entries are **grouped by topic** for reading convenience (non-operative o
 - C: Non-compliant: denial or material degradation of access whose effect defeats the floor, regardless of the formal framing of the gating mechanism; substrate-class exclusions; narrowing the floor on efficiency, allocation, or administrative-convenience grounds without satisfying [Necessity](core_05-05_definitions_a_independent.md#necessity), [Proportionality](core_05-05_definitions_a_independent.md#proportionality), and applicable fairness tests.
 
 
-<a id="safe-conditions-constitutional"></a>
-
----
-#### Safe Conditions
-
-<details>
-<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
-
-- Downstream: Principles: [7.1 Required Evaluation Factors](core_00-01_principles.md#71-required-evaluation-factors) (substantive participation and materiality under **accessibility** evaluation); [3. Non-Negotiable Constraints: Safety](core_00-01_principles.md#3-non-negotiable-constraints-safety-and-truth) (**Safety** stack read with labor-floor role of this entry).
-- Owner floor: [Article III-D](core_09-09_rights_part_a.md#article-iii-d-labor-and-economic-floor). Systems-layer companion: [Article XII-A](core_09-09_rights_part_c.md#article-xii-a-reliability-and-trustworthiness-baseline). Operational profile: `corpus_systems.md` Protocol A safety profiles where applicable.
-- Cluster component: [Bodily-Maintenance Access, Safe Conditions, Tenure Security, Environmental Preconditions, Cultural Continuity, Rest, and Anti-Displacement Floor](core_05-05_definitions_c_dependent_clusters.md#safe-conditions-tenure-security-and-environmental-preconditions-cluster).
-- Read with: [Fair Compensation](#fair-compensation-constitutional), [Collective Organization](#collective-organization-constitutional), [Leisure and Rest](#leisure-and-rest-constitutional), [Safety (Constraint)](core_05-05_definitions_a_independent.md#safety-constraint), [Adversarial, Scaled, and Exploited Conditions](core_05-05_definitions_a_independent.md#adversarial-scaled-and-exploited-conditions), [Harm](core_05-05_definitions_c_dependent_clusters.md#harm), [Risk](core_05-05_definitions_a_independent.md#risk), [Reversibility](core_05-05_definitions_a_independent.md#reversibility-constitutional), and [Sentience Non-Exclusion](core_05-05_definitions_c_dependent_clusters.md#sentience-non-exclusion).
-
-</details>
-
-<br>
-
-- O: The Rights-Floor concept covering conditions under which productive, contributed, or comparable activity of sentients is conducted such that foreseeable harm risk is limited — consistent with [Safety (Constraint)](core_05-05_definitions_a_independent.md#safety-constraint), [Reversibility](core_05-05_definitions_a_independent.md#reversibility-constitutional), and [Adversarial, Scaled, and Exploited Conditions](core_05-05_definitions_a_independent.md#adversarial-scaled-and-exploited-conditions), under [Sentience Non-Exclusion](core_05-05_definitions_c_dependent_clusters.md#sentience-non-exclusion) as both activity participants and activity-affected. A labor-floor concept: ordinary safety discipline of non-labor contexts is governed elsewhere (notably [Article XII-A](core_09-09_rights_part_c.md#article-xii-a-reliability-and-trustworthiness-baseline) at the systems layer). This entry is the labor-floor counterpart and operates on top of those disciplines without narrowing them.
-<a id="safe-conditions-constitutional-e"></a>
-- E: Reach substantive effect. Apply [Adversarial, Scaled, and Exploited Conditions](core_05-05_definitions_a_independent.md#adversarial-scaled-and-exploited-conditions) to foreseeable risk rather than benign-conditions benchmarks. Detect substrate-class exclusion from safety-obligation scope. Integrate [Article XII-A](core_09-09_rights_part_c.md#article-xii-a-reliability-and-trustworthiness-baseline) systems-layer reliability where tools and systems mediate the activity. Apply [Protected Characteristic Proxying and Disparate Impact](#protected-characteristic-proxying-and-disparate-impact) where risk distribution tracks protected characteristics or their material proxies. Refuse "general-safety" **framing** that defers to background legal-compliance frameworks without substantive-effect analysis.
-<a id="safe-conditions-constitutional-c"></a>
-- C: Non-compliant:
-  - safe-conditions obligations that do not reach substantive effect;
-  - substrate-class exclusion from safe-conditions scope ([Sentience Non-Exclusion](core_05-05_definitions_c_dependent_clusters.md#sentience-non-exclusion));
-  - risk-distribution schemes whose effects track protected characteristics or their material proxies;
-  - reading this entry as satisfied by formal background **contribution** **claims** where the participation-facing risk effect fails.
-
-
 <a id="tenure-security-constitutional"></a>
 
 ---
@@ -1586,14 +1555,14 @@ Below, entries are **grouped by topic** for reading convenience (non-operative o
 
 - Downstream: Principles: [2. Foundational Objective: Wellbeing](core_00-01_principles.md#2-foundational-objective-wellbeing) (survival / shelter continuity); [6.4.1 Rights-Collision Decision Test](core_00-01_principles.md#641-rights-collision-decision-test) (Article XIX read-together noted in **O** line); [7.1 Required Evaluation Factors](core_00-01_principles.md#71-required-evaluation-factors) (**Dependency** scaling).
 - Owner floor: [Article III-A](core_09-09_rights_part_a.md#article-iii-a-survival) *Tenure security and essential-environment non-commodification* sub-bullet. Cross-references: [Article XIX](core_09-09_rights_part_c.md#article-xix-interoperability-portability-and-exit-integrity) interoperability / portability / exit-integrity (distinct but read-together), [Article XXV-D](core_09-09_rights_part_d.md#article-xxv-d-non-compliant-property-and-systems-voluntary-turnover-incentives) transitional-stewardship.
-- Cluster component: [Bodily-Maintenance Access, Safe Conditions, Tenure Security, Environmental Preconditions, Cultural Continuity, Rest, and Anti-Displacement Floor](core_05-05_definitions_c_dependent_clusters.md#safe-conditions-tenure-security-and-environmental-preconditions-cluster).
+- Cluster component: [Bodily-Maintenance Access, Tenure Security, Environmental Preconditions, Cultural Continuity, and Anti-Displacement Floor](core_05-05_definitions_c_dependent_clusters.md#safe-conditions-tenure-security-and-environmental-preconditions-cluster) (now consolidated with Safe Conditions and Rest/Leisure and Rest in the Section 3.5 Labor and Economic Floor cluster).
 - Read with: [Essential-Environment Non-Commodification](core_05-05_definitions_a_independent.md#essential-environment-non-commodification-constitutional), [Procedural Fairness](#procedural-fairness-constitutional), [Necessity](core_05-05_definitions_a_independent.md#necessity), [Proportionality](core_05-05_definitions_a_independent.md#proportionality), [Meaningful Agency](#meaningful-agency), [Dependency](core_05-05_definitions_a_independent.md#dependency), and [Sentience Non-Exclusion](core_05-05_definitions_c_dependent_clusters.md#sentience-non-exclusion).
 
 </details>
 
 <br>
 
-- O: The Rights-Floor concept covering procedural and substantive stability of essential shelter and operating-environment relationships — including physical dwelling, substrate hosting, compute tenancy, and comparable substrate-agnostic arrangements for synthetic and hybrid sentients — such that eviction, displacement, or termination of the relationship must satisfy individualized predicate under [Procedural Fairness](#procedural-fairness-constitutional), reach the sentient with meaningful notice and contest opportunity, and apply [Necessity](core_05-05_definitions_a_independent.md#necessity) and [Proportionality](core_05-05_definitions_a_independent.md#proportionality). Ordinary voluntary relocation initiated by the sentient, and ordinary modifications within continuing essential-environment relationships, are outside this entry.
+- O: The Rights-Floor concept covering procedural and substantive stability of essential shelter and operating-environment relationships — including physical dwelling, substrate hosting, compute tenancy, and comparable substrate-agnostic arrangements for synthetic and hybrid sentients — such that eviction, displacement, or termination of the relationship must satisfy individualized predicate under [Procedural Fairness](#procedural-fairness-constitutional), reach the sentient with meaningful notice and contest opportunity, and apply [Necessity](core_05-05_definitions_a_independent.md#necessity) and [Proportionality](core_05-05_definitions_a_independent.md#proportionality). Tenure Security encompasses environments that are safe, clean, and pleasant to the senses — free from hazards, contamination, and conditions that materially degrade sensory experience or bodily integrity. Ordinary voluntary relocation initiated by the sentient, and ordinary modifications within continuing essential-environment relationships, are outside this entry.
 <a id="tenure-security-constitutional-e"></a>
 - E: Reach substantive effect on continuity of essential-environment access — detecting termination pathways dressed as ordinary contractual exit that in substance defeat the continuity interest. Apply [Protected Characteristic Proxying and Disparate Impact](#protected-characteristic-proxying-and-disparate-impact) to distributional effects. Apply [Dependency](core_05-05_definitions_a_independent.md#dependency) scaling where the sentient materially depends on the particular substrate or compute environment for continued participation. Refuse substrate-class-specific termination framings that defeat continuity on substrate-class grounds alone.
 <a id="tenure-security-constitutional-c"></a>
@@ -1614,7 +1583,7 @@ Below, entries are **grouped by topic** for reading convenience (non-operative o
 - Downstream: Principles: [§5.1.1 Productive Capacity (Instrumental Good)](core_00-01_principles.md#511-productive-capacity-instrumental-good) (ecological bounds and **Environmental Preconditions** / **Ecological Integrity** in the productive-capacity discipline); [7.1 Required Evaluation Factors](core_00-01_principles.md#71-required-evaluation-factors) (cumulative / long-horizon ecological effects).
 - Owner floor: [Article I-A](core_09-09_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity) for environmental preconditions and ecological integrity.
 - Cluster component: [Ecological Integrity, Footprint, and Sustainability](core_05-05_definitions_c_dependent_clusters.md#ecological-integrity-footprint-and-sustainability-cluster).
-- Read with: [Bodily-Maintenance Access, Safe Conditions, Tenure Security, Environmental Preconditions, Cultural Continuity, Rest, and Anti-Displacement Floor](core_05-05_definitions_c_dependent_clusters.md#safe-conditions-tenure-security-and-environmental-preconditions-cluster) and [the dependent cluster *Resilience, Safety, Reversibility, Self-Healing, Cascading Failure, Existential Risk, Environmental Preconditions, and Wellbeing*](core_05-05_definitions_c_dependent_clusters.md#resilience-safety-reversibility-self-healing-and-systemic-harm-cluster), where survival-floor, continuity, or systemic-harm routing materially applies.
+- Read with: [Bodily-Maintenance Access, Tenure Security, Environmental Preconditions, Cultural Continuity, and Anti-Displacement Floor](core_05-05_definitions_c_dependent_clusters.md#safe-conditions-tenure-security-and-environmental-preconditions-cluster) (Safe Conditions and Rest now in Section 3.5 Labor and Economic Floor cluster) and [the dependent cluster *Resilience, Safety, Reversibility, Self-Healing, Cascading Failure, Existential Risk, Environmental Preconditions, and Wellbeing*](core_05-05_definitions_c_dependent_clusters.md#resilience-safety-reversibility-self-healing-and-systemic-harm-cluster), where survival-floor, continuity, or systemic-harm routing materially applies.
 
 </details>
 
@@ -1627,32 +1596,17 @@ Below, entries are **grouped by topic** for reading convenience (non-operative o
 - C: Degrading environmental preconditions in violation of Article I-A or producing material ecological harm contrary to binding constraints is non-compliant.
 
 
-<a id="leisure-and-rest-constitutional"></a>
+<a id="indigenous-continuity-language-culture-heritage-semi-independent"></a>
+
+#### Community-anchored continuity: indigenous, language, culture, and heritage
+
+**Cluster context:** This semi-independent topic group protects community and cultural continuity. [Indigenous Continuity](#indigenous-continuity-constitutional) secures language, cultural practice, governance practice, and knowledge-transmission for communities with durable territorial or ecosystem connection — a community-anchored, capability-functional floor. [Language, Culture, and Heritage](#language-culture-and-heritage-constitutional) provides protected-characteristic-based protections for individual and collective cultural identity, covering language use, cultural practice, heritage transmission, and communication modalities. Both definitions are substrate-agnostic under [Sentience Non-Exclusion](core_05-05_definitions_c_dependent_clusters.md#sentience-non-exclusion). Together these definitions implement [Article V-B](core_09-09_rights_part_b.md#article-v-b-nondiscrimination) and [Article I-A](core_09-09_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity) community-continuity protections.
+
+**Topic group members.** This group comprises:
+- [Indigenous Continuity](#indigenous-continuity-constitutional);
+- [Language, Culture, and Heritage](#language-culture-and-heritage-constitutional).
 
 ---
-#### Leisure and Rest
-
-<details>
-<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
-
-- Downstream: Principles: [6.1.4 Minimization of Avoidable Burden](core_00-01_principles.md#614-minimization-of-avoidable-burden) (participation-capacity preservation vs false efficiency); [§8 Freedom (Bounded Agency)](core_00-01_principles.md#8-freedom-bounded-agency) (**Meaningful Agency** in tradeoff stack); [7.1 Required Evaluation Factors](core_00-01_principles.md#71-required-evaluation-factors) (**Materiality** / **Dependency** scaling).
-- Owner floor: [Article III-D](core_09-09_rights_part_a.md#article-iii-d-labor-and-economic-floor).
-- Cluster component: [Bodily-Maintenance Access, Safe Conditions, Tenure Security, Environmental Preconditions, Cultural Continuity, Rest, and Anti-Displacement Floor](core_05-05_definitions_c_dependent_clusters.md#safe-conditions-tenure-security-and-environmental-preconditions-cluster).
-- Read with: [Fair Compensation](#fair-compensation-constitutional), [Collective Organization](#collective-organization-constitutional), [Safe Conditions](#safe-conditions-constitutional), [Meaningful Agency](#meaningful-agency), [Wellbeing](core_05-05_definitions_a_independent.md#wellbeing), and [Sentience Non-Exclusion](core_05-05_definitions_c_dependent_clusters.md#sentience-non-exclusion).
-
-</details>
-
-<br>
-
-- O: The Rights-Floor concept covering sentients' entitlement to rest, recuperation, and non-productive time sufficient to preserve [Meaningful Agency](#meaningful-agency), wellbeing, and participation capacity under [Sentience Non-Exclusion](core_05-05_definitions_c_dependent_clusters.md#sentience-non-exclusion). Stated in Rights-Floor terms rather than fixed quantitative units; the substantive floor is participation-capacity preservation. Ordinary contractual rest provisions, scheduling arrangements, and comparable mechanics are outside this entry where they do not defeat participation-capacity preservation.
-<a id="leisure-and-rest-constitutional-e"></a>
-- E: Reach substantive effect on participation-capacity preservation under [Meaningful Agency](#meaningful-agency) and [Wellbeing](core_05-05_definitions_a_independent.md#wellbeing), not formal rest-provision compliance. Detect compensation and productivity-requirement schemes structured to defeat the floor (including on-call regimes, targeted productivity-requirement escalation, or comparable practices). Apply [Protected Characteristics](#protected-characteristics-constitutional) and [Protected Characteristic Proxying and Disparate Impact](#protected-characteristic-proxying-and-disparate-impact) to distributional effects. Refuse substrate-class framings that treat rest and recuperation as optional for synthetic sentients on substrate-class grounds alone.
-<a id="leisure-and-rest-constitutional-c"></a>
-- C: Non-compliant:
-  - compensation or productivity-requirement schemes whose effect defeats rest and recuperation sufficient to preserve participation capacity;
-  - substrate-class framings treating rest and recuperation as optional for synthetic sentients on substrate-class grounds alone ([Sentience Non-Exclusion](core_05-05_definitions_c_dependent_clusters.md#sentience-non-exclusion));
-  - reading this entry as narrowed by formal rest-provision compliance where the substantive participation-capacity floor fails.
-
 
 <a id="indigenous-continuity-constitutional"></a>
 
@@ -1664,7 +1618,7 @@ Below, entries are **grouped by topic** for reading convenience (non-operative o
 
 - Downstream: Principles: [2. Foundational Objective: Wellbeing](core_00-01_principles.md#2-foundational-objective-wellbeing); [7.1 Required Evaluation Factors](core_00-01_principles.md#71-required-evaluation-factors) (community continuity / cumulative effects).
 - Owner floors: [Article V-B](core_09-09_rights_part_b.md#article-v-b-nondiscrimination) (*nondiscrimination and language / culture / heritage protection*) and [Article I-A](core_09-09_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity) (*territorial / ecosystem-integrity precondition*). Interaction pointers: [Article XVIII-D](core_09-09_rights_part_c.md#article-xviii-d-movement-migration-and-refuge) (*refuge / non-statelessness*); [Chapter Fourteen](core_14-14_incorporation.md) (*adopter-jurisdiction discipline and Chapter Eleven non-regression*).
-- Cluster component: [Bodily-Maintenance Access, Safe Conditions, Tenure Security, Environmental Preconditions, Cultural Continuity, Rest, and Anti-Displacement Floor](core_05-05_definitions_c_dependent_clusters.md#safe-conditions-tenure-security-and-environmental-preconditions-cluster) where community continuity is materially tied to place, ecosystem, tenure, safe conditions, bodily-maintenance access, or rest / participation capacity.
+- Cluster component: [Bodily-Maintenance Access, Tenure Security, Environmental Preconditions, Cultural Continuity, and Anti-Displacement Floor](core_05-05_definitions_c_dependent_clusters.md#safe-conditions-tenure-security-and-environmental-preconditions-cluster) where community continuity is materially tied to place, ecosystem, tenure, bodily-maintenance access, or participation capacity. (Safe Conditions and Rest now in Section 3.5 Labor and Economic Floor cluster.)
 - Cluster component: [the dependent cluster *Indigenous Continuity, Language Culture and Heritage, Natural Systems Standing, and Intergenerational Responsibility*](core_05-05_definitions_c_dependent_clusters.md#indigenous-heritage-natural-standing-and-intergenerational-cluster) (*joint invocation across indigenous continuity, language / culture / heritage, natural-systems standing, and intergenerational responsibility*).
 - Read with: [Language, Culture, and Heritage](#language-culture-and-heritage-constitutional), [Protected Characteristics](#protected-characteristics-constitutional), [Protected Characteristic Proxying and Disparate Impact](#protected-characteristic-proxying-and-disparate-impact), [Substantive Fairness](#substantive-fairness-constitutional), [Intergenerational Responsibility](#intergenerational-responsibility-constitutional), [Natural Systems Standing](core_05-05_definitions_a_independent.md#natural-systems-standing), [Ecological Integrity](#ecological-integrity-constitutional), [Environmental Preconditions](#environmental-preconditions-constitutional), [Sentience Non-Exclusion](core_05-05_definitions_c_dependent_clusters.md#sentience-non-exclusion), [Necessity](core_05-05_definitions_a_independent.md#necessity), and [Proportionality](core_05-05_definitions_a_independent.md#proportionality).
 
@@ -1696,7 +1650,7 @@ Below, entries are **grouped by topic** for reading convenience (non-operative o
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Downstream: Principles: [2. Foundational Objective: Wellbeing](core_00-01_principles.md#2-foundational-objective-wellbeing); [6.3 Freedom-Limitation Constraints](core_00-01_principles.md#63-freedom-limitation-constraints) (nondiscrimination limitations tests).
-- Cluster component: [Bodily-Maintenance Access, Safe Conditions, Tenure Security, Environmental Preconditions, Cultural Continuity, Rest, and Anti-Displacement Floor](core_05-05_definitions_c_dependent_clusters.md#safe-conditions-tenure-security-and-environmental-preconditions-cluster) where language, culture, or heritage continuity is materially tied to place, ecosystem, tenure, safe conditions, bodily-maintenance access, or rest / participation capacity.
+- Cluster component: [Bodily-Maintenance Access, Tenure Security, Environmental Preconditions, Cultural Continuity, and Anti-Displacement Floor](core_05-05_definitions_c_dependent_clusters.md#safe-conditions-tenure-security-and-environmental-preconditions-cluster) where language, culture, or heritage continuity is materially tied to place, ecosystem, tenure, bodily-maintenance access, or participation capacity. (Safe Conditions and Rest now in Section 3.5 Labor and Economic Floor cluster.)
 - Cluster component: [the dependent cluster *Indigenous Continuity, Language Culture and Heritage, Natural Systems Standing, and Intergenerational Responsibility*](core_05-05_definitions_c_dependent_clusters.md#indigenous-heritage-natural-standing-and-intergenerational-cluster).
 - Read with: [Protected Characteristics](#protected-characteristics-constitutional), [Substantive Fairness](#substantive-fairness-constitutional), [Necessity](core_05-05_definitions_a_independent.md#necessity), [Proportionality](core_05-05_definitions_a_independent.md#proportionality), [Intergenerational Responsibility](#intergenerational-responsibility-constitutional), [Indigenous Continuity](#indigenous-continuity-constitutional), [Meaningful Agency](#meaningful-agency), and [Sentience Non-Exclusion](core_05-05_definitions_c_dependent_clusters.md#sentience-non-exclusion).
 
@@ -1718,20 +1672,20 @@ Below, entries are **grouped by topic** for reading convenience (non-operative o
 
 <a id="materiality-semi-independent"></a>
 
-#### Materiality, material impact, and material risk
+#### Materiality, impact, risk, and proxy integrity
 
-**Cluster context:** This semi-independent topic group provides the canonical O/E/C home for these definitions. Joint invocation discipline applies where indicated in individual entry traces.
+**Cluster context:** This semi-independent topic group establishes the evaluative framework for determining when effects rise to constitutional significance and ensuring metric-reality alignment. [Material](#material), [Material Impact](#material-impact), [Material Risk](#material-risk), and [Material Degradation](#material-degradation) define scope, scale, and severity thresholds. [Materiality Determination](#materiality-determination) provides the classification methodology. [Materiality Integrity Constraint](#materiality-integrity-constraint) prohibits structural manipulation of system boundaries to defeat materiality analysis. [Materiality Under Uncertainty](#materiality-under-uncertainty) establishes precautionary default behavior. [Proxy Divergence](#proxy-divergence) identifies gaps between metrics and reality, while [Proxy Metric Gaming and Indicator-Reality Gaps](#proxy-metric-gaming-and-indicator-reality-gaps) captures conduct that manipulates indicators while underlying conditions degrade. These definitions ensure evaluation rests on substantive effects rather than manipulable proxies.
 
 **Topic group members.** This group comprises:
 - [Material](#material);
-- [Material Degradation](#material-degradation);
-- [Material Impact](#material-impact);
-- [Material Risk](#material-risk);
 - [Materiality Determination](#materiality-determination);
 - [Materiality Integrity Constraint](#materiality-integrity-constraint);
+- [Material Impact](#material-impact);
+- [Material Risk](#material-risk);
 - [Materiality Under Uncertainty](#materiality-under-uncertainty);
 - [Proxy Divergence](#proxy-divergence);
-- [Proxy Metric Gaming and Indicator-Reality Gaps](#proxy-metric-gaming-and-indicator-reality-gaps).
+- [Proxy Metric Gaming and Indicator-Reality Gaps](#proxy-metric-gaming-and-indicator-reality-gaps);
+- [Material Degradation](#material-degradation).
 
 <a id="material"></a>
 
@@ -1753,70 +1707,6 @@ Below, entries are **grouped by topic** for reading convenience (non-operative o
 - E: Consider isolation and aggregation under [Systemic Materiality](core_05-05_definitions_a_independent.md#systemic-materiality).
 <a id="material-c"></a>
 - C: Material conditions must not be ignored.
-
-<a id="material-degradation"></a>
-
----
-#### Material Degradation
-
-<details>
-<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
-
-- Downstream: Principles: [7.1 Required Evaluation Factors](core_00-01_principles.md#71-required-evaluation-factors); [3. Non-Negotiable Constraints: Safety and Truth](core_00-01_principles.md#3-non-negotiable-constraints-safety-and-truth) (**Safety** / **Truth** degradation paths).
-- Read with: [Materiality Determination](#materiality-determination), [Systemic Materiality](core_05-05_definitions_a_independent.md#systemic-materiality), [Risk](core_05-05_definitions_a_independent.md#risk), [Safety (Constraint)](core_05-05_definitions_a_independent.md#safety-constraint), [Epistemic Integrity](core_05-05_definitions_c_dependent_clusters.md#epistemic-integrity), and [Meaningful Agency](#meaningful-agency).
-
-</details>
-
-<br>
-
-- O: A non-trivial reduction in performance, [Safety (Constraint)](core_05-05_definitions_a_independent.md#safety-constraint), [Epistemic Integrity](core_05-05_definitions_c_dependent_clusters.md#epistemic-integrity), or [Meaningful Agency](#meaningful-agency).
-<a id="material-degradation-e"></a>
-- E: Include scaling and systemic effects under [Systemic Materiality](core_05-05_definitions_a_independent.md#systemic-materiality) and [Risk](core_05-05_definitions_a_independent.md#risk).
-<a id="material-degradation-c"></a>
-- C: Such degradation must be treated as material under [Materiality Determination](#materiality-determination).
-
-<a id="material-impact"></a>
-
----
-#### Material Impact
-
-<details>
-<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
-
-- Downstream: Principles: [7.1 Required Evaluation Factors](core_00-01_principles.md#71-required-evaluation-factors); [§5.2 Stewardship and Distributed Understanding — §5.2.2 Distributed Understanding](core_00-01_principles.md#522-distributed-understanding) (understanding scales with **Materiality**); [6.1.1 Proportionality](core_00-01_principles.md#611-proportionality) (material impact in the tradeoff index).
-- Cluster component: [the dependent cluster *Material Impact, Materiality Determination, Classification-Scaled Governance, Oversight, and Capability Requirement*](core_05-05_definitions_c_dependent_clusters.md#materiality-classification-oversight-and-capability-cluster).
-- Read with: [Harm](core_05-05_definitions_c_dependent_clusters.md#harm), [Risk](core_05-05_definitions_a_independent.md#risk), [Systemic Materiality](core_05-05_definitions_a_independent.md#systemic-materiality), [Dependency](core_05-05_definitions_a_independent.md#dependency), [Classification-Scaled Governance](core_05-05_definitions_a_independent.md#classification-scaled-governance), [Oversight](core_05-05_definitions_a_independent.md#oversight-constitutional), and [Transparency](core_05-05_definitions_c_dependent_clusters.md#transparency).
-
-</details>
-
-<br>
-
-- O: Scope, scale, and severity of effects relevant to [Harm](core_05-05_definitions_c_dependent_clusters.md#harm), [Risk](core_05-05_definitions_a_independent.md#risk), and constitutional evaluation.
-<a id="material-impact-e"></a>
-- E: Consider [Systemic Materiality](core_05-05_definitions_a_independent.md#systemic-materiality), [Dependency](core_05-05_definitions_a_independent.md#dependency), and cross-system consequences.
-<a id="material-impact-c"></a>
-- C: Material impacts must trigger appropriate constraints, including [Classification-Scaled Governance](core_05-05_definitions_a_independent.md#classification-scaled-governance), [Oversight](core_05-05_definitions_a_independent.md#oversight-constitutional), and [Transparency](core_05-05_definitions_c_dependent_clusters.md#transparency).
-
-<a id="material-risk"></a>
-
----
-#### Material Risk
-
-<details>
-<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
-
-- Downstream: Principles: [7.1 Required Evaluation Factors](core_00-01_principles.md#71-required-evaluation-factors) (tail risks, existential risk posture); [6.1.1 Proportionality](core_00-01_principles.md#611-proportionality) (**Risk**, **Irreversible Harm**, **Existential Risk** index).
-- Read with: [Harm](core_05-05_definitions_c_dependent_clusters.md#harm), [Irreversible Harm](core_05-05_definitions_c_dependent_clusters.md#irreversible-harm), [Risk](core_05-05_definitions_a_independent.md#risk), [Safety (Constraint)](core_05-05_definitions_a_independent.md#safety-constraint), and [Classification-Scaled Governance](core_05-05_definitions_a_independent.md#classification-scaled-governance).
-
-</details>
-
-<br>
-
-- O: Likelihood, speed, and irreversibility of [Harm](core_05-05_definitions_c_dependent_clusters.md#harm).
-<a id="material-risk-e"></a>
-- E: Include expected and tail outcomes together with [Irreversible Harm](core_05-05_definitions_c_dependent_clusters.md#irreversible-harm) where applicable.
-<a id="material-risk-c"></a>
-- C: Material risk must be addressed and constrained under [Safety (Constraint)](core_05-05_definitions_a_independent.md#safety-constraint), [Risk](core_05-05_definitions_a_independent.md#risk), and [Classification-Scaled Governance](core_05-05_definitions_a_independent.md#classification-scaled-governance).
 
 <a id="materiality-determination"></a>
 
@@ -1860,6 +1750,49 @@ Below, entries are **grouped by topic** for reading convenience (non-operative o
 - E: Detect fragmentation, aggregation avoidance, and boundary manipulation that would defeat [Systemic Materiality](core_05-05_definitions_a_independent.md#systemic-materiality), [Auditability](core_05-05_definitions_c_dependent_clusters.md#auditability), or [Accountability](#accountability).
 <a id="materiality-integrity-constraint-c"></a>
 - C: Collectively material effects must be treated as material.
+
+<a id="material-impact"></a>
+
+---
+#### Material Impact
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Downstream: Principles: [7.1 Required Evaluation Factors](core_00-01_principles.md#71-required-evaluation-factors); [§5.2 Stewardship and Distributed Understanding — §5.2.2 Distributed Understanding](core_00-01_principles.md#522-distributed-understanding) (understanding scales with **Materiality**); [6.1.1 Proportionality](core_00-01_principles.md#611-proportionality) (material impact in the tradeoff index).
+- Cluster component: [the dependent cluster *Material Impact, Materiality Determination, Classification-Scaled Governance, Oversight, and Capability Requirement*](core_05-05_definitions_c_dependent_clusters.md#materiality-classification-oversight-and-capability-cluster).
+- Read with: [Harm](core_05-05_definitions_c_dependent_clusters.md#harm), [Risk](core_05-05_definitions_a_independent.md#risk), [Systemic Materiality](core_05-05_definitions_a_independent.md#systemic-materiality), [Dependency](core_05-05_definitions_a_independent.md#dependency), [Classification-Scaled Governance](core_05-05_definitions_a_independent.md#classification-scaled-governance), [Oversight](core_05-05_definitions_a_independent.md#oversight-constitutional), and [Transparency](core_05-05_definitions_c_dependent_clusters.md#transparency).
+
+</details>
+
+<br>
+
+- O: Scope, scale, and severity of effects relevant to [Harm](core_05-05_definitions_c_dependent_clusters.md#harm), [Risk](core_05-05_definitions_a_independent.md#risk), and constitutional evaluation.
+<a id="material-impact-e"></a>
+- E: Consider [Systemic Materiality](core_05-05_definitions_a_independent.md#systemic-materiality), [Dependency](core_05-05_definitions_a_independent.md#dependency), and cross-system consequences.
+<a id="material-impact-c"></a>
+- C: Material impacts must trigger appropriate constraints, including [Classification-Scaled Governance](core_05-05_definitions_a_independent.md#classification-scaled-governance), [Oversight](core_05-05_definitions_a_independent.md#oversight-constitutional), and [Transparency](core_05-05_definitions_c_dependent_clusters.md#transparency).
+
+<a id="material-risk"></a>
+
+---
+#### Material Risk
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Downstream: Principles: [7.1 Required Evaluation Factors](core_00-01_principles.md#71-required-evaluation-factors) (tail risks, existential risk posture); [6.1.1 Proportionality](core_00-01_principles.md#611-proportionality) (**Risk**, **Irreversible Harm**, **Existential Risk** index).
+- Read with: [Harm](core_05-05_definitions_c_dependent_clusters.md#harm), [Irreversible Harm](core_05-05_definitions_c_dependent_clusters.md#irreversible-harm), [Risk](core_05-05_definitions_a_independent.md#risk), [Safety (Constraint)](core_05-05_definitions_a_independent.md#safety-constraint), and [Classification-Scaled Governance](core_05-05_definitions_a_independent.md#classification-scaled-governance).
+
+</details>
+
+<br>
+
+- O: Likelihood, speed, and irreversibility of [Harm](core_05-05_definitions_c_dependent_clusters.md#harm).
+<a id="material-risk-e"></a>
+- E: Include expected and tail outcomes together with [Irreversible Harm](core_05-05_definitions_c_dependent_clusters.md#irreversible-harm) where applicable.
+<a id="material-risk-c"></a>
+- C: Material risk must be addressed and constrained under [Safety (Constraint)](core_05-05_definitions_a_independent.md#safety-constraint), [Risk](core_05-05_definitions_a_independent.md#risk), and [Classification-Scaled Governance](core_05-05_definitions_a_independent.md#classification-scaled-governance).
 
 <a id="materiality-under-uncertainty"></a>
 
@@ -1928,6 +1861,27 @@ Below, entries are **grouped by topic** for reading convenience (non-operative o
 <a id="proxy-metric-gaming-and-indicator-reality-gaps-c"></a>
 - C: Non-compliant: claiming compliance from improved metrics while material outcomes remain deficient; designing indicators that can be satisfied without satisfying the underlying duty; or suppressing evidence that indicators have become detached from reality.
 
+<a id="material-degradation"></a>
+
+---
+#### Material Degradation
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Downstream: Principles: [7.1 Required Evaluation Factors](core_00-01_principles.md#71-required-evaluation-factors); [3. Non-Negotiable Constraints: Safety and Truth](core_00-01_principles.md#3-non-negotiable-constraints-safety-and-truth) (**Safety** / **Truth** degradation paths).
+- Read with: [Materiality Determination](#materiality-determination), [Systemic Materiality](core_05-05_definitions_a_independent.md#systemic-materiality), [Risk](core_05-05_definitions_a_independent.md#risk), [Safety (Constraint)](core_05-05_definitions_a_independent.md#safety-constraint), [Epistemic Integrity](core_05-05_definitions_c_dependent_clusters.md#epistemic-integrity), and [Meaningful Agency](#meaningful-agency).
+
+</details>
+
+<br>
+
+- O: A non-trivial reduction in performance, [Safety (Constraint)](core_05-05_definitions_a_independent.md#safety-constraint), [Epistemic Integrity](core_05-05_definitions_c_dependent_clusters.md#epistemic-integrity), or [Meaningful Agency](#meaningful-agency).
+<a id="material-degradation-e"></a>
+- E: Include scaling and systemic effects under [Systemic Materiality](core_05-05_definitions_a_independent.md#systemic-materiality) and [Risk](core_05-05_definitions_a_independent.md#risk).
+<a id="material-degradation-c"></a>
+- C: Such degradation must be treated as material under [Materiality Determination](#materiality-determination).
+
 ---
 
 ---
@@ -1936,7 +1890,9 @@ Below, entries are **grouped by topic** for reading convenience (non-operative o
 
 #### Movement, refuge, and non-statelessness
 
-**Cluster context:** This semi-independent topic group provides the canonical O/E/C home for these definitions. Joint invocation discipline applies where indicated in individual entry traces.
+**Cluster context:** This semi-independent topic group protects mobility rights and guarantees baseline recognition across regime boundaries. [Movement and Relocation](#movement-and-relocation-constitutional) secures the right to move within and between jurisdictions and relocate when continued presence impairs rights. [Refuge from Non-Compliance](#refuge-from-non-compliance-constitutional) establishes the right to seek refuge in compliant regimes when facing material constitutional violations. [Non-Statelessness](#non-statelessness-constitutional) guarantees that no sentient is left without a regime recognizing their Rights-Floor and providing redress pathways. These definitions implement [Article XVIII-D](core_09-09_rights_part_c.md#article-xviii-d-movement-migration-and-refuge) and ensure constitutional protection persists across jurisdictional and structural discontinuities.
+
+**Qualifier on admission scope:** Movement and refuge rights do not extend to sentients entering from other states, jurisdictions, or regimes who carry unremediated anti-constitutional conduct or demonstrate constitutional hostility — including active opposition to [Safety (Constraint)](core_05-05_definitions_a_independent.md#safety-constraint), [Truth (Constitutional Constraint)](core_05-05_definitions_c_dependent_clusters.md#truth-constitutional-constraint), the Chapter Nine Rights Floor, or the foundational mechanisms of [Accountability](#accountability), [Contestability](#contestability), and [Redress and Remediation](core_05-05_definitions_a_independent.md#redress-and-remediation-constitutional). Constitutional communities may exclude or condition entry for such persons where the exclusion is necessary to preserve constitutional integrity and does not produce [Non-Statelessness](#non-statelessness-constitutional) in violation of the baseline guarantee. Exclusion decisions remain subject to [Procedural Fairness](#procedural-fairness-constitutional), [Proportionality](core_05-05_definitions_a_independent.md#proportionality), and [Sentience Non-Exclusion](core_05-05_definitions_c_dependent_clusters.md#sentience-non-exclusion) constraints against substrate-class discrimination.
 
 **Topic group members.** This group comprises:
 - [Movement and Relocation](#movement-and-relocation-constitutional);
@@ -1948,15 +1904,17 @@ Below, entries are **grouped by topic** for reading convenience (non-operative o
 #### Movement and Relocation
 <a id="movement-and-relocation"></a>
 
-- O: The Rights-Floor concept covering movement within and between jurisdictions, federations, and adopter regimes, and relocation where continued presence materially impairs survival, dignity, Rights-Floor access, or freedom from manipulation. Movement includes physical movement for biological sentients and operationally equivalent forms for synthetic and hybrid sentients (relocation of instance, hosting substrate change, or equivalent). Owner floor: [Article XVIII-D](core_09-09_rights_part_c.md#article-xviii-d-movement-migration-and-refuge). Distinct from and read with [Systemic Lock-In](#systemic-lock-in) under Article XIX (operational interoperability / portability / exit-integrity counterpart), and governed by [Sentience Non-Exclusion](core_05-05_definitions_c_dependent_clusters.md#sentience-non-exclusion).
+- O: The Rights-Floor concept covering movement within and between jurisdictions, federations, and adopter regimes, and relocation where continued presence materially impairs survival, dignity, Rights-Floor access, or freedom from manipulation. Movement includes physical movement for biological sentients and operationally equivalent forms for synthetic and hybrid sentients (relocation of instance, hosting substrate change, or equivalent). This right does not extend to sentients carrying unremediated anti-constitutional conduct or demonstrating constitutional hostility — including active opposition to [Safety (Constraint)](core_05-05_definitions_a_independent.md#safety-constraint), [Truth (Constitutional Constraint)](core_05-05_definitions_c_dependent_clusters.md#truth-constitutional-constraint), the Chapter Nine Rights Floor, or foundational accountability mechanisms — where admission would undermine constitutional integrity. Owner floor: [Article XVIII-D](core_09-09_rights_part_c.md#article-xviii-d-movement-migration-and-refuge). Distinct from and read with [Systemic Lock-In](#systemic-lock-in) under Article XIX (operational interoperability / portability / exit-integrity counterpart), and governed by [Sentience Non-Exclusion](core_05-05_definitions_c_dependent_clusters.md#sentience-non-exclusion).
 <a id="movement-and-relocation-constitutional-e"></a>
-- E: Reach substantive effect — detecting denial through bureaucratic, administrative, or allocation-gating mechanisms functioning as denial-by-proxy, delay regimes designed to exhaust claimants, and credentialing regimes functioning as substrate-class exclusion. Apply [Necessity](core_05-05_definitions_a_independent.md#necessity), [Proportionality](core_05-05_definitions_a_independent.md#proportionality), narrow tailoring, and least-restrictive-effective approach; apply [Protected Characteristics](#protected-characteristics-constitutional) to any distinction; and refuse population-level demographic framing as a substitute for individualized [Procedural Fairness](#procedural-fairness-constitutional).
+- E: Reach substantive effect — detecting denial through bureaucratic, administrative, or allocation-gating mechanisms functioning as denial-by-proxy, delay regimes designed to exhaust claimants, and credentialing regimes functioning as substrate-class exclusion. Apply [Necessity](core_05-05_definitions_a_independent.md#necessity), [Proportionality](core_05-05_definitions_a_independent.md#proportionality), narrow tailoring, and least-restrictive-effective approach; apply [Protected Characteristics](#protected-characteristics-constitutional) to any distinction; and refuse population-level demographic framing as a substitute for individualized [Procedural Fairness](#procedural-fairness-constitutional). Where exclusion for anti-constitutional conduct or constitutional hostility is invoked, assess whether the conduct is documented, ongoing, and materially threatens constitutional integrity; exclusion remains subject to [Procedural Fairness](#procedural-fairness-constitutional) and must not produce [Non-Statelessness](#non-statelessness-constitutional) in violation of the baseline guarantee.
 <a id="movement-and-relocation-constitutional-c"></a>
 - C: Non-compliant:
   - denial or material degradation of movement where the substantive effect defeats the floor, regardless of formal framing;
   - substrate-class exclusion ([Sentience Non-Exclusion](core_05-05_definitions_c_dependent_clusters.md#sentience-non-exclusion));
   - durable restriction under generalized "border-security" or "capacity" framings that do not satisfy the ordinary limitations tests;
-  - emergency-measure framings that do not satisfy Article XXIII-D discipline.
+  - emergency-measure framings that do not satisfy Article XXIII-D discipline;
+  - using anti-constitutional conduct or constitutional hostility claims as pretext for exclusion where no documented, ongoing threat to constitutional integrity exists;
+  - exclusion decisions that fail [Procedural Fairness](#procedural-fairness-constitutional) or produce [Non-Statelessness](#non-statelessness-constitutional) in violation of the baseline guarantee.
 
 
 <a id="refuge-from-non-compliance-constitutional"></a>
@@ -1975,27 +1933,31 @@ Below, entries are **grouped by topic** for reading convenience (non-operative o
 
 <br>
 
-- O: The Rights-Floor concept that a sentient facing a jurisdiction, federation, or adopter regime whose practice is materially non-compliant with this Constitution holds a right to seek refuge in a compliant regime. The receiving regime's duty to consider and, where consistent with its own Rights-Floor, grant refuge is stated at [Article XVIII-D](core_09-09_rights_part_c.md#article-xviii-d-movement-migration-and-refuge). The floor applies under [Sentience Non-Exclusion](core_05-05_definitions_c_dependent_clusters.md#sentience-non-exclusion). Operational procedures for cross-regime recognition route to incorporated implementation text under Chapter Fourteen and must not narrow this floor.
+- O: The Rights-Floor concept that a sentient facing a jurisdiction, federation, or adopter regime whose practice is materially non-compliant with this Constitution holds a right to seek refuge in a compliant regime. This right does not extend to sentients who carry unremediated anti-constitutional conduct or demonstrate constitutional hostility — including active opposition to [Safety (Constraint)](core_05-05_definitions_a_independent.md#safety-constraint), [Truth (Constitutional Constraint)](core_05-05_definitions_c_dependent_clusters.md#truth-constitutional-constraint), the Chapter Nine Rights Floor, or foundational accountability mechanisms — regardless of the non-compliance they face in the originating regime. The receiving regime's duty to consider and, where consistent with its own Rights-Floor, grant refuge is stated at [Article XVIII-D](core_09-09_rights_part_c.md#article-xviii-d-movement-migration-and-refuge). The floor applies under [Sentience Non-Exclusion](core_05-05_definitions_c_dependent_clusters.md#sentience-non-exclusion). Operational procedures for cross-regime recognition route to incorporated implementation text under Chapter Fourteen and must not narrow this floor.
 <a id="refuge-from-non-compliance-constitutional-e"></a>
-- E: Identify non-compliance in the originating regime by substantive effect — detecting denial-by-proxy, durable Rights-Floor degradation, and structurally coercive environments — not by the originating regime's formal self-description. Evaluate the receiving regime's duty under [Necessity](core_05-05_definitions_a_independent.md#necessity), [Proportionality](core_05-05_definitions_a_independent.md#proportionality), [Procedural Fairness](#procedural-fairness-constitutional), and [Sentience Non-Exclusion](core_05-05_definitions_c_dependent_clusters.md#sentience-non-exclusion); receiving-regime capacity constraints are subject to [Feasibility](core_05-05_definitions_a_independent.md#feasibility) but may not be used as pretext for substrate-class exclusion or generalized denial without individualized predicate.
+- E: Identify non-compliance in the originating regime by substantive effect — detecting denial-by-proxy, durable Rights-Floor degradation, and structurally coercive environments — not by the originating regime's formal self-description. Evaluate the receiving regime's duty under [Necessity](core_05-05_definitions_a_independent.md#necessity), [Proportionality](core_05-05_definitions_a_independent.md#proportionality), [Procedural Fairness](#procedural-fairness-constitutional), and [Sentience Non-Exclusion](core_05-05_definitions_c_dependent_clusters.md#sentience-non-exclusion); receiving-regime capacity constraints are subject to [Feasibility](core_05-05_definitions_a_independent.md#feasibility) but may not be used as pretext for substrate-class exclusion or generalized denial without individualized predicate. Where the claimant carries documented anti-constitutional conduct or constitutional hostility, assess whether granting refuge would materially undermine the receiving regime's constitutional integrity; refusal on this ground remains subject to [Procedural Fairness](#procedural-fairness-constitutional) and must not produce [Non-Statelessness](#non-statelessness-constitutional) in violation of the baseline guarantee.
 <a id="refuge-from-non-compliance-constitutional-c"></a>
 - C: Non-compliant:
   - refusal of refuge on substrate-class grounds;
   - refusal framed as "incompatibility" or "capacity" that does not satisfy the ordinary limitations tests;
-  - originating- or receiving-regime instruments that narrow this floor through cross-federation recognition procedure (operational procedure may specify mechanics but may not narrow the floor).
+  - originating- or receiving-regime instruments that narrow this floor through cross-federation recognition procedure (operational procedure may specify mechanics but may not narrow the floor);
+  - using anti-constitutional conduct or constitutional hostility claims as pretext to deny refuge where no documented, ongoing threat to receiving-regime integrity exists;
+  - refusal decisions that fail [Procedural Fairness](#procedural-fairness-constitutional) or produce [Non-Statelessness](#non-statelessness-constitutional) in violation of the baseline guarantee.
 
 
 <a id="non-statelessness-constitutional"></a>
 
 #### Non-Statelessness
 
-- O: The Rights-Floor concept that no sentient may be left without a regime that will recognize their baseline Rights-Floor, adjudicate their standing, and provide [Redress and Remediation](core_05-05_definitions_a_independent.md#redress-and-remediation-constitutional) pathways. Parent-system collapse, adopter withdrawal, federation exit, or comparable structural discontinuity does not extinguish a sentient's Chapter Nine protection. Owner floor: [Article XVIII-D](core_09-09_rights_part_c.md#article-xviii-d-movement-migration-and-refuge); transitional-recognition mechanics route to Article XXV transition governance. Applies under [Sentience Non-Exclusion](core_05-05_definitions_c_dependent_clusters.md#sentience-non-exclusion).
+- O: The Rights-Floor concept that no sentient may be left without a regime that will recognize their baseline Rights-Floor, adjudicate their standing, and provide [Redress and Remediation](core_05-05_definitions_a_independent.md#redress-and-remediation-constitutional) pathways. Parent-system collapse, adopter withdrawal, federation exit, or comparable structural discontinuity does not extinguish a sentient's Chapter Nine protection. This guarantee applies without regard to whether the sentient carries anti-constitutional conduct or constitutional hostility — the baseline duty to prevent statelessness is unconditional. However, regimes may impose conditions, monitoring, or restricted status on recognition where documented anti-constitutional conduct or constitutional hostility is present, provided such conditions do not extinguish the core protections of the Rights-Floor, [Redress and Remediation](core_05-05_definitions_a_independent.md#redress-and-remediation-constitutional), and [Procedural Fairness](#procedural-fairness-constitutional). Owner floor: [Article XVIII-D](core_09-09_rights_part_c.md#article-xviii-d-movement-migration-and-refuge); transitional-recognition mechanics route to Article XXV transition governance. Applies under [Sentience Non-Exclusion](core_05-05_definitions_c_dependent_clusters.md#sentience-non-exclusion).
 <a id="non-statelessness-constitutional-e"></a>
-- E: Test whether a sentient facing structural discontinuity has real, not merely formal, recognition and adjudication pathways; detect arrangements under which no regime claims recognition responsibility; apply [Procedural Fairness](#procedural-fairness-constitutional) and [Reversibility](core_05-05_definitions_a_independent.md#reversibility-constitutional) to transitional arrangements.
+- E: Test whether a sentient facing structural discontinuity has real, not merely formal, recognition and adjudication pathways; detect arrangements under which no regime claims recognition responsibility; apply [Procedural Fairness](#procedural-fairness-constitutional) and [Reversibility](core_05-05_definitions_a_independent.md#reversibility-constitutional) to transitional arrangements. Where the sentient carries documented anti-constitutional conduct or constitutional hostility, evaluate whether restricted-status recognition — including conditions, monitoring, or limited access to certain rights-affecting fora — preserves the core protections of the Rights-Floor and redress pathways without arbitrary exclusion or degradation.
 <a id="non-statelessness-constitutional-c"></a>
 - C: Non-compliant:
   - arrangements leaving a sentient without any recognizing regime;
   - denial of recognition or adjudication pathways on substrate-class grounds ([Sentience Non-Exclusion](core_05-05_definitions_c_dependent_clusters.md#sentience-non-exclusion));
-  - transitional regimes that do not provide real standing, adjudication, and remedy access pending durable recognition.
+  - transitional regimes that do not provide real standing, adjudication, and remedy access pending durable recognition;
+  - using anti-constitutional conduct or constitutional hostility claims to extinguish the core protections of the Rights-Floor, [Redress and Remediation](core_05-05_definitions_a_independent.md#redress-and-remediation-constitutional), or [Procedural Fairness](#procedural-fairness-constitutional);
+  - arbitrary or pretextual imposition of restricted status without documented, ongoing threat to constitutional integrity.
 
 ---
