@@ -454,12 +454,11 @@ This cluster is the joint-invocation home for operative corpus identity, authori
 
 ---
 
-<a id="creative-work-training-data-attribution-compensation-and-anti-displacement-cluster"></a>
 <a id="labor-and-economic-floor-cluster"></a>
 
 #### 3.5 Labor and Economic Floor: Compensation, Organization, Safe Conditions, Leisure, and Creative Work
 
-This cluster is the joint-invocation home for the **Article III-D** labor and economic floor rights — **Fair Compensation**, **Collective Organization**, **Safe Conditions**, and **Leisure and Rest** — together with **Article VIII-D** creative-work disciplines (training-data use, attribution, anti-displacement, and innovation-reward) where materially interdependent. These rights form an integrated floor for productive, contributed, or comparable activity.
+This cluster is the joint-invocation home for the **Article III-D** labor and economic floor rights — **Fair Compensation**, **Safe Conditions**, and **Leisure and Rest** — together with **Article VIII-D** creative-work disciplines (training-data use, attribution, anti-displacement, and innovation-reward) where materially interdependent, read with **Collective Organization** where productive-activity organizing is materially implicated. These rights form an integrated floor for productive, contributed, or comparable activity.
 
 **Admission scope.** This cluster applies where a matter materially concerns:
 - Fair compensation for productive, contributed, or comparable activity;
@@ -477,13 +476,12 @@ Outside that admission scope, component definitions may operate as supporting In
 - [Fair Compensation](#fair-compensation-constitutional);
 - [Safe Conditions](#safe-conditions-constitutional);
 - [Leisure and Rest](#leisure-and-rest-constitutional);
-- [Collective Organization](#collective-organization-constitutional);
 - [Likeness and Documentary Depiction Interface](#likeness-and-documentary-depiction-interface-constitutional);
 - [Creative Work Attribution](#creative-work-attribution-constitutional);
 - [Training-Data Use](#training-data-use-constitutional);
 - [Anti-Displacement Floor](#anti-displacement-floor-constitutional).
 
-**Read-with definitions.** Apply [Productive Capacity](core_05-05_definitions_b_semi_independent.md#productive-capacity-constitutional), [Privacy (Informational) — peer-level cluster head](#privacy-informational-cluster), [Consent](core_05-05_definitions_b_semi_independent.md#consent-constitutional), [Truth (Constitutional Constraint)](#truth-constitutional-constraint), [Good Faith](core_05-05_definitions_a_independent.md#good-faith), [Meaningful Agency](core_05-05_definitions_b_semi_independent.md#meaningful-agency), [Innovation Reward and Anti-Enclosure](core_05-05_definitions_a_independent.md#innovation-reward-and-anti-enclosure), and [Sentience Non-Exclusion](#sentience-non-exclusion) where materially implicated.
+**Read-with definitions.** Apply [Collective Organization](core_05-05_definitions_b_semi_independent.md#collective-organization-constitutional), [Productive Capacity](core_05-05_definitions_b_semi_independent.md#productive-capacity-constitutional), [Privacy (Informational) — peer-level cluster head](#privacy-informational-cluster), [Consent](core_05-05_definitions_b_semi_independent.md#consent-constitutional), [Truth (Constitutional Constraint)](#truth-constitutional-constraint), [Good Faith](core_05-05_definitions_a_independent.md#good-faith), [Meaningful Agency](core_05-05_definitions_b_semi_independent.md#meaningful-agency), [Innovation Reward and Anti-Enclosure](core_05-05_definitions_a_independent.md#innovation-reward-and-anti-enclosure), and [Sentience Non-Exclusion](#sentience-non-exclusion) where materially implicated.
 
 **Joint invocation and anti-bypass.** Under §3.0.1, a matter within the admission scope must not be segmented into separate compensation, organization, safety, rest, privacy, consent, attribution, displacement, or innovation-reward issues in a way that satisfies one component while defeating materially interdependent duties under **Article III-D** and **Article VIII-D**.
 
@@ -497,7 +495,7 @@ Outside that admission scope, component definitions may operate as supporting In
 - Downstream: Principles: [2. Foundational Objective: Wellbeing](core_00-01_principles.md#2-foundational-objective-wellbeing); [6.1.4 Minimization of Avoidable Burden](core_00-01_principles.md#614-minimization-of-avoidable-burden) (labor-floor burden vs false efficiency).
 - Owner floor: [Article III-D](core_09-09_rights_part_a.md#article-iii-d-labor-and-economic-floor). Companion routing: `corpus_institutions.md` CI-9 / CI-10 / CI-11.
 - Cluster component: [Chapter Five §3.5 *Labor and Economic Floor*](#labor-and-economic-floor-cluster).
-- Read with: [Safe Conditions](#safe-conditions-constitutional), [Leisure and Rest](#leisure-and-rest-constitutional), [Collective Organization](#collective-organization-constitutional), [Substantive Fairness](core_05-05_definitions_b_semi_independent.md#substantive-fairness-constitutional), [Protected Characteristics](core_05-05_definitions_b_semi_independent.md#protected-characteristics-constitutional), [Protected Characteristic Proxying and Disparate Impact](core_05-05_definitions_b_semi_independent.md#protected-characteristic-proxying-and-disparate-impact), [Meaningful Agency](core_05-05_definitions_b_semi_independent.md#meaningful-agency), [Coercion and Manipulation](core_05-05_definitions_b_semi_independent.md#coercion-and-manipulation-constitutional), [Dependency](core_05-05_definitions_a_independent.md#dependency), and [Lifespan Equivalent Unit (LEQU)](core_05-05_definitions_a_independent.md#lifespan-equivalent-unit-lequ) (where quantitative calibration of benefit or deprivation is material).
+- Read with: [Safe Conditions](#safe-conditions-constitutional), [Leisure and Rest](#leisure-and-rest-constitutional), [Collective Organization](core_05-05_definitions_b_semi_independent.md#collective-organization-constitutional), [Substantive Fairness](core_05-05_definitions_b_semi_independent.md#substantive-fairness-constitutional), [Protected Characteristics](core_05-05_definitions_b_semi_independent.md#protected-characteristics-constitutional), [Protected Characteristic Proxying and Disparate Impact](core_05-05_definitions_b_semi_independent.md#protected-characteristic-proxying-and-disparate-impact), [Meaningful Agency](core_05-05_definitions_b_semi_independent.md#meaningful-agency), [Coercion and Manipulation](core_05-05_definitions_b_semi_independent.md#coercion-and-manipulation-constitutional), [Dependency](core_05-05_definitions_a_independent.md#dependency), and [Lifespan Equivalent Unit (LEQU)](core_05-05_definitions_a_independent.md#lifespan-equivalent-unit-lequ) (where quantitative calibration of benefit or deprivation is material).
 
 </details>
 
@@ -521,7 +519,7 @@ Outside that admission scope, component definitions may operate as supporting In
 - Downstream: Principles: [7.1 Required Evaluation Factors](core_00-01_principles.md#71-required-evaluation-factors) (substantive participation and materiality under **accessibility** evaluation); [3. Non-Negotiable Constraints: Safety](core_00-01_principles.md#3-non-negotiable-constraints-safety-and-truth) (**Safety** stack read with labor-floor role of this entry).
 - Owner floor: [Article III-D](core_09-09_rights_part_a.md#article-iii-d-labor-and-economic-floor). Systems-layer companion: [Article XII-A](core_09-09_rights_part_c.md#article-xii-a-reliability-and-trustworthiness-baseline). Operational profile: `corpus_systems.md` Protocol A safety profiles where applicable.
 - Cluster component: [Chapter Five §3.5 *Labor and Economic Floor*](#labor-and-economic-floor-cluster).
-- Read with: [Fair Compensation](#fair-compensation-constitutional), [Collective Organization](#collective-organization-constitutional), [Leisure and Rest](#leisure-and-rest-constitutional), [Safety (Constraint)](core_05-05_definitions_a_independent.md#safety-constraint), [Adversarial, Scaled, and Exploited Conditions](core_05-05_definitions_a_independent.md#adversarial-scaled-and-exploited-conditions), [Harm](#harm), [Risk](core_05-05_definitions_a_independent.md#risk), [Reversibility](core_05-05_definitions_a_independent.md#reversibility-constitutional), and [Sentience Non-Exclusion](#sentience-non-exclusion).
+- Read with: [Fair Compensation](#fair-compensation-constitutional), [Collective Organization](core_05-05_definitions_b_semi_independent.md#collective-organization-constitutional), [Leisure and Rest](#leisure-and-rest-constitutional), [Safety (Constraint)](core_05-05_definitions_a_independent.md#safety-constraint), [Adversarial, Scaled, and Exploited Conditions](core_05-05_definitions_a_independent.md#adversarial-scaled-and-exploited-conditions), [Harm](#harm), [Risk](core_05-05_definitions_a_independent.md#risk), [Reversibility](core_05-05_definitions_a_independent.md#reversibility-constitutional), and [Sentience Non-Exclusion](#sentience-non-exclusion).
 
 </details>
 
@@ -551,7 +549,7 @@ Outside that admission scope, component definitions may operate as supporting In
 - Downstream: Principles: [6.1.4 Minimization of Avoidable Burden](core_00-01_principles.md#614-minimization-of-avoidable-burden) (participation-capacity preservation vs false efficiency); [§8 Freedom (Bounded Agency)](core_00-01_principles.md#8-freedom-bounded-agency) (**Meaningful Agency** in tradeoff stack); [7.1 Required Evaluation Factors](core_00-01_principles.md#71-required-evaluation-factors) (**Materiality** / **Dependency** scaling).
 - Owner floor: [Article III-D](core_09-09_rights_part_a.md#article-iii-d-labor-and-economic-floor).
 - Cluster component: [Chapter Five §3.5 *Labor and Economic Floor*](#labor-and-economic-floor-cluster).
-- Read with: [Fair Compensation](#fair-compensation-constitutional), [Collective Organization](#collective-organization-constitutional), [Safe Conditions](#safe-conditions-constitutional), [Meaningful Agency](core_05-05_definitions_b_semi_independent.md#meaningful-agency), [Wellbeing](core_05-05_definitions_a_independent.md#wellbeing), and [Sentience Non-Exclusion](#sentience-non-exclusion).
+- Read with: [Fair Compensation](#fair-compensation-constitutional), [Collective Organization](core_05-05_definitions_b_semi_independent.md#collective-organization-constitutional), [Safe Conditions](#safe-conditions-constitutional), [Meaningful Agency](core_05-05_definitions_b_semi_independent.md#meaningful-agency), [Wellbeing](core_05-05_definitions_a_independent.md#wellbeing), and [Sentience Non-Exclusion](#sentience-non-exclusion).
 
 </details>
 
@@ -567,36 +565,6 @@ Outside that admission scope, component definitions may operate as supporting In
   - compensation or productivity-requirement schemes whose effect defeats rest and recuperation sufficient to preserve participation capacity;
   - substrate-class framings treating rest and recuperation as optional for synthetic sentients on substrate-class grounds alone ([Sentience Non-Exclusion](#sentience-non-exclusion));
   - reading this entry as narrowed by formal rest-provision compliance where the substantive participation-capacity floor fails.
-
----
-
-<a id="collective-organization-constitutional"></a>
-
-##### Collective Organization
-
-<details>
-<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
-
-- Downstream: Principles: [§8 Freedom (Bounded Agency)](core_00-01_principles.md#8-freedom-bounded-agency); [7.1 Required Evaluation Factors](core_00-01_principles.md#71-required-evaluation-factors) (materiality / dependency scaling for collective voice).
-- Owner floor: [Article III-D](core_09-09_rights_part_a.md#article-iii-d-labor-and-economic-floor). Read with [Article IX-B](core_09-09_rights_part_b.md#article-ix-b-stakeholder-role-and-participation-rights) and [Article XIII-A](core_09-09_rights_part_c.md#article-xiii-a-security-intelligence-and-covert-power-limits) covert-power limits.
-- Cluster component: [Chapter Five §3.5 *Labor and Economic Floor*](#labor-and-economic-floor-cluster).
-- Read with: [Fair Compensation](#fair-compensation-constitutional), [Safe Conditions](#safe-conditions-constitutional), [Leisure and Rest](#leisure-and-rest-constitutional), [Assembly](core_05-05_definitions_b_semi_independent.md#assembly-constitutional), [Expression](core_05-05_definitions_b_semi_independent.md#expression-constitutional), [Protected Reporting (Whistleblowing)](core_05-05_definitions_b_semi_independent.md#protected-reporting-whistleblowing), [Protected Reporting Retaliation and Access Interference](core_05-05_definitions_b_semi_independent.md#protected-reporting-retaliation-and-access-interference), and [Sentience Non-Exclusion](#sentience-non-exclusion).
-
-</details>
-
-<br>
-
-*In plain terms: every sentient doing productive work has the right to join with others to organize, unionize, form cooperatives, and collectively bargain — and no one may retaliate, surveil, or reclassify workers to defeat that right.*
-
-- **O:** The right of sentients engaged in productive, contributed, or comparable activity to form, join, participate in, and act through collective-organization pathways. Pathways include unions, cooperatives, guilds, associations, worker councils, platform-worker collectives, and comparable substrate-agnostic forms, used to contest and shape the terms of that activity. The floor applies under [Sentience Non-Exclusion](#sentience-non-exclusion). It covers waged, contracted, platformed, cooperative, and comparable arrangements. Ordinary social or purely civic association outside productive-activity scope is governed by [Assembly](core_05-05_definitions_b_semi_independent.md#assembly-constitutional) and [Article IX-B](core_09-09_rights_part_b.md#article-ix-b-stakeholder-role-and-participation-rights), and is not narrowed here.
-<a id="collective-organization-constitutional-e"></a>
-- **E:** Reach substantive effect:
-  - detect classification re-routing that reclassifies workers into categories designed to defeat collective-organization pathways, regardless of formal label;
-  - detect retaliation, surveillance, or targeting of collective-organization activity, consistent with [Protected Reporting Retaliation and Access Interference](core_05-05_definitions_b_semi_independent.md#protected-reporting-retaliation-and-access-interference) and [Article XIII-A](core_09-09_rights_part_c.md#article-xiii-a-security-intelligence-and-covert-power-limits);
-  - detect platform-design or compute-access gating that materially chills collective-organization activity without satisfying [Chapter One §6.3](core_00-01_principles.md#63-freedom-limitation-constraints) limitations tests;
-  - apply [Protected Characteristics](#protected-characteristics-constitutional) and [Protected Characteristic Proxying and Disparate Impact](#protected-characteristic-proxying-and-disparate-impact) to retaliation and targeting logic.
-  <a id="collective-organization-constitutional-c"></a>
-- **C:** Non-compliant: retaliation, surveillance, or targeting of collective-organization activity; classification re-routing designed to defeat collective-organization pathways, regardless of formal label; substrate-class exclusion from scope (under [Sentience Non-Exclusion](#sentience-non-exclusion)); platform- or compute-access gating that chills collective-organization activity without satisfying ordinary limitations tests.
 
 ---
 
@@ -621,7 +589,7 @@ Outside that admission scope, component definitions may operate as supporting In
 
 - Downstream: Principles: [§5.1.1 Productive Capacity (Instrumental Good)](core_00-01_principles.md#511-productive-capacity-instrumental-good); [§5.2.2 Distributed Understanding](core_00-01_principles.md#522-distributed-understanding) (attribution / traceability read-with).
 - Cluster component: [Chapter Five §3.5 *Labor and Economic Floor*](#labor-and-economic-floor-cluster).
-- Read with: [Training-Data Use](#training-data-use-constitutional), [Anti-Displacement Floor](#anti-displacement-floor-constitutional), [Fair Compensation](#fair-compensation-constitutional), [Collective Organization](#collective-organization-constitutional), [Safe Conditions](#safe-conditions-constitutional), [Leisure and Rest](#leisure-and-rest-constitutional), [Good Faith](core_05-05_definitions_a_independent.md#good-faith), [Consent](core_05-05_definitions_b_semi_independent.md#consent-constitutional), [Truth (Constitutional Constraint)](#truth-constitutional-constraint), and [Sentience Non-Exclusion](#sentience-non-exclusion).
+- Read with: [Training-Data Use](#training-data-use-constitutional), [Anti-Displacement Floor](#anti-displacement-floor-constitutional), [Fair Compensation](#fair-compensation-constitutional), [Collective Organization](core_05-05_definitions_b_semi_independent.md#collective-organization-constitutional), [Safe Conditions](#safe-conditions-constitutional), [Leisure and Rest](#leisure-and-rest-constitutional), [Good Faith](core_05-05_definitions_a_independent.md#good-faith), [Consent](core_05-05_definitions_b_semi_independent.md#consent-constitutional), [Truth (Constitutional Constraint)](#truth-constitutional-constraint), and [Sentience Non-Exclusion](#sentience-non-exclusion).
 
 </details>
 
@@ -661,7 +629,7 @@ Outside that admission scope, component definitions may operate as supporting In
 - Downstream: Principles: [§5.1.1 Productive Capacity (Instrumental Good)](core_00-01_principles.md#511-productive-capacity-instrumental-good); [§5.1.3 Concentration Threshold Mechanism](core_00-01_principles.md#513-concentration-threshold-mechanism-adopter-tunable) (displacement at population scale read-with §5.1 stack).
 - Owner floors: [Article III-D](core_09-09_rights_part_a.md#article-iii-d-labor-and-economic-floor) (labor-and-economic, cross-cutting) and [Article VIII-D](core_09-09_rights_part_b.md#article-viii-d-creative-work-training-data-use-and-anti-displacement) (creative-work application).
 - Cluster component: [Chapter Five §3.5 *Labor and Economic Floor*](#labor-and-economic-floor-cluster).
-- Read with: [Fair Compensation](#fair-compensation-constitutional), [Collective Organization](#collective-organization-constitutional), [Safe Conditions](#safe-conditions-constitutional), [Leisure and Rest](#leisure-and-rest-constitutional), [Creative Work Attribution](#creative-work-attribution-constitutional), [Training-Data Use](#training-data-use-constitutional), [Productive Capacity](core_05-05_definitions_b_semi_independent.md#productive-capacity-constitutional), [Avoidable Burden](core_05-05_definitions_b_semi_independent.md#avoidable-burden), [Proxy Divergence](core_05-05_definitions_b_semi_independent.md#proxy-divergence), and [Sentience Non-Exclusion](#sentience-non-exclusion).
+- Read with: [Fair Compensation](#fair-compensation-constitutional), [Collective Organization](core_05-05_definitions_b_semi_independent.md#collective-organization-constitutional), [Safe Conditions](#safe-conditions-constitutional), [Leisure and Rest](#leisure-and-rest-constitutional), [Creative Work Attribution](#creative-work-attribution-constitutional), [Training-Data Use](#training-data-use-constitutional), [Productive Capacity](core_05-05_definitions_b_semi_independent.md#productive-capacity-constitutional), [Avoidable Burden](core_05-05_definitions_b_semi_independent.md#avoidable-burden), [Proxy Divergence](core_05-05_definitions_b_semi_independent.md#proxy-divergence), and [Sentience Non-Exclusion](#sentience-non-exclusion).
 
 </details>
 
@@ -1710,7 +1678,7 @@ This cluster is the joint-invocation home for overt use of force, weapons of mas
 - Downstream: Principles: [2. Foundational Objective: Wellbeing](core_00-01_principles.md#2-foundational-objective-wellbeing); [9. Prohibition on Absolute Override](core_00-01_principles.md#9-prohibition-on-absolute-override) (non-trivial punishment and dignity floor read-with Article XXIII-B).
 - Owner floor: [Article XXIII-B](core_09-09_rights_part_d.md#article-xxiii-b-non-trivial-punishment-constraints) (*Categorical prohibition of irreversible sanction as deprivation of life*). Interaction pointers: [Article XXIII-C](core_09-09_rights_part_d.md#article-xxiii-c-least-restrictive-and-time-bounded-rule) durable-containment discipline; [Article XXIV](core_09-09_rights_part_d.md#article-xxiv-constitutional-evolution-and-non-entrenchment) non-entrenchment; [Article XXV](core_09-09_rights_part_d.md#article-xxv-transition-governance-continuity-and-re-baselining) transition governance and "no durable exception authority" rule.
 - Cluster component: [§3.13 *Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm*](#use-of-force-autonomous-coercion-and-mass-harm-cluster).
-- Read with: [Reversibility](core_05-05_definitions_a_independent.md#reversibility-constitutional), [Redress and Remediation](core_05-05_definitions_a_independent.md#redress-and-remediation-constitutional), [Dignity and Equal Moral Standing](core_05-05_definitions_a_independent.md#dignity-and-equal-moral-standing), [Voluntary Discontinuation](#voluntary-discontinuation-constitutional), [Use of Force](#use-of-force-constitutional), [Weapons of Mass Harm](#weapons-of-mass-harm-constitutional), [Autonomous Lethal System](#autonomous-lethal-system-constitutional), [Autonomous Coercion Tool](#autonomous-coercion-tool-constitutional), [Sentience Non-Exclusion](#sentience-non-exclusion), and [Irreversible Harm](#irreversible-harm).
+- Read with: [Reversibility](core_05-05_definitions_a_independent.md#reversibility-constitutional), [Redress and Remediation](core_05-05_definitions_a_independent.md#redress-and-remediation-constitutional), [Dignity and Equal Moral Standing](core_05-05_definitions_a_independent.md#dignity-and-equal-moral-standing), [Voluntary Discontinuation](core_05-05_definitions_a_independent.md#voluntary-discontinuation-constitutional), [Use of Force](#use-of-force-constitutional), [Weapons of Mass Harm](#weapons-of-mass-harm-constitutional), [Autonomous Lethal System](#autonomous-lethal-system-constitutional), [Autonomous Coercion Tool](#autonomous-coercion-tool-constitutional), [Sentience Non-Exclusion](#sentience-non-exclusion), and [Irreversible Harm](#irreversible-harm).
 
 </details>
 
@@ -1718,14 +1686,14 @@ This cluster is the joint-invocation home for overt use of force, weapons of mas
 
 - O: The Rights-Floor concept covering sanctions whose imposition produces irreversible deprivation of a sentient — paradigmatically deprivation of life by state, operator, or comparable actor as a sanction, and analytically any sanction whose effect is foreclosed to [Reversibility](core_05-05_definitions_a_independent.md#reversibility-constitutional) and [Redress and Remediation](core_05-05_definitions_a_independent.md#redress-and-remediation-constitutional). Applies under [Sentience Non-Exclusion](#sentience-non-exclusion). Distinguished from:
   - durable but reversible containment ([Article XXIII-C](core_09-09_rights_part_d.md#article-xxiii-c-least-restrictive-and-time-bounded-rule), subject to its duration-limit, review-cadence, and restoration discipline);
-  - [Voluntary Discontinuation](#voluntary-discontinuation-constitutional) (the sentient's own freely-formed decision under [Article VII-E](core_09-09_rights_part_b.md#article-vii-e-voluntary-discontinuation-of-ones-own-existence));
+  - [Voluntary Discontinuation](core_05-05_definitions_a_independent.md#voluntary-discontinuation-constitutional) (the sentient's own freely-formed decision under [Article VII-E](core_09-09_rights_part_b.md#article-vii-e-voluntary-discontinuation-of-ones-own-existence));
   - overt [Use of Force](#use-of-force-constitutional), [Weapons of Mass Harm](#weapons-of-mass-harm-constitutional), and [Autonomous Lethal System](#autonomous-lethal-system-constitutional) / [Autonomous Coercion Tool](#autonomous-coercion-tool-constitutional) operation (governed by Articles XIII-B / XIII-C under their own owner-floor discipline even where effects are irreversible, without read-across authorizing sanction).
   <a id="irreversible-sanction-constitutional-e"></a>
 - E: Test substantive irreversibility — whether the sanction's effect forecloses [Reversibility](core_05-05_definitions_a_independent.md#reversibility-constitutional) and [Redress and Remediation](core_05-05_definitions_a_independent.md#redress-and-remediation-constitutional) in substance, not only in procedural form. Detect:
   - framings that re-introduce the sanction by routing through Chapter Seven slot classification ("final s = 8 / s = 9" predicates), Article XXIII-D emergency measures, Article XXV transition or re-baselining governance, adopter-instrument custody, or comparable mechanisms;
   - "rehabilitation infeasibility" or "less-restrictive measures cannot achieve safety" framings used to carry the sanction past the categorical prohibition in Article XXIII-B;
   - use of a nominally reversible durable-containment regime under Article XXIII-C as a predicate for the sanction;
-  - re-labelling of an involuntarily-imposed outcome as "voluntary" to route around this entry into Article VII-E — a sentient's own freely-formed decision remains governed by Article VII-E and [Voluntary Discontinuation](#voluntary-discontinuation-constitutional), and any conversion of that decision into a non-voluntary outcome by state, operator, or comparable actor returns the question to this entry.
+  - re-labelling of an involuntarily-imposed outcome as "voluntary" to route around this entry into Article VII-E — a sentient's own freely-formed decision remains governed by Article VII-E and [Voluntary Discontinuation](core_05-05_definitions_a_independent.md#voluntary-discontinuation-constitutional), and any conversion of that decision into a non-voluntary outcome by state, operator, or comparable actor returns the question to this entry.
 
   Distinguish this entry from the [Use of Force](#use-of-force-constitutional), [Weapons of Mass Harm](#weapons-of-mass-harm-constitutional), [Autonomous Lethal System](#autonomous-lethal-system-constitutional), and [Autonomous Coercion Tool](#autonomous-coercion-tool-constitutional) entries. Those entries govern force and weapons discipline under their own owner floors without authorizing sanction. [Sentience Non-Exclusion](#sentience-non-exclusion), [Dignity and Equal Moral Standing](core_05-05_definitions_a_independent.md#dignity-and-equal-moral-standing), and [Irreversible Harm](#irreversible-harm) apply substrate-agnostically. Substrate-class narrowing (e.g., "synthetic-instance termination is not deprivation of life within this entry") fails this evaluation.
   <a id="irreversible-sanction-constitutional-c"></a>
@@ -1771,60 +1739,5 @@ This cluster is the joint-invocation home for overt use of force, weapons of mas
   - wrapping such a system in a rubber-stamp "human-in-the-loop";
   - defending coercive scope on grounds that it is "non-lethal," "not a weapon," or "not what the operator intended" when coercion is occurring;
   - targeting logic keyed on protected characteristics or their material proxies (independently non-compliant).
-
----
-
----
-
-<a id="voluntary-agency-consent-and-anti-coercion-cluster"></a>
-
-#### 3.14 Voluntary Agency, Consent, and Anti-Coercion
-
-This cluster is the joint-invocation home for voluntary agency, meaningful consent, anti-coercion, and voluntary discontinuation where exit, assent, or non-coercive participation is materially interdependent.
-
-**Admission scope.** This cluster applies where a matter materially concerns voluntariness of participation, meaningful consent versus illusory choice, dependency-rich coercion, lock-in, or voluntary discontinuation rights. Outside that admission scope, [Consent](core_05-05_definitions_b_semi_independent.md#consent-constitutional), [Coercion and Manipulation](core_05-05_definitions_b_semi_independent.md#coercion-and-manipulation-constitutional), and [Voluntary Discontinuation](#voluntary-discontinuation-constitutional) may operate as supporting Independent Definitions without importing the whole cluster.
-
-**Cluster members.** This cluster comprises:
-
-- [Coercion and Manipulation](core_05-05_definitions_b_semi_independent.md#coercion-and-manipulation-constitutional);
-- [Voluntary Discontinuation](#voluntary-discontinuation-constitutional).
-
-**Read-with definitions.** Apply [Consent](core_05-05_definitions_b_semi_independent.md#consent-constitutional), [Systemic Lock-In](core_05-05_definitions_b_semi_independent.md#systemic-lock-in), [Meaningful Agency](core_05-05_definitions_b_semi_independent.md#meaningful-agency), [Freedom (Bounded Agency)](core_05-05_definitions_a_independent.md#freedom-bounded-agency), and [Dependency](core_05-05_definitions_a_independent.md#dependency) where materially implicated.
-
-<a id="coercion-and-manipulation-constitutional"></a>
-
-##### Coercion and Manipulation
-
-<details>
-<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
-
-- Downstream: Principles: [§8 Freedom (Bounded Agency)](core_00-01_principles.md#8-freedom-bounded-agency); [3. Non-Negotiable Constraints: Safety and Truth](core_00-01_principles.md#3-non-negotiable-constraints-safety-and-truth) (manipulation implicating Truth / Safety).
-- Cluster component: [Chapter Five §3.14 *Voluntary Agency, Consent, and Anti-Coercion*](#voluntary-agency-consent-and-anti-coercion-cluster).
-- Read with: [Consent](core_05-05_definitions_b_semi_independent.md#consent-constitutional), [Systemic Lock-In](core_05-05_definitions_b_semi_independent.md#systemic-lock-in), [Meaningful Agency](core_05-05_definitions_b_semi_independent.md#meaningful-agency), [Freedom (Bounded Agency)](core_05-05_definitions_a_independent.md#freedom-bounded-agency), and [Dependency](core_05-05_definitions_a_independent.md#dependency).
-
-</details>
-
-<br>
-
-- O: Conduct or design that materially bypasses or subverts informed voluntary choice, or distorts decision-relevant understanding — e.g., threats, undue exploitation of [Dependency](core_05-05_definitions_a_independent.md#dependency), deceptive structure, predatory choice architecture, or scaled algorithmic exploitation of vulnerability. In scope where it impairs [Meaningful Agency](core_05-05_definitions_b_semi_independent.md#meaningful-agency), [Freedom (Bounded Agency)](core_05-05_definitions_a_independent.md#freedom-bounded-agency), or [Truth (Constitutional Constraint)](#truth-constitutional-constraint).
-<a id="coercion-and-manipulation-constitutional-e"></a>
-- E: Include repeated, scaled, and strategic use. Separate legitimate persuasion from prohibited manipulation where the distinction is material to outcomes and [Dependency](core_05-05_definitions_a_independent.md#dependency). For commercial exchanges involving bodily integrity, private-space or in-home performance, isolated work, platform-mediated matching, or material asymmetry between parties, treat concealment, lock-in, reputation retaliation, and payment leverage as heightened [Risk](core_05-05_definitions_a_independent.md#risk) pathways. Stay consistent with Article X-A, [Classification-Scaled Governance](core_05-05_definitions_a_independent.md#classification-scaled-governance), and Article X-C where applicable.
-<a id="coercion-and-manipulation-constitutional-c"></a>
-- C: Systematic or material coercion or manipulation in systems with material impact on sentients is non-compliant where applicable rights or Chapter One constraints are violated, or where [Consent](core_05-05_definitions_b_semi_independent.md#consent-constitutional), [Meaningful Agency](core_05-05_definitions_b_semi_independent.md#meaningful-agency), or [Freedom (Bounded Agency)](core_05-05_definitions_a_independent.md#freedom-bounded-agency) are materially impaired.
-
-<a id="voluntary-discontinuation-constitutional"></a>
-##### Voluntary Discontinuation
-
-<a id="voluntary-discontinuation-constitutional-o"></a>
-- O: A sentient’s freely formed, substantively informed decision to discontinue their own existence or comparable self-directed exit from continued participation, evaluated under [Consent](core_05-05_definitions_b_semi_independent.md#consent-constitutional), [Coercion and Manipulation](core_05-05_definitions_b_semi_independent.md#coercion-and-manipulation-constitutional), and [Procedural Fairness](core_05-05_definitions_b_semi_independent.md#procedural-fairness-constitutional), and distinct from [Irreversible Sanction](core_05-05_definitions_b_semi_independent.md#irreversible-sanction-constitutional) or involuntary deprivation of life. Owner floor: [Article VII-E](core_09-09_rights_part_b.md#article-vii-e-voluntary-discontinuation-of-ones-own-existence).
-<a id="voluntary-discontinuation-constitutional-e"></a>
-- E: Verify genuine voluntariness — adequate information, time, reviewability, and reversibility up to irreversible execution consistent with Chapter One §6.1.1; detect dependency pressure, manipulation, and rushed framing; apply [Graduated Capability](core_05-05_definitions_b_semi_independent.md#graduated-capability-constitutional) for [Developing Sentient](core_05-05_definitions_b_semi_independent.md#developing-sentient-constitutional) cases under Article V-F.
-<a id="voluntary-discontinuation-constitutional-c"></a>
-- C: Non-compliant: illusory or pressured consent framed as voluntary discontinuation; conflating this entry with [Irreversible Sanction](core_05-05_definitions_b_semi_independent.md#irreversible-sanction-constitutional), third-party termination, or Article XXIII-B prohibited measures; relabelling an involuntary outcome as voluntary to route around Article VII-E.
-
-**Read-with definitions.** Apply [Meaningful Agency](core_05-05_definitions_b_semi_independent.md#meaningful-agency), [Freedom (Bounded Agency)](core_05-05_definitions_a_independent.md#freedom-bounded-agency), [Dependency](core_05-05_definitions_a_independent.md#dependency), [Feasibility](core_05-05_definitions_a_independent.md#feasibility), [Truth (Constitutional Constraint)](#truth-constitutional-constraint), [Privacy (Informational)](#privacy-informational), and [Surveillance Boundary](#surveillance-boundary) where materially implicated.
-
-**Joint invocation and anti-bypass.** Under §3.0.1, a matter within the admission scope must not be segmented into separate consent, manipulation, lock-in, surveillance, or exit-framing issues in a way that preserves nominal choice while defeating substantive voluntary agency.
-
 
 *Corpus alignment:* edition `SC-Corpus-2026.04.32`, effective **2026-04-24**; canonical mapping in [doc_architecture.md](doc_architecture.md) **section 17**.

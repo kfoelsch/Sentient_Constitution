@@ -43,7 +43,6 @@ Section 3 currently has **14 clusters** numbered 3.1 through 3.14:
 | 3.11 | Trust and Trustworthiness |
 | 3.12 | Truth and Epistemic Integrity |
 | 3.13 | Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm |
-| 3.14 | Voluntary Agency, Consent, and Anti-Coercion |
 
 ### What Section 2 References (Incorrect)
 

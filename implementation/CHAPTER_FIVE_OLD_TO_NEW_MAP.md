@@ -49,6 +49,5 @@ Earlier “old → new” rows in prior revisions of this file conflicted with t
 | 3.39 | `trust-and-trustworthiness-cluster` |
 | 3.40 | `truth-and-epistemic-integrity-cluster` |
 | 3.41 | `use-of-force-autonomous-coercion-and-mass-harm-cluster` |
-| 3.42 | `voluntary-agency-consent-and-anti-coercion-cluster` |
 
 **Companion cross-reference guard:** Routing *Systemic Lock-In*, *Dependency*, and related governance‑ or concentration‑scaling analysis belongs under **[§3.20 Governance Architecture…](core_05-05_definitions_c_dependent_clusters.md#governance-architecture-oversight-decentralization-and-concentration-cluster)** (**`governance-architecture-oversight-decentralization-and-concentration-cluster`**). **[§3.24](core_05-05_definitions_c_dependent_clusters.md#movement-refuge-non-statelessness-and-exit-integrity-cluster)** *Movement, Refuge, Non-Statelessness, and Exit Integrity* covers mobility, refuge, recognition, and exit‑integrity predicates—do **not** use §3.24 as the sole cite for lock‑in or dependency foreclosure (PRIM7, Protocol D, **Article XIX**, and `doc_architecture` interoperability rows were aligned 2026‑04‑29).

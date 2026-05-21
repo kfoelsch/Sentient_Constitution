@@ -132,7 +132,6 @@ The following 12 clusters contain local O/E/C definitions:
 | 3.38 | Transparency, Auditability, and Verification | ✅ Yes (Transparency, Audit Scope Sufficiency, Auditability, Evaluation Completeness, Observability, Verifiability, and verification sub-definitions) |
 | 3.39 | Trust and Trustworthiness | ✅ Yes (Trust, Trustworthiness, Trust Degradation, and all subcomponents) |
 | 3.40 | Truth and Epistemic Integrity | ✅ Yes (Truth, Epistemic Integrity, Publication and High-Impact Communication, Foreseeability Diligence, Reasonably Foreseeable, and all subcomponents) |
-| 3.42 | Voluntary Agency, Consent, and Anti-Coercion | ✅ Yes (Voluntary Discontinuation) |
 
 ---
 

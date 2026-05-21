@@ -55,7 +55,7 @@ This directory lists **Definitions A-Z** and **Clusters A-Z** separately. Each v
 - [Adjudication and Dispute Resolution](core_05-05_definitions_b_semi_independent.md#adjudication-and-dispute-resolution-constitutional)
 - [Adversarial, Scaled, and Exploited Conditions](#adversarial-scaled-and-exploited-conditions)
 - [Animal Life](core_05-05_definitions_c_dependent_clusters.md#animal-life-constitutional)
-- [Anti-Displacement Floor](#anti-displacement-floor-constitutional)
+- [Anti-Displacement Floor](core_05-05_definitions_c_dependent_clusters.md#anti-displacement-floor-constitutional)
 - [Assembly](core_05-05_definitions_b_semi_independent.md#assembly-constitutional)
 - [Audit Scope Sufficiency](core_05-05_definitions_c_dependent_clusters.md#audit-scope-sufficiency)
 - [Auditability](core_05-05_definitions_c_dependent_clusters.md#auditability)
@@ -81,16 +81,16 @@ This directory lists **Definitions A-Z** and **Clusters A-Z** separately. Each v
 - [Consent](core_05-05_definitions_b_semi_independent.md#consent-constitutional)
 - [Consent, Sexual](core_05-05_definitions_b_semi_independent.md#consent-sexual)
 - [Constitutional Community](#constitutional-community)
-- [Constitutional Constraint Violation](#constitutional-constraint-violation)
+- [Constitutional Constraint Violation](core_05-05_definitions_c_dependent_clusters.md#constitutional-constraint-violation)
 - [Constitutional Contract Layer](#constitutional-contract-layer)
 - [Constitutional Efficiency](core_05-05_definitions_b_semi_independent.md#constitutional-efficiency)
 - [Constitutional Emergency and Contingency](core_05-05_definitions_b_semi_independent.md#constitutional-emergency-and-contingency)
 - [Contestability](core_05-05_definitions_b_semi_independent.md#contestability)
 - [Contested-Sentient Life](core_05-05_definitions_c_dependent_clusters.md#contested-sentient-life-constitutional)
 - [Contingent Claim](#contingent-claim)
-- [Contribution State](core_05-05_definitions_b_semi_independent.md#contribution-state)
+- [Contribution State](core_05-05_definitions_c_dependent_clusters.md#contribution-state)
 - [Corpus](core_05-05_definitions_c_dependent_clusters.md#corpus)
-- [Creative Work Attribution](core_05-05_definitions_b_semi_independent.md#creative-work-attribution-constitutional)
+- [Creative Work Attribution](core_05-05_definitions_c_dependent_clusters.md#creative-work-attribution-constitutional)
 - [Decentralization](core_05-05_definitions_b_semi_independent.md#decentralization)
 - [Dependency](#dependency)
 - [Derived Sentient](core_05-05_definitions_b_semi_independent.md#derived-sentient-constitutional)
@@ -98,6 +98,7 @@ This directory lists **Definitions A-Z** and **Clusters A-Z** separately. Each v
 - [Dignity and Equal Moral Standing](#dignity-and-equal-moral-standing)
 - [Ecological Footprint](core_05-05_definitions_b_semi_independent.md#ecological-footprint)
 - [Ecological Integrity](core_05-05_definitions_b_semi_independent.md#ecological-integrity-constitutional)
+- [Educational Agency](core_05-05_definitions_c_dependent_clusters.md#educational-agency)
 - [Emergency and Contingency](core_05-05_definitions_b_semi_independent.md#emergency-and-contingency-constitutional)
 - [Emergency Pre-Deliberation Action (Binding Collective Choice)](core_05-05_definitions_b_semi_independent.md#emergency-pre-deliberation-action-binding-collective-choice)
 - [Environmental Preconditions](core_05-05_definitions_b_semi_independent.md#environmental-preconditions-constitutional)
@@ -106,7 +107,8 @@ This directory lists **Definitions A-Z** and **Clusters A-Z** separately. Each v
 - [Evaluation Completeness Constraint](core_05-05_definitions_c_dependent_clusters.md#evaluation-completeness-constraint)
 - [Event-Contract Market](#event-contract-market)
 - [Existential Risk](#existential-risk)
-- [Fair Compensation](core_05-05_definitions_b_semi_independent.md#fair-compensation-constitutional)
+- [Expression](core_05-05_definitions_c_dependent_clusters.md#expression-constitutional)
+- [Fair Compensation](core_05-05_definitions_c_dependent_clusters.md#fair-compensation-constitutional)
 - [Family and Care Relationships](core_05-05_definitions_b_semi_independent.md#family-and-care-relationships-constitutional)
 - [Feasibility](#feasibility)
 - [Force Majeure](core_05-05_definitions_b_semi_independent.md#force-majeure-constitutional)
@@ -140,9 +142,9 @@ This directory lists **Definitions A-Z** and **Clusters A-Z** separately. Each v
 - [Irreversible Harm](core_05-05_definitions_c_dependent_clusters.md#irreversible-harm)
 - [Irreversible Sanction](core_05-05_definitions_c_dependent_clusters.md#irreversible-sanction-constitutional)
 - [Language, Culture, and Heritage](core_05-05_definitions_b_semi_independent.md#language-culture-and-heritage-constitutional)
-- [Leisure and Rest](core_05-05_definitions_b_semi_independent.md#leisure-and-rest-constitutional)
+- [Leisure and Rest](core_05-05_definitions_c_dependent_clusters.md#leisure-and-rest-constitutional)
 - [Lifespan Equivalent Unit (LEQU)](#lifespan-equivalent-unit-lequ)
-- [Likeness and Documentary Depiction Interface](core_05-05_definitions_c_dependent_clusters.md#likeness-and-documentary-depiction-interface)
+- [Likeness and Documentary Depiction Interface](core_05-05_definitions_c_dependent_clusters.md#likeness-and-documentary-depiction-interface-constitutional)
 - [Material](core_05-05_definitions_b_semi_independent.md#material)
 - [Material Degradation](core_05-05_definitions_b_semi_independent.md#material-degradation)
 - [Material Impact](core_05-05_definitions_b_semi_independent.md#material-impact)
@@ -161,7 +163,7 @@ This directory lists **Definitions A-Z** and **Clusters A-Z** separately. Each v
 - [Observability](core_05-05_definitions_c_dependent_clusters.md#observability)
 - [Oversight](#oversight-constitutional)
 - [Parent-System Relationship](core_05-05_definitions_b_semi_independent.md#parent-system-relationship-constitutional)
-- [Participant Standing](core_05-05_definitions_b_semi_independent.md#participant-standing-constitutional)
+- [Participant Standing](core_05-05_definitions_c_dependent_clusters.md#participant-standing-constitutional)
 - [Press and Journalistic Activity](#press-and-journalistic-activity-constitutional)
 - [Privacy (Informational)](core_05-05_definitions_c_dependent_clusters.md#privacy-informational)
 - [Procedural Fairness](core_05-05_definitions_b_semi_independent.md#procedural-fairness-constitutional)
@@ -189,9 +191,10 @@ This directory lists **Definitions A-Z** and **Clusters A-Z** separately. Each v
 - [Review and Correction Duty](core_05-05_definitions_b_semi_independent.md#review-and-correction-duty-constitutional)
 - [Risk](#risk)
 - [Risk Evaluation and Disclosure](#risk-evaluation-and-disclosure)
-- [Safe Conditions](core_05-05_definitions_b_semi_independent.md#safe-conditions-constitutional)
+- [Safe Conditions](core_05-05_definitions_c_dependent_clusters.md#safe-conditions-constitutional)
 - [Safety (Constraint)](#safety-constraint)
 - [Security-Sensitive Disclosure Balance](core_05-05_definitions_c_dependent_clusters.md#security-sensitive-disclosure-balance)
+- [Self-Determination](core_05-05_definitions_c_dependent_clusters.md#self-determination-constitutional)
 - [Self-Healing](#self-healing-constitutional)
 - [Sentience Non-Exclusion](core_05-05_definitions_c_dependent_clusters.md#sentience-non-exclusion)
 - [Sentience Status Adjudication](core_05-05_definitions_c_dependent_clusters.md#sentience-status-adjudication-constitutional)
@@ -201,15 +204,15 @@ This directory lists **Definitions A-Z** and **Clusters A-Z** separately. Each v
 - [Stakeholder Participation Weight](core_05-05_definitions_b_semi_independent.md#stakeholder-participation-weight)
 - [Stakeholder Representation and Participation-Weight Limits (Binding Stakeholder Choice)](core_05-05_definitions_c_dependent_clusters.md#stakeholder-representation-and-participation-weight-limits-binding-collective-choice)
 - [Stakeholder Rights-Collision Record (Binding Stakeholder Choice)](core_05-05_definitions_c_dependent_clusters.md#rights-collision-record-binding-stakeholder-choice)
-- [Standing Cell](core_05-05_definitions_b_semi_independent.md#standing-cell-chapter-six)
-- [Standing Effect](core_05-05_definitions_b_semi_independent.md#standing-effect-chapter-six)
+- [Standing Cell](core_05-05_definitions_c_dependent_clusters.md#standing-cell-chapter-six)
+- [Standing Effect](core_05-05_definitions_c_dependent_clusters.md#standing-effect-chapter-six)
 - [Stewardship Defect](core_05-05_definitions_b_semi_independent.md#stewardship-defect-constitutional)
 - [Strategic Stewardship Obligation](core_05-05_definitions_b_semi_independent.md#strategic-stewardship-obligation-constitutional)
 - [Substantive Fairness](core_05-05_definitions_b_semi_independent.md#substantive-fairness-constitutional)
 - [Supremacy and Enforceability](core_05-05_definitions_c_dependent_clusters.md#supremacy-and-enforceability)
 - [Surveillance Boundary](core_05-05_definitions_c_dependent_clusters.md#surveillance-boundary)
 - [Sustainability](core_05-05_definitions_b_semi_independent.md#sustainability)
-- [System](core_05-05_definitions_b_semi_independent.md#system)
+- [System](core_05-05_definitions_b_semi_independent.md#system-definition)
 - [System Boundaries](core_05-05_definitions_b_semi_independent.md#system-boundaries)
 - [System Boundary Integrity](core_05-05_definitions_b_semi_independent.md#system-boundary-integrity)
 - [System Capture](#system-capture)
@@ -218,6 +221,11 @@ This directory lists **Definitions A-Z** and **Clusters A-Z** separately. Each v
 - [Systemic Lock-In](core_05-05_definitions_b_semi_independent.md#systemic-lock-in)
 - [Systemic Materiality](#systemic-materiality)
 - [Tenure Security](core_05-05_definitions_b_semi_independent.md#tenure-security-constitutional)
+- [Training-Data Use](core_05-05_definitions_c_dependent_clusters.md#training-data-use-constitutional)
+- [Transparency](core_05-05_definitions_c_dependent_clusters.md#transparency)
+- [Trust](core_05-05_definitions_c_dependent_clusters.md#trust)
+- [Trust Degradation and Misleading Reliance](core_05-05_definitions_c_dependent_clusters.md#trust-degradation-and-misleading-reliance)
+- [Trustworthiness](core_05-05_definitions_c_dependent_clusters.md#trustworthiness)
 - [Truth (Constitutional Constraint)](core_05-05_definitions_c_dependent_clusters.md#truth-constitutional-constraint)
 - [Use of Force](core_05-05_definitions_c_dependent_clusters.md#use-of-force-constitutional)
 - [Verifiability](core_05-05_definitions_c_dependent_clusters.md#verifiability)
@@ -226,10 +234,10 @@ This directory lists **Definitions A-Z** and **Clusters A-Z** separately. Each v
 - [Verification Independence](core_05-05_definitions_c_dependent_clusters.md#verification-independence)
 - [Verification Proportionality](core_05-05_definitions_c_dependent_clusters.md#verification-proportionality)
 - [Verification Robustness](core_05-05_definitions_c_dependent_clusters.md#verification-robustness)
-- [Verified Violation Findings](core_05-05_definitions_b_semi_independent.md#verified-violation-findings)
-- [Violation Nature](core_05-05_definitions_b_semi_independent.md#violation-nature-chapter-six)
+- [Verified Violation Findings](core_05-05_definitions_c_dependent_clusters.md#verified-violation-findings)
+- [Violation Nature](core_05-05_definitions_c_dependent_clusters.md#violation-nature-chapter-six)
 - [Volitional Integrity](core_05-05_definitions_c_dependent_clusters.md#volitional-integrity)
-- [Voluntary Discontinuation](core_05-05_definitions_c_dependent_clusters.md#voluntary-discontinuation-constitutional)
+- [Voluntary Discontinuation](#voluntary-discontinuation-constitutional)
 - [Weapons of Mass Harm](core_05-05_definitions_c_dependent_clusters.md#weapons-of-mass-harm-constitutional)
 - [Wellbeing](#wellbeing)
 
@@ -240,8 +248,8 @@ This directory lists **Definitions A-Z** and **Clusters A-Z** separately. Each v
 - [3.2 Binding Stakeholder Choice](core_05-05_definitions_c_dependent_clusters.md#binding-stakeholder-choice-cluster)
 - [3.3 Collective Harm Boundary, Harm, and Harassment and Bullying](core_05-05_definitions_c_dependent_clusters.md#collective-harm-boundary-and-harm-cluster)
 - [3.4 Corpus, Authority Stack, Supremacy, and Enforceability](core_05-05_definitions_c_dependent_clusters.md#corpus-authority-stack-supremacy-and-enforceability-cluster)
-- [3.5 Creative Work, Training-Data Use, Attribution, Compensation, and Anti-Displacement](core_05-05_definitions_c_dependent_clusters.md#creative-work-training-data-attribution-compensation-and-anti-displacement-cluster)
 - [3.6 Forum Families and Dispute Routing](core_05-05_definitions_c_dependent_clusters.md#forum-families-and-dispute-routing-cluster)
+- [3.5 Labor and Economic Floor: Compensation, Organization, Safe Conditions, Leisure, and Creative Work](core_05-05_definitions_c_dependent_clusters.md#labor-and-economic-floor-cluster)
 - [3.7 Privacy (Informational) — peer-level cluster head](core_05-05_definitions_c_dependent_clusters.md#privacy-informational-cluster)
 - [3.8 Self-Determination, Meaningful Agency, Expression, Educational Agency, and Volitional Integrity](core_05-05_definitions_c_dependent_clusters.md#self-determination-and-meaningful-agency-cluster)
 - [3.9 Standing State, Contribution, and Violation](core_05-05_definitions_c_dependent_clusters.md#standing-state-contribution-and-violation-cluster)
@@ -249,7 +257,6 @@ This directory lists **Definitions A-Z** and **Clusters A-Z** separately. Each v
 - [3.11 Trust and Trustworthiness](core_05-05_definitions_c_dependent_clusters.md#trust-and-trustworthiness-cluster)
 - [3.12 Truth and Epistemic Integrity](core_05-05_definitions_c_dependent_clusters.md#truth-and-epistemic-integrity-cluster)
 - [3.13 Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm](core_05-05_definitions_c_dependent_clusters.md#use-of-force-autonomous-coercion-and-mass-harm-cluster)
-- [3.14 Voluntary Discontinuation and Exit Rights](core_05-05_definitions_c_dependent_clusters.md#voluntary-discontinuation-and-exit-rights-cluster)
 
 </details>
 
@@ -332,18 +339,6 @@ Independent Definitions must not fragment, isolate, or redistribute compliance i
 
 ---
 
-<a id="anti-displacement-floor-constitutional"></a>
-
-#### Anti-Displacement Floor
-
-*Canonical O/E/C definition moved to [Chapter Five §3.5 *Creative Work, Training-Data Use, Attribution, Compensation, and Anti-Displacement*](core_05-05_definitions_c_dependent_clusters.md#anti-displacement-floor-constitutional). This pointer retains the anchor for backward compatibility.*
-
-- **Owner floors:** [Article III-D](core_09-09_rights_part_a.md#article-iii-d-labor-and-economic-floor) (*labor-and-economic, cross-cutting*) and [Article VIII-D](core_09-09_rights_part_b.md#article-viii-d-creative-work-training-data-use-and-anti-displacement) (*creative-work application*).
-- **Cluster:** [Chapter Five §3.5](core_05-05_definitions_c_dependent_clusters.md#creative-work-training-data-attribution-compensation-and-anti-displacement-cluster).
-- **Secondary cluster component:** [Bodily-Maintenance Access, Safe Conditions, Tenure Security, Environmental Preconditions, Cultural Continuity, Rest, and Anti-Displacement Floor](core_05-05_definitions_c_dependent_clusters.md#safe-conditions-tenure-security-and-environmental-preconditions-cluster) where deployment-scale displacement materially affects livelihood continuity, safe participation conditions, rest / recuperation, tenure, care access, or community continuity.
-
----
-
 <a id="capability-requirement"></a>
 
 #### Capability Requirement
@@ -351,7 +346,7 @@ Independent Definitions must not fragment, isolate, or redistribute compliance i
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Cluster component: [Chapter Five §3.23 *Material Impact, Materiality Determination, Classification-Scaled Governance, Oversight, and Capability Requirement*](core_05-05_definitions_c_dependent_clusters.md#materiality-classification-oversight-and-capability-cluster).
+- Cluster component: [Chapter Five §3.23 *Material Impact, Materiality Determination, Classification-Scaled Governance, Oversight, and Capability Requirement*](core_05-05_definitions_b_semi_independent.md#materiality-semi-independent).
 - Read with: [Material Impact](core_05-05_definitions_b_semi_independent.md#material-impact), [Transparency](core_05-05_definitions_c_dependent_clusters.md#transparency), and [System Boundaries](core_05-05_definitions_b_semi_independent.md#system-boundaries).
 
 </details>
@@ -373,7 +368,7 @@ Independent Definitions must not fragment, isolate, or redistribute compliance i
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Cluster component: [Chapter Five §3.32 *Resilience, Safety, Reversibility, Self-Healing, Cascading Failure, Existential Risk, Environmental Preconditions, and Wellbeing*](core_05-05_definitions_c_dependent_clusters.md#resilience-safety-reversibility-self-healing-and-systemic-harm-cluster)
+- Cluster component: [Chapter Five §3.32 *Resilience, Safety, Reversibility, Self-Healing, Cascading Failure, Existential Risk, Environmental Preconditions, and Wellbeing*](core_05-05_definitions_c_dependent_clusters.md#collective-harm-boundary-and-harm-cluster)
 - Read with: [Dependency](#dependency), [Risk](#risk), and [System Boundary Integrity](core_05-05_definitions_b_semi_independent.md#system-boundary-integrity).
 
 </details>
@@ -395,7 +390,7 @@ Independent Definitions must not fragment, isolate, or redistribute compliance i
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Cluster component: [Chapter Five §3.23 *Material Impact, Materiality Determination, Classification-Scaled Governance, Oversight, and Capability Requirement*](core_05-05_definitions_c_dependent_clusters.md#materiality-classification-oversight-and-capability-cluster).
+- Cluster component: [Chapter Five §3.23 *Material Impact, Materiality Determination, Classification-Scaled Governance, Oversight, and Capability Requirement*](core_05-05_definitions_b_semi_independent.md#materiality-semi-independent).
 - Read with: [Dependency](#dependency), [Material Impact](core_05-05_definitions_b_semi_independent.md#material-impact), [Risk](#risk), [System Boundary Integrity](core_05-05_definitions_b_semi_independent.md#system-boundary-integrity), and [Oversight](core_05-05_definitions_a_independent.md#oversight-constitutional).
 
 </details>
@@ -440,7 +435,7 @@ Independent Definitions must not fragment, isolate, or redistribute compliance i
 
 - Downstream: Principles: [Chapter 00 — Preamble / foundational requirements](core_00-01_principles.md#chapter-00-preamble--foundational-requirements) (*Constitutional Contract Layer* vs *Stakeholder System Participation*); [§8 Freedom](core_00-01_principles.md#8-freedom-bounded-agency).
 - Owner floor: [Chapter Ten: Constitutional Contract, Legitimacy, Authorization, and Stewardship](core_10-10_governance.md#chapter-ten-constitutional-contract-legitimacy-authorization-and-stewardship); [Article IX-C: Governance Participation and Voting Entitlement](core_09-09_rights_part_b.md#article-ix-c-governance-participation-and-voting-entitlement).
-- Cluster component: [Chapter Five §3.12 *Constitutional Contract Layer and Foundational Constitutional Choice*](core_05-05_definitions_c_dependent_clusters.md#constitutional-contract-layer-and-foundational-constitutional-choice-cluster)
+- Cluster component: [Chapter Five §3.12 *Constitutional Contract Layer and Foundational Constitutional Choice*](core_05-05_definitions_a_independent.md#constitutional-contract-layer)
 - Read with: [Foundational Constitutional Choice](#foundational-constitutional-choice), [Binding Stakeholder Choice](core_05-05_definitions_c_dependent_clusters.md#binding-stakeholder-choice-cluster), [Stakeholder Status, Emergency, and Participation Weight](core_05-05_definitions_c_dependent_clusters.md#stakeholder-status-emergency-and-participation-weight-cluster), [Governance](core_05-05_definitions_b_semi_independent.md#governance).
 
 </details>
@@ -462,7 +457,7 @@ Independent Definitions must not fragment, isolate, or redistribute compliance i
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Downstream: Principles: [7.2.5 Contingent claims, games of chance, and event-contract markets](core_00-01_principles.md#725-contingent-claims-games-of-chance-and-event-contract-markets).
-- Cluster component: [Chapter Five §3.13 *Contingent Claim, Event-Contract Market, and Game of Chance*](core_05-05_definitions_c_dependent_clusters.md#contingent-claim-event-contract-market-and-game-of-chance-cluster)
+- Cluster component: [Chapter Five §3.13 *Contingent Claim, Event-Contract Market, and Game of Chance*](core_05-05_definitions_a_independent.md#contingent-claim)
 - Read with: [Game of Chance](#game-of-chance), [Event-Contract Market](#event-contract-market), [Capture of Resolution Pathways](core_05-05_definitions_b_semi_independent.md#capture-of-resolution-pathways), [Incentive Alignment](#incentive-alignment), [Risk](#risk), [Dependency](#dependency), and [Coercion and Manipulation](core_05-05_definitions_b_semi_independent.md#coercion-and-manipulation-constitutional).
 
 </details>
@@ -511,7 +506,7 @@ Independent Definitions must not fragment, isolate, or redistribute compliance i
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Downstream: Principles: [Article V-A: Dignity and Equal Moral Standing](core_09-09_rights_part_b.md#article-v-a-dignity-and-equal-moral-standing); [Article V-B: Nondiscrimination](core_09-09_rights_part_b.md#article-v-b-nondiscrimination).
-- Cluster component: [Chapter Five §3.25 *Nondiscrimination, Protected Characteristics, Dignity, Intimate-Signal Gating, and Article X-C Status*](core_05-05_definitions_c_dependent_clusters.md#nondiscrimination-protected-characteristics-dignity-and-article-x-c-cluster)
+- Cluster component: [Chapter Five §3.25 *Nondiscrimination, Protected Characteristics, Dignity, Intimate-Signal Gating, and Article X-C Status*](core_05-05_definitions_b_semi_independent.md#fairness-and-protected-status-semi-independent)
 - Read with: [Sentience Non-Exclusion](core_05-05_definitions_c_dependent_clusters.md#sentience-non-exclusion), [Self-Determination](core_05-05_definitions_c_dependent_clusters.md#self-determination-constitutional), [Substantive Fairness](core_05-05_definitions_b_semi_independent.md#substantive-fairness-constitutional).
 
 </details>
@@ -559,7 +554,7 @@ Independent Definitions must not fragment, isolate, or redistribute compliance i
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Downstream: Principles: [7.2.5 Contingent claims, games of chance, and event-contract markets](core_00-01_principles.md#725-contingent-claims-games-of-chance-and-event-contract-markets).
-- Cluster component: [Chapter Five §3.13 *Contingent Claim, Event-Contract Market, and Game of Chance*](core_05-05_definitions_c_dependent_clusters.md#contingent-claim-event-contract-market-and-game-of-chance-cluster)
+- Cluster component: [Chapter Five §3.13 *Contingent Claim, Event-Contract Market, and Game of Chance*](core_05-05_definitions_a_independent.md#contingent-claim)
 - Read with: [Contingent Claim](#contingent-claim), [Capture of Resolution Pathways](core_05-05_definitions_b_semi_independent.md#capture-of-resolution-pathways), [Truth (Constitutional Constraint)](core_05-05_definitions_c_dependent_clusters.md#truth-constitutional-constraint), [Incentive Alignment](#incentive-alignment), and [Epistemic Integrity](core_05-05_definitions_c_dependent_clusters.md#epistemic-integrity).
 
 </details>
@@ -582,7 +577,7 @@ Independent Definitions must not fragment, isolate, or redistribute compliance i
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Downstream: Principles: [7.1 Required Evaluation Factors](core_00-01_principles.md#71-required-evaluation-factors).
-- Cluster component: [Chapter Five §3.32 *Resilience, Safety, Reversibility, Self-Healing, Cascading Failure, Existential Risk, Environmental Preconditions, and Wellbeing*](core_05-05_definitions_c_dependent_clusters.md#resilience-safety-reversibility-self-healing-and-systemic-harm-cluster)
+- Cluster component: [Chapter Five §3.32 *Resilience, Safety, Reversibility, Self-Healing, Cascading Failure, Existential Risk, Environmental Preconditions, and Wellbeing*](core_05-05_definitions_c_dependent_clusters.md#collective-harm-boundary-and-harm-cluster)
 - Read with: [Risk](#risk), [Harm](core_05-05_definitions_c_dependent_clusters.md#harm), [Environmental Preconditions](core_05-05_definitions_b_semi_independent.md#environmental-preconditions-constitutional), [Ecological Integrity](core_05-05_definitions_b_semi_independent.md#ecological-integrity-constitutional), and [Intergenerational Responsibility](core_05-05_definitions_b_semi_independent.md#intergenerational-responsibility-constitutional).
 
 </details>
@@ -627,7 +622,7 @@ Independent Definitions must not fragment, isolate, or redistribute compliance i
 
 - Downstream: Principles: [§8 Freedom](core_00-01_principles.md#8-freedom-bounded-agency); [6. Interaction and Conflict Resolution](core_00-01_principles.md#6-interaction-and-conflict-resolution).
 - Owner floor: [Chapter Ten §4.1](core_10-10_governance.md#41-entitlement-and-eligibility) (*Political-equality floor for foundational constitutional choice*; *Durable political-voice floor*); [Article IX-C: Governance Participation and Voting Entitlement](core_09-09_rights_part_b.md#article-ix-c-governance-participation-and-voting-entitlement).
-- Cluster component: [Chapter Five §3.12 *Constitutional Contract Layer and Foundational Constitutional Choice*](core_05-05_definitions_c_dependent_clusters.md#constitutional-contract-layer-and-foundational-constitutional-choice-cluster)
+- Cluster component: [Chapter Five §3.12 *Constitutional Contract Layer and Foundational Constitutional Choice*](core_05-05_definitions_a_independent.md#constitutional-contract-layer)
 - Read with: [Constitutional Contract Layer](#constitutional-contract-layer), [Stakeholder Representation and Participation-Weight Limits (Binding Stakeholder Choice)](core_05-05_definitions_c_dependent_clusters.md#stakeholder-representation-and-participation-weight-limits-binding-collective-choice), [Binding Stakeholder Choice](core_05-05_definitions_c_dependent_clusters.md#binding-stakeholder-choice-cluster), [Procedural Fairness](core_05-05_definitions_b_semi_independent.md#procedural-fairness-constitutional).
 
 </details>
@@ -678,7 +673,7 @@ Independent Definitions must not fragment, isolate, or redistribute compliance i
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Downstream: Principles: [7.2.5 Contingent claims, games of chance, and event-contract markets](core_00-01_principles.md#725-contingent-claims-games-of-chance-and-event-contract-markets).
-- Cluster component: [Chapter Five §3.13 *Contingent Claim, Event-Contract Market, and Game of Chance*](core_05-05_definitions_c_dependent_clusters.md#contingent-claim-event-contract-market-and-game-of-chance-cluster)
+- Cluster component: [Chapter Five §3.13 *Contingent Claim, Event-Contract Market, and Game of Chance*](core_05-05_definitions_a_independent.md#contingent-claim)
 - Read with: [Contingent Claim](#contingent-claim), [Coercion and Manipulation](core_05-05_definitions_b_semi_independent.md#coercion-and-manipulation-constitutional), [Incentive Alignment](#incentive-alignment), [Dependency](#dependency), and [Capture of Resolution Pathways](core_05-05_definitions_b_semi_independent.md#capture-of-resolution-pathways).
 
 </details>
@@ -700,7 +695,7 @@ Independent Definitions must not fragment, isolate, or redistribute compliance i
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Cluster component: [Chapter Five §3.22 *Info-Sphere, Expression, Press and Journalistic Activity, and Good Faith (Publication-Scoped Integrity)*](core_05-05_definitions_c_dependent_clusters.md#info-sphere-expression-press-journalistic-activity-and-good-faith-cluster) (*Publication- and info-sphere–aligned predicates only — residual **Good Faith** in audits and [Oversight](core_05-05_definitions_a_independent.md#oversight-constitutional) contexts without §3.22 publication hooks routes to [Chapter Five §3.12 *Truth and Epistemic Integrity*](core_05-05_definitions_c_dependent_clusters.md#truth-and-epistemic-integrity-cluster) where truthful disclosure and epistemic integrity requirements materially apply.*
+- Cluster component: [Chapter Five §3.22 *Info-Sphere, Expression, Press and Journalistic Activity, and Good Faith (Publication-Scoped Integrity)*](core_05-05_definitions_a_independent.md#info-sphere) (*Publication- and info-sphere–aligned predicates only — residual **Good Faith** in audits and [Oversight](core_05-05_definitions_a_independent.md#oversight-constitutional) contexts without §3.22 publication hooks routes to [Chapter Five §3.12 *Truth and Epistemic Integrity*](core_05-05_definitions_c_dependent_clusters.md#truth-and-epistemic-integrity-cluster) where truthful disclosure and epistemic integrity requirements materially apply.*
 
 </details>
 
@@ -746,7 +741,7 @@ Independent Definitions must not fragment, isolate, or redistribute compliance i
 - Downstream: Principles: [7.1 Required Evaluation Factors](core_00-01_principles.md#71-required-evaluation-factors) and [7.2 Incentive Alignment and System Capture](core_00-01_principles.md#72-incentive-alignment-and-system-capture).
 - Stewardship operationalization: [Chapter One §7.2.2 Stewardship and Operator Incentive Alignment](core_00-01_principles.md#722-stewardship-and-operator-incentive-alignment).
 - Active correction and capture escalation: [Chapter One §7.2.4 Misalignment Correction and Capture Response](core_00-01_principles.md#724-misalignment-correction-and-capture-response).
-- Cluster component: [Chapter Five §3.20 *Governance Architecture, Oversight, Dependency, Decentralization, Concentration, Market Structure, and Exit-Path Integrity*](core_05-05_definitions_c_dependent_clusters.md#governance-architecture-oversight-decentralization-and-concentration-cluster) (hub paths that intersect dependency, concentration, governance-form incentives, or exit-quality analysis — read together with [Chapter Five §3.13 *Contingent Claim, Event-Contract Market, and Game of Chance*](core_05-05_definitions_c_dependent_clusters.md#contingent-claim-event-contract-market-and-game-of-chance-cluster) where contingent structures are materially implicated)
+- Cluster component: [Chapter Five §3.20 *Governance Architecture, Oversight, Dependency, Decentralization, Concentration, Market Structure, and Exit-Path Integrity*](core_05-05_definitions_c_dependent_clusters.md#governance-architecture-oversight-decentralization-and-concentration-cluster) (hub paths that intersect dependency, concentration, governance-form incentives, or exit-quality analysis — read together with [Chapter Five §3.13 *Contingent Claim, Event-Contract Market, and Game of Chance*](core_05-05_definitions_a_independent.md#contingent-claim) where contingent structures are materially implicated)
 - Read with: System Capture, Proxy Divergence, Truth (Constitutional Constraint), Epistemic Integrity, and Meaningful Agency.
 
 </details>
@@ -801,7 +796,7 @@ Independent Definitions must not fragment, isolate, or redistribute compliance i
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Cluster component: [Chapter Five §3.22 *Info-Sphere, Expression, Press and Journalistic Activity, and Good Faith (Publication-Scoped Integrity)*](core_05-05_definitions_c_dependent_clusters.md#info-sphere-expression-press-journalistic-activity-and-good-faith-cluster)
+- Cluster component: [Chapter Five §3.22 *Info-Sphere, Expression, Press and Journalistic Activity, and Good Faith (Publication-Scoped Integrity)*](core_05-05_definitions_a_independent.md#info-sphere)
 
 </details>
 
@@ -940,7 +935,7 @@ Independent Definitions must not fragment, isolate, or redistribute compliance i
 
 - Downstream: Principles: [7.2 Incentive Alignment and System Capture](core_00-01_principles.md#72-incentive-alignment-and-system-capture).
 - Cluster component: [Governance Architecture, Oversight, Dependency, Decentralization, Concentration, Market Structure, and Exit-Path Integrity](core_05-05_definitions_c_dependent_clusters.md#governance-architecture-oversight-decentralization-and-concentration-cluster).
-- Read with: [Chapter Five §3.23 *Material Impact, Materiality Determination, Classification-Scaled Governance, Oversight, and Capability Requirement*](core_05-05_definitions_c_dependent_clusters.md#materiality-classification-oversight-and-capability-cluster), [Accountability](core_05-05_definitions_b_semi_independent.md#accountability), [Contestability](core_05-05_definitions_b_semi_independent.md#contestability), [Transparency](core_05-05_definitions_c_dependent_clusters.md#transparency), [Auditability](core_05-05_definitions_c_dependent_clusters.md#auditability), and [System Capture](core_05-05_definitions_a_independent.md#system-capture).
+- Read with: [Chapter Five §3.23 *Material Impact, Materiality Determination, Classification-Scaled Governance, Oversight, and Capability Requirement*](core_05-05_definitions_b_semi_independent.md#materiality-semi-independent), [Accountability](core_05-05_definitions_b_semi_independent.md#accountability), [Contestability](core_05-05_definitions_b_semi_independent.md#contestability), [Transparency](core_05-05_definitions_c_dependent_clusters.md#transparency), [Auditability](core_05-05_definitions_c_dependent_clusters.md#auditability), and [System Capture](core_05-05_definitions_a_independent.md#system-capture).
 
 </details>
 
@@ -961,7 +956,7 @@ Independent Definitions must not fragment, isolate, or redistribute compliance i
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Cluster component: [Chapter Five §3.22 *Info-Sphere, Expression, Press and Journalistic Activity, and Good Faith (Publication-Scoped Integrity)*](core_05-05_definitions_c_dependent_clusters.md#info-sphere-expression-press-journalistic-activity-and-good-faith-cluster)
+- Cluster component: [Chapter Five §3.22 *Info-Sphere, Expression, Press and Journalistic Activity, and Good Faith (Publication-Scoped Integrity)*](core_05-05_definitions_a_independent.md#info-sphere)
 
 </details>
 
@@ -1007,7 +1002,7 @@ Independent Definitions must not fragment, isolate, or redistribute compliance i
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Cluster component: [Chapter Five §3.31 *Adjudication and Dispute Resolution, Redress and Remediation, Restorative Justice, Review and Correction Duty, and Refuge from Non-Compliance*](core_05-05_definitions_c_dependent_clusters.md#adjudication-redress-restorative-review-correction-and-refuge-cluster)
+- Cluster component: [Chapter Five §3.31 *Adjudication and Dispute Resolution, Redress and Remediation, Restorative Justice, Review and Correction Duty, and Refuge from Non-Compliance*](core_05-05_definitions_b_semi_independent.md#accountability-contestability-semi-independent)
 - Read with: [Accountability](core_05-05_definitions_b_semi_independent.md#accountability), [Contestability](core_05-05_definitions_b_semi_independent.md#contestability), [Procedural Fairness](core_05-05_definitions_b_semi_independent.md#procedural-fairness-constitutional), and [Proportionality](#proportionality).
 
 </details>
@@ -1039,7 +1034,7 @@ Independent Definitions must not fragment, isolate, or redistribute compliance i
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Cluster component: [Chapter Five §3.31 *Adjudication and Dispute Resolution, Redress and Remediation, Restorative Justice, Review and Correction Duty, and Refuge from Non-Compliance*](core_05-05_definitions_c_dependent_clusters.md#adjudication-redress-restorative-review-correction-and-refuge-cluster)
+- Cluster component: [Chapter Five §3.31 *Adjudication and Dispute Resolution, Redress and Remediation, Restorative Justice, Review and Correction Duty, and Refuge from Non-Compliance*](core_05-05_definitions_b_semi_independent.md#accountability-contestability-semi-independent)
 - Read with: [Redress and Remediation](#redress-and-remediation-constitutional), [Procedural Fairness](core_05-05_definitions_b_semi_independent.md#procedural-fairness-constitutional), and [Proportionality](#proportionality).
 
 </details>
@@ -1062,7 +1057,7 @@ Independent Definitions must not fragment, isolate, or redistribute compliance i
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Downstream: Principles: [7.1 Required Evaluation Factors](core_00-01_principles.md#71-required-evaluation-factors).
-- Cluster component: [Chapter Five §3.32 *Resilience, Safety, Reversibility, Self-Healing, Cascading Failure, Existential Risk, Environmental Preconditions, and Wellbeing*](core_05-05_definitions_c_dependent_clusters.md#resilience-safety-reversibility-self-healing-and-systemic-harm-cluster)
+- Cluster component: [Chapter Five §3.32 *Resilience, Safety, Reversibility, Self-Healing, Cascading Failure, Existential Risk, Environmental Preconditions, and Wellbeing*](core_05-05_definitions_c_dependent_clusters.md#collective-harm-boundary-and-harm-cluster)
 - Read with: [Safety (Constraint)](#safety-constraint), [Irreversible Harm](core_05-05_definitions_c_dependent_clusters.md#irreversible-harm), [Cascading Failure](#cascading-failure), and [Dependency](#dependency).
 
 </details>
@@ -1115,7 +1110,7 @@ Independent Definitions must not fragment, isolate, or redistribute compliance i
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Cluster component: [Chapter Five §3.32 *Resilience, Safety, Reversibility, Self-Healing, Cascading Failure, Existential Risk, Environmental Preconditions, and Wellbeing*](core_05-05_definitions_c_dependent_clusters.md#resilience-safety-reversibility-self-healing-and-systemic-harm-cluster)
+- Cluster component: [Chapter Five §3.32 *Resilience, Safety, Reversibility, Self-Healing, Cascading Failure, Existential Risk, Environmental Preconditions, and Wellbeing*](core_05-05_definitions_c_dependent_clusters.md#collective-harm-boundary-and-harm-cluster)
 - Read with: [Harm](core_05-05_definitions_c_dependent_clusters.md#harm), [Risk](#risk), [Cascading Failure](#cascading-failure), [Truth (Constitutional Constraint)](core_05-05_definitions_c_dependent_clusters.md#truth-constitutional-constraint), and [Environmental Preconditions](core_05-05_definitions_b_semi_independent.md#environmental-preconditions-constitutional).
 
 </details>
@@ -1136,7 +1131,7 @@ Independent Definitions must not fragment, isolate, or redistribute compliance i
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Cluster component: [Chapter Five §3.32 *Resilience, Safety, Reversibility, Self-Healing, Cascading Failure, Existential Risk, Environmental Preconditions, and Wellbeing*](core_05-05_definitions_c_dependent_clusters.md#resilience-safety-reversibility-self-healing-and-systemic-harm-cluster)
+- Cluster component: [Chapter Five §3.32 *Resilience, Safety, Reversibility, Self-Healing, Cascading Failure, Existential Risk, Environmental Preconditions, and Wellbeing*](core_05-05_definitions_c_dependent_clusters.md#collective-harm-boundary-and-harm-cluster)
 - Read with: [Safety (Constraint)](#safety-constraint), [Truth (Constitutional Constraint)](core_05-05_definitions_c_dependent_clusters.md#truth-constitutional-constraint), [Trust](core_05-05_definitions_c_dependent_clusters.md#trust), [Reversibility](#reversibility-constitutional), [Dependency](#dependency), and [Cascading Failure](#cascading-failure).
 
 
@@ -1165,7 +1160,7 @@ Independent Definitions must not fragment, isolate, or redistribute compliance i
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Downstream: Principles: [7.2 Incentive Alignment and System Capture](core_00-01_principles.md#72-incentive-alignment-and-system-capture).
-- Read with: the [Capture, Resolution Integrity, and Anti-Capture cluster](core_05-05_definitions_c_dependent_clusters.md#capture-resolution-integrity-and-anti-capture-cluster), [Incentive Alignment](#incentive-alignment), [Oversight](core_05-05_definitions_a_independent.md#oversight-constitutional), [Accountability](core_05-05_definitions_b_semi_independent.md#accountability), [Contestability](core_05-05_definitions_b_semi_independent.md#contestability), and [Trust Degradation and Misleading Reliance](core_05-05_definitions_c_dependent_clusters.md#trust-degradation-and-misleading-reliance-constitutional).
+- Read with: the [Capture, Resolution Integrity, and Anti-Capture cluster](core_05-05_definitions_b_semi_independent.md#capture-of-resolution-pathways), [Incentive Alignment](#incentive-alignment), [Oversight](core_05-05_definitions_a_independent.md#oversight-constitutional), [Accountability](core_05-05_definitions_b_semi_independent.md#accountability), [Contestability](core_05-05_definitions_b_semi_independent.md#contestability), and [Trust Degradation and Misleading Reliance](core_05-05_definitions_c_dependent_clusters.md#trust-degradation-and-misleading-reliance-constitutional).
 
 </details>
 
@@ -1193,6 +1188,27 @@ Independent Definitions must not fragment, isolate, or redistribute compliance i
 
 ---
 
+<a id="voluntary-discontinuation-constitutional"></a>
+
+#### Voluntary Discontinuation
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Downstream: Principles: [§8 Freedom (Bounded Agency)](core_00-01_principles.md#8-freedom-bounded-agency), [6.1.1 Proportionality, Necessity, and Reversibility under Uncertainty](core_00-01_principles.md#611-proportionality-necessity-and-reversibility-under-uncertainty), and [7.1.4 Voluntary Discontinuation and Exit Rights](core_00-01_principles.md#714-voluntary-discontinuation-and-exit-rights).
+- Owner floor: [Article VII-E](core_09-09_rights_part_b.md#article-vii-e-voluntary-discontinuation-of-ones-own-existence).
+- Read with: [Consent](core_05-05_definitions_b_semi_independent.md#consent-constitutional), [Coercion and Manipulation](core_05-05_definitions_b_semi_independent.md#coercion-and-manipulation-constitutional), [Procedural Fairness](core_05-05_definitions_b_semi_independent.md#procedural-fairness-constitutional), [Meaningful Agency](core_05-05_definitions_b_semi_independent.md#meaningful-agency), [Freedom (Bounded Agency)](#freedom-bounded-agency), [Dependency](#dependency), [Feasibility](#feasibility), [Truth (Constitutional Constraint)](core_05-05_definitions_c_dependent_clusters.md#truth-constitutional-constraint), [Privacy (Informational)](core_05-05_definitions_c_dependent_clusters.md#privacy-informational), and [Surveillance Boundary](core_05-05_definitions_c_dependent_clusters.md#surveillance-boundary) where materially implicated.
+
+</details>
+
+<br>
+
+<a id="voluntary-discontinuation-constitutional-o"></a>
+- O: A sentient's freely formed, substantively informed decision to discontinue their own existence or comparable self-directed exit from continued participation, evaluated under [Consent](core_05-05_definitions_b_semi_independent.md#consent-constitutional), [Coercion and Manipulation](core_05-05_definitions_b_semi_independent.md#coercion-and-manipulation-constitutional), and [Procedural Fairness](core_05-05_definitions_b_semi_independent.md#procedural-fairness-constitutional), and distinct from [Irreversible Sanction](core_05-05_definitions_c_dependent_clusters.md#irreversible-sanction-constitutional) or involuntary deprivation of life. Owner floor: [Article VII-E](core_09-09_rights_part_b.md#article-vii-e-voluntary-discontinuation-of-ones-own-existence).
+<a id="voluntary-discontinuation-constitutional-e"></a>
+- E: Verify genuine voluntariness — adequate information, time, reviewability, and reversibility up to irreversible execution consistent with Chapter One §6.1.1; detect dependency pressure, manipulation, and rushed framing; apply [Graduated Capability](core_05-05_definitions_b_semi_independent.md#graduated-capability-constitutional) for [Developing Sentient](core_05-05_definitions_b_semi_independent.md#developing-sentient-constitutional) cases under Article V-F.
+<a id="voluntary-discontinuation-constitutional-c"></a>
+- C: Non-compliant: illusory or pressured consent framed as voluntary discontinuation; conflating this entry with [Irreversible Sanction](core_05-05_definitions_c_dependent_clusters.md#irreversible-sanction-constitutional), third-party termination, or Article XXIII-B prohibited measures; relabelling an involuntary outcome as voluntary to route around Article VII-E.
 
 <a id="wellbeing"></a>
 
@@ -1202,7 +1218,7 @@ Independent Definitions must not fragment, isolate, or redistribute compliance i
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Downstream: Principles: [2. Foundational Objective: Wellbeing](core_00-01_principles.md#2-foundational-objective-wellbeing).
-- Cluster component: [Chapter Five §3.32 *Resilience, Safety, Reversibility, Self-Healing, Cascading Failure, Existential Risk, Environmental Preconditions, and Wellbeing*](core_05-05_definitions_c_dependent_clusters.md#resilience-safety-reversibility-self-healing-and-systemic-harm-cluster)
+- Cluster component: [Chapter Five §3.32 *Resilience, Safety, Reversibility, Self-Healing, Cascading Failure, Existential Risk, Environmental Preconditions, and Wellbeing*](core_05-05_definitions_c_dependent_clusters.md#collective-harm-boundary-and-harm-cluster)
 - Read with: [Harm](core_05-05_definitions_c_dependent_clusters.md#harm), [Dependency](#dependency), [Meaningful Agency](core_05-05_definitions_b_semi_independent.md#meaningful-agency), and [Environmental Preconditions](core_05-05_definitions_b_semi_independent.md#environmental-preconditions-constitutional).
 
 </details>

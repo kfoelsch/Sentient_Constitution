@@ -71,19 +71,19 @@ def extract_definitions_from_file(filepath: Path) -> list[Definition]:
         found_e = False
         found_c = False
         
-        for j in range(i + 1, min(i + 50, len(lines))):
+        for j in range(i + 1, min(i + 80, len(lines))):
             next_line = lines[j]
             
             # Stop conditions
-            if re.match(r'^#{3,5} ', next_line):  # New heading
+            if re.match(r'^#{3,5} ', next_line) and found_o:  # Next definition heading after this entry
                 break
             if re.match(r'^<a id="[^"]+"', next_line):  # New anchor
                 # Allow -e and -c suffix anchors
                 next_anchor = re.search(r'<a id="([^"]+)"', next_line)
                 if next_anchor:
                     na = next_anchor.group(1)
-                    if not (na == f"{anchor}-e" or na == f"{anchor}-c" or 
-                            na.startswith(f"{anchor}-e-") or na.startswith(f"{anchor}-c-")):
+                    if not (na == f"{anchor}-o" or na == f"{anchor}-e" or na == f"{anchor}-c" or
+                            na.startswith(f"{anchor}-o-") or na.startswith(f"{anchor}-e-") or na.startswith(f"{anchor}-c-")):
                         break
             
             # Check for O:, E:, C:

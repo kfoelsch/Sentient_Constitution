@@ -38,7 +38,6 @@ CANONICAL_CLUSTER_ANCHOR: dict[str, str] = {
     "Transparency, Auditability, and Verification": "transparency-auditability-and-verification-cluster",
     "Truth and Epistemic Integrity": "truth-and-epistemic-integrity-cluster",
     "Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm": "use-of-force-autonomous-coercion-and-mass-harm-cluster",
-    "Voluntary Agency, Consent, and Anti-Coercion": "voluntary-agency-consent-and-anti-coercion-cluster",
 }
 
 

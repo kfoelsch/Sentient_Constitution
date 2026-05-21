@@ -74,6 +74,7 @@ class DirectoryRow:
 class ClusterMember:
     label: str
     href: str
+    target: str
     owner: str
     line: int
 
@@ -115,8 +116,13 @@ def previous_entry_anchor(lines: list[str], heading_idx: int) -> str | None:
 def body_until_next_heading(lines: list[str], heading_idx: int, max_depth: int) -> str:
     body: list[str] = []
     for idx in range(heading_idx + 1, len(lines)):
-        match = HEADING_RE.match(lines[idx].strip())
-        if match and len(match.group(1)) <= max_depth:
+        stripped = lines[idx].strip()
+        match = HEADING_RE.match(stripped)
+        if (
+            match
+            and len(match.group(1)) <= max_depth
+            and not match.group(2).strip().startswith("In plain terms:")
+        ):
             break
         body.append(lines[idx])
     return "\n".join(body)
@@ -124,8 +130,8 @@ def body_until_next_heading(lines: list[str], heading_idx: int, max_depth: int) 
 
 def owns_oec(body: str) -> bool:
     return bool(
-        re.search(r"^- O:", body, re.MULTILINE)
-        and re.search(r"^- [EC]:", body, re.MULTILINE)
+        re.search(r"^-\s+(?:\*\*)?O(?::|\*\*:)", body, re.MULTILINE)
+        and re.search(r"^-\s+(?:\*\*)?[EC](?::|\*\*:)", body, re.MULTILINE)
     )
 
 
@@ -156,10 +162,12 @@ def collect_entries_and_clusters(root: Path) -> tuple[list[Entry], list[ClusterH
                 continue
             depth = len(match.group(1))
             label = match.group(2).strip()
+            if label.startswith("In plain terms:"):
+                continue
 
             if file_name == CH5_PART_C and depth == 4:
                 numbered = re.match(r"(3\.(\d+))\s+(.+)", label)
-                if numbered and int(numbered.group(2)) >= 3:
+                if numbered:
                     display = f"{numbered.group(1)} {numbered.group(3).strip()}"
                     clusters.append(
                         ClusterHead(
@@ -265,6 +273,23 @@ def sorted_violations(rows: list[DirectoryRow]) -> list[str]:
     return violations
 
 
+def chapter_five_member_target(href: str) -> str | None:
+    """Return the canonical Chapter Five target for a cluster-member href.
+
+    Cluster rosters may point to definitions in any Chapter Five part. A local
+    fragment in the dependent-clusters file is still a Chapter Five definition
+    target, so compare it as part C rather than comparing only display labels.
+    """
+    if href.startswith("#"):
+        return f"{CH5_PART_C}{href}"
+    if "#" not in href:
+        return None
+    file_name, fragment = href.split("#", 1)
+    if file_name in CH5_ALL and fragment:
+        return f"{file_name}#{fragment}"
+    return None
+
+
 def collect_cluster_members(root: Path) -> list[ClusterMember]:
     path = root / CH5_PART_C
     lines = path.read_text(encoding="utf-8").splitlines()
@@ -293,8 +318,17 @@ def collect_cluster_members(root: Path) -> list[ClusterMember]:
             continue
         if in_roster and stripped.startswith("- "):
             for label, href in LINK_RE.findall(stripped):
-                if href.startswith("core_05-05_definitions_") or href.startswith("#"):
-                    members.append(ClusterMember(label=label, href=href, owner=owner, line=idx + 1))
+                target = chapter_five_member_target(href)
+                if target:
+                    members.append(
+                        ClusterMember(
+                            label=label,
+                            href=href,
+                            target=target,
+                            owner=owner,
+                            line=idx + 1,
+                        )
+                    )
     return members
 
 
@@ -349,14 +383,30 @@ def audit(root: Path) -> list[str]:
         for label, href in sorted(actual_clusters - expected_clusters):
             violations.append(f"{CH5_PART_A}: extra cluster directory row [{label}]({href})")
 
+    cluster_members = collect_cluster_members(root)
+
     member_by_label: dict[str, list[ClusterMember]] = defaultdict(list)
-    for member in collect_cluster_members(root):
+    for member in cluster_members:
         member_by_label[member.label].append(member)
     for label, members in sorted(member_by_label.items()):
         if len(members) > 1:
             rendered = ", ".join(f"line {m.line} ({m.owner})" for m in members)
             violations.append(
                 f"{CH5_PART_C}: cluster member '{label}' appears in more than one roster: {rendered}"
+            )
+
+    member_by_target: dict[str, list[ClusterMember]] = defaultdict(list)
+    for member in cluster_members:
+        member_by_target[member.target].append(member)
+    for target, members in sorted(member_by_target.items()):
+        owners = {member.owner for member in members}
+        if len(owners) > 1:
+            rendered = ", ".join(
+                f"line {m.line} [{m.label}]({m.href}) in {m.owner}" for m in members
+            )
+            violations.append(
+                f"{CH5_PART_C}: definition target '{target}' appears as a member "
+                f"of more than one cluster: {rendered}"
             )
 
     return violations
@@ -371,7 +421,10 @@ def main() -> int:
         for violation in violations:
             print(violation, file=sys.stderr)
         return 1
-    print("PASS: Chapter Five has one definition row per label, one directory row per label, and one cluster-owner roster per term.")
+    print(
+        "PASS: Chapter Five has one definition row per label, one directory row "
+        "per label, and one cluster-owner roster per term/definition target."
+    )
     return 0
 
 

@@ -67,7 +67,6 @@ ANCHOR_BY_TITLE: dict[str, str] = {
     "Trust and Trustworthiness": "trust-and-trustworthiness-cluster",
     "Truth and Epistemic Integrity": "truth-and-epistemic-integrity-cluster",
     "Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm": "use-of-force-autonomous-coercion-and-mass-harm-cluster",
-    "Voluntary Agency, Consent, and Anti-Coercion": "voluntary-agency-consent-and-anti-coercion-cluster",
 }
 
 EXPECTED_TITLES = sorted(ANCHOR_BY_TITLE.keys(), key=lambda s: s.lower())
@@ -432,26 +431,6 @@ def synth_use_of_force() -> str:
     )
 
 
-def synth_voluntary_agency() -> str:
-    return strip_leading_anchor_lines(
-        """This cluster is the joint-invocation home for voluntary agency, meaningful consent, anti-coercion, and voluntary discontinuation where exit, assent, or non-coercive participation is materially interdependent.
-
-**Admission scope.** This cluster applies where a matter materially concerns voluntariness of participation, meaningful consent versus illusory choice, dependency-rich coercion, lock-in, or voluntary discontinuation rights. Outside that admission scope, [Consent](#consent-constitutional), [Coercion and Manipulation](#coercion-and-manipulation-constitutional), and [Voluntary Discontinuation](#voluntary-discontinuation-constitutional) may operate as supporting Independent Definitions without importing the whole cluster.
-
-**Cluster members.** This cluster comprises:
-
-- [Consent](#consent-constitutional);
-- [Coercion and Manipulation](#coercion-and-manipulation-constitutional);
-- [Voluntary Discontinuation](#voluntary-discontinuation-constitutional);
-- [Systemic Lock-In](#systemic-lock-in), where materially implicated.
-
-**Read-with definitions.** Apply [Meaningful Agency](#meaningful-agency), [Freedom (Bounded Agency)](#freedom-bounded-agency), [Dependency](#dependency), [Feasibility](#feasibility), [Truth (Constitutional Constraint)](#truth-constitutional-constraint), [Privacy (Informational)](#privacy-informational), and [Surveillance Boundary](#surveillance-boundary) where materially implicated.
-
-**Joint invocation and anti-bypass.** Under §3.1, a matter within the admission scope must not be segmented into separate consent, manipulation, lock-in, surveillance, or exit-framing issues in a way that preserves nominal choice while defeating substantive voluntary agency.
-"""
-    )
-
-
 SYNTH = {
     "Bodily-Maintenance Access, Safe Conditions, Tenure Security, Environmental Preconditions, Cultural Continuity, Rest, and Anti-Displacement Floor": synth_bodily,
     "Consent and Sexual Consent": synth_consent_sexual,
@@ -474,7 +453,6 @@ SYNTH = {
     "Substantive and Procedural Fairness": synth_substantive_procedural_fairness,
     "Transparency, Auditability, and Verification": transparency_cluster_from_copy,
     "Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm": synth_use_of_force,
-    "Voluntary Agency, Consent, and Anti-Coercion": synth_voluntary_agency,
 }
 
 

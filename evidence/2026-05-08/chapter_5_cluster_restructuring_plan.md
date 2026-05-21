@@ -34,7 +34,6 @@ Based on the shell cluster audit report, **30 of 42 clusters (71%)** in Section 
 | 3.38 | Transparency, Auditability, and Verification | Transparency, Audit Scope Sufficiency, Auditability, Evaluation Completeness, Observability, Verifiability, Verification Accessibility, Verification Feasibility, Verification Independence, Verification Proportionality, Verification Robustness |
 | 3.39 | Trust and Trustworthiness | Trust, Trustworthiness, Trust Degradation and Misleading Reliance |
 | 3.40 | Truth and Epistemic Integrity | Truth (Constitutional Constraint), Epistemic Integrity, Publication and High-Impact Communication, Foreseeability Diligence, Reasonably Foreseeable |
-| 3.42 | Voluntary Agency, Consent, and Anti-Coercion | Voluntary Discontinuation |
 
 #### Shell Clusters (30) - CANDIDATES FOR MIGRATION
 

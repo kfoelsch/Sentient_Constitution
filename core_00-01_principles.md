@@ -151,7 +151,7 @@ At this value layer, wellbeing:
 - Downstream: Shapes the rights surface for equal standing, non-arbitrary treatment, meaningful challenge, and proportionate restriction limits.
   - Especially [Article V: Equal Basic Rights](core_09-09_rights_part_b.md#article-v-equal-basic-rights), [Article V-B: Nondiscrimination](core_09-09_rights_part_b.md#article-v-b-nondiscrimination), [Article IX: Self-Determination and Agency](core_09-09_rights_part_b.md#article-ix-self-determination-and-agency), [Article XII-B: Right to Challenge, Review, and Redress](core_09-09_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress), and [Article XVIII-B: Contestability and Proportional Restriction Limits](core_09-09_rights_part_c.md#article-xviii-b-contestability-and-proportional-restriction-limits).
   - Where systematic classification or gravity labels carry sanctions or durable effect, read with [Chapter Seven, section 4 — Due-process safeguards for slot classification](core_07-07_misconduct.md#4-due-process-safeguards-for-slot-classification).
-  - Non-discrimination commitments are elaborated through Chapter Five [§2 — Protected Characteristics, Proxying, Intimate-Signal Gating, and Article X-C Status](core_05-05_definitions_b_semi_independent.md#protected-characteristics-proxying-intimate-signal-gating-and-article-x-c-status).
+  - Non-discrimination commitments are elaborated through Chapter Five [§2 — Protected Characteristics, Proxying, Intimate-Signal Gating, and Article X-C Status](core_05-05_definitions_b_semi_independent.md#fairness-and-protected-status-semi-independent).
 
 </details>
 
@@ -421,7 +421,7 @@ Plain-language stewardship must not run in reverse either. Framing that misrepre
 - [Truth (Constitutional Constraint)](core_05-05_definitions_c_dependent_clusters.md#truth-constitutional-constraint) · [O](core_05-05_definitions_c_dependent_clusters.md#truth-constitutional-constraint-o) · [E](core_05-05_definitions_c_dependent_clusters.md#truth-constitutional-constraint-e) · [C](core_05-05_definitions_c_dependent_clusters.md#truth-constitutional-constraint-c)
 - [Safety (Constraint)](core_05-05_definitions_a_independent.md#safety-constraint) · [O](core_05-05_definitions_a_independent.md#safety-constraint) · [E](core_05-05_definitions_a_independent.md#safety-constraint-e) · [C](core_05-05_definitions_a_independent.md#safety-constraint-c)
 - [Materiality](core_05-05_definitions_b_semi_independent.md#materiality-determination) · [O](core_05-05_definitions_b_semi_independent.md#materiality-determination) · [E](core_05-05_definitions_b_semi_independent.md#materiality-determination-e) · [C](core_05-05_definitions_b_semi_independent.md#materiality-determination-c)
-- [Trust Degradation and Misleading Reliance](core_05-05_definitions_c_dependent_clusters.md#trust-degradation-and-misleading-reliance-constitutional) · [O](core_05-05_definitions_c_dependent_clusters.md#trust-degradation-and-misleading-reliance-constitutional) · [E](core_05-05_definitions_c_dependent_clusters.md#trust-degradation-cluster-scope-confirmation-and-routing-e) · [C](core_05-05_definitions_c_dependent_clusters.md#trust-degradation-cluster-anti-bypass-within-admission-scope-c)
+- [Trust Degradation and Misleading Reliance](core_05-05_definitions_c_dependent_clusters.md#trust-degradation-and-misleading-reliance-constitutional) · [O](core_05-05_definitions_c_dependent_clusters.md#trust-degradation-and-misleading-reliance-constitutional) · [E](core_05-05_definitions_c_dependent_clusters.md#trust-degradation-and-misleading-reliance-e) · [C](core_05-05_definitions_c_dependent_clusters.md#trust-degradation-and-misleading-reliance-c)
 
 </details>
 
@@ -1132,9 +1132,9 @@ A single privacy matter may materially implicate more than one of the distribute
 
 A high-stakes life-direction matter may not be treated as voluntary through formal assent where substantive agency, consent, or anti-coercion conditions fail.
 
-- *Admission scope.* The cluster applies to voluntary discontinuation, irreversible or practically irreversible self-directed changes, dependency-rich decisions materially affecting continued existence or essential agency, and comparable decisions where voluntariness depends on jointly testing consent, self-determination, coercion/manipulation, information, dependency pressure, and reversibility.
-- *Cluster-head home.* Chapter Five [§3.14 Voluntary Discontinuation and Exit Rights](core_05-05_definitions_c_dependent_clusters.md#voluntary-discontinuation-and-exit-rights-cluster).
-- *No ordinary-consent import.* Outside that admission scope, Chapter Five *Consent* (§2), *Self-Determination*, and *Coercion and Manipulation* (§2) remain reusable Independent Definitions and this cluster does **not** import voluntary-discontinuation discipline into ordinary consent, privacy, association, publication, training-data, sexual-consent, or commercial-service contexts.
+- *Admission scope.* This factor applies to voluntary discontinuation, irreversible or practically irreversible self-directed changes, dependency-rich decisions materially affecting continued existence or essential agency, and comparable decisions where voluntariness depends on jointly testing consent, self-determination, coercion/manipulation, information, dependency pressure, and reversibility.
+- *Definition home.* Chapter Five [Voluntary Discontinuation](core_05-05_definitions_a_independent.md#voluntary-discontinuation-constitutional) is an Independent Definition in §1.
+- *No ordinary-consent import.* Outside that admission scope, Chapter Five *Consent* (§2), *Self-Determination*, and *Coercion and Manipulation* (§2) remain reusable definitions and this factor does **not** import voluntary-discontinuation discipline into ordinary consent, privacy, association, publication, training-data, sexual-consent, or commercial-service contexts.
 
 ##### 7.1.5 Assembly, Collective Organization, and Institutional Formation
 
@@ -1335,7 +1335,7 @@ Concentrated or obscured control structures that undermine challenge rights, ove
 - [Harm Minimization (Tradeoff Selection)](core_05-05_definitions_a_independent.md#harm-minimization-tradeoff-selection) · [O](core_05-05_definitions_a_independent.md#harm-minimization-tradeoff-selection) · [E](core_05-05_definitions_a_independent.md#harm-minimization-tradeoff-selection-e) · [C](core_05-05_definitions_a_independent.md#harm-minimization-tradeoff-selection-c)
 - [Dependency](core_05-05_definitions_a_independent.md#dependency) · [O](core_05-05_definitions_a_independent.md#dependency) · [E](core_05-05_definitions_a_independent.md#dependency-e) · [C](core_05-05_definitions_a_independent.md#dependency-c)
 
-**Read with:** the [Agency, Consent, and Anti-Coercion cluster](core_05-05_definitions_c_dependent_clusters.md#voluntary-agency-consent-and-anti-coercion-cluster) and the [Assembly, Collective Organization, and Institutional Formation cluster](core_05-05_definitions_c_dependent_clusters.md#assembly-collective-organization-institutional-formation-cluster).
+**Read with:** [Voluntary Discontinuation](core_05-05_definitions_a_independent.md#voluntary-discontinuation-constitutional), Chapter Five §2 *Agency, consent, and anti-coercion*, and the [Assembly, Collective Organization, and Institutional Formation cluster](core_05-05_definitions_c_dependent_clusters.md#assembly-collective-organization-institutional-formation-cluster).
 
 </details>
 

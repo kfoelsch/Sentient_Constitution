@@ -19,7 +19,7 @@ PART_C = "core_05-05_definitions_c_dependent_clusters.md"
 
 
 EXPECTED_TOPIC_GROUPS: dict[str, list[str]] = {
-    "#### Accountability, contestability, adjudication, collective failure, force majeure, and resolution-pathway capture": [
+    "#### Accountability, contestability, and redress pathways": [
         "Accountability",
         "Contestability",
         "Adjudication and Dispute Resolution",
@@ -27,31 +27,25 @@ EXPECTED_TOPIC_GROUPS: dict[str, list[str]] = {
         "Force Majeure",
         "Capture of Resolution Pathways",
     ],
-    "#### Assembly and collective organization": [
+    "#### Assembly, collective organization, and institutional formation": [
         "Assembly",
         "Collective Organization",
+        "System Creation",
+        "Business Creation",
     ],
-    "#### Avoidable burden, constitutional efficiency, productive capacity, and burden-reduction duty": [
-        "Avoidable Burden",
+    "#### Constitutional efficiency, productive capacity, avoidable burden, and burden-reduction duty": [
         "Constitutional Efficiency",
         "Productive Capacity",
+        "Avoidable Burden",
         "Burden-Reduction Duty",
     ],
-    "#### Consent, sexual consent, and coercion / manipulation": [
+    "#### Agency, consent, and anti-coercion": [
+        "Meaningful Agency",
         "Consent",
         "Consent, Sexual",
         "Coercion and Manipulation",
     ],
-    "#### Corpus, authority stack, and supremacy / enforceability": [
-        "Corpus",
-        "Authority Stack and Internal Hierarchy",
-        "Supremacy and Enforceability",
-    ],
-    "#### Creative work, compensation, and anti-displacement": [
-        "Creative Work Attribution",
-        "Fair Compensation",
-    ],
-    "#### Emergency and contingency (constitutional, stakeholder-system, and pre-deliberation binding choice)": [
+    "#### Emergency and contingency": [
         "Emergency and Contingency",
         "Constitutional Emergency and Contingency",
         "Stakeholder Emergency and Contingency",
@@ -65,133 +59,83 @@ EXPECTED_TOPIC_GROUPS: dict[str, list[str]] = {
 }
 
 TOPIC_GROUP_HEADINGS: set[str] = set(EXPECTED_TOPIC_GROUPS) | {
-    "#### Protected characteristics, proxying, intimate-signal gating, and Article X-C status",
     "#### Protected reporting and anti-retaliation",
-    "#### Collective harm boundary",
-    "#### Derivation, care, family, and instantiation",
-    "#### Ecological footprint (semi-independent surface)",
-    "#### Governance architecture, oversight, decentralization, concentration, lock-in, review, and stakeholder participation",
-    "#### Meaningful agency and autonomy",
-    "#### Safe conditions, bodily maintenance, tenure, environment, rest, and cultural / indigenous continuity",
-    "#### Materiality, material impact, and material risk",
-    "#### Standing inputs: contribution, participant standing, cells, effects, and verified violation findings",
-    "#### Force, autonomous weapons / coercion, combatant rules, mass harm, and irreversible sanction",
+    "#### Fairness, protected characteristics, and nondiscrimination",
+    "#### Family, care, reproductive autonomy, and instantiation",
+    "#### Ecological integrity, footprint, and sustainability",
+    "#### Governance architecture, decentralization, and concentration",
+    "#### System boundaries, integrity, and exit",
+    "#### Stewardship, review, and correction",
+    "#### Stakeholder status and participation weight",
+    "#### Survival-floor continuity: bodily maintenance, tenure, and environment",
+    "#### Community-anchored continuity: indigenous, language, culture, and heritage",
+    "#### Materiality, impact, risk, and proxy integrity",
 }
 
 
 EXPECTED_CLUSTERS: dict[str, list[str]] = {
-    "#### 3.3 Accountability, Contestability, Adjudication and Dispute Resolution, Collective Accountability Failure, and Force Majeure": [
-        "Accountability",
-        "Contestability",
-        "Collective Accountability Failure",
-        "Force Majeure",
+    "#### 3.1 Animal Life, Sentient Life, and Sentience Status": [
+        "Sentient",
+        "Sentience Non-Exclusion",
+        "Animal Life",
+        "Contested-Sentient Life",
+        "Sentience Status Adjudication",
+        "Sentience Evaluation",
+        "Article V-E",
     ],
-    "#### 3.11 Corpus, Authority Stack, Supremacy, and Enforceability": [
+    "#### 3.2 Binding Stakeholder Choice": [
+        "Binding Stakeholder Choice — Decision-Resolution Requirements",
+        "Stakeholder Representation and Participation-Weight Limits (Binding Stakeholder Choice)",
+        "Stakeholder Rights-Collision Record (Binding Stakeholder Choice)",
+        "Chapter Ten §4.3",
+    ],
+    "#### 3.3 Collective Harm Boundary, Harm, and Harassment and Bullying": [
+        "Harm",
+        "Collective Harm Boundary",
+        "Psychological Harm",
+        "Irreversible Harm",
+        "Harassment and Bullying",
+    ],
+    "#### 3.4 Corpus, Authority Stack, Supremacy, and Enforceability": [
         "Corpus",
         "Authority Stack and Internal Hierarchy",
         "Supremacy and Enforceability",
         "Constitutional Constraint Violation",
     ],
-    "#### 3.13 Contingent Claim, Event-Contract Market, and Game of Chance": [
-        "Contingent Claim",
-        "Event-Contract Market",
-        "Game of Chance",
-    ],
-    "#### 3.14 Creative Work, Training-Data Use, Attribution, Compensation, and Anti-Displacement": [
+    "#### 3.5 Labor and Economic Floor: Compensation, Organization, Safe Conditions, Leisure, and Creative Work": [
+        "Fair Compensation",
+        "Safe Conditions",
+        "Leisure and Rest",
+        "Likeness and Documentary Depiction Interface",
         "Creative Work Attribution",
         "Training-Data Use",
-        "Fair Compensation",
-        "Innovation Reward and Anti-Enclosure",
+        "Anti-Displacement Floor",
     ],
-    "#### 3.17 Emergency and Contingency": [
-        "Emergency and Contingency",
-        "Constitutional Emergency and Contingency",
-        "Stakeholder Emergency and Contingency",
-        "Emergency Pre-Deliberation Action (Binding Collective Choice)",
+    "#### 3.6 Forum Families and Dispute Routing": [
+        "Forum Family, Sentient",
+        "Forum Family, Technical",
+        "Forum Family, Institutional",
+        "Forum Family, Environment",
+        "Forum Family, Integrity",
+        "Forum Family, Constitutional",
     ],
-    "#### 3.18 Family, Care, Reproductive Autonomy, Non-Separation, Parent-System Relationship, and Instantiation Consent": [
-        "Family and Care Relationships",
-        "Reproductive Autonomy",
-        "Non-Separation",
-    ],
-    "#### 3.20 Governance Architecture, Oversight, Dependency, Decentralization, Concentration, Market Structure, and Exit-Path Integrity": [
-        "Governance",
-        "Oversight",
-        "Dependency",
-        "Decentralization",
-        "Concentration Threshold",
-        "Incentive Alignment",
-        "Systemic Lock-In",
-    ],
-    "#### 3.21 Indigenous Continuity, Language Culture and Heritage, Natural Systems Standing, and Intergenerational Responsibility": [
-        "Indigenous Continuity",
-        "Language, Culture, and Heritage",
-        "Natural Systems Standing",
-        "Intergenerational Responsibility",
-    ],
-    "#### 3.22 Info-Sphere, Expression, Press and Journalistic Activity, and Good Faith (Publication-Scoped Integrity)": [
-        "Info-Sphere",
-        "Press and Journalistic Activity",
-        "Good Faith",
-    ],
-    "#### 3.23 Material Impact, Materiality Determination, Classification-Scaled Governance, Oversight, and Capability Requirement": [
-        "Material Impact",
-        "Materiality Determination",
-        "Classification-Scaled Governance",
-        "Capability Requirement",
-    ],
-    "#### 3.27 Proportionality, Necessity, Feasibility, Avoidable Burden, Burden-Reduction Duty, Constitutional Efficiency, Harm Minimization (Tradeoff Selection), and Productive Capacity": [
-        "Proportionality",
-        "Necessity",
-        "Feasibility",
-        "Avoidable Burden",
-        "Burden-Reduction Duty",
-        "Constitutional Efficiency",
-        "Harm Minimization (Tradeoff Selection)",
-        "Productive Capacity",
-    ],
-    "#### 3.31 Adjudication and Dispute Resolution, Redress and Remediation, Restorative Justice, Review and Correction Duty, and Refuge from Non-Compliance": [
-        "Adjudication and Dispute Resolution",
-        "Redress and Remediation",
-        "Restorative Justice",
-        "Review and Correction Duty",
-    ],
-    "#### 3.32 Resilience, Safety, Reversibility, Self-Healing, Cascading Failure, Existential Risk, Environmental Preconditions, and Wellbeing": [
-        "Safety (Constraint)",
-        "Reversibility",
-        "Self-Healing",
-        "Cascading Failure",
-        "Existential Risk",
-        "Wellbeing",
-    ],
-    "#### 3.33 Self-Determination, Meaningful Agency, Expression, Educational Agency, Reproductive Autonomy, and Volitional Integrity": [
+    "#### 3.8 Self-Determination, Meaningful Agency, Expression, Educational Agency, and Volitional Integrity": [
         "Self-Determination",
         "Meaningful Agency",
         "Expression",
         "Educational Agency",
+        "Volitional Integrity",
         "Freedom (Bounded Agency)",
     ],
-    "#### 3.34 Stakeholder Status, Emergency, and Participation Weight": [
-        "Stakeholder",
-        "Stakeholder Participation Weight",
-    ],
-    "#### 3.35 Standing State, Contribution, and Violation": [
-        "Contribution State",
-        "Standing Cell",
-        "Standing Effect",
-        "Violation Nature",
-        "Verified Violation Findings",
+    "#### 3.9 Standing State, Contribution, and Violation": [
         "Participant Standing",
+        "Contribution State",
+        "Verified Violation Findings",
+        "Standing Effect",
+        "Standing Cell",
+        "Violation Nature",
     ],
-    "#### 3.36 Strategic Stewardship and Stewardship Defect": [
-        "Strategic Stewardship Obligation",
-        "Stewardship Defect",
-    ],
-    "#### 3.37 Substantive and Procedural Fairness": [
-        "Substantive Fairness",
-        "Procedural Fairness",
-    ],
-    "#### 3.38 Transparency, Auditability, and Verification": [
+    "#### 3.10 Transparency, Auditability, and Verification": [
         "Transparency",
         "Auditability",
         "Audit Scope Sufficiency",
@@ -204,29 +148,25 @@ EXPECTED_CLUSTERS: dict[str, list[str]] = {
         "Verification Proportionality",
         "Verification Robustness",
     ],
-    "#### 3.39 Trust and Trustworthiness": [
+    "#### 3.11 Trust and Trustworthiness": [
         "Trust",
         "Trustworthiness",
         "Trust Degradation and Misleading Reliance",
     ],
-    "#### 3.40 Truth and Epistemic Integrity": [
+    "#### 3.12 Truth and Epistemic Integrity": [
         "Truth (Constitutional Constraint)",
         "Epistemic Integrity",
         "Foreseeability Diligence",
         "Reasonably Foreseeable",
         "Publication and High-Impact Communication",
     ],
-    "#### 3.41 Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm": [
+    "#### 3.13 Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm": [
         "Use of Force",
-        "Autonomous Coercion Tool",
         "Autonomous Lethal System",
         "Weapons of Mass Harm",
         "Combatant / Non-Combatant Distinction",
         "Irreversible Sanction",
-    ],
-    "#### 3.42 Voluntary Agency, Consent, and Anti-Coercion": [
-        "Coercion and Manipulation",
-        "Voluntary Discontinuation",
+        "Autonomous Coercion Tool",
     ],
 }
 
