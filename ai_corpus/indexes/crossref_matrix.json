@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/crossref_matrix.schema.json",
-  "generated_at": "2026-05-21T11:41:09+00:00",
+  "generated_at": "2026-05-21T21:13:02+00:00",
   "description": "Source-derived file-to-file Markdown reference graph.",
   "graph": {
     "nodes": [
@@ -722,8 +722,8 @@
               "#sentient-composite",
               "#stakeholder-representation-and-participation-weight-limits-binding-collective-choice",
               "#stakeholder-status-emergency-and-participation-weight-cluster",
-              "#standing-cell-chapter-six",
               "#standing-effect-chapter-six",
+              "#standing-record-chapter-six",
               "#standing-state-contribution-and-violation-cluster",
               "#supremacy-and-enforceability",
               "#surveillance-boundary",
@@ -1159,16 +1159,17 @@
           },
           {
             "file": "core_06-06_standing_classification.md",
-            "count": 27,
+            "count": 30,
             "anchors": [
               "#1-purpose-and-role",
-              "#2-primary-contribution-and-violation-levels",
-              "#21-two-axis-map",
+              "#2-standing-records-and-verified-inputs",
+              "#21-standing-records-as-the-unit-of-application",
               "#215-constitutional-outcome-baseline-for-slots",
-              "#25-standing-cell-operational-underpinnings",
+              "#25-standing-record-operational-requirements",
               "#3-axis-i-contribution-state-and-standing-effect",
               "#3-axis-ii-violation-nature-legal-constitutional-type",
               "#3-primary-category-defaults-and-lequ-slot-baseline",
+              "#30-slot-grammar-and-display-labels",
               "#4-axis-ii-violation-nature-legal-constitutional-type",
               "#chapter-six-compliance-violation-and-standing-model",
               "#verified-inputs-for-standing"
@@ -1318,7 +1319,7 @@
           },
           {
             "file": "core_02-04_definition_mechanics.md",
-            "count": 6,
+            "count": 7,
             "anchors": []
           },
           {
@@ -1427,7 +1428,7 @@
           },
           {
             "file": "core_06-06_standing_integration.md",
-            "count": 60,
+            "count": 57,
             "anchors": [
               "#10-enforcement-realism-anchors",
               "#10-violation-axis-s-7-9-anti-constitutional-misconduct-authoritative-location",
@@ -1789,8 +1790,8 @@
             "file": "core_06-06_standing_classification.md",
             "count": 7,
             "anchors": [
-              "#21-two-axis-map",
               "#3-primary-category-defaults-and-lequ-slot-baseline",
+              "#30-slot-grammar-and-display-labels",
               "#chapter-six-compliance-violation-and-standing-model"
             ]
           },
@@ -1909,8 +1910,8 @@
             "file": "core_06-06_standing_classification.md",
             "count": 11,
             "anchors": [
-              "#21-two-axis-map",
               "#3-primary-category-defaults-and-lequ-slot-baseline",
+              "#30-slot-grammar-and-display-labels",
               "#4-axis-ii-violation-nature-legal-constitutional-type",
               "#chapter-six-compliance-violation-and-standing-model"
             ]
@@ -3113,8 +3114,8 @@
             "file": "core_06-06_standing_classification.md",
             "count": 9,
             "anchors": [
-              "#21-two-axis-map",
               "#3-axis-i-contribution-state-and-standing-effect",
+              "#30-slot-grammar-and-display-labels",
               "#chapter-six-compliance-violation-and-standing-model"
             ]
           },

@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/definition_registry.schema.json",
-  "generated_at": "2026-05-21T11:41:09+00:00",
+  "generated_at": "2026-05-21T21:13:02+00:00",
   "source": "authoritative Chapter Five core files",
   "definition_count": 190,
   "definitions": [
@@ -1583,19 +1583,6 @@
       }
     },
     {
-      "term": "Standing Cell",
-      "source_file": "core_05-05_definitions_c_dependent_clusters.md",
-      "anchor": "#standing-cell-chapter-six",
-      "line_start": 1098,
-      "line_end": 1120,
-      "category": "dependent_cluster",
-      "cluster_membership": {
-        "cluster": "3.9 Standing State, Contribution, and Violation",
-        "cluster_file": "core_05-05_definitions_c_dependent_clusters.md",
-        "line": 991
-      }
-    },
-    {
       "term": "Standing Effect",
       "source_file": "core_05-05_definitions_c_dependent_clusters.md",
       "anchor": "#standing-effect-chapter-six",
@@ -1606,6 +1593,19 @@
         "cluster": "3.9 Standing State, Contribution, and Violation",
         "cluster_file": "core_05-05_definitions_c_dependent_clusters.md",
         "line": 990
+      }
+    },
+    {
+      "term": "Standing Record",
+      "source_file": "core_05-05_definitions_c_dependent_clusters.md",
+      "anchor": "#standing-record-chapter-six",
+      "line_start": 1098,
+      "line_end": 1120,
+      "category": "dependent_cluster",
+      "cluster_membership": {
+        "cluster": "3.9 Standing State, Contribution, and Violation",
+        "cluster_file": "core_05-05_definitions_c_dependent_clusters.md",
+        "line": 991
       }
     },
     {

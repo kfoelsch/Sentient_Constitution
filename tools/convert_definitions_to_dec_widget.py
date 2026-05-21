@@ -259,7 +259,7 @@ def build_ch5_slug_table() -> dict[str, str]:
         "contribution state": "contribution-state",
         "participant standing": "participant-standing-constitutional",
         "participant standing (constitutional)": "participant-standing-constitutional",
-        "standing cell": "standing-cell-chapter-six",
+        "standing record": "standing-record-chapter-six",
         "standing effect": "standing-effect-chapter-six",
         "verified violation findings": "verified-violation-findings",
         "violation nature": "violation-nature-chapter-six",

@@ -424,14 +424,14 @@ def synth_stakeholder_emergency_weight() -> str:
 
 def synth_standing_contribution_violation() -> str:
     return strip_leading_anchor_lines(
-        """This cluster is the joint-invocation home for contribution state, standing cells and effects, verified violation findings, and violation-nature typing under Chapter Six — the definitional interface Chapter Five supplies for Axis I / Axis II vocabulary.
+        """This cluster is the joint-invocation home for contribution state, standing records and effects, verified violation findings, and violation-nature typing under Chapter Six — the definitional interface Chapter Five supplies for Axis I / Axis II vocabulary.
 
 **Admission scope.** This cluster applies where a matter materially concerns standing classification inputs, verified violations, or how violation nature and process/response character interact with forum routing and remedies. Outside that admission scope, individual Chapter Six hooks may be cited without importing the full cluster.
 
 **Cluster members.** This cluster comprises:
 
 - [Contribution State](#contribution-state);
-- [Standing Cell](#standing-cell-chapter-six);
+- [Standing Record](#standing-record-chapter-six);
 - [Standing Effect](#standing-effect-chapter-six);
 - [Violation Nature](#violation-nature-chapter-six);
 - [Verified Violation Findings](#verified-violation-findings);

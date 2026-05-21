@@ -204,7 +204,7 @@ This directory lists **Definitions A-Z** and **Clusters A-Z** separately. Each v
 - [Stakeholder Participation Weight](core_05-05_definitions_b_semi_independent.md#stakeholder-participation-weight)
 - [Stakeholder Representation and Participation-Weight Limits (Binding Stakeholder Choice)](core_05-05_definitions_c_dependent_clusters.md#stakeholder-representation-and-participation-weight-limits-binding-collective-choice)
 - [Stakeholder Rights-Collision Record (Binding Stakeholder Choice)](core_05-05_definitions_c_dependent_clusters.md#rights-collision-record-binding-stakeholder-choice)
-- [Standing Cell](core_05-05_definitions_c_dependent_clusters.md#standing-cell-chapter-six)
+- [Standing Record](core_05-05_definitions_c_dependent_clusters.md#standing-record-chapter-six)
 - [Standing Effect](core_05-05_definitions_c_dependent_clusters.md#standing-effect-chapter-six)
 - [Stewardship Defect](core_05-05_definitions_b_semi_independent.md#stewardship-defect-constitutional)
 - [Strategic Stewardship Obligation](core_05-05_definitions_b_semi_independent.md#strategic-stewardship-obligation-constitutional)

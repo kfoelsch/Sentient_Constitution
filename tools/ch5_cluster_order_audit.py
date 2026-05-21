@@ -132,7 +132,7 @@ EXPECTED_CLUSTERS: dict[str, list[str]] = {
         "Contribution State",
         "Verified Violation Findings",
         "Standing Effect",
-        "Standing Cell",
+        "Standing Record",
         "Violation Nature",
     ],
     "#### 3.10 Transparency, Auditability, and Verification": [

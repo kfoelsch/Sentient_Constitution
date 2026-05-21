@@ -19,7 +19,7 @@ Upstream constitutional direction for this file begins in [core_00-01_principles
 >
 > | Location | Role |
 > | --- | --- |
-> | **[Classification file](core_06-06_standing_classification.md)** (**sections 1–3**) | purpose, two-axis map, verified-input gate, primary axis categories, and slot calibration |
+> | **[Classification file](core_06-06_standing_classification.md)** (**sections 1–3**) | purpose, standing records, verified-input gate, slot grammar, primary axis categories, and slot calibration |
 > | **This file** (**sections 4–10**) | standing effects, Violation Axis attachments, supplemental descriptors, standing integration, no-netting, enforcement anchors, and the Chapter Seven pointer |
 >
 > **Core idea:** classification is separated from integration. The first Chapter Six file defines the Contribution Axis and Violation Axis. This file states what those classifications do to standing, trust, roles, remedies, safeguards, and enforcement, while preserving the no-offset rule.
@@ -31,7 +31,7 @@ Upstream constitutional direction for this file begins in [core_00-01_principles
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [Chapter Six — Classification](core_06-06_standing_classification.md#chapter-six-compliance-violation-and-standing-model) (*sections **1–3**, including verified inputs, two-axis map, primary category defaults, Contribution Axis rules, and Violation Axis rules*).
+- Upstream: [Chapter Six — Classification](core_06-06_standing_classification.md#chapter-six-compliance-violation-and-standing-model) (*sections **1–3**, including standing records, verified inputs, slot grammar, primary category defaults, Contribution Axis rules, and Violation Axis rules*).
 - This file: [§4](#5-standing-effects) through [§10](#10-violation-axis-s-7-9-anti-constitutional-misconduct-authoritative-location) (*standing effects, attachments, descriptors, integration, non-substitution, enforcement realism, and Chapter Seven pointer*).
 - Downstream: [Chapter Seven](core_07-07_misconduct.md#chapter-seven-anti-constitutional-misconduct); [Chapter Eight](core_08-08_forum.md#chapter-eight-forums-and-jurisdiction); [Chapter Nine — Article XXIII](core_09-09_rights_part_d.md#article-xxiii-a-justice-objective-and-scope).
 

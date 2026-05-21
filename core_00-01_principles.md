@@ -289,7 +289,7 @@ Relevant definitions include Epistemic Integrity, Truth (Constitutional Constrai
 
 Truth forbids material degradation of reliable interpretation, informed decision-making, or auditable epistemic integrity. Such degradation includes deception, distortion, suppression, or structurally misleading presentation.
 
-Where Safety or Truth determinations affect contribution state, verified violation findings, violation nature, standing cells, or standing effect, those consequences are governed by the **Chapter Six standing model**, read together with **Chapters Two through Five**.
+Where Safety or Truth determinations affect contribution state, verified violation findings, violation nature, standing records, or standing effect, those consequences are governed by the **Chapter Six standing model**, read together with **Chapters Two through Five**.
 
 #### 3.3 Science-Informed Inquiry and Decision Support
 <details>
