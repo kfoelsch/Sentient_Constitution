@@ -30,7 +30,7 @@ This plan establishes patterns for token-efficient AI interaction while maintain
 | `core_05-05_definitions_a_independent.md` | ~1,300 | Core | Chapter 5 §1 (independent definitions A-Z) |
 | `core_05-05_definitions_b_semi_independent.md` | ~1,900 | Core | Chapter 5 §2 (semi-independent definitions) |
 | `core_05-05_definitions_c_dependent_clusters.md` | ~1,800 | Core | Chapter 5 §3 (dependent clusters) |
-| `core_06-06_standing_classification.md` | ~880 | Core | Chapter 6 Part A (two-axis model) |
+| `core_06-06_standing_assessment.md` | ~880 | Core | Chapter 6 Part A (two-axis model) |
 | `core_06-06_standing_integration.md` | ~780 | Core | Chapter 6 Part B (integration, effects) |
 | `core_07-07_misconduct.md` | ~420 | Core | Chapter 7 (anti-constitutional misconduct) |
 | `core_08-08_forum.md` | ~380 | Core | Chapter 8 (forums, jurisdiction) |

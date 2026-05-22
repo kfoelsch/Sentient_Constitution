@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-05-21T21:13:02+00:00",
+  "generated_at": "2026-05-22T15:17:49+00:00",
   "files": {
     "core_00-01_principles.md": {
       "total_lines": 1432,
@@ -2394,20 +2394,20 @@
       ]
     },
     "core_06-06_standing_classification.md": {
-      "total_lines": 911,
+      "total_lines": 571,
       "sections": [
         {
           "header": "Sentient Constitution — Contribution, violation, and standing",
           "level": 1,
           "line_start": 1,
-          "line_end": 911,
+          "line_end": 571,
           "anchor": null
         },
         {
           "header": "CHAPTER SIX: CONTRIBUTION, VIOLATION, AND STANDING MODEL — CLASSIFICATION",
           "level": 2,
           "line_start": 10,
-          "line_end": 911,
+          "line_end": 571,
           "anchor": "#chapter-six-compliance-violation-and-standing-model"
         },
         {
@@ -2428,7 +2428,7 @@
           "header": "2. Standing Records and Verified Inputs",
           "level": 3,
           "line_start": 101,
-          "line_end": 207,
+          "line_end": 266,
           "anchor": "#2-standing-records-and-verified-inputs"
         },
         {
@@ -2449,190 +2449,113 @@
           "header": "2.3 Dispute-phase material, forums, and challenge protections",
           "level": 4,
           "line_start": 155,
-          "line_end": 162,
+          "line_end": 165,
           "anchor": "#221-dispute-phase-material-forums-and-challenge-protections"
         },
         {
           "header": "2.4 How Good Deeds and Bad Deeds Coexist",
           "level": 4,
-          "line_start": 163,
-          "line_end": 173,
+          "line_start": 166,
+          "line_end": 188,
           "anchor": "#24-coexistence-and-no-offset-bridge"
         },
         {
           "header": "2.5 Standing Record operational requirements",
           "level": 4,
-          "line_start": 174,
-          "line_end": 207,
-          "anchor": "#25-standing-record-operational-underpinnings"
+          "line_start": 189,
+          "line_end": 266,
+          "anchor": "#25-standing-record-operational-requirements"
+        },
+        {
+          "header": "2.5.1 Scope and bounded subject",
+          "level": 5,
+          "line_start": 193,
+          "line_end": 200,
+          "anchor": "#251-scope-and-bounded-subject"
+        },
+        {
+          "header": "2.5.2 Assessment path",
+          "level": 5,
+          "line_start": 201,
+          "line_end": 212,
+          "anchor": "#252-assessment-path"
+        },
+        {
+          "header": "2.5.3 Collective and actor-specific records",
+          "level": 5,
+          "line_start": 213,
+          "line_end": 222,
+          "anchor": "#253-collective-and-actor-specific-records"
+        },
+        {
+          "header": "2.5.4 Minimum record contents",
+          "level": 5,
+          "line_start": 223,
+          "line_end": 239,
+          "anchor": "#254-minimum-record-contents"
+        },
+        {
+          "header": "2.5.5 Versioning and implementation visibility",
+          "level": 5,
+          "line_start": 240,
+          "line_end": 266,
+          "anchor": "#255-versioning-and-implementation-visibility"
         },
         {
           "header": "3. Primary Axis Categories, Slot Grammar, and Defaults",
           "level": 3,
-          "line_start": 208,
-          "line_end": 911,
+          "line_start": 267,
+          "line_end": 571,
           "anchor": "#3-primary-axis-categories-slot-grammar-and-defaults"
         },
         {
           "header": "3.0 Slot grammar and display labels",
           "level": 4,
-          "line_start": 213,
-          "line_end": 308,
+          "line_start": 272,
+          "line_end": 351,
           "anchor": "#30-slot-grammar-and-display-labels"
         },
         {
           "header": "3.0.1 What the slot grammar does",
           "level": 5,
-          "line_start": 217,
-          "line_end": 237,
+          "line_start": 276,
+          "line_end": 296,
           "anchor": "#211-what-the-map-does"
         },
         {
           "header": "3.0.2 Table 1 — slot display labels",
           "level": 5,
-          "line_start": 238,
-          "line_end": 263,
+          "line_start": 297,
+          "line_end": 322,
           "anchor": "#212-table-1-slot-display-labels"
         },
         {
           "header": "3.0.3 How to read Table 1",
           "level": 5,
-          "line_start": 264,
-          "line_end": 291,
+          "line_start": 323,
+          "line_end": 351,
           "anchor": "#213-how-to-read-table-1"
         },
         {
-          "header": "3.0.4 Separate records and no netting",
-          "level": 5,
-          "line_start": 292,
-          "line_end": 308,
-          "anchor": "#215-separate-records-and-no-netting"
-        },
-        {
-          "header": "3.1 Primary category defaults and LEQU slot baseline",
+          "header": "3.1 How the Nine Slots Map to Real-World Contributions and Violations",
           "level": 4,
-          "line_start": 309,
-          "line_end": 387,
-          "anchor": "#214-table-2-primary-category-defaults"
+          "line_start": 352,
+          "line_end": 469,
+          "anchor": "#3-primary-category-defaults-and-lequ-slot-baseline"
         },
         {
-          "header": "3.1.1 Constitutional-outcome baseline for slots",
+          "header": "3.1.1 The \"LEQU\" Baseline: Measuring Impact in Lifetime-Equivalent Units",
           "level": 5,
-          "line_start": 341,
-          "line_end": 387,
+          "line_start": 419,
+          "line_end": 469,
           "anchor": "#215-constitutional-outcome-baseline-for-contribution-slots"
-        },
-        {
-          "header": "3.2 Contribution Axis rules — contribution state (positive-only)",
-          "level": 4,
-          "line_start": 388,
-          "line_end": 590,
-          "anchor": "#2-axis-i-contribution-state-and-standing-effect"
-        },
-        {
-          "header": "3.2.0 Contribution Axis rules — contribution state and co-occurrence",
-          "level": 5,
-          "line_start": 439,
-          "line_end": 471,
-          "anchor": "#205-relationship-to-section-12-domain-lenses"
-        },
-        {
-          "header": "3.2.1 Baseline contribution",
-          "level": 5,
-          "line_start": 472,
-          "line_end": 499,
-          "anchor": "#21-baseline-contribution"
-        },
-        {
-          "header": "3.2.2 Positive contribution",
-          "level": 5,
-          "line_start": 500,
-          "line_end": 529,
-          "anchor": "#32-positive-contribution"
-        },
-        {
-          "header": "3.2.3 Stewardship-positive contribution",
-          "level": 5,
-          "line_start": 530,
-          "line_end": 558,
-          "anchor": "#33-stewardship-positive-contribution"
-        },
-        {
-          "header": "3.2.4 Champion contribution",
-          "level": 5,
-          "line_start": 559,
-          "line_end": 590,
-          "anchor": "#34-champion-contribution"
         },
         {
           "header": "3.3 Violation Axis rules — violation nature (adverse findings and severity)",
           "level": 4,
-          "line_start": 591,
-          "line_end": 911,
+          "line_start": 470,
+          "line_end": 571,
           "anchor": "#3-axis-ii-violation-nature-legal-constitutional-type"
-        },
-        {
-          "header": "3.3.0 Violation Axis rules — adverse findings, forums, and severity",
-          "level": 5,
-          "line_start": 638,
-          "line_end": 672,
-          "anchor": "#405-relationship-to-section-5-domain-lenses"
-        },
-        {
-          "header": "3.3.1 Formal Non-Compliance",
-          "level": 5,
-          "line_start": 673,
-          "line_end": 705,
-          "anchor": "#31-formal-non-compliance"
-        },
-        {
-          "header": "3.3.2 Remedial Substantive Non-Compliance",
-          "level": 5,
-          "line_start": 706,
-          "line_end": 738,
-          "anchor": "#42-substantive-non-compliance"
-        },
-        {
-          "header": "3.3.3 Significant Substantive Non-Compliance",
-          "level": 5,
-          "line_start": 739,
-          "line_end": 766,
-          "anchor": "#43-constitutional-substantive-non-compliance"
-        },
-        {
-          "header": "3.3.4 Duty-Based or Negligent-Harm Non-Compliance",
-          "level": 5,
-          "line_start": 767,
-          "line_end": 797,
-          "anchor": "#44-duty-based-or-negligent-harm-non-compliance"
-        },
-        {
-          "header": "3.3.5 Aggravated Non-Compliance",
-          "level": 5,
-          "line_start": 798,
-          "line_end": 826,
-          "anchor": "#43-aggravated-non-compliance"
-        },
-        {
-          "header": "3.3.6 Coercive or Punitive-Process Non-Compliance",
-          "level": 5,
-          "line_start": 827,
-          "line_end": 847,
-          "anchor": "#46-coercive-or-punitive-process-non-compliance"
-        },
-        {
-          "header": "3.3.7 Critical Non-Compliance",
-          "level": 5,
-          "line_start": 848,
-          "line_end": 880,
-          "anchor": "#44-critical-non-compliance"
-        },
-        {
-          "header": "3.3.8 Adjacent-level application notes",
-          "level": 5,
-          "line_start": 881,
-          "line_end": 911,
-          "anchor": "#48-adjacent-level-application-notes"
         }
       ]
     },

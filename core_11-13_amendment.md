@@ -27,7 +27,7 @@ This file is **part of the Sentient Constitution** and is **binding only togethe
 
 - Upstream: [Chapter One](core_00-01_principles.md#chapter-01-principles-and-constraints); [Chapters Two through Four](core_02-04_definition_mechanics.md) integrity and verification; [Chapter Nine](core_09-09_rights_part_a.md#chapter-nine-foundational-rights) Rights Floor; [Chapter Ten](core_10-10_governance.md#chapter-ten-constitutional-contract-legitimacy-authorization-and-stewardship) legitimacy and stewardship requirements.
 - Subsections: [§1](#1-non-regression-floor); [§2](#2-test-1-substantive-non-regression-validity); [§3](#3-anti-evasion-clause-and-constitutional-misconduct-referral); [§4](#4-scope-limit-and-layer-discipline).
-- Downstream: [Chapter Twelve](core_11-13_amendment.md#chapter-twelve-expansion-supremacy-and-external-legal-orders) expansion and supremacy; [Chapter Thirteen](core_11-13_amendment.md#chapter-thirteen-amendment-ratification-and-procedural-validity) procedural validity, ratification, and amendment requirements; [Chapter Six](core_06-06_standing_classification.md#chapter-six-compliance-violation-and-standing-model) and [Chapter Seven](core_07-07_misconduct.md#chapter-seven-anti-constitutional-misconduct) for canonical classification where referral triggers route.
+- Downstream: [Chapter Twelve](core_11-13_amendment.md#chapter-twelve-expansion-supremacy-and-external-legal-orders) expansion and supremacy; [Chapter Thirteen](core_11-13_amendment.md#chapter-thirteen-amendment-ratification-and-procedural-validity) procedural validity, ratification, and amendment requirements; [Chapter Six](core_06-06_standing_assessment.md#chapter-six-compliance-violation-and-standing-model) and [Chapter Seven](core_07-07_misconduct.md#chapter-seven-anti-constitutional-misconduct) for canonical classification where referral triggers route.
 - Read with: [architecture_primer.md](architecture_primer.md) non-operative walkthrough for **Chapters Eleven through Fourteen** on constitutional change and incorporation.
 
 </details>
@@ -89,7 +89,7 @@ Invalidity includes indirect narrowing through definitions, standing gates, evid
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [§1](#1-non-regression-floor)–[§2](#2-test-1-substantive-non-regression-validity) substantive invalidity standards.
-- Downstream: Mandatory referral records route to [Chapter Six](core_06-06_standing_classification.md#chapter-six-compliance-violation-and-standing-model) (Axes I and II) and [Chapter Seven](core_07-07_misconduct.md#chapter-seven-anti-constitutional-misconduct) (final Violation Axis s = 7, 8, or 9 classification); this chapter does not classify.
+- Downstream: Mandatory referral records route to [Chapter Six](core_06-06_standing_assessment.md#chapter-six-compliance-violation-and-standing-model) (Axes I and II) and [Chapter Seven](core_07-07_misconduct.md#chapter-seven-anti-constitutional-misconduct) (final Violation Axis s = 7, 8, or 9 classification); this chapter does not classify.
 - Read with: [Chapter Eleven §4](#4-scope-limit-and-layer-discipline) scope limit (triggers are not canonical slot-classification or sanction law).
 
 </details>
@@ -100,13 +100,13 @@ Invalidity includes indirect narrowing through definitions, standing gates, evid
 
 Repackaging a regressive change as interpretation guidance, implementation memo, adoption metadata, or emergency temporary measure does not cure invalidity. Invalidity remains where substantive constitutional effect is materially equivalent.
 
-Where amendment or adoption conduct indicates serious misconduct, a mandatory referral record must be opened. **Serious misconduct** includes willful deceptive intent, knowing falsification or suppression, material rollback effect, and causally significant obstruction or degradation (read with [**Chapter Seven**, **section 2** (*Criteria set*)](core_07-07_misconduct.md#2-criteria-set-for-slot-assignment), **criteria 1** **through** **4** on **change** or **record** pathways). **Forcible** or **nullification** misconduct routes through **criteria 5** and **6** of the same section where material. That record must be transmitted to the canonical classification authorities; **this chapter does not itself classify**. **General contribution, violation, and standing** classification (Axes I and II) is owned by **Chapter Six** (*Contribution, Violation, and Standing Model*) in [core_06-06_standing_classification.md](core_06-06_standing_classification.md) and [core_06-06_standing_integration.md](core_06-06_standing_integration.md). **Final Violation Axis s = 7, s = 8, and s = 9** classification for **anti-constitutional misconduct** — including criteria, due-process safeguards, and cross-chapter discipline — is owned **only** by **Chapter Seven** (*Anti-Constitutional Misconduct*) in [core_07-07_misconduct.md](core_07-07_misconduct.md#chapter-seven-anti-constitutional-misconduct), as allocated under **Chapter Six** [section 3.0](core_06-06_standing_classification.md#30-slot-grammar-and-display-labels) and [section 10](core_06-06_standing_integration.md#10-violation-axis-s-7-9-anti-constitutional-misconduct-authoritative-location) (*Violation Axis s = 7–9 anti-constitutional misconduct — authoritative location*). This chapter issues **referral and review triggers only**; it does not attach, narrow, or expand canonical labels.
+Where amendment or adoption conduct indicates serious misconduct, a mandatory referral record must be opened. **Serious misconduct** includes willful deceptive intent, knowing falsification or suppression, material rollback effect, and causally significant obstruction or degradation (read with [**Chapter Seven**, **section 2** (*Criteria set*)](core_07-07_misconduct.md#2-criteria-set-for-slot-assignment), **criteria 1** **through** **4** on **change** or **record** pathways). **Forcible** or **nullification** misconduct routes through **criteria 5** and **6** of the same section where material. That record must be transmitted to the canonical classification authorities; **this chapter does not itself classify**. **General contribution, violation, and standing** classification (Axes I and II) is owned by **Chapter Six** (*Contribution, Violation, and Standing Model*) in [core_06-06_standing_assessment.md](core_06-06_standing_assessment.md) and [core_06-06_standing_integration.md](core_06-06_standing_integration.md). **Final Violation Axis s = 7, s = 8, and s = 9** classification for **anti-constitutional misconduct** — including criteria, due-process safeguards, and cross-chapter discipline — is owned **only** by **Chapter Seven** (*Anti-Constitutional Misconduct*) in [core_07-07_misconduct.md](core_07-07_misconduct.md#chapter-seven-anti-constitutional-misconduct), as allocated under **Chapter Six** [section 3.0](core_06-06_standing_assessment.md#30-slot-grammar-and-display-labels) and [section 10](core_06-06_standing_integration.md#10-violation-axis-s-7-9-anti-constitutional-misconduct-authoritative-location) (*Violation Axis s = 7–9 anti-constitutional misconduct — authoritative location*). This chapter issues **referral and review triggers only**; it does not attach, narrow, or expand canonical labels.
 
 ### 4. Scope Limit and Layer Discipline
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [§3](#3-anti-evasion-clause-and-constitutional-misconduct-referral) referral-only discipline; [Chapter Six](core_06-06_standing_classification.md#chapter-six-compliance-violation-and-standing-model) and [Chapter Seven](core_07-07_misconduct.md#chapter-seven-anti-constitutional-misconduct) canonical owners.
+- Upstream: [§3](#3-anti-evasion-clause-and-constitutional-misconduct-referral) referral-only discipline; [Chapter Six](core_06-06_standing_assessment.md#chapter-six-compliance-violation-and-standing-model) and [Chapter Seven](core_07-07_misconduct.md#chapter-seven-anti-constitutional-misconduct) canonical owners.
 - Downstream: [Chapter Thirteen §12](core_11-13_amendment.md#12-scope-limit-and-layer-discipline) mirrored procedural-layer discipline; companion implementation for review execution mechanics.
 - Read with: [architecture_primer.md](architecture_primer.md) on change-path and incorporation; [Chapter Thirteen](core_11-13_amendment.md#chapter-thirteen-amendment-ratification-and-procedural-validity) for validity tests that do not duplicate slot-classification taxonomy.
 
@@ -449,7 +449,7 @@ A proposed amendment is invalid if it:
 
 - Upstream: [§1](#1-heightened-review-for-rights-affecting-changes)–[§6](#6-test-4-contestability-and-independent-review-validity) validity tests and contestability floor.
 - Downstream: [§12](#12-scope-limit-and-layer-discipline) reminder that trigger language routes to Chapters Six and Seven rather than creating new slot-classification law.
-- Read with: [Chapter Six, section 4 — *Standing Effects*](core_06-06_standing_integration.md#5-standing-effects); [section 3.2 — Axis I (Contribution Axis) and standing effect](core_06-06_standing_classification.md#3-axis-i-contribution-state-and-standing-effect) (*classification foundations*).
+- Read with: [Chapter Six, section 4 — *Standing Effects*](core_06-06_standing_integration.md#5-standing-effects); [section 3.2 — Axis I (Contribution Axis) and standing effect](core_06-06_standing_assessment.md#3-axis-i-contribution-state-and-standing-effect) (*classification foundations*).
 
 </details>
 
@@ -460,7 +460,7 @@ A proposed amendment is invalid if it:
 Heightened review is automatically triggered for amendments that materially affect any of the following:
 - rights (**Chapter Nine**)
 - constitutional interpretation and review safeguards (**Article XXIII-A**)
-- standing effects ([Chapter Six, section 4 — *Standing Effects*](core_06-06_standing_integration.md#5-standing-effects); read with [section 3.2](core_06-06_standing_classification.md#3-axis-i-contribution-state-and-standing-effect) — Contribution Axis and standing-effect rules)
+- standing effects ([Chapter Six, section 4 — *Standing Effects*](core_06-06_standing_integration.md#5-standing-effects); read with [section 3.2](core_06-06_standing_assessment.md#3-axis-i-contribution-state-and-standing-effect) — Contribution Axis and standing-effect rules)
 - emergency powers
 - cross-jurisdiction enforcement pathways
 
@@ -620,7 +620,7 @@ Amendments take effect only on a stated effective date or event recorded in the 
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [Chapter Eleven §4](core_11-13_amendment.md#4-scope-limit-and-layer-discipline) substantive-chapter mirror; [§7](#7-review-triggers) and [§9](#9-invalid-change-handling-and-remediation-continuity) trigger language scoped here.
-- Downstream: [Chapter Six](core_06-06_standing_classification.md#chapter-six-compliance-violation-and-standing-model) and [Chapter Seven](core_07-07_misconduct.md#chapter-seven-anti-constitutional-misconduct) remain sole canonical homes for listed taxonomies.
+- Downstream: [Chapter Six](core_06-06_standing_assessment.md#chapter-six-compliance-violation-and-standing-model) and [Chapter Seven](core_07-07_misconduct.md#chapter-seven-anti-constitutional-misconduct) remain sole canonical homes for listed taxonomies.
 - Read with: [core_09-09_rights_part_d.md](core_09-09_rights_part_d.md) Chapter Nine boundary-watch zone for the converse Rights-Floor discipline pattern.
 
 </details>
@@ -631,7 +631,7 @@ Amendments take effect only on a stated effective date or event recorded in the 
 
 This chapter states **procedural and custody** validity and invalid-change-handling requirements only (Tests 2 through 4, review triggers, provisional effect, invalid-change remediation, ratification and adoption instruments, and amendment procedure requirements). It does **not** establish, restate, or expand:
 
-- **general contribution / violation / standing classification** (Axes I / II), which remains owned by **Chapter Six** (*Contribution, Violation, and Standing Model*) in [core_06-06_standing_classification.md](core_06-06_standing_classification.md) and [core_06-06_standing_integration.md](core_06-06_standing_integration.md);
+- **general contribution / violation / standing classification** (Axes I / II), which remains owned by **Chapter Six** (*Contribution, Violation, and Standing Model*) in [core_06-06_standing_assessment.md](core_06-06_standing_assessment.md) and [core_06-06_standing_integration.md](core_06-06_standing_integration.md);
 - **final Violation Axis s = 7, 8, or 9** classification for **anti-constitutional misconduct** (criteria, due-process safeguards, and cross-chapter discipline), which remains owned **only** by **Chapter Seven** (*Anti-Constitutional Misconduct*) in [core_07-07_misconduct.md](core_07-07_misconduct.md#chapter-seven-anti-constitutional-misconduct); or
 - **sanction taxonomy** or adjudicative workflow, which remains in the owner layers identified by **Chapter Eleven, section 4** (*Scope Limit and Layer Discipline*).
 

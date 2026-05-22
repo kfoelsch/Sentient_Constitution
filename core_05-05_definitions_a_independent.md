@@ -858,13 +858,13 @@ Independent Definitions must not fragment, isolate, or redistribute compliance i
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Canonical owner: [Chapter Six — §3.1.1 Constitutional-outcome baseline for slots](core_06-06_standing_classification.md#215-constitutional-outcome-baseline-for-slots) (*full-life-equivalent benefit and loss, **LEQU** calibration, substrate-agnostic scope*).
+- Canonical owner: [Chapter Six — §3.1.1 Constitutional-outcome baseline for slots](core_06-06_standing_assessment.md#215-constitutional-outcome-baseline-for-slots) (*full-life-equivalent benefit and loss, **LEQU** calibration, substrate-agnostic scope*).
 
 </details>
 
 <br>
 
-- O: Shorthand for a **Lifespan Equivalent Unit** — the numeric or narrative unit adopted implementation uses to express **full-life-equivalent constitutional benefit** or comparable loss when calibrating Contribution Axis or Violation Axis slot magnitude under [Chapter Six](core_06-06_standing_classification.md) **§3.1.1**. This entry is a Chapter Five pointer to Chapter Six calibration rules. **Operative** thresholds, baselines, and anti-netting discipline are stated only in Chapter Six; this entry does not restate them.
+- O: Shorthand for a **Lifespan Equivalent Unit** — the numeric or narrative unit adopted implementation uses to express **full-life-equivalent constitutional benefit** or comparable loss when calibrating Contribution Axis or Violation Axis slot magnitude under [Chapter Six](core_06-06_standing_assessment.md) **§3.1.1**. This entry is a Chapter Five pointer to Chapter Six calibration rules. **Operative** thresholds, baselines, and anti-netting discipline are stated only in Chapter Six; this entry does not restate them.
 <a id="lifespan-equivalent-unit-lequ-e"></a>
 - E: Apply **only** as implemented consistently with Chapter Six **§3.1.1** and primary banding under **sections 3.2** and **3.3**; read with [Materiality Determination](core_05-05_definitions_b_semi_independent.md#materiality-determination) where magnitude disputes are material.
 <a id="lifespan-equivalent-unit-lequ-c"></a>

@@ -565,7 +565,7 @@ This chapter states **Rights Floors and rights-level interpretive scope** for se
 
 This chapter does **not** establish, restate, or expand:
 
-- **general contribution / violation / standing classification** (Axes I / II), which remains owned by **Chapter Six** (*Contribution, Violation, and Standing Model*) in [core_06-06_standing_classification.md](core_06-06_standing_classification.md) and [core_06-06_standing_integration.md](core_06-06_standing_integration.md);
+- **general contribution / violation / standing classification** (Axes I / II), which remains owned by **Chapter Six** (*Contribution, Violation, and Standing Model*) in [core_06-06_standing_assessment.md](core_06-06_standing_assessment.md) and [core_06-06_standing_integration.md](core_06-06_standing_integration.md);
 - **final Violation Axis s = 7, 8, or 9** classification for **anti-constitutional misconduct** (criteria, due-process safeguards, and cross-chapter discipline), which remains owned **only** by **Chapter Seven** (*Anti-Constitutional Misconduct*) in [core_07-07_misconduct.md](core_07-07_misconduct.md#chapter-seven-anti-constitutional-misconduct);
 - **court structure, family, jurisdiction, or adjudicative workflow**, which remains owned by **Chapter Eight** (*Adjudicative Bodies, Jurisdiction, and Constitutional Adjudication*) in [core_08-08_forum.md](core_08-08_forum.md), with companion-layer detail in [corpus_forum.md](corpus_forum.md);
 - **governance legitimacy mechanics**, including stewardship-direction **rules**, ecosystem-value orientation, concentration-threshold enforcement procedure, and democratic-institution checks at the operating layer, which remain owned by **Chapter Ten** (*Governance Legitimacy*) in [core_10-10_governance.md](core_10-10_governance.md);

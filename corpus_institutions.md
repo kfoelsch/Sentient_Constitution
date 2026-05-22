@@ -37,7 +37,7 @@ This file applies that meaning to institutional design and operation.
 ### CI-1.1: Definition discipline and source hierarchy
 Definition discipline is single-home:
 - Constitutional definition structure, integrity, burden and verification, and foundational definitions remain in [core_02-04_definition_mechanics.md](core_02-04_definition_mechanics.md) **Chapters Two through Four** and [core_05-05_definitions_a_independent.md](core_05-05_definitions_a_independent.md) **Chapter Five**.
-- Compliance-state and offense classification meaning remain in [core_06-06_standing_classification.md](core_06-06_standing_classification.md), [core_06-06_standing_integration.md](core_06-06_standing_integration.md), and [core_07-07_misconduct.md](core_07-07_misconduct.md) **Chapters Six and Seven**.
+- Compliance-state and offense classification meaning remain in [core_06-06_standing_assessment.md](core_06-06_standing_assessment.md), [core_06-06_standing_integration.md](core_06-06_standing_integration.md), and [core_07-07_misconduct.md](core_07-07_misconduct.md) **Chapters Six and Seven**.
 - Rights meaning remains in the Sentient Constitution Chapter Nine part files (`core_09-09_rights_part_*.md`).
 - PRIM/PROT meanings remain in `corpus_joint_structure.md`.
 - System class, dependency, steward, and continuity taxonomies remain in `corpus_systems.md`.

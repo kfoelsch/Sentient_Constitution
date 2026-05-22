@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/crossref_matrix.schema.json",
-  "generated_at": "2026-05-21T21:13:02+00:00",
+  "generated_at": "2026-05-22T15:17:49+00:00",
   "description": "Source-derived file-to-file Markdown reference graph.",
   "graph": {
     "nodes": [
@@ -1311,7 +1311,7 @@
           },
           {
             "file": "core_00-01_principles.md",
-            "count": 10,
+            "count": 7,
             "anchors": [
               "#52-stewardship-and-distributed-understanding",
               "#chapter-01-principles-and-constraints"
@@ -1319,104 +1319,45 @@
           },
           {
             "file": "core_02-04_definition_mechanics.md",
-            "count": 7,
+            "count": 5,
             "anchors": []
           },
           {
             "file": "core_05-05_definitions_a_independent.md",
-            "count": 84,
+            "count": 8,
             "anchors": [
               "#chapter-five-foundational-definitions",
-              "#dependency",
-              "#dependency-c",
-              "#dependency-e",
-              "#dignity-and-equal-moral-standing",
-              "#dignity-and-equal-moral-standing-c",
-              "#dignity-and-equal-moral-standing-e",
-              "#existential-risk",
-              "#existential-risk-c",
-              "#existential-risk-e",
-              "#feasibility",
-              "#feasibility-c",
-              "#feasibility-e",
-              "#meaningful-agency-o",
-              "#necessity",
               "#proportionality",
               "#proportionality-c",
-              "#proportionality-e",
-              "#risk",
-              "#risk-c",
-              "#risk-e",
-              "#safety-constraint",
-              "#safety-constraint-c",
-              "#safety-constraint-e",
-              "#system-capture",
-              "#system-capture-c",
-              "#system-capture-e",
-              "#wellbeing",
-              "#wellbeing-c",
-              "#wellbeing-e"
+              "#proportionality-e"
             ]
           },
           {
             "file": "core_05-05_definitions_b_semi_independent.md",
-            "count": 107,
+            "count": 13,
             "anchors": [
               "#coercion-and-manipulation-constitutional",
               "#coercion-and-manipulation-constitutional-c",
               "#coercion-and-manipulation-constitutional-e",
-              "#contestability",
-              "#contestability-c",
-              "#contestability-e",
-              "#contribution-state",
-              "#contribution-state-c",
-              "#contribution-state-e",
               "#materiality-determination",
               "#materiality-determination-c",
-              "#materiality-determination-e",
-              "#meaningful-agency",
-              "#meaningful-agency-c",
-              "#meaningful-agency-e",
-              "#participant-standing-constitutional",
-              "#proxy-divergence",
-              "#proxy-divergence-c",
-              "#proxy-divergence-e",
-              "#verified-violation-findings"
+              "#materiality-determination-e"
             ]
           },
           {
             "file": "core_05-05_definitions_c_dependent_clusters.md",
-            "count": 136,
+            "count": 19,
             "anchors": [
-              "#auditability",
-              "#auditability-c",
-              "#auditability-e",
               "#constitutional-constraint-violation",
               "#constitutional-constraint-violation-c",
               "#constitutional-constraint-violation-e",
-              "#epistemic-integrity",
-              "#epistemic-integrity-c",
-              "#epistemic-integrity-e",
-              "#epistemic-integrity-o",
               "#foreseeability-diligence",
               "#foreseeability-diligence-c",
               "#foreseeability-diligence-e",
               "#harm",
               "#harm-c",
               "#harm-e",
-              "#irreversible-harm",
-              "#irreversible-harm-c",
-              "#irreversible-harm-e",
-              "#supremacy-and-enforceability",
-              "#supremacy-and-enforceability-c",
-              "#supremacy-and-enforceability-e",
-              "#transparency",
-              "#transparency-c",
-              "#transparency-e",
-              "#truth-constitutional-constraint",
-              "#truth-constitutional-constraint-c",
-              "#truth-constitutional-constraint-e",
-              "#truth-constitutional-constraint-o"
+              "#supremacy-and-enforceability"
             ]
           },
           {
@@ -1428,27 +1369,13 @@
           },
           {
             "file": "core_06-06_standing_integration.md",
-            "count": 57,
+            "count": 21,
             "anchors": [
               "#10-enforcement-realism-anchors",
               "#10-violation-axis-s-7-9-anti-constitutional-misconduct-authoritative-location",
-              "#35-positive-standing-recognition",
-              "#36-restrictive-standing-effects",
-              "#38-standing-integration-category-hook",
-              "#38-standing-integration-contribution-and-violation-nature",
-              "#410-collective-accountability-and-acquiescent-participation",
-              "#411-duty-to-resist-unlawful-or-unconstitutional-instructions",
-              "#412-negligence-and-neglect-as-violation-nature",
               "#5-standing-effects",
               "#6-extended-axis-ii-legal-hybrid-duty-and-harm-descriptors",
-              "#61-remedial-restorative-and-civil-correction-character",
-              "#62-joint-assessment-escalation-constraints-and-scrutiny",
-              "#62-punitive-or-liberty-restricting-character",
-              "#63-constitutional-floor-character",
-              "#64-concurrent-character-and-non-exclusivity",
               "#7-supplemental-descriptors-and-domain-lenses",
-              "#71-shared-domain-lenses-cross-axis-vocabulary",
-              "#72-stackable-benefit-and-stewardship-descriptors-contribution-state-supplement",
               "#73-stackable-harm-and-conduct-descriptors-violation-nature-supplement",
               "#8-cross-axis-coupling-and-escalation-constraints",
               "#chapter-six-standing-effects-and-integration",
@@ -1457,35 +1384,28 @@
           },
           {
             "file": "core_07-07_misconduct.md",
-            "count": 8,
+            "count": 4,
             "anchors": [
               "#chapter-seven-anti-constitutional-misconduct"
             ]
           },
           {
             "file": "core_08-08_forum.md",
-            "count": 9,
+            "count": 8,
             "anchors": [
               "#chapter-eight-forums-and-jurisdiction"
             ]
           },
           {
-            "file": "core_09-09_rights_part_a.md",
-            "count": 1,
-            "anchors": [
-              "#chapter-nine-foundational-rights"
-            ]
-          },
-          {
             "file": "core_09-09_rights_part_c.md",
-            "count": 2,
+            "count": 1,
             "anchors": [
               "#article-xii-b-right-to-challenge-review-and-redress"
             ]
           },
           {
             "file": "core_09-09_rights_part_d.md",
-            "count": 6,
+            "count": 5,
             "anchors": [
               "#article-xxiii-a-justice-objective-and-scope",
               "#article-xxiii-b-non-trivial-punishment-constraints",
@@ -1627,16 +1547,12 @@
           },
           {
             "file": "core_06-06_standing_classification.md",
-            "count": 43,
+            "count": 40,
             "anchors": [
               "#1-purpose-and-role",
               "#23-dispute-phase-material-forums-and-challenge-protections",
               "#3-axis-i-contribution-state-and-standing-effect",
               "#3-primary-category-defaults-and-lequ-slot-baseline",
-              "#31-baseline-contribution",
-              "#32-positive-contribution",
-              "#33-stewardship-positive-contribution",
-              "#34-champion-contribution",
               "#4-axis-ii-violation-nature-legal-constitutional-type",
               "#41-formal-non-compliance",
               "#42-remedial-substantive-non-compliance",

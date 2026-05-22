@@ -153,7 +153,7 @@ Step 3: Update ai_corpus index files
 | core_05-05_definitions_a_independent.md | ~1,300 | Independent definitions A-Z |
 | core_05-05_definitions_b_semi_independent.md | ~1,900 | Semi-independent definitions |
 | core_05-05_definitions_c_dependent_clusters.md | ~1,800 | Dependent definition clusters |
-| core_06-06_standing_classification.md | ~880 | Two-axis standing model |
+| core_06-06_standing_assessment.md | ~880 | Two-axis standing model |
 | core_06-06_standing_integration.md | ~780 | Standing effects, integration |
 | core_07-07_misconduct.md | ~420 | Anti-constitutional misconduct |
 | core_08-08_forum.md | ~380 | Forums, jurisdiction |

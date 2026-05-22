@@ -34,7 +34,7 @@ Chapter Six sets the general **Contribution Axis**, **Violation Axis**, standing
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [Chapter Six](core_06-06_standing_classification.md#chapter-six-compliance-violation-and-standing-model) (*Contribution, Violation, and Standing Model*), including [§3.0 — Slot grammar and display labels](core_06-06_standing_classification.md#30-slot-grammar-and-display-labels), [§3.1 — Primary category defaults and LEQU slot baseline](core_06-06_standing_classification.md#3-primary-category-defaults-and-lequ-slot-baseline), and [§10 — Violation Axis s = 7–9 anti-constitutional misconduct — authoritative location](core_06-06_standing_integration.md#10-violation-axis-s-7-9-anti-constitutional-misconduct-authoritative-location).
+- Upstream: [Chapter Six](core_06-06_standing_assessment.md#chapter-six-compliance-violation-and-standing-model) (*Contribution, Violation, and Standing Model*), including [§3.0 — Slot grammar and display labels](core_06-06_standing_assessment.md#30-slot-grammar-and-display-labels), [§3.1 — Primary category defaults and LEQU slot baseline](core_06-06_standing_assessment.md#3-primary-category-defaults-and-lequ-slot-baseline), and [§10 — Violation Axis s = 7–9 anti-constitutional misconduct — authoritative location](core_06-06_standing_integration.md#10-violation-axis-s-7-9-anti-constitutional-misconduct-authoritative-location).
 - Upstream integrity sources: [Chapters Two through Four](core_02-04_definition_mechanics.md) integrity, tracing, and verification.
 - Upstream principles: [Chapter One](core_00-01_principles.md#chapter-01-principles-and-constraints) principles where **Necessity**-bounded emergency or concentration floors apply.
 - Subsections: [§1](#1-scope-and-authority); [§2](#2-criteria-set-for-slot-assignment); [§3](#3-violation-axis-s-7-9-slot-assignment-incident-gravity); [§4](#4-due-process-safeguards-for-slot-classification); [§5](#5-cross-chapter-discipline); [§6](#6-criteria-interactions-and-named-pattern-routing); [§6.1](#61-concentration-based-subversion-criteria-interaction); [§6.2](#62-rights-floor-waivers-and-unconstitutional-contract-terms); [§6.3](#63-flooding-the-zone-and-contest-pathway-denial); [§6.4](#64-info-sphere-zone-flooding); [§6.5](#65-bribery-and-improper-benefit-exchange).
@@ -59,8 +59,8 @@ For final classification of anti-constitutional misconduct, this chapter control
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [Chapter Six](core_06-06_standing_classification.md#chapter-six-compliance-violation-and-standing-model) (*the Contribution and Violation axes*).
-- Upstream map: [Chapter Six §3.0](core_06-06_standing_classification.md#30-slot-grammar-and-display-labels) (*standing-slot grammar*).
+- Upstream: [Chapter Six](core_06-06_standing_assessment.md#chapter-six-compliance-violation-and-standing-model) (*the Contribution and Violation axes*).
+- Upstream map: [Chapter Six §3.0](core_06-06_standing_assessment.md#30-slot-grammar-and-display-labels) (*standing-slot grammar*).
 - Upstream pointer: [Chapter Six §10](core_06-06_standing_integration.md#10-violation-axis-s-7-9-anti-constitutional-misconduct-authoritative-location) points here as the sole home for final top-end anti-constitutional misconduct assignment.
 - Downstream: [§2](#2-criteria-set-for-slot-assignment) (*Criteria set*); [§3](#3-violation-axis-s-7-9-slot-assignment-incident-gravity) (*Violation Axis s = 7–9 slot assignment*).
 - Safeguards and discipline: [§4](#4-due-process-safeguards-for-slot-classification) (*Due-process safeguards*); [§5](#5-cross-chapter-discipline) (*Cross-chapter discipline*).
@@ -117,7 +117,7 @@ Evaluators must not treat the same underlying conduct as satisfying both **crite
 - Criteria interactions: [§6.1](#61-concentration-based-subversion-criteria-interaction); [§6.2](#62-rights-floor-waivers-and-unconstitutional-contract-terms); [§6.3](#63-flooding-the-zone-and-contest-pathway-denial); [§6.4](#64-info-sphere-zone-flooding); [§6.5](#65-bribery-and-improper-benefit-exchange).
 - Downstream: [§4](#4-due-process-safeguards-for-slot-classification) (*Due-process safeguards*) and [§5](#5-cross-chapter-discipline) (*Cross-chapter discipline*).
 - Downstream courts: [Chapter Eight](core_08-08_forum.md#chapter-eight-forums-and-jurisdiction) [§2](core_08-08_forum.md#2-default-venue-and-dominant-purpose) gives the Integrity default lead for dominant Chapter Seven slot classification. [Chapter Eight §7](core_08-08_forum.md#7-escalation-and-certification) covers slot assignment and independent review for final **s = 7**, **s = 8**, and **s = 9** classification.
-- Read with: [Chapter Six](core_06-06_standing_classification.md#chapter-six-compliance-violation-and-standing-model) — **Chapters Eleven through Thirteen** do not supply final Chapter Seven slot assignment; **the Contribution and Violation axes**, the Chapter Six severity ladder, and Chapter Six process / response character remain separate from final **s = 7, 8, or 9** assignment under **this** **section**.
+- Read with: [Chapter Six](core_06-06_standing_assessment.md#chapter-six-compliance-violation-and-standing-model) — **Chapters Eleven through Thirteen** do not supply final Chapter Seven slot assignment; **the Contribution and Violation axes**, the Chapter Six severity ladder, and Chapter Six process / response character remain separate from final **s = 7, 8, or 9** assignment under **this** **section**.
 
 </details>
 
@@ -175,7 +175,7 @@ No final **Violation Axis anti-constitutional misconduct** classification under 
 - Pattern and slot sources: [§6.3](#63-flooding-the-zone-and-contest-pathway-denial); [§6.4](#64-info-sphere-zone-flooding); [§6.5](#65-bribery-and-improper-benefit-exchange); [§3](#3-violation-axis-s-7-9-slot-assignment-incident-gravity); [§4](#4-due-process-safeguards-for-slot-classification).
 - Downstream: [Chapter Eleven](core_11-13_amendment.md#chapter-eleven-non-regression-and-substantive-amendment-validity) substantive non-regression validity floor and anti-evasion referral triggers.
 - Downstream custody: [Chapter Thirteen](core_11-13_amendment.md#chapter-thirteen-amendment-ratification-and-procedural-validity) procedural and custody validity tests, review triggers, provisional effect, and invalid-change handling.
-- Read with: [Chapter Six](core_06-06_standing_classification.md#chapter-six-compliance-violation-and-standing-model) for **the Contribution and Violation axes**, violation severity, process / response character, and the boundary that final Chapter Seven **s = 7, 8, or 9** assignments are supplied only here.
+- Read with: [Chapter Six](core_06-06_standing_assessment.md#chapter-six-compliance-violation-and-standing-model) for **the Contribution and Violation axes**, violation severity, process / response character, and the boundary that final Chapter Seven **s = 7, 8, or 9** assignments are supplied only here.
 
 </details>
 
