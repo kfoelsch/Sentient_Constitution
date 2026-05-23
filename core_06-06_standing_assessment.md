@@ -132,13 +132,13 @@ A standing record is not a freestanding reputation score, dignity rank, permanen
 
 - Upstream: [§2.1](#21-standing-records-as-the-unit-of-application) (*standing records as the unit of application*).
 - Downstream: [§2.3](#23-dispute-phase-material-forums-and-challenge-protections) (*dispute-phase material, forums, and challenge protections*); [§2.4](#24-coexistence-and-no-offset-bridge) (*coexistence and no-offset bridge*); [§2.5](#25-standing-record-operational-requirements) (*Standing Record operational requirements*); [§3.1](#3-axis-i-contribution-state-and-standing-effect) (*Contribution Axis*); [§3.3](#4-axis-ii-violation-nature-legal-constitutional-type) (*Violation Axis*); [§7](core_06-06_standing_integration.md#8-cross-axis-coupling-and-escalation-constraints) (*joint assessment*).
-- Read with: [Chapter Eight](core_08-08_forum.md#chapter-eight-forums-and-jurisdiction) (*forums separate*).
+- Read with: [Chapter Eight](core_08-08_forum.md#chapter-eight-forums-and-jurisdiction) (*forums separate*); [corpus_systems.md](corpus_systems.md), Chapter S2 — System Classification and Handling (*Class P private-scope proportionality*).
 
 </details>
 
 <br>
 
-*In plain terms: Your standing — how much you're trusted, what roles you can hold, and what recognition you receive — depends only on facts that have been checked and verified. Accusations, complaints, or preliminary labels don't count until they've been properly reviewed through the forum process and turned into official, auditable findings. Until then, they cannot by themselves change how much you're trusted, what position you hold, or what recognition you get.*
+*In plain terms: Within constitutional systems, your standing — how much you're trusted, what roles you can hold, and what recognition you receive — depends only on facts that have been checked and verified. Accusations, complaints, or preliminary labels don't count until they've been properly reviewed through the forum process and turned into official, auditable findings. Until then, they cannot by themselves change your constitutional standing, role eligibility, trust status, or recognition. For systems that validly remain Class P under Chapter S2, ordinary private and intra-unit discretion may apply inside the Class P boundary; that discretion does not create broader standing effects and does not survive reclassification, material externalization, or adjudication duties that otherwise apply.*
 
 **Verified inputs for standing (forums separate).** **Standing effect** and any trust-, role-, or recognition-eligibility consequence that implements it **may be applied** only from verified standing inputs.
 
@@ -284,19 +284,13 @@ The slot grammar uses a slot number, `s`, from **1** through **9**. Each axis ha
 
 The same slot number can appear on both axes, but the axes remain separate. A contribution slot is not a violation slot, and a violation slot is not a contribution slot.
 
-The display labels make the slot ranges visible without adding a separate category layer:
-
-- `s` = 1–3 use **participant** / **non-compliance finding** labels;
-- `s` = 4–6 use **steward** / **violation finding** labels; and
-- `s` = 7–9 use **champion** / **anti-constitutional misconduct** labels.
-
-For `s` = 1–6, the internal steps display as **minor**, **mid**, and **major**. For `s` = 7–9, the top-end labels change because those slots have stronger constitutional meaning.
+The display labels make the slot ranges visible without adding a separate category layer. The first six Contribution Axis slots use paired internal steps: **basic** / **strengthened**, **verified** / **material**, and **established** / **major**. The top Contribution Axis slots use **recognized**, **distinguished**, and **exemplary** champion labels because those slots have stronger constitutional meaning. The Violation Axis keeps its own display labels for non-compliance findings, violation findings, and anti-constitutional misconduct.
 
 <a id="212-table-1-slot-display-labels"></a>
 
 ##### 3.0.2 Table 1 — slot display labels
 
-**Table 1** names the nine slots. It does **not** decide whether any person, institution, record, assessment, or event belongs in a slot. It only supplies the shared display language used once a contribution band or violation severity has been determined under later sections.
+**Table 1** names the nine slots and shows the Contribution Axis and Violation Axis display scales side by side. It does **not** decide whether any person, institution, record, assessment, or event belongs in a slot. It only supplies the shared display language used once a contribution state or violation severity has been determined under later sections.
 
 Read each row as follows:
 
@@ -304,16 +298,16 @@ Read each row as follows:
 - Column 2 gives the Contribution Axis display label for that slot.
 - Column 3 gives the Violation Axis display label for that slot.
 
-The display labels combine an internal step with a role label. For example, **minor participant** means the first contribution slot. It does not mean "minor" in every ordinary sense, and it does not replace the contribution rules in section 3.1.
+The display labels combine the slot's band with its internal step. For example, **strengthened baseline contribution** means the second slot within the baseline contribution band. It does not replace the contribution rules in section 3.1.
 
 |  `s` | Contribution Axis display label | Violation Axis display label |
 | ---: | --- | --- |
-|    1 | **minor** *participant* | **minor** *non-compliance finding* |
-|    2 | **mid** *participant* | **mid** *non-compliance finding* |
-|    3 | **major** *participant* | **major** *non-compliance finding* |
-|    4 | **minor** *steward* | **minor** *violation finding* |
-|    5 | **mid** *steward* | **mid** *violation finding* |
-|    6 | **major** *steward* | **major** *violation finding* |
+|    1 | **basic baseline contribution** | **minor** *non-compliance finding* |
+|    2 | **strengthened baseline contribution** | **mid** *non-compliance finding* |
+|    3 | **verified positive contribution** | **major** *non-compliance finding* |
+|    4 | **material positive contribution** | **minor** *violation finding* |
+|    5 | **established stewardship-positive contribution** | **mid** *violation finding* |
+|    6 | **major stewardship-positive contribution** | **major** *violation finding* |
 |    7 | **recognized** *champion* | **Serious** *anti-constitutional misconduct* |
 |    8 | **distinguished** *champion* | **Grave** *anti-constitutional misconduct* |
 |    9 | **exemplary** *champion* | **Pernicious** *anti-constitutional misconduct* |
@@ -327,9 +321,11 @@ Table 1 is a naming table. It gives consistent words for the slot scale; it does
 Use Table 1 this way:
 
 - The table labels do not replace the **C-** contribution bands or **V-** violation labels in Table 2.
-- **Minor**, **mid**, and **major** name positions inside the first six slots. They are ordinal labels, not stand-alone severity rules.
+- The four contribution bands are the Contribution Axis grouping structure; Violation Axis display labels sit on the separate violation scale.
+- On the Contribution Axis, slots `s` = 1–6 use paired band-step labels. They are ordinal display labels, not stand-alone contribution rules.
 - The top Contribution Axis labels are **recognized champion**, **distinguished champion**, and **exemplary champion**.
 - The top Violation Axis labels are **Serious**, **Grave**, and **Pernicious anti-constitutional misconduct**. Chapter Seven controls final assignment to those violation slots.
+- Section 7.1 later explains the standing-integration consequences of verified Violation Axis slots.
 
 Adopted implementation may use machine-readable slot-display fields and numeric standing helpers only as interoperable support. Those helpers must not replace the primary typing in sections 3.1 and 3.3, the default maps in **Table 1** and **Table 2**, or the Chapter Seven assignment rules for Violation Axis `s` = 7, 8, and 9, except through a **conforming instrument** change.
 
@@ -338,7 +334,7 @@ Adopted implementation may use machine-readable slot-display fields and numeric 
 
 > This widget contains implementation-facing interoperability material. It supports the chapter's operative categories; it does not create a parallel category system.
 
-Machine-readable fields for slot display (`sub_tier`, `sub_tier_display`, and related display fields) are defined in [CH06_NINE_SLOT_STANDING_SCALE.md](implementation/CH06_NINE_SLOT_STANDING_SCALE.md) and [ch06_nine_slot_constants.json](implementation/ch06_nine_slot_constants.json). Use them with the default map in **Table 2**.
+Machine-readable fields for slot display (`sub_tier`, `sub_tier_display`, and related display fields) are defined in [CH06_NINE_SLOT_STANDING_SCALE.md](implementation/CH06_NINE_SLOT_STANDING_SCALE.md) and [ch06_nine_slot_constants.json](implementation/ch06_nine_slot_constants.json). Use them with the four-band default map in **Table 2**.
 
 Adopted implementation may publish `C*` thresholds, `V(s)` weights, and keyed sub-tier labels subject to the non-replacement rule above.
 
@@ -353,7 +349,7 @@ For record separation and the rule that shared slot numbers do not create a net 
 
 *In plain terms: This section translates the abstract nine-slot scale into concrete categories. Think of slots 1–9 as a spectrum from "meets basic expectations" to "exceptional hero" on the contribution side, and from "paperwork problems" to "worst imaginable misconduct" on the violation side. The tables below show what each slot means in practice, using the calibration unit called "LEQU" — roughly the benefit or harm equivalent to one person's entire lifetime of wellbeing.*
 
-Table 2 connects the display scale in **section 3.0** and **Table 1** to the operative Contribution Axis rules in this section and the Violation Axis rules in **section 3.3**. Standing records under **sections 2.1** and **2.5** are the record layer that states how those categories have been applied in a particular scope and time.
+Table 2 connects the display scale in **section 3.0** and **Table 1** to the operative Contribution Axis rules in this section and the Violation Axis rules in **section 3.3**. It keeps the row-by-row practical meanings on the two axes without creating a separate Violation Axis band column. Section 7.1 later explains how verified Violation Axis slots affect standing. Standing records under **sections 2.1** and **2.5** are the record layer that states how those categories have been applied in a particular scope and time.
 
 It fixes two defaults:
 
@@ -390,26 +386,28 @@ Column 1 uses the same `s` as **Table 1**. Read each row with **section 3.0** an
 <a id="33-stewardship-positive-contribution"></a>
 <a id="34-champion-contribution"></a>
 
-|  `s` | Contribution Axis — What It Means in Practice (Positive Side)                                                                                                      | Violation Axis — What It Means in Practice (Adverse Side)                                                                                                                                                                                                         |
+|  `s` | Contribution Axis — What It Means in Practice (Positive Side) | Violation Axis — What It Means in Practice (Adverse Side) |
 | ---: | --- | --- |
-|    1 | **minor participant** — You meet the basic constitutional floor for your scope. No major violations hiding under the surface.                                                                                               | **minor non-compliance finding** — Record-keeping, verification, access, or process problems exist, but haven't yet caused substantive constitutional harm. (See [§3.3, Formal Non-Compliance](#41-formal-non-compliance))                                                                                                                          |
-|    2 | **mid participant** — You've made a real, demonstrable improvement beyond baseline obligations.                                                                                                                            | **mid non-compliance finding** — Real harm or rights failure occurred; the main response should be repair, restoration, compensation, or similar civil correction. (See [§3.3, Remedial Substantive Non-Compliance](#42-remedial-substantive-non-compliance))                                                                                                       |
-|    3 | **major participant** — You've delivered material, lasting, or repeated benefits within your scope, though not yet cross-boundary stewardship.                                                    | **major non-compliance finding** — Constitutional constraints, Rights Floors, supremacy, or anti-evasion rules were materially violated, but without aggravated, coercive, or critical features. (See [§3.3, Significant Substantive Non-Compliance](#43-constitutional-substantive-non-compliance))                                                                     |
-|    4 | **minor steward** — You've sustained contribution to collective constitutional resilience across system boundaries.                                                                          | **minor violation finding** — Harm or risk from unmet duty, foreseeable preventable harm, inadequate supervision, failure to escalate, or neglect where you had capacity to act. (See [§3.3, Duty-Based or Negligent-Harm Violation](#44-duty-based-or-negligent-harm-violation))                                                                               |
-|    5 | **mid steward** — Sustained cross-boundary prevention, coordination, or ecosystem-strengthening with measurable resilience gains.                                              | **mid violation finding** — Repeated, reckless, exploitative, evasive, concealed, structurally enabled, or dependency-abusing failure. (See [§3.3, Aggravated Violation](#45-aggravated-violation))                                                                                                                                            |
-|    6 | **major steward** — Broad or deeply embedded stewardship that materially improves others' capacity to meet baseline obligations without creating dependency.                      | **major violation finding** — Culpable, coercive, violent, liberty-threatening, or social-danger conduct serious enough to require criminal-process or equivalent protections if punitive response is considered. (See [§3.3, Coercive or Punitive-Process Violation](#46-coercive-or-punitive-process-violation))                                                                                                           |
-|    7 | **recognized champion** — Recognized stewardship whose scale, durability, or cross-institutional reach materially exceeds the stewardship-positive standard.             | **Serious anti-constitutional misconduct** — Catastrophic, existential, Rights-Floor-defeating, or constitution-undermining failure. Chapter Seven assigns **s = 7** when the higher **s = 8** or **s = 9** thresholds aren't met. |
-|    8 | **distinguished champion** — Distinguished stewardship with durable cross-institutional reliance, structural repair, or prevention that outlasts you. | **Grave anti-constitutional misconduct** — Chapter Seven assigns this when final findings establish grave anti-constitutional misconduct.                                                                                                                                                                                                         |
-|    9 | **exemplary champion** — Exemplary stewardship producing rare, durable constitutional-resilience gains at the widest material scope.                                     | **Pernicious anti-constitutional misconduct** — Chapter Seven assigns this when final findings establish pernicious anti-constitutional misconduct.                                                                                                                                                                                                         |
+|    1 | **basic baseline contribution** — You meet the basic constitutional floor for your scope. No major violations hiding under the surface. | **minor non-compliance finding** — Record-keeping, verification, access, or process problems exist, but haven't yet caused substantive constitutional harm. (See [§3.3, Formal Non-Compliance](#41-formal-non-compliance)) |
+|    2 | **strengthened baseline contribution** — You reliably exceed the minimum floor in a bounded, demonstrable way while remaining within the baseline band. | **mid non-compliance finding** — Real harm or rights failure occurred; the main response should be repair, restoration, compensation, or similar civil correction. (See [§3.3, Remedial Substantive Non-Compliance](#42-remedial-substantive-non-compliance)) |
+|    3 | **verified positive contribution** — You've made a real, demonstrable improvement beyond baseline obligations. | **major non-compliance finding** — Constitutional constraints, Rights Floors, supremacy, or anti-evasion rules were materially violated, but without aggravated, coercive, or critical features. (See [§3.3, Significant Substantive Non-Compliance](#43-constitutional-substantive-non-compliance)) |
+|    4 | **material positive contribution** — You've delivered material, lasting, or repeated benefits within your scope, though not yet stewardship-positive contribution. | **minor violation finding** — Harm or risk from unmet duty, foreseeable preventable harm, inadequate supervision, failure to escalate, or neglect where you had capacity to act. (See [§3.3, Duty-Based or Negligent-Harm Violation](#44-duty-based-or-negligent-harm-violation)) |
+|    5 | **established stewardship-positive contribution** — You've sustained contribution to collective constitutional resilience across system boundaries. | **mid violation finding** — Repeated, reckless, exploitative, evasive, concealed, structurally enabled, or dependency-abusing failure. (See [§3.3, Aggravated Violation](#45-aggravated-violation)) |
+|    6 | **major stewardship-positive contribution** — Broad or deeply embedded stewardship that materially improves others' capacity to meet baseline obligations without creating dependency. | **major violation finding** — Culpable, coercive, violent, liberty-threatening, or social-danger conduct serious enough to require criminal-process or equivalent protections if punitive response is considered. (See [§3.3, Coercive or Punitive-Process Violation](#46-coercive-or-punitive-process-violation)) |
+|    7 | **recognized champion** — Recognized stewardship whose scale, durability, or cross-institutional reach materially exceeds the stewardship-positive standard. | **Serious anti-constitutional misconduct** — Catastrophic, existential, Rights-Floor-defeating, or constitution-undermining failure. Chapter Seven assigns **s = 7** when the higher **s = 8** or **s = 9** thresholds aren't met. |
+|    8 | **distinguished champion** — Distinguished stewardship with durable cross-institutional reliance, structural repair, or prevention that outlasts you. | **Grave anti-constitutional misconduct** — Chapter Seven assigns this when final findings establish grave anti-constitutional misconduct. |
+|    9 | **exemplary champion** — Exemplary stewardship producing rare, durable constitutional-resilience gains at the widest material scope. | **Pernicious anti-constitutional misconduct** — Chapter Seven assigns this when final findings establish pernicious anti-constitutional misconduct. |
 
 **Contribution Axis notes for Table 2.** The Contribution Axis has four primary bands:
 
-- **Baseline contribution** (`s` = 1): required constitutional conditions are met without unresolved material violation under applicable definitions, rights, and evaluation scope.
-- **Positive contribution** (`s` = 2–3): behavior demonstrably improves constitutional outcomes beyond minimum baseline obligations, including measurable reduction of systemic risk, restoration of harmed conditions, strengthened challenge rights, or durable improvement of environmental and informational integrity.
-- **Stewardship-positive contribution** (`s` = 4–6): sustained, verifiable contribution to collective constitutional resilience across system boundaries, including prevention investments, ecosystem-strengthening coordination, and improvements that increase others' ability to meet baseline obligations without dependency abuse.
+- **Baseline contribution** (`s` = 1–2): required constitutional conditions are met without unresolved material violation under applicable definitions, rights, and evaluation scope; strengthened baseline contribution records bounded, demonstrable reliability above the floor that has not yet become positive contribution.
+- **Positive contribution** (`s` = 3–4): behavior demonstrably improves constitutional outcomes beyond minimum baseline obligations, including measurable reduction of systemic risk, restoration of harmed conditions, strengthened challenge rights, or durable improvement of environmental and informational integrity.
+- **Stewardship-positive contribution** (`s` = 5–6): sustained, verifiable contribution to collective constitutional resilience across system boundaries, including prevention investments, ecosystem-strengthening coordination, and improvements that increase others' ability to meet baseline obligations without dependency abuse.
 - **Champion contribution** (`s` = 7–9): sustained, verifiable stewardship whose scale, durability, or cross-institutional reach materially exceeds the stewardship-positive standard under the same auditability and contestability discipline. It includes durable reduction of systemic dependency or capture risk at material scope, structural repair or prevention that multiple communities or institutions rely on, or demonstrable constitutional-resilience gains that outlast the originating actors.
 
 Positive contribution may coexist with **violation nature** under **sections 3.3** and **5**, but it must not offset, average down, excuse, cure, or relabel adverse findings. Positive, stewardship-positive, and champion contribution need not pass through formal governance bodies, salaried official roles, licensed programs, or designated filings; peer, neighbor, voluntary, and mutual-aid stewardship may count when its effects are demonstrable under the same **auditability** and **contestability** discipline used for institutional contribution. Recognition design must not treat official-channel pedigree as necessary for positive credit or as a default proxy for greater contribution.
+
+**Violation Axis note for Table 2.** The Violation Axis remains a severity ladder under **section 3.3** and Chapter Seven. Section 7.1 later states the standing-integration consequences of verified Violation Axis slots, including what contribution-linked trust, role, credit, or recognition benefit is blocked or limited while a verified violation finding remains unresolved.
 
 Table 2 treats **Champion contribution** as the top Contribution Axis band. **Champion contribution** occupies the top display range, `s` = 7 through 9, with **recognized**, **distinguished**, and **exemplary** as its slot displays. The Violation Axis works differently at the top end. Chapter Seven supplies the final rules that distinguish the top three Violation Axis slots: `s` = 7, `s` = 8, and `s` = 9. Standing consequences are stated in **section 4**. Standing integration mechanics are stated in **section 7**. **Section 6.1** gives the reader-facing domain cross-walk, and **section 6.2** gives the operative Contribution Axis supplement rules.
 
@@ -446,10 +444,10 @@ The claimed benefit counts only to the extent it remains traceable, non-external
 | `s` | Contribution Level | Roughly Equivalent To... |
 | ---: | --- | --- |
 | 1 | **Baseline contribution** | Meeting constitutional floor without violations |
-| 2 | **Small verified uplift** | Helping one person modestly beyond baseline |
-| 3 | **Material bounded uplift** | Helping a small group or single community noticeably |
-| 4 | **Durable stewardship** | Creating lasting benefit in a defined domain |
-| 5 | **Major stewardship** | Cross-system benefits that build real resilience |
+| 2 | **Strengthened baseline contribution** | Reliably exceeding the floor in a bounded, demonstrable way |
+| 3 | **Verified positive contribution** | Helping one person modestly beyond baseline |
+| 4 | **Material positive contribution** | Helping a small group or single community noticeably |
+| 5 | **Established stewardship-positive contribution** | Creating lasting benefit in a defined domain |
 | 6 | **Pre-champion stewardship** | Approaching one LEQU in impact, or enabling many others to meet obligations |
 | 7 | **Recognized champion** | **At least one LEQU** — verifiably saved or transformed one lifetime-equivalent |
 | 8 | **Distinguished champion** | **Multiple LEQUs** — lasting institutional repair or prevention that outlives the actors |

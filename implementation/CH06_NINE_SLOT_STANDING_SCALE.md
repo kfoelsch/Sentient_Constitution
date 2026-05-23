@@ -2,9 +2,9 @@
 
 **Status:** Adopted implementation (non-core). **Authoritative** constitutional meaning for **contribution state**, **violation nature**, and **standing** remains in [core_06-06_standing_assessment.md](../core_06-06_standing_assessment.md) and [core_06-06_standing_integration.md](../core_06-06_standing_integration.md) (binding core). The default **slot** **nest** of implementation contribution keys to **s**, the default **1:1** **V-** to **s** **map** (through **V-CN**; **Violation** **Axis** **s** 8-9 **reserved** in the default map), and the **constitutional-outcome baseline** for Contribution Axis and Violation Axis slot movement are stated in the core [§3.0 — Slot grammar and display labels](../core_06-06_standing_assessment.md#30-slot-grammar-and-display-labels) (**Table** **1** = slot display labels), [§3.1 — Primary category defaults](../core_06-06_standing_assessment.md#3-primary-category-defaults-and-lequ-slot-baseline) (**Table** **2** = default **primary** **C** and **V** **lines**), and **§3.2** (full-life-equivalent constitutional-benefit and constitutional-loss baseline). This file specifies a **numeric interoperable layer**: nine slots on each axis, with **Lifespan Equivalent Unit** (**LEQU**) contribution thresholds using a **5x** slot multiplier anchored at **s = 7**. It **must not** replace the constitutional-outcome baseline, **joint assessment**, **highest applicable** non-compliance, or the **no-offset / no-netting** rules in **Chapter Six** **sections 3.1–3.2, 2.4, 7.1, 7.2, and 8**.
 
-**Slot groups and display roles (both axes).** The core model no longer presents separate tranche categories. The slot ranges are implicit in their display labels: `s = 1–3` use *participant* / *non-compliance finding*, `s = 4–6` use *steward* / *violation finding*, and `s = 7–9` use *champion* / *anti-constitutional misconduct*. Existing implementation fields named **`category_tranche_display`** and **`category_tranche_role_display`** are retained as legacy-compatible display helpers only; they must not be treated as independent constitutional categories and must not substitute for the **C-** or **V-** primary names in the ladder.
+**Slot groups and display roles (both axes).** The core model presents a four-band constitutional grouping for the Contribution Axis: **Baseline contribution** (`s = 1–2`), **Positive contribution** (`s = 3–4`), **Stewardship-positive contribution** (`s = 5–6`), and **Champion contribution** (`s = 7–9`). The Violation Axis remains a separate slot display scale under Chapter Six section 3.3 and Chapter Seven. Section 7.1 later groups verified Violation Axis slots for standing integration. The older three-tranche display roles remain legacy shorthand only. Existing implementation fields named **`category_tranche_display`** and **`category_tranche_role_display`** are retained as legacy-compatible display helpers; they must not be treated as independent constitutional categories and must not substitute for the **C-** primary bands or **V-** primary names in the ladder.
 
-**Sub-tier** keys and display. The sub-tier **interchange** key is always **`minor`** | **`mid`** | **`major`** (field **`sub_tier`**). On **Contribution Axis s = 1 through s = 6** and on **Violation Axis s = 1 through s = 6**, **sub-tier** **display** matches the key. On **Contribution Axis s = 7 through s = 9**, **sub-tier** **display** is **recognized** / **distinguished** / **exemplary** while the stable interchange key remains **minor** / **mid** / **major**. On **Violation Axis s = 7 through s = 9**, **sub-tier** **display** is **Serious** / **Grave** / **Pernicious** while the stable interchange key remains **minor** / **mid** / **major**. In **Table 1** composed cells below, sub-tier display is written before the role label (for example **exemplary** *champion*, **Grave** *anti-constitutional misconduct*).
+**Sub-tier** keys and display. The sub-tier **interchange** key is always **`minor`** | **`mid`** | **`major`** (field **`sub_tier`**) for legacy compatibility. On the Contribution Axis, display labels are **basic baseline contribution**, **strengthened baseline contribution**, **verified positive contribution**, **material positive contribution**, **established stewardship-positive contribution**, **major stewardship-positive contribution**, **recognized champion**, **distinguished champion**, and **exemplary champion**. On **Violation Axis s = 1 through s = 6**, **sub-tier** **display** matches the key. On **Violation Axis s = 7 through s = 9**, **sub-tier** **display** is **Serious** / **Grave** / **Pernicious** while the stable interchange key remains **minor** / **mid** / **major**.
 
 **Constitutional guardrails (summary)**
 
@@ -20,21 +20,21 @@
 
 ## 1. Structure (index `s` = 1…9)
 
-| `s` | Contribution Axis display label | Violation Axis display label |
-| ---: | --- | --- |
-| 1 | **minor** *participant* | **minor** *non-compliance finding* |
-| 2 | **mid** *participant* | **mid** *non-compliance finding* |
-| 3 | **major** *participant* | **major** *non-compliance finding* |
-| 4 | **minor** *steward* | **minor** *violation finding* |
-| 5 | **mid** *steward* | **mid** *violation finding* |
-| 6 | **major** *steward* | **major** *violation finding* |
-| 7 | **recognized** *champion* | **Serious** *anti-constitutional misconduct* |
-| 8 | **distinguished** *champion* | **Grave** *anti-constitutional misconduct* |
-| 9 | **exemplary** *champion* | **Pernicious** *anti-constitutional misconduct* |
+| `s` | Contribution primary band | Contribution Axis display label | Violation Axis display label |
+| ---: | --- | --- | --- |
+| 1 | **C-BL** / Baseline contribution | **basic baseline contribution** | **minor** *non-compliance finding* |
+| 2 | **C-BL** / Baseline contribution | **strengthened baseline contribution** | **mid** *non-compliance finding* |
+| 3 | **C-PC** / Positive contribution | **verified positive contribution** | **major** *non-compliance finding* |
+| 4 | **C-PC** / Positive contribution | **material positive contribution** | **minor** *violation finding* |
+| 5 | **C-SP** / Stewardship-positive contribution | **established stewardship-positive contribution** | **mid** *violation finding* |
+| 6 | **C-SP** / Stewardship-positive contribution | **major stewardship-positive contribution** | **major** *violation finding* |
+| 7 | **C-CH** / Champion contribution | **recognized** *champion* | **Serious** *anti-constitutional misconduct* |
+| 8 | **C-CH** / Champion contribution | **distinguished** *champion* | **Grave** *anti-constitutional misconduct* |
+| 9 | **C-CH** / Champion contribution | **exemplary** *champion* | **Pernicious** *anti-constitutional misconduct* |
 
-**Category** interchange key may be `I` | `II` | `III` (Roman) or `1` | `2` | `3` in existing data. In current constitutional presentation, those keys are implementation grouping helpers only. The **Table 1** Axis columns above are illustrative composition; storage and interchange keep category, sub-tier key, and display fields separate as below.
+**Category** interchange key may be `I` | `II` | `III` (Roman) or `1` | `2` | `3` in existing data. In current constitutional presentation, those keys are legacy implementation grouping helpers only. The four-band Contribution Axis columns above are the constitutional grouping structure; storage and interchange keep category, sub-tier key, primary band, and display fields separate as below.
 
-**Sub_tier** (interchange key) is always `minor` | `mid` | `major`. Use **`sub_tier_display`** in [ch06_nine_slot_constants.json](ch06_nine_slot_constants.json) for per-axis sub-tier display. Contribution Axis uses **minor** / **mid** / **major** for **s = 1 through s = 6** and **recognized** / **distinguished** / **exemplary** for **s = 7 through s = 9**. Violation Axis uses **minor** / **mid** / **major** for **s = 1 through s = 6** and **Serious** / **Grave** / **Pernicious** for **s = 7 through s = 9**.
+**Sub_tier** (interchange key) is always `minor` | `mid` | `major`. Use **`sub_tier_display`** in [ch06_nine_slot_constants.json](ch06_nine_slot_constants.json) for per-axis sub-tier display. Contribution Axis display uses the band-step labels shown above for **s = 1 through s = 6** and **recognized** / **distinguished** / **exemplary** for **s = 7 through s = 9**. Violation Axis uses **minor** / **mid** / **major** for **s = 1 through s = 6** and **Serious** / **Grave** / **Pernicious** for **s = 7 through s = 9**.
 
 ---
 
@@ -104,9 +104,9 @@ This anchors **s = 7** at **1 LEQU** and applies a **5x** multiplier per slot. F
 
 | Primary band | Slot range (inclusive) |
 | --- | ---: |
-| **C-BL** | 1 |
-| **C-PC** | 2–3 |
-| **C-SP** | 4–6 |
+| **C-BL** | 1–2 |
+| **C-PC** | 3–4 |
+| **C-SP** | 5–6 |
 | **C-CH** | 7–9 |
 
 A **record** that **only** has **primary** **band** **typing** may set **`nine_slot.contribution_slot`** to the **top** of the **band**’s **range** **only** **if** `C*`-based slot is **unavailable**; if **`C*`** is **available**, the **`C*`** **rule** **wins** **for** **the** **numeric** **grid**.

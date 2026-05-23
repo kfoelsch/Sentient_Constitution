@@ -1,5 +1,5 @@
 {
-  "$comment": "Precomputed rows for the nine-slot standing scale in CH06_NINE_SLOT_STANDING_SCALE.md. c_min_over_c_unit is expressed in LEQU units: for s=2..9 it equals 5^(s-7), with c_min(1)=0. v_weight equals 3^(s-1) and remains an ordinal analytics weight. sub_tier is the stable interchange key (minor|mid|major). Fields named category_tranche_display and category_tranche_role_display are retained as legacy-compatible implementation display helpers; the core Chapter Six presentation no longer treats tranche labels as independent categories. category_tranche_role_display gives axis-specific role names per key (contribution: participant|steward|champion; violation: non-compliance finding|violation finding|anti-constitutional misconduct). Contribution Axis s=7..9 display uses recognized, distinguished, and exemplary champion while retaining minor|mid|major interchange keys. Violation Axis s=7..9 display uses Serious, Grave, and Pernicious while retaining minor|mid|major interchange keys. See core_06-06_standing_classification.md Table 1. In composed human-readable table cells, sub-tier display precedes the role label (e.g. exemplary champion, Grave anti-constitutional misconduct).",
+  "$comment": "Precomputed rows for the nine-slot standing scale in CH06_NINE_SLOT_STANDING_SCALE.md. c_min_over_c_unit is expressed in LEQU units: for s=2..9 it equals 5^(s-7), with c_min(1)=0. v_weight equals 3^(s-1) and remains an ordinal analytics weight. sub_tier is the stable interchange key (minor|mid|major). Fields named category_tranche_display and category_tranche_role_display are retained as legacy-compatible implementation display helpers; the core Chapter Six presentation no longer treats tranche labels as independent constitutional categories. The constitutional grouping is four-band on the Contribution Axis: contribution_primary_band_ranges maps C-BL, C-PC, C-SP, and C-CH to slots 1-2, 3-4, 5-6, and 7-9. Section 7.1 later groups verified Violation Axis slots for standing integration. category_tranche_role_display gives legacy axis-specific role names per key only. Contribution Axis display uses band-step labels through s=6 and recognized, distinguished, and exemplary champion for s=7..9 while retaining minor|mid|major interchange keys. Violation Axis s=7..9 display uses Serious, Grave, and Pernicious while retaining minor|mid|major interchange keys. See core_06-06_standing_assessment.md Table 1.",
   "contribution_multiplier": 5,
   "contribution_anchor_slot": 7,
   "contribution_anchor_unit": "LEQU",
@@ -21,6 +21,12 @@
       "III": "anti-constitutional misconduct"
     }
   },
+  "contribution_primary_band_ranges": {
+    "C-BL": [1, 2],
+    "C-PC": [3, 4],
+    "C-SP": [5, 6],
+    "C-CH": [7, 9]
+  },
   "c_min_formula": "For slot s: c_min = c_unit * 5^(s-7) for s=2..9; c_min(1) = 0. Default c_unit=1 LEQU.",
   "v_weight_formula": "v_weight(s) = 3^(s-1).",
   "slots": [
@@ -30,7 +36,7 @@
       "category_index": 1,
       "sub_tier": "minor",
       "sub_tier_display": {
-        "contribution": "minor",
+        "contribution": "basic",
         "violation": "minor"
       },
       "c_min_over_c_unit": 0,
@@ -42,7 +48,7 @@
       "category_index": 1,
       "sub_tier": "mid",
       "sub_tier_display": {
-        "contribution": "mid",
+        "contribution": "strengthened",
         "violation": "mid"
       },
       "c_min_over_c_unit": 0.00032,
@@ -54,7 +60,7 @@
       "category_index": 1,
       "sub_tier": "major",
       "sub_tier_display": {
-        "contribution": "major",
+        "contribution": "verified",
         "violation": "major"
       },
       "c_min_over_c_unit": 0.0016,
@@ -66,7 +72,7 @@
       "category_index": 2,
       "sub_tier": "minor",
       "sub_tier_display": {
-        "contribution": "minor",
+        "contribution": "material",
         "violation": "minor"
       },
       "c_min_over_c_unit": 0.008,
@@ -78,7 +84,7 @@
       "category_index": 2,
       "sub_tier": "mid",
       "sub_tier_display": {
-        "contribution": "mid",
+        "contribution": "established",
         "violation": "mid"
       },
       "c_min_over_c_unit": 0.04,
@@ -144,9 +150,9 @@
     "V-CN": 7
   },
   "axis_one_slot_ranges": {
-    "C-BL": [1, 1],
-    "C-PC": [2, 3],
-    "C-SP": [4, 6],
+    "C-BL": [1, 2],
+    "C-PC": [3, 4],
+    "C-SP": [5, 6],
     "C-CH": [7, 9]
   }
 }

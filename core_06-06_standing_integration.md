@@ -599,7 +599,7 @@ Where multiple descriptors apply, the **primary** **harm** route **or** **primar
 <a id="311-standing-integration-contribution-and-violation-nature"></a>
 <a id="211-standing-integration-contribution-and-violation-nature"></a>
 
-#### 7.1 Standing integration — contribution and violation nature
+#### 7.1 Standing integration — slot-band standing locks
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
@@ -621,24 +621,33 @@ Where multiple descriptors apply, the **primary** **harm** route **or** **primar
 
 <br>
 
-*In plain terms: when good track record and unresolved **violation** findings both exist, the violation side controls trust and role eligibility. That includes severity, remedial character, punitive-process character, constitutional-floor character, duties, diffusion, negligence, and descriptors. Positive credit decays over time so recent verified stewardship counts more than distant credit. Unresolved violations do not get softer just because they are old.*
+*In plain terms: good acts create credit. Verified unresolved violations create locks. A lock says what trust, role, or recognition benefit is blocked until correction, remediation, safeguards, review, or lawful supersession occurs. The locks follow the same slot bands as the Violation Axis, so readers do not have to learn a second ladder.*
 
 <a id="standing-orientation-by-violation-slot"></a>
 <a id="standing-orientation-by-violation-level"></a>
 
-**Standing orientation by Violation Axis slot.** The following table shows how **verified** contribution may interact with [**verified violation findings**](core_05-05_definitions_b_semi_independent.md#verified-violation-findings) for trust-, credit-, and recognition-related analysis across the Chapter Six `s` slot display. It supplements the primary map in **[§3.1](core_06-06_standing_assessment.md#3-primary-category-defaults-and-lequ-slot-baseline)**. It does not replace the **section 3.3** severity ladder, **subsection 7.2**, **section 7**, or **[verified inputs for standing](core_06-06_standing_assessment.md#verified-inputs-for-standing)**.
+**Standing orientation by Violation Axis slot band.** This subsection explains how **verified** contribution interacts with [**verified violation findings**](core_05-05_definitions_b_semi_independent.md#verified-violation-findings) for trust-, role-, credit-, and recognition-related analysis. It translates the Chapter Six `s` slot display into **standing locks**. It supplements the primary map in **[§3.1](core_06-06_standing_assessment.md#3-primary-category-defaults-and-lequ-slot-baseline)**. It does not replace the **section 3.3** severity ladder, **subsection 7.2**, **section 8**, or **[verified inputs for standing](core_06-06_standing_assessment.md#verified-inputs-for-standing)**.
 
-| **Violation Axis slot** | **Contribution-linked standing orientation** |
-| --- | --- |
-| **Slot 1** — Formal Non-Compliance ([§3.3](core_06-06_standing_assessment.md#41-formal-non-compliance)) | Baseline trust may remain available, subject to repair, correction, and audit. |
-| **Slot 2** — Remedial Substantive Non-Compliance ([§3.3](core_06-06_standing_assessment.md#42-remedial-substantive-non-compliance)) | Positive credit and remedial constraint may both appear. |
-| **Slot 3** — Significant Substantive Non-Compliance ([§3.3](core_06-06_standing_assessment.md#43-constitutional-substantive-non-compliance)) | Elevated contribution may support recognition only where the Rights-Floor, supremacy, anti-evasion, or challenge-and-remedy violation is cured, contestable, and separately constrained. |
-| **Slot 4** — Duty-Based or Negligent-Harm Violation ([§3.3](core_06-06_standing_assessment.md#44-duty-based-or-negligent-harm-violation)) | Contribution may support repair, learning, role-tailoring, or reinstatement analysis only where duty failure, preventable harm, and recurrence risk are remedied, supervised, and reviewable. |
-| **Slot 5** — Aggravated Violation ([§3.3](core_06-06_standing_assessment.md#45-aggravated-violation)) | Contribution may be recorded, but evasion, concealment, repetition, dependency abuse, recklessness, or structural enablement requires heightened scrutiny before trust-, role-, or recognition-linked upside may be applied. |
-| **Slot 6** — Coercive or Punitive-Process Violation ([§3.3](core_06-06_standing_assessment.md#46-coercive-or-punitive-process-violation)) | Contribution cannot soften required criminal-process or equivalent safeguards; any role, recognition, repair, learning, or reinstatement analysis remains subordinate to liberty, coercion, threat, culpability, and process protections. |
-| **Slot 7** — Serious anti-constitutional misconduct / Critical Non-Compliance ([§3.3](core_06-06_standing_assessment.md#47-critical-non-compliance); [Chapter Seven](core_07-07_misconduct.md#chapter-seven-anti-constitutional-misconduct)) | Contribution may support remedy, learning, or eventual reinstatement analysis only after serious adverse findings no longer require restriction, safeguards, removal, containment, heightened process, proportionality, or other protective measures under **sections 7** and **8**, Article XXIII discipline, and Chapter Seven where applicable. |
-| **Slot 8** — Grave anti-constitutional misconduct ([Chapter Seven](core_07-07_misconduct.md#chapter-seven-anti-constitutional-misconduct)) | Positive contribution must not dilute grave anti-constitutional findings. Any recognition-facing or role-facing effect is barred or tightly constrained while Chapter Seven safeguards, containment, removal, remediation, and review requirements remain active. |
-| **Slot 9** — Pernicious anti-constitutional misconduct ([Chapter Seven](core_07-07_misconduct.md#chapter-seven-anti-constitutional-misconduct)) | Positive contribution must not rehabilitate, offset, or normalize pernicious anti-constitutional findings. Trust-, role-, and recognition-linked upside is unavailable unless a later lawful record supersedes or resolves the finding under Chapter Seven, this section, and Article XXIII. |
+The rule is simple:
+
+1. Classify the verified violation under the highest applicable **Violation Axis** slot.
+2. Convert that slot into the matching **standing lock** below.
+3. Record verified **contribution state** separately.
+4. Let contribution affect standing only where the lock permits it.
+5. Do not use contribution to waive a Rights Floor, dilute a verified finding, lower the slot, or average away the highest applicable non-compliance category.
+
+**Standing lock map.**
+
+| **Violation Axis slot band** | **Standing lock** | **Standing effect** |
+| --- | --- | --- |
+| **Slots 1–2** — Formal or remedial non-compliance | **Correction Lock** | Baseline trust may remain available while correction, repair, and audit proceed. Contribution may support correction and remedial credibility, but the correction obligation remains independently enforceable. |
+| **Slots 3–4** — Significant substantive, duty-based, or negligent-harm violation | **Restriction Lock** | Trust-, role-, or recognition-linked upside is limited until the substantive violation, duty failure, preventable harm, and recurrence risk are remedied, supervised where needed, and reviewable. |
+| **Slots 5–6** — Aggravated, coercive, punitive-process, or liberty-risk violation | **Safeguard Lock** | Contribution may be recorded, but heightened scrutiny and required safeguards control before trust-, role-, or recognition-linked upside may be applied. Contribution cannot soften required criminal-process or equivalent protections. |
+| **Slots 7–9** — Serious, grave, or pernicious anti-constitutional misconduct | **Anti-Constitutional Lock** | Anti-constitutional findings control standing. Contribution cannot dilute, rehabilitate, offset, or normalize the finding. It may matter only through remedy, learning, review, later reinstatement where lawful, or a later lawful record that resolves or supersedes the finding under Chapter Seven, this section, and Article XXIII. |
+
+Each **standing lock** must state the standing effect it blocks or limits, the affected subjects or interests it protects, the correction or remediation required, the review path, and the point at which reassessment becomes available. Where Chapter Seven or Article XXIII bars or tightly constrains reinstatement, that bar or constraint controls.
+
+The purpose of **standing locks** is to prevent recurrence of harmful, negligent, or anti-constitutional conduct while preserving a reviewable path back where lawful. A lock may be lifted only when the responsible sentient, group, or institution has completed meaningful remediation, restitution, safeguard implementation, or other corrective action sufficient to resolve the violation finding and reduce recurrence risk, as verified through the applicable review path. Where the same kind of violation is repeated by the same sentient, group, or institution, a forum may require the lock to persist after restitution or remediation has otherwise been completed, but only to the extent necessary, proportionate, reviewable, and protective of the constitutional community.
 
 **Verified contribution** never supplies a Rights-Floor waiver and cannot soften required protection of affected subjects.
 
