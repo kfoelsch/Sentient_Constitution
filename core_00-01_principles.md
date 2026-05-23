@@ -202,7 +202,7 @@ These facets read through [Dignity and Equal Moral Standing](core_05-05_definiti
 
 <br>
 
-*In plain terms: wellbeing is not only what's forbidden and what's fair — shared systems should also honestly cheer and reward behavior they want repeated, within truth and rights. Celebrating wins means crediting real contribution, repair, and completion, not hype or manipulated metrics — and, where practicable, in forms **sentients** actually want (including saying no to the spotlight).*
+*In plain terms: wellbeing is not only what's forbidden and what's fair — shared systems should also honestly cheer and reward behavior they want repeated, within truth and rights. Celebrating wins means crediting real contribution, repair, and completion, not hype or manipulated metrics. It also means refusing to reward constitutional betrayal, concealment, retaliation, or accountability avoidance — even when those acts produced institutional advantage.*
 
 Sentient wellbeing is materially advanced when systems **signal**, **credit**, and **proportionately reward** lawful stewardship, truthful cooperation, repair, completion, and other **constitutionally aligned** contributions — including through **positive reinforcement** and **public recognition** — and not solely through restraint, sanction, or silence.
 
@@ -213,6 +213,8 @@ That **rule** applies together with [2.1 Fairness](#21-fairness). **Celebration*
 **Preference-aligned recognition.** Within those same bounds, systems should where practicable **tailor** recognition, acclaim, and proportional reward to sentients' stated preferences about **form and visibility** — including honoring **opt-out** from public or ceremonial recognition, or preference for **minimal or private** acknowledgment, when proportionate and lawful. **Unwelcome** or **coercive** recognition, including spotlighting sentients who **decline**, is not aligned with this subsection. The aim is reinforcement that is **meaningful** to those recognized and to coordinating communities, not performative for observers alone.
 
 Recognition pathways, acclaim, prizes, certification, standing, reputation effects, or comparable incentives that **allocate status**, **resources**, or **material access** must remain consistent with Truth, Safety, contestable procedure where **Chapter Nine** assigns it, and [Incentive Alignment](core_05-05_definitions_a_independent.md#incentive-alignment): they **must not** systematically reward harm, deception, avoidance of scrutiny, extraction, or erosion of meaningful agency.
+
+No recognition, reward, protection, advancement, immunity, favorable assignment, contract, access, status, reputation benefit, standing benefit, or comparable advantage may be granted because a person, role, institution, or system component committed, enabled, concealed, normalized, refused to correct, or retaliated for reporting anti-constitutional conduct. This rule applies to direct rewards and to indirect reward pathways, including patronage, reputation laundering, post-hoc promotion, selective non-enforcement, favorable settlement, metric credit, or institutional protection. Corrective, protective, or restorative measures for affected parties and good-faith protected reporters are not prohibited rewards.
 
 Granular ceremonies, curricula, budgets, programs, and metrics belong in adopting implementation layers; they **implement, not narrow**, this subsection.
 
@@ -1157,7 +1159,7 @@ A matter within the cluster's admission scope must not be segmented into separat
 
 <strong><span style="color: #2563eb;">Definition:</span></strong> [Incentive Alignment](core_05-05_definitions_a_independent.md#incentive-alignment) · [O](core_05-05_definitions_a_independent.md#incentive-alignment) · [E](core_05-05_definitions_a_independent.md#incentive-alignment) · [C](core_05-05_definitions_a_independent.md#incentive-alignment)
 
-*In plain terms: the incentives acting on operators, agents, and system components must pull in the same direction as this Constitution. They may not quietly reward behavior that undermines Safety, Truth, rights, or stability — whether directly, through delay, or through aggregation.*
+*In plain terms: the incentives acting on operators, agents, and system components must pull in the same direction as this Constitution. They may not quietly reward behavior that undermines Safety, Truth, rights, or stability — whether directly, through delay, through aggregation, or by rewarding anti-constitutional conduct after the fact.*
 
 Systems must ensure that incentive structures acting on agents, operators, or constituent components are aligned with the values and constraints defined in this Constitution.
 
@@ -1178,6 +1180,8 @@ Those structures must not systematically undermine those values and constraints.
 <br>
 
 Incentives must not reward behavior that degrades safety, truth, systemic stability, or meaningful agency, whether directly or through indirect, delayed, or aggregated effects.
+
+Incentives must not reward, protect, normalize, or make materially advantageous anti-constitutional conduct, unlawful or unconstitutional command conduct, concealment, retaliation, obstruction of accountability, or refusal to remediate verified constitutional harm. This includes compensation, bonus, equity, appointment, promotion, tenure, procurement, access, credentialing, standing, reputation, settlement, indemnity, insurance, immunity, or comparable arrangements where the reward pathway materially depends on the misconduct or its concealment.
 
 ##### 7.2.2 Stewardship and Operator Incentive Alignment
 
@@ -1219,6 +1223,8 @@ Those incentives **must not** favor **raw throughput**, **utilization**, **headc
 - the underlying outcomes to which productive capacity must remain traceable (per **Chapter Five**)
 
 Equally, stewardship incentives must not reward the creation or maintenance of **avoidable burden** within the meaning of section 6.1.4.
+
+Stewardship and operator incentives must not treat anti-constitutional advantage as productive capacity, constitutional efficiency, successful governance, loyalty, risk management, or institutional protection. Where a reward pathway materially benefited from anti-constitutional conduct, systems must preserve the record, suspend or segregate the disputed reward where proportionate, and route correction through section 7.2.4, Chapter Six standing and violation mechanics, Chapter Seven where final anti-constitutional misconduct classification is at issue, and Article XXIII safeguards where sanctions or restrictions are imposed.
 
 ##### 7.2.3 Role Depth and Material Responsibility Pathways
 
@@ -1346,6 +1352,8 @@ Concentrated or obscured control structures that undermine challenge rights, ove
 Freedom is bounded agency, not absolute discretion or unbounded autonomy.
 
 It must be exercised consistently with Safety, Truth, and the rights of others. It must remain meaningful where impact or dependency is material.
+
+Freedom does not include authority to subvert constitutional systems, defeat constitutional process or remedies, or claim protected agency for conduct whose material purpose or effect is to reward, protect, normalize, or make  anti-constitutional conduct advantageous.
 
 Feasibility claims that limit agency must be demonstrable under **Chapter Four** burden and tracing requirements. They must also be consistent with **Chapter Five** definitions (including Feasibility, Necessity, Proportionality, and Harm Minimization (Tradeoff Selection)).
 

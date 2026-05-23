@@ -413,10 +413,11 @@ Positive contribution may coexist with **violation nature** under **sections 3.3
 
 Table 2 treats **Champion contribution** as the top Contribution Axis band. **Champion contribution** occupies the top display range, `s` = 7 through 9, with **recognized**, **distinguished**, and **exemplary** as its slot displays. The Violation Axis works differently at the top end. Chapter Seven supplies the final rules that distinguish the top three Violation Axis slots: `s` = 7, `s` = 8, and `s` = 9. Standing consequences are stated in **section 4**. Standing integration mechanics are stated in **section 7**. **Section 6.1** gives the reader-facing domain cross-walk, and **section 6.2** gives the operative Contribution Axis supplement rules.
 
-<a id="215-constitutional-outcome-baseline-for-slots"></a>
-<a id="215-constitutional-outcome-baseline-for-contribution-slots"></a>
+<a id="22-lequ-baseline"></a>
+<a id="2-lequ-baseline"></a>
+<a id="22-constitutional-outcome-baseline-for-slots"></a>
 
-##### 3.1.1 The "LEQU" Baseline: Measuring Impact in Lifetime-Equivalent Units
+### 3.2 The "LEQU" Baseline: Measuring Impact in Lifetime-Equivalent Units
 
 *In plain terms: To decide which slot someone's contribution or violation belongs in, we measure impact using "LEQU" — Lifespan Equivalent Unit. One LEQU roughly equals saving or destroying one person's entire lifetime of wellbeing. This isn't about counting bodies or dollars; it's about understanding whether an action meaningfully changed our constitutional community's wellbeing. The same unit works for any sentient being, human or otherwise.*
 
@@ -434,6 +435,7 @@ For this subsection, a **full-life-equivalent constitutional benefit** means ver
 | Removing severe burdens | Eliminating crushing debt, exploitative working conditions, or systemic barriers |
 | Restoring agency | Enabling someone to make meaningful choices about their own life |
 | Expanding productive capacity | Creating tools, infrastructure, or opportunities that let others thrive independently |
+| Improving time efficiency | Reducing avoidable waiting, administrative friction, or coordination overhead so sentient beings regain usable time for care, rest, agency, learning, or rights-consistent work |
 | Reducing ecological or infrastructure risk | Preventing environmental collapse or critical system failures |
 | Strengthening safety, truth, auditability, or challenge capacity | Building institutions that protect rights and hold power accountable |
 
@@ -459,7 +461,8 @@ The claimed benefit counts only to the extent it remains traceable, non-external
 
 - **Not a net-score rule.** You cannot "cancel out" violations with contributions or vice versa. Each axis stands alone.
 - **Not a mandatory human-life metric.** The LEQU is sentient-generic; it applies to any conscious being, not just humans.
-- **Not a license to trade rights.** Claims that "efficiency" or "security" justify overriding rights must be rejected if they depend on coercion, discrimination, ecological destruction, hidden unpaid labor, secrecy, or unreviewable aggregation.
+- **Not an accusation metric.** On the Violation Axis, allegations, intake tags, routing decisions, reputation, disfavored status, or moral dislike do not supply severity without verified findings under **section 3.3**.
+- **Not a license to trade rights.** Claims framed as efficiency, productive capacity, innovation, burden reduction, security, punishment, emergency response, or institutional necessity must be discounted or rejected where they depend on coercion, discriminatory burden shifting, ecological depletion, hidden unpaid work, avoidable opacity, Rights-Floor narrowing, capture, misleading proxies, loss of contestability, or unreviewable aggregation.
 
 Adopted implementation may publish calibrated units, evidentiary methods, and examples for full-life-equivalent benefit or loss. Those materials must remain subordinate to this subsection, **Table 2**, **section 3.3** for violation-side calibration, **section 7**, **Chapter One**, **Chapter Seven** where final **Violation Axis s = 7, 8, or 9** anti-constitutional misconduct assignment is at issue, and the **Chapter Nine** Rights Floor.
 
@@ -490,7 +493,7 @@ Adopted implementation may publish calibrated units, evidentiary methods, and ex
 
 <br>
 
-*In plain terms: **Violation nature** is the adverse side of the model. To decide which slot a verified violation belongs in, this section reads harm and danger through the same LEQU idea used in section 3.1.1, but on the loss side: roughly, whether conduct impaired, destroyed, wrongfully consumed, or foreclosed constitutional wellbeing. Accusations and routing labels do not count; only verified findings do. Section 5 adds process and response tags, but it does not create a second severity ladder.*
+*In plain terms: **Violation nature** is the adverse side of the model. To decide which slot a verified violation belongs in, this section reads harm and danger through the same LEQU idea used in **section 3.2**, but on the loss side: roughly, whether conduct impaired, destroyed, wrongfully consumed, or foreclosed constitutional wellbeing. Accusations and routing labels do not count; only verified findings do. Section 5 adds process and response tags, but it does not create a second severity ladder.*
 
 The slot scale measures verified constitutional loss, harm, waste, foreclosure, or danger, not disfavored status, allegation, punishment preference, or moral dislike alone. **Violation nature** includes non-compliance severity under this section, process / response character under **section 5**, and hybrid, duty, diffusion, negligence, and descriptor material where facts warrant.
 
@@ -537,27 +540,13 @@ This table is the operative Violation Axis severity ladder for Chapter Six. It s
 
 <a id="48-adjacent-level-application-notes"></a>
 
-**Adjacent-level application notes.** The **section 3.3** ladder must be applied by the highest level whose criteria fit the findings.
-
-| Distinction | Use the lower level when... | Move upward when... |
-| --- | --- | --- |
-| **Formal** vs. **Remedial Substantive** | the problem materially impairs records, verification, access, or process, but substantive harm is not yet demonstrated. | real-world duty failure, rights burden, harm, or material operational failure is found and correction is required. |
-| **Remedial Substantive** vs. **Significant Substantive** | the dominant **remedy** is repair, restoration, compensation, injunction, or comparable civil correction. | the finding materially violates constitutional floors, supremacy, anti-evasion discipline, or challenge-and-remedy access. |
-| **Duty-Based / Negligent-Harm Violation** vs. **Aggravated Violation** | duty, foreseeability, and feasible capacity existed, but aggravating features are not found. | concealment, evasion, repetition after notice, reckless disregard, dependency abuse, or structural enablement is found. |
-| **Coercive or Punitive-Process Violation** vs. **section 5.2 character** | use **Coercive or Punitive-Process Violation** when severity itself involves culpability, coercion, violence, credible threat, liberty danger, or comparable social danger. | use **§5.2** as an attached process / response character whenever punitive or liberty-restricting consequences are in play, even if another section 3.3 severity level also applies. |
+**Adjacent-level application.** Apply the highest **section 3.3** level whose criteria fit the verified findings. Formal defects remain at `s` = 1 unless substantive harm, rights burden, or material operational failure is found. Remedial or civil-correction character does not by itself prevent escalation where constitutional floors, supremacy, anti-evasion discipline, aggravating features, coercion, liberty danger, or critical harm are verified. Process / response character under **section 5** remains separately traceable and does not create a second severity ladder.
 
 **Boundary with Contribution Axis.** **Violation nature** may co-occur with **positive-only** **contribution state** under **section 3.1**. Adverse **violation** findings are not "negative contribution," and positive contribution does not offset adverse findings.
 
 **Supplements.** **Section 6.1** gives the reader-facing domain cross-walk. **Section 6.3** gives the operative Violation Axis supplement rules. Read those supplements with this severity ladder and the legal, hybrid, and duty rules in **§§5.1–5.8**.
 
-**Important limits on using LEQU for violation severity:**
-
-- **Not a net-score rule.** You cannot "cancel out" violations with contributions or vice versa. Each axis stands alone.
-- **Not a mandatory human-life metric.** The LEQU is sentient-generic; it applies to any conscious being, not just humans.
-- **Not an accusation metric.** Allegations, intake tags, routing decisions, reputation, disfavored status, or moral dislike do not supply Violation Axis severity without verified findings.
-- **Not a license to trade rights.** Claims framed as efficiency, productive capacity, innovation, burden reduction, security, punishment, emergency response, or institutional necessity must be discounted or rejected where they depend on coercion, discriminatory burden shifting, ecological depletion, hidden unpaid work, avoidable opacity, Rights-Floor narrowing, capture, misleading proxies, loss of contestability, or unreviewable aggregation.
-
-Adopted implementation may publish calibrated units, evidentiary methods, and examples for full-life-equivalent loss. Those materials must remain subordinate to this section, **Table 2**, **section 7**, **Chapter One**, **Chapter Seven** where final **Violation Axis s = 7, 8, or 9** anti-constitutional misconduct assignment is at issue, and the **Chapter Nine** Rights Floor.
+**Violation-specific LEQU limits.** Apply the shared LEQU limits in **section 3.2** to all violation-side calibration. Allegations, intake tags, routing decisions, reputation, disfavored status, or moral dislike do not supply **Violation Axis** severity unless they produce verified, auditable, and contestable findings under this section. Adopted implementation may publish calibrated units, evidentiary methods, and examples for full-life-equivalent loss only as subordinate support for this section, **Table 2**, **section 7**, **Chapter One**, **Chapter Seven** where final **Violation Axis s = 7, 8, or 9** anti-constitutional misconduct assignment is at issue, and the **Chapter Nine** Rights Floor.
 
 <a id="4-extended-axis-ii-legal-hybrid-and-duty-categories"></a>
 

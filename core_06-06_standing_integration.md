@@ -355,7 +355,7 @@ Violation nature may be individual, collective, or hybrid. Responsibility is not
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [§5.6](#410-collective-accountability-and-acquiescent-participation); [Chapter Seven §6.2](core_07-07_misconduct.md#62-rights-floor-waivers-and-unconstitutional-contract-terms); [Article XXIII-A: Justice Objective and Scope](core_09-09_rights_part_d.md#article-xxiii-a-justice-objective-and-scope).
+- Upstream: [§5.6](#410-collective-accountability-and-acquiescent-participation); [Chapter Seven §6.2](core_07-07_misconduct.md#62-rights-floor-waivers-and-unconstitutional-contract-terms); [Chapter Seven §6.6](core_07-07_misconduct.md#66-unlawful-or-unconstitutional-command-conduct); [Article XXIII-A: Justice Objective and Scope](core_09-09_rights_part_d.md#article-xxiii-a-justice-objective-and-scope).
 - Downstream: [§7](#8-cross-axis-coupling-and-escalation-constraints); [Chapter Eight](core_08-08_forum.md#chapter-eight-forums-and-jurisdiction).
 - Read with: [Contestability](core_05-05_definitions_b_semi_independent.md#contestability) · [O](core_05-05_definitions_b_semi_independent.md#contestability) · [E](core_05-05_definitions_b_semi_independent.md#contestability-e) · [C](core_05-05_definitions_b_semi_independent.md#contestability-c); [Proportionality](core_05-05_definitions_a_independent.md#proportionality) · [O](core_05-05_definitions_a_independent.md#proportionality) · [E](core_05-05_definitions_a_independent.md#proportionality-e) · [C](core_05-05_definitions_a_independent.md#proportionality-c).
 
@@ -363,11 +363,13 @@ Violation nature may be individual, collective, or hybrid. Responsibility is not
 
 <br>
 
-*In plain terms: “my boss / my contract told me to” is **not** a free pass for unlawful or unconstitutional conduct — sentients who can push back in good faith are expected to refuse, document, and escalate **proportionately**.*
+*In plain terms: “my boss / my contract told me to” is **not** a free pass for unlawful or unconstitutional conduct. Giving the order is its own constitutional problem, and sentients who can push back in good faith are expected to refuse, document, and escalate **proportionately**.*
 
 No instruction, order, policy, or contractual directive requiring unlawful conduct or constitutional violation creates a valid compliance defense.
 
-Such directives and agreement terms within **Chapter Seven**, section **2.2** (*Rights-Floor waivers and unconstitutional contract terms*) are **never binding** to defeat, narrow, or foreclose non-negotiable constitutional protections, audit or challenge rights, or pathways under **Article XXIII-A**.
+Issuing, authorizing, transmitting, ratifying, or materially enforcing such an instruction, order, policy, or contractual directive is independently classifiable violation conduct. Where the directive materially affects constitutional validity, constitutional operation, Rights-Floor governance, contestability, remedy access, evidence integrity, or the use of coercion or force against constitutional authority, it routes for possible anti-constitutional misconduct assessment under **Chapter Seven**, including **section 6.6**.
+
+Such directives and agreement terms within **Chapter Seven**, section **6.2** (*Rights-Floor waivers and unconstitutional contract terms*) and **section 6.6** (*Unlawful or unconstitutional command conduct*) are **never binding** to defeat, narrow, or foreclose non-negotiable constitutional protections, audit or challenge rights, or pathways under **Article XXIII-A**.
 
 Actors with material capacity to refuse, contest, document, or escalate such directives must do so proportionately and in good faith.
 
