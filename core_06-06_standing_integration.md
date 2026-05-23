@@ -1,6 +1,6 @@
 # Sentient Constitution — Standing effects and integration
 
-This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one instrument. It contains the **integration half of Chapter Six**: standing effects, Violation Axis attachments, supplemental descriptors, cross-axis integration, no-substitution mechanics, enforcement anchors, and the Chapter Seven pointer. Chapter Six classification foundations are stated in [core_06-06_standing_assessment.md](core_06-06_standing_assessment.md). Reading order, the binding/support split, and corpus edition metadata are maintained in [README.md](README.md).
+This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one instrument. It contains the **integration half of Chapter Six**: standing effects, Violation Axis attachments, supplemental descriptors, cross-axis integration, no-substitution mechanics, enforcement anchors, and the Chapter Seven pointer. Chapter Six assessment foundations are stated in [core_06-06_standing_assessment.md](core_06-06_standing_assessment.md). Reading order, the binding/support split, and corpus edition metadata are maintained in [README.md](README.md).
 
 Upstream constitutional direction for this file begins in [core_00-01_principles.md](core_00-01_principles.md), [core_02-04_definition_mechanics.md](core_02-04_definition_mechanics.md), [core_05-05_definitions_a_independent.md](core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions), and [core_06-06_standing_assessment.md](core_06-06_standing_assessment.md). Downstream escalation and forum-allocation rules continue in [core_07-07_misconduct.md](core_07-07_misconduct.md), [core_08-08_forum.md](core_08-08_forum.md), and [core_09-09_rights_part_d.md](core_09-09_rights_part_d.md). Adopted implementation may supply interoperable tagging, schemas, and worked examples for this chapter; such materials **must not** narrow this chapter’s operative obligations.
 
@@ -39,7 +39,7 @@ Upstream constitutional direction for this file begins in [core_00-01_principles
 
 <br>
 
-*In plain terms: this file starts after classification. It explains how verified contribution and verified violation findings affect trust, roles, recognition, restriction, remediation, safeguards, and real-world enforcement. Positive contribution can matter, but it does not erase unresolved violation findings.*
+*In plain terms: this file starts after assessment. It explains how verified contribution and verified violation findings affect trust, roles, recognition, restriction, remediation, safeguards, and real-world enforcement. Positive contribution can matter, but it does not erase unresolved violation findings.*
 
 <a id="5-standing-effects"></a>
 
