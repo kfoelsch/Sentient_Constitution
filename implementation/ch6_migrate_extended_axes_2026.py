@@ -11,13 +11,13 @@ from __future__ import annotations
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
-SRC = ROOT / "core_06-06_standing_classification.md"
+SRC = ROOT / "core_06-06_standing_assessment.md"
 
 
 def main() -> None:
     raise SystemExit(
-        "Disabled: Chapter Six is split. Edit core_06-06_standing_classification.md and "
-        "core_06-06_standing_integration.md directly; this one-shot migrator targets the "
+        "Disabled: Chapter Six is split. Edit core_06-06_standing_assessment.md and "
+        "core_07-07_standing_integration.md directly; this one-shot migrator targets the "
         "pre-split layout only."
     )
     text = SRC.read_text(encoding="utf-8")
@@ -107,7 +107,7 @@ def main() -> None:
         "[§1.1](#11-two-axis-overview-reference).\n"
         "- Downstream: [§7](#7-shared-domain-lenses-cross-axis-vocabulary) (*non-operative lens table*); "
         "[§8](#8-cross-axis-coupling-and-escalation-constraints) (*§§8.1–8.2*); "
-        "[Chapter Seven](core_07-07_misconduct.md#chapter-seven-axis-ii-grand-anti-constitutional-misconduct).\n"
+        "[Chapter Eight](core_08-08_misconduct.md#chapter-seven-axis-ii-grand-anti-constitutional-misconduct).\n"
         "- Read with: [§2](#2-standing-effect-verified-inputs-forums).\n\n"
         "</details>\n\n"
         "<br>\n\n"

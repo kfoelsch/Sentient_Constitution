@@ -17,17 +17,17 @@ DEFAULT_SCOPE = [
     "core_05-05_definitions_a_independent.md",
     "core_05-05_definitions_b_semi_independent.md",
     "core_05-05_definitions_c_dependent_clusters.md",
-    "core_06-06_standing_classification.md",
-    "core_06-06_standing_integration.md",
-    "core_07-07_misconduct.md",
-    "core_08-08_forum.md",
-    "core_09-09_rights_part_a.md",
-    "core_09-09_rights_part_b.md",
-    "core_09-09_rights_part_c.md",
-    "core_09-09_rights_part_d.md",
-    "core_10-10_governance.md",
-    "core_11-13_amendment.md",
-    "core_14-14_incorporation.md",
+    "core_06-06_standing_assessment.md",
+    "core_07-07_standing_integration.md",
+    "core_08-08_misconduct.md",
+    "core_09-09_forum.md",
+    "core_10-10_rights_part_a.md",
+    "core_10-10_rights_part_b.md",
+    "core_10-10_rights_part_c.md",
+    "core_10-10_rights_part_d.md",
+    "core_11-11_governance.md",
+    "core_12-14_amendment.md",
+    "core_15-15_incorporation.md",
     "corpus_systems.md",
     "corpus_institutions.md",
     "corpus_forum.md",
@@ -36,10 +36,10 @@ DEFAULT_SCOPE = [
 ]
 
 DEFAULT_ARTICLE_SOURCES = [
-    "core_09-09_rights_part_a.md",
-    "core_09-09_rights_part_b.md",
-    "core_09-09_rights_part_c.md",
-    "core_09-09_rights_part_d.md",
+    "core_10-10_rights_part_a.md",
+    "core_10-10_rights_part_b.md",
+    "core_10-10_rights_part_c.md",
+    "core_10-10_rights_part_d.md",
 ]
 
 ARTICLE_HEADING_RE = re.compile(r"^### Article ([IVXLCDM]+):\s*(.+?)\s*$")
@@ -75,8 +75,8 @@ def parse_args() -> argparse.Namespace:
     )
     parser.add_argument(
         "--source",
-        default="core_09-09_rights_part_a.md",
-        help="Primary file for article-heading discovery. If it has no headings, the audit merges ### Article … lines from the Chapter Nine part files.",
+        default="core_10-10_rights_part_a.md",
+        help="Primary file for article-heading discovery. If it has no headings, the audit merges ### Article … lines from the Chapter Ten part files.",
     )
     parser.add_argument(
         "--scope",
@@ -121,10 +121,10 @@ def canonical_map(source_text: str) -> dict[str, str]:
 
 
 def canonical_map_from_paths(root: pathlib.Path, source: str) -> dict[str, str]:
-    """Merge `### Article …` headings from the primary --source file and all Chapter Nine part files.
+    """Merge `### Article …` headings from the primary --source file and all Chapter Ten part files.
 
     Part A only contains top-level `### Article` rows for early articles; later Roman articles live in
-    other `core_09-09_rights_part_*.md` files. A partial map from the first file alone is incorrect.
+    other `core_10-10_rights_part_*.md` files. A partial map from the first file alone is incorrect.
     """
     seen: set[str] = set()
     ordered_paths: list[str] = []
@@ -148,7 +148,7 @@ def canonical_map_from_paths(root: pathlib.Path, source: str) -> dict[str, str]:
                 mapping[match.group(1)] = match.group(2)
 
     if not mapping:
-        raise SystemExit("No canonical Article headings found in source file or Chapter Nine part files.")
+        raise SystemExit("No canonical Article headings found in source file or Chapter Ten part files.")
     return mapping
 
 

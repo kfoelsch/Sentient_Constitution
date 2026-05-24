@@ -9,8 +9,8 @@ ROOT = Path(__file__).resolve().parents[1]
 
 # Files that use ### / #### Article structure for Chapter Nine parts
 TARGETS = [
-    ROOT / "core_09-09_rights_part_c.md",
-    ROOT / "core_09-09_rights_part_d.md",
+    ROOT / "core_10-10_rights_part_c.md",
+    ROOT / "core_10-10_rights_part_d.md",
 ]
 
 H3_RE = re.compile(r"^### Article ([IVXLC]+):")

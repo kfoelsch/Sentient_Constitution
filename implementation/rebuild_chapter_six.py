@@ -1,15 +1,15 @@
 #!/usr/bin/env python3
 """Disabled one-shot migration script for the pre-split Chapter Six layout.
 
-Chapter Six now lives in core_06-06_standing_classification.md and
-core_06-06_standing_integration.md. Do not rerun this historical generator.
+Chapter Six now lives in core_06-06_standing_assessment.md and
+core_07-07_standing_integration.md. Do not rerun this historical generator.
 """
 from pathlib import Path
 from textwrap import dedent
 
 ROOT = Path(__file__).resolve().parents[1]
-SRC = ROOT / "core_06-06_standing_classification.md"
-BAK = ROOT / "core_06-06_standing_classification.md.bak"
+SRC = ROOT / "core_06-06_standing_assessment.md"
+BAK = ROOT / "core_06-06_standing_assessment.md.bak"
 
 def lines_slice(lines, start_1, end_1):
     """1-based inclusive start, 1-based inclusive end."""
@@ -18,8 +18,8 @@ def lines_slice(lines, start_1, end_1):
 
 def main():
     raise SystemExit(
-        "Disabled: Chapter Six is split. Edit core_06-06_standing_classification.md "
-        "and core_06-06_standing_integration.md directly."
+        "Disabled: Chapter Six is split. Edit core_06-06_standing_assessment.md "
+        "and core_07-07_standing_integration.md directly."
     )
     text = SRC.read_text(encoding="utf-8")
     lines = text.splitlines(True)
@@ -70,8 +70,8 @@ def main():
     )
 
     preamble = preamble.replace(
-        "- Downstream: [Chapter Seven](core_07-07_misconduct.md#chapter-seven-axis-ii-grand-anti-constitutional-misconduct) (*authoritative Violation Axis s = 7, 8, or 9 classification — **section 7** pointer*); [Chapter Eight](core_08-08_forum.md#chapter-eight-forums-and-jurisdiction) (*forum allocation for disputes arising under this model*); [Chapter Nine — Article XXIII](core_09-09_rights_part_d.md#article-xxiii-a-justice-objective-and-scope) (*justice constraints on punitive and restrictive responses*).",
-        "- Downstream: [Chapter Seven](core_07-07_misconduct.md#chapter-seven-axis-ii-grand-anti-constitutional-misconduct) (*authoritative Violation Axis s = 7, 8, or 9 classification — **section 9** pointer*); [Chapter Eight](core_08-08_forum.md#chapter-eight-forums-and-jurisdiction) (*forum allocation for disputes arising under this model*); [Chapter Nine — Article XXIII](core_09-09_rights_part_d.md#article-xxiii-a-justice-objective-and-scope) (*justice constraints on punitive and restrictive responses*).",
+        "- Downstream: [Chapter Ten](core_08-08_misconduct.md#chapter-seven-axis-ii-grand-anti-constitutional-misconduct) (*authoritative Violation Axis s = 7, 8, or 9 classification — **section 7** pointer*); [Chapter Ten](core_09-09_forum.md#chapter-nine-forums-and-jurisdiction) (*forum allocation for disputes arising under this model*); [Chapter Ten — Article XXIII](core_10-10_rights_part_d.md#article-xxiii-a-justice-objective-and-scope) (*justice constraints on punitive and restrictive responses*).",
+        "- Downstream: [Chapter Ten](core_08-08_misconduct.md#chapter-seven-axis-ii-grand-anti-constitutional-misconduct) (*authoritative Violation Axis s = 7, 8, or 9 classification — **section 9** pointer*); [Chapter Ten](core_09-09_forum.md#chapter-nine-forums-and-jurisdiction) (*forum allocation for disputes arising under this model*); [Chapter Ten — Article XXIII](core_10-10_rights_part_d.md#article-xxiii-a-justice-objective-and-scope) (*justice constraints on punitive and restrictive responses*).",
     )
 
     # --- §1 Purpose: lines 48-71 + 85-91 (skip verified inputs / principle / informal block 72-84)
@@ -92,7 +92,7 @@ def main():
 
     - Upstream: [§1](#1-purpose-and-role) (*purpose and constitutional-meaning-only scope*).
     - Downstream: [§2](#2-standing-forums-and-verified-inputs) (*verified inputs, standing effect, integration*); [§3](#3-axis-i-contribution-state) (*Contribution Axis — contribution state*); [§4](#4-axis-ii-violation-nature) (*Violation Axis — violation nature*); [§5](#5-shared-domain-lenses-cross-axis-vocabulary) (*non-operative domain lens table — read after §§3–4*); [§3.7](#37-stackable-benefit-and-stewardship-descriptors-axis-i-supplement) and [§4.13](#413-non-exclusive-harm-and-conduct-descriptors) (*stackable supplemental descriptors*); [§6](#6-cross-axis-coupling-and-escalation-constraints) (*joint assessment*); [§9](#9-axis-ii-grand-anti-constitutional-misconduct-authoritative-location) (*pointer to Chapter Seven for final Violation Axis s = 7, 8, or 9 classification*).
-    - Read with: [Chapter Seven](core_07-07_misconduct.md#chapter-seven-axis-ii-grand-anti-constitutional-misconduct) (*authoritative Violation Axis s = 7, 8, or 9 home*).
+    - Read with: [Chapter Eight](core_08-08_misconduct.md#chapter-seven-axis-ii-grand-anti-constitutional-misconduct) (*authoritative Violation Axis s = 7, 8, or 9 home*).
 
     </details>
 
@@ -168,7 +168,7 @@ def main():
 
     - Upstream: [§1](#1-purpose-and-role) (*two-axis frame*); [Chapter One §5.2 — Stewardship and Distributed Understanding](core_00-01_principles.md#52-stewardship-and-distributed-understanding); [Chapters Two through Four](core_02-04_definition_mechanics.md); [Chapter Five](core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions).
     - Downstream: [§3](#3-axis-i-contribution-state) (*contribution state on the **Contribution Axis***); [§4](#4-axis-ii-violation-nature) (*violation nature on the **Violation Axis***); [§6](#6-cross-axis-coupling-and-escalation-constraints) (*joint assessment*).
-    - Read with: [Chapter Eight](core_08-08_forum.md#chapter-eight-forums-and-jurisdiction) (*forums separate from standing calculus*); [Article XII-B](core_09-09_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress).
+    - Read with: [Chapter Ten](core_09-09_forum.md#chapter-nine-forums-and-jurisdiction) (*forums separate from standing calculus*); [Article XII-B](core_10-10_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress).
 
     </details>
 

@@ -154,16 +154,16 @@ Step 3: Update ai_corpus index files
 | core_05-05_definitions_b_semi_independent.md | ~1,900 | Semi-independent definitions |
 | core_05-05_definitions_c_dependent_clusters.md | ~1,800 | Dependent definition clusters |
 | core_06-06_standing_assessment.md | ~880 | Two-axis standing model |
-| core_06-06_standing_integration.md | ~780 | Standing effects, integration |
-| core_07-07_misconduct.md | ~420 | Anti-constitutional misconduct |
-| core_08-08_forum.md | ~380 | Forums, jurisdiction |
-| core_09-09_rights_part_a.md | ~630 | Articles I-IV |
-| core_09-09_rights_part_b.md | ~1,380 | Articles V-XI |
-| core_09-09_rights_part_c.md | ~1,600 | Articles XII-XXII |
-| core_09-09_rights_part_d.md | ~560 | Articles XXIII-XXV |
-| core_10-10_governance.md | ~330 | Constitutional contract |
-| core_11-13_amendment.md | ~640 | Non-regression, amendment |
-| core_14-14_incorporation.md | ~160 | Incorporation bridge |
+| core_07-07_standing_integration.md | ~780 | Standing effects, integration |
+| core_08-08_misconduct.md | ~420 | Anti-constitutional misconduct |
+| core_09-09_forum.md | ~380 | Forums, jurisdiction |
+| core_10-10_rights_part_a.md | ~630 | Articles I-IV |
+| core_10-10_rights_part_b.md | ~1,380 | Articles V-XI |
+| core_10-10_rights_part_c.md | ~1,600 | Articles XII-XXII |
+| core_10-10_rights_part_d.md | ~560 | Articles XXIII-XXV |
+| core_11-11_governance.md | ~330 | Constitutional contract |
+| core_12-14_amendment.md | ~640 | Non-regression, amendment |
+| core_15-15_incorporation.md | ~160 | Incorporation bridge |
 | corpus_systems.md | ~2,170 | Systems protocols S1-S5 |
 | corpus_institutions.md | ~940 | Institutional governance CI-1-24 |
 | corpus_forum.md | ~1,150 | Forum operations |

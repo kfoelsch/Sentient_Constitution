@@ -53,10 +53,10 @@ def ch5_href_base(slug: str) -> str:
 
 TARGETS = [
     Path("core_00-01_principles.md"),
-    Path("core_09-09_rights_part_a.md"),
-    Path("core_09-09_rights_part_b.md"),
-    Path("core_09-09_rights_part_c.md"),
-    Path("core_09-09_rights_part_d.md"),
+    Path("core_10-10_rights_part_a.md"),
+    Path("core_10-10_rights_part_b.md"),
+    Path("core_10-10_rights_part_c.md"),
+    Path("core_10-10_rights_part_d.md"),
 ]
 
 TRACE_SUMMARY_RE = re.compile(

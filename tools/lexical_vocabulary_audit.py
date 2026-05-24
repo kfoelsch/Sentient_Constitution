@@ -17,17 +17,17 @@ DEFAULT_SCOPE = [
     "core_05-05_definitions_a_independent.md",
     "core_05-05_definitions_b_semi_independent.md",
     "core_05-05_definitions_c_dependent_clusters.md",
-    "core_06-06_standing_classification.md",
-    "core_06-06_standing_integration.md",
-    "core_07-07_misconduct.md",
-    "core_08-08_forum.md",
-    "core_09-09_rights_part_a.md",
-    "core_09-09_rights_part_b.md",
-    "core_09-09_rights_part_c.md",
-    "core_09-09_rights_part_d.md",
-    "core_10-10_governance.md",
-    "core_11-13_amendment.md",
-    "core_14-14_incorporation.md",
+    "core_06-06_standing_assessment.md",
+    "core_07-07_standing_integration.md",
+    "core_08-08_misconduct.md",
+    "core_09-09_forum.md",
+    "core_10-10_rights_part_a.md",
+    "core_10-10_rights_part_b.md",
+    "core_10-10_rights_part_c.md",
+    "core_10-10_rights_part_d.md",
+    "core_11-11_governance.md",
+    "core_12-14_amendment.md",
+    "core_15-15_incorporation.md",
     "corpus_systems.md",
     "corpus_institutions.md",
     "corpus_forum.md",
@@ -38,7 +38,7 @@ DEFAULT_SCOPE = [
 ]
 
 # Enforce **breach**-family ban only where the chapter-six pass has landed; expand as other scoped files are scrubbed.
-_BREACH_FAMILY_SCOPE = frozenset({"core_06-06_standing_classification.md", "core_06-06_standing_integration.md"})
+_BREACH_FAMILY_SCOPE = frozenset({"core_06-06_standing_assessment.md", "core_07-07_standing_integration.md"})
 
 # Standalone word "cloud" / "Cloud" / "CLOUD", including compounds like cloud-native (still banned).
 # Does not match substrings inside unrelated tokens (e.g. "icloud" as one word — no boundary before 'c').
@@ -390,8 +390,8 @@ def report_markdown(run_date: str, scope: list[str], findings: list[Finding]) ->
         "- **`avoid-accession-jargon`:** reject **accede**, **acceding**, and **accession** → prefer **join** / **joining** / **additional parties** adoption wording.",
         "- **`avoid-undefined-breach-family`:** reject standalone **breach** / **breaches** / **breached** / **breaching**, **duty breach**, and **duty-breaching** → prefer **violation**, **non-compliance**, **unmet duties**, or defined Chapter Six typing (see `.cursor/rules/clarity.mdc`). *Currently enforced only on files in `_BREACH_FAMILY_SCOPE` inside `tools/lexical_vocabulary_audit.py`.*",
         "- **`avoid-minima`:** reject **minima** → prefer **requirements**, **floors**, **conditions**, or another context-specific term.",
-        "- **`load-bearing-rights-floor-casing`:** reject lowercase **rights floor**, **rights floors**, and **rights-floor** outside Markdown link targets and inline code → use **Rights Floor**, **Rights Floors**, or **Rights-Floor** for the named Chapter Nine layer.",
-        "- **`load-bearing-foundational-rights-casing`:** reject **Foundational rights** / **foundational rights** outside Markdown link targets and inline code → use **Foundational Rights** when naming the Chapter Nine title or layer.",
+        "- **`load-bearing-rights-floor-casing`:** reject lowercase **rights floor**, **rights floors**, and **rights-floor** outside Markdown link targets and inline code → use **Rights Floor**, **Rights Floors**, or **Rights-Floor** for the named Chapter Ten layer.",
+        "- **`load-bearing-foundational-rights-casing`:** reject **Foundational rights** / **foundational rights** outside Markdown link targets and inline code → use **Foundational Rights** when naming the Chapter Ten title or layer.",
         "",
         "## Scope",
     ]

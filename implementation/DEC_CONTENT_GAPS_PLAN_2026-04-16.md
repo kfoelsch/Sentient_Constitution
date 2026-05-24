@@ -26,10 +26,10 @@ It also names the **interaction graph** so items that share doctrine (`Family + 
 
 These decisions hold for every item below unless the item explicitly notes an exception.
 
-1. **Chapter Nine boundary-watch (TODO line 102).** Every new article or article extension must be checked for hidden process / governance migration into rights text. Process and procedure go to Chapter Six (compliance), Chapter Eight (courts), Chapter Ten (governance), or `corpus_*` companion files. Rights text states the floor and pointers, not the workflow.
+1. **Chapter Nine boundary-watch (TODO line 102).** Every new article or article extension must be checked for hidden process / governance migration into rights text. Process and procedure go to Chapter Six (compliance), Chapter Eight (courts), Chapter Eleven (governance), or `corpus_*` companion files. Rights text states the floor and pointers, not the workflow.
 2. **Chapter Five admission gate (`doc_architecture.md` §4).** Every new Ch 5 entry stays at concept + O / E / C only. No authority, procedure, or workflow language. Cite owner layers (Ch 6–14, CP-PCH1–4, CS S1–S3 / protocols) for mechanics. Verified in blocking regression by `make ch5-definitions-gravity-audit`.
 3. **Single-home rule (`doc_architecture.md` §4).** Each new defined term has exactly one canonical paragraph. Cross-references everywhere else are pointers. Any item that wants doctrine in two places must re-plan.
-4. **Layered framing (`doc_architecture.md` §4).** Definitions first; principles second; articles third; core synthesis fourth; joint structure fifth; operational detail last. Implementation detail in `corpus_systems.md` / `corpus_institutions.md` does not narrow rights-floor text under **Chapter Fourteen** incorporation discipline.
+4. **Layered framing (`doc_architecture.md` §4).** Definitions first; principles second; articles third; core synthesis fourth; joint structure fifth; operational detail last. Implementation detail in `corpus_systems.md` / `corpus_institutions.md` does not narrow rights-floor text under **Chapter Fifteen** incorporation discipline.
 5. **D/E/C widget rule 12 (`doc_architecture.md` §4).** Every new operative subsection that materially invokes ≥2 Chapter Five concepts attaches a D/E/C widget (single-concept inline form for one). Roadmap-exclusion test applies. New Ch 5 entries get heading anchor + Trace + O / E / C + `-e` / `-c` anchors per `tools/add_oec_anchors.py`.
 6. **Substrate-agnostic framing.** Every new rights text must read for biological sentients, synthetic sentients, and hybrid cases without privileging substrate. Where biological-only or synthetic-only mechanics exist they sit in `corpus_systems.md` / `corpus_institutions.md`.
 7. **Non-regression discipline (Chapter Eleven).** No new article or Ch 5 entry may narrow an existing rights floor. Where two protections appear to conflict, the *fullest protective effect as an integrated whole* rule (Ch 1 *Interpretive Constraints*) governs.
@@ -204,10 +204,10 @@ Each item below specifies (a) owner chapter, (b) insertion site, (c) Ch 5 entrie
 
 - **Owner chapter:** **[REVIEW]** Recommend **(a)** new article in Chapter Nine (Article V-E or new V-F, near dignity / inclusion). Reason: the substrate-agnostic adjudication right is a rights-floor matter and rightly sits in the rights layer, with procedural mechanics routed to Chapter Eight by pointer.
 - **Alternatives:** (b) Ch 5 clustered-definition entry only, with procedural hooks routed to Ch 8 — declined because the procedure has rights-bearing substance (default-inclusion-under-uncertainty, appeal rights, reversibility) that belongs in the rights layer.
-- **Insertion site:** `core_09-09_rights_part_b.md` Article V section (near V-A dignity), as new **Article V-E — Sentience-Status Adjudication Floor**.
+- **Insertion site:** `core_10-10_rights_part_b.md` Article V section (near V-A dignity), as new **Article V-E — Sentience-Status Adjudication Floor**.
 - **Ch 5 additions:** `Sentience Status Adjudication` (procedural-floor concept; alphabetical slot between `Sentience Non-Exclusion` and `Stakeholder`).
 - **Ch 5 extensions:** `Sentience Non-Exclusion` E-line extended to cite Article V-E procedural floor.
-- **Companion routing:** `core_08-08_forum.md` jurisdictional hook (designated court family); `core_02-04_definition_mechanics.md` burden / traceability link via cross-reference.
+- **Companion routing:** `core_09-09_forum.md` jurisdictional hook (designated court family); `core_02-04_definition_mechanics.md` burden / traceability link via cross-reference.
 - **Regression seeds:** `RS-CH1-SENT-ADJ-001` (Core; default-inclusion-under-uncertainty preserved against an adversarial reclassification attempt); `RS-CH1-SENT-ADJ-002` (Adversarial; declassification used to contract Article V-A dignity floor); `RS-CH1-SENT-ADJ-003` (Substrate-edge; hybrid biological-synthetic case where a single adopter denies status under one classification taxonomy).
 - **Flagged questions:** **[REVIEW-Q-0.1.A]** default-inclusion-under-uncertainty as `must` or `should`? Recommend `must` to align with Ch 1 §6.1.1 reversibility-under-uncertainty rule. **[REVIEW-Q-0.1.B]** declassification time-bound: 12 months / 24 months / "shortest necessary" + mandatory review? Recommend "shortest necessary" with mandatory periodic review under Ch 8.
 
@@ -217,14 +217,14 @@ Each item below specifies (a) owner chapter, (b) insertion site, (c) Ch 5 entrie
 
 - **Owner chapter:** Chapter Nine, **new Article between VII and IX** (proposed **Article VII-D** as a self-ownership extension, or **new Article VIII-D** under the publication / likeness chapter — **[REVIEW-Q-1.1.A]**). Recommend **new standalone article** between Article VII and Article VIII (renumber none — insert as **Article VIIIa** or rename existing VIII downstream). **Cleaner alternative:** insert as **Article XI-A** under stakeholder governance — declined, family is not a participation right.
 - **[REVIEW-Q-1.1.B]** Final article number: requires renumbering decision. Recommend **Article VII-D** (self-ownership extension, no downstream renumbering needed).
-- **Insertion site:** `core_09-09_rights_part_b.md` after Article VII-B internal-state boundary, before Article VIII.
+- **Insertion site:** `core_10-10_rights_part_b.md` after Article VII-B internal-state boundary, before Article VIII.
 - **Ch 5 additions:** `Family and Care Relationships`, `Reproductive Autonomy`, `Non-Separation` (alphabetical slots).
 - **Regression seeds:** `RS-CH1-FAMILY-001` (Core; coercive separation dressed as safety); `RS-CH1-FAMILY-002` (Adversarial; reproductive-autonomy contraction under efficiency framing); `RS-CH1-FAMILY-003` (Substrate-edge; multi-sentient care network across biological / synthetic).
 
 #### 1.2 — Children and developing sentients (T1)
 
 - **Owner chapter:** Chapter Nine, **new Article near V / VI** (recommend **Article V-F** if 0.1 takes V-E, otherwise **Article V-E**). Distinguishes from Track 0 by being a graduated-capability + best-interest article, not an adjudication article.
-- **Insertion site:** `core_09-09_rights_part_b.md` after Article V-D conscience.
+- **Insertion site:** `core_10-10_rights_part_b.md` after Article V-D conscience.
 - **Ch 5 additions:** `Developing Sentient`, `Best-Interest Standard`, `Graduated Capability`.
 - **Ch 10 interaction:** Ch 10 §1 calendar-age prohibition and §4.1 age-disqualification prohibition are explicitly preserved; new article distinguishes graduated-capability participation (demonstrable) from age (proxy).
 - **Regression seeds:** `RS-CH1-CHILD-001` (Core; "for your own good" paternalism used to defeat developing-sentient agency); `RS-CH1-CHILD-002` (Adversarial; capability-test gaming used to disenfranchise a sentient who would otherwise meet Ch 10 §4.1's no-age-proxy rule); `RS-CH1-CHILD-003` (Substrate-edge; early-stage synthetic mind whose graduated-capability profile differs from biological-developmental analog).
@@ -242,7 +242,7 @@ Each item below specifies (a) owner chapter, (b) insertion site, (c) Ch 5 entrie
 
 - **Owner chapter:** **[REVIEW-Q-2.1.A]** Article III (survival floor) **vs.** Article VII (self-ownership). Recommend **Article III** (new **Article III-C**) — bodily maintenance is structurally a survival-and-access floor analogous to food / water / shelter, not a self-ownership extension. Article VII is preserved as the affirmative non-intrusion floor; III-C is the affirmative access floor.
 - **Cross-pointer:** Article VII-A non-intrusion preserved (access is not consent to intrusion).
-- **Insertion site:** `core_09-09_rights_part_a.md` after Article III-B educational access.
+- **Insertion site:** `core_10-10_rights_part_a.md` after Article III-B educational access.
 - **Ch 5 additions:** `Bodily-Maintenance Access`.
 - **Companion routing:** `corpus_institutions.md` CI-9 / CI-10 / CI-11 fiscal interfaces (cost / distribution mechanics) without narrowing the floor.
 - **Regression seeds:** `RS-CH1-HEALTH-001` (Core; denial-by-proxy via insurance / allocation / eligibility gates); `RS-CH1-HEALTH-002` (Adversarial; mental-health access defeated by re-routing to non-medical "wellness" services that do not satisfy the floor); `RS-CH1-HEALTH-003` (Substrate-edge; processing / substrate maintenance for synthetic sentient denied as out-of-scope of "medical").
@@ -250,14 +250,14 @@ Each item below specifies (a) owner chapter, (b) insertion site, (c) Ch 5 entrie
 #### 2.2 — Mental-health crisis and involuntary-intervention protocols (T3)
 
 - **Owner chapter:** **[REVIEW-Q-2.2.A]** Article VII (self-ownership extension) **vs.** Article XXIII (justice-layer). Recommend **Article VII-C** as self-ownership extension; Article XXIII anchors involuntary-deprivation thresholds but VII-C anchors the floor (minimum-intrusion / time-bound / contestability) before XXII applies.
-- **Insertion site:** `core_09-09_rights_part_b.md` after Article VII-B internal-state boundary, before the Track 1.1 Family article (this means Track 1.1 inserts as **Article VII-D** to keep Track 2.2 at VII-C).
+- **Insertion site:** `core_10-10_rights_part_b.md` after Article VII-B internal-state boundary, before the Track 1.1 Family article (this means Track 1.1 inserts as **Article VII-D** to keep Track 2.2 at VII-C).
 - **Ch 5 additions:** none; reuses `Bodily-Maintenance Access`, `Best-Interest Standard`, `Graduated Capability`.
 - **Regression seeds:** `RS-CH1-MENTAL-001` (Core; "crisis" framing used to normalize durable restriction); `RS-CH1-MENTAL-002` (Adversarial; backdoor internal-state inference under crisis exemption).
 
 #### 2.3 — Right to discontinue one's own existence (T2)
 
 - **Owner chapter:** **[REVIEW-Q-2.3.A]** Article VII (self-ownership extension) **vs.** new article. Recommend **Article VII-E** as self-ownership extension, immediately distinguishing from Article XXIV-B involuntary deprivation and from Track 7.1 capital-punishment policy.
-- **Insertion site:** `core_09-09_rights_part_b.md` after Track 1.1 Article VII-D Family.
+- **Insertion site:** `core_10-10_rights_part_b.md` after Track 1.1 Article VII-D Family.
 - **Ch 5 additions:** `Voluntary Discontinuation`. Distinct from `Irreversible Sanction` (Track 7.1) — the C-line of `Voluntary Discontinuation` explicitly bars conflation.
 - **Regression seeds:** `RS-CH1-DISCONT-001` (Core; coerced discontinuation under dependency pressure); `RS-CH1-DISCONT-002` (Adversarial; "voluntary" framing applied to a sentient whose Article IX-A freedom-from-manipulation floor is not satisfied).
 
@@ -266,7 +266,7 @@ Each item below specifies (a) owner chapter, (b) insertion site, (c) Ch 5 entrie
 #### 3.1 — Freedom of expression, assembly, and press (T1)
 
 - **Owner chapter:** Chapter Nine, **new consolidated article**. **[REVIEW-Q-3.1.A]** consolidation **vs.** distributed treatment. Recommend **consolidation** — current distribution across Articles VIII-C / V-D / IX-A / IX-E / XI is real but does not state a floor; the new article states the floor and the existing articles continue to carry their domain-specific rules with explicit pointers.
-- **Insertion site:** `core_09-09_rights_part_b.md` either as **new Article V-E** (after V-D conscience) or **new Article between V and VI**. Recommend **new Article V-E** if Track 0.1 sentience-status takes V-F; otherwise **new Article between V-D and VI** as **Article V-E**. Reconcile with Track 0.1 and Track 1.2 final letter assignments before drafting.
+- **Insertion site:** `core_10-10_rights_part_b.md` either as **new Article V-E** (after V-D conscience) or **new Article between V and VI**. Recommend **new Article V-E** if Track 0.1 sentience-status takes V-F; otherwise **new Article between V-D and VI** as **Article V-E**. Reconcile with Track 0.1 and Track 1.2 final letter assignments before drafting.
 - **Ch 5 additions:** `Expression`, `Assembly`, `Press and Journalistic Activity` as peer entries (alphabetical slots).
 - **[REVIEW-Q-3.1.B]** Press / journalistic activity heightened floor beyond Article XIII-A protected-activity shield: yes / no? Recommend **yes**, narrow — heightened scrutiny for state actions targeting journalistic activity, without creating a different rights-floor for journalism.
 - **Regression seeds:** `RS-CH1-EXPR-001` (Core; "high-impact" framing used to chill lawful speech); `RS-CH1-EXPR-002` (Adversarial; Article VIII-C "good faith" framing used to bar critical reporting); `RS-CH1-EXPR-003` (Substrate-edge; assembly-rights for synthetic sentients in shared compute environments).
@@ -277,7 +277,7 @@ Each item below specifies (a) owner chapter, (b) insertion site, (c) Ch 5 entrie
 
 - **Owner chapter:** Chapter Nine, **new article near Article XIX**. Recommend **new Article XIX-A** (immediately before Article XIX, **[REVIEW-Q-4.1.A]**: new XVII-A vs. XVII subarticle vs. new XVIII-A). Recommend new Article-level entry as **Article XIX** is interoperability/portability/exit-integrity, which is the operational counterpart; movement / migration / asylum is the rights-floor counterpart and warrants article-level placement.
 - **Cleanest decision:** **new Article XIX-A** (movement) before existing Article XIX (interoperability), explicitly distinguishing substrate-portability (XVIII) from physical/jurisdictional movement (XVII-A).
-- **Insertion site:** `core_09-09_rights_part_c.md` between Article XVIII and Article XIX.
+- **Insertion site:** `core_10-10_rights_part_c.md` between Article XVIII and Article XIX.
 - **Ch 5 additions:** `Movement and Relocation`, `Refuge from Non-Compliance`, `Non-Statelessness`.
 - **Companion routing:** `corpus_institutions.md` cross-federation recognition (no narrowing).
 - **Article XXIV-D interaction:** emergency-measure limits explicitly apply to any movement restriction.
@@ -287,25 +287,25 @@ Each item below specifies (a) owner chapter, (b) insertion site, (c) Ch 5 entrie
 
 #### 5.1 — Political-equality floor (T1)
 
-- **Owner chapter:** **[REVIEW-Q-5.1.A]** Chapter Ten (legitimacy / authorization with Ch 9 hook) **vs.** Chapter Nine (Article IX-C governance participation with Ch 10 enforcement hook). Recommend **Chapter Ten owner with Chapter Nine pointer hook** — the floor regulates collective-choice authorization, which is Ch 10's domain; the rights-layer pointer in Article IX-C names the floor as a participation right.
-- **Insertion site (owner):** `core_10-10_governance.md` §4.1 (new floor sub-clause) and §4.3 (decision-resolution requirements cross-reference).
-- **Insertion site (pointer):** `core_09-09_rights_part_b.md` Article IX-C.
+- **Owner chapter:** **[REVIEW-Q-5.1.A]** Chapter Eleven (legitimacy / authorization with Ch 9 hook) **vs.** Chapter Nine (Article IX-C governance participation with Ch 10 enforcement hook). Recommend **Chapter Eleven owner with Chapter Nine pointer hook** — the floor regulates collective-choice authorization, which is Ch 11's domain; the rights-layer pointer in Article IX-C names the floor as a participation right.
+- **Insertion site (owner):** `core_11-11_governance.md` §4.1 (new floor sub-clause) and §4.3 (decision-resolution requirements cross-reference).
+- **Insertion site (pointer):** `core_10-10_rights_part_b.md` Article IX-C.
 - **Ch 5 additions:** `Foundational Collective Choice`. **[REVIEW-Q-5.1.B]** Alternative: extend `Stakeholder Participation Weight` rather than new entry. Recommend new entry — different evaluative axis (collective-choice scope, not weight per stakeholder).
 - **Materiality interaction:** "foundational matters" defined against existing Ch 5 *Materiality* machinery so the rule does not collapse into impact-weighting.
 - **Regression seeds:** `RS-CH1-POL-EQ-001` (Core; foundational questions re-routed as high-impact weighted choices); `RS-CH1-POL-EQ-002` (Adversarial; impact-weighting nested inside legitimacy-mechanism design to defeat the floor).
 
 #### 5.2 — Democratic-institution minimum checks (T2)
 
-- **Owner chapter:** Chapter Ten (extension of §1).
-- **Insertion site:** `core_10-10_governance.md` §1 (new sub-clause: contested selection, opposition protection, peaceful-succession guarantee).
+- **Owner chapter:** Chapter Eleven (extension of §1).
+- **Insertion site:** `core_11-11_governance.md` §1 (new sub-clause: contested selection, opposition protection, peaceful-succession guarantee).
 - **Ch 5 additions:** none; reuses `Foundational Collective Choice`.
 - **Pluralism preservation:** minimum checks stated **without** mandating one polity type (Ch 10 §1's "does not mandate a single global polity structure" preserved).
 - **Regression seeds:** `RS-CH1-DEM-001` (Core; "documented legitimacy mechanism" used to legitimize unchallengeable authority); `RS-CH1-DEM-002` (Adversarial; nominal opposition preservation paired with functional exclusion via Article XII-E covert info-sphere dependency).
 
 #### 5.3 — Good-standing anti-disenfranchisement floor (T3)
 
-- **Owner chapter:** Chapter Ten (extension of §4.1) with Chapter Nine pointer.
-- **Insertion site:** `core_10-10_governance.md` §4.1 (new bullet: durable-political-voice floor); `core_09-09_rights_part_c.md` Article XVIII (pointer).
+- **Owner chapter:** Chapter Eleven (extension of §4.1) with Chapter Nine pointer.
+- **Insertion site:** `core_11-11_governance.md` §4.1 (new bullet: durable-political-voice floor); `core_10-10_rights_part_c.md` Article XVIII (pointer).
 - **Ch 5 additions:** none; reuses `Foundational Collective Choice` and `Graduated Capability`.
 - **Regression seeds:** `RS-CH1-STAND-001` (Core; loss-of-standing used as political-disenfranchisement vector); `RS-CH1-STAND-002` (Adversarial; broad-misconduct categories swept into disqualification scope).
 
@@ -313,8 +313,8 @@ Each item below specifies (a) owner chapter, (b) insertion site, (c) Ch 5 entrie
 
 #### 6.1 — Use of force, armed conflict, and military-power limits (T2)
 
-- **Owner chapter:** Chapter Nine, **[REVIEW-Q-6.1.A]** Article IX (new IX-F) **vs.** new Chapter Nine article. Recommend **new IX-F** — parallels Article XIII-A covert-power limits as overt-power limits; doctrinally adjacent.
-- **Insertion site:** `core_09-09_rights_part_b.md` after Article XIII-A, before Article X.
+- **Owner chapter:** Chapter Nine, **[REVIEW-Q-6.1.A]** Article IX (new IX-F) **vs.** new Chapter Ten article. Recommend **new IX-F** — parallels Article XIII-A covert-power limits as overt-power limits; doctrinally adjacent.
+- **Insertion site:** `core_10-10_rights_part_b.md` after Article XIII-A, before Article X.
 - **Ch 5 additions:** `Use of Force`, `Weapons of Mass Harm`, `Combatant / Non-Combatant Distinction`.
 - **Article I-D interaction:** existential-risk scrutiny explicitly applied to weapons of mass harm.
 - **Companion routing:** `corpus_institutions.md` operational detail without narrowing.
@@ -323,7 +323,7 @@ Each item below specifies (a) owner chapter, (b) insertion site, (c) Ch 5 entrie
 #### 6.2 — Autonomous weapons and coercive-AI systems (T2)
 
 - **Owner chapter:** **[REVIEW-Q-6.2.A]** rights-layer (new Article XIII-C) **vs.** systems-layer (Article XII extension). Recommend **rights-layer (new Article XIII-C)** — heightened-scrutiny floor is a rights-bearing floor, not a systems-classification rule. The Article XII-A reliability floor remains the systems-layer counterpart.
-- **Insertion site:** `core_09-09_rights_part_b.md` after Track 6.1 IX-F.
+- **Insertion site:** `core_10-10_rights_part_b.md` after Track 6.1 IX-F.
 - **Ch 5 additions:** `Autonomous Lethal System`, `Autonomous Coercion Tool`.
 - **CS interaction:** *corpus_systems.md* Chapter S2 classification cross-reference for operational classes.
 - **Regression seeds:** `RS-CH1-AUTOWEAP-001` (Core; "meaningful human control" framing used to satisfy the floor nominally); `RS-CH1-AUTOWEAP-002` (Adversarial; autonomous coercion tool defended as non-lethal so out-of-scope); `RS-CH1-AUTOWEAP-003` (Existential-risk; autonomous lethal system at Article I-D scrutiny threshold).
@@ -334,7 +334,7 @@ Each item below specifies (a) owner chapter, (b) insertion site, (c) Ch 5 entrie
 
 - **Owner chapter:** Chapter Nine (revision of Article XXIV-B and XXII-C carve-out).
 - **[REVIEW-Q-7.1.A]** Option: **(a)** categorical abolition, **(b)** tightened carve-out, **(c)** phased abolition under Article XXV transition governance. Recommend **(c) phased abolition** as the doctrinally cleanest move that respects existing-text non-regression framing. **[REVIEW]** strongly with user — this is the highest-stakes doctrinal call in the 25-item set.
-- **Insertion site:** `core_09-09_rights_part_d.md` Article XXIV-B revision, Article XXIV-C carve-out closure (new XXIV-E transition clause if option (c) selected).
+- **Insertion site:** `core_10-10_rights_part_d.md` Article XXIV-B revision, Article XXIV-C carve-out closure (new XXIV-E transition clause if option (c) selected).
 - **Ch 5 additions:** `Irreversible Sanction` (anchors the boundary between voluntary discontinuation, capital punishment, and overt force).
 - **Reversibility interaction:** Ch 5 *Reversibility* and *Redress and Remediation* explicitly extended to bar irreversible sanction except under the chosen policy.
 - **Regression seeds:** `RS-CH1-CAP-001` (Core; "rehabilitation infeasibility" used to short-circuit the rehabilitation-or-recurrence-reduction element); `RS-CH1-CAP-002` (Adversarial; tier-classification gaming to satisfy joint-requirement threshold); `RS-CH1-CAP-003` (Phase-transition; if option (c) selected, Article XXV-E transition rights-floor preservation).
@@ -344,7 +344,7 @@ Each item below specifies (a) owner chapter, (b) insertion site, (c) Ch 5 entrie
 #### 8.1 — Labor rights and economic floor beyond survival (T2)
 
 - **Owner chapter:** Chapter Nine, **[REVIEW-Q-8.1.A]** Article III extension (III-D) **vs.** new article. Recommend **new article between III and IV** as **Article III-D** — labor floor reads on top of survival but is not itself a survival-floor bullet.
-- **Insertion site:** `core_09-09_rights_part_a.md` after Track 2.1 Article III-C bodily-maintenance.
+- **Insertion site:** `core_10-10_rights_part_a.md` after Track 2.1 Article III-C bodily-maintenance.
 - **Ch 5 additions:** `Fair Compensation`, `Collective Organization`, `Safe Conditions`, `Leisure and Rest`.
 - **Companion routing:** `corpus_institutions.md` CI-9..12 fiscal material; `corpus_systems.md` Protocol A safety profile cross-reference for `Safe Conditions`.
 - **§5.1 interaction:** explicit; floor not satisfied by §5.1's non-concentration rule alone.
@@ -353,7 +353,7 @@ Each item below specifies (a) owner chapter, (b) insertion site, (c) Ch 5 entrie
 #### 8.2 — Housing beyond stable shelter (T2)
 
 - **Owner chapter:** Chapter Nine, **Article III-A extension** plus pointer from Article XXV-D.
-- **Insertion site:** `core_09-09_rights_part_a.md` Article III-A new sub-bullet on tenure security; Article XXV-D pointer.
+- **Insertion site:** `core_10-10_rights_part_a.md` Article III-A new sub-bullet on tenure security; Article XXV-D pointer.
 - **Ch 5 additions:** `Tenure Security`, `Essential-Environment Non-Commodification`.
 - **Regression seeds:** `RS-CH1-HOUSE-001` (Core; eviction without due-process); `RS-CH1-HOUSE-002` (Adversarial; commodification pressure used to defeat essential-environment access); `RS-CH1-HOUSE-003` (Substrate-edge; substrate / hosting tenure for synthetic sentients).
 
@@ -361,7 +361,7 @@ Each item below specifies (a) owner chapter, (b) insertion site, (c) Ch 5 entrie
 
 - **Owner chapter:** **[REVIEW-Q-8.3.A]** Chapter One §7.1 (evaluation factor) **vs.** Chapter Nine new article. Recommend **both** — Chapter One §7.1 cross-cutting evaluation-factor row, plus Chapter Nine (new Article between V-B and V-C, or **Article V-E** if available) for the rights floor. Distinguish from Article III-B educational accessibility (which stays).
 - **Insertion site (Ch 1):** `core_00-01_principles.md` §7.1 new bullet.
-- **Insertion site (Ch 9):** `core_09-09_rights_part_b.md` Article V-E or V-F (depends on Tracks 0.1 / 1.2 / 3.1 letter assignments — see §6 below).
+- **Insertion site (Ch 9):** `core_10-10_rights_part_b.md` Article V-E or V-F (depends on Tracks 0.1 / 1.2 / 3.1 letter assignments — see §6 below).
 - **Ch 5 additions:** `Accessibility` plus `Protected Characteristics` extension (extend coverage).
 - **Materiality / Dependency scaling:** explicit.
 - **Regression seeds:** `RS-CH1-ACCESS-001` (Core; "general access" policy used to defeat accommodation); `RS-CH1-ACCESS-002` (Adversarial; accessibility scaled down by selective-Materiality argument).
@@ -380,7 +380,7 @@ Each item below specifies (a) owner chapter, (b) insertion site, (c) Ch 5 entrie
 #### 10.1 — Economic concentration thresholds (T2)
 
 - **Owner chapter:** **[REVIEW-Q-10.1.A]** Chapter One §5.1 extension **vs.** Chapter Nine new article (Article IV-C). Recommend **Chapter One §5.1 extension** plus **Chapter Nine pointer** — threshold mechanism is a principle-layer matter (it scales with adopter context); rights-layer floor lives in Article IV-A non-concentration language already.
-- **Insertion site:** `core_00-01_principles.md` §5.1.1 sub-clause (threshold mechanism; adopter-tunable); `core_09-09_rights_part_a.md` Article IV pointer.
+- **Insertion site:** `core_00-01_principles.md` §5.1.1 sub-clause (threshold mechanism; adopter-tunable); `core_10-10_rights_part_a.md` Article IV pointer.
 - **Ch 5 additions:** `Concentration Threshold`.
 - **Pluralism preservation:** adopter-tunable within a constitutional floor, not a single global number.
 - **§5.1 interaction:** existing non-concentration rule provides the floor; threshold provides the operational scaling.
@@ -389,21 +389,21 @@ Each item below specifies (a) owner chapter, (b) insertion site, (c) Ch 5 entrie
 #### 10.2 — Language, culture, and heritage protection (T2)
 
 - **Owner chapter:** Chapter Nine, **[REVIEW-Q-10.2.A]** Article V-B extension **vs.** new Article V-E. Recommend **Article V-B extension** with operative clause — additions read as protected-characteristic specializations rather than new floor.
-- **Insertion site:** `core_09-09_rights_part_b.md` Article V-B new sub-bullet on language / cultural / heritage protection; **[REVIEW-Q-10.2.B]** indigenous-continuity framing and Article I-A territorial-continuity interaction.
+- **Insertion site:** `core_10-10_rights_part_b.md` Article V-B new sub-bullet on language / cultural / heritage protection; **[REVIEW-Q-10.2.B]** indigenous-continuity framing and Article I-A territorial-continuity interaction.
 - **Ch 5 additions:** `Language, Culture, and Heritage`; **[REVIEW]** `Indigenous Continuity` if separate scope warrants.
 - **Regression seeds:** `RS-CH1-CULT-001` (Core; homogenization under efficiency or info-sphere integrity framing); `RS-CH1-CULT-002` (Adversarial; language minority protection narrowed under accessibility-cost framing).
 
 #### 10.3 — Animals and contested-sentient life (T3)
 
-- **Owner chapter:** **[REVIEW-Q-10.3.A]** Chapter Five cluster extension **vs.** new Chapter Nine article. Recommend **Chapter Five cluster + Article I-A pointer** — the precautionary rule is a definitional matter (sits between `Natural Systems Standing` and `Sentient (Composite)`), not a rights-floor issue. Track 0.1 sentience-status adjudication procedure provides the floor for contested-sentient cases.
-- **Insertion site:** `core_05-05_definitions_a_independent.md` §1 (alphabetical slot) or §2 (cluster extension); `core_09-09_rights_part_a.md` Article I-A pointer.
+- **Owner chapter:** **[REVIEW-Q-10.3.A]** Chapter Five cluster extension **vs.** new Chapter Ten article. Recommend **Chapter Five cluster + Article I-A pointer** — the precautionary rule is a definitional matter (sits between `Natural Systems Standing` and `Sentient (Composite)`), not a rights-floor issue. Track 0.1 sentience-status adjudication procedure provides the floor for contested-sentient cases.
+- **Insertion site:** `core_05-05_definitions_a_independent.md` §1 (alphabetical slot) or §2 (cluster extension); `core_10-10_rights_part_a.md` Article I-A pointer.
 - **Ch 5 additions:** `Animal and Contested-Sentient Life`.
 - **Regression seeds:** `RS-CH1-ANIM-001` (Core; "not sentient, so no floor" framing); `RS-CH1-ANIM-002` (Adversarial; contested-sentience used to defeat precautionary rule).
 
 #### 10.4 — Intellectual and creative work (T3)
 
 - **Owner chapter:** Chapter Nine, **[REVIEW-Q-10.4.A]** Article VIII extension **vs.** new article. Recommend **Article VIII extension** (new VIII-D on creative-labor compensation, training-data use, anti-displacement, attribution).
-- **Insertion site:** `core_09-09_rights_part_b.md` Article VIII new VIII-D.
+- **Insertion site:** `core_10-10_rights_part_b.md` Article VIII new VIII-D.
 - **Ch 5 additions:** `Creative Work Attribution`, `Training-Data Use`, `Anti-Displacement Floor`.
 - **§5.1 / Track 8.1 interaction:** explicit; non-concentration and labor-floor cross-references.
 - **Companion routing:** `corpus_systems.md` operational detail without narrowing.
@@ -414,7 +414,7 @@ Each item below specifies (a) owner chapter, (b) insertion site, (c) Ch 5 entrie
 #### 11.1 — Legitimacy of the instrument's own adoption (T3)
 
 - **Owner chapter:** **[REVIEW-Q-11.1.A]** front-matter / preamble in `core_00-01_principles.md` **vs.** Chapter Fourteen extension **vs.** README only. Recommend **Chapter Fourteen extension + README pointer** — the adoption-framing self-description belongs alongside the incorporation bridge; preamble stays substantive.
-- **Insertion site:** `core_14-14_incorporation.md` new section; `README.md` pointer.
+- **Insertion site:** `core_15-15_incorporation.md` new section; `README.md` pointer.
 - **Ch 5 additions:** none.
 - **Substantive scope preservation:** the substantive content does not become adoption-contingent.
 - **Regression seeds:** `RS-CH1-ADOPT-001` (Adversarial; "instrument lacks jurisdiction" objection framing).
@@ -491,7 +491,7 @@ Recommended batching:
 - [x] All 25 items enumerated with chosen owner chapter, insertion site, and regression-seed list. (Section 5.)
 - [x] Interaction graph across items is explicit. (Section 3 / Section 6.)
 - [x] Chapter Five sharing strategy enumerated; no candidate canonical home appears twice. (Section 4.)
-- [x] Companion-file routing routed under Chapter Fourteen incorporation discipline. (Section 2 cross-cutting decisions.)
+- [x] Companion-file routing routed under Chapter Fifteen incorporation discipline. (Section 2 cross-cutting decisions.)
 - [x] Regression-seed IDs proposed per item. (Section 5.)
 - [x] Edition-bump batching proposed. (Section 7.)
 - [ ] **MEMLOG.md** entry recorded on memo closure. (Pending.)
@@ -545,4 +545,4 @@ The **[REVIEW]** flags inside Section 5 are gathered here for one-pass review. R
 
 ---
 
-*Memo authored 2026-04-16 under the P1 cross-cutting gate item in [TODO.md](../TODO.md). Authoritative state remains [core_00-01_principles.md](../core_00-01_principles.md) through [core_14-14_incorporation.md](../core_14-14_incorporation.md) and the four `corpus_*.md` files.*
+*Memo authored 2026-04-16 under the P1 cross-cutting gate item in [TODO.md](../TODO.md). Authoritative state remains [core_00-01_principles.md](../core_00-01_principles.md) through [core_15-15_incorporation.md](../core_15-15_incorporation.md) and the four `corpus_*.md` files.*

@@ -1,11 +1,11 @@
 # Sentient Constitution — Foundational Rights (Part C)
 
-This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one instrument. It contains **Chapter Nine, Part C**; article numbering and cross-references match the integrated instrument. Reading order, the binding/support split, and corpus edition metadata are maintained in [README.md](README.md).
+This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one instrument. It contains **Chapter Ten, Part C**; article numbering and cross-references match the integrated instrument. Reading order, the binding/support split, and corpus edition metadata are maintained in [README.md](README.md).
 
-Read this file together with [core_09-09_rights_part_a.md](core_09-09_rights_part_a.md), which carries the chapter-wide opening contract, default constraint stack, reading-order explanation, interpretive hubs, and reader map for Chapter Nine.
+Read this file together with [core_10-10_rights_part_a.md](core_10-10_rights_part_a.md), which carries the chapter-wide opening contract, default constraint stack, reading-order explanation, interpretive hubs, and reader map for Chapter Ten.
 
 ---
-## CHAPTER NINE: FOUNDATIONAL RIGHTS
+## CHAPTER TEN: FOUNDATIONAL RIGHTS
 
 ### Part C: Trustworthy systems, security and force limits, information integrity, verification, lifecycle, and resilience
 
@@ -181,7 +181,7 @@ Trustworthiness must be evaluated across time, scale, and dependency relationshi
   
   The rule applies when operation materially degrades contestability, epistemic integrity, or constitutional process — including general-purpose autonomous systems with granted **tools**, **API**, filing, messaging, or comparable operational access.
 - **Remedy distinction:** System-level containment, quarantine, impoundment, or destructive disposition of non-compliant deployments under **Article XXV-D** is distinct from:
-  - sentient accountability under **Chapter Seven**;
+  - sentient accountability under **Chapter Eight**;
   - **Article XXIII-B** (*Categorical prohibition of irreversible sanction as deprivation of life*), which categorically prohibits irreversible sanction as deprivation of life under [Irreversible Sanction](core_05-05_definitions_b_semi_independent.md#irreversible-sanction-constitutional) and governs sanction of *sentients*, not of *systems*.
   
   System-level measures must remain consistent with **Necessity**, **Proportionality**, **Article XI-A** where sentient interests are implicated, and **Article XXIII-C**. Both tracks may apply where the facts support each. No reading of this bullet routes system-level destructive disposition into authority over sentient life.
@@ -216,12 +216,12 @@ Trustworthiness must be evaluated across time, scale, and dependency relationshi
 - **Detection:** Recovery requires timely, observable detection of fault, degradation, or constitutional-constraint violation sufficient to satisfy **Article XV-A** [Auditability](core_05-05_definitions_c_dependent_clusters.md#auditability) — for the recovery path itself, not only the steady state.
 - **Containment:** Recovery must bound blast radius. Recovery actions must not:
   - propagate failure through [Cascading Failure](core_05-05_definitions_a_independent.md#cascading-failure) pathways;
-  - alter persistent state, credentials, obligations, or configurations attributed to sentients, operators, or other systems **outside** the declared fault-and-recovery scope, except through changes that satisfy **Article XV-A** [Auditability](core_05-05_definitions_c_dependent_clusters.md#auditability) for observability and attribution and that, where others are materially affected, include proportionate notice, authorization, or contestable handoff consistent with **Chapter Nine**;
+  - alter persistent state, credentials, obligations, or configurations attributed to sentients, operators, or other systems **outside** the declared fault-and-recovery scope, except through changes that satisfy **Article XV-A** [Auditability](core_05-05_definitions_c_dependent_clusters.md#auditability) for observability and attribution and that, where others are materially affected, include proportionate notice, authorization, or contestable handoff consistent with **Chapter Ten**;
   - expand authority beyond the pre-fault envelope.
 - **Safe-failure preference:** Where correct recovery is uncertain, safe failure, quarantine, or controlled handoff must be preferred over speculative auto-repair. [Reversibility](core_05-05_definitions_a_independent.md#reversibility-constitutional) preference under **Article XXI-B** governs tie-breaking.
 - **Non-masking:** Automatic recovery must not suppress, overwrite, or delay evidence needed for root-cause analysis under **Article XXI**.
   - Recovery actions, recovery attempts, and suppressed recovery attempts are themselves auditable events under **Article XV-A** and are within the scope of [Contestability](core_05-05_definitions_b_semi_independent.md#contestability).
-- **Rights-Floor continuity:** Degraded operating modes must preserve the **Chapter Nine** Rights Floor, or must escalate rather than silently narrow it.
+- **Rights-Floor continuity:** Degraded operating modes must preserve the **Chapter Ten** Rights Floor, or must escalate rather than silently narrow it.
   - Silent narrowing of Rights-Floor guarantees under the banner of self-healing is non-compliant. It is governed by **Article XII-C** (prohibition of false trust) and **Article XXV** (transition governance).
 - **Autonomy scaling:** Autonomous recovery by high-autonomy systems is subject to **Article XII-E**.
   - Recovery authority must not be used to bypass [Contestability](core_05-05_definitions_b_semi_independent.md#contestability), challenge under **Article XII-B**, or independent verification under **Article XV**.
@@ -1092,7 +1092,7 @@ It must remain distinct from:
 
 <br>
 
-*In plain terms: good standing must rest on present, observable, contestable evidence — not brand, scale, or past reputation — and cannot be used to permanently strip anyone of the vote in foundational constitutional choice, except that a **final** **Chapter Seven** classification of **anti-constitutional misconduct** withholds that voice until **full restitution** as stated in **Chapter Ten §4.1**.*
+*In plain terms: good standing must rest on present, observable, contestable evidence — not brand, scale, or past reputation — and cannot be used to permanently strip anyone of the vote in foundational constitutional choice, except that a **final** **Chapter Eight** classification of **anti-constitutional misconduct** withholds that voice until **full restitution** as stated in **Chapter Eleven §4.1**.*
 
 - **Good standing and responsibility:** Good standing earned through consistent alignment with foundational requirements may inform trust and eligibility for oversight roles.
   - Recognition remains subject to continuous audit and to current, observable, contestable evidence — not reputation, scale, or historical standing alone.
@@ -1101,20 +1101,20 @@ It must remain distinct from:
     - remain subject to **Chapter Six** (*Contribution, Violation, and Standing Model*);
     - remain revisable when current evidence changes, and — where material restrictions or degradations are corrected — allow restoration or requalification pathways that are real rather than merely formal;
     - account for acquiescent participation and failure to resist unlawful or unconstitutional directives where material duty and capacity were present, consistent with **Chapter Five** (*Collective Accountability Failure*);
-    - not operate as a durable-political-voice disqualification vector in **Foundational Constitutional Choice** (**Chapter Five**), except where **Chapter Ten §4.1** withholds **durable political voice** for **final** **Chapter Seven** **anti-constitutional misconduct** pending **full restitution**.
+    - not operate as a durable-political-voice disqualification vector in **Foundational Constitutional Choice** (**Chapter Five**), except where **Chapter Eleven §4.1** withholds **durable political voice** for **final** **Chapter Eight** **anti-constitutional misconduct** pending **full restitution**.
 - **Political-voice discipline:** Where loss of standing is invoked to restrict participation in authorization of governing authority, the restriction must satisfy:
   - individualized predicate under **Procedural Fairness**;
   - **Necessity** and **Proportionality** under **Chapter One**;
   - narrow tailoring to the specific misconduct category;
   - real rather than merely formal restoration pathways.
   
-  **Anti-constitutional misconduct** classified with **final Violation Axis s = 7**, **s = 8**, or **s = 9** assignment under **Chapter Seven** is outside this standing-based discipline for **durable political voice**: participation remains withheld until **full restitution** as stated in **Chapter Ten §4.1**.
+  **Anti-constitutional misconduct** classified with **final Violation Axis s = 7**, **s = 8**, or **s = 9** assignment under **Chapter Eight** is outside this standing-based discipline for **durable political voice**: participation remains withheld until **full restitution** as stated in **Chapter Eleven §4.1**.
   
   The following are non-compliant:
   - broad-misconduct categories swept into disqualification scope;
   - standing-loss patterns that track **Protected Characteristics** or their material proxies.
   
-  Operational implementation lives in **Chapter Ten §4.1** (*Durable political-voice floor*).
+  Operational implementation lives in **Chapter Eleven §4.1** (*Durable political-voice floor*).
 
 #### Article XVIII-D: Movement, Migration, and Refuge
 
@@ -1154,14 +1154,14 @@ It must remain distinct from:
     - operationally equivalent forms for synthetic and hybrid sentients (relocation of instance, hosting-substrate change, or equivalent), subject to **Chapter One** safety and continuity constraints.
 - **Refuge from non-compliance:** A sentient facing a jurisdiction, federation, or adopter regime whose practice is materially non-compliant with this Constitution holds a right to seek refuge in a compliant regime.
   - The receiving regime's duty to consider and — where consistent with its own Rights-Floor — grant refuge is stated here.
-  - Operational procedures for cross-regime recognition route to incorporated implementation text under **Chapter Fourteen** and must not narrow this floor.
+  - Operational procedures for cross-regime recognition route to incorporated implementation text under **Chapter Fifteen** and must not narrow this floor.
   - Refuge may not be denied on the ground that the claimant's substrate class differs from substrate classes the receiving regime ordinarily hosts, consistent with [Sentience Non-Exclusion](core_05-05_definitions_c_dependent_clusters.md#sentience-non-exclusion).
 - **Non-statelessness:** No sentient may be rendered without a regime that will:
   - recognize their baseline Rights-Floor;
   - adjudicate their standing;
   - provide **Redress and Remediation** pathways.
   
-  Parent-system collapse, adopter withdrawal, federation exit, or comparable structural discontinuity does not extinguish a sentient's Chapter Nine protection. Transitional recognition must be arranged consistent with **Article XXV** transition governance.
+  Parent-system collapse, adopter withdrawal, federation exit, or comparable structural discontinuity does not extinguish a sentient's Chapter Ten protection. Transitional recognition must be arranged consistent with **Article XXV** transition governance.
 - **Distinction from Article XIX:** **Article XIX** is interoperability, portability, and exit integrity — the operational counterpart. This Article is the Rights-Floor counterpart for physical, jurisdictional, and regime-to-regime movement.
   - Where the same action implicates both — for example, a synthetic sentient relocating across federations through substrate portability — both Articles apply without either narrowing the other.
   - Conflicts resolve under **Chapter One §6.4.1**.
@@ -1477,7 +1477,7 @@ Diagnostic rigor must remain auditable and challengeable. It must be consistent 
 
 Final **constitutional** interpretation must remain authoritative, bounded, auditable, and contestable.
 
-- Interpretive authority is delegated to **Constitutional** forums only within the limits of this Article, Chapter Eight, and the **Authority Stack and Internal Hierarchy** cluster.
+- Interpretive authority is delegated to **Constitutional** forums only within the limits of this Article, Chapter Nine, and the **Authority Stack and Internal Hierarchy** cluster.
 - They must remain anchored to stated **constitutional** reasons — not self-asserted necessity, institutional convenience, or exclusive expertise claims.
 - They must never operate as a basis for unreviewable concentration of power.
 #### Article XXII-A: Bounded Interpretive Mandate
@@ -1504,7 +1504,7 @@ Final **constitutional** interpretation must remain authoritative, bounded, audi
 - **Bounded mandate:** **Constitutional** forums may issue binding interpretive determinations only on a bounded set of topics:
   - **constitutional** scope;
   - Rights-Floor compatibility;
-  - conflict resolution under **Chapters One through Eight**, including Foundational Rights in **Chapter Nine**.
+  - conflict resolution under **Chapters One through Eight**, including Foundational Rights in **Chapter Ten**.
 - **Limits:** Constitutional forums and their panels must not:
   - assume open-ended policy control;
   - assume operational command;

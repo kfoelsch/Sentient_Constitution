@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 """Disabled one-shot migration script for the pre-split Chapter Six layout.
 
-Chapter Six now lives in core_06-06_standing_classification.md and
-core_06-06_standing_integration.md. Do not rerun this historical renumberer.
+Chapter Six now lives in core_06-06_standing_assessment.md and
+core_07-07_standing_integration.md. Do not rerun this historical renumberer.
 """
 
 from __future__ import annotations
@@ -11,7 +11,7 @@ import re
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
-SRC = ROOT / "core_06-06_standing_classification.md"
+SRC = ROOT / "core_06-06_standing_assessment.md"
 
 
 def dual(html_id: str, new_first: str) -> str:
@@ -20,8 +20,8 @@ def dual(html_id: str, new_first: str) -> str:
 
 def main() -> None:
     raise SystemExit(
-        "Disabled: Chapter Six is split. Edit core_06-06_standing_classification.md "
-        "and core_06-06_standing_integration.md directly."
+        "Disabled: Chapter Six is split. Edit core_06-06_standing_assessment.md "
+        "and core_07-07_standing_integration.md directly."
     )
     text = SRC.read_text(encoding="utf-8")
 
@@ -51,7 +51,7 @@ def main() -> None:
 
 - Upstream: [§1](#1-purpose-and-role) (*two-axis frame*).
 - Downstream: [§3](#3-axis-i-contribution-state-and-standing-effect) (*Axis I*); [§4](#4-axis-ii-violation-nature-legal-constitutional-type) (*Axis II*); [§6](#6-cross-axis-coupling-and-escalation-constraints) (*joint assessment*).
-- Read with: [Chapter Eight](core_08-08_forum.md#chapter-eight-forums-and-jurisdiction) (*forums separate*).
+- Read with: [Chapter Nine](core_09-09_forum.md#chapter-nine-forums-and-jurisdiction) (*forums separate*).
 
 </details>
 

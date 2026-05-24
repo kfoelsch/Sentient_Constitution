@@ -5,7 +5,7 @@ This repository now includes an automated reference-integrity gate intended to r
 ## Plan -> Act -> Verify flow
 
 ### Plan
-- Canonical article map source: merged `### Article …:` headings from `core_09-09_rights_part_*.md` (see `tools/reference_audit.py`).
+- Canonical article map source: merged `### Article …:` headings from `core_10-10_rights_part_*.md` (see `tools/reference_audit.py`).
 - Scan scope (default for `make reference-audit`):
   - `core_*.md` (Sentient Constitution chapters), `corpus_*.md`, `doc_architecture.md`
   - Optional / suspended: `CONSTITUTIONAL_REGRESSION_SCENARIOS.md` when that file is present again
@@ -34,13 +34,13 @@ It does not prohibit selective same-file cross-definition links in the operative
 - Current scope: `core_05-05_definitions_a_independent.md`.
 - Failure mode: any `Read with:` line found outside a local `<details>` block is treated as a regression.
 
-### Chapter Nine subarticle trace coverage
+### Chapter Ten subarticle trace coverage
 
-The `tools/ch9_trace_audit.py` gate protects the Chapter Nine authoring rule that operative rights traces belong at the `#### Article …` subarticle level, not only at parent-article openings. It also requires a minimum navigation payload in each subarticle trace block: `Principles:` plus linked `Definitions:`.
+The `tools/ch9_trace_audit.py` gate protects the Chapter Ten authoring rule that operative rights traces belong at the `#### Article …` subarticle level, not only at parent-article openings. It also requires a minimum navigation payload in each subarticle trace block: `Principles:` plus linked `Definitions:`.
 
 - Validation: `make ch9-trace-audit` (also runs as part of `make regression`).
-- Current scope: `core_09-09_rights_part_a.md` through `core_09-09_rights_part_d.md`.
-- Failure mode: any Chapter Nine subarticle heading without a local `<details>` trace block, without a `Principles:` line, or without linked definition targets in `Definitions:` is treated as a regression.
+- Current scope: `core_10-10_rights_part_a.md` through `core_10-10_rights_part_d.md`.
+- Failure mode: any Chapter Ten subarticle heading without a local `<details>` trace block, without a `Principles:` line, or without linked definition targets in `Definitions:` is treated as a regression.
 
 ### Verify
 - Ensure the command exits successfully.

@@ -18,17 +18,17 @@ CH5 = Path("core_05-05_definitions_a_independent.md")
 CONSUMERS = [
     Path("core_00-01_principles.md"),
     Path("core_02-04_definition_mechanics.md"),
-    Path("core_06-06_standing_classification.md"),
-    Path("core_06-06_standing_integration.md"),
-    Path("core_07-07_misconduct.md"),
-    Path("core_08-08_forum.md"),
-    Path("core_09-09_rights_part_a.md"),
-    Path("core_09-09_rights_part_b.md"),
-    Path("core_09-09_rights_part_c.md"),
-    Path("core_09-09_rights_part_d.md"),
-    Path("core_10-10_governance.md"),
-    Path("core_11-13_amendment.md"),
-    Path("core_14-14_incorporation.md"),
+    Path("core_06-06_standing_assessment.md"),
+    Path("core_07-07_standing_integration.md"),
+    Path("core_08-08_misconduct.md"),
+    Path("core_09-09_forum.md"),
+    Path("core_10-10_rights_part_a.md"),
+    Path("core_10-10_rights_part_b.md"),
+    Path("core_10-10_rights_part_c.md"),
+    Path("core_10-10_rights_part_d.md"),
+    Path("core_11-11_governance.md"),
+    Path("core_12-14_amendment.md"),
+    Path("core_15-15_incorporation.md"),
 ]
 
 LINK_RE = re.compile(r"\]\(core_05-05_definitions_a_independent\.md#([^)]+)\)")

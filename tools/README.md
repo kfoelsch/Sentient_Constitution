@@ -6,7 +6,7 @@ Python utilities for this repository. Run from the repo root unless noted.
 
 | Target | Command |
 |--------|---------|
-| Article reference integrity (Chapter Nine part files) | `make reference-audit` |
+| Article reference integrity (Chapter Ten part files) | `make reference-audit` |
 | Regression scenario matrix checks | `make scenario-audit` |
 | Blocking regression bundle | `make regression` |
 | Markdown / prose / definitions gravity | `make corpus-markdown-audit`, `make prose-continuity-audit`, `make ch5-definitions-gravity-audit`, `make ch5-trace-crosslink-audit` |
@@ -19,13 +19,13 @@ Python utilities for this repository. Run from the repo root unless noted.
 | Regression bundle plus readability gate | `make regression-full` |
 | Institutional benchmark review | `make best-practices-check` |
 
-`reference_audit.py` builds the **canonical Chapter Nine map** from merged `### Article …:` headings in `core_09-09_rights_part_*.md` (falling back across part files as needed). If a citation fails the audit, fix the citing file or the heading—not the audit script.
+`reference_audit.py` builds the **canonical Chapter Ten map** from merged `### Article …:` headings in `core_10-10_rights_part_*.md` (falling back across part files as needed). If a citation fails the audit, fix the citing file or the heading—not the audit script.
 
 `ch5_trace_crosslink_audit.py` enforces the Chapter Five navigation-metadata rule: `Read with:` lines belong inside each entry's local `Trace` / `<details>` block, not in operative prose after the block closes. It does not ban selective same-file cross-definition links in O / E / C body text.
 
 `ch5_single_definition_audit.py` enforces the Chapter Five directory cleanup rule: one visible definition label, one directory row, no placeholder-only definition shells, and no repeated `Cluster members.` owner roster membership. Anchor fragments remain navigation targets only.
 
-`ch9_trace_audit.py` enforces the Chapter Nine trace-placement rule: each `#### Article …` subarticle in the rights split files must carry its own local `Trace` / `<details>` block, and each block must include both `Principles:` and linked `Definitions:` metadata.
+`ch9_trace_audit.py` enforces the Chapter Ten trace-placement rule: each `#### Article …` subarticle in the rights split files must carry its own local `Trace` / `<details>` block, and each block must include both `Principles:` and linked `Definitions:` metadata.
 
 `ch5_cluster_order_audit.py` guards selected Chapter Five compound §2 topic groups and §3 dependent clusters whose visible heading order is intended to mirror the internal entry/member order. Expand its expected set whenever a new compound heading is intentionally made order-bearing.
 
@@ -35,7 +35,7 @@ Python utilities for this repository. Run from the repo root unless noted.
 
 `plain_language_audit.py` is an advisory checker for jargon-heavy reader notes and navigation prose. It flags exact phrases such as `extended narrative context` and `non-operative explanatory framing`, plus dense guidance sentences that stack abstract terms instead of plain words. Start by running it manually and tune the rule list before promoting it into a blocking bundle.
 
-## Legacy Chapter Nine migration scripts
+## Legacy Chapter Ten migration scripts
 
 The following were used during **one-off structural rewrites** (readability order, planet-first Parts A–D, material-article insertion, likeness **Article VIII** split, **IX–XXIV** renumbering). They are **not** part of normal editing workflow.
 
@@ -43,10 +43,10 @@ The following were used during **one-off structural rewrites** (readability orde
 
 | Script | Notes |
 |--------|--------|
-| `ch7_map_iii_material_to_iv.py` | Old string-replacement map (material / agency article IDs); superseded by the current Chapter Nine part files. |
+| `ch7_map_iii_material_to_iv.py` | Old string-replacement map (material / agency article IDs); superseded by the current Chapter Ten part files. |
 | `ch7_reorder_readability_iv_ix.py` | Historical heading reorder pass. |
 | `ch7_article_renumber.py`, `ch7_bump_articles_iv_to_xxii.py`, `ch7_execute_planet_first_renumber.py`, `ch7_increment_from_info.py`, `ch7_fix_headings_post_cite.py` | Renumbering / heading fix helpers from migration windows. |
 | `ch7_constraint_stack_ab_regression.py` | A/B regression over Chapter One §7 constraint stack; legacy harness that expected a monolithic `core_constitution.md` (file not present in the split-corpus tree; see `Makefile`). |
 | `reletter_article_i.py` | Early Roman reletter experiment. |
 
-For **current** article numbers and titles, use `make reference-audit` or read Chapter Nine in `core_09-09_rights_part_*.md`.
+For **current** article numbers and titles, use `make reference-audit` or read Chapter Ten in `core_10-10_rights_part_*.md`.

@@ -1,18 +1,18 @@
 #!/usr/bin/env python3
 """Disabled one-shot prose migration script for the pre-split Chapter Six layout.
 
-Chapter Six now lives in core_06-06_standing_classification.md and
-core_06-06_standing_integration.md. Do not rerun this historical fixer.
+Chapter Six now lives in core_06-06_standing_assessment.md and
+core_07-07_standing_integration.md. Do not rerun this historical fixer.
 """
 
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 raise SystemExit(
-    "Disabled: Chapter Six is split. Edit core_06-06_standing_classification.md "
-    "and core_06-06_standing_integration.md directly."
+    "Disabled: Chapter Six is split. Edit core_06-06_standing_assessment.md "
+    "and core_07-07_standing_integration.md directly."
 )
-p = ROOT / "core_06-06_standing_classification.md"
+p = ROOT / "core_06-06_standing_assessment.md"
 t = p.read_text(encoding="utf-8")
 
 for i in range(8, 0, -1):

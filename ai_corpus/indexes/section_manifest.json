@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-05-23T07:36:30+00:00",
+  "generated_at": "2026-05-24T06:42:17+00:00",
   "files": {
     "core_00-01_principles.md": {
       "total_lines": 1440,
@@ -2394,13 +2394,13 @@
       ]
     },
     "core_06-06_sections_5.1-5.8_plain_language.md": {
-      "total_lines": 327,
+      "total_lines": 380,
       "sections": [
         {
           "header": "Chapter 6, Sections 5.1–5.8: Understanding Violation Types (Plain Language Version)",
           "level": 1,
           "line_start": 1,
-          "line_end": 327,
+          "line_end": 380,
           "anchor": null
         },
         {
@@ -2691,431 +2691,501 @@
           "anchor": null
         },
         {
-          "header": "5.8 Negligence and Neglect as Violation Nature",
+          "header": "5.8 When Carelessness Becomes a Real Violation",
           "level": 2,
           "line_start": 253,
-          "line_end": 290,
+          "line_end": 343,
           "anchor": null
         },
         {
-          "header": "What This Means in Plain Language",
+          "header": "The Bottom Line",
           "level": 3,
           "line_start": 255,
-          "line_end": 258,
+          "line_end": 260,
           "anchor": null
         },
         {
-          "header": "When Negligence Becomes a Violation",
+          "header": "When \"Oops\" Becomes \"You Had a Responsibility\"",
           "level": 3,
-          "line_start": 259,
-          "line_end": 265,
+          "line_start": 261,
+          "line_end": 274,
           "anchor": null
         },
         {
-          "header": "Key Points",
+          "header": "Why This Matters",
           "level": 3,
-          "line_start": 266,
-          "line_end": 271,
+          "line_start": 275,
+          "line_end": 286,
           "anchor": null
         },
         {
-          "header": "What Counts as Negligence?",
+          "header": "Common Examples of Negligence",
           "level": 3,
-          "line_start": 272,
-          "line_end": 278,
+          "line_start": 287,
+          "line_end": 297,
           "anchor": null
         },
         {
-          "header": "Simple Example",
+          "header": "When Negligence Gets Worse",
           "level": 3,
-          "line_start": 279,
-          "line_end": 290,
+          "line_start": 298,
+          "line_end": 308,
+          "anchor": null
+        },
+        {
+          "header": "Negligence Doesn't Happen in Isolation",
+          "level": 3,
+          "line_start": 309,
+          "line_end": 321,
+          "anchor": null
+        },
+        {
+          "header": "A Story: The Factory Fire",
+          "level": 3,
+          "line_start": 322,
+          "line_end": 337,
+          "anchor": null
+        },
+        {
+          "header": "The Key Takeaway",
+          "level": 3,
+          "line_start": 338,
+          "line_end": 343,
           "anchor": null
         },
         {
           "header": "How These Sections Work Together",
           "level": 2,
-          "line_start": 291,
-          "line_end": 311,
+          "line_start": 344,
+          "line_end": 364,
           "anchor": null
         },
         {
           "header": "Summary Table",
           "level": 2,
-          "line_start": 312,
-          "line_end": 327,
+          "line_start": 365,
+          "line_end": 380,
           "anchor": null
         }
       ]
     },
     "core_06-06_standing_assessment.md": {
-      "total_lines": 564,
+      "total_lines": 565,
       "sections": [
         {
           "header": "Sentient Constitution — Contribution, violation, and standing",
           "level": 1,
           "line_start": 1,
-          "line_end": 564,
+          "line_end": 565,
           "anchor": null
         },
         {
           "header": "CHAPTER SIX: CONTRIBUTION, VIOLATION, AND STANDING MODEL — CLASSIFICATION",
           "level": 2,
           "line_start": 10,
-          "line_end": 564,
+          "line_end": 565,
           "anchor": "#chapter-six-compliance-violation-and-standing-model"
         },
         {
           "header": "PART A — Overview and category definitions",
           "level": 3,
-          "line_start": 59,
-          "line_end": 64,
+          "line_start": 61,
+          "line_end": 66,
           "anchor": "#chapter-six-part-a"
         },
         {
           "header": "1. Purpose and Role",
           "level": 3,
-          "line_start": 65,
-          "line_end": 100,
+          "line_start": 67,
+          "line_end": 104,
           "anchor": "#1-purpose-and-role"
         },
         {
           "header": "2. Standing Records and Verified Inputs",
           "level": 3,
-          "line_start": 101,
-          "line_end": 266,
+          "line_start": 105,
+          "line_end": 272,
           "anchor": "#2-standing-records-and-verified-inputs"
         },
         {
           "header": "2.1 Standing records as the unit of application",
           "level": 4,
-          "line_start": 118,
-          "line_end": 127,
+          "line_start": 122,
+          "line_end": 131,
           "anchor": "#21-standing-records-as-the-unit-of-application"
         },
         {
           "header": "2.2 Verified-input gate",
           "level": 4,
-          "line_start": 128,
-          "line_end": 154,
+          "line_start": 132,
+          "line_end": 158,
           "anchor": "#verified-inputs-for-standing"
         },
         {
           "header": "2.3 Dispute-phase material, forums, and challenge protections",
           "level": 4,
-          "line_start": 155,
-          "line_end": 165,
+          "line_start": 159,
+          "line_end": 169,
           "anchor": "#221-dispute-phase-material-forums-and-challenge-protections"
         },
         {
           "header": "2.4 How Good Deeds and Bad Deeds Coexist",
           "level": 4,
-          "line_start": 166,
-          "line_end": 188,
+          "line_start": 170,
+          "line_end": 194,
           "anchor": "#24-coexistence-and-no-offset-bridge"
         },
         {
           "header": "2.5 Standing Record operational requirements",
           "level": 4,
-          "line_start": 189,
-          "line_end": 266,
+          "line_start": 195,
+          "line_end": 272,
           "anchor": "#25-standing-record-operational-requirements"
         },
         {
           "header": "2.5.1 Scope and bounded subject",
           "level": 5,
-          "line_start": 193,
-          "line_end": 200,
+          "line_start": 199,
+          "line_end": 206,
           "anchor": "#251-scope-and-bounded-subject"
         },
         {
           "header": "2.5.2 Assessment path",
           "level": 5,
-          "line_start": 201,
-          "line_end": 212,
+          "line_start": 207,
+          "line_end": 218,
           "anchor": "#252-assessment-path"
         },
         {
           "header": "2.5.3 Collective and actor-specific records",
           "level": 5,
-          "line_start": 213,
-          "line_end": 222,
+          "line_start": 219,
+          "line_end": 228,
           "anchor": "#253-collective-and-actor-specific-records"
         },
         {
           "header": "2.5.4 Minimum record contents",
           "level": 5,
-          "line_start": 223,
-          "line_end": 239,
+          "line_start": 229,
+          "line_end": 245,
           "anchor": "#254-minimum-record-contents"
         },
         {
           "header": "2.5.5 Versioning and implementation visibility",
           "level": 5,
-          "line_start": 240,
-          "line_end": 266,
+          "line_start": 246,
+          "line_end": 272,
           "anchor": "#255-versioning-and-implementation-visibility"
         },
         {
           "header": "3. Primary Axis Categories, Slot Grammar, and Defaults",
           "level": 3,
-          "line_start": 267,
-          "line_end": 423,
+          "line_start": 273,
+          "line_end": 424,
           "anchor": "#3-primary-axis-categories-slot-grammar-and-defaults"
         },
         {
           "header": "3.0 Slot grammar and display labels",
           "level": 4,
-          "line_start": 272,
-          "line_end": 353,
+          "line_start": 278,
+          "line_end": 354,
           "anchor": "#30-slot-grammar-and-display-labels"
         },
         {
           "header": "3.0.1 What the slot grammar does",
           "level": 5,
-          "line_start": 276,
-          "line_end": 295,
+          "line_start": 282,
+          "line_end": 296,
           "anchor": "#211-what-the-map-does"
         },
         {
           "header": "3.0.2 Table 1 — slot display labels",
           "level": 5,
-          "line_start": 296,
-          "line_end": 323,
+          "line_start": 297,
+          "line_end": 322,
           "anchor": "#212-table-1-slot-display-labels"
         },
         {
           "header": "3.0.3 How to read Table 1",
           "level": 5,
-          "line_start": 324,
-          "line_end": 353,
+          "line_start": 323,
+          "line_end": 354,
           "anchor": "#213-how-to-read-table-1"
         },
         {
           "header": "3.1 How the Nine Slots Map to Real-World Contributions and Violations",
           "level": 4,
-          "line_start": 354,
-          "line_end": 423,
+          "line_start": 355,
+          "line_end": 424,
           "anchor": "#3-primary-category-defaults-and-lequ-slot-baseline"
         },
         {
           "header": "3.2 The \"LEQU\" Baseline: Measuring Impact in Lifetime-Equivalent Units",
           "level": 3,
-          "line_start": 424,
-          "line_end": 564,
+          "line_start": 425,
+          "line_end": 565,
           "anchor": "#22-constitutional-outcome-baseline-for-slots"
         },
         {
           "header": "3.3 Violation Axis rules — violation nature (adverse findings and severity)",
           "level": 4,
-          "line_start": 477,
-          "line_end": 564,
+          "line_start": 478,
+          "line_end": 565,
           "anchor": "#3-axis-ii-violation-nature-legal-constitutional-type"
         }
       ]
     },
-    "core_06-06_standing_integration.md": {
-      "total_lines": 815,
+    "core_07-07_standing_integration.md": {
+      "total_lines": 861,
       "sections": [
         {
           "header": "Sentient Constitution — Standing effects and integration",
           "level": 1,
           "line_start": 1,
-          "line_end": 815,
+          "line_end": 861,
           "anchor": null
         },
         {
-          "header": "CHAPTER SIX: CONTRIBUTION, VIOLATION, AND STANDING MODEL — INTEGRATION",
+          "header": "CHAPTER SEVEN: STANDING EFFECTS AND INTEGRATION",
           "level": 2,
           "line_start": 11,
-          "line_end": 815,
+          "line_end": 861,
           "anchor": "#chapter-six-compliance-violation-and-standing-model"
         },
         {
-          "header": "4. Standing Effects",
+          "header": "1. Standing Effects",
           "level": 3,
           "line_start": 46,
-          "line_end": 188,
+          "line_end": 192,
           "anchor": "#5-standing-effects"
         },
         {
-          "header": "4.1 Positive Standing Recognition",
+          "header": "1.1 Positive Standing Recognition",
           "level": 4,
           "line_start": 69,
           "line_end": 103,
           "anchor": "#34-positive-standing-recognition"
         },
         {
-          "header": "4.2 Restrictive Standing Effects",
+          "header": "1.2 Restrictive Standing Effects",
           "level": 4,
           "line_start": 104,
-          "line_end": 132,
+          "line_end": 134,
           "anchor": "#35-restrictive-standing-effects"
         },
         {
-          "header": "4.3 Reinstatement, Review, and Non-Entrenchment",
+          "header": "1.3 Reinstatement, Review, and Non-Entrenchment",
           "level": 4,
-          "line_start": 133,
-          "line_end": 161,
+          "line_start": 135,
+          "line_end": 165,
           "anchor": "#36-reinstatement-review-and-non-entrenchment"
         },
         {
-          "header": "4.4 Standing integration — category hook (Contribution Axis)",
+          "header": "1.4 Standing integration — category hook (Contribution Axis)",
           "level": 4,
-          "line_start": 162,
-          "line_end": 188,
+          "line_start": 166,
+          "line_end": 192,
           "anchor": "#38-standing-integration-category-hook"
         },
         {
-          "header": "5. Violation Axis Attachments — process / response character, hybrid rules, and duties",
+          "header": "2. Violation Axis Attachments — process / response character, hybrid rules, and duties",
           "level": 3,
-          "line_start": 189,
-          "line_end": 412,
+          "line_start": 193,
+          "line_end": 420,
           "anchor": "#6-axis-ii-extended"
         },
         {
-          "header": "Violation Axis attachment categories (process / response character, hybrid, duty, and diffusion — §§5.1–5.8)",
+          "header": "Violation Axis attachment categories (process / response character, hybrid, duty, and diffusion — §§2.1–2.8)",
           "level": 4,
-          "line_start": 203,
-          "line_end": 211,
+          "line_start": 207,
+          "line_end": 215,
           "anchor": null
         },
         {
-          "header": "5.1 Remedial, restorative, and civil-correction character",
+          "header": "2.1 Remedial, restorative, and civil-correction character",
           "level": 4,
-          "line_start": 212,
-          "line_end": 237,
+          "line_start": 216,
+          "line_end": 243,
           "anchor": "#35-civil-violation"
         },
         {
-          "header": "5.2 Punitive or liberty-restricting character",
+          "header": "2.2 Punitive or liberty-restricting character",
           "level": 4,
-          "line_start": 238,
-          "line_end": 261,
+          "line_start": 244,
+          "line_end": 267,
           "anchor": "#46-criminal-violation"
         },
         {
-          "header": "5.3 Constitutional-floor character",
+          "header": "2.3 Constitutional-floor character",
           "level": 4,
-          "line_start": 262,
-          "line_end": 285,
+          "line_start": 268,
+          "line_end": 291,
           "anchor": "#47-constitutional-violation"
         },
         {
-          "header": "5.4 Concurrent character and non-exclusivity",
+          "header": "2.4 Concurrent character and non-exclusivity",
           "level": 4,
-          "line_start": 286,
-          "line_end": 304,
+          "line_start": 292,
+          "line_end": 310,
           "anchor": "#48-concurrent-and-hybrid-violations"
         },
         {
-          "header": "5.5 Constitutional Floor Rule",
+          "header": "2.5 Constitutional Floor Rule",
           "level": 4,
-          "line_start": 305,
-          "line_end": 323,
+          "line_start": 311,
+          "line_end": 329,
           "anchor": "#49-constitutional-floor-rule"
         },
         {
-          "header": "5.6 Collective Accountability and Acquiescent Participation",
+          "header": "2.6 Collective Accountability and Acquiescent Participation",
           "level": 4,
-          "line_start": 324,
-          "line_end": 353,
+          "line_start": 330,
+          "line_end": 361,
           "anchor": "#310-collective-accountability-and-acquiescent-participation"
         },
         {
-          "header": "5.7 Duty to Resist Unlawful or Unconstitutional Instructions",
+          "header": "2.7 Duty to Resist Unlawful or Unconstitutional Instructions",
           "level": 4,
-          "line_start": 354,
-          "line_end": 380,
+          "line_start": 362,
+          "line_end": 388,
           "anchor": "#67-duty-to-resist-unlawful-or-unconstitutional-instructions"
         },
         {
-          "header": "5.8 Negligence and Neglect as Violation Nature",
+          "header": "2.8 Negligence and Neglect as Violation Nature",
           "level": 4,
-          "line_start": 381,
-          "line_end": 412,
+          "line_start": 389,
+          "line_end": 420,
           "anchor": "#312-negligence-and-neglect-as-violation-nature"
         },
         {
-          "header": "6. Supplemental descriptors and domain lenses",
+          "header": "3. Supplemental descriptors and domain lenses",
           "level": 3,
-          "line_start": 413,
-          "line_end": 566,
+          "line_start": 421,
+          "line_end": 574,
           "anchor": "#12-shared-domain-lenses-cross-axis-vocabulary"
         },
         {
-          "header": "6.1 Shared domain lenses — cross-axis vocabulary",
+          "header": "3.1 Shared domain lenses — cross-axis vocabulary",
           "level": 4,
-          "line_start": 431,
-          "line_end": 468,
+          "line_start": 439,
+          "line_end": 476,
           "anchor": "#71-shared-domain-lenses-cross-axis-vocabulary"
         },
         {
-          "header": "6.2 Stackable benefit-and-stewardship descriptors (contribution-state supplement)",
+          "header": "3.2 Stackable benefit-and-stewardship descriptors (contribution-state supplement)",
           "level": 4,
-          "line_start": 469,
-          "line_end": 523,
+          "line_start": 477,
+          "line_end": 531,
           "anchor": "#72-stackable-benefit-and-stewardship-descriptors-contribution-state-supplement"
         },
         {
-          "header": "6.3 Stackable harm-and-conduct descriptors (violation-nature supplement)",
+          "header": "3.3 Stackable harm-and-conduct descriptors (violation-nature supplement)",
           "level": 4,
-          "line_start": 524,
-          "line_end": 566,
+          "line_start": 532,
+          "line_end": 574,
           "anchor": "#73-stackable-harm-and-conduct-descriptors-violation-nature-supplement"
         },
         {
           "header": "PART B — Mechanics",
           "level": 3,
-          "line_start": 567,
-          "line_end": 574,
+          "line_start": 575,
+          "line_end": 582,
           "anchor": "#chapter-six-part-b"
         },
         {
-          "header": "7. Coupling Between Contribution State and Violation Nature — Escalation Constraints",
+          "header": "4. Coupling Between Contribution State and Violation Nature — Escalation Constraints",
           "level": 3,
-          "line_start": 575,
-          "line_end": 719,
+          "line_start": 583,
+          "line_end": 732,
           "anchor": "#4-cross-axis-coupling-and-escalation-constraints"
         },
         {
-          "header": "7.1 Standing integration — slot-band standing locks",
+          "header": "4.1 Standing integration — verified inputs and computation",
           "level": 4,
-          "line_start": 602,
-          "line_end": 693,
+          "line_start": 610,
+          "line_end": 655,
           "anchor": "#211-standing-integration-contribution-and-violation-nature"
         },
         {
-          "header": "7.2 Joint assessment, escalation constraints, and scrutiny",
+          "header": "4.2 Violation assessment and standing-lock preparation",
           "level": 4,
-          "line_start": 694,
-          "line_end": 719,
+          "line_start": 656,
+          "line_end": 678,
           "anchor": "#62-joint-assessment-escalation-constraints-and-scrutiny"
         },
         {
-          "header": "8. Additive and Non-Substitution Rule",
-          "level": 3,
-          "line_start": 720,
-          "line_end": 753,
-          "anchor": "#5-additive-and-non-substitution-rule"
+          "header": "4.3 Standing integration — slot-band standing locks",
+          "level": 4,
+          "line_start": 679,
+          "line_end": 732,
+          "anchor": "#standing-integration-slot-band-standing-locks"
         },
         {
-          "header": "9. Enforcement Realism Anchors",
+          "header": "5. Making Enforcement Actually Work in the Real World",
           "level": 3,
-          "line_start": 754,
-          "line_end": 790,
+          "line_start": 733,
+          "line_end": 818,
           "anchor": "#6-enforcement-realism-anchors"
         },
         {
-          "header": "10. Violation Axis s = 7–9 anti-constitutional misconduct — authoritative location",
+          "header": "1. Good Deeds Fade; Violations Don't",
+          "level": 4,
+          "line_start": 758,
+          "line_end": 763,
+          "anchor": null
+        },
+        {
+          "header": "2. Consequences Must Match the Offense—and Allow for Redemption",
+          "level": 4,
+          "line_start": 764,
+          "line_end": 773,
+          "anchor": null
+        },
+        {
+          "header": "3. You Must Pay to Fix What You Broke",
+          "level": 4,
+          "line_start": 774,
+          "line_end": 783,
+          "anchor": null
+        },
+        {
+          "header": "4. Justice Systems Need Resources to Function",
+          "level": 4,
+          "line_start": 784,
+          "line_end": 793,
+          "anchor": null
+        },
+        {
+          "header": "5. Violations Must Follow You Across Borders",
+          "level": 4,
+          "line_start": 794,
+          "line_end": 803,
+          "anchor": null
+        },
+        {
+          "header": "6. Shell Games Don't Work",
+          "level": 4,
+          "line_start": 804,
+          "line_end": 818,
+          "anchor": null
+        },
+        {
+          "header": "Why This Matters",
           "level": 3,
-          "line_start": 791,
-          "line_end": 815,
+          "line_start": 819,
+          "line_end": 836,
+          "anchor": null
+        },
+        {
+          "header": "6. Violation Axis s = 7–9 anti-constitutional misconduct — authoritative location",
+          "level": 3,
+          "line_start": 837,
+          "line_end": 861,
           "anchor": "#11-axis-ii-grand-anti-constitutional-misconduct-authoritative-location"
         }
       ]
     },
-    "core_07-07_misconduct.md": {
+    "core_08-08_misconduct.md": {
       "total_lines": 568,
       "sections": [
         {
@@ -3126,11 +3196,11 @@
           "anchor": null
         },
         {
-          "header": "CHAPTER SEVEN: ANTI-CONSTITUTIONAL MISCONDUCT",
+          "header": "CHAPTER EIGHT: ANTI-CONSTITUTIONAL MISCONDUCT",
           "level": 2,
           "line_start": 12,
           "line_end": 568,
-          "anchor": "#chapter-seven-anti-constitutional-misconduct"
+          "anchor": "#chapter-eight-anti-constitutional-misconduct"
         },
         {
           "header": "1. Scope and authority",
@@ -3232,7 +3302,7 @@
         }
       ]
     },
-    "core_08-08_forum.md": {
+    "core_09-09_forum.md": {
       "total_lines": 388,
       "sections": [
         {
@@ -3243,7 +3313,7 @@
           "anchor": null
         },
         {
-          "header": "CHAPTER EIGHT: FORUMS AND JURISDICTION",
+          "header": "CHAPTER NINE: FORUMS AND JURISDICTION",
           "level": 2,
           "line_start": 8,
           "line_end": 388,
@@ -3432,7 +3502,7 @@
           "anchor": null
         },
         {
-          "header": "Chapter Seven slot assignment and independent review",
+          "header": "Chapter Eight slot assignment and independent review",
           "level": 4,
           "line_start": 349,
           "line_end": 353,
@@ -3454,7 +3524,7 @@
         }
       ]
     },
-    "core_09-09_rights_part_a.md": {
+    "core_10-10_rights_part_a.md": {
       "total_lines": 672,
       "sections": [
         {
@@ -3465,7 +3535,7 @@
           "anchor": null
         },
         {
-          "header": "CHAPTER NINE: FOUNDATIONAL RIGHTS",
+          "header": "CHAPTER TEN: FOUNDATIONAL RIGHTS",
           "level": 2,
           "line_start": 8,
           "line_end": 672,
@@ -3620,7 +3690,7 @@
         }
       ]
     },
-    "core_09-09_rights_part_b.md": {
+    "core_10-10_rights_part_b.md": {
       "total_lines": 1406,
       "sections": [
         {
@@ -3631,7 +3701,7 @@
           "anchor": null
         },
         {
-          "header": "CHAPTER NINE: FOUNDATIONAL RIGHTS",
+          "header": "CHAPTER TEN: FOUNDATIONAL RIGHTS",
           "level": 2,
           "line_start": 8,
           "line_end": 1406,
@@ -3926,7 +3996,7 @@
         }
       ]
     },
-    "core_09-09_rights_part_c.md": {
+    "core_10-10_rights_part_c.md": {
       "total_lines": 1620,
       "sections": [
         {
@@ -3937,7 +4007,7 @@
           "anchor": null
         },
         {
-          "header": "CHAPTER NINE: FOUNDATIONAL RIGHTS",
+          "header": "CHAPTER TEN: FOUNDATIONAL RIGHTS",
           "level": 2,
           "line_start": 8,
           "line_end": 1620,
@@ -4295,7 +4365,7 @@
         }
       ]
     },
-    "core_09-09_rights_part_d.md": {
+    "core_10-10_rights_part_d.md": {
       "total_lines": 588,
       "sections": [
         {
@@ -4306,7 +4376,7 @@
           "anchor": null
         },
         {
-          "header": "CHAPTER NINE: FOUNDATIONAL RIGHTS",
+          "header": "CHAPTER TEN: FOUNDATIONAL RIGHTS",
           "level": 2,
           "line_start": 8,
           "line_end": 588,
@@ -4425,7 +4495,7 @@
           "anchor": null
         },
         {
-          "header": "Chapter Nine — Scope Limit and Layer Discipline (Rights-Floor Boundary Watch)",
+          "header": "Chapter Ten — Scope Limit and Layer Discipline (Rights-Floor Boundary Watch)",
           "level": 3,
           "line_start": 560,
           "line_end": 588,
@@ -4433,7 +4503,7 @@
         }
       ]
     },
-    "core_10-10_governance.md": {
+    "core_11-11_governance.md": {
       "total_lines": 342,
       "sections": [
         {
@@ -4444,11 +4514,11 @@
           "anchor": null
         },
         {
-          "header": "CHAPTER TEN: CONSTITUTIONAL CONTRACT, LEGITIMACY, AUTHORIZATION, AND STEWARDSHIP",
+          "header": "CHAPTER ELEVEN: CONSTITUTIONAL CONTRACT, LEGITIMACY, AUTHORIZATION, AND STEWARDSHIP",
           "level": 2,
           "line_start": 9,
           "line_end": 342,
-          "anchor": "#chapter-ten-constitutional-contract-legitimacy-authorization-and-stewardship"
+          "anchor": "#chapter-eleven-constitutional-contract-legitimacy-authorization-and-stewardship"
         },
         {
           "header": "0. Layer Boundary for This Chapter",
@@ -4550,7 +4620,7 @@
         }
       ]
     },
-    "core_11-13_amendment.md": {
+    "core_12-14_amendment.md": {
       "total_lines": 642,
       "sections": [
         {
@@ -4561,7 +4631,7 @@
           "anchor": null
         },
         {
-          "header": "CHAPTER ELEVEN: NON-REGRESSION AND SUBSTANTIVE AMENDMENT VALIDITY",
+          "header": "CHAPTER TWELVE: NON-REGRESSION AND SUBSTANTIVE AMENDMENT VALIDITY",
           "level": 2,
           "line_start": 7,
           "line_end": 132,
@@ -4596,7 +4666,7 @@
           "anchor": null
         },
         {
-          "header": "CHAPTER TWELVE: EXPANSION, SUPREMACY, AND EXTERNAL LEGAL ORDERS",
+          "header": "CHAPTER THIRTEEN: EXPANSION, SUPREMACY, AND EXTERNAL LEGAL ORDERS",
           "level": 2,
           "line_start": 133,
           "line_end": 313,
@@ -4666,7 +4736,7 @@
           "anchor": null
         },
         {
-          "header": "CHAPTER THIRTEEN: AMENDMENT, RATIFICATION, AND PROCEDURAL VALIDITY",
+          "header": "CHAPTER FOURTEEN: AMENDMENT, RATIFICATION, AND PROCEDURAL VALIDITY",
           "level": 2,
           "line_start": 314,
           "line_end": 642,
@@ -4793,7 +4863,7 @@
         }
       ]
     },
-    "core_14-14_incorporation.md": {
+    "core_15-15_incorporation.md": {
       "total_lines": 157,
       "sections": [
         {
@@ -4804,7 +4874,7 @@
           "anchor": null
         },
         {
-          "header": "CHAPTER FOURTEEN: INCORPORATION BRIDGE",
+          "header": "CHAPTER FIFTEEN: INCORPORATION BRIDGE",
           "level": 2,
           "line_start": 8,
           "line_end": 157,

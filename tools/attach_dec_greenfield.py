@@ -5,12 +5,12 @@ inside Trace.
 
 Scope (per ``doc_architecture.md`` rule 12, 2026-04-16 D/E/C split):
 - Operates only on the five existing consumer files (``core_00-01_principles.md``
-  + ``core_09-09_rights_part_a..d.md``).
+  + ``core_10-10_rights_part_a..d.md``).
 - Sections targeted are listed in ``ATTACHMENTS`` below: each entry pairs a
   unique heading-line text with the explicitly invoked Chapter Five concepts
   for that section. The list is the audit trail of this fan-out pass.
 - "Owning unit" choice follows ``doc_architecture.md`` rule 9: subarticle for
-  Chapter Nine, subsection elsewhere. Article-level openers in Chapter Nine
+  Chapter Ten, subsection elsewhere. Article-level openers in Chapter Ten
   appear here only where the opener carries shared opening doctrine that
   materially binds across the whole article.
 - Concept threshold is "explicit only": each attributed concept is named in
@@ -367,14 +367,14 @@ ATTACHMENTS: list[tuple[str, str, list[str]]] = [
             "Governance",
         ],
     ),
-    # ---------------- core_09-09_rights_part_a.md ----------------
+    # ---------------- core_10-10_rights_part_a.md ----------------
     (
-        "core_09-09_rights_part_a.md",
+        "core_10-10_rights_part_a.md",
         "### Article I: Environmental Survival",
         ["Environmental Preconditions (Constitutional)"],
     ),
     (
-        "core_09-09_rights_part_a.md",
+        "core_10-10_rights_part_a.md",
         "### Article II: Material Stewardship and Durable-Use Integrity",
         [
             "Ecological Footprint",
@@ -382,9 +382,9 @@ ATTACHMENTS: list[tuple[str, str, list[str]]] = [
             "Materiality",
         ],
     ),
-    # ---------------- core_09-09_rights_part_b.md ----------------
+    # ---------------- core_10-10_rights_part_b.md ----------------
     (
-        "core_09-09_rights_part_b.md",
+        "core_10-10_rights_part_b.md",
         "### Article VI: Right to Sentient-Centered Education",
         [
             "Educational Agency",
@@ -394,7 +394,7 @@ ATTACHMENTS: list[tuple[str, str, list[str]]] = [
         ],
     ),
     (
-        "core_09-09_rights_part_b.md",
+        "core_10-10_rights_part_b.md",
         "### Article IX: Self-Determination and Agency",
         [
             "Self-Determination (Constitutional)",
@@ -404,7 +404,7 @@ ATTACHMENTS: list[tuple[str, str, list[str]]] = [
         ],
     ),
     (
-        "core_09-09_rights_part_b.md",
+        "core_10-10_rights_part_b.md",
         "### Article X: Cooperative Interaction",
         [
             "Constitutional Community",
@@ -413,7 +413,7 @@ ATTACHMENTS: list[tuple[str, str, list[str]]] = [
         ],
     ),
     (
-        "core_09-09_rights_part_b.md",
+        "core_10-10_rights_part_b.md",
         "### Article XI: Stakeholder System Participation, Representation, and Due Process",
         [
             "Stakeholder",
@@ -423,9 +423,9 @@ ATTACHMENTS: list[tuple[str, str, list[str]]] = [
             "Procedural Fairness (Constitutional)",
         ],
     ),
-    # ---------------- core_09-09_rights_part_c.md ----------------
+    # ---------------- core_10-10_rights_part_c.md ----------------
     (
-        "core_09-09_rights_part_c.md",
+        "core_10-10_rights_part_c.md",
         "### Article XII: Right to Reliable and Trustworthy Systems",
         [
             "Trustworthiness",
@@ -435,7 +435,7 @@ ATTACHMENTS: list[tuple[str, str, list[str]]] = [
         ],
     ),
     (
-        "core_09-09_rights_part_c.md",
+        "core_10-10_rights_part_c.md",
         "### Article XIII: Info-Sphere Integrity",
         [
             "Epistemic Integrity",
@@ -444,7 +444,7 @@ ATTACHMENTS: list[tuple[str, str, list[str]]] = [
         ],
     ),
     (
-        "core_09-09_rights_part_c.md",
+        "core_10-10_rights_part_c.md",
         "### Article XIV: Audit, Transparency, and Independent Verification",
         [
             "Auditability",
@@ -455,7 +455,7 @@ ATTACHMENTS: list[tuple[str, str, list[str]]] = [
         ],
     ),
     (
-        "core_09-09_rights_part_c.md",
+        "core_10-10_rights_part_c.md",
         "### Article XV: System Lifecycle, Environments, and Reversibility",
         [
             "Risk",
@@ -468,7 +468,7 @@ ATTACHMENTS: list[tuple[str, str, list[str]]] = [
         ],
     ),
     (
-        "core_09-09_rights_part_c.md",
+        "core_10-10_rights_part_c.md",
         "### Article XVII: Standing, Reputation, and Participation Status",
         [
             "Participant Standing (Constitutional)",
@@ -480,12 +480,12 @@ ATTACHMENTS: list[tuple[str, str, list[str]]] = [
         ],
     ),
     (
-        "core_09-09_rights_part_c.md",
+        "core_10-10_rights_part_c.md",
         "### Article XIX: Interoperability, Portability, and Exit Integrity",
         ["Systemic Lock-In"],
     ),
     (
-        "core_09-09_rights_part_c.md",
+        "core_10-10_rights_part_c.md",
         "### Article XIX: Comprehensibility and Complexity Stewardship",
         [
             "Productive Capacity (Constitutional)",
@@ -500,7 +500,7 @@ ATTACHMENTS: list[tuple[str, str, list[str]]] = [
         ],
     ),
     (
-        "core_09-09_rights_part_c.md",
+        "core_10-10_rights_part_c.md",
         "### Article XX: Root Cause Analysis and Adaptive Response",
         [
             "Materiality",
@@ -510,7 +510,7 @@ ATTACHMENTS: list[tuple[str, str, list[str]]] = [
         ],
     ),
     (
-        "core_09-09_rights_part_c.md",
+        "core_10-10_rights_part_c.md",
         "### Article XXII: Constitutional Interpretation, Review, and Anti-Capture Safeguards",
         [
             "Authority Stack",
@@ -519,9 +519,9 @@ ATTACHMENTS: list[tuple[str, str, list[str]]] = [
             "Contestability",
         ],
     ),
-    # ---------------- core_09-09_rights_part_d.md ----------------
+    # ---------------- core_10-10_rights_part_d.md ----------------
     (
-        "core_09-09_rights_part_d.md",
+        "core_10-10_rights_part_d.md",
         "### Article XXII: Conflict Resolution, Escalation, and Emergency Proportionality",
         [
             "Adjudication and Dispute Resolution (Constitutional)",
@@ -531,12 +531,12 @@ ATTACHMENTS: list[tuple[str, str, list[str]]] = [
         ],
     ),
     (
-        "core_09-09_rights_part_d.md",
+        "core_10-10_rights_part_d.md",
         "### Article XXIII: Constitutional Evolution and Non-Entrenchment",
         ["Governance"],
     ),
     (
-        "core_09-09_rights_part_d.md",
+        "core_10-10_rights_part_d.md",
         "### Article XXIV: Transition Governance, Continuity, and Re-Baselining",
         ["Governance"],
     ),

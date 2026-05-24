@@ -1,11 +1,11 @@
 # Sentient Constitution — Foundational Rights (Part D)
 
-This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one instrument. It contains **Chapter Nine, Part D**; article numbering and cross-references match the integrated instrument. Reading order, the binding/support split, and corpus edition metadata are maintained in [README.md](README.md).
+This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one instrument. It contains **Chapter Ten, Part D**; article numbering and cross-references match the integrated instrument. Reading order, the binding/support split, and corpus edition metadata are maintained in [README.md](README.md).
 
-Read this file together with [core_09-09_rights_part_a.md](core_09-09_rights_part_a.md), which carries the chapter-wide opening contract, default constraint stack, reading-order explanation, interpretive hubs, and reader map for Chapter Nine.
+Read this file together with [core_10-10_rights_part_a.md](core_10-10_rights_part_a.md), which carries the chapter-wide opening contract, default constraint stack, reading-order explanation, interpretive hubs, and reader map for Chapter Ten.
 
 ---
-## CHAPTER NINE: FOUNDATIONAL RIGHTS
+## CHAPTER TEN: FOUNDATIONAL RIGHTS
 
 ### Part D: Justice, constitutional review, evolution, and transition
 
@@ -95,25 +95,25 @@ Adopted governance implementation provides escalation, proportionality of interv
   - accountable attribution supported by auditable evidence under **Chapters Two through Four**.
 - **Individualized burden:** Any such measure must remain individualized, attributable, and reviewable.
   - Severity labels, public condemnation, or administrative convenience do not substitute for the joint showing above.
-- **Anti-constitutional misconduct (slot anchor):** **Chapter Seven** (*Anti-Constitutional Misconduct*) classifies **anti-constitutional misconduct** using the criteria in **section 2**, **unified-incident** assessment, and final **Violation Axis s = 7, 8, or 9** slot assignment in **section 3**.
-  - That includes anti-constitutional misconduct in **constitutional change** under **Chapters Eleven through Thirteen**, and **forcible subversion**, **operative nullification**, or **regressive deception** evaluated **globally** where those criteria are implicated.
+- **Anti-constitutional misconduct (slot anchor):** **Chapter Eight** (*Anti-Constitutional Misconduct*) classifies **anti-constitutional misconduct** using the criteria in **section 2**, **unified-incident** assessment, and final **Violation Axis s = 7, 8, or 9** slot assignment in **section 3**.
+  - That includes anti-constitutional misconduct in **constitutional change** under **Chapters Twelve through Fourteen**, and **forcible subversion**, **operative nullification**, or **regressive deception** evaluated **globally** where those criteria are implicated.
   - For **maximum-sanction** rules in this Article:
     - **s = 8** (*Defector: mid-level anti-constitutional misconduct*) and **s = 9** (*Defector: major-level anti-constitutional misconduct*) are the **constitutional-crime-level** slots;
     - **s = 7** (*Defector: minor-level anti-constitutional misconduct*) is not.
-  - No final **s = 8** or **s = 9** assignment may issue except under **Chapter Seven §4**.
-- **Slot-limit clarification:** A **Chapter Seven** slot classification is a threshold condition only.
+  - No final **s = 8** or **s = 9** assignment may issue except under **Chapter Eight §4**.
+- **Slot-limit clarification:** A **Chapter Eight** slot classification is a threshold condition only.
   - It does **not** replace the **joint requirements**, individualized attribution, or challenge and appeal protections in this Article.
   - No slot assignment — including **s = 8** or **s = 9** — authorizes irreversible sanction as deprivation of life. The *Categorical prohibition of irreversible sanction as deprivation of life* bullet below governs.
 - **Categorical prohibition of irreversible sanction as deprivation of life:** Deprivation of life as a sanction by state, operator, or comparable actor is **non-compliant without exception** under **Sentience Non-Exclusion**.
   - No mechanism re-introduces the sanction or creates a durable exception authority. In scope:
-    - **Chapter Seven** slot classification (including **s = 8** or **s = 9**);
+    - **Chapter Eight** slot classification (including **s = 8** or **s = 9**);
     - **Article XXIII-D** emergency framing;
     - **Article XXV** transition or re-baselining authority;
     - any comparable mechanism.
-  - Where the underlying concern is material safety necessity that cannot be met through time-limited or reversible measures, **durable containment** under **Article XXIII-C** (*Least-Restrictive and Time-Bounded Rule*) is the Chapter Nine pathway. Such containment remains subject to:
+  - Where the underlying concern is material safety necessity that cannot be met through time-limited or reversible measures, **durable containment** under **Article XXIII-C** (*Least-Restrictive and Time-Bounded Rule*) is the Chapter Ten pathway. Such containment remains subject to:
     - the *Joint requirements*, *Individualized burden*, and *Escalation and Review* bullets of this Article and **Article XXIII-C**;
     - **Chapter Five** *Reversibility*, *Redress and Remediation*, and *Dignity and Equal Moral Standing*.
-  - Adopter instruments that currently permit the sanction transition under **Chapter Fourteen** incorporation discipline — strictest-applicable-level per §3 and the **Chapter Eleven** non-regression floor. This transition **does not** create a durable exception authority under **Article XXV**.
+  - Adopter instruments that currently permit the sanction transition under **Chapter Fifteen** incorporation discipline — strictest-applicable-level per §3 and the **Chapter Twelve** non-regression floor. This transition **does not** create a durable exception authority under **Article XXV**.
   - Read with **Chapter Five** *[Irreversible Sanction](core_05-05_definitions_b_semi_independent.md#irreversible-sanction-constitutional)*.
   - **Anti-relabeling:** Any framing that re-labels an involuntarily-imposed outcome as "voluntary" to route around this bullet and into **Article VII-E** remains governed by this bullet and by **Chapter Five** *Voluntary Discontinuation*.
     - The sentient's own freely-formed decision remains governed by **Article VII-E**.
@@ -148,7 +148,7 @@ Adopted governance implementation provides escalation, proportionality of interv
   - irreversible punitive measures where reversibility is feasible;
   - restrictions lacking auditable re-evaluation triggers.
 - **Deprivation of life:** Deprivation of life as a sanction is **categorically prohibited** under **Article XXIII-B** (*Categorical prohibition of irreversible sanction as deprivation of life*).
-  - **Durable containment** under this bullet — subject to duration-limit, review-cadence, restoration-condition, and auditable-re-evaluation requirements — is the Chapter Nine pathway for threats that cannot be addressed by time-limited or reversible measures.
+  - **Durable containment** under this bullet — subject to duration-limit, review-cadence, restoration-condition, and auditable-re-evaluation requirements — is the Chapter Ten pathway for threats that cannot be addressed by time-limited or reversible measures.
 - **Prohibited punitive bases:** Sanctions or restrictions must not be justified by any of the following:
   - vengeance;
   - humiliation-for-its-own-sake;
@@ -216,7 +216,7 @@ Adopted governance implementation provides escalation, proportionality of interv
 - **No normalization:** Emergency measures must not normalize into permanent governance without:
   - **Chapter One**-consistent justification (**Necessity** and **Proportionality**);
   - **documented independent reauthorization**;
-  - **Chapter Thirteen** procedures where permanence would amend or newly bind the adopted corpus.
+  - **Chapter Fifteen** procedures where permanence would amend or newly bind the adopted corpus.
 #### Article XXIII-E: Retrospective Review and Disclosure
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
@@ -359,7 +359,7 @@ Inertia, convenience, and historical precedent alone cannot entrench arrangement
 - **Material-change record:** Material changes must carry:
   - public reasons;
   - expected effects;
-  - compatibility with **Chapters Eleven through Thirteen** where applicable.
+  - compatibility with **Chapters Twelve through Fourteen** where applicable.
 - **Anti-bypass:** Changes must not be used to bypass any of the following by routing substantive change through emergency, implementation, or custody mechanisms:
   - **Articles V** and **VI**;
   - equality guarantees in **Articles V-B** and **III-B**;
@@ -510,7 +510,7 @@ Transitional governance exists to secure continuity and non-regression. It must 
     - **Article X-B**;
     - **Chapter Six**;
     - **Chapter One**, including §6 rights-collision procedure;
-    - the **default constraint stack** at the opening of Chapter Nine.
+    - the **default constraint stack** at the opening of Chapter Ten.
   - Assets whose continued operation **materially perpetuates** known non-compliance at scale — after a **documented** Chapter Six determination — are not immunized.
 - **Transition-scoped deprivation:** A **documented transition plan** under **Article XXV-A** may authorize **accelerated remediation** of **materially non-compliant** systems or property. In scope:
   - systems within **Article XII-E**;
@@ -549,7 +549,7 @@ Transitional governance exists to secure continuity and non-regression. It must 
   An exception applies only where:
   - **Necessity** is documented under **Chapter One §6.4**;
   - **timely substitute provision** is feasible where required.
-- **Implementation custody:** The following belong in **`corpus_institutions.md` CI-14** and adopting instruments, and must **not** narrow **Chapter Nine** or **Chapter Six** meaning:
+- **Implementation custody:** The following belong in **`corpus_institutions.md` CI-14** and adopting instruments, and must **not** narrow **Chapter Ten** or **Chapter Six** meaning:
   - triggers;
   - valuation;
   - appeal;
@@ -557,32 +557,32 @@ Transitional governance exists to secure continuity and non-regression. It must 
   - fund governance;
   - adversarial review.
 
-### Chapter Nine — Scope Limit and Layer Discipline (Rights-Floor Boundary Watch)
+### Chapter Ten — Scope Limit and Layer Discipline (Rights-Floor Boundary Watch)
 
-This closing section is operative for **Chapter Nine** as a whole and applies across **Parts A through D** (Articles **I** through **XXV**, including all sub-articles).
+This closing section is operative for **Chapter Ten** as a whole and applies across **Parts A through D** (Articles **I** through **XXV**, including all sub-articles).
 
-This chapter states **Rights Floors and rights-level interpretive scope** for sentients (substrate-agnostic under *Sentience Non-Exclusion*). Rights-Floor language operates at the Rights-Floor layer; designated implementation layers operationalize these rights but must not narrow, redefine, or relocate them, as already stated at the opening of **Part A**. This section operates the converse-direction discipline: **Chapter Nine** does not absorb process mechanics, governance details, or implementation obligations belonging to other owner layers.
+This chapter states **Rights Floors and rights-level interpretive scope** for sentients (substrate-agnostic under *Sentience Non-Exclusion*). Rights-Floor language operates at the Rights-Floor layer; designated implementation layers operationalize these rights but must not narrow, redefine, or relocate them, as already stated at the opening of **Part A**. This section operates the converse-direction discipline: **Chapter Ten** does not absorb process mechanics, governance details, or implementation obligations belonging to other owner layers.
 
 This chapter does **not** establish, restate, or expand:
 
-- **general contribution / violation / standing classification** (Axes I / II), which remains owned by **Chapter Six** (*Contribution, Violation, and Standing Model*) in [core_06-06_standing_assessment.md](core_06-06_standing_assessment.md) and [core_06-06_standing_integration.md](core_06-06_standing_integration.md);
-- **final Violation Axis s = 7, 8, or 9** classification for **anti-constitutional misconduct** (criteria, due-process safeguards, and cross-chapter discipline), which remains owned **only** by **Chapter Seven** (*Anti-Constitutional Misconduct*) in [core_07-07_misconduct.md](core_07-07_misconduct.md#chapter-seven-anti-constitutional-misconduct);
-- **court structure, family, jurisdiction, or adjudicative workflow**, which remains owned by **Chapter Eight** (*Adjudicative Bodies, Jurisdiction, and Constitutional Adjudication*) in [core_08-08_forum.md](core_08-08_forum.md), with companion-layer detail in [corpus_forum.md](corpus_forum.md);
-- **governance legitimacy mechanics**, including stewardship-direction **rules**, ecosystem-value orientation, concentration-threshold enforcement procedure, and democratic-institution checks at the operating layer, which remain owned by **Chapter Ten** (*Governance Legitimacy*) in [core_10-10_governance.md](core_10-10_governance.md);
-- **substantive non-regression validity standards**, which remain owned by **Chapter Eleven** (*Non-Regression and Substantive Amendment Validity*) in [core_11-13_amendment.md](core_11-13_amendment.md);
-- **procedural and custody validity** for amendment, ratification, and adoption (Tests 2 through 4, review triggers, provisional effect, invalid-change handling, ratification and adoption instruments, amendment procedure requirements), which remain owned by **Chapter Thirteen** (*Amendment, Ratification, and Procedural Validity*) in [core_11-13_amendment.md](core_11-13_amendment.md);
-- **incorporation, custody chain, edition pinning, and adoption-framing mechanics**, which remain owned by **Chapter Fourteen** (*Incorporation and Operative Effect*) in [core_14-14_incorporation.md](core_14-14_incorporation.md);
+- **general contribution / violation / standing classification** (Axes I / II), which remains owned by **Chapter Six** (*Contribution, Violation, and Standing Model*) in [core_06-06_standing_assessment.md](core_06-06_standing_assessment.md) and [core_07-07_standing_integration.md](core_07-07_standing_integration.md);
+- **final Violation Axis s = 7, 8, or 9** classification for **anti-constitutional misconduct** (criteria, due-process safeguards, and cross-chapter discipline), which remains owned **only** by **Chapter Eight** (*Anti-Constitutional Misconduct*) in [core_08-08_misconduct.md](core_08-08_misconduct.md#chapter-eight-anti-constitutional-misconduct);
+- **court structure, family, jurisdiction, or adjudicative workflow**, which remains owned by **Chapter Nine** (*Adjudicative Bodies, Jurisdiction, and Constitutional Adjudication*) in [core_09-09_forum.md](core_09-09_forum.md), with companion-layer detail in [corpus_forum.md](corpus_forum.md);
+- **governance legitimacy mechanics**, including stewardship-direction **rules**, ecosystem-value orientation, concentration-threshold enforcement procedure, and democratic-institution checks at the operating layer, which remain owned by **Chapter Eleven** (*Governance Legitimacy*) in [core_11-11_governance.md](core_11-11_governance.md);
+- **substantive non-regression validity standards**, which remain owned by **Chapter Twelve** (*Non-Regression and Substantive Amendment Validity*) in [core_12-14_amendment.md](core_12-14_amendment.md);
+- **procedural and custody validity** for amendment, ratification, and adoption (Tests 2 through 4, review triggers, provisional effect, invalid-change handling, ratification and adoption instruments, amendment procedure requirements), which remain owned by **Chapter Fourteen** (*Amendment, Ratification, and Procedural Validity*) in [core_12-14_amendment.md](core_12-14_amendment.md);
+- **incorporation, custody chain, edition pinning, and adoption-framing mechanics**, which remain owned by **Chapter Fifteen** (*Incorporation and Operative Effect*) in [core_15-15_incorporation.md](core_15-15_incorporation.md);
 - **definition mechanics and verification mechanics** (definition structure, observability and traceability burden, verification accessibility), which remain owned by **Chapters Two through Four** in [core_02-04_definition_mechanics.md](core_02-04_definition_mechanics.md); and
 - **operational implementation, system-design, institutional, court-operational, or joint structural detail**, which remains owned by the designated **Corpus** companion implementation layers per the **Authority Stack and Internal Hierarchy** cluster in [Chapter Five](core_05-05_definitions_c_dependent_clusters.md#authority-stack) and the quick authority order in [README.md](README.md).
 
-Pointer-only cross-references from **Chapter Nine** into the canonical owner layers above — including read-with directives, default-constraint-stack invocation, interpretive-hub anchors, and integration sentences such as "implementation belongs in" or "must not narrow" — are permitted and expected; **substantive restatement** of process / governance / implementation mechanics into rights-layer text is **non-compliant** under this section.
+Pointer-only cross-references from **Chapter Ten** into the canonical owner layers above — including read-with directives, default-constraint-stack invocation, interpretive-hub anchors, and integration sentences such as "implementation belongs in" or "must not narrow" — are permitted and expected; **substantive restatement** of process / governance / implementation mechanics into rights-layer text is **non-compliant** under this section.
 
-Reader-guidance, reading-map, and orientation prose in this chapter (including the **Part A** opening default-constraint stack, planet-first reading-order explanation, interpretive-hub anchors, and reader map; the **Part D** justice-and-evolution opening framing; and any forward / backward navigation pointers across **Parts A through D**) is **non-operative for relocation**: it does not create, narrow, or relocate Rights Floors and does not import process / governance / implementation mechanics from other owner layers into **Chapter Nine**.
+Reader-guidance, reading-map, and orientation prose in this chapter (including the **Part A** opening default-constraint stack, planet-first reading-order explanation, interpretive-hub anchors, and reader map; the **Part D** justice-and-evolution opening framing; and any forward / backward navigation pointers across **Parts A through D**) is **non-operative for relocation**: it does not create, narrow, or relocate Rights Floors and does not import process / governance / implementation mechanics from other owner layers into **Chapter Ten**.
 
-Future additions to **Chapter Nine** that touch process-flavored, governance-flavored, or implementation-flavored language **must include an explicit non-relocation pointer** to the canonical owner home named above (and, where applicable, to the corresponding Chapter Five definition entry as the constitutional-layer integration point) so the rights-layer floor stays at the rights-layer floor and the process / governance / implementation home retains canonical authority. 
+Future additions to **Chapter Ten** that touch process-flavored, governance-flavored, or implementation-flavored language **must include an explicit non-relocation pointer** to the canonical owner home named above (and, where applicable, to the corresponding Chapter Five definition entry as the constitutional-layer integration point) so the rights-layer floor stays at the rights-layer floor and the process / governance / implementation home retains canonical authority. 
 
-Cross-layer drift that imports process mechanics, governance details, or implementation obligations from **Chapters Two through Four**, **Chapter Six**, **Chapter Seven**, **Chapter Eight**, **Chapter Ten**, **Chapter Eleven**, **Chapter Thirteen**, **Chapter Fourteen**, or any companion implementation file into **Chapter Nine** — whether as direct text, as reader-guidance prose elevated to operative **effect**, or as inference from cross-references — is **non-compliant** under this section. 
+Cross-layer drift that imports process mechanics, governance details, or implementation obligations from **Chapters Two through Four**, **Chapter Six**, **Chapter Eight**, **Chapter Nine**, **Chapter Eleven**, **Chapter Twelve**, **Chapter Fifteen**, **Chapter Fifteen**, or any companion implementation file into **Chapter Ten** — whether as direct text, as reader-guidance prose elevated to operative **effect**, or as inference from cross-references — is **non-compliant** under this section. 
 
-Conversely, any owner-layer chapter or companion implementation file that purports to **narrow, redefine, or relocate** a Chapter Nine Rights Floor through process-mechanics framing, governance-procedure framing, implementation-detail framing, or reader-guidance elevation is non-compliant under **Chapter Eleven** non-regression and under the opening contract of **Part A** (Rights-Floor inviolability against operationalization-driven narrowing).
+Conversely, any owner-layer chapter or companion implementation file that purports to **narrow, redefine, or relocate** a Chapter Ten Rights Floor through process-mechanics framing, governance-procedure framing, implementation-detail framing, or reader-guidance elevation is non-compliant under **Chapter Twelve** non-regression and under the opening contract of **Part A** (Rights-Floor inviolability against operationalization-driven narrowing).
 
-For a non-operative reading walkthrough of **Chapter Nine** rights-layer architecture, see [architecture_primer.md](architecture_primer.md). The doctrinal map is in [doc_architecture.md](doc_architecture.md) **section 5** (Chapter Nine rows) and **section 17** (current edition cut).
+For a non-operative reading walkthrough of **Chapter Ten** rights-layer architecture, see [architecture_primer.md](architecture_primer.md). The doctrinal map is in [doc_architecture.md](doc_architecture.md) **section 5** (Chapter Ten rows) and **section 17** (current edition cut).

@@ -122,7 +122,7 @@ Assessment:
 
 Drafting implication:
 
-The map is directionally right. It may need a note distinguishing "recognition as wellbeing support" from Chapter Six standing classification and Chapter Nine reputation/participation rights.
+The map is directionally right. It may need a note distinguishing "recognition as wellbeing support" from Chapter Six standing classification and Chapter Ten reputation/participation rights.
 
 ### 3.1 Safety
 
@@ -450,7 +450,7 @@ Assessment:
 
 Drafting implication:
 
-The mapping is coherent. It may need a cross-check against the Chapter Nine agency rights to ensure this section does not silently become the only agency-limitation test.
+The mapping is coherent. It may need a cross-check against the Chapter Ten agency rights to ensure this section does not silently become the only agency-limitation test.
 
 ### 6.4 Rights-Collision Procedure
 

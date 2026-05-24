@@ -150,7 +150,7 @@ def _snapshot_block() -> str:
 def _seed(sid: str) -> str:
     return f"""### Scenario ID: {sid}
 - **Class:** implementation / catalog seed (reinstatement)
-- **Summary:** Tracked row for `{sid}`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Six** classification vs **Chapter Seven** final tier labels; **Chapter Nine** rights-floor boundary per closing Part D section.
+- **Summary:** Tracked row for `{sid}`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Six** classification vs **Chapter Eight** final slot labels; **Chapter Ten** rights-floor boundary per closing Part D section.
 - **Read with:** [doc_architecture.md](doc_architecture.md) section 5; owner layers per scenario family name.
 """
 

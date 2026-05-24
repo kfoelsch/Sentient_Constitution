@@ -1,6 +1,6 @@
 # Chapter 6, Sections 5.1–5.8: Understanding Violation Types (Plain Language Version)
 
-*This is a simplified rewrite of sections 5.1 through 5.8 of Chapter 6, designed for general readers. It explains the different "characters" or types of violations—what they mean, how they affect responses, and how they work together. For the official legal text, see [core_06-06_standing_integration.md](core_06-06_standing_integration.md).*
+*This is a simplified rewrite of sections 5.1 through 5.8 of Chapter 6, designed for general readers. It explains the different "characters" or types of violations—what they mean, how they affect responses, and how they work together. For the official legal text, see [core_07-07_standing_integration.md](core_07-07_standing_integration.md).*
 
 ---
 
@@ -13,7 +13,7 @@ When someone violates the constitution, the violation isn't just "bad"—it has 
 - **Who else was involved** (just one person, or a group?)
 - **How serious the underlying duty was** (careless mistake vs. deliberate wrong)
 
-These sections (5.1–5.8) describe eight different "attachment categories" that can apply to a violation. A single violation can carry multiple labels if the facts support it. These labels help determine appropriate consequences—but they don't replace the main severity scale (slots 1–9) explained in section 3.3.
+These sections (5.1–5.8) describe eight different "attachment categories" that can apply to a violation. A single violation can carry multiple labels if the facts support it. These labels help determine appropriate consequences—but they don't replace the main severity scale (slots 1–9) explained in section 4.3.
 
 ---
 
@@ -40,7 +40,7 @@ This label applies when someone needs to **make things right**—not necessarily
 ### Key Points
 
 - **You don't need to prove someone wanted to cause harm.** This applies even if the harm was accidental or careless.
-- **This label doesn't change the severity level** (slot 1–9) from section 3.3. It just describes what kind of response is needed.
+- **This label doesn't change the severity level** (slot 1–9) from section 4.3. It just describes what kind of response is needed.
 - **It can apply to any severity level**—from minor paperwork problems to serious violations.
 
 ### Simple Example
@@ -96,7 +96,7 @@ This label applies when the violation touches **fundamental constitutional prote
 ### Key Points
 
 - **This can coexist with remedial or punitive character.** A violation can be both "needs repair" AND "affects constitutional foundations."
-- **This doesn't by itself determine the final severity (slot 7, 8, or 9).** That assignment happens in Chapter Seven.
+- **This doesn't by itself determine the final severity (slot 7, 8, or 9).** That assignment happens in Chapter Eight.
 - **Constitutional floors are non-negotiable.** No process, agreement, or excuse can override them.
 
 ### Simple Example
@@ -157,7 +157,7 @@ Where normal remedial, punitive, or domain-specific processes would allow outcom
 ### Simple Example
 
 > An employment contract says disputes will be handled by company arbitration and "employees waive all constitutional challenge rights." A worker is fired for reporting safety violations. Even though there's an arbitration agreement, the worker can still challenge the firing in constitutional forums because:
-> 1. The waiver of constitutional rights is itself invalid (Chapter Seven rules)
+> 1. The waiver of constitutional rights is itself invalid (Chapter Eight rules)
 > 2. The constitutional floor rule means the arbitration process cannot produce results below constitutional minimums
 > 3. The safety reporting involves public interest protections that trump private contract terms
 
@@ -229,7 +229,7 @@ Violation nature can be:
 
 ### What Happens to Those Who Give Unlawful Orders?
 
-**Issuing, authorizing, transmitting, ratifying, or materially enforcing** such instructions is **independently classifiable as violation conduct**—potentially rising to anti-constitutional misconduct under Chapter Seven.
+**Issuing, authorizing, transmitting, ratifying, or materially enforcing** such instructions is **independently classifiable as violation conduct**—potentially rising to anti-constitutional misconduct under Chapter Eight.
 
 ### Key Points
 
@@ -250,41 +250,94 @@ Violation nature can be:
 
 ---
 
-## 5.8 Negligence and Neglect as Violation Nature
+## 5.8 When Carelessness Becomes a Real Violation
 
-### What This Means in Plain Language
+### The Bottom Line
 
-**Carelessness and neglect can be serious violations—not just "oops" moments.** When someone had a duty to prevent harm, could see the risk coming, and had the ability to act, but failed to do so, that's negligence. It's a violation in its own right, not just a minor error.
+**"I didn't mean to" isn't always a good enough excuse.** Sometimes, failing to do what you should have done is just as serious as doing something wrong on purpose. When you had a job to keep people safe, you could see trouble coming, and you had the power to stop it—but you didn't—that's negligence. And it's a serious violation, not just a mistake.
 
-### When Negligence Becomes a Violation
+---
 
-Negligence and neglect are independently classifiable when:
-1. **Duty existed:** There was a responsibility to act
-2. **Foreseeability:** The harm was predictable
-3. **Feasible capacity:** The person could have prevented, mitigated, or escalated the risk
+### When "Oops" Becomes "You Had a Responsibility"
 
-### Key Points
+Three things must all be true for negligence to count as a violation:
 
-- **Negligence is not dismissible as "just paperwork."** When the resulting or foreseeable harm is material, negligence is serious.
-- **It can coexist with other characters.** Negligence can occur alongside remedial, punitive, constitutional-floor, duty, or diffusion character.
-- **After notice, negligence escalates.** If you were warned about a risk and still failed to act, the violation becomes more serious.
+| Element | Plain English | What It Means |
+|---------|---------------|---------------|
+| **1. You had a duty** | It was literally your job | You were responsible for keeping something or someone safe |
+| **2. You could see it coming** | The danger wasn't a surprise | A reasonable person in your shoes would have known harm could happen |
+| **3. You could have acted** | You had the power to fix it | You had the resources, authority, and opportunity to prevent or reduce the harm |
 
-### What Counts as Negligence?
+If all three are true and harm still happened because you didn't act, that's negligence—not just bad luck.
 
-- Unreasonable omission (failing to do what you should have)
-- Inadequate supervision
-- Untimely or absent escalation of foreseeable risks
-- Failure to prevent, mitigate, or escalate material harm when you had the duty, foresight, and capacity to do so
+---
 
-### Simple Example
+### Why This Matters
 
-> A hospital administrator:
-> - Knows the backup power system is failing (duty to maintain safe operations)
-> - Can see that a power outage would endanger patients on life support (foreseeable harm)
-> - Has budget and authority to fix it (feasible capacity)
-> - But delays repairs to "save money this quarter"
-> 
-> When the outage happens and patients are harmed, this isn't just an "unfortunate accident." It's negligence—an independently classifiable violation because the administrator had duty, foresight, and capacity but failed to act.
+**Real talk: negligence can be just as harmful as intentional wrongdoing.**
+
+- **A texting driver who hits someone** didn't mean to cause an accident, but they chose to ignore a known risk—and someone got hurt.
+- **A landlord who ignores a gas leak** didn't set out to harm tenants, but they failed in their duty to maintain safe housing.
+- **A manager who ignores safety complaints** isn't directly causing injuries, but their inaction makes injuries predictable and preventable.
+
+In all these cases, the harm wasn't intentional, but it wasn't truly accidental either. The person *chose* not to act when they had the power to prevent harm.
+
+---
+
+### Common Examples of Negligence
+
+- **Failing to maintain equipment** you knew was broken or worn out
+- **Ignoring warning signs** or complaints about safety problems
+- **Not supervising properly** when you were responsible for oversight
+- **Delaying action** on known risks to save money or time
+- **Failing to report or escalate** problems up the chain when you should have
+- **Cutting corners** on safety protocols you knew were important
+
+---
+
+### When Negligence Gets Worse
+
+Negligence becomes *more serious* when:
+
+- **You were warned.** If someone told you about the risk and you still didn't act, that's worse than being unaware.
+- **The harm was serious.** Minor oversights with minor consequences are different from major failures that cause major harm.
+- **You had multiple chances to fix it.** A pattern of ignoring problems is worse than a single oversight.
+- **You benefited from not acting.** If you saved money, time, or effort by ignoring the risk, that makes it more blameworthy.
+
+---
+
+### Negligence Doesn't Happen in Isolation
+
+Negligence often combines with other violation types:
+
+| Combined With | What That Looks Like |
+|---------------|----------------------|
+| **Remedial character** | You need to fix the harm you caused by your inaction |
+| **Punitive character** | Your carelessness was so extreme it deserves punishment |
+| **Collective accountability** | Multiple people failed to act; blame is shared |
+| **Constitutional-floor character** | Your neglect undermined fundamental rights or protections |
+
+---
+
+### A Story: The Factory Fire
+
+> A factory owner receives repeated warnings that the emergency exits are blocked and the fire suppression system needs repair. Inspectors, workers, and even the company's own safety officer all raise alarms over six months.
+>
+> The owner thinks: *"Fixing this will cost $50,000 and shut down production for two weeks. We've never had a fire. I'll deal with it next quarter."*
+>
+> When a fire breaks out three months later, 14 workers die because they couldn't escape in time.
+>
+> This isn't just a tragic accident. It's negligence—a serious violation—because:
+> - **Duty:** The owner was legally and morally responsible for worker safety
+> - **Foreseeability:** Multiple people warned about the exact danger
+> - **Capacity:** The owner had the money and authority to fix the problems
+> - **Choice:** They consciously decided to delay action to save money
+
+---
+
+### The Key Takeaway
+
+**Responsibility means acting when you can prevent harm.** Negligence isn't about being perfect—it's about failing to act when you had the duty, knowledge, and ability to prevent foreseeable harm. When harm happens because someone chose not to act, that's not just bad luck. That's a violation.
 
 ---
 
@@ -324,4 +377,4 @@ These labels help ensure responses are **complete and appropriate**—not just p
 
 ---
 
-*For official text, definitions, and compliance requirements, see the binding provisions in [core_06-06_standing_integration.md](core_06-06_standing_integration.md), sections 5.1–5.8.*
+*For official text, definitions, and compliance requirements, see the binding provisions in [core_07-07_standing_integration.md](core_07-07_standing_integration.md), sections 5.1–5.8.*

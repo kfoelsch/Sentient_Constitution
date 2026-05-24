@@ -8,7 +8,7 @@ This file is intentionally written in plain language with low jargon to improve 
 
 **Non-core Corpus Document**
 
-This file is part of the constitutional corpus as **binding incorporated implementation text** where **Corpus** designates it, incorporated through **Sentient Constitution Chapter Fourteen**.
+This file is part of the constitutional corpus as **binding incorporated implementation text** where **Corpus** designates it, incorporated through **Sentient Constitution Chapter Fifteen**.
 
 Canonical meaning for constitutional terms, Rights Floors, and definition-satisfaction rules remains in the Sentient Constitution and canonical owners in `doc_architecture.md`; nothing here transfers that authority.
 
@@ -61,14 +61,14 @@ The shared contract is:
 ### CJS-1.2: Section identifiers and article references
 Headings use **CJS-1** through **CJS-4** (*Corpus joint structure* section *n*). Subsections use **CJS-*n*.*m*** (for example **CJS-2.2**). They are not Sentient Constitution **Article** numbers. The abbreviation **CJS** matches `doc_architecture.md` (*Corpus joint structure* companion file).
 
-Unless another reference pattern is stated, **Article** labels with Roman numerals in cross-references to the Sentient Constitution Chapter Nine part files (`core_09-09_rights_part_*.md`) denote those articles per their canonical `### Article …` headings, per companion conventions.
+Unless another reference pattern is stated, **Article** labels with Roman numerals in cross-references to the Sentient Constitution Chapter Ten part files (`core_10-10_rights_part_*.md`) denote those articles per their canonical `### Article …` headings, per companion conventions.
 
 ### CJS-1.3: Joint structural boundary and owner discipline
 This file is the **operative home** for **joint** structural expectations: rules and integration interfaces that apply when **two or more** of CP, CS, CI, and CC must be satisfied **together**, so institutions, forums, and classified systems read as **one coherent implementation stack** where they materially interact.
 
 It is **not** the primary owner for system-class and steward taxonomies (**CS**), general institutional lifecycle and fiscal architecture (**CI**), or forum-family operational doctrine (**CC**). Stable implementation-label text is hosted in this file under **Cross-domain implementation layer**.
 
-Read **Authority Stack and Internal Hierarchy** in `core_05-05_definitions_a_independent.md` **Chapter Five** with **Sentient Constitution Chapter Fourteen** in `core_14-14_incorporation.md`. This file sits in the **binding incorporated implementation** band; it must **implement, not narrow**, Sentient Constitution meaning.
+Read **Authority Stack and Internal Hierarchy** in `core_05-05_definitions_a_independent.md` **Chapter Five** with **Sentient Constitution Chapter Fifteen** in `core_15-15_incorporation.md`. This file sits in the **binding incorporated implementation** band; it must **implement, not narrow**, Sentient Constitution meaning.
 
 ### CJS-1.4: Operational structure and subsection-local terminology
 Some subsections use a corpus-local joint operational rule format that mirrors the list shape used in `corpus_institutions.md`.
@@ -132,7 +132,7 @@ This section is the **integration spine** for the four companion layers: **who o
 3. **`corpus_institutions.md`** — institutional governance, assurance lanes, escalation, non-court architecture.
 4. **`corpus_forum.md`** — forum-operational doctrine for **Chapter Eight** forum families.
 
-**Stricter-wins:** Where companions differ in stringency for the same materially relevant risk, the **stricter clearly adopted** rule governs (**Sentient Constitution Chapter Fourteen**; opening of **`corpus_systems.md`** on classification and material-impact profile). The same principle applies in **CJS-3.6** where profiles and implementation labels appear to conflict.
+**Stricter-wins:** Where companions differ in stringency for the same materially relevant risk, the **stricter clearly adopted** rule governs (**Sentient Constitution Chapter Fifteen**; opening of **`corpus_systems.md`** on classification and material-impact profile). The same principle applies in **CJS-3.6** where profiles and implementation labels appear to conflict.
 
 ### CJS-2.1: Intentional overlap (non-duplication discipline)
 Some topics are **deliberately** split across companions (for example contest-integrity design, delegated subunits, forensic or technical-court interfaces). For those:
@@ -157,23 +157,23 @@ Each row names the **first** operative owner for the topic. **Mandatory read-wit
 | Row ID | Topic | Primary owner | Mandatory read-with |
 |--------|--------|---------------|---------------------|
 | **CJS-R01** | Delegated binding bodies and hybrid composition (non-court institutions) | `corpus_institutions.md` **CI-9.1B** | **`corpus_joint_structure.md` CJS-3.7**, **CJS-3.12**; `corpus_systems.md` **Chapter S2**, **Chapter S3**; `corpus_institutions.md` **CI-2**; `corpus_joint_structure.md` **PROT1**, **PROT4** (as cited in owner text) |
-| **CJS-R02** | Court chambers, divisions, and designated panels (Chapter Eight families) | `corpus_forum.md` **CC-2.5**–**CC-2.5.5** | **`corpus_joint_structure.md` CJS-3.7**, **CJS-3.12**; `corpus_institutions.md` **CI-9.1B**; `corpus_systems.md` **Chapter S2**, **Chapter S3**; `core_08-08_forum.md` **Chapter Eight** |
-| **CJS-R03** | Lawful panel formation, disclosure, recusal, substitution, inability-to-form | `corpus_forum.md` **CC-3** | **`corpus_joint_structure.md` CJS-3.12**; `corpus_institutions.md` **CI-4**, **CI-5**; `core_08-08_forum.md` **Chapter Eight**; `corpus_joint_structure.md` **PROT6** (Implementation Group Four) |
-| **CJS-R04** | Routing, intake, transfer, certification, representative treatment | `corpus_forum.md` **CC-4** | **`corpus_joint_structure.md` CJS-3.12**; `core_08-08_forum.md` **Chapter Eight**; `corpus_institutions.md` **CI-8** |
+| **CJS-R02** | Court chambers, divisions, and designated panels (Chapter Nine families) | `corpus_forum.md` **CC-2.5**–**CC-2.5.5** | **`corpus_joint_structure.md` CJS-3.7**, **CJS-3.12**; `corpus_institutions.md` **CI-9.1B**; `corpus_systems.md` **Chapter S2**, **Chapter S3**; `core_09-09_forum.md` **Chapter Nine** |
+| **CJS-R03** | Lawful panel formation, disclosure, recusal, substitution, inability-to-form | `corpus_forum.md` **CC-3** | **`corpus_joint_structure.md` CJS-3.12**; `corpus_institutions.md` **CI-4**, **CI-5**; `core_09-09_forum.md` **Chapter Nine**; `corpus_joint_structure.md` **PROT6** (Implementation Group Four) |
+| **CJS-R04** | Routing, intake, transfer, certification, representative treatment | `corpus_forum.md` **CC-4** | **`corpus_joint_structure.md` CJS-3.12**; `core_09-09_forum.md` **Chapter Nine**; `corpus_institutions.md` **CI-8** |
 | **CJS-R05** | Appeal, secondary review, exhaustion | `corpus_forum.md` **CC-5** | `corpus_institutions.md` **CI-6**; `corpus_joint_structure.md` Implementation Group Four (including **PROT6**) |
-| **CJS-R06** | Court integrity operations, anti-capture, anti-self-judging support | `corpus_forum.md` **CC-6** | `corpus_institutions.md` **CI-5**, **CI-7.3**; `core_08-08_forum.md` **Chapter Eight** |
+| **CJS-R06** | Court integrity operations, anti-capture, anti-self-judging support | `corpus_forum.md` **CC-6** | `corpus_institutions.md` **CI-5**, **CI-7.3**; `core_09-09_forum.md` **Chapter Nine** |
 | **CJS-R07** | Court forensic and analytical support | `corpus_forum.md` **CC-7** | `corpus_institutions.md` **CI-7A**, **CI-7.3** |
 | **CJS-R08** | Independent investigative service and prosecution interface | `corpus_forum.md` **CC-8** | `corpus_institutions.md` **CI-7A.1**, **CI-8** |
-| **CJS-R09** | Technical courts and specialist chambers | `corpus_forum.md` **CC-9** | `corpus_institutions.md` **CI-7B**, **CI-15B**; `core_08-08_forum.md` **Chapter Eight** |
-| **CJS-R10** | Court performance, backlog requirements, publication timeliness, accessibility | `corpus_forum.md` **CC-10** | `corpus_institutions.md` **CI-7.3**; Sentient Constitution **Article XV** themes in `core_09-09_rights_part_*.md` **Chapter Nine** |
-| **CJS-R11** | Court continuity, fallback operation, emergency adjudication | `corpus_forum.md` **CC-11** | `corpus_systems.md` **Protocol A**; `corpus_institutions.md` **CI-14** (where transition or continuity interfaces apply); `core_08-08_forum.md` **Chapter Eight** |
+| **CJS-R09** | Technical courts and specialist chambers | `corpus_forum.md` **CC-9** | `corpus_institutions.md` **CI-7B**, **CI-15B**; `core_09-09_forum.md` **Chapter Nine** |
+| **CJS-R10** | Court performance, backlog requirements, publication timeliness, accessibility | `corpus_forum.md` **CC-10** | `corpus_institutions.md` **CI-7.3**; Sentient Constitution **Article XV** themes in `core_10-10_rights_part_*.md` **Chapter Ten** |
+| **CJS-R11** | Court continuity, fallback operation, emergency adjudication | `corpus_forum.md` **CC-11** | `corpus_systems.md` **Protocol A**; `corpus_institutions.md` **CI-14** (where transition or continuity interfaces apply); `core_09-09_forum.md` **Chapter Nine** |
 | **CJS-R12** | Standard court records, forms, and evidence artifacts | `corpus_forum.md` **CC-12** | `corpus_institutions.md` **CI-6**; `core_02-04_definition_mechanics.md` **Chapters Two through Four** (traceability and verification discipline) |
 | **CJS-R13** | Court staffing, shared administration, structural review, structural records | `corpus_forum.md` **CC-13** | `corpus_institutions.md` **CI-4**, **CI-5**; **CI-9.1B** where delegated court subunits apply |
 | **CJS-R14** | Institutional functional lanes and non-delegable splits | `corpus_institutions.md` **CI-2** | `corpus_joint_structure.md` **PROT1**; `corpus_systems.md` **Chapter S3** where CSS stewardship intersects |
 | **CJS-R15** | Contest-integrity monitoring (pathway integrity, not merits) | `corpus_institutions.md` **CI-7.3** | `corpus_systems.md` **Chapter S2**, **Chapter S3** (including steward contest-integrity paragraphs where applicable); `corpus_joint_structure.md` **PROT6**; **CJS-R03**, **CJS-R10** where court performance data feeds monitors |
-| **CJS-R16** | Cross-institution coordination, deadlock, and escalation | `corpus_institutions.md` **CI-8** | `corpus_forum.md` **CC-4**, **CC-6**; `core_08-08_forum.md` **Chapter Eight** (including backup and cross-court integrity routing) |
+| **CJS-R16** | Cross-institution coordination, deadlock, and escalation | `corpus_institutions.md` **CI-8** | `corpus_forum.md` **CC-4**, **CC-6**; `core_09-09_forum.md` **Chapter Nine** (including backup and cross-court integrity routing) |
 | **CJS-R17** | Cross-companion trust integrity (joint operation model) | `corpus_joint_structure.md` Implementation Group One (*Meta-integrity obligation: Trust and Trustworthiness*) | **`corpus_joint_structure.md` CJS-3.9**; `core_05-05_definitions_c_dependent_clusters.md` **Chapter Five, section 3.39** (*Trust*, *Trustworthiness*, *Trust Degradation and Misleading Reliance*); `corpus_systems.md` **Chapter S2**, **Chapter S3** where classification or dependency scales assurance burden; `corpus_institutions.md` **CI-7.3**, **CI-8** and `corpus_forum.md` **CC-10** where pathway integrity, publication cadence, or accessibility materially conditions justified trust |
-| **CJS-R18** | Class-scaled lane staffing and competency redundancy for materially binding stewardship | `corpus_institutions.md` **CI-2**, **CI-4**, **CI-11**, **CI-12** | **`corpus_joint_structure.md` CJS-3.11**; `corpus_systems.md` **Chapter S2**, **Chapter S3**; `core_10-10_governance.md` **Chapter Ten**, section **5** |
+| **CJS-R18** | Class-scaled lane staffing and competency redundancy for materially binding stewardship | `corpus_institutions.md` **CI-2**, **CI-4**, **CI-11**, **CI-12** | **`corpus_joint_structure.md` CJS-3.11**; `corpus_systems.md` **Chapter S2**, **Chapter S3**; `core_11-11_governance.md` **Chapter Eleven**, section **5** |
 | **CJS-R19** | Cross-companion integrity assurance and resilience operations | `corpus_joint_structure.md` **CJS-3.13** | `corpus_joint_structure.md` **PRIM9** through **PRIM15**; `core_05-05_definitions_a_independent.md` **Chapter Five** (*Auditability*, *Verifiability*, *Verification Accessibility*, *Reversibility*, *Dependency*, *Cascading Failure*, *Adversarial, Scaled, and Exploited Conditions*, *Trustworthiness*); `corpus_systems.md` **Chapter S1**, **Chapter S2**, **Chapter S3** where classification, data handling, or stewardship scales burden; `corpus_institutions.md` **CI-7.3**, **CI-8** and `corpus_forum.md` **CC-10** where monitoring, escalation, publication, or review pathways are materially required |
 
 Rows are **indicative**, not exhaustive: if a matter triggers multiple rows, apply **all** triggered rows whose scope is materially true.
@@ -208,7 +208,7 @@ Where an institution **hosts**, **budgets**, **administers**, or **technically o
 Where **`corpus_systems.md`** **Chapter S2** or **Chapter S3** materially governs the same systems an institution supervises, published institutional maps (**CI-9.1A** and related **CI-9** material) must stay **consistent** with the **operative** systems implementation companion classification profile, including **reclassification triggers**. **Silent divergence** between institution-facing labels and systems implementation companion treatment is **non-compliant** where either layer assigns **material duties** from classification.
 
 ### CJS-3.6 Implementation-label traceability and stricter-wins discipline
-Where **CS** protocols or **CI**/**CC** procedures **cite** **PRIM/PROT** hooks as their authority basis, adopters must preserve **traceability** to those codes and must **not** use companion text to **weaken** the cited implementation label. Where a cited profile and a cited implementation label appear to conflict, use **Sentient Constitution Chapter Fourteen** conflict order and the **stricter clearly adopted** requirement (**CJS-2**, stricter-wins).
+Where **CS** protocols or **CI**/**CC** procedures **cite** **PRIM/PROT** hooks as their authority basis, adopters must preserve **traceability** to those codes and must **not** use companion text to **weaken** the cited implementation label. Where a cited profile and a cited implementation label appear to conflict, use **Sentient Constitution Chapter Fifteen** conflict order and the **stricter clearly adopted** requirement (**CJS-2**, stricter-wins).
 
 ### CJS-3.7 Mandatory hybrid authority composition (delegated binding bodies)
 This obligation applies where **CJS-R01** or **CJS-R02** materially applies: **delegated subunits** with materially binding authority under **`corpus_institutions.md` CI-9.1B**, and **court chambers, divisions, or designated panels** under **`corpus_forum.md` CC-2.5** through **CC-2.5.4**. **`corpus_institutions.md`** and **`corpus_forum.md`** retain **identification**, **competence**, **class and court-floor scaling**, **rotating attachment bounds**, **home-based term rules**, **appeals path**, **substitute capture safeguards** (**CI**), and **court-specific** continuity doctrine; this subsection states the **shared hybrid minimum** so institutions and courts do not silently diverge on the same capture-control structure.
@@ -271,7 +271,7 @@ Cross-companion trust claims must remain consistent with **CJS-3.2** (no false p
 ### CJS-3.10 Definition collision and precedence discipline
 When language in a CJS Tier 1 abstraction and a companion-owner Tier 2 section appears to conflict, resolve in this order:
 
-1. **Sentient Constitution** and **core definitions** (including **Chapter Fourteen** conflict order and canonical constitutional definitions).
+1. **Sentient Constitution** and **core definitions** (including **Chapter Fifteen** conflict order and canonical constitutional definitions).
 2. **Canonical owner meaning** for domain substance in **CP**, **CS**, **CI**, or **CC** as routed by **CJS-2.2** and `doc_architecture.md`.
 3. **CJS Tier 1 abstraction** for cross-companion joint trigger and interlock requirements.
 4. **Subsection-local shorthand** and drafting convenience text.
@@ -288,7 +288,7 @@ For **Class A** and **Class B** systems, institutions that host a constitutional
 
 Lane design must also preserve a functional **role-density balance**. Assignment, rotation, and backup rules must give each material role enough sustained engagement for competence, memory, and accountable judgment, while preserving enough cross-training and cross-functional familiarity for continuity, independent challenge, and lawful succession. It is not sufficient to satisfy numeric staffing while either diffusing responsibility across so many intermittent participants that competence becomes shallow, or concentrating practical knowledge in so few participants that the lane becomes fragile, captured, or unable to replace itself.
 
-The constitutional floor remains in **[core_10-10_governance.md](core_10-10_governance.md) Chapter Ten**, section **5**. This subsection states joint structural requirements for cross-companion satisfaction only. Detailed role taxonomy, qualification controls, succession mechanics, and pathway-access design remain with domain owners in **CI-2**, **CI-4**, **CI-11**, and **CI-12**, read with **`corpus_systems.md` Chapter S2** and **Chapter S3**.
+The constitutional floor remains in **[core_11-11_governance.md](core_11-11_governance.md) Chapter Eleven**, section **5**. This subsection states joint structural requirements for cross-companion satisfaction only. Detailed role taxonomy, qualification controls, succession mechanics, and pathway-access design remain with domain owners in **CI-2**, **CI-4**, **CI-11**, and **CI-12**, read with **`corpus_systems.md` Chapter S2** and **Chapter S3**.
 
 ### CJS-3.12 Shared procedural abstractions for delegated bodies and forum routing
 This subsection supplies **Tier 1** cross-companion abstractions for **CJS-R01** through **CJS-R04**. It does not replace owner detail in **CI** or **CC**.
@@ -718,7 +718,7 @@ Article VII-B boundary and anti-concealment rule
 - OP-C: It is non-compliant to use internal-state protections to conceal systemic behavior or defeat accountability obligations.
 
 ### CJS-3.23 Cross-companion tiered transparency and audit-access terms
-This subsection supplies CJS-local operational definitions for tiered transparency and audit access where public visibility, qualified review, and forensic reconstruction depend on combined companion behavior. It is read with `corpus_joint_structure.md` **PRIM10**, **PRIM9**, **PRIM12**, and constitutional hooks in the Sentient Constitution `core_*.md` files (see [README.md](README.md)) (**Chapter Nine, Articles V through IX**, **Article XV-A**, and **Article VII-B**).
+This subsection supplies CJS-local operational definitions for tiered transparency and audit access where public visibility, qualified review, and forensic reconstruction depend on combined companion behavior. It is read with `corpus_joint_structure.md` **PRIM10**, **PRIM9**, **PRIM12**, and constitutional hooks in the Sentient Constitution `core_*.md` files (see [README.md](README.md)) (**Chapter Ten, Articles V through IX**, **Article XV-A**, and **Article VII-B**).
 
 Cross-companion tiered transparency and audit-access terms (operational cluster head)
 - OP-O: Operational definition set for tiered information access balancing transparency, auditability, and protected internal-state boundaries while preserving contestability.
@@ -1211,7 +1211,7 @@ Shared preamble contract: apply **CJS-1.1**. For stable implementation-label cit
 **Implementation anchors**
 
 - **Intervention layering:** **PRIM8** (architecture-layer intervention) and **PROT2** (governance-layer intervention) remain distinct and jointly applicable where relevant.
-- **Canonical owners:** Constitutional Rights Floors, Chapter Nine default ordering, and governance definitions remain in the Sentient Constitution and Chapter Five. Text in this section implements those anchors and must not narrow them.
+- **Canonical owners:** Constitutional Rights Floors, Chapter Ten default ordering, and governance definitions remain in the Sentient Constitution and Chapter Five. Text in this section implements those anchors and must not narrow them.
 - **Meta home:** Meta-integrity elaboration is anchored in **Implementation Group One** below. Stable implementation-label subsections implement that layer and must not narrow it.
 - **Emergency and continuity routing:** Read **CJS-2** and **CJS-3.2** where systems, institutions, courts, and this section govern the same operational facts.
 
@@ -1234,9 +1234,9 @@ Meta-integrity obligations do **not** prescribe procedural implementations, enfo
 
 ### Meta-integrity obligation: Constitutional Supremacy, Enforceability, and Epistemic Grounding
 Principles: **Wellbeing, Safety, and Truth** under constitutional supremacy, enforceability, and epistemic integrity.
-Articles: Apply with **Sentient Constitution Chapter One**, **Chapter Nine (Articles V–XXV)**, and **Chapter Fourteen**.
+Articles: Apply with **Sentient Constitution Chapter One**, **Chapter Ten (Articles V–XXV)**, and **Chapter Fifteen**.
 
-**Constitutional anchor:** This section indexes the constitutional sources for Meta-integrity obligations and adds no separate constitutional meaning. Read **Chapter Five** in [core_05-05_definitions_a_independent.md](core_05-05_definitions_a_independent.md) (*Supremacy and Enforceability*; *Epistemic Integrity*; *Protected Internal-State Boundary*; *Proxy Divergence*; *Incentive Alignment*) and in [core_05-05_definitions_c_dependent_clusters.md](core_05-05_definitions_c_dependent_clusters.md) section **3.39** (*Trust*; *Trustworthiness*; *Trust Degradation and Misleading Reliance*) together with **Chapters One, Nine, and Fourteen** in the Sentient Constitution core files (see [README.md](README.md) — e.g. [core_00-01_principles.md](core_00-01_principles.md) for **Chapter One**; `core_09-09_rights_part_*.md` for **Chapter Nine**; [core_14-14_incorporation.md](core_14-14_incorporation.md) for **Chapter Fourteen**).
+**Constitutional anchor:** This section indexes the constitutional sources for Meta-integrity obligations and adds no separate constitutional meaning. Read **Chapter Five** in [core_05-05_definitions_a_independent.md](core_05-05_definitions_a_independent.md) (*Supremacy and Enforceability*; *Epistemic Integrity*; *Protected Internal-State Boundary*; *Proxy Divergence*; *Incentive Alignment*) and in [core_05-05_definitions_c_dependent_clusters.md](core_05-05_definitions_c_dependent_clusters.md) section **3.39** (*Trust*; *Trustworthiness*; *Trust Degradation and Misleading Reliance*) together with **Chapters One, Ten, and Fifteen** in the Sentient Constitution core files (see [README.md](README.md) — e.g. [core_00-01_principles.md](core_00-01_principles.md) for **Chapter One**; `core_10-10_rights_part_*.md` for **Chapter Ten**; [core_15-15_incorporation.md](core_15-15_incorporation.md) for **Chapter Fifteen**).
 
 **Definitions:** Apply with **Chapter Five** definitions for *Supremacy and Enforceability*, *Epistemic Integrity*, *Trust*, *Trustworthiness*, *Protected Internal-State Boundary*, and *Incentive Alignment*.
 
@@ -1245,7 +1245,7 @@ Articles: Apply with **Sentient Constitution Chapter One**, **Chapter Nine (Arti
 ### Meta-integrity obligation: Trust and Trustworthiness
 Principles: **Wellbeing, Agency, and Truth** through justified reliance, contestability, and continuous trust revalidation.
 
-Articles: Apply with **Sentient Constitution Chapter Nine (Articles V–XXV)** and **Chapter Fourteen**.
+Articles: Apply with **Sentient Constitution Chapter Ten (Articles V–XXV)** and **Chapter Fifteen**.
 
 **Constitutional anchor:** Apply this section in conjunction with cited constitutional sources; this section implements and does not narrow them.
 
@@ -1264,7 +1264,7 @@ Articles: Apply with **Sentient Constitution Chapter Nine (Articles V–XXV)** a
 ### Meta-integrity obligation: Incentive Alignment and Mechanism Integrity
 Principles: **Wellbeing, Safety, and Truth** through incentive structures that do not reward constitutional harm.
 
-Articles: Apply with **Sentient Constitution Chapter Nine (Articles V-XXV)** and **Chapter Fourteen**; this subsection is the local *Incentive Alignment and Mechanism Integrity* meta-integrity obligation.
+Articles: Apply with **Sentient Constitution Chapter Ten (Articles V-XXV)** and **Chapter Fifteen**; this subsection is the local *Incentive Alignment and Mechanism Integrity* meta-integrity obligation.
 
 **Constitutional anchor:** Apply this section in conjunction with cited constitutional sources; this section implements and does not narrow them.
 
@@ -1316,9 +1316,9 @@ Enable **independent** evaluation of whether incentives yield **constitutionally
 
 Principles: **Wellbeing, Safety, and Truth**. Preserve **Safety** and **Truth** under **failure**, **degradation**, and **stress**.
 
-Articles: Apply with **Sentient Constitution Chapter Nine, Article XXIII** (*Conflict Resolution, Escalation, and Emergency Proportionality*); **Chapter Nine rights defaults (Articles V-XXV)** where degradation affects protected rights; and **Chapter Fourteen** incorporation discipline. This subsection is the local *Failure Integrity* meta-integrity obligation.
+Articles: Apply with **Sentient Constitution Chapter Ten, Article XXIII** (*Conflict Resolution, Escalation, and Emergency Proportionality*); **Chapter Ten rights defaults (Articles V-XXV)** where degradation affects protected rights; and **Chapter Fifteen** incorporation discipline. This subsection is the local *Failure Integrity* meta-integrity obligation.
 
-**Constitutional anchor:** Apply this section in conjunction with **Sentient Constitution Chapter One** (non-negotiable constraints and conflict ordering), **Chapter Nine** rights protections, and **Chapter Fourteen** incorporation and failure-priority bridge; this section implements and does not narrow them.
+**Constitutional anchor:** Apply this section in conjunction with **Sentient Constitution Chapter One** (non-negotiable constraints and conflict ordering), **Chapter Ten** rights protections, and **Chapter Fifteen** incorporation and failure-priority bridge; this section implements and does not narrow them.
 
 **Definitions:** Apply with **Chapter Five** definitions for *Epistemic Integrity*, *Truth (Constitutional Constraint)*, *Safety and Non-Degradation Baseline*, and *Trust Degradation and Misleading Reliance*.
 
@@ -1342,7 +1342,7 @@ Where **full** compliance is **not** maintainable: **prioritize** **Safety** and
 
 **Preservation ordering (degraded conditions):** **Safety** → **Truth (Epistemic Integrity)** → **System Stability (Trust)** → **Functional Performance**.
 
-**Governance continuity under stress:** For **high-impact** systems, **[corpus_systems.md](corpus_systems.md), Protocol A** and **Chapter S3 — Critical System Stewardship** govern designated crisis authority, crisis communications, and periodic exercises. That work does **not** displace **Sentient Constitution Chapter Nine, Article XXIII** (*Conflict Resolution, Escalation, and Emergency Proportionality*), **PROT2**, [core_10-10_governance.md](core_10-10_governance.md) **Chapter Ten**, or related cross-companion requirements. Where those layers and **institutions** or **courts** govern the same facts, read **`corpus_joint_structure.md` CJS-2** and **CJS-3.2**.
+**Governance continuity under stress:** For **high-impact** systems, **[corpus_systems.md](corpus_systems.md), Protocol A** and **Chapter S3 — Critical System Stewardship** govern designated crisis authority, crisis communications, and periodic exercises. That work does **not** displace **Sentient Constitution Chapter Ten, Article XXIII** (*Conflict Resolution, Escalation, and Emergency Proportionality*), **PROT2**, [core_11-11_governance.md](core_11-11_governance.md) **Chapter Eleven**, or related cross-companion requirements. Where those layers and **institutions** or **courts** govern the same facts, read **`corpus_joint_structure.md` CJS-2** and **CJS-3.2**.
 
 **Layer B — Integrity implementation labels (PRIM9–PRIM15)**
 The following integrity implementation labels operationalize and test the Meta-Integrity constraints above.
@@ -1356,7 +1356,7 @@ Principles: **Truth and Epistemic Integrity** through accurate status, scope, un
 
 **Canonical meaning:** This section states implementation-layer obligations for this domain, applied consistently with cited constitutional sources and without narrowing them.
 
-**Sentient Constitution Chapter Nine, Article XIV**, **Article XV-A** where auditability or observable evidence is implicated, and **Chapter Five** (*Truth (Constitutional Constraint)*, *Epistemic Integrity*) govern informational integrity at the constitutional term layer.
+**Sentient Constitution Chapter Ten, Article XIV**, **Article XV-A** where auditability or observable evidence is implicated, and **Chapter Five** (*Truth (Constitutional Constraint)*, *Epistemic Integrity*) govern informational integrity at the constitutional term layer.
 **Chapters Two through Four** govern burden, traceability, and verification where representations affect compliance.
 
 **PRIM1** specifies **presentation-layer** requirements for status, risk, scope, and uncertainty representation. **It must** **not** substitute weaker tests than those sources.
@@ -1403,7 +1403,7 @@ Such conduct violates **Article XIV** informational integrity, **Article XV-A** 
 
 **They must** expose meaningful disagreement between models or analytical frameworks.
 
-**They must** enable meaningful, practical comparison of alternative interpretations. **This** aligns with binding collective-choice requirements in [core_10-10_governance.md](core_10-10_governance.md) **Chapter Ten** and **PRIM11** (independent verification).
+**They must** enable meaningful, practical comparison of alternative interpretations. **This** aligns with binding collective-choice requirements in [core_11-11_governance.md](core_11-11_governance.md) **Chapter Eleven** and **PRIM11** (independent verification).
 
 **Salience and attention-allocation integrity:** Where systems rank, filter, recommend, or otherwise prioritize information, the same presentation layer must preserve informational integrity and stakeholder agency.
 
@@ -1449,7 +1449,7 @@ Principles: **Truth and Contestability** through sufficient disclosure for infor
 
 **Canonical meaning:** This section states implementation-layer obligations for this domain, applied consistently with cited constitutional sources and without narrowing them.
 
-**Sentient Constitution Chapter Nine, Article XIV**, **Article XV-A** where auditability or observable evidence is implicated, and **Chapter Five** define info-sphere integrity and epistemic obligations at the constitutional term layer.
+**Sentient Constitution Chapter Ten, Article XIV**, **Article XV-A** where auditability or observable evidence is implicated, and **Chapter Five** define info-sphere integrity and epistemic obligations at the constitutional term layer.
 
 **Chapter Five** cites *Truth (Constitutional Constraint)*, *Epistemic Integrity*, and observability and verification entries where applicable.
 
@@ -1487,7 +1487,7 @@ Principles: **Safety and Truth** through bounded degradation, honest signaling, 
 
 **Canonical meaning:** This section states implementation-layer obligations for this domain, applied consistently with cited constitutional sources and without narrowing them.
 
-**Sentient Constitution Chapter Fourteen** incorporation discipline and **Chapter One** govern the priority ordering for degraded conditions. **Chapter Five** (*Truth (Constitutional Constraint)*; *Epistemic Integrity*), **Chapter Nine, Article XIV**, and **Article XV-A** where auditability or observable evidence is implicated apply where degraded or misleading outputs implicate informational integrity. Local *Failure Integrity* implementation is in the meta-integrity obligation above.
+**Sentient Constitution Chapter Fifteen** incorporation discipline and **Chapter One** govern the priority ordering for degraded conditions. **Chapter Five** (*Truth (Constitutional Constraint)*; *Epistemic Integrity*), **Chapter Ten, Article XIV**, and **Article XV-A** where auditability or observable evidence is implicated apply where degraded or misleading outputs implicate informational integrity. Local *Failure Integrity* implementation is in the meta-integrity obligation above.
 
 Read this section together with **PRIM1**, **PRIM4**, **PRIM5**, **PRIM12**, **PRIM15**, **PROT1**, **Protocol A**, **Article XV-A** where degradation affects presentation integrity or auditability, and **Article XVI-A** where degradation affects lifecycle discipline, dependency handling, or governance response.
 
@@ -1500,7 +1500,7 @@ Principles: **Agency and Anti-Lock-In** through usable portability, reciprocal i
 
 **Canonical meaning:** This section states implementation-layer obligations for this domain, applied consistently with cited constitutional sources and without narrowing them.
 
-**Sentient Constitution Chapter Nine, Article XIX** (*Interoperability, Portability, and Exit Integrity*) and **Chapter Five** ([§3.20](core_05-05_definitions_c_dependent_clusters.md#governance-architecture-oversight-decentralization-and-concentration-cluster) *Governance Architecture, Oversight, Dependency…* — *Systemic Lock-In*, *Dependency*, and related exit-path and market-structure analysis where applicable; [§3.24](core_05-05_definitions_b_semi_independent.md#movement-refuge-semi-independent) *Movement, Refuge, Non-Statelessness, and Exit Integrity* where mobility, refuge, or exit-integrity predicates apply jointly) state the Foundational Rights and foreclosure conditions. **PRIM7** is the **architecture-layer** home for operational interoperability, usable portability, integration boundaries, exit-feasibility transparency, and transition continuity.
+**Sentient Constitution Chapter Ten, Article XIX** (*Interoperability, Portability, and Exit Integrity*) and **Chapter Five** ([§3.20](core_05-05_definitions_c_dependent_clusters.md#governance-architecture-oversight-decentralization-and-concentration-cluster) *Governance Architecture, Oversight, Dependency…* — *Systemic Lock-In*, *Dependency*, and related exit-path and market-structure analysis where applicable; [§3.24](core_05-05_definitions_b_semi_independent.md#movement-refuge-semi-independent) *Movement, Refuge, Non-Statelessness, and Exit Integrity* where mobility, refuge, or exit-integrity predicates apply jointly) state the Foundational Rights and foreclosure conditions. **PRIM7** is the **architecture-layer** home for operational interoperability, usable portability, integration boundaries, exit-feasibility transparency, and transition continuity.
 
 **PROT4** governs justified limits on integration or export. Read this section together with **PRIM5** for dependency mapping and disclosure, and with **PRIM4**, **Article XV-A**, and **[corpus_systems.md](corpus_systems.md), Chapter S1 — Information Types and Handling** (Types **I** and **H**) where portability, attribution, or handling constraints apply.
 
@@ -1515,9 +1515,9 @@ Principles: **Safety, Proportionality, and Accountability** through timely, audi
 
 `PROT6` states the implementation-layer minimum for procedural integrity and adjudication-related governance role. Detailed court, institution, and cross-companion implementation remains with the canonical owner files.
 
-**Sentient Constitution Chapter Nine** (**Articles IX, XII, and XIII**), **Chapter One**, **Chapter Five** (*Harm*, *Risk*, *Accountability*, *Oversight*, *Reversibility*, related entries), and **Chapter Ten** inform intervention where audit, standing/challenge, conflict or emergency proportionality, and misuse controls are implicated.
+**Sentient Constitution Chapter Ten** (**Articles IX, XII, and XIII**), **Chapter One**, **Chapter Five** (*Harm*, *Risk*, *Accountability*, *Oversight*, *Reversibility*, related entries), and **Chapter Ten** inform intervention where audit, standing/challenge, conflict or emergency proportionality, and misuse controls are implicated.
 
-**PRIM6**, **PRIM14**, **PRIM9**, **PROT1**, **PROT4**, **PROT5**, Chapter Ten decision-resolution requirements, and **PRIM15** also intersect.
+**PRIM6**, **PRIM14**, **PRIM9**, **PROT1**, **PROT4**, **PROT5**, Chapter Eleven decision-resolution requirements, and **PRIM15** also intersect.
 
 **PRIM8** is the **architecture-layer** home for **technical** intervention and override capacity. **PROT2** states the **governance-layer** authorization and procedural requirements. Where both apply, neither may be satisfied in lieu of the other.
 
@@ -1526,7 +1526,7 @@ Cross-companion operational definitions for intervention timeliness, trigger and
 ### PRIM9 — Integrity Implementation label: Auditability
 Principles: **Truth and Accountability** through observable, reconstructable, and independently reviewable records.
 
-Articles: Apply with **Sentient Constitution Chapter Nine, Article XV-A** and **Article VII-B** where internal-state protections constrain audit design.
+Articles: Apply with **Sentient Constitution Chapter Ten, Article XV-A** and **Article VII-B** where internal-state protections constrain audit design.
 
 **Constitutional anchor:** Apply this section in conjunction with cited constitutional sources; this section implements and does not narrow them.
 
@@ -1534,16 +1534,16 @@ Articles: Apply with **Sentient Constitution Chapter Nine, Article XV-A** and **
 
 **Canonical meaning:** This section states implementation-layer obligations for this domain, applied consistently with cited constitutional sources and without narrowing them.
 
-**Sentient Constitution Chapters Two through Four**, **Chapter Nine, Article XV-A**, **PRIM4**, and **PROT3** set the audit baseline here. This implementation label applies those sources to observable, reconstructable, and independently reviewable records without narrowing them.
+**Sentient Constitution Chapters Two through Four**, **Chapter Ten, Article XV-A**, **PRIM4**, and **PROT3** set the audit baseline here. This implementation label applies those sources to observable, reconstructable, and independently reviewable records without narrowing them.
 
 Cross-companion operational definitions for auditability requirements, reconstructability, verification-capable records, forensic-depth access, and Article VII-B boundary handling are maintained in `corpus_joint_structure.md` **CJS-3.22** (*Cross-companion auditability and reconstructability terms*). Apply that subsection as required read-with for this **PRIM9** implementation scope.
 
 ### PRIM10 — Integrity Implementation label: Tiered Transparency and Audit Access
 Principles: **Truth, Accountability, and Proportional Access** through tiered transparency that preserves contestability.
 
-Articles: Apply with **Sentient Constitution Chapter Nine, Articles V through IX** (rights-impacting systems), **Article VII-B** (internal-state boundary), and **Article XV-A** (auditability floor).
+Articles: Apply with **Sentient Constitution Chapter Ten, Articles V through IX** (rights-impacting systems), **Article VII-B** (internal-state boundary), and **Article XV-A** (auditability floor).
 
-**Constitutional anchor:** Systems that **materially** affect Foundational Rights under **Chapter Nine, Articles V through IX** must maintain records and disclosures that enable **PRIM4**-grade participation, **PRIM9** verification, and evaluation of **risk**, **dependency**, and **systemic** effects.
+**Constitutional anchor:** Systems that **materially** affect Foundational Rights under **Chapter Ten, Articles V through IX** must maintain records and disclosures that enable **PRIM4**-grade participation, **PRIM9** verification, and evaluation of **risk**, **dependency**, and **systemic** effects.
 
 **Definitions:** Apply with **Chapter Five** definitions for *Transparency*, *Epistemic Integrity*, *Trustworthiness*, and *Protected Internal-State Boundary*.
 
@@ -1554,9 +1554,9 @@ Cross-companion operational definitions for tiered transparency, qualified acces
 ### PRIM11 — Integrity Implementation label: Independent Verification and Integrity of Claims
 Principles: **Truth and Trustworthiness** through independent, reproducible, and pluralistic verification of material claims.
 
-Articles: Apply with **Sentient Constitution Chapter Fourteen** (trust and incorporation bridge) and **Chapter Nine** rights protections where material claims shape rights-relevant decisions.
+Articles: Apply with **Sentient Constitution Chapter Fifteen** (trust and incorporation bridge) and **Chapter Ten** rights protections where material claims shape rights-relevant decisions.
 
-**Constitutional anchor:** Independent verification carries out the **trust-as-verifiable-trustworthiness** **framing** of **Sentient Constitution Chapter Fourteen** and **Chapter Five** (*Trust*, *Trustworthiness*) in the **integrity** domain, including the incorporated **Implementation Group One** trust floor.
+**Constitutional anchor:** Independent verification carries out the **trust-as-verifiable-trustworthiness** **framing** of **Sentient Constitution Chapter Fifteen** and **Chapter Five** (*Trust*, *Trustworthiness*) in the **integrity** domain, including the incorporated **Implementation Group One** trust floor.
 
 **Definitions:** Apply with **Chapter Five** definitions for *Trust*, *Trustworthiness*, *Epistemic Integrity*, and *Trust Degradation and Misleading Reliance*.
 
@@ -1567,7 +1567,7 @@ Cross-companion operational definitions for independent verification scope, repr
 ### PRIM12 — Integrity Implementation label: Reversibility and Containment
 Principles: **Safety and Non-Degradation** through containment, reversibility, and restoration when failure occurs.
 
-Articles: Apply with **Sentient Constitution Chapter Nine, Articles I-III, V, IX, and XIII** where restoration, contestability, and harm containment are implicated.
+Articles: Apply with **Sentient Constitution Chapter Ten, Articles I-III, V, IX, and XIII** where restoration, contestability, and harm containment are implicated.
 
 **Constitutional anchor:** Apply this section in conjunction with cited constitutional sources; this section implements and does not narrow them.
 
@@ -1575,7 +1575,7 @@ Articles: Apply with **Sentient Constitution Chapter Nine, Articles I-III, V, IX
 
 **Canonical meaning:** This section states implementation-layer obligations for this domain, applied consistently with cited constitutional sources and without narrowing them.
 
-**Sentient Constitution Chapter Five**, **Chapter Nine** (**Articles I-III and V, IX, and XIII** where restoration and contestability apply), and **PRIM5**, **PRIM6**, **PRIM9**, **PRIM10**, and **PRIM11** inform reversibility, rollback audit paths, and verification of recovery claims.
+**Sentient Constitution Chapter Five**, **Chapter Ten** (**Articles I-III and V, IX, and XIII** where restoration and contestability apply), and **PRIM5**, **PRIM6**, **PRIM9**, **PRIM10**, and **PRIM11** inform reversibility, rollback audit paths, and verification of recovery claims.
 
 Cross-companion operational definitions for reversibility floors, containment obligations, compensatory restoration where rollback is incomplete, and irreversibility-limitation controls are maintained in `corpus_joint_structure.md` **CJS-3.25** (*Cross-companion reversibility and containment terms*). Apply that subsection as required read-with for this **PRIM12** implementation scope.
 
@@ -1593,7 +1593,7 @@ Operational implementation stays outside this implementation label. Apply `corpu
 ### PRIM14 — Integrity Implementation label: Adversarial Robustness and Abuse Resistance
 Principles: **Safety, Truth, and Anti-Capture Resilience** under adversarial, coordinated, and exploitative conditions.
 
-Articles: Apply with **Sentient Constitution Chapter Nine, Articles XIII-A, XIV, XVII-A, IX, XII, and XI-D** where adversarial abuse affects epistemic mediation, governance integrity, and allocation outcomes; plus **Chapter Fourteen** incorporation discipline and this **PRIM14** adversarial integrity floor.
+Articles: Apply with **Sentient Constitution Chapter Ten, Articles XIII-A, XIV, XVII-A, IX, XII, and XI-D** where adversarial abuse affects epistemic mediation, governance integrity, and allocation outcomes; plus **Chapter Fifteen** incorporation discipline and this **PRIM14** adversarial integrity floor.
 
 **Constitutional anchor:** Apply this section in conjunction with cited constitutional sources; this section implements and does not narrow them.
 
@@ -1601,7 +1601,7 @@ Articles: Apply with **Sentient Constitution Chapter Nine, Articles XIII-A, XIV,
 
 **Canonical meaning:** This section states implementation-layer obligations for this domain, applied consistently with cited constitutional sources and without narrowing them.
 
-**Sentient Constitution Chapter Fourteen** and **Chapter Five** frame the threat context. **PRIM14** is the integrity-layer home for adversarial threat modeling, exploitation resistance, partial-compromise resilience, and defensive-boundary discipline under those sources.
+**Sentient Constitution Chapter Fifteen** and **Chapter Five** frame the threat context. **PRIM14** is the integrity-layer home for adversarial threat modeling, exploitation resistance, partial-compromise resilience, and defensive-boundary discipline under those sources.
 
 Read this section together with **PRIM4**, **PRIM5**, **PRIM9**, **PRIM11**, **PRIM12**, **PRIM15**, **PROT1**, **PROT4**, and **PROT5** where adversarial conditions affect disclosure, dependency exposure, verification, containment, governance response, or revalidation duties.
 
@@ -1610,7 +1610,7 @@ Cross-companion operational definitions for adversarial threat modeling, exploit
 ### PRIM15 — Integrity Implementation label: Evolution, Revalidation, and Non-Entrenchment
 Principles: **Accountability and Non-Entrenchment** through periodic revalidation, challengeability, and adaptive legitimacy.
 
-Articles: Apply with **Sentient Constitution Chapter Nine, Articles XXIV-A and XXIV-B**, and **Chapters Eleven through Thirteen** for non-regression, amendment validity, and procedural validity in constitutional change.
+Articles: Apply with **Sentient Constitution Chapter Ten, Articles XXIV-A and XXIV-B**, and **Chapters Twelve through Fourteen** for non-regression, amendment validity, and procedural validity in constitutional change.
 
 **Constitutional anchor:** Apply this section in conjunction with cited constitutional sources; this section implements and does not narrow them.
 
@@ -1618,13 +1618,13 @@ Articles: Apply with **Sentient Constitution Chapter Nine, Articles XXIV-A and X
 
 **Canonical meaning:** This section states implementation-layer obligations for this domain, applied consistently with cited constitutional sources and without narrowing them.
 
-**Sentient Constitution Chapter Nine, Articles XXIV-A and XXIV-B**, **Chapters Eleven through Thirteen**, **Chapter Five**, **Chapter Fourteen**, **PROT1**, **PROT6**, **PRIM9**, **PRIM11**, and **PRIM14** inform evolution discipline, reviewability, and continuity verification.
+**Sentient Constitution Chapter Ten, Articles XXIV-A and XXIV-B**, **Chapters Twelve through Fourteen**, **Chapter Five**, **Chapter Fifteen**, **PROT1**, **PROT6**, **PRIM9**, **PRIM11**, and **PRIM14** inform evolution discipline, reviewability, and continuity verification.
 
 **PRIM15** is the **integrity-layer** home for revalidation and non-entrenchment. Legitimacy remains **provisional** without ongoing alignment; no system or governance structure gains **permanent** legitimacy through inertia, scale, or historical precedence alone.
 
 All covered systems and structures must **undergo periodic revalidation**, remain **subject to challenge and replacement**, and preserve enough auditability and verification to test whether continued legitimacy still exists.
 
-**Failure to evolve** in response to **new capabilities**, **identified risks**, or **superior alternatives** may trigger **review**, **reauthorization**, or **replacement** under applicable **PROT6**, **Articles XXIV-A and XXIV-B**, **Chapters Eleven through Thirteen**, **Chapter Nine** Rights Floors, and related **Chapter Five** definitions where materially relevant.
+**Failure to evolve** in response to **new capabilities**, **identified risks**, or **superior alternatives** may trigger **review**, **reauthorization**, or **replacement** under applicable **PROT6**, **Articles XXIV-A and XXIV-B**, **Chapters Twelve through Fourteen**, **Chapter Ten** Rights Floors, and related **Chapter Five** definitions where materially relevant.
 
 ---
 ## IMPLEMENTATION GROUP FOUR: GOVERNANCE
@@ -1661,7 +1661,7 @@ Principles: **Reflexive Accountability and Truth** through parity, auditability,
 
 **Canonical meaning:** This section states implementation-layer obligations for this domain, applied consistently with cited constitutional sources and without narrowing them.
 
-**PRIM4**, **PRIM9**, **PRIM10**, **PRIM11**, **PROT4**, **PROT5**, **PROT1**, **PRIM15**, **Sentient Constitution Chapters Two through Four**, **Chapter Six** (*Enforcement Realism Anchors*), and **Chapter Nine** (**Articles I, IX, XII**) frame reflexive transparency and accountability for governance itself.
+**PRIM4**, **PRIM9**, **PRIM10**, **PRIM11**, **PROT4**, **PROT5**, **PROT1**, **PRIM15**, **Sentient Constitution Chapters Two through Four**, **Chapter Six** (*Enforcement Realism Anchors*), and **Chapter Ten** (**Articles I, IX, XII**) frame reflexive transparency and accountability for governance itself.
 
 Cross-companion operational definitions for reflexive accountability parity, transparency/audit verification integrity, enforcement-capacity realism, pluralistic validation safeguards, and anti-corruption auditability controls are maintained in `corpus_joint_structure.md` **CJS-3.30** (*Cross-companion reflexive transparency and accountability terms*). Apply that subsection as required read-with for this **PROT3** implementation scope.
 
@@ -1705,13 +1705,13 @@ Principles: **Procedural Fairness, Contestability, and Timeliness** through due 
 
 `PROT6` states the implementation-layer minimum for procedural integrity and adjudication-related governance role. Detailed court, institution, and cross-companion implementation remains with the canonical owner files.
 
-Procedural integrity translates constitutional principles into consistent, enforceable outcomes under real-world conditions. Foundational Rights affected by such processes remain governed by **Sentient Constitution Chapter Nine**. **Article XXIII** and **Article XXIII-A** supply substantive justice requirements, and **Chapter Five** supplies the governing definitions, including *Adjudication and Dispute Resolution* and *Procedural Fairness*, read with the **Chapter Five** clustered definition *Accountability, Contestability, Adjudication and Dispute Resolution, Collective Accountability Failure, and Force Majeure* where attribution, challenge, adjudication, excuse claims, or collective failure modes are materially implicated.
+Procedural integrity translates constitutional principles into consistent, enforceable outcomes under real-world conditions. Foundational Rights affected by such processes remain governed by **Sentient Constitution Chapter Ten**. **Article XXIII** and **Article XXIII-A** supply substantive justice requirements, and **Chapter Five** supplies the governing definitions, including *Adjudication and Dispute Resolution* and *Procedural Fairness*, read with the **Chapter Five** clustered definition *Accountability, Contestability, Adjudication and Dispute Resolution, Collective Accountability Failure, and Force Majeure* where attribution, challenge, adjudication, excuse claims, or collective failure modes are materially implicated.
 
 **PROT6** is the governance-layer home for due-process requirements, reviewability, correction access, and procedural safeguards for binding outcomes. It states those process properties by reference only and must **not** redefine, narrow, or substitute the constitutional sources or rights.
 
 **Joint interfaces:** Where this section shares structural facts with institutions, classified systems, or Chapter Eight court operations, apply **`corpus_joint_structure.md` CJS-2.2** (applicable rows) and **CJS-3** (especially **CJS-3.3**, **CJS-3.4**, and **CJS-3.6**).
 
-**Governance voting** and comparable **binding collective choice** must satisfy **Sentient Constitution Chapter Ten**, section 4 (*Voting and Binding Collective Choice Protocols*), including subsection **4.1** (entitlement; **Article IX-C**) and subsection **4.2** (records, gates, and method neutrality). They must also satisfy **Article X-C** and this **PROT6** where procedural themes overlap.
+**Governance voting** and comparable **binding collective choice** must satisfy **Sentient Constitution Chapter Eleven**, section 4 (*Voting and Binding Collective Choice Protocols*), including subsection **4.1** (entitlement; **Article IX-C**) and subsection **4.2** (records, gates, and method neutrality). They must also satisfy **Article X-C** and this **PROT6** where procedural themes overlap.
 
 Where adopters use **evaluative (score / range)** or other **cardinal** ballots, **published** **aggregation**, **bounds**, **ties**, and **threshold** application must match that section.
 
@@ -1719,7 +1719,7 @@ Where adopters use **evaluative (score / range)** or other **cardinal** ballots,
 
 **Scope index:** Apply `corpus_joint_structure.md` **CJS-3.33** for due-process requirements, initiator burden in adjudicative and enforcement settings, proportional enforcement selection, review independence, restoration access, uncertainty safeguards, anti-abuse limits, and system-class procedural scaling. Apply **CJS-3.34** for systemic-pattern review, **CUL** assignment, feedback integration, structural records, and stakeholder-scoped disclosure targeting.
 
-For collective-choice procedure, entitlement, records, gates, method neutrality, quorum, and participatory legitimacy, read this section with **Sentient Constitution Chapter Ten** and the applicable `corpus_joint_structure.md` subsections. For court, institution, transition, external-system, and resource-flow mechanics, read the canonical owner files; this section supplies the implementation-layer governance floor only.
+For collective-choice procedure, entitlement, records, gates, method neutrality, quorum, and participatory legitimacy, read this section with **Sentient Constitution Chapter Eleven** and the applicable `corpus_joint_structure.md` subsections. For court, institution, transition, external-system, and resource-flow mechanics, read the canonical owner files; this section supplies the implementation-layer governance floor only.
 
 ---
 
@@ -1735,6 +1735,6 @@ For collective-choice procedure, entitlement, records, gates, method neutrality,
 4. Run `make reference-audit` after substantive cross-file moves.
 5. Where a new high-level joint abstraction is added, verify it remains **Tier 1 only** (no owner-mechanics migration) and record the duplicate-taxonomy risk in the active review notes until the deferred regression path is reinstated.
 
-`doc_architecture.md` remains the **editorial map** and **placement guide**. **`corpus_joint_structure.md`** holds **binding joint structural** text within **Corpus** as designated in **Chapter Five** and incorporated through **Chapter Fourteen**.
+`doc_architecture.md` remains the **editorial map** and **placement guide**. **`corpus_joint_structure.md`** holds **binding joint structural** text within **Corpus** as designated in **Chapter Five** and incorporated through **Chapter Fifteen**.
 
 *Corpus alignment:* edition `SC-Corpus-2026.04.30`, effective **2026-04-18**; canonical mapping in [doc_architecture.md](doc_architecture.md) **section 17**.

@@ -515,7 +515,7 @@ Where verification is technically possible but not practically achievable, compl
 
 If engagement-layer plain language appears to conflict with a Chapter Five Ontological (O), Evaluative (E), or Compliance (C) component, with a definitional gloss, or with the traceability, observability, or verification discipline stated in this chapter, **the definition-layer and verification-layer discipline governs**. Engagement-layer drafting must be adjusted to align with those rules. The adjustment must **not** soften definitional rigor or verification sufficiency.
 
-Jargon, stacked complexity, or opacity used to defeat [Contestability](core_05-05_definitions_b_semi_independent.md#contestability), independent verification under **section 6** of this chapter, or [Article XV: Audit, Transparency, and Independent Verification](core_09-09_rights_part_c.md#article-xv-audit-transparency-and-independent-verification) access is non-compliant under both this chapter and **Chapter One §3.4**.
+Jargon, stacked complexity, or opacity used to defeat [Contestability](core_05-05_definitions_b_semi_independent.md#contestability), independent verification under **section 6** of this chapter, or [Article XV: Audit, Transparency, and Independent Verification](core_10-10_rights_part_c.md#article-xv-audit-transparency-and-independent-verification) access is non-compliant under both this chapter and **Chapter One §3.4**.
 
 ### 7. Contribution and Standing Alignment Pointer
 This chapter does not define the operative constitutional model for:

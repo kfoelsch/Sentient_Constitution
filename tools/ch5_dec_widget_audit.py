@@ -85,11 +85,11 @@ _WIDGET_SLUG_SUFFIXES = (
 CONSUMERS = [
     "core_00-01_principles.md",
     "core_02-04_definition_mechanics.md",
-    "core_07-07_misconduct.md",
-    "core_09-09_rights_part_a.md",
-    "core_09-09_rights_part_b.md",
-    "core_09-09_rights_part_c.md",
-    "core_09-09_rights_part_d.md",
+    "core_08-08_misconduct.md",
+    "core_10-10_rights_part_a.md",
+    "core_10-10_rights_part_b.md",
+    "core_10-10_rights_part_c.md",
+    "core_10-10_rights_part_d.md",
 ]
 
 # Headings that are cluster parents without direct O/E/C body. The audit does

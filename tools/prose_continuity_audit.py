@@ -18,17 +18,17 @@ DEFAULT_SCOPE = [
     "core_05-05_definitions_a_independent.md",
     "core_05-05_definitions_b_semi_independent.md",
     "core_05-05_definitions_c_dependent_clusters.md",
-    "core_06-06_standing_classification.md",
-    "core_06-06_standing_integration.md",
-    "core_07-07_misconduct.md",
-    "core_08-08_forum.md",
-    "core_09-09_rights_part_a.md",
-    "core_09-09_rights_part_b.md",
-    "core_09-09_rights_part_c.md",
-    "core_09-09_rights_part_d.md",
-    "core_10-10_governance.md",
-    "core_11-13_amendment.md",
-    "core_14-14_incorporation.md",
+    "core_06-06_standing_assessment.md",
+    "core_07-07_standing_integration.md",
+    "core_08-08_misconduct.md",
+    "core_09-09_forum.md",
+    "core_10-10_rights_part_a.md",
+    "core_10-10_rights_part_b.md",
+    "core_10-10_rights_part_c.md",
+    "core_10-10_rights_part_d.md",
+    "core_11-11_governance.md",
+    "core_12-14_amendment.md",
+    "core_15-15_incorporation.md",
     "corpus_systems.md",
     "corpus_institutions.md",
     "corpus_forum.md",
@@ -70,7 +70,7 @@ _ORPHAN_LINE_RES: tuple[re.Pattern[str], ...] = tuple(
 
 _SENTENCE_END = frozenset(".!?…")
 
-# Chapter Nine, Article IX (`core_09-09_rights_part_b.md`): lead bullets ending with these must be
+# Chapter Ten, Article IX (`core_10-10_rights_part_b.md`): lead bullets ending with these must be
 # followed by nested `-` items (e.g. `  - `), not additional top-level `- ` siblings (regression for flattened sub-lists).
 _ARTICLE_IX_TOP_HEADING = re.compile(r"^### Article IX:")
 _TOP_LEVEL_ARTICLE_HEADING = re.compile(r"^### Article [IVXLCDM]+:")
@@ -205,8 +205,8 @@ def _is_nested_markdown_bullet(raw: str) -> bool:
 
 
 def scan_article_ix_colon_intro_lists(rel_path: str, lines: list[str]) -> list[Finding]:
-    """Enforce nested sub-bullets under Article IX colon introducers in the Chapter Nine Part B file."""
-    if rel_path != "core_09-09_rights_part_b.md":
+    """Enforce nested sub-bullets under Article IX colon introducers in the Chapter Ten Part B file."""
+    if rel_path != "core_10-10_rights_part_b.md":
         return []
 
     findings: list[Finding] = []

@@ -54,7 +54,7 @@ The Sentient Constitution corpus consists of 18-20 authoritative files totaling 
 cat ai_corpus/indexes/section_manifest_sample.json | jq '.files["core_05-05_definitions_a_independent.md"]'
 
 # For cross-references: Check matrix
-cat ai_corpus/indexes/crossref_matrix.json | jq '.graph.edges[] | select(.source=="core_09-09_rights_part_c.md")'
+cat ai_corpus/indexes/crossref_matrix.json | jq '.graph.edges[] | select(.source=="core_10-10_rights_part_c.md")'
 
 # After source edits: Regenerate indexes
 make ai-corpus-sync

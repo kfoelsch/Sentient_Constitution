@@ -8,52 +8,54 @@ Primary source of truth for operative constitutional text: the **Sentient Consti
 - [core_05-05_definitions_b_semi_independent.md](core_05-05_definitions_b_semi_independent.md) — **Chapter Five, Part B** (**§2 Semi-independent Definitions**)
 - [core_05-05_definitions_c_dependent_clusters.md](core_05-05_definitions_c_dependent_clusters.md) — **Chapter Five, Part C** (**§3 Dependent clusters**)
 - [core_06-06_standing_assessment.md](core_06-06_standing_assessment.md) — **Chapter Six** sections 1–3 (standing classification: contribution / violation axes)
-- [core_06-06_standing_integration.md](core_06-06_standing_integration.md) — **Chapter Six** sections 4–10 (standing effects, attachments, integration, enforcement)
-- [core_07-07_misconduct.md](core_07-07_misconduct.md) — **Chapter Seven** (anti-constitutional misconduct; final Violation Axis **s = 7, 8, and 9**)
-- [core_08-08_forum.md](core_08-08_forum.md) — **Chapter Eight** (forums and jurisdiction)
-- [core_09-09_rights_part_a.md](core_09-09_rights_part_a.md) — **Chapter Nine, Part A** (**Articles I–IV**)
-- [core_09-09_rights_part_b.md](core_09-09_rights_part_b.md) — **Chapter Nine, Part B** (**Articles V–XI**)
-- [core_09-09_rights_part_c.md](core_09-09_rights_part_c.md) — **Chapter Nine, Part C** (**Articles XII–XXI**)
-- [core_09-09_rights_part_d.md](core_09-09_rights_part_d.md) — **Chapter Nine, Part D** (**Articles XXII–XXV**; transition and re-baselining in **Article XXV**)
-- [core_10-10_governance.md](core_10-10_governance.md) — **Chapter Ten** (constitutional contract, legitimacy, authorization, and stewardship)
-- [core_11-13_amendment.md](core_11-13_amendment.md) — **Chapters Eleven through Thirteen** (non-regression; expansion, supremacy, and external legal orders; amendment and procedural validity)
-- [core_14-14_incorporation.md](core_14-14_incorporation.md) — **Chapter Fourteen** (incorporation bridge)
+- [core_07-07_standing_integration.md](core_07-07_standing_integration.md) — **Chapter Seven** (standing effects, attachments, integration, enforcement)
+- [core_08-08_misconduct.md](core_08-08_misconduct.md) — **Chapter Eight** (anti-constitutional misconduct; final Violation Axis **s = 7, 8, and 9**)
+- [core_09-09_forum.md](core_09-09_forum.md) — **Chapter Nine** (forums and jurisdiction)
+- [core_10-10_rights_part_a.md](core_10-10_rights_part_a.md) — **Chapter Ten, Part A** (**Articles I–IV**)
+- [core_10-10_rights_part_b.md](core_10-10_rights_part_b.md) — **Chapter Ten, Part B** (**Articles V–XI**)
+- [core_10-10_rights_part_c.md](core_10-10_rights_part_c.md) — **Chapter Ten, Part C** (**Articles XII–XXI**)
+- [core_10-10_rights_part_d.md](core_10-10_rights_part_d.md) — **Chapter Ten, Part D** (**Articles XXII–XXV**; transition and re-baselining in **Article XXV**)
+- [core_11-11_governance.md](core_11-11_governance.md) — **Chapter Eleven** (constitutional contract, legitimacy, authorization, and stewardship)
+- [core_12-14_amendment.md](core_12-14_amendment.md) — **Chapters Twelve through Fourteen** (non-regression; expansion, supremacy, and external legal orders; amendment and procedural validity)
+- [core_15-15_incorporation.md](core_15-15_incorporation.md) — **Chapter Fifteen** (incorporation bridge)
 
 **Corpus edition:** `SC-Corpus-2026.04.32`
 **Effective date:** 2026-04-24
-**Status:** Substantive binding text through **Chapter Fourteen** is **stable for assurance review** under edition `SC-Corpus-2026.04.32` (see [doc_architecture.md](doc_architecture.md) §**17** *Pass (2026-04-24, edition .32)* for the latest implementation-layer batch).
+**Status:** Substantive binding text through **Chapter Fifteen** is **stable for assurance review** under edition `SC-Corpus-2026.04.32` (see [doc_architecture.md](doc_architecture.md) §**17** *Pass (2026-04-24, edition .32)* for the latest implementation-layer batch).
 
-The assurance baseline is the full operative Sentient Constitution across the numbered core files (**Chapters One through Fourteen**).
+The assurance baseline is the full operative Sentient Constitution across the numbered core files (**Chapters One through Fifteen**).
 
 This edition treats the following chapters as binding constitutional text, not as deferred or stub-only material:
-- **Chapters Eleven through Thirteen**
-- **Chapter Fourteen** (*Incorporation bridge*)
+- **Chapters Twelve through Fourteen**
+- **Chapter Fifteen** (*Incorporation bridge*)
 
 **Start Here (first read):**
 - Read **Chapter One** first in `core_00-01_principles.md` (core values and constraints).
 - Use **Chapters Two through Four** in `core_02-04_definition_mechanics.md` for definition structure, integrity, burden and verification links.
 - Use **Chapter Five** in `core_05-05_definitions_a_independent.md` (Part A), `core_05-05_definitions_b_semi_independent.md` (Part B), and `core_05-05_definitions_c_dependent_clusters.md` (Part C) for foundational definitions (Chapter Five is the definition stack, not the Rights Floor).
-- Use **Chapter Six** in `core_06-06_standing_assessment.md` and `core_06-06_standing_integration.md` for contribution, violation, and standing (two-axis model: **Axis I** — contribution state; **Axis II** — violation nature; **standing effect** — the **combined** **effect** of both axes).
-- Use **Chapter Seven** in `core_07-07_misconduct.md` for anti-constitutional misconduct and final **s = 7, 8, or 9** slot assignment (unified-incident gravity; **Chapter Six**, section **10** is the authoritative pointer into this chapter).
-- Use **Chapter Eight** in `core_08-08_forum.md` for constitutional forum families, default jurisdiction, and the **cross-forum anti-self-judging** rule.
-- Read **Chapter Nine** in `core_09-09_rights_part_a.md` through `core_09-09_rights_part_d.md` for the Rights Floor (articles appear in **Parts A–D** in a **planet-first** presentation order; non-operative summary in [architecture_primer.md](architecture_primer.md) **section 6**).
-- Use **Chapter Ten** in `core_10-10_governance.md` for constitutional contract, legitimacy, authorization, and stewardship requirements.
-- Use **Chapter Eleven** in `core_11-13_amendment.md` for non-regression and substantive amendment validity (Test 1; anti-evasion; referral triggers).
-- Use **Chapter Twelve** in `core_11-13_amendment.md` for expansion of protection, supremacy relative to other norms, and external legal orders.
-- Use **Chapter Thirteen** in `core_11-13_amendment.md` for ratification, adoption, procedural validity tests (Tests 2–4), and amendment procedure requirements.
-- Use **Chapter Fourteen** in `core_14-14_incorporation.md` for the incorporation bridge (what companion files bind, adoption and custody, and no silent drift).
+- Use **Chapter Six** in `core_06-06_standing_assessment.md` for contribution and violation classification (two-axis model: **Axis I** — contribution state; **Axis II** — violation nature).
+- Use **Chapter Seven** in `core_07-07_standing_integration.md` for standing effects, attachments, integration, enforcement, and the Chapter Eight pointer.
+- Use **Chapter Eight** in `core_08-08_misconduct.md` for anti-constitutional misconduct and final **s = 7, 8, or 9** slot assignment (unified-incident gravity; **Chapter Eight**, section **6** is the authoritative pointer into this chapter).
+- Use **Chapter Nine** in `core_09-09_forum.md` for constitutional forum families, default jurisdiction, and the **cross-forum anti-self-judging** rule.
+- Read **Chapter Ten** in `core_10-10_rights_part_a.md` through `core_10-10_rights_part_d.md` for the Rights Floor (articles appear in **Parts A–D** in a **planet-first** presentation order; non-operative summary in [architecture_primer.md](architecture_primer.md) **section 6**).
+- Use **Chapter Eleven** in `core_11-11_governance.md` for constitutional contract, legitimacy, authorization, and stewardship requirements.
+- Use **Chapter Twelve** in `core_12-14_amendment.md` for non-regression and substantive amendment validity (Test 1; anti-evasion; referral triggers).
+- Use **Chapter Thirteen** in `core_12-14_amendment.md` for expansion of protection, supremacy relative to other norms, and external legal orders.
+- Use **Chapter Fourteen** in `core_12-14_amendment.md` for ratification, adoption, procedural validity tests (Tests 2–4), and amendment procedure requirements.
+- Use **Chapter Fifteen** in `core_15-15_incorporation.md` for the incorporation bridge (what companion files bind, adoption and custody, and no silent drift).
 
 **Fast Locator:**
-- Rights Floor -> **Chapter Nine** (`core_09-09_rights_part_a.md` through `core_09-09_rights_part_d.md`; see [architecture_primer.md](architecture_primer.md) **section 6** for Part A–D reading map)
-- Anti-constitutional misconduct (final **s = 7, 8, or 9**; unified-incident gravity) -> **Chapter Seven** (`core_07-07_misconduct.md`)
-- Forum families, jurisdiction, and cross-forum anti-self-judging -> **Chapter Eight** (`core_08-08_forum.md`)
+- Rights Floor -> **Chapter Ten** (`core_10-10_rights_part_a.md` through `core_10-10_rights_part_d.md`; see [architecture_primer.md](architecture_primer.md) **section 6** for Part A–D reading map)
+- Anti-constitutional misconduct (final **s = 7, 8, or 9**; unified-incident gravity) -> **Chapter Eight** (`core_08-08_misconduct.md`)
+- Forum families, jurisdiction, and cross-forum anti-self-judging -> **Chapter Nine** (`core_09-09_forum.md`)
 - Burden of proof, traceability, verification -> **Chapter Four** (`core_02-04_definition_mechanics.md`)
-- Contribution, violation, standing -> **Chapter Six** (`core_06-06_standing_assessment.md`; `core_06-06_standing_integration.md`)
-- Constitutional contract, legitimacy, authorization, stewardship -> **Chapter Ten** (`core_10-10_governance.md`)
-- Non-regression (substantive validity) -> **Chapter Eleven** (`core_11-13_amendment.md`)
-- Supremacy and external dispute hooks -> **Chapter Twelve** (`core_11-13_amendment.md`)
-- Amendment validity, adoption chain -> **Chapter Thirteen** (`core_11-13_amendment.md`)
-- Incorporation boundary and custody effect -> **Chapter Fourteen** (`core_14-14_incorporation.md`)
+- Contribution and violation classification -> **Chapter Six** (`core_06-06_standing_assessment.md`)
+- Standing effects and integration -> **Chapter Seven** (`core_07-07_standing_integration.md`)
+- Constitutional contract, legitimacy, authorization, stewardship -> **Chapter Eleven** (`core_11-11_governance.md`)
+- Non-regression (substantive validity) -> **Chapter Twelve** (`core_12-14_amendment.md`)
+- Supremacy and external dispute hooks -> **Chapter Thirteen** (`core_12-14_amendment.md`)
+- Amendment validity, adoption chain -> **Chapter Fourteen** (`core_12-14_amendment.md`)
+- Incorporation boundary and custody effect -> **Chapter Fifteen** (`core_15-15_incorporation.md`)
 
 **Binding vs support (quick rule):**
 - **Binding:** the numbered `core_*` constitutional files read together as one instrument, plus designated adopted obligations in `corpus_joint_structure.md`, `corpus_systems.md`, `corpus_institutions.md`, `corpus_forum.md`, and `corpus_joint_structure.md`.
@@ -79,12 +81,12 @@ Related documents (same corpus):
 
 **Incorporation rule:** Obligations in **corpus_joint_structure.md**, **corpus_systems.md**, **corpus_institutions.md**, **corpus_forum.md**, and **corpus_joint_structure.md** are **binding implementation text incorporated by reference** into the corpus. They do **not** create a second constitutional source.
 
-Sentient Constitution **Chapter Fourteen** in `core_14-14_incorporation.md` is the **constitutional incorporation bridge**. It defines binding incorporated implementation text, adoption and custody, and the no-silent-drift rule. **§4 Adoption framing and scope of authority** of Chapter Fourteen states the instrument's own adoption-framing self-description: the Sentient Constitution is an **aspirational model constitutional instrument** whose substantive content (principles, definitions, Rights Floor, and other substantive chapters) stands as stated regardless of adoption, but whose **operative enforcement effect** within any jurisdiction, federation, polity, organization, system, or adopter body is contingent on valid adoption under **Chapter Thirteen** and **Chapter Fourteen**. "The instrument lacks jurisdiction" is not a substantive rebuttal of the instrument's content; it is only a correct statement about operative enforcement against a non-adopter.
+Sentient Constitution **Chapter Fifteen** in `core_15-15_incorporation.md` is the **constitutional incorporation bridge**. It defines binding incorporated implementation text, adoption and custody, and the no-silent-drift rule. **§4 Adoption framing and scope of authority** of Chapter Fifteen states the instrument's own adoption-framing self-description: the Sentient Constitution is an **aspirational model constitutional instrument** whose substantive content (principles, definitions, Rights Floor, and other substantive chapters) stands as stated regardless of adoption, but whose **operative enforcement effect** within any jurisdiction, federation, polity, organization, system, or adopter body is contingent on valid adoption under **Chapter Fifteen** and **Chapter Fifteen**. "The instrument lacks jurisdiction" is not a substantive rebuttal of the instrument's content; it is only a correct statement about operative enforcement against a non-adopter.
 
 `doc_architecture.md` describes corpus ownership, file boundaries, and project-wide definition discipline.
 
 Quick authority order:
-- **Binding constitutional source:** the numbered `core_*` Sentient Constitution files read together as one instrument (`core_00-01_principles.md` through `core_14-14_incorporation.md`).
+- **Binding constitutional source:** the numbered `core_*` Sentient Constitution files read together as one instrument (`core_00-01_principles.md` through `core_15-15_incorporation.md`).
 - **Binding incorporated implementation source:** designated obligations in `corpus_joint_structure.md`, `corpus_systems.md`, `corpus_institutions.md`, `corpus_forum.md`, and `corpus_joint_structure.md` within valid adoption scope.
 - **Process/map support (non-constitutional):** `doc_architecture.md`, `TODO.md`, regression and evidence artifacts unless explicitly incorporated by valid adopting instrument.
 - **Conflict order:** Sentient Constitution meaning controls. Use the **Authority Stack and Internal Hierarchy** cluster in Chapter Five to distinguish source-layer status from last-resort interpretive hierarchy. Incorporated and process layers must satisfy, not narrow, Sentient Constitution constraints.
