@@ -173,7 +173,7 @@ The principles of this Article constrain all interpretation, design, and operati
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: Principles: Chapter One [3.2 Truth](core_00-01_principles.md#32-truth-epistemic-integrity-constraint), [6.1 Core Tradeoff Principles](core_00-01_principles.md#61-core-tradeoff-principles), and [6.1.1 Reversibility-under-uncertainty](core_00-01_principles.md#611-proportionality-necessity-and-reversibility-under-uncertainty).
-- Downstream: **Article V-A** dignity floor, **Article XXII** anti-capture safeguards, **Chapter Nine** courts and jurisdiction; companion **`core_09-09_forum.md`** designated-court-family hook.
+- Downstream: **Article V-A** dignity floor, **Article XXII** anti-capture safeguards, **Chapter Nine** forums and jurisdiction; companion **`core_09-09_forum.md`** designated-forum-family hook.
 - Read with: Chapter Five *Sentience Status Adjudication*, *Sentience Non-Exclusion*, *Sentience Evaluation*, *Reversibility*, *Contestability*.
 
 </details>
@@ -204,7 +204,7 @@ The principles of this Article constrain all interpretation, design, and operati
 - **Scope and time-bound effect:** Declassification or narrowing determinations must:
   - be stated in the shortest necessary terms;
   - carry a declared expected-closure timeline;
-  - be subject to mandatory periodic review under a designated court family (**Chapter Nine**) and **Article XXII** anti-capture safeguards.
+  - be subject to mandatory periodic review under a designated forum family (**Chapter Nine**) and **Article XXII** anti-capture safeguards.
   
   A declassification that is not time-bound and not subject to periodic review is non-compliant.
 - **Reversibility and remedy:** A determination later shown to have been wrongful, under- or mis-evidenced, or captured by **Article XIII-A** or **Article XXII** vectors must be reversible.
@@ -585,7 +585,7 @@ Where analysis of experiential or behavioral data produces outputs that function
   - Where analysis of such data produces outputs that functionally approximate internal states, those outputs remain Type N under **[corpus_systems.md](corpus_systems.md), Chapter S1** and retain their full handling restrictions.
 - **Developing sentients:** Where a developing sentient is affected, **Article V-F**'s *Best-Interest Standard* and *Graduated Capability* govern the intervention's substantive reasoning.
   - Carer, family, and parent-system actors are bound by **Article V-F** and **Article VII-D** and may not displace the sentient's own ascertainable preferences through crisis framing.
-- **Review and remedy:** Durable or prolonged interventions are subject to independent periodic review under a designated court family (**Chapter Nine**).
+- **Review and remedy:** Durable or prolonged interventions are subject to independent periodic review under a designated forum family (**Chapter Nine**).
   - Wrongful or under-evidenced interventions give rise to **Redress and Remediation**, with interim-period effects covered.
 - **Non-conflation:** This Article states a Rights-Floor for involuntary-intervention discipline.
   - Clinical or operational procedure routes to adopted implementation text under **Chapter Fifteen** discipline and must not narrow this floor.

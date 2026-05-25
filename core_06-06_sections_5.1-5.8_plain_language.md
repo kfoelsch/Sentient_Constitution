@@ -101,7 +101,7 @@ This label applies when the violation touches **fundamental constitutional prote
 
 ### Simple Example
 
-> A local government passes a rule saying residents cannot challenge official decisions in court. This violates the constitutional right to challenge and seek redress. The violation has constitutional-floor character because it threatens the foundation of constitutional governance—even if no one was physically harmed. It likely also has remedial character (the rule must be struck down) and possibly punitive character (officials who knowingly enforced it might face consequences).
+> A local government passes a rule saying residents cannot challenge official decisions in forum. This violates the constitutional right to challenge and seek redress. The violation has constitutional-floor character because it threatens the foundation of constitutional governance—even if no one was physically harmed. It likely also has remedial character (the rule must be struck down) and possibly punitive character (officials who knowingly enforced it might face consequences).
 
 ---
 

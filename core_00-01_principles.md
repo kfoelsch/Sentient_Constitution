@@ -21,7 +21,7 @@ That objective is interpreted through:
 - **Chapter One** — principles and constraints
 - **Chapters Two through Four** — definition structure, integrity, burden, tracing, and verification
 - **Chapter Five** in [core_05-05_definitions_a_independent.md](core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) — **Foundational Definitions** and related definitional obligations only; it does **not** state the Rights Floor
-- **Chapters Six through Eight** — contribution and violation **classification** (Axes I and II), final **Violation Axis s = 7, 8, or 9** anti-constitutional misconduct, and court / jurisdiction allocation
+- **Chapters Six through Eight** — contribution and violation **classification** (Axes I and II), final **Violation Axis s = 7, 8, or 9** anti-constitutional misconduct, and forum / jurisdiction allocation
 - **Chapter Ten** — Foundational Rights
 - **Chapter Ten** — Constitutional Contract Layer, legitimacy, authorization, and stewardship
 

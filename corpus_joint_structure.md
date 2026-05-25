@@ -129,13 +129,13 @@ This section is the **integration spine** for the four companion layers: **who o
 
 1. **`corpus_joint_structure.md` (this file)** — **Cross-domain implementation layer** and **joint** requirements (**CJS-2**, **CJS-3**) with explicit **read-with** ordering where **two or more** companions would otherwise admit **inconsistent structural treatment**.
 2. **`corpus_systems.md`** — **Chapter S1–S3** taxonomies and designated protocols where system class, stewardship, or lifecycle fixes the **scale** of obligations.
-3. **`corpus_institutions.md`** — institutional governance, assurance lanes, escalation, non-court architecture.
-4. **`corpus_forum.md`** — forum-operational doctrine for **Chapter Eight** forum families.
+3. **`corpus_institutions.md`** — institutional governance, assurance lanes, escalation, non-forum architecture.
+4. **`corpus_forum.md`** — forum-operational doctrine for **Chapter Nine** forum families.
 
 **Stricter-wins:** Where companions differ in stringency for the same materially relevant risk, the **stricter clearly adopted** rule governs (**Sentient Constitution Chapter Fifteen**; opening of **`corpus_systems.md`** on classification and material-impact profile). The same principle applies in **CJS-3.6** where profiles and implementation labels appear to conflict.
 
 ### CJS-2.1: Intentional overlap (non-duplication discipline)
-Some topics are **deliberately** split across companions (for example contest-integrity design, delegated subunits, forensic or technical-court interfaces). For those:
+Some topics are **deliberately** split across companions (for example contest-integrity design, delegated subunits, forensic or technical-forum interfaces). For those:
 
 - the **domain owner** states the **full operative** rules for its scope;
 - **this file** states **joint satisfaction conditions**, **read-with pointers**, and **interface requirements** only;
@@ -156,8 +156,8 @@ Each row names the **first** operative owner for the topic. **Mandatory read-wit
 
 | Row ID | Topic | Primary owner | Mandatory read-with |
 |--------|--------|---------------|---------------------|
-| **CJS-R01** | Delegated binding bodies and hybrid composition (non-court institutions) | `corpus_institutions.md` **CI-9.1B** | **`corpus_joint_structure.md` CJS-3.7**, **CJS-3.12**; `corpus_systems.md` **Chapter S2**, **Chapter S3**; `corpus_institutions.md` **CI-2**; `corpus_joint_structure.md` **PROT1**, **PROT4** (as cited in owner text) |
-| **CJS-R02** | Court chambers, divisions, and designated panels (Chapter Nine families) | `corpus_forum.md` **CC-2.5**–**CC-2.5.5** | **`corpus_joint_structure.md` CJS-3.7**, **CJS-3.12**; `corpus_institutions.md` **CI-9.1B**; `corpus_systems.md` **Chapter S2**, **Chapter S3**; `core_09-09_forum.md` **Chapter Nine** |
+| **CJS-R01** | Delegated binding bodies and hybrid composition (non-forum institutions) | `corpus_institutions.md` **CI-9.1B** | **`corpus_joint_structure.md` CJS-3.7**, **CJS-3.12**; `corpus_systems.md` **Chapter S2**, **Chapter S3**; `corpus_institutions.md` **CI-2**; `corpus_joint_structure.md` **PROT1**, **PROT4** (as cited in owner text) |
+| **CJS-R02** | Forum chambers, divisions, and designated panels (Chapter Nine families) | `corpus_forum.md` **CC-2.5**–**CC-2.5.5** | **`corpus_joint_structure.md` CJS-3.7**, **CJS-3.12**; `corpus_institutions.md` **CI-9.1B**; `corpus_systems.md` **Chapter S2**, **Chapter S3**; `core_09-09_forum.md` **Chapter Nine** |
 | **CJS-R03** | Lawful panel formation, disclosure, recusal, substitution, inability-to-form | `corpus_forum.md` **CC-3** | **`corpus_joint_structure.md` CJS-3.12**; `corpus_institutions.md` **CI-4**, **CI-5**; `core_09-09_forum.md` **Chapter Nine**; `corpus_joint_structure.md` **PROT6** (Implementation Group Four) |
 | **CJS-R04** | Routing, intake, transfer, certification, representative treatment | `corpus_forum.md` **CC-4** | **`corpus_joint_structure.md` CJS-3.12**; `core_09-09_forum.md` **Chapter Nine**; `corpus_institutions.md` **CI-8** |
 | **CJS-R05** | Appeal, secondary review, exhaustion | `corpus_forum.md` **CC-5** | `corpus_institutions.md` **CI-6**; `corpus_joint_structure.md` Implementation Group Four (including **PROT6**) |
@@ -166,12 +166,12 @@ Each row names the **first** operative owner for the topic. **Mandatory read-wit
 | **CJS-R08** | Independent investigative service and prosecution interface | `corpus_forum.md` **CC-8** | `corpus_institutions.md` **CI-7A.1**, **CI-8** |
 | **CJS-R09** | Technical courts and specialist chambers | `corpus_forum.md` **CC-9** | `corpus_institutions.md` **CI-7B**, **CI-15B**; `core_09-09_forum.md` **Chapter Nine** |
 | **CJS-R10** | Court performance, backlog requirements, publication timeliness, accessibility | `corpus_forum.md` **CC-10** | `corpus_institutions.md` **CI-7.3**; Sentient Constitution **Article XV** themes in `core_10-10_rights_part_*.md` **Chapter Ten** |
-| **CJS-R11** | Court continuity, fallback operation, emergency adjudication | `corpus_forum.md` **CC-11** | `corpus_systems.md` **Protocol A**; `corpus_institutions.md` **CI-14** (where transition or continuity interfaces apply); `core_09-09_forum.md` **Chapter Nine** |
-| **CJS-R12** | Standard court records, forms, and evidence artifacts | `corpus_forum.md` **CC-12** | `corpus_institutions.md` **CI-6**; `core_02-04_definition_mechanics.md` **Chapters Two through Four** (traceability and verification discipline) |
-| **CJS-R13** | Court staffing, shared administration, structural review, structural records | `corpus_forum.md` **CC-13** | `corpus_institutions.md` **CI-4**, **CI-5**; **CI-9.1B** where delegated court subunits apply |
+| **CJS-R11** | Forum continuity, fallback operation, emergency adjudication | `corpus_forum.md` **CC-11** | `corpus_systems.md` **Protocol A**; `corpus_institutions.md` **CI-14** (where transition or continuity interfaces apply); `core_09-09_forum.md` **Chapter Nine** |
+| **CJS-R12** | Standard forum records, forms, and evidence artifacts | `corpus_forum.md` **CC-12** | `corpus_institutions.md` **CI-6**; `core_02-04_definition_mechanics.md` **Chapters Two through Four** (traceability and verification discipline) |
+| **CJS-R13** | Forum staffing, shared administration, structural review, structural records | `corpus_forum.md` **CC-13** | `corpus_institutions.md` **CI-4**, **CI-5**; **CI-9.1B** where delegated forum subunits apply |
 | **CJS-R14** | Institutional functional lanes and non-delegable splits | `corpus_institutions.md` **CI-2** | `corpus_joint_structure.md` **PROT1**; `corpus_systems.md` **Chapter S3** where CSS stewardship intersects |
-| **CJS-R15** | Contest-integrity monitoring (pathway integrity, not merits) | `corpus_institutions.md` **CI-7.3** | `corpus_systems.md` **Chapter S2**, **Chapter S3** (including steward contest-integrity paragraphs where applicable); `corpus_joint_structure.md` **PROT6**; **CJS-R03**, **CJS-R10** where court performance data feeds monitors |
-| **CJS-R16** | Cross-institution coordination, deadlock, and escalation | `corpus_institutions.md` **CI-8** | `corpus_forum.md` **CC-4**, **CC-6**; `core_09-09_forum.md` **Chapter Nine** (including backup and cross-court integrity routing) |
+| **CJS-R15** | Contest-integrity monitoring (pathway integrity, not merits) | `corpus_institutions.md` **CI-7.3** | `corpus_systems.md` **Chapter S2**, **Chapter S3** (including steward contest-integrity paragraphs where applicable); `corpus_joint_structure.md` **PROT6**; **CJS-R03**, **CJS-R10** where forum performance data feeds monitors |
+| **CJS-R16** | Cross-institution coordination, deadlock, and escalation | `corpus_institutions.md` **CI-8** | `corpus_forum.md` **CC-4**, **CC-6**; `core_09-09_forum.md` **Chapter Nine** (including backup and cross-forum integrity routing) |
 | **CJS-R17** | Cross-companion trust integrity (joint operation model) | `corpus_joint_structure.md` Implementation Group One (*Meta-integrity obligation: Trust and Trustworthiness*) | **`corpus_joint_structure.md` CJS-3.9**; `core_05-05_definitions_c_dependent_clusters.md` **Chapter Five, section 3.39** (*Trust*, *Trustworthiness*, *Trust Degradation and Misleading Reliance*); `corpus_systems.md` **Chapter S2**, **Chapter S3** where classification or dependency scales assurance burden; `corpus_institutions.md` **CI-7.3**, **CI-8** and `corpus_forum.md` **CC-10** where pathway integrity, publication cadence, or accessibility materially conditions justified trust |
 | **CJS-R18** | Class-scaled lane staffing and competency redundancy for materially binding stewardship | `corpus_institutions.md` **CI-2**, **CI-4**, **CI-11**, **CI-12** | **`corpus_joint_structure.md` CJS-3.11**; `corpus_systems.md` **Chapter S2**, **Chapter S3**; `core_11-11_governance.md` **Chapter Eleven**, section **5** |
 | **CJS-R19** | Cross-companion integrity assurance and resilience operations | `corpus_joint_structure.md` **CJS-3.13** | `corpus_joint_structure.md` **PRIM9** through **PRIM15**; `core_05-05_definitions_a_independent.md` **Chapter Five** (*Auditability*, *Verifiability*, *Verification Accessibility*, *Reversibility*, *Dependency*, *Cascading Failure*, *Adversarial, Scaled, and Exploited Conditions*, *Trustworthiness*); `corpus_systems.md` **Chapter S1**, **Chapter S2**, **Chapter S3** where classification, data handling, or stewardship scales burden; `corpus_institutions.md` **CI-7.3**, **CI-8** and `corpus_forum.md` **CC-10** where monitoring, escalation, publication, or review pathways are materially required |
@@ -192,17 +192,17 @@ These obligations apply **in addition to** domain-owner text in **CP**, **CS**, 
 **Joint obligations** apply where **CJS-2.2** assigns a **mandatory read-with** chain for a materially applicable topic, or where adopting instruments expressly incorporate **`corpus_joint_structure.md`**.
 
 ### CJS-3.2 No false partial compliance across companions
-Where **two or more** companions in a **CJS-2.2** read-with chain impose **structural** duties on the **same facts** (same institution, court family, classified system, or stewardship chain), it is **non-compliant** to claim compliance by satisfying **only one** companion while a **material** obligation in another listed companion stays **unmet** for that same structural outcome.
+Where **two or more** companions in a **CJS-2.2** read-with chain impose **structural** duties on the **same facts** (same institution, forum family, classified system, or stewardship chain), it is **non-compliant** to claim compliance by satisfying **only one** companion while a **material** obligation in another listed companion stays **unmet** for that same structural outcome.
 
 Permitted **narrower interim** scopes (for example published emergency scopes) must be **explicitly bounded**, **time-limited**, **reversible**, and **traceable** to Sentient Constitution and implementation companion emergency hooks. Silent or indefinite “temporary” narrowing is **non-compliant**.
 
 ### CJS-3.3 Merits boundary for integrity, monitoring, and support roles
 **Contest-integrity monitoring**, **pathway performance monitoring**, **non-merits forensic support**, and **investigative support** must stay structurally distinct from **binding merits adjudication** under **Chapter Eight**, unless a **separate** lawful instrument explicitly authorizes limited merits participation for a named role.
 
-Institutions must **publish mandates** stating exclusions from merits decisions, reporting lines, cadence, and interfaces to assurance lanes. **Role merging** that lets oversight or support silently replace an assigned court family’s merits function is **non-compliant**. (Operative detail: **CI-7.3**, **CC-7**, **CC-8**, **`corpus_joint_structure.md`** **PROT6**.)
+Institutions must **publish mandates** stating exclusions from merits decisions, reporting lines, cadence, and interfaces to assurance lanes. **Role merging** that lets oversight or support silently replace an assigned forum family’s merits function is **non-compliant**. (Operative detail: **CI-7.3**, **CC-7**, **CC-8**, **`corpus_joint_structure.md`** **PROT6**.)
 
-### CJS-3.4 Institution-hosted or court-adjacent operations
-Where an institution **hosts**, **budgets**, **administers**, or **technically operates** court infrastructure, clerking, digital records, security, or personnel systems, its **CI-*** design must make **CC-*** independence and contestability **feasible in practice**, not only on paper, across **budget**, **HR**, **records**, **security**, and **procurement** lanes.
+### CJS-3.4 Institution-hosted or forum-adjacent operations
+Where an institution **hosts**, **budgets**, **administers**, or **technically operates** forum infrastructure, clerking, digital records, security, or personnel systems, its **CI-*** design must make **CC-*** independence and contestability **feasible in practice**, not only on paper, across **budget**, **HR**, **records**, **security**, and **procurement** lanes.
 
 ### CJS-3.5 Classification alignment for supervised scope
 Where **`corpus_systems.md`** **Chapter S2** or **Chapter S3** materially governs the same systems an institution supervises, published institutional maps (**CI-9.1A** and related **CI-9** material) must stay **consistent** with the **operative** systems implementation companion classification profile, including **reclassification triggers**. **Silent divergence** between institution-facing labels and systems implementation companion treatment is **non-compliant** where either layer assigns **material duties** from classification.
@@ -211,7 +211,7 @@ Where **`corpus_systems.md`** **Chapter S2** or **Chapter S3** materially govern
 Where **CS** protocols or **CI**/**CC** procedures **cite** **PRIM/PROT** hooks as their authority basis, adopters must preserve **traceability** to those codes and must **not** use companion text to **weaken** the cited implementation label. Where a cited profile and a cited implementation label appear to conflict, use **Sentient Constitution Chapter Fifteen** conflict order and the **stricter clearly adopted** requirement (**CJS-2**, stricter-wins).
 
 ### CJS-3.7 Mandatory hybrid authority composition (delegated binding bodies)
-This obligation applies where **CJS-R01** or **CJS-R02** materially applies: **delegated subunits** with materially binding authority under **`corpus_institutions.md` CI-9.1B**, and **court chambers, divisions, or designated panels** under **`corpus_forum.md` CC-2.5** through **CC-2.5.4**. **`corpus_institutions.md`** and **`corpus_forum.md`** retain **identification**, **competence**, **class and court-floor scaling**, **rotating attachment bounds**, **home-based term rules**, **appeals path**, **substitute capture safeguards** (**CI**), and **court-specific** continuity doctrine; this subsection states the **shared hybrid minimum** so institutions and courts do not silently diverge on the same capture-control structure.
+This obligation applies where **CJS-R01** or **CJS-R02** materially applies: **delegated subunits** with materially binding authority under **`corpus_institutions.md` CI-9.1B**, and **forum chambers, divisions, or designated panels** under **`corpus_forum.md` CC-2.5** through **CC-2.5.4**. **`corpus_institutions.md`** and **`corpus_forum.md`** retain **identification**, **competence**, **class and forum-floor scaling**, **rotating attachment bounds**, **home-based term rules**, **appeals path**, **substitute capture safeguards** (**CI**), and **forum-specific** continuity doctrine; this subsection states the **shared hybrid minimum** so institutions and forums do not silently diverge on the same capture-control structure.
 
 Each relevant formation or chamber-creation instrument must operate a **mandatory published hybrid** that **combines** **home-based** authority and **rotating** authority. **Matter-by-matter designation** may supply the **rotating** pole where it replaces a standing rotating bench.
 
@@ -222,7 +222,7 @@ The instrument must state:
 
 Where ordinary lawful deciding bodies are **multi-member**, the instrument must show how **home-based** authority remains a **minority** on the deciding bench or body, unless the instrument instead adopts an **equivalent hybrid across stages** that is **reasoned** and **published**.
 
-**Home-based-only** or **rotating-only** composition is **non-compliant** for bodies within this subsection's scope that render **ordinarily binding** decisions, **except** during **published emergency** scopes permitted only under the **domain owner's** continuity and emergency rules (**parent institution** continuity rules and governing law for **CI**; **`corpus_forum.md` CC-11** and successor continuity rules for **Chapter Eight** court families), **only** for the emergency scope, and **only** with **documented return** to the hybrid **baseline** when emergency conditions end.
+**Home-based-only** or **rotating-only** composition is **non-compliant** for bodies within this subsection's scope that render **ordinarily binding** decisions, **except** during **published emergency** scopes permitted only under the **domain owner's** continuity and emergency rules (**parent institution** continuity rules and governing law for **CI**; **`corpus_forum.md` CC-11** and successor continuity rules for **Chapter Nine** forum families), **only** for the emergency scope, and **only** with **documented return** to the hybrid **baseline** when emergency conditions end.
 
 Where **CI** and **CC** obligations overlap on the same structure, the **stricter** clearly adopted rule governs (**CJS-2**, stricter-wins).
 
@@ -237,7 +237,7 @@ Where **CJS-3.7** applies, rotating and home-based poles must follow these share
 - **Home-based continuity terms:** where home-based authority is used, the instrument must publish term, renewal, or stagger rules suited to continuity.
 - **No mirror requirement:** home-based term rules are not required to mirror rotating attachment formulas.
 
-Class-, court-, and institution-specific scaling, assurance gates, emergency deviation controls, and substitution safeguards remain in domain-owner sections (**CI-9.1B**, **CC-2.5**, **CC-11**, and related cited hooks).
+Class-, forum-, and institution-specific scaling, assurance gates, emergency deviation controls, and substitution safeguards remain in domain-owner sections (**CI-9.1B**, **CC-2.5**, **CC-11**, and related cited hooks).
 
 ### CJS-3.8 Implementation companion boundary (CP ↔ CJS seam)
 This file supplies the operative implementation text for its stable local labels. Those labels do not replace canonical constitutional definitions, Rights Floors, or owner-layer meanings elsewhere in the corpus.
@@ -1161,7 +1161,7 @@ Uncertainty safeguards and anti-abuse floor
 - OP-C: It is non-compliant where uncertainty is hidden or procedure is designed to exhaust challengers without meaningful recourse.
 
 System-class and joint-read scaling
-- OP-O: Procedural rigor scales with `corpus_systems.md` class and any applicable institution/court companion obligations on the same facts.
+- OP-O: Procedural rigor scales with `corpus_systems.md` class and any applicable institution/forum companion obligations on the same facts.
 - OP-E: Evaluation must verify shared-fact routing through applicable CJS rows and that class-based simplification does not erase basic fairness.
 - OP-C: It is non-compliant to downscope procedural protection below what the combined companion chain requires.
 
@@ -1513,7 +1513,7 @@ Principles: **Safety, Proportionality, and Accountability** through timely, audi
 
 **Canonical meaning:** This section states implementation-layer obligations for this domain, applied consistently with cited constitutional sources and without narrowing them.
 
-`PROT6` states the implementation-layer minimum for procedural integrity and adjudication-related governance role. Detailed court, institution, and cross-companion implementation remains with the canonical owner files.
+`PROT6` states the implementation-layer minimum for procedural integrity and adjudication-related governance role. Detailed forum, institution, and cross-companion implementation remains with the canonical owner files.
 
 **Sentient Constitution Chapter Ten** (**Articles IX, XII, and XIII**), **Chapter One**, **Chapter Five** (*Harm*, *Risk*, *Accountability*, *Oversight*, *Reversibility*, related entries), and **Chapter Ten** inform intervention where audit, standing/challenge, conflict or emergency proportionality, and misuse controls are implicated.
 
@@ -1703,13 +1703,13 @@ Principles: **Procedural Fairness, Contestability, and Timeliness** through due 
 
 **Canonical meaning:** This section states implementation-layer obligations for this domain, applied consistently with cited constitutional sources and without narrowing them.
 
-`PROT6` states the implementation-layer minimum for procedural integrity and adjudication-related governance role. Detailed court, institution, and cross-companion implementation remains with the canonical owner files.
+`PROT6` states the implementation-layer minimum for procedural integrity and adjudication-related governance role. Detailed forum, institution, and cross-companion implementation remains with the canonical owner files.
 
 Procedural integrity translates constitutional principles into consistent, enforceable outcomes under real-world conditions. Foundational Rights affected by such processes remain governed by **Sentient Constitution Chapter Ten**. **Article XXIII** and **Article XXIII-A** supply substantive justice requirements, and **Chapter Five** supplies the governing definitions, including *Adjudication and Dispute Resolution* and *Procedural Fairness*, read with the **Chapter Five** clustered definition *Accountability, Contestability, Adjudication and Dispute Resolution, Collective Accountability Failure, and Force Majeure* where attribution, challenge, adjudication, excuse claims, or collective failure modes are materially implicated.
 
 **PROT6** is the governance-layer home for due-process requirements, reviewability, correction access, and procedural safeguards for binding outcomes. It states those process properties by reference only and must **not** redefine, narrow, or substitute the constitutional sources or rights.
 
-**Joint interfaces:** Where this section shares structural facts with institutions, classified systems, or Chapter Eight court operations, apply **`corpus_joint_structure.md` CJS-2.2** (applicable rows) and **CJS-3** (especially **CJS-3.3**, **CJS-3.4**, and **CJS-3.6**).
+**Joint interfaces:** Where this section shares structural facts with institutions, classified systems, or Chapter Nine forum operations, apply **`corpus_joint_structure.md` CJS-2.2** (applicable rows) and **CJS-3** (especially **CJS-3.3**, **CJS-3.4**, and **CJS-3.6**).
 
 **Governance voting** and comparable **binding collective choice** must satisfy **Sentient Constitution Chapter Eleven**, section 4 (*Voting and Binding Collective Choice Protocols*), including subsection **4.1** (entitlement; **Article IX-C**) and subsection **4.2** (records, gates, and method neutrality). They must also satisfy **Article X-C** and this **PROT6** where procedural themes overlap.
 
@@ -1719,7 +1719,7 @@ Where adopters use **evaluative (score / range)** or other **cardinal** ballots,
 
 **Scope index:** Apply `corpus_joint_structure.md` **CJS-3.33** for due-process requirements, initiator burden in adjudicative and enforcement settings, proportional enforcement selection, review independence, restoration access, uncertainty safeguards, anti-abuse limits, and system-class procedural scaling. Apply **CJS-3.34** for systemic-pattern review, **CUL** assignment, feedback integration, structural records, and stakeholder-scoped disclosure targeting.
 
-For collective-choice procedure, entitlement, records, gates, method neutrality, quorum, and participatory legitimacy, read this section with **Sentient Constitution Chapter Eleven** and the applicable `corpus_joint_structure.md` subsections. For court, institution, transition, external-system, and resource-flow mechanics, read the canonical owner files; this section supplies the implementation-layer governance floor only.
+For collective-choice procedure, entitlement, records, gates, method neutrality, quorum, and participatory legitimacy, read this section with **Sentient Constitution Chapter Eleven** and the applicable `corpus_joint_structure.md` subsections. For forum, institution, transition, external-system, and resource-flow mechanics, read the canonical owner files; this section supplies the implementation-layer governance floor only.
 
 ---
 

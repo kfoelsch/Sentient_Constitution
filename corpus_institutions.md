@@ -32,7 +32,7 @@ Institutions may design local procedures, but those procedures must remain consi
 
 This file applies that meaning to institutional design and operation.
 
-**Joint companion read:** where institutional rules intersect **[corpus_systems.md](corpus_systems.md)** classification, **PRIM/PROT** implementation labels, or **Chapter Eight** court operations, read **`corpus_joint_structure.md`** **CJS-2** (especially **CJS-2.2**) and **CJS-3** in addition to the owner sections cited in each topic.
+**Joint companion read:** where institutional rules intersect **[corpus_systems.md](corpus_systems.md)** classification, **PRIM/PROT** implementation labels, or **Chapter Nine** forum operations, read **`corpus_joint_structure.md`** **CJS-2** (especially **CJS-2.2**) and **CJS-3** in addition to the owner sections cited in each topic.
 
 ### CI-1.1: Definition discipline and source hierarchy
 Definition discipline is single-home:
@@ -222,7 +222,7 @@ Nothing in this section limits criminal liability under applicable law where leg
 
 ### CI-5.1: Integrity trigger taxonomy and cross-layer routing (control package)
 
-This subsection names **implementation-layer** trigger categories and routes so **CI-5** operates as one coordinated package. It does **not** add constitutional rights, offense labels, or court structure. **Final** general classification on **Chapter Six** axes and **final** **Violation Axis s = 7, 8, or 9** anti-constitutional-misconduct slot labels remain owned only by **Chapter Six** and **Chapter Eight**, respectively (pointer-only here).
+This subsection names **implementation-layer** trigger categories and routes so **CI-5** operates as one coordinated package. It does **not** add constitutional rights, offense labels, or forum structure. **Final** general classification on **Chapter Six** axes and **final** **Violation Axis s = 7, 8, or 9** anti-constitutional-misconduct slot labels remain owned only by **Chapter Six** and **Chapter Eight**, respectively (pointer-only here).
 
 **Trigger categories (non-exhaustive labels for control mapping and training):**
 - **Corruption** — misuse of public or fiduciary power for private gain or undisclosed advantage.
@@ -235,8 +235,8 @@ This subsection names **implementation-layer** trigger categories and routes so 
 
 **Routing (owner sections, not parallel doctrine):**
 - **Intake and triage** — **CI-5** mandatory detection requirements; protected channels and structural separation from subjects of allegation.
-- **Investigation and evidence custody** — **CI-7** / **CI-7A**; where court or forensic support is primary, **`corpus_forum.md`** **CC-3**, **CC-7**, **CC-8**, and **CC-9** as applicable; **CI-7B** for technical dispute routing.
-- **Independence, recusal, and anti-self-judging** — **CI-2**, **CI-3**, **CI-6**; court-side rules in **`corpus_forum.md`** **CC-3** and **CC-6** where adjudication is implicated.
+- **Investigation and evidence custody** — **CI-7** / **CI-7A**; where forum or forensic support is primary, **`corpus_forum.md`** **CC-3**, **CC-7**, **CC-8**, and **CC-9** as applicable; **CI-7B** for technical dispute routing.
+- **Independence, recusal, and anti-self-judging** — **CI-2**, **CI-3**, **CI-6**; forum-side rules in **`corpus_forum.md`** **CC-3** and **CC-6** where adjudication is implicated.
 - **Escalation across institutions** — **CI-8**; external assurance under **CI-7.2** where local independence is not credible.
 - **Institutional sanctions and role forfeiture** — **CI-11** and **CI-13** as this file already states; **not** a substitute for **Chapter Eight** slot-classification proceedings where those are the canonical route for the conduct class.
 
@@ -258,7 +258,7 @@ Due-process operationalization (**Article XI-D** — internal roles, accountabil
 - impartial decision structures where adjudication applies,
 - contest procedures and secondary review for materially impactful outcomes, including an independent review route for high-impact outcomes.
 
-Where a court or adjudicative body lawfully expands a case beyond the original claimant, the record must show **materially shared** injury, a **common** unlawful practice, a **common** decision rule, or **common** dependency on the same conduct, system, or institutional choice. Procedure must preserve **practical fairness** for both the original claimant and newly covered parties. That includes reasoned notice, a clear statement of the proposed common questions and proposed scope, an opportunity to contest expansion, and subclassing or issue separation where material divergence appears.
+Where a forum or adjudicative body lawfully expands a case beyond the original claimant, the record must show **materially shared** injury, a **common** unlawful practice, a **common** decision rule, or **common** dependency on the same conduct, system, or institutional choice. Procedure must preserve **practical fairness** for both the original claimant and newly covered parties. That includes reasoned notice, a clear statement of the proposed common questions and proposed scope, an opportunity to contest expansion, and subclassing or issue separation where material divergence appears.
 
 Adopting instruments should provide **representative** or **collective** procedures for such expanded cases where separate filings would be impracticable, structurally inconsistent, or materially under-protective. Those procedures should preserve adequate representation, permit opt-in or opt-out design as governing law provides, protect absent affected parties from conflicted representation, and retain individualized process where liability, causation, defense, or remedy materially turns on sentient-specific facts.
 
@@ -343,7 +343,7 @@ Where institutional governed scope includes **Class A** or **Class B** systems (
 
 **Article XIII-A monitoring emphasis.** Where institutions exercise or supervise covert, secrecy-constrained, intelligence-like, or politically sensitive security powers, contest-integrity monitoring must explicitly test whether the Article XIII-A and **CC-8** pathways identified above function in practice. The monitor record must be sufficient to detect independence failure, protected-activity chill, secrecy-duration drift, unavailable lawful notice or disclosure pathways, and foreign, contractor, or inter-agency bypass of applicable limits without restating the underlying Article XIII-A rule set.
 
-Where `core_09-09_forum.md` **Chapter Nine** requires **cross-court anti-self-judging** routing, contest-integrity functions must preserve records sufficient to support **reasoned** transfer, recusal, and backup-forum activation. They must also preserve enough record to review whether the designated forum could form an **independent** panel. They must do so without displacing the assigned merits court. See also **`corpus_joint_structure.md` CJS-3.3**.
+Where `core_09-09_forum.md` **Chapter Nine** requires **cross-forum anti-self-judging** routing, contest-integrity functions must preserve records sufficient to support **reasoned** transfer, recusal, and backup-forum activation. They must also preserve enough record to review whether the designated forum could form an **independent** panel. They must do so without displacing the assigned merits forum. See also **`corpus_joint_structure.md` CJS-3.3**.
 
 ---
 
@@ -351,7 +351,7 @@ Where `core_09-09_forum.md` **Chapter Nine** requires **cross-court anti-self-ju
 
 **Joint read:** **`corpus_joint_structure.md` CJS-2.2** row **CJS-R07**; **CJS-3.3**, **CJS-3.4**.
 
-**Operative owner:** `corpus_forum.md` **CC-7**. Institutions that operate or support court families must **satisfy CC-7 in full** (capacity, independence, contestability, and evidence-custody duties). **CJS-3.3** and **CJS-3.4** state joint requirements for separating contest-integrity monitoring (**CI-7.3**) from case-specific forensic support and for keeping court-adjacent institutional design from narrowing **CC-7**.
+**Operative owner:** `corpus_forum.md` **CC-7**. Institutions that operate or support forum families must **satisfy CC-7 in full** (capacity, independence, contestability, and evidence-custody duties). **CJS-3.3** and **CJS-3.4** state joint requirements for separating contest-integrity monitoring (**CI-7.3**) from case-specific forensic support and for keeping forum-adjacent institutional design from narrowing **CC-7**.
 
 ---
 
@@ -367,7 +367,7 @@ Where `core_09-09_forum.md` **Chapter Nine** requires **cross-court anti-self-ju
 
 **Joint read:** **`corpus_joint_structure.md` CJS-2.2** row **CJS-R09**; **CJS-3.3**.
 
-**Operative owner:** `corpus_forum.md` **CC-9**. Science, engineering, medical, or comparable technical courts must **satisfy CC-9 in full**, remain chambers or designated panels within **Chapter Eight** court families, and must not displace dominant-purpose routing. Institutions using shared cross-jurisdiction or cross-sector standards should treat technical courts as the principal reviewable standards-maintenance forum within lawful scope while leaving ordinary institution-facing enforcement to the lead court family **Chapter Eight** assigns. Where disputes implicate publication suppression, replication denial, correction refusal, or manipulation of scientific standing, read **CC-9** together with **CI-15B**.
+**Operative owner:** `corpus_forum.md` **CC-9**. Science, engineering, medical, or comparable technical forums must **satisfy CC-9 in full**, remain chambers or designated panels within **Chapter Nine** forum families, and must not displace dominant-purpose routing. Institutions using shared cross-jurisdiction or cross-sector standards should treat technical forums as the principal reviewable standards-maintenance forum within lawful scope while leaving ordinary institution-facing enforcement to the lead forum family **Chapter Nine** assigns. Where disputes implicate publication suppression, replication denial, correction refusal, or manipulation of scientific standing, read **CC-9** together with **CI-15B**.
 
 ---
 
@@ -381,7 +381,7 @@ That protocol must include:
 - evidence-sharing boundaries,
 - accountability assignment,
 - external review trigger where internal deadlock persists,
-- published routing for **cross-court anti-self-judging** claims under `core_09-09_forum.md` **Chapter Nine**, including lead/backup designation, recusal and unavailability triggers, lawful-panel formation checks, and reasoned transfer records.
+- published routing for **cross-forum anti-self-judging** claims under `core_09-09_forum.md` **Chapter Nine**, including lead/backup designation, recusal and unavailability triggers, lawful-panel formation checks, and reasoned transfer records.
 
 External-order interactions must remain consistent with constitutional change and supremacy rules in `core_12-14_amendment.md` **Chapters Twelve through Fourteen**.
 
@@ -429,17 +429,17 @@ Institutions must not rely on unlabeled, ad hoc, or selectively applied sector c
 ### CI-9.1B: Delegated subunits, institutional design class, and attachment discipline
 **Purpose.** This subsection generalizes internal delegation discipline—identification, authority-composition transparency, **anticipatable** bounds on **rotating** service, and published continuity rules for **home-based** roles—across institutions. It scales with **institutional design class** under this subsection.
 
-**Court-specific detail** (families, routing, appeals, specialist chamber doctrine) remains in `corpus_forum.md` **CC-2** (including **CC-2.5** onward). Where **CC-2.5** through **CC-2.5.4** state court-specific duties or illustrations, **CC** text governs for **Chapter Eight** tribunals. Where obligations overlap, the **stricter** applicable rule governs.
+**Forum-specific detail** (families, routing, appeals, specialist chamber doctrine) remains in `corpus_forum.md` **CC-2** (including **CC-2.5** onward). Where **CC-2.5** through **CC-2.5.4** state forum-specific duties or illustrations, **CC** text governs for **Chapter Nine** tribunals. Where obligations overlap, the **stricter** applicable rule governs.
 
 **Institutional design class (this subsection only).** Use the **highest** `corpus_systems.md` **Chapter S2 — System Classification and Handling** class among systems in the institution's **published governed scope** (including maps under **CI-9.1A**). Only **Class A**, **Class B**, and **Class C** are in range for the default scaling below.
 
-**Court floor.** Every **court family**, **tribunal**, or **adjudicative body** within **Chapter Nine** in `core_09-09_forum.md` is treated as **at least Class C** for **institutional design class** under this subsection—including for **internal chambers** and **designated panels**—regardless of whether other governed systems are labeled below Class C.
+**Forum floor.** Every **forum family**, **tribunal**, or **adjudicative body** within **Chapter Nine** in `core_09-09_forum.md` is treated as **at least Class C** for **institutional design class** under this subsection—including for **internal chambers** and **designated panels**—regardless of whether other governed systems are labeled below Class C.
 
 **Delegated subunit** is the CI-specific application of the `corpus_joint_structure.md` **CJS-3.12** **Delegated binding body** abstraction: a standing or recurring internal body (for example a division, chamber, committee, designated panel, or regional or functional office with decision rights) that exercises **materially binding** delegated authority for the parent institution and is **not** the institution's sole governing plenary.
 
 **Applicability.**
 - Where institutional design class is **Class C**, **Class B**, or **Class A**, each **delegated subunit** with materially binding authority must satisfy **CI-9.1B.1**. Each such subunit must satisfy **CI-9.1B.2** (hybrid composition joint minimum in **`corpus_joint_structure.md` CJS-3.7** plus **CI-9.1B.2** institution-specific rules), **CI-9.1B.3** (rotating attachment bounds for the rotating pole), and **CI-9.1B.4** (home-based term and renewal rules for the home-based pole).
-- Where institutional design class is **below Class C** and the institution is **not** a **Chapter Eight** court, **CI-9.1B** applies only to delegated subunits that **materially bind** outsiders, **allocate scarce public goods**, **license or certify** conduct with material impact, or **materially affect** systems classified **Class A**, **Class B**, or **Class C**. In those cases, evaluate **CI-9.1B** at the **highest** class **triggered** by the subunit's work (minimum **Class C** treatment for that subunit).
+- Where institutional design class is **below Class C** and the institution is **not** a **Chapter Nine** forum, **CI-9.1B** applies only to delegated subunits that **materially bind** outsiders, **allocate scarce public goods**, **license or certify** conduct with material impact, or **materially affect** systems classified **Class A**, **Class B**, or **Class C**. In those cases, evaluate **CI-9.1B** at the **highest** class **triggered** by the subunit's work (minimum **Class C** treatment for that subunit).
 
 ### CI-9.1B.1: Identification and competence
 Each formation or authorizing instrument must state:
@@ -848,7 +848,7 @@ Institutions should publish **phased** **transition** plans that include:
 
 ## CI-21: Commons, cooperatives, mutual aid, and non-market community governance
 
-**Purpose.** This section supports **commons**-based and **community-managed** **resource** **patterns** **without** **forcing** every **durable** **institution** into **only** **state**, **corporate**, or **adversarial-court** **molds** — while **keeping** **due** **process**, **contestability**, and **anti-capture** **requirements** from **CI-6**, **CI-9**, and **CI-12**.
+**Purpose.** This section supports **commons**-based and **community-managed** **resource** **patterns** **without** **forcing** every **durable** **institution** into **only** **state**, **corporate**, or **adversarial-forum** **molds** — while **keeping** **due** **process**, **contestability**, and **anti-capture** **requirements** from **CI-6**, **CI-9**, and **CI-12**.
 
 **1. Records and recognition.** **Institutions** should **accept** **legible** **commons**-**governance** **records** — **stewardship** **rotations**, **mutual** **obligations**, **conflict** **circles**, **participatory** **budget** **inputs** — as **valid** **inputs** to **funding**, **zoning**, **tax**, and **continuity** **decisions** where **law** **permits**, **subject** to **audit** and **fraud** **controls**.
 

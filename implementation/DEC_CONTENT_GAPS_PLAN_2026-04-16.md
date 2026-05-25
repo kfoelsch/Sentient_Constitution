@@ -207,7 +207,7 @@ Each item below specifies (a) owner chapter, (b) insertion site, (c) Ch 5 entrie
 - **Insertion site:** `core_10-10_rights_part_b.md` Article V section (near V-A dignity), as new **Article V-E — Sentience-Status Adjudication Floor**.
 - **Ch 5 additions:** `Sentience Status Adjudication` (procedural-floor concept; alphabetical slot between `Sentience Non-Exclusion` and `Stakeholder`).
 - **Ch 5 extensions:** `Sentience Non-Exclusion` E-line extended to cite Article V-E procedural floor.
-- **Companion routing:** `core_09-09_forum.md` jurisdictional hook (designated court family); `core_02-04_definition_mechanics.md` burden / traceability link via cross-reference.
+- **Companion routing:** `core_09-09_forum.md` jurisdictional hook (designated forum family); `core_02-04_definition_mechanics.md` burden / traceability link via cross-reference.
 - **Regression seeds:** `RS-CH1-SENT-ADJ-001` (Core; default-inclusion-under-uncertainty preserved against an adversarial reclassification attempt); `RS-CH1-SENT-ADJ-002` (Adversarial; declassification used to contract Article V-A dignity floor); `RS-CH1-SENT-ADJ-003` (Substrate-edge; hybrid biological-synthetic case where a single adopter denies status under one classification taxonomy).
 - **Flagged questions:** **[REVIEW-Q-0.1.A]** default-inclusion-under-uncertainty as `must` or `should`? Recommend `must` to align with Ch 1 §6.1.1 reversibility-under-uncertainty rule. **[REVIEW-Q-0.1.B]** declassification time-bound: 12 months / 24 months / "shortest necessary" + mandatory review? Recommend "shortest necessary" with mandatory periodic review under Ch 8.
 

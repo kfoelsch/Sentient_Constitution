@@ -125,7 +125,7 @@ Unless this Constitution expressly provides otherwise, **sentient** and **sentie
 - E: Test whether:
   1. materially disputed or contested status triggered timely, impartial, reviewable adjudication consistent with [Procedural Fairness](core_05-05_definitions_b_semi_independent.md#procedural-fairness-constitutional);
   2. the default-inclusion rule under uncertainty was honored, with the party seeking to withhold, narrow, or revoke carrying the burden through [Auditability](#auditability)-compatible evidence satisfying [Necessity](core_05-05_definitions_a_independent.md#necessity) and [Proportionality](core_05-05_definitions_a_independent.md#proportionality);
-  3. any declassification is stated in the shortest necessary terms, carries a declared expected-closure timeline, and is subject to mandatory periodic review under a designated court family and anti-capture safeguards consistent with [System Capture](core_05-05_definitions_a_independent.md#system-capture);
+  3. any declassification is stated in the shortest necessary terms, carries a declared expected-closure timeline, and is subject to mandatory periodic review under a designated forum family and anti-capture safeguards consistent with [System Capture](core_05-05_definitions_a_independent.md#system-capture);
   4. wrongful determinations remain reversible with [Redress and Remediation](core_05-05_definitions_a_independent.md#redress-and-remediation-constitutional) for the interim period; and
   5. the process is free of [Sentience Non-Exclusion](#sentience-non-exclusion) violations, taxonomy-of-convenience vectors, and [System Capture](core_05-05_definitions_a_independent.md#system-capture) pressures on the adjudicator.
   <a id="sentience-status-adjudication-constitutional-c"></a>
