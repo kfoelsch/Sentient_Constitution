@@ -7,9 +7,9 @@ Primary source of truth for operative constitutional text: the **Sentient Consti
 - [core_05-05_definitions_a_independent.md](core_05-05_definitions_a_independent.md) — **Chapter Five, Part A** (reader guidance, directory, **§1 Independent Definitions**)
 - [core_05-05_definitions_b_semi_independent.md](core_05-05_definitions_b_semi_independent.md) — **Chapter Five, Part B** (**§2 Semi-independent Definitions**)
 - [core_05-05_definitions_c_dependent_clusters.md](core_05-05_definitions_c_dependent_clusters.md) — **Chapter Five, Part C** (**§3 Dependent clusters**)
-- [core_06-06_standing_assessment.md](core_06-06_standing_assessment.md) — **Chapter Six** sections 1–3 (standing classification: contribution / violation axes)
-- [core_07-07_standing_integration.md](core_07-07_standing_integration.md) — **Chapter Seven** (standing effects, attachments, integration, enforcement)
-- [core_08-08_misconduct.md](core_08-08_misconduct.md) — **Chapter Eight** (anti-constitutional misconduct; final Violation Axis **s = 7, 8, and 9**)
+- [core_06-06_standing_assessment.md](core_06-06_standing_assessment.md) — **Chapter Six** (standing pipeline foundation: standing records, verified inputs, shared slot scale, contribution / violation classification)
+- [core_07-07_standing_integration.md](core_07-07_standing_integration.md) — **Chapter Seven** (standing pipeline integration: attachments, descriptors, standing effects, standing locks, enforcement)
+- [core_08-08_misconduct.md](core_08-08_misconduct.md) — **Chapter Eight** (standing pipeline top-slot finalization: final Violation Axis **s = 7, 8, and 9** anti-constitutional misconduct review)
 - [core_09-09_forum.md](core_09-09_forum.md) — **Chapter Nine** (forums and jurisdiction)
 - [core_10-10_rights_part_a.md](core_10-10_rights_part_a.md) — **Chapter Ten, Part A** (**Articles I–IV**)
 - [core_10-10_rights_part_b.md](core_10-10_rights_part_b.md) — **Chapter Ten, Part B** (**Articles V–XI**)
@@ -33,9 +33,10 @@ This edition treats the following chapters as binding constitutional text, not a
 - Read **Chapter One** first in `core_00-01_principles.md` (core values and constraints).
 - Use **Chapters Two through Four** in `core_02-04_definition_mechanics.md` for definition structure, integrity, burden and verification links.
 - Use **Chapter Five** in `core_05-05_definitions_a_independent.md` (Part A), `core_05-05_definitions_b_semi_independent.md` (Part B), and `core_05-05_definitions_c_dependent_clusters.md` (Part C) for foundational definitions (Chapter Five is the definition stack, not the Rights Floor).
-- Use **Chapter Six** in `core_06-06_standing_assessment.md` for contribution and violation classification (two-axis model: **Axis I** — contribution state; **Axis II** — violation nature).
-- Use **Chapter Seven** in `core_07-07_standing_integration.md` for standing effects, attachments, integration, enforcement, and the Chapter Eight pointer.
-- Use **Chapter Eight** in `core_08-08_misconduct.md` for anti-constitutional misconduct and final **s = 7, 8, or 9** slot assignment (unified-incident gravity; **Chapter Eight**, section **6** is the authoritative pointer into this chapter).
+- Use **Chapters Six through Eight** as one standing pipeline: open a bounded **standing record**; apply the **verified input** gate; classify contribution and violation on the shared slot scale; add any **attachment / descriptor**; apply **standing locks** and any **final standing effect**; and route possible Violation Axis `s = 7`, `s = 8`, or `s = 9` anti-constitutional misconduct through Chapter Eight **top-slot review**.
+- Use **Chapter Six** in `core_06-06_standing_assessment.md` for the pipeline foundation: standing records, verified inputs, slot grammar, and contribution / violation classification (two-axis model: **Axis I** — contribution state; **Axis II** — violation nature).
+- Use **Chapter Seven** in `core_07-07_standing_integration.md` for pipeline integration and consequences: standing effects, attachments, descriptors, standing locks, enforcement, and the Chapter Eight pointer.
+- Use **Chapter Eight** in `core_08-08_misconduct.md` only for pipeline top-slot finalization: final **s = 7, 8, or 9** anti-constitutional misconduct assignment within the Violation Axis (unified-incident gravity, criteria, and due-process safeguards).
 - Use **Chapter Nine** in `core_09-09_forum.md` for constitutional forum families, default jurisdiction, and the **cross-forum anti-self-judging** rule.
 - Read **Chapter Ten** in `core_10-10_rights_part_a.md` through `core_10-10_rights_part_d.md` for the Rights Floor (articles appear in **Parts A–D** in a **planet-first** presentation order; non-operative summary in [architecture_primer.md](architecture_primer.md) **section 6**).
 - Use **Chapter Eleven** in `core_11-11_governance.md` for constitutional contract, legitimacy, authorization, and stewardship requirements.
@@ -46,11 +47,12 @@ This edition treats the following chapters as binding constitutional text, not a
 
 **Fast Locator:**
 - Rights Floor -> **Chapter Ten** (`core_10-10_rights_part_a.md` through `core_10-10_rights_part_d.md`; see [architecture_primer.md](architecture_primer.md) **section 6** for Part A–D reading map)
-- Anti-constitutional misconduct (final **s = 7, 8, or 9**; unified-incident gravity) -> **Chapter Eight** (`core_08-08_misconduct.md`)
+- Standing pipeline (records, verified inputs, classification, locks, and top-slot review) -> **Chapters Six through Eight** (`core_06-06_standing_assessment.md`, `core_07-07_standing_integration.md`, `core_08-08_misconduct.md`)
+- Anti-constitutional misconduct top-slot finalization (final **s = 7, 8, or 9**; unified-incident gravity) -> **Chapter Eight** (`core_08-08_misconduct.md`)
 - Forum families, jurisdiction, and cross-forum anti-self-judging -> **Chapter Nine** (`core_09-09_forum.md`)
 - Burden of proof, traceability, verification -> **Chapter Four** (`core_02-04_definition_mechanics.md`)
-- Contribution and violation classification -> **Chapter Six** (`core_06-06_standing_assessment.md`)
-- Standing effects and integration -> **Chapter Seven** (`core_07-07_standing_integration.md`)
+- Contribution and violation classification within the standing pipeline -> **Chapter Six** (`core_06-06_standing_assessment.md`)
+- Standing effects, locks, and integration within the standing pipeline -> **Chapter Seven** (`core_07-07_standing_integration.md`)
 - Constitutional contract, legitimacy, authorization, stewardship -> **Chapter Eleven** (`core_11-11_governance.md`)
 - Non-regression (substantive validity) -> **Chapter Twelve** (`core_12-14_amendment.md`)
 - Supremacy and external dispute hooks -> **Chapter Thirteen** (`core_12-14_amendment.md`)

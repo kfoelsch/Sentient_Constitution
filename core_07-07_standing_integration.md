@@ -1,6 +1,6 @@
 # Sentient Constitution — Standing effects and integration
 
-This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one instrument. It contains **Chapter Seven**: standing effects, Violation Axis attachments, supplemental descriptors, cross-axis integration, no-substitution mechanics, enforcement anchors, and the Chapter Eight pointer. Chapter Six assessment foundations are stated in [core_06-06_standing_assessment.md](core_06-06_standing_assessment.md). Reading order, the binding/support split, and corpus edition metadata are maintained in [README.md](README.md).
+This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one instrument. It contains **Chapter Seven**: standing-pipeline integration and consequences, including standing effects, Violation Axis attachments, supplemental descriptors, cross-axis integration, standing locks, no-substitution mechanics, enforcement anchors, and the Chapter Eight pointer. Chapter Six assessment foundations are stated in [core_06-06_standing_assessment.md](core_06-06_standing_assessment.md). Final top-slot review for Violation Axis `s = 7`, `s = 8`, and `s = 9` anti-constitutional misconduct remains in [Chapter Eight](core_08-08_misconduct.md#chapter-eight-anti-constitutional-misconduct). Reading order, the binding/support split, and corpus edition metadata are maintained in [README.md](README.md).
 
 Upstream constitutional direction for this file begins in [core_00-01_principles.md](core_00-01_principles.md), [core_02-04_definition_mechanics.md](core_02-04_definition_mechanics.md), [core_05-05_definitions_a_independent.md](core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions), and [core_06-06_standing_assessment.md](core_06-06_standing_assessment.md). Downstream escalation and forum-allocation rules continue in [core_08-08_misconduct.md](core_08-08_misconduct.md), [core_09-09_forum.md](core_09-09_forum.md), and [core_10-10_rights_part_d.md](core_10-10_rights_part_d.md). Adopted implementation may supply interoperable tagging, schemas, and worked examples for this chapter; such materials **must not** narrow this chapter’s operative obligations.
 
@@ -19,10 +19,21 @@ Upstream constitutional direction for this file begins in [core_00-01_principles
 >
 > | Location | Role |
 > | --- | --- |
-> | **[Classification file](core_06-06_standing_assessment.md)** (**sections 1–3**) | purpose, standing records, verified-input gate, slot grammar, primary axis categories, and slot calibration |
-> | **This file** (**sections 1–6**) | standing effects, Violation Axis attachments, supplemental descriptors, standing integration, no-netting, enforcement anchors, and the Chapter Eight pointer |
+> | **[Chapter Six — classification and record foundation](core_06-06_standing_assessment.md#chapter-six-compliance-violation-and-standing-model)** (**sections 1–4**) | standing records, verified-input gate, slot grammar, Contribution Axis, Violation Axis, and slot calibration |
+> | **Chapter Seven — integration and consequences** (**sections 1–6**) | attachment / descriptor vocabulary, standing effects, standing locks, non-offset integration, enforcement anchors, and the Chapter Eight pointer |
+> | **[Chapter Eight — top-slot finalization](core_08-08_misconduct.md#chapter-eight-anti-constitutional-misconduct)** | final Violation Axis `s = 7`, `s = 8`, and `s = 9` anti-constitutional misconduct assignment within this same standing pipeline |
 >
 > **Core idea:** classification is separated from integration. The first Chapter Six file defines the Contribution Axis and Violation Axis. This file states what those classifications do to standing, trust, roles, remedies, safeguards, and enforcement, while preserving the no-offset rule.
+>
+> **Unified Standing Process:** Chapter Six opens the **standing record**, applies the **verified input** gate, and classifies contribution and violation. This chapter then adds any **attachment / descriptor**, assigns the **standing lock**, and states any **final standing effect**. If the verified violation may require Violation Axis `s = 7`, `s = 8`, or `s = 9` anti-constitutional misconduct assignment, this chapter routes the record to Chapter Eight **top-slot review**.
+>
+> **Where you are in the pipeline:** Chapter Seven handles steps 4 and 5: attachments / descriptors, standing effects, standing locks, and enforcement realism.
+>
+> **What this chapter decides:** it decides how verified classification records affect trust, roles, recognition, restrictions, remediation, review, and real-world enforcement.
+>
+> **What this chapter does not decide:** it does not reopen unverified allegations, merge contribution and violation into one score, or issue final Chapter Eight top-slot assignment.
+>
+> **What happens next:** where a verified violation may be serious, grave, or pernicious anti-constitutional misconduct, Chapter Eight supplies the final top-slot criteria, gravity assignment, and due-process safeguards.
 
 </details>
 
@@ -31,7 +42,7 @@ Upstream constitutional direction for this file begins in [core_00-01_principles
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [Chapter Six — Classification](core_06-06_standing_assessment.md#chapter-six-compliance-violation-and-standing-model) (*sections **1–3**, including standing records, verified inputs, slot grammar, primary category defaults, Contribution Axis rules, and Violation Axis rules*).
+- Upstream: [Chapter Six — Classification](core_06-06_standing_assessment.md#chapter-six-compliance-violation-and-standing-model) (*sections **1–4**, including standing records, verified inputs, slot grammar, primary category defaults, Contribution Axis rules, and Violation Axis rules*).
 - This file: [§1](#5-standing-effects) through [§6](#9-violation-axis-s-7-9-anti-constitutional-misconduct-authoritative-location) (*standing effects, attachments, descriptors, integration, non-substitution, enforcement realism, and Chapter Eight pointer*).
 - Downstream: [Chapter Eight](core_08-08_misconduct.md#chapter-eight-anti-constitutional-misconduct); [Chapter Nine](core_09-09_forum.md#chapter-nine-forums-and-jurisdiction); [Chapter Ten — Article XXIII](core_10-10_rights_part_d.md#article-xxiii-a-justice-objective-and-scope).
 
@@ -39,7 +50,7 @@ Upstream constitutional direction for this file begins in [core_00-01_principles
 
 <br>
 
-*In plain terms: this file starts after assessment. It explains how verified contribution and verified violation findings affect trust, roles, recognition, restriction, remediation, safeguards, and real-world enforcement. Positive contribution can matter, but it does not erase unresolved violation findings. The recurring examples are practical: recent verified help counts more than stale credit; unresolved violations stay live; consequences must fit the offense and leave a lawful path back; harm must actually be repaired; remedy systems need capacity; and evasion through borders, shells, or relabeling does not defeat accountability.*
+*In plain terms: this file is the middle of the standing pipeline. Chapter Six records and classifies verified contribution and verified violation findings; this chapter explains how those records affect trust, roles, recognition, restriction, remediation, safeguards, and real-world enforcement. Positive contribution can matter, but it does not erase unresolved violation findings. If the violation may belong in the top anti-constitutional slots, this chapter points to Chapter Eight instead of deciding those slots itself. The recurring examples are practical: recent verified help counts more than stale credit; unresolved violations stay live; consequences must fit the offense and leave a lawful path back; harm must actually be repaired; remedy systems need capacity; and evasion through borders, shells, or relabeling does not defeat accountability.*
 
 <a id="5-standing-effects"></a>
 
@@ -773,7 +784,7 @@ Constitutional rights are only real if someone can invoke them, verify them, fun
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [§1](core_06-06_standing_assessment.md#1-purpose-and-role) (*contribution state, violation nature, and general classification*); [§4](#8-cross-axis-coupling-and-escalation-constraints) (*escalation and scrutiny*).
-- Downstream: [Chapter Nine](core_08-08_misconduct.md#chapter-eight-anti-constitutional-misconduct) (*sole home for final **Violation Axis s = 7, 8, and 9** anti-constitutional misconduct criteria, slot assignment, due-process safeguards, and cross-chapter discipline*); [Chapter Nine](core_09-09_forum.md#chapter-nine-forums-and-jurisdiction) (*Integrity lead and certification where Chapter Nine slot classification is dominant stake*).
+- Downstream: [Chapter Eight](core_08-08_misconduct.md#chapter-eight-anti-constitutional-misconduct) (*sole home for final **Violation Axis s = 7, 8, and 9** anti-constitutional misconduct criteria, slot assignment, due-process safeguards, and cross-chapter discipline*); [Chapter Nine](core_09-09_forum.md#chapter-nine-forums-and-jurisdiction) (*Integrity lead and certification where Chapter Eight slot classification is dominant stake*).
 - Read with: [Article XXIII-B](core_10-10_rights_part_d.md#article-xxiii-b-non-trivial-punishment-constraints) (*slot-linked punishment constraints — do not replace individualized justice requirements*).
 
 </details>

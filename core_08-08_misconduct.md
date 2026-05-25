@@ -1,8 +1,8 @@
 # Sentient Constitution — Anti-Constitutional Misconduct
 
-This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one instrument. It contains **Chapter Eight**; chapter numbering and cross-references match the integrated instrument. Reading order, the binding/support split, and corpus edition metadata are maintained in [README.md](README.md).
+This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one instrument. It contains **Chapter Eight**, the standing-pipeline top-slot finalization chapter for final Violation Axis `s = 7`, `s = 8`, and `s = 9` anti-constitutional misconduct assignment. Chapter numbering and cross-references match the integrated instrument. Reading order, the binding/support split, and corpus edition metadata are maintained in [README.md](README.md).
 
-Chapter Six sets the general **Contribution Axis**, **Violation Axis**, standing effect, severity, and process / response character rules. This chapter answers the narrower top-end question: when anti-constitutional misconduct receives final **Violation Axis s = 7, 8, or 9** classification. Change-path validity interactions continue in [core_12-14_amendment.md](core_12-14_amendment.md), and justice constraints remain in [core_10-10_rights_part_d.md](core_10-10_rights_part_d.md).
+Chapter Six opens the **standing record**, applies the **verified input** gate, and sets the general **Contribution Axis** and **Violation Axis** classification scale. Chapter Seven adds **attachment / descriptor** vocabulary, **standing locks**, and **final standing effect** rules. This chapter answers the narrower top-end question inside that same pipeline: when anti-constitutional misconduct receives final **Violation Axis s = 7, 8, or 9** classification after **top-slot review**. Change-path validity interactions continue in [core_12-14_amendment.md](core_12-14_amendment.md), and justice constraints remain in [core_10-10_rights_part_d.md](core_10-10_rights_part_d.md).
 
 ---
 <a id="chapter-eight-tiered-anti-constitutional-misconduct"></a>
@@ -10,9 +10,19 @@ Chapter Six sets the general **Contribution Axis**, **Violation Axis**, standing
 
 ## CHAPTER EIGHT: ANTI-CONSTITUTIONAL MISCONDUCT
 
-This chapter is not a general code for every violation. It answers one narrower question: when does anti-constitutional misconduct receive one of the three highest **Violation Axis** classifications: **s = 7**, **s = 8**, or **s = 9**?
+This chapter is not a general code for every violation, and it is not a separate misconduct regime outside the standing pipeline. It answers one narrower question: when does anti-constitutional misconduct receive one of the three highest **Violation Axis** classifications: **s = 7**, **s = 8**, or **s = 9**?
 
-Chapter Six supplies the shared scale and ordinary standing machinery. Chapter Eight supplies the final decision model for this top-end misconduct. A Chapter Six classification may explain the record, but it cannot replace this chapter's criteria, gravity rules, or due-process safeguards.
+Chapter Six supplies the shared scale and record foundation. Chapter Seven supplies ordinary standing integration, standing locks, and consequence rules. Chapter Eight supplies the final decision model for top-slot anti-constitutional misconduct within the Violation Axis. A Chapter Six classification or Chapter Seven standing lock may explain the record, but neither can replace this chapter's criteria, gravity rules, or due-process safeguards.
+
+**Unified Standing Process — top-slot position.** A Chapter Eight matter should already have a bounded **standing record**, a **verified input** basis, and a Violation Axis classification question. This chapter then performs **top-slot review**: it identifies the unified incident, applies the criteria set, assigns any final top slot, and confirms due-process safeguards before any **final standing effect** may treat the misconduct as final `s = 7`, `s = 8`, or `s = 9` anti-constitutional misconduct.
+
+**Where you are in the pipeline:** Chapter Eight handles step 6: final top-slot review for possible `s = 7`, `s = 8`, or `s = 9` anti-constitutional misconduct.
+
+**What this chapter decides:** it decides final top-slot assignment within the Violation Axis for anti-constitutional misconduct.
+
+**What this chapter does not decide:** it does not replace Chapter Six standing records or the verified-input gate, does not replace Chapter Seven standing integration, and does not decide ordinary violations outside the top anti-constitutional slots.
+
+**What happens next:** once final top-slot assignment is made, Chapter Seven standing-lock and final-standing-effect rules, Chapter Nine forum rules, Chapter Ten justice constraints, and the relevant governance or change-path chapters apply without bypassing this chapter's safeguards.
 
 Use this chapter in this order:
 
@@ -28,8 +38,8 @@ The named patterns in section 6 are not separate shortcuts. Flooding, bribery, u
 <details>
 <summary><strong><span style="color: #2563eb;">Cross-reference map (non-operative)</span></strong></summary>
 
-- **Chapter Six:** supplies the Contribution and Violation axes, standing-slot grammar, ordinary violation severity, process / response character, and standing effects.
-- **Chapter Seven:** points final top-end anti-constitutional misconduct classification here; it does not itself assign final **s = 7**, **s = 8**, or **s = 9** slots.
+- **Chapter Six:** supplies the standing record, verified-input gate, Contribution and Violation axes, standing-slot grammar, and ordinary violation severity.
+- **Chapter Seven:** supplies process / response attachments, descriptors, standing integration, standing locks, final standing effect rules, and the pointer here; it does not itself assign final **s = 7**, **s = 8**, or **s = 9** anti-constitutional misconduct slots.
 - **Chapters Two through Four:** supply record, custody, tracing, and verification discipline for the evidence used here.
 - **Chapter One:** supplies principles relevant to emergency authority, necessity, concentration, and system capture.
 - **Chapter Nine:** supplies forum routing, Integrity-family default routing, transfer, and certification discipline.
@@ -190,7 +200,7 @@ No final **Violation Axis anti-constitutional misconduct** classification under 
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [§2](#2-criteria-set-for-slot-assignment) (*Criteria set*); [§3](#3-violation-axis-s-7-9-slot-assignment-incident-gravity) (*Violation Axis s = 7–9 slot assignment*); [§4](#4-due-process-safeguards-for-slot-classification) (*Due-process safeguards*); [§5](#5-cross-chapter-discipline) (*Cross-chapter discipline*).
-- Subsections: [§6.1](#61-concentration-based-subversion-criteria-interaction); [§6.2](#62-rights-floor-waivers-and-unconstitutional-contract-terms); [§6.3](#63-flooding-the-zone-and-contest-pathway-denial); [§6.4](#64-info-sphere-zone-flooding); [§6.5](#65-bribery-and-improper-benefit-exchange); [§6.6](#66-unlawful-or-unconstitutional-command-conduct); [§6.7](#67-reward-protection-or-normalization-of-anti-constitutional-conduct); [§6.8](#68-enforcement-refusal-suppression-or-non-prosecution-conduct).
+- Subsections: [§6.1](#61-concentration-based-subversion-criteria-interaction); [§6.2](#62-rights-floor-waivers-and-unconstitutional-contract-terms); [§6.3](#63-flooding-the-zone-and-contest-pathway-denial); [§6.4](#64-info-sphere-zone-flooding); [§6.5](#65-bribery-and-improper-benefit-exchange); [§6.6](#66-unlawful-or-unconstitutional-command-conduct), including [§6.6.1](#661-follower-and-implementer-accountability); [§6.7](#67-reward-protection-or-normalization-of-anti-constitutional-conduct); [§6.8](#68-enforcement-refusal-suppression-or-non-prosecution-conduct).
 - Read with: [Chapter Five](core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) for definitions named inside each pattern-routing subsection.
 
 </details>
@@ -458,7 +468,11 @@ The conduct is in scope only where it has one of the following material effects:
 - Using force, coercion, dependency leverage, retaliation threat, role discipline, economic pressure, technical control, or comparable authority to make unlawful or unconstitutional compliance practically likely.
 - Making constitutional process or remedies unusable in practice through command pressure, dependency, retaliation, capture, or coordinated refusal to honor lawful challenge paths.
 
-**Follower and implementer accountability.** Following, implementing, transmitting, or enforcing an unlawful or unconstitutional directive may also be classifiable violation conduct where the actor had material knowledge or reason to know, feasible capacity to refuse, contest, document, or escalate, and a material causal role in the violation. Evaluation must account for coercion, dependency, threat, access to protected reporting, urgency, available alternatives, role authority, technical capacity, and the actor's documented effort to resist or reduce harm. A command relationship is not a defense, but it may bear on culpability, remedy design, protection needs, and standing consequences.
+<a id="661-follower-and-implementer-accountability"></a>
+
+#### 6.6.1 Follower and implementer accountability
+
+Following, implementing, transmitting, or enforcing an unlawful or unconstitutional directive may also be classifiable violation conduct where the actor had material knowledge or reason to know, feasible capacity to refuse, contest, document, or escalate, and a material causal role in the violation. Evaluation must account for coercion, dependency, threat, access to protected reporting, urgency, available alternatives, role authority, technical capacity, and the actor's documented effort to resist or reduce harm. A command relationship is not a defense, but it may bear on culpability, remedy design, protection needs, and standing consequences.
 
 **Immediate containment and final slot boundary.** A materially substantiated unlawful or unconstitutional directive affecting constitutional validity, constitutional operation, Rights-Floor governance, contestability, remedy access, evidence integrity, or coercive force against constitutional authority triggers anti-constitutional misconduct routing, evidence-preservation duties, protected-reporting safeguards, and provisional containment where necessary to prevent continued harm. Final **Violation Axis s = 7, 8, or 9** classification still requires **section 3** slot assignment and **section 4** due-process safeguards.
 
