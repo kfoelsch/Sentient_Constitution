@@ -273,7 +273,7 @@ Adopted governance implementation provides escalation, proportionality of interv
 
 *In plain terms: rights conflicts must be resolved on the record; restoration is preferred where appropriate but must not replace real protection; and public apology must always be voluntary and non-degrading.*
 
-- **Rights-collision procedure:** Where rights conflicts are material, courts and governing bodies must apply **Chapter One §6.4.1** (*Rights-Collision Decision Test*).
+- **Rights-collision procedure:** Where rights conflicts are material, forums and governing bodies must apply **Chapter One §6.4.1** (*Rights-Collision Decision Test*).
   - Records must explicitly identify:
     - rights in tension;
     - rejected alternatives;

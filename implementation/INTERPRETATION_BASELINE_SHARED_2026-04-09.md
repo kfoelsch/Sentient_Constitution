@@ -23,4 +23,4 @@ This note is editorial support. It does not create constitutional obligations be
 
 - Keep local interpretation deltas in CP/CS only where file-specific context is needed.
 - Replace duplicated shared clauses with pointers to this baseline in future cleanup passes.
-- For **hybrid authority composition** shared by institutions and courts, use **`corpus_joint_structure.md` CJS-3.7** in the authoritative corpus rather than parallel paraphrases.
+- For **hybrid authority composition** shared by institutions and forums, use **`corpus_joint_structure.md` CJS-3.7** in the authoritative corpus rather than parallel paraphrases.

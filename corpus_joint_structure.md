@@ -164,7 +164,7 @@ Each row names the **first** operative owner for the topic. **Mandatory read-wit
 | **CJS-R06** | Court integrity operations, anti-capture, anti-self-judging support | `corpus_forum.md` **CC-6** | `corpus_institutions.md` **CI-5**, **CI-7.3**; `core_09-09_forum.md` **Chapter Nine** |
 | **CJS-R07** | Court forensic and analytical support | `corpus_forum.md` **CC-7** | `corpus_institutions.md` **CI-7A**, **CI-7.3** |
 | **CJS-R08** | Independent investigative service and prosecution interface | `corpus_forum.md` **CC-8** | `corpus_institutions.md` **CI-7A.1**, **CI-8** |
-| **CJS-R09** | Technical courts and specialist chambers | `corpus_forum.md` **CC-9** | `corpus_institutions.md` **CI-7B**, **CI-15B**; `core_09-09_forum.md` **Chapter Nine** |
+| **CJS-R09** | Technical forums and specialist chambers | `corpus_forum.md` **CC-9** | `corpus_institutions.md` **CI-7B**, **CI-15B**; `core_09-09_forum.md` **Chapter Nine** |
 | **CJS-R10** | Court performance, backlog requirements, publication timeliness, accessibility | `corpus_forum.md` **CC-10** | `corpus_institutions.md` **CI-7.3**; Sentient Constitution **Article XV** themes in `core_10-10_rights_part_*.md` **Chapter Ten** |
 | **CJS-R11** | Forum continuity, fallback operation, emergency adjudication | `corpus_forum.md` **CC-11** | `corpus_systems.md` **Protocol A**; `corpus_institutions.md` **CI-14** (where transition or continuity interfaces apply); `core_09-09_forum.md` **Chapter Nine** |
 | **CJS-R12** | Standard forum records, forms, and evidence artifacts | `corpus_forum.md` **CC-12** | `corpus_institutions.md` **CI-6**; `core_02-04_definition_mechanics.md` **Chapters Two through Four** (traceability and verification discipline) |
@@ -999,7 +999,7 @@ Proportional procedural scaling
 - OP-C: It is non-compliant to downscope governance procedure where materially significant intervention risk persists.
 
 Joint companion read rule for overlapping emergency/intervention facts
-- OP-O: Where emergency/intervention mode is simultaneously governed by systems/institutions/courts continuity layers on the same facts, joint-read obligations apply.
+- OP-O: Where emergency/intervention mode is simultaneously governed by systems/institutions/forums continuity layers on the same facts, joint-read obligations apply.
 - OP-E: Evaluation must verify shared-fact routing through CJS read-order and no-false-partial-compliance discipline.
 - OP-C: It is non-compliant to satisfy only one layer while leaving materially required companion obligations unmet for the same intervention facts.
 
@@ -1213,7 +1213,7 @@ Shared preamble contract: apply **CJS-1.1**. For stable implementation-label cit
 - **Intervention layering:** **PRIM8** (architecture-layer intervention) and **PROT2** (governance-layer intervention) remain distinct and jointly applicable where relevant.
 - **Canonical owners:** Constitutional Rights Floors, Chapter Ten default ordering, and governance definitions remain in the Sentient Constitution and Chapter Five. Text in this section implements those anchors and must not narrow them.
 - **Meta home:** Meta-integrity elaboration is anchored in **Implementation Group One** below. Stable implementation-label subsections implement that layer and must not narrow it.
-- **Emergency and continuity routing:** Read **CJS-2** and **CJS-3.2** where systems, institutions, courts, and this section govern the same operational facts.
+- **Emergency and continuity routing:** Read **CJS-2** and **CJS-3.2** where systems, institutions, forums, and this section govern the same operational facts.
 
 ---
 
@@ -1342,7 +1342,7 @@ Where **full** compliance is **not** maintainable: **prioritize** **Safety** and
 
 **Preservation ordering (degraded conditions):** **Safety** → **Truth (Epistemic Integrity)** → **System Stability (Trust)** → **Functional Performance**.
 
-**Governance continuity under stress:** For **high-impact** systems, **[corpus_systems.md](corpus_systems.md), Protocol A** and **Chapter S3 — Critical System Stewardship** govern designated crisis authority, crisis communications, and periodic exercises. That work does **not** displace **Sentient Constitution Chapter Ten, Article XXIII** (*Conflict Resolution, Escalation, and Emergency Proportionality*), **PROT2**, [core_11-11_governance.md](core_11-11_governance.md) **Chapter Eleven**, or related cross-companion requirements. Where those layers and **institutions** or **courts** govern the same facts, read **`corpus_joint_structure.md` CJS-2** and **CJS-3.2**.
+**Governance continuity under stress:** For **high-impact** systems, **[corpus_systems.md](corpus_systems.md), Protocol A** and **Chapter S3 — Critical System Stewardship** govern designated crisis authority, crisis communications, and periodic exercises. That work does **not** displace **Sentient Constitution Chapter Ten, Article XXIII** (*Conflict Resolution, Escalation, and Emergency Proportionality*), **PROT2**, [core_11-11_governance.md](core_11-11_governance.md) **Chapter Eleven**, or related cross-companion requirements. Where those layers and **institutions** or **forums** govern the same facts, read **`corpus_joint_structure.md` CJS-2** and **CJS-3.2**.
 
 **Layer B — Integrity implementation labels (PRIM9–PRIM15)**
 The following integrity implementation labels operationalize and test the Meta-Integrity constraints above.

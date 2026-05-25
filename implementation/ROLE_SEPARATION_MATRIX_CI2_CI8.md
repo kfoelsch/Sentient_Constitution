@@ -11,7 +11,7 @@
 | **CI-6** Procedure | Decision maker and sole appeals body for same case (where split required) | Structural bias | **CI-6** + **`corpus_forum.md`** **CC-3** / **CC-6** |
 | **CI-7** Assurance line | Operator and independent assurance on same control | Assurance capture | **CI-7** / **CI-7.2** |
 | **CI-7A** Forensic support | Investigator and merits judge (same matter) | Anti-self-judging | **CC-7** / **CC-8** |
-| **CI-7B** Technical courts | Expert advocate and same-chamber final adjudicator (same matter) | Technical capture | **CC-9** |
+| **CI-7B** Technical forums | Expert advocate and same-chamber final adjudicator (same matter) | Technical capture | **CC-9** |
 | **CI-8** Cross-institution escalation | Escalation receiver and original decision owner without firewall | Collapse of independence | **CI-8** |
 
-**Default:** three-lines model (**CI-7.1**); anti-self-judging for courts (**CC-6**); investigations structurally separate from subjects (**CI-5**, **CC-8**).
+**Default:** three-lines model (**CI-7.1**); anti-self-judging for forums (**CC-6**); investigations structurally separate from subjects (**CI-5**, **CC-8**).

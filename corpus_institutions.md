@@ -363,7 +363,7 @@ Where `core_09-09_forum.md` **Chapter Nine** requires **cross-forum anti-self-ju
 
 ---
 
-## CI-7B: Technical courts: science, engineering, medicine, and related fields
+## CI-7B: Technical forums: science, engineering, medicine, and related fields
 
 **Joint read:** **`corpus_joint_structure.md` CJS-2.2** row **CJS-R09**; **CJS-3.3**.
 

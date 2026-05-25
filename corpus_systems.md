@@ -386,7 +386,7 @@ Documentation must cover pooled arrangements, escrow/holdback, and insurance or 
 
 See Sentient Constitution **Chapter Four** (*Enforcement Realism Anchors*) and **Protocol S5**.
 
-**Judgment and award realism:** Where foreign courts, arbitral tribunals, or sovereign regulators issue enforceable outcomes, systems must map recognition, registration, and fallback dependency-linked enforcement. They must **not** treat absence of a single global judiciary as permission for indefinite non-compliance.
+**Judgment and award realism:** Where foreign forums, arbitral tribunals, or sovereign regulators issue enforceable outcomes, systems must map recognition, registration, and fallback dependency-linked enforcement. They must **not** treat absence of a single global judiciary as permission for indefinite non-compliance.
 
 Apply Sentient Constitution **Chapter Thirteen** (*Disputes Involving External Legal Orders*) where applicable.
 

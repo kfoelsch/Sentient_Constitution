@@ -111,7 +111,7 @@ The principles of this Article constrain all interpretation, design, and operati
 
 <br>
 
-*In plain terms: courts, administrators, and enforcement processes must include every sentient on equal terms — efficiency or throughput is not an excuse for exclusion or discriminatory outcomes.*
+*In plain terms: forums, administrators, and enforcement processes must include every sentient on equal terms — efficiency or throughput is not an excuse for exclusion or discriminatory outcomes.*
 
 - **Full inclusion:** No system may deny or degrade a sentient's fundamental rights, protections, or access to survival-critical systems.
   - Prohibited grounds for such denial are stated in **Article V-A**.

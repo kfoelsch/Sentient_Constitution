@@ -21,3 +21,13 @@ This repository is the **Sentient Constitution** markdown corpus and tooling—n
 
 - Treat substantive edits as corpus changes: run **`make regression`** before publication cuts when instructed by operators (`Makefile`, README checklist).
 - Keep edits scoped to the user request; match existing corpus style and cross-link patterns.
+
+## Vocabulary guardrails (do not use)
+
+| Do not use | Use instead |
+|------------|-------------|
+| `courts` (institutional / adjudicative sense) | `forums`, `forum family` for routing; `tribunal` or `adjudicative body` where a generic label is still needed |
+
+**Exceptions:** verbatim external quotations; proper names and historical titles where source fidelity requires; lemmas **courtesy** / **courteous** (not the institutional sense).
+
+See [`doc_architecture.md`](../doc_architecture.md) **Plain-Language Vocabulary Guardrails** for the full vocabulary table.

@@ -275,7 +275,7 @@ Cross-jurisdiction coordination and anti-evasion execution follow **[corpus_syst
 
 <br>
 
-*In plain terms: cooperate with real regulators and courts where they lawfully have jurisdiction — but do not pretend cooperation means deleting internal audit trails, and do not sign away constitutional challenge rights for ordinary commercial convenience.*
+*In plain terms: cooperate with real regulators and forums where they lawfully have jurisdiction — but do not pretend cooperation means deleting internal audit trails, and do not sign away constitutional challenge rights for ordinary commercial convenience.*
 
 #### 4.1 Good-Faith Cooperation
 <details>
@@ -356,7 +356,7 @@ This Constitution may be amended to improve protection, clarity, binding effect,
 
 <br>
 
-*In plain terms: if you are changing something that touches rights, courts' paths, or integrity rules, expect a harder lane — independent eyes and a public, contestable record before it counts as adopted.*
+*In plain terms: if you are changing something that touches rights, forums' paths, or integrity rules, expect a harder lane — independent eyes and a public, contestable record before it counts as adopted.*
 
 Any proposed amendment that materially affects Chapter Ten rights, adjudication pathways, or integrity and oversight conditions must receive heightened scrutiny. It must receive independent review and contestable publication before adoption.
 

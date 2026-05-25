@@ -114,7 +114,7 @@ Evaluators must not treat the same underlying conduct as satisfying both **crite
 - Upstream: [§2](#2-criteria-set-for-slot-assignment) (*Criteria set*).
 - Criteria interactions: [§6.1](#61-concentration-based-subversion-criteria-interaction); [§6.2](#62-rights-floor-waivers-and-unconstitutional-contract-terms); [§6.3](#63-flooding-the-zone-and-contest-pathway-denial); [§6.4](#64-info-sphere-zone-flooding); [§6.5](#65-bribery-and-improper-benefit-exchange); [§6.6](#66-unlawful-or-unconstitutional-command-conduct); [§6.7](#67-reward-protection-or-normalization-of-anti-constitutional-conduct); [§6.8](#68-enforcement-refusal-suppression-or-non-prosecution-conduct).
 - Downstream: [§4](#4-due-process-safeguards-for-slot-classification) (*Due-process safeguards*) and [§5](#5-cross-chapter-discipline) (*Cross-chapter discipline*).
-- Downstream courts: [Chapter Nine](core_09-09_forum.md#chapter-nine-forums-and-jurisdiction) [§2](core_09-09_forum.md#2-default-venue-and-dominant-purpose) gives the Integrity default lead where final Chapter Eight slot classification is the dominant stake. [Chapter Nine §7](core_09-09_forum.md#7-escalation-and-certification) covers forum certification and independent review for final **s = 7**, **s = 8**, and **s = 9** classification.
+- Downstream forums: [Chapter Nine](core_09-09_forum.md#chapter-nine-forums-and-jurisdiction) [§2](core_09-09_forum.md#2-default-venue-and-dominant-purpose) gives the Integrity default lead where final Chapter Eight slot classification is the dominant stake. [Chapter Nine §7](core_09-09_forum.md#7-escalation-and-certification) covers forum certification and independent review for final **s = 7**, **s = 8**, and **s = 9** classification.
 - Read with: [Chapter Six](core_06-06_standing_assessment.md#chapter-six-compliance-violation-and-standing-model) — **Chapters Twelve through Fourteen** do not supply final Chapter Eight slot assignment; **the Contribution and Violation axes**, the Chapter Six severity ladder, and Chapter Six process / response character remain separate from final **s = 7, 8, or 9** assignment under **this** **section**.
 
 </details>
@@ -281,7 +281,7 @@ The following patterns are **anti-constitutional misconduct within this chapter�
 
 <br>
 
-*In plain terms: burying courts and contest desks under junk volume, copy-paste filings, or automated noise can be a constitutional attack pattern. The key is purpose or reckless disregard: real challenges cannot get through in time. Mass meritorious claims seeking real relief are different.*
+*In plain terms: burying forums and contest desks under junk volume, copy-paste filings, or automated noise can be a constitutional attack pattern. The key is purpose or reckless disregard: real challenges cannot get through in time. Mass meritorious claims seeking real relief are different.*
 
 **Flooding-the-zone conduct** (including **contest-pathway flooding**) is **anti-constitutional misconduct within this chapter’s scope** when substantiated under **Chapters Two through Four** and assessed through the **section 2** criteria for possible assignment. It means deliberate, reckless, or foreseeably indifferent use of high volume, redundancy, distributed load, or automation to burden contest, routing, intake, adjudication, panel formation, recusal or backup resolution, review, publication, forensic processing, or comparable pathway capacity.
 
