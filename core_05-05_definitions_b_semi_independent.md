@@ -672,7 +672,7 @@ Below, entries are **grouped by topic** for reading convenience (non-operative o
 <a id="protected-characteristic-proxying-and-disparate-impact-e"></a>
 - E: Detect disparate impact, pretextual neutrality, proxy discrimination through correlates or model features, and replication of historical disadvantage. Do not treat the absence of an expressly named trait as sufficient where observable group-pattern effects or functional equivalents indicate protected-status burdening. Align with [Substantive Fairness](#substantive-fairness-constitutional) and Article V-B.
 <a id="protected-characteristic-proxying-and-disparate-impact-c"></a>
-- C: Non-compliant: structuring systems so that materially comparable sentients systematically receive worse burdens, lower standing without adequate cause under Chapter Ten standing and reputation safeguards, or fewer benefits without adequate justification under Chapters One through Five and Chapter Ten nondiscrimination norms.
+- C: Non-compliant: structuring systems so that materially comparable sentients systematically receive worse burdens, lower participation status without adequate cause under Chapter Ten standing and participation-status safeguards, or fewer benefits without adequate justification under Chapters One through Five and Chapter Ten nondiscrimination norms.
 
 <a id="protected-characteristics-constitutional"></a>
 

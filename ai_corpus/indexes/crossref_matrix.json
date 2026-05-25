@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/crossref_matrix.schema.json",
-  "generated_at": "2026-05-25T05:03:33+00:00",
+  "generated_at": "2026-05-25T07:09:55+00:00",
   "description": "Source-derived file-to-file Markdown reference graph.",
   "graph": {
     "nodes": [
@@ -402,7 +402,7 @@
               "#article-xvii-e-scientific-publication-review-and-replication-integrity",
               "#article-xvii-sandboxed-innovation-experimentation-and-creative-freedom",
               "#article-xviii-b-contestability-and-proportional-restriction-limits",
-              "#article-xviii-standing-reputation-and-participation-status",
+              "#article-xviii-standing-and-participation-status",
               "#article-xx-comprehensibility-and-complexity-stewardship",
               "#article-xxi-root-cause-analysis-and-adaptive-response",
               "#article-xxii-a-bounded-interpretive-mandate",
@@ -658,7 +658,7 @@
           },
           {
             "file": "core_05-05_definitions_c_dependent_clusters.md",
-            "count": 202,
+            "count": 209,
             "anchors": [
               "#animal-life-constitutional",
               "#animal-life-sentient-life-and-sentience-status-cluster",
@@ -724,13 +724,17 @@
               "#sentience-non-exclusion",
               "#sentience-status-adjudication-constitutional",
               "#sentient-composite",
+              "#single-catastrophic-incident",
               "#stakeholder-representation-and-participation-weight-limits-binding-collective-choice",
               "#stakeholder-status-emergency-and-participation-weight-cluster",
               "#standing-effect-chapter-six",
+              "#standing-lock",
               "#standing-record-chapter-six",
               "#standing-state-contribution-and-violation-cluster",
               "#supremacy-and-enforceability",
               "#surveillance-boundary",
+              "#sustained-high-gravity-pattern",
+              "#top-slot-review",
               "#training-data-use-constitutional",
               "#transparency",
               "#transparency-auditability-and-verification-cluster",
@@ -741,6 +745,8 @@
               "#trustworthiness",
               "#truth-and-epistemic-integrity-cluster",
               "#truth-constitutional-constraint",
+              "#unified-incident",
+              "#unified-record",
               "#use-of-force-autonomous-coercion-and-mass-harm-cluster",
               "#use-of-force-constitutional",
               "#verifiability",
@@ -749,6 +755,7 @@
               "#verification-independence",
               "#verification-proportionality",
               "#verification-robustness",
+              "#verified-inputs-for-standing",
               "#verified-violation-findings",
               "#violation-nature-chapter-six",
               "#volitional-integrity",
@@ -1084,7 +1091,7 @@
           },
           {
             "file": "core_05-05_definitions_a_independent.md",
-            "count": 216,
+            "count": 218,
             "anchors": [
               "#adversarial-scaled-and-exploited-conditions",
               "#cascading-failure",
@@ -1120,7 +1127,7 @@
           },
           {
             "file": "core_05-05_definitions_b_semi_independent.md",
-            "count": 174,
+            "count": 186,
             "anchors": [
               "#accountability",
               "#adjudication-and-dispute-resolution-constitutional",
@@ -1144,6 +1151,7 @@
               "#protected-characteristics-constitutional",
               "#proxy-divergence",
               "#reproductive-autonomy-constitutional",
+              "#review-and-correction-duty-constitutional",
               "#section-2-semi-independent-definitions",
               "#stakeholder",
               "#stakeholder-participation-weight",
@@ -1163,14 +1171,13 @@
           },
           {
             "file": "core_06-06_standing_assessment.md",
-            "count": 30,
+            "count": 31,
             "anchors": [
               "#1-purpose-and-role",
               "#2-standing-records",
               "#21-standing-records-as-the-unit-of-application",
               "#22-standing-record-operational-requirements",
               "#3-axis-i-contribution-state-and-standing-effect",
-              "#3-axis-ii-violation-nature-legal-constitutional-type",
               "#4-axis-ii-violation-nature-legal-constitutional-type",
               "#4-primary-category-defaults-and-lequ-slot-baseline",
               "#40-slot-grammar-and-display-labels",
@@ -1181,19 +1188,26 @@
           },
           {
             "file": "core_07-07_standing_integration.md",
-            "count": 8,
+            "count": 11,
             "anchors": [
               "#5-standing-effects",
               "#6-extended-axis-ii-legal-hybrid-duty-and-harm-descriptors",
               "#73-stackable-harm-and-conduct-descriptors-violation-nature-supplement",
-              "#9-additive-and-non-substitution-rule",
-              "#chapter-seven-standing-effects-and-integration"
+              "#8-cross-axis-coupling-and-escalation-constraints",
+              "#chapter-seven-standing-effects-and-integration",
+              "#competency-gates",
+              "#standing-integration-slot-band-standing-locks"
             ]
           },
           {
             "file": "core_08-08_misconduct.md",
-            "count": 2,
+            "count": 15,
             "anchors": [
+              "#1-decision-framework-scope-and-authority",
+              "#2-criteria-set-for-slot-assignment",
+              "#3-violation-axis-s-7-9-slot-assignment-incident-gravity",
+              "#4-due-process-safeguards-for-slot-classification",
+              "#64-info-sphere-zone-flooding",
               "#chapter-eight-anti-constitutional-misconduct"
             ]
           },
@@ -1376,7 +1390,7 @@
           },
           {
             "file": "core_06-06_standing_assessment.md",
-            "count": 2,
+            "count": 1,
             "anchors": [
               "#chapter-six-compliance-violation-and-standing-model"
             ]
@@ -1399,7 +1413,7 @@
           },
           {
             "file": "core_08-08_misconduct.md",
-            "count": 4,
+            "count": 7,
             "anchors": [
               "#chapter-eight-anti-constitutional-misconduct"
             ]
@@ -1542,11 +1556,12 @@
           },
           {
             "file": "core_05-05_definitions_c_dependent_clusters.md",
-            "count": 97,
+            "count": 98,
             "anchors": [
               "#auditability",
               "#auditability-c",
               "#auditability-e",
+              "#competency-gate",
               "#constitutional-constraint-violation",
               "#constitutional-constraint-violation-c",
               "#constitutional-constraint-violation-e",
@@ -1585,7 +1600,7 @@
           },
           {
             "file": "core_08-08_misconduct.md",
-            "count": 11,
+            "count": 13,
             "anchors": [
               "#62-rights-floor-waivers-and-unconstitutional-contract-terms",
               "#66-unlawful-or-unconstitutional-command-conduct",
@@ -2266,7 +2281,7 @@
           },
           {
             "file": "core_05-05_definitions_b_semi_independent.md",
-            "count": 393,
+            "count": 385,
             "anchors": [
               "#accountability",
               "#accountability-c",
@@ -2343,9 +2358,6 @@
               "#parent-system-relationship-constitutional",
               "#parent-system-relationship-constitutional-c",
               "#parent-system-relationship-constitutional-e",
-              "#participant-standing-constitutional",
-              "#participant-standing-constitutional-c",
-              "#participant-standing-constitutional-e",
               "#privacy-informational",
               "#privacy-informational-c",
               "#privacy-informational-e",
@@ -2388,7 +2400,7 @@
           },
           {
             "file": "core_05-05_definitions_c_dependent_clusters.md",
-            "count": 103,
+            "count": 111,
             "anchors": [
               "#animal-life-sentient-life-and-sentience-status-cluster",
               "#anti-displacement-floor-constitutional",
@@ -2415,6 +2427,9 @@
               "#harm-c",
               "#harm-e",
               "#labor-and-economic-floor-cluster",
+              "#participant-standing-constitutional",
+              "#participant-standing-constitutional-c",
+              "#participant-standing-constitutional-e",
               "#privacy-informational",
               "#privacy-informational-cluster",
               "#protected-internal-state-boundary-constitutional",
@@ -2552,7 +2567,7 @@
           },
           {
             "file": "core_05-05_definitions_b_semi_independent.md",
-            "count": 270,
+            "count": 262,
             "anchors": [
               "#accountability",
               "#accountability-c",
@@ -2604,9 +2619,6 @@
               "#non-statelessness-constitutional",
               "#non-statelessness-constitutional-c",
               "#non-statelessness-constitutional-e",
-              "#participant-standing-constitutional",
-              "#participant-standing-constitutional-c",
-              "#participant-standing-constitutional-e",
               "#procedural-fairness-constitutional",
               "#procedural-fairness-constitutional-c",
               "#procedural-fairness-constitutional-e",
@@ -2649,7 +2661,7 @@
           },
           {
             "file": "core_05-05_definitions_c_dependent_clusters.md",
-            "count": 184,
+            "count": 192,
             "anchors": [
               "#auditability",
               "#auditability-c",
@@ -2668,6 +2680,9 @@
               "#forum-family-constitutional-c",
               "#forum-family-constitutional-e",
               "#governance-architecture-oversight-decentralization-and-concentration-cluster",
+              "#participant-standing-constitutional",
+              "#participant-standing-constitutional-c",
+              "#participant-standing-constitutional-e",
               "#protected-internal-state-boundary-constitutional",
               "#self-determination-constitutional",
               "#sentience-non-exclusion",
@@ -2980,7 +2995,7 @@
             "file": "core_10-10_rights_part_c.md",
             "count": 2,
             "anchors": [
-              "#article-xviii-standing-reputation-and-participation-status"
+              "#article-xviii-standing-and-participation-status"
             ]
           },
           {

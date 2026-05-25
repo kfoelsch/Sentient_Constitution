@@ -989,12 +989,15 @@ Further elaboration appears in **[corpus_systems.md](corpus_systems.md), Protoco
     - retaliation against reviewers or replicators;
     - non-transparent manipulation of the scientific record.
 
-### Article XVIII: Standing, Reputation, and Participation Status
+<a id="article-xviii-standing-reputation-and-participation-status"></a>
+<a id="article-xviii-standing-and-participation-status"></a>
+
+### Article XVIII: Standing and Participation Status
 
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
 
-- [Participant Standing](core_05-05_definitions_b_semi_independent.md#participant-standing-constitutional) · [O](core_05-05_definitions_b_semi_independent.md#participant-standing-constitutional) · [E](core_05-05_definitions_b_semi_independent.md#participant-standing-constitutional-e) · [C](core_05-05_definitions_b_semi_independent.md#participant-standing-constitutional-c)
+- [Participant Standing](core_05-05_definitions_c_dependent_clusters.md#participant-standing-constitutional) · [O](core_05-05_definitions_c_dependent_clusters.md#participant-standing-constitutional) · [E](core_05-05_definitions_c_dependent_clusters.md#participant-standing-constitutional-e) · [C](core_05-05_definitions_c_dependent_clusters.md#participant-standing-constitutional-c)
 - [Stakeholder](core_05-05_definitions_b_semi_independent.md#stakeholder) · [O](core_05-05_definitions_b_semi_independent.md#stakeholder) · [E](core_05-05_definitions_b_semi_independent.md#stakeholder-e) · [C](core_05-05_definitions_b_semi_independent.md#stakeholder-c)
 - [Material Impact](core_05-05_definitions_b_semi_independent.md#material-impact) · [O](core_05-05_definitions_b_semi_independent.md#material-impact) · [E](core_05-05_definitions_b_semi_independent.md#material-impact-e) · [C](core_05-05_definitions_b_semi_independent.md#material-impact-c)
 - [Dignity and Equal Moral Standing](core_05-05_definitions_a_independent.md#dignity-and-equal-moral-standing) · [O](core_05-05_definitions_a_independent.md#dignity-and-equal-moral-standing) · [E](core_05-05_definitions_a_independent.md#dignity-and-equal-moral-standing-e) · [C](core_05-05_definitions_a_independent.md#dignity-and-equal-moral-standing-c)
@@ -1005,7 +1008,7 @@ Further elaboration appears in **[corpus_systems.md](corpus_systems.md), Protoco
 
 <br>
 
-Participant standing is reputation-, record-, or qualification-based status used to gate audits, roles, funding challenges, or participation pathways.
+Participant standing is participation-status or role-eligibility status recognized from constitutionally valid standing records, standing effects, good-standing criteria, or role-specific qualification criteria. It is not reputation or social esteem, and it does not itself impose access restrictions.
 
 It must remain distinct from:
 - inherent dignity;
@@ -1026,13 +1029,13 @@ It must remain distinct from:
 
 - [Dignity and Equal Moral Standing](core_05-05_definitions_a_independent.md#dignity-and-equal-moral-standing) · [O](core_05-05_definitions_a_independent.md#dignity-and-equal-moral-standing) · [E](core_05-05_definitions_a_independent.md#dignity-and-equal-moral-standing-e) · [C](core_05-05_definitions_a_independent.md#dignity-and-equal-moral-standing-c)
 - [Stakeholder Participation Weight](core_05-05_definitions_b_semi_independent.md#stakeholder-participation-weight) · [O](core_05-05_definitions_b_semi_independent.md#stakeholder-participation-weight) · [E](core_05-05_definitions_b_semi_independent.md#stakeholder-participation-weight-e) · [C](core_05-05_definitions_b_semi_independent.md#stakeholder-participation-weight-c)
-- [Participant Standing](core_05-05_definitions_b_semi_independent.md#participant-standing-constitutional) · [O](core_05-05_definitions_b_semi_independent.md#participant-standing-constitutional) · [E](core_05-05_definitions_b_semi_independent.md#participant-standing-constitutional-e) · [C](core_05-05_definitions_b_semi_independent.md#participant-standing-constitutional-c)
+- [Participant Standing](core_05-05_definitions_c_dependent_clusters.md#participant-standing-constitutional) · [O](core_05-05_definitions_c_dependent_clusters.md#participant-standing-constitutional) · [E](core_05-05_definitions_c_dependent_clusters.md#participant-standing-constitutional-e) · [C](core_05-05_definitions_c_dependent_clusters.md#participant-standing-constitutional-c)
 
 </details>
 
 <br>
 
-*In plain terms: standing, reputation, and qualification scores may govern roles — but they cannot be used to erase dignity or to decide whether someone is a stakeholder at all.*
+*In plain terms: standing and qualification criteria may govern roles only through valid, contestable pathways — they cannot be reputation in disguise, erase dignity, or decide whether someone is a stakeholder at all.*
 
 - **Standing is different from:**
   - inherent dignity and equal moral standing (**Article V-A**);
@@ -1122,7 +1125,7 @@ It must remain distinct from:
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: Principles: Chapter One [3.1 Safety](core_00-01_principles.md#31-safety-constraint), [§8 Freedom](core_00-01_principles.md#8-freedom-bounded-agency), [6.1.1 Reversibility-under-uncertainty](core_00-01_principles.md#611-proportionality-necessity-and-reversibility-under-uncertainty), [6.3 Freedom Preservation](core_00-01_principles.md#63-freedom-preservation).
-- Downstream: **Article V-A** dignity floor, **Article V-B** non-discrimination, **Article XI** stakeholder participation, **Article XVIII** standing and reputation, **Article XIX** interoperability and exit integrity (operational counterpart), **Article XXIII-D** emergency-measure limits, **Article XXV** transition governance.
+- Downstream: **Article V-A** dignity floor, **Article V-B** non-discrimination, **Article XI** stakeholder participation, **Article XVIII** standing and participation status, **Article XIX** interoperability and exit integrity (operational counterpart), **Article XXIII-D** emergency-measure limits, **Article XXV** transition governance.
 - Read with: Chapter Five [**§3.24** *Movement, Refuge, Non-Statelessness, and Exit Integrity*](core_05-05_definitions_b_semi_independent.md#movement-refuge-semi-independent); *Movement and Relocation*, *Refuge from Non-Compliance*, *Non-Statelessness*, *Sentience Non-Exclusion*; *Systemic Lock-In* and *Tenure Security* where exit, hosting termination, eviction, or substantive relocation is materially implicated.
 
 </details>

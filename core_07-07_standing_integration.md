@@ -82,8 +82,8 @@ Standing consequences may affect eligibility for roles, delegated authority, or 
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [§4.1](core_06-06_standing_assessment.md#3-axis-i-contribution-state-and-standing-effect) (*Contribution Axis rules, bands, and Table 2*); [§3.2](#72-stackable-benefit-and-stewardship-descriptors-contribution-state-supplement).
-- Downstream: [§1.3](#37-reinstatement-review-and-non-entrenchment); [§1.4](#38-standing-integration-category-hook).
-- Read with: [Contribution State](core_05-05_definitions_b_semi_independent.md#contribution-state) (*Chapter Five pointer — operative Contribution Axis text in **section 4.1***); [Auditability](core_05-05_definitions_c_dependent_clusters.md#auditability) · [O](core_05-05_definitions_c_dependent_clusters.md#auditability) · [E](core_05-05_definitions_c_dependent_clusters.md#auditability-e) · [C](core_05-05_definitions_c_dependent_clusters.md#auditability-c); [Contestability](core_05-05_definitions_b_semi_independent.md#contestability) · [O](core_05-05_definitions_b_semi_independent.md#contestability) · [E](core_05-05_definitions_b_semi_independent.md#contestability-e) · [C](core_05-05_definitions_b_semi_independent.md#contestability-c).
+- Downstream: [§1.1A](#competency-gates) (*competency gates*); [§1.3](#37-reinstatement-review-and-non-entrenchment); [§1.4](#38-standing-integration-category-hook).
+- Read with: [Contribution State](core_05-05_definitions_b_semi_independent.md#contribution-state) (*Chapter Five pointer — operative Contribution Axis text in **section 4.1***); [Competency Gate](core_05-05_definitions_c_dependent_clusters.md#competency-gate); [Auditability](core_05-05_definitions_c_dependent_clusters.md#auditability) · [O](core_05-05_definitions_c_dependent_clusters.md#auditability) · [E](core_05-05_definitions_c_dependent_clusters.md#auditability-e) · [C](core_05-05_definitions_c_dependent_clusters.md#auditability-c); [Contestability](core_05-05_definitions_b_semi_independent.md#contestability) · [O](core_05-05_definitions_b_semi_independent.md#contestability) · [E](core_05-05_definitions_b_semi_independent.md#contestability-e) · [C](core_05-05_definitions_b_semi_independent.md#contestability-c).
 
 </details>
 
@@ -108,6 +108,21 @@ That recognition may cover oversight eligibility, trust pathways, or delegated r
 Recognition **must not** be withheld or discounted solely because the underlying conduct was **informal**, **unpaid**, **peer-organized**, or **outside** **official** programs, offices, or **designated** channels when **section 4.1** is otherwise satisfied.
 
 Recognition must remain contestable, reviewable, and non-monopolistic.
+
+<a id="competency-gates"></a>
+<a id="competency-gate"></a>
+
+#### 1.1A Competency Gates
+
+*In plain terms: a competency gate opens a role or trust pathway when someone has shown the relevant competence and experience. It is the positive counterpart to a standing lock, but it cannot become insider gatekeeping or a credential monopoly.*
+
+A **competency gate** is a published, auditable, contestable readiness threshold that may open access to trust-sensitive roles, delegated authority, oversight eligibility, enhanced recognition, or progressively consequential stewardship responsibility when verified competence, experience, contribution records, and current good-standing criteria satisfy role-proportionate requirements.
+
+Competency gates implement positive standing recognition and role eligibility. They may use contribution records, demonstrated skill, relevant experience, training, role-specific qualification criteria, and observed reliability where those inputs are verified, current enough for the role, and traceable to the standing record or other constitutionally valid readiness record. They must remain proportional to role impact, dependency, and risk.
+
+A competency gate must not operate as arbitrary gatekeeping, opaque credentialism, reputation substitution, social-prestige screening, insider sponsorship, or exclusion by inaccessible specialization. Informal, unpaid, peer-organized, mutual-aid, maintenance, repair, teaching, or community stewardship experience must count where it satisfies the same demonstrability, auditability, and contestability standards as formal institutional experience.
+
+Satisfying a competency gate may support trust-, role-, authority-, oversight-, or recognition-linked standing effect only where any applicable standing lock permits that effect. Competency gates do not waive Rights Floors, erase unresolved violation findings, lower Violation Axis classifications, or displace correction, remediation, safeguard, review, or lawful supersession requirements.
 
 <a id="36-restrictive-standing-effects"></a>
 <a id="35-restrictive-standing-effects"></a>

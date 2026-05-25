@@ -978,22 +978,30 @@ This cluster is the joint-invocation home for self-determination, meaningful age
 
 #### 3.9 Standing State, Contribution, and Violation
 
-This cluster is the joint-invocation home for contribution state, standing records and effects, verified violation findings, and violation-nature typing under Chapter Six — the definitional interface Chapter Five supplies for Axis I / Axis II vocabulary.
+This cluster is the joint-invocation home for contribution state, standing records and effects, verified inputs for standing, verified violation findings, violation-nature typing, standing locks, and Chapter Eight top-slot review vocabulary — the definitional interface Chapter Five supplies for the Chapter Six through Chapter Eight standing pipeline.
 
-**Admission scope.** This cluster applies where a matter materially concerns standing classification inputs, verified violations, or how violation nature and process/response character interact with forum routing and remedies. Outside that admission scope, individual Chapter Six hooks may be cited without importing the full cluster.
+**Admission scope.** This cluster applies where a matter materially concerns standing classification inputs, verified violations, standing consequences, standing-lock effects, final top-slot anti-constitutional misconduct review, or how violation nature and process/response character interact with forum routing and remedies. Outside that admission scope, individual Chapter Six through Chapter Eight hooks may be cited without importing the full cluster.
 
 **Cluster members.** This cluster comprises:
 
-- [Participant Standing](#participant-standing-constitutional), where reputation- or record-based gating intersects Axis I typing;
+- [Participant Standing](#participant-standing-constitutional), where Article XVIII participation status intersects Chapter Six standing records, standing effects, or role-eligibility criteria;
 - [Contribution State](#contribution-state);
+- [Verified Inputs for Standing](#verified-inputs-for-standing);
 - [Verified Violation Findings](#verified-violation-findings);
 - [Standing Effect](#standing-effect-chapter-six);
 - [Standing Record](#standing-record-chapter-six);
-- [Violation Nature](#violation-nature-chapter-six).
+- [Competency Gate](#competency-gate);
+- [Standing Lock](#standing-lock);
+- [Violation Nature](#violation-nature-chapter-six);
+- [Top-Slot Review](#top-slot-review);
+- [Unified Incident](#unified-incident);
+- [Unified Record](#unified-record);
+- [Single Catastrophic Incident](#single-catastrophic-incident);
+- [Sustained High-Gravity Pattern](#sustained-high-gravity-pattern).
 
-**Read-with definitions.** Apply [Auditability](#auditability), [Contestability](core_05-05_definitions_b_semi_independent.md#contestability), [Materiality Determination](core_05-05_definitions_b_semi_independent.md#materiality-determination), [Adjudication and Dispute Resolution](core_05-05_definitions_b_semi_independent.md#adjudication-and-dispute-resolution-constitutional), and [Chapter Six §4.0](core_06-06_standing_assessment.md#40-slot-grammar-and-display-labels) where materially implicated.
+**Read-with definitions.** Apply [Auditability](#auditability), [Contestability](core_05-05_definitions_b_semi_independent.md#contestability), [Materiality Determination](core_05-05_definitions_b_semi_independent.md#materiality-determination), [Adjudication and Dispute Resolution](core_05-05_definitions_b_semi_independent.md#adjudication-and-dispute-resolution-constitutional), [Chapter Six §4.0](core_06-06_standing_assessment.md#40-slot-grammar-and-display-labels), [Chapter Seven §4.3](core_07-07_standing_integration.md#standing-integration-slot-band-standing-locks), and [Chapter Eight](core_08-08_misconduct.md#chapter-eight-anti-constitutional-misconduct) where materially implicated.
 
-**Joint invocation and anti-bypass.** Under §3.0.1, a matter within the admission scope must not be segmented into separate narrative, procedural, or evidentiary compartments in a way that defeats joint assessment, verified-input gates, or non-substitution discipline required by Chapter Six.
+**Joint invocation and anti-bypass.** Under §3.0.1, a matter within the admission scope must not be segmented into separate narrative, procedural, evidentiary, standing-effect, or incident-gravity compartments in a way that defeats joint assessment, verified-input gates, standing-lock discipline, top-slot review, or non-substitution discipline required by Chapters Six through Eight.
 
 ---
 
@@ -1005,17 +1013,20 @@ This cluster is the joint-invocation home for contribution state, standing recor
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Downstream: Principles: [7.1 Required Evaluation Factors](core_00-01_principles.md#71-required-evaluation-factors); [7.2 Incentive Alignment and System Capture](core_00-01_principles.md#72-incentive-alignment-and-system-capture) (standing signals and capture).
-- Read with: the [Standing State, Contribution, and Violation cluster](#standing-state-contribution-and-violation-cluster), [Contribution State](#contribution-state), [Standing Record](#standing-record-chapter-six), [Standing Effect](#standing-effect-chapter-six), [Verified Violation Findings](#verified-violation-findings), [Violation Nature](#violation-nature-chapter-six), [Contestability](core_05-05_definitions_b_semi_independent.md#contestability), [Auditability](#auditability), [Transparency](#transparency), and [Redress and Remediation](core_05-05_definitions_a_independent.md#redress-and-remediation-constitutional).
+- Read with: the [Standing State, Contribution, and Violation cluster](#standing-state-contribution-and-violation-cluster), [Contribution State](#contribution-state), [Standing Record](#standing-record-chapter-six), [Standing Effect](#standing-effect-chapter-six), [Competency Gate](#competency-gate), [Verified Violation Findings](#verified-violation-findings), [Violation Nature](#violation-nature-chapter-six), [Contestability](core_05-05_definitions_b_semi_independent.md#contestability), [Auditability](#auditability), [Transparency](#transparency), and [Redress and Remediation](core_05-05_definitions_a_independent.md#redress-and-remediation-constitutional).
 
 </details>
 
 <br>
 
-- O: Reputation-, record-, or qualification-based status used to gate access to audits, roles, funding challenges, or participation pathways. It is distinct from [Dignity and Equal Moral Standing](core_05-05_definitions_a_independent.md#dignity-and-equal-moral-standing) (inherent to all sentients) and from demonstration of material impact for [Stakeholder](core_05-05_definitions_b_semi_independent.md#stakeholder) identification. *Good standing* is a participant-standing state: current eligibility for ordinary participation, trust-sensitive roles, or qualified access under constitutionally valid, contestable criteria. It does not extinguish baseline rights, dignity, challenge access under [Contestability](core_05-05_definitions_b_semi_independent.md#contestability), or remedy access under [Redress and Remediation](core_05-05_definitions_a_independent.md#redress-and-remediation-constitutional). Operational detail is governed by [Article XVIII-A](core_10-10_rights_part_c.md#article-xviii-a-standing-distinction) (*Standing Distinction*), [Article XVIII-C](core_10-10_rights_part_c.md#article-xviii-c-good-standing-responsibility-and-continuous-audit) (*Good Standing, Responsibility, and Continuous Audit*), and related incorporated provisions where designated. **Axis I** **contribution state**, **Violation Axis** inputs, and **standing effect** under the Chapter Six model are not restated here; read [Contribution State](#contribution-state) with [Chapter Six](core_06-06_standing_assessment.md#chapter-six-compliance-violation-and-standing-model), including [Contribution Axis rules](core_06-06_standing_assessment.md#3-axis-i-contribution-state-and-standing-effect), [Violation Axis rules](core_06-06_standing_assessment.md#3-axis-ii-violation-nature-legal-constitutional-type), and [standing effects and integration](core_07-07_standing_integration.md#chapter-seven-standing-effects-and-integration). Final **Violation Axis s = 7, s = 8, and s = 9** anti-constitutional misconduct classification remains governed by [Chapter Eight](core_08-08_misconduct.md#chapter-eight-anti-constitutional-misconduct).
+- O: Participation-status or role-eligibility status that may be recognized from constitutionally valid standing records, standing effects, good-standing criteria, or role-specific qualification criteria. It is distinct from [Dignity and Equal Moral Standing](core_05-05_definitions_a_independent.md#dignity-and-equal-moral-standing) (inherent to all sentients), from reputation or social esteem, and from demonstration of material impact for [Stakeholder](core_05-05_definitions_b_semi_independent.md#stakeholder) identification. *Good standing* is a participant-standing state: current eligibility for ordinary participation, trust-sensitive roles, or qualified participation under constitutionally valid, contestable criteria. Participant standing does not itself impose access restrictions; restrictive access consequences, where lawful, belong to [Standing Effect](#standing-effect-chapter-six), [Standing Lock](#standing-lock), Article XVIII, and applicable Chapter Ten limits. It does not extinguish baseline rights, dignity, challenge access under [Contestability](core_05-05_definitions_b_semi_independent.md#contestability), or remedy access under [Redress and Remediation](core_05-05_definitions_a_independent.md#redress-and-remediation-constitutional). Operational detail is governed by [Article XVIII-A](core_10-10_rights_part_c.md#article-xviii-a-standing-distinction) (*Standing Distinction*), [Article XVIII-C](core_10-10_rights_part_c.md#article-xviii-c-good-standing-responsibility-and-continuous-audit) (*Good Standing, Responsibility, and Continuous Audit*), and related incorporated provisions where designated. **Axis I** **contribution state**, **Violation Axis** inputs, and **standing effect** under the Chapter Six model are not restated here; read [Contribution State](#contribution-state) with [Chapter Six](core_06-06_standing_assessment.md#chapter-six-compliance-violation-and-standing-model), including [Contribution Axis rules](core_06-06_standing_assessment.md#3-axis-i-contribution-state-and-standing-effect), [Violation Axis rules](core_06-06_standing_assessment.md#4-axis-ii-violation-nature-legal-constitutional-type), and [standing effects and integration](core_07-07_standing_integration.md#chapter-seven-standing-effects-and-integration). Final **Violation Axis s = 7, s = 8, and s = 9** anti-constitutional misconduct classification remains governed by [Chapter Eight](core_08-08_misconduct.md#chapter-eight-anti-constitutional-misconduct).
 <a id="participant-standing-constitutional-e"></a>
-- E: Ensure [Contestability](core_05-05_definitions_b_semi_independent.md#contestability), [Auditability](#auditability), and [Transparency](#transparency) proportional to impact. Detect arbitrary, opaque, or monopolistic control of standing signals. Align with [Epistemic Integrity](#epistemic-integrity) where standing claims are communicated. Apply Chapter Six standing-effect mechanics directly, and route any final top-end anti-constitutional misconduct assignment to Chapter Eight rather than to participant-standing criteria.
+- E: Ensure [Contestability](core_05-05_definitions_b_semi_independent.md#contestability), [Auditability](#auditability), and [Transparency](#transparency) proportional to impact. Detect arbitrary, opaque, monopolistic, or reputation-substitution control of participant-standing signals. Align with [Epistemic Integrity](#epistemic-integrity) where standing claims are communicated. Apply Chapter Six standing-effect mechanics directly where Chapter Six inputs are used, and route any final top-end anti-constitutional misconduct assignment to Chapter Eight rather than to participant-standing criteria.
 <a id="participant-standing-constitutional-c"></a>
 - C: Non-compliant:
+  - treating reputation, popularity, prestige, institutional brand, or social esteem as participant standing;
+  - using participant standing as a substitute for Chapter Seven standing effects or standing locks when imposing restrictive consequences;
+  - using participant standing or competency-gate labels as opaque credentialism, arbitrary gatekeeping, or insider-control devices;
   - using participant standing to permanently exclude sentients from survival-critical systems solely on standing;
   - using participant standing, including good-standing determinations, to deny audit or challenge eligibility without justification under [Proportionality](core_05-05_definitions_a_independent.md#proportionality) and [Necessity](core_05-05_definitions_a_independent.md#necessity) where applicable instruments require access.
 
@@ -1030,13 +1041,13 @@ This cluster is the joint-invocation home for contribution state, standing recor
 
 - Downstream: Principles: [7.1 Required Evaluation Factors](core_00-01_principles.md#71-required-evaluation-factors) (materiality / verification in standing inputs); [6.4.2 Proxy-Divergence Invalidation](core_00-01_principles.md#642-proxy-divergence-invalidation) (standing metrics vs demonstrable facts).
 - Canonical owner: [Chapter Six — section 4.1](core_06-06_standing_assessment.md#3-axis-i-contribution-state-and-standing-effect) (*Axis I — contribution state, standing-effect mechanics, and supplemental descriptors*); read with [Chapter Six — section 1](core_06-06_standing_assessment.md#1-purpose-and-role) (*two-axis frame*); [Chapter Six §3.1 — Verified-input gate](core_06-06_standing_assessment.md#verified-inputs-for-standing); [Chapter Six §4.2](core_06-06_standing_assessment.md#42-constitutional-outcome-baseline-for-slots) (*LEQU and constitutional-outcome baselines*).
-- Read with: the [Standing State, Contribution, and Violation cluster](#standing-state-contribution-and-violation-cluster), [Participant Standing](#participant-standing-constitutional) (*distinct — reputation-/record-based gating versus Axis I typing*); [Standing Record](#standing-record-chapter-six); [Standing Effect](#standing-effect-chapter-six); [Violation Nature](#violation-nature-chapter-six); [Verified Violation Findings](#verified-violation-findings); [Lifespan Equivalent Unit (LEQU)](core_05-05_definitions_a_independent.md#lifespan-equivalent-unit-lequ) (*shorthand for full-life-equivalent calibration*); [Chapter Six — section 4.3](core_06-06_standing_assessment.md#4-axis-ii-violation-nature-legal-constitutional-type) (*Axis II — violation-nature primary typing*); [Auditability](#auditability); [Contestability](core_05-05_definitions_b_semi_independent.md#contestability); [Materiality Determination](core_05-05_definitions_b_semi_independent.md#materiality-determination).
+- Read with: the [Standing State, Contribution, and Violation cluster](#standing-state-contribution-and-violation-cluster), [Participant Standing](#participant-standing-constitutional) (*distinct — Article XVIII participation status versus Axis I typing*); [Standing Record](#standing-record-chapter-six); [Standing Effect](#standing-effect-chapter-six); [Violation Nature](#violation-nature-chapter-six); [Verified Violation Findings](#verified-violation-findings); [Lifespan Equivalent Unit (LEQU)](core_05-05_definitions_a_independent.md#lifespan-equivalent-unit-lequ) (*shorthand for full-life-equivalent calibration*); [Chapter Six — section 4.3](core_06-06_standing_assessment.md#4-axis-ii-violation-nature-legal-constitutional-type) (*Axis II — violation-nature primary typing*); [Auditability](#auditability); [Contestability](core_05-05_definitions_b_semi_independent.md#contestability); [Materiality Determination](core_05-05_definitions_b_semi_independent.md#materiality-determination).
 
 </details>
 
 <br>
 
-- O: **Axis I** classifies **positive-only** constitutional outcomes: **baseline** satisfaction and **demonstrable** improvement beyond baseline, under applicable functional system conditions. It **does not** classify **adverse** **violation** **findings** or non-compliance; those are classified under **violation nature** on **Axis II**. Banding (including **baseline**, **positive**, **stewardship-positive**, and **champion** contribution), **standing effect** integration, stackable supplements, and contestability rules for **contribution state** are stated in [Chapter Six](core_06-06_standing_assessment.md) [**section 3**](core_06-06_standing_assessment.md#3-axis-i-contribution-state-and-standing-effect), read with [**sections 1–2**](core_06-06_standing_assessment.md#1-purpose-and-role) (frame and **verified inputs for standing**). This entry is a Chapter Five pointer to those canonical Chapter Six mechanics and does not itself restate the full operative text. It is distinct from [Participant Standing](#participant-standing-constitutional) (Article XVIII family — **gating** for audits, roles, and participation pathways).
+- O: **Axis I** classifies **positive-only** constitutional outcomes: **baseline** satisfaction and **demonstrable** improvement beyond baseline, under applicable functional system conditions. It **does not** classify **adverse** **violation** **findings** or non-compliance; those are classified under **violation nature** on **Axis II**. Banding (including **baseline**, **positive**, **stewardship-positive**, and **champion** contribution), **standing effect** integration, stackable supplements, and contestability rules for **contribution state** are stated in [Chapter Six](core_06-06_standing_assessment.md) [**section 3**](core_06-06_standing_assessment.md#3-axis-i-contribution-state-and-standing-effect), read with [**sections 1–2**](core_06-06_standing_assessment.md#1-purpose-and-role) (frame and **verified inputs for standing**). This entry is a Chapter Five pointer to those canonical Chapter Six mechanics and does not itself restate the full operative text. It is distinct from [Participant Standing](#participant-standing-constitutional) (Article XVIII participation-status and role-eligibility treatment).
 <a id="contribution-state-e"></a>
 - E: Evaluate **contribution state** only from **demonstrable** **facts** under [Auditability](#auditability) and [Contestability](core_05-05_definitions_b_semi_independent.md#contestability). Apply [Materiality Determination](core_05-05_definitions_b_semi_independent.md#materiality-determination) where thresholds, scope, or record disputes are material. **Standing effect** must stay **traceable** to **contribution state** and **violation nature** as stated in Chapter Six **§§4.2–4.3** and the integration rules. **Must not** treat **alleged** misconduct as [**verified violation findings**](#verified-violation-findings) for standing purposes ([**verified inputs for standing**](core_06-06_standing_assessment.md#verified-inputs-for-standing)). Where [Participant Standing](#participant-standing-constitutional) and Chapter Six labels co-apply, keep narratives consistent. Do not substitute **formal-channel** pedigree for **demonstrable** **contribution state** under Chapter Six **section 4.1**.
 <a id="contribution-state-c"></a>
@@ -1044,6 +1055,28 @@ This cluster is the joint-invocation home for contribution state, standing recor
   - relabeling **adverse** **violation** findings as **negative contribution** on **Axis I**;
   - using **contribution state** to **net away**, **average**, or **substitute** for [**verified violation findings**](#verified-violation-findings) required under Chapter Six **§3.1** and **§4.3**;
   - **opaque**, **non-auditable**, or **undisclosed** criteria for **contribution state** or **standing effect** that cannot be **traced** to Chapter Six **section 4.1** mechanics.
+
+---
+
+<a id="verified-inputs-for-standing"></a>
+
+##### Verified Inputs for Standing
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Canonical owner: [Chapter Six §3.1](core_06-06_standing_assessment.md#verified-inputs-for-standing) (*Verified-input gate*).
+- Read with: the [Standing State, Contribution, and Violation cluster](#standing-state-contribution-and-violation-cluster), [Contribution State](#contribution-state), [Verified Violation Findings](#verified-violation-findings), [Standing Record](#standing-record-chapter-six), [Standing Effect](#standing-effect-chapter-six), [Violation Nature](#violation-nature-chapter-six), [Auditability](#auditability), and [Contestability](core_05-05_definitions_b_semi_independent.md#contestability).
+
+</details>
+
+<br>
+
+- O: The admissible factual and record basis from which contribution-linked or violation-linked standing consequences may be applied. Verified inputs for standing include demonstrable contribution records for the Contribution Axis and verified violation findings for the Violation Axis, each satisfying the record, evidence, auditability, contestability, and review-status requirements stated in Chapter Six. Allegations, complaints, intake labels, routing decisions, reputation, disfavored status, moral dislike, or provisional forum-phase material are not verified inputs for standing by themselves.
+<a id="verified-inputs-for-standing-e"></a>
+- E: Identify the source record, finding authority or contribution record basis, subject, scope, time window, review status, evidence provenance, and contestability path before applying any [Standing Effect](#standing-effect-chapter-six). Keep contribution and violation inputs separately traceable and apply Chapter Six's no-offset rule.
+<a id="verified-inputs-for-standing-c"></a>
+- C: Non-compliant: applying role, trust, credit, recognition, restriction, or restoration consequences from unverified allegations, provisional labels, unreviewable records, merged reputation scores, or undisclosed inputs.
 
 ---
 
@@ -1085,7 +1118,7 @@ This cluster is the joint-invocation home for contribution state, standing recor
 
 <br>
 
-- O: The **consequence layer** that applies verified [**contribution state**](#contribution-state) and [**verified violation findings**](#verified-violation-findings) from a bounded standing record to trust eligibility, roles, delegated authority, recognition, restriction, restoration, remediation, safeguards, and review. It is a decision consequence, not a dignity rank, Rights-Floor measure, merged merit score, or component of the standing record itself. This entry is a Chapter Five pointer to Chapter Seven standing-effect mechanics; the canonical rules appear in Chapter Seven **sections 1**, **4**, and **5**. It must keep the Contribution Axis and Violation Axis separately traceable and must not net, average, offset, or substitute one axis for the other. **Operative** rules are stated in Chapter Six **section 2** and Chapter Seven **sections 1**, **4**, and **5**; this entry does not restate them. Read with [Article XXIII-B: Non-Trivial Punishment Constraints](core_10-10_rights_part_d.md#article-xxiii-b-non-trivial-punishment-constraints) and [Article XXIII-C: Least-Restrictive and Time-Bounded Rule](core_10-10_rights_part_d.md#article-xxiii-c-least-restrictive-and-time-bounded-rule) where punitive or restrictive **standing**-linked measures are in play.
+- O: The **consequence layer** that applies verified [**contribution state**](#contribution-state) and [**verified violation findings**](#verified-violation-findings) from a bounded standing record to trust eligibility, roles, delegated authority, recognition, restriction, restoration, remediation, safeguards, and review. It includes positive pathways such as [**competency gates**](#competency-gate) and restrictive pathways such as [**standing locks**](#standing-lock). It is a decision consequence, not a dignity rank, Rights-Floor measure, merged merit score, or component of the standing record itself. This entry is a Chapter Five pointer to Chapter Seven standing-effect mechanics; the canonical rules appear in Chapter Seven **sections 1**, **4**, and **5**. It must keep the Contribution Axis and Violation Axis separately traceable and must not net, average, offset, or substitute one axis for the other. **Operative** rules are stated in Chapter Six **section 2** and Chapter Seven **sections 1**, **4**, and **5**; this entry does not restate them. Read with [Article XXIII-B: Non-Trivial Punishment Constraints](core_10-10_rights_part_d.md#article-xxiii-b-non-trivial-punishment-constraints) and [Article XXIII-C: Least-Restrictive and Time-Bounded Rule](core_10-10_rights_part_d.md#article-xxiii-c-least-restrictive-and-time-bounded-rule) where punitive or restrictive **standing**-linked measures are in play.
 <a id="standing-effect-chapter-six-e"></a>
 - E: **Standing effect** must remain **traceable** to [Chapter Six](core_06-06_standing_assessment.md) **§§2–3** and [Chapter Seven](core_07-07_standing_integration.md) **§§1–5**; evaluate under [Auditability](#auditability) and [Contestability](core_05-05_definitions_b_semi_independent.md#contestability). The effect decision must identify the source standing record, subject, scope, time window, review status, separate axis inputs, verification basis, and consequence actually applied. **Contribution-linked** credit must follow Chapter Seven **§4.1** recency and disclosure discipline where standing integration uses it. **Violation-linked** constraints must not be time-discounted, recency-weighted away, or softened by contribution upside while unresolved. **Must not** treat **alleged** misconduct, intake labels, or forum-phase material as [**verified violation findings**](#verified-violation-findings) for **standing** ([**verified inputs for standing**](core_06-06_standing_assessment.md#verified-inputs-for-standing)).
 <a id="standing-effect-chapter-six-c"></a>
@@ -1116,6 +1149,50 @@ This cluster is the joint-invocation home for contribution state, standing recor
 
 ---
 
+<a id="competency-gate"></a>
+
+##### Competency Gate
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Canonical owner: [Chapter Seven §1.1A](core_07-07_standing_integration.md#competency-gates) (*competency gates*).
+- Read with: the [Standing State, Contribution, and Violation cluster](#standing-state-contribution-and-violation-cluster), [Contribution State](#contribution-state), [Standing Effect](#standing-effect-chapter-six), [Standing Record](#standing-record-chapter-six), [Standing Lock](#standing-lock), [Participant Standing](#participant-standing-constitutional), [Auditability](#auditability), [Contestability](core_05-05_definitions_b_semi_independent.md#contestability), [Materiality Determination](core_05-05_definitions_b_semi_independent.md#materiality-determination), and [Transparency](#transparency).
+
+</details>
+
+<br>
+
+- O: A positive standing-effect pathway that opens access to trust-sensitive roles, delegated authority, oversight eligibility, enhanced recognition, or progressively consequential stewardship responsibility when verified competence, experience, contribution records, and current good-standing criteria satisfy published role-proportionate requirements. A competency gate is the opening-oriented counterpart to a [Standing Lock](#standing-lock), but it is not reputation, social prestige, insider sponsorship, credential monopoly, dignity rank, Rights-Floor measure, or permanent entitlement.
+<a id="competency-gate-e"></a>
+- E: Evaluate a competency gate by whether its criteria are published, role-specific, impact-proportionate, auditable, contestable, current enough for the role, and traceable to verified contribution, experience, skill, training, reliability, or role-specific qualification records. Informal, unpaid, peer-organized, mutual-aid, maintenance, repair, teaching, or community stewardship experience must be recognized where it satisfies the same demonstrability standards as formal institutional experience. Any applicable standing lock controls whether the opened trust-, role-, authority-, oversight-, or recognition-linked effect may actually be applied.
+<a id="competency-gate-c"></a>
+- C: Non-compliant: using competency gates as arbitrary gatekeeping, opaque credentialism, reputation substitution, social-prestige screening, insider-control, inaccessible specialization, or formal-channel monopoly; denying credit to demonstrable informal or community stewardship because it lacked official pedigree; applying a competency gate from unverified or undisclosed inputs; treating gate satisfaction as a permanent entitlement; or using a competency gate to waive Rights Floors, erase unresolved violation findings, lower Violation Axis classifications, bypass standing locks, or displace correction, remediation, safeguard, review, or lawful supersession requirements.
+
+---
+
+<a id="standing-lock"></a>
+
+##### Standing Lock
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Canonical owner: [Chapter Seven §4.3](core_07-07_standing_integration.md#standing-integration-slot-band-standing-locks) (*slot-band standing locks*).
+- Read with: the [Standing State, Contribution, and Violation cluster](#standing-state-contribution-and-violation-cluster), [Standing Effect](#standing-effect-chapter-six), [Standing Record](#standing-record-chapter-six), [Competency Gate](#competency-gate), [Verified Violation Findings](#verified-violation-findings), [Violation Nature](#violation-nature-chapter-six), [Procedural Fairness](core_05-05_definitions_b_semi_independent.md#procedural-fairness-constitutional), and [Redress and Remediation](core_05-05_definitions_a_independent.md#redress-and-remediation-constitutional).
+
+</details>
+
+<br>
+
+- O: A standing-effect constraint that follows from verified Violation Axis assessment and limits trust-, role-, credit-, recognition-, or authority-related consequences while the verified violation finding remains unresolved or materially unremediated. A standing lock is not a dignity rank, Rights-Floor reduction, automatic punishment, or merged merit score.
+<a id="standing-lock-e"></a>
+- E: Apply only from a bounded standing record and verified violation basis, with scope, duration, review status, remediation path, and proportional consequence identified. Restrictive effects must remain auditable, contestable, least-restrictive where punitive or liberty-restricting consequences are implicated, and time-bounded where Chapter Ten requires it.
+<a id="standing-lock-c"></a>
+- C: Non-compliant: imposing standing locks from unverified allegations; making locks permanent without review or remediation path; extending them beyond the verified scope; or using them to extinguish dignity, equal moral standing, challenge access, remedy access, or baseline Rights-Floor protection.
+
+---
+
 <a id="violation-nature-chapter-six"></a>
 
 ##### Violation Nature
@@ -1136,6 +1213,116 @@ This cluster is the joint-invocation home for contribution state, standing recor
 - E: Classify for **standing** only from **findings** satisfying Chapters **Two through Four** and [**verified inputs for standing**](core_06-06_standing_assessment.md#verified-inputs-for-standing). The record must identify the verified finding basis and the violation-nature classification together, including severity, applicable attachments or supplements, scope, review status, and whether Chapter Eight controls final top-slot assignment. Read with [Harm](#harm), [Materiality Determination](core_05-05_definitions_b_semi_independent.md#materiality-determination), [Constitutional Constraint Violation](#constitutional-constraint-violation), and [Supremacy and Enforceability](#supremacy-and-enforceability) where material.
 <a id="violation-nature-chapter-six-c"></a>
 - C: Non-compliant: using **allegations**, **provisional** labels, or **forum-phase** material alone as **violation nature** for **standing**; recording verified violation findings for adverse standing effect without stating the applicable violation nature; relabeling **adverse** **violation** **findings** as **negative contribution** on **Axis I**; using [**contribution state**](#contribution-state) to **net away** or **substitute** for [**verified violation findings**](#verified-violation-findings) required under Chapter Six.
+
+---
+
+<a id="top-slot-review"></a>
+
+##### Top-Slot Review
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Canonical owner: [Chapter Eight](core_08-08_misconduct.md#chapter-eight-anti-constitutional-misconduct), especially [§1](core_08-08_misconduct.md#1-decision-framework-scope-and-authority), [§2](core_08-08_misconduct.md#2-criteria-set-for-slot-assignment), [§3](core_08-08_misconduct.md#3-violation-axis-s-7-9-slot-assignment-incident-gravity), and [§4](core_08-08_misconduct.md#4-due-process-safeguards-for-slot-classification).
+- Read with: the [Standing State, Contribution, and Violation cluster](#standing-state-contribution-and-violation-cluster), [Violation Nature](#violation-nature-chapter-six), [Unified Incident](#unified-incident), [Unified Record](#unified-record), [Single Catastrophic Incident](#single-catastrophic-incident), [Sustained High-Gravity Pattern](#sustained-high-gravity-pattern), [Procedural Fairness](core_05-05_definitions_b_semi_independent.md#procedural-fairness-constitutional), [Auditability](#auditability), and [Contestability](core_05-05_definitions_b_semi_independent.md#contestability).
+
+</details>
+
+<br>
+
+- O: The Chapter Eight finalization process for determining whether anti-constitutional misconduct receives final Violation Axis `s = 7`, `s = 8`, or `s = 9` classification. It identifies the unified incident, applies the criteria set, assesses incident gravity, assigns any final top slot, and confirms due-process safeguards before final standing effect may treat the misconduct as top-slot anti-constitutional misconduct.
+<a id="top-slot-review-e"></a>
+- E: Require a bounded standing record, verified input basis, unified-incident analysis, criteria assessment, gravity assessment, independent review, contestable notice, and reasoned publication before final classification. Keep change-path validity, forum operations, rights remedies, and governance consequences in their respective chapters.
+<a id="top-slot-review-c"></a>
+- C: Non-compliant: issuing final top-slot anti-constitutional misconduct classification by adopting instrument, process note, subsidiary body, forum shortcut, legacy tier label, or Chapter Six / Chapter Seven standing lock without Chapter Eight criteria and safeguards.
+
+---
+
+<a id="unified-incident"></a>
+
+##### Unified Incident
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Canonical owner: [Chapter Eight §2](core_08-08_misconduct.md#2-criteria-set-for-slot-assignment) and [§3](core_08-08_misconduct.md#3-violation-axis-s-7-9-slot-assignment-incident-gravity).
+- Read with: the [Standing State, Contribution, and Violation cluster](#standing-state-contribution-and-violation-cluster), [Top-Slot Review](#top-slot-review), [Unified Record](#unified-record), [Materiality Determination](core_05-05_definitions_b_semi_independent.md#materiality-determination), [System Boundaries](core_05-05_definitions_b_semi_independent.md#system-boundaries), [System Boundary Integrity](core_05-05_definitions_b_semi_independent.md#system-boundary-integrity), and [Accountability](core_05-05_definitions_b_semi_independent.md#accountability).
+
+</details>
+
+<br>
+
+- O: The whole episode, sustained campaign, or connected pattern assessed together for Chapter Eight top-slot review because the conduct shares material actors, objectives, temporal continuity, causal linkage, or unified design. The term prevents artificial fragmentation of one anti-constitutional pattern into smaller pieces that would understate criteria satisfaction, gravity, or accountability.
+<a id="unified-incident-e"></a>
+- E: Identify the conduct boundary by substantive connection rather than caption, forum docket, entity boundary, transaction label, or implementation artifact. Where contest-pathway flooding and info-sphere flooding overlap, evaluate the shared facts on a unified record without double-counting the same conduct element.
+<a id="unified-incident-c"></a>
+- C: Non-compliant: splitting one materially connected scheme into separate incidents to avoid Chapter Eight criteria, gravity, review, publication, or remedy consequences; or merging unrelated events solely to intensify classification without material connection.
+
+---
+
+<a id="unified-record"></a>
+
+##### Unified Record
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Canonical owner: [Chapter Eight §2](core_08-08_misconduct.md#2-criteria-set-for-slot-assignment), [§3](core_08-08_misconduct.md#3-violation-axis-s-7-9-slot-assignment-incident-gravity), and [§6.4](core_08-08_misconduct.md#64-info-sphere-zone-flooding).
+- Read with: the [Standing State, Contribution, and Violation cluster](#standing-state-contribution-and-violation-cluster), [Unified Incident](#unified-incident), [Top-Slot Review](#top-slot-review), [Auditability](#auditability), [Transparency](#transparency), [Verifiability](#verifiability), and [Standing Record](#standing-record-chapter-six).
+
+</details>
+
+<br>
+
+- O: The integrated evidentiary and reasoning record used to assess a unified incident for Chapter Eight criteria, gravity, due-process safeguards, and final top-slot classification. It keeps materially overlapping facts, actors, effects, criteria, and review status together while preserving separate substantiation for each criterion or pattern.
+<a id="unified-record-e"></a>
+- E: State the incident boundary, material facts, evidence provenance, criteria implicated, independently substantiated elements, review status, contestability path, and any overlap among named patterns. Do not double-count one conduct element toward multiple criteria or patterns without independent substantiation.
+<a id="unified-record-c"></a>
+- C: Non-compliant: fragmented records that hide pattern gravity; merged records that obscure distinct subjects or review rights; double-counting facts; or final top-slot classification without a reasoned, auditable unified record.
+
+---
+
+<a id="single-catastrophic-incident"></a>
+
+##### Single Catastrophic Incident
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Canonical owner: [Chapter Eight §3](core_08-08_misconduct.md#3-violation-axis-s-7-9-slot-assignment-incident-gravity) (*incident gravity*).
+- Read with: the [Standing State, Contribution, and Violation cluster](#standing-state-contribution-and-violation-cluster), [Top-Slot Review](#top-slot-review), [Unified Incident](#unified-incident), [Violation Nature](#violation-nature-chapter-six), [Irreversible Harm](#irreversible-harm), the Chapter Ten Rights Floor, and [Constitutional Constraint Violation](#constitutional-constraint-violation).
+
+</details>
+
+<br>
+
+- O: A unified incident that, viewed as a whole, causes or imminently threatens catastrophic constitutional harm of the kind Chapter Eight recognizes for grave or pernicious anti-constitutional misconduct, including loss or suspension of operative constitutional authority, material population-scale loss of contestability or Rights-Floor continuity, or comparable survival-relevant or system-relevant constitutional harm.
+<a id="single-catastrophic-incident-e"></a>
+- E: Assess the incident as a whole under Chapter Eight's criteria, gravity rules, and due-process safeguards. The classification depends on constitutional magnitude, immediacy, system relevance, affected scope, and evidentiary substantiation, not on a count of isolated acts.
+<a id="single-catastrophic-incident-c"></a>
+- C: Non-compliant: using the label for ordinary serious violations that do not meet Chapter Eight gravity; or avoiding the label by fragmenting one catastrophic unified incident into smaller procedural units.
+
+---
+
+<a id="sustained-high-gravity-pattern"></a>
+
+##### Sustained High-Gravity Pattern
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Canonical owner: [Chapter Eight §3](core_08-08_misconduct.md#3-violation-axis-s-7-9-slot-assignment-incident-gravity) (*incident gravity*).
+- Read with: the [Standing State, Contribution, and Violation cluster](#standing-state-contribution-and-violation-cluster), [Top-Slot Review](#top-slot-review), [Unified Incident](#unified-incident), [Unified Record](#unified-record), Chapter Eight criterion 3 (*Material rollback effect*), [System Capture](core_05-05_definitions_a_independent.md#system-capture), [Review and Correction Duty](core_05-05_definitions_b_semi_independent.md#review-and-correction-duty-constitutional), and [Accountability](core_05-05_definitions_b_semi_independent.md#accountability).
+
+</details>
+
+<br>
+
+- O: A unified incident made of continuing, repeated, or systematically reinforced conduct whose aggregate gravity is high enough for Chapter Eight top-slot review. Its gravity may appear through material rollback, blocked or chilled challenge rights, Rights-Floor degradation, delayed correction beyond practical remedy, equivalent structural workaround, institutional scale, capture, or durability.
+<a id="sustained-high-gravity-pattern-e"></a>
+- E: Evaluate aggregate constitutional gravity, continuation after reasonable opportunity for good-faith cure where cure is feasible, institutional scale, capture, durability, and practical remediation limits. A pattern may reach Chapter Eight gravity even without a single catastrophic moment.
+<a id="sustained-high-gravity-pattern-c"></a>
+- C: Non-compliant: treating repeated high-gravity conduct as a series of isolated minor events to avoid review; or escalating ordinary repeated defects into Chapter Eight gravity without substantiated aggregate constitutional harm.
 
 ---
 
