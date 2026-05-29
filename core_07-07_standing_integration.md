@@ -814,7 +814,7 @@ Adopted implementation may specify funding mechanisms, asset recovery, insurance
 
 #### 5.2 Remedy-organ durability
 
-Courts, oversight bodies, complaint offices, technical review bodies, and rights-sensitive administrative systems must have enough staffing, funding, independence, records capacity, and succession planning to make challenge and redress access meaningful. Chronic underfunding, designed backlog, inaccessible intake, or dependency on a single fragile office can itself evidence constitutional non-compliance where it foreseeably nullifies rights or remedies.
+Forums, oversight bodies, complaint offices, technical review bodies, and rights-sensitive administrative systems must have enough staffing, funding, independence, records capacity, and succession planning to make challenge and redress access meaningful. Chronic underfunding, designed backlog, inaccessible intake, or dependency on a single fragile office can itself evidence constitutional non-compliance where it foreseeably nullifies rights or remedies.
 
 Capacity duties scale with risk, volume, vulnerability, and rights sensitivity. Systems such as child protection, environmental enforcement, benefits administration, detention oversight, public-health response, and comparable high-impact systems require durable remedy organs capable of timely intake, preservation, review, and enforcement.
 

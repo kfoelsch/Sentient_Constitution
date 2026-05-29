@@ -572,7 +572,7 @@ flowchart TB
     C5[Ch5 §§1–3 definitions]
     C6[Ch6 Compliance, severity, response character, standing]
     C7[Ch7 top-end anti-constitutional misconduct]
-    C8[Ch8 Courts and jurisdiction]
+    C8[Ch8 Forums and jurisdiction]
     C9[Ch9 Rights Floor Parts A–D]
     C10[Ch10 Governance legitimacy]
     C11[Ch11 Non-regression]

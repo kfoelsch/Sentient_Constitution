@@ -35,7 +35,7 @@ This label applies when someone needs to **make things right**. It's the "fix it
 - **Compensation:** Pay for damages or losses
 - **Restoration:** Return things to how they were before
 - **Supervision:** Monitor to prevent repeat harm
-- **Injunction:** Court order to stop or require specific actions
+- **Injunction:** Forum order to stop or require specific actions
 
 ### Key Points
 

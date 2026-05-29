@@ -121,7 +121,7 @@ The principles of this Article constrain all interpretation, design, and operati
   - be subject to timely, contestable review and proportionate redress where rights-affecting error or harm occurs;
   - also satisfy **Article V-B** where it turns on protected characteristics, their proxies, or arbitrary groupings.
 - **Patterns of burden and benefit:** Patterns of burdens and benefits must satisfy Chapter Five Independent Definitions (*Substantive Fairness*) where applicable.
-- **Alignment with adjudication:** Court-led, administrative, and enforcement processes must assess compliance with **Articles V, IX, and XI** as applicable to the matter before them.
+- **Alignment with adjudication:** Forum-led, administrative, and enforcement processes must assess compliance with **Articles V, IX, and XI** as applicable to the matter before them.
   - Efficiency, throughput, or optimization alone may not justify discriminatory outcomes, exclusionary process, or denial of constitutionally required participation. This rule operates consistently with constitutional governance safeguards.
 
 #### Article V-D: Freedom of conscience, religion, and comparable worldview

@@ -70,6 +70,7 @@ _BREACH_FAMILY = re.compile(
 )
 
 _MINIMA_WORD = re.compile(r"\bminima\b", re.IGNORECASE)
+_COURT_FAMILY = re.compile(r"\bcourts?\b", re.IGNORECASE)
 
 _RIGHTS_FLOOR_CASING = re.compile(r"\b(?:rights floor|rights floors|rights-floor)\b")
 _FOUNDATIONAL_RIGHTS_CASING = re.compile(r"\b(?:Foundational rights|foundational rights)\b")
@@ -285,6 +286,35 @@ def scan_avoid_minima(rel_path: str, text: str) -> list[Finding]:
     return findings
 
 
+def scan_avoid_court_family(rel_path: str, text: str) -> list[Finding]:
+    """Reject **court** / **courts** in institutional senses; prefer **forum** / **forums**."""
+    findings: list[Finding] = []
+    lines = text.splitlines()
+    in_fence = False
+
+    for idx, raw in enumerate(lines, start=1):
+        if raw.strip().startswith("```"):
+            in_fence = not in_fence
+            continue
+        if in_fence:
+            continue
+
+        if rel_path == "doc_architecture.md" and "`court" in raw:
+            continue
+
+        if _COURT_FAMILY.search(raw):
+            findings.append(
+                Finding(
+                    file=rel_path,
+                    line=idx,
+                    rule="avoid-court-family",
+                    text=raw.strip(),
+                ),
+            )
+
+    return findings
+
+
 def _mask_inline_code_and_link_targets(line: str) -> str:
     """Hide inline code and Markdown link destinations while preserving link text."""
     chars = list(line)
@@ -390,6 +420,7 @@ def report_markdown(run_date: str, scope: list[str], findings: list[Finding]) ->
         "- **`avoid-accession-jargon`:** reject **accede**, **acceding**, and **accession** → prefer **join** / **joining** / **additional parties** adoption wording.",
         "- **`avoid-undefined-breach-family`:** reject standalone **breach** / **breaches** / **breached** / **breaching**, **duty breach**, and **duty-breaching** → prefer **violation**, **non-compliance**, **unmet duties**, or defined Chapter Six typing (see `.cursor/rules/clarity.mdc`). *Currently enforced only on files in `_BREACH_FAMILY_SCOPE` inside `tools/lexical_vocabulary_audit.py`.*",
         "- **`avoid-minima`:** reject **minima** → prefer **requirements**, **floors**, **conditions**, or another context-specific term.",
+        "- **`avoid-court-family`:** reject **court** / **courts** in institutional senses → prefer **forum** / **forums**, **forum family**, **tribunal**, or **adjudicative body**.",
         "- **`load-bearing-rights-floor-casing`:** reject lowercase **rights floor**, **rights floors**, and **rights-floor** outside Markdown link targets and inline code → use **Rights Floor**, **Rights Floors**, or **Rights-Floor** for the named Chapter Ten layer.",
         "- **`load-bearing-foundational-rights-casing`:** reject **Foundational rights** / **foundational rights** outside Markdown link targets and inline code → use **Foundational Rights** when naming the Chapter Ten title or layer.",
         "",
@@ -448,6 +479,7 @@ def main() -> int:
         findings.extend(scan_prefer_sentients_not_people_phrasing(rel_path, text))
         findings.extend(scan_avoid_accession_jargon(rel_path, text))
         findings.extend(scan_avoid_minima(rel_path, text))
+        findings.extend(scan_avoid_court_family(rel_path, text))
         findings.extend(scan_load_bearing_capitalization(rel_path, text))
         if rel_path in _BREACH_FAMILY_SCOPE:
             findings.extend(scan_avoid_breach_family(rel_path, text))

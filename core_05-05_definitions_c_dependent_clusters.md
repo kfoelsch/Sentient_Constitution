@@ -525,7 +525,7 @@ Outside that admission scope, component definitions may operate as supporting In
 
 <br>
 
-*In plain terms: every sentient has the right to work in conditions where they are genuinely protected from foreseeable harm — not just on paper, but in reality. This applies whether the worker is human, synthetic, or any other substrate. Box-checking safety programs that leave people actually exposed don't count.*
+*In plain terms: every sentient has the right to work in conditions where they are genuinely protected from foreseeable harm — not just on paper, but in reality. This applies whether the worker is human, synthetic, or any other substrate. Box-checking safety programs that leave sentients actually exposed don't count.*
 
 - **O:** The floor that protects sentients from foreseeable harm while they work, contribute, or participate in productive activities. This protection must be real, not just formal — consistent with the hard Safety constraint, the ability to undo mistakes, and protection under adversarial or exploitative conditions. It applies equally to all sentients, whether they are doing the work or affected by it. This entry governs workplace safety specifically; general system safety is covered elsewhere.
 <a id="safe-conditions-constitutional-e"></a>
@@ -555,7 +555,7 @@ Outside that admission scope, component definitions may operate as supporting In
 
 <br>
 
-*In plain terms: everyone who works has a right to real time off — enough rest and recuperation to stay healthy, maintain their agency, and participate fully in life. Productivity demands that exhaust people don't satisfy this floor.*
+*In plain terms: every working sentient has a right to real time off — enough rest and recuperation to stay healthy, maintain their agency, and participate fully in life. Productivity demands that exhaust sentients don't satisfy this floor.*
 
 - **O:** The Rights-Floor concept covering sentients' entitlement to rest, recuperation, and non-productive time sufficient to preserve [Meaningful Agency](core_05-05_definitions_b_semi_independent.md#meaningful-agency), wellbeing, and participation capacity under [Sentience Non-Exclusion](#sentience-non-exclusion). Stated in Rights-Floor terms rather than fixed quantitative units; the substantive floor is participation-capacity preservation. Ordinary contractual rest provisions, scheduling arrangements, and comparable mechanics are outside this entry where they do not defeat participation-capacity preservation.
 <a id="leisure-and-rest-constitutional-e"></a>

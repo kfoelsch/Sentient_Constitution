@@ -347,7 +347,7 @@ Where `core_09-09_forum.md` **Chapter Nine** requires **cross-forum anti-self-ju
 
 ---
 
-## CI-7A: Court forensic and analytical support
+## CI-7A: Forum forensic and analytical support
 
 **Joint read:** **`corpus_joint_structure.md` CJS-2.2** row **CJS-R07**; **CJS-3.3**, **CJS-3.4**.
 

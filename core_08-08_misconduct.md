@@ -276,7 +276,7 @@ The following patterns are **anti-constitutional misconduct within this chapter�
 - Upstream: [§2](#2-criteria-set-for-slot-assignment) (*Criteria set*); [Chapter Nine](core_09-09_forum.md#chapter-nine-forums-and-jurisdiction) (*default venue, intake triage, transfer and consolidation, anti-gaming, and interim relief — operational response without relocating slot assignment*).
 - Downstream: [§3](#3-violation-axis-s-7-9-slot-assignment-incident-gravity) (*Violation Axis s = 7–9 slot assignment*); [§5](#5-cross-chapter-discipline) (*Cross-chapter discipline*).
 - Read with: [Contestability](core_05-05_definitions_b_semi_independent.md#contestability) and [Transparency](core_05-05_definitions_c_dependent_clusters.md#transparency) in **Chapter Five** where pathway usability and publication are material.
-- Court operations: [Chapter Nine §5](core_09-09_forum.md#5-intake-triage-mixed-stakes-and-routing-asymmetry) through [§6](core_09-09_forum.md#6-transfer-consolidation-and-coordination) for intake triage, consolidation, and representative treatment.
+- Forum operations: [Chapter Nine §5](core_09-09_forum.md#5-intake-triage-mixed-stakes-and-routing-asymmetry) through [§6](core_09-09_forum.md#6-transfer-consolidation-and-coordination) for intake triage, consolidation, and representative treatment.
 - Distinct pattern: [§6.4](#64-info-sphere-zone-flooding) covers info-sphere flooding.
 
 </details>

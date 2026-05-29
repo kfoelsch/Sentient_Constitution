@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-05-29T12:21:38+00:00",
+  "generated_at": "2026-05-29T12:40:55+00:00",
   "files": {
     "core_00-01_principles.md": {
       "total_lines": 1440,
@@ -5745,7 +5745,7 @@
           "anchor": null
         },
         {
-          "header": "CI-7A: Court forensic and analytical support",
+          "header": "CI-7A: Forum forensic and analytical support",
           "level": 2,
           "line_start": 350,
           "line_end": 357,

@@ -1319,7 +1319,7 @@ That clause does **not** authorize reducing complexity, process, or disclosure w
 
 Those protections continue to govern under **Chapter One §8** and the rights-collision procedure in **§6.4.1**.
 
-This requirement applies to legal and adjudicative frameworks as well. Courts and comparable legal processes must:
+This requirement applies to legal and adjudicative frameworks as well. Forums and comparable legal processes must:
 - avoid unnecessary specialist jargon;
 - present procedures, notices, available pathways, available assistance, and reasoned decisions in forms accessible to everyday sentients, consistent with accuracy, procedural fairness, and lawful confidentiality constraints.
 #### Article XX-A: Proportional Comprehensibility Right
