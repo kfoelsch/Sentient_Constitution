@@ -10,17 +10,15 @@ Chapter Six opens the **standing record**, applies the **verified input** gate, 
 
 ## CHAPTER EIGHT: ANTI-CONSTITUTIONAL MISCONDUCT
 
-This chapter is not a general code for every violation, and it is not a separate misconduct regime outside the standing pipeline. It answers one narrower question: when does anti-constitutional misconduct receive one of the three highest **Violation Axis** classifications: **s = 7**, **s = 8**, or **s = 9**?
+This chapter is used only for the most serious anti-constitutional misconduct. It does not cover every violation, and it does not create a separate process. Its job is to decide whether a verified anti-constitutional violation belongs in one of the three highest **Violation Axis** slots: **s = 7**, **s = 8**, or **s = 9**.
 
-Chapter Six supplies the shared scale and record foundation. Chapter Seven supplies ordinary standing integration, standing locks, and consequence rules. Chapter Eight supplies the final decision model for top-slot anti-constitutional misconduct within the Violation Axis. A Chapter Six classification or Chapter Seven standing lock may explain the record, but neither can replace this chapter's criteria, gravity rules, or due-process safeguards.
+By the time a matter reaches this chapter, the basic work should already be done. Chapter Six should have opened a bounded **standing record**, applied the **verified input** gate, and placed the matter on the shared classification scale. Chapter Seven should have handled ordinary standing integration, including any standing locks and consequence rules.
 
-**Unified Standing Process — top-slot position.** A Chapter Eight matter should already have a bounded **standing record**, a **verified input** basis, and a Violation Axis classification question. This chapter then performs **top-slot review**: it identifies the unified incident, applies the criteria set, assigns any final top slot, and confirms due-process safeguards before any **final standing effect** may treat the misconduct as final `s = 7`, `s = 8`, or `s = 9` anti-constitutional misconduct.
+Chapter Eight then asks the final top-slot question: what happened, how serious was it, which criteria apply, and have the required due-process safeguards been met? A Chapter Six classification or Chapter Seven standing lock may help explain the record, but neither can replace this chapter's criteria, gravity rules, or safeguards.
 
-**Where you are in the pipeline:** Chapter Eight handles step 6: final top-slot review for possible `s = 7`, `s = 8`, or `s = 9` anti-constitutional misconduct.
+In pipeline terms, this chapter handles step 6: final top-slot review for possible `s = 7`, `s = 8`, or `s = 9` anti-constitutional misconduct.
 
-**What this chapter decides:** it decides final top-slot assignment within the Violation Axis for anti-constitutional misconduct.
-
-**What this chapter does not decide:** it does not replace Chapter Six standing records or the verified-input gate, does not replace Chapter Seven standing integration, and does not decide ordinary violations outside the top anti-constitutional slots.
+This chapter decides only final top-slot assignment within the Violation Axis. It does not replace Chapter Six records or verified-input review, does not replace Chapter Seven standing integration, and does not decide ordinary violations outside the top anti-constitutional slots.
 
 **What happens next:** once final top-slot assignment is made, Chapter Seven standing-lock and final-standing-effect rules, Chapter Nine forum rules, Chapter Ten justice constraints, and the relevant governance or change-path chapters apply without bypassing this chapter's safeguards.
 
@@ -189,9 +187,11 @@ No final **Violation Axis anti-constitutional misconduct** classification under 
 
 <br>
 
-*In plain terms: Chapters Twelve through Fourteen still decide whether a change path is valid, honest, and properly recorded. They do not replace this chapter when the question is the final anti-constitutional slot or how seriously the system must treat the misconduct.*
+*In plain terms: this section is about misconduct connected to constitutional change. Chapters Twelve through Fourteen decide whether a proposed constitutional change is allowed, whether the process was fair, and whether the official record is trustworthy. This chapter answers a different question: did someone misuse the constitutional-change process badly enough to count as serious anti-constitutional misconduct?*
 
-**Chapter Twelve** governs the substantive non-regression validity floor and related anti-evasion referral triggers. **Chapter Fourteen** governs procedural and custody validity tests, review triggers, provisional effect, and invalid-change handling. **Chapters Twelve through Fourteen** remain primary for **change-path** validity and custody; final **Violation Axis anti-constitutional misconduct** classification, sanction coupling, and escalatory classification authority for anti-constitutional misconduct **within this chapter’s scope** remain **in this chapter**.
+**Chapter Twelve** decides whether a constitutional change would wrongly weaken protected constitutional rights or duties, including through evasion. **Chapter Fourteen** decides whether the change process was properly run, whether the records were properly kept, whether review was triggered when required, and whether any temporary effect is valid.
+
+Those chapters decide whether the constitutional change itself can stand. They do **not** decide the final misconduct label for the people or institutions involved. If conduct within this chapter's scope may deserve a final anti-constitutional misconduct classification, including a final **Violation Axis** slot, any connected sanctions, or escalation as anti-constitutional misconduct, that decision remains **in this chapter**.
 
 <a id="6-criteria-interactions-and-named-pattern-routing"></a>
 
