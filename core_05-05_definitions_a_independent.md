@@ -140,7 +140,7 @@ This directory lists **Definitions A-Z** and **Clusters A-Z** separately. Each v
 - [Instantiation Consent](core_05-05_definitions_b_semi_independent.md#instantiation-consent-constitutional)
 - [Intergenerational Responsibility](core_05-05_definitions_b_semi_independent.md#intergenerational-responsibility-constitutional)
 - [Irreversible Harm](core_05-05_definitions_c_dependent_clusters.md#irreversible-harm)
-- [Irreversible Sanction](core_05-05_definitions_c_dependent_clusters.md#irreversible-sanction-constitutional)
+- [Irreversible Deprivation Measure](core_05-05_definitions_c_dependent_clusters.md#irreversible-deprivation-measure-constitutional)
 - [Language, Culture, and Heritage](core_05-05_definitions_b_semi_independent.md#language-culture-and-heritage-constitutional)
 - [Leisure and Rest](core_05-05_definitions_c_dependent_clusters.md#leisure-and-rest-constitutional)
 - [Lifespan Equivalent Unit (LEQU)](#lifespan-equivalent-unit-lequ)
@@ -1048,11 +1048,11 @@ Independent Definitions must not fragment, isolate, or redistribute compliance i
 
 <br>
 
-- O: Restorative priority favors restoring affected sentients' agentic [Wellbeing](#wellbeing) and removing root causes of harmful behavior over punitive retribution alone, where proportionate and feasible under [Safety (Constraint)](#safety-constraint) and [Truth (Constitutional Constraint)](core_05-05_definitions_c_dependent_clusters.md#truth-constitutional-constraint). Applies when constitutionally applicable instruments require restorative responses.
+- O: Restorative priority favors restoring affected sentients' agentic [Wellbeing](#wellbeing), securing restitution where owed, and removing root causes of harmful behavior over retaliation or suffering-as-an-end, where proportionate and feasible under [Safety (Constraint)](#safety-constraint) and [Truth (Constitutional Constraint)](core_05-05_definitions_c_dependent_clusters.md#truth-constitutional-constraint). Applies when constitutionally applicable instruments require restorative responses.
 <a id="restorative-justice-e"></a>
 - E: Align with [Redress and Remediation](#redress-and-remediation-constitutional), [Proportionality](#proportionality), [Necessity](#necessity), and [Dignity and Equal Moral Standing](#dignity-and-equal-moral-standing). Procedural mechanisms may be specified by Article XII-B and designated incorporated implementation text but must preserve this definition's restorative priority.
 <a id="restorative-justice-c"></a>
-- C: Non-compliant: where binding instruments require restorative pathways, their absence, inaccessibility, or substitution by purely punitive processes that foreclose proportionate restoration ([Redress and Remediation](#redress-and-remediation-constitutional); [Procedural Fairness](core_05-05_definitions_b_semi_independent.md#procedural-fairness-constitutional)).
+- C: Non-compliant: where binding instruments require restorative pathways, their absence, inaccessibility, or substitution by retaliation-centered processes that foreclose proportionate restoration ([Redress and Remediation](#redress-and-remediation-constitutional); [Procedural Fairness](core_05-05_definitions_b_semi_independent.md#procedural-fairness-constitutional)).
 
 ---
 
@@ -1211,11 +1211,11 @@ Independent Definitions must not fragment, isolate, or redistribute compliance i
 <br>
 
 <a id="voluntary-discontinuation-constitutional-o"></a>
-- O: A sentient's freely formed, substantively informed decision to discontinue their own existence or comparable self-directed exit from continued participation, evaluated under [Consent](core_05-05_definitions_b_semi_independent.md#consent-constitutional), [Coercion and Manipulation](core_05-05_definitions_b_semi_independent.md#coercion-and-manipulation-constitutional), and [Procedural Fairness](core_05-05_definitions_b_semi_independent.md#procedural-fairness-constitutional), and distinct from [Irreversible Sanction](core_05-05_definitions_c_dependent_clusters.md#irreversible-sanction-constitutional) or involuntary deprivation of life. Owner floor: [Article VII-E](core_10-10_rights_part_b.md#article-vii-e-voluntary-discontinuation-of-ones-own-existence).
+- O: A sentient's freely formed, substantively informed decision to discontinue their own existence or comparable self-directed exit from continued participation, evaluated under [Consent](core_05-05_definitions_b_semi_independent.md#consent-constitutional), [Coercion and Manipulation](core_05-05_definitions_b_semi_independent.md#coercion-and-manipulation-constitutional), and [Procedural Fairness](core_05-05_definitions_b_semi_independent.md#procedural-fairness-constitutional), and distinct from [Irreversible Deprivation Measure](core_05-05_definitions_c_dependent_clusters.md#irreversible-deprivation-measure-constitutional) or involuntary deprivation of life. Owner floor: [Article VII-E](core_10-10_rights_part_b.md#article-vii-e-voluntary-discontinuation-of-ones-own-existence).
 <a id="voluntary-discontinuation-constitutional-e"></a>
 - E: Verify genuine voluntariness — adequate information, time, reviewability, and reversibility up to irreversible execution consistent with Chapter One §6.1.1; detect dependency pressure, manipulation, and rushed framing; apply [Graduated Capability](core_05-05_definitions_b_semi_independent.md#graduated-capability-constitutional) for [Developing Sentient](core_05-05_definitions_b_semi_independent.md#developing-sentient-constitutional) cases under Article V-F.
 <a id="voluntary-discontinuation-constitutional-c"></a>
-- C: Non-compliant: illusory or pressured consent framed as voluntary discontinuation; conflating this entry with [Irreversible Sanction](core_05-05_definitions_c_dependent_clusters.md#irreversible-sanction-constitutional), third-party termination, or Article XXIII-B prohibited measures; relabelling an involuntary outcome as voluntary to route around Article VII-E.
+- C: Non-compliant: illusory or pressured consent framed as voluntary discontinuation; conflating this entry with [Irreversible Deprivation Measure](core_05-05_definitions_c_dependent_clusters.md#irreversible-deprivation-measure-constitutional), third-party termination, or Article XXIII-B prohibited measures; relabelling an involuntary outcome as voluntary to route around Article VII-E.
 
 <a id="wellbeing"></a>
 

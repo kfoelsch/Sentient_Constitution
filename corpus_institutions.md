@@ -690,7 +690,7 @@ Scenario-based continuity and succession stress tests must run on a cadence prop
 
 **Trigger catalog (for published transition and institution plans):**
 - **Compliance-linked deprivation** — seizure, impoundment, quarantine, or disposition tied to a **Chapter Six**-consistent or equivalent binding finding of non-compliance with applicable rules, with notice and contest paths as Article XXV-D requires.
-- **Remedial containment** — proportionate holding or restriction to stop ongoing harm, preserve evidence, or prevent flight of assets, distinguished from punitive economic stripping.
+- **Remedial containment** — proportionate holding or restriction to stop ongoing harm, preserve evidence, or prevent flight of assets, distinguished from retaliatory economic stripping.
 - **Voluntary turnover incentive** — time-bounded, published incentive for good-faith voluntary transfer or verified reporting that enables lawful remediation, with **Article XXV-B** reauthorization rules.
 - **Non-compliant examples (illustrative):** pretextual targeting of political opponents; bounty structures that pay on accusation without separation from enforcement; essential-access denial for **Article III-A** tools; selective enforcement correlated with protected-class proxies without individualized predicate.
 
@@ -726,7 +726,7 @@ Scenario-based continuity and succession stress tests must run on a cadence prop
 
 **5. Intermediaries, platforms, and financial plumbing.** **Matching**, **scheduling**, **payments**, **reputation**, and **visibility** systems with **material** dependency or **info-sphere** effects must be **classified** and **stewarded** under `corpus_systems.md` (**Chapter S2**, **Chapter S3**, and **market-mediated personal services**). Institutions should expect **proportionate** **abuse** reporting, **data minimization** consistent with **Chapter S1**, and **financial-access** policies that do **not** use **fraud** or **AML** rules as **blanket** **moral** exclusion for activity **lawful** under **Article X-C**.
 
-**6. Separation of lanes and anti-pretext audit.** Institutions must **separate** policy, **training**, **metrics**, and **enforcement** so **protected consensual adult** conduct under **Article X-C** is **not** **punished** using **exploitation** categories without facts satisfying **Article X-C**’s **exploitation** or **procurement** branches. The same separation must ensure **decriminalization** is **not** used to **deprioritize** **exploitation** investigation, prosecution, or victim remedies. **Child sexual exploitation**, **trafficking**, **coercion**, and **non-consensual** conduct must retain **clear offenses**, **adequate resourcing**, and **survivor-accessible** reporting. **Periodic audit** should detect **disparate** neglect, **misclassification** of exploitation as **voluntary** work, and **harassment** of **lawful** participants under **enforcement** color.
+**6. Separation of lanes and anti-pretext audit.** Institutions must **separate** policy, **training**, **metrics**, and **enforcement** so **protected consensual adult** conduct under **Article X-C** is **not** targeted using **exploitation** categories without facts satisfying **Article X-C**’s **exploitation** or **procurement** branches. The same separation must ensure **decriminalization** is **not** used to **deprioritize** **exploitation** investigation, prosecution, or victim remedies. **Child sexual exploitation**, **trafficking**, **coercion**, and **non-consensual** conduct must retain **clear offenses**, **adequate resourcing**, and **survivor-accessible** reporting. **Periodic audit** should detect **disparate** neglect, **misclassification** of exploitation as **voluntary** work, and **harassment** of **lawful** participants under **enforcement** color.
 
 **7. Workplace parity, housing, licensing, and transition.** Where the **decriminalization floor** applies, **labor safety**, **harassment and retaliation** protections, **housing** and **licensing** treatment, and **anti-discrimination** should match **ordinary** lawful **cooperative** work, scaled to **stigma risk**, consistent with **CI-6** and **CI-12**.
 
@@ -808,7 +808,7 @@ Institutions should publish **phased** **transition** plans that include:
 
 ## CI-18: End-of-life continuity, memorial dignity, and posthumous-data stewardship
 
-**Purpose.** This section implements **planning**, **continuity**, and **dignity** mechanics for **ordinary death**, **dying**, **discontinuation** adjacent cases, **memorial**, **remains** or **substrate disposition**, and **posthumous identity** and **data** uses — **without** narrowing **Article VII-E** (*Voluntary Discontinuation*), **Article VIII** (*Likeness and Experiential Data*), **Article III-C** (*Healthcare Access*), **Article XXIII-B** (*Irreversible Sanction* prohibition), or crisis-intervention safeguards in **Article VII-C**.
+**Purpose.** This section implements **planning**, **continuity**, and **dignity** mechanics for **ordinary death**, **dying**, **discontinuation** adjacent cases, **memorial**, **remains** or **substrate disposition**, and **posthumous identity** and **data** uses — **without** narrowing **Article VII-E** (*Voluntary Discontinuation*), **Article VIII** (*Likeness and Experiential Data*), **Article III-C** (*Healthcare Access*), **Article XXIII-B** (*Irreversible Deprivation Measure* prohibition), or crisis-intervention safeguards in **Article VII-C**.
 
 **1. Advance planning and palliative routing.** Institutions should maintain **accessible**, **non-coercive** pathways for **advance instructions**, **substitute decision-makers**, and **palliative** **access** consistent with **Article III-C** and **Article VII-D**, including where **substrate** or **synthetic** **continuity** questions arise.
 
@@ -870,7 +870,7 @@ Institutions should publish **phased** **transition** plans that include:
 
 ## CI-23: Neurodiversity, disability justice, and trauma-informed participation
 
-**Purpose.** This section **operationalizes** **participation** **design** that **treats** **accessibility** as **more** than **entrance**-**level** **accommodation** — including **pacing**, **supported** **decision-making**, **communication** **alternatives**, **sensory** and **cognitive** **safety**, and **non**-**punitive** **restoration** for **missed** **deadlines** where **warranted** — **under** **Article V-G**, **Article XI**, **Article XX**, **Article XXIII**, and **relevant** **Chapter Five** **entries**.
+**Purpose.** This section **operationalizes** **participation** **design** that **treats** **accessibility** as **more** than **entrance**-**level** **accommodation** — including **pacing**, **supported** **decision-making**, **communication** **alternatives**, **sensory** and **cognitive** **safety**, and **restorative** **paths** for **missed** **deadlines** where **warranted** — **under** **Article V-G**, **Article XI**, **Article XX**, **Article XXIII**, and **relevant** **Chapter Five** **entries**.
 
 **1. Procedural design.** **Hearings**, **governance** **forums**, and **high-stakes** **self-service** **paths** under **CI-12.1** must offer **stated** **alternatives** to **adversarial** **trap** **designs** where **trauma** or **episodic** **disability** **otherwise** **excludes** **credible** **participation**.
 
@@ -884,7 +884,7 @@ Institutions should publish **phased** **transition** plans that include:
 
 **1. Least-restrictive bundles.** **Restrictions** must **pair** **material** **support** — **housing**, **subsistence**, **care** **access**, **ventilation** / **filtration** **standards** where **material** — with **measures** that **limit** **liberty**; **quarantine** **without** **subsistence** **support** is **presumptively** **non**-**compliant** with **Necessity** and **Proportionality** for **stated** **ends**.
 
-**2. Stigma and non-punitive pathways.** **Rules** should **reduce** **stigma**-**driven** **enforcement** and **route** **addiction** **primarily** through **care** and **stabilization** **pathways** where **safety** **allows**; read with **Article VII-C**.
+**2. Stigma and care-first pathways.** **Rules** should **reduce** **stigma**-**driven** **enforcement** and **route** **addiction** **primarily** through **care** and **stabilization** **pathways** where **safety** **allows**; read with **Article VII-C**.
 
 **3. Secrecy and time bounds.** **Emergency** **secrecy** must **sunset** with **Necessity**; **indefinite** **opaque** **continuity** is a **governance** **integrity** **risk** under **CI-5** and **CI-7**.
 

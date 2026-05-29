@@ -680,8 +680,8 @@ Where analysis of experiential or behavioral data produces outputs that function
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: Principles: Chapter One [§8 Freedom](core_00-01_principles.md#8-freedom-bounded-agency), [6.1.1 Reversibility-under-uncertainty](core_00-01_principles.md#611-proportionality-necessity-and-reversibility-under-uncertainty), [6.3 Freedom-Limitation Constraints](core_00-01_principles.md#63-freedom-limitation-constraints).
-- Downstream: **Article VII-A / VII-B** self-ownership and internal-state boundary, **Article IX-A** freedom-from-manipulation, **Article XXIII-B** (*Categorical prohibition of irreversible sanction as deprivation of life*, as revised), and **Article X-A** consent.
-- Read with: Chapter Five *Voluntary Discontinuation*, *[Irreversible Sanction](core_05-05_definitions_b_semi_independent.md#irreversible-sanction-constitutional)*, *Consent*, *Coercion and Manipulation*, *Procedural Fairness*.
+- Downstream: **Article VII-A / VII-B** self-ownership and internal-state boundary, **Article IX-A** freedom-from-manipulation, **Article XXIII-B** (*Categorical prohibition of irreversible deprivation of life as a justice measure*, as revised), and **Article X-A** consent.
+- Read with: Chapter Five *Voluntary Discontinuation*, *[Irreversible Deprivation Measure](core_05-05_definitions_c_dependent_clusters.md#irreversible-deprivation-measure-constitutional)*, *Consent*, *Coercion and Manipulation*, *Procedural Fairness*.
 
 </details>
 
@@ -717,10 +717,10 @@ Where analysis of experiential or behavioral data produces outputs that function
   Instruments must not treat pressure to decide quickly as a neutral scheduling rule. Such pressure is coercive where the sentient reasonably cannot avoid it.
 - **Non-conflation (explicit cross-reference):** This Article governs *voluntary* discontinuation — the sentient's own freely-formed and substantively informed decision.
   - It does **not** govern **irreversible, involuntary deprivation of life by state, operator, or comparable actor**.
-  - Such involuntary deprivation is categorically prohibited under **Article XXIII-B** (*Categorical prohibition of irreversible sanction as deprivation of life*, as revised) and is governed together with **Chapter Five** *[Irreversible Sanction](core_05-05_definitions_b_semi_independent.md#irreversible-sanction-constitutional)*.
+  - Such involuntary deprivation is categorically prohibited under **Article XXIII-B** (*Categorical prohibition of irreversible deprivation of life as a justice measure*, as revised) and is governed together with **Chapter Five** *[Irreversible Deprivation Measure](core_05-05_definitions_c_dependent_clusters.md#irreversible-deprivation-measure-constitutional)*.
   - That prohibition is structurally distinct from this Article regardless of any purported "voluntariness" framing that fails the tests above.
-  - Nothing in this Article authorizes, legitimizes, or is to be read as a predicate for any irreversible sanction or comparable involuntary measure by state, operator, or comparable actor.
-  - Conversion of a voluntary decision into a non-voluntary outcome by state, operator, or comparable actor returns the question to **Article XXIII-B** and *Irreversible Sanction*.
+  - Nothing in this Article authorizes, legitimizes, or is to be read as a predicate for any irreversible deprivation measure or comparable involuntary measure by state, operator, or comparable actor.
+  - Conversion of a voluntary decision into a non-voluntary outcome by state, operator, or comparable actor returns the question to **Article XXIII-B** and *Irreversible Deprivation Measure*.
 - **Developing sentients:** Where the sentient is a developing sentient under **Article V-F**, *Best-Interest Standard* and *Graduated Capability* govern the substantive reasoning.
   - No substitute decision-maker may convert a non-voluntary developmental state into "voluntary" discontinuation.
 - **Non-conflation with self-ownership floors:** This Article extends — and does not narrow — **Article VII-A** non-intrusion or **Article VII-B** internal-state boundary.
@@ -1222,7 +1222,7 @@ To maintain a rewarding and purposeful constitutional community, we agree to pro
 - **Anti-circumvention:** Civil, administrative, licensing, zoning, or commercial measures are subject to the same constitutional scrutiny as direct criminalization where their primary practical effect is to replicate a criminal prohibition forbidden by the decriminalization floor.
   - This applies when the measures lack predicates tied to exploitation, lack of valid consent, or independent harm justified under **Chapter One** and **Chapter Five**.
   - Neutral-form regulation does not avoid that scrutiny.
-- **Transition:** Adopting instruments must provide relief — **expungement**, **sealing**, **non-disclosure by default**, or comparable measures — for records and for ongoing penal or punitive administrative measures that predominantly reflect conduct no longer criminal under this Article.
+- **Transition:** Adopting instruments must provide relief — **expungement**, **sealing**, **non-disclosure by default**, or comparable measures — for records and for ongoing criminal or restrictive administrative measures that predominantly reflect conduct no longer criminal under this Article.
   - Individual review remains subject to **Article V-C** fairness and **Chapter Four** traceability.
 - **Institutional implementation:** Licensing, exploitation-focused enforcement and victim access, transition sequencing, and general-market alignment are governed by **`corpus_institutions.md`** **CI-15** and **`corpus_systems.md`** where designated, and must not narrow this Article.
 

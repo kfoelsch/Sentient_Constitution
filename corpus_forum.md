@@ -436,13 +436,13 @@ An incomplete record on a materially rights-collision matter is procedurally def
 
 **Non-trivial sanctions and restrictions.** Before a tribunal affirms or imposes a non-trivial sanction, exclusion, or comparable rights-affecting restriction, the reviewable record must show at least:
 - material safety or constitutional necessity;
-- a remediation, restitution, or forward-protective rationale rather than punishment as an end in itself;
+- a remediation, restitution, or forward-protective rationale rather than retaliation as an end in itself;
 - a rehabilitation, restoration, or recurrence-reduction pathway where reasonably feasible; and
 - accountable attribution supported by auditable evidence.
 
-Omission of a materially required element makes the sanction or restriction procedurally defective.
+Omission of a materially required element makes the corrective measure or restriction procedurally defective.
 
-**Prohibited sanction design.** Review bodies must not uphold vengeance, humiliation, spectacle-only deterrence, convenience severity, discriminatory burdening, or collective punishment as sufficient rationale. Where feasible reversibility exists, tribunals must prefer reversible or reviewable measures over irreversible deprivation.
+**Prohibited sanction design.** Review bodies must not uphold retaliatory grievance, humiliation, spectacle-only deterrence, convenience severity, discriminatory burdening, collective retaliation, or retaliation-as-an-end as sufficient rationale. Where feasible reversibility exists, tribunals must prefer reversible or reviewable measures over irreversible deprivation.
 
 **Appeal outcomes and remedies.** Review bodies must have power, within lawful scope, to stay, reverse, remand, narrow, or otherwise correct materially defective orders; restore access, standing, or process where wrongly impaired; and require further findings, publication, or independent review where the record is inadequate. Remedy design must remain timely, proportionate, and practically executable.
 
@@ -608,7 +608,7 @@ Non-recognition must identify whether the forum is adopting an interim local rul
 
 **Independence and composition.** Panels must include relevant domain competence, conflict screening, published selection criteria, and meaningful challenge pathways. Service terms, compensation, and promotion structures must reduce dependence on journal prestige, dominant funders, vendor capture, or institutional retaliation against replication, criticism, or correction.
 
-**Research and uncertainty-reduction authority.** Technical specialist forums may commission or fund independent research, replication, testing, field study, standards-development, or evidence synthesis only where they produce a published finding that existing uncertainty is materially blocking reliable adjudication, classification, safety evaluation, or regulatory integrity. Scope orders, selection criteria, conflicts, funding terms, and outputs must be public unless a narrower lawful exception applies. This authority must not be used to reward ideological alignment, punish dissent, evade ordinary appropriations controls where those controls lawfully apply, or convert provisional funded findings into binding law without ordinary review and adoption pathways.
+**Research and uncertainty-reduction authority.** Technical specialist forums may commission or fund independent research, replication, testing, field study, standards-development, or evidence synthesis only where they produce a published finding that existing uncertainty is materially blocking reliable adjudication, classification, safety evaluation, or regulatory integrity. Scope orders, selection criteria, conflicts, funding terms, and outputs must be public unless a narrower lawful exception applies. This authority must not be used to reward ideological alignment, burden dissent, evade ordinary appropriations controls where those controls lawfully apply, or convert provisional funded findings into binding law without ordinary review and adoption pathways.
 
 **Interface with publication and review governance.** Science-facing technical specialist forums should read together with `corpus_institutions.md` **CI-15B**. Where a dispute involves publication suppression, replication denial, correction refusal, or manipulation of scientific standing, a technical specialist forum may supply the specialist forum, but integrity and institutional review routes remain available where those stakes are primary.
 

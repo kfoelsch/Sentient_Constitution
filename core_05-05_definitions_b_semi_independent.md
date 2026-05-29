@@ -201,7 +201,7 @@ Below, entries are **grouped by topic** for reading convenience (non-operative o
 <a id="protected-reporting-whistleblowing-e"></a>
 - E: Evaluate substance over form. Protected reporting includes internal escalation, external reporting to authorized oversight or forum pathways, evidence preservation, and good-faith participation in audit or review. Protection does not depend on perfect legal characterization where the reporter had a reasonable basis and used a proportionate channel under the circumstances.
 <a id="protected-reporting-whistleblowing-c"></a>
-- C: Non-compliant: suppressing, punishing, burying, or refusing to receive protected reporting; treating good-faith reporting as misconduct solely because it exposes institutional or system failure; or conditioning access to remedy on silence where accountability, safety, or truth duties require disclosure.
+- C: Non-compliant: suppressing, burdening, burying, or refusing to receive protected reporting; treating good-faith reporting as misconduct solely because it exposes institutional or system failure; or conditioning access to remedy on silence where accountability, safety, or truth duties require disclosure.
 
 
 <a id="protected-reporting-retaliation-and-access-interference"></a>

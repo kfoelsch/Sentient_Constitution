@@ -85,7 +85,7 @@ Each **forum family** bears primary responsibility for incentive structures prim
 
 *In plain terms: the filing desk asks what the fight is really about — not what the caption says — then uses the default table to pick the lead forum; **section 5** carries **per-family intake triage** so sorting does not substitute for lawfully constituted merits panels.*
 
-**Primary character** follows the dominant purpose of the **claim** or **defense**—its legal, remedial, punitive-process, constitutional-floor, and practical aims—not the caption or the party's preferred outcome.
+**Primary character** follows the dominant purpose of the **claim** or **defense**—its legal, remedial, coercive-safeguard, constitutional-floor, and practical aims—not the caption or the party's preferred outcome.
 
 **Initial access** to each forum family must be prompt and contestable enough that dominant-purpose routing under this section remains meaningful, and that transfer, consolidation, certification, and backup discipline under **sections 6 and 7** are not nullified by delay or by opaque threshold sorting. Time expectations for forum access must be **sentient-accessible**, calibrated to harm urgency and matter complexity, and must favor real threshold access and lawful interim relief under **section 8** over administrative convenience. **Section 5** intake triage, together with **`corpus_forum.md`** (**CC-4**), satisfies this obligation.
 
@@ -93,7 +93,7 @@ Each **forum family** bears primary responsibility for incentive structures prim
 
 1. Identify any **verified** Chapter Six **Contribution Axis** and **Violation Axis** material, including the relevant violation slot, severity band, process / response character, and standing effect where already established.
 2. Treat **allegations** and **provisional** tags as routing and preservation material only until findings exist under **Chapters Two through Four**.
-3. Apply the default venue table by **dominant purpose**: remedial, punitive-process, institutional, ecological, integrity, technical, or constitutional.
+3. Apply the default venue table by **dominant purpose**: remedial, coercive-safeguard, institutional, ecological, integrity, technical, or constitutional.
 4. Route **dominant** final **Chapter Eight** anti-constitutional classification matters to **Integrity** as default lead, while preserving **Constitutional** certification, institutional-party rules, and anti-self-judging backup under **sections 5 through 7**.
 5. Keep positive contribution standing and adverse violation findings separately traceable; forum routing may coordinate them, but must not net them into a single merits answer.
 
@@ -363,7 +363,7 @@ Operational requirements — including **published intake classes**, attributabl
 
 <br>
 
-*In plain terms: picking a forum to game the system can draw penalties or a transfer; short-term orders are allowed when needed; and if several tribunals issue conflicting short-term orders at once, one coordinating rule must sort the clash.*
+*In plain terms: picking a forum to game the system can draw costs, referral, or a transfer; short-term orders are allowed when needed; and if several tribunals issue conflicting short-term orders at once, one coordinating rule must sort the clash.*
 
 **Forum characterization** must be **good-faith** and **warranted** by **primary** **stakes**. **Knowing** **mischaracterization** **may** **trigger** **costs**, **dismissal**, or **referral** under **adopting** **law**.
 

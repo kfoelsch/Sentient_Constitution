@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-05-25T07:09:55+00:00",
+  "generated_at": "2026-05-29T11:05:29+00:00",
   "files": {
     "core_00-01_principles.md": {
       "total_lines": 1440,
@@ -2427,11 +2427,11 @@
           "anchor": "#combatant-non-combatant-distinction-constitutional"
         },
         {
-          "header": "Irreversible Sanction",
+          "header": "Irreversible Deprivation Measure",
           "level": 5,
           "line_start": 1860,
           "line_end": 1893,
-          "anchor": "#irreversible-sanction-constitutional"
+          "anchor": "#irreversible-deprivation-measure-constitutional"
         },
         {
           "header": "Autonomous Coercion Tool",
@@ -2509,7 +2509,7 @@
           "anchor": null
         },
         {
-          "header": "5.2 Punitive or Liberty-Restricting Character",
+          "header": "5.2 Coercive or Liberty-Restricting Safeguard Character",
           "level": 2,
           "line_start": 52,
           "line_end": 81,
@@ -2826,20 +2826,20 @@
       ]
     },
     "core_06-06_standing_assessment.md": {
-      "total_lines": 600,
+      "total_lines": 598,
       "sections": [
         {
           "header": "Sentient Constitution — Contribution, violation, and standing",
           "level": 1,
           "line_start": 1,
-          "line_end": 600,
+          "line_end": 598,
           "anchor": null
         },
         {
           "header": "CHAPTER SIX: CONTRIBUTION, VIOLATION, AND STANDING MODEL — CLASSIFICATION",
           "level": 2,
           "line_start": 10,
-          "line_end": 600,
+          "line_end": 598,
           "anchor": "#chapter-six-compliance-violation-and-standing-model"
         },
         {
@@ -2909,7 +2909,7 @@
           "header": "3. Verified Inputs, Forums, and No-Offset Rules",
           "level": 3,
           "line_start": 221,
-          "line_end": 303,
+          "line_end": 301,
           "anchor": "#3-verified-inputs-forums-and-no-offset-rules"
         },
         {
@@ -2927,66 +2927,66 @@
           "anchor": "#32-dispute-phase-material-forums-and-challenge-protections"
         },
         {
-          "header": "3.3 How Good Deeds and Bad Deeds Coexist",
+          "header": "3.3 Coexistence and no-offset bridge",
           "level": 4,
           "line_start": 278,
-          "line_end": 303,
+          "line_end": 301,
           "anchor": "#33-coexistence-and-no-offset-bridge"
         },
         {
           "header": "4. Primary Axis Categories, Slot Grammar, and Defaults",
           "level": 3,
-          "line_start": 304,
-          "line_end": 600,
+          "line_start": 302,
+          "line_end": 598,
           "anchor": "#4-primary-axis-categories-slot-grammar-and-defaults"
         },
         {
           "header": "4.0 Slot grammar and display labels",
           "level": 4,
-          "line_start": 310,
-          "line_end": 394,
+          "line_start": 308,
+          "line_end": 392,
           "anchor": "#40-slot-grammar-and-display-labels"
         },
         {
           "header": "4.0.1 What the slot grammar does",
           "level": 5,
-          "line_start": 314,
-          "line_end": 328,
+          "line_start": 312,
+          "line_end": 326,
           "anchor": "#211-what-the-map-does"
         },
         {
           "header": "4.0.2 Table 1 — slot display labels",
           "level": 5,
-          "line_start": 329,
-          "line_end": 361,
+          "line_start": 327,
+          "line_end": 359,
           "anchor": "#212-table-1-slot-display-labels"
         },
         {
           "header": "4.0.3 How to read Table 1",
           "level": 5,
-          "line_start": 362,
-          "line_end": 394,
+          "line_start": 360,
+          "line_end": 392,
           "anchor": "#213-how-to-read-table-1"
         },
         {
           "header": "4.1 How the Nine Slots Map to Real-World Contributions and Violations",
           "level": 4,
-          "line_start": 395,
-          "line_end": 458,
+          "line_start": 393,
+          "line_end": 456,
           "anchor": "#4-primary-category-defaults-and-lequ-slot-baseline"
         },
         {
           "header": "4.2 The \"LEQU\" Baseline: Measuring Impact in Lifetime-Equivalent Units",
           "level": 4,
-          "line_start": 459,
-          "line_end": 512,
+          "line_start": 457,
+          "line_end": 510,
           "anchor": "#42-constitutional-outcome-baseline-for-slots"
         },
         {
           "header": "4.3 Violation Axis rules — violation nature (adverse findings and severity)",
           "level": 4,
-          "line_start": 513,
-          "line_end": 600,
+          "line_start": 511,
+          "line_end": 598,
           "anchor": "#43-violation-axis-rules-violation-nature-adverse-findings-and-severity"
         }
       ]
@@ -3072,7 +3072,7 @@
           "anchor": "#35-civil-violation"
         },
         {
-          "header": "2.2 Punitive or liberty-restricting character",
+          "header": "2.2 Coercive or liberty-restricting safeguard character",
           "level": 4,
           "line_start": 270,
           "line_end": 293,
@@ -4422,20 +4422,20 @@
       ]
     },
     "core_10-10_rights_part_d.md": {
-      "total_lines": 588,
+      "total_lines": 589,
       "sections": [
         {
           "header": "Sentient Constitution — Foundational Rights (Part D)",
           "level": 1,
           "line_start": 1,
-          "line_end": 588,
+          "line_end": 589,
           "anchor": null
         },
         {
           "header": "CHAPTER TEN: FOUNDATIONAL RIGHTS",
           "level": 2,
           "line_start": 8,
-          "line_end": 588,
+          "line_end": 589,
           "anchor": null
         },
         {
@@ -4449,112 +4449,112 @@
           "header": "Article XXIII: Conflict Resolution, Escalation, and Emergency Proportionality",
           "level": 3,
           "line_start": 12,
-          "line_end": 300,
+          "line_end": 301,
           "anchor": null
         },
         {
           "header": "Article XXIII-A: Justice Objective and Scope",
           "level": 4,
           "line_start": 36,
-          "line_end": 62,
+          "line_end": 63,
           "anchor": null
         },
         {
-          "header": "Article XXIII-B: Non-Trivial Punishment Constraints",
+          "header": "Article XXIII-B: Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints",
           "level": 4,
-          "line_start": 63,
-          "line_end": 120,
-          "anchor": null
+          "line_start": 64,
+          "line_end": 121,
+          "anchor": "#article-xxiii-b-non-trivial-restriction-restitution-and-restorative-accountability-constraints"
         },
         {
           "header": "Article XXIII-C: Least-Restrictive and Time-Bounded Rule",
           "level": 4,
-          "line_start": 121,
-          "line_end": 173,
+          "line_start": 122,
+          "line_end": 174,
           "anchor": null
         },
         {
           "header": "Article XXIII-D: Emergency Measures and Continuation Burden",
           "level": 4,
-          "line_start": 174,
-          "line_end": 219,
+          "line_start": 175,
+          "line_end": 220,
           "anchor": null
         },
         {
           "header": "Article XXIII-E: Retrospective Review and Disclosure",
           "level": 4,
-          "line_start": 220,
-          "line_end": 254,
+          "line_start": 221,
+          "line_end": 255,
           "anchor": null
         },
         {
           "header": "Article XXIII-F: Rights-Collision Procedure and Restorative Alignment",
           "level": 4,
-          "line_start": 255,
-          "line_end": 300,
+          "line_start": 256,
+          "line_end": 301,
           "anchor": null
         },
         {
           "header": "Article XXIV: Constitutional Evolution and Non-Entrenchment",
           "level": 3,
-          "line_start": 301,
-          "line_end": 367,
+          "line_start": 302,
+          "line_end": 368,
           "anchor": null
         },
         {
           "header": "Article XXIV-A: Non-Entrenchment and Revisability",
           "level": 4,
-          "line_start": 308,
-          "line_end": 336,
+          "line_start": 309,
+          "line_end": 337,
           "anchor": null
         },
         {
           "header": "Article XXIV-B: Periodic Revalidation and Transparent Change",
           "level": 4,
-          "line_start": 337,
-          "line_end": 367,
+          "line_start": 338,
+          "line_end": 368,
           "anchor": null
         },
         {
           "header": "Article XXV: Transition Governance, Continuity, and Re-Baselining",
           "level": 3,
-          "line_start": 368,
-          "line_end": 559,
+          "line_start": 369,
+          "line_end": 560,
           "anchor": null
         },
         {
           "header": "Article XXV-A: Phased Adoption and Rights-Floor Continuity",
           "level": 4,
-          "line_start": 382,
-          "line_end": 419,
+          "line_start": 383,
+          "line_end": 420,
           "anchor": null
         },
         {
           "header": "Article XXV-B: Transitional Authority Limits and Reauthorization",
           "level": 4,
-          "line_start": 420,
-          "line_end": 451,
+          "line_start": 421,
+          "line_end": 452,
           "anchor": null
         },
         {
           "header": "Article XXV-C: Failure Off-Ramps, Re-Baselining, and Traceability",
           "level": 4,
-          "line_start": 452,
-          "line_end": 484,
+          "line_start": 453,
+          "line_end": 485,
           "anchor": null
         },
         {
           "header": "Article XXV-D: Non-Compliant Property and Systems; Voluntary Turnover Incentives",
           "level": 4,
-          "line_start": 485,
-          "line_end": 559,
+          "line_start": 486,
+          "line_end": 560,
           "anchor": null
         },
         {
           "header": "Chapter Ten — Scope Limit and Layer Discipline (Rights-Floor Boundary Watch)",
           "level": 3,
-          "line_start": 560,
-          "line_end": 588,
+          "line_start": 561,
+          "line_end": 589,
           "anchor": null
         }
       ]
@@ -6602,7 +6602,7 @@
           "anchor": null
         },
         {
-          "header": "5. Prohibited punitive forms",
+          "header": "5. Prohibited retaliatory forms",
           "level": 3,
           "line_start": 349,
           "line_end": 355,

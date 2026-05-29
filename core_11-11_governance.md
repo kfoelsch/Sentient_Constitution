@@ -94,7 +94,7 @@ Mechanism families, publication, auditability, and pluralism are addressed in **
 
 #### 1.2 Eligibility, contested selection, and democratic minimums
 
-*In plain terms: you cannot bar someone from governing or critical stewardship roles with a birthday rule — fitness and readiness must be shown in ways that stand up to scrutiny, not smuggled in as age. A real legitimacy mechanism offers real choices, protects dissent enough that it can matter, and includes a credible path to hand power over — not a rigged contest, not punishment for opposition, and not permanent incumbency dressed up as procedure.*
+*In plain terms: you cannot bar someone from governing or critical stewardship roles with a birthday rule — fitness and readiness must be shown in ways that stand up to scrutiny, not smuggled in as age. A real legitimacy mechanism offers real choices, protects dissent enough that it can matter, and includes a credible path to hand power over — not a rigged contest, not retaliation for opposition, and not permanent incumbency dressed up as procedure.*
 
 **Eligibility for governing and critical-stewardship roles**
 
@@ -245,7 +245,7 @@ Where an adopter's legitimacy mechanism includes collective voting or an analogo
 
 <br>
 
-*In plain terms: eligible sentients get a real vote when the rules say they do — and on the big questions (who governs and how), each voice counts equally. Weighting by impact can apply inside an already-authorized system for many decisions, but not as a trick to dilute the foundational vote. Calendar age and substrate class cannot be used to weight those foundational choices. Losing "good standing" can pause ordinary voting, but cannot permanently silence someone through standing games; the gravest misconduct may withhold foundational voice until restitution is actually complete — not as a vague punishment.*
+*In plain terms: eligible sentients get a real vote when the rules say they do — and on the big questions (who governs and how), each voice counts equally. Weighting by impact can apply inside an already-authorized system for many decisions, but not as a trick to dilute the foundational vote. Calendar age and substrate class cannot be used to weight those foundational choices. Losing "good standing" can pause ordinary voting, but cannot permanently silence someone through standing games; the gravest misconduct may withhold foundational voice until restitution is actually complete — not as vague retaliation.*
 
 **Sentients** are entitled to participate in **governance voting** when they are in **good standing**. Good standing is a form of **Participant Standing** under **Article XVIII-A** and **Article XVIII-C**, together with any designated incorporated criteria. Those criteria remain contestable and may not narrow constitutional limits.
 
@@ -336,7 +336,7 @@ Where material disagreement requires a **binding stakeholder choice** within an 
 Material stewardship and operation require **sentients** who can **exercise** authority **competently**, not only **structures** that distribute it on paper.
 
 - **Authorized-role and competency floor:** Adopters must maintain documented, auditable, and challengeable role definitions and competency or succession capacity proportionate to impact and classification. Constitutional duties must not depend on single points of sentient-level failure. Class-scaled lane staffing and competency-redundancy interlocks that combine **`corpus_systems.md`** classification profile with **`corpus_institutions.md`** lane design are applied through **`corpus_joint_structure.md` CJS-3.11** and its routed owner hooks.
-- **Open pathways and incentive integrity floor:** Qualified sentients must have non-arbitrary pathways into progressively consequential stewardship responsibilities, and stewardship incentives must reward constitutional care without punishing good-faith safety or integrity escalation.
+- **Open pathways and incentive integrity floor:** Qualified sentients must have non-arbitrary pathways into progressively consequential stewardship responsibilities, and stewardship incentives must reward constitutional care without burdening good-faith safety or integrity escalation.
 - **Anti-symbolism rule:** Titles or advisory forums do not satisfy this section where real authority and competency are required for materially binding decisions. Detailed role taxonomy, qualification/succession controls, pathway-access implementation, and incentive-governance mechanics are governed by `corpus_institutions.md` **CI-4**, **CI-11**, and **CI-12**.
 
 **Cross-reference (section 5):** **Article XI-D**; adopted governance implementation on role integrity; **[corpus_systems.md](corpus_systems.md), Chapter S3** and **Protocol S5**; and **corpus_institutions.md** (**CI-4**, **CI-11**, **CI-12**, and related sections as applicable).

@@ -182,7 +182,7 @@ Trustworthiness must be evaluated across time, scale, and dependency relationshi
   The rule applies when operation materially degrades contestability, epistemic integrity, or constitutional process — including general-purpose autonomous systems with granted **tools**, **API**, filing, messaging, or comparable operational access.
 - **Remedy distinction:** System-level containment, quarantine, impoundment, or destructive disposition of non-compliant deployments under **Article XXV-D** is distinct from:
   - sentient accountability under **Chapter Eight**;
-  - **Article XXIII-B** (*Categorical prohibition of irreversible sanction as deprivation of life*), which categorically prohibits irreversible sanction as deprivation of life under [Irreversible Sanction](core_05-05_definitions_b_semi_independent.md#irreversible-sanction-constitutional) and governs sanction of *sentients*, not of *systems*.
+  - **Article XXIII-B** (*Categorical prohibition of irreversible deprivation of life as a justice measure*), which categorically prohibits irreversible deprivation of life under [Irreversible Deprivation Measure](core_05-05_definitions_c_dependent_clusters.md#irreversible-deprivation-measure-constitutional) and governs deprivation measures for *sentients*, not for *systems*.
   
   System-level measures must remain consistent with **Necessity**, **Proportionality**, **Article XI-A** where sentient interests are implicated, and **Article XXIII-C**. Both tracks may apply where the facts support each. No reading of this bullet routes system-level destructive disposition into authority over sentient life.
 
@@ -341,8 +341,8 @@ This Article states the Rights-Floor for **exceptional institutional power**: co
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: Principles: Chapter One [3.1 Safety](core_00-01_principles.md#31-safety-harm-constraint), [6.1.2 Necessity](core_00-01_principles.md#612-necessity), [6.3 Freedom-Limitation Constraints](core_00-01_principles.md#63-freedom-limitation-constraints), [6.4.1 Rights-Collision Decision Test](core_00-01_principles.md#641-rights-collision-decision-test), [9. Prohibition on Absolute Override](core_00-01_principles.md#9-prohibition-on-absolute-override).
-- Downstream: **Article I-A** environmental preconditions, **Article I-D** existential-risk scrutiny, **Article V-A** dignity, **Article XIII-A** covert-power limits (overt-power counterpart), **Article XXIII-D** emergency-measure limits, **Article XXIII** conflict resolution, **Article XXV** transition governance. Cross-reference: **Article XXIII-B** (*Categorical prohibition of irreversible sanction as deprivation of life*) and Chapter Five *[Irreversible Sanction](core_05-05_definitions_b_semi_independent.md#irreversible-sanction-constitutional)* — this article does not create, extend, or predicate irreversible sanction authority; see *Non-Conflation* below.
-- Read with: [Chapter Five §3.13 *Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm*](core_05-05_definitions_c_dependent_clusters.md#use-of-force-autonomous-coercion-and-mass-harm-cluster) (joint invocation where materially implicated); Chapter Five *Use of Force*, *Weapons of Mass Harm*, *Combatant / Non-Combatant Distinction*, *[Irreversible Sanction](core_05-05_definitions_b_semi_independent.md#irreversible-sanction-constitutional)*, *Existential Risk*, *Reversibility*, *Redress and Remediation*.
+- Downstream: **Article I-A** environmental preconditions, **Article I-D** existential-risk scrutiny, **Article V-A** dignity, **Article XIII-A** covert-power limits (overt-power counterpart), **Article XXIII-D** emergency-measure limits, **Article XXIII** conflict resolution, **Article XXV** transition governance. Cross-reference: **Article XXIII-B** (*Categorical prohibition of irreversible deprivation of life as a justice measure*) and Chapter Five *[Irreversible Deprivation Measure](core_05-05_definitions_c_dependent_clusters.md#irreversible-deprivation-measure-constitutional)* — this article does not create, extend, or predicate irreversible deprivation-measure authority; see *Non-Conflation* below.
+- Read with: [Chapter Five §3.13 *Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm*](core_05-05_definitions_c_dependent_clusters.md#use-of-force-autonomous-coercion-and-mass-harm-cluster) (joint invocation where materially implicated); Chapter Five *Use of Force*, *Weapons of Mass Harm*, *Combatant / Non-Combatant Distinction*, *[Irreversible Deprivation Measure](core_05-05_definitions_c_dependent_clusters.md#irreversible-deprivation-measure-constitutional)*, *Existential Risk*, *Reversibility*, *Redress and Remediation*.
 
 </details>
 
@@ -357,7 +357,7 @@ This Article states the Rights-Floor for **exceptional institutional power**: co
 
 <br>
 
-*In plain terms: armed force is an exception, not a default. It must be authorized, narrow, proportionate, and reviewable. It must never be used as a back door to irreversible sanction, and it cannot be dressed up as emergency to escape review.*
+*In plain terms: armed force is an exception, not a default. It must be authorized, narrow, proportionate, and reviewable. It must never be used as a back door to an irreversible deprivation measure, and it cannot be dressed up as emergency to escape review.*
 
 - **Overt-force floor:** This Article states the Rights-Floor for overt use of force, armed conflict, and military-power deployment.
   - It applies under **Sentience Non-Exclusion** to both force-users and force-affected sentients.
@@ -373,7 +373,7 @@ This Article states the Rights-Floor for **exceptional institutional power**: co
 - **Combatant / non-combatant distinction:** Force must discriminate between sentients taking direct part in hostilities or armed action and sentients who are not.
   - The distinction is substantive, not reducible to formal combatant-class assignment.
   - Generalized taxonomy-of-convenience reclassifications that sweep protected populations into combatant status are non-compliant.
-  - Denial-of-quarter, collective punishment, and targeting of sentients because of **Protected Characteristics** or their material proxies are non-compliant.
+  - Denial-of-quarter, collective retaliation, and targeting of sentients because of **Protected Characteristics** or their material proxies are non-compliant.
 - **Weapons of mass harm and existential-risk scrutiny:** Weapons whose use foreseeably causes casualty, ecological, informational, or infrastructural harm at a scale that materially implicates **Article I-A** environmental preconditions or **Article I-D** existential-risk scrutiny are subject to heightened review under those provisions.
   - Possession, transfer, deployment, and use decisions must be reasoned against **Existential Risk** under **Chapter Five**.
   - Framings that treat such weapons as ordinary force-escalation tools rather than as **Article I-D** objects are non-compliant.
@@ -392,11 +392,11 @@ This Article states the Rights-Floor for **exceptional institutional power**: co
   - Information used to authorize or conduct force is subject to **Article XIII-A** taint and remedy discipline where relevant.
   - Sole control by operational-force bodies over authorization, review, and legality assessment for their own conduct is prohibited on the same terms as **Article XIII-A**.
 - **Non-conflation:** This Article governs the *overt use of force* — security, conflict, and military-power deployment in their ordinary operational sense.
-  - It does **not** govern **irreversible deprivation of life imposed by a state or comparable actor as sanction, punishment, or comparable non-combat outcome**.
-  - Such deprivation is categorically prohibited under **Article XXIII-B** (*Categorical prohibition of irreversible sanction as deprivation of life*) and is governed together with **Chapter Five** *[Irreversible Sanction](core_05-05_definitions_b_semi_independent.md#irreversible-sanction-constitutional)*.
-  - That prohibition is structurally distinct from this Article. No combat framing, emergency framing, or use-of-force classification may recast an irreversible-sanction killing as ordinary use of force.
-  - Nothing in this Article authorizes, legitimizes, or supplies a legal predicate for any irreversible sanction by a state or comparable actor.
-  - Conversion of a combat or use-of-force **context** into a sanction outcome returns the question to **Article XXIII-B** and *Irreversible Sanction*, without read-across from this Article.
+  - It does **not** govern **irreversible deprivation of life imposed by a state or comparable actor as a justice measure or comparable non-combat outcome**.
+  - Such deprivation is categorically prohibited under **Article XXIII-B** (*Categorical prohibition of irreversible deprivation of life as a justice measure*) and is governed together with **Chapter Five** *[Irreversible Deprivation Measure](core_05-05_definitions_c_dependent_clusters.md#irreversible-deprivation-measure-constitutional)*.
+  - That prohibition is structurally distinct from this Article. No combat framing, emergency framing, or use-of-force classification may recast an irreversible justice-measure killing as ordinary use of force.
+  - Nothing in this Article authorizes, legitimizes, or supplies a legal predicate for any irreversible deprivation measure by a state or comparable actor.
+  - Conversion of a combat or use-of-force **context** into a justice-measure outcome returns the question to **Article XXIII-B** and *Irreversible Deprivation Measure*, without read-across from this Article.
 
 #### Article XIII-C: Autonomous Lethal Systems and Autonomous Coercion Tools
 
@@ -404,8 +404,8 @@ This Article states the Rights-Floor for **exceptional institutional power**: co
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: Principles: Chapter One [3.1 Safety](core_00-01_principles.md#31-safety-harm-constraint), [4. Trust](core_00-01_principles.md#4-system-stability-enabler-trust-coordination-integrity), [6.1.1 Proportionality](core_00-01_principles.md#611-proportionality), [6.1.2 Necessity](core_00-01_principles.md#612-necessity), [7.2.1 Alignment Requirement](core_00-01_principles.md#721-alignment-requirement), [9. Prohibition on Absolute Override](core_00-01_principles.md#9-prohibition-on-absolute-override).
-- Downstream: **Article I-D** existential-risk scrutiny, **Article IX-A** freedom from manipulation, **Article XIII-A** covert-power limits, **Article XIII-B** overt-force floor, **Article XII-A** reliability and trustworthiness baseline (systems-layer counterpart), **Article XII-E** autonomy-stewardship and autonomy-scaling, **Article XII-F** resilience and self-healing baseline. Cross-reference: **Article XXIII-B** (*Categorical prohibition of irreversible sanction as deprivation of life*) and Chapter Five *[Irreversible Sanction](core_05-05_definitions_b_semi_independent.md#irreversible-sanction-constitutional)* — this Article does not authorize, broaden, or supply a constitutional predicate for irreversible sanction; see *Non-Conflation* below.
-- Read with: [Chapter Five §3.13 *Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm*](core_05-05_definitions_c_dependent_clusters.md#use-of-force-autonomous-coercion-and-mass-harm-cluster) (joint invocation where materially implicated); Chapter Five *Autonomous Lethal System*, *Autonomous Coercion Tool*, *[Irreversible Sanction](core_05-05_definitions_b_semi_independent.md#irreversible-sanction-constitutional)*, *Coercion and Manipulation*, *Reversibility*. Systems-layer companion: **[corpus_systems.md](corpus_systems.md), Chapter S2** classification.
+- Downstream: **Article I-D** existential-risk scrutiny, **Article IX-A** freedom from manipulation, **Article XIII-A** covert-power limits, **Article XIII-B** overt-force floor, **Article XII-A** reliability and trustworthiness baseline (systems-layer counterpart), **Article XII-E** autonomy-stewardship and autonomy-scaling, **Article XII-F** resilience and self-healing baseline. Cross-reference: **Article XXIII-B** (*Categorical prohibition of irreversible deprivation of life as a justice measure*) and Chapter Five *[Irreversible Deprivation Measure](core_05-05_definitions_c_dependent_clusters.md#irreversible-deprivation-measure-constitutional)* — this Article does not authorize, broaden, or supply a constitutional predicate for irreversible deprivation measures; see *Non-Conflation* below.
+- Read with: [Chapter Five §3.13 *Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm*](core_05-05_definitions_c_dependent_clusters.md#use-of-force-autonomous-coercion-and-mass-harm-cluster) (joint invocation where materially implicated); Chapter Five *Autonomous Lethal System*, *Autonomous Coercion Tool*, *[Irreversible Deprivation Measure](core_05-05_definitions_c_dependent_clusters.md#irreversible-deprivation-measure-constitutional)*, *Coercion and Manipulation*, *Reversibility*. Systems-layer companion: **[corpus_systems.md](corpus_systems.md), Chapter S2** classification.
 
 </details>
 
@@ -449,11 +449,11 @@ This Article states the Rights-Floor for **exceptional institutional power**: co
 - **Systems-layer interaction:** Operational classification, reliability, and **Chapter S2** class-scaled governance route to the systems layer — **Article XII-A** baseline and **[corpus_systems.md](corpus_systems.md), Chapter S2**.
   - The systems-layer routing does not narrow the Rights-Floor stated here.
   - Conflicts resolve under **Chapter One §6.4.1** without narrowing the Rights Floor.
-- **Non-conflation:** This Article sets heightened-scrutiny floor discipline for autonomous lethal systems and autonomous coercion tools. It does **not** govern **irreversible deprivation of life imposed by a state or comparable actor as sanction, punishment, or comparable non-combat outcome**.
+- **Non-conflation:** This Article sets heightened-scrutiny floor discipline for autonomous lethal systems and autonomous coercion tools. It does **not** govern **irreversible deprivation of life imposed by a state or comparable actor as a justice measure or comparable non-combat outcome**.
   - Nothing in this Article authorizes such deprivation, broadens any existing authority to impose it, or supplies a constitutional predicate for it.
   - This rule holds whether the decision is made by a human operator, by an autonomous system, or by a hybrid human–system pipeline. Automating, delegating, or routing the decision through an autonomous system does not create a read-across into this Article.
-  - Any such measure is categorically prohibited under **Article XXIII-B** (*Categorical prohibition of irreversible sanction as deprivation of life*) and is governed together with **Chapter Five** *[Irreversible Sanction](core_05-05_definitions_b_semi_independent.md#irreversible-sanction-constitutional)*, without read-across from this Article.
-  - Conversion of an autonomous-systems, force, or coercion-tool **context** into a sanction outcome returns the question to **Article XXIII-B** and *Irreversible Sanction*, without read-across from this Article.
+  - Any such measure is categorically prohibited under **Article XXIII-B** (*Categorical prohibition of irreversible deprivation of life as a justice measure*) and is governed together with **Chapter Five** *[Irreversible Deprivation Measure](core_05-05_definitions_c_dependent_clusters.md#irreversible-deprivation-measure-constitutional)*, without read-across from this Article.
+  - Conversion of an autonomous-systems, force, or coercion-tool **context** into a justice-measure outcome returns the question to **Article XXIII-B** and *Irreversible Deprivation Measure*, without read-across from this Article.
 
 ### Article XIV: Info-Sphere Integrity
 
@@ -1273,7 +1273,7 @@ Sentients and dependent systems have the right to meaningful, usable exit, migra
 - **Anti-lock-in:** Artificial barriers whose primary effect is to foreclose exit, switching, substitution, or challenge rights contravene this Article. In scope:
   - format opacity;
   - unjustified incompatibility;
-  - punitive switching terms;
+  - coercive switching terms;
   - withholding information materially needed for practical transition.
   
   The rule applies beyond proportionate transaction costs and applies where **Systemic Lock-In** (**Chapter Five**) is implicated.

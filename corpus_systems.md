@@ -31,7 +31,7 @@ Shared preamble contract: apply `corpus_joint_structure.md` **CJS-1.1**.
 - **Chapter Ten structure:** The Sentient Constitution **Chapter Ten** opening states a **default constraint stack** and **interpretive hubs**:
   - challenge and redress via **Article XII-B** and Chapter Five *Redress and Remediation*
   - auditability and observable evidence via **Article XV-A** with **Chapters Two through Four**
-  - justice, punishment boundaries, and emergencies via **Article XXIII** with **Chapter One**, section 6.4
+  - justice, restitution, restriction boundaries, and emergencies via **Article XXIII** with **Chapter One**, section 6.4
   - This implementation companion implements those themes operationally and must not narrow them. **Article XIV-A** info-sphere plurality, **Article XIV-B** contestability, and **Article XV-A** auditability floors are supplemented by Article XV's remaining transparency and verification provisions and implementation companion protocols for **high-impact** summarization, ranking, and mediation systems. **Article VIII-C** publication limits are elaborated in **Chapter Five**, section 3 — Dependent clusters ([Truth and Epistemic Integrity](core_05-05_definitions_c_dependent_clusters.md#truth-and-epistemic-integrity-cluster); **Publication and High-Impact Communication**).
 - **Intervention layering:** **PRIM8** and **PROT2** remain distinct architecture-layer vs governance-layer authorities and are jointly applicable where relevant.
 - **Voting / crypto / roles:** Voting requirements follow Sentient Constitution Chapter Eleven, section 4 — *Voting and Binding Collective Choice Protocols* (subsection **4.1 — Entitlement and eligibility** implements **Article IX-C**; subsection **4.2** states further tally and gate requirements). Crypto-verification outcomes follow Sentient Constitution Chapter Four, section 5.1 — *Cryptographic protection, credentials, and verification*. Roles and competency requirements follow Sentient Constitution Chapter Eleven, section 5 — *Authorized Roles, Competency Development, and Contribution*. This implementation companion implements those provisions; it does **not** create competing constitutional standards.
@@ -346,12 +346,12 @@ It must include explicit duration limits and sunset conditions, define review in
 
 Continuation without refreshed evidence at scheduled review is non-compliant.
 
-### 5. Prohibited punitive forms
-Implementations must **not** operationalize sanctions justified by vengeance or humiliation-as-an-end.
+### 5. Prohibited retaliatory forms
+Implementations must **not** operationalize restrictions, exclusions, or restorative-accountability measures justified by retaliatory grievance or humiliation-as-an-end.
 
-They must **not** rely on spectacle-only deterrence, discriminatory burdening, collective punishment, or administrative convenience.
+They must **not** rely on spectacle-only deterrence, discriminatory burdening, collective retaliation, or administrative convenience.
 
-Irreversible punitive outcomes are prohibited where feasible reversible alternatives exist.
+Irreversible restrictive outcomes are prohibited where feasible reversible restitution, remediation, or protection alternatives exist.
 
 ### 6. Voluntary public accountability expression
 Where restorative pathways include public acknowledgment or apology, systems must enforce voluntariness controls.
@@ -367,7 +367,7 @@ Those metrics include recurrence rates after intervention, restitution completio
 
 **Independence indicators** include recusal frequency, challenge-path utilization, and secondary-review reversal rates for materially impactful determinations.
 
-Patterns indicating punitive drift, discriminatory outcomes, or review non-performance require corrective action, escalation, and audit.
+Patterns indicating retaliatory drift, discriminatory outcomes, or review non-performance require corrective action, escalation, and audit.
 
 Apply **Article XV-A**, **Article XVIII-A**, **Article XXIII-A**, and the related Chapter Five review and remedy definitions where auditability, standing review, or justice review is implicated.
 

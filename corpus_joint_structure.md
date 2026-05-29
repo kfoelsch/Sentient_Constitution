@@ -598,7 +598,7 @@ Lock-in and anti-coercion safeguards
 
 Right-to-exit pathway integrity
 - OP-O: Exit is functionally available without violating Foundational Rights, with clear, time-bound pathways proportionate to impact, dependency, and feasibility.
-- OP-E: Evaluation must verify practical support for sentients and dependents to exit without undue delay, obstruction, coercion, loss of survival-critical access, or unjustified punitive standing effects.
+- OP-E: Evaluation must verify practical support for sentients and dependents to exit without undue delay, obstruction, coercion, loss of survival-critical access, or unjustified restrictive standing effects.
 - OP-C: It is non-compliant where exit is nominal but functionally blocked or coercively constrained.
 
 Portability quality and non-obstruction controls
@@ -1147,7 +1147,7 @@ Burden, proportionality, and enforcement selection
 
 Sanction validity and restoration conditions
 - OP-O: Non-trivial sanctions, exclusions, or comparable rights-affecting restrictions are supported by a reviewable record stating necessity, accountable attribution, remedy or forward-protective purpose, and restoration or recurrence-reduction conditions where reasonably feasible.
-- OP-E: Evaluation must verify sanction design is not punitive-only and that review cadence, sunset, or restoration conditions remain practically usable.
+- OP-E: Evaluation must verify sanction design is restitutionary, remedial, or forward-protective rather than retaliation-only, and that review cadence, sunset, or restoration conditions remain practically usable.
 - OP-C: It is non-compliant where materially rights-affecting restrictions are maintained without auditable basis, without meaningful review timing, or without any real path to correction when new evidence emerges.
 
 Restoration accessibility and remedy realism

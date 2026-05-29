@@ -114,7 +114,7 @@ Where amendment or adoption conduct indicates serious misconduct, a mandatory re
 
 <br>
 
-*In plain terms: Chapter Twelve can demand extra review, preserve evidence, or pause things when validity is in doubt — but it does not run parallel classification forums or invent new offense categories; anything that sounds like sentencing or final Violation Axis slot assignment still belongs to Chapters Six, Seven, and Eight.*
+*In plain terms: Chapter Twelve can demand extra review, preserve evidence, or pause things when validity is in doubt — but it does not run parallel classification forums or invent new offense categories; anything that sounds like final accountability disposition or final Violation Axis slot assignment still belongs to Chapters Six, Seven, and Eight.*
 
 This chapter may impose immediate validity-protection controls. Those controls include heightened review, provisional suspension where materially necessary, evidence preservation, and remediation publication.
 
@@ -627,7 +627,7 @@ Amendments take effect only on a stated effective date or event recorded in the 
 
 <br>
 
-*In plain terms: Chapter Fourteen owns how amendments are published, chained, reviewed, and ratified — not the full taxonomy of compliance violations or final Violation Axis s = 7, 8, or 9 anti-constitutional misconduct slots; escalation wording here is routing, not a second sentencing code.*
+*In plain terms: Chapter Fourteen owns how amendments are published, chained, reviewed, and ratified — not the full taxonomy of compliance violations or final Violation Axis s = 7, 8, or 9 anti-constitutional misconduct slots; escalation wording here is routing, not a second accountability-disposition code.*
 
 This chapter states **procedural and custody** validity and invalid-change-handling requirements only (Tests 2 through 4, review triggers, provisional effect, invalid-change remediation, ratification and adoption instruments, and amendment procedure requirements). It does **not** establish, restate, or expand:
 

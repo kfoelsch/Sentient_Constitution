@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/definition_registry.schema.json",
-  "generated_at": "2026-05-25T07:09:55+00:00",
+  "generated_at": "2026-05-29T11:05:29+00:00",
   "source": "authoritative Chapter Five core files",
   "definition_count": 198,
   "definitions": [
@@ -939,6 +939,19 @@
       "cluster_membership": null
     },
     {
+      "term": "Irreversible Deprivation Measure",
+      "source_file": "core_05-05_definitions_c_dependent_clusters.md",
+      "anchor": "#irreversible-deprivation-measure-constitutional",
+      "line_start": 1860,
+      "line_end": 1893,
+      "category": "dependent_cluster",
+      "cluster_membership": {
+        "cluster": "3.13 Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm",
+        "cluster_file": "core_05-05_definitions_c_dependent_clusters.md",
+        "line": 1742
+      }
+    },
+    {
       "term": "Irreversible Harm",
       "source_file": "core_05-05_definitions_c_dependent_clusters.md",
       "anchor": "#irreversible-harm",
@@ -949,19 +962,6 @@
         "cluster": "3.3 Collective Harm Boundary, Harm, and Harassment and Bullying",
         "cluster_file": "core_05-05_definitions_c_dependent_clusters.md",
         "line": 238
-      }
-    },
-    {
-      "term": "Irreversible Sanction",
-      "source_file": "core_05-05_definitions_c_dependent_clusters.md",
-      "anchor": "#irreversible-sanction-constitutional",
-      "line_start": 1860,
-      "line_end": 1893,
-      "category": "dependent_cluster",
-      "cluster_membership": {
-        "cluster": "3.13 Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm",
-        "cluster_file": "core_05-05_definitions_c_dependent_clusters.md",
-        "line": 1742
       }
     },
     {

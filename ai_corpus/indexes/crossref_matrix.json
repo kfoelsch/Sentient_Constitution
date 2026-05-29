@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/crossref_matrix.schema.json",
-  "generated_at": "2026-05-25T07:09:55+00:00",
+  "generated_at": "2026-05-29T11:05:29+00:00",
   "description": "Source-derived file-to-file Markdown reference graph.",
   "graph": {
     "nodes": [
@@ -700,8 +700,8 @@
               "#harassment-and-bullying",
               "#harm",
               "#high-impact-and-systemic-harm-publication-constraint",
+              "#irreversible-deprivation-measure-constitutional",
               "#irreversible-harm",
-              "#irreversible-sanction-constitutional",
               "#labor-and-economic-floor-cluster",
               "#leisure-and-rest-constitutional",
               "#likeness-and-documentary-depiction-interface-constitutional",
@@ -1273,7 +1273,7 @@
             "file": "core_10-10_rights_part_d.md",
             "count": 8,
             "anchors": [
-              "#article-xxiii-b-non-trivial-punishment-constraints",
+              "#article-xxiii-b-non-trivial-restriction-restitution-and-restorative-accountability-constraints",
               "#article-xxiii-c-least-restrictive-and-time-bounded-rule",
               "#article-xxiii-f-rights-collision-procedure-and-restorative-alignment",
               "#article-xxiv-constitutional-evolution-and-non-entrenchment",
@@ -1437,7 +1437,7 @@
             "count": 5,
             "anchors": [
               "#article-xxiii-a-justice-objective-and-scope",
-              "#article-xxiii-b-non-trivial-punishment-constraints",
+              "#article-xxiii-b-non-trivial-restriction-restitution-and-restorative-accountability-constraints",
               "#article-xxiii-c-least-restrictive-and-time-bounded-rule"
             ]
           },
@@ -1633,7 +1633,7 @@
             "count": 11,
             "anchors": [
               "#article-xxiii-a-justice-objective-and-scope",
-              "#article-xxiii-b-non-trivial-punishment-constraints",
+              "#article-xxiii-b-non-trivial-restriction-restitution-and-restorative-accountability-constraints",
               "#article-xxiii-c-least-restrictive-and-time-bounded-rule"
             ]
           },
@@ -2281,7 +2281,7 @@
           },
           {
             "file": "core_05-05_definitions_b_semi_independent.md",
-            "count": 385,
+            "count": 383,
             "anchors": [
               "#accountability",
               "#accountability-c",
@@ -2339,7 +2339,6 @@
               "#instantiation-consent-constitutional",
               "#instantiation-consent-constitutional-c",
               "#instantiation-consent-constitutional-e",
-              "#irreversible-sanction-constitutional",
               "#language-culture-and-heritage-constitutional",
               "#language-culture-and-heritage-constitutional-c",
               "#language-culture-and-heritage-constitutional-e",
@@ -2400,7 +2399,7 @@
           },
           {
             "file": "core_05-05_definitions_c_dependent_clusters.md",
-            "count": 111,
+            "count": 113,
             "anchors": [
               "#animal-life-sentient-life-and-sentience-status-cluster",
               "#anti-displacement-floor-constitutional",
@@ -2426,6 +2425,7 @@
               "#harm",
               "#harm-c",
               "#harm-e",
+              "#irreversible-deprivation-measure-constitutional",
               "#labor-and-economic-floor-cluster",
               "#participant-standing-constitutional",
               "#participant-standing-constitutional-c",
@@ -2567,7 +2567,7 @@
           },
           {
             "file": "core_05-05_definitions_b_semi_independent.md",
-            "count": 262,
+            "count": 255,
             "anchors": [
               "#accountability",
               "#accountability-c",
@@ -2602,7 +2602,6 @@
               "#ecological-footprint",
               "#ecological-footprint-c",
               "#ecological-footprint-e",
-              "#irreversible-sanction-constitutional",
               "#material-impact",
               "#material-impact-c",
               "#material-impact-e",
@@ -2661,7 +2660,7 @@
           },
           {
             "file": "core_05-05_definitions_c_dependent_clusters.md",
-            "count": 192,
+            "count": 199,
             "anchors": [
               "#auditability",
               "#auditability-c",
@@ -2680,6 +2679,7 @@
               "#forum-family-constitutional-c",
               "#forum-family-constitutional-e",
               "#governance-architecture-oversight-decentralization-and-concentration-cluster",
+              "#irreversible-deprivation-measure-constitutional",
               "#participant-standing-constitutional",
               "#participant-standing-constitutional-c",
               "#participant-standing-constitutional-e",
@@ -2771,7 +2771,7 @@
           },
           {
             "file": "core_05-05_definitions_b_semi_independent.md",
-            "count": 90,
+            "count": 89,
             "anchors": [
               "#accountability",
               "#accountability-c",
@@ -2791,7 +2791,6 @@
               "#governance",
               "#governance-c",
               "#governance-e",
-              "#irreversible-sanction-constitutional",
               "#procedural-fairness-constitutional",
               "#procedural-fairness-constitutional-c",
               "#procedural-fairness-constitutional-e",
@@ -2811,13 +2810,14 @@
           },
           {
             "file": "core_05-05_definitions_c_dependent_clusters.md",
-            "count": 26,
+            "count": 27,
             "anchors": [
               "#accountability-contestability-and-collective-accountability-failure-cluster",
               "#auditability",
               "#auditability-c",
               "#auditability-e",
               "#authority-stack",
+              "#irreversible-deprivation-measure-constitutional",
               "#transparency",
               "#transparency-c",
               "#transparency-e",

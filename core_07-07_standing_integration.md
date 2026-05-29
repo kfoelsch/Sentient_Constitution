@@ -195,7 +195,7 @@ Restoration may require completed correction, restitution, monitoring, safeguard
 
 - Upstream: [§1.1](#35-positive-standing-recognition)–[§1.3](#37-reinstatement-review-and-non-entrenchment); [§4.3](core_06-06_standing_assessment.md#4-axis-ii-violation-nature-legal-constitutional-type) (*violation nature*); [§4.2](#62-joint-assessment-escalation-constraints-and-scrutiny) (*violation assessment and standing-lock preparation*).
 - Downstream: [§3.2](#72-stackable-benefit-and-stewardship-descriptors-contribution-state-supplement); [§4.1](#38-standing-integration-contribution-and-violation-nature) (*standing integration — mechanics*); [§4.2](#62-joint-assessment-escalation-constraints-and-scrutiny) (*non-substitution and standing-lock preparation*).
-- Read with: [Contribution State](core_05-05_definitions_b_semi_independent.md#contribution-state) (*Chapter Five pointer — operative Contribution Axis text in **section 4.1***); [Article XXIII-B: Non-Trivial Punishment Constraints](core_10-10_rights_part_d.md#article-xxiii-b-non-trivial-punishment-constraints); [Article XXIII-C: Least-Restrictive and Time-Bounded Rule](core_10-10_rights_part_d.md#article-xxiii-c-least-restrictive-and-time-bounded-rule); [Harm](core_05-05_definitions_c_dependent_clusters.md#harm) · [O](core_05-05_definitions_c_dependent_clusters.md#harm) · [E](core_05-05_definitions_c_dependent_clusters.md#harm-e) · [C](core_05-05_definitions_c_dependent_clusters.md#harm-c).
+- Read with: [Contribution State](core_05-05_definitions_b_semi_independent.md#contribution-state) (*Chapter Five pointer — operative Contribution Axis text in **section 4.1***); [Article XXIII-B: Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints](core_10-10_rights_part_d.md#article-xxiii-b-non-trivial-restriction-restitution-and-restorative-accountability-constraints); [Article XXIII-C: Least-Restrictive and Time-Bounded Rule](core_10-10_rights_part_d.md#article-xxiii-c-least-restrictive-and-time-bounded-rule); [Harm](core_05-05_definitions_c_dependent_clusters.md#harm) · [O](core_05-05_definitions_c_dependent_clusters.md#harm) · [E](core_05-05_definitions_c_dependent_clusters.md#harm-e) · [C](core_05-05_definitions_c_dependent_clusters.md#harm-c).
 
 </details>
 
@@ -228,11 +228,11 @@ Restoration may require completed correction, restitution, monitoring, safeguard
 
 <br>
 
-*In plain terms: this section does **not** create a second violation ladder. It adds process and response character to findings — whether the finding mainly calls for repair, punitive or liberty-restricting safeguards, constitutional-floor priority, concurrent treatment, duty resistance, diffusion accountability, or negligence handling — while **section 4.3** remains the adverse severity ladder.*
+*In plain terms: this section does **not** create a second violation ladder. It adds process and response character to findings — whether the finding mainly calls for repair, coercive or liberty-restricting safeguards, constitutional-floor priority, concurrent treatment, duty resistance, diffusion accountability, or negligence handling — while **section 4.3** remains the adverse severity ladder.*
 
 #### Violation Axis attachment categories (process / response character, hybrid, duty, and diffusion — §§2.1–2.8)
 
-**Sections 2.1 through 2.8** state additional Violation Axis material: remedial / restorative and civil-correction character; punitive or liberty-restricting character; constitutional-floor character; concurrent character; constitutional floor priority; collective and duty-shaped violation nature; negligence and neglect. These attachment categories classify misconduct under constitutional principles, rights articles, and definitions. More than one category may apply to a single action, pattern, or bounded event. These categories **attach to** verified **violation nature**; they do **not** compete with the **section 4.3** severity ladder or supply final **Chapter Eight s = 7, 8, or 9** assignment. **How** those categories combine with **contribution state** and with **non-compliance ladder** severity is stated in [**§4.1**](#38-standing-integration-contribution-and-violation-nature) and [**§4.2**](#62-joint-assessment-escalation-constraints-and-scrutiny).
+**Sections 2.1 through 2.8** state additional Violation Axis material: remedial / restorative and civil-correction character; coercive or liberty-restricting safeguard character; constitutional-floor character; concurrent character; constitutional floor priority; collective and duty-shaped violation nature; negligence and neglect. These attachment categories classify misconduct under constitutional principles, rights articles, and definitions. More than one category may apply to a single action, pattern, or bounded event. These categories **attach to** verified **violation nature**; they do **not** compete with the **section 4.3** severity ladder or supply final **Chapter Eight s = 7, 8, or 9** assignment. **How** those categories combine with **contribution state** and with **non-compliance ladder** severity is stated in [**§4.1**](#38-standing-integration-contribution-and-violation-nature) and [**§4.2**](#62-joint-assessment-escalation-constraints-and-scrutiny).
 
 <a id="61-civil-violation"></a>
 <a id="61-remedial-restorative-and-civil-correction-character"></a>
@@ -251,7 +251,7 @@ Restoration may require completed correction, restitution, monitoring, safeguard
 
 <br>
 
-*In plain terms: this is the “make it right” character of a finding — duties, harms, remedies, restoration, compensation, injunctions, or equivalent civil correction — without needing to prove punitive culpability.*
+*In plain terms: this is the “make it right” character of a finding — duties, harms, remedies, restoration, compensation, injunctions, or equivalent civil correction — without needing to prove coercive-risk culpability.*
 
 <strong><span style="color: #2563eb;">Definition:</span></strong> [Harm](core_05-05_definitions_c_dependent_clusters.md#harm) · [O](core_05-05_definitions_c_dependent_clusters.md#harm) · [E](core_05-05_definitions_c_dependent_clusters.md#harm-e) · [C](core_05-05_definitions_c_dependent_clusters.md#harm-c)
 
@@ -259,15 +259,15 @@ A finding has **remedial, restorative, or civil-correction character** where the
 
 This character may attach to any applicable **section 4.3** severity level. It identifies required correction and **remedy** **path**; it does **not** by itself lower or raise the non-compliance severity classification.
 
-Punitive culpability need not be established for this character to apply.
+Coercive-risk culpability need not be established for this character to apply.
 
 Remedial obligation is not defeated by expense, insolvency, restructuring, or administrative inconvenience. Where a factory, institution, platform, or other actor creates pollution, injury, rights burdens, or systemic risk, the constitutional question is what repair, monitoring, compensation, prevention, or successor responsibility is required under verified facts and applicable law, not whether the responsible structure prefers to externalize the cost.
 
 <a id="62-criminal-violation"></a>
-<a id="62-punitive-or-liberty-restricting-character"></a>
+<a id="62-coercive-or-liberty-restricting-safeguard-character"></a>
 <a id="46-criminal-violation"></a>
 
-#### 2.2 Punitive or liberty-restricting character
+#### 2.2 Coercive or liberty-restricting safeguard character
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
@@ -279,13 +279,13 @@ Remedial obligation is not defeated by expense, insolvency, restructuring, or ad
 
 <br>
 
-*In plain terms: this character applies when punishment, detention, liberty restriction, or criminal-law-like response is in play; the point is to trigger full process protections, not to create a second finding of guilt inside Chapter Six.*
+*In plain terms: this character applies when coercive control, detention, liberty restriction, or comparable high-impact public-law response is in play; the point is to trigger full process protections, not to create a second finding of guilt inside Chapter Six.*
 
 <strong><span style="color: #2563eb;">Definition:</span></strong> [Coercion and Manipulation](core_05-05_definitions_b_semi_independent.md#coercion-and-manipulation-constitutional) · [O](core_05-05_definitions_b_semi_independent.md#coercion-and-manipulation-constitutional) · [E](core_05-05_definitions_b_semi_independent.md#coercion-and-manipulation-constitutional-e) · [C](core_05-05_definitions_b_semi_independent.md#coercion-and-manipulation-constitutional-c)
 
-A finding has **punitive or liberty-restricting character** where prohibited conduct, culpability, coercion, violence, credible threat, or comparable social danger makes punitive, detention, liberty-restricting, or criminal-law-like response possible under applicable law.
+A finding has **coercive or liberty-restricting safeguard character** where prohibited conduct, culpability, coercion, violence, credible threat, or comparable social danger makes detention, liberty-restricting, restorative-accountability, or comparable high-impact public-law response possible under applicable law.
 
-This character triggers criminal-process or equivalent constitutional protections before punitive or liberty-restricting consequences may be imposed. It does **not** replace the **section 4.3** severity ladder, and it does **not** itself issue a final criminal conviction where another lawfully constituted process is required.
+This character triggers criminal-process or equivalent constitutional protections before coercive, restorative-accountability, or liberty-restricting consequences may be imposed. It does **not** replace the **section 4.3** severity ladder, and it does **not** itself issue a final criminal conviction where another lawfully constituted process is required.
 
 <a id="63-constitutional-violation"></a>
 <a id="63-constitutional-floor-character"></a>
@@ -303,13 +303,13 @@ This character triggers criminal-process or equivalent constitutional protection
 
 <br>
 
-*In plain terms: this character applies when the finding implicates binding constitutional constraints, Rights Floors, supremacy, anti-evasion discipline, or challenge-and-remedy access — and it can ride alongside remedial or punitive-process character.*
+*In plain terms: this character applies when the finding implicates binding constitutional constraints, Rights Floors, supremacy, anti-evasion discipline, or challenge-and-remedy access — and it can ride alongside remedial or coercive-safeguard character.*
 
 <strong><span style="color: #2563eb;">Definition:</span></strong> [Constitutional Constraint Violation](core_05-05_definitions_c_dependent_clusters.md#constitutional-constraint-violation) · [O](core_05-05_definitions_c_dependent_clusters.md#constitutional-constraint-violation) · [E](core_05-05_definitions_c_dependent_clusters.md#constitutional-constraint-violation-e) · [C](core_05-05_definitions_c_dependent_clusters.md#constitutional-constraint-violation-c)
 
 A finding has **constitutional-floor character** where it violates binding constitutional constraints, Rights Floors, anti-evasion requirements, challenge-and-remedy access, or supremacy and binding-effect conditions.
 
-The same conduct may also have remedial / restorative or punitive / liberty-restricting character. Constitutional-floor character does **not** by itself supply final **Chapter Eight s = 7, 8, or 9** assignment.
+The same conduct may also have remedial / restorative or coercive / liberty-restricting safeguard character. Constitutional-floor character does **not** by itself supply final **Chapter Eight s = 7, 8, or 9** assignment.
 
 <a id="64-concurrent-and-hybrid-violations"></a>
 <a id="64-concurrent-character-and-non-exclusivity"></a>
@@ -327,7 +327,7 @@ The same conduct may also have remedial / restorative or punitive / liberty-rest
 
 <br>
 
-*In plain terms: real misconduct is often **more than one kind at once** — the model allows remedial, punitive-process, constitutional-floor, duty, diffusion, and descriptor character to stack when the facts support it.*
+*In plain terms: real misconduct is often **more than one kind at once** — the model allows remedial, coercive-safeguard, constitutional-floor, duty, diffusion, and descriptor character to stack when the facts support it.*
 
 A single pattern of conduct may carry multiple process / response characters at once. Classification must not force exclusivity where concurrent character is warranted by facts, impact, applicable law, or required safeguards. Concurrent character remains separately traceable from the **section 4.3** severity level and from any final **Chapter Eight s = 7, 8, or 9** assignment.
 
@@ -346,9 +346,9 @@ A single pattern of conduct may carry multiple process / response characters at 
 
 <br>
 
-*In plain terms: ordinary remedial, punitive, or domain-specific processes **cannot** lawfully produce outcomes **below** constitutional floors — domain silos are not an end-run.*
+*In plain terms: ordinary remedial, restrictive, or domain-specific processes **cannot** lawfully produce outcomes **below** constitutional floors — domain silos are not an end-run.*
 
-Where ordinary remedial, punitive, or domain-specific treatment would permit outcomes below constitutional constraints, constitutional requirements govern. No domain-specific process may narrow, waive, or undercut non-negotiable constitutional protections.
+Where ordinary remedial, restrictive, or domain-specific treatment would permit outcomes below constitutional constraints, constitutional requirements govern. No domain-specific process may narrow, waive, or undercut non-negotiable constitutional protections.
 
 <a id="410-collective-accountability-and-acquiescent-participation"></a>
 <a id="310-collective-accountability-and-acquiescent-participation"></a>
@@ -436,7 +436,7 @@ They must use protected reporting and adjudication pathways where applicable.
 
 Negligence and neglect are independently classifiable violation natures where duty, foreseeability, and feasible capacity to prevent, mitigate, or escalate material harm were present.
 
-They may co-occur with remedial, punitive-process, constitutional-floor, duty, diffusion, or descriptor character, and they must not be treated as mere procedural error when resulting or foreseeable harm is material.
+They may co-occur with remedial, coercive-safeguard, constitutional-floor, duty, diffusion, or descriptor character, and they must not be treated as mere procedural error when resulting or foreseeable harm is material.
 
 
 <a id="7-supplemental-descriptors-and-domain-lenses"></a>
@@ -484,7 +484,7 @@ The table below is the canonical descriptor catalog for this section. It does no
 | --- | --- |
 | **Peace of body, mind, and/or community** — nonviolent de-escalation and mediation; protective accompaniment where appropriate; stabilization and care after **kinetic** harm; planning and support that respect **bodily integrity**, **psychological safety**, and **community** calm, and that avoid unnecessary restraint. | **Violent Misconduct** — when force, credible threat of force, or conduct whose reasonably foreseeable **harm** runs through **bodily integrity**, **severe physical restraint**, or comparable **direct kinetic** injury to **sentient** or, within applicable scope, **ecological** subjects. |
 | **Reliable Relationships** — strengthens **role-integrity**, **consent-aligned** care and **caretaking**, **fiduciary reliability**, or **supported agency** in **relational proximity**, **dependency**, or **trust-asymmetric** settings, including **pattern-interrupting** safeguards where historically at risk. | **Interpersonal Misconduct** — when **harm**, **unmet** **duties**, or a **pattern** of misconduct runs through **relational proximity**, intimacy, **dependency**, **fiduciary or trust role**, **caretaking** relationships, domestic or household context, or comparable **role-asymmetric** settings — including **exploitation**; **coercion** or **manipulation**; **betrayal** of **care**, **caretaking**, or **role** duties; **isolation** or **undermining** of **supported agency**; or **misuse** of **trust** or **caretaker** authority; **whether or not** another descriptor also applies. |
-| **Remedial and restorative benefit** — measurable **repair**, **compensation**, **restoration**, or **remediation-in-kind** that reduces ongoing rights burdens or material harm within applicable scope. | **Remedial, restorative, and civil-correction character** — when the dominant response character is correction, repair, restoration, compensation, safeguard implementation, or comparable harm reduction under **§2.1** and applicable violation typing. |
+| **Remedial and restorative benefit** — measurable **repair**, **compensation**, **restoration**, or **remediation-in-kind** that reduces ongoing rights burdens or material harm within applicable scope. | **Remedially correctable misconduct** — when the verified violation affects rights, fails applicable duties, or produces harm in a way that requires correction, repair, restoration, compensation, safeguard implementation, or comparable harm reduction under **§2.1** and applicable violation typing. |
 | **Resourceful Stewardship** — demonstrable good through **conscientious stewardship**, **inclusive allocation**, **custodial reliability**, or **resource and instrument** protection within adopted property and stewardship rules. | **Property Misconduct** — when **harm** runs through **unauthorized taking, destruction, exclusion, or wrongful transfer** of possessions, resources, instruments, or comparable **allocative** interests. |
 | **Info-Sphere Integrity** — demonstrable good through **records fidelity**, **communications integrity**, **accessible transparency**, **identity integrity**, or comparable **informational** strengthening within adopted scope. | **Info-Sphere Misconduct** — when **harm** runs through **records**, **communications integrity**, **informational access**, **data stewardship**, **identity integrity**, or comparable **informational** interests (including technical opacity, forgery, suppression, or **materially misleading** systemic representations). |
 | **System Optimization** — reduces **distributed** or **structural** risk **across** roles, components, or institutions through **prevention**, **coordination**, and **durably observable** process repair, **including** **demonstrable** **improvements** to **performance**, **efficiency**, **or** **durability** where **effects** are **validated** under [Auditability](core_05-05_definitions_c_dependent_clusters.md#auditability) and [Contestability](core_05-05_definitions_b_semi_independent.md#contestability) ([Chapter Five](core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions)), **read with** **§3.1** and **Table 2**. | **System Misconduct** — **violation** scope **when** **harm**, **unmet** **duties**, or a **pattern** of **wrongdoing** is **distributed**, **institutionalized**, **pattern-based**, or **structurally** enabled **across** roles or components, **including** **diffused** accountability **or** **misconduct** **carried** **or** **sustained** **through** **established** **roles**, **policies**, **workflows**, **or** **command** **and** **resource** **chains**. |
@@ -592,7 +592,7 @@ Where multiple descriptors apply, the **primary** **harm** route **or** **primar
 
 - Upstream: [§4.1](core_06-06_standing_assessment.md#3-axis-i-contribution-state-and-standing-effect) through [§2](#6-extended-axis-ii-legal-hybrid-duty-and-harm-descriptors) (*primary categories, standing effects, and Violation Axis attachments*); [§1.4](#38-standing-integration-category-hook) (*standing integration — Contribution Axis hook*); [§3.1](#71-shared-domain-lenses-cross-axis-vocabulary) (*cross-axis domain lens vocabulary*); [§3.2](#72-stackable-benefit-and-stewardship-descriptors-contribution-state-supplement) (*contribution-state supplemental descriptors*); [§3.3](#73-stackable-harm-and-conduct-descriptors-violation-nature-supplement) (*violation-nature supplemental descriptors read with dominant-purpose routing*).
 - Downstream: [§4.1](#38-standing-integration-contribution-and-violation-nature) (*standing integration computation*); [§4.2](#62-joint-assessment-escalation-constraints-and-scrutiny) (*violation assessment and non-substitution preparation*); [§4.3](#standing-integration-slot-band-standing-locks) (*standing locks*); [§5](#8-enforcement-realism-anchors) (*implementation realism*); [Chapter Nine](core_09-09_forum.md#chapter-nine-forums-and-jurisdiction) (*forums applying this classification stack*).
-- Read with: [Article XXIII-B: Non-Trivial Punishment Constraints](core_10-10_rights_part_d.md#article-xxiii-b-non-trivial-punishment-constraints) and [Article XXIII-C: Least-Restrictive and Time-Bounded Rule](core_10-10_rights_part_d.md#article-xxiii-c-least-restrictive-and-time-bounded-rule) (*escalation governs scrutiny, not automatic harsher punishment*).
+- Read with: [Article XXIII-B: Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints](core_10-10_rights_part_d.md#article-xxiii-b-non-trivial-restriction-restitution-and-restorative-accountability-constraints) and [Article XXIII-C: Least-Restrictive and Time-Bounded Rule](core_10-10_rights_part_d.md#article-xxiii-c-least-restrictive-and-time-bounded-rule) (*escalation governs scrutiny, not automatic harsher restriction*).
 
 </details>
 
@@ -663,7 +663,7 @@ Standing-lock assignment is based only on **violation nature**: verified violati
 
 The standing record must identify the highest applicable non-compliance category under full functional system conditions, without down-classification through fragmentation, relabeling, averaging, local optimization, scope narrowing, procedural substitution, delayed-effect omission, jurisdiction shopping, shell structures, contractual layering, nominal ownership transfer, or positive-contribution offset.
 
-The lock band governs scrutiny intensity, review depth, safeguards, and the trust-, role-, credit-, or recognition-linked upside that remains unavailable while the verified violation finding is unresolved. It must not be interpreted as automatic authorization for harsher punitive treatment, and it must not depend on the subject's contribution state. **Article XXIII-B** and **Article XXIII-C** necessity, proportionality, and restorative-accountability constraints still govern punitive treatment.
+The lock band governs scrutiny intensity, review depth, safeguards, and the trust-, role-, credit-, or recognition-linked upside that remains unavailable while the verified violation finding is unresolved. It must not be interpreted as automatic authorization for harsher restrictive treatment, and it must not depend on the subject's contribution state. **Article XXIII-B** and **Article XXIII-C** necessity, proportionality, restitution, and restorative-accountability constraints still govern restrictive treatment.
 
 <a id="9-additive-and-non-substitution-rule"></a>
 <a id="7-additive-and-non-substitution-rule"></a>
@@ -680,7 +680,7 @@ This model is additive and non-exhaustive: lower-severity labels, positive stand
 
 - Upstream: [§4.3](core_06-06_standing_assessment.md#4-axis-ii-violation-nature-legal-constitutional-type) (*violation nature*); [§2](#6-extended-axis-ii-legal-hybrid-duty-and-harm-descriptors) (*process / response character and violation attachments*); [§3.3](#73-stackable-harm-and-conduct-descriptors-violation-nature-supplement) (*violation-nature supplemental descriptors*); [§4.2](#62-joint-assessment-escalation-constraints-and-scrutiny) (*standing-lock preparation and non-substitution discipline*).
 - Downstream: [§3.2](#72-stackable-benefit-and-stewardship-descriptors-contribution-state-supplement); [§5](#8-enforcement-realism-anchors).
-- Read with: [Contribution State](core_05-05_definitions_b_semi_independent.md#contribution-state) (*Chapter Five pointer — operative Contribution Axis text in **section 4.1***); [Article XXIII-B: Non-Trivial Punishment Constraints](core_10-10_rights_part_d.md#article-xxiii-b-non-trivial-punishment-constraints); [Article XXIII-C: Least-Restrictive and Time-Bounded Rule](core_10-10_rights_part_d.md#article-xxiii-c-least-restrictive-and-time-bounded-rule); [Harm](core_05-05_definitions_c_dependent_clusters.md#harm) · [O](core_05-05_definitions_c_dependent_clusters.md#harm) · [E](core_05-05_definitions_c_dependent_clusters.md#harm-e) · [C](core_05-05_definitions_c_dependent_clusters.md#harm-c).
+- Read with: [Contribution State](core_05-05_definitions_b_semi_independent.md#contribution-state) (*Chapter Five pointer — operative Contribution Axis text in **section 4.1***); [Article XXIII-B: Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints](core_10-10_rights_part_d.md#article-xxiii-b-non-trivial-restriction-restitution-and-restorative-accountability-constraints); [Article XXIII-C: Least-Restrictive and Time-Bounded Rule](core_10-10_rights_part_d.md#article-xxiii-c-least-restrictive-and-time-bounded-rule); [Harm](core_05-05_definitions_c_dependent_clusters.md#harm) · [O](core_05-05_definitions_c_dependent_clusters.md#harm) · [E](core_05-05_definitions_c_dependent_clusters.md#harm-e) · [C](core_05-05_definitions_c_dependent_clusters.md#harm-c).
 
 </details>
 
@@ -717,7 +717,7 @@ The rule is simple:
 | --- | --- | --- |
 | **Slots 1–2** — Formal or remedial non-compliance | **Correction Lock** | Baseline trust may remain available while correction, repair, and audit proceed. Contribution may support correction and remedial credibility, but the correction obligation remains independently enforceable. |
 | **Slots 3–4** — Significant substantive, duty-based, or negligent-harm violation | **Restriction Lock** | Trust-, role-, or recognition-linked upside is limited until the substantive violation, duty failure, preventable harm, and recurrence risk are remedied, supervised where needed, and reviewable. |
-| **Slots 5–6** — Aggravated, coercive, punitive-process, or liberty-risk violation | **Safeguard Lock** | Contribution may be recorded, but heightened scrutiny and required safeguards control before trust-, role-, or recognition-linked upside may be applied. Contribution cannot soften required criminal-process or equivalent protections. |
+| **Slots 5–6** — Aggravated, coercive, safeguard-process, or liberty-risk violation | **Safeguard Lock** | Contribution may be recorded, but heightened scrutiny and required safeguards control before trust-, role-, or recognition-linked upside may be applied. Contribution cannot soften required criminal-process or equivalent protections. |
 | **Slots 7–9** — Serious, grave, or pernicious anti-constitutional misconduct | **Anti-Constitutional Lock** | Anti-constitutional findings control standing. Contribution cannot dilute, rehabilitate, offset, or normalize the finding. It may matter only through remedy, learning, review, later reinstatement where lawful, or a later lawful record that resolves or supersedes the finding under Chapter Eight, this section, and Article XXIII. |
 
 Each **standing lock** must state the standing effect it blocks or limits, the affected subjects or interests it protects, the correction or remediation required, the review path, and the point at which reassessment becomes available. Where Chapter Eight or Article XXIII bars or tightly constrains reinstatement, that bar or constraint controls.
@@ -800,7 +800,7 @@ Constitutional rights are only real if someone can invoke them, verify them, fun
 
 - Upstream: [§1](core_06-06_standing_assessment.md#1-purpose-and-role) (*contribution state, violation nature, and general classification*); [§4](#8-cross-axis-coupling-and-escalation-constraints) (*escalation and scrutiny*).
 - Downstream: [Chapter Eight](core_08-08_misconduct.md#chapter-eight-anti-constitutional-misconduct) (*sole home for final **Violation Axis s = 7, 8, and 9** anti-constitutional misconduct criteria, slot assignment, due-process safeguards, and cross-chapter discipline*); [Chapter Nine](core_09-09_forum.md#chapter-nine-forums-and-jurisdiction) (*Integrity lead and certification where Chapter Eight slot classification is dominant stake*).
-- Read with: [Article XXIII-B](core_10-10_rights_part_d.md#article-xxiii-b-non-trivial-punishment-constraints) (*slot-linked punishment constraints — do not replace individualized justice requirements*).
+- Read with: [Article XXIII-B](core_10-10_rights_part_d.md#article-xxiii-b-non-trivial-restriction-restitution-and-restorative-accountability-constraints) (*slot-linked restriction, restitution, and restorative-accountability constraints — do not replace individualized justice requirements*).
 
 </details>
 

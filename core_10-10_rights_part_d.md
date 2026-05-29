@@ -60,7 +60,8 @@ Adopted governance implementation provides escalation, proportionality of interv
   - reduce recurrence through rehabilitation where feasible;
   - maintain accountable attribution under **Chapter Six** (*Contribution, Violation, and Standing Model*).
 - **Anti-cruelty floor:** Justice must not be administered to inflict suffering as an end in itself.
-#### Article XXIII-B: Non-Trivial Punishment Constraints
+<a id="article-xxiii-b-non-trivial-restriction-restitution-and-restorative-accountability-constraints"></a>
+#### Article XXIII-B: Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
@@ -79,7 +80,7 @@ Adopted governance implementation provides escalation, proportionality of interv
 
 <br>
 
-*In plain terms: serious restrictions on a sentient must simultaneously be safety-necessary, proportionate, remedial, individualized, and supported by real evidence. Deprivation of life as a sanction is absolutely off-limits — no tier, emergency, or transition reopens it.*
+*In plain terms: serious restrictions on a sentient must simultaneously be safety-necessary, proportionate, restorative, individualized, and supported by real evidence. Deprivation of life as a justice measure is absolutely off-limits — no tier, emergency, or transition reopens it.*
 
 - **Scope:** Non-trivial deprivations and restrictions include limitations on:
   - freedom;
@@ -97,15 +98,15 @@ Adopted governance implementation provides escalation, proportionality of interv
   - Severity labels, public condemnation, or administrative convenience do not substitute for the joint showing above.
 - **Anti-constitutional misconduct (slot anchor):** **Chapter Eight** (*Anti-Constitutional Misconduct*) classifies **anti-constitutional misconduct** using the criteria in **section 2**, **unified-incident** assessment, and final **Violation Axis s = 7, 8, or 9** slot assignment in **section 3**.
   - That includes anti-constitutional misconduct in **constitutional change** under **Chapters Twelve through Fourteen**, and **forcible subversion**, **operative nullification**, or **regressive deception** evaluated **globally** where those criteria are implicated.
-  - For **maximum-sanction** rules in this Article:
+  - For **maximum-restriction** rules in this Article:
     - **s = 8** (*Defector: mid-level anti-constitutional misconduct*) and **s = 9** (*Defector: major-level anti-constitutional misconduct*) are the **constitutional-crime-level** slots;
     - **s = 7** (*Defector: minor-level anti-constitutional misconduct*) is not.
   - No final **s = 8** or **s = 9** assignment may issue except under **Chapter Eight §4**.
 - **Slot-limit clarification:** A **Chapter Eight** slot classification is a threshold condition only.
   - It does **not** replace the **joint requirements**, individualized attribution, or challenge and appeal protections in this Article.
-  - No slot assignment — including **s = 8** or **s = 9** — authorizes irreversible sanction as deprivation of life. The *Categorical prohibition of irreversible sanction as deprivation of life* bullet below governs.
-- **Categorical prohibition of irreversible sanction as deprivation of life:** Deprivation of life as a sanction by state, operator, or comparable actor is **non-compliant without exception** under **Sentience Non-Exclusion**.
-  - No mechanism re-introduces the sanction or creates a durable exception authority. In scope:
+  - No slot assignment — including **s = 8** or **s = 9** — authorizes irreversible deprivation of life as a justice measure. The *Categorical prohibition of irreversible deprivation of life as a justice measure* bullet below governs.
+- **Categorical prohibition of irreversible deprivation of life as a justice measure:** Deprivation of life as a justice measure by state, operator, or comparable actor is **non-compliant without exception** under **Sentience Non-Exclusion**.
+  - No mechanism re-introduces the measure or creates a durable exception authority. In scope:
     - **Chapter Eight** slot classification (including **s = 8** or **s = 9**);
     - **Article XXIII-D** emergency framing;
     - **Article XXV** transition or re-baselining authority;
@@ -113,8 +114,8 @@ Adopted governance implementation provides escalation, proportionality of interv
   - Where the underlying concern is material safety necessity that cannot be met through time-limited or reversible measures, **durable containment** under **Article XXIII-C** (*Least-Restrictive and Time-Bounded Rule*) is the Chapter Ten pathway. Such containment remains subject to:
     - the *Joint requirements*, *Individualized burden*, and *Escalation and Review* bullets of this Article and **Article XXIII-C**;
     - **Chapter Five** *Reversibility*, *Redress and Remediation*, and *Dignity and Equal Moral Standing*.
-  - Adopter instruments that currently permit the sanction transition under **Chapter Fifteen** incorporation discipline — strictest-applicable-level per §3 and the **Chapter Twelve** non-regression floor. This transition **does not** create a durable exception authority under **Article XXV**.
-  - Read with **Chapter Five** *[Irreversible Sanction](core_05-05_definitions_b_semi_independent.md#irreversible-sanction-constitutional)*.
+  - Adopter instruments that currently permit the prohibited measure transition under **Chapter Fifteen** incorporation discipline — strictest-applicable-level per §3 and the **Chapter Twelve** non-regression floor. This transition **does not** create a durable exception authority under **Article XXV**.
+  - Read with **Chapter Five** *[Irreversible Deprivation Measure](core_05-05_definitions_c_dependent_clusters.md#irreversible-deprivation-measure-constitutional)*.
   - **Anti-relabeling:** Any framing that re-labels an involuntarily-imposed outcome as "voluntary" to route around this bullet and into **Article VII-E** remains governed by this bullet and by **Chapter Five** *Voluntary Discontinuation*.
     - The sentient's own freely-formed decision remains governed by **Article VII-E**.
     - Any conversion of that decision into a non-voluntary outcome by state, operator, or comparable actor returns the question to this bullet.
@@ -145,24 +146,24 @@ Adopted governance implementation provides escalation, proportionality of interv
   - restoration conditions.
 - **Non-compliant measures:** The following are non-compliant:
   - indefinite severe restrictions;
-  - irreversible punitive measures where reversibility is feasible;
+  - irreversible restrictive measures where reversible restitution, remediation, or protection is feasible;
   - restrictions lacking auditable re-evaluation triggers.
-- **Deprivation of life:** Deprivation of life as a sanction is **categorically prohibited** under **Article XXIII-B** (*Categorical prohibition of irreversible sanction as deprivation of life*).
+- **Deprivation of life:** Deprivation of life as a justice measure is **categorically prohibited** under **Article XXIII-B** (*Categorical prohibition of irreversible deprivation of life as a justice measure*).
   - **Durable containment** under this bullet — subject to duration-limit, review-cadence, restoration-condition, and auditable-re-evaluation requirements — is the Chapter Ten pathway for threats that cannot be addressed by time-limited or reversible measures.
-- **Prohibited punitive bases:** Sanctions or restrictions must not be justified by any of the following:
-  - vengeance;
+- **Prohibited justice bases:** Restrictions, exclusions, or comparable justice measures must not be justified by any of the following:
+  - retaliatory grievance;
   - humiliation-for-its-own-sake;
   - spectacle-for-deterrence;
   - procedural convenience;
   - discriminatory burdening;
-  - collective punishment.
+  - collective retaliation.
   
-  No sanction may reduce:
+  No justice measure may reduce:
   - baseline dignity protections;
   - minimum subsistence access;
   - core challenge rights and appeal rights.
-- **Baseline dignity, subsistence, and challenge rights apply throughout:** **Baseline dignity protections**, **minimum subsistence access**, and **core challenge rights and appeal rights** remain **fully** applicable throughout imposition, review, and carrying out of any sanction or containment measure under this Article and **Article XXIII-B**.
-- **Conduct constraints in carrying out sanction:** **Degrading treatment**, **spectacle-for-deterrence**, **humiliation-for-its-own-sake**, and **procedural convenience** in imposing or carrying out any sanction remain non-compliant.
+- **Baseline dignity, subsistence, and challenge rights apply throughout:** **Baseline dignity protections**, **minimum subsistence access**, and **core challenge rights and appeal rights** remain **fully** applicable throughout imposition, review, and carrying out of any restriction, containment, or restorative-accountability measure under this Article and **Article XXIII-B**.
+- **Conduct constraints in carrying out justice measures:** **Degrading treatment**, **spectacle-for-deterrence**, **humiliation-for-its-own-sake**, and **procedural convenience** in imposing or carrying out any restriction, containment, or restorative-accountability measure remain non-compliant.
 - **Escalation and review:** Affected parties must have access to escalation paths proportionate to impact.
   - Access includes appeal or multi-layer review where material interests are at stake.
   - Affected parties must receive:
@@ -501,7 +502,7 @@ Transitional governance exists to secure continuity and non-regression. It must 
 
 <br>
 
-*In plain terms: non-compliant systems and property can be remediated during transition — but only through narrow, documented, reviewable processes that protect basic rights, bar pretext, and do not turn into punishment or political targeting.*
+*In plain terms: non-compliant systems and property can be remediated during transition — but only through narrow, documented, reviewable processes that protect basic rights, bar pretext, and do not turn into retaliation or political targeting.*
 
 - **Possession and remediation interface:** Lawful possession and use of assets are protected against **arbitrary** deprivation.
   - Read with:
@@ -520,9 +521,9 @@ Transitional governance exists to secure continuity and non-regression. It must 
     - least-restrictive feasible alternatives;
     - time-bounds.
   - **Notice and contest:** Prompt notice, stated reasons, and a practicable contest path must be provided as soon as feasible consistent with harm prevention and evidence integrity.
-  - **Punitive-effect rule:** A **punitive** primary effect triggers **Article XXIII-B** and **Article XXIII-C**.
+  - **Restrictive-effect rule:** A deprivation or restriction whose primary effect exceeds remediation, restitution, preservation, or forward protection triggers **Article XXIII-B** and **Article XXIII-C**.
   - **Anti-pretext:** Safeguards must exist against **discriminatory**, **pretextual**, or **selective** enforcement under **Articles V-B** and **IV-B** and **Chapter Five** *Substantive Fairness*.
-  - **Remedial vs. punitive standards:** **Remedial containment** to stop harm, restore shared integrity, or preserve evidence is judged under remedial standards.
+  - **Remedial vs. restrictive standards:** **Remedial containment** to stop harm, restore shared integrity, or preserve evidence is judged under remedial standards.
   - **Heightened threshold for destructive disposition:** **Permanent forfeiture**, **destructive disposition**, or **broad economic stripping** requires:
     - heightened justification;
     - independent review;

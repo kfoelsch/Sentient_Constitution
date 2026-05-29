@@ -9,7 +9,7 @@
 When someone violates the constitution, the violation isn't just "bad"—it has a *character* that tells us what kind of response is appropriate. Think of these as labels that describe:
 
 - **What the violation did** (harm to rights, harm to people, harm to the system itself)
-- **What kind of response it calls for** (repair, punishment, protection, or a mix)
+- **What kind of response it calls for** (repair, restitution, protection, safeguards, or a mix)
 - **Who else was involved** (just one person, or a group?)
 - **How serious the underlying duty was** (careless mistake vs. deliberate wrong)
 
@@ -21,7 +21,7 @@ These sections (5.1–5.8) describe eight different "attachment categories" that
 
 ### What This Means in Plain Language
 
-This label applies when someone needs to **make things right**—not necessarily be punished. It's the "fix it" character of a violation.
+This label applies when someone needs to **make things right**. It's the "fix it" character of a violation.
 
 ### When This Applies
 
@@ -45,37 +45,37 @@ This label applies when someone needs to **make things right**—not necessarily
 
 ### Simple Example
 
-> A company dumps chemicals that pollute a community's water supply. Even if they didn't *intend* to harm anyone, the remedial character means they must clean up the water, pay for health monitoring, and compensate affected families. Whether they also face criminal charges (punitive character) is a separate question.
+> A company dumps chemicals that pollute a community's water supply. Even if they didn't *intend* to harm anyone, the remedial character means they must clean up the water, pay for health monitoring, and compensate affected families. Whether coercive or liberty-restricting safeguards are also required is a separate question.
 
 ---
 
-## 5.2 Punitive or Liberty-Restricting Character
+## 5.2 Coercive or Liberty-Restricting Safeguard Character
 
 ### What This Means in Plain Language
 
-This label applies when the violation is serious enough that **punishment, detention, or restrictions on freedom** might be appropriate responses. It's the "criminal justice" character of a violation.
+This label applies when the violation is serious enough that **coercive control, detention, or restrictions on freedom** might be considered to protect safety, secure restitution, or reduce recurrence. It is the safeguard character of a violation, not a license to retaliate.
 
 ### When This Applies
 
 - The conduct was prohibited and the person knew (or should have known) it was wrong
 - There was coercion, violence, or credible threats
 - The conduct creates serious danger to society
-- Criminal-law-like consequences (prison, fines, restrictions) are being considered
+- High-impact public-law consequences such as detention, restitution orders, supervised restriction, or comparable measures are being considered
 
 ### What This Triggers
 
-- **Full criminal process protections** must be available before any punishment or liberty restrictions are imposed
+- **Full criminal-process or equivalent protections** must be available before any coercive or liberty-restricting measures are imposed
 - This includes things like: presumption of innocence, right to counsel, fair trial, proof beyond reasonable doubt
 
 ### Key Points
 
-- **This label doesn't automatically mean someone is convicted of a crime.** It just means the *possibility* of criminal punishment exists, so full protections are required.
+- **This label doesn't automatically mean someone is convicted of a crime.** It means the possible response is serious enough that full protections are required.
 - **This doesn't replace the main severity scale (slots 1–9).** It's an additional label describing the *type* of response needed.
-- **Punishment cannot happen without due process.** The label triggers protections, not automatic punishment.
+- **Coercive or liberty-restricting measures cannot happen without due process.** The label triggers protections, not automatic restriction.
 
 ### Simple Example
 
-> Someone uses threats of violence to force others to hand over money. This violation carries punitive character because criminal punishment (prison) is a possible response. Before any sentence is imposed, they must receive all criminal process protections. The violation might also carry remedial character (paying back the victims), and these two characters coexist.
+> Someone uses threats of violence to force others to hand over money. This violation carries coercive or liberty-restricting safeguard character because a high-impact public-law response may be considered. Before any such measure is imposed, they must receive all required process protections. The violation also carries remedial character because restitution to affected people remains independently required.
 
 ---
 
@@ -95,13 +95,13 @@ This label applies when the violation touches **fundamental constitutional prote
 
 ### Key Points
 
-- **This can coexist with remedial or punitive character.** A violation can be both "needs repair" AND "affects constitutional foundations."
+- **This can coexist with remedial or coercive-safeguard character.** A violation can be both "needs repair" AND "affects constitutional foundations."
 - **This doesn't by itself determine the final severity (slot 7, 8, or 9).** That assignment happens in Chapter Eight.
 - **Constitutional floors are non-negotiable.** No process, agreement, or excuse can override them.
 
 ### Simple Example
 
-> A local government passes a rule saying residents cannot challenge official decisions in forum. This violates the constitutional right to challenge and seek redress. The violation has constitutional-floor character because it threatens the foundation of constitutional governance—even if no one was physically harmed. It likely also has remedial character (the rule must be struck down) and possibly punitive character (officials who knowingly enforced it might face consequences).
+> A local government passes a rule saying residents cannot challenge official decisions in forum. This violates the constitutional right to challenge and seek redress. The violation has constitutional-floor character because it threatens the foundation of constitutional governance, even if no one was physically harmed. It likely also has remedial character because the rule must be struck down, and may carry coercive-safeguard character if officials knowingly enforced it through serious rights-affecting measures.
 
 ---
 
@@ -119,7 +119,7 @@ This label applies when the violation touches **fundamental constitutional prote
 
 ### Key Points
 
-- **Concurrent character stays separately traceable from the severity level.** You track the severity (slot 1–9) AND the characters (remedial, punitive, constitutional-floor, etc.) as separate dimensions.
+- **Concurrent character stays separately traceable from the severity level.** You track the severity (slot 1–9) AND the characters (remedial, coercive-safeguard, constitutional-floor, etc.) as separate dimensions.
 - **This doesn't create a second severity ladder.** Section 3.3's slot scale is still the main measure of severity.
 - **Apply all labels that fit.** Don't narrow a complex violation down to just one category if multiple apply.
 
@@ -127,7 +127,7 @@ This label applies when the violation touches **fundamental constitutional prote
 
 > A police officer fabricates evidence to convict an innocent person:
 > - **Remedial character:** The wrongfully convicted person must be freed and compensated
-> - **Punitive character:** The officer may face criminal prosecution for their conduct
+> - **Coercive-safeguard character:** The officer may face a high-impact accountability process for their conduct
 > - **Constitutional-floor character:** The fabrication violates fundamental justice protections
 > 
 > All three labels apply. You don't have to choose just one.
@@ -142,7 +142,7 @@ This label applies when the violation touches **fundamental constitutional prote
 
 ### The Rule
 
-Where normal remedial, punitive, or domain-specific processes would allow outcomes **below constitutional constraints**, the constitutional requirements **override** those processes.
+Where normal remedial, restrictive, or domain-specific processes would allow outcomes **below constitutional constraints**, the constitutional requirements **override** those processes.
 
 ### What This Prohibits
 
@@ -313,7 +313,7 @@ Negligence often combines with other violation types:
 | Combined With | What That Looks Like |
 |---------------|----------------------|
 | **Remedial character** | You need to fix the harm you caused by your inaction |
-| **Punitive character** | Your carelessness was so extreme it deserves punishment |
+| **Coercive-safeguard character** | Your carelessness was so extreme that stronger safeguards, supervision, or accountability process may be required |
 | **Collective accountability** | Multiple people failed to act; blame is shared |
 | **Constitutional-floor character** | Your neglect undermined fundamental rights or protections |
 
@@ -358,7 +358,7 @@ In this example, all four labels apply to the same violation at severity slot 4.
 - Holding all responsible parties accountable (collective accountability)
 - Addressing the systemic carelessness that allowed it (negligence)
 
-These labels help ensure responses are **complete and appropriate**—not just punishments, but repairs; not just individual blame, but systemic accountability; not just process, but constitutional fidelity.
+These labels help ensure responses are **complete and appropriate**: restitution and repairs, not retaliation; systemic accountability, not only individual blame; constitutional fidelity, not process for its own sake.
 
 ---
 
@@ -367,7 +367,7 @@ These labels help ensure responses are **complete and appropriate**—not just p
 | Section | Label | Simple Meaning | Key Trigger |
 |---------|-------|----------------|-------------|
 | 5.1 | Remedial/Restorative | Make it right | Rights violated, harm caused |
-| 5.2 | Punitive/Liberty-Restricting | Criminal-justice response | Culpability, coercion, social danger |
+| 5.2 | Coercive/Liberty-Restricting Safeguard | High-impact safeguard response | Culpability, coercion, social danger |
 | 5.3 | Constitutional-Floor | Affects fundamental protections | Violates non-negotiable rights/rules |
 | 5.4 | Concurrent/Non-Exclusive | Multiple labels can apply | Facts support multiple characters |
 | 5.5 | Constitutional Floor Rule | No process can go below constitutional minimum | Domain-specific process threatens to undercut rights |
