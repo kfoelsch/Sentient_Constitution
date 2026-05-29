@@ -1156,7 +1156,7 @@ This cluster is the joint-invocation home for contribution state, standing recor
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Canonical owner: [Chapter Seven §1.1A](core_07-07_standing_integration.md#competency-gates) (*competency gates*).
+- Canonical owner: [Chapter Seven §1.2](core_07-07_standing_integration.md#competency-gates) (*competency gates*).
 - Read with: the [Standing State, Contribution, and Violation cluster](#standing-state-contribution-and-violation-cluster), [Contribution State](#contribution-state), [Standing Effect](#standing-effect-chapter-six), [Standing Record](#standing-record-chapter-six), [Standing Lock](#standing-lock), [Participant Standing](#participant-standing-constitutional), [Auditability](#auditability), [Contestability](core_05-05_definitions_b_semi_independent.md#contestability), [Materiality Determination](core_05-05_definitions_b_semi_independent.md#materiality-determination), and [Transparency](#transparency).
 
 </details>
