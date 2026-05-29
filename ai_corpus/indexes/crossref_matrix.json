@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/crossref_matrix.schema.json",
-  "generated_at": "2026-05-29T11:05:29+00:00",
+  "generated_at": "2026-05-29T12:21:39+00:00",
   "description": "Source-derived file-to-file Markdown reference graph.",
   "graph": {
     "nodes": [
@@ -1402,7 +1402,6 @@
               "#38-standing-integration-contribution-and-violation-nature",
               "#5-standing-effects",
               "#6-extended-axis-ii-legal-hybrid-duty-and-harm-descriptors",
-              "#7-supplemental-descriptors-and-domain-lenses",
               "#73-stackable-harm-and-conduct-descriptors-violation-nature-supplement",
               "#8-cross-axis-coupling-and-escalation-constraints",
               "#8-enforcement-realism-anchors",
@@ -1503,7 +1502,7 @@
           },
           {
             "file": "core_05-05_definitions_a_independent.md",
-            "count": 52,
+            "count": 64,
             "anchors": [
               "#chapter-five-foundational-definitions",
               "#feasibility",
@@ -1522,7 +1521,7 @@
           },
           {
             "file": "core_05-05_definitions_b_semi_independent.md",
-            "count": 116,
+            "count": 120,
             "anchors": [
               "#accountability",
               "#accountability-c",
@@ -1556,7 +1555,7 @@
           },
           {
             "file": "core_05-05_definitions_c_dependent_clusters.md",
-            "count": 98,
+            "count": 103,
             "anchors": [
               "#auditability",
               "#auditability-c",
@@ -1575,6 +1574,9 @@
               "#harm",
               "#harm-c",
               "#harm-e",
+              "#standing-lock",
+              "#standing-lock-c",
+              "#standing-lock-e",
               "#supremacy-and-enforceability",
               "#transparency",
               "#transparency-c",
@@ -1585,7 +1587,7 @@
           },
           {
             "file": "core_06-06_standing_assessment.md",
-            "count": 29,
+            "count": 31,
             "anchors": [
               "##41-formal-non-compliance",
               "##42-remedial-substantive-non-compliance",
@@ -1600,7 +1602,7 @@
           },
           {
             "file": "core_08-08_misconduct.md",
-            "count": 13,
+            "count": 14,
             "anchors": [
               "#62-rights-floor-waivers-and-unconstitutional-contract-terms",
               "#66-unlawful-or-unconstitutional-command-conduct",
@@ -1630,7 +1632,7 @@
           },
           {
             "file": "core_10-10_rights_part_d.md",
-            "count": 11,
+            "count": 13,
             "anchors": [
               "#article-xxiii-a-justice-objective-and-scope",
               "#article-xxiii-b-non-trivial-restriction-restitution-and-restorative-accountability-constraints",
