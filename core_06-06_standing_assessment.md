@@ -95,7 +95,7 @@ Upstream constitutional direction for this file begins in [core_00-01_principles
 This chapter defines a unified constitutional model with two aligned axes, which combine into **standing effect**: 
 
 - **(I) contribution state**: **positive-only** — baseline and uplift
-- **(II) violation nature**: **adverse** findings — non-compliance severity, process / response character, and supplements. 
+- **(II) violation nature**: **adverse** findings — Violation Axis severity, process / response character, and supplements. 
 
 This chapter establishes constitutional meaning only. Procedural scoring, escalation workflows, restitution, remediation operations, restorative-accountability measures, and incentives belong in adopted implementation text and, where applicable, in [corpus_systems.md](corpus_systems.md), [corpus_forum.md](corpus_forum.md), [corpus_institutions.md](corpus_institutions.md), and [corpus_joint_structure.md](corpus_joint_structure.md), as designated in [doc_architecture.md](doc_architecture.md) section 4.
 
@@ -114,7 +114,7 @@ The model is also built to avoid predictable enforcement failures. Contribution-
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [§1](#1-purpose-and-role) (*two-axis frame*); [Chapters Two through Four](core_02-04_definition_mechanics.md) (*record, verification, and tracing discipline*).
-- Downstream: [§3](#3-verified-inputs-forums-and-no-offset-rules) (*verified-input gate, forum boundary, and no-offset bridge*); [§4.0](#30-slot-grammar-and-display-labels) (*slot grammar and display labels*); [§4.1](#3-primary-category-defaults-and-lequ-slot-baseline) (*primary category defaults, LEQU baseline, and Contribution Axis primary bands*); [§4.3](#4-axis-ii-violation-nature-legal-constitutional-type) (*Violation Axis non-compliance ladder*); [Chapter Seven §1](core_07-07_standing_integration.md#5-standing-effects) (*standing effects*); [Chapter Seven §4](core_07-07_standing_integration.md#8-cross-axis-coupling-and-escalation-constraints) (*joint assessment*).
+- Downstream: [§3](#3-verified-inputs-forums-and-no-offset-rules) (*verified-input gate, forum boundary, and no-offset bridge*); [§4.0](#30-slot-grammar-and-display-labels) (*slot grammar and display labels*); [§4.1](#3-primary-category-defaults-and-lequ-slot-baseline) (*primary category defaults, LEQU baseline, and Contribution Axis primary bands*); [§4.3](#4-axis-ii-violation-nature-legal-constitutional-type) (*Violation Axis severity ladder*); [Chapter Seven §1](core_07-07_standing_integration.md#5-standing-effects) (*standing effects*); [Chapter Seven §4](core_07-07_standing_integration.md#8-cross-axis-coupling-and-escalation-constraints) (*joint assessment*).
 
 </details>
 
@@ -224,7 +224,7 @@ The following must remain visible enough for future changes to be checked rather
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [§2](#2-standing-records) (*standing records as the unit of application and operational record requirements*); [Chapters Two through Four](core_02-04_definition_mechanics.md) (*record, verification, and tracing discipline*).
-- Downstream: [§4.0](#30-slot-grammar-and-display-labels) (*slot grammar and display labels*); [§4.1](#3-primary-category-defaults-and-lequ-slot-baseline) (*primary category defaults, LEQU baseline, and Contribution Axis primary bands*); [§4.3](#4-axis-ii-violation-nature-legal-constitutional-type) (*Violation Axis non-compliance ladder*); [Chapter Seven §1](core_07-07_standing_integration.md#5-standing-effects) (*standing effects*); [Chapter Seven §4](core_07-07_standing_integration.md#8-cross-axis-coupling-and-escalation-constraints) (*joint assessment*).
+- Downstream: [§4.0](#30-slot-grammar-and-display-labels) (*slot grammar and display labels*); [§4.1](#3-primary-category-defaults-and-lequ-slot-baseline) (*primary category defaults, LEQU baseline, and Contribution Axis primary bands*); [§4.3](#4-axis-ii-violation-nature-legal-constitutional-type) (*Violation Axis severity ladder*); [Chapter Seven §1](core_07-07_standing_integration.md#5-standing-effects) (*standing effects*); [Chapter Seven §4](core_07-07_standing_integration.md#8-cross-axis-coupling-and-escalation-constraints) (*joint assessment*).
 - Read with: [Chapter Nine](core_09-09_forum.md#chapter-nine-forums-and-jurisdiction) (*forums separate*).
 
 </details>
@@ -533,7 +533,7 @@ Adopted implementation may publish calibrated units, evidentiary methods, and ex
 
 *In plain terms: **Violation nature** is the adverse side of the model. To decide which slot a verified violation belongs in, this section reads harm and danger through the same LEQU idea used in **section 4.2**, but on the loss side: roughly, whether conduct impaired, destroyed, wrongfully consumed, or foreclosed constitutional wellbeing. Accusations and routing labels do not count; only verified findings do. Chapter Seven section 3 adds process and response tags, but it does not create a second severity ladder.*
 
-The slot scale measures verified constitutional loss, harm, waste, foreclosure, or danger, not disfavored status, allegation, retaliation preference, or moral dislike alone. **Violation nature** includes non-compliance severity under this section, process / response character under **Chapter Seven section 3**, and hybrid, duty, diffusion, negligence, and descriptor material where facts warrant.
+The slot scale measures verified constitutional loss, harm, waste, foreclosure, or danger, not disfavored status, allegation, retaliation preference, or moral dislike alone. **Violation nature** includes Violation Axis severity under this section, process / response character under **Chapter Seven section 3**, and hybrid, duty, diffusion, negligence, and descriptor material where facts warrant.
 
 For this section, a **full-life-equivalent constitutional loss** means verified harm, waste, destruction, foreclosure, deprivation, or risk realization comparable to destroying, wrongfully consuming, or preventing one full-life-equivalent constitutional benefit. Adopted implementation may express comparable loss in LEQU-equivalent terms for transparent calibration. The unit is substrate-agnostic. A current adopter may use an ordinary human lifespan as a calibration example for biological-human contexts, but the binding baseline is sentient and constitutional, not species-bound.
 

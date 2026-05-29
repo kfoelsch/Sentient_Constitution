@@ -242,7 +242,7 @@ Restoration may require completed correction, restitution, monitoring, safeguard
 
 *In plain terms: **Standing integration** is the **name** for the situation where **both** **contribution state** and **violation nature** matter to **standing effect** — the **rules** for how they **combine** (recency, asymmetry, no netting) are **not** restated here; they live in [**§4.1**](#38-standing-integration-contribution-and-violation-nature).*
 
-**Standing integration** names the joint use of **contribution state** (Contribution Axis) with [**verified violation findings**](core_05-05_definitions_b_semi_independent.md#verified-violation-findings) (Violation Axis) when determining **standing effect** on trust-, role-, and recognition-eligibility. Operative integration mechanics — including **recency weighting**, **violation-weighted asymmetry**, and **non-netting** against the **highest applicable** non-compliance classification — are stated in [**§4.1**](#38-standing-integration-contribution-and-violation-nature) and [**§4.2**](#62-joint-assessment-escalation-constraints-and-scrutiny).
+**Standing integration** names the joint use of **contribution state** (Contribution Axis) with [**verified violation findings**](core_05-05_definitions_b_semi_independent.md#verified-violation-findings) (Violation Axis) when determining **standing effect** on trust-, role-, and recognition-eligibility. Operative integration mechanics — including **recency weighting**, **violation-weighted asymmetry**, and **non-netting** against the **highest applicable** violation classification — are stated in [**§4.1**](#38-standing-integration-contribution-and-violation-nature) and [**§4.2**](#62-joint-assessment-escalation-constraints-and-scrutiny).
 
 
 <a id="7-supplemental-descriptors-and-domain-lenses"></a>
@@ -273,7 +273,7 @@ Restoration may require completed correction, restitution, monitoring, safeguard
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [§1](core_06-06_standing_assessment.md#1-purpose-and-role) (*purpose and constitutional-meaning-only scope*).
-- Downstream: [§4.1](core_06-06_standing_assessment.md#3-axis-i-contribution-state-and-standing-effect) (*Contribution Axis — primary contribution bands*); [§4.3](core_06-06_standing_assessment.md#4-axis-ii-violation-nature-legal-constitutional-type) (*Violation Axis — non-compliance ladder*); [§2.2](#72-stackable-benefit-and-stewardship-descriptors-contribution-state-supplement) (*Contribution Axis supplements*); [§2.3](#violation-side-descriptor-application-location) (*violation-side counterpart location*); [§3.9](#73-stackable-harm-and-conduct-descriptors-violation-nature-supplement) (*Violation Axis supplements*); [§4](#8-cross-axis-coupling-and-escalation-constraints) (*mechanics*).
+- Downstream: [§4.1](core_06-06_standing_assessment.md#3-axis-i-contribution-state-and-standing-effect) (*Contribution Axis — primary contribution bands*); [§4.3](core_06-06_standing_assessment.md#4-axis-ii-violation-nature-legal-constitutional-type) (*Violation Axis severity ladder*); [§2.2](#72-stackable-benefit-and-stewardship-descriptors-contribution-state-supplement) (*Contribution Axis supplements*); [§2.3](#violation-side-descriptor-application-location) (*violation-side counterpart location*); [§3.9](#73-stackable-harm-and-conduct-descriptors-violation-nature-supplement) (*Violation Axis supplements*); [§4](#8-cross-axis-coupling-and-escalation-constraints) (*mechanics*).
 - Read with: [Chapter Eight](core_08-08_misconduct.md#chapter-eight-anti-constitutional-misconduct) (*authoritative Violation Axis s = 7, 8, and 9 anti-constitutional misconduct home*); [Trustworthiness](core_05-05_definitions_c_dependent_clusters.md#trustworthiness) — [psychological safety and substantive agency (evaluation)](core_05-05_definitions_c_dependent_clusters.md#trustworthiness-e) (*aligns **psychological safety** in the domain-lens table with [Chapter Five](core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions)*).
 
 </details>
@@ -284,7 +284,7 @@ Restoration may require completed correction, restitution, monitoring, safeguard
 
 **What these terms mean.** The **Contribution Axis** classifies positive contribution. The **Violation Axis** classifies violation nature. These descriptors help describe the domain, route, or character of conduct on either axis.
 
-The table below is the canonical descriptor catalog for this section. It does not replace primary contribution bands, non-compliance severity, process / response character under **section 3**, or Chapter Eight slot assignment.
+The table below is the canonical descriptor catalog for this section. It does not replace primary contribution bands, Violation Axis severity, process / response character under **section 3**, or Chapter Eight slot assignment.
 
 | Contribution Axis — prosocial supplements ([§2.2](#72-stackable-benefit-and-stewardship-descriptors-contribution-state-supplement)) | Violation Axis — adverse supplements ([§3.9](#73-stackable-harm-and-conduct-descriptors-violation-nature-supplement)) and related primary typing |
 | --- | --- |
@@ -383,7 +383,7 @@ This subsection is a location rule only. It does not create another violation ca
 
 #### Violation Axis attachment categories (process / response character, hybrid, duty, and diffusion — §§3.1–3.8)
 
-**Sections 3.1 through 3.8** state additional Violation Axis material: remedial / restorative and civil-correction character; coercive or liberty-restricting safeguard character; constitutional-floor character; concurrent character; constitutional floor priority; collective and duty-shaped violation nature; negligence and neglect. These attachment categories classify misconduct under constitutional principles, rights articles, and definitions. More than one category may apply to a single action, pattern, or bounded event. These categories **attach to** verified **violation nature**; they do **not** compete with the **section 4.3** severity ladder or supply final **Chapter Eight s = 7, 8, or 9** assignment. **How** those categories combine with **contribution state** and with **non-compliance ladder** severity is stated in [**§4.1**](#38-standing-integration-contribution-and-violation-nature) and [**§4.2**](#62-joint-assessment-escalation-constraints-and-scrutiny).
+**Sections 3.1 through 3.8** state additional Violation Axis material: remedial / restorative and civil-correction character; coercive or liberty-restricting safeguard character; constitutional-floor character; concurrent character; constitutional floor priority; collective and duty-shaped violation nature; negligence and neglect. These attachment categories classify misconduct under constitutional principles, rights articles, and definitions. More than one category may apply to a single action, pattern, or bounded event. These categories **attach to** verified **violation nature**; they do **not** compete with the **section 4.3** severity ladder or supply final **Chapter Eight s = 7, 8, or 9** assignment. **How** those categories combine with **contribution state** and with **Violation Axis** severity is stated in [**§4.1**](#38-standing-integration-contribution-and-violation-nature) and [**§4.2**](#62-joint-assessment-escalation-constraints-and-scrutiny).
 
 <a id="61-civil-violation"></a>
 <a id="61-remedial-restorative-and-civil-correction-character"></a>
@@ -408,7 +408,7 @@ This subsection is a location rule only. It does not create another violation ca
 
 A finding has **remedial, restorative, or civil-correction character** where the violation affects rights, fails to meet applicable duties, or produces harm in a way that calls for repair, compensation, restoration, injunctive constraint, supervision, or equivalent civil correction.
 
-This character may attach to any applicable **section 4.3** severity level. It identifies required correction and **remedy** **path**; it does **not** by itself lower or raise the non-compliance severity classification.
+This character may attach to any applicable **section 4.3** severity level. It identifies required correction and **remedy** **path**; it does **not** by itself lower or raise the Violation Axis severity classification.
 
 Coercive-risk culpability need not be established for this character to apply.
 
@@ -678,7 +678,7 @@ Where multiple descriptors apply, the **primary** **harm** route **or** **primar
 
 Process / response character and supplemental descriptors remain dependent detail within the relevant primary axis record; they do not create additional primary axes. Competency gates likewise do not replace Contribution Axis classification; they state whether verified competence, experience, and current good-standing criteria open a role- or trust-sensitive pathway after any standing lock has been assigned.
 
-Positive contribution may support trust-, role-, credit-, or recognition-linked upside only where the verified violation record permits it. It must not waive a Rights Floor, dilute a verified violation finding, lower the highest applicable non-compliance category, average away a pattern, or substitute for correction, remediation, safeguard implementation, review, or lawful supersession.
+Positive contribution may support trust-, role-, credit-, or recognition-linked upside only where the verified violation record permits it. It must not waive a Rights Floor, dilute a verified violation finding, lower the highest applicable violation category, average away a pattern, or substitute for correction, remediation, safeguard implementation, review, or lawful supersession.
 
 Only verified findings affect standing. Allegations, preliminary classifications, investigation labels, triage tags, and provisional forum-routing descriptions may justify process, preservation, temporary safeguards, or scrutiny where otherwise lawful, but they do not create, reduce, or otherwise alter standing unless and until a competent forum or adopting process resolves them into verified findings. Automated, formulaic, or scoring-based standing systems must expose the inputs, weights, rules, and review path used to produce any standing effect.
 
@@ -712,9 +712,9 @@ Verified unresolved violations are not time-discounted merely because time has p
 
 This subsection prepares the standing-lock assignment in **section 4.3**. It does not restate the verified-input gate, the Contribution Axis bands, the Violation Axis severity ladder, or the process / response character rules. Those rules remain in **Chapter Six section 4.3**, this chapter **section 3**, and this chapter **section 2**.
 
-Standing-lock assignment is based only on **violation nature**: verified violation findings, the highest applicable non-compliance category, any lock-relevant process / response character, and any lock-relevant supplemental violation descriptor. **Contribution state** must be recorded separately where it exists, but it is not an input to lock assignment.
+Standing-lock assignment is based only on **violation nature**: verified violation findings, the highest applicable violation category, any lock-relevant process / response character, and any lock-relevant supplemental violation descriptor. **Contribution state** must be recorded separately where it exists, but it is not an input to lock assignment.
 
-The standing record must identify the highest applicable non-compliance category under full functional system conditions, without down-classification through fragmentation, relabeling, averaging, local optimization, scope narrowing, procedural substitution, delayed-effect omission, jurisdiction shopping, shell structures, contractual layering, nominal ownership transfer, or positive-contribution offset.
+The standing record must identify the highest applicable violation category under full functional system conditions, without down-classification through fragmentation, relabeling, averaging, local optimization, scope narrowing, procedural substitution, delayed-effect omission, jurisdiction shopping, shell structures, contractual layering, nominal ownership transfer, or positive-contribution offset.
 
 The lock band governs scrutiny intensity, review depth, safeguards, and the trust-, role-, credit-, or recognition-linked upside that remains unavailable while the verified violation finding is unresolved. It must not be interpreted as automatic authorization for harsher restrictive treatment, and it must not depend on the subject's contribution state. **Article XXIII-B** and **Article XXIII-C** necessity, proportionality, restitution, and restorative-accountability constraints still govern restrictive treatment.
 
@@ -762,7 +762,7 @@ The rule is simple:
 2. Apply the **section 4.2** violation-assessment checks to identify the lock band.
 3. Record verified **contribution state** separately, where it exists.
 4. Let contribution affect standing only after the lock has been assigned and only where the lock permits it.
-5. Do not use contribution to waive a Rights Floor, dilute a verified finding, lower the slot, or average away the highest applicable non-compliance category.
+5. Do not use contribution to waive a Rights Floor, dilute a verified finding, lower the slot, or average away the highest applicable violation category.
 
 **Standing lock map.**
 
