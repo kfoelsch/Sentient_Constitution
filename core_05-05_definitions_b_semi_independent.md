@@ -191,7 +191,7 @@ Below, entries are **grouped by topic** for reading convenience (non-operative o
 
 - Downstream: Principles: [3. Non-Negotiable Constraints: Safety and Truth](core_00-01_principles.md#3-non-negotiable-constraints-safety-and-truth) and [7.1 Required Evaluation Factors](core_00-01_principles.md#71-required-evaluation-factors), where reporting supplies safety, truth, accountability, or material-risk evidence.
 - Cluster component: [the dependent cluster *Protected Reporting and Anti-Retaliation*](core_05-05_definitions_b_semi_independent.md#protected-reporting-semi-independent).
-- Read with: [Accountability](#accountability), [Contestability](#contestability), [Auditability](core_05-05_definitions_c_dependent_clusters.md#auditability), [Transparency](core_05-05_definitions_c_dependent_clusters.md#transparency), [Redress and Remediation](core_05-05_definitions_a_independent.md#redress-and-remediation-constitutional), and [Protected Reporting Retaliation and Access Interference](#protected-reporting-retaliation-and-access-interference).
+- Read with: [Accountability](#accountability), [Contestability](#contestability), [Auditability](core_05-05_definitions_c_dependent_clusters.md#auditability), [Evidence Preservation](core_05-05_definitions_c_dependent_clusters.md#evidence-preservation), [Transparency](core_05-05_definitions_c_dependent_clusters.md#transparency), [Redress and Remediation](core_05-05_definitions_a_independent.md#redress-and-remediation-constitutional), and [Protected Reporting Retaliation and Access Interference](#protected-reporting-retaliation-and-access-interference).
 
 </details>
 
@@ -199,7 +199,7 @@ Below, entries are **grouped by topic** for reading convenience (non-operative o
 
 - O: A protected disclosure or escalation by a sentient, stakeholder, worker, participant, auditor, or comparable actor concerning reasonably suspected constitutional non-compliance, material harm, safety failure, truth failure, corruption, capture, abuse, retaliation, or obstruction of required review.
 <a id="protected-reporting-whistleblowing-e"></a>
-- E: Evaluate substance over form. Protected reporting includes internal escalation, external reporting to authorized oversight or forum pathways, evidence preservation, and good-faith participation in audit or review. Protection does not depend on perfect legal characterization where the reporter had a reasonable basis and used a proportionate channel under the circumstances.
+- E: Evaluate substance over form. Protected reporting includes internal escalation, external reporting to authorized oversight or forum pathways, [Evidence Preservation](core_05-05_definitions_c_dependent_clusters.md#evidence-preservation), and good-faith participation in audit or review. Protection does not depend on perfect legal characterization where the reporter had a reasonable basis and used a proportionate channel under the circumstances.
 <a id="protected-reporting-whistleblowing-c"></a>
 - C: Non-compliant: suppressing, burdening, burying, or refusing to receive protected reporting; treating good-faith reporting as misconduct solely because it exposes institutional or system failure; or conditioning access to remedy on silence where accountability, safety, or truth duties require disclosure.
 
@@ -214,13 +214,13 @@ Below, entries are **grouped by topic** for reading convenience (non-operative o
 
 - Downstream: Principles: [6. Interaction and Conflict Resolution](core_00-01_principles.md#6-interaction-and-conflict-resolution) and [7.2 Incentive Alignment and System Capture](core_00-01_principles.md#72-incentive-alignment-and-system-capture), where retaliation or access interference distorts challenge and accountability pathways.
 - Cluster component: [the dependent cluster *Protected Reporting and Anti-Retaliation*](core_05-05_definitions_b_semi_independent.md#protected-reporting-semi-independent).
-- Read with: [Protected Reporting (Whistleblowing)](#protected-reporting-whistleblowing), [Contestability](#contestability), [Accountability](#accountability), [Procedural Fairness](#procedural-fairness-constitutional), [Redress and Remediation](core_05-05_definitions_a_independent.md#redress-and-remediation-constitutional), and [System Capture](core_05-05_definitions_a_independent.md#system-capture).
+- Read with: [Protected Reporting (Whistleblowing)](#protected-reporting-whistleblowing), [Contestability](#contestability), [Accountability](#accountability), [Evidence Preservation](core_05-05_definitions_c_dependent_clusters.md#evidence-preservation), [Procedural Fairness](#procedural-fairness-constitutional), [Redress and Remediation](core_05-05_definitions_a_independent.md#redress-and-remediation-constitutional), and [System Capture](core_05-05_definitions_a_independent.md#system-capture).
 
 </details>
 
 <br>
 
-- O: Retaliation, threat, penalty, exclusion, reputation damage, access denial, record manipulation, or process obstruction materially connected to protected reporting, evidence preservation, audit participation, challenge, review, or remediation access.
+- O: Retaliation, threat, penalty, exclusion, reputation damage, access denial, record manipulation, or process obstruction materially connected to protected reporting, [Evidence Preservation](core_05-05_definitions_c_dependent_clusters.md#evidence-preservation), audit participation, challenge, review, or remediation access.
 <a id="protected-reporting-retaliation-and-access-interference-e"></a>
 - E: Reach indirect and delayed reprisals, including altered work allocation, forum access barriers, credential or standing degradation, platform throttling, dependency-based pressure, confidentiality misuse, and procedural delay designed to exhaust the reporter or claimant. Treat access interference as retaliation-adjacent where it functionally prevents reporting, review, or remedy.
 <a id="protected-reporting-retaliation-and-access-interference-c"></a>

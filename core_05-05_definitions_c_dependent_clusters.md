@@ -1331,11 +1331,11 @@ This cluster is the joint-invocation home for contribution state, standing recor
 
 #### 3.10 Transparency, Auditability, and Verification
 
-This cluster is the joint-invocation home for disclosure, audit, observability, verification mechanics, and proportionate
-assurance depth where Chapters Two through Four require traceable, contestable evidence of system behavior and compliance claims.
+This cluster is the joint-invocation home for disclosure, evidence preservation, audit, observability, verification mechanics, and
+proportionate assurance depth where Chapters Two through Four require traceable, contestable evidence of system behavior and compliance claims.
 
 **Admission scope.** This cluster applies where a matter materially concerns transparency of materially decision-relevant
-behavior, auditability and reconstructor-grade records, evaluation completeness against plausible failure modes, observable
+behavior, evidence preservation, auditability and reconstructor-grade records, evaluation completeness against plausible failure modes, observable
 indicators, independent verification, or verification accessibility and independence under scaled or adversarial conditions.
 Outside that admission scope, individual entries may still operate as supporting Independent Definitions without importing the whole cluster.
 
@@ -1348,6 +1348,7 @@ independent verification rigor, and audit scope sufficiency than lower-class sys
 
 - [Transparency](#transparency);
 - [Auditability](#auditability);
+- [Evidence Preservation](#evidence-preservation);
 - [Audit Scope Sufficiency](#audit-scope-sufficiency);
 - [Evaluation Completeness Constraint](#evaluation-completeness-constraint);
 - [Observability](#observability);
@@ -1358,10 +1359,10 @@ independent verification rigor, and audit scope sufficiency than lower-class sys
 - [Verification Proportionality](#verification-proportionality);
 - [Verification Robustness](#verification-robustness).
 
-**Read-with definitions.** Apply [Accountability](core_05-05_definitions_b_semi_independent.md#accountability), [Contestability](core_05-05_definitions_b_semi_independent.md#contestability), [Materiality Determination](core_05-05_definitions_b_semi_independent.md#materiality-determination), [Risk](core_05-05_definitions_a_independent.md#risk), [Safety (Constraint)](core_05-05_definitions_a_independent.md#safety-constraint), [Truth (Constitutional Constraint)](#truth-constitutional-constraint), [Epistemic Integrity](#epistemic-integrity), and Chapters Two through Four mechanics where materially implicated.
+**Read-with definitions.** Apply [Accountability](core_05-05_definitions_b_semi_independent.md#accountability), [Contestability](core_05-05_definitions_b_semi_independent.md#contestability), [Procedural Fairness](core_05-05_definitions_b_semi_independent.md#procedural-fairness-constitutional), [Protected Reporting (Whistleblowing)](core_05-05_definitions_b_semi_independent.md#protected-reporting-whistleblowing), [Materiality Determination](core_05-05_definitions_b_semi_independent.md#materiality-determination), [Risk](core_05-05_definitions_a_independent.md#risk), [Safety (Constraint)](core_05-05_definitions_a_independent.md#safety-constraint), [Truth (Constitutional Constraint)](#truth-constitutional-constraint), [Epistemic Integrity](#epistemic-integrity), and Chapters Two through Four mechanics where materially implicated.
 
 **Joint invocation and anti-bypass.** Under §3.0.1, a matter within the admission scope must not be segmented into separate
-disclosure, logging, metrics, audit sampling, verification UX, or independence questions in a way that satisfies a nominal channel
+disclosure, preservation, logging, metrics, audit sampling, verification UX, or independence questions in a way that satisfies a nominal channel
 while defeating practical reconstructability, contestability, or proportionate assurance depth.
 
 ---
@@ -1417,6 +1418,29 @@ while defeating practical reconstructability, contestability, or proportionate a
 - E: Must function across relevant conditions and [Stakeholders](core_05-05_definitions_b_semi_independent.md#stakeholder), including conditions relevant to [Contestability](core_05-05_definitions_b_semi_independent.md#contestability) and [Oversight](core_05-05_definitions_a_independent.md#oversight-constitutional). Where stewardship relies on repeated comparable measures of materially relevant behavior, audit paths should support review of whether variation-over-time monitoring and threshold-triggered follow-through are present and proportionate when claimed ([Chapter One §5.2.3](core_00-01_principles.md#523-institutional-development); [Observability](#observability); [Proportionality](core_05-05_definitions_a_independent.md#proportionality)).
 <a id="auditability-c"></a>
 - C: Non-compliant: non-functional audit mechanisms; failure to enable practical reconstruction and evaluation.
+
+---
+
+<a id="evidence-preservation"></a>
+##### Evidence Preservation
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Downstream: Principles: [3. Non-Negotiable Constraints: Safety and Truth](core_00-01_principles.md#3-non-negotiable-constraints-safety-and-truth), [6. Interaction and Conflict Resolution](core_00-01_principles.md#6-interaction-and-conflict-resolution), and [6.2.1 Preservation of Epistemic Integrity](core_00-01_principles.md#621-preservation-of-epistemic-integrity), where materially relevant evidence must remain available for truth, safety, review, and correction.
+- Cluster component: [Chapter Five §3.10 *Transparency, Auditability, and Verification*](#transparency-auditability-and-verification-cluster).
+- Read with: [Auditability](#auditability), [Verifiability](#verifiability), [Transparency](#transparency), [Accountability](core_05-05_definitions_b_semi_independent.md#accountability), [Contestability](core_05-05_definitions_b_semi_independent.md#contestability), [Procedural Fairness](core_05-05_definitions_b_semi_independent.md#procedural-fairness-constitutional), [Protected Reporting (Whistleblowing)](core_05-05_definitions_b_semi_independent.md#protected-reporting-whistleblowing), and [Redress and Remediation](core_05-05_definitions_a_independent.md#redress-and-remediation-constitutional).
+
+</details>
+
+<br>
+
+- O: A duty to identify, secure, maintain, and make reviewably available materially relevant records, artifacts, logs, provenance data, testimony, system states, custody information, and exculpatory or mitigating material needed for constitutional review, contestability, accountability, remediation, misconduct routing, or standing assessment.
+<a id="evidence-preservation-e"></a>
+- E: Preservation must be prompt, proportionate to materiality and risk, custody-traceable, tamper-evident where feasible, and protective of privacy, safety, security, and protected reporting. It includes preventing deletion, alteration, selective retention, access obstruction, or loss of reconstructability once a material constitutional issue is reasonably known or should be known.
+<a id="evidence-preservation-c"></a>
+- C: Non-compliant: destroying, altering, withholding, selectively preserving, rendering inaccessible, or failing to secure materially relevant evidence in a way that defeats auditability, contestability, accountability, remedy access, protected reporting, due-process review, or standing classification.
+
 <a id="evaluation-completeness-constraint"></a>
 ##### Evaluation Completeness Constraint
 

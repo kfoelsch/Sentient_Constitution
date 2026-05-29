@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/crossref_matrix.schema.json",
-  "generated_at": "2026-05-29T12:21:39+00:00",
+  "generated_at": "2026-05-29T13:37:35+00:00",
   "description": "Source-derived file-to-file Markdown reference graph.",
   "graph": {
     "nodes": [
@@ -658,7 +658,7 @@
           },
           {
             "file": "core_05-05_definitions_c_dependent_clusters.md",
-            "count": 209,
+            "count": 210,
             "anchors": [
               "#animal-life-constitutional",
               "#animal-life-sentient-life-and-sentience-status-cluster",
@@ -682,6 +682,7 @@
               "#educational-agency",
               "#epistemic-integrity",
               "#evaluation-completeness-constraint",
+              "#evidence-preservation",
               "#expression-constitutional",
               "#fair-compensation-constitutional",
               "#foreseeability-burden",
@@ -918,7 +919,7 @@
           },
           {
             "file": "core_05-05_definitions_c_dependent_clusters.md",
-            "count": 176,
+            "count": 180,
             "anchors": [
               "#accountability-contestability-and-collective-accountability-failure-cluster",
               "#animal-life-sentient-life-and-sentience-status-cluster",
@@ -928,6 +929,7 @@
               "#collective-harm-boundary-and-harm-cluster",
               "#derived-developing-sentients-instantiation-and-care-authority-cluster",
               "#epistemic-integrity",
+              "#evidence-preservation",
               "#foreseeability-diligence",
               "#governance-architecture-oversight-decentralization-and-concentration-cluster",
               "#harassment-and-bullying",
@@ -1056,7 +1058,7 @@
           },
           {
             "file": "core_00-01_principles.md",
-            "count": 68,
+            "count": 71,
             "anchors": [
               "#10-interpretive-role",
               "#2-foundational-objective-wellbeing",
@@ -1091,7 +1093,7 @@
           },
           {
             "file": "core_05-05_definitions_a_independent.md",
-            "count": 218,
+            "count": 219,
             "anchors": [
               "#adversarial-scaled-and-exploited-conditions",
               "#cascading-failure",
@@ -1127,7 +1129,7 @@
           },
           {
             "file": "core_05-05_definitions_b_semi_independent.md",
-            "count": 186,
+            "count": 192,
             "anchors": [
               "#accountability",
               "#adjudication-and-dispute-resolution-constitutional",
@@ -1149,6 +1151,7 @@
               "#productive-capacity-constitutional",
               "#protected-characteristic-proxying-and-disparate-impact",
               "#protected-characteristics-constitutional",
+              "#protected-reporting-whistleblowing",
               "#proxy-divergence",
               "#reproductive-autonomy-constitutional",
               "#review-and-correction-duty-constitutional",
@@ -1681,9 +1684,15 @@
           },
           {
             "file": "core_05-05_definitions_a_independent.md",
-            "count": 53,
+            "count": 78,
             "anchors": [
+              "#cascading-failure",
+              "#cascading-failure-c",
+              "#cascading-failure-e",
               "#chapter-five-foundational-definitions",
+              "#dependency",
+              "#dependency-c",
+              "#dependency-e",
               "#incentive-alignment",
               "#incentive-alignment-c",
               "#incentive-alignment-e",
@@ -1699,6 +1708,12 @@
               "#proportionality",
               "#proportionality-c",
               "#proportionality-e",
+              "#reversibility-constitutional",
+              "#reversibility-constitutional-c",
+              "#reversibility-constitutional-e",
+              "#safety-constraint",
+              "#safety-constraint-c",
+              "#safety-constraint-e",
               "#system-capture",
               "#system-capture-c",
               "#system-capture-e"
@@ -1706,7 +1721,7 @@
           },
           {
             "file": "core_05-05_definitions_b_semi_independent.md",
-            "count": 89,
+            "count": 110,
             "anchors": [
               "#accountability",
               "#accountability-c",
@@ -1721,6 +1736,7 @@
               "#contestability",
               "#contestability-c",
               "#contestability-e",
+              "#materiality-determination",
               "#procedural-fairness-constitutional",
               "#procedural-fairness-constitutional-c",
               "#procedural-fairness-constitutional-e",
@@ -1734,7 +1750,7 @@
           },
           {
             "file": "core_05-05_definitions_c_dependent_clusters.md",
-            "count": 43,
+            "count": 52,
             "anchors": [
               "#auditability",
               "#auditability-c",
@@ -1743,6 +1759,12 @@
               "#epistemic-integrity-c",
               "#epistemic-integrity-e",
               "#epistemic-integrity-o",
+              "#evidence-preservation",
+              "#evidence-preservation-c",
+              "#evidence-preservation-e",
+              "#harm",
+              "#harm-c",
+              "#harm-e",
               "#transparency",
               "#transparency-c",
               "#transparency-e",
@@ -1754,9 +1776,10 @@
           },
           {
             "file": "core_06-06_standing_assessment.md",
-            "count": 4,
+            "count": 5,
             "anchors": [
               "#40-slot-grammar-and-display-labels",
+              "#43-violation-axis-rules-violation-nature-adverse-findings-and-severity",
               "#chapter-six-compliance-violation-and-standing-model"
             ]
           },
@@ -1783,8 +1806,10 @@
           },
           {
             "file": "core_10-10_rights_part_a.md",
-            "count": 2,
+            "count": 4,
             "anchors": [
+              "#article-iii-a-survival",
+              "#article-iv-a-dependency-mapping-and-resource-flow-transparency",
               "#chapter-ten-foundational-rights"
             ]
           },
@@ -1797,8 +1822,9 @@
           },
           {
             "file": "core_10-10_rights_part_c.md",
-            "count": 1,
+            "count": 3,
             "anchors": [
+              "#article-xii-a-reliability-and-trustworthiness-baseline",
               "#article-xv-audit-transparency-and-independent-verification"
             ]
           },
@@ -1837,7 +1863,7 @@
           },
           {
             "file": "corpus_systems.md",
-            "count": 3,
+            "count": 4,
             "anchors": []
           }
         ]

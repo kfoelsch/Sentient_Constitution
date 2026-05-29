@@ -106,6 +106,7 @@ This directory lists **Definitions A-Z** and **Clusters A-Z** separately. Each v
 - [Essential-Environment Non-Commodification](#essential-environment-non-commodification-constitutional)
 - [Evaluation Completeness Constraint](core_05-05_definitions_c_dependent_clusters.md#evaluation-completeness-constraint)
 - [Event-Contract Market](#event-contract-market)
+- [Evidence Preservation](core_05-05_definitions_c_dependent_clusters.md#evidence-preservation)
 - [Existential Risk](#existential-risk)
 - [Expression](core_05-05_definitions_c_dependent_clusters.md#expression-constitutional)
 - [Fair Compensation](core_05-05_definitions_c_dependent_clusters.md#fair-compensation-constitutional)
