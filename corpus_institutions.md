@@ -202,7 +202,7 @@ Mandatory detection and response requirements:
 - intake, triage, and investigation ownership must remain structurally separate from subjects of the allegation wherever feasible;
 - credible allegations that a sortition pool, draw, briefing process, facilitator lane, staff support channel, or implementation response has been manipulated, captured, intimidated, or used to launder a predetermined outcome must be treated as material integrity allegations when the body exercises or materially shapes governing authority;
 - materially credible allegations involving senior role-holders, integrity-linked lanes, or repeated control failures must trigger independent review, external assurance consideration under **CI-7.2**, or escalation through **CI-8** where local independence is not credible;
-- institutions must preserve evidence, pause destructive retention actions, and record interim safeguards when a material integrity allegation is under review;
+- institutions must preserve evidence under [Evidence Preservation](core_05-05_definitions_c_dependent_clusters.md#evidence-preservation), pause destructive retention actions, and record interim safeguards when a material integrity allegation is under review;
 - institutions must document substantiated findings, corrective actions, sanctions, restitution or clawback where applicable, and closure rationale in auditable form.
 
 Disclosure, cure, and consequence rules:
@@ -279,7 +279,7 @@ Institutions must operate a three-lines assurance model:
 
 Role concentration across lines must be limited and justified where unavoidable.
 
-Institutions must maintain record and evidence custody sufficient for audit, contest, correction, and continuity transfer.
+Institutions must maintain record and evidence custody sufficient for audit, contest, correction, and continuity transfer under [Evidence Preservation](core_05-05_definitions_c_dependent_clusters.md#evidence-preservation).
 
 ### CI-7.1: Controls declaration
 At least annually, each institution must publish a declaration on whether material controls are operating effectively.
@@ -690,7 +690,7 @@ Scenario-based continuity and succession stress tests must run on a cadence prop
 
 **Trigger catalog (for published transition and institution plans):**
 - **Compliance-linked deprivation** — seizure, impoundment, quarantine, or disposition tied to a **Chapter Six**-consistent or equivalent binding finding of non-compliance with applicable rules, with notice and contest paths as Article XXV-D requires.
-- **Remedial containment** — proportionate holding or restriction to stop ongoing harm, preserve evidence, or prevent flight of assets, distinguished from retaliatory economic stripping.
+- **Remedial containment** — proportionate holding or restriction to stop ongoing harm, preserve evidence under [Evidence Preservation](core_05-05_definitions_c_dependent_clusters.md#evidence-preservation), or prevent flight of assets, distinguished from retaliatory economic stripping.
 - **Voluntary turnover incentive** — time-bounded, published incentive for good-faith voluntary transfer or verified reporting that enables lawful remediation, with **Article XXV-B** reauthorization rules.
 - **Non-compliant examples (illustrative):** pretextual targeting of political opponents; bounty structures that pay on accusation without separation from enforcement; essential-access denial for **Article III-A** tools; selective enforcement correlated with protected-class proxies without individualized predicate.
 

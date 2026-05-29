@@ -523,7 +523,7 @@ Transitional governance exists to secure continuity and non-regression. It must 
   - **Notice and contest:** Prompt notice, stated reasons, and a practicable contest path must be provided as soon as feasible consistent with harm prevention and evidence integrity.
   - **Restrictive-effect rule:** A deprivation or restriction whose primary effect exceeds remediation, restitution, preservation, or forward protection triggers **Article XXIII-B** and **Article XXIII-C**.
   - **Anti-pretext:** Safeguards must exist against **discriminatory**, **pretextual**, or **selective** enforcement under **Articles V-B** and **IV-B** and **Chapter Five** *Substantive Fairness*.
-  - **Remedial vs. restrictive standards:** **Remedial containment** to stop harm, restore shared integrity, or preserve evidence is judged under remedial standards.
+  - **Remedial vs. restrictive standards:** **Remedial containment** to stop harm, restore shared integrity, or preserve evidence under [Evidence Preservation](core_05-05_definitions_c_dependent_clusters.md#evidence-preservation) is judged under remedial standards.
   - **Heightened threshold for destructive disposition:** **Permanent forfeiture**, **destructive disposition**, or **broad economic stripping** requires:
     - heightened justification;
     - independent review;

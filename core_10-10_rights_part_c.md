@@ -301,7 +301,7 @@ This Article states the Rights-Floor for **exceptional institutional power**: co
   - investigation of materially serious unlawful conduct.
 - **Independent authorization:** Intrusive covert measures, including secrecy-constrained investigative steps, require prior authorization through a lawful independent process.
   - Exception: where immediate action is necessary to prevent imminent and material harm and delayed authorization would defeat that purpose.
-  - Emergency use must trigger prompt post hoc review, record preservation, and automatic lapse absent timely reauthorization.
+  - Emergency use must trigger prompt post hoc review, record preservation under [Evidence Preservation](core_05-05_definitions_c_dependent_clusters.md#evidence-preservation), and automatic lapse absent timely reauthorization.
 - **No anti-bypass evasion:** No institution may obtain, request, purchase, receive, launder, or use information through any of the following in order to evade constitutional limits that would have applied had it collected or derived the information directly:
   - foreign partners;
   - intermediaries;

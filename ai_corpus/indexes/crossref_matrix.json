@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/crossref_matrix.schema.json",
-  "generated_at": "2026-05-29T13:37:35+00:00",
+  "generated_at": "2026-05-29T14:14:13+00:00",
   "description": "Source-derived file-to-file Markdown reference graph.",
   "graph": {
     "nodes": [
@@ -1558,7 +1558,7 @@
           },
           {
             "file": "core_05-05_definitions_c_dependent_clusters.md",
-            "count": 103,
+            "count": 104,
             "anchors": [
               "#auditability",
               "#auditability-c",
@@ -1571,6 +1571,7 @@
               "#epistemic-integrity-c",
               "#epistemic-integrity-e",
               "#epistemic-integrity-o",
+              "#evidence-preservation",
               "#foreseeability-diligence",
               "#foreseeability-diligence-c",
               "#foreseeability-diligence-e",
@@ -1750,7 +1751,7 @@
           },
           {
             "file": "core_05-05_definitions_c_dependent_clusters.md",
-            "count": 52,
+            "count": 59,
             "anchors": [
               "#auditability",
               "#auditability-c",
@@ -1897,9 +1898,10 @@
           },
           {
             "file": "core_05-05_definitions_c_dependent_clusters.md",
-            "count": 2,
+            "count": 4,
             "anchors": [
               "#corpus",
+              "#evidence-preservation",
               "#sentience-status-adjudication-constitutional"
             ]
           },
@@ -2688,7 +2690,7 @@
           },
           {
             "file": "core_05-05_definitions_c_dependent_clusters.md",
-            "count": 199,
+            "count": 200,
             "anchors": [
               "#auditability",
               "#auditability-c",
@@ -2700,6 +2702,7 @@
               "#epistemic-integrity-c",
               "#epistemic-integrity-e",
               "#epistemic-integrity-o",
+              "#evidence-preservation",
               "#foreseeability-diligence",
               "#foreseeability-diligence-c",
               "#foreseeability-diligence-e",
@@ -2838,13 +2841,14 @@
           },
           {
             "file": "core_05-05_definitions_c_dependent_clusters.md",
-            "count": 27,
+            "count": 28,
             "anchors": [
               "#accountability-contestability-and-collective-accountability-failure-cluster",
               "#auditability",
               "#auditability-c",
               "#auditability-e",
               "#authority-stack",
+              "#evidence-preservation",
               "#irreversible-deprivation-measure-constitutional",
               "#transparency",
               "#transparency-c",
@@ -3096,12 +3100,13 @@
           },
           {
             "file": "core_05-05_definitions_c_dependent_clusters.md",
-            "count": 19,
+            "count": 22,
             "anchors": [
               "#authority-stack",
               "#corpus",
               "#corpus-authority-stack-supremacy-and-enforceability-cluster",
               "#epistemic-integrity",
+              "#evidence-preservation",
               "#supremacy-and-enforceability",
               "#truth-and-epistemic-integrity-cluster",
               "#truth-constitutional-constraint"
@@ -3324,6 +3329,18 @@
         ]
       },
       {
+        "source": "corpus_forum.md",
+        "targets": [
+          {
+            "file": "core_05-05_definitions_c_dependent_clusters.md",
+            "count": 8,
+            "anchors": [
+              "#evidence-preservation"
+            ]
+          }
+        ]
+      },
+      {
         "source": "corpus_institutions.md",
         "targets": [
           {
@@ -3361,9 +3378,10 @@
           },
           {
             "file": "core_05-05_definitions_c_dependent_clusters.md",
-            "count": 1,
+            "count": 4,
             "anchors": [
-              "#assembly-collective-organization-institutional-formation-cluster"
+              "#assembly-collective-organization-institutional-formation-cluster",
+              "#evidence-preservation"
             ]
           },
           {

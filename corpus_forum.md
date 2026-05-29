@@ -518,7 +518,7 @@ Where institutions operate or support **forum** families under `core_09-09_forum
 
 **Independence and contestability.** Appointment, conflict disclosure, recusal, and challenge pathways must satisfy `corpus_institutions.md` **CI-4**, **CI-5**, and `core_09-09_forum.md` **Chapter Nine**. Parties materially affected must have a meaningful opportunity, consistent with lawful restrictions, to contest scope, methods, assumptions, qualifications, and conclusions. Exculpatory, mitigating, and inculpatory evidence must be preserved under the same good-faith standard.
 
-**Evidence handling.** These functions must maintain auditable chain-of-custody records, method logs, uncertainty statements, and preservation steps proportionate to impact and sensitivity. Access to restricted evidence must satisfy `core_05-05_definitions_a_independent.md` **Chapter Five** (*Auditability*, *Verifiability*, *Verification Accessibility*, *Transparency*) together with `core_02-04_definition_mechanics.md` **Chapters Two through Four** security-constrained observability requirements, `corpus_systems.md` restricted-data rules, and `core_10-10_rights_part_c.md` **Article XV-A** plus Article XV's verification-access provisions.
+**Evidence handling.** These functions must maintain auditable chain-of-custody records, method logs, uncertainty statements, and preservation steps proportionate to impact and sensitivity under Chapter Five [Evidence Preservation](core_05-05_definitions_c_dependent_clusters.md#evidence-preservation). Access to restricted evidence must satisfy `core_05-05_definitions_a_independent.md` **Chapter Five** (*Auditability*, *Verifiability*, *Verification Accessibility*, *Transparency*) together with `core_02-04_definition_mechanics.md` **Chapters Two through Four** security-constrained observability requirements, `corpus_systems.md` restricted-data rules, and `core_10-10_rights_part_c.md` **Article XV-A** plus Article XV's verification-access provisions.
 
 **Outputs.** Findings, reports, and technical explanations must be reasoned, attributable, and reviewable. Emergency ex parte preservation steps may be permitted only where delay would foreseeably destroy or materially corrupt evidence; such steps must be narrowly scoped, promptly recorded, and contestable after immediate preservation need passes.
 
@@ -551,7 +551,7 @@ Where institutions exercise or supervise **civil**, **criminal**, **constitution
 
 **Independence and appointment.** Appointment, removal protection, conflict screening, recusal, and challenge pathways must satisfy `corpus_institutions.md` **CI-4** and **CI-5**. For materially sensitive or high-impact scopes, institutions should use mixed appointment, fixed terms, transparent qualification criteria, and external participation sufficient to reduce dependence on any single operational appointing chain.
 
-**Protected investigations and rights.** Investigative restrictions, delayed notice, compartmentalization, sealed steps, protected-activity handling, and remedy for tainted collection remain governed by `core_10-10_rights_part_c.md` **Article XIII-A**, `core_05-05_definitions_a_independent.md` **Chapter Five** (*Necessity*, *Proportionality*, *Oversight*, *Accountability*, *Transparency*), and applicable secrecy-implementation rules in companion files. **CC-8** adds the forum-interface record rule: when those measures are requested, authorized, reviewed, renewed, narrowed, or found defective, the record must state the lawful objective, scope, duration or expiry, review point, minimization or segregation handling, protected-activity analysis where material, and the available exclusion, deletion, notice, derivative-use, or later-challenge path where lawful.
+**Protected investigations and rights.** Investigative restrictions, delayed notice, compartmentalization, sealed steps, protected-activity handling, and remedy for tainted collection remain governed by `core_10-10_rights_part_c.md` **Article XIII-A**, `core_05-05_definitions_a_independent.md` **Chapter Five** (*Necessity*, *Proportionality*, *Oversight*, *Accountability*, *Transparency*) and [Evidence Preservation](core_05-05_definitions_c_dependent_clusters.md#evidence-preservation), and applicable secrecy-implementation rules in companion files. **CC-8** adds the forum-interface record rule: when those measures are requested, authorized, reviewed, renewed, narrowed, or found defective, the record must state the lawful objective, scope, duration or expiry, review point, minimization or segregation handling, protected-activity analysis where material, and the available exclusion, deletion, notice, derivative-use, or later-challenge path where lawful.
 
 **Outputs and interfaces.** The investigative service must produce attributable, reviewable records stating scope, steps taken, evidentiary basis, uncertainty, preserved exculpatory and inculpatory material, and referral or closure reasons. Those records must support:
 - prosecutorial or civil-enforcement decisions without making the investigators the final charging or merits authority;
@@ -876,15 +876,15 @@ Shared expiry, reauthorization, restoration, and closure-evidence requirements f
 In any degraded or emergency mode, the system must preserve at minimum:
 - intake for urgent matters;
 - emergency interim-relief authority;
-- routing or triage sufficient to identify Rights-Floor, evidence-preservation, and safety-critical cases;
-- record preservation and chain of custody;
+- routing or triage sufficient to identify Rights-Floor, [Evidence Preservation](core_05-05_definitions_c_dependent_clusters.md#evidence-preservation), and safety-critical cases;
+- record preservation and chain of custody under [Evidence Preservation](core_05-05_definitions_c_dependent_clusters.md#evidence-preservation);
 - a way to challenge emergency orders;
 - a path to restore ordinary forum review when feasible.
 
 ### CC-11.5 Emergency triage hierarchy
 Where capacity is insufficient for normal operations, tribunals must prioritize:
 - matters involving imminent loss of life or irreversible harm;
-- evidence-preservation needs likely to become impossible if delayed;
+- [Evidence Preservation](core_05-05_definitions_c_dependent_clusters.md#evidence-preservation) needs likely to become impossible if delayed;
 - detention, seizure, exclusion, or comparable coercive measures needing prompt review;
 - inability-to-form and anti-self-judging cases that block lawful merits adjudication;
 - matters where delay would predictably extinguish practical remedy.
@@ -913,7 +913,7 @@ Forum emergency adjudication requires continuous preservation of:
 - docket identity;
 - filings and timestamps;
 - panel-formation and recusal records;
-- evidence custody records;
+- evidence custody records under [Evidence Preservation](core_05-05_definitions_c_dependent_clusters.md#evidence-preservation);
 - emergency orders and reasons;
 - publication-delay records;
 - restoration and rollback decisions.
@@ -989,7 +989,7 @@ Findings must be recorded and tied to remediation under **Protocol A**, subsecti
 The following are presumptively non-compliant unless clearly justified and cured:
 - indefinite emergency forum mode without reauthorization;
 - emergency quorum use that concentrates durable control;
-- loss of docket identity or chain of custody;
+- loss of docket identity or chain of custody under [Evidence Preservation](core_05-05_definitions_c_dependent_clusters.md#evidence-preservation);
 - emergency orders with no later review path;
 - continuity activation used to bypass recusal, anti-self-judging, or publication obligations;
 - restoration without retrospective review of materially impactful emergency decisions.
@@ -1055,7 +1055,7 @@ Records must be tagged, at minimum, for the following access classes:
 Access tagging must support meaningful review without converting lawful restriction into concealment. If a record is withheld or summarized, the forum must preserve enough attributable detail for later lawful reconstruction.
 
 ### CC-12.4 Evidence artifact handling
-Forum evidence artifacts must preserve chain of custody, source, method, transformation history, uncertainty, and access restrictions proportionate to impact and sensitivity. This applies to physical evidence, digital records, model or system logs, expert analyses, summaries of restricted evidence, forensic workpapers, and technical-standard materials.
+Forum evidence artifacts must preserve chain of custody, source, method, transformation history, uncertainty, and access restrictions proportionate to impact and sensitivity under Chapter Five [Evidence Preservation](core_05-05_definitions_c_dependent_clusters.md#evidence-preservation). This applies to physical evidence, digital records, model or system logs, expert analyses, summaries of restricted evidence, forensic workpapers, and technical-standard materials.
 
 Where an artifact is transformed, summarized, redacted, compressed, or represented through a derived exhibit, the record must preserve enough information to test reliability, contest material assumptions, and reconstruct the original evidentiary path where lawful.
 

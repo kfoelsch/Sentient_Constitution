@@ -822,7 +822,7 @@ Capacity duties scale with risk, volume, vulnerability, and rights sensitivity. 
 
 Verified constitutional violations must remain actionable across jurisdictional boundaries where applicable law permits recognition, cooperation, enforcement, or fallback review. Flight, relocation, forum shopping, cross-border corporate structure, or distributed operation must not by itself nullify a verified remedy, standing lock, safeguard, or review obligation.
 
-Adopters must maintain lawful cooperation, recognition, transfer, evidence-preservation, and enforcement pathways sufficient to prevent accountability gaps. Where competing legal orders create conflict, Chapter Twelve external-order discipline governs; the conflict must not be used as a pretext for doing nothing.
+Adopters must maintain lawful cooperation, recognition, transfer, [Evidence Preservation](core_05-05_definitions_c_dependent_clusters.md#evidence-preservation), and enforcement pathways sufficient to prevent accountability gaps. Where competing legal orders create conflict, Chapter Twelve external-order discipline governs; the conflict must not be used as a pretext for doing nothing.
 
 #### 5.4 Anti-evasion and look-through authority
 

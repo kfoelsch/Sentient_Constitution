@@ -116,7 +116,7 @@ Where amendment or adoption conduct indicates serious misconduct, a mandatory re
 
 *In plain terms: Chapter Twelve can demand extra review, preserve evidence, or pause things when validity is in doubt — but it does not run parallel classification forums or invent new offense categories; anything that sounds like final accountability disposition or final Violation Axis slot assignment still belongs to Chapters Six, Seven, and Eight.*
 
-This chapter may impose immediate validity-protection controls. Those controls include heightened review, provisional suspension where materially necessary, evidence preservation, and remediation publication.
+This chapter may impose immediate validity-protection controls. Those controls include heightened review, provisional suspension where materially necessary, [Evidence Preservation](core_05-05_definitions_c_dependent_clusters.md#evidence-preservation), and remediation publication.
 
 This chapter does not establish final constitutional offense labels, final offense classification, or a sanction taxonomy. It does not establish a **second canonical** compliance / violation / standing taxonomy parallel to **Chapter Six**.
 
@@ -283,7 +283,7 @@ Cross-jurisdiction coordination and anti-evasion execution follow **[corpus_syst
 
 - Upstream: [§4](#4-disputes-involving-external-legal-orders) external-dispute frame.
 - Downstream: [§4.2](#42-preserved-internal-pathways) when external process is slow or inadequate.
-- Read with: Truth and auditability obligations in [Chapters Two through Four](core_02-04_definition_mechanics.md) and [Chapter Ten](core_10-10_rights_part_a.md#chapter-ten-foundational-rights) as applicable to record preservation.
+- Read with: Truth and auditability obligations in [Chapters Two through Four](core_02-04_definition_mechanics.md), [Evidence Preservation](core_05-05_definitions_c_dependent_clusters.md#evidence-preservation), and [Chapter Ten](core_10-10_rights_part_a.md#chapter-ten-foundational-rights) as applicable to record preservation.
 
 </details>
 
@@ -498,7 +498,7 @@ Where a change is found invalid, it is treated as non-operative for constitution
 
 On invalidity determination, adopters must publish a time-bounded remediation plan that:
 - restores controlling prior protections or stricter lawful protections
-- preserves evidence and audit trails
+- preserves evidence under [Evidence Preservation](core_05-05_definitions_c_dependent_clusters.md#evidence-preservation) and audit trails
 - provides contestable remedy pathways proportionate to impact and dependency
 
 ### 10. Ratification and Adoption
