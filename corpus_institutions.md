@@ -367,7 +367,7 @@ Where `core_09-09_forum.md` **Chapter Nine** requires **cross-forum anti-self-ju
 
 **Joint read:** **`corpus_joint_structure.md` CJS-2.2** row **CJS-R09**; **CJS-3.3**.
 
-**Operative owner:** `corpus_forum.md` **CC-9**. Science, engineering, medical, or comparable technical forums must **satisfy CC-9 in full**, remain chambers or designated panels within **Chapter Nine** forum families, and must not displace dominant-purpose routing. Institutions using shared cross-jurisdiction or cross-sector standards should treat technical forums as the principal reviewable standards-maintenance forum within lawful scope while leaving ordinary institution-facing enforcement to the lead forum family **Chapter Nine** assigns. Where disputes implicate publication suppression, replication denial, correction refusal, or manipulation of scientific standing, read **CC-9** together with **CI-15B**.
+**Operative owner:** `corpus_forum.md` **CC-9**. Science, engineering, medical, or comparable technical forums must **satisfy CC-9 in full**, remain chambers or designated panels within **Chapter Nine** forum families, and must not displace primary-stakes routing. Institutions using shared cross-jurisdiction or cross-sector standards should treat technical forums as the principal reviewable standards-maintenance forum within lawful scope while leaving ordinary institution-facing enforcement to the lead forum family **Chapter Nine** assigns. Where disputes implicate publication suppression, replication denial, correction refusal, or manipulation of scientific standing, read **CC-9** together with **CI-15B**.
 
 ---
 

@@ -634,7 +634,7 @@ This provision states threshold-mechanism discipline at principle-layer. It does
 
 <br>
 
-**Definition map.** Strategic Stewardship Obligation, Meaningful Agency, Auditability, and Contestability state the stewardship function. Educational Agency and Transparency state the distributed-understanding function that stewardship must produce.
+**Definition map.** Strategic Stewardship Obligation, Meaningful Agency, Auditability, and Contestability state the stewardship function. Educational Agency and Transparency state the distributed-understanding function that stewardship must produce. Review and correction remain necessary backstops, but they do not replace proactive system design and constitutional alignment.
 
 Materiality, Dependency, and Accessibility govern evidence, scaling, and actual access. Safety, Truth, Necessity, Proportionality, Avoidable Burden, and Epistemic Integrity bound the duty so stewardship, understanding, and openness remain proportionate, truthful, and security-aware.
 
@@ -666,6 +666,8 @@ Materiality, Dependency, and Accessibility govern evidence, scaling, and actual 
 Pathways may separate **learning-dominant** and **operations-dominant** roles. The constitutional requirement is that **movement between those modes remains feasible over time** where impact, safety, and consent constraints permit, so judgment and institutional memory do not concentrate beyond reach of affected communities.
 
 Good stewardship produces distributed understanding. It creates the documentation, teaching, role pathways, feedback practices, and repair habits that allow affected sentients to understand and challenge the systems they materially depend on.
+
+Stewardship favors proactive governance, system design, and constitutional alignment over reactive symptom-fixing after harm or drift has already appeared. Review, correction, and remediation remain mandatory where evidence warrants them, but they are not substitutes for designing incentives, controls, role pathways, observability, and repair capacity to prevent foreseeable constitutional misalignment in the first place.
 
 <a id="521-distributed-understanding"></a>
 ##### 5.2.2 Distributed Understanding

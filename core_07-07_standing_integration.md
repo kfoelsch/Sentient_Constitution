@@ -256,7 +256,7 @@ Restoration may require completed correction, restitution, monitoring, safeguard
 
 - Upstream: [§4.1](core_06-06_standing_assessment.md#3-axis-i-contribution-state-and-standing-effect) (*Contribution Axis primary bands*); [§4.3](core_06-06_standing_assessment.md#4-axis-ii-violation-nature-legal-constitutional-type) (*Violation Axis severity ladder*); [§1](#5-standing-effects) (*standing consequences*).
 - Downstream: [§2.3](#violation-side-descriptor-application-location) (*violation-side counterpart location*); [§3](#6-extended-axis-ii-legal-hybrid-duty-and-harm-descriptors) (*Violation Axis process / response character and violation-side descriptor application*); [§4](#8-cross-axis-coupling-and-escalation-constraints) (*joint assessment, no-netting mechanics, non-substitution, and standing locks*).
-- Read with: [Chapter Nine](core_09-09_forum.md#chapter-nine-forums-and-jurisdiction) (*dominant-purpose routing where descriptors are used in forum narratives*).
+- Read with: [Chapter Nine](core_09-09_forum.md#chapter-nine-forums-and-jurisdiction) (*primary-stakes routing where descriptors are used in forum narratives*).
 
 </details>
 
@@ -313,7 +313,7 @@ The table below is the canonical descriptor catalog for this section. It does no
 
 - Upstream: [§2.1](#71-shared-domain-lenses-cross-axis-vocabulary) (*cross-axis domain lens table naming these supplements*); [§4.1](core_06-06_standing_assessment.md#3-axis-i-contribution-state-and-standing-effect) (*primary Contribution Axis bands and Table 2*); [§1.6](#38-standing-integration-category-hook) (*standing integration — category hook*).
 - Downstream: [§3.9](#73-stackable-harm-and-conduct-descriptors-violation-nature-supplement) (*symmetric adverse descriptors on Violation Axis*); [§4.2](#62-joint-assessment-escalation-constraints-and-scrutiny) (*no netting across axes*).
-- Read with: [Contribution State](core_05-05_definitions_b_semi_independent.md#contribution-state) (*Chapter Five pointer — operative Contribution Axis text in **section 4.1***); [§2.1](#71-shared-domain-lenses-cross-axis-vocabulary) (*domain lens mapping to violation-side descriptors*); [Trustworthiness](core_05-05_definitions_c_dependent_clusters.md#trustworthiness) — [psychological safety and substantive agency (evaluation)](core_05-05_definitions_c_dependent_clusters.md#trustworthiness-e) (***psychological safety** in **Peace of body, mind, and/or community***); [Chapter Nine](core_09-09_forum.md#chapter-nine-forums-and-jurisdiction) (*dominant-purpose routing with **`corpus_forum.md`***); [Chapter Eight](core_08-08_misconduct.md#chapter-eight-anti-constitutional-misconduct) (*final s = 7, 8, or 9 assignment is not supplied by descriptors*).
+- Read with: [Contribution State](core_05-05_definitions_b_semi_independent.md#contribution-state) (*Chapter Five pointer — operative Contribution Axis text in **section 4.1***); [§2.1](#71-shared-domain-lenses-cross-axis-vocabulary) (*domain lens mapping to violation-side descriptors*); [Trustworthiness](core_05-05_definitions_c_dependent_clusters.md#trustworthiness) — [psychological safety and substantive agency (evaluation)](core_05-05_definitions_c_dependent_clusters.md#trustworthiness-e) (***psychological safety** in **Peace of body, mind, and/or community***); [Chapter Nine](core_09-09_forum.md#chapter-nine-forums-and-jurisdiction) (*primary-stakes routing with **`corpus_forum.md`***); [Chapter Eight](core_08-08_misconduct.md#chapter-eight-anti-constitutional-misconduct) (*final s = 7, 8, or 9 assignment is not supplied by descriptors*).
 
 </details>
 
@@ -360,7 +360,7 @@ The table below is the canonical descriptor catalog for this section. It does no
 
 *In plain terms: the violation-side counterpart to §2.2 is not missing; it is placed after the Violation Axis attachment rules because it depends on them.*
 
-Violation-side descriptors from **§2.1** are applied under **§3.9**, after **§§3.1–3.8** state process / response character, concurrent character, constitutional-floor priority, duty, diffusion, negligence, and neglect rules. That placement keeps violation-side descriptor use tied to the verified-input limit, primary severity typing, concurrent-character rule, dominant-purpose routing, and Chapter Eight boundary.
+Violation-side descriptors from **§2.1** are applied under **§3.9**, after **§§3.1–3.8** state process / response character, concurrent character, constitutional-floor priority, duty, diffusion, negligence, and neglect rules. That placement keeps violation-side descriptor use tied to the verified-input limit, primary severity typing, concurrent-character rule, primary-stakes routing, and Chapter Eight boundary.
 
 This subsection is a location rule only. It does not create another violation category, duplicate **§3.9**, or allow violation-side descriptors to establish standing effects without verified findings.
 
@@ -603,7 +603,7 @@ They may co-occur with remedial, coercive-safeguard, constitutional-floor, duty,
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [§3.1](#61-remedial-restorative-and-civil-correction-character)–[§3.8](#412-negligence-and-neglect-as-violation-nature); [§2.1](#71-shared-domain-lenses-cross-axis-vocabulary) (*cross-axis domain lens table*); [§2.2](#72-stackable-benefit-and-stewardship-descriptors-contribution-state-supplement) (*symmetric prosocial descriptors*).
-- Downstream: [§4](#8-cross-axis-coupling-and-escalation-constraints); [Chapter Nine](core_09-09_forum.md#chapter-nine-forums-and-jurisdiction) (*dominant-purpose routing with **`corpus_forum.md`***).
+- Downstream: [§4](#8-cross-axis-coupling-and-escalation-constraints); [Chapter Nine](core_09-09_forum.md#chapter-nine-forums-and-jurisdiction) (*primary-stakes routing with **`corpus_forum.md`***).
 - Read with: [§2.1](#71-shared-domain-lenses-cross-axis-vocabulary) (*domain lens mapping from **`§2.2`** supplements*); [Chapter Eight](core_08-08_misconduct.md#chapter-eight-anti-constitutional-misconduct) (*final Violation Axis s = 7, 8, and 9 assignment*); [Harm](core_05-05_definitions_c_dependent_clusters.md#harm) · [O](core_05-05_definitions_c_dependent_clusters.md#harm) · [E](core_05-05_definitions_c_dependent_clusters.md#harm-e) · [C](core_05-05_definitions_c_dependent_clusters.md#harm-c).
 
 </details>
@@ -620,7 +620,7 @@ They may co-occur with remedial, coercive-safeguard, constitutional-floor, duty,
 
 *In plain terms: use the violation-side descriptors in §2.1 to explain the kind of harm, conduct pattern, or response character involved. They supplement the main severity ladder and process / response character tags; they do not create Chapter Eight slots or move standing without verified findings.*
 
-**Scope.** Violation-side descriptors in **§2.1** support **classification**, **triage**, and **routing** (including **Chapter Nine** *dominant-purpose* expectations read with **`corpus_forum.md`** where applicable).
+**Scope.** Violation-side descriptors in **§2.1** support **classification**, **triage**, and **routing** (including **Chapter Nine** *primary-stakes* expectations read with **`corpus_forum.md`** where applicable).
 
 **Stacking.** **Conduct** may carry **one or more** violation-side descriptors from **§2.1**. They **do not** partition **violation nature** into mutually exclusive branches, and they **must not** replace primary severity typing with an **exclusive violation-category** scheme. Use **multiple** descriptors wherever **facts**, **impact**, and **applicable** **law** warrant.
 
@@ -642,7 +642,7 @@ Where multiple descriptors apply, the **primary** **harm** route **or** **primar
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [§4.1](core_06-06_standing_assessment.md#3-axis-i-contribution-state-and-standing-effect) through [§3](#6-extended-axis-ii-legal-hybrid-duty-and-harm-descriptors) (*primary categories, standing effects, and Violation Axis attachments*); [§1.6](#38-standing-integration-category-hook) (*standing integration — Contribution Axis hook*); [§2.1](#71-shared-domain-lenses-cross-axis-vocabulary) (*cross-axis domain lens vocabulary*); [§2.2](#72-stackable-benefit-and-stewardship-descriptors-contribution-state-supplement) (*contribution-state supplemental descriptors*); [§3.9](#73-stackable-harm-and-conduct-descriptors-violation-nature-supplement) (*violation-nature supplemental descriptors read with dominant-purpose routing*).
+- Upstream: [§4.1](core_06-06_standing_assessment.md#3-axis-i-contribution-state-and-standing-effect) through [§3](#6-extended-axis-ii-legal-hybrid-duty-and-harm-descriptors) (*primary categories, standing effects, and Violation Axis attachments*); [§1.6](#38-standing-integration-category-hook) (*standing integration — Contribution Axis hook*); [§2.1](#71-shared-domain-lenses-cross-axis-vocabulary) (*cross-axis domain lens vocabulary*); [§2.2](#72-stackable-benefit-and-stewardship-descriptors-contribution-state-supplement) (*contribution-state supplemental descriptors*); [§3.9](#73-stackable-harm-and-conduct-descriptors-violation-nature-supplement) (*violation-nature supplemental descriptors read with primary-stakes routing*).
 - Downstream: [§4.1](#38-standing-integration-contribution-and-violation-nature) (*standing integration computation*); [§4.2](#62-joint-assessment-escalation-constraints-and-scrutiny) (*violation assessment and non-substitution preparation*); [§4.3](#standing-integration-slot-band-standing-locks) (*standing locks*); [§5](#8-enforcement-realism-anchors) (*implementation realism*); [Chapter Nine](core_09-09_forum.md#chapter-nine-forums-and-jurisdiction) (*forums applying this classification stack*).
 - Read with: [Article XXIII-B: Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints](core_10-10_rights_part_d.md#article-xxiii-b-non-trivial-restriction-restitution-and-restorative-accountability-constraints) and [Article XXIII-C: Least-Restrictive and Time-Bounded Rule](core_10-10_rights_part_d.md#article-xxiii-c-least-restrictive-and-time-bounded-rule) (*escalation governs scrutiny, not automatic harsher restriction*).
 
@@ -852,7 +852,7 @@ Constitutional rights are only real if someone can invoke them, verify them, fun
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [§1](core_06-06_standing_assessment.md#1-purpose-and-role) (*contribution state, violation nature, and general classification*); [§4](#8-cross-axis-coupling-and-escalation-constraints) (*escalation and scrutiny*).
-- Downstream: [Chapter Eight](core_08-08_misconduct.md#chapter-eight-anti-constitutional-misconduct) (*sole home for final **Violation Axis s = 7, 8, and 9** anti-constitutional misconduct criteria, slot assignment, due-process safeguards, and cross-chapter discipline*); [Chapter Nine](core_09-09_forum.md#chapter-nine-forums-and-jurisdiction) (*Integrity lead and certification where Chapter Eight slot classification is dominant stake*).
+- Downstream: [Chapter Eight](core_08-08_misconduct.md#chapter-eight-anti-constitutional-misconduct) (*sole home for final **Violation Axis s = 7, 8, and 9** anti-constitutional misconduct criteria, slot assignment, due-process safeguards, and cross-chapter discipline*); [Chapter Nine](core_09-09_forum.md#chapter-nine-forums-and-jurisdiction) (*Integrity lead and certification where Chapter Eight slot classification is primary stake*).
 - Read with: [Article XXIII-B](core_10-10_rights_part_d.md#article-xxiii-b-non-trivial-restriction-restitution-and-restorative-accountability-constraints) (*slot-linked restriction, restitution, and restorative-accountability constraints — do not replace individualized justice requirements*).
 
 </details>

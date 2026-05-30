@@ -660,9 +660,9 @@ Outside that admission scope, component definitions may operate as supporting In
 
 #### 3.6 Forum Families and Dispute Routing
 
-This cluster is the joint-invocation home for the six constitutional forum families and dominant-purpose routing discipline stated in Chapter Eight, read together with adjudication and dispute-resolution hooks where venue, certification, or cross-family coordination is materially implicated.
+This cluster is the joint-invocation home for the six constitutional forum families and primary-stakes routing discipline stated in Chapter Nine, read together with adjudication and dispute-resolution hooks where venue, certification, or cross-family coordination is materially implicated.
 
-**Admission scope.** This cluster applies where a matter materially concerns default venue, dominant-purpose characterization, family-to-family transfer or certification, anti-self-judging backup routing, or which forum family’s intake and merits rules govern. Outside that admission scope, individual forum-family entries may still be cited as supporting Independent Definitions without importing the whole cluster.
+**Admission scope.** This cluster applies where a matter materially concerns default venue, primary-stakes characterization, family-to-family transfer or certification, anti-self-judging backup routing, or which forum family’s intake and merits rules govern. Outside that admission scope, individual forum-family entries may still be cited as supporting Independent Definitions without importing the whole cluster.
 
 **Cluster members.** This cluster comprises:
 
@@ -671,11 +671,32 @@ This cluster is the joint-invocation home for the six constitutional forum famil
 - [Forum Family, Institutional](#forum-family-institutional);
 - [Forum Family, Environment](#forum-family-environment);
 - [Forum Family, Integrity](#forum-family-integrity);
-- [Forum Family, Constitutional](#forum-family-constitutional).
+- [Forum Family, Constitutional](#forum-family-constitutional);
+- [Primary-Stakes Routing](#primary-stakes-routing).
 
 **Read-with definitions.** Apply [Adjudication and Dispute Resolution](core_05-05_definitions_b_semi_independent.md#adjudication-and-dispute-resolution-constitutional), [Contestability](core_05-05_definitions_b_semi_independent.md#contestability), [Procedural Fairness](core_05-05_definitions_b_semi_independent.md#procedural-fairness-constitutional), [Auditability](#auditability), [Materiality Determination](core_05-05_definitions_b_semi_independent.md#materiality-determination), [System Capture](core_05-05_definitions_a_independent.md#system-capture), and Chapter Eight mechanics where materially implicated.
 
-**Joint invocation and anti-bypass.** Under §3.0.1, a matter within the admission scope must not be segmented into separate caption, intake label, or specialty-panel questions in a way that collapses distinct forum functions or defeats dominant-purpose routing, certification, or anti-self-judging backup discipline.
+**Joint invocation and anti-bypass.** Under §3.0.1, a matter within the admission scope must not be segmented into separate caption, intake label, or specialty-panel questions in a way that collapses distinct forum functions or defeats primary-stakes routing, certification, or anti-self-judging backup discipline.
+
+---
+
+<a id="primary-stakes-routing"></a>
+##### Primary-Stakes Routing
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Owner: [Chapter Nine §2](core_09-09_forum.md#2-default-venue-and-primary-stakes); read with [Chapter Nine §5](core_09-09_forum.md#5-intake-triage-mixed-stakes-and-routing-asymmetry), [Chapter Nine §6](core_09-09_forum.md#6-transfer-consolidation-and-coordination), and [Chapter Nine §7](core_09-09_forum.md#7-escalation-and-certification).
+
+</details>
+
+<br>
+
+- O: The routing rule that assigns a matter to the forum family responsible for the matter's main legal, remedial, safeguard, constitutional, or practical stake, rather than the family suggested by the caption, party preference, administrative convenience, or tactical framing.
+<a id="primary-stakes-routing-e"></a>
+- E: Identify the matter's primary stake from the claim or defense as a whole, including the requested relief, necessary parties, coercive safeguards, constitutional floor, practical effect, and any component question that must be referred, certified, stayed, or coordinated under Chapter Nine.
+<a id="primary-stakes-routing-c"></a>
+- C: Non-compliant: treating captions, intake labels, specialty-panel labels, funding incentives, or administrative convenience as controlling where they contradict the forum family assigned by Chapter Nine's primary-stakes table, transfer rules, certification rules, or anti-self-judging backup discipline.
 
 ---
 
@@ -685,17 +706,17 @@ This cluster is the joint-invocation home for the six constitutional forum famil
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Owner: [Chapter Nine §4.2.1](core_09-09_forum.md#421-sentient-forums); read with [Chapter Six §4.0](core_06-06_standing_assessment.md#40-slot-grammar-and-display-labels) dominant-purpose routing.
+- Owner: [Chapter Nine §4.2.1](core_09-09_forum.md#421-sentient-forums); read with [Chapter Six §4.0](core_06-06_standing_assessment.md#40-slot-grammar-and-display-labels) primary-stakes routing.
 
 </details>
 
 <br>
 
-- O: The forum family whose dominant stake is sentient-versus-sentient disputes centered on private or community obligations, civil harms, restoration, or local norms, without final resolution of constitutional validity or institutional mandate as the primary question.
+- O: The forum family whose primary stake is sentient-versus-sentient disputes centered on private or community obligations, civil harms, restoration, or local norms, without final resolution of constitutional validity or institutional mandate as the primary question.
 <a id="forum-family-sentient-e"></a>
-- E: Apply Chapter Eight default-venue and dominant-purpose rules together with Chapter Six classification preservation; refuse caption-driven routing that contradicts the dominant stake described in Chapter Nine §2’s table row for **Sentient**.
+- E: Apply Chapter Nine default-venue and primary-stakes rules together with Chapter Six classification preservation; refuse caption-driven routing that contradicts the primary stake described in Chapter Nine §2’s table row for **Sentient**.
 <a id="forum-family-sentient-c"></a>
-- C: Non-compliant: collapsing **Sentient** routing into institutional or constitutional final merits where dominant purpose under Chapter Eight requires another lead family; using **Sentient** forums as the sole mandatory path where asymmetry or dependency requires **Institutional** or **Integrity** availability per Chapter Nine §5.
+- C: Non-compliant: collapsing **Sentient** routing into institutional or constitutional final merits where primary-stakes routing under Chapter Nine requires another lead family; using **Sentient** forums as the sole mandatory path where asymmetry or dependency requires **Institutional** or **Integrity** availability per Chapter Nine §5.
 
 ---
 
@@ -711,11 +732,11 @@ This cluster is the joint-invocation home for the six constitutional forum famil
 
 <br>
 
-- O: The forum family — including specialized chambers or panels within other families — whose dominant stake is technical-governance procedure, expert-evidence standards, knowledge governance, standards stewardship, or bounded uncertainty reduction material to adjudication or regulation.
+- O: The forum family — including specialized chambers or panels within other families — whose primary stake is technical-governance procedure, expert-evidence standards, knowledge governance, standards stewardship, or bounded uncertainty reduction material to adjudication or regulation.
 <a id="forum-family-technical-e"></a>
-- E: Distinguish dominant technical-administration stakes from rights-, mandate-, or ecological-merits stakes that require another family under Chapter Nine §2; preserve cross-family certification rather than letting technical specialization displace ordinary routing (Chapter Nine §4.5).
+- E: Distinguish primary technical-administration stakes from rights-, mandate-, or ecological-merits stakes that require another family under Chapter Nine §2; preserve cross-family certification rather than letting technical specialization displace ordinary routing (Chapter Nine §4.5).
 <a id="forum-family-technical-c"></a>
-- C: Non-compliant: treating technical labels as automatic venue trump over dominant-purpose routing; using technical panels to displace lawfully assigned merits authority for non-technical primary questions.
+- C: Non-compliant: treating technical labels as automatic venue trump over primary-stakes routing; using technical panels to displace lawfully assigned merits authority for non-technical primary questions.
 
 ---
 
@@ -735,7 +756,7 @@ This cluster is the joint-invocation home for the six constitutional forum famil
 <a id="forum-family-institutional-e"></a>
 - E: Verify necessary-party and mandate predicates under Chapter Nine §§2 and 5; coordinate with **Integrity** lead defaults for Chapter Eight classification only where Chapter Nine’s collision rules permit.
 <a id="forum-family-institutional-c"></a>
-- C: Non-compliant: denying **Institutional** routing where the dominant stake row in Chapter Nine §2 requires it; using internal process labels to avoid independent merits review where capture or conflict allegations materially require **Integrity** or backup routing.
+- C: Non-compliant: denying **Institutional** routing where the primary stake row in Chapter Nine §2 requires it; using internal process labels to avoid independent merits review where capture or conflict allegations materially require **Integrity** or backup routing.
 
 ---
 
@@ -751,11 +772,11 @@ This cluster is the joint-invocation home for the six constitutional forum famil
 
 <br>
 
-- O: The forum family whose dominant stake is ecological integrity, environmental preconditions, lifecycle or systemic ecological harm, restoration or remediation of shared systems, attributable environmental burdens, or pattern ecological failure material to classification or Rights-Floor enforcement.
+- O: The forum family whose primary stake is ecological integrity, environmental preconditions, lifecycle or systemic ecological harm, restoration or remediation of shared systems, attributable environmental burdens, or pattern ecological failure material to classification or Rights-Floor enforcement.
 <a id="forum-family-environment-e"></a>
-- E: Integrate Chapter Six and Chapter Nine enforcement hooks with Chapter Nine dominant-purpose tests; preserve certification to **Constitutional** forums where validity or structural remedy merges per Chapter Nine §7.
+- E: Integrate Chapter Six and Chapter Nine enforcement hooks with Chapter Nine primary-stakes tests; preserve certification to **Constitutional** forums where validity or structural remedy merges per Chapter Nine §7.
 <a id="forum-family-environment-c"></a>
-- C: Non-compliant: treating ecological merits as purely private disputes when dominant purpose is environmental under Chapter Nine §2; segmenting restoration and preconditions analysis to defeat joint ecological merits evaluation.
+- C: Non-compliant: treating ecological merits as purely private disputes when the primary stake is environmental under Chapter Nine §2; segmenting restoration and preconditions analysis to defeat joint ecological merits evaluation.
 
 ---
 
@@ -771,7 +792,7 @@ This cluster is the joint-invocation home for the six constitutional forum famil
 
 <br>
 
-- O: The forum family for disputes whose dominant stake is integrity of office, process, contest pathways, disclosure, conflict rules, anti-capture duties, or pattern systemic integrity failure across institutions where classification, final Chapter Eight assignment, or Rights-Floor enforcement depends on that determination — including alignment rulings and coordinated records described in Chapter Nine §4.2.5.
+- O: The forum family for disputes whose primary stake is integrity of office, process, contest pathways, disclosure, conflict rules, anti-capture duties, or pattern systemic integrity failure across institutions where classification, final Chapter Eight assignment, or Rights-Floor enforcement depends on that determination — including alignment rulings and coordinated records described in Chapter Nine §4.2.5.
 <a id="forum-family-integrity-e"></a>
 - E: Apply anti-self-judging backups from Chapter Nine §6 where the forum’s own bias, capture, or concealment is the primary issue; separate alignment-led coordination from provisional operational-law doctrine governed by Chapter Nine §4.3 for other families.
 <a id="forum-family-integrity-c"></a>

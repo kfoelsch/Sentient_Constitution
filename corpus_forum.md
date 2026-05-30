@@ -97,7 +97,7 @@ Each adopting system must publish a forum-structure map that states, in plain la
 - the appeal or review path for each family and chamber configuration;
 - the backup or fallback tribunal used when an ordinary forum cannot lawfully act.
 
-The map must be current, publicly accessible, and cross-referenced to the dominant-purpose routing rules in `core_09-09_forum.md` **Chapter Nine**.
+The map must be current, publicly accessible, and cross-referenced to the primary-stakes routing rules in `core_09-09_forum.md` **Chapter Nine**.
 
 ### CC-2.3 Family distinction and non-collapse rule
 Adopting instruments must preserve the distinct constitutional functions of the **Constitutional**, **Institutional**, **Sentient**, **Integrity**, and **Environment** forum families even where:
@@ -108,7 +108,7 @@ Adopting instruments must preserve the distinct constitutional functions of the 
 
 The following patterns are non-compliant unless adopted through constitutional amendment that lawfully changes Chapter Eight itself:
 - treating one family as a mere chamber of another where the result removes independent routing, review, or remedy authority;
-- giving one family routine authority to decide another family's dominant questions merely by internal reassignment;
+- giving one family routine authority to decide another family's primary questions merely by internal reassignment;
 - using emergency, specialization, efficiency, or caseload pressures as a standing justification for family merger;
 - creating technical, commercial, security, or other specialist forums that operate as de facto sovereign families outside the Chapter Eight structure.
 
@@ -175,7 +175,7 @@ This section governs:
 - declaration that an independent panel cannot be formed;
 - documented activation of backup routing where `core_09-09_forum.md` **Chapter Nine** requires it.
 
-This section does not alter dominant-purpose routing, constitutional family boundaries, or merits standards.
+This section does not alter primary-stakes routing, constitutional family boundaries, or merits standards.
 
 ### CC-3.1 Lawful panel definitions
 For this section:
@@ -311,7 +311,7 @@ Backup activation must be:
 - accompanied by the preserved inability-to-form and recusal record;
 - reviewable after transfer.
 
-Backup activation does not authorize silent recharacterization of the case's dominant purpose.
+Backup activation does not authorize silent recharacterization of the case's primary stakes.
 
 ### CC-3.12 Interim relief while panel independence is disputed
 If a fully independent merits panel cannot yet be formed, a provisional authority may issue only those interim orders strictly necessary to:
@@ -359,7 +359,7 @@ This section operationalizes Chapter Eight. It governs:
 - recordkeeping and publication for routing changes;
 - coordination interfaces for **Integrity** forum **alignment** rulings (**CC-6**) where routing and referral sequencing intersect intake and certification.
 
-This section must implement, and not alter, the dominant-purpose rule in `core_09-09_forum.md` **Chapter Nine**.
+This section must implement, and not alter, the primary-stakes rule in `core_09-09_forum.md` **Chapter Nine**.
 
 **Chapter Nine linkage.** **Per-family intake triage bodies** are constitutionally required in **Chapter Eight**, **section 5** (together with **default venue** in **section 2**, **forensic and analytical support** in **section 3**, and **transfer**, **consolidation**, **certification**, and **backup** discipline in **sections 6 and 7**); they are **not** a separate forum family. **CC-4.1**–**CC-4.2** operationalize that requirement and its **non-substitution** boundary for **merits** panels.
 
@@ -476,11 +476,11 @@ Omission of a materially required element makes the corrective measure or restri
 - **stays**, **sequencing**, **milestones**, or **coordination** orders the **Integrity** tribunal **retains** on the **lead** record;
 - where applicable, **remediation** **options** or **menus** and which elements are **binding** versus **advisory**, consistent with **Chapter Eight**, **section** **4**.
 
-**Referral priority publication.** Adopting instruments must publish **tie-break** rules for **ordering** **component** referrals and **overlapping** **urgency** — **without** displacing **dominant-purpose** assignment of **merits**. Published criteria must account for **Rights-Floor** **urgency**, **irreversible** **harm** risk, **classification** or **compliance** **dependency** where **Chapter Six** is implicated, **evidentiary** **decay** or **preservation** **need**, and **practical** **resolution** **sequence**. **Opaque** or **caption-driven** sorting at the referral threshold is presumptively non-compliant.
+**Referral priority publication.** Adopting instruments must publish **tie-break** rules for **ordering** **component** referrals and **overlapping** **urgency** — **without** displacing **primary-stakes** assignment of **merits**. Published criteria must account for **Rights-Floor** **urgency**, **irreversible** **harm** risk, **classification** or **compliance** **dependency** where **Chapter Six** is implicated, **evidentiary** **decay** or **preservation** **need**, and **practical** **resolution** **sequence**. **Opaque** or **caption-driven** sorting at the referral threshold is presumptively non-compliant.
 
 **Neutral coordination role.** **Supervisory coordination** applies the `corpus_joint_structure.md` **CJS-3.3** merits-boundary rule to **forum-managed** **stays**, **sequencing**, **status** review, and **milestone** **accountability**. It is **not** partisan **advocacy** for a party outcome and **not** a substitute for **prosecutorial**, **institutional**, or **investigative** **merits** bodies where those roles are lawfully distinct under **CC-8** and `corpus_institutions.md`.
 
-**Merits boundaries.** **Integrity** tribunals **must** **not** issue **final** **merits** determinations **reserved** to **another** family's **dominant** question — including **constitutional** validity and **class-wide** **structural** remedy — except where **Chapter Eight** assigns that **primary** stake to **Integrity** forums. Tribunals receiving **referrals** exercise **their** **lawful** **merits** authority and **must** treat **binding** **integrity** findings and **coordination** orders on the **lead** **Integrity** record as **lawful** **inputs** under **certification**, **issue** **preclusion**, **stay**, and **sequencing** rules — **without** **collateral** **re-litigation** of those findings **outside** **published** review paths.
+**Merits boundaries.** **Integrity** tribunals **must** **not** issue **final** **merits** determinations **reserved** to **another** family's **primary** question — including **constitutional** validity and **class-wide** **structural** remedy — except where **Chapter Nine** assigns that **primary** stake to **Integrity** forums. Tribunals receiving **referrals** exercise **their** **lawful** **merits** authority and **must** treat **binding** **integrity** findings and **coordination** orders on the **lead** **Integrity** record as **lawful** **inputs** under **certification**, **issue** **preclusion**, **stay**, and **sequencing** rules — **without** **collateral** **re-litigation** of those findings **outside** **published** review paths.
 
 **Disposition effect labeling.** Where an **alignment** ruling materially stabilizes outcomes beyond the named parties, adopting instruments should identify the applicable **CC-5.1** effect code(s) — ordinarily at least **CC-5.1.102** when **pattern** or **shared-practice** stakes are material — and must **not** silently treat **alignment** rulings as **CC-5.1.103** **general** panel-rule doctrine when **constitutional** **certification** under `core_09-09_forum.md` **Chapter Nine**, **section** **7** is **required**.
 
@@ -488,7 +488,7 @@ Omission of a materially required element makes the corrective measure or restri
 
 **Purpose.** Provide official, contestable forum mechanics for recognizing new materially impactful systems as constitutionally aligned within a stated scope, and for validating whether existing systems remain aligned over time. This subsection implements `core_09-09_forum.md` **Chapter Nine**, **sections 4, 6, and 7**, and works with `corpus_systems.md` **Protocol A** and **Chapter S2** classification and revalidation duties.
 
-**Technical-specification and environmental-component separation.** **Technical specialist forums** under **CC-9** maintain the technical specifications, measurement methods, test protocols, expert-evidence standards, and domain-specific criteria used in system-alignment assessment. **Environment** forums hold environmental-alignment component review where material ecological exposure, environmental-precondition dependency, lifecycle burden, restoration duty, or reasonably foreseeable ecological risk exists. **Integrity** forums make the official constitutional alignment recognition, validation, revalidation, and remediation-supervision record. Integrity forums must use technical-forum standards where materially applicable, may certify technical questions to the proper technical forum, and must not rewrite technical specifications as a substitute for referral. Integrity forums must obtain and record the Environment forum's environmental-alignment approval, conditional approval, objection, remediation requirement, or release-from-condition finding where material ecological exposure exists. Technical forums must not treat specification maintenance or technical adequacy findings as final constitutional alignment recognition unless `core_09-09_forum.md` independently assigns that dominant stake to them.
+**Technical-specification and environmental-component separation.** **Technical specialist forums** under **CC-9** maintain the technical specifications, measurement methods, test protocols, expert-evidence standards, and domain-specific criteria used in system-alignment assessment. **Environment** forums hold environmental-alignment component review where material ecological exposure, environmental-precondition dependency, lifecycle burden, restoration duty, or reasonably foreseeable ecological risk exists. **Integrity** forums make the official constitutional alignment recognition, validation, revalidation, and remediation-supervision record. Integrity forums must use technical-forum standards where materially applicable, may certify technical questions to the proper technical forum, and must not rewrite technical specifications as a substitute for referral. Integrity forums must obtain and record the Environment forum's environmental-alignment approval, conditional approval, objection, remediation requirement, or release-from-condition finding where material ecological exposure exists. Technical forums must not treat specification maintenance or technical adequacy findings as final constitutional alignment recognition unless `core_09-09_forum.md` independently assigns that primary stake to them.
 
 **Triggering events.** Alignment recognition or review must be available when any of the following materially applies:
 - a new system seeks constitutional recognition, incorporation, deployment approval, reliance by a public or critical steward, or other official status within an adopting order;
@@ -604,7 +604,7 @@ Where institutions exercise or supervise **civil**, **criminal**, **constitution
 
 Where adopting instruments create **science specialist forums**, **engineering specialist forums**, **medical specialist forums**, or comparable technical specialist forums, those bodies must operate as specialized chambers or designated panels within the existing forum families recognized in `core_09-09_forum.md` **Chapter Nine**.
 
-**Purpose.** Provide a reviewable forum for expert-evidence standards and for disputes whose dominant character is scientific, engineering, medical, or comparable knowledge-administrative governance, without turning technical specialization into an unaccountable parallel judiciary.
+**Purpose.** Provide a reviewable forum for expert-evidence standards and for disputes whose primary character is scientific, engineering, medical, or comparable knowledge-administrative governance, without turning technical specialization into an unaccountable parallel judiciary.
 
 **Functions.** Technical specialist forums may perform all of the following functions:
 - publish and periodically revise standards for scientific, engineering, medical, and comparable expert evidence used by other specialist forums, including expectations for reproducibility, uncertainty treatment, evidentiary sufficiency, replication status, validation quality, causal inference, safety margins, standards conformance, meta-analysis quality, and treatment of conflicting findings;
@@ -614,18 +614,18 @@ Where adopting instruments create **science specialist forums**, **engineering s
 
 **Primary chamber coverage.** Adopting instruments should at minimum specify:
 - a **science chamber** for research integrity, publication and review governance, replication, meta-research, research-record custody, and textbook or curriculum evidence disputes;
-- an **engineering chamber** for standards conformance, testing sufficiency, failure analysis, infrastructure integrity, safety margins, interoperability, and negligent-design or maintenance questions where the dominant issue is technical-governance procedure or evidentiary standards;
-- a **medicine chamber** for clinical-evidence hierarchy, trial governance, guideline integrity, drug or device evidence disputes, public-health evidence administration, and standard-of-care questions where the dominant issue is clinical evidence governance rather than ordinary tort or criminal liability.
+- an **engineering chamber** for standards conformance, testing sufficiency, failure analysis, infrastructure integrity, safety margins, interoperability, and negligent-design or maintenance questions where the primary issue is technical-governance procedure or evidentiary standards;
+- a **medicine chamber** for clinical-evidence hierarchy, trial governance, guideline integrity, drug or device evidence disputes, public-health evidence administration, and standard-of-care questions where the primary issue is clinical evidence governance rather than ordinary tort or criminal liability.
 
 **Additional chambers.** Adopting instruments may also create technical specialist forums or chambers for ecology and climate, education, information and computation, forensics, economics and public-policy analysis, statistics and methodology, or other domains where expert-evidence governance has recurring constitutional significance.
 
-**Routing and limits.** Technical specialist forums must not displace the dominant-purpose routing rules in `core_09-09_forum.md` **Chapter Nine**. They may hear certified questions, designated administrative matters, or merits disputes whose primary issue is expert procedure or expert-evidence governance, including technical system-alignment specifications and testing methods. They must not become the default merits forum for ordinary civil injury, criminal liability, constitutional-rights enforcement, institutional-mandate disputes, or official constitutional alignment recognition or validation merely because expert evidence is involved.
+**Routing and limits.** Technical specialist forums must not displace the primary-stakes routing rules in `core_09-09_forum.md` **Chapter Nine**. They may hear certified questions, designated administrative matters, or merits disputes whose primary issue is expert procedure or expert-evidence governance, including technical system-alignment specifications and testing methods. They must not become the default merits forum for ordinary civil injury, criminal liability, constitutional-rights enforcement, institutional-mandate disputes, or official constitutional alignment recognition or validation merely because expert evidence is involved.
 
 **Standard-setting constraints.** Published expert-evidence standards must be reasoned, auditable, contestable, and periodically reviewable. They must distinguish evidentiary weight from policy choice, preserve room for minority or emerging views that meet good-faith methodological standards, and avoid freezing one school, method, professional guild, journal network, vendor bloc, or disciplinary cartel into binding orthodoxy.
 
 **Shared-standards / decentralized-enforcement default.** Where adopting instruments use common standards across multiple institutions, jurisdictions, or forum families, technical specialist forums should act as the principal maintenance forum for those standards within their lawful subject-matter scope. Ordinary enforcement should remain decentralized: the constitutionally designated lead tribunal for the dispute applies the shared standard to the parties before it, preserves local fact sensitivity, and issues the operative remedy.
 
-**Institutional-forum interface.** Where a shared technical, scientific, engineering, medical, or comparable operational standard is invoked against an institution, regulator, steward, operator, or supervised body, the ordinary merits and compliance forum should be the **Institutional** forum family unless `core_09-09_forum.md` **Chapter Nine** assigns another lead family by dominant purpose. Technical specialist forums may hear certified questions, validity challenges to the standard itself, or disputes whose dominant stake is standards governance; they should not become the routine venue for every enforcement action merely because a technical standard is relevant.
+**Institutional-forum interface.** Where a shared technical, scientific, engineering, medical, or comparable operational standard is invoked against an institution, regulator, steward, operator, or supervised body, the ordinary merits and compliance forum should be the **Institutional** forum family unless `core_09-09_forum.md` **Chapter Nine** assigns another lead family by primary stakes. Technical specialist forums may hear certified questions, validity challenges to the standard itself, or disputes whose primary stake is standards governance; they should not become the routine venue for every enforcement action merely because a technical standard is relevant.
 
 **Departure and variance rule.** Shared standards published by technical specialist forums are presumptively applicable requirements within adopted scope, not silent maxima. A lead tribunal may adopt a stricter application where the constitution, adopting law, or materially distinct facts require it. A lead tribunal may depart from a published standard only through a reasoned and reviewable record that:
 - identifies the standard and the point of departure;
@@ -945,7 +945,7 @@ Each forum family must identify, in advance:
 - how the designated backup family under Chapter Eight will receive emergency matters if anti-self-judging or inability-to-form conditions activate;
 - how transfer records, docket identity, and review rights will be preserved across the shift.
 
-Fallback operation must preserve dominant-purpose routing as much as feasible. It does not authorize silent reclassification of the matter.
+Fallback operation must preserve primary-stakes routing as much as feasible. It does not authorize silent reclassification of the matter.
 
 ### CC-11.8 Record continuity and custody
 Forum emergency adjudication requires continuous preservation of:
@@ -1154,7 +1154,7 @@ Where more than one tribunal, region, or chamber can hear a matter, assignment a
 - resistant to manipulation for preferred outcomes, preferred judges, or partisan concentration;
 - auditable after the fact.
 
-Internal administrative convenience must not become a covert routing mechanism that defeats dominant-purpose allocation or anti-self-judging protections.
+Internal administrative convenience must not become a covert routing mechanism that defeats primary-stakes allocation or anti-self-judging protections.
 
 ### CC-13.4 Prohibited staffing, capacity, and governance patterns
 The following patterns are non-compliant:

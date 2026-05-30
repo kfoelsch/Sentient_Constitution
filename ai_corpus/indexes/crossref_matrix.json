@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/crossref_matrix.schema.json",
-  "generated_at": "2026-05-30T09:40:15+00:00",
+  "generated_at": "2026-05-30T11:41:03+00:00",
   "description": "Source-derived file-to-file Markdown reference graph.",
   "graph": {
     "nodes": [
@@ -1216,14 +1216,18 @@
           },
           {
             "file": "core_09-09_forum.md",
-            "count": 7,
+            "count": 11,
             "anchors": [
+              "#2-default-venue-and-primary-stakes",
               "#421-sentient-forums",
               "#422-technical-forum-domains",
               "#423-institutional-forums",
               "#424-environment-forums",
               "#425-integrity-forums",
-              "#426-constitutional-forums"
+              "#426-constitutional-forums",
+              "#5-intake-triage-mixed-stakes-and-routing-asymmetry",
+              "#6-transfer-consolidation-and-coordination",
+              "#7-escalation-and-certification"
             ]
           },
           {
@@ -1798,7 +1802,7 @@
             "file": "core_09-09_forum.md",
             "count": 11,
             "anchors": [
-              "#2-default-venue-and-dominant-purpose",
+              "#2-default-venue-and-primary-stakes",
               "#5-intake-triage-mixed-stakes-and-routing-asymmetry",
               "#6-transfer-consolidation-and-coordination",
               "#7-escalation-and-certification",
@@ -1907,8 +1911,9 @@
           },
           {
             "file": "core_06-06_standing_assessment.md",
-            "count": 11,
+            "count": 12,
             "anchors": [
+              "#2-standing-records",
               "#4-axis-ii-violation-nature-legal-constitutional-type",
               "#4-primary-category-defaults-and-lequ-slot-baseline",
               "#40-slot-grammar-and-display-labels",
