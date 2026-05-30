@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-05-29T13:37:35+00:00",
+  "generated_at": "2026-05-30T09:40:15+00:00",
   "files": {
     "core_00-01_principles.md": {
       "total_lines": 1440,
@@ -3387,20 +3387,20 @@
       ]
     },
     "core_09-09_forum.md": {
-      "total_lines": 388,
+      "total_lines": 394,
       "sections": [
         {
           "header": "Sentient Constitution — Forums and jurisdiction",
           "level": 1,
           "line_start": 1,
-          "line_end": 388,
+          "line_end": 394,
           "anchor": null
         },
         {
           "header": "CHAPTER NINE: FORUMS AND JURISDICTION",
           "level": 2,
           "line_start": 8,
-          "line_end": 388,
+          "line_end": 394,
           "anchor": null
         },
         {
@@ -3414,196 +3414,196 @@
           "header": "2. Default venue and dominant purpose",
           "level": 3,
           "line_start": 74,
-          "line_end": 115,
+          "line_end": 116,
           "anchor": null
         },
         {
           "header": "3. Forensic and analytical support",
           "level": 3,
-          "line_start": 116,
-          "line_end": 131,
+          "line_start": 117,
+          "line_end": 132,
           "anchor": null
         },
         {
           "header": "4. Forum families",
           "level": 3,
-          "line_start": 132,
-          "line_end": 225,
+          "line_start": 133,
+          "line_end": 229,
           "anchor": null
         },
         {
           "header": "4.1 Minimum distinct forum families",
           "level": 4,
-          "line_start": 147,
-          "line_end": 157,
+          "line_start": 148,
+          "line_end": 158,
           "anchor": null
         },
         {
           "header": "4.2 Forum family definitions",
           "level": 4,
-          "line_start": 158,
-          "line_end": 200,
+          "line_start": 159,
+          "line_end": 204,
           "anchor": null
         },
         {
           "header": "4.2.1 Sentient forums",
           "level": 5,
-          "line_start": 162,
-          "line_end": 165,
+          "line_start": 163,
+          "line_end": 166,
           "anchor": null
         },
         {
           "header": "4.2.2 Technical Forum Domains",
           "level": 5,
-          "line_start": 166,
-          "line_end": 173,
+          "line_start": 167,
+          "line_end": 176,
           "anchor": null
         },
         {
           "header": "4.2.3 Institutional forums",
           "level": 5,
-          "line_start": 174,
-          "line_end": 177,
+          "line_start": 177,
+          "line_end": 180,
           "anchor": null
         },
         {
           "header": "4.2.4 Environment forums",
           "level": 5,
-          "line_start": 178,
-          "line_end": 181,
+          "line_start": 181,
+          "line_end": 184,
           "anchor": null
         },
         {
           "header": "4.2.5 Integrity forums",
           "level": 5,
-          "line_start": 182,
-          "line_end": 191,
+          "line_start": 185,
+          "line_end": 195,
           "anchor": null
         },
         {
           "header": "4.2.6 Constitutional forums",
           "level": 5,
-          "line_start": 192,
-          "line_end": 200,
+          "line_start": 196,
+          "line_end": 204,
           "anchor": null
         },
         {
           "header": "4.3 Provisional companion operational law",
           "level": 4,
-          "line_start": 201,
-          "line_end": 213,
+          "line_start": 205,
+          "line_end": 217,
           "anchor": null
         },
         {
           "header": "4.4 Chambers",
           "level": 4,
-          "line_start": 214,
-          "line_end": 217,
+          "line_start": 218,
+          "line_end": 221,
           "anchor": null
         },
         {
           "header": "4.5 Shared standards and anti-displacement",
           "level": 4,
-          "line_start": 218,
-          "line_end": 225,
+          "line_start": 222,
+          "line_end": 229,
           "anchor": null
         },
         {
           "header": "5. Intake triage, mixed stakes, and routing asymmetry",
           "level": 3,
-          "line_start": 226,
-          "line_end": 254,
+          "line_start": 230,
+          "line_end": 258,
           "anchor": null
         },
         {
           "header": "6. Transfer, consolidation, and coordination",
           "level": 3,
-          "line_start": 255,
-          "line_end": 289,
+          "line_start": 259,
+          "line_end": 294,
           "anchor": null
         },
         {
           "header": "7. Escalation and certification",
           "level": 3,
-          "line_start": 290,
-          "line_end": 353,
+          "line_start": 295,
+          "line_end": 359,
           "anchor": null
         },
         {
           "header": "Family-to-family escalation",
           "level": 4,
-          "line_start": 304,
-          "line_end": 310,
-          "anchor": null
-        },
-        {
-          "header": "Existential risk and uncertainty on the record",
-          "level": 4,
-          "line_start": 311,
+          "line_start": 309,
           "line_end": 315,
           "anchor": null
         },
         {
-          "header": "Certification to **Constitutional** forums",
+          "header": "Existential risk and uncertainty on the record",
           "level": 4,
           "line_start": 316,
           "line_end": 320,
           "anchor": null
         },
         {
-          "header": "Technical support and preserved **Integrity** escalation",
+          "header": "Certification to **Constitutional** forums",
           "level": 4,
           "line_start": 321,
-          "line_end": 325,
+          "line_end": 326,
+          "anchor": null
+        },
+        {
+          "header": "Technical support and preserved **Integrity** escalation",
+          "level": 4,
+          "line_start": 327,
+          "line_end": 331,
           "anchor": null
         },
         {
           "header": "Interim protection",
           "level": 4,
-          "line_start": 326,
-          "line_end": 329,
+          "line_start": 332,
+          "line_end": 335,
           "anchor": null
         },
         {
           "header": "Backup routing under the anti-self-judging rule",
           "level": 4,
-          "line_start": 330,
-          "line_end": 333,
+          "line_start": 336,
+          "line_end": 339,
           "anchor": null
         },
         {
           "header": "Sentience-status adjudication (Article V-E companion hook)",
           "level": 4,
-          "line_start": 334,
-          "line_end": 342,
+          "line_start": 340,
+          "line_end": 348,
           "anchor": null
         },
         {
           "header": "Referral distinguished from expansion",
           "level": 4,
-          "line_start": 343,
-          "line_end": 348,
+          "line_start": 349,
+          "line_end": 354,
           "anchor": null
         },
         {
           "header": "Chapter Eight slot assignment and independent review",
           "level": 4,
-          "line_start": 349,
-          "line_end": 353,
+          "line_start": 355,
+          "line_end": 359,
           "anchor": null
         },
         {
           "header": "8. Anti-gaming and interim relief",
           "level": 3,
-          "line_start": 354,
-          "line_end": 373,
+          "line_start": 360,
+          "line_end": 379,
           "anchor": null
         },
         {
           "header": "9. Relation to companion volumes",
           "level": 3,
-          "line_start": 374,
-          "line_end": 388,
+          "line_start": 380,
+          "line_end": 394,
           "anchor": null
         }
       ]
@@ -4995,13 +4995,13 @@
       ]
     },
     "corpus_forum.md": {
-      "total_lines": 1155,
+      "total_lines": 1190,
       "sections": [
         {
           "header": "Constitutional Forums",
           "level": 1,
           "line_start": 1,
-          "line_end": 1155,
+          "line_end": 1190,
           "anchor": null
         },
         {
@@ -5239,7 +5239,7 @@
           "header": "CC-6: Integrity safeguards, anti-capture operations, and anti-self-judging support",
           "level": 2,
           "line_start": 460,
-          "line_end": 503,
+          "line_end": 537,
           "anchor": null
         },
         {
@@ -5250,374 +5250,381 @@
           "anchor": null
         },
         {
-          "header": "CC-6.2 Anti-self-judging activation, capture-sensitive routing, and contest-integrity interfaces",
+          "header": "CC-6.1A Constitutional alignment recognition and review",
           "level": 3,
           "line_start": 487,
-          "line_end": 503,
+          "line_end": 519,
+          "anchor": null
+        },
+        {
+          "header": "CC-6.2 Anti-self-judging activation, capture-sensitive routing, and contest-integrity interfaces",
+          "level": 3,
+          "line_start": 520,
+          "line_end": 537,
           "anchor": null
         },
         {
           "header": "CC-7: Forum forensic and analytical support",
           "level": 2,
-          "line_start": 504,
-          "line_end": 528,
+          "line_start": 538,
+          "line_end": 562,
           "anchor": null
         },
         {
           "header": "CC-8: Independent investigative service and prosecution interface",
           "level": 2,
-          "line_start": 529,
-          "line_end": 564,
+          "line_start": 563,
+          "line_end": 598,
           "anchor": null
         },
         {
           "header": "CC-9: Technical specialist forums and specialist chambers",
           "level": 2,
-          "line_start": 565,
-          "line_end": 616,
+          "line_start": 599,
+          "line_end": 651,
           "anchor": null
         },
         {
           "header": "CC-10: Forum performance, backlog requirements, publication timeliness, and accessibility",
           "level": 2,
-          "line_start": 617,
-          "line_end": 818,
+          "line_start": 652,
+          "line_end": 853,
           "anchor": null
         },
         {
           "header": "CC-10.0 Class-scaled service requirements (notice through remediation closure)",
           "level": 3,
-          "line_start": 634,
-          "line_end": 648,
+          "line_start": 669,
+          "line_end": 683,
           "anchor": null
         },
         {
           "header": "CC-10.1 Core rule",
           "level": 3,
-          "line_start": 649,
-          "line_end": 657,
+          "line_start": 684,
+          "line_end": 692,
           "anchor": null
         },
         {
           "header": "CC-10.2 Minimum metric categories",
           "level": 3,
-          "line_start": 658,
-          "line_end": 670,
+          "line_start": 693,
+          "line_end": 705,
           "anchor": null
         },
         {
           "header": "CC-10.3 Case classes and urgency classes",
           "level": 3,
-          "line_start": 671,
-          "line_end": 680,
+          "line_start": 706,
+          "line_end": 715,
           "anchor": null
         },
         {
           "header": "CC-10.4 Minimum timing floors",
           "level": 3,
-          "line_start": 681,
-          "line_end": 698,
+          "line_start": 716,
+          "line_end": 733,
           "anchor": null
         },
         {
           "header": "CC-10.5 Backlog thresholds and alerts",
           "level": 3,
-          "line_start": 699,
-          "line_end": 711,
+          "line_start": 734,
+          "line_end": 746,
           "anchor": null
         },
         {
           "header": "CC-10.6 Required remediation actions for backlog",
           "level": 3,
-          "line_start": 712,
-          "line_end": 730,
+          "line_start": 747,
+          "line_end": 765,
           "anchor": null
         },
         {
           "header": "CC-10.7 Accessibility and pathway usability requirements",
           "level": 3,
-          "line_start": 731,
-          "line_end": 743,
+          "line_start": 766,
+          "line_end": 778,
           "anchor": null
         },
         {
           "header": "CC-10.8 Publication timeliness",
           "level": 3,
-          "line_start": 744,
-          "line_end": 752,
+          "line_start": 779,
+          "line_end": 787,
           "anchor": null
         },
         {
           "header": "CC-10.9 Restricted-evidence timing",
           "level": 3,
-          "line_start": 753,
-          "line_end": 761,
+          "line_start": 788,
+          "line_end": 796,
           "anchor": null
         },
         {
           "header": "CC-10.10 Contest-integrity monitoring interface",
           "level": 3,
-          "line_start": 762,
-          "line_end": 771,
+          "line_start": 797,
+          "line_end": 806,
           "anchor": null
         },
         {
           "header": "CC-10.11 Governance disclosure fields for forum performance",
           "level": 3,
-          "line_start": 772,
-          "line_end": 783,
+          "line_start": 807,
+          "line_end": 818,
           "anchor": null
         },
         {
           "header": "CC-10.12 Non-compliant performance patterns",
           "level": 3,
-          "line_start": 784,
-          "line_end": 792,
+          "line_start": 819,
+          "line_end": 827,
           "anchor": null
         },
         {
           "header": "CC-10.13 Forum-performance review cadence",
           "level": 3,
-          "line_start": 793,
-          "line_end": 800,
+          "line_start": 828,
+          "line_end": 835,
           "anchor": null
         },
         {
           "header": "CC-10.14 Evidence and artifacts",
           "level": 3,
-          "line_start": 801,
-          "line_end": 809,
+          "line_start": 836,
+          "line_end": 844,
           "anchor": null
         },
         {
           "header": "CC-10.15 Lived conditions during restriction and re-entry alignment (cross-layer)",
           "level": 3,
-          "line_start": 810,
-          "line_end": 818,
+          "line_start": 845,
+          "line_end": 853,
           "anchor": null
         },
         {
           "header": "CC-11: Forum continuity, fallback operation, and emergency adjudication",
           "level": 2,
-          "line_start": 819,
-          "line_end": 998,
+          "line_start": 854,
+          "line_end": 1033,
           "anchor": null
         },
         {
           "header": "CC-11.1 Rights-Floor continuity rule",
           "level": 3,
-          "line_start": 837,
-          "line_end": 846,
+          "line_start": 872,
+          "line_end": 881,
           "anchor": null
         },
         {
           "header": "CC-11.2 Continuity modes",
           "level": 3,
-          "line_start": 847,
-          "line_end": 856,
+          "line_start": 882,
+          "line_end": 891,
           "anchor": null
         },
         {
           "header": "CC-11.3 Activation triggers",
           "level": 3,
-          "line_start": 857,
-          "line_end": 874,
+          "line_start": 892,
+          "line_end": 909,
           "anchor": null
         },
         {
           "header": "CC-11.4 Continuity minimum functions",
           "level": 3,
-          "line_start": 875,
-          "line_end": 883,
+          "line_start": 910,
+          "line_end": 918,
           "anchor": null
         },
         {
           "header": "CC-11.5 Emergency triage hierarchy",
           "level": 3,
-          "line_start": 884,
-          "line_end": 893,
+          "line_start": 919,
+          "line_end": 928,
           "anchor": null
         },
         {
           "header": "CC-11.6 Temporary quorum and provisional authority",
           "level": 3,
-          "line_start": 894,
-          "line_end": 902,
+          "line_start": 929,
+          "line_end": 937,
           "anchor": null
         },
         {
           "header": "CC-11.7 Fallback venues and backup forums",
           "level": 3,
-          "line_start": 903,
-          "line_end": 910,
+          "line_start": 938,
+          "line_end": 945,
           "anchor": null
         },
         {
           "header": "CC-11.8 Record continuity and custody",
           "level": 3,
-          "line_start": 911,
-          "line_end": 922,
+          "line_start": 946,
+          "line_end": 957,
           "anchor": null
         },
         {
           "header": "CC-11.9 Communication duties",
           "level": 3,
-          "line_start": 923,
-          "line_end": 931,
+          "line_start": 958,
+          "line_end": 966,
           "anchor": null
         },
         {
           "header": "CC-11.10 Independent review during emergency mode",
           "level": 3,
-          "line_start": 932,
-          "line_end": 942,
+          "line_start": 967,
+          "line_end": 977,
           "anchor": null
         },
         {
           "header": "CC-11.11 Capture-sensitive continuity",
           "level": 3,
-          "line_start": 943,
-          "line_end": 949,
+          "line_start": 978,
+          "line_end": 984,
           "anchor": null
         },
         {
           "header": "CC-11.12 Cross-system and cross-institution coordination",
           "level": 3,
-          "line_start": 950,
-          "line_end": 958,
+          "line_start": 985,
+          "line_end": 993,
           "anchor": null
         },
         {
           "header": "CC-11.13 Restoration and reconciliation",
           "level": 3,
-          "line_start": 959,
-          "line_end": 967,
+          "line_start": 994,
+          "line_end": 1002,
           "anchor": null
         },
         {
           "header": "CC-11.14 Post-incident review",
           "level": 3,
-          "line_start": 968,
-          "line_end": 976,
+          "line_start": 1003,
+          "line_end": 1011,
           "anchor": null
         },
         {
           "header": "CC-11.15 Exercises and testing",
           "level": 3,
-          "line_start": 977,
-          "line_end": 987,
+          "line_start": 1012,
+          "line_end": 1022,
           "anchor": null
         },
         {
           "header": "CC-11.16 Non-compliant emergency patterns",
           "level": 3,
-          "line_start": 988,
-          "line_end": 998,
+          "line_start": 1023,
+          "line_end": 1033,
           "anchor": null
         },
         {
           "header": "CC-12: Standard records, forms, and evidence artifacts",
           "level": 2,
-          "line_start": 999,
-          "line_end": 1077,
+          "line_start": 1034,
+          "line_end": 1112,
           "anchor": null
         },
         {
           "header": "CC-12.1 Minimum record set",
           "level": 3,
-          "line_start": 1007,
-          "line_end": 1032,
+          "line_start": 1042,
+          "line_end": 1067,
           "anchor": null
         },
         {
           "header": "CC-12.2 Required fields",
           "level": 3,
-          "line_start": 1033,
-          "line_end": 1045,
+          "line_start": 1068,
+          "line_end": 1080,
           "anchor": null
         },
         {
           "header": "CC-12.3 Access classes",
           "level": 3,
-          "line_start": 1046,
-          "line_end": 1056,
+          "line_start": 1081,
+          "line_end": 1091,
           "anchor": null
         },
         {
           "header": "CC-12.4 Evidence artifact handling",
           "level": 3,
-          "line_start": 1057,
-          "line_end": 1061,
+          "line_start": 1092,
+          "line_end": 1096,
           "anchor": null
         },
         {
           "header": "CC-12.5 Publication, retention, and reconciliation",
           "level": 3,
-          "line_start": 1062,
-          "line_end": 1066,
+          "line_start": 1097,
+          "line_end": 1101,
           "anchor": null
         },
         {
           "header": "CC-12.6 Non-compliant record patterns",
           "level": 3,
-          "line_start": 1067,
-          "line_end": 1077,
+          "line_start": 1102,
+          "line_end": 1112,
           "anchor": null
         },
         {
           "header": "CC-13: Forum staffing, reserve capacity, shared administration, structural review, and structural records",
           "level": 2,
-          "line_start": 1078,
-          "line_end": 1149,
+          "line_start": 1113,
+          "line_end": 1184,
           "anchor": null
         },
         {
           "header": "CC-13.1 Composition and competence requirements",
           "level": 3,
-          "line_start": 1082,
-          "line_end": 1095,
+          "line_start": 1117,
+          "line_end": 1130,
           "anchor": null
         },
         {
           "header": "CC-13.2 Reserve, substitute, and surge capacity",
           "level": 3,
-          "line_start": 1096,
-          "line_end": 1108,
+          "line_start": 1131,
+          "line_end": 1143,
           "anchor": null
         },
         {
           "header": "CC-13.3 Shared administration and objective assignment safeguards",
           "level": 3,
-          "line_start": 1109,
-          "line_end": 1119,
+          "line_start": 1144,
+          "line_end": 1154,
           "anchor": null
         },
         {
           "header": "CC-13.4 Prohibited staffing, capacity, and governance patterns",
           "level": 3,
-          "line_start": 1120,
-          "line_end": 1129,
+          "line_start": 1155,
+          "line_end": 1164,
           "anchor": null
         },
         {
           "header": "CC-13.5 Structural review and revision cadence",
           "level": 3,
-          "line_start": 1130,
-          "line_end": 1138,
+          "line_start": 1165,
+          "line_end": 1173,
           "anchor": null
         },
         {
           "header": "CC-13.6 Required structural records and artifacts",
           "level": 3,
-          "line_start": 1139,
-          "line_end": 1149,
+          "line_start": 1174,
+          "line_end": 1184,
           "anchor": null
         },
         {
           "header": "Relationship to existing files",
           "level": 2,
-          "line_start": 1150,
-          "line_end": 1155,
+          "line_start": 1185,
+          "line_end": 1190,
           "anchor": null
         }
       ]
@@ -6578,202 +6585,202 @@
       ]
     },
     "corpus_systems.md": {
-      "total_lines": 2168,
+      "total_lines": 2174,
       "sections": [
         {
           "header": "Protocol A: System Design, Testing, Verification, and Deployment",
           "level": 2,
           "line_start": 48,
-          "line_end": 287,
+          "line_end": 289,
           "anchor": null
         },
         {
           "header": "Protocol B: System Comprehensibility and Complexity Stewardship",
           "level": 2,
-          "line_start": 288,
-          "line_end": 308,
+          "line_start": 290,
+          "line_end": 310,
           "anchor": null
         },
         {
           "header": "Protocol C: Justice Safeguards, Restitution, and Rehabilitation Implementation",
           "level": 2,
-          "line_start": 309,
-          "line_end": 439,
+          "line_start": 311,
+          "line_end": 441,
           "anchor": null
         },
         {
           "header": "1. Scope and trigger",
           "level": 3,
-          "line_start": 315,
-          "line_end": 319,
+          "line_start": 317,
+          "line_end": 321,
           "anchor": null
         },
         {
           "header": "2. Mandatory validation record",
           "level": 3,
-          "line_start": 320,
-          "line_end": 330,
+          "line_start": 322,
+          "line_end": 332,
           "anchor": null
         },
         {
           "header": "3. Class-scaled assurance requirements",
           "level": 3,
-          "line_start": 331,
-          "line_end": 341,
+          "line_start": 333,
+          "line_end": 343,
           "anchor": null
         },
         {
           "header": "4. Least-restrictive, time-bounded, and restoration rules",
           "level": 3,
-          "line_start": 342,
-          "line_end": 348,
+          "line_start": 344,
+          "line_end": 350,
           "anchor": null
         },
         {
           "header": "5. Prohibited retaliatory forms",
           "level": 3,
-          "line_start": 349,
-          "line_end": 355,
+          "line_start": 351,
+          "line_end": 357,
           "anchor": null
         },
         {
           "header": "6. Voluntary public accountability expression",
           "level": 3,
-          "line_start": 356,
-          "line_end": 362,
+          "line_start": 358,
+          "line_end": 364,
           "anchor": null
         },
         {
           "header": "7. Metrics and oversight",
           "level": 3,
-          "line_start": 363,
-          "line_end": 375,
+          "line_start": 365,
+          "line_end": 377,
           "anchor": null
         },
         {
           "header": "8. Cross-jurisdiction execution and anti-evasion controls",
           "level": 3,
-          "line_start": 376,
-          "line_end": 399,
+          "line_start": 378,
+          "line_end": 401,
           "anchor": null
         },
         {
           "header": "9. Proportional compliance templates (class-scaled)",
           "level": 3,
-          "line_start": 400,
-          "line_end": 430,
+          "line_start": 402,
+          "line_end": 432,
           "anchor": null
         },
         {
           "header": "10. Lived-condition floors, continuity, and re-entry alignment",
           "level": 3,
-          "line_start": 431,
-          "line_end": 439,
+          "line_start": 433,
+          "line_end": 441,
           "anchor": null
         },
         {
           "header": "CHAPTER S1 — INFORMATION TYPES AND HANDLING",
           "level": 2,
-          "line_start": 440,
-          "line_end": 822,
+          "line_start": 442,
+          "line_end": 824,
           "anchor": null
         },
         {
           "header": "I. Purpose and scope",
           "level": 3,
-          "line_start": 446,
-          "line_end": 452,
+          "line_start": 448,
+          "line_end": 454,
           "anchor": null
         },
         {
           "header": "II. Temporal, systemic, and dependency scope of rights",
           "level": 3,
-          "line_start": 453,
-          "line_end": 457,
+          "line_start": 455,
+          "line_end": 459,
           "anchor": null
         },
         {
           "header": "III. Determination of classification",
           "level": 3,
-          "line_start": 458,
-          "line_end": 472,
+          "line_start": 460,
+          "line_end": 474,
           "anchor": null
         },
         {
           "header": "IV. Anti-circumvention and integrity of classification",
           "level": 3,
-          "line_start": 473,
-          "line_end": 481,
+          "line_start": 475,
+          "line_end": 483,
           "anchor": null
         },
         {
           "header": "V. Cross-domain governance principles",
           "level": 3,
-          "line_start": 482,
-          "line_end": 539,
+          "line_start": 484,
+          "line_end": 541,
           "anchor": null
         },
         {
           "header": "VI. Data separation, attribution, and lifecycle integrity",
           "level": 3,
-          "line_start": 540,
-          "line_end": 589,
+          "line_start": 542,
+          "line_end": 591,
           "anchor": null
         },
         {
           "header": "VII. Data classifications",
           "level": 3,
-          "line_start": 590,
-          "line_end": 822,
+          "line_start": 592,
+          "line_end": 824,
           "anchor": null
         },
         {
           "header": "CHAPTER S2 — SYSTEM CLASSIFICATION AND HANDLING",
           "level": 2,
-          "line_start": 823,
-          "line_end": 1419,
+          "line_start": 825,
+          "line_end": 1425,
           "anchor": null
         },
         {
           "header": "CHAPTER S3 — CRITICAL SYSTEM STEWARDSHIP",
           "level": 2,
-          "line_start": 1420,
-          "line_end": 1676,
+          "line_start": 1426,
+          "line_end": 1682,
           "anchor": null
         },
         {
           "header": "Protocol S4 — Adaptive Sustainability and Ecosystem Resilience",
           "level": 2,
-          "line_start": 1677,
-          "line_end": 1772,
+          "line_start": 1683,
+          "line_end": 1778,
           "anchor": null
         },
         {
           "header": "Protocol S5 — Resource Allocation and Funding Stewardship",
           "level": 2,
-          "line_start": 1773,
-          "line_end": 1949,
+          "line_start": 1779,
+          "line_end": 1955,
           "anchor": null
         },
         {
           "header": "Protocol T — Transition Constitution and Migration Governance",
           "level": 2,
-          "line_start": 1950,
-          "line_end": 1981,
+          "line_start": 1956,
+          "line_end": 1987,
           "anchor": null
         },
         {
           "header": "Protocol R — Subversion Response, Replacement, and Reconstitution",
           "level": 2,
-          "line_start": 1982,
-          "line_end": 2088,
+          "line_start": 1988,
+          "line_end": 2094,
           "anchor": null
         },
         {
           "header": "Protocol D — Decentralized Constitutional Continuity and Partition Resilience",
           "level": 2,
-          "line_start": 2089,
-          "line_end": 2168,
+          "line_start": 2095,
+          "line_end": 2174,
           "anchor": null
         }
       ]

@@ -30,7 +30,7 @@ Shared preamble contract: apply `corpus_joint_structure.md` **CJS-1.1**.
 - **CC-3** — Panel formation, disclosure, recusal, and lawful bench constitution
 - **CC-4** — Routing operations, intake, transfer, certification, and representative treatment
 - **CC-5** — Appeal, secondary review, and exhaustion pathways (**CC-5.1** disposition effect codes **CC-5.1.101**–**CC-5.1.104**)
-- **CC-6** — Integrity safeguards, anti-capture operations, and anti-self-judging support
+- **CC-6** — Integrity safeguards, anti-capture operations, alignment recognition and review, and anti-self-judging support
 - **CC-7** — Forum forensic and analytical support
 - **CC-8** — Independent investigative service and prosecution interface
 - **CC-9** — Technical specialist forums and specialist chambers
@@ -463,7 +463,7 @@ Omission of a materially required element makes the corrective measure or restri
 - Topic-level routing and cited authorities remain in subsection text and cross-references.
 - Canonical owner map: `corpus_joint_structure.md` **CJS-2.2** and `doc_architecture.md` section 4.
 
-**Chapter Nine linkage.** `core_09-09_forum.md` **Chapter Nine**, **section 4** authorizes **Integrity** forum **alignment** rulings and **supervisory coordination**; **section 6** states **integrity-led alignment coordination** with **other** forum families; **section 7** limits **alignment** rulings that would establish **general** doctrine. This section operationalizes those interfaces **without** relocating constitutional routing to this file.
+**Chapter Nine linkage.** `core_09-09_forum.md` **Chapter Nine**, **section 4** authorizes **Integrity** forum **alignment** rulings, official **constitutional alignment recognition and review** for new and existing systems, **Environment** forum environmental-alignment component review where material ecological exposure exists, and **supervisory coordination**; **section 6** states **integrity-led alignment coordination** with **other** forum families; **section 7** limits **alignment** rulings that would establish **general** doctrine and requires records for system recognition and revalidation. This section operationalizes those interfaces **without** relocating constitutional routing to this file.
 
 ### CC-6.1 Alignment rulings, component referral, and supervisory coordination
 
@@ -482,13 +482,51 @@ Omission of a materially required element makes the corrective measure or restri
 
 **Merits boundaries.** **Integrity** tribunals **must** **not** issue **final** **merits** determinations **reserved** to **another** family's **dominant** question — including **constitutional** validity and **class-wide** **structural** remedy — except where **Chapter Eight** assigns that **primary** stake to **Integrity** forums. Tribunals receiving **referrals** exercise **their** **lawful** **merits** authority and **must** treat **binding** **integrity** findings and **coordination** orders on the **lead** **Integrity** record as **lawful** **inputs** under **certification**, **issue** **preclusion**, **stay**, and **sequencing** rules — **without** **collateral** **re-litigation** of those findings **outside** **published** review paths.
 
-**Disposition effect labeling.** Where an **alignment** ruling materially stabilizes outcomes beyond the named parties, adopting instruments should identify the applicable **CC-5.1** effect code(s) — ordinarily at least **CC-5.1.102** when **pattern** or **shared-practice** stakes are material — and must **not** silently treat **alignment** rulings as **CC-5.1.103** **general** panel-rule doctrine when **constitutional** **certification** under **Chapter Eight**, **section** **7** is **required**.
+**Disposition effect labeling.** Where an **alignment** ruling materially stabilizes outcomes beyond the named parties, adopting instruments should identify the applicable **CC-5.1** effect code(s) — ordinarily at least **CC-5.1.102** when **pattern** or **shared-practice** stakes are material — and must **not** silently treat **alignment** rulings as **CC-5.1.103** **general** panel-rule doctrine when **constitutional** **certification** under `core_09-09_forum.md` **Chapter Nine**, **section** **7** is **required**.
+
+### CC-6.1A Constitutional alignment recognition and review
+
+**Purpose.** Provide official, contestable forum mechanics for recognizing new materially impactful systems as constitutionally aligned within a stated scope, and for validating whether existing systems remain aligned over time. This subsection implements `core_09-09_forum.md` **Chapter Nine**, **sections 4, 6, and 7**, and works with `corpus_systems.md` **Protocol A** and **Chapter S2** classification and revalidation duties.
+
+**Technical-specification and environmental-component separation.** **Technical specialist forums** under **CC-9** maintain the technical specifications, measurement methods, test protocols, expert-evidence standards, and domain-specific criteria used in system-alignment assessment. **Environment** forums hold environmental-alignment component review where material ecological exposure, environmental-precondition dependency, lifecycle burden, restoration duty, or reasonably foreseeable ecological risk exists. **Integrity** forums make the official constitutional alignment recognition, validation, revalidation, and remediation-supervision record. Integrity forums must use technical-forum standards where materially applicable, may certify technical questions to the proper technical forum, and must not rewrite technical specifications as a substitute for referral. Integrity forums must obtain and record the Environment forum's environmental-alignment approval, conditional approval, objection, remediation requirement, or release-from-condition finding where material ecological exposure exists. Technical forums must not treat specification maintenance or technical adequacy findings as final constitutional alignment recognition unless `core_09-09_forum.md` independently assigns that dominant stake to them.
+
+**Triggering events.** Alignment recognition or review must be available when any of the following materially applies:
+- a new system seeks constitutional recognition, incorporation, deployment approval, reliance by a public or critical steward, or other official status within an adopting order;
+- an existing system undergoes material change in capability, scale, dependency, stakeholder exposure, integration, autonomy, incentive structure, or risk profile;
+- a system has material ecological exposure, environmental-precondition dependency, lifecycle burden, restoration duty, or reasonably foreseeable ecological risk that requires Environment forum environmental-alignment review;
+- periodic review is due under the system's class, stewardship tier, or prior forum order;
+- credible evidence indicates drift, concealed behavior, under-classification, misclassification, capture, unresolved residual risk, Rights-Floor exposure, ecological exposure, or info-sphere integrity risk;
+- a stakeholder, steward, affected institution, technical specialist forum, or lawful oversight body makes a good-faith request for review with a non-frivolous evidentiary basis.
+
+**Minimum recognition record.** A recognition, validation, or revalidation record must identify:
+- the system, operator or steward, claimed scope, deployment context, and affected stakeholder or dependency classes;
+- the Chapter S2 classification, Chapter S3 stewardship tier where applicable, and the evidence supporting those classifications;
+- the constitutional provisions, Rights-Floor obligations, PRIM/PROT controls, and companion requirements treated as material;
+- where ecological exposure is material, the Environment forum environmental-alignment component record, including approval, conditional approval, objection, remediation requirements, or release-from-condition findings;
+- the technical specifications, measurement methods, test protocols, expert-evidence standards, testing, audit, simulation, incident, red-team, stress, accessibility, and stakeholder-feedback evidence considered;
+- material uncertainties, residual risks, rejected alternatives, and monitoring commitments;
+- required remediation, conditions, sunsets, revalidation cadence, or triggers for reopening review;
+- the contest, appeal, certification, or referral path, including any restricted-evidence handling.
+
+**Permitted dispositions.** An Integrity forum may issue any of the following within lawful scope:
+- **recognition** for the stated scope and cadence;
+- **conditional recognition** with remediation milestones, monitoring, limits, or sunset;
+- **deferred recognition** pending specified evidence, testing, correction, or component determination;
+- **non-recognition** where the record does not support constitutional alignment;
+- **withdrawal or constraint recommendation** where an existing system materially drifts, conceals risk, defeats contestability, or no longer satisfies its recognized scope.
+
+**Environmental sign-off effect.** Where Environment forum review is required, final recognition, validation, revalidation, or material release from environmental conditions must not issue while a timely Environment forum objection, unresolved remediation condition, or certified environmental question remains pending. An Integrity forum may issue deferred or conditional recognition only if the record states why interim operation remains compatible with Article I, identifies environmental limits and monitoring, and preserves Environment forum review and reopening authority.
+
+**Component referrals and certification.** Technical adequacy, institutional mandate, ecological merits and environmental-alignment component review, sentience-status, rights restriction, and constitutional-validity questions must be referred, certified, or stayed under `core_09-09_forum.md` **Chapter Nine** and this file's routing rules. Alignment recognition does **not** let an Integrity forum displace a specialized technical panel's standards function, an Institutional forum's mandate determination, an Environment forum's ecological merits or environmental-alignment authority, or a Constitutional forum's final authority over constitutional meaning and structural remedy.
+
+**No permanent certificate.** Recognition is scope-bound and time-bound by its stated cadence and reopening triggers. Material change, newly discovered evidence, stakeholder challenge, incident history, dependency growth, or classification drift reopens review without requiring proof that the original recognition was bad faith.
 
 ### CC-6.2 Anti-self-judging activation, capture-sensitive routing, and contest-integrity interfaces
 
 This subsection remains the operational home for:
 - anti-self-judging activation records;
 - capture-sensitive routing support;
+- contestable system-alignment recognition and revalidation records where capture, drift, or self-review risk is material;
 - recusal-abuse detection;
 - integrity-lane workflow where internal integrity process and integrity-forum access interact;
 - coordination with contest-integrity monitoring.
@@ -570,6 +608,7 @@ Where adopting instruments create **science specialist forums**, **engineering s
 
 **Functions.** Technical specialist forums may perform all of the following functions:
 - publish and periodically revise standards for scientific, engineering, medical, and comparable expert evidence used by other specialist forums, including expectations for reproducibility, uncertainty treatment, evidentiary sufficiency, replication status, validation quality, causal inference, safety margins, standards conformance, meta-analysis quality, and treatment of conflicting findings;
+- publish and periodically revise technical specifications, measurement methods, test protocols, and domain-specific expert criteria used in system-alignment assessment and in Integrity forum recognition, validation, and revalidation records;
 - adjudicate disputes centered on expert administrative procedure, research-record custody, correction and retraction process, replication access, infrastructure or product safety certification, clinical-guideline integrity, curriculum or textbook integrity in publicly governed education, accreditation-equivalent quality controls, and comparable knowledge-governance questions;
 - commission, fund, or direct independent research, testing, replication, standards-development, or evidence synthesis where material unresolved uncertainty blocks reliable adjudication, classification, safety evaluation, or regulatory integrity within their lawful scope.
 
@@ -580,7 +619,7 @@ Where adopting instruments create **science specialist forums**, **engineering s
 
 **Additional chambers.** Adopting instruments may also create technical specialist forums or chambers for ecology and climate, education, information and computation, forensics, economics and public-policy analysis, statistics and methodology, or other domains where expert-evidence governance has recurring constitutional significance.
 
-**Routing and limits.** Technical specialist forums must not displace the dominant-purpose routing rules in `core_09-09_forum.md` **Chapter Nine**. They may hear certified questions, designated administrative matters, or merits disputes whose primary issue is expert procedure or expert-evidence governance. They must not become the default merits forum for ordinary civil injury, criminal liability, constitutional-rights enforcement, or institutional-mandate disputes merely because expert evidence is involved.
+**Routing and limits.** Technical specialist forums must not displace the dominant-purpose routing rules in `core_09-09_forum.md` **Chapter Nine**. They may hear certified questions, designated administrative matters, or merits disputes whose primary issue is expert procedure or expert-evidence governance, including technical system-alignment specifications and testing methods. They must not become the default merits forum for ordinary civil injury, criminal liability, constitutional-rights enforcement, institutional-mandate disputes, or official constitutional alignment recognition or validation merely because expert evidence is involved.
 
 **Standard-setting constraints.** Published expert-evidence standards must be reasoned, auditable, contestable, and periodically reviewable. They must distinguish evidentiary weight from policy choice, preserve room for minority or emerging views that meet good-faith methodological standards, and avoid freezing one school, method, professional guild, journal network, vendor bloc, or disciplinary cartel into binding orthodoxy.
 

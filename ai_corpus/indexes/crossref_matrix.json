@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/crossref_matrix.schema.json",
-  "generated_at": "2026-05-29T14:14:13+00:00",
+  "generated_at": "2026-05-30T09:40:15+00:00",
   "description": "Source-derived file-to-file Markdown reference graph.",
   "graph": {
     "nodes": [
@@ -1928,7 +1928,7 @@
           },
           {
             "file": "core_08-08_misconduct.md",
-            "count": 11,
+            "count": 10,
             "anchors": [
               "#3-violation-axis-s-7-9-slot-assignment-incident-gravity",
               "#4-due-process-safeguards-for-slot-classification",
@@ -1990,7 +1990,7 @@
           },
           {
             "file": "corpus_systems.md",
-            "count": 4,
+            "count": 6,
             "anchors": []
           },
           {
