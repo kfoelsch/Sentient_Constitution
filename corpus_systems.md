@@ -8,12 +8,12 @@
 
 *See [doc_architecture.md](doc_architecture.md) section **17**.* Definition boundaries between this implementation companion and the core constitution are in `doc_architecture.md` section 4 (Project-wide definitions protocol).
 
-System and data obligations in this implementation companion align with [corpus_joint_structure.md — Cross-domain implementation layer](corpus_joint_structure.md#cross-domain-implementation-layer) (Implementation Groups One through Four).
+System and data obligations in this implementation companion align with [corpus_joint_structure.md — Cross-domain implementation layer](corpus_joint_structure/implementation_layer_overview.md#cross-domain-implementation-layer) (Implementation Groups One through Four).
 
 Mapping summary:
 - Technical requirements map primarily to **PRIM1**, **PRIM2**, **PRIM4–PRIM12**, and **PRIM14–PRIM15**
 - Governance, proportionality of authority, justification, challenge, and collective-choice processes map to **PROT1–PROT6** together with Chapter Eleven decision-resolution requirements
-- Operative implementation text for those labels is in [corpus_joint_structure.md — Cross-domain implementation layer](corpus_joint_structure.md#cross-domain-implementation-layer)
+- Operative implementation text for those labels is in [corpus_joint_structure.md — Cross-domain implementation layer](corpus_joint_structure/implementation_layer_overview.md#cross-domain-implementation-layer)
 
 This file is intentionally written in plain language with low jargon to improve accessibility, audit readability, and practical adoption testing.
 
@@ -1939,13 +1939,13 @@ No minimum participation threshold is required to initiate review, though outcom
 
 **Steward, operator, and governance remuneration (incentive governance).** Compensation, equity, bonuses, performance metrics, and deferred incentives for **builders, operators, maintainers, and human governance roles** must be **aligned with long-term constitutional outcomes**. **That** requirement applies when those roles materially influence resource flows or funding decisions. **That** obligation applies when those roles materially influence dependent-systems maps. **It** applies when those roles materially influence **system classification** or **Critical System Stewardship** (Chapter S3 — Critical System Stewardship). That alignment includes ecosystem-aware stewardship under **Sentient Constitution Chapter Ten**, **Articles I-B** and **XI**. **It** includes substrate and dependency integrity (**Articles I–III and V**). **It** includes non-entrenchment and fitness over time (**Article XXIV-A**).
 
-Remuneration design must satisfy [corpus_joint_structure.md — Cross-domain implementation layer](corpus_joint_structure.md#cross-domain-implementation-layer) (*Implementation Group One — Incentive Alignment and Mechanism Integrity* Meta-integrity obligation), incorporated via **Sentient Constitution Chapter Fifteen**, and **Sentient Constitution Chapter One**. **That** includes the requirement that incentives not systematically undermine Safety, Truth (Epistemic Integrity), or meaningful agency.
+Remuneration design must satisfy [corpus_joint_structure.md — Cross-domain implementation layer](corpus_joint_structure/implementation_layer_overview.md#cross-domain-implementation-layer) (*Implementation Group One — Incentive Alignment and Mechanism Integrity* Meta-integrity obligation), incorporated via **Sentient Constitution Chapter Fifteen**, and **Sentient Constitution Chapter One**. **That** includes the requirement that incentives not systematically undermine Safety, Truth (Epistemic Integrity), or meaningful agency.
 
 **Conflict-free remuneration processes.** Where humans hold authority over allocation, enforcement, classification, or oversight, structures must **mitigate personal enrichment** from decisions those same roles approve, delay, or fail to rectify.
 
 Material conflicts between **private financial interest** and **stewardship duties** must be **disclosed** and **managed**.
 
-Where **impartiality** for a specific decision is not credible, address conflicts through **recusal**, **segmented authority**, or **independent review**. **That** process must be consistent with **PROT6** (*Procedural Integrity and Adjudication*) in [corpus_joint_structure.md — Cross-domain implementation layer](corpus_joint_structure.md#cross-domain-implementation-layer) and **Chapter S3 — Critical System Steward Conduct, Conflicts of Interest, and Independence**.
+Where **impartiality** for a specific decision is not credible, address conflicts through **recusal**, **segmented authority**, or **independent review**. **That** process must be consistent with **PROT6** (*Procedural Integrity and Adjudication*) in [corpus_joint_structure.md — Cross-domain implementation layer](corpus_joint_structure/implementation_layer_overview.md#cross-domain-implementation-layer) and **Chapter S3 — Critical System Steward Conduct, Conflicts of Interest, and Independence**.
 
 Variable pay or equity tied to metrics susceptible to **gaming** at the expense of dependents or the broader ecosystem must include **safeguards**.
 

@@ -1,7 +1,7 @@
 # AI-Optimized Corpus Mirror
 
 **Status:** Derived from SC-Corpus-2026.04.32  
-**Source of Truth:** The numbered `core_*.md` files remain the only authoritative source. This directory contains AI-optimized mirrors for token-efficient access.
+**Source of Truth:** The numbered `core_*.md` files and incorporated companion corpus files remain authoritative. The root `corpus_joint_structure.md` file is a compatibility wrapper whose substantive text is in `corpus_joint_structure/` subfiles. This directory contains AI-optimized mirrors for token-efficient access.
 
 ## Purpose
 
@@ -13,7 +13,7 @@ This directory provides:
 
 ## Authority Stack
 
-1. **Authoritative:** Numbered `core_*.md` files in root directory
+1. **Authoritative:** Numbered `core_*.md` files in root directory, companion root files, and companion subfiles such as `corpus_joint_structure/*.md`
 2. **Derived (this directory):** AI-optimized mirrors and indexes
 3. **On conflict:** Root directory files always prevail
 
@@ -42,7 +42,7 @@ ai_corpus/
 
 When source files change:
 
-1. Edit authoritative `core_*.md` file
+1. Edit authoritative source files (`core_*.md`, companion root files, or companion subfiles)
 2. Run: `make ai-corpus-sync` (regenerates this directory)
 3. Commit both source and derived files together
 4. Never edit this directory directly - always regenerate from source

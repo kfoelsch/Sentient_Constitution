@@ -1313,13 +1313,13 @@ Below, entries are **grouped by topic** for reading convenience (non-operative o
 #### System
 
 - O: A structured set of components — technical, organizational, and [Governance](#governance) elements — producing effects on sentients, environment(s), or other systems.
-<a id="system-e"></a>
+<a id="system-definition-e"></a>
 - E: Include:
   - inputs, outputs, and processes;
   - [Dependency](core_05-05_definitions_a_independent.md#dependency) relationships;
   - temporal effects;
   - system interactions within [System Boundaries](#system-boundaries).
-  <a id="system-c"></a>
+  <a id="system-definition-c"></a>
 - C: Systems must be evaluated in full functional scope under [System Boundaries](#system-boundaries) and [System Boundary Integrity](#system-boundary-integrity).
 
 <a id="system-boundaries"></a>

@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/crossref_matrix.schema.json",
-  "generated_at": "2026-05-30T11:41:03+00:00",
+  "generated_at": "2026-05-30T19:23:55+00:00",
   "description": "Source-derived file-to-file Markdown reference graph.",
   "graph": {
     "nodes": [
@@ -22,10 +22,6 @@
       },
       {
         "id": "core_05-05_definitions_c_dependent_clusters.md",
-        "type": "core"
-      },
-      {
-        "id": "core_06-06_sections_5.1-5.8_plain_language.md",
         "type": "core"
       },
       {
@@ -73,7 +69,7 @@
         "type": "core"
       },
       {
-        "id": "corpus_forum.md",
+        "id": "corpus_systems.md",
         "type": "companion"
       },
       {
@@ -81,11 +77,51 @@
         "type": "companion"
       },
       {
+        "id": "corpus_forum.md",
+        "type": "companion"
+      },
+      {
         "id": "corpus_joint_structure.md",
         "type": "companion"
       },
       {
-        "id": "corpus_systems.md",
+        "id": "corpus_joint_structure/00_registry_and_reading_rules.md",
+        "type": "companion"
+      },
+      {
+        "id": "corpus_joint_structure/cjs_1_scope_purpose_boundary_interface.md",
+        "type": "companion"
+      },
+      {
+        "id": "corpus_joint_structure/cjs_2_companion_integration_map.md",
+        "type": "companion"
+      },
+      {
+        "id": "corpus_joint_structure/cjs_3_joint_structural_obligations.md",
+        "type": "companion"
+      },
+      {
+        "id": "corpus_joint_structure/cjs_4_stable_identifiers_edition_alignment.md",
+        "type": "companion"
+      },
+      {
+        "id": "corpus_joint_structure/implementation_group_1_meta_integrity.md",
+        "type": "companion"
+      },
+      {
+        "id": "corpus_joint_structure/implementation_group_2_presentation.md",
+        "type": "companion"
+      },
+      {
+        "id": "corpus_joint_structure/implementation_group_3_architecture.md",
+        "type": "companion"
+      },
+      {
+        "id": "corpus_joint_structure/implementation_group_4_governance.md",
+        "type": "companion"
+      },
+      {
+        "id": "corpus_joint_structure/implementation_layer_overview.md",
         "type": "companion"
       }
     ],
@@ -93,11 +129,6 @@
       {
         "source": "core_00-01_principles.md",
         "targets": [
-          {
-            "file": "README.md",
-            "count": 1,
-            "anchors": []
-          },
           {
             "file": "core_02-04_definition_mechanics.md",
             "count": 3,
@@ -439,22 +470,12 @@
             "file": "corpus_systems.md",
             "count": 3,
             "anchors": []
-          },
-          {
-            "file": "doc_architecture.md",
-            "count": 1,
-            "anchors": []
           }
         ]
       },
       {
         "source": "core_02-04_definition_mechanics.md",
         "targets": [
-          {
-            "file": "README.md",
-            "count": 1,
-            "anchors": []
-          },
           {
             "file": "core_00-01_principles.md",
             "count": 10,
@@ -527,11 +548,6 @@
       {
         "source": "core_05-05_definitions_a_independent.md",
         "targets": [
-          {
-            "file": "README.md",
-            "count": 1,
-            "anchors": []
-          },
           {
             "file": "core_00-01_principles.md",
             "count": 45,
@@ -817,11 +833,6 @@
         "source": "core_05-05_definitions_b_semi_independent.md",
         "targets": [
           {
-            "file": "README.md",
-            "count": 1,
-            "anchors": []
-          },
-          {
             "file": "core_00-01_principles.md",
             "count": 134,
             "anchors": [
@@ -1051,11 +1062,6 @@
       {
         "source": "core_05-05_definitions_c_dependent_clusters.md",
         "targets": [
-          {
-            "file": "README.md",
-            "count": 3,
-            "anchors": []
-          },
           {
             "file": "core_00-01_principles.md",
             "count": 71,
@@ -1318,32 +1324,12 @@
             "file": "corpus_systems.md",
             "count": 9,
             "anchors": []
-          },
-          {
-            "file": "doc_architecture.md",
-            "count": 3,
-            "anchors": []
-          }
-        ]
-      },
-      {
-        "source": "core_06-06_sections_5.1-5.8_plain_language.md",
-        "targets": [
-          {
-            "file": "core_07-07_standing_integration.md",
-            "count": 2,
-            "anchors": []
           }
         ]
       },
       {
         "source": "core_06-06_standing_assessment.md",
         "targets": [
-          {
-            "file": "README.md",
-            "count": 2,
-            "anchors": []
-          },
           {
             "file": "core_00-01_principles.md",
             "count": 7,
@@ -1466,27 +1452,12 @@
             "file": "corpus_systems.md",
             "count": 2,
             "anchors": []
-          },
-          {
-            "file": "doc_architecture.md",
-            "count": 2,
-            "anchors": []
-          },
-          {
-            "file": "implementation/CH06_NINE_SLOT_STANDING_SCALE.md",
-            "count": 1,
-            "anchors": []
           }
         ]
       },
       {
         "source": "core_07-07_standing_integration.md",
         "targets": [
-          {
-            "file": "README.md",
-            "count": 1,
-            "anchors": []
-          },
           {
             "file": "core_00-01_principles.md",
             "count": 15,
@@ -1664,11 +1635,6 @@
       {
         "source": "core_08-08_misconduct.md",
         "targets": [
-          {
-            "file": "README.md",
-            "count": 1,
-            "anchors": []
-          },
           {
             "file": "core_00-01_principles.md",
             "count": 7,
@@ -1877,11 +1843,6 @@
         "source": "core_09-09_forum.md",
         "targets": [
           {
-            "file": "README.md",
-            "count": 2,
-            "anchors": []
-          },
-          {
             "file": "core_00-01_principles.md",
             "count": 2,
             "anchors": [
@@ -1997,22 +1958,12 @@
             "file": "corpus_systems.md",
             "count": 6,
             "anchors": []
-          },
-          {
-            "file": "doc_architecture.md",
-            "count": 1,
-            "anchors": []
           }
         ]
       },
       {
         "source": "core_10-10_rights_part_a.md",
         "targets": [
-          {
-            "file": "README.md",
-            "count": 1,
-            "anchors": []
-          },
           {
             "file": "core_00-01_principles.md",
             "count": 48,
@@ -2208,22 +2159,12 @@
             "file": "corpus_systems.md",
             "count": 2,
             "anchors": []
-          },
-          {
-            "file": "doc_architecture.md",
-            "count": 1,
-            "anchors": []
           }
         ]
       },
       {
         "source": "core_10-10_rights_part_b.md",
         "targets": [
-          {
-            "file": "README.md",
-            "count": 1,
-            "anchors": []
-          },
           {
             "file": "core_00-01_principles.md",
             "count": 100,
@@ -2507,11 +2448,6 @@
         "source": "core_10-10_rights_part_c.md",
         "targets": [
           {
-            "file": "README.md",
-            "count": 1,
-            "anchors": []
-          },
-          {
             "file": "core_00-01_principles.md",
             "count": 124,
             "anchors": [
@@ -2754,11 +2690,6 @@
         "source": "core_10-10_rights_part_d.md",
         "targets": [
           {
-            "file": "README.md",
-            "count": 2,
-            "anchors": []
-          },
-          {
             "file": "core_00-01_principles.md",
             "count": 36,
             "anchors": [
@@ -2910,22 +2841,12 @@
             "file": "corpus_forum.md",
             "count": 1,
             "anchors": []
-          },
-          {
-            "file": "doc_architecture.md",
-            "count": 1,
-            "anchors": []
           }
         ]
       },
       {
         "source": "core_11-11_governance.md",
         "targets": [
-          {
-            "file": "README.md",
-            "count": 1,
-            "anchors": []
-          },
           {
             "file": "core_00-01_principles.md",
             "count": 10,
@@ -3070,11 +2991,6 @@
         "source": "core_12-14_amendment.md",
         "targets": [
           {
-            "file": "README.md",
-            "count": 1,
-            "anchors": []
-          },
-          {
             "file": "core_00-01_principles.md",
             "count": 4,
             "anchors": [
@@ -3198,22 +3114,12 @@
             "file": "corpus_systems.md",
             "count": 5,
             "anchors": []
-          },
-          {
-            "file": "doc_architecture.md",
-            "count": 4,
-            "anchors": []
           }
         ]
       },
       {
         "source": "core_15-15_incorporation.md",
         "targets": [
-          {
-            "file": "README.md",
-            "count": 4,
-            "anchors": []
-          },
           {
             "file": "core_00-01_principles.md",
             "count": 11,
@@ -3325,166 +3231,12 @@
             "file": "corpus_systems.md",
             "count": 3,
             "anchors": []
-          },
-          {
-            "file": "doc_architecture.md",
-            "count": 5,
-            "anchors": []
-          }
-        ]
-      },
-      {
-        "source": "corpus_forum.md",
-        "targets": [
-          {
-            "file": "core_05-05_definitions_c_dependent_clusters.md",
-            "count": 8,
-            "anchors": [
-              "#evidence-preservation"
-            ]
-          }
-        ]
-      },
-      {
-        "source": "corpus_institutions.md",
-        "targets": [
-          {
-            "file": "README.md",
-            "count": 2,
-            "anchors": []
-          },
-          {
-            "file": "core_00-01_principles.md",
-            "count": 1,
-            "anchors": []
-          },
-          {
-            "file": "core_02-04_definition_mechanics.md",
-            "count": 1,
-            "anchors": []
-          },
-          {
-            "file": "core_05-05_definitions_a_independent.md",
-            "count": 4,
-            "anchors": [
-              "#contingent-claim",
-              "#event-contract-market",
-              "#game-of-chance"
-            ]
-          },
-          {
-            "file": "core_05-05_definitions_b_semi_independent.md",
-            "count": 3,
-            "anchors": [
-              "#business-creation-constitutional",
-              "#capture-of-resolution-pathways",
-              "#system-creation-constitutional"
-            ]
-          },
-          {
-            "file": "core_05-05_definitions_c_dependent_clusters.md",
-            "count": 4,
-            "anchors": [
-              "#assembly-collective-organization-institutional-formation-cluster",
-              "#evidence-preservation"
-            ]
-          },
-          {
-            "file": "core_06-06_standing_assessment.md",
-            "count": 1,
-            "anchors": []
-          },
-          {
-            "file": "core_07-07_standing_integration.md",
-            "count": 1,
-            "anchors": []
-          },
-          {
-            "file": "core_08-08_misconduct.md",
-            "count": 2,
-            "anchors": [
-              "#chapter-eight-anti-constitutional-misconduct"
-            ]
-          },
-          {
-            "file": "corpus_systems.md",
-            "count": 3,
-            "anchors": []
-          },
-          {
-            "file": "doc_architecture.md",
-            "count": 1,
-            "anchors": []
-          }
-        ]
-      },
-      {
-        "source": "corpus_joint_structure.md",
-        "targets": [
-          {
-            "file": "README.md",
-            "count": 23,
-            "anchors": []
-          },
-          {
-            "file": "core_00-01_principles.md",
-            "count": 1,
-            "anchors": []
-          },
-          {
-            "file": "core_05-05_definitions_a_independent.md",
-            "count": 1,
-            "anchors": []
-          },
-          {
-            "file": "core_05-05_definitions_b_semi_independent.md",
-            "count": 1,
-            "anchors": [
-              "#movement-refuge-semi-independent"
-            ]
-          },
-          {
-            "file": "core_05-05_definitions_c_dependent_clusters.md",
-            "count": 2,
-            "anchors": [
-              "#governance-architecture-oversight-decentralization-and-concentration-cluster"
-            ]
-          },
-          {
-            "file": "core_11-11_governance.md",
-            "count": 3,
-            "anchors": []
-          },
-          {
-            "file": "core_15-15_incorporation.md",
-            "count": 1,
-            "anchors": []
-          },
-          {
-            "file": "corpus_systems.md",
-            "count": 6,
-            "anchors": []
-          },
-          {
-            "file": "doc_architecture.md",
-            "count": 1,
-            "anchors": []
-          },
-          {
-            "file": "implementation/INTERPRETATION_BASELINE_SHARED_2026-04-09.md",
-            "count": 1,
-            "anchors": []
           }
         ]
       },
       {
         "source": "corpus_systems.md",
         "targets": [
-          {
-            "file": "README.md",
-            "count": 1,
-            "anchors": []
-          },
           {
             "file": "core_05-05_definitions_a_independent.md",
             "count": 9,
@@ -3545,7 +3297,12 @@
           },
           {
             "file": "corpus_joint_structure.md",
-            "count": 5,
+            "count": 1,
+            "anchors": []
+          },
+          {
+            "file": "corpus_joint_structure/implementation_layer_overview.md",
+            "count": 4,
             "anchors": [
               "#cross-domain-implementation-layer"
             ]
@@ -3554,15 +3311,219 @@
             "file": "corpus_systems.md",
             "count": 2,
             "anchors": []
-          },
+          }
+        ]
+      },
+      {
+        "source": "corpus_institutions.md",
+        "targets": [
           {
-            "file": "doc_architecture.md",
-            "count": 3,
+            "file": "core_00-01_principles.md",
+            "count": 1,
             "anchors": []
           },
           {
-            "file": "implementation/CH06_NINE_SLOT_STANDING_SCALE.md",
+            "file": "core_02-04_definition_mechanics.md",
             "count": 1,
+            "anchors": []
+          },
+          {
+            "file": "core_05-05_definitions_a_independent.md",
+            "count": 4,
+            "anchors": [
+              "#contingent-claim",
+              "#event-contract-market",
+              "#game-of-chance"
+            ]
+          },
+          {
+            "file": "core_05-05_definitions_b_semi_independent.md",
+            "count": 3,
+            "anchors": [
+              "#business-creation-constitutional",
+              "#capture-of-resolution-pathways",
+              "#system-creation-constitutional"
+            ]
+          },
+          {
+            "file": "core_05-05_definitions_c_dependent_clusters.md",
+            "count": 4,
+            "anchors": [
+              "#assembly-collective-organization-institutional-formation-cluster",
+              "#evidence-preservation"
+            ]
+          },
+          {
+            "file": "core_06-06_standing_assessment.md",
+            "count": 1,
+            "anchors": []
+          },
+          {
+            "file": "core_07-07_standing_integration.md",
+            "count": 1,
+            "anchors": []
+          },
+          {
+            "file": "core_08-08_misconduct.md",
+            "count": 2,
+            "anchors": [
+              "#chapter-eight-anti-constitutional-misconduct"
+            ]
+          },
+          {
+            "file": "corpus_systems.md",
+            "count": 3,
+            "anchors": []
+          }
+        ]
+      },
+      {
+        "source": "corpus_forum.md",
+        "targets": [
+          {
+            "file": "core_05-05_definitions_c_dependent_clusters.md",
+            "count": 8,
+            "anchors": [
+              "#evidence-preservation"
+            ]
+          }
+        ]
+      },
+      {
+        "source": "corpus_joint_structure.md",
+        "targets": [
+          {
+            "file": "corpus_joint_structure/00_registry_and_reading_rules.md",
+            "count": 1,
+            "anchors": []
+          },
+          {
+            "file": "corpus_joint_structure/cjs_1_scope_purpose_boundary_interface.md",
+            "count": 1,
+            "anchors": []
+          },
+          {
+            "file": "corpus_joint_structure/cjs_2_companion_integration_map.md",
+            "count": 1,
+            "anchors": []
+          },
+          {
+            "file": "corpus_joint_structure/cjs_3_joint_structural_obligations.md",
+            "count": 1,
+            "anchors": []
+          },
+          {
+            "file": "corpus_joint_structure/cjs_4_stable_identifiers_edition_alignment.md",
+            "count": 1,
+            "anchors": []
+          },
+          {
+            "file": "corpus_joint_structure/implementation_group_1_meta_integrity.md",
+            "count": 1,
+            "anchors": []
+          },
+          {
+            "file": "corpus_joint_structure/implementation_group_2_presentation.md",
+            "count": 1,
+            "anchors": []
+          },
+          {
+            "file": "corpus_joint_structure/implementation_group_3_architecture.md",
+            "count": 1,
+            "anchors": []
+          },
+          {
+            "file": "corpus_joint_structure/implementation_group_4_governance.md",
+            "count": 1,
+            "anchors": []
+          },
+          {
+            "file": "corpus_joint_structure/implementation_layer_overview.md",
+            "count": 1,
+            "anchors": []
+          }
+        ]
+      },
+      {
+        "source": "corpus_joint_structure/cjs_3_joint_structural_obligations.md",
+        "targets": [
+          {
+            "file": "core_11-11_governance.md",
+            "count": 1,
+            "anchors": []
+          }
+        ]
+      },
+      {
+        "source": "corpus_joint_structure/implementation_group_1_meta_integrity.md",
+        "targets": [
+          {
+            "file": "core_00-01_principles.md",
+            "count": 1,
+            "anchors": []
+          },
+          {
+            "file": "core_05-05_definitions_a_independent.md",
+            "count": 1,
+            "anchors": []
+          },
+          {
+            "file": "core_05-05_definitions_c_dependent_clusters.md",
+            "count": 1,
+            "anchors": []
+          },
+          {
+            "file": "core_11-11_governance.md",
+            "count": 1,
+            "anchors": []
+          },
+          {
+            "file": "core_15-15_incorporation.md",
+            "count": 1,
+            "anchors": []
+          },
+          {
+            "file": "corpus_systems.md",
+            "count": 2,
+            "anchors": []
+          }
+        ]
+      },
+      {
+        "source": "corpus_joint_structure/implementation_group_2_presentation.md",
+        "targets": [
+          {
+            "file": "core_11-11_governance.md",
+            "count": 1,
+            "anchors": []
+          },
+          {
+            "file": "corpus_systems.md",
+            "count": 1,
+            "anchors": []
+          }
+        ]
+      },
+      {
+        "source": "corpus_joint_structure/implementation_group_3_architecture.md",
+        "targets": [
+          {
+            "file": "core_05-05_definitions_b_semi_independent.md",
+            "count": 1,
+            "anchors": [
+              "#movement-refuge-semi-independent"
+            ]
+          },
+          {
+            "file": "core_05-05_definitions_c_dependent_clusters.md",
+            "count": 1,
+            "anchors": [
+              "#governance-architecture-oversight-decentralization-and-concentration-cluster"
+            ]
+          },
+          {
+            "file": "corpus_systems.md",
+            "count": 3,
             "anchors": []
           }
         ]

@@ -9,6 +9,8 @@ import re
 from datetime import datetime, timezone
 from pathlib import Path
 
+from corpus_paths import source_markdown_files
+
 
 HEADING_RE = re.compile(r"^(#{1,6})\s+(.+)$")
 ANCHOR_RE = re.compile(r'<a id="([^"]+)"></a>')
@@ -19,10 +21,6 @@ def parse_args() -> argparse.Namespace:
     p.add_argument("--root", default=".", help="Repository root.")
     p.add_argument("--output", required=True, help="Output JSON path.")
     return p.parse_args()
-
-
-def core_files(root: Path) -> list[Path]:
-    return sorted(root.glob("core_*.md")) + sorted(root.glob("corpus_*.md"))
 
 
 def manifest_for(path: Path) -> dict:
@@ -63,7 +61,7 @@ def main() -> int:
     payload = {
         "$schema": "../schemas/section_manifest.schema.json",
         "generated_at": datetime.now(timezone.utc).replace(microsecond=0).isoformat(),
-        "files": {path.name: manifest_for(path) for path in core_files(root)},
+        "files": {path.relative_to(root).as_posix(): manifest_for(path) for path in source_markdown_files(root)},
     }
     output.write_text(json.dumps(payload, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
     print(f"Wrote section manifest to {output}")

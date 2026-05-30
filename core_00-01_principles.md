@@ -1343,11 +1343,11 @@ Concentrated or obscured control structures that undermine challenge rights, ove
 - [Harm Minimization (Tradeoff Selection)](core_05-05_definitions_a_independent.md#harm-minimization-tradeoff-selection) · [O](core_05-05_definitions_a_independent.md#harm-minimization-tradeoff-selection) · [E](core_05-05_definitions_a_independent.md#harm-minimization-tradeoff-selection-e) · [C](core_05-05_definitions_a_independent.md#harm-minimization-tradeoff-selection-c)
 - [Dependency](core_05-05_definitions_a_independent.md#dependency) · [O](core_05-05_definitions_a_independent.md#dependency) · [E](core_05-05_definitions_a_independent.md#dependency-e) · [C](core_05-05_definitions_a_independent.md#dependency-c)
 
-**Read with:** [Voluntary Discontinuation](core_05-05_definitions_a_independent.md#voluntary-discontinuation-constitutional), Chapter Five §2 *Agency, consent, and anti-coercion*, and the [Assembly, Collective Organization, and Institutional Formation cluster](core_05-05_definitions_c_dependent_clusters.md#assembly-collective-organization-institutional-formation-cluster).
-
 </details>
 
 <br>
+
+**Read with:** [Voluntary Discontinuation](core_05-05_definitions_a_independent.md#voluntary-discontinuation-constitutional), Chapter Five §2 *Agency, consent, and anti-coercion*, and the [Assembly, Collective Organization, and Institutional Formation cluster](core_05-05_definitions_c_dependent_clusters.md#assembly-collective-organization-institutional-formation-cluster).
 
 *In plain terms: freedom is meaningful agency within constitutional limits, not a license to do anything. Claims that "we had no choice" must be demonstrable under evidence and definition rules, not simply asserted.*
 

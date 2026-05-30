@@ -10,6 +10,8 @@ from collections import Counter, defaultdict
 from datetime import datetime, timezone
 from pathlib import Path
 
+from corpus_paths import source_markdown_files
+
 
 LINK_RE = re.compile(r"\]\(([^)#]+\.md)(#[^)]+)?\)")
 
@@ -21,31 +23,40 @@ def parse_args() -> argparse.Namespace:
     return p.parse_args()
 
 
-def source_files(root: Path) -> list[Path]:
-    return sorted(root.glob("core_*.md")) + sorted(root.glob("corpus_*.md"))
-
-
 def main() -> int:
     args = parse_args()
     root = Path(args.root).resolve()
     output = root / args.output
     output.parent.mkdir(parents=True, exist_ok=True)
-    nodes = [{"id": path.name, "type": "core" if path.name.startswith("core_") else "companion"} for path in source_files(root)]
+    sources = source_markdown_files(root)
+    source_ids = {path.relative_to(root).as_posix() for path in sources}
+    nodes = [
+        {
+            "id": path.relative_to(root).as_posix(),
+            "type": "core" if path.name.startswith("core_") else "companion",
+        }
+        for path in sources
+    ]
     edges = []
-    for path in source_files(root):
+    for path in sources:
         text = path.read_text(encoding="utf-8")
         counts: Counter[str] = Counter()
         anchors: dict[str, set[str]] = defaultdict(set)
         for target, anchor in LINK_RE.findall(text):
-            if not (root / target).exists():
+            resolved = (path.parent / target).resolve()
+            try:
+                target_id = resolved.relative_to(root).as_posix()
+            except ValueError:
                 continue
-            counts[target] += 1
+            if target_id not in source_ids:
+                continue
+            counts[target_id] += 1
             if anchor:
-                anchors[target].add(anchor)
+                anchors[target_id].add(anchor)
         if counts:
             edges.append(
                 {
-                    "source": path.name,
+                    "source": path.relative_to(root).as_posix(),
                     "targets": [
                         {
                             "file": target,

@@ -7,7 +7,7 @@ This repository now includes an automated reference-integrity gate intended to r
 ### Plan
 - Canonical article map source: merged `### Article …:` headings from `core_10-10_rights_part_*.md` (see `tools/reference_audit.py`).
 - Scan scope (default for `make reference-audit`):
-  - `core_*.md` (Sentient Constitution chapters), `corpus_*.md`, `doc_architecture.md`
+  - `core_*.md` (Sentient Constitution chapters), `corpus_*.md`, companion subfiles such as `corpus_joint_structure/*.md`, `doc_architecture.md`
   - Optional / suspended: `CONSTITUTIONAL_REGRESSION_SCENARIOS.md` when that file is present again
 
 ### Act
@@ -23,7 +23,7 @@ The `tools/prose_continuity_audit.py` gate catches recurring editorial defects: 
 
 - Validation: `make prose-continuity-audit` (also runs as part of `make regression`).
 - Evidence artifact: `make prose-continuity-audit-evidence` → `evidence/<YYYY-MM-DD>/PROSE_CONTINUITY_AUDIT_<YYYY-MM-DD>.md`.
-- Scope defaults to the Sentient Constitution `core_*.md` files, `corpus_joint_structure.md`, `corpus_systems.md`, and `corpus_institutions.md`. Use `--no-orphan-lines` to only enforce the indent rule.
+- Scope defaults to the Sentient Constitution `core_*.md` files, `corpus_joint_structure.md` plus `corpus_joint_structure/*.md`, `corpus_systems.md`, and `corpus_institutions.md`. Use `--no-orphan-lines` to only enforce the indent rule.
 
 ### Chapter Five trace-block metadata placement
 

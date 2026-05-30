@@ -27,6 +27,8 @@ if str(_TOOLS) not in sys.path:
 
 from ch5_paths import CH5_ALL
 
+from corpus_paths import binding_corpus_scope
+
 
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(description=__doc__)
@@ -39,44 +41,6 @@ def parse_args() -> argparse.Namespace:
     return parser.parse_args()
 
 
-# Files scanned for the reference-side no-redundant-``(Constitutional)``-suffix
-# rule. Kept in sync with the one-shot sweep driver
-# ``tools/strip_redundant_constitutional_suffix.py``. Archived and historical
-# files (``archive/**``, ``MEMLOG.md``, ``TODO.md``) are intentionally out of
-# scope — they record history verbatim.
-REDUNDANT_SUFFIX_SCOPE = (
-    "core_00-01_principles.md",
-    "core_02-04_definition_mechanics.md",
-    "core_05-05_definitions_a_independent.md",
-    "core_05-05_definitions_b_semi_independent.md",
-    "core_05-05_definitions_c_dependent_clusters.md",
-    "core_06-06_standing_assessment.md",
-    "core_07-07_standing_integration.md",
-    "core_08-08_misconduct.md",
-    "core_09-09_forum.md",
-    "core_10-10_rights_part_a.md",
-    "core_10-10_rights_part_b.md",
-    "core_10-10_rights_part_c.md",
-    "core_10-10_rights_part_d.md",
-    "core_11-11_governance.md",
-    "core_12-14_amendment.md",
-    "core_15-15_incorporation.md",
-    "corpus_systems.md",
-    "corpus_institutions.md",
-    "corpus_forum.md",
-    "corpus_joint_structure.md",
-    "doc_architecture.md",
-    "architecture_primer.md",
-    "architecture_adoption_appendix.md",
-    "README.md",
-    "TRUST_UNDER_ATTACK_DELTA_REPORT.md",
-    "implementation/ARCHITECTURE_WORKLIST.md",
-    "implementation/DEC_CONTENT_GAPS_PLAN_2026-04-16.md",
-    "implementation/DEC_INDIGENOUS_CONTINUITY_SCOPE_2026-04-17.md",
-    "implementation/DEC_TRACK_7_1_POLICY_2026-04-17.md",
-    "implementation/TRANSITION_FRAMEWORK_2026.md",
-)
-
 # ``" (Constitutional)"`` as a standalone parenthetical suffix. The closing
 # ``\)`` rules out ``(Constitutional Constraint)`` automatically.
 _REDUNDANT_SUFFIX_RE = re.compile(r" \(Constitutional\)")
@@ -88,7 +52,17 @@ _REDUNDANT_SUFFIX_META_MARKERS = ("`(Constitutional)`",)
 
 def audit_redundant_suffix(root: pathlib.Path) -> list[str]:
     violations: list[str] = []
-    for rel in REDUNDANT_SUFFIX_SCOPE:
+    extra_scope = [
+        "architecture_primer.md",
+        "architecture_adoption_appendix.md",
+        "TRUST_UNDER_ATTACK_DELTA_REPORT.md",
+        "implementation/ARCHITECTURE_WORKLIST.md",
+        "implementation/DEC_CONTENT_GAPS_PLAN_2026-04-16.md",
+        "implementation/DEC_INDIGENOUS_CONTINUITY_SCOPE_2026-04-17.md",
+        "implementation/DEC_TRACK_7_1_POLICY_2026-04-17.md",
+        "implementation/TRANSITION_FRAMEWORK_2026.md",
+    ]
+    for rel in [*binding_corpus_scope(root, include_support_docs=True), *extra_scope]:
         path = root / rel
         if not path.exists():
             continue

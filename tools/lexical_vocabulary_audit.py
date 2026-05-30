@@ -10,32 +10,7 @@ import re
 import sys
 from dataclasses import dataclass
 
-# Same binding corpus as reference_audit.py; keeps terminology consistent across normative text.
-DEFAULT_SCOPE = [
-    "core_00-01_principles.md",
-    "core_02-04_definition_mechanics.md",
-    "core_05-05_definitions_a_independent.md",
-    "core_05-05_definitions_b_semi_independent.md",
-    "core_05-05_definitions_c_dependent_clusters.md",
-    "core_06-06_standing_assessment.md",
-    "core_07-07_standing_integration.md",
-    "core_08-08_misconduct.md",
-    "core_09-09_forum.md",
-    "core_10-10_rights_part_a.md",
-    "core_10-10_rights_part_b.md",
-    "core_10-10_rights_part_c.md",
-    "core_10-10_rights_part_d.md",
-    "core_11-11_governance.md",
-    "core_12-14_amendment.md",
-    "core_15-15_incorporation.md",
-    "corpus_systems.md",
-    "corpus_institutions.md",
-    "corpus_forum.md",
-    "corpus_joint_structure.md",
-    "doc_architecture.md",
-    "README.md",
-    "architecture_primer.md",
-]
+from corpus_paths import binding_corpus_scope
 
 # Enforce **breach**-family ban only where the chapter-six pass has landed; expand as other scoped files are scrubbed.
 _BREACH_FAMILY_SCOPE = frozenset({"core_06-06_standing_assessment.md", "core_07-07_standing_integration.md"})
@@ -110,7 +85,7 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument(
         "--scope",
         nargs="+",
-        default=DEFAULT_SCOPE,
+        default=None,
         help="Markdown files to scan.",
     )
     parser.add_argument(
@@ -462,9 +437,12 @@ def write_evidence(root: pathlib.Path, run_date: str, report: str) -> pathlib.Pa
 def main() -> int:
     args = parse_args()
     root = pathlib.Path(args.root).resolve()
+    scope = args.scope or binding_corpus_scope(root, include_support_docs=True)
+    if args.scope is None and (root / "architecture_primer.md").is_file():
+        scope.append("architecture_primer.md")
 
     findings: list[Finding] = []
-    for rel_path in args.scope:
+    for rel_path in scope:
         file_path = root / rel_path
         if not file_path.is_file():
             print(
@@ -484,7 +462,7 @@ def main() -> int:
         if rel_path in _BREACH_FAMILY_SCOPE:
             findings.extend(scan_avoid_breach_family(rel_path, text))
 
-    report = report_markdown(args.date, args.scope, findings)
+    report = report_markdown(args.date, scope, findings)
     if args.write_evidence:
         evidence_path = write_evidence(root, args.date, report)
         print(f"Wrote evidence report: {evidence_path}")

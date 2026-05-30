@@ -15,6 +15,8 @@ import argparse
 import pathlib
 import sys
 
+from corpus_paths import binding_corpus_scope
+
 
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(description=__doc__)
@@ -237,7 +239,11 @@ def check_horizontal_rule_preceding_blank(lines: list[str], path_label: str) -> 
 
 def resolve_thematic_paths(root: pathlib.Path, arg: str | None) -> list[pathlib.Path]:
     if arg is None:
-        names = DEFAULT_THEMATIC_BREAK_TARGETS
+        names = [
+            *binding_corpus_scope(root, include_support_docs=True),
+            "CONSTITUTIONAL_REGRESSION_SCENARIOS.md",
+            "architecture_primer.md",
+        ]
     else:
         names = tuple(n.strip() for n in arg.split(",") if n.strip())
     paths: list[pathlib.Path] = []

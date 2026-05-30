@@ -167,7 +167,7 @@ Step 3: Update ai_corpus index files
 | corpus_systems.md | ~2,170 | Systems protocols S1-S5 |
 | corpus_institutions.md | ~940 | Institutional governance CI-1-24 |
 | corpus_forum.md | ~1,150 | Forum operations |
-| corpus_joint_structure.md | ~1,730 | Cross-domain implementation |
+| corpus_joint_structure.md + corpus_joint_structure/*.md | wrapper + ~1,730 | Cross-domain implementation |
 
 ---
 

@@ -28,34 +28,11 @@ from ch5_dec_widget_audit import (  # noqa: E402
     collect_all_ch5_anchors,
 )
 from ch5_paths import CH5_ALL  # noqa: E402
+from corpus_paths import binding_corpus_scope  # noqa: E402
 
 CH5_FILE_PATTERN = re.compile(
     r"\]\((core_05-05_definitions_(?:a_independent|b_semi_independent|c_dependent_clusters)\.md)#([^)]+)\)"
 )
-
-DEFAULT_SCOPE = [
-    "core_00-01_principles.md",
-    "core_02-04_definition_mechanics.md",
-    "core_05-05_definitions_a_independent.md",
-    "core_05-05_definitions_b_semi_independent.md",
-    "core_05-05_definitions_c_dependent_clusters.md",
-    "core_06-06_standing_assessment.md",
-    "core_07-07_standing_integration.md",
-    "core_08-08_misconduct.md",
-    "core_09-09_forum.md",
-    "core_10-10_rights_part_a.md",
-    "core_10-10_rights_part_b.md",
-    "core_10-10_rights_part_c.md",
-    "core_10-10_rights_part_d.md",
-    "core_11-11_governance.md",
-    "core_12-14_amendment.md",
-    "core_15-15_incorporation.md",
-    "corpus_systems.md",
-    "corpus_institutions.md",
-    "corpus_forum.md",
-    "corpus_joint_structure.md",
-]
-
 
 def parse_args() -> argparse.Namespace:
     p = argparse.ArgumentParser(description=__doc__)
@@ -90,7 +67,7 @@ def audit_file(path: Path, anchors: set[str]) -> list[str]:
 def main() -> int:
     args = parse_args()
     root = Path(args.root).resolve()
-    scope = args.files if args.files else DEFAULT_SCOPE
+    scope = args.files if args.files else binding_corpus_scope(root)
 
     missing_part = [name for name in CH5_ALL if not (root / name).is_file()]
     if missing_part:

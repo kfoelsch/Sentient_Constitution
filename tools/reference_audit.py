@@ -10,30 +10,7 @@ import re
 import sys
 from dataclasses import dataclass
 
-
-DEFAULT_SCOPE = [
-    "core_00-01_principles.md",
-    "core_02-04_definition_mechanics.md",
-    "core_05-05_definitions_a_independent.md",
-    "core_05-05_definitions_b_semi_independent.md",
-    "core_05-05_definitions_c_dependent_clusters.md",
-    "core_06-06_standing_assessment.md",
-    "core_07-07_standing_integration.md",
-    "core_08-08_misconduct.md",
-    "core_09-09_forum.md",
-    "core_10-10_rights_part_a.md",
-    "core_10-10_rights_part_b.md",
-    "core_10-10_rights_part_c.md",
-    "core_10-10_rights_part_d.md",
-    "core_11-11_governance.md",
-    "core_12-14_amendment.md",
-    "core_15-15_incorporation.md",
-    "corpus_systems.md",
-    "corpus_institutions.md",
-    "corpus_forum.md",
-    "corpus_joint_structure.md",
-    "doc_architecture.md",
-]
+from corpus_paths import binding_corpus_scope
 
 DEFAULT_ARTICLE_SOURCES = [
     "core_10-10_rights_part_a.md",
@@ -81,7 +58,7 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument(
         "--scope",
         nargs="+",
-        default=DEFAULT_SCOPE,
+        default=None,
         help="Files to scan for references.",
     )
     parser.add_argument(
@@ -260,10 +237,11 @@ def write_evidence(root: pathlib.Path, run_date: str, report: str) -> pathlib.Pa
 def main() -> int:
     args = parse_args()
     root = pathlib.Path(args.root).resolve()
+    scope = args.scope or binding_corpus_scope(root, include_support_docs=True)
     canonical = canonical_map_from_paths(root, args.source)
 
     findings: list[Finding] = []
-    for rel_path in args.scope:
+    for rel_path in scope:
         file_path = root / rel_path
         if not file_path.is_file():
             print(
@@ -281,7 +259,7 @@ def main() -> int:
             )
         )
 
-    report = report_markdown(args.date, args.scope, canonical, findings)
+    report = report_markdown(args.date, scope, canonical, findings)
     if args.write_evidence:
         evidence_path = write_evidence(root, args.date, report)
         print(f"Wrote evidence report: {evidence_path}")

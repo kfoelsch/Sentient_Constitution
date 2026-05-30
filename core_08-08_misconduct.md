@@ -191,7 +191,7 @@ No final **Violation Axis anti-constitutional misconduct** classification under 
 
 **Chapter Twelve** decides whether a constitutional change would wrongly weaken protected constitutional rights or duties, including through evasion. **Chapter Fourteen** decides whether the change process was properly run, whether the records were properly kept, whether review was triggered when required, and whether any temporary effect is valid.
 
-Those chapters decide whether the constitutional change itself can stand. They do **not** decide the final misconduct label for the people or institutions involved. If conduct within this chapter's scope may deserve a final anti-constitutional misconduct classification, including a final **Violation Axis** slot, any connected sanctions, or escalation as anti-constitutional misconduct, that decision remains **in this chapter**.
+Those chapters decide whether the constitutional change itself can stand. They do **not** decide the final misconduct label for the sentients or institutions involved. If conduct within this chapter's scope may deserve a final anti-constitutional misconduct classification, including a final **Violation Axis** slot, any connected sanctions, or escalation as anti-constitutional misconduct, that decision remains **in this chapter**.
 
 <a id="6-criteria-interactions-and-named-pattern-routing"></a>
 
@@ -618,7 +618,7 @@ This subsection does **not** create a mandatory-prosecution rule, add an indepen
 
 <br>
 
-*In plain terms: cutting off or wrecking infrastructure can be a constitutional attack when the result is to make people lose survival support, lose access to remedies, or lose the practical ability to live under the Constitution. The label depends on the real effect, not on whether the actor calls the cutoff maintenance, security, business judgment, ownership, or ordinary access control.*
+*In plain terms: cutting off or wrecking infrastructure can be a constitutional attack when the result is to make sentients lose survival support, lose access to remedies, or lose the practical ability to live under the Constitution. The label depends on the real effect, not on whether the actor calls the cutoff maintenance, security, business judgment, ownership, or ordinary access control.*
 
 **Infrastructure denial, destruction, or dependency cutoff conduct** is **anti-constitutional misconduct within this chapter's scope** when substantiated under **Chapters Two through Four** and assessed through the **section 2** criteria for possible anti-constitutional misconduct assignment. It means knowingly, recklessly, corruptly, coercively, or with foreseeable indifference denying, disabling, destroying, degrading, withholding, capturing, monopolizing, disconnecting, throttling, sabotaging, de-authenticating, deplatforming, deprovisioning, or otherwise making materially unusable infrastructure, dependencies, tools, services, resource flows, records, interfaces, credentials, compute, communications, energy, logistics, shelter or operating environments, bodily-maintenance pathways, audit systems, remedy pathways, or comparable constitutional operating conditions.
 
