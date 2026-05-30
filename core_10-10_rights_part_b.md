@@ -1404,3 +1404,7 @@ Stakeholders identified under **Chapter Five** must have participation and repre
   - structural capture.
   
   Concentration of influence — including hidden or indirectly routed control — without auditability or challenge is non-compliant and implicates **Articles X**, **XIII**, and **XIV**.
+
+---
+
+**Next file:** [core_10-10_rights_part_c.md](core_10-10_rights_part_c.md)

@@ -33,3 +33,4 @@ Canonical meaning for constitutional terms, Rights Floors, and definition-satisf
 
 ---
 
+**Next file:** [cjs_01_scope_purpose_boundary_interface.md](cjs_01_scope_purpose_boundary_interface.md)

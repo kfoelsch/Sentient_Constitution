@@ -1440,3 +1440,7 @@ All foundational principles in this chapter:
 - must be implemented through enforceable classification, governance requirements, and accountability mechanisms defined here
 
 They must remain enforceable under conditions of adversarial behavior, system capture, and misaligned incentives.
+
+---
+
+**Next file:** [core_02-04_definition_mechanics.md](core_02-04_definition_mechanics.md)

@@ -1962,3 +1962,5 @@ Below, entries are **grouped by topic** for reading convenience (non-operative o
   - arbitrary or pretextual imposition of restricted status without documented, ongoing threat to constitutional integrity.
 
 ---
+
+**Next file:** [core_05-05_definitions_c_dependent_clusters.md](core_05-05_definitions_c_dependent_clusters.md)

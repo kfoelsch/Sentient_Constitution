@@ -340,3 +340,7 @@ Material stewardship and operation require **sentients** who can **exercise** au
 - **Anti-symbolism rule:** Titles or advisory forums do not satisfy this section where real authority and competency are required for materially binding decisions. Detailed role taxonomy, qualification/succession controls, pathway-access implementation, and incentive-governance mechanics are governed by `corpus_institutions.md` **CI-4**, **CI-11**, and **CI-12**.
 
 **Cross-reference (section 5):** **Article XI-D**; adopted governance implementation on role integrity; **[corpus_systems.md](corpus_systems.md), Chapter S3** and **Protocol S5**; and **corpus_institutions.md** (**CI-4**, **CI-11**, **CI-12**, and related sections as applicable).
+
+---
+
+**Next file:** [core_12-14_amendment.md](core_12-14_amendment.md)

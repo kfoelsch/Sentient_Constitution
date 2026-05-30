@@ -123,6 +123,10 @@ Required gate conditions before any rename:
 
 **Abbreviations:** `CP` = **Cross-domain implementation layer** in [corpus_joint_structure.md](corpus_joint_structure.md) (Implementation Groups One through Four; not Sentient Constitution chapter numbers). `CS` = [corpus_systems.md](corpus_systems.md) (systems companion; **do not** use the bare phrase *Constitutional Systems* in body text — see *Ambiguous implementation labels* under *Plain-Language Vocabulary Guardrails*). `CI` = [corpus_institutions.md](corpus_institutions.md) (companion institutional-law file). `CJS` = [corpus_joint_structure.md](corpus_joint_structure.md) (companion joint-structure file, including **CP**). Sections in **CI** are labeled **CI-1** through **CI-24** (with subsections **CI-*n*.*m***) so they are not confused with Sentient Constitution **Articles** (Roman numerals). Sections in **CJS** are labeled **CJS-1** through **CJS-4** (with subsections **CJS-*n*.*m***).
 
+**CJS filename convention:** all files inside `corpus_joint_structure/` use the `cjs_` prefix and a two-digit ordinal, matching the numbered `core_*` filename convention. The ordinal is a file-order/navigation aid only; it does not change stable in-text labels such as **CJS-1**, **CJS-2**, **CJS-3**, **CJS-4**, **Implementation Group One through Four**, **PRIM**, or **PROT**.
+
+**Corpus navigation footer convention:** every active corpus Markdown file in the reading chain ends with a footer in the form `**Next file:** [filename](path)`. The footer is navigation-only and non-operative. Maintain the sequence from `README.md` through the numbered `core_*` files, the joint-structure wrapper and `cjs_00` through `cjs_09` subfiles, the companion files, and this architecture map back to `README.md`.
+
 **Authority stack (quick reference):**
 1. **Binding constitutional source:** the numbered `core_*` constitutional files read together as one instrument. Chapters Two through Four meaning and validity constraints live in `core_02-04_definition_mechanics.md`; Chapter Five lives in `core_05-05_definitions_a_independent.md` (§1), `core_05-05_definitions_b_semi_independent.md` (§2), and `core_05-05_definitions_c_dependent_clusters.md` (§3).
 2. **Binding incorporated implementation:** designated obligations in `corpus_joint_structure.md` (including **Cross-domain implementation layer**), `corpus_systems.md`, `corpus_institutions.md`, and `corpus_forum.md` within valid adoption scope and Sentient Constitution incorporation hooks.
@@ -853,3 +857,7 @@ Use that archived appendix section for non-operative rights-layer orientation, e
 ---
 
 *Last aligned with corpus filenames: the Sentient Constitution `core_*.md` split (see [README.md](README.md)), `core_12-14_amendment.md` (chapters 11–13), `corpus_joint_structure.md`, `corpus_systems.md`, `corpus_institutions.md`, `corpus_forum.md`.*
+
+---
+
+**Next file:** [README.md](README.md)

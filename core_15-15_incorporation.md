@@ -155,3 +155,7 @@ Non-operative orientation: [architecture_primer.md](architecture_primer.md) expa
 ---
 
 *Corpus alignment:* edition `SC-Corpus-2026.04.30`, effective **2026-04-18**; canonical mapping in [doc_architecture.md](doc_architecture.md) **section 17**.
+
+---
+
+**Next file:** [corpus_joint_structure.md](corpus_joint_structure.md)

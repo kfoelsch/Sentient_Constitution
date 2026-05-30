@@ -129,3 +129,6 @@ Where **full** compliance is **not** maintainable: **prioritize** **Safety** and
 The following integrity implementation labels operationalize and test the Meta-Integrity constraints above.
 Unless a section states otherwise, where cross-companion structural duties apply to the same facts, read `corpus_joint_structure.md` **CJS-2.2**, **CJS-R19**, and **CJS-3.13** for joint interface requirements.
 
+---
+
+**Next file:** [cjs_07_implementation_group_02_presentation.md](cjs_07_implementation_group_02_presentation.md)

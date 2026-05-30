@@ -872,3 +872,7 @@ Constitutional rights are only real if someone can invoke them, verify them, fun
 **Final Violation Axis s = 7, s = 8, and s = 9 classification of anti-constitutional misconduct** — including criteria, incident-gravity slot assignment, due-process safeguards, and cross-chapter discipline — is stated **only** in [**Chapter Eight**](core_08-08_misconduct.md#chapter-eight-anti-constitutional-misconduct). Older references to **Tier 1**, **Tier 2**, or **Tier 3** in this context are legacy shorthand for **s = 7**, **s = 8**, and **s = 9**, respectively, unless a provision expressly says otherwise.
 
 This **Chapter Seven** section **6** does **not** restate Chapter Eight slot-assignment rules and must **not** be used to create a **parallel** offense taxonomy.
+
+---
+
+**Next file:** [core_08-08_misconduct.md](core_08-08_misconduct.md)

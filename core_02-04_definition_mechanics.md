@@ -526,3 +526,5 @@ This chapter does not define the operative constitutional model for:
 That model is defined in **Chapter Six — Contribution, Violation, and Standing Model**.
 
 ---
+
+**Next file:** [core_05-05_definitions_a_independent.md](core_05-05_definitions_a_independent.md)

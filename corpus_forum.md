@@ -1192,3 +1192,7 @@ Each adopting system must maintain and periodically update at least:
 - `corpus_institutions.md` remains the general owner of non-adjudicative institutional governance (as distinct from the forum layer).
 - `corpus_joint_structure.md` remains the owner of general procedural-integrity and adjudication implementation labels.
 - `corpus_systems.md` remains the owner of system continuity, class, steward, and cross-jurisdiction execution taxonomies that forums may rely on.
+
+---
+
+**Next file:** [doc_architecture.md](doc_architecture.md)

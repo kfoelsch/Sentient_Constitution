@@ -640,3 +640,5 @@ The conduct is in scope only where materially linked to one or more of the follo
 This subsection does **not** add an additional slot-assignment criterion beyond the **section 2** set, create a general public-utility ownership rule, prohibit all exclusion or security control, or relocate infrastructure operations from Chapter Ten, Chapter Nine, adopted systems protocols, or implementation law. It routes evaluation of the named pattern into the existing criteria, slot-assignment, and due-process safeguards of this chapter.
 
 ---
+
+**Next file:** [core_09-09_forum.md](core_09-09_forum.md)

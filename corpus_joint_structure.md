@@ -10,13 +10,17 @@
 
 | Stable family | Authoritative subfile |
 |---|---|
-| Opening title, status, scope, and registry | [00_registry_and_reading_rules.md](corpus_joint_structure/00_registry_and_reading_rules.md) |
-| CJS-1: Scope, purpose, and boundary interface | [cjs_1_scope_purpose_boundary_interface.md](corpus_joint_structure/cjs_1_scope_purpose_boundary_interface.md) |
-| CJS-2: Companion integration map | [cjs_2_companion_integration_map.md](corpus_joint_structure/cjs_2_companion_integration_map.md) |
-| CJS-3: Joint structural obligations | [cjs_3_joint_structural_obligations.md](corpus_joint_structure/cjs_3_joint_structural_obligations.md) |
-| Cross-domain implementation layer overview | [implementation_layer_overview.md](corpus_joint_structure/implementation_layer_overview.md) |
-| Implementation Group One: Meta-Integrity | [implementation_group_1_meta_integrity.md](corpus_joint_structure/implementation_group_1_meta_integrity.md) |
-| Implementation Group Two: Presentation | [implementation_group_2_presentation.md](corpus_joint_structure/implementation_group_2_presentation.md) |
-| Implementation Group Three: Architecture | [implementation_group_3_architecture.md](corpus_joint_structure/implementation_group_3_architecture.md) |
-| Implementation Group Four: Governance | [implementation_group_4_governance.md](corpus_joint_structure/implementation_group_4_governance.md) |
-| CJS-4: Stable section identifiers, edition alignment, and drafting notes | [cjs_4_stable_identifiers_edition_alignment.md](corpus_joint_structure/cjs_4_stable_identifiers_edition_alignment.md) |
+| Opening title, status, scope, and registry | [cjs_00_registry_and_reading_rules.md](corpus_joint_structure/cjs_00_registry_and_reading_rules.md) |
+| CJS-1: Scope, purpose, and boundary interface | [cjs_01_scope_purpose_boundary_interface.md](corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md) |
+| CJS-2: Companion integration map | [cjs_02_companion_integration_map.md](corpus_joint_structure/cjs_02_companion_integration_map.md) |
+| CJS-3: Joint structural obligations | [cjs_03_joint_structural_obligations.md](corpus_joint_structure/cjs_03_joint_structural_obligations.md) |
+| CJS-4: Stable section identifiers, edition alignment, and drafting notes | [cjs_04_stable_identifiers_edition_alignment.md](corpus_joint_structure/cjs_04_stable_identifiers_edition_alignment.md) |
+| Cross-domain implementation layer overview | [cjs_05_implementation_layer_overview.md](corpus_joint_structure/cjs_05_implementation_layer_overview.md) |
+| Implementation Group One: Meta-Integrity | [cjs_06_implementation_group_01_meta_integrity.md](corpus_joint_structure/cjs_06_implementation_group_01_meta_integrity.md) |
+| Implementation Group Two: Presentation | [cjs_07_implementation_group_02_presentation.md](corpus_joint_structure/cjs_07_implementation_group_02_presentation.md) |
+| Implementation Group Three: Architecture | [cjs_08_implementation_group_03_architecture.md](corpus_joint_structure/cjs_08_implementation_group_03_architecture.md) |
+| Implementation Group Four: Governance | [cjs_09_implementation_group_04_governance.md](corpus_joint_structure/cjs_09_implementation_group_04_governance.md) |
+
+---
+
+**Next file:** [cjs_00_registry_and_reading_rules.md](corpus_joint_structure/cjs_00_registry_and_reading_rules.md)

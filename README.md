@@ -94,3 +94,7 @@ Quick authority order:
 - **Conflict order:** Sentient Constitution meaning controls. Use the **Authority Stack and Internal Hierarchy** cluster in Chapter Five to distinguish source-layer status from last-resort interpretive hierarchy. Incorporated and process layers must satisfy, not narrow, Sentient Constitution constraints.
 
 For longer explanatory orientation and first-pass reading flow, see [architecture_primer.md](architecture_primer.md).
+
+---
+
+**Next file:** [core_00-01_principles.md](core_00-01_principles.md)

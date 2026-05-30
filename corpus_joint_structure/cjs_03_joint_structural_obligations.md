@@ -1020,3 +1020,6 @@ Stakeholder scope and targeted transparency
 
 <a id="cross-domain-implementation-layer"></a>
 
+---
+
+**Next file:** [cjs_04_stable_identifiers_edition_alignment.md](cjs_04_stable_identifiers_edition_alignment.md)

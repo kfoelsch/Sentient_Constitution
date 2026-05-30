@@ -114,3 +114,5 @@ Where presentation or interface design materially influences what stakeholders n
 Where ranking, recommendation, or prioritization mechanisms materially shape visibility, systems must disclose primary salience factors, known limitations, and meaningful user-control pathways in proportion to impact. Read this requirement with **PRIM1** and `corpus_joint_structure.md` **CJS-3.16**.
 
 ---
+
+**Next file:** [cjs_08_implementation_group_03_architecture.md](cjs_08_implementation_group_03_architecture.md)

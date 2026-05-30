@@ -89,6 +89,14 @@ make ai-corpus-sync
 Commit both source + ai_corpus/ together
 ```
 
+## Corpus Navigation Footer
+
+Active corpus Markdown files carry a navigation-only footer:
+
+`**Next file:** [filename](path)`
+
+Maintain the footer sequence from `README.md` through the numbered `core_*` files, `corpus_joint_structure.md`, the `corpus_joint_structure/cjs_00` through `cjs_09` subfiles, the companion corpus files, and `doc_architecture.md` back to `README.md`. Update the footer links whenever files are split, renamed, inserted, or removed from the active corpus reading chain.
+
 ## Success Metrics
 
 | Metric | Target | Status |

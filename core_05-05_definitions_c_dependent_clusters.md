@@ -1973,3 +1973,7 @@ This cluster is the joint-invocation home for overt use of force, weapons of mas
   - targeting logic keyed on protected characteristics or their material proxies (independently non-compliant).
 
 *Corpus alignment:* edition `SC-Corpus-2026.04.32`, effective **2026-04-24**; canonical mapping in [doc_architecture.md](doc_architecture.md) **section 17**.
+
+---
+
+**Next file:** [core_06-06_standing_assessment.md](core_06-06_standing_assessment.md)

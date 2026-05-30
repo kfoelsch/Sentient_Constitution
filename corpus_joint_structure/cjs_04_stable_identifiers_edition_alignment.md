@@ -13,3 +13,7 @@
 `doc_architecture.md` remains the **editorial map** and **placement guide**. **`corpus_joint_structure.md`** holds **binding joint structural** text within **Corpus** as designated in **Chapter Five** and incorporated through **Chapter Fifteen**.
 
 *Corpus alignment:* edition `SC-Corpus-2026.04.30`, effective **2026-04-18**; canonical mapping in [doc_architecture.md](../doc_architecture.md) **section 17**.
+
+---
+
+**Next file:** [cjs_05_implementation_layer_overview.md](cjs_05_implementation_layer_overview.md)

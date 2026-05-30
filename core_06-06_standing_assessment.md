@@ -596,3 +596,7 @@ This table is the operative Violation Axis severity ladder for Chapter Six. It s
 ---
 
 **Continuation.** Standing effects and integration continue in [Chapter Seven](core_07-07_standing_integration.md#chapter-seven-standing-effects-and-integration), beginning with **section 1 — Standing Effects**.
+
+---
+
+**Next file:** [core_07-07_standing_integration.md](core_07-07_standing_integration.md)

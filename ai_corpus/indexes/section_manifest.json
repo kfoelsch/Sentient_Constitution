@@ -1,15 +1,15 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-05-30T19:23:55+00:00",
+  "generated_at": "2026-05-30T20:33:00+00:00",
   "files": {
     "core_00-01_principles.md": {
-      "total_lines": 1442,
+      "total_lines": 1446,
       "sections": [
         {
           "header": "The Sentient Constitution",
           "level": 1,
           "line_start": 1,
-          "line_end": 1442,
+          "line_end": 1446,
           "anchor": null
         },
         {
@@ -23,7 +23,7 @@
           "header": "CHAPTER 01: PRINCIPLES AND CONSTRAINTS",
           "level": 2,
           "line_start": 35,
-          "line_end": 1442,
+          "line_end": 1446,
           "anchor": null
         },
         {
@@ -408,19 +408,19 @@
           "header": "10. Interpretive Role",
           "level": 3,
           "line_start": 1394,
-          "line_end": 1442,
+          "line_end": 1446,
           "anchor": null
         }
       ]
     },
     "core_02-04_definition_mechanics.md": {
-      "total_lines": 528,
+      "total_lines": 530,
       "sections": [
         {
           "header": "Sentient Constitution — Definition mechanics and traceability",
           "level": 1,
           "line_start": 1,
-          "line_end": 528,
+          "line_end": 530,
           "anchor": null
         },
         {
@@ -581,7 +581,7 @@
           "header": "CHAPTER FOUR: BURDEN OF PROOF, TRACEABILITY, AND VERIFICATION",
           "level": 2,
           "line_start": 272,
-          "line_end": 528,
+          "line_end": 530,
           "anchor": null
         },
         {
@@ -686,26 +686,26 @@
           "header": "7. Contribution and Standing Alignment Pointer",
           "level": 3,
           "line_start": 520,
-          "line_end": 528,
+          "line_end": 530,
           "anchor": null
         }
       ]
     },
     "core_05-05_definitions_a_independent.md": {
-      "total_lines": 1249,
+      "total_lines": 1253,
       "sections": [
         {
           "header": "Sentient Constitution — Constitutional definitions",
           "level": 1,
           "line_start": 1,
-          "line_end": 1249,
+          "line_end": 1253,
           "anchor": null
         },
         {
           "header": "CHAPTER FIVE: FOUNDATIONAL DEFINITIONS",
           "level": 2,
           "line_start": 10,
-          "line_end": 1249,
+          "line_end": 1253,
           "anchor": "#chapter-five-foundational-definitions"
         },
         {
@@ -740,7 +740,7 @@
           "header": "1. Independent Definitions",
           "level": 3,
           "line_start": 275,
-          "line_end": 1249,
+          "line_end": 1253,
           "anchor": "#1-interdependent-definitions"
         },
         {
@@ -1076,26 +1076,26 @@
           "header": "Wellbeing",
           "level": 4,
           "line_start": 1223,
-          "line_end": 1249,
+          "line_end": 1253,
           "anchor": "#wellbeing"
         }
       ]
     },
     "core_05-05_definitions_b_semi_independent.md": {
-      "total_lines": 1964,
+      "total_lines": 1966,
       "sections": [
         {
           "header": "Sentient Constitution — Constitutional definitions (Part B)",
           "level": 1,
           "line_start": 1,
-          "line_end": 1964,
+          "line_end": 1966,
           "anchor": null
         },
         {
           "header": "2. Semi-independent Definitions",
           "level": 3,
           "line_start": 11,
-          "line_end": 1964,
+          "line_end": 1966,
           "anchor": "#section-2-semi-independent-definitions"
         },
         {
@@ -1718,26 +1718,26 @@
           "header": "Non-Statelessness",
           "level": 4,
           "line_start": 1951,
-          "line_end": 1964,
+          "line_end": 1966,
           "anchor": "#non-statelessness-constitutional"
         }
       ]
     },
     "core_05-05_definitions_c_dependent_clusters.md": {
-      "total_lines": 1975,
+      "total_lines": 1979,
       "sections": [
         {
           "header": "Sentient Constitution — Constitutional definitions (Part C)",
           "level": 1,
           "line_start": 1,
-          "line_end": 1975,
+          "line_end": 1979,
           "anchor": null
         },
         {
           "header": "3. Dependent clusters (Clustered Definitions)",
           "level": 3,
           "line_start": 11,
-          "line_end": 1975,
+          "line_end": 1979,
           "anchor": "#section-3-dependent-clusters-clustered-definitions"
         },
         {
@@ -2402,7 +2402,7 @@
           "header": "3.13 Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm",
           "level": 4,
           "line_start": 1775,
-          "line_end": 1975,
+          "line_end": 1979,
           "anchor": "#use-of-force-autonomous-coercion-and-mass-harm-cluster"
         },
         {
@@ -2458,26 +2458,26 @@
           "header": "In plain terms: *A system that pressures, restricts, or manipulates sentients on its own, without a human exercising real-time judgment over each coercive act.*",
           "level": 5,
           "line_start": 1953,
-          "line_end": 1975,
+          "line_end": 1979,
           "anchor": null
         }
       ]
     },
     "core_06-06_standing_assessment.md": {
-      "total_lines": 598,
+      "total_lines": 602,
       "sections": [
         {
           "header": "Sentient Constitution — Contribution, violation, and standing",
           "level": 1,
           "line_start": 1,
-          "line_end": 598,
+          "line_end": 602,
           "anchor": null
         },
         {
           "header": "CHAPTER SIX: CONTRIBUTION, VIOLATION, AND STANDING MODEL — CLASSIFICATION",
           "level": 2,
           "line_start": 10,
-          "line_end": 598,
+          "line_end": 602,
           "anchor": "#chapter-six-compliance-violation-and-standing-model"
         },
         {
@@ -2575,7 +2575,7 @@
           "header": "4. Primary Axis Categories, Slot Grammar, and Defaults",
           "level": 3,
           "line_start": 302,
-          "line_end": 598,
+          "line_end": 602,
           "anchor": "#4-primary-axis-categories-slot-grammar-and-defaults"
         },
         {
@@ -2624,26 +2624,26 @@
           "header": "4.3 Violation Axis rules — violation nature (adverse findings and severity)",
           "level": 4,
           "line_start": 511,
-          "line_end": 598,
+          "line_end": 602,
           "anchor": "#43-violation-axis-rules-violation-nature-adverse-findings-and-severity"
         }
       ]
     },
     "core_07-07_standing_integration.md": {
-      "total_lines": 874,
+      "total_lines": 878,
       "sections": [
         {
           "header": "Sentient Constitution — Standing effects and integration",
           "level": 1,
           "line_start": 1,
-          "line_end": 874,
+          "line_end": 878,
           "anchor": null
         },
         {
           "header": "CHAPTER SEVEN: STANDING EFFECTS AND INTEGRATION",
           "level": 2,
           "line_start": 11,
-          "line_end": 874,
+          "line_end": 878,
           "anchor": "#chapter-six-compliance-violation-and-standing-model"
         },
         {
@@ -2881,26 +2881,26 @@
           "header": "6. Violation Axis s = 7–9 anti-constitutional misconduct — authoritative location",
           "level": 3,
           "line_start": 850,
-          "line_end": 874,
+          "line_end": 878,
           "anchor": "#11-axis-ii-grand-anti-constitutional-misconduct-authoritative-location"
         }
       ]
     },
     "core_08-08_misconduct.md": {
-      "total_lines": 642,
+      "total_lines": 644,
       "sections": [
         {
           "header": "Sentient Constitution — Anti-Constitutional Misconduct",
           "level": 1,
           "line_start": 1,
-          "line_end": 642,
+          "line_end": 644,
           "anchor": null
         },
         {
           "header": "CHAPTER EIGHT: ANTI-CONSTITUTIONAL MISCONDUCT",
           "level": 2,
           "line_start": 11,
-          "line_end": 642,
+          "line_end": 644,
           "anchor": "#chapter-eight-anti-constitutional-misconduct"
         },
         {
@@ -3012,26 +3012,26 @@
           "header": "6.9 Infrastructure denial, destruction, or dependency cutoff conduct",
           "level": 3,
           "line_start": 596,
-          "line_end": 642,
+          "line_end": 644,
           "anchor": null
         }
       ]
     },
     "core_09-09_forum.md": {
-      "total_lines": 419,
+      "total_lines": 423,
       "sections": [
         {
           "header": "Sentient Constitution — Forums and jurisdiction",
           "level": 1,
           "line_start": 1,
-          "line_end": 419,
+          "line_end": 423,
           "anchor": null
         },
         {
           "header": "CHAPTER NINE: FORUMS AND JURISDICTION",
           "level": 2,
           "line_start": 8,
-          "line_end": 419,
+          "line_end": 423,
           "anchor": null
         },
         {
@@ -3234,26 +3234,26 @@
           "header": "9. Relation to companion volumes",
           "level": 3,
           "line_start": 405,
-          "line_end": 419,
+          "line_end": 423,
           "anchor": null
         }
       ]
     },
     "core_10-10_rights_part_a.md": {
-      "total_lines": 672,
+      "total_lines": 676,
       "sections": [
         {
           "header": "Sentient Constitution — Foundational Rights (Part A)",
           "level": 1,
           "line_start": 1,
-          "line_end": 672,
+          "line_end": 676,
           "anchor": null
         },
         {
           "header": "CHAPTER TEN: FOUNDATIONAL RIGHTS",
           "level": 2,
           "line_start": 8,
-          "line_end": 672,
+          "line_end": 676,
           "anchor": null
         },
         {
@@ -3386,7 +3386,7 @@
           "header": "Article IV: Resource Allocation, Dependencies, and Ecosystem Funding",
           "level": 3,
           "line_start": 594,
-          "line_end": 672,
+          "line_end": 676,
           "anchor": null
         },
         {
@@ -3400,26 +3400,26 @@
           "header": "Article IV-B: Cross-System Fairness and Sustainability",
           "level": 4,
           "line_start": 631,
-          "line_end": 672,
+          "line_end": 676,
           "anchor": null
         }
       ]
     },
     "core_10-10_rights_part_b.md": {
-      "total_lines": 1406,
+      "total_lines": 1410,
       "sections": [
         {
           "header": "Sentient Constitution — Foundational Rights (Part B)",
           "level": 1,
           "line_start": 1,
-          "line_end": 1406,
+          "line_end": 1410,
           "anchor": null
         },
         {
           "header": "CHAPTER TEN: FOUNDATIONAL RIGHTS",
           "level": 2,
           "line_start": 8,
-          "line_end": 1406,
+          "line_end": 1410,
           "anchor": null
         },
         {
@@ -3671,7 +3671,7 @@
           "header": "Article XI: Stakeholder System Participation, Representation, and Due Process",
           "level": 3,
           "line_start": 1229,
-          "line_end": 1406,
+          "line_end": 1410,
           "anchor": null
         },
         {
@@ -3706,26 +3706,26 @@
           "header": "Article XI-E: Non-Capture Safeguards",
           "level": 4,
           "line_start": 1380,
-          "line_end": 1406,
+          "line_end": 1410,
           "anchor": null
         }
       ]
     },
     "core_10-10_rights_part_c.md": {
-      "total_lines": 1623,
+      "total_lines": 1627,
       "sections": [
         {
           "header": "Sentient Constitution — Foundational Rights (Part C)",
           "level": 1,
           "line_start": 1,
-          "line_end": 1623,
+          "line_end": 1627,
           "anchor": null
         },
         {
           "header": "CHAPTER TEN: FOUNDATIONAL RIGHTS",
           "level": 2,
           "line_start": 8,
-          "line_end": 1623,
+          "line_end": 1627,
           "anchor": null
         },
         {
@@ -4047,7 +4047,7 @@
           "header": "Article XXII: Constitutional Interpretation, Review, and Anti-Capture Safeguards",
           "level": 3,
           "line_start": 1467,
-          "line_end": 1623,
+          "line_end": 1627,
           "anchor": null
         },
         {
@@ -4075,26 +4075,26 @@
           "header": "Article XXII-D: Removal for Cause and Non-Entrenchment",
           "level": 4,
           "line_start": 1589,
-          "line_end": 1623,
+          "line_end": 1627,
           "anchor": null
         }
       ]
     },
     "core_10-10_rights_part_d.md": {
-      "total_lines": 589,
+      "total_lines": 593,
       "sections": [
         {
           "header": "Sentient Constitution — Foundational Rights (Part D)",
           "level": 1,
           "line_start": 1,
-          "line_end": 589,
+          "line_end": 593,
           "anchor": null
         },
         {
           "header": "CHAPTER TEN: FOUNDATIONAL RIGHTS",
           "level": 2,
           "line_start": 8,
-          "line_end": 589,
+          "line_end": 593,
           "anchor": null
         },
         {
@@ -4213,26 +4213,26 @@
           "header": "Chapter Ten — Scope Limit and Layer Discipline (Rights-Floor Boundary Watch)",
           "level": 3,
           "line_start": 561,
-          "line_end": 589,
+          "line_end": 593,
           "anchor": null
         }
       ]
     },
     "core_11-11_governance.md": {
-      "total_lines": 342,
+      "total_lines": 346,
       "sections": [
         {
           "header": "Sentient Constitution — Constitutional contract, legitimacy, authorization, and stewardship",
           "level": 1,
           "line_start": 1,
-          "line_end": 342,
+          "line_end": 346,
           "anchor": null
         },
         {
           "header": "CHAPTER ELEVEN: CONSTITUTIONAL CONTRACT, LEGITIMACY, AUTHORIZATION, AND STEWARDSHIP",
           "level": 2,
           "line_start": 9,
-          "line_end": 342,
+          "line_end": 346,
           "anchor": "#chapter-eleven-constitutional-contract-legitimacy-authorization-and-stewardship"
         },
         {
@@ -4330,19 +4330,19 @@
           "header": "5. Authorized Roles, Competency Development, and Contribution",
           "level": 3,
           "line_start": 322,
-          "line_end": 342,
+          "line_end": 346,
           "anchor": null
         }
       ]
     },
     "core_12-14_amendment.md": {
-      "total_lines": 642,
+      "total_lines": 646,
       "sections": [
         {
           "header": "Sentient Constitution — Amendment, supremacy, and non-regression",
           "level": 1,
           "line_start": 1,
-          "line_end": 642,
+          "line_end": 646,
           "anchor": null
         },
         {
@@ -4454,7 +4454,7 @@
           "header": "CHAPTER FOURTEEN: AMENDMENT, RATIFICATION, AND PROCEDURAL VALIDITY",
           "level": 2,
           "line_start": 314,
-          "line_end": 642,
+          "line_end": 646,
           "anchor": null
         },
         {
@@ -4573,26 +4573,26 @@
           "header": "12. Scope Limit and Layer Discipline",
           "level": 3,
           "line_start": 618,
-          "line_end": 642,
+          "line_end": 646,
           "anchor": null
         }
       ]
     },
     "core_15-15_incorporation.md": {
-      "total_lines": 157,
+      "total_lines": 161,
       "sections": [
         {
           "header": "Sentient Constitution — Incorporation bridge",
           "level": 1,
           "line_start": 1,
-          "line_end": 157,
+          "line_end": 161,
           "anchor": null
         },
         {
           "header": "CHAPTER FIFTEEN: INCORPORATION BRIDGE",
           "level": 2,
           "line_start": 8,
-          "line_end": 157,
+          "line_end": 161,
           "anchor": null
         },
         {
@@ -4620,13 +4620,13 @@
           "header": "4. Adoption framing and scope of authority",
           "level": 3,
           "line_start": 125,
-          "line_end": 157,
+          "line_end": 161,
           "anchor": null
         }
       ]
     },
     "corpus_systems.md": {
-      "total_lines": 2174,
+      "total_lines": 2178,
       "sections": [
         {
           "header": "Protocol A: System Design, Testing, Verification, and Deployment",
@@ -4821,19 +4821,19 @@
           "header": "Protocol D — Decentralized Constitutional Continuity and Partition Resilience",
           "level": 2,
           "line_start": 2095,
-          "line_end": 2174,
+          "line_end": 2178,
           "anchor": null
         }
       ]
     },
     "corpus_institutions.md": {
-      "total_lines": 944,
+      "total_lines": 948,
       "sections": [
         {
           "header": "Constitutional Institutions",
           "level": 1,
           "line_start": 1,
-          "line_end": 944,
+          "line_end": 948,
           "anchor": null
         },
         {
@@ -5232,19 +5232,19 @@
           "header": "Implementation notes",
           "level": 2,
           "line_start": 938,
-          "line_end": 944,
+          "line_end": 948,
           "anchor": null
         }
       ]
     },
     "corpus_forum.md": {
-      "total_lines": 1194,
+      "total_lines": 1198,
       "sections": [
         {
           "header": "Constitutional Forums",
           "level": 1,
           "line_start": 1,
-          "line_end": 1194,
+          "line_end": 1198,
           "anchor": null
         },
         {
@@ -5867,57 +5867,57 @@
           "header": "Relationship to existing files",
           "level": 2,
           "line_start": 1189,
-          "line_end": 1194,
+          "line_end": 1198,
           "anchor": null
         }
       ]
     },
     "corpus_joint_structure.md": {
-      "total_lines": 22,
+      "total_lines": 26,
       "sections": [
         {
           "header": "Constitutional joint structure",
           "level": 1,
           "line_start": 1,
-          "line_end": 22,
+          "line_end": 26,
           "anchor": null
         },
         {
           "header": "Joint Structure Index",
           "level": 2,
           "line_start": 9,
-          "line_end": 22,
+          "line_end": 26,
           "anchor": null
         }
       ]
     },
-    "corpus_joint_structure/00_registry_and_reading_rules.md": {
-      "total_lines": 35,
+    "corpus_joint_structure/cjs_00_registry_and_reading_rules.md": {
+      "total_lines": 36,
       "sections": [
         {
           "header": "Constitutional joint structure",
           "level": 1,
           "line_start": 1,
-          "line_end": 35,
+          "line_end": 36,
           "anchor": null
         },
         {
           "header": "JOINT STRUCTURE REGISTRY (stable section families)",
           "level": 2,
           "line_start": 27,
-          "line_end": 35,
+          "line_end": 36,
           "anchor": null
         }
       ]
     },
-    "corpus_joint_structure/cjs_1_scope_purpose_boundary_interface.md": {
-      "total_lines": 84,
+    "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md": {
+      "total_lines": 85,
       "sections": [
         {
           "header": "CJS-1: Scope, purpose, and boundary interface",
           "level": 2,
           "line_start": 1,
-          "line_end": 84,
+          "line_end": 85,
           "anchor": null
         },
         {
@@ -5952,19 +5952,19 @@
           "header": "CJS-1.5: Operational clusters",
           "level": 3,
           "line_start": 59,
-          "line_end": 84,
+          "line_end": 85,
           "anchor": null
         }
       ]
     },
-    "corpus_joint_structure/cjs_2_companion_integration_map.md": {
-      "total_lines": 63,
+    "corpus_joint_structure/cjs_02_companion_integration_map.md": {
+      "total_lines": 64,
       "sections": [
         {
           "header": "CJS-2: Companion integration map (owners, intentional overlap, read-with ordering)",
           "level": 2,
           "line_start": 1,
-          "line_end": 63,
+          "line_end": 64,
           "anchor": null
         },
         {
@@ -5985,19 +5985,19 @@
           "header": "CJS-2.2: Topic router (stable IDs)",
           "level": 3,
           "line_start": 35,
-          "line_end": 63,
+          "line_end": 64,
           "anchor": null
         }
       ]
     },
-    "corpus_joint_structure/cjs_3_joint_structural_obligations.md": {
-      "total_lines": 1022,
+    "corpus_joint_structure/cjs_03_joint_structural_obligations.md": {
+      "total_lines": 1025,
       "sections": [
         {
           "header": "CJS-3: Joint structural obligations (cross-domain requirements)",
           "level": 2,
           "line_start": 1,
-          "line_end": 1022,
+          "line_end": 1025,
           "anchor": null
         },
         {
@@ -6242,31 +6242,43 @@
           "header": "CJS-3.34 Cross-companion structural review, correction urgency, and disclosure terms",
           "level": 3,
           "line_start": 986,
-          "line_end": 1022,
+          "line_end": 1025,
           "anchor": null
         }
       ]
     },
-    "corpus_joint_structure/cjs_4_stable_identifiers_edition_alignment.md": {
-      "total_lines": 15,
+    "corpus_joint_structure/cjs_04_stable_identifiers_edition_alignment.md": {
+      "total_lines": 19,
       "sections": [
         {
           "header": "CJS-4: Stable section identifiers, edition alignment, and drafting notes",
           "level": 2,
           "line_start": 1,
-          "line_end": 15,
+          "line_end": 19,
           "anchor": null
         }
       ]
     },
-    "corpus_joint_structure/implementation_group_1_meta_integrity.md": {
-      "total_lines": 131,
+    "corpus_joint_structure/cjs_05_implementation_layer_overview.md": {
+      "total_lines": 16,
+      "sections": [
+        {
+          "header": "Cross-domain implementation layer",
+          "level": 2,
+          "line_start": 1,
+          "line_end": 16,
+          "anchor": null
+        }
+      ]
+    },
+    "corpus_joint_structure/cjs_06_implementation_group_01_meta_integrity.md": {
+      "total_lines": 134,
       "sections": [
         {
           "header": "IMPLEMENTATION GROUP ONE: META-INTEGRITY",
           "level": 2,
           "line_start": 1,
-          "line_end": 131,
+          "line_end": 134,
           "anchor": null
         },
         {
@@ -6294,19 +6306,19 @@
           "header": "Meta-integrity obligation: Failure Integrity",
           "level": 3,
           "line_start": 96,
-          "line_end": 131,
+          "line_end": 134,
           "anchor": null
         }
       ]
     },
-    "corpus_joint_structure/implementation_group_2_presentation.md": {
-      "total_lines": 116,
+    "corpus_joint_structure/cjs_07_implementation_group_02_presentation.md": {
+      "total_lines": 118,
       "sections": [
         {
           "header": "IMPLEMENTATION GROUP TWO: PRESENTATION",
           "level": 2,
           "line_start": 1,
-          "line_end": 116,
+          "line_end": 118,
           "anchor": null
         },
         {
@@ -6327,19 +6339,19 @@
           "header": "PRIM4 — Presentation Implementation label: Transparency and Disclosure",
           "level": 3,
           "line_start": 95,
-          "line_end": 116,
+          "line_end": 118,
           "anchor": null
         }
       ]
     },
-    "corpus_joint_structure/implementation_group_3_architecture.md": {
-      "total_lines": 163,
+    "corpus_joint_structure/cjs_08_implementation_group_03_architecture.md": {
+      "total_lines": 165,
       "sections": [
         {
           "header": "IMPLEMENTATION GROUP THREE: ARCHITECTURE",
           "level": 2,
           "line_start": 1,
-          "line_end": 163,
+          "line_end": 165,
           "anchor": null
         },
         {
@@ -6409,19 +6421,19 @@
           "header": "PRIM15 — Integrity Implementation label: Evolution, Revalidation, and Non-Entrenchment",
           "level": 3,
           "line_start": 144,
-          "line_end": 163,
+          "line_end": 165,
           "anchor": null
         }
       ]
     },
-    "corpus_joint_structure/implementation_group_4_governance.md": {
-      "total_lines": 96,
+    "corpus_joint_structure/cjs_09_implementation_group_04_governance.md": {
+      "total_lines": 97,
       "sections": [
         {
           "header": "IMPLEMENTATION GROUP FOUR: GOVERNANCE",
           "level": 2,
           "line_start": 1,
-          "line_end": 96,
+          "line_end": 97,
           "anchor": null
         },
         {
@@ -6463,19 +6475,7 @@
           "header": "PROT6 — Governance Implementation label: Procedural Integrity and Adjudication",
           "level": 3,
           "line_start": 70,
-          "line_end": 96,
-          "anchor": null
-        }
-      ]
-    },
-    "corpus_joint_structure/implementation_layer_overview.md": {
-      "total_lines": 15,
-      "sections": [
-        {
-          "header": "Cross-domain implementation layer",
-          "level": 2,
-          "line_start": 1,
-          "line_end": 15,
+          "line_end": 97,
           "anchor": null
         }
       ]

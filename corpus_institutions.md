@@ -942,3 +942,7 @@ During assurance review, ambiguous terms in this file must be interpreted by ref
 ---
 
 *Corpus alignment:* edition `SC-Corpus-2026.04.32`, effective **2026-04-24**; canonical mapping in [doc_architecture.md](doc_architecture.md) **section 17**.
+
+---
+
+**Next file:** [corpus_forum.md](corpus_forum.md)

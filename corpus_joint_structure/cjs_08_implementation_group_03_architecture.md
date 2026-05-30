@@ -161,3 +161,5 @@ All covered systems and structures must **undergo periodic revalidation**, remai
 **Failure to evolve** in response to **new capabilities**, **identified risks**, or **superior alternatives** may trigger **review**, **reauthorization**, or **replacement** under applicable **PROT6**, **Articles XXIV-A and XXIV-B**, **Chapters Twelve through Fourteen**, **Chapter Ten** Rights Floors, and related **Chapter Five** definitions where materially relevant.
 
 ---
+
+**Next file:** [cjs_09_implementation_group_04_governance.md](cjs_09_implementation_group_04_governance.md)

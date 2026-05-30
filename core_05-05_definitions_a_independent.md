@@ -1247,3 +1247,7 @@ Independent Definitions must not fragment, isolate, or redistribute compliance i
 
 <a id="wellbeing-c"></a>
 - C: A system satisfies Wellbeing only if it preserves or improves the conditions in the Ontological component under full functional system conditions, without material degradation of [Meaningful Agency](core_05-05_definitions_b_semi_independent.md#meaningful-agency), [Dependency](#dependency), or [Environmental Preconditions](core_05-05_definitions_b_semi_independent.md#environmental-preconditions-constitutional).
+
+---
+
+**Next file:** [core_05-05_definitions_b_semi_independent.md](core_05-05_definitions_b_semi_independent.md)

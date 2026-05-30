@@ -1621,3 +1621,7 @@ Final **constitutional** interpretation must remain authoritative, bounded, audi
   - terminate pending review;
   - retaliate for good-faith dissent;
   - narrow challenge rights.
+
+---
+
+**Next file:** [core_10-10_rights_part_d.md](core_10-10_rights_part_d.md)
