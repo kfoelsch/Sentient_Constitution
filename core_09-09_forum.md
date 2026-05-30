@@ -278,7 +278,7 @@ Operational requirements — including **published intake classes**, attributabl
 
 - **Related actions** must be **coordinated** to **avoid** duplicate **merits** **adjudication**. **Lead** family is chosen by **dominant** purpose; **other** bodies contribute through **certification**, **stated** **questions**, **special** roles, or **published** **coordination** rules in owner layers.
 - **Scope expansion and representative treatment.** In an **individually filed** case, the tribunal **may** expand the proceeding to **cover** an affected **class**, **subclass**, or other similarly situated group.
-  - Expansion is available when the record shows any of the following: a **materially shared** injury; a **common** unlawful practice; a **common** decision rule; or **common** dependency on the same conduct, system, or institutional choice.
+  - Expansion is available when the record shows any of the following: a **materially shared** injury; a **common** unlawful practice; a **common** decision rule; **common** dependency on the same conduct, system, or institutional choice; or identification of a **systems-alignment** issue with material **upstream** or **downstream** effects.
   - The tribunal **should** expand when **not** expanding would predictably **leave** similarly situated **sentients** without **practical** remedy.
   - It **should** also expand when **not** expanding would predictably **produce** materially inconsistent rulings or **block** relief that is **structural** by nature.
   - Expansion preserves the original claimant's **standing**. It does **not** erase individual issues that still require individualized proof or remedy.
@@ -315,10 +315,27 @@ Operational requirements — including **published intake classes**, attributabl
 
 #### Family-to-family escalation
 
-- From **Sentient** to **Institutional** where an **institution** becomes a **necessary** party or **relief** **requires** **institutional** **power**.
-- From **Sentient** or **Institutional** to **Integrity** where **integrity** is **primary** or **institutional** process is **materially** **compromised**, including where **retaliation**, **concealment**, or **capture** **allegations** **warrant** an **independent** **merits** **forum**.
-- From **Sentient**, **Institutional**, or **Integrity** to **Environment** where **ecological integrity**, **environmental preconditions**, or **dominant** ecological **remedial** purpose under the **Environment** row in **section 2** becomes **primary**.
-- From **any** family to **Constitutional** only on **certified** **structural** or **validity** **questions**, or on **conflict** among **lower** **panels** on a **constitutional** **point**, **under** **adopting** **instruments** that **preserve** **Article XXIII-A**-class **review** **safeguards** where applicable.
+A case may move from one forum family to another only when the receiving family has become the better merits forum under **dominant-purpose** routing, **anti-self-judging** protection, or certified constitutional review.
+
+- **Sentient to Institutional.**
+  Escalate when:
+  - an **institution** becomes a **necessary** party; or
+  - effective **relief** **requires** **institutional** **power**.
+- **Sentient or Institutional to Integrity.**
+  Escalate when:
+  - **integrity** becomes **primary**;
+  - **institutional** process is **materially** **compromised**; or
+  - **retaliation**, **concealment**, **capture**, or comparable **allegations** **warrant** an **independent** **merits** **forum**.
+- **Sentient, Institutional, or Integrity to Environment.**
+  Escalate when the primary issue becomes:
+  - **ecological integrity**;
+  - **environmental preconditions**; or
+  - **restoration**, **remediation**, attributable **environmental** burdens, lifecycle or systemic ecological harm, or **pattern** or **systemic** ecological failure that makes the **Environment** family the better merits forum under **section 2**.
+- **Any family to Constitutional.**
+  Escalate only where applicable **Article XXIII-A**-class **review** **safeguards** are preserved under the adopting instruments and one of the following is present:
+  - a **certified** **structural** question;
+  - a **certified** **validity** question; or
+  - a **conflict** among **lower** **panels** on a **constitutional** **point**.
 
 #### Existential risk and uncertainty on the record
 
