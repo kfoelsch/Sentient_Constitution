@@ -21,6 +21,8 @@ DEFAULT_ARTICLE_SOURCES = [
 
 ARTICLE_HEADING_RE = re.compile(r"^### Article ([IVXLCDM]+):\s*(.+?)\s*$")
 ARTICLE_REF_RE = re.compile(r"\bArticle ([IVXLCDM]+)\b")
+LOCAL_MARKDOWN_LINK_RE = re.compile(r"\[[^\]]*\]\(([^)\s]+)(?:\s+\"[^\"]*\")?\)")
+INLINE_CODE_RE = re.compile(r"`([^`]+)`")
 
 # These rules cover common stale-drifts tracked in prior audits.
 SEMANTIC_RULES: list[tuple[re.Pattern[str], str, str]] = [
@@ -134,12 +136,35 @@ def scan_file(
     text: str,
     canonical: dict[str, str],
     semantic_checks: bool,
+    allowed_local_refs: set[str],
 ) -> list[Finding]:
     findings: list[Finding] = []
+    cjs_file = rel_path == "corpus_joint_structure.md" or rel_path.startswith(
+        "corpus_joint_structure/"
+    )
     for idx, raw_line in enumerate(text.splitlines(), start=1):
         line = raw_line.strip()
         if not line:
             continue
+
+        if cjs_file:
+            for target in outside_corpus_local_refs(
+                root_rel=rel_path,
+                raw_line=raw_line,
+                allowed_local_refs=allowed_local_refs,
+            ):
+                findings.append(
+                    Finding(
+                        file=rel_path,
+                        line=idx,
+                        kind="cjs-outside-corpus-reference",
+                        detail=(
+                            "CJS corpus text should keep shared interpretation and "
+                            f"routing references inside active corpus files; outside target: {target}"
+                        ),
+                        text=raw_line.strip(),
+                    )
+                )
 
         refs = ARTICLE_REF_RE.findall(raw_line)
         refs_set = set(refs)
@@ -168,6 +193,67 @@ def scan_file(
                         )
                     )
     return findings
+
+
+def outside_corpus_local_refs(
+    root_rel: str,
+    raw_line: str,
+    allowed_local_refs: set[str],
+) -> list[str]:
+    """Return local links/path references from a CJS file that leave corpus scope."""
+    refs: set[str] = set()
+    source_dir = pathlib.PurePosixPath(root_rel).parent
+
+    for match in LOCAL_MARKDOWN_LINK_RE.finditer(raw_line):
+        target = normalize_local_target(source_dir, match.group(1))
+        if target is not None:
+            refs.add(target)
+
+    for match in INLINE_CODE_RE.finditer(raw_line):
+        for token in re.split(r"\s+", match.group(1).strip()):
+            if "/" not in token:
+                continue
+            target = normalize_local_target(source_dir, token.rstrip(".,;:"))
+            if target is not None:
+                refs.add(target)
+
+    return sorted(
+        ref
+        for ref in refs
+        if ref not in allowed_local_refs
+        and not any(allowed.startswith(f"{ref.rstrip('/')}/") for allowed in allowed_local_refs)
+    )
+
+
+def normalize_local_target(
+    source_dir: pathlib.PurePosixPath,
+    target: str,
+) -> str | None:
+    target = target.strip("<>")
+    if (
+        not target
+        or target.startswith("#")
+        or re.match(r"^[a-z][a-z0-9+.-]*:", target, re.IGNORECASE)
+    ):
+        return None
+
+    target = target.split("#", 1)[0].strip()
+    if not target:
+        return None
+
+    normalized = source_dir / pathlib.PurePosixPath(target)
+    parts: list[str] = []
+    for part in normalized.parts:
+        if part in ("", "."):
+            continue
+        if part == "..":
+            if parts:
+                parts.pop()
+            else:
+                return target
+        else:
+            parts.append(part)
+    return "/".join(parts)
 
 
 def report_markdown(
@@ -238,6 +324,7 @@ def main() -> int:
     args = parse_args()
     root = pathlib.Path(args.root).resolve()
     scope = args.scope or binding_corpus_scope(root, include_support_docs=True)
+    allowed_local_refs = set(binding_corpus_scope(root, include_support_docs=True))
     canonical = canonical_map_from_paths(root, args.source)
 
     findings: list[Finding] = []
@@ -256,6 +343,7 @@ def main() -> int:
                 text=text,
                 canonical=canonical,
                 semantic_checks=args.semantic_checks,
+                allowed_local_refs=allowed_local_refs,
             )
         )
 

@@ -4,8 +4,8 @@
 
 | Need | File | Key |
 |------|------|-----|
-| Section location | `ai_corpus/indexes/section_manifest_sample.json` | `{"file": "...", "lines": [start, end]}` |
-| Definition location | `ai_corpus/definitions/` | `{"term": "...", "file": "...", "range": [n, m]}` |
+| Section location | `ai_corpus/indexes/section_manifest.json` | `{"file": "...", "line_start": n, "line_end": m}` |
+| Definition location | `ai_corpus/indexes/definition_registry.json` | `{"term": "...", "source_file": "...", "line_start": n, "line_end": m}` |
 | Cross-references | `ai_corpus/indexes/crossref_matrix.json` | `{"source": "...", "targets": [...]}` |
 | Architecture rules | `doc_architecture.md` | Section 2: Corpus roles |
 
@@ -13,7 +13,7 @@
 
 ### Definition Lookup
 ```
-Query: section_manifest_sample.json → find line range
+Query: definition_registry.json or section_manifest.json → find line range
 Read: read_file(file, offset=start, limit=count)
 Edit: apply_diff with targeted change
 ```

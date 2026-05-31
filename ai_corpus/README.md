@@ -6,7 +6,7 @@
 ## Purpose
 
 This directory provides:
-1. **Structured definition extracts** from Chapter 5 in JSON format
+1. **Structured definition registry** for Chapter 5 terms
 2. **Machine-readable indexes** for instant navigation
 3. **Cross-reference graphs** for dependency analysis
 4. **Semantic chunk boundaries** for optimal token usage
@@ -22,20 +22,16 @@ This directory provides:
 ```
 ai_corpus/
 ├── README.md                    # This file
-├── definitions/                 # Structured Chapter 5 definitions
-│   ├── independent/            # From core_05-05_definitions_a_independent.md
-│   ├── semi_independent/       # From core_05-05_definitions_b_semi_independent.md
-│   └── dependent_clusters/     # From core_05-05_definitions_c_dependent_clusters.md
+├── definitions/                 # Retained pilot definition extracts
+│   └── independent/            # Sample extracts from Chapter 5 §1
 ├── indexes/                     # Navigation indexes
 │   ├── section_manifest.json   # All sections with line ranges
 │   ├── definition_registry.json # Definition locations and metadata
 │   └── crossref_matrix.json    # File-to-file reference graph
-├── chunks/                      # Pre-computed semantic chunks
-│   └── [file-based chunks for efficient reading]
 └── schemas/                     # JSON schemas for validation
-    ├── definition.schema.json
-    ├── section.schema.json
-    └── manifest.schema.json
+    ├── section_manifest.schema.json
+    ├── definition_registry.schema.json
+    └── crossref_matrix.schema.json
 ```
 
 ## Update Procedure

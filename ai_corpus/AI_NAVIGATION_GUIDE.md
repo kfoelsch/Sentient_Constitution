@@ -8,11 +8,11 @@
 
 ### Before You Read Any File
 
-1. **Check the Section Manifest First** → `ai_corpus/indexes/section_manifest_sample.json`
+1. **Check the Section Manifest First** → `ai_corpus/indexes/section_manifest.json`
    - Find exact line ranges for any section
    - Avoid reading entire files when only a section is needed
 
-2. **For Definition Lookups** → `ai_corpus/definitions/independent/*.json` (sample)
+2. **For Definition Lookups** → `ai_corpus/indexes/definition_registry.json`
    - Locate any term's authoritative definition instantly
    - Get O/E/C component boundaries for precise reading
 
@@ -29,7 +29,7 @@
 **Use when:** Editing content that references defined terms
 
 ```
-Step 1: Query ai_corpus/indexes/section_manifest_sample.json
+Step 1: Query ai_corpus/indexes/definition_registry.json
         → Get line range for the definition
         
 Step 2: Read only those lines using read_file with offset/limit
@@ -85,8 +85,8 @@ Step 2: Follow template structure:
         <details> [COMPLIANCE] </details>
         ---
         
-Step 3: Update ai_corpus index files
-        → Add new entry with line range
+Step 3: Run `make ai-corpus-sync`
+        → Regenerate source-derived entry with line range
 ```
 
 ---
@@ -127,9 +127,9 @@ Step 3: Update ai_corpus index files
 
 ### Tier 1: AI Indexes (Check First)
 
-1. `ai_corpus/indexes/section_manifest_sample.json` - Section locations
+1. `ai_corpus/indexes/section_manifest.json` - Section locations
 2. `ai_corpus/indexes/crossref_matrix.json` - Reference graph
-3. `ai_corpus/definitions/` - Structured definition extracts
+3. `ai_corpus/indexes/definition_registry.json` - Definition locations
 
 ### Tier 2: Architecture Context
 

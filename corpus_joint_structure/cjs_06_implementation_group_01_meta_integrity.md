@@ -1,7 +1,7 @@
 ## IMPLEMENTATION GROUP ONE: META-INTEGRITY
 Meta-integrity obligations are system-level obligations for all constitutional systems, including governance and institutions. They state the cross-domain floors for design, assessment, and evolution. Where they specify capabilities such as detection, attribution, mitigation, auditability, or adaptation, they require functional properties only.
 
-Meta-integrity obligations define **universal constitutional floors**. Joint satisfaction conditions for the same facts across **this implementation section**, **CS**, **CI**, and **CC** are governed by **`corpus_joint_structure.md`** (**CJS-2**, **CJS-3**) and do not create separate Meta-integrity obligation substance.
+Meta-integrity obligations define **universal constitutional floors**. Joint satisfaction conditions for the same facts across the **CJS implementation-group files**, **CS**, **CI**, and **CC** are governed by the **CJS folder** (**CJS-2**, **CJS-3**) and do not create separate Meta-integrity obligation substance.
 
 No implementation may weaken, bypass, or redefine Meta-integrity obligation constraints.
 
@@ -11,7 +11,7 @@ Meta-integrity obligations do **not** prescribe procedural implementations, enfo
 
 **Constitutional index (abridged)**
 - Topic-level routing and cited authorities remain in subsection text and cross-references.
-- Canonical owner map: `corpus_joint_structure.md` **CJS-2.2** and `doc_architecture.md` section 4.
+- Canonical owner map: **CJS-2.2** and `doc_architecture.md` section 4.
 
 ### Meta-integrity obligation: Constitutional Supremacy, Enforceability, and Epistemic Grounding
 Principles: **Wellbeing, Safety, and Truth** under constitutional supremacy, enforceability, and epistemic integrity.
@@ -36,9 +36,9 @@ Articles: Apply with **Sentient Constitution Chapter Ten (Articles V–XXV)** an
 
 **Class A, B, and C** systems (**[corpus_systems.md](../corpus_systems.md), Chapter S2 — System Classification and Handling**) must be **designed**, **operated**, and **evolved** for **trustworthiness**. **Class L and P** systems follow **S2** criteria and limits. **They** must **not** be used to **evade** obligations where **material external effects** exist (**Sentient Constitution Chapter One**, **PROT1**).
 
-**Implementation label-layer routing (illustrative; non-exhaustive):** **PRIM1**, **PRIM4**, **PRIM5**, **PRIM6**, **PRIM7**, **PRIM9**, **PRIM11**, and **PRIM12**; also read this file's *Incentive Alignment and Mechanism Integrity* meta-integrity obligation.
+**Implementation label-layer routing (illustrative; non-exhaustive):** **PRIM1**, **PRIM4**, **PRIM5**, **PRIM6**, **PRIM7**, **PRIM9**, **PRIM11**, and **PRIM12**; also read this implementation group's *Incentive Alignment and Mechanism Integrity* meta-integrity obligation.
 
-**Trust degradation as harm:** **Monitor**, **detect**, and **mitigate** trust erosion under **`core_05-05_definitions_c_dependent_clusters.md` Chapter Five, section 3.39** and **`corpus_joint_structure.md` CJS-3.9** where **cross-companion** trust applies. That work must **not** narrow **Epistemic Integrity**, **Truth (Constitutional Constraint)**, **Transparency**, or **Article XII-C**.
+**Trust degradation as harm:** **Monitor**, **detect**, and **mitigate** trust erosion under **`core_05-05_definitions_c_dependent_clusters.md` Chapter Five, section 3.39** and **CJS-3.9** where **cross-companion** trust applies. That work must **not** narrow **Epistemic Integrity**, **Truth (Constitutional Constraint)**, **Transparency**, or **Article XII-C**.
 
 **Sustained** failure to restore trustworthiness may yield **loss of standing**, **restricted participation**, or **replacement** under applicable governance.
 
@@ -123,11 +123,11 @@ Where **full** compliance is **not** maintainable: **prioritize** **Safety** and
 
 **Preservation ordering (degraded conditions):** **Safety** → **Truth (Epistemic Integrity)** → **System Stability (Trust)** → **Functional Performance**.
 
-**Governance continuity under stress:** For **high-impact** systems, **[corpus_systems.md](../corpus_systems.md), Protocol A** and **Chapter S3 — Critical System Stewardship** govern designated crisis authority, crisis communications, and periodic exercises. That work does **not** displace **Sentient Constitution Chapter Ten, Article XXIII** (*Conflict Resolution, Escalation, and Emergency Proportionality*), **PROT2**, [core_11-11_governance.md](../core_11-11_governance.md) **Chapter Eleven**, or related cross-companion requirements. Where those layers and **institutions** or **forums** govern the same facts, read **`corpus_joint_structure.md` CJS-2** and **CJS-3.2**.
+**Governance continuity under stress:** For **high-impact** systems, **[corpus_systems.md](../corpus_systems.md), Protocol A** and **Chapter S3 — Critical System Stewardship** govern designated crisis authority, crisis communications, and periodic exercises. That work does **not** displace **Sentient Constitution Chapter Ten, Article XXIII** (*Conflict Resolution, Escalation, and Emergency Proportionality*), **PROT2**, [core_11-11_governance.md](../core_11-11_governance.md) **Chapter Eleven**, or related cross-companion requirements. Where those layers and **institutions** or **forums** govern the same facts, read **CJS-2** and **CJS-3.2**.
 
 **Layer B — Integrity implementation labels (PRIM9–PRIM15)**
 The following integrity implementation labels operationalize and test the Meta-Integrity constraints above.
-Unless a section states otherwise, where cross-companion structural duties apply to the same facts, read `corpus_joint_structure.md` **CJS-2.2**, **CJS-R19**, and **CJS-3.13** for joint interface requirements.
+Unless a section states otherwise, where cross-companion structural duties apply to the same facts, read **CJS-2.2**, **CJS-R19**, and **CJS-3.13** for joint interface requirements.
 
 ---
 

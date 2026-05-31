@@ -20,19 +20,19 @@ ai_corpus/
 ├── MAINTENANCE.md                 # This file
 ├── AI_NAVIGATION_GUIDE.md         # Detailed navigation patterns
 ├── QUICK_REFERENCE.md             # Quick lookup cheatsheet
-├── definitions/                   # Structured definition extracts
-│   └── independent/              # From Chapter 5 §1
-│       ├── accessibility.json
-│       ├── proportionality.json
-│       └── [more...]
+├── definitions/                   # Retained pilot extracts
+│   └── independent/              # Sample Chapter 5 §1 extracts
 ├── indexes/                       # Navigation indexes
-│   ├── section_manifest_sample.json
+│   ├── section_manifest.json
+│   ├── definition_registry.json
 │   ├── crossref_matrix.json
-│   └── [section_manifest.json - full version]
+│   └── section_manifest_sample.json
 ├── visualization/                 # Visual aids
 │   └── dependency_map.mmd        # Mermaid dependency diagram
-└── schemas/                       # JSON schemas (future)
-    └── [definition.schema.json, etc.]
+└── schemas/                       # JSON schemas for generated indexes
+    ├── section_manifest.schema.json
+    ├── definition_registry.schema.json
+    └── crossref_matrix.schema.json
 ```
 
 ## Update Procedure
@@ -55,6 +55,20 @@ git diff ai_corpus/
 git add core_05-05_definitions_a_independent.md ai_corpus/
 git commit -m "Update Proportionality definition + regenerate AI indexes"
 ```
+
+### After Splitting a Corpus File
+
+When a corpus file is migrated into a folder of subfiles, add this migration-specific pass before closeout:
+
+```bash
+# Replace old_filename.md and stale "this file" language after the split
+rg -n 'old_filename.md|this file|in this file|same file|one place' new_folder_or_files
+
+# Confirm cross-references still resolve
+make reference-audit
+```
+
+Rewrite any stale monolithic wording so folder-level duties refer to the new folder, layer, subfile family, or direct section IDs. Keep `this section` only when the reference remains local to the current shard. Avoid backticked same-folder directory references when prose wording is enough, because path-aware audits may treat them as links to nonexistent nested folders.
 
 ### Available Make Targets
 
@@ -146,8 +160,6 @@ JSON schemas in `ai_corpus/schemas/` define the structure of derived files. When
 
 Potential future additions to ai_corpus/:
 
-- Full definition_registry.json (all Chapter 5 terms)
-- Complete section_manifest.json (all 20 files)
 - Semantic search index
 - Definition dependency graph
 - Automated consistency checker

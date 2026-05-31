@@ -2,20 +2,33 @@
 
 **Edition:** SC-Corpus-2026.04.32  
 **Objective:** Maximize easy AI access, minimize token usage during edits, preserve human readability  
-**Status:** Planning Phase
+**Status:** Migration complete for the required AI navigation layer; optional validation and measurement work remains ongoing
 
 ---
 
 ## Executive Summary
 
-The Sentient Constitution corpus consists of 18 authoritative files (14 core constitutional files + 4 companion files) totaling approximately 15,000+ lines of interconnected legal-technical text. Current challenges include:
+The active corpus scope includes the numbered core constitutional files, companion root files, and companion subfiles discovered by `tools/corpus_paths.py`, totaling 15,000+ lines of interconnected legal-technical text. Current challenges include:
 
 - **File sizes range from 400 to 2,500+ lines**, making full-file context expensive
 - **Dense cross-references** create dependency chains requiring multiple file reads
 - **No machine-readable index** of sections, definitions, or anchor points
 - **Inconsistent chunk boundaries** can split semantic units
 
-This plan establishes patterns for token-efficient AI interaction while maintaining the corpus's human accessibility and architectural integrity.
+This plan established the token-efficient AI navigation layer while maintaining the corpus's human accessibility and architectural integrity. The live migration now consists of source-derived manifests, a Chapter Five definition registry, a cross-reference matrix, maintenance targets, validation tooling, and AI-facing navigation documentation.
+
+### 2026-05-30 migration closeout
+
+Required migration scope is complete:
+
+- `ai_corpus/indexes/section_manifest.json` provides full-source section ranges for the active corpus scope.
+- `ai_corpus/indexes/definition_registry.json` indexes all Chapter Five O/E/C-owning definitions.
+- `ai_corpus/indexes/crossref_matrix.json` maps file-to-file Markdown references across the active corpus scope.
+- `ai_corpus/visualization/dependency_map.mmd`, `ai_corpus/AI_NAVIGATION_GUIDE.md`, `ai_corpus/QUICK_REFERENCE.md`, and `ai_corpus/MAINTENANCE.md` document the workflow.
+- `make ai-corpus-sync` regenerates the derived indexes.
+- `make ai-manifest-validate` validates index shape and freshness against regenerated source-derived output.
+
+The older per-definition JSON files under `ai_corpus/definitions/` are retained as pilot extracts, not the maintenance-critical index path. The generated definition registry is the authoritative AI lookup artifact for Chapter Five locations.
 
 ---
 
@@ -117,48 +130,44 @@ Each definition in Chapter 5 follows this pattern:
 
 ---
 
-## 3. Proposed Artifacts for AI Navigation
+## 3. Implemented Artifacts for AI Navigation
 
-### 3.1 Section-Level Manifest (`ai_section_manifest.json`)
+### 3.1 Section-Level Manifest (`ai_corpus/indexes/section_manifest.json`)
 
 Machine-readable index of every section with:
 - File path
 - Header hierarchy (H2, H3, H4)
 - Line range (start, end)
-- Anchor ID
-- Definition tags (if section contains definitions)
-- Cross-reference targets
+- Nearby explicit anchor ID, where present
 
 **Benefit:** AI can target specific line ranges without full file reads.
 
-### 3.2 Definition Registry (`ai_definition_registry.json`)
+### 3.2 Definition Registry (`ai_corpus/indexes/definition_registry.json`)
 
 Index of all Chapter 5 definitions with:
 - Term name
 - Canonical file location
 - Line range
-- O/E/C component line ranges
-- Referenced-by list (computed)
 - Cluster membership (for dependent clusters)
 
 **Benefit:** Instant location of any term's authoritative definition.
 
-### 3.3 Cross-Reference Matrix (`ai_crossref_matrix.json`)
+### 3.3 Cross-Reference Matrix (`ai_corpus/indexes/crossref_matrix.json`)
 
-Directed graph of file-to-file references:
+Directed graph of file-to-file Markdown references:
 ```json
 {
-  "source_file": "core_10-10_rights_part_c.md",
-  "references": [
-    {"target": "core_05-05_definitions_a_independent.md", "count": 15, "anchors": [...]},
-    {"target": "corpus_systems.md", "count": 8, "anchors": [...]}
+  "source": "core_10-10_rights_part_c.md",
+  "targets": [
+    {"file": "core_05-05_definitions_a_independent.md", "count": 15, "anchors": [...]},
+    {"file": "corpus_systems.md", "count": 8, "anchors": [...]}
   ]
 }
 ```
 
 **Benefit:** Predict dependency depth before edits.
 
-### 3.4 Dependency Map Visualization (`corpus_dependency_map.mmd`)
+### 3.4 Dependency Map Visualization (`ai_corpus/visualization/dependency_map.mmd`)
 
 Mermaid diagram showing:
 - Core constitutional files as primary nodes
@@ -183,9 +192,9 @@ Current (expensive):
 3. Search all files for references to update
 
 Optimized:
-1. Query ai_definition_registry.json for "Proportionality" location
+1. Query `ai_corpus/indexes/definition_registry.json` for "Proportionality" location
 2. Read lines 1100-1150 (definition entry only, ~50 lines)
-3. Query ai_crossref_matrix.json for files referencing "Proportionality"
+3. Query `ai_corpus/indexes/crossref_matrix.json` for files referencing "Proportionality"
 4. Read only referencing sections, not full files
 5. Apply edits using targeted diff
 ```
@@ -201,10 +210,10 @@ Current (expensive):
 3. Edit each occurrence
 
 Optimized:
-1. Query ai_crossref_matrix.json for all occurrences
+1. Query `ai_corpus/indexes/crossref_matrix.json` for all occurrences
 2. Group edits by file
 3. Use batch diff operations
-4. Update ai_definition_registry.json in same commit
+4. Run `make ai-corpus-sync` so the generated indexes reflect the rename
 ```
 
 ### 4.3 New Definition Addition Workflow
@@ -215,7 +224,7 @@ Scenario: Add new definition to Chapter 5
 Optimized pattern:
 1. Read only the alphabetical insertion point (adjacent definitions)
 2. Add definition following O/E/C template
-3. Update ai_definition_registry.json
+3. Run `make ai-corpus-sync` to regenerate `ai_corpus/indexes/definition_registry.json`
 4. Flag for cross-reference audit (async)
 ```
 
@@ -243,29 +252,38 @@ Optimized pattern:
 
 ## 6. Implementation Roadmap
 
-### Phase 1: Manifest Generation (Immediate)
-- [ ] Generate `ai_section_manifest.json` from all core files
-- [ ] Generate `ai_definition_registry.json` from Chapter 5 files
-- [ ] Generate `ai_crossref_matrix.json` from cross-reference audit
-- [ ] Create Mermaid dependency map
+### Phase 1: Manifest Generation (Complete)
+- [x] Generate `ai_corpus/indexes/section_manifest.json` from the active corpus scope
+- [x] Generate `ai_corpus/indexes/definition_registry.json` from Chapter Five files
+- [x] Generate `ai_corpus/indexes/crossref_matrix.json` from source Markdown references
+- [x] Create Mermaid dependency map
 
-### Phase 2: Documentation (Short-term)
-- [ ] Create `AI_NAVIGATION_GUIDE.md` for assistant prompts
-- [ ] Document optimal reading patterns for common edit types
-- [ ] Create quick-reference cheatsheet
-- [ ] Update `doc_architecture.md` with AI access section
+### Phase 2: Documentation (Complete)
+- [x] Create `ai_corpus/AI_NAVIGATION_GUIDE.md` for assistant prompts
+- [x] Document optimal reading patterns for common edit types
+- [x] Create `ai_corpus/QUICK_REFERENCE.md`
+- [x] Add maintenance and authority rules in `ai_corpus/README.md` and `ai_corpus/MAINTENANCE.md`
+- [ ] Optional: update `doc_architecture.md` only if future owner rules change
 
-### Phase 3: Tool Integration (Medium-term)
-- [ ] Add manifest generation to Makefile
-- [ ] Create validation script for manifest freshness
-- [ ] Integrate manifests with existing audit tools
-- [ ] Add CI check for manifest updates on core file changes
+### Phase 3: Tool Integration (Complete for local workflow)
+- [x] Add manifest generation to Makefile
+- [x] Create validation script for manifest shape and freshness
+- [x] Add JSON schemas for generated index artifacts
+- [ ] Optional: integrate manifests with existing audit tools where it reduces duplicate parsing
+- [ ] Optional: add CI check for manifest updates on core file changes
 
 ### Phase 4: Optimization Validation (Ongoing)
 - [ ] Measure token usage before/after manifest adoption
 - [ ] Track edit efficiency improvements
 - [ ] Gather feedback from AI assistants
 - [ ] Iterate on manifest structure
+
+### Phase 5: Future Corpus Split Migration Guardrail (Required for New Splits)
+- [ ] For any future split of a root corpus document into subfiles, scan the migrated source for stale self-references: `this file`, `in this file`, `same file`, `one place`, and the retired monolithic filename.
+- [ ] Reword stale references so folder-level obligations say "these files", "the [layer] folder", "the implementation-group files", or direct section IDs as appropriate.
+- [ ] Keep subsection-local references only when they still point to the current subsection or shard.
+- [ ] Avoid same-folder backticked folder references that audit tooling may parse as nonexistent nested paths.
+- [ ] Run `make reference-audit` and a targeted `rg` sweep before closing the migration.
 
 ---
 
@@ -306,10 +324,10 @@ Read each referencing file section
 
 **Optimized approach (~150 tokens):**
 ```
-Query: ai_definition_registry.json["Proportionality"]
+Query: `ai_corpus/indexes/definition_registry.json` for "Proportionality"
 Result: {file: "core_05-05_definitions_a_independent.md", lines: [1100-1150]}
 Read lines 1100-1150 only (~50 lines)
-Query: ai_crossref_matrix.json references to "Proportionality"
+Query: `ai_corpus/indexes/crossref_matrix.json` references to "Proportionality"
 Result: [3 files, 5 sections]
 Read only those 5 sections (~100 lines total)
 ```
@@ -320,7 +338,7 @@ Read only those 5 sections (~100 lines total)
 
 ## Appendix B: Manifest Schema Specifications
 
-See `implementation/schemas/ai_manifest.schema.json` for formal schema definitions.
+See `ai_corpus/schemas/` for formal schema definitions for the generated section manifest, definition registry, and cross-reference matrix.
 
 ---
 

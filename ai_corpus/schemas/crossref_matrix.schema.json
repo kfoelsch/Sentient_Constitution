@@ -1,0 +1,58 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "crossref_matrix.schema.json",
+  "title": "AI corpus cross-reference matrix",
+  "type": "object",
+  "required": ["generated_at", "description", "graph"],
+  "properties": {
+    "generated_at": { "type": "string" },
+    "description": { "type": "string" },
+    "graph": {
+      "type": "object",
+      "required": ["nodes", "edges"],
+      "properties": {
+        "nodes": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": ["id", "type"],
+            "properties": {
+              "id": { "type": "string" },
+              "type": { "enum": ["core", "companion"] }
+            },
+            "additionalProperties": false
+          }
+        },
+        "edges": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": ["source", "targets"],
+            "properties": {
+              "source": { "type": "string" },
+              "targets": {
+                "type": "array",
+                "items": {
+                  "type": "object",
+                  "required": ["file", "count", "anchors"],
+                  "properties": {
+                    "file": { "type": "string" },
+                    "count": { "type": "integer", "minimum": 1 },
+                    "anchors": {
+                      "type": "array",
+                      "items": { "type": "string" }
+                    }
+                  },
+                  "additionalProperties": false
+                }
+              }
+            },
+            "additionalProperties": false
+          }
+        }
+      },
+      "additionalProperties": false
+    }
+  },
+  "additionalProperties": true
+}

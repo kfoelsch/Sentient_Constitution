@@ -32,9 +32,9 @@ The Sentient Constitution corpus consists of 18-20 authoritative files totaling 
 
 | File | Purpose | Token Savings |
 |------|---------|---------------|
-| `ai_corpus/indexes/section_manifest_sample.json` | Section line ranges for targeted reading | 85% |
+| `ai_corpus/indexes/section_manifest.json` | Section line ranges for targeted reading | 85% |
 | `ai_corpus/indexes/crossref_matrix.json` | Reference graph for multi-file edits | 80% |
-| `ai_corpus/definitions/*.json` | Structured O/E/C definition extracts | 96% |
+| `ai_corpus/indexes/definition_registry.json` | Structured Chapter Five definition locations | 96% |
 | `ai_corpus/visualization/dependency_map.mmd` | Visual corpus architecture | N/A |
 | `ai_corpus/AI_NAVIGATION_GUIDE.md` | Detailed AI reading patterns | N/A |
 | `ai_corpus/QUICK_REFERENCE.md` | Instant lookup cheatsheet | N/A |
@@ -51,7 +51,7 @@ The Sentient Constitution corpus consists of 18-20 authoritative files totaling 
 
 ```bash
 # Before editing: Check section manifest
-cat ai_corpus/indexes/section_manifest_sample.json | jq '.files["core_05-05_definitions_a_independent.md"]'
+cat ai_corpus/indexes/section_manifest.json | jq '.files["core_05-05_definitions_a_independent.md"]'
 
 # For cross-references: Check matrix
 cat ai_corpus/indexes/crossref_matrix.json | jq '.graph.edges[] | select(.source=="core_10-10_rights_part_c.md")'
@@ -97,6 +97,16 @@ Active corpus Markdown files carry a navigation-only footer:
 
 Maintain the footer sequence from `README.md` through the numbered `core_*` files, `corpus_joint_structure.md`, the `corpus_joint_structure/cjs_00` through `cjs_09` subfiles, the companion corpus files, and `doc_architecture.md` back to `README.md`. Update the footer links whenever files are split, renamed, inserted, or removed from the active corpus reading chain.
 
+## Corpus Split Migration Guardrail
+
+When any other corpus document is split into a folder of subfiles, add a post-migration self-reference sweep before closeout:
+
+1. Replace obsolete monolithic-file language such as `this file`, `in one place`, `same file`, and old filename references where the meaning now belongs to the new folder, layer, or subfile family.
+2. Preserve local uses of `this section` or subsection-specific wording only where they still point to the current shard.
+3. Avoid backticked folder references inside the same folder when audit tooling may parse them as relative paths to a nested folder; prefer plain layer wording such as "the CJS folder" or direct section IDs.
+4. Run a targeted scan for the migrated area, for example `rg -n 'old_filename.md|this file|one place|same file|in this file' new_folder_or_files`.
+5. Run `make reference-audit` after the wording pass and resolve both broken references and suspicious-but-valid phrasing before marking the migration complete.
+
 ## Success Metrics
 
 | Metric | Target | Status |
@@ -109,10 +119,10 @@ Maintain the footer sequence from `README.md` through the numbered `core_*` file
 
 ## Next Steps (Optional)
 
-1. **Generate full manifests** - Extend section_manifest_sample.json to all 20 files
-2. **Create generation tools** - Python scripts for `tools/generate_*.py`
-3. **Add CI checks** - Validate manifest freshness on PR
-4. **Expand definition extracts** - All Chapter 5 definitions in JSON format
+1. **Add CI checks** - Validate manifest freshness on PR
+2. **Integrate audit tools** - Reuse manifests where they reduce duplicate parsing
+3. **Measure usage** - Track token savings across repeated edit sessions
+4. **Expand search** - Consider semantic search indexes if plain manifests are insufficient
 
 ## Directory Structure
 
@@ -129,9 +139,11 @@ project-root/
 │   ├── AI_NAVIGATION_GUIDE.md
 │   ├── QUICK_REFERENCE.md
 │   ├── definitions/
-│   │   └── independent/*.json
+│   │   └── independent/*.json          ← retained pilot extracts
 │   ├── indexes/
 │   │   ├── section_manifest_sample.json
+│   │   ├── section_manifest.json
+│   │   ├── definition_registry.json
 │   │   └── crossref_matrix.json
 │   └── visualization/
 │       └── dependency_map.mmd

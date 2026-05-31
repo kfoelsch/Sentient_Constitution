@@ -2,12 +2,12 @@
 
 **Constitutional index (abridged)**
 - Topic-level routing and cited authorities remain in subsection text and cross-references.
-- Canonical owner map: `corpus_joint_structure.md` **CJS-2.2** and `doc_architecture.md` section 4.
+- Canonical owner map: **CJS-2.2** and `doc_architecture.md` section 4.
 
 These obligations apply **in addition to** domain-owner text in **CP**, **CS**, **CI**, and **CC**. They address **interlock failures**: each companion fragment looks satisfied in isolation, but the **combined effect** still undermines contestability, independence, traceability, or classification-scaled proportionality.
 
 ### CJS-3.1 When joint obligations apply
-**Joint obligations** apply where **CJS-2.2** assigns a **mandatory read-with** chain for a materially applicable topic, or where adopting instruments expressly incorporate **`corpus_joint_structure.md`**.
+**Joint obligations** apply where **CJS-2.2** assigns a **mandatory read-with** chain for a materially applicable topic, or where adopting instruments expressly incorporate the **CJS folder**.
 
 ### CJS-3.2 No false partial compliance across companions
 Where **two or more** companions in a **CJS-2.2** read-with chain impose **structural** duties on the **same facts** (same institution, forum family, classified system, or stewardship chain), it is **non-compliant** to claim compliance by satisfying **only one** companion while a **material** obligation in another listed companion stays **unmet** for that same structural outcome.
@@ -17,7 +17,7 @@ Permitted **narrower interim** scopes (for example published emergency scopes) m
 ### CJS-3.3 Merits boundary for integrity, monitoring, and support roles
 **Contest-integrity monitoring**, **pathway performance monitoring**, **non-merits forensic support**, and **investigative support** must stay structurally distinct from **binding merits adjudication** under **Chapter Eight**, unless a **separate** lawful instrument explicitly authorizes limited merits participation for a named role.
 
-Institutions must **publish mandates** stating exclusions from merits decisions, reporting lines, cadence, and interfaces to assurance lanes. **Role merging** that lets oversight or support silently replace an assigned forum family’s merits function is **non-compliant**. (Operative detail: **CI-7.3**, **CC-7**, **CC-8**, **`corpus_joint_structure.md`** **PROT6**.)
+Institutions must **publish mandates** stating exclusions from merits decisions, reporting lines, cadence, and interfaces to assurance lanes. **Role merging** that lets oversight or support silently replace an assigned forum family’s merits function is **non-compliant**. (Operative detail: **CI-7.3**, **CC-7**, **CC-8**, the CJS implementation layer **PROT6**.)
 
 ### CJS-3.4 Institution-hosted or forum-adjacent operations
 Where an institution **hosts**, **budgets**, **administers**, or **technically operates** forum infrastructure, clerking, digital records, security, or personnel systems, its **CI-*** design must make **CC-*** independence and contestability **feasible in practice**, not only on paper, across **budget**, **HR**, **records**, **security**, and **procurement** lanes.
@@ -58,24 +58,24 @@ Where **CJS-3.7** applies, rotating and home-based poles must follow these share
 Class-, forum-, and institution-specific scaling, assurance gates, emergency deviation controls, and substitution safeguards remain in domain-owner sections (**CI-9.1B**, **CC-2.5**, **CC-11**, and related cited hooks).
 
 ### CJS-3.8 Implementation companion boundary (CP ↔ CJS seam)
-This file supplies the operative implementation text for its stable local labels. Those labels do not replace canonical constitutional definitions, Rights Floors, or owner-layer meanings elsewhere in the corpus.
+The CJS implementation-group files supply the operative implementation text for their stable local labels. Those labels do not replace canonical constitutional definitions, Rights Floors, or owner-layer meanings elsewhere in the corpus.
 
-**Cross-domain implementation layer** in **`corpus_joint_structure.md`** is the **authoritative incorporated home** for **Implementation Groups One through Four** operative implementation text (meta-integrity through governance implementation labels).
+The **Cross-domain implementation layer** in the **CJS folder** is the **authoritative incorporated home** for **Implementation Groups One through Four** operative implementation text (meta-integrity through governance implementation labels).
 
 **Joint** structural obligations—where **two or more** of **CP** (implementation), **CS**, **CI**, and **CC** apply to the **same facts**—are stated in **CJS-2** and **CJS-3**. **CJS** joint requirements coordinate cross-companion interfaces; they do not replace **Implementation Groups One through Four** in the implementation section.
 
-Where this file defines CJS-local operational structures in **OP-O/OP-E/OP-C** form, those structures are joint interface abstractions only. They do not replace the canonical substance of cited **PRIM/PROT** entries.
+Where the CJS folder defines CJS-local operational structures in **OP-O/OP-E/OP-C** form, those structures are joint interface abstractions only. They do not replace the canonical substance of cited **PRIM/PROT** entries.
 
 When revising **CP** (implementation):
 
-- keep **implementation-owned** requirements in the **Cross-domain implementation layer** section;
+- keep **implementation-owned** requirements in the **Cross-domain implementation layer** files;
 - keep joint **read-with** restatements short—prefer **one-line** pointers to **CJS-3** (and **CJS-2.2** row IDs where that speeds navigation); and
 - preserve **PRIM**/**PROT** code labels so **CS**, **CI**, and **CC** citations stay traceable (**CJS-3.6**).
 
 ### CJS-3.9 Cross-companion trust integrity (joint operation model)
 This subsection applies where **CJS-R17** materially applies, or where a **CJS-2.2** read-with chain jointly determines whether reliance is justified in practice.
 
-Canonical meaning of **Trust**, **Trustworthiness**, and **Trust Degradation and Misleading Reliance** remains in **`core_05-05_definitions_c_dependent_clusters.md` Chapter Five, section 3.39** (*Trust and Trustworthiness*). **Joint** evaluation for **trust degradation** and **misleading reliance** within this subsection’s scope follows those definitions together with their listed member definitions. Operative implementation remains in **`corpus_joint_structure.md`** Implementation Group One (*Meta-integrity obligation: Trust and Trustworthiness*). This subsection states **joint** requirements only.
+Canonical meaning of **Trust**, **Trustworthiness**, and **Trust Degradation and Misleading Reliance** remains in **`core_05-05_definitions_c_dependent_clusters.md` Chapter Five, section 3.39** (*Trust and Trustworthiness*). **Joint** evaluation for **trust degradation** and **misleading reliance** within this subsection’s scope follows those definitions together with their listed member definitions. Operative implementation remains in CJS Implementation Group One (*Meta-integrity obligation: Trust and Trustworthiness*). This subsection states **joint** requirements only.
 
 It is **non-compliant** to claim trustworthiness when one companion presents conforming signals but another companion in the same materially relevant chain leaves unresolved conditions that defeat **observable**, **verifiable**, or **contestable** reliance (for example classification-scaled controls, pathway integrity, publication timeliness, accessibility, or documented escalation reliability).
 
@@ -154,7 +154,7 @@ Adversarial response and revalidation non-entrenchment
 - OP-C: It is non-compliant to preserve legacy structures by inertia alone where material risk, drift, or known vulnerabilities require reviewed correction, reauthorization, or replacement.
 
 ### CJS-3.14 Cross-companion quorum and participatory legitimacy terms
-This subsection supplies CJS-local operational definitions for quorum and participatory legitimacy where cross-companion read-with chains materially govern binding decision rules. It is read with `corpus_joint_structure.md` Implementation Group Four, section 2 (*Decision Resolution Protocol*), and does not replace constitutional meaning in the Sentient Constitution `core_*.md` files (see [README.md](../README.md)) or `core_05-05_definitions_a_independent.md`.
+This subsection supplies CJS-local operational definitions for quorum and participatory legitimacy where cross-companion read-with chains materially govern binding decision rules. It is read with CJS Implementation Group Four, section 2 (*Decision Resolution Protocol*), and does not replace constitutional meaning in the Sentient Constitution `core_*.md` files (see [README.md](../README.md)) or `core_05-05_definitions_a_independent.md`.
 
 Cross-companion quorum and participatory legitimacy terms (operational cluster head)
 - OP-O: Operational definition set for quorum and participatory legitimacy terms used across companion interactions that determine whether participation rules is valid for materially binding outcomes.
@@ -187,7 +187,7 @@ Notification and pathway integrity
 - OP-C: It is non-compliant to treat a participatory process as legitimate where notice is materially incomplete, too late for practical engagement, or structured so participation is formal only.
 
 ### CJS-3.15 Cross-companion comprehensibility and cognitive accessibility terms
-This subsection supplies CJS-local operational definitions for cross-companion comprehensibility and cognitive accessibility where transparency, participation, auditability, and accountability depend on combined companion behavior. It is read with `corpus_joint_structure.md` **PRIM2**, `corpus_systems.md` Protocol B, and does not replace constitutional meaning in the Sentient Constitution `core_*.md` files (see [README.md](../README.md)) or `core_05-05_definitions_a_independent.md`.
+This subsection supplies CJS-local operational definitions for cross-companion comprehensibility and cognitive accessibility where transparency, participation, auditability, and accountability depend on combined companion behavior. It is read with the CJS implementation layer **PRIM2**, `corpus_systems.md` Protocol B, and does not replace constitutional meaning in the Sentient Constitution `core_*.md` files (see [README.md](../README.md)) or `core_05-05_definitions_a_independent.md`.
 
 Cross-companion comprehensibility and cognitive accessibility terms (operational cluster head)
 - OP-O: Operational definition set for whether materially relevant information is understandable, evaluable, and usable for lawful participation, audit, and oversight across companion interfaces.
@@ -235,7 +235,7 @@ Proportional application
 - OP-C: It is non-compliant to apply uniform minimal presentation where higher-impact or higher-dependency conditions require stronger interpretability controls.
 
 ### CJS-3.16 Cross-companion salience integrity and attention-allocation terms
-This subsection supplies CJS-local operational definitions for salience integrity where ranking, recommendation, filtering, or other attention-allocation mechanisms depend on combined companion behavior. It is read with `corpus_joint_structure.md` **PRIM1**, **PRIM4**, **PRIM14**, and with the Sentient Constitution `core_*.md` files (see [README.md](../README.md)) **Article XV-A** and **Chapter Ten** incentive-alignment constraints.
+This subsection supplies CJS-local operational definitions for salience integrity where ranking, recommendation, filtering, or other attention-allocation mechanisms depend on combined companion behavior. It is read with the CJS implementation layer **PRIM1**, **PRIM4**, **PRIM14**, and with the Sentient Constitution `core_*.md` files (see [README.md](../README.md)) **Article XV-A** and **Chapter Ten** incentive-alignment constraints.
 
 Cross-companion salience integrity and attention-allocation terms (operational cluster head)
 - OP-O: Operational definition set for lawful salience allocation, anti-distortion controls, disclosure, user control, and mitigation duties where salience materially influences understanding or decisions.
@@ -288,7 +288,7 @@ Proportional application
 - OP-C: It is non-compliant to apply simplified salience mechanisms where they materially distort understanding, create externalized harm, or impair informed participation.
 
 ### CJS-3.17 Cross-companion disclosure sufficiency and observability terms
-This subsection supplies CJS-local operational definitions for disclosure sufficiency and observability where informed participation, independent verification, and attribution depend on combined companion behavior. It is read with `corpus_joint_structure.md` **PRIM4**, `corpus_joint_structure.md` **PRIM5** where dependencies are material, and the Sentient Constitution `core_*.md` files (see [README.md](../README.md)) **Article XV-A** and **Article VII-B**.
+This subsection supplies CJS-local operational definitions for disclosure sufficiency and observability where informed participation, independent verification, and attribution depend on combined companion behavior. It is read with the CJS implementation layer **PRIM4**, the CJS implementation layer **PRIM5** where dependencies are material, and the Sentient Constitution `core_*.md` files (see [README.md](../README.md)) **Article XV-A** and **Article VII-B**.
 
 Cross-companion disclosure sufficiency and observability terms (operational cluster head)
 - OP-O: Operational definition set for disclosure adequacy, verification enablement, private-state boundary handling, and externally relevant observability in materially relevant companion chains.
@@ -316,7 +316,7 @@ Private internal-state boundary and external observability attribution
 - OP-C: It is non-compliant either to force private internal-state exposure beyond lawful scope or to hide externally relevant behavior behind privacy-boundary claims.
 
 ### CJS-3.18 Cross-companion dependency integrity and disclosure terms
-This subsection supplies CJS-local operational definitions for dependency integrity and disclosure where dependency mapping, risk treatment, and accountability depend on combined companion behavior. It is read with `corpus_joint_structure.md` **PRIM5**, **PRIM4**, **PRIM7**, **PRIM9**, **PRIM15**, `corpus_systems.md` Protocol A, and the Sentient Constitution `core_*.md` files (see [README.md](../README.md)) **Article XV-A**.
+This subsection supplies CJS-local operational definitions for dependency integrity and disclosure where dependency mapping, risk treatment, and accountability depend on combined companion behavior. It is read with the CJS implementation layer **PRIM5**, **PRIM4**, **PRIM7**, **PRIM9**, **PRIM15**, `corpus_systems.md` Protocol A, and the Sentient Constitution `core_*.md` files (see [README.md](../README.md)) **Article XV-A**.
 
 Cross-companion dependency integrity and disclosure terms (operational cluster head)
 - OP-O: Operational definition set for dependency identification, criticality treatment, substitution and exit constraints, anti-evasion controls, and dependency-monitoring obligations in materially relevant companion chains.
@@ -354,7 +354,7 @@ Proportional application
 - OP-C: It is non-compliant to apply simplified dependency controls where material cross-system or cross-sentient exposure remains.
 
 ### CJS-3.19 Cross-companion graceful degradation and failure-mode integrity terms
-This subsection supplies CJS-local operational definitions for graceful degradation and failure-mode integrity where reliability, signaling, containment, and recovery depend on combined companion behavior. It is read with `corpus_joint_structure.md` **PRIM6**, **PRIM1**, **PRIM5**, **PRIM12**, **PRIM15**, `corpus_systems.md` Protocol A, and constitutional hooks in the Sentient Constitution `core_*.md` files (see [README.md](../README.md)) (**Chapter One**, **Article XV-A**, and **Article XVI-A** where lifecycle constraints are material).
+This subsection supplies CJS-local operational definitions for graceful degradation and failure-mode integrity where reliability, signaling, containment, and recovery depend on combined companion behavior. It is read with the CJS implementation layer **PRIM6**, **PRIM1**, **PRIM5**, **PRIM12**, **PRIM15**, `corpus_systems.md` Protocol A, and constitutional hooks in the Sentient Constitution `core_*.md` files (see [README.md](../README.md)) (**Chapter One**, **Article XV-A**, and **Article XVI-A** where lifecycle constraints are material).
 
 Cross-companion graceful degradation and failure-mode integrity terms (operational cluster head)
 - OP-O: Operational definition set for degraded-mode behavior under partial failure, uncertainty, or stress, including failure-mode coverage, signaling, bounded operation, escalation, and cross-boundary controls.
@@ -402,7 +402,7 @@ Proportional application
 - OP-C: It is non-compliant to apply reduced degraded-mode controls where material harm or dependency exposure persists.
 
 ### CJS-3.20 Cross-companion interoperability, portability, and exit-integrity terms
-This subsection supplies CJS-local operational definitions for interoperability, portability, and exit integrity where lock-in risk, transition feasibility, interface controls, and dependency exposure depend on combined companion behavior. It is read with `corpus_joint_structure.md` **PRIM7**, **PRIM5**, **PRIM4**, `corpus_systems.md` **Chapter S1**, **Chapter S2**, **Chapter S3**, and constitutional hooks in the Sentient Constitution `core_*.md` files (see [README.md](../README.md)) (**Article XIX**, **Article XV-A**, and related Rights Floors where materially implicated).
+This subsection supplies CJS-local operational definitions for interoperability, portability, and exit integrity where lock-in risk, transition feasibility, interface controls, and dependency exposure depend on combined companion behavior. It is read with the CJS implementation layer **PRIM7**, **PRIM5**, **PRIM4**, `corpus_systems.md` **Chapter S1**, **Chapter S2**, **Chapter S3**, and constitutional hooks in the Sentient Constitution `core_*.md` files (see [README.md](../README.md)) (**Article XIX**, **Article XV-A**, and related Rights Floors where materially implicated).
 
 Cross-companion interoperability, portability, and exit-integrity terms (operational cluster head)
 - OP-O: Operational definition set for anti-lock-in safeguards, usable exit pathways, portability quality, interoperability reciprocity, innovation-boundary handling, and continuity-preserving transition controls.
@@ -455,7 +455,7 @@ Proportional application
 - OP-C: It is non-compliant to apply simplified controls where material lock-in or dependency externalities remain.
 
 ### CJS-3.21 Cross-companion intervention and override integrity terms
-This subsection supplies CJS-local operational definitions for intervention and override integrity where technical control pathways, governance authorization, and accountability depend on combined companion behavior. It is read with `corpus_joint_structure.md` **PRIM8**, **PRIM6**, **PRIM9**, **PRIM14**, **PRIM15**, `corpus_joint_structure.md` **PROT2**, and constitutional hooks in the Sentient Constitution `core_*.md` files (see [README.md](../README.md)) (**Articles IX, XII, XIII**, plus Chapter One necessity and proportionality constraints).
+This subsection supplies CJS-local operational definitions for intervention and override integrity where technical control pathways, governance authorization, and accountability depend on combined companion behavior. It is read with the CJS implementation layer **PRIM8**, **PRIM6**, **PRIM9**, **PRIM14**, **PRIM15**, the CJS implementation layer **PROT2**, and constitutional hooks in the Sentient Constitution `core_*.md` files (see [README.md](../README.md)) (**Articles IX, XII, XIII**, plus Chapter One necessity and proportionality constraints).
 
 Cross-companion intervention and override integrity terms (operational cluster head)
 - OP-O: Operational definition set for timely intervention capacity, trigger conditions, technical pathways, authority scoping, anti-abuse controls, record integrity, emergency coupling discipline, and proportional scaling.
@@ -508,7 +508,7 @@ Proportional application
 - OP-C: It is non-compliant to reduce intervention controls where material harm prevention or accountability needs remain.
 
 ### CJS-3.22 Cross-companion auditability and reconstructability terms
-This subsection supplies CJS-local operational definitions for auditability and reconstructability where records, access pathways, and verification design depend on combined companion behavior. It is read with `corpus_joint_structure.md` **PRIM9**, **PRIM4**, **PRIM10**, the Sentient Constitution `core_*.md` files (see [README.md](../README.md)) **Article XV-A**, and **Article VII-B** where internal-state protections constrain audit design.
+This subsection supplies CJS-local operational definitions for auditability and reconstructability where records, access pathways, and verification design depend on combined companion behavior. It is read with the CJS implementation layer **PRIM9**, **PRIM4**, **PRIM10**, the Sentient Constitution `core_*.md` files (see [README.md](../README.md)) **Article XV-A**, and **Article VII-B** where internal-state protections constrain audit design.
 
 Cross-companion auditability and reconstructability terms (operational cluster head)
 - OP-O: Operational definition set for verifiable and independently reviewable records, harm/dispute reconstructability, proportional forensic depth, and privacy-boundary-constrained observability.
@@ -536,7 +536,7 @@ Article VII-B boundary and anti-concealment rule
 - OP-C: It is non-compliant to use internal-state protections to conceal systemic behavior or defeat accountability obligations.
 
 ### CJS-3.23 Cross-companion tiered transparency and audit-access terms
-This subsection supplies CJS-local operational definitions for tiered transparency and audit access where public visibility, qualified review, and forensic reconstruction depend on combined companion behavior. It is read with `corpus_joint_structure.md` **PRIM10**, **PRIM9**, **PRIM12**, and constitutional hooks in the Sentient Constitution `core_*.md` files (see [README.md](../README.md)) (**Chapter Ten, Articles V through IX**, **Article XV-A**, and **Article VII-B**).
+This subsection supplies CJS-local operational definitions for tiered transparency and audit access where public visibility, qualified review, and forensic reconstruction depend on combined companion behavior. It is read with the CJS implementation layer **PRIM10**, **PRIM9**, **PRIM12**, and constitutional hooks in the Sentient Constitution `core_*.md` files (see [README.md](../README.md)) (**Chapter Ten, Articles V through IX**, **Article XV-A**, and **Article VII-B**).
 
 Cross-companion tiered transparency and audit-access terms (operational cluster head)
 - OP-O: Operational definition set for tiered information access balancing transparency, auditability, and protected internal-state boundaries while preserving contestability.
@@ -569,7 +569,7 @@ Access-control integrity and anti-concealment
 - OP-C: It is non-compliant where access-control architecture undermines accountability, independent verification, or challenge rights.
 
 ### CJS-3.24 Cross-companion independent verification and claim-integrity terms
-This subsection supplies CJS-local operational definitions for independent verification and integrity of claims where evidence quality, verification pathways, and cross-companion trust **model** depend on combined behavior. It is read with `corpus_joint_structure.md` **PRIM11**, **PRIM9**, **PRIM10**, and constitutional hooks in the Sentient Constitution `core_*.md` files (see [README.md](../README.md)) Chapter Fourteen and rights-layer protections where material claims shape rights-relevant decisions.
+This subsection supplies CJS-local operational definitions for independent verification and integrity of claims where evidence quality, verification pathways, and cross-companion trust **model** depend on combined behavior. It is read with the CJS implementation layer **PRIM11**, **PRIM9**, **PRIM10**, and constitutional hooks in the Sentient Constitution `core_*.md` files (see [README.md](../README.md)) Chapter Fourteen and rights-layer protections where material claims shape rights-relevant decisions.
 
 Cross-companion independent verification and claim-integrity terms (operational cluster head)
 - OP-O: Operational definition set for materially significant claim verification, reproducibility, plurality of evaluative pathways, and anti-monopoly verification design.
@@ -597,7 +597,7 @@ Class-scaled template floor mapping
 - OP-C: It is non-compliant to simplify template implementations by removing any required verification floor under materially relevant conditions.
 
 ### CJS-3.25 Cross-companion reversibility and containment terms
-This subsection supplies CJS-local operational definitions for reversibility and containment where rollback feasibility, failure isolation, and restoration path depend on combined companion behavior. It is read with `corpus_joint_structure.md` **PRIM12**, **PRIM5**, **PRIM6**, **PRIM9**, **PRIM10**, **PRIM11**, and constitutional hooks in the Sentient Constitution `core_*.md` files (see [README.md](../README.md)) where restoration, contestability, and harm containment are materially implicated.
+This subsection supplies CJS-local operational definitions for reversibility and containment where rollback feasibility, failure isolation, and restoration path depend on combined companion behavior. It is read with the CJS implementation layer **PRIM12**, **PRIM5**, **PRIM6**, **PRIM9**, **PRIM10**, **PRIM11**, and constitutional hooks in the Sentient Constitution `core_*.md` files (see [README.md](../README.md)) where restoration, contestability, and harm containment are materially implicated.
 
 Cross-companion reversibility and containment terms (operational cluster head)
 - OP-O: Operational definition set for limiting irreversibility, isolating failures, and restoring or compensating when rollback is incomplete.
@@ -625,7 +625,7 @@ Compensatory restoration and limitation disclosure
 - OP-C: It is non-compliant to withhold limitation disclosure or omit compensatory restoration where rollback gaps are materially foreseeable.
 
 ### CJS-3.26 Cross-companion data-retention and lifecycle-integrity terms
-This subsection supplies CJS-local operational definitions for data retention and lifecycle integrity where accountability, privacy boundaries, reversibility **profile**, and classification handling depend on combined companion behavior. It is read with `corpus_joint_structure.md` **PRIM9**, **PRIM10**, **PRIM11**, **PRIM12**, **PRIM15**, and `corpus_systems.md` **Chapter S1** (including Types N, I, and H), plus `corpus_joint_structure.md` **CJS-3.5** where classification duties overlap supervised scope.
+This subsection supplies CJS-local operational definitions for data retention and lifecycle integrity where accountability, privacy boundaries, reversibility **profile**, and classification handling depend on combined companion behavior. It is read with the CJS implementation layer **PRIM9**, **PRIM10**, **PRIM11**, **PRIM12**, **PRIM15**, and `corpus_systems.md` **Chapter S1** (including Types N, I, and H), plus **CJS-3.5** where classification duties overlap supervised scope.
 
 Cross-companion data-retention and lifecycle-integrity terms (operational cluster head)
 - OP-O: Operational definition set for justified/bounded retention, lifecycle expiry and reclassification discipline, anti-coercive data accumulation limits, accountability-preserving record floors, and proportional controls.
@@ -678,7 +678,7 @@ Proportional application
 - OP-C: It is non-compliant to apply reduced retention safeguards where material rights or accountability exposure remains.
 
 ### CJS-3.27 Cross-companion adversarial robustness and abuse-resistance terms
-This subsection supplies CJS-local operational definitions for adversarial robustness and abuse resistance where attack surfaces, incentive exploitation, and integrity-defense **design** depend on combined companion behavior. It is read with `corpus_joint_structure.md` **PRIM14**, **PRIM4**, **PRIM5**, **PRIM6**, **PRIM9**, **PRIM11**, **PRIM12**, **PRIM15**, **PROT1**, **PROT4**, **PROT5**, and relevant constitutional hooks in the Sentient Constitution `core_*.md` files (see [README.md](../README.md)) for epistemic mediation, governance integrity, and allocation outcomes.
+This subsection supplies CJS-local operational definitions for adversarial robustness and abuse resistance where attack surfaces, incentive exploitation, and integrity-defense **design** depend on combined companion behavior. It is read with the CJS implementation layer **PRIM14**, **PRIM4**, **PRIM5**, **PRIM6**, **PRIM9**, **PRIM11**, **PRIM12**, **PRIM15**, **PROT1**, **PROT4**, **PROT5**, and relevant constitutional hooks in the Sentient Constitution `core_*.md` files (see [README.md](../README.md)) for epistemic mediation, governance integrity, and allocation outcomes.
 
 Cross-companion adversarial robustness and abuse-resistance terms (operational cluster head)
 - OP-O: Operational definition set for adversarial threat modeling, exploitation resistance, monitoring/response controls, compromise resilience, testing/hardening cycles, and rights-bounded defense practice.
@@ -736,7 +736,7 @@ Proportional application
 - OP-C: It is non-compliant to downscope safeguards where material cross-system abuse risk remains.
 
 ### CJS-3.28 Cross-companion distributed and proportional authority terms
-This subsection supplies CJS-local operational definitions for distributed and proportional authority where governance legitimacy, participation rules, concentration controls, and systemic-context evaluation depend on combined companion behavior. It is read with `corpus_joint_structure.md` **PROT1**, **PRIM4**, **PRIM9**, **PRIM15**, **PROT6**, `corpus_systems.md` **Chapter S3**, and constitutional hooks in the Sentient Constitution `core_*.md` files (see [README.md](../README.md)) Chapter One and rights/governance floors where materially relevant.
+This subsection supplies CJS-local operational definitions for distributed and proportional authority where governance legitimacy, participation rules, concentration controls, and systemic-context evaluation depend on combined companion behavior. It is read with the CJS implementation layer **PROT1**, **PRIM4**, **PRIM9**, **PRIM15**, **PROT6**, `corpus_systems.md` **Chapter S3**, and constitutional hooks in the Sentient Constitution `core_*.md` files (see [README.md](../README.md)) Chapter One and rights/governance floors where materially relevant.
 
 Cross-companion distributed and proportional authority terms (operational cluster head)
 - OP-O: Operational definition set for anti-monopoly authority distribution, impact-scaled oversight intensity, participation legitimacy controls, anti-capture stewardship depth, and concentration-mitigation trigger discipline.
@@ -779,7 +779,7 @@ Contextual and systemic evaluation discipline
 - OP-C: It is non-compliant to certify authority legitimacy from isolated evaluation that ignores material cross-system dependencies.
 
 ### CJS-3.29 Cross-companion intervention governance and override-authorization terms
-This subsection supplies CJS-local operational definitions for governance-layer intervention and override authorization where procedural legitimacy, emergency handling, and accountability depend on combined companion behavior. It is read with `corpus_joint_structure.md` **PROT2**, **PRIM8**, **PROT1**, **PROT4**, **PROT5**, **PRIM9**, **PRIM15**, and constitutional hooks in the Sentient Constitution `core_*.md` files (see [README.md](../README.md)) for necessity/proportionality and emergency normalization constraints.
+This subsection supplies CJS-local operational definitions for governance-layer intervention and override authorization where procedural legitimacy, emergency handling, and accountability depend on combined companion behavior. It is read with the CJS implementation layer **PROT2**, **PRIM8**, **PROT1**, **PROT4**, **PROT5**, **PRIM9**, **PRIM15**, and constitutional hooks in the Sentient Constitution `core_*.md` files (see [README.md](../README.md)) for necessity/proportionality and emergency normalization constraints.
 
 Cross-companion intervention governance and override-authorization terms (operational cluster head)
 - OP-O: Operational definition set for governance-layer intervention necessity, role authorization, quorum/sequence compliance, emergency bounds, record/challenge duties, and proportional procedural scaling.
@@ -822,7 +822,7 @@ Joint companion read rule for overlapping emergency/intervention facts
 - OP-C: It is non-compliant to satisfy only one layer while leaving materially required companion obligations unmet for the same intervention facts.
 
 ### CJS-3.30 Cross-companion reflexive transparency and accountability terms
-This subsection supplies CJS-local operational definitions for reflexive transparency and accountability where governance/enforcement legitimacy depends on applying equal-or-stricter standards to authorities themselves. It is read with `corpus_joint_structure.md` **PROT3**, **PRIM4**, **PRIM9**, **PRIM10**, **PRIM11**, **PRIM15**, **PROT1**, **PROT4**, **PROT5**, **PROT6**, and constitutional hooks in the Sentient Constitution `core_*.md` files (see [README.md](../README.md)) for enforcement realism and rights-protective accountability.
+This subsection supplies CJS-local operational definitions for reflexive transparency and accountability where governance/enforcement legitimacy depends on applying equal-or-stricter standards to authorities themselves. It is read with the CJS implementation layer **PROT3**, **PRIM4**, **PRIM9**, **PRIM10**, **PRIM11**, **PRIM15**, **PROT1**, **PROT4**, **PROT5**, **PROT6**, and constitutional hooks in the Sentient Constitution `core_*.md` files (see [README.md](../README.md)) for enforcement realism and rights-protective accountability.
 
 Cross-companion reflexive transparency and accountability terms (operational cluster head)
 - OP-O: Operational definition set for parity accountability, transparent/auditable governance practice, enforcement-capacity realism, pluralistic contestability, and anti-corruption auditability controls.
@@ -870,7 +870,7 @@ Anti-corruption and undue-influence auditability controls
 - OP-C: It is non-compliant where concealed side-benefit channels or concentrated private-benefit decision pathways impair independent audit/challenge.
 
 ### CJS-3.31 Cross-companion burden-of-justification and constraint terms
-This subsection supplies CJS-local operational definitions for burden of justification and constraint where restriction validity, least-restrictive selection, and revalidation discipline depend on combined companion behavior. It is read with `corpus_joint_structure.md` **PROT4**, **PROT1**, **PRIM4**, **PRIM7**, **PRIM9**, **PRIM15**, and constitutional hooks in the Sentient Constitution `core_*.md` files (see [README.md](../README.md)) and `core_05-05_definitions_a_independent.md` for necessity, proportionality, materiality, burden, and anti-enclosure limits.
+This subsection supplies CJS-local operational definitions for burden of justification and constraint where restriction validity, least-restrictive selection, and revalidation discipline depend on combined companion behavior. It is read with the CJS implementation layer **PROT4**, **PROT1**, **PRIM4**, **PRIM7**, **PRIM9**, **PRIM15**, and constitutional hooks in the Sentient Constitution `core_*.md` files (see [README.md](../README.md)) and `core_05-05_definitions_a_independent.md` for necessity, proportionality, materiality, burden, and anti-enclosure limits.
 
 Cross-companion burden-of-justification and constraint terms (operational cluster head)
 - OP-O: Operational definition set for burden assignment, substantive showing, disclosure and review sufficiency, temporal discipline, and anti-normalization limits for material restrictions.
@@ -908,7 +908,7 @@ Innovation-exclusivity anti-enclosure application
 - OP-C: It is non-compliant to use exclusivity claims as a categorical bypass of constitutional scrutiny.
 
 ### CJS-3.32 Cross-companion constrained-secrecy and protected-investigation terms
-This subsection supplies CJS-local operational definitions for constrained secrecy and protected investigations where disclosure limits, oversight continuity, and release discipline depend on combined companion behavior. It is read with `corpus_joint_structure.md` **PROT5**, **PROT4**, **PROT3**, **PROT1**, **PRIM4**, **PRIM9**, **PRIM15**, **PROT6**, and constitutional hooks in the Sentient Constitution `core_*.md` files (see [README.md](../README.md)) for epistemic integrity, emergency limits, and rights-protective secrecy constraints.
+This subsection supplies CJS-local operational definitions for constrained secrecy and protected investigations where disclosure limits, oversight continuity, and release discipline depend on combined companion behavior. It is read with the CJS implementation layer **PROT5**, **PROT4**, **PROT3**, **PROT1**, **PRIM4**, **PRIM9**, **PRIM15**, **PROT6**, and constitutional hooks in the Sentient Constitution `core_*.md` files (see [README.md](../README.md)) for epistemic integrity, emergency limits, and rights-protective secrecy constraints.
 
 Cross-companion constrained-secrecy and protected-investigation terms (operational cluster head)
 - OP-O: Operational definition set for secrecy authorization, minimization/preference ordering, deferred transparency, constrained-condition oversight, and no-permanent-secrecy discipline.
@@ -941,7 +941,7 @@ No permanent secrecy and anti-normalization discipline
 - OP-C: It is non-compliant to maintain indefinite secrecy or to use secrecy to defeat epistemic integrity or accountability duties.
 
 ### CJS-3.33 Cross-companion procedural integrity and adjudication terms
-This subsection supplies CJS-local operational definitions for procedural integrity and adjudication where due process, reviewability, restoration access, and enforcement proportionality depend on combined companion behavior. It is read with `corpus_joint_structure.md` **PROT6**, **PROT4**, **PROT3**, **PROT2**, `corpus_systems.md` **Chapter S1** and **Chapter S2**, `corpus_institutions.md`, `corpus_forum.md`, and constitutional hooks in the Sentient Constitution `core_*.md` files (see [README.md](../README.md)) for binding collective choice, rights protection, and justice-shaped review.
+This subsection supplies CJS-local operational definitions for procedural integrity and adjudication where due process, reviewability, restoration access, and enforcement proportionality depend on combined companion behavior. It is read with the CJS implementation layer **PROT6**, **PROT4**, **PROT3**, **PROT2**, `corpus_systems.md` **Chapter S1** and **Chapter S2**, `corpus_institutions.md`, `corpus_forum.md`, and constitutional hooks in the Sentient Constitution `core_*.md` files (see [README.md](../README.md)) for binding collective choice, rights protection, and justice-shaped review.
 
 Cross-companion procedural integrity and adjudication terms (operational cluster head)
 - OP-O: Operational definition set for due-process requirements, burden and enforcement scaling, review independence, restoration accessibility, uncertainty safeguards, and anti-abuse limits.
@@ -984,7 +984,7 @@ System-class and joint-read scaling
 - OP-C: It is non-compliant to downscope procedural protection below what the combined companion chain requires.
 
 ### CJS-3.34 Cross-companion structural review, correction urgency, and disclosure terms
-This subsection supplies CJS-local operational definitions for structural review, correction urgency, and disclosure targeting where recurring failures, CUL assignment, and structural transparency depend on combined companion behavior. It is read with `corpus_joint_structure.md` **PROT6**, **PRIM6**, **PRIM12**, **PRIM15**, **PROT3**, `corpus_systems.md` **Chapter S1** and **Chapter S2**, and companion-specific monitoring or publication duties where materially relevant.
+This subsection supplies CJS-local operational definitions for structural review, correction urgency, and disclosure targeting where recurring failures, CUL assignment, and structural transparency depend on combined companion behavior. It is read with the CJS implementation layer **PROT6**, **PRIM6**, **PRIM12**, **PRIM15**, **PROT3**, `corpus_systems.md` **Chapter S1** and **Chapter S2**, and companion-specific monitoring or publication duties where materially relevant.
 
 Cross-companion structural review, correction urgency, and disclosure terms (operational cluster head)
 - OP-O: Operational definition set for systemic-pattern detection, correction urgency classification, feedback integration, structural records/disclosure, and stakeholder-targeted transparency.
