@@ -168,6 +168,8 @@ This subsection **pins** how “definitions” work across the corpus so editors
 
 `corpus_joint_structure.md` is the official owner for **operational definitions that are inherently joint**: terms that arise only because two or more companion files must be read together on the same facts, and whose role is to coordinate routing, sequencing, interlock, shared-fact evaluation, stricter-wins handling, or combined companion satisfaction.
 
+Within the CJS subfiles, place reusable joint operational definitions in **CJS-5** operational clusters. Rule/interlock sections such as **CJS-4** and implementation-label sections such as **PRIM** or **PROT** should point to the applicable **CJS-5** term and the domain owner (**CI**, **CS**, or **CF**) rather than defining the term inline.
+
 Use **CJS** for a term only when all of the following are true:
 
 1. the term has no stable meaning outside a cross-companion interface;

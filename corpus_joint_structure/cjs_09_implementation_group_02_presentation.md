@@ -84,7 +84,7 @@ Where both apply, the **stricter** requirement governs (see Protocol B header).
 
 **PRIM2** aligns with **PRIM1** and **PRIM4**.
 
-**It must** **not** substitute weaker accessibility than **Chapters Two through Four** requires for verification accessibility, traceability, and observability. **That** rule applies where those requirements apply to the same presentation. Systems must present information, behavior, and structure without unreasonable cognitive burden.
+**It must** **not** substitute weaker accessibility than **Chapters Two through Four** requires for verification accessibility, traceability, and observability. The same accessibility floor governs any presentation that also carries those verification, traceability, or observability requirements. Systems must present information, behavior, and structure without unreasonable cognitive burden.
 
 Disclosure volume alone is insufficient: material must be meaningfully understandable, evaluable, and actionable.
 

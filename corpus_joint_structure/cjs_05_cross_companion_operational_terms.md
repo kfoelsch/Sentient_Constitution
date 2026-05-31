@@ -5,7 +5,7 @@ This file holds the cross-companion operational cluster library for joint interf
 Use these clusters as joint interface terms for combined satisfaction across **CP**, **CS**, **CI**, and **CF**. They supplement the implementation-group label text and owner-file rules; they do not replace either.
 
 ### CJS-5.1 Cross-companion integrity assurance and resilience operations
-This rule applies where **CJS-R19** applies. It uses core definitions such as auditability, verifiability, reversibility, dependency, cascading failure, adversarial conditions, and trustworthiness without replacing them.
+Use this rule for **CJS-R19**, cross-companion integrity assurance and resilience operations. It relies on, but does not replace, core definitions such as auditability, verifiability, reversibility, dependency, cascading failure, adversarial conditions, and trustworthiness.
 
 Cross-companion integrity assurance and resilience operations
 - OP-O: Integrity claims depend on the whole chain when records, access, classification, stewardship, challenge, or adjudication are split across companions.
@@ -33,7 +33,7 @@ Adversarial response and revalidation non-entrenchment
 - OP-C: It is non-compliant to preserve legacy structures by inertia when material risk, drift, or known vulnerabilities require correction, reauthorization, or replacement.
 
 ### CJS-5.2 Cross-companion quorum and participatory legitimacy terms
-This rule applies when participation or quorum rules affect materially binding outcomes across more than one companion. It is read with Implementation Group Four, section 2.
+Use this rule when participation or quorum rules affect materially binding outcomes across more than one companion. It is read with Implementation Group Four, section 2.
 
 Cross-companion quorum and participatory legitimacy terms
 - OP-O: Quorum and participation terms must be applied consistently across companion interactions.
@@ -61,12 +61,12 @@ Temporal
 - OP-C: It is non-compliant to use timing that predictably blocks meaningful participation.
 
 Notification and pathway integrity
-- OP-O: People must receive timely notice, practical participation and challenge routes, decision status, and material exit or adaptation effects where relevant.
+- OP-O: Affected sentients must receive timely notice, practical participation and challenge routes, decision status, and material exit or adaptation effects where relevant.
 - OP-E: Evaluation must verify that notice and pathways are understandable enough to use before the outcome hardens.
 - OP-C: Formal participation is non-compliant when notice is incomplete, too late, or practically unusable.
 
 ### CJS-5.3 Cross-companion comprehensibility and cognitive accessibility terms
-This rule applies when transparency, participation, auditability, or accountability depends on information being understandable across companion interfaces. It is read with **PRIM2** and `corpus_systems.md` Protocol B.
+Use this rule when transparency, participation, auditability, or accountability depends on information being understandable across companion interfaces. It is read with **PRIM2** and `corpus_systems.md` Protocol B.
 
 Cross-companion comprehensibility and cognitive accessibility terms
 - OP-O: Material information must be understandable, evaluable, and usable for lawful participation, audit, and oversight.
@@ -114,7 +114,7 @@ Proportional application
 - OP-C: Minimal presentation is non-compliant where stronger interpretability is required.
 
 ### CJS-5.4 Cross-companion salience integrity and attention-allocation terms
-This rule applies when ranking, recommendation, filtering, or other attention-allocation systems shape what people see or understand. It is read with **PRIM1**, **PRIM4**, **PRIM14**, **Article XV-A**, and **Chapter Ten** incentive-alignment constraints.
+Use this rule when ranking, recommendation, filtering, or other attention-allocation systems shape what sentients see or understand. It is read with **PRIM1**, **PRIM4**, **PRIM14**, **Article XV-A**, and **Chapter Ten** incentive-alignment constraints.
 
 Cross-companion salience integrity and attention-allocation terms
 - OP-O: Salience systems must support informed decisions and avoid distorting perception.
@@ -128,7 +128,7 @@ Salience integrity floor
 
 Material-visibility and risk legibility controls
 - OP-O: Material risks, limits, uncertainties, and decision-relevant information must stay visible.
-- OP-E: Evaluation must verify that placement or suppression does not hide what people need for safety, consent, participation, or oversight.
+- OP-E: Evaluation must verify that placement or suppression does not hide what affected sentients need for safety, consent, participation, or oversight.
 - OP-C: Systematic distortion of relative importance, likelihood, impact, or prevalence is non-compliant.
 
 Anti-manipulation and prohibited-pattern controls
@@ -149,7 +149,7 @@ Explainability and disclosure sufficiency
 User agency and control
 - OP-O: Stakeholders must have usable control over ranking and presentation where appropriate, including chronological or minimally processed views.
 - OP-E: Evaluation must verify controls are available without disproportionate effort, hidden discouragement, or loss of core functionality.
-- OP-C: Penalizing people for using controls is non-compliant.
+- OP-C: Penalizing sentients for using controls is non-compliant.
 
 Detection, mitigation, and corrective response
 - OP-O: Systems must monitor for salience patterns that misrepresent risk, importance, consensus, or agency.
@@ -167,7 +167,7 @@ Proportional application
 - OP-C: Simplified salience rules are non-compliant when they materially distort understanding or impair informed participation.
 
 ### CJS-5.5 Cross-companion disclosure sufficiency and observability terms
-This rule applies when informed participation, independent verification, or attribution depends on disclosure across companions. It is read with **PRIM4**, **PRIM5** where dependencies matter, **Article XV-A**, and **Article VII-B**.
+Use this rule when informed participation, independent verification, or attribution depends on disclosure across companions. It is read with **PRIM4**, **PRIM5** where dependencies matter, **Article XV-A**, and **Article VII-B**.
 
 Cross-companion disclosure sufficiency and observability terms
 - OP-O: Disclosures must be adequate, verifiable, and respectful of private internal-state boundaries.
@@ -195,7 +195,7 @@ Private internal-state boundary and external observability attribution
 - OP-C: It is non-compliant either to force unlawful internal-state exposure or to hide external behavior behind privacy claims.
 
 ### CJS-5.6 Cross-companion dependency integrity and disclosure terms
-This rule applies when dependency mapping, risk treatment, or accountability depends on combined companion behavior. It is read with **PRIM5**, **PRIM4**, **PRIM7**, **PRIM9**, **PRIM15**, `corpus_systems.md` Protocol A, and **Article XV-A**.
+Use this rule when dependency mapping, risk treatment, or accountability depends on combined companion behavior. It is read with **PRIM5**, **PRIM4**, **PRIM7**, **PRIM9**, **PRIM15**, `corpus_systems.md` Protocol A, and **Article XV-A**.
 
 Cross-companion dependency integrity and disclosure terms
 - OP-O: Material dependencies must be identified, disclosed, monitored, and treated according to their risk.
@@ -233,7 +233,7 @@ Proportional application
 - OP-C: Simplified dependency controls are non-compliant when material exposure remains.
 
 ### CJS-5.7 Cross-companion graceful degradation and failure-mode integrity terms
-This rule applies when reliability, signaling, containment, or recovery depends on combined companion behavior. It is read with **PRIM6**, **PRIM1**, **PRIM5**, **PRIM12**, **PRIM15**, and `corpus_systems.md` Protocol A.
+Use this rule when reliability, signaling, containment, or recovery depends on combined companion behavior. It is read with **PRIM6**, **PRIM1**, **PRIM5**, **PRIM12**, **PRIM15**, and `corpus_systems.md` Protocol A.
 
 Cross-companion graceful degradation and failure-mode integrity terms
 - OP-O: Systems must behave honestly and safely under partial failure, uncertainty, or stress.
@@ -281,7 +281,7 @@ Proportional application
 - OP-C: Reduced controls are non-compliant where material risk remains.
 
 ### CJS-5.8 Cross-companion interoperability, portability, and exit-integrity terms
-This rule applies when lock-in, migration, interface design, or dependency exposure depends on combined companion behavior. It is read with **PRIM7**, **PRIM5**, **PRIM4**, `corpus_systems.md` **Chapter S1**, **Chapter S2**, **Chapter S3**, **Article XIX**, and **Article XV-A**.
+Use this rule when lock-in, migration, interface design, or dependency exposure depends on combined companion behavior. It is read with **PRIM7**, **PRIM5**, **PRIM4**, `corpus_systems.md` **Chapter S1**, **Chapter S2**, **Chapter S3**, **Article XIX**, and **Article XV-A**.
 
 Cross-companion interoperability, portability, and exit-integrity terms
 - OP-O: Systems must preserve meaningful exit, usable portability, and fair interoperability.
@@ -329,7 +329,7 @@ Proportional application
 - OP-C: Simplified controls are non-compliant where material lock-in remains.
 
 ### CJS-5.9 Cross-companion intervention and override integrity terms
-This rule applies when technical intervention, governance authorization, and accountability depend on combined companion behavior. It is read with **PRIM8**, **PRIM6**, **PRIM9**, **PRIM14**, **PRIM15**, **PROT2**, and constitutional hooks in **Articles IX, XII, and XIII**.
+Use this rule when technical intervention, governance authorization, and accountability depend on combined companion behavior. It is read with **PRIM8**, **PRIM6**, **PRIM9**, **PRIM14**, **PRIM15**, **PROT2**, and constitutional hooks in **Articles IX, XII, and XIII**.
 
 Cross-companion intervention and override integrity terms
 - OP-O: Systems need timely, accountable ways to interrupt, constrain, or redirect harmful behavior.
@@ -382,7 +382,7 @@ Proportional application
 - OP-C: Reduced controls are non-compliant where material harm-prevention needs remain.
 
 ### CJS-5.10 Cross-companion auditability and reconstructability terms
-This rule applies when records, access pathways, or verification design depend on combined companion behavior. It is read with **PRIM9**, **PRIM4**, **PRIM10**, **Article XV-A**, and **Article VII-B**.
+Use this rule when records, access pathways, or verification design depend on combined companion behavior. It is read with **PRIM9**, **PRIM4**, **PRIM10**, **Article XV-A**, and **Article VII-B**.
 
 Cross-companion auditability and reconstructability terms
 - OP-O: Records must be verifiable, independently reviewable, and adequate for reconstructing harm or disputes.
@@ -410,7 +410,7 @@ Article VII-B boundary and anti-concealment rule
 - OP-C: Using internal-state protections to hide accountability-relevant behavior is non-compliant.
 
 ### CJS-5.11 Cross-companion tiered transparency and audit-access terms
-This rule applies when public visibility, qualified review, or forensic reconstruction depends on combined companion behavior. It is read with **PRIM10**, **PRIM9**, **PRIM12**, **Article XV-A**, and **Article VII-B**.
+Use this rule when public visibility, qualified review, or forensic reconstruction depends on combined companion behavior. It is read with **PRIM10**, **PRIM9**, **PRIM12**, **Article XV-A**, and **Article VII-B**.
 
 Cross-companion tiered transparency and audit-access terms
 - OP-O: Information access must use tiers that balance transparency, auditability, protected internal-state boundaries, and contestability.
@@ -443,7 +443,7 @@ Access-control integrity and anti-concealment
 - OP-C: Access architecture that hides systemic behavior or blocks challenge is non-compliant.
 
 ### CJS-5.12 Cross-companion independent verification and claim-integrity terms
-This rule applies when evidence quality, verification routes, or trust claims depend on combined companion behavior. It is read with **PRIM11**, **PRIM9**, **PRIM10**, Chapter Fourteen, and rights-layer protections where material claims shape rights-relevant decisions.
+Use this rule when evidence quality, verification routes, or trust claims depend on combined companion behavior. It is read with **PRIM11**, **PRIM9**, **PRIM10**, Chapter Fourteen, and rights-layer protections where material claims shape rights-relevant decisions.
 
 Cross-companion independent verification and claim-integrity terms
 - OP-O: Material claims must be independently checkable where feasible.
@@ -471,7 +471,7 @@ Class-scaled template floor mapping
 - OP-C: Removing any required verification floor is non-compliant.
 
 ### CJS-5.13 Cross-companion reversibility and containment terms
-This rule applies when rollback, failure isolation, or restoration depends on combined companion behavior. It is read with **PRIM12**, **PRIM5**, **PRIM6**, **PRIM9**, **PRIM10**, and **PRIM11**.
+Use this rule when rollback, failure isolation, or restoration depends on combined companion behavior. It is read with **PRIM12**, **PRIM5**, **PRIM6**, **PRIM9**, **PRIM10**, and **PRIM11**.
 
 Cross-companion reversibility and containment terms
 - OP-O: Systems must limit irreversible harm, isolate failures, and restore or compensate when rollback is incomplete.
@@ -499,7 +499,7 @@ Compensatory restoration and limitation disclosure
 - OP-C: Hiding limits or omitting foreseeable compensation paths is non-compliant.
 
 ### CJS-5.14 Cross-companion data-retention and lifecycle-integrity terms
-This rule applies when accountability, privacy, reversibility, or classification depends on combined data-retention behavior. It is read with **PRIM9**, **PRIM10**, **PRIM11**, **PRIM12**, **PRIM15**, `corpus_systems.md` **Chapter S1**, and **CJS-3.5**.
+Use this rule when accountability, privacy, reversibility, or classification depends on combined data-retention behavior. It is read with **PRIM9**, **PRIM10**, **PRIM11**, **PRIM12**, **PRIM15**, `corpus_systems.md` **Chapter S1**, and **CJS-3.5**.
 
 Cross-companion data-retention and lifecycle-integrity terms
 - OP-O: Data retention must be justified, bounded, reviewed, and lifecycle-managed.
@@ -552,7 +552,7 @@ Proportional application
 - OP-C: Reduced safeguards are non-compliant where material exposure remains.
 
 ### CJS-5.15 Cross-companion adversarial robustness and abuse-resistance terms
-This rule applies when attack surfaces, incentive exploitation, or integrity defense depends on combined companion behavior. It is read with **PRIM14**, **PRIM4**, **PRIM5**, **PRIM6**, **PRIM9**, **PRIM11**, **PRIM12**, **PRIM15**, **PROT1**, **PROT4**, and **PROT5**.
+Use this rule when attack surfaces, incentive exploitation, or integrity defense depends on combined companion behavior. It is read with **PRIM14**, **PRIM4**, **PRIM5**, **PRIM6**, **PRIM9**, **PRIM11**, **PRIM12**, **PRIM15**, **PROT1**, **PROT4**, and **PROT5**.
 
 Cross-companion adversarial robustness and abuse-resistance terms
 - OP-O: Systems must be designed and maintained against manipulation, exploitation, coordination, and abuse.
@@ -610,7 +610,7 @@ Proportional application
 - OP-C: Downscoping safeguards is non-compliant where material abuse risk remains.
 
 ### CJS-5.16 Cross-companion distributed and proportional authority terms
-This rule applies when governance legitimacy, participation, concentration control, or systemic evaluation depends on combined companion behavior. It is read with **PROT1**, **PRIM4**, **PRIM9**, **PRIM15**, **PROT6**, and `corpus_systems.md` **Chapter S3**.
+Use this rule when governance legitimacy, participation, concentration control, or systemic evaluation depends on combined companion behavior. It is read with **PROT1**, **PRIM4**, **PRIM9**, **PRIM15**, **PROT6**, and `corpus_systems.md` **Chapter S3**.
 
 Cross-companion distributed and proportional authority terms
 - OP-O: Authority, oversight, and verification must be distributed, transparent, and resistant to capture.
@@ -642,6 +642,11 @@ Stewardship-role depth and non-symbolic governance boundary
 - OP-E: Evaluation must verify role substance and actual decision authority.
 - OP-C: Title-only or ceremonial governance is non-compliant.
 
+Constitutional lane and functional separation
+- OP-O: A constitutional lane is a **CI-2** functional separation that carries constitutionally binding duties, including direction and policy, execution, challenge and review, assurance and audit, or publication and evidence functions.
+- OP-E: Evaluation must verify the lane's published function, hosted institution, materially binding duties, independence safeguards, accountable roles, and relationship to any system-class or stewardship burden under `corpus_systems.md` **Chapter S2** or **Chapter S3**.
+- OP-C: A lane is non-compliant if it is undefined, merged, or staffed in a way that defeats required separation, auditability, challenge, succession, or materially binding role accountability.
+
 Anti-concentration guardrails and trigger mitigation
 - OP-O: Systems must define concentration indicators and thresholds, and activate mitigation when thresholds are crossed or credibly approached.
 - OP-E: Evaluation must verify metrics such as control persistence, dependency concentration, and interface gatekeeping, plus mitigation options.
@@ -653,7 +658,7 @@ Contextual and systemic evaluation discipline
 - OP-C: Isolated evaluation that ignores material dependencies is non-compliant.
 
 ### CJS-5.17 Cross-companion intervention governance and override-authorization terms
-This rule applies when governance-level intervention or override authorization depends on combined companion behavior. It is read with **PROT2**, **PRIM8**, **PROT1**, **PROT4**, **PROT5**, **PRIM9**, and **PRIM15**.
+Use this rule when governance-level intervention or override authorization depends on combined companion behavior. It is read with **PROT2**, **PRIM8**, **PROT1**, **PROT4**, **PROT5**, **PRIM9**, and **PRIM15**.
 
 Cross-companion intervention governance and override-authorization terms
 - OP-O: Governance intervention must be necessary, authorized, sequenced, bounded, recorded, challengeable, and proportional.
@@ -691,7 +696,7 @@ Proportional procedural scaling
 - OP-C: Downscoping procedure is non-compliant where significant intervention risk remains.
 
 ### CJS-5.18 Cross-companion reflexive transparency and accountability terms
-This rule applies when legitimacy depends on authorities applying equal or stronger standards to themselves. It is read with **PROT3**, **PRIM4**, **PRIM9**, **PRIM10**, **PRIM11**, **PRIM15**, **PROT1**, **PROT4**, **PROT5**, and **PROT6**.
+Use this rule when legitimacy depends on authorities applying equal or stronger standards to themselves. It is read with **PROT3**, **PRIM4**, **PRIM9**, **PRIM10**, **PRIM11**, **PRIM15**, **PROT1**, **PROT4**, **PROT5**, and **PROT6**.
 
 Cross-companion reflexive transparency and accountability terms
 - OP-O: Authorities must be transparent, auditable, realistic about enforcement capacity, open to contest, and protected against corruption.
@@ -739,7 +744,7 @@ Anti-corruption and undue-influence auditability controls
 - OP-C: Concealed side benefits or concentrated private-benefit decision paths are non-compliant.
 
 ### CJS-5.19 Cross-companion burden-of-justification and constraint terms
-This rule applies when restrictions, least-restrictive choices, or revalidation depend on combined companion behavior. It is read with **PROT4**, **PROT1**, **PRIM4**, **PRIM7**, **PRIM9**, **PRIM15**, and core definitions for necessity, proportionality, materiality, burden, and anti-enclosure.
+Use this rule when restrictions, least-restrictive choices, or revalidation depend on combined companion behavior. It is read with **PROT4**, **PROT1**, **PRIM4**, **PRIM7**, **PRIM9**, **PRIM15**, and core definitions for necessity, proportionality, materiality, burden, and anti-enclosure.
 
 Cross-companion burden-of-justification and constraint terms
 - OP-O: Anyone imposing a material restriction must justify it.
@@ -748,7 +753,7 @@ Cross-companion burden-of-justification and constraint terms
 
 Restriction-burden assignment floor
 - OP-O: The party proposing or implementing a restriction bears the burden of justification.
-- OP-E: Evaluation must verify the burden is explicit and not shifted onto affected people through opacity, cost, or procedure.
+- OP-E: Evaluation must verify the burden is explicit and not shifted onto affected sentients through opacity, cost, or procedure.
 - OP-C: Hidden, reversed, or displaced burden is non-compliant.
 
 Substantive showing and least-restrictive proof
@@ -777,7 +782,7 @@ Innovation-exclusivity anti-enclosure application
 - OP-C: Using exclusivity as a categorical bypass is non-compliant.
 
 ### CJS-5.20 Cross-companion constrained-secrecy and protected-investigation terms
-This rule applies when secrecy, protected investigations, oversight, or delayed release depends on combined companion behavior. It is read with **PROT5**, **PROT4**, **PROT3**, **PROT1**, **PRIM4**, **PRIM9**, **PRIM15**, and **PROT6**.
+Use this rule when secrecy, protected investigations, oversight, or delayed release depends on combined companion behavior. It is read with **PROT5**, **PROT4**, **PROT3**, **PROT1**, **PRIM4**, **PRIM9**, **PRIM15**, and **PROT6**.
 
 Cross-companion constrained-secrecy and protected-investigation terms
 - OP-O: Secrecy must be authorized, minimized, temporary, overseen, reconstructable, and subject to later release review.
@@ -810,12 +815,32 @@ No permanent secrecy and anti-normalization discipline
 - OP-C: Indefinite secrecy or secrecy used to defeat accountability is non-compliant.
 
 ### CJS-5.21 Cross-companion procedural integrity and adjudication terms
-This rule applies when due process, reviewability, restoration, or enforcement proportionality depends on combined companion behavior. It is read with **PROT6**, **PROT4**, **PROT3**, **PROT2**, `corpus_systems.md` **Chapter S1** and **Chapter S2**, `corpus_institutions.md`, and `corpus_forum.md`.
+Use this rule when due process, reviewability, restoration, or enforcement proportionality depends on combined companion behavior. It is read with **PROT6**, **PROT4**, **PROT3**, **PROT2**, `corpus_systems.md` **Chapter S1** and **Chapter S2**, `corpus_institutions.md`, and `corpus_forum.md`.
 
 Cross-companion procedural integrity and adjudication terms
 - OP-O: Procedures must provide due process, independent review, proportional enforcement, accessible restoration, uncertainty safeguards, and anti-abuse limits.
 - OP-E: Evaluation must apply all components together.
 - OP-C: It is non-compliant to claim procedural integrity when a material component exists only on paper.
+
+Delegated binding body
+- OP-O: A standing or recurring body below a parent institution may exercise materially binding delegated authority only within a published scope.
+- OP-E: Evaluation must verify the delegation source, scope boundaries, decision authority, composition, quorum or participation rules where applicable, records, and challenge or escalation paths.
+- OP-C: A delegated body is non-compliant when its authority is unpublished, materially exceeds its scope, lacks auditable records, or defeats owner-file independence, participation, or contest routes.
+
+Lawful independent forum
+- OP-O: A merits forum must be formed under published authority and must have required competence, quorum, and conflict-screened independence.
+- OP-E: Evaluation must verify formation authority, assigned forum family or equivalent route, competence, quorum, disclosures, recusals, substitutions, and independence safeguards before treating the merits determination as lawful.
+- OP-C: A merits determination is non-compliant when the forum lacks lawful formation, necessary competence, valid quorum, or conflict-screened independence.
+
+Backup activation
+- OP-O: Backup routing must document transfer or co-routing to a designated backup forum when the lead forum cannot provide lawful independent merits determination in time.
+- OP-E: Evaluation must verify the activation trigger, timing basis, designated backup authority, records, notice where required, preservation of the case's primary stakes, and continuity of contest or review rights.
+- OP-C: Backup activation is non-compliant when it is undocumented, ad hoc, late enough to defeat the merits route, or used to change the case's substantive character without lawful authority.
+
+Representative treatment
+- OP-O: Common-question procedure may resolve issues for a broader affected group only when commonality, notice, adequate representation, and contestability are preserved.
+- OP-E: Evaluation must verify the common question, affected-group scope, notice sufficiency, representation adequacy, opt-out or separate-process rules where applicable, sentient-specific exceptions, and challenge paths.
+- OP-C: Representative treatment is non-compliant when it suppresses material individualized claims, hides affected parties, weakens adequate representation, or makes contest practically unavailable.
 
 Due-process requirements
 - OP-O: Material actions must provide clear notice, understandable explanation, practical chance to contest, and timing proportional to severity, reversibility, class, dependency, and claimant scale.
@@ -853,7 +878,7 @@ System-class and joint-read scaling
 - OP-C: Downscoping below the combined companion chain is non-compliant.
 
 ### CJS-5.22 Cross-companion structural review, correction urgency, and disclosure terms
-This rule applies when recurring failures, Correction Urgency Level (**CUL**) assignment, or structural transparency depends on combined companion behavior. It is read with **PROT6**, **PRIM6**, **PRIM12**, **PRIM15**, **PROT3**, `corpus_systems.md` **Chapter S1** and **Chapter S2**, and companion-specific monitoring or publication duties.
+Use this rule when recurring failures, Correction Urgency Level (**CUL**) assignment, or structural transparency depends on combined companion behavior. It is read with **PROT6**, **PRIM6**, **PRIM12**, **PRIM15**, **PROT3**, `corpus_systems.md` **Chapter S1** and **Chapter S2**, and companion-specific monitoring or publication duties.
 
 Cross-companion structural review, correction urgency, and disclosure terms
 - OP-O: Systems must detect patterns, assign correction urgency, integrate fixes, keep structural records, and disclose to the right stakeholders.

@@ -10,7 +10,7 @@ Principles: **Plural Authority and Anti-Capture** through distributed oversight,
 
 **PROT1** is the governance-layer home for distributing authority, scaling oversight, and preventing concentration or capture. Apply it wherever participation legitimacy, stewardship depth, or proportional review must track impact and dependency rather than convenience or inherited structure.
 
-Cross-companion operational definitions for distributed/proportional authority floors, participation-legitimacy controls, stewardship-depth safeguards, anti-concentration guardrails, and contextual systemic-evaluation discipline are maintained in **CJS-5.16** (*Cross-companion distributed and proportional authority terms*). Apply that subsection as required read-with for this **PROT1** implementation scope.
+Cross-companion operational definitions for distributed/proportional authority floors, participation-legitimacy controls, stewardship-depth safeguards, constitutional lanes and functional separation, anti-concentration guardrails, and contextual systemic-evaluation discipline are maintained in **CJS-5.16** (*Cross-companion distributed and proportional authority terms*). Apply that subsection as required read-with for this **PROT1** implementation scope.
 
 ### PROT2 — Governance Implementation label: Intervention and Override Rights
 Principles: **Safety and Procedural Accountability** through authorized, time-bound, and reviewable intervention governance.
@@ -88,7 +88,7 @@ Where adopters use **evaluative (score / range)** or other **cardinal** ballots,
 
 **Opaque** or **post-hoc** tally formulas violate **procedural integrity** for **binding** outcomes.
 
-**Scope index:** Apply **CJS-5.21** for due-process requirements, initiator burden in adjudicative and enforcement settings, proportional enforcement selection, review independence, restoration access, uncertainty safeguards, anti-abuse limits, and system-class procedural scaling. Apply **CJS-5.22** for systemic-pattern review, **CUL** assignment, feedback integration, structural records, and stakeholder-scoped disclosure targeting.
+**Scope index:** Apply **CJS-5.21** for delegated-body and forum-routing abstractions, due-process requirements, initiator burden in adjudicative and enforcement settings, proportional enforcement selection, review independence, restoration access, uncertainty safeguards, anti-abuse limits, and system-class procedural scaling. Apply **CJS-5.22** for systemic-pattern review, **CUL** assignment, feedback integration, structural records, and stakeholder-scoped disclosure targeting.
 
 For collective-choice procedure, entitlement, records, gates, method neutrality, quorum, and participatory legitimacy, read this section with **Sentient Constitution Chapter Eleven** and the applicable **CJS** subsections. For forum, institution, transition, external-system, and resource-flow mechanics, read the canonical owner files; this section supplies the implementation-layer governance floor only.
 

@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-05-31T17:37:16+00:00",
+  "generated_at": "2026-05-31T17:56:34+00:00",
   "files": {
     "core_00-01_principles.md": {
       "total_lines": 1446,
@@ -6045,13 +6045,13 @@
       ]
     },
     "corpus_joint_structure/cjs_04_specific_joint_interlocks.md": {
-      "total_lines": 93,
+      "total_lines": 97,
       "sections": [
         {
           "header": "CJS-4: Specific joint interlocks and shared abstractions",
           "level": 2,
           "line_start": 1,
-          "line_end": 93,
+          "line_end": 97,
           "anchor": null
         },
         {
@@ -6086,21 +6086,21 @@
           "header": "CJS-4.5 Definition collision and precedence discipline",
           "level": 3,
           "line_start": 55,
-          "line_end": 64,
+          "line_end": 68,
           "anchor": null
         },
         {
           "header": "CJS-4.6 Class-scaled lane staffing and competency redundancy",
           "level": 3,
-          "line_start": 65,
-          "line_end": 76,
+          "line_start": 69,
+          "line_end": 80,
           "anchor": null
         },
         {
           "header": "CJS-4.7 Shared procedural abstractions for delegated bodies and forum routing",
           "level": 3,
-          "line_start": 77,
-          "line_end": 93,
+          "line_start": 81,
+          "line_end": 97,
           "anchor": null
         }
       ]

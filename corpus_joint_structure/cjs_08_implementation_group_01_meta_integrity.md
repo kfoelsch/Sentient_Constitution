@@ -127,7 +127,7 @@ Where **full** compliance is **not** maintainable: **prioritize** **Safety** and
 
 **Layer B — Integrity implementation labels (PRIM9–PRIM15)**
 The following integrity implementation labels operationalize and test the Meta-Integrity constraints above.
-Unless a section states otherwise, where cross-companion structural duties apply to the same facts, read **CJS-2.2**, **CJS-R19**, and **CJS-5.1** for joint interface requirements.
+Unless a section states otherwise, when cross-companion structural duties cover the same facts, read **CJS-2.2**, **CJS-R19** (*cross-companion integrity assurance and resilience operations*), and **CJS-5.1** for joint interface requirements.
 
 ---
 
