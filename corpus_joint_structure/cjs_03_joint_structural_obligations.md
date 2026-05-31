@@ -4,7 +4,7 @@
 - Topic-level routing and cited authorities remain in subsection text and cross-references.
 - Canonical owner map: **CJS-2.2** and `doc_architecture.md` section 4.
 
-These obligations apply **in addition to** domain-owner text in **CP**, **CS**, **CI**, and **CC**. They address **interlock failures**: each companion fragment looks satisfied in isolation, but the **combined effect** still undermines contestability, independence, traceability, or classification-scaled proportionality.
+These obligations apply **in addition to** domain-owner text in **CP**, **CS**, **CI**, and **CF**. They address **interlock failures**: each companion fragment looks satisfied in isolation, but the **combined effect** still undermines contestability, independence, traceability, or classification-scaled proportionality.
 
 ### CJS-3.1 When joint obligations apply
 **Joint obligations** apply where **CJS-2.2** assigns a **mandatory read-with** chain for a materially applicable topic, or where adopting instruments expressly incorporate the **CJS folder**.
@@ -17,19 +17,19 @@ Permitted **narrower interim** scopes (for example published emergency scopes) m
 ### CJS-3.3 Merits boundary for integrity, monitoring, and support roles
 **Contest-integrity monitoring**, **pathway performance monitoring**, **non-merits forensic support**, and **investigative support** must stay structurally distinct from **binding merits adjudication** under **Chapter Eight**, unless a **separate** lawful instrument explicitly authorizes limited merits participation for a named role.
 
-Institutions must **publish mandates** stating exclusions from merits decisions, reporting lines, cadence, and interfaces to assurance lanes. **Role merging** that lets oversight or support silently replace an assigned forum family’s merits function is **non-compliant**. (Operative detail: **CI-7.3**, **CC-7**, **CC-8**, the CJS implementation layer **PROT6**.)
+Institutions must **publish mandates** stating exclusions from merits decisions, reporting lines, cadence, and interfaces to assurance lanes. **Role merging** that lets oversight or support silently replace an assigned forum family’s merits function is **non-compliant**. (Operative detail: **CI-7.3**, **CF-7**, **CF-8**, the CJS implementation layer **PROT6**.)
 
 ### CJS-3.4 Institution-hosted or forum-adjacent operations
-Where an institution **hosts**, **budgets**, **administers**, or **technically operates** forum infrastructure, clerking, digital records, security, or personnel systems, its **CI-*** design must make **CC-*** independence and contestability **feasible in practice**, not only on paper, across **budget**, **HR**, **records**, **security**, and **procurement** lanes.
+Where an institution **hosts**, **budgets**, **administers**, or **technically operates** forum infrastructure, clerking, digital records, security, or personnel systems, its **CI-*** design must make **CF-*** independence and contestability **feasible in practice**, not only on paper, across **budget**, **HR**, **records**, **security**, and **procurement** lanes.
 
 ### CJS-3.5 Classification alignment for supervised scope
 Where **`corpus_systems.md`** **Chapter S2** or **Chapter S3** materially governs the same systems an institution supervises, published institutional maps (**CI-9.1A** and related **CI-9** material) must stay **consistent** with the **operative** systems implementation companion classification profile, including **reclassification triggers**. **Silent divergence** between institution-facing labels and systems implementation companion treatment is **non-compliant** where either layer assigns **material duties** from classification.
 
 ### CJS-3.6 Implementation-label traceability and stricter-wins discipline
-Where **CS** protocols or **CI**/**CC** procedures **cite** **PRIM/PROT** hooks as their authority basis, adopters must preserve **traceability** to those codes and must **not** use companion text to **weaken** the cited implementation label. Where a cited profile and a cited implementation label appear to conflict, use **Sentient Constitution Chapter Fifteen** conflict order and the **stricter clearly adopted** requirement (**CJS-2**, stricter-wins).
+Where **CS** protocols or **CI**/**CF** procedures **cite** **PRIM/PROT** hooks as their authority basis, adopters must preserve **traceability** to those codes and must **not** use companion text to **weaken** the cited implementation label. Where a cited profile and a cited implementation label appear to conflict, use **Sentient Constitution Chapter Fifteen** conflict order and the **stricter clearly adopted** requirement (**CJS-2**, stricter-wins).
 
 ### CJS-3.7 Mandatory hybrid authority composition (delegated binding bodies)
-This obligation applies where **CJS-R01** or **CJS-R02** materially applies: **delegated subunits** with materially binding authority under **`corpus_institutions.md` CI-9.1B**, and **forum chambers, divisions, or designated panels** under **`corpus_forum.md` CC-2.5** through **CC-2.5.4**. **`corpus_institutions.md`** and **`corpus_forum.md`** retain **identification**, **competence**, **class and forum-floor scaling**, **rotating attachment bounds**, **home-based term rules**, **appeals path**, **substitute capture safeguards** (**CI**), and **forum-specific** continuity doctrine; this subsection states the **shared hybrid minimum** so institutions and forums do not silently diverge on the same capture-control structure.
+This obligation applies where **CJS-R01** or **CJS-R02** materially applies: **delegated subunits** with materially binding authority under **`corpus_institutions.md` CI-9.1B**, and **forum chambers, divisions, or designated panels** under **`corpus_forum.md` CF-2.5** through **CF-2.5.4**. **`corpus_institutions.md`** and **`corpus_forum.md`** retain **identification**, **competence**, **class and forum-floor scaling**, **rotating attachment bounds**, **home-based term rules**, **appeals path**, **substitute capture safeguards** (**CI**), and **forum-specific** continuity doctrine; this subsection states the **shared hybrid minimum** so institutions and forums do not silently diverge on the same capture-control structure.
 
 Each relevant formation or chamber-creation instrument must operate a **mandatory published hybrid** that **combines** **home-based** authority and **rotating** authority. **Matter-by-matter designation** may supply the **rotating** pole where it replaces a standing rotating bench.
 
@@ -40,11 +40,11 @@ The instrument must state:
 
 Where ordinary lawful deciding bodies are **multi-member**, the instrument must show how **home-based** authority remains a **minority** on the deciding bench or body, unless the instrument instead adopts an **equivalent hybrid across stages** that is **reasoned** and **published**.
 
-**Home-based-only** or **rotating-only** composition is **non-compliant** for bodies within this subsection's scope that render **ordinarily binding** decisions, **except** during **published emergency** scopes permitted only under the **domain owner's** continuity and emergency rules (**parent institution** continuity rules and governing law for **CI**; **`corpus_forum.md` CC-11** and successor continuity rules for **Chapter Nine** forum families), **only** for the emergency scope, and **only** with **documented return** to the hybrid **baseline** when emergency conditions end.
+**Home-based-only** or **rotating-only** composition is **non-compliant** for bodies within this subsection's scope that render **ordinarily binding** decisions, **except** during **published emergency** scopes permitted only under the **domain owner's** continuity and emergency rules (**parent institution** continuity rules and governing law for **CI**; **`corpus_forum.md` CF-11** and successor continuity rules for **Chapter Nine** forum families), **only** for the emergency scope, and **only** with **documented return** to the hybrid **baseline** when emergency conditions end.
 
-Where **CI** and **CC** obligations overlap on the same structure, the **stricter** clearly adopted rule governs (**CJS-2**, stricter-wins).
+Where **CI** and **CF** obligations overlap on the same structure, the **stricter** clearly adopted rule governs (**CJS-2**, stricter-wins).
 
-**Mandatory read-with:** **`corpus_institutions.md` CI-9.1B.1**–**CI-9.1B.4**; **`corpus_forum.md` CC-2.5.1**–**CC-2.5.5** and **CC-11** as applicable; **`corpus_systems.md` Chapter S2** and **Chapter S3** where classification scales the body.
+**Mandatory read-with:** **`corpus_institutions.md` CI-9.1B.1**–**CI-9.1B.4**; **`corpus_forum.md` CF-2.5.1**–**CF-2.5.5** and **CF-11** as applicable; **`corpus_systems.md` Chapter S2** and **Chapter S3** where classification scales the body.
 
 ### CJS-3.7A Shared attachment and continuity mechanics
 Where **CJS-3.7** applies, rotating and home-based poles must follow these shared requirements:
@@ -55,14 +55,14 @@ Where **CJS-3.7** applies, rotating and home-based poles must follow these share
 - **Home-based continuity terms:** where home-based authority is used, the instrument must publish term, renewal, or stagger rules suited to continuity.
 - **No mirror requirement:** home-based term rules are not required to mirror rotating attachment formulas.
 
-Class-, forum-, and institution-specific scaling, assurance gates, emergency deviation controls, and substitution safeguards remain in domain-owner sections (**CI-9.1B**, **CC-2.5**, **CC-11**, and related cited hooks).
+Class-, forum-, and institution-specific scaling, assurance gates, emergency deviation controls, and substitution safeguards remain in domain-owner sections (**CI-9.1B**, **CF-2.5**, **CF-11**, and related cited hooks).
 
 ### CJS-3.8 Implementation companion boundary (CP ↔ CJS seam)
 The CJS implementation-group files supply the operative implementation text for their stable local labels. Those labels do not replace canonical constitutional definitions, Rights Floors, or owner-layer meanings elsewhere in the corpus.
 
 The **Cross-domain implementation layer** in the **CJS folder** is the **authoritative incorporated home** for **Implementation Groups One through Four** operative implementation text (meta-integrity through governance implementation labels).
 
-**Joint** structural obligations—where **two or more** of **CP** (implementation), **CS**, **CI**, and **CC** apply to the **same facts**—are stated in **CJS-2** and **CJS-3**. **CJS** joint requirements coordinate cross-companion interfaces; they do not replace **Implementation Groups One through Four** in the implementation section.
+**Joint** structural obligations—where **two or more** of **CP** (implementation), **CS**, **CI**, and **CF** apply to the **same facts**—are stated in **CJS-2** and **CJS-3**. **CJS** joint requirements coordinate cross-companion interfaces; they do not replace **Implementation Groups One through Four** in the implementation section.
 
 Where the CJS folder defines CJS-local operational structures in **OP-O/OP-E/OP-C** form, those structures are joint interface abstractions only. They do not replace the canonical substance of cited **PRIM/PROT** entries.
 
@@ -70,7 +70,7 @@ When revising **CP** (implementation):
 
 - keep **implementation-owned** requirements in the **Cross-domain implementation layer** files;
 - keep joint **read-with** restatements short—prefer **one-line** pointers to **CJS-3** (and **CJS-2.2** row IDs where that speeds navigation); and
-- preserve **PRIM**/**PROT** code labels so **CS**, **CI**, and **CC** citations stay traceable (**CJS-3.6**).
+- preserve **PRIM**/**PROT** code labels so **CS**, **CI**, and **CF** citations stay traceable (**CJS-3.6**).
 
 ### CJS-3.9 Cross-companion trust integrity (joint operation model)
 This subsection applies where **CJS-R17** materially applies, or where a **CJS-2.2** read-with chain jointly determines whether reliance is justified in practice.
@@ -90,7 +90,7 @@ Cross-companion trust claims must remain consistent with **CJS-3.2** (no false p
 When language in a CJS Tier 1 abstraction and a companion-owner Tier 2 section appears to conflict, resolve in this order:
 
 1. **Sentient Constitution** and **core definitions** (including **Chapter Fifteen** conflict order and canonical constitutional definitions).
-2. **Canonical owner meaning** for domain substance in **CP**, **CS**, **CI**, or **CC** as routed by **CJS-2.2** and `doc_architecture.md`.
+2. **Canonical owner meaning** for domain substance in **CP**, **CS**, **CI**, or **CF** as routed by **CJS-2.2** and `doc_architecture.md`.
 3. **CJS Tier 1 abstraction** for cross-companion joint trigger and interlock requirements.
 4. **Subsection-local shorthand** and drafting convenience text.
 
@@ -109,7 +109,7 @@ Lane design must also preserve a functional **role-density balance**. Assignment
 The constitutional floor remains in **[core_11-11_governance.md](../core_11-11_governance.md) Chapter Eleven**, section **5**. This subsection states joint structural requirements for cross-companion satisfaction only. Detailed role taxonomy, qualification controls, succession mechanics, and pathway-access design remain with domain owners in **CI-2**, **CI-4**, **CI-11**, and **CI-12**, read with **`corpus_systems.md` Chapter S2** and **Chapter S3**.
 
 ### CJS-3.12 Shared procedural abstractions for delegated bodies and forum routing
-This subsection supplies **Tier 1** cross-companion abstractions for **CJS-R01** through **CJS-R04**. It does not replace owner detail in **CI** or **CC**.
+This subsection supplies **Tier 1** cross-companion abstractions for **CJS-R01** through **CJS-R04**. It does not replace owner detail in **CI** or **CF**.
 
 For this subsection:
 
@@ -123,7 +123,7 @@ Minimum joint consequence:
 - It is **non-compliant** to treat a body or route as valid for joint-satisfaction claims if companion records do not make lawful authority, independence safeguards, and backup or contest pathways auditable where they materially apply.
 - It is **non-compliant** to treat representative-treatment outcomes as structurally valid when common-question framing is used to suppress material sentient-specific contest rights that remain required under owner rules.
 
-Owner detail remains canonical in **`corpus_institutions.md`** (including **CI-6**, **CI-8**, **CI-9.1B**) and **`corpus_forum.md`** (including **CC-3**, **CC-4**, **CC-5**).
+Owner detail remains canonical in **`corpus_institutions.md`** (including **CI-6**, **CI-8**, **CI-9.1B**) and **`corpus_forum.md`** (including **CF-3**, **CF-4**, **CF-5**).
 
 ### CJS-3.13 Cross-companion integrity assurance and resilience operations
 This subsection supplies a CJS-local operational cluster for cross-companion integrity assurance and resilience where **CJS-R19** materially applies. It is read with `core_05-05_definitions_a_independent.md` **Chapter Five** (*Auditability*, *Verifiability*, *Verification Accessibility*, *Reversibility*, *Dependency*, *Cascading Failure*, *Adversarial, Scaled, and Exploited Conditions*, *Trustworthiness*) and does not replace their canonical meaning.

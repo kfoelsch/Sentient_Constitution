@@ -1,7 +1,7 @@
 ## IMPLEMENTATION GROUP ONE: META-INTEGRITY
 Meta-integrity obligations are system-level obligations for all constitutional systems, including governance and institutions. They state the cross-domain floors for design, assessment, and evolution. Where they specify capabilities such as detection, attribution, mitigation, auditability, or adaptation, they require functional properties only.
 
-Meta-integrity obligations define **universal constitutional floors**. Joint satisfaction conditions for the same facts across the **CJS implementation-group files**, **CS**, **CI**, and **CC** are governed by the **CJS folder** (**CJS-2**, **CJS-3**) and do not create separate Meta-integrity obligation substance.
+Meta-integrity obligations define **universal constitutional floors**. Joint satisfaction conditions for the same facts across the **CJS implementation-group files**, **CS**, **CI**, and **CF** are governed by the **CJS folder** (**CJS-2**, **CJS-3**) and do not create separate Meta-integrity obligation substance.
 
 No implementation may weaken, bypass, or redefine Meta-integrity obligation constraints.
 

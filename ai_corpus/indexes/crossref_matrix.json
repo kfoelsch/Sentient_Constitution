@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/crossref_matrix.schema.json",
-  "generated_at": "2026-05-30T20:33:00+00:00",
+  "generated_at": "2026-05-31T00:21:54+00:00",
   "description": "Source-derived file-to-file Markdown reference graph.",
   "graph": {
     "nodes": [
@@ -3479,6 +3479,11 @@
         "targets": [
           {
             "file": "corpus_joint_structure/cjs_02_companion_integration_map.md",
+            "count": 1,
+            "anchors": []
+          },
+          {
+            "file": "corpus_systems.md",
             "count": 1,
             "anchors": []
           }

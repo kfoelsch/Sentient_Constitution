@@ -235,8 +235,8 @@ This subsection names **implementation-layer** trigger categories and routes so 
 
 **Routing (owner sections, not parallel doctrine):**
 - **Intake and triage** — **CI-5** mandatory detection requirements; protected channels and structural separation from subjects of allegation.
-- **Investigation and evidence custody** — **CI-7** / **CI-7A**; where forum or forensic support is primary, **`corpus_forum.md`** **CC-3**, **CC-7**, **CC-8**, and **CC-9** as applicable; **CI-7B** for technical dispute routing.
-- **Independence, recusal, and anti-self-judging** — **CI-2**, **CI-3**, **CI-6**; forum-side rules in **`corpus_forum.md`** **CC-3** and **CC-6** where adjudication is implicated.
+- **Investigation and evidence custody** — **CI-7** / **CI-7A**; where forum or forensic support is primary, **`corpus_forum.md`** **CF-3**, **CF-7**, **CF-8**, and **CF-9** as applicable; **CI-7B** for technical dispute routing.
+- **Independence, recusal, and anti-self-judging** — **CI-2**, **CI-3**, **CI-6**; forum-side rules in **`corpus_forum.md`** **CF-3** and **CF-6** where adjudication is implicated.
 - **Escalation across institutions** — **CI-8**; external assurance under **CI-7.2** where local independence is not credible.
 - **Institutional sanctions and role forfeiture** — **CI-11** and **CI-13** as this file already states; **not** a substitute for **Chapter Eight** slot-classification proceedings where those are the canonical route for the conduct class.
 
@@ -341,7 +341,7 @@ Where institutional governed scope includes **Class A** or **Class B** systems (
 
 **Outputs.** Findings must be **auditable**; **material** contest-integrity failures must feed **remediation** and may invoke **`INST-PROTO-17`**. Operational pattern and evidence expectations for this subsection are referenced as **`INST-PROTO-24`**.
 
-**Article XIII-A monitoring emphasis.** Where institutions exercise or supervise covert, secrecy-constrained, intelligence-like, or politically sensitive security powers, contest-integrity monitoring must explicitly test whether the Article XIII-A and **CC-8** pathways identified above function in practice. The monitor record must be sufficient to detect independence failure, protected-activity chill, secrecy-duration drift, unavailable lawful notice or disclosure pathways, and foreign, contractor, or inter-agency bypass of applicable limits without restating the underlying Article XIII-A rule set.
+**Article XIII-A monitoring emphasis.** Where institutions exercise or supervise covert, secrecy-constrained, intelligence-like, or politically sensitive security powers, contest-integrity monitoring must explicitly test whether the Article XIII-A and **CF-8** pathways identified above function in practice. The monitor record must be sufficient to detect independence failure, protected-activity chill, secrecy-duration drift, unavailable lawful notice or disclosure pathways, and foreign, contractor, or inter-agency bypass of applicable limits without restating the underlying Article XIII-A rule set.
 
 Where `core_09-09_forum.md` **Chapter Nine** requires **cross-forum anti-self-judging** routing, contest-integrity functions must preserve records sufficient to support **reasoned** transfer, recusal, and backup-forum activation. They must also preserve enough record to review whether the designated forum could form an **independent** panel. They must do so without displacing the assigned merits forum. See also **`corpus_joint_structure.md` CJS-3.3**.
 
@@ -351,7 +351,7 @@ Where `core_09-09_forum.md` **Chapter Nine** requires **cross-forum anti-self-ju
 
 **Joint read:** **`corpus_joint_structure.md` CJS-2.2** row **CJS-R07**; **CJS-3.3**, **CJS-3.4**.
 
-**Operative owner:** `corpus_forum.md` **CC-7**. Institutions that operate or support forum families must **satisfy CC-7 in full** (capacity, independence, contestability, and evidence-custody duties). **CJS-3.3** and **CJS-3.4** state joint requirements for separating contest-integrity monitoring (**CI-7.3**) from case-specific forensic support and for keeping forum-adjacent institutional design from narrowing **CC-7**.
+**Operative owner:** `corpus_forum.md` **CF-7**. Institutions that operate or support forum families must **satisfy CF-7 in full** (capacity, independence, contestability, and evidence-custody duties). **CJS-3.3** and **CJS-3.4** state joint requirements for separating contest-integrity monitoring (**CI-7.3**) from case-specific forensic support and for keeping forum-adjacent institutional design from narrowing **CF-7**.
 
 ---
 
@@ -359,7 +359,7 @@ Where `core_09-09_forum.md` **Chapter Nine** requires **cross-forum anti-self-ju
 
 **Joint read:** **`corpus_joint_structure.md` CJS-2.2** row **CJS-R08**; **CJS-3.3**, **CJS-3.4**.
 
-**Operative owner:** `corpus_forum.md` **CC-8**. Institutions exercising or supervising public-law enforcement power must **satisfy CC-8 in full**, including institutional distinctness from operational enforcement command and final merits adjudication, appointment and conflict design that supports **CC-8** independence, and prohibition on using foreign partners, private contractors, or parallel domestic bodies to bypass limits, approvals, or review channels that would apply to the same activity conducted directly. Where local independence is not credible (concentration, emergency incapacity, deadlock, or systemic capture indicators), escalate through **CI-8**, external assurance, or another lawful backup body **consistent with CC-8** (**CJS-R08**).
+**Operative owner:** `corpus_forum.md` **CF-8**. Institutions exercising or supervising public-law enforcement power must **satisfy CF-8 in full**, including institutional distinctness from operational enforcement command and final merits adjudication, appointment and conflict design that supports **CF-8** independence, and prohibition on using foreign partners, private contractors, or parallel domestic bodies to bypass limits, approvals, or review channels that would apply to the same activity conducted directly. Where local independence is not credible (concentration, emergency incapacity, deadlock, or systemic capture indicators), escalate through **CI-8**, external assurance, or another lawful backup body **consistent with CF-8** (**CJS-R08**).
 
 ---
 
@@ -367,7 +367,7 @@ Where `core_09-09_forum.md` **Chapter Nine** requires **cross-forum anti-self-ju
 
 **Joint read:** **`corpus_joint_structure.md` CJS-2.2** row **CJS-R09**; **CJS-3.3**.
 
-**Operative owner:** `corpus_forum.md` **CC-9**. Science, engineering, medical, or comparable technical forums must **satisfy CC-9 in full**, remain chambers or designated panels within **Chapter Nine** forum families, and must not displace primary-stakes routing. Institutions using shared cross-jurisdiction or cross-sector standards should treat technical forums as the principal reviewable standards-maintenance forum within lawful scope while leaving ordinary institution-facing enforcement to the lead forum family **Chapter Nine** assigns. Where disputes implicate publication suppression, replication denial, correction refusal, or manipulation of scientific standing, read **CC-9** together with **CI-15B**.
+**Operative owner:** `corpus_forum.md` **CF-9**. Science, engineering, medical, or comparable technical forums must **satisfy CF-9 in full**, remain chambers or designated panels within **Chapter Nine** forum families, and must not displace primary-stakes routing. Institutions using shared cross-jurisdiction or cross-sector standards should treat technical forums as the principal reviewable standards-maintenance forum within lawful scope while leaving ordinary institution-facing enforcement to the lead forum family **Chapter Nine** assigns. Where disputes implicate publication suppression, replication denial, correction refusal, or manipulation of scientific standing, read **CF-9** together with **CI-15B**.
 
 ---
 
@@ -429,7 +429,7 @@ Institutions must not rely on unlabeled, ad hoc, or selectively applied sector c
 ### CI-9.1B: Delegated subunits, institutional design class, and attachment discipline
 **Purpose.** This subsection generalizes internal delegation discipline—identification, authority-composition transparency, **anticipatable** bounds on **rotating** service, and published continuity rules for **home-based** roles—across institutions. It scales with **institutional design class** under this subsection.
 
-**Forum-specific detail** (families, routing, appeals, specialist chamber doctrine) remains in `corpus_forum.md` **CC-2** (including **CC-2.5** onward). Where **CC-2.5** through **CC-2.5.4** state forum-specific duties or illustrations, **CC** text governs for **Chapter Nine** tribunals. Where obligations overlap, the **stricter** applicable rule governs.
+**Forum-specific detail** (families, routing, appeals, specialist chamber doctrine) remains in `corpus_forum.md` **CF-2** (including **CF-2.5** onward). Where **CF-2.5** through **CF-2.5.4** state forum-specific duties or illustrations, **CF** text governs for **Chapter Nine** tribunals. Where obligations overlap, the **stricter** applicable rule governs.
 
 **Institutional design class (this subsection only).** Use the **highest** `corpus_systems.md` **Chapter S2 — System Classification and Handling** class among systems in the institution's **published governed scope** (including maps under **CI-9.1A**). Only **Class A**, **Class B**, and **Class C** are in range for the default scaling below.
 

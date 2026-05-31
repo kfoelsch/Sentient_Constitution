@@ -8,10 +8,10 @@
 | **CI-3** Authority custody | Approver and sole auditor for same transaction | Custody conflict | **CI-3** |
 | **CI-4** Appointment / removal | Hiring manager and sole misconduct fact-finder for same person | Appearance of bias | **CI-4** |
 | **CI-5** Integrity | Beneficiary and disclosure reviewer for same benefit | Financial / relational conflict | **CI-5** |
-| **CI-6** Procedure | Decision maker and sole appeals body for same case (where split required) | Structural bias | **CI-6** + **`corpus_forum.md`** **CC-3** / **CC-6** |
+| **CI-6** Procedure | Decision maker and sole appeals body for same case (where split required) | Structural bias | **CI-6** + **`corpus_forum.md`** **CF-3** / **CF-6** |
 | **CI-7** Assurance line | Operator and independent assurance on same control | Assurance capture | **CI-7** / **CI-7.2** |
-| **CI-7A** Forensic support | Investigator and merits judge (same matter) | Anti-self-judging | **CC-7** / **CC-8** |
-| **CI-7B** Technical forums | Expert advocate and same-chamber final adjudicator (same matter) | Technical capture | **CC-9** |
+| **CI-7A** Forensic support | Investigator and merits judge (same matter) | Anti-self-judging | **CF-7** / **CF-8** |
+| **CI-7B** Technical forums | Expert advocate and same-chamber final adjudicator (same matter) | Technical capture | **CF-9** |
 | **CI-8** Cross-institution escalation | Escalation receiver and original decision owner without firewall | Collapse of independence | **CI-8** |
 
-**Default:** three-lines model (**CI-7.1**); anti-self-judging for forums (**CC-6**); investigations structurally separate from subjects (**CI-5**, **CC-8**).
+**Default:** three-lines model (**CI-7.1**); anti-self-judging for forums (**CF-6**); investigations structurally separate from subjects (**CI-5**, **CF-8**).

@@ -104,7 +104,7 @@ Required gate conditions before any rename:
 | Anti-constitutional misconduct (final Violation Axis **s = 7, 8, and 9**; unified-incident gravity; due-process and cross-chapter discipline) | **Core** — Sentient Constitution Ch 8 (`core_08-08_misconduct.md`) | Ch 1–7, Ch 12–14 (change path); Ch 10 (rights, justice) |
 | Forums and jurisdiction (forum families, default venue, cross-forum anti-self-judging) | **Core** — Sentient Constitution Ch 9 (`core_09-09_forum.md`) | Ch 1–8, 10; Ch 12–14; owner corpus as needed |
 | Forum operations (panel formation, recusal, review lanes, forensic/investigative support, technical specialist forums, performance, continuity) | **Implementation companion** — `corpus_forum.md` | Sentient Constitution Ch 9, Art XII-B, Art XIV, Art XXI, Art XXII; `corpus_institutions.md`, `corpus_joint_structure.md`, and `corpus_systems.md` as needed |
-| Cross-companion joint structure (integration interfaces, joint requirements, read-with ordering among CP / CS / CI / CC; joint operational definitions that exist only at those interfaces) | **Implementation companion** — [corpus_joint_structure.md](corpus_joint_structure.md) wrapper plus `corpus_joint_structure/` subfiles | `corpus_systems.md`, `corpus_institutions.md`, `corpus_forum.md`; Sentient Constitution Ch 8–10 where applicable; implementation-label text in this companion does not own canonical constitutional definitions |
+| Cross-companion joint structure (integration interfaces, joint requirements, read-with ordering among CP / CS / CI / CF; joint operational definitions that exist only at those interfaces) | **Implementation companion** — [corpus_joint_structure.md](corpus_joint_structure.md) wrapper plus `corpus_joint_structure/` subfiles | `corpus_systems.md`, `corpus_institutions.md`, `corpus_forum.md`; Sentient Constitution Ch 8–10 where applicable; implementation-label text in this companion does not own canonical constitutional definitions |
 | Foundational Rights (Articles I–XXV) | **Core** — Sentient Constitution Ch 10 (`core_10-10_rights_part_a.md` through `core_10-10_rights_part_d.md`) | Ch 1–9 |
 | Constitutional contract, legitimacy, authorization, stewardship | **Core** — Sentient Constitution Ch 11 (`core_11-11_governance.md`) | Ch 1–10, Ch 12–14, `corpus_joint_structure.md`, `corpus_systems.md`, and `corpus_institutions.md` as needed |
 | Non-regression and substantive amendment validity | **Core** — Sentient Constitution Ch 12 (`core_12-14_amendment.md`) | Ch 1–11, 13–14; `corpus_joint_structure.md`, `corpus_systems.md`, and `corpus_institutions.md` as needed |
@@ -160,7 +160,7 @@ This subsection **pins** how “definitions” work across the corpus so editors
 - **Meta obligations** (trust, incentives, proxy metrics, failure integrity at system level): **corpus_joint_structure.md**, **Implementation Group One**, elaborated in full there; **Sentient Constitution Chapter Fifteen** is the **incorporation bridge** and must be read together with **Chapters 1, 6–10, and 11–13** as applicable. **Implementation Groups Two through Four** implement meta and domain obligations without redefining Ch 5 terms.
 - **Operational taxonomies** (data Types, system Classes, dependency types, steward tiers): **corpus_systems.md** Chapters **S1, S2, S3** only.
 - **Protocols and profiles**: **corpus_systems.md** Protocols A, B, S4, S5 — **instances** of upstream rules, not new definition homes.
-- **Joint operational definitions** (cross-companion interface terms that govern routing, interlock, overlap handling, shared-fact evaluation, or combined satisfaction across **CP / CS / CI / CC**): **corpus_joint_structure.md** only. These are operational and integrative, not canonical constitutional definitions. They must stay local to joint structure unless elevated into **Chapter Five** because they become cross-cutting constitutional meaning, or moved into a domain owner because they are actually single-file operational terms.
+- **Joint operational definitions** (cross-companion interface terms that govern routing, interlock, overlap handling, shared-fact evaluation, or combined satisfaction across **CP / CS / CI / CF**): **corpus_joint_structure.md** only. These are operational and integrative, not canonical constitutional definitions. They must stay local to joint structure unless elevated into **Chapter Five** because they become cross-cutting constitutional meaning, or moved into a domain owner because they are actually single-file operational terms.
 
 ### CJS operational-definition owner rule
 
@@ -169,7 +169,7 @@ This subsection **pins** how “definitions” work across the corpus so editors
 Use **CJS** for a term only when all of the following are true:
 
 1. the term has no stable meaning outside a cross-companion interface;
-2. the term regulates how **CP**, **CS**, **CI**, and/or **CC** interact rather than restating one file's local doctrine;
+2. the term regulates how **CP**, **CS**, **CI**, and/or **CF** interact rather than restating one file's local doctrine;
 3. the term is operational or integrative rather than constitutional in meaning;
 4. keeping it outside **CJS** would create duplicate interface language across multiple companion files.
 
@@ -177,7 +177,7 @@ Do **not** use **CJS** as the default home for:
 
 1. canonical constitutional terms or clustered traceability concepts that belong in **Sentient Constitution Chapter Five**;
 2. true reusable implementation labels or corpus-wide drafting patterns that belong in `corpus_joint_structure.md`;
-3. taxonomies, thresholds, procedures, or operational terms that are actually local to **CS**, **CI**, or **CC**.
+3. taxonomies, thresholds, procedures, or operational terms that are actually local to **CS**, **CI**, or **CF**.
 
 Escalation / relocation rule:
 
@@ -291,7 +291,7 @@ Use this sub-rule in **authoritative corpus** body text (`core_*.md`, `corpus_*.
 | Do not use (ambiguous) | Use instead |
 | --- | --- |
 | **Constitutional Systems** (bare label) | The linked file **[corpus_systems.md](corpus_systems.md)**. For a chapter or protocol within that file, cite it in full (for example **corpus_systems.md**, Chapter S1 — Information Types and Handling). The editor abbreviation `CS` remains acceptable in owner tables, stable IDs, and mermaid. The old bare label collides with ordinary English, other companions, and the filename. |
-| **`court` / `courts`** (Chapter Nine and **[corpus_forum.md](corpus_forum.md)** institutional sense) | **`forum` / `forums`**, **`forum family`** (for allocated routing and bodies), and explicit **[core_09-09_forum.md](core_09-09_forum.md)** / **`corpus_forum.md`** **CC-*** cross-references. Where a generic English label is still required, **adjudicative body**. Same exceptions as in **[.cursor/rules/sentient-constitution.mdc](.cursor/rules/sentient-constitution.mdc)** and this section: verbatim external quotations; proper names and historical titles where source fidelity requires; **courtesy** / **courteous** lemmas. |
+| **`court` / `courts`** (Chapter Nine and **[corpus_forum.md](corpus_forum.md)** institutional sense) | **`forum` / `forums`**, **`forum family`** (for allocated routing and bodies), and explicit **[core_09-09_forum.md](core_09-09_forum.md)** / **`corpus_forum.md`** **CF-*** cross-references. Where a generic English label is still required, **adjudicative body**. Same exceptions as in **[.cursor/rules/sentient-constitution.mdc](.cursor/rules/sentient-constitution.mdc)** and this section: verbatim external quotations; proper names and historical titles where source fidelity requires; **courtesy** / **courteous** lemmas. |
 | **`tribunal` / `tribunals`** (internal Chapter Nine / **[corpus_forum.md](corpus_forum.md)** governance sense) | **`forum` / `forums`**, **`forum family`**, **`panel`**, **`bench`**, or **`adjudicative body`** as context requires. Use external or historical **tribunal** wording only where source fidelity, proper titles, or external legal-order references require it. |
 
 Citing the systems implementation companion from the Sentient Constitution: use the naming pattern in [Citing corpus_systems.md from Sentient Constitution](#citing-corpus_systemsmd-from-sentient-constitution) (above in this file).

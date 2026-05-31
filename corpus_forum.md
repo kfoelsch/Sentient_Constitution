@@ -25,23 +25,23 @@ Shared preamble contract: apply `corpus_joint_structure.md` **CJS-1.1**.
 
 ## FORUMS REGISTRY (stable section families)
 
-- **CC-1** — Scope, authority, and boundary rules
-- **CC-2** — Forum formation, tribunal mapping, chambers, and minimum bench availability
-- **CC-3** — Panel formation, disclosure, recusal, and lawful bench constitution
-- **CC-4** — Routing operations, intake, transfer, certification, and representative treatment
-- **CC-5** — Appeal, secondary review, and exhaustion pathways (**CC-5.1** disposition effect codes **CC-5.1.101**–**CC-5.1.104**)
-- **CC-6** — Integrity safeguards, anti-capture operations, alignment recognition and review, and anti-self-judging support
-- **CC-7** — Forum forensic and analytical support
-- **CC-8** — Independent investigative service and prosecution interface
-- **CC-9** — Technical specialist forums and specialist chambers
-- **CC-10** — Forum performance, backlog requirements, publication timeliness, and accessibility (**CC-10.15** lived conditions during restriction — cross-layer)
-- **CC-11** — Forum continuity, fallback operation, and emergency adjudication
-- **CC-12** — Standard records, forms, and evidence artifacts
-- **CC-13** — Forum staffing, reserve capacity, shared administration, structural review, and structural records
+- **CF-1** — Scope, authority, and boundary rules
+- **CF-2** — Forum formation, tribunal mapping, chambers, and minimum bench availability
+- **CF-3** — Panel formation, disclosure, recusal, and lawful bench constitution
+- **CF-4** — Routing operations, intake, transfer, certification, and representative treatment
+- **CF-5** — Appeal, secondary review, and exhaustion pathways (**CF-5.1** disposition effect codes **CF-5.1.101**–**CF-5.1.104**)
+- **CF-6** — Integrity safeguards, anti-capture operations, alignment recognition and review, and anti-self-judging support
+- **CF-7** — Forum forensic and analytical support
+- **CF-8** — Independent investigative service and prosecution interface
+- **CF-9** — Technical specialist forums and specialist chambers
+- **CF-10** — Forum performance, backlog requirements, publication timeliness, and accessibility (**CF-10.15** lived conditions during restriction — cross-layer)
+- **CF-11** — Forum continuity, fallback operation, and emergency adjudication
+- **CF-12** — Standard records, forms, and evidence artifacts
+- **CF-13** — Forum staffing, reserve capacity, shared administration, structural review, and structural records
 
 ---
 
-## CC-1: Scope, authority, and boundary rules
+## CF-1: Scope, authority, and boundary rules
 
 **Constitutional index (abridged)**
 - Topic-level routing and cited authorities remain in subsection text and cross-references.
@@ -63,7 +63,7 @@ This file must not:
 
 ---
 
-## CC-2: Forum formation, tribunal mapping, and chamber structure
+## CF-2: Forum formation, tribunal mapping, and chamber structure
 
 This section governs how adopting systems convert the forum families recognized in `core_09-09_forum.md` **Chapter Nine** into actual tribunals, benches, chambers, and support structures.
 
@@ -74,32 +74,32 @@ It sets structural requirements for:
 - minimum availability of adjudicators and support sufficient to form lawful panels and preserve traceability;
 - chamber specialization and anti-collapse limits.
 
-Published intake priority classes, the intake triage body, and day-one filing routing expectations are governed by **CC-4**. Staffing composition frameworks, reserve and surge capacity, shared administration and objective assignment safeguards, periodic structural review, prohibited staffing and capacity patterns, and the structural governance record set are governed by **CC-13**.
+Published intake priority classes, the intake triage body, and day-one filing routing expectations are governed by **CF-4**. Staffing composition frameworks, reserve and surge capacity, shared administration and objective assignment safeguards, periodic structural review, prohibited staffing and capacity patterns, and the structural governance record set are governed by **CF-13**.
 
-This section does not itself govern panel assignment, recusal, lawful bench formation, backlog requirements, or emergency continuity. Those subjects are governed by **CC-3**, **CC-10**, and **CC-11**.
+This section does not itself govern panel assignment, recusal, lawful bench formation, backlog requirements, or emergency continuity. Those subjects are governed by **CF-3**, **CF-10**, and **CF-11**.
 
-### CC-2.1 Core structural rule
+### CF-2.1 Core structural rule
 Every adopting system must establish and maintain a published forum structure that:
 - gives operational effect to each forum family required by `core_09-09_forum.md` **Chapter Nine**;
 - makes family boundaries intelligible to filers, affected parties, and review bodies;
 - preserves independence, contestability, and traceability in actual tribunal design rather than by labels alone;
-- maintains enough qualified personnel and, as specified in **CC-13**, reserve and substitute capacity to keep the forum families functional in ordinary and stress conditions.
+- maintains enough qualified personnel and, as specified in **CF-13**, reserve and substitute capacity to keep the forum families functional in ordinary and stress conditions.
 
 **Practical flexibility:** Local forum names, internal organization, and administrative detail may differ from any model structure, as long as filers and review bodies can still see and use **each** forum family Chapter Eight requires—separate intake, panels where applicable, and appeal or review paths that match that family's role. **What is not allowed:** satisfying the rule only on paper—by renaming tribunals, redrawing chamber lines, or similar cosmetic moves—if the real effect is to merge or erase boundaries between families that the constitution treats as distinct.
 
-### CC-2.2 Family-to-tribunal translation map
+### CF-2.2 Family-to-tribunal translation map
 Each adopting system must publish a forum-structure map that states, in plain language:
 - which tribunal or set of tribunals performs the work of each constitutional forum family;
 - whether each family is organized as a single standing tribunal, multiple regional tribunals, a tiered set of tribunals, or another lawful arrangement;
 - which chambers, divisions, or designated panels exist within each family;
 - which matters are routed directly to a family-level tribunal and which may begin in a chamber or lower-level bench;
-- how each family's published intake priority classes and **intake triage body** (or equivalent under **CC-4.2**) connect initial filings to tribunals, chambers, or benches;
+- how each family's published intake priority classes and **intake triage body** (or equivalent under **CF-4.2**) connect initial filings to tribunals, chambers, or benches;
 - the appeal or review path for each family and chamber configuration;
 - the backup or fallback tribunal used when an ordinary forum cannot lawfully act.
 
 The map must be current, publicly accessible, and cross-referenced to the primary-stakes routing rules in `core_09-09_forum.md` **Chapter Nine**.
 
-### CC-2.3 Family distinction and non-collapse rule
+### CF-2.3 Family distinction and non-collapse rule
 Adopting instruments must preserve the distinct constitutional functions of the **Constitutional**, **Institutional**, **Sentient**, **Integrity**, and **Environment** forum families even where:
 - personnel overlap;
 - facilities, clerks, or digital systems are shared;
@@ -112,39 +112,39 @@ The following patterns are non-compliant unless adopted through constitutional a
 - using emergency, specialization, efficiency, or caseload pressures as a standing justification for family merger;
 - creating technical, commercial, security, or other specialist forums that operate as de facto sovereign families outside the Chapter Eight structure.
 
-### CC-2.4 Minimum structural availability by family
+### CF-2.4 Minimum structural availability by family
 Each required forum family must maintain, at minimum:
 
-- enough adjudicators to form lawful panels under **CC-3** without routine dependence on the same small recurring bench for all matters;
+- enough adjudicators to form lawful panels under **CF-3** without routine dependence on the same small recurring bench for all matters;
 - clerical, records, and scheduling support sufficient to preserve traceability and contestability;
 - access to translation, accessibility, and public-notice support where needed for meaningful use;
 - access to independent forensic, analytical, or technical support where that family's ordinary workload foreseeably requires it.
 
 No family may exist only on paper. If a family's work is assigned to a broader judiciary, the adopting system must still identify the concrete tribunals, benches, or judicial officers responsible for that family's functions.
 
-### CC-2.5 Chamber formation and limits
+### CF-2.5 Chamber formation and limits
 Forum families may create internal chambers, divisions, or designated panels to improve competence, speed, or consistency, but chamber structure must remain subordinate to family boundaries.
 
-**Institutional design class.** For **institutional design class** (including the **Class C** floor for specialist forums) and the **general** delegated-subunit pattern aligned with **CC-2.5** through **CC-2.5.4**, see `corpus_institutions.md` **CI-9.1B** and **`INST-PROTO-27`**. **CC-2.5** through **CC-2.5.4** remain **operative** for **Chapter Eight** forum families and chambers; where general and forum-specific rules overlap, the **stricter** rule governs.
+**Institutional design class.** For **institutional design class** (including the **Class C** floor for specialist forums) and the **general** delegated-subunit pattern aligned with **CF-2.5** through **CF-2.5.4**, see `corpus_institutions.md` **CI-9.1B** and **`INST-PROTO-27`**. **CF-2.5** through **CF-2.5.4** remain **operative** for **Chapter Eight** forum families and chambers; where general and forum-specific rules overlap, the **stricter** rule governs.
 
-### CC-2.5.1 Identification and competence
+### CF-2.5.1 Identification and competence
 Each chamber-creation instrument must state:
 - the family within which the chamber operates;
 - the chamber's subject-matter scope;
 - the competence profile expected for service in the chamber.
 
-### CC-2.5.2 Authority composition
-**Joint minimum.** Chamber-creation instruments in scope must satisfy **`corpus_joint_structure.md` CJS-3.7** (*Mandatory hybrid authority composition*). Read **CJS-3.7** with **CC-2.5.1**, **CC-2.5.3**, **CC-2.5.4**, and **CC-11** for identification, attachment bounds, home-based terms, and **forum** emergency deviation and return-to-baseline discipline.
+### CF-2.5.2 Authority composition
+**Joint minimum.** Chamber-creation instruments in scope must satisfy **`corpus_joint_structure.md` CJS-3.7** (*Mandatory hybrid authority composition*). Read **CJS-3.7** with **CF-2.5.1**, **CF-2.5.3**, **CF-2.5.4**, and **CF-11** for identification, attachment bounds, home-based terms, and **forum** emergency deviation and return-to-baseline discipline.
 
-### CC-2.5.3 Rotating authority: attachment bounds
+### CF-2.5.3 Rotating authority: attachment bounds
 Apply **`corpus_joint_structure.md` CJS-3.7A** for shared rotating-attachment requirements (bounded formula, no undefined duration discretion, and illustration status).
 
 **Suggested** guidance: treat **one calendar year** as the ordinary **maximum** for a single rotating attachment spell unless the instrument publishes a longer ceiling and a brief justification.
 
-### CC-2.5.4 Home-based authority: term and renewal
-Apply **`corpus_joint_structure.md` CJS-3.7A** for shared home-based continuity requirements (published term/renewal/stagger rules and no mirror requirement relative to rotating formulas). Forum-specific continuity and emergency controls remain in **CC-11**.
+### CF-2.5.4 Home-based authority: term and renewal
+Apply **`corpus_joint_structure.md` CJS-3.7A** for shared home-based continuity requirements (published term/renewal/stagger rules and no mirror requirement relative to rotating formulas). Forum-specific continuity and emergency controls remain in **CF-11**.
 
-### CC-2.5.5 Appeals and review path
+### CF-2.5.5 Appeals and review path
 Each chamber-creation instrument must state whether chamber rulings are appealable within the same family, directly to another family only on certified questions, or through another published review path consistent with Chapter Eight.
 
 Chambers must not:
@@ -153,20 +153,20 @@ Chambers must not:
 - hold themselves out as a separate constitutional forum family;
 - use specialization to reduce challenge rights, publication duties, or independence safeguards.
 
-### CC-2.6 Specialist and technical chamber discipline
+### CF-2.6 Specialist and technical chamber discipline
 Where adopting instruments create technical, scientific, engineering, medical, security-sensitive, commercial, electoral, environmental, or other specialist chambers, the creating instrument must explain why chamber-level specialization is needed and why family-level reassignment is not constitutionally required.
 
 Specialist chambers must:
 - remain reviewable and contestable within the constitutional family structure;
 - use published entry criteria rather than ad hoc prestige, patronage, or opaque expertise claims;
 - preserve generalist participation or review where exclusive specialist control would create capture or methodological monoculture;
-- coordinate with **CC-9** where the chamber exercises technical-forum functions.
+- coordinate with **CF-9** where the chamber exercises technical-forum functions.
 
 Specialization must add competence without creating an insulated guild tribunal.
 
 ---
 
-## CC-3: Panel formation, disclosure, recusal, and lawful bench constitution
+## CF-3: Panel formation, disclosure, recusal, and lawful bench constitution
 
 This section governs:
 - selection of a lawful and independent panel;
@@ -177,7 +177,7 @@ This section governs:
 
 This section does not alter primary-stakes routing, constitutional family boundaries, or merits standards.
 
-### CC-3.1 Lawful panel definitions
+### CF-3.1 Lawful panel definitions
 For this section:
 
 - `lawful panel` means a bench formed under published authority, with the required competence, quorum, independence, and conflict screening for the matter at issue.
@@ -187,7 +187,7 @@ For this section:
 
 For cross-companion interoperability, read these local definitions with `corpus_joint_structure.md` **CJS-3.12** (Tier 1 abstractions for delegated bodies, lawful independent forums, backup activation, and representative treatment).
 
-### CC-3.2 Minimum lawful-panel requirements
+### CF-3.2 Minimum lawful-panel requirements
 Every forum family must maintain a published panel-formation rule set that states:
 - the minimum and ordinary panel size by matter type;
 - the quorum rule for action;
@@ -199,7 +199,7 @@ Every forum family must maintain a published panel-formation rule set that state
 
 No tribunal may treat a panel as lawful merely because enough sentients are available numerically. Competence, independence, and conflict screening are mandatory parts of lawful constitution.
 
-### CC-3.3 Publication and pre-assignment transparency
+### CF-3.3 Publication and pre-assignment transparency
 Each forum family must publish:
 - how members are drawn or assigned;
 - which categories of expertise are required for designated chambers;
@@ -212,7 +212,7 @@ Where public pre-disclosure of a proposed panel would foreseeably create a mater
 - disclosure occurs as soon as the immediate risk materially subsides,
 - affected parties retain a practical opportunity to raise recusal or panel-formation objections.
 
-### CC-3.4 Mandatory disclosures before merits participation
+### CF-3.4 Mandatory disclosures before merits participation
 Before material merits participation, every proposed panel member must disclose any known circumstance that could reasonably create a material question about impartiality, including:
 - financial or professional interest in the outcome;
 - close relational connection to a party, witness, counsel, investigator, or materially interested institution;
@@ -223,7 +223,7 @@ Before material merits participation, every proposed panel member must disclose 
 
 The disclosure record must be preserved even if the member ultimately serves.
 
-### CC-3.5 Recusal triggers
+### CF-3.5 Recusal triggers
 Recusal is required where:
 - conflict is material under `corpus_institutions.md` **CI-5**;
 - impartiality is reasonably contested under `corpus_institutions.md` **CI-4**;
@@ -232,7 +232,7 @@ Recusal is required where:
 - the matter triggers Chapter Eight cross-forum anti-self-judging protection and the proposed member is part of the compromised chain;
 - service would create a reasonable appearance that the tribunal is judging its own concealed bias, capture, recusal failure, or process abuse without a sufficiently independent bench.
 
-### CC-3.6 Recusal challenge workflow
+### CF-3.6 Recusal challenge workflow
 Affected parties must have a practical path to challenge:
 - non-disclosed conflict,
 - inadequate disclosure,
@@ -249,7 +249,7 @@ The challenge workflow must include:
 
 Where urgency requires temporary action before the challenge is finally resolved, the record must state why delay would materially jeopardize rights, safety, evidence, or remedy.
 
-### CC-3.7 Strategic or abusive recusal
+### CF-3.7 Strategic or abusive recusal
 Institutions must not use recusal as a covert tool for:
 - outcome shopping,
 - delay creation,
@@ -259,7 +259,7 @@ Institutions must not use recusal as a covert tool for:
 
 Repeated or strategic recusal abuse remains non-compliant under `corpus_institutions.md` **CI-4** and must trigger corrective or removal review. The forum system must require a separate record when recusal patterns suggest coordinated manipulation or systematic inability to form independent panels in a given class of dispute.
 
-### CC-3.8 Replacement and substitute selection
+### CF-3.8 Replacement and substitute selection
 When a member is recused, unavailable, disqualified, or otherwise unable to serve, substitute selection must follow a published order that:
 - preserves family and chamber competence;
 - minimizes discretionary case-specific hand-picking;
@@ -269,7 +269,7 @@ When a member is recused, unavailable, disqualified, or otherwise unable to serv
 
 If no substitute satisfies these requirements within the designated lead family, the tribunal must proceed to an inability-to-form review.
 
-### CC-3.9 Inability to form an independent panel
+### CF-3.9 Inability to form an independent panel
 An `inability to form an independent panel` exists when the designated lead family cannot, within the required time and published selection order, constitute a lawful merits bench because of:
 - material conflict concentration;
 - recusal or disqualification cascade;
@@ -287,7 +287,7 @@ This finding may not be inferred silently. It requires an attributable written r
 - whether backup routing is mandatory under Chapter Eight;
 - who certified the record and when.
 
-### CC-3.10 Certifier for inability-to-form findings
+### CF-3.10 Certifier for inability-to-form findings
 Each forum family must designate in published rules who can certify inability-to-form findings.
 
 The certifier must:
@@ -298,7 +298,7 @@ The certifier must:
 
 For cross-forum anti-self-judging cases, the certifier should, where feasible, include or be reviewed by contest-integrity or equivalent independent assurance capacity under `corpus_institutions.md` **CI-7.3** without displacing the merits forum assignment rules.
 
-### CC-3.11 Backup-forum activation
+### CF-3.11 Backup-forum activation
 Where Chapter Eight makes backup routing available, activation is mandatory when:
 - a documented inability-to-form finding exists in the designated lead family;
 - the lead family is materially compromised by capture, recusal failure, concealment, or comparable integrity breach;
@@ -313,7 +313,7 @@ Backup activation must be:
 
 Backup activation does not authorize silent recharacterization of the case's primary stakes.
 
-### CC-3.12 Interim relief while panel independence is disputed
+### CF-3.12 Interim relief while panel independence is disputed
 If a fully independent merits panel cannot yet be formed, a provisional authority may issue only those interim orders strictly necessary to:
 - preserve life or baseline safety,
 - prevent evidence destruction,
@@ -325,7 +325,7 @@ Any such interim authority must:
 - explain why ordinary panel formation could not be completed first;
 - remain subject to prompt review by a lawful and independent panel or backup forum.
 
-### CC-3.13 Required records for panel formation and recusal
+### CF-3.13 Required records for panel formation and recusal
 At minimum, each forum family must maintain templates for:
 - panel-formation record;
 - member disclosure record;
@@ -343,35 +343,35 @@ These records must be retained in a way that supports:
 
 ---
 
-## CC-4: Routing operations, transfer, certification, and representative treatment
+## CF-4: Routing operations, transfer, certification, and representative treatment
 
 **Constitutional index (abridged)**
 - Topic-level routing and cited authorities remain in subsection text and cross-references.
 - Canonical owner map: `corpus_joint_structure.md` **CJS-2.2** and `doc_architecture.md` section 4.
 
 This section operationalizes Chapter Eight. It governs:
-- published intake classes and intake triage (**CC-4.1**, **CC-4.2**);
+- published intake classes and intake triage (**CF-4.1**, **CF-4.2**);
 - routing decision procedures;
 - mixed-stakes tie-break workflow;
 - transfer and certification order requirements;
 - consolidation rules;
 - representative-treatment procedure requirements;
 - recordkeeping and publication for routing changes;
-- coordination interfaces for **Integrity** forum **alignment** rulings (**CC-6**) where routing and referral sequencing intersect intake and certification.
+- coordination interfaces for **Integrity** forum **alignment** rulings (**CF-6**) where routing and referral sequencing intersect intake and certification.
 
 This section must implement, and not alter, the primary-stakes rule in `core_09-09_forum.md` **Chapter Nine**.
 
-**Chapter Nine linkage.** **Per-family intake triage bodies** are constitutionally required in **Chapter Eight**, **section 5** (together with **default venue** in **section 2**, **forensic and analytical support** in **section 3**, and **transfer**, **consolidation**, **certification**, and **backup** discipline in **sections 6 and 7**); they are **not** a separate forum family. **CC-4.1**–**CC-4.2** operationalize that requirement and its **non-substitution** boundary for **merits** panels.
+**Chapter Nine linkage.** **Per-family intake triage bodies** are constitutionally required in **Chapter Eight**, **section 5** (together with **default venue** in **section 2**, **forensic and analytical support** in **section 3**, and **transfer**, **consolidation**, **certification**, and **backup** discipline in **sections 6 and 7**); they are **not** a separate forum family. **CF-4.1**–**CF-4.2** operationalize that requirement and its **non-substitution** boundary for **merits** panels.
 
-### CC-4.1 Published intake classes
+### CF-4.1 Published intake classes
 Each required forum family must publish an intake path that, at minimum:
 - distinguishes **at least three** priority or urgency classes for matters within the family's constitutional scope;
 - permits **adding or recalibrating** further classes when caseload volume, matter mix, backlog risk, or foreseeable stress on the family materially warrants finer sorting for timeliness, rights protection, or contest integrity;
 - describes each class in plain language, including routing expectations, service expectations where applicable, and escalation routes **between** classes when facts or stakes change materially.
 
-### CC-4.2 Intake triage body
+### CF-4.2 Intake triage body
 Each required forum family must publish an **intake triage body**, or a functionally equivalent arrangement with the same duties, independence expectations, and contestability. That body or arrangement must, at minimum:
-- sort incoming matters into the published classes under **CC-4.1**;
+- sort incoming matters into the published classes under **CF-4.1**;
 - flag preservation, Rights-Floor, cross-family routing, and backup-forum needs;
 - maintain attributable intake records sufficient for review;
 - **not** substitute for lawfully constituted merits panels on substantive outcomes;
@@ -379,7 +379,7 @@ Each required forum family must publish an **intake triage body**, or a function
 
 ---
 
-## CC-5: Appeal, secondary review, and exhaustion pathways
+## CF-5: Appeal, secondary review, and exhaustion pathways
 
 This section governs:
 - minimum appellate or secondary-review lane structure;
@@ -387,27 +387,27 @@ This section governs:
 - emergency review lanes;
 - exhaustion vs direct-access rules where adopting law uses both; and
 - review windows proportionate to urgency and impact;
-- disposition-effect coding for merits outcomes that may bind later panels or populations (**CC-5.1**).
+- disposition-effect coding for merits outcomes that may bind later panels or populations (**CF-5.1**).
 
-### CC-5.1 Disposition effect classification (numeric codes)
+### CF-5.1 Disposition effect classification (numeric codes)
 
 **Usage.** Adopting instruments should classify dispositions that materially affect later panels, institutions, or multi-party systems using the **corpus-local numeric codes** in this subsection. Each code states **how far a disposition travels** as a horizontal or vertical stabilizer. These labels are **not** **PRIM**/**PROT** implementation label codes, **not** data-type or system-class labels from `corpus_systems.md` (**Chapter S1–S3** or successor numbering), and **not** institutional **CI-** anchors from `corpus_institutions.md`; they apply only to **forum disposition effect** documentation and review routing.
 
-**CC-5.1.101 — Party-bound effect.** The determination binds the parties before the tribunal on the issues decided, including ordinary **issue preclusion** effects adopting law assigns, but does **not** by itself establish a published rule for unrelated matters. This is the default classification for routine inter-partes outcomes unless the record states another **CC-5.1** code with broader reach.
+**CF-5.1.101 — Party-bound effect.** The determination binds the parties before the tribunal on the issues decided, including ordinary **issue preclusion** effects adopting law assigns, but does **not** by itself establish a published rule for unrelated matters. This is the default classification for routine inter-partes outcomes unless the record states another **CF-5.1** code with broader reach.
 
-**CC-5.1.102 — Scope-anchored effect.** The determination binds or governs a **class**, **subclass**, **common practice**, **common decision rule**, or comparable **shared** stake, including representative proceedings authorized under `core_09-09_forum.md` **Chapter Nine**, **section 6** (*Scope expansion and representative treatment*). **High-impact, Rights-Floor, constitutional, or structurally precedential** determinations referenced in the **Minimum lane structure** rule in this section ordinarily carry at least **CC-5.1.102** when they materially extend beyond the named parties in the caption.
+**CF-5.1.102 — Scope-anchored effect.** The determination binds or governs a **class**, **subclass**, **common practice**, **common decision rule**, or comparable **shared** stake, including representative proceedings authorized under `core_09-09_forum.md` **Chapter Nine**, **section 6** (*Scope expansion and representative treatment*). **High-impact, Rights-Floor, constitutional, or structurally precedential** determinations referenced in the **Minimum lane structure** rule in this section ordinarily carry at least **CF-5.1.102** when they materially extend beyond the named parties in the caption.
 
-**CC-5.1.103 — Published panel-rule effect.** The determination publishes an **intra-family** (or expressly stated **cross-family**) rule, threshold placement, or disposition pattern that other **lawful merits panels** in the same adopting system must treat as **presumptive** until **reasoned departure** on a reviewable record, consistent with **meaningfully independent** review where **CC-5** requires it and with panel-formation discipline in **CC-3**. Departure mechanics must be **published**; unexplained inconsistency across panels in the same class of dispute is presumptively non-compliant unless a **published coordination rule** explains the divergence.
+**CF-5.1.103 — Published panel-rule effect.** The determination publishes an **intra-family** (or expressly stated **cross-family**) rule, threshold placement, or disposition pattern that other **lawful merits panels** in the same adopting system must treat as **presumptive** until **reasoned departure** on a reviewable record, consistent with **meaningfully independent** review where **CF-5** requires it and with panel-formation discipline in **CF-3**. Departure mechanics must be **published**; unexplained inconsistency across panels in the same class of dispute is presumptively non-compliant unless a **published coordination rule** explains the divergence.
 
-**CC-5.1.104 — Technical shared-standard effect.** The operative stabilizer is a **shared technical or expert-evidence standard** maintained or recognized under **CC-9**, including the **Departure and variance rule** and **Cross-jurisdiction recognition presumption** in that section. Use **CC-5.1.104** when the binding or presumptive force runs through technical standard architecture rather than through a general **CC-5.1.103** panel rule alone. Lead tribunals may still state **CC-5.1.103** concurrently when they publish a non-technical disposition pattern that depends on a **CC-9** standard.
+**CF-5.1.104 — Technical shared-standard effect.** The operative stabilizer is a **shared technical or expert-evidence standard** maintained or recognized under **CF-9**, including the **Departure and variance rule** and **Cross-jurisdiction recognition presumption** in that section. Use **CF-5.1.104** when the binding or presumptive force runs through technical standard architecture rather than through a general **CF-5.1.103** panel rule alone. Lead tribunals may still state **CF-5.1.103** concurrently when they publish a non-technical disposition pattern that depends on a **CF-9** standard.
 
-**Recordkeeping.** Where a disposition carries **CC-5.1.102**, **CC-5.1.103**, or **CC-5.1.104**, the attributable record must identify the code(s), the **population or panel scope** covered, any **sunset or review cadence**, and the **published path** for challenge, certification, appeal, or standards reconsideration, consistent with **Rights-collision records** elsewhere in this section where applicable.
+**Recordkeeping.** Where a disposition carries **CF-5.1.102**, **CF-5.1.103**, or **CF-5.1.104**, the attributable record must identify the code(s), the **population or panel scope** covered, any **sunset or review cadence**, and the **published path** for challenge, certification, appeal, or standards reconsideration, consistent with **Rights-collision records** elsewhere in this section where applicable.
 
 **Core rule.** Every forum family must preserve a practical path to review materially impactful determinations. Review design must be intelligible to affected parties, usable without unreasonable procedural barriers, and strong enough to correct material error before remedy becomes meaningless.
 
 **Minimum lane structure.**
 - Ordinary merits determinations must have a published review path.
-- High-impact, Rights-Floor, constitutional, or structurally precedential determinations must have access to a review body that is meaningfully independent of the original decision-maker. The attributable record must state the applicable **CC-5.1.101**–**CC-5.1.104** code(s) from **CC-5.1**; the default expectation for this bullet is at least **CC-5.1.102** unless adopting law expressly treats the outcome as party-bound only.
+- High-impact, Rights-Floor, constitutional, or structurally precedential determinations must have access to a review body that is meaningfully independent of the original decision-maker. The attributable record must state the applicable **CF-5.1.101**–**CF-5.1.104** code(s) from **CF-5.1**; the default expectation for this bullet is at least **CF-5.1.102** unless adopting law expressly treats the outcome as party-bound only.
 - Emergency or imminent-harm matters must have an expedited interim-review lane.
 - Restricted-evidence matters must preserve a lawful route for scope, secrecy, access, and later merits review without turning secrecy alone into practical unreviewability.
 
@@ -457,7 +457,7 @@ Omission of a materially required element makes the corrective measure or restri
 
 ---
 
-## CC-6: Integrity safeguards, anti-capture operations, and anti-self-judging support
+## CF-6: Integrity safeguards, anti-capture operations, and anti-self-judging support
 
 **Constitutional index (abridged)**
 - Topic-level routing and cited authorities remain in subsection text and cross-references.
@@ -465,9 +465,9 @@ Omission of a materially required element makes the corrective measure or restri
 
 **Chapter Nine linkage.** `core_09-09_forum.md` **Chapter Nine**, **section 4** authorizes **Integrity** forum **alignment** rulings, official **constitutional alignment recognition and review** for new and existing systems, **Environment** forum environmental-alignment component review where material ecological exposure exists, and **supervisory coordination**; **section 6** states **integrity-led alignment coordination** with **other** forum families; **section 7** limits **alignment** rulings that would establish **general** doctrine and requires records for system recognition and revalidation. This section operationalizes those interfaces **without** relocating constitutional routing to this file.
 
-### CC-6.1 Alignment rulings, component referral, and supervisory coordination
+### CF-6.1 Alignment rulings, component referral, and supervisory coordination
 
-**Purpose.** Give adopting systems practical, reviewable mechanics so **Integrity** forums can **diagnose** **interlocking** **misalignment**, **retain** **one** **lead** **record**, **refer** **component** issues to the **constitutionally** **correct** **merits** forum, and **coordinate** **neutral** **implementation** — consistent with **CC-7** (forensic support), **CC-8** (independent investigation interfaces where enforcement fact-development is implicated), and **CC-4** (routing, certification, and publication).
+**Purpose.** Give adopting systems practical, reviewable mechanics so **Integrity** forums can **diagnose** **interlocking** **misalignment**, **retain** **one** **lead** **record**, **refer** **component** issues to the **constitutionally** **correct** **merits** forum, and **coordinate** **neutral** **implementation** — consistent with **CF-7** (forensic support), **CF-8** (independent investigation interfaces where enforcement fact-development is implicated), and **CF-4** (routing, certification, and publication).
 
 **Alignment ruling record.** An **alignment** ruling must be **attributable** and **reviewable** and must identify, at minimum:
 - the **integrity** findings that are **binding** before the **Integrity** tribunal;
@@ -478,17 +478,17 @@ Omission of a materially required element makes the corrective measure or restri
 
 **Referral priority publication.** Adopting instruments must publish **tie-break** rules for **ordering** **component** referrals and **overlapping** **urgency** — **without** displacing **primary-stakes** assignment of **merits**. Published criteria must account for **Rights-Floor** **urgency**, **irreversible** **harm** risk, **classification** or **compliance** **dependency** where **Chapter Six** is implicated, **evidentiary** **decay** or **preservation** **need**, and **practical** **resolution** **sequence**. **Opaque** or **caption-driven** sorting at the referral threshold is presumptively non-compliant.
 
-**Neutral coordination role.** **Supervisory coordination** applies the `corpus_joint_structure.md` **CJS-3.3** merits-boundary rule to **forum-managed** **stays**, **sequencing**, **status** review, and **milestone** **accountability**. It is **not** partisan **advocacy** for a party outcome and **not** a substitute for **prosecutorial**, **institutional**, or **investigative** **merits** bodies where those roles are lawfully distinct under **CC-8** and `corpus_institutions.md`.
+**Neutral coordination role.** **Supervisory coordination** applies the `corpus_joint_structure.md` **CJS-3.3** merits-boundary rule to **forum-managed** **stays**, **sequencing**, **status** review, and **milestone** **accountability**. It is **not** partisan **advocacy** for a party outcome and **not** a substitute for **prosecutorial**, **institutional**, or **investigative** **merits** bodies where those roles are lawfully distinct under **CF-8** and `corpus_institutions.md`.
 
 **Merits boundaries.** **Integrity** tribunals **must** **not** issue **final** **merits** determinations **reserved** to **another** family's **primary** question — including **constitutional** validity and **class-wide** **structural** remedy — except where **Chapter Nine** assigns that **primary** stake to **Integrity** forums. Tribunals receiving **referrals** exercise **their** **lawful** **merits** authority and **must** treat **binding** **integrity** findings and **coordination** orders on the **lead** **Integrity** record as **lawful** **inputs** under **certification**, **issue** **preclusion**, **stay**, and **sequencing** rules — **without** **collateral** **re-litigation** of those findings **outside** **published** review paths.
 
-**Disposition effect labeling.** Where an **alignment** ruling materially stabilizes outcomes beyond the named parties, adopting instruments should identify the applicable **CC-5.1** effect code(s) — ordinarily at least **CC-5.1.102** when **pattern** or **shared-practice** stakes are material — and must **not** silently treat **alignment** rulings as **CC-5.1.103** **general** panel-rule doctrine when **constitutional** **certification** under `core_09-09_forum.md` **Chapter Nine**, **section** **7** is **required**.
+**Disposition effect labeling.** Where an **alignment** ruling materially stabilizes outcomes beyond the named parties, adopting instruments should identify the applicable **CF-5.1** effect code(s) — ordinarily at least **CF-5.1.102** when **pattern** or **shared-practice** stakes are material — and must **not** silently treat **alignment** rulings as **CF-5.1.103** **general** panel-rule doctrine when **constitutional** **certification** under `core_09-09_forum.md` **Chapter Nine**, **section** **7** is **required**.
 
-### CC-6.1A Constitutional alignment recognition and review
+### CF-6.1A Constitutional alignment recognition and review
 
 **Purpose.** Provide official, contestable forum mechanics for recognizing new materially impactful systems as constitutionally aligned within a stated scope, and for validating whether existing systems remain aligned over time. This subsection implements `core_09-09_forum.md` **Chapter Nine**, **sections 4, 6, and 7**, and works with `corpus_systems.md` **Protocol A** and **Chapter S2** classification and revalidation duties.
 
-**Technical-specification and environmental-component separation.** **Technical specialist forums** under **CC-9** maintain the technical specifications, measurement methods, test protocols, expert-evidence standards, and domain-specific criteria used in system-alignment assessment. **Environment** forums hold environmental-alignment component review where material ecological exposure, environmental-precondition dependency, lifecycle burden, restoration duty, or reasonably foreseeable ecological risk exists. **Integrity** forums make the official constitutional alignment recognition, validation, revalidation, and remediation-supervision record. Integrity forums must use technical-forum standards where materially applicable, may certify technical questions to the proper technical forum, and must not rewrite technical specifications as a substitute for referral. Integrity forums must obtain and record the Environment forum's environmental-alignment approval, conditional approval, objection, remediation requirement, or release-from-condition finding where material ecological exposure exists. Technical forums must not treat specification maintenance or technical adequacy findings as final constitutional alignment recognition unless `core_09-09_forum.md` independently assigns that primary stake to them.
+**Technical-specification and environmental-component separation.** **Technical specialist forums** under **CF-9** maintain the technical specifications, measurement methods, test protocols, expert-evidence standards, and domain-specific criteria used in system-alignment assessment. **Environment** forums hold environmental-alignment component review where material ecological exposure, environmental-precondition dependency, lifecycle burden, restoration duty, or reasonably foreseeable ecological risk exists. **Integrity** forums make the official constitutional alignment recognition, validation, revalidation, and remediation-supervision record. Integrity forums must use technical-forum standards where materially applicable, may certify technical questions to the proper technical forum, and must not rewrite technical specifications as a substitute for referral. Integrity forums must obtain and record the Environment forum's environmental-alignment approval, conditional approval, objection, remediation requirement, or release-from-condition finding where material ecological exposure exists. Technical forums must not treat specification maintenance or technical adequacy findings as final constitutional alignment recognition unless `core_09-09_forum.md` independently assigns that primary stake to them.
 
 **Triggering events.** Alignment recognition or review must be available when any of the following materially applies:
 - a new system seeks constitutional recognition, incorporation, deployment approval, reliance by a public or critical steward, or other official status within an adopting order;
@@ -521,7 +521,7 @@ Omission of a materially required element makes the corrective measure or restri
 
 **No permanent certificate.** Recognition is scope-bound and time-bound by its stated cadence and reopening triggers. Material change, newly discovered evidence, stakeholder challenge, incident history, dependency growth, or classification drift reopens review without requiring proof that the original recognition was bad faith.
 
-### CC-6.2 Anti-self-judging activation, capture-sensitive routing, and contest-integrity interfaces
+### CF-6.2 Anti-self-judging activation, capture-sensitive routing, and contest-integrity interfaces
 
 This subsection remains the operational home for:
 - anti-self-judging activation records;
@@ -539,7 +539,7 @@ It must work together with:
 
 ---
 
-## CC-7: Forum forensic and analytical support
+## CF-7: Forum forensic and analytical support
 
 Where institutions operate or support **forum** families under `core_09-09_forum.md` **Chapter Nine**, they must maintain or provide access to **independent forensic and analytical capacity**. That capacity must be sufficient for disputes involving **material uncertainty**, **technical opacity**, **restricted evidence**, or **causal complexity**.
 
@@ -564,7 +564,7 @@ Where institutions operate or support **forum** families under `core_09-09_forum
 
 ---
 
-## CC-8: Independent investigative service and prosecution interface
+## CF-8: Independent investigative service and prosecution interface
 
 Where institutions exercise or supervise **civil**, **criminal**, **constitutional**, or comparable public-law enforcement power, they must maintain or provide access to an **independent investigative service** with authority sufficient to develop facts for charging, civil enforcement, protective orders, administrative sanction, or adjudication support within lawful scope.
 
@@ -589,7 +589,7 @@ Where institutions exercise or supervise **civil**, **criminal**, **constitution
 
 **Independence and appointment.** Appointment, removal protection, conflict screening, recusal, and challenge pathways must satisfy `corpus_institutions.md` **CI-4** and **CI-5**. For materially sensitive or high-impact scopes, institutions should use mixed appointment, fixed terms, transparent qualification criteria, and external participation sufficient to reduce dependence on any single operational appointing chain.
 
-**Protected investigations and rights.** Investigative restrictions, delayed notice, compartmentalization, sealed steps, protected-activity handling, and remedy for tainted collection remain governed by `core_10-10_rights_part_c.md` **Article XIII-A**, `core_05-05_definitions_a_independent.md` **Chapter Five** (*Necessity*, *Proportionality*, *Oversight*, *Accountability*, *Transparency*) and [Evidence Preservation](core_05-05_definitions_c_dependent_clusters.md#evidence-preservation), and applicable secrecy-implementation rules in companion files. **CC-8** adds the forum-interface record rule: when those measures are requested, authorized, reviewed, renewed, narrowed, or found defective, the record must state the lawful objective, scope, duration or expiry, review point, minimization or segregation handling, protected-activity analysis where material, and the available exclusion, deletion, notice, derivative-use, or later-challenge path where lawful.
+**Protected investigations and rights.** Investigative restrictions, delayed notice, compartmentalization, sealed steps, protected-activity handling, and remedy for tainted collection remain governed by `core_10-10_rights_part_c.md` **Article XIII-A**, `core_05-05_definitions_a_independent.md` **Chapter Five** (*Necessity*, *Proportionality*, *Oversight*, *Accountability*, *Transparency*) and [Evidence Preservation](core_05-05_definitions_c_dependent_clusters.md#evidence-preservation), and applicable secrecy-implementation rules in companion files. **CF-8** adds the forum-interface record rule: when those measures are requested, authorized, reviewed, renewed, narrowed, or found defective, the record must state the lawful objective, scope, duration or expiry, review point, minimization or segregation handling, protected-activity analysis where material, and the available exclusion, deletion, notice, derivative-use, or later-challenge path where lawful.
 
 **Outputs and interfaces.** The investigative service must produce attributable, reviewable records stating scope, steps taken, evidentiary basis, uncertainty, preserved exculpatory and inculpatory material, and referral or closure reasons. Those records must support:
 - prosecutorial or civil-enforcement decisions without making the investigators the final charging or merits authority;
@@ -600,7 +600,7 @@ Where institutions exercise or supervise **civil**, **criminal**, **constitution
 
 ---
 
-## CC-9: Technical specialist forums and specialist chambers
+## CF-9: Technical specialist forums and specialist chambers
 
 Where adopting instruments create **science specialist forums**, **engineering specialist forums**, **medical specialist forums**, or comparable technical specialist forums, those bodies must operate as specialized chambers or designated panels within the existing forum families recognized in `core_09-09_forum.md` **Chapter Nine**.
 
@@ -653,7 +653,7 @@ Non-recognition must identify whether the forum is adopting an interim local rul
 
 ---
 
-## CC-10: Forum performance, backlog requirements, publication timeliness, and accessibility
+## CF-10: Forum performance, backlog requirements, publication timeliness, and accessibility
 
 **Constitutional index (abridged)**
 - Topic-level routing and cited authorities remain in subsection text and cross-references.
@@ -670,7 +670,7 @@ It sets minimum requirements for:
 
 This section does not displace stricter lawful deadlines.
 
-### CC-10.0 Class-scaled service requirements (notice through remediation closure)
+### CF-10.0 Class-scaled service requirements (notice through remediation closure)
 
 **Purpose:** This subsection applies **Contestability** and `corpus_joint_structure.md` **CJS-3.33** to forum timing and backlog discipline so notice, record access, review, appeal, restorative follow-through, and closure remain practically usable. It does **not** add **Chapter Ten** rights text; operational detail for non-forum institutions sits in **`corpus_institutions.md`** **CI-6**, **CI-12**, and **CI-13**.
 
@@ -681,11 +681,11 @@ This section does not displace stricter lawful deadlines.
 - **Ordinary** — default class for contested civil and administrative matters.
 - **Low-impact** — may use longer targets only where **Proportionality** supports it and challenge rights stay meaningful.
 
-**Cross-layer requirements:** Tribunals publish class-scaled targets under **CC-10.4**; institutions publish compatible **notice and pathway** requirements under **CI-6** and **CI-12**. When **backlog** or **accessibility** failures cross **CC-10.5** thresholds, **CC-10.6** remediation and **CI-7.3** / **CI-8** escalation paths apply. **Stakeholder-facing** backlog and delay disclosure must be intelligible without specialist training, subject to lawful secrecy limits.
+**Cross-layer requirements:** Tribunals publish class-scaled targets under **CF-10.4**; institutions publish compatible **notice and pathway** requirements under **CI-6** and **CI-12**. When **backlog** or **accessibility** failures cross **CF-10.5** thresholds, **CF-10.6** remediation and **CI-7.3** / **CI-8** escalation paths apply. **Stakeholder-facing** backlog and delay disclosure must be intelligible without specialist training, subject to lawful secrecy limits.
 
 **Scenario coverage (for assurance, not doctrine):** adopting systems should rehearse **delayed notice**, **inaccessible records**, **appeal backlog**, and **failed restorative follow-through** against these requirements and record results in governance evidence stores.
 
-### CC-10.1 Core rule
+### CF-10.1 Core rule
 Forum performance must be measured against whether affected parties retain a practical ability to:
 - understand where their matter is;
 - obtain a lawful forum without unreasonable delay;
@@ -694,7 +694,7 @@ Forum performance must be measured against whether affected parties retain a pra
 
 Backlog is constitutionally relevant when it materially degrades challenge rights, independent review, remedy, or trust in lawful adjudication. Where **material reliance** on timely or accessible adjudication is at issue, evaluate under **`core_05-05_definitions_c_dependent_clusters.md` Chapter Five, section 3.39** *Trust Degradation and Misleading Reliance* together with **Contestability** and **Transparency**.
 
-### CC-10.2 Minimum metric categories
+### CF-10.2 Minimum metric categories
 Each forum family must publish and maintain metrics for at least:
 - time from filing to initial routing decision;
 - time from routing to panel formation;
@@ -707,7 +707,7 @@ Each forum family must publish and maintain metrics for at least:
 - pending transfer or certification requests;
 - emergency matters awaiting interim review.
 
-### CC-10.3 Case classes and urgency classes
+### CF-10.3 Case classes and urgency classes
 Performance tracking must distinguish at minimum:
 - ordinary matters;
 - high-impact matters;
@@ -717,7 +717,7 @@ Performance tracking must distinguish at minimum:
 
 Institutions may add finer classes, but must not merge categories in ways that conceal delay in the most rights-sensitive matters.
 
-### CC-10.4 Minimum timing floors
+### CF-10.4 Minimum timing floors
 Each adopting system must set published target windows for:
 - initial filing acknowledgement;
 - initial routing determination;
@@ -735,7 +735,7 @@ If a system cannot yet justify its own calibrated numbers, the interim default s
 - recusal and backup-activation windows short enough that the independence dispute does not itself defeat meaningful remedy;
 - publication windows short enough that challenge rights remain real before practical effect hardens.
 
-### CC-10.5 Backlog thresholds and alerts
+### CF-10.5 Backlog thresholds and alerts
 Every forum family must define:
 - an `aging alert threshold`;
 - a `serious backlog threshold`;
@@ -748,7 +748,7 @@ At minimum:
 - serious backlog threshold triggers managerial remediation and contest-integrity review;
 - constitutional risk threshold triggers independent review, publication in governance reporting, and, where material, external assurance or cross-institution escalation.
 
-### CC-10.6 Required remediation actions for backlog
+### CF-10.6 Required remediation actions for backlog
 When a backlog threshold is crossed, the forum system must produce an attributable record stating:
 - the affected case class;
 - the duration and scale of the delay;
@@ -767,7 +767,7 @@ Acceptable corrective actions may include:
 - temporary coordination changes with other forum families;
 - continuity or emergency measures where ordinary capacity has failed.
 
-### CC-10.7 Accessibility and pathway usability requirements
+### CF-10.7 Accessibility and pathway usability requirements
 Forum access pathways must be understandable and usable in practice. Each forum family must measure and review:
 - ease of filing and challenge initiation;
 - availability of plain-language status information;
@@ -780,7 +780,7 @@ Forum families must avoid unnecessary legal or institutional jargon in public-fa
 
 Usability failures count as performance failures when they materially obstruct challenge rights or effective participation.
 
-### CC-10.8 Publication timeliness
+### CF-10.8 Publication timeliness
 Reasoned records for routing, recusal, transfer, certification, interim relief, and merits outcomes must be published or otherwise made available on a time scale that preserves practical review.
 
 Where lawful restrictions delay full publication, the tribunal must still provide, as soon as lawfully feasible:
@@ -789,7 +789,7 @@ Where lawful restrictions delay full publication, the tribunal must still provid
 - the existence of any delayed-publication restriction;
 - a later publication or reconstruction path.
 
-### CC-10.9 Restricted-evidence timing
+### CF-10.9 Restricted-evidence timing
 Restricted-evidence matters must not become a standing excuse for indefinite delay.
 
 For such matters, systems must separately track:
@@ -798,7 +798,7 @@ For such matters, systems must separately track:
 - time to resolve secrecy-related scope disputes;
 - whether delay from restricted-access process is materially impairing remedy or review.
 
-### CC-10.10 Contest-integrity monitoring interface
+### CF-10.10 Contest-integrity monitoring interface
 Contest-integrity monitors under `corpus_institutions.md` **CI-7.3** must review forum-performance data on a published cadence and assess:
 - persistent delay by family or case class;
 - whether backlogs track conflict, capture, or retaliation indicators;
@@ -808,7 +808,7 @@ Contest-integrity monitors under `corpus_institutions.md` **CI-7.3** must review
 
 Material findings must feed remediation and, where warranted, `corpus_institutions.md` **CI-8** escalation or external assurance triggers.
 
-### CC-10.11 Governance disclosure fields for forum performance
+### CF-10.11 Governance disclosure fields for forum performance
 The standard governance report should include at minimum:
 - current backlog by forum family and case class;
 - number of cases beyond each threshold band;
@@ -820,7 +820,7 @@ The standard governance report should include at minimum:
 - publication timeliness performance;
 - remedial actions open and closed for forum-performance failures.
 
-### CC-10.12 Non-compliant performance patterns
+### CF-10.12 Non-compliant performance patterns
 The following patterns are presumptively non-compliant unless clearly justified and corrected:
 - chronic delay concentrated in Rights-Floor or emergency matters;
 - backlog aging that predictably defeats practical remedy;
@@ -829,7 +829,7 @@ The following patterns are presumptively non-compliant unless clearly justified 
 - recurring recusal or panel-formation delay without published remediation;
 - inaccessible challenge pathways that materially reduce substantive use.
 
-### CC-10.13 Forum-performance review cadence
+### CF-10.13 Forum-performance review cadence
 Each forum family must review performance metrics on a fixed cadence.
 
 At minimum:
@@ -837,7 +837,7 @@ At minimum:
 - trend review must compare current metrics with prior periods;
 - repeated threshold breach must trigger corrective-action review rather than simple narration.
 
-### CC-10.14 Evidence and artifacts
+### CF-10.14 Evidence and artifacts
 Each forum system should maintain:
 - a forum-performance dashboard or equivalent report;
 - threshold definitions and current values;
@@ -846,16 +846,16 @@ Each forum system should maintain:
 - backlog-cause analyses;
 - annual or periodic forum-performance summary linked to governance reporting.
 
-### CC-10.15 Lived conditions during restriction and re-entry alignment (cross-layer)
-Forum systems must treat `corpus_systems.md` **Protocol C** section **10** (*Lived-condition floors, continuity, and re-entry alignment*) as a **binding implementation cross-check** when **coercive**, **supervised**, **quarantine**, or **durable-containment** matters are **routed** or **reviewed**. **Calendar** and **metric** performance under **CC-10.4**–**CC-10.6** must **not** **treat** **lived-condition** failures as **closed** because **procedural** milestones were **technically** reached.
+### CF-10.15 Lived conditions during restriction and re-entry alignment (cross-layer)
+Forum systems must treat `corpus_systems.md` **Protocol C** section **10** (*Lived-condition floors, continuity, and re-entry alignment*) as a **binding implementation cross-check** when **coercive**, **supervised**, **quarantine**, or **durable-containment** matters are **routed** or **reviewed**. **Calendar** and **metric** performance under **CF-10.4**–**CF-10.6** must **not** **treat** **lived-condition** failures as **closed** because **procedural** milestones were **technically** reached.
 
-**Forum-specific application:** review records must show that the tribunal or administrative reviewer considered the Protocol C section **10** validation record, current review cadence, restoration or re-entry status, and any new evidence-based finding used to continue a restriction. Where a lived-condition failure materially affects remedy, challenge rights, or restoration, the matter remains open for **CC-10** performance and **CC-11.13** restoration tracking even if ordinary docket milestones were reached.
+**Forum-specific application:** review records must show that the tribunal or administrative reviewer considered the Protocol C section **10** validation record, current review cadence, restoration or re-entry status, and any new evidence-based finding used to continue a restriction. Where a lived-condition failure materially affects remedy, challenge rights, or restoration, the matter remains open for **CF-10** performance and **CF-11.13** restoration tracking even if ordinary docket milestones were reached.
 
-**Read with:** `corpus_institutions.md` **CI-13** (failure and accountability patterns); **CC-11.13** (*Restoration and reconciliation*); **Article XXIII** and **Article XXIII-A** as referenced in **Protocol C** §**10**.
+**Read with:** `corpus_institutions.md` **CI-13** (failure and accountability patterns); **CF-11.13** (*Restoration and reconciliation*); **Article XXIII** and **Article XXIII-A** as referenced in **Protocol C** §**10**.
 
 ---
 
-## CC-11: Forum continuity, fallback operation, and emergency adjudication
+## CF-11: Forum continuity, fallback operation, and emergency adjudication
 
 **Constitutional index (abridged)**
 - Topic-level routing and cited authorities remain in subsection text and cross-references.
@@ -871,9 +871,9 @@ This section applies when ordinary forum operation is materially impaired by:
 
 It governs continuity of adjudication. It does not authorize permanent alteration of constitutional forum-family boundaries.
 
-Where forum continuity materially depends on constitutional systems, this section must be read with `corpus_systems.md` **Protocol A**, subsection **G** (*Governance continuity, crisis communications, and exercises*). Protocol A states the shared emergency lifecycle, crisis-communication, exercise, restoration-evidence, and audit-trail mechanics; **CC-11** supplies the forum-specific triggers, routing, quorum, backup-forum, docket, and adjudicative-review requirements.
+Where forum continuity materially depends on constitutional systems, this section must be read with `corpus_systems.md` **Protocol A**, subsection **G** (*Governance continuity, crisis communications, and exercises*). Protocol A states the shared emergency lifecycle, crisis-communication, exercise, restoration-evidence, and audit-trail mechanics; **CF-11** supplies the forum-specific triggers, routing, quorum, backup-forum, docket, and adjudicative-review requirements.
 
-### CC-11.1 Rights-Floor continuity rule
+### CF-11.1 Rights-Floor continuity rule
 Emergency forum operation must preserve, to the greatest feasible extent:
 - baseline challenge rights;
 - access to emergency relief;
@@ -883,7 +883,7 @@ Emergency forum operation must preserve, to the greatest feasible extent:
 
 Emergency simplification must not become a pretext to extinguish contestability.
 
-### CC-11.2 Continuity modes
+### CF-11.2 Continuity modes
 Each adopting system must publish at least these forum continuity modes:
 - `Normal`
 - `Degraded`
@@ -893,7 +893,7 @@ Each adopting system must publish at least these forum continuity modes:
 
 Mode transitions must be trigger-defined, attributable, auditable, and reversible when triggering conditions clear.
 
-### CC-11.3 Activation triggers
+### CF-11.3 Activation triggers
 Continuity mode may activate only on documented findings such as:
 - inability to constitute lawful independent panels at ordinary scale;
 - physical or digital infrastructure outage materially impairing filing, record access, hearing, or publication;
@@ -911,7 +911,7 @@ Activation records must state:
 
 Shared expiry, reauthorization, restoration, and closure-evidence requirements follow `corpus_systems.md` **Protocol A**, subsection **G**, where constitutional-system continuity is implicated. Forum activation records add the Chapter Eight routing and family-specific adjudication details listed here.
 
-### CC-11.4 Continuity minimum functions
+### CF-11.4 Continuity minimum functions
 In any degraded or emergency mode, the system must preserve at minimum:
 - intake for urgent matters;
 - emergency interim-relief authority;
@@ -920,7 +920,7 @@ In any degraded or emergency mode, the system must preserve at minimum:
 - a way to challenge emergency orders;
 - a path to restore ordinary forum review when feasible.
 
-### CC-11.5 Emergency triage hierarchy
+### CF-11.5 Emergency triage hierarchy
 Where capacity is insufficient for normal operations, tribunals must prioritize:
 - matters involving imminent loss of life or irreversible harm;
 - [Evidence Preservation](core_05-05_definitions_c_dependent_clusters.md#evidence-preservation) needs likely to become impossible if delayed;
@@ -930,7 +930,7 @@ Where capacity is insufficient for normal operations, tribunals must prioritize:
 
 The triage rule must be published in plain language accessible to everyday sentients.
 
-### CC-11.6 Temporary quorum and provisional authority
+### CF-11.6 Temporary quorum and provisional authority
 Adopting systems may define temporary reduced-size or provisional panels only if:
 - the temporary quorum rule is predeclared;
 - competence and independence are still preserved as far as feasible;
@@ -939,7 +939,7 @@ Adopting systems may define temporary reduced-size or provisional panels only if
 
 Temporary quorum rules must not be used to concentrate durable control or to bypass anti-capture constraints.
 
-### CC-11.7 Fallback venues and backup forums
+### CF-11.7 Fallback venues and backup forums
 Each forum family must identify, in advance:
 - what fallback venue or operational mode applies if its ordinary forum is unavailable;
 - how the designated backup family under Chapter Eight will receive emergency matters if anti-self-judging or inability-to-form conditions activate;
@@ -947,7 +947,7 @@ Each forum family must identify, in advance:
 
 Fallback operation must preserve primary-stakes routing as much as feasible. It does not authorize silent reclassification of the matter.
 
-### CC-11.8 Record continuity and custody
+### CF-11.8 Record continuity and custody
 Forum emergency adjudication requires continuous preservation of:
 - docket identity;
 - filings and timestamps;
@@ -959,7 +959,7 @@ Forum emergency adjudication requires continuous preservation of:
 
 Where digital systems are impaired, institutions must maintain a lawful fallback for record capture and later reconciliation. Generic crisis audit-trail, communication-log, and closure-evidence requirements remain in `corpus_systems.md` **Protocol A**, subsection **G**; this subsection identifies the forum records that cannot be lost or silently merged during emergency operation.
 
-### CC-11.9 Communication duties
+### CF-11.9 Communication duties
 During continuity-mode operation, forum-facing communications must apply `corpus_systems.md` **Protocol A**, subsection **G**, crisis-communication discipline and must publish or otherwise communicate, as lawfully feasible, the adjudication-specific facts parties need:
 - the active mode;
 - what functions remain available;
@@ -968,7 +968,7 @@ During continuity-mode operation, forum-facing communications must apply `corpus
 - how parties can seek emergency review;
 - when the next continuity-status review will occur.
 
-### CC-11.10 Independent review during emergency mode
+### CF-11.10 Independent review during emergency mode
 Continuity activation must be subject to independent review on a documented cadence.
 
 That review must assess:
@@ -979,14 +979,14 @@ That review must assess:
 
 Continuation beyond the published window requires reasoned reauthorization.
 
-### CC-11.11 Capture-sensitive continuity
+### CF-11.11 Capture-sensitive continuity
 If the emergency condition includes credible capture, concealment, or compromise within the ordinary tribunal chain, continuity operation must:
 - avoid leaving sole control in the compromised chain;
 - use backup-forum and contest-integrity mechanisms where feasible;
 - preserve independent record review;
 - require later restoration review by a body not materially implicated in the compromise.
 
-### CC-11.12 Cross-system and cross-institution coordination
+### CF-11.12 Cross-system and cross-institution coordination
 Where multiple institutions or forum families are affected, the continuity protocol must define:
 - accountability for the continuity decision;
 - evidence-sharing boundaries;
@@ -995,7 +995,7 @@ Where multiple institutions or forum families are affected, the continuity proto
 - conditions for external participation or assurance;
 - restoration sequencing across affected bodies.
 
-### CC-11.13 Restoration and reconciliation
+### CF-11.13 Restoration and reconciliation
 When the triggering condition subsides, the system must enter a restoration mode that includes:
 - return to ordinary panel-formation and routing rules;
 - review of emergency orders that materially affected rights or structure;
@@ -1004,7 +1004,7 @@ When the triggering condition subsides, the system must enter a restoration mode
 - remediation for continuity failures that materially harmed parties;
 - assessment of whether fallback actions exceeded lawful scope.
 
-### CC-11.14 Post-incident review
+### CF-11.14 Post-incident review
 Every activation must produce the restoration and post-incident evidence required by `corpus_systems.md` **Protocol A**, subsection **G**, with forum-specific findings stating:
 - what triggered the continuity mode;
 - what functions degraded or failed;
@@ -1013,7 +1013,7 @@ Every activation must produce the restoration and post-incident evidence require
 - what delays or review failures occurred;
 - what remediation and future-hardening steps are required.
 
-### CC-11.15 Exercises and testing
+### CF-11.15 Exercises and testing
 Forum continuity protocols must participate in the exercise cadence required by `corpus_systems.md` **Protocol A**, subsection **G**, where constitutional-system continuity is implicated. Forum-specific exercise coverage should include at least:
 
 - inability to form an independent panel;
@@ -1024,7 +1024,7 @@ Forum continuity protocols must participate in the exercise cadence required by 
 
 Findings must be recorded and tied to remediation under **Protocol A**, subsection **G**, with docket, routing, quorum, and backup-forum failures separately identified.
 
-### CC-11.16 Non-compliant emergency patterns
+### CF-11.16 Non-compliant emergency patterns
 The following are presumptively non-compliant unless clearly justified and cured:
 - indefinite emergency forum mode without reauthorization;
 - emergency quorum use that concentrates durable control;
@@ -1035,15 +1035,15 @@ The following are presumptively non-compliant unless clearly justified and cured
 
 ---
 
-## CC-12: Standard records, forms, and evidence artifacts
+## CF-12: Standard records, forms, and evidence artifacts
 
 **Constitutional index (abridged)**
 - Topic-level routing and cited authorities remain in subsection text and cross-references.
 - Canonical owner map: `corpus_joint_structure.md` **CJS-2.2** and `doc_architecture.md` section 4.
 
-This section is the forum-operational home for standard forum records, forms, and evidence artifacts. It consolidates the record duties created in **CC-3** through **CC-11** and supplies a common minimum set for adopting systems. It does not create a second traceability or verification standard; traceability and verification discipline remain governed by `core_02-04_definition_mechanics.md` **Chapters Two through Four**, **Article XV-A**, and `corpus_joint_structure.md` **CJS-R12**.
+This section is the forum-operational home for standard forum records, forms, and evidence artifacts. It consolidates the record duties created in **CF-3** through **CF-11** and supplies a common minimum set for adopting systems. It does not create a second traceability or verification standard; traceability and verification discipline remain governed by `core_02-04_definition_mechanics.md` **Chapters Two through Four**, **Article XV-A**, and `corpus_joint_structure.md` **CJS-R12**.
 
-### CC-12.1 Minimum record set
+### CF-12.1 Minimum record set
 Each adopting system must maintain standard templates or equivalent structured records for at least:
 - filing intake and routing decision;
 - panel-formation record;
@@ -1055,13 +1055,13 @@ Each adopting system must maintain standard templates or equivalent structured r
 - backup-forum activation order;
 - transfer or certification order;
 - interim-relief order;
-- rights-collision record under **CC-5**;
-- disposition-effect classification record under **CC-5.1**;
-- forensic or analytical support scope order under **CC-7**;
+- rights-collision record under **CF-5**;
+- disposition-effect classification record under **CF-5.1**;
+- forensic or analytical support scope order under **CF-7**;
 - restricted-evidence review order;
-- investigative scope, referral, or closure record under **CC-8** where the forum interface is used;
-- technical-standard departure, variance, or recognition record under **CC-9**;
-- backlog-threshold remediation record under **CC-10**;
+- investigative scope, referral, or closure record under **CF-8** where the forum interface is used;
+- technical-standard departure, variance, or recognition record under **CF-9**;
+- backlog-threshold remediation record under **CF-10**;
 - publication-delay log entry;
 - continuity activation record;
 - restoration and reconciliation record;
@@ -1069,7 +1069,7 @@ Each adopting system must maintain standard templates or equivalent structured r
 
 Adopting systems may combine compatible forms, but must not merge records in a way that hides who acted, what authority was used, what facts or constraints mattered, what review path remains, or which forum family is responsible.
 
-### CC-12.2 Required fields
+### CF-12.2 Required fields
 Each standard record must include, proportionate to the action:
 - forum family, chamber or panel, and docket identity;
 - authority invoked, including Chapter Eight routing basis where material;
@@ -1082,7 +1082,7 @@ Each standard record must include, proportionate to the action:
 - challenge, appeal, certification, or review path still available;
 - retention class and audit-access handling.
 
-### CC-12.3 Access classes
+### CF-12.3 Access classes
 Records must be tagged, at minimum, for the following access classes:
 - **party-facing** — available to parties or affected persons subject to lawful privacy, safety, and evidence-protection limits;
 - **public-facing** — published or summarized where needed for routing intelligibility, precedent, shared standards, or governance trust;
@@ -1093,17 +1093,17 @@ Records must be tagged, at minimum, for the following access classes:
 
 Access tagging must support meaningful review without converting lawful restriction into concealment. If a record is withheld or summarized, the forum must preserve enough attributable detail for later lawful reconstruction.
 
-### CC-12.4 Evidence artifact handling
+### CF-12.4 Evidence artifact handling
 Forum evidence artifacts must preserve chain of custody, source, method, transformation history, uncertainty, and access restrictions proportionate to impact and sensitivity under Chapter Five [Evidence Preservation](core_05-05_definitions_c_dependent_clusters.md#evidence-preservation). This applies to physical evidence, digital records, model or system logs, expert analyses, summaries of restricted evidence, forensic workpapers, and technical-standard materials.
 
 Where an artifact is transformed, summarized, redacted, compressed, or represented through a derived exhibit, the record must preserve enough information to test reliability, contest material assumptions, and reconstruct the original evidentiary path where lawful.
 
-### CC-12.5 Publication, retention, and reconciliation
-Publication and retention rules must be written in advance and aligned with **CC-10** publication timeliness, **CC-11** continuity, and applicable systems-data handling rules. Delayed-publication records must state the restriction basis and the next review or release condition.
+### CF-12.5 Publication, retention, and reconciliation
+Publication and retention rules must be written in advance and aligned with **CF-10** publication timeliness, **CF-11** continuity, and applicable systems-data handling rules. Delayed-publication records must state the restriction basis and the next review or release condition.
 
 During degraded or emergency operation, temporary paper, offline, or local records may be used only if they preserve docket identity, timestamps, responsible roles, and later reconciliation. Reconciled records must identify any gap, conflict, loss, or reconstruction uncertainty.
 
-### CC-12.6 Non-compliant record patterns
+### CF-12.6 Non-compliant record patterns
 The following patterns are non-compliant:
 - material forum action with no attributable record;
 - records that omit review path or publication status for rights-affecting actions;
@@ -1114,11 +1114,11 @@ The following patterns are non-compliant:
 
 ---
 
-## CC-13: Forum staffing, reserve capacity, shared administration, structural review, and structural records
+## CF-13: Forum staffing, reserve capacity, shared administration, structural review, and structural records
 
-This chapter governs forum-specific **staffing and competence frameworks**, **reserve and surge capacity**, **shared administration and objective assignment** safeguards, **periodic structural review**, **prohibited staffing and capacity patterns**, and the **structural governance record set** that adopting systems must maintain. It complements **CC-2** (tribunal map, family boundaries, chambers, and minimum bench-support availability), **CC-4** (routing and intake), **CC-3** (panel formation and recusal), **CC-10** (performance and backlog), and **CC-11** (continuity).
+This chapter governs forum-specific **staffing and competence frameworks**, **reserve and surge capacity**, **shared administration and objective assignment** safeguards, **periodic structural review**, **prohibited staffing and capacity patterns**, and the **structural governance record set** that adopting systems must maintain. It complements **CF-2** (tribunal map, family boundaries, chambers, and minimum bench-support availability), **CF-4** (routing and intake), **CF-3** (panel formation and recusal), **CF-10** (performance and backlog), and **CF-11** (continuity).
 
-### CC-13.1 Composition and competence requirements
+### CF-13.1 Composition and competence requirements
 Every forum family must maintain a composition framework that, at minimum:
 - specifies the qualifications, experience, and competence expected for ordinary service in that family;
 - specifies disqualification standards for service, including incapacity, incompatibility, and any role combinations that would undermine independence;
@@ -1128,11 +1128,11 @@ Every forum family must maintain a composition framework that, at minimum:
 - distinguishes judicial decision authority from advisory, clerical, forensic, or investigative support roles;
 - identifies any seat categories or qualification mixes needed for specialized chambers or designated panels.
 
-Detailed appointment, tenure, rotation, removal, and conflict-control pathways remain governed by `corpus_institutions.md` **CI-4** and **CI-5**, together with `core_10-10_rights_part_d.md` **Article XXIII-B** where applicable. **CC-13** requires those protections to be reflected in the actual forum map and staffing model.
+Detailed appointment, tenure, rotation, removal, and conflict-control pathways remain governed by `corpus_institutions.md` **CI-4** and **CI-5**, together with `core_10-10_rights_part_d.md` **Article XXIII-B** where applicable. **CF-13** requires those protections to be reflected in the actual forum map and staffing model.
 
 Forum design must not make constitutionally material adjudication depend on a single indispensable officeholder, gatekeeper, or qualification bottleneck where a lawful multi-sentient structure is feasible.
 
-### CC-13.2 Reserve, substitute, and surge capacity
+### CF-13.2 Reserve, substitute, and surge capacity
 Each forum family must maintain published reserve-capacity rules sufficient to reduce capture, deadlock, and operational failure. Those rules must address:
 - substitute or reserve adjudicators qualified to serve when ordinary members are unavailable, recused, incapacitated, or overloaded;
 - temporary cross-region, cross-district, or cross-division assistance within the same forum family;
@@ -1145,7 +1145,7 @@ Reserve capacity must not be designed so narrowly that a predictable set of recu
 
 Reserve and substitute design must also account for conflict integrity. A forum family must not rely for its ordinary backup capacity on a pool so conflict-entangled, dependency-linked, or patronage-shaped that the backup mechanism itself predictably fails when the dispute is sensitive.
 
-### CC-13.3 Shared administration and objective assignment safeguards
+### CF-13.3 Shared administration and objective assignment safeguards
 Adopting systems may share buildings, clerks, technology, records systems, libraries, and other administrative services across families only if shared administration does not compromise independence or routing integrity.
 
 Where more than one tribunal, region, or chamber can hear a matter, assignment and internal distribution rules must be:
@@ -1156,7 +1156,7 @@ Where more than one tribunal, region, or chamber can hear a matter, assignment a
 
 Internal administrative convenience must not become a covert routing mechanism that defeats primary-stakes allocation or anti-self-judging protections.
 
-### CC-13.4 Prohibited staffing, capacity, and governance patterns
+### CF-13.4 Prohibited staffing, capacity, and governance patterns
 The following patterns are non-compliant:
 - chronic use of acting, temporary, or emergency arrangements as the ordinary mode of staffing a forum family;
 - forum maps that are so opaque that ordinary filers cannot tell which family or chamber has authority;
@@ -1166,7 +1166,7 @@ The following patterns are non-compliant:
 
 Repeated resort to these patterns may be treated as a capture, evasion, or contestability failure under `corpus_institutions.md` **CI-8** and related integrity provisions.
 
-### CC-13.5 Structural review and revision cadence
+### CF-13.5 Structural review and revision cadence
 Each adopting system should periodically review whether its forum map still provides:
 - intelligible routing;
 - sufficient competence across families and chambers;
@@ -1175,9 +1175,9 @@ Each adopting system should periodically review whether its forum map still prov
 
 Where review shows persistent overload, recurring chamber misuse, chronic recusal bottlenecks, or practical collapse of a family into another, the adopting system must publish a remediation or redesign plan.
 
-### CC-13.6 Required structural records and artifacts
+### CF-13.6 Required structural records and artifacts
 Each adopting system must maintain and periodically update at least:
-- the public forum-structure map required by **CC-2.2**;
+- the public forum-structure map required by **CF-2.2**;
 - current chamber-creation instruments and scope descriptions;
 - qualification and competence frameworks by family and designated chamber type;
 - disqualification, incompatibility, rotation, cooling-off, and succession rules applicable to forum-family service;

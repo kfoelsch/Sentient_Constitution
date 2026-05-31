@@ -10,12 +10,12 @@ The companion layers named here are:
 - **CP:** implementation, meaning the **CJS folder** and its *Cross-domain implementation layer*,
 - **CS:** `corpus_systems.md`,
 - **CI:** `corpus_institutions.md`,
-- **CC:** `corpus_forum.md`.
+- **CF:** `corpus_forum.md`.
 
 After this orientation, the section sets the ground rules for scope, references, and boundaries before the integration map in **CJS-2** and the joint requirements in **CJS-3**.
 
 ### CJS-1.1: Shared companion preamble contract
-This subsection gives the shared starting rules for **CP**, **CS**, **CI**, and **CC**.
+This subsection gives the shared starting rules for **CP**, **CS**, **CI**, and **CF**.
 
 Companion files should point back here instead of repeating long boilerplate.
 
@@ -34,13 +34,13 @@ For this CJS file, that means:
 
 - The numbered `core_*` Sentient Constitution files control constitutional meaning.
 - Adopted companion implementation text applies only within valid adoption and incorporation scope.
-- Companion files may add implementation detail, and may be stricter, but may not weaken Sentient Constitution requirements or rights floors.
+- Companion files may add implementation detail, and may be stricter, but may not weaken Sentient Constitution requirements or Rights Floors.
 - Chapters Two through Four control O/E/C definition mechanics. Chapter Five controls constitutional term definitions.
-- Chapter Ten controls rights language. Companion files implement rights floors and must not restate weaker versions.
+- Chapter Ten controls rights language. Companion files implement Rights Floors and must not restate weaker versions.
 - Chapter Six controls canonical compliance, violation, and standing classification policy.
 - [corpus_systems.md](../corpus_systems.md) Chapters S1 through S3 control data types, system classes, dependency types, and steward tiers.
 - **PRIM8** and **PROT2** stay separate: **PRIM8** belongs to the architecture layer, and **PROT2** belongs to the governance layer.
-- **CJS-2** states the default read order, read-with routing, and **stricter-wins** rules among **CP**, **CS**, **CI**, and **CC**.
+- **CJS-2** states the default read order, read-with routing, and **stricter-wins** rules among **CP**, **CS**, **CI**, and **CF**.
 
 ### CJS-1.2: Section identifiers and article references
 Headings use **CJS-1** through **CJS-4**, meaning *Corpus joint structure* section *n*. Subsections use **CJS-*n*.*m***, such as **CJS-2.2**. These are not Sentient Constitution **Article** numbers. The abbreviation **CJS** matches `doc_architecture.md`, where it means the *Corpus joint structure* companion file.
@@ -48,12 +48,12 @@ Headings use **CJS-1** through **CJS-4**, meaning *Corpus joint structure* secti
 Unless a section says otherwise, **Article** labels with Roman numerals that point to the Sentient Constitution Chapter Ten part files (`core_10-10_rights_part_*.md`) refer to the canonical `### Article ...` headings in those files.
 
 ### CJS-1.3: Joint structural boundary and owner discipline
-The CJS folder is the **operative home** for **joint** structural expectations. These are rules and integration interfaces that apply when **two or more** of CP, CS, CI, and CC must be satisfied **together**. The goal is for institutions, forums, and classified systems to read as **one coherent implementation stack** when they materially interact.
+The CJS folder is the **operative home** for **joint** structural expectations. These are rules and integration interfaces that apply when **two or more** of CP, CS, CI, and CF must be satisfied **together**. The goal is for institutions, forums, and classified systems to read as **one coherent implementation stack** when they materially interact.
 
 The CJS folder is **not** the primary owner for:
 - system-class and steward taxonomies, which belong to **CS**,
 - general institutional lifecycle and fiscal architecture, which belong to **CI**,
-- forum-family operational doctrine, which belongs to **CC**.
+- forum-family operational doctrine, which belongs to **CF**.
 
 Stable implementation-label text lives in the CJS implementation-group files under the **Cross-domain implementation layer**.
 
