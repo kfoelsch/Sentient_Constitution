@@ -2,7 +2,7 @@
 
 **Corpus edition:** `SC-Corpus-2026.04.32`  
 **Effective date:** 2026-04-24  
-*(Edition alignment: same labels as the Sentient Constitution `core_*.md` files (see [README.md](README.md)), `core_05-05_definitions_a_independent.md`, `corpus_joint_structure.md`, `corpus_systems.md`, and `corpus_forum.md`.)*
+*(Edition alignment: same labels as the Sentient Constitution `core_*.md` files (see [README.md](README.md)), `corpus_joint_structure.md`, `corpus_systems.md`, and `corpus_forum.md`.)*
 
 This file is intentionally written in plain language with low jargon to improve accessibility, audit readability, and practical adoption testing.
 
@@ -36,7 +36,7 @@ This file applies that meaning to institutional design and operation.
 
 ### CI-1.1: Definition discipline and source hierarchy
 Definition discipline is single-home:
-- Constitutional definition structure, integrity, burden and verification, and foundational definitions remain in [core_02-04_definition_mechanics.md](core_02-04_definition_mechanics.md) **Chapters Two through Four** and [core_05-05_definitions_a_independent.md](core_05-05_definitions_a_independent.md) **Chapter Five**.
+- Constitutional definition structure, integrity, burden and verification, and foundational definitions remain in [core_02-04_definition_mechanics.md](core_02-04_definition_mechanics.md) **Chapters Two through Four** and Sentient Constitution **Chapter Five**.
 - Compliance-state and offense classification meaning remain in [core_06-06_standing_assessment.md](core_06-06_standing_assessment.md), [core_07-07_standing_integration.md](core_07-07_standing_integration.md), and [core_08-08_misconduct.md](core_08-08_misconduct.md) **Chapters Six and Seven**.
 - Rights meaning remains in the Sentient Constitution Chapter Ten part files (`core_10-10_rights_part_*.md`).
 - PRIM/PROT meanings remain in `corpus_joint_structure.md`.
@@ -57,7 +57,7 @@ The consequences of that structure are:
 - they do **not** add constitutional **terms**,
 - they do **not** satisfy **Chapter Two** or **Chapter Three** definition-integrity rules for defined concepts.
 
-Constitutional terms used in **OP-O**, **OP-E**, or **OP-C** take their meanings from the Sentient Constitution `core_*.md` files and from `core_02-04_definition_mechanics.md` / `core_05-05_definitions_a_independent.md` (see [README.md](README.md)).
+Constitutional terms used in **OP-O**, **OP-E**, or **OP-C** take their meanings from Sentient Constitution **Chapters Two through Five** and the applicable `core_*.md` files (see [README.md](README.md)).
 
 **OP-** text does not redefine those terms.
 
@@ -246,7 +246,7 @@ This subsection names **implementation-layer** trigger categories and routes so 
 
 ## CI-6: Procedure integrity, contestability, and secondary review
 
-Procedure rules here must remain consistent with `core_05-05_definitions_a_independent.md` **Chapter Five** (*Procedural Fairness*, *Contestability*, *Accountability*, *Redress and Remediation*) and with `core_02-04_definition_mechanics.md` **Chapter Four** verification and traceability rules. This chapter does not create a second offense-classification system.
+Procedure rules here must remain consistent with **Chapter Five** (*Procedural Fairness*, *Contestability*, *Accountability*, *Redress and Remediation*) and with `core_02-04_definition_mechanics.md` **Chapter Four** verification and traceability rules. This chapter does not create a second offense-classification system.
 
 **Usage in this section.** **Representative treatment** uses the `corpus_joint_structure.md` **CJS-3.12** Tier 1 abstraction for resolving common questions for a broader affected group while preserving notice, adequacy, contestability, and sentient-specific process. **CI-6** adds the institutional procedure details below. **Common decision rule** is CI-local shorthand for a shared rule, policy logic, model behavior, institutional criterion, or comparable decision basis that materially drives outcomes across multiple affected parties.
 
@@ -331,7 +331,7 @@ Published trigger criteria must also state:
 ### CI-7.3: Contest-integrity monitoring (Class A and Class B)
 Where institutional governed scope includes **Class A** or **Class B** systems (`corpus_systems.md` **Chapter S2**), institutions must maintain **contest-integrity** capacity as part of the **independent assurance line**, or through an equivalent documented arrangement with the same **independence** expectations. Contest-integrity functions must **not** report to the **operational ownership line** for the same contested scope. **CI-4** and **CI-5** govern appointments, conflicts, and recusal.
 
-**Purpose.** Assess whether **contest, secondary review, audit access, and protected escalation** pathways **function in practice**. This includes **timeliness**, **accessibility**, **backlogs**, **evidence availability** within **security-constrained observability** (`core_02-04_definition_mechanics.md` **Chapter Four**), and **patterns** suggestive of **chill**, **capture**, or **retaliation**. Monitors do this without substituting for **merits adjudication** on individual disputes under `core_10-10_rights_part_c.md` **Article XII-B**, `core_05-05_definitions_a_independent.md` **Chapter Five** (*Procedural Fairness*, *Contestability*, *Redress and Remediation*), and **CI-6**. Monitors **escalate** structural failures to remediation, **CI-8** where cross-institution deadlock applies, and **external assurance** triggers in this chapter.
+**Purpose.** Assess whether **contest, secondary review, audit access, and protected escalation** pathways **function in practice**. This includes **timeliness**, **accessibility**, **backlogs**, **evidence availability** within **security-constrained observability** (`core_02-04_definition_mechanics.md` **Chapter Four**), and **patterns** suggestive of **chill**, **capture**, or **retaliation**. Monitors do this without substituting for **merits adjudication** on individual disputes under `core_10-10_rights_part_c.md` **Article XII-B**, **Chapter Five** (*Procedural Fairness*, *Contestability*, *Redress and Remediation*), and **CI-6**. Monitors **escalate** structural failures to remediation, **CI-8** where cross-institution deadlock applies, and **external assurance** triggers in this chapter.
 
 **Dual scope.**
 - **Institutional:** materially impactful decisions, contest pathways, procedure maps, and records under **CI-6**; **protected escalation** **path** under **CI-12** and **`INST-PROTO-12`** where applicable.

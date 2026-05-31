@@ -95,11 +95,11 @@ Required gate conditions before any rename:
 
 | Topic | Primary owner | May reference |
 |--------|----------------|---------------|
-| Foundational values; safety / truth / trust / freedom hierarchy; conflict resolution among values | **Core** — Sentient Constitution Ch 1 (`core_00-01_principles.md`) | Sentient Constitution Ch 2–4 (`core_02-04_definition_mechanics.md`) and Ch 5 (`core_05-05_definitions_a_independent.md`) for definition and verification discipline |
+| Foundational values; safety / truth / trust / freedom hierarchy; conflict resolution among values | **Core** — Sentient Constitution Ch 1 (`core_00-01_principles.md`) | Sentient Constitution Ch 2–4 (`core_02-04_definition_mechanics.md`) and Ch 5 for definition and verification discipline |
 | Definition structure (O/E/C components; internal component integrity) | **Core** — Sentient Constitution Ch 2 (`core_02-04_definition_mechanics.md`) | Ch 3–5 |
 | Interpretation integrity, anti-evasion, observable non-compliance | **Core** — Sentient Constitution Ch 3 (`core_02-04_definition_mechanics.md`) | Ch 2, Ch 4–5 |
 | Burden of proof, traceability, observability, security-constrained verification, accessibility | **Core** — Sentient Constitution Ch 4 (`core_02-04_definition_mechanics.md`) | Ch 2–3, Ch 5 |
-| Canonical definitions of constitutional terms (§1 Independent, §2 Semi-independent, §3 Dependent clusters) | **Core** — Sentient Constitution Ch 5 (`core_05-05_definitions_a_independent.md`) | Ch 2–4 |
+| Canonical definitions of constitutional terms (§1 Independent, §2 Semi-independent, §3 Dependent clusters) | **Core** — Sentient Constitution Ch 5 | Ch 2–4 |
 | Contribution state, violation nature, standing effect (two-axis model: Axis I — contribution state; Axis II — violation nature; **standing effect** integrates **verified** inputs from both; **Chapter Nine** forums process **allegations** and **claims**, not standing calculus) | **Core** — Sentient Constitution Ch 6 and Ch 7 (`core_06-06_standing_assessment.md`; `core_07-07_standing_integration.md`) | Ch 1–5, Ch 8–10 where top-end anti-constitutional classification, forums, or rights interact |
 | Anti-constitutional misconduct (final Violation Axis **s = 7, 8, and 9**; unified-incident gravity; due-process and cross-chapter discipline) | **Core** — Sentient Constitution Ch 8 (`core_08-08_misconduct.md`) | Ch 1–7, Ch 12–14 (change path); Ch 10 (rights, justice) |
 | Forums and jurisdiction (forum families, default venue, cross-forum anti-self-judging) | **Core** — Sentient Constitution Ch 9 (`core_09-09_forum.md`) | Ch 1–8, 10; Ch 12–14; owner corpus as needed |

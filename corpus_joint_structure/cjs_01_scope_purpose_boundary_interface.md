@@ -2,9 +2,7 @@
 
 **Quick orientation**
 
-This file explains how the joint-structure layer connects the main companion files. Detailed routing rules and legal authorities stay in the relevant subsections and cross-references.
-
-For the canonical owner map, see **CJS-2.2** and `doc_architecture.md` section 4.
+This file states the shared companion contract and boundary rules for the joint-structure layer. Detailed routing lives in **CJS-2.2** and `doc_architecture.md` section 4.
 
 The companion layers named here are:
 - **CP:** implementation, meaning the **CJS folder** and its *Cross-domain implementation layer*,
@@ -12,7 +10,7 @@ The companion layers named here are:
 - **CI:** `corpus_institutions.md`,
 - **CF:** `corpus_forum.md`.
 
-After this orientation, the section sets the ground rules for scope, references, and boundaries before the integration map in **CJS-2** and the joint requirements in **CJS-3**.
+After this orientation, **CJS-1.1** supplies the shared contract that later companion text can cite instead of repeating.
 
 ### CJS-1.1: Shared companion preamble contract
 This subsection gives the shared starting rules for **CP**, **CS**, **CI**, and **CF**.
@@ -28,9 +26,7 @@ The shared contract is:
 - Use **CJS-2.2** and `doc_architecture.md` section 4 to find the single home for each topic.
 - Treat shorthand inside a subsection as local to that subsection unless a canonical owner later adopts it. If local shorthand conflicts with canonical definitions, the canonical definitions control.
 
-This file does not create a separate authority stack. Use the constitutional **Authority Stack and Internal Hierarchy** in `core_05-05_definitions_c_dependent_clusters.md` **Chapter Five**, section **3.4** (*Corpus, Authority Stack, Supremacy, and Enforceability*), read with `core_15-15_incorporation.md` **Chapter Fifteen** for incorporation, edition custody, and anti-drift rules.
-
-For this CJS file, that means:
+This file does not create a separate authority stack. Use the constitutional **Authority Stack and Internal Hierarchy** in `core_05-05_definitions_c_dependent_clusters.md` **Chapter Five**, section **3.4** (*Corpus, Authority Stack, Supremacy, and Enforceability*), read with `core_15-15_incorporation.md` **Chapter Fifteen** for incorporation, edition custody, and anti-drift rules. Applied here:
 
 - The numbered `core_*` Sentient Constitution files control constitutional meaning.
 - Adopted companion implementation text applies only within valid adoption and incorporation scope.
@@ -40,7 +36,7 @@ For this CJS file, that means:
 - Chapter Six controls canonical compliance, violation, and standing classification policy.
 - [corpus_systems.md](../corpus_systems.md) Chapters S1 through S3 control data types, system classes, dependency types, and steward tiers.
 - **PRIM8** and **PROT2** stay separate: **PRIM8** belongs to the architecture layer, and **PROT2** belongs to the governance layer.
-- **CJS-2** states the default read order, read-with routing, and **stricter-wins** rules among **CP**, **CS**, **CI**, and **CF**.
+- **CJS-2** states the read order, owner routing, and **stricter-wins** rule among **CP**, **CS**, **CI**, and **CF**.
 
 ### CJS-1.2: Section identifiers and article references
 Headings use **CJS-1** through **CJS-4**, meaning *Corpus joint structure* section *n*. Subsections use **CJS-*n*.*m***, such as **CJS-2.2**. These are not Sentient Constitution **Article** numbers. The abbreviation **CJS** matches `doc_architecture.md`, where it means the *Corpus joint structure* companion file.
@@ -55,7 +51,7 @@ The CJS folder is **not** the primary owner for:
 - general institutional lifecycle and fiscal architecture, which belong to **CI**,
 - forum-family operational doctrine, which belongs to **CF**.
 
-Stable implementation-label text lives in the CJS implementation-group files under the **Cross-domain implementation layer**.
+Stable implementation-label text lives in the CJS implementation-group files under the **Cross-domain implementation layer**. Joint obligations in **CJS-2** and **CJS-3** coordinate companion interfaces; they do not replace implementation-group text or owner-layer domain rules.
 
 Under the authority-stack rules named in **CJS-1.1**, the CJS folder sits in the **binding incorporated implementation** band. It must **implement, not narrow**, Sentient Constitution meaning.
 
@@ -74,7 +70,7 @@ The consequences of that structure are:
 - they do not add constitutional terms,
 - they do not satisfy **Chapter Two** or **Chapter Three** definition-integrity rules for defined concepts.
 
-Constitutional terms used in **OP-O**, **OP-E**, or **OP-C** take their meanings from the Sentient Constitution `core_*.md` files (see [README.md](../README.md)) and from `core_05-05_definitions_a_independent.md`.
+Constitutional terms used in **OP-O**, **OP-E**, or **OP-C** take their meanings from **Chapter Five** and the applicable Sentient Constitution `core_*.md` files (see [README.md](../README.md)).
 
 **OP-** text does not redefine those terms.
 

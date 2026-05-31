@@ -4,7 +4,7 @@
 
 **Corpus edition:** `SC-Corpus-2026.04.32`  
 **Effective date:** 2026-04-24  
-*(Edition alignment: same labels as the Sentient Constitution numbered `core_*.md` files (see [README.md](README.md)), [core_05-05_definitions_a_independent.md](core_05-05_definitions_a_independent.md), [corpus_institutions.md](corpus_institutions.md), [corpus_forum.md](corpus_forum.md), and [corpus_joint_structure.md](corpus_joint_structure.md).)*
+*(Edition alignment: same labels as the Sentient Constitution numbered `core_*.md` files (see [README.md](README.md)), [corpus_institutions.md](corpus_institutions.md), [corpus_forum.md](corpus_forum.md), and [corpus_joint_structure.md](corpus_joint_structure.md).)*
 
 *See [doc_architecture.md](doc_architecture.md) section **17**.* Definition boundaries between this implementation companion and the core constitution are in `doc_architecture.md` section 4 (Project-wide definitions protocol).
 

@@ -5958,34 +5958,34 @@
       ]
     },
     "corpus_joint_structure/cjs_02_companion_integration_map.md": {
-      "total_lines": 64,
+      "total_lines": 79,
       "sections": [
         {
-          "header": "CJS-2: Companion integration map (owners, intentional overlap, read-with ordering)",
+          "header": "CJS-2: Companion integration map",
           "level": 2,
           "line_start": 1,
-          "line_end": 64,
+          "line_end": 79,
           "anchor": null
         },
         {
           "header": "CJS-2.1: Intentional overlap (non-duplication discipline)",
           "level": 3,
-          "line_start": 18,
-          "line_end": 24,
+          "line_start": 33,
+          "line_end": 39,
           "anchor": null
         },
         {
           "header": "CJS-2.3: Two-tier definition contract (binding abstraction + owner detail)",
           "level": 3,
-          "line_start": 25,
-          "line_end": 34,
+          "line_start": 40,
+          "line_end": 49,
           "anchor": null
         },
         {
           "header": "CJS-2.2: Topic router (stable IDs)",
           "level": 3,
-          "line_start": 35,
-          "line_end": 64,
+          "line_start": 50,
+          "line_end": 79,
           "anchor": null
         }
       ]
@@ -6015,7 +6015,7 @@
           "anchor": null
         },
         {
-          "header": "CJS-3.3 Merits boundary for integrity, monitoring, and support roles",
+          "header": "CJS-3.3 Boundary Between Support Roles and Merits Decisions",
           "level": 3,
           "line_start": 17,
           "line_end": 21,
