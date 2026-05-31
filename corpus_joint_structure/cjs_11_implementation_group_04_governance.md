@@ -10,7 +10,7 @@ Principles: **Plural Authority and Anti-Capture** through distributed oversight,
 
 **PROT1** is the governance-layer home for distributing authority, scaling oversight, and preventing concentration or capture. Apply it wherever participation legitimacy, stewardship depth, or proportional review must track impact and dependency rather than convenience or inherited structure.
 
-Cross-companion operational definitions for distributed/proportional authority floors, participation-legitimacy controls, stewardship-depth safeguards, constitutional lanes and functional separation, anti-concentration guardrails, and contextual systemic-evaluation discipline are maintained in **CJS-5.16** (*Cross-companion distributed and proportional authority terms*). Apply that subsection as required read-with for this **PROT1** implementation scope.
+Cross-implementation operational definitions for distributed/proportional authority floors, participation-legitimacy controls, stewardship-depth safeguards, constitutional lanes and functional separation, anti-concentration guardrails, and contextual systemic-evaluation discipline are maintained in **CJS-5.16** (*Cross-implementation distributed and proportional authority terms*). Apply that subsection as required read-with for this **PROT1** implementation scope.
 
 ### PROT2 — Governance Implementation label: Intervention and Override Rights
 Principles: **Safety and Procedural Accountability** through authorized, time-bound, and reviewable intervention governance.
@@ -23,7 +23,7 @@ Principles: **Safety and Procedural Accountability** through authorized, time-bo
 
 Where both layers apply, **neither** may be satisfied in lieu of the other. Apply the file-header distinction (*Interpretation — Intervention and override (PRIM8 vs PROT2)*) and do not use **PROT2** to redefine or narrow **PRIM8** or the constitutional sources.
 
-Cross-companion operational definitions for governance-layer intervention necessity, authorization scope, quorum/DRP sequencing, emergency governance limits, records/transparency/challenge duties, and proportional procedural scaling are maintained in **CJS-5.17** (*Cross-companion intervention governance and override-authorization terms*). Apply that subsection as required read-with for this **PROT2** implementation scope.
+Cross-implementation operational definitions for governance-layer intervention necessity, authorization scope, quorum/DRP sequencing, emergency governance limits, records/transparency/challenge duties, and proportional procedural scaling are maintained in **CJS-5.17** (*Cross-implementation intervention governance and override-authorization terms*). Apply that subsection as required read-with for this **PROT2** implementation scope.
 
 ### PROT3 — Governance Implementation label: Reflexive Transparency and Accountability
 Principles: **Reflexive Accountability and Truth** through parity, auditability, and challengeability of governance itself.
@@ -34,7 +34,7 @@ Principles: **Reflexive Accountability and Truth** through parity, auditability,
 
 **PRIM4**, **PRIM9**, **PRIM10**, **PRIM11**, **PROT4**, **PROT5**, **PROT1**, **PRIM15**, **Sentient Constitution Chapters Two through Four**, **Chapter Six** (*Enforcement Realism Anchors*), and **Chapter Ten** (**Articles I, IX, XII**) frame reflexive transparency and accountability for governance itself.
 
-Cross-companion operational definitions for reflexive accountability parity, transparency/audit verification integrity, enforcement-capacity realism, pluralistic validation safeguards, and anti-corruption auditability controls are maintained in **CJS-5.18** (*Cross-companion reflexive transparency and accountability terms*). Apply that subsection as required read-with for this **PROT3** implementation scope.
+Cross-implementation operational definitions for reflexive accountability parity, transparency/audit verification integrity, enforcement-capacity realism, pluralistic validation safeguards, and anti-corruption auditability controls are maintained in **CJS-5.18** (*Cross-implementation reflexive transparency and accountability terms*). Apply that subsection as required read-with for this **PROT3** implementation scope.
 
 ### PROT4 — Governance Implementation label: Burden of Justification and Constraint
 Principles: **Necessity and Proportionality** by placing burden on restrictors and requiring auditable least-restrictive proof.
@@ -49,7 +49,7 @@ Principles: **Necessity and Proportionality** by placing burden on restrictors a
 
 **Innovation exclusivity claims:** This same burden applies to claimed patent-like, copyright-like, trade-secret-like, license-based, or technical exclusivity where the claim would materially restrict repair, interoperability, reverse engineering for compatibility or safety, migration, disclosure, research, education, or public-interest implementation. Constitutional meaning is anchored in **Sentient Constitution Chapter Five** (*Innovation Reward and Anti-Enclosure*) together with **Article XVII-D**. Operational implementation and class-scaled constraints are in **Implementation Group Three** at **PRIM7**. Apply those anchors here; do not redefine or narrow them.
 
-Cross-companion operational definitions for restriction-burden assignment, least-restrictive proof, disclosure/challenge sufficiency, temporal revalidation, and innovation-exclusivity anti-enclosure application are maintained in **CJS-5.19** (*Cross-companion burden-of-justification and constraint terms*). Apply that subsection as required read-with for this **PROT4** implementation scope.
+Cross-implementation operational definitions for restriction-burden assignment, least-restrictive proof, disclosure/challenge sufficiency, temporal revalidation, and innovation-exclusivity anti-enclosure application are maintained in **CJS-5.19** (*Cross-implementation burden-of-justification and constraint terms*). Apply that subsection as required read-with for this **PROT4** implementation scope.
 
 ### PROT5 — Governance Implementation label: Constrained Secrecy and Protected Investigations
 Principles: **Safety with Accountability** through narrowly scoped, time-bound secrecy under independent oversight.
@@ -64,7 +64,7 @@ Principles: **Safety with Accountability** through narrowly scoped, time-bound s
 
 Where **same-pathway** separation between **investigation, oversight under constraint, or integrity support** and **Chapter Eight** binding merits adjudication is structurally material, **CJS-3.3** applies alongside **PROT6** and **`corpus_institutions.md`**/**`corpus_forum.md`**.
 
-Cross-companion operational definitions for secrecy predicates, minimization/preference ordering, deferred transparency records, constrained-condition oversight, and anti-normalization release discipline are maintained in **CJS-5.20** (*Cross-companion constrained-secrecy and protected-investigation terms*). Apply that subsection as required read-with for this **PROT5** implementation scope.
+Cross-implementation operational definitions for secrecy predicates, minimization/preference ordering, deferred transparency records, constrained-condition oversight, and anti-normalization release discipline are maintained in **CJS-5.20** (*Cross-implementation constrained-secrecy and protected-investigation terms*). Apply that subsection as required read-with for this **PROT5** implementation scope.
 
 ---
 ### PROT6 — Governance Implementation label: Procedural Integrity and Adjudication
@@ -74,7 +74,7 @@ Principles: **Procedural Fairness, Contestability, and Timeliness** through due 
 
 **Canonical meaning:** This section states implementation-layer obligations for this domain, applied consistently with cited constitutional sources and without narrowing them.
 
-`PROT6` states the implementation-layer minimum for procedural integrity and adjudication-related governance role. Detailed forum, institution, and cross-companion implementation remains with the canonical owner files.
+`PROT6` states the implementation-layer minimum for procedural integrity and adjudication-related governance role. Detailed forum, institution, and cross-implementation requirements remain with the canonical owner files.
 
 Procedural integrity translates constitutional principles into consistent, enforceable outcomes under real-world conditions. Foundational Rights affected by such processes remain governed by **Sentient Constitution Chapter Ten**. **Article XXIII** and **Article XXIII-A** supply substantive justice requirements, and **Chapter Five** supplies the governing definitions, including *Adjudication and Dispute Resolution* and *Procedural Fairness*, read with the **Chapter Five** clustered definition *Accountability, Contestability, Adjudication and Dispute Resolution, Collective Accountability Failure, and Force Majeure* where attribution, challenge, adjudication, excuse claims, or collective failure modes are materially implicated.
 

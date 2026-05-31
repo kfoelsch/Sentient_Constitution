@@ -10,13 +10,13 @@ The CJS files are intentionally written in plain language with low jargon to imp
 
 These are not core constitutional files. They are still part of the constitutional corpus where the **Corpus** says they are binding implementation text, through **Sentient Constitution Chapter Fifteen**.
 
-Use **CJS-1.1** for the shared companion contract: constitutional meanings, Rights Floors, definition mechanics, local shorthand, readability, and authority-stack limits remain controlled by the canonical sources named there.
+Use **CJS-1.1** for the shared implementation-corpus contract: constitutional meanings, Rights Floors, definition mechanics, local shorthand, readability, and authority-stack limits remain controlled by the canonical sources named there.
 
 **CJS-folder implementation anchors**
 
-- **Shared contract:** **CJS-1.1** states the authority, readability, shorthand, and canonical-meaning rules for the CJS folder and companion files.
+- **Shared contract:** **CJS-1.1** states the authority, readability, shorthand, and canonical-meaning rules for the CJS folder and implementation files.
 - **Routing:** **CJS-2** gives the read order, stricter-wins rule, and owner map for joint topics.
-- **Joint obligations:** **CJS-3** gives requirements that must be satisfied together when more than one companion applies to the same facts.
+- **Joint obligations:** **CJS-3** gives requirements that must be satisfied together when more than one implementation file applies to the same facts.
 - **Domain limits:** CJS coordinates shared interfaces. It does not replace day-to-day domain rules owned only by `corpus_systems.md`, `corpus_institutions.md`, or `corpus_forum.md`.
 
 **Implementation cross-reference index (routing only):** Joint-structure obligations may connect with **Cross-domain implementation layer** labels **PRIM8**, **PRIM9**, **PRIM10**, **PRIM15**, **PROT1**, **PROT2**, **PROT3**, **PROT4**, **PROT5**, and **PROT6** when those labels materially apply. This index only helps readers find related material. It does not redefine what those labels mean.
@@ -28,10 +28,10 @@ Use **CJS-1.1** for the shared companion contract: constitutional meanings, Righ
 These are the stable section families for the CJS folder:
 
 - **CJS-1** — Scope, purpose, and boundary interface.
-- **CJS-2** — Companion integration map: owners, intentional overlap, and read-with order.
+- **CJS-2** — Implementation integration map: owners, intentional overlap, and read-with order.
 - **CJS-3** — General joint structural obligations: requirements that cross domains.
 - **CJS-4** — Specific joint interlocks and shared abstractions.
-- **CJS-5** — Cross-companion operational cluster library.
+- **CJS-5** — Cross-implementation operational cluster library.
 - **CJS-6** — Stable section identifiers, edition alignment, and drafting notes.
 
 ---

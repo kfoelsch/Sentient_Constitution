@@ -21,7 +21,7 @@ Shared preamble contract: apply `corpus_joint_structure.md` **CJS-1.1**.
 - **Forum-family limit:** this file does **not** create new forum families beyond those authorized in `core_09-09_forum.md` **Chapter Nine**.
 - **Chapter Ten structure:** this file operationalizes challenge and redress through **Article XII-B**, auditability and observable evidence through **Article XV-A** with **Chapters Two through Four**, interpretation safeguards through **Article XXII**, justice / emergency boundaries through **Article XXIII** and its subarticles, and transition-phase adjudication support as **Article XXV** references into this file and **`corpus_institutions.md`** **CI-14**.
 
-**Implementation cross-reference index (routing only):** This companion file is implemented with `corpus_joint_structure.md` implementation labels **PRIM1**, **PRIM2**, **PRIM4**, **PRIM5**, **PRIM6**, **PRIM7**, **PRIM8**, **PRIM9**, **PRIM10**, **PRIM11**, **PRIM12**, **PRIM14**, **PRIM15**, **PROT1**, **PROT2**, **PROT3**, **PROT4**, **PROT5**, and **PROT6** where materially applicable. This index is routing guidance only and does not redefine owner-layer meaning.
+**Implementation cross-reference index (routing only):** This implementation file is read with `corpus_joint_structure.md` implementation labels **PRIM1**, **PRIM2**, **PRIM4**, **PRIM5**, **PRIM6**, **PRIM7**, **PRIM8**, **PRIM9**, **PRIM10**, **PRIM11**, **PRIM12**, **PRIM14**, **PRIM15**, **PROT1**, **PROT2**, **PROT3**, **PROT4**, **PROT5**, and **PROT6** where materially applicable. This index is routing guidance only and does not redefine owner-layer meaning.
 
 ## FORUMS REGISTRY (stable section families)
 
@@ -49,7 +49,7 @@ Shared preamble contract: apply `corpus_joint_structure.md` **CJS-1.1**.
 
 This file governs how constitutional forum families are constituted, supported, monitored, kept independent, and kept operable under stress.
 
-**Core / companion boundary for forums:**
+**Core / implementation boundary for forums:**
 - `core_09-09_forum.md` **Chapter Nine** owns which forum family decides which primary question and why.
 - `corpus_forum.md` owns how forums are operationally constituted, reviewed, supported, measured, and kept independent in practice.
 
@@ -59,7 +59,7 @@ This file must not:
 - replace general constitutional due-process, traceability, or rights rules with weaker local procedure;
 - create a parallel offense taxonomy.
 
-**Joint companion read:** for cross-companion structural integration (institutions, systems, and implementation labels that materially support or bound forums), **`corpus_joint_structure.md` CJS-2** (especially **CJS-2.2**) and **CJS-3**.
+**Joint implementation read:** for cross-implementation structural integration (institutions, systems, and implementation labels that materially support or bound forums), **`corpus_joint_structure.md` CJS-2** (especially **CJS-2.2**) and **CJS-3**.
 
 ---
 
@@ -185,7 +185,7 @@ For this section:
 - `panel coordinator` means the published role responsible for recording panel formation, disclosures, recusals, substitutions, and inability-to-form findings. This role may be clerical, judicial-administrative, or equivalent, but must not unilaterally decide contested recusal merits where the coordinator is materially interested.
 - `backup activation` means transfer or co-routing to the constitutionally designated backup family under Chapter Eight when the otherwise designated lead family cannot provide a lawful and independent merits forum.
 
-For cross-companion interoperability, read these local definitions with `corpus_joint_structure.md` **CJS-4.7** (Tier 1 abstractions for delegated bodies, lawful independent forums, backup activation, and representative treatment).
+For cross-implementation interoperability, read these local definitions with `corpus_joint_structure.md` **CJS-4.7** (Tier 1 abstractions for delegated bodies, lawful independent forums, backup activation, and representative treatment).
 
 ### CF-3.2 Minimum lawful-panel requirements
 Every forum family must maintain a published panel-formation rule set that states:
@@ -501,7 +501,7 @@ Omission of a materially required element makes the corrective measure or restri
 **Minimum recognition record.** A recognition, validation, or revalidation record must identify:
 - the system, operator or steward, claimed scope, deployment context, and affected stakeholder or dependency classes;
 - the Chapter S2 classification, Chapter S3 stewardship tier where applicable, and the evidence supporting those classifications;
-- the constitutional provisions, Rights-Floor obligations, PRIM/PROT controls, and companion requirements treated as material;
+- the constitutional provisions, Rights-Floor obligations, PRIM/PROT controls, and implementation requirements treated as material;
 - where ecological exposure is material, the Environment forum environmental-alignment component record, including approval, conditional approval, objection, remediation requirements, or release-from-condition findings;
 - the technical specifications, measurement methods, test protocols, expert-evidence standards, testing, audit, simulation, incident, red-team, stress, accessibility, and stakeholder-feedback evidence considered;
 - material uncertainties, residual risks, rejected alternatives, and monitoring commitments;
@@ -589,7 +589,7 @@ Where institutions exercise or supervise **civil**, **criminal**, **constitution
 
 **Independence and appointment.** Appointment, removal protection, conflict screening, recusal, and challenge pathways must satisfy `corpus_institutions.md` **CI-4** and **CI-5**. For materially sensitive or high-impact scopes, institutions should use mixed appointment, fixed terms, transparent qualification criteria, and external participation sufficient to reduce dependence on any single operational appointing chain.
 
-**Protected investigations and rights.** Investigative restrictions, delayed notice, compartmentalization, sealed steps, protected-activity handling, and remedy for tainted collection remain governed by `core_10-10_rights_part_c.md` **Article XIII-A**, **Chapter Five** (*Necessity*, *Proportionality*, *Oversight*, *Accountability*, *Transparency*) and [Evidence Preservation](core_05-05_definitions_c_dependent_clusters.md#evidence-preservation), and applicable secrecy-implementation rules in companion files. **CF-8** adds the forum-interface record rule: when those measures are requested, authorized, reviewed, renewed, narrowed, or found defective, the record must state the lawful objective, scope, duration or expiry, review point, minimization or segregation handling, protected-activity analysis where material, and the available exclusion, deletion, notice, derivative-use, or later-challenge path where lawful.
+**Protected investigations and rights.** Investigative restrictions, delayed notice, compartmentalization, sealed steps, protected-activity handling, and remedy for tainted collection remain governed by `core_10-10_rights_part_c.md` **Article XIII-A**, **Chapter Five** (*Necessity*, *Proportionality*, *Oversight*, *Accountability*, *Transparency*) and [Evidence Preservation](core_05-05_definitions_c_dependent_clusters.md#evidence-preservation), and applicable secrecy-implementation rules in implementation files. **CF-8** adds the forum-interface record rule: when those measures are requested, authorized, reviewed, renewed, narrowed, or found defective, the record must state the lawful objective, scope, duration or expiry, review point, minimization or segregation handling, protected-activity analysis where material, and the available exclusion, deletion, notice, derivative-use, or later-challenge path where lawful.
 
 **Outputs and interfaces.** The investigative service must produce attributable, reviewable records stating scope, steps taken, evidentiary basis, uncertainty, preserved exculpatory and inculpatory material, and referral or closure reasons. Those records must support:
 - prosecutorial or civil-enforcement decisions without making the investigators the final charging or merits authority;

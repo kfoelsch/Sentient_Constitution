@@ -8,7 +8,7 @@ Upstream constitutional direction for this file begins in [core_00-01_principles
 ## CHAPTER TEN: FOUNDATIONAL RIGHTS
 This chapter is the constitutional owner of Rights Floors and rights-level interpretive scope.
 
-Designated implementation layers operationalize these rights but must not narrow, redefine, or relocate them. The converse-direction discipline — **Chapter Ten** does not absorb process mechanics, governance details, or implementation obligations belonging to **Chapters Two through Four**, **Chapter Six**, **Chapter Eight**, **Chapter Nine**, **Chapter Eleven**, **Chapter Twelve**, **Chapter Fifteen**, **Chapter Fifteen**, or any companion implementation layer — is stated in the closing **Scope Limit and Layer Discipline (Rights-Floor Boundary Watch)** section at the end of **Part D** and applies across **Parts A through D**.
+Designated implementation layers operationalize these rights but must not narrow, redefine, or relocate them. The converse-direction discipline — **Chapter Ten** does not absorb process mechanics, governance details, or implementation obligations belonging to **Chapters Two through Four**, **Chapter Six**, **Chapter Eight**, **Chapter Nine**, **Chapter Eleven**, **Chapter Twelve**, **Chapter Fifteen**, **Chapter Fifteen**, or any implementation layer — is stated in the closing **Scope Limit and Layer Discipline (Rights-Floor Boundary Watch)** section at the end of **Part D** and applies across **Parts A through D**.
 
 **Default constraint stack.** Unless a provision in this chapter expressly states otherwise, rights in this chapter are subject to the following:
 - **Chapter One** — Safety, Truth, Necessity, Proportionality, systemic evaluation including local, aggregate, delayed, and cross-system effects, and section 6 interaction rules.
@@ -142,9 +142,9 @@ The Earth's biophysical and living-system conditions are preconditions for every
 *In plain terms: environmental costs tied to activities and systems—including upstream and downstream links—should be counted and reported honestly enough for comparison and audit when applicable transparency rules require it; this subsection supplies the shared vocabulary and integrity standards for doing that, but mandatory cuts or numeric caps come from other provisions or instruments, not from this subsection acting alone.*
 
 - **Footprint:** **Ecological Footprint** in Chapter Five defines how environmental burdens (energy, materials, emissions, land use, and cognate pressures) are **attributed** to a sentient actor, **System**, product, or service—including across **Dependency** relationships and a materially relevant lifecycle—and how those burdens support **disclosure**, **comparison**, and informed discussion of **footprint reduction**.
-  - **Scope on this floor:** the definition applies wherever those burdens are materially at issue under **Article I** or where footprint-related transparency is required or invoked under another Rights-Floor provision (including **Article XV-C** and related implementation companion rules). This subsection does not, by itself, fix accounting methods, verification protocols, or numeric targets; those follow the instrument that imposes the duty.
+  - **Scope on this floor:** the definition applies wherever those burdens are materially at issue under **Article I** or where footprint-related transparency is required or invoked under another Rights-Floor provision (including **Article XV-C** and related implementation file rules). This subsection does not, by itself, fix accounting methods, verification protocols, or numeric targets; those follow the instrument that imposes the duty.
   - **Evaluation and reporting:** where footprint information must be produced or relied upon, assessment must be systemic for **Material Impact**, and presentation must satisfy **Transparency** and **Epistemic Integrity** as set out in Chapter Five.
-  - **Reduction:** nothing in this Article **alone** creates a binding obligation to achieve footprint reduction; binding duties to reduce, cap, or remediate arise only when another constitutional provision, implementation companion, or applicable instrument expressly imposes them.
+  - **Reduction:** nothing in this Article **alone** creates a binding obligation to achieve footprint reduction; binding duties to reduce, cap, or remediate arise only when another constitutional provision, implementation file, or applicable instrument expressly imposes them.
 
 #### Article I-C: Intergenerational Responsibility
 <details>
@@ -220,7 +220,7 @@ This Article states **constitutional floors** for the material stewardship of du
 
 The canonical Chapter Five anchors for those concepts live in the **Article II-A** *Definitions · Evaluation · Compliance* widget, which is where this Article operatively invokes them. The opening sentence above is a roadmap pointer under [doc_architecture.md](doc_architecture.md) rule 12 *Roadmap exclusion* and does not re-invoke those concepts at the Article-opener level.
 
-Procedural detail for **Article II** lives in companion text:
+Procedural detail for **Article II** lives in implementation text:
 
 - **Covered product categories**, qualified-maintainer standards, thresholds, and escrow and wind-down mechanics are governed by **[corpus_systems.md](corpus_systems.md)** — including **Protocol A** and related material — and by **`corpus_institutions.md`** where designated.
 - Those owner layers must **implement** the **Article II** floors and must **not narrow** them.
@@ -522,9 +522,9 @@ Procedural detail for **Article II** lives in companion text:
   - access is not consent to intrusion;
   - affirmative access does not license compelled treatment.
   - Any compelled or involuntary intervention is governed by **Article VII-C** and the **Article VII-A** / **Article XXIII** framework.
-- **Limits and companion routing:** Any limit on access must satisfy **Necessity**, **Proportionality**, **Protected Characteristics**, and **Substantive Fairness**.
-  - Operational mechanics — cost, distribution, workforce, and system design — route to companion institutional text (**`corpus_institutions.md`** CI-9 / CI-10 / CI-11) and other incorporated implementation text under **Chapter Fifteen** discipline.
-  - That companion text must not be read to narrow this floor.
+- **Limits and implementation routing:** Any limit on access must satisfy **Necessity**, **Proportionality**, **Protected Characteristics**, and **Substantive Fairness**.
+  - Operational mechanics — cost, distribution, workforce, and system design — route to institutional implementation text (**`corpus_institutions.md`** CI-9 / CI-10 / CI-11) and other incorporated implementation text under **Chapter Fifteen** discipline.
+  - That implementation text must not be read to narrow this floor.
 
 #### Article III-D: Labor and Economic Floor
 
@@ -533,7 +533,7 @@ Procedural detail for **Article II** lives in companion text:
 
 - Upstream: Principles: Chapter One [2. Foundational Objective: Wellbeing](core_00-01_principles.md#2-foundational-objective-wellbeing), [§8 Freedom (Bounded Agency)](core_00-01_principles.md#8-freedom-bounded-agency), [6.3 Freedom-Limitation Constraints](core_00-01_principles.md#63-freedom-limitation-constraints), [7.2.2 Stewardship and Operator Incentive Alignment](core_00-01_principles.md#722-stewardship-and-operator-incentive-alignment).
 - Downstream: **Article III-A** survival floor (read-on-top-of, not substitute-for), **Article III-B** educational access, **Article V-A** dignity, **Article V-B** non-discrimination, **Article IX-B** free association, **Article XII-A** reliability (as it bears on safe conditions), **Article XVIII** standing and participation, **Chapter One §5.1** non-concentration (explicit: §5.1 alone does not satisfy this floor).
-- Read with: Chapter Five *Fair Compensation*, *Collective Organization*, *Safe Conditions*, *Anti-Displacement Floor*, *Leisure and Rest*, *Indigenous Continuity*, and *Language, Culture, and Heritage*; [§3.7 *Bodily-Maintenance Access, Safe Conditions, Tenure Security, Environmental Preconditions, Cultural Continuity, Rest, and Anti-Displacement Floor*](core_05-05_definitions_c_dependent_clusters.md#safe-conditions-tenure-security-and-environmental-preconditions-cluster) (where survival, bodily-maintenance access, tenure, rest, safe labor conditions, anti-displacement, environmental preconditions, or place-linked continuity are materially implicated together); [§3.5 *Assembly and Collective Organization*](core_05-05_definitions_c_dependent_clusters.md#assembly-and-collective-organization-cluster) (where assembly and collective-organization pathways are jointly implicated). Companion routing: `corpus_institutions.md` CI-9 / CI-10 / CI-11 fiscal material; `corpus_systems.md` Protocol A safety profile for *Safe Conditions*.
+- Read with: Chapter Five *Fair Compensation*, *Collective Organization*, *Safe Conditions*, *Anti-Displacement Floor*, *Leisure and Rest*, *Indigenous Continuity*, and *Language, Culture, and Heritage*; [§3.7 *Bodily-Maintenance Access, Safe Conditions, Tenure Security, Environmental Preconditions, Cultural Continuity, Rest, and Anti-Displacement Floor*](core_05-05_definitions_c_dependent_clusters.md#safe-conditions-tenure-security-and-environmental-preconditions-cluster) (where survival, bodily-maintenance access, tenure, rest, safe labor conditions, anti-displacement, environmental preconditions, or place-linked continuity are materially implicated together); [§3.5 *Assembly and Collective Organization*](core_05-05_definitions_c_dependent_clusters.md#assembly-and-collective-organization-cluster) (where assembly and collective-organization pathways are jointly implicated). Implementation routing: `corpus_institutions.md` CI-9 / CI-10 / CI-11 fiscal material; `corpus_systems.md` Protocol A safety profile for *Safe Conditions*.
 
 </details>
 
@@ -587,9 +587,9 @@ Procedural detail for **Article II** lives in companion text:
 - **Non-concentration interaction:** **Chapter One §5.1** non-concentration discipline applies to productive-activity power structures, but it is distinct from this floor.
   - A market structure that satisfies non-concentration while failing Fair Compensation, Collective Organization, Safe Conditions, or Leisure and Rest is non-compliant under this Article.
   - A productive-activity structure that satisfies this Article while concentrating power contrary to §5.1 is non-compliant under §5.1.
-- **Limits and companion routing:** Any limit on **Fair Compensation**, **Collective Organization**, **Safe Conditions**, or **Leisure and Rest** must satisfy **Necessity**, **Proportionality**, **Protected Characteristics**, and **Substantive Fairness**.
+- **Limits and implementation routing:** Any limit on **Fair Compensation**, **Collective Organization**, **Safe Conditions**, or **Leisure and Rest** must satisfy **Necessity**, **Proportionality**, **Protected Characteristics**, and **Substantive Fairness**.
   - Operational mechanics — fiscal orientation, transfer and insurance design, standards-setting for Safe Conditions, and collective-organization institutional design — route to `corpus_institutions.md` CI-9 / CI-10 / CI-11 and to `corpus_systems.md` Protocol A under **Chapter Fifteen** incorporation discipline.
-  - Those companion texts must not be read to narrow this floor.
+  - Those implementation texts must not be read to narrow this floor.
 
 ### Article IV: Resource Allocation, Dependencies, and Ecosystem Funding
 Resource flows among interdependent systems must remain:

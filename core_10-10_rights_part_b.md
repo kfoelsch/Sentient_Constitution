@@ -173,7 +173,7 @@ The principles of this Article constrain all interpretation, design, and operati
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: Principles: Chapter One [3.2 Truth](core_00-01_principles.md#32-truth-epistemic-integrity-constraint), [6.1 Core Tradeoff Principles](core_00-01_principles.md#61-core-tradeoff-principles), and [6.1.1 Reversibility-under-uncertainty](core_00-01_principles.md#611-proportionality-necessity-and-reversibility-under-uncertainty).
-- Downstream: **Article V-A** dignity floor, **Article XXII** anti-capture safeguards, **Chapter Nine** forums and jurisdiction; companion **`core_09-09_forum.md`** designated-forum-family hook.
+- Downstream: **Article V-A** dignity floor, **Article XXII** anti-capture safeguards, **Chapter Nine** forums and jurisdiction; related **`core_09-09_forum.md`** designated-forum-family hook.
 - Read with: Chapter Five *Sentience Status Adjudication*, *Sentience Non-Exclusion*, *Sentience Evaluation*, *Reversibility*, *Contestability*.
 
 </details>
@@ -210,8 +210,8 @@ The principles of this Article constrain all interpretation, design, and operati
 - **Reversibility and remedy:** A determination later shown to have been wrongful, under- or mis-evidenced, or captured by **Article XIII-A** or **Article XXII** vectors must be reversible.
   - The entity's Chapter Ten rights must be restored, with **Chapter Five** (**Redress and Remediation**) applied to the interim period.
 - **Non-conflation:** This Article states the Rights-Floor *adjudication* right.
-  - Operational procedure — institutional design, appointment mechanics, filing conditions, and sequencing — routes to **Chapter Nine** and to companion implementation text under the **Chapter Fifteen** incorporation discipline.
-  - That companion text must not be read to narrow this floor.
+  - Operational procedure — institutional design, appointment mechanics, filing conditions, and sequencing — routes to **Chapter Nine** and to implementation text under the **Chapter Fifteen** incorporation discipline.
+  - That implementation text must not be read to narrow this floor.
 
 #### Article V-F: Developing Sentients, Best-Interest, and Graduated Capability
 
@@ -597,7 +597,7 @@ Where analysis of experiential or behavioral data produces outputs that function
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: Principles: Chapter One [§8 Freedom](core_00-01_principles.md#8-freedom-bounded-agency), [6.3 Freedom-Limitation Constraints](core_00-01_principles.md#63-freedom-limitation-constraints), and [3.2 Truth](core_00-01_principles.md#32-truth-epistemic-integrity-constraint).
-- Downstream: **Article V-A** dignity floor, **Article V-F** developing-sentient floor, **Article VII-A / VII-B** self-ownership and internal-state boundary; companion institutional interfaces under **Chapter Fifteen** incorporation discipline.
+- Downstream: **Article V-A** dignity floor, **Article V-F** developing-sentient floor, **Article VII-A / VII-B** self-ownership and internal-state boundary; institutional implementation interfaces under **Chapter Fifteen** incorporation discipline.
 - Read with: [Chapter Five §3.15 *Derived and Developing Sentients, Instantiation, and Care Authority*](core_05-05_definitions_c_dependent_clusters.md#derived-developing-sentients-instantiation-and-care-authority-cluster) (joint-invocation home for derivation, instantiation, developing-sentient treatment, care, parent-system stewardship, and non-separation); Chapter Five *Family and Care Relationships*, *Reproductive Autonomy*, *Non-Separation*, *Derived Sentient*, *Instantiation Consent*, *Parent-System Relationship*.
 
 </details>

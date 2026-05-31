@@ -38,7 +38,7 @@ Articles: Apply with **Sentient Constitution Chapter Ten (Articles V–XXV)** an
 
 **Implementation label-layer routing (illustrative; non-exhaustive):** **PRIM1**, **PRIM4**, **PRIM5**, **PRIM6**, **PRIM7**, **PRIM9**, **PRIM11**, and **PRIM12**; also read this implementation group's *Incentive Alignment and Mechanism Integrity* meta-integrity obligation.
 
-**Trust degradation as harm:** **Monitor**, **detect**, and **mitigate** trust erosion under **`core_05-05_definitions_c_dependent_clusters.md` Chapter Five, section 3.39** and **CJS-4.4** where **cross-companion** trust applies. That work must **not** narrow **Epistemic Integrity**, **Truth (Constitutional Constraint)**, **Transparency**, or **Article XII-C**.
+**Trust degradation as harm:** **Monitor**, **detect**, and **mitigate** trust erosion under **`core_05-05_definitions_c_dependent_clusters.md` Chapter Five, section 3.39** and **CJS-4.4** where **cross-implementation** trust applies. That work must **not** narrow **Epistemic Integrity**, **Truth (Constitutional Constraint)**, **Transparency**, or **Article XII-C**.
 
 **Sustained** failure to restore trustworthiness may yield **loss of standing**, **restricted participation**, or **replacement** under applicable governance.
 
@@ -123,11 +123,11 @@ Where **full** compliance is **not** maintainable: **prioritize** **Safety** and
 
 **Preservation ordering (degraded conditions):** **Safety** → **Truth (Epistemic Integrity)** → **System Stability (Trust)** → **Functional Performance**.
 
-**Governance continuity under stress:** For **high-impact** systems, **[corpus_systems.md](../corpus_systems.md), Protocol A** and **Chapter S3 — Critical System Stewardship** govern designated crisis authority, crisis communications, and periodic exercises. That work does **not** displace **Sentient Constitution Chapter Ten, Article XXIII** (*Conflict Resolution, Escalation, and Emergency Proportionality*), **PROT2**, [core_11-11_governance.md](../core_11-11_governance.md) **Chapter Eleven**, or related cross-companion requirements. Where those layers and **institutions** or **forums** govern the same facts, read **CJS-2** and **CJS-3.2**.
+**Governance continuity under stress:** For **high-impact** systems, **[corpus_systems.md](../corpus_systems.md), Protocol A** and **Chapter S3 — Critical System Stewardship** govern designated crisis authority, crisis communications, and periodic exercises. That work does **not** displace **Sentient Constitution Chapter Ten, Article XXIII** (*Conflict Resolution, Escalation, and Emergency Proportionality*), **PROT2**, [core_11-11_governance.md](../core_11-11_governance.md) **Chapter Eleven**, or related cross-implementation requirements. Where those layers and **institutions** or **forums** govern the same facts, read **CJS-2** and **CJS-3.2**.
 
 **Layer B — Integrity implementation labels (PRIM9–PRIM15)**
 The following integrity implementation labels operationalize and test the Meta-Integrity constraints above.
-Unless a section states otherwise, when cross-companion structural duties cover the same facts, read **CJS-2.2**, **CJS-R19** (*cross-companion integrity assurance and resilience operations*), and **CJS-5.1** for joint interface requirements.
+Unless a section states otherwise, when cross-implementation structural duties cover the same facts, read **CJS-2.2**, **CJS-R19** (*cross-implementation integrity assurance and resilience operations*), and **CJS-5.1** for joint interface requirements.
 
 ---
 

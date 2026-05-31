@@ -325,7 +325,7 @@ Where material disagreement requires a **binding stakeholder choice** within an 
 
 - Upstream: [§1](#1-authorization-and-legitimacy-of-governing-authority)–[§4](#4-voting-and-binding-collective-choice-protocols) how authority is authorized, recorded, and exercised in collective choice.
 - Downstream: Role integrity and due-process requirements in [Article XI-D: Internal Roles, Accountability, and Due-Process Requirements](core_10-10_rights_part_b.md#article-xi-d-internal-roles-accountability-and-due-process-requirements); **corpus** design and lane hooks in [corpus_systems.md](corpus_systems.md), [corpus_institutions.md](corpus_institutions.md), and [corpus_joint_structure.md](corpus_joint_structure.md) as cited below.
-- Read with: **[corpus_systems.md](corpus_systems.md)** (**Chapter S3**, Protocol S5) and **CI-4** / **CI-11** / **CI-12** in the companion corpora referenced in operative text.
+- Read with: **[corpus_systems.md](corpus_systems.md)** (**Chapter S3**, Protocol S5) and **CI-4** / **CI-11** / **CI-12** in the implementation corpus referenced in operative text.
 
 </details>
 

@@ -23,9 +23,9 @@ Upstream constitutional direction for this file's definitions begins in [core_00
 ### Canonical home and non-duplication rule
 Each constitutional definition, definition description, and clustered traceability concept must have one canonical home in this corpus. That canonical home governs meaning, scope, and satisfaction conditions.
 
-No incorporated or companion text may create a parallel definition, competing gloss, or narrowing restatement of a term whose canonical home is assigned by this Constitution or by the corpus architecture map adopted under it.
+No incorporated or implementation text may create a parallel definition, competing gloss, or narrowing restatement of a term whose canonical home is assigned by this Constitution or by the corpus architecture map adopted under it.
 
-Companion and incorporated text may operationalize canonical terms only by pointer plus layer-specific criteria, procedures, classifications, controls, or implementation conditions within their assigned scope.
+Incorporated implementation text may operationalize canonical terms only by pointer plus layer-specific criteria, procedures, classifications, controls, or implementation conditions within their assigned scope.
 
 Any subsection-local terminology in such text must be expressly identified as local and non-redefinitional unless and until adopted into a canonical definition owner.
 
@@ -405,9 +405,9 @@ Independent Definitions must not fragment, isolate, or redistribute compliance i
 
 <br>
 
-- O: Governance intensity, [oversight](core_05-05_definitions_a_independent.md#oversight-constitutional) depth, verification burden, and procedural rigor must scale with [material impact](core_05-05_definitions_b_semi_independent.md#material-impact), [dependency](#dependency), and [risk](#risk). Scaling follows system classification and implementation companion criteria, including *[corpus_systems.md](corpus_systems.md)*, Chapter S2 — System Classification and Handling, and dependent provisions.
+- O: Governance intensity, [oversight](core_05-05_definitions_a_independent.md#oversight-constitutional) depth, verification burden, and procedural rigor must scale with [material impact](core_05-05_definitions_b_semi_independent.md#material-impact), [dependency](#dependency), and [risk](#risk). Scaling follows system classification and implementation file criteria, including *[corpus_systems.md](corpus_systems.md)*, Chapter S2 — System Classification and Handling, and dependent provisions.
 <a id="classification-scaled-governance-e"></a>
-- E: Apply the operative classification under implementation companion rules together with [Materiality Determination](core_05-05_definitions_b_semi_independent.md#materiality-determination) and [System Boundary Integrity](core_05-05_definitions_b_semi_independent.md#system-boundary-integrity). Self-assigned or informal low classification is not sufficient where full functional effects warrant higher [Oversight](core_05-05_definitions_a_independent.md#oversight-constitutional) or governance.
+- E: Apply the operative classification under implementation file rules together with [Materiality Determination](core_05-05_definitions_b_semi_independent.md#materiality-determination) and [System Boundary Integrity](core_05-05_definitions_b_semi_independent.md#system-boundary-integrity). Self-assigned or informal low classification is not sufficient where full functional effects warrant higher [Oversight](core_05-05_definitions_a_independent.md#oversight-constitutional) or governance.
 <a id="classification-scaled-governance-c"></a>
 - C: Non-compliant: operating or classifying a system below the level warranted by its full functional effects; applying class-gated obligations inconsistently with assigned classification where [Material Impact](core_05-05_definitions_b_semi_independent.md#material-impact), [Dependency](#dependency), or [Risk](#risk) require stronger governance.
 
@@ -886,7 +886,7 @@ Independent Definitions must not fragment, isolate, or redistribute compliance i
 
 - O: Recognition that life-supporting natural systems — including Earth's biosphere as described in Article I-A — have continuity and integrity interests. Those interests must inform interpretation and governance alongside sentient interests, and must not be treated solely as extractive inventory.
 <a id="natural-systems-standing-e"></a>
-- E: Align with [Ecological Integrity](core_05-05_definitions_b_semi_independent.md#ecological-integrity-constitutional), [Environmental Preconditions](core_05-05_definitions_b_semi_independent.md#environmental-preconditions-constitutional), [Harm](core_05-05_definitions_c_dependent_clusters.md#harm), and [Risk](#risk). Article I-A and implementation companion protocols supply operational measures and must not narrow this recognition.
+- E: Align with [Ecological Integrity](core_05-05_definitions_b_semi_independent.md#ecological-integrity-constitutional), [Environmental Preconditions](core_05-05_definitions_b_semi_independent.md#environmental-preconditions-constitutional), [Harm](core_05-05_definitions_c_dependent_clusters.md#harm), and [Risk](#risk). Article I-A and implementation protocols supply operational measures and must not narrow this recognition.
 <a id="natural-systems-standing-c"></a>
 - C: Non-compliant: treating natural systems as lacking protectable interests where Article I-A or binding environmental norms require such consideration.
 

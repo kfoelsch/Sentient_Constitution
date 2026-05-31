@@ -16,7 +16,7 @@ Canonical meaning for constitutional terms, Rights Floors, and definition-satisf
 
 Shared preamble contract: apply `corpus_joint_structure.md` **CJS-1.1**.
 
-**Implementation cross-reference index (routing only):** This companion file is implemented with `corpus_joint_structure.md` implementation labels **PRIM1**, **PRIM2**, **PRIM4**, **PRIM5**, **PRIM6**, **PRIM7**, **PRIM8**, **PRIM9**, **PRIM10**, **PRIM11**, **PRIM12**, **PRIM14**, **PRIM15**, **PROT1**, **PROT2**, **PROT3**, **PROT4**, **PROT5**, and **PROT6** where materially applicable. This index is routing guidance only and does not redefine owner-layer meaning.
+**Implementation cross-reference index (routing only):** This implementation file is read with `corpus_joint_structure.md` implementation labels **PRIM1**, **PRIM2**, **PRIM4**, **PRIM5**, **PRIM6**, **PRIM7**, **PRIM8**, **PRIM9**, **PRIM10**, **PRIM11**, **PRIM12**, **PRIM14**, **PRIM15**, **PROT1**, **PROT2**, **PROT3**, **PROT4**, **PROT5**, and **PROT6** where materially applicable. This index is routing guidance only and does not redefine owner-layer meaning.
 
 ---
 
@@ -32,7 +32,7 @@ Institutions may design local procedures, but those procedures must remain consi
 
 This file applies that meaning to institutional design and operation.
 
-**Joint companion read:** where institutional rules intersect **[corpus_systems.md](corpus_systems.md)** classification, **PRIM/PROT** implementation labels, or **Chapter Nine** forum operations, read **`corpus_joint_structure.md`** **CJS-2** (especially **CJS-2.2**) and **CJS-3** in addition to the owner sections cited in each topic.
+**Joint implementation read:** where institutional rules intersect **[corpus_systems.md](corpus_systems.md)** classification, **PRIM/PROT** implementation labels, or **Chapter Nine** forum operations, read **`corpus_joint_structure.md`** **CJS-2** (especially **CJS-2.2**) and **CJS-3** in addition to the owner sections cited in each topic.
 
 ### CI-1.1: Definition discipline and source hierarchy
 Definition discipline is single-home:
@@ -50,7 +50,7 @@ That format uses a titled entry followed by:
 - **`- OP-E:`** for how satisfaction is assessed or evidenced,
 - **`- OP-C:`** for binding operational requirements and non-compliance hooks.
 
-These labels align by analogy with **Chapter Two**, section **2** (*Ontological (O)*, *Evaluative (E)*, *Compliance (C)*) but remain local to this companion institutional-law file.
+These labels align by analogy with **Chapter Two**, section **2** (*Ontological (O)*, *Evaluative (E)*, *Compliance (C)*) but remain local to this institutional implementation file.
 
 The consequences of that structure are:
 - **OP-** lines are **not** Independent Definitions,
@@ -81,14 +81,14 @@ Application rules are strict:
 
 This follows the **joint invocation and satisfaction** rule for **Dependent clusters** in `core_05-05_definitions_c_dependent_clusters.md` **Chapter Five**, **section 3** (*Dependent clusters*), by structural analogy.
 
-Operational clusters remain local to this companion institutional-law file:
+Operational clusters remain local to this institutional implementation file:
 - they are **not** **Chapter Five** Clustered Definitions,
 - they do **not** add **Independent Definitions**.
 
 Any **read-with** cross-reference stated in the head **OP-O** remains operative for the whole cluster, for example to **CI-10.2** where **recurring or transaction-linked charges** apply.
 
 ### CI-1.4: Section identifiers and article references
-Headings use **CI-1** through **CI-24** (*Corpus Institutions* section *n*). Subsections under each section use **CI-*n*.*m*** (for example **CI-7.2**). They must not be read as Sentient Constitution **Article** numbers. The abbreviation **CI** matches `doc_architecture.md` (*Corpus Institutions* companion institutional-law file).
+Headings use **CI-1** through **CI-24** (*Corpus Institutions* section *n*). Subsections under each section use **CI-*n*.*m*** (for example **CI-7.2**). They must not be read as Sentient Constitution **Article** numbers. The abbreviation **CI** matches `doc_architecture.md` (*Corpus Institutions* institutional implementation file).
 
 Unless another reference pattern is stated, **Article** labels with Roman numerals in this file point to Sentient Constitution Chapter Ten in the `core_10-10_rights_part_*.md` files.
 
@@ -211,7 +211,7 @@ Disclosure, cure, and consequence rules:
 - where a breach is not grave under this section, institutions may allow a documented cure window only when cure does not itself create material prejudice, concealment, or integrity distortion;
 - intentional concealment, record falsification, retaliatory suppression, or repeated breach after cure is aggravated integrity misconduct and must be treated as a sanctions escalator under **CI-11** and **CI-13**.
 
-The following breaches constitute grave integrity failure. They must result in immediate forfeiture of the affected authorized role(s) and any companion role(s) the institution's published conflict controls identify as integrity-linked to that breach:
+The following breaches constitute grave integrity failure. They must result in immediate forfeiture of the affected authorized role(s) and any associated role(s) the institution's published conflict controls identify as integrity-linked to that breach:
 - material breach of disclosure before material decision participation, where disclosure is required,
 - failure to recuse where conflict is material and recusal is required,
 - material breach of related-party and beneficial-interest reporting, where reporting is required.
@@ -303,7 +303,7 @@ Minimum disclosure bundle (**`INST-PROTO-11`** and **`INST-PROTO-17`** interface
 
 Institutions must not use the controls declaration as a narrative substitute for current operational reality. If a material failure remains unresolved at publication time, the declaration must say so plainly and must identify the interim constitutional safeguard **mode**.
 
-For supervised systems, institutions should require a companion system-level packet proportionate to class and dependency. See `implementation/SYSTEMS_IMPLEMENTATION_TEMPLATES_2026-04-13.md` for reusable implementation templates covering system cards, model cards, post-deployment monitoring cadence, incident reporting bundles, and material control-failure disclosure packets.
+For supervised systems, institutions should require a supporting system-level packet proportionate to class and dependency. See `implementation/SYSTEMS_IMPLEMENTATION_TEMPLATES_2026-04-13.md` for reusable implementation templates covering system cards, model cards, post-deployment monitoring cadence, incident reporting bundles, and material control-failure disclosure packets.
 
 ### CI-7.2: External assurance triggers
 Independent external assurance is mandatory when trigger thresholds are met.
@@ -742,7 +742,7 @@ Institutions should publish **phased** **transition** plans that include:
 
 ## CI-15A: Innovation reward, disclosure, and anti-enclosure
 
-**Purpose and owner boundary.** This section governs institutional handling of innovation-reward systems where constitutional adoption brings them within scope. Constitutional meaning remains in **Chapter Five** (*Innovation Reward and Anti-Enclosure*) and **Chapter Ten**, **Article XVII-D**. Cross-companion implementation and burden discipline remain in `corpus_joint_structure.md` **PRIM7**, **PROT4**, **CJS-5.8**, and **CJS-5.19**. This section supplies only the institutional registry, review, access-order, sunset, and appeal mechanics.
+**Purpose and owner boundary.** This section governs institutional handling of innovation-reward systems where constitutional adoption brings them within scope. Constitutional meaning remains in **Chapter Five** (*Innovation Reward and Anti-Enclosure*) and **Chapter Ten**, **Article XVII-D**. Cross-implementation and burden discipline remain in `corpus_joint_structure.md` **PRIM7**, **PROT4**, **CJS-5.8**, and **CJS-5.19**. This section supplies only the institutional registry, review, access-order, sunset, and appeal mechanics.
 
 **Default institutional preference.** Where multiple reward mechanisms are feasible, institutions should prefer the least restrictive mechanism that can still sustain future innovation. That preference order generally favors attribution, milestone prizes, public or cooperative buyouts, levy-funded reward pools, pooled or standardized licensing, and compulsory-access tools before broad exclusion rights for high-dependency domains.
 

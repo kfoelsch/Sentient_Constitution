@@ -43,7 +43,7 @@ This edition treats the following chapters as binding constitutional text, not a
 - Use **Chapter Twelve** in `core_12-14_amendment.md` for non-regression and substantive amendment validity (Test 1; anti-evasion; referral triggers).
 - Use **Chapter Thirteen** in `core_12-14_amendment.md` for expansion of protection, supremacy relative to other norms, and external legal orders.
 - Use **Chapter Fourteen** in `core_12-14_amendment.md` for ratification, adoption, procedural validity tests (Tests 2–4), and amendment procedure requirements.
-- Use **Chapter Fifteen** in `core_15-15_incorporation.md` for the incorporation bridge (what companion files bind, adoption and custody, and no silent drift).
+- Use **Chapter Fifteen** in `core_15-15_incorporation.md` for the incorporation bridge (what implementation files bind, adoption and custody, and no silent drift).
 
 **Fast Locator:**
 - Rights Floor -> **Chapter Ten** (`core_10-10_rights_part_a.md` through `core_10-10_rights_part_d.md`; see [architecture_primer.md](architecture_primer.md) **section 6** for Part A–D reading map)
@@ -75,11 +75,11 @@ If `---` sits directly under a paragraph, CommonMark-style parsers may treat tha
 
 Related documents (same corpus):
 
-- **corpus_systems.md** — operational taxonomies and protocols. Coverage includes data types (**Chapter S1**), system classes and dependency types (**Chapter S2**), steward tiers (**Chapter S3**), and companion protocols.
-- **corpus_joint_structure.md** — compatibility entrypoint for the joint-structure companion; substantive CJS text lives in `corpus_joint_structure/` subfiles, including **Implementation Groups One through Four** (Meta-Integrity, Presentation, Architecture, governance implementation labels).
+- **corpus_systems.md** — operational taxonomies and protocols. Coverage includes data types (**Chapter S1**), system classes and dependency types (**Chapter S2**), steward tiers (**Chapter S3**), and implementation protocols.
+- **corpus_joint_structure.md** — compatibility entrypoint for the joint-structure implementation file; substantive CJS text lives in `corpus_joint_structure/` subfiles, including **Implementation Groups One through Four** (Meta-Integrity, Presentation, Architecture, governance implementation labels).
 - **corpus_institutions.md** — binding incorporated institutional law for governance architecture, oversight and assurance structure, proportionality-scaled formation and operation, and institutional sanctions/dissolution pathways.
 - **corpus_forum.md** — forum-operational doctrine for panel formation, recusal, review lanes, forensic and investigative support, technical specialist forums, performance requirements, and continuity / emergency adjudication.
-- **corpus_joint_structure.md** — wrapper index for cross-companion joint structural rules and integration interfaces among implementation labels, systems, institutions, and forums.
+- **corpus_joint_structure.md** — wrapper index for cross-implementation joint structural rules and integration interfaces among implementation labels, systems, institutions, and forums.
 
 **Incorporation rule:** Obligations in the **corpus_joint_structure.md** wrapper and linked `corpus_joint_structure/` subfiles, **corpus_systems.md**, **corpus_institutions.md**, and **corpus_forum.md** are **binding implementation text incorporated by reference** into the corpus. They do **not** create a second constitutional source.
 

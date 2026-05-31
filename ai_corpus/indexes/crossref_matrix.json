@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/crossref_matrix.schema.json",
-  "generated_at": "2026-05-31T17:37:17+00:00",
+  "generated_at": "2026-05-31T18:51:34+00:00",
   "description": "Source-derived file-to-file Markdown reference graph.",
   "graph": {
     "nodes": [
@@ -93,7 +93,7 @@
         "type": "companion"
       },
       {
-        "id": "corpus_joint_structure/cjs_02_companion_integration_map.md",
+        "id": "corpus_joint_structure/cjs_02_implementation_integration_map.md",
         "type": "companion"
       },
       {
@@ -105,7 +105,7 @@
         "type": "companion"
       },
       {
-        "id": "corpus_joint_structure/cjs_05_cross_companion_operational_terms.md",
+        "id": "corpus_joint_structure/cjs_05_cross_implementation_operational_terms.md",
         "type": "companion"
       },
       {
@@ -3431,7 +3431,7 @@
             "anchors": []
           },
           {
-            "file": "corpus_joint_structure/cjs_02_companion_integration_map.md",
+            "file": "corpus_joint_structure/cjs_02_implementation_integration_map.md",
             "count": 1,
             "anchors": []
           },
@@ -3446,7 +3446,7 @@
             "anchors": []
           },
           {
-            "file": "corpus_joint_structure/cjs_05_cross_companion_operational_terms.md",
+            "file": "corpus_joint_structure/cjs_05_cross_implementation_operational_terms.md",
             "count": 1,
             "anchors": []
           },
@@ -3496,7 +3496,7 @@
         "source": "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md",
         "targets": [
           {
-            "file": "corpus_joint_structure/cjs_02_companion_integration_map.md",
+            "file": "corpus_joint_structure/cjs_02_implementation_integration_map.md",
             "count": 1,
             "anchors": []
           },
@@ -3508,7 +3508,7 @@
         ]
       },
       {
-        "source": "corpus_joint_structure/cjs_02_companion_integration_map.md",
+        "source": "corpus_joint_structure/cjs_02_implementation_integration_map.md",
         "targets": [
           {
             "file": "core_05-05_definitions_c_dependent_clusters.md",
@@ -3533,7 +3533,7 @@
             "anchors": []
           },
           {
-            "file": "corpus_joint_structure/cjs_05_cross_companion_operational_terms.md",
+            "file": "corpus_joint_structure/cjs_05_cross_implementation_operational_terms.md",
             "count": 1,
             "anchors": []
           }
@@ -3548,14 +3548,14 @@
             "anchors": []
           },
           {
-            "file": "corpus_joint_structure/cjs_05_cross_companion_operational_terms.md",
+            "file": "corpus_joint_structure/cjs_05_cross_implementation_operational_terms.md",
             "count": 2,
             "anchors": []
           }
         ]
       },
       {
-        "source": "corpus_joint_structure/cjs_05_cross_companion_operational_terms.md",
+        "source": "corpus_joint_structure/cjs_05_cross_implementation_operational_terms.md",
         "targets": [
           {
             "file": "corpus_joint_structure/cjs_06_stable_identifiers_edition_alignment.md",

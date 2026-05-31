@@ -157,7 +157,7 @@ Adopted governance implementation provides escalation, proportionality of interv
   - procedural convenience;
   - discriminatory burdening;
   - collective retaliation.
-  
+
   No justice measure may reduce:
   - baseline dignity protections;
   - minimum subsistence access;
@@ -170,7 +170,7 @@ Adopted governance implementation provides escalation, proportionality of interv
     - timely notice;
     - stated reasons;
     - practical access to the record sufficient to use those pathways.
-  
+
   Narrow, justified restrictions under **Chapter One** are the only permissible limit on the above.
 #### Article XXIII-D: Emergency Measures and Continuation Burden
 <details>
@@ -199,7 +199,7 @@ Adopted governance implementation provides escalation, proportionality of interv
   - time-limited;
   - documented;
   - consistent with **Articles V**, **XX**, and **Chapter One** constraints.
-  
+
   Each measure must carry:
   - a default expiry;
   - a predefined independent review cadence;
@@ -329,7 +329,7 @@ Inertia, convenience, and historical precedent alone cannot entrench arrangement
 
 - **Periodic review:** Material governance and allocation mechanisms must be subject to:
   - periodic revalidation and transparency;
-  - stakeholder-visible criteria for continuation or replacement, as implemented in implementation companion protocols and governance safeguards.
+  - stakeholder-visible criteria for continuation or replacement, as implemented in implementation protocols and governance safeguards.
 - **Accelerated review:** Revalidation must accelerate where evidence shows any of the following:
   - capture pressure;
   - stakeholder exclusion;
@@ -414,7 +414,7 @@ Transitional governance exists to secure continuity and non-regression. It must 
   - agency;
   - challenge rights;
   - non-discrimination.
-  
+
   Transitional simplification must not:
   - reduce these floors below constitutional minimums;
   - make their exercise materially less usable in practice.
@@ -474,7 +474,7 @@ Transitional governance exists to secure continuity and non-regression. It must 
 - **Failure handling and off-ramps:** Transition plans must preserve continuity and avoid:
   - governance vacuum;
   - lock-in when milestones fail.
-  
+
   Predefined fallback pathways, partial rollback criteria, and re-baselining procedures are governed by `corpus_institutions.md` **CI-14**.
   - Failed or degraded transitional states must not become a new baseline by persistence alone.
   - Material baseline reset requires constitutionally valid authority and traceable justification.
@@ -546,7 +546,7 @@ Transitional governance exists to secure continuity and non-regression. It must 
   - baseline wellbeing;
   - lawful livelihood;
   - meaningful agency.
-  
+
   An exception applies only where:
   - **Necessity** is documented under **Chapter One §6.4**;
   - **timely substitute provision** is feasible where required.
@@ -568,23 +568,23 @@ This chapter does **not** establish, restate, or expand:
 
 - **general contribution / violation / standing classification** (Axes I / II), which remains owned by **Chapter Six** (*Contribution, Violation, and Standing Model*) in [core_06-06_standing_assessment.md](core_06-06_standing_assessment.md) and [core_07-07_standing_integration.md](core_07-07_standing_integration.md);
 - **final Violation Axis s = 7, 8, or 9** classification for **anti-constitutional misconduct** (criteria, due-process safeguards, and cross-chapter discipline), which remains owned **only** by **Chapter Eight** (*Anti-Constitutional Misconduct*) in [core_08-08_misconduct.md](core_08-08_misconduct.md#chapter-eight-anti-constitutional-misconduct);
-- **forum structure, family, jurisdiction, or adjudicative workflow**, which remains owned by **Chapter Nine** (*Adjudicative Bodies, Jurisdiction, and Constitutional Adjudication*) in [core_09-09_forum.md](core_09-09_forum.md), with companion-layer detail in [corpus_forum.md](corpus_forum.md);
+- **forum structure, family, jurisdiction, or adjudicative workflow**, which remains owned by **Chapter Nine** (*Adjudicative Bodies, Jurisdiction, and Constitutional Adjudication*) in [core_09-09_forum.md](core_09-09_forum.md), with implementation-layer detail in [corpus_forum.md](corpus_forum.md);
 - **governance legitimacy mechanics**, including stewardship-direction **rules**, ecosystem-value orientation, concentration-threshold enforcement procedure, and democratic-institution checks at the operating layer, which remain owned by **Chapter Eleven** (*Governance Legitimacy*) in [core_11-11_governance.md](core_11-11_governance.md);
 - **substantive non-regression validity standards**, which remain owned by **Chapter Twelve** (*Non-Regression and Substantive Amendment Validity*) in [core_12-14_amendment.md](core_12-14_amendment.md);
 - **procedural and custody validity** for amendment, ratification, and adoption (Tests 2 through 4, review triggers, provisional effect, invalid-change handling, ratification and adoption instruments, amendment procedure requirements), which remain owned by **Chapter Fourteen** (*Amendment, Ratification, and Procedural Validity*) in [core_12-14_amendment.md](core_12-14_amendment.md);
 - **incorporation, custody chain, edition pinning, and adoption-framing mechanics**, which remain owned by **Chapter Fifteen** (*Incorporation and Operative Effect*) in [core_15-15_incorporation.md](core_15-15_incorporation.md);
 - **definition mechanics and verification mechanics** (definition structure, observability and traceability burden, verification accessibility), which remain owned by **Chapters Two through Four** in [core_02-04_definition_mechanics.md](core_02-04_definition_mechanics.md); and
-- **operational implementation, system-design, institutional, forum-operational, or joint structural detail**, which remains owned by the designated **Corpus** companion implementation layers per the **Authority Stack and Internal Hierarchy** cluster in [Chapter Five](core_05-05_definitions_c_dependent_clusters.md#authority-stack) and the quick authority order in [README.md](README.md).
+- **operational implementation, system-design, institutional, forum-operational, or joint structural detail**, which remains owned by the designated **Corpus** implementation text layers per the **Authority Stack and Internal Hierarchy** cluster in [Chapter Five](core_05-05_definitions_c_dependent_clusters.md#authority-stack) and the quick authority order in [README.md](README.md).
 
 Pointer-only cross-references from **Chapter Ten** into the canonical owner layers above — including read-with directives, default-constraint-stack invocation, interpretive-hub anchors, and integration sentences such as "implementation belongs in" or "must not narrow" — are permitted and expected; **substantive restatement** of process / governance / implementation mechanics into rights-layer text is **non-compliant** under this section.
 
 Reader-guidance, reading-map, and orientation prose in this chapter (including the **Part A** opening default-constraint stack, planet-first reading-order explanation, interpretive-hub anchors, and reader map; the **Part D** justice-and-evolution opening framing; and any forward / backward navigation pointers across **Parts A through D**) is **non-operative for relocation**: it does not create, narrow, or relocate Rights Floors and does not import process / governance / implementation mechanics from other owner layers into **Chapter Ten**.
 
-Future additions to **Chapter Ten** that touch process-flavored, governance-flavored, or implementation-flavored language **must include an explicit non-relocation pointer** to the canonical owner home named above (and, where applicable, to the corresponding Chapter Five definition entry as the constitutional-layer integration point) so the rights-layer floor stays at the rights-layer floor and the process / governance / implementation home retains canonical authority. 
+Future additions to **Chapter Ten** that touch process-flavored, governance-flavored, or implementation-flavored language **must include an explicit non-relocation pointer** to the canonical owner home named above (and, where applicable, to the corresponding Chapter Five definition entry as the constitutional-layer integration point) so the rights-layer floor stays at the rights-layer floor and the process / governance / implementation home retains canonical authority.
 
-Cross-layer drift that imports process mechanics, governance details, or implementation obligations from **Chapters Two through Four**, **Chapter Six**, **Chapter Eight**, **Chapter Nine**, **Chapter Eleven**, **Chapter Twelve**, **Chapter Fifteen**, **Chapter Fifteen**, or any companion implementation file into **Chapter Ten** — whether as direct text, as reader-guidance prose elevated to operative **effect**, or as inference from cross-references — is **non-compliant** under this section. 
+Cross-layer drift that imports process mechanics, governance details, or implementation obligations from **Chapters Two through Four**, **Chapter Six**, **Chapter Eight**, **Chapter Nine**, **Chapter Eleven**, **Chapter Twelve**, **Chapter Fifteen**, or any implementation text file into **Chapter Ten** — whether as direct text, as reader-guidance prose elevated to operative **effect**, or as inference from cross-references — is **non-compliant** under this section.
 
-Conversely, any owner-layer chapter or companion implementation file that purports to **narrow, redefine, or relocate** a Chapter Ten Rights Floor through process-mechanics framing, governance-procedure framing, implementation-detail framing, or reader-guidance elevation is non-compliant under **Chapter Twelve** non-regression and under the opening contract of **Part A** (Rights-Floor inviolability against operationalization-driven narrowing).
+Conversely, any owner-layer chapter or implementation text file that purports to **narrow, redefine, or relocate** a Chapter Ten Rights Floor through process-mechanics framing, governance-procedure framing, implementation-detail framing, or reader-guidance elevation is non-compliant under **Chapter Twelve** non-regression and under the opening contract of **Part A** (Rights-Floor inviolability against operationalization-driven narrowing).
 
 For a non-operative reading walkthrough of **Chapter Ten** rights-layer architecture, see [architecture_primer.md](architecture_primer.md). The doctrinal map is in [doc_architecture.md](doc_architecture.md) **section 5** (Chapter Ten rows) and **section 17** (current edition cut).
 

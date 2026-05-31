@@ -462,7 +462,7 @@ Restrictions that prevent meaningful independent validation of materially releva
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: Principles: [Chapter Four, section 5 — Security-Constrained Observability and Verification Rule](#5-security-constrained-observability-and-verification-rule); [Chapter One, section 3.1 — Safety (Harm Constraint)](core_00-01_principles.md#31-safety-harm-constraint); [Chapter One, section 3.2 — Truth (Epistemic Integrity Constraint)](core_00-01_principles.md#32-truth-epistemic-integrity-constraint).
-- Downstream: Implementation-layer choices live in `corpus_systems.md`, incorporated companion protocols, and adopter technical baselines; this subsection states constitutional outcomes only. Cross-reads: Article VII-A (Self-Ownership), Article VII-B (Internal-State Boundary and Type-N Protection), Article XV-A, and Article XVI-A where environment-separation constraints are material.
+- Downstream: Implementation-layer choices live in `corpus_systems.md`, incorporated implementation protocols, and adopter technical baselines; this subsection states constitutional outcomes only. Cross-reads: Article VII-A (Self-Ownership), Article VII-B (Internal-State Boundary and Type-N Protection), Article XV-A, and Article XVI-A where environment-separation constraints are material.
 - Read with: [Chapter Five Truth (Constitutional Constraint)](core_05-05_definitions_c_dependent_clusters.md#truth-constitutional-constraint) and [Chapter Five Safety (Constraint)](core_05-05_definitions_a_independent.md#safety-constraint) — cryptographic controls must stay consistent with both and must not be invoked to replace sections 3 through 6 of this chapter.
 
 </details>
@@ -479,7 +479,7 @@ Restrictions that prevent meaningful independent validation of materially releva
 
 **Cryptography** (encryption, signing, **key** management, **credential** and **token** protection) serves **confidentiality**, **integrity**, **authenticity**, and **misuse resistance**. Those services must stay consistent with [Truth (Constitutional Constraint)](core_05-05_definitions_c_dependent_clusters.md#truth-constitutional-constraint) and [Safety (Constraint)](core_05-05_definitions_a_independent.md#safety-constraint), and with **Articles VII-A and VII-B** (*Self-Ownership*; *Internal-State Boundary and Type-N Protection*). They must also stay consistent with **Chapter One**, section 6.2 (*Epistemic Disclosure Constraints*) where applicable.
 
-**Operational** choices—algorithms, key lengths, rotation cadences, HSM use, and protocol suites—are specified in **corpus_systems.md**, incorporated companion protocols, and adopters’ technical baselines.
+**Operational** choices—algorithms, key lengths, rotation cadences, HSM use, and protocol suites—are specified in **corpus_systems.md**, incorporated implementation protocols, and adopters’ technical baselines.
 
 This subsection states **constitutional outcomes**, not cipher catalogs.
 

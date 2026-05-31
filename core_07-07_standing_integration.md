@@ -786,7 +786,7 @@ The purpose of **standing locks** is to prevent recurrence of harmful, negligent
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [§4](#8-cross-axis-coupling-and-escalation-constraints), including [§4.2](#62-joint-assessment-escalation-constraints-and-scrutiny) and [§4.3](#standing-integration-slot-band-standing-locks) (*classification stack, non-substitution discipline, and standing locks*).
-- Downstream: [Chapter Twelve §1](core_12-14_amendment.md#4-disputes-involving-external-legal-orders) (*external-order disputes read with cross-jurisdiction continuity*); **[corpus_systems.md](corpus_systems.md)** and companion implementation (*operational detail for these anchors*).
+- Downstream: [Chapter Twelve §1](core_12-14_amendment.md#4-disputes-involving-external-legal-orders) (*external-order disputes read with cross-jurisdiction continuity*); **[corpus_systems.md](corpus_systems.md)** and implementation text (*operational detail for these anchors*).
 - Read with: [Chapter Five — Redress and Remediation](core_05-05_definitions_a_independent.md#redress-and-remediation-constitutional) (*remedy-organ durability hook*); [Article XII-B](core_10-10_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress) (*challenge and redress access*).
 
 </details>

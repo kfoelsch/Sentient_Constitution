@@ -2,7 +2,7 @@
 
 This file holds specific joint interlocks and shared abstractions, including delegated authority, implementation-label boundary discipline, trust-integrity routing, definition-collision handling, class-scaled lane staffing, and shared procedural abstractions.
 
-These rules sit between the general joint-compliance rules in [cjs_03_joint_structural_obligations.md](cjs_03_joint_structural_obligations.md) and the operational cluster library in [cjs_05_cross_companion_operational_terms.md](cjs_05_cross_companion_operational_terms.md). Owner detail remains in **CI** and **CF** as routed by **CJS-2.2**.
+These rules sit between the general joint-compliance rules in [cjs_03_joint_structural_obligations.md](cjs_03_joint_structural_obligations.md) and the operational cluster library in [cjs_05_cross_implementation_operational_terms.md](cjs_05_cross_implementation_operational_terms.md). Owner detail remains in **CI** and **CF** as routed by **CJS-2.2**.
 
 ### CJS-4.1 Mandatory hybrid authority composition (delegated binding bodies)
 Use this rule for two hybrid-composition router topics: **CJS-R01**, delegated binding bodies and hybrid composition for non-forum institutions under **CI-9.1B**; and **CJS-R02**, forum chambers, divisions, and designated panels under **CF-2.5** through **CF-2.5.4**.
@@ -30,7 +30,7 @@ Where **CJS-4.1** applies, the instrument must publish:
 
 Sample formulas are illustrative unless a domain owner makes them mandatory. Home-based term rules do not need to mirror rotating attachment rules.
 
-### CJS-4.3 Implementation companion boundary (CP to CJS seam)
+### CJS-4.3 Implementation boundary (CP to CJS seam)
 Under the shared boundary in **CJS-1.3**, the CJS implementation-group files remain the operative home for their local implementation labels.
 
 When revising **CP** implementation text:
@@ -38,15 +38,15 @@ When revising **CP** implementation text:
 - keep read-with restatements short; and
 - preserve **PRIM** and **PROT** labels so citations remain traceable under **CJS-3.6**.
 
-### CJS-4.4 Cross-companion trust integrity (joint operation model)
-Use this rule for **CJS-R17**, cross-companion trust integrity, and for any trust claim that depends on more than one companion working together.
+### CJS-4.4 Cross-implementation trust integrity (joint operation model)
+Use this rule for **CJS-R17**, cross-implementation trust integrity, and for any trust claim that depends on more than one implementation file working together.
 
 The meanings of **Trust**, **Trustworthiness**, and **Trust Degradation and Misleading Reliance** remain in `core_05-05_definitions_c_dependent_clusters.md` **Chapter Five, section 3.39**. This subsection only explains the joint-operation duties.
 
-A trustworthiness claim is non-compliant if one companion gives reassuring signals while another companion in the same chain leaves unresolved problems that defeat observable, verifiable, or contestable reliance.
+A trustworthiness claim is non-compliant if one implementation file gives reassuring signals while another implementation file in the same chain leaves unresolved problems that defeat observable, verifiable, or contestable reliance.
 
-Where trust depends on multiple companions, institutions must maintain a published and auditable map that identifies:
-- the companion duties, classification conditions, dependencies, steward duties, and assurance burdens supporting the trust claim;
+Where trust depends on multiple implementation files, institutions must maintain a published and auditable map that identifies:
+- the implementation duties, classification conditions, dependencies, steward duties, and assurance burdens supporting the trust claim;
 - the contest, escalation, evidence, and correction routes affected sentients can use; and
 - the accountable owners for correction and restoration.
 
@@ -96,4 +96,4 @@ Owner detail remains in `corpus_institutions.md` including **CI-6**, **CI-8**, *
 
 ---
 
-**Next file:** [cjs_05_cross_companion_operational_terms.md](cjs_05_cross_companion_operational_terms.md)
+**Next file:** [cjs_05_cross_implementation_operational_terms.md](cjs_05_cross_implementation_operational_terms.md)

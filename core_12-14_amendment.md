@@ -13,7 +13,7 @@ This file is **part of the Sentient Constitution** and is **binding only togethe
 >
 > Where this lives (navigation):
 > - **Constitutional owner:** substantive non-regression floor; Test 1 (substantive non-regression invalidity); anti-evasion; regressive-deception referral triggers. Procedural validity, ratification, and amendment procedure requirements are in **Chapter Fourteen**. Supremacy relative to other norms and external legal orders are in **Chapter Thirteen**.
-> - **Implementation owner:** designated companion implementation text governs execution mechanics for review operations, publication workflows, designated institutional procedure, forum operations where designated, and cross-companion joint structure where designated.
+> - **Implementation owner:** designated implementation text governs execution mechanics for review operations, publication workflows, designated institutional procedure, forum operations where designated, and cross-implementation joint structure where designated.
 > - **Anti-relocation rule:** this chapter does not assign final offense labels or sanction taxonomy; final **Violation Axis s = 7, 8, or 9** classification for anti-constitutional misconduct remains in **Chapter Eight** of [core_08-08_misconduct.md](core_08-08_misconduct.md#chapter-eight-anti-constitutional-misconduct).
 >
 > **Architecture — *In plain terms* placement:** Each *In plain terms* line appears immediately after the Trace navigational block (and the line break that follows it), and **before** the operative paragraphs and bullet lists for that section or subsection. Reader-facing gloss only; it does not add, remove, or narrow binding text.
@@ -107,7 +107,7 @@ Where amendment or adoption conduct indicates serious misconduct, a mandatory re
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [§3](#3-anti-evasion-clause-and-constitutional-misconduct-referral) referral-only discipline; [Chapter Six](core_06-06_standing_assessment.md#chapter-six-compliance-violation-and-standing-model) and [Chapter Eight](core_08-08_misconduct.md#chapter-eight-anti-constitutional-misconduct) canonical owners.
-- Downstream: [Chapter Fourteen §12](core_12-14_amendment.md#12-scope-limit-and-layer-discipline) mirrored procedural-layer discipline; companion implementation for review execution mechanics.
+- Downstream: [Chapter Fourteen §12](core_12-14_amendment.md#12-scope-limit-and-layer-discipline) mirrored procedural-layer discipline; implementation text for review execution mechanics.
 - Read with: [architecture_primer.md](architecture_primer.md) on change-path and incorporation; [Chapter Fourteen](core_12-14_amendment.md#chapter-fourteen-amendment-ratification-and-procedural-validity) for validity tests that do not duplicate slot-classification taxonomy.
 
 </details>
@@ -122,7 +122,7 @@ This chapter does not establish final constitutional offense labels, final offen
 
 Where slot-flavored or classification-flavored language appears in this chapter or in **Chapter Fourteen**, it operates only as a **trigger or referral heuristic** for routing matters to the canonical owners. For final offense classification, that language is **non-canonical**.
 
-Detailed institutional procedure, staffing mechanics, forum-operational workflow, and cross-companion joint structural integration for review execution belong to the owner layers (**Sentient Constitution Chapters Six through Fourteen** and designated companion implementation text where applicable). Those owner layers must not be read as relocating constitutional validity standards out of **Chapters Eleven and Thirteen**, Axes I / II classification authority out of **Chapter Six**, or final **Violation Axis s = 7, 8, or 9** classification authority out of **Chapter Eight** in [core_08-08_misconduct.md](core_08-08_misconduct.md#chapter-eight-anti-constitutional-misconduct).
+Detailed institutional procedure, staffing mechanics, forum-operational workflow, and cross-implementation joint structural integration for review execution belong to the owner layers (**Sentient Constitution Chapters Six through Fourteen** and designated implementation text where applicable). Those owner layers must not be read as relocating constitutional validity standards out of **Chapters Eleven and Thirteen**, Axes I / II classification authority out of **Chapter Six**, or final **Violation Axis s = 7, 8, or 9** classification authority out of **Chapter Eight** in [core_08-08_misconduct.md](core_08-08_misconduct.md#chapter-eight-anti-constitutional-misconduct).
 
 Cross-layer drift that imports adjudicative workflow or sanction mechanics from **Chapter Six**, **Chapter Seven**, or **Chapter Eight** into **Chapter Twelve** or **Chapter Fourteen** — whether as direct text, as reader-guidance prose treated as operative effect, or as inference from review-trigger language — is non-compliant under this section.
 
@@ -206,7 +206,7 @@ No amendment process may suspend constitutional supremacy, auditability, or chal
 
 <br>
 
-*In plain terms: For adopters, this Constitution and its definitions take precedence over ordinary policy and companion implementation — each within its proper scope. Valid external law that is stricter still governs when it can be honored without violating Safety or Truth. When outside rules and **Constitution**-level **rights** conflict, document the tension, mitigate harm, and work toward harmonization; do not shop for the weakest forum.*
+*In plain terms: For adopters, this Constitution and its definitions take precedence over ordinary policy and implementation text — each within its proper scope. Valid external law that is stricter still governs when it can be honored without violating Safety or Truth. When outside rules and **Constitution**-level **rights** conflict, document the tension, mitigate harm, and work toward harmonization; do not shop for the weakest forum.*
 
 #### 3.1 Internal Hierarchy for Adopters
 <details>
@@ -222,7 +222,7 @@ No amendment process may suspend constitutional supremacy, auditability, or chal
 
 *In plain terms: the binding corpus and its definitions control how compliance is read for adopters, alongside adopted implementation in its lane — but nothing in that stack can be used to walk back Chapter Twelve floors or Chapter Five supremacy rules.*
 
-For adopting entities, this Constitution and its integrated definitions govern interpretation and compliance. Adopted companion implementation text governs as well for systems, stewardship, designated institutional relationships, forum operations, and cross-companion joint structure within the stated scope of adoption. That governance is subject to **Chapter Twelve** non-regression requirements and to **Supremacy and Enforceability** in Chapter Five. The canonical statement integrating this adopter-facing precedence with source-layer authority and the **Chapter One** last-resort hierarchy across principles, articles, and definitions lives at [Authority Stack and Internal Hierarchy](core_05-05_definitions_c_dependent_clusters.md#authority-stack) in Chapter Five.
+For adopting entities, this Constitution and its integrated definitions govern interpretation and compliance. Adopted implementation text governs as well for systems, stewardship, designated institutional relationships, forum operations, and cross-implementation joint structure within the stated scope of adoption. That governance is subject to **Chapter Twelve** non-regression requirements and to **Supremacy and Enforceability** in Chapter Five. The canonical statement integrating this adopter-facing precedence with source-layer authority and the **Chapter One** last-resort hierarchy across principles, articles, and definitions lives at [Authority Stack and Internal Hierarchy](core_05-05_definitions_c_dependent_clusters.md#authority-stack) in Chapter Five.
 
 #### 3.2 Stricter External Protections
 <details>
@@ -548,7 +548,7 @@ This Constitution binds a steward, organization, federation of bodies, or jurisd
 
 Adopters must maintain an identifiable instrument of adoption. Examples include **joining** by additional parties (with recorded assent), treaty or compact ratification, corporate or intergovernmental resolution, federated registry entry, or equivalent. The instrument must state the adopting entity, scope of adoption, and effective date. It must:
 
-- identify the custodian of the authoritative edition of this Constitution and its integrated companion files.
+- identify the custodian of the authoritative edition of this Constitution and its integrated implementation files.
 - be consistent with document-control expectations in **doc_architecture.md** (authoritative corpus, edition identifier, custody chain).
 - be consistent with **Corpus** in Chapter Five ([core_05-05_definitions_a_independent.md](core_05-05_definitions_c_dependent_clusters.md#corpus)).
 
