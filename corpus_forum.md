@@ -67,7 +67,7 @@ This file must not:
 
 This section governs how adopting systems convert the forum families recognized in `core_09-09_forum.md` **Chapter Nine** into actual tribunals, benches, chambers, and support structures.
 
-**Joint read:** for delegated-body and chamber overlap across institutions and forums, **`corpus_joint_structure.md` CJS-2.2** rows **CJS-R01**–**CJS-R02**, **CJS-3.4**, and **CJS-3.7**.
+**Joint read:** for delegated-body and chamber overlap across institutions and forums, **`corpus_joint_structure.md` CJS-2.2** rows **CJS-R01**–**CJS-R02**, **CJS-3.4**, and **CJS-4.1**.
 
 It sets structural requirements for:
 - tribunal mapping and public adjudicative architecture;
@@ -134,15 +134,15 @@ Each chamber-creation instrument must state:
 - the competence profile expected for service in the chamber.
 
 ### CF-2.5.2 Authority composition
-**Joint minimum.** Chamber-creation instruments in scope must satisfy **`corpus_joint_structure.md` CJS-3.7** (*Mandatory hybrid authority composition*). Read **CJS-3.7** with **CF-2.5.1**, **CF-2.5.3**, **CF-2.5.4**, and **CF-11** for identification, attachment bounds, home-based terms, and **forum** emergency deviation and return-to-baseline discipline.
+**Joint minimum.** Chamber-creation instruments in scope must satisfy **`corpus_joint_structure.md` CJS-4.1** (*Mandatory hybrid authority composition*). Read **CJS-4.1** with **CF-2.5.1**, **CF-2.5.3**, **CF-2.5.4**, and **CF-11** for identification, attachment bounds, home-based terms, and **forum** emergency deviation and return-to-baseline discipline.
 
 ### CF-2.5.3 Rotating authority: attachment bounds
-Apply **`corpus_joint_structure.md` CJS-3.7A** for shared rotating-attachment requirements (bounded formula, no undefined duration discretion, and illustration status).
+Apply **`corpus_joint_structure.md` CJS-4.2** for shared rotating-attachment requirements (bounded formula, no undefined duration discretion, and illustration status).
 
 **Suggested** guidance: treat **one calendar year** as the ordinary **maximum** for a single rotating attachment spell unless the instrument publishes a longer ceiling and a brief justification.
 
 ### CF-2.5.4 Home-based authority: term and renewal
-Apply **`corpus_joint_structure.md` CJS-3.7A** for shared home-based continuity requirements (published term/renewal/stagger rules and no mirror requirement relative to rotating formulas). Forum-specific continuity and emergency controls remain in **CF-11**.
+Apply **`corpus_joint_structure.md` CJS-4.2** for shared home-based continuity requirements (published term/renewal/stagger rules and no mirror requirement relative to rotating formulas). Forum-specific continuity and emergency controls remain in **CF-11**.
 
 ### CF-2.5.5 Appeals and review path
 Each chamber-creation instrument must state whether chamber rulings are appealable within the same family, directly to another family only on certified questions, or through another published review path consistent with Chapter Eight.
@@ -185,7 +185,7 @@ For this section:
 - `panel coordinator` means the published role responsible for recording panel formation, disclosures, recusals, substitutions, and inability-to-form findings. This role may be clerical, judicial-administrative, or equivalent, but must not unilaterally decide contested recusal merits where the coordinator is materially interested.
 - `backup activation` means transfer or co-routing to the constitutionally designated backup family under Chapter Eight when the otherwise designated lead family cannot provide a lawful and independent merits forum.
 
-For cross-companion interoperability, read these local definitions with `corpus_joint_structure.md` **CJS-3.12** (Tier 1 abstractions for delegated bodies, lawful independent forums, backup activation, and representative treatment).
+For cross-companion interoperability, read these local definitions with `corpus_joint_structure.md` **CJS-4.7** (Tier 1 abstractions for delegated bodies, lawful independent forums, backup activation, and representative treatment).
 
 ### CF-3.2 Minimum lawful-panel requirements
 Every forum family must maintain a published panel-formation rule set that states:
@@ -672,7 +672,7 @@ This section does not displace stricter lawful deadlines.
 
 ### CF-10.0 Class-scaled service requirements (notice through remediation closure)
 
-**Purpose:** This subsection applies **Contestability** and `corpus_joint_structure.md` **CJS-3.33** to forum timing and backlog discipline so notice, record access, review, appeal, restorative follow-through, and closure remain practically usable. It does **not** add **Chapter Ten** rights text; operational detail for non-forum institutions sits in **`corpus_institutions.md`** **CI-6**, **CI-12**, and **CI-13**.
+**Purpose:** This subsection applies **Contestability** and `corpus_joint_structure.md` **CJS-5.21** to forum timing and backlog discipline so notice, record access, review, appeal, restorative follow-through, and closure remain practically usable. It does **not** add **Chapter Ten** rights text; operational detail for non-forum institutions sits in **`corpus_institutions.md`** **CI-6**, **CI-12**, and **CI-13**.
 
 **Matter classes (minimum set for target windows and disclosure):**
 - **Emergency / imminent harm** — hours to a small number of days for initial responsive action where life, serious injury, or irreversible rights loss is at stake.

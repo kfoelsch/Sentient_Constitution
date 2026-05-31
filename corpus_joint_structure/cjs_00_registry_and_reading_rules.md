@@ -29,8 +29,10 @@ These are the stable section families for the CJS folder:
 
 - **CJS-1** — Scope, purpose, and boundary interface.
 - **CJS-2** — Companion integration map: owners, intentional overlap, and read-with order.
-- **CJS-3** — Joint structural obligations: requirements that cross domains.
-- **CJS-4** — Stable section identifiers, edition alignment, and drafting notes.
+- **CJS-3** — General joint structural obligations: requirements that cross domains.
+- **CJS-4** — Specific joint interlocks and shared abstractions.
+- **CJS-5** — Cross-companion operational cluster library.
+- **CJS-6** — Stable section identifiers, edition alignment, and drafting notes.
 
 ---
 

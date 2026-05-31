@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-05-31T00:21:54+00:00",
+  "generated_at": "2026-05-31T17:37:16+00:00",
   "files": {
     "core_00-01_principles.md": {
       "total_lines": 1446,
@@ -5873,20 +5873,20 @@
       ]
     },
     "corpus_joint_structure.md": {
-      "total_lines": 26,
+      "total_lines": 28,
       "sections": [
         {
           "header": "Constitutional joint structure",
           "level": 1,
           "line_start": 1,
-          "line_end": 26,
+          "line_end": 28,
           "anchor": null
         },
         {
           "header": "Joint Structure Index",
           "level": 2,
           "line_start": 9,
-          "line_end": 26,
+          "line_end": 28,
           "anchor": null
         }
       ]
@@ -5904,354 +5904,378 @@
         {
           "header": "Joint Structure Registry",
           "level": 2,
-          "line_start": 28,
+          "line_start": 26,
           "line_end": 39,
           "anchor": null
         }
       ]
     },
     "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md": {
-      "total_lines": 109,
+      "total_lines": 105,
       "sections": [
         {
           "header": "CJS-1: Scope, purpose, and boundary interface",
           "level": 2,
           "line_start": 1,
-          "line_end": 109,
+          "line_end": 105,
           "anchor": null
         },
         {
           "header": "CJS-1.1: Shared companion preamble contract",
           "level": 3,
-          "line_start": 17,
-          "line_end": 44,
+          "line_start": 15,
+          "line_end": 40,
           "anchor": null
         },
         {
           "header": "CJS-1.2: Section identifiers and article references",
           "level": 3,
-          "line_start": 45,
-          "line_end": 49,
+          "line_start": 41,
+          "line_end": 45,
           "anchor": null
         },
         {
           "header": "CJS-1.3: Joint structural boundary and owner discipline",
           "level": 3,
-          "line_start": 50,
-          "line_end": 61,
+          "line_start": 46,
+          "line_end": 57,
           "anchor": null
         },
         {
           "header": "CJS-1.4: Operational structure and subsection-local terminology",
           "level": 3,
-          "line_start": 62,
-          "line_end": 82,
+          "line_start": 58,
+          "line_end": 78,
           "anchor": null
         },
         {
           "header": "CJS-1.5: Operational clusters",
           "level": 3,
-          "line_start": 83,
-          "line_end": 109,
+          "line_start": 79,
+          "line_end": 105,
           "anchor": null
         }
       ]
     },
     "corpus_joint_structure/cjs_02_companion_integration_map.md": {
-      "total_lines": 79,
+      "total_lines": 68,
       "sections": [
         {
           "header": "CJS-2: Companion integration map",
           "level": 2,
           "line_start": 1,
-          "line_end": 79,
+          "line_end": 68,
           "anchor": null
         },
         {
           "header": "CJS-2.1: Intentional overlap (non-duplication discipline)",
           "level": 3,
-          "line_start": 33,
-          "line_end": 39,
-          "anchor": null
-        },
-        {
-          "header": "CJS-2.3: Two-tier definition contract (binding abstraction + owner detail)",
-          "level": 3,
-          "line_start": 40,
-          "line_end": 49,
+          "line_start": 22,
+          "line_end": 28,
           "anchor": null
         },
         {
           "header": "CJS-2.2: Topic router (stable IDs)",
           "level": 3,
-          "line_start": 50,
-          "line_end": 79,
+          "line_start": 29,
+          "line_end": 55,
+          "anchor": null
+        },
+        {
+          "header": "CJS-2.3: Two-tier definition contract (binding abstraction + owner detail)",
+          "level": 3,
+          "line_start": 56,
+          "line_end": 68,
           "anchor": null
         }
       ]
     },
     "corpus_joint_structure/cjs_03_joint_structural_obligations.md": {
-      "total_lines": 1025,
+      "total_lines": 46,
       "sections": [
         {
           "header": "CJS-3: Joint structural obligations (cross-domain requirements)",
           "level": 2,
           "line_start": 1,
-          "line_end": 1025,
+          "line_end": 46,
           "anchor": null
         },
         {
           "header": "CJS-3.1 When joint obligations apply",
           "level": 3,
-          "line_start": 9,
-          "line_end": 11,
-          "anchor": null
-        },
-        {
-          "header": "CJS-3.2 No false partial compliance across companions",
-          "level": 3,
-          "line_start": 12,
+          "line_start": 14,
           "line_end": 16,
           "anchor": null
         },
         {
-          "header": "CJS-3.3 Boundary Between Support Roles and Merits Decisions",
+          "header": "CJS-3.2 No false partial compliance across companions",
           "level": 3,
           "line_start": 17,
           "line_end": 21,
           "anchor": null
         },
         {
-          "header": "CJS-3.4 Institution-hosted or forum-adjacent operations",
+          "header": "CJS-3.3 Boundary Between Support Roles and Merits Decisions",
           "level": 3,
           "line_start": 22,
-          "line_end": 24,
+          "line_end": 28,
+          "anchor": null
+        },
+        {
+          "header": "CJS-3.4 Institution-hosted or forum-adjacent operations",
+          "level": 3,
+          "line_start": 29,
+          "line_end": 33,
           "anchor": null
         },
         {
           "header": "CJS-3.5 Classification alignment for supervised scope",
           "level": 3,
-          "line_start": 25,
-          "line_end": 27,
+          "line_start": 34,
+          "line_end": 38,
           "anchor": null
         },
         {
           "header": "CJS-3.6 Implementation-label traceability and stricter-wins discipline",
           "level": 3,
-          "line_start": 28,
-          "line_end": 30,
-          "anchor": null
-        },
-        {
-          "header": "CJS-3.7 Mandatory hybrid authority composition (delegated binding bodies)",
-          "level": 3,
-          "line_start": 31,
-          "line_end": 48,
-          "anchor": null
-        },
-        {
-          "header": "CJS-3.7A Shared attachment and continuity mechanics",
-          "level": 3,
-          "line_start": 49,
-          "line_end": 59,
-          "anchor": null
-        },
-        {
-          "header": "CJS-3.8 Implementation companion boundary (CP ↔ CJS seam)",
-          "level": 3,
-          "line_start": 60,
-          "line_end": 74,
-          "anchor": null
-        },
-        {
-          "header": "CJS-3.9 Cross-companion trust integrity (joint operation model)",
-          "level": 3,
-          "line_start": 75,
-          "line_end": 88,
-          "anchor": null
-        },
-        {
-          "header": "CJS-3.10 Definition collision and precedence discipline",
-          "level": 3,
-          "line_start": 89,
-          "line_end": 98,
-          "anchor": null
-        },
-        {
-          "header": "CJS-3.11 Class-scaled lane staffing and competency redundancy",
-          "level": 3,
-          "line_start": 99,
-          "line_end": 110,
-          "anchor": null
-        },
-        {
-          "header": "CJS-3.12 Shared procedural abstractions for delegated bodies and forum routing",
-          "level": 3,
-          "line_start": 111,
-          "line_end": 127,
-          "anchor": null
-        },
-        {
-          "header": "CJS-3.13 Cross-companion integrity assurance and resilience operations",
-          "level": 3,
-          "line_start": 128,
-          "line_end": 155,
-          "anchor": null
-        },
-        {
-          "header": "CJS-3.14 Cross-companion quorum and participatory legitimacy terms",
-          "level": 3,
-          "line_start": 156,
-          "line_end": 188,
-          "anchor": null
-        },
-        {
-          "header": "CJS-3.15 Cross-companion comprehensibility and cognitive accessibility terms",
-          "level": 3,
-          "line_start": 189,
-          "line_end": 236,
-          "anchor": null
-        },
-        {
-          "header": "CJS-3.16 Cross-companion salience integrity and attention-allocation terms",
-          "level": 3,
-          "line_start": 237,
-          "line_end": 289,
-          "anchor": null
-        },
-        {
-          "header": "CJS-3.17 Cross-companion disclosure sufficiency and observability terms",
-          "level": 3,
-          "line_start": 290,
-          "line_end": 317,
-          "anchor": null
-        },
-        {
-          "header": "CJS-3.18 Cross-companion dependency integrity and disclosure terms",
-          "level": 3,
-          "line_start": 318,
-          "line_end": 355,
-          "anchor": null
-        },
-        {
-          "header": "CJS-3.19 Cross-companion graceful degradation and failure-mode integrity terms",
-          "level": 3,
-          "line_start": 356,
-          "line_end": 403,
-          "anchor": null
-        },
-        {
-          "header": "CJS-3.20 Cross-companion interoperability, portability, and exit-integrity terms",
-          "level": 3,
-          "line_start": 404,
-          "line_end": 456,
-          "anchor": null
-        },
-        {
-          "header": "CJS-3.21 Cross-companion intervention and override integrity terms",
-          "level": 3,
-          "line_start": 457,
-          "line_end": 509,
-          "anchor": null
-        },
-        {
-          "header": "CJS-3.22 Cross-companion auditability and reconstructability terms",
-          "level": 3,
-          "line_start": 510,
-          "line_end": 537,
-          "anchor": null
-        },
-        {
-          "header": "CJS-3.23 Cross-companion tiered transparency and audit-access terms",
-          "level": 3,
-          "line_start": 538,
-          "line_end": 570,
-          "anchor": null
-        },
-        {
-          "header": "CJS-3.24 Cross-companion independent verification and claim-integrity terms",
-          "level": 3,
-          "line_start": 571,
-          "line_end": 598,
-          "anchor": null
-        },
-        {
-          "header": "CJS-3.25 Cross-companion reversibility and containment terms",
-          "level": 3,
-          "line_start": 599,
-          "line_end": 626,
-          "anchor": null
-        },
-        {
-          "header": "CJS-3.26 Cross-companion data-retention and lifecycle-integrity terms",
-          "level": 3,
-          "line_start": 627,
-          "line_end": 679,
-          "anchor": null
-        },
-        {
-          "header": "CJS-3.27 Cross-companion adversarial robustness and abuse-resistance terms",
-          "level": 3,
-          "line_start": 680,
-          "line_end": 737,
-          "anchor": null
-        },
-        {
-          "header": "CJS-3.28 Cross-companion distributed and proportional authority terms",
-          "level": 3,
-          "line_start": 738,
-          "line_end": 780,
-          "anchor": null
-        },
-        {
-          "header": "CJS-3.29 Cross-companion intervention governance and override-authorization terms",
-          "level": 3,
-          "line_start": 781,
-          "line_end": 823,
-          "anchor": null
-        },
-        {
-          "header": "CJS-3.30 Cross-companion reflexive transparency and accountability terms",
-          "level": 3,
-          "line_start": 824,
-          "line_end": 871,
-          "anchor": null
-        },
-        {
-          "header": "CJS-3.31 Cross-companion burden-of-justification and constraint terms",
-          "level": 3,
-          "line_start": 872,
-          "line_end": 909,
-          "anchor": null
-        },
-        {
-          "header": "CJS-3.32 Cross-companion constrained-secrecy and protected-investigation terms",
-          "level": 3,
-          "line_start": 910,
-          "line_end": 942,
-          "anchor": null
-        },
-        {
-          "header": "CJS-3.33 Cross-companion procedural integrity and adjudication terms",
-          "level": 3,
-          "line_start": 943,
-          "line_end": 985,
-          "anchor": null
-        },
-        {
-          "header": "CJS-3.34 Cross-companion structural review, correction urgency, and disclosure terms",
-          "level": 3,
-          "line_start": 986,
-          "line_end": 1025,
+          "line_start": 39,
+          "line_end": 46,
           "anchor": null
         }
       ]
     },
-    "corpus_joint_structure/cjs_04_stable_identifiers_edition_alignment.md": {
+    "corpus_joint_structure/cjs_04_specific_joint_interlocks.md": {
+      "total_lines": 93,
+      "sections": [
+        {
+          "header": "CJS-4: Specific joint interlocks and shared abstractions",
+          "level": 2,
+          "line_start": 1,
+          "line_end": 93,
+          "anchor": null
+        },
+        {
+          "header": "CJS-4.1 Mandatory hybrid authority composition (delegated binding bodies)",
+          "level": 3,
+          "line_start": 7,
+          "line_end": 23,
+          "anchor": null
+        },
+        {
+          "header": "CJS-4.2 Shared attachment and continuity mechanics",
+          "level": 3,
+          "line_start": 24,
+          "line_end": 32,
+          "anchor": null
+        },
+        {
+          "header": "CJS-4.3 Implementation companion boundary (CP to CJS seam)",
+          "level": 3,
+          "line_start": 33,
+          "line_end": 40,
+          "anchor": null
+        },
+        {
+          "header": "CJS-4.4 Cross-companion trust integrity (joint operation model)",
+          "level": 3,
+          "line_start": 41,
+          "line_end": 54,
+          "anchor": null
+        },
+        {
+          "header": "CJS-4.5 Definition collision and precedence discipline",
+          "level": 3,
+          "line_start": 55,
+          "line_end": 64,
+          "anchor": null
+        },
+        {
+          "header": "CJS-4.6 Class-scaled lane staffing and competency redundancy",
+          "level": 3,
+          "line_start": 65,
+          "line_end": 76,
+          "anchor": null
+        },
+        {
+          "header": "CJS-4.7 Shared procedural abstractions for delegated bodies and forum routing",
+          "level": 3,
+          "line_start": 77,
+          "line_end": 93,
+          "anchor": null
+        }
+      ]
+    },
+    "corpus_joint_structure/cjs_05_cross_companion_operational_terms.md": {
+      "total_lines": 890,
+      "sections": [
+        {
+          "header": "CJS-5: Cross-companion operational cluster library",
+          "level": 2,
+          "line_start": 1,
+          "line_end": 890,
+          "anchor": null
+        },
+        {
+          "header": "CJS-5.1 Cross-companion integrity assurance and resilience operations",
+          "level": 3,
+          "line_start": 7,
+          "line_end": 34,
+          "anchor": null
+        },
+        {
+          "header": "CJS-5.2 Cross-companion quorum and participatory legitimacy terms",
+          "level": 3,
+          "line_start": 35,
+          "line_end": 67,
+          "anchor": null
+        },
+        {
+          "header": "CJS-5.3 Cross-companion comprehensibility and cognitive accessibility terms",
+          "level": 3,
+          "line_start": 68,
+          "line_end": 115,
+          "anchor": null
+        },
+        {
+          "header": "CJS-5.4 Cross-companion salience integrity and attention-allocation terms",
+          "level": 3,
+          "line_start": 116,
+          "line_end": 168,
+          "anchor": null
+        },
+        {
+          "header": "CJS-5.5 Cross-companion disclosure sufficiency and observability terms",
+          "level": 3,
+          "line_start": 169,
+          "line_end": 196,
+          "anchor": null
+        },
+        {
+          "header": "CJS-5.6 Cross-companion dependency integrity and disclosure terms",
+          "level": 3,
+          "line_start": 197,
+          "line_end": 234,
+          "anchor": null
+        },
+        {
+          "header": "CJS-5.7 Cross-companion graceful degradation and failure-mode integrity terms",
+          "level": 3,
+          "line_start": 235,
+          "line_end": 282,
+          "anchor": null
+        },
+        {
+          "header": "CJS-5.8 Cross-companion interoperability, portability, and exit-integrity terms",
+          "level": 3,
+          "line_start": 283,
+          "line_end": 330,
+          "anchor": null
+        },
+        {
+          "header": "CJS-5.9 Cross-companion intervention and override integrity terms",
+          "level": 3,
+          "line_start": 331,
+          "line_end": 383,
+          "anchor": null
+        },
+        {
+          "header": "CJS-5.10 Cross-companion auditability and reconstructability terms",
+          "level": 3,
+          "line_start": 384,
+          "line_end": 411,
+          "anchor": null
+        },
+        {
+          "header": "CJS-5.11 Cross-companion tiered transparency and audit-access terms",
+          "level": 3,
+          "line_start": 412,
+          "line_end": 444,
+          "anchor": null
+        },
+        {
+          "header": "CJS-5.12 Cross-companion independent verification and claim-integrity terms",
+          "level": 3,
+          "line_start": 445,
+          "line_end": 472,
+          "anchor": null
+        },
+        {
+          "header": "CJS-5.13 Cross-companion reversibility and containment terms",
+          "level": 3,
+          "line_start": 473,
+          "line_end": 500,
+          "anchor": null
+        },
+        {
+          "header": "CJS-5.14 Cross-companion data-retention and lifecycle-integrity terms",
+          "level": 3,
+          "line_start": 501,
+          "line_end": 553,
+          "anchor": null
+        },
+        {
+          "header": "CJS-5.15 Cross-companion adversarial robustness and abuse-resistance terms",
+          "level": 3,
+          "line_start": 554,
+          "line_end": 611,
+          "anchor": null
+        },
+        {
+          "header": "CJS-5.16 Cross-companion distributed and proportional authority terms",
+          "level": 3,
+          "line_start": 612,
+          "line_end": 654,
+          "anchor": null
+        },
+        {
+          "header": "CJS-5.17 Cross-companion intervention governance and override-authorization terms",
+          "level": 3,
+          "line_start": 655,
+          "line_end": 692,
+          "anchor": null
+        },
+        {
+          "header": "CJS-5.18 Cross-companion reflexive transparency and accountability terms",
+          "level": 3,
+          "line_start": 693,
+          "line_end": 740,
+          "anchor": null
+        },
+        {
+          "header": "CJS-5.19 Cross-companion burden-of-justification and constraint terms",
+          "level": 3,
+          "line_start": 741,
+          "line_end": 778,
+          "anchor": null
+        },
+        {
+          "header": "CJS-5.20 Cross-companion constrained-secrecy and protected-investigation terms",
+          "level": 3,
+          "line_start": 779,
+          "line_end": 811,
+          "anchor": null
+        },
+        {
+          "header": "CJS-5.21 Cross-companion procedural integrity and adjudication terms",
+          "level": 3,
+          "line_start": 812,
+          "line_end": 854,
+          "anchor": null
+        },
+        {
+          "header": "CJS-5.22 Cross-companion structural review, correction urgency, and disclosure terms",
+          "level": 3,
+          "line_start": 855,
+          "line_end": 890,
+          "anchor": null
+        }
+      ]
+    },
+    "corpus_joint_structure/cjs_06_stable_identifiers_edition_alignment.md": {
       "total_lines": 19,
       "sections": [
         {
-          "header": "CJS-4: Stable section identifiers, edition alignment, and drafting notes",
+          "header": "CJS-6: Stable section identifiers, edition alignment, and drafting notes",
           "level": 2,
           "line_start": 1,
           "line_end": 19,
@@ -6259,7 +6283,7 @@
         }
       ]
     },
-    "corpus_joint_structure/cjs_05_implementation_layer_overview.md": {
+    "corpus_joint_structure/cjs_07_implementation_layer_overview.md": {
       "total_lines": 16,
       "sections": [
         {
@@ -6271,7 +6295,7 @@
         }
       ]
     },
-    "corpus_joint_structure/cjs_06_implementation_group_01_meta_integrity.md": {
+    "corpus_joint_structure/cjs_08_implementation_group_01_meta_integrity.md": {
       "total_lines": 134,
       "sections": [
         {
@@ -6311,7 +6335,7 @@
         }
       ]
     },
-    "corpus_joint_structure/cjs_07_implementation_group_02_presentation.md": {
+    "corpus_joint_structure/cjs_09_implementation_group_02_presentation.md": {
       "total_lines": 118,
       "sections": [
         {
@@ -6344,7 +6368,7 @@
         }
       ]
     },
-    "corpus_joint_structure/cjs_08_implementation_group_03_architecture.md": {
+    "corpus_joint_structure/cjs_10_implementation_group_03_architecture.md": {
       "total_lines": 165,
       "sections": [
         {
@@ -6426,7 +6450,7 @@
         }
       ]
     },
-    "corpus_joint_structure/cjs_09_implementation_group_04_governance.md": {
+    "corpus_joint_structure/cjs_11_implementation_group_04_governance.md": {
       "total_lines": 97,
       "sections": [
         {

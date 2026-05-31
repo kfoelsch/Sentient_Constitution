@@ -38,7 +38,7 @@ Articles: Apply with **Sentient Constitution Chapter Ten (Articles V–XXV)** an
 
 **Implementation label-layer routing (illustrative; non-exhaustive):** **PRIM1**, **PRIM4**, **PRIM5**, **PRIM6**, **PRIM7**, **PRIM9**, **PRIM11**, and **PRIM12**; also read this implementation group's *Incentive Alignment and Mechanism Integrity* meta-integrity obligation.
 
-**Trust degradation as harm:** **Monitor**, **detect**, and **mitigate** trust erosion under **`core_05-05_definitions_c_dependent_clusters.md` Chapter Five, section 3.39** and **CJS-3.9** where **cross-companion** trust applies. That work must **not** narrow **Epistemic Integrity**, **Truth (Constitutional Constraint)**, **Transparency**, or **Article XII-C**.
+**Trust degradation as harm:** **Monitor**, **detect**, and **mitigate** trust erosion under **`core_05-05_definitions_c_dependent_clusters.md` Chapter Five, section 3.39** and **CJS-4.4** where **cross-companion** trust applies. That work must **not** narrow **Epistemic Integrity**, **Truth (Constitutional Constraint)**, **Transparency**, or **Article XII-C**.
 
 **Sustained** failure to restore trustworthiness may yield **loss of standing**, **restricted participation**, or **replacement** under applicable governance.
 
@@ -127,8 +127,8 @@ Where **full** compliance is **not** maintainable: **prioritize** **Safety** and
 
 **Layer B — Integrity implementation labels (PRIM9–PRIM15)**
 The following integrity implementation labels operationalize and test the Meta-Integrity constraints above.
-Unless a section states otherwise, where cross-companion structural duties apply to the same facts, read **CJS-2.2**, **CJS-R19**, and **CJS-3.13** for joint interface requirements.
+Unless a section states otherwise, where cross-companion structural duties apply to the same facts, read **CJS-2.2**, **CJS-R19**, and **CJS-5.1** for joint interface requirements.
 
 ---
 
-**Next file:** [cjs_07_implementation_group_02_presentation.md](cjs_07_implementation_group_02_presentation.md)
+**Next file:** [cjs_09_implementation_group_02_presentation.md](cjs_09_implementation_group_02_presentation.md)

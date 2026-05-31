@@ -248,7 +248,7 @@ This subsection names **implementation-layer** trigger categories and routes so 
 
 Procedure rules here must remain consistent with **Chapter Five** (*Procedural Fairness*, *Contestability*, *Accountability*, *Redress and Remediation*) and with `core_02-04_definition_mechanics.md` **Chapter Four** verification and traceability rules. This chapter does not create a second offense-classification system.
 
-**Usage in this section.** **Representative treatment** uses the `corpus_joint_structure.md` **CJS-3.12** Tier 1 abstraction for resolving common questions for a broader affected group while preserving notice, adequacy, contestability, and sentient-specific process. **CI-6** adds the institutional procedure details below. **Common decision rule** is CI-local shorthand for a shared rule, policy logic, model behavior, institutional criterion, or comparable decision basis that materially drives outcomes across multiple affected parties.
+**Usage in this section.** **Representative treatment** uses the `corpus_joint_structure.md` **CJS-4.7** Tier 1 abstraction for resolving common questions for a broader affected group while preserving notice, adequacy, contestability, and sentient-specific process. **CI-6** adds the institutional procedure details below. **Common decision rule** is CI-local shorthand for a shared rule, policy logic, model behavior, institutional criterion, or comparable decision basis that materially drives outcomes across multiple affected parties.
 
 Due-process operationalization (**Article XI-D** — internal roles, accountability, and due-process requirements — interface) must include:
 - notice,
@@ -435,10 +435,10 @@ Institutions must not rely on unlabeled, ad hoc, or selectively applied sector c
 
 **Forum floor.** Every **forum family**, **tribunal**, or **adjudicative body** within **Chapter Nine** in `core_09-09_forum.md` is treated as **at least Class C** for **institutional design class** under this subsection—including for **internal chambers** and **designated panels**—regardless of whether other governed systems are labeled below Class C.
 
-**Delegated subunit** is the CI-specific application of the `corpus_joint_structure.md` **CJS-3.12** **Delegated binding body** abstraction: a standing or recurring internal body (for example a division, chamber, committee, designated panel, or regional or functional office with decision rights) that exercises **materially binding** delegated authority for the parent institution and is **not** the institution's sole governing plenary.
+**Delegated subunit** is the CI-specific application of the `corpus_joint_structure.md` **CJS-4.7** **Delegated binding body** abstraction: a standing or recurring internal body (for example a division, chamber, committee, designated panel, or regional or functional office with decision rights) that exercises **materially binding** delegated authority for the parent institution and is **not** the institution's sole governing plenary.
 
 **Applicability.**
-- Where institutional design class is **Class C**, **Class B**, or **Class A**, each **delegated subunit** with materially binding authority must satisfy **CI-9.1B.1**. Each such subunit must satisfy **CI-9.1B.2** (hybrid composition joint minimum in **`corpus_joint_structure.md` CJS-3.7** plus **CI-9.1B.2** institution-specific rules), **CI-9.1B.3** (rotating attachment bounds for the rotating pole), and **CI-9.1B.4** (home-based term and renewal rules for the home-based pole).
+- Where institutional design class is **Class C**, **Class B**, or **Class A**, each **delegated subunit** with materially binding authority must satisfy **CI-9.1B.1**. Each such subunit must satisfy **CI-9.1B.2** (hybrid composition joint minimum in **`corpus_joint_structure.md` CJS-4.1** plus **CI-9.1B.2** institution-specific rules), **CI-9.1B.3** (rotating attachment bounds for the rotating pole), and **CI-9.1B.4** (home-based term and renewal rules for the home-based pole).
 - Where institutional design class is **below Class C** and the institution is **not** a **Chapter Nine** forum, **CI-9.1B** applies only to delegated subunits that **materially bind** outsiders, **allocate scarce public goods**, **license or certify** conduct with material impact, or **materially affect** systems classified **Class A**, **Class B**, or **Class C**. In those cases, evaluate **CI-9.1B** at the **highest** class **triggered** by the subunit's work (minimum **Class C** treatment for that subunit).
 
 ### CI-9.1B.1: Identification and competence
@@ -450,12 +450,12 @@ Each formation or authorizing instrument must state:
 Subunits must remain **subordinate** to the parent mandate. They must not operate as **parallel** decision routes that bypass published hierarchy, **CI-6** contest pathways, or **Chapter Eight** routing where adjudication applies.
 
 ### CI-9.1B.2: Authority composition
-**Joint minimum.** Delegated subunits in scope must satisfy **`corpus_joint_structure.md` CJS-3.7** (*Mandatory hybrid authority composition*). Read **CJS-3.7** with **CI-9.1B.1**, **CI-9.1B.3**, and **CI-9.1B.4** for identification, attachment bounds, and home-based term rules.
+**Joint minimum.** Delegated subunits in scope must satisfy **`corpus_joint_structure.md` CJS-4.1** (*Mandatory hybrid authority composition*). Read **CJS-4.1** with **CI-9.1B.1**, **CI-9.1B.3**, and **CI-9.1B.4** for identification, attachment bounds, and home-based term rules.
 
 **Institution-specific.** Where a **multi-member** body uses a **different balance** than minority **home-based** on the deciding bench, or an **equivalent hybrid across stages** that materially changes capture risk, the instrument must publish **substitute capture safeguards** proportionate to institutional design class under **CI-5**. For **Class A** and **Class B**, that pattern is **non-compliant** unless it is **previewed** through **independent assurance** under **CI-7.2** and **`INST-PROTO-17`**, or through a **published** cross-institution arrangement under **CI-8** that provides **functionally independent** review of the instrument.
 
 ### CI-9.1B.3: Rotating authority: attachment bounds
-Apply **`corpus_joint_structure.md` CJS-3.7A** for shared rotating-attachment requirements (bounded formula, no undefined duration discretion, illustration status, and continuity relationship to home-based terms).
+Apply **`corpus_joint_structure.md` CJS-4.2** for shared rotating-attachment requirements (bounded formula, no undefined duration discretion, illustration status, and continuity relationship to home-based terms).
 
 **Scaling by institutional design class:**
 - **Class C:** **Suggested** guidance: treat **one calendar year** as the ordinary **maximum** for a single rotating attachment spell unless the instrument publishes a longer ceiling and a brief justification.
@@ -463,7 +463,7 @@ Apply **`corpus_joint_structure.md` CJS-3.7A** for shared rotating-attachment re
 - **Class A:** the ordinary **maximum** of **one calendar year** for a single rotating attachment spell is **expected**; any **longer** published ceiling requires **independent external assurance** or **documented external participation** in the approval record under **`INST-PROTO-17`**.
 
 ### CI-9.1B.4: Home-based authority: term and renewal
-Apply **`corpus_joint_structure.md` CJS-3.7A** for shared home-based continuity requirements (published term/renewal/stagger rules and no mirror requirement relative to rotating formulas). This subsection retains institution-specific scaling and assurance requirements.
+Apply **`corpus_joint_structure.md` CJS-4.2** for shared home-based continuity requirements (published term/renewal/stagger rules and no mirror requirement relative to rotating formulas). This subsection retains institution-specific scaling and assurance requirements.
 
 ### CI-9.2: Survival floors, voluntary exchange, and markets (Article III-A interface)
 **Purpose.** **Article III-A** (*Survival*) in `core_10-10_rights_part_*.md` states outcome obligations for essential resources, housing, and connectivity. This subsection records how institutions should connect those outcomes to public revenue, user charges, and voluntary economic activity. It does not restate constitutional rights and does not specify tax bases, rates, or national fiscal law.
@@ -742,7 +742,7 @@ Institutions should publish **phased** **transition** plans that include:
 
 ## CI-15A: Innovation reward, disclosure, and anti-enclosure
 
-**Purpose and owner boundary.** This section governs institutional handling of innovation-reward systems where constitutional adoption brings them within scope. Constitutional meaning remains in **Chapter Five** (*Innovation Reward and Anti-Enclosure*) and **Chapter Ten**, **Article XVII-D**. Cross-companion implementation and burden discipline remain in `corpus_joint_structure.md` **PRIM7**, **PROT4**, **CJS-3.20**, and **CJS-3.31**. This section supplies only the institutional registry, review, access-order, sunset, and appeal mechanics.
+**Purpose and owner boundary.** This section governs institutional handling of innovation-reward systems where constitutional adoption brings them within scope. Constitutional meaning remains in **Chapter Five** (*Innovation Reward and Anti-Enclosure*) and **Chapter Ten**, **Article XVII-D**. Cross-companion implementation and burden discipline remain in `corpus_joint_structure.md` **PRIM7**, **PROT4**, **CJS-5.8**, and **CJS-5.19**. This section supplies only the institutional registry, review, access-order, sunset, and appeal mechanics.
 
 **Default institutional preference.** Where multiple reward mechanisms are feasible, institutions should prefer the least restrictive mechanism that can still sustain future innovation. That preference order generally favors attribution, milestone prizes, public or cooperative buyouts, levy-funded reward pools, pooled or standardized licensing, and compulsory-access tools before broad exclusion rights for high-dependency domains.
 

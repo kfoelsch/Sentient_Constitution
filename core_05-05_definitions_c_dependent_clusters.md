@@ -1641,7 +1641,7 @@ This cluster is the canonical O/E/C home for **Trust**, **Trustworthiness**, and
 - **C:** Non-compliant:
   - Cherry-picking one member definition to bypass another within admission scope (Chapter Five §3 — Dependent clusters; Chapter Three §§1–2);
   - Isolated formal compliance with disclosure or audit artifacts that defeats substantively informed understanding, independent verification, or effective challenge;
-  - Cross-companion signals appearing conforming while material obligations that jointly sustain a trust claim remain unmet for the same structural outcome (read `corpus_joint_structure.md` CJS-3.2 and CJS-3.9);
+  - Cross-companion signals appearing conforming while material obligations that jointly sustain a trust claim remain unmet for the same structural outcome (read `corpus_joint_structure.md` CJS-3.2 and CJS-4.4);
   - Treating trust-erosion patterns as non-material where Materiality-family definitions require treating them as material, or splitting evaluation so no member definition captures the full functional wrong.
 
 ---

@@ -13,4 +13,4 @@ Shared preamble contract: apply **CJS-1.1**. For stable implementation-label cit
 
 ---
 
-**Next file:** [cjs_06_implementation_group_01_meta_integrity.md](cjs_06_implementation_group_01_meta_integrity.md)
+**Next file:** [cjs_08_implementation_group_01_meta_integrity.md](cjs_08_implementation_group_01_meta_integrity.md)

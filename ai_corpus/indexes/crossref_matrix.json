@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/crossref_matrix.schema.json",
-  "generated_at": "2026-05-31T00:21:54+00:00",
+  "generated_at": "2026-05-31T17:37:17+00:00",
   "description": "Source-derived file-to-file Markdown reference graph.",
   "graph": {
     "nodes": [
@@ -101,27 +101,35 @@
         "type": "companion"
       },
       {
-        "id": "corpus_joint_structure/cjs_04_stable_identifiers_edition_alignment.md",
+        "id": "corpus_joint_structure/cjs_04_specific_joint_interlocks.md",
         "type": "companion"
       },
       {
-        "id": "corpus_joint_structure/cjs_05_implementation_layer_overview.md",
+        "id": "corpus_joint_structure/cjs_05_cross_companion_operational_terms.md",
         "type": "companion"
       },
       {
-        "id": "corpus_joint_structure/cjs_06_implementation_group_01_meta_integrity.md",
+        "id": "corpus_joint_structure/cjs_06_stable_identifiers_edition_alignment.md",
         "type": "companion"
       },
       {
-        "id": "corpus_joint_structure/cjs_07_implementation_group_02_presentation.md",
+        "id": "corpus_joint_structure/cjs_07_implementation_layer_overview.md",
         "type": "companion"
       },
       {
-        "id": "corpus_joint_structure/cjs_08_implementation_group_03_architecture.md",
+        "id": "corpus_joint_structure/cjs_08_implementation_group_01_meta_integrity.md",
         "type": "companion"
       },
       {
-        "id": "corpus_joint_structure/cjs_09_implementation_group_04_governance.md",
+        "id": "corpus_joint_structure/cjs_09_implementation_group_02_presentation.md",
+        "type": "companion"
+      },
+      {
+        "id": "corpus_joint_structure/cjs_10_implementation_group_03_architecture.md",
+        "type": "companion"
+      },
+      {
+        "id": "corpus_joint_structure/cjs_11_implementation_group_04_governance.md",
         "type": "companion"
       }
     ],
@@ -3254,7 +3262,7 @@
         "targets": [
           {
             "file": "core_05-05_definitions_a_independent.md",
-            "count": 9,
+            "count": 8,
             "anchors": [
               "#cascading-failure",
               "#contingent-claim",
@@ -3316,7 +3324,7 @@
             "anchors": []
           },
           {
-            "file": "corpus_joint_structure/cjs_05_implementation_layer_overview.md",
+            "file": "corpus_joint_structure/cjs_07_implementation_layer_overview.md",
             "count": 4,
             "anchors": [
               "#cross-domain-implementation-layer"
@@ -3344,7 +3352,7 @@
           },
           {
             "file": "core_05-05_definitions_a_independent.md",
-            "count": 4,
+            "count": 3,
             "anchors": [
               "#contingent-claim",
               "#event-contract-market",
@@ -3433,32 +3441,42 @@
             "anchors": []
           },
           {
-            "file": "corpus_joint_structure/cjs_04_stable_identifiers_edition_alignment.md",
+            "file": "corpus_joint_structure/cjs_04_specific_joint_interlocks.md",
             "count": 1,
             "anchors": []
           },
           {
-            "file": "corpus_joint_structure/cjs_05_implementation_layer_overview.md",
+            "file": "corpus_joint_structure/cjs_05_cross_companion_operational_terms.md",
             "count": 1,
             "anchors": []
           },
           {
-            "file": "corpus_joint_structure/cjs_06_implementation_group_01_meta_integrity.md",
+            "file": "corpus_joint_structure/cjs_06_stable_identifiers_edition_alignment.md",
             "count": 1,
             "anchors": []
           },
           {
-            "file": "corpus_joint_structure/cjs_07_implementation_group_02_presentation.md",
+            "file": "corpus_joint_structure/cjs_07_implementation_layer_overview.md",
             "count": 1,
             "anchors": []
           },
           {
-            "file": "corpus_joint_structure/cjs_08_implementation_group_03_architecture.md",
+            "file": "corpus_joint_structure/cjs_08_implementation_group_01_meta_integrity.md",
             "count": 1,
             "anchors": []
           },
           {
-            "file": "corpus_joint_structure/cjs_09_implementation_group_04_governance.md",
+            "file": "corpus_joint_structure/cjs_09_implementation_group_02_presentation.md",
+            "count": 1,
+            "anchors": []
+          },
+          {
+            "file": "corpus_joint_structure/cjs_10_implementation_group_03_architecture.md",
+            "count": 1,
+            "anchors": []
+          },
+          {
+            "file": "corpus_joint_structure/cjs_11_implementation_group_04_governance.md",
             "count": 1,
             "anchors": []
           }
@@ -3493,6 +3511,13 @@
         "source": "corpus_joint_structure/cjs_02_companion_integration_map.md",
         "targets": [
           {
+            "file": "core_05-05_definitions_c_dependent_clusters.md",
+            "count": 1,
+            "anchors": [
+              "#trust-and-trustworthiness-cluster"
+            ]
+          },
+          {
             "file": "corpus_joint_structure/cjs_03_joint_structural_obligations.md",
             "count": 1,
             "anchors": []
@@ -3503,39 +3528,64 @@
         "source": "corpus_joint_structure/cjs_03_joint_structural_obligations.md",
         "targets": [
           {
-            "file": "core_11-11_governance.md",
+            "file": "corpus_joint_structure/cjs_04_specific_joint_interlocks.md",
+            "count": 2,
+            "anchors": []
+          },
+          {
+            "file": "corpus_joint_structure/cjs_05_cross_companion_operational_terms.md",
+            "count": 1,
+            "anchors": []
+          }
+        ]
+      },
+      {
+        "source": "corpus_joint_structure/cjs_04_specific_joint_interlocks.md",
+        "targets": [
+          {
+            "file": "corpus_joint_structure/cjs_03_joint_structural_obligations.md",
             "count": 1,
             "anchors": []
           },
           {
-            "file": "corpus_joint_structure/cjs_04_stable_identifiers_edition_alignment.md",
-            "count": 1,
+            "file": "corpus_joint_structure/cjs_05_cross_companion_operational_terms.md",
+            "count": 2,
             "anchors": []
           }
         ]
       },
       {
-        "source": "corpus_joint_structure/cjs_04_stable_identifiers_edition_alignment.md",
+        "source": "corpus_joint_structure/cjs_05_cross_companion_operational_terms.md",
         "targets": [
           {
-            "file": "corpus_joint_structure/cjs_05_implementation_layer_overview.md",
+            "file": "corpus_joint_structure/cjs_06_stable_identifiers_edition_alignment.md",
             "count": 1,
             "anchors": []
           }
         ]
       },
       {
-        "source": "corpus_joint_structure/cjs_05_implementation_layer_overview.md",
+        "source": "corpus_joint_structure/cjs_06_stable_identifiers_edition_alignment.md",
         "targets": [
           {
-            "file": "corpus_joint_structure/cjs_06_implementation_group_01_meta_integrity.md",
+            "file": "corpus_joint_structure/cjs_07_implementation_layer_overview.md",
             "count": 1,
             "anchors": []
           }
         ]
       },
       {
-        "source": "corpus_joint_structure/cjs_06_implementation_group_01_meta_integrity.md",
+        "source": "corpus_joint_structure/cjs_07_implementation_layer_overview.md",
+        "targets": [
+          {
+            "file": "corpus_joint_structure/cjs_08_implementation_group_01_meta_integrity.md",
+            "count": 1,
+            "anchors": []
+          }
+        ]
+      },
+      {
+        "source": "corpus_joint_structure/cjs_08_implementation_group_01_meta_integrity.md",
         "targets": [
           {
             "file": "core_00-01_principles.md",
@@ -3543,14 +3593,11 @@
             "anchors": []
           },
           {
-            "file": "core_05-05_definitions_a_independent.md",
-            "count": 1,
-            "anchors": []
-          },
-          {
             "file": "core_05-05_definitions_c_dependent_clusters.md",
             "count": 1,
-            "anchors": []
+            "anchors": [
+              "#trust-and-trustworthiness-cluster"
+            ]
           },
           {
             "file": "core_11-11_governance.md",
@@ -3563,7 +3610,7 @@
             "anchors": []
           },
           {
-            "file": "corpus_joint_structure/cjs_07_implementation_group_02_presentation.md",
+            "file": "corpus_joint_structure/cjs_09_implementation_group_02_presentation.md",
             "count": 1,
             "anchors": []
           },
@@ -3575,7 +3622,7 @@
         ]
       },
       {
-        "source": "corpus_joint_structure/cjs_07_implementation_group_02_presentation.md",
+        "source": "corpus_joint_structure/cjs_09_implementation_group_02_presentation.md",
         "targets": [
           {
             "file": "core_11-11_governance.md",
@@ -3583,7 +3630,7 @@
             "anchors": []
           },
           {
-            "file": "corpus_joint_structure/cjs_08_implementation_group_03_architecture.md",
+            "file": "corpus_joint_structure/cjs_10_implementation_group_03_architecture.md",
             "count": 1,
             "anchors": []
           },
@@ -3595,7 +3642,7 @@
         ]
       },
       {
-        "source": "corpus_joint_structure/cjs_08_implementation_group_03_architecture.md",
+        "source": "corpus_joint_structure/cjs_10_implementation_group_03_architecture.md",
         "targets": [
           {
             "file": "core_05-05_definitions_b_semi_independent.md",
@@ -3612,7 +3659,7 @@
             ]
           },
           {
-            "file": "corpus_joint_structure/cjs_09_implementation_group_04_governance.md",
+            "file": "corpus_joint_structure/cjs_11_implementation_group_04_governance.md",
             "count": 1,
             "anchors": []
           },
@@ -3624,7 +3671,7 @@
         ]
       },
       {
-        "source": "corpus_joint_structure/cjs_09_implementation_group_04_governance.md",
+        "source": "corpus_joint_structure/cjs_11_implementation_group_04_governance.md",
         "targets": [
           {
             "file": "corpus_systems.md",

@@ -65,7 +65,7 @@ Where engagement, retention, or optimization objectives conflict with informatio
 
 Salience pathways must be explainable and reviewable in proportion to impact, including meaningful disclosure of major ranking or prioritization factors and available user controls where appropriate.
 
-Cross-companion operational definitions for salience allocation, anti-distortion controls, disclosure, user control, mitigation, and proportional scaling are maintained in **CJS-3.16** (*Cross-companion salience integrity and attention-allocation terms*). Apply that subsection as required read-with for this **PRIM1** implementation scope, together with **PRIM4** and **PRIM14** where materially applicable.
+Cross-companion operational definitions for salience allocation, anti-distortion controls, disclosure, user control, mitigation, and proportional scaling are maintained in **CJS-5.4** (*Cross-companion salience integrity and attention-allocation terms*). Apply that subsection as required read-with for this **PRIM1** implementation scope, together with **PRIM4** and **PRIM14** where materially applicable.
 
 ### PRIM2 — Presentation Implementation label: Comprehensibility and Cognitive Accessibility
 Principles: **Agency and Accessibility** through understandable, usable, and cognitively proportionate disclosure.
@@ -88,7 +88,7 @@ Where both apply, the **stricter** requirement governs (see Protocol B header).
 
 Disclosure volume alone is insufficient: material must be meaningfully understandable, evaluable, and actionable.
 
-Cross-companion operational definitions for comprehensibility, layering, cognitive load, interpretation support, high-impact drill-down, and proportional scaling are maintained in **CJS-3.15** (*Cross-companion comprehensibility and cognitive accessibility terms*). Apply that subsection as required read-with for this **PRIM2** implementation scope.
+Cross-companion operational definitions for comprehensibility, layering, cognitive load, interpretation support, high-impact drill-down, and proportional scaling are maintained in **CJS-5.3** (*Cross-companion comprehensibility and cognitive accessibility terms*). Apply that subsection as required read-with for this **PRIM2** implementation scope.
 
 Low-impact or isolated systems may simplify **only** if they do **not** create material barriers to understanding. **They** may simplify **only** if they do **not** impair evaluation of risk or behavior.
 
@@ -107,12 +107,12 @@ Principles: **Truth and Contestability** through sufficient disclosure for infor
 
 **It must** **not** substitute weaker tests than those sources (or **Chapters Two through Four** verification accessibility rules) where they apply.
 
-Cross-companion operational definitions for disclosure sufficiency, verification-enabling transparency, private-state boundary handling, and observability attribution are maintained in **CJS-3.17** (*Cross-companion disclosure sufficiency and observability terms*). Apply that subsection as required read-with for this **PRIM4** implementation scope.
+Cross-companion operational definitions for disclosure sufficiency, verification-enabling transparency, private-state boundary handling, and observability attribution are maintained in **CJS-5.5** (*Cross-companion disclosure sufficiency and observability terms*). Apply that subsection as required read-with for this **PRIM4** implementation scope.
 
 Where presentation or interface design materially influences what stakeholders notice, compare, or rely on, disclosure must remain salient enough to support informed participation, independent evaluation, and challenge. **Complete** but **buried** disclosure is non-compliant.
 
-Where ranking, recommendation, or prioritization mechanisms materially shape visibility, systems must disclose primary salience factors, known limitations, and meaningful user-control pathways in proportion to impact. Read this requirement with **PRIM1** and **CJS-3.16**.
+Where ranking, recommendation, or prioritization mechanisms materially shape visibility, systems must disclose primary salience factors, known limitations, and meaningful user-control pathways in proportion to impact. Read this requirement with **PRIM1** and **CJS-5.4**.
 
 ---
 
-**Next file:** [cjs_08_implementation_group_03_architecture.md](cjs_08_implementation_group_03_architecture.md)
+**Next file:** [cjs_10_implementation_group_03_architecture.md](cjs_10_implementation_group_03_architecture.md)
