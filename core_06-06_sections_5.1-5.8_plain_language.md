@@ -8,7 +8,7 @@
 
 When someone violates the constitution, the violation isn't just "bad"—it has a *character* that tells us what kind of response is appropriate. Think of these as labels that describe:
 
-- **What the violation did** (harm to rights, harm to people, harm to the system itself)
+- **What the violation did** (harm to rights, harm to sentients, harm to the system itself)
 - **What kind of response it calls for** (repair, restitution, protection, safeguards, or a mix)
 - **Who else was involved** (just one person, or a group?)
 - **How serious the underlying duty was** (careless mistake vs. deliberate wrong)
@@ -75,7 +75,7 @@ This label applies when the violation is serious enough that **coercive control,
 
 ### Simple Example
 
-> Someone uses threats of violence to force others to hand over money. This violation carries coercive or liberty-restricting safeguard character because a high-impact public-law response may be considered. Before any such measure is imposed, they must receive all required process protections. The violation also carries remedial character because restitution to affected people remains independently required.
+> Someone uses threats of violence to force others to hand over money. This violation carries coercive or liberty-restricting safeguard character because a high-impact public-law response may be considered. Before any such measure is imposed, they must receive all required process protections. The violation also carries remedial character because restitution to affected sentients remains independently required.
 
 ---
 
@@ -90,7 +90,7 @@ This label applies when the violation touches **fundamental constitutional prote
 - Binding constitutional constraints were violated
 - Rights Floors (minimum guaranteed rights) were undermined
 - Anti-evasion rules were broken (trying to get around constitutional requirements)
-- Challenge-and-remedy access was blocked (preventing people from complaining or seeking justice)
+- Challenge-and-remedy access was blocked (preventing sentients from complaining or seeking justice)
 - Supremacy of the constitution was violated (other rules tried to override constitutional protections)
 
 ### Key Points
@@ -167,13 +167,13 @@ Where normal remedial, restrictive, or domain-specific processes would allow out
 
 ### What This Means in Plain Language
 
-**"Everyone did a little piece" is not a defense when many people's small contributions add up to serious harm.** When wrongdoing spreads across teams, institutions, or chains of command, responsibility isn't automatically erased just because many people were involved.
+**"Everyone did a little piece" is not a defense when many sentients' small contributions add up to serious harm.** When wrongdoing spreads across teams, institutions, or chains of command, responsibility isn't automatically erased just because many sentients were involved.
 
 ### The Rule
 
 Violation nature can be:
 - **Individual** (one person acted alone)
-- **Collective** (multiple people contributed)
+- **Collective** (multiple sentients contributed)
 - **Hybrid** (mix of individual and collective elements)
 
 **Responsibility is NOT extinguished by diffusion** when:
@@ -201,7 +201,7 @@ Violation nature can be:
 > - Executives aren't protected because "they were just setting business strategy"
 > - Compliance officers aren't shielded because "their job was just advisory"
 > 
-> Each person's contribution to enabling the harm is assessed separately, even though many people were involved.
+> Each person's contribution to enabling the harm is assessed separately, even though many sentients were involved.
 
 ---
 
@@ -254,7 +254,7 @@ Violation nature can be:
 
 ### The Bottom Line
 
-**"I didn't mean to" isn't always a good enough excuse.** Sometimes, failing to do what you should have done is just as serious as doing something wrong on purpose. When you had a job to keep people safe, you could see trouble coming, and you had the power to stop it—but you didn't—that's negligence. And it's a serious violation, not just a mistake.
+**"I didn't mean to" isn't always a good enough excuse.** Sometimes, failing to do what you should have done is just as serious as doing something wrong on purpose. When you had a job to keep sentients safe, you could see trouble coming, and you had the power to stop it—but you didn't—that's negligence. And it's a serious violation, not just a mistake.
 
 ---
 
@@ -314,7 +314,7 @@ Negligence often combines with other violation types:
 |---------------|----------------------|
 | **Remedial character** | You need to fix the harm you caused by your inaction |
 | **Coercive-safeguard character** | Your carelessness was so extreme that stronger safeguards, supervision, or accountability process may be required |
-| **Collective accountability** | Multiple people failed to act; blame is shared |
+| **Collective accountability** | Multiple sentients failed to act; blame is shared |
 | **Constitutional-floor character** | Your neglect undermined fundamental rights or protections |
 
 ---
@@ -329,7 +329,7 @@ Negligence often combines with other violation types:
 >
 > This isn't just a tragic accident. It's negligence—a serious violation—because:
 > - **Duty:** The owner was legally and morally responsible for worker safety
-> - **Foreseeability:** Multiple people warned about the exact danger
+> - **Foreseeability:** Multiple sentients warned about the exact danger
 > - **Capacity:** The owner had the money and authority to fix the problems
 > - **Choice:** They consciously decided to delay action to save money
 
@@ -349,7 +349,7 @@ These eight categories aren't mutually exclusive. A single violation might carry
 |-----------|----------|-------------|
 | Remedial | Slot 4 | Needs repair and compensation |
 | Constitutional-floor | Slot 4 | Also threatens constitutional foundations |
-| Collective accountability | Slot 4 | Multiple people enabled it |
+| Collective accountability | Slot 4 | Multiple sentients enabled it |
 | Negligence | Slot 4 | Root cause was careless failure to supervise |
 
 In this example, all four labels apply to the same violation at severity slot 4. The response must address:

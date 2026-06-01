@@ -19,7 +19,7 @@ Use **CJS-1.1** for the shared implementation-corpus contract: constitutional me
 - **Joint obligations:** **CJS-3** gives requirements that must be satisfied together when more than one implementation file applies to the same facts.
 - **Domain limits:** CJS coordinates shared interfaces. It does not replace day-to-day domain rules owned only by `corpus_systems.md`, `corpus_institutions.md`, or `corpus_forum.md`.
 
-**Implementation cross-reference index (routing only):** Joint-structure obligations may connect with **Cross-domain implementation layer** labels **PRIM8**, **PRIM9**, **PRIM10**, **PRIM15**, **PROT1**, **PROT2**, **PROT3**, **PROT4**, **PROT5**, and **PROT6** when those labels materially apply. This index only helps readers find related material. It does not redefine what those labels mean.
+**Implementation cross-reference index (routing only):** Joint-structure obligations may connect with **Cross-domain implementation layer** labels **PRIM8 — Intervention and Override Rights**, **PRIM9 — Auditability**, **PRIM10 — Tiered Transparency and Audit Access**, **PRIM15 — Evolution, Revalidation, and Non-Entrenchment**, **PROT1 — Distributed and Proportional Authority**, **PROT2 — Intervention and Override Rights**, **PROT3 — Reflexive Transparency and Accountability**, **PROT4 — Burden of Justification and Constraint**, **PROT5 — Constrained Secrecy and Protected Investigations**, and **PROT6 — Procedural Integrity and Adjudication** when those labels materially apply. This index only helps readers find related material. It does not redefine what those labels mean.
 
 ---
 

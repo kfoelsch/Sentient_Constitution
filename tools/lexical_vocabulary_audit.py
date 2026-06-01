@@ -183,6 +183,20 @@ def scan_prefer_sentients_not_people_phrasing(rel_path: str, text: str) -> list[
     return findings
 
 
+def run_internal_regression_checks() -> None:
+    """Fail closed if core lexical regexes stop catching known bad phrasing."""
+    sample = (
+        "User agency and control\n\n"
+        "- OP-O: People must have practical control over ranking and presentation "
+        "when that control is appropriate, including chronological or lightly processed views where feasible.\n"
+    )
+    findings = scan_prefer_sentients_not_people_phrasing("internal-regression.md", sample)
+    if not findings:
+        raise RuntimeError(
+            "Internal regression failed: capitalized standalone 'People' was not flagged.",
+        )
+
+
 def scan_avoid_accession_jargon(rel_path: str, text: str) -> list[Finding]:
     """Prefer plain **join** / **joining** (and related adoption wording) over treaty-style **accede** / **accession**."""
     findings: list[Finding] = []
@@ -436,6 +450,8 @@ def write_evidence(root: pathlib.Path, run_date: str, report: str) -> pathlib.Pa
 
 def main() -> int:
     args = parse_args()
+    run_internal_regression_checks()
+
     root = pathlib.Path(args.root).resolve()
     scope = args.scope or binding_corpus_scope(root, include_support_docs=True)
     if args.scope is None and (root / "architecture_primer.md").is_file():
