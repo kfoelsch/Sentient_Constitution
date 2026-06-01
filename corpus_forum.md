@@ -1084,7 +1084,7 @@ Each standard record must include, proportionate to the action:
 
 ### CF-12.3 Access classes
 Records must be tagged, at minimum, for the following access classes:
-- **party-facing** — available to parties or affected persons subject to lawful privacy, safety, and evidence-protection limits;
+- **party-facing** — available to parties or affected sentients subject to lawful privacy, safety, and evidence-protection limits;
 - **public-facing** — published or summarized where needed for routing intelligibility, precedent, shared standards, or governance trust;
 - **audit-facing** — available for lawful audit, reconstruction, and Article XV-A verification;
 - **contest-integrity-facing** — available to `corpus_institutions.md` **CI-7.3** monitors where pathway performance, backlog, recusal, routing, or publication integrity is at issue;

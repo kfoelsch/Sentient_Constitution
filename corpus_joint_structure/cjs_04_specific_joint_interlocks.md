@@ -74,7 +74,7 @@ For **constitutional lane** and functional-separation meaning, apply **CJS-5.16*
 For **Class A** and **Class B** systems, each institution that hosts a constitutional lane with materially binding duties must have:
 - at least **three sentients** assigned to the lane;
 - documented competency and succession coverage for that lane; and
-- no single sentient who is the only qualified person for the lane's materially binding duties.
+- no single sentient who is the only qualified actor for the lane's materially binding duties.
 
 Staffing must be real, not just numerical. Responsibility cannot be spread so thin that nobody is competent, and knowledge cannot be concentrated so tightly that the lane becomes fragile, captured, or unable to replace itself.
 

@@ -250,7 +250,7 @@ The following must remain visible enough for future changes to be checked rather
 
 *In plain terms: Within constitutional systems, your standing — how much you're trusted, what roles you can hold, and what recognition you receive — depends only on facts that have been checked and verified. Accusations, complaints, or preliminary labels don't count until they've been properly reviewed through the forum process and turned into official, auditable findings. Until then, they cannot by themselves change your constitutional standing, role eligibility, trust status, or recognition. For systems that validly remain Class P under Chapter S2, ordinary private and intra-unit discretion may apply inside the Class P boundary; that discretion does not create broader standing effects and does not survive reclassification, material externalization, or adjudication duties that otherwise apply.*
 
-**Verified inputs for standing (forums separate).** Standing decisions must be based on verified information in the relevant **standing records**. Forums may have their own separate rules, but any decision that affects a person's standing, trust level, role, recognition, or eligibility for recognition may only use verified standing inputs.
+**Verified inputs for standing (forums separate).** Standing decisions must be based on verified information in the relevant **standing records**. Forums may have their own separate rules, but any decision that affects a sentient's standing, trust level, role, recognition, or eligibility for recognition may only use verified standing inputs.
 
 **Verified inputs** mean:
 
@@ -326,7 +326,7 @@ The display labels make the slot ranges visible without adding a separate catego
 
 ##### 4.0.2 Table 1 — slot display labels
 
-**Table 1** names the nine slots and shows the Contribution Axis and Violation Axis display scales side by side. It does **not** decide whether any person, institution, record, assessment, or event belongs in a slot. It only supplies the shared display language used once a contribution state or violation severity has been determined under later sections.
+**Table 1** names the nine slots and shows the Contribution Axis and Violation Axis display scales side by side. It does **not** decide whether any sentient, institution, record, assessment, or event belongs in a slot. It only supplies the shared display language used once a contribution state or violation severity has been determined under later sections.
 
 Read each row as follows:
 
@@ -392,7 +392,7 @@ For record separation and the rule that shared slot numbers do not create a net 
 
 #### 4.1 How the Nine Slots Map to Real-World Contributions and Violations
 
-*In plain terms: This section translates the abstract nine-slot scale into concrete categories. Think of slots 1–9 as a spectrum from "meets basic expectations" to "exceptional hero" on the contribution side, and from "paperwork problems" to "worst imaginable misconduct" on the violation side. The tables below show what each slot means in practice, using the calibration unit called "LEQU" — roughly the benefit or harm equivalent to one person's entire lifetime of wellbeing.*
+*In plain terms: This section translates the abstract nine-slot scale into concrete categories. Think of slots 1–9 as a spectrum from "meets basic expectations" to "exceptional hero" on the contribution side, and from "paperwork problems" to "worst imaginable misconduct" on the violation side. The tables below show what each slot means in practice, using the calibration unit called "LEQU" — roughly the benefit or harm equivalent to one sentient's entire lifetime of wellbeing.*
 
 Table 2 connects the display scale in **section 4.0** and **Table 1** to the operative Contribution Axis rules in this section and the Violation Axis rules in **section 4.3**. It keeps the row-by-row practical meanings on the two axes without creating a separate Violation Axis band column. Chapter Seven section 4.3 later explains how verified Violation Axis slots affect standing. Standing records under **sections 2.1** and **2.2** are the record layer that states how those categories have been applied in a particular scope and time.
 
@@ -456,7 +456,7 @@ Table 2 treats **Champion contribution** as the top Contribution Axis band. **Ch
 
 #### 4.2 The "LEQU" Baseline: Measuring Impact in Lifetime-Equivalent Units
 
-*In plain terms: To decide which slot someone's contribution or violation belongs in, we measure impact using "LEQU" — Lifespan Equivalent Unit. One LEQU roughly equals saving or destroying one person's entire lifetime of wellbeing. This isn't about counting bodies or dollars; it's about understanding whether an action meaningfully changed our constitutional community's wellbeing. The same unit works for any sentient being, human or otherwise.*
+*In plain terms: To decide which slot someone's contribution or violation belongs in, we measure impact using "LEQU" — Lifespan Equivalent Unit. One LEQU roughly equals saving or destroying one sentient's entire lifetime of wellbeing. This isn't about counting bodies or dollars; it's about understanding whether an action meaningfully changed our constitutional community's wellbeing. The same unit works for any sentient being, human or otherwise.*
 
 The slot scale measures constitutional outcome magnitude and character. On the Contribution Axis, it measures verified constitutional benefit, not raw output, prestige, wealth, utilization, speed, or institutional scale. On the Violation Axis, it measures verified constitutional loss, harm, waste, foreclosure, or danger, not disfavored status, allegations, or moral dislike alone.
 
@@ -484,7 +484,7 @@ The claimed benefit counts only to the extent it remains traceable, non-external
 | ---: | --- | --- |
 | 1 | **Baseline contribution** | Meeting constitutional floor without violations |
 | 2 | **Strengthened baseline contribution** | Reliably exceeding the floor in a bounded, demonstrable way |
-| 3 | **Verified positive contribution** | Helping one person modestly beyond baseline |
+| 3 | **Verified positive contribution** | Helping one sentient modestly beyond baseline |
 | 4 | **Material positive contribution** | Helping a small group or single community noticeably |
 | 5 | **Established stewardship-positive contribution** | Creating lasting benefit in a defined domain |
 | 6 | **Pre-champion stewardship** | Approaching one LEQU in impact, or enabling many others to meet obligations |

@@ -15,7 +15,7 @@ This file holds the general CJS-3 joint-compliance rules. More specialized mater
 Joint obligations apply when **CJS-2.2** says that a topic must be read with more than one implementation file, or when an adopting instrument says the **CJS folder** applies.
 
 ### CJS-3.2 No false partial compliance across implementation files
-If two or more implementation files in a **CJS-2.2** chain impose structural duties on the same facts, compliance requires satisfying all material duties in that chain. A person or institution cannot satisfy one implementation file and then claim compliance while leaving another material implementation duty unmet.
+If two or more implementation files in a **CJS-2.2** chain impose structural duties on the same facts, compliance requires satisfying all material duties in that chain. A sentient or institution cannot satisfy one implementation file and then claim compliance while leaving another material implementation duty unmet.
 
 Emergency or temporary narrowing is allowed only when it is published, clearly bounded, time-limited, reversible where feasible, and traceable to the Sentient Constitution and implementation emergency rules. Silent or indefinite "temporary" narrowing is non-compliant.
 

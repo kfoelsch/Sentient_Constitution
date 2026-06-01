@@ -10,7 +10,7 @@ When someone violates the constitution, the violation isn't just "bad"—it has 
 
 - **What the violation did** (harm to rights, harm to sentients, harm to the system itself)
 - **What kind of response it calls for** (repair, restitution, protection, safeguards, or a mix)
-- **Who else was involved** (just one person, or a group?)
+- **Who else was involved** (just one sentient, or a group?)
 - **How serious the underlying duty was** (careless mistake vs. deliberate wrong)
 
 These sections (5.1–5.8) describe eight different "attachment categories" that can apply to a violation. A single violation can carry multiple labels if the facts support it. These labels help determine appropriate consequences—but they don't replace the main severity scale (slots 1–9) explained in section 4.3.
@@ -57,7 +57,7 @@ This label applies when the violation is serious enough that **coercive control,
 
 ### When This Applies
 
-- The conduct was prohibited and the person knew (or should have known) it was wrong
+- The conduct was prohibited and the sentient knew (or should have known) it was wrong
 - There was coercion, violence, or credible threats
 - The conduct creates serious danger to society
 - High-impact public-law consequences such as detention, restitution orders, supervised restriction, or comparable measures are being considered
@@ -125,8 +125,8 @@ This label applies when the violation touches **fundamental constitutional prote
 
 ### Simple Example
 
-> A police officer fabricates evidence to convict an innocent person:
-> - **Remedial character:** The wrongfully convicted person must be freed and compensated
+> A police officer fabricates evidence to convict an innocent sentient:
+> - **Remedial character:** The wrongfully convicted sentient must be freed and compensated
 > - **Coercive-safeguard character:** The officer may face a high-impact accountability process for their conduct
 > - **Constitutional-floor character:** The fabrication violates fundamental justice protections
 > 
@@ -172,7 +172,7 @@ Where normal remedial, restrictive, or domain-specific processes would allow out
 ### The Rule
 
 Violation nature can be:
-- **Individual** (one person acted alone)
+- **Individual** (one sentient acted alone)
 - **Collective** (multiple sentients contributed)
 - **Hybrid** (mix of individual and collective elements)
 
@@ -201,7 +201,7 @@ Violation nature can be:
 > - Executives aren't protected because "they were just setting business strategy"
 > - Compliance officers aren't shielded because "their job was just advisory"
 > 
-> Each person's contribution to enabling the harm is assessed separately, even though many sentients were involved.
+> Each sentient's contribution to enabling the harm is assessed separately, even though many sentients were involved.
 
 ---
 
@@ -244,9 +244,9 @@ Violation nature can be:
 > - The officer cannot use "following orders" as a defense
 > - The officer must refuse the order and document the incident
 > - The officer should escalate through available channels (legal counsel, inspector general, etc.)
-> - The person who gave the order is independently liable for attempting to issue an unconstitutional command
+> - The sentient who gave the order is independently liable for attempting to issue an unconstitutional command
 > 
-> If the officer follows the order anyway, they share in the accountability—not just the person who gave the order.
+> If the officer follows the order anyway, they share in the accountability—not just the sentient who gave the order.
 
 ---
 
@@ -265,7 +265,7 @@ Three things must all be true for negligence to count as a violation:
 | Element | Plain English | What It Means |
 |---------|---------------|---------------|
 | **1. You had a duty** | It was literally your job | You were responsible for keeping something or someone safe |
-| **2. You could see it coming** | The danger wasn't a surprise | A reasonable person in your shoes would have known harm could happen |
+| **2. You could see it coming** | The danger wasn't a surprise | A reasonable sentient in your shoes would have known harm could happen |
 | **3. You could have acted** | You had the power to fix it | You had the resources, authority, and opportunity to prevent or reduce the harm |
 
 If all three are true and harm still happened because you didn't act, that's negligence—not just bad luck.
@@ -280,7 +280,7 @@ If all three are true and harm still happened because you didn't act, that's neg
 - **A landlord who ignores a gas leak** didn't set out to harm tenants, but they failed in their duty to maintain safe housing.
 - **A manager who ignores safety complaints** isn't directly causing injuries, but their inaction makes injuries predictable and preventable.
 
-In all these cases, the harm wasn't intentional, but it wasn't truly accidental either. The person *chose* not to act when they had the power to prevent harm.
+In all these cases, the harm wasn't intentional, but it wasn't truly accidental either. The sentient *chose* not to act when they had the power to prevent harm.
 
 ---
 

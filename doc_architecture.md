@@ -283,7 +283,7 @@ Avoid these words in plain-language sections unless they are the canonical term 
 | `interdependent definitions` | `linked definitions`, `connected definitions` |
 | `annex` (generic implementation-layer reference) | `implementation layer`, `implementation file`, or a specific implementation filename like `corpus_systems.md` |
 | `non-compliant` in explanatory prose | `does not meet the rule`, `fails the rule` |
-| `stakeholder` when ordinary **persons** are meant | `affected parties`, `participants`, `those involved` |
+| `stakeholder` when ordinary **sentients** are meant | `affected parties`, `participants`, `those involved` |
 | `posture` | `stance`, `approach`, `inputs`, `classification`, `framing`, `rule`, `profile`, or a concrete noun for what is meant (for example `verified standing inputs`, `scope limit`, `default rule`) |
 | `court` / `courts` (adjudicative / institutional) | `forum` / `forums`, `forum family` for routing, **Chapter Nine** and **[corpus_forum.md](corpus_forum.md)** for operative detail; or, where a generic label is still needed, `adjudicative body` |
 | `tribunal` / `tribunals` (internal forum-family sense) | `forum` / `forums`, `forum family`, `panel`, `bench`, or `adjudicative body`, depending on whether the sentence means the constitutional family, the deciding body, or a generic external body |

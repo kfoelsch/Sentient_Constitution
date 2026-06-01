@@ -6,7 +6,7 @@
 | --- | --- | --- | --- |
 | **CI-2** Designated functional separation | Same sentient holding opposing enforcement and appeal roles in the same matter | Material dual role | **CI-2** |
 | **CI-3** Authority custody | Approver and sole auditor for same transaction | Custody conflict | **CI-3** |
-| **CI-4** Appointment / removal | Hiring manager and sole misconduct fact-finder for same person | Appearance of bias | **CI-4** |
+| **CI-4** Appointment / removal | Hiring manager and sole misconduct fact-finder for same sentient | Appearance of bias | **CI-4** |
 | **CI-5** Integrity | Beneficiary and disclosure reviewer for same benefit | Financial / relational conflict | **CI-5** |
 | **CI-6** Procedure | Decision maker and sole appeals body for same case (where split required) | Structural bias | **CI-6** + **`corpus_forum.md`** **CF-3** / **CF-6** |
 | **CI-7** Assurance line | Operator and independent assurance on same control | Assurance capture | **CI-7** / **CI-7.2** |

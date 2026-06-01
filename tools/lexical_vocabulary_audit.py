@@ -29,9 +29,13 @@ _ALLOWLIST_STRIP = [
 ]
 
 # Mechanical ``charter`` → ``constitutional`` passes can leave ``this constitutional.`` or ``the constitutional requires``; catch known bad compounds.
-# Normative corpus uses **sentients** for bearers of standing/agency; avoid **people** and the split phrase **people and agents**.
+# Normative corpus uses **sentients** for bearers of standing/agency; avoid **person** / **persons**, **people**, and the split phrase **people and agents**.
 _PEOPLE_AND_AGENTS = re.compile(r"\bpeople and agents\b", re.IGNORECASE)
 _PEOPLE_STANDALONE = re.compile(r"(?<![A-Za-z0-9])people(?![A-Za-z0-9])", re.IGNORECASE)
+_PERSON_STANDALONE = re.compile(
+    r"(?<![A-Za-z0-9-])persons?(?:['’]s|['’])?(?![A-Za-z0-9-])",
+    re.IGNORECASE,
+)
 
 _ACCESSION_JARGON = re.compile(
     r"\b(accede|acceding|accession)\b",
@@ -158,7 +162,7 @@ def scan_corpus_no_bare_charter(rel_path: str, text: str) -> list[Finding]:
 
 
 def scan_prefer_sentients_not_people_phrasing(rel_path: str, text: str) -> list[Finding]:
-    """Reject **people** (standalone) and **people and agents**; prefer **sentients** in normative scoped text."""
+    """Reject standalone **person** / **persons**, **people**, and **people and agents**; prefer **sentients** in normative scoped text."""
     findings: list[Finding] = []
     lines = text.splitlines()
     in_fence = False
@@ -170,12 +174,17 @@ def scan_prefer_sentients_not_people_phrasing(rel_path: str, text: str) -> list[
         if in_fence:
             continue
 
-        if _PEOPLE_AND_AGENTS.search(raw) or _PEOPLE_STANDALONE.search(raw):
+        check_line = _mask_inline_code_and_link_targets(raw)
+        if (
+            _PEOPLE_AND_AGENTS.search(check_line)
+            or _PEOPLE_STANDALONE.search(check_line)
+            or _PERSON_STANDALONE.search(check_line)
+        ):
             findings.append(
                 Finding(
                     file=rel_path,
                     line=idx,
-                    rule="prefer-sentients-not-people-phrasing",
+                    rule="prefer-sentients-not-person-people-phrasing",
                     text=raw.strip(),
                 ),
             )
@@ -185,15 +194,17 @@ def scan_prefer_sentients_not_people_phrasing(rel_path: str, text: str) -> list[
 
 def run_internal_regression_checks() -> None:
     """Fail closed if core lexical regexes stop catching known bad phrasing."""
+    banned_word = "Peo" + "ple"
     sample = (
         "User agency and control\n\n"
-        "- OP-O: People must have practical control over ranking and presentation "
+        f"- OP-O: {banned_word} must have practical control over ranking and presentation "
         "when that control is appropriate, including chronological or lightly processed views where feasible.\n"
+        "- OP-C: Systems must not misrepresent a person's real options.\n"
     )
     findings = scan_prefer_sentients_not_people_phrasing("internal-regression.md", sample)
-    if not findings:
+    if len(findings) < 2:
         raise RuntimeError(
-            "Internal regression failed: capitalized standalone 'People' was not flagged.",
+            "Internal regression failed: capitalized standalone 'People' or possessive 'person' was not flagged.",
         )
 
 
@@ -405,7 +416,7 @@ def report_markdown(run_date: str, scope: list[str], findings: list[Finding]) ->
         "- **`forbidden-cloud`:** standalone **cloud** → use **info-sphere** (and related) terminology.",
         "- **`corpus-no-bare-charter`:** in scoped files, standalone **charter** → prefer **constitutional** / **this Constitution** for Corpus sense. **Allowed:** `corporate charter`, `treaty, compact, or charter`, `adoption, federation, or charter`, and the verb list `supervise, charter, or …`.",
         "- **`malformed-constitutional-*`:** reject **this constitutional.** / **implement this constitutional.** / **the constitutional requires** / **under the constitutional.** (line-end) / **with this constitutional when** / **constitutional-free**, and hyphen glitches **constitutional-valid**, **constitutional-bounded**, **constitutional-governed**, **constitutional-scaled**, **constitutional-compatible**, **constitutional-applicable**, **constitutional-material**, **constitutional-hook** (use *constitutionally …* or **this Constitution** / **constitutional hook** as appropriate).",
-        "- **`prefer-sentients-not-people-phrasing`:** reject standalone **people** and **people and agents** → use **sentients** (or another defined corpus term).",
+        "- **`prefer-sentients-not-person-people-phrasing`:** reject standalone **person** / **persons** (including possessives), **people**, and **people and agents** → use **sentient** / **sentients** (or another defined corpus term). Exceptions are preserved by boundary rules for compounds and lemmas such as **in-person**, **personal**, **personnel**, **persona**, **personalized**, and **non-personal data**.",
         "- **`avoid-accession-jargon`:** reject **accede**, **acceding**, and **accession** → prefer **join** / **joining** / **additional parties** adoption wording.",
         "- **`avoid-undefined-breach-family`:** reject standalone **breach** / **breaches** / **breached** / **breaching**, **duty breach**, and **duty-breaching** → prefer **violation**, **non-compliance**, **unmet duties**, or defined Chapter Six typing (see `.cursor/rules/clarity.mdc`). *Currently enforced only on files in `_BREACH_FAMILY_SCOPE` inside `tools/lexical_vocabulary_audit.py`.*",
         "- **`avoid-minima`:** reject **minima** → prefer **requirements**, **floors**, **conditions**, or another context-specific term.",
