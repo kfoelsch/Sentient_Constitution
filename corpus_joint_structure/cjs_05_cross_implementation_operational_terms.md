@@ -33,12 +33,32 @@ Adversarial response and revalidation non-entrenchment
 - OP-C: It is non-compliant to preserve legacy structures by inertia when material risk, drift, or known vulnerabilities require correction, reauthorization, or replacement.
 
 ### CJS-5.2 Cross-implementation quorum and participatory legitimacy terms
-Use this rule when participation or quorum rules affect materially binding outcomes across more than one implementation file. It is read with Implementation Group Four, section 2.
+Use this rule when participation or quorum rules affect materially binding outcomes across more than one implementation file. It is read with **Implementation Group Four**, **PROT1** and **PROT6**, **Sentient Constitution Chapter Eleven** section 4, **Chapter Ten Article IX-C**, and **Chapter Ten Article XI**.
 
 Cross-implementation quorum and participatory legitimacy terms
-- OP-O: Quorum and participation terms must be applied consistently across implementation interactions.
-- OP-E: Evaluation must apply all relevant parts together.
-- OP-C: It is non-compliant to claim valid quorum when a required part is missing, undefined, or applied inconsistently.
+- OP-O: Quorum and participation terms must identify the governing layer, apply the correct legitimacy rule for that layer, and operate consistently across implementation interactions.
+- OP-E: Evaluation must apply the two-tier constitutional and stakeholder governance framework, the published legitimacy mechanism, all quorum or threshold parts, eligibility rules, weighting rules, records, and challenge paths together.
+- OP-C: It is non-compliant to claim valid quorum or participatory legitimacy when the governing layer is unidentified, the wrong layer's rule is used, or a required part is missing, undefined, unauditable, or applied inconsistently.
+
+Two-tier governance-layer assignment
+- OP-O: Participation rules must distinguish **Foundational Constitutional Choice** in the **Constitutional Contract Layer** from stakeholder governance decisions within already-authorized **Governance** structures, rules, allocation of authority, and processes for a specified system, institution, or bounded decision domain.
+- OP-E: Evaluation must verify whether the decision authorizes or reauthorizes governing authority, the governance-layer mechanism, or the scope and durable terms of authority, or instead resolves a materially rights-affecting decision inside an already-authorized domain.
+- OP-C: Treating foundational authorization as ordinary stakeholder governance, or treating an internal stakeholder decision as if it could alter the foundational authorization layer without satisfying that layer, is non-compliant.
+
+Foundational constitutional choice equality floor
+- OP-O: Where the decision is **Foundational Constitutional Choice**, eligible sentients participate under the political-equality floor: each eligible sentient has equal participation weight, subject only to lawful good-standing and restitution-linked limits recognized by the Constitution.
+- OP-E: Evaluation must verify equal-weight treatment, substrate-agnostic and age-neutral eligibility, good-standing or restitution predicates where invoked, contestability, opposition protection, peaceful-succession or reauthorization pathways, and compliance with Chapter Eleven section 4.1 and Article IX-C.
+- OP-C: Impact, dependency, stakeholder status, lineage, substrate class, calendar age, or ordinary stakeholder-participation weighting may not dilute foundational constitutional choice.
+
+Stakeholder governance participation floor
+- OP-O: Where the decision occurs inside already-authorized governance for a specified system, institution, or bounded decision domain, **Stakeholder** identification, participation pathways, and any **Stakeholder Participation Weight** must be proportionate to material impact and dependency and must satisfy Article XI and Chapter Eleven section 4.3.
+- OP-E: Evaluation must verify stakeholder mapping, affected-class coverage, local deliberation where required, plural evaluation for high-impact choices, representation and weighting limits, rights-collision records, dissent or alternative records, reopening paths, and Article XI-A legitimacy gates for materially high-impact collective choice.
+- OP-C: Token consultation, dominance-prone weighting, missing affected classes, or stakeholder procedures that purport to authorize the governance layer itself are non-compliant.
+
+Quorum source and binding-effect gate
+- OP-O: Quorum, threshold, turnout, supermajority, multi-step confirmation, and binding-effect rules must be published before the decision event and tied to the correct constitutional or stakeholder layer.
+- OP-E: Evaluation must verify the source of quorum authority, the eligible participation pool, denominator treatment, abstention and non-response treatment, threshold calculation, tie or failure handling, emergency sequencing, and whether Article XI-A or other binding-effect gates were satisfied before implementation.
+- OP-C: Post-hoc quorum formulas, undisclosed denominator changes, unreviewable emergency shortcuts, or implementation of a high-impact decision before required legitimacy gates are satisfied are non-compliant.
 
 Participation
 - OP-O: Eligible participants must have a real chance to engage.
