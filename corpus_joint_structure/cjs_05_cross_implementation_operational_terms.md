@@ -328,6 +328,11 @@ Interchange and open-interface baseline
 - OP-E: Evaluation must verify interface controls do not defeat migration, substitution, or independent verification.
 - OP-C: Closed or unstable interfaces used to create lock-in are non-compliant.
 
+Open data-format and protocol presumption
+- OP-O: **Class A**, **Class B**, and **Class C** systems must use open, documented, stable, and standards-compatible data formats, schemas, APIs, and interchange protocols for material portability, audit, repair, continuity, and migration functions unless a narrower format or interface is strictly justified.
+- OP-E: Evaluation must verify public or qualified-access specifications, versioning discipline, migration tooling, test vectors, conformance records, and a scrutinizable justification for any closed, proprietary, unstable, or non-standard format or protocol.
+- OP-C: Closed, proprietary, degraded, unstable, or undocumented data formats or protocols are non-compliant where they materially impair exit, repair, independent verification, continuity, substitution, or cross-implementation operation, unless the restriction satisfies necessity, proportionality, least-restrictive-alternative, auditability, sunset, and revalidation requirements.
+
 Innovation reward boundary and anti-enclosure controls
 - OP-O: Innovation rewards must preserve repair, verification, interoperability, migration, and meaningful exit.
 - OP-E: Evaluation must verify dependency-critical exclusivity is narrow, time-bounded, disclosed, and continuity-protective.

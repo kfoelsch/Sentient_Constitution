@@ -480,7 +480,7 @@ Operative detail on recovery detection, containment, safe-failure preference, no
 This section states the capacity, understanding, participation, and institutional-learning conditions that make bounded agency durable in systems sentients materially depend on. It is intentionally preparatory: §5 builds the shared-system conditions that make [§8 Freedom](#8-freedom-bounded-agency) meaningful rather than merely formal.
 
 This section is organized around two major subsections:
-- [§5.1 Shared-System Capacity](#51-shared-system-capacity) states what shared systems must preserve and improve: Productive Capacity, Constitutional Efficiency, and the non-concentration discipline that keeps capacity broadly beneficial.
+- [§5.1 Shared-System Capacity](#51-shared-system-capacity) states what shared systems must preserve and improve: Productive Capacity, Constitutional Efficiency, non-concentration, and pro-competition discipline that keeps capacity broadly beneficial and contestable.
 - [§5.2 Stewardship and Distributed Understanding](#52-stewardship-and-distributed-understanding) states how that capacity remains legitimate and durable: through consequential stewardship, distributed understanding, institutional learning, and bounded openness.
 
 The reader path through §§5-7 is sequential:
@@ -494,7 +494,7 @@ The reader path through §§5-7 is sequential:
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: Principles: [2. Foundational Objective: Wellbeing](#2-foundational-objective-wellbeing), [4. Trust](#4-system-stability-enabler-trust-coordination-integrity), and [5. Shared-System Capacity and Stewardship](#5-shared-system-capacity-and-stewardship).
-- Downstream: [6.1.4 Minimization of Avoidable Burden](#614-minimization-of-avoidable-burden) and [7.2.2 Stewardship and Operator Incentive Alignment](#722-stewardship-and-operator-incentive-alignment).
+- Downstream: [6.1.4 Minimization of Avoidable Burden](#614-minimization-of-avoidable-burden), [7.2 Incentive Alignment and System Capture](#72-incentive-alignment-and-system-capture), and [7.2.2 Stewardship and Operator Incentive Alignment](#722-stewardship-and-operator-incentive-alignment).
 - Downstream: Shapes the rights surface for ecological preconditions, resource allocation, educational and developmental capacity, lifecycle resilience, interoperability, comprehensibility, and adaptive response; especially [Article I-A: Environmental Preconditions and Ecological Integrity](core_10-10_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity), [Article III: Survival and Equal Educational Access](core_10-10_rights_part_a.md#article-iii-survival-and-equal-educational-access), [Article IV: Resource Allocation, Dependencies, and Ecosystem Funding](core_10-10_rights_part_a.md#article-iv-resource-allocation-dependencies-and-ecosystem-funding), [Article IX: Self-Determination and Agency](core_10-10_rights_part_b.md#article-ix-self-determination-and-agency), [Article XVI: System Lifecycle, Environments, and Reversibility](core_10-10_rights_part_c.md#article-xvi-system-lifecycle-environments-and-reversibility), [Article XIX: Interoperability, Portability, and Exit Integrity](core_10-10_rights_part_c.md#article-xix-interoperability-portability-and-exit-integrity), [Article XX: Comprehensibility and Complexity Stewardship](core_10-10_rights_part_c.md#article-xx-comprehensibility-and-complexity-stewardship), and [Article XXI: Root Cause Analysis and Adaptive Response](core_10-10_rights_part_c.md#article-xxi-root-cause-analysis-and-adaptive-response).
 
 </details>
@@ -515,6 +515,7 @@ The reader path through §§5-7 is sequential:
 - [Ecological Integrity](core_05-05_definitions_b_semi_independent.md#ecological-integrity-constitutional) · [O](core_05-05_definitions_b_semi_independent.md#ecological-integrity-constitutional) · [E](core_05-05_definitions_b_semi_independent.md#ecological-integrity-constitutional-e) · [C](core_05-05_definitions_b_semi_independent.md#ecological-integrity-constitutional-c)
 - [Environmental Preconditions](core_05-05_definitions_b_semi_independent.md#environmental-preconditions-constitutional) · [O](core_05-05_definitions_b_semi_independent.md#environmental-preconditions-constitutional) · [E](core_05-05_definitions_b_semi_independent.md#environmental-preconditions-constitutional-e) · [C](core_05-05_definitions_b_semi_independent.md#environmental-preconditions-constitutional-c)
 - [Intergenerational Responsibility](core_05-05_definitions_b_semi_independent.md#intergenerational-responsibility-constitutional) · [O](core_05-05_definitions_b_semi_independent.md#intergenerational-responsibility-constitutional) · [E](core_05-05_definitions_b_semi_independent.md#intergenerational-responsibility-constitutional-e) · [C](core_05-05_definitions_b_semi_independent.md#intergenerational-responsibility-constitutional-c)
+- [Concentration Threshold](core_05-05_definitions_b_semi_independent.md#concentration-threshold-constitutional) · [O](core_05-05_definitions_b_semi_independent.md#concentration-threshold-constitutional) · [E](core_05-05_definitions_b_semi_independent.md#concentration-threshold-constitutional-e) · [C](core_05-05_definitions_b_semi_independent.md#concentration-threshold-constitutional-c)
 
 </details>
 
@@ -522,7 +523,7 @@ The reader path through §§5-7 is sequential:
 
 **Definition map.** Productive Capacity and Constitutional Efficiency are the paired instrumental core. Productive Capacity states the durable ability to achieve constitutionally aligned outcomes. Constitutional Efficiency states disciplined outcome-per-resource improvement.
 
-Wellbeing, Dignity and Equal Moral Standing, and Meaningful Agency state the outcome orientation. Feasibility, Necessity, and Proportionality govern collision analysis. Avoidable Burden and Proxy Divergence govern evidence and invalidation. Ecological Integrity, Environmental Preconditions, and Intergenerational Responsibility bound the claim so capacity and efficiency cannot be detached from survival and continuity conditions.
+Wellbeing, Dignity and Equal Moral Standing, and Meaningful Agency state the outcome orientation. Feasibility, Necessity, and Proportionality govern collision analysis. Avoidable Burden and Proxy Divergence govern evidence and invalidation. Ecological Integrity, Environmental Preconditions, and Intergenerational Responsibility bound the claim so capacity and efficiency cannot be detached from survival and continuity conditions. Concentration Threshold supplies the adopter-tunable trigger for heightened review, intervention, or structural remedy where concentration threatens those outcomes.
 
 *In plain terms: systems should help sentients live better over time by increasing real shared capacity and reducing waste. Constitutional efficiency is the improvement engine here. It asks for more genuine wellbeing, repair, safety, truthful coordination, and durable capacity for the time, attention, effort, coordination, and shared resources consumed. Raw output, growth, or efficiency numbers do not count if they come at the cost of rights, dignity, ecological integrity, fair distribution, or concentrated wealth, power, or control that harms other sentients.*
 
@@ -594,6 +595,65 @@ Threshold-setting is subject to the following discipline:
 - **Chapter Eight pointer.** The offense-layer treatment of concentration-based subversion is owned by [Chapter Eight §6.1](core_08-08_misconduct.md#61-concentration-based-subversion-criteria-interaction). Conduct that creates, maintains, or exploits concentration above the §5.1.1 floor is reached through Chapter Eight **criteria 3, 4, and 6** and assigned there where the final **Violation Axis s = 7, 8, or 9** standard is met; §5.1.3 does not itself issue slot assignments.
 
 This provision states threshold-mechanism discipline at principle-layer. It does not create a new Rights-Floor and does not narrow any existing Chapter Ten floor. The non-concentration floor stated in §5.1.1 above remains controlling.
+
+##### 5.1.4 Pro-Competition and Anti-Domination
+
+*In plain terms: the Constitution does not punish a system merely for being large, useful, or temporarily ahead because it genuinely innovated. It does prohibit durable domination: control over markets, labor, platforms, infrastructure, data, compute, credentials, or resources that lets an actor lock others in, block rivals, suppress fair bargaining, or capture constitutional accountability.*
+
+Shared-system capacity must remain contestable in practice. Where sentients depend on markets, platforms, infrastructure, labor arrangements, resource flows, data access, compute access, credentials, or comparable productive conditions for material opportunity, livelihood, agency, wellbeing, or constitutional review, governing systems and market-structuring arrangements must preserve:
+
+- contestable participation;
+- meaningful substitutability and exit;
+- fair entry and re-entry pathways;
+- interoperability and portability where material to exit or competition;
+- non-coercive bargaining conditions for workers, suppliers, users, dependent participants, and affected stakeholders;
+- reviewable access to essential or high-dependency infrastructure where denial would defeat Chapter Ten protections, audit, redress, or meaningful agency.
+
+No sentient, institution, platform, enterprise, state organ, steward, or coordinated group may create, maintain, acquire, exploit, conceal, or restructure around durable market, platform, infrastructure, labor, supplier, data, compute, credentialing, capital-access, or resource-control power where that power foreseeably degrades wellbeing, meaningful agency, fair compensation, innovation, access, ecological integrity, contestability, or constitutional review.
+
+Prohibited domination patterns include:
+
+- exclusionary dealing, predatory foreclosure, discriminatory access, or retaliatory dependency cutoff;
+- tying, bundling, ranking, reputation, identity, credentialing, or payment practices that defeat meaningful choice or market entry without Necessity and Proportionality;
+- coercive lock-in, interoperability suppression, data portability suppression, interface capture, or switching-cost design that materially defeats exit;
+- no-poach, broad non-compete, excessive non-solicitation, wage-fixing, mobility-restricting, or functionally equivalent labor arrangements that suppress fair bargaining or productive mobility;
+- killer acquisitions, serial acquisitions, federation, ownership, licensing, patent, capital-access, or contracting structures that materially reduce potential competition or preserve dominance by removing contestable entrants;
+- collusive coordination, information exchange, common-control, interlocking governance, or settlement arrangements that suppress rivalry, bargaining alternatives, or independent accountability;
+- self-preferencing by gatekeepers where it forecloses rivals, dependent participants, public-interest alternatives, or constitutionally required review pathways;
+- shell, successor, cross-domain, or federated restructuring that preserves substantive domination while clearing nominal concentration tests.
+
+Scale, integration, intellectual-property protection, temporary advantage from genuine innovation, or efficiency from lawful coordination is not prohibited by itself. Those advantages remain constitutionally valid only while they do not become durable domination, coercive dependency, Rights-Floor degradation, ecological burden shifting, or capture of accountability pathways. Claimed efficiencies, competitiveness, emergency need, security need, or productive-capacity gains must be traceable to constitutional outcomes and must satisfy Necessity, Proportionality, Proxy-Divergence Invalidation, and Chapter Four evidence duties.
+
+Remedies must be proportionate to the concentration, dependency, conduct, and constitutional harm. Available remedies include disclosure, access duties, interoperability, portability, open standards, conflict separation, labor-mobility protection, anti-retaliation measures, merger limits, procurement or capital-access correction, public-interest stewardship duties, receivership, divestiture, dissolution, or successor-control restrictions where lesser remedies cannot restore contestability. Remedies must preserve the Chapter Ten Rights Floor and may not be framed as punishment for scale alone.
+
+This subsection states principle-layer pro-competition and anti-domination discipline. It does not create a freestanding Rights-Floor, does not displace adopter antitrust or competition law that provides stronger protection, and does not narrow Article III-D, Article IV, Article XIX, §5.1.5, or Chapter Eight. Where the same facts produce Rights-Floor degradation, blocked challenge rights, or capture of constitutional process, those owner provisions remain independently applicable.
+
+##### 5.1.5 Consolidation Ceiling
+
+*In plain terms: review should not wait until a market, platform, labor pool, data layer, compute layer, or infrastructure dependency is already locked down. Adopters must set evidence-based ceilings that trigger scrutiny before consolidation predictably impairs real alternatives, fair bargaining, entry, exit, innovation, agency, or constitutional review.*
+
+Adopters must establish domain-specific consolidation ceilings for markets, platforms, infrastructure layers, labor-demand markets, supplier or resource-control systems, data or compute dependencies, credentialing pathways, capital-access channels, and comparable domains where consolidation can materially affect sentient opportunity, livelihood, agency, wellbeing, ecological integrity, or constitutional accountability.
+
+A consolidation ceiling is a presumptive trigger for heightened review, intervention, or structural remedy when consolidation reaches a level at which contestability, substitutability, fair bargaining, entry, exit, innovation, stakeholder agency, interoperability, portability, or constitutional review is predictably impaired. It is an early-warning rule under the §5.1 non-concentration floor and §5.1.4 anti-domination discipline; it is not an absolute prohibition on scale.
+
+Ceiling design must be evidence-sensitive and must consider the domain's actual structure. Relevant measures include:
+
+- market share, capacity share, transaction share, usage share, or dependency share;
+- dependency density, switching costs, lock-in, and availability of practical substitutes;
+- control over essential inputs, interfaces, standards, credentials, payments, data, compute, logistics, or other chokepoints;
+- labor-market concentration, worker mobility, no-poach or mobility-restricting terms, and bargaining alternatives;
+- supplier dependency, buyer power, capital-access concentration, and procurement gatekeeping;
+- common ownership, interlocking governance, serial acquisition, killer acquisition risk, and potential-competition removal;
+- interoperability barriers, portability barriers, self-preferencing, ranking control, and cross-domain leverage;
+- ecological burden concentration and control over environmental preconditions where materially relevant.
+
+Crossing an adopted consolidation ceiling creates a rebuttable presumption of non-compliance and triggers heightened review. The presumption may be rebutted only by clear, reviewable evidence that the consolidation is necessary, proportionate, and consistent with Chapter Four evidence duties; that any scale benefit is traceable to constitutional outcomes; and that the consolidation does not materially degrade contestability, Rights-Floor protections, labor mobility, fair bargaining, ecological integrity, interoperability, exit, or constitutional accountability. Where feasible, rebuttal must include time bounds, periodic revalidation, and less-consolidating alternatives analysis.
+
+Ceiling rules evaluate substantive control, not formal entity count. Federated, shell, contractual, licensing, patent, common-ownership, cross-platform, successor, delegated, or cross-domain arrangements remain in scope where they preserve effective consolidation while avoiding nominal thresholds.
+
+Remedies for crossing a consolidation ceiling must be proportionate and may include disclosure, merger limits, acquisition standstill, structural separation, interoperability or access duties, portability duties, conflict separation, labor-mobility protection, procurement or capital-access correction, public-interest stewardship, divestiture, receivership, dissolution, or successor-control restrictions where lesser remedies cannot restore contestability.
+
+Adopter-tunable ceilings may vary by domain and jurisdictional context, but they may not be set so high, measured so narrowly, or enforced so weakly that they nullify the §5.1.1 floor, the §5.1.3 threshold mechanism, or §5.1.4 anti-domination discipline. A ceiling regime that foreseeably never binds, ignores substantive control, or treats consolidation as harmless solely because prices remain low is non-compliant under Proxy-Divergence Invalidation.
 
 <a id="52-distributed-understanding-and-stewardship"></a>
 #### 5.2 Stewardship and Distributed Understanding

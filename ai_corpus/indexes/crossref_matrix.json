@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/crossref_matrix.schema.json",
-  "generated_at": "2026-06-01T04:40:25+00:00",
+  "generated_at": "2026-06-03T23:01:07+00:00",
   "description": "Source-derived file-to-file Markdown reference graph.",
   "graph": {
     "nodes": [
@@ -26,6 +26,10 @@
       },
       {
         "id": "core_06-06_standing_assessment.md",
+        "type": "core"
+      },
+      {
+        "id": "core_06-06_sections_5.1-5.8_plain_language.md",
         "type": "core"
       },
       {
@@ -227,7 +231,7 @@
           },
           {
             "file": "core_05-05_definitions_b_semi_independent.md",
-            "count": 319,
+            "count": 323,
             "anchors": [
               "#accountability",
               "#accountability-c",
@@ -251,6 +255,8 @@
               "#collective-organization-constitutional-c",
               "#collective-organization-constitutional-e",
               "#concentration-threshold-constitutional",
+              "#concentration-threshold-constitutional-c",
+              "#concentration-threshold-constitutional-e",
               "#consent-constitutional",
               "#consent-constitutional-c",
               "#consent-constitutional-e",
@@ -842,7 +848,7 @@
         "targets": [
           {
             "file": "core_00-01_principles.md",
-            "count": 134,
+            "count": 140,
             "anchors": [
               "#2-foundational-objective-wellbeing",
               "#3-non-negotiable-constraints-safety-and-truth",
@@ -850,6 +856,8 @@
               "#511-productive-capacity-instrumental-good",
               "#512-constitutional-efficiency",
               "#513-concentration-threshold-mechanism-adopter-tunable",
+              "#514-pro-competition-and-anti-domination",
+              "#515-consolidation-ceiling",
               "#52-stewardship-and-distributed-understanding",
               "#522-distributed-understanding",
               "#524-openness-aspiration",
@@ -1464,6 +1472,16 @@
         ]
       },
       {
+        "source": "core_06-06_sections_5.1-5.8_plain_language.md",
+        "targets": [
+          {
+            "file": "core_07-07_standing_integration.md",
+            "count": 2,
+            "anchors": []
+          }
+        ]
+      },
+      {
         "source": "core_07-07_standing_integration.md",
         "targets": [
           {
@@ -1645,12 +1663,14 @@
         "targets": [
           {
             "file": "core_00-01_principles.md",
-            "count": 7,
+            "count": 9,
             "anchors": [
               "#22-recognition-reinforcement-and-aspiration",
               "#32-truth-epistemic-integrity-constraint",
               "#511-productive-capacity-instrumental-good",
               "#513-concentration-threshold-mechanism-adopter-tunable",
+              "#514-pro-competition-and-anti-domination",
+              "#515-consolidation-ceiling",
               "#72-incentive-alignment-and-system-capture",
               "#721-preservation-of-epistemic-integrity",
               "#chapter-01-principles-and-constraints"

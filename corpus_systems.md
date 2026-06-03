@@ -152,7 +152,7 @@ Creating new systems, tools, and environments is an act of stewardship. New depl
 
 **Avoid** black-box systems that bypass consent.
 
-**Open hardware, open software, open systems:** Operational design and stewardship should **align** with **corpus_joint_structure.md** **PRIM7** — *Open hardware, open software, and open systems* — so that **preference** for **open** stacks scales with **material impact**, **dependency**, and **stewardship tier** under **Chapter S2** and **Chapter S3**. **Classification** and **tier** rules may set **stronger** disclosure, **inspectability**, or **substitutability** expectations for **Class A**, **Class B**, and high-tier systems than for **bounded** or **experimental** scopes, without narrowing **PROT4** justification paths where **proprietary** or **closed** choices are **auditably** required.
+**Open hardware, open software, open systems:** Operational design and stewardship should **align** with **corpus_joint_structure.md** **PRIM7** — *Open hardware, open software, and open systems* — and **CJS-5.8** open data-format and protocol discipline, so that **preference** for **open** stacks scales with **material impact**, **dependency**, and **stewardship tier** under **Chapter S2** and **Chapter S3**. **Classification** and **tier** rules may set **stronger** disclosure, **inspectability**, **substitutability**, format, schema, API, or interchange-protocol expectations for **Class A**, **Class B**, and high-tier systems than for **bounded** or **experimental** scopes, without narrowing **PROT4** justification paths where **proprietary** or **closed** choices are **auditably** required.
 
 **Modular design and deployments:** Innovation in one verified module (e.g. a new UI) must **not** force alteration of other verified modules (e.g. survival or privacy governance). **That** separation keeps innovations from disrupting baseline requirements.
 
@@ -404,7 +404,7 @@ Systems must implement class-scaled compliance templates that preserve core prot
 
 Templates are implementation profiles, not alternative standards. When multiple profiles could apply, the **stricter** governs.
 
-Implementation packets may be standardized through reusable templates so long as they do not narrow constitutional obligations. See `implementation/SYSTEMS_IMPLEMENTATION_TEMPLATES_2026-04-13.md` for adopter-facing templates covering system cards, model cards, post-deployment monitoring cadence, incident reporting bundles, and material control-failure disclosure packets.
+Implementation packets may be standardized through reusable templates so long as they do not narrow constitutional obligations. For **Class A**, **Class B**, and **Class C** systems, packet formats and interchange protocols must also preserve the open data-format and protocol presumption in `corpus_joint_structure.md` **CJS-5.8** where portability, audit, repair, continuity, migration, or cross-implementation operation is material. See `implementation/SYSTEMS_IMPLEMENTATION_TEMPLATES_2026-04-13.md` for adopter-facing templates covering system cards, model cards, post-deployment monitoring cadence, incident reporting bundles, and material control-failure disclosure packets.
 
 **Invariant core controls (all classes):** Constitutional tracing, auditable decision records, incident logging, challenge/remediation pathways, and minimum verification accessibility must remain in force regardless of class.
 
@@ -450,7 +450,7 @@ Requirements and limitations scale proportionally with system classification and
 
 Therefore, all data must be identified as belonging to one or more of the types defined in Chapter S1 — Information Types and Handling. Where multiple classifications apply, the most restrictive applicable protections govern, subject to proportionality (**PROT1**).
 
-Handling must align with Sentient Constitution Chapter Ten and scale with system class under Chapter S2.
+Handling must align with Sentient Constitution Chapter Ten and scale with system class under Chapter S2. Where data handling supports material portability, audit, repair, continuity, migration, or cross-implementation operation for **Class A**, **Class B**, or **Class C** systems, format, schema, API, and interchange-protocol choices must also satisfy `corpus_joint_structure.md` **CJS-5.8**.
 
 ### II. Temporal, systemic, and dependency scope of rights
 Data-handling protections under Chapter S1 apply not only to immediate and direct system effects. They also apply to delayed, cumulative, and indirect impacts arising through system interactions and dependency chains.
