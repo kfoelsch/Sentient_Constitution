@@ -417,7 +417,7 @@ Cross-implementation auditability and reconstructability terms
 Auditability floor and record sufficiency
 - OP-O: Systems must keep records sufficient to evaluate compliance, reconstruct material behavior, and verify material claims.
 - OP-E: Evaluation must verify record scope, quality, and retention in practice.
-- OP-C: Records that exist but cannot support review are non-compliant.
+- OP-C: Recordkeeping is non-compliant when records lack the scope, provenance, intelligibility, continuity, or retention needed for a qualified reviewer to evaluate compliance, reconstruct material behavior, or verify material claims.
 
 Operational transparency and structured logging requirements
 - OP-O: Systems must provide impact-proportional operational transparency and structured audit logs.
@@ -427,12 +427,12 @@ Operational transparency and structured logging requirements
 Forensic-depth access proportionality
 - OP-O: Deeper forensic access must be available when harm, credible risk, or investigation needs require full reconstruction.
 - OP-E: Evaluation must verify escalation from ordinary records to forensic depth is real and timely.
-- OP-C: Superficial records are non-compliant where forensic reconstruction is required.
+- OP-C: Forensic access is non-compliant when escalation produces records, tools, permissions, or reviewer conditions that are too incomplete, delayed, constrained, or unintelligible to support the required reconstruction.
 
 Article VII-B boundary and anti-concealment rule
-- OP-O: Private internal-state protections must be narrow and justified under **Article VII-B**.
-- OP-E: Evaluation must verify privacy protections do not block lawful audit of systemic behavior.
-- OP-C: Using internal-state protections to hide accountability-relevant behavior is non-compliant.
+- OP-O: **Article VII-B** protects private internal states, but that protection does not excuse systems from showing what they did, why it mattered, who or what was responsible, and what external effects followed.
+- OP-E: Evaluation must verify that privacy limits protect internal states without preventing lawful audit of actions, outputs, decisions, effects, responsibilities, or control pathways.
+- OP-C: It is non-compliant to invoke internal-state protection in a way that conceals accountability-relevant system behavior or prevents lawful reconstruction of external facts.
 
 ### CJS-5.11 Cross-implementation tiered transparency and audit-access terms
 Use this rule when public visibility, qualified review, or forensic reconstruction depends on combined implementation-file behavior. It is read with **PRIM10 — Tiered Transparency and Audit Access**, **PRIM9 — Auditability**, **PRIM12 — Reversibility and Containment**, **Article XV-A**, and **Article VII-B**.
