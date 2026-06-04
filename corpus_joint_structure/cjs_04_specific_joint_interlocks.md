@@ -39,13 +39,13 @@ When revising **CP** implementation text:
 - preserve **PRIM** and **PROT** labels so citations remain traceable under **CJS-3.6**.
 
 ### CJS-4.4 Cross-implementation trust integrity (joint operation model)
-Use this rule for **CJS-R17**, cross-implementation trust integrity, and for any trust claim that depends on more than one implementation file working together.
+Use this rule for **CJS-R17**, cross-implementation trust integrity, and for any trust claim that depends on more than one system, institution, dependency, or implementation layer working together.
 
 The meanings of **Trust**, **Trustworthiness**, and **Trust Degradation and Misleading Reliance** remain in `core_05-05_definitions_c_dependent_clusters.md` **Chapter Five, section 3.39**. This subsection only explains the joint-operation duties.
 
 A trustworthiness claim is non-compliant if one implementation file gives reassuring signals while another implementation file in the same chain leaves unresolved problems that defeat observable, verifiable, or contestable reliance.
 
-Where trust depends on multiple implementation files, institutions must maintain a published and auditable map that identifies:
+Where trust depends on multiple systems, institutions, dependencies, or implementation layers, institutions must maintain a published and auditable map that identifies:
 - the implementation duties, classification conditions, dependencies, steward duties, and assurance burdens supporting the trust claim;
 - the contest, escalation, evidence, and correction routes affected sentients can use; and
 - the accountable owners for correction and restoration.

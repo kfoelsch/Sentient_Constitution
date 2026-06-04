@@ -8,9 +8,9 @@ Use these clusters as joint interface terms for combined satisfaction across **C
 Use this rule for **CJS-R19**, cross-implementation integrity assurance and resilience operations. It relies on, but does not replace, core definitions such as auditability, verifiability, reversibility, dependency, cascading failure, adversarial conditions, and trustworthiness.
 
 Cross-implementation integrity assurance and resilience operations
-- OP-O: Integrity claims depend on the whole chain when records, access, classification, stewardship, challenge, or adjudication are split across implementation files.
+- OP-O: Integrity claims depend on the whole chain when records, access, classification, stewardship, challenge, or adjudication are split across systems, institutions, dependencies, or implementation layers.
 - OP-E: Evaluation must test the chain end to end, including normal, degraded, and adversarial conditions.
-- OP-C: A chain is non-compliant if required conditions are missing, blocked, contradictory, or practically unusable. A strong control in one implementation file cannot cure a material failure in another.
+- OP-C: A chain is non-compliant if required conditions are missing, blocked, contradictory, or practically unusable. A strong control in one part of the chain cannot cure a material failure in another.
 
 Audit reconstruction and tiered access continuity
 - OP-O: Records, disclosure tiers, qualified audit access, and forensic reconstruction must work together when harm, dispute, or credible risk requires deeper inspection.
@@ -187,7 +187,7 @@ Proportional application
 - OP-C: Simplified rules are non-compliant when they still allow material misunderstanding, manipulation, or barriers to informed participation.
 
 ### CJS-5.5 Cross-implementation disclosure sufficiency and observability terms
-Use this rule when informed participation, independent verification, or attribution depends on disclosure across implementation files. It is read with **PRIM4 — Transparency and Disclosure**, **PRIM5 — Dependency Awareness, Disclosure, and Risk Integrity** where dependencies matter, **Article XV-A**, and **Article VII-B**.
+Use this rule when informed participation, independent verification, or attribution depends on disclosure across systems, dependencies, institutions, or implementation layers. It is read with **PRIM4 — Transparency and Disclosure**, **PRIM5 — Dependency Awareness, Disclosure, and Risk Integrity** where dependencies matter, **Article XV-A**, and **Article VII-B**.
 
 Cross-implementation disclosure sufficiency and observability terms
 - OP-O: Affected parties must be given enough clear information to understand what is happening, why it matters, who or what is responsible, and how the claim can be checked.
@@ -215,7 +215,7 @@ Private internal-state boundary and external observability attribution
 - OP-C: It is non-compliant either to force unlawful exposure of private internal states or to use privacy as an excuse to hide observable conduct, impacts, decision paths, or responsible actors.
 
 ### CJS-5.6 Cross-implementation dependency integrity and disclosure terms
-Use this rule when dependency mapping, risk treatment, or accountability depends on combined implementation-file behavior. It is read with **PRIM5 — Dependency Awareness, Disclosure, and Risk Integrity**, **PRIM4 — Transparency and Disclosure**, **PRIM7 — Interoperability, Portability, and Exit Integrity**, **PRIM9 — Auditability**, **PRIM15 — Evolution, Revalidation, and Non-Entrenchment**, `corpus_systems.md` **Protocol A — System Design, Testing, Verification, and Deployment**, and **Article XV-A**.
+Use this rule when dependency mapping, risk treatment, or accountability depends on combined system, dependency, or implementation-layer behavior. It is read with **PRIM5 — Dependency Awareness, Disclosure, and Risk Integrity**, **PRIM4 — Transparency and Disclosure**, **PRIM7 — Interoperability, Portability, and Exit Integrity**, **PRIM9 — Auditability**, **PRIM15 — Evolution, Revalidation, and Non-Entrenchment**, `corpus_systems.md` **Protocol A — System Design, Testing, Verification, and Deployment**, and **Article XV-A**.
 
 Cross-implementation dependency integrity and disclosure terms
 - OP-O: If a system relies on something important, that reliance must be named, explained, watched, and handled according to the risk it creates.
@@ -253,7 +253,7 @@ Proportional application
 - OP-C: A simplified dependency process is non-compliant if important risks still exist but are not disclosed, monitored, or addressed.
 
 ### CJS-5.7 Cross-implementation graceful degradation and failure-mode integrity terms
-Use this rule when reliability, signaling, containment, or recovery depends on combined implementation-file behavior. It is read with **PRIM6 — Graceful Degradation and Failure Mode Integrity**, **PRIM1 — System Status, Risk, and Scope Representation**, **PRIM5 — Dependency Awareness, Disclosure, and Risk Integrity**, **PRIM12 — Reversibility and Containment**, **PRIM15 — Evolution, Revalidation, and Non-Entrenchment**, and `corpus_systems.md` **Protocol A — System Design, Testing, Verification, and Deployment**.
+Use this rule when reliability, signaling, containment, or recovery depends on combined system, dependency, or implementation-layer behavior. It is read with **PRIM6 — Graceful Degradation and Failure Mode Integrity**, **PRIM1 — System Status, Risk, and Scope Representation**, **PRIM5 — Dependency Awareness, Disclosure, and Risk Integrity**, **PRIM12 — Reversibility and Containment**, **PRIM15 — Evolution, Revalidation, and Non-Entrenchment**, and `corpus_systems.md` **Protocol A — System Design, Testing, Verification, and Deployment**.
 
 Cross-implementation graceful degradation and failure-mode integrity terms
 - OP-O: Systems must behave honestly and safely under partial failure, uncertainty, or stress.
@@ -301,7 +301,7 @@ Proportional application
 - OP-C: Reduced controls are non-compliant where material risk remains.
 
 ### CJS-5.8 Cross-implementation interoperability, portability, and exit-integrity terms
-Use this rule when lock-in, migration, interface design, or dependency exposure depends on combined implementation-file behavior. It is read with **PRIM7 — Interoperability, Portability, and Exit Integrity**, **PRIM5 — Dependency Awareness, Disclosure, and Risk Integrity**, **PRIM4 — Transparency and Disclosure**, `corpus_systems.md` **Chapter S1**, **Chapter S2**, **Chapter S3**, **Article XIX**, and **Article XV-A**.
+Use this rule when lock-in, migration, interface design, or dependency exposure depends on combined system, dependency, or implementation-layer behavior. It is read with **PRIM7 — Interoperability, Portability, and Exit Integrity**, **PRIM5 — Dependency Awareness, Disclosure, and Risk Integrity**, **PRIM4 — Transparency and Disclosure**, `corpus_systems.md` **Chapter S1**, **Chapter S2**, **Chapter S3**, **Article XIX**, and **Article XV-A**.
 
 Cross-implementation interoperability, portability, and exit-integrity terms
 - OP-O: Systems must preserve meaningful exit, usable portability, and fair interoperability.
@@ -354,7 +354,7 @@ Proportional application
 - OP-C: Simplified controls are non-compliant where material lock-in remains.
 
 ### CJS-5.9 Cross-implementation intervention and override integrity terms
-Use this rule when technical intervention, governance authorization, and accountability depend on combined implementation-file behavior. It is read with **PRIM8 — Intervention and Override Rights**, **PRIM6 — Graceful Degradation and Failure Mode Integrity**, **PRIM9 — Auditability**, **PRIM14 — Adversarial Robustness and Abuse Resistance**, **PRIM15 — Evolution, Revalidation, and Non-Entrenchment**, **PROT2 — Intervention and Override Rights**, and constitutional hooks in **Articles IX, XII, and XIII**.
+Use this rule when technical intervention, governance authorization, and accountability depend on combined system, governance, or implementation-layer behavior. It is read with **PRIM8 — Intervention and Override Rights**, **PRIM6 — Graceful Degradation and Failure Mode Integrity**, **PRIM9 — Auditability**, **PRIM14 — Adversarial Robustness and Abuse Resistance**, **PRIM15 — Evolution, Revalidation, and Non-Entrenchment**, **PROT2 — Intervention and Override Rights**, and constitutional hooks in **Articles IX, XII, and XIII**.
 
 Cross-implementation intervention and override integrity terms
 - OP-O: Systems need timely, accountable ways to interrupt, constrain, or redirect harmful behavior.
@@ -407,7 +407,7 @@ Proportional application
 - OP-C: Reduced controls are non-compliant where material harm-prevention needs remain.
 
 ### CJS-5.10 Cross-implementation auditability and reconstructability terms
-Use this rule when records, access pathways, or verification design depend on combined implementation-file behavior. It is read with **PRIM9 — Auditability**, **PRIM4 — Transparency and Disclosure**, **PRIM10 — Tiered Transparency and Audit Access**, **Article XV-A**, and **Article VII-B**.
+Use this rule when records, access pathways, or verification design depend on combined system, dependency, or implementation-layer behavior. It is read with **PRIM9 — Auditability**, **PRIM4 — Transparency and Disclosure**, **PRIM10 — Tiered Transparency and Audit Access**, **Article XV-A**, and **Article VII-B**.
 
 Cross-implementation auditability and reconstructability terms
 - OP-O: Records must be verifiable, independently reviewable, and adequate for reconstructing harm or disputes.
@@ -435,68 +435,70 @@ Article VII-B boundary and anti-concealment rule
 - OP-C: It is non-compliant to invoke internal-state protection in a way that conceals accountability-relevant system behavior or prevents lawful reconstruction of external facts.
 
 ### CJS-5.11 Cross-implementation tiered transparency and audit-access terms
-Use this rule when public visibility, qualified review, or forensic reconstruction depends on combined implementation-file behavior. It is read with **PRIM10 — Tiered Transparency and Audit Access**, **PRIM9 — Auditability**, **PRIM12 — Reversibility and Containment**, **Article XV-A**, and **Article VII-B**.
+Use this rule when public visibility, qualified review, or forensic reconstruction depends on how multiple systems, dependencies, institutions, or implementation layers work together. It is read with **PRIM10 — Tiered Transparency and Audit Access**, **PRIM9 — Auditability**, **PRIM12 — Reversibility and Containment**, **Article XV-A**, and **Article VII-B**.
 
 Cross-implementation tiered transparency and audit-access terms
-- OP-O: Information access must use tiers that balance transparency, auditability, protected internal-state boundaries, and contestability.
-- OP-E: Evaluation must apply all components together.
-- OP-C: It is non-compliant to claim tiered transparency when a material component is absent or inaccessible.
+- OP-O: Access to information must be tiered so systems can be transparent, auditable, protective of lawful internal-state boundaries, and open to challenge.
+- OP-E: Evaluation must review the access tiers, audit routes, protection limits, and challenge paths together.
+- OP-C: A system cannot claim tiered transparency if a required part is missing, unreachable, or too unclear to use.
 
 Tier structure and baseline accessibility
-- OP-O: Baseline access must let materially affected stakeholders understand behavior, risk, dependency, and participation options.
-- OP-E: Evaluation must verify the baseline is practically usable.
-- OP-C: Tiers that leave baseline access too thin for participation or risk evaluation are non-compliant.
+- OP-O: Baseline access must let materially affected stakeholders understand what the system does, what risks it creates, what dependencies it has, and how they can participate.
+- OP-E: Evaluation must verify that baseline access works for ordinary use, not only in theory.
+- OP-C: Access tiers are non-compliant if the baseline is too thin for meaningful participation or risk review.
 
 Qualified audit pathways and non-exclusive eligibility
-- OP-O: When full public access is inappropriate, qualified independent audit paths must exist with transparent, non-exclusive eligibility criteria.
-- OP-E: Evaluation must verify qualification routes are practically reachable and not monopolized.
-- OP-C: Hidden exclusion through qualification rules is non-compliant.
+- OP-O: When full public access is inappropriate, qualified independent audit paths must still exist, and eligibility rules must be public and non-exclusive.
+- OP-E: Evaluation must verify that qualified reviewers can realistically enter those paths and that no actor controls access unfairly.
+- OP-C: Qualification rules are non-compliant if they hide exclusion or make independent audit unreachable in practice.
 
-Restriction-scoping and justification discipline
-- OP-O: Access restrictions must be narrow, justified, time-aware, and auditable.
-- OP-E: Evaluation must verify rationale, scope, duration, and review mechanisms.
-- OP-C: Broad, indefinite, or unreviewable restrictions are non-compliant.
+Restriction scope and justification discipline
+- OP-O: Access restrictions must be narrow, justified, tied to time or review points, and open to audit.
+- OP-E: Evaluation must verify the reason for each restriction, what it covers, how long it lasts, and how it is reviewed.
+- OP-C: Restrictions are non-compliant when they are broad, indefinite, or shielded from review.
 
 Forensic escalation and reconstruction sufficiency
-- OP-O: Harm, dispute, or credible risk must trigger access sufficient for necessary and feasible reconstruction.
-- OP-E: Evaluation must verify escalation to forensic depth works in relevant timeframes.
-- OP-C: Blocking forensic pathways where material reconstruction is required is non-compliant.
+- OP-O: Harm, dispute, or credible risk must trigger enough access to reconstruct what happened when reconstruction is necessary and feasible.
+- OP-E: Evaluation must verify that escalation to forensic-depth review works within the time needed for the issue.
+- OP-C: Forensic pathways are non-compliant if they are blocked when material reconstruction is required.
 
 Access-control integrity and anti-concealment
-- OP-O: Access controls must be transparent in design, auditable in operation, and challengeable.
-- OP-E: Evaluation must verify controls preserve accountability across implementation boundaries.
-- OP-C: Access architecture that hides systemic behavior or blocks challenge is non-compliant.
+- OP-O: Access controls must be understandable in design, auditable in operation, and open to challenge.
+- OP-E: Evaluation must verify that the controls preserve accountability across implementation boundaries.
+- OP-C: Access design is non-compliant if it hides systemic behavior or blocks meaningful challenge.
 
 ### CJS-5.12 Cross-implementation independent verification and claim-integrity terms
-Use this rule when evidence quality, verification routes, or trust claims depend on combined implementation-file behavior. It is read with **PRIM11 — Independent Verification and Integrity of Claims**, **PRIM9 — Auditability**, **PRIM10 — Tiered Transparency and Audit Access**, Chapter Fourteen, and rights-layer protections where material claims shape rights-relevant decisions.
+Use this rule when evidence quality, verification routes, or trust claims depend on how multiple systems, dependencies, or implementation layers work together.
+
+It is read with **PRIM11 — Independent Verification and Integrity of Claims**, **PRIM9 — Auditability**, and **PRIM10 — Tiered Transparency and Audit Access**. It is also read with Chapter Fourteen and rights-layer protections where material claims shape rights-relevant decisions.
 
 Cross-implementation independent verification and claim-integrity terms
-- OP-O: Material claims must be independently checkable where feasible.
-- OP-E: Evaluation must apply all components together.
-- OP-C: It is non-compliant to treat claims as reliable when material verification paths are missing or blocked.
+- OP-O: Material claims must be independently checkable where doing so is feasible.
+- OP-E: Evaluation must review the claim, evidence, access route, reviewer independence, and verification limits together.
+- OP-C: A system cannot treat material claims as reliable if required verification paths are missing, blocked, or too weak to use.
 
 Material-claim verification scope
-- OP-O: Material claims about behavior, compliance, impact, safety, reliability, environment, information, governance, or algorithms must be independently and reproducibly verifiable where feasible.
-- OP-E: Evaluation must map claim families to verification paths and evidence standards.
-- OP-C: Exempting consequential claims from verification without lawful technical-feasibility grounds is non-compliant.
+- OP-O: Material claims about behavior, compliance, impact, safety, reliability, environmental effects, information integrity, governance, or algorithms must be independently verifiable where feasible. Reproducible testing is required where feasible.
+- OP-E: Evaluation must match each claim family with the verification path and evidence standard needed to test it.
+- OP-C: Consequential claims are non-compliant if they are exempted from verification without lawful technical-feasibility grounds.
 
 Reproducibility and external evaluation viability
-- OP-O: Evidence and methods must support qualified independent reproduction and comparison.
-- OP-E: Evaluation must verify documentation is sufficient for external evaluation.
-- OP-C: Non-reproducible or opaque methods are non-compliant where reproducibility is feasible.
+- OP-O: Evidence and methods must let qualified independent reviewers reproduce results and compare them with alternative evaluations.
+- OP-E: Evaluation must verify that documentation, data access, assumptions, and limits are sufficient for external review.
+- OP-C: Methods are non-compliant if they are opaque or non-reproducible where reproducibility is feasible.
 
 Anti-single-authority verification constraint
-- OP-O: Material verification should not depend on one authority, model, or framework.
-- OP-E: Evaluation must verify at least one practical independent path beyond a single controlling authority where feasible.
-- OP-C: Monopoly-gated claims are non-compliant where independent verification is technically feasible.
+- OP-O: Material verification should not depend on a single authority, model, vendor, institution, or framework.
+- OP-E: Evaluation must verify at least one practical independent path beyond the controlling authority where feasible.
+- OP-C: Claims are non-compliant if they are monopoly-gated when independent verification is technically feasible.
 
 Class-scaled template floor mapping
-- OP-O: Class-scaled templates must preserve reconstructable audit records, qualified deeper audit access, and at least one independent verification path where material.
-- OP-E: Evaluation must verify simplification reduces only volume or format, not floor capability.
-- OP-C: Removing any required verification floor is non-compliant.
+- OP-O: Class-scaled templates must preserve reconstructable audit records, qualified deeper audit access, and at least one independent verification path for material claims.
+- OP-E: Evaluation must verify that simplification changes only volume, format, or cadence, not the required verification capability.
+- OP-C: A simplified template is non-compliant if it removes a required verification floor.
 
 ### CJS-5.13 Cross-implementation reversibility and containment terms
-Use this rule when rollback, failure isolation, or restoration depends on combined implementation-file behavior. It is read with **PRIM12 — Reversibility and Containment**, **PRIM5 — Dependency Awareness, Disclosure, and Risk Integrity**, **PRIM6 — Graceful Degradation and Failure Mode Integrity**, **PRIM9 — Auditability**, **PRIM10 — Tiered Transparency and Audit Access**, and **PRIM11 — Independent Verification and Integrity of Claims**.
+Use this rule when rollback, failure isolation, or restoration depends on combined system, dependency, or implementation-layer behavior. It is read with **PRIM12 — Reversibility and Containment**, **PRIM5 — Dependency Awareness, Disclosure, and Risk Integrity**, **PRIM6 — Graceful Degradation and Failure Mode Integrity**, **PRIM9 — Auditability**, **PRIM10 — Tiered Transparency and Audit Access**, and **PRIM11 — Independent Verification and Integrity of Claims**.
 
 Cross-implementation reversibility and containment terms
 - OP-O: Systems must limit irreversible harm, isolate failures, and restore or compensate when rollback is incomplete.
@@ -577,7 +579,7 @@ Proportional application
 - OP-C: Reduced safeguards are non-compliant where material exposure remains.
 
 ### CJS-5.15 Cross-implementation adversarial robustness and abuse-resistance terms
-Use this rule when attack surfaces, incentive exploitation, or integrity defense depends on combined implementation-file behavior. It is read with **PRIM14 — Adversarial Robustness and Abuse Resistance**, **PRIM4 — Transparency and Disclosure**, **PRIM5 — Dependency Awareness, Disclosure, and Risk Integrity**, **PRIM6 — Graceful Degradation and Failure Mode Integrity**, **PRIM9 — Auditability**, **PRIM11 — Independent Verification and Integrity of Claims**, **PRIM12 — Reversibility and Containment**, **PRIM15 — Evolution, Revalidation, and Non-Entrenchment**, **PROT1 — Distributed and Proportional Authority**, **PROT4 — Burden of Justification and Constraint**, and **PROT5 — Constrained Secrecy and Protected Investigations**.
+Use this rule when attack surfaces, incentive exploitation, or integrity defense depends on combined system, dependency, governance, or implementation-layer behavior. It is read with **PRIM14 — Adversarial Robustness and Abuse Resistance**, **PRIM4 — Transparency and Disclosure**, **PRIM5 — Dependency Awareness, Disclosure, and Risk Integrity**, **PRIM6 — Graceful Degradation and Failure Mode Integrity**, **PRIM9 — Auditability**, **PRIM11 — Independent Verification and Integrity of Claims**, **PRIM12 — Reversibility and Containment**, **PRIM15 — Evolution, Revalidation, and Non-Entrenchment**, **PROT1 — Distributed and Proportional Authority**, **PROT4 — Burden of Justification and Constraint**, and **PROT5 — Constrained Secrecy and Protected Investigations**.
 
 Cross-implementation adversarial robustness and abuse-resistance terms
 - OP-O: Systems must be designed and maintained against manipulation, exploitation, coordination, and abuse.
@@ -635,7 +637,7 @@ Proportional application
 - OP-C: Downscoping safeguards is non-compliant where material abuse risk remains.
 
 ### CJS-5.16 Cross-implementation distributed and proportional authority terms
-Use this rule when governance legitimacy, participation, concentration control, or systemic evaluation depends on combined implementation-file behavior. It is read with **PROT1 — Distributed and Proportional Authority**, **PRIM4 — Transparency and Disclosure**, **PRIM9 — Auditability**, **PRIM15 — Evolution, Revalidation, and Non-Entrenchment**, **PROT6 — Procedural Integrity and Adjudication**, and `corpus_systems.md` **Chapter S3**.
+Use this rule when governance legitimacy, participation, concentration control, or systemic evaluation depends on combined institutional, system, dependency, or implementation-layer behavior. It is read with **PROT1 — Distributed and Proportional Authority**, **PRIM4 — Transparency and Disclosure**, **PRIM9 — Auditability**, **PRIM15 — Evolution, Revalidation, and Non-Entrenchment**, **PROT6 — Procedural Integrity and Adjudication**, and `corpus_systems.md` **Chapter S3**.
 
 Cross-implementation distributed and proportional authority terms
 - OP-O: Authority, oversight, and verification must be distributed, transparent, and resistant to capture.
@@ -683,7 +685,7 @@ Contextual and systemic evaluation discipline
 - OP-C: Isolated evaluation that ignores material dependencies is non-compliant.
 
 ### CJS-5.17 Cross-implementation intervention governance and override-authorization terms
-Use this rule when governance-level intervention or override authorization depends on combined implementation-file behavior. It is read with **PROT2 — Intervention and Override Rights**, **PRIM8 — Intervention and Override Rights**, **PROT1 — Distributed and Proportional Authority**, **PROT4 — Burden of Justification and Constraint**, **PROT5 — Constrained Secrecy and Protected Investigations**, **PRIM9 — Auditability**, and **PRIM15 — Evolution, Revalidation, and Non-Entrenchment**.
+Use this rule when governance-level intervention or override authorization depends on combined institutional, system, or implementation-layer behavior. It is read with **PROT2 — Intervention and Override Rights**, **PRIM8 — Intervention and Override Rights**, **PROT1 — Distributed and Proportional Authority**, **PROT4 — Burden of Justification and Constraint**, **PROT5 — Constrained Secrecy and Protected Investigations**, **PRIM9 — Auditability**, and **PRIM15 — Evolution, Revalidation, and Non-Entrenchment**.
 
 Cross-implementation intervention governance and override-authorization terms
 - OP-O: Governance intervention must be necessary, authorized, sequenced, bounded, recorded, challengeable, and proportional.
@@ -769,7 +771,7 @@ Anti-corruption and undue-influence auditability controls
 - OP-C: Concealed side benefits or concentrated private-benefit decision paths are non-compliant.
 
 ### CJS-5.19 Cross-implementation burden-of-justification and constraint terms
-Use this rule when restrictions, least-restrictive choices, or revalidation depend on combined implementation-file behavior. It is read with **PROT4 — Burden of Justification and Constraint**, **PROT1 — Distributed and Proportional Authority**, **PRIM4 — Transparency and Disclosure**, **PRIM7 — Interoperability, Portability, and Exit Integrity**, **PRIM9 — Auditability**, **PRIM15 — Evolution, Revalidation, and Non-Entrenchment**, and core definitions for necessity, proportionality, materiality, burden, and anti-enclosure.
+Use this rule when restrictions, least-restrictive choices, or revalidation depend on combined institutional, system, dependency, or implementation-layer behavior. It is read with **PROT4 — Burden of Justification and Constraint**, **PROT1 — Distributed and Proportional Authority**, **PRIM4 — Transparency and Disclosure**, **PRIM7 — Interoperability, Portability, and Exit Integrity**, **PRIM9 — Auditability**, **PRIM15 — Evolution, Revalidation, and Non-Entrenchment**, and core definitions for necessity, proportionality, materiality, burden, and anti-enclosure.
 
 Cross-implementation burden-of-justification and constraint terms
 - OP-O: Anyone imposing a material restriction must justify it.
@@ -807,7 +809,7 @@ Innovation-exclusivity anti-enclosure application
 - OP-C: Using exclusivity as a categorical bypass is non-compliant.
 
 ### CJS-5.20 Cross-implementation constrained-secrecy and protected-investigation terms
-Use this rule when secrecy, protected investigations, oversight, or delayed release depends on combined implementation-file behavior. It is read with **PROT5 — Constrained Secrecy and Protected Investigations**, **PROT4 — Burden of Justification and Constraint**, **PROT3 — Reflexive Transparency and Accountability**, **PROT1 — Distributed and Proportional Authority**, **PRIM4 — Transparency and Disclosure**, **PRIM9 — Auditability**, **PRIM15 — Evolution, Revalidation, and Non-Entrenchment**, and **PROT6 — Procedural Integrity and Adjudication**.
+Use this rule when secrecy, protected investigations, oversight, or delayed release depends on combined institutional, governance, system, or implementation-layer behavior. It is read with **PROT5 — Constrained Secrecy and Protected Investigations**, **PROT4 — Burden of Justification and Constraint**, **PROT3 — Reflexive Transparency and Accountability**, **PROT1 — Distributed and Proportional Authority**, **PRIM4 — Transparency and Disclosure**, **PRIM9 — Auditability**, **PRIM15 — Evolution, Revalidation, and Non-Entrenchment**, and **PROT6 — Procedural Integrity and Adjudication**.
 
 Cross-implementation constrained-secrecy and protected-investigation terms
 - OP-O: Secrecy must be authorized, minimized, temporary, overseen, reconstructable, and subject to later release review.
@@ -840,7 +842,7 @@ No permanent secrecy and anti-normalization discipline
 - OP-C: Indefinite secrecy or secrecy used to defeat accountability is non-compliant.
 
 ### CJS-5.21 Cross-implementation procedural integrity and adjudication terms
-Use this rule when due process, reviewability, restoration, or enforcement proportionality depends on combined implementation-file behavior. It is read with **PROT6 — Procedural Integrity and Adjudication**, **PROT4 — Burden of Justification and Constraint**, **PROT3 — Reflexive Transparency and Accountability**, **PROT2 — Intervention and Override Rights**, `corpus_systems.md` **Chapter S1** and **Chapter S2**, `corpus_institutions.md`, and `corpus_forum.md`.
+Use this rule when due process, reviewability, restoration, or enforcement proportionality depends on combined forum, institutional, system, or implementation-layer behavior. It is read with **PROT6 — Procedural Integrity and Adjudication**, **PROT4 — Burden of Justification and Constraint**, **PROT3 — Reflexive Transparency and Accountability**, **PROT2 — Intervention and Override Rights**, `corpus_systems.md` **Chapter S1** and **Chapter S2**, `corpus_institutions.md`, and `corpus_forum.md`.
 
 Cross-implementation procedural integrity and adjudication terms
 - OP-O: Procedures must provide due process, independent review, proportional enforcement, accessible restoration, uncertainty safeguards, and anti-abuse limits.
@@ -903,7 +905,7 @@ System-class and joint-read scaling
 - OP-C: Downscoping below the combined implementation chain is non-compliant.
 
 ### CJS-5.22 Cross-implementation structural review, correction urgency, and disclosure terms
-Use this rule when recurring failures, Correction Urgency Level (**CUL**) assignment, or structural transparency depends on combined implementation-file behavior. It is read with **PROT6 — Procedural Integrity and Adjudication**, **PRIM6 — Graceful Degradation and Failure Mode Integrity**, **PRIM12 — Reversibility and Containment**, **PRIM15 — Evolution, Revalidation, and Non-Entrenchment**, **PROT3 — Reflexive Transparency and Accountability**, `corpus_systems.md` **Chapter S1** and **Chapter S2**, and implementation-file-specific monitoring or publication duties.
+Use this rule when recurring failures, Correction Urgency Level (**CUL**) assignment, or structural transparency depends on combined institutional, system, dependency, or implementation-layer behavior. It is read with **PROT6 — Procedural Integrity and Adjudication**, **PRIM6 — Graceful Degradation and Failure Mode Integrity**, **PRIM12 — Reversibility and Containment**, **PRIM15 — Evolution, Revalidation, and Non-Entrenchment**, **PROT3 — Reflexive Transparency and Accountability**, `corpus_systems.md` **Chapter S1** and **Chapter S2**, and owner-layer-specific monitoring or publication duties.
 
 Cross-implementation structural review, correction urgency, and disclosure terms
 - OP-O: Systems must detect patterns, assign correction urgency, integrate fixes, keep structural records, and disclose to the right stakeholders.
