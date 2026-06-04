@@ -498,142 +498,174 @@ Class-scaled template floor mapping
 - OP-C: A simplified template is non-compliant if it removes a required verification floor.
 
 ### CJS-5.13 Cross-implementation reversibility and containment terms
-Use this rule when rollback, failure isolation, or restoration depends on combined system, dependency, or implementation-layer behavior. It is read with **PRIM12 — Reversibility and Containment**, **PRIM5 — Dependency Awareness, Disclosure, and Risk Integrity**, **PRIM6 — Graceful Degradation and Failure Mode Integrity**, **PRIM9 — Auditability**, **PRIM10 — Tiered Transparency and Audit Access**, and **PRIM11 — Independent Verification and Integrity of Claims**.
+Use this rule when rollback, failure isolation, or restoration depends on more than one system, dependency, institution, or implementation layer. It is read with **PRIM12 — Reversibility and Containment**, **PRIM5 — Dependency Awareness, Disclosure, and Risk Integrity**, **PRIM6 — Graceful Degradation and Failure Mode Integrity**, **PRIM9 — Auditability**, **PRIM10 — Tiered Transparency and Audit Access**, and **PRIM11 — Independent Verification and Integrity of Claims**.
 
 Cross-implementation reversibility and containment terms
-- OP-O: Systems must limit irreversible harm, isolate failures, and restore or compensate when rollback is incomplete.
-- OP-E: Evaluation must apply all components together.
-- OP-C: It is non-compliant to claim reversibility or containment when a material component is unmet.
+- OP-O: Systems must be designed to limit irreversible harm, keep failures from spreading, and restore or compensate affected parties when rollback cannot fully undo the harm.
+- OP-E: Reviewers must assess rollback, containment, restoration, records, dependencies, and verification as one working chain.
+- OP-C: A reversibility or containment claim is non-compliant if an important part of that chain is missing, unusable, or inconsistent with another part.
 
 Irreversibility-limitation floor
 - OP-O: Systems must prevent irreversible harm where feasible and minimize it where full prevention is infeasible.
-- OP-E: Evaluation must verify risks are identified in advance with bounded controls.
-- OP-C: Proceeding without feasible controls in materially impactful contexts is non-compliant.
+- OP-E: Reviewers must verify that foreseeable irreversible risks were identified before action and paired with practical limits, safeguards, or stop conditions.
+- OP-C: In materially impactful contexts, proceeding without feasible safeguards against irreversible harm is non-compliant.
 
 Rollback and containment capability
-- OP-O: Systems must support rollback and containment paths that isolate failures and block cascade effects.
-- OP-E: Evaluation must verify paths are defined, testable, and usable.
-- OP-C: Nominal, untested, or ineffective rollback and containment are non-compliant.
+- OP-O: Systems must provide rollback and containment paths that can isolate a failure and stop it from cascading into other systems or affected groups.
+- OP-E: Reviewers must verify that those paths are documented, testable, available in time to matter, and usable by the responsible actors.
+- OP-C: Rollback or containment that exists only on paper, has not been tested where testing is feasible, or cannot work in practice is non-compliant.
 
 Higher-impact tested-recovery requirement
-- OP-O: Higher-impact systems must have tested rollback, containment, and recovery paths.
-- OP-E: Evaluation must verify drills or equivalent validation.
-- OP-C: Untested recovery assumptions are non-compliant for higher-impact systems.
+- OP-O: Higher-impact systems must have tested paths for rollback, containment, and recovery before they are relied on.
+- OP-E: Reviewers must verify drills, simulations, red-team exercises, staged rollbacks, or equivalent validation appropriate to the system's impact.
+- OP-C: For higher-impact systems, relying on untested recovery assumptions is non-compliant.
 
 Compensatory restoration and limitation disclosure
-- OP-O: When full rollback is infeasible, systems must provide compensatory restoration and disclose limits in advance.
-- OP-E: Evaluation must verify restoration is practical and disclosures are clear.
-- OP-C: Hiding limits or omitting foreseeable compensation paths is non-compliant.
+- OP-O: When full rollback is not feasible, systems must provide practical restoration or compensation and disclose the limits of rollback before affected parties rely on the system where feasible.
+- OP-E: Reviewers must verify that restoration or compensation can actually be delivered, and that the limits were clear enough for affected parties, auditors, or oversight bodies to use.
+- OP-C: Hiding rollback limits, overstating reversibility, or failing to plan for foreseeable restoration or compensation is non-compliant.
 
 ### CJS-5.14 Cross-implementation data-retention and lifecycle-integrity terms
-Use this rule when accountability, privacy, reversibility, or classification depends on combined data-retention behavior. It is read with **PRIM9 — Auditability**, **PRIM10 — Tiered Transparency and Audit Access**, **PRIM11 — Independent Verification and Integrity of Claims**, **PRIM12 — Reversibility and Containment**, **PRIM15 — Evolution, Revalidation, and Non-Entrenchment**, `corpus_systems.md` **Chapter S1**, and **CJS-3.5**.
+Use this rule when accountability, privacy, reversibility, or classification depends on how data is kept, changed, linked, or deleted across more than one system or implementation layer.
+
+Read it with:
+- **PRIM9 — Auditability**
+- **PRIM10 — Tiered Transparency and Audit Access**
+- **PRIM11 — Independent Verification and Integrity of Claims**
+- **PRIM12 — Reversibility and Containment**
+- **PRIM15 — Evolution, Revalidation, and Non-Entrenchment**
+- `corpus_systems.md` **Chapter S1**, including Types **C**, **G**, **H**, **I**, **N**, and **S**
+- **CJS-3.5**
 
 Cross-implementation data-retention and lifecycle-integrity terms
-- OP-O: Data retention must be justified, bounded, reviewed, and lifecycle-managed.
-- OP-E: Evaluation must apply all components together.
-- OP-C: It is non-compliant to claim retention integrity when a material component is unmet.
+- OP-O: Data may be kept only for a justified reason, within clear limits, and with regular review from collection through deletion or de-identification.
+- OP-E: Reviewers must assess purpose, S1 data type or types, duration, detail, access, deletion, reclassification, disclosure, and audit needs together.
+- OP-C: A retention-integrity claim is non-compliant if an important part of that lifecycle is missing, unusable, or inconsistent with another part.
 
 Justification and bounded-retention floor
-- OP-O: Retention must remain continuously justified; without justification, data must be reduced or removed.
-- OP-E: Evaluation must verify duration and detail are warranted by purpose, obligations, impact, rights, safety, and accountability.
-- OP-C: Keeping data for convenience, speculation, or institutional advantage is non-compliant.
+- OP-O: Retention must remain justified over time. When the justification ends, the data must be reduced, deleted, de-identified, or otherwise removed from use.
+- OP-E: Reviewers must verify that the amount of data kept, and the time it is kept for, fit the S1 data type or types, purpose, legal obligations, impact, rights, safety, and accountability needs.
+- OP-C: Keeping data because it might be useful later, is convenient to keep, or gives an institution leverage is non-compliant.
 
 Purpose and proportionality criteria
-- OP-O: Retention must be limited to warranted purposes such as integrity, continuity, safety, disputes, restoration, and accountability.
-- OP-E: Evaluation must verify scaling by impact, dependency, sensitivity, audit needs, and contestability.
-- OP-C: Excessive fidelity, identifiability, or duration is non-compliant.
+- OP-O: Data may be kept only for warranted purposes, such as integrity, continuity, safety, dispute resolution, restoration, or accountability.
+- OP-E: Reviewers must verify that retention scales with S1 data type or types, impact, dependency, sensitivity, audit needs, and the need to challenge or correct a decision.
+- OP-C: Keeping more detail, identity linkage, or history than the purpose requires is non-compliant.
 
 Lifecycle expiry, deletion, de-identification, and reclassification controls
-- OP-O: Temporary holdings must not silently become permanent archives.
-- OP-E: Evaluation must verify deletion where feasible; otherwise irreversible de-identification or aggregation; reclassification only with new documented time-bounded justification.
-- OP-C: Indefinite retention without continuing justification and lifecycle controls is non-compliant.
+- OP-O: Temporary data must not quietly become a permanent archive.
+- OP-E: Reviewers must verify deletion where feasible. If deletion is not feasible, they must verify irreversible de-identification or aggregation. Reclassification across S1 data types requires a new documented and time-limited justification.
+- OP-C: Keeping data indefinitely without a continuing reason and working lifecycle controls is non-compliant.
 
 Anti-surveillance and anti-coercion accumulation limits
-- OP-O: Retention must not become hidden surveillance, coercive leverage, or protected-internal-state reconstruction beyond justified scope.
-- OP-E: Evaluation must verify no hidden or disproportionate behavioral, relational, or identity-linked accumulation.
-- OP-C: Retention architecture that enables coercion, concealed surveillance, or defeated exit and contestation is non-compliant.
+- OP-O: Retention must not become hidden surveillance, coercive leverage, or a way to reconstruct protected internal states beyond the justified scope, especially through Type **H**, **I**, or **N** data.
+- OP-E: Reviewers must verify that behavioral, relational, identity-linked, or internal-state-adjacent data is not being accumulated secretly or out of proportion to the stated purpose.
+- OP-C: A retention design that enables coercion, concealed surveillance, or meaningful barriers to exit or contestation is non-compliant.
 
 Accountability-preserving record floor
-- OP-O: Retention must preserve enough records for material-event reconstruction, audit, verification, challenge, redress, continuity, and recovery where required.
-- OP-E: Evaluation must verify minimization does not block investigation or hide responsibility.
-- OP-C: Using minimization to defeat accountability is non-compliant.
+- OP-O: Where required, retention must keep enough Type **C**, **G**, **H**, **I**, or **S** records to reconstruct material events, audit conduct, verify claims, support challenge and redress, preserve continuity, and recover from failure.
+- OP-E: Reviewers must verify that data minimization does not block investigations or hide responsibility.
+- OP-C: Invoking minimization to defeat accountability is non-compliant.
 
-Classification alignment and creep handling
-- OP-O: If accumulation, linkage, or inference makes data more sensitive in practice, stricter protections apply.
-- OP-E: Evaluation must verify alignment with **S1** duties and **CJS-3.5** where supervision and systems classification overlap.
-- OP-C: Keeping lower-class handling after sensitivity has escalated is non-compliant.
+Classification and S1 data-type alignment
+- OP-O: If accumulated, linked, or inferred data changes S1 type or becomes more sensitive in practice, stricter protections apply.
+- OP-E: Reviewers must verify alignment with **S1** data-type duties and **CJS-3.5** where supervision and systems classification overlap.
+- OP-C: Continuing to use lower-type or lower-class handling after sensitivity has increased is non-compliant.
 
 Transparency disclosures and stakeholder legibility
-- OP-O: Systems must disclose retained categories, purposes, periods or criteria, lifecycle transitions, and secondary uses in proportion to impact.
-- OP-E: Evaluation must verify disclosures are understandable enough for stakeholders to assess consequences.
+- OP-O: Systems must disclose retention details in proportion to impact. The disclosure must identify the applicable S1 data type or types and what categories of data are kept. It must also state why data is kept, how long it is kept or how that period is chosen, when lifecycle changes occur, and what secondary uses are allowed.
+- OP-E: Reviewers must verify that disclosures are clear enough for stakeholders to understand the practical consequences.
 - OP-C: Incomplete, obscure, or misleading retention disclosures are non-compliant.
 
 Review, revalidation, and prohibited patterns
-- OP-O: Retention rules must be periodically revalidated and updated under material change.
-- OP-E: Evaluation must screen for indefinite retention, purpose drift, excess granularity, concealment by complexity, evasion through deletion or shadow stores, and audit-blocking designs.
+- OP-O: Retention rules must be revalidated on a set schedule and updated when material conditions change.
+- OP-E: Reviewers must screen for indefinite retention, use beyond the original purpose or S1 data type or types, unnecessary detail, complexity that hides consequences, evasive deletion, shadow stores, and designs that block audit.
 - OP-C: Stale, unreviewed, or evasive retention regimes are non-compliant.
 
 Proportional application
-- OP-O: Retention controls scale with impact, dependency, sensitivity, reconstructability, duration, scope, and governance role.
-- OP-E: Evaluation must verify simplified controls do not create surveillance, coercion, blocked investigation, or rights harm.
+- OP-O: Retention controls scale with S1 data type or types, impact, dependency, sensitivity, reconstructability, duration, scope, and governance role.
+- OP-E: Reviewers must verify that simplified controls do not create surveillance, coercion, blocked investigations, or rights harm.
 - OP-C: Reduced safeguards are non-compliant where material exposure remains.
 
 ### CJS-5.15 Cross-implementation adversarial robustness and abuse-resistance terms
-Use this rule when attack surfaces, incentive exploitation, or integrity defense depends on combined system, dependency, governance, or implementation-layer behavior. It is read with **PRIM14 — Adversarial Robustness and Abuse Resistance**, **PRIM4 — Transparency and Disclosure**, **PRIM5 — Dependency Awareness, Disclosure, and Risk Integrity**, **PRIM6 — Graceful Degradation and Failure Mode Integrity**, **PRIM9 — Auditability**, **PRIM11 — Independent Verification and Integrity of Claims**, **PRIM12 — Reversibility and Containment**, **PRIM15 — Evolution, Revalidation, and Non-Entrenchment**, **PROT1 — Distributed and Proportional Authority**, **PROT4 — Burden of Justification and Constraint**, and **PROT5 — Constrained Secrecy and Protected Investigations**.
+Use this rule when attack surfaces, incentive exploitation, or integrity defenses depend on more than one system, dependency, institution, governance path, or implementation layer.
+
+Read it with:
+- **PRIM14 — Adversarial Robustness and Abuse Resistance**
+- **PRIM4 — Transparency and Disclosure**
+- **PRIM5 — Dependency Awareness, Disclosure, and Risk Integrity**
+- **PRIM6 — Graceful Degradation and Failure Mode Integrity**
+- **PRIM9 — Auditability**
+- **PRIM11 — Independent Verification and Integrity of Claims**
+- **PRIM12 — Reversibility and Containment**
+- **PRIM15 — Evolution, Revalidation, and Non-Entrenchment**
+- **PROT1 — Distributed and Proportional Authority**
+- **PROT4 — Burden of Justification and Constraint**
+- **PROT5 — Constrained Secrecy and Protected Investigations**
 
 Cross-implementation adversarial robustness and abuse-resistance terms
-- OP-O: Systems must be designed and maintained against manipulation, exploitation, coordination, and abuse.
-- OP-E: Evaluation must apply all components together.
-- OP-C: It is non-compliant to claim robustness when a material component is absent, stale, or ineffective.
+- OP-O: Systems must be designed and maintained to resist manipulation, exploitation, coordinated abuse, and integrity attacks.
+- OP-E: Reviewers must assess threat modeling, controls, monitoring, response, testing, auditability, remediation, and governance updates as one working chain.
+- OP-C: A robustness or abuse-resistance claim is non-compliant if an important part of that chain is missing, stale, ineffective, or inconsistent with another part.
 
 Adversarial robustness floor
 - OP-O: Material systems must not assume all participants act in good faith.
-- OP-E: Evaluation must verify resilience under bad-faith participation, partial compromise, and active subversion.
+- OP-E: Reviewers must verify resilience under bad-faith participation, partial compromise, and active subversion.
 - OP-C: Good-faith-only design is non-compliant for consequential pathways.
 
 Threat modeling and vulnerability mapping discipline
 - OP-O: Threat models must include input/output manipulation, evaluation gaming, collusion, incentive and governance exploitation, dependency attacks, and audit/attribution evasion.
-- OP-E: Evaluation must verify assumptions, attack surfaces, abuse vectors, pressure failure modes, transitive vulnerabilities, and information asymmetries are documented.
-- OP-C: Omitted material attack classes or undocumented threat models are non-compliant.
+- OP-E: Reviewers must verify that assumptions, attack surfaces, abuse vectors, pressure failure modes, transitive vulnerabilities, and information asymmetries are documented.
+- OP-C: Omitting a material attack class or relying on an undocumented threat model is non-compliant.
 
 Threat-model transparency, auditability, and update cadence
 - OP-O: Threat models must be transparent in proportion to impact, auditable, challengeable, and updated as conditions change.
-- OP-E: Evaluation must verify update triggers and versioned evidence.
+- OP-E: Reviewers must verify update triggers, versioned evidence, and records of accepted and rejected mitigation choices.
 - OP-C: Stale adversarial models after material change are non-compliant.
 
 High-risk exploitation-surface controls
 - OP-O: Systems must protect data, training inputs, ranking, scoring, reputation, quorum, weighting, governance, and allocation channels where they affect constitutional outcomes.
-- OP-E: Evaluation must verify controls against sybil behavior, coalition capture, and inflated standing, dependency, or impact signals.
+- OP-E: Reviewers must verify controls against sybil behavior, coalition capture, and inflated standing, dependency, or impact signals.
 - OP-C: Leaving critical pathways predictably exploitable is non-compliant.
 
 Detection, monitoring, and response integrity
 - OP-O: Systems must detect anomalous, adversarial, or coordinated behavior and trigger proportionate responses.
-- OP-E: Evaluation must verify responses are transparent in design where lawful, auditable, attributable where required, and proportionate.
+- OP-E: Reviewers must verify that responses are transparent in design where lawful, auditable, attributable where required, proportionate, and documented for later review.
 - OP-C: Selective enforcement that creates hidden or unchallengeable bias is non-compliant.
 
 False-positive and overreach governance
 - OP-O: Defense systems must reduce false positives and overreach while preserving challenge and correction.
-- OP-E: Evaluation must verify overreach metrics and correction loops.
+- OP-E: Reviewers must verify false-positive rates where measurable, overreach metrics, correction loops, and remedies for affected parties.
 - OP-C: Systematic uncorrected overreach is non-compliant.
 
 Partial-compromise resilience and graceful degradation
 - OP-O: Under partial compromise, systems must remain bounded, limit downstream harm, and preserve auditability, reversibility, and visibility.
-- OP-E: Evaluation must verify degraded behavior under compromise and anti-collapse safeguards.
-- OP-C: Safety that depends on perfect detection, or collapse into opaque modes, is non-compliant.
+- OP-E: Reviewers must verify degraded behavior under compromise, anti-collapse safeguards, escalation paths, and recovery records.
+- OP-C: Safety that depends on perfect detection, or that collapses into opaque modes, is non-compliant.
 
-Testing and hardening cycle obligations
-- OP-O: Systems must run periodic adversarial evaluations, document vulnerabilities and incentive failures, and feed results into mitigation and governance updates.
-- OP-E: Evaluation must verify known material vulnerabilities receive tracked remediation or bounded risk treatment.
-- OP-C: Known material unaddressed vulnerabilities are non-compliant.
+Testing, regression, and hardening cycle obligations
+- OP-O: Systems must run periodic adversarial evaluations, regression tests, and hardening reviews, then feed the results into mitigation and governance updates.
+- OP-E: Reviewers must verify that known material vulnerabilities, abuse patterns, and incentive failures receive tracked remediation, bounded risk treatment, and regression coverage where feasible.
+- OP-C: Known material unaddressed vulnerabilities, or fixes that are not regression-tested where feasible, are non-compliant.
+
+Best-practices and external-learning revalidation
+- OP-O: Robustness programs must track relevant technical, operational, and governance best practices for the system's risk class and update safeguards when credible learning makes existing controls materially inadequate.
+- OP-E: Reviewers must verify that practice reviews occur on a set cadence and after material incidents, dependency changes, new abuse patterns, or credible independent findings.
+- OP-C: Treating obsolete safeguards as adequate after material practice or threat changes is non-compliant.
+
+Automated auditing where feasible
+- OP-O: Where feasible, systems must use automated auditing to detect regressions, suspicious patterns, control drift, dependency changes, and evidence gaps without replacing human or independent review.
+- OP-E: Reviewers must verify that automated checks have defined scope, thresholds, logging, alert routing, false-positive handling, and human escalation for material findings.
+- OP-C: It is non-compliant to rely on unavailable, unaudited, or purely symbolic automated checks, or to omit feasible automated auditing for high-impact recurrent risks without justification.
 
 Defense-boundary and Rights-Floor limits
 - OP-O: Defensive measures must be rights-bounded, proportionate, transparent where feasible, auditable, independently reviewable, and challengeable.
-- OP-E: Evaluation must verify defenses do not become disproportionate surveillance, coercion, restriction, or security theater.
+- OP-E: Reviewers must verify that defenses do not become disproportionate surveillance, coercion, restriction, or security theater.
 - OP-C: Defense architecture that violates Rights Floors without lawful justification is non-compliant.
 
 Proportional application
 - OP-O: Robustness duties scale with impact, dependency, and coordinated or systemic harm potential.
-- OP-E: Evaluation must verify simplification does not externalize risk or enable downstream exploitation.
+- OP-E: Reviewers must verify that simplification does not externalize risk, hide known abuse patterns, or enable downstream exploitation.
 - OP-C: Downscoping safeguards is non-compliant where material abuse risk remains.
 
 ### CJS-5.16 Cross-implementation distributed and proportional authority terms
