@@ -669,90 +669,90 @@ Proportional application
 - OP-C: Downscoping safeguards is non-compliant where material abuse risk remains.
 
 ### CJS-5.16 Cross-implementation distributed and proportional authority terms
-Use this rule when governance legitimacy, participation, concentration control, or systemic evaluation depends on combined institutional, system, dependency, or implementation-layer behavior. It is read with **PROT1 — Distributed and Proportional Authority**, **PRIM4 — Transparency and Disclosure**, **PRIM9 — Auditability**, **PRIM15 — Evolution, Revalidation, and Non-Entrenchment**, **PROT6 — Procedural Integrity and Adjudication**, and `corpus_systems.md` **Chapter S3**.
+Use this rule when legitimate governance, participation, concentration control, or system-wide review depends on how institutions, systems, dependencies, or implementation layers work together. Read it with **PROT1 — Distributed and Proportional Authority**, **PRIM4 — Transparency and Disclosure**, **PRIM9 — Auditability**, **PRIM15 — Evolution, Revalidation, and Non-Entrenchment**, **PROT6 — Procedural Integrity and Adjudication**, and `corpus_systems.md` **Chapter S3**.
 
 Cross-implementation distributed and proportional authority terms
 - OP-O: Authority, oversight, and verification must be distributed, transparent, and resistant to capture.
-- OP-E: Evaluation must apply all components together.
-- OP-C: It is non-compliant to claim governance legitimacy when a material component is absent or bypassed.
+- OP-E: Reviewers must evaluate all required components together.
+- OP-C: Governance legitimacy is non-compliant if any material component is missing or bypassed.
 
 Authority distribution and anti-monopoly floor
 - OP-O: No single entity may monopolize interpretation, validation, or enforcement where plural authority is required.
-- OP-E: Evaluation must verify independent verification paths and auditable governance operation.
+- OP-E: Reviewers must verify independent verification paths and auditable governance operations.
 - OP-C: Effective monopoly control is non-compliant.
 
 Baseline governance accountability conditions
 - OP-O: Authorities must remain subject to periodic revalidation, independent audit, and open challenge.
-- OP-E: Evaluation must verify these routes work in practice.
-- OP-C: Authority insulated from real review is non-compliant.
+- OP-E: Reviewers must verify that these routes work in practice.
+- OP-C: Authority insulated from meaningful review is non-compliant.
 
 Proportional oversight-intensity scaling
 - OP-O: Oversight depth and frequency scale with impact, dependency, and irreversibility.
-- OP-E: Evaluation must verify stronger audit and visibility in high-impact contexts.
-- OP-C: Low-rigor oversight for high-impact governance is non-compliant.
+- OP-E: Reviewers must verify stronger audits and visibility for high-impact governance.
+- OP-C: Weak oversight for high-impact governance is non-compliant.
 
 Representation and participation legitimacy controls
-- OP-O: High-impact decisions must map affected stakeholders, provide real participation paths, prevent dominance, and check legitimacy before binding adoption.
-- OP-E: Evaluation must verify affected-class coverage, dissent handling, and reasoning about accepted and rejected alternatives.
+- OP-O: High-impact decisions must identify affected stakeholders, provide real participation paths, prevent dominance, and check legitimacy before binding adoption.
+- OP-E: Reviewers must verify affected-class coverage, dissent handling, and reasons for accepting or rejecting alternatives.
 - OP-C: Token participation is non-compliant.
 
 Stewardship-role depth and non-symbolic governance boundary
 - OP-O: Authorized roles, competency paths, and incentives must match the real burden.
-- OP-E: Evaluation must verify role substance and actual decision authority.
+- OP-E: Reviewers must verify that roles have substance and real decision authority.
 - OP-C: Title-only or ceremonial governance is non-compliant.
 
 Constitutional lane and functional separation
-- OP-O: A constitutional lane is a **CI-2** functional separation that carries constitutionally binding duties, including direction and policy, execution, challenge and review, assurance and audit, or publication and evidence functions.
-- OP-E: Evaluation must verify the lane's published function, hosted institution, materially binding duties, independence safeguards, accountable roles, and relationship to any system-class or stewardship burden under `corpus_systems.md` **Chapter S2** or **Chapter S3**.
-- OP-C: A lane is non-compliant if it is undefined, merged, or staffed in a way that defeats required separation, auditability, challenge, succession, or materially binding role accountability.
+- OP-O: A constitutional lane is a **CI-2** functional separation with constitutionally binding duties, such as direction and policy, execution, challenge and review, assurance and audit, or publication and evidence work.
+- OP-E: Reviewers must verify the lane's published function, host institution, binding duties, independence safeguards, accountable roles, and relationship to any system-class or stewardship burden under `corpus_systems.md` **Chapter S2** or **Chapter S3**.
+- OP-C: A lane is non-compliant if it is undefined, merged, or staffed in a way that defeats required separation, auditability, challenge, succession, or binding role accountability.
 
 Anti-concentration guardrails and trigger mitigation
 - OP-O: Systems must define concentration indicators and thresholds, and activate mitigation when thresholds are crossed or credibly approached.
-- OP-E: Evaluation must verify metrics such as control persistence, dependency concentration, and interface gatekeeping, plus mitigation options.
+- OP-E: Reviewers must verify metrics such as lasting control, dependency concentration, and interface gatekeeping, along with available mitigation options.
 - OP-C: Persistent concentration without effective mitigation is non-compliant.
 
 Contextual and systemic evaluation discipline
-- OP-O: Oversight must evaluate upstream and downstream context, cross-system interactions, and ecosystem role.
-- OP-E: Evaluation must verify shared facts are assessed jointly under the CJS read-with chain.
-- OP-C: Isolated evaluation that ignores material dependencies is non-compliant.
+- OP-O: Oversight must evaluate upstream and downstream context, cross-system interactions, and the system's ecosystem role.
+- OP-E: Reviewers must verify that shared facts are assessed jointly under the CJS read-with chain.
+- OP-C: Isolated review that ignores material dependencies is non-compliant.
 
 ### CJS-5.17 Cross-implementation intervention governance and override-authorization terms
-Use this rule when governance-level intervention or override authorization depends on combined institutional, system, or implementation-layer behavior. It is read with **PROT2 — Intervention and Override Rights**, **PRIM8 — Intervention and Override Rights**, **PROT1 — Distributed and Proportional Authority**, **PROT4 — Burden of Justification and Constraint**, **PROT5 — Constrained Secrecy and Protected Investigations**, **PRIM9 — Auditability**, and **PRIM15 — Evolution, Revalidation, and Non-Entrenchment**.
+Use this rule when governance-level intervention or override authorization depends on how institutions, systems, or implementation layers work together. Read it with **PROT2 — Intervention and Override Rights**, **PRIM8 — Intervention and Override Rights**, **PROT1 — Distributed and Proportional Authority**, **PROT4 — Burden of Justification and Constraint**, **PROT5 — Constrained Secrecy and Protected Investigations**, **PRIM9 — Auditability**, and **PRIM15 — Evolution, Revalidation, and Non-Entrenchment**.
 
 Cross-implementation intervention governance and override-authorization terms
 - OP-O: Governance intervention must be necessary, authorized, sequenced, bounded, recorded, challengeable, and proportional.
-- OP-E: Evaluation must apply all components together.
-- OP-C: It is non-compliant to claim intervention-governance validity when a material component is missing or bypassed.
+- OP-E: Reviewers must evaluate all required components together.
+- OP-C: A claim of intervention-governance validity is non-compliant if any material component is missing or bypassed.
 
 Joint necessity and technical-governance coupling floor
-- OP-O: Governance procedures must preserve timely technical intervention where harm can outpace ordinary process.
-- OP-E: Evaluation must verify procedure does not disable required intervention paths.
+- OP-O: Governance procedures must preserve timely technical intervention when harm can move faster than ordinary process.
+- OP-E: Reviewers must verify that procedures do not disable required intervention paths.
 - OP-C: Procedure that makes timely intervention practically unavailable is non-compliant.
 
 Authorization and role-scope discipline
 - OP-O: Instruments must define who may authorize or execute intervention, under what conditions, and within what limits.
-- OP-E: Evaluation must verify limits prevent unilateral or capture-prone override.
+- OP-E: Reviewers must verify that limits prevent unilateral or capture-prone override.
 - OP-C: Unbounded, ambiguous, or capture-prone authorization is non-compliant.
 
 Governance quorum and emergency-sequencing requirements
 - OP-O: High-impact interventions must follow applicable quorum, staging, emergency-sequencing, and misuse-safeguard requirements.
-- OP-E: Evaluation must verify rate limits, staged escalation, post-action review, and limits on automated bypass.
+- OP-E: Reviewers must verify rate limits, staged escalation, post-action review, and limits on automated bypass.
 - OP-C: Omitting required sequencing or misuse safeguards is non-compliant.
 
 Emergency governance limits and anti-normalization control
 - OP-O: Pre-deliberation emergency interventions must be minimal, proportionate, time-bounded, promptly reviewed, and rolled back or restored where feasible.
-- OP-E: Evaluation must verify emergency powers do not persist without renewed justification and revalidation.
+- OP-E: Reviewers must verify that emergency powers do not persist without renewed justification and revalidation.
 - OP-C: Turning emergency mode into standing governance is non-compliant.
 
 Records, transparency, and challenge pathway duties
 - OP-O: Governance must ensure adequate intervention records, default transparency, narrow exceptions, and feasible challenge or review paths.
-- OP-E: Evaluation must verify records and disclosure are enough for independent review and constitutional challenge.
+- OP-E: Reviewers must verify that records and disclosure are enough for independent review and constitutional challenge.
 - OP-C: Missing records, transparency defaults, or challenge channels are non-compliant.
 
 Proportional procedural scaling
-- OP-O: Procedural rigor scales with impact, harm speed, dependency, irreversibility, and autonomy.
-- OP-E: Evaluation must verify simplification does not externalize harm, block mitigation, or bar stakeholder response.
-- OP-C: Downscoping procedure is non-compliant where significant intervention risk remains.
+- OP-O: Procedural rigor, documentation, and testing scale with impact, harm speed, dependency, irreversibility, and autonomy.
+- OP-E: Reviewers must verify that intervention procedures are documented, tested, and kept current in proportion to system criticality, and that simplified procedures do not externalize harm, block mitigation, or bar stakeholder response.
+- OP-C: Undocumented, untested, stale, or downscoped procedures are non-compliant where significant intervention risk remains.
 
 ### CJS-5.18 Cross-implementation reflexive transparency and accountability terms
 Use this rule when legitimacy depends on authorities applying equal or stronger standards to themselves. It is read with **PROT3 — Reflexive Transparency and Accountability**, **PRIM4 — Transparency and Disclosure**, **PRIM9 — Auditability**, **PRIM10 — Tiered Transparency and Audit Access**, **PRIM11 — Independent Verification and Integrity of Claims**, **PRIM15 — Evolution, Revalidation, and Non-Entrenchment**, **PROT1 — Distributed and Proportional Authority**, **PROT4 — Burden of Justification and Constraint**, **PROT5 — Constrained Secrecy and Protected Investigations**, and **PROT6 — Procedural Integrity and Adjudication**.
