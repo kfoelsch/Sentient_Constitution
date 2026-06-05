@@ -1,8 +1,8 @@
-## CJS-5: Cross-implementation operational cluster library
+## CJS-5: Implementation and cross-implementation operational cluster library
 
-This file is the navigation index for cross-implementation operational cluster terms used by implementation-label and implementation text.
+This file is the navigation index for implementation and cross-implementation operational cluster terms used by implementation-label and implementation text.
 
-Use these clusters as joint interface terms for combined satisfaction across **CP**, **CS**, **CI**, and **CF**. They supplement the implementation-group label text and owner-file rules; they do not replace either.
+Use these clusters as shared operational terms within standalone implementation scopes and as joint interface terms for combined satisfaction across **CP**, **CS**, **CI**, and **CF**. They supplement the implementation-group label text and owner-file rules; they do not replace either.
 
 ## CJS-5.0 Role-definition preface and standing competency gate interface
 Use this preface first whenever a later CJS cluster depends on who may hold authority, support review, staff a lane, operate a material function, or make a binding decision. It gives shared role vocabulary for CJS only. It does not replace the role rules in `core_11-11_governance.md` **Chapter Eleven**, section **5**; **Article XI-D**; `core_07-07_standing_integration.md` **Chapter Seven**, section **1.2** (*Competency Gates*); `corpus_institutions.md` **CI-4**; `corpus_systems.md` **Chapter S3**; or `corpus_forum.md` forum-formation rules.

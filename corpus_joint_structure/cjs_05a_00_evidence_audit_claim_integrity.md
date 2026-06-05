@@ -1,21 +1,21 @@
 ## CJS-5A: Evidence, audit, and claim integrity
 
-This family collects the operational clusters that make cross-implementation claims reviewable: integrity assurance, audit records, tiered access, and independent verification.
+This family collects the operational clusters that make implementation and cross-implementation claims reviewable: integrity assurance, audit records, tiered access, and independent verification.
 
 | Cluster | Section |
 |---|---|
-| **CJS-5A.1** | Cross-implementation integrity assurance and resilience operations |
-| **CJS-5A.2** | Cross-implementation auditability and reconstructability terms |
-| **CJS-5A.3** | Cross-implementation tiered transparency and audit-access terms |
-| **CJS-5A.4** | Cross-implementation independent verification and claim-integrity terms |
+| **CJS-5A.1** | Implementation and cross-implementation integrity assurance and resilience operations |
+| **CJS-5A.2** | Implementation and cross-implementation auditability and reconstructability terms |
+| **CJS-5A.3** | Implementation and cross-implementation tiered transparency and audit-access terms |
+| **CJS-5A.4** | Implementation and cross-implementation independent verification and claim-integrity terms |
 
 ---
 
-## CJS-5A.1 Cross-implementation integrity assurance and resilience operations
-Use this rule for **CJS-R19**, cross-implementation integrity assurance and resilience operations. It relies on, but does not replace, core definitions such as auditability, verifiability, reversibility, dependency, cascading failure, adversarial conditions, and trustworthiness.
+## CJS-5A.1 Implementation and cross-implementation integrity assurance and resilience operations
+Use this rule for **CJS-R19**, implementation and cross-implementation integrity assurance and resilience operations. It relies on, but does not replace, core definitions such as auditability, verifiability, reversibility, dependency, cascading failure, adversarial conditions, and trustworthiness.
 
-Cross-implementation integrity assurance and resilience operations
-- OP-O: Integrity claims depend on the whole chain when records, access, classification, stewardship, challenge, or adjudication are split across systems, institutions, dependencies, or implementation layers.
+Implementation and cross-implementation integrity assurance and resilience operations
+- OP-O: Integrity claims depend on the whole relevant chain, including records, access, classification, stewardship, challenge, or adjudication within a standalone implementation scope and where those functions are split across systems, institutions, dependencies, or implementation layers.
 - OP-E: Evaluation must test the chain end to end, including normal, degraded, and adversarial conditions.
 - OP-C: A chain is non-compliant if required conditions are missing, blocked, contradictory, or practically unusable. A strong control in one part of the chain cannot cure a material failure in another.
 
@@ -41,10 +41,10 @@ Adversarial response and revalidation non-entrenchment
 
 ---
 
-## CJS-5A.2 Cross-implementation auditability and reconstructability terms
-Use this rule when records, access pathways, or verification design depend on combined system, dependency, or implementation-layer behavior. It is read with **PRIM9 — Auditability**, **PRIM4 — Transparency and Disclosure**, **PRIM10 — Tiered Transparency and Audit Access**, **Article XV-A**, and **Article VII-B**.
+## CJS-5A.2 Implementation and cross-implementation auditability and reconstructability terms
+Use this rule when records, access pathways, or verification design depend on standalone system behavior or combined system, dependency, or implementation-layer behavior. It is read with **PRIM9 — Auditability**, **PRIM4 — Transparency and Disclosure**, **PRIM10 — Tiered Transparency and Audit Access**, **Article XV-A**, and **Article VII-B**.
 
-Cross-implementation auditability and reconstructability terms
+Implementation and cross-implementation auditability and reconstructability terms
 - OP-O: Records must be verifiable, independently reviewable, and adequate for reconstructing harm or disputes.
 - OP-E: Evaluation must assess all relevant system components, dependencies, institutional roles, and implementation-layer interactions together.
 - OP-C: It is non-compliant to claim auditability when a material component is absent or unusable.
@@ -71,10 +71,10 @@ Article VII-B boundary and anti-concealment rule
 
 ---
 
-## CJS-5A.3 Cross-implementation tiered transparency and audit-access terms
-Use this rule when public visibility, qualified review, or forensic reconstruction depends on how multiple systems, dependencies, institutions, or implementation layers work together. It is read with **PRIM10 — Tiered Transparency and Audit Access**, **PRIM9 — Auditability**, **PRIM12 — Reversibility and Containment**, **Article XV-A**, and **Article VII-B**.
+## CJS-5A.3 Implementation and cross-implementation tiered transparency and audit-access terms
+Use this rule when public visibility, qualified review, or forensic reconstruction depends on a standalone system, institution, forum, or bounded decision domain, or on how multiple systems, dependencies, institutions, or implementation layers work together. It is read with **PRIM10 — Tiered Transparency and Audit Access**, **PRIM9 — Auditability**, **PRIM12 — Reversibility and Containment**, **Article XV-A**, and **Article VII-B**.
 
-Cross-implementation tiered transparency and audit-access terms
+Implementation and cross-implementation tiered transparency and audit-access terms
 - OP-O: Access to information must be tiered so systems can be transparent, auditable, protective of lawful internal-state boundaries, and open to challenge.
 - OP-E: Evaluation must review the access tiers, audit routes, protection limits, and challenge paths together.
 - OP-C: A system cannot claim tiered transparency if a required part is missing, unreachable, or too unclear to use.
@@ -106,17 +106,17 @@ Forensic escalation and reconstruction sufficiency
 
 Access-control integrity and anti-concealment
 - OP-O: Access controls must be understandable in design, auditable in operation, and open to challenge.
-- OP-E: Evaluation must verify that the controls preserve accountability across implementation boundaries.
+- OP-E: Evaluation must verify that the controls preserve accountability within the relevant implementation scope and across implementation boundaries where they exist.
 - OP-C: Access design is non-compliant if it hides systemic behavior or blocks meaningful challenge.
 
 ---
 
-## CJS-5A.4 Cross-implementation independent verification and claim-integrity terms
-Use this rule when evidence quality, verification routes, or trust claims depend on how multiple systems, dependencies, or implementation layers work together.
+## CJS-5A.4 Implementation and cross-implementation independent verification and claim-integrity terms
+Use this rule when evidence quality, verification routes, or trust claims depend on a standalone system, institution, forum, or bounded decision domain, or on how multiple systems, dependencies, or implementation layers work together.
 
 It is read with **PRIM11 — Independent Verification and Integrity of Claims**, **PRIM9 — Auditability**, and **PRIM10 — Tiered Transparency and Audit Access**. It is also read with Chapter Fourteen and rights-layer protections where material claims shape rights-relevant decisions.
 
-Cross-implementation independent verification and claim-integrity terms
+Implementation and cross-implementation independent verification and claim-integrity terms
 - OP-O: Material claims must be independently checkable where doing so is feasible.
 - OP-E: Evaluation must review the claim, evidence, access route, reviewer independence, and verification limits together.
 - OP-C: A system cannot treat material claims as reliable if required verification paths are missing, blocked, or too weak to use.

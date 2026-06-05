@@ -53,6 +53,8 @@ The CJS folder is **not** the primary owner for:
 
 Stable implementation-label text lives in the CJS implementation-group files under the **Cross-domain implementation layer**. Joint obligations in **CJS-2** and **CJS-3** coordinate implementation interfaces; they do not replace implementation-group text or owner-layer domain rules.
 
+Where **CJS-5** operational clusters are cited by an implementation label or owner file, they also function as shared implementation terms for standalone systems, institutions, forums, or bounded decision domains within the cited scope. That use does not make CJS the primary owner for system, institutional, or forum doctrine; it supplies common operational vocabulary and stricter joint-interface treatment where more than one implementation layer materially applies.
+
 Under the authority-stack rules named in **CJS-1.1**, the CJS folder sits in the **binding incorporated implementation** band. It must **implement, not narrow**, Sentient Constitution meaning.
 
 ### CJS-1.4: Operational structure and subsection-local terminology

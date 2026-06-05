@@ -4,16 +4,16 @@ This family collects the operational clusters that govern dependency mapping, me
 
 | Cluster | Section |
 |---|---|
-| **CJS-5C.1** | Cross-implementation dependency integrity and disclosure terms |
-| **CJS-5C.2** | Cross-implementation interoperability, portability, and exit-integrity terms |
-| **CJS-5C.3** | Cross-implementation data-retention and lifecycle-integrity terms |
+| **CJS-5C.1** | Implementation and cross-implementation dependency integrity and disclosure terms |
+| **CJS-5C.2** | Implementation and cross-implementation interoperability, portability, and exit-integrity terms |
+| **CJS-5C.3** | Implementation and cross-implementation data-retention and lifecycle-integrity terms |
 
 ---
 
-## CJS-5C.1 Cross-implementation dependency integrity and disclosure terms
-Use this rule when dependency mapping, risk treatment, or accountability depends on combined system, dependency, or implementation-layer behavior. It is read with **PRIM5 — Dependency Awareness, Disclosure, and Risk Integrity**, **PRIM4 — Transparency and Disclosure**, **PRIM7 — Interoperability, Portability, and Exit Integrity**, **PRIM9 — Auditability**, **PRIM15 — Evolution, Revalidation, and Non-Entrenchment**, `corpus_systems.md` **Protocol A — System Design, Testing, Verification, and Deployment**, and **Article XV-A**.
+## CJS-5C.1 Implementation and cross-implementation dependency integrity and disclosure terms
+Use this rule when dependency mapping, risk treatment, or accountability depends on standalone system behavior or combined system, dependency, or implementation-layer behavior. It is read with **PRIM5 — Dependency Awareness, Disclosure, and Risk Integrity**, **PRIM4 — Transparency and Disclosure**, **PRIM7 — Interoperability, Portability, and Exit Integrity**, **PRIM9 — Auditability**, **PRIM15 — Evolution, Revalidation, and Non-Entrenchment**, `corpus_systems.md` **Protocol A — System Design, Testing, Verification, and Deployment**, and **Article XV-A**.
 
-Cross-implementation dependency integrity and disclosure terms
+Implementation and cross-implementation dependency integrity and disclosure terms
 - OP-O: If a system relies on something important, that reliance must be named, explained, watched, and handled according to the risk it creates.
 - OP-E: Reviewers must look at the full dependency picture, not isolated pieces that make the system look safer than it is.
 - OP-C: A system is non-compliant if it claims its dependencies are under control while leaving out, contradicting, or ignoring an important dependency.
@@ -50,10 +50,10 @@ Proportional application
 
 ---
 
-## CJS-5C.2 Cross-implementation interoperability, portability, and exit-integrity terms
-Use this rule when lock-in, migration, interface design, or dependency exposure depends on combined system, dependency, or implementation-layer behavior. It is read with **PRIM7 — Interoperability, Portability, and Exit Integrity**, **PRIM5 — Dependency Awareness, Disclosure, and Risk Integrity**, **PRIM4 — Transparency and Disclosure**, `corpus_systems.md` **Chapter S1**, **Chapter S2**, **Chapter S3**, **Article XIX**, and **Article XV-A**.
+## CJS-5C.2 Implementation and cross-implementation interoperability, portability, and exit-integrity terms
+Use this rule when lock-in, migration, interface design, or dependency exposure depends on standalone system behavior or combined system, dependency, or implementation-layer behavior. It is read with **PRIM7 — Interoperability, Portability, and Exit Integrity**, **PRIM5 — Dependency Awareness, Disclosure, and Risk Integrity**, **PRIM4 — Transparency and Disclosure**, `corpus_systems.md` **Chapter S1**, **Chapter S2**, **Chapter S3**, **Article XIX**, and **Article XV-A**.
 
-Cross-implementation interoperability, portability, and exit-integrity terms
+Implementation and cross-implementation interoperability, portability, and exit-integrity terms
 - OP-O: Systems must preserve meaningful exit, usable portability, and fair interoperability.
 - OP-E: Evaluation must assess all relevant system components, dependencies, institutional roles, and implementation-layer interactions together.
 - OP-C: It is non-compliant to claim exit integrity when a material component is unmet.
@@ -105,8 +105,8 @@ Proportional application
 
 ---
 
-## CJS-5C.3 Cross-implementation data-retention and lifecycle-integrity terms
-Use this rule when accountability, privacy, reversibility, or classification depends on how data is kept, changed, linked, or deleted across more than one system or implementation layer.
+## CJS-5C.3 Implementation and cross-implementation data-retention and lifecycle-integrity terms
+Use this rule when accountability, privacy, reversibility, or classification depends on how data is kept, changed, linked, or deleted within a standalone system, institution, forum, or bounded decision domain, or across more than one system or implementation layer.
 
 Read it with:
 - **PRIM9 — Auditability**
@@ -117,7 +117,7 @@ Read it with:
 - `corpus_systems.md` **Chapter S1**, including Types **C**, **G**, **H**, **I**, **N**, and **S**
 - **CJS-3.5**
 
-Cross-implementation data-retention and lifecycle-integrity terms
+Implementation and cross-implementation data-retention and lifecycle-integrity terms
 - OP-O: Data may be kept only for a justified reason, within clear limits, and with regular review from collection through deletion or de-identification.
 - OP-E: Reviewers must assess purpose, S1 data type or types, duration, detail, access, deletion, reclassification, disclosure, and audit needs together.
 - OP-C: A retention-integrity claim is non-compliant if an important part of that lifecycle is missing, unusable, or inconsistent with another part.

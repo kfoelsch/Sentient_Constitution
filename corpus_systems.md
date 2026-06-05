@@ -289,7 +289,7 @@ This subsection is an operational profile. It does not create rights and must no
 
 ## Protocol B: System Comprehensibility and Complexity Stewardship
 
-This protocol states systems implementation file expectations for understandable systems and manageable complexity. It is a systems-specific application of Sentient Constitution Chapter Ten, **Article XX-A** and **Article XX-B**, read with `corpus_joint_structure.md` **CJS-5B.2** (comprehensibility and cognitive accessibility), **CJS-5B.3** (salience integrity and attention allocation), **CJS-5B.4** (disclosure sufficiency and observability), **CJS-5C.1** (dependency integrity and disclosure), **CJS-5D.1** (graceful degradation and failure-mode integrity), and **CJS-5D.4** (adversarial robustness and abuse resistance). It is not a second home for Article XX or the cross-implementation operational definitions.
+This protocol states systems implementation file expectations for understandable systems and manageable complexity. It is a systems-specific application of Sentient Constitution Chapter Ten, **Article XX-A** and **Article XX-B**, read with `corpus_joint_structure.md` **CJS-5B.2** (comprehensibility and cognitive accessibility), **CJS-5B.3** (salience integrity and attention allocation), **CJS-5B.4** (disclosure sufficiency and observability), **CJS-5C.1** (dependency integrity and disclosure), **CJS-5D.1** (graceful degradation and failure-mode integrity), and **CJS-5D.4** (adversarial robustness and abuse resistance). It is not a second home for Article XX or the implementation and cross-implementation operational definitions.
 
 Where Protocol B and an implementation label conflict, the stricter requirement governs. Where this protocol is silent on interpretive, definitional, verification, or traceability standards for constitutional terms, **Sentient Constitution Chapters Two through Four** govern.
 
@@ -310,7 +310,7 @@ Where this Protocol is silent, Article XX, `corpus_joint_structure.md` **CJS-5B.
 
 ## Protocol C: Justice Safeguards, Restitution, and Rehabilitation Implementation
 
-Constitutional tracing: This protocol implements Sentient Constitution Chapter Ten, **Article XXIII** (*Conflict Resolution, Escalation, and Emergency Proportionality*). **It** also implements **Sentient Constitution Chapter Six** (compliance, violation, and standing model) and `corpus_joint_structure.md` **CJS-5E.6** (cross-implementation procedural integrity and adjudication terms), read with **corpus_joint_structure.md PROT6**. **It** operationalizes the justice objective that interventions remain safety-protective, restitution-oriented, rehabilitation-capable where feasible, and accountability-grounded.
+Constitutional tracing: This protocol implements Sentient Constitution Chapter Ten, **Article XXIII** (*Conflict Resolution, Escalation, and Emergency Proportionality*). **It** also implements **Sentient Constitution Chapter Six** (compliance, violation, and standing model) and `corpus_joint_structure.md` **CJS-5E.6** (implementation and cross-implementation procedural integrity and adjudication terms), read with **corpus_joint_structure.md PROT6**. **It** operationalizes the justice objective that interventions remain safety-protective, restitution-oriented, rehabilitation-capable where feasible, and accountability-grounded.
 
 **It does** **not** create substitute rights or narrow constitutional constraints.
 
@@ -1315,7 +1315,7 @@ Containment includes informational and behavioral dimensions so outputs, data, o
 
 There are no standing independent complexity audits or public Protocol B reporting requirements while Class P holds.
 
-The corresponding cross-implementation operational definitions in `corpus_joint_structure.md` **CJS-5B.2** through **CJS-5B.4**, **CJS-5C.1**, **CJS-5D.1**, and **CJS-5D.4** still guide design so opaque or brittle behavior does not cause material externalization that forces reclassification.
+The corresponding implementation and cross-implementation operational definitions in `corpus_joint_structure.md` **CJS-5B.2** through **CJS-5B.4**, **CJS-5C.1**, **CJS-5D.1**, and **CJS-5D.4** still guide design so opaque or brittle behavior does not cause material externalization that forces reclassification.
 
 **Evolution and reclassification (out of Class P):** Reclassify when there is **material externalization** of harm, risk, or effects beyond the unit.
 

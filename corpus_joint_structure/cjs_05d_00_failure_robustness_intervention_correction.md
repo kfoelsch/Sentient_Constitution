@@ -4,18 +4,18 @@ This family collects the operational clusters for degraded operation, interventi
 
 | Cluster | Section |
 |---|---|
-| **CJS-5D.1** | Cross-implementation graceful degradation and failure-mode integrity terms |
-| **CJS-5D.2** | Cross-implementation intervention and override integrity terms |
-| **CJS-5D.3** | Cross-implementation reversibility and containment terms |
-| **CJS-5D.4** | Cross-implementation adversarial robustness and abuse-resistance terms |
-| **CJS-5D.5** | Cross-implementation structural review, correction urgency, and disclosure terms |
+| **CJS-5D.1** | Implementation and cross-implementation graceful degradation and failure-mode integrity terms |
+| **CJS-5D.2** | Implementation and cross-implementation intervention and override integrity terms |
+| **CJS-5D.3** | Implementation and cross-implementation reversibility and containment terms |
+| **CJS-5D.4** | Implementation and cross-implementation adversarial robustness and abuse-resistance terms |
+| **CJS-5D.5** | Implementation and cross-implementation structural review, correction urgency, and disclosure terms |
 
 ---
 
-## CJS-5D.1 Cross-implementation graceful degradation and failure-mode integrity terms
-Use this rule when reliability, signaling, containment, or recovery depends on combined system, dependency, or implementation-layer behavior. It is read with **PRIM6 — Graceful Degradation and Failure Mode Integrity**, **PRIM1 — System Status, Risk, and Scope Representation**, **PRIM5 — Dependency Awareness, Disclosure, and Risk Integrity**, **PRIM12 — Reversibility and Containment**, **PRIM15 — Evolution, Revalidation, and Non-Entrenchment**, and `corpus_systems.md` **Protocol A — System Design, Testing, Verification, and Deployment**.
+## CJS-5D.1 Implementation and cross-implementation graceful degradation and failure-mode integrity terms
+Use this rule when reliability, signaling, containment, or recovery depends on standalone system behavior or combined system, dependency, or implementation-layer behavior. It is read with **PRIM6 — Graceful Degradation and Failure Mode Integrity**, **PRIM1 — System Status, Risk, and Scope Representation**, **PRIM5 — Dependency Awareness, Disclosure, and Risk Integrity**, **PRIM12 — Reversibility and Containment**, **PRIM15 — Evolution, Revalidation, and Non-Entrenchment**, and `corpus_systems.md` **Protocol A — System Design, Testing, Verification, and Deployment**.
 
-Cross-implementation graceful degradation and failure-mode integrity terms
+Implementation and cross-implementation graceful degradation and failure-mode integrity terms
 - OP-O: Systems must behave honestly and safely under partial failure, uncertainty, or stress.
 - OP-E: Evaluation must assess all relevant system components, dependencies, institutional roles, and implementation-layer interactions together.
 - OP-C: It is non-compliant to claim graceful degradation when a material component is missing.
@@ -62,10 +62,10 @@ Proportional application
 
 ---
 
-## CJS-5D.2 Cross-implementation intervention and override integrity terms
-Use this rule when technical intervention, governance authorization, and accountability depend on combined system, governance, or implementation-layer behavior. It is read with **PRIM8 — Intervention and Override Rights**, **PRIM6 — Graceful Degradation and Failure Mode Integrity**, **PRIM9 — Auditability**, **PRIM14 — Adversarial Robustness and Abuse Resistance**, **PRIM15 — Evolution, Revalidation, and Non-Entrenchment**, **PROT2 — Intervention and Override Rights**, and constitutional hooks in **Articles IX, XII, and XIII**.
+## CJS-5D.2 Implementation and cross-implementation intervention and override integrity terms
+Use this rule when technical intervention, governance authorization, and accountability depend on standalone system behavior or combined system, governance, or implementation-layer behavior. It is read with **PRIM8 — Intervention and Override Rights**, **PRIM6 — Graceful Degradation and Failure Mode Integrity**, **PRIM9 — Auditability**, **PRIM14 — Adversarial Robustness and Abuse Resistance**, **PRIM15 — Evolution, Revalidation, and Non-Entrenchment**, **PROT2 — Intervention and Override Rights**, and constitutional hooks in **Articles IX, XII, and XIII**.
 
-Cross-implementation intervention and override integrity terms
+Implementation and cross-implementation intervention and override integrity terms
 - OP-O: Systems need timely, accountable ways to interrupt, constrain, or redirect harmful behavior.
 - OP-E: Evaluation must assess all relevant system components, dependencies, institutional roles, and implementation-layer interactions together.
 - OP-C: It is non-compliant to claim intervention readiness when a material component is absent.
@@ -117,10 +117,10 @@ Proportional application
 
 ---
 
-## CJS-5D.3 Cross-implementation reversibility and containment terms
-Use this rule when rollback, failure isolation, or restoration depends on more than one system, dependency, institution, or implementation layer. It is read with **PRIM12 — Reversibility and Containment**, **PRIM5 — Dependency Awareness, Disclosure, and Risk Integrity**, **PRIM6 — Graceful Degradation and Failure Mode Integrity**, **PRIM9 — Auditability**, **PRIM10 — Tiered Transparency and Audit Access**, and **PRIM11 — Independent Verification and Integrity of Claims**.
+## CJS-5D.3 Implementation and cross-implementation reversibility and containment terms
+Use this rule when rollback, failure isolation, or restoration depends on a standalone system, institution, forum, or bounded decision domain, or on more than one system, dependency, institution, or implementation layer. It is read with **PRIM12 — Reversibility and Containment**, **PRIM5 — Dependency Awareness, Disclosure, and Risk Integrity**, **PRIM6 — Graceful Degradation and Failure Mode Integrity**, **PRIM9 — Auditability**, **PRIM10 — Tiered Transparency and Audit Access**, and **PRIM11 — Independent Verification and Integrity of Claims**.
 
-Cross-implementation reversibility and containment terms
+Implementation and cross-implementation reversibility and containment terms
 - OP-O: Systems must be designed to limit irreversible harm, keep failures from spreading, and restore or compensate affected parties when rollback cannot fully undo the harm.
 - OP-E: Reviewers must assess rollback, containment, restoration, records, dependencies, and verification as one working chain.
 - OP-C: A reversibility or containment claim is non-compliant if an important part of that chain is missing, unusable, or inconsistent with another part.
@@ -147,8 +147,8 @@ Compensatory restoration and limitation disclosure
 
 ---
 
-## CJS-5D.4 Cross-implementation adversarial robustness and abuse-resistance terms
-Use this rule when attack surfaces, incentive exploitation, or integrity defenses depend on more than one system, dependency, institution, governance path, or implementation layer.
+## CJS-5D.4 Implementation and cross-implementation adversarial robustness and abuse-resistance terms
+Use this rule when attack surfaces, incentive exploitation, or integrity defenses depend on a standalone system, institution, forum, or bounded decision domain, or on more than one system, dependency, institution, governance path, or implementation layer.
 
 Read it with:
 - **PRIM14 — Adversarial Robustness and Abuse Resistance**
@@ -163,7 +163,7 @@ Read it with:
 - **PROT4 — Burden of Justification and Constraint**
 - **PROT5 — Constrained Secrecy and Protected Investigations**
 
-Cross-implementation adversarial robustness and abuse-resistance terms
+Implementation and cross-implementation adversarial robustness and abuse-resistance terms
 - OP-O: Systems must be designed and maintained to resist manipulation, exploitation, coordinated abuse, and integrity attacks.
 - OP-E: Reviewers must assess threat modeling, controls, monitoring, response, testing, auditability, remediation, and governance updates as one working chain.
 - OP-C: A robustness or abuse-resistance claim is non-compliant if an important part of that chain is missing, stale, ineffective, or inconsistent with another part.
@@ -230,10 +230,10 @@ Proportional application
 
 ---
 
-## CJS-5D.5 Cross-implementation structural review, correction urgency, and disclosure terms
-Use this rule when recurring failures, Correction Urgency Level (**CUL**) assignment, or structural transparency depends on combined institutional, system, dependency, or implementation-layer behavior. It is read with **PROT6 — Procedural Integrity and Adjudication**, **PRIM6 — Graceful Degradation and Failure Mode Integrity**, **PRIM12 — Reversibility and Containment**, **PRIM15 — Evolution, Revalidation, and Non-Entrenchment**, **PROT3 — Reflexive Transparency and Accountability**, `corpus_systems.md` **Chapter S1** and **Chapter S2**, and owner-layer-specific monitoring or publication duties.
+## CJS-5D.5 Implementation and cross-implementation structural review, correction urgency, and disclosure terms
+Use this rule when recurring failures, Correction Urgency Level (**CUL**) assignment, or structural transparency depends on standalone system behavior or combined institutional, system, dependency, or implementation-layer behavior. It is read with **PROT6 — Procedural Integrity and Adjudication**, **PRIM6 — Graceful Degradation and Failure Mode Integrity**, **PRIM12 — Reversibility and Containment**, **PRIM15 — Evolution, Revalidation, and Non-Entrenchment**, **PROT3 — Reflexive Transparency and Accountability**, `corpus_systems.md` **Chapter S1** and **Chapter S2**, and owner-layer-specific monitoring or publication duties.
 
-Cross-implementation structural review, correction urgency, and disclosure terms
+Implementation and cross-implementation structural review, correction urgency, and disclosure terms
 - OP-O: Systems must detect patterns, assign correction urgency, integrate fixes, keep structural records, and disclose to the right stakeholders.
 - OP-E: Evaluation must assess all relevant system components, dependencies, institutional roles, and implementation-layer interactions together.
 - OP-C: It is non-compliant to claim adequate structural correction when a material component is missing, unused, or disconnected from remediation.
