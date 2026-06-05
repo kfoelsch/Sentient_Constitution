@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/crossref_matrix.schema.json",
-  "generated_at": "2026-06-03T23:01:07+00:00",
+  "generated_at": "2026-06-05T00:18:37+00:00",
   "description": "Source-derived file-to-file Markdown reference graph.",
   "graph": {
     "nodes": [
@@ -110,6 +110,114 @@
       },
       {
         "id": "corpus_joint_structure/cjs_05_cross_implementation_operational_terms.md",
+        "type": "companion"
+      },
+      {
+        "id": "corpus_joint_structure/cjs_05a_00_evidence_audit_claim_integrity.md",
+        "type": "companion"
+      },
+      {
+        "id": "corpus_joint_structure/cjs_05a_01_integrity_assurance_resilience_operations.md",
+        "type": "companion"
+      },
+      {
+        "id": "corpus_joint_structure/cjs_05a_02_auditability_reconstructability_terms.md",
+        "type": "companion"
+      },
+      {
+        "id": "corpus_joint_structure/cjs_05a_03_tiered_transparency_audit_access_terms.md",
+        "type": "companion"
+      },
+      {
+        "id": "corpus_joint_structure/cjs_05a_04_independent_verification_claim_integrity_terms.md",
+        "type": "companion"
+      },
+      {
+        "id": "corpus_joint_structure/cjs_05b_00_participation_comprehension_disclosure.md",
+        "type": "companion"
+      },
+      {
+        "id": "corpus_joint_structure/cjs_05b_01_quorum_participatory_legitimacy_terms.md",
+        "type": "companion"
+      },
+      {
+        "id": "corpus_joint_structure/cjs_05b_02_comprehensibility_cognitive_accessibility_terms.md",
+        "type": "companion"
+      },
+      {
+        "id": "corpus_joint_structure/cjs_05b_03_salience_integrity_attention_allocation_terms.md",
+        "type": "companion"
+      },
+      {
+        "id": "corpus_joint_structure/cjs_05b_04_disclosure_sufficiency_observability_terms.md",
+        "type": "companion"
+      },
+      {
+        "id": "corpus_joint_structure/cjs_05c_00_dependency_exit_lifecycle_integrity.md",
+        "type": "companion"
+      },
+      {
+        "id": "corpus_joint_structure/cjs_05c_01_dependency_integrity_disclosure_terms.md",
+        "type": "companion"
+      },
+      {
+        "id": "corpus_joint_structure/cjs_05c_02_interoperability_portability_exit_integrity_terms.md",
+        "type": "companion"
+      },
+      {
+        "id": "corpus_joint_structure/cjs_05c_03_data_retention_lifecycle_integrity_terms.md",
+        "type": "companion"
+      },
+      {
+        "id": "corpus_joint_structure/cjs_05d_00_failure_robustness_intervention_correction.md",
+        "type": "companion"
+      },
+      {
+        "id": "corpus_joint_structure/cjs_05d_01_graceful_degradation_failure_mode_integrity_terms.md",
+        "type": "companion"
+      },
+      {
+        "id": "corpus_joint_structure/cjs_05d_02_intervention_override_integrity_terms.md",
+        "type": "companion"
+      },
+      {
+        "id": "corpus_joint_structure/cjs_05d_03_reversibility_containment_terms.md",
+        "type": "companion"
+      },
+      {
+        "id": "corpus_joint_structure/cjs_05d_04_adversarial_robustness_abuse_resistance_terms.md",
+        "type": "companion"
+      },
+      {
+        "id": "corpus_joint_structure/cjs_05d_05_structural_review_correction_urgency_disclosure_terms.md",
+        "type": "companion"
+      },
+      {
+        "id": "corpus_joint_structure/cjs_05e_00_authority_constraint_secrecy_procedure.md",
+        "type": "companion"
+      },
+      {
+        "id": "corpus_joint_structure/cjs_05e_01_distributed_proportional_authority_terms.md",
+        "type": "companion"
+      },
+      {
+        "id": "corpus_joint_structure/cjs_05e_02_intervention_governance_override_authorization_terms.md",
+        "type": "companion"
+      },
+      {
+        "id": "corpus_joint_structure/cjs_05e_03_reflexive_transparency_accountability_terms.md",
+        "type": "companion"
+      },
+      {
+        "id": "corpus_joint_structure/cjs_05e_04_burden_of_justification_constraint_terms.md",
+        "type": "companion"
+      },
+      {
+        "id": "corpus_joint_structure/cjs_05e_05_constrained_secrecy_protected_investigation_terms.md",
+        "type": "companion"
+      },
+      {
+        "id": "corpus_joint_structure/cjs_05e_06_procedural_integrity_adjudication_terms.md",
         "type": "companion"
       },
       {
@@ -3576,6 +3684,381 @@
       },
       {
         "source": "corpus_joint_structure/cjs_05_cross_implementation_operational_terms.md",
+        "targets": [
+          {
+            "file": "corpus_joint_structure/cjs_05a_00_evidence_audit_claim_integrity.md",
+            "count": 2,
+            "anchors": []
+          },
+          {
+            "file": "corpus_joint_structure/cjs_05b_00_participation_comprehension_disclosure.md",
+            "count": 1,
+            "anchors": []
+          },
+          {
+            "file": "corpus_joint_structure/cjs_05c_00_dependency_exit_lifecycle_integrity.md",
+            "count": 1,
+            "anchors": []
+          },
+          {
+            "file": "corpus_joint_structure/cjs_05d_00_failure_robustness_intervention_correction.md",
+            "count": 1,
+            "anchors": []
+          },
+          {
+            "file": "corpus_joint_structure/cjs_05e_00_authority_constraint_secrecy_procedure.md",
+            "count": 1,
+            "anchors": []
+          }
+        ]
+      },
+      {
+        "source": "corpus_joint_structure/cjs_05a_00_evidence_audit_claim_integrity.md",
+        "targets": [
+          {
+            "file": "corpus_joint_structure/cjs_05a_01_integrity_assurance_resilience_operations.md",
+            "count": 2,
+            "anchors": []
+          },
+          {
+            "file": "corpus_joint_structure/cjs_05a_02_auditability_reconstructability_terms.md",
+            "count": 1,
+            "anchors": []
+          },
+          {
+            "file": "corpus_joint_structure/cjs_05a_03_tiered_transparency_audit_access_terms.md",
+            "count": 1,
+            "anchors": []
+          },
+          {
+            "file": "corpus_joint_structure/cjs_05a_04_independent_verification_claim_integrity_terms.md",
+            "count": 1,
+            "anchors": []
+          }
+        ]
+      },
+      {
+        "source": "corpus_joint_structure/cjs_05a_01_integrity_assurance_resilience_operations.md",
+        "targets": [
+          {
+            "file": "corpus_joint_structure/cjs_05a_02_auditability_reconstructability_terms.md",
+            "count": 1,
+            "anchors": []
+          }
+        ]
+      },
+      {
+        "source": "corpus_joint_structure/cjs_05a_02_auditability_reconstructability_terms.md",
+        "targets": [
+          {
+            "file": "corpus_joint_structure/cjs_05a_03_tiered_transparency_audit_access_terms.md",
+            "count": 1,
+            "anchors": []
+          }
+        ]
+      },
+      {
+        "source": "corpus_joint_structure/cjs_05a_03_tiered_transparency_audit_access_terms.md",
+        "targets": [
+          {
+            "file": "corpus_joint_structure/cjs_05a_04_independent_verification_claim_integrity_terms.md",
+            "count": 1,
+            "anchors": []
+          }
+        ]
+      },
+      {
+        "source": "corpus_joint_structure/cjs_05a_04_independent_verification_claim_integrity_terms.md",
+        "targets": [
+          {
+            "file": "corpus_joint_structure/cjs_05b_00_participation_comprehension_disclosure.md",
+            "count": 1,
+            "anchors": []
+          }
+        ]
+      },
+      {
+        "source": "corpus_joint_structure/cjs_05b_00_participation_comprehension_disclosure.md",
+        "targets": [
+          {
+            "file": "corpus_joint_structure/cjs_05b_01_quorum_participatory_legitimacy_terms.md",
+            "count": 2,
+            "anchors": []
+          },
+          {
+            "file": "corpus_joint_structure/cjs_05b_02_comprehensibility_cognitive_accessibility_terms.md",
+            "count": 1,
+            "anchors": []
+          },
+          {
+            "file": "corpus_joint_structure/cjs_05b_03_salience_integrity_attention_allocation_terms.md",
+            "count": 1,
+            "anchors": []
+          },
+          {
+            "file": "corpus_joint_structure/cjs_05b_04_disclosure_sufficiency_observability_terms.md",
+            "count": 1,
+            "anchors": []
+          }
+        ]
+      },
+      {
+        "source": "corpus_joint_structure/cjs_05b_01_quorum_participatory_legitimacy_terms.md",
+        "targets": [
+          {
+            "file": "corpus_joint_structure/cjs_05b_02_comprehensibility_cognitive_accessibility_terms.md",
+            "count": 1,
+            "anchors": []
+          }
+        ]
+      },
+      {
+        "source": "corpus_joint_structure/cjs_05b_02_comprehensibility_cognitive_accessibility_terms.md",
+        "targets": [
+          {
+            "file": "corpus_joint_structure/cjs_05b_03_salience_integrity_attention_allocation_terms.md",
+            "count": 1,
+            "anchors": []
+          }
+        ]
+      },
+      {
+        "source": "corpus_joint_structure/cjs_05b_03_salience_integrity_attention_allocation_terms.md",
+        "targets": [
+          {
+            "file": "corpus_joint_structure/cjs_05b_04_disclosure_sufficiency_observability_terms.md",
+            "count": 1,
+            "anchors": []
+          }
+        ]
+      },
+      {
+        "source": "corpus_joint_structure/cjs_05b_04_disclosure_sufficiency_observability_terms.md",
+        "targets": [
+          {
+            "file": "corpus_joint_structure/cjs_05c_00_dependency_exit_lifecycle_integrity.md",
+            "count": 1,
+            "anchors": []
+          }
+        ]
+      },
+      {
+        "source": "corpus_joint_structure/cjs_05c_00_dependency_exit_lifecycle_integrity.md",
+        "targets": [
+          {
+            "file": "corpus_joint_structure/cjs_05c_01_dependency_integrity_disclosure_terms.md",
+            "count": 2,
+            "anchors": []
+          },
+          {
+            "file": "corpus_joint_structure/cjs_05c_02_interoperability_portability_exit_integrity_terms.md",
+            "count": 1,
+            "anchors": []
+          },
+          {
+            "file": "corpus_joint_structure/cjs_05c_03_data_retention_lifecycle_integrity_terms.md",
+            "count": 1,
+            "anchors": []
+          }
+        ]
+      },
+      {
+        "source": "corpus_joint_structure/cjs_05c_01_dependency_integrity_disclosure_terms.md",
+        "targets": [
+          {
+            "file": "corpus_joint_structure/cjs_05c_02_interoperability_portability_exit_integrity_terms.md",
+            "count": 1,
+            "anchors": []
+          }
+        ]
+      },
+      {
+        "source": "corpus_joint_structure/cjs_05c_02_interoperability_portability_exit_integrity_terms.md",
+        "targets": [
+          {
+            "file": "corpus_joint_structure/cjs_05c_03_data_retention_lifecycle_integrity_terms.md",
+            "count": 1,
+            "anchors": []
+          }
+        ]
+      },
+      {
+        "source": "corpus_joint_structure/cjs_05c_03_data_retention_lifecycle_integrity_terms.md",
+        "targets": [
+          {
+            "file": "corpus_joint_structure/cjs_05d_00_failure_robustness_intervention_correction.md",
+            "count": 1,
+            "anchors": []
+          }
+        ]
+      },
+      {
+        "source": "corpus_joint_structure/cjs_05d_00_failure_robustness_intervention_correction.md",
+        "targets": [
+          {
+            "file": "corpus_joint_structure/cjs_05d_01_graceful_degradation_failure_mode_integrity_terms.md",
+            "count": 2,
+            "anchors": []
+          },
+          {
+            "file": "corpus_joint_structure/cjs_05d_02_intervention_override_integrity_terms.md",
+            "count": 1,
+            "anchors": []
+          },
+          {
+            "file": "corpus_joint_structure/cjs_05d_03_reversibility_containment_terms.md",
+            "count": 1,
+            "anchors": []
+          },
+          {
+            "file": "corpus_joint_structure/cjs_05d_04_adversarial_robustness_abuse_resistance_terms.md",
+            "count": 1,
+            "anchors": []
+          },
+          {
+            "file": "corpus_joint_structure/cjs_05d_05_structural_review_correction_urgency_disclosure_terms.md",
+            "count": 1,
+            "anchors": []
+          }
+        ]
+      },
+      {
+        "source": "corpus_joint_structure/cjs_05d_01_graceful_degradation_failure_mode_integrity_terms.md",
+        "targets": [
+          {
+            "file": "corpus_joint_structure/cjs_05d_02_intervention_override_integrity_terms.md",
+            "count": 1,
+            "anchors": []
+          }
+        ]
+      },
+      {
+        "source": "corpus_joint_structure/cjs_05d_02_intervention_override_integrity_terms.md",
+        "targets": [
+          {
+            "file": "corpus_joint_structure/cjs_05d_03_reversibility_containment_terms.md",
+            "count": 1,
+            "anchors": []
+          }
+        ]
+      },
+      {
+        "source": "corpus_joint_structure/cjs_05d_03_reversibility_containment_terms.md",
+        "targets": [
+          {
+            "file": "corpus_joint_structure/cjs_05d_04_adversarial_robustness_abuse_resistance_terms.md",
+            "count": 1,
+            "anchors": []
+          }
+        ]
+      },
+      {
+        "source": "corpus_joint_structure/cjs_05d_04_adversarial_robustness_abuse_resistance_terms.md",
+        "targets": [
+          {
+            "file": "corpus_joint_structure/cjs_05d_05_structural_review_correction_urgency_disclosure_terms.md",
+            "count": 1,
+            "anchors": []
+          }
+        ]
+      },
+      {
+        "source": "corpus_joint_structure/cjs_05d_05_structural_review_correction_urgency_disclosure_terms.md",
+        "targets": [
+          {
+            "file": "corpus_joint_structure/cjs_05e_00_authority_constraint_secrecy_procedure.md",
+            "count": 1,
+            "anchors": []
+          }
+        ]
+      },
+      {
+        "source": "corpus_joint_structure/cjs_05e_00_authority_constraint_secrecy_procedure.md",
+        "targets": [
+          {
+            "file": "corpus_joint_structure/cjs_05e_01_distributed_proportional_authority_terms.md",
+            "count": 2,
+            "anchors": []
+          },
+          {
+            "file": "corpus_joint_structure/cjs_05e_02_intervention_governance_override_authorization_terms.md",
+            "count": 1,
+            "anchors": []
+          },
+          {
+            "file": "corpus_joint_structure/cjs_05e_03_reflexive_transparency_accountability_terms.md",
+            "count": 1,
+            "anchors": []
+          },
+          {
+            "file": "corpus_joint_structure/cjs_05e_04_burden_of_justification_constraint_terms.md",
+            "count": 1,
+            "anchors": []
+          },
+          {
+            "file": "corpus_joint_structure/cjs_05e_05_constrained_secrecy_protected_investigation_terms.md",
+            "count": 1,
+            "anchors": []
+          },
+          {
+            "file": "corpus_joint_structure/cjs_05e_06_procedural_integrity_adjudication_terms.md",
+            "count": 1,
+            "anchors": []
+          }
+        ]
+      },
+      {
+        "source": "corpus_joint_structure/cjs_05e_01_distributed_proportional_authority_terms.md",
+        "targets": [
+          {
+            "file": "corpus_joint_structure/cjs_05e_02_intervention_governance_override_authorization_terms.md",
+            "count": 1,
+            "anchors": []
+          }
+        ]
+      },
+      {
+        "source": "corpus_joint_structure/cjs_05e_02_intervention_governance_override_authorization_terms.md",
+        "targets": [
+          {
+            "file": "corpus_joint_structure/cjs_05e_03_reflexive_transparency_accountability_terms.md",
+            "count": 1,
+            "anchors": []
+          }
+        ]
+      },
+      {
+        "source": "corpus_joint_structure/cjs_05e_03_reflexive_transparency_accountability_terms.md",
+        "targets": [
+          {
+            "file": "corpus_joint_structure/cjs_05e_04_burden_of_justification_constraint_terms.md",
+            "count": 1,
+            "anchors": []
+          }
+        ]
+      },
+      {
+        "source": "corpus_joint_structure/cjs_05e_04_burden_of_justification_constraint_terms.md",
+        "targets": [
+          {
+            "file": "corpus_joint_structure/cjs_05e_05_constrained_secrecy_protected_investigation_terms.md",
+            "count": 1,
+            "anchors": []
+          }
+        ]
+      },
+      {
+        "source": "corpus_joint_structure/cjs_05e_05_constrained_secrecy_protected_investigation_terms.md",
+        "targets": [
+          {
+            "file": "corpus_joint_structure/cjs_05e_06_procedural_integrity_adjudication_terms.md",
+            "count": 1,
+            "anchors": []
+          }
+        ]
+      },
+      {
+        "source": "corpus_joint_structure/cjs_05e_06_procedural_integrity_adjudication_terms.md",
         "targets": [
           {
             "file": "corpus_joint_structure/cjs_06_stable_identifiers_edition_alignment.md",

@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-06-03T23:01:07+00:00",
+  "generated_at": "2026-06-05T00:18:37+00:00",
   "files": {
     "core_00-01_principles.md": {
       "total_lines": 1506,
@@ -6496,167 +6496,337 @@
       ]
     },
     "corpus_joint_structure/cjs_05_cross_implementation_operational_terms.md": {
-      "total_lines": 940,
+      "total_lines": 17,
       "sections": [
         {
           "header": "CJS-5: Cross-implementation operational cluster library",
           "level": 2,
           "line_start": 1,
-          "line_end": 940,
+          "line_end": 17,
           "anchor": null
-        },
+        }
+      ]
+    },
+    "corpus_joint_structure/cjs_05a_00_evidence_audit_claim_integrity.md": {
+      "total_lines": 14,
+      "sections": [
         {
-          "header": "CJS-5.1 Cross-implementation integrity assurance and resilience operations",
-          "level": 3,
-          "line_start": 7,
-          "line_end": 34,
+          "header": "CJS-5A: Evidence, audit, and claim integrity",
+          "level": 2,
+          "line_start": 1,
+          "line_end": 14,
           "anchor": null
-        },
+        }
+      ]
+    },
+    "corpus_joint_structure/cjs_05a_01_integrity_assurance_resilience_operations.md": {
+      "total_lines": 31,
+      "sections": [
         {
-          "header": "CJS-5.2 Cross-implementation quorum and participatory legitimacy terms",
-          "level": 3,
-          "line_start": 35,
-          "line_end": 87,
+          "header": "CJS-5A.1 Cross-implementation integrity assurance and resilience operations",
+          "level": 2,
+          "line_start": 1,
+          "line_end": 31,
           "anchor": null
-        },
+        }
+      ]
+    },
+    "corpus_joint_structure/cjs_05a_02_auditability_reconstructability_terms.md": {
+      "total_lines": 31,
+      "sections": [
         {
-          "header": "CJS-5.3 Cross-implementation comprehensibility and cognitive accessibility terms",
-          "level": 3,
-          "line_start": 88,
-          "line_end": 135,
+          "header": "CJS-5A.2 Cross-implementation auditability and reconstructability terms",
+          "level": 2,
+          "line_start": 1,
+          "line_end": 31,
           "anchor": null
-        },
+        }
+      ]
+    },
+    "corpus_joint_structure/cjs_05a_03_tiered_transparency_audit_access_terms.md": {
+      "total_lines": 36,
+      "sections": [
         {
-          "header": "CJS-5.4 Cross-implementation salience integrity and attention-allocation terms",
-          "level": 3,
-          "line_start": 136,
-          "line_end": 188,
+          "header": "CJS-5A.3 Cross-implementation tiered transparency and audit-access terms",
+          "level": 2,
+          "line_start": 1,
+          "line_end": 36,
           "anchor": null
-        },
+        }
+      ]
+    },
+    "corpus_joint_structure/cjs_05a_04_independent_verification_claim_integrity_terms.md": {
+      "total_lines": 33,
+      "sections": [
         {
-          "header": "CJS-5.5 Cross-implementation disclosure sufficiency and observability terms",
-          "level": 3,
-          "line_start": 189,
-          "line_end": 216,
+          "header": "CJS-5A.4 Cross-implementation independent verification and claim-integrity terms",
+          "level": 2,
+          "line_start": 1,
+          "line_end": 33,
           "anchor": null
-        },
+        }
+      ]
+    },
+    "corpus_joint_structure/cjs_05b_00_participation_comprehension_disclosure.md": {
+      "total_lines": 14,
+      "sections": [
         {
-          "header": "CJS-5.6 Cross-implementation dependency integrity and disclosure terms",
-          "level": 3,
-          "line_start": 217,
-          "line_end": 254,
+          "header": "CJS-5B: Participation, comprehension, and disclosure",
+          "level": 2,
+          "line_start": 1,
+          "line_end": 14,
           "anchor": null
-        },
+        }
+      ]
+    },
+    "corpus_joint_structure/cjs_05b_01_quorum_participatory_legitimacy_terms.md": {
+      "total_lines": 56,
+      "sections": [
         {
-          "header": "CJS-5.7 Cross-implementation graceful degradation and failure-mode integrity terms",
-          "level": 3,
-          "line_start": 255,
-          "line_end": 302,
+          "header": "CJS-5B.1 Cross-implementation quorum and participatory legitimacy terms",
+          "level": 2,
+          "line_start": 1,
+          "line_end": 56,
           "anchor": null
-        },
+        }
+      ]
+    },
+    "corpus_joint_structure/cjs_05b_02_comprehensibility_cognitive_accessibility_terms.md": {
+      "total_lines": 51,
+      "sections": [
         {
-          "header": "CJS-5.8 Cross-implementation interoperability, portability, and exit-integrity terms",
-          "level": 3,
-          "line_start": 303,
-          "line_end": 355,
+          "header": "CJS-5B.2 Cross-implementation comprehensibility and cognitive accessibility terms",
+          "level": 2,
+          "line_start": 1,
+          "line_end": 51,
           "anchor": null
-        },
+        }
+      ]
+    },
+    "corpus_joint_structure/cjs_05b_03_salience_integrity_attention_allocation_terms.md": {
+      "total_lines": 56,
+      "sections": [
         {
-          "header": "CJS-5.9 Cross-implementation intervention and override integrity terms",
-          "level": 3,
-          "line_start": 356,
-          "line_end": 408,
+          "header": "CJS-5B.3 Cross-implementation salience integrity and attention-allocation terms",
+          "level": 2,
+          "line_start": 1,
+          "line_end": 56,
           "anchor": null
-        },
+        }
+      ]
+    },
+    "corpus_joint_structure/cjs_05b_04_disclosure_sufficiency_observability_terms.md": {
+      "total_lines": 31,
+      "sections": [
         {
-          "header": "CJS-5.10 Cross-implementation auditability and reconstructability terms",
-          "level": 3,
-          "line_start": 409,
-          "line_end": 436,
+          "header": "CJS-5B.4 Cross-implementation disclosure sufficiency and observability terms",
+          "level": 2,
+          "line_start": 1,
+          "line_end": 31,
           "anchor": null
-        },
+        }
+      ]
+    },
+    "corpus_joint_structure/cjs_05c_00_dependency_exit_lifecycle_integrity.md": {
+      "total_lines": 13,
+      "sections": [
         {
-          "header": "CJS-5.11 Cross-implementation tiered transparency and audit-access terms",
-          "level": 3,
-          "line_start": 437,
-          "line_end": 469,
+          "header": "CJS-5C: Dependency, exit, and lifecycle integrity",
+          "level": 2,
+          "line_start": 1,
+          "line_end": 13,
           "anchor": null
-        },
+        }
+      ]
+    },
+    "corpus_joint_structure/cjs_05c_01_dependency_integrity_disclosure_terms.md": {
+      "total_lines": 41,
+      "sections": [
         {
-          "header": "CJS-5.12 Cross-implementation independent verification and claim-integrity terms",
-          "level": 3,
-          "line_start": 470,
-          "line_end": 497,
+          "header": "CJS-5C.1 Cross-implementation dependency integrity and disclosure terms",
+          "level": 2,
+          "line_start": 1,
+          "line_end": 41,
           "anchor": null
-        },
+        }
+      ]
+    },
+    "corpus_joint_structure/cjs_05c_02_interoperability_portability_exit_integrity_terms.md": {
+      "total_lines": 56,
+      "sections": [
         {
-          "header": "CJS-5.13 Cross-implementation reversibility and containment terms",
-          "level": 3,
-          "line_start": 498,
-          "line_end": 525,
+          "header": "CJS-5C.2 Cross-implementation interoperability, portability, and exit-integrity terms",
+          "level": 2,
+          "line_start": 1,
+          "line_end": 56,
           "anchor": null
-        },
+        }
+      ]
+    },
+    "corpus_joint_structure/cjs_05c_03_data_retention_lifecycle_integrity_terms.md": {
+      "total_lines": 65,
+      "sections": [
         {
-          "header": "CJS-5.14 Cross-implementation data-retention and lifecycle-integrity terms",
-          "level": 3,
-          "line_start": 526,
-          "line_end": 578,
+          "header": "CJS-5C.3 Cross-implementation data-retention and lifecycle-integrity terms",
+          "level": 2,
+          "line_start": 1,
+          "line_end": 65,
           "anchor": null
-        },
+        }
+      ]
+    },
+    "corpus_joint_structure/cjs_05d_00_failure_robustness_intervention_correction.md": {
+      "total_lines": 15,
+      "sections": [
         {
-          "header": "CJS-5.15 Cross-implementation adversarial robustness and abuse-resistance terms",
-          "level": 3,
-          "line_start": 579,
-          "line_end": 636,
+          "header": "CJS-5D: Failure, robustness, intervention, and correction",
+          "level": 2,
+          "line_start": 1,
+          "line_end": 15,
           "anchor": null
-        },
+        }
+      ]
+    },
+    "corpus_joint_structure/cjs_05d_01_graceful_degradation_failure_mode_integrity_terms.md": {
+      "total_lines": 51,
+      "sections": [
         {
-          "header": "CJS-5.16 Cross-implementation distributed and proportional authority terms",
-          "level": 3,
-          "line_start": 637,
-          "line_end": 684,
+          "header": "CJS-5D.1 Cross-implementation graceful degradation and failure-mode integrity terms",
+          "level": 2,
+          "line_start": 1,
+          "line_end": 51,
           "anchor": null
-        },
+        }
+      ]
+    },
+    "corpus_joint_structure/cjs_05d_02_intervention_override_integrity_terms.md": {
+      "total_lines": 56,
+      "sections": [
         {
-          "header": "CJS-5.17 Cross-implementation intervention governance and override-authorization terms",
-          "level": 3,
-          "line_start": 685,
-          "line_end": 722,
+          "header": "CJS-5D.2 Cross-implementation intervention and override integrity terms",
+          "level": 2,
+          "line_start": 1,
+          "line_end": 56,
           "anchor": null
-        },
+        }
+      ]
+    },
+    "corpus_joint_structure/cjs_05d_03_reversibility_containment_terms.md": {
+      "total_lines": 31,
+      "sections": [
         {
-          "header": "CJS-5.18 Cross-implementation reflexive transparency and accountability terms",
-          "level": 3,
-          "line_start": 723,
-          "line_end": 770,
+          "header": "CJS-5D.3 Cross-implementation reversibility and containment terms",
+          "level": 2,
+          "line_start": 1,
+          "line_end": 31,
           "anchor": null
-        },
+        }
+      ]
+    },
+    "corpus_joint_structure/cjs_05d_04_adversarial_robustness_abuse_resistance_terms.md": {
+      "total_lines": 84,
+      "sections": [
         {
-          "header": "CJS-5.19 Cross-implementation burden-of-justification and constraint terms",
-          "level": 3,
-          "line_start": 771,
-          "line_end": 808,
+          "header": "CJS-5D.4 Cross-implementation adversarial robustness and abuse-resistance terms",
+          "level": 2,
+          "line_start": 1,
+          "line_end": 84,
           "anchor": null
-        },
+        }
+      ]
+    },
+    "corpus_joint_structure/cjs_05d_05_structural_review_correction_urgency_disclosure_terms.md": {
+      "total_lines": 36,
+      "sections": [
         {
-          "header": "CJS-5.20 Cross-implementation constrained-secrecy and protected-investigation terms",
-          "level": 3,
-          "line_start": 809,
-          "line_end": 841,
+          "header": "CJS-5D.5 Cross-implementation structural review, correction urgency, and disclosure terms",
+          "level": 2,
+          "line_start": 1,
+          "line_end": 36,
           "anchor": null
-        },
+        }
+      ]
+    },
+    "corpus_joint_structure/cjs_05e_00_authority_constraint_secrecy_procedure.md": {
+      "total_lines": 16,
+      "sections": [
         {
-          "header": "CJS-5.21 Cross-implementation procedural integrity and adjudication terms",
-          "level": 3,
-          "line_start": 842,
-          "line_end": 904,
+          "header": "CJS-5E: Authority, constraint, secrecy, and procedure",
+          "level": 2,
+          "line_start": 1,
+          "line_end": 16,
           "anchor": null
-        },
+        }
+      ]
+    },
+    "corpus_joint_structure/cjs_05e_01_distributed_proportional_authority_terms.md": {
+      "total_lines": 51,
+      "sections": [
         {
-          "header": "CJS-5.22 Cross-implementation structural review, correction urgency, and disclosure terms",
-          "level": 3,
-          "line_start": 905,
-          "line_end": 940,
+          "header": "CJS-5E.1 Cross-implementation distributed and proportional authority terms",
+          "level": 2,
+          "line_start": 1,
+          "line_end": 51,
+          "anchor": null
+        }
+      ]
+    },
+    "corpus_joint_structure/cjs_05e_02_intervention_governance_override_authorization_terms.md": {
+      "total_lines": 41,
+      "sections": [
+        {
+          "header": "CJS-5E.2 Cross-implementation intervention governance and override-authorization terms",
+          "level": 2,
+          "line_start": 1,
+          "line_end": 41,
+          "anchor": null
+        }
+      ]
+    },
+    "corpus_joint_structure/cjs_05e_03_reflexive_transparency_accountability_terms.md": {
+      "total_lines": 51,
+      "sections": [
+        {
+          "header": "CJS-5E.3 Cross-implementation reflexive transparency and accountability terms",
+          "level": 2,
+          "line_start": 1,
+          "line_end": 51,
+          "anchor": null
+        }
+      ]
+    },
+    "corpus_joint_structure/cjs_05e_04_burden_of_justification_constraint_terms.md": {
+      "total_lines": 41,
+      "sections": [
+        {
+          "header": "CJS-5E.4 Cross-implementation burden-of-justification and constraint terms",
+          "level": 2,
+          "line_start": 1,
+          "line_end": 41,
+          "anchor": null
+        }
+      ]
+    },
+    "corpus_joint_structure/cjs_05e_05_constrained_secrecy_protected_investigation_terms.md": {
+      "total_lines": 36,
+      "sections": [
+        {
+          "header": "CJS-5E.5 Cross-implementation constrained-secrecy and protected-investigation terms",
+          "level": 2,
+          "line_start": 1,
+          "line_end": 36,
+          "anchor": null
+        }
+      ]
+    },
+    "corpus_joint_structure/cjs_05e_06_procedural_integrity_adjudication_terms.md": {
+      "total_lines": 66,
+      "sections": [
+        {
+          "header": "CJS-5E.6 Cross-implementation procedural integrity and adjudication terms",
+          "level": 2,
+          "line_start": 1,
+          "line_end": 66,
           "anchor": null
         }
       ]

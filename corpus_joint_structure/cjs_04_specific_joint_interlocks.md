@@ -69,7 +69,7 @@ Do not use a broad reading of CJS to change, shrink, expand, or move a rule that
 ### CJS-4.6 Class-scaled lane staffing and competency redundancy
 Use this rule for **CJS-R18**, class-scaled lane staffing and competency redundancy for materially binding stewardship. It covers roles with materially binding effect under **Chapter Ten**, section **5**, where `corpus_systems.md` **Chapter S2** or **Chapter S3** scales the burden.
 
-For **constitutional lane** and functional-separation meaning, apply **CJS-5.16** (*Constitutional lane and functional separation*) with **CI-2**.
+For **constitutional lane** and functional-separation meaning, apply **CJS-5E.1** (*Constitutional lane and functional separation*) with **CI-2**.
 
 For **Class A** and **Class B** systems, each institution that hosts a constitutional lane with materially binding duties must have:
 - at least **three sentients** assigned to the lane;
@@ -81,7 +81,7 @@ Staffing must be real, not just numerical. Responsibility cannot be spread so th
 The constitutional floor remains in `core_11-11_governance.md` **Chapter Eleven**, section **5**. Domain detail remains in **CI-2**, **CI-4**, **CI-11**, **CI-12**, and `corpus_systems.md` **Chapter S2** and **Chapter S3**.
 
 ### CJS-4.7 Shared procedural abstractions for delegated bodies and forum routing
-This subsection gives shared CJS terms for four procedural router topics: **CJS-R01** delegated binding bodies, **CJS-R02** forum chambers and panels, **CJS-R03** lawful panel formation and recusal, and **CJS-R04** routing, intake, transfer, certification, and representative treatment. Apply the operational evaluation terms in **CJS-5.21**. This subsection does not replace **CI** or **CF** detail.
+This subsection gives shared CJS terms for four procedural router topics: **CJS-R01** delegated binding bodies, **CJS-R02** forum chambers and panels, **CJS-R03** lawful panel formation and recusal, and **CJS-R04** routing, intake, transfer, certification, and representative treatment. Apply the operational evaluation terms in **CJS-5E.6**. This subsection does not replace **CI** or **CF** detail.
 
 - **Delegated binding body:** a standing or recurring body below a parent institution that exercises materially binding delegated authority within a published scope.
 - **Lawful independent forum:** an adjudicative or equivalent merits forum formed under published authority, with required competence, quorum, and conflict-screened independence.

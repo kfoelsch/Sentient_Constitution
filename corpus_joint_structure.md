@@ -15,7 +15,7 @@
 | CJS-2: Implementation integration map | [cjs_02_implementation_integration_map.md](corpus_joint_structure/cjs_02_implementation_integration_map.md) |
 | CJS-3: Joint structural obligations | [cjs_03_joint_structural_obligations.md](corpus_joint_structure/cjs_03_joint_structural_obligations.md) |
 | CJS-4: Specific joint interlocks and shared abstractions | [cjs_04_specific_joint_interlocks.md](corpus_joint_structure/cjs_04_specific_joint_interlocks.md) |
-| CJS-5: Cross-implementation operational cluster library | [cjs_05_cross_implementation_operational_terms.md](corpus_joint_structure/cjs_05_cross_implementation_operational_terms.md) |
+| CJS-5: Cross-implementation operational cluster library (family and cluster index) | [cjs_05_cross_implementation_operational_terms.md](corpus_joint_structure/cjs_05_cross_implementation_operational_terms.md) |
 | CJS-6: Stable section identifiers, edition alignment, and drafting notes | [cjs_06_stable_identifiers_edition_alignment.md](corpus_joint_structure/cjs_06_stable_identifiers_edition_alignment.md) |
 | Cross-domain implementation layer overview | [cjs_07_implementation_layer_overview.md](corpus_joint_structure/cjs_07_implementation_layer_overview.md) |
 | Implementation Group One: Meta-Integrity | [cjs_08_implementation_group_01_meta_integrity.md](corpus_joint_structure/cjs_08_implementation_group_01_meta_integrity.md) |
