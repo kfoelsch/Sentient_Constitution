@@ -46,7 +46,7 @@ Use this rule when records, access pathways, or verification design depend on co
 
 Cross-implementation auditability and reconstructability terms
 - OP-O: Records must be verifiable, independently reviewable, and adequate for reconstructing harm or disputes.
-- OP-E: Evaluation must apply all component entries together.
+- OP-E: Evaluation must assess all relevant system components, dependencies, institutional roles, and implementation-layer interactions together.
 - OP-C: It is non-compliant to claim auditability when a material component is absent or unusable.
 
 Auditability floor and record sufficiency

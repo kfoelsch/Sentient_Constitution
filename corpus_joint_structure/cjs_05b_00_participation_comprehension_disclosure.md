@@ -32,7 +32,7 @@ Foundational constitutional choice equality floor
 Stakeholder governance participation floor
 - OP-O: Where the decision occurs inside already-authorized governance for a specified system, institution, or bounded decision domain, **Stakeholder** identification, participation pathways, and any **Stakeholder Participation Weight** must be proportionate to material impact and dependency and must satisfy Article XI and Chapter Eleven section 4.3.
 - OP-E: Evaluation must verify stakeholder mapping, affected-class coverage, local deliberation where required, plural evaluation for high-impact choices, representation and weighting limits, rights-collision records, dissent or alternative records, reopening paths, and Article XI-A legitimacy gates for materially high-impact collective choice.
-- OP-C: Token consultation, dominance-prone weighting, missing affected classes, or stakeholder procedures that purport to authorize the governance layer itself are non-compliant.
+- OP-C: Token consultation, dominance-prone weighting, missing affected classes, or stakeholder procedures that purport to authorize or reauthorize the **Constitutional Contract Layer** questions of governing authority, the governance-layer mechanism, or the scope and durable terms of that authority are non-compliant.
 
 Quorum source and binding-effect gate
 - OP-O: Quorum, threshold, turnout, supermajority, multi-step confirmation, and binding-effect rules must be published before the decision event and tied to the correct constitutional or stakeholder layer.
@@ -71,7 +71,7 @@ Use this rule when transparency, participation, auditability, or accountability 
 
 Cross-implementation comprehensibility and cognitive accessibility terms
 - OP-O: Material information must be understandable, evaluable, and usable for lawful participation, audit, and oversight.
-- OP-E: Evaluation must apply the component entries together.
+- OP-E: Evaluation must assess all relevant system components, dependencies, institutional roles, and implementation-layer interactions together.
 - OP-C: It is non-compliant to claim transparency when information is technically disclosed but unusable in practice.
 
 Meaningful transparency floor

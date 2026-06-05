@@ -55,7 +55,7 @@ Use this rule when lock-in, migration, interface design, or dependency exposure 
 
 Cross-implementation interoperability, portability, and exit-integrity terms
 - OP-O: Systems must preserve meaningful exit, usable portability, and fair interoperability.
-- OP-E: Evaluation must apply all component entries together.
+- OP-E: Evaluation must assess all relevant system components, dependencies, institutional roles, and implementation-layer interactions together.
 - OP-C: It is non-compliant to claim exit integrity when a material component is unmet.
 
 Lock-in and anti-coercion safeguards

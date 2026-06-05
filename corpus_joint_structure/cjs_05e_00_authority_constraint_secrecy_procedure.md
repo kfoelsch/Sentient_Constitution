@@ -108,7 +108,7 @@ Use this rule when legitimacy depends on authorities holding themselves to equal
 
 Cross-implementation reflexive transparency and accountability terms
 - OP-O: Authorities must be transparent, auditable, realistic about enforcement capacity, open to challenge, and protected against corruption.
-- OP-E: Reviewers must apply all components together.
+- OP-E: Reviewers must assess all relevant authorities, system components, dependencies, institutional roles, and implementation-layer interactions together.
 - OP-C: Reflexive accountability is non-compliant when authorities use weaker standards for themselves than for subjects.
 
 Parity and non-exemption floor
@@ -158,7 +158,7 @@ Use this rule when restrictions, least-restrictive choices, or revalidation depe
 
 Cross-implementation burden-of-justification and constraint terms
 - OP-O: Anyone imposing a material restriction must justify it.
-- OP-E: Evaluation must apply all components together.
+- OP-E: Evaluation must assess all relevant system components, dependencies, institutional roles, and implementation-layer interactions together.
 - OP-C: It is non-compliant to impose or maintain a material restriction when a material component is absent or unavailable.
 
 Restriction-burden assignment floor
@@ -198,7 +198,7 @@ Use this rule when secrecy, protected investigations, oversight, or delayed rele
 
 Cross-implementation constrained-secrecy and protected-investigation terms
 - OP-O: Secrecy must be authorized, minimized, temporary, overseen, reconstructable, and subject to later release review.
-- OP-E: Evaluation must apply all components together.
+- OP-E: Evaluation must assess all relevant system components, dependencies, institutional roles, and implementation-layer interactions together.
 - OP-C: It is non-compliant to claim lawful secrecy when a material component is absent or used to bypass audit or challenge.
 
 Authorization and predicate floor
@@ -233,7 +233,7 @@ Use this rule when due process, reviewability, restoration, or enforcement propo
 
 Cross-implementation procedural integrity and adjudication terms
 - OP-O: Procedures must provide due process, independent review, proportional enforcement, accessible restoration, uncertainty safeguards, and anti-abuse limits.
-- OP-E: Evaluation must apply all components together.
+- OP-E: Evaluation must assess all relevant system components, dependencies, institutional roles, and implementation-layer interactions together.
 - OP-C: It is non-compliant to claim procedural integrity when a material component exists only on paper.
 
 Delegated binding body

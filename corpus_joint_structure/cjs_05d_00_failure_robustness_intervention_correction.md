@@ -17,7 +17,7 @@ Use this rule when reliability, signaling, containment, or recovery depends on c
 
 Cross-implementation graceful degradation and failure-mode integrity terms
 - OP-O: Systems must behave honestly and safely under partial failure, uncertainty, or stress.
-- OP-E: Evaluation must apply all component entries together.
+- OP-E: Evaluation must assess all relevant system components, dependencies, institutional roles, and implementation-layer interactions together.
 - OP-C: It is non-compliant to claim graceful degradation when a material component is missing.
 
 Graceful degradation floor and defined failure-mode coverage
@@ -67,7 +67,7 @@ Use this rule when technical intervention, governance authorization, and account
 
 Cross-implementation intervention and override integrity terms
 - OP-O: Systems need timely, accountable ways to interrupt, constrain, or redirect harmful behavior.
-- OP-E: Evaluation must apply all component entries together.
+- OP-E: Evaluation must assess all relevant system components, dependencies, institutional roles, and implementation-layer interactions together.
 - OP-C: It is non-compliant to claim intervention readiness when a material component is absent.
 
 Intervention timeliness and practical control floor
@@ -235,7 +235,7 @@ Use this rule when recurring failures, Correction Urgency Level (**CUL**) assign
 
 Cross-implementation structural review, correction urgency, and disclosure terms
 - OP-O: Systems must detect patterns, assign correction urgency, integrate fixes, keep structural records, and disclose to the right stakeholders.
-- OP-E: Evaluation must apply all components together.
+- OP-E: Evaluation must assess all relevant system components, dependencies, institutional roles, and implementation-layer interactions together.
 - OP-C: It is non-compliant to claim adequate structural correction when a material component is missing, unused, or disconnected from remediation.
 
 Systemic-pattern detection and escalation
