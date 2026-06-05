@@ -4,7 +4,7 @@ This file is the navigation index for cross-implementation operational cluster t
 
 Use these clusters as joint interface terms for combined satisfaction across **CP**, **CS**, **CI**, and **CF**. They supplement the implementation-group label text and owner-file rules; they do not replace either.
 
-| Family | Authoritative subfile | Clusters |
+| Family | Consolidated family file | Clusters |
 |---|---|---|
 | **CJS-5A: Evidence, audit, and claim integrity** | [cjs_05a_00_evidence_audit_claim_integrity.md](cjs_05a_00_evidence_audit_claim_integrity.md) | **CJS-5A.1**, **CJS-5A.2**, **CJS-5A.3**, **CJS-5A.4** |
 | **CJS-5B: Participation, comprehension, and disclosure** | [cjs_05b_00_participation_comprehension_disclosure.md](cjs_05b_00_participation_comprehension_disclosure.md) | **CJS-5B.1**, **CJS-5B.2**, **CJS-5B.3**, **CJS-5B.4** |
