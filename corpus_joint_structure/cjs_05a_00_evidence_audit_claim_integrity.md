@@ -84,6 +84,11 @@ Tier structure and baseline accessibility
 - OP-E: Evaluation must verify that baseline access works for ordinary use, not only in theory.
 - OP-C: Access tiers are non-compliant if the baseline is too thin for meaningful participation or risk review.
 
+Class A/B/C public-interest visibility
+- OP-O: For Class A, Class B, and Class C systems, public baseline access must cover the system purpose, classification, dependency structure, operational status, material risks, performance, failures, governance, audit outcomes, stakeholder effects, and constitutional compliance, subject to `corpus_systems.md` Chapter S1 data handling.
+- OP-E: Evaluation must verify that protected data limits are handled through the maximum feasible public substitute, such as aggregation, de-identification, summary disclosure, delayed disclosure, or qualified audit access.
+- OP-C: It is non-compliant to use privacy, security, confidentiality, proprietary interest, or investigation status to suppress public-interest visibility where a narrower substitute would preserve accountability.
+
 Qualified audit pathways and non-exclusive eligibility
 - OP-O: When full public access is inappropriate, qualified independent audit paths must still exist, and eligibility rules must be public and non-exclusive.
 - OP-E: Evaluation must verify that qualified reviewers can realistically enter those paths and that no actor controls access unfairly.

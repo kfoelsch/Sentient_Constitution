@@ -452,6 +452,12 @@ Therefore, all data must be identified as belonging to one or more of the types 
 
 Handling must align with Sentient Constitution Chapter Ten and scale with system class under Chapter S2. Where data handling supports material portability, audit, repair, continuity, migration, or cross-implementation operation for **Class A**, **Class B**, or **Class C** systems, format, schema, API, and interchange-protocol choices must also satisfy `corpus_joint_structure.md` **CJS-5C.2**.
 
+**Class A/B/C public-interest visibility default.** For **Class A**, **Class B**, and **Class C** systems, data necessary to understand system purpose, classification, dependency structure, operational status, material risks, performance, failures, governance, audit outcomes, stakeholder effects, and constitutional compliance is **public by default**.
+
+This default applies most strongly to **Type C** and **Type G** data. It does **not** convert **Type H**, **Type I**, **Type N**, or **Type S** data into public data. Where privacy, internal-state protection, identity protection, safety, security, or restricted-investigation needs justify limiting raw disclosure, systems must provide the **maximum feasible public substitute**, including aggregation, de-identification, summary disclosure, delayed disclosure, or qualified audit access.
+
+Any restriction must be **narrowly scoped**, **documented**, **proportionate**, **auditable**, and **subject to challenge**. Security or investigation-based restrictions must be **time-bound** and **review-bound** under **Type S**. Restrictions must not conceal systemic behavior, constitutional violations, material risk, dependency, failure, or externalized cost.
+
 ### II. Temporal, systemic, and dependency scope of rights
 Data-handling protections under Chapter S1 apply not only to immediate and direct system effects. They also apply to delayed, cumulative, and indirect impacts arising through system interactions and dependency chains.
 
@@ -1341,6 +1347,8 @@ The operator or responsible party must **determine and document** the system’s
 Classification must be **disclosed** to affected stakeholders at a level appropriate to **system impact**. **It** must be **accessible** without undue effort or technical expertise. **It** must be **sufficiently detailed** for meaningful understanding of scope, risks, and obligations.
 
 **For Class A, B, and C:** Disclosure must include **classification rationale and key assumptions**. **It** must include **identified impact scope and dependency characteristics**. **It** must include **known limitations, uncertainties, and risk factors**.
+
+Class A, B, and C disclosure must also satisfy the **public-interest visibility default** in **Chapter S1 — Information Types and Handling**, including maximum feasible public substitutes where protected data classifications limit raw disclosure.
 
 **3. Auditability and verification.** Classification must be **auditable** with sufficient documentation and evidence.
 
