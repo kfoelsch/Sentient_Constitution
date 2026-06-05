@@ -69,6 +69,8 @@ Do not use a broad reading of CJS to change, shrink, expand, or move a rule that
 ### CJS-4.6 Class-scaled lane staffing and competency redundancy
 Use this rule for **CJS-R18**, class-scaled lane staffing and competency redundancy for materially binding stewardship. It covers roles with materially binding effect under **Chapter Ten**, section **5**, where `corpus_systems.md` **Chapter S2** or **Chapter S3** scales the burden.
 
+Before applying role, role-holder, stewardship, operator, accountable-role, or lane terms in this subsection, apply **CJS-5.0** and the **Chapter Seven**, section **1.2** competency gate interface.
+
 For **constitutional lane** and functional-separation meaning, apply **CJS-5E.1** (*Constitutional lane and functional separation*) with **CI-2**.
 
 For **Class A** and **Class B** systems, each institution that hosts a constitutional lane with materially binding duties must have:
@@ -82,6 +84,8 @@ The constitutional floor remains in `core_11-11_governance.md` **Chapter Eleven*
 
 ### CJS-4.7 Shared procedural abstractions for delegated bodies and forum routing
 This subsection gives shared CJS terms for four procedural router topics: **CJS-R01** delegated binding bodies, **CJS-R02** forum chambers and panels, **CJS-R03** lawful panel formation and recusal, and **CJS-R04** routing, intake, transfer, certification, and representative treatment. Apply the operational evaluation terms in **CJS-5E.6**. This subsection does not replace **CI** or **CF** detail.
+
+Before applying these procedural role terms, apply the role-definition preface in **CJS-5.0**, including the competency gate and standing interface.
 
 - **Delegated binding body:** a standing or recurring body below a parent institution that exercises materially binding delegated authority within a published scope.
 - **Lawful independent forum:** an adjudicative or equivalent merits forum formed under published authority, with required competence, quorum, and conflict-screened independence.
