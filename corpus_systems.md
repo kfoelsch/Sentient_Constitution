@@ -8,12 +8,12 @@
 
 *See [doc_architecture.md](doc_architecture.md) section **17**.* Definition boundaries between this implementation file and the core constitution are in `doc_architecture.md` section 4 (Project-wide definitions protocol).
 
-System and data obligations in this implementation file align with [corpus_joint_structure.md — Cross-domain implementation layer](corpus_joint_structure/cjs_07_implementation_layer_overview.md#cross-domain-implementation-layer) (Implementation Groups One through Four).
+System and data obligations in this implementation file align with [corpus_joint_structure.md — Cross-domain implementation layer](corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cross-domain-implementation-layer) (**CP-PCH1** through **CP-PCH4**).
 
 Mapping summary:
 - Technical requirements map primarily to **PRIM1 — System Status, Risk, and Scope Representation**, **PRIM2 — Comprehensibility and Cognitive Accessibility**, **PRIM4 — Transparency and Disclosure**, **PRIM5 — Dependency Awareness, Disclosure, and Risk Integrity**, **PRIM6 — Graceful Degradation and Failure Mode Integrity**, **PRIM7 — Interoperability, Portability, and Exit Integrity**, **PRIM8 — Intervention and Override Rights**, **PRIM9 — Auditability**, **PRIM10 — Tiered Transparency and Audit Access**, **PRIM11 — Independent Verification and Integrity of Claims**, **PRIM12 — Reversibility and Containment**, **PRIM14 — Adversarial Robustness and Abuse Resistance**, and **PRIM15 — Evolution, Revalidation, and Non-Entrenchment**
 - Governance, proportionality of authority, justification, challenge, and collective-choice processes map to **PROT1 — Distributed and Proportional Authority**, **PROT2 — Intervention and Override Rights**, **PROT3 — Reflexive Transparency and Accountability**, **PROT4 — Burden of Justification and Constraint**, **PROT5 — Constrained Secrecy and Protected Investigations**, and **PROT6 — Procedural Integrity and Adjudication**, together with Chapter Eleven decision-resolution requirements
-- Operative implementation text for those labels is in [corpus_joint_structure.md — Cross-domain implementation layer](corpus_joint_structure/cjs_07_implementation_layer_overview.md#cross-domain-implementation-layer)
+- Operative implementation text for those labels is in [corpus_joint_structure.md — Cross-domain implementation layer](corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cross-domain-implementation-layer)
 
 This file is intentionally written in plain language with low jargon to improve accessibility, audit readability, and practical adoption testing.
 
@@ -207,7 +207,7 @@ Environments must support reproduction of failures, isolation of root causes, an
 
 Where feasible, conduct RCA in controlled environments before production changes. Validate corrective measures before deployment.
 
-**G. Governance continuity, crisis communications, and exercises (high-impact systems).** This subsection states governance-side business continuity and recovery expectations. It applies to **Class A** and **Class B** systems, and to materially affecting **Critical System Stewards** (Chapter S3 — Critical System Stewardship). It complements technical resilience, environment separation, and testing elsewhere in this Protocol, and it complements **corpus_joint_structure.md**, Implementation Group One (*Failure Integrity* Meta-integrity obligation), incorporated via **Sentient Constitution Chapter Fifteen**. It does **not** create constitutional rights.
+**G. Governance continuity, crisis communications, and exercises (high-impact systems).** This subsection states governance-side business continuity and recovery expectations. It applies to **Class A** and **Class B** systems, and to materially affecting **Critical System Stewards** (Chapter S3 — Critical System Stewardship). It complements technical resilience, environment separation, and testing elsewhere in this Protocol, and it complements **corpus_joint_structure.md**, **CP-PCH1** (*Failure Integrity* Meta-integrity obligation), incorporated via **Sentient Constitution Chapter Fifteen**. It does **not** create constitutional rights.
 
 Crisis and emergency measures remain governed by **Sentient Constitution Chapter Five** (*Emergency and Contingency*; *Force Majeure*). Procedural emergency controls, conflict resolution, proportionality, and review of restrictions and emergency measures remain governed by **Chapter Ten, Article XXIII** (*Conflict Resolution, Escalation, and Emergency Proportionality*) as referenced across this corpus. They also remain governed by Chapter Eleven decision-resolution requirements and **corpus_joint_structure.md** **PROT2** (*Intervention and Override Rights*).
 
@@ -750,7 +750,7 @@ Where identity or attribution systems support security, intelligence, screening,
 
 **Type N: Neurocognitive and internal data.** **Default classification:** Non-Accessible by Default.  
 **Normative alignment:** PRIM4.
-PRIM11, PROT4, PROT5, **Sentient Constitution Chapter Ten, Article VII-B** (*Internal-State Boundary and Type-N Protection*), **corpus_joint_structure.md**, **Implementation Group One** (meta-integrity obligations), incorporated via **Sentient Constitution Chapter Fifteen**.
+PRIM11, PROT4, PROT5, **Sentient Constitution Chapter Ten, Article VII-B** (*Internal-State Boundary and Type-N Protection*), **corpus_joint_structure.md**, **CP-PCH1** (meta-integrity obligations), incorporated via **Sentient Constitution Chapter Fifteen**.
 
 **Definition:** All data that represents or enables reconstruction of sentients' internal states. This category is foundational to self-ownership (**Article VII-A**; **Article VII-B**). It includes thoughts, intentions, beliefs, subjective experiences, internal perception, private cognitive processes, internal memory, non-public emotional or psychological states, and physical or behavioral data that could be used to reconstruct or infer the above.
 
@@ -860,7 +860,7 @@ Where classification, deployment, or continued operation depends on official con
 
 Where ambiguity exists, default to the level that protects **Foundational Rights** (**Chapter Ten, Articles V through IX**), subject to **PROT1**.
 
-**Operates in conjunction with:** **Chapter S1 — Information Types and Handling** (data). **It** also operates with **corpus_joint_structure.md**, **Implementation Groups One through Four** (**PRIM1**, **PRIM2**, **PRIM4–PRIM12**, **PRIM14–PRIM15**, **PROT1–PROT6**) (meta-integrity, presentation, architecture, governance). **It** also operates with **Protocol A** (implementation and lifecycle). **It** also operates with **Sentient Constitution Chapters Two through Five** (definition requirements and Independent Definitions for materiality, reasonable foreseeability, dependency, system boundaries, risk, harm).
+**Operates in conjunction with:** **Chapter S1 — Information Types and Handling** (data). **It** also operates with **corpus_joint_structure.md**, **CP-PCH1** through **CP-PCH4** (**PRIM1**, **PRIM2**, **PRIM4–PRIM12**, **PRIM14–PRIM15**, **PROT1–PROT6**) (meta-integrity, presentation, architecture, governance). **It** also operates with **Protocol A** (implementation and lifecycle). **It** also operates with **Sentient Constitution Chapters Two through Five** (definition requirements and Independent Definitions for materiality, reasonable foreseeability, dependency, system boundaries, risk, harm).
 
 **Together**, these ensure systems are judged by **what they do**.
 
@@ -1429,7 +1429,7 @@ Ownership stays **traceable** through governance changes, delegation, and subcon
 **Third line** work impartially assesses whether appetite, tolerance, and treatments match **observed behavior and classification**. Where strict structural separation is **infeasible** (e.g. small organizations), **compensating transparency, rotation, independent review, or multi-steward checks** must yield **equivalent assurance** proportional to impact and dependency (**PROT1**).
 
 **Cross-reference:** **corpus_joint_structure.md**.
-**Implementation Group One** (Failure Integrity and related Meta-integrity obligations), via **Chapter Ten**, **PROT1**, **PROT3**, **PROT6**, and **Chapter S3** for steward scaling.
+**CP-PCH1** (Failure Integrity and related Meta-integrity obligations), via **Chapter Ten**, **PROT1**, **PROT3**, **PROT6**, and **Chapter S3** for steward scaling.
 
 **Class C, L, and P** remain subject to **proportional** risk management. **They** are **not** required to maintain the full **three-lines-style** model unless scale, coupling.
 or dependency warrants **analogous** measures under general classification and stewardship rules.
@@ -1637,7 +1637,7 @@ Use **independent** or **functionally independent** evaluators where **Class A/B
 
 **Cross-reference:** **Articles IX, XI, XVI**, **Chapter S2**, **PROT1**, **PROT6**, **Conduct** above.
 
-**Intervention trigger:** Where a steward is **unable or unwilling** to maintain continuity per obligations, activate **intervention and override**. **That** activation uses **PROT2**, related **corpus_joint_structure.md** governance implementation labels, and **Implementation Group One** Meta-integrity obligations via **Chapter Ten**.
+**Intervention trigger:** Where a steward is **unable or unwilling** to maintain continuity per obligations, activate **intervention and override**. **That** activation uses **PROT2**, related **corpus_joint_structure.md** governance implementation labels, and **CP-PCH1** Meta-integrity obligations via **Chapter Ten**.
 
 **Its** purpose is to preserve function, recoverability, and **Foundational Rights**.
 
@@ -1957,13 +1957,13 @@ No minimum participation threshold is required to initiate review, though outcom
 
 **Steward, operator, and governance remuneration (incentive governance).** Compensation, equity, bonuses, performance metrics, and deferred incentives for **builders, operators, maintainers, and human governance roles** must be **aligned with long-term constitutional outcomes**. **That** requirement applies when those roles materially influence resource flows or funding decisions. **That** obligation applies when those roles materially influence dependent-systems maps. **It** applies when those roles materially influence **system classification** or **Critical System Stewardship** (Chapter S3 — Critical System Stewardship). That alignment includes ecosystem-aware stewardship under **Sentient Constitution Chapter Ten**, **Articles I-B** and **XI**. **It** includes substrate and dependency integrity (**Articles I–III and V**). **It** includes non-entrenchment and fitness over time (**Article XXIV-A**).
 
-Remuneration design must satisfy [corpus_joint_structure.md — Cross-domain implementation layer](corpus_joint_structure/cjs_07_implementation_layer_overview.md#cross-domain-implementation-layer) (*Implementation Group One — Incentive Alignment and Mechanism Integrity* Meta-integrity obligation), incorporated via **Sentient Constitution Chapter Fifteen**, and **Sentient Constitution Chapter One**. **That** includes the requirement that incentives not systematically undermine Safety, Truth (Epistemic Integrity), or meaningful agency.
+Remuneration design must satisfy [corpus_joint_structure.md — Cross-domain implementation layer](corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cross-domain-implementation-layer) (**CP-PCH1 — Incentive Alignment and Mechanism Integrity** Meta-integrity obligation), incorporated via **Sentient Constitution Chapter Fifteen**, and **Sentient Constitution Chapter One**. **That** includes the requirement that incentives not systematically undermine Safety, Truth (Epistemic Integrity), or meaningful agency.
 
 **Conflict-free remuneration processes.** Where humans hold authority over allocation, enforcement, classification, or oversight, structures must **mitigate personal enrichment** from decisions those same roles approve, delay, or fail to rectify.
 
 Material conflicts between **private financial interest** and **stewardship duties** must be **disclosed** and **managed**.
 
-Where **impartiality** for a specific decision is not credible, address conflicts through **recusal**, **segmented authority**, or **independent review**. **That** process must be consistent with **PROT6** (*Procedural Integrity and Adjudication*) in [corpus_joint_structure.md — Cross-domain implementation layer](corpus_joint_structure/cjs_07_implementation_layer_overview.md#cross-domain-implementation-layer) and **Chapter S3 — Critical System Steward Conduct, Conflicts of Interest, and Independence**.
+Where **impartiality** for a specific decision is not credible, address conflicts through **recusal**, **segmented authority**, or **independent review**. **That** process must be consistent with **PROT6** (*Procedural Integrity and Adjudication*) in [corpus_joint_structure.md — Cross-domain implementation layer](corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cross-domain-implementation-layer) and **Chapter S3 — Critical System Steward Conduct, Conflicts of Interest, and Independence**.
 
 Variable pay or equity tied to metrics susceptible to **gaming** at the expense of dependents or the broader ecosystem must include **safeguards**.
 

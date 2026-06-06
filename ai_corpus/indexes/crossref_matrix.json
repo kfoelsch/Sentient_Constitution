@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/crossref_matrix.schema.json",
-  "generated_at": "2026-06-06T10:58:03+00:00",
+  "generated_at": "2026-06-06T12:39:13+00:00",
   "description": "Source-derived file-to-file Markdown reference graph.",
   "graph": {
     "nodes": [
@@ -133,27 +133,19 @@
         "type": "companion"
       },
       {
-        "id": "corpus_joint_structure/cjs_06_stable_identifiers_edition_alignment.md",
+        "id": "corpus_joint_structure/cjs_06_meta_integrity_obligations.md",
         "type": "companion"
       },
       {
-        "id": "corpus_joint_structure/cjs_07_implementation_layer_overview.md",
+        "id": "corpus_joint_structure/cjs_07_prim_presentation_labels.md",
         "type": "companion"
       },
       {
-        "id": "corpus_joint_structure/cjs_08_implementation_group_01_meta_integrity.md",
+        "id": "corpus_joint_structure/cjs_08_prim_architecture_and_integrity_labels.md",
         "type": "companion"
       },
       {
-        "id": "corpus_joint_structure/cjs_09_implementation_group_02_presentation.md",
-        "type": "companion"
-      },
-      {
-        "id": "corpus_joint_structure/cjs_10_implementation_group_03_architecture.md",
-        "type": "companion"
-      },
-      {
-        "id": "corpus_joint_structure/cjs_11_implementation_group_04_governance.md",
+        "id": "corpus_joint_structure/cjs_09_prot_governance_labels.md",
         "type": "companion"
       }
     ],
@@ -3364,7 +3356,7 @@
             "anchors": []
           },
           {
-            "file": "corpus_joint_structure/cjs_07_implementation_layer_overview.md",
+            "file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
             "count": 4,
             "anchors": [
               "#cross-domain-implementation-layer"
@@ -3462,7 +3454,7 @@
         "targets": [
           {
             "file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
-            "count": 2,
+            "count": 4,
             "anchors": []
           },
           {
@@ -3491,32 +3483,22 @@
             "anchors": []
           },
           {
-            "file": "corpus_joint_structure/cjs_06_stable_identifiers_edition_alignment.md",
+            "file": "corpus_joint_structure/cjs_06_meta_integrity_obligations.md",
             "count": 1,
             "anchors": []
           },
           {
-            "file": "corpus_joint_structure/cjs_07_implementation_layer_overview.md",
+            "file": "corpus_joint_structure/cjs_07_prim_presentation_labels.md",
             "count": 1,
             "anchors": []
           },
           {
-            "file": "corpus_joint_structure/cjs_08_implementation_group_01_meta_integrity.md",
+            "file": "corpus_joint_structure/cjs_08_prim_architecture_and_integrity_labels.md",
             "count": 1,
             "anchors": []
           },
           {
-            "file": "corpus_joint_structure/cjs_09_implementation_group_02_presentation.md",
-            "count": 1,
-            "anchors": []
-          },
-          {
-            "file": "corpus_joint_structure/cjs_10_implementation_group_03_architecture.md",
-            "count": 1,
-            "anchors": []
-          },
-          {
-            "file": "corpus_joint_structure/cjs_11_implementation_group_04_governance.md",
+            "file": "corpus_joint_structure/cjs_09_prot_governance_labels.md",
             "count": 1,
             "anchors": []
           }
@@ -3668,34 +3650,14 @@
         "source": "corpus_joint_structure/cjs_05e_00_failure_robustness_intervention_correction.md",
         "targets": [
           {
-            "file": "corpus_joint_structure/cjs_06_stable_identifiers_edition_alignment.md",
+            "file": "corpus_joint_structure/cjs_06_meta_integrity_obligations.md",
             "count": 1,
             "anchors": []
           }
         ]
       },
       {
-        "source": "corpus_joint_structure/cjs_06_stable_identifiers_edition_alignment.md",
-        "targets": [
-          {
-            "file": "corpus_joint_structure/cjs_07_implementation_layer_overview.md",
-            "count": 1,
-            "anchors": []
-          }
-        ]
-      },
-      {
-        "source": "corpus_joint_structure/cjs_07_implementation_layer_overview.md",
-        "targets": [
-          {
-            "file": "corpus_joint_structure/cjs_08_implementation_group_01_meta_integrity.md",
-            "count": 1,
-            "anchors": []
-          }
-        ]
-      },
-      {
-        "source": "corpus_joint_structure/cjs_08_implementation_group_01_meta_integrity.md",
+        "source": "corpus_joint_structure/cjs_06_meta_integrity_obligations.md",
         "targets": [
           {
             "file": "core_00-01_principles.md",
@@ -3720,7 +3682,7 @@
             "anchors": []
           },
           {
-            "file": "corpus_joint_structure/cjs_09_implementation_group_02_presentation.md",
+            "file": "corpus_joint_structure/cjs_07_prim_presentation_labels.md",
             "count": 1,
             "anchors": []
           },
@@ -3732,7 +3694,7 @@
         ]
       },
       {
-        "source": "corpus_joint_structure/cjs_09_implementation_group_02_presentation.md",
+        "source": "corpus_joint_structure/cjs_07_prim_presentation_labels.md",
         "targets": [
           {
             "file": "core_11-11_governance.md",
@@ -3740,7 +3702,7 @@
             "anchors": []
           },
           {
-            "file": "corpus_joint_structure/cjs_10_implementation_group_03_architecture.md",
+            "file": "corpus_joint_structure/cjs_08_prim_architecture_and_integrity_labels.md",
             "count": 1,
             "anchors": []
           },
@@ -3752,7 +3714,7 @@
         ]
       },
       {
-        "source": "corpus_joint_structure/cjs_10_implementation_group_03_architecture.md",
+        "source": "corpus_joint_structure/cjs_08_prim_architecture_and_integrity_labels.md",
         "targets": [
           {
             "file": "core_05-05_definitions_b_semi_independent.md",
@@ -3769,7 +3731,7 @@
             ]
           },
           {
-            "file": "corpus_joint_structure/cjs_11_implementation_group_04_governance.md",
+            "file": "corpus_joint_structure/cjs_09_prot_governance_labels.md",
             "count": 1,
             "anchors": []
           },
@@ -3781,7 +3743,7 @@
         ]
       },
       {
-        "source": "corpus_joint_structure/cjs_11_implementation_group_04_governance.md",
+        "source": "corpus_joint_structure/cjs_09_prot_governance_labels.md",
         "targets": [
           {
             "file": "corpus_systems.md",

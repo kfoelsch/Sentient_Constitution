@@ -301,4 +301,4 @@ Stakeholder scope and targeted transparency
 
 ---
 
-**Next file:** [cjs_06_stable_identifiers_edition_alignment.md](cjs_06_stable_identifiers_edition_alignment.md)
+**Next file:** [cjs_06_meta_integrity_obligations.md](cjs_06_meta_integrity_obligations.md)

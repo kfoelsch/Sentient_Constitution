@@ -1,5 +1,5 @@
-## IMPLEMENTATION GROUP FOUR: GOVERNANCE
-Implementation Group Four states governance-layer abstractions only. Detailed institutional, adjudicative, collective-choice, transition, and domain-operational mechanics remain with their canonical owner files and applicable **CJS** read-with sections.
+## CP-PCH4 — PROT Governance Labels
+This file states governance-layer abstractions only. Detailed institutional, adjudicative, collective-choice, transition, and domain-operational mechanics remain with their canonical owner files and applicable **CJS** read-with sections.
 
 ### PROT1 — Governance Implementation label: Distributed and Proportional Authority
 Principles: **Plural Authority and Anti-Capture** through distributed oversight, proportional governance, and participation legitimacy.
@@ -47,7 +47,7 @@ Principles: **Necessity and Proportionality** by placing burden on restrictors a
 
 **PROT4** places the **burden** on the party **proposing or implementing** material restrictions on rights, participation, transparency, or system operation. It does **not** substitute for or weaken **Chapter Two** requirements. Any such action must satisfy a **consistent, auditable** standard.
 
-**Innovation exclusivity claims:** This same burden applies to claimed patent-like, copyright-like, trade-secret-like, license-based, or technical exclusivity where the claim would materially restrict repair, interoperability, reverse engineering for compatibility or safety, migration, disclosure, research, education, or public-interest implementation. Constitutional meaning is anchored in **Sentient Constitution Chapter Five** (*Innovation Reward and Anti-Enclosure*) together with **Article XVII-D**. Operational implementation and class-scaled constraints are in **Implementation Group Three** at **PRIM7**. Apply those anchors here; do not redefine or narrow them.
+**Innovation exclusivity claims:** This same burden applies to claimed patent-like, copyright-like, trade-secret-like, license-based, or technical exclusivity where the claim would materially restrict repair, interoperability, reverse engineering for compatibility or safety, migration, disclosure, research, education, or public-interest implementation. Constitutional meaning is anchored in **Sentient Constitution Chapter Five** (*Innovation Reward and Anti-Enclosure*) together with **Article XVII-D**. Operational implementation and class-scaled constraints are in **CP-PCH3** at **PRIM7**. Apply those anchors here; do not redefine or narrow them.
 
 Implementation and cross-implementation operational definitions for restriction-burden assignment, least-restrictive proof, disclosure/challenge sufficiency, temporal revalidation, and innovation-exclusivity anti-enclosure application are maintained in **CJS-5A.4** (*Implementation and cross-implementation burden-of-justification and constraint terms*). Apply that subsection as required read-with for this **PROT4** implementation scope.
 

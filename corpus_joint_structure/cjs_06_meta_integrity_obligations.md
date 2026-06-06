@@ -1,13 +1,13 @@
-## IMPLEMENTATION GROUP ONE: META-INTEGRITY
+## CP-PCH1 — Meta-Integrity Obligations
 Meta-integrity obligations are system-level obligations for all constitutional systems, including governance and institutions. They state the cross-domain floors for design, assessment, and evolution. Where they specify capabilities such as detection, attribution, mitigation, auditability, or adaptation, they require functional properties only.
 
-Meta-integrity obligations define **universal constitutional floors**. Joint satisfaction conditions for the same facts across the **CJS implementation-group files**, **CS**, **CI**, and **CF** are governed by the **CJS folder** (**CJS-2**, **CJS-3**) and do not create separate Meta-integrity obligation substance.
+Meta-integrity obligations define **universal constitutional floors**. Joint satisfaction conditions for the same facts across the **CJS implementation-label files**, **CS**, **CI**, and **CF** are governed by the **CJS folder** (**CJS-2**, **CJS-3**) and do not create separate Meta-integrity obligation substance.
 
 No implementation may weaken, bypass, or redefine Meta-integrity obligation constraints.
 
 Where implementation labels or domains conflict, Meta-integrity obligations govern subject to **Sentient Constitution Chapter One** (proportionality, necessity, conflict resolution). Later chapters must realize these floors, not dilute them.
 
-Meta-integrity obligations do **not** prescribe procedural implementations, enforcement mechanics, or workflows. Those belong in **Implementation Groups Two through Four** (**presentation**, **architecture**, **integrity**, **governance**), which realize these floors as stable implementation-label requirements.
+Meta-integrity obligations do **not** prescribe procedural implementations, enforcement mechanics, or workflows. Those belong in the **PRIM** and **PROT** implementation-label files (**presentation**, **architecture**, **integrity**, **governance**), which realize these floors as stable implementation-label requirements.
 
 **Constitutional index (abridged)**
 - Topic-level routing and cited authorities remain in subsection text and cross-references.
@@ -131,4 +131,4 @@ Unless a section states otherwise, when implementation or cross-implementation s
 
 ---
 
-**Next file:** [cjs_09_implementation_group_02_presentation.md](cjs_09_implementation_group_02_presentation.md)
+**Next file:** [cjs_07_prim_presentation_labels.md](cjs_07_prim_presentation_labels.md)

@@ -16,12 +16,12 @@
 | CJS-3: Joint structural obligations | [cjs_03_joint_structural_obligations.md](corpus_joint_structure/cjs_03_joint_structural_obligations.md) |
 | CJS-4: Specific joint interlocks and shared abstractions | [cjs_04_specific_joint_interlocks.md](corpus_joint_structure/cjs_04_specific_joint_interlocks.md) |
 | CJS-5: Cross-implementation operational cluster library (family and cluster index) | [cjs_05_cross_implementation_operational_terms.md](corpus_joint_structure/cjs_05_cross_implementation_operational_terms.md) |
-| CJS-6: Stable section identifiers, edition alignment, and drafting notes | [cjs_06_stable_identifiers_edition_alignment.md](corpus_joint_structure/cjs_06_stable_identifiers_edition_alignment.md) |
-| Cross-domain implementation layer overview | [cjs_07_implementation_layer_overview.md](corpus_joint_structure/cjs_07_implementation_layer_overview.md) |
-| Implementation Group One: Meta-Integrity | [cjs_08_implementation_group_01_meta_integrity.md](corpus_joint_structure/cjs_08_implementation_group_01_meta_integrity.md) |
-| Implementation Group Two: Presentation | [cjs_09_implementation_group_02_presentation.md](corpus_joint_structure/cjs_09_implementation_group_02_presentation.md) |
-| Implementation Group Three: Architecture | [cjs_10_implementation_group_03_architecture.md](corpus_joint_structure/cjs_10_implementation_group_03_architecture.md) |
-| Implementation Group Four: Governance | [cjs_11_implementation_group_04_governance.md](corpus_joint_structure/cjs_11_implementation_group_04_governance.md) |
+| Stable identifiers, edition alignment, and drafting notes | [cjs_00_registry_and_reading_rules.md](corpus_joint_structure/cjs_00_registry_and_reading_rules.md) |
+| Cross-domain implementation layer overview | [cjs_00_registry_and_reading_rules.md](corpus_joint_structure/cjs_00_registry_and_reading_rules.md) |
+| CP-PCH1: Meta-integrity obligations | [cjs_06_meta_integrity_obligations.md](corpus_joint_structure/cjs_06_meta_integrity_obligations.md) |
+| CP-PCH2: PRIM presentation labels | [cjs_07_prim_presentation_labels.md](corpus_joint_structure/cjs_07_prim_presentation_labels.md) |
+| CP-PCH3: PRIM architecture and integrity labels | [cjs_08_prim_architecture_and_integrity_labels.md](corpus_joint_structure/cjs_08_prim_architecture_and_integrity_labels.md) |
+| CP-PCH4: PROT governance labels | [cjs_09_prot_governance_labels.md](corpus_joint_structure/cjs_09_prot_governance_labels.md) |
 
 ---
 

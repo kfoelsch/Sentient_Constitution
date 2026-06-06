@@ -39,7 +39,7 @@ This file does not create a separate authority stack. Use the constitutional **A
 - **CJS-2** states the read order, owner routing, and **stricter-wins** rule among **CP**, **CS**, **CI**, and **CF**.
 
 ### CJS-1.2: Section identifiers and article references
-Headings use **CJS-1** through **CJS-6**, meaning *Corpus joint structure* section *n*. Subsections use **CJS-*n*.*m***, such as **CJS-2.2**. These are not Sentient Constitution **Article** numbers. The abbreviation **CJS** matches `doc_architecture.md`, where it means the *Corpus joint structure* implementation file.
+Headings use **CJS-1** through **CJS-5**, meaning *Corpus joint structure* section *n*. Subsections use **CJS-*n*.*m***, such as **CJS-2.2**. These are not Sentient Constitution **Article** numbers. The abbreviation **CJS** matches `doc_architecture.md`, where it means the *Corpus joint structure* implementation file.
 
 Unless a section says otherwise, **Article** labels with Roman numerals that point to the Sentient Constitution Chapter Ten part files (`core_10-10_rights_part_*.md`) refer to the canonical `### Article ...` headings in those files.
 

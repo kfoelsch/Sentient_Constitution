@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-06-06T10:58:03+00:00",
+  "generated_at": "2026-06-06T12:39:13+00:00",
   "files": {
     "core_00-01_principles.md": {
       "total_lines": 1506,
@@ -5217,13 +5217,13 @@
       ]
     },
     "corpus_institutions.md": {
-      "total_lines": 952,
+      "total_lines": 958,
       "sections": [
         {
           "header": "Constitutional Institutions",
           "level": 1,
           "line_start": 1,
-          "line_end": 952,
+          "line_end": 958,
           "anchor": null
         },
         {
@@ -5510,119 +5510,119 @@
           "header": "CI-13: Institutional failure, sanctions, dissolution, and accountability",
           "level": 2,
           "line_start": 643,
-          "line_end": 660,
+          "line_end": 666,
           "anchor": null
         },
         {
           "header": "CI-14: Transitional governance and institutional evolution",
           "level": 2,
-          "line_start": 661,
-          "line_end": 712,
+          "line_start": 667,
+          "line_end": 718,
           "anchor": null
         },
         {
           "header": "CI-14.1: Interface — Article XXV-D (non-compliant property, seizure, voluntary incentives)",
           "level": 3,
-          "line_start": 672,
-          "line_end": 690,
+          "line_start": 678,
+          "line_end": 696,
           "anchor": null
         },
         {
           "header": "CI-14.2: Article XXV-D — trigger catalog, anti-abuse metrics, and publication requirements",
           "level": 3,
-          "line_start": 691,
-          "line_end": 712,
+          "line_start": 697,
+          "line_end": 718,
           "anchor": null
         },
         {
           "header": "CI-15: Vulnerable personal services markets — general regulation and Article X-C interface",
           "level": 2,
-          "line_start": 713,
-          "line_end": 746,
+          "line_start": 719,
+          "line_end": 752,
           "anchor": null
         },
         {
           "header": "CI-15A: Innovation reward, disclosure, and anti-enclosure",
           "level": 2,
-          "line_start": 747,
-          "line_end": 774,
+          "line_start": 753,
+          "line_end": 780,
           "anchor": null
         },
         {
           "header": "CI-15B: Scientific publication, peer review, replication, and evidence stewardship",
           "level": 2,
-          "line_start": 775,
-          "line_end": 800,
+          "line_start": 781,
+          "line_end": 806,
           "anchor": null
         },
         {
           "header": "CI-17: Community life, voluntary association, and non-instrumental time",
           "level": 2,
-          "line_start": 801,
-          "line_end": 812,
+          "line_start": 807,
+          "line_end": 818,
           "anchor": null
         },
         {
           "header": "CI-18: End-of-life continuity, memorial dignity, and posthumous-data stewardship",
           "level": 2,
-          "line_start": 813,
-          "line_end": 826,
+          "line_start": 819,
+          "line_end": 832,
           "anchor": null
         },
         {
           "header": "CI-19: Care labor, dependent support, respite, and care-economy fairness",
           "level": 2,
-          "line_start": 827,
-          "line_end": 840,
+          "line_start": 833,
+          "line_end": 846,
           "anchor": null
         },
         {
           "header": "CI-20: Relational coercive control, intimate power, and anti-domination routing",
           "level": 2,
-          "line_start": 841,
-          "line_end": 852,
+          "line_start": 847,
+          "line_end": 858,
           "anchor": null
         },
         {
           "header": "CI-21: Commons, cooperatives, mutual aid, and non-market community governance",
           "level": 2,
-          "line_start": 853,
-          "line_end": 864,
+          "line_start": 859,
+          "line_end": 870,
           "anchor": null
         },
         {
           "header": "CI-22: Place-based stewardship, Indigenous continuity, and consultation routes",
           "level": 2,
-          "line_start": 865,
-          "line_end": 874,
+          "line_start": 871,
+          "line_end": 880,
           "anchor": null
         },
         {
           "header": "CI-23: Neurodiversity, disability justice, and trauma-informed participation",
           "level": 2,
-          "line_start": 875,
-          "line_end": 884,
+          "line_start": 881,
+          "line_end": 890,
           "anchor": null
         },
         {
           "header": "CI-24: Collective public health, epidemic response, and addiction-informed care",
           "level": 2,
-          "line_start": 885,
-          "line_end": 896,
+          "line_start": 891,
+          "line_end": 902,
           "anchor": null
         },
         {
           "header": "CI-16: Compliance mapping and stable registry",
           "level": 2,
-          "line_start": 897,
-          "line_end": 941,
+          "line_start": 903,
+          "line_end": 947,
           "anchor": null
         },
         {
           "header": "Implementation notes",
           "level": 2,
-          "line_start": 942,
-          "line_end": 952,
+          "line_start": 948,
+          "line_end": 958,
           "anchor": null
         }
       ]
@@ -6282,20 +6282,34 @@
       ]
     },
     "corpus_joint_structure/cjs_00_registry_and_reading_rules.md": {
-      "total_lines": 39,
+      "total_lines": 65,
       "sections": [
         {
           "header": "Constitutional joint structure",
           "level": 1,
           "line_start": 1,
-          "line_end": 39,
+          "line_end": 65,
           "anchor": null
         },
         {
           "header": "Joint Structure Registry",
           "level": 2,
           "line_start": 26,
-          "line_end": 39,
+          "line_end": 35,
+          "anchor": null
+        },
+        {
+          "header": "Stable identifiers, edition alignment, and drafting notes",
+          "level": 2,
+          "line_start": 36,
+          "line_end": 51,
+          "anchor": null
+        },
+        {
+          "header": "Cross-domain implementation layer",
+          "level": 2,
+          "line_start": 52,
+          "line_end": 65,
           "anchor": null
         }
       ]
@@ -6522,7 +6536,7 @@
       ]
     },
     "corpus_joint_structure/cjs_05a_00_authority_constraint_secrecy_procedure.md": {
-      "total_lines": 353,
+      "total_lines": 355,
       "sections": [
         {
           "header": "CJS-5A: Authority, constraint, secrecy, and procedure",
@@ -6556,27 +6570,27 @@
           "header": "CJS-5A.4 Implementation and cross-implementation burden-of-justification and constraint terms",
           "level": 2,
           "line_start": 185,
-          "line_end": 233,
+          "line_end": 235,
           "anchor": null
         },
         {
           "header": "CJS-5A.5 Implementation and cross-implementation constrained-secrecy and protected-investigation terms",
           "level": 2,
-          "line_start": 234,
-          "line_end": 278,
+          "line_start": 236,
+          "line_end": 280,
           "anchor": null
         },
         {
           "header": "CJS-5A.6 Implementation and cross-implementation procedural integrity and adjudication terms",
           "level": 2,
-          "line_start": 279,
-          "line_end": 353,
+          "line_start": 281,
+          "line_end": 355,
           "anchor": null
         }
       ]
     },
     "corpus_joint_structure/cjs_05b_00_evidence_audit_claim_integrity.md": {
-      "total_lines": 167,
+      "total_lines": 169,
       "sections": [
         {
           "header": "CJS-5B: Evidence, audit, and claim integrity",
@@ -6603,14 +6617,14 @@
           "header": "CJS-5B.3 Implementation and cross-implementation tiered transparency and audit-access terms",
           "level": 2,
           "line_start": 84,
-          "line_end": 130,
+          "line_end": 132,
           "anchor": null
         },
         {
           "header": "CJS-5B.4 Implementation and cross-implementation independent verification and claim-integrity terms",
           "level": 2,
-          "line_start": 131,
-          "line_end": 167,
+          "line_start": 133,
+          "line_end": 169,
           "anchor": null
         }
       ]
@@ -6689,7 +6703,7 @@
       ]
     },
     "corpus_joint_structure/cjs_05e_00_failure_robustness_intervention_correction.md": {
-      "total_lines": 302,
+      "total_lines": 304,
       "sections": [
         {
           "header": "CJS-5E: Failure, robustness, intervention, and correction",
@@ -6709,61 +6723,37 @@
           "header": "CJS-5E.2 Implementation and cross-implementation intervention and override integrity terms",
           "level": 2,
           "line_start": 73,
-          "line_end": 136,
+          "line_end": 138,
           "anchor": null
         },
         {
           "header": "CJS-5E.3 Implementation and cross-implementation reversibility and containment terms",
           "level": 2,
-          "line_start": 137,
-          "line_end": 174,
+          "line_start": 139,
+          "line_end": 176,
           "anchor": null
         },
         {
           "header": "CJS-5E.4 Implementation and cross-implementation adversarial robustness and abuse-resistance terms",
           "level": 2,
-          "line_start": 175,
-          "line_end": 257,
+          "line_start": 177,
+          "line_end": 259,
           "anchor": null
         },
         {
           "header": "CJS-5E.5 Implementation and cross-implementation structural review, correction urgency, and disclosure terms",
           "level": 2,
-          "line_start": 258,
-          "line_end": 302,
+          "line_start": 260,
+          "line_end": 304,
           "anchor": null
         }
       ]
     },
-    "corpus_joint_structure/cjs_06_stable_identifiers_edition_alignment.md": {
-      "total_lines": 19,
-      "sections": [
-        {
-          "header": "CJS-6: Stable section identifiers, edition alignment, and drafting notes",
-          "level": 2,
-          "line_start": 1,
-          "line_end": 19,
-          "anchor": null
-        }
-      ]
-    },
-    "corpus_joint_structure/cjs_07_implementation_layer_overview.md": {
-      "total_lines": 16,
-      "sections": [
-        {
-          "header": "Cross-domain implementation layer",
-          "level": 2,
-          "line_start": 1,
-          "line_end": 16,
-          "anchor": null
-        }
-      ]
-    },
-    "corpus_joint_structure/cjs_08_implementation_group_01_meta_integrity.md": {
+    "corpus_joint_structure/cjs_06_meta_integrity_obligations.md": {
       "total_lines": 134,
       "sections": [
         {
-          "header": "IMPLEMENTATION GROUP ONE: META-INTEGRITY",
+          "header": "CP-PCH1 — Meta-Integrity Obligations",
           "level": 2,
           "line_start": 1,
           "line_end": 134,
@@ -6799,11 +6789,11 @@
         }
       ]
     },
-    "corpus_joint_structure/cjs_09_implementation_group_02_presentation.md": {
+    "corpus_joint_structure/cjs_07_prim_presentation_labels.md": {
       "total_lines": 118,
       "sections": [
         {
-          "header": "IMPLEMENTATION GROUP TWO: PRESENTATION",
+          "header": "CP-PCH2 — PRIM Presentation Labels",
           "level": 2,
           "line_start": 1,
           "line_end": 118,
@@ -6832,11 +6822,11 @@
         }
       ]
     },
-    "corpus_joint_structure/cjs_10_implementation_group_03_architecture.md": {
+    "corpus_joint_structure/cjs_08_prim_architecture_and_integrity_labels.md": {
       "total_lines": 165,
       "sections": [
         {
-          "header": "IMPLEMENTATION GROUP THREE: ARCHITECTURE",
+          "header": "CP-PCH3 — PRIM Architecture and Integrity Labels",
           "level": 2,
           "line_start": 1,
           "line_end": 165,
@@ -6914,11 +6904,11 @@
         }
       ]
     },
-    "corpus_joint_structure/cjs_11_implementation_group_04_governance.md": {
+    "corpus_joint_structure/cjs_09_prot_governance_labels.md": {
       "total_lines": 97,
       "sections": [
         {
-          "header": "IMPLEMENTATION GROUP FOUR: GOVERNANCE",
+          "header": "CP-PCH4 — PROT Governance Labels",
           "level": 2,
           "line_start": 1,
           "line_end": 97,

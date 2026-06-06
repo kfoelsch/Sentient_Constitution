@@ -15,7 +15,7 @@ This family collects the operational clusters that make affected-party participa
 Use this rule when participation or quorum rules affect materially binding outcomes within a standalone system, institution, forum, or bounded decision domain, or across more than one implementation file.
 
 Read it with:
-- **Implementation Group Four**, including **PROT1 — Distributed and Proportional Authority** and **PROT6 — Procedural Integrity and Adjudication**
+- **CP-PCH4 — PROT Governance Labels**, including **PROT1 — Distributed and Proportional Authority** and **PROT6 — Procedural Integrity and Adjudication**
 - **Sentient Constitution Chapter Eleven** section 4
 - **Chapter Ten Article IX-C**
 - **Chapter Ten Article XI**

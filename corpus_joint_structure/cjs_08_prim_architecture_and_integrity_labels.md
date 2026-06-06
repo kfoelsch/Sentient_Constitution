@@ -1,4 +1,4 @@
-## IMPLEMENTATION GROUP THREE: ARCHITECTURE
+## CP-PCH3 — PRIM Architecture and Integrity Labels
 ### PRIM5 — Architecture Implementation label: Dependency Awareness, Disclosure, and Risk Integrity
 Principles: **Safety and Accountability** through explicit dependency mapping, criticality disclosure, and anti-evasion controls.
 
@@ -90,7 +90,7 @@ Principles: **Truth and Trustworthiness** through independent, reproducible, and
 
 Articles: Apply with **Sentient Constitution Chapter Fifteen** (trust and incorporation bridge) and **Chapter Ten** rights protections where material claims shape rights-relevant decisions.
 
-**Constitutional anchor:** Independent verification carries out the **trust-as-verifiable-trustworthiness** **framing** of **Sentient Constitution Chapter Fifteen** and **Chapter Five** (*Trust*, *Trustworthiness*) in the **integrity** domain, including the incorporated **Implementation Group One** trust floor.
+**Constitutional anchor:** Independent verification carries out the **trust-as-verifiable-trustworthiness** **framing** of **Sentient Constitution Chapter Fifteen** and **Chapter Five** (*Trust*, *Trustworthiness*) in the **integrity** domain, including the incorporated **CP-PCH1** trust floor.
 
 **Definitions:** Apply with **Chapter Five** definitions for *Trust*, *Trustworthiness*, *Epistemic Integrity*, and *Trust Degradation and Misleading Reliance*.
 
@@ -162,4 +162,4 @@ All covered systems and structures must **undergo periodic revalidation**, remai
 
 ---
 
-**Next file:** [cjs_11_implementation_group_04_governance.md](cjs_11_implementation_group_04_governance.md)
+**Next file:** [cjs_09_prot_governance_labels.md](cjs_09_prot_governance_labels.md)

@@ -1,4 +1,4 @@
-## IMPLEMENTATION GROUP TWO: PRESENTATION
+## CP-PCH2 — PRIM Presentation Labels
 ### PRIM1 — Presentation Implementation label: System Status, Risk, and Scope Representation
 Principles: **Truth and Epistemic Integrity** through accurate status, scope, uncertainty, and risk representation.
 
@@ -115,4 +115,4 @@ Where ranking, recommendation, or prioritization mechanisms materially shape vis
 
 ---
 
-**Next file:** [cjs_10_implementation_group_03_architecture.md](cjs_10_implementation_group_03_architecture.md)
+**Next file:** [cjs_08_prim_architecture_and_integrity_labels.md](cjs_08_prim_architecture_and_integrity_labels.md)
