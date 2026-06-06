@@ -12,7 +12,10 @@ This family collects the operational clusters that make implementation and cross
 ---
 
 ## CJS-5A.1 Implementation and cross-implementation integrity assurance and resilience operations
-Use this rule for **CJS-R19**, implementation and cross-implementation integrity assurance and resilience operations. It relies on, but does not replace, core definitions such as auditability, verifiability, reversibility, dependency, cascading failure, adversarial conditions, and trustworthiness.
+Use this rule for **CJS-R19**, implementation and cross-implementation integrity assurance and resilience operations.
+
+Read it with:
+- Core definitions for auditability, verifiability, reversibility, dependency, cascading failure, adversarial conditions, and trustworthiness.
 
 Implementation and cross-implementation integrity assurance and resilience operations
 - OP-O: Integrity claims depend on the whole relevant chain, including records, access, classification, stewardship, challenge, or adjudication within a standalone implementation scope and where those functions are split across systems, institutions, dependencies, or implementation layers.
@@ -42,7 +45,14 @@ Adversarial response and revalidation non-entrenchment
 ---
 
 ## CJS-5A.2 Implementation and cross-implementation auditability and reconstructability terms
-Use this rule when records, access pathways, or verification design depend on standalone system behavior or combined system, dependency, or implementation-layer behavior. It is read with **PRIM9 — Auditability**, **PRIM4 — Transparency and Disclosure**, **PRIM10 — Tiered Transparency and Audit Access**, **Article XV-A**, and **Article VII-B**.
+Use this rule when records, access pathways, or verification design depend on standalone system behavior or combined system, dependency, or implementation-layer behavior.
+
+Read it with:
+- **PRIM9 — Auditability**
+- **PRIM4 — Transparency and Disclosure**
+- **PRIM10 — Tiered Transparency and Audit Access**
+- **Article XV-A**
+- **Article VII-B**
 
 Implementation and cross-implementation auditability and reconstructability terms
 - OP-O: Records must be verifiable, independently reviewable, and adequate for reconstructing harm or disputes.
@@ -72,7 +82,14 @@ Article VII-B boundary and anti-concealment rule
 ---
 
 ## CJS-5A.3 Implementation and cross-implementation tiered transparency and audit-access terms
-Use this rule when public visibility, qualified review, or forensic reconstruction depends on a standalone system, institution, forum, or bounded decision domain, or on how multiple systems, dependencies, institutions, or implementation layers work together. It is read with **PRIM10 — Tiered Transparency and Audit Access**, **PRIM9 — Auditability**, **PRIM12 — Reversibility and Containment**, **Article XV-A**, and **Article VII-B**.
+Use this rule when public visibility, qualified review, or forensic reconstruction depends on a standalone system, institution, forum, or bounded decision domain, or on how multiple systems, dependencies, institutions, or implementation layers work together.
+
+Read it with:
+- **PRIM10 — Tiered Transparency and Audit Access**
+- **PRIM9 — Auditability**
+- **PRIM12 — Reversibility and Containment**
+- **Article XV-A**
+- **Article VII-B**
 
 Implementation and cross-implementation tiered transparency and audit-access terms
 - OP-O: Access to information must be tiered so systems can be transparent, auditable, protective of lawful internal-state boundaries, and open to challenge.
@@ -114,7 +131,11 @@ Access-control integrity and anti-concealment
 ## CJS-5A.4 Implementation and cross-implementation independent verification and claim-integrity terms
 Use this rule when evidence quality, verification routes, or trust claims depend on a standalone system, institution, forum, or bounded decision domain, or on how multiple systems, dependencies, or implementation layers work together.
 
-It is read with **PRIM11 — Independent Verification and Integrity of Claims**, **PRIM9 — Auditability**, and **PRIM10 — Tiered Transparency and Audit Access**. It is also read with Chapter Fourteen and rights-layer protections where material claims shape rights-relevant decisions.
+Read it with:
+- **PRIM11 — Independent Verification and Integrity of Claims**
+- **PRIM9 — Auditability**
+- **PRIM10 — Tiered Transparency and Audit Access**
+- Chapter Fourteen and rights-layer protections where material claims shape rights-relevant decisions.
 
 Implementation and cross-implementation independent verification and claim-integrity terms
 - OP-O: Material claims must be independently checkable where doing so is feasible.

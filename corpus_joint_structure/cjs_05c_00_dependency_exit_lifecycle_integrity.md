@@ -11,7 +11,16 @@ This family collects the operational clusters that govern dependency mapping, me
 ---
 
 ## CJS-5C.1 Implementation and cross-implementation dependency integrity and disclosure terms
-Use this rule when dependency mapping, risk treatment, or accountability depends on standalone system behavior or combined system, dependency, or implementation-layer behavior. It is read with **PRIM5 — Dependency Awareness, Disclosure, and Risk Integrity**, **PRIM4 — Transparency and Disclosure**, **PRIM7 — Interoperability, Portability, and Exit Integrity**, **PRIM9 — Auditability**, **PRIM15 — Evolution, Revalidation, and Non-Entrenchment**, `corpus_systems.md` **Protocol A — System Design, Testing, Verification, and Deployment**, and **Article XV-A**.
+Use this rule when dependency mapping, risk treatment, or accountability depends on standalone system behavior or combined system, dependency, or implementation-layer behavior.
+
+Read it with:
+- **PRIM5 — Dependency Awareness, Disclosure, and Risk Integrity**
+- **PRIM4 — Transparency and Disclosure**
+- **PRIM7 — Interoperability, Portability, and Exit Integrity**
+- **PRIM9 — Auditability**
+- **PRIM15 — Evolution, Revalidation, and Non-Entrenchment**
+- `corpus_systems.md` **Protocol A — System Design, Testing, Verification, and Deployment**
+- **Article XV-A**
 
 Implementation and cross-implementation dependency integrity and disclosure terms
 - OP-O: If a system relies on something important, that reliance must be named, explained, watched, and handled according to the risk it creates.
@@ -51,7 +60,17 @@ Proportional application
 ---
 
 ## CJS-5C.2 Implementation and cross-implementation interoperability, portability, and exit-integrity terms
-Use this rule when lock-in, migration, interface design, or dependency exposure depends on standalone system behavior or combined system, dependency, or implementation-layer behavior. It is read with **PRIM7 — Interoperability, Portability, and Exit Integrity**, **PRIM5 — Dependency Awareness, Disclosure, and Risk Integrity**, **PRIM4 — Transparency and Disclosure**, `corpus_systems.md` **Chapter S1 — Information Types and Handling**, **Chapter S2 — System Classification and Handling**, **Chapter S3 — Critical System Stewardship**, **Article XIX**, and **Article XV-A**.
+Use this rule when lock-in, migration, interface design, or dependency exposure depends on standalone system behavior or combined system, dependency, or implementation-layer behavior.
+
+Read it with:
+- **PRIM7 — Interoperability, Portability, and Exit Integrity**
+- **PRIM5 — Dependency Awareness, Disclosure, and Risk Integrity**
+- **PRIM4 — Transparency and Disclosure**
+- `corpus_systems.md` **Chapter S1 — Information Types and Handling**
+- `corpus_systems.md` **Chapter S2 — System Classification and Handling**
+- `corpus_systems.md` **Chapter S3 — Critical System Stewardship**
+- **Article XIX**
+- **Article XV-A**
 
 Implementation and cross-implementation interoperability, portability, and exit-integrity terms
 - OP-O: Systems must preserve meaningful exit, usable portability, and fair interoperability.

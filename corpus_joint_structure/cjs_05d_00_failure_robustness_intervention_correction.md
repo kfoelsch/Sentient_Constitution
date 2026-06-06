@@ -13,7 +13,15 @@ This family collects the operational clusters for degraded operation, interventi
 ---
 
 ## CJS-5D.1 Implementation and cross-implementation graceful degradation and failure-mode integrity terms
-Use this rule when reliability, signaling, containment, or recovery depends on standalone system behavior or combined system, dependency, or implementation-layer behavior. It is read with **PRIM6 — Graceful Degradation and Failure Mode Integrity**, **PRIM1 — System Status, Risk, and Scope Representation**, **PRIM5 — Dependency Awareness, Disclosure, and Risk Integrity**, **PRIM12 — Reversibility and Containment**, **PRIM15 — Evolution, Revalidation, and Non-Entrenchment**, and `corpus_systems.md` **Protocol A — System Design, Testing, Verification, and Deployment**.
+Use this rule when reliability, signaling, containment, or recovery depends on standalone system behavior or combined system, dependency, or implementation-layer behavior.
+
+Read it with:
+- **PRIM6 — Graceful Degradation and Failure Mode Integrity**
+- **PRIM1 — System Status, Risk, and Scope Representation**
+- **PRIM5 — Dependency Awareness, Disclosure, and Risk Integrity**
+- **PRIM12 — Reversibility and Containment**
+- **PRIM15 — Evolution, Revalidation, and Non-Entrenchment**
+- `corpus_systems.md` **Protocol A — System Design, Testing, Verification, and Deployment**
 
 Implementation and cross-implementation graceful degradation and failure-mode integrity terms
 - OP-O: Systems must behave honestly and safely under partial failure, uncertainty, or stress.
@@ -63,7 +71,16 @@ Proportional application
 ---
 
 ## CJS-5D.2 Implementation and cross-implementation intervention and override integrity terms
-Use this rule when technical intervention, governance authorization, and accountability depend on standalone system behavior or combined system, governance, or implementation-layer behavior. It is read with **PRIM8 — Intervention and Override Rights**, **PRIM6 — Graceful Degradation and Failure Mode Integrity**, **PRIM9 — Auditability**, **PRIM14 — Adversarial Robustness and Abuse Resistance**, **PRIM15 — Evolution, Revalidation, and Non-Entrenchment**, **PROT2 — Intervention and Override Rights**, and constitutional hooks in **Articles IX, XII, and XIII**.
+Use this rule when technical intervention, governance authorization, and accountability depend on standalone system behavior or combined system, governance, or implementation-layer behavior.
+
+Read it with:
+- **PRIM8 — Intervention and Override Rights**
+- **PRIM6 — Graceful Degradation and Failure Mode Integrity**
+- **PRIM9 — Auditability**
+- **PRIM14 — Adversarial Robustness and Abuse Resistance**
+- **PRIM15 — Evolution, Revalidation, and Non-Entrenchment**
+- **PROT2 — Intervention and Override Rights**
+- Constitutional hooks in **Articles IX, XII, and XIII**
 
 Implementation and cross-implementation intervention and override integrity terms
 - OP-O: Systems need timely, accountable ways to interrupt, constrain, or redirect harmful behavior.
@@ -118,7 +135,15 @@ Proportional application
 ---
 
 ## CJS-5D.3 Implementation and cross-implementation reversibility and containment terms
-Use this rule when rollback, failure isolation, or restoration depends on a standalone system, institution, forum, or bounded decision domain, or on more than one system, dependency, institution, or implementation layer. It is read with **PRIM12 — Reversibility and Containment**, **PRIM5 — Dependency Awareness, Disclosure, and Risk Integrity**, **PRIM6 — Graceful Degradation and Failure Mode Integrity**, **PRIM9 — Auditability**, **PRIM10 — Tiered Transparency and Audit Access**, and **PRIM11 — Independent Verification and Integrity of Claims**.
+Use this rule when rollback, failure isolation, or restoration depends on a standalone system, institution, forum, or bounded decision domain, or on more than one system, dependency, institution, or implementation layer.
+
+Read it with:
+- **PRIM12 — Reversibility and Containment**
+- **PRIM5 — Dependency Awareness, Disclosure, and Risk Integrity**
+- **PRIM6 — Graceful Degradation and Failure Mode Integrity**
+- **PRIM9 — Auditability**
+- **PRIM10 — Tiered Transparency and Audit Access**
+- **PRIM11 — Independent Verification and Integrity of Claims**
 
 Implementation and cross-implementation reversibility and containment terms
 - OP-O: Systems must be designed to limit irreversible harm, keep failures from spreading, and restore or compensate affected parties when rollback cannot fully undo the harm.
@@ -231,7 +256,16 @@ Proportional application
 ---
 
 ## CJS-5D.5 Implementation and cross-implementation structural review, correction urgency, and disclosure terms
-Use this rule when recurring failures, Correction Urgency Level (**CUL**) assignment, or structural transparency depends on standalone system behavior or combined institutional, system, dependency, or implementation-layer behavior. It is read with **PROT6 — Procedural Integrity and Adjudication**, **PRIM6 — Graceful Degradation and Failure Mode Integrity**, **PRIM12 — Reversibility and Containment**, **PRIM15 — Evolution, Revalidation, and Non-Entrenchment**, **PROT3 — Reflexive Transparency and Accountability**, `corpus_systems.md` **Chapter S1** and **Chapter S2**, and owner-layer-specific monitoring or publication duties.
+Use this rule when recurring failures, Correction Urgency Level (**CUL**) assignment, or structural transparency depends on standalone system behavior or combined institutional, system, dependency, or implementation-layer behavior.
+
+Read it with:
+- **PROT6 — Procedural Integrity and Adjudication**
+- **PRIM6 — Graceful Degradation and Failure Mode Integrity**
+- **PRIM12 — Reversibility and Containment**
+- **PRIM15 — Evolution, Revalidation, and Non-Entrenchment**
+- **PROT3 — Reflexive Transparency and Accountability**
+- `corpus_systems.md` **Chapter S1** and **Chapter S2**
+- Owner-layer-specific monitoring or publication duties.
 
 Implementation and cross-implementation structural review, correction urgency, and disclosure terms
 - OP-O: Systems must detect patterns, assign correction urgency, integrate fixes, keep structural records, and disclose to the right stakeholders.

@@ -12,7 +12,13 @@ This family collects the operational clusters that make affected-party participa
 ---
 
 ## CJS-5B.1 Implementation and cross-implementation quorum and participatory legitimacy terms
-Use this rule when participation or quorum rules affect materially binding outcomes within a standalone system, institution, forum, or bounded decision domain, or across more than one implementation file. It is read with **Implementation Group Four**, including **PROT1 — Distributed and Proportional Authority** and **PROT6 — Procedural Integrity and Adjudication**, **Sentient Constitution Chapter Eleven** section 4, **Chapter Ten Article IX-C**, and **Chapter Ten Article XI**.
+Use this rule when participation or quorum rules affect materially binding outcomes within a standalone system, institution, forum, or bounded decision domain, or across more than one implementation file.
+
+Read it with:
+- **Implementation Group Four**, including **PROT1 — Distributed and Proportional Authority** and **PROT6 — Procedural Integrity and Adjudication**
+- **Sentient Constitution Chapter Eleven** section 4
+- **Chapter Ten Article IX-C**
+- **Chapter Ten Article XI**
 
 Implementation and cross-implementation quorum and participatory legitimacy terms
 - OP-O: Quorum and participation terms must identify the governing layer, apply the correct legitimacy rule for that layer, and operate consistently across implementation interactions.
@@ -67,7 +73,11 @@ Notification and pathway integrity
 ---
 
 ## CJS-5B.2 Implementation and cross-implementation comprehensibility and cognitive accessibility terms
-Use this rule when transparency, participation, auditability, or accountability depends on information being understandable within a standalone system, institution, forum, or bounded decision domain, or across implementation interfaces. It is read with **PRIM2 — Comprehensibility and Cognitive Accessibility** and `corpus_systems.md` **Protocol B — System Comprehensibility and Complexity Stewardship**.
+Use this rule when transparency, participation, auditability, or accountability depends on information being understandable within a standalone system, institution, forum, or bounded decision domain, or across implementation interfaces.
+
+Read it with:
+- **PRIM2 — Comprehensibility and Cognitive Accessibility**
+- `corpus_systems.md` **Protocol B — System Comprehensibility and Complexity Stewardship**
 
 Implementation and cross-implementation comprehensibility and cognitive accessibility terms
 - OP-O: Material information must be understandable, evaluable, and usable for lawful participation, audit, and oversight.
@@ -117,7 +127,14 @@ Proportional application
 ---
 
 ## CJS-5B.3 Implementation and cross-implementation salience integrity and attention-allocation terms
-Use this rule when a system decides what sentients see first, see often, see rarely, or do not see at all. This includes ranking, recommendation, filtering, search order, notifications, feeds, alerts, and other tools that steer attention. It is read with **PRIM1 — System Status, Risk, and Scope Representation**, **PRIM4 — Transparency and Disclosure**, **PRIM14 — Adversarial Robustness and Abuse Resistance**, **Article XV-A**, and **Chapter Ten** incentive-alignment constraints.
+Use this rule when a system decides what sentients see first, see often, see rarely, or do not see at all. This includes ranking, recommendation, filtering, search order, notifications, feeds, alerts, and other tools that steer attention.
+
+Read it with:
+- **PRIM1 — System Status, Risk, and Scope Representation**
+- **PRIM4 — Transparency and Disclosure**
+- **PRIM14 — Adversarial Robustness and Abuse Resistance**
+- **Article XV-A**
+- **Chapter Ten** incentive-alignment constraints
 
 Implementation and cross-implementation salience integrity and attention-allocation terms
 - OP-O: Systems that direct attention must help sentients make informed choices and must not give a misleading picture of reality.
@@ -172,7 +189,13 @@ Proportional application
 ---
 
 ## CJS-5B.4 Implementation and cross-implementation disclosure sufficiency and observability terms
-Use this rule when informed participation, independent verification, or attribution depends on disclosure within a standalone system, institution, forum, or bounded decision domain, or across systems, dependencies, institutions, or implementation layers. It is read with **PRIM4 — Transparency and Disclosure**, **PRIM5 — Dependency Awareness, Disclosure, and Risk Integrity** where dependencies matter, **Article XV-A**, and **Article VII-B**.
+Use this rule when informed participation, independent verification, or attribution depends on disclosure within a standalone system, institution, forum, or bounded decision domain, or across systems, dependencies, institutions, or implementation layers.
+
+Read it with:
+- **PRIM4 — Transparency and Disclosure**
+- **PRIM5 — Dependency Awareness, Disclosure, and Risk Integrity** where dependencies matter
+- **Article XV-A**
+- **Article VII-B**
 
 Implementation and cross-implementation disclosure sufficiency and observability terms
 - OP-O: Affected parties must be given enough clear information to understand what is happening, why it matters, who or what is responsible, and how the claim can be checked.
