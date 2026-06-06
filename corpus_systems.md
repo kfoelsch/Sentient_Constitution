@@ -1332,6 +1332,16 @@ Examples include behavior that **creates measurable** off-unit harm risk. **They
 
 **Sensitive or high-value information processing alone** does **not** trigger reclassification unless it introduces external impact, external dependency, or material risk beyond the private unit.
 
+**Scarce-capacity, API, and traffic-priority handling for Class A/B/C systems.** Where a system exposes scarce operational capacity, network access, compute, model inference, API calls, queue position, bandwidth, or comparable throughput that may become constrained during peak demand, operators must define **published priority rules** scaled to classification and dependency.
+
+**Class A traffic and API use** must receive the highest continuity protection where the request or dependent workflow is survival-critical, Rights-Floor-sustaining, emergency-response, or recovery-critical. Throttling, queuing, paid tiering, or commercial prioritization must not displace the minimum safe capacity needed to preserve Class A continuity, unless a narrower emergency measure is justified under **Chapter Ten, Article XXIII** and remains time-bounded, auditable, and restoration-triggered.
+
+**Class B traffic and API use** must receive priority sufficient to preserve normal operation of dependent systems and to prevent cascading degradation into Class A or broader systemic harm. Class B uses may be queued, rate-limited, or degraded before Class A uses when capacity is genuinely constrained, but degradation must be disclosed, proportionate, and designed around viable fallback or recovery paths.
+
+**Class C traffic and API use** may use ordinary priority tiers, commercial queues, rate limits, or paid high-volume interfaces where they do not create hidden exclusion, capture, or de facto operational necessity. If recurring peak-period constraints make Class C access practically necessary for dependent Class A or Class B workflows, operators must re-evaluate both classification and priority rules under this chapter.
+
+**Commercial-use surcharges and reinvestment interface.** Operators may charge commercial-scale API users, high-volume business interfaces, premium latency tiers, or automated bulk consumers for the incremental burden they place on shared capacity. Such charges must be disclosed, proportionate, contestable where material, and consistent with the fiscal orientation in `corpus_institutions.md` **CI-10**. Revenue from those charges should be traceably available for operations, security, resilience, compute expansion, remedy capacity, and ecosystem/public-good support under **Protocol S5**, rather than becoming a concealed mechanism for denying baseline participation or entrenching chokepoint control.
+
 **System classification governance, disclosure, and challenge.** All systems subject to this constitution must have a **clearly defined, documented, and reviewable** classification. **That** classification must stay consistent with **Chapter S2 — System Classification and Handling**.
 
 Classification is a **governance function**: accountability, not self-description.
