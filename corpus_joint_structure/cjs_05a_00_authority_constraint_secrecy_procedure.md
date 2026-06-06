@@ -104,9 +104,9 @@ Governance quorum and emergency-sequencing requirements
 - OP-C: Omitting required sequencing or misuse safeguards is non-compliant.
 
 Emergency governance limits and anti-normalization control
-- OP-O: Pre-deliberation emergency interventions must be minimal, proportionate, time-bounded, promptly reviewed, and rolled back or restored where feasible.
-- OP-E: Reviewers must verify that emergency powers do not persist without renewed justification and revalidation.
-- OP-C: Turning emergency mode into standing governance is non-compliant.
+- OP-O: Pre-deliberation emergency interventions must be minimal, proportionate, time-bounded, subject to mandatory forum review as soon as feasible, and rolled back or restored where feasible.
+- OP-E: Reviewers must verify that emergency powers do not persist without renewed justification, revalidation, and any required CF-11 emergency-review or restoration pathway.
+- OP-C: Emergency action that lacks a forum-review path, or that turns emergency mode into standing governance, is non-compliant.
 
 Records, transparency, and challenge pathway duties
 - OP-O: Governance must ensure adequate intervention records, default transparency, narrow exceptions, and feasible challenge or review paths.
@@ -192,6 +192,8 @@ Read it with:
 - **PRIM7 — Interoperability, Portability, and Exit Integrity**
 - **PRIM9 — Auditability**
 - **PRIM15 — Evolution, Revalidation, and Non-Entrenchment**
+- **Chapter One §6.4.1 — Rights-Collision Decision Test**
+- **`corpus_forum.md` CF-11 — Forum continuity, fallback operation, and emergency adjudication**
 - Core definitions for necessity, proportionality, materiality, burden, and anti-enclosure.
 
 Implementation and cross-implementation burden-of-justification and constraint terms
@@ -215,14 +217,14 @@ Disclosure, audit, and challenge sufficiency
 - OP-C: A justification that cannot be audited, reviewed, or contested is non-compliant.
 
 Rights-collision and alternative-selection record
-- OP-O: When restrictions are justified by conflict among rights or duties, the record must identify the conflict, affected populations, alternatives, trade-offs, and review triggers.
-- OP-E: Evaluation must verify enough detail to test the least-restrictive choice.
-- OP-C: Abstract appeals to conflict without a reviewable record are non-compliant.
+- OP-O: When restrictions are justified by conflict among rights or duties, the record must apply Chapter One §6.4.1 and identify the conflict, affected populations, alternatives, trade-offs, least-restrictive effective selection, review triggers, and any required forum-review path.
+- OP-E: Evaluation must verify enough detail to test principle-based decision-making, least-restrictive selection, and the availability of ordinary or emergency forum review.
+- OP-C: A restriction justified by rights conflict is non-compliant if it lacks the Chapter One §6.4.1 record, omits required forum review, or treats emergency circumstances as a reason to bypass review rather than sequence it.
 
 Temporal discipline and revalidation
-- OP-O: Restrictions must be time-bound, expire without renewed justification, and be periodically revalidated.
-- OP-E: Evaluation must verify sunset, review, and reauthorization rules are used.
-- OP-C: Temporary restrictions that persist by inertia or convenience are non-compliant.
+- OP-O: Material restrictions covered by this rule include limits on rights exercise, access, participation, disclosure, audit, repair, interoperability, exit, restoration, or governance authority, including restrictions adopted to manage rights collisions. They must be scope-limited, time-bound, set to expire without renewed justification, periodically revalidated, and subject to mandatory forum review while they persist where they materially affect rights, standing, remedies, survival-critical access, or governance authority.
+- OP-E: Evaluation must verify the restriction category, affected parties, rights-collision analysis where applicable, sunset date or event, review cadence, reauthorization rule, forum-review route, and evidence that the restriction remains necessary and least-restrictive during each review period.
+- OP-C: Temporary, emergency, access, disclosure, participation, interoperability, exit, restoration, standing, or governance restrictions that persist by inertia, convenience, unresolved ownership, cost avoidance, or unfinished migration are non-compliant.
 
 Innovation-exclusivity anti-enclosure application
 - OP-O: Patent-like, copyright-like, trade-secret-like, license-based, or technical exclusivity claims that materially restrict repair, compatibility, migration, safety review, research, education, or public-interest implementation face the same burden.
@@ -255,9 +257,9 @@ Authorization and predicate floor
 - OP-C: Secrecy without a valid predicate or timely review is non-compliant.
 
 Minimization and preference ordering
-- OP-O: Restrictions must be exceptional, temporary, and limited to the minimum necessary information or participants.
-- OP-E: Evaluation must verify narrower options such as partial disclosure, delayed disclosure, abstraction, or anonymization were considered.
-- OP-C: Secrecy broader, longer, or less contestable than needed is non-compliant.
+- OP-O: Disclosure or participation restrictions must be exceptional, temporary, and limited to the minimum necessary information, participants, forum access, or review channel.
+- OP-E: Evaluation must verify narrower options such as partial disclosure, delayed disclosure, abstraction, anonymization, qualified-access review, or sealed forum handling were considered.
+- OP-C: Secrecy broader, longer, less reviewable, or less contestable than needed is non-compliant.
 
 Deferred transparency and reconstruction record
 - OP-O: At the time secrecy is imposed, records must support later reconstruction, independent evaluation, and release review.

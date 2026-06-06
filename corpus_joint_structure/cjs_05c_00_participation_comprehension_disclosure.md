@@ -43,7 +43,7 @@ Stakeholder governance participation floor
 Quorum source and binding-effect gate
 - OP-O: Quorum, threshold, turnout, supermajority, multi-step confirmation, and binding-effect rules must be published before the decision event and tied to the correct constitutional or stakeholder layer.
 - OP-E: Evaluation must verify the source of quorum authority, the eligible participation pool, denominator treatment, abstention and non-response treatment, threshold calculation, tie or failure handling, emergency sequencing, and whether Article XI-A or other binding-effect gates were satisfied before implementation.
-- OP-C: Post-hoc quorum formulas, undisclosed denominator changes, unreviewable emergency shortcuts, or implementation of a high-impact decision before required legitimacy gates are satisfied are non-compliant.
+- OP-C: Post-hoc quorum formulas, undisclosed denominator changes, emergency shortcuts without mandatory forum review, or implementation of a high-impact decision before required legitimacy gates are satisfied are non-compliant.
 
 Participation
 - OP-O: Eligible participants must have a real chance to engage.

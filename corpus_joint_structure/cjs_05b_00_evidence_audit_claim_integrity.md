@@ -88,6 +88,8 @@ Read it with:
 - **PRIM10 — Tiered Transparency and Audit Access**
 - **PRIM9 — Auditability**
 - **PRIM12 — Reversibility and Containment**
+- **Chapter One §6.4.1 — Rights-Collision Decision Test**
+- **`corpus_forum.md` CF-11 — Forum continuity, fallback operation, and emergency adjudication**
 - **Article XV-A**
 - **Article VII-B**
 
@@ -112,9 +114,9 @@ Qualified audit pathways and non-exclusive eligibility
 - OP-C: Qualification rules are non-compliant if they hide exclusion or make independent audit unreachable in practice.
 
 Restriction scope and justification discipline
-- OP-O: Access restrictions must be narrow, justified, tied to time or review points, and open to audit.
-- OP-E: Evaluation must verify the reason for each restriction, what it covers, how long it lasts, and how it is reviewed.
-- OP-C: Restrictions are non-compliant when they are broad, indefinite, or shielded from review.
+- OP-O: Access restrictions include limits on public visibility, affected-party notice, qualified audit access, forensic reconstruction, evidence review, participation records, or challenge materials. They must be narrow, justified, tied to time or review points, open to audit, and routed to forum review while they persist where they materially affect rights, standing, remedies, survival-critical access, governance authority, or rights-collision issues.
+- OP-E: Evaluation must verify the reason for each restriction, what it covers, affected parties, rights-collision analysis where applicable, how long it lasts, who may review it, the forum-review route where required, and whether less restrictive access tiers were considered.
+- OP-C: Access restrictions are non-compliant when they are broad, indefinite, shielded from qualified or forum review, or maintained by convenience, institutional discomfort, ownership claims, or unresolved migration work.
 
 Forensic escalation and reconstruction sufficiency
 - OP-O: Harm, dispute, or credible risk must trigger enough access to reconstruct what happened when reconstruction is necessary and feasible.

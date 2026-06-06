@@ -80,6 +80,8 @@ Read it with:
 - **PRIM14 — Adversarial Robustness and Abuse Resistance**
 - **PRIM15 — Evolution, Revalidation, and Non-Entrenchment**
 - **PROT2 — Intervention and Override Rights**
+- **Chapter One §6.4.1 — Rights-Collision Decision Test**
+- **`corpus_forum.md` CF-11 — Forum continuity, fallback operation, and emergency adjudication**
 - Constitutional hooks in **Articles IX, XII, and XIII**
 
 Implementation and cross-implementation intervention and override integrity terms
@@ -108,9 +110,9 @@ Authority scoping, role clarity, and anti-capture constraints
 - OP-C: Unbounded, opaque, or abuse-prone override power is non-compliant.
 
 Attribution, records, and transparency defaults
-- OP-O: Interventions must be attributable, documented, reconstructable, and transparent by default, with only narrow temporary restrictions.
-- OP-E: Evaluation must verify records of trigger, justification, scope, duration, affected components, outcomes, and follow-up.
-- OP-C: Unrecorded or undisclosed intervention effects are non-compliant.
+- OP-O: Interventions must be attributable, documented, reconstructable, and transparent by default. Any temporary restriction on notice, disclosure, participation, audit access, restoration, exit, interoperability, governance authority, or review materials must be narrow, justified, time-bound, and subject to mandatory forum review while it persists where it materially affects rights, standing, remedies, survival-critical access, governance authority, or rights-collision issues.
+- OP-E: Evaluation must verify records of trigger, justification, restriction category, scope, duration, affected components, affected parties, rights-collision analysis where applicable, outcomes, follow-up, expiry behavior, and any required forum-review route.
+- OP-C: Unrecorded intervention effects, undisclosed rights-affecting limits, or temporary restrictions maintained by inertia, convenience, cost avoidance, unresolved ownership, or unfinished migration are non-compliant.
 
 Abuse safeguards and review controls
 - OP-O: High-impact intervention paths need multi-party or quorum constraints, rate limits, staged escalation, post-action review, and limits on automated bypass.
@@ -123,9 +125,9 @@ Intervention behavior priorities and safe-state handling
 - OP-C: Concealing secondary effects, disabling auditability, or allowing uncontrolled spread is non-compliant.
 
 Emergency technical-coupling discipline
-- OP-O: Emergency technical interventions must be minimal, proportionate, time-bounded, reviewed quickly, and rolled back or restored where feasible.
-- OP-E: Evaluation must verify expiry behavior, review, records, and lawful governance coupling.
-- OP-C: Treating emergency intervention as a standing default is non-compliant.
+- OP-O: Emergency technical interventions must be minimal, proportionate, time-bounded, subject to mandatory forum review as soon as feasible where they materially affect rights or governance authority, and rolled back or restored where feasible.
+- OP-E: Evaluation must verify expiry behavior, review records, lawful governance coupling, and any CF-11 emergency-review or restoration pathway.
+- OP-C: Emergency intervention that lacks a required forum-review path, or that becomes a standing default, is non-compliant.
 
 Proportional application
 - OP-O: Intervention duties scale with impact, harm speed, dependency, irreversibility, and autonomy from direct control.
