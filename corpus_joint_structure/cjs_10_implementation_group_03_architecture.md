@@ -12,7 +12,7 @@ Principles: **Safety and Accountability** through explicit dependency mapping, c
 
 Read this section together with **PRIM4**, **PRIM7**, **PRIM9**, **PRIM12**, **PRIM15**, **PROT1**, **PROT4**, and **Protocol B** where disclosure, mapping, retention lifecycle, classification alignment, or comprehensibility obligations apply to the same facts. For overlapping institution-system supervised scope, also apply **CJS-3.5 — Classification alignment for supervised scope**.
 
-Implementation and cross-implementation operational definitions for dependency disclosure, criticality classification, substitutability and exit constraints, anti-externalization controls, monitoring and map obligations, and proportional scaling are maintained in **CJS-5C.1** (*Implementation and cross-implementation dependency integrity and disclosure terms*). Apply that subsection as required read-with for this **PRIM5** implementation scope.
+Implementation and cross-implementation operational definitions for dependency disclosure, criticality classification, substitutability and exit constraints, anti-externalization controls, monitoring and map obligations, and proportional scaling are maintained in **CJS-5D.1** (*Implementation and cross-implementation dependency integrity and disclosure terms*). Apply that subsection as required read-with for this **PRIM5** implementation scope.
 
 ### PRIM6 — Architecture Implementation label: Graceful Degradation and Failure Mode Integrity
 Principles: **Safety and Truth** through bounded degradation, honest signaling, and anti-cascading design.
@@ -25,7 +25,7 @@ Principles: **Safety and Truth** through bounded degradation, honest signaling, 
 
 Read this section together with **PRIM1**, **PRIM4**, **PRIM5**, **PRIM12**, **PRIM15**, **PROT1**, **Protocol A**, **Article XV-A** where degradation affects presentation integrity or auditability, and **Article XVI-A** where degradation affects lifecycle discipline, dependency handling, or governance response.
 
-Implementation and cross-implementation operational definitions for graceful degradation, failure-mode integrity, signaling discipline, bounded operation, fail-soft limits, transition escalation, cross-boundary propagation, and proportional scaling are maintained in **CJS-5D.1** (*Implementation and cross-implementation graceful degradation and failure-mode integrity terms*). Apply that subsection as required read-with for this **PRIM6** implementation scope.
+Implementation and cross-implementation operational definitions for graceful degradation, failure-mode integrity, signaling discipline, bounded operation, fail-soft limits, transition escalation, cross-boundary propagation, and proportional scaling are maintained in **CJS-5E.1** (*Implementation and cross-implementation graceful degradation and failure-mode integrity terms*). Apply that subsection as required read-with for this **PRIM6** implementation scope.
 
 ### PRIM7 — Architecture Implementation label: Interoperability, Portability, and Exit Integrity
 Principles: **Agency and Anti-Lock-In** through usable portability, reciprocal interoperability, and meaningful exit.
@@ -38,7 +38,7 @@ Principles: **Agency and Anti-Lock-In** through usable portability, reciprocal i
 
 **PROT4** governs justified limits on integration or export. Read this section together with **PRIM5** for dependency mapping and disclosure, and with **PRIM4**, **Article XV-A**, and **[corpus_systems.md](../corpus_systems.md), Chapter S1 — Information Types and Handling** (Types **I** and **H**) where portability, attribution, or handling constraints apply.
 
-Implementation and cross-implementation operational definitions for anti-lock-in controls, portability, interoperability, open-interface treatment, innovation-reward boundary handling, continuity-preserving exit, and proportional scaling are maintained in **CJS-5C.2** (*Implementation and cross-implementation interoperability, portability, and exit-integrity terms*). Apply that subsection as required read-with for this **PRIM7** implementation scope.
+Implementation and cross-implementation operational definitions for anti-lock-in controls, portability, interoperability, open-interface treatment, innovation-reward boundary handling, continuity-preserving exit, and proportional scaling are maintained in **CJS-5D.2** (*Implementation and cross-implementation interoperability, portability, and exit-integrity terms*). Apply that subsection as required read-with for this **PRIM7** implementation scope.
 
 ### PRIM8 — Architecture Implementation label: Intervention and Override Rights
 Principles: **Safety, Proportionality, and Accountability** through timely, auditable, and scoped intervention capacity.
@@ -55,7 +55,7 @@ Principles: **Safety, Proportionality, and Accountability** through timely, audi
 
 **PRIM8** is the **architecture-layer** home for **technical** intervention and override capacity. **PROT2** states the **governance-layer** authorization and procedural requirements. Where both apply, neither may be satisfied in lieu of the other.
 
-Implementation and cross-implementation operational definitions for intervention timeliness, trigger and pathway adequacy, override authority scoping, attribution and audit records, abuse safeguards, emergency coupling discipline, and proportional scaling are maintained in **CJS-5D.2** (*Implementation and cross-implementation intervention and override integrity terms*). Apply that subsection as required read-with for this **PRIM8** implementation scope.
+Implementation and cross-implementation operational definitions for intervention timeliness, trigger and pathway adequacy, override authority scoping, attribution and audit records, abuse safeguards, emergency coupling discipline, and proportional scaling are maintained in **CJS-5E.2** (*Implementation and cross-implementation intervention and override integrity terms*). Apply that subsection as required read-with for this **PRIM8** implementation scope.
 
 ### PRIM9 — Integrity Implementation label: Auditability
 Principles: **Truth and Accountability** through observable, reconstructable, and independently reviewable records.
@@ -70,7 +70,7 @@ Articles: Apply with **Sentient Constitution Chapter Ten, Article XV-A** and **A
 
 **Sentient Constitution Chapters Two through Four**, **Chapter Ten, Article XV-A**, **PRIM4**, and **PROT3** set the audit baseline here. This implementation label applies those sources to observable, reconstructable, and independently reviewable records without narrowing them.
 
-Implementation and cross-implementation operational definitions for auditability requirements, reconstructability, verification-capable records, forensic-depth access, and Article VII-B boundary handling are maintained in **CJS-5A.2** (*Implementation and cross-implementation auditability and reconstructability terms*). Apply that subsection as required read-with for this **PRIM9** implementation scope.
+Implementation and cross-implementation operational definitions for auditability requirements, reconstructability, verification-capable records, forensic-depth access, and Article VII-B boundary handling are maintained in **CJS-5B.2** (*Implementation and cross-implementation auditability and reconstructability terms*). Apply that subsection as required read-with for this **PRIM9** implementation scope.
 
 ### PRIM10 — Integrity Implementation label: Tiered Transparency and Audit Access
 Principles: **Truth, Accountability, and Proportional Access** through tiered transparency that preserves contestability.
@@ -83,7 +83,7 @@ Articles: Apply with **Sentient Constitution Chapter Ten, Articles V through IX*
 
 **Canonical meaning:** This section states implementation-layer obligations for this domain, applied consistently with cited constitutional sources and without narrowing them.
 
-Implementation and cross-implementation operational definitions for tiered transparency, qualified access pathways, forensic escalation routes, and access-control anti-concealment constraints are maintained in **CJS-5A.3** (*Implementation and cross-implementation tiered transparency and audit-access terms*). Apply that subsection as required read-with for this **PRIM10** implementation scope.
+Implementation and cross-implementation operational definitions for tiered transparency, qualified access pathways, forensic escalation routes, and access-control anti-concealment constraints are maintained in **CJS-5B.3** (*Implementation and cross-implementation tiered transparency and audit-access terms*). Apply that subsection as required read-with for this **PRIM10** implementation scope.
 
 ### PRIM11 — Integrity Implementation label: Independent Verification and Integrity of Claims
 Principles: **Truth and Trustworthiness** through independent, reproducible, and pluralistic verification of material claims.
@@ -96,7 +96,7 @@ Articles: Apply with **Sentient Constitution Chapter Fifteen** (trust and incorp
 
 **Canonical meaning:** This section states implementation-layer obligations for this domain, applied consistently with cited constitutional sources and without narrowing them.
 
-Implementation and cross-implementation operational definitions for independent verification scope, reproducibility and plurality requirements, non-single-authority constraints, and class-scaled verification floor mapping are maintained in **CJS-5A.4** (*Implementation and cross-implementation independent verification and claim-integrity terms*). Apply that subsection as required read-with for this **PRIM11** implementation scope.
+Implementation and cross-implementation operational definitions for independent verification scope, reproducibility and plurality requirements, non-single-authority constraints, and class-scaled verification floor mapping are maintained in **CJS-5B.4** (*Implementation and cross-implementation independent verification and claim-integrity terms*). Apply that subsection as required read-with for this **PRIM11** implementation scope.
 
 ### PRIM12 — Integrity Implementation label: Reversibility and Containment
 Principles: **Safety and Non-Degradation** through containment, reversibility, and restoration when failure occurs.
@@ -111,7 +111,7 @@ Articles: Apply with **Sentient Constitution Chapter Ten, Articles I-III, V, IX,
 
 **Sentient Constitution Chapter Five**, **Chapter Ten** (**Articles I-III and V, IX, and XIII** where restoration and contestability apply), and **PRIM5**, **PRIM6**, **PRIM9**, **PRIM10**, and **PRIM11** inform reversibility, rollback audit paths, and verification of recovery claims.
 
-Implementation and cross-implementation operational definitions for reversibility floors, containment obligations, compensatory restoration where rollback is incomplete, and irreversibility-limitation controls are maintained in **CJS-5D.3** (*Implementation and cross-implementation reversibility and containment terms*). Apply that subsection as required read-with for this **PRIM12** implementation scope.
+Implementation and cross-implementation operational definitions for reversibility floors, containment obligations, compensatory restoration where rollback is incomplete, and irreversibility-limitation controls are maintained in **CJS-5E.3** (*Implementation and cross-implementation reversibility and containment terms*). Apply that subsection as required read-with for this **PRIM12** implementation scope.
 
 **Retention and lifecycle integrity:** Reversibility and containment include justified, bounded, and reviewable retention rules where stored data materially affects restoration, accountability, privacy, agency, or contestability.
 
@@ -122,7 +122,7 @@ At the implementation layer, the floor is:
 - accumulation, linkage, or inference that functionally raises data sensitivity triggers stricter applicable protections
 - retention rules remains auditable, challengeable, and periodically revalidated
 
-Operational implementation stays outside this implementation label. Apply **CJS-5C.3** (*Implementation and cross-implementation data-retention and lifecycle-integrity terms*) for justified retention, lifecycle expiry, anti-surveillance and anti-coercion limits, classification-creep handling, disclosure, and revalidation discipline. Apply **[corpus_systems.md](../corpus_systems.md), Chapter S1 — Information Types and Handling** for type-specific storage, duration, separation, and reclassification controls, including materially relevant handling for **Types N, I, and H**.
+Operational implementation stays outside this implementation label. Apply **CJS-5D.3** (*Implementation and cross-implementation data-retention and lifecycle-integrity terms*) for justified retention, lifecycle expiry, anti-surveillance and anti-coercion limits, classification-creep handling, disclosure, and revalidation discipline. Apply **[corpus_systems.md](../corpus_systems.md), Chapter S1 — Information Types and Handling** for type-specific storage, duration, separation, and reclassification controls, including materially relevant handling for **Types N, I, and H**.
 
 ### PRIM14 — Integrity Implementation label: Adversarial Robustness and Abuse Resistance
 Principles: **Safety, Truth, and Anti-Capture Resilience** under adversarial, coordinated, and exploitative conditions.
@@ -139,7 +139,7 @@ Articles: Apply with **Sentient Constitution Chapter Ten, Articles XIII-A, XIV, 
 
 Read this section together with **PRIM4**, **PRIM5**, **PRIM9**, **PRIM11**, **PRIM12**, **PRIM15**, **PROT1**, **PROT4**, and **PROT5** where adversarial conditions affect disclosure, dependency exposure, verification, containment, governance response, or revalidation duties.
 
-Implementation and cross-implementation operational definitions for adversarial threat modeling, exploitation-resistance controls, detection/response integrity, partial-compromise resilience, hardening cycles, defense-boundary limits, and proportional scaling are maintained in **CJS-5D.4** (*Implementation and cross-implementation adversarial robustness and abuse-resistance terms*). Apply that subsection as required read-with for this **PRIM14** implementation scope.
+Implementation and cross-implementation operational definitions for adversarial threat modeling, exploitation-resistance controls, detection/response integrity, partial-compromise resilience, hardening cycles, defense-boundary limits, and proportional scaling are maintained in **CJS-5E.4** (*Implementation and cross-implementation adversarial robustness and abuse-resistance terms*). Apply that subsection as required read-with for this **PRIM14** implementation scope.
 
 ### PRIM15 — Integrity Implementation label: Evolution, Revalidation, and Non-Entrenchment
 Principles: **Accountability and Non-Entrenchment** through periodic revalidation, challengeability, and adaptive legitimacy.

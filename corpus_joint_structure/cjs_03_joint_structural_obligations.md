@@ -9,7 +9,7 @@ Routing remains in **CJS-2.2** and `doc_architecture.md` section 4. These rules 
 This file holds the general CJS-3 joint-compliance rules. More specialized material is now promoted into separate CJS sections:
 
 - [cjs_04_specific_joint_interlocks.md](cjs_04_specific_joint_interlocks.md) holds **CJS-4.1** through **CJS-4.7**.
-- [cjs_05_cross_implementation_operational_terms.md](cjs_05_cross_implementation_operational_terms.md) holds **CJS-5A.1** through **CJS-5E.6**.
+- [cjs_05_cross_implementation_operational_terms.md](cjs_05_cross_implementation_operational_terms.md) holds **CJS-5A.1** through **CJS-5E.5**.
 
 ### CJS-3.1 When joint obligations apply
 Joint obligations apply when **CJS-2.2** says that a topic must be read with more than one implementation file, or when an adopting instrument says the **CJS folder** applies.

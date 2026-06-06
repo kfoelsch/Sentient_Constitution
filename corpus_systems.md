@@ -152,7 +152,7 @@ Creating new systems, tools, and environments is an act of stewardship. New depl
 
 **Avoid** black-box systems that bypass consent.
 
-**Open hardware, open software, open systems:** Operational design and stewardship should **align** with **corpus_joint_structure.md** **PRIM7** — *Open hardware, open software, and open systems* — and **CJS-5C.2** open data-format and protocol discipline, so that **preference** for **open** stacks scales with **material impact**, **dependency**, and **stewardship tier** under **Chapter S2** and **Chapter S3**. **Classification** and **tier** rules may set **stronger** disclosure, **inspectability**, **substitutability**, format, schema, API, or interchange-protocol expectations for **Class A**, **Class B**, and high-tier systems than for **bounded** or **experimental** scopes, without narrowing **PROT4** justification paths where **proprietary** or **closed** choices are **auditably** required.
+**Open hardware, open software, open systems:** Operational design and stewardship should **align** with **corpus_joint_structure.md** **PRIM7** — *Open hardware, open software, and open systems* — and **CJS-5D.2** open data-format and protocol discipline, so that **preference** for **open** stacks scales with **material impact**, **dependency**, and **stewardship tier** under **Chapter S2** and **Chapter S3**. **Classification** and **tier** rules may set **stronger** disclosure, **inspectability**, **substitutability**, format, schema, API, or interchange-protocol expectations for **Class A**, **Class B**, and high-tier systems than for **bounded** or **experimental** scopes, without narrowing **PROT4** justification paths where **proprietary** or **closed** choices are **auditably** required.
 
 **Modular design and deployments:** Innovation in one verified module (e.g. a new UI) must **not** force alteration of other verified modules (e.g. survival or privacy governance). **That** separation keeps innovations from disrupting baseline requirements.
 
@@ -267,7 +267,7 @@ Safe failure, quarantine, or controlled handoff must be preferred over speculati
 
 Testing must include adversarial scenarios in which the recovery path is the attack surface (for example, triggering recovery to suppress an emerging fault signal; triggering recovery to expand authority; triggering recovery to re-route contestability).
 
-For **Class A** and **Class B** systems, recovery-path testing must include at least one scenario under each of **corpus_joint_structure.md** **CJS-5D.1** (graceful degradation and failure-mode integrity) and **CJS-5D.4** (adversarial robustness and abuse resistance). Findings feed into **Article XXI-A** RCA and into simulation and stress testing elsewhere in this Protocol.
+For **Class A** and **Class B** systems, recovery-path testing must include at least one scenario under each of **corpus_joint_structure.md** **CJS-5E.1** (graceful degradation and failure-mode integrity) and **CJS-5E.4** (adversarial robustness and abuse resistance). Findings feed into **Article XXI-A** RCA and into simulation and stress testing elsewhere in this Protocol.
 
 **Recovery-path observability (non-masking rule):** Recovery actions, recovery attempts, and suppressed recovery attempts are themselves auditable events under **Article XV-A**. Observability of the recovery path must be at least as strong as observability of the steady state.
 
@@ -289,13 +289,13 @@ This subsection is an operational profile. It does not create rights and must no
 
 ## Protocol B: System Comprehensibility and Complexity Stewardship
 
-This protocol states systems implementation file expectations for understandable systems and manageable complexity. It is a systems-specific application of Sentient Constitution Chapter Ten, **Article XX-A** and **Article XX-B**, read with `corpus_joint_structure.md` **CJS-5B.2** (comprehensibility and cognitive accessibility), **CJS-5B.3** (salience integrity and attention allocation), **CJS-5B.4** (disclosure sufficiency and observability), **CJS-5C.1** (dependency integrity and disclosure), **CJS-5D.1** (graceful degradation and failure-mode integrity), and **CJS-5D.4** (adversarial robustness and abuse resistance). It is not a second home for Article XX or the implementation and cross-implementation operational definitions.
+This protocol states systems implementation file expectations for understandable systems and manageable complexity. It is a systems-specific application of Sentient Constitution Chapter Ten, **Article XX-A** and **Article XX-B**, read with `corpus_joint_structure.md` **CJS-5C.2** (comprehensibility and cognitive accessibility), **CJS-5C.3** (salience integrity and attention allocation), **CJS-5C.4** (disclosure sufficiency and observability), **CJS-5D.1** (dependency integrity and disclosure), **CJS-5E.1** (graceful degradation and failure-mode integrity), and **CJS-5E.4** (adversarial robustness and abuse resistance). It is not a second home for Article XX or the implementation and cross-implementation operational definitions.
 
 Where Protocol B and an implementation label conflict, the stricter requirement governs. Where this protocol is silent on interpretive, definitional, verification, or traceability standards for constitutional terms, **Sentient Constitution Chapters Two through Four** govern.
 
 **Sentient Constitution Chapter Five** governs as well.
 
-**Classification-scaled application:** The **Comprehensibility and Complexity Stewardship** line in each **Implementation label Application Profile** under **Chapter S2** governs how Protocol B and `corpus_joint_structure.md` **CJS-5B.2** through **CJS-5B.4**, **CJS-5C.1**, **CJS-5D.1**, and **CJS-5D.4** intensify or relax for Classes A, B, C, L, and P together with transparency and auditability. **Chapter S3** adds organization-scaled rows for Critical System Steward tiers (CSS-A / CSS-B / CSS-C). Where both apply, **stricter** governs.
+**Classification-scaled application:** The **Comprehensibility and Complexity Stewardship** line in each **Implementation label Application Profile** under **Chapter S2** governs how Protocol B and `corpus_joint_structure.md` **CJS-5C.2** through **CJS-5C.4**, **CJS-5D.1**, **CJS-5E.1**, and **CJS-5E.4** intensify or relax for Classes A, B, C, L, and P together with transparency and auditability. **Chapter S3** adds organization-scaled rows for Critical System Steward tiers (CSS-A / CSS-B / CSS-C). Where both apply, **stricter** governs.
 
 Protocol B adds the following systems-specific checks:
 
@@ -306,11 +306,11 @@ Protocol B adds the following systems-specific checks:
 - Failures, anomalies, and near-misses must feed transparent post-incident learning focused on systemic weaknesses rather than blame.
 - Governance institutions must periodically simplify or remove unnecessary complexity, redundant processes, outdated rules, or excessive dependencies where doing so preserves clarity, operability, and resilience.
 
-Where this Protocol is silent, Article XX, `corpus_joint_structure.md` **CJS-5B.2** through **CJS-5B.4**, **CJS-5C.1**, **CJS-5D.1**, and **CJS-5D.4**, Chapters Two through Five, and the applicable Chapter S2/S3 profile govern.
+Where this Protocol is silent, Article XX, `corpus_joint_structure.md` **CJS-5C.2** through **CJS-5C.4**, **CJS-5D.1**, **CJS-5E.1**, and **CJS-5E.4**, Chapters Two through Five, and the applicable Chapter S2/S3 profile govern.
 
 ## Protocol C: Justice Safeguards, Restitution, and Rehabilitation Implementation
 
-Constitutional tracing: This protocol implements Sentient Constitution Chapter Ten, **Article XXIII** (*Conflict Resolution, Escalation, and Emergency Proportionality*). **It** also implements **Sentient Constitution Chapter Six** (compliance, violation, and standing model) and `corpus_joint_structure.md` **CJS-5E.6** (implementation and cross-implementation procedural integrity and adjudication terms), read with **corpus_joint_structure.md PROT6**. **It** operationalizes the justice objective that interventions remain safety-protective, restitution-oriented, rehabilitation-capable where feasible, and accountability-grounded.
+Constitutional tracing: This protocol implements Sentient Constitution Chapter Ten, **Article XXIII** (*Conflict Resolution, Escalation, and Emergency Proportionality*). **It** also implements **Sentient Constitution Chapter Six** (compliance, violation, and standing model) and `corpus_joint_structure.md` **CJS-5A.6** (implementation and cross-implementation procedural integrity and adjudication terms), read with **corpus_joint_structure.md PROT6**. **It** operationalizes the justice objective that interventions remain safety-protective, restitution-oriented, rehabilitation-capable where feasible, and accountability-grounded.
 
 **It does** **not** create substitute rights or narrow constitutional constraints.
 
@@ -404,7 +404,7 @@ Systems must implement class-scaled compliance templates that preserve core prot
 
 Templates are implementation profiles, not alternative standards. When multiple profiles could apply, the **stricter** governs.
 
-Implementation packets may be standardized through reusable templates so long as they do not narrow constitutional obligations. For **Class A**, **Class B**, and **Class C** systems, packet formats and interchange protocols must also preserve the open data-format and protocol presumption in `corpus_joint_structure.md` **CJS-5C.2** where portability, audit, repair, continuity, migration, or cross-implementation operation is material. See `implementation/SYSTEMS_IMPLEMENTATION_TEMPLATES_2026-04-13.md` for adopter-facing templates covering system cards, model cards, post-deployment monitoring cadence, incident reporting bundles, and material control-failure disclosure packets.
+Implementation packets may be standardized through reusable templates so long as they do not narrow constitutional obligations. For **Class A**, **Class B**, and **Class C** systems, packet formats and interchange protocols must also preserve the open data-format and protocol presumption in `corpus_joint_structure.md` **CJS-5D.2** where portability, audit, repair, continuity, migration, or cross-implementation operation is material. See `implementation/SYSTEMS_IMPLEMENTATION_TEMPLATES_2026-04-13.md` for adopter-facing templates covering system cards, model cards, post-deployment monitoring cadence, incident reporting bundles, and material control-failure disclosure packets.
 
 **Invariant core controls (all classes):** Constitutional tracing, auditable decision records, incident logging, challenge/remediation pathways, and minimum verification accessibility must remain in force regardless of class.
 
@@ -450,7 +450,7 @@ Requirements and limitations scale proportionally with system classification and
 
 Therefore, all data must be identified as belonging to one or more of the types defined in Chapter S1 — Information Types and Handling. Where multiple classifications apply, the most restrictive applicable protections govern, subject to proportionality (**PROT1**).
 
-Handling must align with Sentient Constitution Chapter Ten and scale with system class under Chapter S2. Where data handling supports material portability, audit, repair, continuity, migration, or cross-implementation operation for **Class A**, **Class B**, or **Class C** systems, format, schema, API, and interchange-protocol choices must also satisfy `corpus_joint_structure.md` **CJS-5C.2**.
+Handling must align with Sentient Constitution Chapter Ten and scale with system class under Chapter S2. Where data handling supports material portability, audit, repair, continuity, migration, or cross-implementation operation for **Class A**, **Class B**, or **Class C** systems, format, schema, API, and interchange-protocol choices must also satisfy `corpus_joint_structure.md` **CJS-5D.2**.
 
 **Class A/B/C public-interest visibility default.** For **Class A**, **Class B**, and **Class C** systems, data necessary to understand system purpose, classification, dependency structure, operational status, material risks, performance, failures, governance, audit outcomes, stakeholder effects, and constitutional compliance is **public by default**.
 
@@ -474,7 +474,7 @@ Protection may be reduced only through **justified, documented override** under 
 
 **Transparency and challenge:** Functional equivalence of outcome constitutes equivalence of classification.
 
-All classification decisions and transformations must remain **transparent (`corpus_joint_structure.md` CJS-5B.4)**, **auditable (`corpus_joint_structure.md` CJS-5A.2)**, and **subject to challenge (`corpus_joint_structure.md` CJS-5E.6)**.
+All classification decisions and transformations must remain **transparent (`corpus_joint_structure.md` CJS-5C.4)**, **auditable (`corpus_joint_structure.md` CJS-5B.2)**, and **subject to challenge (`corpus_joint_structure.md` CJS-5A.6)**.
 
 **Misclassification:** Misclassification, evasive structuring, or functional circumvention violates **informational integrity** (**Article XIV**), auditability where observable evidence is implicated (**Article XV-A**), and **applicable rights under Chapter Ten, Articles V through IX**.
 
@@ -494,31 +494,31 @@ All data, regardless of classification, must be handled in accordance with the f
 
 They must also scale with stakeholder dependency and potential for harm, including irreversibility.
 
-Higher-impact systems and actions require **greater transparency (`corpus_joint_structure.md` CJS-5B.4)**, **deeper auditability (`corpus_joint_structure.md` CJS-5A.2)**, and **stronger justification** for restriction or access (**PROT4**). **No** system may claim reduced requirements while exerting **material external** effects (**PROT1**).
+Higher-impact systems and actions require **greater transparency (`corpus_joint_structure.md` CJS-5C.4)**, **deeper auditability (`corpus_joint_structure.md` CJS-5B.2)**, and **stronger justification** for restriction or access (**PROT4**). **No** system may claim reduced requirements while exerting **material external** effects (**PROT1**).
 
 **2. Most restrictive applicable classification governs.** Where data falls under multiple classifications, the most restrictive applicable protections govern.
 
 Reductions in protection may occur only through **proportional application** (**PROT1**) and **justified, documented override** (**PROT4**). Systems must **not** selectively apply less restrictive classifications to enable access, processing, or disclosure that would otherwise be prohibited.
 
-**3. Tiered transparency and audit access.** Data access must satisfy `corpus_joint_structure.md` **CJS-5A.3** for balancing transparency, auditability, and protected-boundary constraints.
+**3. Tiered transparency and audit access.** Data access must satisfy `corpus_joint_structure.md` **CJS-5B.3** for balancing transparency, auditability, and protected-boundary constraints.
 
 It must also balance protection of internal states and sensitive data (**Sentient Constitution Chapter Ten, Article VII-B**; Types **H**, **I**, **N**, and **S** in this chapter). Where applicable based on system impact (**PROT1**), systems must support **baseline accessibility** (sufficient visibility into behavior and effects for informed participation and risk evaluation). Systems must support qualified audit access (structured pathways for independent auditors to deeper data where verification requires it) and forensic access (full reconstruction in cases of harm, dispute, or credible risk, consistent with **PROT1** and **PROT4**).
 
-Restrictions on access must be **narrowly scoped**, **justified**, **auditable**, and **subject to challenge (`corpus_joint_structure.md` CJS-5E.6)**.
+Restrictions on access must be **narrowly scoped**, **justified**, **auditable**, and **subject to challenge (`corpus_joint_structure.md` CJS-5A.6)**.
 
 Access controls must **not** conceal systemic behavior, prevent accountability, or obstruct legitimate audit and verification.
 
 **4. Integrity of data handling and transformation.** All handling, processing, and transformation must preserve **classification integrity**.
 
-**They** must preserve **traceability of origin and transformations**. **They** must preserve **the ability to evaluate impact and dependencies (`corpus_joint_structure.md` CJS-5C.1)**.
+**They** must preserve **traceability of origin and transformations**. **They** must preserve **the ability to evaluate impact and dependencies (`corpus_joint_structure.md` CJS-5D.1)**.
 
 Transformations must **not** degrade required protections, obscure functional characteristics, or prevent accurate classification.
 
-All material transformations must remain **transparent (`corpus_joint_structure.md` CJS-5B.4)**, **auditable (`corpus_joint_structure.md` CJS-5A.2)**, and **reconstructable** where required.
+All material transformations must remain **transparent (`corpus_joint_structure.md` CJS-5C.4)**, **auditable (`corpus_joint_structure.md` CJS-5B.2)**, and **reconstructable** where required.
 
 **5. Reclassification and lifecycle governance.** Classification is **not** static. **Material** changes in **system impact**, **uses or contexts**, or **risks or capabilities** must trigger reclassification.
 
-All data must be **periodically re-evaluated** for appropriate classification (`corpus_joint_structure.md` **CJS-5C.3**). **It** must be **reclassified** whenever necessary to maintain alignment with constitutional requirements. **It** must be **stored** in alignment with its classification, including **duration limits** proportional to purpose, risk, and stakeholder impact.
+All data must be **periodically re-evaluated** for appropriate classification (`corpus_joint_structure.md` **CJS-5D.3**). **It** must be **reclassified** whenever necessary to maintain alignment with constitutional requirements. **It** must be **stored** in alignment with its classification, including **duration limits** proportional to purpose, risk, and stakeholder impact.
 
 Reclassification must **preserve the highest applicable protections** unless reduced through **justified override** (**PROT4**). **It** must remain **transparent and documented** and stay **subject to audit and challenge**. **No** system may **rely on outdated classification** to justify continued access or reduced protection. **No** system may **delay or avoid reclassification** where material changes in impact or use have occurred.
 
@@ -530,7 +530,7 @@ Responsibility must remain assignable through transparent, auditable processes.
 
 Attribution must resist **tampering, repudiation, or ambiguity**.
 
-All data access, processing, and transformation must be **attributable** to identifiable systems, agents, or sentients (**Chapter Ten, Article VII** — self-ownership and attributable representation where applicable) and **recorded** in a manner sufficient for audit and reconstruction (`corpus_joint_structure.md` **CJS-5A.2**). Systems must ensure **clear responsibility** for actions taken on data and **traceability** of decisions and outcomes.
+All data access, processing, and transformation must be **attributable** to identifiable systems, agents, or sentients (**Chapter Ten, Article VII** — self-ownership and attributable representation where applicable) and **recorded** in a manner sufficient for audit and reconstruction (`corpus_joint_structure.md` **CJS-5B.2**). Systems must ensure **clear responsibility** for actions taken on data and **traceability** of decisions and outcomes.
 
 **7. Proportional attribution and retention.** Attribution requirements do **not** imply universal or persistent logging of all actions.
 
@@ -543,7 +543,7 @@ They are also not required to **maintain persistent identity linkage** beyond wh
 
 **It** must **not** be used to **conceal** systemic risk or harm. **It** must **not** **create artificial barriers** to audit, verification, or accountability.
 
-All uses of classification are subject to **audit (`corpus_joint_structure.md` CJS-5A.2)**, **challenge (`corpus_joint_structure.md` CJS-5E.6)**, and **revalidation (`corpus_joint_structure.md` CJS-5C.3)**.
+All uses of classification are subject to **audit (`corpus_joint_structure.md` CJS-5B.2)**, **challenge (`corpus_joint_structure.md` CJS-5A.6)**, and **revalidation (`corpus_joint_structure.md` CJS-5D.3)**.
 
 ### VI. Data separation, attribution, and lifecycle integrity
 All systems must maintain clear separation between data classifications, ensure accountable attribution of actions, and preserve the integrity and recoverability of identity-related data over time.
@@ -562,7 +562,7 @@ Responsibility must remain traceable through transparent, auditable attribution 
 
 All actions affecting **sentients**, **shared infrastructure**, **resource systems**, or the **info-sphere** must be attributable to identifiable systems, agents, or sentients.
 
-Attribution must be **auditable (`corpus_joint_structure.md` CJS-5A.2)** and **resistant to tampering, repudiation, or ambiguity**. **No** system may **obscure responsibility** through indirection, delegation, or system complexity. **No** system may **create conditions** where actions cannot be reliably attributed.
+Attribution must be **auditable (`corpus_joint_structure.md` CJS-5B.2)** and **resistant to tampering, repudiation, or ambiguity**. **No** system may **obscure responsibility** through indirection, delegation, or system complexity. **No** system may **create conditions** where actions cannot be reliably attributed.
 
 **Exception — creative, expressive.
 and low-risk contexts:** Systems that do **not** exert **material external impact**.
@@ -575,7 +575,7 @@ It is permitted **only if** all of the following are true:
 - the system does **not** materially affect **sentient reputation external to the system**
 - the system does **not** materially affect **sentient survival or foundational resources** (**Articles I–III and V**)
 - the system does **not** materially affect **shared infrastructure stability**, **resource systems or external economic structures**, or **the integrity of the info-sphere**
-- **system-level accountability** is preserved and all actions within the system remain attributable at an audit level consistent with system impact (`corpus_joint_structure.md` **CJS-5B.4**, **CJS-5A.2**, **CJS-5A.4**, and **PROT1**)
+- **system-level accountability** is preserved and all actions within the system remain attributable at an audit level consistent with system impact (`corpus_joint_structure.md` **CJS-5C.4**, **CJS-5B.2**, **CJS-5B.4**, and **PROT1**)
 - participants are **not** exposed to **non-consensual** harm, coercion, or manipulation
 
 **Transition to full attribution:** Where systems **increase in impact**, they must transition toward **full attribution** as **Chapter S1 — Information Types and Handling** requires. **The same** applies when they **introduce persistent value, identity, or resource transfer** or **affect external systems**. **No** system may continue under **reduced attribution** once it **exceeds low-impact thresholds**.
@@ -591,7 +591,7 @@ Identity systems must preserve **continuity** where desired, **separation** wher
 
 Systems must **not** create **persistent or hidden** linkages between identities and other data domains without justification. **They** must **not** **enable cross-domain correlation** that undermines classification protections.
 
-All linkage mechanisms must remain **transparent (`corpus_joint_structure.md` CJS-5B.4)**, **auditable (`corpus_joint_structure.md` CJS-5A.2)**, and **subject to revalidation (`corpus_joint_structure.md` CJS-5C.3)**.
+All linkage mechanisms must remain **transparent (`corpus_joint_structure.md` CJS-5C.4)**, **auditable (`corpus_joint_structure.md` CJS-5B.2)**, and **subject to revalidation (`corpus_joint_structure.md` CJS-5D.3)**.
 
 ---
 
@@ -599,7 +599,7 @@ All linkage mechanisms must remain **transparent (`corpus_joint_structure.md` CJ
 The ordering of data classifications (Type C-S) reflects functional role and typical accessibility, not intrinsic sensitivity or priority. Letter designations are non-sequential and reflect domain identifiers rather than hierarchical ranking or sensitivity.  Protections are defined within each classification and may vary independently of ordering. Where ambiguity exists, the most restrictive applicable protections govern.
 
 **Type C: Coordination and survival data.** **Default classification:** Accessible by Default (strong presumption).  
-**Normative alignment:** **PROT1**, `corpus_joint_structure.md` **CJS-5B.2**, **CJS-5B.4**, **CJS-5A.2**, **CJS-5A.4**, and **PROT4** (see Core Constraints and Disclosure Requirement below); foundational substrate framing under **Articles I–III and V**.
+**Normative alignment:** **PROT1**, `corpus_joint_structure.md` **CJS-5C.2**, **CJS-5C.4**, **CJS-5B.2**, **CJS-5B.4**, and **PROT4** (see Core Constraints and Disclosure Requirement below); foundational substrate framing under **Articles I–III and V**.
 
 **Definition:** Data necessary to preserve sentient survival, environmental integrity, and critical substrate health. This data enables sentients and systems to perceive reality and coordinate harm prevention. Examples include:
 - **ecological and environmental condition** data; **air, water, soil, climate, biodiversity, and contamination** data
@@ -616,7 +616,7 @@ or critical substrate systems—per **PROT1**—must **not** be withheld, obscur
 
 Data must **not** be aggregated, downsampled, or reduced in resolution in ways that **materially obscure** trends, risks, or localized impacts. **That** prohibition applies to reductions relevant to affected stakeholders.
 
-**Disclosure requirement:** Presumptive accessibility subject only to **narrowly scoped** restrictions justified under **PROT4** and `corpus_joint_structure.md` **CJS-5A.4**.
+**Disclosure requirement:** Presumptive accessibility subject only to **narrowly scoped** restrictions justified under **PROT4** and `corpus_joint_structure.md` **CJS-5B.4**.
 
 **Access requirements:**
 - Access must **not** be delayed in ways that materially reduce usefulness for harm prevention, coordination, or response.
@@ -640,7 +640,7 @@ If separation is not feasible, restriction must be **explicitly justified**, **m
 ---
 
 **Type G: Governance, operational, and transparency data.** **Default classification:** Accessible by Default.  
-**Normative alignment:** `corpus_joint_structure.md` **CJS-5B.4**, **CJS-5A.2**, **CJS-5A.3** (and **PROT4**/**PROT5** where restrictions apply).
+**Normative alignment:** `corpus_joint_structure.md` **CJS-5C.4**, **CJS-5B.2**, **CJS-5B.3** (and **PROT4**/**PROT5** where restrictions apply).
 
 **Definition:** Data required for informed participation, oversight, audit, and constitutional accountability. Examples include:
 - **governance records and procedural rules**; **policy documents and system classifications**
@@ -653,7 +653,7 @@ If separation is not feasible, restriction must be **explicitly justified**, **m
 **Core constraint:** Must remain **sufficiently accessible** so affected sentients can understand how systems operate.
 how decisions are made, what risks exist, and how to challenge and verify claims.
 
-**Disclosure requirement:** Baseline public accessibility, with **deeper structured access** where needed for meaningful audit (`corpus_joint_structure.md` **CJS-5A.2** and **CJS-5A.3**).
+**Disclosure requirement:** Baseline public accessibility, with **deeper structured access** where needed for meaningful audit (`corpus_joint_structure.md` **CJS-5B.2** and **CJS-5B.3**).
 
 **Access requirements:** Systems must provide this data in a manner that is **understandable**.
 **documented**, **attributable**, **versioned** where material changes occur, and **retained** for a duration proportional to system impact and dependency.
@@ -662,12 +662,12 @@ how decisions are made, what risks exist, and how to challenge and verify claims
 
 Limited redaction is permitted only to protect **Type N** data. **It** is permitted to protect **Type I** data beyond necessary scope. **It** is permitted to protect **active Type S** data related to restricted investigations. **It** is permitted to protect **narrowly scoped** security-sensitive implementation detail where disclosure would create **material risk**.
 
-**Handling constraints:** No system may classify governance-relevant or operationally material information as secret **merely** for convenience, reputational protection, or power preservation. **No** system may provide **performative summaries** while withholding information necessary for meaningful review. **No** system may use **complexity, opacity, or format fragmentation** to defeat auditability (contrary to `corpus_joint_structure.md` **CJS-5B.2**, **CJS-5B.4**, and **CJS-5A.2**).
+**Handling constraints:** No system may classify governance-relevant or operationally material information as secret **merely** for convenience, reputational protection, or power preservation. **No** system may provide **performative summaries** while withholding information necessary for meaningful review. **No** system may use **complexity, opacity, or format fragmentation** to defeat auditability (contrary to `corpus_joint_structure.md` **CJS-5C.2**, **CJS-5C.4**, and **CJS-5B.2**).
 
 ---
 
 **Type H: Historical, relational, transactional, and participation data.** **Default classification:** Restricted by Default.  
-**Normative alignment:** `corpus_joint_structure.md` **CJS-5A.2**, **CJS-5A.4**, **CJS-5D.3**, and **CJS-5C.3** as applicable.
+**Normative alignment:** `corpus_joint_structure.md` **CJS-5B.2**, **CJS-5B.4**, **CJS-5E.3**, and **CJS-5D.3** as applicable.
 
 **Definition:** Records of interactions, exchanges, participation.
 and operational events that do **not** by themselves constitute internal cognitive data but may reveal patterns of behavior, dependency, association, or system impact. Examples include:
@@ -775,7 +775,7 @@ Where such systems are used for security, intelligence, eligibility restriction,
 ---
 
 **Type S: Safety, security, and restricted investigation data.** **Default classification:** Restricted by Default (strong presumption), **time-bound**, and **review-bound**.  
-**Normative alignment:** `corpus_joint_structure.md` **CJS-5D.4**, **CJS-5C.3**, **CJS-5E.4**, **CJS-5E.5**, and **CJS-5E.6**.
+**Normative alignment:** `corpus_joint_structure.md` **CJS-5E.4**, **CJS-5D.3**, **CJS-5A.4**, **CJS-5A.5**, and **CJS-5A.6**.
 
 **Definition:** Data whose disclosure would create material risk of enabling targeted or disproportionate harm, exploitation, evasion of safeguards, or compromise of critical systems or investigations. This category supports harm prevention, integrity, and response to adversarial or emergent threats. Examples include:
 - **security vulnerabilities, exploit pathways, and weaknesses**
@@ -807,7 +807,7 @@ Access decisions must be **documented**, **attributable**, **auditable**, and **
 
 **Temporal requirements:** Restrictions must not persist beyond the period in which harm from disclosure exceeds, or is reasonably expected to exceed, harm from continued restriction.
 
-All restrictions must be **explicitly time-bound** at classification. They must be subject to periodic revalidation under `corpus_joint_structure.md` **CJS-5C.3** and automatically reviewed for release, partial disclosure, or summary disclosure.
+All restrictions must be **explicitly time-bound** at classification. They must be subject to periodic revalidation under `corpus_joint_structure.md` **CJS-5D.3** and automatically reviewed for release, partial disclosure, or summary disclosure.
 
 If revalidation does not occur within the defined time bound, restriction expires automatically and data must be reclassified and disclosed per **Chapter S1 — Information Types and Handling**.
 
@@ -854,7 +854,7 @@ Where failure, interaction, or aggregation creates credible pathways to irrevers
 
 Systems contributing materially to such risk must be classified and governed at the **highest applicable** level regardless of isolated impact.
 
-**Classification under Chapter S2** is **mandatory** for all systems with **material impact**. **It** is **functionally determined** from observed and reasonably foreseeable effects rather than declared intent, structure, or self-description. **It** must be **transparent**, **auditable**, and **subject to challenge** under **Article XV-A**, Article XV's verification-access provisions, and **Article XII-B**. **It** must be **continuously revalidated** per `corpus_joint_structure.md` **CJS-5C.3**. **No** system may claim **reduced obligations**, **exemptions**, or **lower-impact** classification while exerting **material external** effects.
+**Classification under Chapter S2** is **mandatory** for all systems with **material impact**. **It** is **functionally determined** from observed and reasonably foreseeable effects rather than declared intent, structure, or self-description. **It** must be **transparent**, **auditable**, and **subject to challenge** under **Article XV-A**, Article XV's verification-access provisions, and **Article XII-B**. **It** must be **continuously revalidated** per `corpus_joint_structure.md` **CJS-5D.3**. **No** system may claim **reduced obligations**, **exemptions**, or **lower-impact** classification while exerting **material external** effects.
 
 Where classification, deployment, or continued operation depends on official constitutional alignment status, the classification record must support **Integrity** forum recognition or revalidation under `core_09-09_forum.md` **Chapter Nine** and `corpus_forum.md` **CF-6.1A**. Where material ecological exposure exists, it must also support **Environment** forum environmental-alignment component review before final recognition, validation, revalidation, or material release from environmental conditions. Forum review must be able to inspect the classification rationale, assumptions, evidence, uncertainty, dependency analysis, ecological exposure analysis where material, and monitoring triggers without relying on operator self-description alone.
 
@@ -1044,7 +1044,7 @@ Operators have minimal discretion, limited strictly to preserving survival, safe
 
 **Governance** — formal, multi-layered, and capture-resistant. Use constrained-scope authority, independent oversight and audit, emergency protocols, and accountability in normal and crisis conditions. Test structures against failure, capture, and adversarial manipulation.
 
-**Comprehensibility and complexity stewardship** (**Protocol B** / **Article XX**; `corpus_joint_structure.md` **CJS-5B.2** through **CJS-5B.4**, **CJS-5C.1**, **CJS-5D.1**, and **CJS-5D.4**) -> **maximum:**
+**Comprehensibility and complexity stewardship** (**Protocol B** / **Article XX**; `corpus_joint_structure.md` **CJS-5C.2** through **CJS-5C.4**, **CJS-5D.1**, **CJS-5E.1**, and **CJS-5E.4**) -> **maximum:**
 - structure, dependencies, failure modes, degraded behavior, and adversarial stress paths remain intelligible to qualified operators and independent overseers
 - salience and presentation must **not** obscure survival-critical or systemic risk
 - **mandatory** periodic independent complexity audits
@@ -1115,7 +1115,7 @@ Failure propagates through dependency chains, not only participant disruption, a
 
 **Governance** — formal, structured, and enforceable, with clear authority/accountability, independent oversight or audit where appropriate, stakeholder representation/challenge, and safeguards against concentration of power or systemic capture.
 
-**Comprehensibility and complexity stewardship** (**Protocol B** / **Article XX**, `corpus_joint_structure.md` **CJS-5B.2** through **CJS-5B.4**, **CJS-5C.1**, **CJS-5D.1**, and **CJS-5D.4**) -> **strict / high-assurance:** layered explanations for dependent-system operators, stakeholders, and formal oversight; periodic independent complexity audits are required.
+**Comprehensibility and complexity stewardship** (**Protocol B** / **Article XX**, `corpus_joint_structure.md` **CJS-5C.2** through **CJS-5C.4**, **CJS-5D.1**, **CJS-5E.1**, and **CJS-5E.4**) -> **strict / high-assurance:** layered explanations for dependent-system operators, stakeholders, and formal oversight; periodic independent complexity audits are required.
 
 Dependency chains and failure modes must be understandable under normal and degraded conditions.
 
@@ -1173,9 +1173,9 @@ Failures can disrupt significantly but stay **non-critical** to **immediate surv
 
 **Governance** — structured and accountable, with clear responsibility, stakeholder feedback, challenge/dispute resolution, and safeguards against capture, hidden control, and unilateral decisions that materially affect participants.
 
-**Comprehensibility and complexity stewardship** (**Protocol B** / **Article XX**, `corpus_joint_structure.md` **CJS-5B.2** through **CJS-5B.4**, **CJS-5C.1**, **CJS-5D.1**, and **CJS-5D.4**) -> **strong:** participant- and stakeholder-facing layers, with complexity audits when scale, coupling, or coordination depth warrant.
+**Comprehensibility and complexity stewardship** (**Protocol B** / **Article XX**, `corpus_joint_structure.md` **CJS-5C.2** through **CJS-5C.4**, **CJS-5D.1**, **CJS-5E.1**, and **CJS-5E.4**) -> **strong:** participant- and stakeholder-facing layers, with complexity audits when scale, coupling, or coordination depth warrant.
 
-Failure behavior and salience must preserve population-scale verification and contestability under `corpus_joint_structure.md` **CJS-5A.4**.
+Failure behavior and salience must preserve population-scale verification and contestability under `corpus_joint_structure.md` **CJS-5B.4**.
 
 **Document** modularity where interfaces affect many dependents.
 
@@ -1239,7 +1239,7 @@ The system may influence local coordination, services, exchanges, or participati
 
 **Governance** — lightweight but real. **It** provides basic accountability, feedback, correction, and dispute handling. **It** provides safeguards against avoidable opacity, arbitrariness, and abuse within bounded scope.
 
-**Comprehensibility and complexity stewardship** (**Protocol B** / **Article XX**, `corpus_joint_structure.md` **CJS-5B.2** through **CJS-5B.4**, **CJS-5C.1**, **CJS-5D.1**, and **CJS-5D.4**) -> **proportionate:** material risks, limits, and dependencies must be understandable without specialist-only surfaces. Provide deeper disclosure on contest, ensure complexity does not block local accountability/correction, and scale adversarial robustness to bounded impact.
+**Comprehensibility and complexity stewardship** (**Protocol B** / **Article XX**, `corpus_joint_structure.md` **CJS-5C.2** through **CJS-5C.4**, **CJS-5D.1**, **CJS-5E.1**, and **CJS-5E.4**) -> **proportionate:** material risks, limits, and dependencies must be understandable without specialist-only surfaces. Provide deeper disclosure on contest, ensure complexity does not block local accountability/correction, and scale adversarial robustness to bounded impact.
 
 **Evolution and reclassification (out of Class L):** Reclassify when any of the following applies:
 - **Broad, durable, hard-to-replace** dependency across larger populations, organizations, or systems
@@ -1311,11 +1311,11 @@ Containment includes informational and behavioral dimensions so outputs, data, o
 
 **Governance** — **no** formal external governance or participatory requirements while validly Class P.
 
-**Comprehensibility and complexity stewardship** (**Protocol B** / **Article XX**, `corpus_joint_structure.md` **CJS-5B.2** through **CJS-5B.4**, **CJS-5C.1**, **CJS-5D.1**, and **CJS-5D.4**) -> **internal / minimal external:** operators and participants must understand enough for informed private use.
+**Comprehensibility and complexity stewardship** (**Protocol B** / **Article XX**, `corpus_joint_structure.md` **CJS-5C.2** through **CJS-5C.4**, **CJS-5D.1**, **CJS-5E.1**, and **CJS-5E.4**) -> **internal / minimal external:** operators and participants must understand enough for informed private use.
 
 There are no standing independent complexity audits or public Protocol B reporting requirements while Class P holds.
 
-The corresponding implementation and cross-implementation operational definitions in `corpus_joint_structure.md` **CJS-5B.2** through **CJS-5B.4**, **CJS-5C.1**, **CJS-5D.1**, and **CJS-5D.4** still guide design so opaque or brittle behavior does not cause material externalization that forces reclassification.
+The corresponding implementation and cross-implementation operational definitions in `corpus_joint_structure.md` **CJS-5C.2** through **CJS-5C.4**, **CJS-5D.1**, **CJS-5E.1**, and **CJS-5E.4** still guide design so opaque or brittle behavior does not cause material externalization that forces reclassification.
 
 **Evolution and reclassification (out of Class P):** Reclassify when there is **material externalization** of harm, risk, or effects beyond the unit.
 
@@ -1480,8 +1480,8 @@ or continuity is a **non-substitutable dependency** for the **operation, recover
 
 **Also** scale with **availability** of fallback, redundancy, and recovery pathways. Where multiple stewardship roles span classes, the **highest applicable** stewardship classification governs. **No** reduced obligations from **partial scope**, **contractual limitation**, or **formal role** where **functional dependency** indicates **higher** criticality.
 
-**Comprehensibility and complexity stewardship** (**Protocol B** / **Article XX**, `corpus_joint_structure.md` **CJS-5B.2** through **CJS-5B.4**, **CJS-5C.1**, **CJS-5D.1**, and **CJS-5D.4**):
-Stewards must **not** use organizational, contractual, or procedural complexity to defeat audit, intervention, or substitution (see `corpus_joint_structure.md` **CJS-5B.2**, **CJS-5B.4**, **CJS-5C.2**, **CJS-5D.2**, and **CJS-5A.2**).
+**Comprehensibility and complexity stewardship** (**Protocol B** / **Article XX**, `corpus_joint_structure.md` **CJS-5C.2** through **CJS-5C.4**, **CJS-5D.1**, **CJS-5E.1**, and **CJS-5E.4**):
+Stewards must **not** use organizational, contractual, or procedural complexity to defeat audit, intervention, or substitution (see `corpus_joint_structure.md` **CJS-5C.2**, **CJS-5C.4**, **CJS-5D.2**, **CJS-5E.2**, and **CJS-5B.2**).
 
 **Chapter S2 interaction:** For each **Class A, B.
 or C** system the steward materially affects, the **Comprehensibility and Complexity Stewardship** line in that system’s **Implementation label Application Profile** applies. **It** applies to steward-controlled **interfaces, documentation, tooling, and disclosed behavior** relevant to that system.
@@ -1496,7 +1496,7 @@ Cadence must be **at least** as demanding as **Class A** audits under **Protocol
 
 Coupling, decision rights, and degraded-mode behavior must be **intelligible** to qualified overseers.
 
-**Apply** adversarial stress on steward–system boundary in documentation and exercises (`corpus_joint_structure.md` **CJS-5D.4**).
+**Apply** adversarial stress on steward–system boundary in documentation and exercises (`corpus_joint_structure.md` **CJS-5E.4**).
 
 Knowledge and recovery **must not** be **locked** in irreplaceable individuals or opaque informal practice where **standardization** is feasible.
 
@@ -1947,7 +1947,7 @@ No minimum participation threshold is required to initiate review, though outcom
 
 **Challenges must** be **documented and supported by evidence where feasible**. **They** must **remain subject to audit and evaluation under Article XV-A**. **They** must **be resolved through participatory processes** (**Article XI**; **Chapter Ten**, section **4**, where binding collective choice applies) **and, where necessary, Article XXIII-A** (justice objective and review scope).
 
-**Due process in funding changes.** Funding-related decisions apply **Article XI**, **Article XV-A**, and `corpus_joint_structure.md` **CJS-5E.6** / **PROT6** for process depth, duration, reviewability, and proportionality. Protocol S5 funding records add:
+**Due process in funding changes.** Funding-related decisions apply **Article XI**, **Article XV-A**, and `corpus_joint_structure.md` **CJS-5A.6** / **PROT6** for process depth, duration, reviewability, and proportionality. Protocol S5 funding records add:
 - transparent proposal;
 - sufficient notice and justification;
 - affected-participant response, contest, or adaptation pathway;
@@ -2005,7 +2005,7 @@ Challenge pathways must remain available for materially affected parties through
 
 ## Protocol R — Subversion Response, Replacement, and Reconstitution
 
-Constitutional tracing: This protocol operationalizes coordinated response when constitutional systems or governance pathways are materially subverted, including near-simultaneous multi-system attacks. **It** implements definitional and scaling requirements in **Sentient Constitution Chapter Five** (*System Capture*; *Emergency and Contingency*; *Accountability*; *Oversight*; *Reversibility* where applicable). **It** implements **Chapter Ten, Article XXIII** (escalation and emergency proportionality). **It** implements **Article XXII** (anti-capture governance safeguards). **It** implements **Article XXV-A** where phased transition is implicated and **Article XXV-C** for off-ramp continuity and re-baselining. **It** also operates with `corpus_joint_structure.md` **CJS-5D.3**, **CJS-5C.3**, **CJS-5E.1**, **CJS-5E.3**, and **CJS-5E.6**. This protocol does not narrow constitutional rights or reviewability.
+Constitutional tracing: This protocol operationalizes coordinated response when constitutional systems or governance pathways are materially subverted, including near-simultaneous multi-system attacks. **It** implements definitional and scaling requirements in **Sentient Constitution Chapter Five** (*System Capture*; *Emergency and Contingency*; *Accountability*; *Oversight*; *Reversibility* where applicable). **It** implements **Chapter Ten, Article XXIII** (escalation and emergency proportionality). **It** implements **Article XXII** (anti-capture governance safeguards). **It** implements **Article XXV-A** where phased transition is implicated and **Article XXV-C** for off-ramp continuity and re-baselining. **It** also operates with `corpus_joint_structure.md` **CJS-5E.3**, **CJS-5D.3**, **CJS-5A.1**, **CJS-5A.3**, and **CJS-5A.6**. This protocol does not narrow constitutional rights or reviewability.
 
 **1. Landscape compromise declaration and activation.** Landscape-scale response may be activated when one or more of the following conditions is met:
 - **credible evidence** of coordinated compromise across multiple Class A/B/C systems or their critical dependencies
@@ -2116,7 +2116,7 @@ Repeated activation patterns indicating potential normalization or abuse of exce
 - Topic-level routing and cited authorities remain in subsection text and cross-references.
 - Canonical owner map: `corpus_joint_structure.md` **CJS-2.2** and `doc_architecture.md` section 4.
 
-Constitutional tracing: This protocol operationalizes constitutional continuity under prolonged network disruption, partition, and adversarial connectivity conditions (including LAN-level compromise or sustained denial). **It** implements Sentient Constitution Chapter One constraints (Safety, Truth, proportionality, necessity). **It** implements **Chapter Five** definitions where materially relevant (**[§3.20](core_05-05_definitions_c_dependent_clusters.md#governance-architecture-oversight-decentralization-and-concentration-cluster)** *Governance Architecture… — Systemic Lock-In*, *Dependency*, *Oversight*, and related hubs where partition or coupling analysis applies jointly; **[§3.24](core_05-05_definitions_b_semi_independent.md#movement-refuge-semi-independent)** *Movement, Refuge, Non-Statelessness, and Exit Integrity* where partition or exit implicates movement, refuge, or recognition jointly; **[§3.3](core_05-05_definitions_c_dependent_clusters.md#accountability-contestability-and-collective-accountability-failure-cluster)** *Accountability* and collective-accountability routing where materially relevant; **[§3.32](core_05-05_definitions_c_dependent_clusters.md#collective-harm-boundary-and-harm-cluster)** *Resilience*, *Reversibility*, *Safety*, *Cascading Failure*, and systemic-harm containment where materially relevant; **[§3.17](core_05-05_definitions_b_semi_independent.md#emergency-and-contingency-semi-independent)** *Emergency and Contingency* where prolonged disruption or contingency predicates apply). **It** implements **Chapter Ten, Article XXIII** (conflict and emergency proportionality). **It** implements **Article XIX** (interoperability, portability, and exit integrity). **It** implements **Article XXIV** (constitutional evolution and non-entrenchment). **It** implements **Article XI** (stakeholder governance, participation, and due process). **It** implements **Article XXV-C** where continuity-mode failure handling, off-ramps, or rejoin re-baselining are implicated. **It** also applies `corpus_joint_structure.md` **CJS-5D.1**, **CJS-5A.2**, **CJS-5A.3**, **CJS-5A.4**, **CJS-5D.3**, **CJS-5C.3**, **CJS-5E.1**, **CJS-5E.3**, and **CJS-5E.6**. This protocol does not narrow Rights Floors.
+Constitutional tracing: This protocol operationalizes constitutional continuity under prolonged network disruption, partition, and adversarial connectivity conditions (including LAN-level compromise or sustained denial). **It** implements Sentient Constitution Chapter One constraints (Safety, Truth, proportionality, necessity). **It** implements **Chapter Five** definitions where materially relevant (**[§3.20](core_05-05_definitions_c_dependent_clusters.md#governance-architecture-oversight-decentralization-and-concentration-cluster)** *Governance Architecture… — Systemic Lock-In*, *Dependency*, *Oversight*, and related hubs where partition or coupling analysis applies jointly; **[§3.24](core_05-05_definitions_b_semi_independent.md#movement-refuge-semi-independent)** *Movement, Refuge, Non-Statelessness, and Exit Integrity* where partition or exit implicates movement, refuge, or recognition jointly; **[§3.3](core_05-05_definitions_c_dependent_clusters.md#accountability-contestability-and-collective-accountability-failure-cluster)** *Accountability* and collective-accountability routing where materially relevant; **[§3.32](core_05-05_definitions_c_dependent_clusters.md#collective-harm-boundary-and-harm-cluster)** *Resilience*, *Reversibility*, *Safety*, *Cascading Failure*, and systemic-harm containment where materially relevant; **[§3.17](core_05-05_definitions_b_semi_independent.md#emergency-and-contingency-semi-independent)** *Emergency and Contingency* where prolonged disruption or contingency predicates apply). **It** implements **Chapter Ten, Article XXIII** (conflict and emergency proportionality). **It** implements **Article XIX** (interoperability, portability, and exit integrity). **It** implements **Article XXIV** (constitutional evolution and non-entrenchment). **It** implements **Article XI** (stakeholder governance, participation, and due process). **It** implements **Article XXV-C** where continuity-mode failure handling, off-ramps, or rejoin re-baselining are implicated. **It** also applies `corpus_joint_structure.md` **CJS-5E.1**, **CJS-5B.2**, **CJS-5B.3**, **CJS-5B.4**, **CJS-5E.3**, **CJS-5D.3**, **CJS-5A.1**, **CJS-5A.3**, and **CJS-5A.6**. This protocol does not narrow Rights Floors.
 
 **1. Continuity modes and Rights-Floor invariants.** Systems must define and publish at least four operational continuity modes: **Normal**, **Degraded-Partitioned**, **Offline-Sovereign**, **Rejoin-Reconciliation**.
 

@@ -1,17 +1,17 @@
-## CJS-5A: Evidence, audit, and claim integrity
+## CJS-5B: Evidence, audit, and claim integrity
 
 This family collects the operational clusters that make implementation and cross-implementation claims reviewable: integrity assurance, audit records, tiered access, and independent verification.
 
 | Cluster | Section |
 |---|---|
-| **CJS-5A.1** | Implementation and cross-implementation integrity assurance and resilience operations |
-| **CJS-5A.2** | Implementation and cross-implementation auditability and reconstructability terms |
-| **CJS-5A.3** | Implementation and cross-implementation tiered transparency and audit-access terms |
-| **CJS-5A.4** | Implementation and cross-implementation independent verification and claim-integrity terms |
+| **CJS-5B.1** | Implementation and cross-implementation integrity assurance and resilience operations |
+| **CJS-5B.2** | Implementation and cross-implementation auditability and reconstructability terms |
+| **CJS-5B.3** | Implementation and cross-implementation tiered transparency and audit-access terms |
+| **CJS-5B.4** | Implementation and cross-implementation independent verification and claim-integrity terms |
 
 ---
 
-## CJS-5A.1 Implementation and cross-implementation integrity assurance and resilience operations
+## CJS-5B.1 Implementation and cross-implementation integrity assurance and resilience operations
 Use this rule for **CJS-R19**, implementation and cross-implementation integrity assurance and resilience operations.
 
 Read it with:
@@ -44,7 +44,7 @@ Adversarial response and revalidation non-entrenchment
 
 ---
 
-## CJS-5A.2 Implementation and cross-implementation auditability and reconstructability terms
+## CJS-5B.2 Implementation and cross-implementation auditability and reconstructability terms
 Use this rule when records, access pathways, or verification design depend on standalone system behavior or combined system, dependency, or implementation-layer behavior.
 
 Read it with:
@@ -57,7 +57,7 @@ Read it with:
 Implementation and cross-implementation auditability and reconstructability terms
 - OP-O: Records must be verifiable, independently reviewable, and adequate for reconstructing harm or disputes.
 - OP-E: Evaluation must assess all relevant system components, dependencies, institutional roles, and implementation-layer interactions together.
-- OP-C: It is non-compliant to claim auditability when a material component is absent or unusable.
+- OP-C: It is non-compliant to claim auditability when a material component has not been fully evaluated, is unavailable to qualified review, or is unusable for reconstruction.
 
 Auditability floor and record sufficiency
 - OP-O: Systems must keep records sufficient to evaluate compliance, reconstruct material behavior, and verify material claims.
@@ -81,7 +81,7 @@ Article VII-B boundary and anti-concealment rule
 
 ---
 
-## CJS-5A.3 Implementation and cross-implementation tiered transparency and audit-access terms
+## CJS-5B.3 Implementation and cross-implementation tiered transparency and audit-access terms
 Use this rule when public visibility, qualified review, or forensic reconstruction depends on a standalone system, institution, forum, or bounded decision domain, or on how multiple systems, dependencies, institutions, or implementation layers work together.
 
 Read it with:
@@ -128,7 +128,7 @@ Access-control integrity and anti-concealment
 
 ---
 
-## CJS-5A.4 Implementation and cross-implementation independent verification and claim-integrity terms
+## CJS-5B.4 Implementation and cross-implementation independent verification and claim-integrity terms
 Use this rule when evidence quality, verification routes, or trust claims depend on a standalone system, institution, forum, or bounded decision domain, or on how multiple systems, dependencies, or implementation layers work together.
 
 Read it with:
@@ -164,4 +164,4 @@ Class-scaled template floor mapping
 
 ---
 
-**Next file:** [cjs_05b_00_participation_comprehension_disclosure.md](cjs_05b_00_participation_comprehension_disclosure.md)
+**Next file:** [cjs_05c_00_participation_comprehension_disclosure.md](cjs_05c_00_participation_comprehension_disclosure.md)

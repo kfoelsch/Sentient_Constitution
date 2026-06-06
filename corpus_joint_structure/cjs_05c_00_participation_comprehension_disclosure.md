@@ -1,17 +1,17 @@
-## CJS-5B: Participation, comprehension, and disclosure
+## CJS-5C: Participation, comprehension, and disclosure
 
 This family collects the operational clusters that make affected-party participation, understanding, attention integrity, and disclosure usable within standalone implementation scopes and across implementation boundaries.
 
 | Cluster | Section |
 |---|---|
-| **CJS-5B.1** | Implementation and cross-implementation quorum and participatory legitimacy terms |
-| **CJS-5B.2** | Implementation and cross-implementation comprehensibility and cognitive accessibility terms |
-| **CJS-5B.3** | Implementation and cross-implementation salience integrity and attention-allocation terms |
-| **CJS-5B.4** | Implementation and cross-implementation disclosure sufficiency and observability terms |
+| **CJS-5C.1** | Implementation and cross-implementation quorum and participatory legitimacy terms |
+| **CJS-5C.2** | Implementation and cross-implementation comprehensibility and cognitive accessibility terms |
+| **CJS-5C.3** | Implementation and cross-implementation salience integrity and attention-allocation terms |
+| **CJS-5C.4** | Implementation and cross-implementation disclosure sufficiency and observability terms |
 
 ---
 
-## CJS-5B.1 Implementation and cross-implementation quorum and participatory legitimacy terms
+## CJS-5C.1 Implementation and cross-implementation quorum and participatory legitimacy terms
 Use this rule when participation or quorum rules affect materially binding outcomes within a standalone system, institution, forum, or bounded decision domain, or across more than one implementation file.
 
 Read it with:
@@ -72,7 +72,7 @@ Notification and pathway integrity
 
 ---
 
-## CJS-5B.2 Implementation and cross-implementation comprehensibility and cognitive accessibility terms
+## CJS-5C.2 Implementation and cross-implementation comprehensibility and cognitive accessibility terms
 Use this rule when transparency, participation, auditability, or accountability depends on information being understandable within a standalone system, institution, forum, or bounded decision domain, or across implementation interfaces.
 
 Read it with:
@@ -126,7 +126,7 @@ Proportional application
 
 ---
 
-## CJS-5B.3 Implementation and cross-implementation salience integrity and attention-allocation terms
+## CJS-5C.3 Implementation and cross-implementation salience integrity and attention-allocation terms
 Use this rule when a system decides what sentients see first, see often, see rarely, or do not see at all. This includes ranking, recommendation, filtering, search order, notifications, feeds, alerts, and other tools that steer attention.
 
 Read it with:
@@ -188,7 +188,7 @@ Proportional application
 
 ---
 
-## CJS-5B.4 Implementation and cross-implementation disclosure sufficiency and observability terms
+## CJS-5C.4 Implementation and cross-implementation disclosure sufficiency and observability terms
 Use this rule when informed participation, independent verification, or attribution depends on disclosure within a standalone system, institution, forum, or bounded decision domain, or across systems, dependencies, institutions, or implementation layers.
 
 Read it with:
@@ -224,4 +224,4 @@ Private internal-state boundary and external observability attribution
 
 ---
 
-**Next file:** [cjs_05c_00_dependency_exit_lifecycle_integrity.md](cjs_05c_00_dependency_exit_lifecycle_integrity.md)
+**Next file:** [cjs_05d_00_dependency_exit_lifecycle_integrity.md](cjs_05d_00_dependency_exit_lifecycle_integrity.md)

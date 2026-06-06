@@ -1,19 +1,19 @@
-## CJS-5E: Authority, constraint, secrecy, and procedure
+## CJS-5A: Authority, constraint, secrecy, and procedure
 
 This family collects the operational clusters for authority distribution, override authorization, reflexive accountability, justification burdens, constrained secrecy, and procedural integrity.
 
 | Cluster | Section |
 |---|---|
-| **CJS-5E.1** | Implementation and cross-implementation distributed and proportional authority terms |
-| **CJS-5E.2** | Implementation and cross-implementation intervention governance and override-authorization terms |
-| **CJS-5E.3** | Implementation and cross-implementation reflexive transparency and accountability terms |
-| **CJS-5E.4** | Implementation and cross-implementation burden-of-justification and constraint terms |
-| **CJS-5E.5** | Implementation and cross-implementation constrained-secrecy and protected-investigation terms |
-| **CJS-5E.6** | Implementation and cross-implementation procedural integrity and adjudication terms |
+| **CJS-5A.1** | Implementation and cross-implementation distributed and proportional authority terms |
+| **CJS-5A.2** | Implementation and cross-implementation intervention governance and override-authorization terms |
+| **CJS-5A.3** | Implementation and cross-implementation reflexive transparency and accountability terms |
+| **CJS-5A.4** | Implementation and cross-implementation burden-of-justification and constraint terms |
+| **CJS-5A.5** | Implementation and cross-implementation constrained-secrecy and protected-investigation terms |
+| **CJS-5A.6** | Implementation and cross-implementation procedural integrity and adjudication terms |
 
 ---
 
-## CJS-5E.1 Implementation and cross-implementation distributed and proportional authority terms
+## CJS-5A.1 Implementation and cross-implementation distributed and proportional authority terms
 Use this rule when legitimate governance, participation, concentration control, or system-wide review depends on a standalone system, institution, forum, or bounded decision domain, or on how institutions, systems, dependencies, or implementation layers work together.
 
 Read it with:
@@ -27,7 +27,7 @@ Read it with:
 Implementation and cross-implementation distributed and proportional authority terms
 - OP-O: Authority, oversight, and verification must be distributed, transparent, and resistant to capture.
 - OP-E: Reviewers must evaluate all required components together.
-- OP-C: Governance legitimacy is non-compliant if any material component is missing or bypassed.
+- OP-C: Governance legitimacy is non-compliant if any material component is missing, unevaluated, or bypassed.
 
 Authority distribution and anti-monopoly floor
 - OP-O: No single entity may monopolize interpretation, validation, or enforcement where plural authority is required.
@@ -71,7 +71,7 @@ Contextual and systemic evaluation discipline
 
 ---
 
-## CJS-5E.2 Implementation and cross-implementation intervention governance and override-authorization terms
+## CJS-5A.2 Implementation and cross-implementation intervention governance and override-authorization terms
 Use this rule when governance-level intervention or override authorization depends on a standalone system, institution, forum, or bounded decision domain, or on how institutions, systems, or implementation layers work together.
 
 Read it with:
@@ -86,7 +86,7 @@ Read it with:
 Implementation and cross-implementation intervention governance and override-authorization terms
 - OP-O: Governance intervention must be necessary, authorized, sequenced, bounded, recorded, challengeable, and proportional.
 - OP-E: Reviewers must evaluate all required components together.
-- OP-C: A claim of intervention-governance validity is non-compliant if any material component is missing or bypassed.
+- OP-C: A claim of intervention-governance validity is non-compliant if any material component is missing, unevaluated, or bypassed.
 
 Joint necessity and technical-governance coupling floor
 - OP-O: Governance procedures must preserve timely technical intervention when harm can move faster than ordinary process.
@@ -120,7 +120,7 @@ Proportional procedural scaling
 
 ---
 
-## CJS-5E.3 Implementation and cross-implementation reflexive transparency and accountability terms
+## CJS-5A.3 Implementation and cross-implementation reflexive transparency and accountability terms
 Use this rule when legitimacy depends on authorities holding themselves to equal or stronger standards than they apply to others.
 
 Read it with:
@@ -182,7 +182,7 @@ Anti-corruption and undue-influence auditability controls
 
 ---
 
-## CJS-5E.4 Implementation and cross-implementation burden-of-justification and constraint terms
+## CJS-5A.4 Implementation and cross-implementation burden-of-justification and constraint terms
 Use this rule when restrictions, least-restrictive choices, or revalidation depend on standalone system behavior or combined institutional, system, dependency, or implementation-layer behavior.
 
 Read it with:
@@ -197,7 +197,7 @@ Read it with:
 Implementation and cross-implementation burden-of-justification and constraint terms
 - OP-O: Anyone imposing a material restriction must justify it.
 - OP-E: Evaluation must assess all relevant system components, dependencies, institutional roles, and implementation-layer interactions together.
-- OP-C: It is non-compliant to impose or maintain a material restriction when a material component is absent or unavailable.
+- OP-C: It is non-compliant to impose or maintain a material restriction when any material component, dependency, institutional role, or implementation-layer interaction has not been fully evaluated under the same review record.
 
 Restriction-burden assignment floor
 - OP-O: The party proposing or implementing a restriction bears the burden of justification.
@@ -231,7 +231,7 @@ Innovation-exclusivity anti-enclosure application
 
 ---
 
-## CJS-5E.5 Implementation and cross-implementation constrained-secrecy and protected-investigation terms
+## CJS-5A.5 Implementation and cross-implementation constrained-secrecy and protected-investigation terms
 Use this rule when secrecy, protected investigations, oversight, or delayed release depends on standalone system behavior or combined institutional, governance, system, or implementation-layer behavior.
 
 Read it with:
@@ -247,7 +247,7 @@ Read it with:
 Implementation and cross-implementation constrained-secrecy and protected-investigation terms
 - OP-O: Secrecy must be authorized, minimized, temporary, overseen, reconstructable, and subject to later release review.
 - OP-E: Evaluation must assess all relevant system components, dependencies, institutional roles, and implementation-layer interactions together.
-- OP-C: It is non-compliant to claim lawful secrecy when a material component is absent or used to bypass audit or challenge.
+- OP-C: It is non-compliant to claim lawful secrecy when a material component has not been fully evaluated, cannot be independently reviewed, or is used to bypass audit or challenge.
 
 Authorization and predicate floor
 - OP-O: Disclosure or participation limits require documented, auditable authorization before implementation, except immediate emergencies with prompt post-action review.
@@ -276,7 +276,7 @@ No permanent secrecy and anti-normalization discipline
 
 ---
 
-## CJS-5E.6 Implementation and cross-implementation procedural integrity and adjudication terms
+## CJS-5A.6 Implementation and cross-implementation procedural integrity and adjudication terms
 Use this rule when due process, reviewability, restoration, or enforcement proportionality depends on a standalone system, institution, forum, or bounded decision domain, or on combined forum, institutional, system, or implementation-layer behavior.
 
 Read it with:
@@ -291,7 +291,7 @@ Read it with:
 Implementation and cross-implementation procedural integrity and adjudication terms
 - OP-O: Procedures must provide due process, independent review, proportional enforcement, accessible restoration, uncertainty safeguards, and anti-abuse limits.
 - OP-E: Evaluation must assess all relevant system components, dependencies, institutional roles, and implementation-layer interactions together.
-- OP-C: It is non-compliant to claim procedural integrity when a material component exists only on paper.
+- OP-C: It is non-compliant to claim procedural integrity when a material component has not been tested and evaluated in practice.
 
 Delegated binding body
 - OP-O: A standing or recurring body below a parent institution may exercise materially binding delegated authority only within a published scope.
@@ -347,3 +347,7 @@ System-class and joint-read scaling
 - OP-O: Procedural rigor scales with `corpus_systems.md` class and any institution or forum duties on the same facts.
 - OP-E: Evaluation must verify shared-fact routing through applicable CJS rows and that simplification does not erase basic fairness.
 - OP-C: Downscoping below the combined implementation chain is non-compliant.
+
+---
+
+**Next file:** [cjs_05b_00_evidence_audit_claim_integrity.md](cjs_05b_00_evidence_audit_claim_integrity.md)

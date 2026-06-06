@@ -71,7 +71,7 @@ Use this rule for **CJS-R18**, class-scaled lane staffing and competency redunda
 
 Before applying role, role-holder, stewardship, operator, accountable-role, or lane terms in this subsection, apply **CJS-5.0** and the **Chapter Seven**, section **1.2** competency gate interface.
 
-For **constitutional lane** and functional-separation meaning, apply **CJS-5E.1** (*Constitutional lane and functional separation*) with **CI-2**.
+For **constitutional lane** and functional-separation meaning, apply **CJS-5A.1** (*Constitutional lane and functional separation*) with **CI-2**.
 
 For **Class A** and **Class B** systems, each institution that hosts a constitutional lane with materially binding duties must have:
 - at least **three sentients** assigned to the lane;
@@ -83,7 +83,7 @@ Staffing must be real, not just numerical. Responsibility cannot be spread so th
 The constitutional floor remains in `core_11-11_governance.md` **Chapter Eleven**, section **5**. Domain detail remains in **CI-2**, **CI-4**, **CI-11**, **CI-12**, and `corpus_systems.md` **Chapter S2 — System Classification and Handling** and **Chapter S3 — Critical System Stewardship**.
 
 ### CJS-4.7 Shared procedural abstractions for delegated bodies and forum routing
-This subsection gives shared CJS terms for four procedural router topics: **CJS-R01** delegated binding bodies, **CJS-R02** forum chambers and panels, **CJS-R03** lawful panel formation and recusal, and **CJS-R04** routing, intake, transfer, certification, and representative treatment. Apply the operational evaluation terms in **CJS-5E.6**. This subsection does not replace **CI** or **CF** detail.
+This subsection gives shared CJS terms for four procedural router topics: **CJS-R01** delegated binding bodies, **CJS-R02** forum chambers and panels, **CJS-R03** lawful panel formation and recusal, and **CJS-R04** routing, intake, transfer, certification, and representative treatment. Apply the operational evaluation terms in **CJS-5A.6**. This subsection does not replace **CI** or **CF** detail.
 
 Before applying these procedural role terms, apply the role-definition preface in **CJS-5.0**, including the competency gate and standing interface.
 

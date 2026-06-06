@@ -1,18 +1,18 @@
-## CJS-5D: Failure, robustness, intervention, and correction
+## CJS-5E: Failure, robustness, intervention, and correction
 
 This family collects the operational clusters for degraded operation, intervention readiness, containment, adversarial robustness, and structural correction.
 
 | Cluster | Section |
 |---|---|
-| **CJS-5D.1** | Implementation and cross-implementation graceful degradation and failure-mode integrity terms |
-| **CJS-5D.2** | Implementation and cross-implementation intervention and override integrity terms |
-| **CJS-5D.3** | Implementation and cross-implementation reversibility and containment terms |
-| **CJS-5D.4** | Implementation and cross-implementation adversarial robustness and abuse-resistance terms |
-| **CJS-5D.5** | Implementation and cross-implementation structural review, correction urgency, and disclosure terms |
+| **CJS-5E.1** | Implementation and cross-implementation graceful degradation and failure-mode integrity terms |
+| **CJS-5E.2** | Implementation and cross-implementation intervention and override integrity terms |
+| **CJS-5E.3** | Implementation and cross-implementation reversibility and containment terms |
+| **CJS-5E.4** | Implementation and cross-implementation adversarial robustness and abuse-resistance terms |
+| **CJS-5E.5** | Implementation and cross-implementation structural review, correction urgency, and disclosure terms |
 
 ---
 
-## CJS-5D.1 Implementation and cross-implementation graceful degradation and failure-mode integrity terms
+## CJS-5E.1 Implementation and cross-implementation graceful degradation and failure-mode integrity terms
 Use this rule when reliability, signaling, containment, or recovery depends on standalone system behavior or combined system, dependency, or implementation-layer behavior.
 
 Read it with:
@@ -26,7 +26,7 @@ Read it with:
 Implementation and cross-implementation graceful degradation and failure-mode integrity terms
 - OP-O: Systems must behave honestly and safely under partial failure, uncertainty, or stress.
 - OP-E: Evaluation must assess all relevant system components, dependencies, institutional roles, and implementation-layer interactions together.
-- OP-C: It is non-compliant to claim graceful degradation when a material component is missing.
+- OP-C: It is non-compliant to claim graceful degradation when a material component has not been defined, fully evaluated, and tested under relevant failure conditions.
 
 Graceful degradation floor and defined failure-mode coverage
 - OP-O: Systems must degrade in controlled, visible, non-deceptive ways and avoid silent degradation or disproportionate harm.
@@ -70,7 +70,7 @@ Proportional application
 
 ---
 
-## CJS-5D.2 Implementation and cross-implementation intervention and override integrity terms
+## CJS-5E.2 Implementation and cross-implementation intervention and override integrity terms
 Use this rule when technical intervention, governance authorization, and accountability depend on standalone system behavior or combined system, governance, or implementation-layer behavior.
 
 Read it with:
@@ -85,7 +85,7 @@ Read it with:
 Implementation and cross-implementation intervention and override integrity terms
 - OP-O: Systems need timely, accountable ways to interrupt, constrain, or redirect harmful behavior.
 - OP-E: Evaluation must assess all relevant system components, dependencies, institutional roles, and implementation-layer interactions together.
-- OP-C: It is non-compliant to claim intervention readiness when a material component is absent.
+- OP-C: It is non-compliant to claim intervention readiness when a material component has not been fully evaluated or is unavailable in the conditions where intervention would be required.
 
 Intervention timeliness and practical control floor
 - OP-O: Intervention must be timely, proportionate, accountable, and practical under failure, uncertainty, and adversarial conditions.
@@ -134,7 +134,7 @@ Proportional application
 
 ---
 
-## CJS-5D.3 Implementation and cross-implementation reversibility and containment terms
+## CJS-5E.3 Implementation and cross-implementation reversibility and containment terms
 Use this rule when rollback, failure isolation, or restoration depends on a standalone system, institution, forum, or bounded decision domain, or on more than one system, dependency, institution, or implementation layer.
 
 Read it with:
@@ -172,7 +172,7 @@ Compensatory restoration and limitation disclosure
 
 ---
 
-## CJS-5D.4 Implementation and cross-implementation adversarial robustness and abuse-resistance terms
+## CJS-5E.4 Implementation and cross-implementation adversarial robustness and abuse-resistance terms
 Use this rule when attack surfaces, incentive exploitation, or integrity defenses depend on a standalone system, institution, forum, or bounded decision domain, or on more than one system, dependency, institution, governance path, or implementation layer.
 
 Read it with:
@@ -255,7 +255,7 @@ Proportional application
 
 ---
 
-## CJS-5D.5 Implementation and cross-implementation structural review, correction urgency, and disclosure terms
+## CJS-5E.5 Implementation and cross-implementation structural review, correction urgency, and disclosure terms
 Use this rule when recurring failures, Correction Urgency Level (**CUL**) assignment, or structural transparency depends on standalone system behavior or combined institutional, system, dependency, or implementation-layer behavior.
 
 Read it with:
@@ -270,7 +270,7 @@ Read it with:
 Implementation and cross-implementation structural review, correction urgency, and disclosure terms
 - OP-O: Systems must detect patterns, assign correction urgency, integrate fixes, keep structural records, and disclose to the right stakeholders.
 - OP-E: Evaluation must assess all relevant system components, dependencies, institutional roles, and implementation-layer interactions together.
-- OP-C: It is non-compliant to claim adequate structural correction when a material component is missing, unused, or disconnected from remediation.
+- OP-C: It is non-compliant to claim adequate structural correction when a material component has not been fully evaluated, remains unused, or is disconnected from remediation.
 
 Systemic-pattern detection and escalation
 - OP-O: Decisions, disputes, enforcement actions, and failures must be monitored for repeated errors, biased outcomes, weak-signal reliance, component-linked clusters, and cross-boundary spread.
@@ -299,4 +299,4 @@ Stakeholder scope and targeted transparency
 
 ---
 
-**Next file:** [cjs_05e_00_authority_constraint_secrecy_procedure.md](cjs_05e_00_authority_constraint_secrecy_procedure.md)
+**Next file:** [cjs_06_stable_identifiers_edition_alignment.md](cjs_06_stable_identifiers_edition_alignment.md)

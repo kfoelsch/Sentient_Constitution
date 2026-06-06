@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/crossref_matrix.schema.json",
-  "generated_at": "2026-06-05T00:25:07+00:00",
+  "generated_at": "2026-06-06T10:58:03+00:00",
   "description": "Source-derived file-to-file Markdown reference graph.",
   "graph": {
     "nodes": [
@@ -113,23 +113,23 @@
         "type": "companion"
       },
       {
-        "id": "corpus_joint_structure/cjs_05a_00_evidence_audit_claim_integrity.md",
+        "id": "corpus_joint_structure/cjs_05a_00_authority_constraint_secrecy_procedure.md",
         "type": "companion"
       },
       {
-        "id": "corpus_joint_structure/cjs_05b_00_participation_comprehension_disclosure.md",
+        "id": "corpus_joint_structure/cjs_05b_00_evidence_audit_claim_integrity.md",
         "type": "companion"
       },
       {
-        "id": "corpus_joint_structure/cjs_05c_00_dependency_exit_lifecycle_integrity.md",
+        "id": "corpus_joint_structure/cjs_05c_00_participation_comprehension_disclosure.md",
         "type": "companion"
       },
       {
-        "id": "corpus_joint_structure/cjs_05d_00_failure_robustness_intervention_correction.md",
+        "id": "corpus_joint_structure/cjs_05d_00_dependency_exit_lifecycle_integrity.md",
         "type": "companion"
       },
       {
-        "id": "corpus_joint_structure/cjs_05e_00_authority_constraint_secrecy_procedure.md",
+        "id": "corpus_joint_structure/cjs_05e_00_failure_robustness_intervention_correction.md",
         "type": "companion"
       },
       {
@@ -3598,67 +3598,77 @@
         "source": "corpus_joint_structure/cjs_05_cross_implementation_operational_terms.md",
         "targets": [
           {
-            "file": "corpus_joint_structure/cjs_05a_00_evidence_audit_claim_integrity.md",
+            "file": "corpus_joint_structure/cjs_05a_00_authority_constraint_secrecy_procedure.md",
             "count": 2,
             "anchors": []
           },
           {
-            "file": "corpus_joint_structure/cjs_05b_00_participation_comprehension_disclosure.md",
+            "file": "corpus_joint_structure/cjs_05b_00_evidence_audit_claim_integrity.md",
             "count": 1,
             "anchors": []
           },
           {
-            "file": "corpus_joint_structure/cjs_05c_00_dependency_exit_lifecycle_integrity.md",
+            "file": "corpus_joint_structure/cjs_05c_00_participation_comprehension_disclosure.md",
             "count": 1,
             "anchors": []
           },
           {
-            "file": "corpus_joint_structure/cjs_05d_00_failure_robustness_intervention_correction.md",
+            "file": "corpus_joint_structure/cjs_05d_00_dependency_exit_lifecycle_integrity.md",
             "count": 1,
             "anchors": []
           },
           {
-            "file": "corpus_joint_structure/cjs_05e_00_authority_constraint_secrecy_procedure.md",
+            "file": "corpus_joint_structure/cjs_05e_00_failure_robustness_intervention_correction.md",
             "count": 1,
             "anchors": []
           }
         ]
       },
       {
-        "source": "corpus_joint_structure/cjs_05a_00_evidence_audit_claim_integrity.md",
+        "source": "corpus_joint_structure/cjs_05a_00_authority_constraint_secrecy_procedure.md",
         "targets": [
           {
-            "file": "corpus_joint_structure/cjs_05b_00_participation_comprehension_disclosure.md",
+            "file": "corpus_joint_structure/cjs_05b_00_evidence_audit_claim_integrity.md",
             "count": 1,
             "anchors": []
           }
         ]
       },
       {
-        "source": "corpus_joint_structure/cjs_05b_00_participation_comprehension_disclosure.md",
+        "source": "corpus_joint_structure/cjs_05b_00_evidence_audit_claim_integrity.md",
         "targets": [
           {
-            "file": "corpus_joint_structure/cjs_05c_00_dependency_exit_lifecycle_integrity.md",
+            "file": "corpus_joint_structure/cjs_05c_00_participation_comprehension_disclosure.md",
             "count": 1,
             "anchors": []
           }
         ]
       },
       {
-        "source": "corpus_joint_structure/cjs_05c_00_dependency_exit_lifecycle_integrity.md",
+        "source": "corpus_joint_structure/cjs_05c_00_participation_comprehension_disclosure.md",
         "targets": [
           {
-            "file": "corpus_joint_structure/cjs_05d_00_failure_robustness_intervention_correction.md",
+            "file": "corpus_joint_structure/cjs_05d_00_dependency_exit_lifecycle_integrity.md",
             "count": 1,
             "anchors": []
           }
         ]
       },
       {
-        "source": "corpus_joint_structure/cjs_05d_00_failure_robustness_intervention_correction.md",
+        "source": "corpus_joint_structure/cjs_05d_00_dependency_exit_lifecycle_integrity.md",
         "targets": [
           {
-            "file": "corpus_joint_structure/cjs_05e_00_authority_constraint_secrecy_procedure.md",
+            "file": "corpus_joint_structure/cjs_05e_00_failure_robustness_intervention_correction.md",
+            "count": 1,
+            "anchors": []
+          }
+        ]
+      },
+      {
+        "source": "corpus_joint_structure/cjs_05e_00_failure_robustness_intervention_correction.md",
+        "targets": [
+          {
+            "file": "corpus_joint_structure/cjs_06_stable_identifiers_edition_alignment.md",
             "count": 1,
             "anchors": []
           }

@@ -1,16 +1,16 @@
-## CJS-5C: Dependency, exit, and lifecycle integrity
+## CJS-5D: Dependency, exit, and lifecycle integrity
 
 This family collects the operational clusters that govern dependency mapping, meaningful exit, interoperability, portability, retention, and lifecycle review.
 
 | Cluster | Section |
 |---|---|
-| **CJS-5C.1** | Implementation and cross-implementation dependency integrity and disclosure terms |
-| **CJS-5C.2** | Implementation and cross-implementation interoperability, portability, and exit-integrity terms |
-| **CJS-5C.3** | Implementation and cross-implementation data-retention and lifecycle-integrity terms |
+| **CJS-5D.1** | Implementation and cross-implementation dependency integrity and disclosure terms |
+| **CJS-5D.2** | Implementation and cross-implementation interoperability, portability, and exit-integrity terms |
+| **CJS-5D.3** | Implementation and cross-implementation data-retention and lifecycle-integrity terms |
 
 ---
 
-## CJS-5C.1 Implementation and cross-implementation dependency integrity and disclosure terms
+## CJS-5D.1 Implementation and cross-implementation dependency integrity and disclosure terms
 Use this rule when dependency mapping, risk treatment, or accountability depends on standalone system behavior or combined system, dependency, or implementation-layer behavior.
 
 Read it with:
@@ -59,7 +59,7 @@ Proportional application
 
 ---
 
-## CJS-5C.2 Implementation and cross-implementation interoperability, portability, and exit-integrity terms
+## CJS-5D.2 Implementation and cross-implementation interoperability, portability, and exit-integrity terms
 Use this rule when lock-in, migration, interface design, or dependency exposure depends on standalone system behavior or combined system, dependency, or implementation-layer behavior.
 
 Read it with:
@@ -75,7 +75,7 @@ Read it with:
 Implementation and cross-implementation interoperability, portability, and exit-integrity terms
 - OP-O: Systems must preserve meaningful exit, usable portability, and fair interoperability.
 - OP-E: Evaluation must assess all relevant system components, dependencies, institutional roles, and implementation-layer interactions together.
-- OP-C: It is non-compliant to claim exit integrity when a material component is unmet.
+- OP-C: It is non-compliant to claim exit integrity when a material component has not been fully evaluated or remains unmet in practice.
 
 Lock-in and anti-coercion safeguards
 - OP-O: Systems must not design coercive lock-in or exploit data, identity, or network effects to block exit.
@@ -124,7 +124,7 @@ Proportional application
 
 ---
 
-## CJS-5C.3 Implementation and cross-implementation data-retention and lifecycle-integrity terms
+## CJS-5D.3 Implementation and cross-implementation data-retention and lifecycle-integrity terms
 Use this rule when accountability, privacy, reversibility, or classification depends on how data is kept, changed, linked, or deleted within a standalone system, institution, forum, or bounded decision domain, or across more than one system or implementation layer.
 
 Read it with:
@@ -139,7 +139,7 @@ Read it with:
 Implementation and cross-implementation data-retention and lifecycle-integrity terms
 - OP-O: Data-retention compliance must be evaluated as one lifecycle claim across collection, use, retention, transformation, disclosure, deletion, de-identification, and reclassification.
 - OP-E: Reviewers must assess purpose, S1 data type or types, duration, detail, access, deletion or de-identification, reclassification, disclosure, and audit needs together.
-- OP-C: A retention-integrity claim is non-compliant if those lifecycle elements cannot be reviewed together, if an important element is missing or unusable, or if one element defeats another.
+- OP-C: A retention-integrity claim is non-compliant if those lifecycle elements cannot be reviewed together, if an important element has not been fully evaluated or is unusable, or if one element defeats another.
 
 Justification and bounded-retention floor
 - OP-O: Retention must remain justified over time. When the justification ends, the data must be reduced, deleted, de-identified, or otherwise removed from use.
@@ -188,4 +188,4 @@ Proportional application
 
 ---
 
-**Next file:** [cjs_05d_00_failure_robustness_intervention_correction.md](cjs_05d_00_failure_robustness_intervention_correction.md)
+**Next file:** [cjs_05e_00_failure_robustness_intervention_correction.md](cjs_05e_00_failure_robustness_intervention_correction.md)
