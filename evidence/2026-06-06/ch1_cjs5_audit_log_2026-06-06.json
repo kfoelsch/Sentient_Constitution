@@ -1,0 +1,2766 @@
+{
+  "timestamp": "2026-06-06",
+  "workflow": "CH1_CJS5_PRINCIPLE_ALIGNMENT_CHECK",
+  "principles": {
+    "1": {
+      "title": "Purpose and Role",
+      "line": 70
+    },
+    "2": {
+      "title": "Foundational Objective: Wellbeing",
+      "line": 106
+    },
+    "2.1": {
+      "title": "Fairness",
+      "line": 145
+    },
+    "2.2": {
+      "title": "Recognition, Reinforcement, and Aspiration",
+      "line": 180
+    },
+    "3": {
+      "title": "Non-Negotiable Constraints: Safety and Truth",
+      "line": 221
+    },
+    "3.1": {
+      "title": "Safety (Harm Constraint)",
+      "line": 222
+    },
+    "3.2": {
+      "title": "Truth (Epistemic Integrity Constraint)",
+      "line": 259
+    },
+    "3.3": {
+      "title": "Science-Informed Inquiry and Decision Support",
+      "line": 296
+    },
+    "3.4": {
+      "title": "Plain-Language Accessibility (Stewardship Duty)",
+      "line": 342
+    },
+    "4": {
+      "title": "System Stability Enabler: Trust (Coordination Integrity)",
+      "line": 406
+    },
+    "4.1": {
+      "title": "Resilience and Self-Healing Design",
+      "line": 438
+    },
+    "5": {
+      "title": "Shared-System Capacity and Stewardship",
+      "line": 478
+    },
+    "5.1": {
+      "title": "Shared-System Capacity",
+      "line": 492
+    },
+    "5.2": {
+      "title": "Stewardship and Distributed Understanding",
+      "line": 659
+    },
+    "6": {
+      "title": "Interaction and Conflict Resolution",
+      "line": 841
+    },
+    "6.1": {
+      "title": "Core Tradeoff Principles",
+      "line": 869
+    },
+    "6.2": {
+      "title": "Epistemic Disclosure Constraints",
+      "line": 963
+    },
+    "6.3": {
+      "title": "Freedom-Limitation Constraints",
+      "line": 1020
+    },
+    "6.4": {
+      "title": "Rights-Collision Procedure",
+      "line": 1060
+    },
+    "7": {
+      "title": "Systemic Evaluation Requirement",
+      "line": 1119
+    },
+    "7.1": {
+      "title": "Required Evaluation Factors",
+      "line": 1129
+    },
+    "7.2": {
+      "title": "Incentive Alignment and System Capture",
+      "line": 1212
+    },
+    "8": {
+      "title": "Freedom (Bounded Agency)",
+      "line": 1377
+    },
+    "9": {
+      "title": "Prohibition on Absolute Override",
+      "line": 1422
+    },
+    "10": {
+      "title": "Interpretive Role",
+      "line": 1454
+    }
+  },
+  "expected_cluster_ids": [
+    "CJS-5.0",
+    "CJS-5A.1",
+    "CJS-5A.2",
+    "CJS-5A.3",
+    "CJS-5A.4",
+    "CJS-5A.5",
+    "CJS-5A.6",
+    "CJS-5B.1",
+    "CJS-5B.2",
+    "CJS-5B.3",
+    "CJS-5B.4",
+    "CJS-5C.1",
+    "CJS-5C.2",
+    "CJS-5C.3",
+    "CJS-5C.4",
+    "CJS-5D.1",
+    "CJS-5D.2",
+    "CJS-5D.3",
+    "CJS-5E.1",
+    "CJS-5E.2",
+    "CJS-5E.3",
+    "CJS-5E.4",
+    "CJS-5E.5"
+  ],
+  "clusters": [
+    {
+      "cluster_id": "CJS-5.0",
+      "title": "Role-definition preface and standing competency gate interface",
+      "file": "corpus_joint_structure/cjs_05_cross_implementation_operational_terms.md",
+      "start_line": 7,
+      "end_line": 74,
+      "read_with": [],
+      "direct_ch1_refs": [],
+      "inferred_principles": [
+        "2.1",
+        "3.4",
+        "5.2",
+        "7.1",
+        "7.2",
+        "10"
+      ],
+      "owner_refs": [
+        "Article XI-D",
+        "CI",
+        "Chapter Eleven",
+        "Chapter Seven",
+        "core_07-07_standing_integration.md",
+        "core_11-11_governance.md",
+        "corpus_forum.md",
+        "corpus_institutions.md",
+        "corpus_systems.md"
+      ],
+      "op_rules": [
+        {
+          "label": "Role-definition reading rule",
+          "line": 10,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        },
+        {
+          "label": "Competency gate and standing interface",
+          "line": 15,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        },
+        {
+          "label": "Authorized role",
+          "line": 20,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        },
+        {
+          "label": "Role holder",
+          "line": 25,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        },
+        {
+          "label": "Accountable role",
+          "line": 30,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        },
+        {
+          "label": "Stewardship role",
+          "line": 35,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        },
+        {
+          "label": "Material-operator role",
+          "line": 40,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        },
+        {
+          "label": "Oversight or support role",
+          "line": 45,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        },
+        {
+          "label": "Constitutional lane",
+          "line": 50,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        },
+        {
+          "label": "Delegated body and forum-role pointer",
+          "line": 55,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        }
+      ],
+      "classifications": [
+        "weak_trace"
+      ]
+    },
+    {
+      "cluster_id": "CJS-5A.1",
+      "title": "Implementation and cross-implementation distributed and proportional authority terms",
+      "file": "corpus_joint_structure/cjs_05a_00_authority_constraint_secrecy_procedure.md",
+      "start_line": 16,
+      "end_line": 73,
+      "read_with": [
+        "**PROT1 \u2014 Distributed and Proportional Authority**",
+        "**PRIM4 \u2014 Transparency and Disclosure**",
+        "**PRIM9 \u2014 Auditability**",
+        "**PRIM15 \u2014 Evolution, Revalidation, and Non-Entrenchment**",
+        "**PROT6 \u2014 Procedural Integrity and Adjudication**",
+        "`corpus_systems.md` **Chapter S3**"
+      ],
+      "direct_ch1_refs": [],
+      "inferred_principles": [
+        "2.1",
+        "4",
+        "5.2",
+        "7.2",
+        "10"
+      ],
+      "owner_refs": [
+        "CI",
+        "PRIM15",
+        "PRIM4",
+        "PRIM9",
+        "PROT1",
+        "PROT6",
+        "corpus_systems.md"
+      ],
+      "op_rules": [
+        {
+          "label": "Implementation and cross-implementation distributed and proportional authority terms",
+          "line": 27,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        },
+        {
+          "label": "Authority distribution and anti-monopoly floor",
+          "line": 32,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        },
+        {
+          "label": "Baseline governance accountability conditions",
+          "line": 37,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        },
+        {
+          "label": "Proportional oversight-intensity scaling",
+          "line": 42,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        },
+        {
+          "label": "Representation and participation legitimacy controls",
+          "line": 47,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        },
+        {
+          "label": "Stewardship-role depth and non-symbolic governance boundary",
+          "line": 52,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        },
+        {
+          "label": "Constitutional lane and functional separation",
+          "line": 57,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        },
+        {
+          "label": "Anti-concentration guardrails and trigger mitigation",
+          "line": 62,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        },
+        {
+          "label": "Contextual and systemic evaluation discipline",
+          "line": 67,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        }
+      ],
+      "classifications": [
+        "weak_trace"
+      ]
+    },
+    {
+      "cluster_id": "CJS-5A.2",
+      "title": "Implementation and cross-implementation intervention governance and override-authorization terms",
+      "file": "corpus_joint_structure/cjs_05a_00_authority_constraint_secrecy_procedure.md",
+      "start_line": 74,
+      "end_line": 122,
+      "read_with": [
+        "**PROT2 \u2014 Intervention and Override Rights**",
+        "**PRIM8 \u2014 Intervention and Override Rights**",
+        "**PROT1 \u2014 Distributed and Proportional Authority**",
+        "**PROT4 \u2014 Burden of Justification and Constraint**",
+        "**PROT5 \u2014 Constrained Secrecy and Protected Investigations**",
+        "**PRIM9 \u2014 Auditability**",
+        "**PRIM15 \u2014 Evolution, Revalidation, and Non-Entrenchment**"
+      ],
+      "direct_ch1_refs": [],
+      "inferred_principles": [
+        "3.1",
+        "6.1",
+        "6.4",
+        "7.1",
+        "9"
+      ],
+      "owner_refs": [
+        "CF",
+        "PRIM15",
+        "PRIM8",
+        "PRIM9",
+        "PROT1",
+        "PROT2",
+        "PROT4",
+        "PROT5"
+      ],
+      "op_rules": [
+        {
+          "label": "Implementation and cross-implementation intervention governance and override-authorization terms",
+          "line": 86,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        },
+        {
+          "label": "Joint necessity and technical-governance coupling floor",
+          "line": 91,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        },
+        {
+          "label": "Authorization and role-scope discipline",
+          "line": 96,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        },
+        {
+          "label": "Governance quorum and emergency-sequencing requirements",
+          "line": 101,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        },
+        {
+          "label": "Emergency governance limits and anti-normalization control",
+          "line": 106,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        },
+        {
+          "label": "Records, transparency, and challenge pathway duties",
+          "line": 111,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        },
+        {
+          "label": "Proportional procedural scaling",
+          "line": 116,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        }
+      ],
+      "classifications": [
+        "weak_trace"
+      ]
+    },
+    {
+      "cluster_id": "CJS-5A.3",
+      "title": "Implementation and cross-implementation reflexive transparency and accountability terms",
+      "file": "corpus_joint_structure/cjs_05a_00_authority_constraint_secrecy_procedure.md",
+      "start_line": 123,
+      "end_line": 184,
+      "read_with": [
+        "**PROT3 \u2014 Reflexive Transparency and Accountability**",
+        "**PRIM4 \u2014 Transparency and Disclosure**",
+        "**PRIM9 \u2014 Auditability**",
+        "**PRIM10 \u2014 Tiered Transparency and Audit Access**",
+        "**PRIM11 \u2014 Independent Verification and Integrity of Claims**",
+        "**PRIM15 \u2014 Evolution, Revalidation, and Non-Entrenchment**",
+        "**PROT1 \u2014 Distributed and Proportional Authority**",
+        "**PROT4 \u2014 Burden of Justification and Constraint**",
+        "**PROT5 \u2014 Constrained Secrecy and Protected Investigations**",
+        "**PROT6 \u2014 Procedural Integrity and Adjudication**"
+      ],
+      "direct_ch1_refs": [],
+      "inferred_principles": [
+        "3.2",
+        "4",
+        "5.2",
+        "7.1",
+        "7.2"
+      ],
+      "owner_refs": [
+        "PRIM10",
+        "PRIM11",
+        "PRIM15",
+        "PRIM4",
+        "PRIM9",
+        "PROT1",
+        "PROT3",
+        "PROT4",
+        "PROT5",
+        "PROT6"
+      ],
+      "op_rules": [
+        {
+          "label": "Implementation and cross-implementation reflexive transparency and accountability terms",
+          "line": 138,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        },
+        {
+          "label": "Parity and non-exemption floor",
+          "line": 143,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        },
+        {
+          "label": "Transparency, audit, and verification-integrity duties",
+          "line": 148,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        },
+        {
+          "label": "Opaque-enforcement limits and constrained-disclosure handling",
+          "line": 153,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        },
+        {
+          "label": "Ongoing accountability and revalidation continuity",
+          "line": 158,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        },
+        {
+          "label": "Enforcement-capacity realism requirements",
+          "line": 163,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        },
+        {
+          "label": "Misrepresentation and violation signaling",
+          "line": 168,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        },
+        {
+          "label": "Pluralistic validation and contestability protections",
+          "line": 173,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        },
+        {
+          "label": "Anti-corruption and undue-influence auditability controls",
+          "line": 178,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        }
+      ],
+      "classifications": [
+        "weak_trace"
+      ]
+    },
+    {
+      "cluster_id": "CJS-5A.4",
+      "title": "Implementation and cross-implementation burden-of-justification and constraint terms",
+      "file": "corpus_joint_structure/cjs_05a_00_authority_constraint_secrecy_procedure.md",
+      "start_line": 185,
+      "end_line": 235,
+      "read_with": [
+        "**PROT4 \u2014 Burden of Justification and Constraint**",
+        "**PROT1 \u2014 Distributed and Proportional Authority**",
+        "**PRIM4 \u2014 Transparency and Disclosure**",
+        "**PRIM7 \u2014 Interoperability, Portability, and Exit Integrity**",
+        "**PRIM9 \u2014 Auditability**",
+        "**PRIM15 \u2014 Evolution, Revalidation, and Non-Entrenchment**",
+        "**Chapter One \u00a76.4.1 \u2014 Rights-Collision Decision Test**",
+        "**`corpus_forum.md` CF-11 \u2014 Forum continuity, fallback operation, and emergency adjudication**",
+        "Core definitions for necessity, proportionality, materiality, burden, and anti-enclosure."
+      ],
+      "direct_ch1_refs": [
+        "6.4.1"
+      ],
+      "inferred_principles": [
+        "6.1",
+        "6.3",
+        "6.4",
+        "7.1",
+        "8",
+        "9"
+      ],
+      "owner_refs": [
+        "CF",
+        "Core definitions",
+        "PRIM15",
+        "PRIM4",
+        "PRIM7",
+        "PRIM9",
+        "PROT1",
+        "PROT4",
+        "corpus_forum.md"
+      ],
+      "op_rules": [
+        {
+          "label": "Implementation and cross-implementation burden-of-justification and constraint terms",
+          "line": 199,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        },
+        {
+          "label": "Restriction-burden assignment floor",
+          "line": 204,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        },
+        {
+          "label": "Substantive showing and least-restrictive proof",
+          "line": 209,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        },
+        {
+          "label": "Disclosure, audit, and challenge sufficiency",
+          "line": 214,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        },
+        {
+          "label": "Rights-collision and alternative-selection record",
+          "line": 219,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        },
+        {
+          "label": "Temporal discipline and revalidation",
+          "line": 224,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        },
+        {
+          "label": "Innovation-exclusivity anti-enclosure application",
+          "line": 229,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        }
+      ],
+      "classifications": [
+        "complete"
+      ]
+    },
+    {
+      "cluster_id": "CJS-5A.5",
+      "title": "Implementation and cross-implementation constrained-secrecy and protected-investigation terms",
+      "file": "corpus_joint_structure/cjs_05a_00_authority_constraint_secrecy_procedure.md",
+      "start_line": 236,
+      "end_line": 280,
+      "read_with": [
+        "**PROT5 \u2014 Constrained Secrecy and Protected Investigations**",
+        "**PROT4 \u2014 Burden of Justification and Constraint**",
+        "**PROT3 \u2014 Reflexive Transparency and Accountability**",
+        "**PROT1 \u2014 Distributed and Proportional Authority**",
+        "**PRIM4 \u2014 Transparency and Disclosure**",
+        "**PRIM9 \u2014 Auditability**",
+        "**PRIM15 \u2014 Evolution, Revalidation, and Non-Entrenchment**",
+        "**PROT6 \u2014 Procedural Integrity and Adjudication**"
+      ],
+      "direct_ch1_refs": [],
+      "inferred_principles": [
+        "3.2",
+        "6.2",
+        "6.4",
+        "7.1",
+        "8",
+        "9"
+      ],
+      "owner_refs": [
+        "PRIM15",
+        "PRIM4",
+        "PRIM9",
+        "PROT1",
+        "PROT3",
+        "PROT4",
+        "PROT5",
+        "PROT6"
+      ],
+      "op_rules": [
+        {
+          "label": "Implementation and cross-implementation constrained-secrecy and protected-investigation terms",
+          "line": 249,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        },
+        {
+          "label": "Authorization and predicate floor",
+          "line": 254,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        },
+        {
+          "label": "Minimization and preference ordering",
+          "line": 259,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        },
+        {
+          "label": "Deferred transparency and reconstruction record",
+          "line": 264,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        },
+        {
+          "label": "Independent oversight under constraint",
+          "line": 269,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        },
+        {
+          "label": "No permanent secrecy and anti-normalization discipline",
+          "line": 274,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        }
+      ],
+      "classifications": [
+        "weak_trace"
+      ]
+    },
+    {
+      "cluster_id": "CJS-5A.6",
+      "title": "Implementation and cross-implementation procedural integrity and adjudication terms",
+      "file": "corpus_joint_structure/cjs_05a_00_authority_constraint_secrecy_procedure.md",
+      "start_line": 281,
+      "end_line": 355,
+      "read_with": [
+        "**PROT6 \u2014 Procedural Integrity and Adjudication**",
+        "**PROT4 \u2014 Burden of Justification and Constraint**",
+        "**PROT3 \u2014 Reflexive Transparency and Accountability**",
+        "**PROT2 \u2014 Intervention and Override Rights**",
+        "`corpus_systems.md` **Chapter S1** and **Chapter S2**",
+        "`corpus_institutions.md`",
+        "`corpus_forum.md`"
+      ],
+      "direct_ch1_refs": [],
+      "inferred_principles": [
+        "2.1",
+        "3.4",
+        "6.4",
+        "7.1",
+        "8",
+        "10"
+      ],
+      "owner_refs": [
+        "PROT2",
+        "PROT3",
+        "PROT4",
+        "PROT6",
+        "corpus_forum.md",
+        "corpus_institutions.md",
+        "corpus_systems.md"
+      ],
+      "op_rules": [
+        {
+          "label": "Implementation and cross-implementation procedural integrity and adjudication terms",
+          "line": 293,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        },
+        {
+          "label": "Delegated binding body",
+          "line": 298,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        },
+        {
+          "label": "Lawful independent forum",
+          "line": 303,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        },
+        {
+          "label": "Backup activation",
+          "line": 308,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        },
+        {
+          "label": "Representative treatment",
+          "line": 313,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        },
+        {
+          "label": "Due-process requirements",
+          "line": 318,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        },
+        {
+          "label": "Review independence and contestability",
+          "line": 323,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        },
+        {
+          "label": "Burden, proportionality, and enforcement selection",
+          "line": 328,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        },
+        {
+          "label": "Sanction validity and restoration conditions",
+          "line": 333,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        },
+        {
+          "label": "Restoration accessibility and remedy realism",
+          "line": 338,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        },
+        {
+          "label": "Uncertainty safeguards and anti-abuse floor",
+          "line": 343,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        },
+        {
+          "label": "System-class and joint-read scaling",
+          "line": 348,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        }
+      ],
+      "classifications": [
+        "weak_trace"
+      ]
+    },
+    {
+      "cluster_id": "CJS-5B.1",
+      "title": "Implementation and cross-implementation integrity assurance and resilience operations",
+      "file": "corpus_joint_structure/cjs_05b_00_evidence_audit_claim_integrity.md",
+      "start_line": 14,
+      "end_line": 46,
+      "read_with": [
+        "Core definitions for auditability, verifiability, reversibility, dependency, cascading failure, adversarial conditions, and trustworthiness."
+      ],
+      "direct_ch1_refs": [],
+      "inferred_principles": [
+        "3.1",
+        "3.2",
+        "4.1",
+        "7.1",
+        "7.2"
+      ],
+      "owner_refs": [
+        "Core definitions"
+      ],
+      "op_rules": [
+        {
+          "label": "Implementation and cross-implementation integrity assurance and resilience operations",
+          "line": 20,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        },
+        {
+          "label": "Audit reconstruction and tiered access continuity",
+          "line": 25,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        },
+        {
+          "label": "Independent verification path integrity",
+          "line": 30,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        },
+        {
+          "label": "Containment, reversibility, and retention lifecycle coherence",
+          "line": 35,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        },
+        {
+          "label": "Adversarial response and revalidation non-entrenchment",
+          "line": 40,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        }
+      ],
+      "classifications": [
+        "weak_trace"
+      ]
+    },
+    {
+      "cluster_id": "CJS-5B.2",
+      "title": "Implementation and cross-implementation auditability and reconstructability terms",
+      "file": "corpus_joint_structure/cjs_05b_00_evidence_audit_claim_integrity.md",
+      "start_line": 47,
+      "end_line": 83,
+      "read_with": [
+        "**PRIM9 \u2014 Auditability**",
+        "**PRIM4 \u2014 Transparency and Disclosure**",
+        "**PRIM10 \u2014 Tiered Transparency and Audit Access**",
+        "**Article XV-A**",
+        "**Article VII-B**"
+      ],
+      "direct_ch1_refs": [],
+      "inferred_principles": [
+        "3.2",
+        "4",
+        "7.1",
+        "7.2"
+      ],
+      "owner_refs": [
+        "Article VII-B",
+        "Article XV-A",
+        "PRIM10",
+        "PRIM4",
+        "PRIM9"
+      ],
+      "op_rules": [
+        {
+          "label": "Implementation and cross-implementation auditability and reconstructability terms",
+          "line": 57,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        },
+        {
+          "label": "Auditability floor and record sufficiency",
+          "line": 62,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        },
+        {
+          "label": "Operational transparency and structured logging requirements",
+          "line": 67,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        },
+        {
+          "label": "Forensic-depth access proportionality",
+          "line": 72,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        },
+        {
+          "label": "Article VII-B boundary and anti-concealment rule",
+          "line": 77,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        }
+      ],
+      "classifications": [
+        "weak_trace"
+      ]
+    },
+    {
+      "cluster_id": "CJS-5B.3",
+      "title": "Implementation and cross-implementation tiered transparency and audit-access terms",
+      "file": "corpus_joint_structure/cjs_05b_00_evidence_audit_claim_integrity.md",
+      "start_line": 84,
+      "end_line": 132,
+      "read_with": [
+        "**PRIM10 \u2014 Tiered Transparency and Audit Access**",
+        "**PRIM9 \u2014 Auditability**",
+        "**PRIM12 \u2014 Reversibility and Containment**",
+        "**Chapter One \u00a76.4.1 \u2014 Rights-Collision Decision Test**",
+        "**`corpus_forum.md` CF-11 \u2014 Forum continuity, fallback operation, and emergency adjudication**",
+        "**Article XV-A**",
+        "**Article VII-B**"
+      ],
+      "direct_ch1_refs": [
+        "6.4.1"
+      ],
+      "inferred_principles": [
+        "3.2",
+        "6.2",
+        "6.4",
+        "7.1",
+        "8"
+      ],
+      "owner_refs": [
+        "Article VII-B",
+        "Article XV-A",
+        "CF",
+        "PRIM10",
+        "PRIM12",
+        "PRIM9",
+        "corpus_forum.md",
+        "corpus_systems.md"
+      ],
+      "op_rules": [
+        {
+          "label": "Implementation and cross-implementation tiered transparency and audit-access terms",
+          "line": 96,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        },
+        {
+          "label": "Tier structure and baseline accessibility",
+          "line": 101,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        },
+        {
+          "label": "Class A/B/C public-interest visibility",
+          "line": 106,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        },
+        {
+          "label": "Qualified audit pathways and non-exclusive eligibility",
+          "line": 111,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        },
+        {
+          "label": "Restriction scope and justification discipline",
+          "line": 116,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        },
+        {
+          "label": "Forensic escalation and reconstruction sufficiency",
+          "line": 121,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        },
+        {
+          "label": "Access-control integrity and anti-concealment",
+          "line": 126,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        }
+      ],
+      "classifications": [
+        "complete"
+      ]
+    },
+    {
+      "cluster_id": "CJS-5B.4",
+      "title": "Implementation and cross-implementation independent verification and claim-integrity terms",
+      "file": "corpus_joint_structure/cjs_05b_00_evidence_audit_claim_integrity.md",
+      "start_line": 133,
+      "end_line": 169,
+      "read_with": [
+        "**PRIM11 \u2014 Independent Verification and Integrity of Claims**",
+        "**PRIM9 \u2014 Auditability**",
+        "**PRIM10 \u2014 Tiered Transparency and Audit Access**",
+        "Chapter Fourteen and rights-layer protections where material claims shape rights-relevant decisions."
+      ],
+      "direct_ch1_refs": [],
+      "inferred_principles": [
+        "3.2",
+        "3.3",
+        "4",
+        "7.1",
+        "7.2"
+      ],
+      "owner_refs": [
+        "PRIM10",
+        "PRIM11",
+        "PRIM9"
+      ],
+      "op_rules": [
+        {
+          "label": "Implementation and cross-implementation independent verification and claim-integrity terms",
+          "line": 142,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        },
+        {
+          "label": "Material-claim verification scope",
+          "line": 147,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        },
+        {
+          "label": "Reproducibility and external evaluation viability",
+          "line": 152,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        },
+        {
+          "label": "Anti-single-authority verification constraint",
+          "line": 157,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        },
+        {
+          "label": "Class-scaled template floor mapping",
+          "line": 162,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        }
+      ],
+      "classifications": [
+        "weak_trace"
+      ]
+    },
+    {
+      "cluster_id": "CJS-5C.1",
+      "title": "Implementation and cross-implementation quorum and participatory legitimacy terms",
+      "file": "corpus_joint_structure/cjs_05c_00_participation_comprehension_disclosure.md",
+      "start_line": 14,
+      "end_line": 74,
+      "read_with": [
+        "**Implementation Group Four**, including **PROT1 \u2014 Distributed and Proportional Authority** and **PROT6 \u2014 Procedural Integrity and Adjudication**",
+        "**Sentient Constitution Chapter Eleven** section 4",
+        "**Chapter Ten Article IX-C**",
+        "**Chapter Ten Article XI**"
+      ],
+      "direct_ch1_refs": [],
+      "inferred_principles": [
+        "2.1",
+        "4",
+        "5.2",
+        "6.4",
+        "8",
+        "10"
+      ],
+      "owner_refs": [
+        "Article IX-C",
+        "Article XI",
+        "Article XI-A",
+        "Chapter Eleven",
+        "Chapter Ten",
+        "PROT1",
+        "PROT6"
+      ],
+      "op_rules": [
+        {
+          "label": "Implementation and cross-implementation quorum and participatory legitimacy terms",
+          "line": 23,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        },
+        {
+          "label": "Two-tier governance-layer assignment",
+          "line": 28,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        },
+        {
+          "label": "Foundational constitutional choice equality floor",
+          "line": 33,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        },
+        {
+          "label": "Stakeholder governance participation floor",
+          "line": 38,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        },
+        {
+          "label": "Quorum source and binding-effect gate",
+          "line": 43,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        },
+        {
+          "label": "Participation",
+          "line": 48,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        },
+        {
+          "label": "Weighted participation",
+          "line": 53,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        },
+        {
+          "label": "Impact coverage",
+          "line": 58,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        },
+        {
+          "label": "Temporal",
+          "line": 63,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        },
+        {
+          "label": "Notification and pathway integrity",
+          "line": 68,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        }
+      ],
+      "classifications": [
+        "weak_trace"
+      ]
+    },
+    {
+      "cluster_id": "CJS-5C.2",
+      "title": "Implementation and cross-implementation comprehensibility and cognitive accessibility terms",
+      "file": "corpus_joint_structure/cjs_05c_00_participation_comprehension_disclosure.md",
+      "start_line": 75,
+      "end_line": 128,
+      "read_with": [
+        "**PRIM2 \u2014 Comprehensibility and Cognitive Accessibility**",
+        "`corpus_systems.md` **Protocol B \u2014 System Comprehensibility and Complexity Stewardship**"
+      ],
+      "direct_ch1_refs": [],
+      "inferred_principles": [
+        "3.4",
+        "5.2",
+        "7.1",
+        "8"
+      ],
+      "owner_refs": [
+        "PRIM2",
+        "corpus_systems.md"
+      ],
+      "op_rules": [
+        {
+          "label": "Implementation and cross-implementation comprehensibility and cognitive accessibility terms",
+          "line": 82,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        },
+        {
+          "label": "Meaningful transparency floor",
+          "line": 87,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        },
+        {
+          "label": "Layering and access",
+          "line": 92,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        },
+        {
+          "label": "Summary integrity",
+          "line": 97,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        },
+        {
+          "label": "Cognitive overload barrier controls",
+          "line": 102,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        },
+        {
+          "label": "Behavior and structure representation adequacy",
+          "line": 107,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        },
+        {
+          "label": "Interpretation support fidelity",
+          "line": 112,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        },
+        {
+          "label": "High-impact drill-down and assisted evaluation",
+          "line": 117,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        },
+        {
+          "label": "Proportional application",
+          "line": 122,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        }
+      ],
+      "classifications": [
+        "weak_trace"
+      ]
+    },
+    {
+      "cluster_id": "CJS-5C.3",
+      "title": "Implementation and cross-implementation salience integrity and attention-allocation terms",
+      "file": "corpus_joint_structure/cjs_05c_00_participation_comprehension_disclosure.md",
+      "start_line": 129,
+      "end_line": 190,
+      "read_with": [
+        "**PRIM1 \u2014 System Status, Risk, and Scope Representation**",
+        "**PRIM4 \u2014 Transparency and Disclosure**",
+        "**PRIM14 \u2014 Adversarial Robustness and Abuse Resistance**",
+        "**Article XV-A**",
+        "**Chapter Ten** incentive-alignment constraints"
+      ],
+      "direct_ch1_refs": [],
+      "inferred_principles": [
+        "2",
+        "3.2",
+        "4",
+        "7.1",
+        "8"
+      ],
+      "owner_refs": [
+        "Article XV-A",
+        "Chapter Ten",
+        "PRIM1",
+        "PRIM14",
+        "PRIM4"
+      ],
+      "op_rules": [
+        {
+          "label": "Implementation and cross-implementation salience integrity and attention-allocation terms",
+          "line": 139,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        },
+        {
+          "label": "Salience integrity floor",
+          "line": 144,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        },
+        {
+          "label": "Material-visibility and risk legibility controls",
+          "line": 149,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        },
+        {
+          "label": "Anti-manipulation and prohibited-pattern controls",
+          "line": 154,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        },
+        {
+          "label": "Engagement-conflict priority rule",
+          "line": 159,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        },
+        {
+          "label": "Explainability and disclosure sufficiency",
+          "line": 164,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        },
+        {
+          "label": "User agency and control",
+          "line": 169,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        },
+        {
+          "label": "Detection, mitigation, and corrective response",
+          "line": 174,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        },
+        {
+          "label": "Incentives and adversarial resilience",
+          "line": 179,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        },
+        {
+          "label": "Proportional application",
+          "line": 184,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        }
+      ],
+      "classifications": [
+        "weak_trace"
+      ]
+    },
+    {
+      "cluster_id": "CJS-5C.4",
+      "title": "Implementation and cross-implementation disclosure sufficiency and observability terms",
+      "file": "corpus_joint_structure/cjs_05c_00_participation_comprehension_disclosure.md",
+      "start_line": 191,
+      "end_line": 227,
+      "read_with": [
+        "**PRIM4 \u2014 Transparency and Disclosure**",
+        "**PRIM5 \u2014 Dependency Awareness, Disclosure, and Risk Integrity** where dependencies matter",
+        "**Article XV-A**",
+        "**Article VII-B**"
+      ],
+      "direct_ch1_refs": [],
+      "inferred_principles": [
+        "3.2",
+        "6.2",
+        "7.1",
+        "8"
+      ],
+      "owner_refs": [
+        "Article VII-B",
+        "Article XV-A",
+        "PRIM4",
+        "PRIM5"
+      ],
+      "op_rules": [
+        {
+          "label": "Implementation and cross-implementation disclosure sufficiency and observability terms",
+          "line": 200,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        },
+        {
+          "label": "Impact- and dependency-proportional disclosure sufficiency",
+          "line": 205,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        },
+        {
+          "label": "Minimum disclosure content set",
+          "line": 210,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        },
+        {
+          "label": "Verification and comparative interpretation enablement",
+          "line": 215,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        },
+        {
+          "label": "Private internal-state boundary and external observability attribution",
+          "line": 220,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        }
+      ],
+      "classifications": [
+        "weak_trace"
+      ]
+    },
+    {
+      "cluster_id": "CJS-5D.1",
+      "title": "Implementation and cross-implementation dependency integrity and disclosure terms",
+      "file": "corpus_joint_structure/cjs_05d_00_dependency_exit_lifecycle_integrity.md",
+      "start_line": 13,
+      "end_line": 61,
+      "read_with": [
+        "**PRIM5 \u2014 Dependency Awareness, Disclosure, and Risk Integrity**",
+        "**PRIM4 \u2014 Transparency and Disclosure**",
+        "**PRIM7 \u2014 Interoperability, Portability, and Exit Integrity**",
+        "**PRIM9 \u2014 Auditability**",
+        "**PRIM15 \u2014 Evolution, Revalidation, and Non-Entrenchment**",
+        "`corpus_systems.md` **Protocol A \u2014 System Design, Testing, Verification, and Deployment**",
+        "**Article XV-A**"
+      ],
+      "direct_ch1_refs": [],
+      "inferred_principles": [
+        "3.1",
+        "4.1",
+        "5.1",
+        "7.1",
+        "9"
+      ],
+      "owner_refs": [
+        "Article XV-A",
+        "PRIM15",
+        "PRIM4",
+        "PRIM5",
+        "PRIM7",
+        "PRIM9",
+        "corpus_systems.md"
+      ],
+      "op_rules": [
+        {
+          "label": "Implementation and cross-implementation dependency integrity and disclosure terms",
+          "line": 25,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        },
+        {
+          "label": "Dependency identification and disclosure content",
+          "line": 30,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        },
+        {
+          "label": "Criticality and impact classification",
+          "line": 35,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        },
+        {
+          "label": "Substitutability, exit constraints, and mitigation duties",
+          "line": 40,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        },
+        {
+          "label": "Hidden, indirect, and externalized risk controls",
+          "line": 45,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        },
+        {
+          "label": "Monitoring cadence, map adequacy, and anti-evasion structure",
+          "line": 50,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        },
+        {
+          "label": "Proportional application",
+          "line": 55,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        }
+      ],
+      "classifications": [
+        "weak_trace"
+      ]
+    },
+    {
+      "cluster_id": "CJS-5D.2",
+      "title": "Implementation and cross-implementation interoperability, portability, and exit-integrity terms",
+      "file": "corpus_joint_structure/cjs_05d_00_dependency_exit_lifecycle_integrity.md",
+      "start_line": 62,
+      "end_line": 126,
+      "read_with": [
+        "**PRIM7 \u2014 Interoperability, Portability, and Exit Integrity**",
+        "**PRIM5 \u2014 Dependency Awareness, Disclosure, and Risk Integrity**",
+        "**PRIM4 \u2014 Transparency and Disclosure**",
+        "`corpus_systems.md` **Chapter S1 \u2014 Information Types and Handling**",
+        "`corpus_systems.md` **Chapter S2 \u2014 System Classification and Handling**",
+        "`corpus_systems.md` **Chapter S3 \u2014 Critical System Stewardship**",
+        "**Article XIX**",
+        "**Article XV-A**"
+      ],
+      "direct_ch1_refs": [],
+      "inferred_principles": [
+        "5.1",
+        "6.1",
+        "7.1",
+        "8",
+        "9"
+      ],
+      "owner_refs": [
+        "Article XIX",
+        "Article XV-A",
+        "Foundational Rights",
+        "PRIM4",
+        "PRIM5",
+        "PRIM7",
+        "corpus_systems.md"
+      ],
+      "op_rules": [
+        {
+          "label": "Implementation and cross-implementation interoperability, portability, and exit-integrity terms",
+          "line": 75,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        },
+        {
+          "label": "Lock-in and anti-coercion safeguards",
+          "line": 80,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        },
+        {
+          "label": "Right-to-exit pathway integrity",
+          "line": 85,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        },
+        {
+          "label": "Portability quality and non-obstruction controls",
+          "line": 90,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        },
+        {
+          "label": "Interchange and open-interface baseline",
+          "line": 95,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        },
+        {
+          "label": "Open data-format and protocol presumption",
+          "line": 100,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        },
+        {
+          "label": "Innovation reward boundary and anti-enclosure controls",
+          "line": 105,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        },
+        {
+          "label": "Exit-feasibility disclosure and dependency transparency",
+          "line": 110,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        },
+        {
+          "label": "Continuity-preserving transition safeguards",
+          "line": 115,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        },
+        {
+          "label": "Proportional application",
+          "line": 120,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        }
+      ],
+      "classifications": [
+        "weak_trace"
+      ]
+    },
+    {
+      "cluster_id": "CJS-5D.3",
+      "title": "Implementation and cross-implementation data-retention and lifecycle-integrity terms",
+      "file": "corpus_joint_structure/cjs_05d_00_dependency_exit_lifecycle_integrity.md",
+      "start_line": 127,
+      "end_line": 191,
+      "read_with": [
+        "**PRIM9 \u2014 Auditability**",
+        "**PRIM10 \u2014 Tiered Transparency and Audit Access**",
+        "**PRIM11 \u2014 Independent Verification and Integrity of Claims**",
+        "**PRIM12 \u2014 Reversibility and Containment**",
+        "**PRIM15 \u2014 Evolution, Revalidation, and Non-Entrenchment**",
+        "`corpus_systems.md` **Chapter S1 \u2014 Information Types and Handling**, including Types **C**, **G**, **H**, **I**, **N**, and **S**",
+        "**CJS-3.5 \u2014 Classification alignment for supervised scope**"
+      ],
+      "direct_ch1_refs": [],
+      "inferred_principles": [
+        "3.2",
+        "6.2",
+        "7.1",
+        "8",
+        "9"
+      ],
+      "owner_refs": [
+        "PRIM10",
+        "PRIM11",
+        "PRIM12",
+        "PRIM15",
+        "PRIM9",
+        "corpus_systems.md"
+      ],
+      "op_rules": [
+        {
+          "label": "Implementation and cross-implementation data-retention and lifecycle-integrity terms",
+          "line": 139,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        },
+        {
+          "label": "Justification and bounded-retention floor",
+          "line": 144,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        },
+        {
+          "label": "Purpose and proportionality criteria",
+          "line": 149,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        },
+        {
+          "label": "Lifecycle expiry, deletion, de-identification, and reclassification controls",
+          "line": 154,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        },
+        {
+          "label": "Anti-surveillance and anti-coercion accumulation limits",
+          "line": 159,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        },
+        {
+          "label": "Accountability-preserving record floor",
+          "line": 164,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        },
+        {
+          "label": "Classification and information-type alignment",
+          "line": 169,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        },
+        {
+          "label": "Transparency disclosures and stakeholder legibility",
+          "line": 174,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        },
+        {
+          "label": "Review, revalidation, and prohibited patterns",
+          "line": 179,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        },
+        {
+          "label": "Proportional application",
+          "line": 184,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        }
+      ],
+      "classifications": [
+        "weak_trace"
+      ]
+    },
+    {
+      "cluster_id": "CJS-5E.1",
+      "title": "Implementation and cross-implementation graceful degradation and failure-mode integrity terms",
+      "file": "corpus_joint_structure/cjs_05e_00_failure_robustness_intervention_correction.md",
+      "start_line": 15,
+      "end_line": 72,
+      "read_with": [
+        "**PRIM6 \u2014 Graceful Degradation and Failure Mode Integrity**",
+        "**PRIM1 \u2014 System Status, Risk, and Scope Representation**",
+        "**PRIM5 \u2014 Dependency Awareness, Disclosure, and Risk Integrity**",
+        "**PRIM12 \u2014 Reversibility and Containment**",
+        "**PRIM15 \u2014 Evolution, Revalidation, and Non-Entrenchment**",
+        "`corpus_systems.md` **Protocol A \u2014 System Design, Testing, Verification, and Deployment**"
+      ],
+      "direct_ch1_refs": [],
+      "inferred_principles": [
+        "3.1",
+        "4.1",
+        "5.1",
+        "6.1",
+        "7",
+        "9"
+      ],
+      "owner_refs": [
+        "PRIM1",
+        "PRIM12",
+        "PRIM15",
+        "PRIM5",
+        "PRIM6",
+        "corpus_systems.md"
+      ],
+      "op_rules": [
+        {
+          "label": "Implementation and cross-implementation graceful degradation and failure-mode integrity terms",
+          "line": 26,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        },
+        {
+          "label": "Graceful degradation floor and defined failure-mode coverage",
+          "line": 31,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        },
+        {
+          "label": "Signaling integrity and anti-silent-failure controls",
+          "line": 36,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        },
+        {
+          "label": "Priority order and honest representation",
+          "line": 41,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        },
+        {
+          "label": "Bounded operation, safe-mode transitions, and shutdown discipline",
+          "line": 46,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        },
+        {
+          "label": "Fail-soft within constraints and non-externalization",
+          "line": 51,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        },
+        {
+          "label": "Monitoring, transition traceability, escalation, and revalidation",
+          "line": 56,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        },
+        {
+          "label": "Cross-boundary propagation controls",
+          "line": 61,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        },
+        {
+          "label": "Proportional application",
+          "line": 66,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        }
+      ],
+      "classifications": [
+        "weak_trace"
+      ]
+    },
+    {
+      "cluster_id": "CJS-5E.2",
+      "title": "Implementation and cross-implementation intervention and override integrity terms",
+      "file": "corpus_joint_structure/cjs_05e_00_failure_robustness_intervention_correction.md",
+      "start_line": 73,
+      "end_line": 138,
+      "read_with": [
+        "**PRIM8 \u2014 Intervention and Override Rights**",
+        "**PRIM6 \u2014 Graceful Degradation and Failure Mode Integrity**",
+        "**PRIM9 \u2014 Auditability**",
+        "**PRIM14 \u2014 Adversarial Robustness and Abuse Resistance**",
+        "**PRIM15 \u2014 Evolution, Revalidation, and Non-Entrenchment**",
+        "**PROT2 \u2014 Intervention and Override Rights**",
+        "**Chapter One \u00a76.4.1 \u2014 Rights-Collision Decision Test**",
+        "**`corpus_forum.md` CF-11 \u2014 Forum continuity, fallback operation, and emergency adjudication**",
+        "Constitutional hooks in **Articles IX, XII, and XIII**"
+      ],
+      "direct_ch1_refs": [
+        "6.4.1"
+      ],
+      "inferred_principles": [
+        "3.1",
+        "6.1",
+        "6.4",
+        "7.1",
+        "9"
+      ],
+      "owner_refs": [
+        "CF",
+        "PRIM14",
+        "PRIM15",
+        "PRIM6",
+        "PRIM8",
+        "PRIM9",
+        "PROT2",
+        "corpus_forum.md"
+      ],
+      "op_rules": [
+        {
+          "label": "Implementation and cross-implementation intervention and override integrity terms",
+          "line": 87,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        },
+        {
+          "label": "Intervention timeliness and practical control floor",
+          "line": 92,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        },
+        {
+          "label": "Trigger scope and timeliness applicability",
+          "line": 97,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        },
+        {
+          "label": "Technical pathway adequacy and reliability",
+          "line": 102,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        },
+        {
+          "label": "Authority scoping, role clarity, and anti-capture constraints",
+          "line": 107,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        },
+        {
+          "label": "Attribution, records, and transparency defaults",
+          "line": 112,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        },
+        {
+          "label": "Abuse safeguards and review controls",
+          "line": 117,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        },
+        {
+          "label": "Intervention behavior priorities and safe-state handling",
+          "line": 122,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        },
+        {
+          "label": "Emergency technical-coupling discipline",
+          "line": 127,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        },
+        {
+          "label": "Proportional application",
+          "line": 132,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        }
+      ],
+      "classifications": [
+        "complete"
+      ]
+    },
+    {
+      "cluster_id": "CJS-5E.3",
+      "title": "Implementation and cross-implementation reversibility and containment terms",
+      "file": "corpus_joint_structure/cjs_05e_00_failure_robustness_intervention_correction.md",
+      "start_line": 139,
+      "end_line": 176,
+      "read_with": [
+        "**PRIM12 \u2014 Reversibility and Containment**",
+        "**PRIM5 \u2014 Dependency Awareness, Disclosure, and Risk Integrity**",
+        "**PRIM6 \u2014 Graceful Degradation and Failure Mode Integrity**",
+        "**PRIM9 \u2014 Auditability**",
+        "**PRIM10 \u2014 Tiered Transparency and Audit Access**",
+        "**PRIM11 \u2014 Independent Verification and Integrity of Claims**"
+      ],
+      "direct_ch1_refs": [],
+      "inferred_principles": [
+        "3.1",
+        "4.1",
+        "6.1",
+        "7.1",
+        "9"
+      ],
+      "owner_refs": [
+        "PRIM10",
+        "PRIM11",
+        "PRIM12",
+        "PRIM5",
+        "PRIM6",
+        "PRIM9"
+      ],
+      "op_rules": [
+        {
+          "label": "Implementation and cross-implementation reversibility and containment terms",
+          "line": 150,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        },
+        {
+          "label": "Irreversibility-limitation floor",
+          "line": 155,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        },
+        {
+          "label": "Rollback and containment capability",
+          "line": 160,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        },
+        {
+          "label": "Higher-impact tested-recovery requirement",
+          "line": 165,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        },
+        {
+          "label": "Compensatory restoration and limitation disclosure",
+          "line": 170,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        }
+      ],
+      "classifications": [
+        "weak_trace"
+      ]
+    },
+    {
+      "cluster_id": "CJS-5E.4",
+      "title": "Implementation and cross-implementation adversarial robustness and abuse-resistance terms",
+      "file": "corpus_joint_structure/cjs_05e_00_failure_robustness_intervention_correction.md",
+      "start_line": 177,
+      "end_line": 259,
+      "read_with": [
+        "**PRIM14 \u2014 Adversarial Robustness and Abuse Resistance**",
+        "**PRIM4 \u2014 Transparency and Disclosure**",
+        "**PRIM5 \u2014 Dependency Awareness, Disclosure, and Risk Integrity**",
+        "**PRIM6 \u2014 Graceful Degradation and Failure Mode Integrity**",
+        "**PRIM9 \u2014 Auditability**",
+        "**PRIM11 \u2014 Independent Verification and Integrity of Claims**",
+        "**PRIM12 \u2014 Reversibility and Containment**",
+        "**PRIM15 \u2014 Evolution, Revalidation, and Non-Entrenchment**",
+        "**PROT1 \u2014 Distributed and Proportional Authority**",
+        "**PROT4 \u2014 Burden of Justification and Constraint**",
+        "**PROT5 \u2014 Constrained Secrecy and Protected Investigations**"
+      ],
+      "direct_ch1_refs": [],
+      "inferred_principles": [
+        "3.1",
+        "3.2",
+        "4.1",
+        "7.1",
+        "7.2",
+        "9"
+      ],
+      "owner_refs": [
+        "PRIM11",
+        "PRIM12",
+        "PRIM14",
+        "PRIM15",
+        "PRIM4",
+        "PRIM5",
+        "PRIM6",
+        "PRIM9",
+        "PROT1",
+        "PROT4",
+        "PROT5"
+      ],
+      "op_rules": [
+        {
+          "label": "Implementation and cross-implementation adversarial robustness and abuse-resistance terms",
+          "line": 193,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        },
+        {
+          "label": "Adversarial robustness floor",
+          "line": 198,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        },
+        {
+          "label": "Threat modeling and vulnerability mapping discipline",
+          "line": 203,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        },
+        {
+          "label": "Threat-model transparency, auditability, and update cadence",
+          "line": 208,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        },
+        {
+          "label": "High-risk exploitation-surface controls",
+          "line": 213,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        },
+        {
+          "label": "Detection, monitoring, and response integrity",
+          "line": 218,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        },
+        {
+          "label": "False-positive and overreach governance",
+          "line": 223,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        },
+        {
+          "label": "Partial-compromise resilience and graceful degradation",
+          "line": 228,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        },
+        {
+          "label": "Testing, regression, and hardening cycle obligations",
+          "line": 233,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        },
+        {
+          "label": "Best-practices and external-learning revalidation",
+          "line": 238,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        },
+        {
+          "label": "Automated auditing where feasible",
+          "line": 243,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        },
+        {
+          "label": "Defense-boundary and Rights-Floor limits",
+          "line": 248,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        },
+        {
+          "label": "Proportional application",
+          "line": 253,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        }
+      ],
+      "classifications": [
+        "weak_trace"
+      ]
+    },
+    {
+      "cluster_id": "CJS-5E.5",
+      "title": "Implementation and cross-implementation structural review, correction urgency, and disclosure terms",
+      "file": "corpus_joint_structure/cjs_05e_00_failure_robustness_intervention_correction.md",
+      "start_line": 260,
+      "end_line": 304,
+      "read_with": [
+        "**PROT6 \u2014 Procedural Integrity and Adjudication**",
+        "**PRIM6 \u2014 Graceful Degradation and Failure Mode Integrity**",
+        "**PRIM12 \u2014 Reversibility and Containment**",
+        "**PRIM15 \u2014 Evolution, Revalidation, and Non-Entrenchment**",
+        "**PROT3 \u2014 Reflexive Transparency and Accountability**",
+        "`corpus_systems.md` **Chapter S1** and **Chapter S2**",
+        "Owner-layer-specific monitoring or publication duties."
+      ],
+      "direct_ch1_refs": [],
+      "inferred_principles": [
+        "3.1",
+        "3.2",
+        "4.1",
+        "5.2",
+        "7.1",
+        "7.2"
+      ],
+      "owner_refs": [
+        "PRIM12",
+        "PRIM15",
+        "PRIM6",
+        "PROT3",
+        "PROT6",
+        "corpus_systems.md"
+      ],
+      "op_rules": [
+        {
+          "label": "Implementation and cross-implementation structural review, correction urgency, and disclosure terms",
+          "line": 272,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        },
+        {
+          "label": "Systemic-pattern detection and escalation",
+          "line": 277,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        },
+        {
+          "label": "Correction Urgency Level (CUL) discipline",
+          "line": 282,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        },
+        {
+          "label": "Feedback integration and effectiveness verification",
+          "line": 287,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        },
+        {
+          "label": "Structural records, risk-relevant data, and disclosure timing",
+          "line": 292,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        },
+        {
+          "label": "Stakeholder scope and targeted transparency",
+          "line": 297,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        }
+      ],
+      "classifications": [
+        "weak_trace"
+      ]
+    }
+  ],
+  "gaps": {
+    "missing_anchor": [],
+    "weak_trace": [
+      {
+        "cluster_id": "CJS-5.0",
+        "title": "Role-definition preface and standing competency gate interface",
+        "file": "corpus_joint_structure/cjs_05_cross_implementation_operational_terms.md",
+        "line": 7,
+        "issue": "Principle basis is inferred from subject matter, not directly cited to Chapter 01.",
+        "inferred_principles": [
+          "2.1",
+          "3.4",
+          "5.2",
+          "7.1",
+          "7.2",
+          "10"
+        ]
+      },
+      {
+        "cluster_id": "CJS-5A.1",
+        "title": "Implementation and cross-implementation distributed and proportional authority terms",
+        "file": "corpus_joint_structure/cjs_05a_00_authority_constraint_secrecy_procedure.md",
+        "line": 16,
+        "issue": "Principle basis is inferred from subject matter, not directly cited to Chapter 01.",
+        "inferred_principles": [
+          "2.1",
+          "4",
+          "5.2",
+          "7.2",
+          "10"
+        ]
+      },
+      {
+        "cluster_id": "CJS-5A.2",
+        "title": "Implementation and cross-implementation intervention governance and override-authorization terms",
+        "file": "corpus_joint_structure/cjs_05a_00_authority_constraint_secrecy_procedure.md",
+        "line": 74,
+        "issue": "Principle basis is inferred from subject matter, not directly cited to Chapter 01.",
+        "inferred_principles": [
+          "3.1",
+          "6.1",
+          "6.4",
+          "7.1",
+          "9"
+        ]
+      },
+      {
+        "cluster_id": "CJS-5A.3",
+        "title": "Implementation and cross-implementation reflexive transparency and accountability terms",
+        "file": "corpus_joint_structure/cjs_05a_00_authority_constraint_secrecy_procedure.md",
+        "line": 123,
+        "issue": "Principle basis is inferred from subject matter, not directly cited to Chapter 01.",
+        "inferred_principles": [
+          "3.2",
+          "4",
+          "5.2",
+          "7.1",
+          "7.2"
+        ]
+      },
+      {
+        "cluster_id": "CJS-5A.5",
+        "title": "Implementation and cross-implementation constrained-secrecy and protected-investigation terms",
+        "file": "corpus_joint_structure/cjs_05a_00_authority_constraint_secrecy_procedure.md",
+        "line": 236,
+        "issue": "Principle basis is inferred from subject matter, not directly cited to Chapter 01.",
+        "inferred_principles": [
+          "3.2",
+          "6.2",
+          "6.4",
+          "7.1",
+          "8",
+          "9"
+        ]
+      },
+      {
+        "cluster_id": "CJS-5A.6",
+        "title": "Implementation and cross-implementation procedural integrity and adjudication terms",
+        "file": "corpus_joint_structure/cjs_05a_00_authority_constraint_secrecy_procedure.md",
+        "line": 281,
+        "issue": "Principle basis is inferred from subject matter, not directly cited to Chapter 01.",
+        "inferred_principles": [
+          "2.1",
+          "3.4",
+          "6.4",
+          "7.1",
+          "8",
+          "10"
+        ]
+      },
+      {
+        "cluster_id": "CJS-5B.1",
+        "title": "Implementation and cross-implementation integrity assurance and resilience operations",
+        "file": "corpus_joint_structure/cjs_05b_00_evidence_audit_claim_integrity.md",
+        "line": 14,
+        "issue": "Principle basis is inferred from subject matter, not directly cited to Chapter 01.",
+        "inferred_principles": [
+          "3.1",
+          "3.2",
+          "4.1",
+          "7.1",
+          "7.2"
+        ]
+      },
+      {
+        "cluster_id": "CJS-5B.2",
+        "title": "Implementation and cross-implementation auditability and reconstructability terms",
+        "file": "corpus_joint_structure/cjs_05b_00_evidence_audit_claim_integrity.md",
+        "line": 47,
+        "issue": "Principle basis is inferred from subject matter, not directly cited to Chapter 01.",
+        "inferred_principles": [
+          "3.2",
+          "4",
+          "7.1",
+          "7.2"
+        ]
+      },
+      {
+        "cluster_id": "CJS-5B.4",
+        "title": "Implementation and cross-implementation independent verification and claim-integrity terms",
+        "file": "corpus_joint_structure/cjs_05b_00_evidence_audit_claim_integrity.md",
+        "line": 133,
+        "issue": "Principle basis is inferred from subject matter, not directly cited to Chapter 01.",
+        "inferred_principles": [
+          "3.2",
+          "3.3",
+          "4",
+          "7.1",
+          "7.2"
+        ]
+      },
+      {
+        "cluster_id": "CJS-5C.1",
+        "title": "Implementation and cross-implementation quorum and participatory legitimacy terms",
+        "file": "corpus_joint_structure/cjs_05c_00_participation_comprehension_disclosure.md",
+        "line": 14,
+        "issue": "Principle basis is inferred from subject matter, not directly cited to Chapter 01.",
+        "inferred_principles": [
+          "2.1",
+          "4",
+          "5.2",
+          "6.4",
+          "8",
+          "10"
+        ]
+      },
+      {
+        "cluster_id": "CJS-5C.2",
+        "title": "Implementation and cross-implementation comprehensibility and cognitive accessibility terms",
+        "file": "corpus_joint_structure/cjs_05c_00_participation_comprehension_disclosure.md",
+        "line": 75,
+        "issue": "Principle basis is inferred from subject matter, not directly cited to Chapter 01.",
+        "inferred_principles": [
+          "3.4",
+          "5.2",
+          "7.1",
+          "8"
+        ]
+      },
+      {
+        "cluster_id": "CJS-5C.3",
+        "title": "Implementation and cross-implementation salience integrity and attention-allocation terms",
+        "file": "corpus_joint_structure/cjs_05c_00_participation_comprehension_disclosure.md",
+        "line": 129,
+        "issue": "Principle basis is inferred from subject matter, not directly cited to Chapter 01.",
+        "inferred_principles": [
+          "2",
+          "3.2",
+          "4",
+          "7.1",
+          "8"
+        ]
+      },
+      {
+        "cluster_id": "CJS-5C.4",
+        "title": "Implementation and cross-implementation disclosure sufficiency and observability terms",
+        "file": "corpus_joint_structure/cjs_05c_00_participation_comprehension_disclosure.md",
+        "line": 191,
+        "issue": "Principle basis is inferred from subject matter, not directly cited to Chapter 01.",
+        "inferred_principles": [
+          "3.2",
+          "6.2",
+          "7.1",
+          "8"
+        ]
+      },
+      {
+        "cluster_id": "CJS-5D.1",
+        "title": "Implementation and cross-implementation dependency integrity and disclosure terms",
+        "file": "corpus_joint_structure/cjs_05d_00_dependency_exit_lifecycle_integrity.md",
+        "line": 13,
+        "issue": "Principle basis is inferred from subject matter, not directly cited to Chapter 01.",
+        "inferred_principles": [
+          "3.1",
+          "4.1",
+          "5.1",
+          "7.1",
+          "9"
+        ]
+      },
+      {
+        "cluster_id": "CJS-5D.2",
+        "title": "Implementation and cross-implementation interoperability, portability, and exit-integrity terms",
+        "file": "corpus_joint_structure/cjs_05d_00_dependency_exit_lifecycle_integrity.md",
+        "line": 62,
+        "issue": "Principle basis is inferred from subject matter, not directly cited to Chapter 01.",
+        "inferred_principles": [
+          "5.1",
+          "6.1",
+          "7.1",
+          "8",
+          "9"
+        ]
+      },
+      {
+        "cluster_id": "CJS-5D.3",
+        "title": "Implementation and cross-implementation data-retention and lifecycle-integrity terms",
+        "file": "corpus_joint_structure/cjs_05d_00_dependency_exit_lifecycle_integrity.md",
+        "line": 127,
+        "issue": "Principle basis is inferred from subject matter, not directly cited to Chapter 01.",
+        "inferred_principles": [
+          "3.2",
+          "6.2",
+          "7.1",
+          "8",
+          "9"
+        ]
+      },
+      {
+        "cluster_id": "CJS-5E.1",
+        "title": "Implementation and cross-implementation graceful degradation and failure-mode integrity terms",
+        "file": "corpus_joint_structure/cjs_05e_00_failure_robustness_intervention_correction.md",
+        "line": 15,
+        "issue": "Principle basis is inferred from subject matter, not directly cited to Chapter 01.",
+        "inferred_principles": [
+          "3.1",
+          "4.1",
+          "5.1",
+          "6.1",
+          "7",
+          "9"
+        ]
+      },
+      {
+        "cluster_id": "CJS-5E.3",
+        "title": "Implementation and cross-implementation reversibility and containment terms",
+        "file": "corpus_joint_structure/cjs_05e_00_failure_robustness_intervention_correction.md",
+        "line": 139,
+        "issue": "Principle basis is inferred from subject matter, not directly cited to Chapter 01.",
+        "inferred_principles": [
+          "3.1",
+          "4.1",
+          "6.1",
+          "7.1",
+          "9"
+        ]
+      },
+      {
+        "cluster_id": "CJS-5E.4",
+        "title": "Implementation and cross-implementation adversarial robustness and abuse-resistance terms",
+        "file": "corpus_joint_structure/cjs_05e_00_failure_robustness_intervention_correction.md",
+        "line": 177,
+        "issue": "Principle basis is inferred from subject matter, not directly cited to Chapter 01.",
+        "inferred_principles": [
+          "3.1",
+          "3.2",
+          "4.1",
+          "7.1",
+          "7.2",
+          "9"
+        ]
+      },
+      {
+        "cluster_id": "CJS-5E.5",
+        "title": "Implementation and cross-implementation structural review, correction urgency, and disclosure terms",
+        "file": "corpus_joint_structure/cjs_05e_00_failure_robustness_intervention_correction.md",
+        "line": 260,
+        "issue": "Principle basis is inferred from subject matter, not directly cited to Chapter 01.",
+        "inferred_principles": [
+          "3.1",
+          "3.2",
+          "4.1",
+          "5.2",
+          "7.1",
+          "7.2"
+        ]
+      }
+    ],
+    "owner_drift": [],
+    "op_component_gap": [],
+    "overreach": [],
+    "inventory": []
+  }
+}

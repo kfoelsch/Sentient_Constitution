@@ -648,13 +648,19 @@ Minimum required fields:
 
 Institutions with repeated, verified anti-constitutional misconduct must enter mandatory dissolution review.
 
+Institutions that operate, supervise, charter, license, or materially control a system that has become chronically misaligned with constitutional obligations must enter alignment-supervision review when an Integrity forum issues a final alignment ruling, withdraws recognition, imposes remediation conditions, or identifies a sustained pattern of material misalignment under **Chapter Nine**.
+
+Realignment resistance means persistent refusal, obstruction, concealment, retaliatory suppression, strategic delay, evidence destruction, metric gaming, dependency lock-in, or structural workaround after a reasonable opportunity for good-faith cure. Realignment resistance must trigger mandatory dissolution or disbandment review when it materially preserves constitutional misalignment, blocks challenge or remediation pathways, degrades Rights-Floor continuity, entrenches capture, or makes constitutional process or remedies unusable in practice.
+
+Where verified realignment resistance satisfies **Chapter Eight** criteria, including material rollback effect, causally significant blocked correction, sustained high-gravity pattern, or operative nullification, it may be classified as anti-constitutional misconduct only under **Chapter Eight** and with the safeguards required there.
+
 Before dissolution, institutions should apply graduated and reviewable sanctions where constitutionally sufficient, such as corrective mandates, constrained authority, or supervised operation.
 
-Dissolution may proceed when lesser measures are not sufficient to protect constitutional obligations.
+Dissolution or disbandment may proceed when lesser measures are not sufficient to protect constitutional obligations.
 
-Dissolution must include continuity transfer safeguards for rights, services, records, and active challenge pathways.
+Dissolution or disbandment must include continuity transfer safeguards for rights, services, records, and active challenge pathways.
 
-Dissolution does not replace personal accountability. Sentients responsible for anti-constitutional misconduct remain fully accountable under ordinary constitutional law.
+Dissolution or disbandment does not replace personal accountability. Sentients responsible for anti-constitutional misconduct remain fully accountable under ordinary constitutional law.
 
 ---
 
