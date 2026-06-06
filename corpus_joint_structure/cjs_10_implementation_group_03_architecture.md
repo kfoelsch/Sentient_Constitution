@@ -10,7 +10,7 @@ Principles: **Safety and Accountability** through explicit dependency mapping, c
 
 **Chapter Five** supplies the definitional standards for dependency and impact evaluation, including *Dependency*, *Risk*, the materiality-family entries, *System*, *System Boundary Integrity*, and *Cascading Failure* where applicable. **[corpus_systems.md](../corpus_systems.md), Protocol A** operationalizes lifecycle and environment boundaries that create or change dependencies.
 
-Read this section together with **PRIM4**, **PRIM7**, **PRIM9**, **PRIM12**, **PRIM15**, **PROT1**, **PROT4**, and **Protocol B** where disclosure, mapping, retention lifecycle, classification alignment, or comprehensibility obligations apply to the same facts. For overlapping institution-system supervised scope, also apply **CJS-3.5**.
+Read this section together with **PRIM4**, **PRIM7**, **PRIM9**, **PRIM12**, **PRIM15**, **PROT1**, **PROT4**, and **Protocol B** where disclosure, mapping, retention lifecycle, classification alignment, or comprehensibility obligations apply to the same facts. For overlapping institution-system supervised scope, also apply **CJS-3.5 — Classification alignment for supervised scope**.
 
 Implementation and cross-implementation operational definitions for dependency disclosure, criticality classification, substitutability and exit constraints, anti-externalization controls, monitoring and map obligations, and proportional scaling are maintained in **CJS-5C.1** (*Implementation and cross-implementation dependency integrity and disclosure terms*). Apply that subsection as required read-with for this **PRIM5** implementation scope.
 

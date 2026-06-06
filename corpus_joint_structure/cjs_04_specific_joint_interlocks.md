@@ -19,7 +19,7 @@ Home-only or rotation-only structures are non-compliant for ordinarily binding b
 
 Where **CI** and **CF** overlap, the stricter clearly adopted rule governs.
 
-**Mandatory read-with:** **CI-9.1B.1** through **CI-9.1B.4**; **CF-2.5.1** through **CF-2.5.5** and **CF-11** as applicable; `corpus_systems.md` **Chapter S2** and **Chapter S3** where classification changes the burden.
+**Mandatory read-with:** **CI-9.1B.1** through **CI-9.1B.4**; **CF-2.5.1** through **CF-2.5.5** and **CF-11** as applicable; `corpus_systems.md` **Chapter S2 — System Classification and Handling** and **Chapter S3 — Critical System Stewardship** where classification changes the burden.
 
 ### CJS-4.2 Shared attachment and continuity mechanics
 Where **CJS-4.1** applies, the instrument must publish:
@@ -50,7 +50,7 @@ Where trust depends on multiple systems, institutions, dependencies, or implemen
 - the contest, escalation, evidence, and correction routes affected sentients can use; and
 - the accountable owners for correction and restoration.
 
-Trust claims must remain consistent with **CJS-3.2**, **CJS-3.5**, and **CJS-3.6**.
+Trust claims must remain consistent with **CJS-3.2**, **CJS-3.5 — Classification alignment for supervised scope**, and **CJS-3.6**.
 
 ### CJS-4.5 Definition collision and precedence discipline
 When CJS text seems to conflict with a domain-owner section, start with a simple question: is the CJS text only helping readers connect files, trigger a joint rule, or use shorthand inside one subsection?
@@ -67,7 +67,7 @@ Use this order:
 Do not use a broad reading of CJS to change, shrink, expand, or move a rule that belongs to a canonical owner. If the conflict is still unclear after applying this order, do not treat the broader reading as controlling. Send the question to the canonical owner, including the forum owner in **CF** where forum routing, forum authority, or Chapter Nine procedure is affected, and update the CJS pointer once the owner clarifies it.
 
 ### CJS-4.6 Class-scaled lane staffing and competency redundancy
-Use this rule for **CJS-R18**, class-scaled lane staffing and competency redundancy for materially binding stewardship. It covers roles with materially binding effect under **Chapter Ten**, section **5**, where `corpus_systems.md` **Chapter S2** or **Chapter S3** scales the burden.
+Use this rule for **CJS-R18**, class-scaled lane staffing and competency redundancy for materially binding stewardship. It covers roles with materially binding effect under **Chapter Ten**, section **5**, where `corpus_systems.md` **Chapter S2 — System Classification and Handling** or **Chapter S3 — Critical System Stewardship** scales the burden.
 
 Before applying role, role-holder, stewardship, operator, accountable-role, or lane terms in this subsection, apply **CJS-5.0** and the **Chapter Seven**, section **1.2** competency gate interface.
 
@@ -80,7 +80,7 @@ For **Class A** and **Class B** systems, each institution that hosts a constitut
 
 Staffing must be real, not just numerical. Responsibility cannot be spread so thin that nobody is competent, and knowledge cannot be concentrated so tightly that the lane becomes fragile, captured, or unable to replace itself.
 
-The constitutional floor remains in `core_11-11_governance.md` **Chapter Eleven**, section **5**. Domain detail remains in **CI-2**, **CI-4**, **CI-11**, **CI-12**, and `corpus_systems.md` **Chapter S2** and **Chapter S3**.
+The constitutional floor remains in `core_11-11_governance.md` **Chapter Eleven**, section **5**. Domain detail remains in **CI-2**, **CI-4**, **CI-11**, **CI-12**, and `corpus_systems.md` **Chapter S2 — System Classification and Handling** and **Chapter S3 — Critical System Stewardship**.
 
 ### CJS-4.7 Shared procedural abstractions for delegated bodies and forum routing
 This subsection gives shared CJS terms for four procedural router topics: **CJS-R01** delegated binding bodies, **CJS-R02** forum chambers and panels, **CJS-R03** lawful panel formation and recusal, and **CJS-R04** routing, intake, transfer, certification, and representative treatment. Apply the operational evaluation terms in **CJS-5E.6**. This subsection does not replace **CI** or **CF** detail.

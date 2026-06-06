@@ -51,7 +51,7 @@ Proportional application
 ---
 
 ## CJS-5C.2 Implementation and cross-implementation interoperability, portability, and exit-integrity terms
-Use this rule when lock-in, migration, interface design, or dependency exposure depends on standalone system behavior or combined system, dependency, or implementation-layer behavior. It is read with **PRIM7 — Interoperability, Portability, and Exit Integrity**, **PRIM5 — Dependency Awareness, Disclosure, and Risk Integrity**, **PRIM4 — Transparency and Disclosure**, `corpus_systems.md` **Chapter S1**, **Chapter S2**, **Chapter S3**, **Article XIX**, and **Article XV-A**.
+Use this rule when lock-in, migration, interface design, or dependency exposure depends on standalone system behavior or combined system, dependency, or implementation-layer behavior. It is read with **PRIM7 — Interoperability, Portability, and Exit Integrity**, **PRIM5 — Dependency Awareness, Disclosure, and Risk Integrity**, **PRIM4 — Transparency and Disclosure**, `corpus_systems.md` **Chapter S1 — Information Types and Handling**, **Chapter S2 — System Classification and Handling**, **Chapter S3 — Critical System Stewardship**, **Article XIX**, and **Article XV-A**.
 
 Implementation and cross-implementation interoperability, portability, and exit-integrity terms
 - OP-O: Systems must preserve meaningful exit, usable portability, and fair interoperability.
@@ -114,13 +114,13 @@ Read it with:
 - **PRIM11 — Independent Verification and Integrity of Claims**
 - **PRIM12 — Reversibility and Containment**
 - **PRIM15 — Evolution, Revalidation, and Non-Entrenchment**
-- `corpus_systems.md` **Chapter S1**, including Types **C**, **G**, **H**, **I**, **N**, and **S**
-- **CJS-3.5**
+- `corpus_systems.md` **Chapter S1 — Information Types and Handling**, including Types **C**, **G**, **H**, **I**, **N**, and **S**
+- **CJS-3.5 — Classification alignment for supervised scope**
 
 Implementation and cross-implementation data-retention and lifecycle-integrity terms
-- OP-O: Data may be kept only for a justified reason, within clear limits, and with regular review from collection through deletion or de-identification.
-- OP-E: Reviewers must assess purpose, S1 data type or types, duration, detail, access, deletion, reclassification, disclosure, and audit needs together.
-- OP-C: A retention-integrity claim is non-compliant if an important part of that lifecycle is missing, unusable, or inconsistent with another part.
+- OP-O: Data-retention compliance must be evaluated as one lifecycle claim across collection, use, retention, transformation, disclosure, deletion, de-identification, and reclassification.
+- OP-E: Reviewers must assess purpose, S1 data type or types, duration, detail, access, deletion or de-identification, reclassification, disclosure, and audit needs together.
+- OP-C: A retention-integrity claim is non-compliant if those lifecycle elements cannot be reviewed together, if an important element is missing or unusable, or if one element defeats another.
 
 Justification and bounded-retention floor
 - OP-O: Retention must remain justified over time. When the justification ends, the data must be reduced, deleted, de-identified, or otherwise removed from use.
@@ -147,9 +147,9 @@ Accountability-preserving record floor
 - OP-E: Reviewers must verify that data minimization does not block investigations or hide responsibility.
 - OP-C: Invoking minimization to defeat accountability is non-compliant.
 
-Classification and S1 data-type alignment
-- OP-O: If accumulated, linked, or inferred data changes S1 type or becomes more sensitive in practice, stricter protections apply.
-- OP-E: Reviewers must verify alignment with **S1** data-type duties and **CJS-3.5** where supervision and systems classification overlap.
+Classification and information-type alignment
+- OP-O: If accumulated, linked, or inferred data changes its **Chapter S1 — Information Types and Handling** data type or becomes more sensitive in practice, stricter protections apply.
+- OP-E: Reviewers must verify alignment with **Chapter S1 — Information Types and Handling** data-type duties and **CJS-3.5 — Classification alignment for supervised scope** where supervision and systems classification overlap.
 - OP-C: Continuing to use lower-type or lower-class handling after sensitivity has increased is non-compliant.
 
 Transparency disclosures and stakeholder legibility
