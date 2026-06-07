@@ -32,7 +32,7 @@ COMPANION_WRAPPERS = (
     "corpus_joint_structure.md",
 )
 
-COMPANION_SUBDIRS = ("corpus_joint_structure",)
+COMPANION_SUBDIRS = ("corpus_joint_structure", "corpus_forum")
 
 SUPPORT_DOCS = ("doc_architecture.md", "README.md")
 
