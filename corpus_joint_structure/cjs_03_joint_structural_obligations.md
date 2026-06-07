@@ -91,7 +91,7 @@ Emergency or temporary narrowing is allowed only when it is published, clearly b
 
 - Upstream: [CJS-1.1](cjs_01_scope_purpose_boundary_interface.md#cjs-11-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.2](cjs_02_implementation_integration_map.md#cjs-22-topic-router-stable-ids) topic router; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
 - Downstream: this section's local operational requirements for **CJS-3.3 Boundary Between Support Roles and Merits Decisions**.
-- Read with: **CJS-3.3**; **PROT6**.
+- Read with: **CJS-3.3**; **CJS-5A.6**.
 
 </details>
 
@@ -111,7 +111,7 @@ Roles that monitor, review pathway performance, provide forensic help, or suppor
 
 Institutions must publish what each role is allowed to do and what it is not allowed to decide. They must also state who the role reports to, how often it reports, and how it connects to assurance lanes. Oversight and support roles must not quietly take over the merits decision-making assigned to a forum family.
 
-See **CI-7.3**, **CF-7**, **CF-8**, and **PROT6**.
+See **CI-7.3**, **CF-7**, **CF-8**, and **CJS-5A.6**.
 
 ### CJS-3.4 Institution-hosted or forum-adjacent operations
 <details>
@@ -176,7 +176,7 @@ It is non-compliant to use one label for institutional supervision and a differe
 
 <strong><span style="color: #2563eb;">Definition:</span></strong> [Sentient](../core_05-05_definitions_c_dependent_clusters.md#sentient-composite) · [O](../core_05-05_definitions_c_dependent_clusters.md#sentient-composite) · [E](../core_05-05_definitions_c_dependent_clusters.md#sentient-composite-e) · [C](../core_05-05_definitions_c_dependent_clusters.md#sentient-composite-c)
 
-When **CS**, **CI**, or **CF** cite **PRIM** or **PROT** labels, adopters must keep those labels traceable and must not use implementation text to weaken them.
+When **CS**, **CI**, or **CF** cite **CJS-5** operational clusters, adopters must keep those references traceable and must not use implementation text to weaken them.
 
 If a cited profile and a cited implementation label seem to conflict, apply the Sentient Constitution **Chapter Fifteen** conflict order and the stricter clearly adopted rule under **CJS-2**.
 

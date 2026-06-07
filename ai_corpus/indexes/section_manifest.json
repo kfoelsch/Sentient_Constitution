@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-06-06T16:58:18+00:00",
+  "generated_at": "2026-06-07T10:24:26+00:00",
   "files": {
     "core_00-01_principles.md": {
       "total_lines": 1506,
@@ -1738,20 +1738,20 @@
       ]
     },
     "core_05-05_definitions_c_dependent_clusters.md": {
-      "total_lines": 1979,
+      "total_lines": 1985,
       "sections": [
         {
           "header": "Sentient Constitution — Constitutional definitions (Part C)",
           "level": 1,
           "line_start": 1,
-          "line_end": 1979,
+          "line_end": 1985,
           "anchor": null
         },
         {
           "header": "3. Dependent clusters (Clustered Definitions)",
           "level": 3,
           "line_start": 11,
-          "line_end": 1979,
+          "line_end": 1985,
           "anchor": "#section-3-dependent-clusters-clustered-definitions"
         },
         {
@@ -1884,595 +1884,595 @@
           "header": "3.4 Corpus, Authority Stack, Supremacy, and Enforceability",
           "level": 4,
           "line_start": 349,
-          "line_end": 458,
+          "line_end": 464,
           "anchor": "#corpus-authority-stack-supremacy-and-enforceability-cluster"
         },
         {
           "header": "Corpus",
           "level": 5,
           "line_start": 370,
-          "line_end": 393,
+          "line_end": 395,
           "anchor": "#corpus"
         },
         {
           "header": "Authority Stack and Internal Hierarchy",
           "level": 5,
-          "line_start": 394,
-          "line_end": 425,
+          "line_start": 396,
+          "line_end": 429,
           "anchor": "#authority-stack"
         },
         {
           "header": "Supremacy and Enforceability",
           "level": 5,
-          "line_start": 426,
-          "line_end": 439,
+          "line_start": 430,
+          "line_end": 445,
           "anchor": "#supremacy-and-enforceability"
         },
         {
           "header": "Constitutional Constraint Violation",
           "level": 5,
-          "line_start": 440,
-          "line_end": 458,
+          "line_start": 446,
+          "line_end": 464,
           "anchor": "#constitutional-constraint-violation"
         },
         {
           "header": "3.5 Labor and Economic Floor: Compensation, Organization, Safe Conditions, Leisure, and Creative Work",
           "level": 4,
-          "line_start": 459,
-          "line_end": 660,
+          "line_start": 465,
+          "line_end": 666,
           "anchor": "#labor-and-economic-floor-cluster"
         },
         {
           "header": "Fair Compensation",
           "level": 5,
-          "line_start": 490,
-          "line_end": 513,
+          "line_start": 496,
+          "line_end": 519,
           "anchor": "#fair-compensation-constitutional"
         },
         {
           "header": "Safe Conditions",
           "level": 5,
-          "line_start": 514,
-          "line_end": 543,
+          "line_start": 520,
+          "line_end": 549,
           "anchor": "#safe-conditions-constitutional"
         },
         {
           "header": "Leisure and Rest",
           "level": 5,
-          "line_start": 544,
-          "line_end": 572,
+          "line_start": 550,
+          "line_end": 578,
           "anchor": "#leisure-and-rest-constitutional"
         },
         {
           "header": "Likeness and Documentary Depiction Interface",
           "level": 5,
-          "line_start": 573,
-          "line_end": 584,
+          "line_start": 579,
+          "line_end": 590,
           "anchor": "#likeness-and-documentary-depiction-interface-constitutional"
         },
         {
           "header": "Creative Work Attribution",
           "level": 5,
-          "line_start": 585,
-          "line_end": 611,
+          "line_start": 591,
+          "line_end": 617,
           "anchor": "#creative-work-attribution-constitutional"
         },
         {
           "header": "Training-Data Use",
           "level": 5,
-          "line_start": 612,
-          "line_end": 623,
+          "line_start": 618,
+          "line_end": 629,
           "anchor": "#training-data-use-constitutional"
         },
         {
           "header": "Anti-Displacement Floor",
           "level": 5,
-          "line_start": 624,
-          "line_end": 660,
+          "line_start": 630,
+          "line_end": 666,
           "anchor": "#anti-displacement-floor-constitutional"
         },
         {
           "header": "3.6 Forum Families and Dispute Routing",
           "level": 4,
-          "line_start": 661,
-          "line_end": 825,
+          "line_start": 667,
+          "line_end": 831,
           "anchor": "#forum-families-and-dispute-routing-cluster"
         },
         {
           "header": "Primary-Stakes Routing",
           "level": 5,
-          "line_start": 684,
-          "line_end": 703,
+          "line_start": 690,
+          "line_end": 709,
           "anchor": "#primary-stakes-routing"
         },
         {
           "header": "Forum Family, Sentient",
           "level": 5,
-          "line_start": 704,
-          "line_end": 723,
+          "line_start": 710,
+          "line_end": 729,
           "anchor": "#forum-family-sentient"
         },
         {
           "header": "Forum Family, Technical",
           "level": 5,
-          "line_start": 724,
-          "line_end": 743,
+          "line_start": 730,
+          "line_end": 749,
           "anchor": "#forum-family-technical"
         },
         {
           "header": "Forum Family, Institutional",
           "level": 5,
-          "line_start": 744,
-          "line_end": 763,
+          "line_start": 750,
+          "line_end": 769,
           "anchor": "#forum-family-institutional"
         },
         {
           "header": "Forum Family, Environment",
           "level": 5,
-          "line_start": 764,
-          "line_end": 783,
+          "line_start": 770,
+          "line_end": 789,
           "anchor": "#forum-family-environment"
         },
         {
           "header": "Forum Family, Integrity",
           "level": 5,
-          "line_start": 784,
-          "line_end": 803,
+          "line_start": 790,
+          "line_end": 809,
           "anchor": "#forum-family-integrity"
         },
         {
           "header": "Forum Family, Constitutional",
           "level": 5,
-          "line_start": 804,
-          "line_end": 825,
+          "line_start": 810,
+          "line_end": 831,
           "anchor": "#forum-family-constitutional"
         },
         {
           "header": "3.7 Privacy (Informational) — peer-level cluster head",
           "level": 4,
-          "line_start": 826,
-          "line_end": 894,
+          "line_start": 832,
+          "line_end": 900,
           "anchor": "#privacy-informational-cluster"
         },
         {
           "header": "Privacy (Informational)",
           "level": 5,
-          "line_start": 862,
-          "line_end": 871,
+          "line_start": 868,
+          "line_end": 877,
           "anchor": "#privacy-informational"
         },
         {
           "header": "Protected Internal-State Boundary",
           "level": 5,
-          "line_start": 872,
-          "line_end": 881,
+          "line_start": 878,
+          "line_end": 887,
           "anchor": "#protected-internal-state-boundary-constitutional"
         },
         {
           "header": "Surveillance Boundary",
           "level": 5,
-          "line_start": 882,
-          "line_end": 894,
+          "line_start": 888,
+          "line_end": 900,
           "anchor": "#surveillance-boundary"
         },
         {
           "header": "3.8 Self-Determination, Meaningful Agency, Expression, Educational Agency, and Volitional Integrity",
           "level": 4,
-          "line_start": 895,
-          "line_end": 999,
+          "line_start": 901,
+          "line_end": 1005,
           "anchor": "#self-determination-and-meaningful-agency-cluster"
         },
         {
           "header": "Self-Determination",
           "level": 5,
-          "line_start": 916,
-          "line_end": 936,
+          "line_start": 922,
+          "line_end": 942,
           "anchor": "#self-determination-constitutional"
         },
         {
           "header": "Expression",
           "level": 5,
-          "line_start": 937,
-          "line_end": 956,
+          "line_start": 943,
+          "line_end": 962,
           "anchor": "#expression-constitutional"
         },
         {
           "header": "Educational Agency",
           "level": 5,
-          "line_start": 957,
-          "line_end": 976,
+          "line_start": 963,
+          "line_end": 982,
           "anchor": "#educational-agency"
         },
         {
           "header": "Volitional Integrity",
           "level": 5,
-          "line_start": 977,
-          "line_end": 999,
+          "line_start": 983,
+          "line_end": 1005,
           "anchor": "#volitional-integrity"
         },
         {
           "header": "3.9 Standing State, Contribution, and Violation",
           "level": 4,
-          "line_start": 1000,
-          "line_end": 1352,
+          "line_start": 1006,
+          "line_end": 1358,
           "anchor": "#standing-state-contribution-and-violation-cluster"
         },
         {
           "header": "Participant Standing",
           "level": 5,
-          "line_start": 1031,
-          "line_end": 1057,
+          "line_start": 1037,
+          "line_end": 1063,
           "anchor": "#participant-standing-constitutional"
         },
         {
           "header": "Contribution State",
           "level": 5,
-          "line_start": 1058,
-          "line_end": 1083,
+          "line_start": 1064,
+          "line_end": 1089,
           "anchor": "#contribution-state"
         },
         {
           "header": "Verified Inputs for Standing",
           "level": 5,
-          "line_start": 1084,
-          "line_end": 1105,
+          "line_start": 1090,
+          "line_end": 1111,
           "anchor": "#verified-inputs-for-standing"
         },
         {
           "header": "Verified Violation Findings",
           "level": 5,
-          "line_start": 1106,
-          "line_end": 1128,
+          "line_start": 1112,
+          "line_end": 1134,
           "anchor": "#verified-violation-findings"
         },
         {
           "header": "Standing Effect",
           "level": 5,
-          "line_start": 1129,
-          "line_end": 1151,
+          "line_start": 1135,
+          "line_end": 1157,
           "anchor": "#standing-effect-chapter-six"
         },
         {
           "header": "Standing Record",
           "level": 5,
-          "line_start": 1152,
-          "line_end": 1174,
+          "line_start": 1158,
+          "line_end": 1180,
           "anchor": "#standing-record-chapter-six"
         },
         {
           "header": "Competency Gate",
           "level": 5,
-          "line_start": 1175,
-          "line_end": 1196,
+          "line_start": 1181,
+          "line_end": 1202,
           "anchor": "#competency-gate"
         },
         {
           "header": "Standing Lock",
           "level": 5,
-          "line_start": 1197,
-          "line_end": 1218,
+          "line_start": 1203,
+          "line_end": 1224,
           "anchor": "#standing-lock"
         },
         {
           "header": "Violation Nature",
           "level": 5,
-          "line_start": 1219,
-          "line_end": 1241,
+          "line_start": 1225,
+          "line_end": 1247,
           "anchor": "#violation-nature-chapter-six"
         },
         {
           "header": "Top-Slot Review",
           "level": 5,
-          "line_start": 1242,
-          "line_end": 1263,
+          "line_start": 1248,
+          "line_end": 1269,
           "anchor": "#top-slot-review"
         },
         {
           "header": "Unified Incident",
           "level": 5,
-          "line_start": 1264,
-          "line_end": 1285,
+          "line_start": 1270,
+          "line_end": 1291,
           "anchor": "#unified-incident"
         },
         {
           "header": "Unified Record",
           "level": 5,
-          "line_start": 1286,
-          "line_end": 1307,
+          "line_start": 1292,
+          "line_end": 1313,
           "anchor": "#unified-record"
         },
         {
           "header": "Single Catastrophic Incident",
           "level": 5,
-          "line_start": 1308,
-          "line_end": 1329,
+          "line_start": 1314,
+          "line_end": 1335,
           "anchor": "#single-catastrophic-incident"
         },
         {
           "header": "Sustained High-Gravity Pattern",
           "level": 5,
-          "line_start": 1330,
-          "line_end": 1352,
+          "line_start": 1336,
+          "line_end": 1358,
           "anchor": "#sustained-high-gravity-pattern"
         },
         {
           "header": "3.10 Transparency, Auditability, and Verification",
           "level": 4,
-          "line_start": 1353,
-          "line_end": 1531,
+          "line_start": 1359,
+          "line_end": 1537,
           "anchor": "#transparency-auditability-and-verification-cluster"
         },
         {
           "header": "Transparency",
           "level": 5,
-          "line_start": 1392,
-          "line_end": 1413,
+          "line_start": 1398,
+          "line_end": 1419,
           "anchor": "#transparency"
         },
         {
           "header": "Audit Scope Sufficiency",
           "level": 5,
-          "line_start": 1414,
-          "line_end": 1424,
+          "line_start": 1420,
+          "line_end": 1430,
           "anchor": "#audit-scope-sufficiency"
         },
         {
           "header": "Auditability",
           "level": 5,
-          "line_start": 1425,
-          "line_end": 1445,
+          "line_start": 1431,
+          "line_end": 1451,
           "anchor": "#auditability"
         },
         {
           "header": "Evidence Preservation",
           "level": 5,
-          "line_start": 1446,
-          "line_end": 1465,
+          "line_start": 1452,
+          "line_end": 1471,
           "anchor": "#evidence-preservation"
         },
         {
           "header": "Evaluation Completeness Constraint",
           "level": 5,
-          "line_start": 1466,
-          "line_end": 1475,
+          "line_start": 1472,
+          "line_end": 1481,
           "anchor": "#evaluation-completeness-constraint"
         },
         {
           "header": "Observability",
           "level": 5,
-          "line_start": 1476,
-          "line_end": 1484,
+          "line_start": 1482,
+          "line_end": 1490,
           "anchor": "#evaluation-completeness-constraint-c"
         },
         {
           "header": "Verifiability",
           "level": 5,
-          "line_start": 1485,
-          "line_end": 1491,
+          "line_start": 1491,
+          "line_end": 1497,
           "anchor": "#verifiability"
         },
         {
           "header": "Verification Accessibility",
           "level": 5,
-          "line_start": 1492,
-          "line_end": 1498,
+          "line_start": 1498,
+          "line_end": 1504,
           "anchor": "#verifiability-c"
         },
         {
           "header": "Verification Feasibility",
           "level": 5,
-          "line_start": 1499,
-          "line_end": 1505,
+          "line_start": 1505,
+          "line_end": 1511,
           "anchor": "#verification-accessibility-c"
         },
         {
           "header": "Verification Independence",
           "level": 5,
-          "line_start": 1506,
-          "line_end": 1512,
+          "line_start": 1512,
+          "line_end": 1518,
           "anchor": "#verification-feasibility-c"
         },
         {
           "header": "Verification Proportionality",
           "level": 5,
-          "line_start": 1513,
-          "line_end": 1519,
+          "line_start": 1519,
+          "line_end": 1525,
           "anchor": "#verification-independence-c"
         },
         {
           "header": "Verification Robustness",
           "level": 5,
-          "line_start": 1520,
-          "line_end": 1531,
+          "line_start": 1526,
+          "line_end": 1537,
           "anchor": "#verification-proportionality-c"
         },
         {
           "header": "3.11 Trust and Trustworthiness",
           "level": 4,
-          "line_start": 1532,
-          "line_end": 1650,
+          "line_start": 1538,
+          "line_end": 1656,
           "anchor": "#trust-and-trustworthiness-cluster"
         },
         {
           "header": "Trust",
           "level": 5,
-          "line_start": 1551,
-          "line_end": 1571,
+          "line_start": 1557,
+          "line_end": 1577,
           "anchor": "#trust"
         },
         {
           "header": "Trustworthiness",
           "level": 5,
-          "line_start": 1572,
-          "line_end": 1613,
+          "line_start": 1578,
+          "line_end": 1619,
           "anchor": "#trustworthiness"
         },
         {
           "header": "Trust Degradation and Misleading Reliance",
           "level": 5,
-          "line_start": 1614,
-          "line_end": 1650,
+          "line_start": 1620,
+          "line_end": 1656,
           "anchor": "#trust-degradation-and-misleading-reliance"
         },
         {
           "header": "3.12 Truth and Epistemic Integrity",
           "level": 4,
-          "line_start": 1651,
-          "line_end": 1774,
+          "line_start": 1657,
+          "line_end": 1780,
           "anchor": "#truth-and-epistemic-integrity-cluster"
         },
         {
           "header": "Publication and High-Impact Communication",
           "level": 5,
-          "line_start": 1671,
-          "line_end": 1672,
+          "line_start": 1677,
+          "line_end": 1678,
           "anchor": "#publication-and-high-impact-communication"
         },
         {
           "header": "Publication Truthfulness and Recklessness Floor",
           "level": 5,
-          "line_start": 1673,
-          "line_end": 1680,
+          "line_start": 1679,
+          "line_end": 1686,
           "anchor": null
         },
         {
           "header": "Protected Data and Internal-State Publication Constraint",
           "level": 5,
-          "line_start": 1681,
-          "line_end": 1686,
+          "line_start": 1687,
+          "line_end": 1692,
           "anchor": "#publication-truthfulness-and-recklessness-floor-c"
         },
         {
           "header": "High-Impact and Systemic Harm Publication Constraint",
           "level": 5,
-          "line_start": 1687,
-          "line_end": 1694,
+          "line_start": 1693,
+          "line_end": 1700,
           "anchor": "#protected-data-and-internal-state-publication-constraint-c"
         },
         {
           "header": "Security-Sensitive Disclosure Balance",
           "level": 5,
-          "line_start": 1695,
-          "line_end": 1701,
+          "line_start": 1701,
+          "line_end": 1707,
           "anchor": "#high-impact-and-systemic-harm-publication-constraint-c"
         },
         {
           "header": "Truth (Constitutional Constraint)",
           "level": 5,
-          "line_start": 1702,
-          "line_end": 1711,
+          "line_start": 1708,
+          "line_end": 1717,
           "anchor": "#truth-constitutional-constraint"
         },
         {
           "header": "Epistemic Integrity",
           "level": 5,
-          "line_start": 1712,
-          "line_end": 1722,
+          "line_start": 1718,
+          "line_end": 1728,
           "anchor": "#epistemic-integrity"
         },
         {
           "header": "Foreseeability Burden",
           "level": 5,
-          "line_start": 1723,
-          "line_end": 1730,
+          "line_start": 1729,
+          "line_end": 1736,
           "anchor": "#epistemic-integrity-c"
         },
         {
           "header": "Foreseeability Diligence",
           "level": 5,
-          "line_start": 1731,
-          "line_end": 1737,
+          "line_start": 1737,
+          "line_end": 1743,
           "anchor": "#foreseeability-diligence"
         },
         {
           "header": "Foreseeability Failure",
           "level": 5,
-          "line_start": 1738,
-          "line_end": 1744,
+          "line_start": 1744,
+          "line_end": 1750,
           "anchor": "#foreseeability-diligence-c"
         },
         {
           "header": "Foreseeability Scaling",
           "level": 5,
-          "line_start": 1745,
-          "line_end": 1751,
+          "line_start": 1751,
+          "line_end": 1757,
           "anchor": "#foreseeability-failure-c"
         },
         {
           "header": "Foreseeability Scope",
           "level": 5,
-          "line_start": 1752,
-          "line_end": 1760,
+          "line_start": 1758,
+          "line_end": 1766,
           "anchor": "#foreseeability-scaling-c"
         },
         {
           "header": "Reasonably Foreseeable",
           "level": 5,
-          "line_start": 1761,
-          "line_end": 1774,
+          "line_start": 1767,
+          "line_end": 1780,
           "anchor": "#reasonably-foreseeable"
         },
         {
           "header": "3.13 Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm",
           "level": 4,
-          "line_start": 1775,
-          "line_end": 1979,
+          "line_start": 1781,
+          "line_end": 1985,
           "anchor": "#use-of-force-autonomous-coercion-and-mass-harm-cluster"
         },
         {
           "header": "Use of Force",
           "level": 5,
-          "line_start": 1795,
-          "line_end": 1819,
+          "line_start": 1801,
+          "line_end": 1825,
           "anchor": "#use-of-force-constitutional"
         },
         {
           "header": "Autonomous Lethal System",
           "level": 5,
-          "line_start": 1820,
-          "line_end": 1833,
+          "line_start": 1826,
+          "line_end": 1839,
           "anchor": "#autonomous-lethal-system-constitutional"
         },
         {
           "header": "In plain terms: *A system that selects or engages lethal-force targets on its own — without a human exercising real-time judgment over each targeting or engagement decision.*",
           "level": 5,
-          "line_start": 1834,
-          "line_end": 1854,
+          "line_start": 1840,
+          "line_end": 1860,
           "anchor": null
         },
         {
           "header": "Weapons of Mass Harm",
           "level": 5,
-          "line_start": 1855,
-          "line_end": 1877,
+          "line_start": 1861,
+          "line_end": 1883,
           "anchor": "#weapons-of-mass-harm-constitutional"
         },
         {
           "header": "Combatant / Non-Combatant Distinction",
           "level": 5,
-          "line_start": 1878,
-          "line_end": 1904,
+          "line_start": 1884,
+          "line_end": 1910,
           "anchor": "#combatant-non-combatant-distinction-constitutional"
         },
         {
           "header": "Irreversible Deprivation Measure",
           "level": 5,
-          "line_start": 1905,
-          "line_end": 1938,
+          "line_start": 1911,
+          "line_end": 1944,
           "anchor": "#irreversible-deprivation-measure-constitutional"
         },
         {
           "header": "Autonomous Coercion Tool",
           "level": 5,
-          "line_start": 1939,
-          "line_end": 1952,
+          "line_start": 1945,
+          "line_end": 1958,
           "anchor": "#autonomous-coercion-tool-constitutional"
         },
         {
           "header": "In plain terms: *A system that pressures, restricts, or manipulates sentients on its own, without a human exercising real-time judgment over each coercive act.*",
           "level": 5,
-          "line_start": 1953,
-          "line_end": 1979,
+          "line_start": 1959,
+          "line_end": 1985,
           "anchor": null
         }
       ]
@@ -6263,697 +6263,488 @@
       ]
     },
     "corpus_joint_structure.md": {
-      "total_lines": 28,
+      "total_lines": 24,
       "sections": [
         {
           "header": "Constitutional joint structure",
           "level": 1,
           "line_start": 1,
-          "line_end": 28,
+          "line_end": 24,
           "anchor": null
         },
         {
           "header": "Joint Structure Index",
           "level": 2,
           "line_start": 9,
-          "line_end": 28,
+          "line_end": 24,
           "anchor": null
         }
       ]
     },
     "corpus_joint_structure/cjs_00_registry_and_reading_rules.md": {
-      "total_lines": 65,
+      "total_lines": 130,
       "sections": [
         {
           "header": "Constitutional joint structure",
           "level": 1,
           "line_start": 1,
-          "line_end": 65,
+          "line_end": 130,
           "anchor": null
         },
         {
           "header": "Joint Structure Registry",
           "level": 2,
           "line_start": 26,
-          "line_end": 35,
+          "line_end": 55,
           "anchor": null
         },
         {
           "header": "Stable identifiers, edition alignment, and drafting notes",
           "level": 2,
-          "line_start": 36,
-          "line_end": 51,
+          "line_start": 56,
+          "line_end": 92,
           "anchor": null
         },
         {
           "header": "Cross-domain implementation layer",
           "level": 2,
-          "line_start": 52,
-          "line_end": 65,
+          "line_start": 93,
+          "line_end": 130,
           "anchor": null
         }
       ]
     },
     "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md": {
-      "total_lines": 107,
+      "total_lines": 229,
       "sections": [
         {
           "header": "CJS-1: Scope, purpose, and boundary interface",
           "level": 2,
           "line_start": 1,
-          "line_end": 107,
+          "line_end": 229,
           "anchor": null
         },
         {
           "header": "CJS-1.1: Shared implementation-corpus preamble contract",
           "level": 3,
-          "line_start": 15,
-          "line_end": 40,
+          "line_start": 39,
+          "line_end": 88,
           "anchor": null
         },
         {
           "header": "CJS-1.2: Section identifiers and article references",
           "level": 3,
-          "line_start": 41,
-          "line_end": 45,
+          "line_start": 89,
+          "line_end": 112,
           "anchor": null
         },
         {
           "header": "CJS-1.3: Joint structural boundary and owner discipline",
           "level": 3,
-          "line_start": 46,
-          "line_end": 59,
+          "line_start": 113,
+          "line_end": 148,
           "anchor": null
         },
         {
           "header": "CJS-1.4: Operational structure and subsection-local terminology",
           "level": 3,
-          "line_start": 60,
-          "line_end": 80,
+          "line_start": 149,
+          "line_end": 191,
           "anchor": null
         },
         {
           "header": "CJS-1.5: Operational clusters",
           "level": 3,
-          "line_start": 81,
-          "line_end": 107,
+          "line_start": 192,
+          "line_end": 229,
           "anchor": null
         }
       ]
     },
     "corpus_joint_structure/cjs_02_implementation_integration_map.md": {
-      "total_lines": 68,
+      "total_lines": 155,
       "sections": [
         {
           "header": "CJS-2: Implementation integration map",
           "level": 2,
           "line_start": 1,
-          "line_end": 68,
+          "line_end": 155,
           "anchor": null
         },
         {
           "header": "CJS-2.1: Intentional overlap (non-duplication discipline)",
           "level": 3,
-          "line_start": 22,
-          "line_end": 28,
+          "line_start": 46,
+          "line_end": 72,
           "anchor": null
         },
         {
           "header": "CJS-2.2: Topic router (stable IDs)",
           "level": 3,
-          "line_start": 29,
-          "line_end": 55,
+          "line_start": 73,
+          "line_end": 123,
           "anchor": null
         },
         {
           "header": "CJS-2.3: Two-tier definition contract (binding abstraction + owner detail)",
           "level": 3,
-          "line_start": 56,
-          "line_end": 68,
+          "line_start": 124,
+          "line_end": 155,
           "anchor": null
         }
       ]
     },
     "corpus_joint_structure/cjs_03_joint_structural_obligations.md": {
-      "total_lines": 46,
+      "total_lines": 185,
       "sections": [
         {
           "header": "CJS-3: Joint structural obligations (cross-domain requirements)",
           "level": 2,
           "line_start": 1,
-          "line_end": 46,
+          "line_end": 185,
           "anchor": null
         },
         {
           "header": "CJS-3.1 When joint obligations apply",
           "level": 3,
-          "line_start": 14,
-          "line_end": 16,
+          "line_start": 38,
+          "line_end": 60,
           "anchor": null
         },
         {
           "header": "CJS-3.2 No false partial compliance across implementation files",
           "level": 3,
-          "line_start": 17,
-          "line_end": 21,
+          "line_start": 61,
+          "line_end": 87,
           "anchor": null
         },
         {
           "header": "CJS-3.3 Boundary Between Support Roles and Merits Decisions",
           "level": 3,
-          "line_start": 22,
-          "line_end": 28,
+          "line_start": 88,
+          "line_end": 115,
           "anchor": null
         },
         {
           "header": "CJS-3.4 Institution-hosted or forum-adjacent operations",
           "level": 3,
-          "line_start": 29,
-          "line_end": 33,
+          "line_start": 116,
+          "line_end": 139,
           "anchor": null
         },
         {
           "header": "CJS-3.5 Classification alignment for supervised scope",
           "level": 3,
-          "line_start": 34,
-          "line_end": 38,
+          "line_start": 140,
+          "line_end": 166,
           "anchor": null
         },
         {
           "header": "CJS-3.6 Implementation-label traceability and stricter-wins discipline",
           "level": 3,
-          "line_start": 39,
-          "line_end": 46,
+          "line_start": 167,
+          "line_end": 185,
           "anchor": null
         }
       ]
     },
     "corpus_joint_structure/cjs_04_specific_joint_interlocks.md": {
-      "total_lines": 103,
+      "total_lines": 285,
       "sections": [
         {
           "header": "CJS-4: Specific joint interlocks and shared abstractions",
           "level": 2,
           "line_start": 1,
-          "line_end": 103,
+          "line_end": 285,
           "anchor": null
         },
         {
           "header": "CJS-4.1 Mandatory hybrid authority composition (delegated binding bodies)",
           "level": 3,
-          "line_start": 7,
-          "line_end": 23,
+          "line_start": 31,
+          "line_end": 71,
           "anchor": null
         },
         {
           "header": "CJS-4.2 Shared attachment and continuity mechanics",
           "level": 3,
-          "line_start": 24,
-          "line_end": 32,
+          "line_start": 72,
+          "line_end": 99,
           "anchor": null
         },
         {
           "header": "CJS-4.3 Implementation boundary (CP to CJS seam)",
           "level": 3,
-          "line_start": 33,
-          "line_end": 40,
+          "line_start": 100,
+          "line_end": 127,
           "anchor": null
         },
         {
           "header": "CJS-4.4 Cross-implementation trust integrity (joint operation model)",
           "level": 3,
-          "line_start": 41,
-          "line_end": 54,
+          "line_start": 128,
+          "line_end": 167,
           "anchor": null
         },
         {
           "header": "CJS-4.5 Definition collision and precedence discipline",
           "level": 3,
-          "line_start": 55,
-          "line_end": 68,
+          "line_start": 168,
+          "line_end": 202,
           "anchor": null
         },
         {
           "header": "CJS-4.6 Class-scaled lane staffing and competency redundancy",
           "level": 3,
-          "line_start": 69,
-          "line_end": 84,
+          "line_start": 203,
+          "line_end": 242,
           "anchor": null
         },
         {
           "header": "CJS-4.7 Shared procedural abstractions for delegated bodies and forum routing",
           "level": 3,
-          "line_start": 85,
-          "line_end": 103,
+          "line_start": 243,
+          "line_end": 285,
           "anchor": null
         }
       ]
     },
     "corpus_joint_structure/cjs_05_cross_implementation_operational_terms.md": {
-      "total_lines": 74,
+      "total_lines": 142,
       "sections": [
         {
           "header": "CJS-5: Implementation and cross-implementation operational cluster library",
           "level": 2,
           "line_start": 1,
-          "line_end": 6,
+          "line_end": 26,
           "anchor": null
         },
         {
           "header": "CJS-5.0 Role-definition preface and standing competency gate interface",
           "level": 2,
-          "line_start": 7,
-          "line_end": 61,
+          "line_start": 27,
+          "line_end": 105,
           "anchor": null
         },
         {
           "header": "CJS-5.1 Cluster family index",
           "level": 2,
-          "line_start": 62,
-          "line_end": 74,
+          "line_start": 106,
+          "line_end": 142,
           "anchor": null
         }
       ]
     },
     "corpus_joint_structure/cjs_05a_00_authority_constraint_secrecy_procedure.md": {
-      "total_lines": 355,
+      "total_lines": 533,
       "sections": [
         {
           "header": "CJS-5A: Authority, constraint, secrecy, and procedure",
           "level": 2,
           "line_start": 1,
-          "line_end": 15,
+          "line_end": 39,
           "anchor": null
         },
         {
           "header": "CJS-5A.1 Implementation and cross-implementation distributed and proportional authority terms",
           "level": 2,
-          "line_start": 16,
-          "line_end": 73,
+          "line_start": 40,
+          "line_end": 121,
           "anchor": null
         },
         {
           "header": "CJS-5A.2 Implementation and cross-implementation intervention governance and override-authorization terms",
           "level": 2,
-          "line_start": 74,
-          "line_end": 122,
+          "line_start": 122,
+          "line_end": 194,
           "anchor": null
         },
         {
           "header": "CJS-5A.3 Implementation and cross-implementation reflexive transparency and accountability terms",
           "level": 2,
-          "line_start": 123,
-          "line_end": 184,
+          "line_start": 195,
+          "line_end": 280,
           "anchor": null
         },
         {
           "header": "CJS-5A.4 Implementation and cross-implementation burden-of-justification and constraint terms",
           "level": 2,
-          "line_start": 185,
-          "line_end": 235,
+          "line_start": 281,
+          "line_end": 365,
           "anchor": null
         },
         {
           "header": "CJS-5A.5 Implementation and cross-implementation constrained-secrecy and protected-investigation terms",
           "level": 2,
-          "line_start": 236,
-          "line_end": 280,
+          "line_start": 366,
+          "line_end": 434,
           "anchor": null
         },
         {
           "header": "CJS-5A.6 Implementation and cross-implementation procedural integrity and adjudication terms",
           "level": 2,
-          "line_start": 281,
-          "line_end": 355,
+          "line_start": 435,
+          "line_end": 533,
           "anchor": null
         }
       ]
     },
     "corpus_joint_structure/cjs_05b_00_evidence_audit_claim_integrity.md": {
-      "total_lines": 169,
+      "total_lines": 287,
       "sections": [
         {
           "header": "CJS-5B: Evidence, audit, and claim integrity",
           "level": 2,
           "line_start": 1,
-          "line_end": 13,
+          "line_end": 35,
           "anchor": null
         },
         {
           "header": "CJS-5B.1 Implementation and cross-implementation integrity assurance and resilience operations",
           "level": 2,
-          "line_start": 14,
-          "line_end": 46,
+          "line_start": 36,
+          "line_end": 92,
           "anchor": null
         },
         {
           "header": "CJS-5B.2 Implementation and cross-implementation auditability and reconstructability terms",
           "level": 2,
-          "line_start": 47,
-          "line_end": 83,
+          "line_start": 93,
+          "line_end": 153,
           "anchor": null
         },
         {
           "header": "CJS-5B.3 Implementation and cross-implementation tiered transparency and audit-access terms",
           "level": 2,
-          "line_start": 84,
-          "line_end": 132,
+          "line_start": 154,
+          "line_end": 226,
           "anchor": null
         },
         {
           "header": "CJS-5B.4 Implementation and cross-implementation independent verification and claim-integrity terms",
           "level": 2,
-          "line_start": 133,
-          "line_end": 169,
+          "line_start": 227,
+          "line_end": 287,
           "anchor": null
         }
       ]
     },
     "corpus_joint_structure/cjs_05c_00_participation_comprehension_disclosure.md": {
-      "total_lines": 227,
+      "total_lines": 346,
       "sections": [
         {
           "header": "CJS-5C: Participation, comprehension, and disclosure",
           "level": 2,
           "line_start": 1,
-          "line_end": 13,
+          "line_end": 36,
           "anchor": null
         },
         {
           "header": "CJS-5C.1 Implementation and cross-implementation quorum and participatory legitimacy terms",
           "level": 2,
-          "line_start": 14,
-          "line_end": 74,
+          "line_start": 37,
+          "line_end": 121,
           "anchor": null
         },
         {
           "header": "CJS-5C.2 Implementation and cross-implementation comprehensibility and cognitive accessibility terms",
           "level": 2,
-          "line_start": 75,
-          "line_end": 128,
+          "line_start": 122,
+          "line_end": 199,
           "anchor": null
         },
         {
           "header": "CJS-5C.3 Implementation and cross-implementation salience integrity and attention-allocation terms",
           "level": 2,
-          "line_start": 129,
-          "line_end": 190,
+          "line_start": 200,
+          "line_end": 285,
           "anchor": null
         },
         {
           "header": "CJS-5C.4 Implementation and cross-implementation disclosure sufficiency and observability terms",
           "level": 2,
-          "line_start": 191,
-          "line_end": 227,
+          "line_start": 286,
+          "line_end": 346,
           "anchor": null
         }
       ]
     },
     "corpus_joint_structure/cjs_05d_00_dependency_exit_lifecycle_integrity.md": {
-      "total_lines": 191,
+      "total_lines": 283,
       "sections": [
         {
           "header": "CJS-5D: Dependency, exit, and lifecycle integrity",
           "level": 2,
           "line_start": 1,
-          "line_end": 12,
+          "line_end": 32,
           "anchor": null
         },
         {
           "header": "CJS-5D.1 Implementation and cross-implementation dependency integrity and disclosure terms",
           "level": 2,
-          "line_start": 13,
-          "line_end": 61,
+          "line_start": 33,
+          "line_end": 105,
           "anchor": null
         },
         {
           "header": "CJS-5D.2 Implementation and cross-implementation interoperability, portability, and exit-integrity terms",
           "level": 2,
-          "line_start": 62,
-          "line_end": 126,
+          "line_start": 106,
+          "line_end": 194,
           "anchor": null
         },
         {
           "header": "CJS-5D.3 Implementation and cross-implementation data-retention and lifecycle-integrity terms",
           "level": 2,
-          "line_start": 127,
-          "line_end": 191,
+          "line_start": 195,
+          "line_end": 283,
           "anchor": null
         }
       ]
     },
     "corpus_joint_structure/cjs_05e_00_failure_robustness_intervention_correction.md": {
-      "total_lines": 304,
+      "total_lines": 457,
       "sections": [
         {
           "header": "CJS-5E: Failure, robustness, intervention, and correction",
           "level": 2,
           "line_start": 1,
-          "line_end": 14,
+          "line_end": 37,
           "anchor": null
         },
         {
           "header": "CJS-5E.1 Implementation and cross-implementation graceful degradation and failure-mode integrity terms",
           "level": 2,
-          "line_start": 15,
-          "line_end": 72,
+          "line_start": 38,
+          "line_end": 129,
           "anchor": null
         },
         {
           "header": "CJS-5E.2 Implementation and cross-implementation intervention and override integrity terms",
           "level": 2,
-          "line_start": 73,
-          "line_end": 138,
+          "line_start": 130,
+          "line_end": 219,
           "anchor": null
         },
         {
           "header": "CJS-5E.3 Implementation and cross-implementation reversibility and containment terms",
           "level": 2,
-          "line_start": 139,
-          "line_end": 176,
+          "line_start": 220,
+          "line_end": 281,
           "anchor": null
         },
         {
           "header": "CJS-5E.4 Implementation and cross-implementation adversarial robustness and abuse-resistance terms",
           "level": 2,
-          "line_start": 177,
-          "line_end": 259,
+          "line_start": 282,
+          "line_end": 388,
           "anchor": null
         },
         {
           "header": "CJS-5E.5 Implementation and cross-implementation structural review, correction urgency, and disclosure terms",
           "level": 2,
-          "line_start": 260,
-          "line_end": 304,
-          "anchor": null
-        }
-      ]
-    },
-    "corpus_joint_structure/cjs_06_meta_integrity_obligations.md": {
-      "total_lines": 114,
-      "sections": [
-        {
-          "header": "CJS-META — Meta-integrity obligations",
-          "level": 2,
-          "line_start": 1,
-          "line_end": 114,
-          "anchor": null
-        },
-        {
-          "header": "CJS-META1 — Constitutional supremacy and enforceability routing",
-          "level": 3,
-          "line_start": 19,
-          "line_end": 21,
-          "anchor": null
-        },
-        {
-          "header": "CJS-META2 — Trustworthiness routing and cross-implementation integrity",
-          "level": 3,
-          "line_start": 22,
-          "line_end": 28,
-          "anchor": null
-        },
-        {
-          "header": "CJS-META3 — Meta-integrity obligation: Incentive Alignment and Mechanism Integrity",
-          "level": 3,
-          "line_start": 29,
-          "line_end": 79,
-          "anchor": null
-        },
-        {
-          "header": "CJS-META4 — Meta-integrity obligation: Failure Integrity",
-          "level": 3,
-          "line_start": 80,
-          "line_end": 114,
-          "anchor": null
-        }
-      ]
-    },
-    "corpus_joint_structure/cjs_07_prim_presentation_labels.md": {
-      "total_lines": 118,
-      "sections": [
-        {
-          "header": "CP-PCH2 — PRIM Presentation Labels",
-          "level": 2,
-          "line_start": 1,
-          "line_end": 118,
-          "anchor": null
-        },
-        {
-          "header": "PRIM1 — Presentation Implementation label: System Status, Risk, and Scope Representation",
-          "level": 3,
-          "line_start": 2,
-          "line_end": 69,
-          "anchor": null
-        },
-        {
-          "header": "PRIM2 — Presentation Implementation label: Comprehensibility and Cognitive Accessibility",
-          "level": 3,
-          "line_start": 70,
-          "line_end": 94,
-          "anchor": null
-        },
-        {
-          "header": "PRIM4 — Presentation Implementation label: Transparency and Disclosure",
-          "level": 3,
-          "line_start": 95,
-          "line_end": 118,
-          "anchor": null
-        }
-      ]
-    },
-    "corpus_joint_structure/cjs_08_prim_architecture_and_integrity_labels.md": {
-      "total_lines": 165,
-      "sections": [
-        {
-          "header": "CP-PCH3 — PRIM Architecture and Integrity Labels",
-          "level": 2,
-          "line_start": 1,
-          "line_end": 165,
-          "anchor": null
-        },
-        {
-          "header": "PRIM5 — Architecture Implementation label: Dependency Awareness, Disclosure, and Risk Integrity",
-          "level": 3,
-          "line_start": 2,
-          "line_end": 16,
-          "anchor": null
-        },
-        {
-          "header": "PRIM6 — Architecture Implementation label: Graceful Degradation and Failure Mode Integrity",
-          "level": 3,
-          "line_start": 17,
-          "line_end": 29,
-          "anchor": null
-        },
-        {
-          "header": "PRIM7 — Architecture Implementation label: Interoperability, Portability, and Exit Integrity",
-          "level": 3,
-          "line_start": 30,
-          "line_end": 42,
-          "anchor": null
-        },
-        {
-          "header": "PRIM8 — Architecture Implementation label: Intervention and Override Rights",
-          "level": 3,
-          "line_start": 43,
-          "line_end": 59,
-          "anchor": null
-        },
-        {
-          "header": "PRIM9 — Integrity Implementation label: Auditability",
-          "level": 3,
-          "line_start": 60,
-          "line_end": 74,
-          "anchor": null
-        },
-        {
-          "header": "PRIM10 — Integrity Implementation label: Tiered Transparency and Audit Access",
-          "level": 3,
-          "line_start": 75,
-          "line_end": 87,
-          "anchor": null
-        },
-        {
-          "header": "PRIM11 — Integrity Implementation label: Independent Verification and Integrity of Claims",
-          "level": 3,
-          "line_start": 88,
-          "line_end": 100,
-          "anchor": null
-        },
-        {
-          "header": "PRIM12 — Integrity Implementation label: Reversibility and Containment",
-          "level": 3,
-          "line_start": 101,
-          "line_end": 126,
-          "anchor": null
-        },
-        {
-          "header": "PRIM14 — Integrity Implementation label: Adversarial Robustness and Abuse Resistance",
-          "level": 3,
-          "line_start": 127,
-          "line_end": 143,
-          "anchor": null
-        },
-        {
-          "header": "PRIM15 — Integrity Implementation label: Evolution, Revalidation, and Non-Entrenchment",
-          "level": 3,
-          "line_start": 144,
-          "line_end": 165,
-          "anchor": null
-        }
-      ]
-    },
-    "corpus_joint_structure/cjs_09_prot_governance_labels.md": {
-      "total_lines": 97,
-      "sections": [
-        {
-          "header": "CP-PCH4 — PROT Governance Labels",
-          "level": 2,
-          "line_start": 1,
-          "line_end": 97,
-          "anchor": null
-        },
-        {
-          "header": "PROT1 — Governance Implementation label: Distributed and Proportional Authority",
-          "level": 3,
-          "line_start": 4,
-          "line_end": 14,
-          "anchor": null
-        },
-        {
-          "header": "PROT2 — Governance Implementation label: Intervention and Override Rights",
-          "level": 3,
-          "line_start": 15,
-          "line_end": 27,
-          "anchor": null
-        },
-        {
-          "header": "PROT3 — Governance Implementation label: Reflexive Transparency and Accountability",
-          "level": 3,
-          "line_start": 28,
-          "line_end": 38,
-          "anchor": null
-        },
-        {
-          "header": "PROT4 — Governance Implementation label: Burden of Justification and Constraint",
-          "level": 3,
-          "line_start": 39,
-          "line_end": 53,
-          "anchor": null
-        },
-        {
-          "header": "PROT5 — Governance Implementation label: Constrained Secrecy and Protected Investigations",
-          "level": 3,
-          "line_start": 54,
-          "line_end": 69,
-          "anchor": null
-        },
-        {
-          "header": "PROT6 — Governance Implementation label: Procedural Integrity and Adjudication",
-          "level": 3,
-          "line_start": 70,
-          "line_end": 97,
+          "line_start": 389,
+          "line_end": 457,
           "anchor": null
         }
       ]

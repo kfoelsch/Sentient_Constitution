@@ -120,7 +120,7 @@ REVIEWS = [
     DomainReview(
         domain="Transparency, disclosure, and public intelligibility",
         external_sections="OECD 2023 IV; OECD Integrity 9/13; NIST Govern/Measure; OHCHR II/III",
-        internal_anchor="Arts VIII, XIII, XIV, XIX, XXI-C, XXII-E; Defs Ch 4; CI-12, CI-16; PRIM1/4/9-11",
+        internal_anchor="Arts VIII, XIII, XIV, XIX, XXI-C, XXII-E; Defs Ch 4; CI-12, CI-16; CJS-5C.3/CJS-5C.4/CJS-5B.2-CJS-5B.4",
         design=3,
         operationalization=2,
         evidence=2,

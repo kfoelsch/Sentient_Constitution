@@ -2,7 +2,7 @@
 
 Date: 2026-04-13  
 Status: implementation support / adopter-facing template pack  
-Primary anchors: `corpus_systems.md` Protocol A, Chapter S2, Chapter S3; `corpus_institutions.md` CI-7; `corpus_joint_structure.md` PRIM7, CJS-5D.2, PRIM9, PROT1, PROT4, PROT6
+Primary anchors: `corpus_systems.md` Protocol A, Chapter S2, Chapter S3; `corpus_institutions.md` CI-7; `corpus_joint_structure.md` CJS-5D.2, CJS-5B.2, CJS-5A.1, CJS-5A.4, CJS-5A.6
 
 This file provides reusable implementation templates for systems governance artifacts that the constitutional corpus already requires in substance but does not fully normalize into named packets.
 

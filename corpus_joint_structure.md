@@ -18,10 +18,6 @@
 | CJS-5: Cross-implementation operational cluster library (family and cluster index) | [cjs_05_cross_implementation_operational_terms.md](corpus_joint_structure/cjs_05_cross_implementation_operational_terms.md) |
 | Stable identifiers, edition alignment, and drafting notes | [cjs_00_registry_and_reading_rules.md](corpus_joint_structure/cjs_00_registry_and_reading_rules.md) |
 | Cross-domain implementation layer overview | [cjs_00_registry_and_reading_rules.md](corpus_joint_structure/cjs_00_registry_and_reading_rules.md) |
-| CJS-META: Meta-integrity obligations | [cjs_06_meta_integrity_obligations.md](corpus_joint_structure/cjs_06_meta_integrity_obligations.md) |
-| CP-PCH2: PRIM presentation labels | [cjs_07_prim_presentation_labels.md](corpus_joint_structure/cjs_07_prim_presentation_labels.md) |
-| CP-PCH3: PRIM architecture and integrity labels | [cjs_08_prim_architecture_and_integrity_labels.md](corpus_joint_structure/cjs_08_prim_architecture_and_integrity_labels.md) |
-| CP-PCH4: PROT governance labels | [cjs_09_prot_governance_labels.md](corpus_joint_structure/cjs_09_prot_governance_labels.md) |
 
 ---
 

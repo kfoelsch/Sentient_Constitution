@@ -107,8 +107,6 @@ PRINCIPLE_RULES = [
 
 
 OWNER_PATTERNS = [
-    r"\bPRIM\d+\b",
-    r"\bPROT\d+\b",
     r"\bCP\b",
     r"\bCS\b",
     r"\bCI\b",
@@ -429,7 +427,7 @@ class Ch1Cjs5AlignmentAuditor:
 
         if op_gap_count == 0 and missing_anchor_count == 0 and owner_drift_count == 0 and overreach_count == 0:
             lines.append(
-                "CJS-5 is operationally aligned with Chapter 01 at the structural level: all expected clusters were found, all operational rules carry complete `OP-O` / `OP-E` / `OP-C` triads, and each cluster has an inferred Chapter 01 principle basis. The main audit finding is trace explicitness: most CJS-5 clusters rely on PRIM/PROT, owner-file, and subject-matter routing rather than direct Chapter 01 citations."
+                "CJS-5 is operationally aligned with Chapter 01 at the structural level: all expected clusters were found, all operational rules carry complete `OP-O` / `OP-E` / `OP-C` triads, and each cluster has an inferred Chapter 01 principle basis. The main audit finding is trace explicitness: most CJS-5 clusters rely on owner-file and subject-matter routing rather than direct Chapter 01 citations."
             )
         else:
             lines.append(

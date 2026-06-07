@@ -1005,7 +1005,7 @@ Self-determination is valid only within the bounds stated in **Chapter One**: sa
 - **Qualification by standing record or role criteria:** Where standing-record-based, good-standing, or role-qualification criteria affect participation status or role eligibility, **Participant Standing** applies.
   - Implementation must preserve procedural fairness (Chapter Five — *Procedural Fairness*) and resistance to manipulation.
 - **Contesting exclusion:** Mechanisms for contesting exclusion or under-weighting follow the **interpretive hubs** at the opening of this chapter — challenge and redress; audit and verification — and adopted implementation text.
-  - Meta-integrity elaboration is incorporated via **Sentient Constitution Chapter Fifteen**.
+  - Cross-domain implementation routing is incorporated via **Sentient Constitution Chapter Fifteen**, including **CJS-4.4** and applicable **CJS-5** operational clusters.
 #### Article IX-C: Governance Participation and Voting Entitlement
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>

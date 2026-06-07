@@ -40,7 +40,7 @@ This family collects the operational clusters that make affected-party participa
 
 - Upstream: [CJS-1.1](cjs_01_scope_purpose_boundary_interface.md#cjs-11-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.2](cjs_02_implementation_integration_map.md#cjs-22-topic-router-stable-ids) topic router; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
 - Downstream: this section's local operational requirements for **CJS-5C.1 Implementation and cross-implementation quorum and participatory legitimacy terms**.
-- Read with: **PROT1**; **PROT6**.
+- Read with: **CJS-5A.1 and CJS-5C.1**; **CJS-5A.6**.
 
 </details>
 
@@ -62,7 +62,7 @@ This family collects the operational clusters that make affected-party participa
 Use this rule when participation or quorum rules affect materially binding outcomes within a standalone system, institution, forum, or bounded decision domain, or across more than one implementation file.
 
 Read it with:
-- **CP-PCH4 — PROT Governance Labels**, including **PROT1 — Distributed and Proportional Authority** and **PROT6 — Procedural Integrity and Adjudication**
+- **CJS-5A.1**, **CJS-5C.1**, and **CJS-5A.6** for authority, participation legitimacy, and procedural integrity terms
 - **Sentient Constitution Chapter Eleven** section 4
 - **Chapter Ten Article IX-C**
 - **Chapter Ten Article XI**
@@ -125,7 +125,7 @@ Notification and pathway integrity
 
 - Upstream: [CJS-1.1](cjs_01_scope_purpose_boundary_interface.md#cjs-11-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.2](cjs_02_implementation_integration_map.md#cjs-22-topic-router-stable-ids) topic router; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
 - Downstream: this section's local operational requirements for **CJS-5C.2 Implementation and cross-implementation comprehensibility and cognitive accessibility terms**.
-- Read with: **PRIM2**.
+- Read with: **CJS-5C.2**.
 
 </details>
 
@@ -147,7 +147,7 @@ Notification and pathway integrity
 Use this rule when transparency, participation, auditability, or accountability depends on information being understandable within a standalone system, institution, forum, or bounded decision domain, or across implementation interfaces.
 
 Read it with:
-- **PRIM2 — Comprehensibility and Cognitive Accessibility**
+- **CJS-5C.2 — Comprehensibility and Cognitive Accessibility**
 - `corpus_systems.md` **Protocol B — System Comprehensibility and Complexity Stewardship**
 
 Implementation and cross-implementation comprehensibility and cognitive accessibility terms
@@ -203,7 +203,7 @@ Proportional application
 
 - Upstream: [CJS-1.1](cjs_01_scope_purpose_boundary_interface.md#cjs-11-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.2](cjs_02_implementation_integration_map.md#cjs-22-topic-router-stable-ids) topic router; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
 - Downstream: this section's local operational requirements for **CJS-5C.3 Implementation and cross-implementation salience integrity and attention-allocation terms**.
-- Read with: **PRIM1**; **PRIM4**; **PRIM14**.
+- Read with: **CJS-5C.3 and CJS-5C.4**; **CJS-5C.4**; **CJS-5E.4**.
 
 </details>
 
@@ -225,9 +225,9 @@ Proportional application
 Use this rule when a system decides what sentients see first, see often, see rarely, or do not see at all. This includes ranking, recommendation, filtering, search order, notifications, feeds, alerts, and other tools that steer attention.
 
 Read it with:
-- **PRIM1 — System Status, Risk, and Scope Representation**
-- **PRIM4 — Transparency and Disclosure**
-- **PRIM14 — Adversarial Robustness and Abuse Resistance**
+- **CJS-5C.3 and CJS-5C.4 — System Status, Risk, and Scope Representation**
+- **CJS-5C.4 — Transparency and Disclosure**
+- **CJS-5E.4 — Adversarial Robustness and Abuse Resistance**
 - **Article XV-A**
 - **Chapter Ten** incentive-alignment constraints
 
@@ -289,7 +289,7 @@ Proportional application
 
 - Upstream: [CJS-1.1](cjs_01_scope_purpose_boundary_interface.md#cjs-11-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.2](cjs_02_implementation_integration_map.md#cjs-22-topic-router-stable-ids) topic router; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
 - Downstream: this section's local operational requirements for **CJS-5C.4 Implementation and cross-implementation disclosure sufficiency and observability terms**.
-- Read with: **PRIM4**; **PRIM5**.
+- Read with: **CJS-5C.4**; **CJS-5D.1**.
 
 </details>
 
@@ -311,8 +311,8 @@ Proportional application
 Use this rule when informed participation, independent verification, or attribution depends on disclosure within a standalone system, institution, forum, or bounded decision domain, or across systems, dependencies, institutions, or implementation layers.
 
 Read it with:
-- **PRIM4 — Transparency and Disclosure**
-- **PRIM5 — Dependency Awareness, Disclosure, and Risk Integrity** where dependencies matter
+- **CJS-5C.4 — Transparency and Disclosure**
+- **CJS-5D.1 — Dependency Awareness, Disclosure, and Risk Integrity** where dependencies matter
 - **Article XV-A**
 - **Article VII-B**
 

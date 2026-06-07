@@ -21,7 +21,7 @@ Shared preamble contract: apply `corpus_joint_structure.md` **CJS-1.1**.
 - **Forum-family limit:** this file does **not** create new forum families beyond those authorized in `core_09-09_forum.md` **Chapter Nine**.
 - **Chapter Ten structure:** this file operationalizes challenge and redress through **Article XII-B**, auditability and observable evidence through **Article XV-A** with **Chapters Two through Four**, interpretation safeguards through **Article XXII**, justice / emergency boundaries through **Article XXIII** and its subarticles, and transition-phase adjudication support as **Article XXV** references into this file and **`corpus_institutions.md`** **CI-14**.
 
-**Implementation cross-reference index (routing only):** This implementation file is read with `corpus_joint_structure.md` implementation labels **PRIM1 — System Status, Risk, and Scope Representation**, **PRIM2 — Comprehensibility and Cognitive Accessibility**, **PRIM4 — Transparency and Disclosure**, **PRIM5 — Dependency Awareness, Disclosure, and Risk Integrity**, **PRIM6 — Graceful Degradation and Failure Mode Integrity**, **PRIM7 — Interoperability, Portability, and Exit Integrity**, **PRIM8 — Intervention and Override Rights**, **PRIM9 — Auditability**, **PRIM10 — Tiered Transparency and Audit Access**, **PRIM11 — Independent Verification and Integrity of Claims**, **PRIM12 — Reversibility and Containment**, **PRIM14 — Adversarial Robustness and Abuse Resistance**, **PRIM15 — Evolution, Revalidation, and Non-Entrenchment**, **PROT1 — Distributed and Proportional Authority**, **PROT2 — Intervention and Override Rights**, **PROT3 — Reflexive Transparency and Accountability**, **PROT4 — Burden of Justification and Constraint**, **PROT5 — Constrained Secrecy and Protected Investigations**, and **PROT6 — Procedural Integrity and Adjudication** where materially applicable. This index is routing guidance only and does not redefine owner-layer meaning.
+**Implementation cross-reference index (routing only):** This implementation file is read with Chapter Five constitutional definitions and `corpus_joint_structure.md` **CJS-5** operational clusters where materially applicable. This index is routing guidance only and does not redefine owner-layer meaning.
 
 ## FORUMS REGISTRY (stable section families)
 
@@ -59,7 +59,7 @@ This file must not:
 - replace general constitutional due-process, traceability, or rights rules with weaker local procedure;
 - create a parallel offense taxonomy.
 
-**Joint implementation read:** for cross-implementation structural integration (institutions, systems, and implementation labels that materially support or bound forums), **`corpus_joint_structure.md` CJS-2** (especially **CJS-2.2**) and **CJS-3**.
+**Joint implementation read:** for cross-implementation structural integration (institutions, systems, and CJS-5 operational clusters that materially support or bound forums), **`corpus_joint_structure.md` CJS-2** (especially **CJS-2.2**) and **CJS-3**.
 
 ---
 
@@ -391,7 +391,7 @@ This section governs:
 
 ### CF-5.1 Disposition effect classification (numeric codes)
 
-**Usage.** Adopting instruments should classify dispositions that materially affect later panels, institutions, or multi-party systems using the **corpus-local numeric codes** in this subsection. Each code states **how far a disposition travels** as a horizontal or vertical stabilizer. These labels are **not** **PRIM**/**PROT** implementation label codes, **not** data-type or system-class labels from `corpus_systems.md` (**Chapter S1–S3** or successor numbering), and **not** institutional **CI-** anchors from `corpus_institutions.md`; they apply only to **forum disposition effect** documentation and review routing.
+**Usage.** Adopting instruments should classify dispositions that materially affect later panels, institutions, or multi-party systems using the **corpus-local numeric codes** in this subsection. Each code states **how far a disposition travels** as a horizontal or vertical stabilizer. These labels are **not** CJS-5 operational cluster labels, **not** data-type or system-class labels from `corpus_systems.md` (**Chapter S1–S3** or successor numbering), and **not** institutional **CI-** anchors from `corpus_institutions.md`; they apply only to **forum disposition effect** documentation and review routing.
 
 **CF-5.1.101 — Party-bound effect.** The determination binds the parties before the tribunal on the issues decided, including ordinary **issue preclusion** effects adopting law assigns, but does **not** by itself establish a published rule for unrelated matters. This is the default classification for routine inter-partes outcomes unless the record states another **CF-5.1** code with broader reach.
 
@@ -501,7 +501,7 @@ Omission of a materially required element makes the corrective measure or restri
 **Minimum recognition record.** A recognition, validation, or revalidation record must identify:
 - the system, operator or steward, claimed scope, deployment context, and affected stakeholder or dependency classes;
 - the Chapter S2 classification, Chapter S3 stewardship tier where applicable, and the evidence supporting those classifications;
-- the constitutional provisions, Rights-Floor obligations, PRIM/PROT controls, and implementation requirements treated as material;
+- the constitutional provisions, Rights-Floor obligations, CJS-5 operational clusters, and implementation requirements treated as material;
 - where ecological exposure is material, the Environment forum environmental-alignment component record, including approval, conditional approval, objection, remediation requirements, or release-from-condition findings;
 - the technical specifications, measurement methods, test protocols, expert-evidence standards, testing, audit, simulation, incident, red-team, stress, accessibility, and stakeholder-feedback evidence considered;
 - material uncertainties, residual risks, rejected alternatives, and monitoring commitments;
@@ -1190,7 +1190,7 @@ Each adopting system must maintain and periodically update at least:
 
 - `core_09-09_forum.md` remains the constitutional owner of forum-family architecture and routing.
 - `corpus_institutions.md` remains the general owner of non-adjudicative institutional governance (as distinct from the forum layer).
-- `corpus_joint_structure.md` remains the owner of general procedural-integrity and adjudication implementation labels.
+- `corpus_joint_structure.md` remains the owner of general procedural-integrity and adjudication operational clusters.
 - `corpus_systems.md` remains the owner of system continuity, class, steward, and cross-jurisdiction execution taxonomies that forums may rely on.
 
 ---

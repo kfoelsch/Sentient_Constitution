@@ -24,7 +24,7 @@
 <br>
 
 
-This file holds specific joint interlocks and shared abstractions, including delegated authority, implementation-label boundary discipline, trust-integrity routing, definition-collision handling, class-scaled lane staffing, and shared procedural abstractions.
+This file holds specific joint interlocks and shared abstractions, including delegated authority, CJS-5 boundary discipline, trust-integrity routing, definition-collision handling, class-scaled lane staffing, and shared procedural abstractions.
 
 These rules sit between the general joint-compliance rules in [cjs_03_joint_structural_obligations.md](cjs_03_joint_structural_obligations.md) and the operational cluster library in [cjs_05_cross_implementation_operational_terms.md](cjs_05_cross_implementation_operational_terms.md). Owner detail remains in **CI** and **CF** as routed by **CJS-2.2**.
 
@@ -118,12 +118,12 @@ Sample formulas are illustrative unless a domain owner makes them mandatory. Hom
 
 <br>
 
-Under the shared boundary in **CJS-1.3**, the CJS implementation-group files remain the operative home for their local implementation labels.
+Under the shared boundary in **CJS-1.3**, the CJS-5 cluster files remain the operative home for their local operational terms.
 
 When revising **CP** implementation text:
 - keep implementation-owned requirements in the cross-domain implementation layer;
 - keep read-with restatements short; and
-- preserve **PRIM** and **PROT** labels so citations remain traceable under **CJS-3.6**.
+- preserve **CJS-5** cluster citations so references remain traceable under **CJS-3.6**.
 
 ### CJS-4.4 Cross-implementation trust integrity (joint operation model)
 <details>
@@ -156,12 +156,14 @@ The meanings of **Trust**, **Trustworthiness**, and **Trust Degradation and Misl
 
 A trustworthiness claim is non-compliant if one implementation file gives reassuring signals while another implementation file in the same chain leaves unresolved problems that defeat observable, verifiable, or contestable reliance.
 
+For implementation routing, **Class A**, **Class B**, and **Class C** systems follow [corpus_systems.md](../corpus_systems.md) **Chapter S2** and **Chapter S3** for class-scaled trustworthiness assurance. **Class L** and **Class P** systems follow S2 criteria and limits and may not evade obligations where material external effects exist.
+
 Where trust depends on multiple systems, institutions, dependencies, or implementation layers, institutions must maintain a published and auditable map that identifies:
 - the implementation duties, classification conditions, dependencies, steward duties, and assurance burdens supporting the trust claim;
 - the contest, escalation, evidence, and correction routes affected sentients can use; and
 - the accountable owners for correction and restoration.
 
-Trust claims must remain consistent with **CJS-3.2**, **CJS-3.5 — Classification alignment for supervised scope**, and **CJS-3.6**.
+Trust claims must remain consistent with **CJS-3.2**, **CJS-3.5 — Classification alignment for supervised scope**, **CJS-3.6**, **CJS-5C.3**, **CJS-5C.4**, **CJS-5D.1**, **CJS-5E.1**, **CJS-5D.2**, **CJS-5B.2**, **CJS-5B.4**, **CJS-5E.3**, and **CJS-5D.3** where those operational facts materially support the trust claim.
 
 ### CJS-4.5 Definition collision and precedence discipline
 <details>

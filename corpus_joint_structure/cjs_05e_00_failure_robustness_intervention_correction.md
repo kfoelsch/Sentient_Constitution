@@ -41,7 +41,7 @@ This family collects the operational clusters for degraded operation, interventi
 
 - Upstream: [CJS-1.1](cjs_01_scope_purpose_boundary_interface.md#cjs-11-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.2](cjs_02_implementation_integration_map.md#cjs-22-topic-router-stable-ids) topic router; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
 - Downstream: this section's local operational requirements for **CJS-5E.1 Implementation and cross-implementation graceful degradation and failure-mode integrity terms**.
-- Read with: **PRIM6**; **PRIM1**; **PRIM5**; **PRIM12**; **PRIM15**.
+- Read with: **CJS-5E.1**; **CJS-5C.3 and CJS-5C.4**; **CJS-5D.1**; **CJS-5E.3 and CJS-5D.3**; **CJS-5E.5 and CJS-5B.1**.
 
 </details>
 
@@ -63,17 +63,27 @@ This family collects the operational clusters for degraded operation, interventi
 Use this rule when reliability, signaling, containment, or recovery depends on standalone system behavior or combined system, dependency, or implementation-layer behavior.
 
 Read it with:
-- **PRIM6 — Graceful Degradation and Failure Mode Integrity**
-- **PRIM1 — System Status, Risk, and Scope Representation**
-- **PRIM5 — Dependency Awareness, Disclosure, and Risk Integrity**
-- **PRIM12 — Reversibility and Containment**
-- **PRIM15 — Evolution, Revalidation, and Non-Entrenchment**
+- **CJS-5E.1 — Graceful Degradation and Failure Mode Integrity**
+- **CJS-5C.3 and CJS-5C.4 — System Status, Risk, and Scope Representation**
+- **CJS-5D.1 — Dependency Awareness, Disclosure, and Risk Integrity**
+- **CJS-5E.3 and CJS-5D.3 — Reversibility and Containment**
+- **CJS-5E.5 and CJS-5B.1 — Evolution, Revalidation, and Non-Entrenchment**
 - `corpus_systems.md` **Protocol A — System Design, Testing, Verification, and Deployment**
 
 Implementation and cross-implementation graceful degradation and failure-mode integrity terms
 - OP-O: Systems must behave honestly and safely under partial failure, uncertainty, or stress.
 - OP-E: Evaluation must assess all relevant system components, dependencies, institutional roles, and implementation-layer interactions together.
 - OP-C: It is non-compliant to claim graceful degradation when a material component has not been defined, fully evaluated, and tested under relevant failure conditions.
+
+Failure-integrity floor
+- OP-O: Failure, degradation, and stress are expected operating conditions. When full functionality cannot be maintained, systems must degrade in a controlled, bounded, observable, and non-escalatory manner that preserves constitutional constraints.
+- OP-E: Evaluation must verify that degradation does not conceal or distort system condition, that cascading or cross-system propagation is prevented where feasible, and that transparency remains sufficient to preserve epistemic integrity.
+- OP-C: Nominal operation, silent degradation, or performance-preserving behavior that hides capability loss, disables accountability, or relaxes Safety or Truth constraints is non-compliant.
+
+Degraded-condition preservation order
+- OP-O: Under partial failure, degraded operation, or stress, systems must prioritize **Safety**, then **Truth and Epistemic Integrity**, then **System Stability and justified Trust**, then functional performance.
+- OP-E: Evaluation must verify that performance, convenience, throughput, or reputation preservation does not override truthful degradation signaling, safety containment, or auditability needed for later review.
+- OP-C: Sacrificing Safety, Truth, epistemic integrity, or justified trust to preserve apparent functionality is non-compliant.
 
 Graceful degradation floor and defined failure-mode coverage
 - OP-O: Systems must degrade in controlled, visible, non-deceptive ways and avoid silent degradation or disproportionate harm.
@@ -86,7 +96,7 @@ Signaling integrity and anti-silent-failure controls
 - OP-C: Preserving a false appearance of normal operation is non-compliant.
 
 Priority order and honest representation
-- OP-O: Under constraint, systems prioritize survival and foundational requirements, then auditability and reconstructability, then reversibility, containment, and recovery.
+- OP-O: Under constraint, systems apply the degraded-condition preservation order above and maintain auditability, reconstructability, reversibility, containment, and recovery to the extent feasible.
 - OP-E: Evaluation must verify performance goals do not override truthful degradation signaling.
 - OP-C: Sacrificing accurate signaling for convenience or throughput is non-compliant.
 
@@ -123,7 +133,7 @@ Proportional application
 
 - Upstream: [CJS-1.1](cjs_01_scope_purpose_boundary_interface.md#cjs-11-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.2](cjs_02_implementation_integration_map.md#cjs-22-topic-router-stable-ids) topic router; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
 - Downstream: this section's local operational requirements for **CJS-5E.2 Implementation and cross-implementation intervention and override integrity terms**.
-- Read with: **PRIM8**; **PRIM6**; **PRIM9**; **PRIM14**; **PRIM15**; **PROT2**.
+- Read with: **CJS-5E.2**; **CJS-5E.1**; **CJS-5B.2**; **CJS-5E.4**; **CJS-5E.5 and CJS-5B.1**; **CJS-5A.2 and CJS-5E.2**.
 
 </details>
 
@@ -145,12 +155,12 @@ Proportional application
 Use this rule when technical intervention, governance authorization, and accountability depend on standalone system behavior or combined system, governance, or implementation-layer behavior.
 
 Read it with:
-- **PRIM8 — Intervention and Override Rights**
-- **PRIM6 — Graceful Degradation and Failure Mode Integrity**
-- **PRIM9 — Auditability**
-- **PRIM14 — Adversarial Robustness and Abuse Resistance**
-- **PRIM15 — Evolution, Revalidation, and Non-Entrenchment**
-- **PROT2 — Intervention and Override Rights**
+- **CJS-5E.2 — Intervention and Override Rights**
+- **CJS-5E.1 — Graceful Degradation and Failure Mode Integrity**
+- **CJS-5B.2 — Auditability**
+- **CJS-5E.4 — Adversarial Robustness and Abuse Resistance**
+- **CJS-5E.5 and CJS-5B.1 — Evolution, Revalidation, and Non-Entrenchment**
+- **CJS-5A.2 — Intervention governance and override authorization**
 - **Chapter One §6.4.1 — Rights-Collision Decision Test**
 - **`corpus_forum.md` CF-11 — Forum continuity, fallback operation, and emergency adjudication**
 - Constitutional hooks in **Articles IX, XII, and XIII**
@@ -213,7 +223,7 @@ Proportional application
 
 - Upstream: [CJS-1.1](cjs_01_scope_purpose_boundary_interface.md#cjs-11-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.2](cjs_02_implementation_integration_map.md#cjs-22-topic-router-stable-ids) topic router; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
 - Downstream: this section's local operational requirements for **CJS-5E.3 Implementation and cross-implementation reversibility and containment terms**.
-- Read with: **PRIM12**; **PRIM5**; **PRIM6**; **PRIM9**; **PRIM10**; **PRIM11**.
+- Read with: **CJS-5E.3 and CJS-5D.3**; **CJS-5D.1**; **CJS-5E.1**; **CJS-5B.2**; **CJS-5B.3**; **CJS-5B.4**.
 
 </details>
 
@@ -235,12 +245,12 @@ Proportional application
 Use this rule when rollback, failure isolation, or restoration depends on a standalone system, institution, forum, or bounded decision domain, or on more than one system, dependency, institution, or implementation layer.
 
 Read it with:
-- **PRIM12 — Reversibility and Containment**
-- **PRIM5 — Dependency Awareness, Disclosure, and Risk Integrity**
-- **PRIM6 — Graceful Degradation and Failure Mode Integrity**
-- **PRIM9 — Auditability**
-- **PRIM10 — Tiered Transparency and Audit Access**
-- **PRIM11 — Independent Verification and Integrity of Claims**
+- **CJS-5E.3 and CJS-5D.3 — Reversibility and Containment**
+- **CJS-5D.1 — Dependency Awareness, Disclosure, and Risk Integrity**
+- **CJS-5E.1 — Graceful Degradation and Failure Mode Integrity**
+- **CJS-5B.2 — Auditability**
+- **CJS-5B.3 — Tiered Transparency and Audit Access**
+- **CJS-5B.4 — Independent Verification and Integrity of Claims**
 
 Implementation and cross-implementation reversibility and containment terms
 - OP-O: Systems must be designed to limit irreversible harm, keep failures from spreading, and restore or compensate affected parties when rollback cannot fully undo the harm.
@@ -275,7 +285,7 @@ Compensatory restoration and limitation disclosure
 
 - Upstream: [CJS-1.1](cjs_01_scope_purpose_boundary_interface.md#cjs-11-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.2](cjs_02_implementation_integration_map.md#cjs-22-topic-router-stable-ids) topic router; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
 - Downstream: this section's local operational requirements for **CJS-5E.4 Implementation and cross-implementation adversarial robustness and abuse-resistance terms**.
-- Read with: **PRIM14**; **PRIM4**; **PRIM5**; **PRIM6**; **PRIM9**; **PRIM11**.
+- Read with: **CJS-5E.4**; **CJS-5C.4**; **CJS-5D.1**; **CJS-5E.1**; **CJS-5B.2**; **CJS-5B.4**.
 
 </details>
 
@@ -297,17 +307,17 @@ Compensatory restoration and limitation disclosure
 Use this rule when attack surfaces, incentive exploitation, or integrity defenses depend on a standalone system, institution, forum, or bounded decision domain, or on more than one system, dependency, institution, governance path, or implementation layer.
 
 Read it with:
-- **PRIM14 — Adversarial Robustness and Abuse Resistance**
-- **PRIM4 — Transparency and Disclosure**
-- **PRIM5 — Dependency Awareness, Disclosure, and Risk Integrity**
-- **PRIM6 — Graceful Degradation and Failure Mode Integrity**
-- **PRIM9 — Auditability**
-- **PRIM11 — Independent Verification and Integrity of Claims**
-- **PRIM12 — Reversibility and Containment**
-- **PRIM15 — Evolution, Revalidation, and Non-Entrenchment**
-- **PROT1 — Distributed and Proportional Authority**
-- **PROT4 — Burden of Justification and Constraint**
-- **PROT5 — Constrained Secrecy and Protected Investigations**
+- **CJS-5E.4 — Adversarial Robustness and Abuse Resistance**
+- **CJS-5C.4 — Transparency and Disclosure**
+- **CJS-5D.1 — Dependency Awareness, Disclosure, and Risk Integrity**
+- **CJS-5E.1 — Graceful Degradation and Failure Mode Integrity**
+- **CJS-5B.2 — Auditability**
+- **CJS-5B.4 — Independent Verification and Integrity of Claims**
+- **CJS-5E.3 and CJS-5D.3 — Reversibility and Containment**
+- **CJS-5E.5 and CJS-5B.1 — Evolution, Revalidation, and Non-Entrenchment**
+- **CJS-5A.1** and **CJS-5C.1** for distributed authority and participation legitimacy
+- **CJS-5A.4 — Burden of Justification and Constraint**
+- **CJS-5A.5 — Constrained Secrecy and Protected Investigations**
 
 Implementation and cross-implementation adversarial robustness and abuse-resistance terms
 - OP-O: Systems must be designed and maintained to resist manipulation, exploitation, coordinated abuse, and integrity attacks.
@@ -382,7 +392,7 @@ Proportional application
 
 - Upstream: [CJS-1.1](cjs_01_scope_purpose_boundary_interface.md#cjs-11-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.2](cjs_02_implementation_integration_map.md#cjs-22-topic-router-stable-ids) topic router; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
 - Downstream: this section's local operational requirements for **CJS-5E.5 Implementation and cross-implementation structural review, correction urgency, and disclosure terms**.
-- Read with: **PRIM6**; **PRIM12**; **PRIM15**; **PROT6**; **PROT3**.
+- Read with: **CJS-5E.1**; **CJS-5E.3 and CJS-5D.3**; **CJS-5E.5 and CJS-5B.1**; **CJS-5A.6**; **CJS-5A.3 and CJS-5B.1**.
 
 </details>
 
@@ -404,11 +414,11 @@ Proportional application
 Use this rule when recurring failures, Correction Urgency Level (**CUL**) assignment, or structural transparency depends on standalone system behavior or combined institutional, system, dependency, or implementation-layer behavior.
 
 Read it with:
-- **PROT6 — Procedural Integrity and Adjudication**
-- **PRIM6 — Graceful Degradation and Failure Mode Integrity**
-- **PRIM12 — Reversibility and Containment**
-- **PRIM15 — Evolution, Revalidation, and Non-Entrenchment**
-- **PROT3 — Reflexive Transparency and Accountability**
+- **CJS-5A.6 — Procedural Integrity and Adjudication**
+- **CJS-5E.1 — Graceful Degradation and Failure Mode Integrity**
+- **CJS-5E.3 and CJS-5D.3 — Reversibility and Containment**
+- **CJS-5E.5 and CJS-5B.1 — Evolution, Revalidation, and Non-Entrenchment**
+- **CJS-5A.3 and CJS-5B.1 — Reflexive Transparency and Accountability**
 - `corpus_systems.md` **Chapter S1** and **Chapter S2**
 - Owner-layer-specific monitoring or publication duties.
 
@@ -444,4 +454,4 @@ Stakeholder scope and targeted transparency
 
 ---
 
-**Next file:** [cjs_06_meta_integrity_obligations.md](cjs_06_meta_integrity_obligations.md)
+**Next file:** [../corpus_systems.md](../corpus_systems.md)

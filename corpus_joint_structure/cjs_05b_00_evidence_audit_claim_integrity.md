@@ -96,7 +96,7 @@ Adversarial response and revalidation non-entrenchment
 
 - Upstream: [CJS-1.1](cjs_01_scope_purpose_boundary_interface.md#cjs-11-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.2](cjs_02_implementation_integration_map.md#cjs-22-topic-router-stable-ids) topic router; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
 - Downstream: this section's local operational requirements for **CJS-5B.2 Implementation and cross-implementation auditability and reconstructability terms**.
-- Read with: **PRIM9**; **PRIM4**; **PRIM10**.
+- Read with: **CJS-5B.2**; **CJS-5C.4**; **CJS-5B.3**.
 
 </details>
 
@@ -118,9 +118,9 @@ Adversarial response and revalidation non-entrenchment
 Use this rule when records, access pathways, or verification design depend on standalone system behavior or combined system, dependency, or implementation-layer behavior.
 
 Read it with:
-- **PRIM9 — Auditability**
-- **PRIM4 — Transparency and Disclosure**
-- **PRIM10 — Tiered Transparency and Audit Access**
+- **CJS-5B.2 — Auditability**
+- **CJS-5C.4 — Transparency and Disclosure**
+- **CJS-5B.3 — Tiered Transparency and Audit Access**
 - **Article XV-A**
 - **Article VII-B**
 
@@ -157,7 +157,7 @@ Article VII-B boundary and anti-concealment rule
 
 - Upstream: [CJS-1.1](cjs_01_scope_purpose_boundary_interface.md#cjs-11-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.2](cjs_02_implementation_integration_map.md#cjs-22-topic-router-stable-ids) topic router; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
 - Downstream: this section's local operational requirements for **CJS-5B.3 Implementation and cross-implementation tiered transparency and audit-access terms**.
-- Read with: **PRIM10**; **PRIM9**; **PRIM12**.
+- Read with: **CJS-5B.3**; **CJS-5B.2**; **CJS-5E.3 and CJS-5D.3**.
 
 </details>
 
@@ -179,9 +179,9 @@ Article VII-B boundary and anti-concealment rule
 Use this rule when public visibility, qualified review, or forensic reconstruction depends on a standalone system, institution, forum, or bounded decision domain, or on how multiple systems, dependencies, institutions, or implementation layers work together.
 
 Read it with:
-- **PRIM10 — Tiered Transparency and Audit Access**
-- **PRIM9 — Auditability**
-- **PRIM12 — Reversibility and Containment**
+- **CJS-5B.3 — Tiered Transparency and Audit Access**
+- **CJS-5B.2 — Auditability**
+- **CJS-5E.3 and CJS-5D.3 — Reversibility and Containment**
 - **Chapter One §6.4.1 — Rights-Collision Decision Test**
 - **`corpus_forum.md` CF-11 — Forum continuity, fallback operation, and emergency adjudication**
 - **Article XV-A**
@@ -230,7 +230,7 @@ Access-control integrity and anti-concealment
 
 - Upstream: [CJS-1.1](cjs_01_scope_purpose_boundary_interface.md#cjs-11-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.2](cjs_02_implementation_integration_map.md#cjs-22-topic-router-stable-ids) topic router; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
 - Downstream: this section's local operational requirements for **CJS-5B.4 Implementation and cross-implementation independent verification and claim-integrity terms**.
-- Read with: **PRIM11**; **PRIM9**; **PRIM10**.
+- Read with: **CJS-5B.4**; **CJS-5B.2**; **CJS-5B.3**.
 
 </details>
 
@@ -252,9 +252,9 @@ Access-control integrity and anti-concealment
 Use this rule when evidence quality, verification routes, or trust claims depend on a standalone system, institution, forum, or bounded decision domain, or on how multiple systems, dependencies, or implementation layers work together.
 
 Read it with:
-- **PRIM11 — Independent Verification and Integrity of Claims**
-- **PRIM9 — Auditability**
-- **PRIM10 — Tiered Transparency and Audit Access**
+- **CJS-5B.4 — Independent Verification and Integrity of Claims**
+- **CJS-5B.2 — Auditability**
+- **CJS-5B.3 — Tiered Transparency and Audit Access**
 - Chapter Fourteen and rights-layer protections where material claims shape rights-relevant decisions.
 
 Implementation and cross-implementation independent verification and claim-integrity terms

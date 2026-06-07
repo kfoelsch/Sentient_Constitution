@@ -36,7 +36,7 @@ This family collects the operational clusters that govern dependency mapping, me
 
 - Upstream: [CJS-1.1](cjs_01_scope_purpose_boundary_interface.md#cjs-11-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.2](cjs_02_implementation_integration_map.md#cjs-22-topic-router-stable-ids) topic router; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
 - Downstream: this section's local operational requirements for **CJS-5D.1 Implementation and cross-implementation dependency integrity and disclosure terms**.
-- Read with: **PRIM5**; **PRIM4**; **PRIM7**; **PRIM9**; **PRIM15**.
+- Read with: **CJS-5D.1**; **CJS-5C.4**; **CJS-5D.2**; **CJS-5B.2**; **CJS-5E.5 and CJS-5B.1**.
 
 </details>
 
@@ -58,11 +58,11 @@ This family collects the operational clusters that govern dependency mapping, me
 Use this rule when dependency mapping, risk treatment, or accountability depends on standalone system behavior or combined system, dependency, or implementation-layer behavior.
 
 Read it with:
-- **PRIM5 — Dependency Awareness, Disclosure, and Risk Integrity**
-- **PRIM4 — Transparency and Disclosure**
-- **PRIM7 — Interoperability, Portability, and Exit Integrity**
-- **PRIM9 — Auditability**
-- **PRIM15 — Evolution, Revalidation, and Non-Entrenchment**
+- **CJS-5D.1 — Dependency Awareness, Disclosure, and Risk Integrity**
+- **CJS-5C.4 — Transparency and Disclosure**
+- **CJS-5D.2 — Interoperability, Portability, and Exit Integrity**
+- **CJS-5B.2 — Auditability**
+- **CJS-5E.5 and CJS-5B.1 — Evolution, Revalidation, and Non-Entrenchment**
 - `corpus_systems.md` **Protocol A — System Design, Testing, Verification, and Deployment**
 - **Article XV-A**
 
@@ -109,7 +109,7 @@ Proportional application
 
 - Upstream: [CJS-1.1](cjs_01_scope_purpose_boundary_interface.md#cjs-11-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.2](cjs_02_implementation_integration_map.md#cjs-22-topic-router-stable-ids) topic router; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
 - Downstream: this section's local operational requirements for **CJS-5D.2 Implementation and cross-implementation interoperability, portability, and exit-integrity terms**.
-- Read with: **PRIM7**; **PRIM5**; **PRIM4**.
+- Read with: **CJS-5D.2**; **CJS-5D.1**; **CJS-5C.4**.
 
 </details>
 
@@ -131,9 +131,9 @@ Proportional application
 Use this rule when lock-in, migration, interface design, or dependency exposure depends on standalone system behavior or combined system, dependency, or implementation-layer behavior.
 
 Read it with:
-- **PRIM7 — Interoperability, Portability, and Exit Integrity**
-- **PRIM5 — Dependency Awareness, Disclosure, and Risk Integrity**
-- **PRIM4 — Transparency and Disclosure**
+- **CJS-5D.2 — Interoperability, Portability, and Exit Integrity**
+- **CJS-5D.1 — Dependency Awareness, Disclosure, and Risk Integrity**
+- **CJS-5C.4 — Transparency and Disclosure**
 - `corpus_systems.md` **Chapter S1 — Information Types and Handling**
 - `corpus_systems.md` **Chapter S2 — System Classification and Handling**
 - `corpus_systems.md` **Chapter S3 — Critical System Stewardship**
@@ -198,7 +198,7 @@ Proportional application
 
 - Upstream: [CJS-1.1](cjs_01_scope_purpose_boundary_interface.md#cjs-11-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.2](cjs_02_implementation_integration_map.md#cjs-22-topic-router-stable-ids) topic router; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
 - Downstream: this section's local operational requirements for **CJS-5D.3 Implementation and cross-implementation data-retention and lifecycle-integrity terms**.
-- Read with: **CJS-3.5**; **PRIM9**; **PRIM10**; **PRIM11**; **PRIM12**; **PRIM15**.
+- Read with: **CJS-3.5**; **CJS-5B.2**; **CJS-5B.3**; **CJS-5B.4**; **CJS-5E.3 and CJS-5D.3**; **CJS-5E.5 and CJS-5B.1**.
 
 </details>
 
@@ -220,11 +220,11 @@ Proportional application
 Use this rule when accountability, privacy, reversibility, or classification depends on how data is kept, changed, linked, or deleted within a standalone system, institution, forum, or bounded decision domain, or across more than one system or implementation layer.
 
 Read it with:
-- **PRIM9 — Auditability**
-- **PRIM10 — Tiered Transparency and Audit Access**
-- **PRIM11 — Independent Verification and Integrity of Claims**
-- **PRIM12 — Reversibility and Containment**
-- **PRIM15 — Evolution, Revalidation, and Non-Entrenchment**
+- **CJS-5B.2 — Auditability**
+- **CJS-5B.3 — Tiered Transparency and Audit Access**
+- **CJS-5B.4 — Independent Verification and Integrity of Claims**
+- **CJS-5E.3 and CJS-5D.3 — Reversibility and Containment**
+- **CJS-5E.5 and CJS-5B.1 — Evolution, Revalidation, and Non-Entrenchment**
 - `corpus_systems.md` **Chapter S1 — Information Types and Handling**, including Types **C**, **G**, **H**, **I**, **N**, and **S**
 - **CJS-3.5 — Classification alignment for supervised scope**
 

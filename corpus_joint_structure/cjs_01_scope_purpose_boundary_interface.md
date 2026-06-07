@@ -42,7 +42,7 @@ After this orientation, **CJS-1.1** supplies the shared contract that later impl
 
 - Upstream: [CJS-1.1](cjs_01_scope_purpose_boundary_interface.md#cjs-11-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.2](cjs_02_implementation_integration_map.md#cjs-22-topic-router-stable-ids) topic router; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
 - Downstream: this section's local operational requirements for **CJS-1.1: Shared implementation-corpus preamble contract**.
-- Read with: **CJS-1.1**; **CJS-2**; **CJS-3**; [CJS-2.2](cjs_02_implementation_integration_map.md#cjs-22-topic-router-stable-ids); **PRIM8**; **PROT2**.
+- Read with: **CJS-1.1**; **CJS-2**; **CJS-3**; [CJS-2.2](cjs_02_implementation_integration_map.md#cjs-22-topic-router-stable-ids); **CJS-5E.2**; **CJS-5A.2**.
 
 </details>
 
@@ -83,7 +83,7 @@ This file does not create a separate authority stack. Use the constitutional **A
 - Chapter Ten controls rights language. Implementation files implement Rights Floors and must not restate weaker versions.
 - Chapter Six controls canonical compliance, violation, and standing classification policy.
 - [corpus_systems.md](../corpus_systems.md) Chapters S1 through S3 control data types, system classes, dependency types, and steward tiers.
-- **PRIM8** and **PROT2** stay separate: **PRIM8** belongs to the architecture layer, and **PROT2** belongs to the governance layer.
+- **CJS-5E.2** and **CJS-5A.2** stay separate: **CJS-5E.2** states technical intervention and override integrity terms, and **CJS-5A.2** states governance authorization terms.
 - **CJS-2** states the read order, owner routing, and **stricter-wins** rule among **CP**, **CS**, **CI**, and **CF**.
 
 ### CJS-1.2: Section identifiers and article references
@@ -140,9 +140,9 @@ The CJS folder is **not** the primary owner for:
 - general institutional lifecycle and fiscal architecture, which belong to **CI**,
 - forum-family operational doctrine, which belongs to **CF**.
 
-Stable implementation-label text lives in the CJS implementation-group files under the **Cross-domain implementation layer**. Joint obligations in **CJS-2** and **CJS-3** coordinate implementation interfaces; they do not replace implementation-group text or owner-layer domain rules.
+Stable shared operational text lives in the CJS-5 cluster files under the **Cross-domain implementation layer**. Joint obligations in **CJS-2** and **CJS-3** coordinate implementation interfaces; they do not replace CJS-5 cluster text or owner-layer domain rules.
 
-Where **CJS-5** operational clusters are cited by an implementation label or owner file, they also function as shared implementation terms for standalone systems, institutions, forums, or bounded decision domains within the cited scope. That use does not make CJS the primary owner for system, institutional, or forum doctrine; it supplies common operational vocabulary and stricter joint-interface treatment where more than one implementation layer materially applies.
+Where **CJS-5** operational clusters are cited by an owner file, they also function as shared implementation terms for standalone systems, institutions, forums, or bounded decision domains within the cited scope. That use does not make CJS the primary owner for system, institutional, or forum doctrine; it supplies common operational vocabulary and stricter joint-interface treatment where more than one implementation layer materially applies.
 
 Under the authority-stack rules named in **CJS-1.1**, the CJS folder sits in the **binding incorporated implementation** band. It must **implement, not narrow**, Sentient Constitution meaning.
 

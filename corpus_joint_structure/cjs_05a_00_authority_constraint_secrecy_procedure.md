@@ -43,7 +43,7 @@ This family collects the operational clusters for authority distribution, overri
 
 - Upstream: [CJS-1.1](cjs_01_scope_purpose_boundary_interface.md#cjs-11-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.2](cjs_02_implementation_integration_map.md#cjs-22-topic-router-stable-ids) topic router; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
 - Downstream: this section's local operational requirements for **CJS-5A.1 Implementation and cross-implementation distributed and proportional authority terms**.
-- Read with: **PRIM4**; **PRIM9**; **PRIM15**; **PROT1**; **PROT6**.
+- Read with: **CJS-5C.4**; **CJS-5B.2**; **CJS-5E.5 and CJS-5B.1**; **CJS-5A.1 and CJS-5C.1**; **CJS-5A.6**.
 
 </details>
 
@@ -65,11 +65,11 @@ This family collects the operational clusters for authority distribution, overri
 Use this rule when legitimate governance, participation, concentration control, or system-wide review depends on a standalone system, institution, forum, or bounded decision domain, or on how institutions, systems, dependencies, or implementation layers work together.
 
 Read it with:
-- **PROT1 — Distributed and Proportional Authority**
-- **PRIM4 — Transparency and Disclosure**
-- **PRIM9 — Auditability**
-- **PRIM15 — Evolution, Revalidation, and Non-Entrenchment**
-- **PROT6 — Procedural Integrity and Adjudication**
+- **CJS-5A.1 and CJS-5C.1 — Distributed and Proportional Authority**
+- **CJS-5C.4 — Transparency and Disclosure**
+- **CJS-5B.2 — Auditability**
+- **CJS-5E.5 and CJS-5B.1 — Evolution, Revalidation, and Non-Entrenchment**
+- **CJS-5A.6 — Procedural Integrity and Adjudication**
 - `corpus_systems.md` **Chapter S3**
 
 Implementation and cross-implementation distributed and proportional authority terms
@@ -125,7 +125,7 @@ Contextual and systemic evaluation discipline
 
 - Upstream: [CJS-1.1](cjs_01_scope_purpose_boundary_interface.md#cjs-11-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.2](cjs_02_implementation_integration_map.md#cjs-22-topic-router-stable-ids) topic router; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
 - Downstream: this section's local operational requirements for **CJS-5A.2 Implementation and cross-implementation intervention governance and override-authorization terms**.
-- Read with: **PRIM8**; **PRIM9**; **PRIM15**; **PROT2**; **PROT1**; **PROT4**.
+- Read with: **CJS-5E.2**; **CJS-5B.2**; **CJS-5E.5 and CJS-5B.1**; **CJS-5A.2**; **CJS-5A.1 and CJS-5C.1**; **CJS-5A.4**.
 
 </details>
 
@@ -147,13 +147,13 @@ Contextual and systemic evaluation discipline
 Use this rule when governance-level intervention or override authorization depends on a standalone system, institution, forum, or bounded decision domain, or on how institutions, systems, or implementation layers work together.
 
 Read it with:
-- **PROT2 — Intervention and Override Rights**
-- **PRIM8 — Intervention and Override Rights**
-- **PROT1 — Distributed and Proportional Authority**
-- **PROT4 — Burden of Justification and Constraint**
-- **PROT5 — Constrained Secrecy and Protected Investigations**
-- **PRIM9 — Auditability**
-- **PRIM15 — Evolution, Revalidation, and Non-Entrenchment**
+- **CJS-5A.2 — Intervention governance and override authorization**
+- **CJS-5E.2 — Intervention and Override Rights**
+- **CJS-5A.1 and CJS-5C.1 — Distributed and Proportional Authority**
+- **CJS-5A.4 — Burden of Justification and Constraint**
+- **CJS-5A.5 — Constrained Secrecy and Protected Investigations**
+- **CJS-5B.2 — Auditability**
+- **CJS-5E.5 and CJS-5B.1 — Evolution, Revalidation, and Non-Entrenchment**
 
 Implementation and cross-implementation intervention governance and override-authorization terms
 - OP-O: Governance intervention must be necessary, authorized, sequenced, bounded, recorded, challengeable, and proportional.
@@ -198,7 +198,7 @@ Proportional procedural scaling
 
 - Upstream: [CJS-1.1](cjs_01_scope_purpose_boundary_interface.md#cjs-11-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.2](cjs_02_implementation_integration_map.md#cjs-22-topic-router-stable-ids) topic router; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
 - Downstream: this section's local operational requirements for **CJS-5A.3 Implementation and cross-implementation reflexive transparency and accountability terms**.
-- Read with: **PRIM4**; **PRIM9**; **PRIM10**; **PRIM11**; **PRIM15**; **PROT3**.
+- Read with: **CJS-5C.4**; **CJS-5B.2**; **CJS-5B.3**; **CJS-5B.4**; **CJS-5E.5 and CJS-5B.1**; **CJS-5A.3 and CJS-5B.1**.
 
 </details>
 
@@ -220,16 +220,16 @@ Proportional procedural scaling
 Use this rule when legitimacy depends on authorities holding themselves to equal or stronger standards than they apply to others.
 
 Read it with:
-- **PROT3 — Reflexive Transparency and Accountability**
-- **PRIM4 — Transparency and Disclosure**
-- **PRIM9 — Auditability**
-- **PRIM10 — Tiered Transparency and Audit Access**
-- **PRIM11 — Independent Verification and Integrity of Claims**
-- **PRIM15 — Evolution, Revalidation, and Non-Entrenchment**
-- **PROT1 — Distributed and Proportional Authority**
-- **PROT4 — Burden of Justification and Constraint**
-- **PROT5 — Constrained Secrecy and Protected Investigations**
-- **PROT6 — Procedural Integrity and Adjudication**
+- **CJS-5A.3 and CJS-5B.1 — Reflexive Transparency and Accountability**
+- **CJS-5C.4 — Transparency and Disclosure**
+- **CJS-5B.2 — Auditability**
+- **CJS-5B.3 — Tiered Transparency and Audit Access**
+- **CJS-5B.4 — Independent Verification and Integrity of Claims**
+- **CJS-5E.5 and CJS-5B.1 — Evolution, Revalidation, and Non-Entrenchment**
+- **CJS-5A.1 and CJS-5C.1 — Distributed and Proportional Authority**
+- **CJS-5A.4 — Burden of Justification and Constraint**
+- **CJS-5A.5 — Constrained Secrecy and Protected Investigations**
+- **CJS-5A.6 — Procedural Integrity and Adjudication**
 
 Implementation and cross-implementation reflexive transparency and accountability terms
 - OP-O: Authorities must be transparent, auditable, realistic about enforcement capacity, open to challenge, and protected against corruption.
@@ -284,7 +284,7 @@ Anti-corruption and undue-influence auditability controls
 
 - Upstream: [CJS-1.1](cjs_01_scope_purpose_boundary_interface.md#cjs-11-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.2](cjs_02_implementation_integration_map.md#cjs-22-topic-router-stable-ids) topic router; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
 - Downstream: this section's local operational requirements for **CJS-5A.4 Implementation and cross-implementation burden-of-justification and constraint terms**.
-- Read with: **PRIM4**; **PRIM7**; **PRIM9**; **PRIM15**; **PROT4**; **PROT1**.
+- Read with: **CJS-5C.4**; **CJS-5D.2**; **CJS-5B.2**; **CJS-5E.5 and CJS-5B.1**; **CJS-5A.4**; **CJS-5A.1 and CJS-5C.1**.
 
 </details>
 
@@ -306,12 +306,12 @@ Anti-corruption and undue-influence auditability controls
 Use this rule when restrictions, least-restrictive choices, or revalidation depend on standalone system behavior or combined institutional, system, dependency, or implementation-layer behavior.
 
 Read it with:
-- **PROT4 — Burden of Justification and Constraint**
-- **PROT1 — Distributed and Proportional Authority**
-- **PRIM4 — Transparency and Disclosure**
-- **PRIM7 — Interoperability, Portability, and Exit Integrity**
-- **PRIM9 — Auditability**
-- **PRIM15 — Evolution, Revalidation, and Non-Entrenchment**
+- **CJS-5A.4 — Burden of Justification and Constraint**
+- **CJS-5A.1 and CJS-5C.1 — Distributed and Proportional Authority**
+- **CJS-5C.4 — Transparency and Disclosure**
+- **CJS-5D.2 — Interoperability, Portability, and Exit Integrity**
+- **CJS-5B.2 — Auditability**
+- **CJS-5E.5 and CJS-5B.1 — Evolution, Revalidation, and Non-Entrenchment**
 - **Chapter One §6.4.1 — Rights-Collision Decision Test**
 - **`corpus_forum.md` CF-11 — Forum continuity, fallback operation, and emergency adjudication**
 - Core definitions for necessity, proportionality, materiality, burden, and anti-enclosure.
@@ -320,6 +320,16 @@ Implementation and cross-implementation burden-of-justification and constraint t
 - OP-O: Anyone imposing a material restriction must justify it.
 - OP-E: Evaluation must assess all relevant system components, dependencies, institutional roles, and implementation-layer interactions together.
 - OP-C: It is non-compliant to impose or maintain a material restriction when any material component, dependency, institutional role, or implementation-layer interaction has not been fully evaluated under the same review record.
+
+Mechanism-integrity and incentive-alignment floor
+- OP-O: Any economic, reputational, governance, access, standing, credentialing, interface, settlement, market, or interaction mechanism that materially affects constitutional outcomes must make constitutionally aligned behavior the expected, sustainable path under ordinary, scaled, adversarial, and degraded conditions.
+- OP-E: Evaluation must test whether the mechanism foreseeably rewards harmful, deceptive, exploitative, anti-correction, or Rights-Floor-violating conduct through delay, aggregation, opacity, proxy gaming, externalized burden, or similar structure.
+- OP-C: A mechanism is non-compliant where enforcement, post-hoc correction, participant vigilance, goodwill, ignorance, cognitive overload, information asymmetry, or undisclosed operator intent is used as the main control while the mechanism itself predictably rewards constitutional misalignment.
+
+Incentive proof, residual misalignment, and scaling
+- OP-O: Adopted mechanisms must permit proportionate detection of incentive-driven patterns, attribution of outcomes to the structures that produced them, and independent evaluation of whether incentives remain constitutionally aligned over time.
+- OP-E: Reviewers must verify observable behavior, records, outcomes, and proxy-divergence evidence. Where full alignment is infeasible, residual misalignment must remain bounded, observable, contestable, non-systemic, and non-scalable.
+- OP-C: Claims of alignment that cannot be tested against behavior, records, or outcomes are insufficient. Conditional or partial compliance is unavailable if residual incentives foreseeably produce irreversible, large-scale, cross-boundary, or Rights-Floor harm under adversarial, scaled, strategic, or degraded conditions.
 
 Restriction-burden assignment floor
 - OP-O: The party proposing or implementing a restriction bears the burden of justification.
@@ -359,7 +369,7 @@ Innovation-exclusivity anti-enclosure application
 
 - Upstream: [CJS-1.1](cjs_01_scope_purpose_boundary_interface.md#cjs-11-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.2](cjs_02_implementation_integration_map.md#cjs-22-topic-router-stable-ids) topic router; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
 - Downstream: this section's local operational requirements for **CJS-5A.5 Implementation and cross-implementation constrained-secrecy and protected-investigation terms**.
-- Read with: **PRIM4**; **PRIM9**; **PRIM15**; **PROT5**; **PROT4**; **PROT3**.
+- Read with: **CJS-5C.4**; **CJS-5B.2**; **CJS-5E.5 and CJS-5B.1**; **CJS-5A.5**; **CJS-5A.4**; **CJS-5A.3 and CJS-5B.1**.
 
 </details>
 
@@ -381,14 +391,14 @@ Innovation-exclusivity anti-enclosure application
 Use this rule when secrecy, protected investigations, oversight, or delayed release depends on standalone system behavior or combined institutional, governance, system, or implementation-layer behavior.
 
 Read it with:
-- **PROT5 — Constrained Secrecy and Protected Investigations**
-- **PROT4 — Burden of Justification and Constraint**
-- **PROT3 — Reflexive Transparency and Accountability**
-- **PROT1 — Distributed and Proportional Authority**
-- **PRIM4 — Transparency and Disclosure**
-- **PRIM9 — Auditability**
-- **PRIM15 — Evolution, Revalidation, and Non-Entrenchment**
-- **PROT6 — Procedural Integrity and Adjudication**
+- **CJS-5A.5 — Constrained Secrecy and Protected Investigations**
+- **CJS-5A.4 — Burden of Justification and Constraint**
+- **CJS-5A.3 and CJS-5B.1 — Reflexive Transparency and Accountability**
+- **CJS-5A.1 and CJS-5C.1 — Distributed and Proportional Authority**
+- **CJS-5C.4 — Transparency and Disclosure**
+- **CJS-5B.2 — Auditability**
+- **CJS-5E.5 and CJS-5B.1 — Evolution, Revalidation, and Non-Entrenchment**
+- **CJS-5A.6 — Procedural Integrity and Adjudication**
 
 Implementation and cross-implementation constrained-secrecy and protected-investigation terms
 - OP-O: Secrecy must be authorized, minimized, temporary, overseen, reconstructable, and subject to later release review.
@@ -428,7 +438,7 @@ No permanent secrecy and anti-normalization discipline
 
 - Upstream: [CJS-1.1](cjs_01_scope_purpose_boundary_interface.md#cjs-11-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.2](cjs_02_implementation_integration_map.md#cjs-22-topic-router-stable-ids) topic router; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
 - Downstream: this section's local operational requirements for **CJS-5A.6 Implementation and cross-implementation procedural integrity and adjudication terms**.
-- Read with: **PROT6**; **PROT4**; **PROT3**; **PROT2**.
+- Read with: **CJS-5A.6**; **CJS-5A.4**; **CJS-5A.3 and CJS-5B.1**; **CJS-5A.2**.
 
 </details>
 
@@ -450,10 +460,10 @@ No permanent secrecy and anti-normalization discipline
 Use this rule when due process, reviewability, restoration, or enforcement proportionality depends on a standalone system, institution, forum, or bounded decision domain, or on combined forum, institutional, system, or implementation-layer behavior.
 
 Read it with:
-- **PROT6 — Procedural Integrity and Adjudication**
-- **PROT4 — Burden of Justification and Constraint**
-- **PROT3 — Reflexive Transparency and Accountability**
-- **PROT2 — Intervention and Override Rights**
+- **CJS-5A.6 — Procedural Integrity and Adjudication**
+- **CJS-5A.4 — Burden of Justification and Constraint**
+- **CJS-5A.3 and CJS-5B.1 — Reflexive Transparency and Accountability**
+- **CJS-5A.2 — Intervention governance and override authorization**
 - `corpus_systems.md` **Chapter S1** and **Chapter S2**
 - `corpus_institutions.md`
 - `corpus_forum.md`

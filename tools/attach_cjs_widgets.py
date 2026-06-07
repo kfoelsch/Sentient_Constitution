@@ -105,25 +105,25 @@ TERM_HINTS = {
 }
 
 LABEL_HINTS = {
-    "PRIM1": ["Risk", "Truth (Constitutional Constraint)", "Transparency"],
-    "PRIM2": ["Accessibility", "Meaningful Agency", "Transparency"],
-    "PRIM4": ["Transparency", "Disclosure Sufficiency"],
-    "PRIM5": ["Dependency", "Risk"],
-    "PRIM6": ["Cascading Failure", "Safety (Constraint)"],
-    "PRIM7": ["Interoperability", "Dependency"],
-    "PRIM8": ["Oversight", "Proportionality", "Redress and Remediation"],
-    "PRIM9": ["Auditability", "Verifiability"],
-    "PRIM10": ["Transparency", "Auditability"],
-    "PRIM11": ["Verifiability", "Truth (Constitutional Constraint)"],
-    "PRIM12": ["Reversibility", "Risk"],
-    "PRIM14": ["Adversarial, Scaled, and Exploited Conditions", "Safety (Constraint)"],
-    "PRIM15": ["Reversibility", "Trustworthiness"],
-    "PROT1": ["Governance", "Proportionality"],
-    "PROT2": ["Oversight", "Redress and Remediation", "Proportionality"],
-    "PROT3": ["Transparency", "Accountability"],
-    "PROT4": ["Accountability", "Proportionality", "Necessity"],
-    "PROT5": ["Transparency", "Procedural Fairness"],
-    "PROT6": ["Procedural Fairness", "Adjudication and Dispute Resolution"],
+    "CJS-5C.3 and CJS-5C.4": ["Risk", "Truth (Constitutional Constraint)", "Transparency"],
+    "CJS-5C.2": ["Accessibility", "Meaningful Agency", "Transparency"],
+    "CJS-5C.4": ["Transparency", "Disclosure Sufficiency"],
+    "CJS-5D.1": ["Dependency", "Risk"],
+    "CJS-5E.1": ["Cascading Failure", "Safety (Constraint)"],
+    "CJS-5D.2": ["Interoperability", "Dependency"],
+    "CJS-5E.2": ["Oversight", "Proportionality", "Redress and Remediation"],
+    "CJS-5B.2": ["Auditability", "Verifiability"],
+    "CJS-5B.3": ["Transparency", "Auditability"],
+    "CJS-5B.4": ["Verifiability", "Truth (Constitutional Constraint)"],
+    "CJS-5E.3 and CJS-5D.3": ["Reversibility", "Risk"],
+    "CJS-5E.4": ["Adversarial, Scaled, and Exploited Conditions", "Safety (Constraint)"],
+    "CJS-5E.5 and CJS-5B.1": ["Reversibility", "Trustworthiness"],
+    "CJS-5A.1 and CJS-5C.1": ["Governance", "Proportionality"],
+    "CJS-5A.2 and CJS-5E.2": ["Oversight", "Redress and Remediation", "Proportionality"],
+    "CJS-5A.3 and CJS-5B.1": ["Transparency", "Accountability"],
+    "CJS-5A.4": ["Accountability", "Proportionality", "Necessity"],
+    "CJS-5A.5": ["Transparency", "Procedural Fairness"],
+    "CJS-5A.6": ["Procedural Fairness", "Adjudication and Dispute Resolution"],
 }
 
 TERM_ALIASES = {
@@ -221,9 +221,6 @@ def sibling_summary(lines: list[str], start: int, end: int) -> str:
 def mentioned_links(section_text: str) -> list[str]:
     patterns = [
         r"\bCJS-\d+(?:\.\d+)?\b",
-        r"\bCJS-META\d*\b",
-        r"\bPRIM\d+\b",
-        r"\bPROT\d+\b",
     ]
     out: list[str] = []
     seen: set[str] = set()

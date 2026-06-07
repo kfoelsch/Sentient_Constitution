@@ -16,7 +16,7 @@ Canonical meaning for constitutional terms, Rights Floors, and definition-satisf
 
 Shared preamble contract: apply `corpus_joint_structure.md` **CJS-1.1**.
 
-**Implementation cross-reference index (routing only):** This implementation file is read with `corpus_joint_structure.md` implementation labels **PRIM1 — System Status, Risk, and Scope Representation**, **PRIM2 — Comprehensibility and Cognitive Accessibility**, **PRIM4 — Transparency and Disclosure**, **PRIM5 — Dependency Awareness, Disclosure, and Risk Integrity**, **PRIM6 — Graceful Degradation and Failure Mode Integrity**, **PRIM7 — Interoperability, Portability, and Exit Integrity**, **PRIM8 — Intervention and Override Rights**, **PRIM9 — Auditability**, **PRIM10 — Tiered Transparency and Audit Access**, **PRIM11 — Independent Verification and Integrity of Claims**, **PRIM12 — Reversibility and Containment**, **PRIM14 — Adversarial Robustness and Abuse Resistance**, **PRIM15 — Evolution, Revalidation, and Non-Entrenchment**, **PROT1 — Distributed and Proportional Authority**, **PROT2 — Intervention and Override Rights**, **PROT3 — Reflexive Transparency and Accountability**, **PROT4 — Burden of Justification and Constraint**, **PROT5 — Constrained Secrecy and Protected Investigations**, and **PROT6 — Procedural Integrity and Adjudication** where materially applicable. This index is routing guidance only and does not redefine owner-layer meaning.
+**Implementation cross-reference index (routing only):** This implementation file is read with Chapter Five constitutional definitions and `corpus_joint_structure.md` **CJS-5** operational clusters where materially applicable. This index is routing guidance only and does not redefine owner-layer meaning.
 
 ---
 
@@ -32,14 +32,14 @@ Institutions may design local procedures, but those procedures must remain consi
 
 This file applies that meaning to institutional design and operation.
 
-**Joint implementation read:** where institutional rules intersect **[corpus_systems.md](corpus_systems.md)** classification, **PRIM/PROT** implementation labels, or **Chapter Nine** forum operations, read **`corpus_joint_structure.md`** **CJS-2** (especially **CJS-2.2**) and **CJS-3** in addition to the owner sections cited in each topic.
+**Joint implementation read:** where institutional rules intersect **[corpus_systems.md](corpus_systems.md)** classification, **CJS-5** operational clusters, or **Chapter Nine** forum operations, read **`corpus_joint_structure.md`** **CJS-2** (especially **CJS-2.2**) and **CJS-3** in addition to the owner sections cited in each topic.
 
 ### CI-1.1: Definition discipline and source hierarchy
 Definition discipline is single-home:
 - Constitutional definition structure, integrity, burden and verification, and foundational definitions remain in [core_02-04_definition_mechanics.md](core_02-04_definition_mechanics.md) **Chapters Two through Four** and Sentient Constitution **Chapter Five**.
 - Compliance-state and offense classification meaning remain in [core_06-06_standing_assessment.md](core_06-06_standing_assessment.md), [core_07-07_standing_integration.md](core_07-07_standing_integration.md), and [core_08-08_misconduct.md](core_08-08_misconduct.md) **Chapters Six and Seven**.
 - Rights meaning remains in the Sentient Constitution Chapter Ten part files (`core_10-10_rights_part_*.md`).
-- PRIM/PROT meanings remain in `corpus_joint_structure.md`.
+- Shared operational cluster meanings remain in `corpus_joint_structure.md` **CJS-5**.
 - System class, dependency, steward, and continuity taxonomies remain in `corpus_systems.md`.
 
 ### CI-1.2: Operational structure and subsection-local terminology
@@ -752,7 +752,7 @@ Institutions should publish **phased** **transition** plans that include:
 
 ## CI-15A: Innovation reward, disclosure, and anti-enclosure
 
-**Purpose and owner boundary.** This section governs institutional handling of innovation-reward systems where constitutional adoption brings them within scope. Constitutional meaning remains in **Chapter Five** (*Innovation Reward and Anti-Enclosure*) and **Chapter Ten**, **Article XVII-D**. Implementation, cross-implementation, and burden discipline remain in `corpus_joint_structure.md` **PRIM7 — Interoperability, Portability, and Exit Integrity**, **PROT4 — Burden of Justification and Constraint**, **CJS-5D.2**, and **CJS-5A.4**. This section supplies only the institutional registry, review, access-order, sunset, and appeal mechanics.
+**Purpose and owner boundary.** This section governs institutional handling of innovation-reward systems where constitutional adoption brings them within scope. Constitutional meaning remains in **Chapter Five** (*Innovation Reward and Anti-Enclosure*) and **Chapter Ten**, **Article XVII-D**. Implementation, cross-implementation, and burden discipline remain in `corpus_joint_structure.md` **CJS-5D.2** and **CJS-5A.4**. This section supplies only the institutional registry, review, access-order, sunset, and appeal mechanics.
 
 **Default institutional preference.** Where multiple reward mechanisms are feasible, institutions should prefer the least restrictive mechanism that can still sustain future innovation. That preference order generally favors attribution, milestone prizes, public or cooperative buyouts, levy-funded reward pools, pooled or standardized licensing, and compulsory-access tools before broad exclusion rights for high-dependency domains.
 
