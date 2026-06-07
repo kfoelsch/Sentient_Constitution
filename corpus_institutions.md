@@ -429,7 +429,7 @@ Institutions must not rely on unlabeled, ad hoc, or selectively applied sector c
 ### CI-9.1B: Delegated subunits, institutional design class, and attachment discipline
 **Purpose.** This subsection generalizes internal delegation discipline—identification, authority-composition transparency, **anticipatable** bounds on **rotating** service, and published continuity rules for **home-based** roles—across institutions. It scales with **institutional design class** under this subsection.
 
-**Forum-specific detail** (families, routing, appeals, specialist chamber doctrine) remains in `corpus_forum.md` **CF-2** (including **CF-2.5** onward). Where **CF-2.5** through **CF-2.5.4** state forum-specific duties or illustrations, **CF** text governs for **Chapter Nine** forums. Where obligations overlap, the **stricter** applicable rule governs.
+**Forum-specific detail** (families, routing, appeals, specialist chamber doctrine) remains in `corpus_forum.md` **CF-2** (including **CF-2.5** onward). Where **CF-2.6** states forum-specific delegated-authority duties or illustrations, **CF** text governs for **Chapter Nine** forums. Where obligations overlap, the **stricter** applicable rule governs.
 
 **Institutional design class (this subsection only).** Use the **highest** `corpus_systems.md` **Chapter S2 — System Classification and Handling** class among systems in the institution's **published governed scope** (including maps under **CI-9.1A**). Only **Class A**, **Class B**, and **Class C** are in range for the default scaling below.
 

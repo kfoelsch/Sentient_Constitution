@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/crossref_matrix.schema.json",
-  "generated_at": "2026-06-07T14:50:18+00:00",
+  "generated_at": "2026-06-07T16:40:32+00:00",
   "description": "Source-derived file-to-file Markdown reference graph.",
   "graph": {
     "nodes": [
@@ -4842,7 +4842,7 @@
         "targets": [
           {
             "file": "core_05-05_definitions_a_independent.md",
-            "count": 24,
+            "count": 21,
             "anchors": [
               "#accessibility-constitutional",
               "#accessibility-constitutional-c",
@@ -4855,7 +4855,7 @@
           },
           {
             "file": "core_05-05_definitions_b_semi_independent.md",
-            "count": 88,
+            "count": 80,
             "anchors": [
               "#accountability",
               "#accountability-c",
@@ -4879,7 +4879,7 @@
           },
           {
             "file": "core_05-05_definitions_c_dependent_clusters.md",
-            "count": 200,
+            "count": 152,
             "anchors": [
               "#authority-stack",
               "#authority-stack-c",
@@ -4915,14 +4915,14 @@
           },
           {
             "file": "core_09-09_forum.md",
-            "count": 12,
+            "count": 9,
             "anchors": [
               "#chapter-nine-forums-and-jurisdiction"
             ]
           },
           {
             "file": "core_15-15_incorporation.md",
-            "count": 12,
+            "count": 9,
             "anchors": [
               "#chapter-fifteen-incorporation-bridge"
             ]
@@ -4934,14 +4934,14 @@
           },
           {
             "file": "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md",
-            "count": 12,
+            "count": 9,
             "anchors": [
               "#cjs-11-shared-implementation-corpus-preamble-contract"
             ]
           },
           {
             "file": "corpus_joint_structure/cjs_02_implementation_integration_map.md",
-            "count": 12,
+            "count": 9,
             "anchors": [
               "#cjs-22-topic-router-stable-ids"
             ]

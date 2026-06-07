@@ -53,7 +53,7 @@ These rules sit between the general joint-compliance rules in [cjs_03_joint_stru
 
 <br>
 
-Use this rule for two hybrid-composition router topics: **CJS-R01**, delegated binding bodies and hybrid composition for non-forum institutions under **CI-9.1B**; and **CJS-R02**, forum chambers, divisions, and designated panels under **CF-2.5** through **CF-2.5.4**.
+Use this rule for two hybrid-composition router topics: **CJS-R01**, delegated binding bodies and hybrid composition for non-forum institutions under **CI-9.1B**; and **CJS-R02**, forum chambers, divisions, and designated panels under **CF-2.5** through **CF-2.8**.
 
 Each covered body must use a published hybrid design that combines:
 - **home-based authority**, which provides continuity; and
@@ -67,7 +67,7 @@ Home-only or rotation-only structures are non-compliant for ordinarily binding b
 
 Where **CI** and **CF** overlap, the stricter clearly adopted rule governs.
 
-**Mandatory read-with:** **CI-9.1B.1** through **CI-9.1B.4**; **CF-2.5.1** through **CF-2.5.5** and **CF-11** as applicable; `corpus_systems.md` **Chapter S2 — System Classification and Handling** and **Chapter S3 — Critical System Stewardship** where classification changes the burden.
+**Mandatory read-with:** **CI-9.1B.1** through **CI-9.1B.4**; **CF-2.5** through **CF-2.8** and **CF-11** as applicable; `corpus_systems.md` **Chapter S2 — System Classification and Handling** and **Chapter S3 — Critical System Stewardship** where classification changes the burden.
 
 ### CJS-4.2 Shared attachment and continuity mechanics
 <details>

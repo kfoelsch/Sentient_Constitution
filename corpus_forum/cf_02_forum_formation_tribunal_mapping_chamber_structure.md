@@ -3,7 +3,7 @@
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [CJS-1.1](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-11-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.2](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-22-topic-router-stable-ids) topic router; [Chapter Nine](../core_09-09_forum.md#chapter-nine-forums-and-jurisdiction) forum-family routing; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
-- Downstream: [CF-2.1 Core structural rule](#cf-21-core-structural-rule); [CF-2.2 Family-to-forum-structure translation map](#cf-22-family-to-forum-structure-translation-map); [CF-2.3 Family distinction and non-collapse rule](#cf-23-family-distinction-and-non-collapse-rule).
+- Downstream: [CF-2.1 Core structural rule](#cf-21-core-structural-rule); [CF-2.2 Family-to-forum-structure translation map](#cf-22-family-to-forum-structure-translation-map); [CF-2.3 Family distinction and non-collapse rule](#cf-23-family-distinction-and-non-collapse-rule); [CF-2.5 Chamber creation, identification, and family boundary](#cf-25-chamber-creation-identification-and-family-boundary).
 - Read with: **CF-2**; **CF-4**; **CF-13**; **CF-3**; **CF-10**; **CF-11**; **CF-2.1**.
 
 </details>
@@ -176,13 +176,13 @@ Each required forum family must maintain, at minimum:
 
 No family may exist only on paper. If a family's work is assigned to a broader judiciary, the adopting entity must still identify the concrete forums, benches, or judicial officers responsible for that family's functions.
 
-### CF-2.5 Chamber formation and limits
+### CF-2.5 Chamber creation, identification, and family boundary
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [CJS-1.1](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-11-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.2](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-22-topic-router-stable-ids) topic router; [Chapter Nine](../core_09-09_forum.md#chapter-nine-forums-and-jurisdiction) forum-family routing; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
-- Downstream: this section's local operational requirements for **CF-2.5 Chamber formation and limits**.
-- Read with: **CF-2.5**; **CF-2.5.4**.
+- Downstream: this section's local operational requirements for **CF-2.5 Chamber creation, identification, and family boundary**.
+- Read with: **CF-2.5**; **CF-2.6**; **CF-2.7**; **CF-2.8**; **CF-9**.
 
 </details>
 
@@ -202,41 +202,20 @@ No family may exist only on paper. If a family's work is assigned to a broader j
 
 Forum families may create internal chambers, divisions, or designated panels to improve competence, speed, or consistency, but chamber structure must remain subordinate to family boundaries.
 
-**Institutional design class.** For **institutional design class** (including the **Class C** floor for specialist forums) and the **general** delegated-subunit pattern aligned with **CF-2.5** through **CF-2.5.4**, see `corpus_institutions.md` **CI-9.1B** and **`INST-PROTO-27`**. **CF-2.5** through **CF-2.5.4** remain **operative** for **Chapter Eight** forum families and chambers; where general and forum-specific rules overlap, the **stricter** rule governs.
-
-### CF-2.5.1 Identification and competence
-<details>
-<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
-
-- Upstream: [CJS-1.1](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-11-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.2](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-22-topic-router-stable-ids) topic router; [Chapter Nine](../core_09-09_forum.md#chapter-nine-forums-and-jurisdiction) forum-family routing; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
-- Downstream: this section's local operational requirements for **CF-2.5.1 Identification and competence**.
-- Read with: **CF-2.5.1**.
-
-</details>
-
-<details>
-<summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
-
-- [Forum Family, Constitutional](../core_05-05_definitions_c_dependent_clusters.md#forum-family-constitutional) · [O](../core_05-05_definitions_c_dependent_clusters.md#forum-family-constitutional) · [E](../core_05-05_definitions_c_dependent_clusters.md#forum-family-constitutional-e) · [C](../core_05-05_definitions_c_dependent_clusters.md#forum-family-constitutional-c)
-- [Forum Family, Institutional](../core_05-05_definitions_c_dependent_clusters.md#forum-family-institutional) · [O](../core_05-05_definitions_c_dependent_clusters.md#forum-family-institutional) · [E](../core_05-05_definitions_c_dependent_clusters.md#forum-family-institutional-e) · [C](../core_05-05_definitions_c_dependent_clusters.md#forum-family-institutional-c)
-- [Forum Family, Technical](../core_05-05_definitions_c_dependent_clusters.md#forum-family-technical) · [O](../core_05-05_definitions_c_dependent_clusters.md#forum-family-technical) · [E](../core_05-05_definitions_c_dependent_clusters.md#forum-family-technical-e) · [C](../core_05-05_definitions_c_dependent_clusters.md#forum-family-technical-c)
-
-</details>
-
-<br>
-
 Each chamber-creation instrument must state:
 - the family within which the chamber operates;
 - the chamber's subject-matter scope;
 - the competence profile expected for service in the chamber.
 
-### CF-2.5.2 Authority composition
+Chambers must not be used to relabel one forum family as another, to erase family-level intake or review paths, or to create a parallel constitutional forum outside Chapter Nine.
+
+### CF-2.6 Chamber authority composition and service mechanics
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [CJS-1.1](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-11-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.2](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-22-topic-router-stable-ids) topic router; [Chapter Nine](../core_09-09_forum.md#chapter-nine-forums-and-jurisdiction) forum-family routing; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
-- Downstream: this section's local operational requirements for **CF-2.5.2 Authority composition**.
-- Read with: **CF-2.5.2**; **CF-2.5.1**; **CF-2.5.3**; **CF-2.5.4**; **CF-11**; **CJS-4.1**.
+- Downstream: this section's local operational requirements for **CF-2.6 Chamber authority composition and service mechanics**.
+- Read with: **CF-2.6**; **CF-2.5**; **CF-11**; **CJS-4.1**; **CJS-4.2**.
 
 </details>
 
@@ -255,68 +234,23 @@ Each chamber-creation instrument must state:
 
 <br>
 
-**Joint minimum.** Chamber-creation instruments in scope must satisfy **`corpus_joint_structure.md` CJS-4.1** (*Mandatory hybrid authority composition*). Read **CJS-4.1** with **CF-2.5.1**, **CF-2.5.3**, **CF-2.5.4**, and **CF-11** for identification, attachment bounds, home-based terms, and **forum** emergency deviation and return-to-baseline discipline.
-
-### CF-2.5.3 Rotating authority: attachment bounds
-<details>
-<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
-
-- Upstream: [CJS-1.1](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-11-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.2](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-22-topic-router-stable-ids) topic router; [Chapter Nine](../core_09-09_forum.md#chapter-nine-forums-and-jurisdiction) forum-family routing; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
-- Downstream: this section's local operational requirements for **CF-2.5.3 Rotating authority: attachment bounds**.
-- Read with: **CF-2.5.3**; **CJS-4.2**.
-
-</details>
-
-<details>
-<summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
-
-- [Corpus](../core_05-05_definitions_c_dependent_clusters.md#corpus) · [O](../core_05-05_definitions_c_dependent_clusters.md#corpus) · [E](../core_05-05_definitions_c_dependent_clusters.md#corpus-e) · [C](../core_05-05_definitions_c_dependent_clusters.md#corpus-c)
-- [Forum Family, Constitutional](../core_05-05_definitions_c_dependent_clusters.md#forum-family-constitutional) · [O](../core_05-05_definitions_c_dependent_clusters.md#forum-family-constitutional) · [E](../core_05-05_definitions_c_dependent_clusters.md#forum-family-constitutional-e) · [C](../core_05-05_definitions_c_dependent_clusters.md#forum-family-constitutional-c)
-- [Forum Family, Institutional](../core_05-05_definitions_c_dependent_clusters.md#forum-family-institutional) · [O](../core_05-05_definitions_c_dependent_clusters.md#forum-family-institutional) · [E](../core_05-05_definitions_c_dependent_clusters.md#forum-family-institutional-e) · [C](../core_05-05_definitions_c_dependent_clusters.md#forum-family-institutional-c)
-- [Forum Family, Technical](../core_05-05_definitions_c_dependent_clusters.md#forum-family-technical) · [O](../core_05-05_definitions_c_dependent_clusters.md#forum-family-technical) · [E](../core_05-05_definitions_c_dependent_clusters.md#forum-family-technical-e) · [C](../core_05-05_definitions_c_dependent_clusters.md#forum-family-technical-c)
-
-</details>
-
-<br>
+**Joint minimum.** Chamber-creation instruments in scope must satisfy **`corpus_joint_structure.md` CJS-4.1** (*Mandatory hybrid authority composition*). Read **CJS-4.1** with **CF-2.5**, **CF-2.6**, and **CF-11** for chamber identification, attachment bounds, home-based terms, and **forum** emergency deviation and return-to-baseline discipline.
 
 Apply **`corpus_joint_structure.md` CJS-4.2** for shared rotating-attachment requirements (bounded formula, no undefined duration discretion, and illustration status).
 
 **Suggested** guidance: treat **one calendar year** as the ordinary **maximum** for a single rotating attachment spell unless the instrument publishes a longer ceiling and a brief justification.
 
-### CF-2.5.4 Home-based authority: term and renewal
-<details>
-<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
-
-- Upstream: [CJS-1.1](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-11-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.2](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-22-topic-router-stable-ids) topic router; [Chapter Nine](../core_09-09_forum.md#chapter-nine-forums-and-jurisdiction) forum-family routing; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
-- Downstream: this section's local operational requirements for **CF-2.5.4 Home-based authority: term and renewal**.
-- Read with: **CF-2.5.4**; **CF-11**; **CJS-4.2**.
-
-</details>
-
-<details>
-<summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
-
-- [Corpus](../core_05-05_definitions_c_dependent_clusters.md#corpus) · [O](../core_05-05_definitions_c_dependent_clusters.md#corpus) · [E](../core_05-05_definitions_c_dependent_clusters.md#corpus-e) · [C](../core_05-05_definitions_c_dependent_clusters.md#corpus-c)
-- [Adjudication and Dispute Resolution](../core_05-05_definitions_b_semi_independent.md#adjudication-and-dispute-resolution-constitutional) · [O](../core_05-05_definitions_b_semi_independent.md#adjudication-and-dispute-resolution-constitutional) · [E](../core_05-05_definitions_b_semi_independent.md#adjudication-and-dispute-resolution-constitutional-e) · [C](../core_05-05_definitions_b_semi_independent.md#adjudication-and-dispute-resolution-constitutional-c)
-- [Authority Stack and Internal Hierarchy](../core_05-05_definitions_c_dependent_clusters.md#authority-stack) · [O](../core_05-05_definitions_c_dependent_clusters.md#authority-stack) · [E](../core_05-05_definitions_c_dependent_clusters.md#authority-stack-e) · [C](../core_05-05_definitions_c_dependent_clusters.md#authority-stack-c)
-- [Forum Family, Constitutional](../core_05-05_definitions_c_dependent_clusters.md#forum-family-constitutional) · [O](../core_05-05_definitions_c_dependent_clusters.md#forum-family-constitutional) · [E](../core_05-05_definitions_c_dependent_clusters.md#forum-family-constitutional-e) · [C](../core_05-05_definitions_c_dependent_clusters.md#forum-family-constitutional-c)
-- [Forum Family, Institutional](../core_05-05_definitions_c_dependent_clusters.md#forum-family-institutional) · [O](../core_05-05_definitions_c_dependent_clusters.md#forum-family-institutional) · [E](../core_05-05_definitions_c_dependent_clusters.md#forum-family-institutional-e) · [C](../core_05-05_definitions_c_dependent_clusters.md#forum-family-institutional-c)
-- [Forum Family, Technical](../core_05-05_definitions_c_dependent_clusters.md#forum-family-technical) · [O](../core_05-05_definitions_c_dependent_clusters.md#forum-family-technical) · [E](../core_05-05_definitions_c_dependent_clusters.md#forum-family-technical-e) · [C](../core_05-05_definitions_c_dependent_clusters.md#forum-family-technical-c)
-- [Emergency and Contingency](../core_05-05_definitions_b_semi_independent.md#emergency-and-contingency-constitutional) · [O](../core_05-05_definitions_b_semi_independent.md#emergency-and-contingency-constitutional) · [E](../core_05-05_definitions_b_semi_independent.md#emergency-and-contingency-constitutional-e) · [C](../core_05-05_definitions_b_semi_independent.md#emergency-and-contingency-constitutional-c)
-
-</details>
-
-<br>
-
 Apply **`corpus_joint_structure.md` CJS-4.2** for shared home-based continuity requirements (published term/renewal/stagger rules and no mirror requirement relative to rotating formulas). Forum-specific continuity and emergency controls remain in **CF-11**.
 
-### CF-2.5.5 Appeals and review path
+**Institutional design class.** For **institutional design class** (including the **Class C** floor for specialist forums) and the **general** delegated-subunit pattern aligned with **CF-2.6**, see `corpus_institutions.md` **CI-9.1B** and **`INST-PROTO-27`**. **CF-2.6** remains **operative** for **Chapter Nine** forum families and chambers; where general and forum-specific rules overlap, the **stricter** rule governs.
+
+### CF-2.7 Chamber appeals, review, and routing limits
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [CJS-1.1](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-11-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.2](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-22-topic-router-stable-ids) topic router; [Chapter Nine](../core_09-09_forum.md#chapter-nine-forums-and-jurisdiction) forum-family routing; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
-- Downstream: this section's local operational requirements for **CF-2.5.5 Appeals and review path**.
-- Read with: **CF-2.5.5**.
+- Downstream: this section's local operational requirements for **CF-2.7 Chamber appeals, review, and routing limits**.
+- Read with: **CF-2.7**; **CF-2.5**; **CF-4**; **CF-5**; **CF-9**.
 
 </details>
 
@@ -343,13 +277,13 @@ Chambers must not:
 - hold themselves out as a separate constitutional forum family;
 - use specialization to reduce challenge rights, publication duties, or independence safeguards.
 
-### CF-2.6 Specialist and technical chamber discipline
+### CF-2.8 Specialist and technical chamber discipline
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [CJS-1.1](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-11-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.2](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-22-topic-router-stable-ids) topic router; [Chapter Nine](../core_09-09_forum.md#chapter-nine-forums-and-jurisdiction) forum-family routing; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
-- Downstream: this section's local operational requirements for **CF-2.6 Specialist and technical chamber discipline**.
-- Read with: **CF-2.6**; **CF-9**.
+- Downstream: this section's local operational requirements for **CF-2.8 Specialist and technical chamber discipline**.
+- Read with: **CF-2.8**; **CF-9**.
 
 </details>
 

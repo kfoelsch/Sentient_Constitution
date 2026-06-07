@@ -81,7 +81,7 @@ These are the stable section families for the CJS folder:
 **Drafting priority (suggested):**
 
 1. Extend **CJS-2.2** with new rows only when `doc_architecture.md` section 2 ownership or cross-file overlap changes; keep row IDs **stable**--append new IDs, do not renumber.
-2. When **CI**/**CF**/**CS** repeat the same joint interface paragraph, prefer a **one-line** pointer to the relevant CJS joint section, including **CJS-4.1** for hybrid composition shared by **CI-9.1B.2** and **CF-2.5.2**, and keep operative checklists in the domain owner.
+2. When **CI**/**CF**/**CS** repeat the same joint interface paragraph, prefer a **one-line** pointer to the relevant CJS joint section, including **CJS-4.1** for hybrid composition shared by **CI-9.1B.2** and **CF-2.6**, and keep operative checklists in the domain owner.
 3. When implementation files repeat the same joint interface paragraph, apply **CJS-4.3** the same way: use a **one-line** pointer to **CJS-4**, **CJS-2.2**, or the applicable **CJS-5** cluster rather than duplicating OP clusters at length.
 4. Run `make reference-audit` after substantive cross-file moves.
 5. Where a new high-level joint abstraction is added, verify it remains **Tier 1 only** with no owner-mechanics migration, and record the duplicate-taxonomy risk in the active review notes until the deferred regression path is reinstated.
