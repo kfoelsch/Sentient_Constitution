@@ -24,6 +24,26 @@ Use **CJS-1.1** for the shared implementation-corpus contract: constitutional me
 ---
 
 ## Joint Structure Registry
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Upstream: [CJS-1.1](cjs_01_scope_purpose_boundary_interface.md#cjs-11-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.2](cjs_02_implementation_integration_map.md#cjs-22-topic-router-stable-ids) topic router; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
+- Downstream: this section's local operational requirements for **Joint Structure Registry**.
+- Read with: **CJS-1**; **CJS-2**; **CJS-3**; **CJS-4**; **CJS-5**.
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
+
+- [Corpus](../core_05-05_definitions_c_dependent_clusters.md#corpus) · [O](../core_05-05_definitions_c_dependent_clusters.md#corpus) · [E](../core_05-05_definitions_c_dependent_clusters.md#corpus-e) · [C](../core_05-05_definitions_c_dependent_clusters.md#corpus-c)
+- [Authority Stack and Internal Hierarchy](../core_05-05_definitions_c_dependent_clusters.md#authority-stack) · [O](../core_05-05_definitions_c_dependent_clusters.md#authority-stack) · [E](../core_05-05_definitions_c_dependent_clusters.md#authority-stack-e) · [C](../core_05-05_definitions_c_dependent_clusters.md#authority-stack-c)
+- [Supremacy and Enforceability](../core_05-05_definitions_c_dependent_clusters.md#supremacy-and-enforceability) · [O](../core_05-05_definitions_c_dependent_clusters.md#supremacy-and-enforceability) · [E](../core_05-05_definitions_c_dependent_clusters.md#supremacy-and-enforceability-e) · [C](../core_05-05_definitions_c_dependent_clusters.md#supremacy-and-enforceability-c)
+
+</details>
+
+<br>
+
 
 These are the stable section families for the CJS folder:
 
@@ -34,6 +54,27 @@ These are the stable section families for the CJS folder:
 - **CJS-5** — Cross-implementation operational cluster library.
 
 ## Stable identifiers, edition alignment, and drafting notes
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Upstream: [CJS-1.1](cjs_01_scope_purpose_boundary_interface.md#cjs-11-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.2](cjs_02_implementation_integration_map.md#cjs-22-topic-router-stable-ids) topic router; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
+- Downstream: this section's local operational requirements for **Stable identifiers, edition alignment, and drafting notes**.
+- Read with: [CJS-2.2](cjs_02_implementation_integration_map.md#cjs-22-topic-router-stable-ids); **CJS-4.1**; **CJS-4.3**; **CJS-4**; **CJS-5**.
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
+
+- [Corpus](../core_05-05_definitions_c_dependent_clusters.md#corpus) · [O](../core_05-05_definitions_c_dependent_clusters.md#corpus) · [E](../core_05-05_definitions_c_dependent_clusters.md#corpus-e) · [C](../core_05-05_definitions_c_dependent_clusters.md#corpus-c)
+- [Incentive Alignment](../core_05-05_definitions_a_independent.md#incentive-alignment) · [O](../core_05-05_definitions_a_independent.md#incentive-alignment) · [E](../core_05-05_definitions_a_independent.md#incentive-alignment-e) · [C](../core_05-05_definitions_a_independent.md#incentive-alignment-c)
+- [Auditability](../core_05-05_definitions_c_dependent_clusters.md#auditability) · [O](../core_05-05_definitions_c_dependent_clusters.md#auditability) · [E](../core_05-05_definitions_c_dependent_clusters.md#auditability-e) · [C](../core_05-05_definitions_c_dependent_clusters.md#auditability-c)
+- [Risk](../core_05-05_definitions_a_independent.md#risk) · [O](../core_05-05_definitions_a_independent.md#risk) · [E](../core_05-05_definitions_a_independent.md#risk-e) · [C](../core_05-05_definitions_a_independent.md#risk-c)
+
+</details>
+
+<br>
+
 
 **Edition alignment:** The header **Corpus edition** and **Effective date** must track **Corpus** labels in adopting instruments and `doc_architecture.md` corpus-alignment notes.
 
@@ -50,6 +91,30 @@ These are the stable section families for the CJS folder:
 *Corpus alignment:* edition `SC-Corpus-2026.04.30`, effective **2026-04-18**; canonical mapping in [doc_architecture.md](../doc_architecture.md) **section 17**.
 
 ## Cross-domain implementation layer
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Upstream: [CJS-1.1](cjs_01_scope_purpose_boundary_interface.md#cjs-11-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.2](cjs_02_implementation_integration_map.md#cjs-22-topic-router-stable-ids) topic router; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
+- Downstream: this section's local operational requirements for **Cross-domain implementation layer**.
+- Read with: **CJS-1.1**; **CJS-3.6**; **CJS-2**; **CJS-3.2**; **CJS-META**; **PRIM8**.
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
+
+- [Governance](../core_05-05_definitions_b_semi_independent.md#governance) · [O](../core_05-05_definitions_b_semi_independent.md#governance) · [E](../core_05-05_definitions_b_semi_independent.md#governance-e) · [C](../core_05-05_definitions_b_semi_independent.md#governance-c)
+- [Sentient](../core_05-05_definitions_c_dependent_clusters.md#sentient-composite) · [O](../core_05-05_definitions_c_dependent_clusters.md#sentient-composite) · [E](../core_05-05_definitions_c_dependent_clusters.md#sentient-composite-e) · [C](../core_05-05_definitions_c_dependent_clusters.md#sentient-composite-c)
+- [Oversight](../core_05-05_definitions_a_independent.md#oversight-constitutional) · [O](../core_05-05_definitions_a_independent.md#oversight-constitutional) · [E](../core_05-05_definitions_a_independent.md#oversight-constitutional-e) · [C](../core_05-05_definitions_a_independent.md#oversight-constitutional-c)
+- [Proportionality](../core_05-05_definitions_a_independent.md#proportionality) · [O](../core_05-05_definitions_a_independent.md#proportionality) · [E](../core_05-05_definitions_a_independent.md#proportionality-e) · [C](../core_05-05_definitions_a_independent.md#proportionality-c)
+- [Redress and Remediation](../core_05-05_definitions_a_independent.md#redress-and-remediation-constitutional) · [O](../core_05-05_definitions_a_independent.md#redress-and-remediation-constitutional) · [E](../core_05-05_definitions_a_independent.md#redress-and-remediation-constitutional-e) · [C](../core_05-05_definitions_a_independent.md#redress-and-remediation-constitutional-c)
+- [Emergency and Contingency](../core_05-05_definitions_b_semi_independent.md#emergency-and-contingency-constitutional) · [O](../core_05-05_definitions_b_semi_independent.md#emergency-and-contingency-constitutional) · [E](../core_05-05_definitions_b_semi_independent.md#emergency-and-contingency-constitutional-e) · [C](../core_05-05_definitions_b_semi_independent.md#emergency-and-contingency-constitutional-c)
+- [Adjudication and Dispute Resolution](../core_05-05_definitions_b_semi_independent.md#adjudication-and-dispute-resolution-constitutional) · [O](../core_05-05_definitions_b_semi_independent.md#adjudication-and-dispute-resolution-constitutional) · [E](../core_05-05_definitions_b_semi_independent.md#adjudication-and-dispute-resolution-constitutional-e) · [C](../core_05-05_definitions_b_semi_independent.md#adjudication-and-dispute-resolution-constitutional-c)
+
+</details>
+
+<br>
+
 
 Shared preamble contract: apply **CJS-1.1**. For stable implementation-label citation seams, also apply **CJS-3.6**.
 
@@ -57,7 +122,7 @@ Shared preamble contract: apply **CJS-1.1**. For stable implementation-label cit
 
 - **Intervention layering:** **PRIM8** (architecture-layer intervention) and **PROT2** (governance-layer intervention) remain distinct and jointly applicable where relevant.
 - **Canonical owners:** Constitutional Rights Floors, Chapter Ten default ordering, and governance definitions remain in the Sentient Constitution and Chapter Five. Text in this section implements those anchors and must not narrow them.
-- **Meta home:** Meta-integrity elaboration is anchored in **CP-PCH1 — Meta-Integrity Obligations**. Stable implementation-label subsections implement that layer and must not narrow it.
+- **Meta home:** Meta-integrity elaboration is anchored in **CJS-META — Meta-integrity obligations**. Stable implementation-label subsections implement that layer and must not narrow it.
 - **Emergency and continuity routing:** Read **CJS-2** and **CJS-3.2** where systems, institutions, forums, and this section govern the same operational facts.
 
 ---

@@ -1,10 +1,54 @@
 ## CJS-5: Implementation and cross-implementation operational cluster library
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Upstream: [CJS-1.1](cjs_01_scope_purpose_boundary_interface.md#cjs-11-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.2](cjs_02_implementation_integration_map.md#cjs-22-topic-router-stable-ids) topic router; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
+- Downstream: this section's local operational requirements for **CJS-5: Implementation and cross-implementation operational cluster library**.
+- Read with: **CJS-5**.
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
+
+- [Corpus](../core_05-05_definitions_c_dependent_clusters.md#corpus) · [O](../core_05-05_definitions_c_dependent_clusters.md#corpus) · [E](../core_05-05_definitions_c_dependent_clusters.md#corpus-e) · [C](../core_05-05_definitions_c_dependent_clusters.md#corpus-c)
+- [Authority Stack and Internal Hierarchy](../core_05-05_definitions_c_dependent_clusters.md#authority-stack) · [O](../core_05-05_definitions_c_dependent_clusters.md#authority-stack) · [E](../core_05-05_definitions_c_dependent_clusters.md#authority-stack-e) · [C](../core_05-05_definitions_c_dependent_clusters.md#authority-stack-c)
+- [Supremacy and Enforceability](../core_05-05_definitions_c_dependent_clusters.md#supremacy-and-enforceability) · [O](../core_05-05_definitions_c_dependent_clusters.md#supremacy-and-enforceability) · [E](../core_05-05_definitions_c_dependent_clusters.md#supremacy-and-enforceability-e) · [C](../core_05-05_definitions_c_dependent_clusters.md#supremacy-and-enforceability-c)
+
+</details>
+
+<br>
+
 
 This file is the navigation index for implementation and cross-implementation operational cluster terms used by implementation-label and implementation text.
 
 Use these clusters as shared operational terms within standalone implementation scopes and as joint interface terms for combined satisfaction across **CP**, **CS**, **CI**, and **CF**. They supplement the implementation-group label text and owner-file rules; they do not replace either.
 
 ## CJS-5.0 Role-definition preface and standing competency gate interface
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Upstream: [CJS-1.1](cjs_01_scope_purpose_boundary_interface.md#cjs-11-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.2](cjs_02_implementation_integration_map.md#cjs-22-topic-router-stable-ids) topic router; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
+- Downstream: this section's local operational requirements for **CJS-5.0 Role-definition preface and standing competency gate interface**.
+- Read with: **CJS-5.0**.
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
+
+- [Competency Gate](../core_05-05_definitions_c_dependent_clusters.md#competency-gate) · [O](../core_05-05_definitions_c_dependent_clusters.md#competency-gate) · [E](../core_05-05_definitions_c_dependent_clusters.md#competency-gate-e) · [C](../core_05-05_definitions_c_dependent_clusters.md#competency-gate-c)
+- [Accountability](../core_05-05_definitions_b_semi_independent.md#accountability) · [O](../core_05-05_definitions_b_semi_independent.md#accountability) · [E](../core_05-05_definitions_b_semi_independent.md#accountability-e) · [C](../core_05-05_definitions_b_semi_independent.md#accountability-c)
+- [Contestability](../core_05-05_definitions_b_semi_independent.md#contestability) · [O](../core_05-05_definitions_b_semi_independent.md#contestability) · [E](../core_05-05_definitions_b_semi_independent.md#contestability-e) · [C](../core_05-05_definitions_b_semi_independent.md#contestability-c)
+- [Reversibility](../core_05-05_definitions_a_independent.md#reversibility-constitutional) · [O](../core_05-05_definitions_a_independent.md#reversibility-constitutional) · [E](../core_05-05_definitions_a_independent.md#reversibility-constitutional-e) · [C](../core_05-05_definitions_a_independent.md#reversibility-constitutional-c)
+- [Auditability](../core_05-05_definitions_c_dependent_clusters.md#auditability) · [O](../core_05-05_definitions_c_dependent_clusters.md#auditability) · [E](../core_05-05_definitions_c_dependent_clusters.md#auditability-e) · [C](../core_05-05_definitions_c_dependent_clusters.md#auditability-c)
+- [Dependency](../core_05-05_definitions_a_independent.md#dependency) · [O](../core_05-05_definitions_a_independent.md#dependency) · [E](../core_05-05_definitions_a_independent.md#dependency-e) · [C](../core_05-05_definitions_a_independent.md#dependency-c)
+- [Governance](../core_05-05_definitions_b_semi_independent.md#governance) · [O](../core_05-05_definitions_b_semi_independent.md#governance) · [E](../core_05-05_definitions_b_semi_independent.md#governance-e) · [C](../core_05-05_definitions_b_semi_independent.md#governance-c)
+
+</details>
+
+<br>
+
 Use this preface first whenever a later CJS cluster depends on who may hold authority, support review, staff a lane, operate a material function, or make a binding decision. It gives shared role vocabulary for CJS only. It does not replace the role rules in `core_11-11_governance.md` **Chapter Eleven**, section **5**; **Article XI-D**; `core_07-07_standing_integration.md` **Chapter Seven**, section **1.2** (*Competency Gates*); `corpus_institutions.md` **CI-4**; `corpus_systems.md` **Chapter S3**; or `corpus_forum.md` forum-formation rules.
 
 Role-definition reading rule
@@ -60,6 +104,30 @@ Delegated body and forum-role pointer
 ---
 
 ## CJS-5.1 Cluster family index
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Upstream: [CJS-1.1](cjs_01_scope_purpose_boundary_interface.md#cjs-11-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.2](cjs_02_implementation_integration_map.md#cjs-22-topic-router-stable-ids) topic router; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
+- Downstream: this section's local operational requirements for **CJS-5.1 Cluster family index**.
+- Read with: **CJS-5.1**.
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
+
+- [Dependency](../core_05-05_definitions_a_independent.md#dependency) · [O](../core_05-05_definitions_a_independent.md#dependency) · [E](../core_05-05_definitions_a_independent.md#dependency-e) · [C](../core_05-05_definitions_a_independent.md#dependency-c)
+- [Auditability](../core_05-05_definitions_c_dependent_clusters.md#auditability) · [O](../core_05-05_definitions_c_dependent_clusters.md#auditability) · [E](../core_05-05_definitions_c_dependent_clusters.md#auditability-e) · [C](../core_05-05_definitions_c_dependent_clusters.md#auditability-c)
+- [Authority Stack and Internal Hierarchy](../core_05-05_definitions_c_dependent_clusters.md#authority-stack) · [O](../core_05-05_definitions_c_dependent_clusters.md#authority-stack) · [E](../core_05-05_definitions_c_dependent_clusters.md#authority-stack-e) · [C](../core_05-05_definitions_c_dependent_clusters.md#authority-stack-c)
+- [Transparency](../core_05-05_definitions_c_dependent_clusters.md#transparency) · [O](../core_05-05_definitions_c_dependent_clusters.md#transparency) · [E](../core_05-05_definitions_c_dependent_clusters.md#transparency-e) · [C](../core_05-05_definitions_c_dependent_clusters.md#transparency-c)
+- [Evidence Preservation](../core_05-05_definitions_c_dependent_clusters.md#evidence-preservation) · [O](../core_05-05_definitions_c_dependent_clusters.md#evidence-preservation) · [E](../core_05-05_definitions_c_dependent_clusters.md#evidence-preservation-e) · [C](../core_05-05_definitions_c_dependent_clusters.md#evidence-preservation-c)
+- [Cascading Failure](../core_05-05_definitions_a_independent.md#cascading-failure) · [O](../core_05-05_definitions_a_independent.md#cascading-failure) · [E](../core_05-05_definitions_a_independent.md#cascading-failure-e) · [C](../core_05-05_definitions_a_independent.md#cascading-failure-c)
+- [Epistemic Integrity](../core_05-05_definitions_c_dependent_clusters.md#epistemic-integrity) · [O](../core_05-05_definitions_c_dependent_clusters.md#epistemic-integrity) · [E](../core_05-05_definitions_c_dependent_clusters.md#epistemic-integrity-e) · [C](../core_05-05_definitions_c_dependent_clusters.md#epistemic-integrity-c)
+
+</details>
+
+<br>
+
 
 | Family | Consolidated family file | Clusters |
 |---|---|---|

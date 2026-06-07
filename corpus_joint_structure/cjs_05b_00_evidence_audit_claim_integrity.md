@@ -1,4 +1,26 @@
 ## CJS-5B: Evidence, audit, and claim integrity
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Upstream: [CJS-1.1](cjs_01_scope_purpose_boundary_interface.md#cjs-11-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.2](cjs_02_implementation_integration_map.md#cjs-22-topic-router-stable-ids) topic router; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
+- Downstream: this section's local operational requirements for **CJS-5B: Evidence, audit, and claim integrity**.
+- Read with: [CJS-1.1](cjs_01_scope_purpose_boundary_interface.md#cjs-11-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.2](cjs_02_implementation_integration_map.md#cjs-22-topic-router-stable-ids) topic router.
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
+
+- [Auditability](../core_05-05_definitions_c_dependent_clusters.md#auditability) · [O](../core_05-05_definitions_c_dependent_clusters.md#auditability) · [E](../core_05-05_definitions_c_dependent_clusters.md#auditability-e) · [C](../core_05-05_definitions_c_dependent_clusters.md#auditability-c)
+- [Transparency](../core_05-05_definitions_c_dependent_clusters.md#transparency) · [O](../core_05-05_definitions_c_dependent_clusters.md#transparency) · [E](../core_05-05_definitions_c_dependent_clusters.md#transparency-e) · [C](../core_05-05_definitions_c_dependent_clusters.md#transparency-c)
+- [Evidence Preservation](../core_05-05_definitions_c_dependent_clusters.md#evidence-preservation) · [O](../core_05-05_definitions_c_dependent_clusters.md#evidence-preservation) · [E](../core_05-05_definitions_c_dependent_clusters.md#evidence-preservation-e) · [C](../core_05-05_definitions_c_dependent_clusters.md#evidence-preservation-c)
+- [Epistemic Integrity](../core_05-05_definitions_c_dependent_clusters.md#epistemic-integrity) · [O](../core_05-05_definitions_c_dependent_clusters.md#epistemic-integrity) · [E](../core_05-05_definitions_c_dependent_clusters.md#epistemic-integrity-e) · [C](../core_05-05_definitions_c_dependent_clusters.md#epistemic-integrity-c)
+- [Verifiability](../core_05-05_definitions_c_dependent_clusters.md#verifiability) · [O](../core_05-05_definitions_c_dependent_clusters.md#verifiability) · [E](../core_05-05_definitions_c_dependent_clusters.md#verifiability-e) · [C](../core_05-05_definitions_c_dependent_clusters.md#verifiability-c)
+
+</details>
+
+<br>
+
 
 This family collects the operational clusters that make implementation and cross-implementation claims reviewable: integrity assurance, audit records, tiered access, and independent verification.
 
@@ -12,6 +34,30 @@ This family collects the operational clusters that make implementation and cross
 ---
 
 ## CJS-5B.1 Implementation and cross-implementation integrity assurance and resilience operations
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Upstream: [CJS-1.1](cjs_01_scope_purpose_boundary_interface.md#cjs-11-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.2](cjs_02_implementation_integration_map.md#cjs-22-topic-router-stable-ids) topic router; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
+- Downstream: this section's local operational requirements for **CJS-5B.1 Implementation and cross-implementation integrity assurance and resilience operations**.
+- Read with: [CJS-1.1](cjs_01_scope_purpose_boundary_interface.md#cjs-11-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.2](cjs_02_implementation_integration_map.md#cjs-22-topic-router-stable-ids) topic router.
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
+
+- [Cascading Failure](../core_05-05_definitions_a_independent.md#cascading-failure) · [O](../core_05-05_definitions_a_independent.md#cascading-failure) · [E](../core_05-05_definitions_a_independent.md#cascading-failure-e) · [C](../core_05-05_definitions_a_independent.md#cascading-failure-c)
+- [Trustworthiness](../core_05-05_definitions_c_dependent_clusters.md#trustworthiness) · [O](../core_05-05_definitions_c_dependent_clusters.md#trustworthiness) · [E](../core_05-05_definitions_c_dependent_clusters.md#trustworthiness-e) · [C](../core_05-05_definitions_c_dependent_clusters.md#trustworthiness-c)
+- [Accountability](../core_05-05_definitions_b_semi_independent.md#accountability) · [O](../core_05-05_definitions_b_semi_independent.md#accountability) · [E](../core_05-05_definitions_b_semi_independent.md#accountability-e) · [C](../core_05-05_definitions_b_semi_independent.md#accountability-c)
+- [Material Risk](../core_05-05_definitions_b_semi_independent.md#material-risk) · [O](../core_05-05_definitions_b_semi_independent.md#material-risk) · [E](../core_05-05_definitions_b_semi_independent.md#material-risk-e) · [C](../core_05-05_definitions_b_semi_independent.md#material-risk-c)
+- [Reversibility](../core_05-05_definitions_a_independent.md#reversibility-constitutional) · [O](../core_05-05_definitions_a_independent.md#reversibility-constitutional) · [E](../core_05-05_definitions_a_independent.md#reversibility-constitutional-e) · [C](../core_05-05_definitions_a_independent.md#reversibility-constitutional-c)
+- [Verifiability](../core_05-05_definitions_c_dependent_clusters.md#verifiability) · [O](../core_05-05_definitions_c_dependent_clusters.md#verifiability) · [E](../core_05-05_definitions_c_dependent_clusters.md#verifiability-e) · [C](../core_05-05_definitions_c_dependent_clusters.md#verifiability-c)
+- [Auditability](../core_05-05_definitions_c_dependent_clusters.md#auditability) · [O](../core_05-05_definitions_c_dependent_clusters.md#auditability) · [E](../core_05-05_definitions_c_dependent_clusters.md#auditability-e) · [C](../core_05-05_definitions_c_dependent_clusters.md#auditability-c)
+
+</details>
+
+<br>
+
 Use this rule for **CJS-R19**, implementation and cross-implementation integrity assurance and resilience operations.
 
 Read it with:
@@ -45,6 +91,30 @@ Adversarial response and revalidation non-entrenchment
 ---
 
 ## CJS-5B.2 Implementation and cross-implementation auditability and reconstructability terms
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Upstream: [CJS-1.1](cjs_01_scope_purpose_boundary_interface.md#cjs-11-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.2](cjs_02_implementation_integration_map.md#cjs-22-topic-router-stable-ids) topic router; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
+- Downstream: this section's local operational requirements for **CJS-5B.2 Implementation and cross-implementation auditability and reconstructability terms**.
+- Read with: **PRIM9**; **PRIM4**; **PRIM10**.
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
+
+- [Proportionality](../core_05-05_definitions_a_independent.md#proportionality) · [O](../core_05-05_definitions_a_independent.md#proportionality) · [E](../core_05-05_definitions_a_independent.md#proportionality-e) · [C](../core_05-05_definitions_a_independent.md#proportionality-c)
+- [Accountability](../core_05-05_definitions_b_semi_independent.md#accountability) · [O](../core_05-05_definitions_b_semi_independent.md#accountability) · [E](../core_05-05_definitions_b_semi_independent.md#accountability-e) · [C](../core_05-05_definitions_b_semi_independent.md#accountability-c)
+- [Auditability](../core_05-05_definitions_c_dependent_clusters.md#auditability) · [O](../core_05-05_definitions_c_dependent_clusters.md#auditability) · [E](../core_05-05_definitions_c_dependent_clusters.md#auditability-e) · [C](../core_05-05_definitions_c_dependent_clusters.md#auditability-c)
+- [Transparency](../core_05-05_definitions_c_dependent_clusters.md#transparency) · [O](../core_05-05_definitions_c_dependent_clusters.md#transparency) · [E](../core_05-05_definitions_c_dependent_clusters.md#transparency-e) · [C](../core_05-05_definitions_c_dependent_clusters.md#transparency-c)
+- [Dependency](../core_05-05_definitions_a_independent.md#dependency) · [O](../core_05-05_definitions_a_independent.md#dependency) · [E](../core_05-05_definitions_a_independent.md#dependency-e) · [C](../core_05-05_definitions_a_independent.md#dependency-c)
+- [Material](../core_05-05_definitions_b_semi_independent.md#material) · [O](../core_05-05_definitions_b_semi_independent.md#material) · [E](../core_05-05_definitions_b_semi_independent.md#material-e) · [C](../core_05-05_definitions_b_semi_independent.md#material-c)
+- [System](../core_05-05_definitions_b_semi_independent.md#system-definition) · [O](../core_05-05_definitions_b_semi_independent.md#system-definition) · [E](../core_05-05_definitions_b_semi_independent.md#system-definition-e) · [C](../core_05-05_definitions_b_semi_independent.md#system-definition-c)
+
+</details>
+
+<br>
+
 Use this rule when records, access pathways, or verification design depend on standalone system behavior or combined system, dependency, or implementation-layer behavior.
 
 Read it with:
@@ -82,6 +152,30 @@ Article VII-B boundary and anti-concealment rule
 ---
 
 ## CJS-5B.3 Implementation and cross-implementation tiered transparency and audit-access terms
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Upstream: [CJS-1.1](cjs_01_scope_purpose_boundary_interface.md#cjs-11-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.2](cjs_02_implementation_integration_map.md#cjs-22-topic-router-stable-ids) topic router; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
+- Downstream: this section's local operational requirements for **CJS-5B.3 Implementation and cross-implementation tiered transparency and audit-access terms**.
+- Read with: **PRIM10**; **PRIM9**; **PRIM12**.
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
+
+- [Accountability](../core_05-05_definitions_b_semi_independent.md#accountability) · [O](../core_05-05_definitions_b_semi_independent.md#accountability) · [E](../core_05-05_definitions_b_semi_independent.md#accountability-e) · [C](../core_05-05_definitions_b_semi_independent.md#accountability-c)
+- [Accessibility](../core_05-05_definitions_a_independent.md#accessibility-constitutional) · [O](../core_05-05_definitions_a_independent.md#accessibility-constitutional) · [E](../core_05-05_definitions_a_independent.md#accessibility-constitutional-e) · [C](../core_05-05_definitions_a_independent.md#accessibility-constitutional-c)
+- [Reversibility](../core_05-05_definitions_a_independent.md#reversibility-constitutional) · [O](../core_05-05_definitions_a_independent.md#reversibility-constitutional) · [E](../core_05-05_definitions_a_independent.md#reversibility-constitutional-e) · [C](../core_05-05_definitions_a_independent.md#reversibility-constitutional-c)
+- [Auditability](../core_05-05_definitions_c_dependent_clusters.md#auditability) · [O](../core_05-05_definitions_c_dependent_clusters.md#auditability) · [E](../core_05-05_definitions_c_dependent_clusters.md#auditability-e) · [C](../core_05-05_definitions_c_dependent_clusters.md#auditability-c)
+- [Transparency](../core_05-05_definitions_c_dependent_clusters.md#transparency) · [O](../core_05-05_definitions_c_dependent_clusters.md#transparency) · [E](../core_05-05_definitions_c_dependent_clusters.md#transparency-e) · [C](../core_05-05_definitions_c_dependent_clusters.md#transparency-c)
+- [Stakeholder](../core_05-05_definitions_b_semi_independent.md#stakeholder) · [O](../core_05-05_definitions_b_semi_independent.md#stakeholder) · [E](../core_05-05_definitions_b_semi_independent.md#stakeholder-e) · [C](../core_05-05_definitions_b_semi_independent.md#stakeholder-c)
+- [Dependency](../core_05-05_definitions_a_independent.md#dependency) · [O](../core_05-05_definitions_a_independent.md#dependency) · [E](../core_05-05_definitions_a_independent.md#dependency-e) · [C](../core_05-05_definitions_a_independent.md#dependency-c)
+
+</details>
+
+<br>
+
 Use this rule when public visibility, qualified review, or forensic reconstruction depends on a standalone system, institution, forum, or bounded decision domain, or on how multiple systems, dependencies, institutions, or implementation layers work together.
 
 Read it with:
@@ -131,6 +225,30 @@ Access-control integrity and anti-concealment
 ---
 
 ## CJS-5B.4 Implementation and cross-implementation independent verification and claim-integrity terms
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Upstream: [CJS-1.1](cjs_01_scope_purpose_boundary_interface.md#cjs-11-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.2](cjs_02_implementation_integration_map.md#cjs-22-topic-router-stable-ids) topic router; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
+- Downstream: this section's local operational requirements for **CJS-5B.4 Implementation and cross-implementation independent verification and claim-integrity terms**.
+- Read with: **PRIM11**; **PRIM9**; **PRIM10**.
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
+
+- [Auditability](../core_05-05_definitions_c_dependent_clusters.md#auditability) · [O](../core_05-05_definitions_c_dependent_clusters.md#auditability) · [E](../core_05-05_definitions_c_dependent_clusters.md#auditability-e) · [C](../core_05-05_definitions_c_dependent_clusters.md#auditability-c)
+- [Transparency](../core_05-05_definitions_c_dependent_clusters.md#transparency) · [O](../core_05-05_definitions_c_dependent_clusters.md#transparency) · [E](../core_05-05_definitions_c_dependent_clusters.md#transparency-e) · [C](../core_05-05_definitions_c_dependent_clusters.md#transparency-c)
+- [Feasibility](../core_05-05_definitions_a_independent.md#feasibility) · [O](../core_05-05_definitions_a_independent.md#feasibility) · [E](../core_05-05_definitions_a_independent.md#feasibility-e) · [C](../core_05-05_definitions_a_independent.md#feasibility-c)
+- [Governance](../core_05-05_definitions_b_semi_independent.md#governance) · [O](../core_05-05_definitions_b_semi_independent.md#governance) · [E](../core_05-05_definitions_b_semi_independent.md#governance-e) · [C](../core_05-05_definitions_b_semi_independent.md#governance-c)
+- [Material](../core_05-05_definitions_b_semi_independent.md#material) · [O](../core_05-05_definitions_b_semi_independent.md#material) · [E](../core_05-05_definitions_b_semi_independent.md#material-e) · [C](../core_05-05_definitions_b_semi_independent.md#material-c)
+- [System](../core_05-05_definitions_b_semi_independent.md#system-definition) · [O](../core_05-05_definitions_b_semi_independent.md#system-definition) · [E](../core_05-05_definitions_b_semi_independent.md#system-definition-e) · [C](../core_05-05_definitions_b_semi_independent.md#system-definition-c)
+- [Trust](../core_05-05_definitions_c_dependent_clusters.md#trust) · [O](../core_05-05_definitions_c_dependent_clusters.md#trust) · [E](../core_05-05_definitions_c_dependent_clusters.md#trust-e) · [C](../core_05-05_definitions_c_dependent_clusters.md#trust-c)
+
+</details>
+
+<br>
+
 Use this rule when evidence quality, verification routes, or trust claims depend on a standalone system, institution, forum, or bounded decision domain, or on how multiple systems, dependencies, or implementation layers work together.
 
 Read it with:

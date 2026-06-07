@@ -1,4 +1,28 @@
 ## CJS-2: Implementation integration map
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Upstream: [CJS-1.1](cjs_01_scope_purpose_boundary_interface.md#cjs-11-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.2](cjs_02_implementation_integration_map.md#cjs-22-topic-router-stable-ids) topic router; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
+- Downstream: [CJS-2.1: Intentional overlap (non-duplication discipline)](#cjs-21-intentional-overlap-non-duplication-discipline); [CJS-2.2: Topic router (stable IDs)](#cjs-22-topic-router-stable-ids).
+- Read with: **CJS-2**; [CJS-2.2](cjs_02_implementation_integration_map.md#cjs-22-topic-router-stable-ids); **CJS-3**; **CJS-3.6**; **CJS-2.1**; **CJS-1.1**.
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
+
+- [Adversarial, Scaled, and Exploited Conditions](../core_05-05_definitions_a_independent.md#adversarial-scaled-and-exploited-conditions) · [O](../core_05-05_definitions_a_independent.md#adversarial-scaled-and-exploited-conditions) · [E](../core_05-05_definitions_a_independent.md#adversarial-scaled-and-exploited-conditions-e) · [C](../core_05-05_definitions_a_independent.md#adversarial-scaled-and-exploited-conditions-c)
+- [Trust Degradation and Misleading Reliance](../core_05-05_definitions_c_dependent_clusters.md#trust-degradation-and-misleading-reliance) · [O](../core_05-05_definitions_c_dependent_clusters.md#trust-degradation-and-misleading-reliance) · [E](../core_05-05_definitions_c_dependent_clusters.md#trust-degradation-and-misleading-reliance-e) · [C](../core_05-05_definitions_c_dependent_clusters.md#trust-degradation-and-misleading-reliance-c)
+- [Adjudication and Dispute Resolution](../core_05-05_definitions_b_semi_independent.md#adjudication-and-dispute-resolution-constitutional) · [O](../core_05-05_definitions_b_semi_independent.md#adjudication-and-dispute-resolution-constitutional) · [E](../core_05-05_definitions_b_semi_independent.md#adjudication-and-dispute-resolution-constitutional-e) · [C](../core_05-05_definitions_b_semi_independent.md#adjudication-and-dispute-resolution-constitutional-c)
+- [Verification Accessibility](../core_05-05_definitions_c_dependent_clusters.md#verification-accessibility) · [O](../core_05-05_definitions_c_dependent_clusters.md#verification-accessibility) · [E](../core_05-05_definitions_c_dependent_clusters.md#verification-accessibility-e) · [C](../core_05-05_definitions_c_dependent_clusters.md#verification-accessibility-c)
+- [Epistemic Integrity](../core_05-05_definitions_c_dependent_clusters.md#epistemic-integrity) · [O](../core_05-05_definitions_c_dependent_clusters.md#epistemic-integrity) · [E](../core_05-05_definitions_c_dependent_clusters.md#epistemic-integrity-e) · [C](../core_05-05_definitions_c_dependent_clusters.md#epistemic-integrity-c)
+- [Cascading Failure](../core_05-05_definitions_a_independent.md#cascading-failure) · [O](../core_05-05_definitions_a_independent.md#cascading-failure) · [E](../core_05-05_definitions_a_independent.md#cascading-failure-e) · [C](../core_05-05_definitions_a_independent.md#cascading-failure-c)
+- [Trustworthiness](../core_05-05_definitions_c_dependent_clusters.md#trustworthiness) · [O](../core_05-05_definitions_c_dependent_clusters.md#trustworthiness) · [E](../core_05-05_definitions_c_dependent_clusters.md#trustworthiness-e) · [C](../core_05-05_definitions_c_dependent_clusters.md#trustworthiness-c)
+
+</details>
+
+<br>
+
 
 **Constitutional index (abridged)**
 This section shows who owns major shared topics, where to look first, and which implementation files must be read together. The stable owner map is **CJS-2.2**, read with `doc_architecture.md` section 4.
@@ -20,6 +44,26 @@ When a topic involves more than one implementation file and matters for complian
 If two implementation files set different standards for the same meaningful risk, the stricter clearly adopted rule controls, following **Chapter Fifteen** and the classification/material-impact rules at the start of `corpus_systems.md`. The same rule applies in **CJS-3.6** when profiles and implementation labels seem to conflict.
 
 ### CJS-2.1: Intentional overlap (non-duplication discipline)
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Upstream: [CJS-1.1](cjs_01_scope_purpose_boundary_interface.md#cjs-11-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.2](cjs_02_implementation_integration_map.md#cjs-22-topic-router-stable-ids) topic router; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
+- Downstream: this section's local operational requirements for **CJS-2.1: Intentional overlap (non-duplication discipline)**.
+- Read with: **CJS-2.1**.
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
+
+- [Contestability](../core_05-05_definitions_b_semi_independent.md#contestability) · [O](../core_05-05_definitions_b_semi_independent.md#contestability) · [E](../core_05-05_definitions_b_semi_independent.md#contestability-e) · [C](../core_05-05_definitions_b_semi_independent.md#contestability-c)
+- [Adjudication and Dispute Resolution](../core_05-05_definitions_b_semi_independent.md#adjudication-and-dispute-resolution-constitutional) · [O](../core_05-05_definitions_b_semi_independent.md#adjudication-and-dispute-resolution-constitutional) · [E](../core_05-05_definitions_b_semi_independent.md#adjudication-and-dispute-resolution-constitutional-e) · [C](../core_05-05_definitions_b_semi_independent.md#adjudication-and-dispute-resolution-constitutional-c)
+- [Epistemic Integrity](../core_05-05_definitions_c_dependent_clusters.md#epistemic-integrity) · [O](../core_05-05_definitions_c_dependent_clusters.md#epistemic-integrity) · [E](../core_05-05_definitions_c_dependent_clusters.md#epistemic-integrity-e) · [C](../core_05-05_definitions_c_dependent_clusters.md#epistemic-integrity-c)
+
+</details>
+
+<br>
+
 Some topics are **deliberately** split across implementation files (for example contest-integrity design, delegated subunits, forensic or technical-forum interfaces). For those:
 
 - the **domain owner** states the **full operative** rules for its scope;
@@ -27,6 +71,30 @@ Some topics are **deliberately** split across implementation files (for example 
 - do **not** restate **PRIM/PROT** text, **S2/S3** tables, or **CF-** / **CI-** checklists except in brief **quote** or **summary pointer** form when needed for coherence.
 
 ### CJS-2.2: Topic router (stable IDs)
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Upstream: [CJS-1.1](cjs_01_scope_purpose_boundary_interface.md#cjs-11-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.2](cjs_02_implementation_integration_map.md#cjs-22-topic-router-stable-ids) topic router; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
+- Downstream: this section's local operational requirements for **CJS-2.2: Topic router (stable IDs)**.
+- Read with: [CJS-2.2](cjs_02_implementation_integration_map.md#cjs-22-topic-router-stable-ids); **CJS-4.1**; **CJS-4.7**; **CJS-4.4**; **CJS-4.6**; **CJS-META2**.
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
+
+- [Adversarial, Scaled, and Exploited Conditions](../core_05-05_definitions_a_independent.md#adversarial-scaled-and-exploited-conditions) · [O](../core_05-05_definitions_a_independent.md#adversarial-scaled-and-exploited-conditions) · [E](../core_05-05_definitions_a_independent.md#adversarial-scaled-and-exploited-conditions-e) · [C](../core_05-05_definitions_a_independent.md#adversarial-scaled-and-exploited-conditions-c)
+- [Trust Degradation and Misleading Reliance](../core_05-05_definitions_c_dependent_clusters.md#trust-degradation-and-misleading-reliance) · [O](../core_05-05_definitions_c_dependent_clusters.md#trust-degradation-and-misleading-reliance) · [E](../core_05-05_definitions_c_dependent_clusters.md#trust-degradation-and-misleading-reliance-e) · [C](../core_05-05_definitions_c_dependent_clusters.md#trust-degradation-and-misleading-reliance-c)
+- [Verification Accessibility](../core_05-05_definitions_c_dependent_clusters.md#verification-accessibility) · [O](../core_05-05_definitions_c_dependent_clusters.md#verification-accessibility) · [E](../core_05-05_definitions_c_dependent_clusters.md#verification-accessibility-e) · [C](../core_05-05_definitions_c_dependent_clusters.md#verification-accessibility-c)
+- [Cascading Failure](../core_05-05_definitions_a_independent.md#cascading-failure) · [O](../core_05-05_definitions_a_independent.md#cascading-failure) · [E](../core_05-05_definitions_a_independent.md#cascading-failure-e) · [C](../core_05-05_definitions_a_independent.md#cascading-failure-c)
+- [Trustworthiness](../core_05-05_definitions_c_dependent_clusters.md#trustworthiness) · [O](../core_05-05_definitions_c_dependent_clusters.md#trustworthiness) · [E](../core_05-05_definitions_c_dependent_clusters.md#trustworthiness-e) · [C](../core_05-05_definitions_c_dependent_clusters.md#trustworthiness-c)
+- [Accessibility](../core_05-05_definitions_a_independent.md#accessibility-constitutional) · [O](../core_05-05_definitions_a_independent.md#accessibility-constitutional) · [E](../core_05-05_definitions_a_independent.md#accessibility-constitutional-e) · [C](../core_05-05_definitions_a_independent.md#accessibility-constitutional-c)
+- [Reversibility](../core_05-05_definitions_a_independent.md#reversibility-constitutional) · [O](../core_05-05_definitions_a_independent.md#reversibility-constitutional) · [E](../core_05-05_definitions_a_independent.md#reversibility-constitutional-e) · [C](../core_05-05_definitions_a_independent.md#reversibility-constitutional-c)
+
+</details>
+
+<br>
+
 Each row names the **first** operative owner for the topic. **Mandatory read-with** lists implementation sections (and core hooks where listed) that must be satisfied **together** when the topic materially applies. Stable row IDs (**CJS-R01**–**CJS-R19**) are **corpus-local** here; they are **not** Sentient Constitution article numbers.
 
 | Row ID | Topic | Primary owner | Mandatory read-with |
@@ -47,13 +115,32 @@ Each row names the **first** operative owner for the topic. **Mandatory read-wit
 | **CJS-R14** | Institutional functional lanes and non-delegable splits | `corpus_institutions.md` **CI-2** | the CJS implementation layer **PROT1 — Distributed and Proportional Authority**; `corpus_systems.md` **Chapter S3** where CSS stewardship intersects |
 | **CJS-R15** | Contest-integrity monitoring (pathway integrity, not merits) | `corpus_institutions.md` **CI-7.3** | `corpus_systems.md` **Chapter S2**, **Chapter S3** (including steward contest-integrity paragraphs where applicable); the CJS implementation layer **PROT6 — Procedural Integrity and Adjudication**; the lawful-panel and forum-performance router topics (**CJS-R03** and **CJS-R10**) where forum performance data feeds monitors |
 | **CJS-R16** | Cross-institution coordination, deadlock, and escalation | `corpus_institutions.md` **CI-8** | `corpus_forum.md` **CF-4**, **CF-6**; `core_09-09_forum.md` **Chapter Nine** (including backup and cross-forum integrity routing) |
-| **CJS-R17** | Cross-implementation trust integrity (joint operation model) | **CP-PCH1 — Meta-integrity obligations** (*Trust and Trustworthiness*) | **CJS-4.4**; [Chapter Five section **3.11**](../core_05-05_definitions_c_dependent_clusters.md#trust-and-trustworthiness-cluster) (*Trust*, *Trustworthiness*, *Trust Degradation and Misleading Reliance*); `corpus_systems.md` **Chapter S2**, **Chapter S3** where classification or dependency scales assurance burden; `corpus_institutions.md` **CI-7.3**, **CI-8** and `corpus_forum.md` **CF-10** where pathway integrity, publication cadence, or accessibility materially conditions justified trust |
+| **CJS-R17** | Cross-implementation trust integrity (joint operation model) | **CJS-META2 — Trustworthiness routing and cross-implementation integrity** | **CJS-4.4**; [Chapter Five section **3.11**](../core_05-05_definitions_c_dependent_clusters.md#trust-and-trustworthiness-cluster) (*Trust*, *Trustworthiness*, *Trust Degradation and Misleading Reliance*); `corpus_systems.md` **Chapter S2**, **Chapter S3** where classification or dependency scales assurance burden; `corpus_institutions.md` **CI-7.3**, **CI-8** and `corpus_forum.md` **CF-10** where pathway integrity, publication cadence, or accessibility materially conditions justified trust |
 | **CJS-R18** | Class-scaled lane staffing and competency redundancy for materially binding stewardship | `corpus_institutions.md` **CI-2**, **CI-4**, **CI-11**, **CI-12** | **CJS-4.6**; **CJS-5A.1**; `corpus_systems.md` **Chapter S2**, **Chapter S3**; `core_11-11_governance.md` **Chapter Eleven**, section **5** |
 | **CJS-R19** | Implementation and cross-implementation integrity assurance and resilience operations | **CJS-5B.1** | the CJS implementation layer **PRIM9 — Auditability** through **PRIM15 — Evolution, Revalidation, and Non-Entrenchment**; **Chapter Five** (*Auditability*, *Verifiability*, *Verification Accessibility*, *Reversibility*, *Dependency*, *Cascading Failure*, *Adversarial, Scaled, and Exploited Conditions*, *Trustworthiness*); `corpus_systems.md` **Chapter S1**, **Chapter S2**, **Chapter S3** where classification, data handling, or stewardship scales burden; `corpus_institutions.md` **CI-7.3**, **CI-8** and `corpus_forum.md` **CF-10** where monitoring, escalation, publication, or review pathways are materially required |
 
 Rows are **indicative**, not exhaustive: if a matter triggers multiple rows, apply **all** triggered rows whose scope is materially true.
 
 ### CJS-2.3: Two-tier definition contract (binding abstraction + owner detail)
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Upstream: [CJS-1.1](cjs_01_scope_purpose_boundary_interface.md#cjs-11-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.2](cjs_02_implementation_integration_map.md#cjs-22-topic-router-stable-ids) topic router; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
+- Downstream: this section's local operational requirements for **CJS-2.3: Two-tier definition contract (binding abstraction + owner detail)**.
+- Read with: **CJS-2.3**; [CJS-2.2](cjs_02_implementation_integration_map.md#cjs-22-topic-router-stable-ids).
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
+
+- [Materiality Determination](../core_05-05_definitions_b_semi_independent.md#materiality-determination) · [O](../core_05-05_definitions_b_semi_independent.md#materiality-determination) · [E](../core_05-05_definitions_b_semi_independent.md#materiality-determination-e) · [C](../core_05-05_definitions_b_semi_independent.md#materiality-determination-c)
+- [Procedural Fairness](../core_05-05_definitions_b_semi_independent.md#procedural-fairness-constitutional) · [O](../core_05-05_definitions_b_semi_independent.md#procedural-fairness-constitutional) · [E](../core_05-05_definitions_b_semi_independent.md#procedural-fairness-constitutional-e) · [C](../core_05-05_definitions_b_semi_independent.md#procedural-fairness-constitutional-c)
+
+</details>
+
+<br>
+
 The CJS folder may adopt **binding high-level joint abstractions** only where a term or construct is materially cross-implementation and cannot be safely interpreted through a single owner file alone.
 
 For this contract:

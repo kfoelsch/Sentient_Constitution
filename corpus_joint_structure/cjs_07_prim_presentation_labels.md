@@ -1,5 +1,53 @@
 ## CP-PCH2 — PRIM Presentation Labels
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Upstream: [CJS-1.1](cjs_01_scope_purpose_boundary_interface.md#cjs-11-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.2](cjs_02_implementation_integration_map.md#cjs-22-topic-router-stable-ids) topic router; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
+- Downstream: [PRIM1 — Presentation Implementation label: System Status, Risk, and Scope Representation](#prim1-presentation-implementation-label-system-status-risk-and-scope-representation); [PRIM2 — Presentation Implementation label: Comprehensibility and Cognitive Accessibility](#prim2-presentation-implementation-label-comprehensibility-and-cognitive-accessibility); [PRIM4 — Presentation Implementation label: Transparency and Disclosure](#prim4-presentation-implementation-label-transparency-and-disclosure).
+- Read with: [CJS-1.1](cjs_01_scope_purpose_boundary_interface.md#cjs-11-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.2](cjs_02_implementation_integration_map.md#cjs-22-topic-router-stable-ids); **PRIM1**; **PRIM11**; **PRIM4**; **PRIM14**.
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
+
+- [Truth (Constitutional Constraint)](../core_05-05_definitions_c_dependent_clusters.md#truth-constitutional-constraint) · [O](../core_05-05_definitions_c_dependent_clusters.md#truth-constitutional-constraint) · [E](../core_05-05_definitions_c_dependent_clusters.md#truth-constitutional-constraint-e) · [C](../core_05-05_definitions_c_dependent_clusters.md#truth-constitutional-constraint-c)
+- [Verification Accessibility](../core_05-05_definitions_c_dependent_clusters.md#verification-accessibility) · [O](../core_05-05_definitions_c_dependent_clusters.md#verification-accessibility) · [E](../core_05-05_definitions_c_dependent_clusters.md#verification-accessibility-e) · [C](../core_05-05_definitions_c_dependent_clusters.md#verification-accessibility-c)
+- [Epistemic Integrity](../core_05-05_definitions_c_dependent_clusters.md#epistemic-integrity) · [O](../core_05-05_definitions_c_dependent_clusters.md#epistemic-integrity) · [E](../core_05-05_definitions_c_dependent_clusters.md#epistemic-integrity-e) · [C](../core_05-05_definitions_c_dependent_clusters.md#epistemic-integrity-c)
+- [Material Impact](../core_05-05_definitions_b_semi_independent.md#material-impact) · [O](../core_05-05_definitions_b_semi_independent.md#material-impact) · [E](../core_05-05_definitions_b_semi_independent.md#material-impact-e) · [C](../core_05-05_definitions_b_semi_independent.md#material-impact-c)
+- [Proportionality](../core_05-05_definitions_a_independent.md#proportionality) · [O](../core_05-05_definitions_a_independent.md#proportionality) · [E](../core_05-05_definitions_a_independent.md#proportionality-e) · [C](../core_05-05_definitions_a_independent.md#proportionality-c)
+- [Contestability](../core_05-05_definitions_b_semi_independent.md#contestability) · [O](../core_05-05_definitions_b_semi_independent.md#contestability) · [E](../core_05-05_definitions_b_semi_independent.md#contestability-e) · [C](../core_05-05_definitions_b_semi_independent.md#contestability-c)
+- [Accessibility](../core_05-05_definitions_a_independent.md#accessibility-constitutional) · [O](../core_05-05_definitions_a_independent.md#accessibility-constitutional) · [E](../core_05-05_definitions_a_independent.md#accessibility-constitutional-e) · [C](../core_05-05_definitions_a_independent.md#accessibility-constitutional-c)
+
+</details>
+
+<br>
+
 ### PRIM1 — Presentation Implementation label: System Status, Risk, and Scope Representation
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Upstream: [CJS-1.1](cjs_01_scope_purpose_boundary_interface.md#cjs-11-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.2](cjs_02_implementation_integration_map.md#cjs-22-topic-router-stable-ids) topic router; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
+- Downstream: this section's local operational requirements for **PRIM1 — Presentation Implementation label: System Status, Risk, and Scope Representation**.
+- Read with: **PRIM1**; **PRIM11**; **PRIM4**; **PRIM14**; **PROT4**.
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
+
+- [Truth (Constitutional Constraint)](../core_05-05_definitions_c_dependent_clusters.md#truth-constitutional-constraint) · [O](../core_05-05_definitions_c_dependent_clusters.md#truth-constitutional-constraint) · [E](../core_05-05_definitions_c_dependent_clusters.md#truth-constitutional-constraint-e) · [C](../core_05-05_definitions_c_dependent_clusters.md#truth-constitutional-constraint-c)
+- [Epistemic Integrity](../core_05-05_definitions_c_dependent_clusters.md#epistemic-integrity) · [O](../core_05-05_definitions_c_dependent_clusters.md#epistemic-integrity) · [E](../core_05-05_definitions_c_dependent_clusters.md#epistemic-integrity-e) · [C](../core_05-05_definitions_c_dependent_clusters.md#epistemic-integrity-c)
+- [Material Impact](../core_05-05_definitions_b_semi_independent.md#material-impact) · [O](../core_05-05_definitions_b_semi_independent.md#material-impact) · [E](../core_05-05_definitions_b_semi_independent.md#material-impact-e) · [C](../core_05-05_definitions_b_semi_independent.md#material-impact-c)
+- [Proportionality](../core_05-05_definitions_a_independent.md#proportionality) · [O](../core_05-05_definitions_a_independent.md#proportionality) · [E](../core_05-05_definitions_a_independent.md#proportionality-e) · [C](../core_05-05_definitions_a_independent.md#proportionality-c)
+- [Auditability](../core_05-05_definitions_c_dependent_clusters.md#auditability) · [O](../core_05-05_definitions_c_dependent_clusters.md#auditability) · [E](../core_05-05_definitions_c_dependent_clusters.md#auditability-e) · [C](../core_05-05_definitions_c_dependent_clusters.md#auditability-c)
+- [Info-Sphere](../core_05-05_definitions_a_independent.md#info-sphere) · [O](../core_05-05_definitions_a_independent.md#info-sphere) · [E](../core_05-05_definitions_a_independent.md#info-sphere-e) · [C](../core_05-05_definitions_a_independent.md#info-sphere-c)
+- [Stakeholder](../core_05-05_definitions_b_semi_independent.md#stakeholder) · [O](../core_05-05_definitions_b_semi_independent.md#stakeholder) · [E](../core_05-05_definitions_b_semi_independent.md#stakeholder-e) · [C](../core_05-05_definitions_b_semi_independent.md#stakeholder-c)
+
+</details>
+
+<br>
+
 Principles: **Truth and Epistemic Integrity** through accurate status, scope, uncertainty, and risk representation.
 
 **Constitutional anchor:** Apply this section in conjunction with cited constitutional sources; this section implements and does not narrow them.
@@ -68,6 +116,30 @@ Salience pathways must be explainable and reviewable in proportion to impact, in
 Implementation and cross-implementation operational definitions for salience allocation, anti-distortion controls, disclosure, user control, mitigation, and proportional scaling are maintained in **CJS-5C.3** (*Implementation and cross-implementation salience integrity and attention-allocation terms*). Apply that subsection as required read-with for this **PRIM1** implementation scope, together with **PRIM4** and **PRIM14** where materially applicable.
 
 ### PRIM2 — Presentation Implementation label: Comprehensibility and Cognitive Accessibility
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Upstream: [CJS-1.1](cjs_01_scope_purpose_boundary_interface.md#cjs-11-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.2](cjs_02_implementation_integration_map.md#cjs-22-topic-router-stable-ids) topic router; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
+- Downstream: this section's local operational requirements for **PRIM2 — Presentation Implementation label: Comprehensibility and Cognitive Accessibility**.
+- Read with: **PRIM2**; **PRIM4**; **PRIM1**.
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
+
+- [Verification Accessibility](../core_05-05_definitions_c_dependent_clusters.md#verification-accessibility) · [O](../core_05-05_definitions_c_dependent_clusters.md#verification-accessibility) · [E](../core_05-05_definitions_c_dependent_clusters.md#verification-accessibility-e) · [C](../core_05-05_definitions_c_dependent_clusters.md#verification-accessibility-c)
+- [Accessibility](../core_05-05_definitions_a_independent.md#accessibility-constitutional) · [O](../core_05-05_definitions_a_independent.md#accessibility-constitutional) · [E](../core_05-05_definitions_a_independent.md#accessibility-constitutional-e) · [C](../core_05-05_definitions_a_independent.md#accessibility-constitutional-c)
+- [Observability](../core_05-05_definitions_c_dependent_clusters.md#observability) · [O](../core_05-05_definitions_c_dependent_clusters.md#observability) · [E](../core_05-05_definitions_c_dependent_clusters.md#observability-e) · [C](../core_05-05_definitions_c_dependent_clusters.md#observability-c)
+- [Material](../core_05-05_definitions_b_semi_independent.md#material) · [O](../core_05-05_definitions_b_semi_independent.md#material) · [E](../core_05-05_definitions_b_semi_independent.md#material-e) · [C](../core_05-05_definitions_b_semi_independent.md#material-c)
+- [Corpus](../core_05-05_definitions_c_dependent_clusters.md#corpus) · [O](../core_05-05_definitions_c_dependent_clusters.md#corpus) · [E](../core_05-05_definitions_c_dependent_clusters.md#corpus-e) · [C](../core_05-05_definitions_c_dependent_clusters.md#corpus-c)
+- [System](../core_05-05_definitions_b_semi_independent.md#system-definition) · [O](../core_05-05_definitions_b_semi_independent.md#system-definition) · [E](../core_05-05_definitions_b_semi_independent.md#system-definition-e) · [C](../core_05-05_definitions_b_semi_independent.md#system-definition-c)
+- [Risk](../core_05-05_definitions_a_independent.md#risk) · [O](../core_05-05_definitions_a_independent.md#risk) · [E](../core_05-05_definitions_a_independent.md#risk-e) · [C](../core_05-05_definitions_a_independent.md#risk-c)
+
+</details>
+
+<br>
+
 Principles: **Agency and Accessibility** through understandable, usable, and cognitively proportionate disclosure.
 
 **Constitutional anchor:** Apply this section in conjunction with cited constitutional sources; this section implements and does not narrow them.
@@ -93,6 +165,30 @@ Implementation and cross-implementation operational definitions for comprehensib
 Low-impact or isolated systems may simplify **only** if they do **not** create material barriers to understanding. **They** may simplify **only** if they do **not** impair evaluation of risk or behavior.
 
 ### PRIM4 — Presentation Implementation label: Transparency and Disclosure
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Upstream: [CJS-1.1](cjs_01_scope_purpose_boundary_interface.md#cjs-11-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.2](cjs_02_implementation_integration_map.md#cjs-22-topic-router-stable-ids) topic router; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
+- Downstream: this section's local operational requirements for **PRIM4 — Presentation Implementation label: Transparency and Disclosure**.
+- Read with: **PRIM4**; **PRIM1**; **PROT1**.
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
+
+- [Truth (Constitutional Constraint)](../core_05-05_definitions_c_dependent_clusters.md#truth-constitutional-constraint) · [O](../core_05-05_definitions_c_dependent_clusters.md#truth-constitutional-constraint) · [E](../core_05-05_definitions_c_dependent_clusters.md#truth-constitutional-constraint-e) · [C](../core_05-05_definitions_c_dependent_clusters.md#truth-constitutional-constraint-c)
+- [Verification Accessibility](../core_05-05_definitions_c_dependent_clusters.md#verification-accessibility) · [O](../core_05-05_definitions_c_dependent_clusters.md#verification-accessibility) · [E](../core_05-05_definitions_c_dependent_clusters.md#verification-accessibility-e) · [C](../core_05-05_definitions_c_dependent_clusters.md#verification-accessibility-c)
+- [Epistemic Integrity](../core_05-05_definitions_c_dependent_clusters.md#epistemic-integrity) · [O](../core_05-05_definitions_c_dependent_clusters.md#epistemic-integrity) · [E](../core_05-05_definitions_c_dependent_clusters.md#epistemic-integrity-e) · [C](../core_05-05_definitions_c_dependent_clusters.md#epistemic-integrity-c)
+- [Contestability](../core_05-05_definitions_b_semi_independent.md#contestability) · [O](../core_05-05_definitions_b_semi_independent.md#contestability) · [E](../core_05-05_definitions_b_semi_independent.md#contestability-e) · [C](../core_05-05_definitions_b_semi_independent.md#contestability-c)
+- [Accessibility](../core_05-05_definitions_a_independent.md#accessibility-constitutional) · [O](../core_05-05_definitions_a_independent.md#accessibility-constitutional) · [E](../core_05-05_definitions_a_independent.md#accessibility-constitutional-e) · [C](../core_05-05_definitions_a_independent.md#accessibility-constitutional-c)
+- [Observability](../core_05-05_definitions_c_dependent_clusters.md#observability) · [O](../core_05-05_definitions_c_dependent_clusters.md#observability) · [E](../core_05-05_definitions_c_dependent_clusters.md#observability-e) · [C](../core_05-05_definitions_c_dependent_clusters.md#observability-c)
+- [Auditability](../core_05-05_definitions_c_dependent_clusters.md#auditability) · [O](../core_05-05_definitions_c_dependent_clusters.md#auditability) · [E](../core_05-05_definitions_c_dependent_clusters.md#auditability-e) · [C](../core_05-05_definitions_c_dependent_clusters.md#auditability-c)
+
+</details>
+
+<br>
+
 Principles: **Truth and Contestability** through sufficient disclosure for informed participation and independent evaluation.
 
 **Constitutional anchor:** Apply this section in conjunction with cited constitutional sources; this section implements and does not narrow them.

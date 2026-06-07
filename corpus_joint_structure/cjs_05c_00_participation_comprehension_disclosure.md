@@ -1,4 +1,27 @@
 ## CJS-5C: Participation, comprehension, and disclosure
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Upstream: [CJS-1.1](cjs_01_scope_purpose_boundary_interface.md#cjs-11-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.2](cjs_02_implementation_integration_map.md#cjs-22-topic-router-stable-ids) topic router; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
+- Downstream: this section's local operational requirements for **CJS-5C: Participation, comprehension, and disclosure**.
+- Read with: [CJS-1.1](cjs_01_scope_purpose_boundary_interface.md#cjs-11-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.2](cjs_02_implementation_integration_map.md#cjs-22-topic-router-stable-ids) topic router.
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
+
+- [Accessibility](../core_05-05_definitions_a_independent.md#accessibility-constitutional) · [O](../core_05-05_definitions_a_independent.md#accessibility-constitutional) · [E](../core_05-05_definitions_a_independent.md#accessibility-constitutional-e) · [C](../core_05-05_definitions_a_independent.md#accessibility-constitutional-c)
+- [Observability](../core_05-05_definitions_c_dependent_clusters.md#observability) · [O](../core_05-05_definitions_c_dependent_clusters.md#observability) · [E](../core_05-05_definitions_c_dependent_clusters.md#observability-e) · [C](../core_05-05_definitions_c_dependent_clusters.md#observability-c)
+- [Transparency](../core_05-05_definitions_c_dependent_clusters.md#transparency) · [O](../core_05-05_definitions_c_dependent_clusters.md#transparency) · [E](../core_05-05_definitions_c_dependent_clusters.md#transparency-e) · [C](../core_05-05_definitions_c_dependent_clusters.md#transparency-c)
+- [Epistemic Integrity](../core_05-05_definitions_c_dependent_clusters.md#epistemic-integrity) · [O](../core_05-05_definitions_c_dependent_clusters.md#epistemic-integrity) · [E](../core_05-05_definitions_c_dependent_clusters.md#epistemic-integrity-e) · [C](../core_05-05_definitions_c_dependent_clusters.md#epistemic-integrity-c)
+- [Stakeholder Participation Weight](../core_05-05_definitions_b_semi_independent.md#stakeholder-participation-weight) · [O](../core_05-05_definitions_b_semi_independent.md#stakeholder-participation-weight) · [E](../core_05-05_definitions_b_semi_independent.md#stakeholder-participation-weight-e) · [C](../core_05-05_definitions_b_semi_independent.md#stakeholder-participation-weight-c)
+- [Participant Standing](../core_05-05_definitions_c_dependent_clusters.md#participant-standing-constitutional) · [O](../core_05-05_definitions_c_dependent_clusters.md#participant-standing-constitutional) · [E](../core_05-05_definitions_c_dependent_clusters.md#participant-standing-constitutional-e) · [C](../core_05-05_definitions_c_dependent_clusters.md#participant-standing-constitutional-c)
+
+</details>
+
+<br>
+
 
 This family collects the operational clusters that make affected-party participation, understanding, attention integrity, and disclosure usable within standalone implementation scopes and across implementation boundaries.
 
@@ -12,6 +35,30 @@ This family collects the operational clusters that make affected-party participa
 ---
 
 ## CJS-5C.1 Implementation and cross-implementation quorum and participatory legitimacy terms
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Upstream: [CJS-1.1](cjs_01_scope_purpose_boundary_interface.md#cjs-11-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.2](cjs_02_implementation_integration_map.md#cjs-22-topic-router-stable-ids) topic router; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
+- Downstream: this section's local operational requirements for **CJS-5C.1 Implementation and cross-implementation quorum and participatory legitimacy terms**.
+- Read with: **PROT1**; **PROT6**.
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
+
+- [Foundational Constitutional Choice](../core_05-05_definitions_a_independent.md#foundational-constitutional-choice) · [O](../core_05-05_definitions_a_independent.md#foundational-constitutional-choice) · [E](../core_05-05_definitions_a_independent.md#foundational-constitutional-choice-e) · [C](../core_05-05_definitions_a_independent.md#foundational-constitutional-choice-c)
+- [Stakeholder Participation Weight](../core_05-05_definitions_b_semi_independent.md#stakeholder-participation-weight) · [O](../core_05-05_definitions_b_semi_independent.md#stakeholder-participation-weight) · [E](../core_05-05_definitions_b_semi_independent.md#stakeholder-participation-weight-e) · [C](../core_05-05_definitions_b_semi_independent.md#stakeholder-participation-weight-c)
+- [Constitutional Contract Layer](../core_05-05_definitions_a_independent.md#constitutional-contract-layer) · [O](../core_05-05_definitions_a_independent.md#constitutional-contract-layer) · [E](../core_05-05_definitions_a_independent.md#constitutional-contract-layer-e) · [C](../core_05-05_definitions_a_independent.md#constitutional-contract-layer-c)
+- [Material Impact](../core_05-05_definitions_b_semi_independent.md#material-impact) · [O](../core_05-05_definitions_b_semi_independent.md#material-impact) · [E](../core_05-05_definitions_b_semi_independent.md#material-impact-e) · [C](../core_05-05_definitions_b_semi_independent.md#material-impact-c)
+- [Contestability](../core_05-05_definitions_b_semi_independent.md#contestability) · [O](../core_05-05_definitions_b_semi_independent.md#contestability) · [E](../core_05-05_definitions_b_semi_independent.md#contestability-e) · [C](../core_05-05_definitions_b_semi_independent.md#contestability-c)
+- [Reversibility](../core_05-05_definitions_a_independent.md#reversibility-constitutional) · [O](../core_05-05_definitions_a_independent.md#reversibility-constitutional) · [E](../core_05-05_definitions_a_independent.md#reversibility-constitutional-e) · [C](../core_05-05_definitions_a_independent.md#reversibility-constitutional-c)
+- [Auditability](../core_05-05_definitions_c_dependent_clusters.md#auditability) · [O](../core_05-05_definitions_c_dependent_clusters.md#auditability) · [E](../core_05-05_definitions_c_dependent_clusters.md#auditability-e) · [C](../core_05-05_definitions_c_dependent_clusters.md#auditability-c)
+
+</details>
+
+<br>
+
 Use this rule when participation or quorum rules affect materially binding outcomes within a standalone system, institution, forum, or bounded decision domain, or across more than one implementation file.
 
 Read it with:
@@ -73,6 +120,30 @@ Notification and pathway integrity
 ---
 
 ## CJS-5C.2 Implementation and cross-implementation comprehensibility and cognitive accessibility terms
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Upstream: [CJS-1.1](cjs_01_scope_purpose_boundary_interface.md#cjs-11-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.2](cjs_02_implementation_integration_map.md#cjs-22-topic-router-stable-ids) topic router; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
+- Downstream: this section's local operational requirements for **CJS-5C.2 Implementation and cross-implementation comprehensibility and cognitive accessibility terms**.
+- Read with: **PRIM2**.
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
+
+- [Accountability](../core_05-05_definitions_b_semi_independent.md#accountability) · [O](../core_05-05_definitions_b_semi_independent.md#accountability) · [E](../core_05-05_definitions_b_semi_independent.md#accountability-e) · [C](../core_05-05_definitions_b_semi_independent.md#accountability-c)
+- [Accessibility](../core_05-05_definitions_a_independent.md#accessibility-constitutional) · [O](../core_05-05_definitions_a_independent.md#accessibility-constitutional) · [E](../core_05-05_definitions_a_independent.md#accessibility-constitutional-e) · [C](../core_05-05_definitions_a_independent.md#accessibility-constitutional-c)
+- [Auditability](../core_05-05_definitions_c_dependent_clusters.md#auditability) · [O](../core_05-05_definitions_c_dependent_clusters.md#auditability) · [E](../core_05-05_definitions_c_dependent_clusters.md#auditability-e) · [C](../core_05-05_definitions_c_dependent_clusters.md#auditability-c)
+- [Transparency](../core_05-05_definitions_c_dependent_clusters.md#transparency) · [O](../core_05-05_definitions_c_dependent_clusters.md#transparency) · [E](../core_05-05_definitions_c_dependent_clusters.md#transparency-e) · [C](../core_05-05_definitions_c_dependent_clusters.md#transparency-c)
+- [Stakeholder](../core_05-05_definitions_b_semi_independent.md#stakeholder) · [O](../core_05-05_definitions_b_semi_independent.md#stakeholder) · [E](../core_05-05_definitions_b_semi_independent.md#stakeholder-e) · [C](../core_05-05_definitions_b_semi_independent.md#stakeholder-c)
+- [Dependency](../core_05-05_definitions_a_independent.md#dependency) · [O](../core_05-05_definitions_a_independent.md#dependency) · [E](../core_05-05_definitions_a_independent.md#dependency-e) · [C](../core_05-05_definitions_a_independent.md#dependency-c)
+- [Oversight](../core_05-05_definitions_a_independent.md#oversight-constitutional) · [O](../core_05-05_definitions_a_independent.md#oversight-constitutional) · [E](../core_05-05_definitions_a_independent.md#oversight-constitutional-e) · [C](../core_05-05_definitions_a_independent.md#oversight-constitutional-c)
+
+</details>
+
+<br>
+
 Use this rule when transparency, participation, auditability, or accountability depends on information being understandable within a standalone system, institution, forum, or bounded decision domain, or across implementation interfaces.
 
 Read it with:
@@ -127,6 +198,30 @@ Proportional application
 ---
 
 ## CJS-5C.3 Implementation and cross-implementation salience integrity and attention-allocation terms
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Upstream: [CJS-1.1](cjs_01_scope_purpose_boundary_interface.md#cjs-11-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.2](cjs_02_implementation_integration_map.md#cjs-22-topic-router-stable-ids) topic router; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
+- Downstream: this section's local operational requirements for **CJS-5C.3 Implementation and cross-implementation salience integrity and attention-allocation terms**.
+- Read with: **PRIM1**; **PRIM4**; **PRIM14**.
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
+
+- [Transparency](../core_05-05_definitions_c_dependent_clusters.md#transparency) · [O](../core_05-05_definitions_c_dependent_clusters.md#transparency) · [E](../core_05-05_definitions_c_dependent_clusters.md#transparency-e) · [C](../core_05-05_definitions_c_dependent_clusters.md#transparency-c)
+- [Oversight](../core_05-05_definitions_a_independent.md#oversight-constitutional) · [O](../core_05-05_definitions_a_independent.md#oversight-constitutional) · [E](../core_05-05_definitions_a_independent.md#oversight-constitutional-e) · [C](../core_05-05_definitions_a_independent.md#oversight-constitutional-c)
+- [Material](../core_05-05_definitions_b_semi_independent.md#material) · [O](../core_05-05_definitions_b_semi_independent.md#material) · [E](../core_05-05_definitions_b_semi_independent.md#material-e) · [C](../core_05-05_definitions_b_semi_independent.md#material-c)
+- [Sentient](../core_05-05_definitions_c_dependent_clusters.md#sentient-composite) · [O](../core_05-05_definitions_c_dependent_clusters.md#sentient-composite) · [E](../core_05-05_definitions_c_dependent_clusters.md#sentient-composite-e) · [C](../core_05-05_definitions_c_dependent_clusters.md#sentient-composite-c)
+- [Consent](../core_05-05_definitions_b_semi_independent.md#consent-constitutional) · [O](../core_05-05_definitions_b_semi_independent.md#consent-constitutional) · [E](../core_05-05_definitions_b_semi_independent.md#consent-constitutional-e) · [C](../core_05-05_definitions_b_semi_independent.md#consent-constitutional-c)
+- [System](../core_05-05_definitions_b_semi_independent.md#system-definition) · [O](../core_05-05_definitions_b_semi_independent.md#system-definition) · [E](../core_05-05_definitions_b_semi_independent.md#system-definition-e) · [C](../core_05-05_definitions_b_semi_independent.md#system-definition-c)
+- [Risk](../core_05-05_definitions_a_independent.md#risk) · [O](../core_05-05_definitions_a_independent.md#risk) · [E](../core_05-05_definitions_a_independent.md#risk-e) · [C](../core_05-05_definitions_a_independent.md#risk-c)
+
+</details>
+
+<br>
+
 Use this rule when a system decides what sentients see first, see often, see rarely, or do not see at all. This includes ranking, recommendation, filtering, search order, notifications, feeds, alerts, and other tools that steer attention.
 
 Read it with:
@@ -189,6 +284,30 @@ Proportional application
 ---
 
 ## CJS-5C.4 Implementation and cross-implementation disclosure sufficiency and observability terms
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Upstream: [CJS-1.1](cjs_01_scope_purpose_boundary_interface.md#cjs-11-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.2](cjs_02_implementation_integration_map.md#cjs-22-topic-router-stable-ids) topic router; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
+- Downstream: this section's local operational requirements for **CJS-5C.4 Implementation and cross-implementation disclosure sufficiency and observability terms**.
+- Read with: **PRIM4**; **PRIM5**.
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
+
+- [Accountability](../core_05-05_definitions_b_semi_independent.md#accountability) · [O](../core_05-05_definitions_b_semi_independent.md#accountability) · [E](../core_05-05_definitions_b_semi_independent.md#accountability-e) · [C](../core_05-05_definitions_b_semi_independent.md#accountability-c)
+- [Observability](../core_05-05_definitions_c_dependent_clusters.md#observability) · [O](../core_05-05_definitions_c_dependent_clusters.md#observability) · [E](../core_05-05_definitions_c_dependent_clusters.md#observability-e) · [C](../core_05-05_definitions_c_dependent_clusters.md#observability-c)
+- [Transparency](../core_05-05_definitions_c_dependent_clusters.md#transparency) · [O](../core_05-05_definitions_c_dependent_clusters.md#transparency) · [E](../core_05-05_definitions_c_dependent_clusters.md#transparency-e) · [C](../core_05-05_definitions_c_dependent_clusters.md#transparency-c)
+- [Dependency](../core_05-05_definitions_a_independent.md#dependency) · [O](../core_05-05_definitions_a_independent.md#dependency) · [E](../core_05-05_definitions_a_independent.md#dependency-e) · [C](../core_05-05_definitions_a_independent.md#dependency-c)
+- [Oversight](../core_05-05_definitions_a_independent.md#oversight-constitutional) · [O](../core_05-05_definitions_a_independent.md#oversight-constitutional) · [E](../core_05-05_definitions_a_independent.md#oversight-constitutional-e) · [C](../core_05-05_definitions_a_independent.md#oversight-constitutional-c)
+- [Material](../core_05-05_definitions_b_semi_independent.md#material) · [O](../core_05-05_definitions_b_semi_independent.md#material) · [E](../core_05-05_definitions_b_semi_independent.md#material-e) · [C](../core_05-05_definitions_b_semi_independent.md#material-c)
+- [Consent](../core_05-05_definitions_b_semi_independent.md#consent-constitutional) · [O](../core_05-05_definitions_b_semi_independent.md#consent-constitutional) · [E](../core_05-05_definitions_b_semi_independent.md#consent-constitutional-e) · [C](../core_05-05_definitions_b_semi_independent.md#consent-constitutional-c)
+
+</details>
+
+<br>
+
 Use this rule when informed participation, independent verification, or attribution depends on disclosure within a standalone system, institution, forum, or bounded decision domain, or across systems, dependencies, institutions, or implementation layers.
 
 Read it with:

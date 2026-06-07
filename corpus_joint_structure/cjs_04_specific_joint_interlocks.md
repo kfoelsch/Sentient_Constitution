@@ -1,10 +1,58 @@
 ## CJS-4: Specific joint interlocks and shared abstractions
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Upstream: [CJS-1.1](cjs_01_scope_purpose_boundary_interface.md#cjs-11-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.2](cjs_02_implementation_integration_map.md#cjs-22-topic-router-stable-ids) topic router; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
+- Downstream: [CJS-4.1 Mandatory hybrid authority composition (delegated binding bodies)](#cjs-41-mandatory-hybrid-authority-composition-delegated-binding-bodies); [CJS-4.2 Shared attachment and continuity mechanics](#cjs-42-shared-attachment-and-continuity-mechanics); [CJS-4.3 Implementation boundary (CP to CJS seam)](#cjs-43-implementation-boundary-cp-to-cjs-seam); [CJS-4.4 Cross-implementation trust integrity (joint operation model)](#cjs-44-cross-implementation-trust-integrity-joint-operation-model); [CJS-4.5 Definition collision and precedence discipline](#cjs-45-definition-collision-and-precedence-discipline); [CJS-4.6 Class-scaled lane staffing and competency redundancy](#cjs-46-class-scaled-lane-staffing-and-competency-redundancy) and related local subsections.
+- Read with: **CJS-4**; [CJS-2.2](cjs_02_implementation_integration_map.md#cjs-22-topic-router-stable-ids); **CJS-4.1**; [CJS-1.1](cjs_01_scope_purpose_boundary_interface.md#cjs-11-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; **CJS-4.2**; **CJS-4.3**.
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
+
+- [Trust Degradation and Misleading Reliance](../core_05-05_definitions_c_dependent_clusters.md#trust-degradation-and-misleading-reliance) · [O](../core_05-05_definitions_c_dependent_clusters.md#trust-degradation-and-misleading-reliance) · [E](../core_05-05_definitions_c_dependent_clusters.md#trust-degradation-and-misleading-reliance-e) · [C](../core_05-05_definitions_c_dependent_clusters.md#trust-degradation-and-misleading-reliance-c)
+- [Authority Stack and Internal Hierarchy](../core_05-05_definitions_c_dependent_clusters.md#authority-stack) · [O](../core_05-05_definitions_c_dependent_clusters.md#authority-stack) · [E](../core_05-05_definitions_c_dependent_clusters.md#authority-stack-e) · [C](../core_05-05_definitions_c_dependent_clusters.md#authority-stack-c)
+- [Adjudication and Dispute Resolution](../core_05-05_definitions_b_semi_independent.md#adjudication-and-dispute-resolution-constitutional) · [O](../core_05-05_definitions_b_semi_independent.md#adjudication-and-dispute-resolution-constitutional) · [E](../core_05-05_definitions_b_semi_independent.md#adjudication-and-dispute-resolution-constitutional-e) · [C](../core_05-05_definitions_b_semi_independent.md#adjudication-and-dispute-resolution-constitutional-c)
+- [Classification-Scaled Governance](../core_05-05_definitions_a_independent.md#classification-scaled-governance) · [O](../core_05-05_definitions_a_independent.md#classification-scaled-governance) · [E](../core_05-05_definitions_a_independent.md#classification-scaled-governance-e) · [C](../core_05-05_definitions_a_independent.md#classification-scaled-governance-c)
+- [Supremacy and Enforceability](../core_05-05_definitions_c_dependent_clusters.md#supremacy-and-enforceability) · [O](../core_05-05_definitions_c_dependent_clusters.md#supremacy-and-enforceability) · [E](../core_05-05_definitions_c_dependent_clusters.md#supremacy-and-enforceability-e) · [C](../core_05-05_definitions_c_dependent_clusters.md#supremacy-and-enforceability-c)
+- [Emergency and Contingency](../core_05-05_definitions_b_semi_independent.md#emergency-and-contingency-constitutional) · [O](../core_05-05_definitions_b_semi_independent.md#emergency-and-contingency-constitutional) · [E](../core_05-05_definitions_b_semi_independent.md#emergency-and-contingency-constitutional-e) · [C](../core_05-05_definitions_b_semi_independent.md#emergency-and-contingency-constitutional-c)
+- [Incentive Alignment](../core_05-05_definitions_a_independent.md#incentive-alignment) · [O](../core_05-05_definitions_a_independent.md#incentive-alignment) · [E](../core_05-05_definitions_a_independent.md#incentive-alignment-e) · [C](../core_05-05_definitions_a_independent.md#incentive-alignment-c)
+
+</details>
+
+<br>
+
 
 This file holds specific joint interlocks and shared abstractions, including delegated authority, implementation-label boundary discipline, trust-integrity routing, definition-collision handling, class-scaled lane staffing, and shared procedural abstractions.
 
 These rules sit between the general joint-compliance rules in [cjs_03_joint_structural_obligations.md](cjs_03_joint_structural_obligations.md) and the operational cluster library in [cjs_05_cross_implementation_operational_terms.md](cjs_05_cross_implementation_operational_terms.md). Owner detail remains in **CI** and **CF** as routed by **CJS-2.2**.
 
 ### CJS-4.1 Mandatory hybrid authority composition (delegated binding bodies)
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Upstream: [CJS-1.1](cjs_01_scope_purpose_boundary_interface.md#cjs-11-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.2](cjs_02_implementation_integration_map.md#cjs-22-topic-router-stable-ids) topic router; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
+- Downstream: this section's local operational requirements for **CJS-4.1 Mandatory hybrid authority composition (delegated binding bodies)**.
+- Read with: **CJS-4.1**.
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
+
+- [Corpus](../core_05-05_definitions_c_dependent_clusters.md#corpus) · [O](../core_05-05_definitions_c_dependent_clusters.md#corpus) · [E](../core_05-05_definitions_c_dependent_clusters.md#corpus-e) · [C](../core_05-05_definitions_c_dependent_clusters.md#corpus-c)
+- [System](../core_05-05_definitions_b_semi_independent.md#system-definition) · [O](../core_05-05_definitions_b_semi_independent.md#system-definition) · [E](../core_05-05_definitions_b_semi_independent.md#system-definition-e) · [C](../core_05-05_definitions_b_semi_independent.md#system-definition-c)
+- [Authority Stack and Internal Hierarchy](../core_05-05_definitions_c_dependent_clusters.md#authority-stack) · [O](../core_05-05_definitions_c_dependent_clusters.md#authority-stack) · [E](../core_05-05_definitions_c_dependent_clusters.md#authority-stack-e) · [C](../core_05-05_definitions_c_dependent_clusters.md#authority-stack-c)
+- [System Capture](../core_05-05_definitions_a_independent.md#system-capture) · [O](../core_05-05_definitions_a_independent.md#system-capture) · [E](../core_05-05_definitions_a_independent.md#system-capture-e) · [C](../core_05-05_definitions_a_independent.md#system-capture-c)
+- [Classification-Scaled Governance](../core_05-05_definitions_a_independent.md#classification-scaled-governance) · [O](../core_05-05_definitions_a_independent.md#classification-scaled-governance) · [E](../core_05-05_definitions_a_independent.md#classification-scaled-governance-e) · [C](../core_05-05_definitions_a_independent.md#classification-scaled-governance-c)
+- [Emergency and Contingency](../core_05-05_definitions_b_semi_independent.md#emergency-and-contingency-constitutional) · [O](../core_05-05_definitions_b_semi_independent.md#emergency-and-contingency-constitutional) · [E](../core_05-05_definitions_b_semi_independent.md#emergency-and-contingency-constitutional-e) · [C](../core_05-05_definitions_b_semi_independent.md#emergency-and-contingency-constitutional-c)
+- [Adjudication and Dispute Resolution](../core_05-05_definitions_b_semi_independent.md#adjudication-and-dispute-resolution-constitutional) · [O](../core_05-05_definitions_b_semi_independent.md#adjudication-and-dispute-resolution-constitutional) · [E](../core_05-05_definitions_b_semi_independent.md#adjudication-and-dispute-resolution-constitutional-e) · [C](../core_05-05_definitions_b_semi_independent.md#adjudication-and-dispute-resolution-constitutional-c)
+
+</details>
+
+<br>
+
 Use this rule for two hybrid-composition router topics: **CJS-R01**, delegated binding bodies and hybrid composition for non-forum institutions under **CI-9.1B**; and **CJS-R02**, forum chambers, divisions, and designated panels under **CF-2.5** through **CF-2.5.4**.
 
 Each covered body must use a published hybrid design that combines:
@@ -22,6 +70,25 @@ Where **CI** and **CF** overlap, the stricter clearly adopted rule governs.
 **Mandatory read-with:** **CI-9.1B.1** through **CI-9.1B.4**; **CF-2.5.1** through **CF-2.5.5** and **CF-11** as applicable; `corpus_systems.md` **Chapter S2 — System Classification and Handling** and **Chapter S3 — Critical System Stewardship** where classification changes the burden.
 
 ### CJS-4.2 Shared attachment and continuity mechanics
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Upstream: [CJS-1.1](cjs_01_scope_purpose_boundary_interface.md#cjs-11-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.2](cjs_02_implementation_integration_map.md#cjs-22-topic-router-stable-ids) topic router; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
+- Downstream: this section's local operational requirements for **CJS-4.2 Shared attachment and continuity mechanics**.
+- Read with: **CJS-4.2**; **CJS-4.1**.
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
+
+- [Emergency and Contingency](../core_05-05_definitions_b_semi_independent.md#emergency-and-contingency-constitutional) · [O](../core_05-05_definitions_b_semi_independent.md#emergency-and-contingency-constitutional) · [E](../core_05-05_definitions_b_semi_independent.md#emergency-and-contingency-constitutional-e) · [C](../core_05-05_definitions_b_semi_independent.md#emergency-and-contingency-constitutional-c)
+- [Adjudication and Dispute Resolution](../core_05-05_definitions_b_semi_independent.md#adjudication-and-dispute-resolution-constitutional) · [O](../core_05-05_definitions_b_semi_independent.md#adjudication-and-dispute-resolution-constitutional) · [E](../core_05-05_definitions_b_semi_independent.md#adjudication-and-dispute-resolution-constitutional-e) · [C](../core_05-05_definitions_b_semi_independent.md#adjudication-and-dispute-resolution-constitutional-c)
+
+</details>
+
+<br>
+
 Where **CJS-4.1** applies, the instrument must publish:
 - a bounded formula for rotating attachment that rotating authorities can understand before service;
 - no undefined discretion over how long rotating attachment lasts;
@@ -31,6 +98,26 @@ Where **CJS-4.1** applies, the instrument must publish:
 Sample formulas are illustrative unless a domain owner makes them mandatory. Home-based term rules do not need to mirror rotating attachment rules.
 
 ### CJS-4.3 Implementation boundary (CP to CJS seam)
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Upstream: [CJS-1.1](cjs_01_scope_purpose_boundary_interface.md#cjs-11-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.2](cjs_02_implementation_integration_map.md#cjs-22-topic-router-stable-ids) topic router; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
+- Downstream: this section's local operational requirements for **CJS-4.3 Implementation boundary (CP to CJS seam)**.
+- Read with: **CJS-4.3**; **CJS-1.3**; **CJS-3.6**.
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
+
+- [Corpus](../core_05-05_definitions_c_dependent_clusters.md#corpus) · [O](../core_05-05_definitions_c_dependent_clusters.md#corpus) · [E](../core_05-05_definitions_c_dependent_clusters.md#corpus-e) · [C](../core_05-05_definitions_c_dependent_clusters.md#corpus-c)
+- [Authority Stack and Internal Hierarchy](../core_05-05_definitions_c_dependent_clusters.md#authority-stack) · [O](../core_05-05_definitions_c_dependent_clusters.md#authority-stack) · [E](../core_05-05_definitions_c_dependent_clusters.md#authority-stack-e) · [C](../core_05-05_definitions_c_dependent_clusters.md#authority-stack-c)
+- [Supremacy and Enforceability](../core_05-05_definitions_c_dependent_clusters.md#supremacy-and-enforceability) · [O](../core_05-05_definitions_c_dependent_clusters.md#supremacy-and-enforceability) · [E](../core_05-05_definitions_c_dependent_clusters.md#supremacy-and-enforceability-e) · [C](../core_05-05_definitions_c_dependent_clusters.md#supremacy-and-enforceability-c)
+
+</details>
+
+<br>
+
 Under the shared boundary in **CJS-1.3**, the CJS implementation-group files remain the operative home for their local implementation labels.
 
 When revising **CP** implementation text:
@@ -39,6 +126,30 @@ When revising **CP** implementation text:
 - preserve **PRIM** and **PROT** labels so citations remain traceable under **CJS-3.6**.
 
 ### CJS-4.4 Cross-implementation trust integrity (joint operation model)
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Upstream: [CJS-1.1](cjs_01_scope_purpose_boundary_interface.md#cjs-11-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.2](cjs_02_implementation_integration_map.md#cjs-22-topic-router-stable-ids) topic router; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
+- Downstream: this section's local operational requirements for **CJS-4.4 Cross-implementation trust integrity (joint operation model)**.
+- Read with: **CJS-4.4**; **CJS-3.2**; **CJS-3.5**; **CJS-3.6**.
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
+
+- [Trust Degradation and Misleading Reliance](../core_05-05_definitions_c_dependent_clusters.md#trust-degradation-and-misleading-reliance) · [O](../core_05-05_definitions_c_dependent_clusters.md#trust-degradation-and-misleading-reliance) · [E](../core_05-05_definitions_c_dependent_clusters.md#trust-degradation-and-misleading-reliance-e) · [C](../core_05-05_definitions_c_dependent_clusters.md#trust-degradation-and-misleading-reliance-c)
+- [Trustworthiness](../core_05-05_definitions_c_dependent_clusters.md#trustworthiness) · [O](../core_05-05_definitions_c_dependent_clusters.md#trustworthiness) · [E](../core_05-05_definitions_c_dependent_clusters.md#trustworthiness-e) · [C](../core_05-05_definitions_c_dependent_clusters.md#trustworthiness-c)
+- [Dependency](../core_05-05_definitions_a_independent.md#dependency) · [O](../core_05-05_definitions_a_independent.md#dependency) · [E](../core_05-05_definitions_a_independent.md#dependency-e) · [C](../core_05-05_definitions_a_independent.md#dependency-c)
+- [System](../core_05-05_definitions_b_semi_independent.md#system-definition) · [O](../core_05-05_definitions_b_semi_independent.md#system-definition) · [E](../core_05-05_definitions_b_semi_independent.md#system-definition-e) · [C](../core_05-05_definitions_b_semi_independent.md#system-definition-c)
+- [Trust](../core_05-05_definitions_c_dependent_clusters.md#trust) · [O](../core_05-05_definitions_c_dependent_clusters.md#trust) · [E](../core_05-05_definitions_c_dependent_clusters.md#trust-e) · [C](../core_05-05_definitions_c_dependent_clusters.md#trust-c)
+- [Incentive Alignment](../core_05-05_definitions_a_independent.md#incentive-alignment) · [O](../core_05-05_definitions_a_independent.md#incentive-alignment) · [E](../core_05-05_definitions_a_independent.md#incentive-alignment-e) · [C](../core_05-05_definitions_a_independent.md#incentive-alignment-c)
+- [Auditability](../core_05-05_definitions_c_dependent_clusters.md#auditability) · [O](../core_05-05_definitions_c_dependent_clusters.md#auditability) · [E](../core_05-05_definitions_c_dependent_clusters.md#auditability-e) · [C](../core_05-05_definitions_c_dependent_clusters.md#auditability-c)
+
+</details>
+
+<br>
+
 Use this rule for **CJS-R17**, cross-implementation trust integrity, and for any trust claim that depends on more than one system, institution, dependency, or implementation layer working together.
 
 The meanings of **Trust**, **Trustworthiness**, and **Trust Degradation and Misleading Reliance** remain in `core_05-05_definitions_c_dependent_clusters.md` **Chapter Five, section 3.39**. This subsection only explains the joint-operation duties.
@@ -53,6 +164,27 @@ Where trust depends on multiple systems, institutions, dependencies, or implemen
 Trust claims must remain consistent with **CJS-3.2**, **CJS-3.5 — Classification alignment for supervised scope**, and **CJS-3.6**.
 
 ### CJS-4.5 Definition collision and precedence discipline
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Upstream: [CJS-1.1](cjs_01_scope_purpose_boundary_interface.md#cjs-11-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.2](cjs_02_implementation_integration_map.md#cjs-22-topic-router-stable-ids) topic router; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
+- Downstream: this section's local operational requirements for **CJS-4.5 Definition collision and precedence discipline**.
+- Read with: **CJS-4.5**; [CJS-2.2](cjs_02_implementation_integration_map.md#cjs-22-topic-router-stable-ids); **CJS-2.3**.
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
+
+- [Sentient](../core_05-05_definitions_c_dependent_clusters.md#sentient-composite) · [O](../core_05-05_definitions_c_dependent_clusters.md#sentient-composite) · [E](../core_05-05_definitions_c_dependent_clusters.md#sentient-composite-e) · [C](../core_05-05_definitions_c_dependent_clusters.md#sentient-composite-c)
+- [Authority Stack and Internal Hierarchy](../core_05-05_definitions_c_dependent_clusters.md#authority-stack) · [O](../core_05-05_definitions_c_dependent_clusters.md#authority-stack) · [E](../core_05-05_definitions_c_dependent_clusters.md#authority-stack-e) · [C](../core_05-05_definitions_c_dependent_clusters.md#authority-stack-c)
+- [Adjudication and Dispute Resolution](../core_05-05_definitions_b_semi_independent.md#adjudication-and-dispute-resolution-constitutional) · [O](../core_05-05_definitions_b_semi_independent.md#adjudication-and-dispute-resolution-constitutional) · [E](../core_05-05_definitions_b_semi_independent.md#adjudication-and-dispute-resolution-constitutional-e) · [C](../core_05-05_definitions_b_semi_independent.md#adjudication-and-dispute-resolution-constitutional-c)
+- [Procedural Fairness](../core_05-05_definitions_b_semi_independent.md#procedural-fairness-constitutional) · [O](../core_05-05_definitions_b_semi_independent.md#procedural-fairness-constitutional) · [E](../core_05-05_definitions_b_semi_independent.md#procedural-fairness-constitutional-e) · [C](../core_05-05_definitions_b_semi_independent.md#procedural-fairness-constitutional-c)
+
+</details>
+
+<br>
+
 When CJS text seems to conflict with a domain-owner section, start with a simple question: is the CJS text only helping readers connect files, trigger a joint rule, or use shorthand inside one subsection?
 
 If yes, it does not replace the owner's meaning.
@@ -67,6 +199,30 @@ Use this order:
 Do not use a broad reading of CJS to change, shrink, expand, or move a rule that belongs to a canonical owner. If the conflict is still unclear after applying this order, do not treat the broader reading as controlling. Send the question to the canonical owner, including the forum owner in **CF** where forum routing, forum authority, or Chapter Nine procedure is affected, and update the CJS pointer once the owner clarifies it.
 
 ### CJS-4.6 Class-scaled lane staffing and competency redundancy
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Upstream: [CJS-1.1](cjs_01_scope_purpose_boundary_interface.md#cjs-11-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.2](cjs_02_implementation_integration_map.md#cjs-22-topic-router-stable-ids) topic router; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
+- Downstream: this section's local operational requirements for **CJS-4.6 Class-scaled lane staffing and competency redundancy**.
+- Read with: **CJS-4.6**; **CJS-5.0**.
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
+
+- [Competency Gate](../core_05-05_definitions_c_dependent_clusters.md#competency-gate) · [O](../core_05-05_definitions_c_dependent_clusters.md#competency-gate) · [E](../core_05-05_definitions_c_dependent_clusters.md#competency-gate-e) · [C](../core_05-05_definitions_c_dependent_clusters.md#competency-gate-c)
+- [Governance](../core_05-05_definitions_b_semi_independent.md#governance) · [O](../core_05-05_definitions_b_semi_independent.md#governance) · [E](../core_05-05_definitions_b_semi_independent.md#governance-e) · [C](../core_05-05_definitions_b_semi_independent.md#governance-c)
+- [Sentient](../core_05-05_definitions_c_dependent_clusters.md#sentient-composite) · [O](../core_05-05_definitions_c_dependent_clusters.md#sentient-composite) · [E](../core_05-05_definitions_c_dependent_clusters.md#sentient-composite-e) · [C](../core_05-05_definitions_c_dependent_clusters.md#sentient-composite-c)
+- [Corpus](../core_05-05_definitions_c_dependent_clusters.md#corpus) · [O](../core_05-05_definitions_c_dependent_clusters.md#corpus) · [E](../core_05-05_definitions_c_dependent_clusters.md#corpus-e) · [C](../core_05-05_definitions_c_dependent_clusters.md#corpus-c)
+- [System](../core_05-05_definitions_b_semi_independent.md#system-definition) · [O](../core_05-05_definitions_b_semi_independent.md#system-definition) · [E](../core_05-05_definitions_b_semi_independent.md#system-definition-e) · [C](../core_05-05_definitions_b_semi_independent.md#system-definition-c)
+- [System Capture](../core_05-05_definitions_a_independent.md#system-capture) · [O](../core_05-05_definitions_a_independent.md#system-capture) · [E](../core_05-05_definitions_a_independent.md#system-capture-e) · [C](../core_05-05_definitions_a_independent.md#system-capture-c)
+- [Classification-Scaled Governance](../core_05-05_definitions_a_independent.md#classification-scaled-governance) · [O](../core_05-05_definitions_a_independent.md#classification-scaled-governance) · [E](../core_05-05_definitions_a_independent.md#classification-scaled-governance-e) · [C](../core_05-05_definitions_a_independent.md#classification-scaled-governance-c)
+
+</details>
+
+<br>
+
 Use this rule for **CJS-R18**, class-scaled lane staffing and competency redundancy for materially binding stewardship. It covers roles with materially binding effect under **Chapter Ten**, section **5**, where `corpus_systems.md` **Chapter S2 — System Classification and Handling** or **Chapter S3 — Critical System Stewardship** scales the burden.
 
 Before applying role, role-holder, stewardship, operator, accountable-role, or lane terms in this subsection, apply **CJS-5.0** and the **Chapter Seven**, section **1.2** competency gate interface.
@@ -83,6 +239,30 @@ Staffing must be real, not just numerical. Responsibility cannot be spread so th
 The constitutional floor remains in `core_11-11_governance.md` **Chapter Eleven**, section **5**. Domain detail remains in **CI-2**, **CI-4**, **CI-11**, **CI-12**, and `corpus_systems.md` **Chapter S2 — System Classification and Handling** and **Chapter S3 — Critical System Stewardship**.
 
 ### CJS-4.7 Shared procedural abstractions for delegated bodies and forum routing
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Upstream: [CJS-1.1](cjs_01_scope_purpose_boundary_interface.md#cjs-11-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.2](cjs_02_implementation_integration_map.md#cjs-22-topic-router-stable-ids) topic router; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
+- Downstream: this section's local operational requirements for **CJS-4.7 Shared procedural abstractions for delegated bodies and forum routing**.
+- Read with: **CJS-4.7**; **CJS-5.0**.
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
+
+- [Competency Gate](../core_05-05_definitions_c_dependent_clusters.md#competency-gate) · [O](../core_05-05_definitions_c_dependent_clusters.md#competency-gate) · [E](../core_05-05_definitions_c_dependent_clusters.md#competency-gate-e) · [C](../core_05-05_definitions_c_dependent_clusters.md#competency-gate-c)
+- [Contestability](../core_05-05_definitions_b_semi_independent.md#contestability) · [O](../core_05-05_definitions_b_semi_independent.md#contestability) · [E](../core_05-05_definitions_b_semi_independent.md#contestability-e) · [C](../core_05-05_definitions_b_semi_independent.md#contestability-c)
+- [Material](../core_05-05_definitions_b_semi_independent.md#material) · [O](../core_05-05_definitions_b_semi_independent.md#material) · [E](../core_05-05_definitions_b_semi_independent.md#material-e) · [C](../core_05-05_definitions_b_semi_independent.md#material-c)
+- [Sentient](../core_05-05_definitions_c_dependent_clusters.md#sentient-composite) · [O](../core_05-05_definitions_c_dependent_clusters.md#sentient-composite) · [E](../core_05-05_definitions_c_dependent_clusters.md#sentient-composite-e) · [C](../core_05-05_definitions_c_dependent_clusters.md#sentient-composite-c)
+- [Corpus](../core_05-05_definitions_c_dependent_clusters.md#corpus) · [O](../core_05-05_definitions_c_dependent_clusters.md#corpus) · [E](../core_05-05_definitions_c_dependent_clusters.md#corpus-e) · [C](../core_05-05_definitions_c_dependent_clusters.md#corpus-c)
+- [Auditability](../core_05-05_definitions_c_dependent_clusters.md#auditability) · [O](../core_05-05_definitions_c_dependent_clusters.md#auditability) · [E](../core_05-05_definitions_c_dependent_clusters.md#auditability-e) · [C](../core_05-05_definitions_c_dependent_clusters.md#auditability-c)
+- [Authority Stack and Internal Hierarchy](../core_05-05_definitions_c_dependent_clusters.md#authority-stack) · [O](../core_05-05_definitions_c_dependent_clusters.md#authority-stack) · [E](../core_05-05_definitions_c_dependent_clusters.md#authority-stack-e) · [C](../core_05-05_definitions_c_dependent_clusters.md#authority-stack-c)
+
+</details>
+
+<br>
+
 This subsection gives shared CJS terms for four procedural router topics: **CJS-R01** delegated binding bodies, **CJS-R02** forum chambers and panels, **CJS-R03** lawful panel formation and recusal, and **CJS-R04** routing, intake, transfer, certification, and representative treatment. Apply the operational evaluation terms in **CJS-5A.6**. This subsection does not replace **CI** or **CF** detail.
 
 Before applying these procedural role terms, apply the role-definition preface in **CJS-5.0**, including the competency gate and standing interface.
