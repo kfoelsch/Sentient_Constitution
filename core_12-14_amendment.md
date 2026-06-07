@@ -486,7 +486,7 @@ Rights-affecting amendments and authority-structure amendments do not take irrev
 
 - Upstream: [§3](#3-validity-floor-rule)–[§8](#8-provisional-effect-rule) validity and timing rules.
 - Downstream: Referral-style obligations in operative bullets route per [Chapter Twelve §4](core_12-14_amendment.md#4-scope-limit-and-layer-discipline) scope limit.
-- Read with: [Chapter Nine](core_09-09_forum.md#chapter-nine-forums-and-jurisdiction) forum-family and jurisdiction routing where invalidity determinations implicate tribunal role.
+- Read with: [Chapter Nine](core_09-09_forum.md#chapter-nine-forums-and-jurisdiction) forum-family and jurisdiction routing where invalidity determinations implicate forum role.
 
 </details>
 

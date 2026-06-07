@@ -32,7 +32,7 @@ This section applies when ordinary forum operation is materially impaired by:
 - emergency conditions;
 - incapacity of key personnel;
 - inability to form lawful panels;
-- deadlock across tribunal bodies;
+- deadlock across adjudicative bodies;
 - capture or compromise indicators;
 - network or infrastructure disruption that impairs constitutional adjudication.
 
@@ -99,7 +99,7 @@ Emergency simplification must not become a pretext to extinguish contestability.
 
 <br>
 
-Each adopting system must publish at least these forum continuity modes:
+Each adopting entity must publish at least these forum continuity modes:
 - `Normal`
 - `Degraded`
 - `Emergency limited-capacity`
@@ -208,7 +208,7 @@ In any degraded or emergency mode, the system must preserve at minimum:
 
 <br>
 
-Where capacity is insufficient for normal operations, tribunals must prioritize:
+Where capacity is insufficient for normal operations, forums must prioritize:
 - matters involving imminent loss of life or irreversible harm;
 - [Evidence Preservation](../core_05-05_definitions_c_dependent_clusters.md#evidence-preservation) needs likely to become impossible if delayed;
 - detention, seizure, exclusion, or comparable coercive measures needing prompt review;
@@ -411,7 +411,7 @@ Continuation beyond the published window requires reasoned reauthorization.
 
 <br>
 
-If the emergency condition includes credible capture, concealment, or compromise within the ordinary tribunal chain, continuity operation must:
+If the emergency condition includes credible capture, concealment, or compromise within the ordinary forum chain, continuity operation must:
 - avoid leaving sole control in the compromised chain;
 - use backup-forum and contest-integrity mechanisms where feasible;
 - preserve independent record review;

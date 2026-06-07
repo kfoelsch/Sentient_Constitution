@@ -50,7 +50,7 @@ Shared preamble contract: apply `corpus_joint_structure.md` **CJS-1.1**.
 
 
 - **CF-1** — Scope, authority, and boundary rules
-- **CF-2** — Forum formation, tribunal mapping, chambers, and minimum bench availability
+- **CF-2** — Forum formation, forum-structure mapping, chambers, and minimum bench availability
 - **CF-3** — Panel formation, disclosure, recusal, and lawful bench constitution
 - **CF-4** — Routing operations, intake, transfer, certification, and representative treatment
 - **CF-5** — Appeal, secondary review, and exhaustion pathways (**CF-5.1** disposition effect codes **CF-5.1.101**–**CF-5.1.104**)

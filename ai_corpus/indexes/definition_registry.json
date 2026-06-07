@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/definition_registry.schema.json",
-  "generated_at": "2026-06-07T10:24:26+00:00",
+  "generated_at": "2026-06-07T14:50:17+00:00",
   "source": "authoritative Chapter Five core files",
   "definition_count": 200,
   "definitions": [

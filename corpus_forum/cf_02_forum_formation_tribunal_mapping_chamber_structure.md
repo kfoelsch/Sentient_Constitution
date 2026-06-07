@@ -1,9 +1,9 @@
-## CF-2: Forum formation, tribunal mapping, and chamber structure
+## CF-2: Forum formation, forum-structure mapping, and chamber structure
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [CJS-1.1](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-11-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.2](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-22-topic-router-stable-ids) topic router; [Chapter Nine](../core_09-09_forum.md#chapter-nine-forums-and-jurisdiction) forum-family routing; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
-- Downstream: [CF-2.1 Core structural rule](#cf-21-core-structural-rule); [CF-2.2 Family-to-tribunal translation map](#cf-22-family-to-tribunal-translation-map); [CF-2.3 Family distinction and non-collapse rule](#cf-23-family-distinction-and-non-collapse-rule).
+- Downstream: [CF-2.1 Core structural rule](#cf-21-core-structural-rule); [CF-2.2 Family-to-forum-structure translation map](#cf-22-family-to-forum-structure-translation-map); [CF-2.3 Family distinction and non-collapse rule](#cf-23-family-distinction-and-non-collapse-rule).
 - Read with: **CF-2**; **CF-4**; **CF-13**; **CF-3**; **CF-10**; **CF-11**; **CF-2.1**.
 
 </details>
@@ -24,12 +24,12 @@
 <br>
 
 
-This section governs how adopting systems convert the forum families recognized in `core_09-09_forum.md` **Chapter Nine** into actual tribunals, benches, chambers, and support structures.
+This section governs how adopting entities convert the forum families recognized in `core_09-09_forum.md` **Chapter Nine** into actual adjudicative bodies, benches, chambers, and support structures.
 
 **Joint read:** for delegated-body and chamber overlap across institutions and forums, **`corpus_joint_structure.md` CJS-2.2** rows **CJS-R01**–**CJS-R02**, **CJS-3.4**, and **CJS-4.1**.
 
 It sets structural requirements for:
-- tribunal mapping and public adjudicative architecture;
+- forum-structure mapping and public adjudicative architecture;
 - minimum availability of adjudicators and support sufficient to form lawful panels and preserve traceability;
 - chamber specialization and anti-collapse limits.
 
@@ -62,20 +62,20 @@ This section does not itself govern panel assignment, recusal, lawful bench form
 
 <br>
 
-Every adopting system must establish and maintain a published forum structure that:
+Every adopting entity must establish and maintain a published forum structure that:
 - gives operational effect to each forum family required by `core_09-09_forum.md` **Chapter Nine**;
 - makes family boundaries intelligible to filers, affected parties, and review bodies;
-- preserves independence, contestability, and traceability in actual tribunal design rather than by labels alone;
+- preserves independence, contestability, and traceability in actual forum design rather than by labels alone;
 - maintains enough qualified personnel and, as specified in **CF-13**, reserve and substitute capacity to keep the forum families functional in ordinary and stress conditions.
 
-**Practical flexibility:** Local forum names, internal organization, and administrative detail may differ from any model structure, as long as filers and review bodies can still see and use **each** forum family Chapter Eight requires—separate intake, panels where applicable, and appeal or review paths that match that family's role. **What is not allowed:** satisfying the rule only on paper—by renaming tribunals, redrawing chamber lines, or similar cosmetic moves—if the real effect is to merge or erase boundaries between families that the constitution treats as distinct.
+**Practical flexibility:** Local forum names, internal organization, and administrative detail may differ from any model structure, as long as filers and review bodies can still see and use **each** forum family Chapter Eight requires—separate intake, panels where applicable, and appeal or review paths that match that family's role. **What is not allowed:** satisfying the rule only on paper—by renaming adjudicative bodies, redrawing chamber lines, or similar cosmetic moves—if the real effect is to merge or erase boundaries between families that the constitution treats as distinct.
 
-### CF-2.2 Family-to-tribunal translation map
+### CF-2.2 Family-to-forum-structure translation map
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [CJS-1.1](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-11-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.2](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-22-topic-router-stable-ids) topic router; [Chapter Nine](../core_09-09_forum.md#chapter-nine-forums-and-jurisdiction) forum-family routing; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
-- Downstream: this section's local operational requirements for **CF-2.2 Family-to-tribunal translation map**.
+- Downstream: this section's local operational requirements for **CF-2.2 Family-to-forum-structure translation map**.
 - Read with: **CF-2.2**; **CF-4.2**.
 
 </details>
@@ -95,14 +95,14 @@ Every adopting system must establish and maintain a published forum structure th
 
 <br>
 
-Each adopting system must publish a forum-structure map that states, in plain language:
-- which tribunal or set of tribunals performs the work of each constitutional forum family;
-- whether each family is organized as a single standing tribunal, multiple regional tribunals, a tiered set of tribunals, or another lawful arrangement;
+Each adopting entity must publish a forum-structure map that states, in plain language:
+- which forum, bench, panel, or set of adjudicative bodies performs the work of each constitutional forum family;
+- whether each family is organized as a single standing forum, multiple regional forums, a tiered set of forums, or another lawful arrangement;
 - which chambers, divisions, or designated panels exist within each family;
-- which matters are routed directly to a family-level tribunal and which may begin in a chamber or lower-level bench;
-- how each family's published intake priority classes and **intake triage body** (or equivalent under **CF-4.2**) connect initial filings to tribunals, chambers, or benches;
+- which matters are routed directly to a family-level forum and which may begin in a chamber or lower-level bench;
+- how each family's published intake priority classes and **intake triage body** (or equivalent under **CF-4.2**) connect initial filings to forums, chambers, or benches;
 - the appeal or review path for each family and chamber configuration;
-- the backup or fallback tribunal used when an ordinary forum cannot lawfully act.
+- the backup or fallback forum used when an ordinary forum cannot lawfully act.
 
 The map must be current, publicly accessible, and cross-referenced to the primary-stakes routing rules in `core_09-09_forum.md` **Chapter Nine**.
 
@@ -174,7 +174,7 @@ Each required forum family must maintain, at minimum:
 - access to translation, accessibility, and public-notice support where needed for meaningful use;
 - access to independent forensic, analytical, or technical support where that family's ordinary workload foreseeably requires it.
 
-No family may exist only on paper. If a family's work is assigned to a broader judiciary, the adopting system must still identify the concrete tribunals, benches, or judicial officers responsible for that family's functions.
+No family may exist only on paper. If a family's work is assigned to a broader judiciary, the adopting entity must still identify the concrete forums, benches, or judicial officers responsible for that family's functions.
 
 ### CF-2.5 Chamber formation and limits
 <details>
@@ -376,7 +376,7 @@ Specialist chambers must:
 - preserve generalist participation or review where exclusive specialist control would create capture or methodological monoculture;
 - coordinate with **CF-9** where the chamber exercises technical-forum functions.
 
-Specialization must add competence without creating an insulated guild tribunal.
+Specialization must add competence without creating an insulated guild-like adjudicative body.
 
 ---
 

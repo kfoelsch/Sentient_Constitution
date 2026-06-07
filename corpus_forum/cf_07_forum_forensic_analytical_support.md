@@ -26,7 +26,7 @@
 
 Where institutions operate or support **forum** families under `core_09-09_forum.md` **Chapter Nine**, they must maintain or provide access to **independent forensic and analytical capacity**. That capacity must be sufficient for disputes involving **material uncertainty**, **technical opacity**, **restricted evidence**, or **causal complexity**.
 
-**Purpose.** Support reliable adjudication by preserving, reconstructing, testing, and explaining relevant evidence where ordinary party presentation, audit records, or judicial notice are materially insufficient, without converting support personnel into a second merits tribunal.
+**Purpose.** Support reliable adjudication by preserving, reconstructing, testing, and explaining relevant evidence where ordinary party presentation, audit records, or judicial notice are materially insufficient, without converting support personnel into a second merits forum.
 
 **Triggers.** Use of this capacity must be available where one or more of the following are materially present:
 - uncertainty that could alter outcome or remedy,
@@ -35,7 +35,7 @@ Where institutions operate or support **forum** families under `core_09-09_forum
 - suspected concealment, tampering, or chain-of-custody failure,
 - cross-system or cross-institution evidence dependencies.
 
-**Roles and limits.** Titles may include **forum inspector**, **forensic analyst**, **special master**, or equivalent. These functions may gather, preserve, reconstruct, test, and explain evidence within a **published** or **reasoned** scope order. They must **not** impose sanctions, decide liability, make final credibility determinations reserved to the tribunal, or issue binding merits rulings unless a separate lawful role independently authorizes that action.
+**Roles and limits.** Titles may include **forum inspector**, **forensic analyst**, **special master**, or equivalent. These functions may gather, preserve, reconstruct, test, and explain evidence within a **published** or **reasoned** scope order. They must **not** impose sanctions, decide liability, make final credibility determinations reserved to the forum, or issue binding merits rulings unless a separate lawful role independently authorizes that action.
 
 **Independence and contestability.** Appointment, conflict disclosure, recusal, and challenge pathways must satisfy `corpus_institutions.md` **CI-4**, **CI-5**, and `core_09-09_forum.md` **Chapter Nine**. Parties materially affected must have a meaningful opportunity, consistent with lawful restrictions, to contest scope, methods, assumptions, qualifications, and conclusions. Exculpatory, mitigating, and inculpatory evidence must be preserved under the same good-faith standard.
 

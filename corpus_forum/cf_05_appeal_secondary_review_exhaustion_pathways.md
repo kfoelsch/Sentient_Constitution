@@ -60,13 +60,13 @@ This section governs:
 
 **Usage.** Adopting instruments should classify dispositions that materially affect later panels, institutions, or multi-party systems using the **corpus-local numeric codes** in this subsection. Each code states **how far a disposition travels** as a horizontal or vertical stabilizer. These labels are **not** CJS-5 operational cluster labels, **not** data-type or system-class labels from `corpus_systems.md` (**Chapter S1–S3** or successor numbering), and **not** institutional **CI-** anchors from `corpus_institutions.md`; they apply only to **forum disposition effect** documentation and review routing.
 
-**CF-5.1.101 — Party-bound effect.** The determination binds the parties before the tribunal on the issues decided, including ordinary **issue preclusion** effects adopting law assigns, but does **not** by itself establish a published rule for unrelated matters. This is the default classification for routine inter-partes outcomes unless the record states another **CF-5.1** code with broader reach.
+**CF-5.1.101 — Party-bound effect.** The determination binds the parties before the forum on the issues decided, including ordinary **issue preclusion** effects adopting law assigns, but does **not** by itself establish a published rule for unrelated matters. This is the default classification for routine inter-partes outcomes unless the record states another **CF-5.1** code with broader reach.
 
 **CF-5.1.102 — Scope-anchored effect.** The determination binds or governs a **class**, **subclass**, **common practice**, **common decision rule**, or comparable **shared** stake, including representative proceedings authorized under `core_09-09_forum.md` **Chapter Nine**, **section 6** (*Scope expansion and representative treatment*). **High-impact, Rights-Floor, constitutional, or structurally precedential** determinations referenced in the **Minimum lane structure** rule in this section ordinarily carry at least **CF-5.1.102** when they materially extend beyond the named parties in the caption.
 
 **CF-5.1.103 — Published panel-rule effect.** The determination publishes an **intra-family** (or expressly stated **cross-family**) rule, threshold placement, or disposition pattern that other **lawful merits panels** in the same adopting system must treat as **presumptive** until **reasoned departure** on a reviewable record, consistent with **meaningfully independent** review where **CF-5** requires it and with panel-formation discipline in **CF-3**. Departure mechanics must be **published**; unexplained inconsistency across panels in the same class of dispute is presumptively non-compliant unless a **published coordination rule** explains the divergence.
 
-**CF-5.1.104 — Technical shared-standard effect.** The operative stabilizer is a **shared technical or expert-evidence standard** maintained or recognized under **CF-9**, including the **Departure and variance rule** and **Cross-jurisdiction recognition presumption** in that section. Use **CF-5.1.104** when the binding or presumptive force runs through technical standard architecture rather than through a general **CF-5.1.103** panel rule alone. Lead tribunals may still state **CF-5.1.103** concurrently when they publish a non-technical disposition pattern that depends on a **CF-9** standard.
+**CF-5.1.104 — Technical shared-standard effect.** The operative stabilizer is a **shared technical or expert-evidence standard** maintained or recognized under **CF-9**, including the **Departure and variance rule** and **Cross-jurisdiction recognition presumption** in that section. Use **CF-5.1.104** when the binding or presumptive force runs through technical standard architecture rather than through a general **CF-5.1.103** panel rule alone. Lead forums may still state **CF-5.1.103** concurrently when they publish a non-technical disposition pattern that depends on a **CF-9** standard.
 
 **Recordkeeping.** Where a disposition carries **CF-5.1.102**, **CF-5.1.103**, or **CF-5.1.104**, the attributable record must identify the code(s), the **population or panel scope** covered, any **sunset or review cadence**, and the **published path** for challenge, certification, appeal, or standards reconsideration, consistent with **Rights-collision records** elsewhere in this section where applicable.
 
@@ -85,13 +85,13 @@ This section governs:
 - structural conflict, capture, or recusal concerns;
 - sanctions or exclusions whose practical effect extends beyond a minor and rapidly reversible interval.
 
-**Emergency review lanes.** Tribunals must maintain a route for interim review on a time scale proportionate to imminent harm. Temporary orders entered before full review must remain contestable, time-limited, and followed by fuller lawful review as soon as feasible.
+**Emergency review lanes.** Forums must maintain a route for interim review on a time scale proportionate to imminent harm. Temporary orders entered before full review must remain contestable, time-limited, and followed by fuller lawful review as soon as feasible.
 
 **Exhaustion and direct access.** Where adopting law uses both exhaustion and direct-access routes, exhaustion rules must not be used to defeat timely remedy, to shield structural or constitutional error from review, or to trap parties in a forum that lacks lawful authority to give the needed relief. Direct access must remain available where delay would materially jeopardize rights, evidence, independence, or practical restoration.
 
 **Review windows.** Published filing and resolution windows must scale with urgency, impact, dependency, and reversibility. Emergency matters should be measured in hours or a small number of days, not weeks. Ordinary matters may use longer windows, but not so long that review predictably loses practical value.
 
-**Rights-collision records.** Where a tribunal sustains, imposes, or reviews a material restriction because constitutional rights, protections, or structural duties are in tension, the record must identify:
+**Rights-collision records.** Where a forum sustains, imposes, or reviews a material restriction because constitutional rights, protections, or structural duties are in tension, the record must identify:
 - the rights, constraints, or protections in tension;
 - affected parties or populations and the relevant dependency or impact paths;
 - materially feasible alternatives, including no-action where relevant;
@@ -101,7 +101,7 @@ This section governs:
 
 An incomplete record on a materially rights-collision matter is procedurally defective.
 
-**Non-trivial sanctions and restrictions.** Before a tribunal affirms or imposes a non-trivial sanction, exclusion, or comparable rights-affecting restriction, the reviewable record must show at least:
+**Non-trivial sanctions and restrictions.** Before a forum affirms or imposes a non-trivial sanction, exclusion, or comparable rights-affecting restriction, the reviewable record must show at least:
 - material safety or constitutional necessity;
 - a remediation, restitution, or forward-protective rationale rather than retaliation as an end in itself;
 - a rehabilitation, restoration, or recurrence-reduction pathway where reasonably feasible; and
@@ -109,11 +109,11 @@ An incomplete record on a materially rights-collision matter is procedurally def
 
 Omission of a materially required element makes the corrective measure or restriction procedurally defective.
 
-**Prohibited sanction design.** Review bodies must not uphold retaliatory grievance, humiliation, spectacle-only deterrence, convenience severity, discriminatory burdening, collective retaliation, or retaliation-as-an-end as sufficient rationale. Where feasible reversibility exists, tribunals must prefer reversible or reviewable measures over irreversible deprivation.
+**Prohibited sanction design.** Review bodies must not uphold retaliatory grievance, humiliation, spectacle-only deterrence, convenience severity, discriminatory burdening, collective retaliation, or retaliation-as-an-end as sufficient rationale. Where feasible reversibility exists, forums must prefer reversible or reviewable measures over irreversible deprivation.
 
 **Appeal outcomes and remedies.** Review bodies must have power, within lawful scope, to stay, reverse, remand, narrow, or otherwise correct materially defective orders; restore access, standing, or process where wrongly impaired; and require further findings, publication, or independent review where the record is inadequate. Remedy design must remain timely, proportionate, and practically executable.
 
-**Records and reviewability.** Appeal and secondary-review records must state outcome, reasons, material uncertainties, and any further review path. If confidentiality or restricted evidence limits publication, the tribunal must still preserve an attributable record and a lawful later-review or reconstruction path.
+**Records and reviewability.** Appeal and secondary-review records must state outcome, reasons, material uncertainties, and any further review path. If confidentiality or restricted evidence limits publication, the forum must still preserve an attributable record and a lawful later-review or reconstruction path.
 
 **Non-compliant patterns.** It is presumptively non-compliant if an adopting system:
 - makes materially impactful decisions effectively unreviewable;

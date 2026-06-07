@@ -34,7 +34,7 @@ This file governs how constitutional forum families are constituted, supported, 
 
 This file must not:
 - collapse distinct forum families into one another;
-- silently expand constitutional-forum jurisdiction beyond Chapter Eight;
+- silently expand constitutional-forum jurisdiction beyond Chapter Nine;
 - replace general constitutional due-process, traceability, or rights rules with weaker local procedure;
 - create a parallel offense taxonomy.
 

@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-06-07T13:53:59+00:00",
+  "generated_at": "2026-06-07T14:50:17+00:00",
   "files": {
     "core_00-01_principles.md": {
       "total_lines": 1506,
@@ -6168,7 +6168,7 @@
       "total_lines": 383,
       "sections": [
         {
-          "header": "CF-2: Forum formation, tribunal mapping, and chamber structure",
+          "header": "CF-2: Forum formation, forum-structure mapping, and chamber structure",
           "level": 2,
           "line_start": 1,
           "line_end": 383,
@@ -6182,7 +6182,7 @@
           "anchor": null
         },
         {
-          "header": "CF-2.2 Family-to-tribunal translation map",
+          "header": "CF-2.2 Family-to-forum-structure translation map",
           "level": 3,
           "line_start": 73,
           "line_end": 108,

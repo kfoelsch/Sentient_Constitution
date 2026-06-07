@@ -12,7 +12,7 @@
 |---|---|
 | Opening title, status, scope, and registry | [cf_00_registry_and_reading_rules.md](corpus_forum/cf_00_registry_and_reading_rules.md) |
 | CF-1: Scope, authority, and boundary rules | [cf_01_scope_authority_boundary_rules.md](corpus_forum/cf_01_scope_authority_boundary_rules.md) |
-| CF-2: Forum formation, tribunal mapping, and chamber structure | [cf_02_forum_formation_tribunal_mapping_chamber_structure.md](corpus_forum/cf_02_forum_formation_tribunal_mapping_chamber_structure.md) |
+| CF-2: Forum formation, forum-structure mapping, and chamber structure | [cf_02_forum_formation_tribunal_mapping_chamber_structure.md](corpus_forum/cf_02_forum_formation_tribunal_mapping_chamber_structure.md) |
 | CF-3: Panel formation, disclosure, recusal, and lawful bench constitution | [cf_03_panel_formation_disclosure_recusal_bench_constitution.md](corpus_forum/cf_03_panel_formation_disclosure_recusal_bench_constitution.md) |
 | CF-4: Routing operations, transfer, certification, and representative treatment | [cf_04_routing_operations_transfer_certification_representative_treatment.md](corpus_forum/cf_04_routing_operations_transfer_certification_representative_treatment.md) |
 | CF-5: Appeal, secondary review, and exhaustion pathways | [cf_05_appeal_secondary_review_exhaustion_pathways.md](corpus_forum/cf_05_appeal_secondary_review_exhaustion_pathways.md) |

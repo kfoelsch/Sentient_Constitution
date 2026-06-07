@@ -24,7 +24,7 @@
 <br>
 
 
-This chapter governs forum-specific **staffing and competence frameworks**, **reserve and surge capacity**, **shared administration and objective assignment** safeguards, **periodic structural review**, **prohibited staffing and capacity patterns**, and the **structural governance record set** that adopting systems must maintain. It complements **CF-2** (tribunal map, family boundaries, chambers, and minimum bench-support availability), **CF-4** (routing and intake), **CF-3** (panel formation and recusal), **CF-10** (performance and backlog), and **CF-11** (continuity).
+This chapter governs forum-specific **staffing and competence frameworks**, **reserve and surge capacity**, **shared administration and objective assignment** safeguards, **periodic structural review**, **prohibited staffing and capacity patterns**, and the **structural governance record set** that adopting entities must maintain. It complements **CF-2** (forum-structure map, family boundaries, chambers, and minimum bench-support availability), **CF-4** (routing and intake), **CF-3** (panel formation and recusal), **CF-10** (performance and backlog), and **CF-11** (continuity).
 
 ### CF-13.1 Composition and competence requirements
 <details>
@@ -128,7 +128,7 @@ Reserve and substitute design must also account for conflict integrity. A forum 
 
 Adopting systems may share buildings, clerks, technology, records systems, libraries, and other administrative services across families only if shared administration does not compromise independence or routing integrity.
 
-Where more than one tribunal, region, or chamber can hear a matter, assignment and internal distribution rules must be:
+Where more than one forum, region, or chamber can hear a matter, assignment and internal distribution rules must be:
 - published in advance;
 - based on objective and reviewable criteria;
 - resistant to manipulation for preferred outcomes, preferred judges, or partisan concentration;
@@ -195,13 +195,13 @@ Repeated resort to these patterns may be treated as a capture, evasion, or conte
 
 <br>
 
-Each adopting system should periodically review whether its forum map still provides:
+Each adopting entity should periodically review whether its forum map still provides:
 - intelligible routing;
 - sufficient competence across families and chambers;
 - enough reserve capacity to avoid repeated inability-to-form events;
 - protection against concentration, capture, and hidden forum shopping.
 
-Where review shows persistent overload, recurring chamber misuse, chronic recusal bottlenecks, or practical collapse of a family into another, the adopting system must publish a remediation or redesign plan.
+Where review shows persistent overload, recurring chamber misuse, chronic recusal bottlenecks, or practical collapse of a family into another, the adopting entity must publish a remediation or redesign plan.
 
 ### CF-13.6 Required structural records and artifacts
 <details>
@@ -228,7 +228,7 @@ Where review shows persistent overload, recurring chamber misuse, chronic recusa
 
 <br>
 
-Each adopting system must maintain and periodically update at least:
+Each adopting entity must maintain and periodically update at least:
 - the public forum-structure map required by **CF-2.2**;
 - current chamber-creation instruments and scope descriptions;
 - qualification and competence frameworks by family and designated chamber type;

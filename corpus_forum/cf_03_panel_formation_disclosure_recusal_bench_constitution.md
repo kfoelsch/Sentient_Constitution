@@ -99,7 +99,7 @@ Every forum family must maintain a published panel-formation rule set that state
 - the record required when a matter uses an emergency, single-member, reduced-size, or temporary panel;
 - the conditions under which a matter must shift from a provisional panel to a fuller merits panel.
 
-No tribunal may treat a panel as lawful merely because enough sentients are available numerically. Competence, independence, and conflict screening are mandatory parts of lawful constitution.
+No forum may treat a panel as lawful merely because enough sentients are available numerically. Competence, independence, and conflict screening are mandatory parts of lawful constitution.
 
 ### CF-3.3 Publication and pre-assignment transparency
 <details>
@@ -204,7 +204,7 @@ Recusal is required where:
 - the member has prior investigative, prosecutorial, administrative, or advisory involvement in the same matter that would collapse role separation;
 - the member is a subject, likely material witness, or direct institutional subordinate of a subject in a way that materially impairs independence;
 - the matter triggers Chapter Eight cross-forum anti-self-judging protection and the proposed member is part of the compromised chain;
-- service would create a reasonable appearance that the tribunal is judging its own concealed bias, capture, recusal failure, or process abuse without a sufficiently independent bench.
+- service would create a reasonable appearance that the forum is judging its own concealed bias, capture, recusal failure, or process abuse without a sufficiently independent bench.
 
 ### CF-3.6 Recusal challenge workflow
 <details>
@@ -313,7 +313,7 @@ When a member is recused, unavailable, disqualified, or otherwise unable to serv
 - preserves required separation from investigative, prosecutorial, operational, or previously challenged chains;
 - records why the substitute is lawful and independent for the matter.
 
-If no substitute satisfies these requirements within the designated lead family, the tribunal must proceed to an inability-to-form review.
+If no substitute satisfies these requirements within the designated lead family, the forum must proceed to an inability-to-form review.
 
 ### CF-3.9 Inability to form an independent panel
 <details>

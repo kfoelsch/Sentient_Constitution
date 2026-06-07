@@ -74,9 +74,9 @@ This section does not displace stricter lawful deadlines.
 - **Ordinary** — default class for contested civil and administrative matters.
 - **Low-impact** — may use longer targets only where **Proportionality** supports it and challenge rights stay meaningful.
 
-**Cross-layer requirements:** Tribunals publish class-scaled targets under **CF-10.4**; institutions publish compatible **notice and pathway** requirements under **CI-6** and **CI-12**. When **backlog** or **accessibility** failures cross **CF-10.5** thresholds, **CF-10.6** remediation and **CI-7.3** / **CI-8** escalation paths apply. **Stakeholder-facing** backlog and delay disclosure must be intelligible without specialist training, subject to lawful secrecy limits.
+**Cross-layer requirements:** Forums publish class-scaled targets under **CF-10.4**; institutions publish compatible **notice and pathway** requirements under **CI-6** and **CI-12**. When **backlog** or **accessibility** failures cross **CF-10.5** thresholds, **CF-10.6** remediation and **CI-7.3** / **CI-8** escalation paths apply. **Stakeholder-facing** backlog and delay disclosure must be intelligible without specialist training, subject to lawful secrecy limits.
 
-**Scenario coverage (for assurance, not doctrine):** adopting systems should rehearse **delayed notice**, **inaccessible records**, **appeal backlog**, and **failed restorative follow-through** against these requirements and record results in governance evidence stores.
+**Scenario coverage (for assurance, not doctrine):** adopting entities should rehearse **delayed notice**, **inaccessible records**, **appeal backlog**, and **failed restorative follow-through** against these requirements and record results in governance evidence stores.
 
 ### CF-10.1 Core rule
 <details>
@@ -206,7 +206,7 @@ Institutions may add finer classes, but must not merge categories in ways that c
 
 <br>
 
-Each adopting system must set published target windows for:
+Each adopting entity must set published target windows for:
 - initial filing acknowledgement;
 - initial routing determination;
 - notice of assigned or proposed panel;
@@ -367,7 +367,7 @@ Usability failures count as performance failures when they materially obstruct c
 
 Reasoned records for routing, recusal, transfer, certification, interim relief, and merits outcomes must be published or otherwise made available on a time scale that preserves practical review.
 
-Where lawful restrictions delay full publication, the tribunal must still provide, as soon as lawfully feasible:
+Where lawful restrictions delay full publication, the forum must still provide, as soon as lawfully feasible:
 - a docket-visible status marker;
 - the fact of action taken;
 - the existence of any delayed-publication restriction;
@@ -600,7 +600,7 @@ Each forum system should maintain:
 
 Forum systems must treat `corpus_systems.md` **Protocol C** section **10** (*Lived-condition floors, continuity, and re-entry alignment*) as a **binding implementation cross-check** when **coercive**, **supervised**, **quarantine**, or **durable-containment** matters are **routed** or **reviewed**. **Calendar** and **metric** performance under **CF-10.4**–**CF-10.6** must **not** **treat** **lived-condition** failures as **closed** because **procedural** milestones were **technically** reached.
 
-**Forum-specific application:** review records must show that the tribunal or administrative reviewer considered the Protocol C section **10** validation record, current review cadence, restoration or re-entry status, and any new evidence-based finding used to continue a restriction. Where a lived-condition failure materially affects remedy, challenge rights, or restoration, the matter remains open for **CF-10** performance and **CF-11.13** restoration tracking even if ordinary docket milestones were reached.
+**Forum-specific application:** review records must show that the forum or administrative reviewer considered the Protocol C section **10** validation record, current review cadence, restoration or re-entry status, and any new evidence-based finding used to continue a restriction. Where a lived-condition failure materially affects remedy, challenge rights, or restoration, the matter remains open for **CF-10** performance and **CF-11.13** restoration tracking even if ordinary docket milestones were reached.
 
 **Read with:** `corpus_institutions.md` **CI-13** (failure and accountability patterns); **CF-11.13** (*Restoration and reconciliation*); **Article XXIII** and **Article XXIII-A** as referenced in **Protocol C** §**10**.
 
