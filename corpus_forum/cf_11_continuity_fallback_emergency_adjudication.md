@@ -33,7 +33,7 @@ This section applies when ordinary forum operation is materially impaired by:
 - incapacity of key personnel;
 - inability to form lawful panels;
 - deadlock across adjudicative bodies;
-- capture or compromise indicators;
+- capture or compromise indicators, including family-level capture under **CF-6.3.8**;
 - network or infrastructure disruption that impairs constitutional adjudication.
 
 It governs continuity of adjudication. It does not authorize permanent alteration of constitutional forum-family boundaries.
@@ -104,6 +104,7 @@ Each adopting entity must publish at least these forum continuity modes:
 - `Degraded`
 - `Emergency limited-capacity`
 - `Fallback / backup-forum operation`
+- `Family-capture continuity`
 - `Restoration and reconciliation`
 
 Mode transitions must be trigger-defined, attributable, auditable, and reversible when triggering conditions clear.
@@ -138,6 +139,7 @@ Continuity mode may activate only on documented findings such as:
 - physical or digital infrastructure outage materially impairing filing, record access, hearing, or publication;
 - emergency incapacity or absence of required judicial or administrative personnel;
 - credible capture or compromise indicators affecting ordinary routing or decision security;
+- family-level capture activation under **CF-6.3.8**;
 - overlapping crisis conditions that make ordinary scheduling constitutionally inadequate for emergency matters.
 
 Activation records must state:
@@ -417,6 +419,20 @@ If the emergency condition includes credible capture, concealment, or compromise
 - preserve independent record review;
 - require later restoration review by a body not materially implicated in the compromise.
 
+#### CF-11.11A Family-capture continuity
+
+Family-capture continuity applies when **CF-6.3.8** activation displaces a forum family as a whole or materially limits its ordinary control over intake, panel formation, merits adjudication, certification, appeal, publication, record custody, emergency relief, or restoration. The continuity record must state:
+- the affected forum family and functions;
+- the backup family, external reviewer, or Constitutional certification path responsible for activation oversight;
+- which urgent matters remain available for intake and emergency relief;
+- how evidence, filings, timestamps, panel-formation records, recusal records, publication records, and emergency orders are preserved outside the compromised chain;
+- what ordinary matters are stayed, transferred, narrowed to emergency handling, or held for restoration review;
+- when activation status will be reviewed and what evidence is needed for restoration.
+
+During family-capture continuity, the displaced family must not control record custody, emergency prioritization, public communications about the activation, or restoration findings except as expressly allowed by the independent activation authority. Any administrative assistance from the displaced family must be logged and reviewable. Restricted-evidence handling must preserve contestability as far as lawful and feasible, and must not become a route for the compromised chain to hide the basis for activation or restoration.
+
+Restoration from family-capture continuity requires independent findings that the triggering capture or compromise has cleared, that pending records have been reconciled, that materially rights-affecting emergency orders have a review path, and that hardening measures are in place for the failure mode that caused activation. Restoration does not validate prior compromised actions by default; actions taken before or during activation remain subject to ordinary review, correction, reopening, or remediation where lawful standards require it.
+
 ### CF-11.12 Cross-system and cross-institution coordination
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
@@ -547,7 +563,8 @@ Forum continuity protocols must participate in the exercise cadence required by 
 - major backlog surge;
 - digital outage affecting filings or records;
 - emergency relief under reduced staffing;
-- capture-sensitive routing and backup activation.
+- capture-sensitive routing and backup activation;
+- family-level capture activation and restoration.
 
 Findings must be recorded and tied to remediation under **Protocol A**, subsection **G**, with docket, routing, quorum, and backup-forum failures separately identified.
 
@@ -582,6 +599,7 @@ The following are presumptively non-compliant unless clearly justified and cured
 - loss of docket identity or chain of custody under [Evidence Preservation](../core_05-05_definitions_c_dependent_clusters.md#evidence-preservation);
 - emergency orders with no later review path;
 - continuity activation used to bypass recusal, anti-self-judging, or publication obligations;
+- family-capture restoration controlled by the displaced or compromised family;
 - restoration without retrospective review of materially impactful emergency decisions.
 
 ---
