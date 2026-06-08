@@ -3,7 +3,7 @@
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [CJS-1.1](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-11-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.2](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-22-topic-router-stable-ids) topic router; [Chapter Nine](../core_09-09_forum.md#chapter-nine-forums-and-jurisdiction) forum-family routing; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
-- Downstream: [CF-5.1 Disposition-effect categories and record labels](#cf-51-disposition-effect-categories-and-record-labels).
+- Downstream: [CF-5.1 Disposition-effect categories and record labels](#cf-51-disposition-effect-categories-and-record-labels); [CF-5.2 Core rule](#cf-52-core-rule).
 - Read with: **CF-5**; **CF-5.1**; **CF-5.1.1**; **CF-5.1.2**; **CF-5.1.3**; **CF-3**; **CF-5.1.4**.
 
 </details>
@@ -72,6 +72,8 @@ When an adopting system permits depositions, the rules must define at least: who
 - **Published panel-rule** (**CF-5.1.3**) — effect supplies a presumptive rule, threshold, or disposition pattern for later panels.
 - **Technical shared-standard** (**CF-5.1.4**) — effect travels mainly through a recognized technical or expert-evidence standard.
 
+**Recordkeeping.** When a disposition carries **CF-5.1.2**, **CF-5.1.3**, or **CF-5.1.4**, the attributable record must identify the applicable disposition-effect category or categories, the corresponding **CF-5.1** class label or labels, the covered population or panel scope, any sunset or review cadence, and the published path for challenge, certification, appeal, or standards reconsideration. Rights-collision records elsewhere in this section still apply where relevant.
+
 #### CF-5.1.1 Party-Bound Disposition Effect
 
 The determination binds the parties before the forum on the issues decided, including ordinary **issue preclusion** effects adopting law gives it. It does not, by itself, create a published rule for unrelated matters. This is the default for routine party-to-party outcomes unless the record assigns a broader **CF-5.1** disposition-effect category and class label.
@@ -82,17 +84,15 @@ The determination binds or governs a **class**, **subclass**, **common practice*
 
 #### CF-5.1.3 Published Panel-Rule Disposition Effect
 
-The determination publishes an **intra-family** rule, or an expressly stated **cross-family** rule, threshold, or disposition pattern. Other lawful merits panels in the same adopting system must treat it as presumptive unless they give a reasoned departure on a reviewable record. That rule remains subject to independent review where **CF-5** requires it and to panel-formation discipline under **CF-3** (*Panel formation, disclosure, recusal, and lawful bench constitution*). The system must publish how departures work. Unexplained inconsistency across panels in the same class of dispute is presumptively non-compliant unless a published coordination rule explains the difference.
+The determination publishes an **intra-family** rule, or an expressly stated **cross-family** rule, threshold, or disposition pattern. Other lawful merits panels in the same adopting system must treat the published rule as presumptive. A later panel may depart from it only by giving reasons in a record that can be reviewed. The published rule does not override independent review required by **CF-5**, and it does not relax **CF-3** rules on panel formation, disclosure, recusal, or lawful bench constitution. The system must publish the departure process. Panels handling the same class of dispute must not reach inconsistent outcomes without explanation. If they do, the system is presumptively non-compliant unless a published coordination rule explains why the difference is allowed.
 
 #### CF-5.1.4 Technical Shared-Standard Disposition Effect
 
 The ruling's force runs through a **shared technical or expert-evidence standard** maintained or recognized under **CF-9** (*Technical specialist forums and specialist chambers*), including that section's departure, variance, and cross-jurisdiction recognition rules. Use **CF-5.1.4** when the binding or presumptive effect comes mainly from the technical-standard architecture rather than from a general **CF-5.1.3** panel rule. A lead forum may also state **CF-5.1.3** when it publishes a non-technical disposition pattern that depends on a **CF-9** standard.
 
-**Legacy mapping.** Where an existing form, archive, or adopting instrument still uses the former local numeric codes, **code 101** maps to **CF-5.1.1**, **code 102** maps to **CF-5.1.2**, **code 103** maps to **CF-5.1.3**, and **code 104** maps to **CF-5.1.4**.
+### CF-5.2 Core rule
 
-**Recordkeeping.** When a disposition carries **CF-5.1.2**, **CF-5.1.3**, or **CF-5.1.4**, the attributable record must identify the applicable disposition-effect category or categories, the corresponding **CF-5.1** class label or labels, the covered population or panel scope, any sunset or review cadence, and the published path for challenge, certification, appeal, or standards reconsideration. Rights-collision records elsewhere in this section still apply where relevant.
-
-**Core rule.** Every forum family must keep a practical way to review materially impactful decisions. The path must be understandable, usable without unreasonable procedural barriers, and strong enough to correct material error before the remedy stops mattering.
+Every forum family must keep a practical way to review materially impactful decisions. The path must be understandable, usable without unreasonable procedural barriers, and strong enough to correct material error before the remedy stops mattering.
 
 **Minimum lane structure.**
 - Ordinary merits determinations must have a published review path.
