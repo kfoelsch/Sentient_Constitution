@@ -26,7 +26,7 @@
 
 **Constitutional index (abridged)**
 - Topic-level routing and cited authorities remain in subsection text and cross-references.
-- Canonical owner map: `corpus_joint_structure.md` **CJS-2.2** and `doc_architecture.md` section 4.
+- Canonical owner map: `corpus_joint_structure.md` **CJS-2.2** (*Topic router (stable IDs)*) and `doc_architecture.md` section 4.
 
 This section applies when ordinary forum operation is materially impaired by:
 - emergency conditions;
@@ -38,7 +38,7 @@ This section applies when ordinary forum operation is materially impaired by:
 
 It governs continuity of adjudication. It does not authorize permanent alteration of constitutional forum-family boundaries.
 
-Where forum continuity materially depends on constitutional systems, this section must be read with `corpus_systems.md` **Protocol A**, subsection **G** (*Governance continuity, crisis communications, and exercises*). Protocol A states the shared emergency lifecycle, crisis-communication, exercise, restoration-evidence, and audit-trail mechanics; **CF-11** supplies the forum-specific triggers, routing, quorum, backup-forum, docket, and adjudicative-review requirements.
+Where forum continuity materially depends on constitutional systems, this section must be read with `corpus_systems.md` **Protocol A**, subsection **G** (*Governance continuity, crisis communications, and exercises*). Protocol A states the shared emergency lifecycle, crisis-communication, exercise, restoration-evidence, and audit-trail mechanics; **CF-11** (*Forum continuity, fallback operation, and emergency adjudication*) supplies the forum-specific triggers, routing, quorum, backup-forum, docket, and adjudicative-review requirements.
 
 ### CF-11.1 Rights-Floor continuity rule
 <details>

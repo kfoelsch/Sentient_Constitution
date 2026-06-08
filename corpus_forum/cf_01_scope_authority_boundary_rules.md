@@ -24,7 +24,7 @@
 
 **Constitutional index (abridged)**
 - Topic-level routing and cited authorities remain in subsection text and cross-references.
-- Canonical owner map: `corpus_joint_structure.md` **CJS-2.2** and `doc_architecture.md` section 4.
+- Canonical owner map: `corpus_joint_structure.md` **CJS-2.2** (*Topic router (stable IDs)*) and `doc_architecture.md` section 4.
 
 This file governs how constitutional forum families are constituted, supported, monitored, kept independent, and kept operable under stress.
 
@@ -38,7 +38,7 @@ This file must not:
 - replace general constitutional due-process, traceability, or rights rules with weaker local procedure;
 - create a parallel offense taxonomy.
 
-**Joint implementation read:** for cross-implementation structural integration (institutions, systems, and CJS-5 operational clusters that materially support or bound forums), **`corpus_joint_structure.md` CJS-2** (especially **CJS-2.2**) and **CJS-3**.
+**Joint implementation read:** for cross-implementation structural integration (institutions, systems, and CJS-5 (*Implementation and cross-implementation operational cluster library*) operational clusters that materially support or bound forums), **`corpus_joint_structure.md` CJS-2** (especially **CJS-2.2** (*Topic router (stable IDs)*)) and **CJS-3** (*Joint structural obligations (cross-domain requirements)*).
 
 ---
 

@@ -62,7 +62,7 @@ Read it with:
 - **CJS-5C.4 — Transparency and Disclosure**
 - **CJS-5D.2 — Interoperability, Portability, and Exit Integrity**
 - **CJS-5B.2 — Auditability**
-- **CJS-5E.5 and CJS-5B.1 — Evolution, Revalidation, and Non-Entrenchment**
+- **CJS-5E.5** (*Implementation and cross-implementation structural review, correction urgency, and disclosure terms*) and **CJS-5B.1** (*Implementation and cross-implementation integrity assurance and resilience operations*) — Evolution, Revalidation, and Non-Entrenchment
 - `corpus_systems.md` **Protocol A — System Design, Testing, Verification, and Deployment**
 - **Article XV-A**
 
@@ -223,8 +223,8 @@ Read it with:
 - **CJS-5B.2 — Auditability**
 - **CJS-5B.3 — Tiered Transparency and Audit Access**
 - **CJS-5B.4 — Independent Verification and Integrity of Claims**
-- **CJS-5E.3 and CJS-5D.3 — Reversibility and Containment**
-- **CJS-5E.5 and CJS-5B.1 — Evolution, Revalidation, and Non-Entrenchment**
+- **CJS-5E.3** (*Implementation and cross-implementation reversibility and containment terms*) and **CJS-5D.3** (*Implementation and cross-implementation data-retention and lifecycle-integrity terms*) — Reversibility and Containment
+- **CJS-5E.5** (*Implementation and cross-implementation structural review, correction urgency, and disclosure terms*) and **CJS-5B.1** (*Implementation and cross-implementation integrity assurance and resilience operations*) — Evolution, Revalidation, and Non-Entrenchment
 - `corpus_systems.md` **Chapter S1 — Information Types and Handling**, including Types **C**, **G**, **H**, **I**, **N**, and **S**
 - **CJS-3.5 — Classification alignment for supervised scope**
 

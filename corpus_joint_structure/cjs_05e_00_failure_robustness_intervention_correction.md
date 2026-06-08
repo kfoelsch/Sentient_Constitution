@@ -64,10 +64,10 @@ Use this rule when reliability, signaling, containment, or recovery depends on s
 
 Read it with:
 - **CJS-5E.1 — Graceful Degradation and Failure Mode Integrity**
-- **CJS-5C.3 and CJS-5C.4 — System Status, Risk, and Scope Representation**
+- **CJS-5C.3** (*Implementation and cross-implementation salience integrity and attention-allocation terms*) and **CJS-5C.4** (*Implementation and cross-implementation disclosure sufficiency and observability terms*) — System Status, Risk, and Scope Representation
 - **CJS-5D.1 — Dependency Awareness, Disclosure, and Risk Integrity**
-- **CJS-5E.3 and CJS-5D.3 — Reversibility and Containment**
-- **CJS-5E.5 and CJS-5B.1 — Evolution, Revalidation, and Non-Entrenchment**
+- **CJS-5E.3** (*Implementation and cross-implementation reversibility and containment terms*) and **CJS-5D.3** (*Implementation and cross-implementation data-retention and lifecycle-integrity terms*) — Reversibility and Containment
+- **CJS-5E.5** (*Implementation and cross-implementation structural review, correction urgency, and disclosure terms*) and **CJS-5B.1** (*Implementation and cross-implementation integrity assurance and resilience operations*) — Evolution, Revalidation, and Non-Entrenchment
 - `corpus_systems.md` **Protocol A — System Design, Testing, Verification, and Deployment**
 
 Implementation and cross-implementation graceful degradation and failure-mode integrity terms
@@ -159,7 +159,7 @@ Read it with:
 - **CJS-5E.1 — Graceful Degradation and Failure Mode Integrity**
 - **CJS-5B.2 — Auditability**
 - **CJS-5E.4 — Adversarial Robustness and Abuse Resistance**
-- **CJS-5E.5 and CJS-5B.1 — Evolution, Revalidation, and Non-Entrenchment**
+- **CJS-5E.5** (*Implementation and cross-implementation structural review, correction urgency, and disclosure terms*) and **CJS-5B.1** (*Implementation and cross-implementation integrity assurance and resilience operations*) — Evolution, Revalidation, and Non-Entrenchment
 - **CJS-5A.2 — Intervention governance and override authorization**
 - **Chapter One §6.4.1 — Rights-Collision Decision Test**
 - **`corpus_forum.md` CF-11 — Forum continuity, fallback operation, and emergency adjudication**
@@ -207,7 +207,7 @@ Intervention behavior priorities and safe-state handling
 
 Emergency technical-coupling discipline
 - OP-O: Emergency technical interventions must be minimal, proportionate, time-bounded, subject to mandatory forum review as soon as feasible where they materially affect rights or governance authority, and rolled back or restored where feasible.
-- OP-E: Evaluation must verify expiry behavior, review records, lawful governance coupling, and any CF-11 emergency-review or restoration pathway.
+- OP-E: Evaluation must verify expiry behavior, review records, lawful governance coupling, and any CF-11 (*Forum continuity, fallback operation, and emergency adjudication*) emergency-review or restoration pathway.
 - OP-C: Emergency intervention that lacks a required forum-review path, or that becomes a standing default, is non-compliant.
 
 Proportional application
@@ -245,7 +245,7 @@ Proportional application
 Use this rule when rollback, failure isolation, or restoration depends on a standalone system, institution, forum, or bounded decision domain, or on more than one system, dependency, institution, or implementation layer.
 
 Read it with:
-- **CJS-5E.3 and CJS-5D.3 — Reversibility and Containment**
+- **CJS-5E.3** (*Implementation and cross-implementation reversibility and containment terms*) and **CJS-5D.3** (*Implementation and cross-implementation data-retention and lifecycle-integrity terms*) — Reversibility and Containment
 - **CJS-5D.1 — Dependency Awareness, Disclosure, and Risk Integrity**
 - **CJS-5E.1 — Graceful Degradation and Failure Mode Integrity**
 - **CJS-5B.2 — Auditability**
@@ -313,9 +313,9 @@ Read it with:
 - **CJS-5E.1 — Graceful Degradation and Failure Mode Integrity**
 - **CJS-5B.2 — Auditability**
 - **CJS-5B.4 — Independent Verification and Integrity of Claims**
-- **CJS-5E.3 and CJS-5D.3 — Reversibility and Containment**
-- **CJS-5E.5 and CJS-5B.1 — Evolution, Revalidation, and Non-Entrenchment**
-- **CJS-5A.1** and **CJS-5C.1** for distributed authority and participation legitimacy
+- **CJS-5E.3** (*Implementation and cross-implementation reversibility and containment terms*) and **CJS-5D.3** (*Implementation and cross-implementation data-retention and lifecycle-integrity terms*) — Reversibility and Containment
+- **CJS-5E.5** (*Implementation and cross-implementation structural review, correction urgency, and disclosure terms*) and **CJS-5B.1** (*Implementation and cross-implementation integrity assurance and resilience operations*) — Evolution, Revalidation, and Non-Entrenchment
+- **CJS-5A.1** (*Implementation and cross-implementation distributed and proportional authority terms*) and **CJS-5C.1** (*Implementation and cross-implementation quorum and participatory legitimacy terms*) for distributed authority and participation legitimacy
 - **CJS-5A.4 — Burden of Justification and Constraint**
 - **CJS-5A.5 — Constrained Secrecy and Protected Investigations**
 
@@ -416,9 +416,9 @@ Use this rule when recurring failures, Correction Urgency Level (**CUL**) assign
 Read it with:
 - **CJS-5A.6 — Procedural Integrity and Adjudication**
 - **CJS-5E.1 — Graceful Degradation and Failure Mode Integrity**
-- **CJS-5E.3 and CJS-5D.3 — Reversibility and Containment**
-- **CJS-5E.5 and CJS-5B.1 — Evolution, Revalidation, and Non-Entrenchment**
-- **CJS-5A.3 and CJS-5B.1 — Reflexive Transparency and Accountability**
+- **CJS-5E.3** (*Implementation and cross-implementation reversibility and containment terms*) and **CJS-5D.3** (*Implementation and cross-implementation data-retention and lifecycle-integrity terms*) — Reversibility and Containment
+- **CJS-5E.5** (*Implementation and cross-implementation structural review, correction urgency, and disclosure terms*) and **CJS-5B.1** (*Implementation and cross-implementation integrity assurance and resilience operations*) — Evolution, Revalidation, and Non-Entrenchment
+- **CJS-5A.3** (*Implementation and cross-implementation reflexive transparency and accountability terms*) and **CJS-5B.1** (*Implementation and cross-implementation integrity assurance and resilience operations*) — Reflexive Transparency and Accountability
 - `corpus_systems.md` **Chapter S1** and **Chapter S2**
 - Owner-layer-specific monitoring or publication duties.
 

@@ -26,7 +26,7 @@
 
 **Constitutional index (abridged)**
 - Topic-level routing and cited authorities remain in subsection text and cross-references.
-- Canonical owner map: `corpus_joint_structure.md` **CJS-2.2** and `doc_architecture.md` section 4.
+- Canonical owner map: `corpus_joint_structure.md` **CJS-2.2** (*Topic router (stable IDs)*) and `doc_architecture.md` section 4.
 
 **Chapter Nine linkage.** `core_09-09_forum.md` **Chapter Nine**, **section 4** authorizes **Integrity** forum **alignment** rulings, official **constitutional alignment recognition and review** for new and existing systems, **Environment** forum environmental-alignment component review where material ecological exposure exists, and **supervisory coordination**; **section 6** states **integrity-led alignment coordination** with **other** forum families; **section 7** limits **alignment** rulings that would establish **general** doctrine and requires records for system recognition and revalidation. This section operationalizes those interfaces **without** relocating constitutional routing to this file.
 
@@ -67,11 +67,11 @@
 
 **Referral priority publication.** Adopting instruments must publish **tie-break** rules for **ordering** **component** referrals and **overlapping** **urgency** — **without** displacing **primary-stakes** assignment of **merits**. Published criteria must account for **Rights-Floor** **urgency**, **irreversible** **harm** risk, **classification** or **compliance** **dependency** where **Chapter Six** is implicated, **evidentiary** **decay** or **preservation** **need**, and **practical** **resolution** **sequence**. **Opaque** or **caption-driven** sorting at the referral threshold is presumptively non-compliant.
 
-**Neutral coordination role.** **Supervisory coordination** applies the `corpus_joint_structure.md` **CJS-3.3** merits-boundary rule to **forum-managed** **stays**, **sequencing**, **status** review, and **milestone** **accountability**. It is **not** partisan **advocacy** for a party outcome and **not** a substitute for **prosecutorial**, **institutional**, or **investigative** **merits** bodies where those roles are lawfully distinct under **CF-8** and `corpus_institutions.md`.
+**Neutral coordination role.** **Supervisory coordination** applies the `corpus_joint_structure.md` **CJS-3.3** (*Boundary Between Support Roles and Merits Decisions*) merits-boundary rule to **forum-managed** **stays**, **sequencing**, **status** review, and **milestone** **accountability**. It is **not** partisan **advocacy** for a party outcome and **not** a substitute for **prosecutorial**, **institutional**, or **investigative** **merits** bodies where those roles are lawfully distinct under **CF-8** (*Independent investigative service and prosecution interface*) and `corpus_institutions.md`.
 
 **Merits boundaries.** **Integrity** forums **must** **not** issue **final** **merits** determinations **reserved** to **another** family's **primary** question — including **constitutional** validity and **class-wide** **structural** remedy — except where **Chapter Nine** assigns that **primary** stake to **Integrity** forums. Forums receiving **referrals** exercise **their** **lawful** **merits** authority and **must** treat **binding** **integrity** findings and **coordination** orders on the **lead** **Integrity** record as **lawful** **inputs** under **certification**, **issue** **preclusion**, **stay**, and **sequencing** rules — **without** **collateral** **re-litigation** of those findings **outside** **published** review paths.
 
-**Disposition effect labeling.** Where an **alignment** ruling materially stabilizes outcomes beyond the named parties, adopting instruments should identify the applicable **CF-5.1** effect code(s) — ordinarily at least **CF-5.1.102** when **pattern** or **shared-practice** stakes are material — and must **not** silently treat **alignment** rulings as **CF-5.1.103** **general** panel-rule doctrine when **constitutional** **certification** under `core_09-09_forum.md` **Chapter Nine**, **section** **7** is **required**.
+**Disposition effect labeling.** Where an **alignment** ruling materially stabilizes outcomes beyond the named parties, adopting instruments should identify the applicable **CF-5.1** (*Disposition effect classification (numeric codes)*) effect code(s) — ordinarily at least **code 102** when **pattern** or **shared-practice** stakes are material — and must **not** silently treat **alignment** rulings as **code 103** **general** panel-rule doctrine when **constitutional** **certification** under `core_09-09_forum.md` **Chapter Nine**, **section** **7** is **required**.
 
 ### CF-6.1A Constitutional alignment recognition and review
 <details>
@@ -101,7 +101,7 @@
 
 **Purpose.** Provide official, contestable forum mechanics for recognizing new materially impactful systems as constitutionally aligned within a stated scope, and for validating whether existing systems remain aligned over time. This subsection implements `core_09-09_forum.md` **Chapter Nine**, **sections 4, 6, and 7**, and works with `corpus_systems.md` **Protocol A** and **Chapter S2** classification and revalidation duties.
 
-**Technical-specification and environmental-component separation.** **Technical specialist forums** under **CF-9** maintain the technical specifications, measurement methods, test protocols, expert-evidence standards, and domain-specific criteria used in system-alignment assessment. **Environment** forums hold environmental-alignment component review where material ecological exposure, environmental-precondition dependency, lifecycle burden, restoration duty, or reasonably foreseeable ecological risk exists. **Integrity** forums make the official constitutional alignment recognition, validation, revalidation, and remediation-supervision record. Integrity forums must use technical-forum standards where materially applicable, may certify technical questions to the proper technical forum, and must not rewrite technical specifications as a substitute for referral. Integrity forums must obtain and record the Environment forum's environmental-alignment approval, conditional approval, objection, remediation requirement, or release-from-condition finding where material ecological exposure exists. Technical forums must not treat specification maintenance or technical adequacy findings as final constitutional alignment recognition unless `core_09-09_forum.md` independently assigns that primary stake to them.
+**Technical-specification and environmental-component separation.** **Technical specialist forums** under **CF-9** (*Technical specialist forums and specialist chambers*) maintain the technical specifications, measurement methods, test protocols, expert-evidence standards, and domain-specific criteria used in system-alignment assessment. **Environment** forums hold environmental-alignment component review where material ecological exposure, environmental-precondition dependency, lifecycle burden, restoration duty, or reasonably foreseeable ecological risk exists. **Integrity** forums make the official constitutional alignment recognition, validation, revalidation, and remediation-supervision record. Integrity forums must use technical-forum standards where materially applicable, may certify technical questions to the proper technical forum, and must not rewrite technical specifications as a substitute for referral. Integrity forums must obtain and record the Environment forum's environmental-alignment approval, conditional approval, objection, remediation requirement, or release-from-condition finding where material ecological exposure exists. Technical forums must not treat specification maintenance or technical adequacy findings as final constitutional alignment recognition unless `core_09-09_forum.md` independently assigns that primary stake to them.
 
 **Triggering events.** Alignment recognition or review must be available when any of the following materially applies:
 - a new system seeks constitutional recognition, incorporation, deployment approval, reliance by a public or critical steward, or other official status within an adopting order;
@@ -114,7 +114,7 @@
 **Minimum recognition record.** A recognition, validation, or revalidation record must identify:
 - the system, operator or steward, claimed scope, deployment context, and affected stakeholder or dependency classes;
 - the Chapter S2 classification, Chapter S3 stewardship tier where applicable, and the evidence supporting those classifications;
-- the constitutional provisions, Rights-Floor obligations, CJS-5 operational clusters, and implementation requirements treated as material;
+- the constitutional provisions, Rights-Floor obligations, CJS-5 (*Implementation and cross-implementation operational cluster library*) operational clusters, and implementation requirements treated as material;
 - where ecological exposure is material, the Environment forum environmental-alignment component record, including approval, conditional approval, objection, remediation requirements, or release-from-condition findings;
 - the technical specifications, measurement methods, test protocols, expert-evidence standards, testing, audit, simulation, incident, red-team, stress, accessibility, and stakeholder-feedback evidence considered;
 - material uncertainties, residual risks, rejected alternatives, and monitoring commitments;
@@ -169,9 +169,9 @@ This subsection remains the operational home for:
 - coordination with contest-integrity monitoring.
 
 It must work together with:
-- `corpus_institutions.md` **CI-5**
-- `corpus_institutions.md` **CI-7.3**
-- `corpus_institutions.md` **CI-8**
+- `corpus_institutions.md` **CI-5** (*Conflict integrity, anti-capture, and anti-corruption*)
+- `corpus_institutions.md` **CI-7.3** (*Contest-integrity monitoring (Class A and Class B)*)
+- `corpus_institutions.md` **CI-8** (*Cross-institution coordination and escalation*)
 - `core_09-09_forum.md` **Chapter Nine**, **sections 6** and **7**
 
 ---

@@ -49,7 +49,7 @@ Use these clusters as shared operational terms within standalone implementation 
 
 <br>
 
-Use this preface first whenever a later CJS cluster depends on who may hold authority, support review, staff a lane, operate a material function, or make a binding decision. It gives shared role vocabulary for CJS only. It does not replace the role rules in `core_11-11_governance.md` **Chapter Eleven**, section **5**; **Article XI-D**; `core_07-07_standing_integration.md` **Chapter Seven**, section **1.2** (*Competency Gates*); `corpus_institutions.md` **CI-4**; `corpus_systems.md` **Chapter S3**; or `corpus_forum.md` forum-formation rules.
+Use this preface first whenever a later CJS cluster depends on who may hold authority, support review, staff a lane, operate a material function, or make a binding decision. It gives shared role vocabulary for CJS only. It does not replace the role rules in `core_11-11_governance.md` **Chapter Eleven**, section **5**; **Article XI-D**; `core_07-07_standing_integration.md` **Chapter Seven**, section **1.2** (*Competency Gates*); `corpus_institutions.md` **CI-4** (*Appointment, competency, rotation, and removal*); `corpus_systems.md` **Chapter S3**; or `corpus_forum.md` forum-formation rules.
 
 Role-definition reading rule
 - OP-O: A role term is valid only when the materially relevant facts are published and auditable: authority, limits, decision rights, review path, competency basis, standing status, succession coverage, and accountability owner.
@@ -97,7 +97,7 @@ Constitutional lane
 - OP-C: A lane is non-compliant if it is undefined, merged, understaffed, over-concentrated, or staffed in a way that defeats separation, auditability, challenge, succession, or binding accountability.
 
 Delegated body and forum-role pointer
-- OP-O: Delegated binding bodies, lawful independent forums, backup activation, and representative treatment use the procedural definitions and compliance tests in **CJS-5A.6** after this role preface is satisfied.
+- OP-O: Delegated binding bodies, lawful independent forums, backup activation, and representative treatment use the procedural definitions and compliance tests in **CJS-5A.6** (*Implementation and cross-implementation procedural integrity and adjudication terms*) after this role preface is satisfied.
 - OP-E: Reviewers must verify formation authority, role composition, competence, quorum, independence, records, and contest routes under both this preface and the applicable procedural term.
 - OP-C: A procedural role term is non-compliant if the underlying role authority, competency gate, standing status, or owner-file formation rule is missing or bypassed.
 

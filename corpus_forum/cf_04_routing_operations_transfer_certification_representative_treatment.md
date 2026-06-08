@@ -26,21 +26,21 @@
 
 **Constitutional index (abridged)**
 - Topic-level routing and cited authorities remain in subsection text and cross-references.
-- Canonical owner map: `corpus_joint_structure.md` **CJS-2.2** and `doc_architecture.md` section 4.
+- Canonical owner map: `corpus_joint_structure.md` **CJS-2.2** (*Topic router (stable IDs)*) and `doc_architecture.md` section 4.
 
 This section operationalizes Chapter Eight. It governs:
-- published intake classes and intake triage (**CF-4.1**, **CF-4.2**);
+- published intake classes and intake triage (**CF-4.1** (*Published intake classes*), **CF-4.2** (*Intake triage body*));
 - routing decision procedures;
 - mixed-stakes tie-break workflow;
 - transfer and certification order requirements;
 - consolidation rules;
 - representative-treatment procedure requirements;
 - recordkeeping and publication for routing changes;
-- coordination interfaces for **Integrity** forum **alignment** rulings (**CF-6**) where routing and referral sequencing intersect intake and certification.
+- coordination interfaces for **Integrity** forum **alignment** rulings (**CF-6** (*Integrity safeguards, anti-capture operations, and anti-self-judging support*)) where routing and referral sequencing intersect intake and certification.
 
 This section must implement, and not alter, the primary-stakes rule in `core_09-09_forum.md` **Chapter Nine**.
 
-**Chapter Nine linkage.** **Per-family intake triage bodies** are constitutionally required in **Chapter Eight**, **section 5** (together with **default venue** in **section 2**, **forensic and analytical support** in **section 3**, and **transfer**, **consolidation**, **certification**, and **backup** discipline in **sections 6 and 7**); they are **not** a separate forum family. **CF-4.1**–**CF-4.2** operationalize that requirement and its **non-substitution** boundary for **merits** panels.
+**Chapter Nine linkage.** **Per-family intake triage bodies** are constitutionally required in **Chapter Eight**, **section 5** (together with **default venue** in **section 2**, **forensic and analytical support** in **section 3**, and **transfer**, **consolidation**, **certification**, and **backup** discipline in **sections 6 and 7**); they are **not** a separate forum family. **CF-4.1** (*Published intake classes*)–**CF-4.2** (*Intake triage body*) operationalize that requirement and its **non-substitution** boundary for **merits** panels.
 
 ### CF-4.1 Published intake classes
 <details>
@@ -93,7 +93,7 @@ Each required forum family must publish an intake path that, at minimum:
 <br>
 
 Each required forum family must publish an **intake triage body**, or a functionally equivalent arrangement with the same duties, independence expectations, and contestability. That body or arrangement must, at minimum:
-- sort incoming matters into the published classes under **CF-4.1**;
+- sort incoming matters into the published classes under **CF-4.1** (*Published intake classes*);
 - flag preservation, Rights-Floor, cross-family routing, and backup-forum needs;
 - maintain attributable intake records sufficient for review;
 - **not** substitute for lawfully constituted merits panels on substantive outcomes;

@@ -26,7 +26,7 @@
 
 **Constitutional index (abridged)**
 - Topic-level routing and cited authorities remain in subsection text and cross-references.
-- Canonical owner map: `corpus_joint_structure.md` **CJS-2.2** and `doc_architecture.md` section 4.
+- Canonical owner map: `corpus_joint_structure.md` **CJS-2.2** (*Topic router (stable IDs)*) and `doc_architecture.md` section 4.
 
 This section applies to all forum families recognized in `core_09-09_forum.md` **Chapter Nine**, including any specialist chamber or designated technical panel operating within those families.
 
@@ -65,7 +65,7 @@ This section does not displace stricter lawful deadlines.
 <br>
 
 
-**Purpose:** This subsection applies **Contestability** and `corpus_joint_structure.md` **CJS-5A.6** to forum timing and backlog discipline so notice, record access, review, appeal, restorative follow-through, and closure remain practically usable. It does **not** add **Chapter Ten** rights text; operational detail for non-forum institutions sits in **`corpus_institutions.md`** **CI-6**, **CI-12**, and **CI-13**.
+**Purpose:** This subsection applies **Contestability** and `corpus_joint_structure.md` **CJS-5A.6** (*Implementation and cross-implementation procedural integrity and adjudication terms*) to forum timing and backlog discipline so notice, record access, review, appeal, restorative follow-through, and closure remain practically usable. It does **not** add **Chapter Ten** rights text; operational detail for non-forum institutions sits in **`corpus_institutions.md`** **CI-6** (*Procedure integrity, contestability, and secondary review*), **CI-12** (*Transparency, participation, and accessible pathways*), and **CI-13** (*Institutional failure, sanctions, dissolution, and accountability*).
 
 **Matter classes (minimum set for target windows and disclosure):**
 - **Emergency / imminent harm** — hours to a small number of days for initial responsive action where life, serious injury, or irreversible rights loss is at stake.
@@ -74,7 +74,7 @@ This section does not displace stricter lawful deadlines.
 - **Ordinary** — default class for contested civil and administrative matters.
 - **Low-impact** — may use longer targets only where **Proportionality** supports it and challenge rights stay meaningful.
 
-**Cross-layer requirements:** Forums publish class-scaled targets under **CF-10.4**; institutions publish compatible **notice and pathway** requirements under **CI-6** and **CI-12**. When **backlog** or **accessibility** failures cross **CF-10.5** thresholds, **CF-10.6** remediation and **CI-7.3** / **CI-8** escalation paths apply. **Stakeholder-facing** backlog and delay disclosure must be intelligible without specialist training, subject to lawful secrecy limits.
+**Cross-layer requirements:** Forums publish class-scaled targets under **CF-10.4** (*Minimum timing floors*); institutions publish compatible **notice and pathway** requirements under **CI-6** (*Procedure integrity, contestability, and secondary review*) and **CI-12** (*Transparency, participation, and accessible pathways*). When **backlog** or **accessibility** failures cross **CF-10.5** (*Backlog thresholds and alerts*) thresholds, **CF-10.6** (*Required remediation actions for backlog*) remediation and **CI-7.3** (*Contest-integrity monitoring (Class A and Class B)*) / **CI-8** (*Cross-institution coordination and escalation*) escalation paths apply. **Stakeholder-facing** backlog and delay disclosure must be intelligible without specialist training, subject to lawful secrecy limits.
 
 **Scenario coverage (for assurance, not doctrine):** adopting entities should rehearse **delayed notice**, **inaccessible records**, **appeal backlog**, and **failed restorative follow-through** against these requirements and record results in governance evidence stores.
 
@@ -431,14 +431,14 @@ For such matters, systems must separately track:
 
 <br>
 
-Contest-integrity monitors under `corpus_institutions.md` **CI-7.3** must review forum-performance data on a published cadence and assess:
+Contest-integrity monitors under `corpus_institutions.md` **CI-7.3** (*Contest-integrity monitoring (Class A and Class B)*) must review forum-performance data on a published cadence and assess:
 - persistent delay by family or case class;
 - whether backlogs track conflict, capture, or retaliation indicators;
 - whether recusal disputes are being used to stall matters;
 - whether emergency dockets are receiving timely attention;
 - whether accessibility or publication failures are undermining contestability.
 
-Material findings must feed remediation and, where warranted, `corpus_institutions.md` **CI-8** escalation or external assurance triggers.
+Material findings must feed remediation and, where warranted, `corpus_institutions.md` **CI-8** (*Cross-institution coordination and escalation*) escalation or external assurance triggers.
 
 ### CF-10.11 Governance disclosure fields for forum performance
 <details>
@@ -598,9 +598,9 @@ Each forum system should maintain:
 
 <br>
 
-Forum systems must treat `corpus_systems.md` **Protocol C** section **10** (*Lived-condition floors, continuity, and re-entry alignment*) as a **binding implementation cross-check** when **coercive**, **supervised**, **quarantine**, or **durable-containment** matters are **routed** or **reviewed**. **Calendar** and **metric** performance under **CF-10.4**–**CF-10.6** must **not** **treat** **lived-condition** failures as **closed** because **procedural** milestones were **technically** reached.
+Forum systems must treat `corpus_systems.md` **Protocol C** section **10** (*Lived-condition floors, continuity, and re-entry alignment*) as a **binding implementation cross-check** when **coercive**, **supervised**, **quarantine**, or **durable-containment** matters are **routed** or **reviewed**. **Calendar** and **metric** performance under **CF-10.4** (*Minimum timing floors*)–**CF-10.6** (*Required remediation actions for backlog*) must **not** **treat** **lived-condition** failures as **closed** because **procedural** milestones were **technically** reached.
 
-**Forum-specific application:** review records must show that the forum or administrative reviewer considered the Protocol C section **10** validation record, current review cadence, restoration or re-entry status, and any new evidence-based finding used to continue a restriction. Where a lived-condition failure materially affects remedy, challenge rights, or restoration, the matter remains open for **CF-10** performance and **CF-11.13** restoration tracking even if ordinary docket milestones were reached.
+**Forum-specific application:** review records must show that the forum or administrative reviewer considered the Protocol C section **10** validation record, current review cadence, restoration or re-entry status, and any new evidence-based finding used to continue a restriction. Where a lived-condition failure materially affects remedy, challenge rights, or restoration, the matter remains open for **CF-10** (*Forum performance, backlog requirements, publication timeliness, and accessibility*) performance and **CF-11.13** (*Restoration and reconciliation*) restoration tracking even if ordinary docket milestones were reached.
 
 **Read with:** `corpus_institutions.md` **CI-13** (failure and accountability patterns); **CF-11.13** (*Restoration and reconciliation*); **Article XXIII** and **Article XXIII-A** as referenced in **Protocol C** §**10**.
 

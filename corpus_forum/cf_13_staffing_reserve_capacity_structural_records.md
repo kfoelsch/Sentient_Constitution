@@ -60,7 +60,7 @@ Every forum family must maintain a composition framework that, at minimum:
 - distinguishes judicial decision authority from advisory, clerical, forensic, or investigative support roles;
 - identifies any seat categories or qualification mixes needed for specialized chambers or designated panels.
 
-Detailed appointment, tenure, rotation, removal, and conflict-control pathways remain governed by `corpus_institutions.md` **CI-4** and **CI-5**, together with `core_10-10_rights_part_d.md` **Article XXIII-B** where applicable. **CF-13** requires those protections to be reflected in the actual forum map and staffing model.
+Detailed appointment, tenure, rotation, removal, and conflict-control pathways remain governed by `corpus_institutions.md` **CI-4** (*Appointment, competency, rotation, and removal*) and **CI-5** (*Conflict integrity, anti-capture, and anti-corruption*), together with `core_10-10_rights_part_d.md` **Article XXIII-B** where applicable. **CF-13** (*Forum staffing, reserve capacity, shared administration, structural review, and structural records*) requires those protections to be reflected in the actual forum map and staffing model.
 
 Forum design must not make constitutionally material adjudication depend on a single indispensable officeholder, gatekeeper, or qualification bottleneck where a lawful multi-sentient structure is feasible.
 
@@ -168,7 +168,7 @@ The following patterns are non-compliant:
 - nominally independent specialist chambers that depend on the regulated sector, dominant profession, or interested institution for member selection, promotion, or livelihood in ways that predictably distort adjudication;
 - reserve-capacity designs that exist formally but cannot realistically be activated on short notice.
 
-Repeated resort to these patterns may be treated as a capture, evasion, or contestability failure under `corpus_institutions.md` **CI-8** and related integrity provisions.
+Repeated resort to these patterns may be treated as a capture, evasion, or contestability failure under `corpus_institutions.md` **CI-8** (*Cross-institution coordination and escalation*) and related integrity provisions.
 
 ### CF-13.5 Structural review and revision cadence
 <details>
@@ -229,7 +229,7 @@ Where review shows persistent overload, recurring chamber misuse, chronic recusa
 <br>
 
 Each adopting entity must maintain and periodically update at least:
-- the public forum-structure map required by **CF-2.2**;
+- the public forum-structure map required by **CF-2.2** (*Family-to-forum-structure translation map*);
 - current chamber-creation instruments and scope descriptions;
 - qualification and competence frameworks by family and designated chamber type;
 - disqualification, incompatibility, rotation, cooling-off, and succession rules applicable to forum-family service;

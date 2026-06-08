@@ -76,7 +76,7 @@ If `---` sits directly under a paragraph, CommonMark-style parsers may treat tha
 Related documents (same corpus):
 
 - **corpus_systems.md** — operational taxonomies and protocols. Coverage includes data types (**Chapter S1**), system classes and dependency types (**Chapter S2**), steward tiers (**Chapter S3**), and implementation protocols.
-- **corpus_joint_structure.md** — compatibility entrypoint for the joint-structure implementation file; substantive CJS text lives in `corpus_joint_structure/` subfiles, including **CJS-4** joint interlocks and the **CJS-5** operational cluster library.
+- **corpus_joint_structure.md** — compatibility entrypoint for the joint-structure implementation file; substantive CJS text lives in `corpus_joint_structure/` subfiles, including **CJS-4** (*Specific joint interlocks and shared abstractions*) joint interlocks and the **CJS-5** (*Implementation and cross-implementation operational cluster library*) operational cluster library.
 - **corpus_institutions.md** — binding incorporated institutional law for governance architecture, oversight and assurance structure, proportionality-scaled formation and operation, and institutional sanctions/dissolution pathways.
 - **corpus_forum.md** — compatibility entrypoint for the forum implementation file; substantive CF text lives in `corpus_forum/` subfiles, covering panel formation, recusal, review lanes, forensic and investigative support, technical specialist forums, performance requirements, and continuity / emergency adjudication.
 - **corpus_joint_structure.md** — wrapper index for cross-implementation joint structural rules and integration interfaces among implementation labels, systems, institutions, and forums.

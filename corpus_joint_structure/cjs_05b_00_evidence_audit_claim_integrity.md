@@ -58,7 +58,7 @@ This family collects the operational clusters that make implementation and cross
 
 <br>
 
-Use this rule for **CJS-R19**, implementation and cross-implementation integrity assurance and resilience operations.
+Use this rule for **CJS-R19** (*Implementation and cross-implementation integrity assurance and resilience operations*), implementation and cross-implementation integrity assurance and resilience operations.
 
 Read it with:
 - Core definitions for auditability, verifiability, reversibility, dependency, cascading failure, adversarial conditions, and trustworthiness.
@@ -181,7 +181,7 @@ Use this rule when public visibility, qualified review, or forensic reconstructi
 Read it with:
 - **CJS-5B.3 — Tiered Transparency and Audit Access**
 - **CJS-5B.2 — Auditability**
-- **CJS-5E.3 and CJS-5D.3 — Reversibility and Containment**
+- **CJS-5E.3** (*Implementation and cross-implementation reversibility and containment terms*) and **CJS-5D.3** (*Implementation and cross-implementation data-retention and lifecycle-integrity terms*) — Reversibility and Containment
 - **Chapter One §6.4.1 — Rights-Collision Decision Test**
 - **`corpus_forum.md` CF-11 — Forum continuity, fallback operation, and emergency adjudication**
 - **Article XV-A**

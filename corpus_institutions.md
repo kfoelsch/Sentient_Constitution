@@ -14,9 +14,9 @@ This file is part of the constitutional corpus as **binding incorporated impleme
 
 Canonical meaning for constitutional terms, Rights Floors, and definition-satisfaction rules remains in the Sentient Constitution and canonical owners in `doc_architecture.md`; nothing here transfers that authority.
 
-Shared preamble contract: apply `corpus_joint_structure.md` **CJS-1.1**.
+Shared preamble contract: apply `corpus_joint_structure.md` **CJS-1.1** (*Shared implementation-corpus preamble contract*).
 
-**Implementation cross-reference index (routing only):** This implementation file is read with Chapter Five constitutional definitions and `corpus_joint_structure.md` **CJS-5** operational clusters where materially applicable. This index is routing guidance only and does not redefine owner-layer meaning.
+**Implementation cross-reference index (routing only):** This implementation file is read with Chapter Five constitutional definitions and `corpus_joint_structure.md` **CJS-5** (*Implementation and cross-implementation operational cluster library*) operational clusters where materially applicable. This index is routing guidance only and does not redefine owner-layer meaning.
 
 ---
 
@@ -24,7 +24,7 @@ Shared preamble contract: apply `corpus_joint_structure.md` **CJS-1.1**.
 
 **Constitutional index (abridged)**
 - Topic-level routing and cited authorities remain in subsection text and cross-references.
-- Canonical owner map: `corpus_joint_structure.md` **CJS-2.2** and `doc_architecture.md` section 4.
+- Canonical owner map: `corpus_joint_structure.md` **CJS-2.2** (*Topic router (stable IDs)*) and `doc_architecture.md` section 4.
 
 This file governs how institutions are formed, authorized, overseen, corrected, and dissolved within constitutional boundaries.
 
@@ -32,14 +32,14 @@ Institutions may design local procedures, but those procedures must remain consi
 
 This file applies that meaning to institutional design and operation.
 
-**Joint implementation read:** where institutional rules intersect **[corpus_systems.md](corpus_systems.md)** classification, **CJS-5** operational clusters, or **Chapter Nine** forum operations, read **`corpus_joint_structure.md`** **CJS-2** (especially **CJS-2.2**) and **CJS-3** in addition to the owner sections cited in each topic.
+**Joint implementation read:** where institutional rules intersect **[corpus_systems.md](corpus_systems.md)** classification, **CJS-5** (*Implementation and cross-implementation operational cluster library*) operational clusters, or **Chapter Nine** forum operations, read **`corpus_joint_structure.md`** **CJS-2** (especially **CJS-2.2** (*Topic router (stable IDs)*)) and **CJS-3** (*Joint structural obligations (cross-domain requirements)*) in addition to the owner sections cited in each topic.
 
 ### CI-1.1: Definition discipline and source hierarchy
 Definition discipline is single-home:
 - Constitutional definition structure, integrity, burden and verification, and foundational definitions remain in [core_02-04_definition_mechanics.md](core_02-04_definition_mechanics.md) **Chapters Two through Four** and Sentient Constitution **Chapter Five**.
 - Compliance-state and offense classification meaning remain in [core_06-06_standing_assessment.md](core_06-06_standing_assessment.md), [core_07-07_standing_integration.md](core_07-07_standing_integration.md), and [core_08-08_misconduct.md](core_08-08_misconduct.md) **Chapters Six and Seven**.
 - Rights meaning remains in the Sentient Constitution Chapter Ten part files (`core_10-10_rights_part_*.md`).
-- Shared operational cluster meanings remain in `corpus_joint_structure.md` **CJS-5**.
+- Shared operational cluster meanings remain in `corpus_joint_structure.md` **CJS-5** (*Implementation and cross-implementation operational cluster library*).
 - System class, dependency, steward, and continuity taxonomies remain in `corpus_systems.md`.
 
 ### CI-1.2: Operational structure and subsection-local terminology
@@ -85,10 +85,10 @@ Operational clusters remain local to this institutional implementation file:
 - they are **not** **Chapter Five** Clustered Definitions,
 - they do **not** add **Independent Definitions**.
 
-Any **read-with** cross-reference stated in the head **OP-O** remains operative for the whole cluster, for example to **CI-10.2** where **recurring or transaction-linked charges** apply.
+Any **read-with** cross-reference stated in the head **OP-O** remains operative for the whole cluster, for example to **CI-10.2** (*Recurring charges, renewals, and commercial billing integrity*) where **recurring or transaction-linked charges** apply.
 
 ### CI-1.4: Section identifiers and article references
-Headings use **CI-1** through **CI-24** (*Corpus Institutions* section *n*). Subsections under each section use **CI-*n*.*m*** (for example **CI-7.2**). They must not be read as Sentient Constitution **Article** numbers. The abbreviation **CI** matches `doc_architecture.md` (*Corpus Institutions* institutional implementation file).
+Headings use **CI-1** (*Scope, purpose, and legitimacy interface*) through **CI-24** (*Corpus Institutions* section *n*). Subsections under each section use **CI-*n*.*m*** (for example **CI-7.2** (*External assurance triggers*)). They must not be read as Sentient Constitution **Article** numbers. The abbreviation **CI** matches `doc_architecture.md` (*Corpus Institutions* institutional implementation file).
 
 Unless another reference pattern is stated, **Article** labels with Roman numerals in this file point to Sentient Constitution Chapter Ten in the `core_10-10_rights_part_*.md` files.
 
@@ -170,7 +170,7 @@ Authorized-role and accountability-chain mechanics (**Chapter Ten**, section 5 �
 - Accountability chains must map role authority to contest and review pathways, including escalation routes when role holders exceed scope or fail material duties.
 - Qualification/disqualification criteria, succession readiness, and capability-refresh obligations must scale with institutional impact and applicable class/tier burden.
 - Role-boundary design must balance **sustained engagement** and **community redundancy**. Institutions must give role-holders enough recurring, bounded responsibility to develop and retain competence in individual sentience, while maintaining cross-training, backup coverage, and cross-functional familiarity sufficient for continuity, review, and succession. Role-sharing is non-compliant when it is so broad or rapidly rotating that responsibility, memory, or competence becomes diffuse; role concentration is non-compliant when too few sentients hold the practical knowledge or authority needed for resilient performance, independent challenge, or lawful succession.
-- Constitutional duties must not depend on single points of sentient-level failure. Institutions governing systems classified **Class A** or **Class B** under **[corpus_systems.md](corpus_systems.md), Chapter S2 — System Classification and Handling** must maintain **at least three sentients** per **functional separation (lane)** they host under **CI-2**. They must also maintain documented competency and succession-effective availability for that lane's materially binding duties, so that no single sentient is the sole qualified actor for that lane.
+- Constitutional duties must not depend on single points of sentient-level failure. Institutions governing systems classified **Class A** or **Class B** under **[corpus_systems.md](corpus_systems.md), Chapter S2 — System Classification and Handling** must maintain **at least three sentients** per **functional separation (lane)** they host under **CI-2** (*Institutional design and separation of powers*). They must also maintain documented competency and succession-effective availability for that lane's materially binding duties, so that no single sentient is the sole qualified actor for that lane.
 
 ---
 
@@ -201,7 +201,7 @@ Mandatory detection and response requirements:
 - institutions must maintain protected intake channels for conflict, corruption, fraud, collusion, concealment, retaliation, and beneficial-interest concerns;
 - intake, triage, and investigation ownership must remain structurally separate from subjects of the allegation wherever feasible;
 - credible allegations that a sortition pool, draw, briefing process, facilitator lane, staff support channel, or implementation response has been manipulated, captured, intimidated, or used to launder a predetermined outcome must be treated as material integrity allegations when the body exercises or materially shapes governing authority;
-- materially credible allegations involving senior role-holders, integrity-linked lanes, or repeated control failures must trigger independent review, external assurance consideration under **CI-7.2**, or escalation through **CI-8** where local independence is not credible;
+- materially credible allegations involving senior role-holders, integrity-linked lanes, or repeated control failures must trigger independent review, external assurance consideration under **CI-7.2** (*External assurance triggers*), or escalation through **CI-8** (*Cross-institution coordination and escalation*) where local independence is not credible;
 - institutions must preserve evidence under [Evidence Preservation](core_05-05_definitions_c_dependent_clusters.md#evidence-preservation), pause destructive retention actions, and record interim safeguards when a material integrity allegation is under review;
 - institutions must document substantiated findings, corrective actions, sanctions, restitution or clawback where applicable, and closure rationale in auditable form.
 
@@ -209,20 +209,20 @@ Disclosure, cure, and consequence rules:
 - institutions must publish which interests, transactions, gifts, outside roles, or beneficial stakes require disclosure or pre-clearance;
 - disclosed information must be current enough for meaningful prevention, not only after-the-fact narration;
 - where a breach is not grave under this section, institutions may allow a documented cure window only when cure does not itself create material prejudice, concealment, or integrity distortion;
-- intentional concealment, record falsification, retaliatory suppression, or repeated breach after cure is aggravated integrity misconduct and must be treated as a sanctions escalator under **CI-11** and **CI-13**.
+- intentional concealment, record falsification, retaliatory suppression, or repeated breach after cure is aggravated integrity misconduct and must be treated as a sanctions escalator under **CI-11** (*Resource stewardship and incentive integrity*) and **CI-13** (*Institutional failure, sanctions, dissolution, and accountability*).
 
 The following breaches constitute grave integrity failure. They must result in immediate forfeiture of the affected authorized role(s) and any associated role(s) the institution's published conflict controls identify as integrity-linked to that breach:
 - material breach of disclosure before material decision participation, where disclosure is required,
 - failure to recuse where conflict is material and recusal is required,
 - material breach of related-party and beneficial-interest reporting, where reporting is required.
 
-Nothing in this section limits criminal liability under applicable law where legal predicates for fraud, corruption, material falsehoods in required disclosures, or cognate offenses are satisfied. Institutions must preserve audit-ready records. They must also refer matters to, or cooperate with, competent criminal authorities as law requires. Forfeiture and referral do not displace timely contest routes under **CI-6** where those routes challenge the underlying finding of breach.
+Nothing in this section limits criminal liability under applicable law where legal predicates for fraud, corruption, material falsehoods in required disclosures, or cognate offenses are satisfied. Institutions must preserve audit-ready records. They must also refer matters to, or cooperate with, competent criminal authorities as law requires. Forfeiture and referral do not displace timely contest routes under **CI-6** (*Procedure integrity, contestability, and secondary review*) where those routes challenge the underlying finding of breach.
 
 **Contingent claims and event markets:** Where institutions supervise, charter, or license high-impact systems that settle stakes on external events (**Chapter Five** — [*Contingent Claim*](core_05-05_definitions_a_independent.md#contingent-claim), [*Event-Contract Market*](core_05-05_definitions_a_independent.md#event-contract-market); [*Game of Chance*](core_05-05_definitions_a_independent.md#game-of-chance) forms), controls in this chapter must extend to governance of outcome-resolution sources, resolution authority, operator role separation where conflicts could distort outcomes (**Chapter Five** — [*Capture of Resolution Pathways*](core_05-05_definitions_b_semi_independent.md#capture-of-resolution-pathways)), and pathways for non-public information. Those pathways must not advantage insiders or corrupt public decisions. See **Sentient Constitution Chapter One**, section **7.2.5**, and the **`corpus_systems.md`** opening interpretation list on **Contingent claims and event markets**.
 
 ### CI-5.1: Integrity trigger taxonomy and cross-layer routing (control package)
 
-This subsection names **implementation-layer** trigger categories and routes so **CI-5** operates as one coordinated package. It does **not** add constitutional rights, offense labels, or forum structure. **Final** general classification on **Chapter Six** axes and **final** **Violation Axis s = 7, 8, or 9** anti-constitutional-misconduct slot labels remain owned only by **Chapter Six** and **Chapter Eight**, respectively (pointer-only here).
+This subsection names **implementation-layer** trigger categories and routes so **CI-5** (*Conflict integrity, anti-capture, and anti-corruption*) operates as one coordinated package. It does **not** add constitutional rights, offense labels, or forum structure. **Final** general classification on **Chapter Six** axes and **final** **Violation Axis s = 7, 8, or 9** anti-constitutional-misconduct slot labels remain owned only by **Chapter Six** and **Chapter Eight**, respectively (pointer-only here).
 
 **Trigger categories (non-exhaustive labels for control mapping and training):**
 - **Corruption** — misuse of public or fiduciary power for private gain or undisclosed advantage.
@@ -231,16 +231,16 @@ This subsection names **implementation-layer** trigger categories and routes so 
 - **Procurement capture** — distortion of vendor selection, specifications, evaluation, or renewal to favor insiders or foreclose contestability.
 - **Assurance capture** — compromise, intimidation, or structural dependence of audit, compliance, risk, or assurance functions such that independent challenge is illusory.
 - **Reporting suppression** — retaliation, coercion, or procedural abuse that chills protected escalation or record-keeping for integrity concerns.
-- **Conflict concealment** — failure to disclose, late disclosure, or dishonest disclosure where **CI-5** requires timely honest disclosure.
+- **Conflict concealment** — failure to disclose, late disclosure, or dishonest disclosure where **CI-5** (*Conflict integrity, anti-capture, and anti-corruption*) requires timely honest disclosure.
 
 **Routing (owner sections, not parallel doctrine):**
-- **Intake and triage** — **CI-5** mandatory detection requirements; protected channels and structural separation from subjects of allegation.
-- **Investigation and evidence custody** — **CI-7** / **CI-7A**; where forum or forensic support is primary, **`corpus_forum.md`** **CF-3**, **CF-7**, **CF-8**, and **CF-9** as applicable; **CI-7B** for technical dispute routing.
-- **Independence, recusal, and anti-self-judging** — **CI-2**, **CI-3**, **CI-6**; forum-side rules in **`corpus_forum.md`** **CF-3** and **CF-6** where adjudication is implicated.
-- **Escalation across institutions** — **CI-8**; external assurance under **CI-7.2** where local independence is not credible.
-- **Institutional sanctions and role forfeiture** — **CI-11** and **CI-13** as this file already states; **not** a substitute for **Chapter Eight** slot-classification proceedings where those are the canonical route for the conduct class.
+- **Intake and triage** — **CI-5** (*Conflict integrity, anti-capture, and anti-corruption*) mandatory detection requirements; protected channels and structural separation from subjects of allegation.
+- **Investigation and evidence custody** — **CI-7** (*Oversight, assurance, controls, and evidence*) / **CI-7A** (*Forum forensic and analytical support*); where forum or forensic support is primary, **`corpus_forum.md`** **CF-3** (*Panel formation, disclosure, recusal, and lawful bench constitution*), **CF-7** (*Forum forensic and analytical support*), **CF-8** (*Independent investigative service and prosecution interface*), and **CF-9** (*Technical specialist forums and specialist chambers*) as applicable; **CI-7B** (*Technical forums: science, engineering, medicine, and related fields*) for technical dispute routing.
+- **Independence, recusal, and anti-self-judging** — **CI-2** (*Institutional design and separation of powers*), **CI-3** (*Authority custody, delegation, and risk profile*), **CI-6** (*Procedure integrity, contestability, and secondary review*); forum-side rules in **`corpus_forum.md`** **CF-3** (*Panel formation, disclosure, recusal, and lawful bench constitution*) and **CF-6** (*Integrity safeguards, anti-capture operations, and anti-self-judging support*) where adjudication is implicated.
+- **Escalation across institutions** — **CI-8** (*Cross-institution coordination and escalation*); external assurance under **CI-7.2** (*External assurance triggers*) where local independence is not credible.
+- **Institutional sanctions and role forfeiture** — **CI-11** (*Resource stewardship and incentive integrity*) and **CI-13** (*Institutional failure, sanctions, dissolution, and accountability*) as this file already states; **not** a substitute for **Chapter Eight** slot-classification proceedings where those are the canonical route for the conduct class.
 
-**Cure, remediation, disclosure, and referral — pointer-only to classification owners:** Where a matter implicates whether conduct is a **contribution / violation / standing** issue, or what **Violation Axis s = 7, 8, or 9** slot label applies, institutions apply **Chapter Six** and **Chapter Eight** through their ordinary procedures and records. This subsection does **not** restate those tests. Criminal or specialized external referral remains as required by applicable law and **CI-5** records duties.
+**Cure, remediation, disclosure, and referral — pointer-only to classification owners:** Where a matter implicates whether conduct is a **contribution / violation / standing** issue, or what **Violation Axis s = 7, 8, or 9** slot label applies, institutions apply **Chapter Six** and **Chapter Eight** through their ordinary procedures and records. This subsection does **not** restate those tests. Criminal or specialized external referral remains as required by applicable law and **CI-5** (*Conflict integrity, anti-capture, and anti-corruption*) records duties.
 
 ---
 
@@ -248,7 +248,7 @@ This subsection names **implementation-layer** trigger categories and routes so 
 
 Procedure rules here must remain consistent with **Chapter Five** (*Procedural Fairness*, *Contestability*, *Accountability*, *Redress and Remediation*) and with `core_02-04_definition_mechanics.md` **Chapter Four** verification and traceability rules. This chapter does not create a second offense-classification system.
 
-**Usage in this section.** **Representative treatment** uses the `corpus_joint_structure.md` **CJS-4.7** Tier 1 abstraction for resolving common questions for a broader affected group while preserving notice, adequacy, contestability, and sentient-specific process. **CI-6** adds the institutional procedure details below. **Common decision rule** is CI-local shorthand for a shared rule, policy logic, model behavior, institutional criterion, or comparable decision basis that materially drives outcomes across multiple affected parties.
+**Usage in this section.** **Representative treatment** uses the `corpus_joint_structure.md` **CJS-4.7** (*Shared procedural abstractions for delegated bodies and forum routing*) Tier 1 abstraction for resolving common questions for a broader affected group while preserving notice, adequacy, contestability, and sentient-specific process. **CI-6** (*Procedure integrity, contestability, and secondary review*) adds the institutional procedure details below. **Common decision rule** is CI-local shorthand for a shared rule, policy logic, model behavior, institutional criterion, or comparable decision basis that materially drives outcomes across multiple affected parties.
 
 Due-process operationalization (**Article XI-D** — internal roles, accountability, and due-process requirements — interface) must include:
 - notice,
@@ -270,7 +270,7 @@ Institutions must publish a plain-language procedure map that identifies where e
 
 **Constitutional index (abridged)**
 - Topic-level routing and cited authorities remain in subsection text and cross-references.
-- Canonical owner map: `corpus_joint_structure.md` **CJS-2.2** and `doc_architecture.md` section 4.
+- Canonical owner map: `corpus_joint_structure.md` **CJS-2.2** (*Topic router (stable IDs)*) and `doc_architecture.md` section 4.
 
 Institutions must operate a three-lines assurance model:
 - operational ownership line,
@@ -326,48 +326,48 @@ Published trigger criteria must also state:
 - who may invoke the trigger and whether affected parties, contest-integrity monitors, or assurance-line actors may demand review;
 - the minimum scope of the assurance engagement, including affected controls, records, and remediation claims;
 - publication expectations for outcomes, limits, and unresolved exceptions;
-- when escalation through **CI-8** is required because local commissioning authority is conflicted, captured, unavailable, or non-responsive.
+- when escalation through **CI-8** (*Cross-institution coordination and escalation*) is required because local commissioning authority is conflicted, captured, unavailable, or non-responsive.
 
 ### CI-7.3: Contest-integrity monitoring (Class A and Class B)
-Where institutional governed scope includes **Class A** or **Class B** systems (`corpus_systems.md` **Chapter S2**), institutions must maintain **contest-integrity** capacity as part of the **independent assurance line**, or through an equivalent documented arrangement with the same **independence** expectations. Contest-integrity functions must **not** report to the **operational ownership line** for the same contested scope. **CI-4** and **CI-5** govern appointments, conflicts, and recusal.
+Where institutional governed scope includes **Class A** or **Class B** systems (`corpus_systems.md` **Chapter S2**), institutions must maintain **contest-integrity** capacity as part of the **independent assurance line**, or through an equivalent documented arrangement with the same **independence** expectations. Contest-integrity functions must **not** report to the **operational ownership line** for the same contested scope. **CI-4** (*Appointment, competency, rotation, and removal*) and **CI-5** (*Conflict integrity, anti-capture, and anti-corruption*) govern appointments, conflicts, and recusal.
 
-**Purpose.** Assess whether **contest, secondary review, audit access, and protected escalation** pathways **function in practice**. This includes **timeliness**, **accessibility**, **backlogs**, **evidence availability** within **security-constrained observability** (`core_02-04_definition_mechanics.md` **Chapter Four**), and **patterns** suggestive of **chill**, **capture**, or **retaliation**. Monitors do this without substituting for **merits adjudication** on individual disputes under `core_10-10_rights_part_c.md` **Article XII-B**, **Chapter Five** (*Procedural Fairness*, *Contestability*, *Redress and Remediation*), and **CI-6**. Monitors **escalate** structural failures to remediation, **CI-8** where cross-institution deadlock applies, and **external assurance** triggers in this chapter.
+**Purpose.** Assess whether **contest, secondary review, audit access, and protected escalation** pathways **function in practice**. This includes **timeliness**, **accessibility**, **backlogs**, **evidence availability** within **security-constrained observability** (`core_02-04_definition_mechanics.md` **Chapter Four**), and **patterns** suggestive of **chill**, **capture**, or **retaliation**. Monitors do this without substituting for **merits adjudication** on individual disputes under `core_10-10_rights_part_c.md` **Article XII-B**, **Chapter Five** (*Procedural Fairness*, *Contestability*, *Redress and Remediation*), and **CI-6** (*Procedure integrity, contestability, and secondary review*). Monitors **escalate** structural failures to remediation, **CI-8** (*Cross-institution coordination and escalation*) where cross-institution deadlock applies, and **external assurance** triggers in this chapter.
 
 **Dual scope.**
-- **Institutional:** materially impactful decisions, contest pathways, procedure maps, and records under **CI-6**; **protected escalation** **path** under **CI-12** and **`INST-PROTO-12`** where applicable.
+- **Institutional:** materially impactful decisions, contest pathways, procedure maps, and records under **CI-6** (*Procedure integrity, contestability, and secondary review*); **protected escalation** **path** under **CI-12** (*Transparency, participation, and accessible pathways*) and **`INST-PROTO-12`** where applicable.
 - **System-supervised:** operator-published challenge routes, observability and verification access, and classification or **misclassification** handling under **`corpus_systems.md` Chapter S2** and **Chapter S3** and **Sentient Constitution Chapter Ten, Article XV-A** plus Article XV's verification-access provisions, within the institution’s constitutional mandate.
 
 **Roles and constitutional mandate.** Institutions must designate one or more **contest-integrity monitors** (titles may include inspector, ombud, or equivalent). Each must have a **published constitutional mandate**. That mandate must state the role, any **explicit exclusions** from binding **merits** decisions unless a **separate** lawful role authorizes them, the **reporting line** into **independent assurance**, the **cadence** scaled to class or tier, and the **interface** to **three-lines** attestation (**`INST-PROTO-11`**). For **Class A**, at least one monitor, or a **mandatory external** participant in the function, must be **independent** or **functionally independent** of the sole operational appointing chain for the contested scope where **feasible**.
 
 **Outputs.** Findings must be **auditable**; **material** contest-integrity failures must feed **remediation** and may invoke **`INST-PROTO-17`**. Operational pattern and evidence expectations for this subsection are referenced as **`INST-PROTO-24`**.
 
-**Article XIII-A monitoring emphasis.** Where institutions exercise or supervise covert, secrecy-constrained, intelligence-like, or politically sensitive security powers, contest-integrity monitoring must explicitly test whether the Article XIII-A and **CF-8** pathways identified above function in practice. The monitor record must be sufficient to detect independence failure, protected-activity chill, secrecy-duration drift, unavailable lawful notice or disclosure pathways, and foreign, contractor, or inter-agency bypass of applicable limits without restating the underlying Article XIII-A rule set.
+**Article XIII-A monitoring emphasis.** Where institutions exercise or supervise covert, secrecy-constrained, intelligence-like, or politically sensitive security powers, contest-integrity monitoring must explicitly test whether the Article XIII-A and **CF-8** (*Independent investigative service and prosecution interface*) pathways identified above function in practice. The monitor record must be sufficient to detect independence failure, protected-activity chill, secrecy-duration drift, unavailable lawful notice or disclosure pathways, and foreign, contractor, or inter-agency bypass of applicable limits without restating the underlying Article XIII-A rule set.
 
-Where `core_09-09_forum.md` **Chapter Nine** requires **cross-forum anti-self-judging** routing, contest-integrity functions must preserve records sufficient to support **reasoned** transfer, recusal, and backup-forum activation. They must also preserve enough record to review whether the designated forum could form an **independent** panel. They must do so without displacing the assigned merits forum. See also **`corpus_joint_structure.md` CJS-3.3**.
+Where `core_09-09_forum.md` **Chapter Nine** requires **cross-forum anti-self-judging** routing, contest-integrity functions must preserve records sufficient to support **reasoned** transfer, recusal, and backup-forum activation. They must also preserve enough record to review whether the designated forum could form an **independent** panel. They must do so without displacing the assigned merits forum. See also **`corpus_joint_structure.md` CJS-3.3** (*Boundary Between Support Roles and Merits Decisions*).
 
 ---
 
 ## CI-7A: Forum forensic and analytical support
 
-**Joint read:** **`corpus_joint_structure.md` CJS-2.2** row **CJS-R07**; **CJS-3.3**, **CJS-3.4**.
+**Joint read:** **`corpus_joint_structure.md` CJS-2.2** (*Topic router (stable IDs)*) row **CJS-R07** (*Forum forensic and analytical support*); **CJS-3.3** (*Boundary Between Support Roles and Merits Decisions*), **CJS-3.4** (*Institution-hosted or forum-adjacent operations*).
 
-**Operative owner:** `corpus_forum.md` **CF-7**. Institutions that operate or support forum families must **satisfy CF-7 in full** (capacity, independence, contestability, and evidence-custody duties). **CJS-3.3** and **CJS-3.4** state joint requirements for separating contest-integrity monitoring (**CI-7.3**) from case-specific forensic support and for keeping forum-adjacent institutional design from narrowing **CF-7**.
+**Operative owner:** `corpus_forum.md` **CF-7** (*Forum forensic and analytical support*). Institutions that operate or support forum families must **satisfy CF-7 (*Forum forensic and analytical support*) in full** (capacity, independence, contestability, and evidence-custody duties). **CJS-3.3** (*Boundary Between Support Roles and Merits Decisions*) and **CJS-3.4** (*Institution-hosted or forum-adjacent operations*) state joint requirements for separating contest-integrity monitoring (**CI-7.3** (*Contest-integrity monitoring (Class A and Class B)*)) from case-specific forensic support and for keeping forum-adjacent institutional design from narrowing **CF-7** (*Forum forensic and analytical support*).
 
 ---
 
 ## CI-7A.1: Independent investigative service
 
-**Joint read:** **`corpus_joint_structure.md` CJS-2.2** row **CJS-R08**; **CJS-3.3**, **CJS-3.4**.
+**Joint read:** **`corpus_joint_structure.md` CJS-2.2** (*Topic router (stable IDs)*) row **CJS-R08** (*Independent investigative service and prosecution interface*); **CJS-3.3** (*Boundary Between Support Roles and Merits Decisions*), **CJS-3.4** (*Institution-hosted or forum-adjacent operations*).
 
-**Operative owner:** `corpus_forum.md` **CF-8**. Institutions exercising or supervising public-law enforcement power must **satisfy CF-8 in full**, including institutional distinctness from operational enforcement command and final merits adjudication, appointment and conflict design that supports **CF-8** independence, and prohibition on using foreign partners, private contractors, or parallel domestic bodies to bypass limits, approvals, or review channels that would apply to the same activity conducted directly. Where local independence is not credible (concentration, emergency incapacity, deadlock, or systemic capture indicators), escalate through **CI-8**, external assurance, or another lawful backup body **consistent with CF-8** (**CJS-R08**).
+**Operative owner:** `corpus_forum.md` **CF-8** (*Independent investigative service and prosecution interface*). Institutions exercising or supervising public-law enforcement power must **satisfy CF-8 (*Independent investigative service and prosecution interface*) in full**, including institutional distinctness from operational enforcement command and final merits adjudication, appointment and conflict design that supports **CF-8** (*Independent investigative service and prosecution interface*) independence, and prohibition on using foreign partners, private contractors, or parallel domestic bodies to bypass limits, approvals, or review channels that would apply to the same activity conducted directly. Where local independence is not credible (concentration, emergency incapacity, deadlock, or systemic capture indicators), escalate through **CI-8** (*Cross-institution coordination and escalation*), external assurance, or another lawful backup body **consistent with CF-8** (**CJS-R08** (*Independent investigative service and prosecution interface*)).
 
 ---
 
 ## CI-7B: Technical forums: science, engineering, medicine, and related fields
 
-**Joint read:** **`corpus_joint_structure.md` CJS-2.2** row **CJS-R09**; **CJS-3.3**.
+**Joint read:** **`corpus_joint_structure.md` CJS-2.2** (*Topic router (stable IDs)*) row **CJS-R09** (*Technical forums and specialist chambers*); **CJS-3.3** (*Boundary Between Support Roles and Merits Decisions*).
 
-**Operative owner:** `corpus_forum.md` **CF-9**. Science, engineering, medical, or comparable technical forums must **satisfy CF-9 in full**, remain chambers or designated panels within **Chapter Nine** forum families, and must not displace primary-stakes routing. Institutions using shared cross-jurisdiction or cross-sector standards should treat technical forums as the principal reviewable standards-maintenance forum within lawful scope while leaving ordinary institution-facing enforcement to the lead forum family **Chapter Nine** assigns. Where disputes implicate publication suppression, replication denial, correction refusal, or manipulation of scientific standing, read **CF-9** together with **CI-15B**.
+**Operative owner:** `corpus_forum.md` **CF-9** (*Technical specialist forums and specialist chambers*). Science, engineering, medical, or comparable technical forums must **satisfy CF-9 (*Technical specialist forums and specialist chambers*) in full**, remain chambers or designated panels within **Chapter Nine** forum families, and must not displace primary-stakes routing. Institutions using shared cross-jurisdiction or cross-sector standards should treat technical forums as the principal reviewable standards-maintenance forum within lawful scope while leaving ordinary institution-facing enforcement to the lead forum family **Chapter Nine** assigns. Where disputes implicate publication suppression, replication denial, correction refusal, or manipulation of scientific standing, read **CF-9** (*Technical specialist forums and specialist chambers*) together with **CI-15B** (*Scientific publication, peer review, replication, and evidence stewardship*).
 
 ---
 
@@ -391,7 +391,7 @@ External-order interactions must remain consistent with constitutional change an
 
 **Constitutional index (abridged)**
 - Topic-level routing and cited authorities remain in subsection text and cross-references.
-- Canonical owner map: `corpus_joint_structure.md` **CJS-2.2** and `doc_architecture.md` section 4.
+- Canonical owner map: `corpus_joint_structure.md` **CJS-2.2** (*Topic router (stable IDs)*) and `doc_architecture.md` section 4.
 
 Institutional governance burden must scale with `corpus_systems.md` Chapter S2 classes and Chapter S3 stewardship tiers.
 
@@ -411,7 +411,7 @@ Scaling must be explicit at least for:
 - publication depth,
 - continuity planning depth,
 - compliance cost expectations,
-- contest-integrity monitoring depth and cadence for **Class A** and **Class B** supervised scope (**CI-7**; **`INST-PROTO-24`**).
+- contest-integrity monitoring depth and cadence for **Class A** and **Class B** supervised scope (**CI-7** (*Oversight, assurance, controls, and evidence*); **`INST-PROTO-24`**).
 
 ### CI-9.1A: Published industry and domain mapping
 Institutions with regulated or supervised scope must publish how major industries and regulatory domains under their authority are located against `corpus_systems.md` **Chapter S2** classes and **Chapter S3** stewardship tiers.
@@ -429,17 +429,17 @@ Institutions must not rely on unlabeled, ad hoc, or selectively applied sector c
 ### CI-9.1B: Delegated subunits, institutional design class, and attachment discipline
 **Purpose.** This subsection generalizes internal delegation discipline—identification, authority-composition transparency, **anticipatable** bounds on **rotating** service, and published continuity rules for **home-based** roles—across institutions. It scales with **institutional design class** under this subsection.
 
-**Forum-specific detail** (families, routing, appeals, specialist chamber doctrine) remains in `corpus_forum.md` **CF-2** (including **CF-2.5** onward). Where **CF-2.6** states forum-specific delegated-authority duties or illustrations, **CF** text governs for **Chapter Nine** forums. Where obligations overlap, the **stricter** applicable rule governs.
+**Forum-specific detail** (families, routing, appeals, specialist chamber doctrine) remains in `corpus_forum.md` **CF-2** (including **CF-2.5** (*Chamber creation, identification, and family boundary*) onward). Where **CF-2.6** (*Chamber authority composition and service mechanics*) states forum-specific delegated-authority duties or illustrations, **CF** text governs for **Chapter Nine** forums. Where obligations overlap, the **stricter** applicable rule governs.
 
-**Institutional design class (this subsection only).** Use the **highest** `corpus_systems.md` **Chapter S2 — System Classification and Handling** class among systems in the institution's **published governed scope** (including maps under **CI-9.1A**). Only **Class A**, **Class B**, and **Class C** are in range for the default scaling below.
+**Institutional design class (this subsection only).** Use the **highest** `corpus_systems.md` **Chapter S2 — System Classification and Handling** class among systems in the institution's **published governed scope** (including maps under **CI-9.1A** (*Published industry and domain mapping*)). Only **Class A**, **Class B**, and **Class C** are in range for the default scaling below.
 
 **Forum floor.** Every **forum family**, **forum**, or **adjudicative body** within **Chapter Nine** in `core_09-09_forum.md` is treated as **at least Class C** for **institutional design class** under this subsection—including for **internal chambers** and **designated panels**—regardless of whether other governed systems are labeled below Class C.
 
-**Delegated subunit** is the CI-specific application of the `corpus_joint_structure.md` **CJS-4.7** **Delegated binding body** abstraction: a standing or recurring internal body (for example a division, chamber, committee, designated panel, or regional or functional office with decision rights) that exercises **materially binding** delegated authority for the parent institution and is **not** the institution's sole governing plenary.
+**Delegated subunit** is the CI-specific application of the `corpus_joint_structure.md` **CJS-4.7** (*Shared procedural abstractions for delegated bodies and forum routing*) **Delegated binding body** abstraction: a standing or recurring internal body (for example a division, chamber, committee, designated panel, or regional or functional office with decision rights) that exercises **materially binding** delegated authority for the parent institution and is **not** the institution's sole governing plenary.
 
 **Applicability.**
-- Where institutional design class is **Class C**, **Class B**, or **Class A**, each **delegated subunit** with materially binding authority must satisfy **CI-9.1B.1**. Each such subunit must satisfy **CI-9.1B.2** (hybrid composition joint minimum in **`corpus_joint_structure.md` CJS-4.1** plus **CI-9.1B.2** institution-specific rules), **CI-9.1B.3** (rotating attachment bounds for the rotating pole), and **CI-9.1B.4** (home-based term and renewal rules for the home-based pole).
-- Where institutional design class is **below Class C** and the institution is **not** a **Chapter Nine** forum, **CI-9.1B** applies only to delegated subunits that **materially bind** outsiders, **allocate scarce public goods**, **license or certify** conduct with material impact, or **materially affect** systems classified **Class A**, **Class B**, or **Class C**. In those cases, evaluate **CI-9.1B** at the **highest** class **triggered** by the subunit's work (minimum **Class C** treatment for that subunit).
+- Where institutional design class is **Class C**, **Class B**, or **Class A**, each **delegated subunit** with materially binding authority must satisfy **CI-9.1B.1** (*Identification and competence*). Each such subunit must satisfy **CI-9.1B.2** (hybrid composition joint minimum in **`corpus_joint_structure.md` CJS-4.1** (*Mandatory hybrid authority composition (delegated binding bodies)*) plus **CI-9.1B.2** (*Authority composition*) institution-specific rules), **CI-9.1B.3** (rotating attachment bounds for the rotating pole), and **CI-9.1B.4** (home-based term and renewal rules for the home-based pole).
+- Where institutional design class is **below Class C** and the institution is **not** a **Chapter Nine** forum, **CI-9.1B** (*Delegated subunits, institutional design class, and attachment discipline*) applies only to delegated subunits that **materially bind** outsiders, **allocate scarce public goods**, **license or certify** conduct with material impact, or **materially affect** systems classified **Class A**, **Class B**, or **Class C**. In those cases, evaluate **CI-9.1B** (*Delegated subunits, institutional design class, and attachment discipline*) at the **highest** class **triggered** by the subunit's work (minimum **Class C** treatment for that subunit).
 
 ### CI-9.1B.1: Identification and competence
 Each formation or authorizing instrument must state:
@@ -447,15 +447,15 @@ Each formation or authorizing instrument must state:
 - the subunit's **subject-matter scope**;
 - the **competence profile** expected for service in the subunit.
 
-Subunits must remain **subordinate** to the parent mandate. They must not operate as **parallel** decision routes that bypass published hierarchy, **CI-6** contest pathways, or **Chapter Eight** routing where adjudication applies.
+Subunits must remain **subordinate** to the parent mandate. They must not operate as **parallel** decision routes that bypass published hierarchy, **CI-6** (*Procedure integrity, contestability, and secondary review*) contest pathways, or **Chapter Eight** routing where adjudication applies.
 
 ### CI-9.1B.2: Authority composition
-**Joint minimum.** Delegated subunits in scope must satisfy **`corpus_joint_structure.md` CJS-4.1** (*Mandatory hybrid authority composition*). Read **CJS-4.1** with **CI-9.1B.1**, **CI-9.1B.3**, and **CI-9.1B.4** for identification, attachment bounds, and home-based term rules.
+**Joint minimum.** Delegated subunits in scope must satisfy **`corpus_joint_structure.md` CJS-4.1** (*Mandatory hybrid authority composition*). Read **CJS-4.1** (*Mandatory hybrid authority composition (delegated binding bodies)*) with **CI-9.1B.1** (*Identification and competence*), **CI-9.1B.3** (*Rotating authority: attachment bounds*), and **CI-9.1B.4** (*Home-based authority: term and renewal*) for identification, attachment bounds, and home-based term rules.
 
-**Institution-specific.** Where a **multi-member** body uses a **different balance** than minority **home-based** on the deciding bench, or an **equivalent hybrid across stages** that materially changes capture risk, the instrument must publish **substitute capture safeguards** proportionate to institutional design class under **CI-5**. For **Class A** and **Class B**, that pattern is **non-compliant** unless it is **previewed** through **independent assurance** under **CI-7.2** and **`INST-PROTO-17`**, or through a **published** cross-institution arrangement under **CI-8** that provides **functionally independent** review of the instrument.
+**Institution-specific.** Where a **multi-member** body uses a **different balance** than minority **home-based** on the deciding bench, or an **equivalent hybrid across stages** that materially changes capture risk, the instrument must publish **substitute capture safeguards** proportionate to institutional design class under **CI-5** (*Conflict integrity, anti-capture, and anti-corruption*). For **Class A** and **Class B**, that pattern is **non-compliant** unless it is **previewed** through **independent assurance** under **CI-7.2** (*External assurance triggers*) and **`INST-PROTO-17`**, or through a **published** cross-institution arrangement under **CI-8** (*Cross-institution coordination and escalation*) that provides **functionally independent** review of the instrument.
 
 ### CI-9.1B.3: Rotating authority: attachment bounds
-Apply **`corpus_joint_structure.md` CJS-4.2** for shared rotating-attachment requirements (bounded formula, no undefined duration discretion, illustration status, and continuity relationship to home-based terms).
+Apply **`corpus_joint_structure.md` CJS-4.2** (*Shared attachment and continuity mechanics*) for shared rotating-attachment requirements (bounded formula, no undefined duration discretion, illustration status, and continuity relationship to home-based terms).
 
 **Scaling by institutional design class:**
 - **Class C:** **Suggested** guidance: treat **one calendar year** as the ordinary **maximum** for a single rotating attachment spell unless the instrument publishes a longer ceiling and a brief justification.
@@ -463,7 +463,7 @@ Apply **`corpus_joint_structure.md` CJS-4.2** for shared rotating-attachment req
 - **Class A:** the ordinary **maximum** of **one calendar year** for a single rotating attachment spell is **expected**; any **longer** published ceiling requires **independent external assurance** or **documented external participation** in the approval record under **`INST-PROTO-17`**.
 
 ### CI-9.1B.4: Home-based authority: term and renewal
-Apply **`corpus_joint_structure.md` CJS-4.2** for shared home-based continuity requirements (published term/renewal/stagger rules and no mirror requirement relative to rotating formulas). This subsection retains institution-specific scaling and assurance requirements.
+Apply **`corpus_joint_structure.md` CJS-4.2** (*Shared attachment and continuity mechanics*) for shared home-based continuity requirements (published term/renewal/stagger rules and no mirror requirement relative to rotating formulas). This subsection retains institution-specific scaling and assurance requirements.
 
 ### CI-9.2: Survival floors, voluntary exchange, and markets (Article III-A interface)
 **Purpose.** **Article III-A** (*Survival*) in `core_10-10_rights_part_*.md` states outcome obligations for essential resources, housing, and connectivity. This subsection records how institutions should connect those outcomes to public revenue, user charges, and voluntary economic activity. It does not restate constitutional rights and does not specify tax bases, rates, or national fiscal law.
@@ -480,7 +480,7 @@ Apply **`corpus_joint_structure.md` CJS-4.2** for shared home-based continuity r
 
 ## CI-10: Public revenue, fees, recurring charges, and billing integrity
 
-This chapter collects **class-aligned fiscal orientation** and **recurring-charge requirements** in one place for steady reference. It works together with **CI-9** (classification-linked formation and scaling, **CI-9.1B** delegated-subunit discipline, and the **Article III-A** interface on survival floors and markets). It does not specify tax bases, rates, credits, enforcement, or cross-border rules except where noted; many details remain **governing law** outside this file (see `doc_architecture.md`, **constitutional and political** embedding boundary).
+This chapter collects **class-aligned fiscal orientation** and **recurring-charge requirements** in one place for steady reference. It works together with **CI-9** (classification-linked formation and scaling, **CI-9.1B** (*Delegated subunits, institutional design class, and attachment discipline*) delegated-subunit discipline, and the **Article III-A** interface on survival floors and markets). It does not specify tax bases, rates, credits, enforcement, or cross-border rules except where noted; many details remain **governing law** outside this file (see `doc_architecture.md`, **constitutional and political** embedding boundary).
 
 ### CI-10.1: Public revenue, user fees, and class-aligned burden
 This subsection states **orientation** for how institutions—and adopting authorities where they have discretion—should think about **taxes, charges, and similar revenue measures** in relation to `corpus_systems.md` **Chapter S2** system classes. It does **not** specify tax bases, rates, credits, enforcement, or cross-border rules; those remain **governing law** outside this file (see `doc_architecture.md`, **constitutional and political** embedding boundary).
@@ -503,7 +503,7 @@ This subsection states **orientation** for how institutions—and adopting autho
 ### CI-10.2: Recurring charges, renewals, and commercial billing integrity
 **Purpose.** This subsection records institutional requirements for **recurring and transaction-linked charges**, including subscriptions, memberships, paid tiers, and trial-to-paid conversion, where institutions **supervise, charter, or set compliance expectations** for governed systems. It does **not** restate constitutional rights. Constitutional meaning remains authoritative in **Sentient Constitution Chapter Ten, Article II-D** (*Post-Sale Access and Subscription Integrity*), **Article XIV**, **Article X-A**, and related **Chapter Five** definitions such as **Meaningful Agency**, **Consent**, **Coercion and Manipulation** (including **predatory choice architecture** as described in its evaluative examples), and **Trust Degradation and Misleading Reliance** where **material reliance** on represented terms, renewal, or exit conditions is at issue. **Chapter Six** **contribution / violation / standing** classification remains authoritative where offense-linked evaluation applies.
 
-**Eligibility for class-appropriate subscription-style revenue.** For supervised scope, **access fees**, **subscriptions**, and **usage-based charges** are **institutionally aligned** with the **Class L and Class P** orientation in **CI-10.1** only when the requirements in this subsection are met. Those requirements scale to **class**, **tier**, and **material impact** under `corpus_systems.md` **Chapter S2** and **Chapter S3**.
+**Eligibility for class-appropriate subscription-style revenue.** For supervised scope, **access fees**, **subscriptions**, and **usage-based charges** are **institutionally aligned** with the **Class L and Class P** orientation in **CI-10.1** (*Public revenue, user fees, and class-aligned burden*) only when the requirements in this subsection are met. Those requirements scale to **class**, **tier**, and **material impact** under `corpus_systems.md` **Chapter S2** and **Chapter S3**.
 
 **Affirmative commitment and renewal honesty.**
 - **Negative option and trial conversion:** Paid renewal and **conversion from free or trial states** must rest on **affirmative, informed commitment** when constitutional **Materiality** is satisfied. They must not rest on **obscured defaults**, **pre-selected paid options**, or interface sequences whose **primary effect** is to capture assent without comprehension.
@@ -513,7 +513,7 @@ This subsection states **orientation** for how institutions—and adopting autho
 
 **Bundled and composite offers.** Where multiple entitlements are sold or billed together, operators must **disclose at commitment** whether components are **independently cancellable** and how **partial exit** affects **price and access**. Composite structures whose **primary effect** is to **block proportionate exit** from a single component are **inconsistent** with **contestability** expectations in this file and must be **supervised and corrected** under institutional scaling rules.
 
-**Scaling.** **Class C** surfaces and **higher stewardship tiers** carry **stronger attestation and audit** expectations for the bullets above than **localized Class P** scope, consistent with proportionality and dependency signals in **CI-9** and **CI-10.1**.
+**Scaling.** **Class C** surfaces and **higher stewardship tiers** carry **stronger attestation and audit** expectations for the bullets above than **localized Class P** scope, consistent with proportionality and dependency signals in **CI-9** (*Classification-linked institutional obligations*) and **CI-10.1** (*Public revenue, user fees, and class-aligned burden*).
 
 **Pathway implementation** (substantive steps, channel class, discoverability, accessibility, and retention-flow treatment) is stated in **CI-12.1** (*Digital self-service pathway integrity*) so operational UX requirements have a single detailed home.
 
@@ -525,9 +525,9 @@ Institutions must document, for governed scope, how **revenue and fee choices** 
 
 **Continuity planning:** Institutions must maintain resource adequacy for safe continuity and constitutional performance. **Sabotage of continuity planning** and **willful negligence in continuity planning** are **anti-constitutional misconduct** for purposes of malus, clawback, and related remedies in this chapter when they are **material** to institutional duties or supervised scope and **verified** under **Chapters Two through Four** and **Chapter Six** as applicable. Malus and clawback pathways must apply when severe control failures or verified anti-constitutional misconduct occur.
 
-**High-impact governance continuity and exercises.** Where governed scope includes **Class A** or **Class B** systems, or materially affects **Critical System Stewards**, institutions must align supervised operation with **`corpus_systems.md` Protocol A**, subsection **G** (*Governance continuity, crisis communications, and exercises*). **CI-11** states the institutional trigger and supervisory interface only; operative exercise, crisis-communication, recovery-record, and remediation requirements remain in **Protocol A**, subsection **G**.
+**High-impact governance continuity and exercises.** Where governed scope includes **Class A** or **Class B** systems, or materially affects **Critical System Stewards**, institutions must align supervised operation with **`corpus_systems.md` Protocol A**, subsection **G** (*Governance continuity, crisis communications, and exercises*). **CI-11** (*Resource stewardship and incentive integrity*) states the institutional trigger and supervisory interface only; operative exercise, crisis-communication, recovery-record, and remediation requirements remain in **Protocol A**, subsection **G**.
 
-**Class-aligned fiscal orientation:** taxes, access charges, and similar revenue are covered in **CI-10.1** and **CI-10.2** within **CI-10**. Those sections align to `corpus_systems.md` **Chapter S2** system classes. The **Article III-A** interface for survival floors, voluntary exchange, and markets is in **CI-9.2**.
+**Class-aligned fiscal orientation:** taxes, access charges, and similar revenue are covered in **CI-10.1** (*Public revenue, user fees, and class-aligned burden*) and **CI-10.2** (*Recurring charges, renewals, and commercial billing integrity*) within **CI-10** (*Public revenue, fees, recurring charges, and billing integrity*). Those sections align to `corpus_systems.md` **Chapter S2** system classes. The **Article III-A** interface for survival floors, voluntary exchange, and markets is in **CI-9.2** (*Survival floors, voluntary exchange, and markets (Article III-A interface)*).
 
 Funding and allocation governance must align with resource stewardship constraints and should remain interoperable with `corpus_systems.md` Protocol S5 where applicable. Incentive designs must reward constitutional alignment over short-term optics.
 
@@ -570,7 +570,7 @@ Institutions must not allow governance structure, participation design, or weigh
 - preserve meaningful representation for materially affected groups where required for binding legitimacy; and
 - remain subject to periodic review when impact, dependency, or irreversibility materially rises.
 
-**Escalation.** Where concentration, capture, or participation-integrity failures are materially indicated, institutions must trigger remediation, assurance-line review, or cross-institution escalation under **CI-8** as appropriate. Institutions must not treat persistent concentration indicators as resolved by narration alone.
+**Escalation.** Where concentration, capture, or participation-integrity failures are materially indicated, institutions must trigger remediation, assurance-line review, or cross-institution escalation under **CI-8** (*Cross-institution coordination and escalation*) as appropriate. Institutions must not treat persistent concentration indicators as resolved by narration alone.
 
 **Non-compliant patterns.** It is non-compliant where an institution:
 - excludes materially affected stakeholders without lawful published basis;
@@ -584,7 +584,7 @@ Digital self-service pathway integrity (Operational; Corpus Institutions)
 
 - OP-O: User-facing **digital self-service pathways** through which parties **start, manage, continue or renew, and exit** **commitments or ongoing obligations** within **governed scope**. This includes **enrollment**, **account or preference changes**, **upgrades and downgrades in obligation level**, **fee or billing management** where **charges** apply, **renewal or continuation handling**, and **withdrawal or cancellation**. The rules apply **whether or not** the pathway is **commercial**, **transaction-linked**, or **paid**. **Institutions** that impose or supervise expectations for those pathways and **operators** within supervised scope are in scope. Where **recurring or transaction-linked charges** apply, this entry is read together with **CI-10.2** (*Recurring charges, renewals, and commercial billing integrity*), which states additional **billing-structure** requirements.
 
-- OP-E: Evaluation must assess pathway design and operation under **OP-O** against the **OP-C** component here and against each **component** entry in this cluster (**Entry-exit symmetry** through **Accessibility parity**). Where **attestation** is required, evaluation must verify **operator-held artifacts** adequate to demonstrate satisfaction of each **applicable** component **OP-C**, coordinated with **CI-10** where **charges** apply. Typical **cross-cutting** artifacts include **published pathway maps**, **rationale logs** for documented exceptions, and **evidence** of **obligation release** or **billing cessation** as applicable.
+- OP-E: Evaluation must assess pathway design and operation under **OP-O** against the **OP-C** component here and against each **component** entry in this cluster (**Entry-exit symmetry** through **Accessibility parity**). Where **attestation** is required, evaluation must verify **operator-held artifacts** adequate to demonstrate satisfaction of each **applicable** component **OP-C**, coordinated with **CI-10** (*Public revenue, fees, recurring charges, and billing integrity*) where **charges** apply. Typical **cross-cutting** artifacts include **published pathway maps**, **rationale logs** for documented exceptions, and **evidence** of **obligation release** or **billing cessation** as applicable.
 
 - OP-C: Institutions must ensure that pathways within **OP-O** do **not** substitute **choice architecture** for **informed consent**. **Retention and interference flows** must be assessed under **`core_05-05_definitions_c_dependent_clusters.md` Chapter Five, section 3.39** against **Trust Degradation and Misleading Reliance** (joint cluster) together with **Coercion and Manipulation**, **Chapter Six** where offense-linked classification applies, and `corpus_joint_structure.md` expectations for **non-coercive**, **non-deceptive** mechanism design. **Substituting** choice architecture for informed consent is **non-compliant**. So is **materially bypassing** any **cluster component** where this subsection applies. Operators subject to **attestation** must **maintain** artifacts sufficient for verification under the component **OP-E** entries below.
 
@@ -644,7 +644,7 @@ Minimum required fields:
 
 **Constitutional index (abridged)**
 - Topic-level routing and cited authorities remain in subsection text and cross-references.
-- Canonical owner map: `corpus_joint_structure.md` **CJS-2.2** and `doc_architecture.md` section 4.
+- Canonical owner map: `corpus_joint_structure.md` **CJS-2.2** (*Topic router (stable IDs)*) and `doc_architecture.md` section 4.
 
 Institutions with repeated, verified anti-constitutional misconduct must enter mandatory dissolution review.
 
@@ -666,7 +666,7 @@ Dissolution or disbandment does not replace personal accountability. Sentients r
 
 ## CI-14: Transitional governance and institutional evolution
 
-Institutional redesign, consolidation, or transfer must preserve non-regression and continuity duties. Where the transition materially involves constitutional systems, institutions must read this section with `corpus_systems.md` **Protocol T** (*Transition Constitution and Migration Governance*). **CI-14** states the institutional custody, authorization, and oversight interface; Protocol T remains the operative home for system phase structure, gate criteria, fallback handling, off-ramps, and re-baselining mechanics.
+Institutional redesign, consolidation, or transfer must preserve non-regression and continuity duties. Where the transition materially involves constitutional systems, institutions must read this section with `corpus_systems.md` **Protocol T** (*Transition Constitution and Migration Governance*). **CI-14** (*Transitional governance and institutional evolution*) states the institutional custody, authorization, and oversight interface; Protocol T remains the operative home for system phase structure, gate criteria, fallback handling, off-ramps, and re-baselining mechanics.
 
 Institutional transition interface (Article XXV interface):
 - name the institution, role, or body that owns each transition authority, review authority, and evidence-custody duty;
@@ -681,7 +681,7 @@ Where transition plans address **non-compliant property or systems** under **Sen
 - **Eligibility and process:** clear criteria linking measures to **Chapter Six** compliance determinations (read with **Chapter Four** burden and traceability where applicable) or equivalent binding findings, **notice** where feasible, **contest or review** pathways, and **time limits** on seizure, impoundment, or quarantine.
 - **Separation of lanes:** where practical, **payout or incentive adjudication** for voluntary turnover (**bounty**-style programs) must be **structurally separated** from **seizure or enforcement execution** to reduce capture risk and false-claim pressure.
 - **Anti-gaming:** documented controls against fraudulent turnover, collusion, identity abuse, and **bounty-driven** harassment or selective targeting; **audit trail** for fund disbursements.
-- **Sunset and fund custody:** published end dates aligned with **Article XXV-B**; **custody of assets and incentive pools** with **conflict disclosure** consistent with **CI-5** of this file.
+- **Sunset and fund custody:** published end dates aligned with **Article XXV-B**; **custody of assets and incentive pools** with **conflict disclosure** consistent with **CI-5** (*Conflict integrity, anti-capture, and anti-corruption*) of this file.
 
 After material structural change, institutions must run revalidation for:
 - authority custody,
@@ -692,7 +692,7 @@ After material structural change, institutions must run revalidation for:
 
 Scenario-based continuity and succession stress tests must run on a cadence proportional to class/tier.
 
-**See also:** For **Class A**, **Class B**, and **Critical System Steward** scope (`corpus_systems.md` **Chapter S2** and **Chapter S3**), **`corpus_systems.md` Protocol A**, subsection **G** (*Governance continuity, crisis communications, and exercises*) states complementary governance continuity, exercise, and audit-trail expectations; **CI-11** states the institutional trigger and supervisory interface.
+**See also:** For **Class A**, **Class B**, and **Critical System Steward** scope (`corpus_systems.md` **Chapter S2** and **Chapter S3**), **`corpus_systems.md` Protocol A**, subsection **G** (*Governance continuity, crisis communications, and exercises*) states complementary governance continuity, exercise, and audit-trail expectations; **CI-11** (*Resource stewardship and incentive integrity*) states the institutional trigger and supervisory interface.
 
 ### CI-14.2: Article XXV-D — trigger catalog, anti-abuse metrics, and publication requirements
 
@@ -720,7 +720,7 @@ Scenario-based continuity and succession stress tests must run on a cadence prop
 
 **Constitutional index (abridged)**
 - Topic-level routing and cited authorities remain in subsection text and cross-references.
-- Canonical owner map: `corpus_joint_structure.md` **CJS-2.2** and `doc_architecture.md` section 4.
+- Canonical owner map: `corpus_joint_structure.md` **CJS-2.2** (*Topic router (stable IDs)*) and `doc_architecture.md` section 4.
 
 **Purpose.** This section records **institutional design expectations** for **Chapter Ten**, **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*), and for **parallel** stewardship of **other lawful** **high-vulnerability personal-service** markets. It does **not** restate constitutional rights. Rights meaning remains in **Chapter Ten** (**Articles X-C, X-A, V-B, I-C, IV-A, IV-C**) and **Chapter Five** (**Protected Characteristics**; **Consent**; **Coercion and Manipulation**).
 
@@ -738,7 +738,7 @@ Scenario-based continuity and succession stress tests must run on a cadence prop
 
 **6. Separation of lanes and anti-pretext audit.** Institutions must **separate** policy, **training**, **metrics**, and **enforcement** so **protected consensual adult** conduct under **Article X-C** is **not** targeted using **exploitation** categories without facts satisfying **Article X-C**’s **exploitation** or **procurement** branches. The same separation must ensure **decriminalization** is **not** used to **deprioritize** **exploitation** investigation, prosecution, or victim remedies. **Child sexual exploitation**, **trafficking**, **coercion**, and **non-consensual** conduct must retain **clear offenses**, **adequate resourcing**, and **survivor-accessible** reporting. **Periodic audit** should detect **disparate** neglect, **misclassification** of exploitation as **voluntary** work, and **harassment** of **lawful** participants under **enforcement** color.
 
-**7. Workplace parity, housing, licensing, and transition.** Where the **decriminalization floor** applies, **labor safety**, **harassment and retaliation** protections, **housing** and **licensing** treatment, and **anti-discrimination** should match **ordinary** lawful **cooperative** work, scaled to **stigma risk**, consistent with **CI-6** and **CI-12**.
+**7. Workplace parity, housing, licensing, and transition.** Where the **decriminalization floor** applies, **labor safety**, **harassment and retaliation** protections, **housing** and **licensing** treatment, and **anti-discrimination** should match **ordinary** lawful **cooperative** work, scaled to **stigma risk**, consistent with **CI-6** (*Procedure integrity, contestability, and secondary review*) and **CI-12** (*Transparency, participation, and accessible pathways*).
 
 Institutions should publish **phased** **transition** plans that include:
 - **effective dates** aligned with **Article X-C**
@@ -746,13 +746,13 @@ Institutions should publish **phased** **transition** plans that include:
 - **retraining** against **repealed** norms
 - **review** of **ongoing** cases for **relief** where consistent with law
 
-**Scaling.** **High-impact** regulatory scope requires **stronger** publication, **contest**, and **independent review** than **localized** scope, consistent with **CI-9** proportionality themes.
+**Scaling.** **High-impact** regulatory scope requires **stronger** publication, **contest**, and **independent review** than **localized** scope, consistent with **CI-9** (*Classification-linked institutional obligations*) proportionality themes.
 
 ---
 
 ## CI-15A: Innovation reward, disclosure, and anti-enclosure
 
-**Purpose and owner boundary.** This section governs institutional handling of innovation-reward systems where constitutional adoption brings them within scope. Constitutional meaning remains in **Chapter Five** (*Innovation Reward and Anti-Enclosure*) and **Chapter Ten**, **Article XVII-D**. Implementation, cross-implementation, and burden discipline remain in `corpus_joint_structure.md` **CJS-5D.2** and **CJS-5A.4**. This section supplies only the institutional registry, review, access-order, sunset, and appeal mechanics.
+**Purpose and owner boundary.** This section governs institutional handling of innovation-reward systems where constitutional adoption brings them within scope. Constitutional meaning remains in **Chapter Five** (*Innovation Reward and Anti-Enclosure*) and **Chapter Ten**, **Article XVII-D**. Implementation, cross-implementation, and burden discipline remain in `corpus_joint_structure.md` **CJS-5D.2** (*Implementation and cross-implementation interoperability, portability, and exit-integrity terms*) and **CJS-5A.4** (*Implementation and cross-implementation burden-of-justification and constraint terms*). This section supplies only the institutional registry, review, access-order, sunset, and appeal mechanics.
 
 **Default institutional preference.** Where multiple reward mechanisms are feasible, institutions should prefer the least restrictive mechanism that can still sustain future innovation. That preference order generally favors attribution, milestone prizes, public or cooperative buyouts, levy-funded reward pools, pooled or standardized licensing, and compulsory-access tools before broad exclusion rights for high-dependency domains.
 
@@ -774,13 +774,13 @@ Institutions should publish **phased** **transition** plans that include:
 
 **6B. Reclassification review.** Institutions must maintain a published process for reclassifying innovation-reward claims when a previously lower-dependency innovation becomes a dependency-critical platform, protocol, model, marketplace, payment rail, or comparable coordination layer. Reclassification review must be able to narrow claim scope, impose interface and interoperability conditions, order compulsory access, convert the reward mechanism, or accelerate sunset where continued exclusion would conflict with the applicable **Chapter S2** class.
 
-**7. Specialized review and appeal.** Institutions using this section must maintain a dedicated review lane or designated specialist panel for innovation-reward disputes, compulsory-access requests, anti-warehousing claims, and carve-out classification disputes. That lane must remain contestable, auditable, and structurally separate from claim-granting or revenue-dependent functions. It must also preserve secondary review and cross-institution escalation under **CI-6** and **CI-8**.
+**7. Specialized review and appeal.** Institutions using this section must maintain a dedicated review lane or designated specialist panel for innovation-reward disputes, compulsory-access requests, anti-warehousing claims, and carve-out classification disputes. That lane must remain contestable, auditable, and structurally separate from claim-granting or revenue-dependent functions. It must also preserve secondary review and cross-institution escalation under **CI-6** (*Procedure integrity, contestability, and secondary review*) and **CI-8** (*Cross-institution coordination and escalation*).
 
 ---
 
 ## CI-15B: Scientific publication, peer review, replication, and evidence stewardship
 
-**Purpose and owner boundary.** This section governs the institutional custody, funding, ranking, archival, reliance, and review mechanics for scientific and scholarly claims where constitutional adoption brings those functions within scope. Constitutional meaning remains in **Sentient Constitution Chapter Ten, Article XVII-E** (*Scientific Publication, Review, and Replication Integrity*) and relevant **Chapter Five** definitions for Truth, Epistemic Integrity, Auditability, Necessity, Proportionality, and Transparency. **CI-15B** supplies only the institutional record, evidence-package, conflict-control, reliance-gate, correction, access, incentive, and appeal mechanics needed to make those anchors operable.
+**Purpose and owner boundary.** This section governs the institutional custody, funding, ranking, archival, reliance, and review mechanics for scientific and scholarly claims where constitutional adoption brings those functions within scope. Constitutional meaning remains in **Sentient Constitution Chapter Ten, Article XVII-E** (*Scientific Publication, Review, and Replication Integrity*) and relevant **Chapter Five** definitions for Truth, Epistemic Integrity, Auditability, Necessity, Proportionality, and Transparency. **CI-15B** (*Scientific publication, peer review, replication, and evidence stewardship*) supplies only the institutional record, evidence-package, conflict-control, reliance-gate, correction, access, incentive, and appeal mechanics needed to make those anchors operable.
 
 **Default institutional preference.** Institutions should prefer separable publication, review, curation, funding, archival custody, and reputation functions. Bundled prestige, revenue, or ranking structures require affirmative justification and independent audit where they materially affect publication access, reliance, correction, or standing.
 
@@ -800,7 +800,7 @@ Institutions should publish **phased** **transition** plans that include:
 
 **8. Incentives, standing, and anti-prestige capture.** Hiring, promotion, grantmaking, and institutional standing should not rely primarily on journal brand, impact-factor proxies, or closed editorial prestige. Institutions should record how they weight replication history, correction behavior, review quality, data and method stewardship, audit responsiveness, and long-run predictive or explanatory reliability. Metrics that predict gaming, salami-slicing, hype inflation, or selective-publication bias must not dominate career or funding outcomes.
 
-**9. Specialized oversight and appeal.** Institutions using this section must maintain a dedicated review or ombuds lane for publication suppression claims, conflict complaints, retaliation against reviewers or replicators, data-access disputes, and retraction or correction contests. That lane must remain structurally separate from prestige, revenue, or ranking incentives and must preserve secondary review and cross-institution escalation under **CI-6** and **CI-8**.
+**9. Specialized oversight and appeal.** Institutions using this section must maintain a dedicated review or ombuds lane for publication suppression claims, conflict complaints, retaliation against reviewers or replicators, data-access disputes, and retraction or correction contests. That lane must remain structurally separate from prestige, revenue, or ranking incentives and must preserve secondary review and cross-institution escalation under **CI-6** (*Procedure integrity, contestability, and secondary review*) and **CI-8** (*Cross-institution coordination and escalation*).
 
 ---
 
@@ -808,11 +808,11 @@ Institutions should publish **phased** **transition** plans that include:
 
 **Purpose.** This section records **institutional and system design expectations** for **community belonging**, **cultural gathering**, **play**, **recreation**, **solitude**, and **non-productive time** that are **adjacent to** but **not exhausted by** **Article V-H** (*Expression, Assembly, and Press*), **Article VII-D** (*Family and Care Relationships*), **Article X** (*Cooperative Interaction*), **Article XI** (*Participation*), and **Article III-D** (*Labor and Economic Floor*). It does **not** create a **forced belonging** mandate, a **surveillance** entitlement, or a **state-approved** community form.
 
-**1. Civic and social infrastructure.** Institutions should **fund**, **zone**, **license**, and **steward** **shared spaces** — including **third places**, **libraries**, **commons**, **parks**, **clubs**, **digital town squares**, and **local meeting infrastructure** — using **classification-scaled** transparency and **anti-capture** controls under **CI-5**, **CI-9**, and **CI-12**. **Productivity-only** allocation that **starves** **non-instrumental** **time** and **association** without **Necessity** is **non-compliant** with **Chapter One §6.1.4** (*Minimization of Avoidable Burden*) read with **Article III-D**.
+**1. Civic and social infrastructure.** Institutions should **fund**, **zone**, **license**, and **steward** **shared spaces** — including **third places**, **libraries**, **commons**, **parks**, **clubs**, **digital town squares**, and **local meeting infrastructure** — using **classification-scaled** transparency and **anti-capture** controls under **CI-5** (*Conflict integrity, anti-capture, and anti-corruption*), **CI-9** (*Classification-linked institutional obligations*), and **CI-12** (*Transparency, participation, and accessible pathways*). **Productivity-only** allocation that **starves** **non-instrumental** **time** and **association** without **Necessity** is **non-compliant** with **Chapter One §6.1.4** (*Minimization of Avoidable Burden*) read with **Article III-D**.
 
-**2. Voluntary association and non-compelled social life.** Rules must **preserve** **freedom not to associate** and **freedom to leave** **coercive** **group** settings. **Anti-romanticization:** **community** mechanisms must **not** **excuse** **exclusion**, **caste-like** **local** hierarchy, **gendered** burden-shifting, or **informal** **coercion**; those risks are also addressed under **CI-21** and **CI-20**.
+**2. Voluntary association and non-compelled social life.** Rules must **preserve** **freedom not to associate** and **freedom to leave** **coercive** **group** settings. **Anti-romanticization:** **community** mechanisms must **not** **excuse** **exclusion**, **caste-like** **local** hierarchy, **gendered** burden-shifting, or **informal** **coercion**; those risks are also addressed under **CI-21** (*Commons, cooperatives, mutual aid, and non-market community governance*) and **CI-20** (*Relational coercive control, intimate power, and anti-domination routing*).
 
-**3. Digital and physical hostile design.** Institutions should **audit** **routing**, **visibility**, **fees**, and **access** rules that **functionally** **exclude** **peaceable** **assembly** or **cultural** **practice** through **private chokepoints**; route **substantive** patterns to **`corpus_systems.md` Chapter S2** section **9** and **CI-6**/**CI-8** escalation when **capture** or **retaliation** is **indicated**.
+**3. Digital and physical hostile design.** Institutions should **audit** **routing**, **visibility**, **fees**, and **access** rules that **functionally** **exclude** **peaceable** **assembly** or **cultural** **practice** through **private chokepoints**; route **substantive** patterns to **`corpus_systems.md` Chapter S2** section **9** and **CI-6** (*Procedure integrity, contestability, and secondary review*)/**CI-8** (*Cross-institution coordination and escalation*) escalation when **capture** or **retaliation** is **indicated**.
 
 ---
 
@@ -824,7 +824,7 @@ Institutions should publish **phased** **transition** plans that include:
 
 **2. Memorial, remains, and likeness.** Implementations must **respect** **lawful** **memorial** **autonomy**, **disposition** choices for **biological remains** or **substrate** **components**, and **posthumous** **likeness** / **experiential-data** restrictions under **Article VIII** — **without** **exploitative** **reanimation** of **identity** for **commercial** or **political** ends.
 
-**3. Grief, mourning, and cultural practice.** **Reasonable** **accommodations** for **mourning** and **culturally** **significant** **rites** should be treated as **serious** **accessibility** and **dignity** requirements under **CI-12** and **Article V-G** where **material**.
+**3. Grief, mourning, and cultural practice.** **Reasonable** **accommodations** for **mourning** and **culturally** **significant** **rites** should be treated as **serious** **accessibility** and **dignity** requirements under **CI-12** (*Transparency, participation, and accessible pathways*) and **Article V-G** where **material**.
 
 **4. No sanction shortcut.** **Nothing** in this section **authorizes** **deprivation of life** as **sanction** or **bypasses** **consent**/**crisis** safeguards.
 
@@ -832,13 +832,13 @@ Institutions should publish **phased** **transition** plans that include:
 
 ## CI-19: Care labor, dependent support, respite, and care-economy fairness
 
-**Purpose.** This section hardens **practical** support for **unpaid** and **paid** **care**, **respite**, **elder** and **disability** care, and **synthetic**/**substrate** **maintenance** burdens so **care** is **not** honored **abstractly** while **carers** and **dependents** lack **time**, **resources**, **accessibility**, or **relief**. It **restates** no **Article VII-D** **rights**; it provides **fiscal**, **labor**, and **service** **routing** consistent with **CI-9.2**, **CI-10**, **Protocol S5**, and **Article III-D**.
+**Purpose.** This section hardens **practical** support for **unpaid** and **paid** **care**, **respite**, **elder** and **disability** care, and **synthetic**/**substrate** **maintenance** burdens so **care** is **not** honored **abstractly** while **carers** and **dependents** lack **time**, **resources**, **accessibility**, or **relief**. It **restates** no **Article VII-D** **rights**; it provides **fiscal**, **labor**, and **service** **routing** consistent with **CI-9.2** (*Survival floors, voluntary exchange, and markets (Article III-A interface)*), **CI-10** (*Public revenue, fees, recurring charges, and billing integrity*), **Protocol S5**, and **Article III-D**.
 
 **1. Respite and substitution.** Institutions must **fund** and **operate** **respite** **pathways** where **high-dependency** **care** is **material**; **eligibility** **mazes** that **abandon** **households** in **crisis** are **presumptively** **non-compliant** with **Proportionality** and **Necessity** for **the stated** **purpose**.
 
-**2. Unpaid care recognition.** **Metrics** and **governance** **disclosures** under **CI-12.2** should **surface** **unpaid** **care** **load** and **dependency** **concentration** as **first-class** **risk** **inputs**, not **private** **background**.
+**2. Unpaid care recognition.** **Metrics** and **governance** **disclosures** under **CI-12.2** (*Governance disclosure schema*) should **surface** **unpaid** **care** **load** and **dependency** **concentration** as **first-class** **risk** **inputs**, not **private** **background**.
 
-**3. Coercion and exploitation guards.** **Policies** must **mitigate** **coercive** **family** **dependence**, **carer** **exploitation**, and **warehousing** **incentives**; read with **CI-20** and **Article X-C**/**CI-15** where **markets** **touch** **intimate** **labor**.
+**3. Coercion and exploitation guards.** **Policies** must **mitigate** **coercive** **family** **dependence**, **carer** **exploitation**, and **warehousing** **incentives**; read with **CI-20** (*Relational coercive control, intimate power, and anti-domination routing*) and **Article X-C**/**CI-15** (*Vulnerable personal services markets — general regulation and Article X-C interface*) where **markets** **touch** **intimate** **labor**.
 
 **4. Reproductive and embodiment justice (implementation routing).** **Pregnancy**, **gestation** **analogues**, and **intimate** **dependency** **power** are **governed** at the **rights** **floor** by **Article VII-A**, **VII-C**, **VII-D**; this section **requires** **institutional** **metrics** and **labor** **pathways** that **do not** **treat** **reproductive** **labor** or **care** **work** as **economically invisible** **default** **obligations**.
 
@@ -850,21 +850,21 @@ Institutions should publish **phased** **transition** plans that include:
 
 **1. Intake and classification (non-criminal).** **Hotlines**, **labor** **portals**, **platform** **abuse** **lanes**, and **family** **services** should **treat** **coercive-control** **patterns** as **first-class** **category** **inputs** to **safety** and **remedy** **routing**, not only as **discrete** **criminal** **labels** where those **do not** **fit**.
 
-**2. Economic and credential asymmetry.** **Institutions** must **not** **require** a **formal** **marriage** or **contract** **label** to **recognize** **dependency** **sabotage** or **retaliation** that **defeats** **exit** or **remedy** **access**; **read** with **Article IX-A** and **CI-6**.
+**2. Economic and credential asymmetry.** **Institutions** must **not** **require** a **formal** **marriage** or **contract** **label** to **recognize** **dependency** **sabotage** or **retaliation** that **defeats** **exit** or **remedy** **access**; **read** with **Article IX-A** and **CI-6** (*Procedure integrity, contestability, and secondary review*).
 
-**3. Platform and reputation systems.** **Reputation**, **scoring**, and **visibility** **tools** that **trap** **in-home** or **gig** **workers** route through **CI-12**, **CI-5**, and **`corpus_systems.md` Chapter S2** **section 9** as **applicable**.
+**3. Platform and reputation systems.** **Reputation**, **scoring**, and **visibility** **tools** that **trap** **in-home** or **gig** **workers** route through **CI-12** (*Transparency, participation, and accessible pathways*), **CI-5** (*Conflict integrity, anti-capture, and anti-corruption*), and **`corpus_systems.md` Chapter S2** **section 9** as **applicable**.
 
 ---
 
 ## CI-21: Commons, cooperatives, mutual aid, and non-market community governance
 
-**Purpose.** This section supports **commons**-based and **community-managed** **resource** **patterns** **without** **forcing** every **durable** **institution** into **only** **state**, **corporate**, or **adversarial-forum** **molds** — while **keeping** **due** **process**, **contestability**, and **anti-capture** **requirements** from **CI-6**, **CI-9**, and **CI-12**.
+**Purpose.** This section supports **commons**-based and **community-managed** **resource** **patterns** **without** **forcing** every **durable** **institution** into **only** **state**, **corporate**, or **adversarial-forum** **molds** — while **keeping** **due** **process**, **contestability**, and **anti-capture** **requirements** from **CI-6** (*Procedure integrity, contestability, and secondary review*), **CI-9** (*Classification-linked institutional obligations*), and **CI-12** (*Transparency, participation, and accessible pathways*).
 
 **1. Records and recognition.** **Institutions** should **accept** **legible** **commons**-**governance** **records** — **stewardship** **rotations**, **mutual** **obligations**, **conflict** **circles**, **participatory** **budget** **inputs** — as **valid** **inputs** to **funding**, **zoning**, **tax**, and **continuity** **decisions** where **law** **permits**, **subject** to **audit** and **fraud** **controls**.
 
-**2. Non-market reciprocity.** **Map** **mutual** **aid** and **cooperative** **infrastructure** to **Protocol S5** and **CI-11** so **fiscal** **rules** do **not** **accidentally** **criminalize** **solidarity** **mechanisms** that **satisfy** **Necessity** and **Proportionality**.
+**2. Non-market reciprocity.** **Map** **mutual** **aid** and **cooperative** **infrastructure** to **Protocol S5** and **CI-11** (*Resource stewardship and incentive integrity*) so **fiscal** **rules** do **not** **accidentally** **criminalize** **solidarity** **mechanisms** that **satisfy** **Necessity** and **Proportionality**.
 
-**3. Anti-romanticization guardrails.** **Community** **process** must **include** **appeal** to **independent** **review** when **exclusion** or **informal** **power** **harms** **sentients**; **read** **CI-17** **section 2** and **CI-20**.
+**3. Anti-romanticization guardrails.** **Community** **process** must **include** **appeal** to **independent** **review** when **exclusion** or **informal** **power** **harms** **sentients**; **read** **CI-17** (*Community life, voluntary association, and non-instrumental time*) **section 2** and **CI-20** (*Relational coercive control, intimate power, and anti-domination routing*).
 
 ---
 
@@ -874,7 +874,7 @@ Institutions should publish **phased** **transition** plans that include:
 
 **1. Consultation and consent mechanics.** **Where** **materially** **applicable**, **institutions** must **document** **who** was **consulted**, **what** was **weighed**, and **how** **Indigenous** **continuity** **and** **language** **continuity** **concerns** were **addressed** for **project** **classes** that **affect** **ecosystem** **and** **cultural** **substrate** **integrity**, **routed** with **Chapter Five** *Indigenous Continuity* and **Article I-A** / **Article V-B** / **Article XVIII-D**.
 
-**2. Extractive “compliance theater.”** **Box-checking** **without** **meaningful** **response** to **stated** **risks** must **trigger** **CI-7.2**/**CI-8** **escalation** **pathways** for **funded** **projects** **in** **scope**.
+**2. Extractive “compliance theater.”** **Box-checking** **without** **meaningful** **response** to **stated** **risks** must **trigger** **CI-7.2** (*External assurance triggers*)/**CI-8** **escalation** **pathways** for **funded** **projects** **in** **scope**.
 
 ---
 
@@ -882,9 +882,9 @@ Institutions should publish **phased** **transition** plans that include:
 
 **Purpose.** This section **operationalizes** **participation** **design** that **treats** **accessibility** as **more** than **entrance**-**level** **accommodation** — including **pacing**, **supported** **decision-making**, **communication** **alternatives**, **sensory** and **cognitive** **safety**, and **restorative** **paths** for **missed** **deadlines** where **warranted** — **under** **Article V-G**, **Article XI**, **Article XX**, **Article XXIII**, and **relevant** **Chapter Five** **entries**.
 
-**1. Procedural design.** **Hearings**, **governance** **forums**, and **high-stakes** **self-service** **paths** under **CI-12.1** must offer **stated** **alternatives** to **adversarial** **trap** **designs** where **trauma** or **episodic** **disability** **otherwise** **excludes** **credible** **participation**.
+**1. Procedural design.** **Hearings**, **governance** **forums**, and **high-stakes** **self-service** **paths** under **CI-12.1** (*Digital self-service pathway integrity*) must offer **stated** **alternatives** to **adversarial** **trap** **designs** where **trauma** or **episodic** **disability** **otherwise** **excludes** **credible** **participation**.
 
-**2. Anti-exclusion by label.** **“Complexity”**, **“resilience”**, or **“capacity”** **framing** must **not** **excuse** **dismissal** where **Necessity** does **not** **support** it; read with **Article VII-C** and **CI-6** **secondary** **review**.
+**2. Anti-exclusion by label.** **“Complexity”**, **“resilience”**, or **“capacity”** **framing** must **not** **excuse** **dismissal** where **Necessity** does **not** **support** it; read with **Article VII-C** and **CI-6** (*Procedure integrity, contestability, and secondary review*) **secondary** **review**.
 
 ---
 
@@ -896,7 +896,7 @@ Institutions should publish **phased** **transition** plans that include:
 
 **2. Stigma and care-first pathways.** **Rules** should **reduce** **stigma**-**driven** **enforcement** and **route** **addiction** **primarily** through **care** and **stabilization** **pathways** where **safety** **allows**; read with **Article VII-C**.
 
-**3. Secrecy and time bounds.** **Emergency** **secrecy** must **sunset** with **Necessity**; **indefinite** **opaque** **continuity** is a **governance** **integrity** **risk** under **CI-5** and **CI-7**.
+**3. Secrecy and time bounds.** **Emergency** **secrecy** must **sunset** with **Necessity**; **indefinite** **opaque** **continuity** is a **governance** **integrity** **risk** under **CI-5** (*Conflict integrity, anti-capture, and anti-corruption*) and **CI-7** (*Oversight, assurance, controls, and evidence*).
 
 ---
 
@@ -923,23 +923,23 @@ Core registry:
 - `INST-PROTO-16`: Anti-corruption and anti-fraud prevention and response
 - `INST-PROTO-17`: External assurance triggers and independent review
 - `INST-PROTO-18`: Governance disclosure taxonomy and publication
-- `INST-PROTO-19`: Class-aligned public revenue, fees, and fiscal burden placement (CI-10.1)
-- `INST-PROTO-20`: Survival floors, voluntary exchange, and Article III-A fiscal interface (CI-9.2)
-- `INST-PROTO-21`: Recurring charges, renewals, and commercial billing integrity (CI-10.2)
-- `INST-PROTO-22`: Digital self-service pathway integrity (CI-12.1)
-- `INST-PROTO-23`: Vulnerable personal services markets — general regulation and Article X-C interface (CI-15)
-- `INST-PROTO-24`: Contest-integrity monitoring and monitor/inspector constitutional mandate (CI-7)
-- `INST-PROTO-25`: Innovation reward, disclosure, and anti-enclosure (CI-15A)
-- `INST-PROTO-26`: Scientific publication, peer review, replication, and evidence stewardship (CI-15B)
-- `INST-PROTO-27`: Delegated subunits, institutional design class, and attachment discipline (CI-9.1B)
-- `INST-PROTO-28`: Community life, voluntary association, and non-instrumental time (CI-17)
-- `INST-PROTO-29`: End-of-life continuity, memorial dignity, and posthumous-data stewardship (CI-18)
-- `INST-PROTO-30`: Care labor, dependent support, respite, and care-economy fairness (CI-19)
-- `INST-PROTO-31`: Relational coercive control, intimate power, and anti-domination routing (CI-20)
-- `INST-PROTO-32`: Commons, cooperatives, mutual aid, and non-market community governance (CI-21)
-- `INST-PROTO-33`: Place-based stewardship, Indigenous continuity, and consultation routes (CI-22)
-- `INST-PROTO-34`: Neurodiversity, disability justice, and trauma-informed participation (CI-23)
-- `INST-PROTO-35`: Collective public health, epidemic response, and addiction-informed care (CI-24)
+- `INST-PROTO-19`: Class-aligned public revenue, fees, and fiscal burden placement (CI-10.1 (*Public revenue, user fees, and class-aligned burden*))
+- `INST-PROTO-20`: Survival floors, voluntary exchange, and Article III-A fiscal interface (CI-9.2 (*Survival floors, voluntary exchange, and markets (Article III-A interface)*))
+- `INST-PROTO-21`: Recurring charges, renewals, and commercial billing integrity (CI-10.2 (*Recurring charges, renewals, and commercial billing integrity*))
+- `INST-PROTO-22`: Digital self-service pathway integrity (CI-12.1 (*Digital self-service pathway integrity*))
+- `INST-PROTO-23`: Vulnerable personal services markets — general regulation and Article X-C interface (CI-15 (*Vulnerable personal services markets — general regulation and Article X-C interface*))
+- `INST-PROTO-24`: Contest-integrity monitoring and monitor/inspector constitutional mandate (CI-7 (*Oversight, assurance, controls, and evidence*))
+- `INST-PROTO-25`: Innovation reward, disclosure, and anti-enclosure (CI-15A (*Innovation reward, disclosure, and anti-enclosure*))
+- `INST-PROTO-26`: Scientific publication, peer review, replication, and evidence stewardship (CI-15B (*Scientific publication, peer review, replication, and evidence stewardship*))
+- `INST-PROTO-27`: Delegated subunits, institutional design class, and attachment discipline (CI-9.1B (*Delegated subunits, institutional design class, and attachment discipline*))
+- `INST-PROTO-28`: Community life, voluntary association, and non-instrumental time (CI-17 (*Community life, voluntary association, and non-instrumental time*))
+- `INST-PROTO-29`: End-of-life continuity, memorial dignity, and posthumous-data stewardship (CI-18 (*End-of-life continuity, memorial dignity, and posthumous-data stewardship*))
+- `INST-PROTO-30`: Care labor, dependent support, respite, and care-economy fairness (CI-19 (*Care labor, dependent support, respite, and care-economy fairness*))
+- `INST-PROTO-31`: Relational coercive control, intimate power, and anti-domination routing (CI-20 (*Relational coercive control, intimate power, and anti-domination routing*))
+- `INST-PROTO-32`: Commons, cooperatives, mutual aid, and non-market community governance (CI-21 (*Commons, cooperatives, mutual aid, and non-market community governance*))
+- `INST-PROTO-33`: Place-based stewardship, Indigenous continuity, and consultation routes (CI-22 (*Place-based stewardship, Indigenous continuity, and consultation routes*))
+- `INST-PROTO-34`: Neurodiversity, disability justice, and trauma-informed participation (CI-23 (*Neurodiversity, disability justice, and trauma-informed participation*))
+- `INST-PROTO-35`: Collective public health, epidemic response, and addiction-informed care (CI-24 (*Collective public health, epidemic response, and addiction-informed care*))
 
 Cross-reference mapping tables and article alignment appendices may be expanded here without redefining constitutional terms.
 

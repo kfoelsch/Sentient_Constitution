@@ -1005,7 +1005,7 @@ Self-determination is valid only within the bounds stated in **Chapter One**: sa
 - **Qualification by standing record or role criteria:** Where standing-record-based, good-standing, or role-qualification criteria affect participation status or role eligibility, **Participant Standing** applies.
   - Implementation must preserve procedural fairness (Chapter Five — *Procedural Fairness*) and resistance to manipulation.
 - **Contesting exclusion:** Mechanisms for contesting exclusion or under-weighting follow the **interpretive hubs** at the opening of this chapter — challenge and redress; audit and verification — and adopted implementation text.
-  - Cross-domain implementation routing is incorporated via **Sentient Constitution Chapter Fifteen**, including **CJS-4.4** and applicable **CJS-5** operational clusters.
+  - Cross-domain implementation routing is incorporated via **Sentient Constitution Chapter Fifteen**, including **CJS-4.4** (*Cross-implementation trust integrity (joint operation model)*) and applicable **CJS-5** (*Implementation and cross-implementation operational cluster library*) operational clusters.
 #### Article IX-C: Governance Participation and Voting Entitlement
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
@@ -1218,13 +1218,13 @@ To maintain a rewarding and purposeful constitutional community, we agree to pro
   - dispute resolution.
   
   Those frameworks must scale by **Materiality**, dependency, isolation, and vulnerability. They must not become stigma-driven regimes or single out this activity relative to functionally comparable lawful services.
-  - **`corpus_institutions.md`** **CI-15** and **`corpus_systems.md`** (market-mediated personal services) supply operational expectations and must not narrow this Article.
+  - **`corpus_institutions.md`** **CI-15** (*Vulnerable personal services markets — general regulation and Article X-C interface*) and **`corpus_systems.md`** (market-mediated personal services) supply operational expectations and must not narrow this Article.
 - **Anti-circumvention:** Civil, administrative, licensing, zoning, or commercial measures are subject to the same constitutional scrutiny as direct criminalization where their primary practical effect is to replicate a criminal prohibition forbidden by the decriminalization floor.
   - This applies when the measures lack predicates tied to exploitation, lack of valid consent, or independent harm justified under **Chapter One** and **Chapter Five**.
   - Neutral-form regulation does not avoid that scrutiny.
 - **Transition:** Adopting instruments must provide relief — **expungement**, **sealing**, **non-disclosure by default**, or comparable measures — for records and for ongoing criminal or restrictive administrative measures that predominantly reflect conduct no longer criminal under this Article.
   - Individual review remains subject to **Article V-C** fairness and **Chapter Four** traceability.
-- **Institutional implementation:** Licensing, exploitation-focused enforcement and victim access, transition sequencing, and general-market alignment are governed by **`corpus_institutions.md`** **CI-15** and **`corpus_systems.md`** where designated, and must not narrow this Article.
+- **Institutional implementation:** Licensing, exploitation-focused enforcement and victim access, transition sequencing, and general-market alignment are governed by **`corpus_institutions.md`** **CI-15** (*Vulnerable personal services markets — general regulation and Article X-C interface*) and **`corpus_systems.md`** where designated, and must not narrow this Article.
 
 ### Article XI: Stakeholder System Participation, Representation, and Due Process
 
@@ -1376,7 +1376,7 @@ Stakeholders identified under **Chapter Five** must have participation and repre
   - contest or secondary review.
   
   Outcomes must remain traceable to stated reasons and to evidence sufficient to support review under **Chapters Two through Four**.
-- **Institutional routing:** Role taxonomy, accountability-chain implementation, and due-process operational procedures are governed by `corpus_institutions.md` **CI-4** and **CI-6**, with supporting pathway-access detail in **CI-12**.
+- **Institutional routing:** Role taxonomy, accountability-chain implementation, and due-process operational procedures are governed by `corpus_institutions.md` **CI-4** (*Appointment, competency, rotation, and removal*) and **CI-6** (*Procedure integrity, contestability, and secondary review*), with supporting pathway-access detail in **CI-12** (*Transparency, participation, and accessible pathways*).
 #### Article XI-E: Non-Capture Safeguards
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>

@@ -26,9 +26,9 @@
 
 **Constitutional index (abridged)**
 - Topic-level routing and cited authorities remain in subsection text and cross-references.
-- Canonical owner map: `corpus_joint_structure.md` **CJS-2.2** and `doc_architecture.md` section 4.
+- Canonical owner map: `corpus_joint_structure.md` **CJS-2.2** (*Topic router (stable IDs)*) and `doc_architecture.md` section 4.
 
-This section is the forum-operational home for standard forum records, forms, and evidence artifacts. It consolidates the record duties created in **CF-3** through **CF-11** and supplies a common minimum set for adopting entities. It does not create a second traceability or verification standard; traceability and verification discipline remain governed by `core_02-04_definition_mechanics.md` **Chapters Two through Four**, **Article XV-A**, and `corpus_joint_structure.md` **CJS-R12**. Where forum record systems, forms, or evidence artifacts are maintained by **Class A**, **Class B**, or **Class C** systems, or materially affect those systems' portability, audit, continuity, migration, or cross-implementation operation, structured-record formats and exchange protocols must also satisfy `corpus_joint_structure.md` **CJS-5D.2**.
+This section is the forum-operational home for standard forum records, forms, and evidence artifacts. It consolidates the record duties created in **CF-3** (*Panel formation, disclosure, recusal, and lawful bench constitution*) through **CF-11** (*Forum continuity, fallback operation, and emergency adjudication*) and supplies a common minimum set for adopting entities. It does not create a second traceability or verification standard; traceability and verification discipline remain governed by `core_02-04_definition_mechanics.md` **Chapters Two through Four**, **Article XV-A**, and `corpus_joint_structure.md` **CJS-R12** (*Standard forum records, forms, and evidence artifacts*). Where forum record systems, forms, or evidence artifacts are maintained by **Class A**, **Class B**, or **Class C** systems, or materially affect those systems' portability, audit, continuity, migration, or cross-implementation operation, structured-record formats and exchange protocols must also satisfy `corpus_joint_structure.md` **CJS-5D.2** (*Implementation and cross-implementation interoperability, portability, and exit-integrity terms*).
 
 ### CF-12.1 Minimum record set
 <details>
@@ -66,13 +66,13 @@ Each adopting entity must maintain standard templates or equivalent structured r
 - backup-forum activation order;
 - transfer or certification order;
 - interim-relief order;
-- rights-collision record under **CF-5**;
-- disposition-effect classification record under **CF-5.1**;
-- forensic or analytical support scope order under **CF-7**;
+- rights-collision record under **CF-5** (*Appeal, secondary review, and exhaustion pathways*);
+- disposition-effect classification record under **CF-5.1** (*Disposition effect classification (numeric codes)*);
+- forensic or analytical support scope order under **CF-7** (*Forum forensic and analytical support*);
 - restricted-evidence review order;
-- investigative scope, referral, or closure record under **CF-8** where the forum interface is used;
-- technical-standard departure, variance, or recognition record under **CF-9**;
-- backlog-threshold remediation record under **CF-10**;
+- investigative scope, referral, or closure record under **CF-8** (*Independent investigative service and prosecution interface*) where the forum interface is used;
+- technical-standard departure, variance, or recognition record under **CF-9** (*Technical specialist forums and specialist chambers*);
+- backlog-threshold remediation record under **CF-10** (*Forum performance, backlog requirements, publication timeliness, and accessibility*);
 - publication-delay log entry;
 - continuity activation record;
 - restoration and reconciliation record;
@@ -146,8 +146,8 @@ Records must be tagged, at minimum, for the following access classes:
 - **party-facing** — available to parties or affected sentients subject to lawful privacy, safety, and evidence-protection limits;
 - **public-facing** — published or summarized where needed for routing intelligibility, precedent, shared standards, or governance trust;
 - **audit-facing** — available for lawful audit, reconstruction, and Article XV-A verification;
-- **contest-integrity-facing** — available to `corpus_institutions.md` **CI-7.3** monitors where pathway performance, backlog, recusal, routing, or publication integrity is at issue;
-- **external-assurance-facing** — available when **CI-7.2**, **CI-8**, or equivalent lawful assurance triggers apply;
+- **contest-integrity-facing** — available to `corpus_institutions.md` **CI-7.3** (*Contest-integrity monitoring (Class A and Class B)*) monitors where pathway performance, backlog, recusal, routing, or publication integrity is at issue;
+- **external-assurance-facing** — available when **CI-7.2** (*External assurance triggers*), **CI-8** (*Cross-institution coordination and escalation*), or equivalent lawful assurance triggers apply;
 - **restricted or sealed** — limited only as justified by lawful secrecy, safety, privacy, protected internal-state, or evidence-integrity constraints, with a deferred review or reconstruction path wherever feasible.
 
 Access tagging must support meaningful review without converting lawful restriction into concealment. If a record is withheld or summarized, the forum must preserve enough attributable detail for later lawful reconstruction.
@@ -206,7 +206,7 @@ Where an artifact is transformed, summarized, redacted, compressed, or represent
 
 <br>
 
-Publication and retention rules must be written in advance and aligned with **CF-10** publication timeliness, **CF-11** continuity, and applicable systems-data handling rules. Delayed-publication records must state the restriction basis and the next review or release condition.
+Publication and retention rules must be written in advance and aligned with **CF-10** (*Forum performance, backlog requirements, publication timeliness, and accessibility*) publication timeliness, **CF-11** (*Forum continuity, fallback operation, and emergency adjudication*) continuity, and applicable systems-data handling rules. Delayed-publication records must state the restriction basis and the next review or release condition.
 
 During degraded or emergency operation, temporary paper, offline, or local records may be used only if they preserve docket identity, timestamps, responsible roles, and later reconciliation. Reconciled records must identify any gap, conflict, loss, or reconstruction uncertainty.
 

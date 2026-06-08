@@ -83,7 +83,7 @@ Trustworthiness must be evaluated across time, scale, and dependency relationshi
   - receive acknowledgment and proportionate remediation where failures materially impact them;
   - make **protected reports** within the meaning of **Chapter Five** (*Protected Reporting (Whistleblowing)*) concerning systems that materially affect them, consistent with **Safety (Constraint)** and **Truth (Constraint)** in **Chapter Five**.
 - **No retaliation:** Retaliation against such reporting, within the meaning of that definition, is incompatible with the protections in this Article.
-  - Protected escalation and anti-retaliation implementation requirements are stated in **`corpus_institutions.md`** (**CI-12**; **`INST-PROTO-12`**).
+  - Protected escalation and anti-retaliation implementation requirements are stated in **`corpus_institutions.md`** (**CI-12** (*Transparency, participation, and accessible pathways*); **`INST-PROTO-12`**).
 #### Article XII-C: Prohibition of False Trust and Misleading Reliance
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
@@ -1545,7 +1545,7 @@ Final **constitutional** interpretation must remain authoritative, bounded, audi
 - **No procedural gaming:** Vacancy, rotation, and recusal continuity rules must not be used to create:
   - selective paralysis;
   - covert control.
-- **Institutional routing:** Detailed appointment pathways, rotation controls, and conflict/recusal procedures are governed by `corpus_institutions.md` **CI-4** and **CI-5**.
+- **Institutional routing:** Detailed appointment pathways, rotation controls, and conflict/recusal procedures are governed by `corpus_institutions.md` **CI-4** (*Appointment, competency, rotation, and removal*) and **CI-5** (*Conflict integrity, anti-capture, and anti-corruption*).
 #### Article XXII-C: Public Reasons, Challenge Rights, and External Review
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>

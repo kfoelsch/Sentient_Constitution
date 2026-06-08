@@ -440,7 +440,7 @@ Procedural detail for **Article II** lives in implementation text:
   - indexing, eligibility, and jurisdiction or residence rules.
   
   Those rules may structure delivery. They must not be used to defeat minimum access to survival essentials or to impose invidious exclusion contrary to **Articles III** and **V**.
-  - Detailed fiscal orientation — including the rule that fees and charges must not undermine minimum access to survival-relevant inputs — is governed by `corpus_institutions.md` **CI-9**, **CI-10**, and **CI-11**.
+  - Detailed fiscal orientation — including the rule that fees and charges must not undermine minimum access to survival-relevant inputs — is governed by `corpus_institutions.md` **CI-9** (*Classification-linked institutional obligations*), **CI-10** (*Public revenue, fees, recurring charges, and billing integrity*), and **CI-11** (*Resource stewardship and incentive integrity*).
   - This Article does not prescribe a single funding model. Employment, entrepreneurship, voluntary exchange, and other lawful economic activity above any survival floor remain permitted, subject to Chapter One, Chapter Ten, and incorporated instruments — including `corpus_systems.md` where market-structuring or high-impact commercial systems apply.
 
 #### Article III-B: Equal Educational Access
@@ -523,7 +523,7 @@ Procedural detail for **Article II** lives in implementation text:
   - affirmative access does not license compelled treatment.
   - Any compelled or involuntary intervention is governed by **Article VII-C** and the **Article VII-A** / **Article XXIII** framework.
 - **Limits and implementation routing:** Any limit on access must satisfy **Necessity**, **Proportionality**, **Protected Characteristics**, and **Substantive Fairness**.
-  - Operational mechanics — cost, distribution, workforce, and system design — route to institutional implementation text (**`corpus_institutions.md`** CI-9 / CI-10 / CI-11) and other incorporated implementation text under **Chapter Fifteen** discipline.
+  - Operational mechanics — cost, distribution, workforce, and system design — route to institutional implementation text (**`corpus_institutions.md`** CI-9 (*Classification-linked institutional obligations*) / CI-10 (*Public revenue, fees, recurring charges, and billing integrity*) / CI-11 (*Resource stewardship and incentive integrity*)) and other incorporated implementation text under **Chapter Fifteen** discipline.
   - That implementation text must not be read to narrow this floor.
 
 #### Article III-D: Labor and Economic Floor
@@ -589,7 +589,7 @@ Procedural detail for **Article II** lives in implementation text:
   - A productive-activity structure that satisfies this Article while concentrating power contrary to §5.1 is non-compliant under §5.1.
   - Labor-market monopsony, no-poach arrangements, broad non-compete or mobility-restricting terms, platform lock-in, supplier dependency control, consolidation above a labor-demand or supplier-dependency ceiling, or gatekeeper practices that suppress fair bargaining or productive mobility are evaluated under §5.1.4 and §5.1.5 as well as this Article where materially relevant.
 - **Limits and implementation routing:** Any limit on **Fair Compensation**, **Collective Organization**, **Safe Conditions**, or **Leisure and Rest** must satisfy **Necessity**, **Proportionality**, **Protected Characteristics**, and **Substantive Fairness**.
-  - Operational mechanics — fiscal orientation, transfer and insurance design, standards-setting for Safe Conditions, and collective-organization institutional design — route to `corpus_institutions.md` CI-9 / CI-10 / CI-11 and to `corpus_systems.md` Protocol A under **Chapter Fifteen** incorporation discipline.
+  - Operational mechanics — fiscal orientation, transfer and insurance design, standards-setting for Safe Conditions, and collective-organization institutional design — route to `corpus_institutions.md` CI-9 (*Classification-linked institutional obligations*) / CI-10 (*Public revenue, fees, recurring charges, and billing integrity*) / CI-11 (*Resource stewardship and incentive integrity*) and to `corpus_systems.md` Protocol A under **Chapter Fifteen** incorporation discipline.
   - Those implementation texts must not be read to narrow this floor.
 
 ### Article IV: Resource Allocation, Dependencies, and Ecosystem Funding

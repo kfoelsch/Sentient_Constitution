@@ -26,7 +26,7 @@
 
 **Quick orientation**
 
-This file states the shared implementation-corpus contract and boundary rules for the joint-structure layer. Detailed routing lives in **CJS-2.2** and `doc_architecture.md` section 4.
+This file states the shared implementation-corpus contract and boundary rules for the joint-structure layer. Detailed routing lives in **CJS-2.2** (*Topic router (stable IDs)*) and `doc_architecture.md` section 4.
 
 The implementation layers named here are:
 - **CP:** implementation, meaning the **CJS folder** and its *Cross-domain implementation layer*,
@@ -34,7 +34,7 @@ The implementation layers named here are:
 - **CI:** `corpus_institutions.md`,
 - **CF:** `corpus_forum.md`.
 
-After this orientation, **CJS-1.1** supplies the shared contract that later implementation text can cite instead of repeating.
+After this orientation, **CJS-1.1** (*Shared implementation-corpus preamble contract*) supplies the shared contract that later implementation text can cite instead of repeating.
 
 ### CJS-1.1: Shared implementation-corpus preamble contract
 <details>
@@ -69,9 +69,9 @@ The shared contract is:
 
 - Use the canonical meaning of constitutional terms. Do not redefine constitutional terms, Rights Floors, or O/E/C definition mechanics.
 - Add only implementation details that belong inside the file's assigned scope.
-- When implementation files overlap on the same facts, apply **CJS-2** for read order and stricter-wins, and **CJS-3** for joint requirements.
+- When implementation files overlap on the same facts, apply **CJS-2** (*Implementation integration map*) for read order and stricter-wins, and **CJS-3** (*Joint structural obligations (cross-domain requirements)*) for joint requirements.
 - Keep implementation text understandable under **Article XX**.
-- Use **CJS-2.2** and `doc_architecture.md` section 4 to find the single home for each topic.
+- Use **CJS-2.2** (*Topic router (stable IDs)*) and `doc_architecture.md` section 4 to find the single home for each topic.
 - Treat shorthand inside a subsection as local to that subsection unless a canonical owner later adopts it. If local shorthand conflicts with canonical definitions, the canonical definitions control.
 
 This file does not create a separate authority stack. Use the constitutional **Authority Stack and Internal Hierarchy** in `core_05-05_definitions_c_dependent_clusters.md` **Chapter Five**, section **3.4** (*Corpus, Authority Stack, Supremacy, and Enforceability*), read with `core_15-15_incorporation.md` **Chapter Fifteen** for incorporation, edition custody, and anti-drift rules. Applied here:
@@ -83,8 +83,8 @@ This file does not create a separate authority stack. Use the constitutional **A
 - Chapter Ten controls rights language. Implementation files implement Rights Floors and must not restate weaker versions.
 - Chapter Six controls canonical compliance, violation, and standing classification policy.
 - [corpus_systems.md](../corpus_systems.md) Chapters S1 through S3 control data types, system classes, dependency types, and steward tiers.
-- **CJS-5E.2** and **CJS-5A.2** stay separate: **CJS-5E.2** states technical intervention and override integrity terms, and **CJS-5A.2** states governance authorization terms.
-- **CJS-2** states the read order, owner routing, and **stricter-wins** rule among **CP**, **CS**, **CI**, and **CF**.
+- **CJS-5E.2** (*Implementation and cross-implementation intervention and override integrity terms*) and **CJS-5A.2** (*Implementation and cross-implementation intervention governance and override-authorization terms*) stay separate: **CJS-5E.2** (*Implementation and cross-implementation intervention and override integrity terms*) states technical intervention and override integrity terms, and **CJS-5A.2** (*Implementation and cross-implementation intervention governance and override-authorization terms*) states governance authorization terms.
+- **CJS-2** (*Implementation integration map*) states the read order, owner routing, and **stricter-wins** rule among **CP**, **CS**, **CI**, and **CF**.
 
 ### CJS-1.2: Section identifiers and article references
 <details>
@@ -106,7 +106,7 @@ This file does not create a separate authority stack. Use the constitutional **A
 
 <br>
 
-Headings use **CJS-1** through **CJS-5**, meaning *Corpus joint structure* section *n*. Subsections use **CJS-*n*.*m***, such as **CJS-2.2**. These are not Sentient Constitution **Article** numbers. The abbreviation **CJS** matches `doc_architecture.md`, where it means the *Corpus joint structure* implementation file.
+Headings use **CJS-1** (*Scope, purpose, and boundary interface*) through **CJS-5** (*Implementation and cross-implementation operational cluster library*), meaning *Corpus joint structure* section *n*. Subsections use **CJS-*n*.*m***, such as **CJS-2.2** (*Topic router (stable IDs)*). These are not Sentient Constitution **Article** numbers. The abbreviation **CJS** matches `doc_architecture.md`, where it means the *Corpus joint structure* implementation file.
 
 Unless a section says otherwise, **Article** labels with Roman numerals that point to the Sentient Constitution Chapter Ten part files (`core_10-10_rights_part_*.md`) refer to the canonical `### Article ...` headings in those files.
 
@@ -140,11 +140,11 @@ The CJS folder is **not** the primary owner for:
 - general institutional lifecycle and fiscal architecture, which belong to **CI**,
 - forum-family operational doctrine, which belongs to **CF**.
 
-Stable shared operational text lives in the CJS-5 cluster files under the **Cross-domain implementation layer**. Joint obligations in **CJS-2** and **CJS-3** coordinate implementation interfaces; they do not replace CJS-5 cluster text or owner-layer domain rules.
+Stable shared operational text lives in the CJS-5 (*Implementation and cross-implementation operational cluster library*) cluster files under the **Cross-domain implementation layer**. Joint obligations in **CJS-2** (*Implementation integration map*) and **CJS-3** (*Joint structural obligations (cross-domain requirements)*) coordinate implementation interfaces; they do not replace CJS-5 (*Implementation and cross-implementation operational cluster library*) cluster text or owner-layer domain rules.
 
-Where **CJS-5** operational clusters are cited by an owner file, they also function as shared implementation terms for standalone systems, institutions, forums, or bounded decision domains within the cited scope. That use does not make CJS the primary owner for system, institutional, or forum doctrine; it supplies common operational vocabulary and stricter joint-interface treatment where more than one implementation layer materially applies.
+Where **CJS-5** (*Implementation and cross-implementation operational cluster library*) operational clusters are cited by an owner file, they also function as shared implementation terms for standalone systems, institutions, forums, or bounded decision domains within the cited scope. That use does not make CJS the primary owner for system, institutional, or forum doctrine; it supplies common operational vocabulary and stricter joint-interface treatment where more than one implementation layer materially applies.
 
-Under the authority-stack rules named in **CJS-1.1**, the CJS folder sits in the **binding incorporated implementation** band. It must **implement, not narrow**, Sentient Constitution meaning.
+Under the authority-stack rules named in **CJS-1.1** (*Shared implementation-corpus preamble contract*), the CJS folder sits in the **binding incorporated implementation** band. It must **implement, not narrow**, Sentient Constitution meaning.
 
 ### CJS-1.4: Operational structure and subsection-local terminology
 <details>

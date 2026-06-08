@@ -10,16 +10,16 @@ The CJS files are intentionally written in plain language with low jargon to imp
 
 These are not core constitutional files. They are still part of the constitutional corpus where the **Corpus** says they are binding implementation text, through **Sentient Constitution Chapter Fifteen**.
 
-Use **CJS-1.1** for the shared implementation-corpus contract: constitutional meanings, Rights Floors, definition mechanics, local shorthand, readability, and authority-stack limits remain controlled by the canonical sources named there.
+Use **CJS-1.1** (*Shared implementation-corpus preamble contract*) for the shared implementation-corpus contract: constitutional meanings, Rights Floors, definition mechanics, local shorthand, readability, and authority-stack limits remain controlled by the canonical sources named there.
 
 **CJS-folder implementation anchors**
 
-- **Shared contract:** **CJS-1.1** states the authority, readability, shorthand, and canonical-meaning rules for the CJS folder and implementation files.
-- **Routing:** **CJS-2** gives the read order, stricter-wins rule, and owner map for joint topics.
-- **Joint obligations:** **CJS-3** gives requirements that must be satisfied together when more than one implementation file applies to the same facts.
+- **Shared contract:** **CJS-1.1** (*Shared implementation-corpus preamble contract*) states the authority, readability, shorthand, and canonical-meaning rules for the CJS folder and implementation files.
+- **Routing:** **CJS-2** (*Implementation integration map*) gives the read order, stricter-wins rule, and owner map for joint topics.
+- **Joint obligations:** **CJS-3** (*Joint structural obligations (cross-domain requirements)*) gives requirements that must be satisfied together when more than one implementation file applies to the same facts.
 - **Domain limits:** CJS coordinates shared interfaces. It does not replace day-to-day domain rules owned only by `corpus_systems.md`, `corpus_institutions.md`, or `corpus_forum.md`.
 
-**Implementation cross-reference index (routing only):** Joint-structure obligations may connect with **CJS-5** operational clusters, including **CJS-5A** authority/procedure terms, **CJS-5B** evidence/audit/claim-integrity terms, **CJS-5C** participation/comprehension/disclosure terms, **CJS-5D** dependency/exit/lifecycle terms, and **CJS-5E** failure/robustness/intervention/correction terms. This index only helps readers find related material. It does not redefine Chapter Five constitutional terms.
+**Implementation cross-reference index (routing only):** Joint-structure obligations may connect with **CJS-5** (*Implementation and cross-implementation operational cluster library*) operational clusters, including **CJS-5A** (*Authority, constraint, secrecy, and procedure*) authority/procedure terms, **CJS-5B** (*Evidence, audit, and claim integrity*) evidence/audit/claim-integrity terms, **CJS-5C** (*Participation, comprehension, and disclosure*) participation/comprehension/disclosure terms, **CJS-5D** (*Dependency, exit, and lifecycle integrity*) dependency/exit/lifecycle terms, and **CJS-5E** (*Failure, robustness, intervention, and correction*) failure/robustness/intervention/correction terms. This index only helps readers find related material. It does not redefine Chapter Five constitutional terms.
 
 ---
 
@@ -80,9 +80,9 @@ These are the stable section families for the CJS folder:
 
 **Drafting priority (suggested):**
 
-1. Extend **CJS-2.2** with new rows only when `doc_architecture.md` section 2 ownership or cross-file overlap changes; keep row IDs **stable**--append new IDs, do not renumber.
-2. When **CI**/**CF**/**CS** repeat the same joint interface paragraph, prefer a **one-line** pointer to the relevant CJS joint section, including **CJS-4.1** for hybrid composition shared by **CI-9.1B.2** and **CF-2.6**, and keep operative checklists in the domain owner.
-3. When implementation files repeat the same joint interface paragraph, apply **CJS-4.3** the same way: use a **one-line** pointer to **CJS-4**, **CJS-2.2**, or the applicable **CJS-5** cluster rather than duplicating OP clusters at length.
+1. Extend **CJS-2.2** (*Topic router (stable IDs)*) with new rows only when `doc_architecture.md` section 2 ownership or cross-file overlap changes; keep row IDs **stable**--append new IDs, do not renumber.
+2. When **CI**/**CF**/**CS** repeat the same joint interface paragraph, prefer a **one-line** pointer to the relevant CJS joint section, including **CJS-4.1** (*Mandatory hybrid authority composition (delegated binding bodies)*) for hybrid composition shared by **CI-9.1B.2** (*Authority composition*) and **CF-2.6** (*Chamber authority composition and service mechanics*), and keep operative checklists in the domain owner.
+3. When implementation files repeat the same joint interface paragraph, apply **CJS-4.3** (*Implementation boundary (CP to CJS seam)*) the same way: use a **one-line** pointer to **CJS-4** (*Specific joint interlocks and shared abstractions*), **CJS-2.2** (*Topic router (stable IDs)*), or the applicable **CJS-5** (*Implementation and cross-implementation operational cluster library*) cluster rather than duplicating OP clusters at length.
 4. Run `make reference-audit` after substantive cross-file moves.
 5. Where a new high-level joint abstraction is added, verify it remains **Tier 1 only** with no owner-mechanics migration, and record the duplicate-taxonomy risk in the active review notes until the deferred regression path is reinstated.
 
@@ -116,14 +116,14 @@ These are the stable section families for the CJS folder:
 <br>
 
 
-Shared preamble contract: apply **CJS-1.1**. For stable CJS-5 citation routing, also apply **CJS-3.6**.
+Shared preamble contract: apply **CJS-1.1** (*Shared implementation-corpus preamble contract*). For stable CJS-5 (*Implementation and cross-implementation operational cluster library*) citation routing, also apply **CJS-3.6** (*Implementation-label traceability and stricter-wins discipline*).
 
 **Implementation anchors**
 
-- **Intervention layering:** **CJS-5E.2** states technical intervention and override integrity terms; **CJS-5A.2** states governance authorization terms. Both are jointly applicable where relevant.
+- **Intervention layering:** **CJS-5E.2** (*Implementation and cross-implementation intervention and override integrity terms*) states technical intervention and override integrity terms; **CJS-5A.2** (*Implementation and cross-implementation intervention governance and override-authorization terms*) states governance authorization terms. Both are jointly applicable where relevant.
 - **Canonical owners:** Constitutional Rights Floors, Chapter Ten default ordering, and governance definitions remain in the Sentient Constitution and Chapter Five. Text in this section implements those anchors and must not narrow them.
-- **Integrity homes:** Cross-domain integrity routing is stated in **CJS-4.4** and the applicable **CJS-5** operational clusters. CJS does not maintain a separate meta-obligation family.
-- **Emergency and continuity routing:** Read **CJS-2** and **CJS-3.2** where systems, institutions, forums, and this section govern the same operational facts.
+- **Integrity homes:** Cross-domain integrity routing is stated in **CJS-4.4** (*Cross-implementation trust integrity (joint operation model)*) and the applicable **CJS-5** (*Implementation and cross-implementation operational cluster library*) operational clusters. CJS does not maintain a separate meta-obligation family.
+- **Emergency and continuity routing:** Read **CJS-2** (*Implementation integration map*) and **CJS-3.2** (*No false partial compliance across implementation files*) where systems, institutions, forums, and this section govern the same operational facts.
 
 ---
 

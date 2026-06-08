@@ -119,11 +119,13 @@ Required gate conditions before any rename:
 | Funding stewardship; dependent systems maps; allocation categories; reauthorization | **Implementation file** — Protocol S5 | Protocol S4, Ch 9 Arts IX, XI, XII, XIV, XVI, XVII |
 | Institutional governance architecture | **Implementation file** — [corpus_institutions.md](corpus_institutions.md) | Formation, delegation custody, assurance lanes, and sanctions/dissolution. Cross-links include Ch 6-14, **CJS-5A**, **CJS-5C**, CS S2/S3, and Protocol S5. This row also tracks the **CI-15** vulnerable personal services and **Article X-C** interface, **Sentient Constitution Ch 9 Art IV-C** as the rights single home, and the CS opening **market-mediated personal services** interpretation. Read with [corpus_joint_structure.md](corpus_joint_structure.md) where cross-implementation structural integration is material. |
 
-**Abbreviations:** `CS` = [corpus_systems.md](corpus_systems.md) (systems implementation file; **do not** use the bare phrase *Constitutional Systems* in body text — see *Ambiguous implementation labels* under *Plain-Language Vocabulary Guardrails*). `CI` = [corpus_institutions.md](corpus_institutions.md) (institutional implementation file). `CF` = [corpus_forum.md](corpus_forum.md) (forum implementation file). `CJS` = [corpus_joint_structure.md](corpus_joint_structure.md) (joint-structure implementation file, including **CJS-4** and **CJS-5**). Sections in **CI** are labeled **CI-1** through **CI-24** (with subsections **CI-*n*.*m***) so they are not confused with Sentient Constitution **Articles** (Roman numerals). Sections in **CF** are labeled **CF-1** through **CF-13** (with subsections **CF-*n*.*m***). Sections in **CJS** are labeled **CJS-1** through **CJS-5** (with subsections **CJS-*n*.*m***).
+**Abbreviations:** `CS` = [corpus_systems.md](corpus_systems.md) (systems implementation file; **do not** use the bare phrase *Constitutional Systems* in body text — see *Ambiguous implementation labels* under *Plain-Language Vocabulary Guardrails*). `CI` = [corpus_institutions.md](corpus_institutions.md) (institutional implementation file). `CF` = [corpus_forum.md](corpus_forum.md) (forum implementation file). `CJS` = [corpus_joint_structure.md](corpus_joint_structure.md) (joint-structure implementation file, including **CJS-4** (*Specific joint interlocks and shared abstractions*) and **CJS-5** (*Implementation and cross-implementation operational cluster library*)). Sections in **CI** are labeled **CI-1** (*Scope, purpose, and legitimacy interface*) through **CI-24** (with subsections **CI-*n*.*m***) so they are not confused with Sentient Constitution **Articles** (Roman numerals). Sections in **CF** are labeled **CF-1** (*Scope, authority, and boundary rules*) through **CF-13** (with subsections **CF-*n*.*m***). Sections in **CJS** are labeled **CJS-1** (*Scope, purpose, and boundary interface*) through **CJS-5** (with subsections **CJS-*n*.*m***).
 
-**CJS filename convention:** files inside `corpus_joint_structure/` use the `cjs_` prefix and an ordinal navigation stem, matching the numbered `core_*` filename convention. The ordinal stem is a file-order/navigation aid only; it does not change stable in-text labels such as **CJS-1**, **CJS-2**, **CJS-3**, **CJS-4**, or **CJS-5**.
+**Section-abbreviation descriptor rule:** Avoid naked implementation-section abbreviations by default in body prose. On first meaningful use within a paragraph, list item, table row, or local discussion, pair the stable label with its descriptor or function, using a form such as **CF-2 — Forum formation, forum-structure mapping, and chamber structure**, **CJS-R02** (*forum chambers, divisions, and designated panels*), or **CI-9.1B** (*Delegated subunits, institutional design class, and attachment discipline*). Later mentions in the same immediate context may use the stable label alone where the descriptor remains obvious. Exceptions are acceptable for headings, compact index tables whose adjacent column supplies the descriptor, generated trace / D/E/C widgets, commit messages, stable-ID inventories, mermaid diagrams, and dense cross-reference lists where adding every descriptor would materially reduce scanability.
 
-**CF filename convention:** files inside `corpus_forum/` use the `cf_` prefix and an ordinal navigation stem, matching the CJS subfile convention. The ordinal stem is a file-order/navigation aid only; it does not change stable in-text labels such as **CF-1**, **CF-2**, or **CF-13**.
+**CJS filename convention:** files inside `corpus_joint_structure/` use the `cjs_` prefix and an ordinal navigation stem, matching the numbered `core_*` filename convention. The ordinal stem is a file-order/navigation aid only; it does not change stable in-text labels such as **CJS-1** (*Scope, purpose, and boundary interface*), **CJS-2** (*Implementation integration map*), **CJS-3** (*Joint structural obligations (cross-domain requirements)*), **CJS-4** (*Specific joint interlocks and shared abstractions*), or **CJS-5** (*Implementation and cross-implementation operational cluster library*).
+
+**CF filename convention:** files inside `corpus_forum/` use the `cf_` prefix and an ordinal navigation stem, matching the CJS subfile convention. The ordinal stem is a file-order/navigation aid only; it does not change stable in-text labels such as **CF-1** (*Scope, authority, and boundary rules*), **CF-2** (*Forum formation, forum-structure mapping, and chamber structure*), or **CF-13** (*Forum staffing, reserve capacity, shared administration, structural review, and structural records*).
 
 **Pre-adoption numbering preference:** until initial adoption of the constitution, prefer clean renumbering over compatibility-preserving suffixes or legacy anchor retention when renumbering improves readability, maintainability, or release quality. After initial adoption, treat stable references as stronger constraints and use compatibility-preserving moves unless the adopting authority approves a renumbering migration.
 
@@ -143,7 +145,7 @@ Required gate conditions before any rename:
 2. **Implementation files own** *how* at engineering, ecosystem, institutional, forum-operational, and cross-implementation joint-structure scale: data handling taxonomies, system classes, deployment patterns, funding mechanics, institutional rules, forum procedures, protocol-level checklists, and joint integration requirements where implementation files must interlock.
 3. **No duplicate definitions** of the same term in both corpora. Implementation files *apply* Sentient Constitution Ch 5 terms; use this file or a single glossary subsection if a shorthand (e.g. “substrate”) needs a pointer.
 4. **Stricter wins:** If core and implementation text appear to conflict, **core values and rights prevail**. If two implementation rules conflict (e.g. personal/creative sandbox vs non-experimental), **higher material impact and stricter classification** govern (see opening of [corpus_systems.md](corpus_systems.md)).
-5. **Implementation files implement Sentient Constitution rights (Chapter Ten):** Articles I–XXV in **Chapter Ten** state core rights (including **Article XXV** transition and re-baselining); implementation protocols, institutional law, and **CJS-5** operational clusters supply operational detail. Where implementation text expands a theme (e.g. lifecycle under Protocol A), it **implements** the corresponding article and must not contradict **Chapter Ten** or **Chapters One through Nine** (including the compliance model in **Chapter Six** and final **Violation Axis s = 7, 8, or 9** slot-classification rules in **Chapter Eight**).
+5. **Implementation files implement Sentient Constitution rights (Chapter Ten):** Articles I–XXV in **Chapter Ten** state core rights (including **Article XXV** transition and re-baselining); implementation protocols, institutional law, and **CJS-5** (*Implementation and cross-implementation operational cluster library*) operational clusters supply operational detail. Where implementation text expands a theme (e.g. lifecycle under Protocol A), it **implements** the corresponding article and must not contradict **Chapter Ten** or **Chapters One through Nine** (including the compliance model in **Chapter Six** and final **Violation Axis s = 7, 8, or 9** slot-classification rules in **Chapter Eight**).
 
 ---
 
@@ -158,8 +160,8 @@ This subsection **pins** how “definitions” work across the corpus so editors
   - **Chapter Five** in `core_05-05_definitions_a_independent.md` (§1), `core_05-05_definitions_b_semi_independent.md` (§2), and `core_05-05_definitions_c_dependent_clusters.md` (§3) — **Independent Definitions** in §1, **Semi-independent Definitions** in §2, and **Dependent clusters** (joint-invocation groups, including full O/E/C where the cluster body owns the term) in §3 — see **Chapter Five — single-definition rule** under **Order and alphabetization (Chapter Five)** below
 - **Values language** (how principles interact): **Chapter One**, with the **vocabulary anchor** and **cluster index** at the **end of Chapter One** under the heading **Reference: Chapter Five vocabulary anchor and cluster index**. That block maps Chapter One priority terms to Chapter Five **§1** Independent Definition names and lists the major Chapter Five **§3** dependent-cluster groupings that must be traced under Chapters Two through Four when materially relevant.
 - **Contribution / standing model** (contribution state, violation nature, standing effect): **Chapter Six** and **Chapter Seven**; **standing** applies only to **verified** standing inputs (**demonstrable** Axis I; [**verified violation findings**](core_05-05_definitions_b_semi_independent.md#verified-violation-findings) for Axis II — **section 2** *Verified inputs for standing* in [core_06-06_standing_assessment.md](core_06-06_standing_assessment.md) and integration rules in [core_07-07_standing_integration.md](core_07-07_standing_integration.md)). **Chapter Nine** owns **forum** process for **allegations** and **claims**; that layer **must not** be folded into standing’s input model. Procedural scoring and operational workflows live in **CP** and **CS**, which must remain consistent with Ch 6’s constitutional meaning. Interoperable operational defaults for standing composites (including **daily** **half-life** recency weighting for **Axis I** contribution-linked credit under [**Chapter Seven §4.1**](core_07-07_standing_integration.md#38-standing-integration-contribution-and-violation-nature) — **no** **weight** **floor** — and **no** time discount for **unresolved** **Axis II** inputs) are stated under **Chapter Six standing composites** in [corpus_systems.md](corpus_systems.md), **read with** [core_06-06_standing_assessment.md](core_06-06_standing_assessment.md), [core_07-07_standing_integration.md](core_07-07_standing_integration.md), and [**contribution recency weighting**](core_07-07_standing_integration.md#contribution-recency-weighting).
-- **Rights language**: **Chapter Ten** (Articles I–XXV); implementation files and CJS-5 clusters **cite** articles, they do not invent parallel rights.
-- **Cross-domain integrity routing** (trust, incentives, proxy metrics, failure integrity at system level): **corpus_joint_structure.md** **CJS-4.4** and **CJS-5** operational clusters. **Sentient Constitution Chapter Fifteen** is the incorporation bridge and must be read together with **Chapters 1, 6–10, and 11–13** as applicable. **CJS-5** implements domain obligations without redefining Ch 5 terms.
+- **Rights language**: **Chapter Ten** (Articles I–XXV); implementation files and CJS-5 (*Implementation and cross-implementation operational cluster library*) clusters **cite** articles, they do not invent parallel rights.
+- **Cross-domain integrity routing** (trust, incentives, proxy metrics, failure integrity at system level): **corpus_joint_structure.md** **CJS-4.4** (*Cross-implementation trust integrity (joint operation model)*) and **CJS-5** (*Implementation and cross-implementation operational cluster library*) operational clusters. **Sentient Constitution Chapter Fifteen** is the incorporation bridge and must be read together with **Chapters 1, 6–10, and 11–13** as applicable. **CJS-5** (*Implementation and cross-implementation operational cluster library*) implements domain obligations without redefining Ch 5 terms.
 - **Operational taxonomies** (data Types, system Classes, dependency types, steward tiers): **corpus_systems.md** Chapters **S1, S2, S3** only.
 - **Protocols and profiles**: **corpus_systems.md** Protocols A, B, S4, S5 — **instances** of upstream rules, not new definition homes.
 - **Joint operational definitions** (cross-implementation interface terms that govern routing, interlock, overlap handling, shared-fact evaluation, or combined satisfaction across **CP / CS / CI / CF**): **corpus_joint_structure.md** only. These are operational and integrative, not canonical constitutional definitions. They must stay local to joint structure unless elevated into **Chapter Five** because they become cross-cutting constitutional meaning, or moved into a domain owner because they are actually single-file operational terms.
@@ -168,7 +170,7 @@ This subsection **pins** how “definitions” work across the corpus so editors
 
 `corpus_joint_structure.md` is the official owner for **operational definitions that are inherently joint**: terms that arise only because two or more implementation files must be read together on the same facts, and whose role is to coordinate routing, sequencing, interlock, shared-fact evaluation, stricter-wins handling, or combined implementation satisfaction.
 
-Within the CJS subfiles, place reusable joint operational definitions in **CJS-5** operational clusters. Rule/interlock sections such as **CJS-4** should point to the applicable **CJS-5** term and the domain owner (**CI**, **CS**, or **CF**) rather than defining the term inline.
+Within the CJS subfiles, place reusable joint operational definitions in **CJS-5** (*Implementation and cross-implementation operational cluster library*) operational clusters. Rule/interlock sections such as **CJS-4** (*Specific joint interlocks and shared abstractions*) should point to the applicable **CJS-5** (*Implementation and cross-implementation operational cluster library*) term and the domain owner (**CI**, **CS**, or **CF**) rather than defining the term inline.
 
 Use **CJS** for a term only when all of the following are true:
 
@@ -180,14 +182,14 @@ Use **CJS** for a term only when all of the following are true:
 Do **not** use **CJS** as the default home for:
 
 1. canonical constitutional terms or clustered traceability concepts that belong in **Sentient Constitution Chapter Five**;
-2. true reusable CJS-5 operational clusters or corpus-wide drafting patterns that belong in `corpus_joint_structure.md`;
+2. true reusable CJS-5 (*Implementation and cross-implementation operational cluster library*) operational clusters or corpus-wide drafting patterns that belong in `corpus_joint_structure.md`;
 3. taxonomies, thresholds, procedures, or operational terms that are actually local to **CS**, **CI**, or **CF**.
 
 Escalation / relocation rule:
 
 1. If a **CJS** term starts determining constitutional meaning, scope, satisfaction conditions, or anti-narrowing effect across the corpus, elevate it to **Chapter Five** and replace CJS restatements with pointers.
 2. If a supposed **CJS** term turns out to be used materially in only one implementation file, relocate it to that file and leave **CJS** with a pointer-only interface note if needed.
-3. If a supposed reusable label is mostly functioning as a joint interface cluster rather than a reusable implementation, prefer **CJS-5** over a standalone label.
+3. If a supposed reusable label is mostly functioning as a joint interface cluster rather than a reusable implementation, prefer **CJS-5** (*Implementation and cross-implementation operational cluster library*) over a standalone label.
 
 ### Chapter Five admission gate (definitions-only)
 
@@ -195,7 +197,7 @@ When adding or revising an Independent, Semi-independent, or Dependent-cluster d
 
 1. Keep only the constitutional concept and its O/E/C validity boundary.
 2. Do not embed primary institutional architecture, appointment/rotation mechanics, procedural sequencing, or governance workflow detail.
-3. If owner-layer mechanics are materially required, cite the owner home (Sentient Constitution Ch 6–14, CJS-4.4, CJS-5, CS S1-S3 / protocols) instead of restating those mechanics in the definition.
+3. If owner-layer mechanics are materially required, cite the owner home (Sentient Constitution Ch 6–14, CJS-4.4 (*Cross-implementation trust integrity (joint operation model)*), CJS-5 (*Implementation and cross-implementation operational cluster library*), CS S1-S3 / protocols) instead of restating those mechanics in the definition.
 4. Treat violations of this gate as a structural duplication risk and correct by de-bundling before publication cut.
 
 **Regression (automated):** `make ch5-definitions-gravity-audit` or blocking `make regression` runs `tools/ch5_definitions_gravity_audit.py`, covering **RS-CH5-GW-001..004** in the regression-scenario catalog (archived at [archive/CONSTITUTIONAL_REGRESSION_SCENARIOS_ARCHIVED_2026-05-08.md](archive/CONSTITUTIONAL_REGRESSION_SCENARIOS_ARCHIVED_2026-05-08.md); regenerate a live root catalog with `tools/emit_regression_scenarios.py` before relying on `tools/scenario_audit.py`). The gravity audit covers authority/procedure/machinery regexes plus an Article-citation density threshold for parallel **Chapter Ten** rights gloss risk. When the live root catalog is present, the same blocking `make regression` run includes `tools/scenario_audit.py`, which checks the regression matrix and the **section 10.5** `SCORING-v1` run snapshot (weighted overall must match the six dimensions). Run `make regression-full` when you also want `tools/readability_audit.py` as a separate editorial gate for prose-density and readability hotspots.
@@ -336,16 +338,16 @@ Use the shared bullet order below whenever those owner layers are relevant in th
 1. constitutional definition structure, integrity, burden and verification, and foundational definitions -> `core_02-04_definition_mechanics.md` and Chapter Five (`core_05-05_definitions_a_independent.md`, `core_05-05_definitions_b_semi_independent.md`, `core_05-05_definitions_c_dependent_clusters.md`)
 2. contribution-state (Axis I) / violation / standing meaning and offense classification meaning -> `core_06-06_standing_assessment.md`, `core_07-07_standing_integration.md`, and `core_08-08_misconduct.md`
 3. rights meaning -> `core_10-10_rights_part_a.md` through `core_10-10_rights_part_d.md`
-4. shared operational cluster meanings -> `corpus_joint_structure.md` **CJS-5**
+4. shared operational cluster meanings -> `corpus_joint_structure.md` **CJS-5** (*Implementation and cross-implementation operational cluster library*)
 5. system class, dependency, steward, and continuity taxonomies -> `corpus_systems.md`
 
 After that shared sequence, append only file-specific owner bullets that are genuinely local to that implementation file, for example forum-family routing in `corpus_forum.md` or non-forum institutional architecture in `corpus_institutions.md`.
 
 ### Implementation-Corpus Preamble Contract
 
-For shared opening contract language in implementation files (`corpus_joint_structure.md`, `corpus_systems.md`, `corpus_institutions.md`, `corpus_forum.md`), use a concise pointer to `corpus_joint_structure.md` **CJS-1.1** instead of repeating long boilerplate.
+For shared opening contract language in implementation files (`corpus_joint_structure.md`, `corpus_systems.md`, `corpus_institutions.md`, `corpus_forum.md`), use a concise pointer to `corpus_joint_structure.md` **CJS-1.1** (*Shared implementation-corpus preamble contract*) instead of repeating long boilerplate.
 
-Use implementation-file-specific add-ons only where necessary (for example CJS-5 citation seams in `corpus_joint_structure.md` pointing to `corpus_joint_structure.md` **CJS-3.6**).
+Use implementation-file-specific add-ons only where necessary (for example CJS-5 (*Implementation and cross-implementation operational cluster library*) citation seams in `corpus_joint_structure.md` pointing to `corpus_joint_structure.md` **CJS-3.6** (*Implementation-label traceability and stricter-wins discipline*)).
 
 Do not duplicate shared cross-implementation preamble text across multiple implementation files when CJS already owns that contract.
 
@@ -363,7 +365,7 @@ Where an implementation file states an article-citation default near its opening
 - **Section 2 — Semi-independent Definitions:** Default editorial order is **ascending alphabetical** by the **primary entry title**, matching §1 discipline. Semi-independent entries may be read with one or more §3 clusters, but they still have exactly one visible definition entry. **Topic-group name-order discipline:** For compound topic-group headings, the visible term sequence is a reader-facing ordering contract. If editors reorder the entries inside a group for dependency / reading-order clarity, they must update the group heading in the same change so the heading order still matches the internal entry order. This ordering is editorial and has no independent legal-priority effect unless operative text expressly says so. **Topic-group section dividers (editorial):** The non-operative **topic group** `####` lines (the long comma-separated reading-order **group** labels) are immediately preceded by **two** Markdown horizontal rules on separate lines (`---`, blank line, `---`, blank line) before that **group** heading only. **Subentry spacing (editorial):** Do **not** place horizontal rules between successive plain definition blocks inside a group (including between the group label and the first `<a id>` / `####` entry), except for **Trace-bearing definition separators** above. Separate other subentries with **blank lines** only. **Preamble divider:** One `---` appears after the **part B** file introduction and before the section-2 anchor, as in [core_05-05_definitions_b_semi_independent.md](core_05-05_definitions_b_semi_independent.md). Other `---` lines in part B are **topic-group** openers (two-rule stacks) or single rules satisfying the trace-bearing bullet, not generic separators between plain subentries.
 - **Section 3 — Dependent clusters:** The operative cluster bodies are sorted **A–Z by cluster heading** (sequential `#### 3.1` … `#### 3.16` after the fixed-order meta rules **§3.1** and **§3.2**). Stable HTML anchors on cluster openers (`<a id="…-cluster">`) must be preserved when renumbering. Within a cluster, sub-entries may follow **dependency / reading order** or **alphabetical** order by sub-entry title—choose whichever makes **joint satisfaction** clearest; stay consistent within that cluster unless reordering is part of an explicit edit. **Cluster owner discipline:** A term may appear in only one `Cluster members.` roster. Other materially relevant clusters should cite that term under `Read-with definitions.` or ordinary prose, not as a second owner. **Cluster name-order discipline:** For compound cluster headings, the heading name, explanatory opening sentence, `Cluster members` list, and any internal sub-entry order should move together. If a cluster member is reordered, added, removed, or renamed in a way that changes the reading-order logic, update the cluster title and opening description in the same change. The title sequence is an editorial reading-order contract, not a legal hierarchy, unless operative text expressly establishes priority. Major clusters must remain reflected in **Sentient Constitution Chapter One** (*cluster index* paragraph at the **end** of Ch 1). **Cluster section dividers (editorial):** The operative cluster `####` titles **3.1** through **3.16** are immediately preceded by **at least two** `---` lines before the optional `<a id="…-cluster">` and cluster title (the file often uses three `---` between closed clusters). The fixed-order meta rules **§3.1** and **§3.2** are not cluster bodies and do not use this opener pattern.
 - **Chapter One vocabulary anchor:** Order is **not** alphabetical; it reflects **priority alignment** with foundational values language. When you add a term to the anchor for traceability, place it where editors can scan related concepts together; grep and tools should rely on **definition titles in Ch 5**, not anchor order.
-- **CJS / CS registries** (CJS-5 clusters, implementation headings): Follow each file’s existing registry and stable-ID discipline; those lists are **code- or protocol-ordered**, not Ch 5 alphabetical.
+- **CJS / CS registries** (CJS-5 (*Implementation and cross-implementation operational cluster library*) clusters, implementation headings): Follow each file’s existing registry and stable-ID discipline; those lists are **code- or protocol-ordered**, not Ch 5 alphabetical.
 
 **Architecture note (2026-04-27, Ch 5 §2/§3 section dividers):** The double horizontal rule before Chapter Five **§2** **topic-group** labels (not before each individual semi-independent definition title) and the at-least-two-rule before **§3** cluster `####` openers (from **3.3** onward) are **editorial presentation** for visual separation in rendered Markdown. They are **not** operative constitutional text, do not change legal meaning, and should be kept consistent when adding or renumbering groups or clusters. See the **Topic-group** and **Cluster section dividers** sub-bullets under **Section 2** and **Section 3** in **Order and alphabetization (Chapter Five)** above.
 
@@ -376,7 +378,7 @@ Where an implementation file states an article-citation default near its opening
 For any **concept** that could drift (e.g. harm, materiality, Type N, Class A, proportionality as a test):
 
 1. **Identify the single canonical paragraph** using the table in **section 2** and the overlap map in **section 13** (*Definitions-first redundancy sweep*).
-2. **Elsewhere**, use **pointers** (chapter, article, CJS-5 cluster, SYS-CH-S#) plus **operational criteria** specific to that layer. Do **not** add a second full O/E/C-style gloss unless you are **amending** the canonical file on purpose.
+2. **Elsewhere**, use **pointers** (chapter, article, CJS-5 (*Implementation and cross-implementation operational cluster library*) cluster, SYS-CH-S#) plus **operational criteria** specific to that layer. Do **not** add a second full O/E/C-style gloss unless you are **amending** the canonical file on purpose.
 
 ### Layered framing and restatement discipline
 
@@ -396,7 +398,7 @@ When writing in a non-owner layer, use one of two forms only: (a) brief pointer-
 1. **Sentient Constitution values and rights** (Ch 1, Ch 9) over conflicting operational wording.
 2. **Sentient Constitution Ch 2–3** over implementation corpus files for **what a term means** and **how definitions must be satisfied**.
 3. **CS S1/S2/S3** over Sentient Constitution / CP for **Type/Class/steward assignment rules**.
-4. **Stricter or more specific** applicable rule wins where the corpus already says so (e.g. Protocol B vs applicable CJS-5 terms).
+4. **Stricter or more specific** applicable rule wins where the corpus already says so (e.g. Protocol B vs applicable CJS-5 (*Implementation and cross-implementation operational cluster library*) terms).
 
 ### Adding or changing a term (workflow)
 
@@ -471,7 +473,7 @@ Use these labels in commits and cross-corpus notes. They match headings in [corp
 | **CJS-5D** | Dependency, exit, and lifecycle-integrity terms |
 | **CJS-5E** | Failure, robustness, intervention, and correction terms |
 
-**Retired shorthand:** Older drafts sometimes used companion-file implementation-label shorthand for this layer. In live text, replace that shorthand with **CJS-4.4**, the applicable **CJS-5** cluster, and Chapter Five definitions where term meaning is at issue.
+**Retired shorthand:** Older drafts sometimes used companion-file implementation-label shorthand for this layer. In live text, replace that shorthand with **CJS-4.4** (*Cross-implementation trust integrity (joint operation model)*), the applicable **CJS-5** (*Implementation and cross-implementation operational cluster library*) cluster, and Chapter Five definitions where term meaning is at issue.
 
 ### Articles I–XXV (core rights; implementation files implement detail)
 
@@ -499,7 +501,7 @@ For **readability**, Chapter Ten uses a **planet-first presentation** in **Parts
 - **Part C:** **Articles XII** through **XXI**
 - **Part D:** **Articles XXII**, **XXIII**, **XXIV**, and **XXV**
 
-**Article XVI** anchors lifecycle and environment-separation themes; **Article XVII** anchors sandboxed innovation and deployment-to-obligation transitions; **Article XX** anchors comprehensibility and complexity stewardship; and **Article XXI** anchors root-cause and adaptive-response themes. Implementation files implement those themes heavily through **Protocol A**, **Protocol B**, **Protocol S4**, and **CJS-5** references.
+**Article XVI** anchors lifecycle and environment-separation themes; **Article XVII** anchors sandboxed innovation and deployment-to-obligation transitions; **Article XX** anchors comprehensibility and complexity stewardship; and **Article XXI** anchors root-cause and adaptive-response themes. Implementation files implement those themes heavily through **Protocol A**, **Protocol B**, **Protocol S4**, and **CJS-5** (*Implementation and cross-implementation operational cluster library*) references.
 
 **Article X-C** rights language is **single-home** in the Sentient Constitution. **Operational** expectations default to **general** personal-service and market-stewardship patterns. Those patterns appear in [corpus_institutions.md](corpus_institutions.md) **CI-15** (`INST-PROTO-23`) and the **market-mediated personal services** interpretation in the opening of [corpus_systems.md](corpus_systems.md), read with **CS** **Chapter S2** / **Chapter S3** and **Sentient Constitution Ch 9 Article X-A** (*Non-Imposition and Consent in Association*).
 
@@ -567,7 +569,7 @@ Use these IDs in commit messages, issues, and cross-corpus notes. Headings in [c
 
 ### CJS operational cluster stable IDs
 
-See **section 5** — *Stable IDs — CJS operational cluster file* (**CJS-5A** through **CJS-5E**, plus CJS-4 joint interlocks). Collective-choice and decision-resolution procedure are now owned by Chapter Eleven in [core_11-11_governance.md](core_11-11_governance.md), read with [corpus_joint_structure.md](corpus_joint_structure.md).
+See **section 5** — *Stable IDs — CJS operational cluster file* (**CJS-5A** (*Authority, constraint, secrecy, and procedure*) through **CJS-5E** (*Failure, robustness, intervention, and correction*), plus CJS-4 (*Specific joint interlocks and shared abstractions*) joint interlocks). Collective-choice and decision-resolution procedure are now owned by Chapter Eleven in [core_11-11_governance.md](core_11-11_governance.md), read with [corpus_joint_structure.md](corpus_joint_structure.md).
 
 ---
 
@@ -596,9 +598,9 @@ flowchart TB
     C7 <-.->|Integrity lead and certification for final s = 7-9 proceedings| C8
   end
   subgraph cjs [CJS joint implementation]
-    P1[CJS-4 Joint interlocks]
-    P2[CJS-5A Authority procedure]
-    P3[CJS-5B Evidence audit]
+    P1[CJS-4 (Specific joint interlocks)]
+    P2[CJS-5A (Authority procedure)]
+    P3[CJS-5B (Evidence audit)]
     P4[CJS-5C-D-E Participation dependency failure]
   end
   subgraph implementation_file [corpus_systems.md]
@@ -625,11 +627,11 @@ flowchart TB
 - **To contribution / standing model:** `Sentient Constitution Ch6` or “Sentient Constitution, Chapter Six — Contribution, Violation, and Standing Model.”
 - **To legitimacy / change machinery:** `Sentient Constitution Ch10` (governance legitimacy) and `Sentient Constitution Ch11-13` (non-regression, expansion, supremacy, external legal orders, amendment, ratification, and procedural validity) in the core file.
 - **To incorporation hook:** `Sentient Constitution Ch15` (*incorporation bridge*) plus the applicable CJS family or cluster.
-- **To CJS operational clusters:** `CJS-4.4` and `CJS-5A` through `CJS-5E` ([corpus_joint_structure.md](corpus_joint_structure.md)) — **not** Sentient Constitution chapter numbers.
-- **To numbered CJS operational terms:** cite the specific cluster heading, for example `CJS-5A.6`, `CJS-5B.2`, `CJS-5C.4`, `CJS-5D.2`, or `CJS-5E.3`. Decision-resolution procedure is cited through Chapter Eleven in [core_11-11_governance.md](core_11-11_governance.md) and any applicable [corpus_joint_structure.md](corpus_joint_structure.md) read-with sections. Full registry is at the top of [corpus_joint_structure.md](corpus_joint_structure.md).
+- **To CJS operational clusters:** **CJS-4.4** (*Cross-implementation trust integrity (joint operation model)*) and **CJS-5A** (*Authority, constraint, secrecy, and procedure*) through **CJS-5E** (*Failure, robustness, intervention, and correction*) ([corpus_joint_structure.md](corpus_joint_structure.md)) — **not** Sentient Constitution chapter numbers.
+- **To numbered CJS operational terms:** cite the specific cluster heading, for example **CJS-5A.6** (*Implementation and cross-implementation procedural integrity and adjudication terms*), **CJS-5B.2** (*Implementation and cross-implementation auditability and reconstructability terms*), **CJS-5C.4** (*Implementation and cross-implementation disclosure sufficiency and observability terms*), **CJS-5D.2** (*Implementation and cross-implementation interoperability, portability, and exit-integrity terms*), or **CJS-5E.3** (*Implementation and cross-implementation reversibility and containment terms*). Decision-resolution procedure is cited through Chapter Eleven in [core_11-11_governance.md](core_11-11_governance.md) and any applicable [corpus_joint_structure.md](corpus_joint_structure.md) read-with sections. Full registry is at the top of [corpus_joint_structure.md](corpus_joint_structure.md).
 - **To implementation file:** `CS SYS-CH-S2` or “[corpus_systems.md](corpus_systems.md), Chapter S2 (System Classification).”
 - **To protocol:** `CS Protocol A` or `SYS-PROTO-S5`.
-- **To institutions implementation file:** `corpus_institutions.md` sections **CI-1**–**CI-24** (see **section 2** abbreviations). For **Article X-C** implementation and vulnerable personal-service markets, use **CI-15** and stable ID **`INST-PROTO-23`**.
+- **To institutions implementation file:** `corpus_institutions.md` sections **CI-1** (*Scope, purpose, and legitimacy interface*)–**CI-24** (see **section 2** abbreviations). For **Article X-C** implementation and vulnerable personal-service markets, use **CI-15** (*Vulnerable personal services markets — general regulation and Article X-C interface*) and stable ID **`INST-PROTO-23`**.
 - **Future articles:** if Roman numerals beyond **XXI** are introduced, add them to **Sentient Constitution Ch 9** and update this file’s **section 5** table and **section 2** owner row for rights.
 
 ---
@@ -645,8 +647,8 @@ flowchart TB
 7. **Sentient Constitution Ch 9** (rights, Articles I–XXV) — before tightening obligations that cite those articles. When editing **Article X-C**, reconcile **`corpus_institutions.md` CI-15** (`INST-PROTO-23`) and the **market-mediated personal services** interpretation in the **CS** file opening so implementation layers stay aligned without relocating rights meaning.
 8. **Sentient Constitution Ch 10** (governance legitimacy) — before changing stewardship, authorization, or legitimacy narratives tied to governance requirements.
 9. **Sentient Constitution Ch 11–13** (non-regression; expansion, supremacy, and external legal orders; amendment, ratification, and procedural validity) — before changing adoption or supremacy narratives.
-10. **Sentient Constitution Ch 15** (*incorporation bridge*), **CJS-4.4**, and applicable **CJS-5** clusters — before changing trust/incentive/failure-integrity themes that CS class profiles cite.
-11. **CJS-5 operational clusters** ([corpus_joint_structure.md](corpus_joint_structure.md)) — keep cluster references aligned when adding shared operational terms or provisions.
+10. **Sentient Constitution Ch 15** (*incorporation bridge*), **CJS-4.4** (*Cross-implementation trust integrity (joint operation model)*), and applicable **CJS-5** (*Implementation and cross-implementation operational cluster library*) clusters — before changing trust/incentive/failure-integrity themes that CS class profiles cite.
+11. **CJS-5 (*Implementation and cross-implementation operational cluster library*) operational clusters** ([corpus_joint_structure.md](corpus_joint_structure.md)) — keep cluster references aligned when adding shared operational terms or provisions.
 12. **CS Ch S1 → S2 → S3** — information handling before system classes; classes before steward rules.
 13. **Protocol A → B → S4 → S5** — lifecycle and comprehensibility before ecosystem adaptation and funding.
 
@@ -656,7 +658,7 @@ For a **redundancy sweep**, use the same **center-out** order but anchored on **
 
 ## 10. Anti-patterns
 
-- Adding **long operational checklists** to the Sentient Constitution without a rights or CJS-5 hook.
+- Adding **long operational checklists** to the Sentient Constitution without a rights or CJS-5 (*Implementation and cross-implementation operational cluster library*) hook.
 - Defining **new rights** only in the implementation file.
 - **Duplicating** data-type or system-class definitions in Sentient Constitution Ch 5 unless they are true constitutional terms (prefer CS S1/S2 for operational taxonomies).
 - **Resolving** ambiguous article references by silent deletion; prefer explicit **Sentient Constitution Ch 9** article text or a pointer in this architecture file.
@@ -679,24 +681,24 @@ Keep **this file** as the index; update **sections 5–6** (stable ID tables) wi
 ## 12. Known cleanup notes (implementation files and CJS clusters)
 
 - Internal bullets under **SYS-CH-S2** that referred to “Chapter Two (Information Types…)” meant **S1**, not Sentient Constitution Chapters Two through Four (definition requirements). Prefer **Chapter S1** in new edits.
-- Placeholders such as “Implementation label (renumbered)” inside CS text are **editorial TODOs**; track them in your drafting workflow or replace when **Sentient Constitution Ch 1–15**, **CJS-4.4**, and **CJS-5** references stabilize.
-- The active **CJS-4** and **CJS-5** registry replaces former “(renumbered)” and inconsistent numeric/Roman implementation-label references.
+- Placeholders such as “Implementation label (renumbered)” inside CS text are **editorial TODOs**; track them in your drafting workflow or replace when **Sentient Constitution Ch 1–15**, **CJS-4.4** (*Cross-implementation trust integrity (joint operation model)*), and **CJS-5** (*Implementation and cross-implementation operational cluster library*) references stabilize.
+- The active **CJS-4** (*Specific joint interlocks and shared abstractions*) and **CJS-5** (*Implementation and cross-implementation operational cluster library*) registry replaces former “(renumbered)” and inconsistent numeric/Roman implementation-label references.
 
 ### CJS cluster migration closeout (2026-06-07)
 
-`corpus_joint_structure.md` now uses one active navigation grammar: **CJS-4** for joint interlocks and **CJS-5A** through **CJS-5E** for shared operational clusters. Chapter Five definitions remain the term-meaning home.
+`corpus_joint_structure.md` now uses one active navigation grammar: **CJS-4** (*Specific joint interlocks and shared abstractions*) for joint interlocks and **CJS-5A** (*Authority, constraint, secrecy, and procedure*) through **CJS-5E** (*Failure, robustness, intervention, and correction*) for shared operational clusters. Chapter Five definitions remain the term-meaning home.
 
 Closeout status:
 
 1. the former implementation-label files have been removed from the live CJS tree;
-2. **CJS-5A.6** remains the procedural-integrity and adjudication operational cluster;
-3. lifecycle and retention interfaces route through **CJS-5D.3** and reversibility/containment through **CJS-5E.3**;
-4. live corpus dependencies now point to Chapter Five definitions, **CJS-4.4**, and **CJS-5** operational clusters;
+2. **CJS-5A.6** (*Implementation and cross-implementation procedural integrity and adjudication terms*) remains the procedural-integrity and adjudication operational cluster;
+3. lifecycle and retention interfaces route through **CJS-5D.3** (*Implementation and cross-implementation data-retention and lifecycle-integrity terms*) and reversibility/containment through **CJS-5E.3** (*Implementation and cross-implementation reversibility and containment terms*);
+4. live corpus dependencies now point to Chapter Five definitions, **CJS-4.4** (*Cross-implementation trust integrity (joint operation model)*), and **CJS-5** (*Implementation and cross-implementation operational cluster library*) operational clusters;
 5. the dedicated retirement audit guards against reintroducing the retired label grammar in live binding and support files.
 
 Operational guidance after migration:
 
-1. treat **CJS-4.4** and **CJS-5A** through **CJS-5E** as the live internal citation grammar for `corpus_joint_structure.md`;
+1. treat **CJS-4.4** (*Cross-implementation trust integrity (joint operation model)*) and **CJS-5A** (*Authority, constraint, secrecy, and procedure*) through **CJS-5E** (*Failure, robustness, intervention, and correction*) as the live internal citation grammar for `corpus_joint_structure.md`;
 2. route cross-implementation interface choreography to `corpus_joint_structure.md` and local operational doctrine to `corpus_systems.md`, `corpus_institutions.md`, or `corpus_forum.md` per **section 4**;
 3. treat older provision-heavy notes in architecture, implementation, and evidence artifacts as historical narrative unless they are explicitly refreshed.
 
@@ -715,7 +717,7 @@ Current file map:
 
 **Pass logs dated 2026-04-11 and earlier** often use older maps. When reconciling those notes to current text, apply **section 5** stable IDs unless the log is explicitly updated for the fourteen-chapter layout.
 
-**Have we done a redundancy sweep?** Not as a single closed audit before this section. Alignment work around CJS-5 routing, Protocol B deferral, and Type C–S “Normative alignment” lines reduced *unmarked* duplication but did not eliminate substantive overlap by design.
+**Have we done a redundancy sweep?** Not as a single closed audit before this section. Alignment work around CJS-5 (*Implementation and cross-implementation operational cluster library*) routing, Protocol B deferral, and Type C–S “Normative alignment” lines reduced *unmarked* duplication but did not eliminate substantive overlap by design.
 
 ### Definitions-first redundancy sweep (recommended)
 
@@ -758,7 +760,7 @@ Work **from definitions outward** so every later layer only *applies* or *codes*
 
 **Allowed vs risky redundancy**
 
-- **Safe:** One **canonical** exposition plus **pointers** elsewhere (same CJS-5 cluster, short recap, or “see X”). Cross-domain **Type** rules in CS that cite CJS-5A.1 and CJS-5C.1/CJS-5C.4 are pointers, not second definitions of proportionality or transparency.
+- **Safe:** One **canonical** exposition plus **pointers** elsewhere (same CJS-5 (*Implementation and cross-implementation operational cluster library*) cluster, short recap, or “see X”). Cross-domain **Type** rules in CS that cite CJS-5A.1 (*Implementation and cross-implementation distributed and proportional authority terms*) and CJS-5C.1 (*Implementation and cross-implementation quorum and participatory legitimacy terms*)/CJS-5C.4 (*Implementation and cross-implementation disclosure sufficiency and observability terms*) are pointers, not second definitions of proportionality or transparency.
 - **Risky:** Two **full** definitions of the same obligation (e.g. proportionality, Type N rules, trustworthiness tests) with **different thresholds, exceptions, or examples** without a declared precedence rule.
 
 **Overlap zones (baseline map — revise when you edit)**
@@ -779,12 +781,12 @@ Work **from definitions outward** so every later layer only *applies* or *codes*
 **Precedence (already in corpus; reinforce when editing)**
 
 1. **Sentient Constitution values and rights** beat conflicting operational wording.
-2. **Stricter / more specific** rule wins when both apply (CS opening; Protocol B vs applicable CJS-5 terms).
+2. **Stricter / more specific** rule wins when both apply (CS opening; Protocol B vs applicable CJS-5 (*Implementation and cross-implementation operational cluster library*) terms).
 3. **Operational taxonomy and data types** — **CS S1** is canonical for **Type C–S** labels and handling; Sentient Constitution and CJS **reference** Type N via S1.
 
 **Ongoing discipline**
 
-- When adding a rule, **identify the single home**; elsewhere add a **reference + code** (CJS-5/Article/Chapter S#), not a second full definition.
+- When adding a rule, **identify the single home**; elsewhere add a **reference + code** (CJS-5 (*Implementation and cross-implementation operational cluster library*)/Article/Chapter S#), not a second full definition.
 - On any major edit, grep the theme across **Sentient Constitution, CJS, CS** and reconcile.
 - Optional **version note** in each file footer (`Corpus alignment: …`) to track last holistic pass. Document control expectations for adopters and custodians are summarized in **section 17**.
 
@@ -798,7 +800,7 @@ Work **from definitions outward** so every later layer only *applies* or *codes*
 - **Ch 10:** governance legitimacy
 - **Ch 11–13** in `core_12-14_amendment.md`: non-regression, expansion/supremacy/external orders, amendment/ratification/procedural validity
 - **Ch 14:** incorporation bridge
-- **CJS-4** and **CJS-5:** implementation file families
+- **CJS-4** (*Specific joint interlocks and shared abstractions*) and **CJS-5:** implementation file families
 
 Historical row notes above may still use older chapter numbers. Use the **Chapter numbering refresh** paragraph at the start of this section to translate them.
 

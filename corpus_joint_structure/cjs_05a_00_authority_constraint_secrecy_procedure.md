@@ -65,10 +65,10 @@ This family collects the operational clusters for authority distribution, overri
 Use this rule when legitimate governance, participation, concentration control, or system-wide review depends on a standalone system, institution, forum, or bounded decision domain, or on how institutions, systems, dependencies, or implementation layers work together.
 
 Read it with:
-- **CJS-5A.1 and CJS-5C.1 — Distributed and Proportional Authority**
+- **CJS-5A.1** (*Implementation and cross-implementation distributed and proportional authority terms*) and **CJS-5C.1** (*Implementation and cross-implementation quorum and participatory legitimacy terms*) — Distributed and Proportional Authority
 - **CJS-5C.4 — Transparency and Disclosure**
 - **CJS-5B.2 — Auditability**
-- **CJS-5E.5 and CJS-5B.1 — Evolution, Revalidation, and Non-Entrenchment**
+- **CJS-5E.5** (*Implementation and cross-implementation structural review, correction urgency, and disclosure terms*) and **CJS-5B.1** (*Implementation and cross-implementation integrity assurance and resilience operations*) — Evolution, Revalidation, and Non-Entrenchment
 - **CJS-5A.6 — Procedural Integrity and Adjudication**
 - `corpus_systems.md` **Chapter S3**
 
@@ -103,7 +103,7 @@ Stewardship-role depth and non-symbolic governance boundary
 - OP-C: Title-only or ceremonial governance is non-compliant.
 
 Constitutional lane and functional separation
-- OP-O: A constitutional lane is a **CI-2** functional separation with constitutionally binding duties, such as direction and policy, execution, challenge and review, assurance and audit, or publication and evidence work.
+- OP-O: A constitutional lane is a **CI-2** (*Institutional design and separation of powers*) functional separation with constitutionally binding duties, such as direction and policy, execution, challenge and review, assurance and audit, or publication and evidence work.
 - OP-E: Reviewers must verify the lane's published function, host institution, binding duties, independence safeguards, accountable roles, and relationship to any system-class or stewardship burden under `corpus_systems.md` **Chapter S2** or **Chapter S3**.
 - OP-C: A lane is non-compliant if it is undefined, merged, or staffed in a way that defeats required separation, auditability, challenge, succession, or binding role accountability.
 
@@ -149,11 +149,11 @@ Use this rule when governance-level intervention or override authorization depen
 Read it with:
 - **CJS-5A.2 — Intervention governance and override authorization**
 - **CJS-5E.2 — Intervention and Override Rights**
-- **CJS-5A.1 and CJS-5C.1 — Distributed and Proportional Authority**
+- **CJS-5A.1** (*Implementation and cross-implementation distributed and proportional authority terms*) and **CJS-5C.1** (*Implementation and cross-implementation quorum and participatory legitimacy terms*) — Distributed and Proportional Authority
 - **CJS-5A.4 — Burden of Justification and Constraint**
 - **CJS-5A.5 — Constrained Secrecy and Protected Investigations**
 - **CJS-5B.2 — Auditability**
-- **CJS-5E.5 and CJS-5B.1 — Evolution, Revalidation, and Non-Entrenchment**
+- **CJS-5E.5** (*Implementation and cross-implementation structural review, correction urgency, and disclosure terms*) and **CJS-5B.1** (*Implementation and cross-implementation integrity assurance and resilience operations*) — Evolution, Revalidation, and Non-Entrenchment
 
 Implementation and cross-implementation intervention governance and override-authorization terms
 - OP-O: Governance intervention must be necessary, authorized, sequenced, bounded, recorded, challengeable, and proportional.
@@ -177,7 +177,7 @@ Governance quorum and emergency-sequencing requirements
 
 Emergency governance limits and anti-normalization control
 - OP-O: Pre-deliberation emergency interventions must be minimal, proportionate, time-bounded, subject to mandatory forum review as soon as feasible, and rolled back or restored where feasible.
-- OP-E: Reviewers must verify that emergency powers do not persist without renewed justification, revalidation, and any required CF-11 emergency-review or restoration pathway.
+- OP-E: Reviewers must verify that emergency powers do not persist without renewed justification, revalidation, and any required CF-11 (*Forum continuity, fallback operation, and emergency adjudication*) emergency-review or restoration pathway.
 - OP-C: Emergency action that lacks a forum-review path, or that turns emergency mode into standing governance, is non-compliant.
 
 Records, transparency, and challenge pathway duties
@@ -220,13 +220,13 @@ Proportional procedural scaling
 Use this rule when legitimacy depends on authorities holding themselves to equal or stronger standards than they apply to others.
 
 Read it with:
-- **CJS-5A.3 and CJS-5B.1 — Reflexive Transparency and Accountability**
+- **CJS-5A.3** (*Implementation and cross-implementation reflexive transparency and accountability terms*) and **CJS-5B.1** (*Implementation and cross-implementation integrity assurance and resilience operations*) — Reflexive Transparency and Accountability
 - **CJS-5C.4 — Transparency and Disclosure**
 - **CJS-5B.2 — Auditability**
 - **CJS-5B.3 — Tiered Transparency and Audit Access**
 - **CJS-5B.4 — Independent Verification and Integrity of Claims**
-- **CJS-5E.5 and CJS-5B.1 — Evolution, Revalidation, and Non-Entrenchment**
-- **CJS-5A.1 and CJS-5C.1 — Distributed and Proportional Authority**
+- **CJS-5E.5** (*Implementation and cross-implementation structural review, correction urgency, and disclosure terms*) and **CJS-5B.1** (*Implementation and cross-implementation integrity assurance and resilience operations*) — Evolution, Revalidation, and Non-Entrenchment
+- **CJS-5A.1** (*Implementation and cross-implementation distributed and proportional authority terms*) and **CJS-5C.1** (*Implementation and cross-implementation quorum and participatory legitimacy terms*) — Distributed and Proportional Authority
 - **CJS-5A.4 — Burden of Justification and Constraint**
 - **CJS-5A.5 — Constrained Secrecy and Protected Investigations**
 - **CJS-5A.6 — Procedural Integrity and Adjudication**
@@ -307,11 +307,11 @@ Use this rule when restrictions, least-restrictive choices, or revalidation depe
 
 Read it with:
 - **CJS-5A.4 — Burden of Justification and Constraint**
-- **CJS-5A.1 and CJS-5C.1 — Distributed and Proportional Authority**
+- **CJS-5A.1** (*Implementation and cross-implementation distributed and proportional authority terms*) and **CJS-5C.1** (*Implementation and cross-implementation quorum and participatory legitimacy terms*) — Distributed and Proportional Authority
 - **CJS-5C.4 — Transparency and Disclosure**
 - **CJS-5D.2 — Interoperability, Portability, and Exit Integrity**
 - **CJS-5B.2 — Auditability**
-- **CJS-5E.5 and CJS-5B.1 — Evolution, Revalidation, and Non-Entrenchment**
+- **CJS-5E.5** (*Implementation and cross-implementation structural review, correction urgency, and disclosure terms*) and **CJS-5B.1** (*Implementation and cross-implementation integrity assurance and resilience operations*) — Evolution, Revalidation, and Non-Entrenchment
 - **Chapter One §6.4.1 — Rights-Collision Decision Test**
 - **`corpus_forum.md` CF-11 — Forum continuity, fallback operation, and emergency adjudication**
 - Core definitions for necessity, proportionality, materiality, burden, and anti-enclosure.
@@ -393,11 +393,11 @@ Use this rule when secrecy, protected investigations, oversight, or delayed rele
 Read it with:
 - **CJS-5A.5 — Constrained Secrecy and Protected Investigations**
 - **CJS-5A.4 — Burden of Justification and Constraint**
-- **CJS-5A.3 and CJS-5B.1 — Reflexive Transparency and Accountability**
-- **CJS-5A.1 and CJS-5C.1 — Distributed and Proportional Authority**
+- **CJS-5A.3** (*Implementation and cross-implementation reflexive transparency and accountability terms*) and **CJS-5B.1** (*Implementation and cross-implementation integrity assurance and resilience operations*) — Reflexive Transparency and Accountability
+- **CJS-5A.1** (*Implementation and cross-implementation distributed and proportional authority terms*) and **CJS-5C.1** (*Implementation and cross-implementation quorum and participatory legitimacy terms*) — Distributed and Proportional Authority
 - **CJS-5C.4 — Transparency and Disclosure**
 - **CJS-5B.2 — Auditability**
-- **CJS-5E.5 and CJS-5B.1 — Evolution, Revalidation, and Non-Entrenchment**
+- **CJS-5E.5** (*Implementation and cross-implementation structural review, correction urgency, and disclosure terms*) and **CJS-5B.1** (*Implementation and cross-implementation integrity assurance and resilience operations*) — Evolution, Revalidation, and Non-Entrenchment
 - **CJS-5A.6 — Procedural Integrity and Adjudication**
 
 Implementation and cross-implementation constrained-secrecy and protected-investigation terms
@@ -462,7 +462,7 @@ Use this rule when due process, reviewability, restoration, or enforcement propo
 Read it with:
 - **CJS-5A.6 — Procedural Integrity and Adjudication**
 - **CJS-5A.4 — Burden of Justification and Constraint**
-- **CJS-5A.3 and CJS-5B.1 — Reflexive Transparency and Accountability**
+- **CJS-5A.3** (*Implementation and cross-implementation reflexive transparency and accountability terms*) and **CJS-5B.1** (*Implementation and cross-implementation integrity assurance and resilience operations*) — Reflexive Transparency and Accountability
 - **CJS-5A.2 — Intervention governance and override authorization**
 - `corpus_systems.md` **Chapter S1** and **Chapter S2**
 - `corpus_institutions.md`

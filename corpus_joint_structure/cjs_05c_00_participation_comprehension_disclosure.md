@@ -62,7 +62,7 @@ This family collects the operational clusters that make affected-party participa
 Use this rule when participation or quorum rules affect materially binding outcomes within a standalone system, institution, forum, or bounded decision domain, or across more than one implementation file.
 
 Read it with:
-- **CJS-5A.1**, **CJS-5C.1**, and **CJS-5A.6** for authority, participation legitimacy, and procedural integrity terms
+- **CJS-5A.1** (*Implementation and cross-implementation distributed and proportional authority terms*), **CJS-5C.1** (*Implementation and cross-implementation quorum and participatory legitimacy terms*), and **CJS-5A.6** (*Implementation and cross-implementation procedural integrity and adjudication terms*) for authority, participation legitimacy, and procedural integrity terms
 - **Sentient Constitution Chapter Eleven** section 4
 - **Chapter Ten Article IX-C**
 - **Chapter Ten Article XI**
@@ -225,7 +225,7 @@ Proportional application
 Use this rule when a system decides what sentients see first, see often, see rarely, or do not see at all. This includes ranking, recommendation, filtering, search order, notifications, feeds, alerts, and other tools that steer attention.
 
 Read it with:
-- **CJS-5C.3 and CJS-5C.4 — System Status, Risk, and Scope Representation**
+- **CJS-5C.3** (*Implementation and cross-implementation salience integrity and attention-allocation terms*) and **CJS-5C.4** (*Implementation and cross-implementation disclosure sufficiency and observability terms*) — System Status, Risk, and Scope Representation
 - **CJS-5C.4 — Transparency and Disclosure**
 - **CJS-5E.4 — Adversarial Robustness and Abuse Resistance**
 - **Article XV-A**

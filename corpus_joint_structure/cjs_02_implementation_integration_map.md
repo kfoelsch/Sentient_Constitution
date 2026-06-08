@@ -25,12 +25,12 @@
 
 
 **Constitutional index (abridged)**
-This section shows who owns major shared topics, where to look first, and which implementation files must be read together. The stable owner map is **CJS-2.2**, read with `doc_architecture.md` section 4.
+This section shows who owns major shared topics, where to look first, and which implementation files must be read together. The stable owner map is **CJS-2.2** (*Topic router (stable IDs)*), read with `doc_architecture.md` section 4.
 
 When a topic involves more than one implementation file and matters for compliance, use this reading order:
 
 1. **CJS folder**
-   - Start here for cross-domain implementation rules and shared requirements, especially **CJS-2** and **CJS-3**.
+   - Start here for cross-domain implementation rules and shared requirements, especially **CJS-2** (*Implementation integration map*) and **CJS-3** (*Joint structural obligations (cross-domain requirements)*).
 
 2. **`corpus_systems.md`**
    - Use this for system classifications, stewardship rules, lifecycle duties, and protocols that determine the scale of obligations.
@@ -41,7 +41,7 @@ When a topic involves more than one implementation file and matters for complian
 4. **`corpus_forum.md`**
    - Use this for operational rules related to **Chapter Nine** forum families.
 
-If two implementation files set different standards for the same meaningful risk, the stricter clearly adopted rule controls, following **Chapter Fifteen** and the classification/material-impact rules at the start of `corpus_systems.md`. The same rule applies in **CJS-3.6** when profiles and implementation labels seem to conflict.
+If two implementation files set different standards for the same meaningful risk, the stricter clearly adopted rule controls, following **Chapter Fifteen** and the classification/material-impact rules at the start of `corpus_systems.md`. The same rule applies in **CJS-3.6** (*Implementation-label traceability and stricter-wins discipline*) when profiles and implementation labels seem to conflict.
 
 ### CJS-2.1: Intentional overlap (non-duplication discipline)
 <details>
@@ -68,7 +68,7 @@ Some topics are **deliberately** split across implementation files (for example 
 
 - the **domain owner** states the **full operative** rules for its scope;
 - the **CJS folder** states **joint satisfaction conditions**, **read-with pointers**, and **interface requirements** only;
-- do **not** restate **CJS-5** OP clusters, **S2/S3** tables, or **CF-** / **CI-** checklists except in brief **quote** or **summary pointer** form when needed for coherence.
+- do **not** restate **CJS-5** (*Implementation and cross-implementation operational cluster library*) OP clusters, **S2/S3** tables, or **CF-** / **CI-** checklists except in brief **quote** or **summary pointer** form when needed for coherence.
 
 ### CJS-2.2: Topic router (stable IDs)
 <details>
@@ -95,7 +95,7 @@ Some topics are **deliberately** split across implementation files (for example 
 
 <br>
 
-Each row names the **first** operative owner for the topic. **Mandatory read-with** lists implementation sections (and core hooks where listed) that must be satisfied **together** when the topic materially applies. Stable row IDs (**CJS-R01**–**CJS-R19**) are **corpus-local** here; they are **not** Sentient Constitution article numbers.
+Each row names the **first** operative owner for the topic. **Mandatory read-with** lists implementation sections (and core hooks where listed) that must be satisfied **together** when the topic materially applies. Stable row IDs (**CJS-R01** (*Delegated binding bodies and hybrid composition (non-forum institutions)*)–**CJS-R19** (*Implementation and cross-implementation integrity assurance and resilience operations*)) are **corpus-local** here; they are **not** Sentient Constitution article numbers.
 
 | Row ID | Topic | Primary owner | Mandatory read-with |
 |--------|--------|---------------|---------------------|
@@ -146,7 +146,7 @@ The CJS folder may adopt **binding high-level joint abstractions** only where a 
 For this contract:
 
 - **Tier 1 (CJS abstraction):** state only shared admission scope, cross-implementation trigger conditions, and minimum joint consequences needed to avoid contradiction or silent gaps.
-- **Tier 2 (owner detail):** retain all operational tests, thresholds, procedures, and implementation mechanics in the canonical owner file(s) listed in **CJS-2.2**.
+- **Tier 2 (owner detail):** retain all operational tests, thresholds, procedures, and implementation mechanics in the canonical owner file(s) listed in **CJS-2.2** (*Topic router (stable IDs)*).
 - **No parallel canon:** CJS abstractions must not become a second full taxonomy for domains owned by **CP**, **CS**, **CI**, or **CF**.
 - **Specialize, do not redefine:** owner files may specialize a CJS abstraction for their domain scope but must not redefine it incompatibly.
 

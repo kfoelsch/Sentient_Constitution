@@ -26,16 +26,16 @@
 
 This section governs how adopting entities convert the forum families recognized in `core_09-09_forum.md` **Chapter Nine** into actual adjudicative bodies, benches, chambers, and support structures.
 
-**Joint read:** for delegated-body and chamber overlap across institutions and forums, **`corpus_joint_structure.md` CJS-2.2** rows **CJS-R01**–**CJS-R02**, **CJS-3.4**, and **CJS-4.1**.
+**Joint read:** for delegated-body and chamber overlap across institutions and forums, read **`corpus_joint_structure.md` CJS-2.2** (*topic router stable IDs*) rows **CJS-R01** (*delegated binding bodies and hybrid composition for non-forum institutions*) and **CJS-R02** (*forum chambers, divisions, and designated panels*), together with **CJS-3.4** (*institution-hosted or forum-adjacent operations*) and **CJS-4.1** (*mandatory hybrid authority composition*).
 
 It sets structural requirements for:
 - forum-structure mapping and public adjudicative architecture;
 - minimum availability of adjudicators and support sufficient to form lawful panels and preserve traceability;
 - chamber specialization and anti-collapse limits.
 
-Published intake priority classes, the intake triage body, and day-one filing routing expectations are governed by **CF-4**. Staffing composition frameworks, reserve and surge capacity, shared administration and objective assignment safeguards, periodic structural review, prohibited staffing and capacity patterns, and the structural governance record set are governed by **CF-13**.
+Published intake priority classes, the intake triage body, and day-one filing routing expectations are governed by **CF-4** (*Routing operations, transfer, certification, and representative treatment*). Staffing composition frameworks, reserve and surge capacity, shared administration and objective assignment safeguards, periodic structural review, prohibited staffing and capacity patterns, and the structural governance record set are governed by **CF-13** (*Forum staffing, reserve capacity, shared administration, structural review, and structural records*).
 
-This section does not itself govern panel assignment, recusal, lawful bench formation, backlog requirements, or emergency continuity. Those subjects are governed by **CF-3**, **CF-10**, and **CF-11**.
+This section does not itself govern panel assignment, recusal, lawful bench formation, backlog requirements, or emergency continuity. Those subjects are governed by **CF-3** (*Panel formation, disclosure, recusal, and lawful bench constitution*), **CF-10** (*Forum performance, backlog requirements, publication timeliness, and accessibility*), and **CF-11** (*Forum continuity, fallback operation, and emergency adjudication*).
 
 ### CF-2.1 Core structural rule
 <details>
@@ -66,7 +66,7 @@ Every adopting entity must establish and maintain a published forum structure th
 - gives operational effect to each forum family required by `core_09-09_forum.md` **Chapter Nine**;
 - makes family boundaries intelligible to filers, affected parties, and review bodies;
 - preserves independence, contestability, and traceability in actual forum design rather than by labels alone;
-- maintains enough qualified personnel and, as specified in **CF-13**, reserve and substitute capacity to keep the forum families functional in ordinary and stress conditions.
+- maintains enough qualified personnel and, as specified in **CF-13** (*Forum staffing, reserve capacity, shared administration, structural review, and structural records*), reserve and substitute capacity to keep the forum families functional in ordinary and stress conditions.
 
 **Practical flexibility:** Local forum names, internal organization, and administrative detail may differ from any model structure, as long as filers and review bodies can still see and use **each** forum family Chapter Eight requires—separate intake, panels where applicable, and appeal or review paths that match that family's role. **What is not allowed:** satisfying the rule only on paper—by renaming adjudicative bodies, redrawing chamber lines, or similar cosmetic moves—if the real effect is to merge or erase boundaries between families that the constitution treats as distinct.
 
@@ -100,7 +100,7 @@ Each adopting entity must publish a forum-structure map that states, in plain la
 - whether each family is organized as a single standing forum, multiple regional forums, a tiered set of forums, or another lawful arrangement;
 - which chambers, divisions, or designated panels exist within each family;
 - which matters are routed directly to a family-level forum and which may begin in a chamber or lower-level bench;
-- how each family's published intake priority classes and **intake triage body** (or equivalent under **CF-4.2**) connect initial filings to forums, chambers, or benches;
+- how each family's published intake priority classes and **intake triage body** (or equivalent under **CF-4.2** (*Intake triage body*)) connect initial filings to forums, chambers, or benches;
 - the appeal or review path for each family and chamber configuration;
 - the backup or fallback forum used when an ordinary forum cannot lawfully act.
 
@@ -169,7 +169,7 @@ The following patterns are non-compliant unless adopted through constitutional a
 
 Each required forum family must maintain, at minimum:
 
-- enough adjudicators to form lawful panels under **CF-3** without routine dependence on the same small recurring bench for all matters;
+- enough adjudicators to form lawful panels under **CF-3** (*Panel formation, disclosure, recusal, and lawful bench constitution*) without routine dependence on the same small recurring bench for all matters;
 - clerical, records, and scheduling support sufficient to preserve traceability and contestability;
 - access to translation, accessibility, and public-notice support where needed for meaningful use;
 - access to independent forensic, analytical, or technical support where that family's ordinary workload foreseeably requires it.
@@ -234,15 +234,16 @@ Chambers must not be used to relabel one forum family as another, to erase famil
 
 <br>
 
-**Joint minimum.** Chamber-creation instruments in scope must satisfy **`corpus_joint_structure.md` CJS-4.1** (*Mandatory hybrid authority composition*). Read **CJS-4.1** with **CF-2.5**, **CF-2.6**, and **CF-11** for chamber identification, attachment bounds, home-based terms, and **forum** emergency deviation and return-to-baseline discipline.
+**Joint minimum.** Chamber-creation instruments in scope must satisfy **`corpus_joint_structure.md` CJS-4.1** (*Mandatory hybrid authority composition*). Read that joint rule with **CF-2.5** (*Chamber creation, identification, and family boundary*), this section, and **CF-11** (*Forum continuity, fallback operation, and emergency adjudication*) for chamber identification, attachment bounds, home-based terms, and **forum** emergency deviation and return-to-baseline discipline.
 
-Apply **`corpus_joint_structure.md` CJS-4.2** for shared rotating-attachment requirements (bounded formula, no undefined duration discretion, and illustration status).
+Chamber-creation instruments must also state:
+- the chamber's **institutional design class** under `corpus_institutions.md` **CI-9.1B** (*Delegated subunits, institutional design class, and attachment discipline*), using the highest applicable `corpus_systems.md` **Chapter S2** class in governed scope: **Class A** (*absolute dependency*), **Class B** (*operational dependency*), or **Class C** (*coordination dependency*);
+- for every Chapter Nine forum family, forum, adjudicative body, internal chamber, division, or designated panel, at least the **Class C** (*coordination dependency*) floor for institutional design class, even if other governed systems are labeled below Class C;
+- the shared rotating-attachment formula required by **`corpus_joint_structure.md` CJS-4.2** (*bounded formula, no undefined duration discretion, and illustration status*), with **one calendar year** treated as the ordinary **maximum** for a single rotating attachment spell unless the instrument publishes a longer ceiling and a brief justification;
+- the shared home-based continuity rules required by **CJS-4.2** (*published term, renewal, or stagger rules, without requiring a mirror of rotating-attachment rules*);
+- any stricter **Class A** or **Class B** assurance, external-participation, or publication requirement that applies through that institutional-design-class discipline when the chamber's governed scope reaches **absolute dependency** or **operational dependency** stakes.
 
-**Suggested** guidance: treat **one calendar year** as the ordinary **maximum** for a single rotating attachment spell unless the instrument publishes a longer ceiling and a brief justification.
-
-Apply **`corpus_joint_structure.md` CJS-4.2** for shared home-based continuity requirements (published term/renewal/stagger rules and no mirror requirement relative to rotating formulas). Forum-specific continuity and emergency controls remain in **CF-11**.
-
-**Institutional design class.** For **institutional design class** (including the **Class C** floor for specialist forums) and the **general** delegated-subunit pattern aligned with **CF-2.6**, see `corpus_institutions.md` **CI-9.1B** and **`INST-PROTO-27`**. **CF-2.6** remains **operative** for **Chapter Nine** forum families and chambers; where general and forum-specific rules overlap, the **stricter** rule governs.
+**Forum-specific rule.** This chamber-authority rule remains operative for **Chapter Nine** forum families and chambers. Where general delegated-subunit rules in **CI-9.1B** (*Delegated subunits, institutional design class, and attachment discipline*) and forum-specific chamber-authority duties in this section overlap, the **stricter** rule governs. Forum-specific continuity and emergency controls remain in **CF-11** (*Forum continuity, fallback operation, and emergency adjudication*).
 
 ### CF-2.7 Chamber appeals, review, and routing limits
 <details>
@@ -308,7 +309,7 @@ Specialist chambers must:
 - remain reviewable and contestable within the constitutional family structure;
 - use published entry criteria rather than ad hoc prestige, patronage, or opaque expertise claims;
 - preserve generalist participation or review where exclusive specialist control would create capture or methodological monoculture;
-- coordinate with **CF-9** where the chamber exercises technical-forum functions.
+- coordinate with **CF-9** (*Technical specialist forums and specialist chambers*) where the chamber exercises technical-forum functions.
 
 Specialization must add competence without creating an insulated guild-like adjudicative body.
 
