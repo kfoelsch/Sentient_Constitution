@@ -99,7 +99,7 @@ Every forum family must maintain a published panel-formation rule set that state
 - the record required when a matter uses an emergency, single-member, reduced-size, or temporary panel;
 - the conditions under which a matter must shift from a provisional panel to a fuller merits panel.
 
-No forum may treat a panel as lawful merely because enough sentients are available numerically. Competence, independence, and conflict screening are mandatory parts of lawful constitution.
+No forum may treat a panel as lawful merely because it reaches the required number of members. Each seat must satisfy applicable competence requirements, independence rules, and conflict-screening obligations before the panel is lawfully constituted.
 
 ### CF-3.3 Publication and pre-assignment transparency
 <details>
@@ -143,8 +143,8 @@ Where public pre-disclosure of a proposed panel would foreseeably create a mater
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [CJS-1.1](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-11-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.2](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-22-topic-router-stable-ids) topic router; [Chapter Nine](../core_09-09_forum.md#chapter-nine-forums-and-jurisdiction) forum-family routing; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
-- Downstream: this section's local operational requirements for **CF-3.4 Mandatory disclosures before merits participation**.
-- Read with: **CF-3.4**.
+- Downstream: this section's local operational requirements for **CF-3.4 Mandatory disclosures before merits participation**; [Chapter Six §2.2](../core_06-06_standing_assessment.md#22-standing-record-operational-requirements) (*standing-record contents*); [Chapter Six §4.3](../core_06-06_standing_assessment.md#4-axis-ii-violation-nature-legal-constitutional-type) (*Violation Axis severity*); [Chapter Seven §4](../core_07-07_standing_integration.md#8-cross-axis-coupling-and-escalation-constraints) (*standing integration and locks*).
+- Read with: **CF-3.4**; [Chapter Eight §2](../core_08-08_misconduct.md#2-criteria-set-for-slot-assignment) where dishonest disclosure omission materially affects constitutional custody, verification, challenge rights, Rights-Floor governance, or operative remedies.
 
 </details>
 
@@ -158,6 +158,7 @@ Where public pre-disclosure of a proposed panel would foreseeably create a mater
 - [Accountability](../core_05-05_definitions_b_semi_independent.md#accountability) · [O](../core_05-05_definitions_b_semi_independent.md#accountability) · [E](../core_05-05_definitions_b_semi_independent.md#accountability-e) · [C](../core_05-05_definitions_b_semi_independent.md#accountability-c)
 - [Incentive Alignment](../core_05-05_definitions_a_independent.md#incentive-alignment) · [O](../core_05-05_definitions_a_independent.md#incentive-alignment) · [E](../core_05-05_definitions_a_independent.md#incentive-alignment-e) · [C](../core_05-05_definitions_a_independent.md#incentive-alignment-c)
 - [Transparency](../core_05-05_definitions_c_dependent_clusters.md#transparency) · [O](../core_05-05_definitions_c_dependent_clusters.md#transparency) · [E](../core_05-05_definitions_c_dependent_clusters.md#transparency-e) · [C](../core_05-05_definitions_c_dependent_clusters.md#transparency-c)
+- [Verified Violation Findings](../core_05-05_definitions_c_dependent_clusters.md#verified-violation-findings) · [O](../core_05-05_definitions_c_dependent_clusters.md#verified-violation-findings) · [E](../core_05-05_definitions_c_dependent_clusters.md#verified-violation-findings-e) · [C](../core_05-05_definitions_c_dependent_clusters.md#verified-violation-findings-c)
 
 </details>
 
@@ -171,6 +172,10 @@ Before material merits participation, every proposed panel member must disclose 
 - public commitment, hostility, or alignment so specific that fair consideration is reasonably in question;
 - prior concealed conflict or repeated recusal-related non-compliance relevant to the present matter.
 
+A knowing, reckless, or materially dishonest omission from a forum disclosure required by this subsection is not treated as ordinary informational deception alone. Because forum disclosure omissions can corrupt lawful panel constitution, impair recusal challenge, distort merits participation, and make the forum judge through an undisclosed defect, verified dishonest omission carries heightened violation impact relative to comparably material deception in non-adjudicative settings. The record must identify whether the omission affected panel lawfulness, independence, challenge opportunity, evidence integrity, remedy timing, or any party's practical ability to contest the forum.
+
+Where a competent forum or adopting process verifies such an omission, the finding must be carried into any Chapter Six standing record and Chapter Seven standing-lock analysis as a forum-integrity violation input. It may support aggravated, safeguard-process, or Chapter Eight anti-constitutional misconduct routing where the verified facts satisfy those standards, but allegation, suspicion, or late-discovered ambiguity alone does not alter standing before the verified-input gate is met.
+
 The disclosure record must be preserved even if the member ultimately serves.
 
 ### CF-3.5 Recusal triggers
@@ -178,8 +183,8 @@ The disclosure record must be preserved even if the member ultimately serves.
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [CJS-1.1](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-11-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.2](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-22-topic-router-stable-ids) topic router; [Chapter Nine](../core_09-09_forum.md#chapter-nine-forums-and-jurisdiction) forum-family routing; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
-- Downstream: this section's local operational requirements for **CF-3.5 Recusal triggers**.
-- Read with: **CF-3.5**.
+- Downstream: this section's local operational requirements for **CF-3.5 Recusal triggers**; [Chapter Six §2.2](../core_06-06_standing_assessment.md#22-standing-record-operational-requirements) (*standing-record contents*); [Chapter Six §4.3](../core_06-06_standing_assessment.md#4-axis-ii-violation-nature-legal-constitutional-type) (*Violation Axis severity*); [Chapter Seven §4](../core_07-07_standing_integration.md#8-cross-axis-coupling-and-escalation-constraints) (*standing integration and locks*).
+- Read with: **CF-3.5**; [Chapter Eight §2](../core_08-08_misconduct.md#2-criteria-set-for-slot-assignment) where intentional recusal-process failure materially affects constitutional custody, verification, challenge rights, Rights-Floor governance, or operative remedies.
 
 </details>
 
@@ -205,6 +210,10 @@ Recusal is required where:
 - the member is a subject, likely material witness, or direct institutional subordinate of a subject in a way that materially impairs independence;
 - the matter triggers Chapter Eight cross-forum anti-self-judging protection and the proposed member is part of the compromised chain;
 - service would create a reasonable appearance that the forum is judging its own concealed bias, capture, recusal failure, or process abuse without a sufficiently independent bench.
+
+A knowing or intentional failure to follow a required recusal process is anti-constitutional conduct within the scope of Chapter Eight where the verified facts satisfy Chapter Eight criteria. It is not treated as an ordinary procedural defect alone. Because recusal-process failure can corrupt lawful panel constitution, defeat challenge rights, and make the forum judge through its own unresolved defect, the record must identify whether the failure affected panel lawfulness, independence, recusal challenge, evidence integrity, remedy timing, backup routing, or any party's practical ability to contest the forum.
+
+Where a competent forum or adopting process verifies intentional recusal-process failure, the finding must be carried into any Chapter Six standing record and Chapter Seven standing-lock analysis as a forum-integrity violation input. It may support aggravated, safeguard-process, or Chapter Eight anti-constitutional misconduct routing where the verified facts satisfy those standards, but allegation, suspicion, good-faith error, or late-discovered ambiguity alone does not alter standing before the verified-input gate is met.
 
 ### CF-3.6 Recusal challenge workflow
 <details>
