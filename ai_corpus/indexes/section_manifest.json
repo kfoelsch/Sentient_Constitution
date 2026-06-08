@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-06-08T07:45:53+00:00",
+  "generated_at": "2026-06-08T07:49:24+00:00",
   "files": {
     "core_00-01_principles.md": {
       "total_lines": 1506,
@@ -6362,13 +6362,13 @@
       ]
     },
     "corpus_forum/cf_05_appeal_secondary_review_exhaustion_pathways.md": {
-      "total_lines": 149,
+      "total_lines": 161,
       "sections": [
         {
           "header": "CF-5: Appeal, secondary review, and exhaustion pathways",
           "level": 2,
           "line_start": 1,
-          "line_end": 149,
+          "line_end": 161,
           "anchor": null
         },
         {
@@ -6407,10 +6407,52 @@
           "anchor": null
         },
         {
-          "header": "CF-5.2 Core rule",
+          "header": "CF-5.2 Core rules",
           "level": 3,
           "line_start": 93,
+          "line_end": 161,
+          "anchor": null
+        },
+        {
+          "header": "CF-5.2.1 Review-Lane Architecture",
+          "level": 4,
+          "line_start": 97,
+          "line_end": 111,
+          "anchor": null
+        },
+        {
+          "header": "CF-5.2.2 Emergency, Exhaustion, and Timing Rules",
+          "level": 4,
+          "line_start": 112,
+          "line_end": 119,
+          "anchor": null
+        },
+        {
+          "header": "CF-5.2.3 Rights-Collision Records",
+          "level": 4,
+          "line_start": 120,
+          "line_end": 131,
+          "anchor": null
+        },
+        {
+          "header": "CF-5.2.4 Sanctions, Restrictions, and Corrective Measures",
+          "level": 4,
+          "line_start": 132,
+          "line_end": 143,
+          "anchor": null
+        },
+        {
+          "header": "CF-5.2.5 Appeal Outcomes, Remedies, and Reviewable Records",
+          "level": 4,
+          "line_start": 144,
           "line_end": 149,
+          "anchor": null
+        },
+        {
+          "header": "CF-5.2.6 Non-Compliant Patterns",
+          "level": 4,
+          "line_start": 150,
+          "line_end": 161,
           "anchor": null
         }
       ]

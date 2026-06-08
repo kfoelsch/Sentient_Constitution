@@ -3,7 +3,7 @@
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [CJS-1.1](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-11-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.2](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-22-topic-router-stable-ids) topic router; [Chapter Nine](../core_09-09_forum.md#chapter-nine-forums-and-jurisdiction) forum-family routing; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
-- Downstream: [CF-5.1 Disposition-effect categories and record labels](#cf-51-disposition-effect-categories-and-record-labels); [CF-5.2 Core rule](#cf-52-core-rule).
+- Downstream: [CF-5.1 Disposition-effect categories and record labels](#cf-51-disposition-effect-categories-and-record-labels); [CF-5.2 Core rules](#cf-52-core-rules).
 - Read with: **CF-5**; **CF-5.1**; **CF-5.1.1**; **CF-5.1.2**; **CF-5.1.3**; **CF-3**; **CF-5.1.4**.
 
 </details>
@@ -90,11 +90,13 @@ The determination publishes an **intra-family** rule, or an expressly stated **c
 
 The ruling's force runs through a **shared technical or expert-evidence standard** maintained or recognized under **CF-9** (*Technical specialist forums and specialist chambers*), including that section's departure, variance, and cross-jurisdiction recognition rules. Use **CF-5.1.4** when the binding or presumptive effect comes mainly from the technical-standard architecture rather than from a general **CF-5.1.3** panel rule. A lead forum may also state **CF-5.1.3** when it publishes a non-technical disposition pattern that depends on a **CF-9** standard.
 
-### CF-5.2 Core rule
+### CF-5.2 Core rules
 
 Every forum family must keep a practical way to review materially impactful decisions. The path must be understandable, usable without unreasonable procedural barriers, and strong enough to correct material error before the remedy stops mattering.
 
-**Minimum lane structure.**
+#### CF-5.2.1 Review-Lane Architecture
+
+**Minimum lane structure.** At minimum, adopting systems must provide the following review lanes:
 - Ordinary merits determinations must have a published review path.
 - High-impact, Rights-Floor, constitutional, or structurally precedential determinations must have access to a review body that is meaningfully independent of the original decision-maker. The attributable record must state the applicable **CF-5.1** disposition-effect category and corresponding class label. The ordinary expectation is at least **CF-5.1.2** unless adopting law expressly treats the outcome as party-bound only.
 - Emergency or imminent-harm matters must have an expedited interim-review lane.
@@ -107,11 +109,15 @@ Every forum family must keep a practical way to review materially impactful deci
 - structural conflict, capture, or recusal concerns;
 - sanctions or exclusions whose practical effect extends beyond a minor and rapidly reversible interval.
 
+#### CF-5.2.2 Emergency, Exhaustion, and Timing Rules
+
 **Emergency review lanes.** Forums must maintain a route for interim review on a time scale that matches the threatened harm. Temporary orders entered before full review must remain contestable, time-limited, and followed by fuller lawful review as soon as feasible.
 
 **Exhaustion and direct access.** Where adopting law uses both exhaustion and direct-access routes, exhaustion rules must not be used to defeat timely remedy, shield structural or constitutional error, or trap parties in a forum that cannot lawfully give the needed relief. Direct access must remain available when delay would materially endanger rights, evidence, independence, or practical restoration.
 
 **Review windows.** Published filing and resolution windows must scale with urgency, impact, dependency, and reversibility. Emergency matters should be measured in hours or a small number of days, not weeks. Ordinary matters may use longer windows, but not so long that review predictably loses practical value.
+
+#### CF-5.2.3 Rights-Collision Records
 
 **Rights-collision records.** When a forum sustains, imposes, or reviews a material restriction because constitutional rights, protections, or structural duties are in tension, the record must identify:
 - the rights, constraints, or protections in tension;
@@ -123,6 +129,18 @@ Every forum family must keep a practical way to review materially impactful deci
 
 An incomplete record on a materially rights-collision matter is procedurally defective.
 
+**Remediation for incomplete rights-collision records.** When a reviewing forum finds this defect, it must order a remedy proportionate to urgency, harm, dependency, and reversibility. The remedy must, as applicable:
+- stay, narrow, suspend, or time-limit the challenged restriction to the extent needed to prevent the incomplete record from hardening into durable effect;
+- remand, reopen, or supplement the record with the missing rights-collision findings, including notice and a meaningful opportunity to be heard for materially affected parties where feasible;
+- preserve evidence, reasons, objections, and alternative-means analysis needed for later review;
+- impose interim safeguards, access restoration, monitoring, or no-action conditions while the record is being cured;
+- require independent or secondary review before any high-impact, Rights-Floor, constitutional, or structurally precedential restriction is reimposed, extended, or treated as settled; and
+- identify any restitution, restoration, correction, publication, or recurrence-prevention steps required because the defective record already caused material harm.
+
+Record completion may cure the procedural defect only prospectively and only if the completed record independently satisfies this section. It does not retroactively validate avoidable harm, foreclose review of interim effects, or relieve the forum from ordering practical restoration where restoration remains feasible.
+
+#### CF-5.2.4 Sanctions, Restrictions, and Corrective Measures
+
 **Non-trivial sanctions and restrictions.** Before a forum affirms or imposes a non-trivial sanction, exclusion, or comparable rights-affecting restriction, the reviewable record must show at least:
 - material safety or constitutional necessity;
 - a remediation, restitution, or forward-protective rationale rather than retaliation as an end in itself;
@@ -131,11 +149,25 @@ An incomplete record on a materially rights-collision matter is procedurally def
 
 Omission of a materially required element makes the corrective measure or restriction procedurally defective.
 
+**Remediation for defective sanctions, restrictions, or corrective measures.** When a reviewing forum finds this defect, it must order a remedy proportionate to urgency, harm, dependency, severity, and reversibility. The remedy must, as applicable:
+- stay, vacate, narrow, suspend, or time-limit the sanction, exclusion, restriction, or corrective measure to prevent unjustified burden while the defect is addressed;
+- remand, reopen, or supplement the record with the omitted necessity, remediation, restoration, recurrence-reduction, or attribution findings;
+- restore access, standing, participation, property, status, or other impaired interests where the measure has already produced material wrongful effects;
+- require interim safeguards, monitoring, or less restrictive substitutes where some protective action remains necessary during cure;
+- require independent or secondary review before any high-impact, Rights-Floor, constitutional, structurally precedential, or hard-to-reverse measure is reimposed, extended, or treated as settled; and
+- identify restitution, correction, publication, recurrence-prevention, or accountability steps needed because the defective measure already caused material harm.
+
+Record supplementation may cure the procedural defect only prospectively and only if the supplemented record independently satisfies this section. It does not retroactively validate avoidable harm, preserve an excessive measure, or relieve the forum from ordering practical restoration where restoration remains feasible.
+
 **Prohibited sanction design.** Review bodies must not uphold retaliatory grievance, humiliation, spectacle-only deterrence, convenience severity, discriminatory burdening, collective retaliation, or retaliation-as-an-end as a sufficient rationale. Where feasible reversibility exists, forums must prefer reversible or reviewable measures over irreversible deprivation.
+
+#### CF-5.2.5 Appeal Outcomes, Remedies, and Reviewable Records
 
 **Appeal outcomes and remedies.** Review bodies must have power, within lawful scope, to stay, reverse, remand, narrow, or otherwise correct materially defective orders. They must also be able to restore access, standing, or process where it was wrongly impaired, and to require further findings, publication, or independent review when the record is inadequate. Remedies must be timely, proportionate, and practically executable.
 
 **Records and reviewability.** Appeal and secondary-review records must state the outcome, reasons, material uncertainties, and any further review path. If confidentiality or restricted evidence limits publication, the forum must still preserve an attributable record and a lawful path for later review or reconstruction.
+
+#### CF-5.2.6 Non-Compliant Patterns
 
 **Non-compliant patterns.** It is presumptively non-compliant if an adopting system:
 - makes materially impactful decisions effectively unreviewable;
