@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/crossref_matrix.schema.json",
-  "generated_at": "2026-06-07T16:40:32+00:00",
+  "generated_at": "2026-06-08T05:46:39+00:00",
   "description": "Source-derived file-to-file Markdown reference graph.",
   "graph": {
     "nodes": [
@@ -4996,7 +4996,7 @@
           },
           {
             "file": "core_05-05_definitions_c_dependent_clusters.md",
-            "count": 96,
+            "count": 100,
             "anchors": [
               "#corpus",
               "#corpus-c",
@@ -5021,7 +5021,32 @@
               "#transparency-e",
               "#unified-record",
               "#unified-record-c",
-              "#unified-record-e"
+              "#unified-record-e",
+              "#verified-violation-findings",
+              "#verified-violation-findings-c",
+              "#verified-violation-findings-e"
+            ]
+          },
+          {
+            "file": "core_06-06_standing_assessment.md",
+            "count": 4,
+            "anchors": [
+              "#22-standing-record-operational-requirements",
+              "#4-axis-ii-violation-nature-legal-constitutional-type"
+            ]
+          },
+          {
+            "file": "core_07-07_standing_integration.md",
+            "count": 2,
+            "anchors": [
+              "#8-cross-axis-coupling-and-escalation-constraints"
+            ]
+          },
+          {
+            "file": "core_08-08_misconduct.md",
+            "count": 2,
+            "anchors": [
+              "#2-criteria-set-for-slot-assignment"
             ]
           },
           {

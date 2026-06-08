@@ -29,7 +29,7 @@ Shared preamble contract: apply `corpus_joint_structure.md` **CJS-1.1** (*Shared
 
 - Upstream: [CJS-1.1](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-11-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.2](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-22-topic-router-stable-ids) topic router; [Chapter Nine](../core_09-09_forum.md#chapter-nine-forums-and-jurisdiction) forum-family routing; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
 - Downstream: this section's local operational requirements for **FORUMS REGISTRY (stable section families)**.
-- Read with: **CF-1**; **CF-2**; **CF-3**; **CF-4**; **CF-5**; **CF-5.1**; **CF-5.1.101**.
+- Read with: **CF-1**; **CF-2**; **CF-3**; **CF-4**; **CF-5**; **CF-5.1**; **CF-5.1.1**.
 
 </details>
 
@@ -53,7 +53,7 @@ Shared preamble contract: apply `corpus_joint_structure.md` **CJS-1.1** (*Shared
 - **CF-2** — Forum formation, forum-structure mapping, chambers, and minimum bench availability
 - **CF-3** — Panel formation, disclosure, recusal, and lawful bench constitution
 - **CF-4** — Routing operations, intake, transfer, certification, and representative treatment
-- **CF-5** — Appeal, secondary review, and exhaustion pathways (**CF-5.1** (*Disposition effect classification (numeric codes)*) disposition effect **codes 101-104**)
+- **CF-5** — Appeal, secondary review, and exhaustion pathways (**CF-5.1** (*Disposition reach and effect classes*) disposition effect classes)
 - **CF-6** — Integrity safeguards, anti-capture operations, alignment recognition and review, and anti-self-judging support
 - **CF-7** — Forum forensic and analytical support
 - **CF-8** — Independent investigative service and prosecution interface

@@ -67,7 +67,7 @@ Each adopting entity must maintain standard templates or equivalent structured r
 - transfer or certification order;
 - interim-relief order;
 - rights-collision record under **CF-5** (*Appeal, secondary review, and exhaustion pathways*);
-- disposition-effect classification record under **CF-5.1** (*Disposition effect classification (numeric codes)*);
+- disposition-effect class record under **CF-5.1** (*Disposition reach and effect classes*);
 - forensic or analytical support scope order under **CF-7** (*Forum forensic and analytical support*);
 - restricted-evidence review order;
 - investigative scope, referral, or closure record under **CF-8** (*Independent investigative service and prosecution interface*) where the forum interface is used;

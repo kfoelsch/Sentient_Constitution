@@ -4,7 +4,7 @@
 
 - Upstream: [CJS-1.1](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-11-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.2](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-22-topic-router-stable-ids) topic router; [Chapter Nine](../core_09-09_forum.md#chapter-nine-forums-and-jurisdiction) forum-family routing; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
 - Downstream: [CF-6.1 Alignment rulings, component referral, and supervisory coordination](#cf-61-alignment-rulings-component-referral-and-supervisory-coordination); [CF-6.1A Constitutional alignment recognition and review](#cf-61a-constitutional-alignment-recognition-and-review).
-- Read with: **CF-6**; **CF-6.1**; **CF-7**; **CF-8**; **CF-4**; **CF-5.1**; **CF-5.1.102**.
+- Read with: **CF-6**; **CF-6.1**; **CF-7**; **CF-8**; **CF-4**; **CF-5.1**; **CF-5.1.2**.
 
 </details>
 
@@ -36,7 +36,7 @@
 
 - Upstream: [CJS-1.1](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-11-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.2](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-22-topic-router-stable-ids) topic router; [Chapter Nine](../core_09-09_forum.md#chapter-nine-forums-and-jurisdiction) forum-family routing; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
 - Downstream: this section's local operational requirements for **CF-6.1 Alignment rulings, component referral, and supervisory coordination**.
-- Read with: **CF-6.1**; **CF-7**; **CF-8**; **CF-4**; **CF-5.1**; **CF-5.1.102**; **CF-5.1.103**.
+- Read with: **CF-6.1**; **CF-7**; **CF-8**; **CF-4**; **CF-5.1**; **CF-5.1.2**; **CF-5.1.3**.
 
 </details>
 
@@ -71,7 +71,7 @@
 
 **Merits boundaries.** **Integrity** forums **must** **not** issue **final** **merits** determinations **reserved** to **another** family's **primary** question — including **constitutional** validity and **class-wide** **structural** remedy — except where **Chapter Nine** assigns that **primary** stake to **Integrity** forums. Forums receiving **referrals** exercise **their** **lawful** **merits** authority and **must** treat **binding** **integrity** findings and **coordination** orders on the **lead** **Integrity** record as **lawful** **inputs** under **certification**, **issue** **preclusion**, **stay**, and **sequencing** rules — **without** **collateral** **re-litigation** of those findings **outside** **published** review paths.
 
-**Disposition effect labeling.** Where an **alignment** ruling materially stabilizes outcomes beyond the named parties, adopting instruments should identify the applicable **CF-5.1** (*Disposition effect classification (numeric codes)*) effect code(s) — ordinarily at least **code 102** when **pattern** or **shared-practice** stakes are material — and must **not** silently treat **alignment** rulings as **code 103** **general** panel-rule doctrine when **constitutional** **certification** under `core_09-09_forum.md` **Chapter Nine**, **section** **7** is **required**.
+**Disposition effect labeling.** Where an **alignment** ruling materially stabilizes outcomes beyond the named parties, adopting instruments should identify the applicable **CF-5.1** (*Disposition reach and effect classes*) class or classes — ordinarily at least **CF-5.1.2** when **pattern** or **shared-practice** stakes are material — and must **not** silently treat **alignment** rulings as **CF-5.1.3** **general** panel-rule doctrine when **constitutional** **certification** under `core_09-09_forum.md` **Chapter Nine**, **section** **7** is **required**.
 
 ### CF-6.1A Constitutional alignment recognition and review
 <details>

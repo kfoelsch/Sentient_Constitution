@@ -3,8 +3,8 @@
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [CJS-1.1](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-11-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.2](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-22-topic-router-stable-ids) topic router; [Chapter Nine](../core_09-09_forum.md#chapter-nine-forums-and-jurisdiction) forum-family routing; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
-- Downstream: [CF-5.1 Disposition effect classification (numeric codes)](#cf-51-disposition-effect-classification-numeric-codes).
-- Read with: **CF-5**; **CF-5.1**; **CF-5.1.101**; **CF-5.1.102**; **CF-5.1.103**; **CF-3**; **CF-5.1.104**.
+- Downstream: [CF-5.1 Disposition reach and effect classes](#cf-51-disposition-reach-and-effect-classes).
+- Read with: **CF-5**; **CF-5.1**; **CF-5.1.1**; **CF-5.1.2**; **CF-5.1.3**; **CF-3**; **CF-5.1.4**.
 
 </details>
 
@@ -24,21 +24,21 @@
 <br>
 
 
-This section governs:
-- minimum appellate or secondary-review lane structure;
-- when internal review is sufficient and when independent review is mandatory;
-- emergency review lanes;
-- exhaustion vs direct-access rules where adopting law uses both; and
-- review windows proportionate to urgency and impact;
-- disposition-effect coding for merits outcomes that may bind later panels or populations (**CF-5.1** (*Disposition effect classification (numeric codes)*)).
+This section sets the minimum review paths every forum family must preserve. It covers:
+- ordinary appeal or secondary-review lanes;
+- when internal review is enough, and when a separate independent reviewer is required;
+- emergency review;
+- how exhaustion rules interact with direct-access routes;
+- review windows scaled to urgency and impact; and
+- disposition-effect classes for merits outcomes that may affect later panels or wider populations (**CF-5.1** (*Disposition reach and effect classes*)).
 
-### CF-5.1 Disposition effect classification (numeric codes)
+### CF-5.1 Disposition reach and effect classes
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [CJS-1.1](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-11-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.2](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-22-topic-router-stable-ids) topic router; [Chapter Nine](../core_09-09_forum.md#chapter-nine-forums-and-jurisdiction) forum-family routing; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
-- Downstream: this section's local operational requirements for **CF-5.1 Disposition effect classification (numeric codes)**.
-- Read with: **CF-5.1**; **CF-5.1.101**; **CF-5.1.102**; **CF-5.1.103**; **CF-5**; **CF-3**; **CF-5.1.104**.
+- Downstream: this section's local operational requirements for **CF-5.1 Disposition reach and effect classes**.
+- Read with: **CF-5.1**; **CF-5.1.1**; **CF-5.1.2**; **CF-5.1.3**; **CF-5**; **CF-3**; **CF-5.1.4**.
 
 </details>
 
@@ -58,40 +58,50 @@ This section governs:
 <br>
 
 
-**Usage.** Adopting instruments should classify dispositions that materially affect later panels, institutions, or multi-party systems using the **corpus-local numeric codes** in this subsection. Each code states **how far a disposition travels** as a horizontal or vertical stabilizer. These labels are **not** CJS-5 (*Implementation and cross-implementation operational cluster library*) operational cluster labels, **not** data-type or system-class labels from `corpus_systems.md` (**Chapter S1–S3** or successor numbering), and **not** institutional **CI-** anchors from `corpus_institutions.md`; they apply only to **forum disposition effect** documentation and review routing.
+**Usage.** Adopting instruments should use the classes in this subsection when a disposition may matter beyond the immediate case. The classes say how far the ruling travels: only to the parties, to a class or shared practice, to later panels, or through a technical standard. They are local **forum disposition-effect** labels. They are not CJS-5 (*Implementation and cross-implementation operational cluster library*) operational cluster labels, not `corpus_systems.md` system-class labels, and not institutional **CI-** anchors.
 
-**CF-5.1** (*Disposition effect classification (numeric codes)*) **code 101 — Party-bound effect.** The determination binds the parties before the forum on the issues decided, including ordinary **issue preclusion** effects adopting law assigns, but does **not** by itself establish a published rule for unrelated matters. This is the default classification for routine inter-partes outcomes unless the record states another **CF-5.1** (*Disposition effect classification (numeric codes)*) code with broader reach.
+#### CF-5.1.1 Party-Bound Disposition Effect
 
-**CF-5.1** (*Disposition effect classification (numeric codes)*) **code 102 — Scope-anchored effect.** The determination binds or governs a **class**, **subclass**, **common practice**, **common decision rule**, or comparable **shared** stake, including representative proceedings authorized under `core_09-09_forum.md` **Chapter Nine**, **section 6** (*Scope expansion and representative treatment*). **High-impact, Rights-Floor, constitutional, or structurally precedential** determinations referenced in the **Minimum lane structure** rule in this section ordinarily carry at least **CF-5.1** (*Disposition effect classification (numeric codes)*) **code 102** when they materially extend beyond the named parties in the caption.
+The determination binds the parties before the forum on the issues decided, including ordinary **issue preclusion** effects adopting law gives it. It does not, by itself, create a published rule for unrelated matters. This is the default for routine party-to-party outcomes unless the record assigns a broader **CF-5.1** class.
 
-**CF-5.1** (*Disposition effect classification (numeric codes)*) **code 103 — Published panel-rule effect.** The determination publishes an **intra-family** (or expressly stated **cross-family**) rule, threshold placement, or disposition pattern that other **lawful merits panels** in the same adopting system must treat as **presumptive** until **reasoned departure** on a reviewable record, consistent with **meaningfully independent** review where **CF-5** (*Appeal, secondary review, and exhaustion pathways*) requires it and with panel-formation discipline in **CF-3** (*Panel formation, disclosure, recusal, and lawful bench constitution*). Departure mechanics must be **published**; unexplained inconsistency across panels in the same class of dispute is presumptively non-compliant unless a **published coordination rule** explains the divergence.
+#### CF-5.1.2 Scope-Anchored Disposition Effect
 
-**CF-5.1** (*Disposition effect classification (numeric codes)*) **code 104 — Technical shared-standard effect.** The operative stabilizer is a **shared technical or expert-evidence standard** maintained or recognized under **CF-9** (*Technical specialist forums and specialist chambers*), including the **Departure and variance rule** and **Cross-jurisdiction recognition presumption** in that section. Use **CF-5.1** (*Disposition effect classification (numeric codes)*) **code 104** when the binding or presumptive force runs through technical standard architecture rather than through a general **CF-5.1** (*Disposition effect classification (numeric codes)*) **code 103** panel rule alone. Lead forums may still state **CF-5.1** (*Disposition effect classification (numeric codes)*) **code 103** concurrently when they publish a non-technical disposition pattern that depends on a **CF-9** (*Technical specialist forums and specialist chambers*) standard.
+The determination binds or governs a **class**, **subclass**, **common practice**, **common decision rule**, or similar shared stake. This includes representative proceedings authorized under `core_09-09_forum.md` **Chapter Nine**, **section 6** (*Scope expansion and representative treatment*). A **high-impact, Rights-Floor, constitutional, or structurally precedential** determination usually carries at least **CF-5.1.2** when it materially reaches beyond the named parties.
 
-**Recordkeeping.** Where a disposition carries **CF-5.1** (*Disposition effect classification (numeric codes)*) **code 102**, **code 103**, or **code 104**, the attributable record must identify the code(s), the **population or panel scope** covered, any **sunset or review cadence**, and the **published path** for challenge, certification, appeal, or standards reconsideration, consistent with **Rights-collision records** elsewhere in this section where applicable.
+#### CF-5.1.3 Published Panel-Rule Disposition Effect
 
-**Core rule.** Every forum family must preserve a practical path to review materially impactful determinations. Review design must be intelligible to affected parties, usable without unreasonable procedural barriers, and strong enough to correct material error before remedy becomes meaningless.
+The determination publishes an **intra-family** rule, or an expressly stated **cross-family** rule, threshold, or disposition pattern. Other lawful merits panels in the same adopting system must treat it as presumptive unless they give a reasoned departure on a reviewable record. That rule remains subject to independent review where **CF-5** requires it and to panel-formation discipline under **CF-3** (*Panel formation, disclosure, recusal, and lawful bench constitution*). The system must publish how departures work. Unexplained inconsistency across panels in the same class of dispute is presumptively non-compliant unless a published coordination rule explains the difference.
+
+#### CF-5.1.4 Technical Shared-Standard Disposition Effect
+
+The ruling's force runs through a **shared technical or expert-evidence standard** maintained or recognized under **CF-9** (*Technical specialist forums and specialist chambers*), including that section's departure, variance, and cross-jurisdiction recognition rules. Use **CF-5.1.4** when the binding or presumptive effect comes mainly from the technical-standard architecture rather than from a general **CF-5.1.3** panel rule. A lead forum may also state **CF-5.1.3** when it publishes a non-technical disposition pattern that depends on a **CF-9** standard.
+
+**Legacy mapping.** Where an existing form, archive, or adopting instrument still uses the former local numeric codes, **code 101** maps to **CF-5.1.1**, **code 102** maps to **CF-5.1.2**, **code 103** maps to **CF-5.1.3**, and **code 104** maps to **CF-5.1.4**.
+
+**Recordkeeping.** When a disposition carries **CF-5.1.2**, **CF-5.1.3**, or **CF-5.1.4**, the attributable record must identify the applicable class or classes, the covered population or panel scope, any sunset or review cadence, and the published path for challenge, certification, appeal, or standards reconsideration. Rights-collision records elsewhere in this section still apply where relevant.
+
+**Core rule.** Every forum family must keep a practical way to review materially impactful decisions. The path must be understandable, usable without unreasonable procedural barriers, and strong enough to correct material error before the remedy stops mattering.
 
 **Minimum lane structure.**
 - Ordinary merits determinations must have a published review path.
-- High-impact, Rights-Floor, constitutional, or structurally precedential determinations must have access to a review body that is meaningfully independent of the original decision-maker. The attributable record must state the applicable **CF-5.1** (*Disposition effect classification (numeric codes)*) **codes 101-104**; the default expectation for this bullet is at least **code 102** unless adopting law expressly treats the outcome as party-bound only.
+- High-impact, Rights-Floor, constitutional, or structurally precedential determinations must have access to a review body that is meaningfully independent of the original decision-maker. The attributable record must state the applicable **CF-5.1** class. The ordinary expectation is at least **CF-5.1.2** unless adopting law expressly treats the outcome as party-bound only.
 - Emergency or imminent-harm matters must have an expedited interim-review lane.
-- Restricted-evidence matters must preserve a lawful route for scope, secrecy, access, and later merits review without turning secrecy alone into practical unreviewability.
+- Restricted-evidence matters must preserve a lawful route to review scope, secrecy, access, and later merits. Secrecy alone must not make the decision practically unreviewable.
 
-**Internal review vs independent review.** Internal or same-family review may be sufficient for low-impact, highly reversible, or tightly bounded procedural matters where the review body is still conflict-screened and authorized to correct error. Independent secondary review is mandatory where one or more of the following materially apply:
+**Internal review vs independent review.** Internal or same-family review may be enough for low-impact, highly reversible, or tightly bounded procedural matters, if the reviewer is conflict-screened and has authority to correct error. Independent secondary review is required when any of the following materially apply:
 - irreversible or hard-to-reverse harm risk;
 - deprivation of Foundational Rights or survival-relevant access;
 - constitutional-meaning disputes;
 - structural conflict, capture, or recusal concerns;
 - sanctions or exclusions whose practical effect extends beyond a minor and rapidly reversible interval.
 
-**Emergency review lanes.** Forums must maintain a route for interim review on a time scale proportionate to imminent harm. Temporary orders entered before full review must remain contestable, time-limited, and followed by fuller lawful review as soon as feasible.
+**Emergency review lanes.** Forums must maintain a route for interim review on a time scale that matches the threatened harm. Temporary orders entered before full review must remain contestable, time-limited, and followed by fuller lawful review as soon as feasible.
 
-**Exhaustion and direct access.** Where adopting law uses both exhaustion and direct-access routes, exhaustion rules must not be used to defeat timely remedy, to shield structural or constitutional error from review, or to trap parties in a forum that lacks lawful authority to give the needed relief. Direct access must remain available where delay would materially jeopardize rights, evidence, independence, or practical restoration.
+**Exhaustion and direct access.** Where adopting law uses both exhaustion and direct-access routes, exhaustion rules must not be used to defeat timely remedy, shield structural or constitutional error, or trap parties in a forum that cannot lawfully give the needed relief. Direct access must remain available when delay would materially endanger rights, evidence, independence, or practical restoration.
 
 **Review windows.** Published filing and resolution windows must scale with urgency, impact, dependency, and reversibility. Emergency matters should be measured in hours or a small number of days, not weeks. Ordinary matters may use longer windows, but not so long that review predictably loses practical value.
 
-**Rights-collision records.** Where a forum sustains, imposes, or reviews a material restriction because constitutional rights, protections, or structural duties are in tension, the record must identify:
+**Rights-collision records.** When a forum sustains, imposes, or reviews a material restriction because constitutional rights, protections, or structural duties are in tension, the record must identify:
 - the rights, constraints, or protections in tension;
 - affected parties or populations and the relevant dependency or impact paths;
 - materially feasible alternatives, including no-action where relevant;
@@ -109,11 +119,11 @@ An incomplete record on a materially rights-collision matter is procedurally def
 
 Omission of a materially required element makes the corrective measure or restriction procedurally defective.
 
-**Prohibited sanction design.** Review bodies must not uphold retaliatory grievance, humiliation, spectacle-only deterrence, convenience severity, discriminatory burdening, collective retaliation, or retaliation-as-an-end as sufficient rationale. Where feasible reversibility exists, forums must prefer reversible or reviewable measures over irreversible deprivation.
+**Prohibited sanction design.** Review bodies must not uphold retaliatory grievance, humiliation, spectacle-only deterrence, convenience severity, discriminatory burdening, collective retaliation, or retaliation-as-an-end as a sufficient rationale. Where feasible reversibility exists, forums must prefer reversible or reviewable measures over irreversible deprivation.
 
-**Appeal outcomes and remedies.** Review bodies must have power, within lawful scope, to stay, reverse, remand, narrow, or otherwise correct materially defective orders; restore access, standing, or process where wrongly impaired; and require further findings, publication, or independent review where the record is inadequate. Remedy design must remain timely, proportionate, and practically executable.
+**Appeal outcomes and remedies.** Review bodies must have power, within lawful scope, to stay, reverse, remand, narrow, or otherwise correct materially defective orders. They must also be able to restore access, standing, or process where it was wrongly impaired, and to require further findings, publication, or independent review when the record is inadequate. Remedies must be timely, proportionate, and practically executable.
 
-**Records and reviewability.** Appeal and secondary-review records must state outcome, reasons, material uncertainties, and any further review path. If confidentiality or restricted evidence limits publication, the forum must still preserve an attributable record and a lawful later-review or reconstruction path.
+**Records and reviewability.** Appeal and secondary-review records must state the outcome, reasons, material uncertainties, and any further review path. If confidentiality or restricted evidence limits publication, the forum must still preserve an attributable record and a lawful path for later review or reconstruction.
 
 **Non-compliant patterns.** It is presumptively non-compliant if an adopting system:
 - makes materially impactful decisions effectively unreviewable;
