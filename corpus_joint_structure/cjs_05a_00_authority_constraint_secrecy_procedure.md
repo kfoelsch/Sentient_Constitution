@@ -463,6 +463,8 @@ Read it with:
 - **CJS-5A.6 — Procedural Integrity and Adjudication**
 - **CJS-5A.4 — Burden of Justification and Constraint**
 - **CJS-5A.3** (*Implementation and cross-implementation reflexive transparency and accountability terms*) and **CJS-5B.1** (*Implementation and cross-implementation integrity assurance and resilience operations*) — Reflexive Transparency and Accountability
+- **CJS-5B.2 — Auditability**
+- **CJS-5B.3 — Tiered Transparency and Audit Access**
 - **CJS-5A.2 — Intervention governance and override authorization**
 - `corpus_systems.md` **Chapter S1** and **Chapter S2**
 - `corpus_institutions.md`
@@ -492,6 +494,11 @@ Representative treatment
 - OP-O: Common-question procedure may resolve issues for a broader affected group only when commonality, notice, adequate representation, and contestability are preserved.
 - OP-E: Evaluation must verify the common question, affected-group scope, notice sufficiency, representation adequacy, opt-out or separate-process rules where applicable, sentient-specific exceptions, and challenge paths.
 - OP-C: Representative treatment is non-compliant when it suppresses material individualized claims, hides affected parties, weakens adequate representation, or makes contest practically unavailable.
+
+Deposition or preserved-testimony session
+- OP-O: A deposition or preserved-testimony session is a structured record of witness, participant, expert, steward, or affected-party testimony taken outside the merits hearing under an oath, affirmation, truth-duty, governance-duty, or clearly stated voluntary attestation. It may be forum-authorized, party-noticed, community-governance initiated, mutually agreed, or voluntarily offered, and it may be conducted by a competent external record-preserving role when that role has no merits, sanction, or compulsion authority unless separately authorized. It preserves evidence, tests material facts, supports later review, or records community-governance knowledge; it is not itself a merits decision, sanction, hearing, mediation, informal interview, unilateral statement, investigative interrogation, or unrestricted discovery license.
+- OP-E: Evaluation must verify authorization or voluntary consent, notice to affected parties where material, scope of questioning, accessibility and interpretation support, protective conditions, conflict or sponsorship disclosures, objection logging, recording or transcript integrity, exhibit handling, correction rights, retention, access class, and the later use permitted for the record. If a deposition is used in a forum, emergency review, sanction, governance decision, or cross-implementation audit, reviewers must verify whether the opposing or affected side had a fair chance to test material testimony or whether any limit on testing was justified and reviewable.
+- OP-C: A deposition record is non-compliant when it is used to evade hearing rights, manufacture untested evidence, coerce a witness, hide restrictions or sponsorship, bypass restricted-evidence safeguards, launder an investigative interview into adjudicative evidence, or convert voluntary community testimony into binding proof without the notice, testing, record, and review protections required by its later use.
 
 Due-process requirements
 - OP-O: Material actions must provide clear notice, understandable explanation, practical chance to contest, and timing proportional to severity, reversibility, class, dependency, and claimant scale.

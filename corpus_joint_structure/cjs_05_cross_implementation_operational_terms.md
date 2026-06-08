@@ -91,6 +91,11 @@ Oversight or support role
 - OP-E: Reviewers must verify independence, reporting line, information access, exclusions from merits authority, escalation route, and protected challenge path.
 - OP-C: Support or oversight is non-compliant when it becomes merits decision-making without separate authority, lacks the independence needed for the task, or cannot escalate material findings.
 
+Deposition facilitator or record-preserving testimony role
+- OP-O: A deposition facilitator, recorder, notary-equivalent, interpreter, community record steward, or similar testimony-support role may preserve testimony without holding merits, sanction, compulsion, or forum-decision authority unless separately authorized. The competency bar may be lower than for a forum member when the role is limited to notice, neutral session administration, identity and consent checks, recording integrity, accessibility support, objection logging, exhibit handling, and preservation of the record.
+- OP-E: Reviewers must verify the role's actual authority, neutrality or disclosed alignment, competence for recording and accessibility duties, consent or compulsion basis, limits on legal or merits advice, chain of custody, correction process, and escalation path to a lawful forum or accountable governance role when the record will be used for material decisions.
+- OP-C: A testimony-support role is non-compliant if it is used to disguise adjudicative authority, coerce participation, hide sponsorship or conflicts, exclude required participants, alter testimony, suppress objections, or present voluntary community testimony as compelled or forum-tested evidence.
+
 Constitutional lane
 - OP-O: A constitutional lane is a functional separation with constitutionally binding duties, such as direction and policy, execution, challenge and review, assurance and audit, publication and evidence work, or forum-adjacent support.
 - OP-E: Reviewers must verify the lane's host institution or forum relationship, accountable roles, independence safeguards, competency redundancy, succession coverage, and relationship to system class or stewardship burden.

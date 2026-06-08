@@ -53,7 +53,7 @@ Shared preamble contract: apply `corpus_joint_structure.md` **CJS-1.1** (*Shared
 - **CF-2** — Forum formation, forum-structure mapping, chambers, and minimum bench availability
 - **CF-3** — Panel formation, disclosure, recusal, and lawful bench constitution
 - **CF-4** — Routing operations, intake, transfer, certification, and representative treatment
-- **CF-5** — Appeal, secondary review, and exhaustion pathways (**CF-5.1** (*Disposition reach and effect classes*) disposition effect classes)
+- **CF-5** — Appeal, secondary review, and exhaustion pathways (**CF-5.1** (*Disposition-effect categories and record labels*) disposition-effect categories)
 - **CF-6** — Integrity safeguards, anti-capture operations, alignment recognition and review, and anti-self-judging support
 - **CF-7** — Forum forensic and analytical support
 - **CF-8** — Independent investigative service and prosecution interface
