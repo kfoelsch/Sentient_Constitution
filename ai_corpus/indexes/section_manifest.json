@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-06-08T13:37:25+00:00",
+  "generated_at": "2026-06-08T21:16:46+00:00",
   "files": {
     "core_00-01_principles.md": {
       "total_lines": 1506,
@@ -3408,20 +3408,20 @@
       ]
     },
     "core_09-09_forum.md": {
-      "total_lines": 427,
+      "total_lines": 429,
       "sections": [
         {
           "header": "Sentient Constitution — Forums and jurisdiction",
           "level": 1,
           "line_start": 1,
-          "line_end": 427,
+          "line_end": 429,
           "anchor": null
         },
         {
           "header": "CHAPTER NINE: FORUMS AND JURISDICTION",
           "level": 2,
           "line_start": 8,
-          "line_end": 427,
+          "line_end": 429,
           "anchor": null
         },
         {
@@ -3540,91 +3540,91 @@
           "header": "6. Transfer, consolidation, and coordination",
           "level": 3,
           "line_start": 270,
-          "line_end": 306,
+          "line_end": 307,
           "anchor": null
         },
         {
           "header": "7. Escalation and certification",
           "level": 3,
-          "line_start": 307,
-          "line_end": 388,
+          "line_start": 308,
+          "line_end": 390,
           "anchor": null
         },
         {
           "header": "Family-to-family escalation",
           "level": 4,
-          "line_start": 321,
-          "line_end": 344,
+          "line_start": 322,
+          "line_end": 345,
           "anchor": null
         },
         {
           "header": "Existential risk and uncertainty on the record",
           "level": 4,
-          "line_start": 345,
-          "line_end": 349,
+          "line_start": 346,
+          "line_end": 350,
           "anchor": null
         },
         {
           "header": "Certification to **Constitutional** forums",
           "level": 4,
-          "line_start": 350,
-          "line_end": 355,
+          "line_start": 351,
+          "line_end": 356,
           "anchor": null
         },
         {
           "header": "Technical support and preserved **Integrity** escalation",
           "level": 4,
-          "line_start": 356,
-          "line_end": 360,
+          "line_start": 357,
+          "line_end": 361,
           "anchor": null
         },
         {
           "header": "Interim protection",
           "level": 4,
-          "line_start": 361,
-          "line_end": 364,
+          "line_start": 362,
+          "line_end": 365,
           "anchor": null
         },
         {
           "header": "Backup routing under the anti-self-judging rule",
           "level": 4,
-          "line_start": 365,
-          "line_end": 368,
+          "line_start": 366,
+          "line_end": 370,
           "anchor": null
         },
         {
           "header": "Sentience-status adjudication (Article V-E implementation hook)",
           "level": 4,
-          "line_start": 369,
-          "line_end": 377,
+          "line_start": 371,
+          "line_end": 379,
           "anchor": null
         },
         {
           "header": "Referral distinguished from expansion",
           "level": 4,
-          "line_start": 378,
-          "line_end": 383,
+          "line_start": 380,
+          "line_end": 385,
           "anchor": null
         },
         {
           "header": "Chapter Eight slot assignment and independent review",
           "level": 4,
-          "line_start": 384,
-          "line_end": 388,
+          "line_start": 386,
+          "line_end": 390,
           "anchor": null
         },
         {
           "header": "8. Anti-gaming and interim relief",
           "level": 3,
-          "line_start": 389,
-          "line_end": 408,
+          "line_start": 391,
+          "line_end": 410,
           "anchor": null
         },
         {
           "header": "9. Relation to implementation files",
           "level": 3,
-          "line_start": 409,
-          "line_end": 427,
+          "line_start": 411,
+          "line_end": 429,
           "anchor": null
         }
       ]
@@ -5894,7 +5894,7 @@
       ]
     },
     "corpus_joint_structure/cjs_05_cross_implementation_operational_terms.md": {
-      "total_lines": 147,
+      "total_lines": 162,
       "sections": [
         {
           "header": "CJS-5: Implementation and cross-implementation operational cluster library",
@@ -5907,14 +5907,14 @@
           "header": "CJS-5.0 Role-definition preface and standing competency gate interface",
           "level": 2,
           "line_start": 27,
-          "line_end": 110,
+          "line_end": 125,
           "anchor": null
         },
         {
           "header": "CJS-5.1 Cluster family index",
           "level": 2,
-          "line_start": 111,
-          "line_end": 147,
+          "line_start": 126,
+          "line_end": 162,
           "anchor": null
         }
       ]
@@ -6362,13 +6362,13 @@
       ]
     },
     "corpus_forum/cf_05_appeal_secondary_review_exhaustion_pathways.md": {
-      "total_lines": 161,
+      "total_lines": 181,
       "sections": [
         {
           "header": "CF-5: Appeal, secondary review, and exhaustion pathways",
           "level": 2,
           "line_start": 1,
-          "line_end": 161,
+          "line_end": 181,
           "anchor": null
         },
         {
@@ -6410,7 +6410,7 @@
           "header": "CF-5.2 Core rules",
           "level": 3,
           "line_start": 93,
-          "line_end": 161,
+          "line_end": 181,
           "anchor": null
         },
         {
@@ -6431,40 +6431,40 @@
           "header": "CF-5.2.3 Rights-Collision Records",
           "level": 4,
           "line_start": 120,
-          "line_end": 131,
+          "line_end": 141,
           "anchor": null
         },
         {
           "header": "CF-5.2.4 Sanctions, Restrictions, and Corrective Measures",
           "level": 4,
-          "line_start": 132,
-          "line_end": 143,
+          "line_start": 142,
+          "line_end": 163,
           "anchor": null
         },
         {
           "header": "CF-5.2.5 Appeal Outcomes, Remedies, and Reviewable Records",
           "level": 4,
-          "line_start": 144,
-          "line_end": 149,
+          "line_start": 164,
+          "line_end": 169,
           "anchor": null
         },
         {
           "header": "CF-5.2.6 Non-Compliant Patterns",
           "level": 4,
-          "line_start": 150,
-          "line_end": 161,
+          "line_start": 170,
+          "line_end": 181,
           "anchor": null
         }
       ]
     },
     "corpus_forum/cf_06_integrity_safeguards_anti_capture_anti_self_judging.md": {
-      "total_lines": 212,
+      "total_lines": 293,
       "sections": [
         {
           "header": "CF-6: Integrity safeguards, anti-capture operations, and anti-self-judging support",
           "level": 2,
           "line_start": 1,
-          "line_end": 212,
+          "line_end": 293,
           "anchor": null
         },
         {
@@ -6566,34 +6566,188 @@
           "anchor": null
         },
         {
-          "header": "CF-6.3 Anti-self-judging activation, capture-sensitive routing, and contest-integrity interfaces",
+          "header": "CF-6.3 Anti-self-judging activation, capture-sensitive routing, contest-integrity interfaces, and family-level capture",
           "level": 3,
           "line_start": 170,
-          "line_end": 212,
+          "line_end": 293,
+          "anchor": null
+        },
+        {
+          "header": "CF-6.3.1 Activation Threshold",
+          "level": 4,
+          "line_start": 198,
+          "line_end": 208,
+          "anchor": null
+        },
+        {
+          "header": "CF-6.3.2 Anti-Self-Judging Activation Record",
+          "level": 4,
+          "line_start": 209,
+          "line_end": 220,
+          "anchor": null
+        },
+        {
+          "header": "CF-6.3.3 Backup Family Map and Limits",
+          "level": 4,
+          "line_start": 221,
+          "line_end": 230,
+          "anchor": null
+        },
+        {
+          "header": "CF-6.3.4 Capture-Sensitive System-Alignment Review",
+          "level": 4,
+          "line_start": 231,
+          "line_end": 240,
+          "anchor": null
+        },
+        {
+          "header": "CF-6.3.5 Internal Integrity Process and Forum Access",
+          "level": 4,
+          "line_start": 241,
+          "line_end": 251,
+          "anchor": null
+        },
+        {
+          "header": "CF-6.3.6 Contest-Integrity Interface",
+          "level": 4,
+          "line_start": 252,
+          "line_end": 257,
+          "anchor": null
+        },
+        {
+          "header": "CF-6.3.7 Recusal-Abuse and Routing-Abuse Detection",
+          "level": 4,
+          "line_start": 258,
+          "line_end": 268,
+          "anchor": null
+        },
+        {
+          "header": "CF-6.3.8 Family-Level Capture Activation",
+          "level": 4,
+          "line_start": 269,
+          "line_end": 293,
           "anchor": null
         }
       ]
     },
     "corpus_forum/cf_07_forum_forensic_analytical_support.md": {
-      "total_lines": 50,
+      "total_lines": 93,
       "sections": [
         {
           "header": "CF-7: Forum forensic and analytical support",
           "level": 2,
           "line_start": 1,
-          "line_end": 50,
+          "line_end": 93,
+          "anchor": null
+        },
+        {
+          "header": "CF-7.1 When forensic or analytical support is required",
+          "level": 3,
+          "line_start": 32,
+          "line_end": 42,
+          "anchor": null
+        },
+        {
+          "header": "CF-7.2 What support personnel may do",
+          "level": 3,
+          "line_start": 43,
+          "line_end": 55,
+          "anchor": null
+        },
+        {
+          "header": "CF-7.3 Independence, conflicts, and challenges",
+          "level": 3,
+          "line_start": 56,
+          "line_end": 67,
+          "anchor": null
+        },
+        {
+          "header": "CF-7.4 Evidence custody and method records",
+          "level": 3,
+          "line_start": 68,
+          "line_end": 78,
+          "anchor": null
+        },
+        {
+          "header": "CF-7.5 Reports, explanations, and emergency preservation",
+          "level": 3,
+          "line_start": 79,
+          "line_end": 84,
+          "anchor": null
+        },
+        {
+          "header": "CF-7.6 Boundary with contest-integrity monitoring",
+          "level": 3,
+          "line_start": 85,
+          "line_end": 93,
           "anchor": null
         }
       ]
     },
     "corpus_forum/cf_08_independent_investigative_service_prosecution_interface.md": {
-      "total_lines": 61,
+      "total_lines": 110,
       "sections": [
         {
           "header": "CF-8: Independent investigative service and prosecution interface",
           "level": 2,
           "line_start": 1,
-          "line_end": 61,
+          "line_end": 110,
+          "anchor": null
+        },
+        {
+          "header": "CF-8.1 Basic rule",
+          "level": 3,
+          "line_start": 27,
+          "line_end": 32,
+          "anchor": null
+        },
+        {
+          "header": "CF-8.2 Why independence matters",
+          "level": 3,
+          "line_start": 33,
+          "line_end": 38,
+          "anchor": null
+        },
+        {
+          "header": "CF-8.3 Where the investigative service belongs",
+          "level": 3,
+          "line_start": 39,
+          "line_end": 48,
+          "anchor": null
+        },
+        {
+          "header": "CF-8.4 What investigators may do",
+          "level": 3,
+          "line_start": 49,
+          "line_end": 66,
+          "anchor": null
+        },
+        {
+          "header": "CF-8.5 Required separations",
+          "level": 3,
+          "line_start": 67,
+          "line_end": 78,
+          "anchor": null
+        },
+        {
+          "header": "CF-8.6 No self-investigation",
+          "level": 3,
+          "line_start": 79,
+          "line_end": 84,
+          "anchor": null
+        },
+        {
+          "header": "CF-8.7 Rights, secrecy, and protected activity",
+          "level": 3,
+          "line_start": 85,
+          "line_end": 96,
+          "anchor": null
+        },
+        {
+          "header": "CF-8.8 Records, referrals, and backup routes",
+          "level": 3,
+          "line_start": 97,
+          "line_end": 110,
           "anchor": null
         }
       ]
@@ -6735,13 +6889,13 @@
       ]
     },
     "corpus_forum/cf_11_continuity_fallback_emergency_adjudication.md": {
-      "total_lines": 589,
+      "total_lines": 607,
       "sections": [
         {
           "header": "CF-11: Forum continuity, fallback operation, and emergency adjudication",
           "level": 2,
           "line_start": 1,
-          "line_end": 589,
+          "line_end": 607,
           "anchor": null
         },
         {
@@ -6755,105 +6909,112 @@
           "header": "CF-11.2 Continuity modes",
           "level": 3,
           "line_start": 77,
-          "line_end": 110,
+          "line_end": 111,
           "anchor": null
         },
         {
           "header": "CF-11.3 Activation triggers",
           "level": 3,
-          "line_start": 111,
-          "line_end": 152,
+          "line_start": 112,
+          "line_end": 154,
           "anchor": null
         },
         {
           "header": "CF-11.4 Continuity minimum functions",
           "level": 3,
-          "line_start": 153,
-          "line_end": 185,
+          "line_start": 155,
+          "line_end": 187,
           "anchor": null
         },
         {
           "header": "CF-11.5 Emergency triage hierarchy",
           "level": 3,
-          "line_start": 186,
-          "line_end": 219,
+          "line_start": 188,
+          "line_end": 221,
           "anchor": null
         },
         {
           "header": "CF-11.6 Temporary quorum and provisional authority",
           "level": 3,
-          "line_start": 220,
-          "line_end": 252,
+          "line_start": 222,
+          "line_end": 254,
           "anchor": null
         },
         {
           "header": "CF-11.7 Fallback venues and backup forums",
           "level": 3,
-          "line_start": 253,
-          "line_end": 284,
+          "line_start": 255,
+          "line_end": 286,
           "anchor": null
         },
         {
           "header": "CF-11.8 Record continuity and custody",
           "level": 3,
-          "line_start": 285,
-          "line_end": 320,
+          "line_start": 287,
+          "line_end": 322,
           "anchor": null
         },
         {
           "header": "CF-11.9 Communication duties",
           "level": 3,
-          "line_start": 321,
-          "line_end": 353,
+          "line_start": 323,
+          "line_end": 355,
           "anchor": null
         },
         {
           "header": "CF-11.10 Independent review during emergency mode",
           "level": 3,
-          "line_start": 354,
-          "line_end": 388,
+          "line_start": 356,
+          "line_end": 390,
           "anchor": null
         },
         {
           "header": "CF-11.11 Capture-sensitive continuity",
           "level": 3,
-          "line_start": 389,
-          "line_end": 419,
+          "line_start": 391,
+          "line_end": 435,
+          "anchor": null
+        },
+        {
+          "header": "CF-11.11A Family-capture continuity",
+          "level": 4,
+          "line_start": 422,
+          "line_end": 435,
           "anchor": null
         },
         {
           "header": "CF-11.12 Cross-system and cross-institution coordination",
           "level": 3,
-          "line_start": 420,
-          "line_end": 452,
+          "line_start": 436,
+          "line_end": 468,
           "anchor": null
         },
         {
           "header": "CF-11.13 Restoration and reconciliation",
           "level": 3,
-          "line_start": 453,
-          "line_end": 485,
+          "line_start": 469,
+          "line_end": 501,
           "anchor": null
         },
         {
           "header": "CF-11.14 Post-incident review",
           "level": 3,
-          "line_start": 486,
-          "line_end": 518,
+          "line_start": 502,
+          "line_end": 534,
           "anchor": null
         },
         {
           "header": "CF-11.15 Exercises and testing",
           "level": 3,
-          "line_start": 519,
-          "line_end": 553,
+          "line_start": 535,
+          "line_end": 570,
           "anchor": null
         },
         {
           "header": "CF-11.16 Non-compliant emergency patterns",
           "level": 3,
-          "line_start": 554,
-          "line_end": 589,
+          "line_start": 571,
+          "line_end": 607,
           "anchor": null
         }
       ]

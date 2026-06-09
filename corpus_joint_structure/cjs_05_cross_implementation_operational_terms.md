@@ -86,6 +86,21 @@ Material-operator role
 - OP-E: Reviewers must verify operating authority, training or demonstrated competence, intervention limits, records, escalation duties, and separation from incompatible review or merits roles.
 - OP-C: Material operation is non-compliant without auditable role scope, competence, supervision, and separation safeguards.
 
+Operational enforcement role
+- OP-O: An operational enforcement role carries out lawful enforcement steps rather than deciding the underlying merits. It may include local enforcement, constitutional enforcement, or both where adopting instruments authorize that combination with clear scope and safeguards.
+- OP-E: Reviewers must verify source of authority, lawful order or mandate, scope, limits, use-of-force or compulsion rules where applicable, record duties, supervision, complaint path, and separation from investigation, prosecution, and final merits decision-making.
+- OP-C: Operational enforcement is non-compliant when it uses an enforcement label to control investigations, decide merits, bypass forum authorization, evade rights safeguards, hide coercive authority, or investigate its own conduct without an independent route.
+
+Local enforcement role
+- OP-O: A local enforcement role performs on-the-ground execution of lawful orders and immediate safety measures within a bounded locality, facility, community, event, or comparable operational setting. It may include scene security, emergency stabilization, custody transfer, service of process, access control, immediate protection, execution of forum orders, or comparable local operational acts.
+- OP-E: Reviewers must verify local jurisdiction or adopted scope, lawful trigger, proportionality, necessity, recordkeeping, affected-person notice or later notice where lawful, escalation path, and separation from independent investigation and final merits authority.
+- OP-C: Local enforcement is non-compliant when it becomes private coercive command, routine detention authority without lawful basis, retaliatory security practice, evidence suppression, selective enforcement, or a substitute for independent investigative, forum-review, or rights-floor safeguards.
+
+Constitutional enforcement role
+- OP-O: A constitutional enforcement role implements constitutional duties, forum orders, rights-floor protections, system-alignment conditions, institutional-compliance measures, evidence-preservation duties, anti-capture remedies, cross-jurisdiction obligations, or comparable constitutionally grounded enforcement steps. It often requires technical standards, audit trails, forensic methods, system records, disclosure controls, and compliance architecture.
+- OP-E: Reviewers must verify the constitutional source, forum or institutional authorization, technical-standard basis where material, auditability, chain of custody, dependency and system-impact analysis, disclosure limits, contest route, and coordination with the lead forum family under primary-stakes routing.
+- OP-C: Constitutional enforcement is non-compliant when technical complexity is used to avoid contestability, displace the lead forum, hide evidence, bypass independent investigation, weaken local rights safeguards, or convert standards maintenance into coercive command without lawful authorization.
+
 Oversight or support role
 - OP-O: An oversight or support role monitors, audits, investigates, provides forensic or technical assistance, preserves records, or supports review without making binding merits decisions unless separately authorized.
 - OP-E: Reviewers must verify independence, reporting line, information access, exclusions from merits authority, escalation route, and protected challenge path.

@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/crossref_matrix.schema.json",
-  "generated_at": "2026-06-08T07:49:34+00:00",
+  "generated_at": "2026-06-08T21:16:46+00:00",
   "description": "Source-derived file-to-file Markdown reference graph.",
   "graph": {
     "nodes": [
@@ -5347,12 +5347,15 @@
         "targets": [
           {
             "file": "core_05-05_definitions_a_independent.md",
-            "count": 5,
+            "count": 9,
             "anchors": [
               "#accessibility-constitutional",
               "#accessibility-constitutional-c",
               "#accessibility-constitutional-e",
-              "#chapter-five-foundational-definitions"
+              "#chapter-five-foundational-definitions",
+              "#constitutional-community",
+              "#constitutional-community-c",
+              "#constitutional-community-e"
             ]
           },
           {
