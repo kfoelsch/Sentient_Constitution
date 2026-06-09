@@ -630,7 +630,7 @@ This subsection states principle-layer pro-competition and anti-domination disci
 
 ##### 5.1.5 Consolidation Ceiling
 
-*In plain terms: review should not wait until a market, platform, labor pool, data layer, compute layer, or infrastructure dependency is already locked down. Adopters must set evidence-based ceilings that trigger scrutiny before consolidation predictably impairs real alternatives, fair bargaining, entry, exit, innovation, agency, or constitutional review.*
+*In plain terms: review must not wait until a market, platform, labor pool, data layer, compute layer, or infrastructure dependency is already locked down. Adopters must set evidence-based ceilings that trigger scrutiny before consolidation predictably impairs real alternatives, fair bargaining, entry, exit, innovation, agency, or constitutional review.*
 
 Adopters must establish domain-specific consolidation ceilings for markets, platforms, infrastructure layers, labor-demand markets, supplier or resource-control systems, data or compute dependencies, credentialing pathways, capital-access channels, and comparable domains where consolidation can materially affect sentient opportunity, livelihood, agency, wellbeing, ecological integrity, or constitutional accountability.
 

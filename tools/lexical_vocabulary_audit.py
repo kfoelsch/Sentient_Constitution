@@ -59,6 +59,7 @@ _TRIBUNAL_ALLOWED_EXTERNAL = re.compile(
 
 _RIGHTS_FLOOR_CASING = re.compile(r"\b(?:rights floor|rights floors|rights-floor)\b")
 _FOUNDATIONAL_RIGHTS_CASING = re.compile(r"\b(?:Foundational rights|foundational rights)\b")
+_SHOULD_NOT_PROHIBITION = re.compile(r"\bshould\s+not\b", re.IGNORECASE)
 
 _MALFORMED_CONSTITUTIONAL: list[tuple[str, re.Pattern[str]]] = [
     ("dangling-this-constitutional", re.compile(r"\bthis constitutional\.")),
@@ -219,6 +220,15 @@ def run_internal_regression_checks() -> None:
     if len(tribunal_findings) != 1:
         raise RuntimeError(
             "Internal regression failed: internal 'tribunal' was not flagged or external tribunal exception broke.",
+        )
+    should_not_findings = scan_avoid_should_not_prohibitions(
+        "internal-regression.md",
+        "Technical forums should not become the routine merits forum.\n"
+        "`should not` inside code is not prose.\n",
+    )
+    if len(should_not_findings) != 1:
+        raise RuntimeError(
+            "Internal regression failed: prose 'should not' prohibition was not flagged or code masking broke.",
         )
 
 
@@ -430,6 +440,33 @@ def scan_load_bearing_capitalization(rel_path: str, text: str) -> list[Finding]:
     return findings
 
 
+def scan_avoid_should_not_prohibitions(rel_path: str, text: str) -> list[Finding]:
+    """Reject **should not** prohibitions; use **must not** for binding negative constraints."""
+    findings: list[Finding] = []
+    lines = text.splitlines()
+    in_fence = False
+
+    for idx, raw in enumerate(lines, start=1):
+        if raw.strip().startswith("```"):
+            in_fence = not in_fence
+            continue
+        if in_fence:
+            continue
+
+        check_line = _mask_inline_code_and_link_targets(raw)
+        if _SHOULD_NOT_PROHIBITION.search(check_line):
+            findings.append(
+                Finding(
+                    file=rel_path,
+                    line=idx,
+                    rule="avoid-should-not-prohibitions",
+                    text=raw.strip(),
+                ),
+            )
+
+    return findings
+
+
 def scan_malformed_constitutional_phrasing(rel_path: str, text: str) -> list[Finding]:
     """Flag grammar glitches from bad ``constitutional`` compounding (prefer **this Constitution** or *constitutionally* …)."""
     findings: list[Finding] = []
@@ -474,6 +511,7 @@ def report_markdown(run_date: str, scope: list[str], findings: list[Finding]) ->
         "- **`avoid-tribunal-family`:** reject internal Chapter Nine / forum-governance **tribunal** / **tribunals** → prefer **forum** / **forums**, **forum family**, **panel**, **bench**, or **adjudicative body**. **Allowed:** external or historical tribunal wording where source fidelity or external legal-order references require it.",
         "- **`load-bearing-rights-floor-casing`:** reject lowercase **rights floor**, **rights floors**, and **rights-floor** outside Markdown link targets and inline code → use **Rights Floor**, **Rights Floors**, or **Rights-Floor** for the named Chapter Ten layer.",
         "- **`load-bearing-foundational-rights-casing`:** reject **Foundational rights** / **foundational rights** outside Markdown link targets and inline code → use **Foundational Rights** when naming the Chapter Ten title or layer.",
+        "- **`avoid-should-not-prohibitions`:** reject **should not** in corpus prose → use **must not** for binding negative constraints.",
         "",
         "## Scope",
     ]
@@ -538,6 +576,7 @@ def main() -> int:
         findings.extend(scan_avoid_court_family(rel_path, text))
         findings.extend(scan_avoid_tribunal_family(rel_path, text))
         findings.extend(scan_load_bearing_capitalization(rel_path, text))
+        findings.extend(scan_avoid_should_not_prohibitions(rel_path, text))
         if rel_path in _BREACH_FAMILY_SCOPE:
             findings.extend(scan_avoid_breach_family(rel_path, text))
 

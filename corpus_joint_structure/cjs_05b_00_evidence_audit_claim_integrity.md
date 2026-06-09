@@ -273,7 +273,7 @@ Reproducibility and external evaluation viability
 - OP-C: Methods are non-compliant if they are opaque or non-reproducible where reproducibility is feasible.
 
 Anti-single-authority verification constraint
-- OP-O: Material verification should not depend on a single authority, model, vendor, institution, or framework.
+- OP-O: Material verification must not depend on a single authority, model, vendor, institution, or framework.
 - OP-E: Evaluation must verify at least one practical independent path beyond the controlling authority where feasible.
 - OP-C: Claims are non-compliant if they are monopoly-gated when independent verification is technically feasible.
 

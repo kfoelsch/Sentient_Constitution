@@ -28,11 +28,11 @@
 
 Any institution that uses or supervises **local enforcement**, **constitutional enforcement**, or comparable public enforcement power must have access to investigators who are independent enough to follow the facts. This applies to criminal cases, civil enforcement, constitutional complaints, protective orders, administrative sanctions, and comparable public-law matters.
 
-The investigators must have lawful authority to collect and preserve evidence, interview people, develop the factual record, and prepare material for the body that will decide whether to charge, sue, sanction, protect, remediate, or close the matter.
+The investigators must have lawful authority to collect and preserve evidence, interview witnesses, subjects, complainants, and affected parties, develop the factual record, and prepare material for the body that will decide whether to charge, sue, sanction, protect, remediate, or close the matter.
 
 ### CF-8.2 Why independence matters
 
-The point is simple: the people who may have caused the problem must not control the investigation into the problem.
+The point is simple: the actors who may have caused the problem must not control the investigation into the problem.
 
 Investigation must be institutionally separate from ordinary **local enforcement**, **constitutional enforcement**, **security**, or **operational enforcement** command, and it must also be separate from the forum or panel that will make the final merits decision. This separation keeps the facts contestable, auditable, and harder to bury.
 
@@ -73,9 +73,9 @@ Where investigative, security-support, or enforcement-adjacent bodies exercise m
 #### CF-8.5.1 Non-forum investigative, security-support, and enforcement roles
 
 - **Investigators** develop, preserve, analyze, and explain facts. They may recommend referral, closure, remediation, or further lawful process, but they do not decide charges, sanctions, final liability, final constitutional meaning, or final standing effects.
-- **Independent security-support providers** may protect people, evidence, records, facilities, or forum access; assess security risk; advise on stabilization; and support lawful protective measures. They must not become ordinary local enforcement, constitutional enforcement command, detention command, private coercive enforcement, or a way to bypass public authorization and review.
+- **Independent security-support providers** may protect sentients, evidence, records, facilities, or forum access; assess security risk; advise on stabilization; and support lawful protective measures. They must not become ordinary local enforcement, constitutional enforcement command, detention command, private coercive enforcement, or a way to bypass public authorization and review.
 - **Local enforcement** may secure scenes, stabilize emergencies, execute lawful custody or access-control steps, serve process, carry out immediate protection, execute forum orders within local scope, or provide comparable local operational support. It must not have exclusive control over the investigation, especially when local enforcement personnel, detention personnel, security services, charging authorities, alignment enforcement authorities, forums, or closely aligned actors may be subjects, witnesses, or materially interested participants.
-- **Constitutional enforcement** may execute forum orders, preservation duties, rights-floor safeguards, system-alignment conditions, institutional-compliance measures, anti-capture remedies, and cross-jurisdiction enforcement steps within lawful scope. Because constitutional enforcement often depends on technical records, audit trails, forensic methods, system controls, and compliance architecture, it must remain especially tied to Technical standards, Integrity oversight, and forum-review safeguards.
+- **Constitutional enforcement** may execute forum orders, preservation duties, Rights-Floor safeguards, system-alignment conditions, institutional-compliance measures, anti-capture remedies, and cross-jurisdiction enforcement steps within lawful scope. Because constitutional enforcement often depends on technical records, audit trails, forensic methods, system controls, and compliance architecture, it must remain especially tied to Technical standards, Integrity oversight, and forum-review safeguards.
 - **Charging authorities** may decide, within lawful scope, whether to bring charges, file civil or public-law claims, take settlement positions, or choose litigation strategy. They must not monopolize the underlying fact-development, suppress independent preservation, or make continued investigation depend on a desired litigation outcome.
 - **Alignment enforcement authorities** may decide, within lawful scope, whether to seek alignment conditions, pursue remediation or constraint orders, take remediation positions, or choose alignment-enforcement strategy. They may present or pursue alignment-enforcement matters before **Integrity** forums, but they do not become the **Integrity** forum, the final merits panel, or the final constitutional-alignment recognition authority. They must not monopolize the underlying fact-development, suppress independent preservation, or make continued investigation depend on a desired enforcement outcome.
 
@@ -105,7 +105,7 @@ CF-8 adds a forum-interface record rule. When a secrecy-constrained or intrusive
 
 ### CF-8.8 Records, referrals, and backup routes
 
-The investigative service must produce records that an ordinary affected person, a prosecutor, a forum, and a later reviewer can follow. The record must state the scope, steps taken, evidence relied on, uncertainty, preserved exculpatory and inculpatory material, and the reasons for referral or closure.
+The investigative service must produce records that an ordinary affected sentient, a prosecutor, a forum, and a later reviewer can follow. The record must state the scope, steps taken, evidence relied on, uncertainty, preserved exculpatory and inculpatory material, and the reasons for referral or closure.
 
 Those records must support:
 - prosecutorial or civil-enforcement decisions without making the investigators the final charging or merits authority;

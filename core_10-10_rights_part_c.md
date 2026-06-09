@@ -979,7 +979,7 @@ Further elaboration appears in **[corpus_systems.md](corpus_systems.md), Protoco
   - correction behavior;
   - long-run explanatory or predictive reliability.
   
-  It should not track journal brand, impact-factor proxy, or closed editorial status.
+  It must not track journal brand, impact-factor proxy, or closed editorial status.
   - High-impact, policy-relevant, safety-relevant, or dependency-relevant claims should face a strong presumption of independent replication, adversarial review, or both before they receive durable institutional deference.
   - Replication, null-result, and correction-oriented work must remain publishable and citable on terms that do not depend on prestige signaling.
 - **Correction and contestability:** Good-faith correction, amendment, and supersession must remain easier than concealment.

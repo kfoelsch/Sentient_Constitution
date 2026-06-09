@@ -32,7 +32,7 @@ This support exists to help the forum understand evidence. It does not create an
 ### CF-7.1 When forensic or analytical support is required
 
 Forensic or analytical support must be available when a dispute materially involves any of the following:
-- uncertainty that could change the outcome, remedy, or protected status of a person, community, institution, system, or environment;
+- uncertainty that could change the outcome, remedy, or protected status of a sentient, community, institution, system, or environment;
 - evidence that is restricted, fragmented, technically complex, difficult to interpret, or held across more than one system or institution;
 - disputed causation, event reconstruction, technical failure, model behavior, record integrity, or comparable fact questions;
 - suspected concealment, tampering, deletion, selective disclosure, or chain-of-custody failure;
@@ -42,7 +42,7 @@ The support requirement is practical, not decorative. If a case cannot be fairly
 
 ### CF-7.2 What support personnel may do
 
-Support personnel may be called **forum inspectors**, **forensic analysts**, **special masters**, technical reviewers, evidence custodians, or comparable titles. Whatever title is used, the record must make the person's role understandable to the parties and to later reviewers.
+Support personnel may be called **forum inspectors**, **forensic analysts**, **special masters**, technical reviewers, evidence custodians, or comparable titles. Whatever title is used, the record must make the support role understandable to the parties and to later reviewers.
 
 Within a **published** or **reasoned** scope order, support personnel may:
 - identify and preserve relevant evidence;
@@ -57,13 +57,13 @@ Support personnel must not impose sanctions, decide liability, make final credib
 
 Appointment, conflict disclosure, recusal, and challenge pathways must satisfy `corpus_institutions.md` **CI-4** (*Appointment, competency, rotation, and removal*), **CI-5** (*Conflict integrity, anti-capture, and anti-corruption*), and `core_09-09_forum.md` **Chapter Nine**.
 
-Parties and materially affected persons must have a meaningful opportunity, consistent with lawful restrictions, to challenge:
+Parties and materially affected sentients must have a meaningful opportunity, consistent with lawful restrictions, to challenge:
 - the scope of the assignment;
-- the support person's qualifications, independence, conflicts, or methods;
+- the support actor's qualifications, independence, conflicts, or methods;
 - material assumptions, omitted evidence, uncertainty statements, and conclusions;
 - any restriction that prevents a fair chance to understand or answer the support record.
 
-Exculpatory, mitigating, inculpatory, and impeachment evidence must be preserved under the same good-faith standard. A support process is defective if it helps one side develop technical facts while burying material evidence that would fairly assist another side or an affected person.
+Exculpatory, mitigating, inculpatory, and impeachment evidence must be preserved under the same good-faith standard. A support process is defective if it helps one side develop technical facts while burying material evidence that would fairly assist another side or an affected sentient.
 
 ### CF-7.4 Evidence custody and method records
 
@@ -78,7 +78,7 @@ Evidence handling must satisfy Chapter Five [Evidence Preservation](../core_05-0
 
 ### CF-7.5 Reports, explanations, and emergency preservation
 
-Findings, reports, technical explanations, and preservation records must be reasoned, attributable, reviewable, and written or presented in a form an ordinary affected person can understand without losing necessary technical precision.
+Findings, reports, technical explanations, and preservation records must be reasoned, attributable, reviewable, and written or presented in a form an ordinary affected sentient can understand without losing necessary technical precision.
 
 Emergency ex parte preservation steps may be permitted only when delay would foreseeably destroy, hide, alter, or materially corrupt evidence. Those steps must be narrowly scoped, promptly recorded, and made contestable after the immediate preservation need passes. Emergency preservation may secure evidence; it must not become an unreviewable merits shortcut.
 

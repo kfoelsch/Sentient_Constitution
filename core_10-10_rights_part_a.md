@@ -166,7 +166,7 @@ The Earth's biophysical and living-system conditions are preconditions for every
 
 <br>
 
-*In plain terms: decisions today should not load unfair, irreversible, or unaccountable harm on those not represented — including future sentients and the environmental preconditions they will inherit.*
+*In plain terms: decisions today must not load unfair, irreversible, or unaccountable harm on those not represented — including future sentients and the environmental preconditions they will inherit.*
 
 - **Future generations:** **Intergenerational Responsibility** in Chapter Five constrains disproportionate, irreversible, or unrepresented burdens on:
   - future sentients;
@@ -650,7 +650,7 @@ Those requirements protect shared infrastructure and the systems that depend on 
 
 <br>
 
-*In plain terms: split shared money and capacity with attention to who is truly dependent, who has real alternatives, environmental burden, and whether use can last—not mainly to whoever wins in the short run. Heavy users of shared foundations should not keep pulling value out without putting proportionate support back. When arrangements concentrate wealth, power, control, or opportunity in ways that predictably harm others' wellbeing, agency, dignity, or ecological integrity, Chapter One non-concentration rules and adopter-tunable thresholds add further scrutiny. That scrutiny is extra; it does not replace dependency mapping or excuse neglect of cross-system fairness.*
+*In plain terms: split shared money and capacity with attention to who is truly dependent, who has real alternatives, environmental burden, and whether use can last—not mainly to whoever wins in the short run. Heavy users of shared foundations must not keep pulling value out without putting proportionate support back. When arrangements concentrate wealth, power, control, or opportunity in ways that predictably harm others' wellbeing, agency, dignity, or ecological integrity, Chapter One non-concentration rules and adopter-tunable thresholds add further scrutiny. That scrutiny is extra; it does not replace dependency mapping or excuse neglect of cross-system fairness.*
 
 - **Cross-system fairness:** Funding and allocation must account for:
   - criticality;

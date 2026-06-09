@@ -476,7 +476,7 @@ Heightened review is automatically triggered for amendments that materially affe
 
 <br>
 
-*In plain terms: high-stakes amendments should not freeze into irreversible facts on the ground before review windows and real contest routes have run — narrow, short emergency carve-outs are allowed only to stop imminent harm and should unwind when the danger passes.*
+*In plain terms: high-stakes amendments must not freeze into irreversible facts on the ground before review windows and real contest routes have run — narrow, short emergency carve-outs are allowed only to stop imminent harm and should unwind when the danger passes.*
 
 Rights-affecting amendments and authority-structure amendments do not take irreversible effect until minimum review windows and contest pathways are satisfied. An exception applies where immediate narrow interim measures are necessary to prevent imminent material harm. Such interim measures must remain reversible where feasible.
 
