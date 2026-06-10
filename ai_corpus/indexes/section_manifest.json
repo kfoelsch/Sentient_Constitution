@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-06-08T21:16:46+00:00",
+  "generated_at": "2026-06-10T10:34:22+00:00",
   "files": {
     "core_00-01_principles.md": {
       "total_lines": 1506,
@@ -6685,13 +6685,13 @@
       ]
     },
     "corpus_forum/cf_08_independent_investigative_service_prosecution_interface.md": {
-      "total_lines": 110,
+      "total_lines": 119,
       "sections": [
         {
           "header": "CF-8: Independent investigative service and prosecution interface",
           "level": 2,
           "line_start": 1,
-          "line_end": 110,
+          "line_end": 119,
           "anchor": null
         },
         {
@@ -6726,164 +6726,283 @@
           "header": "CF-8.5 Required separations",
           "level": 3,
           "line_start": 67,
-          "line_end": 78,
+          "line_end": 87,
+          "anchor": null
+        },
+        {
+          "header": "CF-8.5.1 Non-forum investigative, security-support, and enforcement roles",
+          "level": 4,
+          "line_start": 73,
+          "line_end": 81,
+          "anchor": null
+        },
+        {
+          "header": "CF-8.5.2 Forum and forum-adjacent roles",
+          "level": 4,
+          "line_start": 82,
+          "line_end": 87,
           "anchor": null
         },
         {
           "header": "CF-8.6 No self-investigation",
           "level": 3,
-          "line_start": 79,
-          "line_end": 84,
+          "line_start": 88,
+          "line_end": 93,
           "anchor": null
         },
         {
           "header": "CF-8.7 Rights, secrecy, and protected activity",
           "level": 3,
-          "line_start": 85,
-          "line_end": 96,
+          "line_start": 94,
+          "line_end": 105,
           "anchor": null
         },
         {
           "header": "CF-8.8 Records, referrals, and backup routes",
           "level": 3,
-          "line_start": 97,
-          "line_end": 110,
+          "line_start": 106,
+          "line_end": 119,
           "anchor": null
         }
       ]
     },
     "corpus_forum/cf_09_technical_specialist_forums_specialist_chambers.md": {
-      "total_lines": 78,
+      "total_lines": 130,
       "sections": [
         {
           "header": "CF-9: Technical specialist forums and specialist chambers",
           "level": 2,
           "line_start": 1,
-          "line_end": 78,
+          "line_end": 130,
+          "anchor": null
+        },
+        {
+          "header": "CF-9.1 Basic rule",
+          "level": 3,
+          "line_start": 27,
+          "line_end": 30,
+          "anchor": null
+        },
+        {
+          "header": "CF-9.2 Purpose",
+          "level": 3,
+          "line_start": 31,
+          "line_end": 34,
+          "anchor": null
+        },
+        {
+          "header": "CF-9.3 Core functions",
+          "level": 3,
+          "line_start": 35,
+          "line_end": 42,
+          "anchor": null
+        },
+        {
+          "header": "CF-9.4 Required chamber coverage",
+          "level": 3,
+          "line_start": 43,
+          "line_end": 49,
+          "anchor": null
+        },
+        {
+          "header": "CF-9.5 Optional additional chambers",
+          "level": 3,
+          "line_start": 50,
+          "line_end": 53,
+          "anchor": null
+        },
+        {
+          "header": "CF-9.6 Routing and limits",
+          "level": 3,
+          "line_start": 54,
+          "line_end": 59,
+          "anchor": null
+        },
+        {
+          "header": "CF-9.7 Standard-setting constraints",
+          "level": 3,
+          "line_start": 60,
+          "line_end": 65,
+          "anchor": null
+        },
+        {
+          "header": "CF-9.8 Shared standards and decentralized enforcement",
+          "level": 3,
+          "line_start": 66,
+          "line_end": 71,
+          "anchor": null
+        },
+        {
+          "header": "CF-9.9 Institutional-forum interface",
+          "level": 3,
+          "line_start": 72,
+          "line_end": 77,
+          "anchor": null
+        },
+        {
+          "header": "CF-9.10 Departure and variance",
+          "level": 3,
+          "line_start": 78,
+          "line_end": 89,
+          "anchor": null
+        },
+        {
+          "header": "CF-9.11 Cross-jurisdiction recognition",
+          "level": 3,
+          "line_start": 90,
+          "line_end": 101,
+          "anchor": null
+        },
+        {
+          "header": "CF-9.12 Educational materials and textbook disputes",
+          "level": 3,
+          "line_start": 102,
+          "line_end": 107,
+          "anchor": null
+        },
+        {
+          "header": "CF-9.13 Independence and composition",
+          "level": 3,
+          "line_start": 108,
+          "line_end": 113,
+          "anchor": null
+        },
+        {
+          "header": "CF-9.14 Research and uncertainty-reduction authority",
+          "level": 3,
+          "line_start": 114,
+          "line_end": 121,
+          "anchor": null
+        },
+        {
+          "header": "CF-9.15 Publication and review governance",
+          "level": 3,
+          "line_start": 122,
+          "line_end": 130,
           "anchor": null
         }
       ]
     },
     "corpus_forum/cf_10_performance_backlog_publication_accessibility.md": {
-      "total_lines": 609,
+      "total_lines": 605,
       "sections": [
         {
           "header": "CF-10: Forum performance, backlog requirements, publication timeliness, and accessibility",
           "level": 2,
           "line_start": 1,
-          "line_end": 609,
+          "line_end": 605,
           "anchor": null
         },
         {
-          "header": "CF-10.0 Class-scaled service requirements (notice through remediation closure)",
+          "header": "CF-10.1 Class-scaled service requirements (notice through remediation closure)",
           "level": 3,
-          "line_start": 42,
-          "line_end": 80,
+          "line_start": 46,
+          "line_end": 92,
           "anchor": null
         },
         {
-          "header": "CF-10.1 Core rule",
+          "header": "CF-10.2 Core rule",
           "level": 3,
-          "line_start": 81,
-          "line_end": 113,
+          "line_start": 93,
+          "line_end": 125,
           "anchor": null
         },
         {
-          "header": "CF-10.2 Minimum metric categories",
+          "header": "CF-10.3 Minimum performance metrics and target windows",
           "level": 3,
-          "line_start": 114,
-          "line_end": 150,
+          "line_start": 126,
+          "line_end": 173,
           "anchor": null
         },
         {
-          "header": "CF-10.3 Case classes and urgency classes",
+          "header": "CF-10.4 Case classes and urgency classes",
           "level": 3,
-          "line_start": 151,
-          "line_end": 183,
+          "line_start": 174,
+          "line_end": 201,
           "anchor": null
         },
         {
-          "header": "CF-10.4 Minimum timing floors",
+          "header": "CF-10.5 Consolidated timing floors",
           "level": 3,
-          "line_start": 184,
-          "line_end": 225,
+          "line_start": 202,
+          "line_end": 215,
           "anchor": null
         },
         {
-          "header": "CF-10.5 Backlog thresholds and alerts",
+          "header": "CF-10.6 Backlog thresholds and alerts",
           "level": 3,
-          "line_start": 226,
-          "line_end": 262,
+          "line_start": 216,
+          "line_end": 252,
           "anchor": null
         },
         {
-          "header": "CF-10.6 Required remediation actions for backlog",
+          "header": "CF-10.7 Required remediation actions for backlog",
           "level": 3,
-          "line_start": 263,
-          "line_end": 305,
+          "line_start": 253,
+          "line_end": 295,
           "anchor": null
         },
         {
-          "header": "CF-10.7 Accessibility and pathway usability requirements",
+          "header": "CF-10.8 Accessibility and pathway usability requirements",
           "level": 3,
-          "line_start": 306,
-          "line_end": 342,
+          "line_start": 296,
+          "line_end": 334,
           "anchor": null
         },
         {
-          "header": "CF-10.8 Publication timeliness",
+          "header": "CF-10.9 Publication timeliness",
           "level": 3,
-          "line_start": 343,
-          "line_end": 375,
+          "line_start": 335,
+          "line_end": 367,
           "anchor": null
         },
         {
-          "header": "CF-10.9 Restricted-evidence timing",
+          "header": "CF-10.10 Restricted-evidence timing",
           "level": 3,
-          "line_start": 376,
-          "line_end": 408,
+          "line_start": 368,
+          "line_end": 400,
           "anchor": null
         },
         {
-          "header": "CF-10.10 Contest-integrity monitoring interface",
+          "header": "CF-10.11 Contest-integrity monitoring interface",
           "level": 3,
-          "line_start": 409,
-          "line_end": 442,
+          "line_start": 401,
+          "line_end": 434,
           "anchor": null
         },
         {
-          "header": "CF-10.11 Governance disclosure fields for forum performance",
+          "header": "CF-10.12 Governance disclosure fields for forum performance",
           "level": 3,
-          "line_start": 443,
-          "line_end": 478,
+          "line_start": 435,
+          "line_end": 470,
           "anchor": null
         },
         {
-          "header": "CF-10.12 Non-compliant performance patterns",
+          "header": "CF-10.13 Non-compliant performance patterns",
           "level": 3,
-          "line_start": 479,
-          "line_end": 511,
+          "line_start": 471,
+          "line_end": 503,
           "anchor": null
         },
         {
-          "header": "CF-10.13 Forum-performance review cadence",
+          "header": "CF-10.14 Forum-performance review cadence",
           "level": 3,
-          "line_start": 512,
-          "line_end": 542,
+          "line_start": 504,
+          "line_end": 534,
           "anchor": null
         },
         {
-          "header": "CF-10.14 Evidence and artifacts",
+          "header": "CF-10.15 Evidence and artifacts",
           "level": 3,
-          "line_start": 543,
-          "line_end": 575,
+          "line_start": 535,
+          "line_end": 567,
           "anchor": null
         },
         {
-          "header": "CF-10.15 Lived conditions during restriction and re-entry alignment (cross-layer)",
+          "header": "CF-10.16 Lived conditions during restriction and re-entry alignment (cross-layer)",
           "level": 3,
-          "line_start": 576,
-          "line_end": 609,
+          "line_start": 568,
+          "line_end": 605,
           "anchor": null
         }
       ]
