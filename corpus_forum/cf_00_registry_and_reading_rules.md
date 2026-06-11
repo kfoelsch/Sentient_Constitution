@@ -59,9 +59,11 @@ Shared preamble contract: apply `corpus_joint_structure.md` **CJS-1.1** (*Shared
 - **CF-8** — Independent investigative service and prosecution interface
 - **CF-9** — Technical specialist forums and specialist chambers
 - **CF-10** — Forum performance, backlog requirements, publication timeliness, and accessibility (**CF-10.10** (*Lived conditions during restriction and re-entry alignment (cross-layer)*) lived conditions during restriction — cross-layer)
-- **CF-11** — Forum continuity, fallback operation, and emergency adjudication
-- **CF-12** — Standard records, forms, and evidence artifacts
-- **CF-13** — Forum staffing, reserve capacity, shared administration, structural review, and structural records
+- **CF-11** — Forum continuity
+- **CF-12** — Fallback operation
+- **CF-13** — Emergency adjudication
+- **CF-14** — Standard records, forms, and evidence artifacts
+- **CF-15** — Forum staffing, reserve capacity, shared administration, structural review, and structural records
 
 ---
 

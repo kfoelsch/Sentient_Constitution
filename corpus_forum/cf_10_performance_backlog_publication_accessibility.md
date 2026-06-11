@@ -502,7 +502,7 @@ The following patterns are presumptively non-compliant unless clearly justified 
 
 - Upstream: [CJS-1.1](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-11-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.2](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-22-topic-router-stable-ids) topic router; [Chapter Nine](../core_09-09_forum.md#chapter-nine-forums-and-jurisdiction) forum-family routing; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
 - Downstream: this section's local operational requirements for **CF-10.10 Lived conditions during restriction and re-entry alignment (cross-layer)**.
-- Read with: **CF-10.10**; **CF-10.3**; **CF-10.5**; **CF-10**; **CF-11.13**.
+- Read with: **CF-10.10**; **CF-10.3**; **CF-10.5**; **CF-10**; **CF-13.3**.
 
 </details>
 
@@ -527,10 +527,10 @@ Calendar and metric performance under **CF-10.3** (*Metric registry and reportin
 
 **Forum-specific application:** review records must show that the forum or administrative reviewer considered the Protocol C section **10** validation record, current review cadence, restoration or re-entry status, and any new evidence-based finding used to continue a restriction.
 
-Where a lived-condition failure materially affects remedy, challenge rights, or restoration, the matter remains open for **CF-10** (*Forum performance, backlog requirements, publication timeliness, and accessibility*) performance tracking. It also remains open for **CF-11.13** (*Restoration and reconciliation*) restoration tracking, even if ordinary docket milestones were reached.
+Where a lived-condition failure materially affects remedy, challenge rights, or restoration, the matter remains open for **CF-10** (*Forum performance, backlog requirements, publication timeliness, and accessibility*) performance tracking. It also remains open for **CF-13.3** (*Restoration and reconciliation*) restoration tracking, even if ordinary docket milestones were reached.
 
-**Read with:** `corpus_institutions.md` **CI-13** (failure and accountability patterns); **CF-11.13** (*Restoration and reconciliation*); **Article XXIII** and **Article XXIII-A** as referenced in **Protocol C** §**10**.
+**Read with:** `corpus_institutions.md` **CI-13** (failure and accountability patterns); **CF-13.3** (*Restoration and reconciliation*); **Article XXIII** and **Article XXIII-A** as referenced in **Protocol C** §**10**.
 
 ---
 
-**Next file:** [cf_11_continuity_fallback_emergency_adjudication.md](cf_11_continuity_fallback_emergency_adjudication.md)
+**Next file:** [cf_11_forum_continuity.md](cf_11_forum_continuity.md)

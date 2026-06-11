@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-06-11T19:08:39+00:00",
+  "generated_at": "2026-06-11T19:25:28+00:00",
   "files": {
     "core_00-01_principles.md": {
       "total_lines": 1506,
@@ -5628,20 +5628,20 @@
       ]
     },
     "corpus_forum.md": {
-      "total_lines": 30,
+      "total_lines": 32,
       "sections": [
         {
           "header": "Constitutional Forums",
           "level": 1,
           "line_start": 1,
-          "line_end": 30,
+          "line_end": 32,
           "anchor": null
         },
         {
           "header": "Forum Index",
           "level": 2,
           "line_start": 9,
-          "line_end": 30,
+          "line_end": 32,
           "anchor": null
         }
       ]
@@ -5746,13 +5746,13 @@
       ]
     },
     "corpus_joint_structure/cjs_02_implementation_integration_map.md": {
-      "total_lines": 155,
+      "total_lines": 157,
       "sections": [
         {
           "header": "CJS-2: Implementation integration map",
           "level": 2,
           "line_start": 1,
-          "line_end": 155,
+          "line_end": 157,
           "anchor": null
         },
         {
@@ -5766,14 +5766,14 @@
           "header": "CJS-2.2: Topic router (stable IDs)",
           "level": 3,
           "line_start": 73,
-          "line_end": 123,
+          "line_end": 125,
           "anchor": null
         },
         {
           "header": "CJS-2.3: Two-tier definition contract (binding abstraction + owner detail)",
           "level": 3,
-          "line_start": 124,
-          "line_end": 155,
+          "line_start": 126,
+          "line_end": 157,
           "anchor": null
         }
       ]
@@ -6134,20 +6134,20 @@
       ]
     },
     "corpus_forum/cf_00_registry_and_reading_rules.md": {
-      "total_lines": 68,
+      "total_lines": 70,
       "sections": [
         {
           "header": "Constitutional Forums",
           "level": 1,
           "line_start": 1,
-          "line_end": 68,
+          "line_end": 70,
           "anchor": null
         },
         {
           "header": "FORUMS REGISTRY (stable section families)",
           "level": 2,
           "line_start": 26,
-          "line_end": 68,
+          "line_end": 70,
           "anchor": null
         }
       ]
@@ -7021,184 +7021,208 @@
         }
       ]
     },
-    "corpus_forum/cf_11_continuity_fallback_emergency_adjudication.md": {
-      "total_lines": 607,
+    "corpus_forum/cf_11_forum_continuity.md": {
+      "total_lines": 327,
       "sections": [
         {
-          "header": "CF-11: Forum continuity, fallback operation, and emergency adjudication",
+          "header": "CF-11: Forum continuity",
           "level": 2,
           "line_start": 1,
-          "line_end": 607,
+          "line_end": 327,
           "anchor": null
         },
         {
           "header": "CF-11.1 Rights-Floor continuity rule",
           "level": 3,
-          "line_start": 43,
-          "line_end": 76,
+          "line_start": 42,
+          "line_end": 75,
           "anchor": null
         },
         {
           "header": "CF-11.2 Continuity modes",
           "level": 3,
-          "line_start": 77,
-          "line_end": 111,
+          "line_start": 76,
+          "line_end": 110,
           "anchor": null
         },
         {
           "header": "CF-11.3 Activation triggers",
           "level": 3,
-          "line_start": 112,
-          "line_end": 154,
+          "line_start": 111,
+          "line_end": 153,
           "anchor": null
         },
         {
           "header": "CF-11.4 Continuity minimum functions",
           "level": 3,
-          "line_start": 155,
-          "line_end": 187,
+          "line_start": 154,
+          "line_end": 186,
           "anchor": null
         },
         {
-          "header": "CF-11.5 Emergency triage hierarchy",
+          "header": "CF-11.5 Record continuity and custody",
           "level": 3,
-          "line_start": 188,
-          "line_end": 221,
+          "line_start": 187,
+          "line_end": 222,
           "anchor": null
         },
         {
-          "header": "CF-11.6 Temporary quorum and provisional authority",
+          "header": "CF-11.6 Communication duties",
           "level": 3,
-          "line_start": 222,
-          "line_end": 254,
+          "line_start": 223,
+          "line_end": 255,
           "anchor": null
         },
         {
-          "header": "CF-11.7 Fallback venues and backup forums",
+          "header": "CF-11.7 Cross-system and cross-institution coordination",
           "level": 3,
-          "line_start": 255,
-          "line_end": 286,
+          "line_start": 256,
+          "line_end": 288,
           "anchor": null
         },
         {
-          "header": "CF-11.8 Record continuity and custody",
+          "header": "CF-11.8 Exercises and testing",
           "level": 3,
-          "line_start": 287,
-          "line_end": 322,
-          "anchor": null
-        },
-        {
-          "header": "CF-11.9 Communication duties",
-          "level": 3,
-          "line_start": 323,
-          "line_end": 355,
-          "anchor": null
-        },
-        {
-          "header": "CF-11.10 Independent review during emergency mode",
-          "level": 3,
-          "line_start": 356,
-          "line_end": 390,
-          "anchor": null
-        },
-        {
-          "header": "CF-11.11 Capture-sensitive continuity",
-          "level": 3,
-          "line_start": 391,
-          "line_end": 435,
-          "anchor": null
-        },
-        {
-          "header": "CF-11.11A Family-capture continuity",
-          "level": 4,
-          "line_start": 422,
-          "line_end": 435,
-          "anchor": null
-        },
-        {
-          "header": "CF-11.12 Cross-system and cross-institution coordination",
-          "level": 3,
-          "line_start": 436,
-          "line_end": 468,
-          "anchor": null
-        },
-        {
-          "header": "CF-11.13 Restoration and reconciliation",
-          "level": 3,
-          "line_start": 469,
-          "line_end": 501,
-          "anchor": null
-        },
-        {
-          "header": "CF-11.14 Post-incident review",
-          "level": 3,
-          "line_start": 502,
-          "line_end": 534,
-          "anchor": null
-        },
-        {
-          "header": "CF-11.15 Exercises and testing",
-          "level": 3,
-          "line_start": 535,
-          "line_end": 570,
-          "anchor": null
-        },
-        {
-          "header": "CF-11.16 Non-compliant emergency patterns",
-          "level": 3,
-          "line_start": 571,
-          "line_end": 607,
+          "line_start": 289,
+          "line_end": 327,
           "anchor": null
         }
       ]
     },
-    "corpus_forum/cf_12_standard_records_forms_evidence_artifacts.md": {
+    "corpus_forum/cf_12_fallback_operation.md": {
+      "total_lines": 148,
+      "sections": [
+        {
+          "header": "CF-12: Fallback operation",
+          "level": 2,
+          "line_start": 1,
+          "line_end": 148,
+          "anchor": null
+        },
+        {
+          "header": "CF-12.1 Temporary quorum and provisional authority",
+          "level": 3,
+          "line_start": 36,
+          "line_end": 68,
+          "anchor": null
+        },
+        {
+          "header": "CF-12.2 Fallback venues and backup forums",
+          "level": 3,
+          "line_start": 69,
+          "line_end": 100,
+          "anchor": null
+        },
+        {
+          "header": "CF-12.3 Capture-sensitive fallback operation",
+          "level": 3,
+          "line_start": 101,
+          "line_end": 131,
+          "anchor": null
+        },
+        {
+          "header": "CF-12.4 Family-capture fallback operation",
+          "level": 3,
+          "line_start": 132,
+          "line_end": 148,
+          "anchor": null
+        }
+      ]
+    },
+    "corpus_forum/cf_13_emergency_adjudication.md": {
+      "total_lines": 207,
+      "sections": [
+        {
+          "header": "CF-13: Emergency adjudication",
+          "level": 2,
+          "line_start": 1,
+          "line_end": 207,
+          "anchor": null
+        },
+        {
+          "header": "CF-13.1 Emergency triage hierarchy",
+          "level": 3,
+          "line_start": 36,
+          "line_end": 69,
+          "anchor": null
+        },
+        {
+          "header": "CF-13.2 Independent review during emergency mode",
+          "level": 3,
+          "line_start": 70,
+          "line_end": 104,
+          "anchor": null
+        },
+        {
+          "header": "CF-13.3 Restoration and reconciliation",
+          "level": 3,
+          "line_start": 105,
+          "line_end": 137,
+          "anchor": null
+        },
+        {
+          "header": "CF-13.4 Post-incident review",
+          "level": 3,
+          "line_start": 138,
+          "line_end": 170,
+          "anchor": null
+        },
+        {
+          "header": "CF-13.5 Non-compliant emergency patterns",
+          "level": 3,
+          "line_start": 171,
+          "line_end": 207,
+          "anchor": null
+        }
+      ]
+    },
+    "corpus_forum/cf_14_standard_records_forms_evidence_artifacts.md": {
       "total_lines": 248,
       "sections": [
         {
-          "header": "CF-12: Standard records, forms, and evidence artifacts",
+          "header": "CF-14: Standard records, forms, and evidence artifacts",
           "level": 2,
           "line_start": 1,
           "line_end": 248,
           "anchor": null
         },
         {
-          "header": "CF-12.1 Minimum record set",
+          "header": "CF-14.1 Minimum record set",
           "level": 3,
           "line_start": 33,
           "line_end": 82,
           "anchor": null
         },
         {
-          "header": "CF-12.2 Required fields",
+          "header": "CF-14.2 Required fields",
           "level": 3,
           "line_start": 83,
           "line_end": 119,
           "anchor": null
         },
         {
-          "header": "CF-12.3 Access classes",
+          "header": "CF-14.3 Access classes",
           "level": 3,
           "line_start": 120,
           "line_end": 154,
           "anchor": null
         },
         {
-          "header": "CF-12.4 Evidence artifact handling",
+          "header": "CF-14.4 Evidence artifact handling",
           "level": 3,
           "line_start": 155,
           "line_end": 183,
           "anchor": null
         },
         {
-          "header": "CF-12.5 Publication, retention, and reconciliation",
+          "header": "CF-14.5 Publication, retention, and reconciliation",
           "level": 3,
           "line_start": 184,
           "line_end": 212,
           "anchor": null
         },
         {
-          "header": "CF-12.6 Non-compliant record patterns",
+          "header": "CF-14.6 Non-compliant record patterns",
           "level": 3,
           "line_start": 213,
           "line_end": 248,
@@ -7206,53 +7230,53 @@
         }
       ]
     },
-    "corpus_forum/cf_13_staffing_reserve_capacity_structural_records.md": {
+    "corpus_forum/cf_15_staffing_reserve_capacity_structural_records.md": {
       "total_lines": 272,
       "sections": [
         {
-          "header": "CF-13: Forum staffing, reserve capacity, shared administration, structural review, and structural records",
+          "header": "CF-15: Forum staffing, reserve capacity, shared administration, structural review, and structural records",
           "level": 2,
           "line_start": 1,
           "line_end": 240,
           "anchor": null
         },
         {
-          "header": "CF-13.1 Composition and competence requirements",
+          "header": "CF-15.1 Composition and competence requirements",
           "level": 3,
           "line_start": 29,
           "line_end": 66,
           "anchor": null
         },
         {
-          "header": "CF-13.2 Reserve, substitute, and surge capacity",
+          "header": "CF-15.2 Reserve, substitute, and surge capacity",
           "level": 3,
           "line_start": 67,
           "line_end": 103,
           "anchor": null
         },
         {
-          "header": "CF-13.3 Shared administration and objective assignment safeguards",
+          "header": "CF-15.3 Shared administration and objective assignment safeguards",
           "level": 3,
           "line_start": 104,
           "line_end": 138,
           "anchor": null
         },
         {
-          "header": "CF-13.4 Prohibited staffing, capacity, and governance patterns",
+          "header": "CF-15.4 Prohibited staffing, capacity, and governance patterns",
           "level": 3,
           "line_start": 139,
           "line_end": 172,
           "anchor": null
         },
         {
-          "header": "CF-13.5 Structural review and revision cadence",
+          "header": "CF-15.5 Structural review and revision cadence",
           "level": 3,
           "line_start": 173,
           "line_end": 205,
           "anchor": null
         },
         {
-          "header": "CF-13.6 Required structural records and artifacts",
+          "header": "CF-15.6 Required structural records and artifacts",
           "level": 3,
           "line_start": 206,
           "line_end": 240,

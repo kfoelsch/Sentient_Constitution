@@ -193,7 +193,7 @@ Recognition is scope-bound and time-bound by its stated cadence and reopening tr
 <br>
 
 
-**Purpose.** Provide the forum-side mechanics for the Chapter Nine cross-forum anti-self-judging rule, capture-sensitive routing, contest-integrity interfaces, and family-level capture activation. This subsection does not replace **CF-3** panel-formation rules, **CF-4** routing operations, **CF-7** forensic support, **CF-8** investigative-service boundaries, **CF-11** continuity rules, or `corpus_institutions.md` **CI-7.3** contest-integrity monitoring. It tells those mechanisms what record, trigger, and boundary conditions must exist when the risk is that a forum, institution, system steward, or integrity process would otherwise judge its own capture, conflict, concealment, recusal failure, retaliation, or comparable process abuse.
+**Purpose.** Provide the forum-side mechanics for the Chapter Nine cross-forum anti-self-judging rule, capture-sensitive routing, contest-integrity interfaces, and family-level capture activation. This subsection does not replace **CF-3** panel-formation rules, **CF-4** routing operations, **CF-7** forensic support, **CF-8** investigative-service boundaries, **CF-11** continuity rules, **CF-12** fallback rules, **CF-13** emergency-adjudication rules, or `corpus_institutions.md` **CI-7.3** contest-integrity monitoring. It tells those mechanisms what record, trigger, and boundary conditions must exist when the risk is that a forum, institution, system steward, or integrity process would otherwise judge its own capture, conflict, concealment, recusal failure, retaliation, or comparable process abuse.
 
 #### CF-6.3.1 Activation Threshold
 
@@ -264,7 +264,7 @@ Forum systems must track recusal, reassignment, transfer, threshold dismissal, b
 - using emergency, continuity, or restricted-evidence procedures to bypass recusal, publication, contest, or backup-forum obligations;
 - treating contest-integrity monitoring, forensic support, or internal integrity review as a substitute for the forum family assigned by Chapter Nine.
 
-When such a pattern is material, the record must identify whether immediate backup routing, panel reconstitution, external assurance, **CI-8** escalation, or continuity measures under **CF-11** are required.
+When such a pattern is material, the record must identify whether immediate backup routing, panel reconstitution, external assurance, **CI-8** escalation, or continuity, fallback, or emergency-adjudication measures under **CF-11** through **CF-13** are required.
 
 #### CF-6.3.8 Family-Level Capture Activation
 
@@ -286,7 +286,7 @@ The activation record must identify:
 
 During activation, the captured or compromised family may provide records, logistical support, witness testimony, and technical cooperation only under safeguards set by the backup or external review authority. It must not control activation, continuation, record custody, merits transfer, restoration review, or the final finding that its independence has been restored.
 
-Backup authority under this subsection is remedial and temporary. It must preserve primary-stakes routing as far as feasible, must not become permanent control over the displaced family's subject matter, and must certify to Constitutional forums where constitutional meaning, validity, structural remedy, or class-wide redesign is materially at issue. When the trigger clears, restoration follows **CF-11** restoration and reconciliation rules, with an independent record explaining what was displaced, what decisions require later review, what records were reconciled, and what hardening measures are required.
+Backup authority under this subsection is remedial and temporary. It must preserve primary-stakes routing as far as feasible, must not become permanent control over the displaced family's subject matter, and must certify to Constitutional forums where constitutional meaning, validity, structural remedy, or class-wide redesign is materially at issue. When the trigger clears, restoration follows **CF-13.3** (*Restoration and reconciliation*) rules, with an independent record explaining what was displaced, what decisions require later review, what records were reconciled, and what hardening measures are required.
 
 ---
 

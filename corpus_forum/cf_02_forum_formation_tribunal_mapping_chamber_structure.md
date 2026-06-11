@@ -4,7 +4,7 @@
 
 - Upstream: [CJS-1.1](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-11-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.2](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-22-topic-router-stable-ids) topic router; [Chapter Nine](../core_09-09_forum.md#chapter-nine-forums-and-jurisdiction) forum-family routing; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
 - Downstream: [CF-2.1 Core structural rule](#cf-21-core-structural-rule); [CF-2.2 Family-to-forum-structure translation map](#cf-22-family-to-forum-structure-translation-map); [CF-2.3 Family distinction and non-collapse rule](#cf-23-family-distinction-and-non-collapse-rule); [CF-2.5 Chamber creation, identification, and family boundary](#cf-25-chamber-creation-identification-and-family-boundary).
-- Read with: **CF-2**; **CF-4**; **CF-13**; **CF-3**; **CF-10**; **CF-11**; **CF-2.1**.
+- Read with: **CF-2**; **CF-4**; **CF-15**; **CF-3**; **CF-10**; **CF-11**; **CF-12**; **CF-13**; **CF-2.1**.
 
 </details>
 
@@ -33,9 +33,9 @@ It sets structural requirements for:
 - minimum availability of adjudicators and support sufficient to form lawful panels and preserve traceability;
 - chamber specialization and anti-collapse limits.
 
-Published intake priority classes, the intake triage body, and day-one filing routing expectations are governed by **CF-4** (*Routing operations, transfer, certification, and representative treatment*). Staffing composition frameworks, reserve and surge capacity, shared administration and objective assignment safeguards, periodic structural review, prohibited staffing and capacity patterns, and the structural governance record set are governed by **CF-13** (*Forum staffing, reserve capacity, shared administration, structural review, and structural records*).
+Published intake priority classes, the intake triage body, and day-one filing routing expectations are governed by **CF-4** (*Routing operations, transfer, certification, and representative treatment*). Staffing composition frameworks, reserve and surge capacity, shared administration and objective assignment safeguards, periodic structural review, prohibited staffing and capacity patterns, and the structural governance record set are governed by **CF-15** (*Forum staffing, reserve capacity, shared administration, structural review, and structural records*).
 
-This section does not itself govern panel assignment, recusal, lawful bench formation, backlog requirements, or emergency continuity. Those subjects are governed by **CF-3** (*Panel formation, disclosure, recusal, and lawful bench constitution*), **CF-10** (*Forum performance, backlog requirements, publication timeliness, and accessibility*), and **CF-11** (*Forum continuity, fallback operation, and emergency adjudication*).
+This section does not itself govern panel assignment, recusal, lawful bench formation, backlog requirements, or emergency continuity. Those subjects are governed by **CF-3** (*Panel formation, disclosure, recusal, and lawful bench constitution*), **CF-10** (*Forum performance, backlog requirements, publication timeliness, and accessibility*), and **CF-11** (*Forum continuity*), **CF-12** (*Fallback operation*), and **CF-13** (*Emergency adjudication*).
 
 ### CF-2.1 Core structural rule
 <details>
@@ -43,7 +43,7 @@ This section does not itself govern panel assignment, recusal, lawful bench form
 
 - Upstream: [CJS-1.1](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-11-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.2](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-22-topic-router-stable-ids) topic router; [Chapter Nine](../core_09-09_forum.md#chapter-nine-forums-and-jurisdiction) forum-family routing; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
 - Downstream: this section's local operational requirements for **CF-2.1 Core structural rule**.
-- Read with: **CF-2.1**; **CF-13**.
+- Read with: **CF-2.1**; **CF-15**.
 
 </details>
 
@@ -66,7 +66,7 @@ Every adopting entity must establish and maintain a published forum structure th
 - gives operational effect to each forum family required by `core_09-09_forum.md` **Chapter Nine**;
 - makes family boundaries intelligible to filers, affected parties, and review bodies;
 - preserves independence, contestability, and traceability in actual forum design rather than by labels alone;
-- maintains enough qualified personnel and, as specified in **CF-13** (*Forum staffing, reserve capacity, shared administration, structural review, and structural records*), reserve and substitute capacity to keep the forum families functional in ordinary and stress conditions.
+- maintains enough qualified personnel and, as specified in **CF-15** (*Forum staffing, reserve capacity, shared administration, structural review, and structural records*), reserve and substitute capacity to keep the forum families functional in ordinary and stress conditions.
 
 **Practical flexibility:** Local forum names, internal organization, and administrative detail may differ from any model structure, as long as filers and review bodies can still see and use **each** forum family Chapter Eight requires—separate intake, panels where applicable, and appeal or review paths that match that family's role. **What is not allowed:** satisfying the rule only on paper—by renaming adjudicative bodies, redrawing chamber lines, or similar cosmetic moves—if the real effect is to merge or erase boundaries between families that the constitution treats as distinct.
 
@@ -216,7 +216,7 @@ Chambers must not be used to relabel one forum family as another, to erase famil
 
 - Upstream: [CJS-1.1](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-11-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.2](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-22-topic-router-stable-ids) topic router; [Chapter Nine](../core_09-09_forum.md#chapter-nine-forums-and-jurisdiction) forum-family routing; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
 - Downstream: this section's local operational requirements for **CF-2.6 Chamber authority composition and service mechanics**.
-- Read with: **CF-2.6**; **CF-2.5**; **CF-11**; **CJS-4.1**; **CJS-4.2**.
+- Read with: **CF-2.6**; **CF-2.5**; **CF-11**; **CF-12**; **CF-13**; **CJS-4.1**; **CJS-4.2**.
 
 </details>
 
@@ -235,7 +235,7 @@ Chambers must not be used to relabel one forum family as another, to erase famil
 
 <br>
 
-**Joint minimum.** Chamber-creation instruments in scope must satisfy **`corpus_joint_structure.md` CJS-4.1** (*Mandatory hybrid authority composition*). Read that joint rule with **CF-2.5** (*Chamber creation, identification, and family boundary*), this section, and **CF-11** (*Forum continuity, fallback operation, and emergency adjudication*) for chamber identification, attachment bounds, home-based terms, and **forum** emergency deviation and return-to-baseline discipline.
+**Joint minimum.** Chamber-creation instruments in scope must satisfy **`corpus_joint_structure.md` CJS-4.1** (*Mandatory hybrid authority composition*). Read that joint rule with **CF-2.5** (*Chamber creation, identification, and family boundary*), this section, **CF-11** (*Forum continuity*), **CF-12** (*Fallback operation*), and **CF-13** (*Emergency adjudication*) for chamber identification, attachment bounds, home-based terms, and **forum** emergency deviation and return-to-baseline discipline.
 
 Chamber-creation instruments must also state:
 - the chamber's **institutional design class** under `corpus_institutions.md` **CI-9.1B** (*Delegated subunits, institutional design class, and attachment discipline*), using the highest applicable `corpus_systems.md` **Chapter S2** class in governed scope: **Class A** (*absolute dependency*), **Class B** (*operational dependency*), or **Class C** (*coordination dependency*);
@@ -244,7 +244,7 @@ Chamber-creation instruments must also state:
 - the shared home-based continuity rules required by **CJS-4.2** (*published term, renewal, or stagger rules, without requiring a mirror of rotating-attachment rules*);
 - any stricter **Class A** or **Class B** assurance, external-participation, or publication requirement that applies through that institutional-design-class discipline when the chamber's governed scope reaches **absolute dependency** or **operational dependency** stakes.
 
-**Forum-specific rule.** This chamber-authority rule remains operative for **Chapter Nine** forum families and chambers. Where general delegated-subunit rules in **CI-9.1B** (*Delegated subunits, institutional design class, and attachment discipline*) and forum-specific chamber-authority duties in this section overlap, the **stricter** rule governs. Forum-specific continuity and emergency controls remain in **CF-11** (*Forum continuity, fallback operation, and emergency adjudication*).
+**Forum-specific rule.** This chamber-authority rule remains operative for **Chapter Nine** forum families and chambers. Where general delegated-subunit rules in **CI-9.1B** (*Delegated subunits, institutional design class, and attachment discipline*) and forum-specific chamber-authority duties in this section overlap, the **stricter** rule governs. Forum-specific continuity, fallback, and emergency-adjudication controls remain in **CF-11** (*Forum continuity*), **CF-12** (*Fallback operation*), and **CF-13** (*Emergency adjudication*).
 
 ### CF-2.7 Chamber appeals, review, and routing limits
 <details>

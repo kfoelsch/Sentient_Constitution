@@ -106,8 +106,10 @@ LABEL_HINTS = {
     "CF-9": ["Forum Family, Technical", "Epistemic Integrity", "Verifiability"],
     "CF-10": ["Accessibility", "Procedural Fairness", "Accountability"],
     "CF-11": ["Emergency and Contingency", "Evidence Preservation", "Safety (Constraint)"],
-    "CF-12": ["Unified Record", "Evidence Preservation", "Transparency"],
-    "CF-13": ["Governance", "Accountability", "Procedural Fairness"],
+    "CF-12": ["Primary-Stakes Routing", "System Capture", "Contestability"],
+    "CF-13": ["Emergency and Contingency", "Irreversible Harm", "Contestability"],
+    "CF-14": ["Unified Record", "Evidence Preservation", "Transparency"],
+    "CF-15": ["Governance", "Accountability", "Procedural Fairness"],
 }
 
 TERM_ALIASES = {

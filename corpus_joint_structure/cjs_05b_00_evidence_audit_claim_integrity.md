@@ -183,7 +183,7 @@ Read it with:
 - **CJS-5B.2 — Auditability**
 - **CJS-5E.3** (*Implementation and cross-implementation reversibility and containment terms*) and **CJS-5D.3** (*Implementation and cross-implementation data-retention and lifecycle-integrity terms*) — Reversibility and Containment
 - **Chapter One §6.4.1 — Rights-Collision Decision Test**
-- **`corpus_forum.md` CF-11 — Forum continuity, fallback operation, and emergency adjudication**
+- **`corpus_forum.md` CF-11 through CF-13 — Forum continuity, fallback operation, and emergency adjudication**
 - **Article XV-A**
 - **Article VII-B**
 

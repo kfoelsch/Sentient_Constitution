@@ -21,9 +21,11 @@
 | CF-8: Independent investigative service and prosecution interface | [cf_08_independent_investigative_service_prosecution_interface.md](corpus_forum/cf_08_independent_investigative_service_prosecution_interface.md) |
 | CF-9: Technical specialist forums and specialist chambers | [cf_09_technical_specialist_forums_specialist_chambers.md](corpus_forum/cf_09_technical_specialist_forums_specialist_chambers.md) |
 | CF-10: Forum performance, backlog requirements, publication timeliness, and accessibility | [cf_10_performance_backlog_publication_accessibility.md](corpus_forum/cf_10_performance_backlog_publication_accessibility.md) |
-| CF-11: Forum continuity, fallback operation, and emergency adjudication | [cf_11_continuity_fallback_emergency_adjudication.md](corpus_forum/cf_11_continuity_fallback_emergency_adjudication.md) |
-| CF-12: Standard records, forms, and evidence artifacts | [cf_12_standard_records_forms_evidence_artifacts.md](corpus_forum/cf_12_standard_records_forms_evidence_artifacts.md) |
-| CF-13: Forum staffing, reserve capacity, shared administration, structural review, and structural records | [cf_13_staffing_reserve_capacity_structural_records.md](corpus_forum/cf_13_staffing_reserve_capacity_structural_records.md) |
+| CF-11: Forum continuity | [cf_11_forum_continuity.md](corpus_forum/cf_11_forum_continuity.md) |
+| CF-12: Fallback operation | [cf_12_fallback_operation.md](corpus_forum/cf_12_fallback_operation.md) |
+| CF-13: Emergency adjudication | [cf_13_emergency_adjudication.md](corpus_forum/cf_13_emergency_adjudication.md) |
+| CF-14: Standard records, forms, and evidence artifacts | [cf_14_standard_records_forms_evidence_artifacts.md](corpus_forum/cf_14_standard_records_forms_evidence_artifacts.md) |
+| CF-15: Forum staffing, reserve capacity, shared administration, structural review, and structural records | [cf_15_staffing_reserve_capacity_structural_records.md](corpus_forum/cf_15_staffing_reserve_capacity_structural_records.md) |
 
 ---
 

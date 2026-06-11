@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/crossref_matrix.schema.json",
-  "generated_at": "2026-06-11T18:30:48+00:00",
+  "generated_at": "2026-06-11T19:25:28+00:00",
   "description": "Source-derived file-to-file Markdown reference graph.",
   "graph": {
     "nodes": [
@@ -177,15 +177,23 @@
         "type": "companion"
       },
       {
-        "id": "corpus_forum/cf_11_continuity_fallback_emergency_adjudication.md",
+        "id": "corpus_forum/cf_11_forum_continuity.md",
         "type": "companion"
       },
       {
-        "id": "corpus_forum/cf_12_standard_records_forms_evidence_artifacts.md",
+        "id": "corpus_forum/cf_12_fallback_operation.md",
         "type": "companion"
       },
       {
-        "id": "corpus_forum/cf_13_staffing_reserve_capacity_structural_records.md",
+        "id": "corpus_forum/cf_13_emergency_adjudication.md",
+        "type": "companion"
+      },
+      {
+        "id": "corpus_forum/cf_14_standard_records_forms_evidence_artifacts.md",
+        "type": "companion"
+      },
+      {
+        "id": "corpus_forum/cf_15_staffing_reserve_capacity_structural_records.md",
         "type": "companion"
       }
     ],
@@ -3536,17 +3544,27 @@
             "anchors": []
           },
           {
-            "file": "corpus_forum/cf_11_continuity_fallback_emergency_adjudication.md",
+            "file": "corpus_forum/cf_11_forum_continuity.md",
             "count": 1,
             "anchors": []
           },
           {
-            "file": "corpus_forum/cf_12_standard_records_forms_evidence_artifacts.md",
+            "file": "corpus_forum/cf_12_fallback_operation.md",
             "count": 1,
             "anchors": []
           },
           {
-            "file": "corpus_forum/cf_13_staffing_reserve_capacity_structural_records.md",
+            "file": "corpus_forum/cf_13_emergency_adjudication.md",
+            "count": 1,
+            "anchors": []
+          },
+          {
+            "file": "corpus_forum/cf_14_standard_records_forms_evidence_artifacts.md",
+            "count": 1,
+            "anchors": []
+          },
+          {
+            "file": "corpus_forum/cf_15_staffing_reserve_capacity_structural_records.md",
             "count": 1,
             "anchors": []
           }
@@ -5685,7 +5703,7 @@
             ]
           },
           {
-            "file": "corpus_forum/cf_11_continuity_fallback_emergency_adjudication.md",
+            "file": "corpus_forum/cf_11_forum_continuity.md",
             "count": 1,
             "anchors": []
           },
@@ -5706,19 +5724,106 @@
         ]
       },
       {
-        "source": "corpus_forum/cf_11_continuity_fallback_emergency_adjudication.md",
+        "source": "corpus_forum/cf_11_forum_continuity.md",
         "targets": [
           {
             "file": "core_05-05_definitions_a_independent.md",
-            "count": 101,
+            "count": 49,
             "anchors": [
               "#accessibility-constitutional",
               "#accessibility-constitutional-c",
               "#accessibility-constitutional-e",
               "#chapter-five-foundational-definitions",
-              "#redress-and-remediation-constitutional",
-              "#redress-and-remediation-constitutional-c",
-              "#redress-and-remediation-constitutional-e",
+              "#safety-constraint",
+              "#safety-constraint-c",
+              "#safety-constraint-e"
+            ]
+          },
+          {
+            "file": "core_05-05_definitions_b_semi_independent.md",
+            "count": 104,
+            "anchors": [
+              "#accountability",
+              "#accountability-c",
+              "#accountability-e",
+              "#adjudication-and-dispute-resolution-constitutional",
+              "#adjudication-and-dispute-resolution-constitutional-c",
+              "#adjudication-and-dispute-resolution-constitutional-e",
+              "#contestability",
+              "#contestability-c",
+              "#contestability-e",
+              "#emergency-and-contingency-constitutional",
+              "#emergency-and-contingency-constitutional-c",
+              "#emergency-and-contingency-constitutional-e",
+              "#system-definition",
+              "#system-definition-c",
+              "#system-definition-e"
+            ]
+          },
+          {
+            "file": "core_05-05_definitions_c_dependent_clusters.md",
+            "count": 107,
+            "anchors": [
+              "#auditability",
+              "#auditability-c",
+              "#auditability-e",
+              "#authority-stack",
+              "#authority-stack-c",
+              "#authority-stack-e",
+              "#corpus",
+              "#corpus-c",
+              "#corpus-e",
+              "#evidence-preservation",
+              "#evidence-preservation-c",
+              "#evidence-preservation-e",
+              "#transparency",
+              "#transparency-c",
+              "#transparency-e"
+            ]
+          },
+          {
+            "file": "core_09-09_forum.md",
+            "count": 9,
+            "anchors": [
+              "#chapter-nine-forums-and-jurisdiction"
+            ]
+          },
+          {
+            "file": "core_15-15_incorporation.md",
+            "count": 9,
+            "anchors": [
+              "#chapter-fifteen-incorporation-bridge"
+            ]
+          },
+          {
+            "file": "corpus_forum/cf_12_fallback_operation.md",
+            "count": 1,
+            "anchors": []
+          },
+          {
+            "file": "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md",
+            "count": 9,
+            "anchors": [
+              "#cjs-11-shared-implementation-corpus-preamble-contract"
+            ]
+          },
+          {
+            "file": "corpus_joint_structure/cjs_02_implementation_integration_map.md",
+            "count": 10,
+            "anchors": [
+              "#cjs-22-topic-router-stable-ids"
+            ]
+          }
+        ]
+      },
+      {
+        "source": "corpus_forum/cf_12_fallback_operation.md",
+        "targets": [
+          {
+            "file": "core_05-05_definitions_a_independent.md",
+            "count": 28,
+            "anchors": [
+              "#chapter-five-foundational-definitions",
               "#safety-constraint",
               "#safety-constraint-c",
               "#safety-constraint-e",
@@ -5729,11 +5834,95 @@
           },
           {
             "file": "core_05-05_definitions_b_semi_independent.md",
-            "count": 196,
+            "count": 44,
             "anchors": [
-              "#accountability",
-              "#accountability-c",
-              "#accountability-e",
+              "#adjudication-and-dispute-resolution-constitutional",
+              "#adjudication-and-dispute-resolution-constitutional-c",
+              "#adjudication-and-dispute-resolution-constitutional-e",
+              "#contestability",
+              "#contestability-c",
+              "#contestability-e",
+              "#emergency-and-contingency-constitutional",
+              "#emergency-and-contingency-constitutional-c",
+              "#emergency-and-contingency-constitutional-e",
+              "#procedural-fairness-constitutional",
+              "#procedural-fairness-constitutional-c",
+              "#procedural-fairness-constitutional-e"
+            ]
+          },
+          {
+            "file": "core_05-05_definitions_c_dependent_clusters.md",
+            "count": 40,
+            "anchors": [
+              "#authority-stack",
+              "#authority-stack-c",
+              "#authority-stack-e",
+              "#evidence-preservation",
+              "#evidence-preservation-c",
+              "#evidence-preservation-e",
+              "#primary-stakes-routing",
+              "#primary-stakes-routing-c",
+              "#primary-stakes-routing-e",
+              "#unified-record",
+              "#unified-record-c",
+              "#unified-record-e"
+            ]
+          },
+          {
+            "file": "core_09-09_forum.md",
+            "count": 4,
+            "anchors": [
+              "#chapter-nine-forums-and-jurisdiction"
+            ]
+          },
+          {
+            "file": "core_15-15_incorporation.md",
+            "count": 4,
+            "anchors": [
+              "#chapter-fifteen-incorporation-bridge"
+            ]
+          },
+          {
+            "file": "corpus_forum/cf_13_emergency_adjudication.md",
+            "count": 1,
+            "anchors": []
+          },
+          {
+            "file": "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md",
+            "count": 4,
+            "anchors": [
+              "#cjs-11-shared-implementation-corpus-preamble-contract"
+            ]
+          },
+          {
+            "file": "corpus_joint_structure/cjs_02_implementation_integration_map.md",
+            "count": 5,
+            "anchors": [
+              "#cjs-22-topic-router-stable-ids"
+            ]
+          }
+        ]
+      },
+      {
+        "source": "corpus_forum/cf_13_emergency_adjudication.md",
+        "targets": [
+          {
+            "file": "core_05-05_definitions_a_independent.md",
+            "count": 34,
+            "anchors": [
+              "#chapter-five-foundational-definitions",
+              "#redress-and-remediation-constitutional",
+              "#redress-and-remediation-constitutional-c",
+              "#redress-and-remediation-constitutional-e",
+              "#safety-constraint",
+              "#safety-constraint-c",
+              "#safety-constraint-e"
+            ]
+          },
+          {
+            "file": "core_05-05_definitions_b_semi_independent.md",
+            "count": 72,
+            "anchors": [
               "#adjudication-and-dispute-resolution-constitutional",
               "#adjudication-and-dispute-resolution-constitutional-c",
               "#adjudication-and-dispute-resolution-constitutional-e",
@@ -5753,11 +5942,8 @@
           },
           {
             "file": "core_05-05_definitions_c_dependent_clusters.md",
-            "count": 201,
+            "count": 66,
             "anchors": [
-              "#auditability",
-              "#auditability-c",
-              "#auditability-e",
               "#authority-stack",
               "#authority-stack-c",
               "#authority-stack-e",
@@ -5770,46 +5956,40 @@
               "#irreversible-harm",
               "#irreversible-harm-c",
               "#irreversible-harm-e",
-              "#primary-stakes-routing",
-              "#primary-stakes-routing-c",
-              "#primary-stakes-routing-e",
               "#transparency",
               "#transparency-c",
-              "#transparency-e",
-              "#unified-record",
-              "#unified-record-c",
-              "#unified-record-e"
+              "#transparency-e"
             ]
           },
           {
             "file": "core_09-09_forum.md",
-            "count": 17,
+            "count": 6,
             "anchors": [
               "#chapter-nine-forums-and-jurisdiction"
             ]
           },
           {
             "file": "core_15-15_incorporation.md",
-            "count": 17,
+            "count": 6,
             "anchors": [
               "#chapter-fifteen-incorporation-bridge"
             ]
           },
           {
-            "file": "corpus_forum/cf_12_standard_records_forms_evidence_artifacts.md",
+            "file": "corpus_forum/cf_14_standard_records_forms_evidence_artifacts.md",
             "count": 1,
             "anchors": []
           },
           {
             "file": "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md",
-            "count": 17,
+            "count": 6,
             "anchors": [
               "#cjs-11-shared-implementation-corpus-preamble-contract"
             ]
           },
           {
             "file": "corpus_joint_structure/cjs_02_implementation_integration_map.md",
-            "count": 18,
+            "count": 7,
             "anchors": [
               "#cjs-22-topic-router-stable-ids"
             ]
@@ -5817,7 +5997,7 @@
         ]
       },
       {
-        "source": "corpus_forum/cf_12_standard_records_forms_evidence_artifacts.md",
+        "source": "corpus_forum/cf_14_standard_records_forms_evidence_artifacts.md",
         "targets": [
           {
             "file": "core_05-05_definitions_a_independent.md",
@@ -5904,7 +6084,7 @@
             ]
           },
           {
-            "file": "corpus_forum/cf_13_staffing_reserve_capacity_structural_records.md",
+            "file": "corpus_forum/cf_15_staffing_reserve_capacity_structural_records.md",
             "count": 1,
             "anchors": []
           },
@@ -5925,7 +6105,7 @@
         ]
       },
       {
-        "source": "corpus_forum/cf_13_staffing_reserve_capacity_structural_records.md",
+        "source": "corpus_forum/cf_15_staffing_reserve_capacity_structural_records.md",
         "targets": [
           {
             "file": "core_05-05_definitions_a_independent.md",

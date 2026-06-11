@@ -177,7 +177,7 @@ Governance quorum and emergency-sequencing requirements
 
 Emergency governance limits and anti-normalization control
 - OP-O: Pre-deliberation emergency interventions must be minimal, proportionate, time-bounded, subject to mandatory forum review as soon as feasible, and rolled back or restored where feasible.
-- OP-E: Reviewers must verify that emergency powers do not persist without renewed justification, revalidation, and any required CF-11 (*Forum continuity, fallback operation, and emergency adjudication*) emergency-review or restoration pathway.
+- OP-E: Reviewers must verify that emergency powers do not persist without renewed justification, revalidation, and any required CF-13 (*Emergency adjudication*) emergency-review or restoration pathway.
 - OP-C: Emergency action that lacks a forum-review path, or that turns emergency mode into standing governance, is non-compliant.
 
 Records, transparency, and challenge pathway duties
@@ -313,7 +313,7 @@ Read it with:
 - **CJS-5B.2 — Auditability**
 - **CJS-5E.5** (*Implementation and cross-implementation structural review, correction urgency, and disclosure terms*) and **CJS-5B.1** (*Implementation and cross-implementation integrity assurance and resilience operations*) — Evolution, Revalidation, and Non-Entrenchment
 - **Chapter One §6.4.1 — Rights-Collision Decision Test**
-- **`corpus_forum.md` CF-11 — Forum continuity, fallback operation, and emergency adjudication**
+- **`corpus_forum.md` CF-11 through CF-13 — Forum continuity, fallback operation, and emergency adjudication**
 - Core definitions for necessity, proportionality, materiality, burden, and anti-enclosure.
 
 Implementation and cross-implementation burden-of-justification and constraint terms

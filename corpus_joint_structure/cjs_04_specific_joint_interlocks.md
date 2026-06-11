@@ -67,7 +67,7 @@ Home-only or rotation-only structures are non-compliant for ordinarily binding b
 
 Where **CI** and **CF** overlap, the stricter clearly adopted rule governs.
 
-**Mandatory read-with:** **CI-9.1B.1** through **CI-9.1B.4**; **CF-2.5** through **CF-2.8** and **CF-11** as applicable; `corpus_systems.md` **Chapter S2 — System Classification and Handling** and **Chapter S3 — Critical System Stewardship** where classification changes the burden.
+**Mandatory read-with:** **CI-9.1B.1** through **CI-9.1B.4**; **CF-2.5** through **CF-2.8** and **CF-11** through **CF-13** as applicable; `corpus_systems.md` **Chapter S2 — System Classification and Handling** and **Chapter S3 — Critical System Stewardship** where classification changes the burden.
 
 ### CJS-4.2 Shared attachment and continuity mechanics
 <details>
@@ -93,7 +93,7 @@ Where **CJS-4.1** (*Mandatory hybrid authority composition (delegated binding bo
 - a bounded formula for rotating attachment that rotating authorities can understand before service;
 - no undefined discretion over how long rotating attachment lasts;
 - term, renewal, or stagger rules for home-based continuity; and
-- any class-, forum-, institution-, emergency-, or substitution-specific safeguards required by **CI-9.1B** (*Delegated subunits, institutional design class, and attachment discipline*), **CF-2.5** (*Chamber creation, identification, and family boundary*), **CF-11** (*Forum continuity, fallback operation, and emergency adjudication*), or related hooks.
+- any class-, forum-, institution-, emergency-, or substitution-specific safeguards required by **CI-9.1B** (*Delegated subunits, institutional design class, and attachment discipline*), **CF-2.5** (*Chamber creation, identification, and family boundary*), **CF-11** (*Forum continuity*), **CF-12** (*Fallback operation*), **CF-13** (*Emergency adjudication*), or related hooks.
 
 Sample formulas are illustrative unless a domain owner makes them mandatory. Home-based term rules do not need to mirror rotating attachment rules.
 
