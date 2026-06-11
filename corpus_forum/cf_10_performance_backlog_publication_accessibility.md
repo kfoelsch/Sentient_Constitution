@@ -3,7 +3,7 @@
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [CJS-1.1](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-11-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.2](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-22-topic-router-stable-ids) topic router; [Chapter Nine](../core_09-09_forum.md#chapter-nine-forums-and-jurisdiction) forum-family routing; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
-- Downstream: local subsections listed below, with former **CF-10.4** consolidated into **CF-10.1** and former **CF-10.5** consolidated into **CF-10.3**.
+- Downstream: local subsections listed below, with former **CF-10.4** consolidated into **CF-10.2** and former **CF-10.5** consolidated into **CF-10.3**.
 - Read with: **CF-10.1** through **CF-10.3** first, then **CF-10.6** and **CF-10.7**, then the accessibility, publication, monitoring, disclosure, and evidence subsections that follow.
 
 </details>
@@ -44,100 +44,17 @@ It sets minimum requirements for:
 
 This section does not displace stricter lawful deadlines.
 
-**Reader order:** **CF-10.1** states the urgency-scaled service frame, including the notice-through-remediation lifecycle, minimum urgency levels, and local urgency sublevels. **CF-10.2** and **CF-10.3** then set the core rule, performance metrics, and target windows. **CF-10.6** and **CF-10.7** set performance thresholds and required remediation.
+**Reader order:** **CF-10.1** states the core constitutional rule for forum performance. **CF-10.2** then states the urgency-scaled service frame, including the notice-through-remediation lifecycle, minimum urgency levels, and local urgency sublevels. **CF-10.3** applies that rule and taxonomy through performance metrics and target windows. **CF-10.6** and **CF-10.7** set performance thresholds and required remediation.
 
 **CF-10.8** through **CF-10.16** add accessibility, publication, restricted-evidence timing, monitoring, reporting, review cadence, evidence, and cross-layer restriction or re-entry alignment.
 
-### CF-10.1 Urgency-scaled service requirements (notice through remediation closure)
+### CF-10.1 Core rule
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [CJS-1.1](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-11-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.2](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-22-topic-router-stable-ids) topic router; [Chapter Nine](../core_09-09_forum.md#chapter-nine-forums-and-jurisdiction) forum-family routing; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
-- Downstream: this section's local operational requirements for **CF-10.1 Urgency-scaled service requirements (notice through remediation closure)**.
-- Read with: **CF-10.1**; **CF-4.1**; **CF-10.3**; **CF-10.6**; **CF-10.7**.
-
-</details>
-
-<details>
-<summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
-
-- [Proportionality](../core_05-05_definitions_a_independent.md#proportionality) · [O](../core_05-05_definitions_a_independent.md#proportionality) · [E](../core_05-05_definitions_a_independent.md#proportionality-e) · [C](../core_05-05_definitions_a_independent.md#proportionality-c)
-- [Contestability](../core_05-05_definitions_b_semi_independent.md#contestability) · [O](../core_05-05_definitions_b_semi_independent.md#contestability) · [E](../core_05-05_definitions_b_semi_independent.md#contestability-e) · [C](../core_05-05_definitions_b_semi_independent.md#contestability-c)
-- [Accessibility](../core_05-05_definitions_a_independent.md#accessibility-constitutional) · [O](../core_05-05_definitions_a_independent.md#accessibility-constitutional) · [E](../core_05-05_definitions_a_independent.md#accessibility-constitutional-e) · [C](../core_05-05_definitions_a_independent.md#accessibility-constitutional-c)
-- [Stakeholder](../core_05-05_definitions_b_semi_independent.md#stakeholder) · [O](../core_05-05_definitions_b_semi_independent.md#stakeholder) · [E](../core_05-05_definitions_b_semi_independent.md#stakeholder-e) · [C](../core_05-05_definitions_b_semi_independent.md#stakeholder-c)
-- [Governance](../core_05-05_definitions_b_semi_independent.md#governance) · [O](../core_05-05_definitions_b_semi_independent.md#governance) · [E](../core_05-05_definitions_b_semi_independent.md#governance-e) · [C](../core_05-05_definitions_b_semi_independent.md#governance-c)
-- [Systemic](../core_05-05_definitions_a_independent.md#systemic) · [O](../core_05-05_definitions_a_independent.md#systemic) · [E](../core_05-05_definitions_a_independent.md#systemic-e) · [C](../core_05-05_definitions_a_independent.md#systemic-c)
-- [Corpus](../core_05-05_definitions_c_dependent_clusters.md#corpus) · [O](../core_05-05_definitions_c_dependent_clusters.md#corpus) · [E](../core_05-05_definitions_c_dependent_clusters.md#corpus-e) · [C](../core_05-05_definitions_c_dependent_clusters.md#corpus-c)
-
-</details>
-
-<br>
-
-
-#### CF-10.1.1 Purpose and owner boundary
-
-This subsection applies **Contestability** and `corpus_joint_structure.md` **CJS-5A.6** (*Implementation and cross-implementation procedural integrity and adjudication terms*) to forum timing, quality, damage, accessibility, publication, and remediation discipline. The point is practical usability: notice, record access, review, appeal, restorative follow-through, and closure must still work in real conditions.
-
-It does **not** add **Chapter Ten** rights text. Operational detail for non-forum institutions sits in **`corpus_institutions.md`** **CI-6** (*Procedure integrity, contestability, and secondary review*), **CI-12** (*Transparency, participation, and accessible pathways*), and **CI-13** (*Institutional failure, sanctions, dissolution, and accountability*).
-
-The **CF-10** key performance indicators (**KPIs**) attach to the service lifecycle defined below. Timeliness and aging metrics show whether the lifecycle is moving; accuracy indicators show whether speed is producing reliable adjudication; accessibility and publication metrics show whether parties can use and contest the process; forum-damage ratings show whether the forum itself is causing or worsening harm; constitutional-alignment scores show whether the forum family or chamber remains fit for continued authority; remediation-closure metrics show whether failures are corrected rather than narrated.
-
-#### CF-10.1.2 Service lifecycle traceability
-
-Each matter must remain traceable across the service lifecycle:
-- intake acknowledgement and urgency designation;
-- routing, transfer, certification, and panel-formation action;
-- notice, pathway explanation, record access, and accessibility support;
-- emergency or interim-relief review where applicable;
-- decision, reasoned-record publication, and restricted-evidence handling;
-- appeal, secondary review, reconsideration, or correction where available;
-- remediation ownership, reassessment, and closure where a threshold condition or forum-caused harm is found.
-
-#### CF-10.1.3 Minimum urgency levels
-
-Minimum urgency levels for target windows and disclosure are:
-- **Emergency / imminent harm** — hours to a small number of days for initial responsive action where life, serious injury, or irreversible rights loss is at stake.
-- **Survival-critical** — access to essentials, shelter, or lawful livelihood tools; priority routing and short review cycles.
-- **High-impact** — durable standing, systemic pattern, or large affected population; stronger publication and remediation duties when delay crosses published thresholds.
-- **Structural or class-wide** — matters affecting forum design, class-wide treatment, repeated pathway failure, or large-pattern institutional behavior; publish aging and remediation data in forms that expose aggregate delay.
-- **Restricted-evidence** — matters where lawful secrecy, protected investigation, or restricted evidence affects processing; track delay separately so secrecy constraints do not conceal timing failure.
-- **Ordinary** — default class for contested civil and administrative matters.
-- **Low-impact** — may use longer targets only where **Proportionality** supports it and challenge rights stay meaningful.
-
-Performance tracking must use these urgency levels as the minimum reporting taxonomy for target windows, open-case aging, accuracy indicators, accessibility and publication performance, forum-damage ratings, constitutional-alignment scores, threshold crossings, and remediation records.
-
-Forum systems may add finer local urgency levels or urgency sublevels, including specialized emergency, rights-floor, technical, restricted-evidence, or structural categories. Those local levels or sublevels must remain mappable to the **CF-10.1** minimum levels and must not merge, rename, or aggregate categories in ways that conceal delay in the most rights-sensitive matters. Published intake priority classes under **CF-4.1** (*Published intake classes*) must remain compatible with this taxonomy.
-
-References to former **CF-10.4** (*Case classes and urgency classes*) should be read as references to this urgency-level component of **CF-10.1**.
-
-#### CF-10.1.4 Cross-layer requirements and escalation
-
-Forums publish urgency-scaled metrics and target windows under **CF-10.3** (*Minimum performance metrics and target windows*). Institutions publish compatible **notice and pathway** requirements under **CI-6** (*Procedure integrity, contestability, and secondary review*) and **CI-12** (*Transparency, participation, and accessible pathways*).
-
-When **backlog**, **accessibility**, **accuracy**, **publication**, **forum-damage**, **constitutional-alignment**, or **remediation-closure** failures cross **CF-10.6** (*Performance thresholds and alerts*) thresholds, **CF-10.7** (*Required remediation actions for threshold crossings*) remediation applies. **CI-7.3** (*Contest-integrity monitoring (Class A and Class B)*) and **CI-8** (*Cross-institution coordination and escalation*) escalation paths also apply where warranted.
-
-**Stakeholder-facing** performance, threshold, delay, damage, and remediation disclosure must be intelligible without specialist training, subject to lawful secrecy limits.
-
-#### CF-10.1.5 Assurance scenarios
-
-Scenario coverage is for assurance, not doctrine. Each adopting entity must periodically test at least the following scenario classes and retain the scenario record in governance evidence stores:
-- **Delayed notice:** confirm that missed acknowledgement, routing, panel, or delay-notice windows are detected, classified by **CF-10.1** urgency level, disclosed to affected parties, and routed into **CF-10.6** threshold review where the delay is material.
-- **Inaccessible records or pathways:** confirm that a party who cannot use the ordinary filing, status, evidence-access, or challenge pathway receives an accessible substitute before review rights or remedy become meaningless.
-- **Appeal or secondary-review backlog:** confirm that aging appeals, reconsideration requests, and secondary reviews are visible separately from first-instance matters and trigger priority review before practical remedy hardens.
-- **Publication failure:** confirm that delayed reasoned records receive docket-visible status markers, lawful restriction explanations, publication or reconstruction dates, and escalation when publication delay impairs challenge rights.
-- **Accuracy-pattern failure:** confirm that repeated reversal, vacatur (a decision being set aside or voided), remand, correction, or material-modification patterns are separated from ordinary legal disagreement and routed to diagnosis, training, evidence-handling, independence, or doctrine review as appropriate.
-- **Forum-caused harm:** confirm that rights loss, remedy loss, evidentiary degradation, retaliation exposure, unlawful exclusion, accessibility failure, dependency harm, or compounding delay caused by forum action or inaction receives a forum-damage rating, containment action, notice, and remediation owner.
-- **Failed restorative follow-through:** confirm that remediation is not closed until corrective action, reassessment date, owner accountability, affected-party notice, and restoration or re-entry alignment are recorded.
-
-Each scenario record must state the tested urgency level, affected forum family or chamber, triggering facts, expected target window or threshold, actual outcome, corrective action, owner, reassessment date, and any disclosure withheld under lawful restriction.
-
-### CF-10.2 Core rule
-<details>
-<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
-
-- Upstream: [CJS-1.1](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-11-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.2](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-22-topic-router-stable-ids) topic router; [Chapter Nine](../core_09-09_forum.md#chapter-nine-forums-and-jurisdiction) forum-family routing; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
-- Downstream: this section's local operational requirements for **CF-10.2 Core rule**.
-- Read with: **CF-10.2**.
+- Downstream: this section's local operational requirements for **CF-10.1 Core rule**.
+- Read with: **CF-10.1**.
 
 </details>
 
@@ -163,6 +80,89 @@ Forum performance must be measured against whether affected parties retain a pra
 - secure urgent relief when delay would produce irreversible or materially compounding harm.
 
 Backlog is constitutionally relevant when it materially degrades challenge rights, independent review, remedy, or trust in lawful adjudication. Where **material reliance** on timely or accessible adjudication is at issue, evaluate under **`core_05-05_definitions_c_dependent_clusters.md` Chapter Five, section 3.39** *Trust Degradation and Misleading Reliance* together with **Contestability** and **Transparency**.
+
+### CF-10.2 Urgency-scaled service requirements (notice through remediation closure)
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Upstream: [CJS-1.1](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-11-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.2](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-22-topic-router-stable-ids) topic router; [Chapter Nine](../core_09-09_forum.md#chapter-nine-forums-and-jurisdiction) forum-family routing; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
+- Downstream: this section's local operational requirements for **CF-10.2 Urgency-scaled service requirements (notice through remediation closure)**.
+- Read with: **CF-10.2**; **CF-4.1**; **CF-10.3**; **CF-10.6**; **CF-10.7**.
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
+
+- [Proportionality](../core_05-05_definitions_a_independent.md#proportionality) · [O](../core_05-05_definitions_a_independent.md#proportionality) · [E](../core_05-05_definitions_a_independent.md#proportionality-e) · [C](../core_05-05_definitions_a_independent.md#proportionality-c)
+- [Contestability](../core_05-05_definitions_b_semi_independent.md#contestability) · [O](../core_05-05_definitions_b_semi_independent.md#contestability) · [E](../core_05-05_definitions_b_semi_independent.md#contestability-e) · [C](../core_05-05_definitions_b_semi_independent.md#contestability-c)
+- [Accessibility](../core_05-05_definitions_a_independent.md#accessibility-constitutional) · [O](../core_05-05_definitions_a_independent.md#accessibility-constitutional) · [E](../core_05-05_definitions_a_independent.md#accessibility-constitutional-e) · [C](../core_05-05_definitions_a_independent.md#accessibility-constitutional-c)
+- [Stakeholder](../core_05-05_definitions_b_semi_independent.md#stakeholder) · [O](../core_05-05_definitions_b_semi_independent.md#stakeholder) · [E](../core_05-05_definitions_b_semi_independent.md#stakeholder-e) · [C](../core_05-05_definitions_b_semi_independent.md#stakeholder-c)
+- [Governance](../core_05-05_definitions_b_semi_independent.md#governance) · [O](../core_05-05_definitions_b_semi_independent.md#governance) · [E](../core_05-05_definitions_b_semi_independent.md#governance-e) · [C](../core_05-05_definitions_b_semi_independent.md#governance-c)
+- [Systemic](../core_05-05_definitions_a_independent.md#systemic) · [O](../core_05-05_definitions_a_independent.md#systemic) · [E](../core_05-05_definitions_a_independent.md#systemic-e) · [C](../core_05-05_definitions_a_independent.md#systemic-c)
+- [Corpus](../core_05-05_definitions_c_dependent_clusters.md#corpus) · [O](../core_05-05_definitions_c_dependent_clusters.md#corpus) · [E](../core_05-05_definitions_c_dependent_clusters.md#corpus-e) · [C](../core_05-05_definitions_c_dependent_clusters.md#corpus-c)
+
+</details>
+
+<br>
+
+
+#### CF-10.2.1 Purpose and owner boundary
+
+This subsection applies **Contestability** and `corpus_joint_structure.md` **CJS-5A.6** (*Implementation and cross-implementation procedural integrity and adjudication terms*) to forum timing, quality, damage, accessibility, publication, and remediation discipline. The point is practical usability: notice, record access, review, appeal, restorative follow-through, and closure must still work in real conditions.
+
+It does **not** add **Chapter Ten** rights text. Operational detail for non-forum institutions sits in **`corpus_institutions.md`** **CI-6** (*Procedure integrity, contestability, and secondary review*), **CI-12** (*Transparency, participation, and accessible pathways*), and **CI-13** (*Institutional failure, sanctions, dissolution, and accountability*).
+
+The **CF-10** key performance indicators (**KPIs**) attach to the service lifecycle defined below. Timeliness and aging metrics show whether the lifecycle is moving; accuracy indicators show whether speed is producing reliable adjudication; accessibility and publication metrics show whether parties can use and contest the process; forum-damage ratings show whether the forum itself is causing or worsening harm; constitutional-alignment scores show whether the forum family or chamber remains fit for continued authority; remediation-closure metrics show whether failures are corrected rather than narrated.
+
+#### CF-10.2.2 Service lifecycle traceability
+
+Each matter must remain traceable across the service lifecycle:
+- intake acknowledgement and urgency designation;
+- routing, transfer, certification, and panel-formation action;
+- notice, pathway explanation, record access, and accessibility support;
+- emergency or interim-relief review where applicable;
+- decision, reasoned-record publication, and restricted-evidence handling;
+- appeal, secondary review, reconsideration, or correction where available;
+- remediation ownership, reassessment, and closure where a threshold condition or forum-caused harm is found.
+
+#### CF-10.2.3 Minimum urgency levels
+
+Minimum urgency levels for target windows and disclosure are:
+- **Emergency / imminent harm** — hours to a small number of days for initial responsive action where life, serious injury, or irreversible rights loss is at stake.
+- **Survival-critical** — access to essentials, shelter, or lawful livelihood tools; priority routing and short review cycles.
+- **High-impact** — durable standing, systemic pattern, or large affected population; stronger publication and remediation duties when delay crosses published thresholds.
+- **Structural or class-wide** — matters affecting forum design, class-wide treatment, repeated pathway failure, or large-pattern institutional behavior; publish aging and remediation data in forms that expose aggregate delay.
+- **Restricted-evidence** — matters where lawful secrecy, protected investigation, or restricted evidence affects processing; track delay separately so secrecy constraints do not conceal timing failure.
+- **Ordinary** — default class for contested civil and administrative matters.
+- **Low-impact** — may use longer targets only where **Proportionality** supports it and challenge rights stay meaningful.
+
+Performance tracking must use these urgency levels as the minimum reporting taxonomy for target windows, open-case aging, accuracy indicators, accessibility and publication performance, forum-damage ratings, constitutional-alignment scores, threshold crossings, and remediation records.
+
+Forum systems may add finer local urgency levels or urgency sublevels, including specialized emergency, rights-floor, technical, restricted-evidence, or structural categories. Those local levels or sublevels must remain mappable to the **CF-10.2** minimum levels and must not merge, rename, or aggregate categories in ways that conceal delay in the most rights-sensitive matters. Published intake priority classes under **CF-4.1** (*Published intake classes*) must remain compatible with this taxonomy.
+
+References to former **CF-10.4** (*Case classes and urgency classes*) should be read as references to this urgency-level component of **CF-10.2**.
+
+#### CF-10.2.4 Cross-layer requirements and escalation
+
+Forums publish urgency-scaled metrics and target windows under **CF-10.3** (*Minimum performance metrics and target windows*). Institutions publish compatible **notice and pathway** requirements under **CI-6** (*Procedure integrity, contestability, and secondary review*) and **CI-12** (*Transparency, participation, and accessible pathways*).
+
+When **backlog**, **accessibility**, **accuracy**, **publication**, **forum-damage**, **constitutional-alignment**, or **remediation-closure** failures cross **CF-10.6** (*Performance thresholds and alerts*) thresholds, **CF-10.7** (*Required remediation actions for threshold crossings*) remediation applies. **CI-7.3** (*Contest-integrity monitoring (Class A and Class B)*) and **CI-8** (*Cross-institution coordination and escalation*) escalation paths also apply where warranted.
+
+**Stakeholder-facing** performance, threshold, delay, damage, and remediation disclosure must be intelligible without specialist training, subject to lawful secrecy limits.
+
+#### CF-10.2.5 Assurance scenarios
+
+Scenario coverage is for assurance, not doctrine. Each adopting entity must periodically test at least the following scenario classes and retain the scenario record in governance evidence stores:
+- **Delayed notice:** confirm that missed acknowledgement, routing, panel, or delay-notice windows are detected, classified by **CF-10.2** urgency level, disclosed to affected parties, and routed into **CF-10.6** threshold review where the delay is material.
+- **Inaccessible records or pathways:** confirm that a party who cannot use the ordinary filing, status, evidence-access, or challenge pathway receives an accessible substitute before review rights or remedy become meaningless.
+- **Appeal or secondary-review backlog:** confirm that aging appeals, reconsideration requests, and secondary reviews are visible separately from first-instance matters and trigger priority review before practical remedy hardens.
+- **Publication failure:** confirm that delayed reasoned records receive docket-visible status markers, lawful restriction explanations, publication or reconstruction dates, and escalation when publication delay impairs challenge rights.
+- **Accuracy-pattern failure:** confirm that repeated reversal, vacatur (a decision being set aside or voided), remand, correction, or material-modification patterns are separated from ordinary legal disagreement and routed to diagnosis, training, evidence-handling, independence, or doctrine review as appropriate.
+- **Forum-caused harm:** confirm that rights loss, remedy loss, evidentiary degradation, retaliation exposure, unlawful exclusion, accessibility failure, dependency harm, or compounding delay caused by forum action or inaction receives a forum-damage rating, containment action, notice, and remediation owner.
+- **Failed restorative follow-through:** confirm that remediation is not closed until corrective action, reassessment date, owner accountability, affected-party notice, and restoration or re-entry alignment are recorded.
+
+Each scenario record must state the tested urgency level, affected forum family or chamber, triggering facts, expected target window or threshold, actual outcome, corrective action, owner, reassessment date, and any disclosure withheld under lawful restriction.
 
 ### CF-10.3 Minimum performance metrics and target windows
 <details>
@@ -202,7 +202,7 @@ Each forum family must publish and maintain both metrics and target windows for 
 - time from transfer or certification request to decision;
 - time from full submission to provisional ruling, where that stage exists;
 - time from final determination to publication of a reasoned record, subject to lawful restrictions;
-- open-case aging by **CF-10.1** urgency level and any local urgency sublevel;
+- open-case aging by **CF-10.2** urgency level and any local urgency sublevel;
 - decision-accuracy indicators, including reversal, vacatur (a decision being set aside or voided), material modification, remand, or correction rates after appeal, secondary review, reconsideration, or later controlling evidence;
 - forum-damage ratings for harm caused by the forum process itself, including rights loss, remedy loss, evidentiary degradation, retaliation exposure, unlawful exclusion, accessibility failure, dependency harm, and compounding delay;
 - constitutional-alignment score for the forum family or chamber, with separately visible inputs for timeliness, accessibility, accuracy, independence, record integrity, remediation performance, damage rating, and any verified standing-model findings affecting the forum, institution, or responsible roles;
@@ -210,7 +210,7 @@ Each forum family must publish and maintain both metrics and target windows for 
 - pending transfer or certification requests;
 - emergency matters awaiting interim review.
 
-Target windows must be published by **CF-10.1** urgency level and any local urgency sublevel. For emergency or Rights-Floor matters, targets must be materially shorter than for ordinary civil matters. Publication target windows required here establish the performance floor; fuller publication duties remain governed by **CF-10.9** (*Publication timeliness*).
+Target windows must be published by **CF-10.2** urgency level and any local urgency sublevel. For emergency or Rights-Floor matters, targets must be materially shorter than for ordinary civil matters. Publication target windows required here establish the performance floor; fuller publication duties remain governed by **CF-10.9** (*Publication timeliness*).
 
 Decision-accuracy indicators must distinguish ordinary legal disagreement, changed facts or law, harmless correction, procedural defect, evidentiary insufficiency, rights-floor breach, and material merits error where the reviewing record permits that distinction. They must be tracked by forum family, urgency level, and reviewing pathway so a system cannot mask recurring low-quality adjudication behind favorable speed or backlog metrics.
 
@@ -259,7 +259,7 @@ Every forum family must define:
 - a `constitutional alignment failure threshold`;
 - a `dissolution or disbandment trigger threshold`.
 
-Thresholds must be set by **CF-10.1** urgency level and any local urgency sublevel. They must trigger progressively stronger actions.
+Thresholds must be set by **CF-10.2** urgency level and any local urgency sublevel. They must trigger progressively stronger actions.
 
 At minimum:
 - aging alert threshold triggers internal review and scheduling explanation;
@@ -298,7 +298,7 @@ At minimum:
 <br>
 
 When a backlog, accessibility, accuracy, publication, remediation-closure, forum-damage, constitutional-alignment, or dissolution / disbandment threshold is crossed, the forum system must produce an attributable record stating:
-- the affected **CF-10.1** urgency level and any local urgency sublevel;
+- the affected **CF-10.2** urgency level and any local urgency sublevel;
 - the duration and scale of the threshold condition;
 - the likely causes or causal pathways;
 - whether rights, review, evidence quality, or remedy have been materially jeopardized;
@@ -449,7 +449,7 @@ For such matters, systems must separately track:
 <br>
 
 Contest-integrity monitors under `corpus_institutions.md` **CI-7.3** (*Contest-integrity monitoring (Class A and Class B)*) must review forum-performance data on a published cadence and assess:
-- persistent delay by family, **CF-10.1** urgency level, or local urgency sublevel;
+- persistent delay by family, **CF-10.2** urgency level, or local urgency sublevel;
 - whether backlogs track conflict, capture, or retaliation indicators;
 - whether recusal disputes are being used to stall matters;
 - whether emergency dockets are receiving timely attention;
@@ -483,7 +483,7 @@ Material findings must feed remediation and, where warranted, `corpus_institutio
 <br>
 
 The standard governance report should include at minimum:
-- current backlog by forum family, **CF-10.1** urgency level, and local urgency sublevel where used;
+- current backlog by forum family, **CF-10.2** urgency level, and local urgency sublevel where used;
 - number of cases beyond each threshold band;
 - median and percentile routing times;
 - panel-formation times;
