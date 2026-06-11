@@ -56,6 +56,7 @@ Every forum family must maintain a composition framework that, at minimum:
 - specifies disqualification standards for service, including incapacity, incompatibility, and any role combinations that would undermine independence;
 - preserves impartiality and prevents durable control by any single appointing authority, institution, political bloc, funder, profession, or stakeholder network;
 - provides enough subject-matter breadth that the family can hear its ordinary caseload without routine improvisation of competence;
+- defines ordinary role responsibilities at the most general level compatible with lawful competence, independence, and subject-matter need, so qualified personnel can provide cross-forum, cross-chamber, reserve, or substitute backup where feasible;
 - includes succession, rotation, renewal-limit, or cooling-off rules where needed to reduce concentration, dependency, or capture risk;
 - distinguishes judicial decision authority from advisory, clerical, forensic, or investigative support roles;
 - identifies any seat categories or qualification mixes needed for specialized chambers or designated panels.
@@ -63,6 +64,8 @@ Every forum family must maintain a composition framework that, at minimum:
 Detailed appointment, tenure, rotation, removal, and conflict-control pathways remain governed by `corpus_institutions.md` **CI-4** (*Appointment, competency, rotation, and removal*) and **CI-5** (*Conflict integrity, anti-capture, and anti-corruption*), together with `core_10-10_rights_part_d.md` **Article XXIII-B** where applicable. **CF-15** (*Forum staffing, reserve capacity, shared administration, structural review, and structural records*) requires those protections to be reflected in the actual forum map and staffing model.
 
 Forum design must not make constitutionally material adjudication depend on a single indispensable officeholder, gatekeeper, or qualification bottleneck where a lawful multi-sentient structure is feasible.
+
+Specialized seat categories, chamber qualifications, or role-specific competence requirements may be required where lawful subject-matter need justifies them. They must not be framed more narrowly than necessary in a way that creates avoidable credential silos, cross-forum backup incapacity, or reserve-capacity failure.
 
 #### CF-15.1.1 Support-role-to-adjudicator pathways
 <details>
