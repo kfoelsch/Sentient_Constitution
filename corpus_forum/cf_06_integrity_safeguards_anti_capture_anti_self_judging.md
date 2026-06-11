@@ -173,7 +173,7 @@ Recognition is scope-bound and time-bound by its stated cadence and reopening tr
 
 - Upstream: [CJS-1.1](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-11-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.2](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-22-topic-router-stable-ids) topic router; [Chapter Nine](../core_09-09_forum.md#chapter-nine-forums-and-jurisdiction) forum-family routing; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
 - Downstream: this section's local operational requirements for **CF-6.3 Anti-self-judging activation, capture-sensitive routing, contest-integrity interfaces, and family-level capture**.
-- Read with: **CF-6.3**; **CF-3.9**; **CF-3.10**; **CF-3.11**; **CF-4**; **CF-5**; **CF-7**; **CF-8**; `corpus_institutions.md` **CI-5**, **CI-7.3**, and **CI-8**.
+- Read with: **CF-6.3**; **CF-3.9**; **CF-3.10**; **CF-3.11**; **CF-4**; **CF-5**; **CF-7**; **CF-8**; `corpus_institutions.md` **CI-5**, **CI-7.3**, and **CI-11**.
 
 </details>
 
@@ -234,7 +234,7 @@ For constitutional alignment recognition, validation, revalidation, withdrawal, 
 - who controls the technical evidence, incident history, audit access, environmental component record, classification assumptions, and contest pathway;
 - whether the operator, steward, institutional sponsor, or forum-adjacent unit has a material incentive or dependency that could distort recognition or revalidation;
 - whether technical, Environment, Institutional, Sentient, or Constitutional component questions require referral, certification, or stay;
-- whether contest-integrity monitoring, independent forensic support, external assurance, or **CI-8** escalation is needed to make the record reviewable.
+- whether contest-integrity monitoring, independent forensic support, external assurance, or **CI-11** (*Cross-institution coordination and escalation*) escalation is needed to make the record reviewable.
 
 Where the same institution or system steward materially controls both the system under review and the ordinary contest pathway, the record must explain why the pathway remains independent enough to proceed or must activate backup routing, external assurance, or both. Conditional recognition may not be used to defer unresolved capture or self-review defects that would defeat practical contestability.
 
@@ -253,7 +253,7 @@ Where internal process remains available, the forum record must state what issue
 
 Contest-integrity monitors under `corpus_institutions.md` **CI-7.3** assess whether contest, secondary review, audit access, and protected escalation pathways function in practice. They may provide pattern findings, pathway records, independence observations, backlog data, escalation history, and evidence-availability information to support anti-self-judging activation, refusal, transfer, or remediation. They must not silently become the merits forum for the underlying dispute.
 
-Where feasible in cross-forum anti-self-judging cases, the **CF-3.10** certifier should include or obtain review from contest-integrity or equivalent independent assurance capacity. The resulting monitor material must be kept distinct from case-specific forensic support under **CF-7** and from independent investigative-service work under **CF-8**. If monitor findings indicate material pathway failure beyond the case, the forum may refer the structural matter to remediation, external assurance, or **CI-8** escalation while preserving the assigned merits forum for the dispute.
+Where feasible in cross-forum anti-self-judging cases, the **CF-3.10** (*Certifier for inability-to-form findings*) certifier should include or obtain review from contest-integrity or equivalent independent assurance capacity. The resulting monitor material must be kept distinct from case-specific forensic support under **CF-7** and from independent investigative-service work under **CF-8**. If monitor findings indicate material pathway failure beyond the case, the forum may refer the structural matter to remediation, external assurance, or **CI-11** (*Cross-institution coordination and escalation*) escalation while preserving the assigned merits forum for the dispute.
 
 #### CF-6.3.7 Recusal-Abuse and Routing-Abuse Detection
 
@@ -264,7 +264,7 @@ Forum systems must track recusal, reassignment, transfer, threshold dismissal, b
 - using emergency, continuity, or restricted-evidence procedures to bypass recusal, publication, contest, or backup-forum obligations;
 - treating contest-integrity monitoring, forensic support, or internal integrity review as a substitute for the forum family assigned by Chapter Nine.
 
-When such a pattern is material, the record must identify whether immediate backup routing, panel reconstitution, external assurance, **CI-8** escalation, or continuity, fallback, or emergency-adjudication measures under **CF-11** through **CF-13** are required.
+When such a pattern is material, the record must identify whether immediate backup routing, panel reconstitution, external assurance, **CI-11** (*Cross-institution coordination and escalation*) escalation, or continuity, fallback, or emergency-adjudication measures under **CF-11** through **CF-13** are required.
 
 #### CF-6.3.8 Family-Level Capture Activation
 

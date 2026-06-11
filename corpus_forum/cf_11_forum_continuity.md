@@ -99,12 +99,12 @@ Emergency simplification must not become a pretext to extinguish contestability.
 <br>
 
 Each adopting entity must publish at least these forum continuity modes:
-- `Normal`
-- `Degraded`
-- `Emergency limited-capacity`
-- `Fallback / backup-forum operation`
-- `Family-capture continuity`
-- `Restoration and reconciliation`
+- Normal
+- Degraded
+- Emergency limited-capacity
+- Fallback / backup-forum operation
+- Family-capture continuity
+- Restoration and reconciliation
 
 Mode transitions must be trigger-defined, attributable, auditable, and reversible when triggering conditions clear.
 

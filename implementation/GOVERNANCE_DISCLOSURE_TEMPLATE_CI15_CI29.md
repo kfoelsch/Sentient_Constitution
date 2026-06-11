@@ -1,6 +1,6 @@
-# Governance disclosure template (CI-12 / CI-16)
+# Governance disclosure template (CI-15 / CI-29)
 
-**Maps to:** `corpus_institutions.md` **CI-12** (*Transparency, participation, accessible pathways*), **CI-12.2** (*Governance disclosure schema*), **CI-16** (*Compliance mapping and stable registry*).  
+**Maps to:** `corpus_institutions.md` **CI-15** (*Transparency, participation, accessible pathways*), **CI-15.4** (*Governance disclosure schema*), **CI-29** (*Compliance mapping and stable registry*).  
 **Non-authoritative** unless adopted.
 
 ## Publication cadence
@@ -22,7 +22,7 @@
 ## Comparison fields (period-over-period)
 
 - Participation rate, contest outcomes, backlog against **CF-10** targets where forums are in scope.
-- Integrity incidents and closure status (**CI-5** / **CI-13**).
+- Integrity incidents and closure status (**CI-5** / **CI-16**).
 
 ## Model flexibility
 

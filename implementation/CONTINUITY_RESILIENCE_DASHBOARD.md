@@ -27,4 +27,4 @@
 
 ## Residual transition risks
 
-- (list or link to `corpus_systems.md` Protocol T / **CI-14** reviews)
+- (list or link to `corpus_systems.md` Protocol T / **CI-17** reviews)

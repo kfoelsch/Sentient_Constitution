@@ -73,7 +73,7 @@ Specialized seat categories, chamber qualifications, or role-specific competence
 
 - Upstream: [CJS-1.1](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-11-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.2](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-22-topic-router-stable-ids) topic router; [Chapter Eleven §5](../core_11-11_governance.md#5-authorized-roles-competency-development-and-contribution) authorized roles, competency development, and contribution; [Chapter Nine](../core_09-09_forum.md#chapter-nine-forums-and-jurisdiction) forum-family routing; and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
 - Downstream: this section's local operational requirements for **CF-15.1.1 Support-role-to-adjudicator pathways**; [CF-15.6 Required structural records and artifacts](#cf-156-required-structural-records-and-artifacts).
-- Read with: **CF-15.1.1**; **CF-15.1**; **CF-15.2**; **CF-3**; **CF-7**; `corpus_institutions.md` **CI-4** (*Appointment, competency, rotation, and removal*) and **CI-12** (*Transparency, participation, and accessible pathways*).
+- Read with: **CF-15.1.1**; **CF-15.1**; **CF-15.2**; **CF-3**; **CF-7**; `corpus_institutions.md` **CI-4** (*Appointment, competency, rotation, and removal*) and **CI-15** (*Transparency, participation, and accessible pathways*).
 
 </details>
 
@@ -212,7 +212,7 @@ The following patterns are non-compliant:
 - nominally independent specialist chambers that depend on the regulated sector, dominant profession, or interested institution for member selection, promotion, or livelihood in ways that predictably distort adjudication;
 - reserve-capacity designs that exist formally but cannot realistically be activated on short notice.
 
-Repeated resort to these patterns may be treated as a capture, evasion, or contestability failure under `corpus_institutions.md` **CI-8** (*Cross-institution coordination and escalation*) and related integrity provisions.
+Repeated resort to these patterns may be treated as a capture, evasion, or contestability failure under `corpus_institutions.md` **CI-11** (*Cross-institution coordination and escalation*) and related integrity provisions.
 
 ### CF-15.5 Structural review and revision cadence
 <details>

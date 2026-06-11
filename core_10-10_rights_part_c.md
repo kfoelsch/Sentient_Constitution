@@ -83,7 +83,7 @@ Trustworthiness must be evaluated across time, scale, and dependency relationshi
   - receive acknowledgment and proportionate remediation where failures materially impact them;
   - make **protected reports** within the meaning of **Chapter Five** (*Protected Reporting (Whistleblowing)*) concerning systems that materially affect them, consistent with **Safety (Constraint)** and **Truth (Constraint)** in **Chapter Five**.
 - **No retaliation:** Retaliation against such reporting, within the meaning of that definition, is incompatible with the protections in this Article.
-  - Protected escalation and anti-retaliation implementation requirements are stated in **`corpus_institutions.md`** (**CI-12** (*Transparency, participation, and accessible pathways*); **`INST-PROTO-12`**).
+  - Protected escalation and anti-retaliation implementation requirements are stated in **`corpus_institutions.md`** (**CI-15** (*Transparency, participation, and accessible pathways*); **`INST-PROTO-12`**).
 #### Article XII-C: Prohibition of False Trust and Misleading Reliance
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>

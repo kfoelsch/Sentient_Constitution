@@ -160,7 +160,7 @@ That includes budget, staffing, records, security, procurement, clerking, digita
 
 <br>
 
-When an institution supervises systems governed by `corpus_systems.md` **Chapter S2** or **Chapter S3**, its published maps under **CI-9.1A** (*Published industry and domain mapping*) and related **CI-9** (*Classification-linked institutional obligations*) material must match the operative systems classification profile, including reclassification triggers.
+When an institution supervises systems governed by `corpus_systems.md` **Chapter S2** or **Chapter S3**, its published maps under **CI-12.2** (*Published industry and domain mapping*) and related **CI-12** (*Classification-linked institutional obligations*) material must match the operative systems classification profile, including reclassification triggers.
 
 It is non-compliant to use one label for institutional supervision and a different practical treatment in the systems implementation file when classification creates material duties.
 

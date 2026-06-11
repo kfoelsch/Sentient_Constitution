@@ -325,7 +325,7 @@ Where material disagreement requires a **binding stakeholder choice** within an 
 
 - Upstream: [§1](#1-authorization-and-legitimacy-of-governing-authority)–[§4](#4-voting-and-binding-collective-choice-protocols) how authority is authorized, recorded, and exercised in collective choice.
 - Downstream: Role integrity and due-process requirements in [Article XI-D: Internal Roles, Accountability, and Due-Process Requirements](core_10-10_rights_part_b.md#article-xi-d-internal-roles-accountability-and-due-process-requirements); **corpus** design and lane hooks in [corpus_systems.md](corpus_systems.md), [corpus_institutions.md](corpus_institutions.md), and [corpus_joint_structure.md](corpus_joint_structure.md) as cited below.
-- Read with: **[corpus_systems.md](corpus_systems.md)** (**Chapter S3**, Protocol S5) and **CI-4** / **CI-11** / **CI-12** in the implementation corpus referenced in operative text.
+- Read with: **[corpus_systems.md](corpus_systems.md)** (**Chapter S3**, Protocol S5) and **CI-4** / **CI-14** / **CI-15** in the implementation corpus referenced in operative text.
 
 </details>
 
@@ -337,9 +337,9 @@ Material stewardship and operation require **sentients** who can **exercise** au
 
 - **Authorized-role and competency floor:** Adopters must maintain documented, auditable, and challengeable role definitions and competency or succession capacity proportionate to impact and classification. Constitutional duties must not depend on single points of sentient-level failure. Class-scaled lane staffing and competency-redundancy interlocks that combine **`corpus_systems.md`** classification profile with **`corpus_institutions.md`** lane design are applied through **`corpus_joint_structure.md` CJS-4.6** (*Class-scaled lane staffing and competency redundancy*) and its routed owner hooks.
 - **Open pathways and incentive integrity floor:** Qualified sentients must have non-arbitrary pathways into progressively consequential stewardship responsibilities, and stewardship incentives must reward constitutional care without burdening good-faith safety or integrity escalation.
-- **Anti-symbolism rule:** Titles or advisory forums do not satisfy this section where real authority and competency are required for materially binding decisions. Detailed role taxonomy, qualification/succession controls, pathway-access implementation, and incentive-governance mechanics are governed by `corpus_institutions.md` **CI-4** (*Appointment, competency, rotation, and removal*), **CI-11** (*Resource stewardship and incentive integrity*), and **CI-12** (*Transparency, participation, and accessible pathways*).
+- **Anti-symbolism rule:** Titles or advisory forums do not satisfy this section where real authority and competency are required for materially binding decisions. Detailed role taxonomy, qualification/succession controls, pathway-access implementation, and incentive-governance mechanics are governed by `corpus_institutions.md` **CI-4** (*Appointment, competency, rotation, and removal*), **CI-14** (*Resource stewardship and incentive integrity*), and **CI-15** (*Transparency, participation, and accessible pathways*).
 
-**Cross-reference (section 5):** **Article XI-D**; adopted governance implementation on role integrity; **[corpus_systems.md](corpus_systems.md), Chapter S3** and **Protocol S5**; and **corpus_institutions.md** (**CI-4** (*Appointment, competency, rotation, and removal*), **CI-11** (*Resource stewardship and incentive integrity*), **CI-12** (*Transparency, participation, and accessible pathways*), and related sections as applicable).
+**Cross-reference (section 5):** **Article XI-D**; adopted governance implementation on role integrity; **[corpus_systems.md](corpus_systems.md), Chapter S3** and **Protocol S5**; and **corpus_institutions.md** (**CI-4** (*Appointment, competency, rotation, and removal*), **CI-14** (*Resource stewardship and incentive integrity*), **CI-15** (*Transparency, participation, and accessible pathways*), and related sections as applicable).
 
 ---
 

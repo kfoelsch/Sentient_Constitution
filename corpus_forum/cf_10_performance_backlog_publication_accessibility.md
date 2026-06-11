@@ -103,7 +103,7 @@ Backlog is constitutionally relevant when it materially degrades challenge right
 
 This subsection applies **Contestability** and `corpus_joint_structure.md` **CJS-5A.6** (*Implementation and cross-implementation procedural integrity and adjudication terms*) to forum timing, quality, damage, accessibility, publication, and remediation discipline. The point is practical usability: notice, record access, review, appeal, restorative follow-through, and closure must still work in real conditions.
 
-It does **not** add **Chapter Ten** rights text. Operational detail for non-forum institutions sits in **`corpus_institutions.md`** **CI-6** (*Procedure integrity, contestability, and secondary review*), **CI-12** (*Transparency, participation, and accessible pathways*), and **CI-13** (*Institutional failure, sanctions, dissolution, and accountability*).
+It does **not** add **Chapter Ten** rights text. Operational detail for non-forum institutions sits in **`corpus_institutions.md`** **CI-6** (*Procedure integrity, contestability, and secondary review*), **CI-15** (*Transparency, participation, and accessible pathways*), and **CI-16** (*Institutional failure, sanctions, dissolution, and accountability*).
 
 The **CF-10** key performance indicators (**KPIs**) attach to the service lifecycle defined below. Timeliness and aging metrics show whether the lifecycle is moving; accuracy indicators show whether speed is producing reliable adjudication; accessibility and publication metrics show whether parties can use and contest the process; forum-damage ratings show whether the forum itself is causing or worsening harm; constitutional-alignment scores show whether the forum family or chamber remains fit for continued authority; remediation-closure metrics show whether failures are corrected rather than narrated.
 
@@ -137,9 +137,9 @@ Legacy references to case classes and urgency classes should be read as referenc
 
 #### CF-10.2.4 Cross-layer requirements and escalation
 
-Forums publish urgency-scaled metrics and target windows under **CF-10.3** (*Metric registry and reporting taxonomy*). Institutions publish compatible **notice and pathway** requirements under **CI-6** (*Procedure integrity, contestability, and secondary review*) and **CI-12** (*Transparency, participation, and accessible pathways*).
+Forums publish urgency-scaled metrics and target windows under **CF-10.3** (*Metric registry and reporting taxonomy*). Institutions publish compatible **notice and pathway** requirements under **CI-6** (*Procedure integrity, contestability, and secondary review*) and **CI-15** (*Transparency, participation, and accessible pathways*).
 
-When **backlog**, **accessibility**, **accuracy**, **publication**, **forum-damage**, **constitutional-alignment**, or **remediation-closure** failures cross **CF-10.4** (*Performance thresholds and alerts*) thresholds, **CF-10.5** (*Required remediation actions for threshold crossings*) remediation applies. **CI-7.3** (*Contest-integrity monitoring (Class A and Class B)*) and **CI-8** (*Cross-institution coordination and escalation*) escalation paths also apply where warranted.
+When **backlog**, **accessibility**, **accuracy**, **publication**, **forum-damage**, **constitutional-alignment**, or **remediation-closure** failures cross **CF-10.4** (*Performance thresholds and alerts*) thresholds, **CF-10.5** (*Required remediation actions for threshold crossings*) remediation applies. **CI-7.3** (*Contest-integrity monitoring (Class A and Class B)*) and **CI-11** (*Cross-institution coordination and escalation*) escalation paths also apply where warranted.
 
 **Stakeholder-facing** performance, threshold, delay, damage, and remediation disclosure must be intelligible without specialist training, subject to lawful secrecy limits.
 
@@ -267,8 +267,8 @@ At minimum:
 - publication failure threshold triggers delayed-publication review, docket-visible status correction, and a lawful release or reconstruction plan;
 - remediation closure threshold triggers owner-level review when corrective actions remain open, are repeatedly extended, or close without evidence that the underlying condition actually ended;
 - forum damage threshold triggers immediate containment of the harmful forum condition, protected notice to affected parties, preservation of evidence, and remedial review;
-- constitutional alignment failure threshold triggers external assurance, restriction of the affected forum authority where necessary, and mandatory alignment-supervision review under `corpus_institutions.md` **CI-13** (*Institutional failure, sanctions, dissolution, and accountability*);
-- dissolution or disbandment trigger threshold requires immediate suspension of ordinary forum authority and immediate dissolution or disbandment action under **CI-13**. Receivership or continuity transfer may be used only as a protective interim or successor mechanism to preserve rights, records, emergency relief, and active challenge pathways; the triggering forum must not continue new harmful adjudication.
+- constitutional alignment failure threshold triggers external assurance, restriction of the affected forum authority where necessary, and mandatory alignment-supervision review under `corpus_institutions.md` **CI-16** (*Institutional failure, sanctions, dissolution, and accountability*);
+- dissolution or disbandment trigger threshold requires immediate suspension of ordinary forum authority and immediate dissolution or disbandment action under **CI-16** (*Institutional failure, sanctions, dissolution, and accountability*). Receivership or continuity transfer may be used only as a protective interim or successor mechanism to preserve rights, records, emergency relief, and active challenge pathways; the triggering forum must not continue new harmful adjudication.
 
 ### CF-10.5 Required remediation actions for threshold crossings
 <details>
@@ -457,7 +457,7 @@ Contest-integrity monitors under `corpus_institutions.md` **CI-7.3** (*Contest-i
 - whether emergency dockets are receiving timely attention;
 - whether accessibility or publication failures are undermining contestability.
 
-Material findings must feed remediation and, where warranted, `corpus_institutions.md` **CI-8** (*Cross-institution coordination and escalation*) escalation or external assurance triggers.
+Material findings must feed remediation and, where warranted, `corpus_institutions.md` **CI-11** (*Cross-institution coordination and escalation*) escalation or external assurance triggers.
 
 
 ### CF-10.9 Non-compliant performance patterns
@@ -529,7 +529,7 @@ Calendar and metric performance under **CF-10.3** (*Metric registry and reportin
 
 Where a lived-condition failure materially affects remedy, challenge rights, or restoration, the matter remains open for **CF-10** (*Forum performance, backlog requirements, publication timeliness, and accessibility*) performance tracking. It also remains open for **CF-13.3** (*Restoration and reconciliation*) restoration tracking, even if ordinary docket milestones were reached.
 
-**Read with:** `corpus_institutions.md` **CI-13** (failure and accountability patterns); **CF-13.3** (*Restoration and reconciliation*); **Article XXIII** and **Article XXIII-A** as referenced in **Protocol C** §**10**.
+**Read with:** `corpus_institutions.md` **CI-16** (failure and accountability patterns); **CF-13.3** (*Restoration and reconciliation*); **Article XXIII** and **Article XXIII-A** as referenced in **Protocol C** §**10**.
 
 ---
 
