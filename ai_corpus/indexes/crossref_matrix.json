@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/crossref_matrix.schema.json",
-  "generated_at": "2026-06-10T10:38:40+00:00",
+  "generated_at": "2026-06-11T10:42:50+00:00",
   "description": "Source-derived file-to-file Markdown reference graph.",
   "graph": {
     "nodes": [
@@ -5603,7 +5603,7 @@
           },
           {
             "file": "core_05-05_definitions_b_semi_independent.md",
-            "count": 232,
+            "count": 236,
             "anchors": [
               "#accountability",
               "#accountability-c",
@@ -5623,6 +5623,9 @@
               "#material",
               "#material-c",
               "#material-e",
+              "#materiality-determination",
+              "#materiality-determination-c",
+              "#materiality-determination-e",
               "#procedural-fairness-constitutional",
               "#procedural-fairness-constitutional-c",
               "#procedural-fairness-constitutional-e",
@@ -5636,7 +5639,7 @@
           },
           {
             "file": "core_05-05_definitions_c_dependent_clusters.md",
-            "count": 120,
+            "count": 124,
             "anchors": [
               "#authority-stack",
               "#authority-stack-c",
@@ -5650,6 +5653,9 @@
               "#forum-family-technical",
               "#forum-family-technical-c",
               "#forum-family-technical-e",
+              "#harm",
+              "#harm-c",
+              "#harm-e",
               "#transparency",
               "#transparency-c",
               "#transparency-e",
