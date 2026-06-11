@@ -3,8 +3,8 @@
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [CJS-1.1](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-11-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.2](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-22-topic-router-stable-ids) topic router; [Chapter Nine](../core_09-09_forum.md#chapter-nine-forums-and-jurisdiction) forum-family routing; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
-- Downstream: local subsections listed below, with former **CF-10.4** consolidated into **CF-10.2** and former **CF-10.5** consolidated into **CF-10.3**.
-- Read with: **CF-10.1** through **CF-10.3** first, then **CF-10.6** and **CF-10.7**, then the accessibility, publication, monitoring, disclosure, and evidence subsections that follow.
+- Downstream: local subsections listed below, with case-class material consolidated into **CF-10.2** and timing-floor material consolidated into **CF-10.3**.
+- Read with: **CF-10.1** through **CF-10.3** first, including **CF-10.3.1** and **CF-10.3.2** for publication and restricted-evidence timing, then **CF-10.4** and **CF-10.5**, then the review, disclosure, supporting-records, accessibility, monitoring, non-compliance, and cross-layer alignment subsections that follow.
 
 </details>
 
@@ -40,13 +40,13 @@ It sets minimum requirements for:
 - forum-damage ratings;
 - constitutional-alignment scoring;
 - escalation when delay, damage, misalignment, or process failure materially threatens challenge rights or remedy;
-- forum-performance review cadence and evidence artifacts.
+- forum-performance review cadence and supporting records.
 
 This section does not displace stricter lawful deadlines.
 
-**Reader order:** **CF-10.1** states the core constitutional rule for forum performance. **CF-10.2** then states the urgency-scaled service frame, including the notice-through-remediation lifecycle, minimum urgency levels, and local urgency sublevels. **CF-10.3** applies that rule and taxonomy through performance metrics and target windows. **CF-10.6** and **CF-10.7** set performance thresholds and required remediation.
+**Reader order:** **CF-10.1** states the core constitutional rule for forum performance. **CF-10.2** then states the urgency-scaled service frame, including the notice-through-remediation lifecycle, minimum urgency levels, and local urgency sublevels. **CF-10.3** applies that rule and taxonomy through performance metrics and target windows. **CF-10.4** and **CF-10.5** set performance thresholds and required remediation.
 
-**CF-10.8** through **CF-10.16** add accessibility, publication, restricted-evidence timing, monitoring, reporting, review cadence, evidence, and cross-layer restriction or re-entry alignment.
+**CF-10.6** through **CF-10.11** add review cadence, governance disclosure, accessibility, monitoring, non-compliant patterns, and cross-layer restriction or re-entry alignment.
 
 ### CF-10.1 Core rule
 <details>
@@ -87,7 +87,7 @@ Backlog is constitutionally relevant when it materially degrades challenge right
 
 - Upstream: [CJS-1.1](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-11-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.2](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-22-topic-router-stable-ids) topic router; [Chapter Nine](../core_09-09_forum.md#chapter-nine-forums-and-jurisdiction) forum-family routing; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
 - Downstream: this section's local operational requirements for **CF-10.2 Urgency-scaled service requirements (notice through remediation closure)**.
-- Read with: **CF-10.2**; **CF-4.1**; **CF-10.3**; **CF-10.6**; **CF-10.7**.
+- Read with: **CF-10.2**; **CF-4.1**; **CF-10.3**; **CF-10.4**; **CF-10.5**.
 
 </details>
 
@@ -141,20 +141,20 @@ Performance tracking must use these urgency levels as the minimum reporting taxo
 
 Forum systems may add finer local urgency levels or urgency sublevels, including specialized emergency, rights-floor, technical, restricted-evidence, or structural categories. Those local levels or sublevels must remain mappable to the **CF-10.2** minimum levels and must not merge, rename, or aggregate categories in ways that conceal delay in the most rights-sensitive matters. Published intake priority classes under **CF-4.1** (*Published intake classes*) must remain compatible with this taxonomy.
 
-References to former **CF-10.4** (*Case classes and urgency classes*) should be read as references to this urgency-level component of **CF-10.2**.
+Legacy references to case classes and urgency classes should be read as references to this urgency-level component of **CF-10.2**.
 
 #### CF-10.2.4 Cross-layer requirements and escalation
 
 Forums publish urgency-scaled metrics and target windows under **CF-10.3** (*Minimum performance metrics and target windows*). Institutions publish compatible **notice and pathway** requirements under **CI-6** (*Procedure integrity, contestability, and secondary review*) and **CI-12** (*Transparency, participation, and accessible pathways*).
 
-When **backlog**, **accessibility**, **accuracy**, **publication**, **forum-damage**, **constitutional-alignment**, or **remediation-closure** failures cross **CF-10.6** (*Performance thresholds and alerts*) thresholds, **CF-10.7** (*Required remediation actions for threshold crossings*) remediation applies. **CI-7.3** (*Contest-integrity monitoring (Class A and Class B)*) and **CI-8** (*Cross-institution coordination and escalation*) escalation paths also apply where warranted.
+When **backlog**, **accessibility**, **accuracy**, **publication**, **forum-damage**, **constitutional-alignment**, or **remediation-closure** failures cross **CF-10.4** (*Performance thresholds and alerts*) thresholds, **CF-10.5** (*Required remediation actions for threshold crossings*) remediation applies. **CI-7.3** (*Contest-integrity monitoring (Class A and Class B)*) and **CI-8** (*Cross-institution coordination and escalation*) escalation paths also apply where warranted.
 
 **Stakeholder-facing** performance, threshold, delay, damage, and remediation disclosure must be intelligible without specialist training, subject to lawful secrecy limits.
 
 #### CF-10.2.5 Assurance scenarios
 
 Scenario coverage is for assurance, not doctrine. Each adopting entity must periodically test at least the following scenario classes and retain the scenario record in governance evidence stores:
-- **Delayed notice:** confirm that missed acknowledgement, routing, panel, or delay-notice windows are detected, classified by **CF-10.2** urgency level, disclosed to affected parties, and routed into **CF-10.6** threshold review where the delay is material.
+- **Delayed notice:** confirm that missed acknowledgement, routing, panel, or delay-notice windows are detected, classified by **CF-10.2** urgency level, disclosed to affected parties, and routed into **CF-10.4** threshold review where the delay is material.
 - **Inaccessible records or pathways:** confirm that a party who cannot use the ordinary filing, status, evidence-access, or challenge pathway receives an accessible substitute before review rights or remedy become meaningless.
 - **Appeal or secondary-review backlog:** confirm that aging appeals, reconsideration requests, and secondary reviews are visible separately from first-instance matters and trigger priority review before practical remedy hardens.
 - **Publication failure:** confirm that delayed reasoned records receive docket-visible status markers, lawful restriction explanations, publication or reconstruction dates, and escalation when publication delay impairs challenge rights.
@@ -210,7 +210,27 @@ Each forum family must publish and maintain both metrics and target windows for 
 - pending transfer or certification requests;
 - emergency matters awaiting interim review.
 
-Target windows must be published by **CF-10.2** urgency level and any local urgency sublevel. For emergency or Rights-Floor matters, targets must be materially shorter than for ordinary civil matters. Publication target windows required here establish the performance floor; fuller publication duties remain governed by **CF-10.9** (*Publication timeliness*).
+Target windows must be published by **CF-10.2** urgency level and any local urgency sublevel. For emergency or Rights-Floor matters, targets must be materially shorter than for ordinary civil matters. Publication target windows required here establish the performance floor; fuller publication duties are stated in **CF-10.3.1** (*Publication timeliness*).
+
+#### CF-10.3.1 Publication timeliness
+
+Reasoned records for routing, recusal, transfer, certification, interim relief, and merits outcomes must be published or otherwise made available on a time scale that preserves practical review.
+
+Where lawful restrictions delay full publication, the forum must still provide, as soon as lawfully feasible:
+- a docket-visible status marker;
+- the fact of action taken;
+- the existence of any delayed-publication restriction;
+- a later publication or reconstruction path.
+
+#### CF-10.3.2 Restricted-evidence timing
+
+Restricted-evidence matters under **CF-10.2.3** must not become a standing excuse for indefinite delay.
+
+For such matters, systems must separately track:
+- time to secure authorized access;
+- time to create reviewable summaries where lawful;
+- time to resolve secrecy-related scope disputes;
+- whether delay from restricted-access process is materially impairing remedy or review.
 
 Decision-accuracy indicators must distinguish ordinary legal disagreement, changed facts or law, harmless correction, procedural defect, evidentiary insufficiency, rights-floor breach, and material merits error where the reviewing record permits that distinction. They must be tracked by forum family, urgency level, and reviewing pathway so a system cannot mask recurring low-quality adjudication behind favorable speed or backlog metrics.
 
@@ -221,15 +241,15 @@ If a system cannot yet justify its own calibrated numbers, the interim default s
 - recusal and backup-activation windows short enough that the independence dispute does not itself defeat meaningful remedy;
 - publication windows short enough that challenge rights remain real before practical effect hardens.
 
-Timing-floor requirements formerly stated in **CF-10.5** are consolidated here. References to **CF-10.5** (*Consolidated timing floors*) should be read as references to the timing-window component of **CF-10.3**.
+Legacy timing-floor requirements are consolidated here and should be read as references to the timing-window component of **CF-10.3**.
 
-### CF-10.6 Performance thresholds and alerts
+### CF-10.4 Performance thresholds and alerts
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [CJS-1.1](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-11-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.2](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-22-topic-router-stable-ids) topic router; [Chapter Nine](../core_09-09_forum.md#chapter-nine-forums-and-jurisdiction) forum-family routing; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
-- Downstream: this section's local operational requirements for **CF-10.6 Performance thresholds and alerts**.
-- Read with: **CF-10.6**.
+- Downstream: this section's local operational requirements for **CF-10.4 Performance thresholds and alerts**.
+- Read with: **CF-10.4**.
 
 </details>
 
@@ -249,15 +269,15 @@ Timing-floor requirements formerly stated in **CF-10.5** are consolidated here. 
 <br>
 
 Every forum family must define:
-- an `aging alert threshold`;
-- a `serious backlog threshold`;
-- a `constitutional risk threshold`;
-- an `accuracy concern threshold`;
-- a `publication failure threshold`;
-- a `remediation closure threshold`;
-- a `forum damage threshold`;
-- a `constitutional alignment failure threshold`;
-- a `dissolution or disbandment trigger threshold`.
+- an aging alert threshold;
+- a serious backlog threshold;
+- a constitutional risk threshold;
+- an accuracy concern threshold;
+- a publication failure threshold;
+- a remediation closure threshold;
+- a forum damage threshold;
+- a constitutional alignment failure threshold;
+- a dissolution or disbandment trigger threshold.
 
 Thresholds must be set by **CF-10.2** urgency level and any local urgency sublevel. They must trigger progressively stronger actions.
 
@@ -272,13 +292,13 @@ At minimum:
 - constitutional alignment failure threshold triggers external assurance, restriction of the affected forum authority where necessary, and mandatory alignment-supervision review under `corpus_institutions.md` **CI-13** (*Institutional failure, sanctions, dissolution, and accountability*);
 - dissolution or disbandment trigger threshold requires immediate suspension of ordinary forum authority and immediate dissolution or disbandment action under **CI-13**. Receivership or continuity transfer may be used only as a protective interim or successor mechanism to preserve rights, records, emergency relief, and active challenge pathways; the triggering forum must not continue new harmful adjudication.
 
-### CF-10.7 Required remediation actions for threshold crossings
+### CF-10.5 Required remediation actions for threshold crossings
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [CJS-1.1](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-11-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.2](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-22-topic-router-stable-ids) topic router; [Chapter Nine](../core_09-09_forum.md#chapter-nine-forums-and-jurisdiction) forum-family routing; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
-- Downstream: this section's local operational requirements for **CF-10.7 Required remediation actions for threshold crossings**.
-- Read with: **CF-10.7**.
+- Downstream: this section's local operational requirements for **CF-10.5 Required remediation actions for threshold crossings**.
+- Read with: **CF-10.5**.
 
 </details>
 
@@ -319,6 +339,88 @@ Acceptable corrective actions may include:
 - temporary coordination changes with other forum families;
 - containment, authority restriction, continuity, or emergency measures where ordinary capacity or constitutional alignment has failed.
 
+### CF-10.6 Forum-performance review cadence
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Upstream: [CJS-1.1](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-11-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.2](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-22-topic-router-stable-ids) topic router; [Chapter Nine](../core_09-09_forum.md#chapter-nine-forums-and-jurisdiction) forum-family routing; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
+- Downstream: this section's local operational requirements for **CF-10.6 Forum-performance review cadence**.
+- Read with: **CF-10.6**.
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
+
+- [Adjudication and Dispute Resolution](../core_05-05_definitions_b_semi_independent.md#adjudication-and-dispute-resolution-constitutional) · [O](../core_05-05_definitions_b_semi_independent.md#adjudication-and-dispute-resolution-constitutional) · [E](../core_05-05_definitions_b_semi_independent.md#adjudication-and-dispute-resolution-constitutional-e) · [C](../core_05-05_definitions_b_semi_independent.md#adjudication-and-dispute-resolution-constitutional-c)
+- [Authority Stack and Internal Hierarchy](../core_05-05_definitions_c_dependent_clusters.md#authority-stack) · [O](../core_05-05_definitions_c_dependent_clusters.md#authority-stack) · [E](../core_05-05_definitions_c_dependent_clusters.md#authority-stack-e) · [C](../core_05-05_definitions_c_dependent_clusters.md#authority-stack-c)
+- [Accessibility](../core_05-05_definitions_a_independent.md#accessibility-constitutional) · [O](../core_05-05_definitions_a_independent.md#accessibility-constitutional) · [E](../core_05-05_definitions_a_independent.md#accessibility-constitutional-e) · [C](../core_05-05_definitions_a_independent.md#accessibility-constitutional-c)
+- [Procedural Fairness](../core_05-05_definitions_b_semi_independent.md#procedural-fairness-constitutional) · [O](../core_05-05_definitions_b_semi_independent.md#procedural-fairness-constitutional) · [E](../core_05-05_definitions_b_semi_independent.md#procedural-fairness-constitutional-e) · [C](../core_05-05_definitions_b_semi_independent.md#procedural-fairness-constitutional-c)
+- [Accountability](../core_05-05_definitions_b_semi_independent.md#accountability) · [O](../core_05-05_definitions_b_semi_independent.md#accountability) · [E](../core_05-05_definitions_b_semi_independent.md#accountability-e) · [C](../core_05-05_definitions_b_semi_independent.md#accountability-c)
+- [Contestability](../core_05-05_definitions_b_semi_independent.md#contestability) · [O](../core_05-05_definitions_b_semi_independent.md#contestability) · [E](../core_05-05_definitions_b_semi_independent.md#contestability-e) · [C](../core_05-05_definitions_b_semi_independent.md#contestability-c)
+
+</details>
+
+<br>
+
+Each forum family must review performance metrics on a fixed cadence.
+
+At minimum:
+- emergency and high-impact metrics should be reviewed more frequently than ordinary matters;
+- trend review must compare current metrics with prior periods;
+- accuracy review must examine whether reversal, vacatur (a decision being set aside or voided), remand, correction, or material-modification patterns reveal training, evidence, independence, procedure, or doctrine problems;
+- damage and alignment review must examine whether the forum is causing, amplifying, or failing to contain constitutional harm and whether any published dissolution or disbandment trigger has been crossed;
+- repeated threshold breach must trigger corrective-action review rather than simple narration.
+
+
+### CF-10.7 Governance disclosure fields and supporting records for forum performance
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Upstream: [CJS-1.1](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-11-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.2](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-22-topic-router-stable-ids) topic router; [Chapter Nine](../core_09-09_forum.md#chapter-nine-forums-and-jurisdiction) forum-family routing; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
+- Downstream: this section's local operational requirements for **CF-10.7 Governance disclosure fields and supporting records for forum performance**.
+- Read with: **CF-10.7**.
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
+
+- [Governance](../core_05-05_definitions_b_semi_independent.md#governance) · [O](../core_05-05_definitions_b_semi_independent.md#governance) · [E](../core_05-05_definitions_b_semi_independent.md#governance-e) · [C](../core_05-05_definitions_b_semi_independent.md#governance-c)
+- [System](../core_05-05_definitions_b_semi_independent.md#system-definition) · [O](../core_05-05_definitions_b_semi_independent.md#system-definition) · [E](../core_05-05_definitions_b_semi_independent.md#system-definition-e) · [C](../core_05-05_definitions_b_semi_independent.md#system-definition-c)
+- [Adjudication and Dispute Resolution](../core_05-05_definitions_b_semi_independent.md#adjudication-and-dispute-resolution-constitutional) · [O](../core_05-05_definitions_b_semi_independent.md#adjudication-and-dispute-resolution-constitutional) · [E](../core_05-05_definitions_b_semi_independent.md#adjudication-and-dispute-resolution-constitutional-e) · [C](../core_05-05_definitions_b_semi_independent.md#adjudication-and-dispute-resolution-constitutional-c)
+- [Authority Stack and Internal Hierarchy](../core_05-05_definitions_c_dependent_clusters.md#authority-stack) · [O](../core_05-05_definitions_c_dependent_clusters.md#authority-stack) · [E](../core_05-05_definitions_c_dependent_clusters.md#authority-stack-e) · [C](../core_05-05_definitions_c_dependent_clusters.md#authority-stack-c)
+- [Accessibility](../core_05-05_definitions_a_independent.md#accessibility-constitutional) · [O](../core_05-05_definitions_a_independent.md#accessibility-constitutional) · [E](../core_05-05_definitions_a_independent.md#accessibility-constitutional-e) · [C](../core_05-05_definitions_a_independent.md#accessibility-constitutional-c)
+- [Procedural Fairness](../core_05-05_definitions_b_semi_independent.md#procedural-fairness-constitutional) · [O](../core_05-05_definitions_b_semi_independent.md#procedural-fairness-constitutional) · [E](../core_05-05_definitions_b_semi_independent.md#procedural-fairness-constitutional-e) · [C](../core_05-05_definitions_b_semi_independent.md#procedural-fairness-constitutional-c)
+- [Accountability](../core_05-05_definitions_b_semi_independent.md#accountability) · [O](../core_05-05_definitions_b_semi_independent.md#accountability) · [E](../core_05-05_definitions_b_semi_independent.md#accountability-e) · [C](../core_05-05_definitions_b_semi_independent.md#accountability-c)
+- [Transparency](../core_05-05_definitions_c_dependent_clusters.md#transparency) · [O](../core_05-05_definitions_c_dependent_clusters.md#transparency) · [E](../core_05-05_definitions_c_dependent_clusters.md#transparency-e) · [C](../core_05-05_definitions_c_dependent_clusters.md#transparency-c)
+
+</details>
+
+<br>
+
+The standard governance report should include at minimum:
+- current backlog by forum family, **CF-10.2** urgency level, and local urgency sublevel where used;
+- number of cases beyond each threshold band;
+- median and percentile routing times;
+- panel-formation times;
+- recusal challenge counts and determination times;
+- transfer / certification counts and times;
+- emergency review times;
+- decision-accuracy indicators, including reversal, vacatur (a decision being set aside or voided), material modification, remand, and correction rates with reason categories where available;
+- forum-damage ratings and constitutional-alignment scores, including threshold crossings and current remediation status;
+- publication timeliness performance;
+- remedial actions open and closed for forum-performance failures.
+
+Each forum system should maintain supporting records for the report, including:
+- a forum-performance dashboard or equivalent report;
+- threshold definitions and current values;
+- remediation logs;
+- publication-delay logs;
+- backlog-cause analyses;
+- annual or periodic forum-performance summary linked to governance reporting.
+
+
 ### CF-10.8 Accessibility and pathway usability requirements
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
@@ -358,79 +460,14 @@ Where technical or legal terms are necessary, they must come with accurate plain
 
 Usability failures count as performance failures when they materially obstruct challenge rights or effective participation.
 
-### CF-10.9 Publication timeliness
+
+### CF-10.9 Contest-integrity monitoring interface
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [CJS-1.1](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-11-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.2](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-22-topic-router-stable-ids) topic router; [Chapter Nine](../core_09-09_forum.md#chapter-nine-forums-and-jurisdiction) forum-family routing; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
-- Downstream: this section's local operational requirements for **CF-10.9 Publication timeliness**.
+- Downstream: this section's local operational requirements for **CF-10.9 Contest-integrity monitoring interface**.
 - Read with: **CF-10.9**.
-
-</details>
-
-<details>
-<summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
-
-- [Adjudication and Dispute Resolution](../core_05-05_definitions_b_semi_independent.md#adjudication-and-dispute-resolution-constitutional) · [O](../core_05-05_definitions_b_semi_independent.md#adjudication-and-dispute-resolution-constitutional) · [E](../core_05-05_definitions_b_semi_independent.md#adjudication-and-dispute-resolution-constitutional-e) · [C](../core_05-05_definitions_b_semi_independent.md#adjudication-and-dispute-resolution-constitutional-c)
-- [Authority Stack and Internal Hierarchy](../core_05-05_definitions_c_dependent_clusters.md#authority-stack) · [O](../core_05-05_definitions_c_dependent_clusters.md#authority-stack) · [E](../core_05-05_definitions_c_dependent_clusters.md#authority-stack-e) · [C](../core_05-05_definitions_c_dependent_clusters.md#authority-stack-c)
-- [Accessibility](../core_05-05_definitions_a_independent.md#accessibility-constitutional) · [O](../core_05-05_definitions_a_independent.md#accessibility-constitutional) · [E](../core_05-05_definitions_a_independent.md#accessibility-constitutional-e) · [C](../core_05-05_definitions_a_independent.md#accessibility-constitutional-c)
-- [Procedural Fairness](../core_05-05_definitions_b_semi_independent.md#procedural-fairness-constitutional) · [O](../core_05-05_definitions_b_semi_independent.md#procedural-fairness-constitutional) · [E](../core_05-05_definitions_b_semi_independent.md#procedural-fairness-constitutional-e) · [C](../core_05-05_definitions_b_semi_independent.md#procedural-fairness-constitutional-c)
-- [Accountability](../core_05-05_definitions_b_semi_independent.md#accountability) · [O](../core_05-05_definitions_b_semi_independent.md#accountability) · [E](../core_05-05_definitions_b_semi_independent.md#accountability-e) · [C](../core_05-05_definitions_b_semi_independent.md#accountability-c)
-- [Transparency](../core_05-05_definitions_c_dependent_clusters.md#transparency) · [O](../core_05-05_definitions_c_dependent_clusters.md#transparency) · [E](../core_05-05_definitions_c_dependent_clusters.md#transparency-e) · [C](../core_05-05_definitions_c_dependent_clusters.md#transparency-c)
-- [Unified Record](../core_05-05_definitions_c_dependent_clusters.md#unified-record) · [O](../core_05-05_definitions_c_dependent_clusters.md#unified-record) · [E](../core_05-05_definitions_c_dependent_clusters.md#unified-record-e) · [C](../core_05-05_definitions_c_dependent_clusters.md#unified-record-c)
-
-</details>
-
-<br>
-
-Reasoned records for routing, recusal, transfer, certification, interim relief, and merits outcomes must be published or otherwise made available on a time scale that preserves practical review.
-
-Where lawful restrictions delay full publication, the forum must still provide, as soon as lawfully feasible:
-- a docket-visible status marker;
-- the fact of action taken;
-- the existence of any delayed-publication restriction;
-- a later publication or reconstruction path.
-
-### CF-10.10 Restricted-evidence timing
-<details>
-<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
-
-- Upstream: [CJS-1.1](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-11-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.2](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-22-topic-router-stable-ids) topic router; [Chapter Nine](../core_09-09_forum.md#chapter-nine-forums-and-jurisdiction) forum-family routing; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
-- Downstream: this section's local operational requirements for **CF-10.10 Restricted-evidence timing**.
-- Read with: **CF-10.10**.
-
-</details>
-
-<details>
-<summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
-
-- [Adjudication and Dispute Resolution](../core_05-05_definitions_b_semi_independent.md#adjudication-and-dispute-resolution-constitutional) · [O](../core_05-05_definitions_b_semi_independent.md#adjudication-and-dispute-resolution-constitutional) · [E](../core_05-05_definitions_b_semi_independent.md#adjudication-and-dispute-resolution-constitutional-e) · [C](../core_05-05_definitions_b_semi_independent.md#adjudication-and-dispute-resolution-constitutional-c)
-- [Authority Stack and Internal Hierarchy](../core_05-05_definitions_c_dependent_clusters.md#authority-stack) · [O](../core_05-05_definitions_c_dependent_clusters.md#authority-stack) · [E](../core_05-05_definitions_c_dependent_clusters.md#authority-stack-e) · [C](../core_05-05_definitions_c_dependent_clusters.md#authority-stack-c)
-- [Accessibility](../core_05-05_definitions_a_independent.md#accessibility-constitutional) · [O](../core_05-05_definitions_a_independent.md#accessibility-constitutional) · [E](../core_05-05_definitions_a_independent.md#accessibility-constitutional-e) · [C](../core_05-05_definitions_a_independent.md#accessibility-constitutional-c)
-- [Procedural Fairness](../core_05-05_definitions_b_semi_independent.md#procedural-fairness-constitutional) · [O](../core_05-05_definitions_b_semi_independent.md#procedural-fairness-constitutional) · [E](../core_05-05_definitions_b_semi_independent.md#procedural-fairness-constitutional-e) · [C](../core_05-05_definitions_b_semi_independent.md#procedural-fairness-constitutional-c)
-- [Accountability](../core_05-05_definitions_b_semi_independent.md#accountability) · [O](../core_05-05_definitions_b_semi_independent.md#accountability) · [E](../core_05-05_definitions_b_semi_independent.md#accountability-e) · [C](../core_05-05_definitions_b_semi_independent.md#accountability-c)
-- [Evidence Preservation](../core_05-05_definitions_c_dependent_clusters.md#evidence-preservation) · [O](../core_05-05_definitions_c_dependent_clusters.md#evidence-preservation) · [E](../core_05-05_definitions_c_dependent_clusters.md#evidence-preservation-e) · [C](../core_05-05_definitions_c_dependent_clusters.md#evidence-preservation-c)
-- [Contestability](../core_05-05_definitions_b_semi_independent.md#contestability) · [O](../core_05-05_definitions_b_semi_independent.md#contestability) · [E](../core_05-05_definitions_b_semi_independent.md#contestability-e) · [C](../core_05-05_definitions_b_semi_independent.md#contestability-c)
-
-</details>
-
-<br>
-
-Restricted-evidence matters must not become a standing excuse for indefinite delay.
-
-For such matters, systems must separately track:
-- time to secure authorized access;
-- time to create reviewable summaries where lawful;
-- time to resolve secrecy-related scope disputes;
-- whether delay from restricted-access process is materially impairing remedy or review.
-
-### CF-10.11 Contest-integrity monitoring interface
-<details>
-<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
-
-- Upstream: [CJS-1.1](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-11-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.2](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-22-topic-router-stable-ids) topic router; [Chapter Nine](../core_09-09_forum.md#chapter-nine-forums-and-jurisdiction) forum-family routing; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
-- Downstream: this section's local operational requirements for **CF-10.11 Contest-integrity monitoring interface**.
-- Read with: **CF-10.11**.
 
 </details>
 
@@ -458,51 +495,14 @@ Contest-integrity monitors under `corpus_institutions.md` **CI-7.3** (*Contest-i
 
 Material findings must feed remediation and, where warranted, `corpus_institutions.md` **CI-8** (*Cross-institution coordination and escalation*) escalation or external assurance triggers.
 
-### CF-10.12 Governance disclosure fields for forum performance
+
+### CF-10.10 Non-compliant performance patterns
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [CJS-1.1](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-11-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.2](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-22-topic-router-stable-ids) topic router; [Chapter Nine](../core_09-09_forum.md#chapter-nine-forums-and-jurisdiction) forum-family routing; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
-- Downstream: this section's local operational requirements for **CF-10.12 Governance disclosure fields for forum performance**.
-- Read with: **CF-10.12**.
-
-</details>
-
-<details>
-<summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
-
-- [Governance](../core_05-05_definitions_b_semi_independent.md#governance) · [O](../core_05-05_definitions_b_semi_independent.md#governance) · [E](../core_05-05_definitions_b_semi_independent.md#governance-e) · [C](../core_05-05_definitions_b_semi_independent.md#governance-c)
-- [Adjudication and Dispute Resolution](../core_05-05_definitions_b_semi_independent.md#adjudication-and-dispute-resolution-constitutional) · [O](../core_05-05_definitions_b_semi_independent.md#adjudication-and-dispute-resolution-constitutional) · [E](../core_05-05_definitions_b_semi_independent.md#adjudication-and-dispute-resolution-constitutional-e) · [C](../core_05-05_definitions_b_semi_independent.md#adjudication-and-dispute-resolution-constitutional-c)
-- [Authority Stack and Internal Hierarchy](../core_05-05_definitions_c_dependent_clusters.md#authority-stack) · [O](../core_05-05_definitions_c_dependent_clusters.md#authority-stack) · [E](../core_05-05_definitions_c_dependent_clusters.md#authority-stack-e) · [C](../core_05-05_definitions_c_dependent_clusters.md#authority-stack-c)
-- [Accessibility](../core_05-05_definitions_a_independent.md#accessibility-constitutional) · [O](../core_05-05_definitions_a_independent.md#accessibility-constitutional) · [E](../core_05-05_definitions_a_independent.md#accessibility-constitutional-e) · [C](../core_05-05_definitions_a_independent.md#accessibility-constitutional-c)
-- [Procedural Fairness](../core_05-05_definitions_b_semi_independent.md#procedural-fairness-constitutional) · [O](../core_05-05_definitions_b_semi_independent.md#procedural-fairness-constitutional) · [E](../core_05-05_definitions_b_semi_independent.md#procedural-fairness-constitutional-e) · [C](../core_05-05_definitions_b_semi_independent.md#procedural-fairness-constitutional-c)
-- [Accountability](../core_05-05_definitions_b_semi_independent.md#accountability) · [O](../core_05-05_definitions_b_semi_independent.md#accountability) · [E](../core_05-05_definitions_b_semi_independent.md#accountability-e) · [C](../core_05-05_definitions_b_semi_independent.md#accountability-c)
-- [Transparency](../core_05-05_definitions_c_dependent_clusters.md#transparency) · [O](../core_05-05_definitions_c_dependent_clusters.md#transparency) · [E](../core_05-05_definitions_c_dependent_clusters.md#transparency-e) · [C](../core_05-05_definitions_c_dependent_clusters.md#transparency-c)
-
-</details>
-
-<br>
-
-The standard governance report should include at minimum:
-- current backlog by forum family, **CF-10.2** urgency level, and local urgency sublevel where used;
-- number of cases beyond each threshold band;
-- median and percentile routing times;
-- panel-formation times;
-- recusal challenge counts and determination times;
-- transfer / certification counts and times;
-- emergency review times;
-- decision-accuracy indicators, including reversal, vacatur (a decision being set aside or voided), material modification, remand, and correction rates with reason categories where available;
-- forum-damage ratings and constitutional-alignment scores, including threshold crossings and current remediation status;
-- publication timeliness performance;
-- remedial actions open and closed for forum-performance failures.
-
-### CF-10.13 Non-compliant performance patterns
-<details>
-<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
-
-- Upstream: [CJS-1.1](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-11-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.2](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-22-topic-router-stable-ids) topic router; [Chapter Nine](../core_09-09_forum.md#chapter-nine-forums-and-jurisdiction) forum-family routing; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
-- Downstream: this section's local operational requirements for **CF-10.13 Non-compliant performance patterns**.
-- Read with: **CF-10.13**.
+- Downstream: this section's local operational requirements for **CF-10.10 Non-compliant performance patterns**.
+- Read with: **CF-10.10**.
 
 </details>
 
@@ -531,79 +531,14 @@ The following patterns are presumptively non-compliant unless clearly justified 
 - recurring recusal or panel-formation delay without published remediation;
 - inaccessible challenge pathways that materially reduce substantive use.
 
-### CF-10.14 Forum-performance review cadence
+
+### CF-10.11 Lived conditions during restriction and re-entry alignment (cross-layer)
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [CJS-1.1](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-11-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.2](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-22-topic-router-stable-ids) topic router; [Chapter Nine](../core_09-09_forum.md#chapter-nine-forums-and-jurisdiction) forum-family routing; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
-- Downstream: this section's local operational requirements for **CF-10.14 Forum-performance review cadence**.
-- Read with: **CF-10.14**.
-
-</details>
-
-<details>
-<summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
-
-- [Adjudication and Dispute Resolution](../core_05-05_definitions_b_semi_independent.md#adjudication-and-dispute-resolution-constitutional) · [O](../core_05-05_definitions_b_semi_independent.md#adjudication-and-dispute-resolution-constitutional) · [E](../core_05-05_definitions_b_semi_independent.md#adjudication-and-dispute-resolution-constitutional-e) · [C](../core_05-05_definitions_b_semi_independent.md#adjudication-and-dispute-resolution-constitutional-c)
-- [Authority Stack and Internal Hierarchy](../core_05-05_definitions_c_dependent_clusters.md#authority-stack) · [O](../core_05-05_definitions_c_dependent_clusters.md#authority-stack) · [E](../core_05-05_definitions_c_dependent_clusters.md#authority-stack-e) · [C](../core_05-05_definitions_c_dependent_clusters.md#authority-stack-c)
-- [Accessibility](../core_05-05_definitions_a_independent.md#accessibility-constitutional) · [O](../core_05-05_definitions_a_independent.md#accessibility-constitutional) · [E](../core_05-05_definitions_a_independent.md#accessibility-constitutional-e) · [C](../core_05-05_definitions_a_independent.md#accessibility-constitutional-c)
-- [Procedural Fairness](../core_05-05_definitions_b_semi_independent.md#procedural-fairness-constitutional) · [O](../core_05-05_definitions_b_semi_independent.md#procedural-fairness-constitutional) · [E](../core_05-05_definitions_b_semi_independent.md#procedural-fairness-constitutional-e) · [C](../core_05-05_definitions_b_semi_independent.md#procedural-fairness-constitutional-c)
-- [Accountability](../core_05-05_definitions_b_semi_independent.md#accountability) · [O](../core_05-05_definitions_b_semi_independent.md#accountability) · [E](../core_05-05_definitions_b_semi_independent.md#accountability-e) · [C](../core_05-05_definitions_b_semi_independent.md#accountability-c)
-- [Contestability](../core_05-05_definitions_b_semi_independent.md#contestability) · [O](../core_05-05_definitions_b_semi_independent.md#contestability) · [E](../core_05-05_definitions_b_semi_independent.md#contestability-e) · [C](../core_05-05_definitions_b_semi_independent.md#contestability-c)
-
-</details>
-
-<br>
-
-Each forum family must review performance metrics on a fixed cadence.
-
-At minimum:
-- emergency and high-impact metrics should be reviewed more frequently than ordinary matters;
-- trend review must compare current metrics with prior periods;
-- accuracy review must examine whether reversal, vacatur (a decision being set aside or voided), remand, correction, or material-modification patterns reveal training, evidence, independence, procedure, or doctrine problems;
-- damage and alignment review must examine whether the forum is causing, amplifying, or failing to contain constitutional harm and whether any published dissolution or disbandment trigger has been crossed;
-- repeated threshold breach must trigger corrective-action review rather than simple narration.
-
-### CF-10.15 Evidence and artifacts
-<details>
-<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
-
-- Upstream: [CJS-1.1](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-11-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.2](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-22-topic-router-stable-ids) topic router; [Chapter Nine](../core_09-09_forum.md#chapter-nine-forums-and-jurisdiction) forum-family routing; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
-- Downstream: this section's local operational requirements for **CF-10.15 Evidence and artifacts**.
-- Read with: **CF-10.15**.
-
-</details>
-
-<details>
-<summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
-
-- [Governance](../core_05-05_definitions_b_semi_independent.md#governance) · [O](../core_05-05_definitions_b_semi_independent.md#governance) · [E](../core_05-05_definitions_b_semi_independent.md#governance-e) · [C](../core_05-05_definitions_b_semi_independent.md#governance-c)
-- [System](../core_05-05_definitions_b_semi_independent.md#system-definition) · [O](../core_05-05_definitions_b_semi_independent.md#system-definition) · [E](../core_05-05_definitions_b_semi_independent.md#system-definition-e) · [C](../core_05-05_definitions_b_semi_independent.md#system-definition-c)
-- [Adjudication and Dispute Resolution](../core_05-05_definitions_b_semi_independent.md#adjudication-and-dispute-resolution-constitutional) · [O](../core_05-05_definitions_b_semi_independent.md#adjudication-and-dispute-resolution-constitutional) · [E](../core_05-05_definitions_b_semi_independent.md#adjudication-and-dispute-resolution-constitutional-e) · [C](../core_05-05_definitions_b_semi_independent.md#adjudication-and-dispute-resolution-constitutional-c)
-- [Authority Stack and Internal Hierarchy](../core_05-05_definitions_c_dependent_clusters.md#authority-stack) · [O](../core_05-05_definitions_c_dependent_clusters.md#authority-stack) · [E](../core_05-05_definitions_c_dependent_clusters.md#authority-stack-e) · [C](../core_05-05_definitions_c_dependent_clusters.md#authority-stack-c)
-- [Accessibility](../core_05-05_definitions_a_independent.md#accessibility-constitutional) · [O](../core_05-05_definitions_a_independent.md#accessibility-constitutional) · [E](../core_05-05_definitions_a_independent.md#accessibility-constitutional-e) · [C](../core_05-05_definitions_a_independent.md#accessibility-constitutional-c)
-- [Procedural Fairness](../core_05-05_definitions_b_semi_independent.md#procedural-fairness-constitutional) · [O](../core_05-05_definitions_b_semi_independent.md#procedural-fairness-constitutional) · [E](../core_05-05_definitions_b_semi_independent.md#procedural-fairness-constitutional-e) · [C](../core_05-05_definitions_b_semi_independent.md#procedural-fairness-constitutional-c)
-- [Accountability](../core_05-05_definitions_b_semi_independent.md#accountability) · [O](../core_05-05_definitions_b_semi_independent.md#accountability) · [E](../core_05-05_definitions_b_semi_independent.md#accountability-e) · [C](../core_05-05_definitions_b_semi_independent.md#accountability-c)
-
-</details>
-
-<br>
-
-Each forum system should maintain:
-- a forum-performance dashboard or equivalent report;
-- threshold definitions and current values;
-- remediation logs;
-- publication-delay logs;
-- backlog-cause analyses;
-- annual or periodic forum-performance summary linked to governance reporting.
-
-### CF-10.16 Lived conditions during restriction and re-entry alignment (cross-layer)
-<details>
-<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
-
-- Upstream: [CJS-1.1](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-11-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.2](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-22-topic-router-stable-ids) topic router; [Chapter Nine](../core_09-09_forum.md#chapter-nine-forums-and-jurisdiction) forum-family routing; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
-- Downstream: this section's local operational requirements for **CF-10.16 Lived conditions during restriction and re-entry alignment (cross-layer)**.
-- Read with: **CF-10.16**; **CF-10.3**; **CF-10.7**; **CF-10**; **CF-11.13**.
+- Downstream: this section's local operational requirements for **CF-10.11 Lived conditions during restriction and re-entry alignment (cross-layer)**.
+- Read with: **CF-10.11**; **CF-10.3**; **CF-10.5**; **CF-10**; **CF-11.13**.
 
 </details>
 
@@ -624,7 +559,7 @@ Each forum system should maintain:
 
 Forum systems must treat `corpus_systems.md` **Protocol C** section **10** (*Lived-condition floors, continuity, and re-entry alignment*) as a **binding implementation cross-check** when **coercive**, **supervised**, **quarantine**, or **durable-containment** matters are **routed** or **reviewed**.
 
-Calendar and metric performance under **CF-10.3** (*Minimum performance metrics and target windows*) through **CF-10.7** (*Required remediation actions for threshold crossings*) must not treat lived-condition failures as closed merely because procedural milestones were technically reached.
+Calendar and metric performance under **CF-10.3** (*Minimum performance metrics and target windows*) through **CF-10.5** (*Required remediation actions for threshold crossings*) must not treat lived-condition failures as closed merely because procedural milestones were technically reached.
 
 **Forum-specific application:** review records must show that the forum or administrative reviewer considered the Protocol C section **10** validation record, current review cadence, restoration or re-entry status, and any new evidence-based finding used to continue a restriction.
 
