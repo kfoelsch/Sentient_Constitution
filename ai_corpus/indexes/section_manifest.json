@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-06-11T18:30:48+00:00",
+  "generated_at": "2026-06-11T19:08:39+00:00",
   "files": {
     "core_00-01_principles.md": {
       "total_lines": 1506,
@@ -6884,132 +6884,139 @@
       ]
     },
     "corpus_forum/cf_10_performance_backlog_publication_accessibility.md": {
-      "total_lines": 550,
+      "total_lines": 536,
       "sections": [
         {
           "header": "CF-10: Forum performance, backlog requirements, publication timeliness, and accessibility",
           "level": 2,
           "line_start": 1,
-          "line_end": 550,
+          "line_end": 536,
           "anchor": null
         },
         {
           "header": "CF-10.1 Core rule",
           "level": 3,
-          "line_start": 51,
-          "line_end": 83,
+          "line_start": 43,
+          "line_end": 75,
           "anchor": null
         },
         {
           "header": "CF-10.2 Urgency-scaled service requirements (notice through remediation closure)",
           "level": 3,
-          "line_start": 84,
-          "line_end": 166,
+          "line_start": 76,
+          "line_end": 145,
           "anchor": null
         },
         {
           "header": "CF-10.2.1 Purpose and owner boundary",
           "level": 4,
-          "line_start": 110,
-          "line_end": 117,
+          "line_start": 102,
+          "line_end": 109,
           "anchor": null
         },
         {
           "header": "CF-10.2.2 Service lifecycle traceability",
           "level": 4,
-          "line_start": 118,
-          "line_end": 128,
+          "line_start": 110,
+          "line_end": 120,
           "anchor": null
         },
         {
           "header": "CF-10.2.3 Minimum urgency levels",
           "level": 4,
-          "line_start": 129,
-          "line_end": 145,
+          "line_start": 121,
+          "line_end": 137,
           "anchor": null
         },
         {
           "header": "CF-10.2.4 Cross-layer requirements and escalation",
           "level": 4,
-          "line_start": 146,
-          "line_end": 153,
+          "line_start": 138,
+          "line_end": 145,
           "anchor": null
         },
         {
-          "header": "CF-10.2.5 Assurance scenarios",
-          "level": 4,
-          "line_start": 154,
-          "line_end": 166,
-          "anchor": null
-        },
-        {
-          "header": "CF-10.3 Minimum performance metrics and target windows",
+          "header": "CF-10.3 Metric registry and reporting taxonomy",
           "level": 3,
-          "line_start": 167,
-          "line_end": 245,
+          "line_start": 146,
+          "line_end": 223,
           "anchor": null
         },
         {
-          "header": "CF-10.3.1 Publication timeliness",
+          "header": "CF-10.3.1 Target windows and timing floors",
           "level": 4,
-          "line_start": 215,
-          "line_end": 224,
+          "line_start": 191,
+          "line_end": 203,
           "anchor": null
         },
         {
-          "header": "CF-10.3.2 Restricted-evidence timing",
+          "header": "CF-10.3.2 Publication timeliness",
           "level": 4,
-          "line_start": 225,
-          "line_end": 245,
+          "line_start": 204,
+          "line_end": 213,
+          "anchor": null
+        },
+        {
+          "header": "CF-10.3.3 Restricted-evidence timing",
+          "level": 4,
+          "line_start": 214,
+          "line_end": 223,
           "anchor": null
         },
         {
           "header": "CF-10.4 Performance thresholds and alerts",
           "level": 3,
-          "line_start": 246,
-          "line_end": 294,
+          "line_start": 224,
+          "line_end": 272,
           "anchor": null
         },
         {
           "header": "CF-10.5 Required remediation actions for threshold crossings",
           "level": 3,
-          "line_start": 295,
-          "line_end": 341,
+          "line_start": 273,
+          "line_end": 319,
           "anchor": null
         },
         {
           "header": "CF-10.6 Forum-performance review cadence",
           "level": 3,
-          "line_start": 342,
-          "line_end": 375,
+          "line_start": 320,
+          "line_end": 365,
+          "anchor": null
+        },
+        {
+          "header": "CF-10.6.1 Assurance scenarios",
+          "level": 4,
+          "line_start": 353,
+          "line_end": 365,
           "anchor": null
         },
         {
           "header": "CF-10.7 Governance disclosure fields, supporting records, accessibility, and pathway usability",
           "level": 3,
-          "line_start": 376,
-          "line_end": 441,
+          "line_start": 366,
+          "line_end": 427,
           "anchor": null
         },
         {
           "header": "CF-10.8 Contest-integrity monitoring interface",
           "level": 3,
-          "line_start": 442,
-          "line_end": 476,
+          "line_start": 428,
+          "line_end": 462,
           "anchor": null
         },
         {
           "header": "CF-10.9 Non-compliant performance patterns",
           "level": 3,
-          "line_start": 477,
-          "line_end": 512,
+          "line_start": 463,
+          "line_end": 498,
           "anchor": null
         },
         {
           "header": "CF-10.10 Lived conditions during restriction and re-entry alignment (cross-layer)",
           "level": 3,
-          "line_start": 513,
-          "line_end": 550,
+          "line_start": 499,
+          "line_end": 536,
           "anchor": null
         }
       ]
