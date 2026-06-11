@@ -220,6 +220,8 @@ Forum emergency adjudication requires continuous preservation of:
 
 Where digital systems are impaired, institutions must maintain a lawful fallback for record capture and later reconciliation. Generic crisis audit-trail, communication-log, and closure-evidence requirements remain in `corpus_systems.md` **Protocol A**, subsection **G**; this subsection identifies the forum records that cannot be lost or silently merged during emergency operation.
 
+Long-term archival and retrieval systems that materially support record access, restoration, precedent or publication continuity, audit, challenge, or lawful reconstruction must be treated as forum-continuity dependencies under **CF-14.5** (*Publication, retention, and reconciliation*) and classified under `corpus_systems.md` **Chapter S2** according to their continuity function.
+
 ### CF-11.6 Communication duties
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
