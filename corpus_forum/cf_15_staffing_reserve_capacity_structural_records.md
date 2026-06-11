@@ -3,8 +3,8 @@
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [CJS-1.1](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-11-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.2](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-22-topic-router-stable-ids) topic router; [Chapter Nine](../core_09-09_forum.md#chapter-nine-forums-and-jurisdiction) forum-family routing; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
-- Downstream: [CF-15.1 Composition and competence requirements](#cf-151-composition-and-competence-requirements); [CF-15.2 Reserve, substitute, and surge capacity](#cf-152-reserve-substitute-and-surge-capacity).
-- Read with: **CF-15**; **CF-2**; **CF-4**; **CF-3**; **CF-10**; **CF-11**; **CF-12**; **CF-13**; **CF-15.1**.
+- Downstream: [CF-15.1 Composition and competence requirements](#cf-151-composition-and-competence-requirements); [CF-15.1.1 Support-role-to-adjudicator pathways](#cf-1511-support-role-to-adjudicator-pathways); [CF-15.2 Reserve, substitute, and surge capacity](#cf-152-reserve-substitute-and-surge-capacity).
+- Read with: **CF-15**; **CF-2**; **CF-4**; **CF-3**; **CF-7**; **CF-10**; **CF-11**; **CF-12**; **CF-13**; **CF-15.1**; **CF-15.1.1**.
 
 </details>
 
@@ -24,7 +24,7 @@
 <br>
 
 
-This chapter governs forum-specific **staffing and competence frameworks**, **reserve and surge capacity**, **shared administration and objective assignment** safeguards, **periodic structural review**, **prohibited staffing and capacity patterns**, and the **structural governance record set** that adopting entities must maintain. It complements **CF-2** (forum-structure map, family boundaries, chambers, and minimum bench-support availability), **CF-4** (routing and intake), **CF-3** (panel formation and recusal), **CF-10** (performance and backlog), and **CF-11** through **CF-13** (continuity, fallback operation, and emergency adjudication).
+This chapter governs forum-specific **staffing and competence frameworks**, **support-role-to-adjudicator pathways**, **reserve and surge capacity**, **shared administration and objective assignment** safeguards, **periodic structural review**, **prohibited staffing and capacity patterns**, and the **structural governance record set** that adopting entities must maintain. It complements **CF-2** (forum-structure map, family boundaries, chambers, and minimum bench-support availability), **CF-4** (routing and intake), **CF-3** (panel formation and recusal), **CF-7** (forum forensic and analytical support), **CF-10** (performance and backlog), and **CF-11** through **CF-13** (continuity, fallback operation, and emergency adjudication).
 
 ### CF-15.1 Composition and competence requirements
 <details>
@@ -63,6 +63,47 @@ Every forum family must maintain a composition framework that, at minimum:
 Detailed appointment, tenure, rotation, removal, and conflict-control pathways remain governed by `corpus_institutions.md` **CI-4** (*Appointment, competency, rotation, and removal*) and **CI-5** (*Conflict integrity, anti-capture, and anti-corruption*), together with `core_10-10_rights_part_d.md` **Article XXIII-B** where applicable. **CF-15** (*Forum staffing, reserve capacity, shared administration, structural review, and structural records*) requires those protections to be reflected in the actual forum map and staffing model.
 
 Forum design must not make constitutionally material adjudication depend on a single indispensable officeholder, gatekeeper, or qualification bottleneck where a lawful multi-sentient structure is feasible.
+
+#### CF-15.1.1 Support-role-to-adjudicator pathways
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Upstream: [CJS-1.1](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-11-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.2](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-22-topic-router-stable-ids) topic router; [Chapter Eleven §5](../core_11-11_governance.md#5-authorized-roles-competency-development-and-contribution) authorized roles, competency development, and contribution; [Chapter Nine](../core_09-09_forum.md#chapter-nine-forums-and-jurisdiction) forum-family routing; and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
+- Downstream: this section's local operational requirements for **CF-15.1.1 Support-role-to-adjudicator pathways**; [CF-15.6 Required structural records and artifacts](#cf-156-required-structural-records-and-artifacts).
+- Read with: **CF-15.1.1**; **CF-15.1**; **CF-15.2**; **CF-3**; **CF-7**; `corpus_institutions.md` **CI-4** (*Appointment, competency, rotation, and removal*) and **CI-12** (*Transparency, participation, and accessible pathways*).
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
+
+- [Adjudication and Dispute Resolution](../core_05-05_definitions_b_semi_independent.md#adjudication-and-dispute-resolution-constitutional) · [O](../core_05-05_definitions_b_semi_independent.md#adjudication-and-dispute-resolution-constitutional) · [E](../core_05-05_definitions_b_semi_independent.md#adjudication-and-dispute-resolution-constitutional-e) · [C](../core_05-05_definitions_b_semi_independent.md#adjudication-and-dispute-resolution-constitutional-c)
+- [Procedural Fairness](../core_05-05_definitions_b_semi_independent.md#procedural-fairness-constitutional) · [O](../core_05-05_definitions_b_semi_independent.md#procedural-fairness-constitutional) · [E](../core_05-05_definitions_b_semi_independent.md#procedural-fairness-constitutional-e) · [C](../core_05-05_definitions_b_semi_independent.md#procedural-fairness-constitutional-c)
+- [Accountability](../core_05-05_definitions_b_semi_independent.md#accountability) · [O](../core_05-05_definitions_b_semi_independent.md#accountability) · [E](../core_05-05_definitions_b_semi_independent.md#accountability-e) · [C](../core_05-05_definitions_b_semi_independent.md#accountability-c)
+- [System Capture](../core_05-05_definitions_a_independent.md#system-capture) · [O](../core_05-05_definitions_a_independent.md#system-capture) · [E](../core_05-05_definitions_a_independent.md#system-capture-e) · [C](../core_05-05_definitions_a_independent.md#system-capture-c)
+- [Incentive Alignment](../core_05-05_definitions_a_independent.md#incentive-alignment) · [O](../core_05-05_definitions_a_independent.md#incentive-alignment) · [E](../core_05-05_definitions_a_independent.md#incentive-alignment-e) · [C](../core_05-05_definitions_a_independent.md#incentive-alignment-c)
+- [Transparency](../core_05-05_definitions_c_dependent_clusters.md#transparency) · [O](../core_05-05_definitions_c_dependent_clusters.md#transparency) · [E](../core_05-05_definitions_c_dependent_clusters.md#transparency-e) · [C](../core_05-05_definitions_c_dependent_clusters.md#transparency-c)
+- [Auditability](../core_05-05_definitions_c_dependent_clusters.md#auditability) · [O](../core_05-05_definitions_c_dependent_clusters.md#auditability) · [E](../core_05-05_definitions_c_dependent_clusters.md#auditability-e) · [C](../core_05-05_definitions_c_dependent_clusters.md#auditability-c)
+
+</details>
+
+<br>
+
+Each forum family must maintain a published and non-arbitrary pathway by which qualified sentients serving in forum-support roles may become eligible for adjudicative service. Covered support roles include, where applicable, clerical forum workers, panel coordinators, records and publication personnel, evidence-custody personnel, forensic analysts, technical reviewers, special masters, accessibility or explanation staff, and comparable forum-adjacent roles.
+
+Support-role experience may count toward adjudicative competence when it demonstrates relevant knowledge of procedure, evidence, accessibility, record integrity, forum operations, or the subject-matter needs of a family or chamber. It must not create automatic entitlement to adjudicative authority.
+
+The pathway must include:
+- transparent readiness criteria tied to the family or chamber's published competence framework;
+- equitable capability-building access, including training, supervised service, mentorship, and competency-refresh opportunities proportionate to role impact;
+- role-separation safeguards so prior clerical, analytical, forensic, investigative, prosecutorial, advisory, or evidence-custody work in a matter does not later become unreviewed merits participation in the same matter;
+- conflict, recusal, cooling-off, and disclosure controls sufficient to preserve lawful-panel requirements under **CF-3**;
+- reviewable records of advancement, denial, qualification, disqualification, and reserve-eligibility decisions;
+- a practical challenge route for arbitrary exclusion, patronage, retaliation, disguised protected-characteristic exclusion, credential hoarding, or capture by a narrow profession, funder, institution, or stakeholder network.
+
+Pathway design must preserve the distinction between support authority and merits authority. A forum may use support-role development to build a broader and more institutionally literate adjudicator pool, including reserve adjudicators under **CF-15.2**, but it must not use informal apprenticeship, staff hierarchy, or internal favor as a covert appointment system.
+
+Where a support-role participant is considered for adjudicative service, the record must identify any prior matters, support assignments, dependency relationships, or institutional reporting lines that could reasonably bear on independence in the proposed adjudicative role. The resulting conflict record must remain available for panel formation, disclosure, recusal, and later review under **CF-3**.
 
 ### CF-15.2 Reserve, substitute, and surge capacity
 <details>
@@ -232,6 +273,7 @@ Each adopting entity must maintain and periodically update at least:
 - the public forum-structure map required by **CF-2.2** (*Family-to-forum-structure translation map*);
 - current chamber-creation instruments and scope descriptions;
 - qualification and competence frameworks by family and designated chamber type;
+- support-role-to-adjudicator pathway criteria, training or supervised-service requirements, and advancement or denial review routes;
 - disqualification, incompatibility, rotation, cooling-off, and succession rules applicable to forum-family service;
 - reserve-capacity and substitute-service rules;
 - a structural review log recording major redesigns, mergers avoided, chamber additions, and other significant architecture changes affecting forum operation.
