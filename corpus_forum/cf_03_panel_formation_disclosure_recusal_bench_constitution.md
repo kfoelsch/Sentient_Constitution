@@ -60,6 +60,7 @@ This section does not alter primary-stakes routing, constitutional family bounda
 
 For this section:
 
+- `adjudicator` has the Chapter Five meaning. In this section, an adjudicator becomes a `panel member` when assigned or proposed for assignment to a matter-specific panel, bench, emergency authority, substitute panel, reserve panel, or backup-forum merits body.
 - `lawful panel` means a bench formed under published authority, with the required competence, quorum, independence, and conflict screening for the matter at issue.
 - `independent panel` means a lawful panel in which no member has an unresolved material conflict, capture relationship, direct stake, dependency-linked bias risk, or recusal defect that would reasonably call impartial merits determination into question.
 - `panel coordinator` means the published role responsible for recording panel formation, disclosures, recusals, substitutions, and inability-to-form findings. This role may be clerical, judicial-administrative, or equivalent, but must not unilaterally decide contested recusal merits where the coordinator is materially interested.

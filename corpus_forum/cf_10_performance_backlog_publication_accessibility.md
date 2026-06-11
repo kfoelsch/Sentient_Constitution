@@ -314,7 +314,8 @@ Acceptable corrective actions may include:
 - publication batching improvements;
 - correction, reconsideration, or targeted review of affected decisions where the reviewing pathway permits it;
 - accessibility repair and notice reissuance where pathway usability failed;
-- additional clerical or analytical support;
+- additional qualified adjudicators authorized to sit on a lawful merits bench, subject to **CF-3** panel-formation, quorum, competence, disclosure, independence, and recusal requirements;
+- additional non-decisional clerical, records, scheduling, forensic, technical, or analytical support;
 - temporary coordination changes with other forum families;
 - containment, authority restriction, continuity, or emergency measures where ordinary capacity or constitutional alignment has failed.
 

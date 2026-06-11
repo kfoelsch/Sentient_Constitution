@@ -100,6 +100,7 @@ Each adopting entity must publish a forum-structure map that states, in plain la
 - whether each family is organized as a single standing forum, multiple regional forums, a tiered set of forums, or another lawful arrangement;
 - which chambers, divisions, or designated panels exist within each family;
 - which matters are routed directly to a family-level forum and which may begin in a chamber or lower-level bench;
+- which adjudicators are authorized to decide matters for each forum family, chamber, division, designated panel, or bench, distinguishing adjudicators from intake, coordination, clerical, forensic, technical, analytical, and other administrative or support roles;
 - how each family's published intake priority classes and **intake triage body** (or equivalent under **CF-4.2** (*Intake triage body*)) connect initial filings to forums, chambers, or benches;
 - the appeal or review path for each family and chamber configuration;
 - the backup or fallback forum used when an ordinary forum cannot lawfully act.
