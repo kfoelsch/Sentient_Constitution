@@ -307,6 +307,11 @@ Anti-single-authority verification constraint
 - OP-E: Evaluation must verify at least one practical independent path beyond the controlling authority where feasible.
 - OP-C: Claims are non-compliant if they are monopoly-gated when independent verification is technically feasible.
 
+Structured claim-testing, reliance, and correction integrity
+- OP-O: Material empirical, analytical, technical, methodological, safety-relevant, policy-relevant, dependency-relevant, or rights-relevant claims must have a versioned evidence package, structured review dimensions, conflict controls, visible reliance status, and correction or supersession pathways proportionate to impact.
+- OP-E: Evaluation must verify provenance, methods or workflow description, uncertainty statements, funding and conflict disclosures, data or lawful access limits, reviewer independence and conflicts, replication or adversarial-review status where material, and a searchable record of corrections, retractions, expressions of concern, or superseding claims.
+- OP-C: It is non-compliant to give durable implementation reliance to material claims that are opaque, unverifiable where verification is feasible, stripped of correction history, protected by prestige or ranking proxies instead of evidence quality, or shielded from good-faith replication, reanalysis, methodological critique, or adversarial review.
+
 Class-scaled template floor mapping
 - OP-O: Class-scaled templates must preserve reconstructable audit records, qualified deeper audit access, and at least one independent verification path for material claims.
 - OP-E: Evaluation must verify that simplification changes only volume, format, or cadence, not the required verification capability.

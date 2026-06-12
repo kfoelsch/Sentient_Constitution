@@ -94,7 +94,18 @@ Summary: This subsection states **orientation** for how institutions—and adopt
 
 Summary: Where institutional governed scope includes **Class A** or **Class B** systems (`corpus_systems.md` **Chapter S2**), institutions must maintain **contest-integrity** capacity as part of the **independent assurance line**, or through an equivalent documented...
 
-### 7. CI-26: Compliance mapping and stable registry
+### 7. CI-17: Scientific publication, peer review, replication, and evidence stewardship
+
+- Source: `corpus_institutions/ci_17_scientific_publication_peer_review_replication_evidence_stewardship.md:1`
+- Score / confidence: 26 / high
+- Suggested action: `split-CI-and-CJS`
+- Proposed CJS destination: CJS-5B, CJS-5E, CJS-4.4
+- Signals: joint-interface(1), multi-owner-routing(1), routing-read-with(3), cjs-cluster(1), shared-procedure(8), dependency-failure(3), forum-system-touch(8)
+- Router matches: CJS-R19 — Implementation and cross-implementation integrity assurance and resilience operations; CJS-R17 — Cross-implementation trust integrity (joint operation model); CJS-R16 — Cross-institution coordination, deadlock, and escalation
+
+Summary: **Purpose and owner boundary.** This section governs the institutional custody, funding, ranking, archival, reliance, and review mechanics for scientific and scholarly claims where constitutional adoption brings those functions within scope. Constitutional...
+
+### 8. CI-26: Compliance mapping and stable registry
 
 - Source: `corpus_institutions/ci_26_compliance_mapping_stable_registry.md:1`
 - Score / confidence: 25 / high
@@ -109,7 +120,7 @@ Summary: Institutional protocol IDs use the `INST-PROTO-*` convention and remain
 Near CJS matches:
 - 1.0: `corpus_joint_structure/cjs_00_registry_and_reading_rules.md:91` (Stable identifiers, edition alignment, and drafting notes) — *Corpus alignment:* edition `SC-Corpus-2026.04.30`, effective **2026-04-18**; canonical mapping in [doc_architecture.md](../doc_architect...
 
-### 8. CI-11: Resource stewardship and incentive integrity
+### 9. CI-11: Resource stewardship and incentive integrity
 
 - Source: `corpus_institutions/ci_11_resource_stewardship_incentive_integrity.md:1`
 - Score / confidence: 24 / high
@@ -121,7 +132,7 @@ Near CJS matches:
 
 Summary: **Continuity planning:** Institutions must maintain resource adequacy for safe continuity and constitutional performance. Shared dependency-chain evaluation for funding, staffing, capacity, and resource adequacy is governed by `corpus_joint_structure.md` **...
 
-### 9. CI-18: Community life, voluntary association, and non-instrumental time
+### 10. CI-18: Community life, voluntary association, and non-instrumental time
 
 - Source: `corpus_institutions/ci_18_community_life_voluntary_association_non_instrumental_time.md:1`
 - Score / confidence: 20 / high
@@ -132,17 +143,6 @@ Summary: **Continuity planning:** Institutions must maintain resource adequacy f
 - Keep-in-CI cautions: fees
 
 Summary: **Purpose.** This section records **institutional and system design expectations** for **community belonging**, **cultural gathering**, **play**, **recreation**, **solitude**, and **non-productive time** that are **adjacent to** but **not exhausted by** **A...
-
-### 10. CI-17: Scientific publication, peer review, replication, and evidence stewardship
-
-- Source: `corpus_institutions/ci_17_scientific_publication_peer_review_replication_evidence_stewardship.md:1`
-- Score / confidence: 20 / high
-- Suggested action: `split-CI-and-CJS`
-- Proposed CJS destination: CJS-5B, CJS-5E, CJS-4.4
-- Signals: multi-owner-routing(1), routing-read-with(3), shared-procedure(8), dependency-failure(3), forum-system-touch(8)
-- Router matches: CJS-R19 — Implementation and cross-implementation integrity assurance and resilience operations; CJS-R17 — Cross-implementation trust integrity (joint operation model); CJS-R16 — Cross-institution coordination, deadlock, and escalation
-
-Summary: **Purpose and owner boundary.** This section governs the institutional custody, funding, ranking, archival, reliance, and review mechanics for scientific and scholarly claims where constitutional adoption brings those functions within scope. Constitutional...
 
 ### 11. CI-10.2: Recurring charges, renewals, and commercial billing integrity
 

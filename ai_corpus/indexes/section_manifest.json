@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-06-12T17:14:45+00:00",
+  "generated_at": "2026-06-12T17:30:56+00:00",
   "files": {
     "core_00-01_principles.md": {
       "total_lines": 1506,
@@ -5589,7 +5589,7 @@
       ]
     },
     "corpus_joint_structure/cjs_05b_00_evidence_audit_claim_integrity.md": {
-      "total_lines": 317,
+      "total_lines": 322,
       "sections": [
         {
           "header": "CJS-5B: Evidence, audit, and claim integrity",
@@ -5623,7 +5623,7 @@
           "header": "CJS-5B.4 Implementation and cross-implementation independent verification and claim-integrity terms",
           "level": 2,
           "line_start": 257,
-          "line_end": 317,
+          "line_end": 322,
           "anchor": null
         }
       ]
