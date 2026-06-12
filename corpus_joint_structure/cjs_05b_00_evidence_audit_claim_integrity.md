@@ -88,6 +88,16 @@ Shared anti-capture control stack
 - OP-E: Evaluation must verify that sensitive transactions, approvals, investigations, procurement, licensing, adjudication-support, payout, disbursement, assurance, and protected-escalation lanes have named owners, evidence artifacts, review cadence, independence safeguards, records sufficient for reconstruction, and escalation triggers for credible or repeated failures.
 - OP-C: It is non-compliant to treat anti-capture control as satisfied when controls are undocumented, owned by the subject of the allegation without an independence safeguard, disconnected from protected reporting, unsupported by reconstruction records, or unable to trigger assurance, escalation, remediation, sanction, restitution, clawback, or lawful referral where required.
 
+Control-failure declaration chain
+- OP-O: When a material control failure affects rights pathways, contestability, continuity, evidence integrity, supervised systems, or implementation-layer duties, the owner text must require a current declaration that states the failure, impact, containment posture, remediation path, and unresolved safeguard mode.
+- OP-E: Evaluation must verify the declaration identifies reporting period, accountable publisher, affected scope, affected class or tier where relevant, operating status, detection and onset dates where known, containment actions, review invocation, remediation owner, target dates, dependency risks, and recurrence against prior commitments.
+- OP-C: It is non-compliant to use a control declaration as reputational narration, to omit ongoing failure status, to hide delayed detection or concealment, or to publish remediation claims that cannot be compared against prior commitments and supporting records.
+
+External assurance trigger floor
+- OP-O: Independent external assurance must be triggered when class or tier exposure, severe incident, repeated control failure, integrity failure, or structural change creates credible doubt that ordinary internal review is sufficient.
+- OP-E: Evaluation must verify the published trigger criteria, maximum commissioning time, authorized invokers, minimum engagement scope, affected records, outcome-publication expectations, unresolved exceptions, and escalation route where the local commissioning authority is conflicted, captured, unavailable, or non-responsive.
+- OP-C: It is non-compliant to rely on discretionary internal assurance alone after a qualifying trigger, to leave commissioning authority self-judging, to omit affected records from the engagement scope, or to suppress unresolved exceptions needed for lawful escalation or contestability.
+
 Independent verification path integrity
 - OP-O: Material claims must have practical routes for independent testing, reproduction, and comparison.
 - OP-E: Evaluation must verify at least one practical independent verification path for each materially significant claim family.

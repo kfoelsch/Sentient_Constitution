@@ -540,6 +540,7 @@ def write_outputs(candidates: list[Candidate], output_dir: Path, root: Path, min
     with csv_path.open("w", encoding="utf-8", newline="") as fh:
         writer = csv.DictWriter(
             fh,
+            lineterminator="\n",
             fieldnames=[
                 "file",
                 "section_id",

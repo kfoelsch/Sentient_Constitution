@@ -64,22 +64,9 @@ Institutions must maintain record and evidence custody sufficient for audit, con
 
 At least annually, each institution must publish a declaration on whether material controls are operating effectively.
 
-If material controls fail, the declaration must include:
-- failure description,
-- impact estimate,
-- immediate safeguards,
-- remediation plan,
-- progress status against prior remediation commitments.
+If material controls fail, apply `corpus_joint_structure.md` **CJS-5B.1** (*Implementation and cross-implementation integrity assurance and resilience operations*) for the shared control-failure declaration chain: failure description, impact, containment, remediation, recurrence, supporting records, and unresolved safeguard mode.
 
-Minimum disclosure bundle (**`INST-PROTO-11`** and **`INST-PROTO-17`** interface):
-- reporting period, accountable publishing authority, and publication date;
-- institutional scope, affected class/tier coverage, and affected control lane or protocol family;
-- whether the failure is ongoing, contained, remediated, or reopened after prior closure;
-- affected decisions, services, rights pathways, records, or supervised systems, including whether contestability or continuity duties were materially impaired;
-- detection date, earliest known onset if different, and whether delayed detection or concealment occurred;
-- immediate containment actions, temporary operating limits, and whether independent review or external assurance has been invoked;
-- remediation owner, target dates, dependency risks, and any conditions that would require rollback, suspension, or escalation;
-- comparison against prior declarations where the same control family, root cause, or remediation commitment has recurred.
+Institutional declarations must also identify the affected institutional lane or **`INST-PROTO-*`** family and the accountable publishing authority under the **`INST-PROTO-11`** and **`INST-PROTO-17`** interface.
 
 Institutions must not use the controls declaration as a narrative substitute for current operational reality. If a material failure remains unresolved at publication time, the declaration must say so plainly and must identify the interim constitutional safeguard **mode**.
 
@@ -112,25 +99,9 @@ For supervised systems, institutions should require a supporting system-level pa
 
 Independent external assurance is mandatory when trigger thresholds are met.
 
-Trigger criteria must be documented and published, and must include:
-- class/tier threshold triggers,
-- severe-incident triggers,
-- repeated-control-failure triggers,
-- anti-constitutional misconduct triggers.
+Apply `corpus_joint_structure.md` **CJS-5B.1** (*Implementation and cross-implementation integrity assurance and resilience operations*) for the shared external assurance trigger floor: class or tier exposure, severe incident, repeated control failure, integrity failure, structural change, commissioning time, authorized invokers, engagement scope, publication expectations, unresolved exceptions, and conflicted-authority escalation.
 
-Minimum mandatory trigger floor:
-- **Class/tier floor:** institutions with governed scope that materially includes **Class A** systems, or **Class B** systems operated by or materially dependent on **Critical System Stewards**, must obtain independent external assurance on a fixed cadence defined in the published assurance protocol;
-- **Severe-incident floor:** external assurance must trigger after any severe incident that materially affects rights, survival-relevant access, contestability, evidence integrity, continuity, lawful authorization, or constitutional truthfulness;
-- **Repeated-control-failure floor:** external assurance must trigger where the same material control family fails repeatedly within the published review window, where remediation commitments are materially overdue, or where prior declared remediation proves ineffective;
-- **Integrity-failure floor:** external assurance must trigger where substantiated corruption, fraud, concealment, retaliation against protected escalation, grave disclosure breach, or systemic conflict-control failure raises credible doubt about internal review independence;
-- **Structural-change floor:** external assurance must trigger after major restructuring, authority transfer, merger, dissolution-preparation, or continuity activation where control ownership, evidence custody, or review independence materially changes.
-
-Published trigger criteria must also state:
-- the maximum time to commission assurance after a trigger is met;
-- who may invoke the trigger and whether affected parties, contest-integrity monitors, or assurance-line actors may demand review;
-- the minimum scope of the assurance engagement, including affected controls, records, and remediation claims;
-- publication expectations for outcomes, limits, and unresolved exceptions;
-- when escalation through **CI-8** (*Cross-institution coordination and escalation*) is required because local commissioning authority is conflicted, captured, unavailable, or non-responsive.
+Institutional trigger criteria must be documented and published. They must state when escalation through **CI-8** (*Cross-institution coordination and escalation*) is required because local commissioning authority is conflicted, captured, unavailable, or non-responsive.
 
 ### CI-7.3: Contest-integrity monitoring (Class A and Class B)
 <details>

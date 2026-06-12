@@ -9,8 +9,8 @@ This is an editorial exposure audit. It identifies candidate passages for reloca
 ## Summary
 
 - Candidate threshold: relocation score >= 5
-- Candidates: 38
-- Confidence: high 23, medium 9, low 6
+- Candidates: 37
+- Confidence: high 22, medium 9, low 6
 
 ## Classification rules
 
@@ -84,7 +84,7 @@ Summary: This subsection states **orientation** for how institutions—and adopt
 
 ### 6. CI-7.3: Contest-integrity monitoring (Class A and Class B)
 
-- Source: `corpus_institutions/ci_07_oversight_assurance_controls_evidence.md:135`
+- Source: `corpus_institutions/ci_07_oversight_assurance_controls_evidence.md:106`
 - Score / confidence: 28 / high
 - Suggested action: `split-CI-and-CJS`
 - Proposed CJS destination: CJS-5B, CJS-4.4, CJS-3 / CJS-4
@@ -272,18 +272,7 @@ Summary: Institutions with regulated or supervised scope must publish how major 
 
 Summary: Where institutions share jurisdiction, they must maintain a published coordination and escalation protocol. That protocol must include: - conflict-order handling, - deadlock-breaker path, - evidence-sharing boundaries, - accountability assignment, - externa...
 
-### 22. CI-7.1: Controls declaration
-
-- Source: `corpus_institutions/ci_07_oversight_assurance_controls_evidence.md:40`
-- Score / confidence: 12 / high
-- Suggested action: `split-CI-and-CJS`
-- Proposed CJS destination: CJS-5E, CJS-5B, CJS-5D
-- Signals: routing-read-with(2), dependency-failure(6), forum-system-touch(5)
-- Router matches: CJS-R19 — Implementation and cross-implementation integrity assurance and resilience operations; CJS-R17 — Cross-implementation trust integrity (joint operation model); CJS-R15 — Contest-integrity monitoring (pathway integrity, not merits)
-
-Summary: At least annually, each institution must publish a declaration on whether material controls are operating effectively. If material controls fail, the declaration must include: - failure description, - impact estimate, - immediate safeguards, - remediation p...
-
-### 23. CI-7: Oversight, assurance, controls, and evidence
+### 22. CI-7: Oversight, assurance, controls, and evidence
 
 - Source: `corpus_institutions/ci_07_oversight_assurance_controls_evidence.md:1`
 - Score / confidence: 12 / high
@@ -294,7 +283,7 @@ Summary: At least annually, each institution must publish a declaration on wheth
 
 Summary: **Constitutional index (abridged)** - Topic-level routing and cited authorities remain in subsection text and cross-references. - Canonical owner map: `corpus_joint_structure.md` **CJS-2.2** (*Topic router (stable IDs)*) and `doc_architecture.md` section 4....
 
-### 24. CI-9.4: Survival floors, voluntary exchange, and markets (Article III-A interface)
+### 23. CI-9.4: Survival floors, voluntary exchange, and markets (Article III-A interface)
 
 - Source: `corpus_institutions/ci_09_classification_linked_institutional_obligations.md:271`
 - Score / confidence: 11 / medium
@@ -306,7 +295,7 @@ Summary: **Constitutional index (abridged)** - Topic-level routing and cited aut
 
 Summary: **Purpose.** **Article III-A** (*Survival*) in `core_10-10_rights_part_*.md` states outcome obligations for essential resources, housing, and connectivity. This subsection records how institutions should connect those outcomes to public revenue, user charge...
 
-### 25. CI-1.1: Definition discipline and source hierarchy
+### 24. CI-1.1: Definition discipline and source hierarchy
 
 - Source: `corpus_institutions/ci_01_scope_purpose_legitimacy_interface.md:60`
 - Score / confidence: 11 / medium
@@ -317,19 +306,7 @@ Summary: **Purpose.** **Article III-A** (*Survival*) in `core_10-10_rights_part_
 
 Summary: Definition discipline is single-home: - Constitutional definition structure, compliance-state meaning, offense classification, rights meaning, and authority-stack order remain in the numbered Sentient Constitution `core_*` files under the CJS shared preambl...
 
-### 26. CI-7.2: External assurance triggers
-
-- Source: `corpus_institutions/ci_07_oversight_assurance_controls_evidence.md:88`
-- Score / confidence: 10 / medium
-- Suggested action: `split-CI-and-CJS`
-- Proposed CJS destination: CJS-5B, CJS-5E, CJS-3 / CJS-4
-- Signals: routing-read-with(1), dependency-failure(4), forum-system-touch(5)
-- Router matches: CJS-R19 — Implementation and cross-implementation integrity assurance and resilience operations; CJS-R17 — Cross-implementation trust integrity (joint operation model); CJS-R15 — Contest-integrity monitoring (pathway integrity, not merits)
-- Keep-in-CI cautions: dissolution
-
-Summary: Independent external assurance is mandatory when trigger thresholds are met. Trigger criteria must be documented and published, and must include: - class/tier threshold triggers, - severe-incident triggers, - repeated-control-failure triggers, - anti-consti...
-
-### 27. CI-9.3.2: Authority composition
+### 25. CI-9.3.2: Authority composition
 
 - Source: `corpus_institutions/ci_09_classification_linked_institutional_obligations.md:183`
 - Score / confidence: 9 / medium
@@ -341,7 +318,18 @@ Summary: Independent external assurance is mandatory when trigger thresholds are
 
 Summary: **Joint minimum.** Delegated subunits in scope must satisfy **`corpus_joint_structure.md` CJS-4.1** (*Mandatory hybrid authority composition*). Read **CJS-4.1** (*Mandatory hybrid authority composition (delegated binding bodies)*) with **CI-9.3.1** (*Identi...
 
-### 28. CI-4: Appointment, competency, rotation, and removal
+### 26. CI-7.1: Controls declaration
+
+- Source: `corpus_institutions/ci_07_oversight_assurance_controls_evidence.md:40`
+- Score / confidence: 9 / medium
+- Suggested action: `replace-with-pointer`
+- Proposed CJS destination: CJS-5E, CJS-5B, CJS-5D
+- Signals: routing-read-with(1), dependency-failure(3), forum-system-touch(4)
+- Router matches: CJS-R17 — Cross-implementation trust integrity (joint operation model); CJS-R19 — Implementation and cross-implementation integrity assurance and resilience operations; CJS-R15 — Contest-integrity monitoring (pathway integrity, not merits)
+
+Summary: At least annually, each institution must publish a declaration on whether material controls are operating effectively. If material controls fail, apply `corpus_joint_structure.md` **CJS-5B.1** (*Implementation and cross-implementation integrity assurance an...
+
+### 27. CI-4: Appointment, competency, rotation, and removal
 
 - Source: `corpus_institutions/ci_04_appointment_competency_rotation_removal.md:1`
 - Score / confidence: 9 / medium
@@ -353,7 +341,7 @@ Summary: **Joint minimum.** Delegated subunits in scope must satisfy **`corpus_j
 
 Summary: Institutions must maintain role criteria that are clear, relevant to impact, and accessible to qualified participants. Role assignment must not rely on arbitrary gatekeeping. Each institution must maintain: - qualification standards, - disqualification stan...
 
-### 29. CI-24: Neurodiversity, disability justice, and trauma-informed participation
+### 28. CI-24: Neurodiversity, disability justice, and trauma-informed participation
 
 - Source: `corpus_institutions/ci_24_neurodiversity_disability_justice_trauma_informed_participation.md:1`
 - Score / confidence: 8 / medium
@@ -364,7 +352,7 @@ Summary: Institutions must maintain role criteria that are clear, relevant to im
 
 Summary: **Purpose.** This section **operationalizes** **participation** **design** that **treats** **accessibility** as **more** than **entrance**-**level** **accommodation** — including **pacing**, **supported** **decision-making**, **communication** **alternative...
 
-### 30. CI-6: Procedure integrity, contestability, and secondary review
+### 29. CI-6: Procedure integrity, contestability, and secondary review
 
 - Source: `corpus_institutions/ci_06_procedure_integrity_contestability_secondary_review.md:1`
 - Score / confidence: 8 / medium
@@ -375,7 +363,7 @@ Summary: **Purpose.** This section **operationalizes** **participation** **desig
 
 Summary: Procedure rules here must remain consistent with **Chapter Five** (*Procedural Fairness*, *Contestability*, *Accountability*, *Redress and Remediation*) and with `core_02-04_definition_mechanics.md` **Chapter Four** verification and traceability rules. Shar...
 
-### 31. CI-22: Commons, cooperatives, mutual aid, and non-market community governance
+### 30. CI-22: Commons, cooperatives, mutual aid, and non-market community governance
 
 - Source: `corpus_institutions/ci_22_commons_cooperatives_mutual_aid_non_market_governance.md:1`
 - Score / confidence: 7 / medium
@@ -387,7 +375,7 @@ Summary: Procedure rules here must remain consistent with **Chapter Five** (*Pro
 
 Summary: **Purpose.** This section supports **commons**-based and **community-managed** **resource** **patterns** **without** **forcing** every **durable** **institution** into **only** **state**, **corporate**, or **adversarial-forum** **molds** — while **keeping**...
 
-### 32. CI-12.3: Digital self-service pathway integrity
+### 31. CI-12.3: Digital self-service pathway integrity
 
 - Source: `corpus_institutions/ci_12_transparency_participation_accessible_pathways.md:119`
 - Score / confidence: 7 / medium
@@ -399,7 +387,7 @@ Summary: **Purpose.** This section supports **commons**-based and **community-ma
 
 Summary: Digital self-service pathway integrity (Operational; Corpus Institutions) - OP-O: Apply `corpus_joint_structure.md` **CJS-5D.2** (*Implementation and cross-implementation interoperability, portability, and exit-integrity terms*) **Digital self-service pathw...
 
-### 33. CI-25: Collective public health, epidemic response, and addiction-informed care
+### 32. CI-25: Collective public health, epidemic response, and addiction-informed care
 
 - Source: `corpus_institutions/ci_25_collective_public_health_epidemic_response_addiction_informed_care.md:1`
 - Score / confidence: 6 / low
@@ -410,7 +398,7 @@ Summary: Digital self-service pathway integrity (Operational; Corpus Institution
 
 Summary: **Purpose.** This section frames **contagion**, **environmental** **exposure**, **population**-**level** **harms**, and **addiction** as **collective**-**care** and **governance** **problems** **under** **Article I-D**, **Article III-C**, **Article VII-C**,...
 
-### 34. CI-12: Transparency, participation, and accessible pathways
+### 33. CI-12: Transparency, participation, and accessible pathways
 
 - Source: `corpus_institutions/ci_12_transparency_participation_accessible_pathways.md:1`
 - Score / confidence: 6 / low
@@ -421,7 +409,7 @@ Summary: **Purpose.** This section frames **contagion**, **environmental** **exp
 
 Summary: Institutional governance must be understandable and accessible to materially affected participants. Institutions must provide practical access to participation, review, and challenge channels, including accessibility accommodations sufficient for substantiv...
 
-### 35. CI-9.1: Formation proportionality
+### 34. CI-9.1: Formation proportionality
 
 - Source: `corpus_institutions/ci_09_classification_linked_institutional_obligations.md:37`
 - Score / confidence: 6 / low
@@ -432,7 +420,7 @@ Summary: Institutional governance must be understandable and accessible to mater
 
 Summary: Institutions whose governed scope is only planned Class P systems must have low-friction and low-cost formation paths with simplified pre-authorization checks. Institutions governing Class A systems must satisfy extensive due diligence proportional to scope...
 
-### 36. CI-14.2: Article XXV-D — trigger catalog, anti-abuse metrics, and publication requirements
+### 35. CI-14.2: Article XXV-D — trigger catalog, anti-abuse metrics, and publication requirements
 
 - Source: `corpus_institutions/ci_14_transitional_governance_institutional_evolution.md:79`
 - Score / confidence: 5 / low
@@ -444,7 +432,7 @@ Summary: Institutions whose governed scope is only planned Class P systems must 
 
 Summary: **Constitutional home:** **Chapter Ten**, **Article XXV-D** (*Non-Compliant Property, Seizure, Impoundment, Quarantine, Forfeiture, and Voluntary Turnover Incentives*). This subsection is **implementation-only**; it does not restate the Rights Floor. **Trig...
 
-### 37. CI-12.1: Stakeholder oversight, notification, and binding-governance pathway integrity
+### 36. CI-12.1: Stakeholder oversight, notification, and binding-governance pathway integrity
 
 - Source: `corpus_institutions/ci_12_transparency_participation_accessible_pathways.md:38`
 - Score / confidence: 5 / low
@@ -455,7 +443,7 @@ Summary: **Constitutional home:** **Chapter Ten**, **Article XXV-D** (*Non-Compl
 
 Summary: Institutions must maintain practical channels through which materially affected stakeholders can receive notice, participate, contest, and track outcomes for governance decisions that materially affect them. **Stakeholder oversight channels.** Institutions...
 
-### 38. CI-2.2: Functional separation lanes
+### 37. CI-2.2: Functional separation lanes
 
 - Source: `corpus_institutions/ci_02_institutional_design_separation_of_powers.md:60`
 - Score / confidence: 5 / low

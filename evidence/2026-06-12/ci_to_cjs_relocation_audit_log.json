@@ -173,8 +173,8 @@
     "file": "corpus_institutions/ci_07_oversight_assurance_controls_evidence.md",
     "section_id": "CI-7.3",
     "title": "Contest-integrity monitoring (Class A and Class B)",
-    "start_line": 135,
-    "end_line": 181,
+    "start_line": 106,
+    "end_line": 152,
     "score": 28,
     "confidence": "high",
     "action": "split-CI-and-CJS",
@@ -692,34 +692,6 @@
   },
   {
     "file": "corpus_institutions/ci_07_oversight_assurance_controls_evidence.md",
-    "section_id": "CI-7.1",
-    "title": "Controls declaration",
-    "start_line": 40,
-    "end_line": 87,
-    "score": 12,
-    "confidence": "high",
-    "action": "split-CI-and-CJS",
-    "destinations": [
-      "CJS-5E",
-      "CJS-5B",
-      "CJS-5D"
-    ],
-    "signals": [
-      "routing-read-with(2)",
-      "dependency-failure(6)",
-      "forum-system-touch(5)"
-    ],
-    "router_rows": [
-      "CJS-R19 \u2014 Implementation and cross-implementation integrity assurance and resilience operations",
-      "CJS-R17 \u2014 Cross-implementation trust integrity (joint operation model)",
-      "CJS-R15 \u2014 Contest-integrity monitoring (pathway integrity, not merits)"
-    ],
-    "similar_cjs": [],
-    "keep_notes": [],
-    "summary": "At least annually, each institution must publish a declaration on whether material controls are operating effectively. If material controls fail, the declaration must include: - failure description, - impact estimate, - immediate safeguards, - remediation p..."
-  },
-  {
-    "file": "corpus_institutions/ci_07_oversight_assurance_controls_evidence.md",
     "section_id": "CI-7",
     "title": "Oversight, assurance, controls, and evidence",
     "start_line": 1,
@@ -809,36 +781,6 @@
     "summary": "Definition discipline is single-home: - Constitutional definition structure, compliance-state meaning, offense classification, rights meaning, and authority-stack order remain in the numbered Sentient Constitution `core_*` files under the CJS shared preambl..."
   },
   {
-    "file": "corpus_institutions/ci_07_oversight_assurance_controls_evidence.md",
-    "section_id": "CI-7.2",
-    "title": "External assurance triggers",
-    "start_line": 88,
-    "end_line": 134,
-    "score": 10,
-    "confidence": "medium",
-    "action": "split-CI-and-CJS",
-    "destinations": [
-      "CJS-5B",
-      "CJS-5E",
-      "CJS-3 / CJS-4"
-    ],
-    "signals": [
-      "routing-read-with(1)",
-      "dependency-failure(4)",
-      "forum-system-touch(5)"
-    ],
-    "router_rows": [
-      "CJS-R19 \u2014 Implementation and cross-implementation integrity assurance and resilience operations",
-      "CJS-R17 \u2014 Cross-implementation trust integrity (joint operation model)",
-      "CJS-R15 \u2014 Contest-integrity monitoring (pathway integrity, not merits)"
-    ],
-    "similar_cjs": [],
-    "keep_notes": [
-      "dissolution"
-    ],
-    "summary": "Independent external assurance is mandatory when trigger thresholds are met. Trigger criteria must be documented and published, and must include: - class/tier threshold triggers, - severe-incident triggers, - repeated-control-failure triggers, - anti-consti..."
-  },
-  {
     "file": "corpus_institutions/ci_09_classification_linked_institutional_obligations.md",
     "section_id": "CI-9.3.2",
     "title": "Authority composition",
@@ -866,6 +808,34 @@
       "institution-specific"
     ],
     "summary": "**Joint minimum.** Delegated subunits in scope must satisfy **`corpus_joint_structure.md` CJS-4.1** (*Mandatory hybrid authority composition*). Read **CJS-4.1** (*Mandatory hybrid authority composition (delegated binding bodies)*) with **CI-9.3.1** (*Identi..."
+  },
+  {
+    "file": "corpus_institutions/ci_07_oversight_assurance_controls_evidence.md",
+    "section_id": "CI-7.1",
+    "title": "Controls declaration",
+    "start_line": 40,
+    "end_line": 74,
+    "score": 9,
+    "confidence": "medium",
+    "action": "replace-with-pointer",
+    "destinations": [
+      "CJS-5E",
+      "CJS-5B",
+      "CJS-5D"
+    ],
+    "signals": [
+      "routing-read-with(1)",
+      "dependency-failure(3)",
+      "forum-system-touch(4)"
+    ],
+    "router_rows": [
+      "CJS-R17 \u2014 Cross-implementation trust integrity (joint operation model)",
+      "CJS-R19 \u2014 Implementation and cross-implementation integrity assurance and resilience operations",
+      "CJS-R15 \u2014 Contest-integrity monitoring (pathway integrity, not merits)"
+    ],
+    "similar_cjs": [],
+    "keep_notes": [],
+    "summary": "At least annually, each institution must publish a declaration on whether material controls are operating effectively. If material controls fail, apply `corpus_joint_structure.md` **CJS-5B.1** (*Implementation and cross-implementation integrity assurance an..."
   },
   {
     "file": "corpus_institutions/ci_04_appointment_competency_rotation_removal.md",
