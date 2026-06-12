@@ -179,7 +179,18 @@ Summary: **Constitutional index (abridged)** - Topic-level routing and cited aut
 
 Summary: Where transition plans address **non-compliant property or systems** under **Sentient Constitution Chapter Ten, Article XXV-D**, institutions must publish and maintain: - **Eligibility and process:** clear criteria linking measures to **Chapter Six** compli...
 
-### 14. CI-5.1: Integrity trigger taxonomy and cross-layer routing (control package)
+### 14. CI-8: Cross-institution coordination and escalation
+
+- Source: `corpus_institutions/ci_08_cross_institution_coordination_escalation.md:1`
+- Score / confidence: 16 / high
+- Suggested action: `split-CI-and-CJS`
+- Proposed CJS destination: CJS-3 / CJS-4, CJS-5B, CJS-5C
+- Signals: routing-read-with(6), cjs-cluster(1), shared-procedure(1), forum-system-touch(4)
+- Router matches: CJS-R19 — Implementation and cross-implementation integrity assurance and resilience operations; CJS-R17 — Cross-implementation trust integrity (joint operation model); CJS-R16 — Cross-institution coordination, deadlock, and escalation
+
+Summary: Where institutions share jurisdiction, evidence custody, review responsibility, enforcement support, investigative interface, or forum-adjacent routing, they must maintain a published coordination and escalation protocol. The shared coordination, deadlock,...
+
+### 15. CI-5.1: Integrity trigger taxonomy and cross-layer routing (control package)
 
 - Source: `corpus_institutions/ci_05_conflict_integrity_anti_capture_anti_corruption.md:57`
 - Score / confidence: 16 / high
@@ -191,7 +202,7 @@ Summary: Where transition plans address **non-compliant property or systems** un
 
 Summary: This subsection names institutional trigger categories for **CI-5** (*Conflict integrity, anti-capture, and anti-corruption*) control maps and training. Shared cross-layer routing for integrity triggers is governed by `corpus_joint_structure.md` **CJS-5B.1*...
 
-### 15. CI-5: Conflict integrity, anti-capture, and anti-corruption
+### 16. CI-5: Conflict integrity, anti-capture, and anti-corruption
 
 - Source: `corpus_institutions/ci_05_conflict_integrity_anti_capture_anti_corruption.md:1`
 - Score / confidence: 16 / high
@@ -203,7 +214,7 @@ Summary: This subsection names institutional trigger categories for **CI-5** (*C
 
 Summary: Institutions must maintain: - auditable conflict controls that cover financial, relational, and role-based conflicts. - anti-corruption and anti-fraud controls across prevention, detection, response, and remediation. Required controls include: - disclosure...
 
-### 16. CI-21: Relational coercive control, intimate power, and anti-domination routing
+### 17. CI-21: Relational coercive control, intimate power, and anti-domination routing
 
 - Source: `corpus_institutions/ci_21_relational_coercive_control_intimate_power_anti_domination.md:1`
 - Score / confidence: 14 / high
@@ -214,7 +225,7 @@ Summary: Institutions must maintain: - auditable conflict controls that cover fi
 
 Summary: **Purpose.** This section makes **coercive control**, **economic dependence**, **isolation**, **reproductive pressure**, and **reputation** **threats** **legible** in **institutional** **routes** when they occur in **intimate**, **household**, **care**, **w...
 
-### 17. CI-14: Transitional governance and institutional evolution
+### 18. CI-14: Transitional governance and institutional evolution
 
 - Source: `corpus_institutions/ci_14_transitional_governance_institutional_evolution.md:1`
 - Score / confidence: 13 / high
@@ -226,7 +237,7 @@ Summary: **Purpose.** This section makes **coercive control**, **economic depend
 
 Summary: Institutional redesign, consolidation, or transfer must preserve non-regression and continuity duties. Where the transition materially involves constitutional systems, institutions must read this section with `corpus_systems.md` **Protocol T** (*Transition...
 
-### 18. CI-13: Institutional failure, sanctions, dissolution, and accountability
+### 19. CI-13: Institutional failure, sanctions, dissolution, and accountability
 
 - Source: `corpus_institutions/ci_13_institutional_failure_sanctions_dissolution_accountability.md:1`
 - Score / confidence: 13 / high
@@ -238,7 +249,7 @@ Summary: Institutional redesign, consolidation, or transfer must preserve non-re
 
 Summary: **Constitutional index (abridged)** - Topic-level routing and cited authorities remain in subsection text and cross-references. - Canonical owner map: `corpus_joint_structure.md` **CJS-2.2** (*Topic router (stable IDs)*) and `doc_architecture.md` section 4....
 
-### 19. CI-20: Care labor, dependent support, respite, and care-economy fairness
+### 20. CI-20: Care labor, dependent support, respite, and care-economy fairness
 
 - Source: `corpus_institutions/ci_20_care_labor_dependent_support_respite_care_economy_fairness.md:1`
 - Score / confidence: 12 / high
@@ -250,7 +261,7 @@ Summary: **Constitutional index (abridged)** - Topic-level routing and cited aut
 
 Summary: **Purpose.** This section hardens **practical** support for **unpaid** and **paid** **care**, **respite**, **elder** and **disability** care, and **synthetic**/**substrate** **maintenance** burdens so **care** is **not** honored **abstractly** while **carer...
 
-### 20. CI-9.2: Published industry and domain mapping
+### 21. CI-9.2: Published industry and domain mapping
 
 - Source: `corpus_institutions/ci_09_classification_linked_institutional_obligations.md:75`
 - Score / confidence: 12 / high
@@ -260,17 +271,6 @@ Summary: **Purpose.** This section hardens **practical** support for **unpaid** 
 - Router matches: CJS-R19 — Implementation and cross-implementation integrity assurance and resilience operations; CJS-R17 — Cross-implementation trust integrity (joint operation model); CJS-R15 — Contest-integrity monitoring (pathway integrity, not merits)
 
 Summary: Institutions with regulated or supervised scope must publish how major industries and regulatory domains under their authority are located against `corpus_systems.md` **Chapter S2** classes and **Chapter S3** stewardship tiers. That published map should use...
-
-### 21. CI-8: Cross-institution coordination and escalation
-
-- Source: `corpus_institutions/ci_08_cross_institution_coordination_escalation.md:1`
-- Score / confidence: 12 / high
-- Suggested action: `split-CI-and-CJS`
-- Proposed CJS destination: CJS-5B, CJS-3 / CJS-4, CJS-5E
-- Signals: multi-owner-routing(1), routing-read-with(2), dependency-failure(1), forum-system-touch(7)
-- Router matches: CJS-R19 — Implementation and cross-implementation integrity assurance and resilience operations; CJS-R17 — Cross-implementation trust integrity (joint operation model); CJS-R16 — Cross-institution coordination, deadlock, and escalation
-
-Summary: Where institutions share jurisdiction, they must maintain a published coordination and escalation protocol. That protocol must include: - conflict-order handling, - deadlock-breaker path, - evidence-sharing boundaries, - accountability assignment, - externa...
 
 ### 22. CI-7: Oversight, assurance, controls, and evidence
 

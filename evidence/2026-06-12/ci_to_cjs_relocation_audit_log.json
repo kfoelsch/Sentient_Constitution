@@ -442,6 +442,35 @@
     "summary": "Where transition plans address **non-compliant property or systems** under **Sentient Constitution Chapter Ten, Article XXV-D**, institutions must publish and maintain: - **Eligibility and process:** clear criteria linking measures to **Chapter Six** compli..."
   },
   {
+    "file": "corpus_institutions/ci_08_cross_institution_coordination_escalation.md",
+    "section_id": "CI-8",
+    "title": "Cross-institution coordination and escalation",
+    "start_line": 1,
+    "end_line": 38,
+    "score": 16,
+    "confidence": "high",
+    "action": "split-CI-and-CJS",
+    "destinations": [
+      "CJS-3 / CJS-4",
+      "CJS-5B",
+      "CJS-5C"
+    ],
+    "signals": [
+      "routing-read-with(6)",
+      "cjs-cluster(1)",
+      "shared-procedure(1)",
+      "forum-system-touch(4)"
+    ],
+    "router_rows": [
+      "CJS-R19 \u2014 Implementation and cross-implementation integrity assurance and resilience operations",
+      "CJS-R17 \u2014 Cross-implementation trust integrity (joint operation model)",
+      "CJS-R16 \u2014 Cross-institution coordination, deadlock, and escalation"
+    ],
+    "similar_cjs": [],
+    "keep_notes": [],
+    "summary": "Where institutions share jurisdiction, evidence custody, review responsibility, enforcement support, investigative interface, or forum-adjacent routing, they must maintain a published coordination and escalation protocol. The shared coordination, deadlock,..."
+  },
+  {
     "file": "corpus_institutions/ci_05_conflict_integrity_anti_capture_anti_corruption.md",
     "section_id": "CI-5.1",
     "title": "Integrity trigger taxonomy and cross-layer routing (control package)",
@@ -660,35 +689,6 @@
     "similar_cjs": [],
     "keep_notes": [],
     "summary": "Institutions with regulated or supervised scope must publish how major industries and regulatory domains under their authority are located against `corpus_systems.md` **Chapter S2** classes and **Chapter S3** stewardship tiers. That published map should use..."
-  },
-  {
-    "file": "corpus_institutions/ci_08_cross_institution_coordination_escalation.md",
-    "section_id": "CI-8",
-    "title": "Cross-institution coordination and escalation",
-    "start_line": 1,
-    "end_line": 45,
-    "score": 12,
-    "confidence": "high",
-    "action": "split-CI-and-CJS",
-    "destinations": [
-      "CJS-5B",
-      "CJS-3 / CJS-4",
-      "CJS-5E"
-    ],
-    "signals": [
-      "multi-owner-routing(1)",
-      "routing-read-with(2)",
-      "dependency-failure(1)",
-      "forum-system-touch(7)"
-    ],
-    "router_rows": [
-      "CJS-R19 \u2014 Implementation and cross-implementation integrity assurance and resilience operations",
-      "CJS-R17 \u2014 Cross-implementation trust integrity (joint operation model)",
-      "CJS-R16 \u2014 Cross-institution coordination, deadlock, and escalation"
-    ],
-    "similar_cjs": [],
-    "keep_notes": [],
-    "summary": "Where institutions share jurisdiction, they must maintain a published coordination and escalation protocol. That protocol must include: - conflict-order handling, - deadlock-breaker path, - evidence-sharing boundaries, - accountability assignment, - externa..."
   },
   {
     "file": "corpus_institutions/ci_07_oversight_assurance_controls_evidence.md",

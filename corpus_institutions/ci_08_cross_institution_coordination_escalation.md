@@ -24,16 +24,9 @@
 <br>
 
 
-Where institutions share jurisdiction, they must maintain a published coordination and escalation protocol.
+Where institutions share jurisdiction, evidence custody, review responsibility, enforcement support, investigative interface, or forum-adjacent routing, they must maintain a published coordination and escalation protocol. The shared coordination, deadlock, backup-routing, and cross-forum anti-self-judging chain is governed by `corpus_joint_structure.md` **CJS-5B.1** (*Implementation and cross-implementation integrity assurance and resilience operations*), read with **CJS-R16** (*Cross-institution coordination, deadlock, and escalation*).
 
-That protocol must include:
-- conflict-order handling,
-- deadlock-breaker path,
-- evidence-sharing boundaries,
-- accountability assignment,
-- external review trigger where internal deadlock persists,
-- escalation for independent investigative service failures under `corpus_forum.md` **CF-8** (*Independent investigative service and prosecution interface*), including transfer, co-assignment, external assurance, or another lawful backup body when local independence is not credible because of concentration, emergency incapacity, deadlock, systemic capture indicators, or material involvement of local enforcement, constitutional enforcement, prosecutors, investigators, security services, forums, detention personnel, executive leadership, foreign partners, private contractors, or parallel bodies,
-- published routing for **cross-forum anti-self-judging** claims under `core_09-09_forum.md` **Chapter Nine**, including lead/backup designation, recusal and unavailability triggers, lawful-panel formation checks, and reasoned transfer records.
+Institutional protocols must name the local roles, records, deadlines, authorized escalation triggers, stakeholder-facing publication rules, and accountable owners needed to make the **CJS-5B.1** chain usable in the institution's own scope. Where **CF-8** (*Independent investigative service and prosecution interface*) or Chapter Nine backup routing is triggered, the institution must preserve reasoned transfer records and cooperate with the lawful backup body without using local institutional narration as a substitute for forum-owner procedure.
 
 External-order interactions must remain consistent with constitutional change and supremacy rules in `core_12-14_amendment.md` **Chapters Twelve through Fourteen**.
 

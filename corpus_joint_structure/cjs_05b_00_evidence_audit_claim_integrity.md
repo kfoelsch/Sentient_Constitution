@@ -98,6 +98,11 @@ External assurance trigger floor
 - OP-E: Evaluation must verify the published trigger criteria, maximum commissioning time, authorized invokers, minimum engagement scope, affected records, outcome-publication expectations, unresolved exceptions, and escalation route where the local commissioning authority is conflicted, captured, unavailable, or non-responsive.
 - OP-C: It is non-compliant to rely on discretionary internal assurance alone after a qualifying trigger, to leave commissioning authority self-judging, to omit affected records from the engagement scope, or to suppress unresolved exceptions needed for lawful escalation or contestability.
 
+Cross-institution coordination and escalation chain
+- OP-O: Where institutions share jurisdiction, evidence custody, review responsibility, enforcement support, investigative interface, or forum-adjacent routing, the implementation corpus must provide a published coordination and escalation protocol rather than leaving overlapping owners to improvise after conflict arises.
+- OP-E: Evaluation must verify conflict-order handling, deadlock-breaker path, evidence-sharing boundaries, accountability assignment, external-review triggers for persistent internal deadlock, independent-investigative-service backup routing under `corpus_forum.md` **CF-8**, cross-forum anti-self-judging routing under `core_09-09_forum.md` **Chapter Nine**, and records sufficient to review transfer, recusal, unavailability, backup designation, and lawful-panel formation.
+- OP-C: It is non-compliant to leave shared jurisdiction without a usable escalation path, to resolve deadlock through the body whose independence is materially contested, to transfer matters without a reasoned record, or to let emergency incapacity, concentration, capture indicators, local enforcement involvement, security-service involvement, private-contractor involvement, or parallel-body involvement defeat independent backup routing.
+
 Independent verification path integrity
 - OP-O: Material claims must have practical routes for independent testing, reproduction, and comparison.
 - OP-E: Evaluation must verify at least one practical independent verification path for each materially significant claim family.
