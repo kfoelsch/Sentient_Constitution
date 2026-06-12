@@ -442,40 +442,6 @@
     "summary": "Where transition plans address **non-compliant property or systems** under **Sentient Constitution Chapter Ten, Article XXV-D**, institutions must publish and maintain: - **Eligibility and process:** clear criteria linking measures to **Chapter Six** compli..."
   },
   {
-    "file": "corpus_institutions/ci_04_appointment_competency_rotation_removal.md",
-    "section_id": "CI-4",
-    "title": "Appointment, competency, rotation, and removal",
-    "start_line": 1,
-    "end_line": 59,
-    "score": 19,
-    "confidence": "high",
-    "action": "split-CI-and-CJS",
-    "destinations": [
-      "CJS-5A / CJS-4.1 / CJS-4.7",
-      "CJS-5C",
-      "CJS-3 / CJS-4"
-    ],
-    "signals": [
-      "multi-owner-routing(2)",
-      "routing-read-with(3)",
-      "shared-procedure(1)",
-      "dependency-failure(2)",
-      "forum-system-touch(7)"
-    ],
-    "router_rows": [
-      "CJS-R19 \u2014 Implementation and cross-implementation integrity assurance and resilience operations",
-      "CJS-R17 \u2014 Cross-implementation trust integrity (joint operation model)",
-      "CJS-R18 \u2014 Class-scaled lane staffing and competency redundancy for materially binding stewardship"
-    ],
-    "similar_cjs": [],
-    "keep_notes": [
-      "appointment",
-      "rotation",
-      "removal"
-    ],
-    "summary": "Institutions must maintain role criteria that are clear, relevant to impact, and accessible to qualified participants. Role assignment must not rely on arbitrary gatekeeping. Each institution must maintain: - qualification standards, - disqualification stan..."
-  },
-  {
     "file": "corpus_institutions/ci_05_conflict_integrity_anti_capture_anti_corruption.md",
     "section_id": "CI-5.1",
     "title": "Integrity trigger taxonomy and cross-layer routing (control package)",
@@ -934,6 +900,39 @@
       "institution-specific"
     ],
     "summary": "**Joint minimum.** Delegated subunits in scope must satisfy **`corpus_joint_structure.md` CJS-4.1** (*Mandatory hybrid authority composition*). Read **CJS-4.1** (*Mandatory hybrid authority composition (delegated binding bodies)*) with **CI-9.3.1** (*Identi..."
+  },
+  {
+    "file": "corpus_institutions/ci_04_appointment_competency_rotation_removal.md",
+    "section_id": "CI-4",
+    "title": "Appointment, competency, rotation, and removal",
+    "start_line": 1,
+    "end_line": 58,
+    "score": 9,
+    "confidence": "medium",
+    "action": "replace-with-pointer",
+    "destinations": [
+      "CJS-5A / CJS-4.1 / CJS-4.7",
+      "CJS-5C",
+      "CJS-3 / CJS-4"
+    ],
+    "signals": [
+      "routing-read-with(3)",
+      "shared-procedure(1)",
+      "dependency-failure(1)",
+      "forum-system-touch(1)"
+    ],
+    "router_rows": [
+      "CJS-R19 \u2014 Implementation and cross-implementation integrity assurance and resilience operations",
+      "CJS-R17 \u2014 Cross-implementation trust integrity (joint operation model)",
+      "CJS-R18 \u2014 Class-scaled lane staffing and competency redundancy for materially binding stewardship"
+    ],
+    "similar_cjs": [],
+    "keep_notes": [
+      "appointment",
+      "rotation",
+      "removal"
+    ],
+    "summary": "Institutions must maintain role criteria that are clear, relevant to impact, and accessible to qualified participants. Role assignment must not rely on arbitrary gatekeeping. Each institution must maintain: - qualification standards, - disqualification stan..."
   },
   {
     "file": "corpus_institutions/ci_24_neurodiversity_disability_justice_trauma_informed_participation.md",

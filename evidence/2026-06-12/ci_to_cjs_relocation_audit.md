@@ -10,7 +10,7 @@ This is an editorial exposure audit. It identifies candidate passages for reloca
 
 - Candidate threshold: relocation score >= 5
 - Candidates: 38
-- Confidence: high 25, medium 7, low 6
+- Confidence: high 24, medium 8, low 6
 
 ## Classification rules
 
@@ -179,19 +179,7 @@ Summary: **Constitutional index (abridged)** - Topic-level routing and cited aut
 
 Summary: Where transition plans address **non-compliant property or systems** under **Sentient Constitution Chapter Ten, Article XXV-D**, institutions must publish and maintain: - **Eligibility and process:** clear criteria linking measures to **Chapter Six** compli...
 
-### 14. CI-4: Appointment, competency, rotation, and removal
-
-- Source: `corpus_institutions/ci_04_appointment_competency_rotation_removal.md:1`
-- Score / confidence: 19 / high
-- Suggested action: `split-CI-and-CJS`
-- Proposed CJS destination: CJS-5A / CJS-4.1 / CJS-4.7, CJS-5C, CJS-3 / CJS-4
-- Signals: multi-owner-routing(2), routing-read-with(3), shared-procedure(1), dependency-failure(2), forum-system-touch(7)
-- Router matches: CJS-R19 — Implementation and cross-implementation integrity assurance and resilience operations; CJS-R17 — Cross-implementation trust integrity (joint operation model); CJS-R18 — Class-scaled lane staffing and competency redundancy for materially binding stewardship
-- Keep-in-CI cautions: appointment, rotation, removal
-
-Summary: Institutions must maintain role criteria that are clear, relevant to impact, and accessible to qualified participants. Role assignment must not rely on arbitrary gatekeeping. Each institution must maintain: - qualification standards, - disqualification stan...
-
-### 15. CI-5.1: Integrity trigger taxonomy and cross-layer routing (control package)
+### 14. CI-5.1: Integrity trigger taxonomy and cross-layer routing (control package)
 
 - Source: `corpus_institutions/ci_05_conflict_integrity_anti_capture_anti_corruption.md:57`
 - Score / confidence: 16 / high
@@ -203,7 +191,7 @@ Summary: Institutions must maintain role criteria that are clear, relevant to im
 
 Summary: This subsection names institutional trigger categories for **CI-5** (*Conflict integrity, anti-capture, and anti-corruption*) control maps and training. Shared cross-layer routing for integrity triggers is governed by `corpus_joint_structure.md` **CJS-5B.1*...
 
-### 16. CI-5: Conflict integrity, anti-capture, and anti-corruption
+### 15. CI-5: Conflict integrity, anti-capture, and anti-corruption
 
 - Source: `corpus_institutions/ci_05_conflict_integrity_anti_capture_anti_corruption.md:1`
 - Score / confidence: 16 / high
@@ -215,7 +203,7 @@ Summary: This subsection names institutional trigger categories for **CI-5** (*C
 
 Summary: Institutions must maintain: - auditable conflict controls that cover financial, relational, and role-based conflicts. - anti-corruption and anti-fraud controls across prevention, detection, response, and remediation. Required controls include: - disclosure...
 
-### 17. CI-12.3: Digital self-service pathway integrity
+### 16. CI-12.3: Digital self-service pathway integrity
 
 - Source: `corpus_institutions/ci_12_transparency_participation_accessible_pathways.md:119`
 - Score / confidence: 15 / high
@@ -227,7 +215,7 @@ Summary: Institutions must maintain: - auditable conflict controls that cover fi
 
 Summary: Digital self-service pathway integrity (Operational; Corpus Institutions) - OP-O: User-facing **digital self-service pathways** through which parties **start, manage, continue or renew, and exit** **commitments or ongoing obligations** within **governed sco...
 
-### 18. CI-21: Relational coercive control, intimate power, and anti-domination routing
+### 17. CI-21: Relational coercive control, intimate power, and anti-domination routing
 
 - Source: `corpus_institutions/ci_21_relational_coercive_control_intimate_power_anti_domination.md:1`
 - Score / confidence: 14 / high
@@ -238,7 +226,7 @@ Summary: Digital self-service pathway integrity (Operational; Corpus Institution
 
 Summary: **Purpose.** This section makes **coercive control**, **economic dependence**, **isolation**, **reproductive pressure**, and **reputation** **threats** **legible** in **institutional** **routes** when they occur in **intimate**, **household**, **care**, **w...
 
-### 19. CI-14: Transitional governance and institutional evolution
+### 18. CI-14: Transitional governance and institutional evolution
 
 - Source: `corpus_institutions/ci_14_transitional_governance_institutional_evolution.md:1`
 - Score / confidence: 13 / high
@@ -250,7 +238,7 @@ Summary: **Purpose.** This section makes **coercive control**, **economic depend
 
 Summary: Institutional redesign, consolidation, or transfer must preserve non-regression and continuity duties. Where the transition materially involves constitutional systems, institutions must read this section with `corpus_systems.md` **Protocol T** (*Transition...
 
-### 20. CI-13: Institutional failure, sanctions, dissolution, and accountability
+### 19. CI-13: Institutional failure, sanctions, dissolution, and accountability
 
 - Source: `corpus_institutions/ci_13_institutional_failure_sanctions_dissolution_accountability.md:1`
 - Score / confidence: 13 / high
@@ -262,7 +250,7 @@ Summary: Institutional redesign, consolidation, or transfer must preserve non-re
 
 Summary: **Constitutional index (abridged)** - Topic-level routing and cited authorities remain in subsection text and cross-references. - Canonical owner map: `corpus_joint_structure.md` **CJS-2.2** (*Topic router (stable IDs)*) and `doc_architecture.md` section 4....
 
-### 21. CI-20: Care labor, dependent support, respite, and care-economy fairness
+### 20. CI-20: Care labor, dependent support, respite, and care-economy fairness
 
 - Source: `corpus_institutions/ci_20_care_labor_dependent_support_respite_care_economy_fairness.md:1`
 - Score / confidence: 12 / high
@@ -274,7 +262,7 @@ Summary: **Constitutional index (abridged)** - Topic-level routing and cited aut
 
 Summary: **Purpose.** This section hardens **practical** support for **unpaid** and **paid** **care**, **respite**, **elder** and **disability** care, and **synthetic**/**substrate** **maintenance** burdens so **care** is **not** honored **abstractly** while **carer...
 
-### 22. CI-9.2: Published industry and domain mapping
+### 21. CI-9.2: Published industry and domain mapping
 
 - Source: `corpus_institutions/ci_09_classification_linked_institutional_obligations.md:75`
 - Score / confidence: 12 / high
@@ -285,7 +273,7 @@ Summary: **Purpose.** This section hardens **practical** support for **unpaid** 
 
 Summary: Institutions with regulated or supervised scope must publish how major industries and regulatory domains under their authority are located against `corpus_systems.md` **Chapter S2** classes and **Chapter S3** stewardship tiers. That published map should use...
 
-### 23. CI-8: Cross-institution coordination and escalation
+### 22. CI-8: Cross-institution coordination and escalation
 
 - Source: `corpus_institutions/ci_08_cross_institution_coordination_escalation.md:1`
 - Score / confidence: 12 / high
@@ -296,7 +284,7 @@ Summary: Institutions with regulated or supervised scope must publish how major 
 
 Summary: Where institutions share jurisdiction, they must maintain a published coordination and escalation protocol. That protocol must include: - conflict-order handling, - deadlock-breaker path, - evidence-sharing boundaries, - accountability assignment, - externa...
 
-### 24. CI-7.1: Controls declaration
+### 23. CI-7.1: Controls declaration
 
 - Source: `corpus_institutions/ci_07_oversight_assurance_controls_evidence.md:40`
 - Score / confidence: 12 / high
@@ -307,7 +295,7 @@ Summary: Where institutions share jurisdiction, they must maintain a published c
 
 Summary: At least annually, each institution must publish a declaration on whether material controls are operating effectively. If material controls fail, the declaration must include: - failure description, - impact estimate, - immediate safeguards, - remediation p...
 
-### 25. CI-7: Oversight, assurance, controls, and evidence
+### 24. CI-7: Oversight, assurance, controls, and evidence
 
 - Source: `corpus_institutions/ci_07_oversight_assurance_controls_evidence.md:1`
 - Score / confidence: 12 / high
@@ -318,7 +306,7 @@ Summary: At least annually, each institution must publish a declaration on wheth
 
 Summary: **Constitutional index (abridged)** - Topic-level routing and cited authorities remain in subsection text and cross-references. - Canonical owner map: `corpus_joint_structure.md` **CJS-2.2** (*Topic router (stable IDs)*) and `doc_architecture.md` section 4....
 
-### 26. CI-9.4: Survival floors, voluntary exchange, and markets (Article III-A interface)
+### 25. CI-9.4: Survival floors, voluntary exchange, and markets (Article III-A interface)
 
 - Source: `corpus_institutions/ci_09_classification_linked_institutional_obligations.md:271`
 - Score / confidence: 11 / medium
@@ -330,7 +318,7 @@ Summary: **Constitutional index (abridged)** - Topic-level routing and cited aut
 
 Summary: **Purpose.** **Article III-A** (*Survival*) in `core_10-10_rights_part_*.md` states outcome obligations for essential resources, housing, and connectivity. This subsection records how institutions should connect those outcomes to public revenue, user charge...
 
-### 27. CI-1.1: Definition discipline and source hierarchy
+### 26. CI-1.1: Definition discipline and source hierarchy
 
 - Source: `corpus_institutions/ci_01_scope_purpose_legitimacy_interface.md:60`
 - Score / confidence: 11 / medium
@@ -341,7 +329,7 @@ Summary: **Purpose.** **Article III-A** (*Survival*) in `core_10-10_rights_part_
 
 Summary: Definition discipline is single-home: - Constitutional definition structure, compliance-state meaning, offense classification, rights meaning, and authority-stack order remain in the numbered Sentient Constitution `core_*` files under the CJS shared preambl...
 
-### 28. CI-7.2: External assurance triggers
+### 27. CI-7.2: External assurance triggers
 
 - Source: `corpus_institutions/ci_07_oversight_assurance_controls_evidence.md:88`
 - Score / confidence: 10 / medium
@@ -353,7 +341,7 @@ Summary: Definition discipline is single-home: - Constitutional definition struc
 
 Summary: Independent external assurance is mandatory when trigger thresholds are met. Trigger criteria must be documented and published, and must include: - class/tier threshold triggers, - severe-incident triggers, - repeated-control-failure triggers, - anti-consti...
 
-### 29. CI-9.3.2: Authority composition
+### 28. CI-9.3.2: Authority composition
 
 - Source: `corpus_institutions/ci_09_classification_linked_institutional_obligations.md:183`
 - Score / confidence: 9 / medium
@@ -364,6 +352,18 @@ Summary: Independent external assurance is mandatory when trigger thresholds are
 - Keep-in-CI cautions: institution-specific
 
 Summary: **Joint minimum.** Delegated subunits in scope must satisfy **`corpus_joint_structure.md` CJS-4.1** (*Mandatory hybrid authority composition*). Read **CJS-4.1** (*Mandatory hybrid authority composition (delegated binding bodies)*) with **CI-9.3.1** (*Identi...
+
+### 29. CI-4: Appointment, competency, rotation, and removal
+
+- Source: `corpus_institutions/ci_04_appointment_competency_rotation_removal.md:1`
+- Score / confidence: 9 / medium
+- Suggested action: `replace-with-pointer`
+- Proposed CJS destination: CJS-5A / CJS-4.1 / CJS-4.7, CJS-5C, CJS-3 / CJS-4
+- Signals: routing-read-with(3), shared-procedure(1), dependency-failure(1), forum-system-touch(1)
+- Router matches: CJS-R19 — Implementation and cross-implementation integrity assurance and resilience operations; CJS-R17 — Cross-implementation trust integrity (joint operation model); CJS-R18 — Class-scaled lane staffing and competency redundancy for materially binding stewardship
+- Keep-in-CI cautions: appointment, rotation, removal
+
+Summary: Institutions must maintain role criteria that are clear, relevant to impact, and accessible to qualified participants. Role assignment must not rely on arbitrary gatekeeping. Each institution must maintain: - qualification standards, - disqualification stan...
 
 ### 30. CI-24: Neurodiversity, disability justice, and trauma-informed participation
 

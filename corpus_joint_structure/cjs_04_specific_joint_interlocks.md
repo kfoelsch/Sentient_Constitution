@@ -236,6 +236,8 @@ For **Class A** and **Class B** systems, each institution that hosts a constitut
 - documented competency and succession coverage for that lane; and
 - no single sentient who is the only qualified actor for the lane's materially binding duties.
 
+Role-boundary design must balance sustained engagement with community redundancy. Role holders need enough recurring, bounded responsibility to develop and retain competence, while the lane keeps cross-training, backup coverage, and cross-functional familiarity sufficient for continuity, review, and succession.
+
 Staffing must be real, not just numerical. Responsibility cannot be spread so thin that nobody is competent, and knowledge cannot be concentrated so tightly that the lane becomes fragile, captured, or unable to replace itself.
 
 The constitutional floor remains in `core_11-11_governance.md` **Chapter Eleven**, section **5**. Domain detail remains in **CI-2** (*Institutional design and separation of powers*), **CI-4** (*Appointment, competency, rotation, and removal*), **CI-11** (*Resource stewardship and incentive integrity*), **CI-12** (*Transparency, participation, and accessible pathways*), and `corpus_systems.md` **Chapter S2 — System Classification and Handling** and **Chapter S3 — Critical System Stewardship**.

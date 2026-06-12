@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-06-12T15:26:36+00:00",
+  "generated_at": "2026-06-12T15:46:24+00:00",
   "files": {
     "core_00-01_principles.md": {
       "total_lines": 1506,
@@ -5448,13 +5448,13 @@
       ]
     },
     "corpus_joint_structure/cjs_04_specific_joint_interlocks.md": {
-      "total_lines": 289,
+      "total_lines": 291,
       "sections": [
         {
           "header": "CJS-4: Specific joint interlocks and shared abstractions",
           "level": 2,
           "line_start": 1,
-          "line_end": 289,
+          "line_end": 291,
           "anchor": null
         },
         {
@@ -5496,14 +5496,14 @@
           "header": "CJS-4.6 Class-scaled lane staffing and competency redundancy",
           "level": 3,
           "line_start": 203,
-          "line_end": 242,
+          "line_end": 244,
           "anchor": null
         },
         {
           "header": "CJS-4.7 Shared procedural abstractions for delegated bodies and forum routing",
           "level": 3,
-          "line_start": 243,
-          "line_end": 289,
+          "line_start": 245,
+          "line_end": 291,
           "anchor": null
         }
       ]
@@ -5843,13 +5843,13 @@
       ]
     },
     "corpus_institutions/ci_04_appointment_competency_rotation_removal.md": {
-      "total_lines": 59,
+      "total_lines": 58,
       "sections": [
         {
           "header": "CI-4: Appointment, competency, rotation, and removal",
           "level": 2,
           "line_start": 1,
-          "line_end": 59,
+          "line_end": 58,
           "anchor": null
         }
       ]

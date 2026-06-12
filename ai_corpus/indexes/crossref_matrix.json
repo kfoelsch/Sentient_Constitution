@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/crossref_matrix.schema.json",
-  "generated_at": "2026-06-12T15:26:36+00:00",
+  "generated_at": "2026-06-12T15:46:24+00:00",
   "description": "Source-derived file-to-file Markdown reference graph.",
   "graph": {
     "nodes": [
@@ -5180,11 +5180,6 @@
             "anchors": [
               "#cjs-22-topic-router-stable-ids"
             ]
-          },
-          {
-            "file": "corpus_systems.md",
-            "count": 1,
-            "anchors": []
           }
         ]
       },
