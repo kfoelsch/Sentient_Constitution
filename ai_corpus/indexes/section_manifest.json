@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-06-12T16:42:35+00:00",
+  "generated_at": "2026-06-12T17:14:45+00:00",
   "files": {
     "core_00-01_principles.md": {
       "total_lines": 1506,
@@ -5629,7 +5629,7 @@
       ]
     },
     "corpus_joint_structure/cjs_05c_00_participation_comprehension_disclosure.md": {
-      "total_lines": 346,
+      "total_lines": 351,
       "sections": [
         {
           "header": "CJS-5C: Participation, comprehension, and disclosure",
@@ -5649,21 +5649,21 @@
           "header": "CJS-5C.2 Implementation and cross-implementation comprehensibility and cognitive accessibility terms",
           "level": 2,
           "line_start": 122,
-          "line_end": 199,
+          "line_end": 204,
           "anchor": null
         },
         {
           "header": "CJS-5C.3 Implementation and cross-implementation salience integrity and attention-allocation terms",
           "level": 2,
-          "line_start": 200,
-          "line_end": 285,
+          "line_start": 205,
+          "line_end": 290,
           "anchor": null
         },
         {
           "header": "CJS-5C.4 Implementation and cross-implementation disclosure sufficiency and observability terms",
           "level": 2,
-          "line_start": 286,
-          "line_end": 346,
+          "line_start": 291,
+          "line_end": 351,
           "anchor": null
         }
       ]

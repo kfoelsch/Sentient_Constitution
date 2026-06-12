@@ -10,7 +10,7 @@ This is an editorial exposure audit. It identifies candidate passages for reloca
 
 - Candidate threshold: relocation score >= 5
 - Candidates: 37
-- Confidence: high 22, medium 9, low 6
+- Confidence: high 22, medium 8, low 7
 
 ## Classification rules
 
@@ -341,18 +341,7 @@ Summary: At least annually, each institution must publish a declaration on wheth
 
 Summary: Institutions must maintain role criteria that are clear, relevant to impact, and accessible to qualified participants. Role assignment must not rely on arbitrary gatekeeping. Each institution must maintain: - qualification standards, - disqualification stan...
 
-### 28. CI-24: Neurodiversity, disability justice, and trauma-informed participation
-
-- Source: `corpus_institutions/ci_24_neurodiversity_disability_justice_trauma_informed_participation.md:1`
-- Score / confidence: 8 / medium
-- Suggested action: `replace-with-pointer`
-- Proposed CJS destination: CJS-5C, CJS-5D, CJS-5A / CJS-4.1 / CJS-4.7
-- Signals: routing-read-with(1), shared-procedure(2), dependency-failure(1), forum-system-touch(3)
-- Router matches: CJS-R19 — Implementation and cross-implementation integrity assurance and resilience operations; CJS-R17 — Cross-implementation trust integrity (joint operation model); CJS-R15 — Contest-integrity monitoring (pathway integrity, not merits)
-
-Summary: **Purpose.** This section **operationalizes** **participation** **design** that **treats** **accessibility** as **more** than **entrance**-**level** **accommodation** — including **pacing**, **supported** **decision-making**, **communication** **alternative...
-
-### 29. CI-6: Procedure integrity, contestability, and secondary review
+### 28. CI-6: Procedure integrity, contestability, and secondary review
 
 - Source: `corpus_institutions/ci_06_procedure_integrity_contestability_secondary_review.md:1`
 - Score / confidence: 8 / medium
@@ -363,7 +352,7 @@ Summary: **Purpose.** This section **operationalizes** **participation** **desig
 
 Summary: Procedure rules here must remain consistent with **Chapter Five** (*Procedural Fairness*, *Contestability*, *Accountability*, *Redress and Remediation*) and with `core_02-04_definition_mechanics.md` **Chapter Four** verification and traceability rules. Shar...
 
-### 30. CI-22: Commons, cooperatives, mutual aid, and non-market community governance
+### 29. CI-22: Commons, cooperatives, mutual aid, and non-market community governance
 
 - Source: `corpus_institutions/ci_22_commons_cooperatives_mutual_aid_non_market_governance.md:1`
 - Score / confidence: 7 / medium
@@ -375,7 +364,7 @@ Summary: Procedure rules here must remain consistent with **Chapter Five** (*Pro
 
 Summary: **Purpose.** This section supports **commons**-based and **community-managed** **resource** **patterns** **without** **forcing** every **durable** **institution** into **only** **state**, **corporate**, or **adversarial-forum** **molds** — while **keeping**...
 
-### 31. CI-12.3: Digital self-service pathway integrity
+### 30. CI-12.3: Digital self-service pathway integrity
 
 - Source: `corpus_institutions/ci_12_transparency_participation_accessible_pathways.md:119`
 - Score / confidence: 7 / medium
@@ -387,7 +376,7 @@ Summary: **Purpose.** This section supports **commons**-based and **community-ma
 
 Summary: Digital self-service pathway integrity (Operational; Corpus Institutions) - OP-O: Apply `corpus_joint_structure.md` **CJS-5D.2** (*Implementation and cross-implementation interoperability, portability, and exit-integrity terms*) **Digital self-service pathw...
 
-### 32. CI-25: Collective public health, epidemic response, and addiction-informed care
+### 31. CI-25: Collective public health, epidemic response, and addiction-informed care
 
 - Source: `corpus_institutions/ci_25_collective_public_health_epidemic_response_addiction_informed_care.md:1`
 - Score / confidence: 6 / low
@@ -397,6 +386,17 @@ Summary: Digital self-service pathway integrity (Operational; Corpus Institution
 - Router matches: CJS-R17 — Cross-implementation trust integrity (joint operation model); CJS-R19 — Implementation and cross-implementation integrity assurance and resilience operations; CJS-R18 — Class-scaled lane staffing and competency redundancy for materially binding stewardship
 
 Summary: **Purpose.** This section frames **contagion**, **environmental** **exposure**, **population**-**level** **harms**, and **addiction** as **collective**-**care** and **governance** **problems** **under** **Article I-D**, **Article III-C**, **Article VII-C**,...
+
+### 32. CI-24: Neurodiversity, disability justice, and trauma-informed participation
+
+- Source: `corpus_institutions/ci_24_neurodiversity_disability_justice_trauma_informed_participation.md:1`
+- Score / confidence: 6 / low
+- Suggested action: `needs-human-review`
+- Proposed CJS destination: CJS-5D, CJS-5E, CJS-5C
+- Signals: routing-read-with(1), shared-procedure(1), dependency-failure(1), forum-system-touch(2)
+- Router matches: CJS-R17 — Cross-implementation trust integrity (joint operation model); CJS-R19 — Implementation and cross-implementation integrity assurance and resilience operations; CJS-R15 — Contest-integrity monitoring (pathway integrity, not merits)
+
+Summary: **Purpose.** This section applies the shared adaptive-participation floor in `corpus_joint_structure.md` **CJS-5C.2** (*Implementation and cross-implementation comprehensibility and cognitive accessibility terms*) to neurodiversity, disability justice, and...
 
 ### 33. CI-12: Transparency, participation, and accessible pathways
 

@@ -871,35 +871,6 @@
     "summary": "Institutions must maintain role criteria that are clear, relevant to impact, and accessible to qualified participants. Role assignment must not rely on arbitrary gatekeeping. Each institution must maintain: - qualification standards, - disqualification stan..."
   },
   {
-    "file": "corpus_institutions/ci_24_neurodiversity_disability_justice_trauma_informed_participation.md",
-    "section_id": "CI-24",
-    "title": "Neurodiversity, disability justice, and trauma-informed participation",
-    "start_line": 1,
-    "end_line": 38,
-    "score": 8,
-    "confidence": "medium",
-    "action": "replace-with-pointer",
-    "destinations": [
-      "CJS-5C",
-      "CJS-5D",
-      "CJS-5A / CJS-4.1 / CJS-4.7"
-    ],
-    "signals": [
-      "routing-read-with(1)",
-      "shared-procedure(2)",
-      "dependency-failure(1)",
-      "forum-system-touch(3)"
-    ],
-    "router_rows": [
-      "CJS-R19 \u2014 Implementation and cross-implementation integrity assurance and resilience operations",
-      "CJS-R17 \u2014 Cross-implementation trust integrity (joint operation model)",
-      "CJS-R15 \u2014 Contest-integrity monitoring (pathway integrity, not merits)"
-    ],
-    "similar_cjs": [],
-    "keep_notes": [],
-    "summary": "**Purpose.** This section **operationalizes** **participation** **design** that **treats** **accessibility** as **more** than **entrance**-**level** **accommodation** \u2014 including **pacing**, **supported** **decision-making**, **communication** **alternative..."
-  },
-  {
     "file": "corpus_institutions/ci_06_procedure_integrity_contestability_secondary_review.md",
     "section_id": "CI-6",
     "title": "Procedure integrity, contestability, and secondary review",
@@ -1014,6 +985,35 @@
     "similar_cjs": [],
     "keep_notes": [],
     "summary": "**Purpose.** This section frames **contagion**, **environmental** **exposure**, **population**-**level** **harms**, and **addiction** as **collective**-**care** and **governance** **problems** **under** **Article I-D**, **Article III-C**, **Article VII-C**,..."
+  },
+  {
+    "file": "corpus_institutions/ci_24_neurodiversity_disability_justice_trauma_informed_participation.md",
+    "section_id": "CI-24",
+    "title": "Neurodiversity, disability justice, and trauma-informed participation",
+    "start_line": 1,
+    "end_line": 38,
+    "score": 6,
+    "confidence": "low",
+    "action": "needs-human-review",
+    "destinations": [
+      "CJS-5D",
+      "CJS-5E",
+      "CJS-5C"
+    ],
+    "signals": [
+      "routing-read-with(1)",
+      "shared-procedure(1)",
+      "dependency-failure(1)",
+      "forum-system-touch(2)"
+    ],
+    "router_rows": [
+      "CJS-R17 \u2014 Cross-implementation trust integrity (joint operation model)",
+      "CJS-R19 \u2014 Implementation and cross-implementation integrity assurance and resilience operations",
+      "CJS-R15 \u2014 Contest-integrity monitoring (pathway integrity, not merits)"
+    ],
+    "similar_cjs": [],
+    "keep_notes": [],
+    "summary": "**Purpose.** This section applies the shared adaptive-participation floor in `corpus_joint_structure.md` **CJS-5C.2** (*Implementation and cross-implementation comprehensibility and cognitive accessibility terms*) to neurodiversity, disability justice, and..."
   },
   {
     "file": "corpus_institutions/ci_12_transparency_participation_accessible_pathways.md",

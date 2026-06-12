@@ -33,6 +33,7 @@ The pilot intentionally does not move high-score topical/domain candidates such 
 | **CI-7.1** (*Controls declaration*) | **CJS-5B.1** | Moved the reusable control-failure declaration chain into the shared CJS evidence/audit cluster and left CI with institutional publication, `INST-PROTO-*` lane, and supervised-system packet duties. |
 | **CI-7.2** (*External assurance triggers*) | **CJS-5B.1** | Moved the reusable external-assurance trigger floor into the shared CJS evidence/audit cluster and left CI with institutional trigger publication and CI-8 escalation duties. |
 | **CI-8** (*Cross-institution coordination and escalation*) | **CJS-5B.1** | Moved the reusable coordination / deadlock / backup-routing / anti-self-judging escalation chain into the shared CJS evidence/audit cluster and left CI with institutional publication, local role / record / deadline duties, CF-8 cooperation, and external-order boundary rules. |
+| **CI-24** (*Neurodiversity, disability justice, and trauma-informed participation*) | **CJS-5C.2** | Moved the reusable adaptive-participation / cognitive-accessibility floor into the shared CJS participation cluster and left CI with disability-, neurodiversity-, and trauma-specific institutional application plus anti-exclusion review discipline. |
 
 ## Validation record
 
@@ -44,4 +45,4 @@ Run after the pilot edits and continuation:
 - `make ai-corpus-sync`
 - `make ai-manifest-validate`
 
-Result: reference and markdown audits pass; relocation evidence regenerates; AI corpus manifests validate after regeneration. After the CI-8 continuation, the heuristic candidate count remains 37. The relocation audit still flags some accepted pilot sections because pointer text and cross-file routing remain visible to the heuristic; CI-8 now remains visible as an explicit CJS pointer rather than repeated protocol text, so candidate count is not treated as a success metric for this pass.
+Result: reference and markdown audits pass; relocation evidence regenerates; AI corpus manifests validate after regeneration. After the CI-8 continuation, the heuristic candidate count remains 37. The relocation audit still flags some accepted pilot sections because pointer text and cross-file routing remain visible to the heuristic; CI-8 now remains visible as an explicit CJS pointer rather than repeated protocol text, so candidate count is not treated as a success metric for this pass. The CI-24 continuation follows the same rule: preserve a short CI pointer where the local institutional topic still matters, and move only the reusable participation-accessibility floor.
