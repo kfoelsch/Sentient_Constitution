@@ -78,6 +78,11 @@ Contest-integrity pathway chain
 - OP-E: Evaluation must verify timeliness, accessibility, backlog effects, evidence availability within security-constrained observability, independence of the review path, and records sufficient to detect chill, capture, retaliation, secrecy-duration drift, or bypass of applicable limits.
 - OP-C: It is non-compliant to claim contest-integrity when monitoring becomes merits adjudication, displaces the assigned forum, hides pathway failure, lacks records for lawful transfer or recusal review, or leaves materially affected parties without a practical review path.
 
+Integrity-trigger routing chain
+- OP-O: When a material integrity trigger may involve institutional controls, system classification or stewardship, forum-side investigation, independent assurance, protected escalation, or sanctions, the implementation corpus must route the matter as one traceable chain instead of treating each owner file as a separate silo.
+- OP-E: Evaluation must verify that intake, triage, evidence custody, independence review, recusal or anti-self-judging controls, cross-institution escalation, forum or specialist support, remediation, disclosure, and referral duties are assigned to the correct owner sections and remain auditable across transfers.
+- OP-C: It is non-compliant to resolve an integrity trigger by local institutional narration alone when system, forum, assurance, or classification owners are materially implicated, or to use a CJS routing label as a substitute for Chapter Six classification, Chapter Eight slot-classification proceedings, CI sanctions, or CF forum procedure.
+
 Independent verification path integrity
 - OP-O: Material claims must have practical routes for independent testing, reproduction, and comparison.
 - OP-E: Evaluation must verify at least one practical independent verification path for each materially significant claim family.

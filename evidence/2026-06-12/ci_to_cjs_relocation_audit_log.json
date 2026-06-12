@@ -251,41 +251,6 @@
     "summary": "Institutional protocol IDs use the `INST-PROTO-*` convention and remain stable across editorial renumbering. Core registry: - `INST-PROTO-1`: Delegation and authority custody - `INST-PROTO-2`: Appointment, qualification, and removal - `INST-PROTO-3`: Confli..."
   },
   {
-    "file": "corpus_institutions/ci_05_conflict_integrity_anti_capture_anti_corruption.md",
-    "section_id": "CI-5.1",
-    "title": "Integrity trigger taxonomy and cross-layer routing (control package)",
-    "start_line": 71,
-    "end_line": 122,
-    "score": 25,
-    "confidence": "high",
-    "action": "split-CI-and-CJS",
-    "destinations": [
-      "CJS-5B",
-      "CJS-4.4",
-      "CJS-5A / CJS-4.1 / CJS-4.7"
-    ],
-    "signals": [
-      "multi-owner-routing(2)",
-      "routing-read-with(6)",
-      "shared-procedure(6)",
-      "dependency-failure(3)",
-      "forum-system-touch(11)"
-    ],
-    "router_rows": [
-      "CJS-R19 \u2014 Implementation and cross-implementation integrity assurance and resilience operations",
-      "CJS-R17 \u2014 Cross-implementation trust integrity (joint operation model)",
-      "CJS-R15 \u2014 Contest-integrity monitoring (pathway integrity, not merits)"
-    ],
-    "similar_cjs": [],
-    "keep_notes": [
-      "appointment",
-      "rotation",
-      "removal",
-      "dissolution"
-    ],
-    "summary": "This subsection names **implementation-layer** trigger categories and routes so **CI-5** (*Conflict integrity, anti-capture, and anti-corruption*) operates as one coordinated package. It does **not** add constitutional rights, offense labels, or forum struc..."
-  },
-  {
     "file": "corpus_institutions/ci_11_resource_stewardship_incentive_integrity.md",
     "section_id": "CI-11",
     "title": "Resource stewardship and incentive integrity",
@@ -542,6 +507,39 @@
       "removal"
     ],
     "summary": "Institutions must maintain role criteria that are clear, relevant to impact, and accessible to qualified participants. Role assignment must not rely on arbitrary gatekeeping. Each institution must maintain: - qualification standards, - disqualification stan..."
+  },
+  {
+    "file": "corpus_institutions/ci_05_conflict_integrity_anti_capture_anti_corruption.md",
+    "section_id": "CI-5.1",
+    "title": "Integrity trigger taxonomy and cross-layer routing (control package)",
+    "start_line": 71,
+    "end_line": 117,
+    "score": 16,
+    "confidence": "high",
+    "action": "split-CI-and-CJS",
+    "destinations": [
+      "CJS-5B",
+      "CJS-4.4",
+      "CJS-5A / CJS-4.1 / CJS-4.7"
+    ],
+    "signals": [
+      "routing-read-with(3)",
+      "shared-procedure(5)",
+      "dependency-failure(2)",
+      "forum-system-touch(4)"
+    ],
+    "router_rows": [
+      "CJS-R19 \u2014 Implementation and cross-implementation integrity assurance and resilience operations",
+      "CJS-R17 \u2014 Cross-implementation trust integrity (joint operation model)",
+      "CJS-R15 \u2014 Contest-integrity monitoring (pathway integrity, not merits)"
+    ],
+    "similar_cjs": [],
+    "keep_notes": [
+      "appointment",
+      "rotation",
+      "removal"
+    ],
+    "summary": "This subsection names institutional trigger categories for **CI-5** (*Conflict integrity, anti-capture, and anti-corruption*) control maps and training. Shared cross-layer routing for integrity triggers is governed by `corpus_joint_structure.md` **CJS-5B.1*..."
   },
   {
     "file": "corpus_institutions/ci_12_transparency_participation_accessible_pathways.md",

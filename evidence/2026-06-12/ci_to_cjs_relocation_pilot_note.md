@@ -25,6 +25,7 @@ The pilot intentionally does not move high-score topical/domain candidates such 
 | Source | Destination | Action |
 |--------|-------------|--------|
 | **CI-6** (*Procedure integrity, contestability, and secondary review*) | **CJS-4.7**, **CJS-5A.6** | Moved the reusable **common decision rule** explanation into the shared CJS procedural-integrity cluster and replaced CI repetition with a pointer plus institution-specific publication and record duties. |
+| **CI-5.1** (*Integrity trigger taxonomy and cross-layer routing*) | **CJS-5B.1** | Moved the reusable cross-layer integrity-trigger routing chain into the shared CJS evidence/audit cluster and left CI with institutional trigger labels plus owner-specific consequences. |
 
 ## Validation record
 
