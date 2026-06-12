@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-06-12T15:46:24+00:00",
+  "generated_at": "2026-06-12T16:13:09+00:00",
   "files": {
     "core_00-01_principles.md": {
       "total_lines": 1506,
@@ -5669,7 +5669,7 @@
       ]
     },
     "corpus_joint_structure/cjs_05d_00_dependency_exit_lifecycle_integrity.md": {
-      "total_lines": 288,
+      "total_lines": 293,
       "sections": [
         {
           "header": "CJS-5D: Dependency, exit, and lifecycle integrity",
@@ -5689,14 +5689,14 @@
           "header": "CJS-5D.2 Implementation and cross-implementation interoperability, portability, and exit-integrity terms",
           "level": 2,
           "line_start": 111,
-          "line_end": 199,
+          "line_end": 204,
           "anchor": null
         },
         {
           "header": "CJS-5D.3 Implementation and cross-implementation data-retention and lifecycle-integrity terms",
           "level": 2,
-          "line_start": 200,
-          "line_end": 288,
+          "line_start": 205,
+          "line_end": 293,
           "anchor": null
         }
       ]
@@ -6037,13 +6037,13 @@
       ]
     },
     "corpus_institutions/ci_12_transparency_participation_accessible_pathways.md": {
-      "total_lines": 231,
+      "total_lines": 196,
       "sections": [
         {
           "header": "CI-12: Transparency, participation, and accessible pathways",
           "level": 2,
           "line_start": 1,
-          "line_end": 231,
+          "line_end": 196,
           "anchor": null
         },
         {
@@ -6064,14 +6064,14 @@
           "header": "CI-12.3: Digital self-service pathway integrity",
           "level": 3,
           "line_start": 119,
-          "line_end": 188,
+          "line_end": 153,
           "anchor": null
         },
         {
           "header": "CI-12.4: Governance disclosure schema",
           "level": 3,
-          "line_start": 189,
-          "line_end": 231,
+          "line_start": 154,
+          "line_end": 196,
           "anchor": null
         }
       ]

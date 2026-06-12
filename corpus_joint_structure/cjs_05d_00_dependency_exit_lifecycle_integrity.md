@@ -114,7 +114,7 @@ Proportional application
 
 - Upstream: [CJS-1.1](cjs_01_scope_purpose_boundary_interface.md#cjs-11-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.2](cjs_02_implementation_integration_map.md#cjs-22-topic-router-stable-ids) topic router; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
 - Downstream: this section's local operational requirements for **CJS-5D.2 Implementation and cross-implementation interoperability, portability, and exit-integrity terms**.
-- Read with: **CJS-5D.2**; **CJS-5D.1**; **CJS-5C.4**.
+- Read with: **CJS-5D.2**; **CJS-5D.1**; **CJS-5C.4**; **CI-12.3**.
 
 </details>
 
@@ -159,6 +159,11 @@ Right-to-exit pathway integrity
 - OP-O: Exit must be functionally available without violating Foundational Rights.
 - OP-E: Evaluation must verify clear, time-bound, practical support for exit.
 - OP-C: Nominal exit that is functionally blocked or coercive is non-compliant.
+
+Digital self-service pathway integrity
+- OP-O: User-facing digital self-service pathways through which parties start, manage, continue or renew, downgrade, transfer, or exit commitments or ongoing obligations must preserve meaningful entry, management, and exit within the same channel class where feasible. This includes enrollment, account or preference changes, upgrades and downgrades in obligation level, fee or billing management where charges apply, renewal or continuation handling, withdrawal, cancellation, and release from ongoing obligation.
+- OP-E: Evaluation must compare entry, obligation-increasing, ongoing-management, renewal, downgrade, and exit paths together, including step count, elapsed time, cognitive burden, mediation mode, discoverability, label accuracy, accessibility parity, retention flows, operator-held artifacts, and evidence of obligation release or billing cessation where applicable.
+- OP-C: A pathway is non-compliant if it substitutes choice architecture for informed consent; makes exit, downgrade, renewal control, or obligation management materially harder than entry without a narrow documented exception; requires telephone, postal mail, or in-person-only exit where comparable entry was self-service without a justified basis; hides exit behind unrelated tasks; mislabels continued obligations or charges; uses deceptive urgency, guilt, fear, or repetitive refusal cycles as the primary retention tactic; or denies substantive accessibility parity for exit and obligation management. Where recurring or transaction-linked charges apply, this rule is read with the domain owner's billing-integrity requirements.
 
 Portability quality and non-obstruction controls
 - OP-O: Portability must be secure, usable, structured, and meaningful, including lawful identity, attribution, and continuity-critical state data.

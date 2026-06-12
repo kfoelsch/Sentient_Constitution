@@ -509,40 +509,6 @@
     "summary": "Institutions must maintain: - auditable conflict controls that cover financial, relational, and role-based conflicts. - anti-corruption and anti-fraud controls across prevention, detection, response, and remediation. Required controls include: - disclosure..."
   },
   {
-    "file": "corpus_institutions/ci_12_transparency_participation_accessible_pathways.md",
-    "section_id": "CI-12.3",
-    "title": "Digital self-service pathway integrity",
-    "start_line": 119,
-    "end_line": 188,
-    "score": 15,
-    "confidence": "high",
-    "action": "split-CI-and-CJS",
-    "destinations": [
-      "CJS-5D",
-      "CJS-4.4",
-      "CJS-5C"
-    ],
-    "signals": [
-      "joint-interface(2)",
-      "routing-read-with(1)",
-      "shared-procedure(2)",
-      "dependency-failure(23)",
-      "forum-system-touch(1)"
-    ],
-    "router_rows": [
-      "CJS-R17 \u2014 Cross-implementation trust integrity (joint operation model)",
-      "CJS-R19 \u2014 Implementation and cross-implementation integrity assurance and resilience operations",
-      "CJS-R15 \u2014 Contest-integrity monitoring (pathway integrity, not merits)"
-    ],
-    "similar_cjs": [],
-    "keep_notes": [
-      "public revenue",
-      "fees",
-      "billing"
-    ],
-    "summary": "Digital self-service pathway integrity (Operational; Corpus Institutions) - OP-O: User-facing **digital self-service pathways** through which parties **start, manage, continue or renew, and exit** **commitments or ongoing obligations** within **governed sco..."
-  },
-  {
     "file": "corpus_institutions/ci_21_relational_coercive_control_intimate_power_anti_domination.md",
     "section_id": "CI-21",
     "title": "Relational coercive control, intimate power, and anti-domination routing",
@@ -1020,6 +986,36 @@
       "rotation"
     ],
     "summary": "**Purpose.** This section supports **commons**-based and **community-managed** **resource** **patterns** **without** **forcing** every **durable** **institution** into **only** **state**, **corporate**, or **adversarial-forum** **molds** \u2014 while **keeping**..."
+  },
+  {
+    "file": "corpus_institutions/ci_12_transparency_participation_accessible_pathways.md",
+    "section_id": "CI-12.3",
+    "title": "Digital self-service pathway integrity",
+    "start_line": 119,
+    "end_line": 153,
+    "score": 7,
+    "confidence": "medium",
+    "action": "replace-with-pointer",
+    "destinations": [
+      "CJS-4.4",
+      "CJS-5D",
+      "CJS-5C"
+    ],
+    "signals": [
+      "joint-interface(2)",
+      "dependency-failure(1)",
+      "forum-system-touch(1)"
+    ],
+    "router_rows": [
+      "CJS-R17 \u2014 Cross-implementation trust integrity (joint operation model)",
+      "CJS-R19 \u2014 Implementation and cross-implementation integrity assurance and resilience operations",
+      "CJS-R15 \u2014 Contest-integrity monitoring (pathway integrity, not merits)"
+    ],
+    "similar_cjs": [],
+    "keep_notes": [
+      "billing"
+    ],
+    "summary": "Digital self-service pathway integrity (Operational; Corpus Institutions) - OP-O: Apply `corpus_joint_structure.md` **CJS-5D.2** (*Implementation and cross-implementation interoperability, portability, and exit-integrity terms*) **Digital self-service pathw..."
   },
   {
     "file": "corpus_institutions/ci_25_collective_public_health_epidemic_response_addiction_informed_care.md",
