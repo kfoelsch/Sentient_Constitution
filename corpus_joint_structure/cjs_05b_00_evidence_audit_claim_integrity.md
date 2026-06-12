@@ -73,6 +73,11 @@ Audit reconstruction and tiered access continuity
 - OP-E: Evaluation must verify that records, access gates, qualification routes, and challenge routes support independent review and root-cause reconstruction.
 - OP-C: It is non-compliant to keep records that cannot practically be reconstructed, or to publish audit-access criteria that block a real path to qualified independent audit.
 
+Contest-integrity pathway chain
+- OP-O: Contest, secondary review, audit access, protected escalation, forum-adjacent forensic support, and backup routing must remain usable as one chain when system, institutional, or forum responsibilities materially interact.
+- OP-E: Evaluation must verify timeliness, accessibility, backlog effects, evidence availability within security-constrained observability, independence of the review path, and records sufficient to detect chill, capture, retaliation, secrecy-duration drift, or bypass of applicable limits.
+- OP-C: It is non-compliant to claim contest-integrity when monitoring becomes merits adjudication, displaces the assigned forum, hides pathway failure, lacks records for lawful transfer or recusal review, or leaves materially affected parties without a practical review path.
+
 Independent verification path integrity
 - OP-O: Material claims must have practical routes for independent testing, reproduction, and comparison.
 - OP-E: Evaluation must verify at least one practical independent verification path for each materially significant claim family.

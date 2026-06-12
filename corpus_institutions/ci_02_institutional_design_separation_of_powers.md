@@ -4,7 +4,7 @@
 
 - Upstream: [CJS-1.1](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-11-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.2](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-22-topic-router-stable-ids) topic router; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions; and [Chapter Ten](../core_10-10_rights_part_a.md#chapter-ten-foundational-rights) rights architecture where rights interfaces are invoked.
 - Downstream: [CI-2.1: Non-delegable governing duties](#ci-21-non-delegable-governing-duties); [CI-2.2: Functional separation lanes](#ci-22-functional-separation-lanes).
-- Read with: **CI-2**; **CI-3**; **CI-2.1**; **CI-2.2**; [CJS-2.2](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-22-topic-router-stable-ids) topic router; **CJS-5A.1**; **CJS-5C.1**.
+- Read with: **CI-2**; **CI-2.1**; **CI-2.2**; [CJS-2.2](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-22-topic-router-stable-ids) topic router; **CJS-5A.1**; **CJS-5C.1**.
 
 </details>
 
@@ -24,7 +24,7 @@
 <br>
 
 
-This section is the substantive home for institutional design, non-delegable governing duties, functional separation, authority custody, delegation controls, and institutional risk profile. It must be read with the stable compatibility pointer in **CI-3** (*Authority custody, delegation, and risk profile*). For cross-implementation routing, read this section with `corpus_joint_structure.md` **CJS-2.2** (*topic router stable IDs*) row **CJS-R14** (*Institutional functional lanes and non-delegable splits*) and with **CJS-5A.1** (*Implementation and cross-implementation distributed and proportional authority terms*) and **CJS-5C.1** (*Implementation and cross-implementation quorum and participatory legitimacy terms*) where distributed and proportional authority terms are materially applied.
+This section is the substantive home for institutional design, non-delegable governing duties, functional separation, authority custody, delegation controls, and institutional risk profile. For cross-implementation routing, read this section with `corpus_joint_structure.md` **CJS-2.2** (*topic router stable IDs*) row **CJS-R14** (*Institutional functional lanes and non-delegable splits*) and with **CJS-5A.1** (*Implementation and cross-implementation distributed and proportional authority terms*) and **CJS-5C.1** (*Implementation and cross-implementation quorum and participatory legitimacy terms*) where distributed and proportional authority terms are materially applied.
 
 ### CI-2.1: Non-delegable governing duties
 <details>
@@ -183,4 +183,4 @@ Each institution must maintain a plain-language risk appetite and tolerance stat
 ---
 
 **Previous file:** [ci_01_scope_purpose_legitimacy_interface.md](ci_01_scope_purpose_legitimacy_interface.md)
-**Next file:** [ci_03_authority_custody_delegation_risk_profile.md](ci_03_authority_custody_delegation_risk_profile.md)
+**Next file:** [ci_04_appointment_competency_rotation_removal.md](ci_04_appointment_competency_rotation_removal.md)

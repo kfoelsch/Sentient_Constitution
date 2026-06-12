@@ -274,6 +274,10 @@ Before applying these procedural role terms, apply the role-definition preface i
 - **Backup activation:** documented transfer or co-routing to a designated backup forum when the lead forum cannot provide lawful independent merits determination in time.
 - **Representative treatment:** procedure resolving common questions for a broader affected group only when commonality, notice, adequate representation, and contestability are preserved.
 
+For **CI-9.3** (*Delegated subunits, institutional design class, and attachment discipline*), a **delegated subunit** is the institutional application of **Delegated binding body**: a standing or recurring internal body, including a division, chamber, committee, designated panel, or regional or functional office with decision rights, that exercises materially binding delegated authority for the parent institution and is not the institution's sole governing plenary.
+
+Forum-specific detail, including forum families, routing, appeals, and specialist chamber doctrine, remains in `corpus_forum.md` **CF-2** (*Forum formation, tribunal mapping, and chamber structure*) and related **CF** sections. Where **CF-2.6** (*Chamber authority composition and service mechanics*) states forum-specific delegated-authority duties or illustrations, **CF** text governs for **Chapter Nine** forums. Where **CI** and **CF** obligations overlap, the stricter clearly adopted rule governs under **CJS-2** (*Implementation integration map*).
+
 It is non-compliant to treat a body or route as valid if the records do not make lawful authority, independence safeguards, backup routes, and contest routes auditable where they materially apply.
 
 It is also non-compliant to use common-question procedures to suppress material sentient-specific contest rights required by owner rules.

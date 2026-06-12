@@ -74,7 +74,7 @@ Nothing in this section limits criminal liability under applicable law where leg
 
 - Upstream: [CJS-1.1](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-11-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.2](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-22-topic-router-stable-ids) topic router; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions; and [Chapter Ten](../core_10-10_rights_part_a.md#chapter-ten-foundational-rights) rights architecture where rights interfaces are invoked.
 - Downstream: this section's local operational requirements for **CI-5.1: Integrity trigger taxonomy and cross-layer routing (control package)**.
-- Read with: **CI-5.1**; **CI-5**; **CI-7**; **CI-8**; **CI-2**; **CI-3**; **CI-6**.
+- Read with: **CI-5.1**; **CI-5**; **CI-7**; **CI-8**; **CI-2**; **CI-6**.
 
 </details>
 
@@ -108,7 +108,7 @@ This subsection names **implementation-layer** trigger categories and routes so 
 **Routing (owner sections, not parallel doctrine):**
 - **Intake and triage** — **CI-5** (*Conflict integrity, anti-capture, and anti-corruption*) mandatory detection requirements; protected channels and structural separation from subjects of allegation.
 - **Investigation and evidence custody** — **CI-7** (*Oversight, assurance, controls, and evidence*) for institutional assurance and custody, **CI-8** (*Cross-institution coordination and escalation*) where independence failure requires transfer, co-assignment, external assurance, or backup routing, and **`corpus_forum.md`** **CF-7** (*Forum forensic and analytical support*), **CF-8** (*Independent investigative service and prosecution interface*), and **CF-9** (*Technical specialist forums and specialist chambers*) where forum, investigative, forensic, or technical specialist support is primary.
-- **Independence, recusal, and anti-self-judging** — **CI-2** (*Institutional design and separation of powers*), **CI-3** (*Authority custody, delegation, and risk profile*), **CI-6** (*Procedure integrity, contestability, and secondary review*); forum-side rules in **`corpus_forum.md`** **CF-3** (*Panel formation, disclosure, recusal, and lawful bench constitution*) and **CF-6** (*Integrity safeguards, anti-capture operations, and anti-self-judging support*) where adjudication is implicated.
+- **Independence, recusal, and anti-self-judging** — **CI-2** (*Institutional design, separation of powers, and authority custody*) and **CI-6** (*Procedure integrity, contestability, and secondary review*); forum-side rules in **`corpus_forum.md`** **CF-3** (*Panel formation, disclosure, recusal, and lawful bench constitution*) and **CF-6** (*Integrity safeguards, anti-capture operations, and anti-self-judging support*) where adjudication is implicated.
 - **Escalation across institutions** — **CI-8** (*Cross-institution coordination and escalation*); external assurance under **CI-7.2** (*External assurance triggers*) where local independence is not credible.
 - **Institutional sanctions and role forfeiture** — **CI-11** (*Resource stewardship and incentive integrity*) and **CI-13** (*Institutional failure, sanctions, dissolution, and accountability*) as this file already states; **not** a substitute for **Chapter Eight** slot-classification proceedings where those are the canonical route for the conduct class.
 

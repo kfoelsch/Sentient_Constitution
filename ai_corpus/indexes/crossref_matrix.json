@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/crossref_matrix.schema.json",
-  "generated_at": "2026-06-12T00:17:07+00:00",
+  "generated_at": "2026-06-12T12:35:08+00:00",
   "description": "Source-derived file-to-file Markdown reference graph.",
   "graph": {
     "nodes": [
@@ -138,10 +138,6 @@
       },
       {
         "id": "corpus_institutions/ci_02_institutional_design_separation_of_powers.md",
-        "type": "companion"
-      },
-      {
-        "id": "corpus_institutions/ci_03_authority_custody_delegation_risk_profile.md",
         "type": "companion"
       },
       {
@@ -3535,11 +3531,6 @@
             "anchors": []
           },
           {
-            "file": "corpus_institutions/ci_03_authority_custody_delegation_risk_profile.md",
-            "count": 1,
-            "anchors": []
-          },
-          {
             "file": "corpus_institutions/ci_04_appointment_competency_rotation_removal.md",
             "count": 1,
             "anchors": []
@@ -4880,31 +4871,117 @@
         "source": "corpus_institutions/ci_01_scope_purpose_legitimacy_interface.md",
         "targets": [
           {
-            "file": "core_02-04_definition_mechanics.md",
-            "count": 1,
-            "anchors": []
+            "file": "core_05-05_definitions_a_independent.md",
+            "count": 41,
+            "anchors": [
+              "#chapter-five-foundational-definitions",
+              "#classification-scaled-governance",
+              "#classification-scaled-governance-c",
+              "#classification-scaled-governance-e",
+              "#dependency",
+              "#dependency-c",
+              "#dependency-e",
+              "#oversight-constitutional",
+              "#oversight-constitutional-c",
+              "#oversight-constitutional-e",
+              "#proportionality",
+              "#proportionality-c",
+              "#proportionality-e",
+              "#reversibility-constitutional",
+              "#reversibility-constitutional-c",
+              "#reversibility-constitutional-e"
+            ]
           },
           {
-            "file": "core_06-06_standing_assessment.md",
-            "count": 1,
-            "anchors": []
+            "file": "core_05-05_definitions_b_semi_independent.md",
+            "count": 20,
+            "anchors": [
+              "#accountability",
+              "#accountability-c",
+              "#accountability-e",
+              "#governance",
+              "#governance-c",
+              "#governance-e",
+              "#material",
+              "#material-c",
+              "#material-e",
+              "#material-impact",
+              "#material-impact-c",
+              "#material-impact-e",
+              "#system-definition",
+              "#system-definition-c",
+              "#system-definition-e"
+            ]
           },
           {
-            "file": "core_07-07_standing_integration.md",
-            "count": 1,
-            "anchors": []
+            "file": "core_05-05_definitions_c_dependent_clusters.md",
+            "count": 80,
+            "anchors": [
+              "#authority-stack",
+              "#authority-stack-c",
+              "#authority-stack-e",
+              "#constitutional-constraint-violation",
+              "#constitutional-constraint-violation-c",
+              "#constitutional-constraint-violation-e",
+              "#corpus",
+              "#corpus-c",
+              "#corpus-e",
+              "#sentient-composite",
+              "#sentient-composite-c",
+              "#sentient-composite-e",
+              "#standing-effect-chapter-six",
+              "#standing-effect-chapter-six-c",
+              "#standing-effect-chapter-six-e",
+              "#supremacy-and-enforceability",
+              "#supremacy-and-enforceability-c",
+              "#supremacy-and-enforceability-e",
+              "#transparency",
+              "#transparency-c",
+              "#transparency-e",
+              "#violation-nature-chapter-six",
+              "#violation-nature-chapter-six-c",
+              "#violation-nature-chapter-six-e"
+            ]
           },
           {
             "file": "core_08-08_misconduct.md",
-            "count": 2,
+            "count": 1,
             "anchors": [
               "#chapter-eight-anti-constitutional-misconduct"
+            ]
+          },
+          {
+            "file": "core_10-10_rights_part_a.md",
+            "count": 5,
+            "anchors": [
+              "#chapter-ten-foundational-rights"
+            ]
+          },
+          {
+            "file": "core_15-15_incorporation.md",
+            "count": 5,
+            "anchors": [
+              "#chapter-fifteen-incorporation-bridge"
             ]
           },
           {
             "file": "corpus_institutions/ci_02_institutional_design_separation_of_powers.md",
             "count": 1,
             "anchors": []
+          },
+          {
+            "file": "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md",
+            "count": 6,
+            "anchors": [
+              "#cjs-11-shared-implementation-corpus-preamble-contract"
+            ]
+          },
+          {
+            "file": "corpus_joint_structure/cjs_02_implementation_integration_map.md",
+            "count": 6,
+            "anchors": [
+              "#cjs-22-topic-router-stable-ids"
+            ]
           },
           {
             "file": "corpus_systems.md",
@@ -4917,22 +4994,88 @@
         "source": "corpus_institutions/ci_02_institutional_design_separation_of_powers.md",
         "targets": [
           {
-            "file": "corpus_institutions/ci_01_scope_purpose_legitimacy_interface.md",
-            "count": 1,
-            "anchors": []
+            "file": "core_05-05_definitions_a_independent.md",
+            "count": 50,
+            "anchors": [
+              "#chapter-five-foundational-definitions",
+              "#necessity",
+              "#necessity-c",
+              "#necessity-e",
+              "#oversight-constitutional",
+              "#oversight-constitutional-c",
+              "#oversight-constitutional-e",
+              "#proportionality",
+              "#proportionality-c",
+              "#proportionality-e",
+              "#risk",
+              "#risk-c",
+              "#risk-e",
+              "#system-capture",
+              "#system-capture-c",
+              "#system-capture-e"
+            ]
           },
           {
-            "file": "corpus_institutions/ci_03_authority_custody_delegation_risk_profile.md",
-            "count": 1,
-            "anchors": []
-          }
-        ]
-      },
-      {
-        "source": "corpus_institutions/ci_03_authority_custody_delegation_risk_profile.md",
-        "targets": [
+            "file": "core_05-05_definitions_b_semi_independent.md",
+            "count": 76,
+            "anchors": [
+              "#accountability",
+              "#accountability-c",
+              "#accountability-e",
+              "#concentration-threshold-constitutional",
+              "#concentration-threshold-constitutional-c",
+              "#concentration-threshold-constitutional-e",
+              "#contestability",
+              "#contestability-c",
+              "#contestability-e",
+              "#emergency-and-contingency-constitutional",
+              "#emergency-and-contingency-constitutional-c",
+              "#emergency-and-contingency-constitutional-e",
+              "#governance",
+              "#governance-c",
+              "#governance-e",
+              "#material",
+              "#material-c",
+              "#material-e",
+              "#material-risk",
+              "#material-risk-c",
+              "#material-risk-e",
+              "#review-and-correction-duty-constitutional",
+              "#review-and-correction-duty-constitutional-c",
+              "#review-and-correction-duty-constitutional-e"
+            ]
+          },
           {
-            "file": "corpus_institutions/ci_02_institutional_design_separation_of_powers.md",
+            "file": "core_05-05_definitions_c_dependent_clusters.md",
+            "count": 32,
+            "anchors": [
+              "#auditability",
+              "#auditability-c",
+              "#auditability-e",
+              "#authority-stack",
+              "#authority-stack-c",
+              "#authority-stack-e",
+              "#corpus",
+              "#corpus-c",
+              "#corpus-e"
+            ]
+          },
+          {
+            "file": "core_10-10_rights_part_a.md",
+            "count": 6,
+            "anchors": [
+              "#chapter-ten-foundational-rights"
+            ]
+          },
+          {
+            "file": "core_15-15_incorporation.md",
+            "count": 6,
+            "anchors": [
+              "#chapter-fifteen-incorporation-bridge"
+            ]
+          },
+          {
+            "file": "corpus_institutions/ci_01_scope_purpose_legitimacy_interface.md",
             "count": 1,
             "anchors": []
           },
@@ -4940,6 +5083,20 @@
             "file": "corpus_institutions/ci_04_appointment_competency_rotation_removal.md",
             "count": 1,
             "anchors": []
+          },
+          {
+            "file": "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md",
+            "count": 6,
+            "anchors": [
+              "#cjs-11-shared-implementation-corpus-preamble-contract"
+            ]
+          },
+          {
+            "file": "corpus_joint_structure/cjs_02_implementation_integration_map.md",
+            "count": 7,
+            "anchors": [
+              "#cjs-22-topic-router-stable-ids"
+            ]
           }
         ]
       },
@@ -4947,7 +5104,61 @@
         "source": "corpus_institutions/ci_04_appointment_competency_rotation_removal.md",
         "targets": [
           {
-            "file": "corpus_institutions/ci_03_authority_custody_delegation_risk_profile.md",
+            "file": "core_05-05_definitions_a_independent.md",
+            "count": 5,
+            "anchors": [
+              "#chapter-five-foundational-definitions",
+              "#dependency",
+              "#dependency-c",
+              "#dependency-e"
+            ]
+          },
+          {
+            "file": "core_05-05_definitions_b_semi_independent.md",
+            "count": 16,
+            "anchors": [
+              "#accountability",
+              "#accountability-c",
+              "#accountability-e",
+              "#material",
+              "#material-c",
+              "#material-e",
+              "#stakeholder",
+              "#stakeholder-c",
+              "#stakeholder-e",
+              "#system-definition",
+              "#system-definition-c",
+              "#system-definition-e"
+            ]
+          },
+          {
+            "file": "core_05-05_definitions_c_dependent_clusters.md",
+            "count": 8,
+            "anchors": [
+              "#corpus",
+              "#corpus-c",
+              "#corpus-e",
+              "#sentient-composite",
+              "#sentient-composite-c",
+              "#sentient-composite-e"
+            ]
+          },
+          {
+            "file": "core_10-10_rights_part_a.md",
+            "count": 1,
+            "anchors": [
+              "#chapter-ten-foundational-rights"
+            ]
+          },
+          {
+            "file": "core_15-15_incorporation.md",
+            "count": 1,
+            "anchors": [
+              "#chapter-fifteen-incorporation-bridge"
+            ]
+          },
+          {
+            "file": "corpus_institutions/ci_02_institutional_design_separation_of_powers.md",
             "count": 1,
             "anchors": []
           },
@@ -4955,6 +5166,20 @@
             "file": "corpus_institutions/ci_05_conflict_integrity_anti_capture_anti_corruption.md",
             "count": 1,
             "anchors": []
+          },
+          {
+            "file": "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md",
+            "count": 1,
+            "anchors": [
+              "#cjs-11-shared-implementation-corpus-preamble-contract"
+            ]
+          },
+          {
+            "file": "corpus_joint_structure/cjs_02_implementation_integration_map.md",
+            "count": 1,
+            "anchors": [
+              "#cjs-22-topic-router-stable-ids"
+            ]
           },
           {
             "file": "corpus_systems.md",
@@ -4968,25 +5193,69 @@
         "targets": [
           {
             "file": "core_05-05_definitions_a_independent.md",
-            "count": 3,
+            "count": 29,
             "anchors": [
+              "#chapter-five-foundational-definitions",
               "#contingent-claim",
+              "#contingent-claim-c",
+              "#contingent-claim-e",
               "#event-contract-market",
-              "#game-of-chance"
+              "#event-contract-market-c",
+              "#event-contract-market-e",
+              "#game-of-chance",
+              "#incentive-alignment",
+              "#incentive-alignment-c",
+              "#incentive-alignment-e",
+              "#oversight-constitutional",
+              "#oversight-constitutional-c",
+              "#oversight-constitutional-e",
+              "#system-capture",
+              "#system-capture-c",
+              "#system-capture-e"
             ]
           },
           {
             "file": "core_05-05_definitions_b_semi_independent.md",
-            "count": 1,
+            "count": 25,
             "anchors": [
-              "#capture-of-resolution-pathways"
+              "#accountability",
+              "#accountability-c",
+              "#accountability-e",
+              "#capture-of-resolution-pathways",
+              "#capture-of-resolution-pathways-c",
+              "#capture-of-resolution-pathways-e",
+              "#contestability",
+              "#contestability-c",
+              "#contestability-e",
+              "#material",
+              "#material-c",
+              "#material-e"
             ]
           },
           {
             "file": "core_05-05_definitions_c_dependent_clusters.md",
-            "count": 1,
+            "count": 9,
             "anchors": [
-              "#evidence-preservation"
+              "#corpus",
+              "#corpus-c",
+              "#corpus-e",
+              "#evidence-preservation",
+              "#evidence-preservation-c",
+              "#evidence-preservation-e"
+            ]
+          },
+          {
+            "file": "core_10-10_rights_part_a.md",
+            "count": 2,
+            "anchors": [
+              "#chapter-ten-foundational-rights"
+            ]
+          },
+          {
+            "file": "core_15-15_incorporation.md",
+            "count": 2,
+            "anchors": [
+              "#chapter-fifteen-incorporation-bridge"
             ]
           },
           {
@@ -4998,12 +5267,74 @@
             "file": "corpus_institutions/ci_06_procedure_integrity_contestability_secondary_review.md",
             "count": 1,
             "anchors": []
+          },
+          {
+            "file": "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md",
+            "count": 2,
+            "anchors": [
+              "#cjs-11-shared-implementation-corpus-preamble-contract"
+            ]
+          },
+          {
+            "file": "corpus_joint_structure/cjs_02_implementation_integration_map.md",
+            "count": 2,
+            "anchors": [
+              "#cjs-22-topic-router-stable-ids"
+            ]
           }
         ]
       },
       {
         "source": "corpus_institutions/ci_06_procedure_integrity_contestability_secondary_review.md",
         "targets": [
+          {
+            "file": "core_05-05_definitions_a_independent.md",
+            "count": 13,
+            "anchors": [
+              "#chapter-five-foundational-definitions",
+              "#dependency",
+              "#dependency-c",
+              "#dependency-e",
+              "#oversight-constitutional",
+              "#oversight-constitutional-c",
+              "#oversight-constitutional-e",
+              "#redress-and-remediation-constitutional",
+              "#redress-and-remediation-constitutional-c",
+              "#redress-and-remediation-constitutional-e"
+            ]
+          },
+          {
+            "file": "core_05-05_definitions_b_semi_independent.md",
+            "count": 16,
+            "anchors": [
+              "#accountability",
+              "#accountability-c",
+              "#accountability-e",
+              "#contestability",
+              "#contestability-c",
+              "#contestability-e",
+              "#material",
+              "#material-c",
+              "#material-e",
+              "#procedural-fairness-constitutional",
+              "#procedural-fairness-constitutional-c",
+              "#procedural-fairness-constitutional-e"
+            ]
+          },
+          {
+            "file": "core_10-10_rights_part_a.md",
+            "count": 1,
+            "anchors": [
+              "#chapter-ten-foundational-rights"
+            ]
+          },
+          {
+            "file": "core_15-15_incorporation.md",
+            "count": 1,
+            "anchors": [
+              "#chapter-fifteen-incorporation-bridge"
+            ]
+          },
           {
             "file": "corpus_institutions/ci_05_conflict_integrity_anti_capture_anti_corruption.md",
             "count": 1,
@@ -5013,6 +5344,20 @@
             "file": "corpus_institutions/ci_07_oversight_assurance_controls_evidence.md",
             "count": 1,
             "anchors": []
+          },
+          {
+            "file": "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md",
+            "count": 1,
+            "anchors": [
+              "#cjs-11-shared-implementation-corpus-preamble-contract"
+            ]
+          },
+          {
+            "file": "corpus_joint_structure/cjs_02_implementation_integration_map.md",
+            "count": 1,
+            "anchors": [
+              "#cjs-22-topic-router-stable-ids"
+            ]
           }
         ]
       },
@@ -5020,10 +5365,75 @@
         "source": "corpus_institutions/ci_07_oversight_assurance_controls_evidence.md",
         "targets": [
           {
-            "file": "core_05-05_definitions_c_dependent_clusters.md",
-            "count": 1,
+            "file": "core_05-05_definitions_a_independent.md",
+            "count": 40,
             "anchors": [
-              "#evidence-preservation"
+              "#accessibility-constitutional",
+              "#accessibility-constitutional-c",
+              "#accessibility-constitutional-e",
+              "#chapter-five-foundational-definitions",
+              "#dependency",
+              "#dependency-c",
+              "#dependency-e",
+              "#oversight-constitutional",
+              "#oversight-constitutional-c",
+              "#oversight-constitutional-e",
+              "#redress-and-remediation-constitutional",
+              "#redress-and-remediation-constitutional-c",
+              "#redress-and-remediation-constitutional-e",
+              "#systemic",
+              "#systemic-c",
+              "#systemic-e"
+            ]
+          },
+          {
+            "file": "core_05-05_definitions_b_semi_independent.md",
+            "count": 44,
+            "anchors": [
+              "#contestability",
+              "#contestability-c",
+              "#contestability-e",
+              "#material",
+              "#material-c",
+              "#material-e",
+              "#procedural-fairness-constitutional",
+              "#procedural-fairness-constitutional-c",
+              "#procedural-fairness-constitutional-e",
+              "#system-definition",
+              "#system-definition-c",
+              "#system-definition-e"
+            ]
+          },
+          {
+            "file": "core_05-05_definitions_c_dependent_clusters.md",
+            "count": 33,
+            "anchors": [
+              "#auditability",
+              "#auditability-c",
+              "#auditability-e",
+              "#evidence-preservation",
+              "#evidence-preservation-c",
+              "#evidence-preservation-e",
+              "#observability",
+              "#observability-c",
+              "#observability-e",
+              "#transparency",
+              "#transparency-c",
+              "#transparency-e"
+            ]
+          },
+          {
+            "file": "core_10-10_rights_part_a.md",
+            "count": 4,
+            "anchors": [
+              "#chapter-ten-foundational-rights"
+            ]
+          },
+          {
+            "file": "core_15-15_incorporation.md",
+            "count": 4,
+            "anchors": [
+              "#chapter-fifteen-incorporation-bridge"
             ]
           },
           {
@@ -5035,12 +5445,80 @@
             "file": "corpus_institutions/ci_08_cross_institution_coordination_escalation.md",
             "count": 1,
             "anchors": []
+          },
+          {
+            "file": "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md",
+            "count": 5,
+            "anchors": [
+              "#cjs-11-shared-implementation-corpus-preamble-contract"
+            ]
+          },
+          {
+            "file": "corpus_joint_structure/cjs_02_implementation_integration_map.md",
+            "count": 5,
+            "anchors": [
+              "#cjs-22-topic-router-stable-ids"
+            ]
           }
         ]
       },
       {
         "source": "corpus_institutions/ci_08_cross_institution_coordination_escalation.md",
         "targets": [
+          {
+            "file": "core_05-05_definitions_a_independent.md",
+            "count": 9,
+            "anchors": [
+              "#chapter-five-foundational-definitions",
+              "#oversight-constitutional",
+              "#oversight-constitutional-c",
+              "#oversight-constitutional-e",
+              "#systemic",
+              "#systemic-c",
+              "#systemic-e"
+            ]
+          },
+          {
+            "file": "core_05-05_definitions_b_semi_independent.md",
+            "count": 16,
+            "anchors": [
+              "#accountability",
+              "#accountability-c",
+              "#accountability-e",
+              "#emergency-and-contingency-constitutional",
+              "#emergency-and-contingency-constitutional-c",
+              "#emergency-and-contingency-constitutional-e",
+              "#governance",
+              "#governance-c",
+              "#governance-e",
+              "#material",
+              "#material-c",
+              "#material-e"
+            ]
+          },
+          {
+            "file": "core_05-05_definitions_c_dependent_clusters.md",
+            "count": 4,
+            "anchors": [
+              "#corpus",
+              "#corpus-c",
+              "#corpus-e"
+            ]
+          },
+          {
+            "file": "core_10-10_rights_part_a.md",
+            "count": 1,
+            "anchors": [
+              "#chapter-ten-foundational-rights"
+            ]
+          },
+          {
+            "file": "core_15-15_incorporation.md",
+            "count": 1,
+            "anchors": [
+              "#chapter-fifteen-incorporation-bridge"
+            ]
+          },
           {
             "file": "corpus_institutions/ci_07_oversight_assurance_controls_evidence.md",
             "count": 1,
@@ -5050,6 +5528,20 @@
             "file": "corpus_institutions/ci_09_classification_linked_institutional_obligations.md",
             "count": 1,
             "anchors": []
+          },
+          {
+            "file": "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md",
+            "count": 1,
+            "anchors": [
+              "#cjs-11-shared-implementation-corpus-preamble-contract"
+            ]
+          },
+          {
+            "file": "corpus_joint_structure/cjs_02_implementation_integration_map.md",
+            "count": 1,
+            "anchors": [
+              "#cjs-22-topic-router-stable-ids"
+            ]
           }
         ]
       },
@@ -5057,18 +5549,109 @@
         "source": "corpus_institutions/ci_09_classification_linked_institutional_obligations.md",
         "targets": [
           {
+            "file": "core_05-05_definitions_a_independent.md",
+            "count": 141,
+            "anchors": [
+              "#chapter-five-foundational-definitions",
+              "#classification-scaled-governance",
+              "#classification-scaled-governance-c",
+              "#classification-scaled-governance-e",
+              "#dependency",
+              "#dependency-c",
+              "#dependency-e",
+              "#necessity",
+              "#necessity-c",
+              "#necessity-e",
+              "#oversight-constitutional",
+              "#oversight-constitutional-c",
+              "#oversight-constitutional-e",
+              "#proportionality",
+              "#proportionality-c",
+              "#proportionality-e",
+              "#risk",
+              "#risk-c",
+              "#risk-e",
+              "#system-capture",
+              "#system-capture-c",
+              "#system-capture-e"
+            ]
+          },
+          {
             "file": "core_05-05_definitions_b_semi_independent.md",
-            "count": 2,
+            "count": 54,
             "anchors": [
               "#business-creation-constitutional",
-              "#system-creation-constitutional"
+              "#business-creation-constitutional-c",
+              "#business-creation-constitutional-e",
+              "#collective-organization-constitutional",
+              "#collective-organization-constitutional-c",
+              "#collective-organization-constitutional-e",
+              "#contestability",
+              "#contestability-c",
+              "#contestability-e",
+              "#emergency-and-contingency-constitutional",
+              "#emergency-and-contingency-constitutional-c",
+              "#emergency-and-contingency-constitutional-e",
+              "#governance",
+              "#governance-c",
+              "#governance-e",
+              "#material",
+              "#material-c",
+              "#material-e",
+              "#material-impact",
+              "#material-impact-c",
+              "#material-impact-e",
+              "#procedural-fairness-constitutional",
+              "#procedural-fairness-constitutional-c",
+              "#procedural-fairness-constitutional-e",
+              "#review-and-correction-duty-constitutional",
+              "#review-and-correction-duty-constitutional-c",
+              "#review-and-correction-duty-constitutional-e",
+              "#system-creation-constitutional",
+              "#system-creation-constitutional-c",
+              "#system-creation-constitutional-e",
+              "#system-definition",
+              "#system-definition-c",
+              "#system-definition-e"
             ]
           },
           {
             "file": "core_05-05_definitions_c_dependent_clusters.md",
-            "count": 1,
+            "count": 69,
             "anchors": [
-              "#assembly-collective-organization-institutional-formation-cluster"
+              "#assembly-collective-organization-institutional-formation-cluster",
+              "#auditability",
+              "#auditability-c",
+              "#auditability-e",
+              "#authority-stack",
+              "#authority-stack-c",
+              "#authority-stack-e",
+              "#constitutional-constraint-violation",
+              "#constitutional-constraint-violation-c",
+              "#constitutional-constraint-violation-e",
+              "#corpus",
+              "#corpus-c",
+              "#corpus-e",
+              "#epistemic-integrity",
+              "#epistemic-integrity-c",
+              "#epistemic-integrity-e",
+              "#transparency",
+              "#transparency-c",
+              "#transparency-e"
+            ]
+          },
+          {
+            "file": "core_10-10_rights_part_a.md",
+            "count": 9,
+            "anchors": [
+              "#chapter-ten-foundational-rights"
+            ]
+          },
+          {
+            "file": "core_15-15_incorporation.md",
+            "count": 9,
+            "anchors": [
+              "#chapter-fifteen-incorporation-bridge"
             ]
           },
           {
@@ -5080,6 +5663,20 @@
             "file": "corpus_institutions/ci_10_public_revenue_fees_recurring_charges_billing_integrity.md",
             "count": 1,
             "anchors": []
+          },
+          {
+            "file": "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md",
+            "count": 9,
+            "anchors": [
+              "#cjs-11-shared-implementation-corpus-preamble-contract"
+            ]
+          },
+          {
+            "file": "corpus_joint_structure/cjs_02_implementation_integration_map.md",
+            "count": 9,
+            "anchors": [
+              "#cjs-22-topic-router-stable-ids"
+            ]
           }
         ]
       },
@@ -5092,6 +5689,78 @@
             "anchors": []
           },
           {
+            "file": "core_05-05_definitions_a_independent.md",
+            "count": 11,
+            "anchors": [
+              "#accessibility-constitutional",
+              "#accessibility-constitutional-c",
+              "#accessibility-constitutional-e",
+              "#chapter-five-foundational-definitions",
+              "#proportionality",
+              "#proportionality-c",
+              "#proportionality-e"
+            ]
+          },
+          {
+            "file": "core_05-05_definitions_b_semi_independent.md",
+            "count": 48,
+            "anchors": [
+              "#avoidable-burden",
+              "#avoidable-burden-c",
+              "#avoidable-burden-e",
+              "#coercion-and-manipulation-constitutional",
+              "#coercion-and-manipulation-constitutional-c",
+              "#coercion-and-manipulation-constitutional-e",
+              "#contestability",
+              "#contestability-c",
+              "#contestability-e",
+              "#material",
+              "#material-c",
+              "#material-e",
+              "#material-impact",
+              "#material-impact-c",
+              "#material-impact-e",
+              "#meaningful-agency",
+              "#meaningful-agency-c",
+              "#meaningful-agency-e",
+              "#system-definition",
+              "#system-definition-c",
+              "#system-definition-e"
+            ]
+          },
+          {
+            "file": "core_05-05_definitions_c_dependent_clusters.md",
+            "count": 28,
+            "anchors": [
+              "#auditability",
+              "#auditability-c",
+              "#auditability-e",
+              "#corpus",
+              "#corpus-c",
+              "#corpus-e",
+              "#transparency",
+              "#transparency-c",
+              "#transparency-e",
+              "#trust-degradation-and-misleading-reliance",
+              "#trust-degradation-and-misleading-reliance-c",
+              "#trust-degradation-and-misleading-reliance-e"
+            ]
+          },
+          {
+            "file": "core_10-10_rights_part_a.md",
+            "count": 3,
+            "anchors": [
+              "#chapter-ten-foundational-rights"
+            ]
+          },
+          {
+            "file": "core_15-15_incorporation.md",
+            "count": 3,
+            "anchors": [
+              "#chapter-fifteen-incorporation-bridge"
+            ]
+          },
+          {
             "file": "corpus_institutions/ci_09_classification_linked_institutional_obligations.md",
             "count": 1,
             "anchors": []
@@ -5100,12 +5769,80 @@
             "file": "corpus_institutions/ci_11_resource_stewardship_incentive_integrity.md",
             "count": 1,
             "anchors": []
+          },
+          {
+            "file": "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md",
+            "count": 4,
+            "anchors": [
+              "#cjs-11-shared-implementation-corpus-preamble-contract"
+            ]
+          },
+          {
+            "file": "corpus_joint_structure/cjs_02_implementation_integration_map.md",
+            "count": 3,
+            "anchors": [
+              "#cjs-22-topic-router-stable-ids"
+            ]
           }
         ]
       },
       {
         "source": "corpus_institutions/ci_11_resource_stewardship_incentive_integrity.md",
         "targets": [
+          {
+            "file": "core_05-05_definitions_a_independent.md",
+            "count": 5,
+            "anchors": [
+              "#chapter-five-foundational-definitions",
+              "#negligence",
+              "#negligence-c",
+              "#negligence-e"
+            ]
+          },
+          {
+            "file": "core_05-05_definitions_b_semi_independent.md",
+            "count": 16,
+            "anchors": [
+              "#governance",
+              "#governance-c",
+              "#governance-e",
+              "#material",
+              "#material-c",
+              "#material-e",
+              "#strategic-stewardship-obligation-constitutional",
+              "#strategic-stewardship-obligation-constitutional-c",
+              "#strategic-stewardship-obligation-constitutional-e",
+              "#system-definition",
+              "#system-definition-c",
+              "#system-definition-e"
+            ]
+          },
+          {
+            "file": "core_05-05_definitions_c_dependent_clusters.md",
+            "count": 8,
+            "anchors": [
+              "#corpus",
+              "#corpus-c",
+              "#corpus-e",
+              "#transparency",
+              "#transparency-c",
+              "#transparency-e"
+            ]
+          },
+          {
+            "file": "core_10-10_rights_part_a.md",
+            "count": 1,
+            "anchors": [
+              "#chapter-ten-foundational-rights"
+            ]
+          },
+          {
+            "file": "core_15-15_incorporation.md",
+            "count": 1,
+            "anchors": [
+              "#chapter-fifteen-incorporation-bridge"
+            ]
+          },
           {
             "file": "corpus_institutions/ci_10_public_revenue_fees_recurring_charges_billing_integrity.md",
             "count": 1,
@@ -5115,12 +5852,107 @@
             "file": "corpus_institutions/ci_12_transparency_participation_accessible_pathways.md",
             "count": 1,
             "anchors": []
+          },
+          {
+            "file": "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md",
+            "count": 1,
+            "anchors": [
+              "#cjs-11-shared-implementation-corpus-preamble-contract"
+            ]
+          },
+          {
+            "file": "corpus_joint_structure/cjs_02_implementation_integration_map.md",
+            "count": 1,
+            "anchors": [
+              "#cjs-22-topic-router-stable-ids"
+            ]
           }
         ]
       },
       {
         "source": "corpus_institutions/ci_12_transparency_participation_accessible_pathways.md",
         "targets": [
+          {
+            "file": "core_05-05_definitions_a_independent.md",
+            "count": 41,
+            "anchors": [
+              "#accessibility-constitutional",
+              "#accessibility-constitutional-c",
+              "#accessibility-constitutional-e",
+              "#chapter-five-foundational-definitions",
+              "#dependency",
+              "#dependency-c",
+              "#dependency-e",
+              "#oversight-constitutional",
+              "#oversight-constitutional-c",
+              "#oversight-constitutional-e"
+            ]
+          },
+          {
+            "file": "core_05-05_definitions_b_semi_independent.md",
+            "count": 64,
+            "anchors": [
+              "#accountability",
+              "#accountability-c",
+              "#accountability-e",
+              "#coercion-and-manipulation-constitutional",
+              "#coercion-and-manipulation-constitutional-c",
+              "#coercion-and-manipulation-constitutional-e",
+              "#consent-constitutional",
+              "#consent-constitutional-c",
+              "#consent-constitutional-e",
+              "#contestability",
+              "#contestability-c",
+              "#contestability-e",
+              "#governance",
+              "#governance-c",
+              "#governance-e",
+              "#material",
+              "#material-c",
+              "#material-e",
+              "#stakeholder",
+              "#stakeholder-c",
+              "#stakeholder-e",
+              "#stakeholder-participation-weight",
+              "#stakeholder-participation-weight-c",
+              "#stakeholder-participation-weight-e"
+            ]
+          },
+          {
+            "file": "core_05-05_definitions_c_dependent_clusters.md",
+            "count": 40,
+            "anchors": [
+              "#auditability",
+              "#auditability-c",
+              "#auditability-e",
+              "#corpus",
+              "#corpus-c",
+              "#corpus-e",
+              "#transparency",
+              "#transparency-c",
+              "#transparency-e",
+              "#trust",
+              "#trust-c",
+              "#trust-degradation-and-misleading-reliance",
+              "#trust-degradation-and-misleading-reliance-c",
+              "#trust-degradation-and-misleading-reliance-e",
+              "#trust-e"
+            ]
+          },
+          {
+            "file": "core_10-10_rights_part_a.md",
+            "count": 5,
+            "anchors": [
+              "#chapter-ten-foundational-rights"
+            ]
+          },
+          {
+            "file": "core_15-15_incorporation.md",
+            "count": 5,
+            "anchors": [
+              "#chapter-fifteen-incorporation-bridge"
+            ]
+          },
           {
             "file": "corpus_institutions/ci_11_resource_stewardship_incentive_integrity.md",
             "count": 1,
@@ -5130,12 +5962,80 @@
             "file": "corpus_institutions/ci_13_institutional_failure_sanctions_dissolution_accountability.md",
             "count": 1,
             "anchors": []
+          },
+          {
+            "file": "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md",
+            "count": 5,
+            "anchors": [
+              "#cjs-11-shared-implementation-corpus-preamble-contract"
+            ]
+          },
+          {
+            "file": "corpus_joint_structure/cjs_02_implementation_integration_map.md",
+            "count": 5,
+            "anchors": [
+              "#cjs-22-topic-router-stable-ids"
+            ]
           }
         ]
       },
       {
         "source": "corpus_institutions/ci_13_institutional_failure_sanctions_dissolution_accountability.md",
         "targets": [
+          {
+            "file": "core_05-05_definitions_a_independent.md",
+            "count": 5,
+            "anchors": [
+              "#chapter-five-foundational-definitions",
+              "#dependency",
+              "#dependency-c",
+              "#dependency-e"
+            ]
+          },
+          {
+            "file": "core_05-05_definitions_b_semi_independent.md",
+            "count": 12,
+            "anchors": [
+              "#accountability",
+              "#accountability-c",
+              "#accountability-e",
+              "#governance",
+              "#governance-c",
+              "#governance-e",
+              "#material",
+              "#material-c",
+              "#material-e"
+            ]
+          },
+          {
+            "file": "core_05-05_definitions_c_dependent_clusters.md",
+            "count": 12,
+            "anchors": [
+              "#corpus",
+              "#corpus-c",
+              "#corpus-e",
+              "#sustained-high-gravity-pattern",
+              "#sustained-high-gravity-pattern-c",
+              "#sustained-high-gravity-pattern-e",
+              "#transparency",
+              "#transparency-c",
+              "#transparency-e"
+            ]
+          },
+          {
+            "file": "core_10-10_rights_part_a.md",
+            "count": 1,
+            "anchors": [
+              "#chapter-ten-foundational-rights"
+            ]
+          },
+          {
+            "file": "core_15-15_incorporation.md",
+            "count": 1,
+            "anchors": [
+              "#chapter-fifteen-incorporation-bridge"
+            ]
+          },
           {
             "file": "corpus_institutions/ci_12_transparency_participation_accessible_pathways.md",
             "count": 1,
@@ -5145,6 +6045,20 @@
             "file": "corpus_institutions/ci_14_transitional_governance_institutional_evolution.md",
             "count": 1,
             "anchors": []
+          },
+          {
+            "file": "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md",
+            "count": 1,
+            "anchors": [
+              "#cjs-11-shared-implementation-corpus-preamble-contract"
+            ]
+          },
+          {
+            "file": "corpus_joint_structure/cjs_02_implementation_integration_map.md",
+            "count": 2,
+            "anchors": [
+              "#cjs-22-topic-router-stable-ids"
+            ]
           }
         ]
       },
@@ -5152,10 +6066,75 @@
         "source": "corpus_institutions/ci_14_transitional_governance_institutional_evolution.md",
         "targets": [
           {
-            "file": "core_05-05_definitions_c_dependent_clusters.md",
-            "count": 1,
+            "file": "core_05-05_definitions_a_independent.md",
+            "count": 23,
             "anchors": [
-              "#evidence-preservation"
+              "#chapter-five-foundational-definitions",
+              "#oversight-constitutional",
+              "#oversight-constitutional-c",
+              "#oversight-constitutional-e",
+              "#reversibility-constitutional",
+              "#reversibility-constitutional-c",
+              "#reversibility-constitutional-e"
+            ]
+          },
+          {
+            "file": "core_05-05_definitions_b_semi_independent.md",
+            "count": 40,
+            "anchors": [
+              "#accountability",
+              "#accountability-c",
+              "#accountability-e",
+              "#contestability",
+              "#contestability-c",
+              "#contestability-e",
+              "#emergency-and-contingency-constitutional",
+              "#emergency-and-contingency-constitutional-c",
+              "#emergency-and-contingency-constitutional-e",
+              "#governance",
+              "#governance-c",
+              "#governance-e",
+              "#material",
+              "#material-c",
+              "#material-e",
+              "#stakeholder",
+              "#stakeholder-c",
+              "#stakeholder-e",
+              "#system-definition",
+              "#system-definition-c",
+              "#system-definition-e"
+            ]
+          },
+          {
+            "file": "core_05-05_definitions_c_dependent_clusters.md",
+            "count": 25,
+            "anchors": [
+              "#constitutional-constraint-violation",
+              "#constitutional-constraint-violation-c",
+              "#constitutional-constraint-violation-e",
+              "#corpus",
+              "#corpus-c",
+              "#corpus-e",
+              "#evidence-preservation",
+              "#evidence-preservation-c",
+              "#evidence-preservation-e",
+              "#sentient-composite",
+              "#sentient-composite-c",
+              "#sentient-composite-e"
+            ]
+          },
+          {
+            "file": "core_10-10_rights_part_a.md",
+            "count": 3,
+            "anchors": [
+              "#chapter-ten-foundational-rights"
+            ]
+          },
+          {
+            "file": "core_15-15_incorporation.md",
+            "count": 3,
+            "anchors": [
+              "#chapter-fifteen-incorporation-bridge"
             ]
           },
           {
@@ -5167,12 +6146,80 @@
             "file": "corpus_institutions/ci_15_vulnerable_personal_services_markets_article_xc_interface.md",
             "count": 1,
             "anchors": []
+          },
+          {
+            "file": "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md",
+            "count": 4,
+            "anchors": [
+              "#cjs-11-shared-implementation-corpus-preamble-contract"
+            ]
+          },
+          {
+            "file": "corpus_joint_structure/cjs_02_implementation_integration_map.md",
+            "count": 4,
+            "anchors": [
+              "#cjs-22-topic-router-stable-ids"
+            ]
           }
         ]
       },
       {
         "source": "corpus_institutions/ci_15_vulnerable_personal_services_markets_article_xc_interface.md",
         "targets": [
+          {
+            "file": "core_05-05_definitions_a_independent.md",
+            "count": 9,
+            "anchors": [
+              "#chapter-five-foundational-definitions",
+              "#classification-scaled-governance",
+              "#classification-scaled-governance-c",
+              "#classification-scaled-governance-e",
+              "#proportionality",
+              "#proportionality-c",
+              "#proportionality-e"
+            ]
+          },
+          {
+            "file": "core_05-05_definitions_b_semi_independent.md",
+            "count": 16,
+            "anchors": [
+              "#coercion-and-manipulation-constitutional",
+              "#coercion-and-manipulation-constitutional-c",
+              "#coercion-and-manipulation-constitutional-e",
+              "#contestability",
+              "#contestability-c",
+              "#contestability-e",
+              "#material-impact",
+              "#material-impact-c",
+              "#material-impact-e",
+              "#protected-characteristics-constitutional",
+              "#protected-characteristics-constitutional-c",
+              "#protected-characteristics-constitutional-e"
+            ]
+          },
+          {
+            "file": "core_05-05_definitions_c_dependent_clusters.md",
+            "count": 4,
+            "anchors": [
+              "#transparency",
+              "#transparency-c",
+              "#transparency-e"
+            ]
+          },
+          {
+            "file": "core_10-10_rights_part_a.md",
+            "count": 1,
+            "anchors": [
+              "#chapter-ten-foundational-rights"
+            ]
+          },
+          {
+            "file": "core_15-15_incorporation.md",
+            "count": 1,
+            "anchors": [
+              "#chapter-fifteen-incorporation-bridge"
+            ]
+          },
           {
             "file": "corpus_institutions/ci_14_transitional_governance_institutional_evolution.md",
             "count": 1,
@@ -5182,12 +6229,80 @@
             "file": "corpus_institutions/ci_16_innovation_reward_disclosure_anti_enclosure.md",
             "count": 1,
             "anchors": []
+          },
+          {
+            "file": "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md",
+            "count": 1,
+            "anchors": [
+              "#cjs-11-shared-implementation-corpus-preamble-contract"
+            ]
+          },
+          {
+            "file": "corpus_joint_structure/cjs_02_implementation_integration_map.md",
+            "count": 2,
+            "anchors": [
+              "#cjs-22-topic-router-stable-ids"
+            ]
           }
         ]
       },
       {
         "source": "corpus_institutions/ci_16_innovation_reward_disclosure_anti_enclosure.md",
         "targets": [
+          {
+            "file": "core_05-05_definitions_a_independent.md",
+            "count": 17,
+            "anchors": [
+              "#chapter-five-foundational-definitions",
+              "#dependency",
+              "#dependency-c",
+              "#dependency-e",
+              "#innovation-reward-and-anti-enclosure",
+              "#innovation-reward-and-anti-enclosure-c",
+              "#innovation-reward-and-anti-enclosure-e",
+              "#necessity",
+              "#necessity-c",
+              "#necessity-e",
+              "#proportionality",
+              "#proportionality-c",
+              "#proportionality-e"
+            ]
+          },
+          {
+            "file": "core_05-05_definitions_b_semi_independent.md",
+            "count": 8,
+            "anchors": [
+              "#contestability",
+              "#contestability-c",
+              "#contestability-e",
+              "#system-definition",
+              "#system-definition-c",
+              "#system-definition-e"
+            ]
+          },
+          {
+            "file": "core_05-05_definitions_c_dependent_clusters.md",
+            "count": 4,
+            "anchors": [
+              "#corpus",
+              "#corpus-c",
+              "#corpus-e"
+            ]
+          },
+          {
+            "file": "core_10-10_rights_part_a.md",
+            "count": 1,
+            "anchors": [
+              "#chapter-ten-foundational-rights"
+            ]
+          },
+          {
+            "file": "core_15-15_incorporation.md",
+            "count": 1,
+            "anchors": [
+              "#chapter-fifteen-incorporation-bridge"
+            ]
+          },
           {
             "file": "corpus_institutions/ci_15_vulnerable_personal_services_markets_article_xc_interface.md",
             "count": 1,
@@ -5197,6 +6312,20 @@
             "file": "corpus_institutions/ci_17_scientific_publication_peer_review_replication_evidence_stewardship.md",
             "count": 1,
             "anchors": []
+          },
+          {
+            "file": "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md",
+            "count": 1,
+            "anchors": [
+              "#cjs-11-shared-implementation-corpus-preamble-contract"
+            ]
+          },
+          {
+            "file": "corpus_joint_structure/cjs_02_implementation_integration_map.md",
+            "count": 1,
+            "anchors": [
+              "#cjs-22-topic-router-stable-ids"
+            ]
           },
           {
             "file": "corpus_systems.md",
@@ -5209,6 +6338,60 @@
         "source": "corpus_institutions/ci_17_scientific_publication_peer_review_replication_evidence_stewardship.md",
         "targets": [
           {
+            "file": "core_05-05_definitions_a_independent.md",
+            "count": 9,
+            "anchors": [
+              "#chapter-five-foundational-definitions",
+              "#dependency",
+              "#dependency-c",
+              "#dependency-e",
+              "#proportionality",
+              "#proportionality-c",
+              "#proportionality-e"
+            ]
+          },
+          {
+            "file": "core_05-05_definitions_b_semi_independent.md",
+            "count": 4,
+            "anchors": [
+              "#contestability",
+              "#contestability-c",
+              "#contestability-e"
+            ]
+          },
+          {
+            "file": "core_05-05_definitions_c_dependent_clusters.md",
+            "count": 16,
+            "anchors": [
+              "#auditability",
+              "#auditability-c",
+              "#auditability-e",
+              "#epistemic-integrity",
+              "#epistemic-integrity-c",
+              "#epistemic-integrity-e",
+              "#primary-stakes-routing",
+              "#primary-stakes-routing-c",
+              "#primary-stakes-routing-e",
+              "#transparency",
+              "#transparency-c",
+              "#transparency-e"
+            ]
+          },
+          {
+            "file": "core_10-10_rights_part_a.md",
+            "count": 1,
+            "anchors": [
+              "#chapter-ten-foundational-rights"
+            ]
+          },
+          {
+            "file": "core_15-15_incorporation.md",
+            "count": 1,
+            "anchors": [
+              "#chapter-fifteen-incorporation-bridge"
+            ]
+          },
+          {
             "file": "corpus_institutions/ci_16_innovation_reward_disclosure_anti_enclosure.md",
             "count": 1,
             "anchors": []
@@ -5217,12 +6400,80 @@
             "file": "corpus_institutions/ci_18_community_life_voluntary_association_non_instrumental_time.md",
             "count": 1,
             "anchors": []
+          },
+          {
+            "file": "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md",
+            "count": 1,
+            "anchors": [
+              "#cjs-11-shared-implementation-corpus-preamble-contract"
+            ]
+          },
+          {
+            "file": "corpus_joint_structure/cjs_02_implementation_integration_map.md",
+            "count": 1,
+            "anchors": [
+              "#cjs-22-topic-router-stable-ids"
+            ]
           }
         ]
       },
       {
         "source": "corpus_institutions/ci_18_community_life_voluntary_association_non_instrumental_time.md",
         "targets": [
+          {
+            "file": "core_05-05_definitions_a_independent.md",
+            "count": 5,
+            "anchors": [
+              "#chapter-five-foundational-definitions",
+              "#necessity",
+              "#necessity-c",
+              "#necessity-e"
+            ]
+          },
+          {
+            "file": "core_05-05_definitions_b_semi_independent.md",
+            "count": 16,
+            "anchors": [
+              "#avoidable-burden",
+              "#avoidable-burden-c",
+              "#avoidable-burden-e",
+              "#contestability",
+              "#contestability-c",
+              "#contestability-e",
+              "#family-and-care-relationships-constitutional",
+              "#family-and-care-relationships-constitutional-c",
+              "#family-and-care-relationships-constitutional-e",
+              "#governance",
+              "#governance-c",
+              "#governance-e"
+            ]
+          },
+          {
+            "file": "core_05-05_definitions_c_dependent_clusters.md",
+            "count": 8,
+            "anchors": [
+              "#expression-constitutional",
+              "#expression-constitutional-c",
+              "#expression-constitutional-e",
+              "#transparency",
+              "#transparency-c",
+              "#transparency-e"
+            ]
+          },
+          {
+            "file": "core_10-10_rights_part_a.md",
+            "count": 1,
+            "anchors": [
+              "#chapter-ten-foundational-rights"
+            ]
+          },
+          {
+            "file": "core_15-15_incorporation.md",
+            "count": 1,
+            "anchors": [
+              "#chapter-fifteen-incorporation-bridge"
+            ]
+          },
           {
             "file": "corpus_institutions/ci_17_scientific_publication_peer_review_replication_evidence_stewardship.md",
             "count": 1,
@@ -5232,12 +6483,80 @@
             "file": "corpus_institutions/ci_19_end_of_life_continuity_memorial_dignity_posthumous_data.md",
             "count": 1,
             "anchors": []
+          },
+          {
+            "file": "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md",
+            "count": 1,
+            "anchors": [
+              "#cjs-11-shared-implementation-corpus-preamble-contract"
+            ]
+          },
+          {
+            "file": "corpus_joint_structure/cjs_02_implementation_integration_map.md",
+            "count": 1,
+            "anchors": [
+              "#cjs-22-topic-router-stable-ids"
+            ]
           }
         ]
       },
       {
         "source": "corpus_institutions/ci_19_end_of_life_continuity_memorial_dignity_posthumous_data.md",
         "targets": [
+          {
+            "file": "core_05-05_definitions_a_independent.md",
+            "count": 13,
+            "anchors": [
+              "#accessibility-constitutional",
+              "#accessibility-constitutional-c",
+              "#accessibility-constitutional-e",
+              "#chapter-five-foundational-definitions",
+              "#dignity-and-equal-moral-standing",
+              "#dignity-and-equal-moral-standing-c",
+              "#dignity-and-equal-moral-standing-e",
+              "#voluntary-discontinuation-constitutional",
+              "#voluntary-discontinuation-constitutional-c",
+              "#voluntary-discontinuation-constitutional-e"
+            ]
+          },
+          {
+            "file": "core_05-05_definitions_b_semi_independent.md",
+            "count": 8,
+            "anchors": [
+              "#consent-constitutional",
+              "#consent-constitutional-c",
+              "#consent-constitutional-e",
+              "#material",
+              "#material-c",
+              "#material-e"
+            ]
+          },
+          {
+            "file": "core_05-05_definitions_c_dependent_clusters.md",
+            "count": 8,
+            "anchors": [
+              "#irreversible-deprivation-measure-constitutional",
+              "#irreversible-deprivation-measure-constitutional-c",
+              "#irreversible-deprivation-measure-constitutional-e",
+              "#transparency",
+              "#transparency-c",
+              "#transparency-e"
+            ]
+          },
+          {
+            "file": "core_10-10_rights_part_a.md",
+            "count": 1,
+            "anchors": [
+              "#chapter-ten-foundational-rights"
+            ]
+          },
+          {
+            "file": "core_15-15_incorporation.md",
+            "count": 1,
+            "anchors": [
+              "#chapter-fifteen-incorporation-bridge"
+            ]
+          },
           {
             "file": "corpus_institutions/ci_18_community_life_voluntary_association_non_instrumental_time.md",
             "count": 1,
@@ -5247,12 +6566,74 @@
             "file": "corpus_institutions/ci_20_care_labor_dependent_support_respite_care_economy_fairness.md",
             "count": 1,
             "anchors": []
+          },
+          {
+            "file": "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md",
+            "count": 1,
+            "anchors": [
+              "#cjs-11-shared-implementation-corpus-preamble-contract"
+            ]
+          },
+          {
+            "file": "corpus_joint_structure/cjs_02_implementation_integration_map.md",
+            "count": 1,
+            "anchors": [
+              "#cjs-22-topic-router-stable-ids"
+            ]
           }
         ]
       },
       {
         "source": "corpus_institutions/ci_20_care_labor_dependent_support_respite_care_economy_fairness.md",
         "targets": [
+          {
+            "file": "core_05-05_definitions_a_independent.md",
+            "count": 17,
+            "anchors": [
+              "#accessibility-constitutional",
+              "#accessibility-constitutional-c",
+              "#accessibility-constitutional-e",
+              "#chapter-five-foundational-definitions",
+              "#dependency",
+              "#dependency-c",
+              "#dependency-e",
+              "#necessity",
+              "#necessity-c",
+              "#necessity-e",
+              "#proportionality",
+              "#proportionality-c",
+              "#proportionality-e"
+            ]
+          },
+          {
+            "file": "core_05-05_definitions_b_semi_independent.md",
+            "count": 12,
+            "anchors": [
+              "#family-and-care-relationships-constitutional",
+              "#family-and-care-relationships-constitutional-c",
+              "#family-and-care-relationships-constitutional-e",
+              "#governance",
+              "#governance-c",
+              "#governance-e",
+              "#material",
+              "#material-c",
+              "#material-e"
+            ]
+          },
+          {
+            "file": "core_10-10_rights_part_a.md",
+            "count": 1,
+            "anchors": [
+              "#chapter-ten-foundational-rights"
+            ]
+          },
+          {
+            "file": "core_15-15_incorporation.md",
+            "count": 1,
+            "anchors": [
+              "#chapter-fifteen-incorporation-bridge"
+            ]
+          },
           {
             "file": "corpus_institutions/ci_19_end_of_life_continuity_memorial_dignity_posthumous_data.md",
             "count": 1,
@@ -5262,12 +6643,80 @@
             "file": "corpus_institutions/ci_21_relational_coercive_control_intimate_power_anti_domination.md",
             "count": 1,
             "anchors": []
+          },
+          {
+            "file": "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md",
+            "count": 1,
+            "anchors": [
+              "#cjs-11-shared-implementation-corpus-preamble-contract"
+            ]
+          },
+          {
+            "file": "corpus_joint_structure/cjs_02_implementation_integration_map.md",
+            "count": 1,
+            "anchors": [
+              "#cjs-22-topic-router-stable-ids"
+            ]
           }
         ]
       },
       {
         "source": "corpus_institutions/ci_21_relational_coercive_control_intimate_power_anti_domination.md",
         "targets": [
+          {
+            "file": "core_05-05_definitions_a_independent.md",
+            "count": 5,
+            "anchors": [
+              "#chapter-five-foundational-definitions",
+              "#dependency",
+              "#dependency-c",
+              "#dependency-e"
+            ]
+          },
+          {
+            "file": "core_05-05_definitions_b_semi_independent.md",
+            "count": 16,
+            "anchors": [
+              "#coercion-and-manipulation-constitutional",
+              "#coercion-and-manipulation-constitutional-c",
+              "#coercion-and-manipulation-constitutional-e",
+              "#contestability",
+              "#contestability-c",
+              "#contestability-e",
+              "#governance",
+              "#governance-c",
+              "#governance-e",
+              "#meaningful-agency",
+              "#meaningful-agency-c",
+              "#meaningful-agency-e"
+            ]
+          },
+          {
+            "file": "core_05-05_definitions_c_dependent_clusters.md",
+            "count": 8,
+            "anchors": [
+              "#corpus",
+              "#corpus-c",
+              "#corpus-e",
+              "#transparency",
+              "#transparency-c",
+              "#transparency-e"
+            ]
+          },
+          {
+            "file": "core_10-10_rights_part_a.md",
+            "count": 1,
+            "anchors": [
+              "#chapter-ten-foundational-rights"
+            ]
+          },
+          {
+            "file": "core_15-15_incorporation.md",
+            "count": 1,
+            "anchors": [
+              "#chapter-fifteen-incorporation-bridge"
+            ]
+          },
           {
             "file": "corpus_institutions/ci_20_care_labor_dependent_support_respite_care_economy_fairness.md",
             "count": 1,
@@ -5277,12 +6726,80 @@
             "file": "corpus_institutions/ci_22_commons_cooperatives_mutual_aid_non_market_governance.md",
             "count": 1,
             "anchors": []
+          },
+          {
+            "file": "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md",
+            "count": 1,
+            "anchors": [
+              "#cjs-11-shared-implementation-corpus-preamble-contract"
+            ]
+          },
+          {
+            "file": "corpus_joint_structure/cjs_02_implementation_integration_map.md",
+            "count": 1,
+            "anchors": [
+              "#cjs-22-topic-router-stable-ids"
+            ]
           }
         ]
       },
       {
         "source": "corpus_institutions/ci_22_commons_cooperatives_mutual_aid_non_market_governance.md",
         "targets": [
+          {
+            "file": "core_05-05_definitions_a_independent.md",
+            "count": 13,
+            "anchors": [
+              "#chapter-five-foundational-definitions",
+              "#incentive-alignment",
+              "#incentive-alignment-c",
+              "#incentive-alignment-e",
+              "#necessity",
+              "#necessity-c",
+              "#necessity-e",
+              "#proportionality",
+              "#proportionality-c",
+              "#proportionality-e"
+            ]
+          },
+          {
+            "file": "core_05-05_definitions_b_semi_independent.md",
+            "count": 12,
+            "anchors": [
+              "#collective-organization-constitutional",
+              "#collective-organization-constitutional-c",
+              "#collective-organization-constitutional-e",
+              "#contestability",
+              "#contestability-c",
+              "#contestability-e",
+              "#governance",
+              "#governance-c",
+              "#governance-e"
+            ]
+          },
+          {
+            "file": "core_05-05_definitions_c_dependent_clusters.md",
+            "count": 4,
+            "anchors": [
+              "#transparency",
+              "#transparency-c",
+              "#transparency-e"
+            ]
+          },
+          {
+            "file": "core_10-10_rights_part_a.md",
+            "count": 1,
+            "anchors": [
+              "#chapter-ten-foundational-rights"
+            ]
+          },
+          {
+            "file": "core_15-15_incorporation.md",
+            "count": 1,
+            "anchors": [
+              "#chapter-fifteen-incorporation-bridge"
+            ]
+          },
           {
             "file": "corpus_institutions/ci_21_relational_coercive_control_intimate_power_anti_domination.md",
             "count": 1,
@@ -5292,12 +6809,74 @@
             "file": "corpus_institutions/ci_23_place_based_stewardship_indigenous_continuity_consultation.md",
             "count": 1,
             "anchors": []
+          },
+          {
+            "file": "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md",
+            "count": 1,
+            "anchors": [
+              "#cjs-11-shared-implementation-corpus-preamble-contract"
+            ]
+          },
+          {
+            "file": "corpus_joint_structure/cjs_02_implementation_integration_map.md",
+            "count": 1,
+            "anchors": [
+              "#cjs-22-topic-router-stable-ids"
+            ]
           }
         ]
       },
       {
         "source": "corpus_institutions/ci_23_place_based_stewardship_indigenous_continuity_consultation.md",
         "targets": [
+          {
+            "file": "core_05-05_definitions_a_independent.md",
+            "count": 9,
+            "anchors": [
+              "#chapter-five-foundational-definitions",
+              "#natural-systems-standing",
+              "#natural-systems-standing-c",
+              "#natural-systems-standing-e",
+              "#oversight-constitutional",
+              "#oversight-constitutional-c",
+              "#oversight-constitutional-e"
+            ]
+          },
+          {
+            "file": "core_05-05_definitions_b_semi_independent.md",
+            "count": 20,
+            "anchors": [
+              "#collective-organization-constitutional",
+              "#collective-organization-constitutional-c",
+              "#collective-organization-constitutional-e",
+              "#consent-constitutional",
+              "#consent-constitutional-c",
+              "#consent-constitutional-e",
+              "#governance",
+              "#governance-c",
+              "#governance-e",
+              "#indigenous-continuity-constitutional",
+              "#indigenous-continuity-constitutional-c",
+              "#indigenous-continuity-constitutional-e",
+              "#stakeholder-participation-weight",
+              "#stakeholder-participation-weight-c",
+              "#stakeholder-participation-weight-e"
+            ]
+          },
+          {
+            "file": "core_10-10_rights_part_a.md",
+            "count": 1,
+            "anchors": [
+              "#chapter-ten-foundational-rights"
+            ]
+          },
+          {
+            "file": "core_15-15_incorporation.md",
+            "count": 1,
+            "anchors": [
+              "#chapter-fifteen-incorporation-bridge"
+            ]
+          },
           {
             "file": "corpus_institutions/ci_22_commons_cooperatives_mutual_aid_non_market_governance.md",
             "count": 1,
@@ -5307,12 +6886,74 @@
             "file": "corpus_institutions/ci_24_neurodiversity_disability_justice_trauma_informed_participation.md",
             "count": 1,
             "anchors": []
+          },
+          {
+            "file": "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md",
+            "count": 1,
+            "anchors": [
+              "#cjs-11-shared-implementation-corpus-preamble-contract"
+            ]
+          },
+          {
+            "file": "corpus_joint_structure/cjs_02_implementation_integration_map.md",
+            "count": 1,
+            "anchors": [
+              "#cjs-22-topic-router-stable-ids"
+            ]
           }
         ]
       },
       {
         "source": "corpus_institutions/ci_24_neurodiversity_disability_justice_trauma_informed_participation.md",
         "targets": [
+          {
+            "file": "core_05-05_definitions_a_independent.md",
+            "count": 9,
+            "anchors": [
+              "#accessibility-constitutional",
+              "#accessibility-constitutional-c",
+              "#accessibility-constitutional-e",
+              "#chapter-five-foundational-definitions",
+              "#necessity",
+              "#necessity-c",
+              "#necessity-e"
+            ]
+          },
+          {
+            "file": "core_05-05_definitions_b_semi_independent.md",
+            "count": 20,
+            "anchors": [
+              "#contestability",
+              "#contestability-c",
+              "#contestability-e",
+              "#governance",
+              "#governance-c",
+              "#governance-e",
+              "#procedural-fairness-constitutional",
+              "#procedural-fairness-constitutional-c",
+              "#procedural-fairness-constitutional-e",
+              "#protected-characteristics-constitutional",
+              "#protected-characteristics-constitutional-c",
+              "#protected-characteristics-constitutional-e",
+              "#stakeholder-emergency-and-contingency",
+              "#stakeholder-emergency-and-contingency-c",
+              "#stakeholder-emergency-and-contingency-e"
+            ]
+          },
+          {
+            "file": "core_10-10_rights_part_a.md",
+            "count": 1,
+            "anchors": [
+              "#chapter-ten-foundational-rights"
+            ]
+          },
+          {
+            "file": "core_15-15_incorporation.md",
+            "count": 1,
+            "anchors": [
+              "#chapter-fifteen-incorporation-bridge"
+            ]
+          },
           {
             "file": "corpus_institutions/ci_23_place_based_stewardship_indigenous_continuity_consultation.md",
             "count": 1,
@@ -5322,12 +6963,80 @@
             "file": "corpus_institutions/ci_25_collective_public_health_epidemic_response_addiction_informed_care.md",
             "count": 1,
             "anchors": []
+          },
+          {
+            "file": "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md",
+            "count": 1,
+            "anchors": [
+              "#cjs-11-shared-implementation-corpus-preamble-contract"
+            ]
+          },
+          {
+            "file": "corpus_joint_structure/cjs_02_implementation_integration_map.md",
+            "count": 1,
+            "anchors": [
+              "#cjs-22-topic-router-stable-ids"
+            ]
           }
         ]
       },
       {
         "source": "corpus_institutions/ci_25_collective_public_health_epidemic_response_addiction_informed_care.md",
         "targets": [
+          {
+            "file": "core_05-05_definitions_a_independent.md",
+            "count": 13,
+            "anchors": [
+              "#chapter-five-foundational-definitions",
+              "#necessity",
+              "#necessity-c",
+              "#necessity-e",
+              "#oversight-constitutional",
+              "#oversight-constitutional-c",
+              "#oversight-constitutional-e",
+              "#proportionality",
+              "#proportionality-c",
+              "#proportionality-e"
+            ]
+          },
+          {
+            "file": "core_05-05_definitions_b_semi_independent.md",
+            "count": 12,
+            "anchors": [
+              "#emergency-and-contingency-constitutional",
+              "#emergency-and-contingency-constitutional-c",
+              "#emergency-and-contingency-constitutional-e",
+              "#governance",
+              "#governance-c",
+              "#governance-e",
+              "#material",
+              "#material-c",
+              "#material-e"
+            ]
+          },
+          {
+            "file": "core_05-05_definitions_c_dependent_clusters.md",
+            "count": 4,
+            "anchors": [
+              "#corpus",
+              "#corpus-c",
+              "#corpus-e"
+            ]
+          },
+          {
+            "file": "core_10-10_rights_part_a.md",
+            "count": 1,
+            "anchors": [
+              "#chapter-ten-foundational-rights"
+            ]
+          },
+          {
+            "file": "core_15-15_incorporation.md",
+            "count": 1,
+            "anchors": [
+              "#chapter-fifteen-incorporation-bridge"
+            ]
+          },
           {
             "file": "corpus_institutions/ci_24_neurodiversity_disability_justice_trauma_informed_participation.md",
             "count": 1,
@@ -5337,12 +7046,80 @@
             "file": "corpus_institutions/ci_26_compliance_mapping_stable_registry.md",
             "count": 1,
             "anchors": []
+          },
+          {
+            "file": "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md",
+            "count": 1,
+            "anchors": [
+              "#cjs-11-shared-implementation-corpus-preamble-contract"
+            ]
+          },
+          {
+            "file": "corpus_joint_structure/cjs_02_implementation_integration_map.md",
+            "count": 1,
+            "anchors": [
+              "#cjs-22-topic-router-stable-ids"
+            ]
           }
         ]
       },
       {
         "source": "corpus_institutions/ci_26_compliance_mapping_stable_registry.md",
         "targets": [
+          {
+            "file": "core_05-05_definitions_a_independent.md",
+            "count": 9,
+            "anchors": [
+              "#chapter-five-foundational-definitions",
+              "#oversight-constitutional",
+              "#oversight-constitutional-c",
+              "#oversight-constitutional-e",
+              "#proportionality",
+              "#proportionality-c",
+              "#proportionality-e"
+            ]
+          },
+          {
+            "file": "core_05-05_definitions_b_semi_independent.md",
+            "count": 12,
+            "anchors": [
+              "#accountability",
+              "#accountability-c",
+              "#accountability-e",
+              "#governance",
+              "#governance-c",
+              "#governance-e",
+              "#indigenous-continuity-constitutional",
+              "#indigenous-continuity-constitutional-c",
+              "#indigenous-continuity-constitutional-e"
+            ]
+          },
+          {
+            "file": "core_05-05_definitions_c_dependent_clusters.md",
+            "count": 8,
+            "anchors": [
+              "#auditability",
+              "#auditability-c",
+              "#auditability-e",
+              "#corpus",
+              "#corpus-c",
+              "#corpus-e"
+            ]
+          },
+          {
+            "file": "core_10-10_rights_part_a.md",
+            "count": 1,
+            "anchors": [
+              "#chapter-ten-foundational-rights"
+            ]
+          },
+          {
+            "file": "core_15-15_incorporation.md",
+            "count": 1,
+            "anchors": [
+              "#chapter-fifteen-incorporation-bridge"
+            ]
+          },
           {
             "file": "corpus_forum.md",
             "count": 1,
@@ -5352,6 +7129,20 @@
             "file": "corpus_institutions/ci_25_collective_public_health_epidemic_response_addiction_informed_care.md",
             "count": 1,
             "anchors": []
+          },
+          {
+            "file": "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md",
+            "count": 1,
+            "anchors": [
+              "#cjs-11-shared-implementation-corpus-preamble-contract"
+            ]
+          },
+          {
+            "file": "corpus_joint_structure/cjs_02_implementation_integration_map.md",
+            "count": 1,
+            "anchors": [
+              "#cjs-22-topic-router-stable-ids"
+            ]
           }
         ]
       },

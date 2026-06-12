@@ -47,8 +47,7 @@ Shared preamble contract: apply `corpus_joint_structure.md` **CJS-1.1** (*Shared
 
 
 **Constitutional index (abridged)**
-- Topic-level routing and cited authorities remain in subsection text and cross-references.
-- Canonical owner map: `corpus_joint_structure.md` **CJS-2.2** (*Topic router (stable IDs)*) and `doc_architecture.md` section 4.
+- Apply `corpus_joint_structure.md` **CJS-1.1** (*Shared implementation-corpus preamble contract*), **CJS-1.3** (*Joint structural boundary and owner discipline*), **CJS-2.2** (*Topic router (stable IDs)*), and **CJS-3.6** (*Implementation-label traceability and stricter-wins discipline*) for shared implementation-corpus reading, routing, and owner discipline.
 
 CI-1 governs the scope, purpose, legitimacy interface, and reading rules for institutional implementation.
 
@@ -56,7 +55,7 @@ Institutions may design local procedures, but those procedures must remain consi
 
 This file applies that meaning to institutional design and operation.
 
-**Joint implementation read:** where institutional rules intersect **[corpus_systems.md](../corpus_systems.md)** classification, **CJS-5** (*Implementation and cross-implementation operational cluster library*) operational clusters, or **Chapter Nine** forum operations, read **`corpus_joint_structure.md`** **CJS-2** (especially **CJS-2.2** (*Topic router (stable IDs)*)) and **CJS-3** (*Joint structural obligations (cross-domain requirements)*) in addition to the owner sections cited in each topic.
+Where institutional rules intersect **[corpus_systems.md](../corpus_systems.md)** classification, **CJS-5** (*Implementation and cross-implementation operational cluster library*) operational clusters, or **Chapter Nine** forum operations, apply the CJS router and joint-obligation rules in addition to the cited institutional owner sections.
 
 ### CI-1.1: Definition discipline and source hierarchy
 <details>
@@ -84,9 +83,7 @@ This file applies that meaning to institutional design and operation.
 <br>
 
 Definition discipline is single-home:
-- Constitutional definition structure, integrity, burden and verification, and foundational definitions remain in [core_02-04_definition_mechanics.md](../core_02-04_definition_mechanics.md) **Chapters Two through Four** and Sentient Constitution **Chapter Five**.
-- Compliance-state and offense classification meaning remain in [core_06-06_standing_assessment.md](../core_06-06_standing_assessment.md), [core_07-07_standing_integration.md](../core_07-07_standing_integration.md), and [core_08-08_misconduct.md](../core_08-08_misconduct.md) **Chapters Six through Eight**.
-- Rights meaning remains in the Sentient Constitution Chapter Ten part files (`core_10-10_rights_part_*.md`).
+- Constitutional definition structure, compliance-state meaning, offense classification, rights meaning, and authority-stack order remain in the numbered Sentient Constitution `core_*` files under the CJS shared preamble contract.
 - Shared operational cluster meanings remain in `corpus_joint_structure.md` **CJS-5** (*Implementation and cross-implementation operational cluster library*).
 - Shared OP-line and operational-cluster reading rules remain in `corpus_joint_structure.md` **CJS-1.4** (*Operational structure and subsection-local terminology*) and **CJS-1.5** (*Operational clusters*).
 - System class, dependency, steward, and continuity taxonomies remain in `corpus_systems.md`.
@@ -171,7 +168,7 @@ References in this file to **anti-constitutional misconduct** are routing shorth
 
 <br>
 
-Institutional burden must scale with impact. This subsection states the CI file's institution-specific baseline; shared proportionality, burden-of-justification, procedural-scaling, and cross-implementation read-with terms remain in `corpus_joint_structure.md` **CJS-5A.1** (*Implementation and cross-implementation distributed and proportional authority terms*), **CJS-5A.4** (*Implementation and cross-implementation burden-of-justification and constraint terms*), and **CJS-5A.6** (*Implementation and cross-implementation procedural integrity and adjudication terms*) where materially applicable.
+Institutional burden must scale with impact. This subsection states the CI file's institution-specific baseline. Apply `corpus_joint_structure.md` **CJS-5A.1** (*Implementation and cross-implementation distributed and proportional authority terms*), **CJS-5A.4** (*Implementation and cross-implementation burden-of-justification and constraint terms*), and **CJS-5A.6** (*Implementation and cross-implementation procedural integrity and adjudication terms*) for shared proportionality, burden, and procedural read-with terms where materially applicable.
 
 - Low-impact institutional scopes should be simple, accessible, and inexpensive to establish and operate.
 - High-impact institutional scopes must satisfy stronger diligence, assurance, transparency, and accountability duties.

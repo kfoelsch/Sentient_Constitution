@@ -134,15 +134,15 @@ Institutions must not rely on unlabeled, ad hoc, or selectively applied sector c
 
 <br>
 
-**Purpose.** This subsection generalizes internal delegation discipline—identification, authority-composition transparency, **anticipatable** bounds on **rotating** service, and published continuity rules for **home-based** roles—across institutions. It scales with **institutional design class** under this subsection.
+**Purpose.** This subsection applies the shared delegated-body abstractions in `corpus_joint_structure.md` **CJS-4.1** (*Mandatory hybrid authority composition (delegated binding bodies)*) and **CJS-4.7** (*Shared procedural abstractions for delegated bodies and forum routing*) to institutional subunits. It keeps the institution-specific design class, applicability, identification, authority-composition, rotating-attachment, and home-based term rules in **CI-9.3** through **CI-9.3.4**.
 
-**Forum-specific detail** (families, routing, appeals, specialist chamber doctrine) remains in `corpus_forum.md` **CF-2** (including **CF-2.5** (*Chamber creation, identification, and family boundary*) onward). Where **CF-2.6** (*Chamber authority composition and service mechanics*) states forum-specific delegated-authority duties or illustrations, **CF** text governs for **Chapter Nine** forums. Where obligations overlap, the **stricter** applicable rule governs.
+Forum-family, routing, appeals, and specialist chamber detail remains in `corpus_forum.md` **CF-2** and related **CF** sections. Where institutional and forum obligations overlap, apply **CJS-2** (*Implementation integration map*).
 
 **Institutional design class (this subsection only).** Use the **highest** `corpus_systems.md` **Chapter S2 — System Classification and Handling** class among systems in the institution's **published governed scope** (including maps under **CI-9.2** (*Published industry and domain mapping*)). Only **Class A**, **Class B**, and **Class C** are in range for the default scaling below.
 
-**Forum floor.** Every **forum family**, **forum**, or **adjudicative body** within **Chapter Nine** in `core_09-09_forum.md` is treated as **at least Class C** for **institutional design class** under this subsection—including for **internal chambers** and **designated panels**—regardless of whether other governed systems are labeled below Class C.
+**Forum floor.** For institutional design class under this subsection, Chapter Nine forum bodies are treated as at least **Class C**.
 
-**Delegated subunit** is the CI-specific application of the `corpus_joint_structure.md` **CJS-4.7** (*Shared procedural abstractions for delegated bodies and forum routing*) **Delegated binding body** abstraction: a standing or recurring internal body (for example a division, chamber, committee, designated panel, or regional or functional office with decision rights) that exercises **materially binding** delegated authority for the parent institution and is **not** the institution's sole governing plenary.
+**Delegated subunit** uses the CI-specific application of **CJS-4.7** (*Shared procedural abstractions for delegated bodies and forum routing*). This section supplies the institutional design-class and attachment rules for that shared abstraction.
 
 **Applicability.**
 - Where institutional design class is **Class C**, **Class B**, or **Class A**, each **delegated subunit** with materially binding authority must satisfy **CI-9.3.1** (*Identification and competence*). Each such subunit must satisfy **CI-9.3.2** (hybrid composition joint minimum in **`corpus_joint_structure.md` CJS-4.1** (*Mandatory hybrid authority composition (delegated binding bodies)*) plus **CI-9.3.2** (*Authority composition*) institution-specific rules), **CI-9.3.3** (rotating attachment bounds for the rotating pole), and **CI-9.3.4** (home-based term and renewal rules for the home-based pole).

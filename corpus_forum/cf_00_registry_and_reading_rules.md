@@ -23,6 +23,11 @@ Shared preamble contract: apply `corpus_joint_structure.md` **CJS-1.1** (*Shared
 
 **Implementation cross-reference index (routing only):** This implementation file is read with Chapter Five constitutional definitions and `corpus_joint_structure.md` **CJS-5** (*Implementation and cross-implementation operational cluster library*) operational clusters where materially applicable. This index is routing guidance only and does not redefine owner-layer meaning.
 
+## FORUMS IDENTIFIER AND ARTICLE-REFERENCE RULES
+Apply `corpus_joint_structure.md` **CJS-1.2** (*Section identifiers and article references*) as the shared implementation-corpus identifier rule. In this file specifically, headings use **CF-1** (*Scope, authority, and boundary rules*) through **CF-15** (*Forum staffing, reserve capacity, shared administration, structural review, and structural records*). Subsections use **CF-*n*.*m*** (for example **CF-6.2** (*Constitutional alignment recognition and review*)). They must not be read as Sentient Constitution **Article** numbers. The abbreviation **CF** matches `doc_architecture.md` (*corpus_forum.md*) and means the forum implementation file.
+
+Unless another reference pattern is stated, **Article** labels with Roman numerals in this file point to Sentient Constitution Chapter Ten in the `core_10-10_rights_part_*.md` files.
+
 ## FORUMS REGISTRY (stable section families)
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
