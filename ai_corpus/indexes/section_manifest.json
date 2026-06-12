@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-06-12T12:35:08+00:00",
+  "generated_at": "2026-06-12T12:53:55+00:00",
   "files": {
     "core_00-01_principles.md": {
       "total_lines": 1506,
@@ -5535,7 +5535,7 @@
       ]
     },
     "corpus_joint_structure/cjs_05a_00_authority_constraint_secrecy_procedure.md": {
-      "total_lines": 540,
+      "total_lines": 542,
       "sections": [
         {
           "header": "CJS-5A: Authority, constraint, secrecy, and procedure",
@@ -5583,7 +5583,7 @@
           "header": "CJS-5A.6 Implementation and cross-implementation procedural integrity and adjudication terms",
           "level": 2,
           "line_start": 435,
-          "line_end": 540,
+          "line_end": 542,
           "anchor": null
         }
       ]
@@ -5874,13 +5874,13 @@
       ]
     },
     "corpus_institutions/ci_06_procedure_integrity_contestability_secondary_review.md": {
-      "total_lines": 50,
+      "total_lines": 44,
       "sections": [
         {
           "header": "CI-6: Procedure integrity, contestability, and secondary review",
           "level": 2,
           "line_start": 1,
-          "line_end": 50,
+          "line_end": 44,
           "anchor": null
         }
       ]

@@ -251,36 +251,6 @@
     "summary": "Institutional protocol IDs use the `INST-PROTO-*` convention and remain stable across editorial renumbering. Core registry: - `INST-PROTO-1`: Delegation and authority custody - `INST-PROTO-2`: Appointment, qualification, and removal - `INST-PROTO-3`: Confli..."
   },
   {
-    "file": "corpus_institutions/ci_06_procedure_integrity_contestability_secondary_review.md",
-    "section_id": "CI-6",
-    "title": "Procedure integrity, contestability, and secondary review",
-    "start_line": 1,
-    "end_line": 50,
-    "score": 25,
-    "confidence": "high",
-    "action": "split-CI-and-CJS",
-    "destinations": [
-      "CJS-5A / CJS-4.1 / CJS-4.7",
-      "CJS-5B",
-      "CJS-3 / CJS-4"
-    ],
-    "signals": [
-      "joint-interface(4)",
-      "routing-read-with(2)",
-      "shared-procedure(13)",
-      "dependency-failure(1)",
-      "forum-system-touch(5)"
-    ],
-    "router_rows": [
-      "CJS-R19 \u2014 Implementation and cross-implementation integrity assurance and resilience operations",
-      "CJS-R17 \u2014 Cross-implementation trust integrity (joint operation model)",
-      "CJS-R15 \u2014 Contest-integrity monitoring (pathway integrity, not merits)"
-    ],
-    "similar_cjs": [],
-    "keep_notes": [],
-    "summary": "Procedure rules here must remain consistent with **Chapter Five** (*Procedural Fairness*, *Contestability*, *Accountability*, *Redress and Remediation*) and with `core_02-04_definition_mechanics.md` **Chapter Four** verification and traceability rules. This..."
-  },
-  {
     "file": "corpus_institutions/ci_05_conflict_integrity_anti_capture_anti_corruption.md",
     "section_id": "CI-5.1",
     "title": "Integrity trigger taxonomy and cross-layer routing (control package)",
@@ -994,6 +964,34 @@
     "similar_cjs": [],
     "keep_notes": [],
     "summary": "**Purpose.** This section **operationalizes** **participation** **design** that **treats** **accessibility** as **more** than **entrance**-**level** **accommodation** \u2014 including **pacing**, **supported** **decision-making**, **communication** **alternative..."
+  },
+  {
+    "file": "corpus_institutions/ci_06_procedure_integrity_contestability_secondary_review.md",
+    "section_id": "CI-6",
+    "title": "Procedure integrity, contestability, and secondary review",
+    "start_line": 1,
+    "end_line": 44,
+    "score": 8,
+    "confidence": "medium",
+    "action": "replace-with-pointer",
+    "destinations": [
+      "CJS-5B",
+      "CJS-5A / CJS-4.1 / CJS-4.7",
+      "CJS-4.4"
+    ],
+    "signals": [
+      "routing-read-with(1)",
+      "shared-procedure(8)",
+      "forum-system-touch(2)"
+    ],
+    "router_rows": [
+      "CJS-R19 \u2014 Implementation and cross-implementation integrity assurance and resilience operations",
+      "CJS-R17 \u2014 Cross-implementation trust integrity (joint operation model)",
+      "CJS-R15 \u2014 Contest-integrity monitoring (pathway integrity, not merits)"
+    ],
+    "similar_cjs": [],
+    "keep_notes": [],
+    "summary": "Procedure rules here must remain consistent with **Chapter Five** (*Procedural Fairness*, *Contestability*, *Accountability*, *Redress and Remediation*) and with `core_02-04_definition_mechanics.md` **Chapter Four** verification and traceability rules. Shar..."
   },
   {
     "file": "corpus_institutions/ci_22_commons_cooperatives_mutual_aid_non_market_governance.md",

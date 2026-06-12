@@ -20,6 +20,12 @@ The pilot intentionally does not move high-score topical/domain candidates such 
 
 **CI-26** (*Compliance mapping and stable registry*) was reviewed during continuation and left in CI. It is a local `INST-PROTO-*` registry, not shared joint doctrine; the audit's near-duplicate signal comes from ordinary corpus-alignment and registry metadata. Future CI-26 edits should prefer CJS pointers for shared drafting discipline, but the institutional protocol list remains in CI.
 
+## Continuation moves
+
+| Source | Destination | Action |
+|--------|-------------|--------|
+| **CI-6** (*Procedure integrity, contestability, and secondary review*) | **CJS-4.7**, **CJS-5A.6** | Moved the reusable **common decision rule** explanation into the shared CJS procedural-integrity cluster and replaced CI repetition with a pointer plus institution-specific publication and record duties. |
+
 ## Validation record
 
 Run after the pilot edits and continuation:
