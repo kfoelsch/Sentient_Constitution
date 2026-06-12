@@ -71,19 +71,7 @@ Summary: **Constitutional index (abridged)** - Apply `corpus_joint_structure.md`
 
 Summary: **Purpose and owner boundary.** This section governs institutional handling of innovation-reward systems where constitutional adoption brings them within scope. Constitutional meaning remains in **Chapter Five** (*Innovation Reward and Anti-Enclosure*) and...
 
-### 5. CI-10.1: Public revenue, user fees, and class-aligned burden
-
-- Source: `corpus_institutions/ci_10_public_revenue_fees_recurring_charges_billing_integrity.md:29`
-- Score / confidence: 28 / high
-- Suggested action: `split-CI-and-CJS`
-- Proposed CJS destination: CJS-3 / CJS-4, CJS-5C, CJS-5A / CJS-4.1 / CJS-4.7
-- Signals: joint-interface(1), multi-owner-routing(3), routing-read-with(5), shared-procedure(4), forum-system-touch(18)
-- Router matches: CJS-R17 — Cross-implementation trust integrity (joint operation model); CJS-R19 — Implementation and cross-implementation integrity assurance and resilience operations; CJS-R15 — Contest-integrity monitoring (pathway integrity, not merits)
-- Keep-in-CI cautions: public revenue, fees, billing
-
-Summary: This subsection states **orientation** for how institutions—and adopting authorities where they have discretion—should think about **taxes, charges, and similar revenue measures** in relation to `corpus_systems.md` **Chapter S2** system classes. It does **n...
-
-### 6. CI-7.3: Contest-integrity monitoring (Class A and Class B)
+### 5. CI-7.3: Contest-integrity monitoring (Class A and Class B)
 
 - Source: `corpus_institutions/ci_07_oversight_assurance_controls_evidence.md:106`
 - Score / confidence: 28 / high
@@ -95,7 +83,7 @@ Summary: This subsection states **orientation** for how institutions—and adopt
 
 Summary: Where institutional governed scope includes **Class A** or **Class B** systems (`corpus_systems.md` **Chapter S2**), institutions must maintain **contest-integrity** capacity as part of the **independent assurance line**, or through an equivalent documented...
 
-### 7. CI-17: Scientific publication, peer review, replication, and evidence stewardship
+### 6. CI-17: Scientific publication, peer review, replication, and evidence stewardship
 
 - Source: `corpus_institutions/ci_17_scientific_publication_peer_review_replication_evidence_stewardship.md:1`
 - Score / confidence: 26 / high
@@ -106,7 +94,7 @@ Summary: Where institutional governed scope includes **Class A** or **Class B** 
 
 Summary: **Purpose and owner boundary.** This section governs the institutional custody, funding, ranking, archival, reliance, and review mechanics for scientific and scholarly claims where constitutional adoption brings those functions within scope. Constitutional...
 
-### 8. CI-26: Compliance mapping and stable registry
+### 7. CI-26: Compliance mapping and stable registry
 
 - Source: `corpus_institutions/ci_26_compliance_mapping_stable_registry.md:1`
 - Score / confidence: 25 / high
@@ -121,7 +109,7 @@ Summary: Institutional protocol IDs use the `INST-PROTO-*` convention and remain
 Near CJS matches:
 - 1.0: `corpus_joint_structure/cjs_00_registry_and_reading_rules.md:91` (Stable identifiers, edition alignment, and drafting notes) — *Corpus alignment:* edition `SC-Corpus-2026.04.30`, effective **2026-04-18**; canonical mapping in [doc_architecture.md](../doc_architect...
 
-### 9. CI-11: Resource stewardship and incentive integrity
+### 8. CI-11: Resource stewardship and incentive integrity
 
 - Source: `corpus_institutions/ci_11_resource_stewardship_incentive_integrity.md:1`
 - Score / confidence: 24 / high
@@ -132,6 +120,18 @@ Near CJS matches:
 - Keep-in-CI cautions: public revenue, fees, billing
 
 Summary: **Continuity planning:** Institutions must maintain resource adequacy for safe continuity and constitutional performance. Shared dependency-chain evaluation for funding, staffing, capacity, and resource adequacy is governed by `corpus_joint_structure.md` **...
+
+### 9. CI-10.1: Public revenue, user fees, and class-aligned burden
+
+- Source: `corpus_institutions/ci_10_public_revenue_fees_recurring_charges_billing_integrity.md:29`
+- Score / confidence: 20 / high
+- Suggested action: `split-CI-and-CJS`
+- Proposed CJS destination: CJS-4.4, CJS-3 / CJS-4, CJS-5E
+- Signals: joint-interface(1), multi-owner-routing(3), routing-read-with(1), shared-procedure(2), forum-system-touch(10)
+- Router matches: CJS-R19 — Implementation and cross-implementation integrity assurance and resilience operations; CJS-R17 — Cross-implementation trust integrity (joint operation model); CJS-R15 — Contest-integrity monitoring (pathway integrity, not merits)
+- Keep-in-CI cautions: public revenue, fees, billing
+
+Summary: This subsection states the institutional application of the shared class-aligned revenue and access-burden floor in `corpus_joint_structure.md` **CJS-5A.4** (*Implementation and cross-implementation burden-of-justification and constraint terms*). It does **...
 
 ### 10. CI-9: Classification-linked institutional obligations
 
@@ -193,7 +193,7 @@ Summary: Institutions must maintain: - auditable conflict controls that cover fi
 
 ### 15. CI-10.2: Recurring charges, renewals, and commercial billing integrity
 
-- Source: `corpus_institutions/ci_10_public_revenue_fees_recurring_charges_billing_integrity.md:71`
+- Source: `corpus_institutions/ci_10_public_revenue_fees_recurring_charges_billing_integrity.md:65`
 - Score / confidence: 15 / high
 - Suggested action: `split-CI-and-CJS`
 - Proposed CJS destination: CJS-4.4, CJS-5D, CJS-5C
