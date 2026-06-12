@@ -20,7 +20,19 @@ This is an editorial exposure audit. It identifies candidate passages for reloca
 
 ## Candidates
 
-### 1. CI-9.3: Delegated subunits, institutional design class, and attachment discipline
+### 1. CI-15: Vulnerable personal services markets — general regulation and Article X-C interface
+
+- Source: `corpus_institutions/ci_15_vulnerable_personal_services_markets_article_xc_interface.md:1`
+- Score / confidence: 40 / high
+- Suggested action: `split-CI-and-CJS`
+- Proposed CJS destination: CJS-5D, CJS-5C, CJS-5B
+- Signals: joint-interface(2), multi-owner-routing(3), routing-read-with(5), cjs-cluster(2), shared-procedure(4), dependency-failure(3), forum-system-touch(12)
+- Router matches: CJS-R17 — Cross-implementation trust integrity (joint operation model); CJS-R19 — Implementation and cross-implementation integrity assurance and resilience operations; CJS-R15 — Contest-integrity monitoring (pathway integrity, not merits)
+- Keep-in-CI cautions: fees
+
+Summary: **Constitutional index (abridged)** - Topic-level routing and cited authorities remain in subsection text and cross-references. - Canonical owner map: `corpus_joint_structure.md` **CJS-2.2** (*Topic router (stable IDs)*) and `doc_architecture.md` section 4....
+
+### 2. CI-9.3: Delegated subunits, institutional design class, and attachment discipline
 
 - Source: `corpus_institutions/ci_09_classification_linked_institutional_obligations.md:112`
 - Score / confidence: 32 / high
@@ -35,7 +47,7 @@ Summary: **Purpose.** This subsection applies the shared delegated-body abstract
 Near CJS matches:
 - 0.36: `corpus_joint_structure/cjs_03_joint_structural_obligations.md:163` (CJS-3.5 Classification alignment for supervised scope) — When an institution supervises systems governed by `corpus_systems.md` **Chapter S2** or **Chapter S3**, its published maps under **CI-9....
 
-### 2. CI-1: Scope, purpose, and legitimacy interface
+### 3. CI-1: Scope, purpose, and legitimacy interface
 
 - Source: `corpus_institutions/ci_01_scope_purpose_legitimacy_interface.md:23`
 - Score / confidence: 30 / high
@@ -47,7 +59,7 @@ Near CJS matches:
 
 Summary: **Constitutional index (abridged)** - Apply `corpus_joint_structure.md` **CJS-1.1** (*Shared implementation-corpus preamble contract*), **CJS-1.3** (*Joint structural boundary and owner discipline*), **CJS-2.2** (*Topic router (stable IDs)*), and **CJS-3.6*...
 
-### 3. CI-16: Innovation reward, disclosure, and anti-enclosure
+### 4. CI-16: Innovation reward, disclosure, and anti-enclosure
 
 - Source: `corpus_institutions/ci_16_innovation_reward_disclosure_anti_enclosure.md:1`
 - Score / confidence: 29 / high
@@ -58,18 +70,6 @@ Summary: **Constitutional index (abridged)** - Apply `corpus_joint_structure.md`
 - Keep-in-CI cautions: local procedure
 
 Summary: **Purpose and owner boundary.** This section governs institutional handling of innovation-reward systems where constitutional adoption brings them within scope. Constitutional meaning remains in **Chapter Five** (*Innovation Reward and Anti-Enclosure*) and...
-
-### 4. CI-15: Vulnerable personal services markets — general regulation and Article X-C interface
-
-- Source: `corpus_institutions/ci_15_vulnerable_personal_services_markets_article_xc_interface.md:1`
-- Score / confidence: 28 / high
-- Suggested action: `split-CI-and-CJS`
-- Proposed CJS destination: CJS-5D, CJS-5C, CJS-5B
-- Signals: joint-interface(1), multi-owner-routing(2), routing-read-with(5), shared-procedure(4), dependency-failure(3), forum-system-touch(12)
-- Router matches: CJS-R19 — Implementation and cross-implementation integrity assurance and resilience operations; CJS-R17 — Cross-implementation trust integrity (joint operation model); CJS-R15 — Contest-integrity monitoring (pathway integrity, not merits)
-- Keep-in-CI cautions: fees
-
-Summary: **Constitutional index (abridged)** - Topic-level routing and cited authorities remain in subsection text and cross-references. - Canonical owner map: `corpus_joint_structure.md` **CJS-2.2** (*Topic router (stable IDs)*) and `doc_architecture.md` section 4....
 
 ### 5. CI-10.1: Public revenue, user fees, and class-aligned burden
 

@@ -1,5 +1,39 @@
 [
   {
+    "file": "corpus_institutions/ci_15_vulnerable_personal_services_markets_article_xc_interface.md",
+    "section_id": "CI-15",
+    "title": "Vulnerable personal services markets \u2014 general regulation and Article X-C interface",
+    "start_line": 1,
+    "end_line": 62,
+    "score": 40,
+    "confidence": "high",
+    "action": "split-CI-and-CJS",
+    "destinations": [
+      "CJS-5D",
+      "CJS-5C",
+      "CJS-5B"
+    ],
+    "signals": [
+      "joint-interface(2)",
+      "multi-owner-routing(3)",
+      "routing-read-with(5)",
+      "cjs-cluster(2)",
+      "shared-procedure(4)",
+      "dependency-failure(3)",
+      "forum-system-touch(12)"
+    ],
+    "router_rows": [
+      "CJS-R17 \u2014 Cross-implementation trust integrity (joint operation model)",
+      "CJS-R19 \u2014 Implementation and cross-implementation integrity assurance and resilience operations",
+      "CJS-R15 \u2014 Contest-integrity monitoring (pathway integrity, not merits)"
+    ],
+    "similar_cjs": [],
+    "keep_notes": [
+      "fees"
+    ],
+    "summary": "**Constitutional index (abridged)** - Topic-level routing and cited authorities remain in subsection text and cross-references. - Canonical owner map: `corpus_joint_structure.md` **CJS-2.2** (*Topic router (stable IDs)*) and `doc_architecture.md` section 4...."
+  },
+  {
     "file": "corpus_institutions/ci_09_classification_linked_institutional_obligations.md",
     "section_id": "CI-9.3",
     "title": "Delegated subunits, institutional design class, and attachment discipline",
@@ -103,39 +137,6 @@
       "local procedure"
     ],
     "summary": "**Purpose and owner boundary.** This section governs institutional handling of innovation-reward systems where constitutional adoption brings them within scope. Constitutional meaning remains in **Chapter Five** (*Innovation Reward and Anti-Enclosure*) and..."
-  },
-  {
-    "file": "corpus_institutions/ci_15_vulnerable_personal_services_markets_article_xc_interface.md",
-    "section_id": "CI-15",
-    "title": "Vulnerable personal services markets \u2014 general regulation and Article X-C interface",
-    "start_line": 1,
-    "end_line": 62,
-    "score": 28,
-    "confidence": "high",
-    "action": "split-CI-and-CJS",
-    "destinations": [
-      "CJS-5D",
-      "CJS-5C",
-      "CJS-5B"
-    ],
-    "signals": [
-      "joint-interface(1)",
-      "multi-owner-routing(2)",
-      "routing-read-with(5)",
-      "shared-procedure(4)",
-      "dependency-failure(3)",
-      "forum-system-touch(12)"
-    ],
-    "router_rows": [
-      "CJS-R19 \u2014 Implementation and cross-implementation integrity assurance and resilience operations",
-      "CJS-R17 \u2014 Cross-implementation trust integrity (joint operation model)",
-      "CJS-R15 \u2014 Contest-integrity monitoring (pathway integrity, not merits)"
-    ],
-    "similar_cjs": [],
-    "keep_notes": [
-      "fees"
-    ],
-    "summary": "**Constitutional index (abridged)** - Topic-level routing and cited authorities remain in subsection text and cross-references. - Canonical owner map: `corpus_joint_structure.md` **CJS-2.2** (*Topic router (stable IDs)*) and `doc_architecture.md` section 4...."
   },
   {
     "file": "corpus_institutions/ci_10_public_revenue_fees_recurring_charges_billing_integrity.md",
