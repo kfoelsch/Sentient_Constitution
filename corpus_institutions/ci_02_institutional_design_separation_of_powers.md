@@ -1,6 +1,6 @@
 ## CI-2: Institutional design, separation of powers, and authority custody
 
-This section is the substantive home for institutional design, non-delegable governing duties, functional separation, authority custody, delegation controls, and institutional risk profile. It must be read with the stable compatibility pointer in **CI-3** (*Authority custody, delegation, and risk profile*).
+This section is the substantive home for institutional design, non-delegable governing duties, functional separation, authority custody, delegation controls, and institutional risk profile. It must be read with the stable compatibility pointer in **CI-3** (*Authority custody, delegation, and risk profile*). For cross-implementation routing, read this section with `corpus_joint_structure.md` **CJS-2.2** (*topic router stable IDs*) row **CJS-R14** (*Institutional functional lanes and non-delegable splits*) and with **CJS-5A.1** (*Implementation and cross-implementation distributed and proportional authority terms*) and **CJS-5C.1** (*Implementation and cross-implementation quorum and participatory legitimacy terms*) where distributed and proportional authority terms are materially applied.
 
 ### CI-2.1: Non-delegable governing duties
 The following are non-delegable by the governing authority:
@@ -18,6 +18,8 @@ Institutions must separate core governance functions enough to prevent capture, 
 - publication and evidence lane.
 
 One institution may host more than one lane only when independence safeguards are documented, auditable, and contestable.
+
+These lanes are the owner-file source for CJS references to constitutional lanes and functional separation.
 
 ### CI-2.3: Authority chain and delegation controls
 Institutions must maintain a clear authority chain from source authorization through each delegated role.
