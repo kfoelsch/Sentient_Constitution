@@ -244,7 +244,7 @@ Each item below specifies (a) owner chapter, (b) insertion site, (c) Ch 5 entrie
 - **Cross-pointer:** Article VII-A non-intrusion preserved (access is not consent to intrusion).
 - **Insertion site:** `core_10-10_rights_part_a.md` after Article III-B educational access.
 - **Ch 5 additions:** `Bodily-Maintenance Access`.
-- **Companion routing:** `corpus_institutions.md` CI-12 / CI-13 / CI-14 fiscal interfaces (cost / distribution mechanics) without narrowing the floor.
+- **Companion routing:** `corpus_institutions.md` CI-9 / CI-10 / CI-11 fiscal interfaces (cost / distribution mechanics) without narrowing the floor.
 - **Regression seeds:** `RS-CH1-HEALTH-001` (Core; denial-by-proxy via insurance / allocation / eligibility gates); `RS-CH1-HEALTH-002` (Adversarial; mental-health access defeated by re-routing to non-medical "wellness" services that do not satisfy the floor); `RS-CH1-HEALTH-003` (Substrate-edge; processing / substrate maintenance for synthetic sentient denied as out-of-scope of "medical").
 
 #### 2.2 — Mental-health crisis and involuntary-intervention protocols (T3)
@@ -346,7 +346,7 @@ Each item below specifies (a) owner chapter, (b) insertion site, (c) Ch 5 entrie
 - **Owner chapter:** Chapter Nine, **[REVIEW-Q-8.1.A]** Article III extension (III-D) **vs.** new article. Recommend **new article between III and IV** as **Article III-D** — labor floor reads on top of survival but is not itself a survival-floor bullet.
 - **Insertion site:** `core_10-10_rights_part_a.md` after Track 2.1 Article III-C bodily-maintenance.
 - **Ch 5 additions:** `Fair Compensation`, `Collective Organization`, `Safe Conditions`, `Leisure and Rest`.
-- **Companion routing:** `corpus_institutions.md` CI-12..12 fiscal material; `corpus_systems.md` Protocol A safety profile cross-reference for `Safe Conditions`.
+- **Companion routing:** `corpus_institutions.md` CI-9..12 fiscal material; `corpus_systems.md` Protocol A safety profile cross-reference for `Safe Conditions`.
 - **§5.1 interaction:** explicit; floor not satisfied by §5.1's non-concentration rule alone.
 - **Regression seeds:** `RS-CH1-LABOR-001` (Core; survival-floor-satisfied-but-exploitative arrangements); `RS-CH1-LABOR-002` (Adversarial; collective-organization floor defeated by classification re-routing).
 

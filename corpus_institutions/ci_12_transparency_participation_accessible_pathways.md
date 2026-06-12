@@ -1,4 +1,4 @@
-## CI-15: Transparency, participation, and accessible pathways
+## CI-12: Transparency, participation, and accessible pathways
 
 Institutional governance must be understandable and accessible to materially affected participants. Institutions must provide practical access to participation, review, and challenge channels, including accessibility accommodations sufficient for substantive use. Protected escalation and anti-retaliation mechanisms are mandatory.
 
@@ -11,7 +11,7 @@ Pathways into stewardship responsibility (**Chapter Ten**, section 5 interface):
 - Pathway access must include equitable capability-building access and transparent readiness criteria proportional to role impact.
 - Progression and access decisions must be auditable and contestable, and must not rely on symbolic participation substitutes.
 
-### CI-15.1: Stakeholder oversight, notification, and binding-governance pathway integrity
+### CI-12.1: Stakeholder oversight, notification, and binding-governance pathway integrity
 Institutions must maintain practical channels through which materially affected stakeholders can receive notice, participate, contest, and track outcomes for governance decisions that materially affect them.
 
 **Stakeholder oversight channels.** Institutions must publish how stakeholder status is identified for the relevant governance scope, what participation or review rights follow from that status, and which pathways exist for challenge, escalation, or correction. These channels must remain auditable, contestable, and usable in practice.
@@ -24,7 +24,7 @@ Institutions must maintain practical channels through which materially affected 
 
 **Exit and adaptation relevance.** Where institutional decisions materially change obligations, dependencies, or practical conditions of continued participation, institutions must disclose whether adaptation, downgrade, transfer, or exit options exist, and any material limits on those options.
 
-### CI-15.2: Anti-concentration and participation-legitimacy safeguards
+### CI-12.2: Anti-concentration and participation-legitimacy safeguards
 Institutions must not allow governance structure, participation design, or weighting logic to silently concentrate practical control in a single actor, appointing chain, coalition, or manipulation-prone metric.
 
 **Concentration monitoring.** Institutions must monitor whether coordinated blocs, gatekeeping structures, dependency leverage, or repeated role accumulation are creating disproportionate influence relative to representativeness, lawful mandate, or published weighting rules.
@@ -35,7 +35,7 @@ Institutions must not allow governance structure, participation design, or weigh
 - preserve meaningful representation for materially affected groups where required for binding legitimacy; and
 - remain subject to periodic review when impact, dependency, or irreversibility materially rises.
 
-**Escalation.** Where concentration, capture, or participation-integrity failures are materially indicated, institutions must trigger remediation, assurance-line review, or cross-institution escalation under **CI-11** (*Cross-institution coordination and escalation*) as appropriate. Institutions must not treat persistent concentration indicators as resolved by narration alone.
+**Escalation.** Where concentration, capture, or participation-integrity failures are materially indicated, institutions must trigger remediation, assurance-line review, or cross-institution escalation under **CI-8** (*Cross-institution coordination and escalation*) as appropriate. Institutions must not treat persistent concentration indicators as resolved by narration alone.
 
 **Non-compliant patterns.** It is non-compliant where an institution:
 - excludes materially affected stakeholders without lawful published basis;
@@ -44,12 +44,12 @@ Institutions must not allow governance structure, participation design, or weigh
 - permits practical single-actor or single-bloc control to emerge without reviewable safeguards; or
 - maintains participatory structures that are formally open but practically unusable.
 
-### CI-15.3: Digital self-service pathway integrity
+### CI-12.3: Digital self-service pathway integrity
 Digital self-service pathway integrity (Operational; Corpus Institutions)
 
-- OP-O: User-facing **digital self-service pathways** through which parties **start, manage, continue or renew, and exit** **commitments or ongoing obligations** within **governed scope**. This includes **enrollment**, **account or preference changes**, **upgrades and downgrades in obligation level**, **fee or billing management** where **charges** apply, **renewal or continuation handling**, and **withdrawal or cancellation**. The rules apply **whether or not** the pathway is **commercial**, **transaction-linked**, or **paid**. **Institutions** that impose or supervise expectations for those pathways and **operators** within supervised scope are in scope. Where **recurring or transaction-linked charges** apply, this entry is read together with **CI-13.2** (*Recurring charges, renewals, and commercial billing integrity*), which states additional **billing-structure** requirements.
+- OP-O: User-facing **digital self-service pathways** through which parties **start, manage, continue or renew, and exit** **commitments or ongoing obligations** within **governed scope**. This includes **enrollment**, **account or preference changes**, **upgrades and downgrades in obligation level**, **fee or billing management** where **charges** apply, **renewal or continuation handling**, and **withdrawal or cancellation**. The rules apply **whether or not** the pathway is **commercial**, **transaction-linked**, or **paid**. **Institutions** that impose or supervise expectations for those pathways and **operators** within supervised scope are in scope. Where **recurring or transaction-linked charges** apply, this entry is read together with **CI-10.2** (*Recurring charges, renewals, and commercial billing integrity*), which states additional **billing-structure** requirements.
 
-- OP-E: Evaluation must assess pathway design and operation under **OP-O** against the **OP-C** component here and against each **component** entry in this cluster (**Entry-exit symmetry** through **Accessibility parity**). Where **attestation** is required, evaluation must verify **operator-held artifacts** adequate to demonstrate satisfaction of each **applicable** component **OP-C**, coordinated with **CI-13** (*Public revenue, fees, recurring charges, and billing integrity*) where **charges** apply. Typical **cross-cutting** artifacts include **published pathway maps**, **rationale logs** for documented exceptions, and **evidence** of **obligation release** or **billing cessation** as applicable.
+- OP-E: Evaluation must assess pathway design and operation under **OP-O** against the **OP-C** component here and against each **component** entry in this cluster (**Entry-exit symmetry** through **Accessibility parity**). Where **attestation** is required, evaluation must verify **operator-held artifacts** adequate to demonstrate satisfaction of each **applicable** component **OP-C**, coordinated with **CI-10** (*Public revenue, fees, recurring charges, and billing integrity*) where **charges** apply. Typical **cross-cutting** artifacts include **published pathway maps**, **rationale logs** for documented exceptions, and **evidence** of **obligation release** or **billing cessation** as applicable.
 
 - OP-C: Institutions must ensure that pathways within **OP-O** do **not** substitute **choice architecture** for **informed consent**. **Retention and interference flows** must be assessed under **`core_05-05_definitions_c_dependent_clusters.md` Chapter Five, section 3.39** against **Trust Degradation and Misleading Reliance** (joint cluster) together with **Coercion and Manipulation**, **Chapter Six** where offense-linked classification applies, and `corpus_joint_structure.md` expectations for **non-coercive**, **non-deceptive** mechanism design. **Substituting** choice architecture for informed consent is **non-compliant**. So is **materially bypassing** any **cluster component** where this subsection applies. Operators subject to **attestation** must **maintain** artifacts sufficient for verification under the component **OP-E** entries below.
 
@@ -90,7 +90,7 @@ Accessibility parity
 
 ---
 
-### CI-15.4: Governance disclosure schema
+### CI-12.4: Governance disclosure schema
 Institutions must publish a standard governance report on a fixed cadence.
 
 Minimum required fields:
@@ -107,5 +107,5 @@ Minimum required fields:
 
 ---
 
-**Previous file:** [ci_14_resource_stewardship_incentive_integrity.md](ci_14_resource_stewardship_incentive_integrity.md)
-**Next file:** [ci_16_institutional_failure_sanctions_dissolution_accountability.md](ci_16_institutional_failure_sanctions_dissolution_accountability.md)
+**Previous file:** [ci_11_resource_stewardship_incentive_integrity.md](ci_11_resource_stewardship_incentive_integrity.md)
+**Next file:** [ci_13_institutional_failure_sanctions_dissolution_accountability.md](ci_13_institutional_failure_sanctions_dissolution_accountability.md)

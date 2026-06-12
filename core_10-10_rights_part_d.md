@@ -407,7 +407,7 @@ Transitional governance exists to secure continuity and non-regression. It must 
     - elapsed time;
     - convenience;
     - political pressure.
-  - Detailed gate criteria, owner assignment, and verification artifacts are governed by `corpus_institutions.md` **CI-17** (*Transitional governance and institutional evolution*).
+  - Detailed gate criteria, owner assignment, and verification artifacts are governed by `corpus_institutions.md` **CI-14** (*Transitional governance and institutional evolution*).
 - **Rights-Floor continuity:** At every phase, baseline protections must remain in force for:
   - survival;
   - dignity;
@@ -449,7 +449,7 @@ Transitional governance exists to secure continuity and non-regression. It must 
     - self-created delay;
     - mere incompleteness of transition work.
   - The burden of justification increases with duration and rights impact.
-  - Reauthorization cadence mechanics are governed by `corpus_institutions.md` **CI-17** (*Transitional governance and institutional evolution*).
+  - Reauthorization cadence mechanics are governed by `corpus_institutions.md` **CI-14** (*Transitional governance and institutional evolution*).
 #### Article XXV-C: Failure Off-Ramps, Re-Baselining, and Traceability
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
@@ -475,13 +475,13 @@ Transitional governance exists to secure continuity and non-regression. It must 
   - governance vacuum;
   - lock-in when milestones fail.
 
-  Predefined fallback pathways, partial rollback criteria, and re-baselining procedures are governed by `corpus_institutions.md` **CI-17** (*Transitional governance and institutional evolution*).
+  Predefined fallback pathways, partial rollback criteria, and re-baselining procedures are governed by `corpus_institutions.md` **CI-14** (*Transitional governance and institutional evolution*).
   - Failed or degraded transitional states must not become a new baseline by persistence alone.
   - Material baseline reset requires constitutionally valid authority and traceable justification.
 - **Public traceability:** Material transition decisions, delays, reversals, and baseline-reset determinations must remain auditable with rationale and risk implications.
   - Documentation remains subject to narrow, justified confidentiality constraints.
   - It must preserve enough public explanation to evaluate whether delay, rollback, or continuation is constitutionally justified.
-  - Publication schemas and evidence-custody implementation are governed by `corpus_institutions.md` **CI-7** (*Oversight, assurance, controls, and evidence*) and **CI-17** (*Transitional governance and institutional evolution*).
+  - Publication schemas and evidence-custody implementation are governed by `corpus_institutions.md` **CI-7** (*Oversight, assurance, controls, and evidence*) and **CI-14** (*Transitional governance and institutional evolution*).
 
 #### Article XXV-D: Non-Compliant Property and Systems; Voluntary Turnover Incentives
 <details>
@@ -550,7 +550,7 @@ Transitional governance exists to secure continuity and non-regression. It must 
   An exception applies only where:
   - **Necessity** is documented under **Chapter One §6.4**;
   - **timely substitute provision** is feasible where required.
-- **Implementation custody:** The following belong in **`corpus_institutions.md` CI-17** (*Transitional governance and institutional evolution*) and adopting instruments, and must **not** narrow **Chapter Ten** or **Chapter Six** meaning:
+- **Implementation custody:** The following belong in **`corpus_institutions.md` CI-14** (*Transitional governance and institutional evolution*) and adopting instruments, and must **not** narrow **Chapter Ten** or **Chapter Six** meaning:
   - triggers;
   - valuation;
   - appeal;

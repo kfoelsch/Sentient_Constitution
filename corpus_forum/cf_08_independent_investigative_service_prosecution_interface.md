@@ -68,7 +68,7 @@ Investigative or security-support providers must not:
 
 Different actors may help the investigation, but each role must stay in its lane:
 
-Where investigative, security-support, or enforcement-adjacent bodies exercise materially binding delegated authority, their authorizing instruments must publish the local and nonlocal participation design that protects independence, continuity, and capture resistance. For Chapter Nine forums, chambers, divisions, and designated panels, apply the forum composition rule in **CF-2.6** (*Chamber authority composition and service mechanics*) read with `corpus_joint_structure.md` **CJS-4.1** (*Mandatory hybrid authority composition*) and **CJS-4.2** (*Shared attachment and continuity mechanics*). For non-forum security-support or enforcement-adjacent bodies, apply **CJS-4.1**, **CJS-4.2**, and `corpus_institutions.md` **CI-12.3** (*Delegated subunits, institutional design class, and attachment discipline*) where the body is a delegated binding body, with stricter independence, external-participation, or backup-route requirements where local independence is not credible.
+Where investigative, security-support, or enforcement-adjacent bodies exercise materially binding delegated authority, their authorizing instruments must publish the local and nonlocal participation design that protects independence, continuity, and capture resistance. For Chapter Nine forums, chambers, divisions, and designated panels, apply the forum composition rule in **CF-2.6** (*Chamber authority composition and service mechanics*) read with `corpus_joint_structure.md` **CJS-4.1** (*Mandatory hybrid authority composition*) and **CJS-4.2** (*Shared attachment and continuity mechanics*). For non-forum security-support or enforcement-adjacent bodies, apply **CJS-4.1**, **CJS-4.2**, and `corpus_institutions.md` **CI-9.3** (*Delegated subunits, institutional design class, and attachment discipline*) where the body is a delegated binding body, with stricter independence, external-participation, or backup-route requirements where local independence is not credible.
 
 #### CF-8.5.1 Non-forum investigative, security-support, and enforcement roles
 
@@ -112,7 +112,7 @@ Those records must support:
 - forum review without turning the forums into the investigators' command hierarchy;
 - contest-integrity monitoring under `corpus_institutions.md` **CI-7.3** (*Contest-integrity monitoring (Class A and Class B)*) without collapsing structural oversight into case management.
 
-Where local independence is not credible because of concentration, emergency incapacity, deadlock, or systemic capture indicators, institutions must escalate to `corpus_institutions.md` **CI-11** (*Cross-institution coordination and escalation*), external assurance, or another pre-designated backup body with lawful authority and practical capacity to investigate.
+Where local independence is not credible because of concentration, emergency incapacity, deadlock, or systemic capture indicators, institutions must escalate to `corpus_institutions.md` **CI-8** (*Cross-institution coordination and escalation*), external assurance, or another pre-designated backup body with lawful authority and practical capacity to investigate.
 
 ---
 

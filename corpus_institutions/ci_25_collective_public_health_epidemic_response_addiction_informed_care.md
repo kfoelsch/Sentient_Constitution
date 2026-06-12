@@ -1,4 +1,4 @@
-## CI-28: Collective public health, epidemic response, and addiction-informed care
+## CI-25: Collective public health, epidemic response, and addiction-informed care
 
 **Purpose.** This section frames **contagion**, **environmental** **exposure**, **population**-**level** **harms**, and **addiction** as **collective**-**care** and **governance** **problems** **under** **Article I-D**, **Article III-C**, **Article VII-C**, **Article XIII**, **Article XXIII-D**, and **emergency** **protocols** in **`corpus_systems.md`** — **resisting** **coercive** **public**-**health** **exceptionalism** **without** **dismissing** **real** **externalities**.
 
@@ -12,5 +12,5 @@
 
 ---
 
-**Previous file:** [ci_27_neurodiversity_disability_justice_trauma_informed_participation.md](ci_27_neurodiversity_disability_justice_trauma_informed_participation.md)
-**Next file:** [ci_29_compliance_mapping_stable_registry.md](ci_29_compliance_mapping_stable_registry.md)
+**Previous file:** [ci_24_neurodiversity_disability_justice_trauma_informed_participation.md](ci_24_neurodiversity_disability_justice_trauma_informed_participation.md)
+**Next file:** [ci_26_compliance_mapping_stable_registry.md](ci_26_compliance_mapping_stable_registry.md)

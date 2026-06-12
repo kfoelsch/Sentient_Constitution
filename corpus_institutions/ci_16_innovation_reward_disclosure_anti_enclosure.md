@@ -1,4 +1,4 @@
-## CI-19: Innovation reward, disclosure, and anti-enclosure
+## CI-16: Innovation reward, disclosure, and anti-enclosure
 
 **Purpose and owner boundary.** This section governs institutional handling of innovation-reward systems where constitutional adoption brings them within scope. Constitutional meaning remains in **Chapter Five** (*Innovation Reward and Anti-Enclosure*) and **Chapter Ten**, **Article XVII-D**. Implementation, cross-implementation, and burden discipline remain in `corpus_joint_structure.md` **CJS-5D.2** (*Implementation and cross-implementation interoperability, portability, and exit-integrity terms*) and **CJS-5A.4** (*Implementation and cross-implementation burden-of-justification and constraint terms*). This section supplies only the institutional registry, review, access-order, sunset, and appeal mechanics.
 
@@ -22,11 +22,11 @@
 
 **6B. Reclassification review.** Institutions must maintain a published process for reclassifying innovation-reward claims when a previously lower-dependency innovation becomes a dependency-critical platform, protocol, model, marketplace, payment rail, or comparable coordination layer. Reclassification review must be able to narrow claim scope, impose interface and interoperability conditions, order compulsory access, convert the reward mechanism, or accelerate sunset where continued exclusion would conflict with the applicable **Chapter S2** class.
 
-**7. Specialized review and appeal.** Institutions using this section must maintain a dedicated review lane or designated specialist panel for innovation-reward disputes, compulsory-access requests, anti-warehousing claims, and carve-out classification disputes. That lane must remain contestable, auditable, and structurally separate from claim-granting or revenue-dependent functions. It must also preserve secondary review and cross-institution escalation under **CI-6** (*Procedure integrity, contestability, and secondary review*) and **CI-11** (*Cross-institution coordination and escalation*).
+**7. Specialized review and appeal.** Institutions using this section must maintain a dedicated review lane or designated specialist panel for innovation-reward disputes, compulsory-access requests, anti-warehousing claims, and carve-out classification disputes. That lane must remain contestable, auditable, and structurally separate from claim-granting or revenue-dependent functions. It must also preserve secondary review and cross-institution escalation under **CI-6** (*Procedure integrity, contestability, and secondary review*) and **CI-8** (*Cross-institution coordination and escalation*).
 
 ---
 
 ---
 
-**Previous file:** [ci_18_vulnerable_personal_services_markets_article_xc_interface.md](ci_18_vulnerable_personal_services_markets_article_xc_interface.md)
-**Next file:** [ci_20_scientific_publication_peer_review_replication_evidence_stewardship.md](ci_20_scientific_publication_peer_review_replication_evidence_stewardship.md)
+**Previous file:** [ci_15_vulnerable_personal_services_markets_article_xc_interface.md](ci_15_vulnerable_personal_services_markets_article_xc_interface.md)
+**Next file:** [ci_17_scientific_publication_peer_review_replication_evidence_stewardship.md](ci_17_scientific_publication_peer_review_replication_evidence_stewardship.md)

@@ -1,4 +1,4 @@
-## CI-16: Institutional failure, sanctions, dissolution, and accountability
+## CI-13: Institutional failure, sanctions, dissolution, and accountability
 
 **Constitutional index (abridged)**
 - Topic-level routing and cited authorities remain in subsection text and cross-references.
@@ -24,5 +24,5 @@ Dissolution or disbandment does not replace personal accountability. Sentients r
 
 ---
 
-**Previous file:** [ci_15_transparency_participation_accessible_pathways.md](ci_15_transparency_participation_accessible_pathways.md)
-**Next file:** [ci_17_transitional_governance_institutional_evolution.md](ci_17_transitional_governance_institutional_evolution.md)
+**Previous file:** [ci_12_transparency_participation_accessible_pathways.md](ci_12_transparency_participation_accessible_pathways.md)
+**Next file:** [ci_14_transitional_governance_institutional_evolution.md](ci_14_transitional_governance_institutional_evolution.md)

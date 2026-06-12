@@ -1,6 +1,6 @@
-## CI-17: Transitional governance and institutional evolution
+## CI-14: Transitional governance and institutional evolution
 
-Institutional redesign, consolidation, or transfer must preserve non-regression and continuity duties. Where the transition materially involves constitutional systems, institutions must read this section with `corpus_systems.md` **Protocol T** (*Transition Constitution and Migration Governance*). **CI-17** (*Transitional governance and institutional evolution*) states the institutional custody, authorization, and oversight interface; Protocol T remains the operative home for system phase structure, gate criteria, fallback handling, off-ramps, and re-baselining mechanics.
+Institutional redesign, consolidation, or transfer must preserve non-regression and continuity duties. Where the transition materially involves constitutional systems, institutions must read this section with `corpus_systems.md` **Protocol T** (*Transition Constitution and Migration Governance*). **CI-14** (*Transitional governance and institutional evolution*) states the institutional custody, authorization, and oversight interface; Protocol T remains the operative home for system phase structure, gate criteria, fallback handling, off-ramps, and re-baselining mechanics.
 
 Institutional transition interface (Article XXV interface):
 - name the institution, role, or body that owns each transition authority, review authority, and evidence-custody duty;
@@ -9,7 +9,7 @@ Institutional transition interface (Article XXV interface):
 - prevent governance vacuum, unmanaged authority transfer, and anti-constitutional lock-in during redesign, consolidation, dissolution, or transfer;
 - document material institutional transition decisions, delays, reversals, and remediation actions in auditable form with rationale and risk implications.
 
-### CI-17.1: Interface — Article XXV-D (non-compliant property, seizure, voluntary incentives)
+### CI-14.1: Interface — Article XXV-D (non-compliant property, seizure, voluntary incentives)
 Where transition plans address **non-compliant property or systems** under **Sentient Constitution Chapter Ten, Article XXV-D**, institutions must publish and maintain:
 
 - **Eligibility and process:** clear criteria linking measures to **Chapter Six** compliance determinations (read with **Chapter Four** burden and traceability where applicable) or equivalent binding findings, **notice** where feasible, **contest or review** pathways, and **time limits** on seizure, impoundment, or quarantine.
@@ -26,9 +26,9 @@ After material structural change, institutions must run revalidation for:
 
 Scenario-based continuity and succession stress tests must run on a cadence proportional to class/tier.
 
-**See also:** For **Class A**, **Class B**, and **Critical System Steward** scope (`corpus_systems.md` **Chapter S2** and **Chapter S3**), **`corpus_systems.md` Protocol A**, subsection **G** (*Governance continuity, crisis communications, and exercises*) states complementary governance continuity, exercise, and audit-trail expectations; **CI-14** (*Resource stewardship and incentive integrity*) states the institutional trigger and supervisory interface.
+**See also:** For **Class A**, **Class B**, and **Critical System Steward** scope (`corpus_systems.md` **Chapter S2** and **Chapter S3**), **`corpus_systems.md` Protocol A**, subsection **G** (*Governance continuity, crisis communications, and exercises*) states complementary governance continuity, exercise, and audit-trail expectations; **CI-11** (*Resource stewardship and incentive integrity*) states the institutional trigger and supervisory interface.
 
-### CI-17.2: Article XXV-D — trigger catalog, anti-abuse metrics, and publication requirements
+### CI-14.2: Article XXV-D — trigger catalog, anti-abuse metrics, and publication requirements
 
 **Constitutional home:** **Chapter Ten**, **Article XXV-D** (*Non-Compliant Property, Seizure, Impoundment, Quarantine, Forfeiture, and Voluntary Turnover Incentives*). This subsection is **implementation-only**; it does not restate the Rights Floor.
 
@@ -52,5 +52,5 @@ Scenario-based continuity and succession stress tests must run on a cadence prop
 
 ---
 
-**Previous file:** [ci_16_institutional_failure_sanctions_dissolution_accountability.md](ci_16_institutional_failure_sanctions_dissolution_accountability.md)
-**Next file:** [ci_18_vulnerable_personal_services_markets_article_xc_interface.md](ci_18_vulnerable_personal_services_markets_article_xc_interface.md)
+**Previous file:** [ci_13_institutional_failure_sanctions_dissolution_accountability.md](ci_13_institutional_failure_sanctions_dissolution_accountability.md)
+**Next file:** [ci_15_vulnerable_personal_services_markets_article_xc_interface.md](ci_15_vulnerable_personal_services_markets_article_xc_interface.md)

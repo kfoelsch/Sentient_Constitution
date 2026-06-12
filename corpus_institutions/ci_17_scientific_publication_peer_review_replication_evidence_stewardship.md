@@ -1,6 +1,6 @@
-## CI-20: Scientific publication, peer review, replication, and evidence stewardship
+## CI-17: Scientific publication, peer review, replication, and evidence stewardship
 
-**Purpose and owner boundary.** This section governs the institutional custody, funding, ranking, archival, reliance, and review mechanics for scientific and scholarly claims where constitutional adoption brings those functions within scope. Constitutional meaning remains in **Sentient Constitution Chapter Ten, Article XVII-E** (*Scientific Publication, Review, and Replication Integrity*) and relevant **Chapter Five** definitions for Truth, Epistemic Integrity, Auditability, Necessity, Proportionality, and Transparency. **CI-20** (*Scientific publication, peer review, replication, and evidence stewardship*) supplies only the institutional record, evidence-package, conflict-control, reliance-gate, correction, access, incentive, and appeal mechanics needed to make those anchors operable.
+**Purpose and owner boundary.** This section governs the institutional custody, funding, ranking, archival, reliance, and review mechanics for scientific and scholarly claims where constitutional adoption brings those functions within scope. Constitutional meaning remains in **Sentient Constitution Chapter Ten, Article XVII-E** (*Scientific Publication, Review, and Replication Integrity*) and relevant **Chapter Five** definitions for Truth, Epistemic Integrity, Auditability, Necessity, Proportionality, and Transparency. **CI-17** (*Scientific publication, peer review, replication, and evidence stewardship*) supplies only the institutional record, evidence-package, conflict-control, reliance-gate, correction, access, incentive, and appeal mechanics needed to make those anchors operable.
 
 **Default institutional preference.** Institutions should prefer separable publication, review, curation, funding, archival custody, and reputation functions. Bundled prestige, revenue, or ranking structures require affirmative justification and independent audit where they materially affect publication access, reliance, correction, or standing.
 
@@ -20,11 +20,13 @@
 
 **8. Incentives, standing, and anti-prestige capture.** Hiring, promotion, grantmaking, and institutional standing must not rely primarily on journal brand, impact-factor proxies, or closed editorial prestige. Institutions should record how they weight replication history, correction behavior, review quality, data and method stewardship, audit responsiveness, and long-run predictive or explanatory reliability. Metrics that predict gaming, salami-slicing, hype inflation, or selective-publication bias must not dominate career or funding outcomes.
 
-**9. Specialized oversight and appeal.** Institutions using this section must maintain a dedicated review or ombuds lane for publication suppression claims, conflict complaints, retaliation against reviewers or replicators, data-access disputes, and retraction or correction contests. That lane must remain structurally separate from prestige, revenue, or ranking incentives and must preserve secondary review and cross-institution escalation under **CI-6** (*Procedure integrity, contestability, and secondary review*) and **CI-11** (*Cross-institution coordination and escalation*).
+**9. Specialized oversight and appeal.** Institutions using this section must maintain a dedicated review or ombuds lane for publication suppression claims, conflict complaints, retaliation against reviewers or replicators, data-access disputes, and retraction or correction contests. That lane must remain structurally separate from prestige, revenue, or ranking incentives and must preserve secondary review and cross-institution escalation under **CI-6** (*Procedure integrity, contestability, and secondary review*) and **CI-8** (*Cross-institution coordination and escalation*).
+
+**10. Technical-forum interface.** Where disputes implicate publication suppression, replication denial, correction refusal, manipulation of scientific standing, technical standards maintenance, or comparable science, engineering, medical, or knowledge-governance questions, institutions must read this section with `corpus_forum.md` **CF-9** (*Technical specialist forums and specialist chambers*). Technical specialist forums remain Chapter Nine forums or designated chambers; they may supply reviewable standards, certified questions, or specialist adjudication within lawful scope, but they must not displace primary-stakes routing or ordinary institution-facing enforcement assigned by Chapter Nine.
 
 ---
 
 ---
 
-**Previous file:** [ci_19_innovation_reward_disclosure_anti_enclosure.md](ci_19_innovation_reward_disclosure_anti_enclosure.md)
-**Next file:** [ci_21_community_life_voluntary_association_non_instrumental_time.md](ci_21_community_life_voluntary_association_non_instrumental_time.md)
+**Previous file:** [ci_16_innovation_reward_disclosure_anti_enclosure.md](ci_16_innovation_reward_disclosure_anti_enclosure.md)
+**Next file:** [ci_18_community_life_voluntary_association_non_instrumental_time.md](ci_18_community_life_voluntary_association_non_instrumental_time.md)

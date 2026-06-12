@@ -53,7 +53,7 @@ These rules sit between the general joint-compliance rules in [cjs_03_joint_stru
 
 <br>
 
-Use this rule for two hybrid-composition router topics: **CJS-R01** (*Delegated binding bodies and hybrid composition (non-forum institutions)*), delegated binding bodies and hybrid composition for non-forum institutions under **CI-12.3** (*Delegated subunits, institutional design class, and attachment discipline*); and **CJS-R02** (*Forum chambers, divisions, and designated panels (Chapter Nine families)*), forum chambers, divisions, and designated panels under **CF-2.5** (*Chamber creation, identification, and family boundary*) through **CF-2.8** (*Specialist and technical chamber discipline*).
+Use this rule for two hybrid-composition router topics: **CJS-R01** (*Delegated binding bodies and hybrid composition (non-forum institutions)*), delegated binding bodies and hybrid composition for non-forum institutions under **CI-9.3** (*Delegated subunits, institutional design class, and attachment discipline*); and **CJS-R02** (*Forum chambers, divisions, and designated panels (Chapter Nine families)*), forum chambers, divisions, and designated panels under **CF-2.5** (*Chamber creation, identification, and family boundary*) through **CF-2.8** (*Specialist and technical chamber discipline*).
 
 Each covered body must use a published hybrid design that combines:
 - **home-based authority**, which provides continuity; and
@@ -67,7 +67,7 @@ Home-only or rotation-only structures are non-compliant for ordinarily binding b
 
 Where **CI** and **CF** overlap, the stricter clearly adopted rule governs.
 
-**Mandatory read-with:** **CI-12.3.1** through **CI-12.3.4**; **CF-2.5** through **CF-2.8** and **CF-11** through **CF-13** as applicable; `corpus_systems.md` **Chapter S2 — System Classification and Handling** and **Chapter S3 — Critical System Stewardship** where classification changes the burden.
+**Mandatory read-with:** **CI-9.3.1** through **CI-9.3.4**; **CF-2.5** through **CF-2.8** and **CF-11** through **CF-13** as applicable; `corpus_systems.md` **Chapter S2 — System Classification and Handling** and **Chapter S3 — Critical System Stewardship** where classification changes the burden.
 
 ### CJS-4.2 Shared attachment and continuity mechanics
 <details>
@@ -93,7 +93,7 @@ Where **CJS-4.1** (*Mandatory hybrid authority composition (delegated binding bo
 - a bounded formula for rotating attachment that rotating authorities can understand before service;
 - no undefined discretion over how long rotating attachment lasts;
 - term, renewal, or stagger rules for home-based continuity; and
-- any class-, forum-, institution-, emergency-, or substitution-specific safeguards required by **CI-12.3** (*Delegated subunits, institutional design class, and attachment discipline*), **CF-2.5** (*Chamber creation, identification, and family boundary*), **CF-11** (*Forum continuity*), **CF-12** (*Fallback operation*), **CF-13** (*Emergency adjudication*), or related hooks.
+- any class-, forum-, institution-, emergency-, or substitution-specific safeguards required by **CI-9.3** (*Delegated subunits, institutional design class, and attachment discipline*), **CF-2.5** (*Chamber creation, identification, and family boundary*), **CF-11** (*Forum continuity*), **CF-12** (*Fallback operation*), **CF-13** (*Emergency adjudication*), or related hooks.
 
 Sample formulas are illustrative unless a domain owner makes them mandatory. Home-based term rules do not need to mirror rotating attachment rules.
 
@@ -238,7 +238,7 @@ For **Class A** and **Class B** systems, each institution that hosts a constitut
 
 Staffing must be real, not just numerical. Responsibility cannot be spread so thin that nobody is competent, and knowledge cannot be concentrated so tightly that the lane becomes fragile, captured, or unable to replace itself.
 
-The constitutional floor remains in `core_11-11_governance.md` **Chapter Eleven**, section **5**. Domain detail remains in **CI-2** (*Institutional design and separation of powers*), **CI-4** (*Appointment, competency, rotation, and removal*), **CI-14** (*Resource stewardship and incentive integrity*), **CI-15** (*Transparency, participation, and accessible pathways*), and `corpus_systems.md` **Chapter S2 — System Classification and Handling** and **Chapter S3 — Critical System Stewardship**.
+The constitutional floor remains in `core_11-11_governance.md` **Chapter Eleven**, section **5**. Domain detail remains in **CI-2** (*Institutional design and separation of powers*), **CI-4** (*Appointment, competency, rotation, and removal*), **CI-11** (*Resource stewardship and incentive integrity*), **CI-12** (*Transparency, participation, and accessible pathways*), and `corpus_systems.md` **Chapter S2 — System Classification and Handling** and **Chapter S3 — Critical System Stewardship**.
 
 ### CJS-4.7 Shared procedural abstractions for delegated bodies and forum routing
 <details>
@@ -278,7 +278,7 @@ It is non-compliant to treat a body or route as valid if the records do not make
 
 It is also non-compliant to use common-question procedures to suppress material sentient-specific contest rights required by owner rules.
 
-Owner detail remains in `corpus_institutions.md` including **CI-6** (*Procedure integrity, contestability, and secondary review*), **CI-11** (*Cross-institution coordination and escalation*), **CI-12.3** (*Delegated subunits, institutional design class, and attachment discipline*), and `corpus_forum.md` including **CF-3** (*Panel formation, disclosure, recusal, and lawful bench constitution*), **CF-4** (*Routing operations, transfer, certification, and representative treatment*), and **CF-5** (*Appeal, secondary review, and exhaustion pathways*).
+Owner detail remains in `corpus_institutions.md` including **CI-6** (*Procedure integrity, contestability, and secondary review*), **CI-8** (*Cross-institution coordination and escalation*), **CI-9.3** (*Delegated subunits, institutional design class, and attachment discipline*), and `corpus_forum.md` including **CF-3** (*Panel formation, disclosure, recusal, and lawful bench constitution*), **CF-4** (*Routing operations, transfer, certification, and representative treatment*), and **CF-5** (*Appeal, secondary review, and exhaustion pathways*).
 
 ---
 

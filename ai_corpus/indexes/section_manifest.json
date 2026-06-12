@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-06-12T00:25:31+00:00",
+  "generated_at": "2026-06-12T09:25:31+00:00",
   "files": {
     "core_00-01_principles.md": {
       "total_lines": 1506,
@@ -5217,20 +5217,20 @@
       ]
     },
     "corpus_institutions.md": {
-      "total_lines": 45,
+      "total_lines": 42,
       "sections": [
         {
           "header": "Constitutional Institutions",
           "level": 1,
           "line_start": 1,
-          "line_end": 45,
+          "line_end": 42,
           "anchor": null
         },
         {
           "header": "Institutions Index",
           "level": 2,
           "line_start": 9,
-          "line_end": 45,
+          "line_end": 42,
           "anchor": null
         }
       ]
@@ -5742,62 +5742,48 @@
       ]
     },
     "corpus_institutions/ci_01_scope_purpose_legitimacy_interface.md": {
-      "total_lines": 111,
+      "total_lines": 64,
       "sections": [
         {
           "header": "Constitutional Institutions",
           "level": 1,
           "line_start": 1,
-          "line_end": 111,
+          "line_end": 64,
           "anchor": null
         },
         {
           "header": "CI-1: Scope, purpose, and legitimacy interface",
           "level": 2,
-          "line_start": 24,
-          "line_end": 111,
+          "line_start": 23,
+          "line_end": 64,
           "anchor": null
         },
         {
           "header": "CI-1.1: Definition discipline and source hierarchy",
           "level": 3,
-          "line_start": 38,
+          "line_start": 37,
           "line_end": 45,
           "anchor": null
         },
         {
-          "header": "CI-1.2: Operational structure and subsection-local terminology",
+          "header": "CI-1.2: Section identifiers and article references",
           "level": 3,
           "line_start": 46,
-          "line_end": 66,
+          "line_end": 50,
           "anchor": null
         },
         {
-          "header": "CI-1.3: Operational clusters",
+          "header": "CI-1.3: Anti-constitutional misconduct usage in this file",
           "level": 3,
-          "line_start": 67,
-          "line_end": 90,
+          "line_start": 51,
+          "line_end": 53,
           "anchor": null
         },
         {
-          "header": "CI-1.4: Section identifiers and article references",
+          "header": "CI-1.4: Proportionality rule",
           "level": 3,
-          "line_start": 91,
-          "line_end": 95,
-          "anchor": null
-        },
-        {
-          "header": "CI-1.5: Anti-constitutional misconduct usage in this file",
-          "level": 3,
-          "line_start": 96,
-          "line_end": 98,
-          "anchor": null
-        },
-        {
-          "header": "CI-1.6: Proportionality rule",
-          "level": 3,
-          "line_start": 99,
-          "line_end": 111,
+          "line_start": 54,
+          "line_end": 64,
           "anchor": null
         }
       ]
@@ -5877,13 +5863,13 @@
       ]
     },
     "corpus_institutions/ci_07_oversight_assurance_controls_evidence.md": {
-      "total_lines": 85,
+      "total_lines": 87,
       "sections": [
         {
           "header": "CI-7: Oversight, assurance, controls, and evidence",
           "level": 2,
           "line_start": 1,
-          "line_end": 85,
+          "line_end": 87,
           "anchor": null
         },
         {
@@ -5904,120 +5890,84 @@
           "header": "CI-7.3: Contest-integrity monitoring (Class A and Class B)",
           "level": 3,
           "line_start": 63,
-          "line_end": 85,
+          "line_end": 87,
           "anchor": null
         }
       ]
     },
-    "corpus_institutions/ci_08_forum_forensic_analytical_support.md": {
-      "total_lines": 12,
+    "corpus_institutions/ci_08_cross_institution_coordination_escalation.md": {
+      "total_lines": 21,
       "sections": [
         {
-          "header": "CI-8: Forum forensic and analytical support",
+          "header": "CI-8: Cross-institution coordination and escalation",
           "level": 2,
           "line_start": 1,
-          "line_end": 12,
+          "line_end": 21,
           "anchor": null
         }
       ]
     },
-    "corpus_institutions/ci_09_independent_investigative_service.md": {
-      "total_lines": 12,
-      "sections": [
-        {
-          "header": "CI-9: Independent investigative service",
-          "level": 2,
-          "line_start": 1,
-          "line_end": 12,
-          "anchor": null
-        }
-      ]
-    },
-    "corpus_institutions/ci_10_technical_forums_science_engineering_medicine.md": {
-      "total_lines": 12,
-      "sections": [
-        {
-          "header": "CI-10: Technical forums: science, engineering, medicine, and related fields",
-          "level": 2,
-          "line_start": 1,
-          "line_end": 12,
-          "anchor": null
-        }
-      ]
-    },
-    "corpus_institutions/ci_11_cross_institution_coordination_escalation.md": {
-      "total_lines": 20,
-      "sections": [
-        {
-          "header": "CI-11: Cross-institution coordination and escalation",
-          "level": 2,
-          "line_start": 1,
-          "line_end": 20,
-          "anchor": null
-        }
-      ]
-    },
-    "corpus_institutions/ci_12_classification_linked_institutional_obligations.md": {
+    "corpus_institutions/ci_09_classification_linked_institutional_obligations.md": {
       "total_lines": 95,
       "sections": [
         {
-          "header": "CI-12: Classification-linked institutional obligations",
+          "header": "CI-9: Classification-linked institutional obligations",
           "level": 2,
           "line_start": 1,
           "line_end": 95,
           "anchor": null
         },
         {
-          "header": "CI-12.1: Formation proportionality",
+          "header": "CI-9.1: Formation proportionality",
           "level": 3,
           "line_start": 13,
           "line_end": 26,
           "anchor": null
         },
         {
-          "header": "CI-12.2: Published industry and domain mapping",
+          "header": "CI-9.2: Published industry and domain mapping",
           "level": 3,
           "line_start": 27,
           "line_end": 39,
           "anchor": null
         },
         {
-          "header": "CI-12.3: Delegated subunits, institutional design class, and attachment discipline",
+          "header": "CI-9.3: Delegated subunits, institutional design class, and attachment discipline",
           "level": 3,
           "line_start": 40,
           "line_end": 54,
           "anchor": null
         },
         {
-          "header": "CI-12.3.1: Identification and competence",
+          "header": "CI-9.3.1: Identification and competence",
           "level": 3,
           "line_start": 55,
           "line_end": 62,
           "anchor": null
         },
         {
-          "header": "CI-12.3.2: Authority composition",
+          "header": "CI-9.3.2: Authority composition",
           "level": 3,
           "line_start": 63,
           "line_end": 67,
           "anchor": null
         },
         {
-          "header": "CI-12.3.3: Rotating authority: attachment bounds",
+          "header": "CI-9.3.3: Rotating authority: attachment bounds",
           "level": 3,
           "line_start": 68,
           "line_end": 75,
           "anchor": null
         },
         {
-          "header": "CI-12.3.4: Home-based authority: term and renewal",
+          "header": "CI-9.3.4: Home-based authority: term and renewal",
           "level": 3,
           "line_start": 76,
           "line_end": 78,
           "anchor": null
         },
         {
-          "header": "CI-12.4: Survival floors, voluntary exchange, and markets (Article III-A interface)",
+          "header": "CI-9.4: Survival floors, voluntary exchange, and markets (Article III-A interface)",
           "level": 3,
           "line_start": 79,
           "line_end": 95,
@@ -6025,25 +5975,25 @@
         }
       ]
     },
-    "corpus_institutions/ci_13_public_revenue_fees_recurring_charges_billing_integrity.md": {
+    "corpus_institutions/ci_10_public_revenue_fees_recurring_charges_billing_integrity.md": {
       "total_lines": 47,
       "sections": [
         {
-          "header": "CI-13: Public revenue, fees, recurring charges, and billing integrity",
+          "header": "CI-10: Public revenue, fees, recurring charges, and billing integrity",
           "level": 2,
           "line_start": 1,
           "line_end": 47,
           "anchor": null
         },
         {
-          "header": "CI-13.1: Public revenue, user fees, and class-aligned burden",
+          "header": "CI-10.1: Public revenue, user fees, and class-aligned burden",
           "level": 3,
           "line_start": 5,
           "line_end": 22,
           "anchor": null
         },
         {
-          "header": "CI-13.2: Recurring charges, renewals, and commercial billing integrity",
+          "header": "CI-10.2: Recurring charges, renewals, and commercial billing integrity",
           "level": 3,
           "line_start": 23,
           "line_end": 47,
@@ -6051,11 +6001,11 @@
         }
       ]
     },
-    "corpus_institutions/ci_14_resource_stewardship_incentive_integrity.md": {
+    "corpus_institutions/ci_11_resource_stewardship_incentive_integrity.md": {
       "total_lines": 16,
       "sections": [
         {
-          "header": "CI-14: Resource stewardship and incentive integrity",
+          "header": "CI-11: Resource stewardship and incentive integrity",
           "level": 2,
           "line_start": 1,
           "line_end": 16,
@@ -6063,39 +6013,39 @@
         }
       ]
     },
-    "corpus_institutions/ci_15_transparency_participation_accessible_pathways.md": {
+    "corpus_institutions/ci_12_transparency_participation_accessible_pathways.md": {
       "total_lines": 111,
       "sections": [
         {
-          "header": "CI-15: Transparency, participation, and accessible pathways",
+          "header": "CI-12: Transparency, participation, and accessible pathways",
           "level": 2,
           "line_start": 1,
           "line_end": 111,
           "anchor": null
         },
         {
-          "header": "CI-15.1: Stakeholder oversight, notification, and binding-governance pathway integrity",
+          "header": "CI-12.1: Stakeholder oversight, notification, and binding-governance pathway integrity",
           "level": 3,
           "line_start": 14,
           "line_end": 26,
           "anchor": null
         },
         {
-          "header": "CI-15.2: Anti-concentration and participation-legitimacy safeguards",
+          "header": "CI-12.2: Anti-concentration and participation-legitimacy safeguards",
           "level": 3,
           "line_start": 27,
           "line_end": 46,
           "anchor": null
         },
         {
-          "header": "CI-15.3: Digital self-service pathway integrity",
+          "header": "CI-12.3: Digital self-service pathway integrity",
           "level": 3,
           "line_start": 47,
           "line_end": 92,
           "anchor": null
         },
         {
-          "header": "CI-15.4: Governance disclosure schema",
+          "header": "CI-12.4: Governance disclosure schema",
           "level": 3,
           "line_start": 93,
           "line_end": 111,
@@ -6103,11 +6053,11 @@
         }
       ]
     },
-    "corpus_institutions/ci_16_institutional_failure_sanctions_dissolution_accountability.md": {
+    "corpus_institutions/ci_13_institutional_failure_sanctions_dissolution_accountability.md": {
       "total_lines": 28,
       "sections": [
         {
-          "header": "CI-16: Institutional failure, sanctions, dissolution, and accountability",
+          "header": "CI-13: Institutional failure, sanctions, dissolution, and accountability",
           "level": 2,
           "line_start": 1,
           "line_end": 28,
@@ -6115,25 +6065,25 @@
         }
       ]
     },
-    "corpus_institutions/ci_17_transitional_governance_institutional_evolution.md": {
+    "corpus_institutions/ci_14_transitional_governance_institutional_evolution.md": {
       "total_lines": 56,
       "sections": [
         {
-          "header": "CI-17: Transitional governance and institutional evolution",
+          "header": "CI-14: Transitional governance and institutional evolution",
           "level": 2,
           "line_start": 1,
           "line_end": 56,
           "anchor": null
         },
         {
-          "header": "CI-17.1: Interface — Article XXV-D (non-compliant property, seizure, voluntary incentives)",
+          "header": "CI-14.1: Interface — Article XXV-D (non-compliant property, seizure, voluntary incentives)",
           "level": 3,
           "line_start": 12,
           "line_end": 30,
           "anchor": null
         },
         {
-          "header": "CI-17.2: Article XXV-D — trigger catalog, anti-abuse metrics, and publication requirements",
+          "header": "CI-14.2: Article XXV-D — trigger catalog, anti-abuse metrics, and publication requirements",
           "level": 3,
           "line_start": 31,
           "line_end": 56,
@@ -6141,11 +6091,11 @@
         }
       ]
     },
-    "corpus_institutions/ci_18_vulnerable_personal_services_markets_article_xc_interface.md": {
+    "corpus_institutions/ci_15_vulnerable_personal_services_markets_article_xc_interface.md": {
       "total_lines": 38,
       "sections": [
         {
-          "header": "CI-18: Vulnerable personal services markets — general regulation and Article X-C interface",
+          "header": "CI-15: Vulnerable personal services markets — general regulation and Article X-C interface",
           "level": 2,
           "line_start": 1,
           "line_end": 38,
@@ -6153,11 +6103,11 @@
         }
       ]
     },
-    "corpus_institutions/ci_19_innovation_reward_disclosure_anti_enclosure.md": {
+    "corpus_institutions/ci_16_innovation_reward_disclosure_anti_enclosure.md": {
       "total_lines": 32,
       "sections": [
         {
-          "header": "CI-19: Innovation reward, disclosure, and anti-enclosure",
+          "header": "CI-16: Innovation reward, disclosure, and anti-enclosure",
           "level": 2,
           "line_start": 1,
           "line_end": 32,
@@ -6165,23 +6115,23 @@
         }
       ]
     },
-    "corpus_institutions/ci_20_scientific_publication_peer_review_replication_evidence_stewardship.md": {
-      "total_lines": 30,
+    "corpus_institutions/ci_17_scientific_publication_peer_review_replication_evidence_stewardship.md": {
+      "total_lines": 32,
       "sections": [
         {
-          "header": "CI-20: Scientific publication, peer review, replication, and evidence stewardship",
+          "header": "CI-17: Scientific publication, peer review, replication, and evidence stewardship",
           "level": 2,
           "line_start": 1,
-          "line_end": 30,
+          "line_end": 32,
           "anchor": null
         }
       ]
     },
-    "corpus_institutions/ci_21_community_life_voluntary_association_non_instrumental_time.md": {
+    "corpus_institutions/ci_18_community_life_voluntary_association_non_instrumental_time.md": {
       "total_lines": 16,
       "sections": [
         {
-          "header": "CI-21: Community life, voluntary association, and non-instrumental time",
+          "header": "CI-18: Community life, voluntary association, and non-instrumental time",
           "level": 2,
           "line_start": 1,
           "line_end": 16,
@@ -6189,11 +6139,11 @@
         }
       ]
     },
-    "corpus_institutions/ci_22_end_of_life_continuity_memorial_dignity_posthumous_data.md": {
+    "corpus_institutions/ci_19_end_of_life_continuity_memorial_dignity_posthumous_data.md": {
       "total_lines": 18,
       "sections": [
         {
-          "header": "CI-22: End-of-life continuity, memorial dignity, and posthumous-data stewardship",
+          "header": "CI-19: End-of-life continuity, memorial dignity, and posthumous-data stewardship",
           "level": 2,
           "line_start": 1,
           "line_end": 18,
@@ -6201,11 +6151,11 @@
         }
       ]
     },
-    "corpus_institutions/ci_23_care_labor_dependent_support_respite_care_economy_fairness.md": {
+    "corpus_institutions/ci_20_care_labor_dependent_support_respite_care_economy_fairness.md": {
       "total_lines": 18,
       "sections": [
         {
-          "header": "CI-23: Care labor, dependent support, respite, and care-economy fairness",
+          "header": "CI-20: Care labor, dependent support, respite, and care-economy fairness",
           "level": 2,
           "line_start": 1,
           "line_end": 18,
@@ -6213,11 +6163,11 @@
         }
       ]
     },
-    "corpus_institutions/ci_24_relational_coercive_control_intimate_power_anti_domination.md": {
+    "corpus_institutions/ci_21_relational_coercive_control_intimate_power_anti_domination.md": {
       "total_lines": 16,
       "sections": [
         {
-          "header": "CI-24: Relational coercive control, intimate power, and anti-domination routing",
+          "header": "CI-21: Relational coercive control, intimate power, and anti-domination routing",
           "level": 2,
           "line_start": 1,
           "line_end": 16,
@@ -6225,11 +6175,11 @@
         }
       ]
     },
-    "corpus_institutions/ci_25_commons_cooperatives_mutual_aid_non_market_governance.md": {
+    "corpus_institutions/ci_22_commons_cooperatives_mutual_aid_non_market_governance.md": {
       "total_lines": 16,
       "sections": [
         {
-          "header": "CI-25: Commons, cooperatives, mutual aid, and non-market community governance",
+          "header": "CI-22: Commons, cooperatives, mutual aid, and non-market community governance",
           "level": 2,
           "line_start": 1,
           "line_end": 16,
@@ -6237,11 +6187,11 @@
         }
       ]
     },
-    "corpus_institutions/ci_26_place_based_stewardship_indigenous_continuity_consultation.md": {
+    "corpus_institutions/ci_23_place_based_stewardship_indigenous_continuity_consultation.md": {
       "total_lines": 14,
       "sections": [
         {
-          "header": "CI-26: Place-based stewardship, Indigenous continuity, and consultation routes",
+          "header": "CI-23: Place-based stewardship, Indigenous continuity, and consultation routes",
           "level": 2,
           "line_start": 1,
           "line_end": 14,
@@ -6249,11 +6199,11 @@
         }
       ]
     },
-    "corpus_institutions/ci_27_neurodiversity_disability_justice_trauma_informed_participation.md": {
+    "corpus_institutions/ci_24_neurodiversity_disability_justice_trauma_informed_participation.md": {
       "total_lines": 14,
       "sections": [
         {
-          "header": "CI-27: Neurodiversity, disability justice, and trauma-informed participation",
+          "header": "CI-24: Neurodiversity, disability justice, and trauma-informed participation",
           "level": 2,
           "line_start": 1,
           "line_end": 14,
@@ -6261,11 +6211,11 @@
         }
       ]
     },
-    "corpus_institutions/ci_28_collective_public_health_epidemic_response_addiction_informed_care.md": {
+    "corpus_institutions/ci_25_collective_public_health_epidemic_response_addiction_informed_care.md": {
       "total_lines": 16,
       "sections": [
         {
-          "header": "CI-28: Collective public health, epidemic response, and addiction-informed care",
+          "header": "CI-25: Collective public health, epidemic response, and addiction-informed care",
           "level": 2,
           "line_start": 1,
           "line_end": 16,
@@ -6273,11 +6223,11 @@
         }
       ]
     },
-    "corpus_institutions/ci_29_compliance_mapping_stable_registry.md": {
+    "corpus_institutions/ci_26_compliance_mapping_stable_registry.md": {
       "total_lines": 60,
       "sections": [
         {
-          "header": "CI-29: Compliance mapping and stable registry",
+          "header": "CI-26: Compliance mapping and stable registry",
           "level": 2,
           "line_start": 1,
           "line_end": 45,

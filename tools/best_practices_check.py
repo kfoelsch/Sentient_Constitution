@@ -60,7 +60,7 @@ REVIEWS = [
     DomainReview(
         domain="Separation of powers, role clarity, and anti-self-judging",
         external_sections="FRC 2024 Section 2; IIA Principles 1-5; OECD Integrity 2/12",
-        internal_anchor="SC Ch 8; Art XXI; Ch 10 sec. 5; CI-2 to CI-11",
+        internal_anchor="SC Ch 8; Art XXI; Ch 10 sec. 5; CI-2 to CI-8",
         design=3,
         operationalization=3,
         evidence=2,
@@ -69,13 +69,13 @@ REVIEWS = [
             "Court-family separation, cross-court anti-self-judging, assurance-line separation, and interpretive safeguards are explicit."
         ),
         gap="The repository still lacks a concise incompatibility matrix and role-separation quick reference for high-impact institutional operators.",
-        proposed_close="Add a one-page incompatibility matrix keyed to CI-2 through CI-11 and CI-7/7A/7B routing.",
+        proposed_close="Add a one-page incompatibility matrix keyed to CI-2 through CI-8 and CI-7/7A/7B routing.",
         priority="P1",
     ),
     DomainReview(
         domain="Composition, competency, succession, and removal",
         external_sections="FRC 2024 Section 3; IIA Applying the model; OECD Integrity leadership/capacity",
-        internal_anchor="Art XXI-B to XXI-D; Ch 10 sec. 5; CI-4, CI-10, CI-17",
+        internal_anchor="Art XXI-B to XXI-D; Ch 10 sec. 5; CI-4, CI-14; CF-9",
         design=2,
         operationalization=2,
         evidence=2,
@@ -90,7 +90,7 @@ REVIEWS = [
     DomainReview(
         domain="Conflict integrity, anti-corruption, and anti-capture",
         external_sections="OECD Integrity 4/10/11; ISO 37001/37301 by analogy",
-        internal_anchor="SC Ch 1 sec. 7.2; Arts XI-E, XII-D, XXI; Ch 7; CI-5, CI-14, CI-16",
+        internal_anchor="SC Ch 1 sec. 7.2; Arts XI-E, XII-D, XXI; Ch 7; CI-5, CI-11, CI-13",
         design=2,
         operationalization=2,
         evidence=1,
@@ -120,22 +120,22 @@ REVIEWS = [
     DomainReview(
         domain="Transparency, disclosure, and public intelligibility",
         external_sections="OECD 2023 IV; OECD Integrity 9/13; NIST Govern/Measure; OHCHR II/III",
-        internal_anchor="Arts VIII, XIII, XIV, XIX, XXI-C, XXII-E; Defs Ch 4; CI-15, CI-29; CJS-5C.3/CJS-5C.4/CJS-5B.2-CJS-5B.4",
+        internal_anchor="Arts VIII, XIII, XIV, XIX, XXI-C, XXII-E; Defs Ch 4; CI-12, CI-26; CJS-5C.3/CJS-5C.4/CJS-5B.2-CJS-5B.4",
         design=3,
         operationalization=2,
         evidence=2,
         performance=2,
         current_state=(
-            "The corpus strongly protects disclosure, traceability, auditability, and accessible pathway concepts, with a dedicated governance disclosure schema hook in CI-15.4."
+            "The corpus strongly protects disclosure, traceability, auditability, and accessible pathway concepts, with a dedicated governance disclosure schema hook in CI-12.4."
         ),
         gap="A standardized governance reporting taxonomy and mandatory field list are still not fully closed out as a stable publication package.",
-        proposed_close="Finish the CI-15/CI-29 reporting schema as a reusable disclosure template with cadence and comparison fields.",
+        proposed_close="Finish the CI-12/CI-26 reporting schema as a reusable disclosure template with cadence and comparison fields.",
         priority="P1",
     ),
     DomainReview(
         domain="Independent assurance and verification",
         external_sections="IIA Principles 4-5; OECD Integrity 12; FRC 2024 Section 4",
-        internal_anchor="Arts XIV and XXI; Ch 8; Defs Ch 4; CI-7, CI-8, CI-10; doc_architecture sec. 15-17",
+        internal_anchor="Arts XIV and XXI; Ch 8; Defs Ch 4; CI-7, CI-8; CF-7, CF-8, CF-9; doc_architecture sec. 15-17",
         design=3,
         operationalization=3,
         evidence=3,
@@ -165,7 +165,7 @@ REVIEWS = [
     DomainReview(
         domain="Remedy, redress, contestability, and restorative closure",
         external_sections="OHCHR III; OECD 2023 II; OECD Integrity 11/13",
-        internal_anchor="Arts XII-B, XIV, XVII-B, XXII, XXIV; Ch 6; CI-6, CI-16; CS Protocol C",
+        internal_anchor="Arts XII-B, XIV, XVII-B, XXII, XXIV; Ch 6; CI-6, CI-13; CS Protocol C",
         design=3,
         operationalization=2,
         evidence=2,
@@ -180,7 +180,7 @@ REVIEWS = [
     DomainReview(
         domain="Continuity, resilience, transition, and emergency discipline",
         external_sections="OECD 2023 VI; FRC 2024 Section 4; NIST Manage; ISO 37000 risk governance/social responsibility",
-        internal_anchor="Arts XXII-XXIV; Amendment Ch 11-13; CI-17; CS Protocol T/R/D/S4",
+        internal_anchor="Arts XXII-XXIV; Amendment Ch 11-13; CI-14; CS Protocol T/R/D/S4",
         design=3,
         operationalization=3,
         evidence=3,

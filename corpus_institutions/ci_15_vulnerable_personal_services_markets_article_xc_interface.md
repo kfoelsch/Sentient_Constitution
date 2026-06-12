@@ -1,4 +1,4 @@
-## CI-18: Vulnerable personal services markets — general regulation and Article X-C interface
+## CI-15: Vulnerable personal services markets — general regulation and Article X-C interface
 
 **Constitutional index (abridged)**
 - Topic-level routing and cited authorities remain in subsection text and cross-references.
@@ -14,13 +14,13 @@
 
 **3. Risk-tiered due care.** Expectations should **escalate** where **minors**, **capacity limits**, **isolation**, **migration** stressors, **language** barriers, or **economic dependency** **concentrate** risk, consistent with **Classification-Scaled Governance** and `corpus_systems.md` **Chapter S2** / **Chapter S3** for **high-impact** intermediaries. **Heightened** tiers require **documented risk** and **proportionate** controls. They must not rest on **stereotype** or **moral** profiling alone.
 
-**4. Non-criminal remedies and pathway integrity.** **Dispute** channels, **restitution**, **injunctive** relief, **professional** discipline, and **platform-level** policies should be **accessible** and **contestable**. They should also align with **Article X-A** (*Non-Imposition and Consent in Association*), **Article XII-C** (*Prohibition of False Trust and Misleading Reliance*) where reliance is induced, and **CI-15.3** (*Digital self-service pathway integrity*) where **digital self-service** pathways apply.
+**4. Non-criminal remedies and pathway integrity.** **Dispute** channels, **restitution**, **injunctive** relief, **professional** discipline, and **platform-level** policies should be **accessible** and **contestable**. They should also align with **Article X-A** (*Non-Imposition and Consent in Association*), **Article XII-C** (*Prohibition of False Trust and Misleading Reliance*) where reliance is induced, and **CI-12.3** (*Digital self-service pathway integrity*) where **digital self-service** pathways apply.
 
 **5. Intermediaries, platforms, and financial plumbing.** **Matching**, **scheduling**, **payments**, **reputation**, and **visibility** systems with **material** dependency or **info-sphere** effects must be **classified** and **stewarded** under `corpus_systems.md` (**Chapter S2**, **Chapter S3**, and **market-mediated personal services**). Institutions should expect **proportionate** **abuse** reporting, **data minimization** consistent with **Chapter S1**, and **financial-access** policies that do **not** use **fraud** or **AML** rules as **blanket** **moral** exclusion for activity **lawful** under **Article X-C**.
 
 **6. Separation of lanes and anti-pretext audit.** Institutions must **separate** policy, **training**, **metrics**, and **enforcement** so **protected consensual adult** conduct under **Article X-C** is **not** targeted using **exploitation** categories without facts satisfying **Article X-C**’s **exploitation** or **procurement** branches. The same separation must ensure **decriminalization** is **not** used to **deprioritize** **exploitation** investigation, prosecution, or victim remedies. **Child sexual exploitation**, **trafficking**, **coercion**, and **non-consensual** conduct must retain **clear offenses**, **adequate resourcing**, and **survivor-accessible** reporting. **Periodic audit** should detect **disparate** neglect, **misclassification** of exploitation as **voluntary** work, and **harassment** of **lawful** participants under **enforcement** color.
 
-**7. Workplace parity, housing, licensing, and transition.** Where the **decriminalization floor** applies, **labor safety**, **harassment and retaliation** protections, **housing** and **licensing** treatment, and **anti-discrimination** should match **ordinary** lawful **cooperative** work, scaled to **stigma risk**, consistent with **CI-6** (*Procedure integrity, contestability, and secondary review*) and **CI-15** (*Transparency, participation, and accessible pathways*).
+**7. Workplace parity, housing, licensing, and transition.** Where the **decriminalization floor** applies, **labor safety**, **harassment and retaliation** protections, **housing** and **licensing** treatment, and **anti-discrimination** should match **ordinary** lawful **cooperative** work, scaled to **stigma risk**, consistent with **CI-6** (*Procedure integrity, contestability, and secondary review*) and **CI-12** (*Transparency, participation, and accessible pathways*).
 
 Institutions should publish **phased** **transition** plans that include:
 - **effective dates** aligned with **Article X-C**
@@ -28,11 +28,11 @@ Institutions should publish **phased** **transition** plans that include:
 - **retraining** against **repealed** norms
 - **review** of **ongoing** cases for **relief** where consistent with law
 
-**Scaling.** **High-impact** regulatory scope requires **stronger** publication, **contest**, and **independent review** than **localized** scope, consistent with **CI-12** (*Classification-linked institutional obligations*) proportionality themes.
+**Scaling.** **High-impact** regulatory scope requires **stronger** publication, **contest**, and **independent review** than **localized** scope, consistent with **CI-9** (*Classification-linked institutional obligations*) proportionality themes.
 
 ---
 
 ---
 
-**Previous file:** [ci_17_transitional_governance_institutional_evolution.md](ci_17_transitional_governance_institutional_evolution.md)
-**Next file:** [ci_19_innovation_reward_disclosure_anti_enclosure.md](ci_19_innovation_reward_disclosure_anti_enclosure.md)
+**Previous file:** [ci_14_transitional_governance_institutional_evolution.md](ci_14_transitional_governance_institutional_evolution.md)
+**Next file:** [ci_16_innovation_reward_disclosure_anti_enclosure.md](ci_16_innovation_reward_disclosure_anti_enclosure.md)

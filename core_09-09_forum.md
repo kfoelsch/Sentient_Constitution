@@ -413,7 +413,7 @@ Incentive devices must not be structured or applied to reward forum shopping, op
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [§1](#1-purpose-and-role)–[§8](#8-anti-gaming-and-interim-relief) (*forum-family allocation and procedure interaction*).
-- Downstream: [corpus_institutions.md](corpus_institutions.md) **CI-5** through **CI-11** and related contest-integrity expectations (*operational detail — does not replace assigned forum jurisdiction*).
+- Downstream: [corpus_institutions.md](corpus_institutions.md) **CI-5** through **CI-8** and related contest-integrity expectations (*operational detail — does not replace assigned forum jurisdiction*).
 - Read with: [corpus_forum.md](corpus_forum.md); [corpus_institutions.md](corpus_institutions.md) (*contest, secondary review, integrity monitoring*).
 
 </details>
@@ -422,7 +422,7 @@ Incentive devices must not be structured or applied to reward forum shopping, op
 
 *In plain terms: the institutions implementation file describes monitors, contests, and reviews that run next to forums — useful pressure and transparency — but it does not replace binding forum jurisdiction where this chapter assigns a forum family to decide merits.*
 
-Institutional contest, secondary review, and integrity monitoring in **`corpus_institutions.md`** (including **CI-5** (*Conflict integrity, anti-capture, and anti-corruption*) through **CI-11** (*Cross-institution coordination and escalation*) and contest-integrity expectations) work alongside this chapter. They do not replace **Integrity**, **Environment**, or **Institutional** forum families for binding merits where this chapter assigns those families jurisdiction. Implementation incentive mechanisms in those volumes must coordinate with the forum family whose sphere is primarily implicated, consistent with **section 1**, without displacing primary-stakes routing or merits authority this chapter assigns.
+Institutional contest, secondary review, and integrity monitoring in **`corpus_institutions.md`** (including **CI-5** (*Conflict integrity, anti-capture, and anti-corruption*) through **CI-8** (*Cross-institution coordination and escalation*) and contest-integrity expectations) work alongside this chapter. They do not replace **Integrity**, **Environment**, or **Institutional** forum families for binding merits where this chapter assigns those families jurisdiction. Implementation incentive mechanisms in those volumes must coordinate with the forum family whose sphere is primarily implicated, consistent with **section 1**, without displacing primary-stakes routing or merits authority this chapter assigns.
 
 ---
 

@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/crossref_matrix.schema.json",
-  "generated_at": "2026-06-12T00:25:31+00:00",
+  "generated_at": "2026-06-12T00:17:07+00:00",
   "description": "Source-derived file-to-file Markdown reference graph.",
   "graph": {
     "nodes": [
@@ -161,91 +161,79 @@
         "type": "companion"
       },
       {
-        "id": "corpus_institutions/ci_08_forum_forensic_analytical_support.md",
+        "id": "corpus_institutions/ci_08_cross_institution_coordination_escalation.md",
         "type": "companion"
       },
       {
-        "id": "corpus_institutions/ci_09_independent_investigative_service.md",
+        "id": "corpus_institutions/ci_09_classification_linked_institutional_obligations.md",
         "type": "companion"
       },
       {
-        "id": "corpus_institutions/ci_10_technical_forums_science_engineering_medicine.md",
+        "id": "corpus_institutions/ci_10_public_revenue_fees_recurring_charges_billing_integrity.md",
         "type": "companion"
       },
       {
-        "id": "corpus_institutions/ci_11_cross_institution_coordination_escalation.md",
+        "id": "corpus_institutions/ci_11_resource_stewardship_incentive_integrity.md",
         "type": "companion"
       },
       {
-        "id": "corpus_institutions/ci_12_classification_linked_institutional_obligations.md",
+        "id": "corpus_institutions/ci_12_transparency_participation_accessible_pathways.md",
         "type": "companion"
       },
       {
-        "id": "corpus_institutions/ci_13_public_revenue_fees_recurring_charges_billing_integrity.md",
+        "id": "corpus_institutions/ci_13_institutional_failure_sanctions_dissolution_accountability.md",
         "type": "companion"
       },
       {
-        "id": "corpus_institutions/ci_14_resource_stewardship_incentive_integrity.md",
+        "id": "corpus_institutions/ci_14_transitional_governance_institutional_evolution.md",
         "type": "companion"
       },
       {
-        "id": "corpus_institutions/ci_15_transparency_participation_accessible_pathways.md",
+        "id": "corpus_institutions/ci_15_vulnerable_personal_services_markets_article_xc_interface.md",
         "type": "companion"
       },
       {
-        "id": "corpus_institutions/ci_16_institutional_failure_sanctions_dissolution_accountability.md",
+        "id": "corpus_institutions/ci_16_innovation_reward_disclosure_anti_enclosure.md",
         "type": "companion"
       },
       {
-        "id": "corpus_institutions/ci_17_transitional_governance_institutional_evolution.md",
+        "id": "corpus_institutions/ci_17_scientific_publication_peer_review_replication_evidence_stewardship.md",
         "type": "companion"
       },
       {
-        "id": "corpus_institutions/ci_18_vulnerable_personal_services_markets_article_xc_interface.md",
+        "id": "corpus_institutions/ci_18_community_life_voluntary_association_non_instrumental_time.md",
         "type": "companion"
       },
       {
-        "id": "corpus_institutions/ci_19_innovation_reward_disclosure_anti_enclosure.md",
+        "id": "corpus_institutions/ci_19_end_of_life_continuity_memorial_dignity_posthumous_data.md",
         "type": "companion"
       },
       {
-        "id": "corpus_institutions/ci_20_scientific_publication_peer_review_replication_evidence_stewardship.md",
+        "id": "corpus_institutions/ci_20_care_labor_dependent_support_respite_care_economy_fairness.md",
         "type": "companion"
       },
       {
-        "id": "corpus_institutions/ci_21_community_life_voluntary_association_non_instrumental_time.md",
+        "id": "corpus_institutions/ci_21_relational_coercive_control_intimate_power_anti_domination.md",
         "type": "companion"
       },
       {
-        "id": "corpus_institutions/ci_22_end_of_life_continuity_memorial_dignity_posthumous_data.md",
+        "id": "corpus_institutions/ci_22_commons_cooperatives_mutual_aid_non_market_governance.md",
         "type": "companion"
       },
       {
-        "id": "corpus_institutions/ci_23_care_labor_dependent_support_respite_care_economy_fairness.md",
+        "id": "corpus_institutions/ci_23_place_based_stewardship_indigenous_continuity_consultation.md",
         "type": "companion"
       },
       {
-        "id": "corpus_institutions/ci_24_relational_coercive_control_intimate_power_anti_domination.md",
+        "id": "corpus_institutions/ci_24_neurodiversity_disability_justice_trauma_informed_participation.md",
         "type": "companion"
       },
       {
-        "id": "corpus_institutions/ci_25_commons_cooperatives_mutual_aid_non_market_governance.md",
+        "id": "corpus_institutions/ci_25_collective_public_health_epidemic_response_addiction_informed_care.md",
         "type": "companion"
       },
       {
-        "id": "corpus_institutions/ci_26_place_based_stewardship_indigenous_continuity_consultation.md",
-        "type": "companion"
-      },
-      {
-        "id": "corpus_institutions/ci_27_neurodiversity_disability_justice_trauma_informed_participation.md",
-        "type": "companion"
-      },
-      {
-        "id": "corpus_institutions/ci_28_collective_public_health_epidemic_response_addiction_informed_care.md",
-        "type": "companion"
-      },
-      {
-        "id": "corpus_institutions/ci_29_compliance_mapping_stable_registry.md",
+        "id": "corpus_institutions/ci_26_compliance_mapping_stable_registry.md",
         "type": "companion"
       },
       {
@@ -3572,112 +3560,97 @@
             "anchors": []
           },
           {
-            "file": "corpus_institutions/ci_08_forum_forensic_analytical_support.md",
+            "file": "corpus_institutions/ci_08_cross_institution_coordination_escalation.md",
             "count": 1,
             "anchors": []
           },
           {
-            "file": "corpus_institutions/ci_09_independent_investigative_service.md",
+            "file": "corpus_institutions/ci_09_classification_linked_institutional_obligations.md",
             "count": 1,
             "anchors": []
           },
           {
-            "file": "corpus_institutions/ci_10_technical_forums_science_engineering_medicine.md",
+            "file": "corpus_institutions/ci_10_public_revenue_fees_recurring_charges_billing_integrity.md",
             "count": 1,
             "anchors": []
           },
           {
-            "file": "corpus_institutions/ci_11_cross_institution_coordination_escalation.md",
+            "file": "corpus_institutions/ci_11_resource_stewardship_incentive_integrity.md",
             "count": 1,
             "anchors": []
           },
           {
-            "file": "corpus_institutions/ci_12_classification_linked_institutional_obligations.md",
+            "file": "corpus_institutions/ci_12_transparency_participation_accessible_pathways.md",
             "count": 1,
             "anchors": []
           },
           {
-            "file": "corpus_institutions/ci_13_public_revenue_fees_recurring_charges_billing_integrity.md",
+            "file": "corpus_institutions/ci_13_institutional_failure_sanctions_dissolution_accountability.md",
             "count": 1,
             "anchors": []
           },
           {
-            "file": "corpus_institutions/ci_14_resource_stewardship_incentive_integrity.md",
+            "file": "corpus_institutions/ci_14_transitional_governance_institutional_evolution.md",
             "count": 1,
             "anchors": []
           },
           {
-            "file": "corpus_institutions/ci_15_transparency_participation_accessible_pathways.md",
+            "file": "corpus_institutions/ci_15_vulnerable_personal_services_markets_article_xc_interface.md",
             "count": 1,
             "anchors": []
           },
           {
-            "file": "corpus_institutions/ci_16_institutional_failure_sanctions_dissolution_accountability.md",
+            "file": "corpus_institutions/ci_16_innovation_reward_disclosure_anti_enclosure.md",
             "count": 1,
             "anchors": []
           },
           {
-            "file": "corpus_institutions/ci_17_transitional_governance_institutional_evolution.md",
+            "file": "corpus_institutions/ci_17_scientific_publication_peer_review_replication_evidence_stewardship.md",
             "count": 1,
             "anchors": []
           },
           {
-            "file": "corpus_institutions/ci_18_vulnerable_personal_services_markets_article_xc_interface.md",
+            "file": "corpus_institutions/ci_18_community_life_voluntary_association_non_instrumental_time.md",
             "count": 1,
             "anchors": []
           },
           {
-            "file": "corpus_institutions/ci_19_innovation_reward_disclosure_anti_enclosure.md",
+            "file": "corpus_institutions/ci_19_end_of_life_continuity_memorial_dignity_posthumous_data.md",
             "count": 1,
             "anchors": []
           },
           {
-            "file": "corpus_institutions/ci_20_scientific_publication_peer_review_replication_evidence_stewardship.md",
+            "file": "corpus_institutions/ci_20_care_labor_dependent_support_respite_care_economy_fairness.md",
             "count": 1,
             "anchors": []
           },
           {
-            "file": "corpus_institutions/ci_21_community_life_voluntary_association_non_instrumental_time.md",
+            "file": "corpus_institutions/ci_21_relational_coercive_control_intimate_power_anti_domination.md",
             "count": 1,
             "anchors": []
           },
           {
-            "file": "corpus_institutions/ci_22_end_of_life_continuity_memorial_dignity_posthumous_data.md",
+            "file": "corpus_institutions/ci_22_commons_cooperatives_mutual_aid_non_market_governance.md",
             "count": 1,
             "anchors": []
           },
           {
-            "file": "corpus_institutions/ci_23_care_labor_dependent_support_respite_care_economy_fairness.md",
+            "file": "corpus_institutions/ci_23_place_based_stewardship_indigenous_continuity_consultation.md",
             "count": 1,
             "anchors": []
           },
           {
-            "file": "corpus_institutions/ci_24_relational_coercive_control_intimate_power_anti_domination.md",
+            "file": "corpus_institutions/ci_24_neurodiversity_disability_justice_trauma_informed_participation.md",
             "count": 1,
             "anchors": []
           },
           {
-            "file": "corpus_institutions/ci_25_commons_cooperatives_mutual_aid_non_market_governance.md",
+            "file": "corpus_institutions/ci_25_collective_public_health_epidemic_response_addiction_informed_care.md",
             "count": 1,
             "anchors": []
           },
           {
-            "file": "corpus_institutions/ci_26_place_based_stewardship_indigenous_continuity_consultation.md",
-            "count": 1,
-            "anchors": []
-          },
-          {
-            "file": "corpus_institutions/ci_27_neurodiversity_disability_justice_trauma_informed_participation.md",
-            "count": 1,
-            "anchors": []
-          },
-          {
-            "file": "corpus_institutions/ci_28_collective_public_health_epidemic_response_addiction_informed_care.md",
-            "count": 1,
-            "anchors": []
-          },
-          {
-            "file": "corpus_institutions/ci_29_compliance_mapping_stable_registry.md",
+            "file": "corpus_institutions/ci_26_compliance_mapping_stable_registry.md",
             "count": 1,
             "anchors": []
           }
@@ -5059,14 +5032,14 @@
             "anchors": []
           },
           {
-            "file": "corpus_institutions/ci_08_forum_forensic_analytical_support.md",
+            "file": "corpus_institutions/ci_08_cross_institution_coordination_escalation.md",
             "count": 1,
             "anchors": []
           }
         ]
       },
       {
-        "source": "corpus_institutions/ci_08_forum_forensic_analytical_support.md",
+        "source": "corpus_institutions/ci_08_cross_institution_coordination_escalation.md",
         "targets": [
           {
             "file": "corpus_institutions/ci_07_oversight_assurance_controls_evidence.md",
@@ -5074,59 +5047,14 @@
             "anchors": []
           },
           {
-            "file": "corpus_institutions/ci_09_independent_investigative_service.md",
+            "file": "corpus_institutions/ci_09_classification_linked_institutional_obligations.md",
             "count": 1,
             "anchors": []
           }
         ]
       },
       {
-        "source": "corpus_institutions/ci_09_independent_investigative_service.md",
-        "targets": [
-          {
-            "file": "corpus_institutions/ci_08_forum_forensic_analytical_support.md",
-            "count": 1,
-            "anchors": []
-          },
-          {
-            "file": "corpus_institutions/ci_10_technical_forums_science_engineering_medicine.md",
-            "count": 1,
-            "anchors": []
-          }
-        ]
-      },
-      {
-        "source": "corpus_institutions/ci_10_technical_forums_science_engineering_medicine.md",
-        "targets": [
-          {
-            "file": "corpus_institutions/ci_09_independent_investigative_service.md",
-            "count": 1,
-            "anchors": []
-          },
-          {
-            "file": "corpus_institutions/ci_11_cross_institution_coordination_escalation.md",
-            "count": 1,
-            "anchors": []
-          }
-        ]
-      },
-      {
-        "source": "corpus_institutions/ci_11_cross_institution_coordination_escalation.md",
-        "targets": [
-          {
-            "file": "corpus_institutions/ci_10_technical_forums_science_engineering_medicine.md",
-            "count": 1,
-            "anchors": []
-          },
-          {
-            "file": "corpus_institutions/ci_12_classification_linked_institutional_obligations.md",
-            "count": 1,
-            "anchors": []
-          }
-        ]
-      },
-      {
-        "source": "corpus_institutions/ci_12_classification_linked_institutional_obligations.md",
+        "source": "corpus_institutions/ci_09_classification_linked_institutional_obligations.md",
         "targets": [
           {
             "file": "core_05-05_definitions_b_semi_independent.md",
@@ -5144,19 +5072,19 @@
             ]
           },
           {
-            "file": "corpus_institutions/ci_11_cross_institution_coordination_escalation.md",
+            "file": "corpus_institutions/ci_08_cross_institution_coordination_escalation.md",
             "count": 1,
             "anchors": []
           },
           {
-            "file": "corpus_institutions/ci_13_public_revenue_fees_recurring_charges_billing_integrity.md",
+            "file": "corpus_institutions/ci_10_public_revenue_fees_recurring_charges_billing_integrity.md",
             "count": 1,
             "anchors": []
           }
         ]
       },
       {
-        "source": "corpus_institutions/ci_13_public_revenue_fees_recurring_charges_billing_integrity.md",
+        "source": "corpus_institutions/ci_10_public_revenue_fees_recurring_charges_billing_integrity.md",
         "targets": [
           {
             "file": "core_00-01_principles.md",
@@ -5164,64 +5092,64 @@
             "anchors": []
           },
           {
-            "file": "corpus_institutions/ci_12_classification_linked_institutional_obligations.md",
+            "file": "corpus_institutions/ci_09_classification_linked_institutional_obligations.md",
             "count": 1,
             "anchors": []
           },
           {
-            "file": "corpus_institutions/ci_14_resource_stewardship_incentive_integrity.md",
+            "file": "corpus_institutions/ci_11_resource_stewardship_incentive_integrity.md",
             "count": 1,
             "anchors": []
           }
         ]
       },
       {
-        "source": "corpus_institutions/ci_14_resource_stewardship_incentive_integrity.md",
+        "source": "corpus_institutions/ci_11_resource_stewardship_incentive_integrity.md",
         "targets": [
           {
-            "file": "corpus_institutions/ci_13_public_revenue_fees_recurring_charges_billing_integrity.md",
+            "file": "corpus_institutions/ci_10_public_revenue_fees_recurring_charges_billing_integrity.md",
             "count": 1,
             "anchors": []
           },
           {
-            "file": "corpus_institutions/ci_15_transparency_participation_accessible_pathways.md",
+            "file": "corpus_institutions/ci_12_transparency_participation_accessible_pathways.md",
             "count": 1,
             "anchors": []
           }
         ]
       },
       {
-        "source": "corpus_institutions/ci_15_transparency_participation_accessible_pathways.md",
+        "source": "corpus_institutions/ci_12_transparency_participation_accessible_pathways.md",
         "targets": [
           {
-            "file": "corpus_institutions/ci_14_resource_stewardship_incentive_integrity.md",
+            "file": "corpus_institutions/ci_11_resource_stewardship_incentive_integrity.md",
             "count": 1,
             "anchors": []
           },
           {
-            "file": "corpus_institutions/ci_16_institutional_failure_sanctions_dissolution_accountability.md",
+            "file": "corpus_institutions/ci_13_institutional_failure_sanctions_dissolution_accountability.md",
             "count": 1,
             "anchors": []
           }
         ]
       },
       {
-        "source": "corpus_institutions/ci_16_institutional_failure_sanctions_dissolution_accountability.md",
+        "source": "corpus_institutions/ci_13_institutional_failure_sanctions_dissolution_accountability.md",
         "targets": [
           {
-            "file": "corpus_institutions/ci_15_transparency_participation_accessible_pathways.md",
+            "file": "corpus_institutions/ci_12_transparency_participation_accessible_pathways.md",
             "count": 1,
             "anchors": []
           },
           {
-            "file": "corpus_institutions/ci_17_transitional_governance_institutional_evolution.md",
+            "file": "corpus_institutions/ci_14_transitional_governance_institutional_evolution.md",
             "count": 1,
             "anchors": []
           }
         ]
       },
       {
-        "source": "corpus_institutions/ci_17_transitional_governance_institutional_evolution.md",
+        "source": "corpus_institutions/ci_14_transitional_governance_institutional_evolution.md",
         "targets": [
           {
             "file": "core_05-05_definitions_c_dependent_clusters.md",
@@ -5231,42 +5159,42 @@
             ]
           },
           {
-            "file": "corpus_institutions/ci_16_institutional_failure_sanctions_dissolution_accountability.md",
+            "file": "corpus_institutions/ci_13_institutional_failure_sanctions_dissolution_accountability.md",
             "count": 1,
             "anchors": []
           },
           {
-            "file": "corpus_institutions/ci_18_vulnerable_personal_services_markets_article_xc_interface.md",
+            "file": "corpus_institutions/ci_15_vulnerable_personal_services_markets_article_xc_interface.md",
             "count": 1,
             "anchors": []
           }
         ]
       },
       {
-        "source": "corpus_institutions/ci_18_vulnerable_personal_services_markets_article_xc_interface.md",
+        "source": "corpus_institutions/ci_15_vulnerable_personal_services_markets_article_xc_interface.md",
         "targets": [
           {
-            "file": "corpus_institutions/ci_17_transitional_governance_institutional_evolution.md",
+            "file": "corpus_institutions/ci_14_transitional_governance_institutional_evolution.md",
             "count": 1,
             "anchors": []
           },
           {
-            "file": "corpus_institutions/ci_19_innovation_reward_disclosure_anti_enclosure.md",
+            "file": "corpus_institutions/ci_16_innovation_reward_disclosure_anti_enclosure.md",
             "count": 1,
             "anchors": []
           }
         ]
       },
       {
-        "source": "corpus_institutions/ci_19_innovation_reward_disclosure_anti_enclosure.md",
+        "source": "corpus_institutions/ci_16_innovation_reward_disclosure_anti_enclosure.md",
         "targets": [
           {
-            "file": "corpus_institutions/ci_18_vulnerable_personal_services_markets_article_xc_interface.md",
+            "file": "corpus_institutions/ci_15_vulnerable_personal_services_markets_article_xc_interface.md",
             "count": 1,
             "anchors": []
           },
           {
-            "file": "corpus_institutions/ci_20_scientific_publication_peer_review_replication_evidence_stewardship.md",
+            "file": "corpus_institutions/ci_17_scientific_publication_peer_review_replication_evidence_stewardship.md",
             "count": 1,
             "anchors": []
           },
@@ -5278,142 +5206,142 @@
         ]
       },
       {
-        "source": "corpus_institutions/ci_20_scientific_publication_peer_review_replication_evidence_stewardship.md",
+        "source": "corpus_institutions/ci_17_scientific_publication_peer_review_replication_evidence_stewardship.md",
         "targets": [
           {
-            "file": "corpus_institutions/ci_19_innovation_reward_disclosure_anti_enclosure.md",
+            "file": "corpus_institutions/ci_16_innovation_reward_disclosure_anti_enclosure.md",
             "count": 1,
             "anchors": []
           },
           {
-            "file": "corpus_institutions/ci_21_community_life_voluntary_association_non_instrumental_time.md",
+            "file": "corpus_institutions/ci_18_community_life_voluntary_association_non_instrumental_time.md",
             "count": 1,
             "anchors": []
           }
         ]
       },
       {
-        "source": "corpus_institutions/ci_21_community_life_voluntary_association_non_instrumental_time.md",
+        "source": "corpus_institutions/ci_18_community_life_voluntary_association_non_instrumental_time.md",
         "targets": [
           {
-            "file": "corpus_institutions/ci_20_scientific_publication_peer_review_replication_evidence_stewardship.md",
+            "file": "corpus_institutions/ci_17_scientific_publication_peer_review_replication_evidence_stewardship.md",
             "count": 1,
             "anchors": []
           },
           {
-            "file": "corpus_institutions/ci_22_end_of_life_continuity_memorial_dignity_posthumous_data.md",
+            "file": "corpus_institutions/ci_19_end_of_life_continuity_memorial_dignity_posthumous_data.md",
             "count": 1,
             "anchors": []
           }
         ]
       },
       {
-        "source": "corpus_institutions/ci_22_end_of_life_continuity_memorial_dignity_posthumous_data.md",
+        "source": "corpus_institutions/ci_19_end_of_life_continuity_memorial_dignity_posthumous_data.md",
         "targets": [
           {
-            "file": "corpus_institutions/ci_21_community_life_voluntary_association_non_instrumental_time.md",
+            "file": "corpus_institutions/ci_18_community_life_voluntary_association_non_instrumental_time.md",
             "count": 1,
             "anchors": []
           },
           {
-            "file": "corpus_institutions/ci_23_care_labor_dependent_support_respite_care_economy_fairness.md",
+            "file": "corpus_institutions/ci_20_care_labor_dependent_support_respite_care_economy_fairness.md",
             "count": 1,
             "anchors": []
           }
         ]
       },
       {
-        "source": "corpus_institutions/ci_23_care_labor_dependent_support_respite_care_economy_fairness.md",
+        "source": "corpus_institutions/ci_20_care_labor_dependent_support_respite_care_economy_fairness.md",
         "targets": [
           {
-            "file": "corpus_institutions/ci_22_end_of_life_continuity_memorial_dignity_posthumous_data.md",
+            "file": "corpus_institutions/ci_19_end_of_life_continuity_memorial_dignity_posthumous_data.md",
             "count": 1,
             "anchors": []
           },
           {
-            "file": "corpus_institutions/ci_24_relational_coercive_control_intimate_power_anti_domination.md",
+            "file": "corpus_institutions/ci_21_relational_coercive_control_intimate_power_anti_domination.md",
             "count": 1,
             "anchors": []
           }
         ]
       },
       {
-        "source": "corpus_institutions/ci_24_relational_coercive_control_intimate_power_anti_domination.md",
+        "source": "corpus_institutions/ci_21_relational_coercive_control_intimate_power_anti_domination.md",
         "targets": [
           {
-            "file": "corpus_institutions/ci_23_care_labor_dependent_support_respite_care_economy_fairness.md",
+            "file": "corpus_institutions/ci_20_care_labor_dependent_support_respite_care_economy_fairness.md",
             "count": 1,
             "anchors": []
           },
           {
-            "file": "corpus_institutions/ci_25_commons_cooperatives_mutual_aid_non_market_governance.md",
+            "file": "corpus_institutions/ci_22_commons_cooperatives_mutual_aid_non_market_governance.md",
             "count": 1,
             "anchors": []
           }
         ]
       },
       {
-        "source": "corpus_institutions/ci_25_commons_cooperatives_mutual_aid_non_market_governance.md",
+        "source": "corpus_institutions/ci_22_commons_cooperatives_mutual_aid_non_market_governance.md",
         "targets": [
           {
-            "file": "corpus_institutions/ci_24_relational_coercive_control_intimate_power_anti_domination.md",
+            "file": "corpus_institutions/ci_21_relational_coercive_control_intimate_power_anti_domination.md",
             "count": 1,
             "anchors": []
           },
           {
-            "file": "corpus_institutions/ci_26_place_based_stewardship_indigenous_continuity_consultation.md",
+            "file": "corpus_institutions/ci_23_place_based_stewardship_indigenous_continuity_consultation.md",
             "count": 1,
             "anchors": []
           }
         ]
       },
       {
-        "source": "corpus_institutions/ci_26_place_based_stewardship_indigenous_continuity_consultation.md",
+        "source": "corpus_institutions/ci_23_place_based_stewardship_indigenous_continuity_consultation.md",
         "targets": [
           {
-            "file": "corpus_institutions/ci_25_commons_cooperatives_mutual_aid_non_market_governance.md",
+            "file": "corpus_institutions/ci_22_commons_cooperatives_mutual_aid_non_market_governance.md",
             "count": 1,
             "anchors": []
           },
           {
-            "file": "corpus_institutions/ci_27_neurodiversity_disability_justice_trauma_informed_participation.md",
+            "file": "corpus_institutions/ci_24_neurodiversity_disability_justice_trauma_informed_participation.md",
             "count": 1,
             "anchors": []
           }
         ]
       },
       {
-        "source": "corpus_institutions/ci_27_neurodiversity_disability_justice_trauma_informed_participation.md",
+        "source": "corpus_institutions/ci_24_neurodiversity_disability_justice_trauma_informed_participation.md",
         "targets": [
           {
-            "file": "corpus_institutions/ci_26_place_based_stewardship_indigenous_continuity_consultation.md",
+            "file": "corpus_institutions/ci_23_place_based_stewardship_indigenous_continuity_consultation.md",
             "count": 1,
             "anchors": []
           },
           {
-            "file": "corpus_institutions/ci_28_collective_public_health_epidemic_response_addiction_informed_care.md",
+            "file": "corpus_institutions/ci_25_collective_public_health_epidemic_response_addiction_informed_care.md",
             "count": 1,
             "anchors": []
           }
         ]
       },
       {
-        "source": "corpus_institutions/ci_28_collective_public_health_epidemic_response_addiction_informed_care.md",
+        "source": "corpus_institutions/ci_25_collective_public_health_epidemic_response_addiction_informed_care.md",
         "targets": [
           {
-            "file": "corpus_institutions/ci_27_neurodiversity_disability_justice_trauma_informed_participation.md",
+            "file": "corpus_institutions/ci_24_neurodiversity_disability_justice_trauma_informed_participation.md",
             "count": 1,
             "anchors": []
           },
           {
-            "file": "corpus_institutions/ci_29_compliance_mapping_stable_registry.md",
+            "file": "corpus_institutions/ci_26_compliance_mapping_stable_registry.md",
             "count": 1,
             "anchors": []
           }
         ]
       },
       {
-        "source": "corpus_institutions/ci_29_compliance_mapping_stable_registry.md",
+        "source": "corpus_institutions/ci_26_compliance_mapping_stable_registry.md",
         "targets": [
           {
             "file": "corpus_forum.md",
@@ -5421,7 +5349,7 @@
             "anchors": []
           },
           {
-            "file": "corpus_institutions/ci_28_collective_public_health_epidemic_response_addiction_informed_care.md",
+            "file": "corpus_institutions/ci_25_collective_public_health_epidemic_response_addiction_informed_care.md",
             "count": 1,
             "anchors": []
           }

@@ -147,7 +147,7 @@ Records must be tagged, at minimum, for the following access classes:
 - **public-facing** — published or summarized where needed for routing intelligibility, precedent, shared standards, or governance trust;
 - **audit-facing** — available for lawful audit, reconstruction, and Article XV-A verification;
 - **contest-integrity-facing** — available to `corpus_institutions.md` **CI-7.3** (*Contest-integrity monitoring (Class A and Class B)*) monitors where pathway performance, backlog, recusal, routing, or publication integrity is at issue;
-- **external-assurance-facing** — available when **CI-7.2** (*External assurance triggers*), **CI-11** (*Cross-institution coordination and escalation*), or equivalent lawful assurance triggers apply;
+- **external-assurance-facing** — available when **CI-7.2** (*External assurance triggers*), **CI-8** (*Cross-institution coordination and escalation*), or equivalent lawful assurance triggers apply;
 - **restricted or sealed** — limited only as justified by lawful secrecy, safety, privacy, protected internal-state, or evidence-integrity constraints, with a deferred review or reconstruction path wherever feasible.
 
 Access tagging must support meaningful review without converting lawful restriction into concealment. If a record is withheld or summarized, the forum must preserve enough attributable detail for later lawful reconstruction.
