@@ -186,9 +186,14 @@ Open data-format and protocol presumption
 - OP-C: Closed, proprietary, degraded, unstable, or undocumented data formats or protocols are non-compliant where they materially impair exit, repair, independent verification, continuity, substitution, or cross-implementation operation, unless the restriction satisfies necessity, proportionality, least-restrictive-alternative, auditability, sunset, and revalidation requirements.
 
 Innovation reward boundary and anti-enclosure controls
-- OP-O: Innovation rewards must preserve repair, verification, interoperability, migration, and meaningful exit.
-- OP-E: Evaluation must verify dependency-critical exclusivity is narrow, time-bounded, disclosed, and continuity-protective.
-- OP-C: Innovation claims that create coercive lock-in or hidden barriers are non-compliant.
+- OP-O: Innovation rewards must preserve repair, maintenance, safety work, independent verification, research, education, archiving, benchmark and compatibility testing, reverse engineering for interoperability, migration, and meaningful exit where those uses are otherwise lawful and proportionate.
+- OP-E: Evaluation must verify dependency-critical exclusivity is narrow, time-bounded, disclosed, continuity-protective, and tested against dependency growth, coordination power, switching costs, interoperability burden, and whether the claimed innovation functions as shared infrastructure.
+- OP-C: Innovation claims, contract terms, platform rules, or technical controls that create coercive lock-in, hidden barriers, artificial scarcity, suppressed implementation, or indirect negation of lawful public-interest pathways are non-compliant.
+
+Access-preserving reward and anti-warehousing controls
+- OP-O: Where multiple reward mechanisms are feasible, implementation should prefer the least restrictive mechanism that can sustain future innovation, including attribution, milestone prizes, public or cooperative buyouts, levy-funded reward pools, pooled or standardized licensing, compulsory-access tools, or equivalent public-access regimes before broad exclusion rights for high-dependency domains.
+- OP-E: Evaluation must verify whether compulsory license, access order, buyout, sunset acceleration, interface condition, interoperability condition, reward conversion, or equivalent corrective path is available where a claim is materially necessary for survival-relevant systems, standards-setting interfaces, public-interest implementation, or high-dependency transition and continuity.
+- OP-C: It is non-compliant to warehouse, withhold, shelf, overbundle, or strategically maintain an innovation claim in a way that produces artificial scarcity, coercive lock-in, suppressed implementation, repair obstruction, migration obstruction, or public-interest access failure without proportionate justification.
 
 Exit-feasibility disclosure and dependency transparency
 - OP-O: Systems must disclose dependencies affecting exit, including switching costs, migration risk, alternatives, substitutability, and downstream impact.

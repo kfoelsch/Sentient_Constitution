@@ -20,18 +20,7 @@ This is an editorial exposure audit. It identifies candidate passages for reloca
 
 ## Candidates
 
-### 1. CI-16: Innovation reward, disclosure, and anti-enclosure
-
-- Source: `corpus_institutions/ci_16_innovation_reward_disclosure_anti_enclosure.md:1`
-- Score / confidence: 32 / high
-- Suggested action: `split-CI-and-CJS`
-- Proposed CJS destination: CJS-5B, CJS-5D, CJS-3 / CJS-4
-- Signals: joint-interface(2), multi-owner-routing(2), routing-read-with(6), shared-procedure(6), dependency-failure(8), forum-system-touch(16)
-- Router matches: CJS-R17 — Cross-implementation trust integrity (joint operation model); CJS-R19 — Implementation and cross-implementation integrity assurance and resilience operations; CJS-R18 — Class-scaled lane staffing and competency redundancy for materially binding stewardship
-
-Summary: **Purpose and owner boundary.** This section governs institutional handling of innovation-reward systems where constitutional adoption brings them within scope. Constitutional meaning remains in **Chapter Five** (*Innovation Reward and Anti-Enclosure*) and...
-
-### 2. CI-9.3: Delegated subunits, institutional design class, and attachment discipline
+### 1. CI-9.3: Delegated subunits, institutional design class, and attachment discipline
 
 - Source: `corpus_institutions/ci_09_classification_linked_institutional_obligations.md:112`
 - Score / confidence: 32 / high
@@ -46,7 +35,7 @@ Summary: **Purpose.** This subsection applies the shared delegated-body abstract
 Near CJS matches:
 - 0.36: `corpus_joint_structure/cjs_03_joint_structural_obligations.md:163` (CJS-3.5 Classification alignment for supervised scope) — When an institution supervises systems governed by `corpus_systems.md` **Chapter S2** or **Chapter S3**, its published maps under **CI-9....
 
-### 3. CI-1: Scope, purpose, and legitimacy interface
+### 2. CI-1: Scope, purpose, and legitimacy interface
 
 - Source: `corpus_institutions/ci_01_scope_purpose_legitimacy_interface.md:23`
 - Score / confidence: 30 / high
@@ -57,6 +46,18 @@ Near CJS matches:
 - Keep-in-CI cautions: local procedure
 
 Summary: **Constitutional index (abridged)** - Apply `corpus_joint_structure.md` **CJS-1.1** (*Shared implementation-corpus preamble contract*), **CJS-1.3** (*Joint structural boundary and owner discipline*), **CJS-2.2** (*Topic router (stable IDs)*), and **CJS-3.6*...
+
+### 3. CI-16: Innovation reward, disclosure, and anti-enclosure
+
+- Source: `corpus_institutions/ci_16_innovation_reward_disclosure_anti_enclosure.md:1`
+- Score / confidence: 29 / high
+- Suggested action: `split-CI-and-CJS`
+- Proposed CJS destination: CJS-5B, CJS-3 / CJS-4, CJS-5D
+- Signals: joint-interface(2), routing-read-with(6), cjs-cluster(1), shared-procedure(5), dependency-failure(4), forum-system-touch(8)
+- Router matches: CJS-R19 — Implementation and cross-implementation integrity assurance and resilience operations; CJS-R17 — Cross-implementation trust integrity (joint operation model); CJS-R15 — Contest-integrity monitoring (pathway integrity, not merits)
+- Keep-in-CI cautions: local procedure
+
+Summary: **Purpose and owner boundary.** This section governs institutional handling of innovation-reward systems where constitutional adoption brings them within scope. Constitutional meaning remains in **Chapter Five** (*Innovation Reward and Anti-Enclosure*) and...
 
 ### 4. CI-15: Vulnerable personal services markets — general regulation and Article X-C interface
 
