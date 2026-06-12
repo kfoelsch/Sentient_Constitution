@@ -1,10 +1,33 @@
+# Constitutional Institutions
+
+**Corpus edition:** `SC-Corpus-2026.04.32`  
+**Effective date:** 2026-04-24  
+*(Edition alignment: same labels as the Sentient Constitution `core_*.md` files (see [README.md](../README.md)), `corpus_joint_structure.md`, `corpus_systems.md`, and `corpus_forum.md`.)*
+
+This file is intentionally written in plain language with low jargon to improve accessibility, audit readability, and practical adoption testing.
+
+It defines institutional governance law: the operational rules for how institutions are formed, authorized, overseen, corrected, and dissolved within constitutional boundaries. It does not redefine constitutional terms, Rights Floors, or offense taxonomy.
+
+**Non-core Corpus Document**
+
+This file is part of the constitutional corpus as **binding incorporated implementation text** where **Corpus** designates it, incorporated through **Sentient Constitution Chapter Fifteen**.
+
+Canonical meaning for constitutional terms, Rights Floors, and definition-satisfaction rules remains in the Sentient Constitution and canonical owners in `doc_architecture.md`; nothing here transfers that authority.
+
+Shared preamble contract: apply `corpus_joint_structure.md` **CJS-1.1** (*Shared implementation-corpus preamble contract*).
+
+**Implementation cross-reference index (routing only):** This implementation file is read with Chapter Five constitutional definitions and `corpus_joint_structure.md` **CJS-5** (*Implementation and cross-implementation operational cluster library*) operational clusters where materially applicable. This index is routing guidance only and does not redefine owner-layer meaning.
+
+
+---
+
 ## CI-1: Scope, purpose, and legitimacy interface
 
 **Constitutional index (abridged)**
 - Topic-level routing and cited authorities remain in subsection text and cross-references.
 - Canonical owner map: `corpus_joint_structure.md` **CJS-2.2** (*Topic router (stable IDs)*) and `doc_architecture.md` section 4.
 
-This file governs how institutions are formed, authorized, overseen, corrected, and dissolved within constitutional boundaries.
+CI-1 governs the scope, purpose, legitimacy interface, and reading rules for institutional implementation.
 
 Institutions may design local procedures, but those procedures must remain consistent with constitutional hierarchy, rights, and challenge pathways.
 
@@ -85,5 +108,4 @@ Institutional burden must scale with impact.
 
 ---
 
-**Previous file:** [ci_00_registry_and_reading_rules.md](ci_00_registry_and_reading_rules.md)
 **Next file:** [ci_02_institutional_design_separation_of_powers.md](ci_02_institutional_design_separation_of_powers.md)

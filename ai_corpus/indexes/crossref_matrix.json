@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/crossref_matrix.schema.json",
-  "generated_at": "2026-06-11T23:17:21+00:00",
+  "generated_at": "2026-06-12T00:25:31+00:00",
   "description": "Source-derived file-to-file Markdown reference graph.",
   "graph": {
     "nodes": [
@@ -130,10 +130,6 @@
       },
       {
         "id": "corpus_joint_structure/cjs_05e_00_failure_robustness_intervention_correction.md",
-        "type": "companion"
-      },
-      {
-        "id": "corpus_institutions/ci_00_registry_and_reading_rules.md",
         "type": "companion"
       },
       {
@@ -3541,13 +3537,8 @@
         "source": "corpus_institutions.md",
         "targets": [
           {
-            "file": "corpus_institutions/ci_00_registry_and_reading_rules.md",
-            "count": 2,
-            "anchors": []
-          },
-          {
             "file": "corpus_institutions/ci_01_scope_purpose_legitimacy_interface.md",
-            "count": 1,
+            "count": 2,
             "anchors": []
           },
           {
@@ -4913,156 +4904,6 @@
         ]
       },
       {
-        "source": "corpus_institutions/ci_00_registry_and_reading_rules.md",
-        "targets": [
-          {
-            "file": "corpus_institutions/ci_01_scope_purpose_legitimacy_interface.md",
-            "count": 2,
-            "anchors": []
-          },
-          {
-            "file": "corpus_institutions/ci_02_institutional_design_separation_of_powers.md",
-            "count": 1,
-            "anchors": []
-          },
-          {
-            "file": "corpus_institutions/ci_03_authority_custody_delegation_risk_profile.md",
-            "count": 1,
-            "anchors": []
-          },
-          {
-            "file": "corpus_institutions/ci_04_appointment_competency_rotation_removal.md",
-            "count": 1,
-            "anchors": []
-          },
-          {
-            "file": "corpus_institutions/ci_05_conflict_integrity_anti_capture_anti_corruption.md",
-            "count": 1,
-            "anchors": []
-          },
-          {
-            "file": "corpus_institutions/ci_06_procedure_integrity_contestability_secondary_review.md",
-            "count": 1,
-            "anchors": []
-          },
-          {
-            "file": "corpus_institutions/ci_07_oversight_assurance_controls_evidence.md",
-            "count": 1,
-            "anchors": []
-          },
-          {
-            "file": "corpus_institutions/ci_08_forum_forensic_analytical_support.md",
-            "count": 1,
-            "anchors": []
-          },
-          {
-            "file": "corpus_institutions/ci_09_independent_investigative_service.md",
-            "count": 1,
-            "anchors": []
-          },
-          {
-            "file": "corpus_institutions/ci_10_technical_forums_science_engineering_medicine.md",
-            "count": 1,
-            "anchors": []
-          },
-          {
-            "file": "corpus_institutions/ci_11_cross_institution_coordination_escalation.md",
-            "count": 1,
-            "anchors": []
-          },
-          {
-            "file": "corpus_institutions/ci_12_classification_linked_institutional_obligations.md",
-            "count": 1,
-            "anchors": []
-          },
-          {
-            "file": "corpus_institutions/ci_13_public_revenue_fees_recurring_charges_billing_integrity.md",
-            "count": 1,
-            "anchors": []
-          },
-          {
-            "file": "corpus_institutions/ci_14_resource_stewardship_incentive_integrity.md",
-            "count": 1,
-            "anchors": []
-          },
-          {
-            "file": "corpus_institutions/ci_15_transparency_participation_accessible_pathways.md",
-            "count": 1,
-            "anchors": []
-          },
-          {
-            "file": "corpus_institutions/ci_16_institutional_failure_sanctions_dissolution_accountability.md",
-            "count": 1,
-            "anchors": []
-          },
-          {
-            "file": "corpus_institutions/ci_17_transitional_governance_institutional_evolution.md",
-            "count": 1,
-            "anchors": []
-          },
-          {
-            "file": "corpus_institutions/ci_18_vulnerable_personal_services_markets_article_xc_interface.md",
-            "count": 1,
-            "anchors": []
-          },
-          {
-            "file": "corpus_institutions/ci_19_innovation_reward_disclosure_anti_enclosure.md",
-            "count": 1,
-            "anchors": []
-          },
-          {
-            "file": "corpus_institutions/ci_20_scientific_publication_peer_review_replication_evidence_stewardship.md",
-            "count": 1,
-            "anchors": []
-          },
-          {
-            "file": "corpus_institutions/ci_21_community_life_voluntary_association_non_instrumental_time.md",
-            "count": 1,
-            "anchors": []
-          },
-          {
-            "file": "corpus_institutions/ci_22_end_of_life_continuity_memorial_dignity_posthumous_data.md",
-            "count": 1,
-            "anchors": []
-          },
-          {
-            "file": "corpus_institutions/ci_23_care_labor_dependent_support_respite_care_economy_fairness.md",
-            "count": 1,
-            "anchors": []
-          },
-          {
-            "file": "corpus_institutions/ci_24_relational_coercive_control_intimate_power_anti_domination.md",
-            "count": 1,
-            "anchors": []
-          },
-          {
-            "file": "corpus_institutions/ci_25_commons_cooperatives_mutual_aid_non_market_governance.md",
-            "count": 1,
-            "anchors": []
-          },
-          {
-            "file": "corpus_institutions/ci_26_place_based_stewardship_indigenous_continuity_consultation.md",
-            "count": 1,
-            "anchors": []
-          },
-          {
-            "file": "corpus_institutions/ci_27_neurodiversity_disability_justice_trauma_informed_participation.md",
-            "count": 1,
-            "anchors": []
-          },
-          {
-            "file": "corpus_institutions/ci_28_collective_public_health_epidemic_response_addiction_informed_care.md",
-            "count": 1,
-            "anchors": []
-          },
-          {
-            "file": "corpus_institutions/ci_29_compliance_mapping_stable_registry.md",
-            "count": 1,
-            "anchors": []
-          }
-        ]
-      },
-      {
         "source": "corpus_institutions/ci_01_scope_purpose_legitimacy_interface.md",
         "targets": [
           {
@@ -5086,11 +4927,6 @@
             "anchors": [
               "#chapter-eight-anti-constitutional-misconduct"
             ]
-          },
-          {
-            "file": "corpus_institutions/ci_00_registry_and_reading_rules.md",
-            "count": 1,
-            "anchors": []
           },
           {
             "file": "corpus_institutions/ci_02_institutional_design_separation_of_powers.md",

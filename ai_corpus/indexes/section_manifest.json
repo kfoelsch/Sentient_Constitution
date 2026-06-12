@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-06-11T23:17:21+00:00",
+  "generated_at": "2026-06-12T00:25:31+00:00",
   "files": {
     "core_00-01_principles.md": {
       "total_lines": 1506,
@@ -5217,20 +5217,20 @@
       ]
     },
     "corpus_institutions.md": {
-      "total_lines": 46,
+      "total_lines": 45,
       "sections": [
         {
           "header": "Constitutional Institutions",
           "level": 1,
           "line_start": 1,
-          "line_end": 46,
+          "line_end": 45,
           "anchor": null
         },
         {
           "header": "Institutions Index",
           "level": 2,
           "line_start": 9,
-          "line_end": 46,
+          "line_end": 45,
           "anchor": null
         }
       ]
@@ -5741,110 +5741,63 @@
         }
       ]
     },
-    "corpus_institutions/ci_00_registry_and_reading_rules.md": {
-      "total_lines": 73,
+    "corpus_institutions/ci_01_scope_purpose_legitimacy_interface.md": {
+      "total_lines": 111,
       "sections": [
         {
           "header": "Constitutional Institutions",
           "level": 1,
           "line_start": 1,
-          "line_end": 73,
+          "line_end": 111,
           "anchor": null
         },
-        {
-          "header": "INSTITUTIONS REGISTRY (stable section families)",
-          "level": 2,
-          "line_start": 23,
-          "line_end": 73,
-          "anchor": null
-        },
-        {
-          "header": "Governance foundations",
-          "level": 3,
-          "line_start": 27,
-          "line_end": 36,
-          "anchor": null
-        },
-        {
-          "header": "Forum-adjacent and specialist institutional supports",
-          "level": 3,
-          "line_start": 37,
-          "line_end": 42,
-          "anchor": null
-        },
-        {
-          "header": "Scaling, fiscal, stewardship, and participation",
-          "level": 3,
-          "line_start": 43,
-          "line_end": 50,
-          "anchor": null
-        },
-        {
-          "header": "Failure, transition, and domain overlays",
-          "level": 3,
-          "line_start": 51,
-          "line_end": 66,
-          "anchor": null
-        },
-        {
-          "header": "Registry appendix",
-          "level": 3,
-          "line_start": 67,
-          "line_end": 73,
-          "anchor": null
-        }
-      ]
-    },
-    "corpus_institutions/ci_01_scope_purpose_legitimacy_interface.md": {
-      "total_lines": 89,
-      "sections": [
         {
           "header": "CI-1: Scope, purpose, and legitimacy interface",
           "level": 2,
-          "line_start": 1,
-          "line_end": 89,
+          "line_start": 24,
+          "line_end": 111,
           "anchor": null
         },
         {
           "header": "CI-1.1: Definition discipline and source hierarchy",
           "level": 3,
-          "line_start": 15,
-          "line_end": 22,
+          "line_start": 38,
+          "line_end": 45,
           "anchor": null
         },
         {
           "header": "CI-1.2: Operational structure and subsection-local terminology",
           "level": 3,
-          "line_start": 23,
-          "line_end": 43,
+          "line_start": 46,
+          "line_end": 66,
           "anchor": null
         },
         {
           "header": "CI-1.3: Operational clusters",
           "level": 3,
-          "line_start": 44,
-          "line_end": 67,
+          "line_start": 67,
+          "line_end": 90,
           "anchor": null
         },
         {
           "header": "CI-1.4: Section identifiers and article references",
           "level": 3,
-          "line_start": 68,
-          "line_end": 72,
+          "line_start": 91,
+          "line_end": 95,
           "anchor": null
         },
         {
           "header": "CI-1.5: Anti-constitutional misconduct usage in this file",
           "level": 3,
-          "line_start": 73,
-          "line_end": 75,
+          "line_start": 96,
+          "line_end": 98,
           "anchor": null
         },
         {
           "header": "CI-1.6: Proportionality rule",
           "level": 3,
-          "line_start": 76,
-          "line_end": 89,
+          "line_start": 99,
+          "line_end": 111,
           "anchor": null
         }
       ]

@@ -10,8 +10,7 @@
 
 | Stable family | Authoritative subfile |
 |---|---|
-| Opening title, status, scope, and registry | [ci_00_registry_and_reading_rules.md](corpus_institutions/ci_00_registry_and_reading_rules.md) |
-| CI-1: Scope, purpose, and legitimacy interface | [ci_01_scope_purpose_legitimacy_interface.md](corpus_institutions/ci_01_scope_purpose_legitimacy_interface.md) |
+| Opening title, status, scope, and CI-1: Scope, purpose, and legitimacy interface | [ci_01_scope_purpose_legitimacy_interface.md](corpus_institutions/ci_01_scope_purpose_legitimacy_interface.md) |
 | CI-2: Institutional design and separation of powers | [ci_02_institutional_design_separation_of_powers.md](corpus_institutions/ci_02_institutional_design_separation_of_powers.md) |
 | CI-3: Authority custody, delegation, and risk profile | [ci_03_authority_custody_delegation_risk_profile.md](corpus_institutions/ci_03_authority_custody_delegation_risk_profile.md) |
 | CI-4: Appointment, competency, rotation, and removal | [ci_04_appointment_competency_rotation_removal.md](corpus_institutions/ci_04_appointment_competency_rotation_removal.md) |
@@ -43,4 +42,4 @@
 
 ---
 
-**Next file:** [ci_00_registry_and_reading_rules.md](corpus_institutions/ci_00_registry_and_reading_rules.md)
+**Next file:** [ci_01_scope_purpose_legitimacy_interface.md](corpus_institutions/ci_01_scope_purpose_legitimacy_interface.md)
