@@ -1,4 +1,28 @@
 ## CI-14: Transitional governance and institutional evolution
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Upstream: [CJS-1.1](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-11-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.2](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-22-topic-router-stable-ids) topic router; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions; and [Chapter Ten](../core_10-10_rights_part_a.md#chapter-ten-foundational-rights) rights architecture where rights interfaces are invoked.
+- Downstream: [CI-14.1: Interface — Article XXV-D (non-compliant property, seizure, voluntary incentives)](#ci-141-interface-article-xxv-d-non-compliant-property-seizure-voluntary-incentives); [CI-14.2: Article XXV-D — trigger catalog, anti-abuse metrics, and publication requirements](#ci-142-article-xxv-d-trigger-catalog-anti-abuse-metrics-and-publication-requirements).
+- Read with: **CI-14**; **CI-14.1**; **CI-5**; **CI-11**; **CI-14.2**; [CJS-1.1](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-11-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.2](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-22-topic-router-stable-ids) topic router.
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
+
+- [Contestability](../core_05-05_definitions_b_semi_independent.md#contestability) · [O](../core_05-05_definitions_b_semi_independent.md#contestability) · [E](../core_05-05_definitions_b_semi_independent.md#contestability-e) · [C](../core_05-05_definitions_b_semi_independent.md#contestability-c)
+- [Reversibility](../core_05-05_definitions_a_independent.md#reversibility-constitutional) · [O](../core_05-05_definitions_a_independent.md#reversibility-constitutional) · [E](../core_05-05_definitions_a_independent.md#reversibility-constitutional-e) · [C](../core_05-05_definitions_a_independent.md#reversibility-constitutional-c)
+- [Governance](../core_05-05_definitions_b_semi_independent.md#governance) · [O](../core_05-05_definitions_b_semi_independent.md#governance) · [E](../core_05-05_definitions_b_semi_independent.md#governance-e) · [C](../core_05-05_definitions_b_semi_independent.md#governance-c)
+- [Oversight](../core_05-05_definitions_a_independent.md#oversight-constitutional) · [O](../core_05-05_definitions_a_independent.md#oversight-constitutional) · [E](../core_05-05_definitions_a_independent.md#oversight-constitutional-e) · [C](../core_05-05_definitions_a_independent.md#oversight-constitutional-c)
+- [Material](../core_05-05_definitions_b_semi_independent.md#material) · [O](../core_05-05_definitions_b_semi_independent.md#material) · [E](../core_05-05_definitions_b_semi_independent.md#material-e) · [C](../core_05-05_definitions_b_semi_independent.md#material-c)
+- [Sentient](../core_05-05_definitions_c_dependent_clusters.md#sentient-composite) · [O](../core_05-05_definitions_c_dependent_clusters.md#sentient-composite) · [E](../core_05-05_definitions_c_dependent_clusters.md#sentient-composite-e) · [C](../core_05-05_definitions_c_dependent_clusters.md#sentient-composite-c)
+- [Corpus](../core_05-05_definitions_c_dependent_clusters.md#corpus) · [O](../core_05-05_definitions_c_dependent_clusters.md#corpus) · [E](../core_05-05_definitions_c_dependent_clusters.md#corpus-e) · [C](../core_05-05_definitions_c_dependent_clusters.md#corpus-c)
+
+</details>
+
+<br>
+
 
 Institutional redesign, consolidation, or transfer must preserve non-regression and continuity duties. Where the transition materially involves constitutional systems, institutions must read this section with `corpus_systems.md` **Protocol T** (*Transition Constitution and Migration Governance*). **CI-14** (*Transitional governance and institutional evolution*) states the institutional custody, authorization, and oversight interface; Protocol T remains the operative home for system phase structure, gate criteria, fallback handling, off-ramps, and re-baselining mechanics.
 
@@ -10,6 +34,30 @@ Institutional transition interface (Article XXV interface):
 - document material institutional transition decisions, delays, reversals, and remediation actions in auditable form with rationale and risk implications.
 
 ### CI-14.1: Interface — Article XXV-D (non-compliant property, seizure, voluntary incentives)
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Upstream: [CJS-1.1](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-11-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.2](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-22-topic-router-stable-ids) topic router; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions; and [Chapter Ten](../core_10-10_rights_part_a.md#chapter-ten-foundational-rights) rights architecture where rights interfaces are invoked.
+- Downstream: this section's local operational requirements for **CI-14.1: Interface — Article XXV-D (non-compliant property, seizure, voluntary incentives)**.
+- Read with: **CI-14.1**; **CI-5**; **CI-11**.
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
+
+- [Contestability](../core_05-05_definitions_b_semi_independent.md#contestability) · [O](../core_05-05_definitions_b_semi_independent.md#contestability) · [E](../core_05-05_definitions_b_semi_independent.md#contestability-e) · [C](../core_05-05_definitions_b_semi_independent.md#contestability-c)
+- [Governance](../core_05-05_definitions_b_semi_independent.md#governance) · [O](../core_05-05_definitions_b_semi_independent.md#governance) · [E](../core_05-05_definitions_b_semi_independent.md#governance-e) · [C](../core_05-05_definitions_b_semi_independent.md#governance-c)
+- [Material](../core_05-05_definitions_b_semi_independent.md#material) · [O](../core_05-05_definitions_b_semi_independent.md#material) · [E](../core_05-05_definitions_b_semi_independent.md#material-e) · [C](../core_05-05_definitions_b_semi_independent.md#material-c)
+- [Sentient](../core_05-05_definitions_c_dependent_clusters.md#sentient-composite) · [O](../core_05-05_definitions_c_dependent_clusters.md#sentient-composite) · [E](../core_05-05_definitions_c_dependent_clusters.md#sentient-composite-e) · [C](../core_05-05_definitions_c_dependent_clusters.md#sentient-composite-c)
+- [Corpus](../core_05-05_definitions_c_dependent_clusters.md#corpus) · [O](../core_05-05_definitions_c_dependent_clusters.md#corpus) · [E](../core_05-05_definitions_c_dependent_clusters.md#corpus-e) · [C](../core_05-05_definitions_c_dependent_clusters.md#corpus-c)
+- [System](../core_05-05_definitions_b_semi_independent.md#system-definition) · [O](../core_05-05_definitions_b_semi_independent.md#system-definition) · [E](../core_05-05_definitions_b_semi_independent.md#system-definition-e) · [C](../core_05-05_definitions_b_semi_independent.md#system-definition-c)
+- [Reversibility](../core_05-05_definitions_a_independent.md#reversibility-constitutional) · [O](../core_05-05_definitions_a_independent.md#reversibility-constitutional) · [E](../core_05-05_definitions_a_independent.md#reversibility-constitutional-e) · [C](../core_05-05_definitions_a_independent.md#reversibility-constitutional-c)
+
+</details>
+
+<br>
+
 Where transition plans address **non-compliant property or systems** under **Sentient Constitution Chapter Ten, Article XXV-D**, institutions must publish and maintain:
 
 - **Eligibility and process:** clear criteria linking measures to **Chapter Six** compliance determinations (read with **Chapter Four** burden and traceability where applicable) or equivalent binding findings, **notice** where feasible, **contest or review** pathways, and **time limits** on seizure, impoundment, or quarantine.
@@ -29,6 +77,30 @@ Scenario-based continuity and succession stress tests must run on a cadence prop
 **See also:** For **Class A**, **Class B**, and **Critical System Steward** scope (`corpus_systems.md` **Chapter S2** and **Chapter S3**), **`corpus_systems.md` Protocol A**, subsection **G** (*Governance continuity, crisis communications, and exercises*) states complementary governance continuity, exercise, and audit-trail expectations; **CI-11** (*Resource stewardship and incentive integrity*) states the institutional trigger and supervisory interface.
 
 ### CI-14.2: Article XXV-D — trigger catalog, anti-abuse metrics, and publication requirements
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Upstream: [CJS-1.1](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-11-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.2](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-22-topic-router-stable-ids) topic router; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions; and [Chapter Ten](../core_10-10_rights_part_a.md#chapter-ten-foundational-rights) rights architecture where rights interfaces are invoked.
+- Downstream: this section's local operational requirements for **CI-14.2: Article XXV-D — trigger catalog, anti-abuse metrics, and publication requirements**.
+- Read with: **CI-14.2**.
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
+
+- [Evidence Preservation](../core_05-05_definitions_c_dependent_clusters.md#evidence-preservation) · [O](../core_05-05_definitions_c_dependent_clusters.md#evidence-preservation) · [E](../core_05-05_definitions_c_dependent_clusters.md#evidence-preservation-e) · [C](../core_05-05_definitions_c_dependent_clusters.md#evidence-preservation-c)
+- [Accountability](../core_05-05_definitions_b_semi_independent.md#accountability) · [O](../core_05-05_definitions_b_semi_independent.md#accountability) · [E](../core_05-05_definitions_b_semi_independent.md#accountability-e) · [C](../core_05-05_definitions_b_semi_independent.md#accountability-c)
+- [Stakeholder](../core_05-05_definitions_b_semi_independent.md#stakeholder) · [O](../core_05-05_definitions_b_semi_independent.md#stakeholder) · [E](../core_05-05_definitions_b_semi_independent.md#stakeholder-e) · [C](../core_05-05_definitions_b_semi_independent.md#stakeholder-c)
+- [Oversight](../core_05-05_definitions_a_independent.md#oversight-constitutional) · [O](../core_05-05_definitions_a_independent.md#oversight-constitutional) · [E](../core_05-05_definitions_a_independent.md#oversight-constitutional-e) · [C](../core_05-05_definitions_a_independent.md#oversight-constitutional-c)
+- [Reversibility](../core_05-05_definitions_a_independent.md#reversibility-constitutional) · [O](../core_05-05_definitions_a_independent.md#reversibility-constitutional) · [E](../core_05-05_definitions_a_independent.md#reversibility-constitutional-e) · [C](../core_05-05_definitions_a_independent.md#reversibility-constitutional-c)
+- [Emergency and Contingency](../core_05-05_definitions_b_semi_independent.md#emergency-and-contingency-constitutional) · [O](../core_05-05_definitions_b_semi_independent.md#emergency-and-contingency-constitutional) · [E](../core_05-05_definitions_b_semi_independent.md#emergency-and-contingency-constitutional-e) · [C](../core_05-05_definitions_b_semi_independent.md#emergency-and-contingency-constitutional-c)
+- [Constitutional Constraint Violation](../core_05-05_definitions_c_dependent_clusters.md#constitutional-constraint-violation) · [O](../core_05-05_definitions_c_dependent_clusters.md#constitutional-constraint-violation) · [E](../core_05-05_definitions_c_dependent_clusters.md#constitutional-constraint-violation-e) · [C](../core_05-05_definitions_c_dependent_clusters.md#constitutional-constraint-violation-c)
+
+</details>
+
+<br>
+
 
 **Constitutional home:** **Chapter Ten**, **Article XXV-D** (*Non-Compliant Property, Seizure, Impoundment, Quarantine, Forfeiture, and Voluntary Turnover Incentives*). This subsection is **implementation-only**; it does not restate the Rights Floor.
 
