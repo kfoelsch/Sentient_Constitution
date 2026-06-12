@@ -355,8 +355,8 @@
     "file": "corpus_institutions/ci_14_transitional_governance_institutional_evolution.md",
     "section_id": "CI-14.1",
     "title": "Interface \u2014 Article XXV-D (non-compliant property, seizure, voluntary incentives)",
-    "start_line": 36,
-    "end_line": 78,
+    "start_line": 34,
+    "end_line": 76,
     "score": 19,
     "confidence": "high",
     "action": "split-CI-and-CJS",
@@ -379,6 +379,39 @@
     "similar_cjs": [],
     "keep_notes": [],
     "summary": "Where transition plans address **non-compliant property or systems** under **Sentient Constitution Chapter Ten, Article XXV-D**, institutions must publish and maintain: - **Eligibility and process:** clear criteria linking measures to **Chapter Six** compli..."
+  },
+  {
+    "file": "corpus_institutions/ci_13_institutional_failure_sanctions_dissolution_accountability.md",
+    "section_id": "CI-13",
+    "title": "Institutional failure, sanctions, dissolution, and accountability",
+    "start_line": 1,
+    "end_line": 52,
+    "score": 18,
+    "confidence": "high",
+    "action": "split-CI-and-CJS",
+    "destinations": [
+      "CJS-5C",
+      "CJS-5D",
+      "CJS-5E"
+    ],
+    "signals": [
+      "joint-interface(1)",
+      "multi-owner-routing(1)",
+      "routing-read-with(3)",
+      "cjs-cluster(1)",
+      "dependency-failure(1)",
+      "forum-system-touch(2)"
+    ],
+    "router_rows": [
+      "CJS-R19 \u2014 Implementation and cross-implementation integrity assurance and resilience operations",
+      "CJS-R17 \u2014 Cross-implementation trust integrity (joint operation model)",
+      "CJS-R15 \u2014 Contest-integrity monitoring (pathway integrity, not merits)"
+    ],
+    "similar_cjs": [],
+    "keep_notes": [
+      "dissolution"
+    ],
+    "summary": "**Constitutional index (abridged)** - Topic-level routing and cited authorities remain in subsection text and cross-references. - Canonical owner map: `corpus_joint_structure.md` **CJS-2.2** (*Topic router (stable IDs)*) and `doc_architecture.md` section 4...."
   },
   {
     "file": "corpus_institutions/ci_08_cross_institution_coordination_escalation.md",
@@ -510,36 +543,6 @@
     "summary": "**Purpose.** This subsection records institutional requirements for **recurring and transaction-linked charges**, including subscriptions, memberships, paid tiers, and trial-to-paid conversion, where institutions **supervise, charter, or set compliance expe..."
   },
   {
-    "file": "corpus_institutions/ci_21_relational_coercive_control_intimate_power_anti_domination.md",
-    "section_id": "CI-21",
-    "title": "Relational coercive control, intimate power, and anti-domination routing",
-    "start_line": 1,
-    "end_line": 40,
-    "score": 14,
-    "confidence": "high",
-    "action": "split-CI-and-CJS",
-    "destinations": [
-      "CJS-5D",
-      "CJS-5C",
-      "CJS-4.4"
-    ],
-    "signals": [
-      "multi-owner-routing(1)",
-      "routing-read-with(2)",
-      "shared-procedure(1)",
-      "dependency-failure(2)",
-      "forum-system-touch(4)"
-    ],
-    "router_rows": [
-      "CJS-R19 \u2014 Implementation and cross-implementation integrity assurance and resilience operations",
-      "CJS-R17 \u2014 Cross-implementation trust integrity (joint operation model)",
-      "CJS-R15 \u2014 Contest-integrity monitoring (pathway integrity, not merits)"
-    ],
-    "similar_cjs": [],
-    "keep_notes": [],
-    "summary": "**Purpose.** This section makes **coercive control**, **economic dependence**, **isolation**, **reproductive pressure**, and **reputation** **threats** **legible** in **institutional** **routes** when they occur in **intimate**, **household**, **care**, **w..."
-  },
-  {
     "file": "corpus_institutions/ci_18_community_life_voluntary_association_non_instrumental_time.md",
     "section_id": "CI-18",
     "title": "Community life, voluntary association, and non-instrumental time",
@@ -567,68 +570,6 @@
     "similar_cjs": [],
     "keep_notes": [],
     "summary": "**Purpose.** This section records **institutional and system design expectations** for **community belonging**, **cultural gathering**, **play**, **recreation**, **solitude**, and **non-productive time** that are **adjacent to** but **not exhausted by** **A..."
-  },
-  {
-    "file": "corpus_institutions/ci_14_transitional_governance_institutional_evolution.md",
-    "section_id": "CI-14",
-    "title": "Transitional governance and institutional evolution",
-    "start_line": 1,
-    "end_line": 35,
-    "score": 13,
-    "confidence": "high",
-    "action": "split-CI-and-CJS",
-    "destinations": [
-      "CJS-5D",
-      "CJS-5A / CJS-4.1 / CJS-4.7",
-      "CJS-5B"
-    ],
-    "signals": [
-      "multi-owner-routing(1)",
-      "routing-read-with(3)",
-      "shared-procedure(1)",
-      "forum-system-touch(3)"
-    ],
-    "router_rows": [
-      "CJS-R19 \u2014 Implementation and cross-implementation integrity assurance and resilience operations",
-      "CJS-R17 \u2014 Cross-implementation trust integrity (joint operation model)",
-      "CJS-R11 \u2014 Forum continuity"
-    ],
-    "similar_cjs": [],
-    "keep_notes": [
-      "dissolution"
-    ],
-    "summary": "Institutional redesign, consolidation, or transfer must preserve non-regression and continuity duties. Where the transition materially involves constitutional systems, institutions must read this section with `corpus_systems.md` **Protocol T** (*Transition..."
-  },
-  {
-    "file": "corpus_institutions/ci_13_institutional_failure_sanctions_dissolution_accountability.md",
-    "section_id": "CI-13",
-    "title": "Institutional failure, sanctions, dissolution, and accountability",
-    "start_line": 1,
-    "end_line": 52,
-    "score": 13,
-    "confidence": "high",
-    "action": "split-CI-and-CJS",
-    "destinations": [
-      "CJS-5D",
-      "CJS-5C",
-      "CJS-5B"
-    ],
-    "signals": [
-      "joint-interface(1)",
-      "routing-read-with(3)",
-      "dependency-failure(2)",
-      "forum-system-touch(2)"
-    ],
-    "router_rows": [
-      "CJS-R19 \u2014 Implementation and cross-implementation integrity assurance and resilience operations",
-      "CJS-R17 \u2014 Cross-implementation trust integrity (joint operation model)",
-      "CJS-R15 \u2014 Contest-integrity monitoring (pathway integrity, not merits)"
-    ],
-    "similar_cjs": [],
-    "keep_notes": [
-      "dissolution"
-    ],
-    "summary": "**Constitutional index (abridged)** - Topic-level routing and cited authorities remain in subsection text and cross-references. - Canonical owner map: `corpus_joint_structure.md` **CJS-2.2** (*Topic router (stable IDs)*) and `doc_architecture.md` section 4...."
   },
   {
     "file": "corpus_institutions/ci_20_care_labor_dependent_support_respite_care_economy_fairness.md",
@@ -872,6 +813,33 @@
     "summary": "Institutions must maintain role criteria that are clear, relevant to impact, and accessible to qualified participants. Role assignment must not rely on arbitrary gatekeeping. Each institution must maintain: - qualification standards, - disqualification stan..."
   },
   {
+    "file": "corpus_institutions/ci_14_transitional_governance_institutional_evolution.md",
+    "section_id": "CI-14",
+    "title": "Transitional governance and institutional evolution",
+    "start_line": 1,
+    "end_line": 33,
+    "score": 8,
+    "confidence": "medium",
+    "action": "replace-with-pointer",
+    "destinations": [
+      "CJS-5D",
+      "CJS-3 / CJS-4"
+    ],
+    "signals": [
+      "multi-owner-routing(1)",
+      "routing-read-with(1)",
+      "forum-system-touch(3)"
+    ],
+    "router_rows": [
+      "CJS-R17 \u2014 Cross-implementation trust integrity (joint operation model)",
+      "CJS-R19 \u2014 Implementation and cross-implementation integrity assurance and resilience operations",
+      "CJS-R11 \u2014 Forum continuity"
+    ],
+    "similar_cjs": [],
+    "keep_notes": [],
+    "summary": "Institutional redesign, consolidation, or transfer must preserve non-regression and continuity duties. Apply `corpus_joint_structure.md` **CJS-5D.3** (*Implementation and cross-implementation data-retention and lifecycle-integrity terms*) **Transition conti..."
+  },
+  {
     "file": "corpus_institutions/ci_06_procedure_integrity_contestability_secondary_review.md",
     "section_id": "CI-6",
     "title": "Procedure integrity, contestability, and secondary review",
@@ -1076,8 +1044,8 @@
     "file": "corpus_institutions/ci_14_transitional_governance_institutional_evolution.md",
     "section_id": "CI-14.2",
     "title": "Article XXV-D \u2014 trigger catalog, anti-abuse metrics, and publication requirements",
-    "start_line": 79,
-    "end_line": 128,
+    "start_line": 77,
+    "end_line": 126,
     "score": 5,
     "confidence": "low",
     "action": "needs-human-review",

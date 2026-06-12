@@ -26,11 +26,11 @@
 
 **Purpose.** This section makes **coercive control**, **economic dependence**, **isolation**, **reproductive pressure**, and **reputation** **threats** **legible** in **institutional** **routes** when they occur in **intimate**, **household**, **care**, **workplace**, **community**, or **platform** **contexts** — **without** **dissolving** **private** **association** or **conscience** **protections** that **Chapter Ten** **guarantees**.
 
-**1. Intake and classification (non-criminal).** **Hotlines**, **labor** **portals**, **platform** **abuse** **lanes**, and **family** **services** should **treat** **coercive-control** **patterns** as **first-class** **category** **inputs** to **safety** and **remedy** **routing**, not only as **discrete** **criminal** **labels** where those **do not** **fit**.
+Apply `corpus_joint_structure.md` **CJS-5D.2** (*Implementation and cross-implementation interoperability, portability, and exit-integrity terms*) **Dependency-based coercion and reputation-lock pathway integrity** for the shared rule on dependency sabotage, reputation or visibility traps, credential control, and pattern-based coercive routing. This section states the institutional application for intimate, household, care, workplace, community, and platform contexts.
 
-**2. Economic and credential asymmetry.** **Institutions** must **not** **require** a **formal** **marriage** or **contract** **label** to **recognize** **dependency** **sabotage** or **retaliation** that **defeats** **exit** or **remedy** **access**; **read** with **Article IX-A** and **CI-6** (*Procedure integrity, contestability, and secondary review*).
+**1. Intake and classification (non-criminal).** **Hotlines**, **labor** **portals**, **platform** **abuse** **lanes**, and **family** **services** should route **coercive-control** **patterns** as first-class inputs to **safety** and **remedy** pathways, not only as discrete criminal labels where those do not fit.
 
-**3. Platform and reputation systems.** **Reputation**, **scoring**, and **visibility** **tools** that **trap** **in-home** or **gig** **workers** route through **CI-12** (*Transparency, participation, and accessible pathways*), **CI-5** (*Conflict integrity, anti-capture, and anti-corruption*), and **`corpus_systems.md` Chapter S2** **section 9** as **applicable**.
+**2. Economic, credential, platform, and reputation asymmetry.** Institutional routes must apply the CJS-5D.2 floor to dependency sabotage or retaliation that defeats exit or remedy access; read with **Article IX-A**, **CI-6** (*Procedure integrity, contestability, and secondary review*), **CI-12** (*Transparency, participation, and accessible pathways*), **CI-5** (*Conflict integrity, anti-capture, and anti-corruption*), and **`corpus_systems.md` Chapter S2** section 9 as applicable.
 
 ---
 

@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-06-12T18:42:42+00:00",
+  "generated_at": "2026-06-12T21:03:31+00:00",
   "files": {
     "core_00-01_principles.md": {
       "total_lines": 1506,
@@ -5669,7 +5669,7 @@
       ]
     },
     "corpus_joint_structure/cjs_05d_00_dependency_exit_lifecycle_integrity.md": {
-      "total_lines": 308,
+      "total_lines": 318,
       "sections": [
         {
           "header": "CJS-5D: Dependency, exit, and lifecycle integrity",
@@ -5689,20 +5689,20 @@
           "header": "CJS-5D.2 Implementation and cross-implementation interoperability, portability, and exit-integrity terms",
           "level": 2,
           "line_start": 111,
-          "line_end": 219,
+          "line_end": 224,
           "anchor": null
         },
         {
           "header": "CJS-5D.3 Implementation and cross-implementation data-retention and lifecycle-integrity terms",
           "level": 2,
-          "line_start": 220,
-          "line_end": 308,
+          "line_start": 225,
+          "line_end": 318,
           "anchor": null
         }
       ]
     },
     "corpus_joint_structure/cjs_05e_00_failure_robustness_intervention_correction.md": {
-      "total_lines": 457,
+      "total_lines": 462,
       "sections": [
         {
           "header": "CJS-5E: Failure, robustness, intervention, and correction",
@@ -5743,7 +5743,7 @@
           "header": "CJS-5E.5 Implementation and cross-implementation structural review, correction urgency, and disclosure terms",
           "level": 2,
           "line_start": 389,
-          "line_end": 457,
+          "line_end": 462,
           "anchor": null
         }
       ]
@@ -6089,27 +6089,27 @@
       ]
     },
     "corpus_institutions/ci_14_transitional_governance_institutional_evolution.md": {
-      "total_lines": 128,
+      "total_lines": 126,
       "sections": [
         {
           "header": "CI-14: Transitional governance and institutional evolution",
           "level": 2,
           "line_start": 1,
-          "line_end": 128,
+          "line_end": 126,
           "anchor": null
         },
         {
           "header": "CI-14.1: Interface — Article XXV-D (non-compliant property, seizure, voluntary incentives)",
           "level": 3,
-          "line_start": 36,
-          "line_end": 78,
+          "line_start": 34,
+          "line_end": 76,
           "anchor": null
         },
         {
           "header": "CI-14.2: Article XXV-D — trigger catalog, anti-abuse metrics, and publication requirements",
           "level": 3,
-          "line_start": 79,
-          "line_end": 128,
+          "line_start": 77,
+          "line_end": 126,
           "anchor": null
         }
       ]

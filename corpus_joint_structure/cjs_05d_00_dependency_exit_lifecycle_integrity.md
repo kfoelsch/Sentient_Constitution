@@ -200,6 +200,11 @@ High-vulnerability personal-service pathway integrity
 - OP-E: Evaluation must compare labor, safety, contract, consumer, platform, payment, licensing, housing, data, reputation, reporting, dispute, and transition pathways together. Reviewers must verify that heightened controls rest on documented risk rather than stigma, moral disapproval, stereotype, or blanket exclusion; that fraud, coercion, consent defects, exploitation, harassment, privacy injury, and unfair terms remain enforceable through accessible routes; and that intermediaries or financial plumbing do not use generic risk categories to suppress lawful activity without proportionate justification.
 - OP-C: A personal-service pathway is non-compliant if it makes lawful participation functionally unavailable through fines, fees, zoning, licensing, platform visibility, payment denial, housing exclusion, data practices, or reporting design whose primary practical effect is prohibition or harassment without a lawful risk predicate; if decriminalization or non-penal treatment is used to deprioritize exploitation response; or if transition rules preserve obsolete penalties, records, or training norms after the governing floor has changed.
 
+Dependency-based coercion and reputation-lock pathway integrity
+- OP-O: Where dependency, credential control, reputation scoring, platform visibility, housing, care access, workplace leverage, household control, or comparable chokepoints can materially defeat exit, reporting, remedy, or participation, the pathway must treat coercive-control patterns as practical routing facts even when no single transaction, contract label, or criminal category captures the whole pattern.
+- OP-E: Evaluation must compare economic dependence, credential or account custody, data and reputation systems, visibility controls, retaliation risk, access to review, and practical alternatives together. Reviewers must verify that formal labels such as marriage, employment, tenancy, membership, contract, or platform account status do not hide dependency sabotage, isolation, reproductive pressure, reputation threats, or comparable coercive leverage that blocks meaningful exit or remedy.
+- OP-C: A pathway is non-compliant if it recognizes only isolated incidents while ignoring a pattern that functionally blocks exit or challenge; requires a formal relationship label before dependency sabotage can be routed; lets reputation, scoring, or visibility tools trap dependent participants; or treats private association, conscience, household, or community context as a blanket reason to make coercive control illegible.
+
 Exit-feasibility disclosure and dependency transparency
 - OP-O: Systems must disclose dependencies affecting exit, including switching costs, migration risk, alternatives, substitutability, and downstream impact.
 - OP-E: Evaluation must verify exit-relevant disclosures are complete, attributable, and auditable.
@@ -282,6 +287,11 @@ Accountability-preserving record floor
 - OP-O: Where required, retention must keep enough Type **C**, **G**, **H**, **I**, or **S** records to reconstruct material events, audit conduct, verify claims, support challenge and redress, preserve continuity, and recover from failure.
 - OP-E: Reviewers must verify that data minimization does not block investigations or hide responsibility.
 - OP-C: Invoking minimization to defeat accountability is non-compliant.
+
+Transition continuity and authority-transfer lifecycle integrity
+- OP-O: Material redesign, consolidation, dissolution, migration, or authority transfer must preserve continuity for rights, services, records, active challenge pathways, and accountable governance while the transition is underway.
+- OP-E: Reviewers must verify authority custody, review authority, evidence custody, interim scope, sunset and reauthorization records, unresolved-risk explanations, rollback or recovery options, and whether the transition prevents governance vacuum, unmanaged authority transfer, or anti-constitutional lock-in.
+- OP-C: A transition lifecycle is non-compliant if interim authority becomes indefinite without recorded reauthorization, if evidence or challenge pathways are lost during transfer, if unresolved risks are concealed, or if redesign creates a governance gap that makes rights, services, records, or remedies unusable in practice.
 
 Classification and information-type alignment
 - OP-O: If accumulated, linked, or inferred data changes its **Chapter S1 — Information Types and Handling** data type or becomes more sensitive in practice, stricter protections apply.

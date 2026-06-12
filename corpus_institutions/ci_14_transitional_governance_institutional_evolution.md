@@ -24,13 +24,11 @@
 <br>
 
 
-Institutional redesign, consolidation, or transfer must preserve non-regression and continuity duties. Where the transition materially involves constitutional systems, institutions must read this section with `corpus_systems.md` **Protocol T** (*Transition Constitution and Migration Governance*). **CI-14** (*Transitional governance and institutional evolution*) states the institutional custody, authorization, and oversight interface; Protocol T remains the operative home for system phase structure, gate criteria, fallback handling, off-ramps, and re-baselining mechanics.
+Institutional redesign, consolidation, or transfer must preserve non-regression and continuity duties. Apply `corpus_joint_structure.md` **CJS-5D.3** (*Implementation and cross-implementation data-retention and lifecycle-integrity terms*) **Transition continuity and authority-transfer lifecycle integrity** for the shared continuity, authority-transfer, sunset, reauthorization, and challenge-pathway floor. Where the transition materially involves constitutional systems, institutions must read this section with `corpus_systems.md` **Protocol T** (*Transition Constitution and Migration Governance*). **CI-14** (*Transitional governance and institutional evolution*) states the institutional custody, authorization, and oversight interface; Protocol T remains the operative home for system phase structure, gate criteria, fallback handling, off-ramps, and re-baselining mechanics.
 
 Institutional transition interface (Article XXV interface):
 - name the institution, role, or body that owns each transition authority, review authority, and evidence-custody duty;
-- keep interim institutional authority explicitly scoped, sunset-bounded, and subject to independent review on a documented cadence;
-- require recorded reauthorization, with unresolved-risk explanation, before any continuation beyond planned windows;
-- prevent governance vacuum, unmanaged authority transfer, and anti-constitutional lock-in during redesign, consolidation, dissolution, or transfer;
+- publish local procedures for interim authority, review cadence, reauthorization, unresolved-risk explanation, and evidence custody under the CJS-5D.3 transition floor;
 - document material institutional transition decisions, delays, reversals, and remediation actions in auditable form with rationale and risk implications.
 
 ### CI-14.1: Interface — Article XXV-D (non-compliant property, seizure, voluntary incentives)
