@@ -317,40 +317,6 @@
     "summary": "**Continuity planning:** Institutions must maintain resource adequacy for safe continuity and constitutional performance. Shared dependency-chain evaluation for funding, staffing, capacity, and resource adequacy is governed by `corpus_joint_structure.md` **..."
   },
   {
-    "file": "corpus_institutions/ci_10_public_revenue_fees_recurring_charges_billing_integrity.md",
-    "section_id": "CI-10.2",
-    "title": "Recurring charges, renewals, and commercial billing integrity",
-    "start_line": 71,
-    "end_line": 119,
-    "score": 20,
-    "confidence": "high",
-    "action": "split-CI-and-CJS",
-    "destinations": [
-      "CJS-5C",
-      "CJS-4.4",
-      "CJS-5D"
-    ],
-    "signals": [
-      "multi-owner-routing(2)",
-      "routing-read-with(1)",
-      "shared-procedure(4)",
-      "dependency-failure(5)",
-      "forum-system-touch(15)"
-    ],
-    "router_rows": [
-      "CJS-R17 \u2014 Cross-implementation trust integrity (joint operation model)",
-      "CJS-R19 \u2014 Implementation and cross-implementation integrity assurance and resilience operations",
-      "CJS-R15 \u2014 Contest-integrity monitoring (pathway integrity, not merits)"
-    ],
-    "similar_cjs": [],
-    "keep_notes": [
-      "public revenue",
-      "fees",
-      "billing"
-    ],
-    "summary": "**Purpose.** This subsection records institutional requirements for **recurring and transaction-linked charges**, including subscriptions, memberships, paid tiers, and trial-to-paid conversion, where institutions **supervise, charter, or set compliance expe..."
-  },
-  {
     "file": "corpus_institutions/ci_09_classification_linked_institutional_obligations.md",
     "section_id": "CI-9",
     "title": "Classification-linked institutional obligations",
@@ -506,6 +472,39 @@
       "dissolution"
     ],
     "summary": "Institutions must maintain: - auditable conflict controls that cover financial, relational, and role-based conflicts. - anti-corruption and anti-fraud controls across prevention, detection, response, and remediation. Required controls include: - disclosure..."
+  },
+  {
+    "file": "corpus_institutions/ci_10_public_revenue_fees_recurring_charges_billing_integrity.md",
+    "section_id": "CI-10.2",
+    "title": "Recurring charges, renewals, and commercial billing integrity",
+    "start_line": 71,
+    "end_line": 109,
+    "score": 15,
+    "confidence": "high",
+    "action": "split-CI-and-CJS",
+    "destinations": [
+      "CJS-4.4",
+      "CJS-5D",
+      "CJS-5C"
+    ],
+    "signals": [
+      "multi-owner-routing(2)",
+      "shared-procedure(3)",
+      "dependency-failure(2)",
+      "forum-system-touch(15)"
+    ],
+    "router_rows": [
+      "CJS-R17 \u2014 Cross-implementation trust integrity (joint operation model)",
+      "CJS-R19 \u2014 Implementation and cross-implementation integrity assurance and resilience operations",
+      "CJS-R15 \u2014 Contest-integrity monitoring (pathway integrity, not merits)"
+    ],
+    "similar_cjs": [],
+    "keep_notes": [
+      "public revenue",
+      "fees",
+      "billing"
+    ],
+    "summary": "**Purpose.** This subsection records institutional requirements for **recurring and transaction-linked charges**, including subscriptions, memberships, paid tiers, and trial-to-paid conversion, where institutions **supervise, charter, or set compliance expe..."
   },
   {
     "file": "corpus_institutions/ci_21_relational_coercive_control_intimate_power_anti_domination.md",

@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/crossref_matrix.schema.json",
-  "generated_at": "2026-06-12T17:41:39+00:00",
+  "generated_at": "2026-06-12T17:56:14+00:00",
   "description": "Source-derived file-to-file Markdown reference graph.",
   "graph": {
     "nodes": [
@@ -5678,11 +5678,6 @@
       {
         "source": "corpus_institutions/ci_10_public_revenue_fees_recurring_charges_billing_integrity.md",
         "targets": [
-          {
-            "file": "core_00-01_principles.md",
-            "count": 1,
-            "anchors": []
-          },
           {
             "file": "core_05-05_definitions_a_independent.md",
             "count": 11,

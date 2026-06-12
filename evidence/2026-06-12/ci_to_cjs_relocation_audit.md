@@ -132,19 +132,7 @@ Near CJS matches:
 
 Summary: **Continuity planning:** Institutions must maintain resource adequacy for safe continuity and constitutional performance. Shared dependency-chain evaluation for funding, staffing, capacity, and resource adequacy is governed by `corpus_joint_structure.md` **...
 
-### 10. CI-10.2: Recurring charges, renewals, and commercial billing integrity
-
-- Source: `corpus_institutions/ci_10_public_revenue_fees_recurring_charges_billing_integrity.md:71`
-- Score / confidence: 20 / high
-- Suggested action: `split-CI-and-CJS`
-- Proposed CJS destination: CJS-5C, CJS-4.4, CJS-5D
-- Signals: multi-owner-routing(2), routing-read-with(1), shared-procedure(4), dependency-failure(5), forum-system-touch(15)
-- Router matches: CJS-R17 — Cross-implementation trust integrity (joint operation model); CJS-R19 — Implementation and cross-implementation integrity assurance and resilience operations; CJS-R15 — Contest-integrity monitoring (pathway integrity, not merits)
-- Keep-in-CI cautions: public revenue, fees, billing
-
-Summary: **Purpose.** This subsection records institutional requirements for **recurring and transaction-linked charges**, including subscriptions, memberships, paid tiers, and trial-to-paid conversion, where institutions **supervise, charter, or set compliance expe...
-
-### 11. CI-9: Classification-linked institutional obligations
+### 10. CI-9: Classification-linked institutional obligations
 
 - Source: `corpus_institutions/ci_09_classification_linked_institutional_obligations.md:1`
 - Score / confidence: 20 / high
@@ -156,7 +144,7 @@ Summary: **Purpose.** This subsection records institutional requirements for **r
 
 Summary: **Constitutional index (abridged)** - Topic-level routing and cited authorities remain in subsection text and cross-references. - Canonical owner map: `corpus_joint_structure.md` **CJS-2.2** (*Topic router (stable IDs)*) and `doc_architecture.md` section 4....
 
-### 12. CI-14.1: Interface — Article XXV-D (non-compliant property, seizure, voluntary incentives)
+### 11. CI-14.1: Interface — Article XXV-D (non-compliant property, seizure, voluntary incentives)
 
 - Source: `corpus_institutions/ci_14_transitional_governance_institutional_evolution.md:36`
 - Score / confidence: 19 / high
@@ -167,7 +155,7 @@ Summary: **Constitutional index (abridged)** - Topic-level routing and cited aut
 
 Summary: Where transition plans address **non-compliant property or systems** under **Sentient Constitution Chapter Ten, Article XXV-D**, institutions must publish and maintain: - **Eligibility and process:** clear criteria linking measures to **Chapter Six** compli...
 
-### 13. CI-8: Cross-institution coordination and escalation
+### 12. CI-8: Cross-institution coordination and escalation
 
 - Source: `corpus_institutions/ci_08_cross_institution_coordination_escalation.md:1`
 - Score / confidence: 16 / high
@@ -178,7 +166,7 @@ Summary: Where transition plans address **non-compliant property or systems** un
 
 Summary: Where institutions share jurisdiction, evidence custody, review responsibility, enforcement support, investigative interface, or forum-adjacent routing, they must maintain a published coordination and escalation protocol. The shared coordination, deadlock,...
 
-### 14. CI-5.1: Integrity trigger taxonomy and cross-layer routing (control package)
+### 13. CI-5.1: Integrity trigger taxonomy and cross-layer routing (control package)
 
 - Source: `corpus_institutions/ci_05_conflict_integrity_anti_capture_anti_corruption.md:57`
 - Score / confidence: 16 / high
@@ -190,7 +178,7 @@ Summary: Where institutions share jurisdiction, evidence custody, review respons
 
 Summary: This subsection names institutional trigger categories for **CI-5** (*Conflict integrity, anti-capture, and anti-corruption*) control maps and training. Shared cross-layer routing for integrity triggers is governed by `corpus_joint_structure.md` **CJS-5B.1*...
 
-### 15. CI-5: Conflict integrity, anti-capture, and anti-corruption
+### 14. CI-5: Conflict integrity, anti-capture, and anti-corruption
 
 - Source: `corpus_institutions/ci_05_conflict_integrity_anti_capture_anti_corruption.md:1`
 - Score / confidence: 16 / high
@@ -201,6 +189,18 @@ Summary: This subsection names institutional trigger categories for **CI-5** (*C
 - Keep-in-CI cautions: institution-specific, rotation, dissolution
 
 Summary: Institutions must maintain: - auditable conflict controls that cover financial, relational, and role-based conflicts. - anti-corruption and anti-fraud controls across prevention, detection, response, and remediation. Required controls include: - disclosure...
+
+### 15. CI-10.2: Recurring charges, renewals, and commercial billing integrity
+
+- Source: `corpus_institutions/ci_10_public_revenue_fees_recurring_charges_billing_integrity.md:71`
+- Score / confidence: 15 / high
+- Suggested action: `split-CI-and-CJS`
+- Proposed CJS destination: CJS-4.4, CJS-5D, CJS-5C
+- Signals: multi-owner-routing(2), shared-procedure(3), dependency-failure(2), forum-system-touch(15)
+- Router matches: CJS-R17 — Cross-implementation trust integrity (joint operation model); CJS-R19 — Implementation and cross-implementation integrity assurance and resilience operations; CJS-R15 — Contest-integrity monitoring (pathway integrity, not merits)
+- Keep-in-CI cautions: public revenue, fees, billing
+
+Summary: **Purpose.** This subsection records institutional requirements for **recurring and transaction-linked charges**, including subscriptions, memberships, paid tiers, and trial-to-paid conversion, where institutions **supervise, charter, or set compliance expe...
 
 ### 16. CI-21: Relational coercive control, intimate power, and anti-domination routing
 
