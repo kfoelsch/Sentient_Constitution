@@ -11,8 +11,8 @@
 | Stable family | Authoritative subfile |
 |---|---|
 | Opening title, status, scope, and CI-1: Scope, purpose, and legitimacy interface | [ci_01_scope_purpose_legitimacy_interface.md](corpus_institutions/ci_01_scope_purpose_legitimacy_interface.md) |
-| CI-2: Institutional design and separation of powers | [ci_02_institutional_design_separation_of_powers.md](corpus_institutions/ci_02_institutional_design_separation_of_powers.md) |
-| CI-3: Authority custody, delegation, and risk profile | [ci_03_authority_custody_delegation_risk_profile.md](corpus_institutions/ci_03_authority_custody_delegation_risk_profile.md) |
+| CI-2: Institutional design, separation of powers, and authority custody | [ci_02_institutional_design_separation_of_powers.md](corpus_institutions/ci_02_institutional_design_separation_of_powers.md) |
+| CI-3: Authority custody, delegation, and risk profile (compatibility pointer) | [ci_03_authority_custody_delegation_risk_profile.md](corpus_institutions/ci_03_authority_custody_delegation_risk_profile.md) |
 | CI-4: Appointment, competency, rotation, and removal | [ci_04_appointment_competency_rotation_removal.md](corpus_institutions/ci_04_appointment_competency_rotation_removal.md) |
 | CI-5: Conflict integrity, anti-capture, and anti-corruption | [ci_05_conflict_integrity_anti_capture_anti_corruption.md](corpus_institutions/ci_05_conflict_integrity_anti_capture_anti_corruption.md) |
 | CI-6: Procedure integrity, contestability, and secondary review | [ci_06_procedure_integrity_contestability_secondary_review.md](corpus_institutions/ci_06_procedure_integrity_contestability_secondary_review.md) |

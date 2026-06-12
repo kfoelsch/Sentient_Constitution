@@ -1,19 +1,10 @@
 ## CI-3: Authority custody, delegation, and risk profile
 
-Institutions must maintain a clear authority chain from source authorization through each delegated role.
+This section is retained as a stable compatibility pointer for citations, registry entries, and operator materials that refer to **CI-3** or `INST-PROTO-1`.
 
-Delegations must state:
-- scope,
-- limits,
-- duration,
-- review trigger,
-- revocation trigger,
-- accountable reviewer.
+Substantive requirements for authority custody, delegation controls, emergency delegation, and institutional risk profile are folded into **CI-2** (*Institutional design, separation of powers, and authority custody*), especially **CI-2.3** through **CI-2.5**.
 
-Emergency delegation is permitted only for necessity and proportionality reasons and must include rapid post-event review.
-
-### CI-3.1: Risk profile requirement
-Each institution must maintain a plain-language risk appetite and tolerance statement aligned to constitutional constraints and class/tier obligations. That statement must be reviewed on a fixed cadence and after material incidents.
+References to this compatibility pointer are to be read as references to **CI-2** (*Institutional design, separation of powers, and authority custody*) requirements unless a source expressly preserves the older label for navigation.
 
 ---
 

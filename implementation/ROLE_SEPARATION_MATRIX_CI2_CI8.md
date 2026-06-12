@@ -4,8 +4,8 @@
 
 | Lane / topic | Incompatible with | Recusal / independence trigger | Canonical owner |
 | --- | --- | --- | --- |
-| **CI-2** Designated functional separation | Same sentient holding opposing enforcement and appeal roles in the same matter | Material dual role | **CI-2** |
-| **CI-3** Authority custody | Approver and sole auditor for same transaction | Custody conflict | **CI-3** |
+| **CI-2** Designated functional separation and authority custody | Same sentient holding opposing enforcement and appeal roles in the same matter; approver and sole auditor for same transaction | Material dual role or custody conflict | **CI-2** |
+| **CI-3** Authority custody pointer | Older **CI-3** citations resolve to the folded **CI-2** authority-custody requirements | Legacy citation or registry lookup | **CI-3** pointer to **CI-2** |
 | **CI-4** Appointment / removal | Hiring manager and sole misconduct fact-finder for same sentient | Appearance of bias | **CI-4** |
 | **CI-5** Integrity | Beneficiary and disclosure reviewer for same benefit | Financial / relational conflict | **CI-5** |
 | **CI-6** Procedure | Decision maker and sole appeals body for same case (where split required) | Structural bias | **CI-6** + **`corpus_forum.md`** **CF-3** / **CF-6** |

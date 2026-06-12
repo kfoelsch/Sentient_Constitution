@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-06-12T09:25:31+00:00",
+  "generated_at": "2026-06-12T09:36:39+00:00",
   "files": {
     "core_00-01_principles.md": {
       "total_lines": 1506,
@@ -5789,32 +5789,60 @@
       ]
     },
     "corpus_institutions/ci_02_institutional_design_separation_of_powers.md": {
-      "total_lines": 23,
+      "total_lines": 44,
       "sections": [
         {
-          "header": "CI-2: Institutional design and separation of powers",
+          "header": "CI-2: Institutional design, separation of powers, and authority custody",
           "level": 2,
           "line_start": 1,
-          "line_end": 23,
+          "line_end": 44,
+          "anchor": null
+        },
+        {
+          "header": "CI-2.1: Non-delegable governing duties",
+          "level": 3,
+          "line_start": 5,
+          "line_end": 11,
+          "anchor": null
+        },
+        {
+          "header": "CI-2.2: Functional separation lanes",
+          "level": 3,
+          "line_start": 12,
+          "line_end": 21,
+          "anchor": null
+        },
+        {
+          "header": "CI-2.3: Authority chain and delegation controls",
+          "level": 3,
+          "line_start": 22,
+          "line_end": 32,
+          "anchor": null
+        },
+        {
+          "header": "CI-2.4: Emergency delegation",
+          "level": 3,
+          "line_start": 33,
+          "line_end": 35,
+          "anchor": null
+        },
+        {
+          "header": "CI-2.5: Risk profile requirement",
+          "level": 3,
+          "line_start": 36,
+          "line_end": 44,
           "anchor": null
         }
       ]
     },
     "corpus_institutions/ci_03_authority_custody_delegation_risk_profile.md": {
-      "total_lines": 23,
+      "total_lines": 14,
       "sections": [
         {
           "header": "CI-3: Authority custody, delegation, and risk profile",
           "level": 2,
           "line_start": 1,
-          "line_end": 23,
-          "anchor": null
-        },
-        {
-          "header": "CI-3.1: Risk profile requirement",
-          "level": 3,
-          "line_start": 15,
-          "line_end": 23,
+          "line_end": 14,
           "anchor": null
         }
       ]
