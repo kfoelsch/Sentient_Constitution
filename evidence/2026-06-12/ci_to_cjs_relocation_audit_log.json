@@ -317,38 +317,6 @@
     "summary": "**Continuity planning:** Institutions must maintain resource adequacy for safe continuity and constitutional performance. Shared dependency-chain evaluation for funding, staffing, capacity, and resource adequacy is governed by `corpus_joint_structure.md` **..."
   },
   {
-    "file": "corpus_institutions/ci_18_community_life_voluntary_association_non_instrumental_time.md",
-    "section_id": "CI-18",
-    "title": "Community life, voluntary association, and non-instrumental time",
-    "start_line": 1,
-    "end_line": 40,
-    "score": 20,
-    "confidence": "high",
-    "action": "split-CI-and-CJS",
-    "destinations": [
-      "CJS-3 / CJS-4",
-      "CJS-5B",
-      "CJS-5C"
-    ],
-    "signals": [
-      "joint-interface(1)",
-      "multi-owner-routing(1)",
-      "routing-read-with(3)",
-      "shared-procedure(4)",
-      "forum-system-touch(8)"
-    ],
-    "router_rows": [
-      "CJS-R19 \u2014 Implementation and cross-implementation integrity assurance and resilience operations",
-      "CJS-R17 \u2014 Cross-implementation trust integrity (joint operation model)",
-      "CJS-R16 \u2014 Cross-institution coordination, deadlock, and escalation"
-    ],
-    "similar_cjs": [],
-    "keep_notes": [
-      "fees"
-    ],
-    "summary": "**Purpose.** This section records **institutional and system design expectations** for **community belonging**, **cultural gathering**, **play**, **recreation**, **solitude**, and **non-productive time** that are **adjacent to** but **not exhausted by** **A..."
-  },
-  {
     "file": "corpus_institutions/ci_10_public_revenue_fees_recurring_charges_billing_integrity.md",
     "section_id": "CI-10.2",
     "title": "Recurring charges, renewals, and commercial billing integrity",
@@ -568,6 +536,35 @@
     "similar_cjs": [],
     "keep_notes": [],
     "summary": "**Purpose.** This section makes **coercive control**, **economic dependence**, **isolation**, **reproductive pressure**, and **reputation** **threats** **legible** in **institutional** **routes** when they occur in **intimate**, **household**, **care**, **w..."
+  },
+  {
+    "file": "corpus_institutions/ci_18_community_life_voluntary_association_non_instrumental_time.md",
+    "section_id": "CI-18",
+    "title": "Community life, voluntary association, and non-instrumental time",
+    "start_line": 1,
+    "end_line": 40,
+    "score": 14,
+    "confidence": "high",
+    "action": "split-CI-and-CJS",
+    "destinations": [
+      "CJS-5B",
+      "CJS-3 / CJS-4",
+      "CJS-5A / CJS-4.1 / CJS-4.7"
+    ],
+    "signals": [
+      "multi-owner-routing(1)",
+      "routing-read-with(2)",
+      "shared-procedure(3)",
+      "forum-system-touch(5)"
+    ],
+    "router_rows": [
+      "CJS-R19 \u2014 Implementation and cross-implementation integrity assurance and resilience operations",
+      "CJS-R17 \u2014 Cross-implementation trust integrity (joint operation model)",
+      "CJS-R16 \u2014 Cross-institution coordination, deadlock, and escalation"
+    ],
+    "similar_cjs": [],
+    "keep_notes": [],
+    "summary": "**Purpose.** This section records **institutional and system design expectations** for **community belonging**, **cultural gathering**, **play**, **recreation**, **solitude**, and **non-productive time** that are **adjacent to** but **not exhausted by** **A..."
   },
   {
     "file": "corpus_institutions/ci_14_transitional_governance_institutional_evolution.md",

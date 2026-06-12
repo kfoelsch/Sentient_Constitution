@@ -117,6 +117,11 @@ Notification and pathway integrity
 - OP-E: Evaluation must verify that notice and pathways are understandable enough to use before the outcome hardens.
 - OP-C: Formal participation is non-compliant when notice is incomplete, too late, or practically unusable.
 
+Community and associational pathway integrity
+- OP-O: Where an implementation scope controls shared spaces, civic infrastructure, cultural gathering, peaceable assembly, recreation, non-instrumental time, or comparable association pathways, access rules must preserve practical participation, freedom not to associate, freedom to leave coercive group settings, and protection against hostile-design exclusion.
+- OP-E: Evaluation must verify classification-scaled transparency, anti-capture controls, routing, visibility, fee, licensing, zoning, moderation, access, and exit rules together, including digital and physical chokepoints that can functionally exclude lawful gathering, cultural practice, or non-productive time.
+- OP-C: It is non-compliant to claim participatory legitimacy where productivity-only allocation, private chokepoints, inaccessible pathway design, coerced belonging, exclusionary local hierarchy, retaliation risk, or informal coercion blocks practical community access without a lawful necessity record and usable contest route.
+
 ---
 
 ## CJS-5C.2 Implementation and cross-implementation comprehensibility and cognitive accessibility terms
