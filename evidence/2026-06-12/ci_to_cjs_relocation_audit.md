@@ -112,14 +112,14 @@ Near CJS matches:
 ### 8. CI-11: Resource stewardship and incentive integrity
 
 - Source: `corpus_institutions/ci_11_resource_stewardship_incentive_integrity.md:1`
-- Score / confidence: 22 / high
+- Score / confidence: 24 / high
 - Suggested action: `split-CI-and-CJS`
 - Proposed CJS destination: CJS-5D, CJS-4.4, CJS-5C
-- Signals: multi-owner-routing(3), routing-read-with(3), shared-procedure(2), dependency-failure(1), forum-system-touch(11)
+- Signals: multi-owner-routing(3), routing-read-with(4), shared-procedure(2), dependency-failure(1), forum-system-touch(12)
 - Router matches: CJS-R19 — Implementation and cross-implementation integrity assurance and resilience operations; CJS-R17 — Cross-implementation trust integrity (joint operation model); CJS-R18 — Class-scaled lane staffing and competency redundancy for materially binding stewardship
 - Keep-in-CI cautions: public revenue, fees, billing
 
-Summary: **Continuity planning:** Institutions must maintain resource adequacy for safe continuity and constitutional performance. **Sabotage of continuity planning** and **willful negligence in continuity planning** are **anti-constitutional misconduct** for purpos...
+Summary: **Continuity planning:** Institutions must maintain resource adequacy for safe continuity and constitutional performance. Shared dependency-chain evaluation for funding, staffing, capacity, and resource adequacy is governed by `corpus_joint_structure.md` **...
 
 ### 9. CI-5: Conflict integrity, anti-capture, and anti-corruption
 

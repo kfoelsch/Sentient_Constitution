@@ -256,7 +256,7 @@
     "title": "Resource stewardship and incentive integrity",
     "start_line": 1,
     "end_line": 40,
-    "score": 22,
+    "score": 24,
     "confidence": "high",
     "action": "split-CI-and-CJS",
     "destinations": [
@@ -266,10 +266,10 @@
     ],
     "signals": [
       "multi-owner-routing(3)",
-      "routing-read-with(3)",
+      "routing-read-with(4)",
       "shared-procedure(2)",
       "dependency-failure(1)",
-      "forum-system-touch(11)"
+      "forum-system-touch(12)"
     ],
     "router_rows": [
       "CJS-R19 \u2014 Implementation and cross-implementation integrity assurance and resilience operations",
@@ -282,7 +282,7 @@
       "fees",
       "billing"
     ],
-    "summary": "**Continuity planning:** Institutions must maintain resource adequacy for safe continuity and constitutional performance. **Sabotage of continuity planning** and **willful negligence in continuity planning** are **anti-constitutional misconduct** for purpos..."
+    "summary": "**Continuity planning:** Institutions must maintain resource adequacy for safe continuity and constitutional performance. Shared dependency-chain evaluation for funding, staffing, capacity, and resource adequacy is governed by `corpus_joint_structure.md` **..."
   },
   {
     "file": "corpus_institutions/ci_05_conflict_integrity_anti_capture_anti_corruption.md",

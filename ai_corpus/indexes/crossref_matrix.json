@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/crossref_matrix.schema.json",
-  "generated_at": "2026-06-12T14:05:00+00:00",
+  "generated_at": "2026-06-12T14:46:37+00:00",
   "description": "Source-derived file-to-file Markdown reference graph.",
   "graph": {
     "nodes": [
@@ -5865,6 +5865,20 @@
             "count": 1,
             "anchors": [
               "#cjs-22-topic-router-stable-ids"
+            ]
+          },
+          {
+            "file": "corpus_joint_structure/cjs_05b_00_evidence_audit_claim_integrity.md",
+            "count": 1,
+            "anchors": [
+              "#cjs-5b1-implementation-and-cross-implementation-integrity-assurance-and-resilience-operations"
+            ]
+          },
+          {
+            "file": "corpus_joint_structure/cjs_05d_00_dependency_exit_lifecycle_integrity.md",
+            "count": 1,
+            "anchors": [
+              "#cjs-5d1-implementation-and-cross-implementation-dependency-integrity-and-disclosure-terms"
             ]
           }
         ]

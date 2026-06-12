@@ -36,7 +36,7 @@ This family collects the operational clusters that govern dependency mapping, me
 
 - Upstream: [CJS-1.1](cjs_01_scope_purpose_boundary_interface.md#cjs-11-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.2](cjs_02_implementation_integration_map.md#cjs-22-topic-router-stable-ids) topic router; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
 - Downstream: this section's local operational requirements for **CJS-5D.1 Implementation and cross-implementation dependency integrity and disclosure terms**.
-- Read with: **CJS-5D.1**; **CJS-5C.4**; **CJS-5D.2**; **CJS-5B.2**; **CJS-5E.5 and CJS-5B.1**.
+- Read with: **CJS-5D.1**; **CJS-5C.4**; **CJS-5D.2**; **CJS-5B.2**; **CJS-5E.5 and CJS-5B.1**; **CI-11**.
 
 </details>
 
@@ -80,6 +80,11 @@ Criticality and impact classification
 - OP-O: **Class A, Class B, and Class C** systems must classify dependencies that materially affect their core mission, constitutional function, operation, recovery, governance, or coordinated continuity. Classification must state reliance degree, substitutability, switching cost, exit feasibility, cascade risk, and affected parties or systems.
 - OP-E: Reviewers must verify that dependency classification aligns with `corpus_systems.md` dependency classes and is useful for real decisions, including mitigation, audit, oversight, purchasing, participation, and exit planning.
 - OP-C: **Class A, Class B, and Class C** mission-impacting dependencies must be clearly identified, monitored, audited, and periodically reviewed. Dependencies that are critical to safety, rights, access, continuity, or systemic stability may not be left unclassified or treated as ordinary vendor or interface choices.
+
+Resource and continuity dependency adequacy
+- OP-O: When continuity, constitutional performance, or supervised operation depends on funding, staffing, compute, bandwidth, facilities, supplier capacity, reserve capacity, or comparable institutional resources, the dependency map must identify whether those resources are adequate, substitutable, and resilient under normal, degraded, and foreseeable stress conditions.
+- OP-E: Reviewers must verify resource adequacy as part of the dependency chain, including whether allocation choices, incentive designs, or short-term optics materially weaken safe continuity, recovery, or constitutional performance. Institutional sanctions, malus, clawback, or dissolution consequences remain with the applicable **CI** owner sections.
+- OP-C: Treating a resource, funding, staffing, or capacity dependency as outside continuity review is non-compliant where that dependency materially affects rights, safety, access, institutional duties, supervised scope, or recovery from control failure.
 
 Substitutability, exit constraints, and mitigation duties
 - OP-O: For important dependencies, disclosures must explain the practical alternatives, the cost and risk of switching, what transition would require, and any limits on exit, repair, portability, or interoperability.

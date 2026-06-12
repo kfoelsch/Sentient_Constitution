@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-06-12T14:05:00+00:00",
+  "generated_at": "2026-06-12T14:46:37+00:00",
   "files": {
     "core_00-01_principles.md": {
       "total_lines": 1506,
@@ -5669,7 +5669,7 @@
       ]
     },
     "corpus_joint_structure/cjs_05d_00_dependency_exit_lifecycle_integrity.md": {
-      "total_lines": 283,
+      "total_lines": 288,
       "sections": [
         {
           "header": "CJS-5D: Dependency, exit, and lifecycle integrity",
@@ -5682,21 +5682,21 @@
           "header": "CJS-5D.1 Implementation and cross-implementation dependency integrity and disclosure terms",
           "level": 2,
           "line_start": 33,
-          "line_end": 105,
+          "line_end": 110,
           "anchor": null
         },
         {
           "header": "CJS-5D.2 Implementation and cross-implementation interoperability, portability, and exit-integrity terms",
           "level": 2,
-          "line_start": 106,
-          "line_end": 194,
+          "line_start": 111,
+          "line_end": 199,
           "anchor": null
         },
         {
           "header": "CJS-5D.3 Implementation and cross-implementation data-retention and lifecycle-integrity terms",
           "level": 2,
-          "line_start": 195,
-          "line_end": 283,
+          "line_start": 200,
+          "line_end": 288,
           "anchor": null
         }
       ]
