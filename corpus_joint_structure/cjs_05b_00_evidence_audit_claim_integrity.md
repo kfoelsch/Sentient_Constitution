@@ -83,6 +83,11 @@ Integrity-trigger routing chain
 - OP-E: Evaluation must verify that intake, triage, evidence custody, independence review, recusal or anti-self-judging controls, cross-institution escalation, forum or specialist support, remediation, disclosure, and referral duties are assigned to the correct owner sections and remain auditable across transfers.
 - OP-C: It is non-compliant to resolve an integrity trigger by local institutional narration alone when system, forum, assurance, or classification owners are materially implicated, or to use a CJS routing label as a substitute for Chapter Six classification, Chapter Eight slot-classification proceedings, CI sanctions, or CF forum procedure.
 
+Shared anti-capture control stack
+- OP-O: Where corruption, fraud, self-dealing, procurement capture, assurance capture, concealed-interest abuse, retaliation-linked concealment, or comparable integrity failure could materially affect implementation duties, the relevant owner text must maintain a risk-scoped control map, sensitive-activity controls, protected intake, evidence custody, and accountable response duties.
+- OP-E: Evaluation must verify that sensitive transactions, approvals, investigations, procurement, licensing, adjudication-support, payout, disbursement, assurance, and protected-escalation lanes have named owners, evidence artifacts, review cadence, independence safeguards, records sufficient for reconstruction, and escalation triggers for credible or repeated failures.
+- OP-C: It is non-compliant to treat anti-capture control as satisfied when controls are undocumented, owned by the subject of the allegation without an independence safeguard, disconnected from protected reporting, unsupported by reconstruction records, or unable to trigger assurance, escalation, remediation, sanction, restitution, clawback, or lawful referral where required.
+
 Independent verification path integrity
 - OP-O: Material claims must have practical routes for independent testing, reproduction, and comparison.
 - OP-E: Evaluation must verify at least one practical independent verification path for each materially significant claim family.

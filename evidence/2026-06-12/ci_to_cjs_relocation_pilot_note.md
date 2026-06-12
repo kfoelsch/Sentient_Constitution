@@ -27,6 +27,7 @@ The pilot intentionally does not move high-score topical/domain candidates such 
 | **CI-6** (*Procedure integrity, contestability, and secondary review*) | **CJS-4.7**, **CJS-5A.6** | Moved the reusable **common decision rule** explanation into the shared CJS procedural-integrity cluster and replaced CI repetition with a pointer plus institution-specific publication and record duties. |
 | **CI-5.1** (*Integrity trigger taxonomy and cross-layer routing*) | **CJS-5B.1** | Moved the reusable cross-layer integrity-trigger routing chain into the shared CJS evidence/audit cluster and left CI with institutional trigger labels plus owner-specific consequences. |
 | **CI-11** (*Resource stewardship and incentive integrity*) | **CJS-5D.1**, **CJS-5B.1** | Moved the reusable funding / staffing / capacity dependency evaluation into the shared CJS dependency-integrity cluster and left CI with institutional stewardship triggers, malus / clawback interface, Protocol A-G supervisory trigger, and Protocol S5 funding alignment. |
+| **CI-5** (*Conflict integrity, anti-capture, and anti-corruption*) | **CJS-5B.1** | Moved the reusable anti-capture control stack into the shared CJS evidence/audit cluster and left CI with institutional disclosure, cure, sortition-integrity, role-forfeiture, referral, and event-market controls. |
 
 ## Validation record
 

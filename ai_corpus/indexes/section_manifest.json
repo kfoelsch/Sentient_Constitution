@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-06-12T14:46:37+00:00",
+  "generated_at": "2026-06-12T15:26:36+00:00",
   "files": {
     "core_00-01_principles.md": {
       "total_lines": 1506,
@@ -5589,7 +5589,7 @@
       ]
     },
     "corpus_joint_structure/cjs_05b_00_evidence_audit_claim_integrity.md": {
-      "total_lines": 297,
+      "total_lines": 302,
       "sections": [
         {
           "header": "CJS-5B: Evidence, audit, and claim integrity",
@@ -5602,28 +5602,28 @@
           "header": "CJS-5B.1 Implementation and cross-implementation integrity assurance and resilience operations",
           "level": 2,
           "line_start": 36,
-          "line_end": 102,
+          "line_end": 107,
           "anchor": null
         },
         {
           "header": "CJS-5B.2 Implementation and cross-implementation auditability and reconstructability terms",
           "level": 2,
-          "line_start": 103,
-          "line_end": 163,
+          "line_start": 108,
+          "line_end": 168,
           "anchor": null
         },
         {
           "header": "CJS-5B.3 Implementation and cross-implementation tiered transparency and audit-access terms",
           "level": 2,
-          "line_start": 164,
-          "line_end": 236,
+          "line_start": 169,
+          "line_end": 241,
           "anchor": null
         },
         {
           "header": "CJS-5B.4 Implementation and cross-implementation independent verification and claim-integrity terms",
           "level": 2,
-          "line_start": 237,
-          "line_end": 297,
+          "line_start": 242,
+          "line_end": 302,
           "anchor": null
         }
       ]
@@ -5855,20 +5855,20 @@
       ]
     },
     "corpus_institutions/ci_05_conflict_integrity_anti_capture_anti_corruption.md": {
-      "total_lines": 117,
+      "total_lines": 103,
       "sections": [
         {
           "header": "CI-5: Conflict integrity, anti-capture, and anti-corruption",
           "level": 2,
           "line_start": 1,
-          "line_end": 117,
+          "line_end": 103,
           "anchor": null
         },
         {
           "header": "CI-5.1: Integrity trigger taxonomy and cross-layer routing (control package)",
           "level": 3,
-          "line_start": 71,
-          "line_end": 117,
+          "line_start": 57,
+          "line_end": 103,
           "anchor": null
         }
       ]

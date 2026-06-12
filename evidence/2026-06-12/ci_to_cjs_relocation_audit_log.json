@@ -285,39 +285,6 @@
     "summary": "**Continuity planning:** Institutions must maintain resource adequacy for safe continuity and constitutional performance. Shared dependency-chain evaluation for funding, staffing, capacity, and resource adequacy is governed by `corpus_joint_structure.md` **..."
   },
   {
-    "file": "corpus_institutions/ci_05_conflict_integrity_anti_capture_anti_corruption.md",
-    "section_id": "CI-5",
-    "title": "Conflict integrity, anti-capture, and anti-corruption",
-    "start_line": 1,
-    "end_line": 70,
-    "score": 22,
-    "confidence": "high",
-    "action": "split-CI-and-CJS",
-    "destinations": [
-      "CJS-5B",
-      "CJS-4.4",
-      "CJS-5E"
-    ],
-    "signals": [
-      "multi-owner-routing(1)",
-      "routing-read-with(4)",
-      "shared-procedure(7)",
-      "dependency-failure(7)",
-      "forum-system-touch(3)"
-    ],
-    "router_rows": [
-      "CJS-R19 \u2014 Implementation and cross-implementation integrity assurance and resilience operations",
-      "CJS-R17 \u2014 Cross-implementation trust integrity (joint operation model)",
-      "CJS-R18 \u2014 Class-scaled lane staffing and competency redundancy for materially binding stewardship"
-    ],
-    "similar_cjs": [],
-    "keep_notes": [
-      "rotation",
-      "dissolution"
-    ],
-    "summary": "Institutions must maintain: - auditable conflict controls that cover financial, relational, and role-based conflicts. - anti-corruption and anti-fraud controls across prevention, detection, response, and remediation. Required controls include: - disclosure..."
-  },
-  {
     "file": "corpus_institutions/ci_18_community_life_voluntary_association_non_instrumental_time.md",
     "section_id": "CI-18",
     "title": "Community life, voluntary association, and non-instrumental time",
@@ -512,8 +479,8 @@
     "file": "corpus_institutions/ci_05_conflict_integrity_anti_capture_anti_corruption.md",
     "section_id": "CI-5.1",
     "title": "Integrity trigger taxonomy and cross-layer routing (control package)",
-    "start_line": 71,
-    "end_line": 117,
+    "start_line": 57,
+    "end_line": 103,
     "score": 16,
     "confidence": "high",
     "action": "split-CI-and-CJS",
@@ -540,6 +507,40 @@
       "removal"
     ],
     "summary": "This subsection names institutional trigger categories for **CI-5** (*Conflict integrity, anti-capture, and anti-corruption*) control maps and training. Shared cross-layer routing for integrity triggers is governed by `corpus_joint_structure.md` **CJS-5B.1*..."
+  },
+  {
+    "file": "corpus_institutions/ci_05_conflict_integrity_anti_capture_anti_corruption.md",
+    "section_id": "CI-5",
+    "title": "Conflict integrity, anti-capture, and anti-corruption",
+    "start_line": 1,
+    "end_line": 56,
+    "score": 16,
+    "confidence": "high",
+    "action": "split-CI-and-CJS",
+    "destinations": [
+      "CJS-5B",
+      "CJS-4.4",
+      "CJS-5C"
+    ],
+    "signals": [
+      "multi-owner-routing(1)",
+      "routing-read-with(1)",
+      "shared-procedure(5)",
+      "dependency-failure(4)",
+      "forum-system-touch(3)"
+    ],
+    "router_rows": [
+      "CJS-R19 \u2014 Implementation and cross-implementation integrity assurance and resilience operations",
+      "CJS-R17 \u2014 Cross-implementation trust integrity (joint operation model)",
+      "CJS-R18 \u2014 Class-scaled lane staffing and competency redundancy for materially binding stewardship"
+    ],
+    "similar_cjs": [],
+    "keep_notes": [
+      "institution-specific",
+      "rotation",
+      "dissolution"
+    ],
+    "summary": "Institutions must maintain: - auditable conflict controls that cover financial, relational, and role-based conflicts. - anti-corruption and anti-fraud controls across prevention, detection, response, and remediation. Required controls include: - disclosure..."
   },
   {
     "file": "corpus_institutions/ci_12_transparency_participation_accessible_pathways.md",
