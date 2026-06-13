@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-06-13T05:43:13+00:00",
+  "generated_at": "2026-06-13T05:51:31+00:00",
   "files": {
     "core_00-01_principles.md": {
       "total_lines": 1506,
@@ -5589,7 +5589,7 @@
       ]
     },
     "corpus_joint_structure/cjs_05b_00_evidence_audit_claim_integrity.md": {
-      "total_lines": 322,
+      "total_lines": 327,
       "sections": [
         {
           "header": "CJS-5B: Evidence, audit, and claim integrity",
@@ -5602,28 +5602,28 @@
           "header": "CJS-5B.1 Implementation and cross-implementation integrity assurance and resilience operations",
           "level": 2,
           "line_start": 36,
-          "line_end": 122,
+          "line_end": 127,
           "anchor": null
         },
         {
           "header": "CJS-5B.2 Implementation and cross-implementation auditability and reconstructability terms",
           "level": 2,
-          "line_start": 123,
-          "line_end": 183,
+          "line_start": 128,
+          "line_end": 188,
           "anchor": null
         },
         {
           "header": "CJS-5B.3 Implementation and cross-implementation tiered transparency and audit-access terms",
           "level": 2,
-          "line_start": 184,
-          "line_end": 256,
+          "line_start": 189,
+          "line_end": 261,
           "anchor": null
         },
         {
           "header": "CJS-5B.4 Implementation and cross-implementation independent verification and claim-integrity terms",
           "level": 2,
-          "line_start": 257,
-          "line_end": 322,
+          "line_start": 262,
+          "line_end": 327,
           "anchor": null
         }
       ]
@@ -5669,7 +5669,7 @@
       ]
     },
     "corpus_joint_structure/cjs_05d_00_dependency_exit_lifecycle_integrity.md": {
-      "total_lines": 323,
+      "total_lines": 328,
       "sections": [
         {
           "header": "CJS-5D: Dependency, exit, and lifecycle integrity",
@@ -5682,21 +5682,21 @@
           "header": "CJS-5D.1 Implementation and cross-implementation dependency integrity and disclosure terms",
           "level": 2,
           "line_start": 33,
-          "line_end": 115,
+          "line_end": 120,
           "anchor": null
         },
         {
           "header": "CJS-5D.2 Implementation and cross-implementation interoperability, portability, and exit-integrity terms",
           "level": 2,
-          "line_start": 116,
-          "line_end": 229,
+          "line_start": 121,
+          "line_end": 234,
           "anchor": null
         },
         {
           "header": "CJS-5D.3 Implementation and cross-implementation data-retention and lifecycle-integrity terms",
           "level": 2,
-          "line_start": 230,
-          "line_end": 323,
+          "line_start": 235,
+          "line_end": 328,
           "anchor": null
         }
       ]
@@ -5931,13 +5931,13 @@
       ]
     },
     "corpus_institutions/ci_09_classification_linked_institutional_obligations.md": {
-      "total_lines": 311,
+      "total_lines": 303,
       "sections": [
         {
           "header": "CI-9: Classification-linked institutional obligations",
           "level": 2,
           "line_start": 1,
-          "line_end": 311,
+          "line_end": 303,
           "anchor": null
         },
         {
@@ -5951,49 +5951,49 @@
           "header": "CI-9.2: Published industry and domain mapping",
           "level": 3,
           "line_start": 75,
-          "line_end": 111,
+          "line_end": 103,
           "anchor": null
         },
         {
           "header": "CI-9.3: Delegated subunits, institutional design class, and attachment discipline",
           "level": 3,
-          "line_start": 112,
-          "line_end": 150,
+          "line_start": 104,
+          "line_end": 142,
           "anchor": null
         },
         {
           "header": "CI-9.3.1: Identification and competence",
           "level": 3,
-          "line_start": 151,
-          "line_end": 182,
+          "line_start": 143,
+          "line_end": 174,
           "anchor": null
         },
         {
           "header": "CI-9.3.2: Authority composition",
           "level": 3,
-          "line_start": 183,
-          "line_end": 211,
+          "line_start": 175,
+          "line_end": 203,
           "anchor": null
         },
         {
           "header": "CI-9.3.3: Rotating authority: attachment bounds",
           "level": 3,
-          "line_start": 212,
-          "line_end": 243,
+          "line_start": 204,
+          "line_end": 235,
           "anchor": null
         },
         {
           "header": "CI-9.3.4: Home-based authority: term and renewal",
           "level": 3,
-          "line_start": 244,
-          "line_end": 270,
+          "line_start": 236,
+          "line_end": 262,
           "anchor": null
         },
         {
           "header": "CI-9.4: Survival floors, voluntary exchange, and markets (Article III-A interface)",
           "level": 3,
-          "line_start": 271,
-          "line_end": 311,
+          "line_start": 263,
+          "line_end": 303,
           "anchor": null
         }
       ]
@@ -6089,27 +6089,27 @@
       ]
     },
     "corpus_institutions/ci_14_transitional_governance_institutional_evolution.md": {
-      "total_lines": 126,
+      "total_lines": 123,
       "sections": [
         {
           "header": "CI-14: Transitional governance and institutional evolution",
           "level": 2,
           "line_start": 1,
-          "line_end": 126,
+          "line_end": 123,
           "anchor": null
         },
         {
           "header": "CI-14.1: Interface — Article XXV-D (non-compliant property, seizure, voluntary incentives)",
           "level": 3,
           "line_start": 34,
-          "line_end": 76,
+          "line_end": 73,
           "anchor": null
         },
         {
           "header": "CI-14.2: Article XXV-D — trigger catalog, anti-abuse metrics, and publication requirements",
           "level": 3,
-          "line_start": 77,
-          "line_end": 126,
+          "line_start": 74,
+          "line_end": 123,
           "anchor": null
         }
       ]

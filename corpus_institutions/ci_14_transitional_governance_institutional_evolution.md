@@ -56,12 +56,9 @@ Institutional transition interface (Article XXV interface):
 
 <br>
 
-Where transition plans address **non-compliant property or systems** under **Sentient Constitution Chapter Ten, Article XXV-D**, institutions must publish and maintain:
+Where transition plans address **non-compliant property or systems** under **Sentient Constitution Chapter Ten, Article XXV-D**, institutions must apply `corpus_joint_structure.md` **CJS-5B.1** (*Implementation and cross-implementation integrity assurance and resilience operations*) **Property-custody and incentive-separation control chain** for the shared custody, payout-separation, anti-gaming, contest, time-limit, fund-disbursement, and audit-record floor.
 
-- **Eligibility and process:** clear criteria linking measures to **Chapter Six** compliance determinations (read with **Chapter Four** burden and traceability where applicable) or equivalent binding findings, **notice** where feasible, **contest or review** pathways, and **time limits** on seizure, impoundment, or quarantine.
-- **Separation of lanes:** where practical, **payout or incentive adjudication** for voluntary turnover (**bounty**-style programs) must be **structurally separated** from **seizure or enforcement execution** to reduce capture risk and false-claim pressure.
-- **Anti-gaming:** documented controls against fraudulent turnover, collusion, identity abuse, and **bounty-driven** harassment or selective targeting; **audit trail** for fund disbursements.
-- **Sunset and fund custody:** published end dates aligned with **Article XXV-B**; **custody of assets and incentive pools** with **conflict disclosure** consistent with **CI-5** (*Conflict integrity, anti-capture, and anti-corruption*) of this file.
+This subsection states the institutional interface: institutions must publish the local eligibility criteria, responsible custody body, incentive or payout adjudicator, enforcement executor, review authority, fund owner, notice channel where feasible, and contest path. Measures must link to **Chapter Six** compliance determinations (read with **Chapter Four** burden and traceability where applicable) or equivalent binding findings; end dates must align with **Article XXV-B**; conflicts must be disclosed consistently with **CI-5** (*Conflict integrity, anti-capture, and anti-corruption*).
 
 After material structural change, institutions must run revalidation for:
 - authority custody,

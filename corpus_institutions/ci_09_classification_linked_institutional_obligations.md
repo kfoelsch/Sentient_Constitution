@@ -97,17 +97,9 @@ Scaling must be explicit at least for:
 
 <br>
 
-Institutions with regulated or supervised scope must publish how major industries and regulatory domains under their authority are located against `corpus_systems.md` **Chapter S2** classes and **Chapter S3** stewardship tiers.
+Institutions with regulated or supervised scope must publish how major industries and regulatory domains under their authority are located against `corpus_systems.md` **Chapter S2** classes and **Chapter S3** stewardship tiers. Apply `corpus_joint_structure.md` **CJS-5D.1** (*Implementation and cross-implementation dependency integrity and disclosure terms*) **Domain and sector classification mapping** for the shared domain-taxonomy, criticality, split-classification, and reclassification floor.
 
-That published map should use the canonical domain taxonomy in `corpus_systems.md` and should, at minimum where applicable, identify treatment for agriculture and food systems, mining and extractive industries, the built environment, energy and utilities, transportation and logistics, manufacturing and industrial systems, medicine and public health, information and communications, finance and insurance, and education and knowledge institutions.
-
-The publication must explain:
-- which domains are present in governed scope,
-- whether any domain is split across multiple classes or tiers,
-- which domains are presumptively survival-relevant, operationally critical, or coordination-critical in that jurisdiction,
-- what reclassification triggers apply when a domain becomes more dependency-critical than its historical treatment suggested.
-
-Institutions must not rely on unlabeled, ad hoc, or selectively applied sector categories to obscure burden, evade review, or impose inconsistent regulatory treatment on comparable activities.
+This subsection states the institutional owner duties: the publication must identify which domains are present in governed scope, assign local owners for maintaining the map, explain any jurisdiction-specific treatment of comparable activities, and update the map when dependency criticality, cascade risk, or operational facts change. Institutions must not use local sector labels to obscure burden, evade review, or impose inconsistent regulatory treatment without a documented proportional basis.
 
 ### CI-9.3: Delegated subunits, institutional design class, and attachment discipline
 <details>

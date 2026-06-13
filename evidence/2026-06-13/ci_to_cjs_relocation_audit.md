@@ -34,7 +34,7 @@ Summary: **Constitutional index (abridged)** - Topic-level routing and cited aut
 
 ### 2. CI-9.3: Delegated subunits, institutional design class, and attachment discipline
 
-- Source: `corpus_institutions/ci_09_classification_linked_institutional_obligations.md:112`
+- Source: `corpus_institutions/ci_09_classification_linked_institutional_obligations.md:104`
 - Score / confidence: 32 / high
 - Suggested action: `replace-with-pointer`
 - Proposed CJS destination: CJS-5A / CJS-4.1 / CJS-4.7, CJS-3 / CJS-4
@@ -132,7 +132,18 @@ Summary: **Purpose.** This section states the institutional application of `corp
 
 Summary: **Continuity planning:** Institutions must maintain resource adequacy for safe continuity and constitutional performance. Shared dependency-chain evaluation for funding, staffing, capacity, and resource adequacy is governed by `corpus_joint_structure.md` **...
 
-### 10. CI-10.1: Public revenue, user fees, and class-aligned burden
+### 10. CI-14.1: Interface — Article XXV-D (non-compliant property, seizure, voluntary incentives)
+
+- Source: `corpus_institutions/ci_14_transitional_governance_institutional_evolution.md:34`
+- Score / confidence: 20 / high
+- Suggested action: `split-CI-and-CJS`
+- Proposed CJS destination: CJS-5D, CJS-3 / CJS-4, CJS-5A / CJS-4.1 / CJS-4.7
+- Signals: multi-owner-routing(2), routing-read-with(5), shared-procedure(2), forum-system-touch(7)
+- Router matches: CJS-R19 — Implementation and cross-implementation integrity assurance and resilience operations; CJS-R17 — Cross-implementation trust integrity (joint operation model); CJS-R18 — Class-scaled lane staffing and competency redundancy for materially binding stewardship
+
+Summary: Where transition plans address **non-compliant property or systems** under **Sentient Constitution Chapter Ten, Article XXV-D**, institutions must apply `corpus_joint_structure.md` **CJS-5B.1** (*Implementation and cross-implementation integrity assurance a...
+
+### 11. CI-10.1: Public revenue, user fees, and class-aligned burden
 
 - Source: `corpus_institutions/ci_10_public_revenue_fees_recurring_charges_billing_integrity.md:29`
 - Score / confidence: 20 / high
@@ -144,7 +155,7 @@ Summary: **Continuity planning:** Institutions must maintain resource adequacy f
 
 Summary: This subsection states the institutional application of the shared class-aligned revenue and access-burden floor in `corpus_joint_structure.md` **CJS-5A.4** (*Implementation and cross-implementation burden-of-justification and constraint terms*). It does **...
 
-### 11. CI-9: Classification-linked institutional obligations
+### 12. CI-9: Classification-linked institutional obligations
 
 - Source: `corpus_institutions/ci_09_classification_linked_institutional_obligations.md:1`
 - Score / confidence: 20 / high
@@ -155,17 +166,6 @@ Summary: This subsection states the institutional application of the shared clas
 - Keep-in-CI cautions: dissolution, institutional formation
 
 Summary: **Constitutional index (abridged)** - Topic-level routing and cited authorities remain in subsection text and cross-references. - Canonical owner map: `corpus_joint_structure.md` **CJS-2.2** (*Topic router (stable IDs)*) and `doc_architecture.md` section 4....
-
-### 12. CI-14.1: Interface — Article XXV-D (non-compliant property, seizure, voluntary incentives)
-
-- Source: `corpus_institutions/ci_14_transitional_governance_institutional_evolution.md:34`
-- Score / confidence: 19 / high
-- Suggested action: `split-CI-and-CJS`
-- Proposed CJS destination: CJS-5D, CJS-5B, CJS-3 / CJS-4
-- Signals: multi-owner-routing(2), routing-read-with(3), shared-procedure(3), forum-system-touch(8)
-- Router matches: CJS-R19 — Implementation and cross-implementation integrity assurance and resilience operations; CJS-R17 — Cross-implementation trust integrity (joint operation model); CJS-R18 — Class-scaled lane staffing and competency redundancy for materially binding stewardship
-
-Summary: Where transition plans address **non-compliant property or systems** under **Sentient Constitution Chapter Ten, Article XXV-D**, institutions must publish and maintain: - **Eligibility and process:** clear criteria linking measures to **Chapter Six** compli...
 
 ### 13. CI-13: Institutional failure, sanctions, dissolution, and accountability
 
@@ -252,13 +252,13 @@ Summary: **Purpose.** This section records **institutional and system design exp
 ### 20. CI-9.2: Published industry and domain mapping
 
 - Source: `corpus_institutions/ci_09_classification_linked_institutional_obligations.md:75`
-- Score / confidence: 12 / high
+- Score / confidence: 13 / high
 - Suggested action: `split-CI-and-CJS`
 - Proposed CJS destination: CJS-5A / CJS-4.1 / CJS-4.7, CJS-5D, CJS-5B
-- Signals: multi-owner-routing(2), shared-procedure(1), dependency-failure(1), forum-system-touch(8)
-- Router matches: CJS-R19 — Implementation and cross-implementation integrity assurance and resilience operations; CJS-R17 — Cross-implementation trust integrity (joint operation model); CJS-R15 — Contest-integrity monitoring (pathway integrity, not merits)
+- Signals: multi-owner-routing(1), routing-read-with(2), shared-procedure(1), dependency-failure(1), forum-system-touch(4)
+- Router matches: CJS-R17 — Cross-implementation trust integrity (joint operation model); CJS-R19 — Implementation and cross-implementation integrity assurance and resilience operations; CJS-R15 — Contest-integrity monitoring (pathway integrity, not merits)
 
-Summary: Institutions with regulated or supervised scope must publish how major industries and regulatory domains under their authority are located against `corpus_systems.md` **Chapter S2** classes and **Chapter S3** stewardship tiers. That published map should use...
+Summary: Institutions with regulated or supervised scope must publish how major industries and regulatory domains under their authority are located against `corpus_systems.md` **Chapter S2** classes and **Chapter S3** stewardship tiers. Apply `corpus_joint_structure...
 
 ### 21. CI-7: Oversight, assurance, controls, and evidence
 
@@ -273,7 +273,7 @@ Summary: **Constitutional index (abridged)** - Topic-level routing and cited aut
 
 ### 22. CI-9.4: Survival floors, voluntary exchange, and markets (Article III-A interface)
 
-- Source: `corpus_institutions/ci_09_classification_linked_institutional_obligations.md:271`
+- Source: `corpus_institutions/ci_09_classification_linked_institutional_obligations.md:263`
 - Score / confidence: 11 / medium
 - Suggested action: `split-CI-and-CJS`
 - Proposed CJS destination: CJS-3 / CJS-4, CJS-5B, CJS-5A / CJS-4.1 / CJS-4.7
@@ -307,7 +307,7 @@ Summary: This subsection states the institutional application of `corpus_joint_s
 
 ### 25. CI-9.3.2: Authority composition
 
-- Source: `corpus_institutions/ci_09_classification_linked_institutional_obligations.md:183`
+- Source: `corpus_institutions/ci_09_classification_linked_institutional_obligations.md:175`
 - Score / confidence: 9 / medium
 - Suggested action: `replace-with-pointer`
 - Proposed CJS destination: CJS-3 / CJS-4, CJS-5A / CJS-4.1 / CJS-4.7, CJS-5B
@@ -420,7 +420,7 @@ Summary: Institutions whose governed scope is only planned Class P systems must 
 
 ### 35. CI-14.2: Article XXV-D — trigger catalog, anti-abuse metrics, and publication requirements
 
-- Source: `corpus_institutions/ci_14_transitional_governance_institutional_evolution.md:77`
+- Source: `corpus_institutions/ci_14_transitional_governance_institutional_evolution.md:74`
 - Score / confidence: 5 / low
 - Suggested action: `needs-human-review`
 - Proposed CJS destination: CJS-5B, CJS-5E, CJS-5C

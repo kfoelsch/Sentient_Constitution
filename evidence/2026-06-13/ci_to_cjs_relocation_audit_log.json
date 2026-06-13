@@ -37,8 +37,8 @@
     "file": "corpus_institutions/ci_09_classification_linked_institutional_obligations.md",
     "section_id": "CI-9.3",
     "title": "Delegated subunits, institutional design class, and attachment discipline",
-    "start_line": 112,
-    "end_line": 150,
+    "start_line": 104,
+    "end_line": 142,
     "score": 32,
     "confidence": "high",
     "action": "replace-with-pointer",
@@ -316,6 +316,35 @@
     "summary": "**Continuity planning:** Institutions must maintain resource adequacy for safe continuity and constitutional performance. Shared dependency-chain evaluation for funding, staffing, capacity, and resource adequacy is governed by `corpus_joint_structure.md` **..."
   },
   {
+    "file": "corpus_institutions/ci_14_transitional_governance_institutional_evolution.md",
+    "section_id": "CI-14.1",
+    "title": "Interface \u2014 Article XXV-D (non-compliant property, seizure, voluntary incentives)",
+    "start_line": 34,
+    "end_line": 73,
+    "score": 20,
+    "confidence": "high",
+    "action": "split-CI-and-CJS",
+    "destinations": [
+      "CJS-5D",
+      "CJS-3 / CJS-4",
+      "CJS-5A / CJS-4.1 / CJS-4.7"
+    ],
+    "signals": [
+      "multi-owner-routing(2)",
+      "routing-read-with(5)",
+      "shared-procedure(2)",
+      "forum-system-touch(7)"
+    ],
+    "router_rows": [
+      "CJS-R19 \u2014 Implementation and cross-implementation integrity assurance and resilience operations",
+      "CJS-R17 \u2014 Cross-implementation trust integrity (joint operation model)",
+      "CJS-R18 \u2014 Class-scaled lane staffing and competency redundancy for materially binding stewardship"
+    ],
+    "similar_cjs": [],
+    "keep_notes": [],
+    "summary": "Where transition plans address **non-compliant property or systems** under **Sentient Constitution Chapter Ten, Article XXV-D**, institutions must apply `corpus_joint_structure.md` **CJS-5B.1** (*Implementation and cross-implementation integrity assurance a..."
+  },
+  {
     "file": "corpus_institutions/ci_10_public_revenue_fees_recurring_charges_billing_integrity.md",
     "section_id": "CI-10.1",
     "title": "Public revenue, user fees, and class-aligned burden",
@@ -380,35 +409,6 @@
       "institutional formation"
     ],
     "summary": "**Constitutional index (abridged)** - Topic-level routing and cited authorities remain in subsection text and cross-references. - Canonical owner map: `corpus_joint_structure.md` **CJS-2.2** (*Topic router (stable IDs)*) and `doc_architecture.md` section 4...."
-  },
-  {
-    "file": "corpus_institutions/ci_14_transitional_governance_institutional_evolution.md",
-    "section_id": "CI-14.1",
-    "title": "Interface \u2014 Article XXV-D (non-compliant property, seizure, voluntary incentives)",
-    "start_line": 34,
-    "end_line": 76,
-    "score": 19,
-    "confidence": "high",
-    "action": "split-CI-and-CJS",
-    "destinations": [
-      "CJS-5D",
-      "CJS-5B",
-      "CJS-3 / CJS-4"
-    ],
-    "signals": [
-      "multi-owner-routing(2)",
-      "routing-read-with(3)",
-      "shared-procedure(3)",
-      "forum-system-touch(8)"
-    ],
-    "router_rows": [
-      "CJS-R19 \u2014 Implementation and cross-implementation integrity assurance and resilience operations",
-      "CJS-R17 \u2014 Cross-implementation trust integrity (joint operation model)",
-      "CJS-R18 \u2014 Class-scaled lane staffing and competency redundancy for materially binding stewardship"
-    ],
-    "similar_cjs": [],
-    "keep_notes": [],
-    "summary": "Where transition plans address **non-compliant property or systems** under **Sentient Constitution Chapter Ten, Article XXV-D**, institutions must publish and maintain: - **Eligibility and process:** clear criteria linking measures to **Chapter Six** compli..."
   },
   {
     "file": "corpus_institutions/ci_13_institutional_failure_sanctions_dissolution_accountability.md",
@@ -638,8 +638,8 @@
     "section_id": "CI-9.2",
     "title": "Published industry and domain mapping",
     "start_line": 75,
-    "end_line": 111,
-    "score": 12,
+    "end_line": 103,
+    "score": 13,
     "confidence": "high",
     "action": "split-CI-and-CJS",
     "destinations": [
@@ -648,19 +648,20 @@
       "CJS-5B"
     ],
     "signals": [
-      "multi-owner-routing(2)",
+      "multi-owner-routing(1)",
+      "routing-read-with(2)",
       "shared-procedure(1)",
       "dependency-failure(1)",
-      "forum-system-touch(8)"
+      "forum-system-touch(4)"
     ],
     "router_rows": [
-      "CJS-R19 \u2014 Implementation and cross-implementation integrity assurance and resilience operations",
       "CJS-R17 \u2014 Cross-implementation trust integrity (joint operation model)",
+      "CJS-R19 \u2014 Implementation and cross-implementation integrity assurance and resilience operations",
       "CJS-R15 \u2014 Contest-integrity monitoring (pathway integrity, not merits)"
     ],
     "similar_cjs": [],
     "keep_notes": [],
-    "summary": "Institutions with regulated or supervised scope must publish how major industries and regulatory domains under their authority are located against `corpus_systems.md` **Chapter S2** classes and **Chapter S3** stewardship tiers. That published map should use..."
+    "summary": "Institutions with regulated or supervised scope must publish how major industries and regulatory domains under their authority are located against `corpus_systems.md` **Chapter S2** classes and **Chapter S3** stewardship tiers. Apply `corpus_joint_structure..."
   },
   {
     "file": "corpus_institutions/ci_07_oversight_assurance_controls_evidence.md",
@@ -694,8 +695,8 @@
     "file": "corpus_institutions/ci_09_classification_linked_institutional_obligations.md",
     "section_id": "CI-9.4",
     "title": "Survival floors, voluntary exchange, and markets (Article III-A interface)",
-    "start_line": 271,
-    "end_line": 311,
+    "start_line": 263,
+    "end_line": 303,
     "score": 11,
     "confidence": "medium",
     "action": "split-CI-and-CJS",
@@ -784,8 +785,8 @@
     "file": "corpus_institutions/ci_09_classification_linked_institutional_obligations.md",
     "section_id": "CI-9.3.2",
     "title": "Authority composition",
-    "start_line": 183,
-    "end_line": 211,
+    "start_line": 175,
+    "end_line": 203,
     "score": 9,
     "confidence": "medium",
     "action": "replace-with-pointer",
@@ -1072,8 +1073,8 @@
     "file": "corpus_institutions/ci_14_transitional_governance_institutional_evolution.md",
     "section_id": "CI-14.2",
     "title": "Article XXV-D \u2014 trigger catalog, anti-abuse metrics, and publication requirements",
-    "start_line": 77,
-    "end_line": 126,
+    "start_line": 74,
+    "end_line": 123,
     "score": 5,
     "confidence": "low",
     "action": "needs-human-review",
