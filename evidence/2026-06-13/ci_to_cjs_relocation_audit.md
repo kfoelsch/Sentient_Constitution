@@ -20,19 +20,7 @@ This is an editorial exposure audit. It identifies candidate passages for reloca
 
 ## Candidates
 
-### 1. CI-15: Vulnerable personal services markets — general regulation and Article X-C interface
-
-- Source: `corpus_institutions/ci_15_vulnerable_personal_services_markets_article_xc_interface.md:1`
-- Score / confidence: 33 / high
-- Suggested action: `split-CI-and-CJS`
-- Proposed CJS destination: CJS-5D, CJS-5C, CJS-5B
-- Signals: joint-interface(1), multi-owner-routing(3), routing-read-with(2), cjs-cluster(2), shared-procedure(4), dependency-failure(3), forum-system-touch(12)
-- Router matches: CJS-R17 — Cross-implementation trust integrity (joint operation model); CJS-R19 — Implementation and cross-implementation integrity assurance and resilience operations; CJS-R15 — Contest-integrity monitoring (pathway integrity, not merits)
-- Keep-in-CI cautions: fees
-
-Summary: **Purpose.** This section records **institutional design expectations** for **Chapter Ten**, **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*) and parallel stewardship of other lawful **high-vulnerability personal-servi...
-
-### 2. CI-9.3: Delegated subunits, institutional design class, and attachment discipline
+### 1. CI-9.3: Delegated subunits, institutional design class, and attachment discipline
 
 - Source: `corpus_institutions/ci_09_classification_linked_institutional_obligations.md:93`
 - Score / confidence: 32 / high
@@ -47,7 +35,7 @@ Summary: **Purpose.** This subsection applies the shared delegated-body abstract
 Near CJS matches:
 - 0.36: `corpus_joint_structure/cjs_03_joint_structural_obligations.md:163` (CJS-3.5 Classification alignment for supervised scope) — When an institution supervises systems governed by `corpus_systems.md` **Chapter S2** or **Chapter S3**, its published maps under **CI-9....
 
-### 3. CI-1: Scope, purpose, and legitimacy interface
+### 2. CI-1: Scope, purpose, and legitimacy interface
 
 - Source: `corpus_institutions/ci_01_scope_purpose_legitimacy_interface.md:23`
 - Score / confidence: 30 / high
@@ -59,7 +47,7 @@ Near CJS matches:
 
 Summary: CI-1 governs the scope, purpose, legitimacy interface, and reading rules for institutional implementation. Institutions may design local procedures, but those procedures must remain consistent with constitutional hierarchy, rights, and challenge pathways. T...
 
-### 4. CI-16: Innovation reward, disclosure, and anti-enclosure
+### 3. CI-16: Innovation reward, disclosure, and anti-enclosure
 
 - Source: `corpus_institutions/ci_16_innovation_reward_disclosure_anti_enclosure.md:1`
 - Score / confidence: 29 / high
@@ -71,7 +59,7 @@ Summary: CI-1 governs the scope, purpose, legitimacy interface, and reading rule
 
 Summary: **Purpose and owner boundary.** This section governs institutional handling of innovation-reward systems where constitutional adoption brings them within scope. Constitutional meaning remains in **Chapter Five** (*Innovation Reward and Anti-Enclosure*) and...
 
-### 5. CI-7.3: Contest-integrity monitoring (Class A and Class B)
+### 4. CI-7.3: Contest-integrity monitoring (Class A and Class B)
 
 - Source: `corpus_institutions/ci_07_oversight_assurance_controls_evidence.md:106`
 - Score / confidence: 28 / high
@@ -82,6 +70,18 @@ Summary: **Purpose and owner boundary.** This section governs institutional hand
 - Keep-in-CI cautions: appointment, rotation, removal
 
 Summary: Where institutional governed scope includes **Class A** or **Class B** systems (`corpus_systems.md` **Chapter S2**), institutions must maintain **contest-integrity** capacity as part of the **independent assurance line**, or through an equivalent documented...
+
+### 5. CI-15: Vulnerable personal services markets — general regulation and Article X-C interface
+
+- Source: `corpus_institutions/ci_15_vulnerable_personal_services_markets_article_xc_interface.md:1`
+- Score / confidence: 27 / high
+- Suggested action: `split-CI-and-CJS`
+- Proposed CJS destination: CJS-5B, CJS-5D, CJS-5C
+- Signals: multi-owner-routing(2), routing-read-with(4), cjs-cluster(1), shared-procedure(3), dependency-failure(3), forum-system-touch(13)
+- Router matches: CJS-R19 — Implementation and cross-implementation integrity assurance and resilience operations; CJS-R17 — Cross-implementation trust integrity (joint operation model); CJS-R15 — Contest-integrity monitoring (pathway integrity, not merits)
+- Keep-in-CI cautions: fees
+
+Summary: **Purpose.** This section records **institutional design expectations** for **Chapter Ten**, **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*) and parallel stewardship of other lawful **high-vulnerability personal-servi...
 
 ### 6. CI-17: Scientific publication, peer review, replication, and evidence stewardship
 

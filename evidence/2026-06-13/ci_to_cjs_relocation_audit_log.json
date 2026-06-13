@@ -1,39 +1,5 @@
 [
   {
-    "file": "corpus_institutions/ci_15_vulnerable_personal_services_markets_article_xc_interface.md",
-    "section_id": "CI-15",
-    "title": "Vulnerable personal services markets \u2014 general regulation and Article X-C interface",
-    "start_line": 1,
-    "end_line": 62,
-    "score": 33,
-    "confidence": "high",
-    "action": "split-CI-and-CJS",
-    "destinations": [
-      "CJS-5D",
-      "CJS-5C",
-      "CJS-5B"
-    ],
-    "signals": [
-      "joint-interface(1)",
-      "multi-owner-routing(3)",
-      "routing-read-with(2)",
-      "cjs-cluster(2)",
-      "shared-procedure(4)",
-      "dependency-failure(3)",
-      "forum-system-touch(12)"
-    ],
-    "router_rows": [
-      "CJS-R17 \u2014 Cross-implementation trust integrity (joint operation model)",
-      "CJS-R19 \u2014 Implementation and cross-implementation integrity assurance and resilience operations",
-      "CJS-R15 \u2014 Contest-integrity monitoring (pathway integrity, not merits)"
-    ],
-    "similar_cjs": [],
-    "keep_notes": [
-      "fees"
-    ],
-    "summary": "**Purpose.** This section records **institutional design expectations** for **Chapter Ten**, **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*) and parallel stewardship of other lawful **high-vulnerability personal-servi..."
-  },
-  {
     "file": "corpus_institutions/ci_09_classification_linked_institutional_obligations.md",
     "section_id": "CI-9.3",
     "title": "Delegated subunits, institutional design class, and attachment discipline",
@@ -172,6 +138,39 @@
       "removal"
     ],
     "summary": "Where institutional governed scope includes **Class A** or **Class B** systems (`corpus_systems.md` **Chapter S2**), institutions must maintain **contest-integrity** capacity as part of the **independent assurance line**, or through an equivalent documented..."
+  },
+  {
+    "file": "corpus_institutions/ci_15_vulnerable_personal_services_markets_article_xc_interface.md",
+    "section_id": "CI-15",
+    "title": "Vulnerable personal services markets \u2014 general regulation and Article X-C interface",
+    "start_line": 1,
+    "end_line": 62,
+    "score": 27,
+    "confidence": "high",
+    "action": "split-CI-and-CJS",
+    "destinations": [
+      "CJS-5B",
+      "CJS-5D",
+      "CJS-5C"
+    ],
+    "signals": [
+      "multi-owner-routing(2)",
+      "routing-read-with(4)",
+      "cjs-cluster(1)",
+      "shared-procedure(3)",
+      "dependency-failure(3)",
+      "forum-system-touch(13)"
+    ],
+    "router_rows": [
+      "CJS-R19 \u2014 Implementation and cross-implementation integrity assurance and resilience operations",
+      "CJS-R17 \u2014 Cross-implementation trust integrity (joint operation model)",
+      "CJS-R15 \u2014 Contest-integrity monitoring (pathway integrity, not merits)"
+    ],
+    "similar_cjs": [],
+    "keep_notes": [
+      "fees"
+    ],
+    "summary": "**Purpose.** This section records **institutional design expectations** for **Chapter Ten**, **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*) and parallel stewardship of other lawful **high-vulnerability personal-servi..."
   },
   {
     "file": "corpus_institutions/ci_17_scientific_publication_peer_review_replication_evidence_stewardship.md",
