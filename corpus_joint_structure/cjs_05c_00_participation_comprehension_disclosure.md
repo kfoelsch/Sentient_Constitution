@@ -117,10 +117,20 @@ Notification and pathway integrity
 - OP-E: Evaluation must verify that notice and pathways are understandable enough to use before the outcome hardens.
 - OP-C: Formal participation is non-compliant when notice is incomplete, too late, or practically unusable.
 
+Stakeholder oversight and binding-governance pathway integrity
+- OP-O: Where a materially affected stakeholder channel is used for governance, review, consultation, notice, or binding input, the implementation scope must publish how stakeholder status is identified, what participation or review rights follow, which challenge and correction paths exist, and whether the resulting pathway is advisory, binding, or otherwise relied on for governance effect.
+- OP-E: Evaluation must verify notice timing and content, affected-class coverage, pathway status, weighting or entitlement rules where used, records of submissions and reasons, privacy or security limits on publication, and any transition, adaptation, downgrade, transfer, or exit implications created by the decision.
+- OP-C: It is non-compliant to present symbolic consultation as binding governance, to present binding governance as optional consultation, to hide material exit or adaptation consequences, or to rely on participation records that cannot later support accountable reconstruction.
+
 Community and associational pathway integrity
 - OP-O: Where an implementation scope controls shared spaces, civic infrastructure, cultural gathering, peaceable assembly, recreation, non-instrumental time, or comparable association pathways, access rules must preserve practical participation, freedom not to associate, freedom to leave coercive group settings, and protection against hostile-design exclusion.
 - OP-E: Evaluation must verify classification-scaled transparency, anti-capture controls, routing, visibility, fee, licensing, zoning, moderation, access, and exit rules together, including digital and physical chokepoints that can functionally exclude lawful gathering, cultural practice, or non-productive time.
 - OP-C: It is non-compliant to claim participatory legitimacy where productivity-only allocation, private chokepoints, inaccessible pathway design, coerced belonging, exclusionary local hierarchy, retaliation risk, or informal coercion blocks practical community access without a lawful necessity record and usable contest route.
+
+Commons, cooperative, and mutual-aid pathway integrity
+- OP-O: Where an implementation scope relies on commons governance, cooperative stewardship, mutual aid, participatory budgeting, community-managed resources, or non-market reciprocity, records of stewardship rotation, mutual obligation, conflict handling, and resource allocation must be legible enough for funding, continuity, audit, fraud-control, and participation review without forcing the pathway into only state, corporate, or adversarial-forum forms.
+- OP-E: Evaluation must verify that non-market reciprocity, fiscal treatment, access rules, exclusion decisions, informal power, and independent-review routes are assessed together, including whether tax, zoning, funding, eligibility, or continuity rules accidentally criminalize or disable solidarity mechanisms that satisfy necessity, proportionality, and dependency-integrity requirements.
+- OP-C: A commons, cooperative, or mutual-aid pathway is non-compliant if it uses informality to hide exclusion, coercion, fraud, capture, or appeal denial; if ordinary fiscal or licensing treatment functionally prohibits lawful solidarity without proportionate justification; or if romanticized community process blocks independent review for sentients harmed by informal power.
 
 ---
 

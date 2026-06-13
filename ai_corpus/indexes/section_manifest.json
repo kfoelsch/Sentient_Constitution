@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-06-13T03:57:42+00:00",
+  "generated_at": "2026-06-13T05:43:13+00:00",
   "files": {
     "core_00-01_principles.md": {
       "total_lines": 1506,
@@ -5629,7 +5629,7 @@
       ]
     },
     "corpus_joint_structure/cjs_05c_00_participation_comprehension_disclosure.md": {
-      "total_lines": 356,
+      "total_lines": 366,
       "sections": [
         {
           "header": "CJS-5C: Participation, comprehension, and disclosure",
@@ -5642,28 +5642,28 @@
           "header": "CJS-5C.1 Implementation and cross-implementation quorum and participatory legitimacy terms",
           "level": 2,
           "line_start": 37,
-          "line_end": 126,
+          "line_end": 136,
           "anchor": null
         },
         {
           "header": "CJS-5C.2 Implementation and cross-implementation comprehensibility and cognitive accessibility terms",
           "level": 2,
-          "line_start": 127,
-          "line_end": 209,
+          "line_start": 137,
+          "line_end": 219,
           "anchor": null
         },
         {
           "header": "CJS-5C.3 Implementation and cross-implementation salience integrity and attention-allocation terms",
           "level": 2,
-          "line_start": 210,
-          "line_end": 295,
+          "line_start": 220,
+          "line_end": 305,
           "anchor": null
         },
         {
           "header": "CJS-5C.4 Implementation and cross-implementation disclosure sufficiency and observability terms",
           "level": 2,
-          "line_start": 296,
-          "line_end": 356,
+          "line_start": 306,
+          "line_end": 366,
           "anchor": null
         }
       ]
@@ -6037,41 +6037,41 @@
       ]
     },
     "corpus_institutions/ci_12_transparency_participation_accessible_pathways.md": {
-      "total_lines": 196,
+      "total_lines": 188,
       "sections": [
         {
           "header": "CI-12: Transparency, participation, and accessible pathways",
           "level": 2,
           "line_start": 1,
-          "line_end": 196,
+          "line_end": 188,
           "anchor": null
         },
         {
           "header": "CI-12.1: Stakeholder oversight, notification, and binding-governance pathway integrity",
           "level": 3,
           "line_start": 38,
-          "line_end": 74,
+          "line_end": 66,
           "anchor": null
         },
         {
           "header": "CI-12.2: Anti-concentration and participation-legitimacy safeguards",
           "level": 3,
-          "line_start": 75,
-          "line_end": 118,
+          "line_start": 67,
+          "line_end": 110,
           "anchor": null
         },
         {
           "header": "CI-12.3: Digital self-service pathway integrity",
           "level": 3,
-          "line_start": 119,
-          "line_end": 153,
+          "line_start": 111,
+          "line_end": 145,
           "anchor": null
         },
         {
           "header": "CI-12.4: Governance disclosure schema",
           "level": 3,
-          "line_start": 154,
-          "line_end": 196,
+          "line_start": 146,
+          "line_end": 188,
           "anchor": null
         }
       ]

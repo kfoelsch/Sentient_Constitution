@@ -24,13 +24,13 @@
 <br>
 
 
-**Purpose.** This section supports **commons**-based and **community-managed** **resource** **patterns** **without** **forcing** every **durable** **institution** into **only** **state**, **corporate**, or **adversarial-forum** **molds** — while **keeping** **due** **process**, **contestability**, and **anti-capture** **requirements** from **CI-6** (*Procedure integrity, contestability, and secondary review*), **CI-9** (*Classification-linked institutional obligations*), and **CI-12** (*Transparency, participation, and accessible pathways*).
+**Purpose.** This section states the institutional application of `corpus_joint_structure.md` **CJS-5C.1** (*Implementation and cross-implementation quorum and participatory legitimacy terms*) **Commons, cooperative, and mutual-aid pathway integrity**, while preserving local due-process, contestability, anti-capture, funding, zoning, tax, and continuity interfaces under **CI-6** (*Procedure integrity, contestability, and secondary review*), **CI-9** (*Classification-linked institutional obligations*), **CI-12** (*Transparency, participation, and accessible pathways*), and **CI-11** (*Resource stewardship and incentive integrity*).
 
-**1. Records and recognition.** **Institutions** should **accept** **legible** **commons**-**governance** **records** — **stewardship** **rotations**, **mutual** **obligations**, **conflict** **circles**, **participatory** **budget** **inputs** — as **valid** **inputs** to **funding**, **zoning**, **tax**, and **continuity** **decisions** where **law** **permits**, **subject** to **audit** and **fraud** **controls**.
+**1. Records and recognition.** Institutions should accept legible commons-governance records as valid inputs to funding, zoning, tax, and continuity decisions where law permits, subject to audit and fraud controls under the shared CJS pathway rule.
 
-**2. Non-market reciprocity.** **Map** **mutual** **aid** and **cooperative** **infrastructure** to **Protocol S5** and **CI-11** (*Resource stewardship and incentive integrity*) so **fiscal** **rules** do **not** **accidentally** **criminalize** **solidarity** **mechanisms** that **satisfy** **Necessity** and **Proportionality**.
+**2. Non-market reciprocity.** Institutions must map mutual aid and cooperative infrastructure to **Protocol S5** and **CI-11** so fiscal rules do not accidentally criminalize solidarity mechanisms that satisfy the shared CJS pathway rule.
 
-**3. Anti-romanticization guardrails.** **Community** **process** must **include** **appeal** to **independent** **review** when **exclusion** or **informal** **power** **harms** **sentients**; **read** **CI-18** (*Community life, voluntary association, and non-instrumental time*) **section 2** and **CI-21** (*Relational coercive control, intimate power, and anti-domination routing*).
+**3. Anti-romanticization guardrails.** Community process must include appeal to independent review when exclusion or informal power harms sentients; read **CI-18** (*Community life, voluntary association, and non-instrumental time*) section 2 and **CI-21** (*Relational coercive control, intimate power, and anti-domination routing*).
 
 ---
 

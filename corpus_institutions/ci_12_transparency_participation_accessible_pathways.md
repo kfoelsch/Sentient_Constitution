@@ -60,17 +60,9 @@ Pathways into stewardship responsibility (**Chapter Ten**, section 5 interface):
 
 <br>
 
-Institutions must maintain practical channels through which materially affected stakeholders can receive notice, participate, contest, and track outcomes for governance decisions that materially affect them.
+This subsection states the institutional application of `corpus_joint_structure.md` **CJS-5C.1** (*Implementation and cross-implementation quorum and participatory legitimacy terms*) **Stakeholder oversight and binding-governance pathway integrity**.
 
-**Stakeholder oversight channels.** Institutions must publish how stakeholder status is identified for the relevant governance scope, what participation or review rights follow from that status, and which pathways exist for challenge, escalation, or correction. These channels must remain auditable, contestable, and usable in practice.
-
-**Notification integrity.** For proposed material changes to governance, policy, supervised operation, access conditions, or dependency-relevant institutional design, institutions must provide timely notice proportionate to impact. Notice must identify the proposed change, likely effects, practical timeline, available participation path, and any expected transition or exit implications where those are materially relevant.
-
-**Binding-governance pathway integrity.** Where institutions use participatory or stakeholder-facing deliberation as an input to binding decisions, the institution must publish the decision path, any weighting or entitlement rule that lawfully applies, the review path, and the status of the resulting outcome. Institutions must not present symbolic consultation as binding governance, and must not present binding governance as purely optional consultation.
-
-**Contestability and recordkeeping.** Institutions must preserve attributable records showing notice given, participation windows used, material submissions received, reasons for outcome, and any further review or implementation path. Where privacy, security, or other lawful limits constrain full publication, institutions must still preserve a later reconstruction and accountable-review path.
-
-**Exit and adaptation relevance.** Where institutional decisions materially change obligations, dependencies, or practical conditions of continued participation, institutions must disclose whether adaptation, downgrade, transfer, or exit options exist, and any material limits on those options.
+Institutions must publish the local stakeholder-status method, participation windows, review rights, institutional decision path, responsible office, and escalation route for governance decisions that materially affect stakeholders. Local records must show notice, material submissions, reasons, outcome status, and any further review or implementation path, while preserving a later reconstruction path where privacy, security, or other lawful limits constrain full publication. Where institutional decisions materially change obligations, dependencies, or practical conditions of continued participation, the local notice must identify any available adaptation, downgrade, transfer, or exit options and the material limits on those options.
 
 ### CI-12.2: Anti-concentration and participation-legitimacy safeguards
 <details>
