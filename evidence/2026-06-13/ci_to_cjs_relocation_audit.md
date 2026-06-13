@@ -20,19 +20,7 @@ This is an editorial exposure audit. It identifies candidate passages for reloca
 
 ## Candidates
 
-### 1. CI-7.3: Contest-integrity monitoring (Class A and Class B)
-
-- Source: `corpus_institutions/ci_07_oversight_assurance_controls_evidence.md:106`
-- Score / confidence: 28 / high
-- Suggested action: `split-CI-and-CJS`
-- Proposed CJS destination: CJS-5B, CJS-4.4, CJS-3 / CJS-4
-- Signals: multi-owner-routing(2), routing-read-with(3), cjs-cluster(2), shared-procedure(4), dependency-failure(2), forum-system-touch(13)
-- Router matches: CJS-R19 — Implementation and cross-implementation integrity assurance and resilience operations; CJS-R17 — Cross-implementation trust integrity (joint operation model); CJS-R15 — Contest-integrity monitoring (pathway integrity, not merits)
-- Keep-in-CI cautions: appointment, rotation, removal
-
-Summary: Where institutional governed scope includes **Class A** or **Class B** systems (`corpus_systems.md` **Chapter S2**), institutions must maintain **contest-integrity** capacity as part of the **independent assurance line**, or through an equivalent documented...
-
-### 2. CI-15: Vulnerable personal services markets — general regulation and Article X-C interface
+### 1. CI-15: Vulnerable personal services markets — general regulation and Article X-C interface
 
 - Source: `corpus_institutions/ci_15_vulnerable_personal_services_markets_article_xc_interface.md:1`
 - Score / confidence: 25 / high
@@ -44,7 +32,7 @@ Summary: Where institutional governed scope includes **Class A** or **Class B** 
 
 Summary: **Purpose.** This section records **institutional design expectations** for **Chapter Ten**, **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*) and parallel stewardship of other lawful **high-vulnerability personal-servi...
 
-### 3. CI-11: Resource stewardship and incentive integrity
+### 2. CI-11: Resource stewardship and incentive integrity
 
 - Source: `corpus_institutions/ci_11_resource_stewardship_incentive_integrity.md:1`
 - Score / confidence: 24 / high
@@ -56,7 +44,7 @@ Summary: **Purpose.** This section records **institutional design expectations**
 
 Summary: **Continuity planning:** Institutions must maintain resource adequacy for safe continuity and constitutional performance. Shared dependency-chain evaluation for funding, staffing, capacity, and resource adequacy is governed by `corpus_joint_structure.md` **...
 
-### 4. CI-17: Scientific publication, peer review, replication, and evidence stewardship
+### 3. CI-17: Scientific publication, peer review, replication, and evidence stewardship
 
 - Source: `corpus_institutions/ci_17_scientific_publication_peer_review_replication_evidence_stewardship.md:1`
 - Score / confidence: 23 / high
@@ -67,7 +55,7 @@ Summary: **Continuity planning:** Institutions must maintain resource adequacy f
 
 Summary: **Purpose and owner boundary.** This section governs the institutional custody, funding, ranking, archival, reliance, and review mechanics for scientific and scholarly claims where constitutional adoption brings those functions within scope. Constitutional...
 
-### 5. CI-16: Innovation reward, disclosure, and anti-enclosure
+### 4. CI-16: Innovation reward, disclosure, and anti-enclosure
 
 - Source: `corpus_institutions/ci_16_innovation_reward_disclosure_anti_enclosure.md:1`
 - Score / confidence: 23 / high
@@ -79,7 +67,7 @@ Summary: **Purpose and owner boundary.** This section governs the institutional 
 
 Summary: **Purpose and owner boundary.** This section governs institutional handling of innovation-reward systems where constitutional adoption brings them within scope. Constitutional meaning remains in **Chapter Five** (*Innovation Reward and Anti-Enclosure*) and...
 
-### 6. CI-9.3: Delegated subunits, institutional design class, and attachment discipline
+### 5. CI-9.3: Delegated subunits, institutional design class, and attachment discipline
 
 - Source: `corpus_institutions/ci_09_classification_linked_institutional_obligations.md:93`
 - Score / confidence: 23 / high
@@ -92,6 +80,18 @@ Summary: **Purpose.** This subsection applies the shared delegated-body abstract
 
 Near CJS matches:
 - 0.36: `corpus_joint_structure/cjs_03_joint_structural_obligations.md:163` (CJS-3.5 Classification alignment for supervised scope) — When an institution supervises systems governed by `corpus_systems.md` **Chapter S2** or **Chapter S3**, its published maps under **CI-9....
+
+### 6. CI-7.3: Contest-integrity monitoring (Class A and Class B)
+
+- Source: `corpus_institutions/ci_07_oversight_assurance_controls_evidence.md:106`
+- Score / confidence: 21 / high
+- Suggested action: `split-CI-and-CJS`
+- Proposed CJS destination: CJS-5B, CJS-4.4, CJS-3 / CJS-4
+- Signals: multi-owner-routing(1), routing-read-with(1), cjs-cluster(2), shared-procedure(4), dependency-failure(2), forum-system-touch(10)
+- Router matches: CJS-R19 — Implementation and cross-implementation integrity assurance and resilience operations; CJS-R17 — Cross-implementation trust integrity (joint operation model); CJS-R15 — Contest-integrity monitoring (pathway integrity, not merits)
+- Keep-in-CI cautions: appointment, rotation, removal
+
+Summary: For covered **Class A** or **Class B** supervised scope, institutions must provide contest-integrity monitoring through the independent assurance line or an equivalent documented arrangement. Apply `corpus_joint_structure.md` **CJS-5B.1** (*Implementation a...
 
 ### 7. CI-14.1: Interface — Article XXV-D (non-compliant property, seizure, voluntary incentives)
 

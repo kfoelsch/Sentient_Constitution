@@ -1,40 +1,5 @@
 [
   {
-    "file": "corpus_institutions/ci_07_oversight_assurance_controls_evidence.md",
-    "section_id": "CI-7.3",
-    "title": "Contest-integrity monitoring (Class A and Class B)",
-    "start_line": 106,
-    "end_line": 152,
-    "score": 28,
-    "confidence": "high",
-    "action": "split-CI-and-CJS",
-    "destinations": [
-      "CJS-5B",
-      "CJS-4.4",
-      "CJS-3 / CJS-4"
-    ],
-    "signals": [
-      "multi-owner-routing(2)",
-      "routing-read-with(3)",
-      "cjs-cluster(2)",
-      "shared-procedure(4)",
-      "dependency-failure(2)",
-      "forum-system-touch(13)"
-    ],
-    "router_rows": [
-      "CJS-R19 \u2014 Implementation and cross-implementation integrity assurance and resilience operations",
-      "CJS-R17 \u2014 Cross-implementation trust integrity (joint operation model)",
-      "CJS-R15 \u2014 Contest-integrity monitoring (pathway integrity, not merits)"
-    ],
-    "similar_cjs": [],
-    "keep_notes": [
-      "appointment",
-      "rotation",
-      "removal"
-    ],
-    "summary": "Where institutional governed scope includes **Class A** or **Class B** systems (`corpus_systems.md` **Chapter S2**), institutions must maintain **contest-integrity** capacity as part of the **independent assurance line**, or through an equivalent documented..."
-  },
-  {
     "file": "corpus_institutions/ci_15_vulnerable_personal_services_markets_article_xc_interface.md",
     "section_id": "CI-15",
     "title": "Vulnerable personal services markets \u2014 general regulation and Article X-C interface",
@@ -202,6 +167,41 @@
     ],
     "keep_notes": [],
     "summary": "**Purpose.** This subsection applies the shared delegated-body abstractions in `corpus_joint_structure.md` **CJS-4.1** (*Mandatory hybrid authority composition (delegated binding bodies)*) and **CJS-4.7** (*Shared procedural abstractions for delegated bodie..."
+  },
+  {
+    "file": "corpus_institutions/ci_07_oversight_assurance_controls_evidence.md",
+    "section_id": "CI-7.3",
+    "title": "Contest-integrity monitoring (Class A and Class B)",
+    "start_line": 106,
+    "end_line": 152,
+    "score": 21,
+    "confidence": "high",
+    "action": "split-CI-and-CJS",
+    "destinations": [
+      "CJS-5B",
+      "CJS-4.4",
+      "CJS-3 / CJS-4"
+    ],
+    "signals": [
+      "multi-owner-routing(1)",
+      "routing-read-with(1)",
+      "cjs-cluster(2)",
+      "shared-procedure(4)",
+      "dependency-failure(2)",
+      "forum-system-touch(10)"
+    ],
+    "router_rows": [
+      "CJS-R19 \u2014 Implementation and cross-implementation integrity assurance and resilience operations",
+      "CJS-R17 \u2014 Cross-implementation trust integrity (joint operation model)",
+      "CJS-R15 \u2014 Contest-integrity monitoring (pathway integrity, not merits)"
+    ],
+    "similar_cjs": [],
+    "keep_notes": [
+      "appointment",
+      "rotation",
+      "removal"
+    ],
+    "summary": "For covered **Class A** or **Class B** supervised scope, institutions must provide contest-integrity monitoring through the independent assurance line or an equivalent documented arrangement. Apply `corpus_joint_structure.md` **CJS-5B.1** (*Implementation a..."
   },
   {
     "file": "corpus_institutions/ci_14_transitional_governance_institutional_evolution.md",
