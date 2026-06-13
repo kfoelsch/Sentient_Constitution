@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-06-13T05:51:31+00:00",
+  "generated_at": "2026-06-13T06:17:24+00:00",
   "files": {
     "core_00-01_principles.md": {
       "total_lines": 1506,
@@ -5535,7 +5535,7 @@
       ]
     },
     "corpus_joint_structure/cjs_05a_00_authority_constraint_secrecy_procedure.md": {
-      "total_lines": 547,
+      "total_lines": 562,
       "sections": [
         {
           "header": "CJS-5A: Authority, constraint, secrecy, and procedure",
@@ -5548,42 +5548,42 @@
           "header": "CJS-5A.1 Implementation and cross-implementation distributed and proportional authority terms",
           "level": 2,
           "line_start": 40,
-          "line_end": 121,
+          "line_end": 126,
           "anchor": null
         },
         {
           "header": "CJS-5A.2 Implementation and cross-implementation intervention governance and override-authorization terms",
           "level": 2,
-          "line_start": 122,
-          "line_end": 194,
+          "line_start": 127,
+          "line_end": 199,
           "anchor": null
         },
         {
           "header": "CJS-5A.3 Implementation and cross-implementation reflexive transparency and accountability terms",
           "level": 2,
-          "line_start": 195,
-          "line_end": 280,
+          "line_start": 200,
+          "line_end": 285,
           "anchor": null
         },
         {
           "header": "CJS-5A.4 Implementation and cross-implementation burden-of-justification and constraint terms",
           "level": 2,
-          "line_start": 281,
-          "line_end": 370,
+          "line_start": 286,
+          "line_end": 385,
           "anchor": null
         },
         {
           "header": "CJS-5A.5 Implementation and cross-implementation constrained-secrecy and protected-investigation terms",
           "level": 2,
-          "line_start": 371,
-          "line_end": 439,
+          "line_start": 386,
+          "line_end": 454,
           "anchor": null
         },
         {
           "header": "CJS-5A.6 Implementation and cross-implementation procedural integrity and adjudication terms",
           "level": 2,
-          "line_start": 440,
-          "line_end": 547,
+          "line_start": 455,
+          "line_end": 562,
           "anchor": null
         }
       ]
@@ -5796,13 +5796,13 @@
       ]
     },
     "corpus_institutions/ci_02_institutional_design_separation_of_powers.md": {
-      "total_lines": 186,
+      "total_lines": 179,
       "sections": [
         {
           "header": "CI-2: Institutional design, separation of powers, and authority custody",
           "level": 2,
           "line_start": 1,
-          "line_end": 186,
+          "line_end": 179,
           "anchor": null
         },
         {
@@ -5816,28 +5816,28 @@
           "header": "CI-2.2: Functional separation lanes",
           "level": 3,
           "line_start": 60,
-          "line_end": 95,
+          "line_end": 88,
           "anchor": null
         },
         {
           "header": "CI-2.3: Authority chain and delegation controls",
           "level": 3,
-          "line_start": 96,
-          "line_end": 127,
+          "line_start": 89,
+          "line_end": 120,
           "anchor": null
         },
         {
           "header": "CI-2.4: Emergency delegation",
           "level": 3,
-          "line_start": 128,
-          "line_end": 154,
+          "line_start": 121,
+          "line_end": 147,
           "anchor": null
         },
         {
           "header": "CI-2.5: Risk profile requirement",
           "level": 3,
-          "line_start": 155,
-          "line_end": 186,
+          "line_start": 148,
+          "line_end": 179,
           "anchor": null
         }
       ]
@@ -5931,69 +5931,69 @@
       ]
     },
     "corpus_institutions/ci_09_classification_linked_institutional_obligations.md": {
-      "total_lines": 303,
+      "total_lines": 286,
       "sections": [
         {
           "header": "CI-9: Classification-linked institutional obligations",
           "level": 2,
           "line_start": 1,
-          "line_end": 303,
+          "line_end": 286,
           "anchor": null
         },
         {
           "header": "CI-9.1: Formation proportionality",
           "level": 3,
           "line_start": 37,
-          "line_end": 74,
+          "line_end": 63,
           "anchor": null
         },
         {
           "header": "CI-9.2: Published industry and domain mapping",
           "level": 3,
-          "line_start": 75,
-          "line_end": 103,
+          "line_start": 64,
+          "line_end": 92,
           "anchor": null
         },
         {
           "header": "CI-9.3: Delegated subunits, institutional design class, and attachment discipline",
           "level": 3,
-          "line_start": 104,
-          "line_end": 142,
+          "line_start": 93,
+          "line_end": 131,
           "anchor": null
         },
         {
           "header": "CI-9.3.1: Identification and competence",
           "level": 3,
-          "line_start": 143,
-          "line_end": 174,
+          "line_start": 132,
+          "line_end": 163,
           "anchor": null
         },
         {
           "header": "CI-9.3.2: Authority composition",
           "level": 3,
-          "line_start": 175,
-          "line_end": 203,
+          "line_start": 164,
+          "line_end": 192,
           "anchor": null
         },
         {
           "header": "CI-9.3.3: Rotating authority: attachment bounds",
           "level": 3,
-          "line_start": 204,
-          "line_end": 235,
+          "line_start": 193,
+          "line_end": 224,
           "anchor": null
         },
         {
           "header": "CI-9.3.4: Home-based authority: term and renewal",
           "level": 3,
-          "line_start": 236,
-          "line_end": 262,
+          "line_start": 225,
+          "line_end": 251,
           "anchor": null
         },
         {
           "header": "CI-9.4: Survival floors, voluntary exchange, and markets (Article III-A interface)",
           "level": 3,
-          "line_start": 263,
-          "line_end": 303,
+          "line_start": 252,
+          "line_end": 286,
           "anchor": null
         }
       ]
@@ -6235,13 +6235,13 @@
       ]
     },
     "corpus_institutions/ci_25_collective_public_health_epidemic_response_addiction_informed_care.md": {
-      "total_lines": 40,
+      "total_lines": 36,
       "sections": [
         {
           "header": "CI-25: Collective public health, epidemic response, and addiction-informed care",
           "level": 2,
           "line_start": 1,
-          "line_end": 40,
+          "line_end": 36,
           "anchor": null
         }
       ]

@@ -59,18 +59,7 @@ Where multiple classes/tiers apply, the highest applicable burden governs for af
 
 <br>
 
-Institutions whose governed scope is only planned Class P systems must have low-friction and low-cost formation paths with simplified pre-authorization checks.
-
-Institutions governing Class A systems must satisfy extensive due diligence proportional to scope, dependency footprint, and potential irreversibility before authorization.
-
-Scaling must be explicit at least for:
-- authorization burden,
-- evidence burden,
-- audit cadence,
-- publication depth,
-- continuity planning depth,
-- compliance cost expectations,
-- contest-integrity monitoring depth and cadence for **Class A** and **Class B** supervised scope (**CI-7** (*Oversight, assurance, controls, and evidence*); **`INST-PROTO-24`**).
+Apply `corpus_joint_structure.md` **CJS-5A.1** (*Implementation and cross-implementation distributed and proportional authority terms*) **Formation and authorization proportionality floor** for the shared scaling rule. This subsection states institutional owner duties: formation instruments must publish the local authorization path, evidence burden, audit cadence, publication depth, continuity-planning depth, compliance-cost expectation, and contest-integrity monitoring route for **Class A** and **Class B** supervised scope (**CI-7** (*Oversight, assurance, controls, and evidence*); **`INST-PROTO-24`**).
 
 ### CI-9.2: Published industry and domain mapping
 <details>
@@ -285,15 +274,9 @@ Apply **`corpus_joint_structure.md` CJS-4.2** (*Shared attachment and continuity
 
 <br>
 
-**Purpose.** **Article III-A** (*Survival*) in `core_10-10_rights_part_*.md` states outcome obligations for essential resources, housing, and connectivity. This subsection records how institutions should connect those outcomes to public revenue, user charges, and voluntary economic activity. It does not restate constitutional rights and does not specify tax bases, rates, or national fiscal law.
+**Purpose.** **Article III-A** (*Survival*) in `core_10-10_rights_part_*.md` states outcome obligations for essential resources, housing, and connectivity. Apply `corpus_joint_structure.md` **CJS-5A.4** (*Implementation and cross-implementation burden-of-justification and constraint terms*) **Survival-critical access and voluntary-market interface** for the shared baseline-access / market-interface rule. This subsection does not restate constitutional rights and does not specify tax bases, rates, securities law, corporate law, or national fiscal law.
 
-**Survival floor.** Adopting authorities should maintain practicable arrangements so eligible sentients can obtain survival-adequate access consistent with **Article III-A**. Lawful instruments may include cash or near-cash transfers, direct provision, vouchers or credits, or mixed designs. Where cost-of-living, regional adequacy, or comparable localized measures are used in public policy, floor amounts or in-kind equivalents should generally align with those measures. They must not rely on a single nominal amount that ignores place-based necessity. Governing law may still apply eligibility, migration, fraud controls, and proportionality rules.
-
-**Voluntary activity above the floor.** Employment, entrepreneurship, cooperative production, voluntary exchange, and saving are compatible with **this Constitution** when they satisfy constitutional and incorporated constraints. Survival-floor design must not treat baseline access as contingent on labor or market participation; additional income and wealth may still flow from work and markets.
-
-**Markets and market infrastructure.** Trading, pricing, and systems that structure markets remain subject to `corpus_systems.md` classification, stewardship tiers, and protocol expectations where material-impact thresholds are met. This includes the capital-markets interpretation for financial plumbing. This file does not replace dedicated securities, corporate, or licensing statutes. `doc_architecture.md` records the scope boundaries.
-
-**Consistency with Class A/B defaults.** Survival floors should be funded and administered so that primary public extraction does not fall on indispensable access to Class A/B inputs. This should remain consistent with the **Aim** and Class A/B bullets in **CI-10.1** (*Public revenue, user fees, and class-aligned burden*).
+Institutional owner duties are to identify the local instruments used to satisfy survival-adequate access, connect those instruments to public revenue and user-charge design under **CI-10.1** (*Public revenue, user fees, and class-aligned burden*), and document how eligibility, migration, fraud control, regional adequacy, cost-of-living or comparable local measures, and proportionality rules preserve the Article III-A floor. Market, trading, pricing, securities, licensing, or platform infrastructure remains subject to `corpus_systems.md` classification, stewardship tiers, and protocol expectations where material-impact thresholds are met; `doc_architecture.md` records the scope boundaries.
 
 ---
 

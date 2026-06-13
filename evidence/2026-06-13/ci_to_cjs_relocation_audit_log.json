@@ -37,8 +37,8 @@
     "file": "corpus_institutions/ci_09_classification_linked_institutional_obligations.md",
     "section_id": "CI-9.3",
     "title": "Delegated subunits, institutional design class, and attachment discipline",
-    "start_line": 104,
-    "end_line": 142,
+    "start_line": 93,
+    "end_line": 131,
     "score": 32,
     "confidence": "high",
     "action": "replace-with-pointer",
@@ -637,8 +637,8 @@
     "file": "corpus_institutions/ci_09_classification_linked_institutional_obligations.md",
     "section_id": "CI-9.2",
     "title": "Published industry and domain mapping",
-    "start_line": 75,
-    "end_line": 103,
+    "start_line": 64,
+    "end_line": 92,
     "score": 13,
     "confidence": "high",
     "action": "split-CI-and-CJS",
@@ -695,21 +695,21 @@
     "file": "corpus_institutions/ci_09_classification_linked_institutional_obligations.md",
     "section_id": "CI-9.4",
     "title": "Survival floors, voluntary exchange, and markets (Article III-A interface)",
-    "start_line": 263,
-    "end_line": 303,
+    "start_line": 252,
+    "end_line": 286,
     "score": 11,
     "confidence": "medium",
     "action": "split-CI-and-CJS",
     "destinations": [
       "CJS-3 / CJS-4",
-      "CJS-5B",
-      "CJS-5A / CJS-4.1 / CJS-4.7"
+      "CJS-4.4",
+      "CJS-5B"
     ],
     "signals": [
       "multi-owner-routing(1)",
-      "routing-read-with(1)",
-      "shared-procedure(2)",
-      "forum-system-touch(4)"
+      "routing-read-with(2)",
+      "shared-procedure(1)",
+      "forum-system-touch(3)"
     ],
     "router_rows": [
       "CJS-R19 \u2014 Implementation and cross-implementation integrity assurance and resilience operations",
@@ -722,7 +722,7 @@
       "fees",
       "billing"
     ],
-    "summary": "**Purpose.** **Article III-A** (*Survival*) in `core_10-10_rights_part_*.md` states outcome obligations for essential resources, housing, and connectivity. This subsection records how institutions should connect those outcomes to public revenue, user charge..."
+    "summary": "**Purpose.** **Article III-A** (*Survival*) in `core_10-10_rights_part_*.md` states outcome obligations for essential resources, housing, and connectivity. Apply `corpus_joint_structure.md` **CJS-5A.4** (*Implementation and cross-implementation burden-of-ju..."
   },
   {
     "file": "corpus_institutions/ci_01_scope_purpose_legitimacy_interface.md",
@@ -785,8 +785,8 @@
     "file": "corpus_institutions/ci_09_classification_linked_institutional_obligations.md",
     "section_id": "CI-9.3.2",
     "title": "Authority composition",
-    "start_line": 175,
-    "end_line": 203,
+    "start_line": 164,
+    "end_line": 192,
     "score": 9,
     "confidence": "medium",
     "action": "replace-with-pointer",
@@ -961,14 +961,14 @@
     "section_id": "CI-25",
     "title": "Collective public health, epidemic response, and addiction-informed care",
     "start_line": 1,
-    "end_line": 40,
+    "end_line": 36,
     "score": 6,
     "confidence": "low",
     "action": "needs-human-review",
     "destinations": [
+      "CJS-5B",
       "CJS-5E",
-      "CJS-5C",
-      "CJS-5B"
+      "CJS-5C"
     ],
     "signals": [
       "multi-owner-routing(1)",
@@ -976,9 +976,9 @@
       "forum-system-touch(1)"
     ],
     "router_rows": [
-      "CJS-R17 \u2014 Cross-implementation trust integrity (joint operation model)",
       "CJS-R19 \u2014 Implementation and cross-implementation integrity assurance and resilience operations",
-      "CJS-R18 \u2014 Class-scaled lane staffing and competency redundancy for materially binding stewardship"
+      "CJS-R17 \u2014 Cross-implementation trust integrity (joint operation model)",
+      "CJS-R15 \u2014 Contest-integrity monitoring (pathway integrity, not merits)"
     ],
     "similar_cjs": [],
     "keep_notes": [],
@@ -1042,34 +1042,6 @@
     "summary": "Institutional governance must be understandable and accessible to materially affected participants. Institutions must provide practical access to participation, review, and challenge channels, including accessibility accommodations sufficient for substantiv..."
   },
   {
-    "file": "corpus_institutions/ci_09_classification_linked_institutional_obligations.md",
-    "section_id": "CI-9.1",
-    "title": "Formation proportionality",
-    "start_line": 37,
-    "end_line": 74,
-    "score": 6,
-    "confidence": "low",
-    "action": "needs-human-review",
-    "destinations": [
-      "CJS-5B",
-      "CJS-5D",
-      "CJS-5A / CJS-4.1 / CJS-4.7"
-    ],
-    "signals": [
-      "shared-procedure(3)",
-      "dependency-failure(1)",
-      "forum-system-touch(2)"
-    ],
-    "router_rows": [
-      "CJS-R17 \u2014 Cross-implementation trust integrity (joint operation model)",
-      "CJS-R19 \u2014 Implementation and cross-implementation integrity assurance and resilience operations",
-      "CJS-R15 \u2014 Contest-integrity monitoring (pathway integrity, not merits)"
-    ],
-    "similar_cjs": [],
-    "keep_notes": [],
-    "summary": "Institutions whose governed scope is only planned Class P systems must have low-friction and low-cost formation paths with simplified pre-authorization checks. Institutions governing Class A systems must satisfy extensive due diligence proportional to scope..."
-  },
-  {
     "file": "corpus_institutions/ci_14_transitional_governance_institutional_evolution.md",
     "section_id": "CI-14.2",
     "title": "Article XXV-D \u2014 trigger catalog, anti-abuse metrics, and publication requirements",
@@ -1097,32 +1069,5 @@
       "dissolution"
     ],
     "summary": "**Constitutional home:** **Chapter Ten**, **Article XXV-D** (*Non-Compliant Property, Seizure, Impoundment, Quarantine, Forfeiture, and Voluntary Turnover Incentives*). This subsection is **implementation-only**; it does not restate the Rights Floor. **Trig..."
-  },
-  {
-    "file": "corpus_institutions/ci_02_institutional_design_separation_of_powers.md",
-    "section_id": "CI-2.2",
-    "title": "Functional separation lanes",
-    "start_line": 60,
-    "end_line": 95,
-    "score": 5,
-    "confidence": "low",
-    "action": "needs-human-review",
-    "destinations": [
-      "CJS-5B",
-      "CJS-5E"
-    ],
-    "signals": [
-      "routing-read-with(1)",
-      "shared-procedure(2)",
-      "dependency-failure(1)"
-    ],
-    "router_rows": [
-      "CJS-R17 \u2014 Cross-implementation trust integrity (joint operation model)",
-      "CJS-R19 \u2014 Implementation and cross-implementation integrity assurance and resilience operations",
-      "CJS-R14 \u2014 Institutional functional lanes and non-delegable splits"
-    ],
-    "similar_cjs": [],
-    "keep_notes": [],
-    "summary": "Institutions must separate core governance functions enough to prevent capture, unchecked concentration, and silent failure. The following functional separations (lanes) must be maintained: - direction and policy lane, - execution lane, - challenge and revi..."
   }
 ]

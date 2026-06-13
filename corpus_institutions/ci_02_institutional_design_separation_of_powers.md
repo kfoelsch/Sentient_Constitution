@@ -82,16 +82,9 @@ Additional non-delegable duties must be listed.
 
 <br>
 
-Institutions must separate core governance functions enough to prevent capture, unchecked concentration, and silent failure. The following functional separations (lanes) must be maintained:
-- direction and policy lane,
-- execution lane,
-- challenge and review lane,
-- assurance and audit lane,
-- publication and evidence lane.
+Apply `corpus_joint_structure.md` **CJS-5A.1** (*Implementation and cross-implementation distributed and proportional authority terms*) **Constitutional lane and functional separation** for the shared lane categories and separation floor.
 
-One institution may host more than one lane only when independence safeguards are documented, auditable, and contestable.
-
-These lanes are the owner-file source for CJS references to constitutional lanes and functional separation.
+This subsection states institutional owner duties: each institution must publish which local office, body, role, or process hosts each required lane; identify any merged hosting arrangement; document independence safeguards where one institution hosts more than one lane; and keep the lane map auditable, contestable, and current enough to prevent capture, unchecked concentration, and silent failure.
 
 ### CI-2.3: Authority chain and delegation controls
 <details>

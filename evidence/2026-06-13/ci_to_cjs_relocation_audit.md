@@ -9,8 +9,8 @@ This is an editorial exposure audit. It identifies candidate passages for reloca
 ## Summary
 
 - Candidate threshold: relocation score >= 5
-- Candidates: 36
-- Confidence: high 21, medium 9, low 6
+- Candidates: 34
+- Confidence: high 21, medium 9, low 4
 
 ## Classification rules
 
@@ -34,7 +34,7 @@ Summary: **Constitutional index (abridged)** - Topic-level routing and cited aut
 
 ### 2. CI-9.3: Delegated subunits, institutional design class, and attachment discipline
 
-- Source: `corpus_institutions/ci_09_classification_linked_institutional_obligations.md:104`
+- Source: `corpus_institutions/ci_09_classification_linked_institutional_obligations.md:93`
 - Score / confidence: 32 / high
 - Suggested action: `replace-with-pointer`
 - Proposed CJS destination: CJS-5A / CJS-4.1 / CJS-4.7, CJS-3 / CJS-4
@@ -251,7 +251,7 @@ Summary: **Purpose.** This section records **institutional and system design exp
 
 ### 20. CI-9.2: Published industry and domain mapping
 
-- Source: `corpus_institutions/ci_09_classification_linked_institutional_obligations.md:75`
+- Source: `corpus_institutions/ci_09_classification_linked_institutional_obligations.md:64`
 - Score / confidence: 13 / high
 - Suggested action: `split-CI-and-CJS`
 - Proposed CJS destination: CJS-5A / CJS-4.1 / CJS-4.7, CJS-5D, CJS-5B
@@ -273,15 +273,15 @@ Summary: **Constitutional index (abridged)** - Topic-level routing and cited aut
 
 ### 22. CI-9.4: Survival floors, voluntary exchange, and markets (Article III-A interface)
 
-- Source: `corpus_institutions/ci_09_classification_linked_institutional_obligations.md:263`
+- Source: `corpus_institutions/ci_09_classification_linked_institutional_obligations.md:252`
 - Score / confidence: 11 / medium
 - Suggested action: `split-CI-and-CJS`
-- Proposed CJS destination: CJS-3 / CJS-4, CJS-5B, CJS-5A / CJS-4.1 / CJS-4.7
-- Signals: multi-owner-routing(1), routing-read-with(1), shared-procedure(2), forum-system-touch(4)
+- Proposed CJS destination: CJS-3 / CJS-4, CJS-4.4, CJS-5B
+- Signals: multi-owner-routing(1), routing-read-with(2), shared-procedure(1), forum-system-touch(3)
 - Router matches: CJS-R19 — Implementation and cross-implementation integrity assurance and resilience operations; CJS-R17 — Cross-implementation trust integrity (joint operation model); CJS-R15 — Contest-integrity monitoring (pathway integrity, not merits)
 - Keep-in-CI cautions: public revenue, fees, billing
 
-Summary: **Purpose.** **Article III-A** (*Survival*) in `core_10-10_rights_part_*.md` states outcome obligations for essential resources, housing, and connectivity. This subsection records how institutions should connect those outcomes to public revenue, user charge...
+Summary: **Purpose.** **Article III-A** (*Survival*) in `core_10-10_rights_part_*.md` states outcome obligations for essential resources, housing, and connectivity. Apply `corpus_joint_structure.md` **CJS-5A.4** (*Implementation and cross-implementation burden-of-ju...
 
 ### 23. CI-1.1: Definition discipline and source hierarchy
 
@@ -307,7 +307,7 @@ Summary: This subsection states the institutional application of `corpus_joint_s
 
 ### 25. CI-9.3.2: Authority composition
 
-- Source: `corpus_institutions/ci_09_classification_linked_institutional_obligations.md:175`
+- Source: `corpus_institutions/ci_09_classification_linked_institutional_obligations.md:164`
 - Score / confidence: 9 / medium
 - Suggested action: `replace-with-pointer`
 - Proposed CJS destination: CJS-3 / CJS-4, CJS-5A / CJS-4.1 / CJS-4.7, CJS-5B
@@ -379,9 +379,9 @@ Summary: Digital self-service pathway integrity (Operational; Corpus Institution
 - Source: `corpus_institutions/ci_25_collective_public_health_epidemic_response_addiction_informed_care.md:1`
 - Score / confidence: 6 / low
 - Suggested action: `needs-human-review`
-- Proposed CJS destination: CJS-5E, CJS-5C, CJS-5B
+- Proposed CJS destination: CJS-5B, CJS-5E, CJS-5C
 - Signals: multi-owner-routing(1), routing-read-with(1), forum-system-touch(1)
-- Router matches: CJS-R17 — Cross-implementation trust integrity (joint operation model); CJS-R19 — Implementation and cross-implementation integrity assurance and resilience operations; CJS-R18 — Class-scaled lane staffing and competency redundancy for materially binding stewardship
+- Router matches: CJS-R19 — Implementation and cross-implementation integrity assurance and resilience operations; CJS-R17 — Cross-implementation trust integrity (joint operation model); CJS-R15 — Contest-integrity monitoring (pathway integrity, not merits)
 
 Summary: **Purpose.** This section frames **contagion**, **environmental** **exposure**, **population**-**level** **harms**, and **addiction** as **collective**-**care** and **governance** **problems** **under** **Article I-D**, **Article III-C**, **Article VII-C**,...
 
@@ -407,18 +407,7 @@ Summary: **Purpose.** This section applies the shared adaptive-participation flo
 
 Summary: Institutional governance must be understandable and accessible to materially affected participants. Institutions must provide practical access to participation, review, and challenge channels, including accessibility accommodations sufficient for substantiv...
 
-### 34. CI-9.1: Formation proportionality
-
-- Source: `corpus_institutions/ci_09_classification_linked_institutional_obligations.md:37`
-- Score / confidence: 6 / low
-- Suggested action: `needs-human-review`
-- Proposed CJS destination: CJS-5B, CJS-5D, CJS-5A / CJS-4.1 / CJS-4.7
-- Signals: shared-procedure(3), dependency-failure(1), forum-system-touch(2)
-- Router matches: CJS-R17 — Cross-implementation trust integrity (joint operation model); CJS-R19 — Implementation and cross-implementation integrity assurance and resilience operations; CJS-R15 — Contest-integrity monitoring (pathway integrity, not merits)
-
-Summary: Institutions whose governed scope is only planned Class P systems must have low-friction and low-cost formation paths with simplified pre-authorization checks. Institutions governing Class A systems must satisfy extensive due diligence proportional to scope...
-
-### 35. CI-14.2: Article XXV-D — trigger catalog, anti-abuse metrics, and publication requirements
+### 34. CI-14.2: Article XXV-D — trigger catalog, anti-abuse metrics, and publication requirements
 
 - Source: `corpus_institutions/ci_14_transitional_governance_institutional_evolution.md:74`
 - Score / confidence: 5 / low
@@ -429,17 +418,6 @@ Summary: Institutions whose governed scope is only planned Class P systems must 
 - Keep-in-CI cautions: dissolution
 
 Summary: **Constitutional home:** **Chapter Ten**, **Article XXV-D** (*Non-Compliant Property, Seizure, Impoundment, Quarantine, Forfeiture, and Voluntary Turnover Incentives*). This subsection is **implementation-only**; it does not restate the Rights Floor. **Trig...
-
-### 36. CI-2.2: Functional separation lanes
-
-- Source: `corpus_institutions/ci_02_institutional_design_separation_of_powers.md:60`
-- Score / confidence: 5 / low
-- Suggested action: `needs-human-review`
-- Proposed CJS destination: CJS-5B, CJS-5E
-- Signals: routing-read-with(1), shared-procedure(2), dependency-failure(1)
-- Router matches: CJS-R17 — Cross-implementation trust integrity (joint operation model); CJS-R19 — Implementation and cross-implementation integrity assurance and resilience operations; CJS-R14 — Institutional functional lanes and non-delegable splits
-
-Summary: Institutions must separate core governance functions enough to prevent capture, unchecked concentration, and silent failure. The following functional separations (lanes) must be maintained: - direction and policy lane, - execution lane, - challenge and revi...
 
 ## Recommended next pass
 
