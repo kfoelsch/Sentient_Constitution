@@ -35,38 +35,6 @@
     "summary": "Where institutional governed scope includes **Class A** or **Class B** systems (`corpus_systems.md` **Chapter S2**), institutions must maintain **contest-integrity** capacity as part of the **independent assurance line**, or through an equivalent documented..."
   },
   {
-    "file": "corpus_institutions/ci_17_scientific_publication_peer_review_replication_evidence_stewardship.md",
-    "section_id": "CI-17",
-    "title": "Scientific publication, peer review, replication, and evidence stewardship",
-    "start_line": 1,
-    "end_line": 56,
-    "score": 26,
-    "confidence": "high",
-    "action": "split-CI-and-CJS",
-    "destinations": [
-      "CJS-5B",
-      "CJS-5E",
-      "CJS-4.4"
-    ],
-    "signals": [
-      "joint-interface(1)",
-      "multi-owner-routing(1)",
-      "routing-read-with(3)",
-      "cjs-cluster(1)",
-      "shared-procedure(8)",
-      "dependency-failure(3)",
-      "forum-system-touch(7)"
-    ],
-    "router_rows": [
-      "CJS-R19 \u2014 Implementation and cross-implementation integrity assurance and resilience operations",
-      "CJS-R17 \u2014 Cross-implementation trust integrity (joint operation model)",
-      "CJS-R16 \u2014 Cross-institution coordination, deadlock, and escalation"
-    ],
-    "similar_cjs": [],
-    "keep_notes": [],
-    "summary": "**Purpose and owner boundary.** This section governs the institutional custody, funding, ranking, archival, reliance, and review mechanics for scientific and scholarly claims where constitutional adoption brings those functions within scope. Constitutional..."
-  },
-  {
     "file": "corpus_institutions/ci_15_vulnerable_personal_services_markets_article_xc_interface.md",
     "section_id": "CI-15",
     "title": "Vulnerable personal services markets \u2014 general regulation and Article X-C interface",
@@ -132,6 +100,37 @@
       "billing"
     ],
     "summary": "**Continuity planning:** Institutions must maintain resource adequacy for safe continuity and constitutional performance. Shared dependency-chain evaluation for funding, staffing, capacity, and resource adequacy is governed by `corpus_joint_structure.md` **..."
+  },
+  {
+    "file": "corpus_institutions/ci_17_scientific_publication_peer_review_replication_evidence_stewardship.md",
+    "section_id": "CI-17",
+    "title": "Scientific publication, peer review, replication, and evidence stewardship",
+    "start_line": 1,
+    "end_line": 56,
+    "score": 23,
+    "confidence": "high",
+    "action": "split-CI-and-CJS",
+    "destinations": [
+      "CJS-5B",
+      "CJS-5E",
+      "CJS-3 / CJS-4"
+    ],
+    "signals": [
+      "joint-interface(1)",
+      "multi-owner-routing(1)",
+      "routing-read-with(3)",
+      "cjs-cluster(1)",
+      "shared-procedure(6)",
+      "forum-system-touch(7)"
+    ],
+    "router_rows": [
+      "CJS-R19 \u2014 Implementation and cross-implementation integrity assurance and resilience operations",
+      "CJS-R17 \u2014 Cross-implementation trust integrity (joint operation model)",
+      "CJS-R16 \u2014 Cross-institution coordination, deadlock, and escalation"
+    ],
+    "similar_cjs": [],
+    "keep_notes": [],
+    "summary": "**Purpose and owner boundary.** This section governs the institutional custody, funding, ranking, archival, reliance, and review mechanics for scientific and scholarly claims where constitutional adoption brings those functions within scope. Constitutional..."
   },
   {
     "file": "corpus_institutions/ci_16_innovation_reward_disclosure_anti_enclosure.md",

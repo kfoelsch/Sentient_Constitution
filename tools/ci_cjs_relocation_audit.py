@@ -262,7 +262,9 @@ def strip_cjs_pointer_sentences(text: str) -> str:
     post_relocation_re = re.compile(
         r"(this subsection states the institutional|this section states the institutional|"
         r"institutional owner duties|institution-specific|it keeps the institution-specific|"
-        r"local institutional)",
+        r"local institutional|CI-\d+(?:\.\d+)* adds the institutional|"
+        r"institutional publication duty|institutional custody duty|"
+        r"institutional record duty|publication owner)",
         flags=re.I,
     )
     for paragraph in re.split(r"\n\s*\n", text):

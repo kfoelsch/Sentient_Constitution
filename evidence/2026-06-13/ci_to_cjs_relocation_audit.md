@@ -32,18 +32,7 @@ This is an editorial exposure audit. It identifies candidate passages for reloca
 
 Summary: Where institutional governed scope includes **Class A** or **Class B** systems (`corpus_systems.md` **Chapter S2**), institutions must maintain **contest-integrity** capacity as part of the **independent assurance line**, or through an equivalent documented...
 
-### 2. CI-17: Scientific publication, peer review, replication, and evidence stewardship
-
-- Source: `corpus_institutions/ci_17_scientific_publication_peer_review_replication_evidence_stewardship.md:1`
-- Score / confidence: 26 / high
-- Suggested action: `split-CI-and-CJS`
-- Proposed CJS destination: CJS-5B, CJS-5E, CJS-4.4
-- Signals: joint-interface(1), multi-owner-routing(1), routing-read-with(3), cjs-cluster(1), shared-procedure(8), dependency-failure(3), forum-system-touch(7)
-- Router matches: CJS-R19 — Implementation and cross-implementation integrity assurance and resilience operations; CJS-R17 — Cross-implementation trust integrity (joint operation model); CJS-R16 — Cross-institution coordination, deadlock, and escalation
-
-Summary: **Purpose and owner boundary.** This section governs the institutional custody, funding, ranking, archival, reliance, and review mechanics for scientific and scholarly claims where constitutional adoption brings those functions within scope. Constitutional...
-
-### 3. CI-15: Vulnerable personal services markets — general regulation and Article X-C interface
+### 2. CI-15: Vulnerable personal services markets — general regulation and Article X-C interface
 
 - Source: `corpus_institutions/ci_15_vulnerable_personal_services_markets_article_xc_interface.md:1`
 - Score / confidence: 25 / high
@@ -55,7 +44,7 @@ Summary: **Purpose and owner boundary.** This section governs the institutional 
 
 Summary: **Purpose.** This section records **institutional design expectations** for **Chapter Ten**, **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*) and parallel stewardship of other lawful **high-vulnerability personal-servi...
 
-### 4. CI-11: Resource stewardship and incentive integrity
+### 3. CI-11: Resource stewardship and incentive integrity
 
 - Source: `corpus_institutions/ci_11_resource_stewardship_incentive_integrity.md:1`
 - Score / confidence: 24 / high
@@ -66,6 +55,17 @@ Summary: **Purpose.** This section records **institutional design expectations**
 - Keep-in-CI cautions: public revenue, fees, billing
 
 Summary: **Continuity planning:** Institutions must maintain resource adequacy for safe continuity and constitutional performance. Shared dependency-chain evaluation for funding, staffing, capacity, and resource adequacy is governed by `corpus_joint_structure.md` **...
+
+### 4. CI-17: Scientific publication, peer review, replication, and evidence stewardship
+
+- Source: `corpus_institutions/ci_17_scientific_publication_peer_review_replication_evidence_stewardship.md:1`
+- Score / confidence: 23 / high
+- Suggested action: `split-CI-and-CJS`
+- Proposed CJS destination: CJS-5B, CJS-5E, CJS-3 / CJS-4
+- Signals: joint-interface(1), multi-owner-routing(1), routing-read-with(3), cjs-cluster(1), shared-procedure(6), forum-system-touch(7)
+- Router matches: CJS-R19 — Implementation and cross-implementation integrity assurance and resilience operations; CJS-R17 — Cross-implementation trust integrity (joint operation model); CJS-R16 — Cross-institution coordination, deadlock, and escalation
+
+Summary: **Purpose and owner boundary.** This section governs the institutional custody, funding, ranking, archival, reliance, and review mechanics for scientific and scholarly claims where constitutional adoption brings those functions within scope. Constitutional...
 
 ### 5. CI-16: Innovation reward, disclosure, and anti-enclosure
 
