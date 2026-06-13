@@ -229,6 +229,25 @@ def strip_constitutional_index(text: str) -> str:
     )
 
 
+def strip_navigation_and_alignment(text: str) -> str:
+    """Remove footer/navigation metadata before relocation scoring."""
+
+    text = re.sub(r"\n?\*Corpus alignment:\*.*?(?=\n\n|\Z)", "\n", text, flags=re.S)
+    text = re.sub(r"(?m)^.*\*\*(Previous|Next) file:\*\*[^\n]*$", "", text)
+    text = re.sub(r"\n?## Implementation notes\b.*?(?=\n---|\Z)", "\n", text, flags=re.S)
+    return text
+
+
+def strip_inst_proto_registry(text: str) -> str:
+    """Remove local INST-PROTO registry lists before relocation scoring."""
+
+    return re.sub(
+        r"\n?Core registry:\n(?:- `INST-PROTO-[^`\n]+`:[^\n]*\n)+",
+        "\n",
+        text,
+    )
+
+
 def strip_cjs_pointer_sentences(text: str) -> str:
     """Remove explicit CJS pointer sentences before scoring relocation pressure.
 
@@ -237,7 +256,21 @@ def strip_cjs_pointer_sentences(text: str) -> str:
     make the audit punish successful deduplication.
     """
 
-    text = strip_constitutional_index(text)
+    text = strip_navigation_and_alignment(strip_inst_proto_registry(strip_constitutional_index(text)))
+    paragraph_kept: list[str] = []
+    cjs_ref_re = re.compile(r"(corpus_joint_structure\.md|CJS-\d|CJS-5[A-E]?)", flags=re.I)
+    post_relocation_re = re.compile(
+        r"(this subsection states the institutional|this section states the institutional|"
+        r"institutional owner duties|institution-specific|it keeps the institution-specific|"
+        r"local institutional)",
+        flags=re.I,
+    )
+    for paragraph in re.split(r"\n\s*\n", text):
+        if cjs_ref_re.search(paragraph) and post_relocation_re.search(paragraph):
+            continue
+        paragraph_kept.append(paragraph)
+    text = "\n\n".join(paragraph_kept)
+
     chunks = re.split(r"(?<=[.!?])\s+|\n\s*\n", text)
     kept: list[str] = []
     pointer_re = re.compile(
@@ -258,7 +291,11 @@ def words(text: str) -> set[str]:
 
 
 def short_summary(text: str, max_chars: int = 260) -> str:
-    stripped = re.sub(r"\s+", " ", strip_constitutional_index(strip_details(text))).strip()
+    stripped = re.sub(
+        r"\s+",
+        " ",
+        strip_navigation_and_alignment(strip_constitutional_index(strip_details(text))),
+    ).strip()
     if len(stripped) <= max_chars:
         return stripped
     return stripped[: max_chars - 3].rstrip() + "..."
@@ -309,6 +346,8 @@ def extract_cjs_paragraphs(root: Path) -> list[dict[str, object]]:
                 continue
             if line.startswith("#"):
                 current_heading = line.lstrip("# ").strip()
+                continue
+            if line.startswith("*Corpus alignment:*"):
                 continue
             if not line.strip() or line.strip() == "---":
                 if buffer:
