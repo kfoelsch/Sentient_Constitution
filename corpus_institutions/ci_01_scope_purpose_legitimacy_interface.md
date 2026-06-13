@@ -49,13 +49,9 @@ Shared preamble contract: apply `corpus_joint_structure.md` **CJS-1.1** (*Shared
 **Constitutional index (abridged)**
 - Apply `corpus_joint_structure.md` **CJS-1.1** (*Shared implementation-corpus preamble contract*), **CJS-1.3** (*Joint structural boundary and owner discipline*), **CJS-2.2** (*Topic router (stable IDs)*), and **CJS-3.6** (*Implementation-label traceability and stricter-wins discipline*) for shared implementation-corpus reading, routing, and owner discipline.
 
-CI-1 governs the scope, purpose, legitimacy interface, and reading rules for institutional implementation.
+CI-1 identifies this file as the institutional owner layer for formation, authorization, oversight, correction, and dissolution mechanics.
 
-Institutions may design local procedures, but those procedures must remain consistent with constitutional hierarchy, rights, and challenge pathways.
-
-This file applies that meaning to institutional design and operation.
-
-Where institutional rules intersect **[corpus_systems.md](../corpus_systems.md)** classification, **CJS-5** (*Implementation and cross-implementation operational cluster library*) operational clusters, or **Chapter Nine** forum operations, apply the CJS router and joint-obligation rules in addition to the cited institutional owner sections.
+Institutional procedures remain local to this file only where they implement those institutional mechanics and preserve the shared hierarchy, rights, and challenge boundaries cited above.
 
 ### CI-1.1: Definition discipline and source hierarchy
 <details>

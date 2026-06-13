@@ -480,7 +480,11 @@ def similar_cjs_paragraphs(section: Section, cjs_paragraphs: list[dict[str, obje
 
 def evaluate_section(section: Section, router_rows: list[dict[str, str]], cjs_paragraphs: list[dict[str, object]]) -> Candidate:
     operative_body = strip_cjs_pointer_sentences(strip_details(section.body))
-    text = f"{section.section_id} {section.title}\n{operative_body}"
+    # Score only operative body text. Section IDs and headings are useful for
+    # routing context, but relocation pressure should come from repeated rules,
+    # not stable CI titles such as "interface" or "system".
+    text = operative_body
+    context_text = f"{section.section_id} {section.title}\n{operative_body}"
     score = 0
     signals: list[str] = []
     for label, needles, weight in RELOCATION_SIGNALS:
@@ -507,7 +511,7 @@ def evaluate_section(section: Section, router_rows: list[dict[str, str]], cjs_pa
         score=score,
         confidence=confidence(score, len(similar)),
         action=choose_action(score, len(similar)),
-        destinations=destinations_for(text),
+        destinations=destinations_for(context_text),
         signals=signals,
         router_rows=router_matches(section, router_rows),
         similar_cjs=similar,
