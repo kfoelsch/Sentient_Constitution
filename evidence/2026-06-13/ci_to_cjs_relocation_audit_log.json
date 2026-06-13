@@ -259,40 +259,6 @@
     "summary": "**Purpose and owner boundary.** This section states the institutional application of the shared care, respite, and support-dependency floor in `corpus_joint_structure.md` **CJS-5D.1** (*Implementation and cross-implementation dependency integrity and disclo..."
   },
   {
-    "file": "corpus_institutions/ci_05_conflict_integrity_anti_capture_anti_corruption.md",
-    "section_id": "CI-5",
-    "title": "Conflict integrity, anti-capture, and anti-corruption",
-    "start_line": 1,
-    "end_line": 56,
-    "score": 16,
-    "confidence": "high",
-    "action": "split-CI-and-CJS",
-    "destinations": [
-      "CJS-5B",
-      "CJS-4.4",
-      "CJS-5C"
-    ],
-    "signals": [
-      "multi-owner-routing(1)",
-      "routing-read-with(1)",
-      "shared-procedure(5)",
-      "dependency-failure(4)",
-      "forum-system-touch(3)"
-    ],
-    "router_rows": [
-      "CJS-R19 \u2014 Implementation and cross-implementation integrity assurance and resilience operations",
-      "CJS-R17 \u2014 Cross-implementation trust integrity (joint operation model)",
-      "CJS-R18 \u2014 Class-scaled lane staffing and competency redundancy for materially binding stewardship"
-    ],
-    "similar_cjs": [],
-    "keep_notes": [
-      "institution-specific",
-      "rotation",
-      "dissolution"
-    ],
-    "summary": "Institutions must maintain: - auditable conflict controls that cover financial, relational, and role-based conflicts. - anti-corruption and anti-fraud controls across prevention, detection, response, and remediation. Required controls include: - disclosure..."
-  },
-  {
     "file": "corpus_institutions/ci_10_public_revenue_fees_recurring_charges_billing_integrity.md",
     "section_id": "CI-10.2",
     "title": "Recurring charges, renewals, and commercial billing integrity",
@@ -324,6 +290,39 @@
       "billing"
     ],
     "summary": "**Purpose.** This subsection records institutional requirements for **recurring and transaction-linked charges**, including subscriptions, memberships, paid tiers, and trial-to-paid conversion, where institutions **supervise, charter, or set compliance expe..."
+  },
+  {
+    "file": "corpus_institutions/ci_05_conflict_integrity_anti_capture_anti_corruption.md",
+    "section_id": "CI-5",
+    "title": "Conflict integrity, anti-capture, and anti-corruption",
+    "start_line": 1,
+    "end_line": 56,
+    "score": 14,
+    "confidence": "high",
+    "action": "split-CI-and-CJS",
+    "destinations": [
+      "CJS-5B",
+      "CJS-5C",
+      "CJS-4.4"
+    ],
+    "signals": [
+      "multi-owner-routing(1)",
+      "routing-read-with(1)",
+      "shared-procedure(3)",
+      "dependency-failure(3)",
+      "forum-system-touch(3)"
+    ],
+    "router_rows": [
+      "CJS-R19 \u2014 Implementation and cross-implementation integrity assurance and resilience operations",
+      "CJS-R17 \u2014 Cross-implementation trust integrity (joint operation model)",
+      "CJS-R15 \u2014 Contest-integrity monitoring (pathway integrity, not merits)"
+    ],
+    "similar_cjs": [],
+    "keep_notes": [
+      "institution-specific",
+      "dissolution"
+    ],
+    "summary": "Institutions must maintain: - auditable conflict controls that cover financial, relational, and role-based conflicts. - anti-corruption and anti-fraud controls across prevention, detection, response, and remediation. Required controls include: - disclosure..."
   },
   {
     "file": "corpus_institutions/ci_18_community_life_voluntary_association_non_instrumental_time.md",

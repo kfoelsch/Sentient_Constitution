@@ -115,19 +115,7 @@ Summary: This subsection states the institutional application of the shared clas
 
 Summary: **Purpose and owner boundary.** This section states the institutional application of the shared care, respite, and support-dependency floor in `corpus_joint_structure.md` **CJS-5D.1** (*Implementation and cross-implementation dependency integrity and disclo...
 
-### 9. CI-5: Conflict integrity, anti-capture, and anti-corruption
-
-- Source: `corpus_institutions/ci_05_conflict_integrity_anti_capture_anti_corruption.md:1`
-- Score / confidence: 16 / high
-- Suggested action: `split-CI-and-CJS`
-- Proposed CJS destination: CJS-5B, CJS-4.4, CJS-5C
-- Signals: multi-owner-routing(1), routing-read-with(1), shared-procedure(5), dependency-failure(4), forum-system-touch(3)
-- Router matches: CJS-R19 — Implementation and cross-implementation integrity assurance and resilience operations; CJS-R17 — Cross-implementation trust integrity (joint operation model); CJS-R18 — Class-scaled lane staffing and competency redundancy for materially binding stewardship
-- Keep-in-CI cautions: institution-specific, rotation, dissolution
-
-Summary: Institutions must maintain: - auditable conflict controls that cover financial, relational, and role-based conflicts. - anti-corruption and anti-fraud controls across prevention, detection, response, and remediation. Required controls include: - disclosure...
-
-### 10. CI-10.2: Recurring charges, renewals, and commercial billing integrity
+### 9. CI-10.2: Recurring charges, renewals, and commercial billing integrity
 
 - Source: `corpus_institutions/ci_10_public_revenue_fees_recurring_charges_billing_integrity.md:65`
 - Score / confidence: 15 / high
@@ -138,6 +126,18 @@ Summary: Institutions must maintain: - auditable conflict controls that cover fi
 - Keep-in-CI cautions: public revenue, fees, billing
 
 Summary: **Purpose.** This subsection records institutional requirements for **recurring and transaction-linked charges**, including subscriptions, memberships, paid tiers, and trial-to-paid conversion, where institutions **supervise, charter, or set compliance expe...
+
+### 10. CI-5: Conflict integrity, anti-capture, and anti-corruption
+
+- Source: `corpus_institutions/ci_05_conflict_integrity_anti_capture_anti_corruption.md:1`
+- Score / confidence: 14 / high
+- Suggested action: `split-CI-and-CJS`
+- Proposed CJS destination: CJS-5B, CJS-5C, CJS-4.4
+- Signals: multi-owner-routing(1), routing-read-with(1), shared-procedure(3), dependency-failure(3), forum-system-touch(3)
+- Router matches: CJS-R19 — Implementation and cross-implementation integrity assurance and resilience operations; CJS-R17 — Cross-implementation trust integrity (joint operation model); CJS-R15 — Contest-integrity monitoring (pathway integrity, not merits)
+- Keep-in-CI cautions: institution-specific, dissolution
+
+Summary: Institutions must maintain: - auditable conflict controls that cover financial, relational, and role-based conflicts. - anti-corruption and anti-fraud controls across prevention, detection, response, and remediation. Required controls include: - disclosure...
 
 ### 11. CI-18: Community life, voluntary association, and non-instrumental time
 
