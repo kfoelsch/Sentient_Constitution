@@ -72,39 +72,6 @@
     "summary": "CI-1 governs the scope, purpose, legitimacy interface, and reading rules for institutional implementation. Institutions may design local procedures, but those procedures must remain consistent with constitutional hierarchy, rights, and challenge pathways. T..."
   },
   {
-    "file": "corpus_institutions/ci_16_innovation_reward_disclosure_anti_enclosure.md",
-    "section_id": "CI-16",
-    "title": "Innovation reward, disclosure, and anti-enclosure",
-    "start_line": 1,
-    "end_line": 56,
-    "score": 29,
-    "confidence": "high",
-    "action": "split-CI-and-CJS",
-    "destinations": [
-      "CJS-5B",
-      "CJS-3 / CJS-4",
-      "CJS-5D"
-    ],
-    "signals": [
-      "joint-interface(2)",
-      "routing-read-with(6)",
-      "cjs-cluster(1)",
-      "shared-procedure(5)",
-      "dependency-failure(4)",
-      "forum-system-touch(8)"
-    ],
-    "router_rows": [
-      "CJS-R19 \u2014 Implementation and cross-implementation integrity assurance and resilience operations",
-      "CJS-R17 \u2014 Cross-implementation trust integrity (joint operation model)",
-      "CJS-R15 \u2014 Contest-integrity monitoring (pathway integrity, not merits)"
-    ],
-    "similar_cjs": [],
-    "keep_notes": [
-      "local procedure"
-    ],
-    "summary": "**Purpose and owner boundary.** This section governs institutional handling of innovation-reward systems where constitutional adoption brings them within scope. Constitutional meaning remains in **Chapter Five** (*Innovation Reward and Anti-Enclosure*) and..."
-  },
-  {
     "file": "corpus_institutions/ci_07_oversight_assurance_controls_evidence.md",
     "section_id": "CI-7.3",
     "title": "Contest-integrity monitoring (Class A and Class B)",
@@ -203,6 +170,39 @@
     "similar_cjs": [],
     "keep_notes": [],
     "summary": "**Purpose and owner boundary.** This section governs the institutional custody, funding, ranking, archival, reliance, and review mechanics for scientific and scholarly claims where constitutional adoption brings those functions within scope. Constitutional..."
+  },
+  {
+    "file": "corpus_institutions/ci_16_innovation_reward_disclosure_anti_enclosure.md",
+    "section_id": "CI-16",
+    "title": "Innovation reward, disclosure, and anti-enclosure",
+    "start_line": 1,
+    "end_line": 54,
+    "score": 26,
+    "confidence": "high",
+    "action": "split-CI-and-CJS",
+    "destinations": [
+      "CJS-5B",
+      "CJS-3 / CJS-4",
+      "CJS-5A / CJS-4.1 / CJS-4.7"
+    ],
+    "signals": [
+      "joint-interface(2)",
+      "routing-read-with(5)",
+      "cjs-cluster(1)",
+      "shared-procedure(5)",
+      "dependency-failure(1)",
+      "forum-system-touch(5)"
+    ],
+    "router_rows": [
+      "CJS-R17 \u2014 Cross-implementation trust integrity (joint operation model)",
+      "CJS-R19 \u2014 Implementation and cross-implementation integrity assurance and resilience operations",
+      "CJS-R18 \u2014 Class-scaled lane staffing and competency redundancy for materially binding stewardship"
+    ],
+    "similar_cjs": [],
+    "keep_notes": [
+      "local procedure"
+    ],
+    "summary": "**Purpose and owner boundary.** This section governs institutional handling of innovation-reward systems where constitutional adoption brings them within scope. Constitutional meaning remains in **Chapter Five** (*Innovation Reward and Anti-Enclosure*) and..."
   },
   {
     "file": "corpus_institutions/ci_26_compliance_mapping_stable_registry.md",

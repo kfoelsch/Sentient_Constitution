@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-06-13T06:57:13+00:00",
+  "generated_at": "2026-06-13T09:05:00+00:00",
   "files": {
     "core_00-01_principles.md": {
       "total_lines": 1506,
@@ -5669,7 +5669,7 @@
       ]
     },
     "corpus_joint_structure/cjs_05d_00_dependency_exit_lifecycle_integrity.md": {
-      "total_lines": 328,
+      "total_lines": 333,
       "sections": [
         {
           "header": "CJS-5D: Dependency, exit, and lifecycle integrity",
@@ -5689,14 +5689,14 @@
           "header": "CJS-5D.2 Implementation and cross-implementation interoperability, portability, and exit-integrity terms",
           "level": 2,
           "line_start": 121,
-          "line_end": 234,
+          "line_end": 239,
           "anchor": null
         },
         {
           "header": "CJS-5D.3 Implementation and cross-implementation data-retention and lifecycle-integrity terms",
           "level": 2,
-          "line_start": 235,
-          "line_end": 328,
+          "line_start": 240,
+          "line_end": 333,
           "anchor": null
         }
       ]
@@ -6127,13 +6127,13 @@
       ]
     },
     "corpus_institutions/ci_16_innovation_reward_disclosure_anti_enclosure.md": {
-      "total_lines": 56,
+      "total_lines": 54,
       "sections": [
         {
           "header": "CI-16: Innovation reward, disclosure, and anti-enclosure",
           "level": 2,
           "line_start": 1,
-          "line_end": 56,
+          "line_end": 54,
           "anchor": null
         }
       ]

@@ -47,19 +47,7 @@ Near CJS matches:
 
 Summary: CI-1 governs the scope, purpose, legitimacy interface, and reading rules for institutional implementation. Institutions may design local procedures, but those procedures must remain consistent with constitutional hierarchy, rights, and challenge pathways. T...
 
-### 3. CI-16: Innovation reward, disclosure, and anti-enclosure
-
-- Source: `corpus_institutions/ci_16_innovation_reward_disclosure_anti_enclosure.md:1`
-- Score / confidence: 29 / high
-- Suggested action: `split-CI-and-CJS`
-- Proposed CJS destination: CJS-5B, CJS-3 / CJS-4, CJS-5D
-- Signals: joint-interface(2), routing-read-with(6), cjs-cluster(1), shared-procedure(5), dependency-failure(4), forum-system-touch(8)
-- Router matches: CJS-R19 — Implementation and cross-implementation integrity assurance and resilience operations; CJS-R17 — Cross-implementation trust integrity (joint operation model); CJS-R15 — Contest-integrity monitoring (pathway integrity, not merits)
-- Keep-in-CI cautions: local procedure
-
-Summary: **Purpose and owner boundary.** This section governs institutional handling of innovation-reward systems where constitutional adoption brings them within scope. Constitutional meaning remains in **Chapter Five** (*Innovation Reward and Anti-Enclosure*) and...
-
-### 4. CI-7.3: Contest-integrity monitoring (Class A and Class B)
+### 3. CI-7.3: Contest-integrity monitoring (Class A and Class B)
 
 - Source: `corpus_institutions/ci_07_oversight_assurance_controls_evidence.md:106`
 - Score / confidence: 28 / high
@@ -71,7 +59,7 @@ Summary: **Purpose and owner boundary.** This section governs institutional hand
 
 Summary: Where institutional governed scope includes **Class A** or **Class B** systems (`corpus_systems.md` **Chapter S2**), institutions must maintain **contest-integrity** capacity as part of the **independent assurance line**, or through an equivalent documented...
 
-### 5. CI-15: Vulnerable personal services markets — general regulation and Article X-C interface
+### 4. CI-15: Vulnerable personal services markets — general regulation and Article X-C interface
 
 - Source: `corpus_institutions/ci_15_vulnerable_personal_services_markets_article_xc_interface.md:1`
 - Score / confidence: 27 / high
@@ -83,7 +71,7 @@ Summary: Where institutional governed scope includes **Class A** or **Class B** 
 
 Summary: **Purpose.** This section records **institutional design expectations** for **Chapter Ten**, **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*) and parallel stewardship of other lawful **high-vulnerability personal-servi...
 
-### 6. CI-17: Scientific publication, peer review, replication, and evidence stewardship
+### 5. CI-17: Scientific publication, peer review, replication, and evidence stewardship
 
 - Source: `corpus_institutions/ci_17_scientific_publication_peer_review_replication_evidence_stewardship.md:1`
 - Score / confidence: 26 / high
@@ -93,6 +81,18 @@ Summary: **Purpose.** This section records **institutional design expectations**
 - Router matches: CJS-R19 — Implementation and cross-implementation integrity assurance and resilience operations; CJS-R17 — Cross-implementation trust integrity (joint operation model); CJS-R16 — Cross-institution coordination, deadlock, and escalation
 
 Summary: **Purpose and owner boundary.** This section governs the institutional custody, funding, ranking, archival, reliance, and review mechanics for scientific and scholarly claims where constitutional adoption brings those functions within scope. Constitutional...
+
+### 6. CI-16: Innovation reward, disclosure, and anti-enclosure
+
+- Source: `corpus_institutions/ci_16_innovation_reward_disclosure_anti_enclosure.md:1`
+- Score / confidence: 26 / high
+- Suggested action: `split-CI-and-CJS`
+- Proposed CJS destination: CJS-5B, CJS-3 / CJS-4, CJS-5A / CJS-4.1 / CJS-4.7
+- Signals: joint-interface(2), routing-read-with(5), cjs-cluster(1), shared-procedure(5), dependency-failure(1), forum-system-touch(5)
+- Router matches: CJS-R17 — Cross-implementation trust integrity (joint operation model); CJS-R19 — Implementation and cross-implementation integrity assurance and resilience operations; CJS-R18 — Class-scaled lane staffing and competency redundancy for materially binding stewardship
+- Keep-in-CI cautions: local procedure
+
+Summary: **Purpose and owner boundary.** This section governs institutional handling of innovation-reward systems where constitutional adoption brings them within scope. Constitutional meaning remains in **Chapter Five** (*Innovation Reward and Anti-Enclosure*) and...
 
 ### 7. CI-26: Compliance mapping and stable registry
 
