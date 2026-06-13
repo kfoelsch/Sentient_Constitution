@@ -218,6 +218,17 @@ def strip_details(text: str) -> str:
     return text
 
 
+def strip_constitutional_index(text: str) -> str:
+    """Remove standard CI routing boilerplate before relocation scoring."""
+
+    return re.sub(
+        r"\n?\*\*Constitutional index \(abridged\)\*\*.*?(?=\n\n\S|\Z)",
+        "\n",
+        text,
+        flags=re.S,
+    )
+
+
 def strip_cjs_pointer_sentences(text: str) -> str:
     """Remove explicit CJS pointer sentences before scoring relocation pressure.
 
@@ -226,11 +237,12 @@ def strip_cjs_pointer_sentences(text: str) -> str:
     make the audit punish successful deduplication.
     """
 
-    chunks = re.split(r"(?<=[.!?])\s+", text)
+    text = strip_constitutional_index(text)
+    chunks = re.split(r"(?<=[.!?])\s+|\n\s*\n", text)
     kept: list[str] = []
     pointer_re = re.compile(
-        r"(\bapply\b|\bread\b|\bsee\b|\bunder\b|\bremain(?:s)?\b|"
-        r"\bshared\b|\bpointer\b|\brouter\b|\bjoint-obligation\b).{0,180}"
+        r"(\bapply\b|\bread\b|\bsee\b|\bunder\b|\bgoverned by\b|\bremain(?:s)?\b|"
+        r"\bshared\b|\bpointer\b|\brouter\b|\bowner map\b|\bjoint-obligation\b).{0,260}"
         r"(corpus_joint_structure\.md|CJS-\d|CJS-5[A-E]?)",
         flags=re.I | re.S,
     )
@@ -246,7 +258,7 @@ def words(text: str) -> set[str]:
 
 
 def short_summary(text: str, max_chars: int = 260) -> str:
-    stripped = re.sub(r"\s+", " ", strip_details(text)).strip()
+    stripped = re.sub(r"\s+", " ", strip_constitutional_index(strip_details(text))).strip()
     if len(stripped) <= max_chars:
         return stripped
     return stripped[: max_chars - 3].rstrip() + "..."
