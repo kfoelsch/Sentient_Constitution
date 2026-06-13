@@ -33,40 +33,6 @@
     "summary": "**Purpose.** This section records **institutional design expectations** for **Chapter Ten**, **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*) and parallel stewardship of other lawful **high-vulnerability personal-servi..."
   },
   {
-    "file": "corpus_institutions/ci_11_resource_stewardship_incentive_integrity.md",
-    "section_id": "CI-11",
-    "title": "Resource stewardship and incentive integrity",
-    "start_line": 1,
-    "end_line": 40,
-    "score": 24,
-    "confidence": "high",
-    "action": "split-CI-and-CJS",
-    "destinations": [
-      "CJS-5D",
-      "CJS-4.4",
-      "CJS-3 / CJS-4"
-    ],
-    "signals": [
-      "multi-owner-routing(3)",
-      "routing-read-with(4)",
-      "shared-procedure(2)",
-      "dependency-failure(1)",
-      "forum-system-touch(11)"
-    ],
-    "router_rows": [
-      "CJS-R19 \u2014 Implementation and cross-implementation integrity assurance and resilience operations",
-      "CJS-R17 \u2014 Cross-implementation trust integrity (joint operation model)",
-      "CJS-R18 \u2014 Class-scaled lane staffing and competency redundancy for materially binding stewardship"
-    ],
-    "similar_cjs": [],
-    "keep_notes": [
-      "public revenue",
-      "fees",
-      "billing"
-    ],
-    "summary": "**Continuity planning:** Institutions must maintain resource adequacy for safe continuity and constitutional performance. Shared dependency-chain evaluation for funding, staffing, capacity, and resource adequacy is governed by `corpus_joint_structure.md` **..."
-  },
-  {
     "file": "corpus_institutions/ci_17_scientific_publication_peer_review_replication_evidence_stewardship.md",
     "section_id": "CI-17",
     "title": "Scientific publication, peer review, replication, and evidence stewardship",
@@ -655,33 +621,6 @@
       "removal"
     ],
     "summary": "Institutions must maintain role criteria that are clear, relevant to impact, and accessible to qualified participants. Role assignment must not rely on arbitrary gatekeeping. Each institution must maintain: - qualification standards, - disqualification stan..."
-  },
-  {
-    "file": "corpus_institutions/ci_14_transitional_governance_institutional_evolution.md",
-    "section_id": "CI-14",
-    "title": "Transitional governance and institutional evolution",
-    "start_line": 1,
-    "end_line": 33,
-    "score": 8,
-    "confidence": "medium",
-    "action": "replace-with-pointer",
-    "destinations": [
-      "CJS-5D",
-      "CJS-3 / CJS-4"
-    ],
-    "signals": [
-      "multi-owner-routing(1)",
-      "routing-read-with(1)",
-      "forum-system-touch(3)"
-    ],
-    "router_rows": [
-      "CJS-R17 \u2014 Cross-implementation trust integrity (joint operation model)",
-      "CJS-R19 \u2014 Implementation and cross-implementation integrity assurance and resilience operations",
-      "CJS-R11 \u2014 Forum continuity"
-    ],
-    "similar_cjs": [],
-    "keep_notes": [],
-    "summary": "Institutional redesign, consolidation, or transfer must preserve non-regression and continuity duties. Apply `corpus_joint_structure.md` **CJS-5D.3** (*Implementation and cross-implementation data-retention and lifecycle-integrity terms*) **Transition conti..."
   },
   {
     "file": "corpus_institutions/ci_06_procedure_integrity_contestability_secondary_review.md",
