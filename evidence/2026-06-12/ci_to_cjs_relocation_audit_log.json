@@ -414,6 +414,38 @@
     "summary": "**Constitutional index (abridged)** - Topic-level routing and cited authorities remain in subsection text and cross-references. - Canonical owner map: `corpus_joint_structure.md` **CJS-2.2** (*Topic router (stable IDs)*) and `doc_architecture.md` section 4...."
   },
   {
+    "file": "corpus_institutions/ci_20_care_labor_dependent_support_respite_care_economy_fairness.md",
+    "section_id": "CI-20",
+    "title": "Care labor, dependent support, respite, and care-economy fairness",
+    "start_line": 1,
+    "end_line": 42,
+    "score": 16,
+    "confidence": "high",
+    "action": "split-CI-and-CJS",
+    "destinations": [
+      "CJS-3 / CJS-4",
+      "CJS-5D",
+      "CJS-4.4"
+    ],
+    "signals": [
+      "routing-read-with(7)",
+      "cjs-cluster(2)",
+      "dependency-failure(2)"
+    ],
+    "router_rows": [
+      "CJS-R19 \u2014 Implementation and cross-implementation integrity assurance and resilience operations",
+      "CJS-R17 \u2014 Cross-implementation trust integrity (joint operation model)",
+      "CJS-R15 \u2014 Contest-integrity monitoring (pathway integrity, not merits)"
+    ],
+    "similar_cjs": [],
+    "keep_notes": [
+      "public revenue",
+      "fees",
+      "billing"
+    ],
+    "summary": "**Purpose and owner boundary.** This section states the institutional application of the shared care, respite, and support-dependency floor in `corpus_joint_structure.md` **CJS-5D.1** (*Implementation and cross-implementation dependency integrity and disclo..."
+  },
+  {
     "file": "corpus_institutions/ci_08_cross_institution_coordination_escalation.md",
     "section_id": "CI-8",
     "title": "Cross-institution coordination and escalation",
@@ -570,38 +602,6 @@
     "similar_cjs": [],
     "keep_notes": [],
     "summary": "**Purpose.** This section records **institutional and system design expectations** for **community belonging**, **cultural gathering**, **play**, **recreation**, **solitude**, and **non-productive time** that are **adjacent to** but **not exhausted by** **A..."
-  },
-  {
-    "file": "corpus_institutions/ci_20_care_labor_dependent_support_respite_care_economy_fairness.md",
-    "section_id": "CI-20",
-    "title": "Care labor, dependent support, respite, and care-economy fairness",
-    "start_line": 1,
-    "end_line": 42,
-    "score": 12,
-    "confidence": "high",
-    "action": "split-CI-and-CJS",
-    "destinations": [
-      "CJS-3 / CJS-4",
-      "CJS-5D",
-      "CJS-5C"
-    ],
-    "signals": [
-      "routing-read-with(6)",
-      "shared-procedure(1)",
-      "dependency-failure(3)"
-    ],
-    "router_rows": [
-      "CJS-R17 \u2014 Cross-implementation trust integrity (joint operation model)",
-      "CJS-R19 \u2014 Implementation and cross-implementation integrity assurance and resilience operations",
-      "CJS-R15 \u2014 Contest-integrity monitoring (pathway integrity, not merits)"
-    ],
-    "similar_cjs": [],
-    "keep_notes": [
-      "public revenue",
-      "fees",
-      "billing"
-    ],
-    "summary": "**Purpose.** This section hardens **practical** support for **unpaid** and **paid** **care**, **respite**, **elder** and **disability** care, and **synthetic**/**substrate** **maintenance** burdens so **care** is **not** honored **abstractly** while **carer..."
   },
   {
     "file": "corpus_institutions/ci_09_classification_linked_institutional_obligations.md",

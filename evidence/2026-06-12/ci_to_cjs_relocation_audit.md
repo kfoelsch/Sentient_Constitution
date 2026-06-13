@@ -168,7 +168,19 @@ Summary: Where transition plans address **non-compliant property or systems** un
 
 Summary: **Constitutional index (abridged)** - Topic-level routing and cited authorities remain in subsection text and cross-references. - Canonical owner map: `corpus_joint_structure.md` **CJS-2.2** (*Topic router (stable IDs)*) and `doc_architecture.md` section 4....
 
-### 13. CI-8: Cross-institution coordination and escalation
+### 13. CI-20: Care labor, dependent support, respite, and care-economy fairness
+
+- Source: `corpus_institutions/ci_20_care_labor_dependent_support_respite_care_economy_fairness.md:1`
+- Score / confidence: 16 / high
+- Suggested action: `split-CI-and-CJS`
+- Proposed CJS destination: CJS-3 / CJS-4, CJS-5D, CJS-4.4
+- Signals: routing-read-with(7), cjs-cluster(2), dependency-failure(2)
+- Router matches: CJS-R19 — Implementation and cross-implementation integrity assurance and resilience operations; CJS-R17 — Cross-implementation trust integrity (joint operation model); CJS-R15 — Contest-integrity monitoring (pathway integrity, not merits)
+- Keep-in-CI cautions: public revenue, fees, billing
+
+Summary: **Purpose and owner boundary.** This section states the institutional application of the shared care, respite, and support-dependency floor in `corpus_joint_structure.md` **CJS-5D.1** (*Implementation and cross-implementation dependency integrity and disclo...
+
+### 14. CI-8: Cross-institution coordination and escalation
 
 - Source: `corpus_institutions/ci_08_cross_institution_coordination_escalation.md:1`
 - Score / confidence: 16 / high
@@ -179,7 +191,7 @@ Summary: **Constitutional index (abridged)** - Topic-level routing and cited aut
 
 Summary: Where institutions share jurisdiction, evidence custody, review responsibility, enforcement support, investigative interface, or forum-adjacent routing, they must maintain a published coordination and escalation protocol. The shared coordination, deadlock,...
 
-### 14. CI-5.1: Integrity trigger taxonomy and cross-layer routing (control package)
+### 15. CI-5.1: Integrity trigger taxonomy and cross-layer routing (control package)
 
 - Source: `corpus_institutions/ci_05_conflict_integrity_anti_capture_anti_corruption.md:57`
 - Score / confidence: 16 / high
@@ -191,7 +203,7 @@ Summary: Where institutions share jurisdiction, evidence custody, review respons
 
 Summary: This subsection names institutional trigger categories for **CI-5** (*Conflict integrity, anti-capture, and anti-corruption*) control maps and training. Shared cross-layer routing for integrity triggers is governed by `corpus_joint_structure.md` **CJS-5B.1*...
 
-### 15. CI-5: Conflict integrity, anti-capture, and anti-corruption
+### 16. CI-5: Conflict integrity, anti-capture, and anti-corruption
 
 - Source: `corpus_institutions/ci_05_conflict_integrity_anti_capture_anti_corruption.md:1`
 - Score / confidence: 16 / high
@@ -203,7 +215,7 @@ Summary: This subsection names institutional trigger categories for **CI-5** (*C
 
 Summary: Institutions must maintain: - auditable conflict controls that cover financial, relational, and role-based conflicts. - anti-corruption and anti-fraud controls across prevention, detection, response, and remediation. Required controls include: - disclosure...
 
-### 16. CI-10.2: Recurring charges, renewals, and commercial billing integrity
+### 17. CI-10.2: Recurring charges, renewals, and commercial billing integrity
 
 - Source: `corpus_institutions/ci_10_public_revenue_fees_recurring_charges_billing_integrity.md:65`
 - Score / confidence: 15 / high
@@ -215,7 +227,7 @@ Summary: Institutions must maintain: - auditable conflict controls that cover fi
 
 Summary: **Purpose.** This subsection records institutional requirements for **recurring and transaction-linked charges**, including subscriptions, memberships, paid tiers, and trial-to-paid conversion, where institutions **supervise, charter, or set compliance expe...
 
-### 17. CI-18: Community life, voluntary association, and non-instrumental time
+### 18. CI-18: Community life, voluntary association, and non-instrumental time
 
 - Source: `corpus_institutions/ci_18_community_life_voluntary_association_non_instrumental_time.md:1`
 - Score / confidence: 14 / high
@@ -225,18 +237,6 @@ Summary: **Purpose.** This subsection records institutional requirements for **r
 - Router matches: CJS-R19 — Implementation and cross-implementation integrity assurance and resilience operations; CJS-R17 — Cross-implementation trust integrity (joint operation model); CJS-R16 — Cross-institution coordination, deadlock, and escalation
 
 Summary: **Purpose.** This section records **institutional and system design expectations** for **community belonging**, **cultural gathering**, **play**, **recreation**, **solitude**, and **non-productive time** that are **adjacent to** but **not exhausted by** **A...
-
-### 18. CI-20: Care labor, dependent support, respite, and care-economy fairness
-
-- Source: `corpus_institutions/ci_20_care_labor_dependent_support_respite_care_economy_fairness.md:1`
-- Score / confidence: 12 / high
-- Suggested action: `split-CI-and-CJS`
-- Proposed CJS destination: CJS-3 / CJS-4, CJS-5D, CJS-5C
-- Signals: routing-read-with(6), shared-procedure(1), dependency-failure(3)
-- Router matches: CJS-R17 — Cross-implementation trust integrity (joint operation model); CJS-R19 — Implementation and cross-implementation integrity assurance and resilience operations; CJS-R15 — Contest-integrity monitoring (pathway integrity, not merits)
-- Keep-in-CI cautions: public revenue, fees, billing
-
-Summary: **Purpose.** This section hardens **practical** support for **unpaid** and **paid** **care**, **respite**, **elder** and **disability** care, and **synthetic**/**substrate** **maintenance** burdens so **care** is **not** honored **abstractly** while **carer...
 
 ### 19. CI-9.2: Published industry and domain mapping
 
