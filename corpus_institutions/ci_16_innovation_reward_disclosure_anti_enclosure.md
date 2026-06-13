@@ -30,7 +30,7 @@
 
 **1. Disclosure and registry.** Institutions must maintain a public, searchable registry for in-scope innovation-reward claims. Each entry must state claimant identity, covered subject matter, scope, duration, disclosure materials, interoperability or repair implications, and any asserted secrecy or access limits. Secret or materially vague claims must not receive constitutional enforcement benefit unless a narrow, time-bounded exception is justified under the owner sources named above.
 
-**2. Reward proportionality.** Institutions must scale any exclusionary reward to actual contribution, disclosed novelty, development burden, and public benefit. Trivial variation, defensive paperwork, strategic bundling, or claims whose main effect is foreclosure of competition, repair, migration, or compatibility must not receive broad exclusion.
+**2. Reward proportionality.** Institutions must preserve the local evidence record showing how any exclusionary reward was scaled under **CJS-5D.2** and **CJS-5A.4**, including contribution, disclosed novelty, development burden, public benefit, and any repair, migration, compatibility, or access effect.
 
 **2A. Classification-scaled treatment.** Institutions must evaluate innovation-reward claims in conjunction with **[corpus_systems.md](../corpus_systems.md), Chapter S2 — System Classification and Handling** and the shared anti-enclosure controls in **CJS-5D.2**. Claim records for **Class A**, **Class B**, or **Class C** systems must state whether access-preserving mechanisms, interface conditions, interoperability conditions, reward conversion, or sunset acceleration are required.
 

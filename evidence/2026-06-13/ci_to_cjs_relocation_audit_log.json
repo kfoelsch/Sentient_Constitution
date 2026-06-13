@@ -5,7 +5,7 @@
     "title": "Vulnerable personal services markets \u2014 general regulation and Article X-C interface",
     "start_line": 1,
     "end_line": 62,
-    "score": 25,
+    "score": 24,
     "confidence": "high",
     "action": "split-CI-and-CJS",
     "destinations": [
@@ -18,19 +18,19 @@
       "routing-read-with(3)",
       "cjs-cluster(1)",
       "shared-procedure(3)",
-      "dependency-failure(3)",
-      "forum-system-touch(13)"
+      "dependency-failure(2)",
+      "forum-system-touch(11)"
     ],
     "router_rows": [
-      "CJS-R19 \u2014 Implementation and cross-implementation integrity assurance and resilience operations",
       "CJS-R17 \u2014 Cross-implementation trust integrity (joint operation model)",
+      "CJS-R19 \u2014 Implementation and cross-implementation integrity assurance and resilience operations",
       "CJS-R15 \u2014 Contest-integrity monitoring (pathway integrity, not merits)"
     ],
     "similar_cjs": [],
     "keep_notes": [
       "fees"
     ],
-    "summary": "**Purpose.** This section records **institutional design expectations** for **Chapter Ten**, **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*) and parallel stewardship of other lawful **high-vulnerability personal-servi..."
+    "summary": "**Purpose.** This section records the institutional application of **Chapter Ten**, **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*) for local authorization, enforcement separation, transition records, and remedy routi..."
   },
   {
     "file": "corpus_institutions/ci_17_scientific_publication_peer_review_replication_evidence_stewardship.md",
@@ -51,7 +51,7 @@
       "multi-owner-routing(1)",
       "routing-read-with(3)",
       "cjs-cluster(1)",
-      "shared-procedure(6)",
+      "shared-procedure(5)",
       "forum-system-touch(7)"
     ],
     "router_rows": [
@@ -75,20 +75,20 @@
     "destinations": [
       "CJS-5B",
       "CJS-3 / CJS-4",
-      "CJS-5A / CJS-4.1 / CJS-4.7"
+      "CJS-5C"
     ],
     "signals": [
       "joint-interface(2)",
       "routing-read-with(3)",
       "cjs-cluster(1)",
-      "shared-procedure(5)",
+      "shared-procedure(4)",
       "dependency-failure(1)",
       "forum-system-touch(3)"
     ],
     "router_rows": [
-      "CJS-R17 \u2014 Cross-implementation trust integrity (joint operation model)",
       "CJS-R19 \u2014 Implementation and cross-implementation integrity assurance and resilience operations",
-      "CJS-R18 \u2014 Class-scaled lane staffing and competency redundancy for materially binding stewardship"
+      "CJS-R17 \u2014 Cross-implementation trust integrity (joint operation model)",
+      "CJS-R15 \u2014 Contest-integrity monitoring (pathway integrity, not merits)"
     ],
     "similar_cjs": [],
     "keep_notes": [
