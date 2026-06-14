@@ -24,15 +24,15 @@
 <br>
 
 
-**Purpose and owner boundary.** This section states the institutional application of the shared care, respite, and support-dependency floor in `corpus_joint_structure.md` **CJS-5D.1** (*Implementation and cross-implementation dependency integrity and disclosure terms*). It **restates** no **Article VII-D** **rights** and does **not** relocate fiscal, labor, or service-program design out of CI. Institutional routing remains here, read with **CI-9.4** (*Survival floors, voluntary exchange, and markets (Article III-A interface)*), **CI-10** (*Public revenue, fees, recurring charges, and billing integrity*), **Protocol S5**, and **Article III-D**.
+**Purpose and owner boundary.** This section states the institutional application of `corpus_joint_structure.md` **CJS-5D.1** (*Care, respite, and support-dependency adequacy*). It restates no **Article VII-D** rights and does not relocate fiscal, labor, or service-program design out of CI. Institutional routing remains here, read with **CI-9.4**, **CI-10**, **Protocol S5**, and **Article III-D**.
 
-**1. Respite and substitution.** Where **CJS-5D.1** identifies material care or support dependency, institutions must **fund**, **operate**, or supervise **respite** and substitution pathways proportionate to their role. **Eligibility** **mazes** that **abandon** **households** in **crisis** are **presumptively** **non-compliant** with **Proportionality** and **Necessity** for **the stated** **purpose**.
+**1. Respite and substitution.** Institutions must fund, operate, or supervise respite and substitution pathways proportionate to their role when **CJS-5D.1** applies. Eligibility mazes that abandon households in crisis are presumptively non-compliant with **Proportionality** and **Necessity**.
 
-**2. Unpaid care recognition.** **Metrics** and **governance** **disclosures** under **CI-12.4** (*Governance disclosure schema*) must apply **CJS-5D.1** by surfacing **unpaid** **care** **load**, **dependency** **concentration**, and support substitutability as **first-class** **risk** **inputs**, not **private** **background**.
+**2. Unpaid care recognition.** **CI-12.4** governance disclosures must surface unpaid care load, dependency concentration, and support substitutability as review inputs when **CJS-5D.1** is implicated.
 
-**3. Coercion and exploitation guards.** **Policies** must **mitigate** **coercive** **family** **dependence**, **carer** **exploitation**, and **warehousing** **incentives**; read with **CI-21** (*Relational coercive control, intimate power, and anti-domination routing*) and **Article X-C**/**CI-15** (*Vulnerable personal services markets — general regulation and Article X-C interface*) where **markets** **touch** **intimate** **labor**.
+**3. Coercion and exploitation guards.** Policies must mitigate coercive family dependence, carer exploitation, and warehousing incentives; read with **CI-21** and **Article X-C** / **CI-15** where markets touch intimate labor.
 
-**4. Reproductive and embodiment justice (implementation routing).** **Pregnancy**, **gestation** **analogues**, and **intimate** **dependency** **power** are **governed** at the **rights** **floor** by **Article VII-A**, **VII-C**, **VII-D**; this section applies **CJS-5D.1** through **institutional** **metrics** and **labor** **pathways** that **do not** **treat** **reproductive** **labor** or **care** **work** as **economically invisible** **default** **obligations**.
+**4. Reproductive and embodiment justice (implementation routing).** **Article VII-A**, **VII-C**, and **VII-D** remain the rights-floor owners. CI-20 applies **CJS-5D.1** through institutional metrics and labor pathways so reproductive labor and care work are not treated as economically invisible default obligations.
 
 ---
 

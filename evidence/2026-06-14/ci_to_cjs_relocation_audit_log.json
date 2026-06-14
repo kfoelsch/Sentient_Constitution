@@ -204,21 +204,22 @@
     "action": "split-CI-and-CJS",
     "destinations": [
       "CJS-3 / CJS-4",
-      "CJS-5D"
+      "CJS-5D",
+      "CJS-5C"
     ],
     "signals": [
-      "routing-read-with(4)",
-      "cjs-cluster(2)",
-      "dependency-failure(2)"
+      "routing-read-with(3)",
+      "cjs-cluster(3)",
+      "dependency-failure(1)"
     ],
     "router_rows": [
       "CJS-R19 \u2014 Implementation and cross-implementation integrity assurance and resilience operations",
       "CJS-R17 \u2014 Cross-implementation trust integrity (joint operation model)",
-      "CJS-R15 \u2014 Contest-integrity monitoring (pathway integrity, not merits)"
+      "CJS-R18 \u2014 Class-scaled lane staffing and competency redundancy for materially binding stewardship"
     ],
     "similar_cjs": [],
     "keep_notes": [],
-    "summary": "**Purpose and owner boundary.** This section states the institutional application of the shared care, respite, and support-dependency floor in `corpus_joint_structure.md` **CJS-5D.1** (*Implementation and cross-implementation dependency integrity and disclo..."
+    "summary": "**Purpose and owner boundary.** This section states the institutional application of `corpus_joint_structure.md` **CJS-5D.1** (*Care, respite, and support-dependency adequacy*). It restates no **Article VII-D** rights and does not relocate fiscal, labor, or..."
   },
   {
     "file": "corpus_institutions/ci_10_public_revenue_fees_recurring_charges_billing_integrity.md",
@@ -252,6 +253,35 @@
       "billing"
     ],
     "summary": "**Purpose.** This subsection records institutional requirements for **recurring and transaction-linked charges**, including subscriptions, memberships, paid tiers, and trial-to-paid conversion, where institutions **supervise, charter, or set compliance expe..."
+  },
+  {
+    "file": "corpus_institutions/ci_18_community_life_voluntary_association_non_instrumental_time.md",
+    "section_id": "CI-18",
+    "title": "Community life, voluntary association, and non-instrumental time",
+    "start_line": 1,
+    "end_line": 40,
+    "score": 14,
+    "confidence": "high",
+    "action": "split-CI-and-CJS",
+    "destinations": [
+      "CJS-3 / CJS-4",
+      "CJS-5A / CJS-4.1 / CJS-4.7"
+    ],
+    "signals": [
+      "multi-owner-routing(1)",
+      "routing-read-with(1)",
+      "cjs-cluster(2)",
+      "shared-procedure(1)",
+      "forum-system-touch(2)"
+    ],
+    "router_rows": [
+      "CJS-R19 \u2014 Implementation and cross-implementation integrity assurance and resilience operations",
+      "CJS-R17 \u2014 Cross-implementation trust integrity (joint operation model)",
+      "CJS-R15 \u2014 Contest-integrity monitoring (pathway integrity, not merits)"
+    ],
+    "similar_cjs": [],
+    "keep_notes": [],
+    "summary": "**Purpose and owner boundary.** This section states the institutional stewardship of community infrastructure, voluntary association, recreation, solitude, and non-productive time. The shared participation, association, and hostile-design floor lives in `co..."
   },
   {
     "file": "corpus_institutions/ci_09_classification_linked_institutional_obligations.md",
@@ -289,35 +319,6 @@
     ],
     "keep_notes": [],
     "summary": "**Purpose and owner boundary.** Apply `corpus_joint_structure.md` **CJS-4.1** (*Mandatory hybrid authority composition (delegated binding bodies)*) and **CJS-4.7** (*Shared procedural abstractions for delegated bodies and forum routing*) for shared delegate..."
-  },
-  {
-    "file": "corpus_institutions/ci_18_community_life_voluntary_association_non_instrumental_time.md",
-    "section_id": "CI-18",
-    "title": "Community life, voluntary association, and non-instrumental time",
-    "start_line": 1,
-    "end_line": 40,
-    "score": 13,
-    "confidence": "high",
-    "action": "split-CI-and-CJS",
-    "destinations": [
-      "CJS-3 / CJS-4",
-      "CJS-5A / CJS-4.1 / CJS-4.7",
-      "CJS-5C"
-    ],
-    "signals": [
-      "multi-owner-routing(1)",
-      "routing-read-with(2)",
-      "shared-procedure(3)",
-      "forum-system-touch(3)"
-    ],
-    "router_rows": [
-      "CJS-R19 \u2014 Implementation and cross-implementation integrity assurance and resilience operations",
-      "CJS-R17 \u2014 Cross-implementation trust integrity (joint operation model)",
-      "CJS-R16 \u2014 Cross-institution coordination, deadlock, and escalation"
-    ],
-    "similar_cjs": [],
-    "keep_notes": [],
-    "summary": "**Purpose.** This section records **institutional and system design expectations** for **community belonging**, **cultural gathering**, **play**, **recreation**, **solitude**, and **non-productive time** that are **adjacent to** but **not exhausted by** **A..."
   },
   {
     "file": "corpus_institutions/ci_09_classification_linked_institutional_obligations.md",
@@ -497,34 +498,6 @@
     "similar_cjs": [],
     "keep_notes": [],
     "summary": "Definition discipline is single-home: - Constitutional definition structure, compliance-state meaning, offense classification, rights meaning, and authority-stack order remain in the numbered Sentient Constitution `core_*` files under the CJS shared preambl..."
-  },
-  {
-    "file": "corpus_institutions/ci_22_commons_cooperatives_mutual_aid_non_market_governance.md",
-    "section_id": "CI-22",
-    "title": "Commons, cooperatives, mutual aid, and non-market community governance",
-    "start_line": 1,
-    "end_line": 40,
-    "score": 9,
-    "confidence": "medium",
-    "action": "replace-with-pointer",
-    "destinations": [
-      "CJS-5B",
-      "CJS-3 / CJS-4",
-      "CJS-5D"
-    ],
-    "signals": [
-      "joint-interface(2)",
-      "routing-read-with(1)",
-      "shared-procedure(1)"
-    ],
-    "router_rows": [
-      "CJS-R17 \u2014 Cross-implementation trust integrity (joint operation model)",
-      "CJS-R19 \u2014 Implementation and cross-implementation integrity assurance and resilience operations",
-      "CJS-R15 \u2014 Contest-integrity monitoring (pathway integrity, not merits)"
-    ],
-    "similar_cjs": [],
-    "keep_notes": [],
-    "summary": "**Purpose.** This section states the institutional application of `corpus_joint_structure.md` **CJS-5C.1** (*Implementation and cross-implementation quorum and participatory legitimacy terms*) **Commons, cooperative, and mutual-aid pathway integrity**, whil..."
   },
   {
     "file": "corpus_institutions/ci_12_transparency_participation_accessible_pathways.md",

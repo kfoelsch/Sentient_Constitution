@@ -9,8 +9,8 @@ This is an editorial exposure audit. It identifies candidate passages for reloca
 ## Summary
 
 - Candidate threshold: relocation score >= 5
-- Candidates: 26
-- Confidence: high 12, medium 9, low 5
+- Candidates: 25
+- Confidence: high 12, medium 8, low 5
 
 ## Classification rules
 
@@ -95,11 +95,11 @@ Summary: Apply `corpus_joint_structure.md` **CJS-5B.1** (*Implementation and cro
 - Source: `corpus_institutions/ci_20_care_labor_dependent_support_respite_care_economy_fairness.md:1`
 - Score / confidence: 16 / high
 - Suggested action: `split-CI-and-CJS`
-- Proposed CJS destination: CJS-3 / CJS-4, CJS-5D
-- Signals: routing-read-with(4), cjs-cluster(2), dependency-failure(2)
-- Router matches: CJS-R19 — Implementation and cross-implementation integrity assurance and resilience operations; CJS-R17 — Cross-implementation trust integrity (joint operation model); CJS-R15 — Contest-integrity monitoring (pathway integrity, not merits)
+- Proposed CJS destination: CJS-3 / CJS-4, CJS-5D, CJS-5C
+- Signals: routing-read-with(3), cjs-cluster(3), dependency-failure(1)
+- Router matches: CJS-R19 — Implementation and cross-implementation integrity assurance and resilience operations; CJS-R17 — Cross-implementation trust integrity (joint operation model); CJS-R18 — Class-scaled lane staffing and competency redundancy for materially binding stewardship
 
-Summary: **Purpose and owner boundary.** This section states the institutional application of the shared care, respite, and support-dependency floor in `corpus_joint_structure.md` **CJS-5D.1** (*Implementation and cross-implementation dependency integrity and disclo...
+Summary: **Purpose and owner boundary.** This section states the institutional application of `corpus_joint_structure.md` **CJS-5D.1** (*Care, respite, and support-dependency adequacy*). It restates no **Article VII-D** rights and does not relocate fiscal, labor, or...
 
 ### 8. CI-10.2: Recurring charges, renewals, and commercial billing integrity
 
@@ -113,7 +113,18 @@ Summary: **Purpose and owner boundary.** This section states the institutional a
 
 Summary: **Purpose.** This subsection records institutional requirements for **recurring and transaction-linked charges**, including subscriptions, memberships, paid tiers, and trial-to-paid conversion, where institutions **supervise, charter, or set compliance expe...
 
-### 9. CI-9.3: Delegated subunits, institutional design class, and attachment discipline
+### 9. CI-18: Community life, voluntary association, and non-instrumental time
+
+- Source: `corpus_institutions/ci_18_community_life_voluntary_association_non_instrumental_time.md:1`
+- Score / confidence: 14 / high
+- Suggested action: `split-CI-and-CJS`
+- Proposed CJS destination: CJS-3 / CJS-4, CJS-5A / CJS-4.1 / CJS-4.7
+- Signals: multi-owner-routing(1), routing-read-with(1), cjs-cluster(2), shared-procedure(1), forum-system-touch(2)
+- Router matches: CJS-R19 — Implementation and cross-implementation integrity assurance and resilience operations; CJS-R17 — Cross-implementation trust integrity (joint operation model); CJS-R15 — Contest-integrity monitoring (pathway integrity, not merits)
+
+Summary: **Purpose and owner boundary.** This section states the institutional stewardship of community infrastructure, voluntary association, recreation, solitude, and non-productive time. The shared participation, association, and hostile-design floor lives in `co...
+
+### 10. CI-9.3: Delegated subunits, institutional design class, and attachment discipline
 
 - Source: `corpus_institutions/ci_09_classification_linked_institutional_obligations.md:93`
 - Score / confidence: 14 / high
@@ -126,17 +137,6 @@ Summary: **Purpose and owner boundary.** Apply `corpus_joint_structure.md` **CJS
 
 Near CJS matches:
 - 0.36: `corpus_joint_structure/cjs_03_joint_structural_obligations.md:163` (CJS-3.5 Classification alignment for supervised scope) — When an institution supervises systems governed by `corpus_systems.md` **Chapter S2** or **Chapter S3**, its published maps under **CI-9....
-
-### 10. CI-18: Community life, voluntary association, and non-instrumental time
-
-- Source: `corpus_institutions/ci_18_community_life_voluntary_association_non_instrumental_time.md:1`
-- Score / confidence: 13 / high
-- Suggested action: `split-CI-and-CJS`
-- Proposed CJS destination: CJS-3 / CJS-4, CJS-5A / CJS-4.1 / CJS-4.7, CJS-5C
-- Signals: multi-owner-routing(1), routing-read-with(2), shared-procedure(3), forum-system-touch(3)
-- Router matches: CJS-R19 — Implementation and cross-implementation integrity assurance and resilience operations; CJS-R17 — Cross-implementation trust integrity (joint operation model); CJS-R16 — Cross-institution coordination, deadlock, and escalation
-
-Summary: **Purpose.** This section records **institutional and system design expectations** for **community belonging**, **cultural gathering**, **play**, **recreation**, **solitude**, and **non-productive time** that are **adjacent to** but **not exhausted by** **A...
 
 ### 11. CI-9.2: Published industry and domain mapping
 
@@ -206,18 +206,7 @@ Summary: Apply `corpus_joint_structure.md` **CJS-5B.1** (*Implementation and cro
 
 Summary: Definition discipline is single-home: - Constitutional definition structure, compliance-state meaning, offense classification, rights meaning, and authority-stack order remain in the numbered Sentient Constitution `core_*` files under the CJS shared preambl...
 
-### 17. CI-22: Commons, cooperatives, mutual aid, and non-market community governance
-
-- Source: `corpus_institutions/ci_22_commons_cooperatives_mutual_aid_non_market_governance.md:1`
-- Score / confidence: 9 / medium
-- Suggested action: `replace-with-pointer`
-- Proposed CJS destination: CJS-5B, CJS-3 / CJS-4, CJS-5D
-- Signals: joint-interface(2), routing-read-with(1), shared-procedure(1)
-- Router matches: CJS-R17 — Cross-implementation trust integrity (joint operation model); CJS-R19 — Implementation and cross-implementation integrity assurance and resilience operations; CJS-R15 — Contest-integrity monitoring (pathway integrity, not merits)
-
-Summary: **Purpose.** This section states the institutional application of `corpus_joint_structure.md` **CJS-5C.1** (*Implementation and cross-implementation quorum and participatory legitimacy terms*) **Commons, cooperative, and mutual-aid pathway integrity**, whil...
-
-### 18. CI-12.3: Digital self-service pathway integrity
+### 17. CI-12.3: Digital self-service pathway integrity
 
 - Source: `corpus_institutions/ci_12_transparency_participation_accessible_pathways.md:111`
 - Score / confidence: 9 / medium
@@ -229,7 +218,7 @@ Summary: **Purpose.** This section states the institutional application of `corp
 
 Summary: Apply `corpus_joint_structure.md` **CJS-5D.2** (*Implementation and cross-implementation interoperability, portability, and exit-integrity terms*) **Digital self-service pathway integrity** for the shared entry, management, downgrade, renewal, accessibility...
 
-### 19. CI-9.4: Survival floors, voluntary exchange, and markets (Article III-A interface)
+### 18. CI-9.4: Survival floors, voluntary exchange, and markets (Article III-A interface)
 
 - Source: `corpus_institutions/ci_09_classification_linked_institutional_obligations.md:250`
 - Score / confidence: 9 / medium
@@ -241,7 +230,7 @@ Summary: Apply `corpus_joint_structure.md` **CJS-5D.2** (*Implementation and cro
 
 Summary: **Purpose.** **Article III-A** (*Survival*) in `core_10-10_rights_part_*.md` states outcome obligations for essential resources, housing, and connectivity. Apply `corpus_joint_structure.md` **CJS-5A.4** (*Implementation and cross-implementation burden-of-ju...
 
-### 20. CI-9.3.2: Authority composition
+### 19. CI-9.3.2: Authority composition
 
 - Source: `corpus_institutions/ci_09_classification_linked_institutional_obligations.md:162`
 - Score / confidence: 9 / medium
@@ -253,7 +242,7 @@ Summary: **Purpose.** **Article III-A** (*Survival*) in `core_10-10_rights_part_
 
 Summary: **CJS minimum.** Delegated subunits in scope must satisfy **`corpus_joint_structure.md` CJS-4.1** (*Mandatory hybrid authority composition*). This subsection states only the institutional exception route, capture-safeguard publication duty, and external-ass...
 
-### 21. CI-13: Institutional failure, sanctions, dissolution, and accountability
+### 20. CI-13: Institutional failure, sanctions, dissolution, and accountability
 
 - Source: `corpus_institutions/ci_13_institutional_failure_sanctions_dissolution_accountability.md:1`
 - Score / confidence: 7 / medium
@@ -265,7 +254,7 @@ Summary: **CJS minimum.** Delegated subunits in scope must satisfy **`corpus_joi
 
 Summary: Apply `corpus_joint_structure.md` **CJS-5E.5** (*Implementation and cross-implementation structural review, correction urgency, and disclosure terms*) **Realignment resistance and dissolution-review trigger floor** for the shared rule on repeated anti-const...
 
-### 22. CI-25: Collective public health, epidemic response, and addiction-informed care
+### 21. CI-25: Collective public health, epidemic response, and addiction-informed care
 
 - Source: `corpus_institutions/ci_25_collective_public_health_epidemic_response_addiction_informed_care.md:1`
 - Score / confidence: 6 / low
@@ -276,7 +265,7 @@ Summary: Apply `corpus_joint_structure.md` **CJS-5E.5** (*Implementation and cro
 
 Summary: **Purpose.** This section frames **contagion**, **environmental** **exposure**, **population**-**level** **harms**, and **addiction** as **collective**-**care** and **governance** **problems** **under** **Article I-D**, **Article III-C**, **Article VII-C**,...
 
-### 23. CI-12: Transparency, participation, and accessible pathways
+### 22. CI-12: Transparency, participation, and accessible pathways
 
 - Source: `corpus_institutions/ci_12_transparency_participation_accessible_pathways.md:1`
 - Score / confidence: 6 / low
@@ -287,7 +276,7 @@ Summary: **Purpose.** This section frames **contagion**, **environmental** **exp
 
 Summary: Institutional governance must be understandable and accessible to materially affected participants. Institutions must provide practical access to participation, review, and challenge channels, including accessibility accommodations sufficient for substantiv...
 
-### 24. CI-8: Cross-institution coordination and escalation
+### 23. CI-8: Cross-institution coordination and escalation
 
 - Source: `corpus_institutions/ci_08_cross_institution_coordination_escalation.md:1`
 - Score / confidence: 5 / low
@@ -298,7 +287,7 @@ Summary: Institutional governance must be understandable and accessible to mater
 
 Summary: Where institutions share jurisdiction, evidence custody, review responsibility, enforcement support, investigative interface, or forum-adjacent routing, they must maintain a published coordination and escalation protocol. The shared coordination, deadlock,...
 
-### 25. CI-6: Procedure integrity, contestability, and secondary review
+### 24. CI-6: Procedure integrity, contestability, and secondary review
 
 - Source: `corpus_institutions/ci_06_procedure_integrity_contestability_secondary_review.md:1`
 - Score / confidence: 5 / low
@@ -309,7 +298,7 @@ Summary: Where institutions share jurisdiction, evidence custody, review respons
 
 Summary: Procedure rules here must remain consistent with **Chapter Five** (*Procedural Fairness*, *Contestability*, *Accountability*, *Redress and Remediation*) and with `core_02-04_definition_mechanics.md` **Chapter Four** verification and traceability rules. Shar...
 
-### 26. CI-1: Scope, purpose, and legitimacy interface
+### 25. CI-1: Scope, purpose, and legitimacy interface
 
 - Source: `corpus_institutions/ci_01_scope_purpose_legitimacy_interface.md:23`
 - Score / confidence: 5 / low
