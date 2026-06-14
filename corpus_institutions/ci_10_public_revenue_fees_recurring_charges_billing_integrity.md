@@ -51,9 +51,9 @@ This chapter collects **class-aligned fiscal orientation** and **recurring-charg
 
 <br>
 
-This subsection states the institutional application of the shared class-aligned revenue and access-burden floor in `corpus_joint_structure.md` **CJS-5A.4** (*Implementation and cross-implementation burden-of-justification and constraint terms*). It does **not** specify tax bases, rates, credits, enforcement, or cross-border rules; those remain **governing law** outside this file (see `doc_architecture.md`, **constitutional and political** embedding boundary).
+This subsection states the institutional application of the shared class-aligned revenue and access-burden floor in `corpus_joint_structure.md` **CJS-5A.4** (*Implementation and cross-implementation burden-of-justification and constraint terms*). It does **not** specify tax bases, rates, credits, enforcement, or cross-border rules; those remain **governing law** outside this file.
 
-Institutions and adopting authorities with fiscal discretion must publish the local fiscal map for governed scope: covered revenue measures, responsible owner, affected `corpus_systems.md` **Chapter S2** class or **Chapter S3** stewardship tier, protected baseline access surface, any commercial or premium charge surface, and the review route for misclassification or drift toward essentiality. Where recurring or transaction-linked charges are supervised, the map must identify the **CI-10.2** and **CI-12.3** billing / self-service owner rather than restating those pathway rules here.
+Institutions and adopting authorities with fiscal discretion must publish the local fiscal map for governed scope: covered revenue measures, responsible owner, affected class or tier, protected baseline access surface, any commercial or premium charge surface, and the review route for misclassification or drift toward essentiality. Where recurring or transaction-linked charges are supervised, the map must identify the **CI-10.2** and **CI-12.3** billing / self-service owner rather than restating those pathway rules here.
 
 For **Class A**, **Class B**, or **Class C** interfaces, institutional publications must identify the local constrained-capacity priority owner and the reporting channel for `corpus_systems.md` **Protocol S5** revenue-allocation records. Those records must be sufficient for **Article XV-A** auditability and challenge.
 
@@ -82,11 +82,11 @@ For **Class A**, **Class B**, or **Class C** interfaces, institutional publicati
 
 <br>
 
-**Purpose.** This subsection records the institutional owner duties for recurring and transaction-linked charges where institutions supervise, charter, or set compliance expectations for governed systems. Constitutional meaning remains authoritative in **Sentient Constitution Chapter Ten, Article II-D** (*Post-Sale Access and Subscription Integrity*), **Article XIV**, **Article X-A**, related **Chapter Five** definitions, and **Chapter Six** contribution / violation / standing classification where offense-linked evaluation applies.
+**Purpose.** This subsection records the institutional owner duties for recurring and transaction-linked charges where institutions supervise, charter, or set compliance expectations for governed scope. Constitutional meaning remains authoritative in **Sentient Constitution Chapter Ten, Article II-D** (*Post-Sale Access and Subscription Integrity*), **Article XIV**, **Article X-A**, related **Chapter Five** definitions, and **Chapter Six** contribution / violation / standing classification where offense-linked evaluation applies.
 
 **Shared charge-pathway floor.** Commitment, renewal, trial-conversion, bundled-offer, cancellation, downgrade, and billing-cessation integrity are governed by `corpus_joint_structure.md` **CJS-5D.2** (*Implementation and cross-implementation interoperability, portability, and exit-integrity terms*), including its **Digital self-service pathway integrity** and **Commitment, renewal, and charge-exit integrity** rules. Where governing law sets a stricter billing, notice, renewal, cancellation, or disclosure standard, supervised institutional scope must meet or exceed that stricter standard.
 
-Institutions must publish the local charge-supervision map: covered charge type, class/tier assignment, accountable office, evidence artifact, stricter-law check, reclassification trigger, and route for billing / exit complaints. The map must connect subscription-style revenue to **CI-10.1** fiscal classification and identify when `corpus_systems.md` **Chapter S2** reclassification review is required.
+Institutions must publish the local charge-supervision map: covered charge type, class/tier assignment, accountable office, evidence artifact, stricter-law check, reclassification trigger, and route for billing / exit complaints. The map must connect subscription-style revenue to **CI-10.1** fiscal classification and identify when reclassification review is required.
 
 ---
 

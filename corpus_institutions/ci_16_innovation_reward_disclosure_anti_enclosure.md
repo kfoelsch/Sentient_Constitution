@@ -24,15 +24,15 @@
 <br>
 
 
-**Purpose and owner boundary.** This section governs institutional handling of innovation-reward systems where constitutional adoption brings them within scope. Constitutional meaning remains in **Chapter Five** (*Innovation Reward and Anti-Enclosure*) and **Chapter Ten**, **Article XVII-D**. Shared anti-enclosure and burden discipline remain in `corpus_joint_structure.md`; this section supplies only the institutional registry, review, access-order, sunset, and appeal mechanics.
+**Purpose and owner boundary.** This section governs institutional handling of innovation-reward arrangements brought within constitutional scope. Constitutional meaning remains in **Chapter Five** (*Innovation Reward and Anti-Enclosure*) and **Chapter Ten**, **Article XVII-D**. Shared anti-enclosure and burden discipline remain in `corpus_joint_structure.md`; this section supplies only the institutional registry, review, access-order, sunset, and appeal mechanics.
 
 **Shared anti-enclosure floor.** Apply `corpus_joint_structure.md` **CJS-5D.2** for reusable anti-enclosure controls. Institutional instruments under this section publish the local registry, review, access-order, and sunset practice used to apply that floor.
 
-**1. Disclosure and registry.** Institutions must maintain a public, searchable registry for in-scope innovation-reward claims. Each entry must state claimant identity, covered subject matter, scope, duration, disclosure materials, interoperability or repair implications, and any asserted secrecy or access limits. Secret or materially vague claims must not receive constitutional enforcement benefit unless a narrow, time-bounded exception is justified under the owner sources named above.
+**1. Disclosure and registry.** Institutions must maintain a public, searchable registry for in-scope innovation-reward claims. Each entry must state claimant identity, covered subject matter, scope, duration, disclosure materials, repair or migration implications, and any asserted secrecy or access limits. Secret or materially vague claims must not receive constitutional enforcement benefit unless a narrow, time-bounded exception is justified under the owner sources named above.
 
 **2. Reward proportionality.** Institutions must preserve the local evidence record showing how any exclusionary reward was scaled, including contribution, disclosed novelty, development burden, public benefit, and any repair, migration, compatibility, or access effect.
 
-**2A. Classification-scaled treatment.** Claim records for **Class A**, **Class B**, or **Class C** systems must identify the system class, the anti-enclosure control applied, and the institutional owner for any access-preserving mechanism, interface condition, reward conversion, or sunset acceleration.
+**2A. Classification-scaled treatment.** Claim records for **Class A**, **Class B**, or **Class C** scope must identify the class, anti-enclosure control applied, and institutional owner for any access-preserving mechanism, interface condition, reward conversion, or sunset acceleration.
 
 **3. Non-waivable public-interest uses.** Institutional rules must identify which non-waivable public-interest pathways are protected in the local adoption context and must provide an auditable route for invoking them. The reusable pathway floor is in **CJS-5D.2**.
 
@@ -44,7 +44,7 @@
 
 **6A. Duration and reclassification review.** Apply `corpus_joint_structure.md` **CJS-5D.2** **Innovation-reward duration and reclassification controls** for the shared duration and dependency-critical reclassification floor. CI-16 supplies the local review calendar, claim-record update process, public-access mechanism, and specialist-review route.
 
-**7. Specialized review and appeal.** Institutions using this section must maintain a dedicated review lane or designated specialist panel for innovation-reward disputes, compulsory-access requests, anti-warehousing claims, and carve-out classification disputes. That lane must remain contestable, auditable, and structurally separate from claim-granting or revenue-dependent functions. It must also preserve secondary review and cross-institution escalation under **CI-6** (*Procedure integrity, contestability, and secondary review*) and **CI-8** (*Cross-institution coordination and escalation*).
+**7. Specialized review and appeal.** Institutions using this section must maintain a dedicated review lane or designated specialist panel for innovation-reward disputes, compulsory-access requests, anti-warehousing claims, and carve-out disputes. That lane must remain contestable, auditable, and structurally separate from claim-granting or revenue-dependent functions. It must also preserve secondary review and cross-institution escalation under **CI-6** (*Procedure integrity, contestability, and secondary review*) and **CI-8** (*Cross-institution coordination and escalation*).
 
 ---
 

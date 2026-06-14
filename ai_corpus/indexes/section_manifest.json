@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-06-14T12:36:29+00:00",
+  "generated_at": "2026-06-14T12:40:08+00:00",
   "files": {
     "core_00-01_principles.md": {
       "total_lines": 1506,
@@ -6115,13 +6115,13 @@
       ]
     },
     "corpus_institutions/ci_15_vulnerable_personal_services_markets_article_xc_interface.md": {
-      "total_lines": 62,
+      "total_lines": 58,
       "sections": [
         {
           "header": "CI-15: Vulnerable personal services markets — general regulation and Article X-C interface",
           "level": 2,
           "line_start": 1,
-          "line_end": 62,
+          "line_end": 58,
           "anchor": null
         }
       ]

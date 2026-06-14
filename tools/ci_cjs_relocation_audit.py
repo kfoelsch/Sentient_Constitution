@@ -261,7 +261,11 @@ def strip_cjs_pointer_sentences(text: str) -> str:
     cjs_ref_re = re.compile(r"(corpus_joint_structure\.md|CJS-\d|CJS-5[A-E]?)", flags=re.I)
     post_relocation_re = re.compile(
         r"(this subsection states the institutional|this section states the institutional|"
+        r"this section records the institutional|this subsection records the institutional|"
+        r"this section supplies (?:only )?the institutional|"
+        r"this section supplies the local|this subsection supplies the local|"
         r"CI-\d+(?:\.\d+)*\b.{0,160}states the institutional|"
+        r"CI-\d+(?:\.\d+)*\b.{0,160}supplies (?:only )?the institutional|"
         r"institutional owner duties|institution-specific|it keeps the institution-specific|"
         r"local institutional|CI-\d+(?:\.\d+)* adds the institutional|"
         r"institutional publication duty|institutional custody duty|"

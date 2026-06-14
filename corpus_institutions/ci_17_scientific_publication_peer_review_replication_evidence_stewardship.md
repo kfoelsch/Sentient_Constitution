@@ -24,7 +24,7 @@
 <br>
 
 
-**Purpose and owner boundary.** This section governs the institutional custody, funding, ranking, archival, reliance, and review mechanics for scientific and scholarly claims where constitutional adoption brings those functions within scope. Constitutional meaning remains in **Sentient Constitution Chapter Ten, Article XVII-E** (*Scientific Publication, Review, and Replication Integrity*) and relevant **Chapter Five** definitions for Truth, Epistemic Integrity, Auditability, Necessity, Proportionality, and Transparency. **CI-17** (*Scientific publication, peer review, replication, and evidence stewardship*) supplies only the institutional record, evidence-package, conflict-control, reliance-gate, correction, access, incentive, and appeal mechanics needed to make those anchors operable.
+**Purpose and owner boundary.** This section governs institutional custody, funding, ranking, archival, reliance, and review mechanics for scientific and scholarly claims brought within constitutional scope. Constitutional meaning remains in **Sentient Constitution Chapter Ten, Article XVII-E** (*Scientific Publication, Review, and Replication Integrity*) and relevant **Chapter Five** definitions. **CI-17** supplies only the institutional record, evidence-package, conflict-control, reliance-gate, correction, access, incentive, and appeal mechanics needed to make those anchors operable.
 
 **Default institutional application.** Institutions must publish the publication, review, curation, funding, archival, reputation, and reliance owners they use to apply **CJS-5B.4** and must preserve any bundling justification and audit route where those functions are combined.
 
@@ -46,7 +46,7 @@
 
 **9. Specialized oversight and appeal.** Institutions using this section must maintain a dedicated review or ombuds lane for publication suppression claims, conflict complaints, retaliation against reviewers or replicators, data-access disputes, and retraction or correction contests. That lane must remain structurally separate from prestige, revenue, or ranking incentives and must preserve secondary review and cross-institution escalation under **CI-6** (*Procedure integrity, contestability, and secondary review*) and **CI-8** (*Cross-institution coordination and escalation*).
 
-**10. Technical-forum interface.** Where disputes implicate publication suppression, replication denial, correction refusal, manipulation of scientific standing, technical standards maintenance, or comparable science, engineering, medical, or knowledge-governance questions, institutions must publish the `corpus_forum.md` **CF-9** (*Technical specialist forums and specialist chambers*) consultation or referral route. Technical specialist forums remain Chapter Nine forums or designated chambers and must not displace primary-stakes routing or ordinary institution-facing enforcement assigned by Chapter Nine.
+**10. Technical-forum interface.** Where disputes implicate publication suppression, replication denial, correction refusal, manipulation of scientific standing, technical standards maintenance, or comparable science, engineering, medical, or knowledge-governance questions, institutions must publish the `corpus_forum.md` **CF-9** consultation or referral route. CF-9 support must not displace the primary-stakes route assigned by Chapter Nine.
 
 ---
 
