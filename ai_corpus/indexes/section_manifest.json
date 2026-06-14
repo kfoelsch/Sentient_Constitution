@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-06-14T07:46:49+00:00",
+  "generated_at": "2026-06-14T09:22:54+00:00",
   "files": {
     "core_00-01_principles.md": {
       "total_lines": 1506,
@@ -5843,13 +5843,13 @@
       ]
     },
     "corpus_institutions/ci_04_appointment_competency_rotation_removal.md": {
-      "total_lines": 58,
+      "total_lines": 47,
       "sections": [
         {
           "header": "CI-4: Appointment, competency, rotation, and removal",
           "level": 2,
           "line_start": 1,
-          "line_end": 58,
+          "line_end": 47,
           "anchor": null
         }
       ]
@@ -6037,13 +6037,13 @@
       ]
     },
     "corpus_institutions/ci_12_transparency_participation_accessible_pathways.md": {
-      "total_lines": 188,
+      "total_lines": 184,
       "sections": [
         {
           "header": "CI-12: Transparency, participation, and accessible pathways",
           "level": 2,
           "line_start": 1,
-          "line_end": 188,
+          "line_end": 184,
           "anchor": null
         },
         {
@@ -6064,14 +6064,14 @@
           "header": "CI-12.3: Digital self-service pathway integrity",
           "level": 3,
           "line_start": 111,
-          "line_end": 145,
+          "line_end": 141,
           "anchor": null
         },
         {
           "header": "CI-12.4: Governance disclosure schema",
           "level": 3,
-          "line_start": 146,
-          "line_end": 188,
+          "line_start": 142,
+          "line_end": 184,
           "anchor": null
         }
       ]

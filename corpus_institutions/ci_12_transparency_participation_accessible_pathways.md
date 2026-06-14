@@ -133,13 +133,9 @@ Institutions must not allow governance structure, participation design, or weigh
 
 <br>
 
-Digital self-service pathway integrity (Operational; Corpus Institutions)
+Apply `corpus_joint_structure.md` **CJS-5D.2** (*Implementation and cross-implementation interoperability, portability, and exit-integrity terms*) **Digital self-service pathway integrity** for the shared entry, management, downgrade, renewal, accessibility, and exit floor. The shared rule applies whether or not the pathway is commercial, transaction-linked, or paid.
 
-- OP-O: Apply `corpus_joint_structure.md` **CJS-5D.2** (*Implementation and cross-implementation interoperability, portability, and exit-integrity terms*) **Digital self-service pathway integrity**. The rules apply **whether or not** the pathway is **commercial**, **transaction-linked**, or **paid**. **Institutions** that impose or supervise expectations for those pathways and **operators** within supervised scope are in scope.
-
-- OP-E: Where **attestation** is required, evaluation must verify **operator-held artifacts** adequate to demonstrate satisfaction of the shared digital self-service pathway rule. Typical **cross-cutting** artifacts include **published pathway maps**, **rationale logs** for documented exceptions, **accessibility test vectors**, and **evidence** of **obligation release** or **billing cessation** as applicable.
-
-- OP-C: Institutions must ensure that supervised pathways do **not** substitute **choice architecture** for **informed consent** and do **not** materially bypass the shared entry, management, downgrade, renewal, accessibility, and exit controls. **Retention and interference flows** must also be assessed under **Trust Degradation and Misleading Reliance** together with **Coercion and Manipulation**, and **Chapter Six** where offense-linked classification applies. Where **recurring or transaction-linked charges** apply, this entry is read together with **CI-10.2** (*Recurring charges, renewals, and commercial billing integrity*), which states additional **billing-structure** requirements.
+This subsection states institutional owner duties: institutions that impose or supervise expectations for digital self-service pathways must require operator-held artifacts adequate to demonstrate satisfaction of the shared rule, including pathway maps, rationale logs for documented exceptions, accessibility test vectors, and evidence of obligation release or billing cessation where applicable. Institutional supervision must also route retention and interference flows through **Trust Degradation and Misleading Reliance**, **Coercion and Manipulation**, and **Chapter Six** where offense-linked classification applies. Where recurring or transaction-linked charges apply, this entry is read together with **CI-10.2** (*Recurring charges, renewals, and commercial billing integrity*) for additional billing-structure requirements.
 
 ---
 

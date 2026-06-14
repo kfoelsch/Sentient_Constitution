@@ -24,16 +24,9 @@
 <br>
 
 
-Institutions must maintain role criteria that are clear, relevant to impact, and accessible to qualified participants.
+Apply `corpus_joint_structure.md` **CJS-4.6** (*Class-scaled lane staffing and competency redundancy*) for the shared role-boundary, competency-redundancy, succession, and lane-staffing floor.
 
-Role assignment must not rely on arbitrary gatekeeping.
-
-Each institution must maintain:
-- qualification standards,
-- disqualification standards,
-- succession plan,
-- rotation and cooling-off rules where needed for independence,
-- removal pathway with due process.
+This section states institutional owner duties: each institution must publish role criteria, qualification and disqualification standards, succession coverage, rotation or cooling-off rules where needed for independence, and a removal pathway with due process. Role assignment must not rely on arbitrary gatekeeping.
 
 Governing bodies must run periodic performance and capability review, including whether current composition still matches institutional impact level.
 
@@ -44,11 +37,7 @@ Interpretive-body composition controls (**Article XXII** — constitutional inte
 - Members remain subject to challenge for non-disclosure, bias, capture risk, or dependency-linked influence.
 - Repeated or strategic recusal abuse is non-compliant and triggers corrective/removal review.
 
-Authorized-role and accountability-chain mechanics (**Chapter Ten**, section 5 — *Authorized Roles, Competency Development, and Contribution* / **Chapter Ten**, Article XI-D interface):
-- Role definitions must include scope, limits, decision rights, review rights, and accountability owner for each governing, stewardship, and material-operator role.
-- Accountability chains must map role authority to contest and review pathways, including escalation routes when role holders exceed scope or fail material duties.
-- Qualification/disqualification criteria, succession readiness, and capability-refresh obligations must scale with institutional impact and applicable class/tier burden.
-- Shared class-scaled lane staffing, competency redundancy, and role-boundary concentration rules are applied through `corpus_joint_structure.md` **CJS-4.6** (*Class-scaled lane staffing and competency redundancy*) with **CI-2** (*Institutional design and separation of powers*) lane ownership and `corpus_systems.md` **Chapter S2 — System Classification and Handling** and **Chapter S3 — Critical System Stewardship** class-scaling hooks.
+Authorized-role and accountability-chain mechanics (**Chapter Ten**, section 5 — *Authorized Roles, Competency Development, and Contribution* / **Chapter Ten**, Article XI-D interface) remain institution-specific where they assign local scope, limits, decision rights, review rights, accountability owners, escalation routes, qualification/disqualification criteria, succession readiness, and capability-refresh duties. Shared class-scaling stays in **CJS-4.6** with **CI-2** (*Institutional design and separation of powers*) lane ownership and `corpus_systems.md` **Chapter S2 — System Classification and Handling** and **Chapter S3 — Critical System Stewardship** class-scaling hooks.
 
 ---
 

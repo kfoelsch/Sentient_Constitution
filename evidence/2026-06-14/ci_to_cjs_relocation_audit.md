@@ -9,8 +9,8 @@ This is an editorial exposure audit. It identifies candidate passages for reloca
 ## Summary
 
 - Candidate threshold: relocation score >= 5
-- Candidates: 27
-- Confidence: high 13, medium 9, low 5
+- Candidates: 26
+- Confidence: high 13, medium 8, low 5
 
 ## Classification rules
 
@@ -159,7 +159,7 @@ Summary: **Purpose.** This section records **institutional and system design exp
 - Signals: multi-owner-routing(1), routing-read-with(2), shared-procedure(1), dependency-failure(1), forum-system-touch(4)
 - Router matches: CJS-R17 — Cross-implementation trust integrity (joint operation model); CJS-R19 — Implementation and cross-implementation integrity assurance and resilience operations; CJS-R15 — Contest-integrity monitoring (pathway integrity, not merits)
 
-Summary: Institutions with regulated or supervised scope must publish how major industries and regulatory domains under their authority are located against `corpus_systems.md` **Chapter S2** classes and **Chapter S3** stewardship tiers. Apply `corpus_joint_structure...
+Summary: Apply `corpus_joint_structure.md` **CJS-5D.1** (*Implementation and cross-implementation dependency integrity and disclosure terms*) **Domain and sector classification mapping** for the shared domain-taxonomy, criticality, split-classification, and reclassi...
 
 ### 13. CI-5.1: Integrity trigger taxonomy and cross-layer routing (control package)
 
@@ -217,7 +217,19 @@ Summary: Definition discipline is single-home: - Constitutional definition struc
 
 Summary: **Purpose.** This section states the institutional application of `corpus_joint_structure.md` **CJS-5C.1** (*Implementation and cross-implementation quorum and participatory legitimacy terms*) **Commons, cooperative, and mutual-aid pathway integrity**, whil...
 
-### 18. CI-9.4: Survival floors, voluntary exchange, and markets (Article III-A interface)
+### 18. CI-12.3: Digital self-service pathway integrity
+
+- Source: `corpus_institutions/ci_12_transparency_participation_accessible_pathways.md:111`
+- Score / confidence: 9 / medium
+- Suggested action: `replace-with-pointer`
+- Proposed CJS destination: CJS-4.4, CJS-3 / CJS-4, CJS-5D
+- Signals: joint-interface(2), routing-read-with(1), forum-system-touch(1)
+- Router matches: CJS-R17 — Cross-implementation trust integrity (joint operation model); CJS-R19 — Implementation and cross-implementation integrity assurance and resilience operations; CJS-R15 — Contest-integrity monitoring (pathway integrity, not merits)
+- Keep-in-CI cautions: billing
+
+Summary: Apply `corpus_joint_structure.md` **CJS-5D.2** (*Implementation and cross-implementation interoperability, portability, and exit-integrity terms*) **Digital self-service pathway integrity** for the shared entry, management, downgrade, renewal, accessibility...
+
+### 19. CI-9.4: Survival floors, voluntary exchange, and markets (Article III-A interface)
 
 - Source: `corpus_institutions/ci_09_classification_linked_institutional_obligations.md:252`
 - Score / confidence: 9 / medium
@@ -229,7 +241,7 @@ Summary: **Purpose.** This section states the institutional application of `corp
 
 Summary: **Purpose.** **Article III-A** (*Survival*) in `core_10-10_rights_part_*.md` states outcome obligations for essential resources, housing, and connectivity. Apply `corpus_joint_structure.md` **CJS-5A.4** (*Implementation and cross-implementation burden-of-ju...
 
-### 19. CI-9.3.2: Authority composition
+### 20. CI-9.3.2: Authority composition
 
 - Source: `corpus_institutions/ci_09_classification_linked_institutional_obligations.md:164`
 - Score / confidence: 9 / medium
@@ -240,18 +252,6 @@ Summary: **Purpose.** **Article III-A** (*Survival*) in `core_10-10_rights_part_
 - Keep-in-CI cautions: institution-specific
 
 Summary: **CJS minimum.** Delegated subunits in scope must satisfy **`corpus_joint_structure.md` CJS-4.1** (*Mandatory hybrid authority composition*). This subsection states only the institutional exception route, capture-safeguard publication duty, and external-ass...
-
-### 20. CI-4: Appointment, competency, rotation, and removal
-
-- Source: `corpus_institutions/ci_04_appointment_competency_rotation_removal.md:1`
-- Score / confidence: 9 / medium
-- Suggested action: `replace-with-pointer`
-- Proposed CJS destination: CJS-5A / CJS-4.1 / CJS-4.7, CJS-5C, CJS-3 / CJS-4
-- Signals: routing-read-with(3), shared-procedure(1), dependency-failure(1), forum-system-touch(1)
-- Router matches: CJS-R19 — Implementation and cross-implementation integrity assurance and resilience operations; CJS-R17 — Cross-implementation trust integrity (joint operation model); CJS-R18 — Class-scaled lane staffing and competency redundancy for materially binding stewardship
-- Keep-in-CI cautions: appointment, rotation, removal
-
-Summary: Institutions must maintain role criteria that are clear, relevant to impact, and accessible to qualified participants. Role assignment must not rely on arbitrary gatekeeping. Each institution must maintain: - qualification standards, - disqualification stan...
 
 ### 21. CI-13: Institutional failure, sanctions, dissolution, and accountability
 
@@ -265,19 +265,7 @@ Summary: Institutions must maintain role criteria that are clear, relevant to im
 
 Summary: Apply `corpus_joint_structure.md` **CJS-5E.5** (*Implementation and cross-implementation structural review, correction urgency, and disclosure terms*) **Realignment resistance and dissolution-review trigger floor** for the shared rule on repeated anti-const...
 
-### 22. CI-12.3: Digital self-service pathway integrity
-
-- Source: `corpus_institutions/ci_12_transparency_participation_accessible_pathways.md:111`
-- Score / confidence: 7 / medium
-- Suggested action: `replace-with-pointer`
-- Proposed CJS destination: CJS-4.4, CJS-5D, CJS-5C
-- Signals: joint-interface(2), dependency-failure(1), forum-system-touch(1)
-- Router matches: CJS-R17 — Cross-implementation trust integrity (joint operation model); CJS-R19 — Implementation and cross-implementation integrity assurance and resilience operations; CJS-R15 — Contest-integrity monitoring (pathway integrity, not merits)
-- Keep-in-CI cautions: billing
-
-Summary: Digital self-service pathway integrity (Operational; Corpus Institutions) - OP-O: Apply `corpus_joint_structure.md` **CJS-5D.2** (*Implementation and cross-implementation interoperability, portability, and exit-integrity terms*) **Digital self-service pathw...
-
-### 23. CI-25: Collective public health, epidemic response, and addiction-informed care
+### 22. CI-25: Collective public health, epidemic response, and addiction-informed care
 
 - Source: `corpus_institutions/ci_25_collective_public_health_epidemic_response_addiction_informed_care.md:1`
 - Score / confidence: 6 / low
@@ -288,7 +276,7 @@ Summary: Digital self-service pathway integrity (Operational; Corpus Institution
 
 Summary: **Purpose.** This section frames **contagion**, **environmental** **exposure**, **population**-**level** **harms**, and **addiction** as **collective**-**care** and **governance** **problems** **under** **Article I-D**, **Article III-C**, **Article VII-C**,...
 
-### 24. CI-12: Transparency, participation, and accessible pathways
+### 23. CI-12: Transparency, participation, and accessible pathways
 
 - Source: `corpus_institutions/ci_12_transparency_participation_accessible_pathways.md:1`
 - Score / confidence: 6 / low
@@ -299,7 +287,7 @@ Summary: **Purpose.** This section frames **contagion**, **environmental** **exp
 
 Summary: Institutional governance must be understandable and accessible to materially affected participants. Institutions must provide practical access to participation, review, and challenge channels, including accessibility accommodations sufficient for substantiv...
 
-### 25. CI-8: Cross-institution coordination and escalation
+### 24. CI-8: Cross-institution coordination and escalation
 
 - Source: `corpus_institutions/ci_08_cross_institution_coordination_escalation.md:1`
 - Score / confidence: 5 / low
@@ -310,7 +298,7 @@ Summary: Institutional governance must be understandable and accessible to mater
 
 Summary: Where institutions share jurisdiction, evidence custody, review responsibility, enforcement support, investigative interface, or forum-adjacent routing, they must maintain a published coordination and escalation protocol. The shared coordination, deadlock,...
 
-### 26. CI-6: Procedure integrity, contestability, and secondary review
+### 25. CI-6: Procedure integrity, contestability, and secondary review
 
 - Source: `corpus_institutions/ci_06_procedure_integrity_contestability_secondary_review.md:1`
 - Score / confidence: 5 / low
@@ -321,7 +309,7 @@ Summary: Where institutions share jurisdiction, evidence custody, review respons
 
 Summary: Procedure rules here must remain consistent with **Chapter Five** (*Procedural Fairness*, *Contestability*, *Accountability*, *Redress and Remediation*) and with `core_02-04_definition_mechanics.md` **Chapter Four** verification and traceability rules. Shar...
 
-### 27. CI-1: Scope, purpose, and legitimacy interface
+### 26. CI-1: Scope, purpose, and legitimacy interface
 
 - Source: `corpus_institutions/ci_01_scope_purpose_legitimacy_interface.md:23`
 - Score / confidence: 5 / low

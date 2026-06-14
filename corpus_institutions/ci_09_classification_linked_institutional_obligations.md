@@ -86,9 +86,9 @@ Apply `corpus_joint_structure.md` **CJS-5A.1** (*Implementation and cross-implem
 
 <br>
 
-Institutions with regulated or supervised scope must publish how major industries and regulatory domains under their authority are located against `corpus_systems.md` **Chapter S2** classes and **Chapter S3** stewardship tiers. Apply `corpus_joint_structure.md` **CJS-5D.1** (*Implementation and cross-implementation dependency integrity and disclosure terms*) **Domain and sector classification mapping** for the shared domain-taxonomy, criticality, split-classification, and reclassification floor.
+Apply `corpus_joint_structure.md` **CJS-5D.1** (*Implementation and cross-implementation dependency integrity and disclosure terms*) **Domain and sector classification mapping** for the shared domain-taxonomy, criticality, split-classification, and reclassification floor.
 
-This subsection states the institutional owner duties: the publication must identify which domains are present in governed scope, assign local owners for maintaining the map, explain any jurisdiction-specific treatment of comparable activities, and update the map when dependency criticality, cascade risk, or operational facts change. Institutions must not use local sector labels to obscure burden, evade review, or impose inconsistent regulatory treatment without a documented proportional basis.
+This subsection states the institutional owner duties: institutions with regulated or supervised scope must publish how major industries and regulatory domains under their authority are located against `corpus_systems.md` **Chapter S2** classes and **Chapter S3** stewardship tiers. The publication must identify which domains are present in governed scope, assign local owners for maintaining the map, explain any jurisdiction-specific treatment of comparable activities, and update the map when dependency criticality, cascade risk, or operational facts change. Institutions must not use local sector labels to obscure burden, evade review, or impose inconsistent regulatory treatment without a documented proportional basis.
 
 ### CI-9.3: Delegated subunits, institutional design class, and attachment discipline
 <details>
