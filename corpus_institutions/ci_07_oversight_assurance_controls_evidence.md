@@ -130,17 +130,17 @@ Institutional trigger criteria must be documented and published. They must state
 
 Apply `corpus_joint_structure.md` **CJS-5B.1** (*Implementation and cross-implementation integrity assurance and resilience operations*) for the shared contest-integrity pathway chain and the class-scaled contest-monitor independence and mandate floor; apply **CJS-5A.6** (*Implementation and cross-implementation procedural integrity and adjudication terms*) for procedural read-with terms. **CI-7.3** states only the institutional monitor designation, local appointment/conflict routing, record-access, three-lines attestation, output, security-power emphasis, and forum-boundary duties.
 
-**Institutional application.** For covered **Class A** or **Class B** supervised scope, institutions must provide monitoring through the independent assurance line or an equivalent documented arrangement. Monitoring covers institutional decisions, contest pathways, procedure maps, records, and protected escalation paths within the institution's mandate. **CI-4** (*Appointment, competency, rotation, and removal*) and **CI-5** (*Conflict integrity, anti-capture, and anti-corruption*) govern institutional appointments, conflicts, and recusal; **CI-6**, **CI-8**, **CI-12**, **`INST-PROTO-11`**, **`INST-PROTO-12`**, and **`INST-PROTO-24`** govern the local route, record, escalation, and attestation interfaces.
+**Institutional application.** For covered **Class A** or **Class B** supervised scope, institutions must assign the local monitor through the independent assurance line or an equivalent documented arrangement. The local file must name the covered decisions, contest-pathway records, protected escalation paths, and attestation artifacts within the institution's mandate. **CI-4** (*Appointment, competency, rotation, and removal*) and **CI-5** (*Conflict integrity, anti-capture, and anti-corruption*) govern institutional appointments, conflicts, and recusal; **CI-6**, **CI-8**, **CI-12**, **`INST-PROTO-11`**, **`INST-PROTO-12`**, and **`INST-PROTO-24`** govern the local route, record, escalation, and attestation interfaces.
 
 Institutions must designate one or more **contest-integrity monitors** (titles may include inspector, ombud, or equivalent). The local mandate must identify the institutional role, appointing authority, record access, three-lines attestation interface, and any institution-specific exclusions or escalation duties not already supplied by **CJS-5B.1**.
 
 **Outputs.** Findings must be **auditable**; **material** contest-integrity failures must feed **remediation** and may invoke **`INST-PROTO-17`**.
 
-**Article XIII-A monitoring emphasis.** Where institutions exercise or supervise covert, secrecy-constrained, intelligence-like, or politically sensitive security powers, contest-integrity monitoring must test whether required lawful pathways function in practice and must keep records sufficient for **CJS-5B.1** review without restating the underlying Article XIII-A rule set.
+**Article XIII-A local file.** Where institutions exercise or supervise covert, secrecy-constrained, intelligence-like, or politically sensitive security powers, the monitor file must preserve pathway-use evidence and exception records sufficient for **CJS-5B.1** review without restating the underlying Article XIII-A rule set.
 
 **Forum forensic-support boundary.** Institutions that operate, host, fund, or materially support Chapter Nine forum families must satisfy `corpus_forum.md` **CF-7** (*Forum forensic and analytical support*) in full. Contest-integrity monitoring under this subsection remains structural and must not become case-specific forensic support, merits adjudication, or a substitute for the forum record.
 
-Where forum routing or backup activation is implicated, contest-integrity functions preserve institutional records for the assigned forum path without displacing the merits forum.
+Where forum routing or backup activation is implicated, the institutional file preserves transfer records for the assigned path without displacing the merits forum.
 
 ---
 

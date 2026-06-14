@@ -23,10 +23,10 @@ This is an editorial exposure audit. It identifies candidate passages for reloca
 ### 1. CI-17: Scientific publication, peer review, replication, and evidence stewardship
 
 - Source: `corpus_institutions/ci_17_scientific_publication_peer_review_replication_evidence_stewardship.md:1`
-- Score / confidence: 19 / high
+- Score / confidence: 18 / high
 - Suggested action: `split-CI-and-CJS`
 - Proposed CJS destination: CJS-5B, CJS-5E, CJS-3 / CJS-4
-- Signals: joint-interface(1), multi-owner-routing(1), routing-read-with(2), cjs-cluster(1), shared-procedure(3), forum-system-touch(3)
+- Signals: joint-interface(1), multi-owner-routing(1), routing-read-with(2), cjs-cluster(1), shared-procedure(3), forum-system-touch(2)
 - Router matches: CJS-R19 — Implementation and cross-implementation integrity assurance and resilience operations; CJS-R17 — Cross-implementation trust integrity (joint operation model); CJS-R16 — Cross-institution coordination, deadlock, and escalation
 
 Summary: **Purpose and owner boundary.** This section governs institutional custody, funding, ranking, archival, reliance, and review mechanics for scientific and scholarly claims brought within constitutional scope. Constitutional meaning remains in **Sentient Cons...
@@ -34,10 +34,10 @@ Summary: **Purpose and owner boundary.** This section governs institutional cust
 ### 2. CI-7.3: Contest-integrity monitoring (Class A and Class B)
 
 - Source: `corpus_institutions/ci_07_oversight_assurance_controls_evidence.md:106`
-- Score / confidence: 19 / high
+- Score / confidence: 18 / high
 - Suggested action: `split-CI-and-CJS`
-- Proposed CJS destination: CJS-5B, CJS-4.4, CJS-3 / CJS-4
-- Signals: multi-owner-routing(1), routing-read-with(3), cjs-cluster(1), shared-procedure(2), dependency-failure(1), forum-system-touch(9)
+- Proposed CJS destination: CJS-5B, CJS-3 / CJS-4, CJS-4.4
+- Signals: multi-owner-routing(1), routing-read-with(3), cjs-cluster(1), shared-procedure(1), dependency-failure(1), forum-system-touch(8)
 - Router matches: CJS-R19 — Implementation and cross-implementation integrity assurance and resilience operations; CJS-R17 — Cross-implementation trust integrity (joint operation model); CJS-R15 — Contest-integrity monitoring (pathway integrity, not merits)
 - Keep-in-CI cautions: appointment, rotation, removal
 

@@ -5,7 +5,7 @@
     "title": "Scientific publication, peer review, replication, and evidence stewardship",
     "start_line": 1,
     "end_line": 56,
-    "score": 19,
+    "score": 18,
     "confidence": "high",
     "action": "split-CI-and-CJS",
     "destinations": [
@@ -19,7 +19,7 @@
       "routing-read-with(2)",
       "cjs-cluster(1)",
       "shared-procedure(3)",
-      "forum-system-touch(3)"
+      "forum-system-touch(2)"
     ],
     "router_rows": [
       "CJS-R19 \u2014 Implementation and cross-implementation integrity assurance and resilience operations",
@@ -36,21 +36,21 @@
     "title": "Contest-integrity monitoring (Class A and Class B)",
     "start_line": 106,
     "end_line": 150,
-    "score": 19,
+    "score": 18,
     "confidence": "high",
     "action": "split-CI-and-CJS",
     "destinations": [
       "CJS-5B",
-      "CJS-4.4",
-      "CJS-3 / CJS-4"
+      "CJS-3 / CJS-4",
+      "CJS-4.4"
     ],
     "signals": [
       "multi-owner-routing(1)",
       "routing-read-with(3)",
       "cjs-cluster(1)",
-      "shared-procedure(2)",
+      "shared-procedure(1)",
       "dependency-failure(1)",
-      "forum-system-touch(9)"
+      "forum-system-touch(8)"
     ],
     "router_rows": [
       "CJS-R19 \u2014 Implementation and cross-implementation integrity assurance and resilience operations",
