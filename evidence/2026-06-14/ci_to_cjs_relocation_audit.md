@@ -48,9 +48,9 @@ Summary: Apply `corpus_joint_structure.md` **CJS-5B.1** (*Implementation and cro
 - Source: `corpus_institutions/ci_20_care_labor_dependent_support_respite_care_economy_fairness.md:1`
 - Score / confidence: 16 / high
 - Suggested action: `split-CI-and-CJS`
-- Proposed CJS destination: CJS-3 / CJS-4, CJS-5D, CJS-5C
+- Proposed CJS destination: CJS-5B, CJS-3 / CJS-4, CJS-5D
 - Signals: routing-read-with(3), cjs-cluster(3), dependency-failure(1)
-- Router matches: CJS-R19 — Implementation and cross-implementation integrity assurance and resilience operations; CJS-R17 — Cross-implementation trust integrity (joint operation model); CJS-R18 — Class-scaled lane staffing and competency redundancy for materially binding stewardship
+- Router matches: CJS-R19 — Implementation and cross-implementation integrity assurance and resilience operations; CJS-R17 — Cross-implementation trust integrity (joint operation model); CJS-R15 — Contest-integrity monitoring (pathway integrity, not merits)
 
 Summary: **Purpose and owner boundary.** This section states the institutional application of `corpus_joint_structure.md` **CJS-5D.1** (*Care, respite, and support-dependency adequacy*). It restates no **Article VII-D** rights and does not relocate fiscal, labor, or...
 
@@ -59,10 +59,9 @@ Summary: **Purpose and owner boundary.** This section states the institutional a
 - Source: `corpus_institutions/ci_15_vulnerable_personal_services_markets_article_xc_interface.md:1`
 - Score / confidence: 16 / high
 - Suggested action: `split-CI-and-CJS`
-- Proposed CJS destination: CJS-5B, CJS-5C, CJS-4.4
-- Signals: routing-read-with(1), cjs-cluster(3), shared-procedure(3), dependency-failure(1), forum-system-touch(1)
+- Proposed CJS destination: CJS-5B, CJS-4.4, CJS-5C
+- Signals: routing-read-with(2), cjs-cluster(3), shared-procedure(1), dependency-failure(1), forum-system-touch(1)
 - Router matches: CJS-R17 — Cross-implementation trust integrity (joint operation model); CJS-R19 — Implementation and cross-implementation integrity assurance and resilience operations; CJS-R15 — Contest-integrity monitoring (pathway integrity, not merits)
-- Keep-in-CI cautions: fees
 
 Summary: **Purpose.** This section records the institutional application of **Chapter Ten**, **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*) for local authorization, enforcement separation, transition records, and remedy routi...
 

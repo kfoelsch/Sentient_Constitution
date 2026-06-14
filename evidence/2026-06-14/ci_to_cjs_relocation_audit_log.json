@@ -75,9 +75,9 @@
     "confidence": "high",
     "action": "split-CI-and-CJS",
     "destinations": [
+      "CJS-5B",
       "CJS-3 / CJS-4",
-      "CJS-5D",
-      "CJS-5C"
+      "CJS-5D"
     ],
     "signals": [
       "routing-read-with(3)",
@@ -87,7 +87,7 @@
     "router_rows": [
       "CJS-R19 \u2014 Implementation and cross-implementation integrity assurance and resilience operations",
       "CJS-R17 \u2014 Cross-implementation trust integrity (joint operation model)",
-      "CJS-R18 \u2014 Class-scaled lane staffing and competency redundancy for materially binding stewardship"
+      "CJS-R15 \u2014 Contest-integrity monitoring (pathway integrity, not merits)"
     ],
     "similar_cjs": [],
     "keep_notes": [],
@@ -104,13 +104,13 @@
     "action": "split-CI-and-CJS",
     "destinations": [
       "CJS-5B",
-      "CJS-5C",
-      "CJS-4.4"
+      "CJS-4.4",
+      "CJS-5C"
     ],
     "signals": [
-      "routing-read-with(1)",
+      "routing-read-with(2)",
       "cjs-cluster(3)",
-      "shared-procedure(3)",
+      "shared-procedure(1)",
       "dependency-failure(1)",
       "forum-system-touch(1)"
     ],
@@ -120,9 +120,7 @@
       "CJS-R15 \u2014 Contest-integrity monitoring (pathway integrity, not merits)"
     ],
     "similar_cjs": [],
-    "keep_notes": [
-      "fees"
-    ],
+    "keep_notes": [],
     "summary": "**Purpose.** This section records the institutional application of **Chapter Ten**, **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*) for local authorization, enforcement separation, transition records, and remedy routi..."
   },
   {

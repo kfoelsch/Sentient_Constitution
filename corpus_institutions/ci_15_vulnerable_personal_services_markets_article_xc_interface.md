@@ -32,9 +32,9 @@
 
 **Default local frame.** Article X-C instruments must name the lawful-service regulatory family used, any documented differentiation from comparable lawful activity, and the local office responsible for the **CJS-5D.2** application record.
 
-**1. Criminal decriminalization and non-penal instruments.** Local Article X-C instruments must distinguish decriminalized protected conduct from civil, administrative, licensing, commercial, exploitation, consent-defect, fraud, privacy, harassment, and unfair-term routes that remain available. They must publish the predicate used for any non-penal restriction and the office responsible for checking that fines, fees, zoning, licensing, or comparable tools do not function as a prohibited substitute criminalization.
+**1. Criminal decriminalization and non-penal instruments.** Local Article X-C instruments must distinguish decriminalized protected conduct from the civil, administrative, licensing, commercial, exploitation, consent-defect, fraud, privacy, harassment, and unfair-term paths that remain available. They must publish the predicate, responsible office, and local file for any non-penal restriction.
 
-**2. Coercion, fraud, and invalid consent in paid exchange.** Institutions must preserve enforceable routes for **coercion**, **material deceit**, **abuse of dependence**, **incapacity**, and **non-consensual** acts without turning those routes into sector-wide prohibition. This section supplies the local Article X-C routing and enforcement separation for the **CJS-5D.2** high-vulnerability pathway floor.
+**2. Coercion, fraud, and invalid consent in paid exchange.** Institutions must publish the local intake, case-file, support, and remedy paths for **coercion**, **material deceit**, **abuse of dependence**, **incapacity**, and **non-consensual** acts. This section supplies the local Article X-C routing and enforcement separation for the **CJS-5D.2** high-vulnerability pathway floor.
 
 **3. Risk-tiered due care.** Institutions must keep the local due-care record for applying **CJS-5D.2**: documented risk basis, any class/tier treatment where intermediaries are material, and the challenge route for disproportional, stereotype-based, or morality-based differentiation.
 
@@ -42,11 +42,11 @@
 
 **5. Intermediaries and supervised dependencies.** **Matching**, **scheduling**, **payments**, **reputation**, and **visibility** intermediaries with **material** dependency or **info-sphere** effects must have a local owner, class/tier treatment where applicable, and assurance route for applying **CJS-5D.2**.
 
-**6. Separation of lanes and anti-pretext audit.** Institutions must publish the local separation map for Article X-C policy, training, metrics, enforcement, exploitation response, and survivor-accessible reporting. The audit record must show how the instrument prevents both anti-X-C pretext against lawful participants and decriminalization-based neglect of exploitation, trafficking, coercion, child sexual exploitation, and non-consensual conduct.
+**6. Separation of lanes and anti-pretext check.** Institutions must publish the local separation map for Article X-C policy, training, metrics, enforcement, exploitation response, and survivor-accessible reporting. The local file must identify the office responsible for checking anti-X-C pretext against lawful participants and decriminalization-based neglect of exploitation, trafficking, coercion, child sexual exploitation, and non-consensual conduct.
 
 **7. Workplace parity, housing, licensing, and transition.** Where the **decriminalization floor** applies, the local Article X-C instrument must publish the labor-safety, retaliation, housing, licensing, and anti-discrimination routes used to apply **CJS-5D.2**. Institutional contest and access routes remain in **CI-6** (*Procedure integrity, contestability, and secondary review*) and **CI-12** (*Transparency, participation, and accessible pathways*).
 
-Institutions should publish **phased** **transition** plans that include effective dates aligned with **Article X-C**, default **expungement, sealing, or non-disclosure** for records predominantly tied to conduct no longer criminal, retraining against repealed norms, and ongoing-case relief review where consistent with law.
+Institutions should publish **phased** **transition** plans that include effective dates aligned with **Article X-C**, the local record-relief owner for conduct no longer criminal, retraining against repealed norms, and ongoing-case relief review where consistent with law.
 
 **Scaling.** **High-impact** regulatory scope requires **stronger** publication, **contest**, and **independent review** than **localized** scope, consistent with **CI-9** (*Classification-linked institutional obligations*) proportionality themes.
 

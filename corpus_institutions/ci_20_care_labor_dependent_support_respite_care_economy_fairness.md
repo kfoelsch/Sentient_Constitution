@@ -26,13 +26,13 @@
 
 **Purpose and owner boundary.** This section states the institutional application of `corpus_joint_structure.md` **CJS-5D.1** (*Care, respite, and support-dependency adequacy*). It restates no **Article VII-D** rights and does not relocate fiscal, labor, or service-program design out of CI. Institutional routing remains here, read with **CI-9.4**, **CI-10**, **Protocol S5**, and **Article III-D**.
 
-**1. Respite and substitution.** Institutions must fund, operate, or supervise respite and substitution pathways proportionate to their role when **CJS-5D.1** applies. Eligibility mazes that abandon households in crisis are presumptively non-compliant with **Proportionality** and **Necessity**.
+**1. Respite and substitution.** Institutions must publish the respite and substitution pathway they fund, operate, or supervise when **CJS-5D.1** applies. The local record must identify the responsible office, eligibility path, crisis-coverage route, appeal contact, and review cadence for household-abandonment risk.
 
-**2. Unpaid care recognition.** **CI-12.4** governance disclosures must surface unpaid care load, dependency concentration, and support substitutability as review inputs when **CJS-5D.1** is implicated.
+**2. Unpaid care recognition.** **CI-12.4** governance disclosures must name the local metrics used to surface unpaid care load, dependency concentration, and support substitutability as review inputs when **CJS-5D.1** is implicated.
 
-**3. Coercion and exploitation guards.** Policies must mitigate coercive family dependence, carer exploitation, and warehousing incentives; read with **CI-21** and **Article X-C** / **CI-15** where markets touch intimate labor.
+**3. Coercion and exploitation guards.** Institutions must assign the local intake, evidence-custody, and escalation route for coercive family dependence, carer exploitation, and warehousing incentives; read with **CI-21** and **Article X-C** / **CI-15** where markets touch intimate labor.
 
-**4. Reproductive and embodiment justice (implementation routing).** **Article VII-A**, **VII-C**, and **VII-D** remain the rights-floor owners. CI-20 applies **CJS-5D.1** through institutional metrics and labor pathways so reproductive labor and care work are not treated as economically invisible default obligations.
+**4. Reproductive and embodiment justice (implementation routing).** **Article VII-A**, **VII-C**, and **VII-D** remain the rights-floor owners. CI-20 applies **CJS-5D.1** through local metrics, budget records, service pathways, and labor-route publication for reproductive labor and care work.
 
 ---
 
