@@ -25,8 +25,8 @@ This is an editorial exposure audit. It identifies candidate passages for reloca
 - Source: `corpus_institutions/ci_15_vulnerable_personal_services_markets_article_xc_interface.md:1`
 - Score / confidence: 24 / high
 - Suggested action: `split-CI-and-CJS`
-- Proposed CJS destination: CJS-5B, CJS-5D, CJS-5C
-- Signals: multi-owner-routing(2), routing-read-with(3), cjs-cluster(1), shared-procedure(3), dependency-failure(2), forum-system-touch(11)
+- Proposed CJS destination: CJS-5B, CJS-5C, CJS-4.4
+- Signals: multi-owner-routing(2), routing-read-with(2), cjs-cluster(2), shared-procedure(3), dependency-failure(1), forum-system-touch(9)
 - Router matches: CJS-R17 — Cross-implementation trust integrity (joint operation model); CJS-R19 — Implementation and cross-implementation integrity assurance and resilience operations; CJS-R15 — Contest-integrity monitoring (pathway integrity, not merits)
 - Keep-in-CI cautions: fees
 
@@ -38,7 +38,7 @@ Summary: **Purpose.** This section records the institutional application of **Ch
 - Score / confidence: 23 / high
 - Suggested action: `split-CI-and-CJS`
 - Proposed CJS destination: CJS-5B, CJS-5E, CJS-3 / CJS-4
-- Signals: joint-interface(1), multi-owner-routing(1), routing-read-with(3), cjs-cluster(1), shared-procedure(5), forum-system-touch(7)
+- Signals: joint-interface(1), multi-owner-routing(1), routing-read-with(3), cjs-cluster(1), shared-procedure(4), forum-system-touch(7)
 - Router matches: CJS-R19 — Implementation and cross-implementation integrity assurance and resilience operations; CJS-R17 — Cross-implementation trust integrity (joint operation model); CJS-R16 — Cross-institution coordination, deadlock, and escalation
 
 Summary: **Purpose and owner boundary.** This section governs the institutional custody, funding, ranking, archival, reliance, and review mechanics for scientific and scholarly claims where constitutional adoption brings those functions within scope. Constitutional...
@@ -46,11 +46,11 @@ Summary: **Purpose and owner boundary.** This section governs the institutional 
 ### 3. CI-16: Innovation reward, disclosure, and anti-enclosure
 
 - Source: `corpus_institutions/ci_16_innovation_reward_disclosure_anti_enclosure.md:1`
-- Score / confidence: 23 / high
+- Score / confidence: 19 / high
 - Suggested action: `split-CI-and-CJS`
-- Proposed CJS destination: CJS-5B, CJS-3 / CJS-4, CJS-5C
-- Signals: joint-interface(2), routing-read-with(3), cjs-cluster(1), shared-procedure(4), dependency-failure(1), forum-system-touch(3)
-- Router matches: CJS-R19 — Implementation and cross-implementation integrity assurance and resilience operations; CJS-R17 — Cross-implementation trust integrity (joint operation model); CJS-R15 — Contest-integrity monitoring (pathway integrity, not merits)
+- Proposed CJS destination: CJS-5B, CJS-5A / CJS-4.1 / CJS-4.7, CJS-3 / CJS-4
+- Signals: routing-read-with(4), cjs-cluster(1), shared-procedure(5), forum-system-touch(5)
+- Router matches: CJS-R19 — Implementation and cross-implementation integrity assurance and resilience operations; CJS-R17 — Cross-implementation trust integrity (joint operation model); CJS-R18 — Class-scaled lane staffing and competency redundancy for materially binding stewardship
 - Keep-in-CI cautions: local procedure
 
 Summary: **Purpose and owner boundary.** This section governs institutional handling of innovation-reward systems where constitutional adoption brings them within scope. Constitutional meaning remains in **Chapter Five** (*Innovation Reward and Anti-Enclosure*) and...

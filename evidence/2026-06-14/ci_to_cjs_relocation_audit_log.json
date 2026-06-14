@@ -10,16 +10,16 @@
     "action": "split-CI-and-CJS",
     "destinations": [
       "CJS-5B",
-      "CJS-5D",
-      "CJS-5C"
+      "CJS-5C",
+      "CJS-4.4"
     ],
     "signals": [
       "multi-owner-routing(2)",
-      "routing-read-with(3)",
-      "cjs-cluster(1)",
+      "routing-read-with(2)",
+      "cjs-cluster(2)",
       "shared-procedure(3)",
-      "dependency-failure(2)",
-      "forum-system-touch(11)"
+      "dependency-failure(1)",
+      "forum-system-touch(9)"
     ],
     "router_rows": [
       "CJS-R17 \u2014 Cross-implementation trust integrity (joint operation model)",
@@ -51,7 +51,7 @@
       "multi-owner-routing(1)",
       "routing-read-with(3)",
       "cjs-cluster(1)",
-      "shared-procedure(5)",
+      "shared-procedure(4)",
       "forum-system-touch(7)"
     ],
     "router_rows": [
@@ -69,26 +69,24 @@
     "title": "Innovation reward, disclosure, and anti-enclosure",
     "start_line": 1,
     "end_line": 54,
-    "score": 23,
+    "score": 19,
     "confidence": "high",
     "action": "split-CI-and-CJS",
     "destinations": [
       "CJS-5B",
-      "CJS-3 / CJS-4",
-      "CJS-5C"
+      "CJS-5A / CJS-4.1 / CJS-4.7",
+      "CJS-3 / CJS-4"
     ],
     "signals": [
-      "joint-interface(2)",
-      "routing-read-with(3)",
+      "routing-read-with(4)",
       "cjs-cluster(1)",
-      "shared-procedure(4)",
-      "dependency-failure(1)",
-      "forum-system-touch(3)"
+      "shared-procedure(5)",
+      "forum-system-touch(5)"
     ],
     "router_rows": [
       "CJS-R19 \u2014 Implementation and cross-implementation integrity assurance and resilience operations",
       "CJS-R17 \u2014 Cross-implementation trust integrity (joint operation model)",
-      "CJS-R15 \u2014 Contest-integrity monitoring (pathway integrity, not merits)"
+      "CJS-R18 \u2014 Class-scaled lane staffing and competency redundancy for materially binding stewardship"
     ],
     "similar_cjs": [],
     "keep_notes": [
