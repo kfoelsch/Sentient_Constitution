@@ -24,18 +24,7 @@
 <br>
 
 
-Institutions must maintain:
-- auditable conflict controls that cover financial, relational, and role-based conflicts.
-- anti-corruption and anti-fraud controls across prevention, detection, response, and remediation.
-
-Required controls include:
-- disclosure before material decision participation,
-- recusal where conflict is material,
-- related-party and beneficial-interest reporting,
-- pre-clearance for sensitive transactions,
-- ex post review for high-risk transactions.
-
-The shared anti-capture control stack is governed by `corpus_joint_structure.md` **CJS-5B.1** (*Implementation and cross-implementation integrity assurance and resilience operations*), especially the **Shared anti-capture control stack** entry. Under the institutional **`INST-PROTO-16`** interface, institutions remain responsible for local control maps, training and acknowledgement, sensitive-lane pre-clearance, protected intake, triage independence, evidence preservation, corrective-action records, and escalation to **CI-7.2** (*External assurance triggers*) or **CI-8** (*Cross-institution coordination and escalation*) where local independence is not credible.
+Apply `corpus_joint_structure.md` **CJS-5B.1** (*Implementation and cross-implementation integrity assurance and resilience operations*) **Shared anti-capture control stack** for the shared conflict, corruption, fraud, self-dealing, procurement-capture, assurance-capture, concealment, protected-intake, evidence-custody, and response floor. **CI-5** states only the institutional application: local control maps, required disclosure/pre-clearance/recusal categories, training and acknowledgement, sensitive-lane pre-clearance, protected intake, triage independence, evidence preservation, corrective-action records, and escalation to **CI-7.2** (*External assurance triggers*) or **CI-8** (*Cross-institution coordination and escalation*) where local independence is not credible.
 
 Institution-specific disclosure, cure, and consequence rules:
 - institutions must publish which interests, transactions, gifts, outside roles, or beneficial stakes require disclosure or pre-clearance;

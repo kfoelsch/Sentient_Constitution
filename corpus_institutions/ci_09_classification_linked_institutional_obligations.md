@@ -115,15 +115,13 @@ This subsection states the institutional owner duties: institutions with regulat
 
 <br>
 
-**Purpose.** This subsection applies the shared delegated-body abstractions in `corpus_joint_structure.md` **CJS-4.1** (*Mandatory hybrid authority composition (delegated binding bodies)*) and **CJS-4.7** (*Shared procedural abstractions for delegated bodies and forum routing*) to institutional subunits. It keeps the institution-specific design class, applicability, identification, authority-composition, rotating-attachment, and home-based term rules in **CI-9.3** through **CI-9.3.4**.
-
-Forum-family, routing, appeals, and specialist chamber detail remains in `corpus_forum.md` **CF-2** and related **CF** sections. Where institutional and forum obligations overlap, apply **CJS-2** (*Implementation integration map*).
+**Purpose and owner boundary.** Apply `corpus_joint_structure.md` **CJS-4.1** (*Mandatory hybrid authority composition (delegated binding bodies)*) and **CJS-4.7** (*Shared procedural abstractions for delegated bodies and forum routing*) for shared delegated-body abstractions. **CI-9.3** through **CI-9.3.4** state only the institutional design-class, applicability, identification, authority-composition exception, rotating-attachment, and home-based term application for institutional subunits. Forum-family chamber, routing, appeal, and specialist detail remains in the applicable **CF** sections.
 
 **Institutional design class (this subsection only).** Use the **highest** `corpus_systems.md` **Chapter S2 — System Classification and Handling** class among systems in the institution's **published governed scope** (including maps under **CI-9.2** (*Published industry and domain mapping*)). Only **Class A**, **Class B**, and **Class C** are in range for the default scaling below.
 
 **Forum floor.** For institutional design class under this subsection, Chapter Nine forum bodies are treated as at least **Class C**.
 
-**Delegated subunit** uses the CI-specific application of **CJS-4.7** (*Shared procedural abstractions for delegated bodies and forum routing*). This section supplies the institutional design-class and attachment rules for that shared abstraction.
+**Delegated subunit** is used here only for the CI-specific application of **CJS-4.7**. This section supplies the institutional design-class and attachment rules for that shared abstraction.
 
 **Applicability.**
 - Where institutional design class is **Class C**, **Class B**, or **Class A**, each **delegated subunit** with materially binding authority must satisfy **CI-9.3.1** (*Identification and competence*). Each such subunit must satisfy **CI-9.3.2** (hybrid composition joint minimum in **`corpus_joint_structure.md` CJS-4.1** (*Mandatory hybrid authority composition (delegated binding bodies)*) plus **CI-9.3.2** (*Authority composition*) institution-specific rules), **CI-9.3.3** (rotating attachment bounds for the rotating pole), and **CI-9.3.4** (home-based term and renewal rules for the home-based pole).

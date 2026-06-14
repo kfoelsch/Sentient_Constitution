@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-06-14T09:22:54+00:00",
+  "generated_at": "2026-06-14T09:59:03+00:00",
   "files": {
     "core_00-01_principles.md": {
       "total_lines": 1506,
@@ -5855,20 +5855,20 @@
       ]
     },
     "corpus_institutions/ci_05_conflict_integrity_anti_capture_anti_corruption.md": {
-      "total_lines": 103,
+      "total_lines": 92,
       "sections": [
         {
           "header": "CI-5: Conflict integrity, anti-capture, and anti-corruption",
           "level": 2,
           "line_start": 1,
-          "line_end": 103,
+          "line_end": 92,
           "anchor": null
         },
         {
           "header": "CI-5.1: Integrity trigger taxonomy and cross-layer routing (control package)",
           "level": 3,
-          "line_start": 57,
-          "line_end": 103,
+          "line_start": 46,
+          "line_end": 92,
           "anchor": null
         }
       ]
@@ -5886,13 +5886,13 @@
       ]
     },
     "corpus_institutions/ci_07_oversight_assurance_controls_evidence.md": {
-      "total_lines": 152,
+      "total_lines": 150,
       "sections": [
         {
           "header": "CI-7: Oversight, assurance, controls, and evidence",
           "level": 2,
           "line_start": 1,
-          "line_end": 152,
+          "line_end": 150,
           "anchor": null
         },
         {
@@ -5913,7 +5913,7 @@
           "header": "CI-7.3: Contest-integrity monitoring (Class A and Class B)",
           "level": 3,
           "line_start": 106,
-          "line_end": 152,
+          "line_end": 150,
           "anchor": null
         }
       ]
@@ -5931,13 +5931,13 @@
       ]
     },
     "corpus_institutions/ci_09_classification_linked_institutional_obligations.md": {
-      "total_lines": 286,
+      "total_lines": 284,
       "sections": [
         {
           "header": "CI-9: Classification-linked institutional obligations",
           "level": 2,
           "line_start": 1,
-          "line_end": 286,
+          "line_end": 284,
           "anchor": null
         },
         {
@@ -5958,42 +5958,42 @@
           "header": "CI-9.3: Delegated subunits, institutional design class, and attachment discipline",
           "level": 3,
           "line_start": 93,
-          "line_end": 131,
+          "line_end": 129,
           "anchor": null
         },
         {
           "header": "CI-9.3.1: Identification and competence",
           "level": 3,
-          "line_start": 132,
-          "line_end": 163,
+          "line_start": 130,
+          "line_end": 161,
           "anchor": null
         },
         {
           "header": "CI-9.3.2: Authority composition",
           "level": 3,
-          "line_start": 164,
-          "line_end": 192,
+          "line_start": 162,
+          "line_end": 190,
           "anchor": null
         },
         {
           "header": "CI-9.3.3: Rotating authority: attachment bounds",
           "level": 3,
-          "line_start": 193,
-          "line_end": 224,
+          "line_start": 191,
+          "line_end": 222,
           "anchor": null
         },
         {
           "header": "CI-9.3.4: Home-based authority: term and renewal",
           "level": 3,
-          "line_start": 225,
-          "line_end": 251,
+          "line_start": 223,
+          "line_end": 249,
           "anchor": null
         },
         {
           "header": "CI-9.4: Survival floors, voluntary exchange, and markets (Article III-A interface)",
           "level": 3,
-          "line_start": 252,
-          "line_end": 286,
+          "line_start": 250,
+          "line_end": 284,
           "anchor": null
         }
       ]

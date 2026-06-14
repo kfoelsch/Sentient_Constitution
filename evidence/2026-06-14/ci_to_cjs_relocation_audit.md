@@ -10,7 +10,7 @@ This is an editorial exposure audit. It identifies candidate passages for reloca
 
 - Candidate threshold: relocation score >= 5
 - Candidates: 26
-- Confidence: high 13, medium 8, low 5
+- Confidence: high 12, medium 9, low 5
 
 ## Classification rules
 
@@ -55,33 +55,7 @@ Summary: **Purpose and owner boundary.** This section governs the institutional 
 
 Summary: **Purpose and owner boundary.** This section governs institutional handling of innovation-reward systems where constitutional adoption brings them within scope. Constitutional meaning remains in **Chapter Five** (*Innovation Reward and Anti-Enclosure*) and...
 
-### 4. CI-9.3: Delegated subunits, institutional design class, and attachment discipline
-
-- Source: `corpus_institutions/ci_09_classification_linked_institutional_obligations.md:93`
-- Score / confidence: 23 / high
-- Suggested action: `replace-with-pointer`
-- Proposed CJS destination: CJS-5A / CJS-4.1 / CJS-4.7, CJS-3 / CJS-4
-- Signals: joint-interface(2), multi-owner-routing(2), routing-read-with(2), shared-procedure(1), forum-system-touch(10), near-duplicate(1)
-- Router matches: CJS-R17 — Cross-implementation trust integrity (joint operation model); CJS-R19 — Implementation and cross-implementation integrity assurance and resilience operations; CJS-R15 — Contest-integrity monitoring (pathway integrity, not merits)
-
-Summary: **Purpose.** This subsection applies the shared delegated-body abstractions in `corpus_joint_structure.md` **CJS-4.1** (*Mandatory hybrid authority composition (delegated binding bodies)*) and **CJS-4.7** (*Shared procedural abstractions for delegated bodie...
-
-Near CJS matches:
-- 0.36: `corpus_joint_structure/cjs_03_joint_structural_obligations.md:163` (CJS-3.5 Classification alignment for supervised scope) — When an institution supervises systems governed by `corpus_systems.md` **Chapter S2** or **Chapter S3**, its published maps under **CI-9....
-
-### 5. CI-7.3: Contest-integrity monitoring (Class A and Class B)
-
-- Source: `corpus_institutions/ci_07_oversight_assurance_controls_evidence.md:106`
-- Score / confidence: 21 / high
-- Suggested action: `split-CI-and-CJS`
-- Proposed CJS destination: CJS-5B, CJS-4.4, CJS-3 / CJS-4
-- Signals: multi-owner-routing(1), routing-read-with(1), cjs-cluster(2), shared-procedure(4), dependency-failure(2), forum-system-touch(10)
-- Router matches: CJS-R19 — Implementation and cross-implementation integrity assurance and resilience operations; CJS-R17 — Cross-implementation trust integrity (joint operation model); CJS-R15 — Contest-integrity monitoring (pathway integrity, not merits)
-- Keep-in-CI cautions: appointment, rotation, removal
-
-Summary: For covered **Class A** or **Class B** supervised scope, institutions must provide contest-integrity monitoring through the independent assurance line or an equivalent documented arrangement. Apply `corpus_joint_structure.md` **CJS-5B.1** (*Implementation a...
-
-### 6. CI-14.1: Interface — Article XXV-D (non-compliant property, seizure, voluntary incentives)
+### 4. CI-14.1: Interface — Article XXV-D (non-compliant property, seizure, voluntary incentives)
 
 - Source: `corpus_institutions/ci_14_transitional_governance_institutional_evolution.md:34`
 - Score / confidence: 20 / high
@@ -92,7 +66,7 @@ Summary: For covered **Class A** or **Class B** supervised scope, institutions m
 
 Summary: Where transition plans address **non-compliant property or systems** under **Sentient Constitution Chapter Ten, Article XXV-D**, institutions must apply `corpus_joint_structure.md` **CJS-5B.1** (*Implementation and cross-implementation integrity assurance a...
 
-### 7. CI-10.1: Public revenue, user fees, and class-aligned burden
+### 5. CI-10.1: Public revenue, user fees, and class-aligned burden
 
 - Source: `corpus_institutions/ci_10_public_revenue_fees_recurring_charges_billing_integrity.md:29`
 - Score / confidence: 19 / high
@@ -104,7 +78,19 @@ Summary: Where transition plans address **non-compliant property or systems** un
 
 Summary: This subsection states the institutional application of the shared class-aligned revenue and access-burden floor in `corpus_joint_structure.md` **CJS-5A.4** (*Implementation and cross-implementation burden-of-justification and constraint terms*). It does **...
 
-### 8. CI-20: Care labor, dependent support, respite, and care-economy fairness
+### 6. CI-7.3: Contest-integrity monitoring (Class A and Class B)
+
+- Source: `corpus_institutions/ci_07_oversight_assurance_controls_evidence.md:106`
+- Score / confidence: 19 / high
+- Suggested action: `split-CI-and-CJS`
+- Proposed CJS destination: CJS-5B, CJS-4.4, CJS-3 / CJS-4
+- Signals: multi-owner-routing(1), routing-read-with(3), cjs-cluster(1), shared-procedure(2), dependency-failure(1), forum-system-touch(9)
+- Router matches: CJS-R19 — Implementation and cross-implementation integrity assurance and resilience operations; CJS-R17 — Cross-implementation trust integrity (joint operation model); CJS-R15 — Contest-integrity monitoring (pathway integrity, not merits)
+- Keep-in-CI cautions: appointment, rotation, removal
+
+Summary: Apply `corpus_joint_structure.md` **CJS-5B.1** (*Implementation and cross-implementation integrity assurance and resilience operations*) for the shared contest-integrity pathway chain and the class-scaled contest-monitor independence and mandate floor; appl...
+
+### 7. CI-20: Care labor, dependent support, respite, and care-economy fairness
 
 - Source: `corpus_institutions/ci_20_care_labor_dependent_support_respite_care_economy_fairness.md:1`
 - Score / confidence: 16 / high
@@ -115,7 +101,7 @@ Summary: This subsection states the institutional application of the shared clas
 
 Summary: **Purpose and owner boundary.** This section states the institutional application of the shared care, respite, and support-dependency floor in `corpus_joint_structure.md` **CJS-5D.1** (*Implementation and cross-implementation dependency integrity and disclo...
 
-### 9. CI-10.2: Recurring charges, renewals, and commercial billing integrity
+### 8. CI-10.2: Recurring charges, renewals, and commercial billing integrity
 
 - Source: `corpus_institutions/ci_10_public_revenue_fees_recurring_charges_billing_integrity.md:65`
 - Score / confidence: 15 / high
@@ -127,19 +113,21 @@ Summary: **Purpose and owner boundary.** This section states the institutional a
 
 Summary: **Purpose.** This subsection records institutional requirements for **recurring and transaction-linked charges**, including subscriptions, memberships, paid tiers, and trial-to-paid conversion, where institutions **supervise, charter, or set compliance expe...
 
-### 10. CI-5: Conflict integrity, anti-capture, and anti-corruption
+### 9. CI-9.3: Delegated subunits, institutional design class, and attachment discipline
 
-- Source: `corpus_institutions/ci_05_conflict_integrity_anti_capture_anti_corruption.md:1`
+- Source: `corpus_institutions/ci_09_classification_linked_institutional_obligations.md:93`
 - Score / confidence: 14 / high
-- Suggested action: `split-CI-and-CJS`
-- Proposed CJS destination: CJS-5B, CJS-5C, CJS-4.4
-- Signals: multi-owner-routing(1), routing-read-with(1), shared-procedure(3), dependency-failure(3), forum-system-touch(3)
-- Router matches: CJS-R19 — Implementation and cross-implementation integrity assurance and resilience operations; CJS-R17 — Cross-implementation trust integrity (joint operation model); CJS-R15 — Contest-integrity monitoring (pathway integrity, not merits)
-- Keep-in-CI cautions: institution-specific, dissolution
+- Suggested action: `replace-with-pointer`
+- Proposed CJS destination: CJS-5A / CJS-4.1 / CJS-4.7, CJS-3 / CJS-4
+- Signals: joint-interface(1), multi-owner-routing(1), routing-read-with(1), forum-system-touch(8), near-duplicate(1)
+- Router matches: CJS-R17 — Cross-implementation trust integrity (joint operation model); CJS-R01 — Delegated binding bodies and hybrid composition (non-forum institutions); CJS-R19 — Implementation and cross-implementation integrity assurance and resilience operations
 
-Summary: Institutions must maintain: - auditable conflict controls that cover financial, relational, and role-based conflicts. - anti-corruption and anti-fraud controls across prevention, detection, response, and remediation. Required controls include: - disclosure...
+Summary: **Purpose and owner boundary.** Apply `corpus_joint_structure.md` **CJS-4.1** (*Mandatory hybrid authority composition (delegated binding bodies)*) and **CJS-4.7** (*Shared procedural abstractions for delegated bodies and forum routing*) for shared delegate...
 
-### 11. CI-18: Community life, voluntary association, and non-instrumental time
+Near CJS matches:
+- 0.36: `corpus_joint_structure/cjs_03_joint_structural_obligations.md:163` (CJS-3.5 Classification alignment for supervised scope) — When an institution supervises systems governed by `corpus_systems.md` **Chapter S2** or **Chapter S3**, its published maps under **CI-9....
+
+### 10. CI-18: Community life, voluntary association, and non-instrumental time
 
 - Source: `corpus_institutions/ci_18_community_life_voluntary_association_non_instrumental_time.md:1`
 - Score / confidence: 13 / high
@@ -150,7 +138,7 @@ Summary: Institutions must maintain: - auditable conflict controls that cover fi
 
 Summary: **Purpose.** This section records **institutional and system design expectations** for **community belonging**, **cultural gathering**, **play**, **recreation**, **solitude**, and **non-productive time** that are **adjacent to** but **not exhausted by** **A...
 
-### 12. CI-9.2: Published industry and domain mapping
+### 11. CI-9.2: Published industry and domain mapping
 
 - Source: `corpus_institutions/ci_09_classification_linked_institutional_obligations.md:64`
 - Score / confidence: 13 / high
@@ -161,9 +149,9 @@ Summary: **Purpose.** This section records **institutional and system design exp
 
 Summary: Apply `corpus_joint_structure.md` **CJS-5D.1** (*Implementation and cross-implementation dependency integrity and disclosure terms*) **Domain and sector classification mapping** for the shared domain-taxonomy, criticality, split-classification, and reclassi...
 
-### 13. CI-5.1: Integrity trigger taxonomy and cross-layer routing (control package)
+### 12. CI-5.1: Integrity trigger taxonomy and cross-layer routing (control package)
 
-- Source: `corpus_institutions/ci_05_conflict_integrity_anti_capture_anti_corruption.md:57`
+- Source: `corpus_institutions/ci_05_conflict_integrity_anti_capture_anti_corruption.md:46`
 - Score / confidence: 13 / high
 - Suggested action: `split-CI-and-CJS`
 - Proposed CJS destination: CJS-5B, CJS-5C, CJS-4.4
@@ -172,7 +160,7 @@ Summary: Apply `corpus_joint_structure.md` **CJS-5D.1** (*Implementation and cro
 
 Summary: This subsection names institutional trigger categories for **CI-5** (*Conflict integrity, anti-capture, and anti-corruption*) control maps and training. Shared cross-layer routing for integrity triggers is governed by `corpus_joint_structure.md` **CJS-5B.1*...
 
-### 14. CI-9: Classification-linked institutional obligations
+### 13. CI-9: Classification-linked institutional obligations
 
 - Source: `corpus_institutions/ci_09_classification_linked_institutional_obligations.md:1`
 - Score / confidence: 11 / medium
@@ -184,7 +172,7 @@ Summary: This subsection names institutional trigger categories for **CI-5** (*C
 
 Summary: Institutional governance burden must scale with `corpus_systems.md` Chapter S2 classes and Chapter S3 stewardship tiers. Where multiple classes/tiers apply, the highest applicable burden governs for affected duties. **Constitutional floor for institutional...
 
-### 15. CI-7.1: Controls declaration
+### 14. CI-7.1: Controls declaration
 
 - Source: `corpus_institutions/ci_07_oversight_assurance_controls_evidence.md:40`
 - Score / confidence: 11 / medium
@@ -194,6 +182,18 @@ Summary: Institutional governance burden must scale with `corpus_systems.md` Cha
 - Router matches: CJS-R17 — Cross-implementation trust integrity (joint operation model); CJS-R19 — Implementation and cross-implementation integrity assurance and resilience operations; CJS-R15 — Contest-integrity monitoring (pathway integrity, not merits)
 
 Summary: At least annually, each institution must publish a declaration on whether material controls are operating effectively. If material controls fail, apply `corpus_joint_structure.md` **CJS-5B.1** (*Implementation and cross-implementation integrity assurance an...
+
+### 15. CI-5: Conflict integrity, anti-capture, and anti-corruption
+
+- Source: `corpus_institutions/ci_05_conflict_integrity_anti_capture_anti_corruption.md:1`
+- Score / confidence: 11 / medium
+- Suggested action: `split-CI-and-CJS`
+- Proposed CJS destination: CJS-5B, CJS-5C, CJS-4.4
+- Signals: multi-owner-routing(1), shared-procedure(2), dependency-failure(3), forum-system-touch(3)
+- Router matches: CJS-R19 — Implementation and cross-implementation integrity assurance and resilience operations; CJS-R17 — Cross-implementation trust integrity (joint operation model); CJS-R15 — Contest-integrity monitoring (pathway integrity, not merits)
+- Keep-in-CI cautions: institution-specific, dissolution
+
+Summary: Apply `corpus_joint_structure.md` **CJS-5B.1** (*Implementation and cross-implementation integrity assurance and resilience operations*) **Shared anti-capture control stack** for the shared conflict, corruption, fraud, self-dealing, procurement-capture, ass...
 
 ### 16. CI-1.1: Definition discipline and source hierarchy
 
@@ -231,7 +231,7 @@ Summary: Apply `corpus_joint_structure.md` **CJS-5D.2** (*Implementation and cro
 
 ### 19. CI-9.4: Survival floors, voluntary exchange, and markets (Article III-A interface)
 
-- Source: `corpus_institutions/ci_09_classification_linked_institutional_obligations.md:252`
+- Source: `corpus_institutions/ci_09_classification_linked_institutional_obligations.md:250`
 - Score / confidence: 9 / medium
 - Suggested action: `replace-with-pointer`
 - Proposed CJS destination: CJS-5B, CJS-5A / CJS-4.1 / CJS-4.7, CJS-3 / CJS-4
@@ -243,7 +243,7 @@ Summary: **Purpose.** **Article III-A** (*Survival*) in `core_10-10_rights_part_
 
 ### 20. CI-9.3.2: Authority composition
 
-- Source: `corpus_institutions/ci_09_classification_linked_institutional_obligations.md:164`
+- Source: `corpus_institutions/ci_09_classification_linked_institutional_obligations.md:162`
 - Score / confidence: 9 / medium
 - Suggested action: `replace-with-pointer`
 - Proposed CJS destination: CJS-5B, CJS-5A / CJS-4.1 / CJS-4.7, CJS-3 / CJS-4
