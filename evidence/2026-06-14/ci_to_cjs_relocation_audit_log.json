@@ -101,25 +101,25 @@
     "section_id": "CI-14.1",
     "title": "Interface \u2014 Article XXV-D (non-compliant property, seizure, voluntary incentives)",
     "start_line": 34,
-    "end_line": 73,
-    "score": 20,
+    "end_line": 64,
+    "score": 19,
     "confidence": "high",
     "action": "split-CI-and-CJS",
     "destinations": [
-      "CJS-5D",
       "CJS-3 / CJS-4",
-      "CJS-5A / CJS-4.1 / CJS-4.7"
+      "CJS-5A / CJS-4.1 / CJS-4.7",
+      "CJS-5D"
     ],
     "signals": [
       "multi-owner-routing(2)",
-      "routing-read-with(4)",
-      "shared-procedure(2)",
-      "forum-system-touch(7)"
+      "routing-read-with(6)",
+      "shared-procedure(1)",
+      "forum-system-touch(6)"
     ],
     "router_rows": [
       "CJS-R19 \u2014 Implementation and cross-implementation integrity assurance and resilience operations",
       "CJS-R17 \u2014 Cross-implementation trust integrity (joint operation model)",
-      "CJS-R18 \u2014 Class-scaled lane staffing and competency redundancy for materially binding stewardship"
+      "CJS-R15 \u2014 Contest-integrity monitoring (pathway integrity, not merits)"
     ],
     "similar_cjs": [],
     "keep_notes": [],
@@ -130,21 +130,20 @@
     "section_id": "CI-10.1",
     "title": "Public revenue, user fees, and class-aligned burden",
     "start_line": 29,
-    "end_line": 64,
+    "end_line": 59,
     "score": 19,
     "confidence": "high",
     "action": "split-CI-and-CJS",
     "destinations": [
-      "CJS-4.4",
-      "CJS-3 / CJS-4",
-      "CJS-5E"
+      "CJS-5B",
+      "CJS-5A / CJS-4.1 / CJS-4.7",
+      "CJS-3 / CJS-4"
     ],
     "signals": [
-      "joint-interface(1)",
-      "multi-owner-routing(3)",
-      "routing-read-with(1)",
+      "multi-owner-routing(2)",
+      "routing-read-with(4)",
       "shared-procedure(1)",
-      "forum-system-touch(10)"
+      "forum-system-touch(6)"
     ],
     "router_rows": [
       "CJS-R19 \u2014 Implementation and cross-implementation integrity assurance and resilience operations",
@@ -153,7 +152,6 @@
     ],
     "similar_cjs": [],
     "keep_notes": [
-      "fees",
       "billing"
     ],
     "summary": "This subsection states the institutional application of the shared class-aligned revenue and access-burden floor in `corpus_joint_structure.md` **CJS-5A.4** (*Implementation and cross-implementation burden-of-justification and constraint terms*). It does **..."
@@ -220,39 +218,6 @@
     "similar_cjs": [],
     "keep_notes": [],
     "summary": "**Purpose and owner boundary.** This section states the institutional application of `corpus_joint_structure.md` **CJS-5D.1** (*Care, respite, and support-dependency adequacy*). It restates no **Article VII-D** rights and does not relocate fiscal, labor, or..."
-  },
-  {
-    "file": "corpus_institutions/ci_10_public_revenue_fees_recurring_charges_billing_integrity.md",
-    "section_id": "CI-10.2",
-    "title": "Recurring charges, renewals, and commercial billing integrity",
-    "start_line": 65,
-    "end_line": 103,
-    "score": 15,
-    "confidence": "high",
-    "action": "split-CI-and-CJS",
-    "destinations": [
-      "CJS-4.4",
-      "CJS-5D",
-      "CJS-5C"
-    ],
-    "signals": [
-      "multi-owner-routing(2)",
-      "shared-procedure(3)",
-      "dependency-failure(2)",
-      "forum-system-touch(11)"
-    ],
-    "router_rows": [
-      "CJS-R17 \u2014 Cross-implementation trust integrity (joint operation model)",
-      "CJS-R19 \u2014 Implementation and cross-implementation integrity assurance and resilience operations",
-      "CJS-R15 \u2014 Contest-integrity monitoring (pathway integrity, not merits)"
-    ],
-    "similar_cjs": [],
-    "keep_notes": [
-      "public revenue",
-      "fees",
-      "billing"
-    ],
-    "summary": "**Purpose.** This subsection records institutional requirements for **recurring and transaction-linked charges**, including subscriptions, memberships, paid tiers, and trial-to-paid conversion, where institutions **supervise, charter, or set compliance expe..."
   },
   {
     "file": "corpus_institutions/ci_18_community_life_voluntary_association_non_instrumental_time.md",
@@ -498,6 +463,37 @@
     "similar_cjs": [],
     "keep_notes": [],
     "summary": "Definition discipline is single-home: - Constitutional definition structure, compliance-state meaning, offense classification, rights meaning, and authority-stack order remain in the numbered Sentient Constitution `core_*` files under the CJS shared preambl..."
+  },
+  {
+    "file": "corpus_institutions/ci_10_public_revenue_fees_recurring_charges_billing_integrity.md",
+    "section_id": "CI-10.2",
+    "title": "Recurring charges, renewals, and commercial billing integrity",
+    "start_line": 60,
+    "end_line": 96,
+    "score": 10,
+    "confidence": "medium",
+    "action": "split-CI-and-CJS",
+    "destinations": [
+      "CJS-5C",
+      "CJS-5B",
+      "CJS-4.4"
+    ],
+    "signals": [
+      "multi-owner-routing(1)",
+      "routing-read-with(1)",
+      "dependency-failure(1)",
+      "forum-system-touch(7)"
+    ],
+    "router_rows": [
+      "CJS-R17 \u2014 Cross-implementation trust integrity (joint operation model)",
+      "CJS-R19 \u2014 Implementation and cross-implementation integrity assurance and resilience operations",
+      "CJS-R15 \u2014 Contest-integrity monitoring (pathway integrity, not merits)"
+    ],
+    "similar_cjs": [],
+    "keep_notes": [
+      "billing"
+    ],
+    "summary": "**Purpose.** This subsection records the institutional owner duties for recurring and transaction-linked charges where institutions supervise, charter, or set compliance expectations for governed systems. Constitutional meaning remains authoritative in **Se..."
   },
   {
     "file": "corpus_institutions/ci_12_transparency_participation_accessible_pathways.md",

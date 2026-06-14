@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-06-14T11:16:55+00:00",
+  "generated_at": "2026-06-14T11:55:25+00:00",
   "files": {
     "core_00-01_principles.md": {
       "total_lines": 1506,
@@ -5999,27 +5999,27 @@
       ]
     },
     "corpus_institutions/ci_10_public_revenue_fees_recurring_charges_billing_integrity.md": {
-      "total_lines": 103,
+      "total_lines": 96,
       "sections": [
         {
           "header": "CI-10: Public revenue, fees, recurring charges, and billing integrity",
           "level": 2,
           "line_start": 1,
-          "line_end": 103,
+          "line_end": 96,
           "anchor": null
         },
         {
           "header": "CI-10.1: Public revenue, user fees, and class-aligned burden",
           "level": 3,
           "line_start": 29,
-          "line_end": 64,
+          "line_end": 59,
           "anchor": null
         },
         {
           "header": "CI-10.2: Recurring charges, renewals, and commercial billing integrity",
           "level": 3,
-          "line_start": 65,
-          "line_end": 103,
+          "line_start": 60,
+          "line_end": 96,
           "anchor": null
         }
       ]
@@ -6089,27 +6089,27 @@
       ]
     },
     "corpus_institutions/ci_14_transitional_governance_institutional_evolution.md": {
-      "total_lines": 123,
+      "total_lines": 114,
       "sections": [
         {
           "header": "CI-14: Transitional governance and institutional evolution",
           "level": 2,
           "line_start": 1,
-          "line_end": 123,
+          "line_end": 114,
           "anchor": null
         },
         {
           "header": "CI-14.1: Interface — Article XXV-D (non-compliant property, seizure, voluntary incentives)",
           "level": 3,
           "line_start": 34,
-          "line_end": 73,
+          "line_end": 64,
           "anchor": null
         },
         {
           "header": "CI-14.2: Article XXV-D — trigger catalog, anti-abuse metrics, and publication requirements",
           "level": 3,
-          "line_start": 74,
-          "line_end": 123,
+          "line_start": 65,
+          "line_end": 114,
           "anchor": null
         }
       ]
