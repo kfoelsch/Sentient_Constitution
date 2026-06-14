@@ -64,11 +64,11 @@ Institutions must maintain record and evidence custody sufficient for audit, con
 
 At least annually, each institution must publish a declaration on whether material controls are operating effectively.
 
-If material controls fail, apply `corpus_joint_structure.md` **CJS-5B.1** (*Implementation and cross-implementation integrity assurance and resilience operations*) for the shared control-failure declaration chain: failure description, impact, containment, remediation, recurrence, supporting records, and unresolved safeguard mode.
+If material controls fail, apply `corpus_joint_structure.md` **CJS-5B.1** (*Implementation and cross-implementation integrity assurance and resilience operations*) for the shared control-failure declaration chain.
 
 Institutional declarations must also identify the affected institutional lane or **`INST-PROTO-*`** family and the accountable publishing authority under the **`INST-PROTO-11`** and **`INST-PROTO-17`** interface.
 
-Institutions must not use the controls declaration as a narrative substitute for current operational reality. If a material failure remains unresolved at publication time, the declaration must say so plainly and must identify the interim constitutional safeguard **mode**.
+CI-7.1 states only the institutional publication, lane-identification, accountable-authority, and supporting-packet duties for that shared declaration chain.
 
 For supervised systems, institutions should require a supporting system-level packet proportionate to class and dependency. See `implementation/SYSTEMS_IMPLEMENTATION_TEMPLATES_2026-04-13.md` for reusable implementation templates covering system cards, model cards, post-deployment monitoring cadence, incident reporting bundles, and material control-failure disclosure packets.
 
@@ -99,7 +99,7 @@ For supervised systems, institutions should require a supporting system-level pa
 
 Independent external assurance is mandatory when trigger thresholds are met.
 
-Apply `corpus_joint_structure.md` **CJS-5B.1** (*Implementation and cross-implementation integrity assurance and resilience operations*) for the shared external assurance trigger floor: class or tier exposure, severe incident, repeated control failure, integrity failure, structural change, commissioning time, authorized invokers, engagement scope, publication expectations, unresolved exceptions, and conflicted-authority escalation.
+Apply `corpus_joint_structure.md` **CJS-5B.1** (*Implementation and cross-implementation integrity assurance and resilience operations*) for the shared external assurance trigger floor.
 
 Institutional trigger criteria must be documented and published. They must state when escalation through **CI-8** (*Cross-institution coordination and escalation*) is required because local commissioning authority is conflicted, captured, unavailable, or non-responsive.
 

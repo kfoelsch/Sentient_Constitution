@@ -24,17 +24,9 @@
 <br>
 
 
-Procedure rules here must remain consistent with **Chapter Five** (*Procedural Fairness*, *Contestability*, *Accountability*, *Redress and Remediation*) and with `core_02-04_definition_mechanics.md` **Chapter Four** verification and traceability rules. Shared procedural terms, including **representative treatment** and **common decision rule**, are read through `corpus_joint_structure.md` **CJS-4.7** (*Shared procedural abstractions for delegated bodies and forum routing*) and **CJS-5A.6** (*Implementation and cross-implementation procedural integrity and adjudication terms*). This chapter does not create a second offense-classification system.
+Procedure rules here must remain consistent with **Chapter Five** (*Procedural Fairness*, *Contestability*, *Accountability*, *Redress and Remediation*) and with `core_02-04_definition_mechanics.md` **Chapter Four** verification and traceability rules. Shared procedural terms, including **representative treatment**, **common decision rule**, due-process minimums, independent review, and proportional procedure scaling, are supplied by `corpus_joint_structure.md` **CJS-4.7** (*Shared procedural abstractions for delegated bodies and forum routing*) and **CJS-5A.6** (*Implementation and cross-implementation procedural integrity and adjudication terms*). This chapter does not create a second offense-classification system.
 
-Due-process operationalization (**Article XI-D** — internal roles, accountability, and due-process requirements — interface) must include:
-- notice,
-- timeliness proportional to harm risk and change scope,
-- understandable rationale,
-- verifiable and auditable records,
-- impartial decision structures where adjudication applies,
-- contest procedures and secondary review for materially impactful outcomes, including an independent review route for high-impact outcomes.
-
-Institutions must publish a plain-language procedure map that identifies where each due-process minimum is satisfied, who owns each step, how representative or collective procedures are invoked where available, and how affected parties can invoke challenge rights. Where an institution asks a forum or adjudicative body to expand a case beyond the original claimant, its records must identify the proposed shared question or common decision rule, the affected scope, the notice route, the contest route, and any subclassing or issue-separation need under **CJS-5A.6**.
+Institutional procedure maps must identify the local owner for each required step, the record source that shows compliance, the route for invoking challenge rights, and any institution-specific publication or secondary-review cadence. Where an institution asks a forum or adjudicative body to expand a case beyond the original claimant, the institutional record must identify the proposed shared question or common decision rule, affected scope, notice owner, contest route, and any subclassing or issue-separation need under **CJS-5A.6**.
 
 ---
 

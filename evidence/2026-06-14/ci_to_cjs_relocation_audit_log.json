@@ -1,0 +1,824 @@
+[
+  {
+    "file": "corpus_institutions/ci_15_vulnerable_personal_services_markets_article_xc_interface.md",
+    "section_id": "CI-15",
+    "title": "Vulnerable personal services markets \u2014 general regulation and Article X-C interface",
+    "start_line": 1,
+    "end_line": 62,
+    "score": 24,
+    "confidence": "high",
+    "action": "split-CI-and-CJS",
+    "destinations": [
+      "CJS-5B",
+      "CJS-5D",
+      "CJS-5C"
+    ],
+    "signals": [
+      "multi-owner-routing(2)",
+      "routing-read-with(3)",
+      "cjs-cluster(1)",
+      "shared-procedure(3)",
+      "dependency-failure(2)",
+      "forum-system-touch(11)"
+    ],
+    "router_rows": [
+      "CJS-R17 \u2014 Cross-implementation trust integrity (joint operation model)",
+      "CJS-R19 \u2014 Implementation and cross-implementation integrity assurance and resilience operations",
+      "CJS-R15 \u2014 Contest-integrity monitoring (pathway integrity, not merits)"
+    ],
+    "similar_cjs": [],
+    "keep_notes": [
+      "fees"
+    ],
+    "summary": "**Purpose.** This section records the institutional application of **Chapter Ten**, **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*) for local authorization, enforcement separation, transition records, and remedy routi..."
+  },
+  {
+    "file": "corpus_institutions/ci_17_scientific_publication_peer_review_replication_evidence_stewardship.md",
+    "section_id": "CI-17",
+    "title": "Scientific publication, peer review, replication, and evidence stewardship",
+    "start_line": 1,
+    "end_line": 56,
+    "score": 23,
+    "confidence": "high",
+    "action": "split-CI-and-CJS",
+    "destinations": [
+      "CJS-5B",
+      "CJS-5E",
+      "CJS-3 / CJS-4"
+    ],
+    "signals": [
+      "joint-interface(1)",
+      "multi-owner-routing(1)",
+      "routing-read-with(3)",
+      "cjs-cluster(1)",
+      "shared-procedure(5)",
+      "forum-system-touch(7)"
+    ],
+    "router_rows": [
+      "CJS-R19 \u2014 Implementation and cross-implementation integrity assurance and resilience operations",
+      "CJS-R17 \u2014 Cross-implementation trust integrity (joint operation model)",
+      "CJS-R16 \u2014 Cross-institution coordination, deadlock, and escalation"
+    ],
+    "similar_cjs": [],
+    "keep_notes": [],
+    "summary": "**Purpose and owner boundary.** This section governs the institutional custody, funding, ranking, archival, reliance, and review mechanics for scientific and scholarly claims where constitutional adoption brings those functions within scope. Constitutional..."
+  },
+  {
+    "file": "corpus_institutions/ci_16_innovation_reward_disclosure_anti_enclosure.md",
+    "section_id": "CI-16",
+    "title": "Innovation reward, disclosure, and anti-enclosure",
+    "start_line": 1,
+    "end_line": 54,
+    "score": 23,
+    "confidence": "high",
+    "action": "split-CI-and-CJS",
+    "destinations": [
+      "CJS-5B",
+      "CJS-3 / CJS-4",
+      "CJS-5C"
+    ],
+    "signals": [
+      "joint-interface(2)",
+      "routing-read-with(3)",
+      "cjs-cluster(1)",
+      "shared-procedure(4)",
+      "dependency-failure(1)",
+      "forum-system-touch(3)"
+    ],
+    "router_rows": [
+      "CJS-R19 \u2014 Implementation and cross-implementation integrity assurance and resilience operations",
+      "CJS-R17 \u2014 Cross-implementation trust integrity (joint operation model)",
+      "CJS-R15 \u2014 Contest-integrity monitoring (pathway integrity, not merits)"
+    ],
+    "similar_cjs": [],
+    "keep_notes": [
+      "local procedure"
+    ],
+    "summary": "**Purpose and owner boundary.** This section governs institutional handling of innovation-reward systems where constitutional adoption brings them within scope. Constitutional meaning remains in **Chapter Five** (*Innovation Reward and Anti-Enclosure*) and..."
+  },
+  {
+    "file": "corpus_institutions/ci_09_classification_linked_institutional_obligations.md",
+    "section_id": "CI-9.3",
+    "title": "Delegated subunits, institutional design class, and attachment discipline",
+    "start_line": 93,
+    "end_line": 131,
+    "score": 23,
+    "confidence": "high",
+    "action": "replace-with-pointer",
+    "destinations": [
+      "CJS-5A / CJS-4.1 / CJS-4.7",
+      "CJS-3 / CJS-4"
+    ],
+    "signals": [
+      "joint-interface(2)",
+      "multi-owner-routing(2)",
+      "routing-read-with(2)",
+      "shared-procedure(1)",
+      "forum-system-touch(10)",
+      "near-duplicate(1)"
+    ],
+    "router_rows": [
+      "CJS-R17 \u2014 Cross-implementation trust integrity (joint operation model)",
+      "CJS-R19 \u2014 Implementation and cross-implementation integrity assurance and resilience operations",
+      "CJS-R15 \u2014 Contest-integrity monitoring (pathway integrity, not merits)"
+    ],
+    "similar_cjs": [
+      {
+        "score": 0.36,
+        "file": "corpus_joint_structure/cjs_03_joint_structural_obligations.md",
+        "line": 163,
+        "heading": "CJS-3.5 Classification alignment for supervised scope",
+        "summary": "When an institution supervises systems governed by `corpus_systems.md` **Chapter S2** or **Chapter S3**, its published maps under **CI-9...."
+      }
+    ],
+    "keep_notes": [],
+    "summary": "**Purpose.** This subsection applies the shared delegated-body abstractions in `corpus_joint_structure.md` **CJS-4.1** (*Mandatory hybrid authority composition (delegated binding bodies)*) and **CJS-4.7** (*Shared procedural abstractions for delegated bodie..."
+  },
+  {
+    "file": "corpus_institutions/ci_07_oversight_assurance_controls_evidence.md",
+    "section_id": "CI-7.3",
+    "title": "Contest-integrity monitoring (Class A and Class B)",
+    "start_line": 106,
+    "end_line": 152,
+    "score": 21,
+    "confidence": "high",
+    "action": "split-CI-and-CJS",
+    "destinations": [
+      "CJS-5B",
+      "CJS-4.4",
+      "CJS-3 / CJS-4"
+    ],
+    "signals": [
+      "multi-owner-routing(1)",
+      "routing-read-with(1)",
+      "cjs-cluster(2)",
+      "shared-procedure(4)",
+      "dependency-failure(2)",
+      "forum-system-touch(10)"
+    ],
+    "router_rows": [
+      "CJS-R19 \u2014 Implementation and cross-implementation integrity assurance and resilience operations",
+      "CJS-R17 \u2014 Cross-implementation trust integrity (joint operation model)",
+      "CJS-R15 \u2014 Contest-integrity monitoring (pathway integrity, not merits)"
+    ],
+    "similar_cjs": [],
+    "keep_notes": [
+      "appointment",
+      "rotation",
+      "removal"
+    ],
+    "summary": "For covered **Class A** or **Class B** supervised scope, institutions must provide contest-integrity monitoring through the independent assurance line or an equivalent documented arrangement. Apply `corpus_joint_structure.md` **CJS-5B.1** (*Implementation a..."
+  },
+  {
+    "file": "corpus_institutions/ci_14_transitional_governance_institutional_evolution.md",
+    "section_id": "CI-14.1",
+    "title": "Interface \u2014 Article XXV-D (non-compliant property, seizure, voluntary incentives)",
+    "start_line": 34,
+    "end_line": 73,
+    "score": 20,
+    "confidence": "high",
+    "action": "split-CI-and-CJS",
+    "destinations": [
+      "CJS-5D",
+      "CJS-3 / CJS-4",
+      "CJS-5A / CJS-4.1 / CJS-4.7"
+    ],
+    "signals": [
+      "multi-owner-routing(2)",
+      "routing-read-with(4)",
+      "shared-procedure(2)",
+      "forum-system-touch(7)"
+    ],
+    "router_rows": [
+      "CJS-R19 \u2014 Implementation and cross-implementation integrity assurance and resilience operations",
+      "CJS-R17 \u2014 Cross-implementation trust integrity (joint operation model)",
+      "CJS-R18 \u2014 Class-scaled lane staffing and competency redundancy for materially binding stewardship"
+    ],
+    "similar_cjs": [],
+    "keep_notes": [],
+    "summary": "Where transition plans address **non-compliant property or systems** under **Sentient Constitution Chapter Ten, Article XXV-D**, institutions must apply `corpus_joint_structure.md` **CJS-5B.1** (*Implementation and cross-implementation integrity assurance a..."
+  },
+  {
+    "file": "corpus_institutions/ci_10_public_revenue_fees_recurring_charges_billing_integrity.md",
+    "section_id": "CI-10.1",
+    "title": "Public revenue, user fees, and class-aligned burden",
+    "start_line": 29,
+    "end_line": 64,
+    "score": 19,
+    "confidence": "high",
+    "action": "split-CI-and-CJS",
+    "destinations": [
+      "CJS-4.4",
+      "CJS-3 / CJS-4",
+      "CJS-5E"
+    ],
+    "signals": [
+      "joint-interface(1)",
+      "multi-owner-routing(3)",
+      "routing-read-with(1)",
+      "shared-procedure(1)",
+      "forum-system-touch(10)"
+    ],
+    "router_rows": [
+      "CJS-R19 \u2014 Implementation and cross-implementation integrity assurance and resilience operations",
+      "CJS-R17 \u2014 Cross-implementation trust integrity (joint operation model)",
+      "CJS-R15 \u2014 Contest-integrity monitoring (pathway integrity, not merits)"
+    ],
+    "similar_cjs": [],
+    "keep_notes": [
+      "fees",
+      "billing"
+    ],
+    "summary": "This subsection states the institutional application of the shared class-aligned revenue and access-burden floor in `corpus_joint_structure.md` **CJS-5A.4** (*Implementation and cross-implementation burden-of-justification and constraint terms*). It does **..."
+  },
+  {
+    "file": "corpus_institutions/ci_20_care_labor_dependent_support_respite_care_economy_fairness.md",
+    "section_id": "CI-20",
+    "title": "Care labor, dependent support, respite, and care-economy fairness",
+    "start_line": 1,
+    "end_line": 42,
+    "score": 16,
+    "confidence": "high",
+    "action": "split-CI-and-CJS",
+    "destinations": [
+      "CJS-3 / CJS-4",
+      "CJS-5D"
+    ],
+    "signals": [
+      "routing-read-with(4)",
+      "cjs-cluster(2)",
+      "dependency-failure(2)"
+    ],
+    "router_rows": [
+      "CJS-R19 \u2014 Implementation and cross-implementation integrity assurance and resilience operations",
+      "CJS-R17 \u2014 Cross-implementation trust integrity (joint operation model)",
+      "CJS-R15 \u2014 Contest-integrity monitoring (pathway integrity, not merits)"
+    ],
+    "similar_cjs": [],
+    "keep_notes": [],
+    "summary": "**Purpose and owner boundary.** This section states the institutional application of the shared care, respite, and support-dependency floor in `corpus_joint_structure.md` **CJS-5D.1** (*Implementation and cross-implementation dependency integrity and disclo..."
+  },
+  {
+    "file": "corpus_institutions/ci_10_public_revenue_fees_recurring_charges_billing_integrity.md",
+    "section_id": "CI-10.2",
+    "title": "Recurring charges, renewals, and commercial billing integrity",
+    "start_line": 65,
+    "end_line": 103,
+    "score": 15,
+    "confidence": "high",
+    "action": "split-CI-and-CJS",
+    "destinations": [
+      "CJS-4.4",
+      "CJS-5D",
+      "CJS-5C"
+    ],
+    "signals": [
+      "multi-owner-routing(2)",
+      "shared-procedure(3)",
+      "dependency-failure(2)",
+      "forum-system-touch(11)"
+    ],
+    "router_rows": [
+      "CJS-R17 \u2014 Cross-implementation trust integrity (joint operation model)",
+      "CJS-R19 \u2014 Implementation and cross-implementation integrity assurance and resilience operations",
+      "CJS-R15 \u2014 Contest-integrity monitoring (pathway integrity, not merits)"
+    ],
+    "similar_cjs": [],
+    "keep_notes": [
+      "public revenue",
+      "fees",
+      "billing"
+    ],
+    "summary": "**Purpose.** This subsection records institutional requirements for **recurring and transaction-linked charges**, including subscriptions, memberships, paid tiers, and trial-to-paid conversion, where institutions **supervise, charter, or set compliance expe..."
+  },
+  {
+    "file": "corpus_institutions/ci_05_conflict_integrity_anti_capture_anti_corruption.md",
+    "section_id": "CI-5",
+    "title": "Conflict integrity, anti-capture, and anti-corruption",
+    "start_line": 1,
+    "end_line": 56,
+    "score": 14,
+    "confidence": "high",
+    "action": "split-CI-and-CJS",
+    "destinations": [
+      "CJS-5B",
+      "CJS-5C",
+      "CJS-4.4"
+    ],
+    "signals": [
+      "multi-owner-routing(1)",
+      "routing-read-with(1)",
+      "shared-procedure(3)",
+      "dependency-failure(3)",
+      "forum-system-touch(3)"
+    ],
+    "router_rows": [
+      "CJS-R19 \u2014 Implementation and cross-implementation integrity assurance and resilience operations",
+      "CJS-R17 \u2014 Cross-implementation trust integrity (joint operation model)",
+      "CJS-R15 \u2014 Contest-integrity monitoring (pathway integrity, not merits)"
+    ],
+    "similar_cjs": [],
+    "keep_notes": [
+      "institution-specific",
+      "dissolution"
+    ],
+    "summary": "Institutions must maintain: - auditable conflict controls that cover financial, relational, and role-based conflicts. - anti-corruption and anti-fraud controls across prevention, detection, response, and remediation. Required controls include: - disclosure..."
+  },
+  {
+    "file": "corpus_institutions/ci_18_community_life_voluntary_association_non_instrumental_time.md",
+    "section_id": "CI-18",
+    "title": "Community life, voluntary association, and non-instrumental time",
+    "start_line": 1,
+    "end_line": 40,
+    "score": 13,
+    "confidence": "high",
+    "action": "split-CI-and-CJS",
+    "destinations": [
+      "CJS-3 / CJS-4",
+      "CJS-5A / CJS-4.1 / CJS-4.7",
+      "CJS-5C"
+    ],
+    "signals": [
+      "multi-owner-routing(1)",
+      "routing-read-with(2)",
+      "shared-procedure(3)",
+      "forum-system-touch(3)"
+    ],
+    "router_rows": [
+      "CJS-R19 \u2014 Implementation and cross-implementation integrity assurance and resilience operations",
+      "CJS-R17 \u2014 Cross-implementation trust integrity (joint operation model)",
+      "CJS-R16 \u2014 Cross-institution coordination, deadlock, and escalation"
+    ],
+    "similar_cjs": [],
+    "keep_notes": [],
+    "summary": "**Purpose.** This section records **institutional and system design expectations** for **community belonging**, **cultural gathering**, **play**, **recreation**, **solitude**, and **non-productive time** that are **adjacent to** but **not exhausted by** **A..."
+  },
+  {
+    "file": "corpus_institutions/ci_09_classification_linked_institutional_obligations.md",
+    "section_id": "CI-9.2",
+    "title": "Published industry and domain mapping",
+    "start_line": 64,
+    "end_line": 92,
+    "score": 13,
+    "confidence": "high",
+    "action": "split-CI-and-CJS",
+    "destinations": [
+      "CJS-5A / CJS-4.1 / CJS-4.7",
+      "CJS-5D",
+      "CJS-5B"
+    ],
+    "signals": [
+      "multi-owner-routing(1)",
+      "routing-read-with(2)",
+      "shared-procedure(1)",
+      "dependency-failure(1)",
+      "forum-system-touch(4)"
+    ],
+    "router_rows": [
+      "CJS-R17 \u2014 Cross-implementation trust integrity (joint operation model)",
+      "CJS-R19 \u2014 Implementation and cross-implementation integrity assurance and resilience operations",
+      "CJS-R15 \u2014 Contest-integrity monitoring (pathway integrity, not merits)"
+    ],
+    "similar_cjs": [],
+    "keep_notes": [],
+    "summary": "Institutions with regulated or supervised scope must publish how major industries and regulatory domains under their authority are located against `corpus_systems.md` **Chapter S2** classes and **Chapter S3** stewardship tiers. Apply `corpus_joint_structure..."
+  },
+  {
+    "file": "corpus_institutions/ci_05_conflict_integrity_anti_capture_anti_corruption.md",
+    "section_id": "CI-5.1",
+    "title": "Integrity trigger taxonomy and cross-layer routing (control package)",
+    "start_line": 57,
+    "end_line": 103,
+    "score": 13,
+    "confidence": "high",
+    "action": "split-CI-and-CJS",
+    "destinations": [
+      "CJS-5B",
+      "CJS-5C",
+      "CJS-4.4"
+    ],
+    "signals": [
+      "routing-read-with(2)",
+      "shared-procedure(3)",
+      "dependency-failure(2)",
+      "forum-system-touch(4)"
+    ],
+    "router_rows": [
+      "CJS-R19 \u2014 Implementation and cross-implementation integrity assurance and resilience operations",
+      "CJS-R17 \u2014 Cross-implementation trust integrity (joint operation model)",
+      "CJS-R15 \u2014 Contest-integrity monitoring (pathway integrity, not merits)"
+    ],
+    "similar_cjs": [],
+    "keep_notes": [],
+    "summary": "This subsection names institutional trigger categories for **CI-5** (*Conflict integrity, anti-capture, and anti-corruption*) control maps and training. Shared cross-layer routing for integrity triggers is governed by `corpus_joint_structure.md` **CJS-5B.1*..."
+  },
+  {
+    "file": "corpus_institutions/ci_09_classification_linked_institutional_obligations.md",
+    "section_id": "CI-9",
+    "title": "Classification-linked institutional obligations",
+    "start_line": 1,
+    "end_line": 36,
+    "score": 11,
+    "confidence": "medium",
+    "action": "split-CI-and-CJS",
+    "destinations": [
+      "CJS-5A / CJS-4.1 / CJS-4.7"
+    ],
+    "signals": [
+      "multi-owner-routing(1)",
+      "routing-read-with(1)",
+      "shared-procedure(2)",
+      "forum-system-touch(7)"
+    ],
+    "router_rows": [
+      "CJS-R17 \u2014 Cross-implementation trust integrity (joint operation model)",
+      "CJS-R19 \u2014 Implementation and cross-implementation integrity assurance and resilience operations",
+      "CJS-R15 \u2014 Contest-integrity monitoring (pathway integrity, not merits)"
+    ],
+    "similar_cjs": [],
+    "keep_notes": [
+      "dissolution",
+      "institutional formation"
+    ],
+    "summary": "Institutional governance burden must scale with `corpus_systems.md` Chapter S2 classes and Chapter S3 stewardship tiers. Where multiple classes/tiers apply, the highest applicable burden governs for affected duties. **Constitutional floor for institutional..."
+  },
+  {
+    "file": "corpus_institutions/ci_07_oversight_assurance_controls_evidence.md",
+    "section_id": "CI-7.1",
+    "title": "Controls declaration",
+    "start_line": 40,
+    "end_line": 74,
+    "score": 11,
+    "confidence": "medium",
+    "action": "split-CI-and-CJS",
+    "destinations": [
+      "CJS-5B",
+      "CJS-5A / CJS-4.1 / CJS-4.7",
+      "CJS-3 / CJS-4"
+    ],
+    "signals": [
+      "joint-interface(1)",
+      "routing-read-with(1)",
+      "dependency-failure(2)",
+      "forum-system-touch(4)"
+    ],
+    "router_rows": [
+      "CJS-R17 \u2014 Cross-implementation trust integrity (joint operation model)",
+      "CJS-R19 \u2014 Implementation and cross-implementation integrity assurance and resilience operations",
+      "CJS-R15 \u2014 Contest-integrity monitoring (pathway integrity, not merits)"
+    ],
+    "similar_cjs": [],
+    "keep_notes": [],
+    "summary": "At least annually, each institution must publish a declaration on whether material controls are operating effectively. If material controls fail, apply `corpus_joint_structure.md` **CJS-5B.1** (*Implementation and cross-implementation integrity assurance an..."
+  },
+  {
+    "file": "corpus_institutions/ci_01_scope_purpose_legitimacy_interface.md",
+    "section_id": "CI-1.1",
+    "title": "Definition discipline and source hierarchy",
+    "start_line": 56,
+    "end_line": 86,
+    "score": 11,
+    "confidence": "medium",
+    "action": "split-CI-and-CJS",
+    "destinations": [
+      "CJS-5D",
+      "CJS-5A / CJS-4.1 / CJS-4.7",
+      "CJS-3 / CJS-4"
+    ],
+    "signals": [
+      "joint-interface(1)",
+      "multi-owner-routing(1)",
+      "dependency-failure(1)",
+      "forum-system-touch(4)"
+    ],
+    "router_rows": [
+      "CJS-R17 \u2014 Cross-implementation trust integrity (joint operation model)",
+      "CJS-R19 \u2014 Implementation and cross-implementation integrity assurance and resilience operations",
+      "CJS-R18 \u2014 Class-scaled lane staffing and competency redundancy for materially binding stewardship"
+    ],
+    "similar_cjs": [],
+    "keep_notes": [],
+    "summary": "Definition discipline is single-home: - Constitutional definition structure, compliance-state meaning, offense classification, rights meaning, and authority-stack order remain in the numbered Sentient Constitution `core_*` files under the CJS shared preambl..."
+  },
+  {
+    "file": "corpus_institutions/ci_22_commons_cooperatives_mutual_aid_non_market_governance.md",
+    "section_id": "CI-22",
+    "title": "Commons, cooperatives, mutual aid, and non-market community governance",
+    "start_line": 1,
+    "end_line": 40,
+    "score": 9,
+    "confidence": "medium",
+    "action": "replace-with-pointer",
+    "destinations": [
+      "CJS-5B",
+      "CJS-3 / CJS-4",
+      "CJS-5D"
+    ],
+    "signals": [
+      "joint-interface(2)",
+      "routing-read-with(1)",
+      "shared-procedure(1)"
+    ],
+    "router_rows": [
+      "CJS-R17 \u2014 Cross-implementation trust integrity (joint operation model)",
+      "CJS-R19 \u2014 Implementation and cross-implementation integrity assurance and resilience operations",
+      "CJS-R15 \u2014 Contest-integrity monitoring (pathway integrity, not merits)"
+    ],
+    "similar_cjs": [],
+    "keep_notes": [],
+    "summary": "**Purpose.** This section states the institutional application of `corpus_joint_structure.md` **CJS-5C.1** (*Implementation and cross-implementation quorum and participatory legitimacy terms*) **Commons, cooperative, and mutual-aid pathway integrity**, whil..."
+  },
+  {
+    "file": "corpus_institutions/ci_09_classification_linked_institutional_obligations.md",
+    "section_id": "CI-9.4",
+    "title": "Survival floors, voluntary exchange, and markets (Article III-A interface)",
+    "start_line": 252,
+    "end_line": 286,
+    "score": 9,
+    "confidence": "medium",
+    "action": "replace-with-pointer",
+    "destinations": [
+      "CJS-5B",
+      "CJS-5A / CJS-4.1 / CJS-4.7",
+      "CJS-3 / CJS-4"
+    ],
+    "signals": [
+      "multi-owner-routing(1)",
+      "routing-read-with(1)",
+      "shared-procedure(1)",
+      "forum-system-touch(3)"
+    ],
+    "router_rows": [
+      "CJS-R19 \u2014 Implementation and cross-implementation integrity assurance and resilience operations",
+      "CJS-R17 \u2014 Cross-implementation trust integrity (joint operation model)",
+      "CJS-R15 \u2014 Contest-integrity monitoring (pathway integrity, not merits)"
+    ],
+    "similar_cjs": [],
+    "keep_notes": [
+      "public revenue",
+      "fees"
+    ],
+    "summary": "**Purpose.** **Article III-A** (*Survival*) in `core_10-10_rights_part_*.md` states outcome obligations for essential resources, housing, and connectivity. Apply `corpus_joint_structure.md` **CJS-5A.4** (*Implementation and cross-implementation burden-of-ju..."
+  },
+  {
+    "file": "corpus_institutions/ci_09_classification_linked_institutional_obligations.md",
+    "section_id": "CI-9.3.2",
+    "title": "Authority composition",
+    "start_line": 164,
+    "end_line": 192,
+    "score": 9,
+    "confidence": "medium",
+    "action": "replace-with-pointer",
+    "destinations": [
+      "CJS-5B",
+      "CJS-5A / CJS-4.1 / CJS-4.7",
+      "CJS-3 / CJS-4"
+    ],
+    "signals": [
+      "joint-interface(1)",
+      "multi-owner-routing(2)"
+    ],
+    "router_rows": [
+      "CJS-R17 \u2014 Cross-implementation trust integrity (joint operation model)",
+      "CJS-R19 \u2014 Implementation and cross-implementation integrity assurance and resilience operations",
+      "CJS-R01 \u2014 Delegated binding bodies and hybrid composition (non-forum institutions)"
+    ],
+    "similar_cjs": [],
+    "keep_notes": [
+      "institution-specific"
+    ],
+    "summary": "**CJS minimum.** Delegated subunits in scope must satisfy **`corpus_joint_structure.md` CJS-4.1** (*Mandatory hybrid authority composition*). This subsection states only the institutional exception route, capture-safeguard publication duty, and external-ass..."
+  },
+  {
+    "file": "corpus_institutions/ci_04_appointment_competency_rotation_removal.md",
+    "section_id": "CI-4",
+    "title": "Appointment, competency, rotation, and removal",
+    "start_line": 1,
+    "end_line": 58,
+    "score": 9,
+    "confidence": "medium",
+    "action": "replace-with-pointer",
+    "destinations": [
+      "CJS-5A / CJS-4.1 / CJS-4.7",
+      "CJS-5C",
+      "CJS-3 / CJS-4"
+    ],
+    "signals": [
+      "routing-read-with(3)",
+      "shared-procedure(1)",
+      "dependency-failure(1)",
+      "forum-system-touch(1)"
+    ],
+    "router_rows": [
+      "CJS-R19 \u2014 Implementation and cross-implementation integrity assurance and resilience operations",
+      "CJS-R17 \u2014 Cross-implementation trust integrity (joint operation model)",
+      "CJS-R18 \u2014 Class-scaled lane staffing and competency redundancy for materially binding stewardship"
+    ],
+    "similar_cjs": [],
+    "keep_notes": [
+      "appointment",
+      "rotation",
+      "removal"
+    ],
+    "summary": "Institutions must maintain role criteria that are clear, relevant to impact, and accessible to qualified participants. Role assignment must not rely on arbitrary gatekeeping. Each institution must maintain: - qualification standards, - disqualification stan..."
+  },
+  {
+    "file": "corpus_institutions/ci_13_institutional_failure_sanctions_dissolution_accountability.md",
+    "section_id": "CI-13",
+    "title": "Institutional failure, sanctions, dissolution, and accountability",
+    "start_line": 1,
+    "end_line": 52,
+    "score": 7,
+    "confidence": "medium",
+    "action": "replace-with-pointer",
+    "destinations": [
+      "CJS-5E",
+      "CJS-5B",
+      "CJS-5D"
+    ],
+    "signals": [
+      "multi-owner-routing(1)",
+      "cjs-cluster(1)",
+      "forum-system-touch(2)"
+    ],
+    "router_rows": [
+      "CJS-R19 \u2014 Implementation and cross-implementation integrity assurance and resilience operations",
+      "CJS-R17 \u2014 Cross-implementation trust integrity (joint operation model)",
+      "CJS-R15 \u2014 Contest-integrity monitoring (pathway integrity, not merits)"
+    ],
+    "similar_cjs": [],
+    "keep_notes": [
+      "dissolution"
+    ],
+    "summary": "Apply `corpus_joint_structure.md` **CJS-5E.5** (*Implementation and cross-implementation structural review, correction urgency, and disclosure terms*) **Realignment resistance and dissolution-review trigger floor** for the shared rule on repeated anti-const..."
+  },
+  {
+    "file": "corpus_institutions/ci_12_transparency_participation_accessible_pathways.md",
+    "section_id": "CI-12.3",
+    "title": "Digital self-service pathway integrity",
+    "start_line": 111,
+    "end_line": 145,
+    "score": 7,
+    "confidence": "medium",
+    "action": "replace-with-pointer",
+    "destinations": [
+      "CJS-4.4",
+      "CJS-5D",
+      "CJS-5C"
+    ],
+    "signals": [
+      "joint-interface(2)",
+      "dependency-failure(1)",
+      "forum-system-touch(1)"
+    ],
+    "router_rows": [
+      "CJS-R17 \u2014 Cross-implementation trust integrity (joint operation model)",
+      "CJS-R19 \u2014 Implementation and cross-implementation integrity assurance and resilience operations",
+      "CJS-R15 \u2014 Contest-integrity monitoring (pathway integrity, not merits)"
+    ],
+    "similar_cjs": [],
+    "keep_notes": [
+      "billing"
+    ],
+    "summary": "Digital self-service pathway integrity (Operational; Corpus Institutions) - OP-O: Apply `corpus_joint_structure.md` **CJS-5D.2** (*Implementation and cross-implementation interoperability, portability, and exit-integrity terms*) **Digital self-service pathw..."
+  },
+  {
+    "file": "corpus_institutions/ci_25_collective_public_health_epidemic_response_addiction_informed_care.md",
+    "section_id": "CI-25",
+    "title": "Collective public health, epidemic response, and addiction-informed care",
+    "start_line": 1,
+    "end_line": 36,
+    "score": 6,
+    "confidence": "low",
+    "action": "needs-human-review",
+    "destinations": [
+      "CJS-5B",
+      "CJS-5E",
+      "CJS-4.4"
+    ],
+    "signals": [
+      "multi-owner-routing(1)",
+      "routing-read-with(1)",
+      "forum-system-touch(1)"
+    ],
+    "router_rows": [
+      "CJS-R19 \u2014 Implementation and cross-implementation integrity assurance and resilience operations",
+      "CJS-R17 \u2014 Cross-implementation trust integrity (joint operation model)",
+      "CJS-R15 \u2014 Contest-integrity monitoring (pathway integrity, not merits)"
+    ],
+    "similar_cjs": [],
+    "keep_notes": [],
+    "summary": "**Purpose.** This section frames **contagion**, **environmental** **exposure**, **population**-**level** **harms**, and **addiction** as **collective**-**care** and **governance** **problems** **under** **Article I-D**, **Article III-C**, **Article VII-C**,..."
+  },
+  {
+    "file": "corpus_institutions/ci_12_transparency_participation_accessible_pathways.md",
+    "section_id": "CI-12",
+    "title": "Transparency, participation, and accessible pathways",
+    "start_line": 1,
+    "end_line": 37,
+    "score": 6,
+    "confidence": "low",
+    "action": "needs-human-review",
+    "destinations": [
+      "CJS-5C",
+      "CJS-3 / CJS-4",
+      "CJS-5B"
+    ],
+    "signals": [
+      "routing-read-with(1)",
+      "shared-procedure(1)",
+      "forum-system-touch(3)"
+    ],
+    "router_rows": [
+      "CJS-R17 \u2014 Cross-implementation trust integrity (joint operation model)",
+      "CJS-R19 \u2014 Implementation and cross-implementation integrity assurance and resilience operations",
+      "CJS-R18 \u2014 Class-scaled lane staffing and competency redundancy for materially binding stewardship"
+    ],
+    "similar_cjs": [],
+    "keep_notes": [],
+    "summary": "Institutional governance must be understandable and accessible to materially affected participants. Institutions must provide practical access to participation, review, and challenge channels, including accessibility accommodations sufficient for substantiv..."
+  },
+  {
+    "file": "corpus_institutions/ci_08_cross_institution_coordination_escalation.md",
+    "section_id": "CI-8",
+    "title": "Cross-institution coordination and escalation",
+    "start_line": 1,
+    "end_line": 38,
+    "score": 5,
+    "confidence": "low",
+    "action": "needs-human-review",
+    "destinations": [
+      "CJS-3 / CJS-4",
+      "CJS-5B"
+    ],
+    "signals": [
+      "routing-read-with(2)",
+      "forum-system-touch(1)"
+    ],
+    "router_rows": [
+      "CJS-R19 \u2014 Implementation and cross-implementation integrity assurance and resilience operations",
+      "CJS-R17 \u2014 Cross-implementation trust integrity (joint operation model)",
+      "CJS-R16 \u2014 Cross-institution coordination, deadlock, and escalation"
+    ],
+    "similar_cjs": [],
+    "keep_notes": [],
+    "summary": "Where institutions share jurisdiction, evidence custody, review responsibility, enforcement support, investigative interface, or forum-adjacent routing, they must maintain a published coordination and escalation protocol. The shared coordination, deadlock,..."
+  },
+  {
+    "file": "corpus_institutions/ci_06_procedure_integrity_contestability_secondary_review.md",
+    "section_id": "CI-6",
+    "title": "Procedure integrity, contestability, and secondary review",
+    "start_line": 1,
+    "end_line": 36,
+    "score": 5,
+    "confidence": "low",
+    "action": "needs-human-review",
+    "destinations": [
+      "CJS-5A / CJS-4.1 / CJS-4.7",
+      "CJS-5B",
+      "CJS-4.4"
+    ],
+    "signals": [
+      "shared-procedure(3)",
+      "forum-system-touch(2)"
+    ],
+    "router_rows": [
+      "CJS-R19 \u2014 Implementation and cross-implementation integrity assurance and resilience operations",
+      "CJS-R17 \u2014 Cross-implementation trust integrity (joint operation model)",
+      "CJS-R15 \u2014 Contest-integrity monitoring (pathway integrity, not merits)"
+    ],
+    "similar_cjs": [],
+    "keep_notes": [],
+    "summary": "Procedure rules here must remain consistent with **Chapter Five** (*Procedural Fairness*, *Contestability*, *Accountability*, *Redress and Remediation*) and with `core_02-04_definition_mechanics.md` **Chapter Four** verification and traceability rules. Shar..."
+  },
+  {
+    "file": "corpus_institutions/ci_01_scope_purpose_legitimacy_interface.md",
+    "section_id": "CI-1",
+    "title": "Scope, purpose, and legitimacy interface",
+    "start_line": 23,
+    "end_line": 55,
+    "score": 5,
+    "confidence": "low",
+    "action": "needs-human-review",
+    "destinations": [
+      "CJS-3 / CJS-4",
+      "CJS-5E",
+      "CJS-5A / CJS-4.1 / CJS-4.7"
+    ],
+    "signals": [
+      "joint-interface(1)",
+      "routing-read-with(1)",
+      "shared-procedure(1)"
+    ],
+    "router_rows": [
+      "CJS-R17 \u2014 Cross-implementation trust integrity (joint operation model)",
+      "CJS-R19 \u2014 Implementation and cross-implementation integrity assurance and resilience operations",
+      "CJS-R15 \u2014 Contest-integrity monitoring (pathway integrity, not merits)"
+    ],
+    "similar_cjs": [],
+    "keep_notes": [
+      "dissolution"
+    ],
+    "summary": "CI-1 identifies this file as the institutional owner layer for formation, authorization, oversight, correction, and dissolution mechanics. Institutional procedures remain local to this file only where they implement those institutional mechanics and preserv..."
+  }
+]

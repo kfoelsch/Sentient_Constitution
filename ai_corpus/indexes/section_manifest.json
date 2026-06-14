@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-06-14T01:02:09+00:00",
+  "generated_at": "2026-06-14T07:46:49+00:00",
   "files": {
     "core_00-01_principles.md": {
       "total_lines": 1506,
@@ -5874,13 +5874,13 @@
       ]
     },
     "corpus_institutions/ci_06_procedure_integrity_contestability_secondary_review.md": {
-      "total_lines": 44,
+      "total_lines": 36,
       "sections": [
         {
           "header": "CI-6: Procedure integrity, contestability, and secondary review",
           "level": 2,
           "line_start": 1,
-          "line_end": 44,
+          "line_end": 36,
           "anchor": null
         }
       ]
