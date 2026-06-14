@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-06-13T11:10:47+00:00",
+  "generated_at": "2026-06-14T01:02:09+00:00",
   "files": {
     "core_00-01_principles.md": {
       "total_lines": 1506,

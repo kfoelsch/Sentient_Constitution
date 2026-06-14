@@ -223,12 +223,12 @@ Summary: **Purpose.** **Article III-A** (*Survival*) in `core_10-10_rights_part_
 - Source: `corpus_institutions/ci_09_classification_linked_institutional_obligations.md:164`
 - Score / confidence: 9 / medium
 - Suggested action: `replace-with-pointer`
-- Proposed CJS destination: CJS-3 / CJS-4, CJS-5A / CJS-4.1 / CJS-4.7, CJS-5B
-- Signals: joint-interface(2), multi-owner-routing(1)
-- Router matches: CJS-R19 — Implementation and cross-implementation integrity assurance and resilience operations; CJS-R17 — Cross-implementation trust integrity (joint operation model); CJS-R01 — Delegated binding bodies and hybrid composition (non-forum institutions)
+- Proposed CJS destination: CJS-5B, CJS-5A / CJS-4.1 / CJS-4.7, CJS-3 / CJS-4
+- Signals: joint-interface(1), multi-owner-routing(2)
+- Router matches: CJS-R17 — Cross-implementation trust integrity (joint operation model); CJS-R19 — Implementation and cross-implementation integrity assurance and resilience operations; CJS-R01 — Delegated binding bodies and hybrid composition (non-forum institutions)
 - Keep-in-CI cautions: institution-specific
 
-Summary: **Joint minimum.** Delegated subunits in scope must satisfy **`corpus_joint_structure.md` CJS-4.1** (*Mandatory hybrid authority composition*). Read **CJS-4.1** (*Mandatory hybrid authority composition (delegated binding bodies)*) with **CI-9.3.1** (*Identi...
+Summary: **CJS minimum.** Delegated subunits in scope must satisfy **`corpus_joint_structure.md` CJS-4.1** (*Mandatory hybrid authority composition*). This subsection states only the institutional exception route, capture-safeguard publication duty, and external-ass...
 
 ### 19. CI-7.1: Controls declaration
 

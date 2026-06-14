@@ -186,7 +186,7 @@ Subunits must remain **subordinate** to the parent mandate. They must not operat
 
 <br>
 
-**Joint minimum.** Delegated subunits in scope must satisfy **`corpus_joint_structure.md` CJS-4.1** (*Mandatory hybrid authority composition*). Read **CJS-4.1** (*Mandatory hybrid authority composition (delegated binding bodies)*) with **CI-9.3.1** (*Identification and competence*), **CI-9.3.3** (*Rotating authority: attachment bounds*), and **CI-9.3.4** (*Home-based authority: term and renewal*) for identification, attachment bounds, and home-based term rules.
+**CJS minimum.** Delegated subunits in scope must satisfy **`corpus_joint_structure.md` CJS-4.1** (*Mandatory hybrid authority composition*). This subsection states only the institutional exception route, capture-safeguard publication duty, and external-assurance requirement where the local instrument departs from CJS-4.1.
 
 **Institution-specific.** Where a **multi-member** body uses a **different balance** than minority **home-based** on the deciding bench, or an **equivalent hybrid across stages** that materially changes capture risk, the instrument must publish **substitute capture safeguards** proportionate to institutional design class under **CI-5** (*Conflict integrity, anti-capture, and anti-corruption*). For **Class A** and **Class B**, that pattern is **non-compliant** unless it is **previewed** through **independent assurance** under **CI-7.2** (*External assurance triggers*) and **`INST-PROTO-17`**, or through a **published** cross-institution arrangement under **CI-8** (*Cross-institution coordination and escalation*) that provides **functionally independent** review of the instrument.
 
