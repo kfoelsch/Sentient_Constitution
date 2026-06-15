@@ -29,7 +29,7 @@
 This file states the shared implementation-corpus contract and boundary rules for the joint-structure layer. Detailed routing lives in **CJS-2.2** (*Topic router (stable IDs)*) and `doc_architecture.md` section 4.
 
 The implementation layers named here are:
-- **CP:** implementation, meaning the **CJS folder** and its *Cross-domain implementation layer*,
+- **CJS:** implementation, meaning the **CJS folder** and its *Cross-domain implementation layer*,
 - **CS:** `corpus_systems.md`,
 - **CI:** `corpus_institutions.md`,
 - **CF:** `corpus_forum.md`.
@@ -61,7 +61,7 @@ After this orientation, **CJS-1.1** (*Shared implementation-corpus preamble cont
 
 <br>
 
-This subsection gives the shared starting rules for **CP**, **CS**, **CI**, and **CF**.
+This subsection gives the shared starting rules for **CJS**, **CS**, **CI**, and **CF**.
 
 Implementation files should point back here instead of repeating long boilerplate.
 
@@ -84,7 +84,7 @@ This file does not create a separate authority stack. Use the constitutional **A
 - Chapter Six controls canonical compliance, violation, and standing classification policy.
 - [corpus_systems.md](../corpus_systems.md) Chapters S1 through S3 control data types, system classes, dependency types, and steward tiers.
 - **CJS-5E.2** (*Implementation and cross-implementation intervention and override integrity terms*) and **CJS-5A.2** (*Implementation and cross-implementation intervention governance and override-authorization terms*) stay separate: **CJS-5E.2** (*Implementation and cross-implementation intervention and override integrity terms*) states technical intervention and override integrity terms, and **CJS-5A.2** (*Implementation and cross-implementation intervention governance and override-authorization terms*) states governance authorization terms.
-- **CJS-2** (*Implementation integration map*) states the read order, owner routing, and **stricter-wins** rule among **CP**, **CS**, **CI**, and **CF**.
+- **CJS-2** (*Implementation integration map*) states the read order, owner routing, and **stricter-wins** rule among **CJS**, **CS**, **CI**, and **CF**.
 
 ### CJS-1.2: Section identifiers and article references
 <details>
@@ -135,7 +135,7 @@ Unless a section says otherwise, **Article** labels with Roman numerals that poi
 
 <br>
 
-The CJS folder is the **operative home** for **joint** structural expectations. These are rules and integration interfaces that apply when **two or more** of CP, CS, CI, and CF must be satisfied **together**. The goal is for institutions, forums, and classified systems to read as **one coherent implementation stack** when they materially interact.
+The CJS folder is the **operative home** for **joint** structural expectations. These are rules and integration interfaces that apply when **two or more** of CJS, CS, CI, and CF must be satisfied **together**. The goal is for institutions, forums, and classified systems to read as **one coherent implementation stack** when they materially interact.
 
 The CJS folder is **not** the primary owner for:
 - system-class and steward taxonomies, which belong to **CS**,

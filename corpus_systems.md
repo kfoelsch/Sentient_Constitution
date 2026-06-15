@@ -1,43 +1,67 @@
-﻿# corpus_systems.md
+﻿# Systems implementation
 
-*Systems implementation file — binding systems-and-data operational text. Prefer the filename in cross-references; the bare phrase “Constitutional Systems” is not used in corpus body text (see [doc_architecture.md](doc_architecture.md) — Plain-Language Vocabulary Guardrails, Ambiguous implementation labels).*
+*In plain terms: this file is the systems-and-data rulebook — how classified systems are typed, stewarded, tested, and operated without contradicting the Sentient Constitution.*
 
-**Corpus edition:** `SC-Corpus-2026.04.32`  
-**Effective date:** 2026-04-24  
-*(Edition alignment: same labels as the Sentient Constitution numbered `core_*.md` files (see [README.md](README.md)), [corpus_institutions.md](corpus_institutions.md), [corpus_forum.md](corpus_forum.md), and [corpus_joint_structure.md](corpus_joint_structure.md).)*
+**Corpus edition:** `SC-Corpus-2026.04.32` · **Effective date:** 2026-04-24
 
-*See [doc_architecture.md](doc_architecture.md) section **17**.* Definition boundaries between this implementation file and the core constitution are in `doc_architecture.md` section 4 (Project-wide definitions protocol).
+<details>
+<summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): edition, status, and where this file lives</span></strong></summary>
 
-System and data obligations in this implementation file align with [corpus_joint_structure.md — Cross-domain implementation layer](corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cross-domain-implementation-layer), especially **CJS-4.4** (*Cross-implementation trust integrity (joint operation model)*) trust-integrity routing and the **CJS-5** (*Implementation and cross-implementation operational cluster library*) operational cluster library.
+> The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this file or in other corpus files.
+>
+> **Edition and alignment**
+> - These labels track the same edition metadata as the numbered `core_*.md` files (see [README.md](README.md)), [corpus_institutions.md](corpus_institutions.md), [corpus_forum.md](corpus_forum.md), and [corpus_joint_structure.md](corpus_joint_structure.md).
+> - Canonical mapping: [doc_architecture.md](doc_architecture.md) **section 17**.
+>
+> **Status**
+> - This is **not** a core constitutional file. It is binding incorporated implementation text where [Chapter Five](core_05-05_definitions_c_dependent_clusters.md#corpus) and [Chapter Fifteen](core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) designate it.
+> - Prefer the filename **`corpus_systems.md`** in cross-references; the bare phrase *Constitutional Systems* is not used in corpus body text (see [doc_architecture.md](doc_architecture.md) — Plain-Language Vocabulary Guardrails, Ambiguous implementation labels).
+> - This file is written in plain language with low jargon to improve accessibility, audit readability, and practical adoption testing.
+>
+> **Where this lives**
+> - **Editorial map:** [doc_architecture.md](doc_architecture.md) section 4 (definitions protocol) and section 2 (ownership map).
+> - **Shared contract:** [corpus_joint_structure.md](corpus_joint_structure.md) **CJS-1.1** (*Shared implementation-corpus preamble contract*).
 
-Mapping summary:
-- Technical requirements map primarily to **CJS-5B** (*Evidence, audit, and claim integrity*) evidence/audit/claim-integrity terms, **CJS-5C** (*Participation, comprehension, and disclosure*) participation/comprehension/disclosure terms, **CJS-5D** (*Dependency, exit, and lifecycle integrity*) dependency/exit/lifecycle terms, and **CJS-5E** (*Failure, robustness, intervention, and correction*) failure/robustness/intervention/correction terms.
-- Governance, proportionality of authority, justification, challenge, and collective-choice processes map primarily to **CJS-5A** (*Authority, constraint, secrecy, and procedure*) authority/procedure terms, together with Chapter Eleven decision-resolution requirements.
-- Constitutional meanings remain in Chapter Five definitions and the Rights Floors cited in each subsection.
+</details>
 
-This file is intentionally written in plain language with low jargon to improve accessibility, audit readability, and practical adoption testing.
+<br>
 
-**Non-core Corpus Document**
+**Quick orientation**
 
-This file is part of the constitutional corpus as **binding incorporated implementation text** where **Corpus** designates it, incorporated through **Sentient Constitution Chapter Fifteen**.
+The systems layer (**CS**) owns typing, classification, stewardship, and protocol-level engineering rules for systems and data:
 
-Canonical meaning for constitutional terms, Rights Floors, and definition-satisfaction rules remains in the Sentient Constitution and canonical owners in `doc_architecture.md`; nothing here transfers that authority.
+- **CJS** — [corpus_joint_structure.md](corpus_joint_structure.md) (joint-structure interfaces)
+- **CS** — this file (`corpus_systems.md`)
+- **CI** — [corpus_institutions.md](corpus_institutions.md)
+- **CF** — [corpus_forum.md](corpus_forum.md)
 
-Shared preamble contract: apply `corpus_joint_structure.md` **CJS-1.1** (*Shared implementation-corpus preamble contract*).
+**CS** is the canonical home for **Chapters S1–S3**, **Protocol A** through **Protocol T**, and related systems labels. Constitutional meanings, Rights Floors, and definition-satisfaction rules remain in the Sentient Constitution and Chapter Five.
 
-**File-specific implementation anchors**
+System and data obligations here align with [corpus_joint_structure.md — Cross-domain implementation layer](corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cross-domain-implementation-layer), especially **CJS-4.4** (*Cross-implementation trust integrity (joint operation model)*) and the **CJS-5** (*Implementation and cross-implementation operational cluster library*) operational cluster library.
 
-- **Taxonomy home:** data types, system classes/dependency types, and steward tiers are canonical in **Chapters S1–S3**; other corpus files reference these labels.
-- **Chapter Ten structure:** The Sentient Constitution **Chapter Ten** opening states a **default constraint stack** and **interpretive hubs**:
-  - challenge and redress via **Article XII-B** and Chapter Five *Redress and Remediation*
-  - auditability and observable evidence via **Article XV-A** with **Chapters Two through Four**
-  - justice, restitution, restriction boundaries, and emergencies via **Article XXIII** with **Chapter One**, section 6.4
-  - This implementation file implements those themes operationally and must not narrow them. **Article XIV-A** info-sphere plurality, **Article XIV-B** contestability, and **Article XV-A** auditability floors are supplemented by Article XV's remaining transparency and verification provisions and implementation protocols for **high-impact** summarization, ranking, and mediation systems. **Article VIII-C** publication limits are elaborated in **Chapter Five**, section 3 — Dependent clusters ([Truth and Epistemic Integrity](core_05-05_definitions_c_dependent_clusters.md#truth-and-epistemic-integrity-cluster); **Publication and High-Impact Communication**).
-- **Intervention layering:** **CJS-5E.2** (*Implementation and cross-implementation intervention and override integrity terms*) states technical intervention and override integrity terms; **CJS-5A.2** (*Implementation and cross-implementation intervention governance and override-authorization terms*) states governance authorization terms. Both are jointly applicable where relevant.
-- **Voting / crypto / roles:** Voting requirements follow Sentient Constitution Chapter Eleven, section 4 — *Voting and Binding Collective Choice Protocols* (subsection **4.1 — Entitlement and eligibility** implements **Article IX-C**; subsection **4.2** states further tally and gate requirements). Crypto-verification outcomes follow Sentient Constitution Chapter Four, section 5.1 — *Cryptographic protection, credentials, and verification*. Roles and competency requirements follow Sentient Constitution Chapter Eleven, section 5 — *Authorized Roles, Competency Development, and Contribution*. This implementation file implements those provisions; it does **not** create competing constitutional standards.
-- **Capital-markets scope:** specialist corporate-securities law remains outside dedicated implementation file coverage.
-- **Joint implementation read:** where **S2/S3** obligations intersect institutional governance, **Chapter Nine** forum operations, or **CJS-5** (*Implementation and cross-implementation operational cluster library*) operational clusters, read **`corpus_joint_structure.md`** **CJS-2** (especially **CJS-2.2** (*Topic router (stable IDs)*)) and **CJS-3** (*Joint structural obligations (cross-domain requirements)*).
-- **Chapter Six standing composites:** Where systems compute **standing effect** from **Axis I** and **Axis II** inputs, those inputs **must** be **verified** **inputs** only — **demonstrable** contribution and [**verified violation findings**](core_05-05_definitions_b_semi_independent.md#verified-violation-findings) — as [Sentient Constitution Chapter Six — Assessment](core_06-06_standing_assessment.md) **section 2** (*Verified inputs for standing*) states; **forum** **allegations** and **claims** are **not** standing-calculus inputs (**Chapter Nine**). **Recency weighting** applies **only** to **contribution-linked (positive)** credit under [**Chapter Seven §4.1**](core_07-07_standing_integration.md#38-standing-integration-contribution-and-violation-nature) — **per** **verified** **contribution credit unit**, **daily** **resolution** in **whole** **calendar** **days** **d**, **half-life** ten **calendar** **years** (**w(d)** = **2^(-d / (10 × 365.25))**), **with** **no** **minimum** **weight** **floor** ([**contribution recency weighting**](core_07-07_standing_integration.md#contribution-recency-weighting)). **Unresolved** verified violation findings **must not** be time-discounted. **Adopted** **numeric** **interoperability** for the **nine-slot** **scale** on each **axis** — nested into four **Contribution Axis** primary bands and four **Violation Axis** standing-lock bands — is in [implementation/CH06_NINE_SLOT_STANDING_SCALE.md](implementation/CH06_NINE_SLOT_STANDING_SCALE.md) with [implementation/ch06_nine_slot_constants.json](implementation/ch06_nine_slot_constants.json) and optional fields in [implementation/schemas/ch06_assessment.schema.json](implementation/schemas/ch06_assessment.schema.json) (`nine_slot`).
+Shared preamble contract: apply [corpus_joint_structure.md](corpus_joint_structure.md) **CJS-1.1** (*Shared implementation-corpus preamble contract*).
+
+<details>
+<summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): routing anchors and cluster index</span></strong></summary>
+
+> The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this file or in other corpus files.
+>
+> **CJS cluster mapping (routing only)**
+> - Technical requirements map primarily to **CJS-5B** (*Evidence, audit, and claim integrity*), **CJS-5C** (*Participation, comprehension, and disclosure*), **CJS-5D** (*Dependency, exit, and lifecycle integrity*), and **CJS-5E** (*Failure, robustness, intervention, and correction*).
+> - Governance, proportionality of authority, justification, challenge, and collective-choice processes map primarily to **CJS-5A** (*Authority, constraint, secrecy, and procedure*), together with Chapter Eleven decision-resolution requirements.
+>
+> **File-specific implementation anchors**
+> - **Taxonomy home:** data types, system classes/dependency types, and steward tiers are canonical in **Chapters S1–S3**; other corpus files reference these labels.
+> - **Chapter Ten structure:** This file implements Chapter Ten themes operationally (challenge/redress via **Article XII-B**; auditability via **Article XV-A** with **Chapters Two through Four**; justice and emergencies via **Article XXIII** with **Chapter One** section 6.4; info-sphere and publication via **Articles XIV** and **VIII-C** with Chapter Five clusters). It must not narrow those articles.
+> - **Intervention layering:** **CJS-5E.2** (*Implementation and cross-implementation intervention and override integrity terms*) and **CJS-5A.2** (*Implementation and cross-implementation intervention governance and override-authorization terms*) — jointly applicable where relevant.
+> - **Voting / crypto / roles:** Chapter Eleven section 4 (*Voting and Binding Collective Choice Protocols*); Chapter Four section 5.1 (*Cryptographic protection, credentials, and verification*); Chapter Eleven section 5 (*Authorized Roles, Competency Development, and Contribution*).
+> - **Capital-markets scope:** specialist corporate-securities law remains outside dedicated implementation file coverage.
+> - **Joint implementation read:** where **S2/S3** intersect institutional governance, forum operations, or **CJS-5** clusters, read **`corpus_joint_structure.md`** **CJS-2** (especially **CJS-2.2**) and **CJS-3**.
+> - **Chapter Six standing composites:** Standing inputs must be **verified** only ([Chapter Six — Assessment](core_06-06_standing_assessment.md) section 2). **Forum** allegations and claims are not standing-calculus inputs (**Chapter Nine**). Recency weighting applies only to contribution-linked credit under [Chapter Seven §4.1](core_07-07_standing_integration.md#38-standing-integration-contribution-and-violation-nature). Numeric interoperability defaults: [implementation/CH06_NINE_SLOT_STANDING_SCALE.md](implementation/CH06_NINE_SLOT_STANDING_SCALE.md).
+
+</details>
+
+<br>
 
 Market infrastructure and intermediaries with material dependency, coordination, or info-sphere effects remain in scope under **S2/S3**. They remain subject to applicable Chapter Five definitions, **CJS-5** (*Implementation and cross-implementation operational cluster library*) operational clusters, and protocol controls.
 

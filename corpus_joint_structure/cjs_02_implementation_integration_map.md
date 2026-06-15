@@ -149,7 +149,7 @@ For this contract:
 
 - **Tier 1 (CJS abstraction):** state only shared admission scope, cross-implementation trigger conditions, and minimum joint consequences needed to avoid contradiction or silent gaps.
 - **Tier 2 (owner detail):** retain all operational tests, thresholds, procedures, and implementation mechanics in the canonical owner file(s) listed in **CJS-2.2** (*Topic router (stable IDs)*).
-- **No parallel canon:** CJS abstractions must not become a second full taxonomy for domains owned by **CP**, **CS**, **CI**, or **CF**.
+- **No parallel canon:** CJS abstractions must not become a second full taxonomy for domains owned by **CJS**, **CS**, **CI**, or **CF**.
 - **Specialize, do not redefine:** owner files may specialize a CJS abstraction for their domain scope but must not redefine it incompatibly.
 
 ---

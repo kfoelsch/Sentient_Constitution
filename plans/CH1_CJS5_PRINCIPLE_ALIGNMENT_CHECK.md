@@ -56,4 +56,4 @@ make regression
 
 ## Remediation Policy
 
-Treat this as an audit-first workflow. Make corpus edits only when the report identifies a concrete trace, routing, or OP-triad defect. Preserve CJS-5 as an implementation-layer operational library: remediation should add or clarify routing metadata, not rewrite Chapter 01, Chapter Five, Chapter Ten, or CP/CS/CI/CF owner rules.
+Treat this as an audit-first workflow. Make corpus edits only when the report identifies a concrete trace, routing, or OP-triad defect. Preserve CJS-5 as an implementation-layer operational library: remediation should add or clarify routing metadata, not rewrite Chapter 01, Chapter Five, Chapter Ten, or CJS/CS/CI/CF owner rules.

@@ -22,7 +22,7 @@
 
 This file is the navigation index for implementation and cross-implementation operational cluster terms used by implementation-label and implementation text.
 
-Use these clusters as shared operational terms within standalone implementation scopes and as joint interface terms for combined satisfaction across **CP**, **CS**, **CI**, and **CF**. They supplement the implementation-group label text and owner-file rules; they do not replace either.
+Use these clusters as shared operational terms within standalone implementation scopes and as joint interface terms for combined satisfaction across **CJS**, **CS**, **CI**, and **CF**. They supplement the implementation-group label text and owner-file rules; they do not replace either.
 
 ## CJS-5.0 Role-definition preface and standing competency gate interface
 <details>

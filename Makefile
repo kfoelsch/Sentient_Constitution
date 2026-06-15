@@ -70,6 +70,7 @@ regression:
 	@status=0; \
 	for target in \
 		reference-audit \
+		primitive-retirement-audit \
 		section-abbreviation-descriptor-audit \
 		scenario-audit \
 		corpus-markdown-audit \

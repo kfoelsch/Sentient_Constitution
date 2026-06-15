@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-06-15T09:16:56+00:00",
+  "generated_at": "2026-06-15T10:02:56+00:00",
   "files": {
     "core_00-01_principles.md": {
       "total_lines": 1506,
@@ -5016,209 +5016,209 @@
       ]
     },
     "corpus_systems.md": {
-      "total_lines": 2201,
+      "total_lines": 2225,
       "sections": [
         {
           "header": "Systems Identifier and Article-Reference Rules",
           "level": 2,
-          "line_start": 48,
-          "line_end": 52,
+          "line_start": 72,
+          "line_end": 76,
           "anchor": null
         },
         {
           "header": "Protocol A: System Design, Testing, Verification, and Deployment",
           "level": 2,
-          "line_start": 53,
-          "line_end": 294,
+          "line_start": 77,
+          "line_end": 318,
           "anchor": null
         },
         {
           "header": "Protocol B: System Comprehensibility and Complexity Stewardship",
           "level": 2,
-          "line_start": 295,
-          "line_end": 315,
+          "line_start": 319,
+          "line_end": 339,
           "anchor": null
         },
         {
           "header": "Protocol C: Justice Safeguards, Restitution, and Rehabilitation Implementation",
           "level": 2,
-          "line_start": 316,
-          "line_end": 446,
+          "line_start": 340,
+          "line_end": 470,
           "anchor": null
         },
         {
           "header": "1. Scope and trigger",
           "level": 3,
-          "line_start": 322,
-          "line_end": 326,
+          "line_start": 346,
+          "line_end": 350,
           "anchor": null
         },
         {
           "header": "2. Mandatory validation record",
           "level": 3,
-          "line_start": 327,
-          "line_end": 337,
+          "line_start": 351,
+          "line_end": 361,
           "anchor": null
         },
         {
           "header": "3. Class-scaled assurance requirements",
           "level": 3,
-          "line_start": 338,
-          "line_end": 348,
+          "line_start": 362,
+          "line_end": 372,
           "anchor": null
         },
         {
           "header": "4. Least-restrictive, time-bounded, and restoration rules",
           "level": 3,
-          "line_start": 349,
-          "line_end": 355,
+          "line_start": 373,
+          "line_end": 379,
           "anchor": null
         },
         {
           "header": "5. Prohibited retaliatory forms",
           "level": 3,
-          "line_start": 356,
-          "line_end": 362,
+          "line_start": 380,
+          "line_end": 386,
           "anchor": null
         },
         {
           "header": "6. Voluntary public accountability expression",
           "level": 3,
-          "line_start": 363,
-          "line_end": 369,
+          "line_start": 387,
+          "line_end": 393,
           "anchor": null
         },
         {
           "header": "7. Metrics and oversight",
           "level": 3,
-          "line_start": 370,
-          "line_end": 382,
+          "line_start": 394,
+          "line_end": 406,
           "anchor": null
         },
         {
           "header": "8. Cross-jurisdiction execution and anti-evasion controls",
           "level": 3,
-          "line_start": 383,
-          "line_end": 406,
+          "line_start": 407,
+          "line_end": 430,
           "anchor": null
         },
         {
           "header": "9. Proportional compliance templates (class-scaled)",
           "level": 3,
-          "line_start": 407,
-          "line_end": 437,
+          "line_start": 431,
+          "line_end": 461,
           "anchor": null
         },
         {
           "header": "10. Lived-condition floors, continuity, and re-entry alignment",
           "level": 3,
-          "line_start": 438,
-          "line_end": 446,
+          "line_start": 462,
+          "line_end": 470,
           "anchor": null
         },
         {
           "header": "CHAPTER S1 — INFORMATION TYPES AND HANDLING",
           "level": 2,
-          "line_start": 447,
-          "line_end": 835,
+          "line_start": 471,
+          "line_end": 859,
           "anchor": null
         },
         {
           "header": "I. Purpose and scope",
           "level": 3,
-          "line_start": 453,
-          "line_end": 465,
+          "line_start": 477,
+          "line_end": 489,
           "anchor": null
         },
         {
           "header": "II. Temporal, systemic, and dependency scope of rights",
           "level": 3,
-          "line_start": 466,
-          "line_end": 470,
+          "line_start": 490,
+          "line_end": 494,
           "anchor": null
         },
         {
           "header": "III. Determination of classification",
           "level": 3,
-          "line_start": 471,
-          "line_end": 485,
+          "line_start": 495,
+          "line_end": 509,
           "anchor": null
         },
         {
           "header": "IV. Anti-circumvention and integrity of classification",
           "level": 3,
-          "line_start": 486,
-          "line_end": 494,
+          "line_start": 510,
+          "line_end": 518,
           "anchor": null
         },
         {
           "header": "V. Cross-domain governance principles",
           "level": 3,
-          "line_start": 495,
-          "line_end": 552,
+          "line_start": 519,
+          "line_end": 576,
           "anchor": null
         },
         {
           "header": "VI. Data separation, attribution, and lifecycle integrity",
           "level": 3,
-          "line_start": 553,
-          "line_end": 602,
+          "line_start": 577,
+          "line_end": 626,
           "anchor": null
         },
         {
           "header": "VII. Data classifications",
           "level": 3,
-          "line_start": 603,
-          "line_end": 835,
+          "line_start": 627,
+          "line_end": 859,
           "anchor": null
         },
         {
           "header": "CHAPTER S2 — SYSTEM CLASSIFICATION AND HANDLING",
           "level": 2,
-          "line_start": 836,
-          "line_end": 1448,
+          "line_start": 860,
+          "line_end": 1472,
           "anchor": null
         },
         {
           "header": "CHAPTER S3 — CRITICAL SYSTEM STEWARDSHIP",
           "level": 2,
-          "line_start": 1449,
-          "line_end": 1705,
+          "line_start": 1473,
+          "line_end": 1729,
           "anchor": null
         },
         {
           "header": "Protocol S4 — Adaptive Sustainability and Ecosystem Resilience",
           "level": 2,
-          "line_start": 1706,
-          "line_end": 1801,
+          "line_start": 1730,
+          "line_end": 1825,
           "anchor": null
         },
         {
           "header": "Protocol S5 — Resource Allocation and Funding Stewardship",
           "level": 2,
-          "line_start": 1802,
-          "line_end": 1978,
+          "line_start": 1826,
+          "line_end": 2002,
           "anchor": null
         },
         {
           "header": "Protocol T — Transition Constitution and Migration Governance",
           "level": 2,
-          "line_start": 1979,
-          "line_end": 2010,
+          "line_start": 2003,
+          "line_end": 2034,
           "anchor": null
         },
         {
           "header": "Protocol R — Subversion Response, Replacement, and Reconstitution",
           "level": 2,
-          "line_start": 2011,
-          "line_end": 2117,
+          "line_start": 2035,
+          "line_end": 2141,
           "anchor": null
         },
         {
           "header": "Protocol D — Decentralized Constitutional Continuity and Partition Resilience",
           "level": 2,
-          "line_start": 2118,
-          "line_end": 2201,
+          "line_start": 2142,
+          "line_end": 2225,
           "anchor": null
         }
       ]
@@ -5281,34 +5281,34 @@
       ]
     },
     "corpus_joint_structure/cjs_00_registry_and_reading_rules.md": {
-      "total_lines": 130,
+      "total_lines": 182,
       "sections": [
         {
           "header": "Constitutional joint structure",
           "level": 1,
           "line_start": 1,
-          "line_end": 130,
+          "line_end": 182,
           "anchor": null
         },
         {
           "header": "Joint Structure Registry",
           "level": 2,
-          "line_start": 26,
-          "line_end": 55,
+          "line_start": 57,
+          "line_end": 89,
           "anchor": null
         },
         {
           "header": "Stable identifiers, edition alignment, and drafting notes",
           "level": 2,
-          "line_start": 56,
-          "line_end": 92,
+          "line_start": 90,
+          "line_end": 132,
           "anchor": null
         },
         {
           "header": "Cross-domain implementation layer",
           "level": 2,
-          "line_start": 93,
-          "line_end": 130,
+          "line_start": 133,
+          "line_end": 182,
           "anchor": null
         }
       ]
@@ -5472,7 +5472,7 @@
           "anchor": null
         },
         {
-          "header": "CJS-4.3 Implementation boundary (CP to CJS seam)",
+          "header": "CJS-4.3 Implementation boundary (domain owner to CJS seam)",
           "level": 3,
           "line_start": 100,
           "line_end": 127,
@@ -5749,48 +5749,48 @@
       ]
     },
     "corpus_institutions/ci_01_scope_purpose_legitimacy_interface.md": {
-      "total_lines": 167,
+      "total_lines": 197,
       "sections": [
         {
           "header": "Constitutional Institutions",
           "level": 1,
           "line_start": 1,
-          "line_end": 167,
+          "line_end": 197,
           "anchor": null
         },
         {
           "header": "CI-1: Scope, purpose, and legitimacy interface",
           "level": 2,
-          "line_start": 23,
-          "line_end": 167,
+          "line_start": 53,
+          "line_end": 197,
           "anchor": null
         },
         {
           "header": "CI-1.1: Definition discipline and source hierarchy",
           "level": 3,
-          "line_start": 51,
-          "line_end": 77,
+          "line_start": 81,
+          "line_end": 107,
           "anchor": null
         },
         {
           "header": "CI-1.2: Section identifiers and article references",
           "level": 3,
-          "line_start": 78,
-          "line_end": 105,
+          "line_start": 108,
+          "line_end": 135,
           "anchor": null
         },
         {
           "header": "CI-1.3: Anti-constitutional misconduct usage in this file",
           "level": 3,
-          "line_start": 106,
-          "line_end": 132,
+          "line_start": 136,
+          "line_end": 162,
           "anchor": null
         },
         {
           "header": "CI-1.4: Proportionality rule",
           "level": 3,
-          "line_start": 133,
-          "line_end": 167,
+          "line_start": 163,
+          "line_end": 197,
           "anchor": null
         }
       ]
@@ -6266,27 +6266,27 @@
       ]
     },
     "corpus_forum/cf_00_registry_and_reading_rules.md": {
-      "total_lines": 75,
+      "total_lines": 123,
       "sections": [
         {
           "header": "Constitutional Forums",
           "level": 1,
           "line_start": 1,
+          "line_end": 123,
+          "anchor": null
+        },
+        {
+          "header": "Forums identifier and article-reference rules",
+          "level": 2,
+          "line_start": 58,
           "line_end": 75,
           "anchor": null
         },
         {
-          "header": "FORUMS IDENTIFIER AND ARTICLE-REFERENCE RULES",
+          "header": "Forums registry (stable section families)",
           "level": 2,
-          "line_start": 26,
-          "line_end": 30,
-          "anchor": null
-        },
-        {
-          "header": "FORUMS REGISTRY (stable section families)",
-          "level": 2,
-          "line_start": 31,
-          "line_end": 75,
+          "line_start": 76,
+          "line_end": 123,
           "anchor": null
         }
       ]

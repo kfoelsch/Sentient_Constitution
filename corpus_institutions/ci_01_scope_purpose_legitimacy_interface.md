@@ -1,22 +1,52 @@
 # Constitutional Institutions
 
-**Corpus edition:** `SC-Corpus-2026.04.32`  
-**Effective date:** 2026-04-24  
-*(Edition alignment: same labels as the Sentient Constitution `core_*.md` files (see [README.md](../README.md)), `corpus_joint_structure.md`, `corpus_systems.md`, and `corpus_forum.md`.)*
+*In plain terms: this file is the front door to the **institutions** rulebook — how bodies are formed, authorized, overseen, corrected, and dissolved within constitutional boundaries.*
 
-This file is intentionally written in plain language with low jargon to improve accessibility, audit readability, and practical adoption testing.
+**Corpus edition:** `SC-Corpus-2026.04.32` · **Effective date:** 2026-04-24
 
-It defines institutional governance law: the operational rules for how institutions are formed, authorized, overseen, corrected, and dissolved within constitutional boundaries. It does not redefine constitutional terms, Rights Floors, or offense taxonomy.
+<details>
+<summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): edition, status, and where this file lives</span></strong></summary>
 
-**Non-core Corpus Document**
+> The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this file or in other corpus files.
+>
+> **Edition and alignment**
+> - These labels track the same edition metadata as the numbered `core_*.md` files (see [README.md](../README.md)), [corpus_joint_structure.md](../corpus_joint_structure.md), [corpus_systems.md](../corpus_systems.md), and [corpus_forum.md](../corpus_forum.md).
+>
+> **Status**
+> - This is **not** a core constitutional file. It is binding incorporated implementation text where [Chapter Five](../core_05-05_definitions_c_dependent_clusters.md#corpus) and [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) designate it.
+> - The CI folder is written in plain language with low jargon to improve accessibility, audit readability, and practical adoption testing.
+>
+> **Where this lives**
+> - **Navigation wrapper:** [corpus_institutions.md](../corpus_institutions.md) indexes the `corpus_institutions/` subfiles.
+> - **Shared contract:** [corpus_joint_structure.md](../corpus_joint_structure.md) **CJS-1.1** (*Shared implementation-corpus preamble contract*).
 
-This file is part of the constitutional corpus as **binding incorporated implementation text** where **Corpus** designates it, incorporated through **Sentient Constitution Chapter Fifteen**.
+</details>
 
-Canonical meaning for constitutional terms, Rights Floors, and definition-satisfaction rules remains in the Sentient Constitution and canonical owners in `doc_architecture.md`; nothing here transfers that authority.
+<br>
 
-Shared preamble contract: apply `corpus_joint_structure.md` **CJS-1.1** (*Shared implementation-corpus preamble contract*).
+**Quick orientation**
 
-**Implementation cross-reference index (routing only):** This implementation file is read with Chapter Five constitutional definitions and `corpus_joint_structure.md` **CJS-5** (*Implementation and cross-implementation operational cluster library*) operational clusters where materially applicable. This index is routing guidance only and does not redefine owner-layer meaning.
+The institutions layer (**CI**) owns formation, authorization, oversight, correction, and dissolution mechanics for institutional governance:
+
+- **CJS** — [corpus_joint_structure.md](../corpus_joint_structure.md)
+- **CS** — [corpus_systems.md](../corpus_systems.md)
+- **CI** — this folder (`corpus_institutions/`)
+- **CF** — [corpus_forum.md](../corpus_forum.md)
+
+**CI** defines institutional governance law. It does not redefine constitutional terms, Rights Floors, or offense taxonomy.
+
+Shared preamble contract: apply [corpus_joint_structure.md](../corpus_joint_structure.md) **CJS-1.1** (*Shared implementation-corpus preamble contract*).
+
+<details>
+<summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): routing anchors and cluster index</span></strong></summary>
+
+> The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this file or in other corpus files.
+>
+> **Implementation cross-reference index (routing only):** Read with Chapter Five constitutional definitions and `corpus_joint_structure.md` **CJS-5** (*Implementation and cross-implementation operational cluster library*) operational clusters where materially applicable. This index does not redefine owner-layer meaning.
+>
+> **Stable registry:** institutional protocol IDs and cross-reference tables live in **CI-26** (*Compliance mapping and stable registry*).
+
+</details>
 
 ---
 

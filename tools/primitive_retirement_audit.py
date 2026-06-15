@@ -17,7 +17,10 @@ RETIRED_PATTERNS: tuple[tuple[str, re.Pattern[str]], ...] = (
     ("retired PROT code", re.compile(r"\bPROT\d+\b")),
     ("retired PRIM shorthand", re.compile(r"\bPRIM\b")),
     ("retired PROT shorthand", re.compile(r"\bPROT\b")),
-    ("retired CP-PCH label", re.compile(r"\bCP-PCH\d+\b")),
+    (
+        "retired CP joint-structure abbreviation",
+        re.compile(r"\bCP(?:-PCH\d+)?\b"),
+    ),
     ("retired primitive term", re.compile(r"\b[Pp]rimitives?\b")),
     ("retired corpus_primitives path", re.compile(r"\bcorpus_primitives\.md\b")),
 )

@@ -27,7 +27,7 @@
 **Plain-language purpose**
 This section explains what must happen when more than one implementation file applies to the same real-world situation. It prevents a common failure: every file looks satisfied on its own, but the combined system still blocks challenge, hides responsibility, weakens independence, or ignores the risk level assigned by classification.
 
-Routing remains in **CJS-2.2** (*Topic router (stable IDs)*) and `doc_architecture.md` section 4. These rules add to domain-owner rules in **CP**, **CS**, **CI**, and **CF**; they do not replace them.
+Routing remains in **CJS-2.2** (*Topic router (stable IDs)*) and `doc_architecture.md` section 4. These rules add to domain-owner rules in **CJS**, **CS**, **CI**, and **CF**; they do not replace them.
 
 **File organization**
 This file holds the general CJS-3 (*Joint structural obligations (cross-domain requirements)*) joint-compliance rules. More specialized material is now promoted into separate CJS sections:

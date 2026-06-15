@@ -1,39 +1,84 @@
 # Constitutional Forums
 
-**Corpus edition:** `SC-Corpus-2026.04.32`  
-**Effective date:** 2026-04-24  
-*(Edition alignment: same labels as the integrated Sentient Constitution `core_*` files, `corpus_joint_structure.md`, `corpus_systems.md`, and `corpus_institutions.md`.)*
+*In plain terms: this file is the front door to the **forum** rulebook — how panels form, cases route, appeals work, and forum operations stay independent when the constitution requires a fair hearing.*
 
-This file is intentionally written in plain language with low jargon to improve accessibility, audit readability, and practical adoption testing.
+**Corpus edition:** `SC-Corpus-2026.04.32` · **Effective date:** 2026-04-24
 
-**Non-core Corpus Document**
+<details>
+<summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): edition, status, and where this file lives</span></strong></summary>
 
-This file is part of the constitutional corpus as **binding incorporated implementation text** where **Corpus** designates it, incorporated through **Sentient Constitution Chapter Fifteen**.
+> The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this file or in other corpus files.
+>
+> **Edition and alignment**
+> - These labels track the same edition metadata as the numbered `core_*.md` files (see [README.md](../README.md)), [corpus_joint_structure.md](../corpus_joint_structure.md), [corpus_systems.md](../corpus_systems.md), and [corpus_institutions.md](../corpus_institutions.md).
+>
+> **Status**
+> - This is **not** a core constitutional file. It is binding incorporated implementation text where [Chapter Five](../core_05-05_definitions_c_dependent_clusters.md#corpus) and [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) designate it.
+> - The CF folder is written in plain language with low jargon to improve accessibility, audit readability, and practical adoption testing.
+>
+> **Where this lives**
+> - **Navigation wrapper:** [corpus_forum.md](../corpus_forum.md) indexes the `corpus_forum/` subfiles.
+> - **Constitutional owner:** [core_09-09_forum.md](../core_09-09_forum.md) **Chapter Nine** owns forum-family routing and constitutional forum doctrine; this file operationalizes it and must not redefine it.
+> - **Shared contract:** [corpus_joint_structure.md](../corpus_joint_structure.md) **CJS-1.1** (*Shared implementation-corpus preamble contract*).
 
-Canonical meaning for constitutional terms, Rights Floors, and definition-satisfaction rules remains in the Sentient Constitution and canonical owners in `doc_architecture.md`; nothing here transfers that authority.
+</details>
 
-Shared preamble contract: apply `corpus_joint_structure.md` **CJS-1.1** (*Shared implementation-corpus preamble contract*).
+<br>
 
-**File-specific implementation anchors**
+**Quick orientation**
 
-- **Operational home:** this file is the operational home for forum structure, forum independence safeguards, forum process governance, and forum continuity mechanics.
-- **Boundary rule:** this file does **not** redefine constitutional terms, Rights Floors, offense taxonomy, or the constitutional routing logic owned by `core_09-09_forum.md` **Chapter Nine**.
-- **Forum-family limit:** this file does **not** create new forum families beyond those authorized in `core_09-09_forum.md` **Chapter Nine**.
-- **Chapter Ten structure:** this file operationalizes challenge and redress through **Article XII-B**, auditability and observable evidence through **Article XV-A** with **Chapters Two through Four**, interpretation safeguards through **Article XXII**, justice / emergency boundaries through **Article XXIII** and its subarticles, and transition-phase adjudication support as **Article XXV** references into this file and **`corpus_institutions.md`** **CI-14** (*Transitional governance and institutional evolution*).
+The forum layer (**CF**) owns forum structure, independence safeguards, process governance, and continuity mechanics:
 
-**Implementation cross-reference index (routing only):** This implementation file is read with Chapter Five constitutional definitions and `corpus_joint_structure.md` **CJS-5** (*Implementation and cross-implementation operational cluster library*) operational clusters where materially applicable. This index is routing guidance only and does not redefine owner-layer meaning.
+- **CJS** — [corpus_joint_structure.md](../corpus_joint_structure.md)
+- **CS** — [corpus_systems.md](../corpus_systems.md)
+- **CI** — [corpus_institutions.md](../corpus_institutions.md)
+- **CF** — this folder (`corpus_forum/`)
 
-## FORUMS IDENTIFIER AND ARTICLE-REFERENCE RULES
-Apply `corpus_joint_structure.md` **CJS-1.2** (*Section identifiers and article references*) as the shared implementation-corpus identifier rule. In this file specifically, headings use **CF-1** (*Scope, authority, and boundary rules*) through **CF-15** (*Forum staffing, reserve capacity, shared administration, structural review, and structural records*). Subsections use **CF-*n*.*m*** (for example **CF-6.2** (*Constitutional alignment recognition and review*)). They must not be read as Sentient Constitution **Article** numbers. The abbreviation **CF** matches `doc_architecture.md` (*corpus_forum.md*) and means the forum implementation file.
+**CF** does not create new forum families beyond those authorized in **Chapter Nine**. It does not redefine constitutional terms, Rights Floors, or offense taxonomy.
+
+Shared preamble contract: apply [corpus_joint_structure.md](../corpus_joint_structure.md) **CJS-1.1** (*Shared implementation-corpus preamble contract*).
+
+<details>
+<summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): routing anchors and cluster index</span></strong></summary>
+
+> The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this file or in other corpus files.
+>
+> **File-specific implementation anchors**
+> - **Operational home:** forum structure, forum independence safeguards, forum process governance, and forum continuity mechanics.
+> - **Boundary rule:** this file does **not** redefine constitutional terms, Rights Floors, offense taxonomy, or the constitutional routing logic owned by `core_09-09_forum.md` **Chapter Nine**.
+> - **Forum-family limit:** this file does **not** create new forum families beyond those authorized in **Chapter Nine**.
+> - **Chapter Ten structure:** operationalizes challenge and redress through **Article XII-B**; auditability through **Article XV-A** with **Chapters Two through Four**; interpretation safeguards through **Article XXII**; justice and emergency boundaries through **Article XXIII**; transition-phase adjudication support as **Article XXV** references into this file and **`corpus_institutions.md`** **CI-14** (*Transitional governance and institutional evolution*).
+>
+> **Implementation cross-reference index (routing only):** Read with Chapter Five constitutional definitions and `corpus_joint_structure.md` **CJS-5** (*Implementation and cross-implementation operational cluster library*) operational clusters where materially applicable. This index does not redefine owner-layer meaning.
+
+</details>
+
+---
+
+## Forums identifier and article-reference rules
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Upstream: [CJS-1.1](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-11-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-section-identifiers-and-article-references) section identifiers; [Chapter Nine](../core_09-09_forum.md#chapter-nine-forums-and-jurisdiction) forum-family routing; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
+- Downstream: [Forums registry (stable section families)](#forums-registry-stable-section-families).
+- Read with: **CF-1**; **CJS-1.2**.
+
+</details>
+
+<br>
+
+*In plain terms: labels like **CF-6.2** are forum-implementation section numbers — not Sentient Constitution article numbers.*
+
+Apply [corpus_joint_structure.md](../corpus_joint_structure.md) **CJS-1.2** (*Section identifiers and article references*) as the shared implementation-corpus identifier rule. In this file specifically, headings use **CF-1** (*Scope, authority, and boundary rules*) through **CF-15** (*Forum staffing, reserve capacity, shared administration, structural review, and structural records*). Subsections use **CF-*n*.*m*** (for example **CF-6.2** (*Constitutional alignment recognition and review*)). They must not be read as Sentient Constitution **Article** numbers. The abbreviation **CF** matches [doc_architecture.md](../doc_architecture.md) (*corpus_forum.md*).
 
 Unless another reference pattern is stated, **Article** labels with Roman numerals in this file point to Sentient Constitution Chapter Ten in the `core_10-10_rights_part_*.md` files.
 
-## FORUMS REGISTRY (stable section families)
+## Forums registry (stable section families)
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [CJS-1.1](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-11-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.2](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-22-topic-router-stable-ids) topic router; [Chapter Nine](../core_09-09_forum.md#chapter-nine-forums-and-jurisdiction) forum-family routing; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
-- Downstream: this section's local operational requirements for **FORUMS REGISTRY (stable section families)**.
+- Downstream: this section's local operational requirements for **Forums registry (stable section families)**.
 - Read with: **CF-1**; **CF-2**; **CF-3**; **CF-4**; **CF-5**; **CF-5.1**; **CF-5.1.1**.
 
 </details>
@@ -53,22 +98,25 @@ Unless another reference pattern is stated, **Article** labels with Roman numera
 
 <br>
 
+*In plain terms: this is the table of contents for the forum folder — fifteen stable families, each with a home file.*
 
-- **CF-1** — Scope, authority, and boundary rules
-- **CF-2** — Forum formation, forum-structure mapping, chambers, and minimum bench availability
-- **CF-3** — Panel formation, disclosure, recusal, and lawful bench constitution
-- **CF-4** — Routing operations, intake, transfer, certification, and representative treatment
-- **CF-5** — Appeal, secondary review, and exhaustion pathways (**CF-5.1** (*Disposition-effect categories and record labels*) disposition-effect categories)
-- **CF-6** — Integrity safeguards, anti-capture operations, alignment recognition and review, and anti-self-judging support
-- **CF-7** — Forum forensic and analytical support
-- **CF-8** — Independent investigative service and prosecution interface
-- **CF-9** — Technical specialist forums and specialist chambers
-- **CF-10** — Forum performance, backlog requirements, publication timeliness, and accessibility (**CF-10.10** (*Lived conditions during restriction and re-entry alignment (cross-layer)*) lived conditions during restriction — cross-layer)
-- **CF-11** — Forum continuity
-- **CF-12** — Fallback operation
-- **CF-13** — Emergency adjudication
-- **CF-14** — Standard records, forms, and evidence artifacts
-- **CF-15** — Forum staffing, reserve capacity, shared administration, structural review, and structural records
+| Family | What it covers | Start here |
+|---|---|---|
+| **CF-1** | Scope, authority, and boundary rules | [cf_01_scope_authority_boundary_rules.md](cf_01_scope_authority_boundary_rules.md) |
+| **CF-2** | Forum formation, forum-structure mapping, chambers, and minimum bench availability | [cf_02_forum_formation_tribunal_mapping_chamber_structure.md](cf_02_forum_formation_tribunal_mapping_chamber_structure.md) |
+| **CF-3** | Panel formation, disclosure, recusal, and lawful bench constitution | [cf_03_panel_formation_disclosure_recusal_bench_constitution.md](cf_03_panel_formation_disclosure_recusal_bench_constitution.md) |
+| **CF-4** | Routing operations, intake, transfer, certification, and representative treatment | [cf_04_routing_operations_transfer_certification_representative_treatment.md](cf_04_routing_operations_transfer_certification_representative_treatment.md) |
+| **CF-5** | Appeal, secondary review, and exhaustion pathways | [cf_05_appeal_secondary_review_exhaustion_pathways.md](cf_05_appeal_secondary_review_exhaustion_pathways.md) |
+| **CF-6** | Integrity safeguards, anti-capture operations, alignment recognition and review, and anti-self-judging support | [cf_06_integrity_safeguards_anti_capture_anti_self_judging.md](cf_06_integrity_safeguards_anti_capture_anti_self_judging.md) |
+| **CF-7** | Forum forensic and analytical support | [cf_07_forum_forensic_analytical_support.md](cf_07_forum_forensic_analytical_support.md) |
+| **CF-8** | Independent investigative service and prosecution interface | [cf_08_independent_investigative_service_prosecution_interface.md](cf_08_independent_investigative_service_prosecution_interface.md) |
+| **CF-9** | Technical specialist forums and specialist chambers | [cf_09_technical_specialist_forums_specialist_chambers.md](cf_09_technical_specialist_forums_specialist_chambers.md) |
+| **CF-10** | Forum performance, backlog requirements, publication timeliness, and accessibility | [cf_10_performance_backlog_publication_accessibility.md](cf_10_performance_backlog_publication_accessibility.md) |
+| **CF-11** | Forum continuity | [cf_11_forum_continuity.md](cf_11_forum_continuity.md) |
+| **CF-12** | Fallback operation | [cf_12_fallback_operation.md](cf_12_fallback_operation.md) |
+| **CF-13** | Emergency adjudication | [cf_13_emergency_adjudication.md](cf_13_emergency_adjudication.md) |
+| **CF-14** | Standard records, forms, and evidence artifacts | [cf_14_standard_records_forms_evidence_artifacts.md](cf_14_standard_records_forms_evidence_artifacts.md) |
+| **CF-15** | Forum staffing, reserve capacity, shared administration, structural review, and structural records | [cf_15_staffing_reserve_capacity_structural_records.md](cf_15_staffing_reserve_capacity_structural_records.md) |
 
 ---
 

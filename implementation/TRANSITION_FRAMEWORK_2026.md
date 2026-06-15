@@ -30,7 +30,7 @@ This framework helps adopters map **2026 real-world conditions** (institutions, 
 | Adoption, supremacy, external law, amendments | [core_12-14_amendment.md](../core_12-14_amendment.md) — **Chapters Twelve and Thirteen**; [core_15-15_incorporation.md](../core_15-15_incorporation.md) — **Chapter Fifteen** |
 | Crisis / subversion / reconstitution (when transition intersects compromise) | [corpus_systems.md](../corpus_systems.md) — **Protocol R**; cross-jurisdiction / anti-evasion — **Protocol C**, subsection **8** |
 
-National-law-specific schedules, filing steps, and polity-specific ballots **belong in this implementation layer** (or adopter annexes), not in Sentient Constitution / CP / CS — see architecture map checklist 9 closure note in [doc_architecture.md](../doc_architecture.md) section 14.
+National-law-specific schedules, filing steps, and polity-specific ballots **belong in this implementation layer** (or adopter annexes), not in Sentient Constitution / CJS / CS — see architecture map checklist 9 closure note in [doc_architecture.md](../doc_architecture.md) section 14.
 
 ---
 

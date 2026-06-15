@@ -3,7 +3,7 @@
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [CJS-1.1](cjs_01_scope_purpose_boundary_interface.md#cjs-11-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.2](cjs_02_implementation_integration_map.md#cjs-22-topic-router-stable-ids) topic router; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
-- Downstream: [CJS-4.1 Mandatory hybrid authority composition (delegated binding bodies)](#cjs-41-mandatory-hybrid-authority-composition-delegated-binding-bodies); [CJS-4.2 Shared attachment and continuity mechanics](#cjs-42-shared-attachment-and-continuity-mechanics); [CJS-4.3 Implementation boundary (CP to CJS seam)](#cjs-43-implementation-boundary-cp-to-cjs-seam); [CJS-4.4 Cross-implementation trust integrity (joint operation model)](#cjs-44-cross-implementation-trust-integrity-joint-operation-model); [CJS-4.5 Definition collision and precedence discipline](#cjs-45-definition-collision-and-precedence-discipline); [CJS-4.6 Class-scaled lane staffing and competency redundancy](#cjs-46-class-scaled-lane-staffing-and-competency-redundancy) and related local subsections.
+- Downstream: [CJS-4.1 Mandatory hybrid authority composition (delegated binding bodies)](#cjs-41-mandatory-hybrid-authority-composition-delegated-binding-bodies); [CJS-4.2 Shared attachment and continuity mechanics](#cjs-42-shared-attachment-and-continuity-mechanics); [CJS-4.3 Implementation boundary (domain owner to CJS seam)](#cjs-43-implementation-boundary-domain-owner-to-cjs-seam); [CJS-4.4 Cross-implementation trust integrity (joint operation model)](#cjs-44-cross-implementation-trust-integrity-joint-operation-model); [CJS-4.5 Definition collision and precedence discipline](#cjs-45-definition-collision-and-precedence-discipline); [CJS-4.6 Class-scaled lane staffing and competency redundancy](#cjs-46-class-scaled-lane-staffing-and-competency-redundancy) and related local subsections.
 - Read with: **CJS-4**; [CJS-2.2](cjs_02_implementation_integration_map.md#cjs-22-topic-router-stable-ids); **CJS-4.1**; [CJS-1.1](cjs_01_scope_purpose_boundary_interface.md#cjs-11-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; **CJS-4.2**; **CJS-4.3**.
 
 </details>
@@ -97,12 +97,12 @@ Where **CJS-4.1** (*Mandatory hybrid authority composition (delegated binding bo
 
 Sample formulas are illustrative unless a domain owner makes them mandatory. Home-based term rules do not need to mirror rotating attachment rules.
 
-### CJS-4.3 Implementation boundary (CP to CJS seam)
+### CJS-4.3 Implementation boundary (domain owner to CJS seam)
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [CJS-1.1](cjs_01_scope_purpose_boundary_interface.md#cjs-11-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.2](cjs_02_implementation_integration_map.md#cjs-22-topic-router-stable-ids) topic router; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
-- Downstream: this section's local operational requirements for **CJS-4.3 Implementation boundary (CP to CJS seam)**.
+- Downstream: this section's local operational requirements for **CJS-4.3 Implementation boundary (domain owner to CJS seam)**.
 - Read with: **CJS-4.3**; **CJS-1.3**; **CJS-3.6**.
 
 </details>
@@ -120,8 +120,8 @@ Sample formulas are illustrative unless a domain owner makes them mandatory. Hom
 
 Under the shared boundary in **CJS-1.3** (*Joint structural boundary and owner discipline*), the CJS-5 (*Implementation and cross-implementation operational cluster library*) cluster files remain the operative home for their local operational terms.
 
-When revising **CP** implementation text:
-- keep implementation-owned requirements in the cross-domain implementation layer;
+When revising **CJS** joint-structure text:
+- keep domain-owner requirements in **CS**, **CI**, or **CF**;
 - keep read-with restatements short; and
 - preserve **CJS-5** (*Implementation and cross-implementation operational cluster library*) cluster citations so references remain traceable under **CJS-3.6** (*Implementation-label traceability and stricter-wins discipline*).
 
@@ -194,7 +194,7 @@ If yes, it does not replace the owner's meaning.
 Use this order:
 
 1. The Sentient Constitution and core definitions, including **Chapter Fifteen**.
-2. The canonical owner meaning in **CP**, **CS**, **CI**, or **CF**, as routed by **CJS-2.2** (*Topic router (stable IDs)*) and `doc_architecture.md`.
+2. The canonical owner meaning in **CJS**, **CS**, **CI**, or **CF**, as routed by **CJS-2.2** (*Topic router (stable IDs)*) and `doc_architecture.md`.
 3. The **CJS Tier 1** abstraction, for the shared scope, joint triggers, interlocks, and minimum joint consequences described in **CJS-2.3** (*Two-tier definition contract (binding abstraction + owner detail)*).
 4. Local shorthand, examples, summaries, or other drafting convenience text.
 
