@@ -666,7 +666,7 @@ Adopter-tunable ceilings may vary by domain and jurisdictional context, but they
 - Downstream: [Chapter Six — Contribution, Violation, and Standing Model](core_06-06_standing_assessment.md#chapter-six-compliance-violation-and-standing-model) (*standing effect — trust-, role-, and recognition-eligibility — implements this subsection as its principle-layer foundation*).
 - Downstream: Shapes the rights surface for education, stakeholder governance, transparency, comprehensibility, audit and verification, and pathways into material responsibility.
   - Especially [Article III: Survival and Equal Educational Access](core_10-10_rights_part_a.md#article-iii-survival-and-equal-educational-access), [Article VI: Right to Sentient-Centered Education](core_10-10_rights_part_b.md#article-vi-right-to-sentient-centered-education), [Article IX: Self-Determination and Agency](core_10-10_rights_part_b.md#article-ix-self-determination-and-agency), [Article XI: Stakeholder System Participation, Representation, and Due Process](core_10-10_rights_part_b.md#article-xi-stakeholder-system-participation-representation-and-due-process), [Article XV: Audit, Transparency, and Independent Verification](core_10-10_rights_part_c.md#article-xv-audit-transparency-and-independent-verification), [Article XVIII: Standing and Participation Status](core_10-10_rights_part_c.md#article-xviii-standing-and-participation-status), [Article XIX: Interoperability, Portability, and Exit Integrity](core_10-10_rights_part_c.md#article-xix-interoperability-portability-and-exit-integrity), [Article XX: Comprehensibility and Complexity Stewardship](core_10-10_rights_part_c.md#article-xx-comprehensibility-and-complexity-stewardship), and [Article XXII: Constitutional Interpretation, Review, and Anti-Capture Safeguards](core_10-10_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards).
-  - Read with: [Chapter Eleven §5 — Authorized Roles, Competency Development, and Contribution](core_11-11_governance.md#5-authorized-roles-competency-development-and-contribution) and **[corpus_systems.md](corpus_systems.md), Chapter S3 — Critical System Stewardship** for operative role and competency pathways.
+  - Read with: [Chapter Eleven §5 — Authorized Roles, Competency Development, and Contribution](core_11-11_governance.md#5-authorized-roles-competency-development-and-contribution) and **[corpus_systems.md](corpus_systems.md), CS-5 — Critical system stewardship** for operative role and competency pathways.
 - Subsections (reading order): [§5.2.1](#521-stewardship) · [§5.2.2](#522-distributed-understanding) · [§5.2.3](#523-institutional-development) · [§5.2.4](#524-openness-aspiration) · [§5.2.5](#525-bounds-and-rights-floor-disclaimer).
 
 </details>
@@ -1191,7 +1191,7 @@ A single privacy matter may materially implicate more than one of the distribute
 - *Joint-invocation rule.* Where the matter materially implicates more than one locus, evaluation must reach **each** such locus and may **not** segment the matter — i.e., route it through one locus in a way that lets the discipline of another locus be evaded.
 - *Cluster-head home.* Chapter Five [§3.7 Privacy (Informational) — peer-level cluster head](core_05-05_definitions_c_dependent_clusters.md#privacy-informational-cluster). Umbrella definition: [Privacy (Informational)](core_05-05_definitions_c_dependent_clusters.md#privacy-informational).
 - *No relaxation by read-across.* Each cluster member's locally-stated standard controls within its own scope and may **not** be loosened by importing a laxer standard from another member ("read-across").
-- *Type-N floor preserved.* Where **Article VII-B** *Protected Internal-State Boundary* is materially implicated, **Type N** handling under *[corpus_systems.md](corpus_systems.md), Chapter S1* applies and is **not** narrowed by this factor.
+- *Type-N floor preserved.* Where **Article VII-B** *Protected Internal-State Boundary* is materially implicated, **Type N** handling under *[corpus_systems.md](corpus_systems.md), CS-3* applies and is **not** narrowed by this factor.
 - *Scope of this factor.* This factor states evaluation-integration and anti-segmentation discipline across the existing distributed privacy coverage. It does **not** create, extend, or narrow any Chapter Ten Rights-Floor.
 
 ##### 7.1.4 Voluntary Discontinuation and Exit Rights
@@ -1296,7 +1296,7 @@ Stewardship and operator incentives must not treat anti-constitutional advantage
 
 **Authorized roles**, **competency development**, and **paths into material responsibility** for stewards and operators appear in **Chapter Eleven, section 5 — Authorized Roles, Competency Development, and Contribution**.
 
-They also appear in **[corpus_systems.md](corpus_systems.md), Chapter S3 — Critical System Stewardship**.
+They also appear in **[corpus_systems.md](corpus_systems.md), CS-5 — Critical system stewardship**.
 
 Principle-layer **framing** for **distributed understanding** and **consequential stewardship** appears at **[§5.2 Stewardship and Distributed Understanding](#52-stewardship-and-distributed-understanding)**.
 

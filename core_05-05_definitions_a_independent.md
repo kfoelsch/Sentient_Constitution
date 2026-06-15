@@ -406,7 +406,7 @@ Independent Definitions must not fragment, isolate, or redistribute compliance i
 
 <br>
 
-- O: Governance intensity, [oversight](core_05-05_definitions_a_independent.md#oversight-constitutional) depth, verification burden, and procedural rigor must scale with [material impact](core_05-05_definitions_b_semi_independent.md#material-impact), [dependency](#dependency), and [risk](#risk). Scaling follows system classification and implementation file criteria, including *[corpus_systems.md](corpus_systems.md)*, Chapter S2 — System Classification and Handling, and dependent provisions.
+- O: Governance intensity, [oversight](core_05-05_definitions_a_independent.md#oversight-constitutional) depth, verification burden, and procedural rigor must scale with [material impact](core_05-05_definitions_b_semi_independent.md#material-impact), [dependency](#dependency), and [risk](#risk). Scaling follows system classification and implementation file criteria, including *[corpus_systems.md](corpus_systems.md)*, CS-4 — System classification and handling, and dependent provisions.
 <a id="classification-scaled-governance-e"></a>
 - E: Apply the operative classification under implementation file rules together with [Materiality Determination](core_05-05_definitions_b_semi_independent.md#materiality-determination) and [System Boundary Integrity](core_05-05_definitions_b_semi_independent.md#system-boundary-integrity). Self-assigned or informal low classification is not sufficient where full functional effects warrant higher [Oversight](core_05-05_definitions_a_independent.md#oversight-constitutional) or governance.
 <a id="classification-scaled-governance-c"></a>
@@ -793,7 +793,7 @@ Independent Definitions must not fragment, isolate, or redistribute compliance i
 
 <a id="incentive-alignment-implementation-routing-and-operational-hooks-e"></a>
 - E: Full system-level incentive analysis remains governed by adopted implementation requirements on incentive alignment and mechanism integrity, incorporated via Chapter Fourteen. This definition supplies tracing for constitutional compliance determinations that invoke incentives at the interdependent layer. Operational expectations for materially impactful venues appear in:
-  - `corpus_systems.md` (Chapter S3 — Critical System Stewardship, including incentive-scaled governance)
+  - `corpus_systems.md` (CS-5 — Critical system stewardship, including incentive-scaled governance)
   - `corpus_institutions.md` (institutional stewardship and incentive alignment requirements)
 
 ---
@@ -854,7 +854,7 @@ Independent Definitions must not fragment, isolate, or redistribute compliance i
   <a id="innovation-reward-and-anti-enclosure-anti-enclosure-non-compliance-c"></a>
 - C: Non-compliant:
   - Durable or open-ended exclusion; strategic non-use; trolling; artificial scarcity; or reward claims that materially block repair, security testing, interoperability, migration, education, research, truthful scrutiny, or public-interest implementation.
-  - Continued exclusion of a [Dependency](#dependency)-critical innovation without class-scaled tightening, conversion to access-preserving reward, or sunset under [corpus_systems.md](corpus_systems.md), Chapter S2 — System Classification and Handling.
+  - Continued exclusion of a [Dependency](#dependency)-critical innovation without class-scaled tightening, conversion to access-preserving reward, or sunset under [corpus_systems.md](corpus_systems.md), CS-4 — System classification and handling.
   - Exclusion that creates [Systemic Lock-In](core_05-05_definitions_b_semi_independent.md#systemic-lock-in), anti-competitive bottlenecks, material [Harm](core_05-05_definitions_c_dependent_clusters.md#harm), or avoidable dependence on a single claimant where less-restrictive reward tools would work as well or better.
   - Reward claims resting on concealment, inadequate disclosure, or pretextual restriction beyond what Chapter One and Chapter Ten justify.
 

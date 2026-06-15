@@ -299,7 +299,7 @@ This Article states the Rights-Floor for **exceptional institutional power**: co
   - less intrusive means are not reasonably sufficient;
   - the use remains necessary, proportionate, time-bounded, and independently reviewable.
 - **No generalized population surveillance:** Persistent or population-scale surveillance, tracking, pattern extraction, or cross-context identity linkage is prohibited absent a demonstrated and extraordinary justification.
-  - Any such justification must satisfy this chapter, **Chapter One**, **Chapter Five**, and **[corpus_systems.md](corpus_systems.md), Chapter S1 — Information Types and Handling** and **Chapter S2 — System Classification and Handling** where applicable.
+  - Any such justification must satisfy this chapter, **Chapter One**, **Chapter Five**, and **[corpus_systems.md](corpus_systems.md), CS-3 — Information types and handling** and **CS-4 — System classification and handling** where applicable.
 - **Protected-activity shield:** Heightened protection covers:
   - political participation;
   - lawful opposition;
@@ -418,7 +418,7 @@ This Article states the Rights-Floor for **exceptional institutional power**: co
 
 - Upstream: Principles: Chapter One [3.1 Safety](core_00-01_principles.md#31-safety-harm-constraint), [4. Trust](core_00-01_principles.md#4-system-stability-enabler-trust-coordination-integrity), [6.1.1 Proportionality](core_00-01_principles.md#611-proportionality), [6.1.2 Necessity](core_00-01_principles.md#612-necessity), [7.2.1 Alignment Requirement](core_00-01_principles.md#721-alignment-requirement), [9. Prohibition on Absolute Override](core_00-01_principles.md#9-prohibition-on-absolute-override).
 - Downstream: **Article I-D** existential-risk scrutiny, **Article IX-A** freedom from manipulation, **Article XIII-A** covert-power limits, **Article XIII-B** overt-force floor, **Article XII-A** reliability and trustworthiness baseline (systems-layer counterpart), **Article XII-E** autonomy-stewardship and autonomy-scaling, **Article XII-F** resilience and self-healing baseline. Cross-reference: **Article XXIII-B** (*Categorical prohibition of irreversible deprivation of life as a justice measure*) and Chapter Five *[Irreversible Deprivation Measure](core_05-05_definitions_c_dependent_clusters.md#irreversible-deprivation-measure-constitutional)* — this Article does not authorize, broaden, or supply a constitutional predicate for irreversible deprivation measures; see *Non-Conflation* below.
-- Read with: [Chapter Five §3.13 *Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm*](core_05-05_definitions_c_dependent_clusters.md#use-of-force-autonomous-coercion-and-mass-harm-cluster) (joint invocation where materially implicated); Chapter Five *Autonomous Lethal System*, *Autonomous Coercion Tool*, *[Irreversible Deprivation Measure](core_05-05_definitions_c_dependent_clusters.md#irreversible-deprivation-measure-constitutional)*, *Coercion and Manipulation*, *Reversibility*. Systems-layer implementation: **[corpus_systems.md](corpus_systems.md), Chapter S2** classification.
+- Read with: [Chapter Five §3.13 *Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm*](core_05-05_definitions_c_dependent_clusters.md#use-of-force-autonomous-coercion-and-mass-harm-cluster) (joint invocation where materially implicated); Chapter Five *Autonomous Lethal System*, *Autonomous Coercion Tool*, *[Irreversible Deprivation Measure](core_05-05_definitions_c_dependent_clusters.md#irreversible-deprivation-measure-constitutional)*, *Coercion and Manipulation*, *Reversibility*. Systems-layer implementation: **[corpus_systems.md](corpus_systems.md), CS-4 — System classification and handling** classification.
 
 </details>
 
@@ -459,7 +459,7 @@ This Article states the Rights-Floor for **exceptional institutional power**: co
   - **Adversarial, Scaled, and Exploited Conditions** evaluation applies.
 - **Existential-risk interaction:** Autonomous lethal systems at scales, capability levels, or deployment conditions materially implicating **Article I-D** existential-risk scrutiny are subject to that provision's heightened review.
   - Framings that treat such systems as ordinary capability-expansion rather than as **Article I-D** objects are non-compliant.
-- **Systems-layer interaction:** Operational classification, reliability, and **Chapter S2** class-scaled governance route to the systems layer — **Article XII-A** baseline and **[corpus_systems.md](corpus_systems.md), Chapter S2**.
+- **Systems-layer interaction:** Operational classification, reliability, and **CS-4 — System classification and handling** class-scaled governance route to the systems layer — **Article XII-A** baseline and **[corpus_systems.md](corpus_systems.md), CS-4 — System classification and handling**.
   - The systems-layer routing does not narrow the Rights-Floor stated here.
   - Conflicts resolve under **Chapter One §6.4.1** without narrowing the Rights Floor.
 - **Non-conflation:** This Article sets heightened-scrutiny floor discipline for autonomous lethal systems and autonomous coercion tools. It does **not** govern **irreversible deprivation of life imposed by a state or comparable actor as a justice measure or comparable non-combat outcome**.
@@ -582,7 +582,7 @@ Epistemic integrity operates as both a right and a system-wide constraint. Where
   Where disclosure is restricted under **Chapter One §6.2**, limits must remain narrowly scoped, time-limited, and reviewable.
 - **Footprint data:** Reporting under this subsection implements transparency for **Ecological Footprint** as defined in **Chapter Five**.
   - All sentients must have access to transparent, decision-usable reporting.
-  - **Class A**, **Class B**, and **Class C** systems, as defined in **[corpus_systems.md](corpus_systems.md), Chapter S2 — System Classification and Handling**, must provide the same access.
+  - **Class A**, **Class B**, and **Class C** systems, as defined in **[corpus_systems.md](corpus_systems.md), CS-4 — System classification and handling**, must provide the same access.
   - Reporting must cover energy and resource consumption and estimated impacts on the natural world in a manner sufficient for comparison, audit, and footprint-reduction activity.
 
 ### Article XV: Audit, Transparency, and Independent Verification
@@ -927,7 +927,7 @@ Further elaboration appears in **[corpus_systems.md](corpus_systems.md), Protoco
     - educationally foundational;
     - safety-relevant;
     - primarily used as shared cultural or informational infrastructure.
-- **Classification-scaled innovation treatment:** Innovation reward must scale with system class, dependency, and coordination effects under **[corpus_systems.md](corpus_systems.md), Chapter S2 — System Classification and Handling**.
+- **Classification-scaled innovation treatment:** Innovation reward must scale with system class, dependency, and coordination effects under **[corpus_systems.md](corpus_systems.md), CS-4 — System classification and handling**.
   - For **Class A**, **Class B**, and **Class C** systems, access-preserving reward mechanisms are strongly preferred. Exclusion must remain especially narrow, rapidly reviewable, and easy to override where continuity, interoperability, repair, or public-interest implementation is materially implicated.
   - Lower-dependency innovation outside those classes may use somewhat broader temporary exclusion where disclosure is real, switching costs are low, and anti-lock-in safeguards remain effective.
 - **Disclosure condition and public-interest floor:** Reward claims require disclosure sufficient for independent understanding, audit, and later reproduction, subject only to justified temporary limits under **Chapter One** and **Article XVI-A**.
@@ -948,7 +948,7 @@ Further elaboration appears in **[corpus_systems.md](corpus_systems.md), Protoco
   - constitutional safety, audit, or compliance mechanisms.
   
   In those domains, institutions should prefer direct reward, pooled access, compulsory licensing, public buyout, or equivalent mechanisms that preserve implementation, repair, and broad diffusion.
-- **Reclassification and tightening:** Where an innovation initially treated as lower-dependency later becomes a dependency-critical coordination layer — for example, a platform, protocol, model, marketplace, or payment rail — institutions must reassess it under the applicable **Chapter S2** class.
+- **Reclassification and tightening:** Where an innovation initially treated as lower-dependency later becomes a dependency-critical coordination layer — for example, a platform, protocol, model, marketplace, or payment rail — institutions must reassess it under the applicable **CS-4 — System classification and handling** class.
   - Reassessment may narrow, convert, or terminate remaining exclusion where continued exclusivity would create:
     - coercive lock-in;
     - anti-competitive bottlenecks;
