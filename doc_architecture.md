@@ -1,6 +1,6 @@
 # Constitution document architecture
 
-This file is the **map of the territory** for the constitution corpus. Use it when editing the numbered `core_*` Sentient Constitution files (inventory in [README.md](README.md)), plus [corpus_joint_structure.md](corpus_joint_structure.md) and its linked `corpus_joint_structure/` subfiles, [corpus_systems.md](corpus_systems.md), [corpus_institutions.md](corpus_institutions.md) and its linked `corpus_institutions/` subfiles, and [corpus_forum.md](corpus_forum.md) and its linked `corpus_forum/` subfiles, to decide where new material belongs, how to cross-reference, and what is still unwritten. Those Markdown files are the **authoritative corpus**. They are defined as **Corpus** in Chapter Five — [§1 *Independent Definitions*](core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) in [core_05-05_definitions_a_independent.md](core_05-05_definitions_a_independent.md); [§2 *Semi-independent Definitions*](core_05-05_definitions_b_semi_independent.md#section-2-semi-independent-definitions) in [core_05-05_definitions_b_semi_independent.md](core_05-05_definitions_b_semi_independent.md); and [§3 *Dependent clusters*](core_05-05_definitions_c_dependent_clusters.md#section-3-dependent-clusters-clustered-definitions) in [core_05-05_definitions_c_dependent_clusters.md](core_05-05_definitions_c_dependent_clusters.md) — and they are where structure, headings, and cross-references live. Retired bookmark-only wrapper names (`core_constitution.md`, `core_definitions.md`, `core_amendment.md`) may appear in older notes or forks; they are **not** authoritative editing surfaces—always change the numbered `core_*` files.
+This file is the **map of the territory** for the constitution corpus. Use it when editing the numbered `core_*` Sentient Constitution files (inventory in [README.md](README.md)), plus [corpus_joint_structure.md](corpus_joint_structure.md) and its linked `corpus_joint_structure/` subfiles, [corpus_systems.md](corpus_systems.md) and its linked `corpus_systems/` subfiles, [corpus_institutions.md](corpus_institutions.md) and its linked `corpus_institutions/` subfiles, and [corpus_forum.md](corpus_forum.md) and its linked `corpus_forum/` subfiles, to decide where new material belongs, how to cross-reference, and what is still unwritten. Those Markdown files are the **authoritative corpus**. They are defined as **Corpus** in Chapter Five — [§1 *Independent Definitions*](core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) in [core_05-05_definitions_a_independent.md](core_05-05_definitions_a_independent.md); [§2 *Semi-independent Definitions*](core_05-05_definitions_b_semi_independent.md#section-2-semi-independent-definitions) in [core_05-05_definitions_b_semi_independent.md](core_05-05_definitions_b_semi_independent.md); and [§3 *Dependent clusters*](core_05-05_definitions_c_dependent_clusters.md#section-3-dependent-clusters-clustered-definitions) in [core_05-05_definitions_c_dependent_clusters.md](core_05-05_definitions_c_dependent_clusters.md) — and they are where structure, headings, and cross-references live. Retired bookmark-only wrapper names (`core_constitution.md`, `core_definitions.md`, `core_amendment.md`) may appear in older notes or forks; they are **not** authoritative editing surfaces—always change the numbered `core_*` files.
 
 ---
 
@@ -129,9 +129,11 @@ Required gate conditions before any rename:
 
 **CI filename convention:** files inside `corpus_institutions/` use the `ci_` prefix and an ordinal navigation stem, matching the CJS and CF subfile conventions. The ordinal stem is a file-order/navigation aid only; it does not change stable in-text labels such as **CI-1** (*Scope, purpose, and legitimacy interface*), **CI-12** (*Transparency, participation, and accessible pathways*), or **CI-26** (*Compliance mapping and stable registry*).
 
+**CS filename convention:** files inside `corpus_systems/` use the `cs_` prefix and a navigation stem, matching the CJS, CI, and CF subfile conventions. The stem is a file-order/navigation aid only; it does not change stable in-text labels such as **Chapter S1** (*Information Types and Handling*), **Chapter S2** (*System Classification and Handling*), **Chapter S3** (*Critical System Stewardship*), or named protocols (**Protocol A**, **Protocol B**, **Protocol C**, **Protocol S4**, **Protocol S5**, **Protocol T**, **Protocol R**, **Protocol D**).
+
 **Pre-adoption numbering preference:** until initial adoption of the constitution, prefer clean renumbering over compatibility-preserving suffixes or legacy anchor retention when renumbering improves readability, maintainability, or release quality. After initial adoption, treat stable references as stronger constraints and use compatibility-preserving moves unless the adopting authority approves a renumbering migration.
 
-**Corpus navigation footer convention:** every active corpus Markdown file in the reading chain ends with a footer in the form `**Next file:** [filename](path)`. The footer is navigation-only and non-operative. Maintain the sequence from `README.md` through the numbered `core_*` files, the joint-structure wrapper and active `cjs_00` through `cjs_05*` subfiles, the institutions wrapper and active `ci_01` through `ci_26` subfiles, the implementation files and active `cf_00` through `cf_15` subfiles, and this architecture map back to `README.md`.
+**Corpus navigation footer convention:** every active corpus Markdown file in the reading chain ends with a footer in the form `**Next file:** [filename](path)`. The footer is navigation-only and non-operative. Maintain the sequence from `README.md` through the numbered `core_*` files, the joint-structure wrapper and active `cjs_00` through `cjs_05*` subfiles, the systems wrapper and active `cs_01` through protocol/chapter subfiles, the institutions wrapper and active `ci_01` through `ci_26` subfiles, the forum wrapper and active `cf_00` through `cf_15` subfiles, and this architecture map back to `README.md`.
 
 **Authority stack (quick reference):**
 1. **Binding constitutional source:** the numbered `core_*` constitutional files read together as one instrument. Chapters Two through Four meaning and validity constraints live in `core_02-04_definition_mechanics.md`; Chapter Five lives in `core_05-05_definitions_a_independent.md` (§1), `core_05-05_definitions_b_semi_independent.md` (§2), and `core_05-05_definitions_c_dependent_clusters.md` (§3).
@@ -667,16 +669,9 @@ For a **redundancy sweep**, use the same **center-out** order but anchored on **
 
 ---
 
-## 11. Future optional file split
+## 11. Systems file split (executed)
 
-If [corpus_systems.md](corpus_systems.md) grows further, split along natural implementation file boundaries—for example:
-
-- `constitutional-systems-s1-information.md`
-- `constitutional-systems-s2-classification.md`
-- `constitutional-systems-s3-stewards.md`
-- `constitutional-systems-protocols.md` (A, B, S4, S5)
-
-Keep **this file** as the index; update **sections 5–6** (stable ID tables) with any new filenames.
+[corpus_systems.md](corpus_systems.md) is now a compatibility entrypoint. Substantive CS text lives in `corpus_systems/` subfiles indexed by the wrapper (**section 6** stable IDs unchanged). Broad references to `corpus_systems.md` continue to mean the systems implementation file as a whole.
 
 ---
 
