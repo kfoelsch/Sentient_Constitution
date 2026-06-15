@@ -75,7 +75,7 @@ Read it with:
 - **CJS-5.9 — Auditability**
 - **CJS-5.23** (*Implementation and cross-implementation structural review, correction urgency, and disclosure terms*) and **CJS-5.8** (*Implementation and cross-implementation integrity assurance and resilience operations*) — Evolution, Revalidation, and Non-Entrenchment
 - **CJS-5.7 — Procedural Integrity and Adjudication**
-- `corpus_systems.md` **Chapter S3**
+- `corpus_systems.md` **CS-5 — Critical system stewardship**
 
 Implementation and cross-implementation distributed and proportional authority terms
 - OP-O: Authority, oversight, and verification must be distributed, transparent, and resistant to capture.
@@ -109,7 +109,7 @@ Stewardship-role depth and non-symbolic governance boundary
 
 Constitutional lane and functional separation
 - OP-O: A constitutional lane is a published functional separation with constitutionally binding duties. Required lanes include direction and policy, execution, challenge and review, assurance and audit, and publication and evidence work. One institution may host more than one lane only when independence safeguards are documented, auditable, and contestable.
-- OP-E: Reviewers must verify each lane's published function, host institution, binding duties, independence safeguards, accountable roles, and relationship to any system-class or stewardship burden under `corpus_systems.md` **Chapter S2** or **Chapter S3**. Institution-specific authority custody, non-delegable duties, and local delegation controls remain with **CI-3** (*Institutional design, separation of powers, and authority custody*).
+- OP-E: Reviewers must verify each lane's published function, host institution, binding duties, independence safeguards, accountable roles, and relationship to any system-class or stewardship burden under `corpus_systems.md` **CS-4 — System classification and handling** or **CS-5 — Critical system stewardship**. Institution-specific authority custody, non-delegable duties, and local delegation controls remain with **CI-3** (*Institutional design, separation of powers, and authority custody*).
 - OP-C: A lane is non-compliant if it is undefined, merged, or staffed in a way that defeats required separation, auditability, challenge, succession, or binding role accountability.
 
 Formation and authorization proportionality floor
@@ -118,7 +118,7 @@ Formation and authorization proportionality floor
 - OP-C: Formation design is non-compliant if it imposes arbitrary friction on low-impact organization, under-scrutinizes high-impact or high-dependency authority, hides compliance cost, or separates authorization from the classification, stewardship, dependency, and contest-integrity facts that determine burden.
 
 Classification-scaled governance burden
-- OP-O: Where an institution's duties depend on `corpus_systems.md` **Chapter S2** classes or **Chapter S3** stewardship tiers, governance burden must scale with the applicable class and tier profile.
+- OP-O: Where an institution's duties depend on `corpus_systems.md` **CS-4 — System classification and handling** classes or **CS-5 — Critical system stewardship** stewardship tiers, governance burden must scale with the applicable class and tier profile.
 - OP-E: Evaluation must verify that formation, authorization, oversight, assurance, mapping, delegated-subunit, and related institutional duties reflect the operative classification profile for affected scope.
 - OP-C: It is non-compliant to apply a lower institutional burden than the highest applicable class or tier for affected duties, or to treat multiple classes or tiers as if the lowest burden governs when a stricter burden applies.
 
@@ -349,13 +349,13 @@ Incentive proof, residual misalignment, and scaling
 - OP-C: Claims of alignment that cannot be tested against behavior, records, or outcomes are insufficient. Conditional or partial compliance is unavailable if residual incentives foreseeably produce irreversible, large-scale, cross-boundary, or Rights-Floor harm under adversarial, scaled, strategic, or degraded conditions.
 
 Class-aligned revenue and access-burden floor
-- OP-O: Taxes, fees, subscriptions, user charges, commercial-use surcharges, priority fees, or similar revenue measures that materially affect access to a governed system, institution, forum pathway, or implementation interface must align with `corpus_systems.md` **Chapter S2** system class, dependency, and rights-pathway risk. General extraction must not make **Class A** survival access, **Class B** normal-operation-critical access, baseline rights pathways, or ordinary access to infrastructure-like **Class C** coordination practically unavailable.
+- OP-O: Taxes, fees, subscriptions, user charges, commercial-use surcharges, priority fees, or similar revenue measures that materially affect access to a governed system, institution, forum pathway, or implementation interface must align with `corpus_systems.md` **CS-4 — System classification and handling** system class, dependency, and rights-pathway risk. General extraction must not make **Class A** survival access, **Class B** normal-operation-critical access, baseline rights pathways, or ordinary access to infrastructure-like **Class C** coordination practically unavailable.
 - OP-E: Reviewers must evaluate classification, essentiality, dependency, fee basis, disclosure, contestability, priority rules, externalized costs, commercial-scale use, concentration or gatekeeper rents, and reclassification evidence together. Commercial API, compute, bandwidth, queue-priority, model-access, or high-volume interface charges should be assessed against whether they place costs on discretionary, commercial, bulk, premium, externality-generating, or revenue-generating use rather than on baseline participation or protected access. Where a **Class C** system becomes de facto necessary for **Class A** or **Class B** dependents, fiscal treatment must be reviewed with classification.
 - OP-C: A revenue or charge structure is non-compliant if it uses survival-relevant, normal-operation-critical, baseline rights-pathway, or infrastructure-like coordination access as the primary extraction point; makes essential-like access prohibitively costly or administratively exclusionary; hides or mislabels the burden; lacks a usable contest route; discriminates outside lawful and disclosed use categories; or fails to re-evaluate classification and charge treatment when dependence or essentiality materially changes.
 
 Survival-critical access and voluntary-market interface
 - OP-O: Where survival-critical access, essential resources, housing, connectivity, or comparable baseline participation depends on a governed system, public program, market interface, or supervised commercial pathway, the baseline floor must not be made contingent on labor, market participation, premium access, or discretionary purchasing. Voluntary exchange, entrepreneurship, cooperative production, and saving may operate above the floor only within constitutional and incorporated constraints.
-- OP-E: Reviewers must compare access design, public revenue, user charges, market infrastructure, eligibility, fraud control, regional adequacy, cost-of-living or comparable local measures, and systems classification together. Where market plumbing, pricing, securities, licensing, or platform infrastructure materially conditions baseline access, review must include `corpus_systems.md` **Chapter S2** and **Chapter S3** classification and stewardship duties.
+- OP-E: Reviewers must compare access design, public revenue, user charges, market infrastructure, eligibility, fraud control, regional adequacy, cost-of-living or comparable local measures, and systems classification together. Where market plumbing, pricing, securities, licensing, or platform infrastructure materially conditions baseline access, review must include `corpus_systems.md` **CS-4 — System classification and handling** and **CS-5 — Critical system stewardship** classification and stewardship duties.
 - OP-C: An access or market arrangement is non-compliant if baseline survival access is practically conditioned on labor or market participation, if nominal floor amounts ignore material place-based necessity without justification, if market infrastructure evades classification-scaled stewardship, or if revenue design shifts the primary burden onto indispensable access contrary to the class-aligned revenue floor.
 
 Restriction-burden assignment floor
@@ -505,7 +505,7 @@ Read it with:
 - **CJS-5.9 — Auditability**
 - **CJS-5.10 — Tiered Transparency and Audit Access**
 - **CJS-5.3 — Intervention governance and override authorization**
-- `corpus_systems.md` **Chapter S1** and **Chapter S2**
+- `corpus_systems.md` **CS-3 — Information types and handling** and **CS-4 — System classification and handling**
 - `corpus_institutions.md`
 - `corpus_forum.md`
 

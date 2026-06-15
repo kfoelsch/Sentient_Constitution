@@ -149,7 +149,7 @@ This file does not create a separate authority stack. Use the constitutional **A
 
 <br>
 
-Implementation-file identifiers are local navigation labels, not Sentient Constitution **Article** numbers. **CJS**, **CI**, and **CF** labels point to corpus implementation sections; `corpus_systems.md` uses named **Protocols** and **Chapter S** labels for its systems-and-data taxonomy. The editor abbreviation **CS** may appear in owner tables, stable IDs, and short routing references, but systems headings should be cited by filename plus protocol or Chapter S label where practical.
+Implementation-file identifiers are local navigation labels, not Sentient Constitution **Article** numbers. **CJS**, **CI**, and **CF** labels point to corpus implementation sections; `corpus_systems.md` uses named **Protocols** and **CS-3–CS-5** labels for its systems-and-data taxonomy. The editor abbreviation **CS** may appear in owner tables, stable IDs, and short routing references, but systems headings should be cited by filename plus protocol or CS section label where practical.
 
 Within this file, headings use **CJS-1** (*Scope, purpose, and boundary interface*) through **CJS-5** (*Implementation and cross-implementation operational cluster library*), meaning *Corpus joint structure* section *n*. Subsections use **CJS-*n*.*m***, such as **CJS-2.1** (*Topic router (stable IDs)*). The abbreviation **CJS** matches `doc_architecture.md`, where it means the *Corpus joint structure* implementation file.
 

@@ -424,7 +424,7 @@ Read it with:
 - **CJS-5.21** (*Implementation and cross-implementation reversibility and containment terms*) and **CJS-5.18** (*Implementation and cross-implementation data-retention and lifecycle-integrity terms*) — Reversibility and Containment
 - **CJS-5.23** (*Implementation and cross-implementation structural review, correction urgency, and disclosure terms*) and **CJS-5.8** (*Implementation and cross-implementation integrity assurance and resilience operations*) — Evolution, Revalidation, and Non-Entrenchment
 - **CJS-5.4** (*Implementation and cross-implementation reflexive transparency and accountability terms*) and **CJS-5.8** (*Implementation and cross-implementation integrity assurance and resilience operations*) — Reflexive Transparency and Accountability
-- `corpus_systems.md` **Chapter S1** and **Chapter S2**
+- `corpus_systems.md` **CS-3 — Information types and handling** and **CS-4 — System classification and handling**
 - Owner-layer-specific monitoring or publication duties.
 
 Implementation and cross-implementation structural review, correction urgency, and disclosure terms

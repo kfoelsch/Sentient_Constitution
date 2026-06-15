@@ -85,7 +85,7 @@ Criticality and impact classification
 - OP-C: **Class A, Class B, and Class C** mission-impacting dependencies must be clearly identified, monitored, audited, and periodically reviewed. Dependencies that are critical to safety, rights, access, continuity, or systemic stability may not be left unclassified or treated as ordinary vendor or interface choices.
 
 Domain and sector classification mapping
-- OP-O: Where an implementation authority regulates, supervises, charters, funds, or materially relies on major domains or sectors, it must map those domains against applicable `corpus_systems.md` **Chapter S2** classes and **Chapter S3** stewardship tiers using the canonical domain taxonomy where one applies. The map must identify domains present in governed scope, split classifications or tiers, survival-relevant, operationally critical, or coordination-critical domains, and reclassification triggers when dependency criticality, cascade risk, or historical treatment changes.
+- OP-O: Where an implementation authority regulates, supervises, charters, funds, or materially relies on major domains or sectors, it must map those domains against applicable `corpus_systems.md` **CS-4 — System classification and handling** classes and **CS-5 — Critical system stewardship** stewardship tiers using the canonical domain taxonomy where one applies. The map must identify domains present in governed scope, split classifications or tiers, survival-relevant, operationally critical, or coordination-critical domains, and reclassification triggers when dependency criticality, cascade risk, or historical treatment changes.
 - OP-E: Reviewers must verify that domain maps cover material sectors such as food, extractive, built-environment, energy, transport, manufacturing, health, communications, finance, insurance, education, and knowledge infrastructure where present, and that the map supports proportional burden, audit, oversight, purchasing, participation, and exit planning rather than serving as a static label.
 - OP-C: Domain mapping is non-compliant if unlabeled, ad hoc, obsolete, or selectively applied sector categories hide dependency criticality, evade classification-scaled burdens, obscure review, or impose inconsistent treatment on comparable activities without a documented proportional basis.
 
@@ -152,9 +152,9 @@ Read it with:
 - **CJS-5.17 — Interoperability, Portability, and Exit Integrity**
 - **CJS-5.16 — Dependency Awareness, Disclosure, and Risk Integrity**
 - **CJS-5.15 — Transparency and Disclosure**
-- `corpus_systems.md` **Chapter S1 — Information Types and Handling**
-- `corpus_systems.md` **Chapter S2 — System Classification and Handling**
-- `corpus_systems.md` **Chapter S3 — Critical System Stewardship**
+- `corpus_systems.md` **CS-3 — Information types and handling**
+- `corpus_systems.md` **CS-4 — System classification and handling**
+- `corpus_systems.md` **CS-5 — Critical system stewardship**
 - **Article XIX**
 - **Article XV-A**
 
@@ -273,7 +273,7 @@ Read it with:
 - **CJS-5.11 — Independent Verification and Integrity of Claims**
 - **CJS-5.21** (*Implementation and cross-implementation reversibility and containment terms*) and **CJS-5.18** (*Implementation and cross-implementation data-retention and lifecycle-integrity terms*) — Reversibility and Containment
 - **CJS-5.23** (*Implementation and cross-implementation structural review, correction urgency, and disclosure terms*) and **CJS-5.8** (*Implementation and cross-implementation integrity assurance and resilience operations*) — Evolution, Revalidation, and Non-Entrenchment
-- `corpus_systems.md` **Chapter S1 — Information Types and Handling**, including Types **C**, **G**, **H**, **I**, **N**, and **S**
+- `corpus_systems.md` **CS-3 — Information types and handling**, including Types **C**, **G**, **H**, **I**, **N**, and **S**
 - **CJS-3.5 — Classification alignment for supervised scope**
 
 Implementation and cross-implementation data-retention and lifecycle-integrity terms
@@ -312,8 +312,8 @@ Transition continuity and authority-transfer lifecycle integrity
 - OP-C: A transition lifecycle is non-compliant if interim authority becomes indefinite without recorded reauthorization, if evidence or challenge pathways are lost during transfer, if unresolved risks are concealed, or if redesign creates a governance gap that makes rights, services, records, or remedies unusable in practice.
 
 Classification and information-type alignment
-- OP-O: If accumulated, linked, or inferred data changes its **Chapter S1 — Information Types and Handling** data type or becomes more sensitive in practice, stricter protections apply.
-- OP-E: Reviewers must verify alignment with **Chapter S1 — Information Types and Handling** data-type duties and **CJS-3.5 — Classification alignment for supervised scope** where supervision and systems classification overlap.
+- OP-O: If accumulated, linked, or inferred data changes its **CS-3 — Information types and handling** data type or becomes more sensitive in practice, stricter protections apply.
+- OP-E: Reviewers must verify alignment with **CS-3 — Information types and handling** data-type duties and **CJS-3.5 — Classification alignment for supervised scope** where supervision and systems classification overlap.
 - OP-C: Continuing to use lower-type or lower-class handling after sensitivity has increased is non-compliant.
 
 Transparency disclosures and stakeholder legibility
