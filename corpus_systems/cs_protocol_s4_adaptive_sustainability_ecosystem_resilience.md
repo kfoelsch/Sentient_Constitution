@@ -94,6 +94,6 @@ Where this subsection is silent, Protocol A subsection **H**, Chapter One §4.1,
 
 ---
 
----
+**Previous file:** [cs_s3_critical_system_stewardship.md](cs_s3_critical_system_stewardship.md)
 
 **Next file:** [cs_protocol_s5_resource_allocation_funding_stewardship.md](cs_protocol_s5_resource_allocation_funding_stewardship.md)

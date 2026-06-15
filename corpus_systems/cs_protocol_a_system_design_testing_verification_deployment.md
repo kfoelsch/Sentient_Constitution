@@ -242,4 +242,6 @@ This subsection is an operational profile. It does not create rights and must no
 
 ---
 
+**Previous file:** [cs_01_scope_purpose_identifier_rules.md](cs_01_scope_purpose_identifier_rules.md)
+
 **Next file:** [cs_protocol_b_system_comprehensibility_complexity_stewardship.md](cs_protocol_b_system_comprehensibility_complexity_stewardship.md)

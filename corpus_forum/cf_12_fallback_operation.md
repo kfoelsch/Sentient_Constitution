@@ -145,4 +145,6 @@ Restoration from family-capture continuity requires independent findings that th
 
 ---
 
+**Previous file:** [cf_11_forum_continuity.md](cf_11_forum_continuity.md)
+
 **Next file:** [cf_13_emergency_adjudication.md](cf_13_emergency_adjudication.md)

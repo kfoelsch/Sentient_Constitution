@@ -2,6 +2,8 @@
 
 This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one instrument. It contains **Chapters Twelve through Fourteen**; chapter numbering and cross-references match the integrated instrument. Reading order, the binding/support split, and corpus edition metadata are maintained in [README.md](README.md).
 
+**Application baseline.** Chapters Twelve through Fourteen apply subject to the Rights Floor in [Chapter Ten](core_10-10_rights_part_a.md#chapter-ten-foundational-rights) through [Part D](core_10-10_rights_part_d.md), definition and verification discipline in [Chapters Two through Five](core_02-04_definition_mechanics.md), and legitimacy requirements in [Chapter Eleven](core_11-11_governance.md#chapter-eleven-constitutional-contract-legitimacy-authorization-and-stewardship).
+
 ---
 
 ## CHAPTER TWELVE: NON-REGRESSION AND SUBSTANTIVE AMENDMENT VALIDITY
@@ -636,10 +638,6 @@ This chapter states **procedural and custody** validity and invalid-change-handl
 - **sanction taxonomy** or adjudicative workflow, which remains in the owner layers identified by **Chapter Twelve, section 4** (*Scope Limit and Layer Discipline*).
 
 Any review-trigger, escalation-trigger, or referral-trigger language in this chapter — including mandatory escalation language in **section 7** (*Review Triggers*) and in **section 9** (*Invalid-Change Handling and Remediation Continuity*) — operates as a **trigger or referral heuristic** for routing to the canonical owners named above and is **non-canonical** for final offense classification. Future additions to this chapter that touch offense-flavored or sanction-flavored language must include an explicit non-relocation pointer to the **Chapter Six** general-classification home and the **Chapter Eight** final **Violation Axis s = 7, 8, or 9** classification home, preserving the layer boundary stated in **Chapter Twelve, section 4**.
-
----
-
-*Corpus alignment:* edition `SC-Corpus-2026.04.29`, effective **2026-04-17**; canonical mapping in [doc_architecture.md](doc_architecture.md) **section 17**.
 
 ---
 

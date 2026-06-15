@@ -30,7 +30,6 @@ Name the local owner for civic infrastructure, voluntary-association programs, a
 
 ---
 
----
-
 **Previous file:** [ci_17_scientific_publication_peer_review_replication_evidence_stewardship.md](ci_17_scientific_publication_peer_review_replication_evidence_stewardship.md)
+
 **Next file:** [ci_19_end_of_life_continuity_memorial_dignity_posthumous_data.md](ci_19_end_of_life_continuity_memorial_dignity_posthumous_data.md)

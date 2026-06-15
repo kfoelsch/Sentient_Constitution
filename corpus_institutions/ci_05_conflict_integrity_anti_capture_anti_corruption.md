@@ -60,7 +60,6 @@ This subsection names institutional trigger labels for **CI-5** control maps and
 
 ---
 
----
-
 **Previous file:** [ci_04_appointment_competency_rotation_removal.md](ci_04_appointment_competency_rotation_removal.md)
+
 **Next file:** [ci_06_procedure_integrity_contestability_secondary_review.md](ci_06_procedure_integrity_contestability_secondary_review.md)

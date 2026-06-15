@@ -34,7 +34,6 @@
 
 ---
 
----
-
 **Previous file:** [ci_21_relational_coercive_control_intimate_power_anti_domination.md](ci_21_relational_coercive_control_intimate_power_anti_domination.md)
+
 **Next file:** [ci_23_place_based_stewardship_indigenous_continuity_consultation.md](ci_23_place_based_stewardship_indigenous_continuity_consultation.md)

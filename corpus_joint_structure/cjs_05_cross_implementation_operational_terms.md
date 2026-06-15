@@ -159,4 +159,6 @@ Delegated body and forum-role pointer
 
 ---
 
+**Previous file:** [cjs_04_specific_joint_interlocks.md](cjs_04_specific_joint_interlocks.md)
+
 **Next file:** [cjs_05a_00_authority_constraint_secrecy_procedure.md](cjs_05a_00_authority_constraint_secrecy_procedure.md)

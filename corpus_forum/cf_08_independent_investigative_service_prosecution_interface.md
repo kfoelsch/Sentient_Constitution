@@ -116,4 +116,6 @@ Where local independence is not credible because of concentration, emergency inc
 
 ---
 
+**Previous file:** [cf_07_forum_forensic_analytical_support.md](cf_07_forum_forensic_analytical_support.md)
+
 **Next file:** [cf_09_technical_specialist_forums_specialist_chambers.md](cf_09_technical_specialist_forums_specialist_chambers.md)

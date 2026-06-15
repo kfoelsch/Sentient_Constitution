@@ -9,6 +9,19 @@ Read this file together with [core_10-10_rights_part_a.md](core_10-10_rights_par
 
 ### Part B: Personhood, education capability, agency, cooperation, and stakeholder system participation
 
+<details>
+<summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): Part B position in Chapter Ten</span></strong></summary>
+
+> The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this chapter or in other chapters.
+>
+> **Part A** in [core_10-10_rights_part_a.md](core_10-10_rights_part_a.md) carries the chapter-wide default constraint stack, planet-first reading order, interpretive hubs, and full article map. **Part B** presents **Articles V–XI** in that order.
+
+</details>
+
+<br>
+
+*In plain terms: Part B covers personhood, education, agency, cooperation, and participatory governance rights — Articles V through XI in the planet-first reading order.*
+
 ### Article V: Equal Basic Rights
 The principles of this Article constrain all interpretation, design, and operation of systems under this constitution.
 

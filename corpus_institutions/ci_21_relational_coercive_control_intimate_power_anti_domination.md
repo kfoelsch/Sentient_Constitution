@@ -30,7 +30,6 @@ Name the coercive-control intake owner; routing lanes for hotlines, labor portal
 
 ---
 
----
-
 **Previous file:** [ci_20_care_labor_dependent_support_respite_care_economy_fairness.md](ci_20_care_labor_dependent_support_respite_care_economy_fairness.md)
+
 **Next file:** [ci_22_commons_cooperatives_mutual_aid_non_market_governance.md](ci_22_commons_cooperatives_mutual_aid_non_market_governance.md)

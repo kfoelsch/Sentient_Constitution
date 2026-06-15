@@ -38,7 +38,6 @@
 
 ---
 
----
-
 **Previous file:** [ci_15_vulnerable_personal_services_markets_article_xc_interface.md](ci_15_vulnerable_personal_services_markets_article_xc_interface.md)
+
 **Next file:** [ci_17_scientific_publication_peer_review_replication_evidence_stewardship.md](ci_17_scientific_publication_peer_review_replication_evidence_stewardship.md)

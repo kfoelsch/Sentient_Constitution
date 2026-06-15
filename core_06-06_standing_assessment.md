@@ -4,6 +4,8 @@ This file is **part of the Sentient Constitution** and is **binding only togethe
 
 Upstream constitutional direction for this file begins in [core_00-01_principles.md](core_00-01_principles.md), [core_02-04_definition_mechanics.md](core_02-04_definition_mechanics.md), and [core_05-05_definitions_a_independent.md](core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions). Downstream standing-integration rules continue in [core_07-07_standing_integration.md](core_07-07_standing_integration.md). Downstream escalation and forum-allocation rules continue in [core_08-08_misconduct.md](core_08-08_misconduct.md), [core_09-09_forum.md](core_09-09_forum.md), and [core_10-10_rights_part_d.md](core_10-10_rights_part_d.md). Adopted implementation may supply interoperable tagging, schemas, and worked examples for this chapter; such materials **must not** narrow this chapter’s operative obligations.
 
+**Application baseline.** This chapter applies subject to [Chapter One](core_00-01_principles.md#chapter-01-principles-and-constraints), [Chapters Two through Four](core_02-04_definition_mechanics.md), and [Chapter Five](core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions). Standing effects and integration continue in [Chapter Seven](core_07-07_standing_integration.md#chapter-seven-standing-effects-and-integration); final top-slot anti-constitutional misconduct review continues in [Chapter Eight](core_08-08_misconduct.md#chapter-eight-anti-constitutional-misconduct).
+
 ---
 <a id="chapter-six-compliance-violation-and-standing-model"></a>
 

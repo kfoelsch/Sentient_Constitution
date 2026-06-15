@@ -4,6 +4,8 @@ This file is **part of the Sentient Constitution** and is **binding only togethe
 
 This chapter allocates **default venue** and **primary-stakes** routing (**section 2**), **forensic and analytical support** (**section 3**), **forum families** (**section 4**), **per-family intake triage** and related **routing** obligations (**section 5**), official forum responsibility for **constitutional alignment recognition and review** of new and existing systems (**sections 4, 6, and 7**), and **jurisdiction** for disputes that arise under [core_06-06_standing_assessment.md](core_06-06_standing_assessment.md) and [core_07-07_standing_integration.md](core_07-07_standing_integration.md), [core_08-08_misconduct.md](core_08-08_misconduct.md), and [core_10-10_rights_part_a.md](core_10-10_rights_part_a.md) through [core_10-10_rights_part_d.md](core_10-10_rights_part_d.md). **Granular** intake publication, docketing, staffing, budgets, and procedural requirements for triage, routing, forensic support, alignment-recognition records, and periodic revalidation remain in [corpus_forum.md](corpus_forum.md) and [corpus_systems.md](corpus_systems.md).
 
+**Application baseline.** This chapter applies subject to the standing pipeline in [Chapters Six through Eight](core_06-06_standing_assessment.md#chapter-six-compliance-violation-and-standing-model) and the Rights Floor in [Chapter Ten](core_10-10_rights_part_a.md#chapter-ten-foundational-rights) through [Part D](core_10-10_rights_part_d.md). Operational forum mechanics remain in designated implementation files.
+
 ---
 ## CHAPTER NINE: FORUMS AND JURISDICTION
 

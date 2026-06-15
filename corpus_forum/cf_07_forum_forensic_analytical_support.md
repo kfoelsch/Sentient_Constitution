@@ -90,4 +90,6 @@ Forum forensic support and contest-integrity monitoring are related but differen
 
 ---
 
+**Previous file:** [cf_06_integrity_safeguards_anti_capture_anti_self_judging.md](cf_06_integrity_safeguards_anti_capture_anti_self_judging.md)
+
 **Next file:** [cf_08_independent_investigative_service_prosecution_interface.md](cf_08_independent_investigative_service_prosecution_interface.md)

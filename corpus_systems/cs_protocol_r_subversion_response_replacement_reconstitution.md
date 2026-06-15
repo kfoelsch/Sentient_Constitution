@@ -107,4 +107,6 @@ Repeated activation patterns indicating potential normalization or abuse of exce
 
 ---
 
+**Previous file:** [cs_protocol_t_transition_constitution_migration_governance.md](cs_protocol_t_transition_constitution_migration_governance.md)
+
 **Next file:** [cs_protocol_d_decentralized_constitutional_continuity_partition_resilience.md](cs_protocol_d_decentralized_constitutional_continuity_partition_resilience.md)

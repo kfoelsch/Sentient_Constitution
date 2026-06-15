@@ -42,4 +42,6 @@ This file must not:
 
 ---
 
+**Previous file:** [cf_00_registry_and_reading_rules.md](cf_00_registry_and_reading_rules.md)
+
 **Next file:** [cf_02_forum_formation_tribunal_mapping_chamber_structure.md](cf_02_forum_formation_tribunal_mapping_chamber_structure.md)

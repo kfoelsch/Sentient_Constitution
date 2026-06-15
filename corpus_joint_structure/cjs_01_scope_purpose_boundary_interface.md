@@ -23,18 +23,7 @@
 
 <br>
 
-
-**Quick orientation**
-
-This file states the shared implementation-corpus contract and boundary rules for the joint-structure layer. Detailed routing lives in **CJS-2.2** (*Topic router (stable IDs)*) and `doc_architecture.md` section 4.
-
-The implementation layers named here are:
-- **CJS:** implementation, meaning the **CJS folder** and its *Cross-domain implementation layer*,
-- **CS:** `corpus_systems.md`,
-- **CI:** `corpus_institutions.md`,
-- **CF:** `corpus_forum.md`.
-
-After this orientation, **CJS-1.1** (*Shared implementation-corpus preamble contract*) supplies the shared contract that later implementation text can cite instead of repeating.
+*In plain terms: this file states how the joint-structure layer fits among **CS**, **CI**, and **CF**, and gives the shared contract other implementation files cite instead of repeating boilerplate. For the layer map and section registry, read [cjs_00_registry_and_reading_rules.md](cjs_00_registry_and_reading_rules.md).*
 
 ### CJS-1.1: Shared implementation-corpus preamble contract
 <details>
@@ -83,8 +72,9 @@ This file does not create a separate authority stack. Use the constitutional **A
 - Chapter Ten controls rights language. Implementation files implement Rights Floors and must not restate weaker versions.
 - Chapter Six controls canonical compliance, violation, and standing classification policy.
 - [corpus_systems.md](../corpus_systems.md) Chapters S1 through S3 control data types, system classes, dependency types, and steward tiers.
-- **CJS-5E.2** (*Implementation and cross-implementation intervention and override integrity terms*) and **CJS-5A.2** (*Implementation and cross-implementation intervention governance and override-authorization terms*) stay separate: **CJS-5E.2** (*Implementation and cross-implementation intervention and override integrity terms*) states technical intervention and override integrity terms, and **CJS-5A.2** (*Implementation and cross-implementation intervention governance and override-authorization terms*) states governance authorization terms.
-- **CJS-2** (*Implementation integration map*) states the read order, owner routing, and **stricter-wins** rule among **CJS**, **CS**, **CI**, and **CF**.
+- **CJS-5E.2** (*Implementation and cross-implementation intervention and override integrity terms*) and **CJS-5A.2** (*Implementation and cross-implementation intervention governance and override-authorization terms*) stay separate: **CJS-5E.2** states technical intervention and override integrity terms; **CJS-5A.2** states governance authorization terms. Both apply where relevant.
+- For cross-domain integrity routing, read **CJS-4.4** (*Cross-implementation trust integrity (joint operation model)*) and the applicable **CJS-5** operational clusters. CJS does not maintain a separate meta-obligation family.
+- For emergency and continuity questions where multiple implementation files govern the same facts, read **CJS-2** and **CJS-3.2** (*No false partial compliance across implementation files*).
 
 ### CJS-1.2: Section identifiers and article references
 <details>
@@ -227,5 +217,7 @@ Operational clusters remain local to this implementation layer:
 Any read-with cross-reference stated in the head **OP-O** applies to the whole cluster.
 
 ---
+
+**Previous file:** [cjs_00_registry_and_reading_rules.md](cjs_00_registry_and_reading_rules.md)
 
 **Next file:** [cjs_02_implementation_integration_map.md](cjs_02_implementation_integration_map.md)

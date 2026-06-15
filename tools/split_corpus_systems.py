@@ -167,6 +167,9 @@ def main() -> None:
         if index < len(SECTIONS) - 1:
             next_file = filenames[index + 1]
             chunk = chunk.rstrip() + "\n\n---\n\n"
+            if index > 0:
+                prev_file = filenames[index - 1]
+                chunk += f"**Previous file:** [{prev_file}]({prev_file})\n\n"
             chunk += f"**Next file:** [{next_file}]({next_file})\n"
         else:
             chunk = chunk.rstrip() + "\n\n---\n\n"
@@ -174,6 +177,7 @@ def main() -> None:
                 "*Corpus alignment:* edition `SC-Corpus-2026.04.32`, effective **2026-04-24**; "
                 "canonical mapping in [doc_architecture.md](../doc_architecture.md) **section 17**.\n\n"
                 "---\n\n"
+                f"**Previous file:** [{filenames[index - 1]}]({filenames[index - 1]})\n\n"
                 "**Next file:** [corpus_institutions.md](../corpus_institutions.md)\n"
             )
 

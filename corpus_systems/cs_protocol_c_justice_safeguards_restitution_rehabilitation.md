@@ -131,4 +131,6 @@ This subsection implements **non-degrading lived conditions** and **continuity o
 
 ---
 
+**Previous file:** [cs_protocol_b_system_comprehensibility_complexity_stewardship.md](cs_protocol_b_system_comprehensibility_complexity_stewardship.md)
+
 **Next file:** [cs_s1_information_types_and_handling.md](cs_s1_information_types_and_handling.md)

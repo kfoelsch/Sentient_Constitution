@@ -256,6 +256,6 @@ Dependent organizations **inherit responsibility proportional** to dependency.
 
 ---
 
----
+**Previous file:** [cs_s2_system_classification_and_handling.md](cs_s2_system_classification_and_handling.md)
 
 **Next file:** [cs_protocol_s4_adaptive_sustainability_ecosystem_resilience.md](cs_protocol_s4_adaptive_sustainability_ecosystem_resilience.md)

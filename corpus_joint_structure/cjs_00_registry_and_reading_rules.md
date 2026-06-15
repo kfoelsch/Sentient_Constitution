@@ -2,7 +2,7 @@
 
 *In plain terms: this file is the front door to the **joint-structure** rulebook — the shared glue that tells the systems, institutions, and forum implementation files how to work together when more than one of them applies to the same situation.*
 
-**Corpus edition:** `SC-Corpus-2026.04.30` · **Effective date:** 2026-04-18
+**Corpus edition:** `SC-Corpus-2026.04.32` · **Effective date:** 2026-04-24
 
 <details>
 <summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): edition, status, and where this file lives</span></strong></summary>
@@ -34,9 +34,7 @@ The joint-structure layer (**CJS**) coordinates shared interfaces among four imp
 - **CI** — [corpus_institutions.md](../corpus_institutions.md)
 - **CF** — [corpus_forum.md](../corpus_forum.md)
 
-**CJS** does not replace day-to-day rules owned only by **CS**, **CI**, or **CF**. It states how those files interlock when the same facts trigger more than one of them.
-
-Use **CJS-1.1** (*Shared implementation-corpus preamble contract*) for the shared starting rules: constitutional meanings, Rights Floors, definition mechanics, local shorthand, readability, and authority-stack limits remain controlled by the canonical sources named there.
+Scope, boundary, and the shared implementation-corpus contract live in the next file: **CJS-1.1** through **CJS-1.3** in [cjs_01_scope_purpose_boundary_interface.md](cjs_01_scope_purpose_boundary_interface.md).
 
 <details>
 <summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): routing anchors and cluster index</span></strong></summary>
@@ -113,7 +111,6 @@ These are the stable section families for the CJS folder:
 
 **Edition alignment:** The visible **Corpus edition** and **Effective date** labels must track **Corpus** labels in adopting instruments and `doc_architecture.md` corpus-alignment notes.
 
-*Corpus alignment:* edition `SC-Corpus-2026.04.30`, effective **2026-04-18**; canonical mapping in [doc_architecture.md](../doc_architecture.md) **section 17**.
 
 <details>
 <summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): maintainer and drafting notes</span></strong></summary>
@@ -130,52 +127,13 @@ These are the stable section families for the CJS folder:
 
 </details>
 
-## Cross-domain implementation layer
-<details>
-<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
-
-- Upstream: [CJS-1.1](cjs_01_scope_purpose_boundary_interface.md#cjs-11-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.2](cjs_02_implementation_integration_map.md#cjs-22-topic-router-stable-ids) topic router; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
-- Downstream: this section's local operational requirements for **Cross-domain implementation layer**.
-- Read with: **CJS-1.1**; **CJS-3.6**; **CJS-2**; **CJS-3.2**; **CJS-4.4**; **CJS-5A.4**; **CJS-5B.1**; **CJS-5E.1**; **CJS-5E.2**.
-
-</details>
-
-<details>
-<summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
-
-- [Governance](../core_05-05_definitions_b_semi_independent.md#governance) · [O](../core_05-05_definitions_b_semi_independent.md#governance) · [E](../core_05-05_definitions_b_semi_independent.md#governance-e) · [C](../core_05-05_definitions_b_semi_independent.md#governance-c)
-- [Sentient](../core_05-05_definitions_c_dependent_clusters.md#sentient-composite) · [O](../core_05-05_definitions_c_dependent_clusters.md#sentient-composite) · [E](../core_05-05_definitions_c_dependent_clusters.md#sentient-composite-e) · [C](../core_05-05_definitions_c_dependent_clusters.md#sentient-composite-c)
-- [Oversight](../core_05-05_definitions_a_independent.md#oversight-constitutional) · [O](../core_05-05_definitions_a_independent.md#oversight-constitutional) · [E](../core_05-05_definitions_a_independent.md#oversight-constitutional-e) · [C](../core_05-05_definitions_a_independent.md#oversight-constitutional-c)
-- [Proportionality](../core_05-05_definitions_a_independent.md#proportionality) · [O](../core_05-05_definitions_a_independent.md#proportionality) · [E](../core_05-05_definitions_a_independent.md#proportionality-e) · [C](../core_05-05_definitions_a_independent.md#proportionality-c)
-- [Redress and Remediation](../core_05-05_definitions_a_independent.md#redress-and-remediation-constitutional) · [O](../core_05-05_definitions_a_independent.md#redress-and-remediation-constitutional) · [E](../core_05-05_definitions_a_independent.md#redress-and-remediation-constitutional-e) · [C](../core_05-05_definitions_a_independent.md#redress-and-remediation-constitutional-c)
-- [Emergency and Contingency](../core_05-05_definitions_b_semi_independent.md#emergency-and-contingency-constitutional) · [O](../core_05-05_definitions_b_semi_independent.md#emergency-and-contingency-constitutional) · [E](../core_05-05_definitions_b_semi_independent.md#emergency-and-contingency-constitutional-e) · [C](../core_05-05_definitions_b_semi_independent.md#emergency-and-contingency-constitutional-c)
-- [Adjudication and Dispute Resolution](../core_05-05_definitions_b_semi_independent.md#adjudication-and-dispute-resolution-constitutional) · [O](../core_05-05_definitions_b_semi_independent.md#adjudication-and-dispute-resolution-constitutional) · [E](../core_05-05_definitions_b_semi_independent.md#adjudication-and-dispute-resolution-constitutional-e) · [C](../core_05-05_definitions_b_semi_independent.md#adjudication-and-dispute-resolution-constitutional-c)
-
-</details>
-
 <br>
 
-*In plain terms: when systems, institutions, and forum rules all land on the same facts, this section says which shared rules apply first and where constitutional meaning still lives in the Sentient Constitution.*
+## Cross-domain implementation layer
 
-When more than one implementation file governs the same operational facts, apply the shared preamble contract in **CJS-1.1** (*Shared implementation-corpus preamble contract*). For stable **CJS-5** (*Implementation and cross-implementation operational cluster library*) citation routing, also apply **CJS-3.6** (*Implementation-label traceability and stricter-wins discipline*).
+*In plain terms: when systems, institutions, and forum rules all land on the same facts, read **CJS-1** in the next file — not this registry section.*
 
-Constitutional Rights Floors, Chapter Ten default ordering, and governance definitions remain in the Sentient Constitution and Chapter Five. Text in this section implements those anchors and must not narrow them.
-
-Cross-domain integrity routing is stated in **CJS-4.4** (*Cross-implementation trust integrity (joint operation model)*) and the applicable **CJS-5** (*Implementation and cross-implementation operational cluster library*) operational clusters. CJS does not maintain a separate meta-obligation family.
-
-For emergency and continuity questions, read **CJS-2** (*Implementation integration map*) and **CJS-3.2** (*No false partial compliance across implementation files*) where systems, institutions, forums, and this section govern the same operational facts.
-
-<details>
-<summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): intervention and integrity routing detail</span></strong></summary>
-
-> The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this file or in other corpus files.
->
-> **Intervention layering (routing detail)**
-> - **CJS-5E.2** (*Implementation and cross-implementation intervention and override integrity terms*) — technical intervention and override integrity terms.
-> - **CJS-5A.2** (*Implementation and cross-implementation intervention governance and override-authorization terms*) — governance authorization terms.
-> - Both are jointly applicable where relevant.
-
-</details>
+Apply [cjs_01_scope_purpose_boundary_interface.md](cjs_01_scope_purpose_boundary_interface.md) **CJS-1.1** (*Shared implementation-corpus preamble contract*) and **CJS-1.3** (*Joint structural boundary and owner discipline*). For read order, stricter-wins, joint obligations, integrity routing, and emergency layering, follow the **CJS-1.1** authority-stack and routing bullets and the **CJS-2**, **CJS-3**, **CJS-4.4**, and **CJS-5** sections they name.
 
 ---
 

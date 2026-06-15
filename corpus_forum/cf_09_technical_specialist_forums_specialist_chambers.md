@@ -127,4 +127,6 @@ Where a dispute involves publication suppression, replication denial, correction
 
 ---
 
+**Previous file:** [cf_08_independent_investigative_service_prosecution_interface.md](cf_08_independent_investigative_service_prosecution_interface.md)
+
 **Next file:** [cf_10_performance_backlog_publication_accessibility.md](cf_10_performance_backlog_publication_accessibility.md)

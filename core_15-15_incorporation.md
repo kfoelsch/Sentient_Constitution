@@ -4,6 +4,8 @@ This file is **part of the Sentient Constitution** and is **binding only togethe
 
 This chapter is the constitutional bridge to the incorporated implementation files. Read it with the [**Corpus**](core_05-05_definitions_c_dependent_clusters.md#corpus) entry in [core_05-05_definitions_a_independent.md](core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) (*operative corpus identity, adopted implementation text, and custody framing*) and with [core_12-14_amendment.md](core_12-14_amendment.md) for adoption, supremacy, and validity controls.
 
+**Application baseline.** This chapter applies subject to [Chapters Twelve through Fourteen](core_12-14_amendment.md#chapter-twelve-non-regression-and-substantive-amendment-validity) for adoption and validity controls and to [Chapters One through Eleven](core_00-01_principles.md#chapter-01-principles-and-constraints) for substantive constitutional meaning that incorporated implementation text must not narrow.
+
 ---
 ## CHAPTER FIFTEEN: INCORPORATION BRIDGE
 
@@ -151,10 +153,6 @@ This section states the Sentient Constitution's **adoption framing self-descript
 **Orientation pointers.** [README.md](README.md) carries the non-operative orientation and adoption-framing pointer for readers who meet the instrument before **Chapter Fifteen**. [architecture_primer.md](architecture_primer.md) and [doc_architecture.md](doc_architecture.md) support non-operative orientation. None of those files alter the substantive scope stated here.
 
 Non-operative orientation: [architecture_primer.md](architecture_primer.md) expands how to read this bridge alongside **Chapters Twelve through Fourteen**.
-
----
-
-*Corpus alignment:* edition `SC-Corpus-2026.04.30`, effective **2026-04-18**; canonical mapping in [doc_architecture.md](doc_architecture.md) **section 17**.
 
 ---
 

@@ -28,7 +28,6 @@ Apply `corpus_joint_structure.md` **CJS-4.7** and **CJS-5A.6** for shared proced
 
 ---
 
----
-
 **Previous file:** [ci_05_conflict_integrity_anti_capture_anti_corruption.md](ci_05_conflict_integrity_anti_capture_anti_corruption.md)
+
 **Next file:** [ci_07_oversight_assurance_controls_evidence.md](ci_07_oversight_assurance_controls_evidence.md)

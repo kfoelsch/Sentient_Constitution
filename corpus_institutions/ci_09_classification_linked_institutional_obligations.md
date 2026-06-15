@@ -262,7 +262,6 @@ Apply `corpus_joint_structure.md` **CJS-5A.4** **Survival-critical access and vo
 
 ---
 
----
-
 **Previous file:** [ci_08_cross_institution_coordination_escalation.md](ci_08_cross_institution_coordination_escalation.md)
+
 **Next file:** [ci_10_public_revenue_fees_recurring_charges_billing_integrity.md](ci_10_public_revenue_fees_recurring_charges_billing_integrity.md)

@@ -187,4 +187,6 @@ If a cited profile and a cited implementation label seem to conflict, apply the 
 
 ---
 
+**Previous file:** [cjs_02_implementation_integration_map.md](cjs_02_implementation_integration_map.md)
+
 **Next file:** [cjs_04_specific_joint_interlocks.md](cjs_04_specific_joint_interlocks.md)

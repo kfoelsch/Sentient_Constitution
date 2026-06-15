@@ -7,6 +7,23 @@ Upstream constitutional direction for this file's terms and evaluative constrain
 ---
 
 ## CHAPTER TWO: DEFINITION STRUCTURE AND COMPONENT REQUIREMENTS
+
+<details>
+<summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): where Chapter Two lives and what stays here</span></strong></summary>
+
+> The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this chapter or in other chapters.
+>
+> Where this lives (navigation):
+> - **Constitutional owner:** O/E/C definition structure, component alignment, and definition-integrity requirements for **Chapter Two** in this file. Anti-evasion interpretation is **Chapter Three**; burden, traceability, and verification are **Chapter Four**; canonical term homes are **Chapter Five**.
+> - **Implementation owner:** operational taxonomies, protocols, and joint operational clusters in designated implementation files apply Chapter Five terms—they do not redefine them.
+> - **Anti-relocation rule:** procedural workflows, enforcement mechanics, and classification schemas beyond definitional scope must not be absorbed into this chapter.
+
+</details>
+
+<br>
+
+*In plain terms: this chapter defines how every constitutional term must be split into what-it-is, how to evaluate it, and what must hold in practice — the grammar the rest of the instrument builds on.*
+
 ### 1. Purpose and Role
 This chapter defines how definitions must be decomposed into Ontological (O), Evaluative (E), and Compliance (C) components and how those components must remain internally aligned within each definition.
 
@@ -125,6 +142,22 @@ Failure of definition integrity is non-compliance by itself. That remains true e
 If an interpretation would weaken safeguards, shrink what must be evaluated, or diminish required real-world outcomes compared with another interpretation consistent with the definition’s language and structure, that interpretation is invalid.
 
 ## CHAPTER THREE: DEFINITION INTEGRITY AND OBSERVABLE NON-COMPLIANCE
+
+<details>
+<summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): where Chapter Three lives and what stays here</span></strong></summary>
+
+> The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this chapter or in other chapters.
+>
+> Where this lives (navigation):
+> - **Constitutional owner:** anti-evasion interpretation, observable non-compliance, and definition-integrity constraints for evaluative work. **Chapter Two** owns structure; **Chapter Four** owns burden and trace artifacts; **Chapter Five** owns canonical definitions.
+> - **Implementation owner:** standing records, forum process, and implementation protocols operationalize these rules without replacing them.
+> - **Anti-relocation rule:** this chapter does not assign standing slots, forum routing, or final anti-constitutional misconduct classification.
+
+</details>
+
+<br>
+
+*In plain terms: this chapter blocks word-games — if behavior evades a definition's real requirements, that counts as non-compliance even when paperwork looks fine.*
 
 ### 1. Definition Integrity and Anti-Evasion Constraints
 <details>
@@ -270,6 +303,22 @@ A system is non-compliant where it:
 - requires unattainable certainty to recognize non-compliance
 
 ## CHAPTER FOUR: BURDEN OF PROOF, TRACEABILITY, AND VERIFICATION
+
+<details>
+<summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): where Chapter Four lives and what stays here</span></strong></summary>
+
+> The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this chapter or in other chapters.
+>
+> Where this lives (navigation):
+> - **Constitutional owner:** burden allocation, compliance evidence, definition traceability, observability, security-constrained verification, and verification accessibility. **Chapter Six** owns standing-record and verified-input discipline read with this chapter.
+> - **Implementation owner:** deployment, data-handling, and assurance mechanics in designated implementation files must remain consistent with these rules and may be stricter where the corpus already provides stricter-rule logic.
+> - **Anti-relocation rule:** this chapter does not restate Chapter Five definitions or Chapter Eight top-slot misconduct criteria.
+
+</details>
+
+<br>
+
+*In plain terms: this chapter puts the proof burden on whoever claims compliance and requires traceable, checkable links from definitions to observable behavior.*
 
 **Non-overlapping roles of sections 1 through 6.** Sections 1 through 6 of this chapter implement one integrated pipeline; failure in any section fails the whole. To limit redundancy and editorial drift, each section's **primary** job—what **neighboring** sections do not already do—is:
 

@@ -104,7 +104,6 @@ Apply `corpus_joint_structure.md` **CJS-5B.1** **Property-custody and incentive-
 
 ---
 
----
-
 **Previous file:** [ci_13_institutional_failure_sanctions_dissolution_accountability.md](ci_13_institutional_failure_sanctions_dissolution_accountability.md)
+
 **Next file:** [ci_15_vulnerable_personal_services_markets_article_xc_interface.md](ci_15_vulnerable_personal_services_markets_article_xc_interface.md)

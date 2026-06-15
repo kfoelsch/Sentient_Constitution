@@ -21,4 +21,6 @@ Where this Protocol is silent, Article XX, `corpus_joint_structure.md` **CJS-5C.
 
 ---
 
+**Previous file:** [cs_protocol_a_system_design_testing_verification_deployment.md](cs_protocol_a_system_design_testing_verification_deployment.md)
+
 **Next file:** [cs_protocol_c_justice_safeguards_restitution_rehabilitation.md](cs_protocol_c_justice_safeguards_restitution_rehabilitation.md)

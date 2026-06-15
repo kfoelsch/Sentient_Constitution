@@ -30,7 +30,6 @@ Apply `corpus_joint_structure.md` **CJS-5B.4** for shared claim-testing, review,
 
 ---
 
----
-
 **Previous file:** [ci_16_innovation_reward_disclosure_anti_enclosure.md](ci_16_innovation_reward_disclosure_anti_enclosure.md)
+
 **Next file:** [ci_18_community_life_voluntary_association_non_instrumental_time.md](ci_18_community_life_voluntary_association_non_instrumental_time.md)

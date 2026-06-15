@@ -39,7 +39,6 @@ Where verified realignment resistance satisfies **Chapter Eight** criteria, incl
 
 ---
 
----
-
 **Previous file:** [ci_12_transparency_participation_accessible_pathways.md](ci_12_transparency_participation_accessible_pathways.md)
+
 **Next file:** [ci_14_transitional_governance_institutional_evolution.md](ci_14_transitional_governance_institutional_evolution.md)

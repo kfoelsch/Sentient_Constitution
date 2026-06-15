@@ -16,8 +16,11 @@
 | CJS-3: Joint structural obligations | [cjs_03_joint_structural_obligations.md](corpus_joint_structure/cjs_03_joint_structural_obligations.md) |
 | CJS-4: Specific joint interlocks and shared abstractions | [cjs_04_specific_joint_interlocks.md](corpus_joint_structure/cjs_04_specific_joint_interlocks.md) |
 | CJS-5: Cross-implementation operational cluster library (family and cluster index) | [cjs_05_cross_implementation_operational_terms.md](corpus_joint_structure/cjs_05_cross_implementation_operational_terms.md) |
-| Stable identifiers, edition alignment, and drafting notes | [cjs_00_registry_and_reading_rules.md](corpus_joint_structure/cjs_00_registry_and_reading_rules.md) |
-| Cross-domain implementation layer overview | [cjs_00_registry_and_reading_rules.md](corpus_joint_structure/cjs_00_registry_and_reading_rules.md) |
+| CJS-5A: Authority, constraint, secrecy, and procedure clusters | [cjs_05a_00_authority_constraint_secrecy_procedure.md](corpus_joint_structure/cjs_05a_00_authority_constraint_secrecy_procedure.md) |
+| CJS-5B: Evidence, audit, and claim-integrity clusters | [cjs_05b_00_evidence_audit_claim_integrity.md](corpus_joint_structure/cjs_05b_00_evidence_audit_claim_integrity.md) |
+| CJS-5C: Participation, comprehension, and disclosure clusters | [cjs_05c_00_participation_comprehension_disclosure.md](corpus_joint_structure/cjs_05c_00_participation_comprehension_disclosure.md) |
+| CJS-5D: Dependency, exit, and lifecycle-integrity clusters | [cjs_05d_00_dependency_exit_lifecycle_integrity.md](corpus_joint_structure/cjs_05d_00_dependency_exit_lifecycle_integrity.md) |
+| CJS-5E: Failure, robustness, intervention, and correction clusters | [cjs_05e_00_failure_robustness_intervention_correction.md](corpus_joint_structure/cjs_05e_00_failure_robustness_intervention_correction.md) |
 
 ---
 

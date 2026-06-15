@@ -30,7 +30,6 @@ Apply `corpus_joint_structure.md` **CJS-5D.2** **High-vulnerability personal-ser
 
 ---
 
----
-
 **Previous file:** [ci_14_transitional_governance_institutional_evolution.md](ci_14_transitional_governance_institutional_evolution.md)
+
 **Next file:** [ci_16_innovation_reward_disclosure_anti_enclosure.md](ci_16_innovation_reward_disclosure_anti_enclosure.md)

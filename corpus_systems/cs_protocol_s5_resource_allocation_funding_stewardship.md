@@ -177,4 +177,6 @@ Variable pay or equity tied to metrics susceptible to **gaming** at the expense 
 
 ---
 
+**Previous file:** [cs_protocol_s4_adaptive_sustainability_ecosystem_resilience.md](cs_protocol_s4_adaptive_sustainability_ecosystem_resilience.md)
+
 **Next file:** [cs_protocol_t_transition_constitution_migration_governance.md](cs_protocol_t_transition_constitution_migration_governance.md)

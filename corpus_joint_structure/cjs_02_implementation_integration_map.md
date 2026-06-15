@@ -154,4 +154,6 @@ For this contract:
 
 ---
 
+**Previous file:** [cjs_01_scope_purpose_boundary_interface.md](cjs_01_scope_purpose_boundary_interface.md)
+
 **Next file:** [cjs_03_joint_structural_obligations.md](cjs_03_joint_structural_obligations.md)

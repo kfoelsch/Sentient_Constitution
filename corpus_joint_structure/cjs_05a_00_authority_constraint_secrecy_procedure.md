@@ -559,4 +559,6 @@ System-class and joint-read scaling
 
 ---
 
+**Previous file:** [cjs_05_cross_implementation_operational_terms.md](cjs_05_cross_implementation_operational_terms.md)
+
 **Next file:** [cjs_05b_00_evidence_audit_claim_integrity.md](cjs_05b_00_evidence_audit_claim_integrity.md)

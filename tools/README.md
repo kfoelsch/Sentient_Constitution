@@ -10,6 +10,8 @@ Python utilities for this repository. Run from the repo root unless noted.
 | Regression scenario matrix checks | `make scenario-audit` |
 | Blocking regression bundle | `make regression` |
 | Markdown / prose / definitions gravity | `make corpus-markdown-audit`, `make prose-continuity-audit`, `make ch5-definitions-gravity-audit`, `make ch5-trace-crosslink-audit` |
+| Corpus navigation footer chain and formatting | `make footer-audit` |
+| Trace / D/E/C / reader-guidance `<br>` spacer discipline | `make nav-widget-spacer-audit` |
 | Chapter Five compound heading/member order | `make ch5-cluster-order-audit` |
 | Chapter Five single-definition and owner-roster rule | `make ch5-single-definition-audit` |
 | Chapter Five alphabetical directory and section 1 order | `make ch5-alphabetical-directory-audit` |

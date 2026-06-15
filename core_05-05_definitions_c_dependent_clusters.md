@@ -10,6 +10,19 @@ Upstream constitutional direction for this file's definitions begins in [core_00
 
 ### 3. Dependent clusters (Clustered Definitions)
 
+<details>
+<summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): Part C cluster discipline and reading order</span></strong></summary>
+
+> The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this chapter or in other chapters.
+>
+> Dependent clusters are joint-invocation homes: members must be satisfied together within each cluster's admission scope. **Part A** and **Part B** remain authoritative for independent and semi-independent terms. Clusters are ordered alphabetically by cluster title; meta rules **§3.0.1** and **§3.0.2** apply to every cluster.
+
+</details>
+
+<br>
+
+*In plain terms: Part C groups terms that must be read and satisfied together — cluster members are not standalone shortcuts around joint requirements.*
+
 Dependent clusters are joint-invocation homes for definitions that must be satisfied together within the admission scope stated in each cluster. Meta rules **§3.0.1** and **§3.0.2** apply to every cluster; individual clusters are ordered alphabetically by cluster title.
 
 <a id="joint-invocation-and-satisfaction"></a>
@@ -1977,8 +1990,6 @@ This cluster is the joint-invocation home for overt use of force, weapons of mas
   - wrapping such a system in a rubber-stamp "human-in-the-loop";
   - defending coercive scope on grounds that it is "non-lethal," "not a weapon," or "not what the operator intended" when coercion is occurring;
   - targeting logic keyed on protected characteristics or their material proxies (independently non-compliant).
-
-*Corpus alignment:* edition `SC-Corpus-2026.04.32`, effective **2026-04-24**; canonical mapping in [doc_architecture.md](doc_architecture.md) **section 17**.
 
 ---
 

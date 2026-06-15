@@ -41,7 +41,6 @@ Authorized-role and accountability-chain mechanics (**Chapter Ten**, section 5 â
 
 ---
 
----
-
 **Previous file:** [ci_02_institutional_design_separation_of_powers.md](ci_02_institutional_design_separation_of_powers.md)
+
 **Next file:** [ci_05_conflict_integrity_anti_capture_anti_corruption.md](ci_05_conflict_integrity_anti_capture_anti_corruption.md)

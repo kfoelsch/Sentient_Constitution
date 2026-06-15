@@ -115,7 +115,6 @@ The local monitor file must name covered decisions, contest-pathway records, att
 
 ---
 
----
-
 **Previous file:** [ci_06_procedure_integrity_contestability_secondary_review.md](ci_06_procedure_integrity_contestability_secondary_review.md)
+
 **Next file:** [ci_08_cross_institution_coordination_escalation.md](ci_08_cross_institution_coordination_escalation.md)

@@ -34,7 +34,6 @@ Funding and allocation governance must align with resource stewardship constrain
 
 ---
 
----
-
 **Previous file:** [ci_10_public_revenue_fees_recurring_charges_billing_integrity.md](ci_10_public_revenue_fees_recurring_charges_billing_integrity.md)
+
 **Next file:** [ci_12_transparency_participation_accessible_pathways.md](ci_12_transparency_participation_accessible_pathways.md)

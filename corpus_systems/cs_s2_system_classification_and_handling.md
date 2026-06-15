@@ -612,6 +612,6 @@ or dependency warrants **analogous** measures under general classification and s
 
 ---
 
----
+**Previous file:** [cs_s1_information_types_and_handling.md](cs_s1_information_types_and_handling.md)
 
 **Next file:** [cs_s3_critical_system_stewardship.md](cs_s3_critical_system_stewardship.md)

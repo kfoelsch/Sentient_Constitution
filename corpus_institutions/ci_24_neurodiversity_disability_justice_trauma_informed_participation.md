@@ -30,7 +30,6 @@ Name the office responsible for documenting CJS-5C.2 alternatives in hearings, g
 
 ---
 
----
-
 **Previous file:** [ci_23_place_based_stewardship_indigenous_continuity_consultation.md](ci_23_place_based_stewardship_indigenous_continuity_consultation.md)
+
 **Next file:** [ci_25_collective_public_health_epidemic_response_addiction_informed_care.md](ci_25_collective_public_health_epidemic_response_addiction_informed_care.md)

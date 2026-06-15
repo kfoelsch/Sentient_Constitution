@@ -316,4 +316,6 @@ Specialization must add competence without creating an insulated guild-like adju
 
 ---
 
+**Previous file:** [cf_01_scope_authority_boundary_rules.md](cf_01_scope_authority_boundary_rules.md)
+
 **Next file:** [cf_03_panel_formation_disclosure_recusal_bench_constitution.md](cf_03_panel_formation_disclosure_recusal_bench_constitution.md)

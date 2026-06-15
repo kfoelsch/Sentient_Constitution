@@ -1,6 +1,8 @@
 # Chapter 6, Sections 5.1–5.8: Understanding Violation Types (Plain Language Version)
 
-*This is a simplified rewrite of sections 5.1 through 5.8 of Chapter 6, designed for general readers. It explains the different "characters" or types of violations—what they mean, how they affect responses, and how they work together. For the official legal text, see [core_07-07_standing_integration.md](core_07-07_standing_integration.md).*
+**Support document (non-binding):** this file is a plain-language companion for general readers. It is **not** part of the numbered `core_*` binding chain in [README.md](README.md). For operative text, use [core_06-06_standing_assessment.md](core_06-06_standing_assessment.md) and [core_07-07_standing_integration.md](core_07-07_standing_integration.md).
+
+*This is a simplified rewrite of sections 5.1 through 5.8 of Chapter 6, designed for general readers. It explains the different "characters" or types of violations—what they mean, how they affect responses, and how they work together. For the official legal text, see [core_06-06_standing_assessment.md](core_06-06_standing_assessment.md) and [core_07-07_standing_integration.md](core_07-07_standing_integration.md).*
 
 ---
 

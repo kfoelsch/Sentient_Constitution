@@ -247,4 +247,6 @@ The following patterns are non-compliant:
 
 ---
 
+**Previous file:** [cf_13_emergency_adjudication.md](cf_13_emergency_adjudication.md)
+
 **Next file:** [cf_15_staffing_reserve_capacity_structural_records.md](cf_15_staffing_reserve_capacity_structural_records.md)

@@ -4,6 +4,8 @@ This file is **part of the Sentient Constitution** and is **binding only togethe
 
 Chapter Six opens the **standing record**, applies the **verified input** gate, and sets the general **Contribution Axis** and **Violation Axis** classification scale. Chapter Seven adds **attachment / descriptor** vocabulary, **standing locks**, and **final standing effect** rules. This chapter answers the narrower top-end question inside that same pipeline: when anti-constitutional misconduct receives final **Violation Axis s = 7, 8, or 9** classification after **top-slot review**. Change-path validity interactions continue in [core_12-14_amendment.md](core_12-14_amendment.md), and justice constraints remain in [core_10-10_rights_part_d.md](core_10-10_rights_part_d.md).
 
+**Application baseline.** This chapter applies subject to verified standing inputs under [Chapter Six](core_06-06_standing_assessment.md#chapter-six-compliance-violation-and-standing-model) and standing integration under [Chapter Seven](core_07-07_standing_integration.md#chapter-seven-standing-effects-and-integration). It does not replace general violation classification outside final Violation Axis `s = 7`, `s = 8`, or `s = 9`.
+
 ---
 <a id="chapter-eight-tiered-anti-constitutional-misconduct"></a>
 <a id="chapter-eight-anti-constitutional-misconduct"></a>
@@ -34,7 +36,7 @@ Use this chapter in this order:
 The named patterns in section 6 are not separate shortcuts. Flooding, bribery, unconstitutional commands, reward or protection of misconduct, enforcement suppression, and infrastructure denial or destruction all still have to pass through the same incident, criteria, gravity, and safeguard sequence.
 
 <details>
-<summary><strong><span style="color: #2563eb;">Cross-reference map (non-operative)</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): cross-chapter map for Chapter Eight</span></strong></summary>
 
 - **Chapter Six:** supplies the standing record, verified-input gate, Contribution and Violation axes, standing-slot grammar, and ordinary violation severity.
 - **Chapter Seven:** supplies process / response attachments, descriptors, standing integration, standing locks, final standing effect rules, and the pointer here; it does not itself assign final **s = 7**, **s = 8**, or **s = 9** anti-constitutional misconduct slots.
@@ -46,6 +48,10 @@ The named patterns in section 6 are not separate shortcuts. Flooding, bribery, u
 - **Chapters Twelve through Fourteen:** supply change-path validity, referral, procedural, and custody rules; they do not assign final Chapter Eight slots.
 
 </details>
+
+<br>
+
+*In plain terms: this chapter is the top of the standing pipeline — it decides only whether verified misconduct reaches the highest three violation slots after Chapters Six and Seven have done their work.*
 
 <a id="1-scope-and-authority"></a>
 

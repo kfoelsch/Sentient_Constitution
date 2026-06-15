@@ -30,7 +30,6 @@ Name the local owner for advance-instruction custody, substitute decision-maker 
 
 ---
 
----
-
 **Previous file:** [ci_18_community_life_voluntary_association_non_instrumental_time.md](ci_18_community_life_voluntary_association_non_instrumental_time.md)
+
 **Next file:** [ci_20_care_labor_dependent_support_respite_care_economy_fairness.md](ci_20_care_labor_dependent_support_respite_care_economy_fairness.md)

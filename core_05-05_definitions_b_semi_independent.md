@@ -10,6 +10,19 @@ Upstream constitutional direction for this file's definitions begins in [core_00
 
 ### 2. Semi-independent Definitions
 
+<details>
+<summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): Part B reading order and canonical-home rule</span></strong></summary>
+
+> The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this chapter or in other chapters.
+>
+> Read **Part A** in [core_05-05_definitions_a_independent.md](core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) for the alphabetical directory and **section 1 — Independent Definitions**. **Part C** dependent clusters continue in [core_05-05_definitions_c_dependent_clusters.md](core_05-05_definitions_c_dependent_clusters.md#section-3-dependent-clusters-clustered-definitions). Each semi-independent entry here is its own canonical O/E/C home; topic grouping below is non-operative reading convenience only.
+
+</details>
+
+<br>
+
+*In plain terms: Part B is the canonical home for semi-independent terms — each entry here owns its own O/E/C definition body; the topic groups below are reading convenience only.*
+
 **Semi-independent Definitions** use the same O/E/C discipline as **section 1**. Every visible term in this section has its definition body here; terms owned solely by a **section 3** dependent cluster appear in that cluster as real entries, not as locator rows here.
 
 Each entry has a single canonical O/E/C home in this chapter. Where **section 3**'s admission scope applies, joint satisfaction rules there govern; otherwise apply sections 1–2 as ordinary standalone definitions.

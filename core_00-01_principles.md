@@ -879,6 +879,8 @@ Repeated or aggregated decisions that individually satisfy these constraints mus
 
 </details>
 
+<br>
+
 *Heightened-risk and exposure terms (open for full O / E / C facets in Chapter Five):*
 
 <details>

@@ -368,4 +368,6 @@ Private internal-state boundary and external observability attribution
 
 ---
 
+**Previous file:** [cjs_05b_00_evidence_audit_claim_integrity.md](cjs_05b_00_evidence_audit_claim_integrity.md)
+
 **Next file:** [cjs_05d_00_dependency_exit_lifecycle_integrity.md](cjs_05d_00_dependency_exit_lifecycle_integrity.md)

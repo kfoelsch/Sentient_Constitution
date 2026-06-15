@@ -330,4 +330,6 @@ Proportional application
 
 ---
 
+**Previous file:** [cjs_05c_00_participation_comprehension_disclosure.md](cjs_05c_00_participation_comprehension_disclosure.md)
+
 **Next file:** [cjs_05e_00_failure_robustness_intervention_correction.md](cjs_05e_00_failure_robustness_intervention_correction.md)

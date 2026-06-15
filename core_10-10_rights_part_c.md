@@ -9,6 +9,19 @@ Read this file together with [core_10-10_rights_part_a.md](core_10-10_rights_par
 
 ### Part C: Trustworthy systems, security and force limits, information integrity, verification, lifecycle, and resilience
 
+<details>
+<summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): Part C position in Chapter Ten</span></strong></summary>
+
+> The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this chapter or in other chapters.
+>
+> **Part A** in [core_10-10_rights_part_a.md](core_10-10_rights_part_a.md) carries the chapter-wide default constraint stack, planet-first reading order, interpretive hubs, and full article map. **Part C** presents **Articles XII–XXI** in that order.
+
+</details>
+
+<br>
+
+*In plain terms: Part C covers trustworthy systems, information integrity, verification, lifecycle discipline, and resilience — Articles XII through XXI.*
+
 ### Article XII: Right to Reliable and Trustworthy Systems
 
 <details>

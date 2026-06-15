@@ -28,7 +28,6 @@ Apply `corpus_joint_structure.md` **CJS-5A.4** **Collective-health and emergency
 
 ---
 
----
-
 **Previous file:** [ci_24_neurodiversity_disability_justice_trauma_informed_participation.md](ci_24_neurodiversity_disability_justice_trauma_informed_participation.md)
+
 **Next file:** [ci_26_compliance_mapping_stable_registry.md](ci_26_compliance_mapping_stable_registry.md)

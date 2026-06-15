@@ -77,8 +77,12 @@ Where this section is silent, Protocol A subsection **H**, Chapter One §4.1, Ar
 
 ---
 
+---
+
 *Corpus alignment:* edition `SC-Corpus-2026.04.32`, effective **2026-04-24**; canonical mapping in [doc_architecture.md](../doc_architecture.md) **section 17**.
 
 ---
+
+**Previous file:** [cs_protocol_r_subversion_response_replacement_reconstitution.md](cs_protocol_r_subversion_response_replacement_reconstitution.md)
 
 **Next file:** [corpus_institutions.md](../corpus_institutions.md)

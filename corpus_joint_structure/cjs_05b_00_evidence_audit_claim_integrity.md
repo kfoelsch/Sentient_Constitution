@@ -344,4 +344,6 @@ Class-scaled template floor mapping
 
 ---
 
+**Previous file:** [cjs_05a_00_authority_constraint_secrecy_procedure.md](cjs_05a_00_authority_constraint_secrecy_procedure.md)
+
 **Next file:** [cjs_05c_00_participation_comprehension_disclosure.md](cjs_05c_00_participation_comprehension_disclosure.md)

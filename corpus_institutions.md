@@ -6,6 +6,8 @@
 
 **Authority note:** the linked subfiles are binding incorporated implementation text where `corpus_institutions.md` is incorporated under Sentient Constitution Chapter Fifteen. The wrapper is an index and does not restate or narrow the subfile text.
 
+**Index numbering note:** stable IDs in this table follow authoritative **CI-*n*** labels. **CI-3** is reserved; there is no separate CI-3 subfile—the reading chain proceeds from **CI-2** to **CI-4**.
+
 ## Institutions Index
 
 | Stable family | Authoritative subfile |

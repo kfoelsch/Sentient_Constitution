@@ -288,4 +288,6 @@ Owner detail remains in `corpus_institutions.md` including **CI-6** (*Procedure 
 
 ---
 
+**Previous file:** [cjs_03_joint_structural_obligations.md](cjs_03_joint_structural_obligations.md)
+
 **Next file:** [cjs_05_cross_implementation_operational_terms.md](cjs_05_cross_implementation_operational_terms.md)

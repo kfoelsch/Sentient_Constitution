@@ -32,4 +32,6 @@ Challenge pathways must remain available for materially affected parties through
 
 ---
 
+**Previous file:** [cs_protocol_s5_resource_allocation_funding_stewardship.md](cs_protocol_s5_resource_allocation_funding_stewardship.md)
+
 **Next file:** [cs_protocol_r_subversion_response_replacement_reconstitution.md](cs_protocol_r_subversion_response_replacement_reconstitution.md)

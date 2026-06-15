@@ -34,7 +34,8 @@ Articles need not repeat this stack where it applies generically.
 
 Shorter cross-references to those themes elsewhere in this chapter incorporate these anchors.
 
-### Reader guidance (non-operative)
+<details>
+<summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): Chapter Ten map and architecture pointer</span></strong></summary>
 
 > The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this chapter or in other chapters.
 >
@@ -73,6 +74,10 @@ Shorter cross-references to those themes elsewhere in this chapter incorporate t
 > Part headings below are navigation structure only.
 >
 > They do not alter article numbering, scope, or constitutional force.
+
+</details>
+
+<br>
 
 ### Part A: Planetary preconditions, material stewardship, survival, equal educational access, and shared resources
 

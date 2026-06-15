@@ -82,7 +82,6 @@ Apply `corpus_joint_structure.md` **CJS-5D.2** **Commitment, renewal, and charge
 
 ---
 
----
-
 **Previous file:** [ci_09_classification_linked_institutional_obligations.md](ci_09_classification_linked_institutional_obligations.md)
+
 **Next file:** [ci_11_resource_stewardship_incentive_integrity.md](ci_11_resource_stewardship_incentive_integrity.md)

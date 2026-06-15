@@ -533,4 +533,6 @@ Where a lived-condition failure materially affects remedy, challenge rights, or 
 
 ---
 
+**Previous file:** [cf_09_technical_specialist_forums_specialist_chambers.md](cf_09_technical_specialist_forums_specialist_chambers.md)
+
 **Next file:** [cf_11_forum_continuity.md](cf_11_forum_continuity.md)

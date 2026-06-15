@@ -101,4 +101,6 @@ Each required forum family must publish an **intake triage body**, or a function
 
 ---
 
+**Previous file:** [cf_03_panel_formation_disclosure_recusal_bench_constitution.md](cf_03_panel_formation_disclosure_recusal_bench_constitution.md)
+
 **Next file:** [cf_05_appeal_secondary_review_exhaustion_pathways.md](cf_05_appeal_secondary_review_exhaustion_pathways.md)
