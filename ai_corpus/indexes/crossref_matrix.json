@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/crossref_matrix.schema.json",
-  "generated_at": "2026-06-14T13:23:51+00:00",
+  "generated_at": "2026-06-15T08:43:24+00:00",
   "description": "Source-derived file-to-file Markdown reference graph.",
   "graph": {
     "nodes": [
@@ -4508,7 +4508,7 @@
           },
           {
             "file": "core_05-05_definitions_c_dependent_clusters.md",
-            "count": 60,
+            "count": 61,
             "anchors": [
               "#auditability",
               "#auditability-c",

@@ -78,11 +78,7 @@ Institutional procedures remain local to this file only where they implement tho
 
 <br>
 
-Definition discipline is single-home:
-- Constitutional definition structure, compliance-state meaning, offense classification, rights meaning, and authority-stack order remain in the numbered Sentient Constitution `core_*` files under the CJS shared preamble contract.
-- Shared operational cluster meanings remain in `corpus_joint_structure.md` **CJS-5** (*Implementation and cross-implementation operational cluster library*).
-- Shared OP-line and operational-cluster reading rules remain in `corpus_joint_structure.md` **CJS-1.4** (*Operational structure and subsection-local terminology*) and **CJS-1.5** (*Operational clusters*).
-- System class, dependency, steward, and continuity taxonomies remain in `corpus_systems.md`.
+Definition discipline is single-home. Apply `corpus_joint_structure.md` **CJS-1.1** (*Shared implementation-corpus preamble contract*) for constitutional and authority-stack discipline, **CJS-1.4** (*Operational structure and subsection-local terminology*) and **CJS-1.5** (*Operational clusters*) for shared OP-line and operational-cluster reading rules, and **CJS-5** (*Implementation and cross-implementation operational cluster library*) for shared operational-cluster meanings. System class, dependency, steward, and continuity taxonomies remain in `corpus_systems.md`.
 
 ### CI-1.2: Section identifiers and article references
 <details>

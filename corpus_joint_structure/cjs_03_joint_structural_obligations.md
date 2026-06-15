@@ -160,6 +160,11 @@ That includes budget, staffing, records, security, procurement, clerking, digita
 
 <br>
 
+Classification-scaled governance burden
+- OP-O: Where an institution's duties depend on `corpus_systems.md` **Chapter S2** classes or **Chapter S3** stewardship tiers, governance burden must scale with the applicable class and tier profile.
+- OP-E: Evaluation must verify that formation, authorization, oversight, assurance, mapping, delegated-subunit, and related institutional duties reflect the operative classification profile for affected scope.
+- OP-C: It is non-compliant to apply a lower institutional burden than the highest applicable class or tier for affected duties, or to treat multiple classes or tiers as if the lowest burden governs when a stricter burden applies.
+
 When an institution supervises systems governed by `corpus_systems.md` **Chapter S2** or **Chapter S3**, its published maps under **CI-9.2** (*Published industry and domain mapping*) and related **CI-9** (*Classification-linked institutional obligations*) material must match the operative systems classification profile, including reclassification triggers.
 
 It is non-compliant to use one label for institutional supervision and a different practical treatment in the systems implementation file when classification creates material duties.

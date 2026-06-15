@@ -28,21 +28,14 @@
 - Topic-level routing and cited authorities remain in subsection text and cross-references.
 - Canonical owner map: `corpus_joint_structure.md` **CJS-2.2** (*Topic router (stable IDs)*) and `doc_architecture.md` section 4.
 
-Apply `corpus_joint_structure.md` **CJS-5E.5** (*Implementation and cross-implementation structural review, correction urgency, and disclosure terms*) **Realignment resistance and dissolution-review trigger floor** for the shared rule on repeated anti-constitutional misconduct, chronic misalignment, realignment resistance, escalation, and continuity safeguards.
+Apply `corpus_joint_structure.md` **CJS-5E.5** (*Implementation and cross-implementation structural review, correction urgency, and disclosure terms*) **Realignment resistance and dissolution-review trigger floor** for the shared rule on repeated anti-constitutional misconduct, chronic misalignment, realignment resistance, escalation, graduated sanctions, continuity safeguards, and dissolution or disbandment sequencing.
 
-Institutions with repeated, verified anti-constitutional misconduct must enter mandatory dissolution review.
+**CI-13** states only the institutional consequence layer:
+- institutions with repeated, verified anti-constitutional misconduct must enter mandatory dissolution review;
+- institutions that operate, supervise, charter, license, or materially control a chronically misaligned system must enter alignment-supervision review when an Integrity forum issues a final alignment ruling, withdraws recognition, imposes remediation conditions, or identifies a sustained pattern of material misalignment under **Chapter Nine**;
+- institutions must publish the responsible office, review file, graduated-sanction options, continuity-transfer plan, and personal-accountability boundary before dissolution or disbandment proceeds.
 
-Institutions that operate, supervise, charter, license, or materially control a system that has become chronically misaligned with constitutional obligations must enter alignment-supervision review when an Integrity forum issues a final alignment ruling, withdraws recognition, imposes remediation conditions, or identifies a sustained pattern of material misalignment under **Chapter Nine**.
-
-Mandatory dissolution or disbandment review applies when the CJS-5E.5 realignment-resistance floor is met and the conduct materially preserves constitutional misalignment, blocks challenge or remediation pathways, degrades Rights-Floor continuity, entrenches capture, or makes constitutional process or remedies unusable in practice.
-
-Where verified realignment resistance satisfies **Chapter Eight** criteria, including material rollback effect, causally significant blocked correction, sustained high-gravity pattern, or operative nullification, it may be classified as anti-constitutional misconduct only under **Chapter Eight** and with the safeguards required there.
-
-Before dissolution, institutions should apply graduated and reviewable sanctions where constitutionally sufficient, such as corrective mandates, constrained authority, or supervised operation.
-
-Dissolution or disbandment may proceed when lesser measures are not sufficient to protect constitutional obligations and must include continuity transfer safeguards under the CJS-5E.5 floor.
-
-Dissolution or disbandment does not replace personal accountability. Sentients responsible for anti-constitutional misconduct remain fully accountable under ordinary constitutional law.
+Where verified realignment resistance satisfies **Chapter Eight** criteria, including material rollback effect, causally significant blocked correction, sustained high-gravity pattern, or operative nullification, classification as anti-constitutional misconduct remains under **Chapter Eight** and its safeguards.
 
 ---
 

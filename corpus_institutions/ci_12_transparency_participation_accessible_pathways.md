@@ -24,7 +24,7 @@
 <br>
 
 
-Institutional governance must be understandable and accessible to materially affected participants. Institutions must provide practical access to participation, review, and challenge channels, including accessibility accommodations sufficient for substantive use. Protected escalation and anti-retaliation mechanisms are mandatory.
+Apply `corpus_joint_structure.md` **CJS-5C.2** (*Implementation and cross-implementation comprehensibility and cognitive accessibility terms*) **Institutional participation and pathway accessibility floor** for the shared understandability, participation, challenge, accessibility, protected-escalation, and anti-retaliation floor. **CI-12** states only the institutional application for local publication, office, record, and escalation duties.
 
 This chapter explicitly supports capability-building and pathway obligations linked to:
 - **Article III** in the Sentient Constitution Chapter Ten part files (including *Equal Educational Access* (**III-B**)),

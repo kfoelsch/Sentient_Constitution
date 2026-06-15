@@ -28,9 +28,7 @@
 - Topic-level routing and cited authorities remain in subsection text and cross-references.
 - Canonical owner map: `corpus_joint_structure.md` **CJS-2.2** (*Topic router (stable IDs)*) and `doc_architecture.md` section 4.
 
-Institutional governance burden must scale with `corpus_systems.md` Chapter S2 classes and Chapter S3 stewardship tiers.
-
-Where multiple classes/tiers apply, the highest applicable burden governs for affected duties.
+Apply `corpus_joint_structure.md` **CJS-3.5** (*Classification alignment for supervised scope*) **Classification-scaled governance burden** for the shared class- and tier-scaling rule. **CI-9** states only the institutional application of that rule across formation, authorization, oversight, mapping, delegated-subunit, and related duties.
 
 **Constitutional floor for institutional and commercial formation.** The operational mechanics in this section—registration, fiscal treatment, liability frameworks, and dissolution pathways—implement the Chapter Five Rights-Floor for [System Creation](../core_05-05_definitions_b_semi_independent.md#system-creation-constitutional) (non-commercial institutional formation) and [Business Creation](../core_05-05_definitions_b_semi_independent.md#business-creation-constitutional) (commercial entrepreneurial formation). These mechanics must not narrow the constitutional floor; they must remain consistent with the [Assembly, Collective Organization, and Institutional Formation cluster](../core_05-05_definitions_c_dependent_clusters.md#assembly-collective-organization-institutional-formation-cluster) and owner-floor provisions in **Article IX-B** (System Creation) and **Article III-D** (Business Creation).
 
@@ -115,13 +113,9 @@ This subsection states the institutional owner duties: institutions with regulat
 
 <br>
 
-**Purpose and owner boundary.** Apply `corpus_joint_structure.md` **CJS-4.1** (*Mandatory hybrid authority composition (delegated binding bodies)*) and **CJS-4.7** (*Shared procedural abstractions for delegated bodies and forum routing*) for shared delegated-body abstractions. **CI-9.3** through **CI-9.3.4** state only the institutional design-class, applicability, identification, authority-composition exception, rotating-attachment, and home-based term application for institutional subunits. Forum-family chamber, routing, appeal, and specialist detail remains in the applicable **CF** sections.
+**Purpose and owner boundary.** Apply `corpus_joint_structure.md` **CJS-4.1** (*Mandatory hybrid authority composition (delegated binding bodies)*) and **CJS-4.7** (*Shared procedural abstractions for delegated bodies and forum routing*) for shared delegated-body abstractions and the **delegated subunit** definition. **CI-9.3** through **CI-9.3.4** state only the institutional design-class, applicability, identification, authority-composition exception, rotating-attachment, and home-based term application. Forum-family chamber, routing, appeal, and specialist detail remains in the applicable **CF** sections.
 
-**Institutional design class (this subsection only).** Use the **highest** `corpus_systems.md` **Chapter S2 — System Classification and Handling** class among systems in the institution's **published governed scope** (including maps under **CI-9.2** (*Published industry and domain mapping*)). Only **Class A**, **Class B**, and **Class C** are in range for the default scaling below.
-
-**Forum floor.** For institutional design class under this subsection, Chapter Nine forum bodies are treated as at least **Class C**.
-
-**Delegated subunit** is used here only for the CI-specific application of **CJS-4.7**. This section supplies the institutional design-class and attachment rules for that shared abstraction.
+**Institutional design class (this subsection only).** Use the **highest** `corpus_systems.md` **Chapter S2 — System Classification and Handling** class among systems in the institution's **published governed scope** (including maps under **CI-9.2** (*Published industry and domain mapping*)). Only **Class A**, **Class B**, and **Class C** are in range for the default scaling below. For institutional design class under this subsection, Chapter Nine forum bodies are treated as at least **Class C**.
 
 **Applicability.**
 - Where institutional design class is **Class C**, **Class B**, or **Class A**, each **delegated subunit** with materially binding authority must satisfy **CI-9.3.1** (*Identification and competence*). Each such subunit must satisfy **CI-9.3.2** (hybrid composition joint minimum in **`corpus_joint_structure.md` CJS-4.1** (*Mandatory hybrid authority composition (delegated binding bodies)*) plus **CI-9.3.2** (*Authority composition*) institution-specific rules), **CI-9.3.3** (rotating attachment bounds for the rotating pole), and **CI-9.3.4** (home-based term and renewal rules for the home-based pole).

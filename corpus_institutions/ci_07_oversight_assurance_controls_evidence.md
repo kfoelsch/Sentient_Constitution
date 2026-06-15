@@ -28,14 +28,7 @@
 - Topic-level routing and cited authorities remain in subsection text and cross-references.
 - Canonical owner map: `corpus_joint_structure.md` **CJS-2.2** (*Topic router (stable IDs)*) and `doc_architecture.md` section 4.
 
-Institutions must operate a three-lines assurance model:
-- operational ownership line,
-- independent risk/compliance challenge line,
-- independent assurance line.
-
-Role concentration across lines must be limited and justified where unavoidable.
-
-Institutions must maintain record and evidence custody sufficient for audit, contest, correction, and continuity transfer under [Evidence Preservation](../core_05-05_definitions_c_dependent_clusters.md#evidence-preservation).
+Apply `corpus_joint_structure.md` **CJS-5B.1** (*Implementation and cross-implementation integrity assurance and resilience operations*) **Three-lines assurance model** for the shared operational-ownership, independent challenge, and independent-assurance line floor. **CI-7** states only the institutional owner duties for publishing the local line map, limiting unjustified role concentration, and maintaining record and evidence custody sufficient for audit, contest, correction, and continuity transfer under [Evidence Preservation](../core_05-05_definitions_c_dependent_clusters.md#evidence-preservation).
 
 ### CI-7.1: Controls declaration
 <details>
@@ -62,15 +55,9 @@ Institutions must maintain record and evidence custody sufficient for audit, con
 
 <br>
 
-At least annually, each institution must publish a declaration on whether material controls are operating effectively.
+At least annually, each institution must publish whether material controls are operating effectively. When controls fail or the shared declaration chain applies, apply `corpus_joint_structure.md` **CJS-5B.1** (*Implementation and cross-implementation integrity assurance and resilience operations*) **Control-failure declaration chain** for the shared failure, impact, containment, remediation, and safeguard-mode floor.
 
-If material controls fail, apply `corpus_joint_structure.md` **CJS-5B.1** (*Implementation and cross-implementation integrity assurance and resilience operations*) for the shared control-failure declaration chain.
-
-Institutional declarations must also identify the affected institutional lane or **`INST-PROTO-*`** family and the accountable publishing authority under the **`INST-PROTO-11`** and **`INST-PROTO-17`** interface.
-
-CI-7.1 states only the institutional publication, lane-identification, accountable-authority, and supporting-packet duties for that shared declaration chain.
-
-For supervised systems, institutions should require a supporting system-level packet proportionate to class and dependency. See `implementation/SYSTEMS_IMPLEMENTATION_TEMPLATES_2026-04-13.md` for reusable implementation templates covering system cards, model cards, post-deployment monitoring cadence, incident reporting bundles, and material control-failure disclosure packets.
+**CI-7.1** states only the institutional publication cadence, lane identification under **`INST-PROTO-11`** and **`INST-PROTO-17`**, accountable publishing authority, and supervised-system supporting-packet duties proportionate to class and dependency. See `implementation/SYSTEMS_IMPLEMENTATION_TEMPLATES_2026-04-13.md` for reusable implementation templates covering system cards, model cards, post-deployment monitoring cadence, incident reporting bundles, and material control-failure disclosure packets.
 
 ### CI-7.2: External assurance triggers
 <details>

@@ -190,6 +190,11 @@ Cognitive overload barrier controls
 - OP-E: Evaluation must verify that volume, fragmentation, and interface design do not make information complete but unusable.
 - OP-C: It is non-compliant to require unreasonable time, expertise, or resources when proportional alternatives are feasible.
 
+Institutional participation and pathway accessibility floor
+- OP-O: Governance, review, and challenge pathways must be understandable and practically accessible to materially affected participants, including accessibility accommodations sufficient for substantive use and protected escalation with anti-retaliation safeguards.
+- OP-E: Evaluation must verify practical access to participation, review, and challenge channels, including whether affected participants can use the pathway without symbolic substitutes, inaccessible format, or retaliation-linked chill.
+- OP-C: It is non-compliant to claim accessible participation when pathways are formally open but practically unusable, when protected escalation is absent, or when anti-retaliation safeguards are too weak to make escalation credible.
+
 Adaptive participation and support controls
 - OP-O: Participation, review, hearing, governance, and high-stakes self-service pathways must offer proportionate alternatives when ordinary timing, format, communication mode, sensory load, cognitive load, adversarial framing, or interface structure would foreseeably block credible participation.
 - OP-E: Evaluation must verify stated alternatives, pacing, supported decision-making options, communication alternatives, sensory and cognitive accessibility, deadline-restoration paths where warranted, and records explaining any denied accommodation or pathway adjustment.

@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-06-14T13:23:50+00:00",
+  "generated_at": "2026-06-15T08:43:24+00:00",
   "files": {
     "core_00-01_principles.md": {
       "total_lines": 1506,
@@ -5394,13 +5394,13 @@
       ]
     },
     "corpus_joint_structure/cjs_03_joint_structural_obligations.md": {
-      "total_lines": 185,
+      "total_lines": 190,
       "sections": [
         {
           "header": "CJS-3: Joint structural obligations (cross-domain requirements)",
           "level": 2,
           "line_start": 1,
-          "line_end": 185,
+          "line_end": 190,
           "anchor": null
         },
         {
@@ -5435,14 +5435,14 @@
           "header": "CJS-3.5 Classification alignment for supervised scope",
           "level": 3,
           "line_start": 140,
-          "line_end": 166,
+          "line_end": 171,
           "anchor": null
         },
         {
           "header": "CJS-3.6 Implementation-label traceability and stricter-wins discipline",
           "level": 3,
-          "line_start": 167,
-          "line_end": 185,
+          "line_start": 172,
+          "line_end": 190,
           "anchor": null
         }
       ]
@@ -5589,7 +5589,7 @@
       ]
     },
     "corpus_joint_structure/cjs_05b_00_evidence_audit_claim_integrity.md": {
-      "total_lines": 342,
+      "total_lines": 347,
       "sections": [
         {
           "header": "CJS-5B: Evidence, audit, and claim integrity",
@@ -5602,34 +5602,34 @@
           "header": "CJS-5B.1 Implementation and cross-implementation integrity assurance and resilience operations",
           "level": 2,
           "line_start": 36,
-          "line_end": 137,
+          "line_end": 142,
           "anchor": null
         },
         {
           "header": "CJS-5B.2 Implementation and cross-implementation auditability and reconstructability terms",
           "level": 2,
-          "line_start": 138,
-          "line_end": 198,
+          "line_start": 143,
+          "line_end": 203,
           "anchor": null
         },
         {
           "header": "CJS-5B.3 Implementation and cross-implementation tiered transparency and audit-access terms",
           "level": 2,
-          "line_start": 199,
-          "line_end": 271,
+          "line_start": 204,
+          "line_end": 276,
           "anchor": null
         },
         {
           "header": "CJS-5B.4 Implementation and cross-implementation independent verification and claim-integrity terms",
           "level": 2,
-          "line_start": 272,
-          "line_end": 342,
+          "line_start": 277,
+          "line_end": 347,
           "anchor": null
         }
       ]
     },
     "corpus_joint_structure/cjs_05c_00_participation_comprehension_disclosure.md": {
-      "total_lines": 366,
+      "total_lines": 371,
       "sections": [
         {
           "header": "CJS-5C: Participation, comprehension, and disclosure",
@@ -5649,21 +5649,21 @@
           "header": "CJS-5C.2 Implementation and cross-implementation comprehensibility and cognitive accessibility terms",
           "level": 2,
           "line_start": 137,
-          "line_end": 219,
+          "line_end": 224,
           "anchor": null
         },
         {
           "header": "CJS-5C.3 Implementation and cross-implementation salience integrity and attention-allocation terms",
           "level": 2,
-          "line_start": 220,
-          "line_end": 305,
+          "line_start": 225,
+          "line_end": 310,
           "anchor": null
         },
         {
           "header": "CJS-5C.4 Implementation and cross-implementation disclosure sufficiency and observability terms",
           "level": 2,
-          "line_start": 306,
-          "line_end": 366,
+          "line_start": 311,
+          "line_end": 371,
           "anchor": null
         }
       ]
@@ -5749,48 +5749,48 @@
       ]
     },
     "corpus_institutions/ci_01_scope_purpose_legitimacy_interface.md": {
-      "total_lines": 176,
+      "total_lines": 172,
       "sections": [
         {
           "header": "Constitutional Institutions",
           "level": 1,
           "line_start": 1,
-          "line_end": 176,
+          "line_end": 172,
           "anchor": null
         },
         {
           "header": "CI-1: Scope, purpose, and legitimacy interface",
           "level": 2,
           "line_start": 23,
-          "line_end": 176,
+          "line_end": 172,
           "anchor": null
         },
         {
           "header": "CI-1.1: Definition discipline and source hierarchy",
           "level": 3,
           "line_start": 56,
-          "line_end": 86,
+          "line_end": 82,
           "anchor": null
         },
         {
           "header": "CI-1.2: Section identifiers and article references",
           "level": 3,
-          "line_start": 87,
-          "line_end": 114,
+          "line_start": 83,
+          "line_end": 110,
           "anchor": null
         },
         {
           "header": "CI-1.3: Anti-constitutional misconduct usage in this file",
           "level": 3,
-          "line_start": 115,
-          "line_end": 141,
+          "line_start": 111,
+          "line_end": 137,
           "anchor": null
         },
         {
           "header": "CI-1.4: Proportionality rule",
           "level": 3,
-          "line_start": 142,
-          "line_end": 176,
+          "line_start": 138,
+          "line_end": 172,
           "anchor": null
         }
       ]
@@ -5886,34 +5886,34 @@
       ]
     },
     "corpus_institutions/ci_07_oversight_assurance_controls_evidence.md": {
-      "total_lines": 150,
+      "total_lines": 137,
       "sections": [
         {
           "header": "CI-7: Oversight, assurance, controls, and evidence",
           "level": 2,
           "line_start": 1,
-          "line_end": 150,
+          "line_end": 137,
           "anchor": null
         },
         {
           "header": "CI-7.1: Controls declaration",
           "level": 3,
-          "line_start": 40,
-          "line_end": 74,
+          "line_start": 33,
+          "line_end": 61,
           "anchor": null
         },
         {
           "header": "CI-7.2: External assurance triggers",
           "level": 3,
-          "line_start": 75,
-          "line_end": 105,
+          "line_start": 62,
+          "line_end": 92,
           "anchor": null
         },
         {
           "header": "CI-7.3: Contest-integrity monitoring (Class A and Class B)",
           "level": 3,
-          "line_start": 106,
-          "line_end": 150,
+          "line_start": 93,
+          "line_end": 137,
           "anchor": null
         }
       ]
@@ -5931,69 +5931,69 @@
       ]
     },
     "corpus_institutions/ci_09_classification_linked_institutional_obligations.md": {
-      "total_lines": 284,
+      "total_lines": 278,
       "sections": [
         {
           "header": "CI-9: Classification-linked institutional obligations",
           "level": 2,
           "line_start": 1,
-          "line_end": 284,
+          "line_end": 278,
           "anchor": null
         },
         {
           "header": "CI-9.1: Formation proportionality",
           "level": 3,
-          "line_start": 37,
-          "line_end": 63,
+          "line_start": 35,
+          "line_end": 61,
           "anchor": null
         },
         {
           "header": "CI-9.2: Published industry and domain mapping",
           "level": 3,
-          "line_start": 64,
-          "line_end": 92,
+          "line_start": 62,
+          "line_end": 90,
           "anchor": null
         },
         {
           "header": "CI-9.3: Delegated subunits, institutional design class, and attachment discipline",
           "level": 3,
-          "line_start": 93,
-          "line_end": 129,
+          "line_start": 91,
+          "line_end": 123,
           "anchor": null
         },
         {
           "header": "CI-9.3.1: Identification and competence",
           "level": 3,
-          "line_start": 130,
-          "line_end": 161,
+          "line_start": 124,
+          "line_end": 155,
           "anchor": null
         },
         {
           "header": "CI-9.3.2: Authority composition",
           "level": 3,
-          "line_start": 162,
-          "line_end": 190,
+          "line_start": 156,
+          "line_end": 184,
           "anchor": null
         },
         {
           "header": "CI-9.3.3: Rotating authority: attachment bounds",
           "level": 3,
-          "line_start": 191,
-          "line_end": 222,
+          "line_start": 185,
+          "line_end": 216,
           "anchor": null
         },
         {
           "header": "CI-9.3.4: Home-based authority: term and renewal",
           "level": 3,
-          "line_start": 223,
-          "line_end": 249,
+          "line_start": 217,
+          "line_end": 243,
           "anchor": null
         },
         {
           "header": "CI-9.4: Survival floors, voluntary exchange, and markets (Article III-A interface)",
           "level": 3,
-          "line_start": 250,
-          "line_end": 284,
+          "line_start": 244,
+          "line_end": 278,
           "anchor": null
         }
       ]
@@ -6077,13 +6077,13 @@
       ]
     },
     "corpus_institutions/ci_13_institutional_failure_sanctions_dissolution_accountability.md": {
-      "total_lines": 52,
+      "total_lines": 45,
       "sections": [
         {
           "header": "CI-13: Institutional failure, sanctions, dissolution, and accountability",
           "level": 2,
           "line_start": 1,
-          "line_end": 52,
+          "line_end": 45,
           "anchor": null
         }
       ]
