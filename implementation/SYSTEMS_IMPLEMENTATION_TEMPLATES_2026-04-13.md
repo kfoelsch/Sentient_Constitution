@@ -2,7 +2,7 @@
 
 Date: 2026-04-13  
 Status: implementation support / adopter-facing template pack  
-Primary anchors: `corpus_systems.md` Protocol A, Chapter S2, Chapter S3; `corpus_institutions.md` CI-7; `corpus_joint_structure.md` CJS-5D.2, CJS-5B.2, CJS-5A.1, CJS-5A.4, CJS-5A.6
+Primary anchors: `corpus_systems.md` Protocol A, Chapter S2, Chapter S3; `corpus_institutions.md` CI-7; `corpus_joint_structure.md` CJS-5.17, CJS-5.9, CJS-5.2, CJS-5.5, CJS-5.7
 
 This file provides reusable implementation templates for systems governance artifacts that the constitutional corpus already requires in substance but does not fully normalize into named packets.
 
@@ -38,7 +38,7 @@ Minimum fields:
 - constitutional scope and claimed class / steward tier;
 - purpose, user groups, and materially affected stakeholder classes;
 - critical dependencies, external integrations, and shared infrastructure reliance;
-- material data formats, schemas, APIs, and interchange protocols, including any CJS-5D.2 exception record where a Class A / B / C system uses a closed, proprietary, unstable, or non-standard choice;
+- material data formats, schemas, APIs, and interchange protocols, including any CJS-5.17 exception record where a Class A / B / C system uses a closed, proprietary, unstable, or non-standard choice;
 - governed environments (development, test, staging, production, pilot if used);
 - principal rights, safety, continuity, and info-sphere risks;
 - intervention, rollback, and emergency-containment pathways;

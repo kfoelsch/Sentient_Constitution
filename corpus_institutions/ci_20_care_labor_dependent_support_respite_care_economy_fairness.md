@@ -24,7 +24,7 @@
 <br>
 
 
-Apply `corpus_joint_structure.md` **CJS-5D.1** **Care, respite, and support-dependency adequacy** for the shared floor. **CI-20** states only local respite, metrics, coercion-intake, and reproductive-labor routing owners.
+Apply `corpus_joint_structure.md` **CJS-5.16** **Care, respite, and support-dependency adequacy** for the shared floor. **CI-20** states only local respite, metrics, coercion-intake, and reproductive-labor routing owners.
 
 Name the respite pathway owner; **CI-12.4** unpaid-care metric owner; coercion-intake and escalation owner; and reproductive-labor metric, budget, service-pathway, and labor-route owners. Read **CI-9.4**, **CI-10**, **Protocol S5**, **CI-21**, and **CI-15** where applicable.
 

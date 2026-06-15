@@ -24,9 +24,9 @@
 <br>
 
 
-**Router read:** Primary owner for **CJS-R18** (*Class-scaled lane staffing and competency redundancy for materially bin…*) in **CJS-2.1** (*Topic router (stable IDs)*). Mandatory read-with: **CJS-4.6**, **CJS-5A.1**.
+**Router read:** Primary owner for **CJS-R18** (*Class-scaled lane staffing and competency redundancy for materially bin…*) in **CJS-2.1** (*Topic router (stable IDs)*). Mandatory read-with: **CJS-4.6**, **CJS-5.2**.
 
-Apply `corpus_joint_structure.md` **CJS-5C.2** **Institutional participation and pathway accessibility floor** for the shared understandability, participation, challenge, accessibility, protected-escalation, and anti-retaliation floor. **CI-12** states only local publication, office, record, escalation, and stewardship-pathway owner duties linked to **Article III-B** and **Chapter Ten**, section 5.
+Apply `corpus_joint_structure.md` **CJS-5.13** **Institutional participation and pathway accessibility floor** for the shared understandability, participation, challenge, accessibility, protected-escalation, and anti-retaliation floor. **CI-12** states only local publication, office, record, escalation, and stewardship-pathway owner duties linked to **Article III-B** and **Chapter Ten**, section 5.
 
 ### CI-12.1: Stakeholder oversight, notification, and binding-governance pathway integrity
 <details>
@@ -53,7 +53,7 @@ Apply `corpus_joint_structure.md` **CJS-5C.2** **Institutional participation and
 
 <br>
 
-Apply `corpus_joint_structure.md` **CJS-5C.1** **Stakeholder oversight and binding-governance pathway integrity** for the shared floor. **CI-12.1** states only the local stakeholder-status owner, participation-window file, notice record, decision-path publication, and escalation route for materially binding governance decisions.
+Apply `corpus_joint_structure.md` **CJS-5.12** **Stakeholder oversight and binding-governance pathway integrity** for the shared floor. **CI-12.1** states only the local stakeholder-status owner, participation-window file, notice record, decision-path publication, and escalation route for materially binding governance decisions.
 
 ### CI-12.2: Anti-concentration and participation-legitimacy safeguards
 <details>
@@ -80,7 +80,7 @@ Apply `corpus_joint_structure.md` **CJS-5C.1** **Stakeholder oversight and bindi
 
 <br>
 
-Apply `corpus_joint_structure.md` **CJS-5A.1** **Anti-concentration guardrails and trigger mitigation** and **CJS-5C.2** **Institutional participation and pathway accessibility floor** for the shared concentration and participation-legitimacy floors. **CI-12.2** states only the local concentration-monitor owner, weighting publication file, remediation trigger, and **CI-8** escalation route.
+Apply `corpus_joint_structure.md` **CJS-5.2** **Anti-concentration guardrails and trigger mitigation** and **CJS-5.13** **Institutional participation and pathway accessibility floor** for the shared concentration and participation-legitimacy floors. **CI-12.2** states only the local concentration-monitor owner, weighting publication file, remediation trigger, and **CI-8** escalation route.
 
 ### CI-12.3: Digital self-service pathway integrity
 <details>
@@ -88,7 +88,7 @@ Apply `corpus_joint_structure.md` **CJS-5A.1** **Anti-concentration guardrails a
 
 - Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions; and [Chapter Ten](../core_10-10_rights_part_a.md#chapter-ten-foundational-rights) rights architecture where rights interfaces are invoked.
 - Downstream: this section's local operational requirements for **CI-12.3: Digital self-service pathway integrity**.
-- Read with: **CI-12.3**; **CI-10.2**; **CI-10**; **CJS-5D.2**.
+- Read with: **CI-12.3**; **CI-10.2**; **CI-10**; **CJS-5.17**.
 
 </details>
 
@@ -107,7 +107,7 @@ Apply `corpus_joint_structure.md` **CJS-5A.1** **Anti-concentration guardrails a
 
 <br>
 
-Apply `corpus_joint_structure.md` **CJS-5D.2** **Digital self-service pathway integrity** for the shared floor. **CI-12.3** states only the supervision owner, operator-artifact file, offense-routing interface, and **CI-10.2** billing-interface read-with.
+Apply `corpus_joint_structure.md` **CJS-5.17** **Digital self-service pathway integrity** for the shared floor. **CI-12.3** states only the supervision owner, operator-artifact file, offense-routing interface, and **CI-10.2** billing-interface read-with.
 
 ---
 

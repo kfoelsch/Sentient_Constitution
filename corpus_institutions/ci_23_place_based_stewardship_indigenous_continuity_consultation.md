@@ -24,7 +24,7 @@
 <br>
 
 
-Apply `corpus_joint_structure.md` **CJS-5C.1** **Stakeholder oversight and binding-governance pathway integrity** for the shared consultation and participation floor. **CI-23** states only local consultation-record, indigenous-continuity, and compliance-theater escalation owner duties — without creating an unbounded territorial-restitution mandate or reopening adoption-scope choices reserved to **Chapter Fifteen**.
+Apply `corpus_joint_structure.md` **CJS-5.12** **Stakeholder oversight and binding-governance pathway integrity** for the shared consultation and participation floor. **CI-23** states only local consultation-record, indigenous-continuity, and compliance-theater escalation owner duties — without creating an unbounded territorial-restitution mandate or reopening adoption-scope choices reserved to **Chapter Fifteen**.
 
 Name the consultation-record custodian, indigenous-continuity response owner, and **CI-7.2** / **CI-8** escalation route for funded projects where box-checking occurs without meaningful risk response. Read **Chapter Five** *Indigenous Continuity* and **Article I-A**, **Article V-B**, and **Article XVIII-D** where materially applicable.
 

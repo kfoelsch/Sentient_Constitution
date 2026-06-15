@@ -28,7 +28,7 @@
 - Topic-level routing and cited authorities remain in subsection text and cross-references.
 - Canonical owner map: `corpus_joint_structure.md` **CJS-2.1** (*Topic router (stable IDs)*) and `doc_architecture.md` section 4.
 
-Apply `corpus_joint_structure.md` **CJS-5B.1** (*Implementation and cross-implementation integrity assurance and resilience operations*) **Three-lines assurance model** for the shared operational-ownership, independent challenge, and independent-assurance line floor. **CI-7** states only the institutional owner duties for publishing the local line map, limiting unjustified role concentration, and maintaining record and evidence custody sufficient for audit, contest, correction, and continuity transfer under [Evidence Preservation](../core_05-05_definitions_c_dependent_clusters.md#evidence-preservation).
+Apply `corpus_joint_structure.md` **CJS-5.8** (*Implementation and cross-implementation integrity assurance and resilience operations*) **Three-lines assurance model** for the shared operational-ownership, independent challenge, and independent-assurance line floor. **CI-7** states only the institutional owner duties for publishing the local line map, limiting unjustified role concentration, and maintaining record and evidence custody sufficient for audit, contest, correction, and continuity transfer under [Evidence Preservation](../core_05-05_definitions_c_dependent_clusters.md#evidence-preservation).
 
 ### CI-7.1: Controls declaration
 <details>
@@ -55,7 +55,7 @@ Apply `corpus_joint_structure.md` **CJS-5B.1** (*Implementation and cross-implem
 
 <br>
 
-At least annually, each institution must publish whether material controls are operating effectively. When controls fail, apply **CJS-5B.1** **Control-failure declaration chain** for the shared floor. **CI-7.1** states only publication cadence, **`INST-PROTO-11`** / **`INST-PROTO-17`** lane identification, accountable publishing authority, and supervised-system supporting-packet duties. See `implementation/SYSTEMS_IMPLEMENTATION_TEMPLATES_2026-04-13.md` for reusable disclosure templates.
+At least annually, each institution must publish whether material controls are operating effectively. When controls fail, apply **CJS-5.8** **Control-failure declaration chain** for the shared floor. **CI-7.1** states only publication cadence, **`INST-PROTO-11`** / **`INST-PROTO-17`** lane identification, accountable publishing authority, and supervised-system supporting-packet duties. See `implementation/SYSTEMS_IMPLEMENTATION_TEMPLATES_2026-04-13.md` for reusable disclosure templates.
 
 ### CI-7.2: External assurance triggers
 <details>
@@ -82,7 +82,7 @@ At least annually, each institution must publish whether material controls are o
 
 <br>
 
-Independent external assurance is mandatory when trigger thresholds are met. Apply `corpus_joint_structure.md` **CJS-5B.1** for the shared external-assurance trigger floor. **CI-7.2** states only institutional trigger publication and **CI-8** escalation duties when commissioning authority is conflicted, captured, unavailable, or non-responsive.
+Independent external assurance is mandatory when trigger thresholds are met. Apply `corpus_joint_structure.md` **CJS-5.8** for the shared external-assurance trigger floor. **CI-7.2** states only institutional trigger publication and **CI-8** escalation duties when commissioning authority is conflicted, captured, unavailable, or non-responsive.
 
 ### CI-7.3: Contest-integrity monitoring (Class A and Class B)
 <details>
@@ -114,10 +114,10 @@ Independent external assurance is mandatory when trigger thresholds are met. App
 **Router read:** Mandatory read-with for **CJS-R07** (*Forum forensic and analytical support*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CF-8**.
 **Router read:** Mandatory read-with for **CJS-R10** (*Forum performance, backlog requirements, publication timeliness, access…*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CF-11**.
 **Router read:** Mandatory read-with for **CJS-R17** (*Cross-implementation trust integrity (joint operation model)*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CJS-4.4**.
-**Router read:** Mandatory read-with for **CJS-R19** (*Implementation and cross-implementation integrity assurance and resilie…*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CJS-5B.1**.
-**Router read:** Primary owner for **CJS-R15** (*Contest-integrity monitoring (pathway integrity, not merits)*) in **CJS-2.1** (*Topic router (stable IDs)*). Mandatory read-with: **CF-4**, **CF-11**, **CJS-5A.6**.
+**Router read:** Mandatory read-with for **CJS-R19** (*Implementation and cross-implementation integrity assurance and resilie…*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CJS-5.8**.
+**Router read:** Primary owner for **CJS-R15** (*Contest-integrity monitoring (pathway integrity, not merits)*) in **CJS-2.1** (*Topic router (stable IDs)*). Mandatory read-with: **CF-4**, **CF-11**, **CJS-5.7**.
 
-Apply `corpus_joint_structure.md` **CJS-5B.1** for the shared contest-integrity pathway chain and contest-monitor independence floor. **CI-7.3** states only monitor designation, local monitor file, attestation interface, output duty, security-power file, and forum-boundary duties for covered **Class A** or **Class B** supervised scope.
+Apply `corpus_joint_structure.md` **CJS-5.8** for the shared contest-integrity pathway chain and contest-monitor independence floor. **CI-7.3** states only monitor designation, local monitor file, attestation interface, output duty, security-power file, and forum-boundary duties for covered **Class A** or **Class B** supervised scope.
 
 The local monitor file must name covered decisions, contest-pathway records, attestation artifacts, appointing authority, record access, auditable findings, **INST-PROTO-17** linkage, and transfer records. Read **CI-4**, **CI-5**, **CI-6**, **CI-8**, **CI-12**, and **`INST-PROTO-11`**, **`INST-PROTO-12`**, **`INST-PROTO-24`** for local interfaces.
 

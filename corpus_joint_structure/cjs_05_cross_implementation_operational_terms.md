@@ -117,7 +117,7 @@ Constitutional lane
 - OP-C: A lane is non-compliant if it is undefined, merged, understaffed, over-concentrated, or staffed in a way that defeats separation, auditability, challenge, succession, or binding accountability.
 
 Delegated body and forum-role pointer
-- OP-O: Delegated binding bodies, lawful independent forums, backup activation, and representative treatment use the procedural definitions and compliance tests in **CJS-5A.6** (*Implementation and cross-implementation procedural integrity and adjudication terms*) after this role preface is satisfied.
+- OP-O: Delegated binding bodies, lawful independent forums, backup activation, and representative treatment use the procedural definitions and compliance tests in **CJS-5.7** (*Implementation and cross-implementation procedural integrity and adjudication terms*) after this role preface is satisfied.
 - OP-E: Reviewers must verify formation authority, role composition, competence, quorum, independence, records, and contest routes under both this preface and the applicable procedural term.
 - OP-C: A procedural role term is non-compliant if the underlying role authority, competency gate, standing status, or owner-file formation rule is missing or bypassed.
 
@@ -151,11 +151,11 @@ Delegated body and forum-role pointer
 
 | Family | Consolidated family file | Clusters |
 |---|---|---|
-| **CJS-5A: Authority, constraint, secrecy, and procedure** | [cjs_05a_00_authority_constraint_secrecy_procedure.md](cjs_05a_00_authority_constraint_secrecy_procedure.md) | **CJS-5A.1**, **CJS-5A.2**, **CJS-5A.3**, **CJS-5A.4**, **CJS-5A.5**, **CJS-5A.6** |
-| **CJS-5B: Evidence, audit, and claim integrity** | [cjs_05b_00_evidence_audit_claim_integrity.md](cjs_05b_00_evidence_audit_claim_integrity.md) | **CJS-5B.1**, **CJS-5B.2**, **CJS-5B.3**, **CJS-5B.4** |
-| **CJS-5C: Participation, comprehension, and disclosure** | [cjs_05c_00_participation_comprehension_disclosure.md](cjs_05c_00_participation_comprehension_disclosure.md) | **CJS-5C.1**, **CJS-5C.2**, **CJS-5C.3**, **CJS-5C.4** |
-| **CJS-5D: Dependency, exit, and lifecycle integrity** | [cjs_05d_00_dependency_exit_lifecycle_integrity.md](cjs_05d_00_dependency_exit_lifecycle_integrity.md) | **CJS-5D.1**, **CJS-5D.2**, **CJS-5D.3** |
-| **CJS-5E: Failure, robustness, intervention, and correction** | [cjs_05e_00_failure_robustness_intervention_correction.md](cjs_05e_00_failure_robustness_intervention_correction.md) | **CJS-5E.1**, **CJS-5E.2**, **CJS-5E.3**, **CJS-5E.4**, **CJS-5E.5** |
+| **CJS-5.2–CJS-5.7: Authority, constraint, secrecy, and procedure** | [cjs_05a_00_authority_constraint_secrecy_procedure.md](cjs_05a_00_authority_constraint_secrecy_procedure.md) | **CJS-5.2**, **CJS-5.3**, **CJS-5.4**, **CJS-5.5**, **CJS-5.6**, **CJS-5.7** |
+| **CJS-5.8–CJS-5.11: Evidence, audit, and claim integrity** | [cjs_05b_00_evidence_audit_claim_integrity.md](cjs_05b_00_evidence_audit_claim_integrity.md) | **CJS-5.8**, **CJS-5.9**, **CJS-5.10**, **CJS-5.11** |
+| **CJS-5.12–CJS-5.15: Participation, comprehension, and disclosure** | [cjs_05c_00_participation_comprehension_disclosure.md](cjs_05c_00_participation_comprehension_disclosure.md) | **CJS-5.12**, **CJS-5.13**, **CJS-5.14**, **CJS-5.15** |
+| **CJS-5.16–CJS-5.18: Dependency, exit, and lifecycle integrity** | [cjs_05d_00_dependency_exit_lifecycle_integrity.md](cjs_05d_00_dependency_exit_lifecycle_integrity.md) | **CJS-5.16**, **CJS-5.17**, **CJS-5.18** |
+| **CJS-5.19–CJS-5.23: Failure, robustness, intervention, and correction** | [cjs_05e_00_failure_robustness_intervention_correction.md](cjs_05e_00_failure_robustness_intervention_correction.md) | **CJS-5.19**, **CJS-5.20**, **CJS-5.21**, **CJS-5.22**, **CJS-5.23** |
 
 ---
 

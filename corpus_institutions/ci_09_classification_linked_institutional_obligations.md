@@ -28,7 +28,7 @@
 - Topic-level routing and cited authorities remain in subsection text and cross-references.
 - Canonical owner map: `corpus_joint_structure.md` **CJS-2.1** (*Topic router (stable IDs)*) and `doc_architecture.md` section 4.
 
-Apply `corpus_joint_structure.md` **CJS-3.5** (*Classification alignment for supervised scope*) **Classification-scaled governance burden** for the shared class- and tier-scaling rule. **CI-9** states only the institutional application of that rule across formation, authorization, oversight, mapping, delegated-subunit, and related duties.
+Apply `corpus_joint_structure.md` **CJS-5.2** (*Implementation and cross-implementation distributed and proportional authority terms*) **Classification-scaled governance burden** for the shared class- and tier-scaling rule. **CI-9** states only the institutional application of that rule across formation, authorization, oversight, mapping, delegated-subunit, and related duties.
 
 **Constitutional floor for institutional and commercial formation.** The operational mechanics in this section—registration, fiscal treatment, liability frameworks, and dissolution pathways—implement the Chapter Five Rights-Floor for [System Creation](../core_05-05_definitions_b_semi_independent.md#system-creation-constitutional) (non-commercial institutional formation) and [Business Creation](../core_05-05_definitions_b_semi_independent.md#business-creation-constitutional) (commercial entrepreneurial formation). These mechanics must not narrow the constitutional floor; they must remain consistent with the [Assembly, Collective Organization, and Institutional Formation cluster](../core_05-05_definitions_c_dependent_clusters.md#assembly-collective-organization-institutional-formation-cluster) and owner-floor provisions in **Article IX-B** (System Creation) and **Article III-D** (Business Creation).
 
@@ -57,7 +57,7 @@ Apply `corpus_joint_structure.md` **CJS-3.5** (*Classification alignment for sup
 
 <br>
 
-Apply `corpus_joint_structure.md` **CJS-5A.1** (*Implementation and cross-implementation distributed and proportional authority terms*) **Formation and authorization proportionality floor** for the shared scaling rule. This subsection states institutional owner duties: formation instruments must publish the local authorization path, evidence burden, audit cadence, publication depth, continuity-planning depth, compliance-cost expectation, and contest-integrity monitoring route for **Class A** and **Class B** supervised scope (**CI-7** (*Oversight, assurance, controls, and evidence*); **`INST-PROTO-24`**).
+Apply `corpus_joint_structure.md` **CJS-5.2** (*Implementation and cross-implementation distributed and proportional authority terms*) **Formation and authorization proportionality floor** for the shared scaling rule. This subsection states institutional owner duties: formation instruments must publish the local authorization path, evidence burden, audit cadence, publication depth, continuity-planning depth, compliance-cost expectation, and contest-integrity monitoring route for **Class A** and **Class B** supervised scope (**CI-7** (*Oversight, assurance, controls, and evidence*); **`INST-PROTO-24`**).
 
 ### CI-9.2: Published industry and domain mapping
 <details>
@@ -84,7 +84,7 @@ Apply `corpus_joint_structure.md` **CJS-5A.1** (*Implementation and cross-implem
 
 <br>
 
-Apply `corpus_joint_structure.md` **CJS-5D.1** (*Implementation and cross-implementation dependency integrity and disclosure terms*) **Domain and sector classification mapping** for the shared domain-taxonomy, criticality, split-classification, and reclassification floor. **CI-9.2** states only the institutional map owner, publication cadence, local-treatment file, and update duty for regulated or supervised scope.
+Apply `corpus_joint_structure.md` **CJS-5.16** (*Implementation and cross-implementation dependency integrity and disclosure terms*) **Domain and sector classification mapping** for the shared domain-taxonomy, criticality, split-classification, and reclassification floor. **CI-9.2** states only the institutional map owner, publication cadence, local-treatment file, and update duty for regulated or supervised scope.
 
 ### CI-9.3: Delegated subunits, institutional design class, and attachment discipline
 <details>
@@ -114,7 +114,7 @@ Apply `corpus_joint_structure.md` **CJS-5D.1** (*Implementation and cross-implem
 
 **Router read:** Mandatory read-with for **CJS-R02** (*Forum chambers, divisions, and designated panels (Chapter Nine families)*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CF-3**.
 **Router read:** Mandatory read-with for **CJS-R13** (*Forum staffing, shared administration, structural review, structural re…*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CF-16**.
-**Router read:** Primary owner for **CJS-R01** (*Delegated binding bodies and hybrid composition (non-forum institutions)*) in **CJS-2.1** (*Topic router (stable IDs)*). Mandatory read-with: **CJS-4.1**, **CJS-4.7**, **CJS-5A.6**, **CI-3**, **CJS-5A.1**, **CJS-5A.4**.
+**Router read:** Primary owner for **CJS-R01** (*Delegated binding bodies and hybrid composition (non-forum institutions)*) in **CJS-2.1** (*Topic router (stable IDs)*). Mandatory read-with: **CJS-4.1**, **CJS-4.7**, **CJS-5.7**, **CI-3**, **CJS-5.2**, **CJS-5.5**.
 
 Apply `corpus_joint_structure.md` **CJS-4.1** and **CJS-4.7** for shared delegated-body abstractions. **CI-9.3** through **CI-9.3.4** state only institutional design-class, applicability, identification, authority-composition exception, rotating-attachment, and home-based term duties for delegated subunits at or above **Class C** under the highest published **Chapter S2** class.
 ### CI-9.3.1: Identification and competence
@@ -261,7 +261,7 @@ Apply **`corpus_joint_structure.md` CJS-4.2** (*Shared attachment and continuity
 
 <br>
 
-Apply `corpus_joint_structure.md` **CJS-5A.4** **Survival-critical access and voluntary-market interface** for the shared floor. **CI-9.4** states only the Article III-A instrument owner, **CI-10.1** revenue-interface linkage, and documentation duties for eligibility, migration, fraud control, regional adequacy, and proportionality.
+Apply `corpus_joint_structure.md` **CJS-5.5** **Survival-critical access and voluntary-market interface** for the shared floor. **CI-9.4** states only the Article III-A instrument owner, **CI-10.1** revenue-interface linkage, and documentation duties for eligibility, migration, fraud control, regional adequacy, and proportionality.
 
 ---
 

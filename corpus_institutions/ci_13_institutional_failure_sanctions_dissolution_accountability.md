@@ -28,7 +28,7 @@
 - Topic-level routing and cited authorities remain in subsection text and cross-references.
 - Canonical owner map: `corpus_joint_structure.md` **CJS-2.1** (*Topic router (stable IDs)*) and `doc_architecture.md` section 4.
 
-Apply `corpus_joint_structure.md` **CJS-5E.5** (*Implementation and cross-implementation structural review, correction urgency, and disclosure terms*) **Realignment resistance and dissolution-review trigger floor** for the shared rule on repeated anti-constitutional misconduct, chronic misalignment, realignment resistance, escalation, graduated sanctions, continuity safeguards, and dissolution or disbandment sequencing.
+Apply `corpus_joint_structure.md` **CJS-5.23** (*Implementation and cross-implementation structural review, correction urgency, and disclosure terms*) **Realignment resistance and dissolution-review trigger floor** for the shared rule on repeated anti-constitutional misconduct, chronic misalignment, realignment resistance, escalation, graduated sanctions, continuity safeguards, and dissolution or disbandment sequencing.
 
 **CI-13** states only the institutional consequence layer:
 - institutions with repeated, verified anti-constitutional misconduct must enter mandatory dissolution review;

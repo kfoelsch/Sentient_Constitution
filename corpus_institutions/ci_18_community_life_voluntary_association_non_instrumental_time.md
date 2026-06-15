@@ -4,7 +4,7 @@
 
 - Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions; and [Chapter Ten](../core_10-10_rights_part_a.md#chapter-ten-foundational-rights) rights architecture where rights interfaces are invoked.
 - Downstream: this section's local operational requirements for **CI-18: Community life, voluntary association, and non-instrumental time**.
-- Read with: **CI-18**; **CI-5**; **CI-9**; **CI-12**; **CI-22**; **CI-21**; **CI-6**; **CJS-5C.1**.
+- Read with: **CI-18**; **CI-5**; **CI-9**; **CI-12**; **CI-22**; **CI-21**; **CI-6**; **CJS-5.12**.
 
 </details>
 
@@ -24,7 +24,7 @@
 <br>
 
 
-Apply `corpus_joint_structure.md` **CJS-5C.1** **Community and associational pathway integrity** for the shared floor. **CI-18** states only local stewardship, program, referral, and escalation owner duties.
+Apply `corpus_joint_structure.md` **CJS-5.12** **Community and associational pathway integrity** for the shared floor. **CI-18** states only local stewardship, program, referral, and escalation owner duties.
 
 Name the local owner for civic infrastructure, voluntary-association programs, and hostile-design escalation. Read **CI-5**, **CI-9**, **CI-12**, **CI-21**, **CI-22**, **CI-6**, and **CI-8** for local control, referral, and escalation interfaces.
 

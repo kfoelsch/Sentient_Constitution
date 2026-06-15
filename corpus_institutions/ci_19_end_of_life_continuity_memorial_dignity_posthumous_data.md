@@ -24,7 +24,7 @@
 <br>
 
 
-Apply `corpus_joint_structure.md` **CJS-5D.3** **Data-retention and lifecycle-integrity terms** for the shared posthumous-data and continuity floor. **CI-19** states only local advance-planning, palliative-routing, memorial, disposition, grief-accommodation, and likeness-protection owner duties under **Article VII-E**, **Article VIII**, **Article III-C**, and **Article XXIII-B** — without narrowing **Article VII-C** crisis-intervention safeguards or authorizing deprivation of life as sanction.
+Apply `corpus_joint_structure.md` **CJS-5.18** **Data-retention and lifecycle-integrity terms** for the shared posthumous-data and continuity floor. **CI-19** states only local advance-planning, palliative-routing, memorial, disposition, grief-accommodation, and likeness-protection owner duties under **Article VII-E**, **Article VIII**, **Article III-C**, and **Article XXIII-B** — without narrowing **Article VII-C** crisis-intervention safeguards or authorizing deprivation of life as sanction.
 
 Name the local owner for advance-instruction custody, substitute decision-maker records, palliative access routing, memorial and disposition files, grief and cultural-practice accommodation, and posthumous likeness or experiential-data controls. Read **CI-12** for participation and accessibility interfaces.
 

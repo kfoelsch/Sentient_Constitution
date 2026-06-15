@@ -51,7 +51,7 @@ Funding systems must **provide clear, auditable records of resource flows**. **T
 
 **Budget** it as part of ordinary **funding stewardship**, not only as **post-crisis** improvisation.
 
-Capacity must be **auditable** and **anti-captive** (**Article XV-A**, **Article XI-D**, **Article XII-B**, **CJS-5A.3** (*Implementation and cross-implementation reflexive transparency and accountability terms*) and **CJS-5B.1** (*Implementation and cross-implementation integrity assurance and resilience operations*), **CJS-5A.6** (*Implementation and cross-implementation procedural integrity and adjudication terms*), **Protocol C**, subsection **8**).
+Capacity must be **auditable** and **anti-captive** (**Article XV-A**, **Article XI-D**, **Article XII-B**, **CJS-5.4** (*Implementation and cross-implementation reflexive transparency and accountability terms*) and **CJS-5.8** (*Implementation and cross-implementation integrity assurance and resilience operations*), **CJS-5.7** (*Implementation and cross-implementation procedural integrity and adjudication terms*), **Protocol C**, subsection **8**).
 
 Underfunding that produces **chronic non-performance** of remediation obligations is a **constitutional alignment risk** subject to review.
 
@@ -77,7 +77,7 @@ Early foundational contributions may justify temporary or extended allocation.
 
 **Stability of funding agreements.** Funding agreements for builders and maintainers must provide sufficient stability to support long-term system development and maintenance.
 
-Once established and disclosed, allocation structures affecting builder and maintainer incentives must **remain stable for a defined period or condition**. **They** must **not** be **altered retroactively**. **They** must **not** be **materially reduced without due process under Article XI** and **CJS-5A.6** (*Implementation and cross-implementation procedural integrity and adjudication terms*) in **corpus_joint_structure.md** where applicable.
+Once established and disclosed, allocation structures affecting builder and maintainer incentives must **remain stable for a defined period or condition**. **They** must **not** be **altered retroactively**. **They** must **not** be **materially reduced without due process under Article XI** and **CJS-5.7** (*Implementation and cross-implementation procedural integrity and adjudication terms*) in **corpus_joint_structure.md** where applicable.
 
 **Changes to funding structures must** be **proposed transparently**. **They** must **include a defined transition or grace period proportionate to the scale, impact, and dependency of the system**. **They** must **allow affected participants time to adapt, exit, or renegotiate**.
 
@@ -151,7 +151,7 @@ No minimum participation threshold is required to initiate review, though outcom
 
 **Challenges must** be **documented and supported by evidence where feasible**. **They** must **remain subject to audit and evaluation under Article XV-A**. **They** must **be resolved through participatory processes** (**Article XI**; **Chapter Ten**, section **4**, where binding collective choice applies) **and, where necessary, Article XXIII-A** (justice objective and review scope).
 
-**Due process in funding changes.** Funding-related decisions apply **Article XI**, **Article XV-A**, and `corpus_joint_structure.md` **CJS-5A.6** (*Implementation and cross-implementation procedural integrity and adjudication terms*) / **CJS-5A.6** (*Implementation and cross-implementation procedural integrity and adjudication terms*) for process depth, duration, reviewability, and proportionality. Protocol S5 funding records add:
+**Due process in funding changes.** Funding-related decisions apply **Article XI**, **Article XV-A**, and `corpus_joint_structure.md` **CJS-5.7** (*Implementation and cross-implementation procedural integrity and adjudication terms*) / **CJS-5.7** (*Implementation and cross-implementation procedural integrity and adjudication terms*) for process depth, duration, reviewability, and proportionality. Protocol S5 funding records add:
 - transparent proposal;
 - sufficient notice and justification;
 - affected-participant response, contest, or adaptation pathway;
@@ -161,13 +161,13 @@ No minimum participation threshold is required to initiate review, though outcom
 
 **Steward, operator, and governance remuneration (incentive governance).** Compensation, equity, bonuses, performance metrics, and deferred incentives for **builders, operators, maintainers, and human governance roles** must be **aligned with long-term constitutional outcomes**. **That** requirement applies when those roles materially influence resource flows or funding decisions. **That** obligation applies when those roles materially influence dependent-systems maps. **It** applies when those roles materially influence **system classification** or **Critical System Stewardship** (Chapter S3 — Critical System Stewardship). That alignment includes ecosystem-aware stewardship under **Sentient Constitution Chapter Ten**, **Articles I-B** and **XI**. **It** includes substrate and dependency integrity (**Articles I–III and V**). **It** includes non-entrenchment and fitness over time (**Article XXIV-A**).
 
-Remuneration design must satisfy [corpus_joint_structure.md — Cross-domain implementation layer](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cross-domain-implementation-layer), including **CJS-5A.4** (*Implementation and cross-implementation burden-of-justification and constraint terms*) mechanism-integrity and incentive-alignment requirements, incorporated via **Sentient Constitution Chapter Fifteen**, and **Sentient Constitution Chapter One**. **That** includes the requirement that incentives not systematically undermine Safety, Truth (Epistemic Integrity), or meaningful agency.
+Remuneration design must satisfy [corpus_joint_structure.md — Cross-domain implementation layer](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cross-domain-implementation-layer), including **CJS-5.5** (*Implementation and cross-implementation burden-of-justification and constraint terms*) mechanism-integrity and incentive-alignment requirements, incorporated via **Sentient Constitution Chapter Fifteen**, and **Sentient Constitution Chapter One**. **That** includes the requirement that incentives not systematically undermine Safety, Truth (Epistemic Integrity), or meaningful agency.
 
 **Conflict-free remuneration processes.** Where humans hold authority over allocation, enforcement, classification, or oversight, structures must **mitigate personal enrichment** from decisions those same roles approve, delay, or fail to rectify.
 
 Material conflicts between **private financial interest** and **stewardship duties** must be **disclosed** and **managed**.
 
-Where **impartiality** for a specific decision is not credible, address conflicts through **recusal**, **segmented authority**, or **independent review**. **That** process must be consistent with **CJS-5A.6** (*Procedural Integrity and Adjudication*) in [corpus_joint_structure.md — Cross-domain implementation layer](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cross-domain-implementation-layer) and **Chapter S3 — Critical System Steward Conduct, Conflicts of Interest, and Independence**.
+Where **impartiality** for a specific decision is not credible, address conflicts through **recusal**, **segmented authority**, or **independent review**. **That** process must be consistent with **CJS-5.7** (*Procedural Integrity and Adjudication*) in [corpus_joint_structure.md — Cross-domain implementation layer](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cross-domain-implementation-layer) and **Chapter S3 — Critical System Steward Conduct, Conflicts of Interest, and Independence**.
 
 Variable pay or equity tied to metrics susceptible to **gaming** at the expense of dependents or the broader ecosystem must include **safeguards**.
 

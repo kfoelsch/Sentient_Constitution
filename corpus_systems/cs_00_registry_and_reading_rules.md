@@ -48,13 +48,13 @@ Shared preamble contract: apply [corpus_joint_structure.md](../corpus_joint_stru
 > The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this file or in other corpus files.
 >
 > **CJS cluster mapping (routing only)**
-> - Technical requirements map primarily to **CJS-5B** (*Evidence, audit, and claim integrity*), **CJS-5C** (*Participation, comprehension, and disclosure*), **CJS-5D** (*Dependency, exit, and lifecycle integrity*), and **CJS-5E** (*Failure, robustness, intervention, and correction*).
-> - Governance, proportionality of authority, justification, challenge, and collective-choice processes map primarily to **CJS-5A** (*Authority, constraint, secrecy, and procedure*), together with Chapter Eleven decision-resolution requirements.
+> - Technical requirements map primarily to **CJS-5.8–CJS-5.11** (*Evidence, audit, and claim integrity*), **CJS-5.12–CJS-5.15** (*Participation, comprehension, and disclosure*), **CJS-5.16–CJS-5.18** (*Dependency, exit, and lifecycle integrity*), and **CJS-5.19–CJS-5.23** (*Failure, robustness, intervention, and correction*).
+> - Governance, proportionality of authority, justification, challenge, and collective-choice processes map primarily to **CJS-5.2–CJS-5.7** (*Authority, constraint, secrecy, and procedure*), together with Chapter Eleven decision-resolution requirements.
 >
 > **File-specific implementation anchors**
 > - **Taxonomy home:** data types, system classes/dependency types, and steward tiers are canonical in **Chapters S1–S3**; other corpus files reference these labels.
 > - **Chapter Ten structure:** This folder implements Chapter Ten themes operationally (challenge/redress via **Article XII-B**; auditability via **Article XV-A** with **Chapters Two through Four**; justice and emergencies via **Article XXIII** with **Chapter One** section 6.4; info-sphere and publication via **Articles XIV** and **VIII-C** with Chapter Five clusters). It must not narrow those articles.
-> - **Intervention layering:** **CJS-5E.2** (*Implementation and cross-implementation intervention and override integrity terms*) and **CJS-5A.2** (*Implementation and cross-implementation intervention governance and override-authorization terms*) — jointly applicable where relevant.
+> - **Intervention layering:** **CJS-5.20** (*Implementation and cross-implementation intervention and override integrity terms*) and **CJS-5.3** (*Implementation and cross-implementation intervention governance and override-authorization terms*) — jointly applicable where relevant.
 > - **Voting / crypto / roles:** Chapter Eleven section 4 (*Voting and Binding Collective Choice Protocols*); Chapter Four section 5.1 (*Cryptographic protection, credentials, and verification*); Chapter Eleven section 5 (*Authorized Roles, Competency Development, and Contribution*).
 > - **Capital-markets scope:** specialist corporate-securities law remains outside dedicated implementation file coverage.
 > - **Joint implementation read:** where **S2/S3** intersect institutional governance, forum operations, or **CJS-5** clusters, read **`corpus_joint_structure.md`** **CJS-2** (especially **CJS-2.1**) and **CJS-3**.

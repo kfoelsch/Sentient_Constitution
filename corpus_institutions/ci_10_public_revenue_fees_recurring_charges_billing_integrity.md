@@ -51,7 +51,7 @@
 
 <br>
 
-Apply `corpus_joint_structure.md` **CJS-5A.4** **Class-aligned revenue and access-burden floor** for the shared floor. **CI-10.1** states only the fiscal-map owner, constrained-capacity priority owner, and **Protocol S5** reporting channel; identify **CI-10.2** and **CI-12.3** owners where recurring charges are supervised.
+Apply `corpus_joint_structure.md` **CJS-5.5** **Class-aligned revenue and access-burden floor** for the shared floor. **CI-10.1** states only the fiscal-map owner, constrained-capacity priority owner, and **Protocol S5** reporting channel; identify **CI-10.2** and **CI-12.3** owners where recurring charges are supervised.
 
 ### CI-10.2: Recurring charges, renewals, and commercial billing integrity
 <details>
@@ -78,7 +78,7 @@ Apply `corpus_joint_structure.md` **CJS-5A.4** **Class-aligned revenue and acces
 
 <br>
 
-Apply `corpus_joint_structure.md` **CJS-5D.2** **Commitment, renewal, and charge-exit integrity** for the shared floor. **CI-10.2** states only the charge-supervision map owner, stricter-law check, reclassification trigger, and **CI-10.1** fiscal-interface linkage; publish the local map naming charge type, class/tier assignment, accountable office, evidence artifact, and billing/exit complaint route.
+Apply `corpus_joint_structure.md` **CJS-5.17** **Commitment, renewal, and charge-exit integrity** for the shared floor. **CI-10.2** states only the charge-supervision map owner, stricter-law check, reclassification trigger, and **CI-10.1** fiscal-interface linkage; publish the local map naming charge type, class/tier assignment, accountable office, evidence artifact, and billing/exit complaint route.
 
 ---
 

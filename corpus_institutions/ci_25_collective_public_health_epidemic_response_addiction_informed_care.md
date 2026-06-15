@@ -24,7 +24,7 @@
 <br>
 
 
-Apply `corpus_joint_structure.md` **CJS-5A.4** **Collective-health and emergency support-bundle floor** for the shared floor. **CI-25** states only the local pathway owner, support-bundle record, addiction-routing owner, stigma-control file, and emergency-secrecy sunset review route.
+Apply `corpus_joint_structure.md` **CJS-5.5** **Collective-health and emergency support-bundle floor** for the shared floor. **CI-25** states only the local pathway owner, support-bundle record, addiction-routing owner, stigma-control file, and emergency-secrecy sunset review route.
 
 ---
 

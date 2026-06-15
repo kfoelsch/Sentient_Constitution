@@ -26,7 +26,7 @@ CJS_DIR = "corpus_joint_structure"
 
 DESTINATION_RULES: tuple[tuple[str, tuple[str, ...], tuple[str, ...]], ...] = (
     (
-        "CJS-5A / CJS-4.1 / CJS-4.7",
+        "CJS-5.2–CJS-5.7 / CJS-4.1 / CJS-4.7",
         (
             "authority",
             "delegation",
@@ -43,7 +43,7 @@ DESTINATION_RULES: tuple[tuple[str, tuple[str, ...], tuple[str, ...]], ...] = (
         ("authority/procedure", "shared procedural abstraction"),
     ),
     (
-        "CJS-5B",
+        "CJS-5.8–CJS-5.11",
         (
             "audit",
             "evidence",
@@ -59,7 +59,7 @@ DESTINATION_RULES: tuple[tuple[str, tuple[str, ...], tuple[str, ...]], ...] = (
         ("evidence/audit", "claim integrity"),
     ),
     (
-        "CJS-5C",
+        "CJS-5.12–CJS-5.15",
         (
             "participation",
             "notice",
@@ -74,7 +74,7 @@ DESTINATION_RULES: tuple[tuple[str, tuple[str, ...], tuple[str, ...]], ...] = (
         ("participation/disclosure", "comprehension/accessibility"),
     ),
     (
-        "CJS-5D",
+        "CJS-5.16–CJS-5.18",
         (
             "dependency",
             "exit",
@@ -88,7 +88,7 @@ DESTINATION_RULES: tuple[tuple[str, tuple[str, ...], tuple[str, ...]], ...] = (
         ("dependency/exit", "lifecycle integrity"),
     ),
     (
-        "CJS-5E",
+        "CJS-5.19–CJS-5.23",
         (
             "failure",
             "emergency",

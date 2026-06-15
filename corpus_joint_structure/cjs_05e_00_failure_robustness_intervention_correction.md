@@ -1,9 +1,9 @@
-## CJS-5E: Failure, robustness, intervention, and correction
+## Failure, robustness, intervention, and correction (CJS-5.19–CJS-5.23)
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [CJS-1.2](cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
-- Downstream: this section's local operational requirements for **CJS-5E: Failure, robustness, intervention, and correction**.
+- Downstream: this section's local operational requirements for **CJS-5.19–CJS-5.23: Failure, robustness, intervention, and correction**.
 - Read with: [CJS-1.2](cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router.
 
 </details>
@@ -27,21 +27,21 @@ This family collects the operational clusters for degraded operation, interventi
 
 | Cluster | Section |
 |---|---|
-| **CJS-5E.1** | Implementation and cross-implementation graceful degradation and failure-mode integrity terms |
-| **CJS-5E.2** | Implementation and cross-implementation intervention and override integrity terms |
-| **CJS-5E.3** | Implementation and cross-implementation reversibility and containment terms |
-| **CJS-5E.4** | Implementation and cross-implementation adversarial robustness and abuse-resistance terms |
-| **CJS-5E.5** | Implementation and cross-implementation structural review, correction urgency, and disclosure terms |
+| **CJS-5.19** | Implementation and cross-implementation graceful degradation and failure-mode integrity terms |
+| **CJS-5.20** | Implementation and cross-implementation intervention and override integrity terms |
+| **CJS-5.21** | Implementation and cross-implementation reversibility and containment terms |
+| **CJS-5.22** | Implementation and cross-implementation adversarial robustness and abuse-resistance terms |
+| **CJS-5.23** | Implementation and cross-implementation structural review, correction urgency, and disclosure terms |
 
 ---
 
-## CJS-5E.1 Implementation and cross-implementation graceful degradation and failure-mode integrity terms
+## CJS-5.19 Implementation and cross-implementation graceful degradation and failure-mode integrity terms
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [CJS-1.2](cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
-- Downstream: this section's local operational requirements for **CJS-5E.1 Implementation and cross-implementation graceful degradation and failure-mode integrity terms**.
-- Read with: **CJS-5E.1**; **CJS-5C.3 and CJS-5C.4**; **CJS-5D.1**; **CJS-5E.3 and CJS-5D.3**; **CJS-5E.5 and CJS-5B.1**.
+- Downstream: this section's local operational requirements for **CJS-5.19 Implementation and cross-implementation graceful degradation and failure-mode integrity terms**.
+- Read with: **CJS-5.19**; **CJS-5.14 and CJS-5.15**; **CJS-5.16**; **CJS-5.21 and CJS-5.18**; **CJS-5.23 and CJS-5.8**.
 
 </details>
 
@@ -66,11 +66,11 @@ This family collects the operational clusters for degraded operation, interventi
 Use this rule when reliability, signaling, containment, or recovery depends on standalone system behavior or combined system, dependency, or implementation-layer behavior.
 
 Read it with:
-- **CJS-5E.1 — Graceful Degradation and Failure Mode Integrity**
-- **CJS-5C.3** (*Implementation and cross-implementation salience integrity and attention-allocation terms*) and **CJS-5C.4** (*Implementation and cross-implementation disclosure sufficiency and observability terms*) — System Status, Risk, and Scope Representation
-- **CJS-5D.1 — Dependency Awareness, Disclosure, and Risk Integrity**
-- **CJS-5E.3** (*Implementation and cross-implementation reversibility and containment terms*) and **CJS-5D.3** (*Implementation and cross-implementation data-retention and lifecycle-integrity terms*) — Reversibility and Containment
-- **CJS-5E.5** (*Implementation and cross-implementation structural review, correction urgency, and disclosure terms*) and **CJS-5B.1** (*Implementation and cross-implementation integrity assurance and resilience operations*) — Evolution, Revalidation, and Non-Entrenchment
+- **CJS-5.19 — Graceful Degradation and Failure Mode Integrity**
+- **CJS-5.14** (*Implementation and cross-implementation salience integrity and attention-allocation terms*) and **CJS-5.15** (*Implementation and cross-implementation disclosure sufficiency and observability terms*) — System Status, Risk, and Scope Representation
+- **CJS-5.16 — Dependency Awareness, Disclosure, and Risk Integrity**
+- **CJS-5.21** (*Implementation and cross-implementation reversibility and containment terms*) and **CJS-5.18** (*Implementation and cross-implementation data-retention and lifecycle-integrity terms*) — Reversibility and Containment
+- **CJS-5.23** (*Implementation and cross-implementation structural review, correction urgency, and disclosure terms*) and **CJS-5.8** (*Implementation and cross-implementation integrity assurance and resilience operations*) — Evolution, Revalidation, and Non-Entrenchment
 - `corpus_systems.md` **Protocol A — System Design, Testing, Verification, and Deployment**
 
 Implementation and cross-implementation graceful degradation and failure-mode integrity terms
@@ -127,13 +127,13 @@ Proportional application
 - OP-O: Degraded-mode duties scale with impact, dependency, and irreversibility risk.
 - OP-E: Evaluation must verify simplified handling does not hide capability loss or externalize harm.
 - OP-C: Reduced controls are non-compliant where material risk remains.---
-## CJS-5E.2 Implementation and cross-implementation intervention and override integrity terms
+## CJS-5.20 Implementation and cross-implementation intervention and override integrity terms
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [CJS-1.2](cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
-- Downstream: this section's local operational requirements for **CJS-5E.2 Implementation and cross-implementation intervention and override integrity terms**.
-- Read with: **CJS-5E.2**; **CJS-5E.1**; **CJS-5B.2**; **CJS-5E.4**; **CJS-5E.5 and CJS-5B.1**; **CJS-5A.2 and CJS-5E.2**.
+- Downstream: this section's local operational requirements for **CJS-5.20 Implementation and cross-implementation intervention and override integrity terms**.
+- Read with: **CJS-5.20**; **CJS-5.19**; **CJS-5.9**; **CJS-5.22**; **CJS-5.23 and CJS-5.8**; **CJS-5.3 and CJS-5.20**.
 
 </details>
 
@@ -155,12 +155,12 @@ Proportional application
 Use this rule when technical intervention, governance authorization, and accountability depend on standalone system behavior or combined system, governance, or implementation-layer behavior.
 
 Read it with:
-- **CJS-5E.2 — Intervention and Override Rights**
-- **CJS-5E.1 — Graceful Degradation and Failure Mode Integrity**
-- **CJS-5B.2 — Auditability**
-- **CJS-5E.4 — Adversarial Robustness and Abuse Resistance**
-- **CJS-5E.5** (*Implementation and cross-implementation structural review, correction urgency, and disclosure terms*) and **CJS-5B.1** (*Implementation and cross-implementation integrity assurance and resilience operations*) — Evolution, Revalidation, and Non-Entrenchment
-- **CJS-5A.2 — Intervention governance and override authorization**
+- **CJS-5.20 — Intervention and Override Rights**
+- **CJS-5.19 — Graceful Degradation and Failure Mode Integrity**
+- **CJS-5.9 — Auditability**
+- **CJS-5.22 — Adversarial Robustness and Abuse Resistance**
+- **CJS-5.23** (*Implementation and cross-implementation structural review, correction urgency, and disclosure terms*) and **CJS-5.8** (*Implementation and cross-implementation integrity assurance and resilience operations*) — Evolution, Revalidation, and Non-Entrenchment
+- **CJS-5.3 — Intervention governance and override authorization**
 - **Chapter One §6.4.1 — Rights-Collision Decision Test**
 - **`corpus_forum.md` CF-12 through CF-14 — Forum continuity, fallback operation, and emergency adjudication**
 - Constitutional hooks in **Articles IX, XII, and XIII**
@@ -217,13 +217,13 @@ Proportional application
 
 ---
 
-## CJS-5E.3 Implementation and cross-implementation reversibility and containment terms
+## CJS-5.21 Implementation and cross-implementation reversibility and containment terms
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [CJS-1.2](cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
-- Downstream: this section's local operational requirements for **CJS-5E.3 Implementation and cross-implementation reversibility and containment terms**.
-- Read with: **CJS-5E.3 and CJS-5D.3**; **CJS-5D.1**; **CJS-5E.1**; **CJS-5B.2**; **CJS-5B.3**; **CJS-5B.4**.
+- Downstream: this section's local operational requirements for **CJS-5.21 Implementation and cross-implementation reversibility and containment terms**.
+- Read with: **CJS-5.21 and CJS-5.18**; **CJS-5.16**; **CJS-5.19**; **CJS-5.9**; **CJS-5.10**; **CJS-5.11**.
 
 </details>
 
@@ -248,12 +248,12 @@ Proportional application
 Use this rule when rollback, failure isolation, or restoration depends on a standalone system, institution, forum, or bounded decision domain, or on more than one system, dependency, institution, or implementation layer.
 
 Read it with:
-- **CJS-5E.3** (*Implementation and cross-implementation reversibility and containment terms*) and **CJS-5D.3** (*Implementation and cross-implementation data-retention and lifecycle-integrity terms*) — Reversibility and Containment
-- **CJS-5D.1 — Dependency Awareness, Disclosure, and Risk Integrity**
-- **CJS-5E.1 — Graceful Degradation and Failure Mode Integrity**
-- **CJS-5B.2 — Auditability**
-- **CJS-5B.3 — Tiered Transparency and Audit Access**
-- **CJS-5B.4 — Independent Verification and Integrity of Claims**
+- **CJS-5.21** (*Implementation and cross-implementation reversibility and containment terms*) and **CJS-5.18** (*Implementation and cross-implementation data-retention and lifecycle-integrity terms*) — Reversibility and Containment
+- **CJS-5.16 — Dependency Awareness, Disclosure, and Risk Integrity**
+- **CJS-5.19 — Graceful Degradation and Failure Mode Integrity**
+- **CJS-5.9 — Auditability**
+- **CJS-5.10 — Tiered Transparency and Audit Access**
+- **CJS-5.11 — Independent Verification and Integrity of Claims**
 
 Implementation and cross-implementation reversibility and containment terms
 - OP-O: Systems must be designed to limit irreversible harm, keep failures from spreading, and restore or compensate affected parties when rollback cannot fully undo the harm.
@@ -278,14 +278,16 @@ Higher-impact tested-recovery requirement
 Compensatory restoration and limitation disclosure
 - OP-O: When full rollback is not feasible, systems must provide practical restoration or compensation and disclose the limits of rollback before affected parties rely on the system where feasible.
 - OP-E: Reviewers must verify that restoration or compensation can actually be delivered, and that the limits were clear enough for affected parties, auditors, or oversight bodies to use.
-- OP-C: Hiding rollback limits, overstating reversibility, or failing to plan for foreseeable restoration or compensation is non-compliant.---
-## CJS-5E.4 Implementation and cross-implementation adversarial robustness and abuse-resistance terms
+- OP-C: Hiding rollback limits, overstating reversibility, or failing to plan for foreseeable restoration or compensation is non-compliant.
+
+---
+## CJS-5.22 Implementation and cross-implementation adversarial robustness and abuse-resistance terms
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [CJS-1.2](cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
-- Downstream: this section's local operational requirements for **CJS-5E.4 Implementation and cross-implementation adversarial robustness and abuse-resistance terms**.
-- Read with: **CJS-5E.4**; **CJS-5C.4**; **CJS-5D.1**; **CJS-5E.1**; **CJS-5B.2**; **CJS-5B.4**.
+- Downstream: this section's local operational requirements for **CJS-5.22 Implementation and cross-implementation adversarial robustness and abuse-resistance terms**.
+- Read with: **CJS-5.22**; **CJS-5.15**; **CJS-5.16**; **CJS-5.19**; **CJS-5.9**; **CJS-5.11**.
 
 </details>
 
@@ -307,17 +309,17 @@ Compensatory restoration and limitation disclosure
 Use this rule when attack surfaces, incentive exploitation, or integrity defenses depend on a standalone system, institution, forum, or bounded decision domain, or on more than one system, dependency, institution, governance path, or implementation layer.
 
 Read it with:
-- **CJS-5E.4 — Adversarial Robustness and Abuse Resistance**
-- **CJS-5C.4 — Transparency and Disclosure**
-- **CJS-5D.1 — Dependency Awareness, Disclosure, and Risk Integrity**
-- **CJS-5E.1 — Graceful Degradation and Failure Mode Integrity**
-- **CJS-5B.2 — Auditability**
-- **CJS-5B.4 — Independent Verification and Integrity of Claims**
-- **CJS-5E.3** (*Implementation and cross-implementation reversibility and containment terms*) and **CJS-5D.3** (*Implementation and cross-implementation data-retention and lifecycle-integrity terms*) — Reversibility and Containment
-- **CJS-5E.5** (*Implementation and cross-implementation structural review, correction urgency, and disclosure terms*) and **CJS-5B.1** (*Implementation and cross-implementation integrity assurance and resilience operations*) — Evolution, Revalidation, and Non-Entrenchment
-- **CJS-5A.1** (*Implementation and cross-implementation distributed and proportional authority terms*) and **CJS-5C.1** (*Implementation and cross-implementation quorum and participatory legitimacy terms*) for distributed authority and participation legitimacy
-- **CJS-5A.4 — Burden of Justification and Constraint**
-- **CJS-5A.5 — Constrained Secrecy and Protected Investigations**
+- **CJS-5.22 — Adversarial Robustness and Abuse Resistance**
+- **CJS-5.15 — Transparency and Disclosure**
+- **CJS-5.16 — Dependency Awareness, Disclosure, and Risk Integrity**
+- **CJS-5.19 — Graceful Degradation and Failure Mode Integrity**
+- **CJS-5.9 — Auditability**
+- **CJS-5.11 — Independent Verification and Integrity of Claims**
+- **CJS-5.21** (*Implementation and cross-implementation reversibility and containment terms*) and **CJS-5.18** (*Implementation and cross-implementation data-retention and lifecycle-integrity terms*) — Reversibility and Containment
+- **CJS-5.23** (*Implementation and cross-implementation structural review, correction urgency, and disclosure terms*) and **CJS-5.8** (*Implementation and cross-implementation integrity assurance and resilience operations*) — Evolution, Revalidation, and Non-Entrenchment
+- **CJS-5.2** (*Implementation and cross-implementation distributed and proportional authority terms*) and **CJS-5.12** (*Implementation and cross-implementation quorum and participatory legitimacy terms*) for distributed authority and participation legitimacy
+- **CJS-5.5 — Burden of Justification and Constraint**
+- **CJS-5.6 — Constrained Secrecy and Protected Investigations**
 
 Implementation and cross-implementation adversarial robustness and abuse-resistance terms
 - OP-O: Systems must be designed and maintained to resist manipulation, exploitation, coordinated abuse, and integrity attacks.
@@ -386,13 +388,13 @@ Proportional application
 
 ---
 
-## CJS-5E.5 Implementation and cross-implementation structural review, correction urgency, and disclosure terms
+## CJS-5.23 Implementation and cross-implementation structural review, correction urgency, and disclosure terms
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [CJS-1.2](cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
-- Downstream: this section's local operational requirements for **CJS-5E.5 Implementation and cross-implementation structural review, correction urgency, and disclosure terms**.
-- Read with: **CJS-5E.1**; **CJS-5E.3 and CJS-5D.3**; **CJS-5E.5 and CJS-5B.1**; **CJS-5A.6**; **CJS-5A.3 and CJS-5B.1**.
+- Downstream: this section's local operational requirements for **CJS-5.23 Implementation and cross-implementation structural review, correction urgency, and disclosure terms**.
+- Read with: **CJS-5.19**; **CJS-5.21 and CJS-5.18**; **CJS-5.23 and CJS-5.8**; **CJS-5.7**; **CJS-5.4 and CJS-5.8**.
 
 </details>
 
@@ -412,16 +414,16 @@ Proportional application
 <br>
 
 
-**Router read:** Mandatory read-with for **CJS-R19** (*Implementation and cross-implementation integrity assurance and resilie…*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CJS-5B.1**.
+**Router read:** Mandatory read-with for **CJS-R19** (*Implementation and cross-implementation integrity assurance and resilie…*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CJS-5.8**.
 
 Use this rule when recurring failures, Correction Urgency Level (**CUL**) assignment, or structural transparency depends on standalone system behavior or combined institutional, system, dependency, or implementation-layer behavior.
 
 Read it with:
-- **CJS-5A.6 — Procedural Integrity and Adjudication**
-- **CJS-5E.1 — Graceful Degradation and Failure Mode Integrity**
-- **CJS-5E.3** (*Implementation and cross-implementation reversibility and containment terms*) and **CJS-5D.3** (*Implementation and cross-implementation data-retention and lifecycle-integrity terms*) — Reversibility and Containment
-- **CJS-5E.5** (*Implementation and cross-implementation structural review, correction urgency, and disclosure terms*) and **CJS-5B.1** (*Implementation and cross-implementation integrity assurance and resilience operations*) — Evolution, Revalidation, and Non-Entrenchment
-- **CJS-5A.3** (*Implementation and cross-implementation reflexive transparency and accountability terms*) and **CJS-5B.1** (*Implementation and cross-implementation integrity assurance and resilience operations*) — Reflexive Transparency and Accountability
+- **CJS-5.7 — Procedural Integrity and Adjudication**
+- **CJS-5.19 — Graceful Degradation and Failure Mode Integrity**
+- **CJS-5.21** (*Implementation and cross-implementation reversibility and containment terms*) and **CJS-5.18** (*Implementation and cross-implementation data-retention and lifecycle-integrity terms*) — Reversibility and Containment
+- **CJS-5.23** (*Implementation and cross-implementation structural review, correction urgency, and disclosure terms*) and **CJS-5.8** (*Implementation and cross-implementation integrity assurance and resilience operations*) — Evolution, Revalidation, and Non-Entrenchment
+- **CJS-5.4** (*Implementation and cross-implementation reflexive transparency and accountability terms*) and **CJS-5.8** (*Implementation and cross-implementation integrity assurance and resilience operations*) — Reflexive Transparency and Accountability
 - `corpus_systems.md` **Chapter S1** and **Chapter S2**
 - Owner-layer-specific monitoring or publication duties.
 
@@ -459,6 +461,7 @@ Realignment resistance and dissolution-review trigger floor
 - OP-O: Repeated, verified anti-constitutional misconduct, chronic misalignment, or realignment resistance must trigger structural review that can escalate to constrained authority, supervised operation, dissolution, disbandment, or equivalent owner-layer consequence where lesser measures cannot protect constitutional obligations.
 - OP-E: Evaluation must verify whether obstruction, concealment, retaliation, strategic delay, evidence destruction, metric gaming, dependency lock-in, or structural workaround persists after a reasonable opportunity for good-faith cure, and whether continuity-transfer safeguards preserve rights, services, records, and active challenge pathways during any escalation.
 - OP-C: It is non-compliant to treat persistent realignment resistance as ordinary delay, to use dissolution review as a substitute for the owner-file misconduct classification or personal accountability process, or to dissolve or disband a structure without continuity safeguards for affected rights, services, records, and challenge pathways.
+
 ---
 
 ---

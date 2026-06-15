@@ -24,7 +24,7 @@
 <br>
 
 
-**Purpose and owner boundary.** This section states the institutional application of `corpus_joint_structure.md` **CJS-5C.1** (*Commons, cooperative, and mutual-aid pathway integrity*). CI-22 keeps local due-process, contestability, anti-capture, funding, zoning, tax, and continuity interfaces under **CI-6**, **CI-9**, **CI-12**, and **CI-11**.
+**Purpose and owner boundary.** This section states the institutional application of `corpus_joint_structure.md` **CJS-5.12** (*Commons, cooperative, and mutual-aid pathway integrity*). CI-22 keeps local due-process, contestability, anti-capture, funding, zoning, tax, and continuity interfaces under **CI-6**, **CI-9**, **CI-12**, and **CI-11**.
 
 **1. Records and recognition.** Institutions should accept legible commons-governance records as valid inputs to funding, zoning, tax, and continuity decisions where law permits, subject to local audit and fraud controls.
 

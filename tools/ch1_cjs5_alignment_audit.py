@@ -34,55 +34,55 @@ CJS5_FILES = [
 
 EXPECTED_CLUSTER_IDS = [
     "CJS-5.0",
-    "CJS-5A.1",
-    "CJS-5A.2",
-    "CJS-5A.3",
-    "CJS-5A.4",
-    "CJS-5A.5",
-    "CJS-5A.6",
-    "CJS-5B.1",
-    "CJS-5B.2",
-    "CJS-5B.3",
-    "CJS-5B.4",
-    "CJS-5C.1",
-    "CJS-5C.2",
-    "CJS-5C.3",
-    "CJS-5C.4",
-    "CJS-5D.1",
-    "CJS-5D.2",
-    "CJS-5D.3",
-    "CJS-5E.1",
-    "CJS-5E.2",
-    "CJS-5E.3",
-    "CJS-5E.4",
-    "CJS-5E.5",
+    "CJS-5.2",
+    "CJS-5.3",
+    "CJS-5.4",
+    "CJS-5.5",
+    "CJS-5.6",
+    "CJS-5.7",
+    "CJS-5.8",
+    "CJS-5.9",
+    "CJS-5.10",
+    "CJS-5.11",
+    "CJS-5.12",
+    "CJS-5.13",
+    "CJS-5.14",
+    "CJS-5.15",
+    "CJS-5.16",
+    "CJS-5.17",
+    "CJS-5.18",
+    "CJS-5.19",
+    "CJS-5.20",
+    "CJS-5.21",
+    "CJS-5.22",
+    "CJS-5.23",
 ]
 
 
 CLUSTER_PRINCIPLE_MAP = {
     "CJS-5.0": ["2.1", "3.4", "5.2", "7.1", "7.2", "10"],
-    "CJS-5A.1": ["2.1", "4", "5.2", "7.2", "10"],
-    "CJS-5A.2": ["3.1", "6.1", "6.4", "7.1", "9"],
-    "CJS-5A.3": ["3.2", "4", "5.2", "7.1", "7.2"],
-    "CJS-5A.4": ["6.1", "6.3", "6.4", "7.1", "8", "9"],
-    "CJS-5A.5": ["3.2", "6.2", "6.4", "7.1", "8", "9"],
-    "CJS-5A.6": ["2.1", "3.4", "6.4", "7.1", "8", "10"],
-    "CJS-5B.1": ["3.1", "3.2", "4.1", "7.1", "7.2"],
-    "CJS-5B.2": ["3.2", "4", "7.1", "7.2"],
-    "CJS-5B.3": ["3.2", "6.2", "6.4", "7.1", "8"],
-    "CJS-5B.4": ["3.2", "3.3", "4", "7.1", "7.2"],
-    "CJS-5C.1": ["2.1", "4", "5.2", "6.4", "8", "10"],
-    "CJS-5C.2": ["3.4", "5.2", "7.1", "8"],
-    "CJS-5C.3": ["2", "3.2", "4", "7.1", "8"],
-    "CJS-5C.4": ["3.2", "6.2", "7.1", "8"],
-    "CJS-5D.1": ["3.1", "4.1", "5.1", "7.1", "9"],
-    "CJS-5D.2": ["5.1", "6.1", "7.1", "8", "9"],
-    "CJS-5D.3": ["3.2", "6.2", "7.1", "8", "9"],
-    "CJS-5E.1": ["3.1", "4.1", "5.1", "6.1", "7", "9"],
-    "CJS-5E.2": ["3.1", "6.1", "6.4", "7.1", "9"],
-    "CJS-5E.3": ["3.1", "4.1", "6.1", "7.1", "9"],
-    "CJS-5E.4": ["3.1", "3.2", "4.1", "7.1", "7.2", "9"],
-    "CJS-5E.5": ["3.1", "3.2", "4.1", "5.2", "7.1", "7.2"],
+    "CJS-5.2": ["2.1", "4", "5.2", "7.2", "10"],
+    "CJS-5.3": ["3.1", "6.1", "6.4", "7.1", "9"],
+    "CJS-5.4": ["3.2", "4", "5.2", "7.1", "7.2"],
+    "CJS-5.5": ["6.1", "6.3", "6.4", "7.1", "8", "9"],
+    "CJS-5.6": ["3.2", "6.2", "6.4", "7.1", "8", "9"],
+    "CJS-5.7": ["2.1", "3.4", "6.4", "7.1", "8", "10"],
+    "CJS-5.8": ["3.1", "3.2", "4.1", "7.1", "7.2"],
+    "CJS-5.9": ["3.2", "4", "7.1", "7.2"],
+    "CJS-5.10": ["3.2", "6.2", "6.4", "7.1", "8"],
+    "CJS-5.11": ["3.2", "3.3", "4", "7.1", "7.2"],
+    "CJS-5.12": ["2.1", "4", "5.2", "6.4", "8", "10"],
+    "CJS-5.13": ["3.4", "5.2", "7.1", "8"],
+    "CJS-5.14": ["2", "3.2", "4", "7.1", "8"],
+    "CJS-5.15": ["3.2", "6.2", "7.1", "8"],
+    "CJS-5.16": ["3.1", "4.1", "5.1", "7.1", "9"],
+    "CJS-5.17": ["5.1", "6.1", "7.1", "8", "9"],
+    "CJS-5.18": ["3.2", "6.2", "7.1", "8", "9"],
+    "CJS-5.19": ["3.1", "4.1", "5.1", "6.1", "7", "9"],
+    "CJS-5.20": ["3.1", "6.1", "6.4", "7.1", "9"],
+    "CJS-5.21": ["3.1", "4.1", "6.1", "7.1", "9"],
+    "CJS-5.22": ["3.1", "3.2", "4.1", "7.1", "7.2", "9"],
+    "CJS-5.23": ["3.1", "3.2", "4.1", "5.2", "7.1", "7.2"],
 }
 
 
@@ -197,7 +197,7 @@ class Ch1Cjs5AlignmentAuditor:
         path = self.repo_root / rel_path
         lines = path.read_text().splitlines()
         starts = []
-        cluster_pattern = re.compile(r"^##\s+(CJS-5(?:\.0|[A-E]\.\d+))\s+(.+)$")
+        cluster_pattern = re.compile(r"^##\s+(CJS-5\.\d+)\s+(.+)$")
         for idx, line in enumerate(lines):
             match = cluster_pattern.match(line)
             if match:
@@ -376,6 +376,8 @@ class Ch1Cjs5AlignmentAuditor:
                 })
         for cluster in self.clusters:
             if cluster.cluster_id not in EXPECTED_CLUSTER_IDS:
+                if cluster.cluster_id == "CJS-5.1":
+                    continue
                 self.gaps["inventory"].append({
                     "cluster_id": cluster.cluster_id,
                     "title": cluster.title,
@@ -482,12 +484,12 @@ class Ch1Cjs5AlignmentAuditor:
             "## Remediation Roadmap",
             "",
             "1. Treat `weak_trace` items as advisory unless the project wants every CJS-5 cluster to cite Chapter 01 directly.",
-            "2. If direct traceability is desired, add concise `Read it with` bullets to high-risk clusters first: CJS-5A.2, CJS-5A.4, CJS-5A.5, CJS-5C.*, CJS-5D.*, and CJS-5E.*.",
+            "2. If direct traceability is desired, add concise `Read it with` bullets to high-risk clusters first: CJS-5.3, CJS-5.5, CJS-5.6, CJS-5.12–CJS-5.15.*, CJS-5.16–CJS-5.18.*, and CJS-5.19–CJS-5.23.*.",
             "3. Keep remediation text limited to routing metadata; do not convert CJS-5 into a competing Chapter 01 or Chapter Five doctrine layer.",
             "",
             "## Manual Review Notes",
             "",
-            "High-risk families for human review are CJS-5A, CJS-5C, CJS-5D, and CJS-5E. The automated pass checks structure and trace signals; semantic adequacy should be reviewed against the operative text before making corpus edits.",
+            "High-risk families for human review are CJS-5.2–CJS-5.7, CJS-5.12–CJS-5.15, CJS-5.16–CJS-5.18, and CJS-5.19–CJS-5.23. The automated pass checks structure and trace signals; semantic adequacy should be reviewed against the operative text before making corpus edits.",
             "",
         ])
         path.write_text("\n".join(lines))

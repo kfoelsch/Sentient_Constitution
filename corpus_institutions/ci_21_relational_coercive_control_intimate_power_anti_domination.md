@@ -24,7 +24,7 @@
 <br>
 
 
-Apply `corpus_joint_structure.md` **CJS-5D.2** **Dependency-based coercion and reputation-lock pathway integrity** for the shared floor. **CI-21** states only local intake, routing, and asymmetry-review owner duties for intimate, household, care, workplace, community, and platform contexts — without dissolving private association or conscience protections that **Chapter Ten** guarantees.
+Apply `corpus_joint_structure.md` **CJS-5.17** **Dependency-based coercion and reputation-lock pathway integrity** for the shared floor. **CI-21** states only local intake, routing, and asymmetry-review owner duties for intimate, household, care, workplace, community, and platform contexts — without dissolving private association or conscience protections that **Chapter Ten** guarantees.
 
 Name the coercive-control intake owner; routing lanes for hotlines, labor portals, platform abuse paths, and family services; and the office responsible for economic, credential, platform, and reputation asymmetry review. Read **CI-6**, **CI-12**, and **CI-5** for local procedure, participation, and integrity interfaces.
 

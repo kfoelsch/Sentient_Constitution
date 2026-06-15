@@ -26,11 +26,11 @@
 
 **Router read:** Mandatory read-with for **CJS-R11** (*Forum continuity*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CF-12**.
 
-Institutional redesign, consolidation, or transfer must preserve non-regression and continuity duties. Apply `corpus_joint_structure.md` **CJS-5D.3** (*Implementation and cross-implementation data-retention and lifecycle-integrity terms*) **Transition continuity and authority-transfer lifecycle integrity** for the shared continuity, authority-transfer, sunset, reauthorization, and challenge-pathway floor. Where the transition materially involves constitutional systems, institutions must read this section with `corpus_systems.md` **Protocol T** (*Transition Constitution and Migration Governance*). **CI-14** (*Transitional governance and institutional evolution*) states the institutional custody, authorization, and oversight interface; Protocol T remains the operative home for system phase structure, gate criteria, fallback handling, off-ramps, and re-baselining mechanics.
+Institutional redesign, consolidation, or transfer must preserve non-regression and continuity duties. Apply `corpus_joint_structure.md` **CJS-5.18** (*Implementation and cross-implementation data-retention and lifecycle-integrity terms*) **Transition continuity and authority-transfer lifecycle integrity** for the shared continuity, authority-transfer, sunset, reauthorization, and challenge-pathway floor. Where the transition materially involves constitutional systems, institutions must read this section with `corpus_systems.md` **Protocol T** (*Transition Constitution and Migration Governance*). **CI-14** (*Transitional governance and institutional evolution*) states the institutional custody, authorization, and oversight interface; Protocol T remains the operative home for system phase structure, gate criteria, fallback handling, off-ramps, and re-baselining mechanics.
 
 Institutional transition interface (Article XXV interface):
 - name the institution, role, or body that owns each transition authority, review authority, and evidence-custody duty;
-- publish local procedures for interim authority, review cadence, reauthorization, unresolved-risk explanation, and evidence custody under the CJS-5D.3 transition floor;
+- publish local procedures for interim authority, review cadence, reauthorization, unresolved-risk explanation, and evidence custody under the CJS-5.18 transition floor;
 - document material institutional transition decisions, delays, reversals, and remediation actions in auditable form with rationale and risk implications.
 
 ### CI-14.1: Interface — Article XXV-D (non-compliant property, seizure, voluntary incentives)
@@ -58,7 +58,7 @@ Institutional transition interface (Article XXV interface):
 
 <br>
 
-Apply `corpus_joint_structure.md` **CJS-5B.1** **Property-custody and incentive-separation control chain** for the shared floor. **CI-14.1** states only the Article XXV-D role map: eligibility owner, custody body, incentive or payout adjudicator, enforcement executor, review authority, fund owner, notice channel, contest path, end-date authority, revalidation owner, and **CI-5** conflict-disclosure route. For **Class A**, **Class B**, and **Critical System Steward** scope, connect to **Protocol A** subsection **G** and **CI-11**.
+Apply `corpus_joint_structure.md` **CJS-5.8** **Property-custody and incentive-separation control chain** for the shared floor. **CI-14.1** states only the Article XXV-D role map: eligibility owner, custody body, incentive or payout adjudicator, enforcement executor, review authority, fund owner, notice channel, contest path, end-date authority, revalidation owner, and **CI-5** conflict-disclosure route. For **Class A**, **Class B**, and **Critical System Steward** scope, connect to **Protocol A** subsection **G** and **CI-11**.
 
 ### CI-14.2: Article XXV-D — trigger catalog, anti-abuse metrics, and publication requirements
 <details>

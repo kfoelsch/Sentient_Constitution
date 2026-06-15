@@ -1,9 +1,9 @@
-## CJS-5D: Dependency, exit, and lifecycle integrity
+## Dependency, exit, and lifecycle integrity (CJS-5.16–CJS-5.18)
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [CJS-1.2](cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
-- Downstream: this section's local operational requirements for **CJS-5D: Dependency, exit, and lifecycle integrity**.
+- Downstream: this section's local operational requirements for **CJS-5.16–CJS-5.18: Dependency, exit, and lifecycle integrity**.
 - Read with: [CJS-1.2](cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router.
 
 </details>
@@ -24,19 +24,19 @@ This family collects the operational clusters that govern dependency mapping, me
 
 | Cluster | Section |
 |---|---|
-| **CJS-5D.1** | Implementation and cross-implementation dependency integrity and disclosure terms |
-| **CJS-5D.2** | Implementation and cross-implementation interoperability, portability, and exit-integrity terms |
-| **CJS-5D.3** | Implementation and cross-implementation data-retention and lifecycle-integrity terms |
+| **CJS-5.16** | Implementation and cross-implementation dependency integrity and disclosure terms |
+| **CJS-5.17** | Implementation and cross-implementation interoperability, portability, and exit-integrity terms |
+| **CJS-5.18** | Implementation and cross-implementation data-retention and lifecycle-integrity terms |
 
 ---
 
-## CJS-5D.1 Implementation and cross-implementation dependency integrity and disclosure terms
+## CJS-5.16 Implementation and cross-implementation dependency integrity and disclosure terms
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [CJS-1.2](cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
-- Downstream: this section's local operational requirements for **CJS-5D.1 Implementation and cross-implementation dependency integrity and disclosure terms**.
-- Read with: **CJS-5D.1**; **CJS-5C.4**; **CJS-5D.2**; **CJS-5B.2**; **CJS-5E.5 and CJS-5B.1**; **CI-11**.
+- Downstream: this section's local operational requirements for **CJS-5.16 Implementation and cross-implementation dependency integrity and disclosure terms**.
+- Read with: **CJS-5.16**; **CJS-5.15**; **CJS-5.17**; **CJS-5.9**; **CJS-5.23 and CJS-5.8**; **CI-11**.
 
 </details>
 
@@ -61,11 +61,11 @@ This family collects the operational clusters that govern dependency mapping, me
 Use this rule when dependency mapping, risk treatment, or accountability depends on standalone system behavior or combined system, dependency, or implementation-layer behavior.
 
 Read it with:
-- **CJS-5D.1 — Dependency Awareness, Disclosure, and Risk Integrity**
-- **CJS-5C.4 — Transparency and Disclosure**
-- **CJS-5D.2 — Interoperability, Portability, and Exit Integrity**
-- **CJS-5B.2 — Auditability**
-- **CJS-5E.5** (*Implementation and cross-implementation structural review, correction urgency, and disclosure terms*) and **CJS-5B.1** (*Implementation and cross-implementation integrity assurance and resilience operations*) — Evolution, Revalidation, and Non-Entrenchment
+- **CJS-5.16 — Dependency Awareness, Disclosure, and Risk Integrity**
+- **CJS-5.15 — Transparency and Disclosure**
+- **CJS-5.17 — Interoperability, Portability, and Exit Integrity**
+- **CJS-5.9 — Auditability**
+- **CJS-5.23** (*Implementation and cross-implementation structural review, correction urgency, and disclosure terms*) and **CJS-5.8** (*Implementation and cross-implementation integrity assurance and resilience operations*) — Evolution, Revalidation, and Non-Entrenchment
 - `corpus_systems.md` **Protocol A — System Design, Testing, Verification, and Deployment**
 - **Article XV-A**
 
@@ -118,13 +118,13 @@ Proportional application
 - OP-O: The more harm a dependency failure could cause, and the more sentients or systems rely on it, the stronger the mapping, disclosure, monitoring, and mitigation duties must be.
 - OP-E: Reviewers must make sure simplified controls for lower-risk systems do not hide a real material exposure.
 - OP-C: A simplified dependency process is non-compliant if important risks still exist but are not disclosed, monitored, or addressed.---
-## CJS-5D.2 Implementation and cross-implementation interoperability, portability, and exit-integrity terms
+## CJS-5.17 Implementation and cross-implementation interoperability, portability, and exit-integrity terms
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [CJS-1.2](cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
-- Downstream: this section's local operational requirements for **CJS-5D.2 Implementation and cross-implementation interoperability, portability, and exit-integrity terms**.
-- Read with: **CJS-5D.2**; **CJS-5D.1**; **CJS-5C.4**; **CI-12.3**.
+- Downstream: this section's local operational requirements for **CJS-5.17 Implementation and cross-implementation interoperability, portability, and exit-integrity terms**.
+- Read with: **CJS-5.17**; **CJS-5.16**; **CJS-5.15**; **CI-12.3**.
 
 </details>
 
@@ -149,9 +149,9 @@ Proportional application
 Use this rule when lock-in, migration, interface design, or dependency exposure depends on standalone system behavior or combined system, dependency, or implementation-layer behavior.
 
 Read it with:
-- **CJS-5D.2 — Interoperability, Portability, and Exit Integrity**
-- **CJS-5D.1 — Dependency Awareness, Disclosure, and Risk Integrity**
-- **CJS-5C.4 — Transparency and Disclosure**
+- **CJS-5.17 — Interoperability, Portability, and Exit Integrity**
+- **CJS-5.16 — Dependency Awareness, Disclosure, and Risk Integrity**
+- **CJS-5.15 — Transparency and Disclosure**
 - `corpus_systems.md` **Chapter S1 — Information Types and Handling**
 - `corpus_systems.md` **Chapter S2 — System Classification and Handling**
 - `corpus_systems.md` **Chapter S3 — Critical System Stewardship**
@@ -237,13 +237,13 @@ Proportional application
 - OP-O: Interoperability, portability, and exit duties scale with impact, dependency, ecosystem integration, and lock-in irreversibility.
 - OP-E: Evaluation must verify reduced rigor does not create hidden dependencies or external lock-in effects.
 - OP-C: Simplified controls are non-compliant where material lock-in remains.---
-## CJS-5D.3 Implementation and cross-implementation data-retention and lifecycle-integrity terms
+## CJS-5.18 Implementation and cross-implementation data-retention and lifecycle-integrity terms
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [CJS-1.2](cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
-- Downstream: this section's local operational requirements for **CJS-5D.3 Implementation and cross-implementation data-retention and lifecycle-integrity terms**.
-- Read with: **CJS-3.5**; **CJS-5B.2**; **CJS-5B.3**; **CJS-5B.4**; **CJS-5E.3 and CJS-5D.3**; **CJS-5E.5 and CJS-5B.1**.
+- Downstream: this section's local operational requirements for **CJS-5.18 Implementation and cross-implementation data-retention and lifecycle-integrity terms**.
+- Read with: **CJS-3.5**; **CJS-5.9**; **CJS-5.10**; **CJS-5.11**; **CJS-5.21 and CJS-5.18**; **CJS-5.23 and CJS-5.8**.
 
 </details>
 
@@ -268,11 +268,11 @@ Proportional application
 Use this rule when accountability, privacy, reversibility, or classification depends on how data is kept, changed, linked, or deleted within a standalone system, institution, forum, or bounded decision domain, or across more than one system or implementation layer.
 
 Read it with:
-- **CJS-5B.2 — Auditability**
-- **CJS-5B.3 — Tiered Transparency and Audit Access**
-- **CJS-5B.4 — Independent Verification and Integrity of Claims**
-- **CJS-5E.3** (*Implementation and cross-implementation reversibility and containment terms*) and **CJS-5D.3** (*Implementation and cross-implementation data-retention and lifecycle-integrity terms*) — Reversibility and Containment
-- **CJS-5E.5** (*Implementation and cross-implementation structural review, correction urgency, and disclosure terms*) and **CJS-5B.1** (*Implementation and cross-implementation integrity assurance and resilience operations*) — Evolution, Revalidation, and Non-Entrenchment
+- **CJS-5.9 — Auditability**
+- **CJS-5.10 — Tiered Transparency and Audit Access**
+- **CJS-5.11 — Independent Verification and Integrity of Claims**
+- **CJS-5.21** (*Implementation and cross-implementation reversibility and containment terms*) and **CJS-5.18** (*Implementation and cross-implementation data-retention and lifecycle-integrity terms*) — Reversibility and Containment
+- **CJS-5.23** (*Implementation and cross-implementation structural review, correction urgency, and disclosure terms*) and **CJS-5.8** (*Implementation and cross-implementation integrity assurance and resilience operations*) — Evolution, Revalidation, and Non-Entrenchment
 - `corpus_systems.md` **Chapter S1 — Information Types and Handling**, including Types **C**, **G**, **H**, **I**, **N**, and **S**
 - **CJS-3.5 — Classification alignment for supervised scope**
 

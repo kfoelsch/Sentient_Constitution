@@ -19,7 +19,7 @@ Verify that the CJS-5 implementation and cross-implementation operational cluste
 
 ## Audit Checks
 
-1. Inventory all expected CJS-5 clusters: CJS-5.0, CJS-5A.1 through CJS-5A.6, CJS-5B.1 through CJS-5B.4, CJS-5C.1 through CJS-5C.4, CJS-5D.1 through CJS-5D.3, and CJS-5E.1 through CJS-5E.5.
+1. Inventory all expected CJS-5 clusters: CJS-5.0, CJS-5.2 through CJS-5.7, CJS-5.8 through CJS-5.11, CJS-5.12 through CJS-5.15, CJS-5.16 through CJS-5.18, and CJS-5.19 through CJS-5.23.
 2. Extract each cluster title, file location, `Read it with` references, direct Chapter 01 references, owner-layer routing references, and operational rules.
 3. Infer the Chapter 01 principle basis from each cluster's subject matter, using Chapter 01 sections 1 through 10 as the principle inventory.
 4. Validate `OP-O`, `OP-E`, and `OP-C` completeness for each cluster-level and material sub-rule.

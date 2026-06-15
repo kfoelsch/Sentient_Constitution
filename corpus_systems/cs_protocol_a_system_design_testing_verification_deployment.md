@@ -105,7 +105,7 @@ Creating new systems, tools, and environments is an act of stewardship. New depl
 
 **Avoid** black-box systems that bypass consent.
 
-**Open hardware, open software, open systems:** Operational design and stewardship should **align** with **corpus_joint_structure.md** **CJS-5D.2** — *Open hardware, open software, and open systems* — and **CJS-5D.2** (*Implementation and cross-implementation interoperability, portability, and exit-integrity terms*) open data-format and protocol discipline, so that **preference** for **open** stacks scales with **material impact**, **dependency**, and **stewardship tier** under **Chapter S2** and **Chapter S3**. **Classification** and **tier** rules may set **stronger** disclosure, **inspectability**, **substitutability**, format, schema, API, or interchange-protocol expectations for **Class A**, **Class B**, and high-tier systems than for **bounded** or **experimental** scopes, without narrowing **CJS-5A.4** (*Implementation and cross-implementation burden-of-justification and constraint terms*) justification paths where **proprietary** or **closed** choices are **auditably** required.
+**Open hardware, open software, open systems:** Operational design and stewardship should **align** with **corpus_joint_structure.md** **CJS-5.17** — *Open hardware, open software, and open systems* — and **CJS-5.17** (*Implementation and cross-implementation interoperability, portability, and exit-integrity terms*) open data-format and protocol discipline, so that **preference** for **open** stacks scales with **material impact**, **dependency**, and **stewardship tier** under **Chapter S2** and **Chapter S3**. **Classification** and **tier** rules may set **stronger** disclosure, **inspectability**, **substitutability**, format, schema, API, or interchange-protocol expectations for **Class A**, **Class B**, and high-tier systems than for **bounded** or **experimental** scopes, without narrowing **CJS-5.5** (*Implementation and cross-implementation burden-of-justification and constraint terms*) justification paths where **proprietary** or **closed** choices are **auditably** required.
 
 **Modular design and deployments:** Innovation in one verified module (e.g. a new UI) must **not** force alteration of other verified modules (e.g. survival or privacy governance). **That** separation keeps innovations from disrupting baseline requirements.
 
@@ -160,9 +160,9 @@ Environments must support reproduction of failures, isolation of root causes, an
 
 Where feasible, conduct RCA in controlled environments before production changes. Validate corrective measures before deployment.
 
-**G. Governance continuity, crisis communications, and exercises (high-impact systems).** This subsection states governance-side business continuity and recovery expectations. It applies to **Class A** and **Class B** systems, and to materially affecting **Critical System Stewards** (Chapter S3 — Critical System Stewardship). It complements technical resilience, environment separation, and testing elsewhere in this Protocol, and it complements **corpus_joint_structure.md**, **CJS-5E.1** (*Graceful Degradation and Failure Mode Integrity*), incorporated via **Sentient Constitution Chapter Fifteen**. It does **not** create constitutional rights.
+**G. Governance continuity, crisis communications, and exercises (high-impact systems).** This subsection states governance-side business continuity and recovery expectations. It applies to **Class A** and **Class B** systems, and to materially affecting **Critical System Stewards** (Chapter S3 — Critical System Stewardship). It complements technical resilience, environment separation, and testing elsewhere in this Protocol, and it complements **corpus_joint_structure.md**, **CJS-5.19** (*Graceful Degradation and Failure Mode Integrity*), incorporated via **Sentient Constitution Chapter Fifteen**. It does **not** create constitutional rights.
 
-Crisis and emergency measures remain governed by **Sentient Constitution Chapter Five** (*Emergency and Contingency*; *Force Majeure*). Procedural emergency controls, conflict resolution, proportionality, and review of restrictions and emergency measures remain governed by **Chapter Ten, Article XXIII** (*Conflict Resolution, Escalation, and Emergency Proportionality*) as referenced across this corpus. They also remain governed by Chapter Eleven decision-resolution requirements and **corpus_joint_structure.md** **CJS-5A.2** (*Implementation and cross-implementation intervention governance and override-authorization terms*) and **CJS-5E.2** (*Intervention and Override Rights*).
+Crisis and emergency measures remain governed by **Sentient Constitution Chapter Five** (*Emergency and Contingency*; *Force Majeure*). Procedural emergency controls, conflict resolution, proportionality, and review of restrictions and emergency measures remain governed by **Chapter Ten, Article XXIII** (*Conflict Resolution, Escalation, and Emergency Proportionality*) as referenced across this corpus. They also remain governed by Chapter Eleven decision-resolution requirements and **corpus_joint_structure.md** **CJS-5.3** (*Implementation and cross-implementation intervention governance and override-authorization terms*) and **CJS-5.20** (*Intervention and Override Rights*).
 
 **Crisis governance:** Use documented succession and delegation for binding governance decisions when primary authorities are impaired.
 
@@ -178,13 +178,13 @@ Plans must include:
 - **(c)** mandatory publication of constitutional reasoning for emergency interpretive determinations once immediate safety constraints permit
 - **(d)** independent secondary review after stabilization
 
-That review must be consistent with **Chapter Ten, Article XXIII-A** and **corpus_joint_structure.md CJS-5A.6** (*Implementation and cross-implementation procedural integrity and adjudication terms*).
+That review must be consistent with **Chapter Ten, Article XXIII-A** and **corpus_joint_structure.md CJS-5.7** (*Implementation and cross-implementation procedural integrity and adjudication terms*).
 
 **Emergency lifecycle controls (expiry, reauthorization, restoration):** Open emergency actions with predefined **default expiry timestamps**, **independent review intervals**, and **restoration/rollback trigger criteria**.
 
 Tie those criteria to observable conditions.
 
-Continuation past default expiry requires documented reauthorization. That record must show ongoing necessity and proportionality (**CJS-5A.1** (*Implementation and cross-implementation distributed and proportional authority terms*) and **CJS-5C.1** (*Implementation and cross-implementation quorum and participatory legitimacy terms*); **Chapter One** and **Chapter Five** where definitional or scaling detail applies). It must also show why less-restrictive feasible alternatives are insufficient.
+Continuation past default expiry requires documented reauthorization. That record must show ongoing necessity and proportionality (**CJS-5.2** (*Implementation and cross-implementation distributed and proportional authority terms*) and **CJS-5.12** (*Implementation and cross-implementation quorum and participatory legitimacy terms*); **Chapter One** and **Chapter Five** where definitional or scaling detail applies). It must also show why less-restrictive feasible alternatives are insufficient.
 
 Crisis records must capture trigger evidence, alternatives considered, review outcomes, extension rationale, and rollback/restoration execution status for retrospective audit.
 
@@ -220,7 +220,7 @@ Safe failure, quarantine, or controlled handoff must be preferred over speculati
 
 Testing must include adversarial scenarios in which the recovery path is the attack surface (for example, triggering recovery to suppress an emerging fault signal; triggering recovery to expand authority; triggering recovery to re-route contestability).
 
-For **Class A** and **Class B** systems, recovery-path testing must include at least one scenario under each of **corpus_joint_structure.md** **CJS-5E.1** (graceful degradation and failure-mode integrity) and **CJS-5E.4** (adversarial robustness and abuse resistance). Findings feed into **Article XXI-A** RCA and into simulation and stress testing elsewhere in this Protocol.
+For **Class A** and **Class B** systems, recovery-path testing must include at least one scenario under each of **corpus_joint_structure.md** **CJS-5.19** (graceful degradation and failure-mode integrity) and **CJS-5.22** (adversarial robustness and abuse resistance). Findings feed into **Article XXI-A** RCA and into simulation and stress testing elsewhere in this Protocol.
 
 **Recovery-path observability (non-masking rule):** Recovery actions, recovery attempts, and suppressed recovery attempts are themselves auditable events under **Article XV-A**. Observability of the recovery path must be at least as strong as observability of the steady state.
 

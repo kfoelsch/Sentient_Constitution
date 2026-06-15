@@ -116,7 +116,7 @@ References in this file to **anti-constitutional misconduct** are routing shorth
 
 - Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions; and [Chapter Ten](../core_10-10_rights_part_a.md#chapter-ten-foundational-rights) rights architecture where rights interfaces are invoked.
 - Downstream: this section's local operational requirements for **CI-1.4: Proportionality rule**.
-- Read with: **CI-1.4**; **CJS-5A.1**; **CJS-5A.4**; **CJS-5A.6**.
+- Read with: **CI-1.4**; **CJS-5.2**; **CJS-5.5**; **CJS-5.7**.
 
 </details>
 
@@ -135,7 +135,7 @@ References in this file to **anti-constitutional misconduct** are routing shorth
 
 <br>
 
-Institutional burden must scale with impact. This subsection states the CI file's institution-specific baseline. Apply `corpus_joint_structure.md` **CJS-5A.1** (*Implementation and cross-implementation distributed and proportional authority terms*), **CJS-5A.4** (*Implementation and cross-implementation burden-of-justification and constraint terms*), and **CJS-5A.6** (*Implementation and cross-implementation procedural integrity and adjudication terms*) for shared proportionality, burden, and procedural read-with terms where materially applicable.
+Institutional burden must scale with impact. This subsection states the CI file's institution-specific baseline. Apply `corpus_joint_structure.md` **CJS-5.2** (*Implementation and cross-implementation distributed and proportional authority terms*), **CJS-5.5** (*Implementation and cross-implementation burden-of-justification and constraint terms*), and **CJS-5.7** (*Implementation and cross-implementation procedural integrity and adjudication terms*) for shared proportionality, burden, and procedural read-with terms where materially applicable.
 
 - Low-impact institutional scopes should be simple, accessible, and inexpensive to establish and operate.
 - High-impact institutional scopes must satisfy stronger diligence, assurance, transparency, and accountability duties.

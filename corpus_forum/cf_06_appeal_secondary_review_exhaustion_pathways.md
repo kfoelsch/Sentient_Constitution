@@ -24,7 +24,7 @@
 <br>
 
 
-**Router read:** Primary owner for **CJS-R05** (*Appeal, secondary review, exhaustion*) in **CJS-2.1** (*Topic router (stable IDs)*). Mandatory read-with: **CI-6**, **CJS-5A.6**.
+**Router read:** Primary owner for **CJS-R05** (*Appeal, secondary review, exhaustion*) in **CJS-2.1** (*Topic router (stable IDs)*). Mandatory read-with: **CI-6**, **CJS-5.7**.
 
 This section sets the minimum review paths every forum family must preserve. It covers:
 - ordinary appeal or secondary-review lanes;

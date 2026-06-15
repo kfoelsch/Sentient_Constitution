@@ -9,8 +9,8 @@
     "confidence": "high",
     "action": "split-CI-and-CJS",
     "destinations": [
-      "CJS-5B",
-      "CJS-5E",
+      "CJS-5.8–CJS-5.11",
+      "CJS-5.19–CJS-5.23",
       "CJS-3 / CJS-4"
     ],
     "signals": [
@@ -40,7 +40,7 @@
     "confidence": "high",
     "action": "split-CI-and-CJS",
     "destinations": [
-      "CJS-5B",
+      "CJS-5.8–CJS-5.11",
       "CJS-3 / CJS-4",
       "CJS-4.4"
     ],
@@ -63,7 +63,7 @@
       "rotation",
       "removal"
     ],
-    "summary": "Apply `corpus_joint_structure.md` **CJS-5B.1** (*Implementation and cross-implementation integrity assurance and resilience operations*) for the shared contest-integrity pathway chain and the class-scaled contest-monitor independence and mandate floor; appl..."
+    "summary": "Apply `corpus_joint_structure.md` **CJS-5.8** (*Implementation and cross-implementation integrity assurance and resilience operations*) for the shared contest-integrity pathway chain and the class-scaled contest-monitor independence and mandate floor; appl..."
   },
   {
     "file": "corpus_institutions/ci_20_care_labor_dependent_support_respite_care_economy_fairness.md",
@@ -75,9 +75,9 @@
     "confidence": "high",
     "action": "split-CI-and-CJS",
     "destinations": [
-      "CJS-5B",
+      "CJS-5.8–CJS-5.11",
       "CJS-3 / CJS-4",
-      "CJS-5D"
+      "CJS-5.16–CJS-5.18"
     ],
     "signals": [
       "routing-read-with(3)",
@@ -91,7 +91,7 @@
     ],
     "similar_cjs": [],
     "keep_notes": [],
-    "summary": "**Purpose and owner boundary.** This section states the institutional application of `corpus_joint_structure.md` **CJS-5D.1** (*Care, respite, and support-dependency adequacy*). It restates no **Article VII-D** rights and does not relocate fiscal, labor, or..."
+    "summary": "**Purpose and owner boundary.** This section states the institutional application of `corpus_joint_structure.md` **CJS-5.16** (*Care, respite, and support-dependency adequacy*). It restates no **Article VII-D** rights and does not relocate fiscal, labor, or..."
   },
   {
     "file": "corpus_institutions/ci_15_vulnerable_personal_services_markets_article_xc_interface.md",
@@ -103,9 +103,9 @@
     "confidence": "high",
     "action": "split-CI-and-CJS",
     "destinations": [
-      "CJS-5B",
+      "CJS-5.8–CJS-5.11",
       "CJS-4.4",
-      "CJS-5C"
+      "CJS-5.12–CJS-5.15"
     ],
     "signals": [
       "routing-read-with(2)",
@@ -134,8 +134,8 @@
     "action": "split-CI-and-CJS",
     "destinations": [
       "CJS-3 / CJS-4",
-      "CJS-5A / CJS-4.1 / CJS-4.7",
-      "CJS-5D"
+      "CJS-5.2–CJS-5.7 / CJS-4.1 / CJS-4.7",
+      "CJS-5.16–CJS-5.18"
     ],
     "signals": [
       "multi-owner-routing(1)",
@@ -150,7 +150,7 @@
     ],
     "similar_cjs": [],
     "keep_notes": [],
-    "summary": "Where transition plans address **non-compliant property or systems** under **Sentient Constitution Chapter Ten, Article XXV-D**, institutions must apply `corpus_joint_structure.md` **CJS-5B.1** (*Implementation and cross-implementation integrity assurance a..."
+    "summary": "Where transition plans address **non-compliant property or systems** under **Sentient Constitution Chapter Ten, Article XXV-D**, institutions must apply `corpus_joint_structure.md` **CJS-5.8** (*Implementation and cross-implementation integrity assurance a..."
   },
   {
     "file": "corpus_institutions/ci_18_community_life_voluntary_association_non_instrumental_time.md",
@@ -163,7 +163,7 @@
     "action": "split-CI-and-CJS",
     "destinations": [
       "CJS-3 / CJS-4",
-      "CJS-5A / CJS-4.1 / CJS-4.7"
+      "CJS-5.2–CJS-5.7 / CJS-4.1 / CJS-4.7"
     ],
     "signals": [
       "multi-owner-routing(1)",
@@ -191,8 +191,8 @@
     "confidence": "high",
     "action": "split-CI-and-CJS",
     "destinations": [
-      "CJS-5B",
-      "CJS-5A / CJS-4.1 / CJS-4.7",
+      "CJS-5.8–CJS-5.11",
+      "CJS-5.2–CJS-5.7 / CJS-4.1 / CJS-4.7",
       "CJS-3 / CJS-4"
     ],
     "signals": [
@@ -222,8 +222,8 @@
     "confidence": "high",
     "action": "split-CI-and-CJS",
     "destinations": [
-      "CJS-5B",
-      "CJS-5A / CJS-4.1 / CJS-4.7",
+      "CJS-5.8–CJS-5.11",
+      "CJS-5.2–CJS-5.7 / CJS-4.1 / CJS-4.7",
       "CJS-3 / CJS-4"
     ],
     "signals": [
@@ -241,7 +241,7 @@
     "keep_notes": [
       "billing"
     ],
-    "summary": "This subsection states the institutional application of the shared class-aligned revenue and access-burden floor in `corpus_joint_structure.md` **CJS-5A.4** (*Implementation and cross-implementation burden-of-justification and constraint terms*). It does **..."
+    "summary": "This subsection states the institutional application of the shared class-aligned revenue and access-burden floor in `corpus_joint_structure.md` **CJS-5.5** (*Implementation and cross-implementation burden-of-justification and constraint terms*). It does **..."
   },
   {
     "file": "corpus_institutions/ci_09_classification_linked_institutional_obligations.md",
@@ -253,9 +253,9 @@
     "confidence": "high",
     "action": "split-CI-and-CJS",
     "destinations": [
-      "CJS-5A / CJS-4.1 / CJS-4.7",
-      "CJS-5D",
-      "CJS-5B"
+      "CJS-5.2–CJS-5.7 / CJS-4.1 / CJS-4.7",
+      "CJS-5.16–CJS-5.18",
+      "CJS-5.8–CJS-5.11"
     ],
     "signals": [
       "multi-owner-routing(1)",
@@ -271,7 +271,7 @@
     ],
     "similar_cjs": [],
     "keep_notes": [],
-    "summary": "Apply `corpus_joint_structure.md` **CJS-5D.1** (*Implementation and cross-implementation dependency integrity and disclosure terms*) **Domain and sector classification mapping** for the shared domain-taxonomy, criticality, split-classification, and reclassi..."
+    "summary": "Apply `corpus_joint_structure.md` **CJS-5.16** (*Implementation and cross-implementation dependency integrity and disclosure terms*) **Domain and sector classification mapping** for the shared domain-taxonomy, criticality, split-classification, and reclassi..."
   },
   {
     "file": "corpus_institutions/ci_05_conflict_integrity_anti_capture_anti_corruption.md",
@@ -283,8 +283,8 @@
     "confidence": "high",
     "action": "split-CI-and-CJS",
     "destinations": [
-      "CJS-5B",
-      "CJS-5C",
+      "CJS-5.8–CJS-5.11",
+      "CJS-5.12–CJS-5.15",
       "CJS-4.4"
     ],
     "signals": [
@@ -300,7 +300,7 @@
     ],
     "similar_cjs": [],
     "keep_notes": [],
-    "summary": "This subsection names institutional trigger categories for **CI-5** (*Conflict integrity, anti-capture, and anti-corruption*) control maps and training. Shared cross-layer routing for integrity triggers is governed by `corpus_joint_structure.md` **CJS-5B.1*..."
+    "summary": "This subsection names institutional trigger categories for **CI-5** (*Conflict integrity, anti-capture, and anti-corruption*) control maps and training. Shared cross-layer routing for integrity triggers is governed by `corpus_joint_structure.md` **CJS-5.8*..."
   },
   {
     "file": "corpus_institutions/ci_09_classification_linked_institutional_obligations.md",
@@ -312,7 +312,7 @@
     "confidence": "high",
     "action": "replace-with-pointer",
     "destinations": [
-      "CJS-5A / CJS-4.1 / CJS-4.7",
+      "CJS-5.2–CJS-5.7 / CJS-4.1 / CJS-4.7",
       "CJS-3 / CJS-4"
     ],
     "signals": [
@@ -348,7 +348,7 @@
     "confidence": "medium",
     "action": "split-CI-and-CJS",
     "destinations": [
-      "CJS-5A / CJS-4.1 / CJS-4.7"
+      "CJS-5.2–CJS-5.7 / CJS-4.1 / CJS-4.7"
     ],
     "signals": [
       "multi-owner-routing(1)",
@@ -378,8 +378,8 @@
     "confidence": "medium",
     "action": "split-CI-and-CJS",
     "destinations": [
-      "CJS-5B",
-      "CJS-5A / CJS-4.1 / CJS-4.7",
+      "CJS-5.8–CJS-5.11",
+      "CJS-5.2–CJS-5.7 / CJS-4.1 / CJS-4.7",
       "CJS-3 / CJS-4"
     ],
     "signals": [
@@ -395,7 +395,7 @@
     ],
     "similar_cjs": [],
     "keep_notes": [],
-    "summary": "At least annually, each institution must publish a declaration on whether material controls are operating effectively. If material controls fail, apply `corpus_joint_structure.md` **CJS-5B.1** (*Implementation and cross-implementation integrity assurance an..."
+    "summary": "At least annually, each institution must publish a declaration on whether material controls are operating effectively. If material controls fail, apply `corpus_joint_structure.md` **CJS-5.8** (*Implementation and cross-implementation integrity assurance an..."
   },
   {
     "file": "corpus_institutions/ci_05_conflict_integrity_anti_capture_anti_corruption.md",
@@ -407,8 +407,8 @@
     "confidence": "medium",
     "action": "split-CI-and-CJS",
     "destinations": [
-      "CJS-5B",
-      "CJS-5C",
+      "CJS-5.8–CJS-5.11",
+      "CJS-5.12–CJS-5.15",
       "CJS-4.4"
     ],
     "signals": [
@@ -427,7 +427,7 @@
       "institution-specific",
       "dissolution"
     ],
-    "summary": "Apply `corpus_joint_structure.md` **CJS-5B.1** (*Implementation and cross-implementation integrity assurance and resilience operations*) **Shared anti-capture control stack** for the shared conflict, corruption, fraud, self-dealing, procurement-capture, ass..."
+    "summary": "Apply `corpus_joint_structure.md` **CJS-5.8** (*Implementation and cross-implementation integrity assurance and resilience operations*) **Shared anti-capture control stack** for the shared conflict, corruption, fraud, self-dealing, procurement-capture, ass..."
   },
   {
     "file": "corpus_institutions/ci_01_scope_purpose_legitimacy_interface.md",
@@ -439,8 +439,8 @@
     "confidence": "medium",
     "action": "split-CI-and-CJS",
     "destinations": [
-      "CJS-5D",
-      "CJS-5A / CJS-4.1 / CJS-4.7",
+      "CJS-5.16–CJS-5.18",
+      "CJS-5.2–CJS-5.7 / CJS-4.1 / CJS-4.7",
       "CJS-3 / CJS-4"
     ],
     "signals": [
@@ -470,7 +470,7 @@
     "destinations": [
       "CJS-4.4",
       "CJS-3 / CJS-4",
-      "CJS-5D"
+      "CJS-5.16–CJS-5.18"
     ],
     "signals": [
       "joint-interface(2)",
@@ -486,7 +486,7 @@
     "keep_notes": [
       "billing"
     ],
-    "summary": "Apply `corpus_joint_structure.md` **CJS-5D.2** (*Implementation and cross-implementation interoperability, portability, and exit-integrity terms*) **Digital self-service pathway integrity** for the shared entry, management, downgrade, renewal, accessibility..."
+    "summary": "Apply `corpus_joint_structure.md` **CJS-5.17** (*Implementation and cross-implementation interoperability, portability, and exit-integrity terms*) **Digital self-service pathway integrity** for the shared entry, management, downgrade, renewal, accessibility..."
   },
   {
     "file": "corpus_institutions/ci_09_classification_linked_institutional_obligations.md",
@@ -498,8 +498,8 @@
     "confidence": "medium",
     "action": "replace-with-pointer",
     "destinations": [
-      "CJS-5B",
-      "CJS-5A / CJS-4.1 / CJS-4.7",
+      "CJS-5.8–CJS-5.11",
+      "CJS-5.2–CJS-5.7 / CJS-4.1 / CJS-4.7",
       "CJS-3 / CJS-4"
     ],
     "signals": [
@@ -518,7 +518,7 @@
       "public revenue",
       "fees"
     ],
-    "summary": "**Purpose.** **Article III-A** (*Survival*) in `core_10-10_rights_part_*.md` states outcome obligations for essential resources, housing, and connectivity. Apply `corpus_joint_structure.md` **CJS-5A.4** (*Implementation and cross-implementation burden-of-ju..."
+    "summary": "**Purpose.** **Article III-A** (*Survival*) in `core_10-10_rights_part_*.md` states outcome obligations for essential resources, housing, and connectivity. Apply `corpus_joint_structure.md` **CJS-5.5** (*Implementation and cross-implementation burden-of-ju..."
   },
   {
     "file": "corpus_institutions/ci_09_classification_linked_institutional_obligations.md",
@@ -530,8 +530,8 @@
     "confidence": "medium",
     "action": "replace-with-pointer",
     "destinations": [
-      "CJS-5B",
-      "CJS-5A / CJS-4.1 / CJS-4.7",
+      "CJS-5.8–CJS-5.11",
+      "CJS-5.2–CJS-5.7 / CJS-4.1 / CJS-4.7",
       "CJS-3 / CJS-4"
     ],
     "signals": [
@@ -559,9 +559,9 @@
     "confidence": "medium",
     "action": "replace-with-pointer",
     "destinations": [
-      "CJS-5E",
-      "CJS-5B",
-      "CJS-5D"
+      "CJS-5.19–CJS-5.23",
+      "CJS-5.8–CJS-5.11",
+      "CJS-5.16–CJS-5.18"
     ],
     "signals": [
       "multi-owner-routing(1)",
@@ -577,7 +577,7 @@
     "keep_notes": [
       "dissolution"
     ],
-    "summary": "Apply `corpus_joint_structure.md` **CJS-5E.5** (*Implementation and cross-implementation structural review, correction urgency, and disclosure terms*) **Realignment resistance and dissolution-review trigger floor** for the shared rule on repeated anti-const..."
+    "summary": "Apply `corpus_joint_structure.md` **CJS-5.23** (*Implementation and cross-implementation structural review, correction urgency, and disclosure terms*) **Realignment resistance and dissolution-review trigger floor** for the shared rule on repeated anti-const..."
   },
   {
     "file": "corpus_institutions/ci_25_collective_public_health_epidemic_response_addiction_informed_care.md",
@@ -589,8 +589,8 @@
     "confidence": "low",
     "action": "needs-human-review",
     "destinations": [
-      "CJS-5B",
-      "CJS-5E",
+      "CJS-5.8–CJS-5.11",
+      "CJS-5.19–CJS-5.23",
       "CJS-4.4"
     ],
     "signals": [
@@ -617,9 +617,9 @@
     "confidence": "low",
     "action": "needs-human-review",
     "destinations": [
-      "CJS-5C",
+      "CJS-5.12–CJS-5.15",
       "CJS-3 / CJS-4",
-      "CJS-5B"
+      "CJS-5.8–CJS-5.11"
     ],
     "signals": [
       "routing-read-with(1)",
@@ -645,8 +645,8 @@
     "confidence": "low",
     "action": "needs-human-review",
     "destinations": [
-      "CJS-5C",
-      "CJS-5B",
+      "CJS-5.12–CJS-5.15",
+      "CJS-5.8–CJS-5.11",
       "CJS-4.4"
     ],
     "signals": [
@@ -676,7 +676,7 @@
     "action": "needs-human-review",
     "destinations": [
       "CJS-3 / CJS-4",
-      "CJS-5B"
+      "CJS-5.8–CJS-5.11"
     ],
     "signals": [
       "routing-read-with(2)",
@@ -701,8 +701,8 @@
     "confidence": "low",
     "action": "needs-human-review",
     "destinations": [
-      "CJS-5A / CJS-4.1 / CJS-4.7",
-      "CJS-5B",
+      "CJS-5.2–CJS-5.7 / CJS-4.1 / CJS-4.7",
+      "CJS-5.8–CJS-5.11",
       "CJS-4.4"
     ],
     "signals": [
@@ -729,8 +729,8 @@
     "action": "needs-human-review",
     "destinations": [
       "CJS-3 / CJS-4",
-      "CJS-5E",
-      "CJS-5A / CJS-4.1 / CJS-4.7"
+      "CJS-5.19–CJS-5.23",
+      "CJS-5.2–CJS-5.7 / CJS-4.1 / CJS-4.7"
     ],
     "signals": [
       "joint-interface(1)",

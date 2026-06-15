@@ -26,7 +26,7 @@
 
 **Router read:** Mandatory read-with for **CJS-R09** (*Technical forums and specialist chambers*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CF-10**.
 
-Apply `corpus_joint_structure.md` **CJS-5B.4** for shared claim-testing, review, reliance, correction, and incentive-integrity floors. **CI-17** states only the Article XVII-E publication owner files.
+Apply `corpus_joint_structure.md` **CJS-5.11** for shared claim-testing, review, reliance, correction, and incentive-integrity floors. **CI-17** states only the Article XVII-E publication owner files.
 
 **Local owner files.** Maintain versioned publication intake and correction records; evidence-package, review, reviewer-custody, challenge-lane, correction, access, and incentive-criteria files; ombuds or review-lane office with **CI-6** / **CI-8** escalation route; and **CF-10** technical-forum referral route where applicable.
 

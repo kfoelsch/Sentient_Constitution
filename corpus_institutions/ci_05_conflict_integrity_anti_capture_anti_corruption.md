@@ -28,7 +28,7 @@
 **Router read:** Mandatory read-with for **CJS-R06** (*Forum integrity operations, anti-capture, anti-self-judging support*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CF-7**.
 **Router read:** Mandatory read-with for **CJS-R13** (*Forum staffing, shared administration, structural review, structural re…*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CF-16**.
 
-Apply `corpus_joint_structure.md` **CJS-5B.1** **Shared anti-capture control stack** and **Sortition and civic-lottery integrity controls** for the shared floors. **CI-5** states only institutional control-map ownership, disclosure and cure files, grave-breach forfeiture records, contingent-claim supervision, and escalation duties under **CI-7.2** or **CI-8** where local independence is not credible.
+Apply `corpus_joint_structure.md` **CJS-5.8** **Shared anti-capture control stack** and **Sortition and civic-lottery integrity controls** for the shared floors. **CI-5** states only institutional control-map ownership, disclosure and cure files, grave-breach forfeiture records, contingent-claim supervision, and escalation duties under **CI-7.2** or **CI-8** where local independence is not credible.
 
 Name the disclosure-category publication owner, cure-window file, and sanctions escalator route to **CI-11** and **CI-13**; the grave-breach forfeiture record owner and **CI-6** contest route; and resolution-source governance, authority separation, and insider-information controls for supervised contingent-claim or event-market systems.
 
@@ -58,7 +58,7 @@ Name the disclosure-category publication owner, cure-window file, and sanctions 
 <br>
 
 
-This subsection names institutional trigger labels for **CI-5** control maps and training. Apply **CJS-5B.1** **Integrity-trigger routing chain** for shared cross-layer traceability.
+This subsection names institutional trigger labels for **CI-5** control maps and training. Apply **CJS-5.8** **Integrity-trigger routing chain** for shared cross-layer traceability.
 
 **Trigger categories:** corruption; fraud; self-dealing; procurement capture; assurance capture; reporting suppression; conflict concealment. Institutional labels map to **CI-5**, **CI-7**, **CI-8**, **CI-3**, **CI-6**, applicable **CF** sections, **CI-11**, and **CI-13** for local intake, assurance, escalation, procedure, forum support, and sanctions duties. Contribution, violation, standing, and Violation Axis classification remain under **Chapter Six** and **Chapter Eight**.
 

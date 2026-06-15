@@ -25,7 +25,7 @@ This is an editorial exposure audit. It identifies candidate passages for reloca
 - Source: `corpus_institutions/ci_15_vulnerable_personal_services_markets_article_xc_interface.md:1`
 - Score / confidence: 40 / high
 - Suggested action: `split-CI-and-CJS`
-- Proposed CJS destination: CJS-5D, CJS-5C, CJS-5B
+- Proposed CJS destination: CJS-5.16–CJS-5.18, CJS-5.12–CJS-5.15, CJS-5.8–CJS-5.11
 - Signals: joint-interface(2), multi-owner-routing(3), routing-read-with(5), cjs-cluster(2), shared-procedure(4), dependency-failure(3), forum-system-touch(12)
 - Router matches: CJS-R17 — Cross-implementation trust integrity (joint operation model); CJS-R19 — Implementation and cross-implementation integrity assurance and resilience operations; CJS-R15 — Contest-integrity monitoring (pathway integrity, not merits)
 - Keep-in-CI cautions: fees
@@ -37,7 +37,7 @@ Summary: **Constitutional index (abridged)** - Topic-level routing and cited aut
 - Source: `corpus_institutions/ci_09_classification_linked_institutional_obligations.md:112`
 - Score / confidence: 32 / high
 - Suggested action: `replace-with-pointer`
-- Proposed CJS destination: CJS-5A / CJS-4.1 / CJS-4.7, CJS-3 / CJS-4
+- Proposed CJS destination: CJS-5.2–CJS-5.7 / CJS-4.1 / CJS-4.7, CJS-3 / CJS-4
 - Signals: joint-interface(4), multi-owner-routing(3), routing-read-with(2), shared-procedure(1), forum-system-touch(12), near-duplicate(1)
 - Router matches: CJS-R17 — Cross-implementation trust integrity (joint operation model); CJS-R19 — Implementation and cross-implementation integrity assurance and resilience operations; CJS-R15 — Contest-integrity monitoring (pathway integrity, not merits)
 - Keep-in-CI cautions: institution-specific
@@ -52,7 +52,7 @@ Near CJS matches:
 - Source: `corpus_institutions/ci_01_scope_purpose_legitimacy_interface.md:23`
 - Score / confidence: 30 / high
 - Suggested action: `split-CI-and-CJS`
-- Proposed CJS destination: CJS-3 / CJS-4, CJS-5A / CJS-4.1 / CJS-4.7
+- Proposed CJS destination: CJS-3 / CJS-4, CJS-5.2–CJS-5.7 / CJS-4.1 / CJS-4.7
 - Signals: joint-interface(2), multi-owner-routing(2), routing-read-with(3), cjs-cluster(2), shared-procedure(2), forum-system-touch(4)
 - Router matches: CJS-R19 — Implementation and cross-implementation integrity assurance and resilience operations; CJS-R17 — Cross-implementation trust integrity (joint operation model); CJS-R11 — Forum continuity
 - Keep-in-CI cautions: local procedure
@@ -64,7 +64,7 @@ Summary: **Constitutional index (abridged)** - Apply `corpus_joint_structure.md`
 - Source: `corpus_institutions/ci_16_innovation_reward_disclosure_anti_enclosure.md:1`
 - Score / confidence: 29 / high
 - Suggested action: `split-CI-and-CJS`
-- Proposed CJS destination: CJS-5B, CJS-3 / CJS-4, CJS-5D
+- Proposed CJS destination: CJS-5.8–CJS-5.11, CJS-3 / CJS-4, CJS-5.16–CJS-5.18
 - Signals: joint-interface(2), routing-read-with(6), cjs-cluster(1), shared-procedure(5), dependency-failure(4), forum-system-touch(8)
 - Router matches: CJS-R19 — Implementation and cross-implementation integrity assurance and resilience operations; CJS-R17 — Cross-implementation trust integrity (joint operation model); CJS-R15 — Contest-integrity monitoring (pathway integrity, not merits)
 - Keep-in-CI cautions: local procedure
@@ -76,7 +76,7 @@ Summary: **Purpose and owner boundary.** This section governs institutional hand
 - Source: `corpus_institutions/ci_07_oversight_assurance_controls_evidence.md:106`
 - Score / confidence: 28 / high
 - Suggested action: `split-CI-and-CJS`
-- Proposed CJS destination: CJS-5B, CJS-4.4, CJS-3 / CJS-4
+- Proposed CJS destination: CJS-5.8–CJS-5.11, CJS-4.4, CJS-3 / CJS-4
 - Signals: multi-owner-routing(2), routing-read-with(3), cjs-cluster(2), shared-procedure(6), dependency-failure(2), forum-system-touch(13)
 - Router matches: CJS-R19 — Implementation and cross-implementation integrity assurance and resilience operations; CJS-R17 — Cross-implementation trust integrity (joint operation model); CJS-R15 — Contest-integrity monitoring (pathway integrity, not merits)
 - Keep-in-CI cautions: appointment, rotation, removal
@@ -88,7 +88,7 @@ Summary: Where institutional governed scope includes **Class A** or **Class B** 
 - Source: `corpus_institutions/ci_17_scientific_publication_peer_review_replication_evidence_stewardship.md:1`
 - Score / confidence: 26 / high
 - Suggested action: `split-CI-and-CJS`
-- Proposed CJS destination: CJS-5B, CJS-5E, CJS-4.4
+- Proposed CJS destination: CJS-5.8–CJS-5.11, CJS-5.19–CJS-5.23, CJS-4.4
 - Signals: joint-interface(1), multi-owner-routing(1), routing-read-with(3), cjs-cluster(1), shared-procedure(8), dependency-failure(3), forum-system-touch(8)
 - Router matches: CJS-R19 — Implementation and cross-implementation integrity assurance and resilience operations; CJS-R17 — Cross-implementation trust integrity (joint operation model); CJS-R16 — Cross-institution coordination, deadlock, and escalation
 
@@ -99,7 +99,7 @@ Summary: **Purpose and owner boundary.** This section governs the institutional 
 - Source: `corpus_institutions/ci_26_compliance_mapping_stable_registry.md:1`
 - Score / confidence: 25 / high
 - Suggested action: `replace-with-pointer`
-- Proposed CJS destination: CJS-5B, CJS-3 / CJS-4, CJS-5A / CJS-4.1 / CJS-4.7
+- Proposed CJS destination: CJS-5.8–CJS-5.11, CJS-3 / CJS-4, CJS-5.2–CJS-5.7 / CJS-4.1 / CJS-4.7
 - Signals: multi-owner-routing(2), routing-read-with(8), shared-procedure(4), dependency-failure(1), forum-system-touch(9), near-duplicate(1)
 - Router matches: CJS-R19 — Implementation and cross-implementation integrity assurance and resilience operations; CJS-R17 — Cross-implementation trust integrity (joint operation model); CJS-R15 — Contest-integrity monitoring (pathway integrity, not merits)
 - Keep-in-CI cautions: appointment, removal, public revenue, fees, billing, dissolution
@@ -114,7 +114,7 @@ Near CJS matches:
 - Source: `corpus_institutions/ci_11_resource_stewardship_incentive_integrity.md:1`
 - Score / confidence: 24 / high
 - Suggested action: `split-CI-and-CJS`
-- Proposed CJS destination: CJS-5D, CJS-4.4, CJS-5C
+- Proposed CJS destination: CJS-5.16–CJS-5.18, CJS-4.4, CJS-5.12–CJS-5.15
 - Signals: multi-owner-routing(3), routing-read-with(4), shared-procedure(2), dependency-failure(1), forum-system-touch(12)
 - Router matches: CJS-R19 — Implementation and cross-implementation integrity assurance and resilience operations; CJS-R17 — Cross-implementation trust integrity (joint operation model); CJS-R18 — Class-scaled lane staffing and competency redundancy for materially binding stewardship
 - Keep-in-CI cautions: public revenue, fees, billing
@@ -126,19 +126,19 @@ Summary: **Continuity planning:** Institutions must maintain resource adequacy f
 - Source: `corpus_institutions/ci_10_public_revenue_fees_recurring_charges_billing_integrity.md:29`
 - Score / confidence: 20 / high
 - Suggested action: `split-CI-and-CJS`
-- Proposed CJS destination: CJS-4.4, CJS-3 / CJS-4, CJS-5E
+- Proposed CJS destination: CJS-4.4, CJS-3 / CJS-4, CJS-5.19–CJS-5.23
 - Signals: joint-interface(1), multi-owner-routing(3), routing-read-with(1), shared-procedure(2), forum-system-touch(10)
 - Router matches: CJS-R19 — Implementation and cross-implementation integrity assurance and resilience operations; CJS-R17 — Cross-implementation trust integrity (joint operation model); CJS-R15 — Contest-integrity monitoring (pathway integrity, not merits)
 - Keep-in-CI cautions: public revenue, fees, billing
 
-Summary: This subsection states the institutional application of the shared class-aligned revenue and access-burden floor in `corpus_joint_structure.md` **CJS-5A.4** (*Implementation and cross-implementation burden-of-justification and constraint terms*). It does **...
+Summary: This subsection states the institutional application of the shared class-aligned revenue and access-burden floor in `corpus_joint_structure.md` **CJS-5.5** (*Implementation and cross-implementation burden-of-justification and constraint terms*). It does **...
 
 ### 10. CI-9: Classification-linked institutional obligations
 
 - Source: `corpus_institutions/ci_09_classification_linked_institutional_obligations.md:1`
 - Score / confidence: 20 / high
 - Suggested action: `split-CI-and-CJS`
-- Proposed CJS destination: CJS-5A / CJS-4.1 / CJS-4.7, CJS-3 / CJS-4
+- Proposed CJS destination: CJS-5.2–CJS-5.7 / CJS-4.1 / CJS-4.7, CJS-3 / CJS-4
 - Signals: joint-interface(1), multi-owner-routing(1), routing-read-with(4), shared-procedure(2), forum-system-touch(8)
 - Router matches: CJS-R17 — Cross-implementation trust integrity (joint operation model); CJS-R19 — Implementation and cross-implementation integrity assurance and resilience operations; CJS-R15 — Contest-integrity monitoring (pathway integrity, not merits)
 - Keep-in-CI cautions: dissolution, institutional formation
@@ -150,7 +150,7 @@ Summary: **Constitutional index (abridged)** - Topic-level routing and cited aut
 - Source: `corpus_institutions/ci_14_transitional_governance_institutional_evolution.md:34`
 - Score / confidence: 19 / high
 - Suggested action: `split-CI-and-CJS`
-- Proposed CJS destination: CJS-5D, CJS-5B, CJS-3 / CJS-4
+- Proposed CJS destination: CJS-5.16–CJS-5.18, CJS-5.8–CJS-5.11, CJS-3 / CJS-4
 - Signals: multi-owner-routing(2), routing-read-with(3), shared-procedure(3), forum-system-touch(8)
 - Router matches: CJS-R19 — Implementation and cross-implementation integrity assurance and resilience operations; CJS-R17 — Cross-implementation trust integrity (joint operation model); CJS-R18 — Class-scaled lane staffing and competency redundancy for materially binding stewardship
 
@@ -161,7 +161,7 @@ Summary: Where transition plans address **non-compliant property or systems** un
 - Source: `corpus_institutions/ci_13_institutional_failure_sanctions_dissolution_accountability.md:1`
 - Score / confidence: 18 / high
 - Suggested action: `split-CI-and-CJS`
-- Proposed CJS destination: CJS-5C, CJS-5D, CJS-5E
+- Proposed CJS destination: CJS-5.12–CJS-5.15, CJS-5.16–CJS-5.18, CJS-5.19–CJS-5.23
 - Signals: joint-interface(1), multi-owner-routing(1), routing-read-with(3), cjs-cluster(1), dependency-failure(1), forum-system-touch(2)
 - Router matches: CJS-R19 — Implementation and cross-implementation integrity assurance and resilience operations; CJS-R17 — Cross-implementation trust integrity (joint operation model); CJS-R15 — Contest-integrity monitoring (pathway integrity, not merits)
 - Keep-in-CI cautions: dissolution
@@ -173,19 +173,19 @@ Summary: **Constitutional index (abridged)** - Topic-level routing and cited aut
 - Source: `corpus_institutions/ci_20_care_labor_dependent_support_respite_care_economy_fairness.md:1`
 - Score / confidence: 16 / high
 - Suggested action: `split-CI-and-CJS`
-- Proposed CJS destination: CJS-3 / CJS-4, CJS-5D, CJS-4.4
+- Proposed CJS destination: CJS-3 / CJS-4, CJS-5.16–CJS-5.18, CJS-4.4
 - Signals: routing-read-with(7), cjs-cluster(2), dependency-failure(2)
 - Router matches: CJS-R19 — Implementation and cross-implementation integrity assurance and resilience operations; CJS-R17 — Cross-implementation trust integrity (joint operation model); CJS-R15 — Contest-integrity monitoring (pathway integrity, not merits)
 - Keep-in-CI cautions: public revenue, fees, billing
 
-Summary: **Purpose and owner boundary.** This section states the institutional application of the shared care, respite, and support-dependency floor in `corpus_joint_structure.md` **CJS-5D.1** (*Implementation and cross-implementation dependency integrity and disclo...
+Summary: **Purpose and owner boundary.** This section states the institutional application of the shared care, respite, and support-dependency floor in `corpus_joint_structure.md` **CJS-5.16** (*Implementation and cross-implementation dependency integrity and disclo...
 
 ### 14. CI-8: Cross-institution coordination and escalation
 
 - Source: `corpus_institutions/ci_08_cross_institution_coordination_escalation.md:1`
 - Score / confidence: 16 / high
 - Suggested action: `split-CI-and-CJS`
-- Proposed CJS destination: CJS-3 / CJS-4, CJS-5B, CJS-5C
+- Proposed CJS destination: CJS-3 / CJS-4, CJS-5.8–CJS-5.11, CJS-5.12–CJS-5.15
 - Signals: routing-read-with(6), cjs-cluster(1), shared-procedure(1), forum-system-touch(4)
 - Router matches: CJS-R19 — Implementation and cross-implementation integrity assurance and resilience operations; CJS-R17 — Cross-implementation trust integrity (joint operation model); CJS-R16 — Cross-institution coordination, deadlock, and escalation
 
@@ -196,19 +196,19 @@ Summary: Where institutions share jurisdiction, evidence custody, review respons
 - Source: `corpus_institutions/ci_05_conflict_integrity_anti_capture_anti_corruption.md:57`
 - Score / confidence: 16 / high
 - Suggested action: `split-CI-and-CJS`
-- Proposed CJS destination: CJS-5B, CJS-4.4, CJS-5A / CJS-4.1 / CJS-4.7
+- Proposed CJS destination: CJS-5.8–CJS-5.11, CJS-4.4, CJS-5.2–CJS-5.7 / CJS-4.1 / CJS-4.7
 - Signals: routing-read-with(3), shared-procedure(5), dependency-failure(2), forum-system-touch(4)
 - Router matches: CJS-R19 — Implementation and cross-implementation integrity assurance and resilience operations; CJS-R17 — Cross-implementation trust integrity (joint operation model); CJS-R15 — Contest-integrity monitoring (pathway integrity, not merits)
 - Keep-in-CI cautions: appointment, rotation, removal
 
-Summary: This subsection names institutional trigger categories for **CI-5** (*Conflict integrity, anti-capture, and anti-corruption*) control maps and training. Shared cross-layer routing for integrity triggers is governed by `corpus_joint_structure.md` **CJS-5B.1*...
+Summary: This subsection names institutional trigger categories for **CI-5** (*Conflict integrity, anti-capture, and anti-corruption*) control maps and training. Shared cross-layer routing for integrity triggers is governed by `corpus_joint_structure.md` **CJS-5.8*...
 
 ### 16. CI-5: Conflict integrity, anti-capture, and anti-corruption
 
 - Source: `corpus_institutions/ci_05_conflict_integrity_anti_capture_anti_corruption.md:1`
 - Score / confidence: 16 / high
 - Suggested action: `split-CI-and-CJS`
-- Proposed CJS destination: CJS-5B, CJS-4.4, CJS-5C
+- Proposed CJS destination: CJS-5.8–CJS-5.11, CJS-4.4, CJS-5.12–CJS-5.15
 - Signals: multi-owner-routing(1), routing-read-with(1), shared-procedure(5), dependency-failure(4), forum-system-touch(3)
 - Router matches: CJS-R19 — Implementation and cross-implementation integrity assurance and resilience operations; CJS-R17 — Cross-implementation trust integrity (joint operation model); CJS-R18 — Class-scaled lane staffing and competency redundancy for materially binding stewardship
 - Keep-in-CI cautions: institution-specific, rotation, dissolution
@@ -220,7 +220,7 @@ Summary: Institutions must maintain: - auditable conflict controls that cover fi
 - Source: `corpus_institutions/ci_10_public_revenue_fees_recurring_charges_billing_integrity.md:65`
 - Score / confidence: 15 / high
 - Suggested action: `split-CI-and-CJS`
-- Proposed CJS destination: CJS-4.4, CJS-5D, CJS-5C
+- Proposed CJS destination: CJS-4.4, CJS-5.16–CJS-5.18, CJS-5.12–CJS-5.15
 - Signals: multi-owner-routing(2), shared-procedure(3), dependency-failure(2), forum-system-touch(15)
 - Router matches: CJS-R17 — Cross-implementation trust integrity (joint operation model); CJS-R19 — Implementation and cross-implementation integrity assurance and resilience operations; CJS-R15 — Contest-integrity monitoring (pathway integrity, not merits)
 - Keep-in-CI cautions: public revenue, fees, billing
@@ -232,7 +232,7 @@ Summary: **Purpose.** This subsection records institutional requirements for **r
 - Source: `corpus_institutions/ci_18_community_life_voluntary_association_non_instrumental_time.md:1`
 - Score / confidence: 14 / high
 - Suggested action: `split-CI-and-CJS`
-- Proposed CJS destination: CJS-5B, CJS-3 / CJS-4, CJS-5A / CJS-4.1 / CJS-4.7
+- Proposed CJS destination: CJS-5.8–CJS-5.11, CJS-3 / CJS-4, CJS-5.2–CJS-5.7 / CJS-4.1 / CJS-4.7
 - Signals: multi-owner-routing(1), routing-read-with(2), shared-procedure(3), forum-system-touch(5)
 - Router matches: CJS-R19 — Implementation and cross-implementation integrity assurance and resilience operations; CJS-R17 — Cross-implementation trust integrity (joint operation model); CJS-R16 — Cross-institution coordination, deadlock, and escalation
 
@@ -243,7 +243,7 @@ Summary: **Purpose.** This section records **institutional and system design exp
 - Source: `corpus_institutions/ci_09_classification_linked_institutional_obligations.md:75`
 - Score / confidence: 12 / high
 - Suggested action: `split-CI-and-CJS`
-- Proposed CJS destination: CJS-5A / CJS-4.1 / CJS-4.7, CJS-5D, CJS-5B
+- Proposed CJS destination: CJS-5.2–CJS-5.7 / CJS-4.1 / CJS-4.7, CJS-5.16–CJS-5.18, CJS-5.8–CJS-5.11
 - Signals: multi-owner-routing(2), shared-procedure(1), dependency-failure(1), forum-system-touch(8)
 - Router matches: CJS-R19 — Implementation and cross-implementation integrity assurance and resilience operations; CJS-R17 — Cross-implementation trust integrity (joint operation model); CJS-R15 — Contest-integrity monitoring (pathway integrity, not merits)
 
@@ -254,7 +254,7 @@ Summary: Institutions with regulated or supervised scope must publish how major 
 - Source: `corpus_institutions/ci_07_oversight_assurance_controls_evidence.md:1`
 - Score / confidence: 12 / high
 - Suggested action: `split-CI-and-CJS`
-- Proposed CJS destination: CJS-5B, CJS-3 / CJS-4, CJS-5E
+- Proposed CJS destination: CJS-5.8–CJS-5.11, CJS-3 / CJS-4, CJS-5.19–CJS-5.23
 - Signals: joint-interface(1), routing-read-with(4), shared-procedure(1)
 - Router matches: CJS-R17 — Cross-implementation trust integrity (joint operation model); CJS-R19 — Implementation and cross-implementation integrity assurance and resilience operations; CJS-R15 — Contest-integrity monitoring (pathway integrity, not merits)
 
@@ -265,7 +265,7 @@ Summary: **Constitutional index (abridged)** - Topic-level routing and cited aut
 - Source: `corpus_institutions/ci_09_classification_linked_institutional_obligations.md:271`
 - Score / confidence: 11 / medium
 - Suggested action: `split-CI-and-CJS`
-- Proposed CJS destination: CJS-3 / CJS-4, CJS-5B, CJS-5A / CJS-4.1 / CJS-4.7
+- Proposed CJS destination: CJS-3 / CJS-4, CJS-5.8–CJS-5.11, CJS-5.2–CJS-5.7 / CJS-4.1 / CJS-4.7
 - Signals: multi-owner-routing(1), routing-read-with(1), shared-procedure(2), forum-system-touch(4)
 - Router matches: CJS-R19 — Implementation and cross-implementation integrity assurance and resilience operations; CJS-R17 — Cross-implementation trust integrity (joint operation model); CJS-R15 — Contest-integrity monitoring (pathway integrity, not merits)
 - Keep-in-CI cautions: public revenue, fees, billing
@@ -277,7 +277,7 @@ Summary: **Purpose.** **Article III-A** (*Survival*) in `core_10-10_rights_part_
 - Source: `corpus_institutions/ci_01_scope_purpose_legitimacy_interface.md:60`
 - Score / confidence: 11 / medium
 - Suggested action: `split-CI-and-CJS`
-- Proposed CJS destination: CJS-5D, CJS-5A / CJS-4.1 / CJS-4.7, CJS-3 / CJS-4
+- Proposed CJS destination: CJS-5.16–CJS-5.18, CJS-5.2–CJS-5.7 / CJS-4.1 / CJS-4.7, CJS-3 / CJS-4
 - Signals: joint-interface(1), multi-owner-routing(1), dependency-failure(1), forum-system-touch(4)
 - Router matches: CJS-R17 — Cross-implementation trust integrity (joint operation model); CJS-R19 — Implementation and cross-implementation integrity assurance and resilience operations; CJS-R18 — Class-scaled lane staffing and competency redundancy for materially binding stewardship
 
@@ -288,7 +288,7 @@ Summary: Definition discipline is single-home: - Constitutional definition struc
 - Source: `corpus_institutions/ci_09_classification_linked_institutional_obligations.md:183`
 - Score / confidence: 9 / medium
 - Suggested action: `replace-with-pointer`
-- Proposed CJS destination: CJS-3 / CJS-4, CJS-5A / CJS-4.1 / CJS-4.7, CJS-5B
+- Proposed CJS destination: CJS-3 / CJS-4, CJS-5.2–CJS-5.7 / CJS-4.1 / CJS-4.7, CJS-5.8–CJS-5.11
 - Signals: joint-interface(2), multi-owner-routing(1)
 - Router matches: CJS-R19 — Implementation and cross-implementation integrity assurance and resilience operations; CJS-R17 — Cross-implementation trust integrity (joint operation model); CJS-R01 — Delegated binding bodies and hybrid composition (non-forum institutions)
 - Keep-in-CI cautions: institution-specific
@@ -300,18 +300,18 @@ Summary: **Joint minimum.** Delegated subunits in scope must satisfy **`corpus_j
 - Source: `corpus_institutions/ci_07_oversight_assurance_controls_evidence.md:40`
 - Score / confidence: 9 / medium
 - Suggested action: `replace-with-pointer`
-- Proposed CJS destination: CJS-5E, CJS-5B, CJS-5D
+- Proposed CJS destination: CJS-5.19–CJS-5.23, CJS-5.8–CJS-5.11, CJS-5.16–CJS-5.18
 - Signals: routing-read-with(1), dependency-failure(3), forum-system-touch(4)
 - Router matches: CJS-R17 — Cross-implementation trust integrity (joint operation model); CJS-R19 — Implementation and cross-implementation integrity assurance and resilience operations; CJS-R15 — Contest-integrity monitoring (pathway integrity, not merits)
 
-Summary: At least annually, each institution must publish a declaration on whether material controls are operating effectively. If material controls fail, apply `corpus_joint_structure.md` **CJS-5B.1** (*Implementation and cross-implementation integrity assurance an...
+Summary: At least annually, each institution must publish a declaration on whether material controls are operating effectively. If material controls fail, apply `corpus_joint_structure.md` **CJS-5.8** (*Implementation and cross-implementation integrity assurance an...
 
 ### 25. CI-4: Appointment, competency, rotation, and removal
 
 - Source: `corpus_institutions/ci_04_appointment_competency_rotation_removal.md:1`
 - Score / confidence: 9 / medium
 - Suggested action: `replace-with-pointer`
-- Proposed CJS destination: CJS-5A / CJS-4.1 / CJS-4.7, CJS-5C, CJS-3 / CJS-4
+- Proposed CJS destination: CJS-5.2–CJS-5.7 / CJS-4.1 / CJS-4.7, CJS-5.12–CJS-5.15, CJS-3 / CJS-4
 - Signals: routing-read-with(3), shared-procedure(1), dependency-failure(1), forum-system-touch(1)
 - Router matches: CJS-R19 — Implementation and cross-implementation integrity assurance and resilience operations; CJS-R17 — Cross-implementation trust integrity (joint operation model); CJS-R18 — Class-scaled lane staffing and competency redundancy for materially binding stewardship
 - Keep-in-CI cautions: appointment, rotation, removal
@@ -323,18 +323,18 @@ Summary: Institutions must maintain role criteria that are clear, relevant to im
 - Source: `corpus_institutions/ci_14_transitional_governance_institutional_evolution.md:1`
 - Score / confidence: 8 / medium
 - Suggested action: `replace-with-pointer`
-- Proposed CJS destination: CJS-5D, CJS-3 / CJS-4
+- Proposed CJS destination: CJS-5.16–CJS-5.18, CJS-3 / CJS-4
 - Signals: multi-owner-routing(1), routing-read-with(1), forum-system-touch(3)
 - Router matches: CJS-R17 — Cross-implementation trust integrity (joint operation model); CJS-R19 — Implementation and cross-implementation integrity assurance and resilience operations; CJS-R11 — Forum continuity
 
-Summary: Institutional redesign, consolidation, or transfer must preserve non-regression and continuity duties. Apply `corpus_joint_structure.md` **CJS-5D.3** (*Implementation and cross-implementation data-retention and lifecycle-integrity terms*) **Transition conti...
+Summary: Institutional redesign, consolidation, or transfer must preserve non-regression and continuity duties. Apply `corpus_joint_structure.md` **CJS-5.18** (*Implementation and cross-implementation data-retention and lifecycle-integrity terms*) **Transition conti...
 
 ### 27. CI-6: Procedure integrity, contestability, and secondary review
 
 - Source: `corpus_institutions/ci_06_procedure_integrity_contestability_secondary_review.md:1`
 - Score / confidence: 8 / medium
 - Suggested action: `replace-with-pointer`
-- Proposed CJS destination: CJS-5B, CJS-5A / CJS-4.1 / CJS-4.7, CJS-4.4
+- Proposed CJS destination: CJS-5.8–CJS-5.11, CJS-5.2–CJS-5.7 / CJS-4.1 / CJS-4.7, CJS-4.4
 - Signals: routing-read-with(1), shared-procedure(8), forum-system-touch(2)
 - Router matches: CJS-R19 — Implementation and cross-implementation integrity assurance and resilience operations; CJS-R17 — Cross-implementation trust integrity (joint operation model); CJS-R15 — Contest-integrity monitoring (pathway integrity, not merits)
 
@@ -345,7 +345,7 @@ Summary: Procedure rules here must remain consistent with **Chapter Five** (*Pro
 - Source: `corpus_institutions/ci_22_commons_cooperatives_mutual_aid_non_market_governance.md:1`
 - Score / confidence: 7 / medium
 - Suggested action: `replace-with-pointer`
-- Proposed CJS destination: CJS-5D, CJS-5B, CJS-5C
+- Proposed CJS destination: CJS-5.16–CJS-5.18, CJS-5.8–CJS-5.11, CJS-5.12–CJS-5.15
 - Signals: routing-read-with(1), shared-procedure(2), forum-system-touch(6)
 - Router matches: CJS-R19 — Implementation and cross-implementation integrity assurance and resilience operations; CJS-R17 — Cross-implementation trust integrity (joint operation model); CJS-R15 — Contest-integrity monitoring (pathway integrity, not merits)
 - Keep-in-CI cautions: rotation
@@ -357,19 +357,19 @@ Summary: **Purpose.** This section supports **commons**-based and **community-ma
 - Source: `corpus_institutions/ci_12_transparency_participation_accessible_pathways.md:119`
 - Score / confidence: 7 / medium
 - Suggested action: `replace-with-pointer`
-- Proposed CJS destination: CJS-4.4, CJS-5D, CJS-5C
+- Proposed CJS destination: CJS-4.4, CJS-5.16–CJS-5.18, CJS-5.12–CJS-5.15
 - Signals: joint-interface(2), dependency-failure(1), forum-system-touch(1)
 - Router matches: CJS-R17 — Cross-implementation trust integrity (joint operation model); CJS-R19 — Implementation and cross-implementation integrity assurance and resilience operations; CJS-R15 — Contest-integrity monitoring (pathway integrity, not merits)
 - Keep-in-CI cautions: billing
 
-Summary: Digital self-service pathway integrity (Operational; Corpus Institutions) - OP-O: Apply `corpus_joint_structure.md` **CJS-5D.2** (*Implementation and cross-implementation interoperability, portability, and exit-integrity terms*) **Digital self-service pathw...
+Summary: Digital self-service pathway integrity (Operational; Corpus Institutions) - OP-O: Apply `corpus_joint_structure.md` **CJS-5.17** (*Implementation and cross-implementation interoperability, portability, and exit-integrity terms*) **Digital self-service pathw...
 
 ### 30. CI-25: Collective public health, epidemic response, and addiction-informed care
 
 - Source: `corpus_institutions/ci_25_collective_public_health_epidemic_response_addiction_informed_care.md:1`
 - Score / confidence: 6 / low
 - Suggested action: `needs-human-review`
-- Proposed CJS destination: CJS-5E, CJS-5C, CJS-5B
+- Proposed CJS destination: CJS-5.19–CJS-5.23, CJS-5.12–CJS-5.15, CJS-5.8–CJS-5.11
 - Signals: multi-owner-routing(1), routing-read-with(1), forum-system-touch(1)
 - Router matches: CJS-R17 — Cross-implementation trust integrity (joint operation model); CJS-R19 — Implementation and cross-implementation integrity assurance and resilience operations; CJS-R18 — Class-scaled lane staffing and competency redundancy for materially binding stewardship
 
@@ -380,18 +380,18 @@ Summary: **Purpose.** This section frames **contagion**, **environmental** **exp
 - Source: `corpus_institutions/ci_24_neurodiversity_disability_justice_trauma_informed_participation.md:1`
 - Score / confidence: 6 / low
 - Suggested action: `needs-human-review`
-- Proposed CJS destination: CJS-5D, CJS-5E, CJS-5C
+- Proposed CJS destination: CJS-5.16–CJS-5.18, CJS-5.19–CJS-5.23, CJS-5.12–CJS-5.15
 - Signals: routing-read-with(1), shared-procedure(1), dependency-failure(1), forum-system-touch(2)
 - Router matches: CJS-R17 — Cross-implementation trust integrity (joint operation model); CJS-R19 — Implementation and cross-implementation integrity assurance and resilience operations; CJS-R15 — Contest-integrity monitoring (pathway integrity, not merits)
 
-Summary: **Purpose.** This section applies the shared adaptive-participation floor in `corpus_joint_structure.md` **CJS-5C.2** (*Implementation and cross-implementation comprehensibility and cognitive accessibility terms*) to neurodiversity, disability justice, and...
+Summary: **Purpose.** This section applies the shared adaptive-participation floor in `corpus_joint_structure.md` **CJS-5.13** (*Implementation and cross-implementation comprehensibility and cognitive accessibility terms*) to neurodiversity, disability justice, and...
 
 ### 32. CI-12: Transparency, participation, and accessible pathways
 
 - Source: `corpus_institutions/ci_12_transparency_participation_accessible_pathways.md:1`
 - Score / confidence: 6 / low
 - Suggested action: `needs-human-review`
-- Proposed CJS destination: CJS-5C, CJS-3 / CJS-4, CJS-5B
+- Proposed CJS destination: CJS-5.12–CJS-5.15, CJS-3 / CJS-4, CJS-5.8–CJS-5.11
 - Signals: routing-read-with(1), shared-procedure(1), forum-system-touch(3)
 - Router matches: CJS-R17 — Cross-implementation trust integrity (joint operation model); CJS-R19 — Implementation and cross-implementation integrity assurance and resilience operations; CJS-R18 — Class-scaled lane staffing and competency redundancy for materially binding stewardship
 
@@ -402,7 +402,7 @@ Summary: Institutional governance must be understandable and accessible to mater
 - Source: `corpus_institutions/ci_09_classification_linked_institutional_obligations.md:37`
 - Score / confidence: 6 / low
 - Suggested action: `needs-human-review`
-- Proposed CJS destination: CJS-5B, CJS-5D, CJS-5A / CJS-4.1 / CJS-4.7
+- Proposed CJS destination: CJS-5.8–CJS-5.11, CJS-5.16–CJS-5.18, CJS-5.2–CJS-5.7 / CJS-4.1 / CJS-4.7
 - Signals: shared-procedure(3), dependency-failure(1), forum-system-touch(2)
 - Router matches: CJS-R17 — Cross-implementation trust integrity (joint operation model); CJS-R19 — Implementation and cross-implementation integrity assurance and resilience operations; CJS-R15 — Contest-integrity monitoring (pathway integrity, not merits)
 
@@ -413,7 +413,7 @@ Summary: Institutions whose governed scope is only planned Class P systems must 
 - Source: `corpus_institutions/ci_14_transitional_governance_institutional_evolution.md:77`
 - Score / confidence: 5 / low
 - Suggested action: `needs-human-review`
-- Proposed CJS destination: CJS-5B, CJS-5E, CJS-5C
+- Proposed CJS destination: CJS-5.8–CJS-5.11, CJS-5.19–CJS-5.23, CJS-5.12–CJS-5.15
 - Signals: routing-read-with(2), dependency-failure(2)
 - Router matches: CJS-R19 — Implementation and cross-implementation integrity assurance and resilience operations; CJS-R17 — Cross-implementation trust integrity (joint operation model); CJS-R15 — Contest-integrity monitoring (pathway integrity, not merits)
 - Keep-in-CI cautions: dissolution
@@ -425,18 +425,18 @@ Summary: **Constitutional home:** **Chapter Ten**, **Article XXV-D** (*Non-Compl
 - Source: `corpus_institutions/ci_12_transparency_participation_accessible_pathways.md:38`
 - Score / confidence: 5 / low
 - Suggested action: `needs-human-review`
-- Proposed CJS destination: CJS-5C, CJS-5D, CJS-5B
+- Proposed CJS destination: CJS-5.12–CJS-5.15, CJS-5.16–CJS-5.18, CJS-5.8–CJS-5.11
 - Signals: shared-procedure(1), dependency-failure(4)
 - Router matches: CJS-R19 — Implementation and cross-implementation integrity assurance and resilience operations; CJS-R17 — Cross-implementation trust integrity (joint operation model); CJS-R15 — Contest-integrity monitoring (pathway integrity, not merits)
 
 Summary: Institutions must maintain practical channels through which materially affected stakeholders can receive notice, participate, contest, and track outcomes for governance decisions that materially affect them. **Stakeholder oversight channels.** Institutions...
 
-### 36. CI-2.2: Functional separation lanes
+### 36. CI-3.2: Functional separation lanes
 
-- Source: `corpus_institutions/ci_02_institutional_design_separation_of_powers.md:60`
+- Source: `corpus_institutions/ci_03_institutional_design_separation_of_powers.md:60`
 - Score / confidence: 5 / low
 - Suggested action: `needs-human-review`
-- Proposed CJS destination: CJS-5B, CJS-5E
+- Proposed CJS destination: CJS-5.8–CJS-5.11, CJS-5.19–CJS-5.23
 - Signals: routing-read-with(1), shared-procedure(2), dependency-failure(1)
 - Router matches: CJS-R17 — Cross-implementation trust integrity (joint operation model); CJS-R19 — Implementation and cross-implementation integrity assurance and resilience operations; CJS-R14 — Institutional functional lanes and non-delegable splits
 

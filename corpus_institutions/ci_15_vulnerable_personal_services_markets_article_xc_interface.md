@@ -24,7 +24,7 @@
 <br>
 
 
-Apply `corpus_joint_structure.md` **CJS-5D.2** **High-vulnerability personal-service pathway integrity** for the shared floor. **CI-15** states only the Article X-C application-file owner duties for authorization, enforcement separation, transition records, and remedy routing.
+Apply `corpus_joint_structure.md` **CJS-5.17** **High-vulnerability personal-service pathway integrity** for the shared floor. **CI-15** states only the Article X-C application-file owner duties for authorization, enforcement separation, transition records, and remedy routing.
 
 **Local Article X-C role map.** Name the office responsible for application-record custody; decriminalization and non-penal restriction predicates; coercion and invalid-consent intake; due-care and challenge records; remedy and escalation routes; intermediary and supervised-dependency owners; separation and anti-pretext review; workplace, housing, licensing, and transition route owners; and phased transition and record-relief publication. Read **CI-6**, **CI-9**, **CI-12**, and **CI-12.3** for local procedure, scaling, participation, and digital-pathway interfaces.
 

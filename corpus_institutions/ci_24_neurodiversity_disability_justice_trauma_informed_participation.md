@@ -24,9 +24,9 @@
 <br>
 
 
-Apply `corpus_joint_structure.md` **CJS-5C.2** **Institutional participation and pathway accessibility floor** for the shared adaptive-participation and cognitive-accessibility floor. **CI-24** states only local procedural-design, trauma-informed alternative, and anti-exclusion review owner duties under **Article V-G**, **Article XI**, **Article XX**, and **Article XXIII**.
+Apply `corpus_joint_structure.md` **CJS-5.13** **Institutional participation and pathway accessibility floor** for the shared adaptive-participation and cognitive-accessibility floor. **CI-24** states only local procedural-design, trauma-informed alternative, and anti-exclusion review owner duties under **Article V-G**, **Article XI**, **Article XX**, and **Article XXIII**.
 
-Name the office responsible for documenting CJS-5C.2 alternatives in hearings, governance forums, and **CI-12.3** self-service paths; and the anti-exclusion review route where complexity or capacity framing would otherwise dismiss credible participation. Read **CI-6** and **CI-12.3** for secondary-review and digital-pathway interfaces.
+Name the office responsible for documenting CJS-5.13 alternatives in hearings, governance forums, and **CI-12.3** self-service paths; and the anti-exclusion review route where complexity or capacity framing would otherwise dismiss credible participation. Read **CI-6** and **CI-12.3** for secondary-review and digital-pathway interfaces.
 
 ---
 
