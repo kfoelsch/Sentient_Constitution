@@ -24,13 +24,11 @@
 <br>
 
 
-Apply `corpus_joint_structure.md` **CJS-5B.1** **Shared anti-capture control stack** and **Sortition and civic-lottery integrity controls** for the shared floors. **CI-5** states only institutional control-map ownership, disclosure-category publication, cure and forfeiture consequence files, contingent-claim supervision, and escalation duties where local independence is not credible under **CI-7.2** (*External assurance triggers*) or **CI-8** (*Cross-institution coordination and escalation*).
+Apply `corpus_joint_structure.md` **CJS-5B.1** **Shared anti-capture control stack** and **Sortition and civic-lottery integrity controls** for the shared floors. **CI-5** states only institutional control-map ownership, disclosure and cure files, grave-breach forfeiture records, contingent-claim supervision, and escalation duties under **CI-7.2** or **CI-8** where local independence is not credible.
 
-**Disclosure and cure file.** Institutions must publish disclosure-category requirements, currency expectations, documented cure windows where permitted, and sanctions escalator routing to **CI-11** (*Resource stewardship and incentive integrity*) and **CI-13** (*Institutional failure, sanctions, dissolution, and accountability*) for aggravated misconduct.
+**Disclosure and cure file.** Publish disclosure-category requirements, cure windows, and sanctions escalator routing to **CI-11** and **CI-13**.
 
-**Grave breach forfeiture.** Immediate role forfeiture applies for material undisclosed participation, required recusal failure, and material related-party reporting breach where reporting is required. Audit-ready records, criminal referral, and **CI-6** (*Procedure integrity, contestability, and secondary review*) contest routes remain as required by law and published procedure.
-
-**Contingent claims and event markets.** Where institutions supervise high-impact contingent-claim or event-market systems, the local control map must name resolution-source governance, resolution-authority separation, insider-information pathway controls, and read-with duties under **Sentient Constitution Chapter One**, section **7.2.5**, and the **`corpus_systems.md`** contingent-claims interpretation list.
+**Grave breach and contingent claims.** Name the local forfeiture record owner and **CI-6** contest route for grave breach; name resolution-source governance, authority separation, and insider-information controls for supervised contingent-claim or event-market systems.
 
 ### CI-5.1: Integrity trigger taxonomy and cross-layer routing (control package)
 <details>
@@ -58,13 +56,9 @@ Apply `corpus_joint_structure.md` **CJS-5B.1** **Shared anti-capture control sta
 <br>
 
 
-This subsection names institutional trigger labels for **CI-5** control maps and training. Apply **CJS-5B.1** **Integrity-trigger routing chain** for shared cross-layer traceability. This subsection does not add constitutional rights, offense labels, forum structure, or final classification rules.
+This subsection names institutional trigger labels for **CI-5** control maps and training. Apply **CJS-5B.1** **Integrity-trigger routing chain** for shared cross-layer traceability.
 
-**Trigger categories (control-mapping labels):** corruption; fraud; self-dealing; procurement capture; assurance capture; reporting suppression; conflict concealment.
-
-**Routing.** Institutional labels map to **CI-5**, **CI-7**, **CI-8**, **CI-2**, **CI-6**, applicable **CF** sections, **CI-11**, and **CI-13** for local intake, assurance, escalation, procedure, forum support, and sanctions duties.
-
-**Classification pointer.** Contribution, violation, standing, and Violation Axis slot classification remain under **Chapter Six** and **Chapter Eight** through ordinary procedure. Criminal or specialized external referral remains as required by applicable law and **CI-5** records duties.
+**Trigger categories:** corruption; fraud; self-dealing; procurement capture; assurance capture; reporting suppression; conflict concealment. Institutional labels map to **CI-5**, **CI-7**, **CI-8**, **CI-2**, **CI-6**, applicable **CF** sections, **CI-11**, and **CI-13** for local intake, assurance, escalation, procedure, forum support, and sanctions duties. Contribution, violation, standing, and Violation Axis classification remain under **Chapter Six** and **Chapter Eight**.
 
 ---
 

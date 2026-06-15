@@ -113,11 +113,7 @@ Apply `corpus_joint_structure.md` **CJS-5D.1** (*Implementation and cross-implem
 
 Apply `corpus_joint_structure.md` **CJS-4.1** and **CJS-4.7** for shared delegated-body abstractions. **CI-9.3** through **CI-9.3.4** state only institutional design-class, applicability, identification, authority-composition exception, rotating-attachment, and home-based term duties.
 
-**Institutional design class.** Use the highest `corpus_systems.md` **Chapter S2** class in published governed scope (including **CI-9.2** maps). Only **Class A**, **Class B**, and **Class C** are in range; Chapter Nine forum bodies are treated as at least **Class C**.
-
-**Applicability.**
-- For **Class C** through **Class A**, each delegated subunit with materially binding authority must satisfy **CI-9.3.1** through **CI-9.3.4**, with hybrid composition under **CJS-4.1** plus **CI-9.3.2** exception rules.
-- Below **Class C** (non-Chapter Nine forum institutions), apply the same subsection set only to subunits that materially bind outsiders, allocate scarce public goods, license or certify material-impact conduct, or materially affect **Class A**–**Class C** systems, evaluated at the highest triggered class (minimum **Class C** for that subunit).
+Use the highest `corpus_systems.md` **Chapter S2** class in published governed scope. **CI-9.3.1** through **CI-9.3.4** apply to each delegated subunit with materially binding authority at or above **Class C**, with hybrid composition under **CJS-4.1** plus **CI-9.3.2** exception rules.
 
 ### CI-9.3.1: Identification and competence
 <details>
@@ -264,7 +260,7 @@ Apply **`corpus_joint_structure.md` CJS-4.2** (*Shared attachment and continuity
 
 <br>
 
-Apply `corpus_joint_structure.md` **CJS-5A.4** **Survival-critical access and voluntary-market interface** for the shared floor. **CI-9.4** states only the local Article III-A instrument owner, **CI-10.1** revenue-interface linkage, and documentation duties for eligibility, migration, fraud control, regional adequacy, and proportionality. Market infrastructure remains subject to `corpus_systems.md` classification where material-impact thresholds are met.
+Apply `corpus_joint_structure.md` **CJS-5A.4** **Survival-critical access and voluntary-market interface** for the shared floor. **CI-9.4** states only the Article III-A instrument owner, **CI-10.1** revenue-interface linkage, and documentation duties for eligibility, migration, fraud control, regional adequacy, and proportionality.
 
 ---
 

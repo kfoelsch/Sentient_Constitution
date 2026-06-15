@@ -24,9 +24,7 @@
 <br>
 
 
-Apply `corpus_joint_structure.md` **CJS-4.7** and **CJS-5A.6** for shared procedural terms, including representative treatment, common decision rule, due-process minimums, independent review, and proportional procedure scaling. **CI-6** states only the institutional procedure-map owner, record source, challenge route, publication cadence, and forum-expansion record duties. This chapter does not create a second offense-classification system.
-
-Institutional procedure maps must name the local owner for each required step, the record source showing compliance, the challenge route, and any institution-specific publication or secondary-review cadence. Where a forum or adjudicative body is asked to expand a case beyond the original claimant, the record must identify the proposed shared question, affected scope, notice owner, contest route, and issue-separation need under **CJS-5A.6**.
+Apply `corpus_joint_structure.md` **CJS-4.7** and **CJS-5A.6** for shared procedural terms. **CI-6** states only the procedure-map owner, record source, challenge route, publication cadence, and forum-expansion record duties; procedure maps must name the local owner for each required step, the record source showing compliance, the challenge route, and any institution-specific publication or secondary-review cadence.
 
 ---
 

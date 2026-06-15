@@ -24,22 +24,9 @@
 <br>
 
 
-Apply `corpus_joint_structure.md` **CJS-5B.4** for shared claim-testing, review, reliance, correction, and incentive-integrity floors. **CI-17** states only the institutional owner files needed to make **Article XVII-E** operable.
+Apply `corpus_joint_structure.md` **CJS-5B.4** for shared claim-testing, review, reliance, correction, and incentive-integrity floors. **CI-17** states only the Article XVII-E publication owner files.
 
-**1. Publication intake and versioned record.** The local publication file must preserve versioned intake, revision, correction, withdrawal, retraction, and supersession records with accountable authorship or sponsorship. Any intake limit, hold, confidentiality treatment, or biosafety constraint must identify its **Article XVII-E** basis and the narrower lawful exception applied.
-
-**2. Publication owner files.** The responsible offices must maintain:
-- evidence-package status and visible marks for preliminary or non-verifying claims;
-- review record format for reliance, correction, appeal, and specialist consultation;
-- reviewer custody records for selection, recusal, funding ties, and editorial intervention;
-- publication challenge lane and reliance-status record before durable institutional reliance;
-- correction audit trail and exception record for narrower privacy, security, or safety limits;
-- access rule, archival custodian, restriction basis, and review date for publicly funded work;
-- incentive criteria record for publication-related hiring, promotion, grantmaking, ranking, and standing decisions.
-
-**3. Specialized oversight and appeal.** Institutions must maintain a dedicated ombuds or review lane office, separation safeguard, secondary-review path, and **CI-6** (*Procedure integrity, contestability, and secondary review*) / **CI-8** (*Cross-institution coordination and escalation*) escalation route for publication suppression, conflict, retaliation, data-access, and retraction disputes.
-
-**4. Technical-forum interface.** Where disputes implicate publication suppression, replication denial, correction refusal, scientific-standing manipulation, or comparable technical questions, institutions must publish the `corpus_forum.md` **CF-9** consultation or referral route without displacing the Chapter Nine primary-stakes route.
+**Local owner files.** Maintain versioned publication intake and correction records; evidence-package, review, reviewer-custody, challenge-lane, correction, access, and incentive-criteria files; ombuds or review-lane office with **CI-6** / **CI-8** escalation route; and **CF-9** technical-forum referral route where applicable.
 
 ---
 

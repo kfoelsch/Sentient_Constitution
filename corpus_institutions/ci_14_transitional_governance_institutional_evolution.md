@@ -56,9 +56,7 @@ Institutional transition interface (Article XXV interface):
 
 <br>
 
-Apply `corpus_joint_structure.md` **CJS-5B.1** **Property-custody and incentive-separation control chain** for the shared floor. **CI-14.1** states only the local Article XXV-D role map: eligibility owner, custody body, incentive or payout adjudicator, enforcement executor, review authority, fund owner, notice channel, contest path, end-date authority, and **CI-5** (*Conflict integrity, anti-capture, and anti-corruption*) conflict-disclosure route. Measures must link to **Chapter Six** compliance determinations or equivalent binding findings.
-
-After material structural change, institutions must name the local revalidation owner, evidence-custody route, class/tier calibration route, and continuity-test cadence. For **Class A**, **Class B**, and **Critical System Steward** scope, the record must connect to **`corpus_systems.md` Protocol A** subsection **G** and the **CI-11** (*Resource stewardship and incentive integrity*) supervisory interface.
+Apply `corpus_joint_structure.md` **CJS-5B.1** **Property-custody and incentive-separation control chain** for the shared floor. **CI-14.1** states only the Article XXV-D role map: eligibility owner, custody body, incentive or payout adjudicator, enforcement executor, review authority, fund owner, notice channel, contest path, end-date authority, revalidation owner, and **CI-5** conflict-disclosure route. For **Class A**, **Class B**, and **Critical System Steward** scope, connect to **Protocol A** subsection **G** and **CI-11**.
 
 ### CI-14.2: Article XXV-D — trigger catalog, anti-abuse metrics, and publication requirements
 <details>

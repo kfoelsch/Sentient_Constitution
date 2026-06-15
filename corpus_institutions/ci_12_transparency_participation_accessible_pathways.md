@@ -24,16 +24,7 @@
 <br>
 
 
-Apply `corpus_joint_structure.md` **CJS-5C.2** (*Implementation and cross-implementation comprehensibility and cognitive accessibility terms*) **Institutional participation and pathway accessibility floor** for the shared understandability, participation, challenge, accessibility, protected-escalation, and anti-retaliation floor. **CI-12** states only the institutional application for local publication, office, record, and escalation duties.
-
-This chapter explicitly supports capability-building and pathway obligations linked to:
-- **Article III** in the Sentient Constitution Chapter Ten part files (including *Equal Educational Access* (**III-B**)),
-- **Chapter Ten**, section 5 — *Authorized Roles, Competency Development, and Contribution* pathways into stewardship responsibilities.
-
-Pathways into stewardship responsibility (**Chapter Ten**, section 5 interface):
-- Qualified sentients must have documented, non-arbitrary pathways into progressively consequential stewardship responsibilities.
-- Pathway access must include equitable capability-building access and transparent readiness criteria proportional to role impact.
-- Progression and access decisions must be auditable and contestable, and must not rely on symbolic participation substitutes.
+Apply `corpus_joint_structure.md` **CJS-5C.2** **Institutional participation and pathway accessibility floor** for the shared understandability, participation, challenge, accessibility, protected-escalation, and anti-retaliation floor. **CI-12** states only local publication, office, record, escalation, and stewardship-pathway owner duties linked to **Article III-B** and **Chapter Ten**, section 5.
 
 ### CI-12.1: Stakeholder oversight, notification, and binding-governance pathway integrity
 <details>
@@ -60,9 +51,7 @@ Pathways into stewardship responsibility (**Chapter Ten**, section 5 interface):
 
 <br>
 
-This subsection states the institutional application of `corpus_joint_structure.md` **CJS-5C.1** (*Implementation and cross-implementation quorum and participatory legitimacy terms*) **Stakeholder oversight and binding-governance pathway integrity**.
-
-Institutions must publish the local stakeholder-status method, participation windows, review rights, institutional decision path, responsible office, and escalation route for governance decisions that materially affect stakeholders. Local records must show notice, material submissions, reasons, outcome status, and any further review or implementation path, while preserving a later reconstruction path where privacy, security, or other lawful limits constrain full publication. Where institutional decisions materially change obligations, dependencies, or practical conditions of continued participation, the local notice must identify any available adaptation, downgrade, transfer, or exit options and the material limits on those options.
+Apply `corpus_joint_structure.md` **CJS-5C.1** **Stakeholder oversight and binding-governance pathway integrity** for the shared floor. **CI-12.1** states only the local stakeholder-status owner, participation-window file, notice record, decision-path publication, and escalation route for materially binding governance decisions.
 
 ### CI-12.2: Anti-concentration and participation-legitimacy safeguards
 <details>
@@ -89,24 +78,7 @@ Institutions must publish the local stakeholder-status method, participation win
 
 <br>
 
-Institutions must not allow governance structure, participation design, or weighting logic to silently concentrate practical control in a single actor, appointing chain, coalition, or manipulation-prone metric.
-
-**Concentration monitoring.** Institutions must monitor whether coordinated blocs, gatekeeping structures, dependency leverage, or repeated role accumulation are creating disproportionate influence relative to representativeness, lawful mandate, or published weighting rules.
-
-**Legitimacy safeguards.** Participation mechanisms must:
-- keep eligibility, weighting, and participation windows published and auditable;
-- bound single-factor dominance;
-- preserve meaningful representation for materially affected groups where required for binding legitimacy; and
-- remain subject to periodic review when impact, dependency, or irreversibility materially rises.
-
-**Escalation.** Where concentration, capture, or participation-integrity failures are materially indicated, institutions must trigger remediation, assurance-line review, or cross-institution escalation under **CI-8** (*Cross-institution coordination and escalation*) as appropriate. Institutions must not treat persistent concentration indicators as resolved by narration alone.
-
-**Non-compliant patterns.** It is non-compliant where an institution:
-- excludes materially affected stakeholders without lawful published basis;
-- uses notice windows too short for meaningful participation;
-- relies on opaque weighting or standing logic for materially binding decisions;
-- permits practical single-actor or single-bloc control to emerge without reviewable safeguards; or
-- maintains participatory structures that are formally open but practically unusable.
+Apply `corpus_joint_structure.md` **CJS-5A.1** **Anti-concentration guardrails and trigger mitigation** and **CJS-5C.2** **Institutional participation and pathway accessibility floor** for the shared concentration and participation-legitimacy floors. **CI-12.2** states only the local concentration-monitor owner, weighting publication file, remediation trigger, and **CI-8** escalation route.
 
 ### CI-12.3: Digital self-service pathway integrity
 <details>
@@ -133,7 +105,7 @@ Institutions must not allow governance structure, participation design, or weigh
 
 <br>
 
-Apply `corpus_joint_structure.md` **CJS-5D.2** (*Implementation and cross-implementation interoperability, portability, and exit-integrity terms*) **Digital self-service pathway integrity** for the shared entry, management, downgrade, renewal, accessibility, and exit floor. **CI-12.3** states only the institutional supervision owner, operator-artifact requirements, offense-routing interface, and billing-interface read-with under **CI-10.2** (*Recurring charges, renewals, and commercial billing integrity*) where recurring or transaction-linked charges apply.
+Apply `corpus_joint_structure.md` **CJS-5D.2** **Digital self-service pathway integrity** for the shared floor. **CI-12.3** states only the supervision owner, operator-artifact file, offense-routing interface, and **CI-10.2** billing-interface read-with.
 
 ---
 

@@ -46,12 +46,7 @@ Shared preamble contract: apply `corpus_joint_structure.md` **CJS-1.1** (*Shared
 <br>
 
 
-**Constitutional index (abridged)**
-- Apply `corpus_joint_structure.md` **CJS-1.1** (*Shared implementation-corpus preamble contract*), **CJS-1.3** (*Joint structural boundary and owner discipline*), **CJS-2.2** (*Topic router (stable IDs)*), and **CJS-3.6** (*Implementation-label traceability and stricter-wins discipline*) for shared implementation-corpus reading, routing, and owner discipline.
-
-CI-1 identifies this file as the institutional owner layer for formation, authorization, oversight, correction, and dissolution mechanics.
-
-Institutional procedures remain local to this file only where they implement those institutional mechanics and preserve the shared hierarchy, rights, and challenge boundaries cited above.
+Apply `corpus_joint_structure.md` **CJS-1.1**, **CJS-1.3**, **CJS-2.2**, and **CJS-3.6** for shared implementation-corpus reading, routing, and owner discipline. **CI-1** identifies this file as the institutional owner layer for formation, authorization, oversight, correction, and dissolution mechanics. Institutional procedures remain local only where they implement those mechanics and preserve the cited hierarchy, rights, and challenge boundaries.
 
 ### CI-1.1: Definition discipline and source hierarchy
 <details>
@@ -78,7 +73,7 @@ Institutional procedures remain local to this file only where they implement tho
 
 <br>
 
-Definition discipline is single-home. Apply `corpus_joint_structure.md` **CJS-1.1** (*Shared implementation-corpus preamble contract*) for constitutional and authority-stack discipline, **CJS-1.4** (*Operational structure and subsection-local terminology*) and **CJS-1.5** (*Operational clusters*) for shared OP-line and operational-cluster reading rules, and **CJS-5** (*Implementation and cross-implementation operational cluster library*) for shared operational-cluster meanings. System class, dependency, steward, and continuity taxonomies remain in `corpus_systems.md`.
+Definition discipline is single-home. Apply `corpus_joint_structure.md` **CJS-1.1**, **CJS-1.4**, **CJS-1.5**, and **CJS-5** for shared preamble and operational-cluster discipline; `corpus_systems.md` remains home for system taxonomies.
 
 ### CI-1.2: Section identifiers and article references
 <details>

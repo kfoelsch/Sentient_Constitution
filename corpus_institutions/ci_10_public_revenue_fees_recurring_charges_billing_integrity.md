@@ -24,7 +24,7 @@
 <br>
 
 
-This chapter collects **class-aligned fiscal orientation** and **recurring-charge requirements** in one place for steady reference. It works together with **CI-9** (classification-linked formation and scaling, **CI-9.3** (*Delegated subunits, institutional design class, and attachment discipline*) delegated-subunit discipline, and the **Article III-A** interface on survival floors and markets). It does not specify tax bases, rates, credits, enforcement, or cross-border rules except where noted; many details remain **governing law** outside this file (see `doc_architecture.md`, **constitutional and political** embedding boundary).
+**CI-10** collects class-aligned fiscal orientation and recurring-charge institutional duties. Read **CI-9**, **CI-9.3**, and **CI-9.4** for classification and **Article III-A** interfaces. Tax bases, rates, credits, enforcement, and cross-border rules remain governing law outside this file.
 
 ### CI-10.1: Public revenue, user fees, and class-aligned burden
 <details>
@@ -51,9 +51,7 @@ This chapter collects **class-aligned fiscal orientation** and **recurring-charg
 
 <br>
 
-This subsection states the institutional application of `corpus_joint_structure.md` **CJS-5A.4** (*Implementation and cross-implementation burden-of-justification and constraint terms*) **Class-aligned revenue and access-burden floor**. It does **not** specify tax bases, rates, credits, enforcement, or cross-border rules.
-
-**CI-10.1** states only the fiscal-map owner, constrained-capacity priority owner, and **Protocol S5** revenue-allocation reporting channel for governed scope. Where recurring charges are supervised, the map must identify the **CI-10.2** and **CI-12.3** billing and self-service owners rather than restating those pathway rules.
+Apply `corpus_joint_structure.md` **CJS-5A.4** **Class-aligned revenue and access-burden floor** for the shared floor. **CI-10.1** states only the fiscal-map owner, constrained-capacity priority owner, and **Protocol S5** reporting channel; identify **CI-10.2** and **CI-12.3** owners where recurring charges are supervised.
 
 ### CI-10.2: Recurring charges, renewals, and commercial billing integrity
 <details>
@@ -80,11 +78,7 @@ This subsection states the institutional application of `corpus_joint_structure.
 
 <br>
 
-**Purpose.** This subsection records the institutional owner duties for recurring and transaction-linked charges where institutions supervise, charter, or set compliance expectations for governed scope. Constitutional meaning remains authoritative in **Sentient Constitution Chapter Ten, Article II-D** (*Post-Sale Access and Subscription Integrity*), **Article XIV**, **Article X-A**, related **Chapter Five** definitions, and **Chapter Six** contribution / violation / standing classification where offense-linked evaluation applies.
-
-**Shared charge-pathway floor.** Commitment, renewal, trial-conversion, bundled-offer, cancellation, downgrade, and billing-cessation integrity are governed by `corpus_joint_structure.md` **CJS-5D.2** (*Implementation and cross-implementation interoperability, portability, and exit-integrity terms*), including its **Digital self-service pathway integrity** and **Commitment, renewal, and charge-exit integrity** rules. Where governing law sets a stricter billing, notice, renewal, cancellation, or disclosure standard, supervised institutional scope must meet or exceed that stricter standard.
-
-Institutions must publish the local charge-supervision map: covered charge type, class/tier assignment, accountable office, evidence artifact, stricter-law check, reclassification trigger, and route for billing / exit complaints. The map must connect subscription-style revenue to **CI-10.1** fiscal classification and identify when reclassification review is required.
+Apply `corpus_joint_structure.md` **CJS-5D.2** **Commitment, renewal, and charge-exit integrity** for the shared floor. **CI-10.2** states only the charge-supervision map owner, stricter-law check, reclassification trigger, and **CI-10.1** fiscal-interface linkage; publish the local map naming charge type, class/tier assignment, accountable office, evidence artifact, and billing/exit complaint route.
 
 ---
 

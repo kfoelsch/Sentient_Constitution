@@ -24,13 +24,9 @@
 <br>
 
 
-Apply `corpus_joint_structure.md` **CJS-5C.1** (*Community and associational pathway integrity*). **CI-18** states only local stewardship, program, referral, and escalation owner duties.
+Apply `corpus_joint_structure.md` **CJS-5C.1** **Community and associational pathway integrity** for the shared floor. **CI-18** states only local stewardship, program, referral, and escalation owner duties.
 
-**1. Civic and social infrastructure.** Name the local owner for third places, libraries, commons, parks, clubs, and meeting infrastructure. Read **CI-5**, **CI-9**, and **CI-12** for local control interfaces.
-
-**2. Voluntary association.** Name the local program owner and referral route to **CI-22** (*Commons, cooperatives, mutual aid, and non-market community governance*) or **CI-21** (*Relational coercive control, intimate power, and anti-domination routing*) where exclusion, hierarchy, gendered burden-shifting, or informal coercion appears.
-
-**3. Hostile design.** Name the local escalation owner for digital and physical hostile-design patterns; when capture or retaliation is indicated, route through **`corpus_systems.md` Chapter S2** section **9** plus **CI-6** / **CI-8**.
+Name the local owner for civic infrastructure, voluntary-association programs, and hostile-design escalation. Read **CI-5**, **CI-9**, **CI-12**, **CI-21**, **CI-22**, **CI-6**, and **CI-8** for local control, referral, and escalation interfaces.
 
 ---
 

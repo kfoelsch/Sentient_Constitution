@@ -28,9 +28,9 @@
 
 **1. Disclosure and registry.** Institutions must maintain a public searchable registry owner and entry format stating claimant identity, subject matter, scope, duration, disclosure materials, repair or migration implications, and any asserted secrecy or access limits.
 
-**2. Reward proportionality and class treatment.** Institutions must preserve the local evidence record for reward scaling and, for **Class A**, **Class B**, or **Class C** scope, the class, anti-enclosure control applied, and owner for any access-preserving mechanism, interface condition, reward conversion, or sunset acceleration.
+**2. Reward proportionality and class treatment.** Institutions must maintain the local evidence-record owner and claim-record format for reward scaling and class treatment under **CJS-5D.2**.
 
-**3. Public-interest and corrective pathways.** Institutions must identify the local procedure owner for non-waivable public-interest routes, compulsory-license or access-order intake, anti-warehousing claims, and domain carve-outs with public-access mechanism and temporary-exclusion showing.
+**3. Public-interest and corrective pathways.** Institutions must name the local procedure owner for public-interest, compulsory-access, anti-warehousing, and domain-carve-out intake under **CJS-5D.2**.
 
 **4. Duration, review, and sunset.** Institutions must maintain the published expiry schedule, review calendar, claim-record update process, and specialist-review route. Apply **CJS-5D.2** **Innovation-reward duration and reclassification controls** for shared timing and dependency-critical reclassification; **CI-16** supplies only the local review calendar and record-update duty.
 

@@ -24,31 +24,9 @@
 <br>
 
 
-**Constitutional index (abridged)**
-- Topic-level routing and cited authorities remain in subsection text and cross-references.
-- Canonical owner map: `corpus_joint_structure.md` **CJS-2.2** (*Topic router (stable IDs)*) and `doc_architecture.md` section 4.
+Apply `corpus_joint_structure.md` **CJS-5D.2** **High-vulnerability personal-service pathway integrity** for the shared floor. **CI-15** states only the Article X-C application-file owner duties for authorization, enforcement separation, transition records, and remedy routing.
 
-**Purpose.** This section records the institutional application of **Chapter Ten**, **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*) for local authorization, enforcement separation, transition records, and remedy routing. It does **not** restate constitutional rights. Apply `corpus_joint_structure.md` **CJS-5D.2** **High-vulnerability personal-service pathway integrity** for the shared floor. **CI-15** states only the local Article X-C application file duties.
-
-**Default local frame.** Article X-C instruments must name the lawful-service regulatory family used, any documented differentiation from comparable lawful activity, and the local office responsible for the application record.
-
-**1. Criminal decriminalization and non-penal instruments.** Local instruments must distinguish decriminalized protected conduct from remaining civil, administrative, licensing, commercial, exploitation, consent-defect, fraud, privacy, harassment, and unfair-term paths. They must publish the predicate, responsible office, and local file for any non-penal restriction.
-
-**2. Coercion, fraud, and invalid consent in paid exchange.** Institutions must publish the local intake, case-file, support, and remedy owners for **coercion**, **material deceit**, **abuse of dependence**, **incapacity**, and **non-consensual** acts.
-
-**3. Risk-tiered due care.** Institutions must keep the local due-care record: documented risk basis, class/tier treatment where intermediaries are material, and challenge route for disproportional, stereotype-based, or morality-based differentiation.
-
-**4. Non-criminal remedies and local pathway publication.** The local record must identify the intake owner, remedy venue, publication form, and escalation route. Read **Article X-A**, **Article XII-C** where reliance is induced, and **CI-12.3** where digital self-service pathways apply.
-
-**5. Intermediaries and supervised dependencies.** Matching, scheduling, payments, reputation, and visibility intermediaries with **material** dependency or **info-sphere** effects must have a local owner, class/tier treatment where applicable, and assurance route.
-
-**6. Separation of lanes and anti-pretext check.** Institutions must publish the local separation map for Article X-C policy, training, metrics, enforcement, exploitation response, and survivor-accessible reporting, plus the office responsible for anti-pretext review.
-
-**7. Workplace parity, housing, licensing, and transition.** Where the decriminalization floor applies, the local instrument must publish labor-safety, retaliation, housing, licensing, and anti-discrimination route owners. Contest and access routes remain in **CI-6** and **CI-12**.
-
-Institutions should publish phased transition plans naming effective dates, the record-relief owner for conduct no longer criminal, retraining against repealed norms, and ongoing-case relief review where consistent with law.
-
-**Scaling.** High-impact regulatory scope requires stronger publication, contest, and independent-review duties than localized scope, consistent with **CI-9** proportionality themes.
+**Local Article X-C role map.** Name the office responsible for application-record custody; decriminalization and non-penal restriction predicates; coercion and invalid-consent intake; due-care and challenge records; remedy and escalation routes; intermediary and supervised-dependency owners; separation and anti-pretext review; workplace, housing, licensing, and transition route owners; and phased transition and record-relief publication. Read **CI-6**, **CI-9**, **CI-12**, and **CI-12.3** for local procedure, scaling, participation, and digital-pathway interfaces.
 
 ---
 

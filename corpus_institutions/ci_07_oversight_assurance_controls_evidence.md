@@ -113,11 +113,9 @@ Institutional trigger criteria must be documented and published. They must state
 
 <br>
 
-Apply `corpus_joint_structure.md` **CJS-5B.1** (*Implementation and cross-implementation integrity assurance and resilience operations*) for the shared contest-integrity pathway chain and the class-scaled contest-monitor independence and mandate floor; apply **CJS-5A.6** (*Implementation and cross-implementation procedural integrity and adjudication terms*) for procedural read-with terms. **CI-7.3** states only the institutional monitor designation, appointment/conflict routing, local monitor file, three-lines attestation interface, output duty, security-power file, and forum-boundary duties for covered **Class A** or **Class B** supervised scope.
+Apply `corpus_joint_structure.md` **CJS-5B.1** for the shared contest-integrity pathway chain and contest-monitor independence floor. **CI-7.3** states only monitor designation, local monitor file, attestation interface, output duty, security-power file, and forum-boundary duties for covered **Class A** or **Class B** supervised scope.
 
-The local monitor file must name the covered decisions, contest-pathway records, protected escalation paths, attestation artifacts, appointing authority, record access, and institution-specific exclusions or escalation duties not already supplied by **CJS-5B.1**. Read **CI-4** (*Appointment, competency, rotation, and removal*), **CI-5** (*Conflict integrity, anti-capture, and anti-corruption*), **CI-6**, **CI-8**, **CI-12**, **`INST-PROTO-11`**, **`INST-PROTO-12`**, and **`INST-PROTO-24`** for local appointment, conflict, route, record, escalation, and attestation interfaces.
-
-**Outputs and boundaries.** The local file must preserve auditable findings, **INST-PROTO-17** remediation linkage for material failures, pathway-use evidence for Article XIII-A scope without restating that rule set, **CF-7** satisfaction where forum families are supported, and transfer records where forum routing or backup activation is implicated. Contest-integrity monitoring remains structural and must not become merits adjudication or a substitute forum record.
+The local monitor file must name covered decisions, contest-pathway records, attestation artifacts, appointing authority, record access, auditable findings, **INST-PROTO-17** linkage, and transfer records. Read **CI-4**, **CI-5**, **CI-6**, **CI-8**, **CI-12**, and **`INST-PROTO-11`**, **`INST-PROTO-12`**, **`INST-PROTO-24`** for local interfaces.
 
 ---
 
