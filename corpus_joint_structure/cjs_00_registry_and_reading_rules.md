@@ -17,8 +17,8 @@
 > - The CJS folder is written in plain language with low jargon to improve accessibility, audit readability, and practical adoption testing.
 >
 > **Where this lives**
-> - **Navigation wrapper:** [corpus_joint_structure.md](../corpus_joint_structure.md) indexes the `corpus_joint_structure/` subfiles.
-> - **Shared contract:** **CJS-1.1** (*Shared implementation-corpus preamble contract*) in the next file states authority, readability, shorthand, and canonical-meaning rules for all CJS and implementation files.
+> - **Navigation wrapper:** [corpus_joint_structure.md](../corpus_joint_structure.md) indexes the joint-structure subfiles.
+> - **Shared contract:** **CJS-1.2** (*Shared implementation-corpus preamble contract*) in the next file states authority, readability, shorthand, and canonical-meaning rules for all CJS and implementation files.
 > - **Editorial map:** [doc_architecture.md](../doc_architecture.md) is the placement guide; the CJS folder holds binding joint-structural text within **Corpus** as designated in **Chapter Five** and incorporated through **Chapter Fifteen**.
 
 </details>
@@ -29,7 +29,7 @@
 
 The joint-structure layer (**CJS**) coordinates shared interfaces among four implementation layers:
 
-- **CJS** — this folder (`corpus_joint_structure/`)
+- **CJS** — [corpus_joint_structure.md](../corpus_joint_structure.md)
 - **CS** — [corpus_systems.md](../corpus_systems.md)
 - **CI** — [corpus_institutions.md](../corpus_institutions.md)
 - **CF** — [corpus_forum.md](../corpus_forum.md)
@@ -56,7 +56,7 @@ Scope, boundary, and the shared implementation-corpus contract live in the next 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.1](cjs_01_scope_purpose_boundary_interface.md#cjs-11-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.2](cjs_02_implementation_integration_map.md#cjs-22-topic-router-stable-ids) topic router; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
+- Upstream: [CJS-1.2](cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.2](cjs_02_implementation_integration_map.md#cjs-22-topic-router-stable-ids) topic router; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
 - Downstream: this section's local operational requirements for **Joint Structure Registry**.
 - Read with: **CJS-1**; **CJS-2**; **CJS-3**; **CJS-4**; **CJS-5**.
 
@@ -89,7 +89,7 @@ These are the stable section families for the CJS folder:
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.1](cjs_01_scope_purpose_boundary_interface.md#cjs-11-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.2](cjs_02_implementation_integration_map.md#cjs-22-topic-router-stable-ids) topic router; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
+- Upstream: [CJS-1.2](cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.2](cjs_02_implementation_integration_map.md#cjs-22-topic-router-stable-ids) topic router; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
 - Downstream: this section's local operational requirements for **Stable identifiers, edition alignment, and drafting notes**.
 - Read with: [CJS-2.2](cjs_02_implementation_integration_map.md#cjs-22-topic-router-stable-ids); **CJS-4.1**; **CJS-4.3**; **CJS-4**; **CJS-5**.
 
@@ -133,7 +133,7 @@ These are the stable section families for the CJS folder:
 
 *In plain terms: when systems, institutions, and forum rules all land on the same facts, read **CJS-1** in the next file — not this registry section.*
 
-Apply [cjs_01_scope_purpose_boundary_interface.md](cjs_01_scope_purpose_boundary_interface.md) **CJS-1.1** (*Shared implementation-corpus preamble contract*) and **CJS-1.3** (*Joint structural boundary and owner discipline*). For read order, stricter-wins, joint obligations, integrity routing, and emergency layering, follow the **CJS-1.1** authority-stack and routing bullets and the **CJS-2**, **CJS-3**, **CJS-4.4**, and **CJS-5** sections they name.
+Apply [cjs_01_scope_purpose_boundary_interface.md](cjs_01_scope_purpose_boundary_interface.md) **CJS-1.1** (*Joint structural boundary and owner discipline*) and **CJS-1.2** (*Shared implementation-corpus preamble contract*). For read order, stricter-wins, joint obligations, integrity routing, and emergency layering, follow the **CJS-1.2** authority-stack and routing bullets and the **CJS-2**, **CJS-3**, **CJS-4.4**, and **CJS-5** sections they name.
 
 ---
 

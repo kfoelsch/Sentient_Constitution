@@ -40,7 +40,7 @@ CORE_READ_WITH = (
     "canonical definitions."
 )
 SHARED_CONTRACT = (
-    "[CJS-1.1](cjs_01_scope_purpose_boundary_interface.md#cjs-11-shared-implementation-corpus-preamble-contract) "
+    "[CJS-1.2](cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) "
     "shared implementation-corpus contract"
 )
 TOPIC_ROUTER = (
@@ -232,7 +232,7 @@ def mentioned_links(section_text: str) -> list[str]:
                     out.append(
                         "[CJS-2.2](cjs_02_implementation_integration_map.md#cjs-22-topic-router-stable-ids)"
                     )
-                elif match == "CJS-1.1":
+                elif match == "CJS-1.2":
                     out.append(SHARED_CONTRACT)
                 else:
                     out.append(f"**{match}**")

@@ -18,7 +18,7 @@
 >
 > **Where this lives**
 > - **Navigation wrapper:** [corpus_institutions.md](../corpus_institutions.md) indexes the `corpus_institutions/` subfiles.
-> - **Shared contract:** [corpus_joint_structure.md](../corpus_joint_structure.md) **CJS-1.1** (*Shared implementation-corpus preamble contract*).
+> - **Shared contract:** [corpus_joint_structure.md](../corpus_joint_structure.md) **CJS-1.2** (*Shared implementation-corpus preamble contract*).
 
 </details>
 
@@ -35,7 +35,7 @@ The institutions layer (**CI**) owns formation, authorization, oversight, correc
 
 **CI** defines institutional governance law. It does not redefine constitutional terms, Rights Floors, or offense taxonomy.
 
-Shared preamble contract: apply [corpus_joint_structure.md](../corpus_joint_structure.md) **CJS-1.1** (*Shared implementation-corpus preamble contract*).
+Shared preamble contract: apply [corpus_joint_structure.md](../corpus_joint_structure.md) **CJS-1.2** (*Shared implementation-corpus preamble contract*).
 
 <details>
 <summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): routing anchors and cluster index</span></strong></summary>
@@ -54,9 +54,9 @@ Shared preamble contract: apply [corpus_joint_structure.md](../corpus_joint_stru
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.1](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-11-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.2](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-22-topic-router-stable-ids) topic router; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions; and [Chapter Ten](../core_10-10_rights_part_a.md#chapter-ten-foundational-rights) rights architecture where rights interfaces are invoked.
+- Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.2](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-22-topic-router-stable-ids) topic router; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions; and [Chapter Ten](../core_10-10_rights_part_a.md#chapter-ten-foundational-rights) rights architecture where rights interfaces are invoked.
 - Downstream: [CI-1.1: Definition discipline and source hierarchy](#ci-11-definition-discipline-and-source-hierarchy).
-- Read with: **CI-1**; **CI-1.1**; [CJS-2.2](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-22-topic-router-stable-ids) topic router; **CJS-5**; **CJS-2**; **CJS-3**; [CJS-1.1](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-11-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract.
+- Read with: **CI-1**; **CI-1.1**; [CJS-2.2](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-22-topic-router-stable-ids) topic router; **CJS-5**; **CJS-2**; **CJS-3**; [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract.
 
 </details>
 
@@ -76,13 +76,13 @@ Shared preamble contract: apply [corpus_joint_structure.md](../corpus_joint_stru
 <br>
 
 
-Apply `corpus_joint_structure.md` **CJS-1.1**, **CJS-1.3**, **CJS-2.2**, and **CJS-3.6** for shared implementation-corpus reading, routing, and owner discipline. **CI-1** identifies this file as the institutional owner layer for formation, authorization, oversight, correction, and dissolution mechanics. Institutional procedures remain local only where they implement those mechanics and preserve the cited hierarchy, rights, and challenge boundaries.
+Apply `corpus_joint_structure.md` **CJS-1.1**, **CJS-1.2**, **CJS-2.2**, and **CJS-3.6** for shared implementation-corpus reading, routing, and owner discipline. **CI-1** identifies this file as the institutional owner layer for formation, authorization, oversight, correction, and dissolution mechanics. Institutional procedures remain local only where they implement those mechanics and preserve the cited hierarchy, rights, and challenge boundaries.
 
 ### CI-1.1: Definition discipline and source hierarchy
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.1](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-11-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.2](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-22-topic-router-stable-ids) topic router; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions; and [Chapter Ten](../core_10-10_rights_part_a.md#chapter-ten-foundational-rights) rights architecture where rights interfaces are invoked.
+- Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.2](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-22-topic-router-stable-ids) topic router; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions; and [Chapter Ten](../core_10-10_rights_part_a.md#chapter-ten-foundational-rights) rights architecture where rights interfaces are invoked.
 - Downstream: this section's local operational requirements for **CI-1.1: Definition discipline and source hierarchy**.
 - Read with: **CI-1.1**; **CJS-5**; **CJS-1.4**; **CJS-1.5**.
 
@@ -103,15 +103,15 @@ Apply `corpus_joint_structure.md` **CJS-1.1**, **CJS-1.3**, **CJS-2.2**, and **C
 
 <br>
 
-Definition discipline is single-home. Apply `corpus_joint_structure.md` **CJS-1.1**, **CJS-1.4**, **CJS-1.5**, and **CJS-5** for shared preamble and operational-cluster discipline; `corpus_systems.md` remains home for system taxonomies.
+Definition discipline is single-home. Apply `corpus_joint_structure.md` **CJS-1.2**, **CJS-1.4**, **CJS-1.5**, and **CJS-5** for shared preamble and operational-cluster discipline; `corpus_systems.md` remains home for system taxonomies.
 
 ### CI-1.2: Section identifiers and article references
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.1](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-11-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.2](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-22-topic-router-stable-ids) topic router; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions; and [Chapter Ten](../core_10-10_rights_part_a.md#chapter-ten-foundational-rights) rights architecture where rights interfaces are invoked.
+- Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.2](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-22-topic-router-stable-ids) topic router; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions; and [Chapter Ten](../core_10-10_rights_part_a.md#chapter-ten-foundational-rights) rights architecture where rights interfaces are invoked.
 - Downstream: this section's local operational requirements for **CI-1.2: Section identifiers and article references**.
-- Read with: **CI-1.2**; **CI-1**; **CI-26**; **CI-7.2**; **CJS-1.2**.
+- Read with: **CI-1.2**; **CI-1**; **CI-26**; **CI-7.2**; **CJS-1.3**.
 
 </details>
 
@@ -129,7 +129,7 @@ Definition discipline is single-home. Apply `corpus_joint_structure.md` **CJS-1.
 
 <br>
 
-Apply `corpus_joint_structure.md` **CJS-1.2** (*Section identifiers and article references*) as the shared implementation-corpus identifier rule. In this file specifically, headings use **CI-1** (*Scope, purpose, and legitimacy interface*) through **CI-26** (*Compliance mapping and stable registry*). Subsections under each section use **CI-*n*.*m*** (for example **CI-7.2** (*External assurance triggers*)). They must not be read as Sentient Constitution **Article** numbers. The abbreviation **CI** matches `doc_architecture.md` (*Corpus Institutions* institutional implementation file).
+Apply `corpus_joint_structure.md` **CJS-1.3** (*Section identifiers and article references*) as the shared implementation-corpus identifier rule. In this file specifically, headings use **CI-1** (*Scope, purpose, and legitimacy interface*) through **CI-26** (*Compliance mapping and stable registry*). Subsections under each section use **CI-*n*.*m*** (for example **CI-7.2** (*External assurance triggers*)). They must not be read as Sentient Constitution **Article** numbers. The abbreviation **CI** matches `doc_architecture.md` (*Corpus Institutions* institutional implementation file).
 
 Unless another reference pattern is stated, **Article** labels with Roman numerals in this file point to Sentient Constitution Chapter Ten in the `core_10-10_rights_part_*.md` files.
 
@@ -137,7 +137,7 @@ Unless another reference pattern is stated, **Article** labels with Roman numera
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.1](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-11-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.2](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-22-topic-router-stable-ids) topic router; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions; and [Chapter Ten](../core_10-10_rights_part_a.md#chapter-ten-foundational-rights) rights architecture where rights interfaces are invoked.
+- Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.2](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-22-topic-router-stable-ids) topic router; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions; and [Chapter Ten](../core_10-10_rights_part_a.md#chapter-ten-foundational-rights) rights architecture where rights interfaces are invoked.
 - Downstream: this section's local operational requirements for **CI-1.3: Anti-constitutional misconduct usage in this file**.
 - Read with: **CI-1.3**.
 
@@ -164,7 +164,7 @@ References in this file to **anti-constitutional misconduct** are routing shorth
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.1](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-11-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.2](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-22-topic-router-stable-ids) topic router; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions; and [Chapter Ten](../core_10-10_rights_part_a.md#chapter-ten-foundational-rights) rights architecture where rights interfaces are invoked.
+- Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.2](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-22-topic-router-stable-ids) topic router; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions; and [Chapter Ten](../core_10-10_rights_part_a.md#chapter-ten-foundational-rights) rights architecture where rights interfaces are invoked.
 - Downstream: this section's local operational requirements for **CI-1.4: Proportionality rule**.
 - Read with: **CI-1.4**; **CJS-5A.1**; **CJS-5A.4**; **CJS-5A.6**.
 

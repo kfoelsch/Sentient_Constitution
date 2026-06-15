@@ -57,7 +57,7 @@ Near CJS matches:
 - Router matches: CJS-R19 — Implementation and cross-implementation integrity assurance and resilience operations; CJS-R17 — Cross-implementation trust integrity (joint operation model); CJS-R11 — Forum continuity
 - Keep-in-CI cautions: local procedure
 
-Summary: **Constitutional index (abridged)** - Apply `corpus_joint_structure.md` **CJS-1.1** (*Shared implementation-corpus preamble contract*), **CJS-1.3** (*Joint structural boundary and owner discipline*), **CJS-2.2** (*Topic router (stable IDs)*), and **CJS-3.6*...
+Summary: **Constitutional index (abridged)** - Apply `corpus_joint_structure.md` **CJS-1.2** (*Shared implementation-corpus preamble contract*), **CJS-1.1** (*Joint structural boundary and owner discipline*), **CJS-2.2** (*Topic router (stable IDs)*), and **CJS-3.6*...
 
 ### 4. CI-16: Innovation reward, disclosure, and anti-enclosure
 

@@ -381,7 +381,7 @@ After that shared sequence, append only file-specific owner bullets that are gen
 
 ### Implementation-Corpus Preamble Contract
 
-For shared opening contract language in implementation files (`corpus_joint_structure.md`, `corpus_systems.md`, `corpus_institutions.md`, `corpus_forum.md`), use a concise pointer to `corpus_joint_structure.md` **CJS-1.1** (*Shared implementation-corpus preamble contract*) instead of repeating long boilerplate.
+For shared opening contract language in implementation files (`corpus_joint_structure.md`, `corpus_systems.md`, `corpus_institutions.md`, `corpus_forum.md`), use a concise pointer to `corpus_joint_structure.md` **CJS-1.2** (*Shared implementation-corpus preamble contract*) instead of repeating long boilerplate.
 
 Use implementation-file-specific add-ons only where necessary (for example CJS-5 (*Implementation and cross-implementation operational cluster library*) citation seams in `corpus_joint_structure.md` pointing to `corpus_joint_structure.md` **CJS-3.6** (*Implementation-label traceability and stricter-wins discipline*)).
 

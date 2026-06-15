@@ -34,8 +34,8 @@ DEC_INLINE_PREFIX = (
 )
 
 SHARED_CONTRACT = (
-    "[CJS-1.1](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md"
-    "#cjs-11-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract"
+    "[CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md"
+    "#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract"
 )
 TOPIC_ROUTER = (
     "[CJS-2.2](../corpus_joint_structure/cjs_02_implementation_integration_map.md"
@@ -247,7 +247,7 @@ def mentioned_links(section_text: str) -> list[str]:
             if match in seen:
                 continue
             seen.add(match)
-            if match == "CJS-1.1":
+            if match == "CJS-1.2":
                 out.append(SHARED_CONTRACT)
             elif match == "CJS-2.2":
                 out.append(TOPIC_ROUTER)
