@@ -37,12 +37,13 @@ Below, entries are **grouped by topic** for reading convenience (non-operative o
 
 #### Accountability, contestability, and redress pathways
 
-**Cluster context:** This semi-independent topic group establishes the foundational mechanisms for holding actors responsible and seeking correction of constitutional violations. It covers the attribution of responsibility ([Accountability](#accountability)), the ability to challenge and seek remedy ([Contestability](#contestability)), formal pathways for resolving disputes ([Adjudication and Dispute Resolution](#adjudication-and-dispute-resolution-constitutional)), systemic failures where responsibility is diffused ([Collective Accountability Failure](#collective-accountability-failure)), exceptional external disruptions ([Force Majeure](#force-majeure-constitutional)), and protection against capture of outcome-determination mechanisms ([Capture of Resolution Pathways](#capture-of-resolution-pathways)). These definitions operate together where review, redress, or resolution of constitutional claims is material.
+**Cluster context:** This semi-independent topic group establishes the foundational mechanisms for holding actors responsible and seeking correction of constitutional violations. It covers the attribution of responsibility ([Accountability](#accountability)), the ability to challenge and seek remedy ([Contestability](#contestability)), formal pathways for resolving disputes ([Adjudication and Dispute Resolution](#adjudication-and-dispute-resolution-constitutional)), binding substantive dispositions in those pathways ([Merits Determination](#merits-determination)), systemic failures where responsibility is diffused ([Collective Accountability Failure](#collective-accountability-failure)), exceptional external disruptions ([Force Majeure](#force-majeure-constitutional)), and protection against capture of outcome-determination mechanisms ([Capture of Resolution Pathways](#capture-of-resolution-pathways)). These definitions operate together where review, redress, or resolution of constitutional claims is material.
 
 **Topic group members.** This group comprises:
 - [Accountability](#accountability);
 - [Contestability](#contestability);
 - [Adjudication and Dispute Resolution](#adjudication-and-dispute-resolution-constitutional);
+- [Merits Determination](#merits-determination);
 - [Collective Accountability Failure](#collective-accountability-failure);
 - [Force Majeure](#force-majeure-constitutional);
 - [Capture of Resolution Pathways](#capture-of-resolution-pathways).
@@ -101,7 +102,7 @@ Below, entries are **grouped by topic** for reading convenience (non-operative o
 
 - Downstream: Principles: [6. Interaction and Conflict Resolution](core_00-01_principles.md#6-interaction-and-conflict-resolution); [6.4.1 Rights-Collision Decision Test](core_00-01_principles.md#641-rights-collision-decision-test) (collision procedure and review pathways).
 - Cluster component: [the dependent cluster *Accountability, Contestability, Adjudication and Dispute Resolution, Collective Accountability Failure, and Force Majeure*](core_05-05_definitions_c_dependent_clusters.md#accountability-contestability-and-collective-accountability-failure-cluster) where attribution, challenge routing, adjudication mechanics, diffusion, collective failure, or force-majeure relief are materially implicated; [the dependent cluster *Adjudication and Dispute Resolution, Redress and Remediation, Restorative Justice, Review and Correction Duty, and Refuge from Non-Compliance*](core_05-05_definitions_b_semi_independent.md#accountability-contestability-semi-independent) where remediation, restorative posture, stewardship review correction, continuity of adjudication-access, or refuge from material non-compliance are materially implicated.
-- Read with: the [Accountability, Contestability, Adjudication and Dispute Resolution, Collective Accountability Failure, and Force Majeure cluster](core_05-05_definitions_c_dependent_clusters.md#accountability-contestability-and-collective-accountability-failure-cluster), [Contestability](#contestability), [Procedural Fairness](#procedural-fairness-constitutional), and [Redress and Remediation](core_05-05_definitions_a_independent.md#redress-and-remediation-constitutional).
+- Read with: the [Accountability, Contestability, Adjudication and Dispute Resolution, Collective Accountability Failure, and Force Majeure cluster](core_05-05_definitions_c_dependent_clusters.md#accountability-contestability-and-collective-accountability-failure-cluster), [Contestability](#contestability), [Merits Determination](#merits-determination), [Procedural Fairness](#procedural-fairness-constitutional), and [Redress and Remediation](core_05-05_definitions_a_independent.md#redress-and-remediation-constitutional).
 - Read with: owner layers in [core_09-09_forum.md](core_09-09_forum.md), [corpus_institutions.md](corpus_institutions.md), and [corpus_forum.md](corpus_forum.md).
 
 </details>
@@ -110,11 +111,33 @@ Below, entries are **grouped by topic** for reading convenience (non-operative o
 
 - O: Impartial, accessible pathways for reviewing and resolving claims that systems or actors have violated rights or constitutional requirements. Pathways must produce timely, reasoned outcomes consistent with [Procedural Fairness](#procedural-fairness-constitutional) and remedies proportional to findings under [Redress and Remediation](core_05-05_definitions_a_independent.md#redress-and-remediation-constitutional).
 <a id="adjudicator"></a>
-`adjudicator` means a sentient, panel member, judicial officer, or equivalent authorized decisional actor who has lawful authority to decide contested claims, issue merits determinations, grant or deny relief, or make binding procedural determinations in an adjudicative matter. Clerical, investigative, analytical, forensic, technical, scheduling, intake, and coordination roles are not adjudicators unless the governing instrument separately gives them lawful decisional authority for the matter at issue.
+`adjudicator` means a sentient, panel member, judicial officer, or equivalent authorized decisional actor who has lawful authority to decide contested claims, issue merits determinations within the meaning of [Merits Determination](#merits-determination), grant or deny relief, or make binding procedural determinations in an adjudicative matter. Clerical, investigative, analytical, forensic, technical, scheduling, intake, and coordination roles are not adjudicators unless the governing instrument separately gives them lawful decisional authority for the matter at issue.
 <a id="adjudication-and-dispute-resolution-constitutional-e"></a>
-- E: Align with [Procedural Fairness](#procedural-fairness-constitutional), [Contestability](#contestability), [Redress and Remediation](core_05-05_definitions_a_independent.md#redress-and-remediation-constitutional), and resistance to [System Capture](core_05-05_definitions_a_independent.md#system-capture). Constitutional requirements for access, reviewability, and restoration are governed here and in Article XII-B. Owner-layer procedure appears in incorporated governance, institutional, and forum texts where designated. It must not narrow this definition.
+- E: Align with [Procedural Fairness](#procedural-fairness-constitutional), [Contestability](#contestability), [Merits Determination](#merits-determination), [Redress and Remediation](core_05-05_definitions_a_independent.md#redress-and-remediation-constitutional), and resistance to [System Capture](core_05-05_definitions_a_independent.md#system-capture). Constitutional requirements for access, reviewability, and restoration are governed here and in Article XII-B. Owner-layer procedure appears in incorporated governance, institutional, and forum texts where designated. It must not narrow this definition.
 <a id="adjudication-and-dispute-resolution-constitutional-c"></a>
 - C: Non-compliant: denying access where Chapter Ten or binding instruments require it; capturing forum-style decision power to prevent meaningful review.
+
+
+<a id="merits-determination"></a>
+
+---
+#### Merits Determination
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Downstream: [Chapter Nine](core_09-09_forum.md#chapter-nine-forums-and-jurisdiction) (*primary-stakes routing and lawfully constituted merits panels*); `corpus_joint_structure.md` **CJS-3.3** (*Boundary Between Support Roles and Merits Decisions*).
+- Read with: [Adjudication and Dispute Resolution](#adjudication-and-dispute-resolution-constitutional), [Contestability](#contestability), [Procedural Fairness](#procedural-fairness-constitutional), [Chapter Eight](core_08-08_misconduct.md#chapter-eight-anti-constitutional-misconduct) (*final Violation Axis s = 7, 8, and 9 slot assignment*), owner layers in [corpus_forum.md](corpus_forum.md) and [corpus_institutions.md](corpus_institutions.md).
+
+</details>
+
+<br>
+
+- O: A binding decision that resolves substantive issues in an adjudicative or equivalent dispute — including liability, entitlement, validity, mandate, remedy, classification outcome, rights restriction, or comparable rights-affecting disposition — as distinguished from decisions that govern only pathway integrity, panel formation, routing, monitoring, evidence preservation, coordination, sequencing, or other procedural housekeeping. Final [Chapter Eight](core_08-08_misconduct.md#chapter-eight-anti-constitutional-misconduct) Violation Axis slot assignment is a specialized classification outcome governed by that chapter; it is not a substitute for ordinary forum merits authority and is not itself a pathway decision.
+<a id="merits-determination-e"></a>
+- E: Ask whether the decision finally resolves a contested substantive question for the matter or only enables, schedules, monitors, preserves, routes, or coordinates review. Treat binding procedural determinations — for example lawful panel constitution, published routing, proportionate stays, and sequencing orders that do not finally dispose of the primary stake — as non-merits unless the governing instrument expressly treats them as merits dispositions. Treat contest-integrity monitoring outputs as pathway decisions unless a separate lawful instrument gives the monitor limited merits authority. Read [Chapter Nine](core_09-09_forum.md#chapter-nine-forums-and-jurisdiction) for primary-stakes and reserved-merits routing; read owner layers for family-specific reserved questions.
+<a id="merits-determination-c"></a>
+- C: Non-compliant: support, oversight, forensic, investigative, or monitoring roles issuing binding merits outcomes without separate lawful authority; using pathway, monitoring, or forensic roles to pre-decide substantive issues assigned to a lawfully constituted merits forum; or treating routing, intake, or contest-integrity findings as final merits dispositions.
 
 
 <a id="collective-accountability-failure"></a>

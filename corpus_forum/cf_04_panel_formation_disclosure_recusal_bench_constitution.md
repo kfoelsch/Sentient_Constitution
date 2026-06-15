@@ -68,7 +68,7 @@ For this section:
 - `lawful panel` means a bench formed under published authority, with the required competence, quorum, independence, and conflict screening for the matter at issue.
 - `independent panel` means a lawful panel in which no member has an unresolved material conflict, capture relationship, direct stake, dependency-linked bias risk, or recusal defect that would reasonably call impartial merits determination into question.
 - `panel coordinator` means the published role responsible for recording panel formation, disclosures, recusals, substitutions, and inability-to-form findings. This role may be clerical, judicial-administrative, or equivalent, but must not unilaterally decide contested recusal merits where the coordinator is materially interested.
-- `backup activation` means transfer or co-routing to the constitutionally designated backup family under Chapter Eight when the otherwise designated lead family cannot provide a lawful and independent merits forum.
+- `backup activation` means transfer or co-routing to the constitutionally designated backup family under [Chapter Nine](../core_09-09_forum.md#chapter-nine-forums-and-jurisdiction) when the otherwise designated lead family cannot provide a lawful and independent merits forum.
 
 For cross-implementation interoperability, read these local definitions with `corpus_joint_structure.md` **CJS-4.7** (Tier 1 abstractions for delegated bodies, lawful independent forums, backup activation, and representative treatment).
 
@@ -213,7 +213,7 @@ Recusal is required where:
 - impartiality is reasonably contested under `corpus_institutions.md` **CI-4** (*Appointment, competency, rotation, and removal*);
 - the member has prior investigative, prosecutorial, administrative, or advisory involvement in the same matter that would collapse role separation;
 - the member is a subject, likely material witness, or direct institutional subordinate of a subject in a way that materially impairs independence;
-- the matter triggers Chapter Eight cross-forum anti-self-judging protection and the proposed member is part of the compromised chain;
+- the matter triggers [Chapter Nine](../core_09-09_forum.md#chapter-nine-forums-and-jurisdiction) cross-forum anti-self-judging protection and the proposed member is part of the compromised chain;
 - service would create a reasonable appearance that the forum is judging its own concealed bias, capture, recusal failure, or process abuse without a sufficiently independent bench.
 
 A knowing or intentional failure to follow a required recusal process is anti-constitutional conduct within the scope of Chapter Eight where the verified facts satisfy Chapter Eight criteria. It is not treated as an ordinary procedural defect alone. Because recusal-process failure can corrupt lawful panel constitution, defeat challenge rights, and make the forum judge through its own unresolved defect, the record must identify whether the failure affected panel lawfulness, independence, recusal challenge, evidence integrity, remedy timing, backup routing, or any party's practical ability to contest the forum.
@@ -367,7 +367,7 @@ This finding may not be inferred silently. It requires an attributable written r
 - the competence and quorum rule that could not be satisfied;
 - whether the barrier is conflict, capture, incapacity, deadlock, or another lawful reason;
 - whether temporary interim relief is still possible;
-- whether backup routing is mandatory under Chapter Eight;
+- whether backup routing is mandatory under [Chapter Nine](../core_09-09_forum.md#chapter-nine-forums-and-jurisdiction);
 - who certified the record and when.
 
 ### CF-4.10 Certifier for inability-to-form findings
@@ -428,7 +428,7 @@ For cross-forum anti-self-judging cases, the certifier should, where feasible, i
 
 <br>
 
-Where Chapter Eight makes backup routing available, activation is mandatory when:
+Where [Chapter Nine](../core_09-09_forum.md#chapter-nine-forums-and-jurisdiction) makes backup routing available, activation is mandatory when:
 - a documented inability-to-form finding exists in the designated lead family;
 - the lead family is materially compromised by capture, recusal failure, concealment, or comparable integrity breach;
 - emergency incapacity or unavailability makes timely independent adjudication otherwise impossible.

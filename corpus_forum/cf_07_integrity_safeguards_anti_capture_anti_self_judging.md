@@ -99,7 +99,7 @@ An alignment ruling must be attributable and reviewable. At minimum, the record 
 - each component matter referred, certified, or stayed, including the assigned lead family or forum;
 - the priority basis for sequencing where multiple components compete;
 - any stays, sequencing requirements, milestones, or coordination orders the Integrity forum keeps on the lead record; and
-- where applicable, the remediation options or menus, including which elements are binding and which are advisory, consistent with **Chapter Eight**, **section 4**.
+- where applicable, the remediation options or menus, including which elements are binding and which are advisory, consistent with **Chapter Nine**, **section 4**.
 
 #### CF-7.1.2 Component Referral and Priority Publication
 <details>

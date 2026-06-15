@@ -95,7 +95,7 @@ Temporary quorum rules must not be used to concentrate durable control or to byp
 
 Each forum family must identify, in advance:
 - what fallback venue or operational mode applies if its ordinary forum is unavailable;
-- how the designated backup family under Chapter Eight will receive emergency matters if anti-self-judging or inability-to-form conditions activate;
+- how the designated backup family under **Chapter Nine** will receive emergency matters if anti-self-judging or inability-to-form conditions activate;
 - how transfer records, docket identity, and review rights will be preserved across the shift.
 
 Fallback operation must preserve primary-stakes routing as much as feasible. It does not authorize silent reclassification of the matter.

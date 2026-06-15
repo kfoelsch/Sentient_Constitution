@@ -31,7 +31,7 @@
 - Detailed routing rules and source authorities are listed in the relevant subsections and cross-references below.
 - Canonical owner map: `corpus_joint_structure.md` **CJS-2.1** (*Topic router (stable IDs)*) and `doc_architecture.md` section 4.
 
-This section turns Chapter Eight's forum-access rules into day-to-day routing requirements. It explains how forum families must handle:
+This section turns [Chapter Nine](../core_09-09_forum.md#chapter-nine-forums-and-jurisdiction) forum-access rules into day-to-day routing requirements. It explains how forum families must handle:
 - published intake classes and intake triage (**CF-5.1** (*Published intake classes*), **CF-5.2** (*Intake triage body*));
 - decisions about where a matter should go;
 - tie-breaks when a matter involves more than one kind of stake;
@@ -43,7 +43,7 @@ This section turns Chapter Eight's forum-access rules into day-to-day routing re
 
 This section implements the primary-stakes rule in `core_09-09_forum.md` **Chapter Nine**. It does not change that rule.
 
-**Chapter Nine linkage.** Each forum family must have an intake triage body, as required by **Chapter Eight**, **section 5**. That requirement works alongside **default venue** in **section 2**, **forensic and analytical support** in **section 3**, and **transfer**, **consolidation**, **certification**, and **backup** discipline in **sections 6 and 7**. An intake triage body helps route matters at the start; it is **not** a separate forum family and cannot replace a lawfully constituted **merits** panel. **CF-5.1** (*Published intake classes*) and **CF-5.2** (*Intake triage body*) state the operational rules for that boundary.
+**Chapter Nine linkage.** Each forum family must have an intake triage body, as required by **Chapter Nine**, **section 5**. That requirement works alongside **default venue** in **section 2**, **forensic and analytical support** in **section 3**, and **transfer**, **consolidation**, **certification**, and **backup** discipline in **sections 6 and 7**. An intake triage body helps route matters at the start; it is **not** a separate forum family and cannot replace a lawfully constituted **merits** panel. **CF-5.1** (*Published intake classes*) and **CF-5.2** (*Intake triage body*) state the operational rules for that boundary.
 
 ### CF-5.1 Published intake classes
 <details>

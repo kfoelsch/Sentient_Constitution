@@ -69,7 +69,7 @@ Every adopting entity must establish and maintain a published forum structure th
 - preserves independence, contestability, and traceability in actual forum design rather than by labels alone;
 - maintains enough qualified personnel and, as specified in **CF-16** (*Forum staffing, reserve capacity, shared administration, structural review, and structural records*), reserve and substitute capacity to keep the forum families functional in ordinary and stress conditions.
 
-**Practical flexibility:** Local forum names, internal organization, and administrative detail may differ from any model structure, as long as filers and review bodies can still see and use **each** forum family Chapter Eight requires—separate intake, panels where applicable, and appeal or review paths that match that family's role. **What is not allowed:** satisfying the rule only on paper—by renaming adjudicative bodies, redrawing chamber lines, or similar cosmetic moves—if the real effect is to merge or erase boundaries between families that the constitution treats as distinct.
+**Practical flexibility:** Local forum names, internal organization, and administrative detail may differ from any model structure, as long as filers and review bodies can still see and use **each** forum family **Chapter Nine** requires—separate intake, panels where applicable, and appeal or review paths that match that family's role. **What is not allowed:** satisfying the rule only on paper—by renaming adjudicative bodies, redrawing chamber lines, or similar cosmetic moves—if the real effect is to merge or erase boundaries between families that the constitution treats as distinct.
 
 ### CF-3.2 Family-to-forum-structure translation map
 <details>
@@ -138,11 +138,11 @@ Adopting instruments must preserve the distinct constitutional functions of the 
 - a single chief administrator or budgeting authority serves multiple families;
 - a jurisdiction uses a unified judiciary for ordinary administration.
 
-The following patterns are non-compliant unless adopted through constitutional amendment that lawfully changes Chapter Eight itself:
+The following patterns are non-compliant unless adopted through constitutional amendment that lawfully changes **Chapter Nine** itself:
 - treating one family as a mere chamber of another where the result removes independent routing, review, or remedy authority;
 - giving one family routine authority to decide another family's primary questions merely by internal reassignment;
 - using emergency, specialization, efficiency, or caseload pressures as a standing justification for family merger;
-- creating technical, commercial, security, or other specialist forums that operate as de facto sovereign families outside the Chapter Eight structure.
+- creating technical, commercial, security, or other specialist forums that operate as de facto sovereign families outside the **Chapter Nine** structure.
 
 ### CF-3.4 Minimum structural availability by family
 <details>
@@ -272,11 +272,11 @@ Chamber-creation instruments must also state:
 
 <br>
 
-Each chamber-creation instrument must state whether chamber rulings are appealable within the same family, directly to another family only on certified questions, or through another published review path consistent with Chapter Eight.
+Each chamber-creation instrument must state whether chamber rulings are appealable within the same family, directly to another family only on certified questions, or through another published review path consistent with **Chapter Nine**.
 
 Chambers must not:
 - rewrite family-level routing by internal practice;
-- make certification or transfer unnecessary where Chapter Eight would otherwise require it;
+- make certification or transfer unnecessary where **Chapter Nine** would otherwise require it;
 - hold themselves out as a separate constitutional forum family;
 - use specialization to reduce challenge rights, publication duties, or independence safeguards.
 

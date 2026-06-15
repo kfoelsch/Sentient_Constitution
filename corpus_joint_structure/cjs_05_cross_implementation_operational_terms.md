@@ -102,7 +102,7 @@ Constitutional enforcement role
 - OP-C: Constitutional enforcement is non-compliant when technical complexity is used to avoid contestability, displace the lead forum, hide evidence, bypass independent investigation, weaken local rights safeguards, or convert standards maintenance into coercive command without lawful authorization.
 
 Oversight or support role
-- OP-O: An oversight or support role monitors, audits, investigates, provides forensic or technical assistance, preserves records, or supports review without making binding merits decisions unless separately authorized.
+- OP-O: An oversight or support role monitors, audits, investigates, provides forensic or technical assistance, preserves records, or supports review without making binding merits determinations within the meaning of [Merits Determination](../core_05-05_definitions_b_semi_independent.md#merits-determination) unless separately authorized.
 - OP-E: Reviewers must verify independence, reporting line, information access, exclusions from merits authority, escalation route, and protected challenge path.
 - OP-C: Support or oversight is non-compliant when it becomes merits decision-making without separate authority, lacks the independence needed for the task, or cannot escalate material findings.
 

@@ -151,7 +151,7 @@ Activation records must state:
 - who authorized activation;
 - when independent review will occur.
 
-Shared expiry, reauthorization, restoration, and closure-evidence requirements follow `corpus_systems.md` **Protocol A**, subsection **G**, where constitutional-system continuity is implicated. Forum activation records add the Chapter Eight routing and family-specific adjudication details listed here.
+Shared expiry, reauthorization, restoration, and closure-evidence requirements follow `corpus_systems.md` **Protocol A**, subsection **G**, where constitutional-system continuity is implicated. Forum activation records add the **Chapter Nine** routing and family-specific adjudication details listed here.
 
 ### CF-12.4 Continuity minimum functions
 <details>

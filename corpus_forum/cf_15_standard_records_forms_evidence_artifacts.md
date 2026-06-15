@@ -109,7 +109,7 @@ Adopting systems may combine compatible forms, but must not merge records in a w
 
 Each standard record must include, proportionate to the action:
 - forum family, chamber or panel, and docket identity;
-- authority invoked, including Chapter Eight routing basis where material;
+- authority invoked, including **Chapter Nine** routing basis where material;
 - date, time, responsible role, and any approving or reviewing role;
 - affected parties or affected class, with lawful anonymization where required;
 - scope of action and duration where temporary or restricted;

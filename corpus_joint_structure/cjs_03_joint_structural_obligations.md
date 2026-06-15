@@ -23,17 +23,7 @@
 
 <br>
 
-
-**Plain-language purpose**
-This section explains what must happen when more than one implementation file applies to the same real-world situation. It prevents a common failure: every file looks satisfied on its own, but the combined system still blocks challenge, hides responsibility, weakens independence, or ignores the risk level assigned by classification.
-
-Routing remains in **CJS-2.1** (*Topic router (stable IDs)*) and `doc_architecture.md` section 4. These rules add to **primary owner** rules in **CJS**, **CS**, **CI**, and **CF**; they do not replace them.
-
-**File organization**
-This file holds the general CJS-3 (*Joint structural obligations (cross-domain requirements)*) joint-compliance rules. More specialized material is now promoted into separate CJS sections:
-
-- [cjs_04_specific_joint_interlocks.md](cjs_04_specific_joint_interlocks.md) holds **CJS-4.1** (*Mandatory hybrid authority composition (delegated binding bodies)*) through **CJS-4.7** (*Shared procedural abstractions for delegated bodies and forum routing*).
-- [cjs_05_cross_implementation_operational_terms.md](cjs_05_cross_implementation_operational_terms.md) holds **CJS-5A.1** (*Implementation and cross-implementation distributed and proportional authority terms*) through **CJS-5E.5** (*Implementation and cross-implementation structural review, correction urgency, and disclosure terms*).
+*In plain terms: this file states cross-domain requirements that must be satisfied together when more than one implementation layer applies to the same facts. Routing, owner discipline, and the shared implementation-corpus contract are in **CJS-1.1** (*Joint structural boundary and owner discipline*), **CJS-1.2** (*Shared implementation-corpus preamble contract*), and **CJS-2.1** (*Topic router (stable IDs)*). Specific interlocks follow in [cjs_04_specific_joint_interlocks.md](cjs_04_specific_joint_interlocks.md).*
 
 ### CJS-3.1 When joint obligations apply
 <details>
@@ -91,13 +81,14 @@ Emergency or temporary narrowing is allowed only when it is published, clearly b
 
 - Upstream: [CJS-1.2](cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
 - Downstream: this section's local operational requirements for **CJS-3.3 Boundary Between Support Roles and Merits Decisions**.
-- Read with: **CJS-3.3**; **CJS-5A.6**.
+- Read with: **CJS-3.3**; **CJS-5A.6**; [Merits Determination](../core_05-05_definitions_b_semi_independent.md#merits-determination).
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
 
+- [Merits Determination](../core_05-05_definitions_b_semi_independent.md#merits-determination) · [O](../core_05-05_definitions_b_semi_independent.md#merits-determination) · [E](../core_05-05_definitions_b_semi_independent.md#merits-determination-e) · [C](../core_05-05_definitions_b_semi_independent.md#merits-determination-c)
 - [Oversight](../core_05-05_definitions_a_independent.md#oversight-constitutional) · [O](../core_05-05_definitions_a_independent.md#oversight-constitutional) · [E](../core_05-05_definitions_a_independent.md#oversight-constitutional-e) · [C](../core_05-05_definitions_a_independent.md#oversight-constitutional-c)
 - [Procedural Fairness](../core_05-05_definitions_b_semi_independent.md#procedural-fairness-constitutional) · [O](../core_05-05_definitions_b_semi_independent.md#procedural-fairness-constitutional) · [E](../core_05-05_definitions_b_semi_independent.md#procedural-fairness-constitutional-e) · [C](../core_05-05_definitions_b_semi_independent.md#procedural-fairness-constitutional-c)
 - [Adjudication and Dispute Resolution](../core_05-05_definitions_b_semi_independent.md#adjudication-and-dispute-resolution-constitutional) · [O](../core_05-05_definitions_b_semi_independent.md#adjudication-and-dispute-resolution-constitutional) · [E](../core_05-05_definitions_b_semi_independent.md#adjudication-and-dispute-resolution-constitutional-e) · [C](../core_05-05_definitions_b_semi_independent.md#adjudication-and-dispute-resolution-constitutional-c)
@@ -107,9 +98,9 @@ Emergency or temporary narrowing is allowed only when it is published, clearly b
 
 <br>
 
-Roles that monitor, review pathway performance, provide forensic help, or support investigations must not make binding merits decisions under **Chapter Eight**. The only exception is when a separate lawful instrument clearly gives a named role limited authority to decide merits issues.
+Roles that monitor, review pathway performance, provide forensic help, or support investigations must not make binding merits determinations within the meaning of [Merits Determination](../core_05-05_definitions_b_semi_independent.md#merits-determination) under [Chapter Nine](../core_09-09_forum.md#chapter-nine-forums-and-jurisdiction) and [Adjudication and Dispute Resolution](../core_05-05_definitions_b_semi_independent.md#adjudication-and-dispute-resolution-constitutional). The only exception is when a separate lawful instrument clearly gives a named role limited authority to decide merits issues.
 
-Institutions must publish what each role is allowed to do and what it is not allowed to decide. They must also state who the role reports to, how often it reports, and how it connects to assurance lanes. Oversight and support roles must not quietly take over the merits decision-making assigned to a forum family.
+Institutions must publish what each role is allowed to do and what it is not allowed to decide. They must also state who the role reports to, how often it reports, and how it connects to assurance lanes. Oversight and support roles must not quietly take over merits decision-making assigned to a lawfully constituted forum family under **Chapter Nine**.
 
 See **CI-7.3** (*Contest-integrity monitoring (Class A and Class B)*), **CF-8** (*Forum forensic and analytical support*), **CF-9** (*Independent investigative service and prosecution interface*), and **CJS-5A.6** (*Implementation and cross-implementation procedural integrity and adjudication terms*).
 

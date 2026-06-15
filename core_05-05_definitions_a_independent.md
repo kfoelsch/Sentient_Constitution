@@ -154,6 +154,7 @@ This directory lists **Definitions A-Z** and **Clusters A-Z** separately. Each v
 - [Materiality Integrity Constraint](core_05-05_definitions_b_semi_independent.md#materiality-integrity-constraint)
 - [Materiality Under Uncertainty](core_05-05_definitions_b_semi_independent.md#materiality-under-uncertainty)
 - [Meaningful Agency](core_05-05_definitions_b_semi_independent.md#meaningful-agency)
+- [Merits Determination](core_05-05_definitions_b_semi_independent.md#merits-determination)
 - [Movement and Relocation](core_05-05_definitions_b_semi_independent.md#movement-and-relocation-constitutional)
 - [Natural Systems Standing](#natural-systems-standing)
 - [Necessity](#necessity)
