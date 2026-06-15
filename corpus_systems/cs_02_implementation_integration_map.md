@@ -18,28 +18,28 @@
 
 - Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
 - Downstream: this section's local operational requirements for **CS-2.1: Systems topic router (domain and CJS-R index)**.
-- Read with: **CS-2.1**; [CJS-2.1](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids); **Chapter S1**; **Chapter S2**; **Chapter S3**; **Protocol A**.
+- Read with: **CS-2.1**; [CJS-2.1](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids); **CS-3 — Information types and handling**; **CS-4 — System classification and handling**; **CS-5 — Critical system stewardship**; **Protocol A**.
 
 </details>
 
 <br>
 
-**Domain-internal reading order (systems-only topics):** for classification, dependency typing, and stewardship scale, read **Chapter S1** → **Chapter S2** → **Chapter S3** before specialized protocols unless a protocol row below is the stated primary owner for the topic.
+**Domain-internal reading order (systems-only topics):** for classification, dependency typing, and stewardship scale, read **CS-3 — Information types and handling** → **CS-4 — System classification and handling** → **CS-5 — Critical system stewardship** before specialized protocols unless a protocol row below is the stated primary owner for the topic.
 
 When a systems topic materially intersects **CI**, **CF**, or **CJS**, use the **CJS-R** index rows below and read the authoritative mandatory read-with list in [CJS-2.1](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids).
 
 | CJS-R row / domain row | Topic (short) | CS primary owner | Authoritative read-with |
 |------------------------|---------------|------------------|-------------------------|
-| **CS-D01** | Information types and handling taxonomy | **Chapter S1** | **Chapter S2**; **Chapter S3** where classification scales handling |
-| **CS-D02** | System classification and dependency typing | **Chapter S2** | **Chapter S1**; **Chapter S3** where class scales stewardship |
-| **CS-D03** | Critical system stewardship tiers | **Chapter S3** | **Chapter S2**; **Protocol A** where design and verification apply |
-| **CS-D04** | Design, testing, verification, deployment lifecycle | **Protocol A** | **Chapter S2**, **Chapter S3** where class scales burden |
-| **CJS-R01** (read-with) | Delegated binding bodies — classification interface | **Chapter S2**, **Chapter S3** | [CJS-R01](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-r01) in **CJS-2.1** |
-| **CJS-R02** (read-with) | Forum chambers — classification interface | **Chapter S2**, **Chapter S3** | [CJS-R02](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-r02) in **CJS-2.1** |
+| **CS-D01** | Information types and handling taxonomy | **CS-3 — Information types and handling** | **CS-4 — System classification and handling**; **CS-5 — Critical system stewardship** where classification scales handling |
+| **CS-D02** | System classification and dependency typing | **CS-4 — System classification and handling** | **CS-3 — Information types and handling**; **CS-5 — Critical system stewardship** where class scales stewardship |
+| **CS-D03** | Critical system stewardship tiers | **CS-5 — Critical system stewardship** | **CS-4 — System classification and handling**; **Protocol A** where design and verification apply |
+| **CS-D04** | Design, testing, verification, deployment lifecycle | **Protocol A** | **CS-4 — System classification and handling**, **CS-5 — Critical system stewardship** where class scales burden |
+| **CJS-R01** (read-with) | Delegated binding bodies — classification interface | **CS-4 — System classification and handling**, **CS-5 — Critical system stewardship** | [CJS-R01](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-r01) in **CJS-2.1** |
+| **CJS-R02** (read-with) | Forum chambers — classification interface | **CS-4 — System classification and handling**, **CS-5 — Critical system stewardship** | [CJS-R02](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-r02) in **CJS-2.1** |
 | **CJS-R11** (read-with) | Forum continuity — technical continuity | **Protocol A** | [CJS-R11](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-r11) in **CJS-2.1** |
-| **CJS-R15** (read-with) | Contest-integrity monitoring — classification burden | **Chapter S2**, **Chapter S3** | [CJS-R15](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-r15) in **CJS-2.1** |
-| **CJS-R17** (read-with) | Cross-implementation trust integrity | **Chapter S2**, **Chapter S3** | [CJS-R17](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-r17) in **CJS-2.1** |
-| **CJS-R19** (read-with) | Integrity assurance and resilience operations | **Chapter S1**, **Chapter S2**, **Chapter S3** | [CJS-R19](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-r19) in **CJS-2.1** |
+| **CJS-R15** (read-with) | Contest-integrity monitoring — classification burden | **CS-4 — System classification and handling**, **CS-5 — Critical system stewardship** | [CJS-R15](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-r15) in **CJS-2.1** |
+| **CJS-R17** (read-with) | Cross-implementation trust integrity | **CS-4 — System classification and handling**, **CS-5 — Critical system stewardship** | [CJS-R17](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-r17) in **CJS-2.1** |
+| **CJS-R19** (read-with) | Integrity assurance and resilience operations | **CS-3 — Information types and handling**, **CS-4 — System classification and handling**, **CS-5 — Critical system stewardship** | [CJS-R19](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-r19) in **CJS-2.1** |
 
 **CS-D** row IDs are **corpus-local** domain-internal labels; they are **not** Sentient Constitution article numbers and do not replace **CJS-R** rows.
 
@@ -49,16 +49,16 @@ When a systems topic materially intersects **CI**, **CF**, or **CJS**, use the *
 
 - Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
 - Downstream: this section's local operational requirements for **CS-2.2: Systems overlap discipline**.
-- Read with: **CS-2.2**; [CJS-2.2](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-22-intentional-overlap-non-duplication-discipline); **Chapter S2**; **Protocol A**; **Protocol B**.
+- Read with: **CS-2.2**; [CJS-2.2](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-22-intentional-overlap-non-duplication-discipline); **CS-4 — System classification and handling**; **Protocol A**; **Protocol B**.
 
 </details>
 
 <br>
 
-Some systems topics are **deliberately** split — for example taxonomy (**Chapter S1**), classification (**Chapter S2**), stewardship (**Chapter S3**), and lifecycle engineering (**Protocol A**). For those splits:
+Some systems topics are **deliberately** split — for example taxonomy (**CS-3 — Information types and handling**), classification (**CS-4 — System classification and handling**), stewardship (**CS-5 — Critical system stewardship**), and lifecycle engineering (**Protocol A**). For those splits:
 
 - the **primary owner** named in **CS-2.1** states the **full operative** rules for its assigned scope;
-- companion **CS** protocols specialize without redefining **Chapter S** taxonomy labels;
+- companion **CS** protocols specialize without redefining **CS-3–CS-5** taxonomy labels;
 - do **not** restate **CJS-5** operational clusters or **CI**/**CF** checklists except in brief pointer form when needed for coherence.
 
 For cross-layer overlap discipline, apply [CJS-2.2](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-22-intentional-overlap-non-duplication-discipline) (*Intentional overlap (non-duplication discipline)*).

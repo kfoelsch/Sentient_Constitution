@@ -16,9 +16,9 @@
 | Protocol A: System Design, Testing, Verification, and Deployment | [cs_protocol_a_system_design_testing_verification_deployment.md](corpus_systems/cs_protocol_a_system_design_testing_verification_deployment.md) |
 | Protocol B: System Comprehensibility and Complexity Stewardship | [cs_protocol_b_system_comprehensibility_complexity_stewardship.md](corpus_systems/cs_protocol_b_system_comprehensibility_complexity_stewardship.md) |
 | Protocol C: Justice Safeguards, Restitution, and Rehabilitation Implementation | [cs_protocol_c_justice_safeguards_restitution_rehabilitation.md](corpus_systems/cs_protocol_c_justice_safeguards_restitution_rehabilitation.md) |
-| Chapter S1 — Information Types and Handling | [cs_s1_information_types_and_handling.md](corpus_systems/cs_s1_information_types_and_handling.md) |
-| Chapter S2 — System Classification and Handling | [cs_s2_system_classification_and_handling.md](corpus_systems/cs_s2_system_classification_and_handling.md) |
-| Chapter S3 — Critical System Stewardship | [cs_s3_critical_system_stewardship.md](corpus_systems/cs_s3_critical_system_stewardship.md) |
+| CS-3 — Information types and handling | [cs_s1_information_types_and_handling.md](corpus_systems/cs_s1_information_types_and_handling.md) |
+| CS-4 — System classification and handling | [cs_s2_system_classification_and_handling.md](corpus_systems/cs_s2_system_classification_and_handling.md) |
+| CS-5 — Critical system stewardship | [cs_s3_critical_system_stewardship.md](corpus_systems/cs_s3_critical_system_stewardship.md) |
 | Protocol S4 — Adaptive Sustainability and Ecosystem Resilience | [cs_protocol_s4_adaptive_sustainability_ecosystem_resilience.md](corpus_systems/cs_protocol_s4_adaptive_sustainability_ecosystem_resilience.md) |
 | Protocol S5 — Resource Allocation and Funding Stewardship | [cs_protocol_s5_resource_allocation_funding_stewardship.md](corpus_systems/cs_protocol_s5_resource_allocation_funding_stewardship.md) |
 | Protocol T — Transition Constitution and Migration Governance | [cs_protocol_t_transition_constitution_migration_governance.md](corpus_systems/cs_protocol_t_transition_constitution_migration_governance.md) |

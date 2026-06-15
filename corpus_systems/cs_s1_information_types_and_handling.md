@@ -1,4 +1,4 @@
-## CHAPTER S1 — INFORMATION TYPES AND HANDLING
+## CS-3: Information types and handling
 
 **Introductory provisions:** Systems must preserve the practical ability to publish truthful information while maintaining safeguards for harm prevention, privacy, trust, and system integrity.
 
@@ -7,9 +7,9 @@ Requirements and limitations scale proportionally with system classification and
 ### I. Purpose and scope
 **Sentient Constitution Chapter Ten** (Articles **I**–**XXV**; presentation **Parts A–D**) states Foundational Rights that depend upon strong, reproducible procedures and governance. That includes info-sphere, audit, and comprehensibility hooks where they apply to data handling (e.g., **Articles XIV**, **XV**, and **XX**).
 
-Therefore, all data must be identified as belonging to one or more of the types defined in Chapter S1 — Information Types and Handling. Where multiple classifications apply, the most restrictive applicable protections govern, subject to proportionality (**CJS-5.2** (*Implementation and cross-implementation distributed and proportional authority terms*) and **CJS-5.12** (*Implementation and cross-implementation quorum and participatory legitimacy terms*)).
+Therefore, all data must be identified as belonging to one or more of the types defined in CS-3 — Information types and handling. Where multiple classifications apply, the most restrictive applicable protections govern, subject to proportionality (**CJS-5.2** (*Implementation and cross-implementation distributed and proportional authority terms*) and **CJS-5.12** (*Implementation and cross-implementation quorum and participatory legitimacy terms*)).
 
-Handling must align with Sentient Constitution Chapter Ten and scale with system class under Chapter S2. Where data handling supports material portability, audit, repair, continuity, migration, or cross-implementation operation for **Class A**, **Class B**, or **Class C** systems, format, schema, API, and interchange-protocol choices must also satisfy `corpus_joint_structure.md` **CJS-5.17** (*Implementation and cross-implementation interoperability, portability, and exit-integrity terms*).
+Handling must align with Sentient Constitution Chapter Ten and scale with system class under CS-4 — System classification and handling. Where data handling supports material portability, audit, repair, continuity, migration, or cross-implementation operation for **Class A**, **Class B**, or **Class C** systems, format, schema, API, and interchange-protocol choices must also satisfy `corpus_joint_structure.md` **CJS-5.17** (*Implementation and cross-implementation interoperability, portability, and exit-integrity terms*).
 
 **Class A/B/C public-interest visibility default.** For **Class A**, **Class B**, and **Class C** systems, data necessary to understand system purpose, classification, dependency structure, operational status, material risks, performance, failures, governance, audit outcomes, stakeholder effects, and constitutional compliance is **public by default**.
 
@@ -18,7 +18,7 @@ This default applies most strongly to **Type C** and **Type G** data. It does **
 Any restriction must be **narrowly scoped**, **documented**, **proportionate**, **auditable**, and **subject to challenge**. Security or investigation-based restrictions must be **time-bound** and **review-bound** under **Type S**. Restrictions must not conceal systemic behavior, constitutional violations, material risk, dependency, failure, or externalized cost.
 
 ### II. Temporal, systemic, and dependency scope of rights
-Data-handling protections under Chapter S1 apply not only to immediate and direct system effects. They also apply to delayed, cumulative, and indirect impacts arising through system interactions and dependency chains.
+Data-handling protections under CS-3 — Information types and handling apply not only to immediate and direct system effects. They also apply to delayed, cumulative, and indirect impacts arising through system interactions and dependency chains.
 
 Where systems create or contribute to material risk to sentients, including through transitive dependencies, those risks fall within the scope of these protections. Systems must **not** externalize risk or harm across time, populations, or system boundaries. That prohibition includes layered or indirect dependencies. Those dependencies must not bypass, defer, or dilute the protections and constraints established in Sentient Constitution Chapters One through Six.
 
@@ -38,7 +38,7 @@ All classification decisions and transformations must remain **transparent (`cor
 **Misclassification:** Misclassification, evasive structuring, or functional circumvention violates **informational integrity** (**Article XIV**), auditability where observable evidence is implicated (**Article XV-A**), and **applicable rights under Chapter Ten, Articles V through IX**.
 
 ### IV. Anti-circumvention and integrity of classification
-Data classification under Chapter S1 is binding across all systems, processes, and transformations. **No system may:**
+Data classification under CS-3 — Information types and handling is binding across all systems, processes, and transformations. **No system may:**
 - **shift** data between classifications without maintaining the protections required by the **most restrictive applicable** classification
 - **fragment, transform, aggregate, or re-label** data to avoid classification while preserving equivalent functional access or effect
 - **structure** data pipelines, processing stages, or system boundaries to bypass applicable classification requirements
@@ -137,7 +137,7 @@ It is permitted **only if** all of the following are true:
 - **system-level accountability** is preserved and all actions within the system remain attributable at an audit level consistent with system impact (`corpus_joint_structure.md` **CJS-5.15** (*Implementation and cross-implementation disclosure sufficiency and observability terms*), **CJS-5.9** (*Implementation and cross-implementation auditability and reconstructability terms*), **CJS-5.11** (*Implementation and cross-implementation independent verification and claim-integrity terms*), and **CJS-5.2** (*Implementation and cross-implementation distributed and proportional authority terms*) and **CJS-5.12** (*Implementation and cross-implementation quorum and participatory legitimacy terms*))
 - participants are **not** exposed to **non-consensual** harm, coercion, or manipulation
 
-**Transition to full attribution:** Where systems **increase in impact**, they must transition toward **full attribution** as **Chapter S1 — Information Types and Handling** requires. **The same** applies when they **introduce persistent value, identity, or resource transfer** or **affect external systems**. **No** system may continue under **reduced attribution** once it **exceeds low-impact thresholds**.
+**Transition to full attribution:** Where systems **increase in impact**, they must transition toward **full attribution** as **CS-3 — Information types and handling** requires. **The same** applies when they **introduce persistent value, identity, or resource transfer** or **affect external systems**. **No** system may continue under **reduced attribution** once it **exceeds low-impact thresholds**.
 
 **3. Identity lifecycle and recoverability.** **Identity and Attribution Data** must support **revocation of credentials**.
 
@@ -246,7 +246,7 @@ The data may be necessary for integrity, coordination, and audit.
 Even so, it must **not** be exposed, combined.
 or retained in ways that create **unnecessary surveillance, coercion, or latent reconstruction** of Type N or Type I data. **It** must be collected, accessed, and used **only** for **specific, defined, legitimate** purposes. **It** must **not** be used **beyond its original purpose**.
 
-Extension requires **re-classification** under **Chapter S1 — Information Types and Handling**, which may require **consent** or **justified override** under **CJS-5.5** (*Implementation and cross-implementation burden-of-justification and constraint terms*).
+Extension requires **re-classification** under **CS-3 — Information types and handling**, which may require **consent** or **justified override** under **CJS-5.5** (*Implementation and cross-implementation burden-of-justification and constraint terms*).
 
 **Disclosure requirement:** Restricted.
 
@@ -368,7 +368,7 @@ Access decisions must be **documented**, **attributable**, **auditable**, and **
 
 All restrictions must be **explicitly time-bound** at classification. They must be subject to periodic revalidation under `corpus_joint_structure.md` **CJS-5.18** (*Implementation and cross-implementation data-retention and lifecycle-integrity terms*) and automatically reviewed for release, partial disclosure, or summary disclosure.
 
-If revalidation does not occur within the defined time bound, restriction expires automatically and data must be reclassified and disclosed per **Chapter S1 — Information Types and Handling**.
+If revalidation does not occur within the defined time bound, restriction expires automatically and data must be reclassified and disclosed per **CS-3 — Information types and handling**.
 
 **Reclassification and release:** On expiration or invalidation of justification, systems must reclassify to the appropriate non-restricted domain (including **Type C** or **G** where applicable). They must disclose the data, or a sufficiently informative summary, for audit and accountability.
 

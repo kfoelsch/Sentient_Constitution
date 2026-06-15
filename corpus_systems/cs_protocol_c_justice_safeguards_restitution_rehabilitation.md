@@ -21,7 +21,7 @@ That record must demonstrate all of the following jointly:
 If any required element is absent, the restriction is non-compliant and must **not** be imposed.
 
 ### 3. Class-scaled assurance requirements
-Validation and review rigor must scale with **Chapter S2** classification (and **Chapter S3** stewardship tier where applicable).
+Validation and review rigor must scale with **CS-4 — System classification and handling** classification (and **CS-5 — Critical system stewardship** stewardship tier where applicable).
 
 **Class A and Class B:** Where feasible, use independent secondary review before imposition, provide explicit alternatives analysis, use mandatory periodic review at short intervals, and provide restoration planning at the initial decision.
 

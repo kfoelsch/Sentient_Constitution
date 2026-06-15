@@ -54,7 +54,7 @@ Decisions taken under partition remain challengeable and must be revalidated dur
 
 **6. Performance and reliability under decentralized operation.** Class-scaled continuity profiles must define measurable decentralized performance targets (for example, local decision latency, offline survivability duration, and reconciliation convergence bounds).
 
-**Targets must** **be auditable and periodically reviewed**. **They** must **scale with Chapter S2 class and Chapter S3 stewardship tier where applicable**. **They** must **never justify weakening constitutional Rights Floors or verification integrity**.
+**Targets must** **be auditable and periodically reviewed**. **They** must **scale with CS-4 — System classification and handling class and CS-5 — Critical system stewardship stewardship tier where applicable**. **They** must **never justify weakening constitutional Rights Floors or verification integrity**.
 
 **7. Rejoin, de-escalation, and anti-normalization.** Rejoin-Reconciliation mode must include **staged restoration of normal governance pathways**.
 

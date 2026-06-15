@@ -68,7 +68,7 @@ Replacement planning must include compatibility and exit-integrity protections s
 
 **6. Crisis communications and anti-disinformation controls.** During activated response, communications must remain accurate, timely, and evidentially grounded. Systems must:
 - **publish regular status updates** with knowns, unknowns, and next review points
-- **separate coordination-critical disclosures** from exploit-sensitive details under Chapter S1 handling rules
+- **separate coordination-critical disclosures** from exploit-sensitive details under CS-3 — Information types and handling handling rules
 - **flag uncertainty explicitly** and **prohibit materially misleading assurance claims**
 - **log what was communicated**, by whom, when, and with what evidential basis
 
