@@ -237,7 +237,7 @@ Where an alignment ruling materially stabilizes outcomes beyond the named partie
 <br>
 
 
-**Purpose.** Provide official, contestable forum mechanics for recognizing new materially impactful systems as constitutionally aligned within a stated scope. The same mechanics also check whether existing systems remain aligned over time. This subsection implements `core_09-09_forum.md` **Chapter Nine**, **sections 4, 6, and 7**, and works with `corpus_systems.md` **Protocol A** and **Chapter S2** classification and revalidation duties.
+**Purpose.** Provide official, contestable forum mechanics for recognizing new materially impactful systems as constitutionally aligned within a stated scope. The same mechanics also check whether existing systems remain aligned over time. This subsection implements `core_09-09_forum.md` **Chapter Nine**, **sections 4, 6, and 7**, and works with `corpus_systems.md` **Protocol A** and **CS-4 — System classification and handling** classification and revalidation duties.
 
 #### CF-7.2.1 Technical-Specification and Environmental-Component Separation
 <details>
@@ -331,7 +331,7 @@ Alignment recognition or review must be available when any of the following mate
 
 A recognition, validation, or revalidation record must identify:
 - the system, operator or steward, claimed scope, deployment context, and affected stakeholder or dependency classes;
-- the Chapter S2 classification, Chapter S3 stewardship tier where applicable, and the evidence supporting those classifications;
+- the CS-4 — System classification and handling classification, CS-5 — Critical system stewardship stewardship tier where applicable, and the evidence supporting those classifications;
 - the constitutional provisions, Rights-Floor obligations, CJS-5 (*Implementation and cross-implementation operational cluster library*) operational clusters, and implementation requirements treated as material;
 - where ecological exposure is material, the Environment forum environmental-alignment component record, including approval, conditional approval, objection, remediation requirements, or release-from-condition findings;
 - the technical specifications, measurement methods, test protocols, expert-evidence standards, and testing evidence considered;

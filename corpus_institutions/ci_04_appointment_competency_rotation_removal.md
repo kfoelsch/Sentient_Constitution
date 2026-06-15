@@ -41,7 +41,7 @@ Interpretive-body composition controls (**Article XXII** — constitutional inte
 - Members remain subject to challenge for non-disclosure, bias, capture risk, or dependency-linked influence.
 - Repeated or strategic recusal abuse is non-compliant and triggers corrective/removal review.
 
-Authorized-role and accountability-chain mechanics (**Chapter Ten**, section 5 — *Authorized Roles, Competency Development, and Contribution* / **Chapter Ten**, Article XI-D interface) remain institution-specific where they assign local scope, limits, decision rights, review rights, accountability owners, escalation routes, qualification/disqualification criteria, succession readiness, and capability-refresh duties. Shared class-scaling stays in **CJS-4.6** with **CI-3** (*Institutional design and separation of powers*) lane ownership and `corpus_systems.md` **Chapter S2 — System Classification and Handling** and **Chapter S3 — Critical System Stewardship** class-scaling hooks.
+Authorized-role and accountability-chain mechanics (**Chapter Ten**, section 5 — *Authorized Roles, Competency Development, and Contribution* / **Chapter Ten**, Article XI-D interface) remain institution-specific where they assign local scope, limits, decision rights, review rights, accountability owners, escalation routes, qualification/disqualification criteria, succession readiness, and capability-refresh duties. Shared class-scaling stays in **CJS-4.6** (*Class-scaled lane staffing and competency redundancy*) with **CI-3** (*Institutional design and separation of powers*) lane ownership and `corpus_systems.md` **CS-4 — System classification and handling** and **CS-5 — Critical system stewardship** class-scaling hooks.
 
 ---
 

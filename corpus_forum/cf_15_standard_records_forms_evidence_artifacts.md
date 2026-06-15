@@ -212,7 +212,7 @@ Publication and retention rules must be written in advance and aligned with **CF
 
 During degraded or emergency operation, temporary paper, offline, or local records may be used only if they preserve docket identity, timestamps, responsible roles, and later reconciliation. Reconciled records must identify any gap, conflict, loss, or reconstruction uncertainty.
 
-Forum archival and retrieval systems whose failure would materially impair record access, restoration, precedent or publication continuity, audit, challenge, or lawful reconstruction must be classified no lower than **Class B** under `corpus_systems.md` **Chapter S2**, unless the adopting entity documents a viable, tested, and timely substitute sufficient to preserve those functions. Vendor control, format lock-in, search degradation, migration failure, loss of indexing, or comparable technical dependency must not be used to avoid record-continuity, auditability, or contestability duties.
+Forum archival and retrieval systems whose failure would materially impair record access, restoration, precedent or publication continuity, audit, challenge, or lawful reconstruction must be classified no lower than **Class B** under `corpus_systems.md` **CS-4 — System classification and handling**, unless the adopting entity documents a viable, tested, and timely substitute sufficient to preserve those functions. Vendor control, format lock-in, search degradation, migration failure, loss of indexing, or comparable technical dependency must not be used to avoid record-continuity, auditability, or contestability duties.
 
 ### CF-15.6 Non-compliant record patterns
 <details>
