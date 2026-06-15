@@ -10,7 +10,9 @@
 
 | Stable family | Authoritative subfile |
 |---|---|
-| Opening title, status, scope, and systems identifier rules | [cs_01_scope_purpose_identifier_rules.md](corpus_systems/cs_01_scope_purpose_identifier_rules.md) |
+| Opening title, status, scope, and registry | [cs_00_registry_and_reading_rules.md](corpus_systems/cs_00_registry_and_reading_rules.md) |
+| CS-1: Scope, purpose, and boundary interface | [cs_01_scope_purpose_identifier_rules.md](corpus_systems/cs_01_scope_purpose_identifier_rules.md) |
+| CS-2: Implementation integration map | [cs_02_implementation_integration_map.md](corpus_systems/cs_02_implementation_integration_map.md) |
 | Protocol A: System Design, Testing, Verification, and Deployment | [cs_protocol_a_system_design_testing_verification_deployment.md](corpus_systems/cs_protocol_a_system_design_testing_verification_deployment.md) |
 | Protocol B: System Comprehensibility and Complexity Stewardship | [cs_protocol_b_system_comprehensibility_complexity_stewardship.md](corpus_systems/cs_protocol_b_system_comprehensibility_complexity_stewardship.md) |
 | Protocol C: Justice Safeguards, Restitution, and Rehabilitation Implementation | [cs_protocol_c_justice_safeguards_restitution_rehabilitation.md](corpus_systems/cs_protocol_c_justice_safeguards_restitution_rehabilitation.md) |
@@ -25,4 +27,4 @@
 
 ---
 
-**Next file:** [cs_01_scope_purpose_identifier_rules.md](corpus_systems/cs_01_scope_purpose_identifier_rules.md)
+**Next file:** [cs_00_registry_and_reading_rules.md](corpus_systems/cs_00_registry_and_reading_rules.md)

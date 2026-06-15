@@ -1,10 +1,10 @@
-## CF-11: Forum continuity
+## CF-12: Forum continuity
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Nine](../core_09-09_forum.md#chapter-nine-forums-and-jurisdiction) forum-family routing; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
-- Downstream: [CF-11.1 Rights-Floor continuity rule](#cf-111-rights-floor-continuity-rule); [CF-11.2 Continuity modes](#cf-112-continuity-modes); [CF-11.3 Activation triggers](#cf-113-activation-triggers); [CF-11.4 Continuity minimum functions](#cf-114-continuity-minimum-functions); [CF-11.5 Record continuity and custody](#cf-115-record-continuity-and-custody); [CF-11.6 Communication duties](#cf-116-communication-duties); [CF-11.7 Cross-system and cross-institution coordination](#cf-117-cross-system-and-cross-institution-coordination); [CF-11.8 Exercises and testing](#cf-118-exercises-and-testing).
-- Read with: **CF-11**; **CF-11.1**; **CF-11.2**; **CF-11.3**; **CF-11.4**; **CF-11.5**; **CF-11.6**; **CF-11.7**; **CF-11.8**; [CJS-2.1](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router.
+- Downstream: [CF-12.1 Rights-Floor continuity rule](#cf-121-rights-floor-continuity-rule); [CF-12.2 Continuity modes](#cf-122-continuity-modes); [CF-12.3 Activation triggers](#cf-123-activation-triggers); [CF-12.4 Continuity minimum functions](#cf-124-continuity-minimum-functions); [CF-12.5 Record continuity and custody](#cf-125-record-continuity-and-custody); [CF-12.6 Communication duties](#cf-126-communication-duties); [CF-12.7 Cross-system and cross-institution coordination](#cf-127-cross-system-and-cross-institution-coordination); [CF-12.8 Exercises and testing](#cf-128-exercises-and-testing).
+- Read with: **CF-12**; **CF-12.1**; **CF-12.2**; **CF-12.3**; **CF-12.4**; **CF-12.5**; **CF-12.6**; **CF-12.7**; **CF-12.8**; [CJS-2.1](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router.
 
 </details>
 
@@ -34,20 +34,20 @@ This chapter governs forum continuity when ordinary forum operation is materiall
 - incapacity of key personnel;
 - inability to form lawful panels;
 - deadlock across adjudicative bodies;
-- capture or compromise indicators, including family-level capture under **CF-6.3.8**;
+- capture or compromise indicators, including family-level capture under **CF-7.3.8**;
 - network or infrastructure disruption that impairs constitutional adjudication.
 
-It governs continuity of adjudication. Fallback substitutions are governed by **CF-12** (*Fallback operation*), and emergency merits handling, review, restoration, and prohibited emergency patterns are governed by **CF-13** (*Emergency adjudication*). This chapter does not authorize permanent alteration of constitutional forum-family boundaries.
+It governs continuity of adjudication. Fallback substitutions are governed by **CF-13** (*Fallback operation*), and emergency merits handling, review, restoration, and prohibited emergency patterns are governed by **CF-14** (*Emergency adjudication*). This chapter does not authorize permanent alteration of constitutional forum-family boundaries.
 
-Where forum continuity materially depends on constitutional systems, this section must be read with `corpus_systems.md` **Protocol A**, subsection **G** (*Governance continuity, crisis communications, and exercises*). Protocol A states the shared emergency lifecycle, crisis-communication, exercise, restoration-evidence, and audit-trail mechanics; **CF-11** (*Forum continuity*) supplies the forum-specific continuity modes, activation triggers, minimum functions, record continuity, communications, coordination, and exercise requirements. **CF-12** and **CF-13** supply fallback-operation and emergency-adjudication requirements.
+Where forum continuity materially depends on constitutional systems, this section must be read with `corpus_systems.md` **Protocol A**, subsection **G** (*Governance continuity, crisis communications, and exercises*). Protocol A states the shared emergency lifecycle, crisis-communication, exercise, restoration-evidence, and audit-trail mechanics; **CF-12** (*Forum continuity*) supplies the forum-specific continuity modes, activation triggers, minimum functions, record continuity, communications, coordination, and exercise requirements. **CF-13** and **CF-14** supply fallback-operation and emergency-adjudication requirements.
 
-### CF-11.1 Rights-Floor continuity rule
+### CF-12.1 Rights-Floor continuity rule
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Nine](../core_09-09_forum.md#chapter-nine-forums-and-jurisdiction) forum-family routing; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
-- Downstream: this section's local operational requirements for **CF-11.1 Rights-Floor continuity rule**.
-- Read with: **CF-11.1**.
+- Downstream: this section's local operational requirements for **CF-12.1 Rights-Floor continuity rule**.
+- Read with: **CF-12.1**.
 
 </details>
 
@@ -75,13 +75,13 @@ Emergency forum operation must preserve, to the greatest feasible extent:
 
 Emergency simplification must not become a pretext to extinguish contestability.
 
-### CF-11.2 Continuity modes
+### CF-12.2 Continuity modes
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Nine](../core_09-09_forum.md#chapter-nine-forums-and-jurisdiction) forum-family routing; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
-- Downstream: this section's local operational requirements for **CF-11.2 Continuity modes**.
-- Read with: **CF-11.2**.
+- Downstream: this section's local operational requirements for **CF-12.2 Continuity modes**.
+- Read with: **CF-12.2**.
 
 </details>
 
@@ -110,13 +110,13 @@ Each adopting entity must publish at least these forum continuity modes:
 
 Mode transitions must be trigger-defined, attributable, auditable, and reversible when triggering conditions clear.
 
-### CF-11.3 Activation triggers
+### CF-12.3 Activation triggers
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Nine](../core_09-09_forum.md#chapter-nine-forums-and-jurisdiction) forum-family routing; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
-- Downstream: this section's local operational requirements for **CF-11.3 Activation triggers**.
-- Read with: **CF-11.3**.
+- Downstream: this section's local operational requirements for **CF-12.3 Activation triggers**.
+- Read with: **CF-12.3**.
 
 </details>
 
@@ -140,7 +140,7 @@ Continuity mode may activate only on documented findings such as:
 - physical or digital infrastructure outage materially impairing filing, record access, hearing, or publication;
 - emergency incapacity or absence of required judicial or administrative personnel;
 - credible capture or compromise indicators affecting ordinary routing or decision security;
-- family-level capture activation under **CF-6.3.8**;
+- family-level capture activation under **CF-7.3.8**;
 - overlapping crisis conditions that make ordinary scheduling constitutionally inadequate for emergency matters.
 
 Activation records must state:
@@ -153,13 +153,13 @@ Activation records must state:
 
 Shared expiry, reauthorization, restoration, and closure-evidence requirements follow `corpus_systems.md` **Protocol A**, subsection **G**, where constitutional-system continuity is implicated. Forum activation records add the Chapter Eight routing and family-specific adjudication details listed here.
 
-### CF-11.4 Continuity minimum functions
+### CF-12.4 Continuity minimum functions
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Nine](../core_09-09_forum.md#chapter-nine-forums-and-jurisdiction) forum-family routing; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
-- Downstream: this section's local operational requirements for **CF-11.4 Continuity minimum functions**.
-- Read with: **CF-11.4**.
+- Downstream: this section's local operational requirements for **CF-12.4 Continuity minimum functions**.
+- Read with: **CF-12.4**.
 
 </details>
 
@@ -186,13 +186,13 @@ In any degraded or emergency mode, the system must preserve at minimum:
 - a way to challenge emergency orders;
 - a path to restore ordinary forum review when feasible.
 
-### CF-11.5 Record continuity and custody
+### CF-12.5 Record continuity and custody
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Nine](../core_09-09_forum.md#chapter-nine-forums-and-jurisdiction) forum-family routing; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
-- Downstream: this section's local operational requirements for **CF-11.5 Record continuity and custody**.
-- Read with: **CF-11.5**.
+- Downstream: this section's local operational requirements for **CF-12.5 Record continuity and custody**.
+- Read with: **CF-12.5**.
 
 </details>
 
@@ -222,15 +222,15 @@ Forum emergency adjudication requires continuous preservation of:
 
 Where digital systems are impaired, institutions must maintain a lawful fallback for record capture and later reconciliation. Generic crisis audit-trail, communication-log, and closure-evidence requirements remain in `corpus_systems.md` **Protocol A**, subsection **G**; this subsection identifies the forum records that cannot be lost or silently merged during emergency operation.
 
-Long-term archival and retrieval systems that materially support record access, restoration, precedent or publication continuity, audit, challenge, or lawful reconstruction must be treated as forum-continuity dependencies under **CF-14.5** (*Publication, retention, and reconciliation*) and classified under `corpus_systems.md` **Chapter S2** according to their continuity function.
+Long-term archival and retrieval systems that materially support record access, restoration, precedent or publication continuity, audit, challenge, or lawful reconstruction must be treated as forum-continuity dependencies under **CF-15.5** (*Publication, retention, and reconciliation*) and classified under `corpus_systems.md` **Chapter S2** according to their continuity function.
 
-### CF-11.6 Communication duties
+### CF-12.6 Communication duties
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Nine](../core_09-09_forum.md#chapter-nine-forums-and-jurisdiction) forum-family routing; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
-- Downstream: this section's local operational requirements for **CF-11.6 Communication duties**.
-- Read with: **CF-11.6**.
+- Downstream: this section's local operational requirements for **CF-12.6 Communication duties**.
+- Read with: **CF-12.6**.
 
 </details>
 
@@ -257,13 +257,13 @@ During continuity-mode operation, forum-facing communications must apply `corpus
 - how parties can seek emergency review;
 - when the next continuity-status review will occur.
 
-### CF-11.7 Cross-system and cross-institution coordination
+### CF-12.7 Cross-system and cross-institution coordination
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Nine](../core_09-09_forum.md#chapter-nine-forums-and-jurisdiction) forum-family routing; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
-- Downstream: this section's local operational requirements for **CF-11.7 Cross-system and cross-institution coordination**.
-- Read with: **CF-11.7**.
+- Downstream: this section's local operational requirements for **CF-12.7 Cross-system and cross-institution coordination**.
+- Read with: **CF-12.7**.
 
 </details>
 
@@ -290,13 +290,13 @@ Where multiple institutions or forum families are affected, the continuity proto
 - conditions for external participation or assurance;
 - restoration sequencing across affected bodies.
 
-### CF-11.8 Exercises and testing
+### CF-12.8 Exercises and testing
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Nine](../core_09-09_forum.md#chapter-nine-forums-and-jurisdiction) forum-family routing; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
-- Downstream: this section's local operational requirements for **CF-11.8 Exercises and testing**.
-- Read with: **CF-11.8**.
+- Downstream: this section's local operational requirements for **CF-12.8 Exercises and testing**.
+- Read with: **CF-12.8**.
 
 </details>
 
@@ -328,6 +328,6 @@ Findings must be recorded and tied to remediation under **Protocol A**, subsecti
 
 ---
 
-**Previous file:** [cf_10_performance_backlog_publication_accessibility.md](cf_10_performance_backlog_publication_accessibility.md)
+**Previous file:** [cf_11_performance_backlog_publication_accessibility.md](cf_11_performance_backlog_publication_accessibility.md)
 
-**Next file:** [cf_12_fallback_operation.md](cf_12_fallback_operation.md)
+**Next file:** [cf_13_fallback_operation.md](cf_13_fallback_operation.md)

@@ -46,7 +46,9 @@ CJS_CHAIN = (
 CS_CHAIN = tuple(
     f"corpus_systems/{name}"
     for name in (
+        "cs_00_registry_and_reading_rules.md",
         "cs_01_scope_purpose_identifier_rules.md",
+        "cs_02_implementation_integration_map.md",
         "cs_protocol_a_system_design_testing_verification_deployment.md",
         "cs_protocol_b_system_comprehensibility_complexity_stewardship.md",
         "cs_protocol_c_justice_safeguards_restitution_rehabilitation.md",
@@ -64,8 +66,10 @@ CS_CHAIN = tuple(
 CI_CHAIN = tuple(
     f"corpus_institutions/{name}"
     for name in (
+        "ci_00_registry_and_reading_rules.md",
         "ci_01_scope_purpose_legitimacy_interface.md",
-        "ci_02_institutional_design_separation_of_powers.md",
+        "ci_02_implementation_integration_map.md",
+        "ci_03_institutional_design_separation_of_powers.md",
         "ci_04_appointment_competency_rotation_removal.md",
         "ci_05_conflict_integrity_anti_capture_anti_corruption.md",
         "ci_06_procedure_integrity_contestability_secondary_review.md",
@@ -97,20 +101,21 @@ CF_CHAIN = tuple(
     for name in (
         "cf_00_registry_and_reading_rules.md",
         "cf_01_scope_authority_boundary_rules.md",
-        "cf_02_forum_formation_tribunal_mapping_chamber_structure.md",
-        "cf_03_panel_formation_disclosure_recusal_bench_constitution.md",
-        "cf_04_routing_operations_transfer_certification_representative_treatment.md",
-        "cf_05_appeal_secondary_review_exhaustion_pathways.md",
-        "cf_06_integrity_safeguards_anti_capture_anti_self_judging.md",
-        "cf_07_forum_forensic_analytical_support.md",
-        "cf_08_independent_investigative_service_prosecution_interface.md",
-        "cf_09_technical_specialist_forums_specialist_chambers.md",
-        "cf_10_performance_backlog_publication_accessibility.md",
-        "cf_11_forum_continuity.md",
-        "cf_12_fallback_operation.md",
-        "cf_13_emergency_adjudication.md",
-        "cf_14_standard_records_forms_evidence_artifacts.md",
-        "cf_15_staffing_reserve_capacity_structural_records.md",
+        "cf_02_implementation_integration_map.md",
+        "cf_03_forum_formation_tribunal_mapping_chamber_structure.md",
+        "cf_04_panel_formation_disclosure_recusal_bench_constitution.md",
+        "cf_05_routing_operations_transfer_certification_representative_treatment.md",
+        "cf_06_appeal_secondary_review_exhaustion_pathways.md",
+        "cf_07_integrity_safeguards_anti_capture_anti_self_judging.md",
+        "cf_08_forum_forensic_analytical_support.md",
+        "cf_09_independent_investigative_service_prosecution_interface.md",
+        "cf_10_technical_specialist_forums_specialist_chambers.md",
+        "cf_11_performance_backlog_publication_accessibility.md",
+        "cf_12_forum_continuity.md",
+        "cf_13_fallback_operation.md",
+        "cf_14_emergency_adjudication.md",
+        "cf_15_standard_records_forms_evidence_artifacts.md",
+        "cf_16_staffing_reserve_capacity_structural_records.md",
     )
 )
 

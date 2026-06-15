@@ -156,6 +156,26 @@ Within this file, headings use **CJS-1** (*Scope, purpose, and boundary interfac
 Unless a section says otherwise, **Article** labels with Roman numerals that point to the Sentient Constitution Chapter Ten part files (`core_10-10_rights_part_*.md`) refer to the canonical `
 
 ### Article ...` headings in those files.
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Upstream: [CJS-1.2](cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
+- Downstream: this section's local operational requirements for **Article ...` headings in those files.**.
+- Read with: **CJS-5**.
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
+
+- [Corpus](../core_05-05_definitions_c_dependent_clusters.md#corpus) · [O](../core_05-05_definitions_c_dependent_clusters.md#corpus) · [E](../core_05-05_definitions_c_dependent_clusters.md#corpus-e) · [C](../core_05-05_definitions_c_dependent_clusters.md#corpus-c)
+- [Authority Stack and Internal Hierarchy](../core_05-05_definitions_c_dependent_clusters.md#authority-stack) · [O](../core_05-05_definitions_c_dependent_clusters.md#authority-stack) · [E](../core_05-05_definitions_c_dependent_clusters.md#authority-stack-e) · [C](../core_05-05_definitions_c_dependent_clusters.md#authority-stack-c)
+- [Supremacy and Enforceability](../core_05-05_definitions_c_dependent_clusters.md#supremacy-and-enforceability) · [O](../core_05-05_definitions_c_dependent_clusters.md#supremacy-and-enforceability) · [E](../core_05-05_definitions_c_dependent_clusters.md#supremacy-and-enforceability-e) · [C](../core_05-05_definitions_c_dependent_clusters.md#supremacy-and-enforceability-c)
+
+</details>
+
+<br>
+
 
 <details>
 <summary><strong><span style="color: #2563eb;">Implementation parse mechanics (read when using CJS-5 operational clusters)</span></strong></summary>

@@ -55,9 +55,9 @@ These rules sit between the general joint-compliance rules in [cjs_03_joint_stru
 
 
 **Router read:** Mandatory read-with for **CJS-R01** (*Delegated binding bodies and hybrid composition (non-forum institutions)*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CI-9.3**.
-**Router read:** Mandatory read-with for **CJS-R02** (*Forum chambers, divisions, and designated panels (Chapter Nine families)*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CF-2**.
+**Router read:** Mandatory read-with for **CJS-R02** (*Forum chambers, divisions, and designated panels (Chapter Nine families)*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CF-3**.
 
-Use this rule for two hybrid-composition router topics: **CJS-R01** (*Delegated binding bodies and hybrid composition (non-forum institutions)*), delegated binding bodies and hybrid composition for non-forum institutions under **CI-9.3** (*Delegated subunits, institutional design class, and attachment discipline*); and **CJS-R02** (*Forum chambers, divisions, and designated panels (Chapter Nine families)*), forum chambers, divisions, and designated panels under **CF-2.5** (*Chamber creation, identification, and family boundary*) through **CF-2.8** (*Specialist and technical chamber discipline*).
+Use this rule for two hybrid-composition router topics: **CJS-R01** (*Delegated binding bodies and hybrid composition (non-forum institutions)*), delegated binding bodies and hybrid composition for non-forum institutions under **CI-9.3** (*Delegated subunits, institutional design class, and attachment discipline*); and **CJS-R02** (*Forum chambers, divisions, and designated panels (Chapter Nine families)*), forum chambers, divisions, and designated panels under **CF-3.5** (*Chamber creation, identification, and family boundary*) through **CF-3.8** (*Specialist and technical chamber discipline*).
 
 Each covered body must use a published hybrid design that combines:
 - **home-based authority**, which provides continuity; and
@@ -71,7 +71,7 @@ Home-only or rotation-only structures are non-compliant for ordinarily binding b
 
 Where **CI** and **CF** overlap, the stricter clearly adopted rule governs.
 
-**Mandatory read-with:** **CI-9.3.1** through **CI-9.3.4**; **CF-2.5** through **CF-2.8** and **CF-11** through **CF-13** as applicable; `corpus_systems.md` **Chapter S2 — System Classification and Handling** and **Chapter S3 — Critical System Stewardship** where classification changes the burden.
+**Mandatory read-with:** **CI-9.3.1** through **CI-9.3.4**; **CF-3.5** through **CF-3.8** and **CF-12** through **CF-14** as applicable; `corpus_systems.md` **Chapter S2 — System Classification and Handling** and **Chapter S3 — Critical System Stewardship** where classification changes the burden.
 ### CJS-4.2 Shared attachment and continuity mechanics
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
@@ -96,7 +96,7 @@ Where **CJS-4.1** (*Mandatory hybrid authority composition (delegated binding bo
 - a bounded formula for rotating attachment that rotating authorities can understand before service;
 - no undefined discretion over how long rotating attachment lasts;
 - term, renewal, or stagger rules for home-based continuity; and
-- any class-, forum-, institution-, emergency-, or substitution-specific safeguards required by **CI-9.3** (*Delegated subunits, institutional design class, and attachment discipline*), **CF-2.5** (*Chamber creation, identification, and family boundary*), **CF-11** (*Forum continuity*), **CF-12** (*Fallback operation*), **CF-13** (*Emergency adjudication*), or related hooks.
+- any class-, forum-, institution-, emergency-, or substitution-specific safeguards required by **CI-9.3** (*Delegated subunits, institutional design class, and attachment discipline*), **CF-3.5** (*Chamber creation, identification, and family boundary*), **CF-12** (*Forum continuity*), **CF-13** (*Fallback operation*), **CF-14** (*Emergency adjudication*), or related hooks.
 
 Sample formulas are illustrative unless a **primary owner** makes them mandatory. Home-based term rules do not need to mirror rotating attachment rules.
 
@@ -231,13 +231,13 @@ Do not use a broad reading of CJS to change, shrink, expand, or move a rule that
 <br>
 
 
-**Router read:** Mandatory read-with for **CJS-R18** (*Class-scaled lane staffing and competency redundancy for materially bin…*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owners **CI-2**, **CI-4**, **CI-11**, **CI-12**.
+**Router read:** Mandatory read-with for **CJS-R18** (*Class-scaled lane staffing and competency redundancy for materially bin…*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owners **CI-3**, **CI-4**, **CI-11**, **CI-12**.
 
 Use this rule for **CJS-R18** (*Class-scaled lane staffing and competency redundancy for materially binding stewardship*), class-scaled lane staffing and competency redundancy for materially binding stewardship. It covers roles with materially binding effect under **Chapter Ten**, section **5**, where `corpus_systems.md` **Chapter S2 — System Classification and Handling** or **Chapter S3 — Critical System Stewardship** scales the burden.
 
 Before applying role, role-holder, stewardship, operator, accountable-role, or lane terms in this subsection, apply **CJS-5.0** (*Role-definition preface and standing competency gate interface*) and the **Chapter Seven**, section **1.2** competency gate interface.
 
-For **constitutional lane** and functional-separation meaning, apply **CJS-5A.1** (*Constitutional lane and functional separation*) with **CI-2** (*Institutional design and separation of powers*).
+For **constitutional lane** and functional-separation meaning, apply **CJS-5A.1** (*Constitutional lane and functional separation*) with **CI-3** (*Institutional design and separation of powers*).
 
 For **Class A** and **Class B** systems, each institution that hosts a constitutional lane with materially binding duties must have:
 - at least **three sentients** assigned to the lane;
@@ -248,7 +248,7 @@ Role-boundary design must balance sustained engagement with community redundancy
 
 Staffing must be real, not just numerical. Responsibility cannot be spread so thin that nobody is competent, and knowledge cannot be concentrated so tightly that the lane becomes fragile, captured, or unable to replace itself.
 
-The constitutional floor remains in `core_11-11_governance.md` **Chapter Eleven**, section **5**. Domain detail remains in **CI-2** (*Institutional design and separation of powers*), **CI-4** (*Appointment, competency, rotation, and removal*), **CI-11** (*Resource stewardship and incentive integrity*), **CI-12** (*Transparency, participation, and accessible pathways*), and `corpus_systems.md` **Chapter S2 — System Classification and Handling** and **Chapter S3 — Critical System Stewardship**.
+The constitutional floor remains in `core_11-11_governance.md` **Chapter Eleven**, section **5**. Domain detail remains in **CI-3** (*Institutional design and separation of powers*), **CI-4** (*Appointment, competency, rotation, and removal*), **CI-11** (*Resource stewardship and incentive integrity*), **CI-12** (*Transparency, participation, and accessible pathways*), and `corpus_systems.md` **Chapter S2 — System Classification and Handling** and **Chapter S3 — Critical System Stewardship**.
 
 ### CJS-4.7 Shared procedural abstractions for delegated bodies and forum routing
 <details>
@@ -277,9 +277,9 @@ The constitutional floor remains in `core_11-11_governance.md` **Chapter Eleven*
 
 
 **Router read:** Mandatory read-with for **CJS-R01** (*Delegated binding bodies and hybrid composition (non-forum institutions)*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CI-9.3**.
-**Router read:** Mandatory read-with for **CJS-R02** (*Forum chambers, divisions, and designated panels (Chapter Nine families)*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CF-2**.
-**Router read:** Mandatory read-with for **CJS-R03** (*Lawful panel formation, disclosure, recusal, substitution, inability-to…*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CF-3**.
-**Router read:** Mandatory read-with for **CJS-R04** (*Routing, intake, transfer, certification, representative treatment*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CF-4**.
+**Router read:** Mandatory read-with for **CJS-R02** (*Forum chambers, divisions, and designated panels (Chapter Nine families)*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CF-3**.
+**Router read:** Mandatory read-with for **CJS-R03** (*Lawful panel formation, disclosure, recusal, substitution, inability-to…*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CF-4**.
+**Router read:** Mandatory read-with for **CJS-R04** (*Routing, intake, transfer, certification, representative treatment*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CF-5**.
 
 This subsection gives shared CJS terms for four procedural router topics: **CJS-R01** (*Delegated binding bodies and hybrid composition (non-forum institutions)*) delegated binding bodies, **CJS-R02** (*Forum chambers, divisions, and designated panels (Chapter Nine families)*) forum chambers and panels, **CJS-R03** (*Lawful panel formation, disclosure, recusal, substitution, inability-to-form*) lawful panel formation and recusal, and **CJS-R04** (*Routing, intake, transfer, certification, representative treatment*) routing, intake, transfer, certification, and representative treatment. Apply the operational evaluation terms in **CJS-5A.6** (*Implementation and cross-implementation procedural integrity and adjudication terms*). This subsection does not replace **CI** or **CF** detail.
 
@@ -292,13 +292,13 @@ Before applying these procedural role terms, apply the role-definition preface i
 
 For **CI-9.3** (*Delegated subunits, institutional design class, and attachment discipline*), a **delegated subunit** is the institutional application of **Delegated binding body**: a standing or recurring internal body, including a division, chamber, committee, designated panel, or regional or functional office with decision rights, that exercises materially binding delegated authority for the parent institution and is not the institution's sole governing plenary.
 
-Forum-specific detail, including forum families, routing, appeals, and specialist chamber doctrine, remains in `corpus_forum.md` **CF-2** (*Forum formation, tribunal mapping, and chamber structure*) and related **CF** sections. Where **CF-2.6** (*Chamber authority composition and service mechanics*) states forum-specific delegated-authority duties or illustrations, **CF** text governs for **Chapter Nine** forums. Where **CI** and **CF** obligations overlap, the stricter clearly adopted rule governs under **CJS-3.6** (*Implementation-label traceability and stricter-wins discipline*).
+Forum-specific detail, including forum families, routing, appeals, and specialist chamber doctrine, remains in `corpus_forum.md` **CF-3** (*Forum formation, forum-structure mapping, and chamber structure*) and related **CF** sections. Where **CF-3.6** (*Chamber authority composition and service mechanics*) states forum-specific delegated-authority duties or illustrations, **CF** text governs for **Chapter Nine** forums. Where **CI** and **CF** obligations overlap, the stricter clearly adopted rule governs under **CJS-3.6** (*Implementation-label traceability and stricter-wins discipline*).
 
 It is non-compliant to treat a body or route as valid if the records do not make lawful authority, independence safeguards, backup routes, and contest routes auditable where they materially apply.
 
 It is also non-compliant to use common-question procedures to suppress material sentient-specific contest rights required by owner rules.
 
-Owner detail remains in `corpus_institutions.md` including **CI-6** (*Procedure integrity, contestability, and secondary review*), **CI-8** (*Cross-institution coordination and escalation*), **CI-9.3** (*Delegated subunits, institutional design class, and attachment discipline*), and `corpus_forum.md` including **CF-3** (*Panel formation, disclosure, recusal, and lawful bench constitution*), **CF-4** (*Routing operations, transfer, certification, and representative treatment*), and **CF-5** (*Appeal, secondary review, and exhaustion pathways*).
+Owner detail remains in `corpus_institutions.md` including **CI-6** (*Procedure integrity, contestability, and secondary review*), **CI-8** (*Cross-institution coordination and escalation*), **CI-9.3** (*Delegated subunits, institutional design class, and attachment discipline*), and `corpus_forum.md` including **CF-4** (*Panel formation, disclosure, recusal, and lawful bench constitution*), **CF-5** (*Routing operations, transfer, certification, and representative treatment*), and **CF-6** (*Appeal, secondary review, and exhaustion pathways*).
 
 ---
 

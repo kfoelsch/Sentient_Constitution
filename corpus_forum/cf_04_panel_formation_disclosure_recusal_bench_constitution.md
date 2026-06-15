@@ -1,10 +1,10 @@
-## CF-3: Panel formation, disclosure, recusal, and lawful bench constitution
+## CF-4: Panel formation, disclosure, recusal, and lawful bench constitution
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Nine](../core_09-09_forum.md#chapter-nine-forums-and-jurisdiction) forum-family routing; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
-- Downstream: [CF-3.1 Lawful panel definitions](#cf-31-lawful-panel-definitions); [CF-3.2 Minimum lawful-panel requirements](#cf-32-minimum-lawful-panel-requirements); [CF-3.3 Publication and pre-assignment transparency](#cf-33-publication-and-pre-assignment-transparency); [CF-3.4 Mandatory disclosures before merits participation](#cf-34-mandatory-disclosures-before-merits-participation); [CF-3.5 Recusal triggers](#cf-35-recusal-triggers).
-- Read with: **CF-3**; **CF-3.1**; **CF-3.2**; **CF-3.3**; **CF-3.4**; **CF-3.5**; [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract.
+- Downstream: [CF-4.1 Lawful panel definitions](#cf-41-lawful-panel-definitions); [CF-4.2 Minimum lawful-panel requirements](#cf-42-minimum-lawful-panel-requirements); [CF-4.3 Publication and pre-assignment transparency](#cf-43-publication-and-pre-assignment-transparency); [CF-4.4 Mandatory disclosures before merits participation](#cf-44-mandatory-disclosures-before-merits-participation); [CF-4.5 Recusal triggers](#cf-45-recusal-triggers).
+- Read with: **CF-4**; **CF-4.1**; **CF-4.2**; **CF-4.3**; **CF-4.4**; **CF-4.5**; [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract.
 
 </details>
 
@@ -24,7 +24,7 @@
 <br>
 
 
-**Router read:** Mandatory read-with for **CJS-R11A** (*Fallback operation*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CF-12**.
+**Router read:** Mandatory read-with for **CJS-R11A** (*Fallback operation*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CF-13**.
 **Router read:** Mandatory read-with for **CJS-R15** (*Contest-integrity monitoring (pathway integrity, not merits)*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CI-7.3**.
 **Router read:** Primary owner for **CJS-R03** (*Lawful panel formation, disclosure, recusal, substitution, inability-to…*) in **CJS-2.1** (*Topic router (stable IDs)*). Mandatory read-with: **CJS-4.7**, **CJS-5A.6**, **CI-4**, **CI-5**.
 
@@ -37,13 +37,13 @@ This section governs:
 
 This section does not alter primary-stakes routing, constitutional family boundaries, or merits standards.
 
-### CF-3.1 Lawful panel definitions
+### CF-4.1 Lawful panel definitions
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Nine](../core_09-09_forum.md#chapter-nine-forums-and-jurisdiction) forum-family routing; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
-- Downstream: this section's local operational requirements for **CF-3.1 Lawful panel definitions**.
-- Read with: **CF-3.1**; **CJS-4.7**.
+- Downstream: this section's local operational requirements for **CF-4.1 Lawful panel definitions**.
+- Read with: **CF-4.1**; **CJS-4.7**.
 
 </details>
 
@@ -72,13 +72,13 @@ For this section:
 
 For cross-implementation interoperability, read these local definitions with `corpus_joint_structure.md` **CJS-4.7** (Tier 1 abstractions for delegated bodies, lawful independent forums, backup activation, and representative treatment).
 
-### CF-3.2 Minimum lawful-panel requirements
+### CF-4.2 Minimum lawful-panel requirements
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Nine](../core_09-09_forum.md#chapter-nine-forums-and-jurisdiction) forum-family routing; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
-- Downstream: this section's local operational requirements for **CF-3.2 Minimum lawful-panel requirements**.
-- Read with: **CF-3.2**.
+- Downstream: this section's local operational requirements for **CF-4.2 Minimum lawful-panel requirements**.
+- Read with: **CF-4.2**.
 
 </details>
 
@@ -106,13 +106,13 @@ Every forum family must maintain a published panel-formation rule set that state
 
 No forum may treat a panel as lawful merely because it reaches the required number of members. Each seat must satisfy applicable competence requirements, independence rules, and conflict-screening obligations before the panel is lawfully constituted.
 
-### CF-3.3 Publication and pre-assignment transparency
+### CF-4.3 Publication and pre-assignment transparency
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Nine](../core_09-09_forum.md#chapter-nine-forums-and-jurisdiction) forum-family routing; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
-- Downstream: this section's local operational requirements for **CF-3.3 Publication and pre-assignment transparency**.
-- Read with: **CF-3.3**.
+- Downstream: this section's local operational requirements for **CF-4.3 Publication and pre-assignment transparency**.
+- Read with: **CF-4.3**.
 
 </details>
 
@@ -143,13 +143,13 @@ Where public pre-disclosure of a proposed panel would foreseeably create a mater
 - disclosure occurs as soon as the immediate risk materially subsides,
 - affected parties retain a practical opportunity to raise recusal or panel-formation objections.
 
-### CF-3.4 Mandatory disclosures before merits participation
+### CF-4.4 Mandatory disclosures before merits participation
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Nine](../core_09-09_forum.md#chapter-nine-forums-and-jurisdiction) forum-family routing; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
-- Downstream: this section's local operational requirements for **CF-3.4 Mandatory disclosures before merits participation**; [Chapter Six §2.2](../core_06-06_standing_assessment.md#22-standing-record-operational-requirements) (*standing-record contents*); [Chapter Six §4.3](../core_06-06_standing_assessment.md#4-axis-ii-violation-nature-legal-constitutional-type) (*Violation Axis severity*); [Chapter Seven §4](../core_07-07_standing_integration.md#8-cross-axis-coupling-and-escalation-constraints) (*standing integration and locks*).
-- Read with: **CF-3.4**; [Chapter Eight §2](../core_08-08_misconduct.md#2-criteria-set-for-slot-assignment) where dishonest disclosure omission materially affects constitutional custody, verification, challenge rights, Rights-Floor governance, or operative remedies.
+- Downstream: this section's local operational requirements for **CF-4.4 Mandatory disclosures before merits participation**; [Chapter Six §2.2](../core_06-06_standing_assessment.md#22-standing-record-operational-requirements) (*standing-record contents*); [Chapter Six §4.3](../core_06-06_standing_assessment.md#4-axis-ii-violation-nature-legal-constitutional-type) (*Violation Axis severity*); [Chapter Seven §4](../core_07-07_standing_integration.md#8-cross-axis-coupling-and-escalation-constraints) (*standing integration and locks*).
+- Read with: **CF-4.4**; [Chapter Eight §2](../core_08-08_misconduct.md#2-criteria-set-for-slot-assignment) where dishonest disclosure omission materially affects constitutional custody, verification, challenge rights, Rights-Floor governance, or operative remedies.
 
 </details>
 
@@ -183,13 +183,13 @@ Where a competent forum or adopting process verifies such an omission, the findi
 
 The disclosure record must be preserved even if the member ultimately serves.
 
-### CF-3.5 Recusal triggers
+### CF-4.5 Recusal triggers
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Nine](../core_09-09_forum.md#chapter-nine-forums-and-jurisdiction) forum-family routing; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
-- Downstream: this section's local operational requirements for **CF-3.5 Recusal triggers**; [Chapter Six §2.2](../core_06-06_standing_assessment.md#22-standing-record-operational-requirements) (*standing-record contents*); [Chapter Six §4.3](../core_06-06_standing_assessment.md#4-axis-ii-violation-nature-legal-constitutional-type) (*Violation Axis severity*); [Chapter Seven §4](../core_07-07_standing_integration.md#8-cross-axis-coupling-and-escalation-constraints) (*standing integration and locks*).
-- Read with: **CF-3.5**; [Chapter Eight §2](../core_08-08_misconduct.md#2-criteria-set-for-slot-assignment) where intentional recusal-process failure materially affects constitutional custody, verification, challenge rights, Rights-Floor governance, or operative remedies.
+- Downstream: this section's local operational requirements for **CF-4.5 Recusal triggers**; [Chapter Six §2.2](../core_06-06_standing_assessment.md#22-standing-record-operational-requirements) (*standing-record contents*); [Chapter Six §4.3](../core_06-06_standing_assessment.md#4-axis-ii-violation-nature-legal-constitutional-type) (*Violation Axis severity*); [Chapter Seven §4](../core_07-07_standing_integration.md#8-cross-axis-coupling-and-escalation-constraints) (*standing integration and locks*).
+- Read with: **CF-4.5**; [Chapter Eight §2](../core_08-08_misconduct.md#2-criteria-set-for-slot-assignment) where intentional recusal-process failure materially affects constitutional custody, verification, challenge rights, Rights-Floor governance, or operative remedies.
 
 </details>
 
@@ -220,13 +220,13 @@ A knowing or intentional failure to follow a required recusal process is anti-co
 
 Where a competent forum or adopting process verifies intentional recusal-process failure, the finding must be carried into any Chapter Six standing record and Chapter Seven standing-lock analysis as a forum-integrity violation input. It may support aggravated, safeguard-process, or Chapter Eight anti-constitutional misconduct routing where the verified facts satisfy those standards, but allegation, suspicion, good-faith error, or late-discovered ambiguity alone does not alter standing before the verified-input gate is met.
 
-### CF-3.6 Recusal challenge workflow
+### CF-4.6 Recusal challenge workflow
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Nine](../core_09-09_forum.md#chapter-nine-forums-and-jurisdiction) forum-family routing; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
-- Downstream: this section's local operational requirements for **CF-3.6 Recusal challenge workflow**.
-- Read with: **CF-3.6**.
+- Downstream: this section's local operational requirements for **CF-4.6 Recusal challenge workflow**.
+- Read with: **CF-4.6**.
 
 </details>
 
@@ -261,13 +261,13 @@ The challenge workflow must include:
 
 Where urgency requires temporary action before the challenge is finally resolved, the record must state why delay would materially jeopardize rights, safety, evidence, or remedy.
 
-### CF-3.7 Strategic or abusive recusal
+### CF-4.7 Strategic or abusive recusal
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Nine](../core_09-09_forum.md#chapter-nine-forums-and-jurisdiction) forum-family routing; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
-- Downstream: this section's local operational requirements for **CF-3.7 Strategic or abusive recusal**.
-- Read with: **CF-3.7**.
+- Downstream: this section's local operational requirements for **CF-4.7 Strategic or abusive recusal**.
+- Read with: **CF-4.7**.
 
 </details>
 
@@ -295,13 +295,13 @@ Institutions must not use recusal as a covert tool for:
 
 Repeated or strategic recusal abuse remains non-compliant under `corpus_institutions.md` **CI-4** (*Appointment, competency, rotation, and removal*) and must trigger corrective or removal review. The forum system must require a separate record when recusal patterns suggest coordinated manipulation or systematic inability to form independent panels in a given class of dispute.
 
-### CF-3.8 Replacement and substitute selection
+### CF-4.8 Replacement and substitute selection
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Nine](../core_09-09_forum.md#chapter-nine-forums-and-jurisdiction) forum-family routing; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
-- Downstream: this section's local operational requirements for **CF-3.8 Replacement and substitute selection**.
-- Read with: **CF-3.8**.
+- Downstream: this section's local operational requirements for **CF-4.8 Replacement and substitute selection**.
+- Read with: **CF-4.8**.
 
 </details>
 
@@ -329,13 +329,13 @@ When a member is recused, unavailable, disqualified, or otherwise unable to serv
 
 If no substitute satisfies these requirements within the designated lead family, the forum must proceed to an inability-to-form review.
 
-### CF-3.9 Inability to form an independent panel
+### CF-4.9 Inability to form an independent panel
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Nine](../core_09-09_forum.md#chapter-nine-forums-and-jurisdiction) forum-family routing; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
-- Downstream: this section's local operational requirements for **CF-3.9 Inability to form an independent panel**.
-- Read with: **CF-3.9**.
+- Downstream: this section's local operational requirements for **CF-4.9 Inability to form an independent panel**.
+- Read with: **CF-4.9**.
 
 </details>
 
@@ -370,13 +370,13 @@ This finding may not be inferred silently. It requires an attributable written r
 - whether backup routing is mandatory under Chapter Eight;
 - who certified the record and when.
 
-### CF-3.10 Certifier for inability-to-form findings
+### CF-4.10 Certifier for inability-to-form findings
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Nine](../core_09-09_forum.md#chapter-nine-forums-and-jurisdiction) forum-family routing; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
-- Downstream: this section's local operational requirements for **CF-3.10 Certifier for inability-to-form findings**.
-- Read with: **CF-3.10**.
+- Downstream: this section's local operational requirements for **CF-4.10 Certifier for inability-to-form findings**.
+- Read with: **CF-4.10**.
 
 </details>
 
@@ -404,13 +404,13 @@ The certifier must:
 
 For cross-forum anti-self-judging cases, the certifier should, where feasible, include or be reviewed by contest-integrity or equivalent independent assurance capacity under `corpus_institutions.md` **CI-7.3** (*Contest-integrity monitoring (Class A and Class B)*) without displacing the merits forum assignment rules.
 
-### CF-3.11 Backup-forum activation
+### CF-4.11 Backup-forum activation
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Nine](../core_09-09_forum.md#chapter-nine-forums-and-jurisdiction) forum-family routing; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
-- Downstream: this section's local operational requirements for **CF-3.11 Backup-forum activation**.
-- Read with: **CF-3.11**.
+- Downstream: this section's local operational requirements for **CF-4.11 Backup-forum activation**.
+- Read with: **CF-4.11**.
 
 </details>
 
@@ -442,13 +442,13 @@ Backup activation must be:
 
 Backup activation does not authorize silent recharacterization of the case's primary stakes.
 
-### CF-3.12 Interim relief while panel independence is disputed
+### CF-4.12 Interim relief while panel independence is disputed
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Nine](../core_09-09_forum.md#chapter-nine-forums-and-jurisdiction) forum-family routing; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
-- Downstream: this section's local operational requirements for **CF-3.12 Interim relief while panel independence is disputed**.
-- Read with: **CF-3.12**.
+- Downstream: this section's local operational requirements for **CF-4.12 Interim relief while panel independence is disputed**.
+- Read with: **CF-4.12**.
 
 </details>
 
@@ -478,13 +478,13 @@ Any such interim authority must:
 - explain why ordinary panel formation could not be completed first;
 - remain subject to prompt review by a lawful and independent panel or backup forum.
 
-### CF-3.13 Required records for panel formation and recusal
+### CF-4.13 Required records for panel formation and recusal
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Nine](../core_09-09_forum.md#chapter-nine-forums-and-jurisdiction) forum-family routing; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
-- Downstream: this section's local operational requirements for **CF-3.13 Required records for panel formation and recusal**.
-- Read with: **CF-3.13**.
+- Downstream: this section's local operational requirements for **CF-4.13 Required records for panel formation and recusal**.
+- Read with: **CF-4.13**.
 
 </details>
 
@@ -520,6 +520,6 @@ These records must be retained in a way that supports:
 
 ---
 
-**Previous file:** [cf_02_forum_formation_tribunal_mapping_chamber_structure.md](cf_02_forum_formation_tribunal_mapping_chamber_structure.md)
+**Previous file:** [cf_03_forum_formation_tribunal_mapping_chamber_structure.md](cf_03_forum_formation_tribunal_mapping_chamber_structure.md)
 
-**Next file:** [cf_04_routing_operations_transfer_certification_representative_treatment.md](cf_04_routing_operations_transfer_certification_representative_treatment.md)
+**Next file:** [cf_05_routing_operations_transfer_certification_representative_treatment.md](cf_05_routing_operations_transfer_certification_representative_treatment.md)

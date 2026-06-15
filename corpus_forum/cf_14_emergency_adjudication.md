@@ -1,10 +1,10 @@
-## CF-13: Emergency adjudication
+## CF-14: Emergency adjudication
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Nine](../core_09-09_forum.md#chapter-nine-forums-and-jurisdiction) forum-family routing; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
-- Downstream: [CF-13.1 Emergency triage hierarchy](#cf-131-emergency-triage-hierarchy); [CF-13.2 Independent review during emergency mode](#cf-132-independent-review-during-emergency-mode); [CF-13.3 Restoration and reconciliation](#cf-133-restoration-and-reconciliation); [CF-13.4 Post-incident review](#cf-134-post-incident-review); [CF-13.5 Non-compliant emergency patterns](#cf-135-non-compliant-emergency-patterns).
-- Read with: **CF-13**; **CF-13.1**; **CF-13.2**; **CF-13.3**; **CF-13.4**; **CF-13.5**; [CJS-2.1](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router.
+- Downstream: [CF-14.1 Emergency triage hierarchy](#cf-141-emergency-triage-hierarchy); [CF-14.2 Independent review during emergency mode](#cf-142-independent-review-during-emergency-mode); [CF-14.3 Restoration and reconciliation](#cf-143-restoration-and-reconciliation); [CF-14.4 Post-incident review](#cf-144-post-incident-review); [CF-14.5 Non-compliant emergency patterns](#cf-145-non-compliant-emergency-patterns).
+- Read with: **CF-14**; **CF-14.1**; **CF-14.2**; **CF-14.3**; **CF-14.4**; **CF-14.5**; [CJS-2.1](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router.
 
 </details>
 
@@ -23,7 +23,7 @@
 <br>
 
 
-**Router read:** Primary owner for **CJS-R11B** (*Emergency adjudication*) in **CJS-2.1** (*Topic router (stable IDs)*). Mandatory read-with: **CF-10**.
+**Router read:** Primary owner for **CJS-R11B** (*Emergency adjudication*) in **CJS-2.1** (*Topic router (stable IDs)*). Mandatory read-with: **CF-11**.
 
 **Constitutional index (abridged)**
 - Topic-level routing and cited authorities remain in subsection text and cross-references.
@@ -31,17 +31,17 @@
 
 This chapter governs emergency adjudicative priority, review, restoration, post-incident findings, and prohibited emergency patterns when ordinary forum operation is degraded or fallback operation is active.
 
-Emergency adjudication must preserve access to urgent relief, rights-floor protection, evidence preservation, challenge rights, auditability, and a path back to ordinary independent adjudication.
+Emergency adjudication must preserve access to urgent relief, Rights Floor protection, evidence preservation, challenge rights, auditability, and a path back to ordinary independent adjudication.
 
-Where emergency adjudication materially depends on constitutional systems, this chapter must be read with `corpus_systems.md` **Protocol A**, subsection **G** (*Governance continuity, crisis communications, and exercises*), **CF-11** (*Forum continuity*), and **CF-12** (*Fallback operation*).
+Where emergency adjudication materially depends on constitutional systems, this chapter must be read with `corpus_systems.md` **Protocol A**, subsection **G** (*Governance continuity, crisis communications, and exercises*), **CF-12** (*Forum continuity*), and **CF-13** (*Fallback operation*).
 
-### CF-13.1 Emergency triage hierarchy
+### CF-14.1 Emergency triage hierarchy
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Nine](../core_09-09_forum.md#chapter-nine-forums-and-jurisdiction) forum-family routing; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
-- Downstream: this section's local operational requirements for **CF-13.1 Emergency triage hierarchy**.
-- Read with: **CF-13.1**.
+- Downstream: this section's local operational requirements for **CF-14.1 Emergency triage hierarchy**.
+- Read with: **CF-14.1**.
 
 </details>
 
@@ -69,13 +69,13 @@ Where capacity is insufficient for normal operations, forums must prioritize:
 
 The triage rule must be published in plain language accessible to everyday sentients.
 
-### CF-13.2 Independent review during emergency mode
+### CF-14.2 Independent review during emergency mode
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Nine](../core_09-09_forum.md#chapter-nine-forums-and-jurisdiction) forum-family routing; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
-- Downstream: this section's local operational requirements for **CF-13.2 Independent review during emergency mode**.
-- Read with: **CF-13.2**.
+- Downstream: this section's local operational requirements for **CF-14.2 Independent review during emergency mode**.
+- Read with: **CF-14.2**.
 
 </details>
 
@@ -104,13 +104,13 @@ That review must assess:
 
 Continuation beyond the published window requires reasoned reauthorization.
 
-### CF-13.3 Restoration and reconciliation
+### CF-14.3 Restoration and reconciliation
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Nine](../core_09-09_forum.md#chapter-nine-forums-and-jurisdiction) forum-family routing; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
-- Downstream: this section's local operational requirements for **CF-13.3 Restoration and reconciliation**.
-- Read with: **CF-13.3**.
+- Downstream: this section's local operational requirements for **CF-14.3 Restoration and reconciliation**.
+- Read with: **CF-14.3**.
 
 </details>
 
@@ -137,13 +137,13 @@ When the triggering condition subsides, the system must enter a restoration mode
 - remediation for continuity failures that materially harmed parties;
 - assessment of whether fallback actions exceeded lawful scope.
 
-### CF-13.4 Post-incident review
+### CF-14.4 Post-incident review
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Nine](../core_09-09_forum.md#chapter-nine-forums-and-jurisdiction) forum-family routing; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
-- Downstream: this section's local operational requirements for **CF-13.4 Post-incident review**.
-- Read with: **CF-13.4**.
+- Downstream: this section's local operational requirements for **CF-14.4 Post-incident review**.
+- Read with: **CF-14.4**.
 
 </details>
 
@@ -170,13 +170,13 @@ Every activation must produce the restoration and post-incident evidence require
 - what delays or review failures occurred;
 - what remediation and future-hardening steps are required.
 
-### CF-13.5 Non-compliant emergency patterns
+### CF-14.5 Non-compliant emergency patterns
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Nine](../core_09-09_forum.md#chapter-nine-forums-and-jurisdiction) forum-family routing; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
-- Downstream: this section's local operational requirements for **CF-13.5 Non-compliant emergency patterns**.
-- Read with: **CF-13.5**.
+- Downstream: this section's local operational requirements for **CF-14.5 Non-compliant emergency patterns**.
+- Read with: **CF-14.5**.
 
 </details>
 
@@ -206,6 +206,6 @@ The following are presumptively non-compliant unless clearly justified and cured
 
 ---
 
-**Previous file:** [cf_12_fallback_operation.md](cf_12_fallback_operation.md)
+**Previous file:** [cf_13_fallback_operation.md](cf_13_fallback_operation.md)
 
-**Next file:** [cf_14_standard_records_forms_evidence_artifacts.md](cf_14_standard_records_forms_evidence_artifacts.md)
+**Next file:** [cf_15_standard_records_forms_evidence_artifacts.md](cf_15_standard_records_forms_evidence_artifacts.md)

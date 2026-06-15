@@ -127,7 +127,7 @@ TERM_HINTS = {
 
 LABEL_HINTS = {
     "CI-1": ["Corpus", "Authority Stack and Internal Hierarchy", "Supremacy and Enforceability"],
-    "CI-2": ["Governance", "Authority Stack and Internal Hierarchy", "System Capture"],
+    "CI-3": ["Governance", "Authority Stack and Internal Hierarchy", "System Capture"],
     "CI-3": ["Authority Stack and Internal Hierarchy", "Governance", "Risk"],
     "CI-4": ["Governance", "Accountability", "Procedural Fairness"],
     "CI-5": ["System Capture", "Incentive Alignment", "Accountability"],

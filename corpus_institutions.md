@@ -6,14 +6,14 @@
 
 **Authority note:** the linked subfiles are binding incorporated implementation text where `corpus_institutions.md` is incorporated under Sentient Constitution Chapter Fifteen. The wrapper is an index and does not restate or narrow the subfile text.
 
-**Index numbering note:** stable IDs in this table follow authoritative **CI-*n*** labels. **CI-3** is reserved; there is no separate CI-3 subfile—the reading chain proceeds from **CI-2** to **CI-4**.
-
 ## Institutions Index
 
 | Stable family | Authoritative subfile |
 |---|---|
-| Opening title, status, scope, and CI-1: Scope, purpose, and legitimacy interface | [ci_01_scope_purpose_legitimacy_interface.md](corpus_institutions/ci_01_scope_purpose_legitimacy_interface.md) |
-| CI-2: Institutional design, separation of powers, and authority custody | [ci_02_institutional_design_separation_of_powers.md](corpus_institutions/ci_02_institutional_design_separation_of_powers.md) |
+| Opening title, status, scope, and registry | [ci_00_registry_and_reading_rules.md](corpus_institutions/ci_00_registry_and_reading_rules.md) |
+| CI-1: Scope, purpose, and legitimacy interface | [ci_01_scope_purpose_legitimacy_interface.md](corpus_institutions/ci_01_scope_purpose_legitimacy_interface.md) |
+| CI-2: Implementation integration map | [ci_02_implementation_integration_map.md](corpus_institutions/ci_02_implementation_integration_map.md) |
+| CI-3: Institutional design, separation of powers, and authority custody | [ci_03_institutional_design_separation_of_powers.md](corpus_institutions/ci_03_institutional_design_separation_of_powers.md) |
 | CI-4: Appointment, competency, rotation, and removal | [ci_04_appointment_competency_rotation_removal.md](corpus_institutions/ci_04_appointment_competency_rotation_removal.md) |
 | CI-5: Conflict integrity, anti-capture, and anti-corruption | [ci_05_conflict_integrity_anti_capture_anti_corruption.md](corpus_institutions/ci_05_conflict_integrity_anti_capture_anti_corruption.md) |
 | CI-6: Procedure integrity, contestability, and secondary review | [ci_06_procedure_integrity_contestability_secondary_review.md](corpus_institutions/ci_06_procedure_integrity_contestability_secondary_review.md) |
@@ -40,4 +40,4 @@
 
 ---
 
-**Next file:** [ci_01_scope_purpose_legitimacy_interface.md](corpus_institutions/ci_01_scope_purpose_legitimacy_interface.md)
+**Next file:** [ci_00_registry_and_reading_rules.md](corpus_institutions/ci_00_registry_and_reading_rules.md)

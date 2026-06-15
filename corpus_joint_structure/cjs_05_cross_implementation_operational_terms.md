@@ -112,7 +112,7 @@ Deposition facilitator or record-preserving testimony role
 - OP-C: A testimony-support role is non-compliant if it is used to disguise adjudicative authority, coerce participation, hide sponsorship or conflicts, exclude required participants, alter testimony, suppress objections, or present voluntary community testimony as compelled or forum-tested evidence.
 
 Constitutional lane
-- OP-O: A constitutional lane is a **CI-2** (*Institutional design, separation of powers, and authority custody*) functional separation with constitutionally binding duties, such as direction and policy, execution, challenge and review, assurance and audit, publication and evidence work, or forum-adjacent support.
+- OP-O: A constitutional lane is a **CI-3** (*Institutional design, separation of powers, and authority custody*) functional separation with constitutionally binding duties, such as direction and policy, execution, challenge and review, assurance and audit, publication and evidence work, or forum-adjacent support.
 - OP-E: Reviewers must verify the lane's owner-file source, host institution or forum relationship, accountable roles, independence safeguards, competency redundancy, succession coverage, and relationship to system class or stewardship burden.
 - OP-C: A lane is non-compliant if it is undefined, merged, understaffed, over-concentrated, or staffed in a way that defeats separation, auditability, challenge, succession, or binding accountability.
 

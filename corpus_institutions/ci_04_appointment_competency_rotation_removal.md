@@ -4,7 +4,7 @@
 
 - Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions; and [Chapter Ten](../core_10-10_rights_part_a.md#chapter-ten-foundational-rights) rights architecture where rights interfaces are invoked.
 - Downstream: this section's local operational requirements for **CI-4: Appointment, competency, rotation, and removal**.
-- Read with: **CI-4**; **CI-2**.
+- Read with: **CI-4**; **CI-3**.
 
 </details>
 
@@ -24,8 +24,8 @@
 <br>
 
 
-**Router read:** Mandatory read-with for **CJS-R03** (*Lawful panel formation, disclosure, recusal, substitution, inability-to…*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CF-3**.
-**Router read:** Mandatory read-with for **CJS-R13** (*Forum staffing, shared administration, structural review, structural re…*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CF-15**.
+**Router read:** Mandatory read-with for **CJS-R03** (*Lawful panel formation, disclosure, recusal, substitution, inability-to…*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CF-4**.
+**Router read:** Mandatory read-with for **CJS-R13** (*Forum staffing, shared administration, structural review, structural re…*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CF-16**.
 **Router read:** Primary owner for **CJS-R18** (*Class-scaled lane staffing and competency redundancy for materially bin…*) in **CJS-2.1** (*Topic router (stable IDs)*). Mandatory read-with: **CJS-4.6**, **CJS-5A.1**.
 
 Apply `corpus_joint_structure.md` **CJS-4.6** (*Class-scaled lane staffing and competency redundancy*) for the shared role-boundary, competency-redundancy, succession, and lane-staffing floor.
@@ -41,10 +41,10 @@ Interpretive-body composition controls (**Article XXII** — constitutional inte
 - Members remain subject to challenge for non-disclosure, bias, capture risk, or dependency-linked influence.
 - Repeated or strategic recusal abuse is non-compliant and triggers corrective/removal review.
 
-Authorized-role and accountability-chain mechanics (**Chapter Ten**, section 5 — *Authorized Roles, Competency Development, and Contribution* / **Chapter Ten**, Article XI-D interface) remain institution-specific where they assign local scope, limits, decision rights, review rights, accountability owners, escalation routes, qualification/disqualification criteria, succession readiness, and capability-refresh duties. Shared class-scaling stays in **CJS-4.6** with **CI-2** (*Institutional design and separation of powers*) lane ownership and `corpus_systems.md` **Chapter S2 — System Classification and Handling** and **Chapter S3 — Critical System Stewardship** class-scaling hooks.
+Authorized-role and accountability-chain mechanics (**Chapter Ten**, section 5 — *Authorized Roles, Competency Development, and Contribution* / **Chapter Ten**, Article XI-D interface) remain institution-specific where they assign local scope, limits, decision rights, review rights, accountability owners, escalation routes, qualification/disqualification criteria, succession readiness, and capability-refresh duties. Shared class-scaling stays in **CJS-4.6** with **CI-3** (*Institutional design and separation of powers*) lane ownership and `corpus_systems.md` **Chapter S2 — System Classification and Handling** and **Chapter S3 — Critical System Stewardship** class-scaling hooks.
 
 ---
 
-**Previous file:** [ci_02_institutional_design_separation_of_powers.md](ci_02_institutional_design_separation_of_powers.md)
+**Previous file:** [ci_03_institutional_design_separation_of_powers.md](ci_03_institutional_design_separation_of_powers.md)
 
 **Next file:** [ci_05_conflict_integrity_anti_capture_anti_corruption.md](ci_05_conflict_integrity_anti_capture_anti_corruption.md)

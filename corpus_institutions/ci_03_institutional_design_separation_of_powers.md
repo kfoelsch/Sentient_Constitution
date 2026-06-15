@@ -1,10 +1,10 @@
-## CI-2: Institutional design, separation of powers, and authority custody
+## CI-3: Institutional design, separation of powers, and authority custody
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions; and [Chapter Ten](../core_10-10_rights_part_a.md#chapter-ten-foundational-rights) rights architecture where rights interfaces are invoked.
-- Downstream: [CI-2.1: Non-delegable governing duties](#ci-21-non-delegable-governing-duties); [CI-2.2: Functional separation lanes](#ci-22-functional-separation-lanes).
-- Read with: **CI-2**; **CI-2.1**; **CI-2.2**; [CJS-2.1](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; **CJS-5A.1**; **CJS-5C.1**.
+- Downstream: [CI-3.1: Non-delegable governing duties](#ci-21-non-delegable-governing-duties); [CI-3.2: Functional separation lanes](#ci-22-functional-separation-lanes).
+- Read with: **CI-3**; **CI-3.1**; **CI-3.2**; [CJS-2.1](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; **CJS-5A.1**; **CJS-5C.1**.
 
 </details>
 
@@ -28,13 +28,13 @@
 **Router read:** Primary owner for **CJS-R14** (*Institutional functional lanes and non-delegable splits*) in **CJS-2.1** (*Topic router (stable IDs)*). Mandatory read-with: **CJS-5A.1**.
 **Router read:** Primary owner for **CJS-R18** (*Class-scaled lane staffing and competency redundancy for materially bin…*) in **CJS-2.1** (*Topic router (stable IDs)*). Mandatory read-with: **CJS-4.6**, **CJS-5A.1**.
 
-### CI-2.1: Non-delegable governing duties
+### CI-3.1: Non-delegable governing duties
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions; and [Chapter Ten](../core_10-10_rights_part_a.md#chapter-ten-foundational-rights) rights architecture where rights interfaces are invoked.
-- Downstream: this section's local operational requirements for **CI-2.1: Non-delegable governing duties**.
-- Read with: **CI-2.1**.
+- Downstream: this section's local operational requirements for **CI-3.1: Non-delegable governing duties**.
+- Read with: **CI-3.1**.
 
 </details>
 
@@ -59,13 +59,13 @@ The following are non-delegable by the governing authority:
 - dissolution decisions.
 Additional non-delegable duties must be listed.
 
-### CI-2.2: Functional separation lanes
+### CI-3.2: Functional separation lanes
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions; and [Chapter Ten](../core_10-10_rights_part_a.md#chapter-ten-foundational-rights) rights architecture where rights interfaces are invoked.
-- Downstream: this section's local operational requirements for **CI-2.2: Functional separation lanes**.
-- Read with: **CI-2.2**.
+- Downstream: this section's local operational requirements for **CI-3.2: Functional separation lanes**.
+- Read with: **CI-3.2**.
 
 </details>
 
@@ -88,13 +88,13 @@ Apply `corpus_joint_structure.md` **CJS-5A.1** (*Implementation and cross-implem
 
 This subsection states institutional owner duties: each institution must publish which local office, body, role, or process hosts each required lane; identify any merged hosting arrangement; document independence safeguards where one institution hosts more than one lane; and keep the lane map auditable, contestable, and current enough to prevent capture, unchecked concentration, and silent failure.
 
-### CI-2.3: Authority chain and delegation controls
+### CI-3.3: Authority chain and delegation controls
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions; and [Chapter Ten](../core_10-10_rights_part_a.md#chapter-ten-foundational-rights) rights architecture where rights interfaces are invoked.
-- Downstream: this section's local operational requirements for **CI-2.3: Authority chain and delegation controls**.
-- Read with: **CI-2.3**.
+- Downstream: this section's local operational requirements for **CI-3.3: Authority chain and delegation controls**.
+- Read with: **CI-3.3**.
 
 </details>
 
@@ -120,13 +120,13 @@ Delegations must state:
 - revocation trigger,
 - accountable reviewer.
 
-### CI-2.4: Emergency delegation
+### CI-3.4: Emergency delegation
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions; and [Chapter Ten](../core_10-10_rights_part_a.md#chapter-ten-foundational-rights) rights architecture where rights interfaces are invoked.
-- Downstream: this section's local operational requirements for **CI-2.4: Emergency delegation**.
-- Read with: **CI-2.4**.
+- Downstream: this section's local operational requirements for **CI-3.4: Emergency delegation**.
+- Read with: **CI-3.4**.
 
 </details>
 
@@ -147,13 +147,13 @@ Delegations must state:
 
 Emergency delegation is permitted only for necessity and proportionality reasons and must include rapid post-event review.
 
-### CI-2.5: Risk profile requirement
+### CI-3.5: Risk profile requirement
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions; and [Chapter Ten](../core_10-10_rights_part_a.md#chapter-ten-foundational-rights) rights architecture where rights interfaces are invoked.
-- Downstream: this section's local operational requirements for **CI-2.5: Risk profile requirement**.
-- Read with: **CI-2.5**.
+- Downstream: this section's local operational requirements for **CI-3.5: Risk profile requirement**.
+- Read with: **CI-3.5**.
 
 </details>
 
@@ -175,6 +175,6 @@ Each institution must maintain a plain-language risk appetite and tolerance stat
 
 ---
 
-**Previous file:** [ci_01_scope_purpose_legitimacy_interface.md](ci_01_scope_purpose_legitimacy_interface.md)
+**Previous file:** [ci_02_implementation_integration_map.md](ci_02_implementation_integration_map.md)
 
 **Next file:** [ci_04_appointment_competency_rotation_removal.md](ci_04_appointment_competency_rotation_removal.md)

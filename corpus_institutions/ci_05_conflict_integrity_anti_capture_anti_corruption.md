@@ -24,9 +24,9 @@
 <br>
 
 
-**Router read:** Mandatory read-with for **CJS-R03** (*Lawful panel formation, disclosure, recusal, substitution, inability-to…*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CF-3**.
-**Router read:** Mandatory read-with for **CJS-R06** (*Forum integrity operations, anti-capture, anti-self-judging support*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CF-6**.
-**Router read:** Mandatory read-with for **CJS-R13** (*Forum staffing, shared administration, structural review, structural re…*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CF-15**.
+**Router read:** Mandatory read-with for **CJS-R03** (*Lawful panel formation, disclosure, recusal, substitution, inability-to…*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CF-4**.
+**Router read:** Mandatory read-with for **CJS-R06** (*Forum integrity operations, anti-capture, anti-self-judging support*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CF-7**.
+**Router read:** Mandatory read-with for **CJS-R13** (*Forum staffing, shared administration, structural review, structural re…*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CF-16**.
 
 Apply `corpus_joint_structure.md` **CJS-5B.1** **Shared anti-capture control stack** and **Sortition and civic-lottery integrity controls** for the shared floors. **CI-5** states only institutional control-map ownership, disclosure and cure files, grave-breach forfeiture records, contingent-claim supervision, and escalation duties under **CI-7.2** or **CI-8** where local independence is not credible.
 
@@ -38,7 +38,7 @@ Name the disclosure-category publication owner, cure-window file, and sanctions 
 
 - Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions; and [Chapter Ten](../core_10-10_rights_part_a.md#chapter-ten-foundational-rights) rights architecture where rights interfaces are invoked.
 - Downstream: this section's local operational requirements for **CI-5.1: Integrity trigger taxonomy and cross-layer routing (control package)**.
-- Read with: **CI-5.1**; **CI-5**; **CI-7**; **CI-8**; **CI-2**; **CI-6**.
+- Read with: **CI-5.1**; **CI-5**; **CI-7**; **CI-8**; **CI-3**; **CI-6**.
 
 </details>
 
@@ -60,7 +60,7 @@ Name the disclosure-category publication owner, cure-window file, and sanctions 
 
 This subsection names institutional trigger labels for **CI-5** control maps and training. Apply **CJS-5B.1** **Integrity-trigger routing chain** for shared cross-layer traceability.
 
-**Trigger categories:** corruption; fraud; self-dealing; procurement capture; assurance capture; reporting suppression; conflict concealment. Institutional labels map to **CI-5**, **CI-7**, **CI-8**, **CI-2**, **CI-6**, applicable **CF** sections, **CI-11**, and **CI-13** for local intake, assurance, escalation, procedure, forum support, and sanctions duties. Contribution, violation, standing, and Violation Axis classification remain under **Chapter Six** and **Chapter Eight**.
+**Trigger categories:** corruption; fraud; self-dealing; procurement capture; assurance capture; reporting suppression; conflict concealment. Institutional labels map to **CI-5**, **CI-7**, **CI-8**, **CI-3**, **CI-6**, applicable **CF** sections, **CI-11**, and **CI-13** for local intake, assurance, escalation, procedure, forum support, and sanctions duties. Contribution, violation, standing, and Violation Axis classification remain under **Chapter Six** and **Chapter Eight**.
 
 ---
 

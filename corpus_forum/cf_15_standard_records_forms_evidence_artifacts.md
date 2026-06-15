@@ -1,10 +1,10 @@
-## CF-14: Standard records, forms, and evidence artifacts
+## CF-15: Standard records, forms, and evidence artifacts
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Nine](../core_09-09_forum.md#chapter-nine-forums-and-jurisdiction) forum-family routing; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
-- Downstream: [CF-14.1 Minimum record set](#cf-141-minimum-record-set); [CF-14.2 Required fields](#cf-142-required-fields).
-- Read with: **CF-14**; **CF-3**; **CF-11**; **CF-12**; **CF-13**; **CF-14.1**; **CF-5**; **CF-5.1**; **CF-7**.
+- Downstream: [CF-15.1 Minimum record set](#cf-151-minimum-record-set); [CF-15.2 Required fields](#cf-152-required-fields).
+- Read with: **CF-15**; **CF-4**; **CF-12**; **CF-13**; **CF-14**; **CF-15.1**; **CF-6**; **CF-6.1**; **CF-8**.
 
 </details>
 
@@ -30,15 +30,15 @@
 - Topic-level routing and cited authorities remain in subsection text and cross-references.
 - Canonical owner map: `corpus_joint_structure.md` **CJS-2.1** (*Topic router (stable IDs)*) and `doc_architecture.md` section 4.
 
-This section is the forum-operational home for standard forum records, forms, and evidence artifacts. It consolidates the record duties created in **CF-3** (*Panel formation, disclosure, recusal, and lawful bench constitution*) through **CF-11** (*Forum continuity*), **CF-12** (*Fallback operation*), and **CF-13** (*Emergency adjudication*) and supplies a common minimum set for adopting entities. It does not create a second traceability or verification standard; traceability and verification discipline remain governed by `core_02-04_definition_mechanics.md` **Chapters Two through Four**, **Article XV-A**, and `corpus_joint_structure.md` **CJS-R12** (*Standard forum records, forms, and evidence artifacts*). Where forum record systems, forms, or evidence artifacts are maintained by **Class A**, **Class B**, or **Class C** systems, or materially affect those systems' portability, audit, continuity, migration, or cross-implementation operation, structured-record formats and exchange protocols must also satisfy `corpus_joint_structure.md` **CJS-5D.2** (*Implementation and cross-implementation interoperability, portability, and exit-integrity terms*).
+This section is the forum-operational home for standard forum records, forms, and evidence artifacts. It consolidates the record duties created in **CF-4** (*Panel formation, disclosure, recusal, and lawful bench constitution*) through **CF-12** (*Forum continuity*), **CF-13** (*Fallback operation*), and **CF-14** (*Emergency adjudication*) and supplies a common minimum set for adopting entities. It does not create a second traceability or verification standard; traceability and verification discipline remain governed by `core_02-04_definition_mechanics.md` **Chapters Two through Four**, **Article XV-A**, and `corpus_joint_structure.md` **CJS-R12** (*Standard forum records, forms, and evidence artifacts*). Where forum record systems, forms, or evidence artifacts are maintained by **Class A**, **Class B**, or **Class C** systems, or materially affect those systems' portability, audit, continuity, migration, or cross-implementation operation, structured-record formats and exchange protocols must also satisfy `corpus_joint_structure.md` **CJS-5D.2** (*Implementation and cross-implementation interoperability, portability, and exit-integrity terms*).
 
-### CF-14.1 Minimum record set
+### CF-15.1 Minimum record set
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Nine](../core_09-09_forum.md#chapter-nine-forums-and-jurisdiction) forum-family routing; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
-- Downstream: this section's local operational requirements for **CF-14.1 Minimum record set**.
-- Read with: **CF-14.1**; **CF-5**; **CF-5.1**; **CF-7**; **CF-8**; **CF-9**; **CF-10**.
+- Downstream: this section's local operational requirements for **CF-15.1 Minimum record set**.
+- Read with: **CF-15.1**; **CF-6**; **CF-6.1**; **CF-8**; **CF-9**; **CF-10**; **CF-11**.
 
 </details>
 
@@ -68,13 +68,13 @@ Each adopting entity must maintain standard templates or equivalent structured r
 - backup-forum activation order;
 - transfer or certification order;
 - interim-relief order;
-- rights-collision record under **CF-5** (*Appeal, secondary review, and exhaustion pathways*);
-- disposition-effect category and class-label record under **CF-5.1** (*Disposition-effect categories and record labels*);
-- forensic or analytical support scope order under **CF-7** (*Forum forensic and analytical support*);
+- rights-collision record under **CF-6** (*Appeal, secondary review, and exhaustion pathways*);
+- disposition-effect category and class-label record under **CF-6.1** (*Disposition-effect categories and record labels*);
+- forensic or analytical support scope order under **CF-8** (*Forum forensic and analytical support*);
 - restricted-evidence review order;
-- investigative scope, referral, or closure record under **CF-8** (*Independent investigative service and prosecution interface*) where the forum interface is used;
-- technical-standard departure, variance, or recognition record under **CF-9** (*Technical specialist forums and specialist chambers*);
-- backlog-threshold remediation record under **CF-10** (*Forum performance, backlog requirements, publication timeliness, and accessibility*);
+- investigative scope, referral, or closure record under **CF-9** (*Independent investigative service and prosecution interface*) where the forum interface is used;
+- technical-standard departure, variance, or recognition record under **CF-10** (*Technical specialist forums and specialist chambers*);
+- backlog-threshold remediation record under **CF-11** (*Forum performance, backlog requirements, publication timeliness, and accessibility*);
 - publication-delay log entry;
 - continuity activation record;
 - restoration and reconciliation record;
@@ -82,13 +82,13 @@ Each adopting entity must maintain standard templates or equivalent structured r
 
 Adopting systems may combine compatible forms, but must not merge records in a way that hides who acted, what authority was used, what facts or constraints mattered, what review path remains, or which forum family is responsible.
 
-### CF-14.2 Required fields
+### CF-15.2 Required fields
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Nine](../core_09-09_forum.md#chapter-nine-forums-and-jurisdiction) forum-family routing; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
-- Downstream: this section's local operational requirements for **CF-14.2 Required fields**.
-- Read with: **CF-14.2**.
+- Downstream: this section's local operational requirements for **CF-15.2 Required fields**.
+- Read with: **CF-15.2**.
 
 </details>
 
@@ -119,13 +119,13 @@ Each standard record must include, proportionate to the action:
 - challenge, appeal, certification, or review path still available;
 - retention class and audit-access handling.
 
-### CF-14.3 Access classes
+### CF-15.3 Access classes
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Nine](../core_09-09_forum.md#chapter-nine-forums-and-jurisdiction) forum-family routing; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
-- Downstream: this section's local operational requirements for **CF-14.3 Access classes**.
-- Read with: **CF-14.3**.
+- Downstream: this section's local operational requirements for **CF-15.3 Access classes**.
+- Read with: **CF-15.3**.
 
 </details>
 
@@ -154,13 +154,13 @@ Records must be tagged, at minimum, for the following access classes:
 
 Access tagging must support meaningful review without converting lawful restriction into concealment. If a record is withheld or summarized, the forum must preserve enough attributable detail for later lawful reconstruction.
 
-### CF-14.4 Evidence artifact handling
+### CF-15.4 Evidence artifact handling
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Nine](../core_09-09_forum.md#chapter-nine-forums-and-jurisdiction) forum-family routing; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
-- Downstream: this section's local operational requirements for **CF-14.4 Evidence artifact handling**.
-- Read with: **CF-14.4**.
+- Downstream: this section's local operational requirements for **CF-15.4 Evidence artifact handling**.
+- Read with: **CF-15.4**.
 
 </details>
 
@@ -183,13 +183,13 @@ Forum evidence artifacts must preserve chain of custody, source, method, transfo
 
 Where an artifact is transformed, summarized, redacted, compressed, or represented through a derived exhibit, the record must preserve enough information to test reliability, contest material assumptions, and reconstruct the original evidentiary path where lawful.
 
-### CF-14.5 Publication, retention, and reconciliation
+### CF-15.5 Publication, retention, and reconciliation
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Nine](../core_09-09_forum.md#chapter-nine-forums-and-jurisdiction) forum-family routing; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
-- Downstream: this section's local operational requirements for **CF-14.5 Publication, retention, and reconciliation**.
-- Read with: **CF-14.5**; **CF-10**; **CF-11**; **CF-12**; **CF-13**.
+- Downstream: this section's local operational requirements for **CF-15.5 Publication, retention, and reconciliation**.
+- Read with: **CF-15.5**; **CF-11**; **CF-12**; **CF-13**; **CF-14**.
 
 </details>
 
@@ -208,19 +208,19 @@ Where an artifact is transformed, summarized, redacted, compressed, or represent
 
 <br>
 
-Publication and retention rules must be written in advance and aligned with **CF-10** (*Forum performance, backlog requirements, publication timeliness, and accessibility*) publication timeliness, **CF-11** (*Forum continuity*) continuity, **CF-12** (*Fallback operation*) fallback, **CF-13** (*Emergency adjudication*) emergency-review, and applicable systems-data handling rules. Delayed-publication records must state the restriction basis and the next review or release condition.
+Publication and retention rules must be written in advance and aligned with **CF-11** (*Forum performance, backlog requirements, publication timeliness, and accessibility*) publication timeliness, **CF-12** (*Forum continuity*) continuity, **CF-13** (*Fallback operation*) fallback, **CF-14** (*Emergency adjudication*) emergency-review, and applicable systems-data handling rules. Delayed-publication records must state the restriction basis and the next review or release condition.
 
 During degraded or emergency operation, temporary paper, offline, or local records may be used only if they preserve docket identity, timestamps, responsible roles, and later reconciliation. Reconciled records must identify any gap, conflict, loss, or reconstruction uncertainty.
 
 Forum archival and retrieval systems whose failure would materially impair record access, restoration, precedent or publication continuity, audit, challenge, or lawful reconstruction must be classified no lower than **Class B** under `corpus_systems.md` **Chapter S2**, unless the adopting entity documents a viable, tested, and timely substitute sufficient to preserve those functions. Vendor control, format lock-in, search degradation, migration failure, loss of indexing, or comparable technical dependency must not be used to avoid record-continuity, auditability, or contestability duties.
 
-### CF-14.6 Non-compliant record patterns
+### CF-15.6 Non-compliant record patterns
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Nine](../core_09-09_forum.md#chapter-nine-forums-and-jurisdiction) forum-family routing; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
-- Downstream: this section's local operational requirements for **CF-14.6 Non-compliant record patterns**.
-- Read with: **CF-14.6**.
+- Downstream: this section's local operational requirements for **CF-15.6 Non-compliant record patterns**.
+- Read with: **CF-15.6**.
 
 </details>
 
@@ -249,6 +249,6 @@ The following patterns are non-compliant:
 
 ---
 
-**Previous file:** [cf_13_emergency_adjudication.md](cf_13_emergency_adjudication.md)
+**Previous file:** [cf_14_emergency_adjudication.md](cf_14_emergency_adjudication.md)
 
-**Next file:** [cf_15_staffing_reserve_capacity_structural_records.md](cf_15_staffing_reserve_capacity_structural_records.md)
+**Next file:** [cf_16_staffing_reserve_capacity_structural_records.md](cf_16_staffing_reserve_capacity_structural_records.md)

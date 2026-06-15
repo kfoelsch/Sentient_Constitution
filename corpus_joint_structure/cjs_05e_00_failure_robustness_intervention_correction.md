@@ -162,7 +162,7 @@ Read it with:
 - **CJS-5E.5** (*Implementation and cross-implementation structural review, correction urgency, and disclosure terms*) and **CJS-5B.1** (*Implementation and cross-implementation integrity assurance and resilience operations*) — Evolution, Revalidation, and Non-Entrenchment
 - **CJS-5A.2 — Intervention governance and override authorization**
 - **Chapter One §6.4.1 — Rights-Collision Decision Test**
-- **`corpus_forum.md` CF-11 through CF-13 — Forum continuity, fallback operation, and emergency adjudication**
+- **`corpus_forum.md` CF-12 through CF-14 — Forum continuity, fallback operation, and emergency adjudication**
 - Constitutional hooks in **Articles IX, XII, and XIII**
 
 Implementation and cross-implementation intervention and override integrity terms
@@ -207,7 +207,7 @@ Intervention behavior priorities and safe-state handling
 
 Emergency technical-coupling discipline
 - OP-O: Emergency technical interventions must be minimal, proportionate, time-bounded, subject to mandatory forum review as soon as feasible where they materially affect rights or governance authority, and rolled back or restored where feasible.
-- OP-E: Evaluation must verify expiry behavior, review records, lawful governance coupling, and any CF-13 (*Emergency adjudication*) emergency-review or restoration pathway.
+- OP-E: Evaluation must verify expiry behavior, review records, lawful governance coupling, and any CF-14 (*Emergency adjudication*) emergency-review or restoration pathway.
 - OP-C: Emergency intervention that lacks a required forum-review path, or that becomes a standing default, is non-compliant.
 
 Proportional application

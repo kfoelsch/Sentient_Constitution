@@ -111,7 +111,7 @@ Roles that monitor, review pathway performance, provide forensic help, or suppor
 
 Institutions must publish what each role is allowed to do and what it is not allowed to decide. They must also state who the role reports to, how often it reports, and how it connects to assurance lanes. Oversight and support roles must not quietly take over the merits decision-making assigned to a forum family.
 
-See **CI-7.3** (*Contest-integrity monitoring (Class A and Class B)*), **CF-7** (*Forum forensic and analytical support*), **CF-8** (*Independent investigative service and prosecution interface*), and **CJS-5A.6** (*Implementation and cross-implementation procedural integrity and adjudication terms*).
+See **CI-7.3** (*Contest-integrity monitoring (Class A and Class B)*), **CF-8** (*Forum forensic and analytical support*), **CF-9** (*Independent investigative service and prosecution interface*), and **CJS-5A.6** (*Implementation and cross-implementation procedural integrity and adjudication terms*).
 
 ### CJS-3.4 Institution-hosted or forum-adjacent operations
 <details>

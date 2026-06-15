@@ -112,9 +112,9 @@ Apply `corpus_joint_structure.md` **CJS-5D.1** (*Implementation and cross-implem
 <br>
 
 
-**Router read:** Mandatory read-with for **CJS-R02** (*Forum chambers, divisions, and designated panels (Chapter Nine families)*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CF-2**.
-**Router read:** Mandatory read-with for **CJS-R13** (*Forum staffing, shared administration, structural review, structural re…*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CF-15**.
-**Router read:** Primary owner for **CJS-R01** (*Delegated binding bodies and hybrid composition (non-forum institutions)*) in **CJS-2.1** (*Topic router (stable IDs)*). Mandatory read-with: **CJS-4.1**, **CJS-4.7**, **CJS-5A.6**, **CI-2**, **CJS-5A.1**, **CJS-5A.4**.
+**Router read:** Mandatory read-with for **CJS-R02** (*Forum chambers, divisions, and designated panels (Chapter Nine families)*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CF-3**.
+**Router read:** Mandatory read-with for **CJS-R13** (*Forum staffing, shared administration, structural review, structural re…*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CF-16**.
+**Router read:** Primary owner for **CJS-R01** (*Delegated binding bodies and hybrid composition (non-forum institutions)*) in **CJS-2.1** (*Topic router (stable IDs)*). Mandatory read-with: **CJS-4.1**, **CJS-4.7**, **CJS-5A.6**, **CI-3**, **CJS-5A.1**, **CJS-5A.4**.
 
 Apply `corpus_joint_structure.md` **CJS-4.1** and **CJS-4.7** for shared delegated-body abstractions. **CI-9.3** through **CI-9.3.4** state only institutional design-class, applicability, identification, authority-composition exception, rotating-attachment, and home-based term duties for delegated subunits at or above **Class C** under the highest published **Chapter S2** class.
 ### CI-9.3.1: Identification and competence

@@ -24,8 +24,8 @@
 <br>
 
 
-**Router read:** Mandatory read-with for **CJS-R05** (*Appeal, secondary review, exhaustion*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CF-5**.
-**Router read:** Mandatory read-with for **CJS-R12** (*Standard forum records, forms, and evidence artifacts*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CF-14**.
+**Router read:** Mandatory read-with for **CJS-R05** (*Appeal, secondary review, exhaustion*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CF-6**.
+**Router read:** Mandatory read-with for **CJS-R12** (*Standard forum records, forms, and evidence artifacts*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CF-15**.
 
 Apply `corpus_joint_structure.md` **CJS-4.7** and **CJS-5A.6** for shared procedural terms. **CI-6** states only the procedure-map owner, record source, challenge route, publication cadence, and forum-expansion record duties; procedure maps must name the local owner for each required step, the record source showing compliance, the challenge route, and any institution-specific publication or secondary-review cadence.
 

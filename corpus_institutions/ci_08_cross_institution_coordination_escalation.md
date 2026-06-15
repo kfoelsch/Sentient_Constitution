@@ -24,13 +24,13 @@
 <br>
 
 
-**Router read:** Mandatory read-with for **CJS-R04** (*Routing, intake, transfer, certification, representative treatment*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CF-4**.
-**Router read:** Mandatory read-with for **CJS-R08** (*Independent investigative service and prosecution interface*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CF-8**.
+**Router read:** Mandatory read-with for **CJS-R04** (*Routing, intake, transfer, certification, representative treatment*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CF-5**.
+**Router read:** Mandatory read-with for **CJS-R08** (*Independent investigative service and prosecution interface*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CF-9**.
 **Router read:** Mandatory read-with for **CJS-R17** (*Cross-implementation trust integrity (joint operation model)*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CJS-4.4**.
 **Router read:** Mandatory read-with for **CJS-R19** (*Implementation and cross-implementation integrity assurance and resilie…*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CJS-5B.1**.
-**Router read:** Primary owner for **CJS-R16** (*Cross-institution coordination, deadlock, and escalation*) in **CJS-2.1** (*Topic router (stable IDs)*). Mandatory read-with: **CF-4**, **CF-6**.
+**Router read:** Primary owner for **CJS-R16** (*Cross-institution coordination, deadlock, and escalation*) in **CJS-2.1** (*Topic router (stable IDs)*). Mandatory read-with: **CF-5**, **CF-7**.
 
-Where institutions share jurisdiction, evidence custody, review responsibility, enforcement support, investigative interface, or forum-adjacent routing, apply `corpus_joint_structure.md` **CJS-5B.1** **Cross-institution coordination and escalation chain** for the shared floor. **CI-8** states only the local protocol owner, role map, record, deadline, escalation-trigger, publication, and **CF-8** / Chapter Nine backup-routing duties.
+Where institutions share jurisdiction, evidence custody, review responsibility, enforcement support, investigative interface, or forum-adjacent routing, apply `corpus_joint_structure.md` **CJS-5B.1** **Cross-institution coordination and escalation chain** for the shared floor. **CI-8** states only the local protocol owner, role map, record, deadline, escalation-trigger, publication, and **CF-9** / Chapter Nine backup-routing duties.
 
 External-order interactions must remain consistent with constitutional change and supremacy rules in `core_12-14_amendment.md` **Chapters Twelve through Fourteen**.
 

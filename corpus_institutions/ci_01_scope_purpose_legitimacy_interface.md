@@ -1,55 +1,3 @@
-# Constitutional Institutions
-
-*In plain terms: this file is the front door to the **institutions** rulebook — how bodies are formed, authorized, overseen, corrected, and dissolved within constitutional boundaries.*
-
-**Corpus edition:** `SC-Corpus-2026.04.32` · **Effective date:** 2026-04-24
-
-<details>
-<summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): edition, status, and where this file lives</span></strong></summary>
-
-> The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this file or in other corpus files.
->
-> **Edition and alignment**
-> - These labels track the same edition metadata as the numbered `core_*.md` files (see [README.md](../README.md)), [corpus_joint_structure.md](../corpus_joint_structure.md), [corpus_systems.md](../corpus_systems.md), and [corpus_forum.md](../corpus_forum.md).
->
-> **Status**
-> - This is **not** a core constitutional file. It is binding incorporated implementation text where [Chapter Five](../core_05-05_definitions_c_dependent_clusters.md#corpus) and [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) designate it.
-> - The CI folder is written in plain language with low jargon to improve accessibility, audit readability, and practical adoption testing.
->
-> **Where this lives**
-> - **Navigation wrapper:** [corpus_institutions.md](../corpus_institutions.md) indexes the `corpus_institutions/` subfiles.
-> - **Shared contract:** [corpus_joint_structure.md](../corpus_joint_structure.md) **CJS-1.2** (*Shared implementation-corpus preamble contract*).
-
-</details>
-
-<br>
-
-**Quick orientation**
-
-The institutions layer (**CI**) owns formation, authorization, oversight, correction, and dissolution mechanics for institutional governance:
-
-- **CJS** — [corpus_joint_structure.md](../corpus_joint_structure.md)
-- **CS** — [corpus_systems.md](../corpus_systems.md)
-- **CI** — this folder (`corpus_institutions/`)
-- **CF** — [corpus_forum.md](../corpus_forum.md)
-
-**CI** defines institutional governance law. It does not redefine constitutional terms, Rights Floors, or offense taxonomy.
-
-Shared preamble contract: apply [corpus_joint_structure.md](../corpus_joint_structure.md) **CJS-1.2** (*Shared implementation-corpus preamble contract*).
-
-<details>
-<summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): routing anchors and cluster index</span></strong></summary>
-
-> The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this file or in other corpus files.
->
-> **Implementation cross-reference index (routing only):** Read with Chapter Five constitutional definitions and `corpus_joint_structure.md` **CJS-5** (*Implementation and cross-implementation operational cluster library*) operational clusters where materially applicable. This index does not redefine owner-layer meaning.
->
-> **Stable registry:** institutional protocol IDs and cross-reference tables live in **CI-26** (*Compliance mapping and stable registry*).
-
-</details>
-
----
-
 ## CI-1: Scope, purpose, and legitimacy interface
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
@@ -76,7 +24,9 @@ Shared preamble contract: apply [corpus_joint_structure.md](../corpus_joint_stru
 <br>
 
 
-Apply `corpus_joint_structure.md` **CJS-1.1**, **CJS-1.2**, **CJS-2.1**, and **CJS-3.6** for shared implementation-corpus reading, routing, and owner discipline. **CI-1** identifies this file as the institutional owner layer for formation, authorization, oversight, correction, and dissolution mechanics. Institutional procedures remain local only where they implement those mechanics and preserve the cited hierarchy, rights, and challenge boundaries.
+*In plain terms: this file states what the institutions layer owns, how it fits among **CJS**, **CS**, and **CF**, and where to find scope and identifier rules. For the layer map and section registry, read [ci_00_registry_and_reading_rules.md](ci_00_registry_and_reading_rules.md). Continue to **CI-2** (*Implementation integration map*) for routing.*
+
+Apply [corpus_joint_structure.md](../corpus_joint_structure.md) **CJS-1.1** (*Joint structural boundary and owner discipline*), **CJS-1.2** (*Shared implementation-corpus preamble contract*), **CJS-2.1** (*Topic router (stable IDs)*), and **CJS-3.6** (*Implementation-label traceability and stricter-wins discipline*) for shared implementation-corpus reading, routing, and owner discipline.
 
 ### CI-1.1: Definition discipline and source hierarchy
 <details>
@@ -194,4 +144,6 @@ Institutional burden must scale with impact. This subsection states the CI file'
 
 ---
 
-**Next file:** [ci_02_institutional_design_separation_of_powers.md](ci_02_institutional_design_separation_of_powers.md)
+**Previous file:** [ci_00_registry_and_reading_rules.md](ci_00_registry_and_reading_rules.md)
+
+**Next file:** [ci_02_implementation_integration_map.md](ci_02_implementation_integration_map.md)

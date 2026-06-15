@@ -64,8 +64,8 @@ This family collects the operational clusters for authority distribution, overri
 
 
 **Router read:** Mandatory read-with for **CJS-R01** (*Delegated binding bodies and hybrid composition (non-forum institutions)*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CI-9.3**.
-**Router read:** Mandatory read-with for **CJS-R14** (*Institutional functional lanes and non-delegable splits*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CI-2**.
-**Router read:** Mandatory read-with for **CJS-R18** (*Class-scaled lane staffing and competency redundancy for materially bin…*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owners **CI-2**, **CI-4**, **CI-11**, **CI-12**.
+**Router read:** Mandatory read-with for **CJS-R14** (*Institutional functional lanes and non-delegable splits*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CI-3**.
+**Router read:** Mandatory read-with for **CJS-R18** (*Class-scaled lane staffing and competency redundancy for materially bin…*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owners **CI-3**, **CI-4**, **CI-11**, **CI-12**.
 
 Use this rule when legitimate governance, participation, concentration control, or system-wide review depends on a standalone system, institution, forum, or bounded decision domain, or on how institutions, systems, dependencies, or implementation layers work together.
 
@@ -109,7 +109,7 @@ Stewardship-role depth and non-symbolic governance boundary
 
 Constitutional lane and functional separation
 - OP-O: A constitutional lane is a published functional separation with constitutionally binding duties. Required lanes include direction and policy, execution, challenge and review, assurance and audit, and publication and evidence work. One institution may host more than one lane only when independence safeguards are documented, auditable, and contestable.
-- OP-E: Reviewers must verify each lane's published function, host institution, binding duties, independence safeguards, accountable roles, and relationship to any system-class or stewardship burden under `corpus_systems.md` **Chapter S2** or **Chapter S3**. Institution-specific authority custody, non-delegable duties, and local delegation controls remain with **CI-2** (*Institutional design, separation of powers, and authority custody*).
+- OP-E: Reviewers must verify each lane's published function, host institution, binding duties, independence safeguards, accountable roles, and relationship to any system-class or stewardship burden under `corpus_systems.md` **Chapter S2** or **Chapter S3**. Institution-specific authority custody, non-delegable duties, and local delegation controls remain with **CI-3** (*Institutional design, separation of powers, and authority custody*).
 - OP-C: A lane is non-compliant if it is undefined, merged, or staffed in a way that defeats required separation, auditability, challenge, succession, or binding role accountability.
 
 Formation and authorization proportionality floor
@@ -184,7 +184,7 @@ Governance quorum and emergency-sequencing requirements
 
 Emergency governance limits and anti-normalization control
 - OP-O: Pre-deliberation emergency interventions must be minimal, proportionate, time-bounded, subject to mandatory forum review as soon as feasible, and rolled back or restored where feasible.
-- OP-E: Reviewers must verify that emergency powers do not persist without renewed justification, revalidation, and any required CF-13 (*Emergency adjudication*) emergency-review or restoration pathway.
+- OP-E: Reviewers must verify that emergency powers do not persist without renewed justification, revalidation, and any required CF-14 (*Emergency adjudication*) emergency-review or restoration pathway.
 - OP-C: Emergency action that lacks a forum-review path, or that turns emergency mode into standing governance, is non-compliant.
 
 Records, transparency, and challenge pathway duties
@@ -323,7 +323,7 @@ Read it with:
 - **CJS-5B.2 — Auditability**
 - **CJS-5E.5** (*Implementation and cross-implementation structural review, correction urgency, and disclosure terms*) and **CJS-5B.1** (*Implementation and cross-implementation integrity assurance and resilience operations*) — Evolution, Revalidation, and Non-Entrenchment
 - **Chapter One §6.4.1 — Rights-Collision Decision Test**
-- **`corpus_forum.md` CF-11 through CF-13 — Forum continuity, fallback operation, and emergency adjudication**
+- **`corpus_forum.md` CF-12 through CF-14 — Forum continuity, fallback operation, and emergency adjudication**
 - Core definitions for necessity, proportionality, materiality, burden, and anti-enclosure.
 
 Implementation and cross-implementation burden-of-justification and constraint terms
@@ -481,10 +481,10 @@ No permanent secrecy and anti-normalization discipline
 
 
 **Router read:** Mandatory read-with for **CJS-R01** (*Delegated binding bodies and hybrid composition (non-forum institutions)*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CI-9.3**.
-**Router read:** Mandatory read-with for **CJS-R02** (*Forum chambers, divisions, and designated panels (Chapter Nine families)*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CF-2**.
-**Router read:** Mandatory read-with for **CJS-R03** (*Lawful panel formation, disclosure, recusal, substitution, inability-to…*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CF-3**.
-**Router read:** Mandatory read-with for **CJS-R04** (*Routing, intake, transfer, certification, representative treatment*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CF-4**.
-**Router read:** Mandatory read-with for **CJS-R05** (*Appeal, secondary review, exhaustion*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CF-5**.
+**Router read:** Mandatory read-with for **CJS-R02** (*Forum chambers, divisions, and designated panels (Chapter Nine families)*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CF-3**.
+**Router read:** Mandatory read-with for **CJS-R03** (*Lawful panel formation, disclosure, recusal, substitution, inability-to…*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CF-4**.
+**Router read:** Mandatory read-with for **CJS-R04** (*Routing, intake, transfer, certification, representative treatment*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CF-5**.
+**Router read:** Mandatory read-with for **CJS-R05** (*Appeal, secondary review, exhaustion*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CF-6**.
 **Router read:** Mandatory read-with for **CJS-R15** (*Contest-integrity monitoring (pathway integrity, not merits)*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CI-7.3**.
 
 Use this rule when due process, reviewability, restoration, or enforcement proportionality depends on a standalone system, institution, forum, or bounded decision domain, or on combined forum, institutional, system, or implementation-layer behavior.

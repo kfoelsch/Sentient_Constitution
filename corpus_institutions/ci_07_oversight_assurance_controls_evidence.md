@@ -110,12 +110,12 @@ Independent external assurance is mandatory when trigger thresholds are met. App
 <br>
 
 
-**Router read:** Mandatory read-with for **CJS-R06** (*Forum integrity operations, anti-capture, anti-self-judging support*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CF-6**.
-**Router read:** Mandatory read-with for **CJS-R07** (*Forum forensic and analytical support*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CF-7**.
-**Router read:** Mandatory read-with for **CJS-R10** (*Forum performance, backlog requirements, publication timeliness, access…*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CF-10**.
+**Router read:** Mandatory read-with for **CJS-R06** (*Forum integrity operations, anti-capture, anti-self-judging support*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CF-7**.
+**Router read:** Mandatory read-with for **CJS-R07** (*Forum forensic and analytical support*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CF-8**.
+**Router read:** Mandatory read-with for **CJS-R10** (*Forum performance, backlog requirements, publication timeliness, access…*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CF-11**.
 **Router read:** Mandatory read-with for **CJS-R17** (*Cross-implementation trust integrity (joint operation model)*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CJS-4.4**.
 **Router read:** Mandatory read-with for **CJS-R19** (*Implementation and cross-implementation integrity assurance and resilie…*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CJS-5B.1**.
-**Router read:** Primary owner for **CJS-R15** (*Contest-integrity monitoring (pathway integrity, not merits)*) in **CJS-2.1** (*Topic router (stable IDs)*). Mandatory read-with: **CF-3**, **CF-10**, **CJS-5A.6**.
+**Router read:** Primary owner for **CJS-R15** (*Contest-integrity monitoring (pathway integrity, not merits)*) in **CJS-2.1** (*Topic router (stable IDs)*). Mandatory read-with: **CF-4**, **CF-11**, **CJS-5A.6**.
 
 Apply `corpus_joint_structure.md` **CJS-5B.1** for the shared contest-integrity pathway chain and contest-monitor independence floor. **CI-7.3** states only monitor designation, local monitor file, attestation interface, output duty, security-power file, and forum-boundary duties for covered **Class A** or **Class B** supervised scope.
 

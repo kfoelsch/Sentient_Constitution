@@ -59,7 +59,7 @@ This family collects the operational clusters that make implementation and cross
 <br>
 
 
-**Router read:** Primary owner for **CJS-R19** (*Implementation and cross-implementation integrity assurance and resilie…*) in **CJS-2.1** (*Topic router (stable IDs)*). Mandatory read-with: **CJS-5B.2**, **CJS-5E.5**, **CI-7.3**, **CI-8**, **CF-10**.
+**Router read:** Primary owner for **CJS-R19** (*Implementation and cross-implementation integrity assurance and resilie…*) in **CJS-2.1** (*Topic router (stable IDs)*). Mandatory read-with: **CJS-5B.2**, **CJS-5E.5**, **CI-7.3**, **CI-8**, **CF-11**.
 
 Use this rule for **CJS-R19** (*Implementation and cross-implementation integrity assurance and resilience operations*), implementation and cross-implementation integrity assurance and resilience operations.
 
@@ -123,7 +123,7 @@ External assurance trigger floor
 
 Cross-institution coordination and escalation chain
 - OP-O: Where institutions share jurisdiction, evidence custody, review responsibility, enforcement support, investigative interface, or forum-adjacent routing, the implementation corpus must provide a published coordination and escalation protocol rather than leaving overlapping owners to improvise after conflict arises.
-- OP-E: Evaluation must verify conflict-order handling, deadlock-breaker path, evidence-sharing boundaries, accountability assignment, external-review triggers for persistent internal deadlock, independent-investigative-service backup routing under `corpus_forum.md` **CF-8**, cross-forum anti-self-judging routing under `core_09-09_forum.md` **Chapter Nine**, and records sufficient to review transfer, recusal, unavailability, backup designation, and lawful-panel formation.
+- OP-E: Evaluation must verify conflict-order handling, deadlock-breaker path, evidence-sharing boundaries, accountability assignment, external-review triggers for persistent internal deadlock, independent-investigative-service backup routing under `corpus_forum.md` **CF-9**, cross-forum anti-self-judging routing under `core_09-09_forum.md` **Chapter Nine**, and records sufficient to review transfer, recusal, unavailability, backup designation, and lawful-panel formation.
 - OP-C: It is non-compliant to leave shared jurisdiction without a usable escalation path, to resolve deadlock through the body whose independence is materially contested, to transfer matters without a reasoned record, or to let emergency incapacity, concentration, capture indicators, local enforcement involvement, security-service involvement, private-contractor involvement, or parallel-body involvement defeat independent backup routing.
 
 Independent verification path integrity
@@ -234,7 +234,7 @@ Read it with:
 - **CJS-5B.2 — Auditability**
 - **CJS-5E.3** (*Implementation and cross-implementation reversibility and containment terms*) and **CJS-5D.3** (*Implementation and cross-implementation data-retention and lifecycle-integrity terms*) — Reversibility and Containment
 - **Chapter One §6.4.1 — Rights-Collision Decision Test**
-- **`corpus_forum.md` CF-11 through CF-13 — Forum continuity, fallback operation, and emergency adjudication**
+- **`corpus_forum.md` CF-12 through CF-14 — Forum continuity, fallback operation, and emergency adjudication**
 - **Article XV-A**
 - **Article VII-B**
 
