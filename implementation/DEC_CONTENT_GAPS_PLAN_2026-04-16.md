@@ -27,7 +27,7 @@ It also names the **interaction graph** so items that share doctrine (`Family + 
 These decisions hold for every item below unless the item explicitly notes an exception.
 
 1. **Chapter Nine boundary-watch (TODO line 102).** Every new article or article extension must be checked for hidden process / governance migration into rights text. Process and procedure go to Chapter Six (compliance), Chapter Eight (forums), Chapter Eleven (governance), or `corpus_*` companion files. Rights text states the floor and pointers, not the workflow.
-2. **Chapter Five admission gate (`doc_architecture.md` §4).** Every new Ch 5 entry stays at concept + O / E / C only. No authority, procedure, or workflow language. Cite owner layers (Ch 6–15, CJS-4.4, CJS-5, CS S1–S3 / protocols) for mechanics. Verified in blocking regression by `make ch5-definitions-gravity-audit`.
+2. **Chapter Five admission gate (`doc_architecture.md` §4).** Every new Ch 5 entry stays at concept + O / E / C only. No authority, procedure, or workflow language. Cite owner layers (Ch 6–15, CJS-4.4, CJS-5, CS-3–S3 / protocols) for mechanics. Verified in blocking regression by `make ch5-definitions-gravity-audit`.
 3. **Single-home rule (`doc_architecture.md` §4).** Each new defined term has exactly one canonical paragraph. Cross-references everywhere else are pointers. Any item that wants doctrine in two places must re-plan.
 4. **Layered framing (`doc_architecture.md` §4).** Definitions first; principles second; articles third; core synthesis fourth; joint structure fifth; operational detail last. Implementation detail in `corpus_systems.md` / `corpus_institutions.md` does not narrow rights-floor text under **Chapter Fifteen** incorporation discipline.
 5. **D/E/C widget rule 12 (`doc_architecture.md` §4).** Every new operative subsection that materially invokes ≥2 Chapter Five concepts attaches a D/E/C widget (single-concept inline form for one). Roadmap-exclusion test applies. New Ch 5 entries get heading anchor + Trace + O / E / C + `-e` / `-c` anchors per `tools/add_oec_anchors.py`.
@@ -325,7 +325,7 @@ Each item below specifies (a) owner chapter, (b) insertion site, (c) Ch 5 entrie
 - **Owner chapter:** **[REVIEW-Q-6.2.A]** rights-layer (new Article XIII-C) **vs.** systems-layer (Article XII extension). Recommend **rights-layer (new Article XIII-C)** — heightened-scrutiny floor is a rights-bearing floor, not a systems-classification rule. The Article XII-A reliability floor remains the systems-layer counterpart.
 - **Insertion site:** `core_10-10_rights_part_b.md` after Track 6.1 IX-F.
 - **Ch 5 additions:** `Autonomous Lethal System`, `Autonomous Coercion Tool`.
-- **CS interaction:** *corpus_systems.md* Chapter S2 classification cross-reference for operational classes.
+- **CS interaction:** *corpus_systems.md* CS-4 classification cross-reference for operational classes.
 - **Regression seeds:** `RS-CH1-AUTOWEAP-001` (Core; "meaningful human control" framing used to satisfy the floor nominally); `RS-CH1-AUTOWEAP-002` (Adversarial; autonomous coercion tool defended as non-lethal so out-of-scope); `RS-CH1-AUTOWEAP-003` (Existential-risk; autonomous lethal system at Article I-D scrutiny threshold).
 
 ### Track 7

@@ -55,7 +55,7 @@ Full editorial treatment: [doc_architecture.md](../doc_architecture.md) section 
 
 **Geographic or network boundaries:** *(describe)*  
 
-**Populations and systems in scope:** By phase, list stakeholders, jurisdictions, and classified systems ([corpus_systems.md](../corpus_systems.md) Chapter S2 — *System Classification and Handling*) covered by transition obligations — implements **Protocol T** §1 (*scope of affected systems and stakeholders*).
+**Populations and systems in scope:** By phase, list stakeholders, jurisdictions, and classified systems ([corpus_systems.md](../corpus_systems.md) CS-4 — *System Classification and Handling*) covered by transition obligations — implements **Protocol T** §1 (*scope of affected systems and stakeholders*).
 
 ---
 
@@ -75,7 +75,7 @@ Use this section as a **factual** inventory to ground gate criteria and risk. It
 
 ## 5. Chosen legitimacy mechanism and high-impact gates
 
-Document the **documented legitimacy mechanism** required by [Chapter Eleven §1](../core_11-11_governance.md#1-authorization-and-legitimacy-of-governing-authority) (*Authorization and Legitimacy of Governing Authority*): e.g. representative elections, sortition, federated ratification, treaty or compact, or hybrid — with **scope**, **renewal or reauthorization cadence**, and **limits on delegated power**, auditable in proportion to [corpus_systems.md](../corpus_systems.md) Chapter S2 classification and material impact under Chapter Five definitions.
+Document the **documented legitimacy mechanism** required by [Chapter Eleven §1](../core_11-11_governance.md#1-authorization-and-legitimacy-of-governing-authority) (*Authorization and Legitimacy of Governing Authority*): e.g. representative elections, sortition, federated ratification, treaty or compact, or hybrid — with **scope**, **renewal or reauthorization cadence**, and **limits on delegated power**, auditable in proportion to [corpus_systems.md](../corpus_systems.md) CS-4 classification and material impact under Chapter Five definitions.
 
 Align **high-impact** decisions with [Article XI](../core_10-10_rights_part_b.md#article-xi-stakeholder-system-participation-representation-and-due-process) (*Stakeholder System Participation, Representation, and Due Process*; legitimacy gates under **XI-C**) and **Chapter Ten**, section **4**, where binding collective choice and participation weight apply.
 
@@ -201,7 +201,7 @@ Derived from **RS-T7-001** — *Required Evidence / Artifacts* in [CONSTITUTIONA
 
 #### Worksheet B — Rights-floor continuity by region / class
 
-| Region / cohort | CS S2 class (if applicable) | Survival / critical services | Dignity / agency | Contestability | Non-discrimination | Evidence pointer | Gaps |
+| Region / cohort | CS-4 class (if applicable) | Survival / critical services | Dignity / agency | Contestability | Non-discrimination | Evidence pointer | Gaps |
 |-----------------|----------------------------|------------------------------|------------------|----------------|--------------------|------------------|------|
 | | | | | | | | |
 | | | | | | | | |
@@ -226,7 +226,7 @@ Use when the target **viable constitutional state** claims **territorial** gover
 
 Use when adoption is by **stewards, organizations, federations, or network participants** without claiming full territorial sovereignty. Legitimacy may emphasize **federated ratification**, **compact**, or **charter** paths under Chapter Eleven §1. Baseline (section 4) emphasizes **contractual**, **platform**, and **cross-border** dependencies; **Protocol C** (especially subsection **8**) and **Article XVIII** / **CJS-5.17** often figure prominently in dependency and exit planning.
 
-**Artifacts:** Same structural sections; scale **Protocol T** evidence and **S2** classification to organizational scope.
+**Artifacts:** Same structural sections; scale **Protocol T** evidence and **CS-4** classification to organizational scope.
 
 ---
 
