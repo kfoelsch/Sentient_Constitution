@@ -82,11 +82,7 @@ At least annually, each institution must publish whether material controls are o
 
 <br>
 
-Independent external assurance is mandatory when trigger thresholds are met.
-
-Apply `corpus_joint_structure.md` **CJS-5B.1** (*Implementation and cross-implementation integrity assurance and resilience operations*) for the shared external assurance trigger floor.
-
-Institutional trigger criteria must be documented and published. They must state when escalation through **CI-8** (*Cross-institution coordination and escalation*) is required because local commissioning authority is conflicted, captured, unavailable, or non-responsive.
+Independent external assurance is mandatory when trigger thresholds are met. Apply `corpus_joint_structure.md` **CJS-5B.1** for the shared external-assurance trigger floor. **CI-7.2** states only institutional trigger publication and **CI-8** escalation duties when commissioning authority is conflicted, captured, unavailable, or non-responsive.
 
 ### CI-7.3: Contest-integrity monitoring (Class A and Class B)
 <details>

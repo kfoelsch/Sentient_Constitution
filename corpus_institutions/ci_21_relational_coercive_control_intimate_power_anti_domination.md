@@ -24,13 +24,9 @@
 <br>
 
 
-**Purpose.** This section makes **coercive control**, **economic dependence**, **isolation**, **reproductive pressure**, and **reputation** **threats** **legible** in **institutional** **routes** when they occur in **intimate**, **household**, **care**, **workplace**, **community**, or **platform** **contexts** — **without** **dissolving** **private** **association** or **conscience** **protections** that **Chapter Ten** **guarantees**.
+Apply `corpus_joint_structure.md` **CJS-5D.2** **Dependency-based coercion and reputation-lock pathway integrity** for the shared floor. **CI-21** states only local intake, routing, and asymmetry-review owner duties for intimate, household, care, workplace, community, and platform contexts — without dissolving private association or conscience protections that **Chapter Ten** guarantees.
 
-Apply `corpus_joint_structure.md` **CJS-5D.2** (*Implementation and cross-implementation interoperability, portability, and exit-integrity terms*) **Dependency-based coercion and reputation-lock pathway integrity** for the shared rule on dependency sabotage, reputation or visibility traps, credential control, and pattern-based coercive routing. This section states the institutional application for intimate, household, care, workplace, community, and platform contexts.
-
-**1. Intake and classification (non-criminal).** **Hotlines**, **labor** **portals**, **platform** **abuse** **lanes**, and **family** **services** should route **coercive-control** **patterns** as first-class inputs to **safety** and **remedy** pathways, not only as discrete criminal labels where those do not fit.
-
-**2. Economic, credential, platform, and reputation asymmetry.** Institutional routes must apply the CJS-5D.2 floor to dependency sabotage or retaliation that defeats exit or remedy access; read with **Article IX-A**, **CI-6** (*Procedure integrity, contestability, and secondary review*), **CI-12** (*Transparency, participation, and accessible pathways*), **CI-5** (*Conflict integrity, anti-capture, and anti-corruption*), and **`corpus_systems.md` Chapter S2** section 9 as applicable.
+Name the coercive-control intake owner; routing lanes for hotlines, labor portals, platform abuse paths, and family services; and the office responsible for economic, credential, platform, and reputation asymmetry review. Read **CI-6**, **CI-12**, and **CI-5** for local procedure, participation, and integrity interfaces.
 
 ---
 

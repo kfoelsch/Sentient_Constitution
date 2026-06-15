@@ -26,9 +26,7 @@
 
 Apply `corpus_joint_structure.md` **CJS-5B.1** **Shared anti-capture control stack** and **Sortition and civic-lottery integrity controls** for the shared floors. **CI-5** states only institutional control-map ownership, disclosure and cure files, grave-breach forfeiture records, contingent-claim supervision, and escalation duties under **CI-7.2** or **CI-8** where local independence is not credible.
 
-**Disclosure and cure file.** Publish disclosure-category requirements, cure windows, and sanctions escalator routing to **CI-11** and **CI-13**.
-
-**Grave breach and contingent claims.** Name the local forfeiture record owner and **CI-6** contest route for grave breach; name resolution-source governance, authority separation, and insider-information controls for supervised contingent-claim or event-market systems.
+Name the disclosure-category publication owner, cure-window file, and sanctions escalator route to **CI-11** and **CI-13**; the grave-breach forfeiture record owner and **CI-6** contest route; and resolution-source governance, authority separation, and insider-information controls for supervised contingent-claim or event-market systems.
 
 ### CI-5.1: Integrity trigger taxonomy and cross-layer routing (control package)
 <details>

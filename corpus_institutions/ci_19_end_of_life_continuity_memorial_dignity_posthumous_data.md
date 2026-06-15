@@ -24,15 +24,9 @@
 <br>
 
 
-**Purpose.** This section implements **planning**, **continuity**, and **dignity** mechanics for **ordinary death**, **dying**, **discontinuation** adjacent cases, **memorial**, **remains** or **substrate disposition**, and **posthumous identity** and **data** uses — **without** narrowing **Article VII-E** (*Voluntary Discontinuation*), **Article VIII** (*Likeness and Experiential Data*), **Article III-C** (*Healthcare Access*), **Article XXIII-B** (*Irreversible Deprivation Measure* prohibition), or crisis-intervention safeguards in **Article VII-C**.
+Apply `corpus_joint_structure.md` **CJS-5D.3** **Data-retention and lifecycle-integrity terms** for the shared posthumous-data and continuity floor. **CI-19** states only local advance-planning, palliative-routing, memorial, disposition, grief-accommodation, and likeness-protection owner duties under **Article VII-E**, **Article VIII**, **Article III-C**, and **Article XXIII-B** — without narrowing **Article VII-C** crisis-intervention safeguards or authorizing deprivation of life as sanction.
 
-**1. Advance planning and palliative routing.** Institutions should maintain **accessible**, **non-coercive** pathways for **advance instructions**, **substitute decision-makers**, and **palliative** **access** consistent with **Article III-C** and **Article VII-D**, including where **substrate** or **synthetic** **continuity** questions arise.
-
-**2. Memorial, remains, and likeness.** Implementations must **respect** **lawful** **memorial** **autonomy**, **disposition** choices for **biological remains** or **substrate** **components**, and **posthumous** **likeness** / **experiential-data** restrictions under **Article VIII** — **without** **exploitative** **reanimation** of **identity** for **commercial** or **political** ends.
-
-**3. Grief, mourning, and cultural practice.** **Reasonable** **accommodations** for **mourning** and **culturally** **significant** **rites** should be treated as **serious** **accessibility** and **dignity** requirements under **CI-12** (*Transparency, participation, and accessible pathways*) and **Article V-G** where **material**.
-
-**4. No sanction shortcut.** **Nothing** in this section **authorizes** **deprivation of life** as **sanction** or **bypasses** **consent**/**crisis** safeguards.
+Name the local owner for advance-instruction custody, substitute decision-maker records, palliative access routing, memorial and disposition files, grief and cultural-practice accommodation, and posthumous likeness or experiential-data controls. Read **CI-12** for participation and accessibility interfaces.
 
 ---
 

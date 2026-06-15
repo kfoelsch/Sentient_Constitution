@@ -24,11 +24,9 @@
 <br>
 
 
-**Purpose.** This section applies the shared adaptive-participation floor in `corpus_joint_structure.md` **CJS-5C.2** (*Implementation and cross-implementation comprehensibility and cognitive accessibility terms*) to neurodiversity, disability justice, and trauma-informed institutional participation under **Article V-G**, **Article XI**, **Article XX**, **Article XXIII**, and relevant **Chapter Five** entries.
+Apply `corpus_joint_structure.md` **CJS-5C.2** **Institutional participation and pathway accessibility floor** for the shared adaptive-participation and cognitive-accessibility floor. **CI-24** states only local procedural-design, trauma-informed alternative, and anti-exclusion review owner duties under **Article V-G**, **Article XI**, **Article XX**, and **Article XXIII**.
 
-**1. Procedural design.** **Hearings**, **governance** **forums**, and **high-stakes** **self-service** **paths** under **CI-12.3** (*Digital self-service pathway integrity*) must document the CJS-5C.2 alternatives they provide where **trauma** or **episodic** **disability** **otherwise** **excludes** **credible** **participation**.
-
-**2. Anti-exclusion by label.** **“Complexity”**, **“resilience”**, or **“capacity”** **framing** must **not** **excuse** **dismissal** where **Necessity** does **not** **support** it; read with **Article VII-C** and **CI-6** (*Procedure integrity, contestability, and secondary review*) **secondary** **review**.
+Name the office responsible for documenting CJS-5C.2 alternatives in hearings, governance forums, and **CI-12.3** self-service paths; and the anti-exclusion review route where complexity or capacity framing would otherwise dismiss credible participation. Read **CI-6** and **CI-12.3** for secondary-review and digital-pathway interfaces.
 
 ---
 

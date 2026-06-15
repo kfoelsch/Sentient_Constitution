@@ -248,6 +248,39 @@ def strip_inst_proto_registry(text: str) -> str:
     )
 
 
+def strip_local_owner_application(text: str) -> str:
+    """Remove accepted local owner-map and read-with routing paragraphs.
+
+  After relocation, CI sections often retain only a CJS pointer plus compact
+  owner-file naming and cross-CI interface reads. Those paragraphs are not
+  fresh shared-doctrine candidates.
+    """
+
+    owner_map_re = re.compile(
+        r"^(?:\*\*[^*]+\*\*\s+)?(?:Name the|Read \*\*CI-|Read \*\*Chapter|Read \*\*Protocol|"
+        r"\*\*Local\b|role map\b|where applicable\b)",
+        flags=re.I | re.M,
+    )
+    institutional_scope_re = re.compile(
+        r"(use the highest `corpus_systems\.md`|apply to each delegated subunit|"
+        r"through \*\*CI-\d+(?:\.\d+)*\*\* state only|"
+        r"disclosure and cure file|grave breach and contingent claims|"
+        r"institutional exception route|substitute capture-safeguard)",
+        flags=re.I,
+    )
+    paragraph_kept: list[str] = []
+    for paragraph in re.split(r"\n\s*\n", text):
+        stripped = paragraph.strip()
+        if not stripped:
+            continue
+        if owner_map_re.search(stripped):
+            continue
+        if institutional_scope_re.search(stripped):
+            continue
+        paragraph_kept.append(paragraph)
+    return "\n\n".join(paragraph_kept)
+
+
 def strip_cjs_pointer_sentences(text: str) -> str:
     """Remove explicit CJS pointer sentences before scoring relocation pressure.
 
@@ -265,6 +298,7 @@ def strip_cjs_pointer_sentences(text: str) -> str:
         r"this section supplies (?:only )?the institutional|"
         r"this section supplies the local|this subsection supplies the local|"
         r"CI-\d+(?:\.\d+)*\b.{0,160}states the institutional|"
+        r"CI-\d+(?:\.\d+)*\b.{0,160}states only|"
         r"CI-\d+(?:\.\d+)*\b.{0,160}supplies (?:only )?the institutional|"
         r"institutional owner duties|institution-specific|it keeps the institution-specific|"
         r"local institutional|CI-\d+(?:\.\d+)* adds the institutional|"
@@ -290,7 +324,7 @@ def strip_cjs_pointer_sentences(text: str) -> str:
         if pointer_re.search(chunk):
             continue
         kept.append(chunk)
-    return " ".join(kept)
+    return strip_local_owner_application(" ".join(kept))
 
 
 def words(text: str) -> set[str]:
@@ -513,6 +547,9 @@ def evaluate_section(section: Section, router_rows: list[dict[str, str]], cjs_pa
         signals.append(f"near-duplicate({len(similar)})")
 
     score = max(score, 0)
+    if len(words(text)) < 8:
+        score = 0
+        signals.append("accepted-pointer-residual")
     return Candidate(
         section=section,
         score=score,

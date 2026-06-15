@@ -111,9 +111,7 @@ Apply `corpus_joint_structure.md` **CJS-5D.1** (*Implementation and cross-implem
 
 <br>
 
-Apply `corpus_joint_structure.md` **CJS-4.1** and **CJS-4.7** for shared delegated-body abstractions. **CI-9.3** through **CI-9.3.4** state only institutional design-class, applicability, identification, authority-composition exception, rotating-attachment, and home-based term duties.
-
-Use the highest `corpus_systems.md` **Chapter S2** class in published governed scope. **CI-9.3.1** through **CI-9.3.4** apply to each delegated subunit with materially binding authority at or above **Class C**, with hybrid composition under **CJS-4.1** plus **CI-9.3.2** exception rules.
+Apply `corpus_joint_structure.md` **CJS-4.1** and **CJS-4.7** for shared delegated-body abstractions. **CI-9.3** through **CI-9.3.4** state only institutional design-class, applicability, identification, authority-composition exception, rotating-attachment, and home-based term duties for delegated subunits at or above **Class C** under the highest published **Chapter S2** class.
 
 ### CI-9.3.1: Identification and competence
 <details>

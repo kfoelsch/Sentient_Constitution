@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-06-15T09:08:01+00:00",
+  "generated_at": "2026-06-15T09:16:56+00:00",
   "files": {
     "core_00-01_principles.md": {
       "total_lines": 1506,
@@ -5855,20 +5855,20 @@
       ]
     },
     "corpus_institutions/ci_05_conflict_integrity_anti_capture_anti_corruption.md": {
-      "total_lines": 68,
+      "total_lines": 66,
       "sections": [
         {
           "header": "CI-5: Conflict integrity, anti-capture, and anti-corruption",
           "level": 2,
           "line_start": 1,
-          "line_end": 68,
+          "line_end": 66,
           "anchor": null
         },
         {
           "header": "CI-5.1: Integrity trigger taxonomy and cross-layer routing (control package)",
           "level": 3,
-          "line_start": 33,
-          "line_end": 68,
+          "line_start": 31,
+          "line_end": 66,
           "anchor": null
         }
       ]
@@ -5886,13 +5886,13 @@
       ]
     },
     "corpus_institutions/ci_07_oversight_assurance_controls_evidence.md": {
-      "total_lines": 125,
+      "total_lines": 121,
       "sections": [
         {
           "header": "CI-7: Oversight, assurance, controls, and evidence",
           "level": 2,
           "line_start": 1,
-          "line_end": 125,
+          "line_end": 121,
           "anchor": null
         },
         {
@@ -5906,14 +5906,14 @@
           "header": "CI-7.2: External assurance triggers",
           "level": 3,
           "line_start": 60,
-          "line_end": 90,
+          "line_end": 86,
           "anchor": null
         },
         {
           "header": "CI-7.3: Contest-integrity monitoring (Class A and Class B)",
           "level": 3,
-          "line_start": 91,
-          "line_end": 125,
+          "line_start": 87,
+          "line_end": 121,
           "anchor": null
         }
       ]
@@ -5931,13 +5931,13 @@
       ]
     },
     "corpus_institutions/ci_09_classification_linked_institutional_obligations.md": {
-      "total_lines": 270,
+      "total_lines": 268,
       "sections": [
         {
           "header": "CI-9: Classification-linked institutional obligations",
           "level": 2,
           "line_start": 1,
-          "line_end": 270,
+          "line_end": 268,
           "anchor": null
         },
         {
@@ -5958,42 +5958,42 @@
           "header": "CI-9.3: Delegated subunits, institutional design class, and attachment discipline",
           "level": 3,
           "line_start": 89,
-          "line_end": 117,
+          "line_end": 115,
           "anchor": null
         },
         {
           "header": "CI-9.3.1: Identification and competence",
           "level": 3,
-          "line_start": 118,
-          "line_end": 149,
+          "line_start": 116,
+          "line_end": 147,
           "anchor": null
         },
         {
           "header": "CI-9.3.2: Authority composition",
           "level": 3,
-          "line_start": 150,
-          "line_end": 178,
+          "line_start": 148,
+          "line_end": 176,
           "anchor": null
         },
         {
           "header": "CI-9.3.3: Rotating authority: attachment bounds",
           "level": 3,
-          "line_start": 179,
-          "line_end": 210,
+          "line_start": 177,
+          "line_end": 208,
           "anchor": null
         },
         {
           "header": "CI-9.3.4: Home-based authority: term and renewal",
           "level": 3,
-          "line_start": 211,
-          "line_end": 237,
+          "line_start": 209,
+          "line_end": 235,
           "anchor": null
         },
         {
           "header": "CI-9.4: Survival floors, voluntary exchange, and markets (Article III-A interface)",
           "level": 3,
-          "line_start": 238,
-          "line_end": 270,
+          "line_start": 236,
+          "line_end": 268,
           "anchor": null
         }
       ]
@@ -6163,13 +6163,13 @@
       ]
     },
     "corpus_institutions/ci_19_end_of_life_continuity_memorial_dignity_posthumous_data.md": {
-      "total_lines": 42,
+      "total_lines": 36,
       "sections": [
         {
           "header": "CI-19: End-of-life continuity, memorial dignity, and posthumous-data stewardship",
           "level": 2,
           "line_start": 1,
-          "line_end": 42,
+          "line_end": 36,
           "anchor": null
         }
       ]
@@ -6187,13 +6187,13 @@
       ]
     },
     "corpus_institutions/ci_21_relational_coercive_control_intimate_power_anti_domination.md": {
-      "total_lines": 40,
+      "total_lines": 36,
       "sections": [
         {
           "header": "CI-21: Relational coercive control, intimate power, and anti-domination routing",
           "level": 2,
           "line_start": 1,
-          "line_end": 40,
+          "line_end": 36,
           "anchor": null
         }
       ]
@@ -6211,25 +6211,25 @@
       ]
     },
     "corpus_institutions/ci_23_place_based_stewardship_indigenous_continuity_consultation.md": {
-      "total_lines": 38,
+      "total_lines": 36,
       "sections": [
         {
           "header": "CI-23: Place-based stewardship, Indigenous continuity, and consultation routes",
           "level": 2,
           "line_start": 1,
-          "line_end": 38,
+          "line_end": 36,
           "anchor": null
         }
       ]
     },
     "corpus_institutions/ci_24_neurodiversity_disability_justice_trauma_informed_participation.md": {
-      "total_lines": 38,
+      "total_lines": 36,
       "sections": [
         {
           "header": "CI-24: Neurodiversity, disability justice, and trauma-informed participation",
           "level": 2,
           "line_start": 1,
-          "line_end": 38,
+          "line_end": 36,
           "anchor": null
         }
       ]
