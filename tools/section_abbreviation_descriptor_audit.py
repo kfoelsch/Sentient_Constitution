@@ -20,6 +20,7 @@ DESCRIPTOR_AFTER_RE = re.compile(
     r"(?:\s*(?:—|-|:)\s*[^.;,\n]+|\s*\([^)]+\)|\s+\*[^*]+\*)"
 )
 TRACE_WIDGET_START_RE = re.compile(r"<summary>.*Trace", re.IGNORECASE)
+TOP_LEVEL_CS_SECTIONS = frozenset({f"CS-{n}" for n in range(1, 6)})
 
 
 @dataclass(frozen=True)
@@ -90,6 +91,10 @@ def scan_line(rel_path: str, line_number: int, line: str) -> Finding | None:
     if not match:
         return None
 
+    section_id = match.group(0)
+    if section_id in TOP_LEVEL_CS_SECTIONS:
+        return None
+
     if has_descriptor(line[match.end() :]):
         return None
 
@@ -148,6 +153,9 @@ def scan_file(root: pathlib.Path, rel_path: str) -> list[Finding]:
 
         match = SECTION_ID_RE.search(line)
         if not match:
+            continue
+
+        if match.group(0) in TOP_LEVEL_CS_SECTIONS:
             continue
 
         if not has_descriptor(line[match.end() :]):

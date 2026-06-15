@@ -105,7 +105,7 @@ REVIEWS = [
     DomainReview(
         domain="Risk governance and internal controls",
         external_sections="FRC 2024 Section 4/Provision 29; IIA 1-6; OECD Integrity 10; NIST AI RMF Govern/Map",
-        internal_anchor="SC Ch 1 sec. 7; Arts XII-XV, XIX-XX; CI-3, CI-7; CS Protocol A; CS Ch S2-S3",
+        internal_anchor="SC Ch 1 sec. 7; Arts XII-XV, XIX-XX; CI-3, CI-7; CS Protocol A; CS-4–CS-5",
         design=3,
         operationalization=3,
         evidence=2,
@@ -150,7 +150,7 @@ REVIEWS = [
     DomainReview(
         domain="AI and system lifecycle governance",
         external_sections="NIST AI RMF Govern/Map/Measure/Manage; ISO/IEC 42001 4-10; NIST GenAI Profile 2024",
-        internal_anchor="Arts XII-XVI, XIX-XX; CS Protocol A/B/R/D; CS Ch S1-S3",
+        internal_anchor="Arts XII-XVI, XIX-XX; CS Protocol A/B/R/D; CS-3–CS-5",
         design=3,
         operationalization=3,
         evidence=2,

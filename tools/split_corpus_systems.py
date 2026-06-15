@@ -47,15 +47,15 @@ INDEX_ROWS: list[tuple[str, str]] = [
         "cs_protocol_c_justice_safeguards_restitution_rehabilitation.md",
     ),
     (
-        "Chapter S1 — Information Types and Handling",
+        "CS-3 — Information types and handling",
         "cs_s1_information_types_and_handling.md",
     ),
     (
-        "Chapter S2 — System Classification and Handling",
+        "CS-4 — System classification and handling",
         "cs_s2_system_classification_and_handling.md",
     ),
     (
-        "Chapter S3 — Critical System Stewardship",
+        "CS-5 — Critical system stewardship",
         "cs_s3_critical_system_stewardship.md",
     ),
     (

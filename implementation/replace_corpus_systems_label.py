@@ -26,24 +26,24 @@ REPLACEMENTS: list[tuple[str, str]] = [
         "**[corpus_systems.md](corpus_systems.md), Protocol B — *System Comprehensibility and Complexity Stewardship***",
     ),
     (
-        "Constitutional Systems, Chapter S1 — Information Types and Handling",
-        "[corpus_systems.md](corpus_systems.md), Chapter S1 — Information Types and Handling",
+        "Constitutional Systems, CS-3 — Information types and handling",
+        "[corpus_systems.md](corpus_systems.md), CS-3 — Information types and handling",
     ),
     (
-        "Constitutional Systems, Chapter S2 — System Classification and Handling",
-        "[corpus_systems.md](corpus_systems.md), Chapter S2 — System Classification and Handling",
+        "Constitutional Systems, CS-4 — System classification and handling",
+        "[corpus_systems.md](corpus_systems.md), CS-4 — System classification and handling",
     ),
     (
-        "Constitutional Systems, Chapter S1",
-        "[corpus_systems.md](corpus_systems.md), Chapter S1",
+        "Constitutional Systems, CS-3",
+        "[corpus_systems.md](corpus_systems.md), CS-3",
     ),
     (
-        "Constitutional Systems, Chapter S2",
-        "[corpus_systems.md](corpus_systems.md), Chapter S2",
+        "Constitutional Systems, CS-4",
+        "[corpus_systems.md](corpus_systems.md), CS-4",
     ),
     (
-        "Constitutional Systems, Chapter S3",
-        "[corpus_systems.md](corpus_systems.md), Chapter S3",
+        "Constitutional Systems, CS-5",
+        "[corpus_systems.md](corpus_systems.md), CS-5",
     ),
     # Protocols (shorter)
     (
@@ -72,21 +72,21 @@ REPLACEMENTS: list[tuple[str, str]] = [
     ),
     # Two-bold merged references (S1, S2, S3 with titles)
     (
-        "**Constitutional Systems**, **Chapter S1 — Information Types and Handling**",
-        "**[corpus_systems.md](corpus_systems.md), Chapter S1 — Information Types and Handling**",
+        "**Constitutional Systems**, **CS-3 — Information types and handling**",
+        "**[corpus_systems.md](corpus_systems.md), CS-3 — Information types and handling**",
     ),
     (
-        "**Constitutional Systems**, **Chapter S2 — System Classification and Handling**",
-        "**[corpus_systems.md](corpus_systems.md), Chapter S2 — System Classification and Handling**",
+        "**Constitutional Systems**, **CS-4 — System classification and handling**",
+        "**[corpus_systems.md](corpus_systems.md), CS-4 — System classification and handling**",
     ),
     (
-        "**Constitutional Systems**, **Chapter S3 — Critical System Stewardship**",
-        "**[corpus_systems.md](corpus_systems.md), Chapter S3 — Critical System Stewardship**",
+        "**Constitutional Systems**, **CS-5 — Critical system stewardship**",
+        "**[corpus_systems.md](corpus_systems.md), CS-5 — Critical system stewardship**",
     ),
     # Chapter only (second part bold)
     (
-        "**Constitutional Systems** **Chapter S1**",
-        "**[corpus_systems.md](corpus_systems.md), Chapter S1**",
+        "**Constitutional Systems** **CS-3**",
+        "**[corpus_systems.md](corpus_systems.md), CS-3**",
     ),
     (
         "**Constitutional Systems** **Protocol A**",
@@ -99,20 +99,20 @@ REPLACEMENTS: list[tuple[str, str]] = [
     ),
     # Italic joint
     (
-        "*Constitutional Systems, Chapter S1*",
-        "*[corpus_systems.md](corpus_systems.md), Chapter S1*",
+        "*Constitutional Systems, CS-3*",
+        "*[corpus_systems.md](corpus_systems.md), CS-3*",
     ),
     (
-        "*Constitutional Systems* Chapter S2",
-        "*[corpus_systems.md](corpus_systems.md)*, Chapter S2",
+        "*Constitutional Systems* CS-4",
+        "*[corpus_systems.md](corpus_systems.md)*, CS-4",
     ),
     (
-        "Under *Constitutional Systems* Chapter S2,",
-        "Under *[corpus_systems.md](corpus_systems.md)*, Chapter S2,",
+        "Under *Constitutional Systems* CS-4,",
+        "Under *[corpus_systems.md](corpus_systems.md)*, CS-4,",
     ),
     (
-        "including *Constitutional Systems*, Chapter S2",
-        "including *[corpus_systems.md](corpus_systems.md)*, Chapter S2",
+        "including *Constitutional Systems*, CS-4",
+        "including *[corpus_systems.md](corpus_systems.md)*, CS-4",
     ),
     # Governance / adoption loose phrasing
     (

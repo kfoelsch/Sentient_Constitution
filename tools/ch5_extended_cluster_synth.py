@@ -356,7 +356,7 @@ def synth_privacy_peer() -> str:
 - [Article XIII-A](core_10-10_rights_part_c.md#article-xiii-a-security-intelligence-and-covert-power-limits);
 - [Privacy (Informational)](#privacy-informational) as the umbrella definition tying the distribution together.
 
-**Read-with definitions.** Apply [Protected Internal-State Boundary](#protected-internal-state-boundary-constitutional), [Consent](#consent-constitutional), [Truth (Constitutional Constraint)](#truth-constitutional-constraint), [Surveillance Boundary](#surveillance-boundary), and **[corpus_systems.md](corpus_systems.md), Chapter S1** where Type N or comparable handling is implicated.
+**Read-with definitions.** Apply [Protected Internal-State Boundary](#protected-internal-state-boundary-constitutional), [Consent](#consent-constitutional), [Truth (Constitutional Constraint)](#truth-constitutional-constraint), [Surveillance Boundary](#surveillance-boundary), and **[corpus_systems.md](corpus_systems.md), CS-3** where Type N or comparable handling is implicated.
 
 **Joint invocation and anti-bypass.** Under §3.1, privacy matters within admission scope must not be segmented across articles in a way that satisfies one article’s standard while evading another’s materially implicated discipline; anti-read-across for standard-setting remains as stated in Chapter Five §2.3.
 """
@@ -373,7 +373,7 @@ def synth_protected_internal_type_n() -> str:
 
 - [Protected Internal-State Boundary](#protected-internal-state-boundary-constitutional);
 - [Protected Intimate-Signal Gating](#protected-intimate-signal-gating), where materially implicated;
-- [Type N](corpus_systems.md) handling cross-references where **Chapter S1** applies by operation of companion adoption.
+- [Type N](corpus_systems.md) handling cross-references where **CS-3** applies by operation of companion adoption.
 
 **Read-with definitions.** Apply [Privacy (Informational)](#privacy-informational), [Consent](#consent-constitutional), [Epistemic Integrity](#epistemic-integrity), [Truth (Constitutional Constraint)](#truth-constitutional-constraint), [Auditability](#auditability), and [Surveillance Boundary](#surveillance-boundary) where materially implicated.
 
