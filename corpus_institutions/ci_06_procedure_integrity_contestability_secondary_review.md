@@ -2,7 +2,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.2](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-22-topic-router-stable-ids) topic router; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions; and [Chapter Ten](../core_10-10_rights_part_a.md#chapter-ten-foundational-rights) rights architecture where rights interfaces are invoked.
+- Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions; and [Chapter Ten](../core_10-10_rights_part_a.md#chapter-ten-foundational-rights) rights architecture where rights interfaces are invoked.
 - Downstream: this section's local operational requirements for **CI-6: Procedure integrity, contestability, and secondary review**.
 - Read with: **CI-6**; **CJS-4.7**.
 
@@ -23,6 +23,9 @@
 
 <br>
 
+
+**Router read:** Mandatory read-with for **CJS-R05** (*Appeal, secondary review, exhaustion*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CF-5**.
+**Router read:** Mandatory read-with for **CJS-R12** (*Standard forum records, forms, and evidence artifacts*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CF-14**.
 
 Apply `corpus_joint_structure.md` **CJS-4.7** and **CJS-5A.6** for shared procedural terms. **CI-6** states only the procedure-map owner, record source, challenge route, publication cadence, and forum-expansion record duties; procedure maps must name the local owner for each required step, the record source showing compliance, the challenge route, and any institution-specific publication or secondary-review cadence.
 

@@ -2,7 +2,7 @@
 
 **Constitutional index (abridged)**
 - Topic-level routing and cited authorities remain in subsection text and cross-references.
-- Canonical owner map: `corpus_joint_structure.md` **CJS-2.2** (*Topic router (stable IDs)*) and `doc_architecture.md` section 4.
+- Canonical owner map: `corpus_joint_structure.md` **CJS-2.1** (*Topic router (stable IDs)*) and `doc_architecture.md` section 4.
 
 Constitutional tracing: This protocol implements Sentient Constitution Chapter Five (`Emergency and Contingency` and `Force Majeure`). It applies those requirements in deployment, environment separation, testing, and rollback contexts. It implements those requirements together with core constraints (Safety, Truth, reversibility, contestability). It does **not** replace or narrow those definitions. Where this protocol is silent, Sentient Constitution Chapters Two through Five govern.
 

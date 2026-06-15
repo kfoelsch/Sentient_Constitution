@@ -2,7 +2,7 @@
 
 Generated: 2026-06-14
 
-Scope: `corpus_institutions/*.md` compared against `corpus_joint_structure/*.md` and the CJS-2.2 topic router.
+Scope: `corpus_institutions/*.md` compared against `corpus_joint_structure/*.md` and the CJS-2.1 topic router.
 
 This is an editorial exposure audit. It identifies candidate passages for relocation, pointer replacement, or split ownership; it does not apply moves.
 

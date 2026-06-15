@@ -2,7 +2,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.2](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-22-topic-router-stable-ids) topic router; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions; and [Chapter Ten](../core_10-10_rights_part_a.md#chapter-ten-foundational-rights) rights architecture where rights interfaces are invoked.
+- Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions; and [Chapter Ten](../core_10-10_rights_part_a.md#chapter-ten-foundational-rights) rights architecture where rights interfaces are invoked.
 - Downstream: this section's local operational requirements for **CI-11: Resource stewardship and incentive integrity**.
 - Read with: **CI-11**; **CI-10.1**; **CI-10.2**; **CI-10**; **CI-9.4**; [CJS-5D.1](../corpus_joint_structure/cjs_05d_00_dependency_exit_lifecycle_integrity.md#cjs-5d1-implementation-and-cross-implementation-dependency-integrity-and-disclosure-terms); [CJS-5B.1](../corpus_joint_structure/cjs_05b_00_evidence_audit_claim_integrity.md#cjs-5b1-implementation-and-cross-implementation-integrity-assurance-and-resilience-operations).
 
@@ -23,6 +23,8 @@
 
 <br>
 
+
+**Router read:** Primary owner for **CJS-R18** (*Class-scaled lane staffing and competency redundancy for materially bin…*) in **CJS-2.1** (*Topic router (stable IDs)*). Mandatory read-with: **CJS-4.6**, **CJS-5A.1**.
 
 **Continuity planning.** Institutions must maintain resource adequacy for safe continuity and constitutional performance. Shared dependency-chain evaluation for funding, staffing, capacity, and resource adequacy is governed by `corpus_joint_structure.md` **CJS-5D.1** (*Implementation and cross-implementation dependency integrity and disclosure terms*), read with **CJS-5B.1** (*Implementation and cross-implementation integrity assurance and resilience operations*) where severe control failure, verified misconduct, evidence custody, or resilience claims are implicated. **CI-11** states the institutional stewardship trigger and local consequence interface only: **sabotage of continuity planning** and **willful negligence in continuity planning** are **anti-constitutional misconduct** for malus, clawback, and related remedies in this chapter when they are **material** to institutional duties or supervised scope and **verified** under **Chapters Two through Four** and **Chapter Six** as applicable.
 

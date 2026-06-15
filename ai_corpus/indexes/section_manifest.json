@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-06-15T11:28:26+00:00",
+  "generated_at": "2026-06-15T11:52:09+00:00",
   "files": {
     "core_00-01_principles.md": {
       "total_lines": 1508,
@@ -5118,93 +5118,93 @@
       ]
     },
     "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md": {
-      "total_lines": 241,
+      "total_lines": 247,
       "sections": [
         {
           "header": "CJS-1: Scope, purpose, and boundary interface",
           "level": 2,
           "line_start": 1,
-          "line_end": 241,
+          "line_end": 247,
           "anchor": null
         },
         {
           "header": "CJS-1.1: Joint structural boundary and owner discipline",
           "level": 3,
           "line_start": 39,
-          "line_end": 74,
+          "line_end": 80,
           "anchor": null
         },
         {
           "header": "CJS-1.2: Shared implementation-corpus preamble contract",
           "level": 3,
-          "line_start": 75,
-          "line_end": 125,
+          "line_start": 81,
+          "line_end": 131,
           "anchor": null
         },
         {
           "header": "CJS-1.3: Section identifiers and article references",
           "level": 3,
-          "line_start": 126,
-          "line_end": 156,
+          "line_start": 132,
+          "line_end": 162,
           "anchor": null
         },
         {
           "header": "CJS-1.4: Operational structure and subsection-local terminology",
           "level": 3,
-          "line_start": 157,
-          "line_end": 199,
+          "line_start": 163,
+          "line_end": 205,
           "anchor": null
         },
         {
           "header": "CJS-1.5: Operational clusters",
           "level": 3,
-          "line_start": 200,
-          "line_end": 241,
+          "line_start": 206,
+          "line_end": 247,
           "anchor": null
         }
       ]
     },
     "corpus_joint_structure/cjs_02_implementation_integration_map.md": {
-      "total_lines": 159,
+      "total_lines": 133,
       "sections": [
         {
           "header": "CJS-2: Implementation integration map",
           "level": 2,
           "line_start": 1,
-          "line_end": 159,
+          "line_end": 133,
           "anchor": null
         },
         {
-          "header": "CJS-2.1: Intentional overlap (non-duplication discipline)",
+          "header": "CJS-2.1: Topic router (stable IDs)",
           "level": 3,
-          "line_start": 46,
+          "line_start": 15,
           "line_end": 72,
           "anchor": null
         },
         {
-          "header": "CJS-2.2: Topic router (stable IDs)",
+          "header": "CJS-2.2: Intentional overlap (non-duplication discipline)",
           "level": 3,
           "line_start": 73,
-          "line_end": 125,
+          "line_end": 99,
           "anchor": null
         },
         {
           "header": "CJS-2.3: Two-tier definition contract (binding abstraction + owner detail)",
           "level": 3,
-          "line_start": 126,
-          "line_end": 159,
+          "line_start": 100,
+          "line_end": 133,
           "anchor": null
         }
       ]
     },
     "corpus_joint_structure/cjs_03_joint_structural_obligations.md": {
-      "total_lines": 192,
+      "total_lines": 194,
       "sections": [
         {
           "header": "CJS-3: Joint structural obligations (cross-domain requirements)",
           "level": 2,
           "line_start": 1,
-          "line_end": 192,
+          "line_end": 194,
           "anchor": null
         },
         {
@@ -5246,7 +5246,7 @@
           "header": "CJS-3.6 Implementation-label traceability and stricter-wins discipline",
           "level": 3,
           "line_start": 172,
-          "line_end": 192,
+          "line_end": 194,
           "anchor": null
         }
       ]
@@ -5276,7 +5276,7 @@
           "anchor": null
         },
         {
-          "header": "CJS-4.3 Implementation boundary (domain owner to CJS seam)",
+          "header": "CJS-4.3 Implementation boundary (primary owner to CJS seam)",
           "level": 3,
           "line_start": 100,
           "line_end": 127,

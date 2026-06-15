@@ -2,7 +2,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.2](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-22-topic-router-stable-ids) topic router; [Chapter Nine](../core_09-09_forum.md#chapter-nine-forums-and-jurisdiction) forum-family routing; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
+- Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Nine](../core_09-09_forum.md#chapter-nine-forums-and-jurisdiction) forum-family routing; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
 - Downstream: [CF-8.1 Basic rule](#cf-81-basic-rule); [CF-8.2 Why independence matters](#cf-82-why-independence-matters); [CF-8.3 Where the investigative service belongs](#cf-83-where-the-investigative-service-belongs); [CF-8.4 What investigators may do](#cf-84-what-investigators-may-do); [CF-8.5 Required separations](#cf-85-required-separations); [CF-8.6 No self-investigation](#cf-86-no-self-investigation); [CF-8.7 Rights, secrecy, and protected activity](#cf-87-rights-secrecy-and-protected-activity); [CF-8.8 Records, referrals, and backup routes](#cf-88-records-referrals-and-backup-routes).
 - Read with: **CF-8**; **CF-8.1**; **CF-8.2**; **CF-8.3**; **CF-8.4**; **CF-8.5**; **CF-8.6**; **CF-8.7**; **CF-8.8**.
 
@@ -23,6 +23,8 @@
 
 <br>
 
+
+**Router read:** Primary owner for **CJS-R08** (*Independent investigative service and prosecution interface*) in **CJS-2.1** (*Topic router (stable IDs)*). Mandatory read-with: **CI-8**.
 
 ### CF-8.1 Basic rule
 

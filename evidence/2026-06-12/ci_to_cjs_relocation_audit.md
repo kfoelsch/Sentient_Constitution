@@ -2,7 +2,7 @@
 
 Generated: 2026-06-12
 
-Scope: `corpus_institutions/*.md` compared against `corpus_joint_structure/*.md` and the CJS-2.2 topic router.
+Scope: `corpus_institutions/*.md` compared against `corpus_joint_structure/*.md` and the CJS-2.1 topic router.
 
 This is an editorial exposure audit. It identifies candidate passages for relocation, pointer replacement, or split ownership; it does not apply moves.
 
@@ -30,7 +30,7 @@ This is an editorial exposure audit. It identifies candidate passages for reloca
 - Router matches: CJS-R17 — Cross-implementation trust integrity (joint operation model); CJS-R19 — Implementation and cross-implementation integrity assurance and resilience operations; CJS-R15 — Contest-integrity monitoring (pathway integrity, not merits)
 - Keep-in-CI cautions: fees
 
-Summary: **Constitutional index (abridged)** - Topic-level routing and cited authorities remain in subsection text and cross-references. - Canonical owner map: `corpus_joint_structure.md` **CJS-2.2** (*Topic router (stable IDs)*) and `doc_architecture.md` section 4....
+Summary: **Constitutional index (abridged)** - Topic-level routing and cited authorities remain in subsection text and cross-references. - Canonical owner map: `corpus_joint_structure.md` **CJS-2.1** (*Topic router (stable IDs)*) and `doc_architecture.md` section 4....
 
 ### 2. CI-9.3: Delegated subunits, institutional design class, and attachment discipline
 
@@ -57,7 +57,7 @@ Near CJS matches:
 - Router matches: CJS-R19 — Implementation and cross-implementation integrity assurance and resilience operations; CJS-R17 — Cross-implementation trust integrity (joint operation model); CJS-R11 — Forum continuity
 - Keep-in-CI cautions: local procedure
 
-Summary: **Constitutional index (abridged)** - Apply `corpus_joint_structure.md` **CJS-1.2** (*Shared implementation-corpus preamble contract*), **CJS-1.1** (*Joint structural boundary and owner discipline*), **CJS-2.2** (*Topic router (stable IDs)*), and **CJS-3.6*...
+Summary: **Constitutional index (abridged)** - Apply `corpus_joint_structure.md` **CJS-1.2** (*Shared implementation-corpus preamble contract*), **CJS-1.1** (*Joint structural boundary and owner discipline*), **CJS-2.1** (*Topic router (stable IDs)*), and **CJS-3.6*...
 
 ### 4. CI-16: Innovation reward, disclosure, and anti-enclosure
 
@@ -143,7 +143,7 @@ Summary: This subsection states the institutional application of the shared clas
 - Router matches: CJS-R17 — Cross-implementation trust integrity (joint operation model); CJS-R19 — Implementation and cross-implementation integrity assurance and resilience operations; CJS-R15 — Contest-integrity monitoring (pathway integrity, not merits)
 - Keep-in-CI cautions: dissolution, institutional formation
 
-Summary: **Constitutional index (abridged)** - Topic-level routing and cited authorities remain in subsection text and cross-references. - Canonical owner map: `corpus_joint_structure.md` **CJS-2.2** (*Topic router (stable IDs)*) and `doc_architecture.md` section 4....
+Summary: **Constitutional index (abridged)** - Topic-level routing and cited authorities remain in subsection text and cross-references. - Canonical owner map: `corpus_joint_structure.md` **CJS-2.1** (*Topic router (stable IDs)*) and `doc_architecture.md` section 4....
 
 ### 11. CI-14.1: Interface — Article XXV-D (non-compliant property, seizure, voluntary incentives)
 
@@ -166,7 +166,7 @@ Summary: Where transition plans address **non-compliant property or systems** un
 - Router matches: CJS-R19 — Implementation and cross-implementation integrity assurance and resilience operations; CJS-R17 — Cross-implementation trust integrity (joint operation model); CJS-R15 — Contest-integrity monitoring (pathway integrity, not merits)
 - Keep-in-CI cautions: dissolution
 
-Summary: **Constitutional index (abridged)** - Topic-level routing and cited authorities remain in subsection text and cross-references. - Canonical owner map: `corpus_joint_structure.md` **CJS-2.2** (*Topic router (stable IDs)*) and `doc_architecture.md` section 4....
+Summary: **Constitutional index (abridged)** - Topic-level routing and cited authorities remain in subsection text and cross-references. - Canonical owner map: `corpus_joint_structure.md` **CJS-2.1** (*Topic router (stable IDs)*) and `doc_architecture.md` section 4....
 
 ### 13. CI-20: Care labor, dependent support, respite, and care-economy fairness
 
@@ -258,7 +258,7 @@ Summary: Institutions with regulated or supervised scope must publish how major 
 - Signals: joint-interface(1), routing-read-with(4), shared-procedure(1)
 - Router matches: CJS-R17 — Cross-implementation trust integrity (joint operation model); CJS-R19 — Implementation and cross-implementation integrity assurance and resilience operations; CJS-R15 — Contest-integrity monitoring (pathway integrity, not merits)
 
-Summary: **Constitutional index (abridged)** - Topic-level routing and cited authorities remain in subsection text and cross-references. - Canonical owner map: `corpus_joint_structure.md` **CJS-2.2** (*Topic router (stable IDs)*) and `doc_architecture.md` section 4....
+Summary: **Constitutional index (abridged)** - Topic-level routing and cited authorities remain in subsection text and cross-references. - Canonical owner map: `corpus_joint_structure.md` **CJS-2.1** (*Topic router (stable IDs)*) and `doc_architecture.md` section 4....
 
 ### 21. CI-9.4: Survival floors, voluntary exchange, and markets (Article III-A interface)
 

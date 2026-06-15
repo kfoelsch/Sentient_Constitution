@@ -44,7 +44,7 @@ SHARED_CONTRACT = (
     "shared implementation-corpus contract"
 )
 TOPIC_ROUTER = (
-    "[CJS-2.2](cjs_02_implementation_integration_map.md#cjs-22-topic-router-stable-ids) "
+    "[CJS-2.1](cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) "
     "topic router"
 )
 
@@ -228,9 +228,9 @@ def mentioned_links(section_text: str) -> list[str]:
         for match in re.findall(pattern, section_text):
             if match not in seen:
                 seen.add(match)
-                if match == "CJS-2.2":
+                if match == "CJS-2.1":
                     out.append(
-                        "[CJS-2.2](cjs_02_implementation_integration_map.md#cjs-22-topic-router-stable-ids)"
+                        "[CJS-2.1](cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids)"
                     )
                 elif match == "CJS-1.2":
                     out.append(SHARED_CONTRACT)

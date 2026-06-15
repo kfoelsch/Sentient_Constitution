@@ -42,7 +42,7 @@ Scope, boundary, and the shared implementation-corpus contract live in the next 
 > The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this file or in other corpus files.
 >
 > **Implementation anchors**
-> - **Routing:** **CJS-2** (*Implementation integration map*) gives read order, the stricter-wins rule, and the owner map for joint topics.
+> - **Routing:** **CJS-2.1** (*Topic router (stable IDs)*) gives the owner map and mandatory read-with lists for joint topics; **CJS-3.6** (*Implementation-label traceability and stricter-wins discipline*) gives stricter-wins discipline.
 > - **Joint obligations:** **CJS-3** (*Joint structural obligations (cross-domain requirements)*) gives requirements that must be satisfied together when more than one implementation file applies to the same facts.
 > - **Domain limits:** CJS coordinates shared interfaces. It does not replace day-to-day domain rules owned only by `corpus_systems.md`, `corpus_institutions.md`, or `corpus_forum.md`.
 >
@@ -56,7 +56,7 @@ Scope, boundary, and the shared implementation-corpus contract live in the next 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.2](cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.2](cjs_02_implementation_integration_map.md#cjs-22-topic-router-stable-ids) topic router; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
+- Upstream: [CJS-1.2](cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
 - Downstream: this section's local operational requirements for **Joint Structure Registry**.
 - Read with: **CJS-1**; **CJS-2**; **CJS-3**; **CJS-4**; **CJS-5**.
 
@@ -80,7 +80,7 @@ These are the stable section families for the CJS folder:
 | Family | What it covers | Start here |
 |---|---|---|
 | **CJS-1** | Scope, purpose, and boundary interface | [cjs_01_scope_purpose_boundary_interface.md](cjs_01_scope_purpose_boundary_interface.md) |
-| **CJS-2** | Implementation integration map: owners, intentional overlap, and read-with order | [cjs_02_implementation_integration_map.md](cjs_02_implementation_integration_map.md) |
+| **CJS-2** | Implementation integration map: topic router, overlap discipline, and read-with order | [cjs_02_implementation_integration_map.md](cjs_02_implementation_integration_map.md) |
 | **CJS-3** | General joint structural obligations: requirements that cross domains | [cjs_03_joint_structural_obligations.md](cjs_03_joint_structural_obligations.md) |
 | **CJS-4** | Specific joint interlocks and shared abstractions | [cjs_04_specific_joint_interlocks.md](cjs_04_specific_joint_interlocks.md) |
 | **CJS-5** | Cross-implementation operational cluster library | [cjs_05_cross_implementation_operational_terms.md](cjs_05_cross_implementation_operational_terms.md) |
@@ -89,9 +89,9 @@ These are the stable section families for the CJS folder:
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.2](cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.2](cjs_02_implementation_integration_map.md#cjs-22-topic-router-stable-ids) topic router; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
+- Upstream: [CJS-1.2](cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
 - Downstream: this section's local operational requirements for **Stable identifiers, edition alignment, and drafting notes**.
-- Read with: [CJS-2.2](cjs_02_implementation_integration_map.md#cjs-22-topic-router-stable-ids); **CJS-4.1**; **CJS-4.3**; **CJS-4**; **CJS-5**.
+- Read with: [CJS-2.1](cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids); **CJS-4.1**; **CJS-4.3**; **CJS-4**; **CJS-5**.
 
 </details>
 
@@ -107,7 +107,7 @@ These are the stable section families for the CJS folder:
 
 <br>
 
-*In plain terms: section labels like **CJS-2.2** stay stable across corpus editions so cross-references do not break when text moves between files.*
+*In plain terms: section labels like **CJS-2.1** stay stable across corpus editions so cross-references do not break when text moves between files.*
 
 **Edition alignment:** The visible **Corpus edition** and **Effective date** labels must track **Corpus** labels in adopting instruments and `doc_architecture.md` corpus-alignment notes.
 
@@ -119,9 +119,9 @@ These are the stable section families for the CJS folder:
 >
 > **Drafting priority (suggested):**
 >
-> 1. Extend **CJS-2.2** (*Topic router (stable IDs)*) with new rows only when `doc_architecture.md` section 2 ownership or cross-file overlap changes; keep row IDs **stable** — append new IDs, do not renumber.
-> 2. When **CI**/**CF**/**CS** repeat the same joint interface paragraph, prefer a **one-line** pointer to the relevant CJS joint section, including **CJS-4.1** (*Mandatory hybrid authority composition (delegated binding bodies)*) for hybrid composition shared by **CI-9.3.2** (*Authority composition*) and **CF-2.6** (*Chamber authority composition and service mechanics*), and keep operative checklists in the domain owner.
-> 3. When implementation files repeat the same joint interface paragraph, apply **CJS-4.3** (*Implementation boundary (domain owner to CJS seam)*) the same way: use a **one-line** pointer to **CJS-4** (*Specific joint interlocks and shared abstractions*), **CJS-2.2** (*Topic router (stable IDs)*), or the applicable **CJS-5** (*Implementation and cross-implementation operational cluster library*) cluster rather than duplicating OP clusters at length.
+> 1. Extend **CJS-2.1** (*Topic router (stable IDs)*) with new rows only when `doc_architecture.md` section 2 ownership or cross-file overlap changes; keep row IDs **stable** — append new IDs, do not renumber. When a row changes, update the **primary owner** and each **mandatory read-with** section so routing stays **bidirectional** (row ↔ owner ↔ read-with).
+> 2. When **CI**/**CF**/**CS** repeat the same joint interface paragraph, prefer a **one-line** pointer to the relevant CJS joint section, including **CJS-4.1** (*Mandatory hybrid authority composition (delegated binding bodies)*) for hybrid composition shared by **CI-9.3.2** (*Authority composition*) and **CF-2.6** (*Chamber authority composition and service mechanics*), and keep operative checklists in the **primary owner**.
+> 3. When implementation files repeat the same joint interface paragraph, apply **CJS-4.3** (*Implementation boundary (primary owner to CJS seam)*) the same way: use a **one-line** pointer to **CJS-4** (*Specific joint interlocks and shared abstractions*), **CJS-2.1** (*Topic router (stable IDs)*), or the applicable **CJS-5** (*Implementation and cross-implementation operational cluster library*) cluster rather than duplicating OP clusters at length.
 > 4. Run `make reference-audit` after substantive cross-file moves.
 > 5. Where a new high-level joint abstraction is added, verify it remains **Tier 1 only** with no owner-mechanics migration, and record the duplicate-taxonomy risk in the active review notes until the deferred regression path is reinstated.
 
@@ -133,7 +133,7 @@ These are the stable section families for the CJS folder:
 
 *In plain terms: when systems, institutions, and forum rules all land on the same facts, read **CJS-1** in the next file — not this registry section.*
 
-Apply [cjs_01_scope_purpose_boundary_interface.md](cjs_01_scope_purpose_boundary_interface.md) **CJS-1.1** (*Joint structural boundary and owner discipline*) and **CJS-1.2** (*Shared implementation-corpus preamble contract*). For read order, stricter-wins, joint obligations, integrity routing, and emergency layering, follow the **CJS-1.2** authority-stack and routing bullets and the **CJS-2**, **CJS-3**, **CJS-4.4**, and **CJS-5** sections they name.
+Apply [cjs_01_scope_purpose_boundary_interface.md](cjs_01_scope_purpose_boundary_interface.md) **CJS-1.1** (*Joint structural boundary and owner discipline*) and **CJS-1.2** (*Shared implementation-corpus preamble contract*). For read-with routing, stricter-wins, joint obligations, integrity routing, and emergency layering, follow the **CJS-1.2** authority-stack and routing bullets and the **CJS-2.1**, **CJS-3**, **CJS-3.6**, **CJS-4.4**, and **CJS-5** sections they name.
 
 ---
 

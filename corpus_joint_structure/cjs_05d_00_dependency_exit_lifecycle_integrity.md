@@ -2,9 +2,9 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.2](cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.2](cjs_02_implementation_integration_map.md#cjs-22-topic-router-stable-ids) topic router; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
+- Upstream: [CJS-1.2](cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
 - Downstream: this section's local operational requirements for **CJS-5D: Dependency, exit, and lifecycle integrity**.
-- Read with: [CJS-1.2](cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.2](cjs_02_implementation_integration_map.md#cjs-22-topic-router-stable-ids) topic router.
+- Read with: [CJS-1.2](cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router.
 
 </details>
 
@@ -34,7 +34,7 @@ This family collects the operational clusters that govern dependency mapping, me
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.2](cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.2](cjs_02_implementation_integration_map.md#cjs-22-topic-router-stable-ids) topic router; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
+- Upstream: [CJS-1.2](cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
 - Downstream: this section's local operational requirements for **CJS-5D.1 Implementation and cross-implementation dependency integrity and disclosure terms**.
 - Read with: **CJS-5D.1**; **CJS-5C.4**; **CJS-5D.2**; **CJS-5B.2**; **CJS-5E.5 and CJS-5B.1**; **CI-11**.
 
@@ -54,6 +54,9 @@ This family collects the operational clusters that govern dependency mapping, me
 </details>
 
 <br>
+
+
+**Router read:** Mandatory read-with for **CJS-R17** (*Cross-implementation trust integrity (joint operation model)*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CJS-4.4**.
 
 Use this rule when dependency mapping, risk treatment, or accountability depends on standalone system behavior or combined system, dependency, or implementation-layer behavior.
 
@@ -114,15 +117,12 @@ Monitoring cadence, map adequacy, and anti-evasion structure
 Proportional application
 - OP-O: The more harm a dependency failure could cause, and the more sentients or systems rely on it, the stronger the mapping, disclosure, monitoring, and mitigation duties must be.
 - OP-E: Reviewers must make sure simplified controls for lower-risk systems do not hide a real material exposure.
-- OP-C: A simplified dependency process is non-compliant if important risks still exist but are not disclosed, monitored, or addressed.
-
----
-
+- OP-C: A simplified dependency process is non-compliant if important risks still exist but are not disclosed, monitored, or addressed.---
 ## CJS-5D.2 Implementation and cross-implementation interoperability, portability, and exit-integrity terms
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.2](cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.2](cjs_02_implementation_integration_map.md#cjs-22-topic-router-stable-ids) topic router; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
+- Upstream: [CJS-1.2](cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
 - Downstream: this section's local operational requirements for **CJS-5D.2 Implementation and cross-implementation interoperability, portability, and exit-integrity terms**.
 - Read with: **CJS-5D.2**; **CJS-5D.1**; **CJS-5C.4**; **CI-12.3**.
 
@@ -142,6 +142,9 @@ Proportional application
 </details>
 
 <br>
+
+
+**Router read:** Mandatory read-with for **CJS-R17** (*Cross-implementation trust integrity (joint operation model)*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CJS-4.4**.
 
 Use this rule when lock-in, migration, interface design, or dependency exposure depends on standalone system behavior or combined system, dependency, or implementation-layer behavior.
 
@@ -173,7 +176,7 @@ Right-to-exit pathway integrity
 Digital self-service pathway integrity
 - OP-O: User-facing digital self-service pathways through which parties start, manage, continue or renew, downgrade, transfer, or exit commitments or ongoing obligations must preserve meaningful entry, management, and exit within the same channel class where feasible. This includes enrollment, account or preference changes, upgrades and downgrades in obligation level, fee or billing management where charges apply, renewal or continuation handling, withdrawal, cancellation, and release from ongoing obligation.
 - OP-E: Evaluation must compare entry, obligation-increasing, ongoing-management, renewal, downgrade, and exit paths together, including step count, elapsed time, cognitive burden, mediation mode, discoverability, label accuracy, accessibility parity, retention flows, operator-held artifacts, and evidence of obligation release or billing cessation where applicable.
-- OP-C: A pathway is non-compliant if it substitutes choice architecture for informed consent; makes exit, downgrade, renewal control, or obligation management materially harder than entry without a narrow documented exception; requires telephone, postal mail, or in-person-only exit where comparable entry was self-service without a justified basis; hides exit behind unrelated tasks; mislabels continued obligations or charges; uses deceptive urgency, guilt, fear, or repetitive refusal cycles as the primary retention tactic; or denies substantive accessibility parity for exit and obligation management. Where recurring or transaction-linked charges apply, this rule is read with the domain owner's billing-integrity requirements.
+- OP-C: A pathway is non-compliant if it substitutes choice architecture for informed consent; makes exit, downgrade, renewal control, or obligation management materially harder than entry without a narrow documented exception; requires telephone, postal mail, or in-person-only exit where comparable entry was self-service without a justified basis; hides exit behind unrelated tasks; mislabels continued obligations or charges; uses deceptive urgency, guilt, fear, or repetitive refusal cycles as the primary retention tactic; or denies substantive accessibility parity for exit and obligation management. Where recurring or transaction-linked charges apply, this rule is read with the **primary owner**'s billing-integrity requirements.
 
 Commitment, renewal, and charge-exit integrity
 - OP-O: Paid commitments, renewals, trial-to-paid conversions, recurring charges, subscriptions, memberships, paid tiers, and transaction-linked charges must rest on affirmative, informed commitment where material, must disclose amount, timing, renewal, bundled entitlements, and exit consequences before commitment, and must honor a valid cancellation, downgrade, or withdrawal instruction through the published pathway.
@@ -233,15 +236,12 @@ Continuity-preserving transition safeguards
 Proportional application
 - OP-O: Interoperability, portability, and exit duties scale with impact, dependency, ecosystem integration, and lock-in irreversibility.
 - OP-E: Evaluation must verify reduced rigor does not create hidden dependencies or external lock-in effects.
-- OP-C: Simplified controls are non-compliant where material lock-in remains.
-
----
-
+- OP-C: Simplified controls are non-compliant where material lock-in remains.---
 ## CJS-5D.3 Implementation and cross-implementation data-retention and lifecycle-integrity terms
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.2](cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.2](cjs_02_implementation_integration_map.md#cjs-22-topic-router-stable-ids) topic router; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
+- Upstream: [CJS-1.2](cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
 - Downstream: this section's local operational requirements for **CJS-5D.3 Implementation and cross-implementation data-retention and lifecycle-integrity terms**.
 - Read with: **CJS-3.5**; **CJS-5B.2**; **CJS-5B.3**; **CJS-5B.4**; **CJS-5E.3 and CJS-5D.3**; **CJS-5E.5 and CJS-5B.1**.
 
@@ -261,6 +261,9 @@ Proportional application
 </details>
 
 <br>
+
+
+**Router read:** Mandatory read-with for **CJS-R17** (*Cross-implementation trust integrity (joint operation model)*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CJS-4.4**.
 
 Use this rule when accountability, privacy, reversibility, or classification depends on how data is kept, changed, linked, or deleted within a standalone system, institution, forum, or bounded decision domain, or across more than one system or implementation layer.
 

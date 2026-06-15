@@ -2,7 +2,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.2](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-22-topic-router-stable-ids) topic router; [Chapter Nine](../core_09-09_forum.md#chapter-nine-forums-and-jurisdiction) forum-family routing; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
+- Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Nine](../core_09-09_forum.md#chapter-nine-forums-and-jurisdiction) forum-family routing; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
 - Downstream: [CF-9.1 Basic rule](#cf-91-basic-rule); [CF-9.2 Purpose](#cf-92-purpose); [CF-9.3 Core functions](#cf-93-core-functions); [CF-9.4 Required chamber coverage](#cf-94-required-chamber-coverage); [CF-9.5 Optional additional chambers](#cf-95-optional-additional-chambers); [CF-9.6 Routing and limits](#cf-96-routing-and-limits); [CF-9.7 Standard-setting constraints](#cf-97-standard-setting-constraints); [CF-9.8 Shared standards and decentralized enforcement](#cf-98-shared-standards-and-decentralized-enforcement); [CF-9.9 Institutional-forum interface](#cf-99-institutional-forum-interface); [CF-9.10 Departure and variance](#cf-910-departure-and-variance); [CF-9.11 Cross-jurisdiction recognition](#cf-911-cross-jurisdiction-recognition); [CF-9.12 Educational materials and textbook disputes](#cf-912-educational-materials-and-textbook-disputes); [CF-9.13 Independence and composition](#cf-913-independence-and-composition); [CF-9.14 Research and uncertainty-reduction authority](#cf-914-research-and-uncertainty-reduction-authority); [CF-9.15 Publication and review governance](#cf-915-publication-and-review-governance).
 - Read with: **CF-9**; **CF-9.1**; **CF-9.2**; **CF-9.3**; **CF-9.4**; **CF-9.5**; **CF-9.6**; **CF-9.7**; **CF-9.8**; **CF-9.9**; **CF-9.10**; **CF-9.11**; **CF-9.12**; **CF-9.13**; **CF-9.14**; **CF-9.15**.
 
@@ -23,6 +23,8 @@
 
 <br>
 
+
+**Router read:** Primary owner for **CJS-R09** (*Technical forums and specialist chambers*) in **CJS-2.1** (*Topic router (stable IDs)*). Mandatory read-with: **CI-17**.
 
 ### CF-9.1 Basic rule
 
