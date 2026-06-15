@@ -55,9 +55,7 @@ Apply `corpus_joint_structure.md` **CJS-5B.1** (*Implementation and cross-implem
 
 <br>
 
-At least annually, each institution must publish whether material controls are operating effectively. When controls fail or the shared declaration chain applies, apply `corpus_joint_structure.md` **CJS-5B.1** (*Implementation and cross-implementation integrity assurance and resilience operations*) **Control-failure declaration chain** for the shared failure, impact, containment, remediation, and safeguard-mode floor.
-
-**CI-7.1** states only the institutional publication cadence, lane identification under **`INST-PROTO-11`** and **`INST-PROTO-17`**, accountable publishing authority, and supervised-system supporting-packet duties proportionate to class and dependency. See `implementation/SYSTEMS_IMPLEMENTATION_TEMPLATES_2026-04-13.md` for reusable implementation templates covering system cards, model cards, post-deployment monitoring cadence, incident reporting bundles, and material control-failure disclosure packets.
+At least annually, each institution must publish whether material controls are operating effectively. When controls fail, apply **CJS-5B.1** **Control-failure declaration chain** for the shared floor. **CI-7.1** states only publication cadence, **`INST-PROTO-11`** / **`INST-PROTO-17`** lane identification, accountable publishing authority, and supervised-system supporting-packet duties. See `implementation/SYSTEMS_IMPLEMENTATION_TEMPLATES_2026-04-13.md` for reusable disclosure templates.
 
 ### CI-7.2: External assurance triggers
 <details>
@@ -115,19 +113,11 @@ Institutional trigger criteria must be documented and published. They must state
 
 <br>
 
-Apply `corpus_joint_structure.md` **CJS-5B.1** (*Implementation and cross-implementation integrity assurance and resilience operations*) for the shared contest-integrity pathway chain and the class-scaled contest-monitor independence and mandate floor; apply **CJS-5A.6** (*Implementation and cross-implementation procedural integrity and adjudication terms*) for procedural read-with terms. **CI-7.3** states only the institutional monitor designation, local appointment/conflict routing, record-access, three-lines attestation, output, security-power emphasis, and forum-boundary duties.
+Apply `corpus_joint_structure.md` **CJS-5B.1** (*Implementation and cross-implementation integrity assurance and resilience operations*) for the shared contest-integrity pathway chain and the class-scaled contest-monitor independence and mandate floor; apply **CJS-5A.6** (*Implementation and cross-implementation procedural integrity and adjudication terms*) for procedural read-with terms. **CI-7.3** states only the institutional monitor designation, appointment/conflict routing, local monitor file, three-lines attestation interface, output duty, security-power file, and forum-boundary duties for covered **Class A** or **Class B** supervised scope.
 
-**Institutional application.** For covered **Class A** or **Class B** supervised scope, institutions must assign the local monitor through the independent assurance line or an equivalent documented arrangement. The local file must name the covered decisions, contest-pathway records, protected escalation paths, and attestation artifacts within the institution's mandate. **CI-4** (*Appointment, competency, rotation, and removal*) and **CI-5** (*Conflict integrity, anti-capture, and anti-corruption*) govern institutional appointments, conflicts, and recusal; **CI-6**, **CI-8**, **CI-12**, **`INST-PROTO-11`**, **`INST-PROTO-12`**, and **`INST-PROTO-24`** govern the local route, record, escalation, and attestation interfaces.
+The local monitor file must name the covered decisions, contest-pathway records, protected escalation paths, attestation artifacts, appointing authority, record access, and institution-specific exclusions or escalation duties not already supplied by **CJS-5B.1**. Read **CI-4** (*Appointment, competency, rotation, and removal*), **CI-5** (*Conflict integrity, anti-capture, and anti-corruption*), **CI-6**, **CI-8**, **CI-12**, **`INST-PROTO-11`**, **`INST-PROTO-12`**, and **`INST-PROTO-24`** for local appointment, conflict, route, record, escalation, and attestation interfaces.
 
-Institutions must designate one or more **contest-integrity monitors** (titles may include inspector, ombud, or equivalent). The local mandate must identify the institutional role, appointing authority, record access, three-lines attestation interface, and any institution-specific exclusions or escalation duties not already supplied by **CJS-5B.1**.
-
-**Outputs.** Findings must be **auditable**; **material** contest-integrity failures must feed **remediation** and may invoke **`INST-PROTO-17`**.
-
-**Article XIII-A local file.** Where institutions exercise or supervise covert, secrecy-constrained, intelligence-like, or politically sensitive security powers, the monitor file must preserve pathway-use evidence and exception records sufficient for **CJS-5B.1** review without restating the underlying Article XIII-A rule set.
-
-**Forum forensic-support boundary.** Institutions that operate, host, fund, or materially support Chapter Nine forum families must satisfy `corpus_forum.md` **CF-7** (*Forum forensic and analytical support*) in full. Contest-integrity monitoring under this subsection remains structural and must not become case-specific forensic support, merits adjudication, or a substitute for the forum record.
-
-Where forum routing or backup activation is implicated, the institutional file preserves transfer records for the assigned path without displacing the merits forum.
+**Outputs and boundaries.** The local file must preserve auditable findings, **INST-PROTO-17** remediation linkage for material failures, pathway-use evidence for Article XIII-A scope without restating that rule set, **CF-7** satisfaction where forum families are supported, and transfer records where forum routing or backup activation is implicated. Contest-integrity monitoring remains structural and must not become merits adjudication or a substitute forum record.
 
 ---
 

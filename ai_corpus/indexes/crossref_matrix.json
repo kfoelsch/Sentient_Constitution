@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/crossref_matrix.schema.json",
-  "generated_at": "2026-06-15T08:43:24+00:00",
+  "generated_at": "2026-06-15T08:57:17+00:00",
   "description": "Source-derived file-to-file Markdown reference graph.",
   "graph": {
     "nodes": [
@@ -5183,7 +5183,7 @@
         "targets": [
           {
             "file": "core_05-05_definitions_a_independent.md",
-            "count": 29,
+            "count": 26,
             "anchors": [
               "#chapter-five-foundational-definitions",
               "#contingent-claim",
@@ -5192,7 +5192,6 @@
               "#event-contract-market",
               "#event-contract-market-c",
               "#event-contract-market-e",
-              "#game-of-chance",
               "#incentive-alignment",
               "#incentive-alignment-c",
               "#incentive-alignment-e",
@@ -5206,7 +5205,7 @@
           },
           {
             "file": "core_05-05_definitions_b_semi_independent.md",
-            "count": 25,
+            "count": 24,
             "anchors": [
               "#accountability",
               "#accountability-c",

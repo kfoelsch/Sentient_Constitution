@@ -24,9 +24,7 @@
 <br>
 
 
-Where institutions share jurisdiction, evidence custody, review responsibility, enforcement support, investigative interface, or forum-adjacent routing, they must maintain a published coordination and escalation protocol. The shared coordination, deadlock, backup-routing, and cross-forum anti-self-judging chain is governed by `corpus_joint_structure.md` **CJS-5B.1** (*Implementation and cross-implementation integrity assurance and resilience operations*), read with **CJS-R16** (*Cross-institution coordination, deadlock, and escalation*).
-
-Institutional protocols must name the local roles, records, deadlines, authorized escalation triggers, stakeholder-facing publication rules, and accountable owners needed to make the **CJS-5B.1** chain usable in the institution's own scope. Where **CF-8** (*Independent investigative service and prosecution interface*) or Chapter Nine backup routing is triggered, the institution must preserve reasoned transfer records and cooperate with the lawful backup body without using local institutional narration as a substitute for forum-owner procedure.
+Where institutions share jurisdiction, evidence custody, review responsibility, enforcement support, investigative interface, or forum-adjacent routing, apply `corpus_joint_structure.md` **CJS-5B.1** **Cross-institution coordination and escalation chain** for the shared floor. **CI-8** states only the local protocol owner, role map, record, deadline, escalation-trigger, publication, and **CF-8** / Chapter Nine backup-routing duties.
 
 External-order interactions must remain consistent with constitutional change and supremacy rules in `core_12-14_amendment.md` **Chapters Twelve through Fourteen**.
 

@@ -24,9 +24,9 @@
 <br>
 
 
-Procedure rules here must remain consistent with **Chapter Five** (*Procedural Fairness*, *Contestability*, *Accountability*, *Redress and Remediation*) and with `core_02-04_definition_mechanics.md` **Chapter Four** verification and traceability rules. Shared procedural terms, including **representative treatment**, **common decision rule**, due-process minimums, independent review, and proportional procedure scaling, are supplied by `corpus_joint_structure.md` **CJS-4.7** (*Shared procedural abstractions for delegated bodies and forum routing*) and **CJS-5A.6** (*Implementation and cross-implementation procedural integrity and adjudication terms*). This chapter does not create a second offense-classification system.
+Apply `corpus_joint_structure.md` **CJS-4.7** and **CJS-5A.6** for shared procedural terms, including representative treatment, common decision rule, due-process minimums, independent review, and proportional procedure scaling. **CI-6** states only the institutional procedure-map owner, record source, challenge route, publication cadence, and forum-expansion record duties. This chapter does not create a second offense-classification system.
 
-Institutional procedure maps must identify the local owner for each required step, the record source that shows compliance, the route for invoking challenge rights, and any institution-specific publication or secondary-review cadence. Where an institution asks a forum or adjudicative body to expand a case beyond the original claimant, the institutional record must identify the proposed shared question or common decision rule, affected scope, notice owner, contest route, and any subclassing or issue-separation need under **CJS-5A.6**.
+Institutional procedure maps must name the local owner for each required step, the record source showing compliance, the challenge route, and any institution-specific publication or secondary-review cadence. Where a forum or adjudicative body is asked to expand a case beyond the original claimant, the record must identify the proposed shared question, affected scope, notice owner, contest route, and issue-separation need under **CJS-5A.6**.
 
 ---
 

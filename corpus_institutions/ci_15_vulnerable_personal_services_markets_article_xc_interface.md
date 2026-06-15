@@ -28,27 +28,27 @@
 - Topic-level routing and cited authorities remain in subsection text and cross-references.
 - Canonical owner map: `corpus_joint_structure.md` **CJS-2.2** (*Topic router (stable IDs)*) and `doc_architecture.md` section 4.
 
-**Purpose.** This section records the institutional application of **Chapter Ten**, **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*) for local authorization, enforcement separation, transition records, and remedy routing. It does **not** restate constitutional rights. Rights meaning remains in **Chapter Ten** (**Articles X-C, X-A, V-B, I-C, IV-A, IV-C**) and **Chapter Five** (**Protected Characteristics**; **Consent**; **Coercion and Manipulation**). Shared cross-implementation pathway integrity for lawful personal-service markets is governed by `corpus_joint_structure.md` **CJS-5D.2** (*Implementation and cross-implementation interoperability, portability, and exit-integrity terms*) **High-vulnerability personal-service pathway integrity**.
+**Purpose.** This section records the institutional application of **Chapter Ten**, **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*) for local authorization, enforcement separation, transition records, and remedy routing. It does **not** restate constitutional rights. Apply `corpus_joint_structure.md` **CJS-5D.2** **High-vulnerability personal-service pathway integrity** for the shared floor. **CI-15** states only the local Article X-C application file duties.
 
-**Default local frame.** Article X-C instruments must name the lawful-service regulatory family used, any documented differentiation from comparable lawful activity, and the local office responsible for the **CJS-5D.2** application record.
+**Default local frame.** Article X-C instruments must name the lawful-service regulatory family used, any documented differentiation from comparable lawful activity, and the local office responsible for the application record.
 
-**1. Criminal decriminalization and non-penal instruments.** Local Article X-C instruments must distinguish decriminalized protected conduct from the civil, administrative, licensing, commercial, exploitation, consent-defect, fraud, privacy, harassment, and unfair-term paths that remain available. They must publish the predicate, responsible office, and local file for any non-penal restriction.
+**1. Criminal decriminalization and non-penal instruments.** Local instruments must distinguish decriminalized protected conduct from remaining civil, administrative, licensing, commercial, exploitation, consent-defect, fraud, privacy, harassment, and unfair-term paths. They must publish the predicate, responsible office, and local file for any non-penal restriction.
 
-**2. Coercion, fraud, and invalid consent in paid exchange.** Institutions must publish the local intake, case-file, support, and remedy paths for **coercion**, **material deceit**, **abuse of dependence**, **incapacity**, and **non-consensual** acts. This section supplies the local Article X-C routing and enforcement separation for the **CJS-5D.2** high-vulnerability pathway floor.
+**2. Coercion, fraud, and invalid consent in paid exchange.** Institutions must publish the local intake, case-file, support, and remedy owners for **coercion**, **material deceit**, **abuse of dependence**, **incapacity**, and **non-consensual** acts.
 
-**3. Risk-tiered due care.** Institutions must keep the local due-care record for applying **CJS-5D.2**: documented risk basis, any class/tier treatment where intermediaries are material, and the challenge route for disproportional, stereotype-based, or morality-based differentiation.
+**3. Risk-tiered due care.** Institutions must keep the local due-care record: documented risk basis, class/tier treatment where intermediaries are material, and challenge route for disproportional, stereotype-based, or morality-based differentiation.
 
-**4. Non-criminal remedies and local pathway publication.** The institutional record under this section must identify the local intake owner, remedy venue, publication form, and escalation route for applying **CJS-5D.2**. Read also with **Article X-A** (*Non-Imposition and Consent in Association*), **Article XII-C** (*Prohibition of False Trust and Misleading Reliance*) where reliance is induced, and **CI-12.3** (*Digital self-service pathway integrity*) where digital self-service pathways apply.
+**4. Non-criminal remedies and local pathway publication.** The local record must identify the intake owner, remedy venue, publication form, and escalation route. Read **Article X-A**, **Article XII-C** where reliance is induced, and **CI-12.3** where digital self-service pathways apply.
 
-**5. Intermediaries and supervised dependencies.** **Matching**, **scheduling**, **payments**, **reputation**, and **visibility** intermediaries with **material** dependency or **info-sphere** effects must have a local owner, class/tier treatment where applicable, and assurance route for applying **CJS-5D.2**.
+**5. Intermediaries and supervised dependencies.** Matching, scheduling, payments, reputation, and visibility intermediaries with **material** dependency or **info-sphere** effects must have a local owner, class/tier treatment where applicable, and assurance route.
 
-**6. Separation of lanes and anti-pretext check.** Institutions must publish the local separation map for Article X-C policy, training, metrics, enforcement, exploitation response, and survivor-accessible reporting. The local file must identify the office responsible for checking anti-X-C pretext against lawful participants and decriminalization-based neglect of exploitation, trafficking, coercion, child sexual exploitation, and non-consensual conduct.
+**6. Separation of lanes and anti-pretext check.** Institutions must publish the local separation map for Article X-C policy, training, metrics, enforcement, exploitation response, and survivor-accessible reporting, plus the office responsible for anti-pretext review.
 
-**7. Workplace parity, housing, licensing, and transition.** Where the **decriminalization floor** applies, the local Article X-C instrument must publish the labor-safety, retaliation, housing, licensing, and anti-discrimination routes used to apply **CJS-5D.2**. Institutional contest and access routes remain in **CI-6** (*Procedure integrity, contestability, and secondary review*) and **CI-12** (*Transparency, participation, and accessible pathways*).
+**7. Workplace parity, housing, licensing, and transition.** Where the decriminalization floor applies, the local instrument must publish labor-safety, retaliation, housing, licensing, and anti-discrimination route owners. Contest and access routes remain in **CI-6** and **CI-12**.
 
-Institutions should publish **phased** **transition** plans that include effective dates aligned with **Article X-C**, the local record-relief owner for conduct no longer criminal, retraining against repealed norms, and ongoing-case relief review where consistent with law.
+Institutions should publish phased transition plans naming effective dates, the record-relief owner for conduct no longer criminal, retraining against repealed norms, and ongoing-case relief review where consistent with law.
 
-**Scaling.** **High-impact** regulatory scope requires **stronger** publication, **contest**, and **independent review** than **localized** scope, consistent with **CI-9** (*Classification-linked institutional obligations*) proportionality themes.
+**Scaling.** High-impact regulatory scope requires stronger publication, contest, and independent-review duties than localized scope, consistent with **CI-9** proportionality themes.
 
 ---
 

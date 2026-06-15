@@ -24,29 +24,22 @@
 <br>
 
 
-**Purpose and owner boundary.** This section governs institutional custody, funding, ranking, archival, reliance, and review mechanics for scientific and scholarly claims brought within constitutional scope. Constitutional meaning remains in **Sentient Constitution Chapter Ten, Article XVII-E** (*Scientific Publication, Review, and Replication Integrity*) and relevant **Chapter Five** definitions. **CI-17** supplies only the institutional record, evidence-package, conflict-control, reliance-gate, correction, access, incentive, and appeal mechanics needed to make those anchors operable.
+Apply `corpus_joint_structure.md` **CJS-5B.4** for shared claim-testing, review, reliance, correction, and incentive-integrity floors. **CI-17** states only the institutional owner files needed to make **Article XVII-E** operable.
 
-**Default institutional application.** Institutional owner duties here are limited to naming the publication, curation, funding, archive, reputation, and reliance offices used to apply **CJS-5B.4**, plus the local bundling file where those functions are combined.
+**1. Publication intake and versioned record.** The local publication file must preserve versioned intake, revision, correction, withdrawal, retraction, and supersession records with accountable authorship or sponsorship. Any intake limit, hold, confidentiality treatment, or biosafety constraint must identify its **Article XVII-E** basis and the narrower lawful exception applied.
 
-**1. Publication intake and versioned record.** Institutions must preserve a versioned record of submissions, revisions, corrections, withdrawals, retractions, and superseding updates, with clear timestamps and accountable authorship or sponsorship. Any intake limit, hold, confidentiality treatment, biosafety constraint, or comparable safeguard must identify its **Article XVII-E** basis and the narrower lawful exception applied.
+**2. Publication owner files.** The responsible offices must maintain:
+- evidence-package status and visible marks for preliminary or non-verifying claims;
+- review record format for reliance, correction, appeal, and specialist consultation;
+- reviewer custody records for selection, recusal, funding ties, and editorial intervention;
+- publication challenge lane and reliance-status record before durable institutional reliance;
+- correction audit trail and exception record for narrower privacy, security, or safety limits;
+- access rule, archival custodian, restriction basis, and review date for publicly funded work;
+- incentive criteria record for publication-related hiring, promotion, grantmaking, ranking, and standing decisions.
 
-**2. Evidence package status.** For material empirical, analytical, or methodological claims, apply `corpus_joint_structure.md` **CJS-5B.4** **Structured claim-testing, reliance, and correction integrity** and **Structured review and incentive-integrity floor**. CI-17 adds the institutional publication file: the responsible office must identify the evidence-package status and visibly mark claims that are preliminary, incomplete, or non-verifying.
+**3. Specialized oversight and appeal.** Institutions must maintain a dedicated ombuds or review lane office, separation safeguard, secondary-review path, and **CI-6** (*Procedure integrity, contestability, and secondary review*) / **CI-8** (*Cross-institution coordination and escalation*) escalation route for publication suppression, conflict, retaliation, data-access, and retraction disputes.
 
-**3. Review record.** Structured review dimensions and reliance consequences are governed by `corpus_joint_structure.md` **CJS-5B.4**. CI-17 adds the institutional record format needed for Article XVII-E reliance, correction, appeal, and specialist consultation.
-
-**4. Reviewer custody records.** Review identity modes, conflict controls, editorial override records, and reviewer-independence expectations follow `corpus_joint_structure.md` **CJS-5B.4**. CI-17 adds the institutional custody duty to preserve reviewer selection, recusal, funding-tie, editorial-intervention, and substantive-review records for qualified inspection, retaliation review, and appeal.
-
-**5. Reliance status and challenge lane.** The shared reliance and challenge floor is governed by `corpus_joint_structure.md` **CJS-5B.4**. CI-17 adds the institutional duty to maintain the publication challenge lane and record reliance status before durable institutional reliance on high-impact claims.
-
-**6. Correction, retraction, and supersession integrity.** Correction-history and supersession integrity follow `corpus_joint_structure.md` **CJS-5B.4**. CI-17 adds the local audit-trail preservation duty and the exception record for any narrower privacy, security, or safety limit.
-
-**7. Public funding and access defaults.** Work materially funded by public institutions, public mandates, levy-funded pools, or constitutionally recognized commons mechanisms should default to immediate open access and durable archiving. Institutions must publish the access rule, archival custodian, restriction basis, and review date for any narrower privacy, security, biosafety, or comparable limit.
-
-**8. Incentives, standing, and anti-prestige capture.** Anti-prestige and incentive-integrity rules for claim reliance are governed by `corpus_joint_structure.md` **CJS-5B.4**. CI-17 adds the institutional criteria record for publication-related hiring, promotion, grantmaking, ranking, and standing decisions.
-
-**9. Specialized oversight and appeal.** Institutions using this section must maintain a dedicated review or ombuds lane for publication suppression claims, conflict complaints, retaliation against reviewers or replicators, data-access disputes, and retraction or correction contests. The local file must identify the lane office, separation safeguard, secondary-review path, and cross-institution escalation under **CI-6** (*Procedure integrity, contestability, and secondary review*) and **CI-8** (*Cross-institution coordination and escalation*).
-
-**10. Technical-forum interface.** Where disputes implicate publication suppression, replication denial, correction refusal, manipulation of scientific standing, technical standards maintenance, or comparable science, engineering, medical, or knowledge-governance questions, institutions must publish the `corpus_forum.md` **CF-9** consultation or referral route. CF-9 support must not displace the primary-stakes route assigned by Chapter Nine.
+**4. Technical-forum interface.** Where disputes implicate publication suppression, replication denial, correction refusal, scientific-standing manipulation, or comparable technical questions, institutions must publish the `corpus_forum.md` **CF-9** consultation or referral route without displacing the Chapter Nine primary-stakes route.
 
 ---
 

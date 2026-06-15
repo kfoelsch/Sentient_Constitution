@@ -24,13 +24,13 @@
 <br>
 
 
-**Purpose and owner boundary.** This section states the institutional stewardship of community infrastructure, voluntary association, recreation, solitude, and non-productive time. The shared participation, association, and hostile-design floor lives in `corpus_joint_structure.md` **CJS-5C.1** (*Community and associational pathway integrity*). CI-18 states only local funding, zoning, licensing, stewardship, and escalation applications; it does not create a forced-belonging mandate, surveillance entitlement, or state-approved community form.
+Apply `corpus_joint_structure.md` **CJS-5C.1** (*Community and associational pathway integrity*). **CI-18** states only local stewardship, program, referral, and escalation owner duties.
 
-**1. Civic and social infrastructure.** Institutions should apply **CJS-5C.1** when they fund, zone, license, or steward third places, libraries, commons, parks, clubs, digital town squares, and meeting infrastructure. Local controls remain under **CI-5**, **CI-9**, and **CI-12**; productivity-only allocation that starves non-instrumental time or association without **Necessity** remains non-compliant with **Chapter One §6.1.4** read with **Article III-D**.
+**1. Civic and social infrastructure.** Name the local owner for third places, libraries, commons, parks, clubs, and meeting infrastructure. Read **CI-5**, **CI-9**, and **CI-12** for local control interfaces.
 
-**2. Voluntary association and non-compelled social life.** CI-18 applies the **CJS-5C.1** floor to local community programs and requires referral to **CI-22** or **CI-21** where exclusion, caste-like local hierarchy, gendered burden-shifting, or informal coercion appears in community form.
+**2. Voluntary association.** Name the local program owner and referral route to **CI-22** (*Commons, cooperatives, mutual aid, and non-market community governance*) or **CI-21** (*Relational coercive control, intimate power, and anti-domination routing*) where exclusion, hierarchy, gendered burden-shifting, or informal coercion appears.
 
-**3. Digital and physical hostile design.** Institutions should route local hostile-design patterns through **CJS-5C.1** and, when capture or retaliation is indicated, to **`corpus_systems.md` Chapter S2** section **9** plus **CI-6** / **CI-8** escalation.
+**3. Hostile design.** Name the local escalation owner for digital and physical hostile-design patterns; when capture or retaliation is indicated, route through **`corpus_systems.md` Chapter S2** section **9** plus **CI-6** / **CI-8**.
 
 ---
 

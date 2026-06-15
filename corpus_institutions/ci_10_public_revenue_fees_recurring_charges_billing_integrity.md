@@ -51,11 +51,9 @@ This chapter collects **class-aligned fiscal orientation** and **recurring-charg
 
 <br>
 
-This subsection states the institutional application of the shared class-aligned revenue and access-burden floor in `corpus_joint_structure.md` **CJS-5A.4** (*Implementation and cross-implementation burden-of-justification and constraint terms*). It does **not** specify tax bases, rates, credits, enforcement, or cross-border rules; those remain **governing law** outside this file.
+This subsection states the institutional application of `corpus_joint_structure.md` **CJS-5A.4** (*Implementation and cross-implementation burden-of-justification and constraint terms*) **Class-aligned revenue and access-burden floor**. It does **not** specify tax bases, rates, credits, enforcement, or cross-border rules.
 
-Institutions and adopting authorities with fiscal discretion must publish the local fiscal map for governed scope: covered revenue measures, responsible owner, affected class or tier, protected baseline access surface, any commercial or premium charge surface, and the review route for misclassification or drift toward essentiality. Where recurring or transaction-linked charges are supervised, the map must identify the **CI-10.2** and **CI-12.3** billing / self-service owner rather than restating those pathway rules here.
-
-For **Class A**, **Class B**, or **Class C** interfaces, institutional publications must identify the local constrained-capacity priority owner and the reporting channel for `corpus_systems.md` **Protocol S5** revenue-allocation records. Those records must be sufficient for **Article XV-A** auditability and challenge.
+**CI-10.1** states only the fiscal-map owner, constrained-capacity priority owner, and **Protocol S5** revenue-allocation reporting channel for governed scope. Where recurring charges are supervised, the map must identify the **CI-10.2** and **CI-12.3** billing and self-service owners rather than restating those pathway rules.
 
 ### CI-10.2: Recurring charges, renewals, and commercial billing integrity
 <details>

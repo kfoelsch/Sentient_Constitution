@@ -56,11 +56,9 @@ Institutional transition interface (Article XXV interface):
 
 <br>
 
-Where transition plans address **non-compliant property or systems** under **Sentient Constitution Chapter Ten, Article XXV-D**, institutions must apply `corpus_joint_structure.md` **CJS-5B.1** (*Implementation and cross-implementation integrity assurance and resilience operations*) **Property-custody and incentive-separation control chain**.
+Apply `corpus_joint_structure.md` **CJS-5B.1** **Property-custody and incentive-separation control chain** for the shared floor. **CI-14.1** states only the local Article XXV-D role map: eligibility owner, custody body, incentive or payout adjudicator, enforcement executor, review authority, fund owner, notice channel, contest path, end-date authority, and **CI-5** (*Conflict integrity, anti-capture, and anti-corruption*) conflict-disclosure route. Measures must link to **Chapter Six** compliance determinations or equivalent binding findings.
 
-This subsection states the institutional interface only. Institutions must publish the local Article XXV-D role map: eligibility owner, custody body, incentive or payout adjudicator, enforcement executor, review authority, fund owner, notice channel where feasible, contest path, end-date authority, and conflict-disclosure route under **CI-5** (*Conflict integrity, anti-capture, and anti-corruption*). Measures must link to **Chapter Six** compliance determinations, read with **Chapter Four** burden and traceability where applicable, or equivalent binding findings.
-
-After material structural change, institutions must publish the local revalidation owner, evidence-custody route, class/tier calibration route, and continuity-test cadence. For **Class A**, **Class B**, and **Critical System Steward** scope, this record must connect to **`corpus_systems.md` Protocol A**, subsection **G** (*Governance continuity, crisis communications, and exercises*) and the **CI-11** supervisory interface.
+After material structural change, institutions must name the local revalidation owner, evidence-custody route, class/tier calibration route, and continuity-test cadence. For **Class A**, **Class B**, and **Critical System Steward** scope, the record must connect to **`corpus_systems.md` Protocol A** subsection **G** and the **CI-11** (*Resource stewardship and incentive integrity*) supervisory interface.
 
 ### CI-14.2: Article XXV-D — trigger catalog, anti-abuse metrics, and publication requirements
 <details>
