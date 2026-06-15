@@ -675,7 +675,7 @@ Those requirements protect shared infrastructure and the systems that depend on 
   - unused enforcement;
   - aggregation under federated structures used to evade.
   
-  See [Concentration Threshold](core_05-05_definitions_b_semi_independent.md#concentration-threshold-constitutional). This bullet only points to the principle-layer discipline; it does not create a new Rights-Floor and does not narrow **Article IV-A** or **Article IV-B**.
+  See **Concentration Threshold** (Chapter Five). This bullet only points to the principle-layer discipline; it does not create a new Rights-Floor and does not narrow **Article IV-A** or **Article IV-B**.
 
 ---
 

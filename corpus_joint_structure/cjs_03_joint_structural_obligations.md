@@ -98,7 +98,7 @@ Emergency or temporary narrowing is allowed only when it is published, clearly b
 
 <br>
 
-Roles that monitor, review pathway performance, provide forensic help, or support investigations must not make binding merits determinations within the meaning of [Merits Determination](../core_05-05_definitions_b_semi_independent.md#merits-determination) under [Chapter Nine](../core_09-09_forum.md#chapter-nine-forums-and-jurisdiction) and [Adjudication and Dispute Resolution](../core_05-05_definitions_b_semi_independent.md#adjudication-and-dispute-resolution-constitutional). The only exception is when a separate lawful instrument clearly gives a named role limited authority to decide merits issues.
+Roles that monitor, review pathway performance, provide forensic help, or support investigations must not make binding merits determinations within the meaning of [Merits Determination](../core_05-05_definitions_b_semi_independent.md#merits-determination) under [Chapter Nine](../core_09-09_forum.md#chapter-nine-forums-and-jurisdiction) and **Adjudication and Dispute Resolution**. The only exception is when a separate lawful instrument clearly gives a named role limited authority to decide merits issues.
 
 Institutions must publish what each role is allowed to do and what it is not allowed to decide. They must also state who the role reports to, how often it reports, and how it connects to assurance lanes. Oversight and support roles must not quietly take over merits decision-making assigned to a lawfully constituted forum family under **Chapter Nine**.
 
