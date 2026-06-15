@@ -217,7 +217,7 @@ Chambers must not be used to relabel one forum family as another, to erase famil
 
 - Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Nine](../core_09-09_forum.md#chapter-nine-forums-and-jurisdiction) forum-family routing; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
 - Downstream: this section's local operational requirements for **CF-3.6 Chamber authority composition and service mechanics**.
-- Read with: **CF-3.6**; **CF-3.5**; **CF-12**; **CF-13**; **CF-14**; **CJS-4.1**; **CJS-4.2**.
+- Read with: **CF-3.6**; **CF-3.5**; **CF-12**; **CF-13**; **CF-14**; **CJS-4.1**.
 
 </details>
 
@@ -236,13 +236,12 @@ Chambers must not be used to relabel one forum family as another, to erase famil
 
 <br>
 
-**Joint minimum.** Chamber-creation instruments in scope must satisfy **`corpus_joint_structure.md` CJS-4.1** (*Mandatory hybrid authority composition*). Read that joint rule with **CF-3.5** (*Chamber creation, identification, and family boundary*), this section, **CF-12** (*Forum continuity*), **CF-13** (*Fallback operation*), and **CF-14** (*Emergency adjudication*) for chamber identification, attachment bounds, home-based terms, and **forum** emergency deviation and return-to-baseline discipline.
+**Joint minimum.** Chamber-creation instruments in scope must satisfy **`corpus_joint_structure.md` CJS-4.1** (*Hybrid delegated authority (delegated binding bodies)*), including **CJS-4.1.1** (*Composition floor*) and **CJS-4.1.2** (*Attachment publication*). Read that joint package with **CF-3.5** (*Chamber creation, identification, and family boundary*), this section, **CF-12** (*Forum continuity*), **CF-13** (*Fallback operation*), and **CF-14** (*Emergency adjudication*) for chamber identification, attachment bounds, home-based terms, and **forum** emergency deviation and return-to-baseline discipline.
 
 Chamber-creation instruments must also state:
-- the chamber's **institutional design class** under `corpus_institutions.md` **CI-9.3** (*Delegated subunits, institutional design class, and attachment discipline*), using the highest applicable `corpus_systems.md` **Chapter S2** class in governed scope: **Class A** (*absolute dependency*), **Class B** (*operational dependency*), or **Class C** (*coordination dependency*);
+- the chamber's **institutional design class** under `corpus_institutions.md` **CI-9.3** (*Delegated subunits, institutional design class, and attachment discipline*), using the highest applicable `corpus_systems.md` **CS-4 — System classification and handling** class in governed scope: **Class A** (*absolute dependency*), **Class B** (*operational dependency*), or **Class C** (*coordination dependency*);
 - for every Chapter Nine forum family, forum, adjudicative body, internal chamber, division, or designated panel, at least the **Class C** (*coordination dependency*) floor for institutional design class, even if other governed systems are labeled below Class C;
-- the shared rotating-attachment formula required by **`corpus_joint_structure.md` CJS-4.2** (*bounded formula, no undefined duration discretion, and illustration status*), with **one calendar year** treated as the ordinary **maximum** for a single rotating attachment spell unless the instrument publishes a longer ceiling and a brief justification;
-- the shared home-based continuity rules required by **CJS-4.2** (*published term, renewal, or stagger rules, without requiring a mirror of rotating-attachment rules*);
+- the attachment-publication requirements in **CJS-4.1.2**, with **one calendar year** treated as the ordinary **maximum** for a single rotating attachment spell unless the instrument publishes a longer ceiling and a brief justification;
 - any stricter **Class A** or **Class B** assurance, external-participation, or publication requirement that applies through that institutional-design-class discipline when the chamber's governed scope reaches **absolute dependency** or **operational dependency** stakes.
 
 **Forum-specific rule.** This chamber-authority rule remains operative for **Chapter Nine** forum families and chambers. Where general delegated-subunit rules in **CI-9.3** (*Delegated subunits, institutional design class, and attachment discipline*) and forum-specific chamber-authority duties in this section overlap, the **stricter** rule governs. Forum-specific continuity, fallback, and emergency-adjudication controls remain in **CF-12** (*Forum continuity*), **CF-13** (*Fallback operation*), and **CF-14** (*Emergency adjudication*).

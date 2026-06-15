@@ -116,7 +116,7 @@ Apply `corpus_joint_structure.md` **CJS-5.16** (*Implementation and cross-implem
 **Router read:** Mandatory read-with for **CJS-R13** (*Forum staffing, shared administration, structural review, structural re…*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CF-16**.
 **Router read:** Primary owner for **CJS-R01** (*Delegated binding bodies and hybrid composition (non-forum institutions)*) in **CJS-2.1** (*Topic router (stable IDs)*). Mandatory read-with: **CJS-4.1**, **CJS-4.7**, **CJS-5.7**, **CI-3**, **CJS-5.2**, **CJS-5.5**.
 
-Apply `corpus_joint_structure.md` **CJS-4.1** and **CJS-4.7** for shared delegated-body abstractions. **CI-9.3** through **CI-9.3.4** state only institutional design-class, applicability, identification, authority-composition exception, rotating-attachment, and home-based term duties for delegated subunits at or above **Class C** under the highest published **Chapter S2** class.
+Apply `corpus_joint_structure.md` **CJS-4.1** (*Hybrid delegated authority (delegated binding bodies)*) and **CJS-4.7** (*Shared procedural abstractions for delegated bodies and forum routing*) for shared delegated-body abstractions. **CI-9.3** through **CI-9.3.4** state only institutional design-class, applicability, identification, authority-composition exception, rotating-attachment, and home-based term duties for delegated subunits at or above **Class C** under the highest published **CS-4 — System classification and handling** class.
 ### CI-9.3.1: Identification and competence
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
@@ -183,7 +183,7 @@ Where a multi-member body uses a different deciding-bench balance or materially 
 
 - Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions; and [Chapter Ten](../core_10-10_rights_part_a.md#chapter-ten-foundational-rights) rights architecture where rights interfaces are invoked.
 - Downstream: this section's local operational requirements for **CI-9.3.3: Rotating authority: attachment bounds**.
-- Read with: **CI-9.3.3**; **CJS-4.2**; **INST-PROTO-17**.
+- Read with: **CI-9.3.3**; **CJS-4.1.2**; **INST-PROTO-17**.
 
 </details>
 
@@ -202,7 +202,7 @@ Where a multi-member body uses a different deciding-bench balance or materially 
 
 <br>
 
-Apply **`corpus_joint_structure.md` CJS-4.2** (*Shared attachment and continuity mechanics*) for shared rotating-attachment requirements (bounded formula, no undefined duration discretion, illustration status, and continuity relationship to home-based terms).
+Apply **`corpus_joint_structure.md` CJS-4.1.2** (*Attachment publication*) for shared rotating-attachment requirements (bounded formula, no undefined duration discretion, illustration status, and continuity relationship to home-based terms).
 
 **Scaling by institutional design class:**
 - **Class C:** **Suggested** guidance: treat **one calendar year** as the ordinary **maximum** for a single rotating attachment spell unless the instrument publishes a longer ceiling and a brief justification.
@@ -215,7 +215,7 @@ Apply **`corpus_joint_structure.md` CJS-4.2** (*Shared attachment and continuity
 
 - Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions; and [Chapter Ten](../core_10-10_rights_part_a.md#chapter-ten-foundational-rights) rights architecture where rights interfaces are invoked.
 - Downstream: this section's local operational requirements for **CI-9.3.4: Home-based authority: term and renewal**.
-- Read with: **CI-9.3.4**; **CJS-4.2**.
+- Read with: **CI-9.3.4**; **CJS-4.1.2**.
 
 </details>
 
@@ -234,7 +234,7 @@ Apply **`corpus_joint_structure.md` CJS-4.2** (*Shared attachment and continuity
 
 <br>
 
-Apply **`corpus_joint_structure.md` CJS-4.2** (*Shared attachment and continuity mechanics*) for shared home-based continuity requirements (published term/renewal/stagger rules and no mirror requirement relative to rotating formulas). This subsection retains institution-specific scaling and assurance requirements.
+Apply **`corpus_joint_structure.md` CJS-4.1.2** (*Attachment publication*) for shared home-based continuity requirements (published term/renewal/stagger rules and no mirror requirement relative to rotating formulas). This subsection retains institution-specific scaling and assurance requirements.
 
 ### CI-9.4: Survival floors, voluntary exchange, and markets (Article III-A interface)
 <details>
