@@ -8,7 +8,7 @@ Verify that the CJS-5 implementation and cross-implementation operational cluste
 
 ## Scope
 
-- Source principle layer: `core_00-01_principles.md`
+- Source principle layer: `core_00_preamble.md`, `core_01_values_principles.md`, and `core_01_stewardship_capacity_principles.md`
 - CJS-5 target set:
   - `corpus_joint_structure/cjs_05_cross_implementation_operational_terms.md`
   - `corpus_joint_structure/cjs_05a_00_authority_constraint_secrecy_procedure.md`

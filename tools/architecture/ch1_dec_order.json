@@ -15,23 +15,7 @@
     "Dependency",
     "Foreseeability"
   ],
-  "### 6. Shared-System Capacity": [
-    "Productive Capacity",
-    "Constitutional Efficiency",
-    "Wellbeing",
-    "Dignity and Equal Moral Standing",
-    "Meaningful Agency",
-    "Feasibility",
-    "Necessity",
-    "Proportionality",
-    "Avoidable Burden",
-    "Proxy Divergence",
-    "Ecological Integrity",
-    "Environmental Preconditions",
-    "Intergenerational Responsibility",
-    "Concentration Threshold"
-  ],
-  "### 7. Stewardship and Distributed Understanding": [
+  "### 6. Stewardship and Distributed Understanding": [
     "Strategic Stewardship Obligation",
     "Meaningful Agency",
     "Auditability",
@@ -48,12 +32,28 @@
     "Avoidable Burden",
     "Epistemic Integrity"
   ],
-  "#### 7.1 Stewardship": [
+  "### 8. Shared-System Capacity": [
+    "Productive Capacity",
+    "Constitutional Efficiency",
+    "Wellbeing",
+    "Dignity and Equal Moral Standing",
+    "Meaningful Agency",
+    "Feasibility",
+    "Necessity",
+    "Proportionality",
+    "Avoidable Burden",
+    "Proxy Divergence",
+    "Ecological Integrity",
+    "Environmental Preconditions",
+    "Intergenerational Responsibility",
+    "Concentration Threshold"
+  ],
+  "#### 6.1 Stewardship": [
     "Strategic Stewardship Obligation",
     "Meaningful Agency",
     "Auditability"
   ],
-  "#### 7.2 Distributed Understanding": [
+  "#### 6.2 Distributed Understanding": [
     "Transparency",
     "Materiality",
     "Dependency",
@@ -61,7 +61,7 @@
     "Meaningful Agency",
     "Contestability"
   ],
-  "### 10. Freedom (Bounded Agency)": [
+  "### 11. Freedom (Bounded Agency)": [
     "Freedom (Bounded Agency)",
     "Meaningful Agency",
     "Consent",
@@ -76,7 +76,7 @@
     "Harm Minimization (Tradeoff Selection)",
     "Dependency"
   ],
-  "##### 8.4.1 Rights-Collision Decision Test": [
+  "##### 9.4.1 Rights-Collision Decision Test": [
     "Necessity",
     "Proportionality",
     "Feasibility",
@@ -86,7 +86,7 @@
     "Proxy Divergence",
     "Avoidable Burden"
   ],
-  "#### 9.1 Required Evaluation Factors": [
+  "#### 10.1 Required Evaluation Factors": [
     "Dependency",
     "Materiality",
     "Foreseeability",
@@ -99,7 +99,7 @@
     "Existential Risk",
     "Incentive Alignment"
   ],
-  "##### 9.2.2 Stewardship and Operator Incentive Alignment": [
+  "#### 7.4 Stewardship and Operator Incentive Alignment": [
     "Incentive Alignment",
     "Productive Capacity",
     "Constitutional Efficiency",
@@ -110,7 +110,7 @@
     "Truth (Constitutional Constraint)",
     "System Capture"
   ],
-  "### 12. Integrated Application": [
+  "### 13. Integrated Application": [
     "Corpus",
     "Authority Stack and Internal Hierarchy",
     "Supremacy and Enforceability",

@@ -2,7 +2,9 @@
 graph TB
     subgraph CoreConstitution["📜 Sentient Constitution (Core)"]
         direction TB
-        Ch01["Ch 0-1: Principles<br/>core_00-01_principles.md"]
+        Ch00["Ch 00: Preamble<br/>core_00_preamble.md"]
+        Ch01A["Ch 01 Part A: Values<br/>core_01_values_principles.md"]
+        Ch01B["Ch 01 Part B: Stewardship & Capacity<br/>core_01_stewardship_capacity_principles.md"]
         Ch02["Ch 2-4: Definition Mechanics<br/>core_02-04_definition_mechanics.md"]
         Ch05A["Ch 5 §1: Independent Definitions<br/>core_05-05_definitions_a_independent.md"]
         Ch05B["Ch 5 §2: Semi-Independent<br/>core_05-05_definitions_b_semi_independent.md"]
@@ -58,9 +60,11 @@ graph TB
     CI -->|"15 refs"| CF
 
     %% Principles chapter spreads downstream
-    Ch01 -->|"12 refs"| Ch05A
-    Ch01 -->|"8 refs"| Ch05B
-    Ch01 -->|"5 refs"| Ch09
+    Ch00 -->|"8 refs"| Ch05A
+    Ch01A -->|"10 refs"| Ch05A
+    Ch01A -->|"6 refs"| Ch05B
+    Ch01B -->|"8 refs"| Ch05B
+    Ch01B -->|"5 refs"| Ch09
 
     %% Definition mechanics underpin everything
     Ch02 -->|"25 refs"| Ch05A
@@ -72,7 +76,9 @@ graph TB
     style Ch05C fill:#ffccbc,stroke:#bf360c,stroke-width:3px
     style Ch09 fill:#c8e6c9,stroke:#2e7d32,stroke-width:2px
     style CS fill:#fff9c4,stroke:#f57f17,stroke-width:2px
-    style Ch01 fill:#e3f2fd,stroke:#1565c0,stroke-width:2px
+    style Ch00 fill:#e3f2fd,stroke:#1565c0,stroke-width:2px
+    style Ch01A fill:#e3f2fd,stroke:#1565c0,stroke-width:2px
+    style Ch01B fill:#e3f2fd,stroke:#1565c0,stroke-width:2px
 
     %% Legend
     subgraph Legend["Legend"]

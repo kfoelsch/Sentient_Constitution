@@ -3,7 +3,7 @@
 **Purpose:** Ensure bidirectional alignment between Chapter 1 (Principles) and Chapter 5 (Foundational Definitions), verifying that definitions are properly referenced and principles are properly anchored.
 
 **Scope:** 
-- Chapter 1: [`core_00-01_principles.md`](core_00-01_principles.md)
+- Chapter 1: [`core_00_preamble.md`, `core_01_values_principles.md`, and `core_01_stewardship_capacity_principles.md`](core_00-01_principles.md)
 - Chapter 5: [`core_05-05_definitions_a_independent.md`](core_05-05_definitions_a_independent.md), [`core_05-05_definitions_b_semi_independent.md`](core_05-05_definitions_b_semi_independent.md), [`core_05-05_definitions_c_dependent_clusters.md`](core_05-05_definitions_c_dependent_clusters.md)
 
 ---
@@ -123,7 +123,7 @@
 <details>
 <summary>Trace</summary>
 
-- Upstream: Principles: [Section X.Y](core_00-01_principles.md#section-anchor)
+- Upstream: Principles: [Section X.Y](core_01_stewardship_capacity_principles.md#section-anchor)
 ```
 
 **Validation:**

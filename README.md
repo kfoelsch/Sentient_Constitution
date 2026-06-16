@@ -6,15 +6,15 @@ Operative constitutional text for the **Sentient Constitution** lives in the num
 
 | | |
 |---|---|
-| **Corpus edition** | `SC-Corpus-2026.04.32` |
+| **Corpus edition** | `SC-Corpus-2026.04.33` |
 | **Effective date** | 2026-04-24 |
-| **Status** | Substantive binding text through **Chapter Fifteen** is **stable for assurance review** under this edition. |
+| **Status** | Substantive binding text through **Chapter Fifteen** is **stable for assurance review** under this edition. **SC-Corpus-2026.04.33** splits Chapter One into preamble + Parts A–B, renumbers Part B §§6–13 (stewardship → governance → capacity), and adds Chapter Five stewardship/governance/capacity definitions. |
 
 Custody and binding scope: [Chapter Five *Corpus*](core_05-05_definitions_c_dependent_clusters.md#corpus) and [Chapter Fifteen](core_15-15_incorporation.md). Bump the edition label only on a deliberate corpus publication cut.
 
 ## How to read
 
-1. **Chapter One** — core values and constraints ([`core_00-01_principles.md`](core_00-01_principles.md)).
+1. **Chapter One** — preamble ([`core_00_preamble.md`](core_00_preamble.md)); Values Principles, Part A ([`core_01_values_principles.md`](core_01_values_principles.md)); Stewardship, Capacity, and Constitutional Safeguards, Part B ([`core_01_stewardship_capacity_principles.md`](core_01_stewardship_capacity_principles.md)).
 2. **Chapters Two through Five** — definition structure, integrity, burden, traceability, and the definition stack ([`core_02-04_definition_mechanics.md`](core_02-04_definition_mechanics.md); Chapter Five Parts A–C below). Chapter Five is the **definition stack**, not the Rights Floor.
 3. **Chapters Six through Eight** — one **standing pipeline**: standing record → verified input → contribution / violation classification → attachments, descriptors, locks, and effects → Chapter Eight top-slot review for Violation Axis **s = 7, 8, or 9** anti-constitutional misconduct.
 4. **Chapter Nine** — constitutional forum families, jurisdiction, and cross-forum anti-self-judging ([`core_09-09_forum.md`](core_09-09_forum.md)).
@@ -27,7 +27,10 @@ The corpus is written in plain language with low jargon to improve accessibility
 
 ### Values and principles
 
-- **Chapter One** (Preamble and principles) — [`core_00-01_principles.md`](core_00-01_principles.md)
+- **Chapter 00** (Preamble) — [`core_00_preamble.md`](core_00_preamble.md)
+- **Chapter One, Part A** (Values Principles, §§1–5) — [`core_01_values_principles.md`](core_01_values_principles.md)
+- **Chapter One, Part B** (Stewardship, Capacity, and Constitutional Safeguards, §§6–13) — [`core_01_stewardship_capacity_principles.md`](core_01_stewardship_capacity_principles.md)
+- **Retired path** (redirect stub) — [`core_00_preamble.md`, `core_01_values_principles.md`, and `core_01_stewardship_capacity_principles.md`](core_00-01_principles.md)
 
 ### Definition mechanics and definitions
 
@@ -70,7 +73,7 @@ The corpus is written in plain language with low jargon to improve accessibility
 Cross-topic entry points not spelled out in the headings above:
 
 - Burden of proof, traceability, verification → **Chapter Four** ([`core_02-04_definition_mechanics.md`](core_02-04_definition_mechanics.md))
-- Constitutional Triad, Two Constitutional Aims, material stake → **Chapter 00–01** ([`core_00-01_principles.md`](core_00-01_principles.md#constitutional-triad), [`#two-constitutional-aims`](core_00-01_principles.md#two-constitutional-aims), [`#material-stake`](core_00-01_principles.md#material-stake))
+- Constitutional Triad, Two Constitutional Aims, material stake → **Chapter 00** and **Chapter One, Part A** ([`#constitutional-triad`](core_00_preamble.md#constitutional-triad), [`#two-constitutional-aims`](core_01_values_principles.md#two-constitutional-aims), [`#material-stake`](core_00_preamble.md#material-stake))
 - Contribution / violation classification (Axis I and II) → **Chapter Six**
 - Standing locks and integration consequences → **Chapter Seven**
 - Anti-constitutional misconduct gravity and top-slot review → **Chapter Eight**
@@ -91,7 +94,7 @@ Designated obligations in these wrappers and their subfile directories are **bin
 
 | Layer | What counts |
 |-------|-------------|
-| **Binding constitutional source** | Numbered `core_*` files ([`core_00-01_principles.md`](core_00-01_principles.md) through [`core_15-15_incorporation.md`](core_15-15_incorporation.md)) read as one instrument |
+| **Binding constitutional source** | Numbered `core_*` files ([`core_00_preamble.md`](core_00_preamble.md) through [`core_15-15_incorporation.md`](core_15-15_incorporation.md)) read as one instrument |
 | **Binding incorporated implementation** | Designated obligations in the companion wrappers and linked subfiles above, within valid adoption scope |
 | **Process / map support** | [doc_architecture.md](doc_architecture.md), `TODO.md`, regression and evidence artifacts, and implementation notes unless explicitly adopted |
 
@@ -109,4 +112,4 @@ For longer non-operative orientation, see [archive/ARCHITECTURE_PRIMER_ARCHIVED_
 
 ---
 
-**Next file:** [core_00-01_principles.md](core_00-01_principles.md)
+**Next file:** [core_00_preamble.md](core_00_preamble.md)

@@ -36,16 +36,16 @@ REPLACEMENTS: list[tuple[str, str]] = [
     ("[§8 Stewardship and Distributed Understanding]", "[§7 Stewardship and Distributed Understanding]"),
     ("Chapter One §9.2 — Epistemic Disclosure Constraints", "Chapter One §8.2 — Epistemic Disclosure Constraints"),
     (
-        "[6.1.1 Reversibility-under-uncertainty](core_00-01_principles.md#811-proportionality-necessity-and-reversibility-under-uncertainty)",
-        "[8.1.1 Proportionality](core_00-01_principles.md#811-proportionality)",
+        "[6.1.1 Reversibility-under-uncertainty](core_01_stewardship_capacity_principles.md#811-proportionality-necessity-and-reversibility-under-uncertainty)",
+        "[8.1.1 Proportionality](core_01_stewardship_capacity_principles.md#911-proportionality)",
     ),
     (
-        "[6.1.1 Proportionality, Necessity, and Reversibility under Uncertainty](core_00-01_principles.md#811-proportionality-necessity-and-reversibility-under-uncertainty)",
-        "[8.1.1 Proportionality](core_00-01_principles.md#811-proportionality)",
+        "[6.1.1 Proportionality, Necessity, and Reversibility under Uncertainty](core_01_stewardship_capacity_principles.md#811-proportionality-necessity-and-reversibility-under-uncertainty)",
+        "[8.1.1 Proportionality](core_01_stewardship_capacity_principles.md#911-proportionality)",
     ),
     (
-        "[7.1.4 Voluntary Discontinuation and Exit Rights](core_00-01_principles.md#914-voluntary-discontinuation-and-exit-rights)",
-        "[9.1.4 Voluntary Discontinuation and Exit Rights](core_00-01_principles.md#914-voluntary-discontinuation-and-exit-rights)",
+        "[7.1.4 Voluntary Discontinuation and Exit Rights](core_01_stewardship_capacity_principles.md#1014-voluntary-discontinuation-and-exit-rights)",
+        "[9.1.4 Voluntary Discontinuation and Exit Rights](core_01_stewardship_capacity_principles.md#1014-voluntary-discontinuation-and-exit-rights)",
     ),
     (
         "[§8 Stewardship and Distributed Understanding — §7.2 Distributed Understanding]",

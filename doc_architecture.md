@@ -17,7 +17,7 @@ Retired architecture sections **14–19** (worklist, adoption appendix, document
 
 - `snake_case` canonical filenames (no spaces; no `%20` links).
 - Core pattern: `core_<start>-<end>_<short_owner_label>.md` (zero-padded chapters).
-- Full inventory: [README.md](README.md). Chapter One retains numeric headings (`CHAPTER 00`, `CHAPTER 01`) as the instrument-opening exception.
+- Full inventory: [README.md](README.md). Chapter One spans **Chapter 00** (`core_00_preamble.md`) and **Chapter One, Parts A–B** (`core_01_values_principles.md`, `core_01_stewardship_capacity_principles.md`); numeric headings (`CHAPTER 00`, `CHAPTER 01`) remain the instrument-opening exception.
 
 ### Rename readiness gate
 
@@ -62,7 +62,7 @@ Machine-checkable rules: [tools/architecture/rule_registry.json](tools/architect
 ### What counts as a definition
 
 - **Hard definitions:** Ch 2–4 (`core_02-04_definition_mechanics.md`); Chapter Five §1–§3 (single-home rule below).
-- **Values language:** Chapter One — [Constitutional Triad](core_00-01_principles.md#constitutional-triad), [Two Constitutional Aims](core_00-01_principles.md#two-constitutional-aims) (**Flourishing** / **Continuity**), and [material stake](core_00-01_principles.md#material-stake) at principle layer; vocabulary anchor + cluster index at end of Ch 1. Use **Continuity aim** when linking to §2; reserve bare *continuity* for operational uses elsewhere.
+- **Values language:** Chapter One — [Constitutional Triad](core_00_preamble.md#constitutional-triad), [Two Constitutional Aims](core_01_values_principles.md#two-constitutional-aims) (**Flourishing** / **Continuity**), and [material stake](core_00_preamble.md#material-stake) at principle layer; vocabulary anchor + cluster index at end of Chapter One, Part B. Use **Continuity aim** when linking to §2; reserve bare *continuity* for operational uses elsewhere.
 - **Standing:** Ch 6–7 (**verified** inputs); Ch 9 forums for **allegations**, not standing calculus.
 - **Rights:** Chapter Ten; implementation files **cite** articles.
 - **Joint operational terms:** `corpus_joint_structure.md` only — route via **CJS-2.1**.

@@ -11,7 +11,9 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 
 CORE_CHAIN = (
-    "core_00-01_principles.md",
+    "core_00_preamble.md",
+    "core_01_values_principles.md",
+    "core_01_stewardship_capacity_principles.md",
     "core_02-04_definition_mechanics.md",
     "core_05-05_definitions_a_independent.md",
     "core_05-05_definitions_b_semi_independent.md",
@@ -275,7 +277,7 @@ def build_footer(
     if with_alignment:
         lines.extend(
             [
-                "*Corpus alignment:* edition `SC-Corpus-2026.04.32`, effective **2026-04-24**; "
+                "*Corpus alignment:* edition `SC-Corpus-2026.04.33`, effective **2026-04-24**; "
                 "edition and custody in [README.md](../README.md) and "
                 "[Chapter Five *Corpus*](../core_05-05_definitions_c_dependent_clusters.md#corpus).",
                 "",

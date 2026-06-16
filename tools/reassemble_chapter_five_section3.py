@@ -482,7 +482,7 @@ def replace_dependent_directory(prefix: str) -> str:
 def footer(text: str) -> str:
     m = re.search(r"\n\*Corpus alignment:\*", text)
     if not m:
-        return "\n\n---\n\n*Corpus alignment:* edition `SC-Corpus-2026.04.32`, effective **2026-04-24**; edition and custody in [README.md](README.md) and [Chapter Five *Corpus*](core_05-05_definitions_c_dependent_clusters.md#corpus).\n"
+        return "\n\n---\n\n*Corpus alignment:* edition `SC-Corpus-2026.04.33`, effective **2026-04-24**; edition and custody in [README.md](README.md) and [Chapter Five *Corpus*](core_05-05_definitions_c_dependent_clusters.md#corpus).\n"
     return text[m.start() :]
 
 

@@ -2,7 +2,7 @@
 
 *In plain terms: this file is the front door to the **institutions** rulebook — how bodies are formed, authorized, overseen, corrected, and dissolved within constitutional boundaries.*
 
-**Corpus edition:** `SC-Corpus-2026.04.32` · **Effective date:** 2026-04-24
+**Corpus edition:** `SC-Corpus-2026.04.33` · **Effective date:** 2026-04-24
 
 <details>
 <summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): edition, status, and where this file lives</span></strong></summary>
@@ -42,7 +42,7 @@ Shared preamble contract: apply [corpus_joint_structure.md](../corpus_joint_stru
 
 > The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this file or in other corpus files.
 >
-> **Principle-layer routing:** Read with [Chapter One](../core_00-01_principles.md#chapter-01-principles-and-constraints) — [Constitutional Triad](../core_00-01_principles.md#constitutional-triad). **CI-5** (*Conflict integrity, anti-capture, and anti-corruption*), **CI-6** (*Procedure integrity, contestability, and secondary review*), **CI-7** (*Oversight, assurance, controls, and evidence*), and **CI-12** (*Transparency, participation, and accessible pathways*) implement triad legs at institutional layer.
+> **Principle-layer routing:** Read with [Chapter One](../core_01_stewardship_capacity_principles.md#chapter-01-principles-and-constraints) — [Constitutional Triad](../core_00_preamble.md#constitutional-triad). **CI-5** (*Conflict integrity, anti-capture, and anti-corruption*), **CI-6** (*Procedure integrity, contestability, and secondary review*), **CI-7** (*Oversight, assurance, controls, and evidence*), and **CI-12** (*Transparency, participation, and accessible pathways*) implement triad legs at institutional layer.
 >
 > **Implementation cross-reference index (routing only):** Read with Chapter Five constitutional definitions and `corpus_joint_structure.md` **CJS-5** (*Implementation and cross-implementation operational cluster library*) operational clusters where materially applicable. This index does not redefine owner-layer meaning.
 >

@@ -174,7 +174,7 @@ def main() -> None:
         else:
             chunk = chunk.rstrip() + "\n\n---\n\n"
             chunk += (
-                "*Corpus alignment:* edition `SC-Corpus-2026.04.32`, effective **2026-04-24**; "
+                "*Corpus alignment:* edition `SC-Corpus-2026.04.33`, effective **2026-04-24**; "
                 "edition and custody in [README.md](../README.md) and "
                 "[Chapter Five *Corpus*](../core_05-05_definitions_c_dependent_clusters.md#corpus).\n\n"
                 "---\n\n"

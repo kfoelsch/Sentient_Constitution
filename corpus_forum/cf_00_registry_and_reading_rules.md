@@ -2,7 +2,7 @@
 
 *In plain terms: this file is the front door to the **forum** rulebook — how panels form, cases route, appeals work, and forum operations stay independent when the constitution requires a fair hearing.*
 
-**Corpus edition:** `SC-Corpus-2026.04.32` · **Effective date:** 2026-04-24
+**Corpus edition:** `SC-Corpus-2026.04.33` · **Effective date:** 2026-04-24
 
 <details>
 <summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): edition, status, and where this file lives</span></strong></summary>
@@ -43,7 +43,7 @@ Shared preamble contract: apply [corpus_joint_structure.md](../corpus_joint_stru
 
 > The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this file or in other corpus files.
 >
-> **Principle-layer routing:** Read with [Chapter One](../core_00-01_principles.md#chapter-01-principles-and-constraints) and [Chapter Nine](../core_09-09_forum.md#chapter-nine-forums-and-jurisdiction) — forums implement [Constitutional Triad](../core_00-01_principles.md#constitutional-triad) **participation** and **oversight** legs, scaled to [material stake](../core_00-01_principles.md#material-stake). Panel formation, recusal, and review lanes are primary operational homes in **CF-5** (*Routing operations, transfer, certification, and representative treatment*), **CF-7** (*Integrity safeguards and anti-self-judging*), and **CF-8** (*Forum forensic and analytical support*).
+> **Principle-layer routing:** Read with [Chapter One](../core_01_stewardship_capacity_principles.md#chapter-01-principles-and-constraints) and [Chapter Nine](../core_09-09_forum.md#chapter-nine-forums-and-jurisdiction) — forums implement [Constitutional Triad](../core_00_preamble.md#constitutional-triad) **participation** and **oversight** legs, scaled to [material stake](../core_00_preamble.md#material-stake). Panel formation, recusal, and review lanes are primary operational homes in **CF-5** (*Routing operations, transfer, certification, and representative treatment*), **CF-7** (*Integrity safeguards and anti-self-judging*), and **CF-8** (*Forum forensic and analytical support*).
 >
 > **File-specific implementation anchors**
 > - **Operational home:** forum structure, forum independence safeguards, forum process governance, and forum continuity mechanics.

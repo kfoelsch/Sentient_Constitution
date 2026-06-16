@@ -95,7 +95,8 @@ def validate_definition_registry(payload: dict[str, Any]) -> None:
         require(isinstance(entry.get("line_end"), int), f"{term}: missing line_end")
         require(entry["line_start"] <= entry["line_end"], f"{term}: invalid line range")
         require(
-            entry.get("category") in {"independent", "semi_independent", "dependent_cluster"},
+            entry.get("category")
+            in {"independent", "semi_independent", "dependent_cluster", "principle_layer"},
             f"{term}: invalid category",
         )
 

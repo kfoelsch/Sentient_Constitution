@@ -35,6 +35,7 @@ EXPECTED_TOPIC_GROUPS: dict[str, list[str]] = {
         "Business Creation",
     ],
     "#### Constitutional efficiency, productive capacity, avoidable burden, and burden-reduction duty": [
+        "Shared-System Capacity",
         "Constitutional Efficiency",
         "Productive Capacity",
         "Avoidable Burden",
@@ -65,6 +66,7 @@ TOPIC_GROUP_HEADINGS: set[str] = set(EXPECTED_TOPIC_GROUPS) | {
     "#### Family, care, reproductive autonomy, and instantiation",
     "#### Ecological integrity, footprint, and sustainability",
     "#### Governance architecture, decentralization, and concentration",
+    "#### Stewardship, governance discipline, and shared-system capacity",
     "#### System boundaries, integrity, and exit",
     "#### Stewardship, review, and correction",
     "#### Stakeholder status and participation weight",
@@ -145,7 +147,18 @@ EXPECTED_CLUSTERS: dict[str, list[str]] = {
         "Single Catastrophic Incident",
         "Sustained High-Gravity Pattern",
     ],
-    "#### 3.10 Transparency, Auditability, and Verification": [
+    "#### 3.10 Stewardship, Governance Discipline, and Shared-System Capacity": [
+        "Stewardship",
+        "Governance",
+        "Distributed Understanding",
+        "Short-Horizon Governance Defect",
+        "Shared-System Capacity",
+    ],
+    "#### 3.11 Strategic Stewardship and Stewardship Defect": [
+        "Strategic Stewardship Obligation",
+        "Stewardship Defect",
+    ],
+    "#### 3.12 Transparency, Auditability, and Verification": [
         "Transparency",
         "Auditability",
         "Evidence Preservation",
@@ -159,19 +172,19 @@ EXPECTED_CLUSTERS: dict[str, list[str]] = {
         "Verification Proportionality",
         "Verification Robustness",
     ],
-    "#### 3.11 Trust and Trustworthiness": [
+    "#### 3.13 Trust and Trustworthiness": [
         "Trust",
         "Trustworthiness",
         "Trust Degradation and Misleading Reliance",
     ],
-    "#### 3.12 Truth and Epistemic Integrity": [
+    "#### 3.14 Truth and Epistemic Integrity": [
         "Truth (Constitutional Constraint)",
         "Epistemic Integrity",
         "Foreseeability Diligence",
         "Reasonably Foreseeable",
         "Publication and High-Impact Communication",
     ],
-    "#### 3.13 Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm": [
+    "#### 3.15 Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm": [
         "Use of Force",
         "Autonomous Lethal System",
         "Weapons of Mass Harm",

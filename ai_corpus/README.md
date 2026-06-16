@@ -1,6 +1,6 @@
 # AI-Optimized Corpus Mirror
 
-**Status:** Derived from SC-Corpus-2026.04.32  
+**Status:** Derived from SC-Corpus-2026.04.33  
 **Source of Truth:** The numbered `core_*.md` files and incorporated companion corpus files remain authoritative. The root `corpus_joint_structure.md` file is a compatibility wrapper whose substantive text is in `corpus_joint_structure/` subfiles. This directory contains AI-optimized mirrors for token-efficient access.
 
 ## Purpose

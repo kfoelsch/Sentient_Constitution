@@ -1,6 +1,6 @@
 # AI Corpus Access Optimization Plan
 
-**Edition:** SC-Corpus-2026.04.32  
+**Edition:** SC-Corpus-2026.04.33  
 **Objective:** Maximize easy AI access, minimize token usage during edits, preserve human readability  
 **Status:** Migration complete for the required AI navigation layer; optional validation and measurement work remains ongoing
 
@@ -38,7 +38,7 @@ The older per-definition JSON files under `ai_corpus/definitions/` are retained 
 
 | File | Lines | Role | Primary Content |
 |------|-------|------|-----------------|
-| `core_00-01_principles.md` | ~1,400 | Core | Preamble, Chapter 1 (values, constraints) |
+| `core_00_preamble.md`, `core_01_values_principles.md`, and `core_01_stewardship_capacity_principles.md` | ~1,400 | Core | Preamble, Chapter 1 (values, constraints) |
 | `core_02-04_definition_mechanics.md` | ~530 | Core | Chapters 2-4 (O/E/C structure, burden, traceability) |
 | `core_05-05_definitions_a_independent.md` | ~1,300 | Core | Chapter 5 §1 (independent definitions A-Z) |
 | `core_05-05_definitions_b_semi_independent.md` | ~1,900 | Core | Chapter 5 §2 (semi-independent definitions) |

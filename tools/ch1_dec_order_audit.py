@@ -68,11 +68,22 @@ def main() -> int:
     args = parser.parse_args()
 
     root = Path(args.root)
-    path = root / "core_00-01_principles.md"
-    lines = path.read_text(encoding="utf-8").splitlines()
+    failures: list[str] = []
+    ch1_files = (
+        root / "core_01_values_principles.md",
+        root / "core_01_stewardship_capacity_principles.md",
+    )
+    lines: list[str] = []
+    for path in ch1_files:
+        if not path.exists():
+            failures.append(f"missing Chapter One file: {path.name}")
+            continue
+        lines.extend(path.read_text(encoding="utf-8").splitlines())
+    if not lines:
+        print("FAIL: Chapter One D/E/C order audit — no Chapter One content found.")
+        return 1
     expected_map = ch1_dec_order_expected()
 
-    failures: list[str] = []
     for heading, expected in expected_map.items():
         try:
             line_no, actual = extract_widget_rows(lines, heading)
@@ -83,7 +94,7 @@ def main() -> int:
             failures.append(
                 "\n".join(
                     [
-                        f"{path}:{line_no}: D/E/C order drift under {heading}",
+                        f"Chapter One:{line_no}: D/E/C order drift under {heading}",
                         f"  expected: {expected}",
                         f"  actual:   {actual}",
                     ]
