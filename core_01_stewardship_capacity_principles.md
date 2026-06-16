@@ -491,7 +491,7 @@ Concentrated or obscured control structures that undermine challenge rights, ove
 
 <br>
 
-*In plain terms: shared systems should help sentients live better over time — more real capacity, less waste. **Productive Capacity** is the durable ability to turn time, effort, and resources into constitutionally aligned outcomes. **Constitutional Efficiency** asks whether that happens without burning more sentient time, attention, and shared resources than necessary. Neither label counts if the "gain" comes from hoarding wealth or power, cheating metrics, stripping rights, or loading harm onto others or the planet. **§8.3–§6.5** carry the anti-concentration discipline: harmful pile-ups of control trigger review, durable domination is barred, and consolidation ceilings must bite before lock-in.*
+*In plain terms: shared systems should help sentients live better over time — more real capacity, less waste. **Productive Capacity** is the durable ability to turn time, effort, and resources into constitutionally aligned outcomes. **Constitutional Efficiency** asks whether that happens without burning more sentient time, attention, and shared resources than necessary. Neither label counts if the "gain" comes from hoarding wealth or power, cheating metrics, stripping rights, or loading harm onto others or the planet. **§8.3–§8.5** carry the anti-concentration discipline: harmful pile-ups of control trigger review, durable domination is barred, and consolidation ceilings must bite before lock-in.*
 
 **Productive Capacity** and **Constitutional Efficiency** work as a pair. **Productive Capacity** is the durable ability to achieve constitutionally aligned outcomes. **Constitutional Efficiency** is disciplined improvement in outcomes per unit of sentient time, attention, effort, coordination, and shared resources consumed.
 
@@ -616,9 +616,11 @@ Remedies must be proportionate to the concentration, dependency, conduct, and co
 
 This subsection states principle-layer pro-competition and anti-domination discipline. It does not create a freestanding Rights-Floor, does not displace adopter antitrust or competition law that provides stronger protection, and does not narrow Article III-D, Article IV, Article XIX, **§8.5**, or Chapter Eight. Where the same facts produce Rights-Floor degradation, blocked challenge rights, or capture of constitutional process, those owner provisions remain independently applicable.
 
+<a id="85-consolidation-ceiling"></a>
 #### 8.5 Consolidation Ceiling
 
-###### Consolidation risk (pre-lock-in impairment)
+<a id="851-consolidation-risk-pre-lock-in-impairment"></a>
+##### 8.5.1 Consolidation Risk (Pre-Lock-In Impairment)
 
 *In plain terms: consolidation can hollow out real alternatives long before a market looks "locked down." Two kinds of pile-up matter especially: **horizontal consolidation** — fewer rivals at the same layer — and **vertical consolidation** — control across layers that creates chokepoints and lock-in.*
 
@@ -632,7 +634,8 @@ Either pattern may involve dependency density, switching costs, lock-in, substit
 
 Ceiling evaluation judges substantive control, not formal entity count. Federated, shell, contractual, licensing, patent, common-ownership, cross-platform, successor, delegated, or cross-domain arrangements remain in scope where they preserve effective consolidation while avoiding nominal thresholds.
 
-###### Ceiling discipline (adopter requirements)
+<a id="852-ceiling-discipline-adopter-requirements"></a>
+##### 8.5.2 Ceiling Discipline (Adopter Requirements)
 
 *In plain terms: adopters must set evidence-based ceilings that trigger scrutiny before these risks materialize into lock-in — with separate triggers for horizontal and vertical pile-ups where the domain requires it.*
 
@@ -652,7 +655,7 @@ Ceiling design must follow evidence about how the domain actually works. Adopter
   - control over essential inputs, interfaces, standards, credentials, payments, data, compute, logistics, or other chokepoints;
   - interoperability barriers, portability barriers, self-preferencing, ranking control, and cross-domain leverage.
 
-Read the cross-domain and federated-structure risk patterns above when designing either ceiling type. Either ceiling type must account for dependency density, switching costs, lock-in, availability of practical substitutes, and ecological burden concentration or control over environmental preconditions where materially relevant.
+Read the cross-domain and federated-structure risk patterns in **§8.5.1** when designing either ceiling type. Either ceiling type must account for dependency density, switching costs, lock-in, availability of practical substitutes, and ecological burden concentration or control over environmental preconditions where materially relevant.
 
 Crossing an adopted consolidation ceiling creates a rebuttable presumption of non-compliance and triggers heightened review. The presumption may be rebutted only with clear, reviewable evidence that the consolidation is necessary, proportionate, and consistent with Chapter Four evidence duties; that any scale benefit traces to constitutional outcomes; and that the consolidation does not materially degrade contestability, Rights-Floor protections, labor mobility, fair bargaining, ecological integrity, interoperability, exit, or constitutional accountability. Where feasible, rebuttal must include time bounds, periodic revalidation, and analysis of less-consolidating alternatives.
 
