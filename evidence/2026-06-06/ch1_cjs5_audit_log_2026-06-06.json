@@ -254,7 +254,7 @@
         "**PRIM9 \u2014 Auditability**",
         "**PRIM15 \u2014 Evolution, Revalidation, and Non-Entrenchment**",
         "**PROT6 \u2014 Procedural Integrity and Adjudication**",
-        "`corpus_systems.md` **Chapter S3**"
+        "`corpus_systems.md` **CS-5**"
       ],
       "direct_ch1_refs": [],
       "inferred_principles": [
@@ -763,7 +763,7 @@
         "**PROT4 \u2014 Burden of Justification and Constraint**",
         "**PROT3 \u2014 Reflexive Transparency and Accountability**",
         "**PROT2 \u2014 Intervention and Override Rights**",
-        "`corpus_systems.md` **Chapter S1** and **Chapter S2**",
+        "`corpus_systems.md` **CS-3** and **CS-4**",
         "`corpus_institutions.md`",
         "`corpus_forum.md`"
       ],
@@ -1698,9 +1698,9 @@
         "**PRIM7 \u2014 Interoperability, Portability, and Exit Integrity**",
         "**PRIM5 \u2014 Dependency Awareness, Disclosure, and Risk Integrity**",
         "**PRIM4 \u2014 Transparency and Disclosure**",
-        "`corpus_systems.md` **Chapter S1 \u2014 Information Types and Handling**",
-        "`corpus_systems.md` **Chapter S2 \u2014 System Classification and Handling**",
-        "`corpus_systems.md` **Chapter S3 \u2014 Critical System Stewardship**",
+        "`corpus_systems.md` **CS-3 \u2014 Information Types and Handling**",
+        "`corpus_systems.md` **CS-4 \u2014 System Classification and Handling**",
+        "`corpus_systems.md` **CS-5 \u2014 Critical System Stewardship**",
         "**Article XIX**",
         "**Article XV-A**"
       ],
@@ -1819,7 +1819,7 @@
         "**PRIM11 \u2014 Independent Verification and Integrity of Claims**",
         "**PRIM12 \u2014 Reversibility and Containment**",
         "**PRIM15 \u2014 Evolution, Revalidation, and Non-Entrenchment**",
-        "`corpus_systems.md` **Chapter S1 \u2014 Information Types and Handling**, including Types **C**, **G**, **H**, **I**, **N**, and **S**",
+        "`corpus_systems.md` **CS-3 \u2014 Information Types and Handling**, including Types **C**, **G**, **H**, **I**, **N**, and **S**",
         "**CJS-3.5 \u2014 Classification alignment for supervised scope**"
       ],
       "direct_ch1_refs": [],
@@ -2395,7 +2395,7 @@
         "**PRIM12 \u2014 Reversibility and Containment**",
         "**PRIM15 \u2014 Evolution, Revalidation, and Non-Entrenchment**",
         "**PROT3 \u2014 Reflexive Transparency and Accountability**",
-        "`corpus_systems.md` **Chapter S1** and **Chapter S2**",
+        "`corpus_systems.md` **CS-3** and **CS-4**",
         "Owner-layer-specific monitoring or publication duties."
       ],
       "direct_ch1_refs": [],
