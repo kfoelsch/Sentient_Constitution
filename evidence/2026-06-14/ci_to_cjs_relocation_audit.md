@@ -145,7 +145,7 @@ Summary: This subsection names institutional trigger categories for **CI-5** (*C
 Summary: **Purpose and owner boundary.** Apply `corpus_joint_structure.md` **CJS-4.1** (*Mandatory hybrid authority composition (delegated binding bodies)*) and **CJS-4.7** (*Shared procedural abstractions for delegated bodies and forum routing*) for shared delegate...
 
 Near CJS matches:
-- 0.36: `corpus_joint_structure/cjs_03_joint_structural_obligations.md:163` (CJS-3.5 Classification alignment for supervised scope) — When an institution supervises systems governed by `corpus_systems.md` **Chapter S2** or **Chapter S3**, its published maps under **CI-9....
+- 0.36: `corpus_joint_structure/cjs_03_joint_structural_obligations.md:163` (CJS-3.5 Classification alignment for supervised scope) — When an institution supervises systems governed by `corpus_systems.md` **CS-4** or **CS-5**, its published maps under **CI-9....
 
 ### 12. CI-9: Classification-linked institutional obligations
 
@@ -157,7 +157,7 @@ Near CJS matches:
 - Router matches: CJS-R17 — Cross-implementation trust integrity (joint operation model); CJS-R19 — Implementation and cross-implementation integrity assurance and resilience operations; CJS-R15 — Contest-integrity monitoring (pathway integrity, not merits)
 - Keep-in-CI cautions: dissolution, institutional formation
 
-Summary: Institutional governance burden must scale with `corpus_systems.md` Chapter S2 classes and Chapter S3 stewardship tiers. Where multiple classes/tiers apply, the highest applicable burden governs for affected duties. **Constitutional floor for institutional...
+Summary: Institutional governance burden must scale with `corpus_systems.md` CS-4 classes and CS-5 stewardship tiers. Where multiple classes/tiers apply, the highest applicable burden governs for affected duties. **Constitutional floor for institutional...
 
 ### 13. CI-7.1: Controls declaration
 
