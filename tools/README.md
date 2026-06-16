@@ -2,6 +2,10 @@
 
 Python utilities for this repository. Run from the repo root unless noted.
 
+## Markdown conventions
+
+Put a **blank line before** `---` when you mean a horizontal rule between sections. If `---` sits directly under a paragraph, CommonMark-style parsers may treat that paragraph as a Setext-style heading instead. `make corpus-markdown-audit` enforces this rule on corpus files.
+
 ## Maintenance (safe to use on the live corpus)
 
 | Target | Command |
