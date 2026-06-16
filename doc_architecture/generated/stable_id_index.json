@@ -1,7 +1,17 @@
 {
   "chapters": [
     {
-      "file": "core_00-01_principles.md",
+      "file": "core_00_preamble.md",
+      "label": "core",
+      "status": "present"
+    },
+    {
+      "file": "core_01_a_values_principles.md",
+      "label": "core",
+      "status": "present"
+    },
+    {
+      "file": "core_01_b_stewardship_capacity_principles.md",
       "label": "core",
       "status": "present"
     },

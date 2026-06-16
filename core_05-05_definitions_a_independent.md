@@ -2,7 +2,7 @@
 
 This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one instrument. It contains **Chapter Five, Part A** — reader guidance, the canonical-home rule, the alphabetical directory, and **section 1 — Independent Definitions**; **Part B** (Semi-independent Definitions) is in [core_05-05_definitions_b_semi_independent.md](core_05-05_definitions_b_semi_independent.md#section-2-semi-independent-definitions); **Part C** (Dependent clusters) is in [core_05-05_definitions_c_dependent_clusters.md](core_05-05_definitions_c_dependent_clusters.md#section-3-dependent-clusters-clustered-definitions). Read **Chapter Five** as the three parts together. Chapter numbering and cross-references match the integrated instrument. Reading order, the binding/support split, and corpus edition metadata are maintained in [README.md](README.md).
 
-Upstream constitutional direction for this file's definitions begins in [core_00_preamble.md](core_00_preamble.md), [core_01_values_principles.md](core_01_values_principles.md), and [core_01_stewardship_capacity_principles.md](core_01_stewardship_capacity_principles.md) and the definition-mechanics pipeline in [core_02-04_definition_mechanics.md](core_02-04_definition_mechanics.md).
+Upstream constitutional direction for this file's definitions begins in [core_00_preamble.md](core_00_preamble.md), [core_01_a_values_principles.md](core_01_a_values_principles.md), and [core_01_b_stewardship_capacity_principles.md](core_01_b_stewardship_capacity_principles.md) and the definition-mechanics pipeline in [core_02-04_definition_mechanics.md](core_02-04_definition_mechanics.md).
 
 ---
 
@@ -304,7 +304,7 @@ Independent Definitions must not fragment, isolate, or redistribute compliance i
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Owner floor: [Article V-G](core_10-10_rights_part_b.md#article-v-g-accessibility). Cross-cutting evaluation-factor hook: [Chapter One §10.1](core_01_stewardship_capacity_principles.md#101-required-evaluation-factors). Education-specific accessibility remains governed by [Article III-B](core_10-10_rights_part_a.md#article-iii-b-equal-educational-access) and is not narrowed by this entry.
+- Owner floor: [Article V-G](core_10-10_rights_part_b.md#article-v-g-accessibility). Cross-cutting evaluation-factor hook: [Chapter One §10.1](core_01_b_stewardship_capacity_principles.md#101-required-evaluation-factors). Education-specific accessibility remains governed by [Article III-B](core_10-10_rights_part_a.md#article-iii-b-equal-educational-access) and is not narrowed by this entry.
 - Read with: [Protected Characteristics](core_05-05_definitions_b_semi_independent.md#protected-characteristics-constitutional), [Protected Characteristic Proxying and Disparate Impact](core_05-05_definitions_b_semi_independent.md#protected-characteristic-proxying-and-disparate-impact), [Substantive Fairness](core_05-05_definitions_b_semi_independent.md#substantive-fairness-constitutional), [Materiality](core_05-05_definitions_b_semi_independent.md#materiality-determination), [Dependency](#dependency), [Meaningful Agency](core_05-05_definitions_b_semi_independent.md#meaningful-agency), [Necessity](#necessity), [Proportionality](#proportionality), and [Sentience Non-Exclusion](core_05-05_definitions_c_dependent_clusters.md#sentience-non-exclusion).
 
 </details>
@@ -451,7 +451,7 @@ Independent Definitions must not fragment, isolate, or redistribute compliance i
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [Chapter 00 — Preamble / foundational requirements](core_00_preamble.md#chapter-00-preamble--foundational-requirements) (*Constitutional Contract Layer* vs *Stakeholder System Participation*); [§10 Freedom](core_01_stewardship_capacity_principles.md#11-freedom-bounded-agency).
+- Downstream: Principles: [Chapter 00 — Preamble / foundational requirements](core_00_preamble.md#chapter-00-preamble--foundational-requirements) (*Constitutional Contract Layer* vs *Stakeholder System Participation*); [§10 Freedom](core_01_b_stewardship_capacity_principles.md#11-freedom-bounded-agency).
 - Owner floor: [Chapter Eleven: Constitutional Contract, Legitimacy, Authorization, and Stewardship](core_11-11_governance.md#chapter-eleven-constitutional-contract-legitimacy-authorization-and-stewardship); [Article IX-C: Governance Participation and Voting Entitlement](core_10-10_rights_part_b.md#article-ix-c-governance-participation-and-voting-entitlement).
 - Cluster component: [Chapter Five §3.12 *Constitutional Contract Layer and Foundational Constitutional Choice*](core_05-05_definitions_a_independent.md#constitutional-contract-layer)
 - Read with: [Foundational Constitutional Choice](#foundational-constitutional-choice), [Binding Stakeholder Choice](core_05-05_definitions_c_dependent_clusters.md#binding-stakeholder-choice-cluster), [Stakeholder Status, Emergency, and Participation Weight](core_05-05_definitions_c_dependent_clusters.md#stakeholder-status-emergency-and-participation-weight-cluster), [Governance](core_05-05_definitions_b_semi_independent.md#governance).
@@ -474,7 +474,7 @@ Independent Definitions must not fragment, isolate, or redistribute compliance i
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [§7.3.2 Contingent claims, games of chance, and event-contract markets](core_01_stewardship_capacity_principles.md#77-contingent-claims-games-of-chance-and-event-contract-markets).
+- Downstream: Principles: [§7.3.2 Contingent claims, games of chance, and event-contract markets](core_01_b_stewardship_capacity_principles.md#77-contingent-claims-games-of-chance-and-event-contract-markets).
 - Cluster component: [Chapter Five §3.13 *Contingent Claim, Event-Contract Market, and Game of Chance*](core_05-05_definitions_a_independent.md#contingent-claim)
 - Read with: [Game of Chance](#game-of-chance), [Event-Contract Market](#event-contract-market), [Capture of Resolution Pathways](core_05-05_definitions_b_semi_independent.md#capture-of-resolution-pathways), [Incentive Alignment](#incentive-alignment), [Risk](#risk), [Dependency](#dependency), and [Coercion and Manipulation](core_05-05_definitions_b_semi_independent.md#coercion-and-manipulation-constitutional).
 
@@ -496,7 +496,7 @@ Independent Definitions must not fragment, isolate, or redistribute compliance i
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [3. Foundational Objective: Wellbeing](core_01_values_principles.md#3-foundational-objective-wellbeing), [5. System Stability Enabler: Trust](core_01_values_principles.md#5-system-stability-enabler-trust-coordination-integrity), [§10 Freedom](core_01_stewardship_capacity_principles.md#11-freedom-bounded-agency), [9. Interaction and Conflict Resolution](core_01_stewardship_capacity_principles.md#9-interaction-and-conflict-resolution), [9.4.1 Rights-Collision Decision Test](core_01_stewardship_capacity_principles.md#941-rights-collision-decision-test), and [10.1 Required Evaluation Factors](core_01_stewardship_capacity_principles.md#101-required-evaluation-factors).
+- Downstream: Principles: [3. Foundational Objective: Wellbeing](core_01_a_values_principles.md#3-foundational-objective-wellbeing), [5. System Stability Enabler: Trust](core_01_a_values_principles.md#5-system-stability-enabler-trust-coordination-integrity), [§10 Freedom](core_01_b_stewardship_capacity_principles.md#11-freedom-bounded-agency), [9. Interaction and Conflict Resolution](core_01_b_stewardship_capacity_principles.md#9-interaction-and-conflict-resolution), [9.4.1 Rights-Collision Decision Test](core_01_b_stewardship_capacity_principles.md#941-rights-collision-decision-test), and [10.1 Required Evaluation Factors](core_01_b_stewardship_capacity_principles.md#101-required-evaluation-factors).
 - Cluster component: [Chapter Five §3.20 *Governance Architecture, Oversight, Dependency, Decentralization, Concentration, Market Structure, and Exit-Path Integrity*](core_05-05_definitions_c_dependent_clusters.md#governance-architecture-oversight-decentralization-and-concentration-cluster)
 - Read with: [Wellbeing](#wellbeing), [Risk](#risk), [Classification-Scaled Governance](#classification-scaled-governance), and [System Boundary Integrity](core_05-05_definitions_b_semi_independent.md#system-boundary-integrity).
 
@@ -571,7 +571,7 @@ Independent Definitions must not fragment, isolate, or redistribute compliance i
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [§7.3.2 Contingent claims, games of chance, and event-contract markets](core_01_stewardship_capacity_principles.md#77-contingent-claims-games-of-chance-and-event-contract-markets).
+- Downstream: Principles: [§7.3.2 Contingent claims, games of chance, and event-contract markets](core_01_b_stewardship_capacity_principles.md#77-contingent-claims-games-of-chance-and-event-contract-markets).
 - Cluster component: [Chapter Five §3.13 *Contingent Claim, Event-Contract Market, and Game of Chance*](core_05-05_definitions_a_independent.md#contingent-claim)
 - Read with: [Contingent Claim](#contingent-claim), [Capture of Resolution Pathways](core_05-05_definitions_b_semi_independent.md#capture-of-resolution-pathways), [Truth (Constitutional Constraint)](core_05-05_definitions_c_dependent_clusters.md#truth-constitutional-constraint), [Incentive Alignment](#incentive-alignment), and [Epistemic Integrity](core_05-05_definitions_c_dependent_clusters.md#epistemic-integrity).
 
@@ -594,7 +594,7 @@ Independent Definitions must not fragment, isolate, or redistribute compliance i
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [10.1 Required Evaluation Factors](core_01_stewardship_capacity_principles.md#101-required-evaluation-factors).
+- Downstream: Principles: [10.1 Required Evaluation Factors](core_01_b_stewardship_capacity_principles.md#101-required-evaluation-factors).
 - Cluster component: [Chapter Five §3.32 *Resilience, Safety, Reversibility, Self-Healing, Cascading Failure, Existential Risk, Environmental Preconditions, and Wellbeing*](core_05-05_definitions_c_dependent_clusters.md#collective-harm-boundary-and-harm-cluster)
 - Read with: [Risk](#risk), [Harm](core_05-05_definitions_c_dependent_clusters.md#harm), [Environmental Preconditions](core_05-05_definitions_b_semi_independent.md#environmental-preconditions-constitutional), [Ecological Integrity](core_05-05_definitions_b_semi_independent.md#ecological-integrity-constitutional), and [Intergenerational Responsibility](core_05-05_definitions_b_semi_independent.md#intergenerational-responsibility-constitutional).
 
@@ -616,7 +616,7 @@ Independent Definitions must not fragment, isolate, or redistribute compliance i
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [§10 Freedom](core_01_stewardship_capacity_principles.md#11-freedom-bounded-agency), [9. Interaction and Conflict Resolution](core_01_stewardship_capacity_principles.md#9-interaction-and-conflict-resolution), and [9.4.1 Rights-Collision Decision Test](core_01_stewardship_capacity_principles.md#941-rights-collision-decision-test).
+- Downstream: Principles: [§10 Freedom](core_01_b_stewardship_capacity_principles.md#11-freedom-bounded-agency), [9. Interaction and Conflict Resolution](core_01_b_stewardship_capacity_principles.md#9-interaction-and-conflict-resolution), and [9.4.1 Rights-Collision Decision Test](core_01_b_stewardship_capacity_principles.md#941-rights-collision-decision-test).
 - Cluster component: [Chapter Five §3.27 *Proportionality, Necessity, Feasibility, Avoidable Burden, Burden-Reduction Duty, Constitutional Efficiency, Harm Minimization (Tradeoff Selection), and Productive Capacity*](core_05-05_definitions_c_dependent_clusters.md#proportionality-necessity-feasibility-burden-and-efficiency-cluster)
 - Read with: [Necessity](#necessity), [Proportionality](#proportionality), [Freedom (Bounded Agency)](#freedom-bounded-agency), and [Meaningful Agency](core_05-05_definitions_b_semi_independent.md#meaningful-agency).
 
@@ -638,7 +638,7 @@ Independent Definitions must not fragment, isolate, or redistribute compliance i
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [§10 Freedom](core_01_stewardship_capacity_principles.md#11-freedom-bounded-agency); [9. Interaction and Conflict Resolution](core_01_stewardship_capacity_principles.md#9-interaction-and-conflict-resolution).
+- Downstream: Principles: [§10 Freedom](core_01_b_stewardship_capacity_principles.md#11-freedom-bounded-agency); [9. Interaction and Conflict Resolution](core_01_b_stewardship_capacity_principles.md#9-interaction-and-conflict-resolution).
 - Owner floor: [Chapter Eleven §4.1](core_11-11_governance.md#41-entitlement-and-eligibility) (*Political-equality floor for foundational constitutional choice*; *Durable political-voice floor*); [Article IX-C: Governance Participation and Voting Entitlement](core_10-10_rights_part_b.md#article-ix-c-governance-participation-and-voting-entitlement).
 - Cluster component: [Chapter Five §3.12 *Constitutional Contract Layer and Foundational Constitutional Choice*](core_05-05_definitions_a_independent.md#constitutional-contract-layer)
 - Read with: [Constitutional Contract Layer](#constitutional-contract-layer), [Stakeholder Representation and Participation-Weight Limits (Binding Stakeholder Choice)](core_05-05_definitions_c_dependent_clusters.md#stakeholder-representation-and-participation-weight-limits-binding-collective-choice), [Binding Stakeholder Choice](core_05-05_definitions_c_dependent_clusters.md#binding-stakeholder-choice-cluster), [Procedural Fairness](core_05-05_definitions_b_semi_independent.md#procedural-fairness-constitutional).
@@ -668,7 +668,7 @@ Independent Definitions must not fragment, isolate, or redistribute compliance i
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [§10 Freedom](core_01_stewardship_capacity_principles.md#11-freedom-bounded-agency).
+- Downstream: Principles: [§10 Freedom](core_01_b_stewardship_capacity_principles.md#11-freedom-bounded-agency).
 - Read with: the [Self-Determination, Meaningful Agency, Expression, Educational Agency, and Volitional Integrity cluster](core_05-05_definitions_c_dependent_clusters.md#self-determination-and-meaningful-agency-cluster), [Meaningful Agency](core_05-05_definitions_b_semi_independent.md#meaningful-agency), [Necessity](#necessity), [Proportionality](#proportionality), [Coercion and Manipulation](core_05-05_definitions_b_semi_independent.md#coercion-and-manipulation-constitutional), and [Contestability](core_05-05_definitions_b_semi_independent.md#contestability).
 
 </details>
@@ -690,7 +690,7 @@ Independent Definitions must not fragment, isolate, or redistribute compliance i
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [§7.3.2 Contingent claims, games of chance, and event-contract markets](core_01_stewardship_capacity_principles.md#77-contingent-claims-games-of-chance-and-event-contract-markets).
+- Downstream: Principles: [§7.3.2 Contingent claims, games of chance, and event-contract markets](core_01_b_stewardship_capacity_principles.md#77-contingent-claims-games-of-chance-and-event-contract-markets).
 - Cluster component: [Chapter Five §3.13 *Contingent Claim, Event-Contract Market, and Game of Chance*](core_05-05_definitions_a_independent.md#contingent-claim)
 - Read with: [Contingent Claim](#contingent-claim), [Coercion and Manipulation](core_05-05_definitions_b_semi_independent.md#coercion-and-manipulation-constitutional), [Incentive Alignment](#incentive-alignment), [Dependency](#dependency), and [Capture of Resolution Pathways](core_05-05_definitions_b_semi_independent.md#capture-of-resolution-pathways).
 
@@ -734,7 +734,7 @@ Independent Definitions must not fragment, isolate, or redistribute compliance i
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [§10 Freedom](core_01_stewardship_capacity_principles.md#11-freedom-bounded-agency) and [12. Prohibition on Absolute Override](core_01_stewardship_capacity_principles.md#12-prohibition-on-absolute-override).
+- Downstream: Principles: [§10 Freedom](core_01_b_stewardship_capacity_principles.md#11-freedom-bounded-agency) and [12. Prohibition on Absolute Override](core_01_b_stewardship_capacity_principles.md#12-prohibition-on-absolute-override).
 - Cluster component: [Chapter Five §3.27 *Proportionality, Necessity, Feasibility, Avoidable Burden, Burden-Reduction Duty, Constitutional Efficiency, Harm Minimization (Tradeoff Selection), and Productive Capacity*](core_05-05_definitions_c_dependent_clusters.md#proportionality-necessity-feasibility-burden-and-efficiency-cluster)
 - Read with: Harm, Risk, Necessity, and Proportionality.
 
@@ -756,9 +756,9 @@ Independent Definitions must not fragment, isolate, or redistribute compliance i
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [Constitutional Triad](core_00_preamble.md#constitutional-triad) (triad capture discipline under [§7](core_01_stewardship_capacity_principles.md#7-governance-under-stewardship-discipline); [material stake](core_00_preamble.md#material-stake) scaling); [10.1 Required Evaluation Factors](core_01_stewardship_capacity_principles.md#101-required-evaluation-factors) and [§7 Governance Under Stewardship Discipline](core_01_stewardship_capacity_principles.md#7-governance-under-stewardship-discipline).
-- Stewardship operationalization: [Chapter One §7.4 Stewardship and Operator Incentive Alignment](core_01_stewardship_capacity_principles.md#74-stewardship-and-operator-incentive-alignment).
-- Active correction and capture escalation: [Chapter One §10.2.4 Misalignment Correction and Capture Response](core_01_stewardship_capacity_principles.md#76-misalignment-correction-and-capture-response).
+- Downstream: Principles: [Constitutional Triad](core_00_preamble.md#constitutional-triad) (triad capture discipline under [§7](core_01_b_stewardship_capacity_principles.md#7-governance-under-stewardship-discipline); [material stake](core_00_preamble.md#material-stake) scaling); [10.1 Required Evaluation Factors](core_01_b_stewardship_capacity_principles.md#101-required-evaluation-factors) and [§7 Governance Under Stewardship Discipline](core_01_b_stewardship_capacity_principles.md#7-governance-under-stewardship-discipline).
+- Stewardship operationalization: [Chapter One §7.4 Stewardship and Operator Incentive Alignment](core_01_b_stewardship_capacity_principles.md#74-stewardship-and-operator-incentive-alignment).
+- Active correction and capture escalation: [Chapter One §10.2.4 Misalignment Correction and Capture Response](core_01_b_stewardship_capacity_principles.md#76-misalignment-correction-and-capture-response).
 - Cluster component: [Chapter Five §3.20 *Governance Architecture, Oversight, Dependency, Decentralization, Concentration, Market Structure, and Exit-Path Integrity*](core_05-05_definitions_c_dependent_clusters.md#governance-architecture-oversight-decentralization-and-concentration-cluster) (hub paths that intersect dependency, concentration, governance-form incentives, or exit-quality analysis — read together with [Chapter Five §3.13 *Contingent Claim, Event-Contract Market, and Game of Chance*](core_05-05_definitions_a_independent.md#contingent-claim) where contingent structures are materially implicated)
 - Read with: System Capture, Proxy Divergence, Truth (Constitutional Constraint), Epistemic Integrity, and Meaningful Agency.
 
@@ -909,7 +909,7 @@ Independent Definitions must not fragment, isolate, or redistribute compliance i
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [§10 Freedom](core_01_stewardship_capacity_principles.md#11-freedom-bounded-agency), [9. Interaction and Conflict Resolution](core_01_stewardship_capacity_principles.md#9-interaction-and-conflict-resolution), [6.2.1 Preservation of Epistemic Integrity](core_01_stewardship_capacity_principles.md#921-preservation-of-epistemic-integrity), [9.4.1 Rights-Collision Decision Test](core_01_stewardship_capacity_principles.md#941-rights-collision-decision-test), and [12. Prohibition on Absolute Override](core_01_stewardship_capacity_principles.md#12-prohibition-on-absolute-override).
+- Downstream: Principles: [§10 Freedom](core_01_b_stewardship_capacity_principles.md#11-freedom-bounded-agency), [9. Interaction and Conflict Resolution](core_01_b_stewardship_capacity_principles.md#9-interaction-and-conflict-resolution), [6.2.1 Preservation of Epistemic Integrity](core_01_b_stewardship_capacity_principles.md#921-preservation-of-epistemic-integrity), [9.4.1 Rights-Collision Decision Test](core_01_b_stewardship_capacity_principles.md#941-rights-collision-decision-test), and [12. Prohibition on Absolute Override](core_01_b_stewardship_capacity_principles.md#12-prohibition-on-absolute-override).
 - Cluster component: [Chapter Five §3.27 *Proportionality, Necessity, Feasibility, Avoidable Burden, Burden-Reduction Duty, Constitutional Efficiency, Harm Minimization (Tradeoff Selection), and Productive Capacity*](core_05-05_definitions_c_dependent_clusters.md#proportionality-necessity-feasibility-burden-and-efficiency-cluster)
 - Read with: Proportionality, Feasibility, Harm, Risk, and Freedom (Bounded Agency).
 
@@ -951,7 +951,7 @@ Independent Definitions must not fragment, isolate, or redistribute compliance i
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [Constitutional Triad](core_00_preamble.md#constitutional-triad) (oversight leg; [material stake](core_00_preamble.md#material-stake) scaling); [§7 Governance Under Stewardship Discipline](core_01_stewardship_capacity_principles.md#7-governance-under-stewardship-discipline).
+- Downstream: Principles: [Constitutional Triad](core_00_preamble.md#constitutional-triad) (oversight leg; [material stake](core_00_preamble.md#material-stake) scaling); [§7 Governance Under Stewardship Discipline](core_01_b_stewardship_capacity_principles.md#7-governance-under-stewardship-discipline).
 - Cluster component: [Governance Architecture, Oversight, Dependency, Decentralization, Concentration, Market Structure, and Exit-Path Integrity](core_05-05_definitions_c_dependent_clusters.md#governance-architecture-oversight-decentralization-and-concentration-cluster).
 - Read with: [Chapter Five §3.23 *Material Impact, Materiality Determination, Classification-Scaled Governance, Oversight, and Capability Requirement*](core_05-05_definitions_b_semi_independent.md#materiality-semi-independent), [Accountability](core_05-05_definitions_b_semi_independent.md#accountability), [Contestability](core_05-05_definitions_b_semi_independent.md#contestability), [Transparency](core_05-05_definitions_c_dependent_clusters.md#transparency), [Auditability](core_05-05_definitions_c_dependent_clusters.md#auditability), and [System Capture](core_05-05_definitions_a_independent.md#system-capture).
 
@@ -998,7 +998,7 @@ Independent Definitions must not fragment, isolate, or redistribute compliance i
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [§10 Freedom](core_01_stewardship_capacity_principles.md#11-freedom-bounded-agency), [9. Interaction and Conflict Resolution](core_01_stewardship_capacity_principles.md#9-interaction-and-conflict-resolution), [6.2.1 Preservation of Epistemic Integrity](core_01_stewardship_capacity_principles.md#921-preservation-of-epistemic-integrity), [9.4.1 Rights-Collision Decision Test](core_01_stewardship_capacity_principles.md#941-rights-collision-decision-test), and [12. Prohibition on Absolute Override](core_01_stewardship_capacity_principles.md#12-prohibition-on-absolute-override).
+- Downstream: Principles: [§10 Freedom](core_01_b_stewardship_capacity_principles.md#11-freedom-bounded-agency), [9. Interaction and Conflict Resolution](core_01_b_stewardship_capacity_principles.md#9-interaction-and-conflict-resolution), [6.2.1 Preservation of Epistemic Integrity](core_01_b_stewardship_capacity_principles.md#921-preservation-of-epistemic-integrity), [9.4.1 Rights-Collision Decision Test](core_01_b_stewardship_capacity_principles.md#941-rights-collision-decision-test), and [12. Prohibition on Absolute Override](core_01_b_stewardship_capacity_principles.md#12-prohibition-on-absolute-override).
 - Cluster component: [Chapter Five §3.27 *Proportionality, Necessity, Feasibility, Avoidable Burden, Burden-Reduction Duty, Constitutional Efficiency, Harm Minimization (Tradeoff Selection), and Productive Capacity*](core_05-05_definitions_c_dependent_clusters.md#proportionality-necessity-feasibility-burden-and-efficiency-cluster)
 - Read with: Necessity, Harm, Risk, Irreversible Harm, and Classification-Scaled Governance.
 
@@ -1074,7 +1074,7 @@ Independent Definitions must not fragment, isolate, or redistribute compliance i
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [10.1 Required Evaluation Factors](core_01_stewardship_capacity_principles.md#101-required-evaluation-factors).
+- Downstream: Principles: [10.1 Required Evaluation Factors](core_01_b_stewardship_capacity_principles.md#101-required-evaluation-factors).
 - Cluster component: [Chapter Five §3.32 *Resilience, Safety, Reversibility, Self-Healing, Cascading Failure, Existential Risk, Environmental Preconditions, and Wellbeing*](core_05-05_definitions_c_dependent_clusters.md#collective-harm-boundary-and-harm-cluster)
 - Read with: [Safety (Constraint)](#safety-constraint), [Irreversible Harm](core_05-05_definitions_c_dependent_clusters.md#irreversible-harm), [Cascading Failure](#cascading-failure), and [Dependency](#dependency).
 
@@ -1096,7 +1096,7 @@ Independent Definitions must not fragment, isolate, or redistribute compliance i
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [4.1 Safety](core_01_values_principles.md#41-safety-harm-constraint) and [10.1 Required Evaluation Factors](core_01_stewardship_capacity_principles.md#101-required-evaluation-factors).
+- Downstream: Principles: [4.1 Safety](core_01_a_values_principles.md#41-safety-harm-constraint) and [10.1 Required Evaluation Factors](core_01_b_stewardship_capacity_principles.md#101-required-evaluation-factors).
 - Read with: [Harm](core_05-05_definitions_c_dependent_clusters.md#harm), [Materiality Determination](core_05-05_definitions_b_semi_independent.md#materiality-determination), [Dependency](#dependency), and [Existential Risk](#existential-risk).
 
 </details>
@@ -1177,7 +1177,7 @@ Independent Definitions must not fragment, isolate, or redistribute compliance i
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [Constitutional Triad](core_00_preamble.md#constitutional-triad) (accountability and oversight legs; triad capture discipline under [§7](core_01_stewardship_capacity_principles.md#7-governance-under-stewardship-discipline); [material stake](core_00_preamble.md#material-stake) scaling); [§7 Governance Under Stewardship Discipline](core_01_stewardship_capacity_principles.md#7-governance-under-stewardship-discipline).
+- Downstream: Principles: [Constitutional Triad](core_00_preamble.md#constitutional-triad) (accountability and oversight legs; triad capture discipline under [§7](core_01_b_stewardship_capacity_principles.md#7-governance-under-stewardship-discipline); [material stake](core_00_preamble.md#material-stake) scaling); [§7 Governance Under Stewardship Discipline](core_01_b_stewardship_capacity_principles.md#7-governance-under-stewardship-discipline).
 - Read with: the [Capture, Resolution Integrity, and Anti-Capture cluster](core_05-05_definitions_b_semi_independent.md#capture-of-resolution-pathways), [Incentive Alignment](#incentive-alignment), [Oversight](core_05-05_definitions_a_independent.md#oversight-constitutional), [Accountability](core_05-05_definitions_b_semi_independent.md#accountability), [Contestability](core_05-05_definitions_b_semi_independent.md#contestability), and [Trust Degradation and Misleading Reliance](core_05-05_definitions_c_dependent_clusters.md#trust-degradation-and-misleading-reliance-constitutional).
 
 </details>
@@ -1204,7 +1204,7 @@ Independent Definitions must not fragment, isolate, or redistribute compliance i
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [material stake](core_00_preamble.md#material-stake) scaling; [Two Constitutional Aims](core_01_values_principles.md#two-constitutional-aims) — **Continuity** aim ([§9.1](core_01_stewardship_capacity_principles.md#101-required-evaluation-factors)).
+- Downstream: Principles: [material stake](core_00_preamble.md#material-stake) scaling; [Two Constitutional Aims](core_01_a_values_principles.md#two-constitutional-aims) — **Continuity** aim ([§9.1](core_01_b_stewardship_capacity_principles.md#101-required-evaluation-factors)).
 - Read with: [Material Impact](core_05-05_definitions_b_semi_independent.md#material-impact), [Materiality Determination](core_05-05_definitions_b_semi_independent.md#materiality-determination), and [Classification-Scaled Governance](#classification-scaled-governance).
 
 </details>
@@ -1226,7 +1226,7 @@ Independent Definitions must not fragment, isolate, or redistribute compliance i
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [§10 Freedom (Bounded Agency)](core_01_stewardship_capacity_principles.md#11-freedom-bounded-agency), [8.1.1 Proportionality](core_01_stewardship_capacity_principles.md#911-proportionality), and [9.1.4 Voluntary Discontinuation and Exit Rights](core_01_stewardship_capacity_principles.md#1014-voluntary-discontinuation-and-exit-rights).
+- Downstream: Principles: [§10 Freedom (Bounded Agency)](core_01_b_stewardship_capacity_principles.md#11-freedom-bounded-agency), [8.1.1 Proportionality](core_01_b_stewardship_capacity_principles.md#911-proportionality), and [9.1.4 Voluntary Discontinuation and Exit Rights](core_01_b_stewardship_capacity_principles.md#1014-voluntary-discontinuation-and-exit-rights).
 - Owner floor: [Article VII-E](core_10-10_rights_part_b.md#article-vii-e-voluntary-discontinuation-of-ones-own-existence).
 - Read with: [Consent](core_05-05_definitions_b_semi_independent.md#consent-constitutional), [Coercion and Manipulation](core_05-05_definitions_b_semi_independent.md#coercion-and-manipulation-constitutional), [Procedural Fairness](core_05-05_definitions_b_semi_independent.md#procedural-fairness-constitutional), [Meaningful Agency](core_05-05_definitions_b_semi_independent.md#meaningful-agency), [Freedom (Bounded Agency)](#freedom-bounded-agency), [Dependency](#dependency), [Feasibility](#feasibility), [Truth (Constitutional Constraint)](core_05-05_definitions_c_dependent_clusters.md#truth-constitutional-constraint), [Privacy (Informational)](core_05-05_definitions_c_dependent_clusters.md#privacy-informational), and [Surveillance Boundary](core_05-05_definitions_c_dependent_clusters.md#surveillance-boundary) where materially implicated.
 
@@ -1250,7 +1250,7 @@ Independent Definitions must not fragment, isolate, or redistribute compliance i
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [3. Foundational Objective: Wellbeing](core_01_values_principles.md#3-foundational-objective-wellbeing); [Two Constitutional Aims](core_01_values_principles.md#two-constitutional-aims) — **Flourishing** aim.
+- Downstream: Principles: [3. Foundational Objective: Wellbeing](core_01_a_values_principles.md#3-foundational-objective-wellbeing); [Two Constitutional Aims](core_01_a_values_principles.md#two-constitutional-aims) — **Flourishing** aim.
 - Cluster component: [Chapter Five §3.32 *Resilience, Safety, Reversibility, Self-Healing, Cascading Failure, Existential Risk, Environmental Preconditions, and Wellbeing*](core_05-05_definitions_c_dependent_clusters.md#collective-harm-boundary-and-harm-cluster)
 - Read with: [Harm](core_05-05_definitions_c_dependent_clusters.md#harm), [Dependency](#dependency), [Meaningful Agency](core_05-05_definitions_b_semi_independent.md#meaningful-agency), and [Environmental Preconditions](core_05-05_definitions_b_semi_independent.md#environmental-preconditions-constitutional).
 

@@ -12,8 +12,8 @@ ROOT = Path(__file__).resolve().parents[1]
 
 CORE_CHAIN = (
     "core_00_preamble.md",
-    "core_01_values_principles.md",
-    "core_01_stewardship_capacity_principles.md",
+    "core_01_a_values_principles.md",
+    "core_01_b_stewardship_capacity_principles.md",
     "core_02-04_definition_mechanics.md",
     "core_05-05_definitions_a_independent.md",
     "core_05-05_definitions_b_semi_independent.md",

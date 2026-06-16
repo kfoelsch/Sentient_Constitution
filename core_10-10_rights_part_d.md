@@ -50,7 +50,7 @@ Adopted governance implementation provides escalation, proportionality of interv
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [4.1 Safety](core_01_values_principles.md#41-safety-harm-constraint), [9.4 Rights-Collision Procedure](core_01_stewardship_capacity_principles.md#94-rights-collision-procedure), and [13. Integrated Application](core_01_stewardship_capacity_principles.md#13-integrated-application).
+- Upstream: Principles: Chapter One [4.1 Safety](core_01_a_values_principles.md#41-safety-harm-constraint), [9.4 Rights-Collision Procedure](core_01_b_stewardship_capacity_principles.md#94-rights-collision-procedure), and [13. Integrated Application](core_01_b_stewardship_capacity_principles.md#13-integrated-application).
 
 </details>
 
@@ -78,7 +78,7 @@ Adopted governance implementation provides escalation, proportionality of interv
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [4.1 Safety](core_01_values_principles.md#41-safety-harm-constraint), [9.1 Core Tradeoff Principles](core_01_stewardship_capacity_principles.md#91-core-tradeoff-principles), and [9.4 Rights-Collision Procedure](core_01_stewardship_capacity_principles.md#94-rights-collision-procedure).
+- Upstream: Principles: Chapter One [4.1 Safety](core_01_a_values_principles.md#41-safety-harm-constraint), [9.1 Core Tradeoff Principles](core_01_b_stewardship_capacity_principles.md#91-core-tradeoff-principles), and [9.4 Rights-Collision Procedure](core_01_b_stewardship_capacity_principles.md#94-rights-collision-procedure).
 
 </details>
 
@@ -136,7 +136,7 @@ Adopted governance implementation provides escalation, proportionality of interv
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [9.1 Core Tradeoff Principles](core_01_stewardship_capacity_principles.md#91-core-tradeoff-principles), [9.4 Rights-Collision Procedure](core_01_stewardship_capacity_principles.md#94-rights-collision-procedure), and [12. Prohibition on Absolute Override](core_01_stewardship_capacity_principles.md#12-prohibition-on-absolute-override).
+- Upstream: Principles: Chapter One [9.1 Core Tradeoff Principles](core_01_b_stewardship_capacity_principles.md#91-core-tradeoff-principles), [9.4 Rights-Collision Procedure](core_01_b_stewardship_capacity_principles.md#94-rights-collision-procedure), and [12. Prohibition on Absolute Override](core_01_b_stewardship_capacity_principles.md#12-prohibition-on-absolute-override).
 
 </details>
 
@@ -189,7 +189,7 @@ Adopted governance implementation provides escalation, proportionality of interv
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [4.1 Safety](core_01_values_principles.md#41-safety-harm-constraint), [9.1 Core Tradeoff Principles](core_01_stewardship_capacity_principles.md#91-core-tradeoff-principles), and [9.4 Rights-Collision Procedure](core_01_stewardship_capacity_principles.md#94-rights-collision-procedure).
+- Upstream: Principles: Chapter One [4.1 Safety](core_01_a_values_principles.md#41-safety-harm-constraint), [9.1 Core Tradeoff Principles](core_01_b_stewardship_capacity_principles.md#91-core-tradeoff-principles), and [9.4 Rights-Collision Procedure](core_01_b_stewardship_capacity_principles.md#94-rights-collision-procedure).
 
 </details>
 
@@ -235,7 +235,7 @@ Adopted governance implementation provides escalation, proportionality of interv
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [4.2 Truth](core_01_values_principles.md#42-truth-epistemic-integrity-constraint), [9.2 Epistemic Disclosure Constraints](core_01_stewardship_capacity_principles.md#92-epistemic-disclosure-constraints), and [13. Integrated Application](core_01_stewardship_capacity_principles.md#13-integrated-application).
+- Upstream: Principles: Chapter One [4.2 Truth](core_01_a_values_principles.md#42-truth-epistemic-integrity-constraint), [9.2 Epistemic Disclosure Constraints](core_01_b_stewardship_capacity_principles.md#92-epistemic-disclosure-constraints), and [13. Integrated Application](core_01_b_stewardship_capacity_principles.md#13-integrated-application).
 
 </details>
 
@@ -270,7 +270,7 @@ Adopted governance implementation provides escalation, proportionality of interv
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [9.4 Rights-Collision Procedure](core_01_stewardship_capacity_principles.md#94-rights-collision-procedure), [12. Prohibition on Absolute Override](core_01_stewardship_capacity_principles.md#12-prohibition-on-absolute-override), and [13. Integrated Application](core_01_stewardship_capacity_principles.md#13-integrated-application).
+- Upstream: Principles: Chapter One [9.4 Rights-Collision Procedure](core_01_b_stewardship_capacity_principles.md#94-rights-collision-procedure), [12. Prohibition on Absolute Override](core_01_b_stewardship_capacity_principles.md#12-prohibition-on-absolute-override), and [13. Integrated Application](core_01_b_stewardship_capacity_principles.md#13-integrated-application).
 
 </details>
 
@@ -323,7 +323,7 @@ Inertia, convenience, and historical precedent alone cannot entrench arrangement
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [3. Foundational Objective: Wellbeing](core_01_values_principles.md#3-foundational-objective-wellbeing), [10.1 Required Evaluation Factors](core_01_stewardship_capacity_principles.md#101-required-evaluation-factors), and [12. Prohibition on Absolute Override](core_01_stewardship_capacity_principles.md#12-prohibition-on-absolute-override).
+- Upstream: Principles: Chapter One [3. Foundational Objective: Wellbeing](core_01_a_values_principles.md#3-foundational-objective-wellbeing), [10.1 Required Evaluation Factors](core_01_b_stewardship_capacity_principles.md#101-required-evaluation-factors), and [12. Prohibition on Absolute Override](core_01_b_stewardship_capacity_principles.md#12-prohibition-on-absolute-override).
 
 </details>
 
@@ -352,7 +352,7 @@ Inertia, convenience, and historical precedent alone cannot entrench arrangement
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [4.2 Truth](core_01_values_principles.md#42-truth-epistemic-integrity-constraint), [10.1 Required Evaluation Factors](core_01_stewardship_capacity_principles.md#101-required-evaluation-factors), and [12. Prohibition on Absolute Override](core_01_stewardship_capacity_principles.md#12-prohibition-on-absolute-override).
+- Upstream: Principles: Chapter One [4.2 Truth](core_01_a_values_principles.md#42-truth-epistemic-integrity-constraint), [10.1 Required Evaluation Factors](core_01_b_stewardship_capacity_principles.md#101-required-evaluation-factors), and [12. Prohibition on Absolute Override](core_01_b_stewardship_capacity_principles.md#12-prohibition-on-absolute-override).
 
 </details>
 
@@ -397,7 +397,7 @@ Transitional governance exists to secure continuity and non-regression. It must 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [4.1 Safety](core_01_values_principles.md#41-safety-harm-constraint), [9.1 Core Tradeoff Principles](core_01_stewardship_capacity_principles.md#91-core-tradeoff-principles), and [10.1 Required Evaluation Factors](core_01_stewardship_capacity_principles.md#101-required-evaluation-factors).
+- Upstream: Principles: Chapter One [4.1 Safety](core_01_a_values_principles.md#41-safety-harm-constraint), [9.1 Core Tradeoff Principles](core_01_b_stewardship_capacity_principles.md#91-core-tradeoff-principles), and [10.1 Required Evaluation Factors](core_01_b_stewardship_capacity_principles.md#101-required-evaluation-factors).
 
 </details>
 
@@ -435,7 +435,7 @@ Transitional governance exists to secure continuity and non-regression. It must 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [4.1 Safety](core_01_values_principles.md#41-safety-harm-constraint), [9.1 Core Tradeoff Principles](core_01_stewardship_capacity_principles.md#91-core-tradeoff-principles), and [12. Prohibition on Absolute Override](core_01_stewardship_capacity_principles.md#12-prohibition-on-absolute-override).
+- Upstream: Principles: Chapter One [4.1 Safety](core_01_a_values_principles.md#41-safety-harm-constraint), [9.1 Core Tradeoff Principles](core_01_b_stewardship_capacity_principles.md#91-core-tradeoff-principles), and [12. Prohibition on Absolute Override](core_01_b_stewardship_capacity_principles.md#12-prohibition-on-absolute-override).
 
 </details>
 
@@ -467,7 +467,7 @@ Transitional governance exists to secure continuity and non-regression. It must 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [4.1 Safety](core_01_values_principles.md#41-safety-harm-constraint), [9.1 Core Tradeoff Principles](core_01_stewardship_capacity_principles.md#91-core-tradeoff-principles), and [13. Integrated Application](core_01_stewardship_capacity_principles.md#13-integrated-application).
+- Upstream: Principles: Chapter One [4.1 Safety](core_01_a_values_principles.md#41-safety-harm-constraint), [9.1 Core Tradeoff Principles](core_01_b_stewardship_capacity_principles.md#91-core-tradeoff-principles), and [13. Integrated Application](core_01_b_stewardship_capacity_principles.md#13-integrated-application).
 
 </details>
 
@@ -500,7 +500,7 @@ Transitional governance exists to secure continuity and non-regression. It must 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [4.1 Safety](core_01_values_principles.md#41-safety-harm-constraint), [9.4 Rights-Collision Procedure](core_01_stewardship_capacity_principles.md#94-rights-collision-procedure), and [10.1 Required Evaluation Factors](core_01_stewardship_capacity_principles.md#101-required-evaluation-factors).
+- Upstream: Principles: Chapter One [4.1 Safety](core_01_a_values_principles.md#41-safety-harm-constraint), [9.4 Rights-Collision Procedure](core_01_b_stewardship_capacity_principles.md#94-rights-collision-procedure), and [10.1 Required Evaluation Factors](core_01_b_stewardship_capacity_principles.md#101-required-evaluation-factors).
 
 </details>
 

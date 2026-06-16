@@ -16,7 +16,9 @@ from pathlib import Path
 
 CH5 = Path("core_05-05_definitions_a_independent.md")
 CONSUMERS = [
-    Path("core_00-01_principles.md"),
+    Path("core_00_preamble.md"),
+    Path("core_01_a_values_principles.md"),
+    Path("core_01_b_stewardship_capacity_principles.md"),
     Path("core_02-04_definition_mechanics.md"),
     Path("core_06-06_standing_assessment.md"),
     Path("core_07-07_standing_integration.md"),

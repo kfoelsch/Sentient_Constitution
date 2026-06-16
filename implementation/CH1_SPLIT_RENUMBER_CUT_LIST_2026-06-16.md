@@ -1,6 +1,6 @@
 # Chapter One split and renumber — cut list and migration spec
 
-**Status:** Applied (2026-06-16) — Chapter One split, Part B renumber, Chapter Five definitions (P3), corpus-wide link migration, edition `SC-Corpus-2026.04.33`  
+**Status:** Applied (2026-06-16) — Chapter One split, Part B renumber, Chapter Five definitions (P3), corpus-wide link migration, edition `SC-Corpus-2026.04.33`. **2026-06-16 follow-up:** Part filenames reordered to `core_01_a_values_principles.md` / `core_01_b_stewardship_capacity_principles.md` (Chapter Five `_a_`/`_b_` convention; fixes reverse alphabetical sort).  
 **Date:** 2026-06-16  
 **Scope:** Split `core_00-01_principles.md` into three files; renumber Chapter One Part B §§6–13 per stewardship → governance → capacity hierarchy.
 
@@ -11,11 +11,11 @@
 | File | Chapter | Title | Source lines (current `core_00-01_principles.md`) |
 |---|---|---|---|
 | `core_00_preamble.md` | **00** | Preamble / Foundational Requirements | L6–L45 (after file header) |
-| `core_01_values_principles.md` | **01, Part A** | Values Principles | L48–L631 (through end of §5.1; **exclude** L632–L665 legacy redirect block) |
-| `core_01_stewardship_capacity_principles.md` | **01, Part B** | Stewardship, Capacity, and Constitutional Safeguards | L666–L1833 (reordered + renumbered) |
-| `core_00-01_principles.md` | — | **Retired stub** (optional) | Thin redirect + legacy anchor block only |
+| `core_01_a_values_principles.md` | **01, Part A** | Values Principles | L48–L631 (through end of §5.1; **exclude** L632–L665 legacy redirect block) |
+| `core_01_b_stewardship_capacity_principles.md` | **01, Part B** | Stewardship, Capacity, and Constitutional Safeguards | L666–L1833 (reordered + renumbered) |
+| `core_00-01_principles.md` | — | **Removed (pre-release)** | Former redirect stub; legacy anchors live in `core_00_preamble.md` and `core_01_a_values_principles.md`. |
 
-**Reading order:** `core_00_preamble.md` → `core_01_values_principles.md` → `core_01_stewardship_capacity_principles.md` → `core_02-04_definition_mechanics.md`
+**Reading order:** `core_00_preamble.md` → `core_01_a_values_principles.md` → `core_01_b_stewardship_capacity_principles.md` → `core_02-04_definition_mechanics.md`
 
 **`tools/corpus_paths.py` CORE_FILES** — replace `core_00-01_principles.md` with the three files above (stub omitted if fully migrated).
 
@@ -37,22 +37,22 @@ CUT END:   L45 (blank line before ---)
 
 This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one instrument. It contains **Chapter 00** (preamble / foundational requirements). Reading order and edition metadata: [README.md](README.md).
 
-**Next:** [core_01_values_principles.md](core_01_values_principles.md) (Chapter One, Part A — Values Principles).
+**Next:** [core_01_a_values_principles.md](core_01_a_values_principles.md) (Chapter One, Part A — Values Principles).
 ```
 
 **Preamble link fixes (in cut content):**
 
 | Old | New |
 |---|---|
-| `[Chapter One, §2 Purpose and Role](#2-purpose-and-role)` | `core_01_values_principles.md#2-purpose-and-role` |
-| `[§3.2 Recognition…](#32-recognition-reinforcement-and-aspiration)` | `core_01_values_principles.md#32-recognition-reinforcement-and-aspiration` |
+| `[Chapter One, §2 Purpose and Role](#2-purpose-and-role)` | `core_01_a_values_principles.md#2-purpose-and-role` |
+| `[§3.2 Recognition…](#32-recognition-reinforcement-and-aspiration)` | `core_01_a_values_principles.md#32-recognition-reinforcement-and-aspiration` |
 | `Chapter One` (generic, L27) | `Chapter One` (still valid; add Part A/B note in L34 bullet) |
 
 **Anchors retained in preamble file:** `#constitutional-triad`, `#material-stake`, `#material-family-orientation`
 
 ---
 
-### 2.2 `core_01_values_principles.md`
+### 2.2 `core_01_a_values_principles.md`
 
 ```
 CUT START: L48  ## CHAPTER 01: PRINCIPLES AND CONSTRAINTS
@@ -68,7 +68,7 @@ EXCLUDE:   L632–L665 (legacy redirect anchor HTML comment block — migrate to
 Binding only together with other `core_*` files. **Chapter One, Part A** — §§1–5 (interpretation, aims, wellbeing, Safety/Truth, Trust).
 
 **Upstream:** [core_00_preamble.md](core_00_preamble.md)  
-**Next:** [core_01_stewardship_capacity_principles.md](core_01_stewardship_capacity_principles.md) (Chapter One, Part B).
+**Next:** [core_01_b_stewardship_capacity_principles.md](core_01_b_stewardship_capacity_principles.md) (Chapter One, Part B).
 ```
 
 **Chapter heading:** change to `## CHAPTER 01, PART A: VALUES PRINCIPLES`
@@ -77,21 +77,21 @@ Binding only together with other `core_*` files. **Chapter One, Part A** — §�
 
 | Old ref pattern | New ref |
 |---|---|
-| `#7-stewardship-and-distributed-understanding` | `core_01_stewardship_capacity_principles.md#6-stewardship-and-distributed-understanding` |
-| `#6-shared-system-capacity` | `core_01_stewardship_capacity_principles.md#8-shared-system-capacity` |
-| `#814-minimization-of-avoidable-burden` | `core_01_stewardship_capacity_principles.md#914-minimization-of-avoidable-burden` |
-| `#91-required-evaluation-factors` | `core_01_stewardship_capacity_principles.md#101-required-evaluation-factors` |
-| `#92-incentive-alignment-and-system-capture` | `core_01_stewardship_capacity_principles.md#7-governance-under-stewardship-discipline` |
-| `#922-stewardship-and-operator-incentive-alignment` | `core_01_stewardship_capacity_principles.md#74-stewardship-and-operator-incentive-alignment` |
-| `#11-prohibition-on-absolute-override` | `core_01_stewardship_capacity_principles.md#12-prohibition-on-absolute-override` |
-| `#821-preservation-of-epistemic-integrity` | `core_01_stewardship_capacity_principles.md#921-preservation-of-epistemic-integrity` |
-| `#822-trust-truth-alignment` | `core_01_stewardship_capacity_principles.md#922-trust-truth-alignment` |
+| `#7-stewardship-and-distributed-understanding` | `core_01_b_stewardship_capacity_principles.md#6-stewardship-and-distributed-understanding` |
+| `#6-shared-system-capacity` | `core_01_b_stewardship_capacity_principles.md#8-shared-system-capacity` |
+| `#814-minimization-of-avoidable-burden` | `core_01_b_stewardship_capacity_principles.md#914-minimization-of-avoidable-burden` |
+| `#91-required-evaluation-factors` | `core_01_b_stewardship_capacity_principles.md#101-required-evaluation-factors` |
+| `#92-incentive-alignment-and-system-capture` | `core_01_b_stewardship_capacity_principles.md#7-governance-under-stewardship-discipline` |
+| `#922-stewardship-and-operator-incentive-alignment` | `core_01_b_stewardship_capacity_principles.md#74-stewardship-and-operator-incentive-alignment` |
+| `#11-prohibition-on-absolute-override` | `core_01_b_stewardship_capacity_principles.md#12-prohibition-on-absolute-override` |
+| `#821-preservation-of-epistemic-integrity` | `core_01_b_stewardship_capacity_principles.md#921-preservation-of-epistemic-integrity` |
+| `#822-trust-truth-alignment` | `core_01_b_stewardship_capacity_principles.md#922-trust-truth-alignment` |
 
 **Anchors retained in Part A:** `#two-constitutional-aims`, `#flourishing`, `#continuity`, all §1–§5 anchors unchanged.
 
 ---
 
-### 2.3 `core_01_stewardship_capacity_principles.md`
+### 2.3 `core_01_b_stewardship_capacity_principles.md`
 
 **Assembly order (not current file order):**
 
@@ -196,7 +196,7 @@ Binding only together with other `core_*` files. **Chapter One, Part A** — §�
 
 ## 4. Anchor ID migration
 
-**Rule:** Every **primary** anchor gets a new canonical id matching the new section number. **All old ids** remain as empty redirect anchors in `core_01_stewardship_capacity_principles.md` (or retired stub) for one edition cycle.
+**Rule:** Every **primary** anchor gets a new canonical id matching the new section number. **All old ids** remain as empty redirect anchors in `core_01_b_stewardship_capacity_principles.md` (or retired stub) for one edition cycle.
 
 ### 4.1 Primary anchors (old → new)
 
@@ -272,7 +272,7 @@ Keep existing pre-elevation ids from L632–L657 **plus** all superseded primary
 ```markdown
 **Principle hierarchy (Part B).** At principle layer:
 
-1. **Stewardship** ([Stewardship](core_05-05_definitions_b_semi_independent.md#stewardship-constitutional)) orients systems toward durable constitutional alignment over time, including the **Continuity** aim under the [Two Constitutional Aims](core_01_values_principles.md#two-constitutional-aims).
+1. **Stewardship** ([Stewardship](core_05-05_definitions_b_semi_independent.md#stewardship-constitutional)) orients systems toward durable constitutional alignment over time, including the **Continuity** aim under the [Two Constitutional Aims](core_01_a_values_principles.md#two-constitutional-aims).
 2. **Governance** ([Governance](core_05-05_definitions_b_semi_independent.md#governance)) structures authorized decision-making, participation, and accountability. Where governance and stewardship conflict, stewardship discipline controls at principle layer unless **Necessity** and **Proportionality** expressly justify a bounded, time-limited exception with correction paths. Operative authorization and contract-layer requirements remain owned by **Chapter Eleven**.
 3. **Shared-System Capacity** ([Shared-System Capacity](core_05-05_definitions_b_semi_independent.md#shared-system-capacity-constitutional)) is the durable, contestable ability those jointly produce — an **instrumental outcome**, not a freestanding trump value.
 
@@ -389,8 +389,8 @@ Replace "§§6–9" language with:
 | Old | New |
 |---|---|
 | `core_00-01_principles.md` (preamble anchors) | `core_00_preamble.md` |
-| `core_00-01_principles.md` (§§1–5) | `core_01_values_principles.md` |
-| `core_00-01_principles.md` (§§6–13) | `core_01_stewardship_capacity_principles.md` |
+| `core_00-01_principles.md` (§§1–5) | `core_01_a_values_principles.md` |
+| `core_00-01_principles.md` (§§6–13) | `core_01_b_stewardship_capacity_principles.md` |
 
 **Triad / material stake / aims:** split by anchor — triad + material-stake → preamble or values file as listed in §4.
 
@@ -400,25 +400,25 @@ Run in order after file split. Example patterns:
 
 ```
 core_00-01_principles.md#7-stewardship-and-distributed-understanding
-  → core_01_stewardship_capacity_principles.md#6-stewardship-and-distributed-understanding
+  → core_01_b_stewardship_capacity_principles.md#6-stewardship-and-distributed-understanding
 
 core_00-01_principles.md#6-shared-system-capacity
-  → core_01_stewardship_capacity_principles.md#8-shared-system-capacity
+  → core_01_b_stewardship_capacity_principles.md#8-shared-system-capacity
 
 core_00-01_principles.md#92-incentive-alignment-and-system-capture
-  → core_01_stewardship_capacity_principles.md#7-governance-under-stewardship-discipline
+  → core_01_b_stewardship_capacity_principles.md#7-governance-under-stewardship-discipline
 
 core_00-01_principles.md#922-stewardship-and-operator-incentive-alignment
-  → core_01_stewardship_capacity_principles.md#74-stewardship-and-operator-incentive-alignment
+  → core_01_b_stewardship_capacity_principles.md#74-stewardship-and-operator-incentive-alignment
 
 core_00-01_principles.md#814-minimization-of-avoidable-burden
-  → core_01_stewardship_capacity_principles.md#914-minimization-of-avoidable-burden
+  → core_01_b_stewardship_capacity_principles.md#914-minimization-of-avoidable-burden
 
 core_00-01_principles.md#constitutional-triad
   → core_00_preamble.md#constitutional-triad
 
 core_00-01_principles.md#two-constitutional-aims
-  → core_01_values_principles.md#two-constitutional-aims
+  → core_01_a_values_principles.md#two-constitutional-aims
 ```
 
 Full mapping: generate from §4.1 via script `tools/ch1_split_link_migrate.py` (to be written).

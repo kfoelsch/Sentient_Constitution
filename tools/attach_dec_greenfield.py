@@ -4,7 +4,7 @@ consumer sections that did **not** previously carry a ``Definitions: …`` line
 inside Trace.
 
 Scope (per ``doc_architecture.md`` rule 12, 2026-04-16 D/E/C split):
-- Operates only on the five existing consumer files (``core_00_preamble.md`, `core_01_values_principles.md`, and `core_01_stewardship_capacity_principles.md``
+- Operates only on the five existing consumer files (``core_00_preamble.md`, `core_01_a_values_principles.md`, and `core_01_b_stewardship_capacity_principles.md``
   + ``core_10-10_rights_part_a..d.md``).
 - Sections targeted are listed in ``ATTACHMENTS`` below: each entry pairs a
   unique heading-line text with the explicitly invoked Chapter Five concepts

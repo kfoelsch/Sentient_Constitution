@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Migrate core_01_stewardship_capacity_principles.md#anchor links after Chapter One split."""
+"""Migrate core_01_b_stewardship_capacity_principles.md#anchor links after Chapter One split."""
 
 from __future__ import annotations
 
@@ -10,12 +10,12 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 
 PREAMBLE = "core_00_preamble.md"
-VALUES = "core_01_values_principles.md"
-PART_B = "core_01_stewardship_capacity_principles.md"
+VALUES = "core_01_a_values_principles.md"
+PART_B = "core_01_b_stewardship_capacity_principles.md"
 CH1_UPSTREAM = (
     "[core_00_preamble.md](core_00_preamble.md), "
-    "[core_01_values_principles.md](core_01_values_principles.md), and "
-    "[core_01_stewardship_capacity_principles.md](core_01_stewardship_capacity_principles.md)"
+    "[core_01_a_values_principles.md](core_01_a_values_principles.md), and "
+    "[core_01_b_stewardship_capacity_principles.md](core_01_b_stewardship_capacity_principles.md)"
 )
 
 PREAMBLE_ANCHORS = {
@@ -155,13 +155,13 @@ def target_for_anchor(anchor: str) -> str:
 
 def migrate_file_refs(text: str) -> tuple[str, int]:
     count = 0
-    old = "[core_00_preamble.md](core_00_preamble.md), [core_01_values_principles.md](core_01_values_principles.md), and [core_01_stewardship_capacity_principles.md](core_01_stewardship_capacity_principles.md)"
+    old = "[core_00_preamble.md](core_00_preamble.md), [core_01_a_values_principles.md](core_01_a_values_principles.md), and [core_01_b_stewardship_capacity_principles.md](core_01_b_stewardship_capacity_principles.md)"
     if old in text:
         n = text.count(old)
         text = text.replace(old, CH1_UPSTREAM)
         count += n
-    old2 = "`core_00_preamble.md`, `core_01_values_principles.md`, and `core_01_stewardship_capacity_principles.md`"
-    new2 = "`core_00_preamble.md`, `core_01_values_principles.md`, and `core_01_stewardship_capacity_principles.md`"
+    old2 = "`core_00_preamble.md`, `core_01_a_values_principles.md`, and `core_01_b_stewardship_capacity_principles.md`"
+    new2 = "`core_00_preamble.md`, `core_01_a_values_principles.md`, and `core_01_b_stewardship_capacity_principles.md`"
     if old2 in text:
         n = text.count(old2)
         text = text.replace(old2, new2)

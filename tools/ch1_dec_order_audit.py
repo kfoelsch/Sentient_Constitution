@@ -70,8 +70,8 @@ def main() -> int:
     root = Path(args.root)
     failures: list[str] = []
     ch1_files = (
-        root / "core_01_values_principles.md",
-        root / "core_01_stewardship_capacity_principles.md",
+        root / "core_01_a_values_principles.md",
+        root / "core_01_b_stewardship_capacity_principles.md",
     )
     lines: list[str] = []
     for path in ch1_files:

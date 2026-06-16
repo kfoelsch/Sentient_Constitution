@@ -58,6 +58,19 @@ EXPECTED_TOPIC_GROUPS: dict[str, list[str]] = {
         "Refuge from Non-Compliance",
         "Non-Statelessness",
     ],
+    "#### Governance architecture, decentralization, and concentration": [
+        "Governance",
+        "Decentralization",
+        "Concentration Threshold",
+    ],
+    "#### Stewardship, governance discipline, review, and correction": [
+        "Stewardship",
+        "Distributed Understanding",
+        "Short-Horizon Governance Defect",
+        "Strategic Stewardship Obligation",
+        "Stewardship Defect",
+        "Review and Correction Duty",
+    ],
 }
 
 TOPIC_GROUP_HEADINGS: set[str] = set(EXPECTED_TOPIC_GROUPS) | {
@@ -65,10 +78,7 @@ TOPIC_GROUP_HEADINGS: set[str] = set(EXPECTED_TOPIC_GROUPS) | {
     "#### Fairness, protected characteristics, and nondiscrimination",
     "#### Family, care, reproductive autonomy, and instantiation",
     "#### Ecological integrity, footprint, and sustainability",
-    "#### Governance architecture, decentralization, and concentration",
-    "#### Stewardship, governance discipline, and shared-system capacity",
     "#### System boundaries, integrity, and exit",
-    "#### Stewardship, review, and correction",
     "#### Stakeholder status and participation weight",
     "#### Survival-floor continuity: bodily maintenance, tenure, and environment",
     "#### Community-anchored continuity: indigenous, language, culture, and heritage",
@@ -149,14 +159,11 @@ EXPECTED_CLUSTERS: dict[str, list[str]] = {
     ],
     "#### 3.10 Stewardship, Governance Discipline, and Shared-System Capacity": [
         "Stewardship",
-        "Governance",
         "Distributed Understanding",
         "Short-Horizon Governance Defect",
-        "Shared-System Capacity",
-    ],
-    "#### 3.11 Strategic Stewardship and Stewardship Defect": [
         "Strategic Stewardship Obligation",
         "Stewardship Defect",
+        "Review and Correction Duty",
     ],
     "#### 3.12 Transparency, Auditability, and Verification": [
         "Transparency",

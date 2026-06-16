@@ -60,7 +60,7 @@ All definitions MUST be decomposed into single-function components. Each compone
 - Evaluative (E): how the subject must be assessed
 - Compliance (C): what must be true in practice
 
-*In plain terms: each term is defined in three linked parts — what it refers to (O), how to assess it (E), and what must hold in the real world (C). All three must pass together on the same whole system and under the same rules, including when that system is spread across sites, machines, or people. Satisfying one part while sidestepping or watering down another does not count.*
+*In plain terms: each term is defined in three linked parts — what it refers to (O), how to assess it (E), and what must hold in the real world (C). All three must pass together on the same whole system and under the same rules, including when that system is spread across sites, machines, or actors. Satisfying one part while sidestepping or watering down another does not count.*
 
 Definitions must be satisfied across full functional systems, including distributed and multi-actor implementations. All components (O, E, C) of a definition must be satisfied jointly and applied to the same functional system scope and evaluation conditions. No component may be satisfied independently in a manner that bypasses or weakens the others.
 

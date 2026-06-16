@@ -38,7 +38,7 @@ The older per-definition JSON files under `ai_corpus/definitions/` are retained 
 
 | File | Lines | Role | Primary Content |
 |------|-------|------|-----------------|
-| `core_00_preamble.md`, `core_01_values_principles.md`, and `core_01_stewardship_capacity_principles.md` | ~1,400 | Core | Preamble, Chapter 1 (values, constraints) |
+| `core_00_preamble.md`, `core_01_a_values_principles.md`, and `core_01_b_stewardship_capacity_principles.md` | ~1,400 | Core | Preamble, Chapter 1 (values, constraints) |
 | `core_02-04_definition_mechanics.md` | ~530 | Core | Chapters 2-4 (O/E/C structure, burden, traceability) |
 | `core_05-05_definitions_a_independent.md` | ~1,300 | Core | Chapter 5 §1 (independent definitions A-Z) |
 | `core_05-05_definitions_b_semi_independent.md` | ~1,900 | Core | Chapter 5 §2 (semi-independent definitions) |
@@ -293,7 +293,7 @@ Optimized pattern:
 
 | Task | Files to Read (Current) | Files to Read (Optimized) |
 |------|------------------------|---------------------------|
-| Edit Chapter 1 principle | core_00-01_principles.md + cross-refs | Section manifest → read section only |
+| Edit Chapter 1 principle | `core_00_preamble.md`, `core_01_a_values_principles.md`, `core_01_b_stewardship_capacity_principles.md` + cross-refs | Section manifest → read section only |
 | Edit Chapter 5 definition | Full Part file (~1,500 lines) | Definition registry → entry only (~50 lines) |
 | Add Chapter 9 right | Full Part file + cross-refs | Target article + related definitions only |
 | Cross-file reference audit | All files | Crossref matrix → specific files |

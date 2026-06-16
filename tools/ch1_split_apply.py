@@ -17,7 +17,7 @@ PREAMBLE_HEADER = """# Sentient Constitution — Preamble
 
 This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one instrument. It contains **Chapter 00** (preamble / foundational requirements). Reading order and edition metadata are maintained in [README.md](README.md).
 
-**Next:** [core_01_values_principles.md](core_01_values_principles.md) (Chapter One, Part A — Values Principles).
+**Next:** [core_01_a_values_principles.md](core_01_a_values_principles.md) (Chapter One, Part A — Values Principles).
 
 ---
 """
@@ -27,7 +27,7 @@ VALUES_HEADER = """# Sentient Constitution — Values Principles (Chapter One, P
 This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one instrument. It contains **Chapter One, Part A** (§§1–5: interpretation, aims, wellbeing, Safety and Truth, Trust).
 
 **Upstream:** [core_00_preamble.md](core_00_preamble.md)  
-**Next:** [core_01_stewardship_capacity_principles.md](core_01_stewardship_capacity_principles.md) (Chapter One, Part B).
+**Next:** [core_01_b_stewardship_capacity_principles.md](core_01_b_stewardship_capacity_principles.md) (Chapter One, Part B).
 
 ---
 """
@@ -36,7 +36,7 @@ PART_B_HEADER = """# Sentient Constitution — Stewardship, Capacity, and Consti
 
 This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one instrument. It contains **Chapter One, Part B** (§§6–13).
 
-**Upstream:** [core_01_values_principles.md](core_01_values_principles.md) (Chapter One, Part A)  
+**Upstream:** [core_01_a_values_principles.md](core_01_a_values_principles.md) (Chapter One, Part A)  
 **Next:** [core_02-04_definition_mechanics.md](core_02-04_definition_mechanics.md)
 
 ---
@@ -45,7 +45,7 @@ This file is **part of the Sentient Constitution** and is **binding only togethe
 
 **Principle hierarchy (Part B).** At principle layer:
 
-1. **Stewardship** orients systems toward durable constitutional alignment over time, including the **Continuity** aim under the [Two Constitutional Aims](core_01_values_principles.md#two-constitutional-aims).
+1. **Stewardship** orients systems toward durable constitutional alignment over time, including the **Continuity** aim under the [Two Constitutional Aims](core_01_a_values_principles.md#two-constitutional-aims).
 2. **Governance** structures authorized decision-making, participation, and accountability. Where governance and stewardship conflict, stewardship discipline controls at principle layer unless **Necessity** and **Proportionality** expressly justify a bounded, time-limited exception with correction paths. Operative authorization and contract-layer requirements remain owned by **Chapter Eleven**.
 3. **Shared-System Capacity** is the durable, contestable ability those jointly produce — an **instrumental outcome**, not a freestanding trump value.
 
@@ -132,8 +132,8 @@ STUB_CONTENT = """# The Sentient Constitution — Chapter 00 and Chapter One (re
 This path is **retired**. Chapter 00 and Chapter One now live in:
 
 1. [core_00_preamble.md](core_00_preamble.md) — **Chapter 00** (Preamble)
-2. [core_01_values_principles.md](core_01_values_principles.md) — **Chapter One, Part A** (Values Principles, §§1–5)
-3. [core_01_stewardship_capacity_principles.md](core_01_stewardship_capacity_principles.md) — **Chapter One, Part B** (§§6–13)
+2. [core_01_a_values_principles.md](core_01_a_values_principles.md) — **Chapter One, Part A** (Values Principles, §§1–5)
+3. [core_01_b_stewardship_capacity_principles.md](core_01_b_stewardship_capacity_principles.md) — **Chapter One, Part B** (§§6–13)
 
 Read together with the other numbered `core_*` files as one instrument. Edition metadata: [README.md](README.md).
 
@@ -156,15 +156,15 @@ def slice_lines(lines: list[str], start: int, end: int) -> str:
 def fix_preamble_links(text: str) -> str:
     text = text.replace(
         "[Chapter One, §2 Purpose and Role](#2-purpose-and-role)",
-        "[Chapter One, §2 Purpose and Role](core_01_values_principles.md#2-purpose-and-role)",
+        "[Chapter One, §2 Purpose and Role](core_01_a_values_principles.md#2-purpose-and-role)",
     )
     text = text.replace(
         "[§3.2 Recognition, Reinforcement, and Aspiration](#32-recognition-reinforcement-and-aspiration)",
-        "[§3.2 Recognition, Reinforcement, and Aspiration](core_01_values_principles.md#32-recognition-reinforcement-and-aspiration)",
+        "[§3.2 Recognition, Reinforcement, and Aspiration](core_01_a_values_principles.md#32-recognition-reinforcement-and-aspiration)",
     )
     text = text.replace(
         "stated in Chapter One.",
-        "stated in [Chapter One, Part A](core_01_values_principles.md).",
+        "stated in [Chapter One, Part A](core_01_a_values_principles.md).",
     )
     return text
 
@@ -178,27 +178,27 @@ def fix_values_cross_links(text: str) -> str:
         (r"\[Chapter 00\]\(#chapter-00-preamble--foundational-requirements\)",
          "[Chapter 00](core_00_preamble.md#chapter-00-preamble--foundational-requirements)"),
         (r"#7-stewardship-and-distributed-understanding",
-         "core_01_stewardship_capacity_principles.md#6-stewardship-and-distributed-understanding"),
+         "core_01_b_stewardship_capacity_principles.md#6-stewardship-and-distributed-understanding"),
         (r"#6-shared-system-capacity",
-         "core_01_stewardship_capacity_principles.md#8-shared-system-capacity"),
+         "core_01_b_stewardship_capacity_principles.md#8-shared-system-capacity"),
         (r"#814-minimization-of-avoidable-burden",
-         "core_01_stewardship_capacity_principles.md#914-minimization-of-avoidable-burden"),
+         "core_01_b_stewardship_capacity_principles.md#914-minimization-of-avoidable-burden"),
         (r"#91-required-evaluation-factors",
-         "core_01_stewardship_capacity_principles.md#101-required-evaluation-factors"),
+         "core_01_b_stewardship_capacity_principles.md#101-required-evaluation-factors"),
         (r"#92-incentive-alignment-and-system-capture",
-         "core_01_stewardship_capacity_principles.md#7-governance-under-stewardship-discipline"),
+         "core_01_b_stewardship_capacity_principles.md#7-governance-under-stewardship-discipline"),
         (r"#922-stewardship-and-operator-incentive-alignment",
-         "core_01_stewardship_capacity_principles.md#74-stewardship-and-operator-incentive-alignment"),
+         "core_01_b_stewardship_capacity_principles.md#74-stewardship-and-operator-incentive-alignment"),
         (r"#821-preservation-of-epistemic-integrity",
-         "core_01_stewardship_capacity_principles.md#921-preservation-of-epistemic-integrity"),
+         "core_01_b_stewardship_capacity_principles.md#921-preservation-of-epistemic-integrity"),
         (r"#822-trust-truth-alignment",
-         "core_01_stewardship_capacity_principles.md#922-trust-truth-alignment"),
+         "core_01_b_stewardship_capacity_principles.md#922-trust-truth-alignment"),
         (r"#11-prohibition-on-absolute-override",
-         "core_01_stewardship_capacity_principles.md#12-prohibition-on-absolute-override"),
+         "core_01_b_stewardship_capacity_principles.md#12-prohibition-on-absolute-override"),
         (r"#8-interaction-and-conflict-resolution",
-         "core_01_stewardship_capacity_principles.md#9-interaction-and-conflict-resolution"),
+         "core_01_b_stewardship_capacity_principles.md#9-interaction-and-conflict-resolution"),
         (r"#10-freedom-bounded-agency",
-         "core_01_stewardship_capacity_principles.md#11-freedom-bounded-agency"),
+         "core_01_b_stewardship_capacity_principles.md#11-freedom-bounded-agency"),
     ]
     for old, new in repl:
         text = text.replace(old, new)
@@ -238,11 +238,11 @@ def renumber_old_sec7_to_sec6(text: str) -> str:
     text = text.replace("[7.2.3 Role Depth and Material Responsibility Pathways](#923-role-depth-and-material-responsibility-pathways)",
                         "[7.5 Role Depth and Material Responsibility Pathways](#75-role-depth-and-material-responsibility-pathways)")
     text = text.replace("[3. Foundational Objective: Wellbeing](#3-foundational-objective-wellbeing)",
-                        "[3. Foundational Objective: Wellbeing](core_01_values_principles.md#3-foundational-objective-wellbeing)")
+                        "[3. Foundational Objective: Wellbeing](core_01_a_values_principles.md#3-foundational-objective-wellbeing)")
     text = text.replace("[4.2 Truth](#42-truth-epistemic-integrity-constraint)",
-                        "[4.2 Truth](core_01_values_principles.md#42-truth-epistemic-integrity-constraint)")
+                        "[4.2 Truth](core_01_a_values_principles.md#42-truth-epistemic-integrity-constraint)")
     text = text.replace("[5. Trust](#5-system-stability-enabler-trust-coordination-integrity)",
-                        "[5. Trust](core_01_values_principles.md#5-system-stability-enabler-trust-coordination-integrity)")
+                        "[5. Trust](core_01_a_values_principles.md#5-system-stability-enabler-trust-coordination-integrity)")
     return text
 
 
@@ -288,11 +288,11 @@ def renumber_old_sec6_to_sec8(text: str) -> str:
     text = text.replace("[§8 Interaction and Conflict Resolution](#8-interaction-and-conflict-resolution)",
                         "[§9 Interaction and Conflict Resolution](#9-interaction-and-conflict-resolution)")
     text = text.replace("[2. Purpose and Role](#2-purpose-and-role)",
-                        "[2. Purpose and Role](core_01_values_principles.md#2-purpose-and-role)")
+                        "[2. Purpose and Role](core_01_a_values_principles.md#2-purpose-and-role)")
     text = text.replace("[3. Foundational Objective: Wellbeing](#3-foundational-objective-wellbeing)",
-                        "[3. Foundational Objective: Wellbeing](core_01_values_principles.md#3-foundational-objective-wellbeing)")
+                        "[3. Foundational Objective: Wellbeing](core_01_a_values_principles.md#3-foundational-objective-wellbeing)")
     text = text.replace("[5. Trust](#5-system-stability-enabler-trust-coordination-integrity)",
-                        "[5. Trust](core_01_values_principles.md#5-system-stability-enabler-trust-coordination-integrity)")
+                        "[5. Trust](core_01_a_values_principles.md#5-system-stability-enabler-trust-coordination-integrity)")
     return text
 
 
@@ -462,9 +462,9 @@ def renumber_old_sec12_to_sec13(text: str) -> str:
     text = text.replace("[11. Prohibition on Absolute Override](#11-prohibition-on-absolute-override)",
                         "[12. Prohibition on Absolute Override](#12-prohibition-on-absolute-override)")
     text = text.replace("[1. Constitutional Interpretation](#1-constitutional-interpretation)",
-                        "[1. Constitutional Interpretation](core_01_values_principles.md#1-constitutional-interpretation)")
+                        "[1. Constitutional Interpretation](core_01_a_values_principles.md#1-constitutional-interpretation)")
     text = text.replace("[2. Purpose and Role](#2-purpose-and-role)",
-                        "[2. Purpose and Role](core_01_values_principles.md#2-purpose-and-role)")
+                        "[2. Purpose and Role](core_01_a_values_principles.md#2-purpose-and-role)")
     text = text.replace("[Chapter 00](#chapter-00-preamble--foundational-requirements)",
                         "[Chapter 00](core_00_preamble.md#chapter-00-preamble--foundational-requirements)")
     text = text.replace("[§8 Interaction and Conflict Resolution](#8-interaction-and-conflict-resolution)",
@@ -476,9 +476,9 @@ def renumber_old_sec12_to_sec13(text: str) -> str:
 def fix_part_b_global(text: str) -> str:
   text = text.replace("(#constitutional-triad)", "(core_00_preamble.md#constitutional-triad)")
   text = text.replace("(#material-stake)", "(core_00_preamble.md#material-stake)")
-  text = text.replace("(#two-constitutional-aims)", "(core_01_values_principles.md#two-constitutional-aims)")
-  text = text.replace("(#flourishing)", "(core_01_values_principles.md#flourishing)")
-  text = text.replace("(#continuity)", "(core_01_values_principles.md#continuity)")
+  text = text.replace("(#two-constitutional-aims)", "(core_01_a_values_principles.md#two-constitutional-aims)")
+  text = text.replace("(#flourishing)", "(core_01_a_values_principles.md#flourishing)")
+  text = text.replace("(#continuity)", "(core_01_a_values_principles.md#continuity)")
   text = text.replace(
       "[material stake](core_00_preamble.md#material-stake)",
       "[material stake](core_00_preamble.md#material-stake)",
@@ -488,8 +488,8 @@ def fix_part_b_global(text: str) -> str:
       "[Constitutional Triad](core_00_preamble.md#constitutional-triad)",
   )
   text = text.replace(
-      "[Two Constitutional Aims](core_01_values_principles.md#two-constitutional-aims)",
-      "[Two Constitutional Aims](core_01_values_principles.md#two-constitutional-aims)",
+      "[Two Constitutional Aims](core_01_a_values_principles.md#two-constitutional-aims)",
+      "[Two Constitutional Aims](core_01_a_values_principles.md#two-constitutional-aims)",
   )
   return text
 
@@ -545,13 +545,13 @@ def main() -> int:
     part_b = build_part_b(lines)
 
     (ROOT / "core_00_preamble.md").write_text(preamble, encoding="utf-8")
-    (ROOT / "core_01_values_principles.md").write_text(values, encoding="utf-8")
-    (ROOT / "core_01_stewardship_capacity_principles.md").write_text(part_b, encoding="utf-8")
+    (ROOT / "core_01_a_values_principles.md").write_text(values, encoding="utf-8")
+    (ROOT / "core_01_b_stewardship_capacity_principles.md").write_text(part_b, encoding="utf-8")
     SOURCE.write_text(STUB_CONTENT, encoding="utf-8")
 
     print("Wrote core_00_preamble.md")
-    print("Wrote core_01_values_principles.md")
-    print("Wrote core_01_stewardship_capacity_principles.md")
+    print("Wrote core_01_a_values_principles.md")
+    print("Wrote core_01_b_stewardship_capacity_principles.md")
     print("Replaced core_00-01_principles.md with redirect stub")
     return 0
 

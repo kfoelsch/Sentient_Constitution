@@ -52,7 +52,9 @@ def ch5_href_base(slug: str) -> str:
     return CH5_PATH
 
 TARGETS = [
-    Path("core_00-01_principles.md"),
+    Path("core_00_preamble.md"),
+    Path("core_01_a_values_principles.md"),
+    Path("core_01_b_stewardship_capacity_principles.md"),
     Path("core_10-10_rights_part_a.md"),
     Path("core_10-10_rights_part_b.md"),
     Path("core_10-10_rights_part_c.md"),

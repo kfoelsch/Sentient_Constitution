@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-06-16T14:19:57+00:00",
+  "generated_at": "2026-06-16T23:48:54+00:00",
   "files": {
     "core_00_preamble.md": {
       "total_lines": 52,
@@ -21,7 +21,7 @@
         }
       ]
     },
-    "core_01_values_principles.md": {
+    "core_01_a_values_principles.md": {
       "total_lines": 595,
       "sections": [
         {
@@ -236,21 +236,21 @@
         }
       ]
     },
-    "core_01_stewardship_capacity_principles.md": {
-      "total_lines": 1254,
+    "core_01_b_stewardship_capacity_principles.md": {
+      "total_lines": 1264,
       "sections": [
         {
           "header": "Sentient Constitution — Stewardship, Capacity, and Constitutional Safeguards (Chapter One, Part B)",
           "level": 1,
           "line_start": 1,
-          "line_end": 1254,
+          "line_end": 1264,
           "anchor": null
         },
         {
           "header": "CHAPTER 01, PART B: STEWARDSHIP, CAPACITY, AND CONSTITUTIONAL SAFEGUARDS",
           "level": 2,
           "line_start": 10,
-          "line_end": 1254,
+          "line_end": 1264,
           "anchor": "#chapter-01-part-b-stewardship-capacity-and-constitutional-safeguards"
         },
         {
@@ -299,7 +299,7 @@
           "header": "7. Governance Under Stewardship Discipline",
           "level": 3,
           "line_start": 256,
-          "line_end": 448,
+          "line_end": 459,
           "anchor": "#7-governance-under-stewardship-discipline"
         },
         {
@@ -313,318 +313,313 @@
           "header": "7.2 Short-Horizon Governance Defect",
           "level": 4,
           "line_start": 268,
-          "line_end": 295,
+          "line_end": 275,
           "anchor": "#7-governance-as-authorized-structure"
         },
         {
-          "header": "7.3 Alignment Requirement",
+          "header": "7.3 Incentive Alignment and System Capture",
           "level": 4,
-          "line_start": 296,
-          "line_end": 315,
+          "line_start": 276,
+          "line_end": 377,
           "anchor": "#72-short-horizon-governance-defect"
+        },
+        {
+          "header": "7.3.1 Alignment Requirement",
+          "level": 5,
+          "line_start": 311,
+          "line_end": 319,
+          "anchor": "#731-alignment-requirement"
+        },
+        {
+          "header": "7.3.2 Contingent claims, games of chance, and event-contract markets",
+          "level": 5,
+          "line_start": 320,
+          "line_end": 377,
+          "anchor": "#732-contingent-claims-games-of-chance-and-event-contract-markets"
         },
         {
           "header": "7.4 Stewardship and Operator Incentive Alignment",
           "level": 4,
-          "line_start": 316,
-          "line_end": 358,
-          "anchor": null
+          "line_start": 378,
+          "line_end": 419,
+          "anchor": "#77-contingent-claims-games-of-chance-and-event-contract-markets"
         },
         {
           "header": "7.5 Role Depth and Material Responsibility Pathways",
           "level": 4,
-          "line_start": 359,
-          "line_end": 374,
-          "anchor": null
+          "line_start": 420,
+          "line_end": 435,
+          "anchor": "#74-stewardship-and-operator-incentive-alignment"
         },
         {
           "header": "7.6 Misalignment Correction and Capture Response",
           "level": 4,
-          "line_start": 375,
-          "line_end": 396,
-          "anchor": null
-        },
-        {
-          "header": "7.7 Contingent claims, games of chance, and event-contract markets",
-          "level": 4,
-          "line_start": 397,
-          "line_end": 448,
+          "line_start": 436,
+          "line_end": 459,
           "anchor": null
         },
         {
           "header": "8. Shared-System Capacity",
           "level": 3,
-          "line_start": 449,
-          "line_end": 652,
+          "line_start": 460,
+          "line_end": 666,
           "anchor": "#51-productive-capacity-instrumental-good"
         },
         {
           "header": "8.1 Productive Capacity (Instrumental Good)",
           "level": 4,
-          "line_start": 491,
-          "line_end": 519,
+          "line_start": 502,
+          "line_end": 530,
           "anchor": null
         },
         {
           "header": "8.2 Constitutional Efficiency",
           "level": 4,
-          "line_start": 520,
-          "line_end": 535,
+          "line_start": 531,
+          "line_end": 546,
           "anchor": null
         },
         {
           "header": "8.3 Concentration Threshold Mechanism (Adopter-Tunable)",
           "level": 4,
-          "line_start": 536,
-          "line_end": 571,
+          "line_start": 547,
+          "line_end": 582,
           "anchor": "#511-concentration-threshold-mechanism-adopter-tunable"
         },
         {
           "header": "8.4 Pro-Competition and Anti-Domination",
           "level": 4,
-          "line_start": 572,
-          "line_end": 607,
+          "line_start": 583,
+          "line_end": 619,
           "anchor": null
         },
         {
           "header": "8.5 Consolidation Ceiling",
           "level": 4,
-          "line_start": 608,
-          "line_end": 652,
-          "anchor": null
+          "line_start": 620,
+          "line_end": 666,
+          "anchor": "#85-consolidation-ceiling"
         },
         {
-          "header": "Consolidation risk (pre-lock-in impairment)",
-          "level": 6,
-          "line_start": 610,
-          "line_end": 623,
-          "anchor": null
+          "header": "8.5.1 Consolidation Risk (Pre-Lock-In Impairment)",
+          "level": 5,
+          "line_start": 623,
+          "line_end": 637,
+          "anchor": "#851-consolidation-risk-pre-lock-in-impairment"
         },
         {
-          "header": "Ceiling discipline (adopter requirements)",
-          "level": 6,
-          "line_start": 624,
-          "line_end": 652,
-          "anchor": null
+          "header": "8.5.2 Ceiling Discipline (Adopter Requirements)",
+          "level": 5,
+          "line_start": 638,
+          "line_end": 666,
+          "anchor": "#852-ceiling-discipline-adopter-requirements"
         },
         {
           "header": "9. Interaction and Conflict Resolution",
           "level": 3,
-          "line_start": 653,
-          "line_end": 995,
+          "line_start": 667,
+          "line_end": 1009,
           "anchor": null
         },
         {
           "header": "9.1 Core Tradeoff Principles",
           "level": 4,
-          "line_start": 685,
-          "line_end": 786,
+          "line_start": 699,
+          "line_end": 800,
           "anchor": "#81-core-tradeoff-principles"
         },
         {
           "header": "9.1.1 Proportionality",
           "level": 5,
-          "line_start": 696,
-          "line_end": 727,
+          "line_start": 710,
+          "line_end": 741,
           "anchor": "#811-proportionality"
         },
         {
           "header": "9.1.2 Necessity",
           "level": 5,
-          "line_start": 728,
-          "line_end": 736,
+          "line_start": 742,
+          "line_end": 750,
           "anchor": "#812-necessity"
         },
         {
           "header": "9.1.3 Minimization of Harm",
           "level": 5,
-          "line_start": 737,
-          "line_end": 753,
+          "line_start": 751,
+          "line_end": 767,
           "anchor": "#813-minimization-of-harm"
         },
         {
           "header": "9.1.4 Minimization of Avoidable Burden",
           "level": 5,
-          "line_start": 754,
-          "line_end": 786,
+          "line_start": 768,
+          "line_end": 800,
           "anchor": "#814-minimization-of-avoidable-burden"
         },
         {
           "header": "9.2 Epistemic Disclosure Constraints",
           "level": 4,
-          "line_start": 787,
-          "line_end": 887,
+          "line_start": 801,
+          "line_end": 901,
           "anchor": "#82-epistemic-disclosure-constraints"
         },
         {
           "header": "9.2.1 Preservation of Epistemic Integrity",
           "level": 5,
-          "line_start": 826,
-          "line_end": 864,
+          "line_start": 840,
+          "line_end": 878,
           "anchor": "#821-preservation-of-epistemic-integrity"
         },
         {
           "header": "9.2.2 Trust-Truth Alignment",
           "level": 5,
-          "line_start": 865,
-          "line_end": 887,
+          "line_start": 879,
+          "line_end": 901,
           "anchor": "#822-trust-truth-alignment"
         },
         {
           "header": "9.3 Freedom-Limitation Constraints",
           "level": 4,
-          "line_start": 888,
-          "line_end": 931,
+          "line_start": 902,
+          "line_end": 945,
           "anchor": null
         },
         {
           "header": "9.3.1 Constraint on Freedom",
           "level": 5,
-          "line_start": 891,
-          "line_end": 913,
+          "line_start": 905,
+          "line_end": 927,
           "anchor": null
         },
         {
           "header": "9.3.2 Time-Consistency Constraint",
           "level": 5,
-          "line_start": 914,
-          "line_end": 931,
+          "line_start": 928,
+          "line_end": 945,
           "anchor": null
         },
         {
           "header": "9.4 Rights-Collision Procedure",
           "level": 4,
-          "line_start": 932,
-          "line_end": 995,
+          "line_start": 946,
+          "line_end": 1009,
           "anchor": null
         },
         {
           "header": "9.4.1 Rights-Collision Decision Test",
           "level": 5,
-          "line_start": 937,
-          "line_end": 977,
+          "line_start": 951,
+          "line_end": 991,
           "anchor": "#841-rights-collision-decision-test"
         },
         {
           "header": "9.4.2 Proxy-Divergence Invalidation",
           "level": 5,
-          "line_start": 978,
-          "line_end": 995,
+          "line_start": 992,
+          "line_end": 1009,
           "anchor": null
         },
         {
           "header": "10. Systemic Evaluation Requirement",
           "level": 3,
-          "line_start": 996,
-          "line_end": 1109,
+          "line_start": 1010,
+          "line_end": 1123,
           "anchor": null
         },
         {
           "header": "10.1 Required Evaluation Factors",
           "level": 4,
-          "line_start": 1006,
-          "line_end": 1100,
+          "line_start": 1020,
+          "line_end": 1114,
           "anchor": null
         },
         {
           "header": "10.1.1 Systemic Scope and Risk Factors",
           "level": 5,
-          "line_start": 1043,
-          "line_end": 1053,
+          "line_start": 1057,
+          "line_end": 1067,
           "anchor": null
         },
         {
           "header": "10.1.2 Accessibility Under Sentience Non-Exclusion",
           "level": 5,
-          "line_start": 1054,
-          "line_end": 1066,
+          "line_start": 1068,
+          "line_end": 1080,
           "anchor": null
         },
         {
           "header": "10.1.3 Privacy (Informational) Joint Invocation",
           "level": 5,
-          "line_start": 1067,
-          "line_end": 1079,
+          "line_start": 1081,
+          "line_end": 1093,
           "anchor": null
         },
         {
           "header": "10.1.4 Voluntary Discontinuation and Exit Rights",
           "level": 5,
-          "line_start": 1080,
-          "line_end": 1089,
+          "line_start": 1094,
+          "line_end": 1103,
           "anchor": null
         },
         {
           "header": "10.1.5 Assembly, Collective Organization, and Institutional Formation",
           "level": 5,
-          "line_start": 1090,
-          "line_end": 1100,
+          "line_start": 1104,
+          "line_end": 1114,
           "anchor": null
         },
         {
           "header": "10.2 Read-with: Governance and Incentive Discipline",
           "level": 4,
-          "line_start": 1101,
-          "line_end": 1109,
+          "line_start": 1115,
+          "line_end": 1123,
           "anchor": null
         },
         {
           "header": "11. Freedom (Bounded Agency)",
           "level": 3,
-          "line_start": 1110,
-          "line_end": 1155,
+          "line_start": 1124,
+          "line_end": 1169,
           "anchor": "#102-read-with-governance-and-incentive-discipline"
         },
         {
           "header": "12. Prohibition on Absolute Override",
           "level": 3,
-          "line_start": 1156,
-          "line_end": 1188,
+          "line_start": 1170,
+          "line_end": 1202,
           "anchor": null
         },
         {
           "header": "13. Integrated Application",
           "level": 3,
-          "line_start": 1189,
-          "line_end": 1229,
+          "line_start": 1203,
+          "line_end": 1239,
           "anchor": null
         },
         {
           "header": "Reference: Chapter Five vocabulary anchor and cluster index",
           "level": 3,
-          "line_start": 1230,
-          "line_end": 1254,
-          "anchor": null
-        }
-      ]
-    },
-    "core_00-01_principles.md": {
-      "total_lines": 18,
-      "sections": [
-        {
-          "header": "The Sentient Constitution — Chapter 00 and Chapter One (retired path)",
-          "level": 1,
-          "line_start": 1,
-          "line_end": 18,
+          "line_start": 1240,
+          "line_end": 1264,
           "anchor": null
         }
       ]
     },
     "core_02-04_definition_mechanics.md": {
-      "total_lines": 581,
+      "total_lines": 633,
       "sections": [
         {
           "header": "Sentient Constitution — Definition mechanics and traceability",
           "level": 1,
           "line_start": 1,
-          "line_end": 581,
+          "line_end": 633,
           "anchor": null
         },
         {
           "header": "CHAPTER TWO: DEFINITION STRUCTURE AND COMPONENT REQUIREMENTS",
           "level": 2,
           "line_start": 9,
-          "line_end": 143,
+          "line_end": 145,
           "anchor": null
         },
         {
@@ -638,252 +633,259 @@
           "header": "2. Definition Structure Requirement",
           "level": 3,
           "line_start": 46,
-          "line_end": 143,
+          "line_end": 145,
           "anchor": null
         },
         {
           "header": "2.1 Ontological Components (O) — What It Is",
           "level": 4,
-          "line_start": 67,
-          "line_end": 74,
+          "line_start": 69,
+          "line_end": 76,
           "anchor": null
         },
         {
           "header": "2.2 Evaluative Components (E) — How It Must Be Assessed",
           "level": 4,
-          "line_start": 75,
-          "line_end": 93,
+          "line_start": 77,
+          "line_end": 95,
           "anchor": null
         },
         {
           "header": "2.3 Compliance Components (C) — What Must Be True in Practice",
           "level": 4,
-          "line_start": 94,
-          "line_end": 99,
+          "line_start": 96,
+          "line_end": 101,
           "anchor": null
         },
         {
           "header": "2.4 Definition Integrity Requirement",
           "level": 4,
-          "line_start": 100,
-          "line_end": 143,
+          "line_start": 102,
+          "line_end": 145,
           "anchor": null
         },
         {
           "header": "2.4.1 Core Integrity Conditions",
           "level": 5,
-          "line_start": 101,
-          "line_end": 105,
+          "line_start": 103,
+          "line_end": 107,
           "anchor": null
         },
         {
           "header": "2.4.2 Non-Compliance by Structural or Applied Weakening",
           "level": 5,
-          "line_start": 106,
-          "line_end": 111,
+          "line_start": 108,
+          "line_end": 113,
           "anchor": null
         },
         {
           "header": "2.4.3 Construction Constraints",
           "level": 5,
-          "line_start": 112,
-          "line_end": 117,
+          "line_start": 114,
+          "line_end": 119,
           "anchor": null
         },
         {
           "header": "2.4.4 Internal Consistency Conditions",
           "level": 5,
-          "line_start": 118,
-          "line_end": 134,
+          "line_start": 120,
+          "line_end": 136,
           "anchor": null
         },
         {
           "header": "2.4.5 Interpretation Rule Under Ambiguity",
           "level": 5,
-          "line_start": 135,
-          "line_end": 143,
+          "line_start": 137,
+          "line_end": 145,
           "anchor": null
         },
         {
-          "header": "CHAPTER THREE: DEFINITION INTEGRITY AND OBSERVABLE NON-COMPLIANCE",
+          "header": "CHAPTER THREE: DEFINITION INTEGRITY, EVASION, AND NON-COMPLIANCE",
           "level": 2,
-          "line_start": 144,
-          "line_end": 304,
+          "line_start": 146,
+          "line_end": 308,
           "anchor": null
         },
         {
           "header": "1. Definition Integrity and Anti-Evasion Constraints",
           "level": 3,
-          "line_start": 162,
-          "line_end": 200,
+          "line_start": 164,
+          "line_end": 202,
           "anchor": null
         },
         {
           "header": "2. Non-Compliance from Observable System Behavior",
           "level": 3,
-          "line_start": 201,
-          "line_end": 304,
+          "line_start": 203,
+          "line_end": 308,
           "anchor": null
         },
         {
           "header": "2.1 Evasion is Non-Compliance",
           "level": 4,
-          "line_start": 221,
-          "line_end": 243,
+          "line_start": 223,
+          "line_end": 247,
           "anchor": null
         },
         {
           "header": "2.2 Non-Reductive Evasion Types",
           "level": 4,
-          "line_start": 244,
-          "line_end": 257,
+          "line_start": 248,
+          "line_end": 261,
           "anchor": null
         },
         {
           "header": "2.3 Reductive Evasion",
           "level": 4,
-          "line_start": 258,
-          "line_end": 269,
+          "line_start": 262,
+          "line_end": 273,
           "anchor": null
         },
         {
           "header": "2.4 Cross-Component Scope Integrity Constraint",
           "level": 4,
-          "line_start": 270,
-          "line_end": 277,
+          "line_start": 274,
+          "line_end": 281,
           "anchor": null
         },
         {
           "header": "2.5 Cross-System Interaction Integrity Constraint",
           "level": 4,
-          "line_start": 278,
-          "line_end": 285,
+          "line_start": 282,
+          "line_end": 289,
           "anchor": null
         },
         {
           "header": "2.6 Temporal Integrity and Continuity Constraint",
           "level": 4,
-          "line_start": 286,
-          "line_end": 295,
+          "line_start": 290,
+          "line_end": 299,
           "anchor": null
         },
         {
           "header": "2.7 Uncertainty Integrity and Non-Exploitation Constraint",
           "level": 4,
-          "line_start": 296,
-          "line_end": 304,
+          "line_start": 300,
+          "line_end": 308,
           "anchor": null
         },
         {
           "header": "CHAPTER FOUR: BURDEN OF PROOF, TRACEABILITY, AND VERIFICATION",
           "level": 2,
-          "line_start": 305,
-          "line_end": 581,
+          "line_start": 309,
+          "line_end": 633,
           "anchor": null
         },
         {
           "header": "1. Exclusive Enforcement and Burden Allocation",
           "level": 3,
-          "line_start": 334,
-          "line_end": 336,
+          "line_start": 327,
+          "line_end": 340,
           "anchor": null
         },
         {
           "header": "2. Compliance Evidence Standard",
           "level": 3,
-          "line_start": 337,
-          "line_end": 435,
+          "line_start": 341,
+          "line_end": 439,
           "anchor": null
         },
         {
           "header": "2.1 Verification requirements for evidence",
           "level": 4,
-          "line_start": 338,
-          "line_end": 376,
+          "line_start": 342,
+          "line_end": 380,
           "anchor": null
         },
         {
           "header": "2.2 Invalidation and linked constraints",
           "level": 4,
-          "line_start": 377,
-          "line_end": 390,
+          "line_start": 381,
+          "line_end": 394,
           "anchor": null
         },
         {
           "header": "2.3 Scaling with impact, dependency, and risk",
           "level": 4,
-          "line_start": 391,
-          "line_end": 398,
+          "line_start": 395,
+          "line_end": 402,
           "anchor": null
         },
         {
           "header": "2.4 Disqualifying evidence; uncertainty; default rule",
           "level": 4,
-          "line_start": 399,
-          "line_end": 406,
+          "line_start": 403,
+          "line_end": 410,
           "anchor": null
         },
         {
           "header": "2.5 Science-informed evidence alignment",
           "level": 4,
-          "line_start": 407,
-          "line_end": 435,
+          "line_start": 411,
+          "line_end": 439,
           "anchor": null
         },
         {
           "header": "3. Definition Traceability Requirement",
           "level": 3,
-          "line_start": 436,
-          "line_end": 455,
+          "line_start": 440,
+          "line_end": 466,
           "anchor": null
         },
         {
           "header": "3.1 Chapter Five definitions and tracing integrity",
           "level": 4,
-          "line_start": 441,
-          "line_end": 443,
+          "line_start": 452,
+          "line_end": 454,
           "anchor": "#31-interdependent-definitions-and-tracing-integrity"
         },
         {
           "header": "3.2 Mandatory traceability properties",
           "level": 4,
-          "line_start": 444,
-          "line_end": 455,
+          "line_start": 455,
+          "line_end": 466,
           "anchor": null
         },
         {
           "header": "4. Observability of Traceability Requirement",
           "level": 3,
-          "line_start": 456,
-          "line_end": 475,
+          "line_start": 467,
+          "line_end": 488,
           "anchor": null
         },
         {
           "header": "5. Security-Constrained Observability and Verification Rule",
           "level": 3,
-          "line_start": 476,
-          "line_end": 540,
+          "line_start": 489,
+          "line_end": 557,
           "anchor": null
         },
         {
           "header": "5.1 Cryptographic protection, credentials, and verification (constitutional layer)",
           "level": 4,
-          "line_start": 511,
-          "line_end": 540,
+          "line_start": 526,
+          "line_end": 557,
           "anchor": null
         },
         {
           "header": "6. Verification Accessibility and Feasibility Constraint",
           "level": 3,
-          "line_start": 541,
-          "line_end": 570,
+          "line_start": 558,
+          "line_end": 605,
+          "anchor": null
+        },
+        {
+          "header": "6.1 Plain-language accessibility cross-reference",
+          "level": 4,
+          "line_start": 586,
+          "line_end": 605,
           "anchor": null
         },
         {
           "header": "7. Contribution and Standing Alignment Pointer",
           "level": 3,
-          "line_start": 571,
-          "line_end": 581,
+          "line_start": 606,
+          "line_end": 633,
           "anchor": null
         }
       ]
@@ -1279,20 +1281,20 @@
       ]
     },
     "core_05-05_definitions_b_semi_independent.md": {
-      "total_lines": 2112,
+      "total_lines": 2102,
       "sections": [
         {
           "header": "Sentient Constitution — Constitutional definitions (Part B)",
           "level": 1,
           "line_start": 1,
-          "line_end": 2112,
+          "line_end": 2102,
           "anchor": null
         },
         {
           "header": "2. Semi-independent Definitions",
           "level": 3,
           "line_start": 11,
-          "line_end": 2112,
+          "line_end": 2102,
           "anchor": "#section-2-semi-independent-definitions"
         },
         {
@@ -1677,306 +1679,299 @@
           "header": "Governance architecture, decentralization, and concentration",
           "level": 4,
           "line_start": 1266,
-          "line_end": 1278,
+          "line_end": 1277,
           "anchor": "#governance-structure-decentralization-concentration-semi-independent"
         },
         {
           "header": "Governance",
           "level": 4,
-          "line_start": 1279,
-          "line_end": 1301,
+          "line_start": 1278,
+          "line_end": 1300,
           "anchor": "#governance"
-        },
-        {
-          "header": "Short-Horizon Governance Defect",
-          "level": 4,
-          "line_start": 1302,
-          "line_end": 1324,
-          "anchor": "#short-horizon-governance-defect-constitutional"
         },
         {
           "header": "Decentralization",
           "level": 4,
-          "line_start": 1325,
-          "line_end": 1349,
+          "line_start": 1301,
+          "line_end": 1325,
           "anchor": "#decentralization"
         },
         {
           "header": "Concentration Threshold",
           "level": 4,
-          "line_start": 1350,
-          "line_end": 1388,
+          "line_start": 1326,
+          "line_end": 1364,
           "anchor": "#concentration-threshold-constitutional"
         },
         {
           "header": "System boundaries, integrity, and exit",
           "level": 4,
-          "line_start": 1389,
-          "line_end": 1401,
+          "line_start": 1365,
+          "line_end": 1377,
           "anchor": "#system-boundaries-exit-integrity-semi-independent"
         },
         {
           "header": "System",
           "level": 4,
-          "line_start": 1402,
-          "line_end": 1416,
+          "line_start": 1378,
+          "line_end": 1392,
           "anchor": "#system-definition"
         },
         {
           "header": "System Boundaries",
           "level": 4,
-          "line_start": 1417,
-          "line_end": 1427,
+          "line_start": 1393,
+          "line_end": 1403,
           "anchor": "#system-boundaries"
         },
         {
           "header": "System Boundary Integrity",
           "level": 4,
-          "line_start": 1428,
-          "line_end": 1439,
+          "line_start": 1404,
+          "line_end": 1415,
           "anchor": "#system-boundary-integrity"
         },
         {
           "header": "Systemic Lock-In",
           "level": 4,
-          "line_start": 1440,
-          "line_end": 1463,
+          "line_start": 1416,
+          "line_end": 1440,
           "anchor": "#systemic-lock-in"
         },
         {
-          "header": "Stewardship, governance discipline, and shared-system capacity",
+          "header": "Stewardship, governance discipline, review, and correction",
           "level": 4,
-          "line_start": 1464,
-          "line_end": 1475,
-          "anchor": "#stewardship-governance-discipline-and-shared-system-capacity-semi-independent"
+          "line_start": 1441,
+          "line_end": 1455,
+          "anchor": "#stewardship-review-correction-semi-independent"
         },
         {
           "header": "Stewardship",
           "level": 4,
-          "line_start": 1476,
-          "line_end": 1498,
+          "line_start": 1456,
+          "line_end": 1478,
           "anchor": "#stewardship-constitutional"
         },
         {
           "header": "Distributed Understanding",
           "level": 4,
-          "line_start": 1499,
-          "line_end": 1522,
+          "line_start": 1479,
+          "line_end": 1501,
           "anchor": "#distributed-understanding-constitutional"
         },
         {
-          "header": "Stewardship, review, and correction",
+          "header": "Short-Horizon Governance Defect",
           "level": 4,
-          "line_start": 1523,
-          "line_end": 1534,
-          "anchor": "#stewardship-review-correction-semi-independent"
+          "line_start": 1502,
+          "line_end": 1524,
+          "anchor": "#short-horizon-governance-defect-constitutional"
         },
         {
           "header": "Strategic Stewardship Obligation",
           "level": 4,
-          "line_start": 1535,
-          "line_end": 1557,
+          "line_start": 1525,
+          "line_end": 1547,
           "anchor": "#strategic-stewardship-obligation-constitutional"
         },
         {
           "header": "Stewardship Defect",
           "level": 4,
-          "line_start": 1558,
-          "line_end": 1580,
+          "line_start": 1548,
+          "line_end": 1570,
           "anchor": "#stewardship-defect-constitutional"
         },
         {
           "header": "Review and Correction Duty",
           "level": 4,
-          "line_start": 1581,
-          "line_end": 1607,
+          "line_start": 1571,
+          "line_end": 1597,
           "anchor": "#review-and-correction-duty-constitutional"
         },
         {
           "header": "Stakeholder status and participation weight",
           "level": 4,
-          "line_start": 1608,
-          "line_end": 1618,
+          "line_start": 1598,
+          "line_end": 1608,
           "anchor": "#stakeholder-identification-participation-semi-independent"
         },
         {
           "header": "Stakeholder",
           "level": 4,
-          "line_start": 1619,
-          "line_end": 1640,
+          "line_start": 1609,
+          "line_end": 1630,
           "anchor": "#stakeholder"
         },
         {
           "header": "Stakeholder Participation Weight",
           "level": 4,
-          "line_start": 1641,
-          "line_end": 1662,
+          "line_start": 1631,
+          "line_end": 1652,
           "anchor": "#stakeholder-participation-weight"
         },
         {
           "header": "Survival-floor continuity: bodily maintenance, tenure, and environment",
           "level": 4,
-          "line_start": 1663,
-          "line_end": 1674,
+          "line_start": 1653,
+          "line_end": 1664,
           "anchor": "#safe-conditions-continuity-semi-independent"
         },
         {
           "header": "Bodily-Maintenance Access",
           "level": 4,
-          "line_start": 1675,
-          "line_end": 1697,
+          "line_start": 1665,
+          "line_end": 1687,
           "anchor": "#bodily-maintenance-access-constitutional"
         },
         {
           "header": "Tenure Security",
           "level": 4,
-          "line_start": 1698,
-          "line_end": 1724,
+          "line_start": 1688,
+          "line_end": 1714,
           "anchor": "#tenure-security-constitutional"
         },
         {
           "header": "Environmental Preconditions",
           "level": 4,
-          "line_start": 1725,
-          "line_end": 1747,
+          "line_start": 1715,
+          "line_end": 1737,
           "anchor": "#environmental-preconditions-constitutional"
         },
         {
           "header": "Community-anchored continuity: indigenous, language, culture, and heritage",
           "level": 4,
-          "line_start": 1748,
-          "line_end": 1760,
+          "line_start": 1738,
+          "line_end": 1750,
           "anchor": "#indigenous-continuity-language-culture-heritage-semi-independent"
         },
         {
           "header": "Indigenous Continuity",
           "level": 4,
-          "line_start": 1761,
-          "line_end": 1793,
+          "line_start": 1751,
+          "line_end": 1783,
           "anchor": "#indigenous-continuity-constitutional"
         },
         {
           "header": "Language, Culture, and Heritage",
           "level": 4,
-          "line_start": 1794,
-          "line_end": 1821,
+          "line_start": 1784,
+          "line_end": 1811,
           "anchor": "#language-culture-and-heritage-constitutional"
         },
         {
           "header": "Materiality, impact, risk, and proxy integrity",
           "level": 4,
-          "line_start": 1822,
-          "line_end": 1839,
+          "line_start": 1812,
+          "line_end": 1829,
           "anchor": "#materiality-semi-independent"
         },
         {
           "header": "Material",
           "level": 4,
-          "line_start": 1840,
-          "line_end": 1860,
+          "line_start": 1830,
+          "line_end": 1850,
           "anchor": "#material"
         },
         {
           "header": "Materiality Determination",
           "level": 4,
-          "line_start": 1861,
-          "line_end": 1882,
+          "line_start": 1851,
+          "line_end": 1872,
           "anchor": "#materiality-determination"
         },
         {
           "header": "Materiality Integrity Constraint",
           "level": 4,
-          "line_start": 1883,
-          "line_end": 1903,
+          "line_start": 1873,
+          "line_end": 1893,
           "anchor": "#materiality-integrity-constraint"
         },
         {
           "header": "Material Impact",
           "level": 4,
-          "line_start": 1904,
-          "line_end": 1925,
+          "line_start": 1894,
+          "line_end": 1915,
           "anchor": "#material-impact"
         },
         {
           "header": "Material Risk",
           "level": 4,
-          "line_start": 1926,
-          "line_end": 1946,
+          "line_start": 1916,
+          "line_end": 1936,
           "anchor": "#material-risk"
         },
         {
           "header": "Materiality Under Uncertainty",
           "level": 4,
-          "line_start": 1947,
-          "line_end": 1968,
+          "line_start": 1937,
+          "line_end": 1958,
           "anchor": "#materiality-under-uncertainty"
         },
         {
           "header": "Proxy Divergence",
           "level": 4,
-          "line_start": 1969,
-          "line_end": 1991,
+          "line_start": 1959,
+          "line_end": 1981,
           "anchor": "#proxy-divergence"
         },
         {
           "header": "Proxy Metric Gaming and Indicator-Reality Gaps",
           "level": 4,
-          "line_start": 1992,
-          "line_end": 2013,
+          "line_start": 1982,
+          "line_end": 2003,
           "anchor": "#proxy-metric-gaming-and-indicator-reality-gaps"
         },
         {
           "header": "Material Degradation",
           "level": 4,
-          "line_start": 2014,
-          "line_end": 2037,
+          "line_start": 2004,
+          "line_end": 2027,
           "anchor": "#material-degradation"
         },
         {
           "header": "Movement, refuge, and non-statelessness",
           "level": 4,
-          "line_start": 2038,
-          "line_end": 2050,
+          "line_start": 2028,
+          "line_end": 2040,
           "anchor": "#movement-refuge-semi-independent"
         },
         {
           "header": "Movement and Relocation",
           "level": 4,
-          "line_start": 2051,
-          "line_end": 2069,
+          "line_start": 2041,
+          "line_end": 2059,
           "anchor": "#movement-and-relocation-constitutional"
         },
         {
           "header": "Refuge from Non-Compliance",
           "level": 4,
-          "line_start": 2070,
-          "line_end": 2096,
+          "line_start": 2060,
+          "line_end": 2086,
           "anchor": "#refuge-from-non-compliance-constitutional"
         },
         {
           "header": "Non-Statelessness",
           "level": 4,
-          "line_start": 2097,
-          "line_end": 2112,
+          "line_start": 2087,
+          "line_end": 2102,
           "anchor": "#non-statelessness-constitutional"
         }
       ]
     },
     "core_05-05_definitions_c_dependent_clusters.md": {
-      "total_lines": 2065,
+      "total_lines": 2053,
       "sections": [
         {
           "header": "Sentient Constitution — Constitutional definitions (Part C)",
           "level": 1,
           "line_start": 1,
-          "line_end": 2065,
+          "line_end": 2053,
           "anchor": null
         },
         {
           "header": "3. Dependent clusters (Clustered Definitions)",
           "level": 3,
           "line_start": 11,
-          "line_end": 2065,
+          "line_end": 2053,
           "anchor": "#section-3-dependent-clusters-clustered-definitions"
         },
         {
@@ -2424,294 +2419,294 @@
           "header": "3.10 Stewardship, Governance Discipline, and Shared-System Capacity",
           "level": 4,
           "line_start": 1384,
-          "line_end": 1407,
+          "line_end": 1408,
           "anchor": "#stewardship-governance-discipline-and-shared-system-capacity-cluster"
         },
         {
           "header": "3.11 Strategic Stewardship and Stewardship Defect",
           "level": 4,
-          "line_start": 1408,
-          "line_end": 1428,
+          "line_start": 1409,
+          "line_end": 1416,
           "anchor": "#strategic-stewardship-and-stewardship-defect-cluster"
         },
         {
           "header": "3.12 Transparency, Auditability, and Verification",
           "level": 4,
-          "line_start": 1429,
-          "line_end": 1607,
+          "line_start": 1417,
+          "line_end": 1595,
           "anchor": "#transparency-auditability-and-verification-cluster"
         },
         {
           "header": "Transparency",
           "level": 5,
-          "line_start": 1468,
-          "line_end": 1489,
+          "line_start": 1456,
+          "line_end": 1477,
           "anchor": "#transparency"
         },
         {
           "header": "Audit Scope Sufficiency",
           "level": 5,
-          "line_start": 1490,
-          "line_end": 1500,
+          "line_start": 1478,
+          "line_end": 1488,
           "anchor": "#audit-scope-sufficiency"
         },
         {
           "header": "Auditability",
           "level": 5,
-          "line_start": 1501,
-          "line_end": 1521,
+          "line_start": 1489,
+          "line_end": 1509,
           "anchor": "#auditability"
         },
         {
           "header": "Evidence Preservation",
           "level": 5,
-          "line_start": 1522,
-          "line_end": 1541,
+          "line_start": 1510,
+          "line_end": 1529,
           "anchor": "#evidence-preservation"
         },
         {
           "header": "Evaluation Completeness Constraint",
           "level": 5,
-          "line_start": 1542,
-          "line_end": 1551,
+          "line_start": 1530,
+          "line_end": 1539,
           "anchor": "#evaluation-completeness-constraint"
         },
         {
           "header": "Observability",
           "level": 5,
-          "line_start": 1552,
-          "line_end": 1560,
+          "line_start": 1540,
+          "line_end": 1548,
           "anchor": "#evaluation-completeness-constraint-c"
         },
         {
           "header": "Verifiability",
           "level": 5,
-          "line_start": 1561,
-          "line_end": 1567,
+          "line_start": 1549,
+          "line_end": 1555,
           "anchor": "#verifiability"
         },
         {
           "header": "Verification Accessibility",
           "level": 5,
-          "line_start": 1568,
-          "line_end": 1574,
+          "line_start": 1556,
+          "line_end": 1562,
           "anchor": "#verifiability-c"
         },
         {
           "header": "Verification Feasibility",
           "level": 5,
-          "line_start": 1575,
-          "line_end": 1581,
+          "line_start": 1563,
+          "line_end": 1569,
           "anchor": "#verification-accessibility-c"
         },
         {
           "header": "Verification Independence",
           "level": 5,
-          "line_start": 1582,
-          "line_end": 1588,
+          "line_start": 1570,
+          "line_end": 1576,
           "anchor": "#verification-feasibility-c"
         },
         {
           "header": "Verification Proportionality",
           "level": 5,
-          "line_start": 1589,
-          "line_end": 1595,
+          "line_start": 1577,
+          "line_end": 1583,
           "anchor": "#verification-independence-c"
         },
         {
           "header": "Verification Robustness",
           "level": 5,
-          "line_start": 1596,
-          "line_end": 1607,
+          "line_start": 1584,
+          "line_end": 1595,
           "anchor": "#verification-proportionality-c"
         },
         {
           "header": "3.13 Trust and Trustworthiness",
           "level": 4,
-          "line_start": 1608,
-          "line_end": 1726,
+          "line_start": 1596,
+          "line_end": 1714,
           "anchor": "#trust-and-trustworthiness-cluster"
         },
         {
           "header": "Trust",
           "level": 5,
-          "line_start": 1627,
-          "line_end": 1647,
+          "line_start": 1615,
+          "line_end": 1635,
           "anchor": "#trust"
         },
         {
           "header": "Trustworthiness",
           "level": 5,
-          "line_start": 1648,
-          "line_end": 1689,
+          "line_start": 1636,
+          "line_end": 1677,
           "anchor": "#trustworthiness"
         },
         {
           "header": "Trust Degradation and Misleading Reliance",
           "level": 5,
-          "line_start": 1690,
-          "line_end": 1726,
+          "line_start": 1678,
+          "line_end": 1714,
           "anchor": "#trust-degradation-and-misleading-reliance"
         },
         {
           "header": "3.14 Truth and Epistemic Integrity",
           "level": 4,
-          "line_start": 1727,
-          "line_end": 1850,
+          "line_start": 1715,
+          "line_end": 1838,
           "anchor": "#truth-and-epistemic-integrity-cluster"
         },
         {
           "header": "Publication and High-Impact Communication",
           "level": 5,
-          "line_start": 1747,
-          "line_end": 1748,
+          "line_start": 1735,
+          "line_end": 1736,
           "anchor": "#publication-and-high-impact-communication"
         },
         {
           "header": "Publication Truthfulness and Recklessness Floor",
           "level": 5,
-          "line_start": 1749,
-          "line_end": 1756,
+          "line_start": 1737,
+          "line_end": 1744,
           "anchor": null
         },
         {
           "header": "Protected Data and Internal-State Publication Constraint",
           "level": 5,
-          "line_start": 1757,
-          "line_end": 1762,
+          "line_start": 1745,
+          "line_end": 1750,
           "anchor": "#publication-truthfulness-and-recklessness-floor-c"
         },
         {
           "header": "High-Impact and Systemic Harm Publication Constraint",
           "level": 5,
-          "line_start": 1763,
-          "line_end": 1770,
+          "line_start": 1751,
+          "line_end": 1758,
           "anchor": "#protected-data-and-internal-state-publication-constraint-c"
         },
         {
           "header": "Security-Sensitive Disclosure Balance",
           "level": 5,
-          "line_start": 1771,
-          "line_end": 1777,
+          "line_start": 1759,
+          "line_end": 1765,
           "anchor": "#high-impact-and-systemic-harm-publication-constraint-c"
         },
         {
           "header": "Truth (Constitutional Constraint)",
           "level": 5,
-          "line_start": 1778,
-          "line_end": 1787,
+          "line_start": 1766,
+          "line_end": 1775,
           "anchor": "#truth-constitutional-constraint"
         },
         {
           "header": "Epistemic Integrity",
           "level": 5,
-          "line_start": 1788,
-          "line_end": 1798,
+          "line_start": 1776,
+          "line_end": 1786,
           "anchor": "#epistemic-integrity"
         },
         {
           "header": "Foreseeability Burden",
           "level": 5,
-          "line_start": 1799,
-          "line_end": 1806,
+          "line_start": 1787,
+          "line_end": 1794,
           "anchor": "#epistemic-integrity-c"
         },
         {
           "header": "Foreseeability Diligence",
           "level": 5,
-          "line_start": 1807,
-          "line_end": 1813,
+          "line_start": 1795,
+          "line_end": 1801,
           "anchor": "#foreseeability-diligence"
         },
         {
           "header": "Foreseeability Failure",
           "level": 5,
-          "line_start": 1814,
-          "line_end": 1820,
+          "line_start": 1802,
+          "line_end": 1808,
           "anchor": "#foreseeability-diligence-c"
         },
         {
           "header": "Foreseeability Scaling",
           "level": 5,
-          "line_start": 1821,
-          "line_end": 1827,
+          "line_start": 1809,
+          "line_end": 1815,
           "anchor": "#foreseeability-failure-c"
         },
         {
           "header": "Foreseeability Scope",
           "level": 5,
-          "line_start": 1828,
-          "line_end": 1836,
+          "line_start": 1816,
+          "line_end": 1824,
           "anchor": "#foreseeability-scaling-c"
         },
         {
           "header": "Reasonably Foreseeable",
           "level": 5,
-          "line_start": 1837,
-          "line_end": 1850,
+          "line_start": 1825,
+          "line_end": 1838,
           "anchor": "#reasonably-foreseeable"
         },
         {
           "header": "3.15 Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm",
           "level": 4,
-          "line_start": 1851,
-          "line_end": 2065,
+          "line_start": 1839,
+          "line_end": 2053,
           "anchor": "#use-of-force-autonomous-coercion-and-mass-harm-cluster"
         },
         {
           "header": "Use of Force",
           "level": 5,
-          "line_start": 1873,
-          "line_end": 1899,
+          "line_start": 1861,
+          "line_end": 1887,
           "anchor": "#use-of-force-constitutional"
         },
         {
           "header": "Autonomous Lethal System",
           "level": 5,
-          "line_start": 1900,
-          "line_end": 1913,
+          "line_start": 1888,
+          "line_end": 1901,
           "anchor": "#autonomous-lethal-system-constitutional"
         },
         {
           "header": "In plain terms: *A system that selects or engages lethal-force targets on its own — without a human exercising real-time judgment over each targeting or engagement decision.*",
           "level": 5,
-          "line_start": 1914,
-          "line_end": 1936,
+          "line_start": 1902,
+          "line_end": 1924,
           "anchor": null
         },
         {
           "header": "Weapons of Mass Harm",
           "level": 5,
-          "line_start": 1937,
-          "line_end": 1961,
+          "line_start": 1925,
+          "line_end": 1949,
           "anchor": "#weapons-of-mass-harm-constitutional"
         },
         {
           "header": "Combatant / Non-Combatant Distinction",
           "level": 5,
-          "line_start": 1962,
-          "line_end": 1990,
+          "line_start": 1950,
+          "line_end": 1978,
           "anchor": "#combatant-non-combatant-distinction-constitutional"
         },
         {
           "header": "Irreversible Deprivation Measure",
           "level": 5,
-          "line_start": 1991,
-          "line_end": 2026,
+          "line_start": 1979,
+          "line_end": 2014,
           "anchor": "#irreversible-deprivation-measure-constitutional"
         },
         {
           "header": "Autonomous Coercion Tool",
           "level": 5,
-          "line_start": 2027,
-          "line_end": 2040,
+          "line_start": 2015,
+          "line_end": 2028,
           "anchor": "#autonomous-coercion-tool-constitutional"
         },
         {
           "header": "In plain terms: *A system that pressures, restricts, or manipulates sentients on its own, without a human exercising real-time judgment over each coercive act.*",
           "level": 5,
-          "line_start": 2041,
-          "line_end": 2065,
+          "line_start": 2029,
+          "line_end": 2053,
           "anchor": null
         }
       ]

@@ -184,13 +184,24 @@ class Ch1Cjs5AlignmentAuditor:
         }
 
     def _extract_ch1_principles(self) -> Dict[str, Dict[str, object]]:
-        path = self.repo_root / "core_00-01_principles.md"
         principles: Dict[str, Dict[str, object]] = {}
         pattern = re.compile(r"^(#{3,4})\s+(\d+(?:\.\d+)*)(?:\.)?\s+(.+)$")
-        for idx, line in enumerate(path.read_text().splitlines(), start=1):
-            match = pattern.match(line)
-            if match:
-                principles[match.group(2)] = {"title": match.group(3).strip(), "line": idx}
+        for rel in (
+            "core_00_preamble.md",
+            "core_01_a_values_principles.md",
+            "core_01_b_stewardship_capacity_principles.md",
+        ):
+            path = self.repo_root / rel
+            if not path.is_file():
+                continue
+            for idx, line in enumerate(path.read_text().splitlines(), start=1):
+                match = pattern.match(line)
+                if match:
+                    principles[match.group(2)] = {
+                        "title": match.group(3).strip(),
+                        "line": idx,
+                        "file": rel,
+                    }
         return principles
 
     def _extract_clusters_from_file(self, rel_path: str) -> List[Cluster]:
@@ -239,7 +250,14 @@ class Ch1Cjs5AlignmentAuditor:
         refs: Set[str] = set()
         for match in re.finditer(r"Chapter One\s+§+\s*([0-9]+(?:\.[0-9]+)*)", text):
             refs.add(match.group(1))
-        if "core_00-01_principles.md" in text:
+        if any(
+            marker in text
+            for marker in (
+                "core_00_preamble.md",
+                "core_01_a_values_principles.md",
+                "core_01_b_stewardship_capacity_principles.md",
+            )
+        ):
             refs.add("linked")
         return sorted(refs)
 

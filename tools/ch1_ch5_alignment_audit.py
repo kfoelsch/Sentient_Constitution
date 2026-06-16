@@ -24,7 +24,11 @@ from datetime import datetime
 class AlignmentAuditor:
     def __init__(self, repo_root: Path):
         self.repo_root = repo_root
-        self.ch1_file = repo_root / "core_00-01_principles.md"
+        self.ch1_files = [
+            repo_root / "core_00_preamble.md",
+            repo_root / "core_01_a_values_principles.md",
+            repo_root / "core_01_b_stewardship_capacity_principles.md",
+        ]
         self.ch5_files = [
             repo_root / "core_05-05_definitions_a_independent.md",
             repo_root / "core_05-05_definitions_b_semi_independent.md", 
@@ -43,7 +47,9 @@ class AlignmentAuditor:
         
     def extract_ch1_principles(self):
         """Parse Chapter 1 for principles and their definition anchors."""
-        content = self.ch1_file.read_text()
+        content = "\n".join(
+            path.read_text() for path in self.ch1_files if path.is_file()
+        )
         
         # Find all principle sections
         principle_pattern = r'^### (\d+(?:\.\d+)*)\. (.+)$'

@@ -141,7 +141,7 @@ def anchor_line(path: Path, anchor: str) -> int:
 
 def principle_layer_entries(root: Path) -> list[RegistryEntry]:
     preamble = root / "core_00_preamble.md"
-    values = root / "core_01_values_principles.md"
+    values = root / "core_01_a_values_principles.md"
     triad_start = anchor_line(preamble, "#constitutional-triad")
     spec: list[tuple[str, Path, str, int | None]] = [
         ("Constitutional Triad", preamble, "#constitutional-triad", triad_start + 4),

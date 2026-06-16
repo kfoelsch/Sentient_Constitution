@@ -14,7 +14,7 @@ Custody and binding scope: [Chapter Five *Corpus*](core_05-05_definitions_c_depe
 
 ## How to read
 
-1. **Chapter One** — preamble ([`core_00_preamble.md`](core_00_preamble.md)); Values Principles, Part A ([`core_01_values_principles.md`](core_01_values_principles.md)); Stewardship, Capacity, and Constitutional Safeguards, Part B ([`core_01_stewardship_capacity_principles.md`](core_01_stewardship_capacity_principles.md)).
+1. **Chapter One** — preamble ([`core_00_preamble.md`](core_00_preamble.md)); Values Principles, Part A ([`core_01_a_values_principles.md`](core_01_a_values_principles.md)); Stewardship, Capacity, and Constitutional Safeguards, Part B ([`core_01_b_stewardship_capacity_principles.md`](core_01_b_stewardship_capacity_principles.md)).
 2. **Chapters Two through Five** — definition structure, integrity, burden, traceability, and the definition stack ([`core_02-04_definition_mechanics.md`](core_02-04_definition_mechanics.md); Chapter Five Parts A–C below). Chapter Five is the **definition stack**, not the Rights Floor.
 3. **Chapters Six through Eight** — one **standing pipeline**: standing record → verified input → contribution / violation classification → attachments, descriptors, locks, and effects → Chapter Eight top-slot review for Violation Axis **s = 7, 8, or 9** anti-constitutional misconduct.
 4. **Chapter Nine** — constitutional forum families, jurisdiction, and cross-forum anti-self-judging ([`core_09-09_forum.md`](core_09-09_forum.md)).
@@ -28,9 +28,8 @@ The corpus is written in plain language with low jargon to improve accessibility
 ### Values and principles
 
 - **Chapter 00** (Preamble) — [`core_00_preamble.md`](core_00_preamble.md)
-- **Chapter One, Part A** (Values Principles, §§1–5) — [`core_01_values_principles.md`](core_01_values_principles.md)
-- **Chapter One, Part B** (Stewardship, Capacity, and Constitutional Safeguards, §§6–13) — [`core_01_stewardship_capacity_principles.md`](core_01_stewardship_capacity_principles.md)
-- **Retired path** (redirect stub) — [`core_00_preamble.md`, `core_01_values_principles.md`, and `core_01_stewardship_capacity_principles.md`](core_00-01_principles.md)
+- **Chapter One, Part A** (Values Principles, §§1–5) — [`core_01_a_values_principles.md`](core_01_a_values_principles.md)
+- **Chapter One, Part B** (Stewardship, Capacity, and Constitutional Safeguards, §§6–13) — [`core_01_b_stewardship_capacity_principles.md`](core_01_b_stewardship_capacity_principles.md)
 
 ### Definition mechanics and definitions
 
@@ -73,7 +72,7 @@ The corpus is written in plain language with low jargon to improve accessibility
 Cross-topic entry points not spelled out in the headings above:
 
 - Burden of proof, traceability, verification → **Chapter Four** ([`core_02-04_definition_mechanics.md`](core_02-04_definition_mechanics.md))
-- Constitutional Triad, Two Constitutional Aims, material stake → **Chapter 00** and **Chapter One, Part A** ([`#constitutional-triad`](core_00_preamble.md#constitutional-triad), [`#two-constitutional-aims`](core_01_values_principles.md#two-constitutional-aims), [`#material-stake`](core_00_preamble.md#material-stake))
+- Constitutional Triad, Two Constitutional Aims, material stake → **Chapter 00** and **Chapter One, Part A** ([`#constitutional-triad`](core_00_preamble.md#constitutional-triad), [`#two-constitutional-aims`](core_01_a_values_principles.md#two-constitutional-aims), [`#material-stake`](core_00_preamble.md#material-stake))
 - Contribution / violation classification (Axis I and II) → **Chapter Six**
 - Standing locks and integration consequences → **Chapter Seven**
 - Anti-constitutional misconduct gravity and top-slot review → **Chapter Eight**
