@@ -62,7 +62,7 @@ Machine-checkable rules: [tools/architecture/rule_registry.json](tools/architect
 ### What counts as a definition
 
 - **Hard definitions:** Ch 2–4 (`core_02-04_definition_mechanics.md`); Chapter Five §1–§3 (single-home rule below).
-- **Values language:** Chapter One vocabulary anchor + cluster index (end of Ch 1).
+- **Values language:** Chapter One — [Constitutional Triad](core_00-01_principles.md#constitutional-triad), [Two Constitutional Aims](core_00-01_principles.md#two-constitutional-aims) (**Flourishing** / **Continuity**), and [material stake](core_00-01_principles.md#material-stake) at principle layer; vocabulary anchor + cluster index at end of Ch 1. Use **Continuity aim** when linking to §2; reserve bare *continuity* for operational uses elsewhere.
 - **Standing:** Ch 6–7 (**verified** inputs); Ch 9 forums for **allegations**, not standing calculus.
 - **Rights:** Chapter Ten; implementation files **cite** articles.
 - **Joint operational terms:** `corpus_joint_structure.md` only — route via **CJS-2.1**.
@@ -97,7 +97,7 @@ Historical D/E/C rollout: [archive/doc_architecture_decision_log/DEC_WIDGET_AND_
 
 ### Plain-language guardrails (summary)
 
-Capitalize **Wellbeing**, **Safety**, **Truth**, **Rights Floor**, and **Foundational Rights** when they name constitutional layers. Full tables: [tools/architecture/lexical_guardrails.json](tools/architecture/lexical_guardrails.json). Forum vocabulary: [.cursor/rules/sentient-constitution.mdc](.cursor/rules/sentient-constitution.mdc).
+Capitalize **Constitutional Triad**, **Two Constitutional Aims**, **Flourishing**, **Continuity** (constitutional aim sense), **material stake**, **Wellbeing**, **Safety**, **Truth**, **Rights Floor**, and **Foundational Rights** when they name constitutional layers. Full tables: [tools/architecture/lexical_guardrails.json](tools/architecture/lexical_guardrails.json). Forum vocabulary: [.cursor/rules/sentient-constitution.mdc](.cursor/rules/sentient-constitution.mdc).
 
 ### Order and single-home discipline
 

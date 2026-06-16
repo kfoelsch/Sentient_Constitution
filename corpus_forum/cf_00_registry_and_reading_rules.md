@@ -43,6 +43,8 @@ Shared preamble contract: apply [corpus_joint_structure.md](../corpus_joint_stru
 
 > The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this file or in other corpus files.
 >
+> **Principle-layer routing:** Read with [Chapter One](../core_00-01_principles.md#chapter-01-principles-and-constraints) and [Chapter Nine](../core_09-09_forum.md#chapter-nine-forums-and-jurisdiction) — forums implement [Constitutional Triad](../core_00-01_principles.md#constitutional-triad) **participation** and **oversight** legs, scaled to [material stake](../core_00-01_principles.md#material-stake). Panel formation, recusal, and review lanes are primary operational homes in **CF-5** (*Routing operations, transfer, certification, and representative treatment*), **CF-7** (*Integrity safeguards and anti-self-judging*), and **CF-8** (*Forum forensic and analytical support*).
+>
 > **File-specific implementation anchors**
 > - **Operational home:** forum structure, forum independence safeguards, forum process governance, and forum continuity mechanics.
 > - **Boundary rule:** this file does **not** redefine constitutional terms, Rights Floors, offense taxonomy, or the constitutional routing logic owned by `core_09-09_forum.md` **Chapter Nine**.

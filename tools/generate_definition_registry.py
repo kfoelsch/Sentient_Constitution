@@ -130,16 +130,66 @@ def collect_entries(root: Path) -> list[RegistryEntry]:
     return sorted(entries, key=lambda entry: entry.term.casefold())
 
 
+PRINCIPLE_LAYER_ENTRIES = [
+    RegistryEntry(
+        term="Constitutional Triad",
+        source_file="core_00-01_principles.md",
+        anchor="#constitutional-triad",
+        line_start=10,
+        line_end=16,
+        category="principle_layer",
+        cluster_membership=None,
+    ),
+    RegistryEntry(
+        term="Two Constitutional Aims",
+        source_file="core_00-01_principles.md",
+        anchor="#two-constitutional-aims",
+        line_start=139,
+        line_end=144,
+        category="principle_layer",
+        cluster_membership=None,
+    ),
+    RegistryEntry(
+        term="Flourishing",
+        source_file="core_00-01_principles.md",
+        anchor="#flourishing",
+        line_start=141,
+        line_end=141,
+        category="principle_layer",
+        cluster_membership=None,
+    ),
+    RegistryEntry(
+        term="Continuity",
+        source_file="core_00-01_principles.md",
+        anchor="#continuity",
+        line_start=142,
+        line_end=142,
+        category="principle_layer",
+        cluster_membership=None,
+    ),
+    RegistryEntry(
+        term="material stake",
+        source_file="core_00-01_principles.md",
+        anchor="#material-stake",
+        line_start=12,
+        line_end=12,
+        category="principle_layer",
+        cluster_membership=None,
+    ),
+]
+
+
 def main() -> int:
     args = parse_args()
     root = Path(args.root).resolve()
     output = root / args.output
     output.parent.mkdir(parents=True, exist_ok=True)
-    entries = collect_entries(root)
+    entries = collect_entries(root) + PRINCIPLE_LAYER_ENTRIES
+    entries = sorted(entries, key=lambda entry: entry.term.casefold())
     payload = {
         "$schema": "../schemas/definition_registry.schema.json",
         "generated_at": datetime.now(timezone.utc).replace(microsecond=0).isoformat(),
-        "source": "authoritative Chapter Five core files",
+        "source": "authoritative Chapter Five core files and Chapter One principle-layer anchors",
         "definition_count": len(entries),
         "definitions": [asdict(entry) for entry in entries],
     }

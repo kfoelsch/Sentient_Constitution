@@ -45,6 +45,7 @@ Trustworthiness must be evaluated across time, scale, and dependency relationshi
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: Principles: Chapter One [4.1 Safety](core_00-01_principles.md#41-safety-harm-constraint), [4.2 Truth](core_00-01_principles.md#42-truth-epistemic-integrity-constraint), and [5. Trust](core_00-01_principles.md#5-system-stability-enabler-trust-coordination-integrity).
+- Read with: [Two Constitutional Aims](core_00-01_principles.md#two-constitutional-aims) — **Flourishing** aim.
 
 </details>
 
@@ -1501,6 +1502,7 @@ Final **constitutional** interpretation must remain authoritative, bounded, audi
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: Principles: Chapter One [7.4 Rights-Collision Procedure](core_00-01_principles.md#74-rights-collision-procedure), [10. Prohibition on Absolute Override](core_00-01_principles.md#10-prohibition-on-absolute-override), and [11. Integrated Application](core_00-01_principles.md#11-integrated-application).
+- Read with: [Constitutional Triad](core_00-01_principles.md#constitutional-triad) — all three legs; triad capture discipline under [§8.2](core_00-01_principles.md#82-incentive-alignment-and-system-capture).
 
 </details>
 

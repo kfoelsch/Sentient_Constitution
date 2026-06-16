@@ -750,7 +750,7 @@ Independent Definitions must not fragment, isolate, or redistribute compliance i
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [8.1 Required Evaluation Factors](core_00-01_principles.md#81-required-evaluation-factors) and [8.2 Incentive Alignment and System Capture](core_00-01_principles.md#82-incentive-alignment-and-system-capture).
+- Downstream: Principles: [Constitutional Triad](core_00-01_principles.md#constitutional-triad) (triad capture discipline under [§8.2](core_00-01_principles.md#82-incentive-alignment-and-system-capture); [material stake](core_00-01_principles.md#material-stake) scaling); [8.1 Required Evaluation Factors](core_00-01_principles.md#81-required-evaluation-factors) and [8.2 Incentive Alignment and System Capture](core_00-01_principles.md#82-incentive-alignment-and-system-capture).
 - Stewardship operationalization: [Chapter One §8.2.2 Stewardship and Operator Incentive Alignment](core_00-01_principles.md#822-stewardship-and-operator-incentive-alignment).
 - Active correction and capture escalation: [Chapter One §8.2.4 Misalignment Correction and Capture Response](core_00-01_principles.md#824-misalignment-correction-and-capture-response).
 - Cluster component: [Chapter Five §3.20 *Governance Architecture, Oversight, Dependency, Decentralization, Concentration, Market Structure, and Exit-Path Integrity*](core_05-05_definitions_c_dependent_clusters.md#governance-architecture-oversight-decentralization-and-concentration-cluster) (hub paths that intersect dependency, concentration, governance-form incentives, or exit-quality analysis — read together with [Chapter Five §3.13 *Contingent Claim, Event-Contract Market, and Game of Chance*](core_05-05_definitions_a_independent.md#contingent-claim) where contingent structures are materially implicated)
@@ -1171,7 +1171,7 @@ Independent Definitions must not fragment, isolate, or redistribute compliance i
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [8.2 Incentive Alignment and System Capture](core_00-01_principles.md#82-incentive-alignment-and-system-capture).
+- Downstream: Principles: [Constitutional Triad](core_00-01_principles.md#constitutional-triad) (accountability and oversight legs; triad capture discipline under [§8.2](core_00-01_principles.md#82-incentive-alignment-and-system-capture); [material stake](core_00-01_principles.md#material-stake) scaling); [8.2 Incentive Alignment and System Capture](core_00-01_principles.md#82-incentive-alignment-and-system-capture).
 - Read with: the [Capture, Resolution Integrity, and Anti-Capture cluster](core_05-05_definitions_b_semi_independent.md#capture-of-resolution-pathways), [Incentive Alignment](#incentive-alignment), [Oversight](core_05-05_definitions_a_independent.md#oversight-constitutional), [Accountability](core_05-05_definitions_b_semi_independent.md#accountability), [Contestability](core_05-05_definitions_b_semi_independent.md#contestability), and [Trust Degradation and Misleading Reliance](core_05-05_definitions_c_dependent_clusters.md#trust-degradation-and-misleading-reliance-constitutional).
 
 </details>
@@ -1190,7 +1190,20 @@ Independent Definitions must not fragment, isolate, or redistribute compliance i
 - E: Trace interaction effects across components, dependencies, and feedback where isolating single-element analysis would understate material pathways for [Materiality Determination](core_05-05_definitions_b_semi_independent.md#materiality-determination), [Risk](#risk), or [Systemic Materiality](#systemic-materiality).
 <a id="systemic-c"></a>
 - C: Non-compliant: treating systemic patterns as out of scope solely because no single element crosses a threshold, where [Systemic Materiality](#systemic-materiality) or joint cluster discipline requires assessing interaction and propagation.
+
+---
+
 #### Systemic Materiality
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Downstream: Principles: [material stake](core_00-01_principles.md#material-stake) scaling; [Two Constitutional Aims](core_00-01_principles.md#two-constitutional-aims) — **Continuity** aim ([§8.1](core_00-01_principles.md#81-required-evaluation-factors)).
+- Read with: [Material Impact](core_05-05_definitions_b_semi_independent.md#material-impact), [Materiality Determination](core_05-05_definitions_b_semi_independent.md#materiality-determination), and [Classification-Scaled Governance](#classification-scaled-governance).
+
+</details>
+
+<br>
 
 - O: [Material Impact](core_05-05_definitions_b_semi_independent.md#material-impact) exceeding the sum of individual effects due to interaction.
 <a id="systemic-materiality-e"></a>
@@ -1231,7 +1244,7 @@ Independent Definitions must not fragment, isolate, or redistribute compliance i
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [3. Foundational Objective: Wellbeing](core_00-01_principles.md#3-foundational-objective-wellbeing).
+- Downstream: Principles: [3. Foundational Objective: Wellbeing](core_00-01_principles.md#3-foundational-objective-wellbeing); [Two Constitutional Aims](core_00-01_principles.md#two-constitutional-aims) — **Flourishing** aim.
 - Cluster component: [Chapter Five §3.32 *Resilience, Safety, Reversibility, Self-Healing, Cascading Failure, Existential Risk, Environmental Preconditions, and Wellbeing*](core_05-05_definitions_c_dependent_clusters.md#collective-harm-boundary-and-harm-cluster)
 - Read with: [Harm](core_05-05_definitions_c_dependent_clusters.md#harm), [Dependency](#dependency), [Meaningful Agency](core_05-05_definitions_b_semi_independent.md#meaningful-agency), and [Environmental Preconditions](core_05-05_definitions_b_semi_independent.md#environmental-preconditions-constitutional).
 

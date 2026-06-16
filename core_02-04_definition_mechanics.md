@@ -2,7 +2,7 @@
 
 This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one instrument. It contains **Chapters Two through Four**; chapter numbering and cross-references match the integrated instrument. Reading order, the binding/support split, and corpus edition metadata are maintained in [README.md](README.md).
 
-Upstream constitutional direction for this file's terms and evaluative constraints begins in [core_00-01_principles.md](core_00-01_principles.md). Canonical constitutional term ownership for Chapter Five resides in [core_05-05_definitions_a_independent.md](core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions).
+Upstream constitutional direction for this file's terms and evaluative constraints begins in [core_00-01_principles.md](core_00-01_principles.md) — including the [Constitutional Triad](core_00-01_principles.md#constitutional-triad), [Two Constitutional Aims](core_00-01_principles.md#two-constitutional-aims), and [material stake](core_00-01_principles.md#material-stake) scaling established in Chapter 00 and Chapter One §2. Canonical constitutional term ownership for Chapter Five resides in [core_05-05_definitions_a_independent.md](core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions).
 
 ---
 
@@ -393,6 +393,8 @@ This required standard scales with [material stake](core_00-01_principles.md#mat
 - system impact
 - dependency
 - risk
+
+Where scaling affects tradeoffs between sentient wellbeing and long-horizon stability, read with the [Two Constitutional Aims](core_00-01_principles.md#two-constitutional-aims) — **Flourishing** and **Continuity** — stated in [Chapter One §2](core_00-01_principles.md#2-purpose-and-role).
 
 #### 2.4 Disqualifying evidence; uncertainty; default rule
 The following conditions or evidence types do not meet the burden of proof and are non-compliant:

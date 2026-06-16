@@ -542,7 +542,7 @@ Below, entries are **grouped by topic** for reading convenience (non-operative o
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [§9 Freedom (Bounded Agency)](core_00-01_principles.md#9-freedom-bounded-agency), [7.1 Core Tradeoff Principles](core_00-01_principles.md#71-core-tradeoff-principles), and [8.1 Required Evaluation Factors](core_00-01_principles.md#81-required-evaluation-factors) where participation, dependency, and material impact determine the intensity of agency protection.
+- Downstream: Principles: [Constitutional Triad](core_00-01_principles.md#constitutional-triad) — **participation** leg; [§9 Freedom (Bounded Agency)](core_00-01_principles.md#9-freedom-bounded-agency), [7.1 Core Tradeoff Principles](core_00-01_principles.md#71-core-tradeoff-principles), and [8.1 Required Evaluation Factors](core_00-01_principles.md#81-required-evaluation-factors) where participation, dependency, and material impact determine the intensity of agency protection.
 - Cluster component: [Chapter Five §3.8 *Self-Determination, Meaningful Agency, Expression, Educational Agency, and Volitional Integrity*](core_05-05_definitions_c_dependent_clusters.md#self-determination-and-meaningful-agency-cluster), and [Chapter Five §2 *Agency, Consent, and Anti-Coercion*](#agency-consent-and-anti-coercion-semi-independent).
 - Read with: [Freedom (Bounded Agency)](core_05-05_definitions_a_independent.md#freedom-bounded-agency), [Consent](#consent-constitutional), [Coercion and Manipulation](#coercion-and-manipulation-constitutional), [Dependency](core_05-05_definitions_a_independent.md#dependency), [Contestability](#contestability), [Systemic Lock-In](#systemic-lock-in), and [Dignity and Equal Moral Standing](core_05-05_definitions_a_independent.md#dignity-and-equal-moral-standing).
 
@@ -1759,7 +1759,7 @@ Below, entries are **grouped by topic** for reading convenience (non-operative o
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: Chapter One surfaces this definition across **Safety** (**§3.1**), **Truth** (**§3.2**), **Trust** (**§6.2**), **§6.2** stewardship and openness passages, **§7.1**, **§7.2**, and **§6.4.2** where **Materiality** appears in D/E/C widgets — see [8.1 Required Evaluation Factors](core_00-01_principles.md#81-required-evaluation-factors) as the principal systems-evaluation home.
+- Downstream: Principles: [material stake](core_00-01_principles.md#material-stake) scaling proxy; Chapter One surfaces this definition across **Safety** (**§3.1**), **Truth** (**§3.2**), **Trust** (**§6.2**), **§6.2** stewardship and openness passages, **§7.1**, **§7.2**, and **§6.4.2** where **Materiality** appears in D/E/C widgets — see [8.1 Required Evaluation Factors](core_00-01_principles.md#81-required-evaluation-factors) as the principal systems-evaluation home.
 - Cluster component: [the dependent cluster *Material Impact, Materiality Determination, Classification-Scaled Governance, Oversight, and Capability Requirement*](core_05-05_definitions_b_semi_independent.md#materiality-semi-independent).
 - Read with: [Material Impact](#material-impact), [Material Risk](#material-risk), [Systemic Materiality](core_05-05_definitions_a_independent.md#systemic-materiality), and [Auditability](core_05-05_definitions_c_dependent_clusters.md#auditability).
 
@@ -1802,7 +1802,7 @@ Below, entries are **grouped by topic** for reading convenience (non-operative o
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [8.1 Required Evaluation Factors](core_00-01_principles.md#81-required-evaluation-factors); [§6.2 Stewardship and Distributed Understanding — §6.2.2 Distributed Understanding](core_00-01_principles.md#622-distributed-understanding) (understanding scales with **Materiality**); [7.1.1 Proportionality](core_00-01_principles.md#711-proportionality) (material impact in the tradeoff index).
+- Downstream: Principles: [material stake](core_00-01_principles.md#material-stake) scaling proxy; [8.1 Required Evaluation Factors](core_00-01_principles.md#81-required-evaluation-factors); [§6.2 Stewardship and Distributed Understanding — §6.2.2 Distributed Understanding](core_00-01_principles.md#622-distributed-understanding) (understanding scales with **Materiality**); [7.1.1 Proportionality](core_00-01_principles.md#711-proportionality) (material impact in the tradeoff index).
 - Cluster component: [the dependent cluster *Material Impact, Materiality Determination, Classification-Scaled Governance, Oversight, and Capability Requirement*](core_05-05_definitions_b_semi_independent.md#materiality-semi-independent).
 - Read with: [Harm](core_05-05_definitions_c_dependent_clusters.md#harm), [Risk](core_05-05_definitions_a_independent.md#risk), [Systemic Materiality](core_05-05_definitions_a_independent.md#systemic-materiality), [Dependency](core_05-05_definitions_a_independent.md#dependency), [Classification-Scaled Governance](core_05-05_definitions_a_independent.md#classification-scaled-governance), [Oversight](core_05-05_definitions_a_independent.md#oversight-constitutional), and [Transparency](core_05-05_definitions_c_dependent_clusters.md#transparency).
 

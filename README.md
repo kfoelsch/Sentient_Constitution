@@ -70,6 +70,7 @@ The corpus is written in plain language with low jargon to improve accessibility
 Cross-topic entry points not spelled out in the headings above:
 
 - Burden of proof, traceability, verification → **Chapter Four** ([`core_02-04_definition_mechanics.md`](core_02-04_definition_mechanics.md))
+- Constitutional Triad, Two Constitutional Aims, material stake → **Chapter 00–01** ([`core_00-01_principles.md`](core_00-01_principles.md#constitutional-triad), [`#two-constitutional-aims`](core_00-01_principles.md#two-constitutional-aims), [`#material-stake`](core_00-01_principles.md#material-stake))
 - Contribution / violation classification (Axis I and II) → **Chapter Six**
 - Standing locks and integration consequences → **Chapter Seven**
 - Anti-constitutional misconduct gravity and top-slot review → **Chapter Eight**

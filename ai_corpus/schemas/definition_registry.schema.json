@@ -28,7 +28,7 @@
           "line_start": { "type": "integer", "minimum": 1 },
           "line_end": { "type": "integer", "minimum": 1 },
           "category": {
-            "enum": ["independent", "semi_independent", "dependent_cluster"]
+            "enum": ["independent", "semi_independent", "dependent_cluster", "principle_layer"]
           },
           "cluster_membership": {
             "oneOf": [

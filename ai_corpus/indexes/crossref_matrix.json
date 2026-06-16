@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/crossref_matrix.schema.json",
-  "generated_at": "2026-06-16T05:15:16+00:00",
+  "generated_at": "2026-06-16T06:31:54+00:00",
   "description": "Source-derived file-to-file Markdown reference graph.",
   "graph": {
     "nodes": [
@@ -376,7 +376,7 @@
           },
           {
             "file": "core_05-05_definitions_a_independent.md",
-            "count": 420,
+            "count": 424,
             "anchors": [
               "#accessibility-constitutional",
               "#accessibility-constitutional-c",
@@ -424,6 +424,7 @@
               "#necessity",
               "#necessity-c",
               "#necessity-e",
+              "#oversight",
               "#oversight-constitutional",
               "#oversight-constitutional-c",
               "#oversight-constitutional-e",
@@ -459,7 +460,7 @@
           },
           {
             "file": "core_05-05_definitions_b_semi_independent.md",
-            "count": 323,
+            "count": 329,
             "anchors": [
               "#accountability",
               "#accountability-c",
@@ -509,6 +510,7 @@
               "#intergenerational-responsibility-constitutional",
               "#intergenerational-responsibility-constitutional-c",
               "#intergenerational-responsibility-constitutional-e",
+              "#material-impact",
               "#materiality-determination",
               "#materiality-determination-c",
               "#materiality-determination-e",
@@ -547,13 +549,15 @@
               "#system-creation-constitutional-e",
               "#systemic-lock-in",
               "#systemic-lock-in-c",
-              "#systemic-lock-in-e"
+              "#systemic-lock-in-e",
+              "#systemic-materiality"
             ]
           },
           {
             "file": "core_05-05_definitions_c_dependent_clusters.md",
-            "count": 231,
+            "count": 235,
             "anchors": [
+              "#accountability-contestability-and-collective-accountability-failure-cluster",
               "#assembly-collective-organization-institutional-formation-cluster",
               "#auditability",
               "#auditability-c",
@@ -562,6 +566,7 @@
               "#authority-stack-c",
               "#authority-stack-e",
               "#corpus",
+              "#corpus-authority-stack-supremacy-and-enforceability-cluster",
               "#corpus-c",
               "#corpus-e",
               "#educational-agency",
@@ -572,6 +577,7 @@
               "#foreseeability-diligence",
               "#foreseeability-diligence-c",
               "#foreseeability-diligence-e",
+              "#governance-architecture-oversight-decentralization-and-concentration-cluster",
               "#harm",
               "#harm-c",
               "#harm-e",
@@ -720,15 +726,17 @@
         "targets": [
           {
             "file": "core_00-01_principles.md",
-            "count": 12,
+            "count": 17,
             "anchors": [
+              "#2-purpose-and-role",
               "#41-safety-harm-constraint",
               "#42-truth-epistemic-integrity-constraint",
               "#43-science-informed-inquiry-and-decision-support",
               "#44-plain-language-accessibility-stewardship-duty",
               "#72-epistemic-disclosure-constraints",
               "#constitutional-triad",
-              "#material-stake"
+              "#material-stake",
+              "#two-constitutional-aims"
             ]
           },
           {
@@ -794,7 +802,7 @@
         "targets": [
           {
             "file": "core_00-01_principles.md",
-            "count": 50,
+            "count": 60,
             "anchors": [
               "#10-prohibition-on-absolute-override",
               "#3-foundational-objective-wellbeing",
@@ -813,7 +821,8 @@
               "#9-freedom-bounded-agency",
               "#chapter-00-preamble--foundational-requirements",
               "#constitutional-triad",
-              "#material-stake"
+              "#material-stake",
+              "#two-constitutional-aims"
             ]
           },
           {
@@ -837,7 +846,7 @@
           },
           {
             "file": "core_05-05_definitions_b_semi_independent.md",
-            "count": 232,
+            "count": 234,
             "anchors": [
               "#accountability",
               "#accountability-contestability-semi-independent",
@@ -1083,7 +1092,7 @@
         "targets": [
           {
             "file": "core_00-01_principles.md",
-            "count": 144,
+            "count": 147,
             "anchors": [
               "#3-foundational-objective-wellbeing",
               "#4-non-negotiable-constraints-safety-and-truth",
@@ -1326,7 +1335,7 @@
         "targets": [
           {
             "file": "core_00-01_principles.md",
-            "count": 71,
+            "count": 79,
             "anchors": [
               "#1-constitutional-interpretation",
               "#10-prohibition-on-absolute-override",
@@ -1351,7 +1360,10 @@
               "#81-required-evaluation-factors",
               "#82-incentive-alignment-and-system-capture",
               "#9-freedom-bounded-agency",
-              "#chapter-00-preamble--foundational-requirements"
+              "#chapter-00-preamble--foundational-requirements",
+              "#constitutional-triad",
+              "#material-stake",
+              "#two-constitutional-aims"
             ]
           },
           {
@@ -1594,10 +1606,13 @@
         "targets": [
           {
             "file": "core_00-01_principles.md",
-            "count": 8,
+            "count": 12,
             "anchors": [
               "#62-stewardship-and-distributed-understanding",
-              "#chapter-01-principles-and-constraints"
+              "#chapter-01-principles-and-constraints",
+              "#constitutional-triad",
+              "#material-stake",
+              "#two-constitutional-aims"
             ]
           },
           {
@@ -1737,7 +1752,7 @@
         "targets": [
           {
             "file": "core_00-01_principles.md",
-            "count": 16,
+            "count": 18,
             "anchors": [
               "#10-prohibition-on-absolute-override",
               "#3-foundational-objective-wellbeing",
@@ -1748,7 +1763,9 @@
               "#7-interaction-and-conflict-resolution",
               "#82-incentive-alignment-and-system-capture",
               "#9-freedom-bounded-agency",
-              "#chapter-01-principles-and-constraints"
+              "#chapter-01-principles-and-constraints",
+              "#constitutional-triad",
+              "#material-stake"
             ]
           },
           {
@@ -1915,7 +1932,7 @@
         "targets": [
           {
             "file": "core_00-01_principles.md",
-            "count": 9,
+            "count": 13,
             "anchors": [
               "#32-recognition-reinforcement-and-aspiration",
               "#42-truth-epistemic-integrity-constraint",
@@ -1925,7 +1942,11 @@
               "#615-consolidation-ceiling",
               "#721-preservation-of-epistemic-integrity",
               "#82-incentive-alignment-and-system-capture",
-              "#chapter-01-principles-and-constraints"
+              "#chapter-01-principles-and-constraints",
+              "#constitutional-triad",
+              "#continuity",
+              "#material-stake",
+              "#two-constitutional-aims"
             ]
           },
           {
@@ -2125,9 +2146,11 @@
         "targets": [
           {
             "file": "core_00-01_principles.md",
-            "count": 2,
+            "count": 6,
             "anchors": [
-              "#chapter-01-principles-and-constraints"
+              "#chapter-01-principles-and-constraints",
+              "#constitutional-triad",
+              "#material-stake"
             ]
           },
           {
@@ -2247,7 +2270,7 @@
         "targets": [
           {
             "file": "core_00-01_principles.md",
-            "count": 48,
+            "count": 51,
             "anchors": [
               "#3-foundational-objective-wellbeing",
               "#41-safety-harm-constraint",
@@ -2260,7 +2283,10 @@
               "#81-required-evaluation-factors",
               "#82-incentive-alignment-and-system-capture",
               "#822-stewardship-and-operator-incentive-alignment",
-              "#9-freedom-bounded-agency"
+              "#9-freedom-bounded-agency",
+              "#constitutional-triad",
+              "#material-stake",
+              "#two-constitutional-aims"
             ]
           },
           {
@@ -2447,7 +2473,7 @@
         "targets": [
           {
             "file": "core_00-01_principles.md",
-            "count": 100,
+            "count": 102,
             "anchors": [
               "#10-prohibition-on-absolute-override",
               "#11-integrated-application",
@@ -2468,7 +2494,9 @@
               "#74-rights-collision-procedure",
               "#81-required-evaluation-factors",
               "#82-incentive-alignment-and-system-capture",
-              "#9-freedom-bounded-agency"
+              "#9-freedom-bounded-agency",
+              "#constitutional-triad",
+              "#material-stake"
             ]
           },
           {
@@ -2734,7 +2762,7 @@
         "targets": [
           {
             "file": "core_00-01_principles.md",
-            "count": 124,
+            "count": 127,
             "anchors": [
               "#10-prohibition-on-absolute-override",
               "#11-integrated-application",
@@ -2753,7 +2781,9 @@
               "#81-required-evaluation-factors",
               "#82-incentive-alignment-and-system-capture",
               "#821-alignment-requirement",
-              "#9-freedom-bounded-agency"
+              "#9-freedom-bounded-agency",
+              "#constitutional-triad",
+              "#two-constitutional-aims"
             ]
           },
           {
@@ -3136,7 +3166,7 @@
         "targets": [
           {
             "file": "core_00-01_principles.md",
-            "count": 10,
+            "count": 13,
             "anchors": [
               "#3-foundational-objective-wellbeing",
               "#4-non-negotiable-constraints-safety-and-truth",
@@ -3146,7 +3176,10 @@
               "#714-minimization-of-avoidable-burden",
               "#74-rights-collision-procedure",
               "#9-freedom-bounded-agency",
-              "#chapter-01-principles-and-constraints"
+              "#chapter-00-preamble--foundational-requirements",
+              "#chapter-01-principles-and-constraints",
+              "#constitutional-triad",
+              "#material-stake"
             ]
           },
           {
@@ -3279,10 +3312,13 @@
         "targets": [
           {
             "file": "core_00-01_principles.md",
-            "count": 4,
+            "count": 7,
             "anchors": [
               "#4-non-negotiable-constraints-safety-and-truth",
-              "#chapter-01-principles-and-constraints"
+              "#chapter-01-principles-and-constraints",
+              "#constitutional-triad",
+              "#material-stake",
+              "#two-constitutional-aims"
             ]
           },
           {
@@ -3414,11 +3450,13 @@
         "targets": [
           {
             "file": "core_00-01_principles.md",
-            "count": 12,
+            "count": 17,
             "anchors": [
               "#1-constitutional-interpretation",
-              "#12-canonical-conflict-resolution-procedure",
-              "#chapter-01-principles-and-constraints"
+              "#14-canonical-conflict-resolution-procedure",
+              "#chapter-01-principles-and-constraints",
+              "#constitutional-triad",
+              "#two-constitutional-aims"
             ]
           },
           {
@@ -3895,6 +3933,16 @@
         "source": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
         "targets": [
           {
+            "file": "core_00-01_principles.md",
+            "count": 4,
+            "anchors": [
+              "#chapter-01-principles-and-constraints",
+              "#constitutional-triad",
+              "#material-stake",
+              "#two-constitutional-aims"
+            ]
+          },
+          {
             "file": "core_05-05_definitions_a_independent.md",
             "count": 11,
             "anchors": [
@@ -4001,6 +4049,16 @@
       {
         "source": "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md",
         "targets": [
+          {
+            "file": "core_00-01_principles.md",
+            "count": 4,
+            "anchors": [
+              "#chapter-01-principles-and-constraints",
+              "#constitutional-triad",
+              "#material-stake",
+              "#two-constitutional-aims"
+            ]
+          },
           {
             "file": "core_05-05_definitions_a_independent.md",
             "count": 23,
@@ -5077,6 +5135,16 @@
         "source": "corpus_systems/cs_00_registry_and_reading_rules.md",
         "targets": [
           {
+            "file": "core_00-01_principles.md",
+            "count": 4,
+            "anchors": [
+              "#chapter-01-principles-and-constraints",
+              "#constitutional-triad",
+              "#material-stake",
+              "#two-constitutional-aims"
+            ]
+          },
+          {
             "file": "core_05-05_definitions_a_independent.md",
             "count": 2,
             "anchors": [
@@ -5332,6 +5400,14 @@
         "source": "corpus_systems/cs_protocol_a_system_design_testing_verification_deployment.md",
         "targets": [
           {
+            "file": "core_00-01_principles.md",
+            "count": 2,
+            "anchors": [
+              "#51-resilience-and-self-healing-design",
+              "#two-constitutional-aims"
+            ]
+          },
+          {
             "file": "core_05-05_definitions_a_independent.md",
             "count": 1,
             "anchors": [
@@ -5395,6 +5471,15 @@
       {
         "source": "corpus_systems/cs_protocol_d_decentralized_constitutional_continuity_partition_resilience.md",
         "targets": [
+          {
+            "file": "core_00-01_principles.md",
+            "count": 3,
+            "anchors": [
+              "#chapter-01-principles-and-constraints",
+              "#constitutional-triad",
+              "#two-constitutional-aims"
+            ]
+          },
           {
             "file": "core_05-05_definitions_a_independent.md",
             "count": 2,
@@ -5570,6 +5655,14 @@
       {
         "source": "corpus_institutions/ci_00_registry_and_reading_rules.md",
         "targets": [
+          {
+            "file": "core_00-01_principles.md",
+            "count": 2,
+            "anchors": [
+              "#chapter-01-principles-and-constraints",
+              "#constitutional-triad"
+            ]
+          },
           {
             "file": "core_05-05_definitions_a_independent.md",
             "count": 2,
@@ -8102,6 +8195,15 @@
         "source": "corpus_forum/cf_00_registry_and_reading_rules.md",
         "targets": [
           {
+            "file": "core_00-01_principles.md",
+            "count": 3,
+            "anchors": [
+              "#chapter-01-principles-and-constraints",
+              "#constitutional-triad",
+              "#material-stake"
+            ]
+          },
+          {
             "file": "core_05-05_definitions_a_independent.md",
             "count": 6,
             "anchors": [
@@ -8144,7 +8246,7 @@
           },
           {
             "file": "core_09-09_forum.md",
-            "count": 3,
+            "count": 4,
             "anchors": [
               "#chapter-nine-forums-and-jurisdiction"
             ]

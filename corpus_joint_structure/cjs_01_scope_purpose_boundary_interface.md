@@ -110,6 +110,8 @@ Implementation files should point back here instead of repeating long boilerplat
 The shared contract is:
 
 - Use the canonical meaning of constitutional terms. Do not redefine constitutional terms, Rights Floors, or O/E/C definition mechanics.
+- Read implementation obligations through [Chapter One](../core_00-01_principles.md#chapter-01-principles-and-constraints) — including the [Constitutional Triad](../core_00-01_principles.md#constitutional-triad) (**oversight**, **participation**, **accountability** scaled to [material stake](../core_00-01_principles.md#material-stake)) and [Two Constitutional Aims](../core_00-01_principles.md#two-constitutional-aims) (**Flourishing** and **Continuity**). Implementation text must not hollow the Triad below material-stake requirements.
+- **Continuity disambiguation:** constitutional **Continuity aim** (Chapter One §2) is distinct from operational or protocol continuity (for example forum continuity, institutional continuity, or **Protocol D** partition resilience). Do not treat operational continuity language as narrowing the Continuity aim.
 - Add only implementation details that belong inside the file's assigned scope.
 - When implementation files overlap on the same facts, apply **CJS-2.1** (*Topic router (stable IDs)*) for read-with routing, **CJS-3.6** (*Implementation-label traceability and stricter-wins discipline*) for stricter-wins, and **CJS-3** (*Joint structural obligations (cross-domain requirements)*) for other joint requirements.
 - Keep implementation text understandable under **Article XX**.

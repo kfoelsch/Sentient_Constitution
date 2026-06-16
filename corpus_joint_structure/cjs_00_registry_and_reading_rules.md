@@ -41,6 +41,8 @@ Scope, boundary, and the shared implementation-corpus contract live in the next 
 
 > The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this file or in other corpus files.
 >
+> **Principle-layer routing:** Read with [Chapter One](../core_00-01_principles.md#chapter-01-principles-and-constraints) — [Constitutional Triad](../core_00-01_principles.md#constitutional-triad), [Two Constitutional Aims](../core_00-01_principles.md#two-constitutional-aims), and [material stake](../core_00-01_principles.md#material-stake). **CJS-5** (*Implementation and cross-implementation operational cluster library*) scales burden and constraint under material stake where materially relevant.
+>
 > **Implementation anchors**
 > - **Routing:** **CJS-2.1** (*Topic router (stable IDs)*) gives the owner map and mandatory read-with lists for joint topics; **CJS-3.6** (*Implementation-label traceability and stricter-wins discipline*) gives stricter-wins discipline.
 > - **Joint obligations:** **CJS-3** (*Joint structural obligations (cross-domain requirements)*) gives requirements that must be satisfied together when more than one implementation file applies to the same facts.

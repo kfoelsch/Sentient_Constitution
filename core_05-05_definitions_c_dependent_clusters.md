@@ -166,6 +166,7 @@ Unless this Constitution expressly provides otherwise, **sentient** and **sentie
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Owner floor: [Chapter Eleven §4.3](core_11-11_governance.md#43-decision-resolution-requirements-for-binding-collective-choice) (*Decision-resolution requirements for binding stakeholder choice*).
+- Read with: [Constitutional Triad](core_00-01_principles.md#constitutional-triad) — **participation** leg (Stakeholder System Participation layer, distinct from Constitutional Contract Layer authorization); [material stake](core_00-01_principles.md#material-stake) scaling.
 - Read with: [Stakeholder Status, Emergency, and Participation Weight](#stakeholder-status-emergency-and-participation-weight-cluster), [Governance](core_05-05_definitions_b_semi_independent.md#governance), [Constitutional Contract Layer](core_05-05_definitions_a_independent.md#constitutional-contract-layer), [Foundational Constitutional Choice](core_05-05_definitions_a_independent.md#foundational-constitutional-choice), [Stakeholder Participation Weight](core_05-05_definitions_b_semi_independent.md#stakeholder-participation-weight), [Article XI](core_10-10_rights_part_b.md#article-xi-stakeholder-system-participation-representation-and-due-process), [Article XXIII-F: Rights-Collision Procedure and Restorative Alignment](core_10-10_rights_part_d.md#article-xxiii-f-rights-collision-procedure-and-restorative-alignment), and [Chapter One §7.4](core_00-01_principles.md#74-rights-collision-procedure).
 
 </details>
@@ -385,7 +386,7 @@ This cluster is the joint-invocation home for operative corpus identity, authori
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [11. Integrated Application](core_00-01_principles.md#11-integrated-application) (corpus read as integrated whole); [1. Constitutional Interpretation](core_00-01_principles.md#1-constitutional-interpretation) (binding source identification).
+- Downstream: Principles: [11. Integrated Application](core_00-01_principles.md#11-integrated-application) (corpus read as integrated whole); [Constitutional Triad](core_00-01_principles.md#constitutional-triad) — **oversight** leg; [Two Constitutional Aims](core_00-01_principles.md#two-constitutional-aims) — **Continuity** aim under incorporation and custody; [1. Constitutional Interpretation](core_00-01_principles.md#1-constitutional-interpretation) (binding source identification).
 - Downstream: [Chapter Fifteen — Incorporation bridge](core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) (*which adopted **implementation text** text is binding, edition pinning, custody chain, and anti-drift discipline*).
 - Read with: [Authority Stack and Internal Hierarchy](#authority-stack) and [Constitutional Constraint Violation](#constitutional-constraint-violation).
 - Read with: owner-layer references in [doc_architecture.md](doc_architecture.md) and [README.md](README.md).
@@ -932,6 +933,8 @@ This cluster is the joint-invocation home for self-determination, meaningful age
 
 **Joint invocation and anti-bypass.** Under §3.0.1, a matter within the admission scope must not be segmented into separate speech, platform, curricular, or surveillance questions in a way that preserves nominal liberty while defeating substantive agency through coercion, manipulation, or informational capture.
 
+**Read with principles:** [Constitutional Triad](core_00-01_principles.md#constitutional-triad) — **participation** leg; [Two Constitutional Aims](core_00-01_principles.md#two-constitutional-aims) — **Flourishing** aim.
+
 ---
 
 <a id="self-determination-constitutional"></a>
@@ -1423,7 +1426,7 @@ while defeating practical reconstructability, contestability, or proportionate a
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [§6.2 Stewardship and Distributed Understanding](core_00-01_principles.md#62-stewardship-and-distributed-understanding), [6.2.1 Preservation of Epistemic Integrity](core_00-01_principles.md#721-preservation-of-epistemic-integrity).
+- Downstream: Principles: [Constitutional Triad](core_00-01_principles.md#constitutional-triad) — **oversight** leg; [§6.2 Stewardship and Distributed Understanding](core_00-01_principles.md#62-stewardship-and-distributed-understanding), [6.2.1 Preservation of Epistemic Integrity](core_00-01_principles.md#721-preservation-of-epistemic-integrity).
 - Read with: [Epistemic Integrity](#epistemic-integrity), [Truth (Constitutional Constraint)](#truth-constitutional-constraint), [Contestability](core_05-05_definitions_b_semi_independent.md#contestability), and [Auditability](#auditability).
 
 </details>
@@ -1456,7 +1459,7 @@ while defeating practical reconstructability, contestability, or proportionate a
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Read with: [Accountability](core_05-05_definitions_b_semi_independent.md#accountability), [Contestability](core_05-05_definitions_b_semi_independent.md#contestability), [Epistemic Integrity](#epistemic-integrity), and [Transparency](#transparency).
+- Read with: [Constitutional Triad](core_00-01_principles.md#constitutional-triad) — **oversight** leg; [Accountability](core_05-05_definitions_b_semi_independent.md#accountability), [Contestability](core_05-05_definitions_b_semi_independent.md#contestability), [Epistemic Integrity](#epistemic-integrity), and [Transparency](#transparency).
 - Read with: owner-layer mechanics in [core_02-04_definition_mechanics.md](core_02-04_definition_mechanics.md) Chapters Two through Four.
 
 </details>
