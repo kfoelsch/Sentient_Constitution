@@ -389,7 +389,7 @@ Verification of evidence must satisfy each of the following, jointly and without
 Failure to satisfy any required definition or definition component invalidates all dependent compliance claims. Any constraints on evidence generation, disclosure, or verification must comply with **section 5** of this chapter (Security-Constrained Observability and Verification Rule). They must comply with **5.1** where cryptographic controls apply.
 
 #### 2.3 Scaling with impact, dependency, and risk
-This required standard scales with:
+This required standard scales with [material stake](core_00-01_principles.md#material-stake) as established in [Chapter 00](core_00-01_principles.md#constitutional-triad):
 - system impact
 - dependency
 - risk

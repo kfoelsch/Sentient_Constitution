@@ -401,6 +401,7 @@ Independent Definitions must not fragment, isolate, or redistribute compliance i
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
+- Upstream: Principles: [Constitutional Triad](core_00-01_principles.md#constitutional-triad) — [material stake](core_00-01_principles.md#material-stake) scaling.
 - Cluster component: [Chapter Five §3.23 *Material Impact, Materiality Determination, Classification-Scaled Governance, Oversight, and Capability Requirement*](core_05-05_definitions_b_semi_independent.md#materiality-semi-independent).
 - Read with: [Dependency](#dependency), [Material Impact](core_05-05_definitions_b_semi_independent.md#material-impact), [Risk](#risk), [System Boundary Integrity](core_05-05_definitions_b_semi_independent.md#system-boundary-integrity), and [Oversight](core_05-05_definitions_a_independent.md#oversight-constitutional).
 
@@ -408,7 +409,7 @@ Independent Definitions must not fragment, isolate, or redistribute compliance i
 
 <br>
 
-- O: Governance intensity, [oversight](core_05-05_definitions_a_independent.md#oversight-constitutional) depth, verification burden, and procedural rigor must scale with [material impact](core_05-05_definitions_b_semi_independent.md#material-impact), [dependency](#dependency), and [risk](#risk). Scaling follows system classification and implementation file criteria, including *[corpus_systems.md](corpus_systems.md)*, CS-4 — System classification and handling, and dependent provisions.
+- O: Governance intensity, [oversight](core_05-05_definitions_a_independent.md#oversight-constitutional) depth, verification burden, and procedural rigor must scale with [material stake](core_00-01_principles.md#material-stake) — [material impact](core_05-05_definitions_b_semi_independent.md#material-impact), [dependency](#dependency), and [risk](#risk). Scaling follows system classification and implementation file criteria, including *[corpus_systems.md](corpus_systems.md)*, CS-4 — System classification and handling, and dependent provisions.
 <a id="classification-scaled-governance-e"></a>
 - E: Apply the operative classification under implementation file rules together with [Materiality Determination](core_05-05_definitions_b_semi_independent.md#materiality-determination) and [System Boundary Integrity](core_05-05_definitions_b_semi_independent.md#system-boundary-integrity). Self-assigned or informal low classification is not sufficient where full functional effects warrant higher [Oversight](core_05-05_definitions_a_independent.md#oversight-constitutional) or governance.
 <a id="classification-scaled-governance-c"></a>
@@ -944,7 +945,7 @@ Independent Definitions must not fragment, isolate, or redistribute compliance i
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [7.2 Incentive Alignment and System Capture](core_00-01_principles.md#72-incentive-alignment-and-system-capture).
+- Downstream: Principles: [Constitutional Triad](core_00-01_principles.md#constitutional-triad) (oversight leg; [material stake](core_00-01_principles.md#material-stake) scaling); [7.2 Incentive Alignment and System Capture](core_00-01_principles.md#72-incentive-alignment-and-system-capture).
 - Cluster component: [Governance Architecture, Oversight, Dependency, Decentralization, Concentration, Market Structure, and Exit-Path Integrity](core_05-05_definitions_c_dependent_clusters.md#governance-architecture-oversight-decentralization-and-concentration-cluster).
 - Read with: [Chapter Five §3.23 *Material Impact, Materiality Determination, Classification-Scaled Governance, Oversight, and Capability Requirement*](core_05-05_definitions_b_semi_independent.md#materiality-semi-independent), [Accountability](core_05-05_definitions_b_semi_independent.md#accountability), [Contestability](core_05-05_definitions_b_semi_independent.md#contestability), [Transparency](core_05-05_definitions_c_dependent_clusters.md#transparency), [Auditability](core_05-05_definitions_c_dependent_clusters.md#auditability), and [System Capture](core_05-05_definitions_a_independent.md#system-capture).
 
