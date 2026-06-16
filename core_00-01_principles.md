@@ -1412,19 +1412,21 @@ Correction must follow **Chapter Four** tracing and **Chapter Five** proxy-relat
 
 ### 9. Systemic Evaluation Requirement
 
-Section 9 answers a different question than section 8. Section 8 tells decision-makers how to resolve conflicts among values, rights, and constraints. Section 9 tells them what an evaluation must include before a classification, governance decision, limitation, or compliance claim can be valid.
+*In plain terms: before anyone classifies a system, claims compliance, or locks in a governance decision, they must look at the whole picture — not only what happens here and now. That means tracing dependencies and delayed harm, checking whether every kind of sentient can really participate, making sure privacy, voluntary choice, assembly, and collective-organization questions are not split up to dodge review, and confirming that rewards and control structures will not quietly undermine the outcome the evaluation claims to protect. **§9.1–§9.2** carry that discipline.*
 
-This section has two reader-facing jobs:
-- [§9.1 Required Evaluation Factors](#91-required-evaluation-factors) sets the minimum scope of a valid evaluation: system boundaries, materiality, dependency, risk, access, privacy, agency, and collective-organization effects.
-- [§9.2 Incentive Alignment and System Capture](#92-incentive-alignment-and-system-capture) checks whether the incentives and control structures acting on the system will preserve or undermine the constitutional outcome the evaluation claims to protect.
+**Section 8** tells decision-makers **how** to resolve conflicts among values, rights, and constraints. **Section 9** tells them **what** an evaluation must include before a classification, governance decision, limitation, or compliance claim can stand.
 
-Read together, §§6–9 move from capacity and stewardship, to tradeoff procedure, to whole-system validation. A decision that looks acceptable under §8 can still fail §9 if the evaluation omits material system effects or leaves misaligned incentives and capture pathways unaddressed. Section 9 verifies that pursuit of the [Two Constitutional Aims](#two-constitutional-aims) — especially the **Continuity** aim — will remain valid under whole-system review, and that the [Constitutional Triad](#constitutional-triad) — scaled to [material stake](#material-stake) — will remain intact under the system's incentive and control structure, not only under its stated rationale.
+**How to read this section:**
+- **[§9.1 Required Evaluation Factors](#91-required-evaluation-factors)** — the minimum scope of a valid evaluation: system boundaries, materiality, dependency, risk, access, privacy, agency, and collective-organization effects.
+- **[§9.2 Incentive Alignment and System Capture](#92-incentive-alignment-and-system-capture)** — whether the incentives and control structures acting on the system will preserve or undermine the constitutional outcome the evaluation claims to protect.
+
+Read together, **§§6–9** move from capacity and stewardship, to tradeoff procedure, to whole-system validation. A decision that looks acceptable under **§8** can still fail **§9** if the evaluation omits material system effects or leaves misaligned incentives and capture pathways unaddressed. **§9** verifies that pursuit of the [Two Constitutional Aims](#two-constitutional-aims) — especially the **Continuity** aim — will remain valid under whole-system review, and that the [Constitutional Triad](#constitutional-triad) — scaled to [material stake](#material-stake) — will remain intact under the system's incentive and control structure, not only under its stated rationale.
 
 #### 9.1 Required Evaluation Factors
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Read with: [Constitutional Triad](#constitutional-triad) — evaluation must assess whether required **oversight**, **participation**, and **accountability** will scale with [material stake](#material-stake) (especially [§8.1.2 Accessibility Under Sentience Non-Exclusion](#912-accessibility-under-sentience-non-exclusion)).
+- Read with: [Constitutional Triad](#constitutional-triad) — evaluation must assess whether required **oversight**, **participation**, and **accountability** will scale with [material stake](#material-stake) (especially [§9.1.2 Accessibility Under Sentience Non-Exclusion](#912-accessibility-under-sentience-non-exclusion)).
 - Read with: [Two Constitutional Aims](#two-constitutional-aims) — **Continuity** aim (systemic scope, dependency, resilience, and ecological effects).
 - Upstream: Principles: [2. Purpose and Role](#2-purpose-and-role); [Two Constitutional Aims](#two-constitutional-aims) — **Continuity** aim; [3. Foundational Objective: Wellbeing](#3-foundational-objective-wellbeing), [§7 Stewardship and Distributed Understanding](#7-stewardship-and-distributed-understanding), and [8. Interaction and Conflict Resolution](#8-interaction-and-conflict-resolution).
 - Downstream: [9.2 Incentive Alignment and System Capture](#92-incentive-alignment-and-system-capture), [9. Freedom](#10-freedom-bounded-agency), [11. Prohibition on Absolute Override](#11-prohibition-on-absolute-override), and [12. Integrated Application](#12-integrated-application).
@@ -1451,38 +1453,44 @@ Read together, §§6–9 move from capacity and stewardship, to tradeoff procedu
 
 <br>
 
-*In plain terms: system evaluations must look beyond the immediate and local. They must cover cascading dependencies, scale effects, delayed and cumulative harms, adversarial misuse, existential risk, real accessibility across every kind of sentient, and privacy as a joint question across the Chapter Ten privacy loci.*
+*In plain terms: a valid evaluation must look beyond what is immediate and local — through the five factor groups below — and confirm that oversight, participation, and accountability will scale with how much is at stake.*
 
 No evaluation is complete if it considers only immediate or local effects. Evaluations that omit the factors below are invalid for system classification, governance, or decision-making under this Constitution. All binding applications of these principles must consider the following factors. Evaluations must also confirm that the [Constitutional Triad](#constitutional-triad) will meet [material stake](#material-stake) scaling for the system under review.
 
-For readability, the factors below perform three functions. Section 8.1.1 defines systemic scope and risk. Section 8.1.2 checks whether participation is real across sentient forms and ability profiles. Sections 7.1.3 through 7.1.5 prevent evaluation from being segmented in ways that evade privacy, voluntary agency, assembly, or collective-organization protections.
+**How to read the factors:** [§9.1.1](#911-systemic-scope-and-risk-factors) covers systemic scope and risk. [§9.1.2](#912-accessibility-under-sentience-non-exclusion) checks whether participation is real across sentient forms and ability profiles. [§§9.1.3–9.1.5](#913-privacy-informational-joint-invocation) prevent evaluation from being split into separate boxes in ways that evade privacy, voluntary agency, assembly, or collective-organization protections.
 
 ##### 9.1.1 Systemic Scope and Risk Factors
 
+*In plain terms: look past the immediate neighborhood. Ask what happens when effects chain through dependencies, pile up at scale, arrive late or add up over time, get attacked or gamed, or flirt with existential harm.*
+
 Evaluations must consider:
-- dependency relationships and cascading effects
-- aggregation and scale effects
-- delayed, cumulative, and probabilistic impacts
-- adversarial conditions and misuse potential
-- existential risks
+- **dependency relationships and cascading effects** — what fails downstream when something upstream breaks
+- **aggregation and scale effects** — what changes when many small actions combine
+- **delayed, cumulative, and probabilistic impacts** — harms that show up later, stack up, or depend on chance
+- **adversarial conditions and misuse potential** — how bad actors or predictable abuse could exploit the system
+- **existential risks** — outcomes that could threaten sentient survival or recovery at civilization scale
 
 ##### 9.1.2 Accessibility Under Sentience Non-Exclusion
 
+*In plain terms: accessibility on paper is not accessibility in practice. Every sentient form and ability profile must be able to actually participate — and the bar rises when the domain matters more or dependence runs deeper.*
+
 Evaluations must secure real participation for every sentient form and ability profile, not merely paper compliance.
 
-- *Scope of profiles.* Evaluations must address every relevant profile category: sensory, cognitive, mobility, and communication; substrate-interface (the being's connection to its physical or computational substrate); and compute-interface (interaction mediated by computational systems). The same requirement applies whether a profile is **constant** (persistent across life), **episodic** (intermittent—for example flare-ups or context-dependent impairment), or **developmental** (changing across life stages or maturation).
-- *Standard.* The test is **substantive participation effect**: whether the affected sentient can **actually** participate in the domain. **Formal-affordance compliance** is not enough—paper accommodations or nominal affordances that still leave the sentient unable to participate do not satisfy this factor.
+- *Scope of profiles.* Evaluations must address every relevant profile category: sensory, cognitive, mobility, and communication; **substrate-interface** (the being's connection to its physical or computational substrate); and **compute-interface** (interaction mediated by computational systems). The same requirement applies whether a profile is **constant** (persistent across life), **episodic** (intermittent — for example flare-ups or context-dependent impairment), or **developmental** (changing across life stages or maturation).
+- *Standard.* The test is **substantive participation effect**: whether the affected sentient can **actually** participate in the domain. **Formal-affordance compliance** is not enough — paper accommodations or nominal affordances that still leave the sentient unable to participate do not satisfy this factor.
 - *Scaling.* The floor for actual participation rises with the domain's [Materiality](core_05-05_definitions_b_semi_independent.md#materiality-determination) (how consequential the domain is) and with affected parties' [Dependency](core_05-05_definitions_a_independent.md#dependency) on the system (how reliant they are). Higher materiality or greater dependency demands a higher floor of actual participation.
-- *Anti-evasion.* Two patterns are refused: a **"general access" pattern**, i.e., claiming broad availability in the aggregate while the specific affected profile is in fact defeated; and **selective-Materiality scaling**, i.e., down-scaling the standard in a way whose effect is to defeat the participation floor.
+- *Anti-evasion.* Two patterns are refused: a **"general access" pattern** — claiming broad availability in the aggregate while the specific affected profile is in fact defeated; and **selective-Materiality scaling** — down-scaling the standard in a way whose effect is to defeat the participation floor.
 - *Rights-Floor owner.* [Article V-G](core_10-10_rights_part_b.md#article-v-g-accessibility). Education-specific accessibility remains governed by [Article III-B](core_10-10_rights_part_a.md#article-iii-b-equal-educational-access) and is **not** narrowed by this factor.
 - *Read with.* Chapter Five [Accessibility](core_05-05_definitions_a_independent.md#accessibility-constitutional), [Protected Characteristics](core_05-05_definitions_b_semi_independent.md#protected-characteristics-constitutional), and [Protected Characteristic Proxying and Disparate Impact](core_05-05_definitions_b_semi_independent.md#protected-characteristic-proxying-and-disparate-impact).
 
 ##### 9.1.3 Privacy (Informational) Joint Invocation
 
+*In plain terms: privacy rules are spread across several Chapter Ten articles. When a case touches more than one, you cannot handle it through one door and pretend the others do not apply — and you cannot use the loosest rule from one article to soften another.*
+
 A single privacy matter may materially implicate more than one of the distributed Chapter Ten privacy loci at the same time. When it does, evaluation must reach **every** such locus; closing the matter under one locus alone is not enough.
 
-- *Cluster loci.* The distributed privacy coverage lives across **Article VII-A** self-ownership; **Article VII-B** internal-state boundary and Type-N; **Article VIII** publication and reconstruction discipline; **Article IX-A** freedom-from-manipulation, treating privacy as a coercion-vector; and **Article XIII-A** covert-power limits.
-- *Joint-invocation rule.* Where the matter materially implicates more than one locus, evaluation must reach **each** such locus and may **not** segment the matter — i.e., route it through one locus in a way that lets the discipline of another locus be evaded.
+- *Cluster loci.* The distributed privacy coverage lives across **Article VII-A** (self-ownership); **Article VII-B** (internal-state boundary and Type-N); **Article VIII** (publication and reconstruction discipline); **Article IX-A** (freedom-from-manipulation, treating privacy as a coercion-vector); and **Article XIII-A** (covert-power limits).
+- *Joint-invocation rule.* Where the matter materially implicates more than one locus, evaluation must reach **each** such locus and may **not** segment the matter — that is, route it through one locus in a way that lets the discipline of another locus be evaded.
 - *Cluster-head home.* Chapter Five [§3.7 Privacy (Informational) — peer-level cluster head](core_05-05_definitions_c_dependent_clusters.md#privacy-informational-cluster). Umbrella definition: [Privacy (Informational)](core_05-05_definitions_c_dependent_clusters.md#privacy-informational).
 - *No relaxation by read-across.* Each cluster member's locally-stated standard controls within its own scope and may **not** be loosened by importing a laxer standard from another member ("read-across").
 - *Type-N floor preserved.* Where **Article VII-B** *Protected Internal-State Boundary* is materially implicated, **Type N** handling under *[corpus_systems.md](corpus_systems.md), CS-3* applies and is **not** narrowed by this factor.
@@ -1490,13 +1498,17 @@ A single privacy matter may materially implicate more than one of the distribute
 
 ##### 9.1.4 Voluntary Discontinuation and Exit Rights
 
+*In plain terms: life-changing or hard-to-reverse choices are not "voluntary" just because someone signed a form. Real agency, real consent, and freedom from coercion matter — especially when dependence or pressure is in play.*
+
 A high-stakes life-direction matter may not be treated as voluntary through formal assent where substantive agency, consent, or anti-coercion conditions fail.
 
-- *Admission scope.* This factor applies to voluntary discontinuation, irreversible or practically irreversible self-directed changes, dependency-rich decisions materially affecting continued existence or essential agency, and comparable decisions where voluntariness depends on jointly testing consent, self-determination, coercion/manipulation, information, dependency pressure, and reversibility.
+- *Admission scope.* This factor applies to voluntary discontinuation; irreversible or practically irreversible self-directed changes; dependency-rich decisions materially affecting continued existence or essential agency; and comparable decisions where voluntariness depends on jointly testing consent, self-determination, coercion/manipulation, information, dependency pressure, and reversibility.
 - *Definition home.* Chapter Five [Voluntary Discontinuation](core_05-05_definitions_a_independent.md#voluntary-discontinuation-constitutional) is an Independent Definition in §1.
 - *No ordinary-consent import.* Outside that admission scope, Chapter Five *Consent* (§2), *Self-Determination*, and *Coercion and Manipulation* (§2) remain reusable definitions and this factor does **not** import voluntary-discontinuation discipline into ordinary consent, privacy, association, publication, training-data, sexual-consent, or commercial-service contexts.
 
 ##### 9.1.5 Assembly, Collective Organization, and Institutional Formation
+
+*In plain terms: you cannot chop assembly, union-style organizing, platform access, or permission-to-operate questions into separate boxes in a way that keeps the paperwork friendly but defeats real collective action.*
 
 A matter within the cluster's admission scope must not be segmented into separate civic-association, labor-organization, platform-access, or authorization framings in a way that preserves formal access while defeating assembly or collective-organization protection.
 
@@ -1537,6 +1549,8 @@ Those structures must not systematically undermine those values and constraints.
 </details>
 
 <br>
+
+*In plain terms: paychecks, promotions, bonuses, and perks must not reward behavior that makes systems less safe, less truthful, less stable, or less meaningfully free — including rewards that arrive late or through a chain of indirect incentives.*
 
 Incentives must not reward behavior that degrades safety, truth, systemic stability, or meaningful agency, whether directly or through indirect, delayed, or aggregated effects.
 
@@ -1581,13 +1595,15 @@ Those incentives **must not** favor **raw throughput**, **utilization**, **headc
 - the Rights Floor in **Chapter Ten**
 - the underlying outcomes to which productive capacity must remain traceable (per **Chapter Five**)
 
-Equally, stewardship incentives must not reward the creation or maintenance of **avoidable burden** within the meaning of section 7.1.4.
+Equally, stewardship incentives must not reward the creation or maintenance of **avoidable burden** within the meaning of [§8.1.4 Minimization of Avoidable Burden](#814-minimization-of-avoidable-burden).
 
-Stewardship and operator incentives must not treat anti-constitutional advantage as productive capacity, constitutional efficiency, successful governance, loyalty, risk management, or institutional protection. Where a reward pathway materially benefited from anti-constitutional conduct, systems must preserve the record, suspend or segregate the disputed reward where proportionate, and route correction through section 7.2.4, Chapter Six standing and violation mechanics, Chapter Eight where final anti-constitutional misconduct classification is at issue, and Article XXIII safeguards where sanctions or restrictions are imposed.
+Stewardship and operator incentives must not treat anti-constitutional advantage as productive capacity, constitutional efficiency, successful governance, loyalty, risk management, or institutional protection. Where a reward pathway materially benefited from anti-constitutional conduct, systems must preserve the record, suspend or segregate the disputed reward where proportionate, and route correction through [§9.2.4 Misalignment Correction and Capture Response](#924-misalignment-correction-and-capture-response), Chapter Six standing and violation mechanics, Chapter Eight where final anti-constitutional misconduct classification is at issue, and Article XXIII safeguards where sanctions or restrictions are imposed.
 
 ##### 9.2.3 Role Depth and Material Responsibility Pathways
 
 <strong><span style="color: #2563eb;">Definition:</span></strong> [Meaningful Agency](core_05-05_definitions_b_semi_independent.md#meaningful-agency) · [O](core_05-05_definitions_a_independent.md#meaningful-agency-o) · [E](core_05-05_definitions_b_semi_independent.md#meaningful-agency-e) · [C](core_05-05_definitions_b_semi_independent.md#meaningful-agency-c)
+
+*In plain terms: sentients in consequential stewardship roles need real paths into work that matters — not vanity committees. Symbolic participation cannot stand in for actual responsibility where stakes require it.*
 
 **Authorized roles**, **competency development**, and **paths into material responsibility** for stewards and operators appear in **Chapter Eleven, section 6 — Authorized Roles, Competency Development, and Contribution**.
 
@@ -1642,7 +1658,7 @@ Concentrated or obscured control structures that undermine challenge rights, ove
 
 <br>
 
-These definitions divide the work. Contingent Claim, Game of Chance, and Event-Contract Market identify the kind of system at issue: a structure that pays, stakes, or settles value based on uncertain outcomes. Incentive Alignment, Necessity, and Proportionality ask whether that structure has a legitimate reason to exist and whether its risks are kept within justified limits. Capture of Resolution Pathways, Coercion and Manipulation, Contestability, Dependency, and Truth set the hard boundaries: payout rules, market prices, and odds cannot replace lawful process, freedom from coercion, meaningful challenge, or constitutional truth.
+These definitions divide the work. **Contingent Claim**, **Game of Chance**, and **Event-Contract Market** identify the kind of system at issue: a structure that pays, stakes, or settles value based on uncertain outcomes. **Incentive Alignment**, **Necessity**, and **Proportionality** ask whether that structure has a legitimate reason to exist and whether its risks are kept within justified limits. **Capture of Resolution Pathways**, **Coercion and Manipulation**, **Contestability**, **Dependency**, and **Truth** set the hard boundaries: payout rules, market prices, and odds cannot replace lawful process, freedom from coercion, meaningful challenge, or constitutional truth.
 
 *In plain terms: gambling and prediction-market–style systems may not be structured to reward unlawful harm, coercion, corruption, or capture of the **participants** and **processes** that decide outcomes. Their prices and odds are not, by themselves, evidence strong enough to settle questions of truth, rights, or compliance.*
 
@@ -1650,9 +1666,9 @@ These definitions divide the work. Contingent Claim, Game of Chance, and Event-C
 
 **Outcome-resolution sources.** In this subsection, **outcome-resolution sources** are the actors, processes, data feeds, or authorities that determine whether and how contingent claims settle. Examples include official results, certified measurements, designated committees, and documented third-party feeds.
 
-**Prohibited incentive pathways.** Consistent with sections 7.2.1–7.2.4, incentive structures for such systems must not:
+**Prohibited incentive pathways.** Consistent with [§9.2.1](#921-alignment-requirement) through [§9.2.4](#924-misalignment-correction-and-capture-response), incentive structures for such systems must not:
 
-- lawfully reward or normalize unlawful harm;
+- reward or normalize unlawful harm;
 - reward coercion of decisions protected under this Constitution;
 - reward corrupt use of office or non-public power to influence outcomes or resolution, including through intermediaries or disguised contracts;
 - structurally invite material distortion of fiduciary, public, or rights-relevant decisions through timed pressure, selective disclosure, capture of resolution pathways, or insider advantage, without proportionate mitigation.
@@ -1664,7 +1680,7 @@ These definitions divide the work. Contingent Claim, Game of Chance, and Event-C
 - apply Necessity and Proportionality to permitted underlying events;
 - govern resolution procedures and outcome-resolution sources — including independence, multi-source rules where feasible, and contestable dispute pathways;
 - set concentration, leverage, and exposure limits appropriate to vulnerability, dependency, and systemic stability;
-- evaluate misuse consistent with section 7.1, including coordination to affect resolving events and scale dynamics.
+- evaluate misuse consistent with [§9.1 Required Evaluation Factors](#91-required-evaluation-factors), including coordination to affect resolving events and scale dynamics.
 
 **Implementation custody.** Licensing thresholds, criminal offenses, tax treatment, and cross-border enforcement rules for gambling and contingent settlement need not appear in this chapter. They remain matters for adopting law and designated incorporated instruments. That includes:
 
