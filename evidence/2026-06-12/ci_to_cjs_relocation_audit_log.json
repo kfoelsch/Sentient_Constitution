@@ -65,7 +65,7 @@
         "file": "corpus_joint_structure/cjs_03_joint_structural_obligations.md",
         "line": 163,
         "heading": "CJS-3.5 Classification alignment for supervised scope",
-        "summary": "When an institution supervises systems governed by `corpus_systems.md` **Chapter S2** or **Chapter S3**, its published maps under **CI-9...."
+        "summary": "When an institution supervises systems governed by `corpus_systems.md` **CS-4** or **CS-5**, its published maps under **CI-9...."
       }
     ],
     "keep_notes": [
@@ -171,7 +171,7 @@
       "rotation",
       "removal"
     ],
-    "summary": "Where institutional governed scope includes **Class A** or **Class B** systems (`corpus_systems.md` **Chapter S2**), institutions must maintain **contest-integrity** capacity as part of the **independent assurance line**, or through an equivalent documented..."
+    "summary": "Where institutional governed scope includes **Class A** or **Class B** systems (`corpus_systems.md` **CS-4**), institutions must maintain **contest-integrity** capacity as part of the **independent assurance line**, or through an equivalent documented..."
   },
   {
     "file": "corpus_institutions/ci_17_scientific_publication_peer_review_replication_evidence_stewardship.md",
@@ -630,7 +630,7 @@
     ],
     "similar_cjs": [],
     "keep_notes": [],
-    "summary": "Institutions with regulated or supervised scope must publish how major industries and regulatory domains under their authority are located against `corpus_systems.md` **Chapter S2** classes and **Chapter S3** stewardship tiers. That published map should use..."
+    "summary": "Institutions with regulated or supervised scope must publish how major industries and regulatory domains under their authority are located against `corpus_systems.md` **CS-4** classes and **CS-5** stewardship tiers. That published map should use..."
   },
   {
     "file": "corpus_institutions/ci_07_oversight_assurance_controls_evidence.md",

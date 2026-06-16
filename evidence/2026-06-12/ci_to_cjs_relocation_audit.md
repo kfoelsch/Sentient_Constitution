@@ -45,7 +45,7 @@ Summary: **Constitutional index (abridged)** - Topic-level routing and cited aut
 Summary: **Purpose.** This subsection applies the shared delegated-body abstractions in `corpus_joint_structure.md` **CJS-4.1** (*Mandatory hybrid authority composition (delegated binding bodies)*) and **CJS-4.7** (*Shared procedural abstractions for delegated bodie...
 
 Near CJS matches:
-- 0.36: `corpus_joint_structure/cjs_03_joint_structural_obligations.md:163` (CJS-3.5 Classification alignment for supervised scope) — When an institution supervises systems governed by `corpus_systems.md` **Chapter S2** or **Chapter S3**, its published maps under **CI-9....
+- 0.36: `corpus_joint_structure/cjs_03_joint_structural_obligations.md:163` (CJS-3.5 Classification alignment for supervised scope) — When an institution supervises systems governed by `corpus_systems.md` **CS-4** or **CS-5**, its published maps under **CI-9....
 
 ### 3. CI-1: Scope, purpose, and legitimacy interface
 
@@ -81,7 +81,7 @@ Summary: **Purpose and owner boundary.** This section governs institutional hand
 - Router matches: CJS-R19 — Implementation and cross-implementation integrity assurance and resilience operations; CJS-R17 — Cross-implementation trust integrity (joint operation model); CJS-R15 — Contest-integrity monitoring (pathway integrity, not merits)
 - Keep-in-CI cautions: appointment, rotation, removal
 
-Summary: Where institutional governed scope includes **Class A** or **Class B** systems (`corpus_systems.md` **Chapter S2**), institutions must maintain **contest-integrity** capacity as part of the **independent assurance line**, or through an equivalent documented...
+Summary: Where institutional governed scope includes **Class A** or **Class B** systems (`corpus_systems.md` **CS-4**), institutions must maintain **contest-integrity** capacity as part of the **independent assurance line**, or through an equivalent documented...
 
 ### 6. CI-17: Scientific publication, peer review, replication, and evidence stewardship
 
@@ -247,7 +247,7 @@ Summary: **Purpose.** This section records **institutional and system design exp
 - Signals: multi-owner-routing(2), shared-procedure(1), dependency-failure(1), forum-system-touch(8)
 - Router matches: CJS-R19 — Implementation and cross-implementation integrity assurance and resilience operations; CJS-R17 — Cross-implementation trust integrity (joint operation model); CJS-R15 — Contest-integrity monitoring (pathway integrity, not merits)
 
-Summary: Institutions with regulated or supervised scope must publish how major industries and regulatory domains under their authority are located against `corpus_systems.md` **Chapter S2** classes and **Chapter S3** stewardship tiers. That published map should use...
+Summary: Institutions with regulated or supervised scope must publish how major industries and regulatory domains under their authority are located against `corpus_systems.md` **CS-4** classes and **CS-5** stewardship tiers. That published map should use...
 
 ### 20. CI-7: Oversight, assurance, controls, and evidence
 
