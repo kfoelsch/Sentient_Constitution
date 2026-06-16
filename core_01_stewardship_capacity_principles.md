@@ -269,11 +269,13 @@ Governance is **necessary** but **not sufficient**. It must remain subordinate t
 
 *In plain terms: governance that keeps hitting quarterly targets while hollowing safety, truth, participation, or the future is not "working governance" — it is a defect this Constitution names and corrects.*
 
-A **short-horizon governance defect** ([Short-Horizon Governance Defect](core_05-05_definitions_b_semi_independent.md#short-horizon-governance-defect-constitutional)) is a material pattern that optimizes immediate output, convenience, institutional self-protection, or transient stability at the foreseeable expense of medium- or long-horizon constitutional alignment.
-
-Systems must detect, disclose, and correct such defects through **Review and Correction Duty**, contestable oversight, and the incentive and capture discipline in **§§7.3–7.7**.
+Systems must detect, disclose, and correct **[Short-Horizon Governance Defect](core_05-05_definitions_b_semi_independent.md#short-horizon-governance-defect-constitutional)** through **Review and Correction Duty**, contestable oversight, and the incentive and capture discipline in **§§7.3–7.6**.
 
 <a id="72-short-horizon-governance-defect"></a>
+
+#### 7.3 Incentive Alignment and System Capture
+
+<a id="73-incentive-alignment-and-system-capture"></a>
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
@@ -284,16 +286,6 @@ Systems must detect, disclose, and correct such defects through **Review and Cor
 - Downstream: Targets the rights surface for agency, participation, incentive alignment, info-sphere integrity, standing, and anti-capture review across [Chapter Ten: Foundational Rights](core_10-10_rights_part_a.md#chapter-ten-foundational-rights); especially [Article IX: Self-Determination and Agency](core_10-10_rights_part_b.md#article-ix-self-determination-and-agency), [Article XI: Stakeholder System Participation, Representation, and Due Process](core_10-10_rights_part_b.md#article-xi-stakeholder-system-participation-representation-and-due-process), [Article XII-D: Incentive-Alignment Constraint](core_10-10_rights_part_c.md#article-xii-d-incentive-alignment-constraint), [Article XIV: Info-Sphere Integrity](core_10-10_rights_part_c.md#article-xiv-info-sphere-integrity), [Article XVIII: Standing and Participation Status](core_10-10_rights_part_c.md#article-xviii-standing-and-participation-status), and [Article XXII: Constitutional Interpretation, Review, and Anti-Capture Safeguards](core_10-10_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards).
 
 </details>
-
-<strong><span style="color: #2563eb;">Definition:</span></strong> [Incentive Alignment](core_05-05_definitions_a_independent.md#incentive-alignment) · [O](core_05-05_definitions_a_independent.md#incentive-alignment) · [E](core_05-05_definitions_a_independent.md#incentive-alignment) · [C](core_05-05_definitions_a_independent.md#incentive-alignment)
-
-*In plain terms: the incentives acting on operators, agents, and system components must pull in the same direction as this Constitution. They may not quietly reward behavior that undermines Safety, Truth, rights, or stability — whether directly, through delay, through aggregation, or by rewarding anti-constitutional conduct after the fact.*
-
-Systems must ensure that incentive structures acting on agents, operators, or constituent components are aligned with the values and constraints defined in this Constitution.
-
-Those structures must not systematically undermine those values and constraints. They must not capture, hollow, or misalign the [Constitutional Triad](core_00_preamble.md#constitutional-triad) below what [material stake](core_00_preamble.md#material-stake) requires.
-
-#### 7.3 Alignment Requirement
 
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
@@ -307,13 +299,94 @@ Those structures must not systematically undermine those values and constraints.
 
 <br>
 
-*In plain terms: paychecks, promotions, bonuses, and perks must not reward behavior that makes systems less safe, less truthful, less stable, or less meaningfully free — including rewards that arrive late or through a chain of indirect incentives.*
+*In plain terms: incentives acting on operators, agents, and system components — including compensation, promotion, equity, and comparable reward pathways — must pull toward constitutional outcomes. They may not quietly reward behavior that undermines Safety, Truth, rights, stability, or meaningful agency, whether directly, through delay, through aggregation, or through arrangements that materially depend on misconduct or its concealment.*
+
+Systems must ensure that incentive structures acting on agents, operators, or constituent components are aligned with the values and constraints defined in this Constitution.
+
+Those structures must not systematically undermine those values and constraints. They must not capture, hollow, or misalign the [Constitutional Triad](core_00_preamble.md#constitutional-triad) below what [material stake](core_00_preamble.md#material-stake) requires.
+
+[§7.3.2](#732-contingent-claims-games-of-chance-and-event-contract-markets) states a **special application** for contingent claims, games of chance, and event-contract markets.
+
+<a id="731-alignment-requirement"></a>
+##### 7.3.1 Alignment Requirement
+
+<a id="73-alignment-requirement"></a>
 
 Incentives must not reward behavior that degrades safety, truth, systemic stability, or meaningful agency, whether directly or through indirect, delayed, or aggregated effects.
 
 Incentives must not reward, protect, normalize, or make materially advantageous anti-constitutional conduct, unlawful or unconstitutional command conduct, concealment, retaliation, obstruction of accountability, or refusal to remediate verified constitutional harm. This includes compensation, bonus, equity, appointment, promotion, tenure, procurement, access, credentialing, standing, reputation, settlement, indemnity, insurance, immunity, or comparable arrangements where the reward pathway materially depends on the misconduct or its concealment.
 
+<a id="732-contingent-claims-games-of-chance-and-event-contract-markets"></a>
+##### 7.3.2 Contingent claims, games of chance, and event-contract markets
+
+<a id="77-contingent-claims-games-of-chance-and-event-contract-markets"></a>
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Upstream: [§7.3 Incentive Alignment and System Capture](#73-incentive-alignment-and-system-capture) (including [§7.3.1 Alignment Requirement](#73-alignment-requirement)); [Chapter Five §3.13 *Contingent Claim, Event-Contract Market, and Game of Chance*](core_05-05_definitions_a_independent.md#contingent-claim).
+- Downstream: [§7.6 Misalignment Correction and Capture Response](#76-misalignment-correction-and-capture-response); [§9.2 Epistemic Disclosure Constraints](#92-epistemic-disclosure-constraints); [§10.1 Required Evaluation Factors](#101-required-evaluation-factors); `corpus_systems.md` classification and stewardship scaling; `corpus_institutions.md` conflict and integrity expectations.
+- Read with: [Capture of Resolution Pathways](core_05-05_definitions_b_semi_independent.md#capture-of-resolution-pathways), [Coercion and Manipulation](core_05-05_definitions_b_semi_independent.md#coercion-and-manipulation-constitutional), and [Contestability](core_05-05_definitions_b_semi_independent.md#contestability).
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
+
+- [Capture of Resolution Pathways](core_05-05_definitions_b_semi_independent.md#capture-of-resolution-pathways) · [O](core_05-05_definitions_b_semi_independent.md#capture-of-resolution-pathways) · [E](core_05-05_definitions_b_semi_independent.md#capture-of-resolution-pathways-e) · [C](core_05-05_definitions_b_semi_independent.md#capture-of-resolution-pathways-c)
+- [Coercion and Manipulation](core_05-05_definitions_b_semi_independent.md#coercion-and-manipulation-constitutional) · [O](core_05-05_definitions_b_semi_independent.md#coercion-and-manipulation-constitutional) · [E](core_05-05_definitions_b_semi_independent.md#coercion-and-manipulation-constitutional-e) · [C](core_05-05_definitions_b_semi_independent.md#coercion-and-manipulation-constitutional-c)
+- [Contestability](core_05-05_definitions_b_semi_independent.md#contestability) · [O](core_05-05_definitions_b_semi_independent.md#contestability) · [E](core_05-05_definitions_b_semi_independent.md#contestability-e) · [C](core_05-05_definitions_b_semi_independent.md#contestability-c)
+- [Contingent Claim](core_05-05_definitions_a_independent.md#contingent-claim) · [O](core_05-05_definitions_a_independent.md#contingent-claim) · [E](core_05-05_definitions_a_independent.md#contingent-claim-e) · [C](core_05-05_definitions_a_independent.md#contingent-claim-c)
+- [Dependency](core_05-05_definitions_a_independent.md#dependency) · [O](core_05-05_definitions_a_independent.md#dependency) · [E](core_05-05_definitions_a_independent.md#dependency-e) · [C](core_05-05_definitions_a_independent.md#dependency-c)
+- [Event-Contract Market](core_05-05_definitions_a_independent.md#event-contract-market) · [O](core_05-05_definitions_a_independent.md#event-contract-market) · [E](core_05-05_definitions_a_independent.md#event-contract-market-e) · [C](core_05-05_definitions_a_independent.md#event-contract-market-c)
+- [Game of Chance](core_05-05_definitions_a_independent.md#game-of-chance) · [O](core_05-05_definitions_a_independent.md#game-of-chance) · [E](core_05-05_definitions_a_independent.md#game-of-chance-e) · [C](core_05-05_definitions_a_independent.md#game-of-chance-c)
+- [Incentive Alignment](core_05-05_definitions_a_independent.md#incentive-alignment) · [O](core_05-05_definitions_a_independent.md#incentive-alignment) · [E](core_05-05_definitions_a_independent.md#incentive-alignment) · [C](core_05-05_definitions_a_independent.md#incentive-alignment)
+- [Necessity](core_05-05_definitions_a_independent.md#necessity) · [O](core_05-05_definitions_a_independent.md#necessity) · [E](core_05-05_definitions_a_independent.md#necessity-e) · [C](core_05-05_definitions_a_independent.md#necessity-c)
+- [Proportionality](core_05-05_definitions_a_independent.md#proportionality) · [O](core_05-05_definitions_a_independent.md#proportionality) · [E](core_05-05_definitions_a_independent.md#proportionality-e) · [C](core_05-05_definitions_a_independent.md#proportionality-c)
+- [Truth (Constitutional Constraint)](core_05-05_definitions_c_dependent_clusters.md#truth-constitutional-constraint) · [O](core_05-05_definitions_c_dependent_clusters.md#truth-constitutional-constraint-o) · [E](core_05-05_definitions_c_dependent_clusters.md#truth-constitutional-constraint-e) · [C](core_05-05_definitions_c_dependent_clusters.md#truth-constitutional-constraint-c)
+
+</details>
+
+<br>
+
+*In plain terms: betting pools, casinos, prediction markets, and similar payout systems cannot be built to profit from unlawful harm, coercion, corruption, or capture of whoever decides the outcome. Odds and prices are market signals — not proof of what is true, what rights require, or what counts as compliance.*
+
+**Contingent settlement systems** apply [Incentive Alignment](core_05-05_definitions_a_independent.md#incentive-alignment) from **§7.3** wherever value is staked or paid on uncertain future outcomes. [Contingent Claim](core_05-05_definitions_a_independent.md#contingent-claim), [Game of Chance](core_05-05_definitions_a_independent.md#game-of-chance), and [Event-Contract Market](core_05-05_definitions_a_independent.md#event-contract-market) name the main forms in **Chapter Five**. This subsection is a **special application** of the general alignment rules in **§7.3.1** through **§7.6**; it does not replace them.
+
+**Scope.** In scope are systems — whatever their technical form — that match counterparties, pool stakes, settle contingent payments, or concentrate financial upside on uncertain future outcomes.
+
+**What may not be rewarded.** Consistent with [§7.3.1](#73-alignment-requirement) through [§7.6](#76-misalignment-correction-and-capture-response), incentive structures for such systems must not:
+
+- reward or normalize unlawful harm;
+- reward coercion of decisions protected under this Constitution;
+- reward corrupt use of office or non-public power to influence outcomes or resolution, including through intermediaries or disguised contracts;
+- structurally invite material distortion of fiduciary, public, or rights-relevant decisions through timed pressure, selective disclosure, [Capture of Resolution Pathways](core_05-05_definitions_b_semi_independent.md#capture-of-resolution-pathways), or insider advantage, without proportionate mitigation.
+
+**Who decides outcomes.** **Outcome-resolution sources** are the actors, processes, data feeds, or authorities that determine whether and how contingent claims settle — for example official results, certified measurements, designated committees, and documented third-party feeds. Authorization, design, and operation must keep those sources independent, contestable, and resistant to capture where materially relevant.
+
+**Market signals are not constitutional proof.** Prices, odds, pool sizes, and analogous aggregated signals from these systems are not, without more, sufficient evidence to decide [Truth (Constitutional Constraint)](core_05-05_definitions_c_dependent_clusters.md#truth-constitutional-constraint), objective probability, or compliance for rights, safety, or governance determinations. Where adopting instruments reference such signals, those uses must satisfy the same Truth, [Contestability](core_05-05_definitions_b_semi_independent.md#contestability), and evidence expectations that apply to comparable high-impact decisions elsewhere in this Constitution.
+
+**Proportionate controls.** Authorization, design, and operation must:
+
+- apply [Necessity](core_05-05_definitions_a_independent.md#necessity) and [Proportionality](core_05-05_definitions_a_independent.md#proportionality) to permitted underlying events;
+- govern resolution procedures and outcome-resolution sources — including independence, multi-source rules where feasible, and contestable dispute pathways;
+- set concentration, leverage, and exposure limits appropriate to [Dependency](core_05-05_definitions_a_independent.md#dependency), vulnerability, and systemic stability;
+- evaluate misuse consistent with [§10.1 Required Evaluation Factors](#101-required-evaluation-factors), including coordination to affect resolving events and scale dynamics.
+
+**Implementation custody.** Licensing thresholds, criminal offenses, tax treatment, and cross-border enforcement rules for gambling and contingent settlement need not appear in this chapter. They remain matters for adopting law and designated incorporated instruments, including `corpus_systems.md` classification and stewardship scaling for materially impactful systems and `corpus_institutions.md` conflict and procedure expectations where institutions supervise or constitutionally govern such activity.
+
 #### 7.4 Stewardship and Operator Incentive Alignment
+
+<a id="74-stewardship-and-operator-incentive-alignment"></a>
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Upstream: [§7.3 Incentive Alignment and System Capture](#73-incentive-alignment-and-system-capture) (including [§7.3.1 Alignment Requirement](#73-alignment-requirement)); [§6 Stewardship and Distributed Understanding](#6-stewardship-and-distributed-understanding).
+- Downstream: [§7.6 Misalignment Correction and Capture Response](#76-misalignment-correction-and-capture-response); [§9.1.4 Minimization of Avoidable Burden](#914-minimization-of-avoidable-burden); [§10.1 Required Evaluation Factors](#101-required-evaluation-factors).
+- Read with: [Productive Capacity](core_05-05_definitions_b_semi_independent.md#productive-capacity-constitutional), [Constitutional Efficiency](core_05-05_definitions_b_semi_independent.md#constitutional-efficiency), [Avoidable Burden](core_05-05_definitions_b_semi_independent.md#avoidable-burden), and [Proxy Divergence](core_05-05_definitions_b_semi_independent.md#proxy-divergence) in **Chapter Five**.
+
+</details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
@@ -332,29 +405,17 @@ Incentives must not reward, protect, normalize, or make materially advantageous 
 
 <br>
 
-**How to read the index:** Start with **Incentive Alignment**: rewards and penalties must point toward this Constitution's goals. **Productive Capacity**, **Constitutional Efficiency**, and **Avoidable Burden** explain what stewards may be rewarded for: building real capacity and saving time, effort, and resources without shifting needless burden onto others. **Proxy Divergence** and **Auditability** ask whether the metric proves the result, or only looks good on paper. **Safety**, **Truth**, and **System Capture** set the hard stop: no incentive is valid if it rewards harm, falsehood, or captured decision-making, even when the numbers look efficient.
+*In plain terms: the people who run shared systems should be paid and promoted for making things actually safer, truer, more auditable, and more capable over time — not for shipping more volume, hitting utilization targets, or gaming dashboards while constitutional harm piles up.*
 
-*In plain terms: stewards and operators should be rewarded for measurable constitutional outcomes — safety, truth, auditability, fixing problems, resisting capture, and durably expanding productive capacity — not for raw volume, utilization, headcount, or narrow financial targets that predictably erode those outcomes or manufacture avoidable burden.*
+**Stewardship and operator incentive alignment** applies [Incentive Alignment](core_05-05_definitions_a_independent.md#incentive-alignment) from **§7.3** to stewards and operators. **Productive Capacity** and **Constitutional Efficiency** name what rewards may legitimately track: real, durable capacity and outcome-per-resource improvement. **Avoidable Burden** and **Proxy Divergence** guard against rewarding busywork or metrics that no longer prove outcomes. **Auditability**, **Safety**, **Truth**, and **System Capture** set the floor: no reward is valid if it pays for harm, falsehood, captured decision-making, or numbers that look efficient while constitutional outcomes erode.
 
-**Stewardship and operator incentives** must favor **measurable** constitutional outcomes. Those outcomes include:
-- **safety**
-- **Truth**
-- **auditability**
-- **timely remediation**
-- **anti-capture** conduct
-- **preservation and durable expansion of productive capacity** consistent with
-  - the constraints in this chapter
-  - the Rights Floor in **Chapter Ten**
-  - **Chapter Five** (*Productive Capacity*; *Constitutional Efficiency*; *Avoidable Burden*; *Proxy Divergence*).
+**Reward constitutional outcomes.** Stewardship and operator incentives must favor measurable constitutional outcomes, including safety, Truth, auditability, timely remediation, anti-capture conduct, and preservation and durable expansion of [Productive Capacity](core_05-05_definitions_b_semi_independent.md#productive-capacity-constitutional) — each consistent with this chapter, the Rights Floor in **Chapter Ten**, and the outcome-traceability requirements in **Chapter Five** (*Productive Capacity*; *Constitutional Efficiency*; *Avoidable Burden*; *Proxy Divergence*).
 
-Those incentives **must not** favor **raw throughput**, **utilization**, **headcount targets**, or **narrow** financial **targets** where those **targets** predictably **conflict** with:
-- the constraints in this chapter
-- the Rights Floor in **Chapter Ten**
-- the underlying outcomes to which productive capacity must remain traceable (per **Chapter Five**)
+**Do not reward the wrong metrics.** Those incentives must not favor raw throughput, utilization, headcount targets, or narrow financial targets where those targets predictably conflict with this chapter, the Rights Floor in **Chapter Ten**, or the underlying outcomes to which productive capacity must remain traceable under **Chapter Five**.
 
-Equally, stewardship incentives must not reward the creation or maintenance of **avoidable burden** within the meaning of [§9.1.4 Minimization of Avoidable Burden](#914-minimization-of-avoidable-burden).
+**Avoidable burden.** Stewardship incentives must not reward the creation or maintenance of [Avoidable Burden](core_05-05_definitions_b_semi_independent.md#avoidable-burden) within the meaning of [§9.1.4 Minimization of Avoidable Burden](#914-minimization-of-avoidable-burden).
 
-Stewardship and operator incentives must not treat anti-constitutional advantage as productive capacity, constitutional efficiency, successful governance, loyalty, risk management, or institutional protection. Where a reward pathway materially benefited from anti-constitutional conduct, systems must preserve the record, suspend or segregate the disputed reward where proportionate, and route correction through [§7.6 Misalignment Correction and Capture Response](#76-misalignment-correction-and-capture-response), Chapter Six standing and violation mechanics, Chapter Eight where final anti-constitutional misconduct classification is at issue, and Article XXIII safeguards where sanctions or restrictions are imposed.
+**Misconduct-linked rewards.** Stewardship and operator incentives must not treat anti-constitutional advantage as productive capacity, constitutional efficiency, successful governance, loyalty, risk management, or institutional protection. Where a reward pathway materially benefited from anti-constitutional conduct, systems must preserve the record, suspend or segregate the disputed reward where proportionate, and route correction through [§7.6 Misalignment Correction and Capture Response](#76-misalignment-correction-and-capture-response), Chapter Six standing and violation mechanics, Chapter Eight where final anti-constitutional misconduct classification is at issue, and Article XXIII safeguards where sanctions or restrictions are imposed.
 
 #### 7.5 Role Depth and Material Responsibility Pathways
 
@@ -393,56 +454,6 @@ Where constitutional misalignment is identified, systems must modify, constrain,
 Systems must detect, disclose, and mitigate materially relevant system-capture conditions.
 
 Concentrated or obscured control structures that undermine challenge rights, oversight, or accountability are incompatible with this chapter. They must be treated as escalation conditions under **Chapters Two through Five**.
-
-#### 7.7 Contingent claims, games of chance, and event-contract markets
-
-<details>
-<summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
-
-- [Capture of Resolution Pathways](core_05-05_definitions_b_semi_independent.md#capture-of-resolution-pathways) · [O](core_05-05_definitions_b_semi_independent.md#capture-of-resolution-pathways) · [E](core_05-05_definitions_b_semi_independent.md#capture-of-resolution-pathways-e) · [C](core_05-05_definitions_b_semi_independent.md#capture-of-resolution-pathways-c)
-- [Coercion and Manipulation](core_05-05_definitions_b_semi_independent.md#coercion-and-manipulation-constitutional) · [O](core_05-05_definitions_b_semi_independent.md#coercion-and-manipulation-constitutional) · [E](core_05-05_definitions_b_semi_independent.md#coercion-and-manipulation-constitutional-e) · [C](core_05-05_definitions_b_semi_independent.md#coercion-and-manipulation-constitutional-c)
-- [Contestability](core_05-05_definitions_b_semi_independent.md#contestability) · [O](core_05-05_definitions_b_semi_independent.md#contestability) · [E](core_05-05_definitions_b_semi_independent.md#contestability-e) · [C](core_05-05_definitions_b_semi_independent.md#contestability-c)
-- [Contingent Claim](core_05-05_definitions_a_independent.md#contingent-claim) · [O](core_05-05_definitions_a_independent.md#contingent-claim) · [E](core_05-05_definitions_a_independent.md#contingent-claim-e) · [C](core_05-05_definitions_a_independent.md#contingent-claim-c)
-- [Dependency](core_05-05_definitions_a_independent.md#dependency) · [O](core_05-05_definitions_a_independent.md#dependency) · [E](core_05-05_definitions_a_independent.md#dependency-e) · [C](core_05-05_definitions_a_independent.md#dependency-c)
-- [Event-Contract Market](core_05-05_definitions_a_independent.md#event-contract-market) · [O](core_05-05_definitions_a_independent.md#event-contract-market) · [E](core_05-05_definitions_a_independent.md#event-contract-market-e) · [C](core_05-05_definitions_a_independent.md#event-contract-market-c)
-- [Game of Chance](core_05-05_definitions_a_independent.md#game-of-chance) · [O](core_05-05_definitions_a_independent.md#game-of-chance) · [E](core_05-05_definitions_a_independent.md#game-of-chance-e) · [C](core_05-05_definitions_a_independent.md#game-of-chance-c)
-- [Incentive Alignment](core_05-05_definitions_a_independent.md#incentive-alignment) · [O](core_05-05_definitions_a_independent.md#incentive-alignment) · [E](core_05-05_definitions_a_independent.md#incentive-alignment) · [C](core_05-05_definitions_a_independent.md#incentive-alignment)
-- [Necessity](core_05-05_definitions_a_independent.md#necessity) · [O](core_05-05_definitions_a_independent.md#necessity) · [E](core_05-05_definitions_a_independent.md#necessity-e) · [C](core_05-05_definitions_a_independent.md#necessity-c)
-- [Proportionality](core_05-05_definitions_a_independent.md#proportionality) · [O](core_05-05_definitions_a_independent.md#proportionality) · [E](core_05-05_definitions_a_independent.md#proportionality-e) · [C](core_05-05_definitions_a_independent.md#proportionality-c)
-- [Truth (Constitutional Constraint)](core_05-05_definitions_c_dependent_clusters.md#truth-constitutional-constraint) · [O](core_05-05_definitions_c_dependent_clusters.md#truth-constitutional-constraint-o) · [E](core_05-05_definitions_c_dependent_clusters.md#truth-constitutional-constraint-e) · [C](core_05-05_definitions_c_dependent_clusters.md#truth-constitutional-constraint-c)
-
-</details>
-
-<br>
-
-These definitions divide the work. **Contingent Claim**, **Game of Chance**, and **Event-Contract Market** identify the kind of system at issue: a structure that pays, stakes, or settles value based on uncertain outcomes. **Incentive Alignment**, **Necessity**, and **Proportionality** ask whether that structure has a legitimate reason to exist and whether its risks are kept within justified limits. **Capture of Resolution Pathways**, **Coercion and Manipulation**, **Contestability**, **Dependency**, and **Truth** set the hard boundaries: payout rules, market prices, and odds cannot replace lawful process, freedom from coercion, meaningful challenge, or constitutional truth.
-
-*In plain terms: gambling and prediction-market–style systems may not be structured to reward unlawful harm, coercion, corruption, or capture of the **participants** and **processes** that decide outcomes. Their prices and odds are not, by themselves, evidence strong enough to settle questions of truth, rights, or compliance.*
-
-**Scope.** This subsection addresses systems — whatever their technical substrate — that match counterparties, pool stakes, settle contingent payments, or otherwise concentrate financial upside on uncertain future outcomes. Games of chance and prediction-style event markets are in scope.
-
-**Outcome-resolution sources.** In this subsection, **outcome-resolution sources** are the actors, processes, data feeds, or authorities that determine whether and how contingent claims settle. Examples include official results, certified measurements, designated committees, and documented third-party feeds.
-
-**Prohibited incentive pathways.** Consistent with [§7.3](#73-alignment-requirement) through [§7.6](#76-misalignment-correction-and-capture-response), incentive structures for such systems must not:
-
-- reward or normalize unlawful harm;
-- reward coercion of decisions protected under this Constitution;
-- reward corrupt use of office or non-public power to influence outcomes or resolution, including through intermediaries or disguised contracts;
-- structurally invite material distortion of fiduciary, public, or rights-relevant decisions through timed pressure, selective disclosure, capture of resolution pathways, or insider advantage, without proportionate mitigation.
-
-**Epistemic status.** Prices, odds, pool sizes, and analogous aggregated signals from these systems are not, without more, sufficient evidence to decide truth, objective probability, or compliance for rights, safety, or governance determinations. Where adopting instruments reference such signals, those uses must satisfy the same Truth, contestability, and evidence expectations that apply to comparable high-impact decisions elsewhere in this Constitution.
-
-**Proportionate controls.** Authorization, design, and operation must:
-
-- apply Necessity and Proportionality to permitted underlying events;
-- govern resolution procedures and outcome-resolution sources — including independence, multi-source rules where feasible, and contestable dispute pathways;
-- set concentration, leverage, and exposure limits appropriate to vulnerability, dependency, and systemic stability;
-- evaluate misuse consistent with [10.1 Required Evaluation Factors](#101-required-evaluation-factors), including coordination to affect resolving events and scale dynamics.
-
-**Implementation custody.** Licensing thresholds, criminal offenses, tax treatment, and cross-border enforcement rules for gambling and contingent settlement need not appear in this chapter. They remain matters for adopting law and designated incorporated instruments. That includes:
-
-- `corpus_systems.md` classification and stewardship scaling for materially impactful systems;
-- `corpus_institutions.md` conflict and procedure expectations where institutions supervise or constitutionally govern such activity.
 
 <a id="6-shared-system-capacity"></a>
 <a id="51-productive-capacity-instrumental-good"></a>

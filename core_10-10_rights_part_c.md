@@ -164,7 +164,7 @@ Trustworthiness must be evaluated across time, scale, and dependency relationshi
   - disclosed in a manner proportionate to system impact;
   - mitigated through design, constraint, or countervailing mechanisms;
   - subject to audit, challenge, and correction under **Article XV**, **Article XII-B**, **Chapter Five** where materially relevant, and incorporated implementation obligations where designated.
-- **Constraint and non-absoluteness:** Both rights are subject to the **default constraint stack** at the opening of this chapter. They are also subject, where materially relevant, to **Chapter One §10.2.5** on contingent claims, games of chance, and event-contract markets.
+- **Constraint and non-absoluteness:** Both rights are subject to the **default constraint stack** at the opening of this chapter. They are also subject, where materially relevant, to **Chapter One §7.3.2** on contingent claims, games of chance, and event-contract markets.
 
 #### Article XII-E: High-Autonomy Systems and Tool-Mediated Process Integrity
 <details>
@@ -417,7 +417,7 @@ This Article states the Rights-Floor for **exceptional institutional power**: co
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [4.1 Safety](core_01_values_principles.md#41-safety-harm-constraint), [5. Trust](core_01_values_principles.md#5-system-stability-enabler-trust-coordination-integrity), [8.1.1 Proportionality](core_01_stewardship_capacity_principles.md#911-proportionality), [8.1.2 Necessity](core_01_stewardship_capacity_principles.md#912-necessity), [9.2.1 Alignment Requirement](core_01_stewardship_capacity_principles.md#73-alignment-requirement), [12. Prohibition on Absolute Override](core_01_stewardship_capacity_principles.md#12-prohibition-on-absolute-override).
+- Upstream: Principles: Chapter One [4.1 Safety](core_01_values_principles.md#41-safety-harm-constraint), [5. Trust](core_01_values_principles.md#5-system-stability-enabler-trust-coordination-integrity), [8.1.1 Proportionality](core_01_stewardship_capacity_principles.md#911-proportionality), [8.1.2 Necessity](core_01_stewardship_capacity_principles.md#912-necessity), [7.3.1 Alignment Requirement](core_01_stewardship_capacity_principles.md#73-alignment-requirement), [12. Prohibition on Absolute Override](core_01_stewardship_capacity_principles.md#12-prohibition-on-absolute-override).
 - Downstream: **Article I-D** existential-risk scrutiny, **Article IX-A** freedom from manipulation, **Article XIII-A** covert-power limits, **Article XIII-B** overt-force floor, **Article XII-A** reliability and trustworthiness baseline (systems-layer counterpart), **Article XII-E** autonomy-stewardship and autonomy-scaling, **Article XII-F** resilience and self-healing baseline. Cross-reference: **Article XXIII-B** (*Categorical prohibition of irreversible deprivation of life as a justice measure*) and Chapter Five *[Irreversible Deprivation Measure](core_05-05_definitions_c_dependent_clusters.md#irreversible-deprivation-measure-constitutional)* — this Article does not authorize, broaden, or supply a constitutional predicate for irreversible deprivation measures; see *Non-Conflation* below.
 - Read with: [Chapter Five §3.15 *Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm*](core_05-05_definitions_c_dependent_clusters.md#use-of-force-autonomous-coercion-and-mass-harm-cluster) (joint invocation where materially implicated); Chapter Five *Autonomous Lethal System*, *Autonomous Coercion Tool*, *[Irreversible Deprivation Measure](core_05-05_definitions_c_dependent_clusters.md#irreversible-deprivation-measure-constitutional)*, *Coercion and Manipulation*, *Reversibility*. Systems-layer implementation: **[corpus_systems.md](corpus_systems.md), CS-4 — System classification and handling** classification.
 
@@ -518,7 +518,7 @@ Epistemic integrity operates as both a right and a system-wide constraint. Where
     - proportional ability to bypass or adjust ranking criteria — subject to safety, security, and system integrity.
   - It must not narrow this Article.
 - **Contingent-settlement signals:** Prices, odds, pool sizes, or comparable outputs of contingent-payment or event-settlement systems must not be treated, on their own, as evidence sufficient to decide truth, probability, or compliance for rights, safety, or governance determinations.
-  - Where such signals inform public or high-impact decisions, they remain subject to **Chapter One §10.2.5**, **Chapter Five** (*Truth (Constitutional Constraint)*; *Epistemic Integrity*), and contestability obligations elsewhere in this Article.
+  - Where such signals inform public or high-impact decisions, they remain subject to **Chapter One §7.3.2**, **Chapter Five** (*Truth (Constitutional Constraint)*; *Epistemic Integrity*), and contestability obligations elsewhere in this Article.
 #### Article XIV-B: Transparency, Auditability, and Contestability
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>

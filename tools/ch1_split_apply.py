@@ -71,9 +71,7 @@ Governance is **necessary** but **not sufficient**. It must remain subordinate t
 
 *In plain terms: governance that keeps hitting quarterly targets while hollowing safety, truth, participation, or the future is not "working governance" — it is a defect this Constitution names and corrects.*
 
-A **short-horizon governance defect** is a material pattern that optimizes immediate output, convenience, institutional self-protection, or transient stability at the foreseeable expense of medium- or long-horizon constitutional alignment.
-
-Systems must detect, disclose, and correct such defects through **Review and Correction Duty**, contestable oversight, and the incentive and capture discipline in **§§7.3–7.7**.
+Systems must detect, disclose, and correct **[Short-Horizon Governance Defect](core_05-05_definitions_b_semi_independent.md#short-horizon-governance-defect-constitutional)** through **Review and Correction Duty**, contestable oversight, and the incentive and capture discipline in **§§7.3–7.6**.
 
 <a id="72-short-horizon-governance-defect"></a>
 

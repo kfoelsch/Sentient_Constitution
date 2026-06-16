@@ -474,7 +474,7 @@ Independent Definitions must not fragment, isolate, or redistribute compliance i
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [7.2.5 Contingent claims, games of chance, and event-contract markets](core_01_stewardship_capacity_principles.md#77-contingent-claims-games-of-chance-and-event-contract-markets).
+- Downstream: Principles: [§7.3.2 Contingent claims, games of chance, and event-contract markets](core_01_stewardship_capacity_principles.md#77-contingent-claims-games-of-chance-and-event-contract-markets).
 - Cluster component: [Chapter Five §3.13 *Contingent Claim, Event-Contract Market, and Game of Chance*](core_05-05_definitions_a_independent.md#contingent-claim)
 - Read with: [Game of Chance](#game-of-chance), [Event-Contract Market](#event-contract-market), [Capture of Resolution Pathways](core_05-05_definitions_b_semi_independent.md#capture-of-resolution-pathways), [Incentive Alignment](#incentive-alignment), [Risk](#risk), [Dependency](#dependency), and [Coercion and Manipulation](core_05-05_definitions_b_semi_independent.md#coercion-and-manipulation-constitutional).
 
@@ -484,7 +484,7 @@ Independent Definitions must not fragment, isolate, or redistribute compliance i
 
 - O: A claim whose payoff is conditioned on the occurrence, non-occurrence, or quantitative resolution of an uncertain future event external to the claim itself. Covers speculative and insurance-like structures. [Game of Chance](#game-of-chance) and [Event-Contract Market](#event-contract-market) are subclasses.
 <a id="contingent-claim-e"></a>
-- E: Identify the resolving event, the outcome-resolution source (Chapter One §10.2.5), and [Dependency](#dependency) and concentration exposure. [Incentive Alignment](#incentive-alignment), [Coercion and Manipulation](core_05-05_definitions_b_semi_independent.md#coercion-and-manipulation-constitutional), [Capture of Resolution Pathways](core_05-05_definitions_b_semi_independent.md#capture-of-resolution-pathways), and [System Capture](#system-capture) apply where aggregated claims may influence fiduciary, public, or rights-relevant decisions.
+- E: Identify the resolving event, the outcome-resolution source (Chapter One §7.3.2), and [Dependency](#dependency) and concentration exposure. [Incentive Alignment](#incentive-alignment), [Coercion and Manipulation](core_05-05_definitions_b_semi_independent.md#coercion-and-manipulation-constitutional), [Capture of Resolution Pathways](core_05-05_definitions_b_semi_independent.md#capture-of-resolution-pathways), and [System Capture](#system-capture) apply where aggregated claims may influence fiduciary, public, or rights-relevant decisions.
 <a id="contingent-claim-c"></a>
 - C: Structures that reliably reward unlawful [Harm](core_05-05_definitions_c_dependent_clusters.md#harm), material distortion of rights-relevant decisions, or [Capture of Resolution Pathways](core_05-05_definitions_b_semi_independent.md#capture-of-resolution-pathways) without proportionate mitigation are non-compliant.
 
@@ -571,7 +571,7 @@ Independent Definitions must not fragment, isolate, or redistribute compliance i
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [7.2.5 Contingent claims, games of chance, and event-contract markets](core_01_stewardship_capacity_principles.md#77-contingent-claims-games-of-chance-and-event-contract-markets).
+- Downstream: Principles: [§7.3.2 Contingent claims, games of chance, and event-contract markets](core_01_stewardship_capacity_principles.md#77-contingent-claims-games-of-chance-and-event-contract-markets).
 - Cluster component: [Chapter Five §3.13 *Contingent Claim, Event-Contract Market, and Game of Chance*](core_05-05_definitions_a_independent.md#contingent-claim)
 - Read with: [Contingent Claim](#contingent-claim), [Capture of Resolution Pathways](core_05-05_definitions_b_semi_independent.md#capture-of-resolution-pathways), [Truth (Constitutional Constraint)](core_05-05_definitions_c_dependent_clusters.md#truth-constitutional-constraint), [Incentive Alignment](#incentive-alignment), and [Epistemic Integrity](core_05-05_definitions_c_dependent_clusters.md#epistemic-integrity).
 
@@ -581,7 +581,7 @@ Independent Definitions must not fragment, isolate, or redistribute compliance i
 
 - O: A [Contingent Claim](#contingent-claim) venue that matches counterparties, prices, or settles payments against resolution of an external event. Includes prediction-style event markets, event-settlement systems, insurance pools, health plans, and other structures where payments are contingent on the occurrence or measurement of future events external to the parties' control.
 <a id="event-contract-market-e"></a>
-- E: Cover outcome-resolution source independence and multiplicity, privileged-information pathways, coordination risk, and treatment of settlement prices or odds as authoritative [Truth (Constitutional Constraint)](core_05-05_definitions_c_dependent_clusters.md#truth-constitutional-constraint). Per Chapter One §10.2.5, prices or odds are not themselves sufficient evidence for rights, safety, or governance determinations. Also cover [Capture of Resolution Pathways](core_05-05_definitions_b_semi_independent.md#capture-of-resolution-pathways) under [Adversarial, Scaled, and Exploited Conditions](#adversarial-scaled-and-exploited-conditions).
+- E: Cover outcome-resolution source independence and multiplicity, privileged-information pathways, coordination risk, and treatment of settlement prices or odds as authoritative [Truth (Constitutional Constraint)](core_05-05_definitions_c_dependent_clusters.md#truth-constitutional-constraint). Per Chapter One §7.3.2, prices or odds are not themselves sufficient evidence for rights, safety, or governance determinations. Also cover [Capture of Resolution Pathways](core_05-05_definitions_b_semi_independent.md#capture-of-resolution-pathways) under [Adversarial, Scaled, and Exploited Conditions](#adversarial-scaled-and-exploited-conditions).
 <a id="event-contract-market-c"></a>
 - C: Markets that structurally invite material distortion of fiduciary, public, or rights-relevant decisions — or that permit insider advantage from non-public power without proportionate mitigation — are non-compliant.
 
@@ -690,7 +690,7 @@ Independent Definitions must not fragment, isolate, or redistribute compliance i
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [7.2.5 Contingent claims, games of chance, and event-contract markets](core_01_stewardship_capacity_principles.md#77-contingent-claims-games-of-chance-and-event-contract-markets).
+- Downstream: Principles: [§7.3.2 Contingent claims, games of chance, and event-contract markets](core_01_stewardship_capacity_principles.md#77-contingent-claims-games-of-chance-and-event-contract-markets).
 - Cluster component: [Chapter Five §3.13 *Contingent Claim, Event-Contract Market, and Game of Chance*](core_05-05_definitions_a_independent.md#contingent-claim)
 - Read with: [Contingent Claim](#contingent-claim), [Coercion and Manipulation](core_05-05_definitions_b_semi_independent.md#coercion-and-manipulation-constitutional), [Incentive Alignment](#incentive-alignment), [Dependency](#dependency), and [Capture of Resolution Pathways](core_05-05_definitions_b_semi_independent.md#capture-of-resolution-pathways).
 
@@ -783,7 +783,7 @@ Independent Definitions must not fragment, isolate, or redistribute compliance i
 
 - O: [Contingent Claim](#contingent-claim) structures, including [Game of Chance](#game-of-chance) and [Event-Contract Market](#event-contract-market) forms, are within scope where materially relevant.
 <a id="incentive-alignment-contingent-claims-games-of-chance-and-event-contract-markets-e"></a>
-- E: Such systems must satisfy Chapter One §10.2.5, including:
+- E: Such systems must satisfy Chapter One §7.3.2, including:
   - Application of [Necessity](#necessity) and [Proportionality](#proportionality) to underlying permitted events
   - Governance of resolution procedures (independence, multi-source rules where feasible, contestable dispute pathways)
   - Concentration, leverage, and exposure limits scaled to vulnerability and systemic stability

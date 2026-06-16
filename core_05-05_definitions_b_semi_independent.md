@@ -194,14 +194,14 @@ Below, entries are **grouped by topic** for reading convenience (non-operative o
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [7.2.5 Contingent claims, games of chance, and event-contract markets](core_01_stewardship_capacity_principles.md#77-contingent-claims-games-of-chance-and-event-contract-markets).
+- Downstream: Principles: [§7.3.2 Contingent claims, games of chance, and event-contract markets](core_01_stewardship_capacity_principles.md#77-contingent-claims-games-of-chance-and-event-contract-markets).
 - Read with: [System Capture](core_05-05_definitions_a_independent.md#system-capture), the [Capture, Resolution Integrity, and Anti-Capture cluster](core_05-05_definitions_b_semi_independent.md#capture-of-resolution-pathways), [Incentive Alignment](core_05-05_definitions_a_independent.md#incentive-alignment), [Contingent Claim](core_05-05_definitions_a_independent.md#contingent-claim), [Event-Contract Market](core_05-05_definitions_a_independent.md#event-contract-market), [Oversight](core_05-05_definitions_a_independent.md#oversight-constitutional), and [Contestability](#contestability).
 
 </details>
 
 <br>
 
-- O: A specialization of [System Capture](core_05-05_definitions_a_independent.md#system-capture) in which concentrated incentives, control, or privileged information bias the actors, processes, data feeds, or authorities ("outcome-resolution sources" under Chapter One §10.2.5) that resolve [Contingent Claim](core_05-05_definitions_a_independent.md#contingent-claim) settlements or analogous rights-relevant resolutions.
+- O: A specialization of [System Capture](core_05-05_definitions_a_independent.md#system-capture) in which concentrated incentives, control, or privileged information bias the actors, processes, data feeds, or authorities ("outcome-resolution sources" under Chapter One §7.3.2) that resolve [Contingent Claim](core_05-05_definitions_a_independent.md#contingent-claim) settlements or analogous rights-relevant resolutions.
 <a id="capture-of-resolution-pathways-e"></a>
 - E: Cover resolver independence from parties with material stake in the outcome, multi-source rules where feasible, contestable dispute pathways, and role separation between market-making, settlement, and adjudication where conflicts could distort outcomes. Align with [System Capture](core_05-05_definitions_a_independent.md#system-capture) and [Oversight](core_05-05_definitions_a_independent.md#oversight-constitutional) under [Adversarial, Scaled, and Exploited Conditions](core_05-05_definitions_a_independent.md#adversarial-scaled-and-exploited-conditions).
 <a id="capture-of-resolution-pathways-c"></a>
