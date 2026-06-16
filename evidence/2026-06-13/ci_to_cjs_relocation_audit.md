@@ -67,7 +67,7 @@ Summary: **Purpose and owner boundary.** This section governs institutional hand
 Summary: **Purpose.** This subsection applies the shared delegated-body abstractions in `corpus_joint_structure.md` **CJS-4.1** (*Mandatory hybrid authority composition (delegated binding bodies)*) and **CJS-4.7** (*Shared procedural abstractions for delegated bodie...
 
 Near CJS matches:
-- 0.36: `corpus_joint_structure/cjs_03_joint_structural_obligations.md:163` (CJS-3.5 Classification alignment for supervised scope) — When an institution supervises systems governed by `corpus_systems.md` **Chapter S2** or **Chapter S3**, its published maps under **CI-9....
+- 0.36: `corpus_joint_structure/cjs_03_joint_structural_obligations.md:163` (CJS-3.5 Classification alignment for supervised scope) — When an institution supervises systems governed by `corpus_systems.md` **CS-4** or **CS-5**, its published maps under **CI-9....
 
 ### 5. CI-7.3: Contest-integrity monitoring (Class A and Class B)
 
@@ -159,7 +159,7 @@ Summary: **Purpose.** This section records **institutional and system design exp
 - Signals: multi-owner-routing(1), routing-read-with(2), shared-procedure(1), dependency-failure(1), forum-system-touch(4)
 - Router matches: CJS-R17 — Cross-implementation trust integrity (joint operation model); CJS-R19 — Implementation and cross-implementation integrity assurance and resilience operations; CJS-R15 — Contest-integrity monitoring (pathway integrity, not merits)
 
-Summary: Institutions with regulated or supervised scope must publish how major industries and regulatory domains under their authority are located against `corpus_systems.md` **Chapter S2** classes and **Chapter S3** stewardship tiers. Apply `corpus_joint_structure...
+Summary: Institutions with regulated or supervised scope must publish how major industries and regulatory domains under their authority are located against `corpus_systems.md` **CS-4** classes and **CS-5** stewardship tiers. Apply `corpus_joint_structure...
 
 ### 13. CI-5.1: Integrity trigger taxonomy and cross-layer routing (control package)
 
@@ -182,7 +182,7 @@ Summary: This subsection names institutional trigger categories for **CI-5** (*C
 - Router matches: CJS-R17 — Cross-implementation trust integrity (joint operation model); CJS-R19 — Implementation and cross-implementation integrity assurance and resilience operations; CJS-R15 — Contest-integrity monitoring (pathway integrity, not merits)
 - Keep-in-CI cautions: dissolution, institutional formation
 
-Summary: Institutional governance burden must scale with `corpus_systems.md` Chapter S2 classes and Chapter S3 stewardship tiers. Where multiple classes/tiers apply, the highest applicable burden governs for affected duties. **Constitutional floor for institutional...
+Summary: Institutional governance burden must scale with `corpus_systems.md` CS-4 classes and CS-5 stewardship tiers. Where multiple classes/tiers apply, the highest applicable burden governs for affected duties. **Constitutional floor for institutional...
 
 ### 15. CI-1.1: Definition discipline and source hierarchy
 

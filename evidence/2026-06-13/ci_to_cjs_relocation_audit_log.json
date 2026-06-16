@@ -128,7 +128,7 @@
         "file": "corpus_joint_structure/cjs_03_joint_structural_obligations.md",
         "line": 163,
         "heading": "CJS-3.5 Classification alignment for supervised scope",
-        "summary": "When an institution supervises systems governed by `corpus_systems.md` **Chapter S2** or **Chapter S3**, its published maps under **CI-9...."
+        "summary": "When an institution supervises systems governed by `corpus_systems.md` **CS-4** or **CS-5**, its published maps under **CI-9...."
       }
     ],
     "keep_notes": [],
@@ -381,7 +381,7 @@
     ],
     "similar_cjs": [],
     "keep_notes": [],
-    "summary": "Institutions with regulated or supervised scope must publish how major industries and regulatory domains under their authority are located against `corpus_systems.md` **Chapter S2** classes and **Chapter S3** stewardship tiers. Apply `corpus_joint_structure..."
+    "summary": "Institutions with regulated or supervised scope must publish how major industries and regulatory domains under their authority are located against `corpus_systems.md` **CS-4** classes and **CS-5** stewardship tiers. Apply `corpus_joint_structure..."
   },
   {
     "file": "corpus_institutions/ci_05_conflict_integrity_anti_capture_anti_corruption.md",
@@ -440,7 +440,7 @@
       "dissolution",
       "institutional formation"
     ],
-    "summary": "Institutional governance burden must scale with `corpus_systems.md` Chapter S2 classes and Chapter S3 stewardship tiers. Where multiple classes/tiers apply, the highest applicable burden governs for affected duties. **Constitutional floor for institutional..."
+    "summary": "Institutional governance burden must scale with `corpus_systems.md` CS-4 classes and CS-5 stewardship tiers. Where multiple classes/tiers apply, the highest applicable burden governs for affected duties. **Constitutional floor for institutional..."
   },
   {
     "file": "corpus_institutions/ci_01_scope_purpose_legitimacy_interface.md",
