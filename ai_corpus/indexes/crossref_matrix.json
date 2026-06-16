@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/crossref_matrix.schema.json",
-  "generated_at": "2026-06-15T13:29:04+00:00",
+  "generated_at": "2026-06-16T01:59:20+00:00",
   "description": "Source-derived file-to-file Markdown reference graph.",
   "graph": {
     "nodes": [
@@ -2300,7 +2300,7 @@
           },
           {
             "file": "core_05-05_definitions_b_semi_independent.md",
-            "count": 146,
+            "count": 145,
             "anchors": [
               "#bodily-maintenance-access-constitutional",
               "#bodily-maintenance-access-constitutional-c",
@@ -2314,7 +2314,6 @@
               "#collective-organization-constitutional",
               "#collective-organization-constitutional-c",
               "#collective-organization-constitutional-e",
-              "#concentration-threshold-constitutional",
               "#consent-constitutional",
               "#consent-constitutional-c",
               "#consent-constitutional-e",
@@ -4211,7 +4210,7 @@
           },
           {
             "file": "core_05-05_definitions_b_semi_independent.md",
-            "count": 55,
+            "count": 54,
             "anchors": [
               "#adjudication-and-dispute-resolution-constitutional",
               "#adjudication-and-dispute-resolution-constitutional-c",
@@ -4297,7 +4296,7 @@
         "targets": [
           {
             "file": "core_05-05_definitions_a_independent.md",
-            "count": 40,
+            "count": 41,
             "anchors": [
               "#chapter-five-foundational-definitions",
               "#classification-scaled-governance",
@@ -4376,21 +4375,21 @@
           },
           {
             "file": "core_15-15_incorporation.md",
-            "count": 8,
+            "count": 9,
             "anchors": [
               "#chapter-fifteen-incorporation-bridge"
             ]
           },
           {
             "file": "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md",
-            "count": 9,
+            "count": 10,
             "anchors": [
               "#cjs-12-shared-implementation-corpus-preamble-contract"
             ]
           },
           {
             "file": "corpus_joint_structure/cjs_02_implementation_integration_map.md",
-            "count": 10,
+            "count": 12,
             "anchors": [
               "#cjs-21-topic-router-stable-ids"
             ]
@@ -6809,14 +6808,14 @@
             "file": "corpus_joint_structure/cjs_05b_00_evidence_audit_claim_integrity.md",
             "count": 1,
             "anchors": [
-              "#cjs-5b1-implementation-and-cross-implementation-integrity-assurance-and-resilience-operations"
+              "#cjs-58-implementation-and-cross-implementation-integrity-assurance-and-resilience-operations"
             ]
           },
           {
             "file": "corpus_joint_structure/cjs_05d_00_dependency_exit_lifecycle_integrity.md",
             "count": 1,
             "anchors": [
-              "#cjs-5d1-implementation-and-cross-implementation-dependency-integrity-and-disclosure-terms"
+              "#cjs-516-implementation-and-cross-implementation-dependency-integrity-and-disclosure-terms"
             ]
           }
         ]

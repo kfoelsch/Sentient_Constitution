@@ -26,9 +26,9 @@
 
 **Router read:** Mandatory read-with for **CJS-R03** (*Lawful panel formation, disclosure, recusal, substitution, inability-to…*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CF-4**.
 **Router read:** Mandatory read-with for **CJS-R13** (*Forum staffing, shared administration, structural review, structural re…*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CF-16**.
-**Router read:** Primary owner for **CJS-R18** (*Class-scaled lane staffing and competency redundancy for materially bin…*) in **CJS-2.1** (*Topic router (stable IDs)*). Mandatory read-with: **CJS-4.6**, **CJS-5.2**.
+**Router read:** Primary owner for **CJS-R18** (*Class-scaled lane staffing and competency redundancy for materially bin…*) in **CJS-2.1** (*Topic router (stable IDs)*). Mandatory read-with: **CJS-4.5**, **CJS-5.2**.
 
-Apply `corpus_joint_structure.md` **CJS-4.6** (*Class-scaled lane staffing and competency redundancy*) for the shared role-boundary, competency-redundancy, succession, and lane-staffing floor.
+Apply `corpus_joint_structure.md` **CJS-4.5** (*Class-scaled lane staffing and competency redundancy*) for the shared role-boundary, competency-redundancy, succession, and lane-staffing floor.
 
 This section states institutional owner duties: each institution must publish role criteria, qualification and disqualification standards, succession coverage, rotation or cooling-off rules where needed for independence, and a removal pathway with due process. Role assignment must not rely on arbitrary gatekeeping.
 
@@ -41,7 +41,7 @@ Interpretive-body composition controls (**Article XXII** — constitutional inte
 - Members remain subject to challenge for non-disclosure, bias, capture risk, or dependency-linked influence.
 - Repeated or strategic recusal abuse is non-compliant and triggers corrective/removal review.
 
-Authorized-role and accountability-chain mechanics (**Chapter Ten**, section 5 — *Authorized Roles, Competency Development, and Contribution* / **Chapter Ten**, Article XI-D interface) remain institution-specific where they assign local scope, limits, decision rights, review rights, accountability owners, escalation routes, qualification/disqualification criteria, succession readiness, and capability-refresh duties. Shared class-scaling stays in **CJS-4.6** (*Class-scaled lane staffing and competency redundancy*) with **CI-3** (*Institutional design and separation of powers*) lane ownership and `corpus_systems.md` **CS-4 — System classification and handling** and **CS-5 — Critical system stewardship** class-scaling hooks.
+Authorized-role and accountability-chain mechanics (**Chapter Ten**, section 5 — *Authorized Roles, Competency Development, and Contribution* / **Chapter Ten**, Article XI-D interface) remain institution-specific where they assign local scope, limits, decision rights, review rights, accountability owners, escalation routes, qualification/disqualification criteria, succession readiness, and capability-refresh duties. Shared class-scaling stays in **CJS-4.5** (*Class-scaled lane staffing and competency redundancy*) with **CI-3** (*Institutional design and separation of powers*) lane ownership and `corpus_systems.md` **CS-4 — System classification and handling** and **CS-5 — Critical system stewardship** class-scaling hooks.
 
 ---
 

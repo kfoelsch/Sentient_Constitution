@@ -20,6 +20,7 @@ DESCRIPTOR_AFTER_RE = re.compile(
     r"(?:\s*(?:—|-|:)\s*[^.;,\n]+|\s*\([^)]+\)|\s+\*[^*]+\*)"
 )
 TRACE_WIDGET_START_RE = re.compile(r"<summary>.*Trace", re.IGNORECASE)
+RETIRED_SECTION_HEADER_RE = re.compile(r"^#{2,4}\s+.+\(retired\)\s*$", re.IGNORECASE)
 TOP_LEVEL_CS_SECTIONS = frozenset({f"CS-{n}" for n in range(1, 6)})
 
 
@@ -28,6 +29,13 @@ class Finding:
     file: str
     line: int
     section_id: str
+    text: str
+
+
+@dataclass(frozen=True)
+class RetiredSectionFinding:
+    file: str
+    line: int
     text: str
 
 
@@ -135,6 +143,18 @@ def changed_markdown_findings(root: pathlib.Path, allowed_scope: set[str]) -> li
     return findings
 
 
+def scan_retired_section_headers(root: pathlib.Path, rel_path: str) -> list[RetiredSectionFinding]:
+    path = root / rel_path
+    if not path.is_file():
+        return []
+
+    findings: list[RetiredSectionFinding] = []
+    for idx, line in enumerate(path.read_text(encoding="utf-8").splitlines(), start=1):
+        if RETIRED_SECTION_HEADER_RE.match(line.strip()):
+            findings.append(RetiredSectionFinding(rel_path, idx, line.strip()))
+    return findings
+
+
 def scan_file(root: pathlib.Path, rel_path: str) -> list[Finding]:
     path = root / rel_path
     if not path.is_file():
@@ -170,25 +190,33 @@ def main() -> int:
     full_scope = binding_corpus_scope(root, include_support_docs=args.include_support_docs)
     if args.paths:
         scope = [path for path in args.paths if path in set(full_scope)]
+        findings: list[Finding] = []
+        retired_findings: list[RetiredSectionFinding] = []
+        for rel_path in scope:
+            findings.extend(scan_file(root, rel_path))
+            retired_findings.extend(scan_retired_section_headers(root, rel_path))
     elif args.changed_only:
-        findings = changed_markdown_findings(root, set(full_scope))
-        if findings:
-            print("Naked implementation-section IDs found:", file=sys.stderr)
-            for finding in findings:
-                print(
-                    f"{finding.file}:{finding.line}: {finding.section_id}: {finding.text}",
-                    file=sys.stderr,
-                )
-            return 1
-
-        print("Section abbreviation descriptor audit passed.")
-        return 0
+        scope = set(full_scope)
+        findings = changed_markdown_findings(root, scope)
+        retired_findings: list[RetiredSectionFinding] = []
+        for rel_path in scope:
+            retired_findings.extend(scan_retired_section_headers(root, rel_path))
     else:
         scope = full_scope
+        findings = []
+        retired_findings = []
+        for rel_path in scope:
+            findings.extend(scan_file(root, rel_path))
+            retired_findings.extend(scan_retired_section_headers(root, rel_path))
 
-    findings: list[Finding] = []
-    for rel_path in scope:
-        findings.extend(scan_file(root, rel_path))
+    if retired_findings:
+        print("Retired section headers found in binding corpus:", file=sys.stderr)
+        for finding in retired_findings:
+            print(
+                f"{finding.file}:{finding.line}: retired section header: {finding.text}",
+                file=sys.stderr,
+            )
+        return 1
 
     if findings:
         print("Naked implementation-section IDs found:", file=sys.stderr)

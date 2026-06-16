@@ -24,7 +24,7 @@
 <br>
 
 
-**Router read:** Primary owner for **CJS-R02** (*Forum chambers, divisions, and designated panels (Chapter Nine families)*) in **CJS-2.1** (*Topic router (stable IDs)*). Mandatory read-with: **CJS-4.1**, **CJS-4.7**, **CJS-5.7**, **CI-9.3**.
+**Router read:** Primary owner for **CJS-R02** (*Forum chambers, divisions, and designated panels (Chapter Nine families)*) in **CJS-2.1** (*Topic router (stable IDs)*). Mandatory read-with: **CJS-4.1**, **CJS-4.6**, **CJS-5.7**, **CI-9.3**.
 
 This section governs how adopting entities convert the forum families recognized in `core_09-09_forum.md` **Chapter Nine** into actual adjudicative bodies, benches, chambers, and support structures.
 

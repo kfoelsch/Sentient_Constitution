@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-06-15T15:42:26+00:00",
+  "generated_at": "2026-06-16T01:59:19+00:00",
   "files": {
     "core_00-01_principles.md": {
       "total_lines": 1508,
@@ -5266,13 +5266,13 @@
       ]
     },
     "corpus_joint_structure/cjs_04_specific_joint_interlocks.md": {
-      "total_lines": 363,
+      "total_lines": 335,
       "sections": [
         {
           "header": "CJS-4: Specific joint interlocks and shared abstractions",
           "level": 2,
           "line_start": 1,
-          "line_end": 363,
+          "line_end": 335,
           "anchor": null
         },
         {
@@ -5286,56 +5286,49 @@
           "header": "CJS-4.1.1 Composition floor",
           "level": 3,
           "line_start": 53,
-          "line_end": 108,
+          "line_end": 99,
           "anchor": null
         },
         {
           "header": "CJS-4.1.2 Attachment publication",
           "level": 3,
-          "line_start": 109,
-          "line_end": 144,
-          "anchor": "#cjs-42-shared-attachment-and-continuity-mechanics"
+          "line_start": 100,
+          "line_end": 130,
+          "anchor": null
         },
         {
-          "header": "CJS-4.2 Shared attachment and continuity mechanics (retired)",
+          "header": "CJS-4.2 Implementation boundary (primary owner to CJS seam)",
           "level": 3,
-          "line_start": 145,
+          "line_start": 131,
           "line_end": 158,
           "anchor": null
         },
         {
-          "header": "CJS-4.3 Implementation boundary (primary owner to CJS seam)",
+          "header": "CJS-4.3 Cross-implementation trust integrity (joint operation model)",
           "level": 3,
           "line_start": 159,
-          "line_end": 186,
+          "line_end": 200,
           "anchor": null
         },
         {
-          "header": "CJS-4.4 Cross-implementation trust integrity (joint operation model)",
+          "header": "CJS-4.4 Definition collision and precedence discipline",
           "level": 3,
-          "line_start": 187,
-          "line_end": 228,
+          "line_start": 201,
+          "line_end": 235,
           "anchor": null
         },
         {
-          "header": "CJS-4.5 Definition collision and precedence discipline",
+          "header": "CJS-4.5 Class-scaled lane staffing and competency redundancy",
           "level": 3,
-          "line_start": 229,
-          "line_end": 263,
+          "line_start": 236,
+          "line_end": 280,
           "anchor": null
         },
         {
-          "header": "CJS-4.6 Class-scaled lane staffing and competency redundancy",
+          "header": "CJS-4.6 Shared procedural abstractions for delegated bodies and forum routing",
           "level": 3,
-          "line_start": 264,
-          "line_end": 308,
-          "anchor": null
-        },
-        {
-          "header": "CJS-4.7 Shared procedural abstractions for delegated bodies and forum routing",
-          "level": 3,
-          "line_start": 309,
-          "line_end": 363,
+          "line_start": 281,
+          "line_end": 335,
           "anchor": null
         }
       ]

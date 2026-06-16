@@ -126,7 +126,7 @@ This file does not create a separate authority stack. Use the constitutional **A
 - Chapter Six controls canonical compliance, violation, and standing classification policy.
 - [corpus_systems.md](../corpus_systems.md) Chapters S1 through S3 control data types, system classes, dependency types, and steward tiers.
 - **CJS-5.20** (*Implementation and cross-implementation intervention and override integrity terms*) and **CJS-5.3** (*Implementation and cross-implementation intervention governance and override-authorization terms*) stay separate: **CJS-5.20** states technical intervention and override integrity terms; **CJS-5.3** states governance authorization terms. Both apply where relevant.
-- For cross-domain integrity routing, read **CJS-4.4** (*Cross-implementation trust integrity (joint operation model)*) and the applicable **CJS-5** operational clusters. CJS does not maintain a separate meta-obligation family.
+- For cross-domain integrity routing, read **CJS-4.3** (*Cross-implementation trust integrity (joint operation model)*) and the applicable **CJS-5** operational clusters. CJS does not maintain a separate meta-obligation family.
 - For emergency and continuity questions where multiple implementation files govern the same facts, read **CJS-2.1** and **CJS-3.2** (*No false partial compliance across implementation files*).
 
 ### CJS-1.3: Section identifiers and article references

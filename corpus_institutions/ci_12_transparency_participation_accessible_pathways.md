@@ -24,7 +24,7 @@
 <br>
 
 
-**Router read:** Primary owner for **CJS-R18** (*Class-scaled lane staffing and competency redundancy for materially bin…*) in **CJS-2.1** (*Topic router (stable IDs)*). Mandatory read-with: **CJS-4.6**, **CJS-5.2**.
+**Router read:** Primary owner for **CJS-R18** (*Class-scaled lane staffing and competency redundancy for materially bin…*) in **CJS-2.1** (*Topic router (stable IDs)*). Mandatory read-with: **CJS-4.5**, **CJS-5.2**.
 
 Apply `corpus_joint_structure.md` **CJS-5.13** **Institutional participation and pathway accessibility floor** for the shared understandability, participation, challenge, accessibility, protected-escalation, and anti-retaliation floor. **CI-12** states only local publication, office, record, escalation, and stewardship-pathway owner duties linked to **Article III-B** and **Chapter Ten**, section 5.
 

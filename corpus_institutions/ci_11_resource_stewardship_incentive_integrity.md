@@ -24,7 +24,7 @@
 <br>
 
 
-**Router read:** Primary owner for **CJS-R18** (*Class-scaled lane staffing and competency redundancy for materially bin…*) in **CJS-2.1** (*Topic router (stable IDs)*). Mandatory read-with: **CJS-4.6**, **CJS-5.2**.
+**Router read:** Primary owner for **CJS-R18** (*Class-scaled lane staffing and competency redundancy for materially bin…*) in **CJS-2.1** (*Topic router (stable IDs)*). Mandatory read-with: **CJS-4.5**, **CJS-5.2**.
 
 **Continuity planning.** Institutions must maintain resource adequacy for safe continuity and constitutional performance. Shared dependency-chain evaluation for funding, staffing, capacity, and resource adequacy is governed by `corpus_joint_structure.md` **CJS-5.16** (*Implementation and cross-implementation dependency integrity and disclosure terms*), read with **CJS-5.8** (*Implementation and cross-implementation integrity assurance and resilience operations*) where severe control failure, verified misconduct, evidence custody, or resilience claims are implicated. **CI-11** states the institutional stewardship trigger and local consequence interface only: **sabotage of continuity planning** and **willful negligence in continuity planning** are **anti-constitutional misconduct** for malus, clawback, and related remedies in this chapter when they are **material** to institutional duties or supervised scope and **verified** under **Chapters Two through Four** and **Chapter Six** as applicable.
 

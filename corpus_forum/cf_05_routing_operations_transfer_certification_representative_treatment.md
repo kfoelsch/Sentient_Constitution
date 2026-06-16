@@ -25,7 +25,7 @@
 
 
 **Router read:** Mandatory read-with for **CJS-R16** (*Cross-institution coordination, deadlock, and escalation*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CI-8**.
-**Router read:** Primary owner for **CJS-R04** (*Routing, intake, transfer, certification, representative treatment*) in **CJS-2.1** (*Topic router (stable IDs)*). Mandatory read-with: **CJS-4.7**, **CJS-5.7**, **CI-8**.
+**Router read:** Primary owner for **CJS-R04** (*Routing, intake, transfer, certification, representative treatment*) in **CJS-2.1** (*Topic router (stable IDs)*). Mandatory read-with: **CJS-4.6**, **CJS-5.7**, **CI-8**.
 
 **Constitutional index (abridged)**
 - Detailed routing rules and source authorities are listed in the relevant subsections and cross-references below.

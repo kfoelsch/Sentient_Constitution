@@ -26,7 +26,7 @@ CJS_DIR = "corpus_joint_structure"
 
 DESTINATION_RULES: tuple[tuple[str, tuple[str, ...], tuple[str, ...]], ...] = (
     (
-        "CJS-5.2–CJS-5.7 / CJS-4.1 / CJS-4.7",
+        "CJS-5.2–CJS-5.7 / CJS-4.1 / CJS-4.6",
         (
             "authority",
             "delegation",
@@ -103,7 +103,7 @@ DESTINATION_RULES: tuple[tuple[str, tuple[str, ...], tuple[str, ...]], ...] = (
         ("failure/robustness", "intervention/correction"),
     ),
     (
-        "CJS-4.4",
+        "CJS-4.3",
         ("trust", "trustworthiness", "misleading reliance", "proxy metric", "integrity"),
         ("cross-implementation trust",),
     ),
