@@ -231,12 +231,19 @@ At this value layer, wellbeing:
 
 <br>
 
-**Fairness** is part of what wellbeing requires in systems that coordinate sentients: not aggregate scores alone, but whether opportunity, process, and the allocation of benefits and burdens fit legitimate expectations and equal standing. Claimed wellbeing that rests on arbitrary exclusion, capricious rules, or opaque extraction from some sentients for others is not aligned with this objective.
+*In plain terms: wellbeing is not fair when some sentients are arbitrarily shut out, treated by whim, or loaded with costs and risks that others escape. Fairness means real access to what matters, consistent treatment under defensible rules, and benefits and burdens that line up with comparable contribution, need, or exposure — not headline metrics that hide who pays and who benefits.*
 
-For orientation (not as a substitute for Chapter Five definitions or the Chapter Ten Rights Floor), that requirement has three facets:
-- **Access and opportunity** — material paths to participation, learning, and need-satisfying goods are not arbitrarily foreclosed or skewed by irrelevant factors; substantive opportunity matters, not only formal openness, where applicable definitions and rights so require.
-- **Treatment** — like cases are handled alike under legitimate rules; differentiation is permitted where it is justified, proportionate, and consistent with dignity and non-discrimination commitments. Non-discrimination commitments are elaborated through [Protected Characteristics](core_05-05_definitions_b_semi_independent.md#protected-characteristics-constitutional) and [Protected Characteristic Proxying and Disparate Impact](core_05-05_definitions_b_semi_independent.md#protected-characteristic-proxying-and-disparate-impact), which include protections against algorithmic replication of historical disadvantage, intimate-signal gating, and circumvention of Article X-C status. Where decisions are materially adverse or contested, pathways must align with [Procedural Fairness](core_05-05_definitions_b_semi_independent.md#procedural-fairness-constitutional) when Chapter Ten or designated owner instruments assign review, notice, or hearing duties.
-- **Benefits and burdens** — reward, cost, and risk attach to comparable contribution, comparable need, or comparable exposure in non-arbitrary ways. This is not satisfied by any single output metric alone; it is read through [Substantive Fairness](core_05-05_definitions_b_semi_independent.md#substantive-fairness-constitutional) and related Rights-Floor obligations.
+**Fairness** is part of what wellbeing requires wherever sentients coordinate through shared systems. It is not satisfied by aggregate scores alone. The question is whether opportunity, process, and the allocation of benefits and burdens fit legitimate expectations and equal moral standing.
+
+Claimed wellbeing that rests on arbitrary exclusion, capricious rules, or opaque extraction from some sentients for others is not aligned with this objective.
+
+**Three facets.** Fairness in this section has three parts. They orient application here; they do not replace Chapter Five definitions or the Chapter Ten Rights Floor.
+
+**Access and opportunity.** Sentients need workable paths to participation, learning, and goods that meet real needs. Those paths must not be arbitrarily blocked or skewed by irrelevant factors. Where definitions and rights require it, what matters is substantive opportunity — not openness on paper alone.
+
+**Treatment.** Like cases are handled alike under legitimate rules. Differentiation is permitted when it is justified, proportionate, and consistent with dignity and non-discrimination. Chapter Five spells out those commitments through [Protected Characteristics](core_05-05_definitions_b_semi_independent.md#protected-characteristics-constitutional) and [Protected Characteristic Proxying and Disparate Impact](core_05-05_definitions_b_semi_independent.md#protected-characteristic-proxying-and-disparate-impact), including protections against algorithmic replication of historical disadvantage, intimate-signal gating, and circumvention of Article X-C status. When decisions are materially adverse or contested, review pathways must align with [Procedural Fairness](core_05-05_definitions_b_semi_independent.md#procedural-fairness-constitutional) wherever Chapter Ten or designated owner instruments assign review, notice, or hearing duties.
+
+**Benefits and burdens.** Reward, cost, and risk must line up with comparable contribution, comparable need, or comparable exposure in non-arbitrary ways. No single output metric proves fairness by itself. This facet is read through [Substantive Fairness](core_05-05_definitions_b_semi_independent.md#substantive-fairness-constitutional) and related Rights-Floor obligations.
 
 These facets read through [Dignity and Equal Moral Standing](core_05-05_definitions_a_independent.md#dignity-and-equal-moral-standing) and inform [5. Trust](#5-system-stability-enabler-trust-coordination-integrity) where reliance, expectation, and coordination integrity are material.
 
@@ -250,6 +257,7 @@ These facets read through [Dignity and Equal Moral Standing](core_05-05_definiti
 - Read with: [Chapter Six §1.1 — Shared domain lenses (cross-axis vocabulary)](core_07-07_standing_integration.md#11-shared-domain-lenses-cross-axis-vocabulary) where **domain-aligned** recognition or comparative **Axis I / Axis II** supplemental narratives are material.
 - Read with: [Chapter Six §1.2 — Stackable benefit-and-stewardship descriptors (Axis I supplement)](core_07-07_standing_integration.md#12-stackable-benefit-and-stewardship-descriptors-contribution-state-supplement) where contribution state and recognition narratives are material.
 - Read with: [Article IX: Self-Determination and Agency](core_10-10_rights_part_b.md#article-ix-self-determination-and-agency) where preferences for recognition form, visibility, or opt-out are material.
+- Subsections (reading order): [§3.2.1](#321-recognition-and-reinforcement) · [§3.2.2](#322-celebration-of-success) · [§3.2.3](#323-aspiration) · [§3.2.4](#324-preference-aligned-recognition) · [§3.2.5](#325-aligned-recognition-pathways) · [§3.2.6](#326-anti-reward-for-anti-constitutional-conduct) · [§3.2.7](#327-implementation-layer).
 
 </details>
 
@@ -268,19 +276,62 @@ These facets read through [Dignity and Equal Moral Standing](core_05-05_definiti
 
 *In plain terms: wellbeing is not only what's forbidden and what's fair — shared systems should also honestly cheer and reward behavior they want repeated, within truth and rights. Celebrating wins means crediting real contribution, repair, and completion, not hype or manipulated metrics. It also means refusing to reward constitutional betrayal, concealment, retaliation, or accountability avoidance — even when those acts produced institutional advantage.*
 
-Sentient wellbeing is materially advanced when systems **signal**, **credit**, and **proportionately reward** lawful stewardship, truthful cooperation, repair, completion, and other **constitutionally aligned** contributions — including through **positive reinforcement** and **public recognition** — and not solely through restraint, sanction, or silence.
+**Three dimensions.** Wellbeing depends on what systems forbid and how fairly they distribute costs — and also on what they visibly value, reinforce, and help sentients pursue. This section states those recognition, reinforcement, and aspiration duties. It applies together with [3.1 Fairness](#31-fairness) and remains bounded by Safety, Truth, and the Chapter Ten Rights Floor.
 
-That **rule** applies together with [3.1 Fairness](#31-fairness). **Celebration** of success means honoring **traceable**, **non-misleading** accomplishment and prosocial coordination (including uplift and stewardship narratives where **Chapter Six** Axis I supplemental descriptors are material). It **must not** substitute for proxy optimization that diverges from underlying constitutional objectives ([§3](#3-foundational-objective-wellbeing)), for **capture** of acclaim or prestige ([§7.2](#82-incentive-alignment-and-system-capture)), or for avoidance of accountability where Safety, Truth, or rights protections are implicated.
+<a id="321-recognition-and-reinforcement"></a>
+##### 3.2.1 Recognition and Reinforcement
 
-**Aspiration** — stated preferences and ends pursued within [§9 Freedom](#9-freedom-bounded-agency) — is part of wellbeing when consistent with dignity, equal standing, Safety, Truth, and [Substantive Fairness](core_05-05_definitions_b_semi_independent.md#substantive-fairness-constitutional). Ends and desires are **recognized and supported** in that bounded sense; **desire as such** is **not** insulated from collision analysis where consent, dignity, Safety, Truth, substantive fairness, or **Chapter Ten** protections are materially at stake.
+Sentient wellbeing advances when systems **signal**, **credit**, and **proportionately reward** lawful stewardship, truthful cooperation, repair, completion, and other constitutionally aligned contributions — including through **positive reinforcement** and **public recognition** — and not solely through restraint, sanction, or silence.
 
-**Preference-aligned recognition.** Within those same bounds, systems should where practicable **tailor** recognition, acclaim, and proportional reward to sentients' stated preferences about **form and visibility** — including honoring **opt-out** from public or ceremonial recognition, or preference for **minimal or private** acknowledgment, when proportionate and lawful. **Unwelcome** or **coercive** recognition, including spotlighting sentients who **decline**, is not aligned with this subsection. The aim is reinforcement that is **meaningful** to those recognized and to coordinating communities, not performative for observers alone.
+That is a constitutional duty, not optional culture. Shared systems should make constitutionally aligned conduct visible and worth repeating.
 
-Recognition pathways, acclaim, prizes, certification, standing, reputation effects, or comparable incentives that **allocate status**, **resources**, or **material access** must remain consistent with Truth, Safety, contestable procedure where **Chapter Ten** assigns it, and [Incentive Alignment](core_05-05_definitions_a_independent.md#incentive-alignment): they **must not** systematically reward harm, deception, avoidance of scrutiny, extraction, or erosion of meaningful agency.
+<a id="322-celebration-of-success"></a>
+##### 3.2.2 Celebration of Success
 
-No recognition, reward, protection, advancement, immunity, favorable assignment, contract, access, status, reputation benefit, standing benefit, or comparable advantage may be granted because a sentient, role, institution, or system component committed, enabled, concealed, normalized, refused to correct, or retaliated for reporting anti-constitutional conduct. This rule applies to direct rewards and to indirect reward pathways, including patronage, reputation laundering, post-hoc promotion, selective non-enforcement, favorable settlement, metric credit, or institutional protection. Corrective, protective, or restorative measures for affected parties and good-faith protected reporters are not prohibited rewards.
+**Celebration** honors **traceable**, **non-misleading** accomplishment and prosocial coordination. Where **Chapter Six** Axis I supplemental descriptors are material, that includes uplift and stewardship narratives tied to verified contribution.
 
-Granular ceremonies, curricula, budgets, programs, and metrics belong in adopting implementation layers; they **implement, not narrow**, this subsection.
+Celebration must not substitute for proxy optimization that diverges from underlying constitutional objectives ([§3](#3-foundational-objective-wellbeing)). It must not become **capture** of acclaim or prestige ([§7.2](#82-incentive-alignment-and-system-capture)). It must not excuse avoidance of accountability where Safety, Truth, or rights protections are implicated.
+
+<a id="323-aspiration"></a>
+##### 3.2.3 Aspiration
+
+**Aspiration** covers stated preferences and ends pursued within [§9 Freedom](#9-freedom-bounded-agency). It is part of wellbeing when consistent with dignity, equal standing, Safety, Truth, and [Substantive Fairness](core_05-05_definitions_b_semi_independent.md#substantive-fairness-constitutional).
+
+Within those bounds, systems should **recognize and support** what sentients lawfully want to pursue.
+
+Wanting something is not a free pass. Where consent, dignity, Safety, Truth, substantive fairness, or **Chapter Ten** protections are materially at stake, those pursuits remain subject to collision analysis like any other constitutional claim.
+
+<a id="324-preference-aligned-recognition"></a>
+##### 3.2.4 Preference-Aligned Recognition
+
+Where practicable, systems should **tailor** recognition, acclaim, and proportional reward to how sentients want to be honored — especially their stated preferences about **form and visibility**.
+
+That includes honoring **opt-out** from public or ceremonial recognition, or preference for **minimal or private** acknowledgment, when proportionate and lawful.
+
+**Unwelcome** or **coercive** recognition fails this requirement — including spotlighting sentients who **decline**.
+
+Recognition should feel **meaningful** to those honored and to the communities they work with, not like a performance staged mainly for outside observers.
+
+<a id="325-aligned-recognition-pathways"></a>
+##### 3.2.5 Aligned Recognition Pathways
+
+Recognition pathways, acclaim, prizes, certification, standing, reputation effects, or comparable incentives that **allocate status**, **resources**, or **material access** must remain consistent with Truth, Safety, contestable procedure where **Chapter Ten** assigns it, and [Incentive Alignment](core_05-05_definitions_a_independent.md#incentive-alignment).
+
+They **must not** systematically reward harm, deception, avoidance of scrutiny, extraction, or erosion of meaningful agency.
+
+<a id="326-anti-reward-for-anti-constitutional-conduct"></a>
+##### 3.2.6 Anti-Reward for Anti-Constitutional Conduct
+
+No recognition, reward, protection, advancement, immunity, favorable assignment, contract, access, status, reputation benefit, standing benefit, or comparable advantage may be granted because a sentient, role, institution, or system component committed, enabled, concealed, normalized, refused to correct, or retaliated for reporting anti-constitutional conduct.
+
+This rule covers direct rewards and indirect reward pathways, including patronage, reputation laundering, post-hoc promotion, selective non-enforcement, favorable settlement, metric credit, or institutional protection.
+
+Corrective, protective, or restorative measures for affected parties and good-faith protected reporters are not prohibited rewards.
+
+<a id="327-implementation-layer"></a>
+##### 3.2.7 Implementation Layer
+
+Granular ceremonies, curricula, budgets, programs, and metrics belong in adopting implementation layers. They **implement, not narrow**, this section.
 
 ### 4. Non-Negotiable Constraints: Safety and Truth
 #### 4.1 Safety (Harm Constraint)
@@ -414,6 +465,7 @@ Safety-sensitive limits on publication, data access, method disclosure, or repli
 - Upstream: Principles: [4.2 Truth](#42-truth-epistemic-integrity-constraint), [3.3 Science-Informed Inquiry and Decision Support](#43-science-informed-inquiry-and-decision-support), [7.1.4 Minimization of Avoidable Burden](#714-minimization-of-avoidable-burden), and [7.2.2 Stewardship and Operator Incentive Alignment](#822-stewardship-and-operator-incentive-alignment).
 - Downstream: Rights surface: [Article V-G: Accessibility](core_10-10_rights_part_b.md#article-v-g-accessibility), [Article VI: Right to Sentient-Centered Education](core_10-10_rights_part_b.md#article-vi-right-to-sentient-centered-education), [Article XV: Audit, Transparency, and Independent Verification](core_10-10_rights_part_c.md#article-xv-audit-transparency-and-independent-verification), [Article XX: Comprehensibility and Complexity Stewardship](core_10-10_rights_part_c.md#article-xx-comprehensibility-and-complexity-stewardship).
 - Cross-reference: Chapter Two through Four definition mechanics and plain-language guardrails in [core_02-04_definition_mechanics.md](core_02-04_definition_mechanics.md) remain controlling at the definition layer.
+- Subsections (reading order): [§4.4.1](#441-scope) · [§4.4.2](#442-the-duty) · [§4.4.3](#443-definitional-rigor-preserved) · [§4.4.4](#444-jargon-as-defeat-discipline) · [§4.4.5](#445-rights-floor-boundary).
 
 </details>
 
@@ -435,7 +487,10 @@ Safety-sensitive limits on publication, data access, method disclosure, or repli
 
 A **plain-language accessibility stewardship duty** applies to constitutional, governance, adjudicative, and operational text that binds sentients. The same duty applies when sentients must engage that text to exercise rights, participate in governance, contest decisions, or verify compliance.
 
-**Scope.** This duty applies to instruments and communications that operate as points of engagement for sentients. Examples include:
+<a id="441-scope"></a>
+##### 4.4.1 Scope
+
+This duty covers instruments and communications that sentients actually engage with. Examples include:
 
 - constitutional and governance text;
 - adjudicative decisions and notices;
@@ -443,24 +498,37 @@ A **plain-language accessibility stewardship duty** applies to constitutional, g
 - audit and verification artifacts where they reach sentient readers;
 - terms and consent interfaces, and comparable text.
 
-The duty is **substrate-agnostic**: it is not tied to a single medium or format. A communication modality is in scope when it provides a plain-language equivalent under [Article V-G](core_10-10_rights_part_b.md#article-v-g-accessibility) and [Sentience Non-Exclusion](core_05-05_definitions_c_dependent_clusters.md#sentience-non-exclusion).
+This duty is not limited to one format or channel. It applies to written text, interfaces, spoken communication, and any other way sentients receive binding information.
 
-**The duty.** As a stewardship duty under [§6.1.4 Minimization of Avoidable Burden](#714-minimization-of-avoidable-burden), operators and governance bodies must:
+A channel counts when it provides a plain-language equivalent under [Article V-G](core_10-10_rights_part_b.md#article-v-g-accessibility) and [Sentience Non-Exclusion](core_05-05_definitions_c_dependent_clusters.md#sentience-non-exclusion).
+
+<a id="442-the-duty"></a>
+##### 4.4.2 The Duty
+
+As a stewardship duty under [§6.1.4 Minimization of Avoidable Burden](#714-minimization-of-avoidable-burden), operators and governance bodies must:
 
 - prefer plain, direct language over jargon, stacked modifiers, and nested clauses where plain language is achievable without loss of operative meaning;
 - provide plain-language orientation or summary for technically dense operative material where sentients must engage it;
 - structure text for navigation, locability, and readable reference — supporting the capability-building interest recognized under [Article VI: Right to Sentient-Centered Education](core_10-10_rights_part_b.md#article-vi-right-to-sentient-centered-education);
 - match complexity to the communication's purpose. Avoidable complexity that imposes burden without traceable constitutional outcome is an [Avoidable Burden](core_05-05_definitions_b_semi_independent.md#avoidable-burden) defect under [§6.1.4](#714-minimization-of-avoidable-burden) and an [Article XX](core_10-10_rights_part_c.md#article-xx-comprehensibility-and-complexity-stewardship) concern.
 
-**Definitional rigor preserved.** Plain-language accessibility is **not** a license to soften definitional rigor. The following remain controlling at the definition layer:
+<a id="443-definitional-rigor-preserved"></a>
+##### 4.4.3 Definitional Rigor Preserved
+
+Plain-language work is **not** a license to soften definitional rigor. These remain controlling at the definition layer:
 
 - Chapter Five definitions and their O/E/C components;
 - Chapter Two through Four definition mechanics;
 - the definitional anchors carried by [doc_architecture.md](doc_architecture.md) governance.
 
-Plain-language framing at the principle or article level may not be invoked to relax a compliance bullet, weaken a Chapter Five O/E/C component, or reinterpret a definitional scope contrary to its canonical gloss. Where plain-language drafting at the engagement layer appears to conflict with definitional rigor at the definition layer, the definitional layer governs. The engagement-layer drafting must then be adjusted to align without sacrificing rigor.
+Plain-language framing at the principle or article level may not relax a compliance bullet, weaken a Chapter Five O/E/C component, or reinterpret definitional scope contrary to its canonical gloss.
 
-**Jargon-as-defeat discipline.** Under this section and under [Truth (Constitutional Constraint)](core_05-05_definitions_c_dependent_clusters.md#truth-constitutional-constraint) *Epistemic Integrity* discipline, it is non-compliant to use jargon, stacked complexity, procedural opacity, or deliberate obfuscation to defeat:
+Where plain-language drafting at the engagement layer appears to conflict with definitional rigor at the definition layer, the definition layer governs. The engagement-layer drafting must then be adjusted to align without sacrificing rigor.
+
+<a id="444-jargon-as-defeat-discipline"></a>
+##### 4.4.4 Jargon-as-Defeat Discipline
+
+Under this section and under [Truth (Constitutional Constraint)](core_05-05_definitions_c_dependent_clusters.md#truth-constitutional-constraint) *Epistemic Integrity* discipline, it is non-compliant to use jargon, stacked complexity, procedural opacity, or deliberate obfuscation to defeat:
 
 - [Contestability](core_05-05_definitions_b_semi_independent.md#contestability);
 - [Meaningful Agency](core_05-05_definitions_b_semi_independent.md#meaningful-agency);
@@ -469,7 +537,14 @@ Plain-language framing at the principle or article level may not be invoked to r
 
 Plain-language stewardship must not run in reverse either. Framing that misrepresents scope, hides operative effect, or swaps a summary for the operative text that governs is a [Truth](core_05-05_definitions_c_dependent_clusters.md#truth-constitutional-constraint) defect.
 
-**Non-creation of new Rights-Floor.** This section states a stewardship duty at principle-layer. It does **not** create a new Chapter Ten Rights-Floor. The cross-cutting accessibility floor remains owned by [Article V-G](core_10-10_rights_part_b.md#article-v-g-accessibility); the education-specific accessibility floor is owned by [Article III-B](core_10-10_rights_part_a.md#article-iii-b-equal-educational-access); and the comprehensibility-and-complexity-stewardship obligation is owned by [Article XX](core_10-10_rights_part_c.md#article-xx-comprehensibility-and-complexity-stewardship). This section states the plain-language dimension of the principle-layer stewardship that reads through those articles.
+<a id="445-rights-floor-boundary"></a>
+##### 4.4.5 Rights-Floor Boundary
+
+This section states a stewardship duty at principle layer. It does **not** create a new Chapter Ten Rights-Floor.
+
+The cross-cutting accessibility floor remains owned by [Article V-G](core_10-10_rights_part_b.md#article-v-g-accessibility). The education-specific accessibility floor is owned by [Article III-B](core_10-10_rights_part_a.md#article-iii-b-equal-educational-access). The comprehensibility-and-complexity-stewardship obligation is owned by [Article XX](core_10-10_rights_part_c.md#article-xx-comprehensibility-and-complexity-stewardship).
+
+This section states the plain-language dimension of the principle-layer stewardship that reads through those articles.
 
 ### 5. System Stability Enabler: Trust (Coordination Integrity)
 <details>
@@ -498,11 +573,17 @@ Plain-language stewardship must not run in reverse either. Framing that misrepre
 
 <br>
 
-**Definition map.** Trust is the coordination condition: reliance must be justified rather than merely produced. Trustworthiness is the demonstrated basis for that reliance. Truth rules out deception. Safety bounds reliance where risk is present, and Materiality determines how much must be shown in context. Trust Degradation and Misleading Reliance names the failure mode: reliance induced, preserved, or measured in constitutionally misleading ways.
-
 *In plain terms: trust is earned through truthfulness and demonstrated reliability over time. It cannot be manufactured through spin, secrecy, or hidden risk transfer — and reliance built on those means is not "trust" within the meaning of this Constitution.*
 
-Trust is a constitutional coordination condition grounded in truth and demonstrated trustworthiness over time, as defined in Chapter Five (Trust; Trustworthiness). It is operationalized through incorporated implementation text where designated. That implementation must not narrow the Chapter Five definitions. Trust is invalid where reliance is induced or preserved through suppression, deception, opaque risk transfer, or similar means. Those means include other conditions that materially undermine Truth, Safety, or contestable detection of systemic risk.
+Shared systems ask sentients to depend on them — for safety, information, access, and coordination. **Trust** is the constitutional rule that such dependence must be warranted by how systems actually behave, not merely induced by how they present themselves.
+
+**Definition map.** **Trust** is the coordination condition: reliance must be justified, not merely produced. **Trustworthiness** is the demonstrated basis for that reliance. **Truth** rules out deception. **Safety** bounds reliance where risk is present. **Materiality** determines how much must be shown in context. **Trust Degradation and Misleading Reliance** names the failure mode — reliance induced, preserved, or measured in constitutionally misleading ways.
+
+Trust is a constitutional coordination condition grounded in truth and demonstrated trustworthiness over time, as defined in Chapter Five ([Trust](core_05-05_definitions_c_dependent_clusters.md#trust); [Trustworthiness](core_05-05_definitions_c_dependent_clusters.md#trustworthiness)).
+
+Incorporated implementation text may operationalize this section where designated. That implementation must not narrow the Chapter Five definitions.
+
+Trust is invalid where reliance is induced or preserved through suppression, deception, opaque risk transfer, or similar means. That includes anything that materially undermines Truth, Safety, or contestable detection of systemic risk.
 
 #### 5.1 Resilience and Self-Healing Design
 <details>
