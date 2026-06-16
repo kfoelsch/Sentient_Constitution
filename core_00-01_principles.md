@@ -911,11 +911,13 @@ Adopter-tunable ceilings may vary by domain and jurisdiction, but they may not b
 
 <br>
 
-Strategic Stewardship Obligation, Meaningful Agency, Auditability, and Contestability state the stewardship function. Educational Agency and Transparency state the distributed-understanding function that stewardship must produce. Review and correction remain necessary backstops, but they do not replace proactive system design and constitutional alignment. Together they advance the [Two Constitutional Aims](#two-constitutional-aims) through the [Constitutional Triad](#constitutional-triad) **participation** and **oversight** legs at principle layer, scaled to [material stake](#material-stake).
+*In plain terms: systems that affect people's lives should not be run only by a sealed-off priesthood of specialists. Sentients need real paths to help operate, maintain, oversee, and improve them — and enough understanding to notice problems and push back. **§7.1–§7.5** carry that discipline: hands-on stewardship, understanding scaled to how much you depend on a system, institutional learning habits, an openness aspiration when safety allows, and clear limits so this section does not override safety, truth, justified secrecy, or the specific rights guaranteed in Chapter Ten.*
 
-Materiality, Dependency, and Accessibility govern evidence, scaling, and actual access. Safety, Truth, Necessity, Proportionality, Avoidable Burden, and Epistemic Integrity bound the duty so stewardship, understanding, and openness remain proportionate, truthful, and security-aware.
+Stewardship requires real responsibility with genuine effect — [**Strategic Stewardship Obligation**](core_05-05_definitions_b_semi_independent.md#strategic-stewardship-obligation-constitutional), [**Meaningful Agency**](core_05-05_definitions_b_semi_independent.md#meaningful-agency) — and records and pathways others can verify and challenge — [**Auditability**](core_05-05_definitions_c_dependent_clusters.md#auditability), [**Contestability**](core_05-05_definitions_b_semi_independent.md#contestability). Distributed understanding requires workable ways to learn how shared systems operate and what they are doing — [**Educational Agency**](core_05-05_definitions_c_dependent_clusters.md#educational-agency), [**Transparency**](core_05-05_definitions_c_dependent_clusters.md#transparency). Together they carry the [Constitutional Triad](#constitutional-triad) **participation** and **oversight** legs at principle layer, scaled to [material stake](#material-stake), and advance the [Two Constitutional Aims](#two-constitutional-aims).
 
-*In plain terms: sentients need real paths into operating, maintaining, overseeing, and improving systems where safety allows. Without those paths, expertise and repair capacity disappear behind a wall of specialists. Good stewardship then produces distributed understanding: workable ways to see what is happening, what tradeoffs are in play, and how to challenge mistakes without requiring every sentient to master every technical detail. Where compatible with safety, truth, and justified confidentiality, systems should prefer open, inspectable designs and clear, sentient-understandable explanations of what matters.*
+**Materiality**, **Dependency**, and **Accessibility** govern how much understanding and access must scale. **Safety**, **Truth**, **Necessity**, **Proportionality**, **Avoidable Burden**, and **Epistemic Integrity** bound the duty so stewardship, understanding, and openness stay proportionate, honest, and security-aware.
+
+Review and correction remain mandatory backstops. They do not replace proactive design, role pathways, observability, and repair capacity that prevent foreseeable constitutional misalignment before harm appears.
 
 <a id="522-stewardship"></a>
 #### 7.1 Stewardship
@@ -938,7 +940,9 @@ Materiality, Dependency, and Accessibility govern evidence, scaling, and actual 
 
 <br>
 
-**Stewardship**, in **§7**, includes consequential participation in operation, maintenance, oversight, and improvement — the [Constitutional Triad](#constitutional-triad) **participation** and **oversight** legs made operational. It means hands-on engagement with the problems systems actually face, not ceremony or nominal consultation alone.
+*In plain terms: stewardship means doing real work on systems that affect people's lives — not token consultation or advisory theater. You can start in a learning role and move into operations over time when safety and consent allow, so expertise does not get locked inside a permanent elite. Good stewards build the docs, training paths, feedback loops, and repair habits that let others see what is going on and challenge mistakes. Fix problems before they blow up when you can; when harm happens anyway, correction is still mandatory — but cleanup alone does not excuse bad design.*
+
+**Stewardship**, in **§7**, is consequential participation in operation, maintenance, oversight, and improvement — the [Constitutional Triad](#constitutional-triad) **participation** and **oversight** legs made operational. It means hands-on engagement with the problems systems actually face, not ceremony or nominal consultation alone.
 
 Pathways may separate **learning-dominant** and **operations-dominant** roles. The constitutional requirement is that **movement between those modes remains feasible over time** where impact, safety, and consent constraints permit, so judgment and institutional memory do not concentrate beyond reach of affected communities.
 
@@ -970,6 +974,8 @@ Stewardship favors proactive governance, system design, and constitutional align
 
 <br>
 
+*In plain terms: you should not need a PhD in every subsystem to live safely inside shared systems — but the more a system affects your life, the more you should be able to learn what it does, what could go wrong, and how to challenge bad calls. Transparency, education, plain explanations, and audit paths are how that happens. Complexity is not an excuse to hide what matters.*
+
 **Distributed understanding** is the result good stewardship must produce. It requires proportionate, structured access to how shared systems that materially affect sentients operate: their purposes, constraints, uncertainties, and materially relevant effects. That access supports the [Constitutional Triad](#constitutional-triad) **oversight** leg and may be supplied through [Transparency](core_05-05_definitions_c_dependent_clusters.md#transparency), education, documentation, and comprehensibility stewardship.
 
 Distributed understanding does **not** require every sentient to master every subsystem. It **does** require that understanding scales with [Materiality](core_05-05_definitions_b_semi_independent.md#materiality-determination) and [Dependency](core_05-05_definitions_a_independent.md#dependency). Complexity and opacity must not be used to defeat [Meaningful Agency](core_05-05_definitions_b_semi_independent.md#meaningful-agency) or contestability where **Chapter Five** and **Chapter Ten** assign disclosure, education, or comprehensibility duties.
@@ -994,6 +1000,8 @@ Distributed understanding does **not** require every sentient to master every su
 </details>
 
 <br>
+
+*In plain terms: institutions have to actually learn — not just upgrade software while the people in charge stay clueless. That means feedback loops, documented fixes when things drift, and keeping competence from walking out the door. Tracking how performance varies over time can help, but numbers alone do not count: when indicators look wrong, someone has to investigate and fix the root cause. Dashboards must be honest, scaled to real impact, and written so affected people can understand them — not gamed to look good while nothing changes.*
 
 **Institutional development** is the paired obligation that organizations and shared systems **learn** — a core requirement of the **Continuity** aim under the [Two Constitutional Aims](#two-constitutional-aims): feedback loops, documented correction, strategy alignment, and retention of competence that support repair and adaptation. It is not satisfied by upgrading technical artifacts while leaving governance and workforce understanding static. It reads together with [Strategic Stewardship Obligation](core_05-05_definitions_b_semi_independent.md#strategic-stewardship-obligation-constitutional) and [Auditability](core_05-05_definitions_c_dependent_clusters.md#auditability) where materially relevant.
 
@@ -1021,6 +1029,8 @@ That discipline must be scaled to [Materiality](core_05-05_definitions_b_semi_in
 </details>
 
 <br>
+
+*In plain terms: when safety, truth, and legitimate confidentiality allow, shared systems should default toward openness — inspectable tech, transparent processes, and designs you can verify, repair, or leave — instead of opaque lock-in. What matters should be explained in language people can actually use to participate and push back. Openness never outranks safety, honesty, or justified secrets, and it does not replace the deeper understanding owed where dependence is high.*
 
 **Openness aspiration.** Shared systems should **aspire** — consistent with [§7.1](#71-stewardship) through [§7.3](#73-institutional-development) and with [§7.5](#75-bounds-and-rights-floor-disclaimer) — to **open** hardware and software, **open** operational and governance processes, and interoperable **systems** that support inspection, independent verification, repair, and contestability under the [Constitutional Triad](#constitutional-triad), rather than opaque lock-in by default.
 
@@ -1051,7 +1061,9 @@ This does **not** elevate openness above **Safety**, **Truth**, justified confid
 
 <br>
 
-**§7** is bounded by **Safety**, **Truth**, [Necessity](core_05-05_definitions_a_independent.md#necessity), [Proportionality](core_05-05_definitions_a_independent.md#proportionality), and [Avoidable Burden](core_05-05_definitions_b_semi_independent.md#avoidable-burden). It does **not** impose uniform mandatory rotation, disregard specialization where justified, or require exposure that would violate justified confidentiality or security constraints consistent with **Chapter One**, section 7.2 — Epistemic Disclosure Constraints and applicable **Chapter Ten** protections.
+*In plain terms: this section sets direction, not a one-size-fits-all rulebook. It does not require everyone to rotate through every job, ignore real specialization, or blow past justified confidentiality or security limits. It also does not invent new rights on its own — education, participation, transparency, and related floors still belong to the Chapter Ten articles that own them.*
+
+**§7** is bounded by **Safety**, **Truth**, [Necessity](core_05-05_definitions_a_independent.md#necessity), [Proportionality](core_05-05_definitions_a_independent.md#proportionality), and [Avoidable Burden](core_05-05_definitions_b_semi_independent.md#avoidable-burden). It does **not** impose uniform mandatory rotation, disregard specialization where justified, or require exposure that would violate justified confidentiality or security constraints consistent with [8.2 Epistemic Disclosure Constraints](#82-epistemic-disclosure-constraints) and applicable **Chapter Ten** protections.
 
 **Non-creation of new Rights-Floor.** **§7** states principle-layer discipline. It does **not** create a new **Chapter Ten** Rights-Floor. The education, participation, transparency, comprehensibility, and governance-process floors remain owned by the articles cited in the **§7** parent trace block and by **Chapter Ten** where designated.
 
@@ -1078,34 +1090,33 @@ This does **not** elevate openness above **Safety**, **Truth**, justified confid
 
 <br>
 
-*In plain terms: when values collide, Safety and Truth come first. The rest must be resolved through the tradeoff and rights-collision rules in this section — not by treating one value as a trump card, and not by letting many small decisions combine into a result the Constitution would reject.*
+*In plain terms: values and rights will collide — **Safety** and **Truth** come first. After that, limits must be proportionate, necessary, harm-minimizing, and as light as possible. Truth cannot be hidden for comfort; freedom cannot be cut without cause; rights conflicts need a documented decision test; and metrics that lie about compliance do not count. **§8.1–§8.4** carry the tradeoff rules, disclosure limits, freedom boundaries, and rights-collision procedure.*
 
-Non-negotiable constraints (Safety and Truth) take precedence over other values where conflicts cannot be resolved without violation.
+**Safety** and **Truth** take precedence where conflicts cannot be resolved without violating them.
 
-Tradeoffs among other values must preserve the [Constitutional Triad](#constitutional-triad) — **oversight**, **participation**, and **accountability** scaled to [material stake](#material-stake) — not weaken it as the price of resolution.
+Other tradeoffs must preserve the [Constitutional Triad](#constitutional-triad) — **oversight**, **participation**, and **accountability** scaled to [material stake](#material-stake) — not weaken it to buy an easy resolution.
 
-Repeated or aggregated decisions that individually satisfy these constraints must not, in combination, produce outcomes that would violate them when evaluated collectively. Where values or constraints otherwise interact or conflict, systems must resolve them under the following principles:
+Many small decisions that each look fine may still combine into an outcome this Constitution rejects. Where values or constraints conflict, systems must resolve them under **§8.1** through **§8.4**.
 
+<a id="81-core-tradeoff-principles"></a>
 #### 8.1 Core Tradeoff Principles
-##### 8.1.1 Proportionality
 
-**How to read the index:** The linked terms are one stack, not seven independent rules. **Proportionality** and **Risk** state the baseline fit between constraints and harms. **Irreversible Harm**, **Existential Risk**, **Systemic Lock-In**, and **Reversibility** mark where scrutiny and reversibility requirements rise. **Dependency** captures exposure and concentration that matter for escalation. The operative text below follows that sequence.
+*In plain terms: when you have to limit something, match the remedy to the problem — use the lightest step that still works, choose the least harmful option, and waste the least sentient time once Safety, Truth, and rights are already satisfied. The bar rises fast when harm could be irreversible or could lock systems in.*
+
+**How to read the stack:** [§8.1.1](#811-proportionality) through [§8.1.4](#814-minimization-of-avoidable-burden) are one sequence, not four independent rules. Apply them in order:
+- **[§8.1.1 Proportionality](#811-proportionality)** — limits on rights, freedoms, and other constitutional protections must match the size and likelihood of the harm addressed; scrutiny and reversibility requirements rise where risk is irreversible, could lock systems in, or could threaten recovery capacity.
+- **[§8.1.2 Necessity](#812-necessity)** — use the least-restrictive option that still works.
+- **[§8.1.3 Minimization of Harm](#813-minimization-of-harm)** — when tradeoffs are unavoidable, choose the path of least total harm across sentients, systems, and time.
+- **[§8.1.4 Minimization of Avoidable Burden](#814-minimization-of-avoidable-burden)** — only after Safety, Truth, rights, and §8.1.1–§8.1.3 are satisfied, prefer the option that wastes the least sentient time, attention, and effort.
+
+<a id="811-proportionality"></a>
+##### 8.1.1 Proportionality
 
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
 
 - [Proportionality](core_05-05_definitions_a_independent.md#proportionality) · [O](core_05-05_definitions_a_independent.md#proportionality) · [E](core_05-05_definitions_a_independent.md#proportionality-e) · [C](core_05-05_definitions_a_independent.md#proportionality-c)
 - [Risk](core_05-05_definitions_a_independent.md#risk) · [O](core_05-05_definitions_a_independent.md#risk) · [E](core_05-05_definitions_a_independent.md#risk-e) · [C](core_05-05_definitions_a_independent.md#risk-c)
-
-</details>
-
-<br>
-
-*Heightened-risk and exposure terms (open for full O / E / C facets in Chapter Five):*
-
-<details>
-<summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
-
 - [Irreversible Harm](core_05-05_definitions_c_dependent_clusters.md#irreversible-harm) · [O](core_05-05_definitions_c_dependent_clusters.md#irreversible-harm) · [E](core_05-05_definitions_c_dependent_clusters.md#irreversible-harm-e) · [C](core_05-05_definitions_c_dependent_clusters.md#irreversible-harm-c)
 - [Existential Risk](core_05-05_definitions_a_independent.md#existential-risk) · [O](core_05-05_definitions_a_independent.md#existential-risk) · [E](core_05-05_definitions_a_independent.md#existential-risk-e) · [C](core_05-05_definitions_a_independent.md#existential-risk-c)
 - [Systemic Lock-In](core_05-05_definitions_b_semi_independent.md#systemic-lock-in) · [O](core_05-05_definitions_b_semi_independent.md#systemic-lock-in) · [E](core_05-05_definitions_b_semi_independent.md#systemic-lock-in-e) · [C](core_05-05_definitions_b_semi_independent.md#systemic-lock-in-c)
@@ -1116,9 +1127,9 @@ Repeated or aggregated decisions that individually satisfy these constraints mus
 
 <br>
 
-*In plain terms: any action that limits a value must match the size and likelihood of the harm it addresses. The bar rises sharply where the risk is irreversible, could lock systems in, or could threaten recovery capacity.*
+*In plain terms: when a system must narrow a **right**, **freedom**, or other **constitutional protection** to stop harm or systemic risk, the narrowing must fit the problem — not wider or longer than the harm's size and likelihood justify. This applies in tradeoffs among rights and values **after** **Safety** and **Truth** are satisfied. The bar rises sharply where the risk is irreversible, could lock systems in, or could threaten recovery capacity.*
 
-Actions that constrain any value must be proportionate to the magnitude and likelihood of the harm or systemic impact being addressed.
+Limitations on constitutional **values** — including **Chapter Ten** Rights-Floor protections and other principles and protections subject to tradeoff under [§8](#8-interaction-and-conflict-resolution) — must be proportionate to the magnitude and likelihood of the **harm** or **systemic impact** legitimately addressed, consistent with [Proportionality](core_05-05_definitions_a_independent.md#proportionality) in **Chapter Five**.
 
 No system may be governed at a level lower than that required by its highest applicable classification.
 
@@ -1130,12 +1141,16 @@ Escalation of these thresholds is required where materially relevant indicators 
 
 Those indicators include irreversibility exposure, concentrated dependency, high-consequence tail risk, plausible systemic lock-in, or Existential Risk.
 
+<a id="812-necessity"></a>
 ##### 8.1.2 Necessity
 
 <strong><span style="color: #2563eb;">Definition:</span></strong> [Necessity](core_05-05_definitions_a_independent.md#necessity) · [O](core_05-05_definitions_a_independent.md#necessity) · [E](core_05-05_definitions_a_independent.md#necessity-e) · [C](core_05-05_definitions_a_independent.md#necessity-c)
 
+*In plain terms: do not use a heavy restriction when a lighter one would work just as well.*
+
 Constraints may be imposed only when no less-restrictive, reasonably effective alternative exists.
 
+<a id="813-minimization-of-harm"></a>
 ##### 8.1.3 Minimization of Harm
 
 <details>
@@ -1148,8 +1163,11 @@ Constraints may be imposed only when no less-restrictive, reasonably effective a
 
 <br>
 
+*In plain terms: when you must trade one harm against another, pick the path that does the least total harm — across everyone affected and across time, not just here and now.*
+
 Where tradeoffs are required, systems must choose the option that minimizes total harm across sentients, systems, and time horizons.
 
+<a id="814-minimization-of-avoidable-burden"></a>
 ##### 8.1.4 Minimization of Avoidable Burden
 
 <details>
@@ -1167,7 +1185,7 @@ Where tradeoffs are required, systems must choose the option that minimizes tota
 
 *In plain terms: once an option satisfies Safety, Truth, rights, and the other tradeoff rules, pick the one that wastes the least sentient time, attention, and effort. Rights-protective process is not waste — but unjustified red tape is, and convenience or inertia cannot sustain it.*
 
-Where multiple options satisfy Safety, Truth, the Rights Floor in **Chapter Ten**, sections 6.1.1 through 6.1.3, and the other applicable constraints in this Constitution, systems must prefer the option that imposes the **least avoidable burden** on sentient time, attention, effort, and shared resources.
+Where multiple options satisfy Safety, Truth, the Rights Floor in **Chapter Ten**, [§8.1.1](#811-proportionality) through [§8.1.3](#813-minimization-of-harm), and the other applicable constraints in this Constitution, systems must prefer the option that imposes the **least avoidable burden** on sentient time, attention, effort, and shared resources.
 
 For this subsection:
 - **Avoidable burden** is process, compliance, coordination, or implementation cost that is not traceable to a constitutional outcome under **Proportionality** and **Necessity**, and that is not required by a Rights-Floor protection, a Safety obligation, or a Truth obligation.
@@ -1175,21 +1193,61 @@ For this subsection:
 
 This subsection:
 - operates **only within** the set of options that already satisfy Safety, Truth, the Rights Floor, and the other tradeoff principles. It does **not** authorize reducing burden by weakening those protections.
-- pairs with **Least-Restrictive Effective Selection** in section 7.4.1. Where this subsection applies, the selected action should be both the least-restrictive and the least-burdensome effective option.
+- pairs with **Least-Restrictive Effective Selection** in [§8.4.1](#841-rights-collision-decision-test). Where this subsection applies, the selected action should be both the least-restrictive and the least-burdensome effective option.
 - treats over-process, over-restriction, and over-burden without traceable constitutional benefit as constitutional defects. Such defects are reviewable under **Chapter Six** and correctable under **Chapter Four** tracing discipline.
 
-Claims that a given burden is constitutionally required must satisfy **Chapter Four** evidentiary and traceability requirements. Convenience, institutional inertia, tradition, or preference alone are not sufficient to sustain a burden that lacks traceable constitutional outcome, consistent with section 7.4.1.
+Claims that a given burden is constitutionally required must satisfy **Chapter Four** evidentiary and traceability requirements. Convenience, institutional inertia, tradition, or preference alone are not sufficient to sustain a burden that lacks traceable constitutional outcome, consistent with [§8.4.1](#841-rights-collision-decision-test).
 
-Where incentive structures act on stewards or operators, this subsection reinforces section 7.2.2. Stewardship incentives must not reward unnecessary burden creation any more than they may reward raw throughput.
+Where incentive structures act on stewards or operators, this subsection reinforces [§9.2.2 Stewardship and Operator Incentive Alignment](#922-stewardship-and-operator-incentive-alignment). Stewardship incentives must not reward unnecessary burden creation any more than they may reward raw throughput.
 
+<a id="82-epistemic-disclosure-constraints"></a>
 #### 8.2 Epistemic Disclosure Constraints
-##### 8.2.1 Preservation of Epistemic Integrity
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Read with: [Constitutional Triad](#constitutional-triad) — **oversight** leg (disclosure limits must preserve maximum feasible scrutiny); **participation** leg (informed contestability under limits); [material stake](#material-stake) scaling.
+- Upstream: Principles: [4.1 Safety](#41-safety-harm-constraint), [4.2 Truth](#42-truth-epistemic-integrity-constraint), [5. Trust](#5-system-stability-enabler-trust-coordination-integrity), and [§8 Interaction and Conflict Resolution](#8-interaction-and-conflict-resolution).
+- Downstream: [§8.2.1 Preservation of Epistemic Integrity](#821-preservation-of-epistemic-integrity), [§8.2.2 Trust-Truth Alignment](#822-trust-truth-alignment), and [11. Prohibition on Absolute Override](#11-prohibition-on-absolute-override).
+- Downstream: Protects the rights surface for info-sphere integrity, auditability, retrospective review, and informed contestability when disclosure is limited; especially [Article XIV: Info-Sphere Integrity](core_10-10_rights_part_c.md#article-xiv-info-sphere-integrity), [Article XV: Audit, Transparency, and Independent Verification](core_10-10_rights_part_c.md#article-xv-audit-transparency-and-independent-verification), [Article XXII: Constitutional Interpretation, Review, and Anti-Capture Safeguards](core_10-10_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards), and [Article XXIII-E: Retrospective Review and Disclosure](core_10-10_rights_part_d.md#article-xxiii-e-retrospective-review-and-disclosure), plus any rights context where disclosure limits affect contestability or informed participation.
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
+
+- [Epistemic Integrity](core_05-05_definitions_c_dependent_clusters.md#epistemic-integrity) · [O](core_05-05_definitions_c_dependent_clusters.md#epistemic-integrity-o) · [E](core_05-05_definitions_c_dependent_clusters.md#epistemic-integrity-e) · [C](core_05-05_definitions_c_dependent_clusters.md#epistemic-integrity-c)
+- [Truth (Constitutional Constraint)](core_05-05_definitions_c_dependent_clusters.md#truth-constitutional-constraint) · [O](core_05-05_definitions_c_dependent_clusters.md#truth-constitutional-constraint-o) · [E](core_05-05_definitions_c_dependent_clusters.md#truth-constitutional-constraint-e) · [C](core_05-05_definitions_c_dependent_clusters.md#truth-constitutional-constraint-c)
+- [Trust](core_05-05_definitions_c_dependent_clusters.md#trust) · [O](core_05-05_definitions_c_dependent_clusters.md#trust) · [E](core_05-05_definitions_c_dependent_clusters.md#trust-e) · [C](core_05-05_definitions_c_dependent_clusters.md#trust-c)
+- [Materiality](core_05-05_definitions_b_semi_independent.md#materiality-determination) · [O](core_05-05_definitions_b_semi_independent.md#materiality-determination) · [E](core_05-05_definitions_b_semi_independent.md#materiality-determination-e) · [C](core_05-05_definitions_b_semi_independent.md#materiality-determination-c)
+- [Foreseeability](core_05-05_definitions_c_dependent_clusters.md#foreseeability-diligence) · [O](core_05-05_definitions_c_dependent_clusters.md#foreseeability-diligence) · [E](core_05-05_definitions_c_dependent_clusters.md#foreseeability-diligence-e) · [C](core_05-05_definitions_c_dependent_clusters.md#foreseeability-diligence-c)
+- [Necessity](core_05-05_definitions_a_independent.md#necessity) · [O](core_05-05_definitions_a_independent.md#necessity) · [E](core_05-05_definitions_a_independent.md#necessity-e) · [C](core_05-05_definitions_a_independent.md#necessity-c)
+- [Proportionality](core_05-05_definitions_a_independent.md#proportionality) · [O](core_05-05_definitions_a_independent.md#proportionality) · [E](core_05-05_definitions_a_independent.md#proportionality-e) · [C](core_05-05_definitions_a_independent.md#proportionality-c)
+
+</details>
+
+<br>
+
+*In plain terms: limits on what people can know are the exception, not the default. When disclosure could directly cause serious harm and nothing lighter will do, restrict as little as possible, for as short as possible, on the record — and release information once the danger passes. Hiding problems to keep people calm is not allowed.*
+
+**Epistemic disclosure constraints** govern conflicts between **Truth**, transparency duties, and **Safety** when immediate or full disclosure would directly and materially enable harm. **[§8.2.1](#821-preservation-of-epistemic-integrity)** states when justified limits on disclosure are permitted. **[§8.2.2](#822-trust-truth-alignment)** states that **Trust** may not be preserved through deception or suppression of truth.
+
+This section distinguishes three patterns:
+- **Distortion or suppression of truth** for stability, convenience, trust-preservation, or institutional advantage — **not permitted**.
+- **Delayed disclosure** and **limited disclosure** — permitted only where [§8.2.1](#821-preservation-of-epistemic-integrity) conditions are met, under [Necessity](core_05-05_definitions_a_independent.md#necessity) and [Proportionality](core_05-05_definitions_a_independent.md#proportionality), and with maximum feasible [Epistemic Integrity](core_05-05_definitions_c_dependent_clusters.md#epistemic-integrity).
+
+Any justified limit must preserve the [Constitutional Triad](#constitutional-triad) **oversight** leg through protected records, independent review, secure access, redaction, delayed release, or comparable safeguards. It must **not** defeat informed [contestability](core_05-05_definitions_b_semi_independent.md#contestability) or applicable **Chapter Ten** transparency, audit, or review duties except as [§8.2.1](#821-preservation-of-epistemic-integrity) expressly permits.
+
+Safety-sensitive limits on publication, data access, method disclosure, or replication materials are governed here and under [§4.3 Science-Informed Inquiry and Decision Support](#43-science-informed-inquiry-and-decision-support). Such limits must **not** become a means to suppress unfavorable evidence, hide safety defects, or manufacture apparent consensus.
+
+<a id="821-preservation-of-epistemic-integrity"></a>
+##### 8.2.1 Preservation of Epistemic Integrity
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Upstream: [§8.2 Epistemic Disclosure Constraints](#82-epistemic-disclosure-constraints) (parent, including *In plain terms* and operative text above).
+- Read with: [Constitutional Triad](#constitutional-triad) — **oversight** leg (disclosure limits must preserve maximum feasible scrutiny); **participation** leg (informed contestability under limits); [material stake](#material-stake) scaling.
 - Upstream: Principles: [4.1 Safety](#41-safety-harm-constraint), [4.2 Truth](#42-truth-epistemic-integrity-constraint), [5. Trust](#5-system-stability-enabler-trust-coordination-integrity), and [8. Interaction and Conflict Resolution](#8-interaction-and-conflict-resolution).
-- Downstream: [7.2.2 Trust-Truth Alignment](#822-trust-truth-alignment) and [11. Prohibition on Absolute Override](#11-prohibition-on-absolute-override).
+- Downstream: [§8.2.2 Trust-Truth Alignment](#822-trust-truth-alignment) and [11. Prohibition on Absolute Override](#11-prohibition-on-absolute-override).
 - Downstream: Protects the rights surface for info-sphere integrity, auditability, retrospective review, and informed contestability when disclosure is limited; especially [Article XIV: Info-Sphere Integrity](core_10-10_rights_part_c.md#article-xiv-info-sphere-integrity), [Article XV: Audit, Transparency, and Independent Verification](core_10-10_rights_part_c.md#article-xv-audit-transparency-and-independent-verification), [Article XXII: Constitutional Interpretation, Review, and Anti-Capture Safeguards](core_10-10_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards), and [Article XXIII-E: Retrospective Review and Disclosure](core_10-10_rights_part_d.md#article-xxiii-e-retrospective-review-and-disclosure), plus any rights context where disclosure limits affect contestability or informed participation.
 
 </details>
@@ -1211,19 +1269,23 @@ Where incentive structures act on stewards or operators, this subsection reinfor
 *In plain terms: truth may be withheld or delayed only where disclosure would directly enable foreseeable harm and no lesser alternative exists. Every such restriction must be narrow, time-bound, audited, and disclosed once the conditions justifying it no longer apply.*
 
 Truth must not be suppressed or distorted except where:
-- its disclosure would directly and materially enable imminent or reasonably foreseeable harm, including systemic or cascading risk
-- no less-restrictive mitigation is available
+- its disclosure would **directly and materially** enable imminent or reasonably foreseeable harm, including systemic or cascading risk
+- **no less-restrictive mitigation** is available
 
-Such restrictions must be:
-- narrowly scoped
-- time-limited
-- subject to audit and review
+Such restrictions must be **narrowly scoped**, **time-limited**, and **subject to audit and review**.
 
-Where transparency conflicts with Safety constraints, disclosure must be limited in accordance with the above while preserving maximum possible epistemic integrity.
+Where transparency conflicts with Safety constraints, disclosure must be limited in accordance with the above while preserving **maximum possible epistemic integrity**.
 
-All restrictions on disclosure must include provisions for retrospective audit and, where feasible, eventual disclosure once the conditions justifying restriction no longer apply.
+All restrictions on disclosure must include provisions for **retrospective audit** and, where feasible, **eventual disclosure** once the conditions justifying restriction no longer apply.
 
+<a id="822-trust-truth-alignment"></a>
 ##### 8.2.2 Trust-Truth Alignment
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Upstream: [§8.2 Epistemic Disclosure Constraints](#82-epistemic-disclosure-constraints) (parent, including *In plain terms* and operative text above); [§8.2.1 Preservation of Epistemic Integrity](#821-preservation-of-epistemic-integrity).
+
+</details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
@@ -1238,9 +1300,11 @@ All restrictions on disclosure must include provisions for retrospective audit a
 
 *In plain terms: where trust and truth pull in different directions, truth wins. Trust cannot be kept through lies, and disclosure must be managed thoughtfully — not suppressed for stability.*
 
-Trust must not be preserved through deception or suppression of truth. Where tensions arise, systems must maintain epistemic integrity while managing disclosure in a manner that avoids unnecessary destabilization.
+Trust must not be preserved through deception or suppression of truth. Where tensions arise, systems must maintain epistemic integrity while managing disclosure in a manner that avoids **unnecessary** destabilization.
 
 #### 8.3 Freedom-Limitation Constraints
+
+*In plain terms: freedom is bounded, not disposable. It may be limited only to prevent real harm or serious risk — and only as much as necessary, with oversight and a path back where possible. Short-term wins cannot excuse harms that show up later or spill into other systems.*
 ##### 8.3.1 Constraint on Freedom
 
 <details>
@@ -1258,9 +1322,11 @@ Trust must not be preserved through deception or suppression of truth. Where ten
 
 <br>
 
+*In plain terms: do not restrict someone's freedom unless you have to — and then only enough to stop material harm or serious systemic risk, with oversight and reversal where possible.*
+
 Freedom may be limited only where:
-- necessary to prevent material harm or systemic risk
-- such limitation is proportionate, reversible where possible, and subject to oversight
+- necessary to prevent **material harm** or **systemic risk**
+- such limitation is **proportionate**, **reversible where possible**, and **subject to oversight**
 
 ##### 8.3.2 Time-Consistency Constraint
 
@@ -1278,9 +1344,13 @@ Freedom may be limited only where:
 
 *In plain terms: a system cannot pass an evaluation today by ignoring the harms it will foreseeably cause later or elsewhere. Short-term wins do not excuse long-term or cross-system violations.*
 
-Short-horizon optimization is invalid where it foreseeably produces medium- or long-horizon violations of Safety, Truth, or wellbeing constraints. That rule applies under cumulative, delayed, or cross-system conditions.
+Short-horizon optimization is invalid where it foreseeably produces medium- or long-horizon violations of **Safety**, **Truth**, or **wellbeing** constraints. That rule applies under cumulative, delayed, or cross-system conditions.
 
 #### 8.4 Rights-Collision Procedure
+
+*In plain terms: when rights collide, write down what you considered, prove your case at a level that matches the stakes, choose the least restrictive option that still works, and schedule review. Convenience, habit, and optimization preference are not enough — and a metric that no longer measures what it claims cannot prove compliance.*
+
+<a id="841-rights-collision-decision-test"></a>
 ##### 8.4.1 Rights-Collision Decision Test
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
@@ -1312,15 +1382,15 @@ Short-horizon optimization is invalid where it foreseeably produces medium- or l
 
 *In plain terms: when rights or constraints conflict, the decision-maker must document the alternatives considered, meet a burden of proof that scales with the stakes, pick the least-restrictive option that actually works, and set review triggers. Preference, inertia, and convenience are not enough.*
 
-Where constitutional rights, constraints, or protections materially conflict in the same decision context, resolution must follow a documented and auditable rights-collision test. The selected resolution must not contract the [Constitutional Triad](#constitutional-triad) below what [material stake](#material-stake) requires.
+Where constitutional rights, constraints, or protections materially conflict in the same decision context, resolution must follow a **documented and auditable** rights-collision test. The selected resolution must not contract the [Constitutional Triad](#constitutional-triad) below what [material stake](#material-stake) requires.
 
 At minimum, the decision record must include:
-- Alternative Set and Rejection Reasons: materially feasible alternatives considered, including non-action baseline, with explicit reasons for rejection.
-- Risk-Tiered Burden of Proof: burden strength scales with expected harm severity, irreversibility, dependency concentration, and uncertainty. Higher-risk restrictions require stronger evidence and independent scrutiny.
-- Least-Restrictive Effective Selection: selected action must be the least-restrictive feasible option that still achieves constitutionally required safety and integrity outcomes.
-- Time-Limited Restrictions and Re-Evaluation Triggers: where feasible, restrictions must be sunset-bounded. They must be coupled to review and reversal triggers linked to new evidence, changed conditions, or observed divergence from expected outcomes.
+- **Alternative Set and Rejection Reasons:** materially feasible alternatives considered, including non-action baseline, with explicit reasons for rejection.
+- **Risk-Tiered Burden of Proof:** burden strength scales with expected harm severity, irreversibility, dependency concentration, and uncertainty. Higher-risk restrictions require stronger evidence and independent scrutiny.
+- **Least-Restrictive Effective Selection:** selected action must be the least-restrictive feasible option that still achieves constitutionally required safety and integrity outcomes.
+- **Time-Limited Restrictions and Re-Evaluation Triggers:** where feasible, restrictions must be sunset-bounded. They must be coupled to review and reversal triggers linked to new evidence, changed conditions, or observed divergence from expected outcomes.
 
-Convenience, institutional inertia, or optimization preference alone are not sufficient justification for restricting rights where this test applies.
+Convenience, institutional inertia, or optimization preference alone are **not** sufficient justification for restricting rights where this test applies.
 
 ##### 8.4.2 Proxy-Divergence Invalidation
 
@@ -1336,19 +1406,19 @@ Convenience, institutional inertia, or optimization preference alone are not suf
 
 *In plain terms: when a metric drifts from what it was meant to measure, leaning on that metric no longer counts as compliance. The drift must be fixed on the record, with documented escalation and review.*
 
-Where materially relevant evidence indicates proxy divergence from constitutional objectives, compliance claims relying on such proxies are invalid unless corrected.
+Where materially relevant evidence indicates **proxy divergence** from constitutional objectives, compliance claims relying on such proxies are **invalid** unless corrected.
 
-Correction must follow **Chapter Four** tracing and **Chapter Five** proxy-related definitions. It must include documented escalation and review.
+Correction must follow **Chapter Four** tracing and **Chapter Five** proxy-related definitions. It must include **documented escalation and review**.
 
 ### 9. Systemic Evaluation Requirement
 
-Section 8 answers a different question than section 7. Section 7 tells decision-makers how to resolve conflicts among values, rights, and constraints. Section 8 tells them what an evaluation must include before a classification, governance decision, limitation, or compliance claim can be valid.
+Section 9 answers a different question than section 8. Section 8 tells decision-makers how to resolve conflicts among values, rights, and constraints. Section 9 tells them what an evaluation must include before a classification, governance decision, limitation, or compliance claim can be valid.
 
 This section has two reader-facing jobs:
 - [§9.1 Required Evaluation Factors](#91-required-evaluation-factors) sets the minimum scope of a valid evaluation: system boundaries, materiality, dependency, risk, access, privacy, agency, and collective-organization effects.
 - [§9.2 Incentive Alignment and System Capture](#92-incentive-alignment-and-system-capture) checks whether the incentives and control structures acting on the system will preserve or undermine the constitutional outcome the evaluation claims to protect.
 
-Read together, §§6-8 move from capacity and stewardship, to tradeoff procedure, to whole-system validation. A decision that looks acceptable under §8 can still fail §9 if the evaluation omits material system effects or leaves misaligned incentives and capture pathways unaddressed. Section 8 verifies that pursuit of the [Two Constitutional Aims](#two-constitutional-aims) — especially the **Continuity** aim — will remain valid under whole-system review, and that the [Constitutional Triad](#constitutional-triad) — scaled to [material stake](#material-stake) — will remain intact under the system's incentive and control structure, not only under its stated rationale.
+Read together, §§6–9 move from capacity and stewardship, to tradeoff procedure, to whole-system validation. A decision that looks acceptable under §8 can still fail §9 if the evaluation omits material system effects or leaves misaligned incentives and capture pathways unaddressed. Section 9 verifies that pursuit of the [Two Constitutional Aims](#two-constitutional-aims) — especially the **Continuity** aim — will remain valid under whole-system review, and that the [Constitutional Triad](#constitutional-triad) — scaled to [material stake](#material-stake) — will remain intact under the system's incentive and control structure, not only under its stated rationale.
 
 #### 9.1 Required Evaluation Factors
 <details>
