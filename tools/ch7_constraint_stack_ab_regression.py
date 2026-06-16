@@ -26,7 +26,7 @@ STACK_BLOCK_RE = re.compile(
 
 EVAL_BLOCK_START = re.compile(r"^- Evaluation \(SCORING-v1 snapshot, section 10\.5\):")
 
-# Canonical **Default constraint stack.** paragraph (qualified Ch 1 §7.2). Keep in sync with
+# Canonical **Default constraint stack.** paragraph (qualified Ch 1 §8.2). Keep in sync with
 # `core_constitution.md` (Chapter Seven); the harness runs regression with disk text vs this
 # constant to detect drift.
 OPTION_B_STACK = (
@@ -174,9 +174,9 @@ def main() -> int:
         if eval_a == eval_b:
             print()
             print(
-                "Comparison: identical. §10.5 in CONSTITUTIONAL_REGRESSION_SCENARIOS.md is unchanged by "
+                "Comparison: identical. §11.5 in CONSTITUTIONAL_REGRESSION_SCENARIOS.md is unchanged by "
                 "this paragraph swap, so both mechanical regressions read the same authored snapshot. "
-                "To compare different numeric scores across variants, update §10.5 after tabletop scoring "
+                "To compare different numeric scores across variants, update §11.5 after tabletop scoring "
                 "for each variant (or maintain separate snapshot files and point audits at them—out of "
                 "scope for this harness)."
             )

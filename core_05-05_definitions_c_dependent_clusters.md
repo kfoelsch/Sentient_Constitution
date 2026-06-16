@@ -106,7 +106,7 @@ Unless this Constitution expressly provides otherwise, **sentient** and **sentie
 <a id="animal-life-constitutional-e"></a>
 - E: Reach substantive effect; do not rest on formal taxonomy. Substrate-agnostic scope is governed by [Sentience Non-Exclusion](#sentience-non-exclusion) where welfare-like harm or cruelty is materially implicated. The minimum cruelty / welfare floor operates independently of whether Chapter Ten protection has attached. It is not narrowed by [Natural Systems Standing](core_05-05_definitions_a_independent.md#natural-systems-standing) framing. Evaluate [Adversarial, Scaled, and Exploited Conditions](core_05-05_definitions_a_independent.md#adversarial-scaled-and-exploited-conditions), especially for large-scale production, experimentation, captivity, extraction, or deployment regimes.
 <a id="animal-life-constitutional-c"></a>
-- C: This entry creates no new Chapter Ten Rights-Floor and does not narrow either the existing Chapter Ten floor or the [Natural Systems Standing](core_05-05_definitions_a_independent.md#natural-systems-standing) scope. *Natural Systems Standing*, *Animal Life*, *Contested-Sentient Life*, and the Chapter Ten floor are jointly invoked where they jointly apply, with the more protective scope controlling under [Chapter One §7.4.1](core_00-01_principles.md#741-rights-collision-decision-test). Non-compliant framings:
+- C: This entry creates no new Chapter Ten Rights-Floor and does not narrow either the existing Chapter Ten floor or the [Natural Systems Standing](core_05-05_definitions_a_independent.md#natural-systems-standing) scope. *Natural Systems Standing*, *Animal Life*, *Contested-Sentient Life*, and the Chapter Ten floor are jointly invoked where they jointly apply, with the more protective scope controlling under [Chapter One §9.4.1](core_00-01_principles.md#841-rights-collision-decision-test). Non-compliant framings:
   - "not sentient, so no floor" — internal taxonomy or administrative classification used as scope-closing to deny the welfare floor without engaging substantive cruelty or welfare evidence;
   - using animal-life classification to avoid [Contested-Sentient Life](#contested-sentient-life-constitutional) or [Sentience Status Adjudication](#sentience-status-adjudication-constitutional) where the record materially implicates sentience-relevant evidence;
   - substrate-class exclusion from the welfare floor (independently non-compliant under [Sentience Non-Exclusion](#sentience-non-exclusion)).
@@ -167,7 +167,7 @@ Unless this Constitution expressly provides otherwise, **sentient** and **sentie
 
 - Owner floor: [Chapter Eleven §4.3](core_11-11_governance.md#43-decision-resolution-requirements-for-binding-collective-choice) (*Decision-resolution requirements for binding stakeholder choice*).
 - Read with: [Constitutional Triad](core_00-01_principles.md#constitutional-triad) — **participation** leg (Stakeholder System Participation layer, distinct from Constitutional Contract Layer authorization); [material stake](core_00-01_principles.md#material-stake) scaling.
-- Read with: [Stakeholder Status, Emergency, and Participation Weight](#stakeholder-status-emergency-and-participation-weight-cluster), [Governance](core_05-05_definitions_b_semi_independent.md#governance), [Constitutional Contract Layer](core_05-05_definitions_a_independent.md#constitutional-contract-layer), [Foundational Constitutional Choice](core_05-05_definitions_a_independent.md#foundational-constitutional-choice), [Stakeholder Participation Weight](core_05-05_definitions_b_semi_independent.md#stakeholder-participation-weight), [Article XI](core_10-10_rights_part_b.md#article-xi-stakeholder-system-participation-representation-and-due-process), [Article XXIII-F: Rights-Collision Procedure and Restorative Alignment](core_10-10_rights_part_d.md#article-xxiii-f-rights-collision-procedure-and-restorative-alignment), and [Chapter One §7.4](core_00-01_principles.md#74-rights-collision-procedure).
+- Read with: [Stakeholder Status, Emergency, and Participation Weight](#stakeholder-status-emergency-and-participation-weight-cluster), [Governance](core_05-05_definitions_b_semi_independent.md#governance), [Constitutional Contract Layer](core_05-05_definitions_a_independent.md#constitutional-contract-layer), [Foundational Constitutional Choice](core_05-05_definitions_a_independent.md#foundational-constitutional-choice), [Stakeholder Participation Weight](core_05-05_definitions_b_semi_independent.md#stakeholder-participation-weight), [Article XI](core_10-10_rights_part_b.md#article-xi-stakeholder-system-participation-representation-and-due-process), [Article XXIII-F: Rights-Collision Procedure and Restorative Alignment](core_10-10_rights_part_d.md#article-xxiii-f-rights-collision-procedure-and-restorative-alignment), and [Chapter One §9.4](core_00-01_principles.md#84-rights-collision-procedure).
 
 </details>
 
@@ -211,10 +211,10 @@ This cluster is the canonical compound-definition home for binding stakeholder c
 <a id="rights-collision-record-binding-stakeholder-choice"></a>
 ##### Stakeholder Rights-Collision Record (Binding Stakeholder Choice)
 
-- O: The record elements required when a binding stakeholder choice **turns on material conflict** among constitutional rights, protections, or structural duties — the **governance-layer** record discipline read together with [Chapter One §7.4](core_00-01_principles.md#74-rights-collision-procedure) and **Article XXIII-F**.
+- O: The record elements required when a binding stakeholder choice **turns on material conflict** among constitutional rights, protections, or structural duties — the **governance-layer** record discipline read together with [Chapter One §9.4](core_00-01_principles.md#84-rights-collision-procedure) and **Article XXIII-F**.
 <a id="rights-collision-record-binding-collective-choice-e"></a>
 <a id="rights-collision-record-binding-stakeholder-choice-e"></a>
-- E: The record must identify: rights in tension; feasible alternatives; least-restrictive rationale; accepted trade-offs; uncertainty treatment; and review or reversal triggers — consistent with **Article XXIII-F** and Chapter One §7.4. Do not treat this list as narrowing **Article XXIII-F** where that article imposes additional duties.
+- E: The record must identify: rights in tension; feasible alternatives; least-restrictive rationale; accepted trade-offs; uncertainty treatment; and review or reversal triggers — consistent with **Article XXIII-F** and Chapter One §9.4. Do not treat this list as narrowing **Article XXIII-F** where that article imposes additional duties.
 <a id="rights-collision-record-binding-collective-choice-c"></a>
 <a id="rights-collision-record-binding-stakeholder-choice-c"></a>
 - C: Non-compliant: binding stakeholder-choice outcomes on silent or opaque collision resolution where rights effects are material; missing required record elements where conflict is material. Owner floor: [Chapter Eleven §4.3](core_11-11_governance.md#43-decision-resolution-requirements-for-binding-collective-choice).
@@ -233,7 +233,7 @@ This cluster is the canonical compound-definition home for binding stakeholder c
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [4.1 Safety](core_00-01_principles.md#41-safety-harm-constraint), [7. Interaction and Conflict Resolution](core_00-01_principles.md#7-interaction-and-conflict-resolution), and [7.4.1 Rights-Collision Decision Test](core_00-01_principles.md#741-rights-collision-decision-test).
+- Downstream: Principles: [4.1 Safety](core_00-01_principles.md#41-safety-harm-constraint), [8. Interaction and Conflict Resolution](core_00-01_principles.md#8-interaction-and-conflict-resolution), and [8.4.1 Rights-Collision Decision Test](core_00-01_principles.md#841-rights-collision-decision-test).
 - Read with: [Materiality Determination](core_05-05_definitions_b_semi_independent.md#materiality-determination), [Material Impact](core_05-05_definitions_b_semi_independent.md#material-impact), [Risk](core_05-05_definitions_a_independent.md#risk), [Non-Imposition (Cooperative Interaction)](core_05-05_definitions_a_independent.md#non-imposition-cooperative-interaction), [Safety (Constraint)](core_05-05_definitions_a_independent.md#safety-constraint), [Redress and Remediation](core_05-05_definitions_a_independent.md#redress-and-remediation-constitutional), and [Harm Minimization (Tradeoff Selection)](core_05-05_definitions_a_independent.md#harm-minimization-tradeoff-selection), where materially implicated.
 
 </details>
@@ -290,7 +290,7 @@ This cluster is the joint-invocation home for harm, the boundary at which one se
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [3. Foundational Objective: Wellbeing](core_00-01_principles.md#3-foundational-objective-wellbeing); [7.1.1 Proportionality](core_00-01_principles.md#711-proportionality) (harm boundary in the tradeoff stack).
+- Downstream: Principles: [3. Foundational Objective: Wellbeing](core_00-01_principles.md#3-foundational-objective-wellbeing); [8.1.1 Proportionality](core_00-01_principles.md#811-proportionality) (harm boundary in the tradeoff stack).
 - Read with: the [Collective Harm Boundary, Harm, and Harassment and Bullying cluster](#collective-harm-boundary-and-harm-cluster), [Harm](#harm), [Non-Imposition (Cooperative Interaction)](core_05-05_definitions_a_independent.md#non-imposition-cooperative-interaction), and [Materiality Determination](core_05-05_definitions_b_semi_independent.md#materiality-determination).
 
 </details>
@@ -320,7 +320,7 @@ This cluster is the joint-invocation home for harm, the boundary at which one se
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [4.1 Safety](core_00-01_principles.md#41-safety-harm-constraint), [7.1.1 Proportionality](core_00-01_principles.md#711-proportionality), and [11. Integrated Application](core_00-01_principles.md#11-integrated-application).
+- Downstream: Principles: [4.1 Safety](core_00-01_principles.md#41-safety-harm-constraint), [8.1.1 Proportionality](core_00-01_principles.md#811-proportionality), and [12. Integrated Application](core_00-01_principles.md#12-integrated-application).
 - Read with: Harm, Risk, Proportionality, and Existential Risk.
 
 </details>
@@ -386,7 +386,7 @@ This cluster is the joint-invocation home for operative corpus identity, authori
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [11. Integrated Application](core_00-01_principles.md#11-integrated-application) (corpus read as integrated whole); [Constitutional Triad](core_00-01_principles.md#constitutional-triad) — **oversight** leg; [Two Constitutional Aims](core_00-01_principles.md#two-constitutional-aims) — **Continuity** aim under incorporation and custody; [1. Constitutional Interpretation](core_00-01_principles.md#1-constitutional-interpretation) (binding source identification).
+- Downstream: Principles: [12. Integrated Application](core_00-01_principles.md#12-integrated-application) (corpus read as integrated whole); [Constitutional Triad](core_00-01_principles.md#constitutional-triad) — **oversight** leg; [Two Constitutional Aims](core_00-01_principles.md#two-constitutional-aims) — **Continuity** aim under incorporation and custody; [1. Constitutional Interpretation](core_00-01_principles.md#1-constitutional-interpretation) (binding source identification).
 - Downstream: [Chapter Fifteen — Incorporation bridge](core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) (*which adopted **implementation text** text is binding, edition pinning, custody chain, and anti-drift discipline*).
 - Read with: [Authority Stack and Internal Hierarchy](#authority-stack) and [Constitutional Constraint Violation](#constitutional-constraint-violation).
 - Read with: owner-layer references in [doc_architecture.md](doc_architecture.md) and [README.md](README.md).
@@ -412,7 +412,7 @@ This cluster is the joint-invocation home for operative corpus identity, authori
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [1. Constitutional Interpretation](core_00-01_principles.md#1-constitutional-interpretation); [11. Integrated Application](core_00-01_principles.md#11-integrated-application) (Authority Stack vs Internal Hierarchy read-with Chapter One).
+- Downstream: Principles: [1. Constitutional Interpretation](core_00-01_principles.md#1-constitutional-interpretation); [12. Integrated Application](core_00-01_principles.md#12-integrated-application) (Authority Stack vs Internal Hierarchy read-with Chapter One).
 - Downstream: [Chapter One — §1 Constitutional Interpretation](core_00-01_principles.md#1-constitutional-interpretation) (integrated reading and last-resort hierarchy); [Chapter Twelve §3.1](core_12-14_amendment.md#31-internal-hierarchy-for-adopters) (*Internal Hierarchy for Adopters*); [Chapter Fifteen §2](core_15-15_incorporation.md#2-authority-stack-and-invocation) (*Authority stack and invocation*).
 - Read with: [Corpus](#corpus), [Supremacy and Enforceability](#supremacy-and-enforceability), and [Constitutional Constraint Violation](#constitutional-constraint-violation).
 - Read with: owner-layer references in [doc_architecture.md](doc_architecture.md) and [README.md](README.md).
@@ -514,7 +514,7 @@ Outside that admission scope, component definitions may operate as supporting In
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [3. Foundational Objective: Wellbeing](core_00-01_principles.md#3-foundational-objective-wellbeing); [7.1.4 Minimization of Avoidable Burden](core_00-01_principles.md#714-minimization-of-avoidable-burden) (labor-floor burden vs false efficiency).
+- Downstream: Principles: [3. Foundational Objective: Wellbeing](core_00-01_principles.md#3-foundational-objective-wellbeing); [8.1.4 Minimization of Avoidable Burden](core_00-01_principles.md#814-minimization-of-avoidable-burden) (labor-floor burden vs false efficiency).
 - Owner floor: [Article III-D](core_10-10_rights_part_a.md#article-iii-d-labor-and-economic-floor). Implementation routing: `corpus_institutions.md` **CI-9** (*Classification-linked institutional obligations*) / **CI-10** (*Public revenue, fees, recurring charges, and billing integrity*) / **CI-11** (*Resource stewardship and incentive integrity*).
 - Cluster component: [Chapter Five §3.5 *Labor and Economic Floor*](#labor-and-economic-floor-cluster).
 - Read with: [Safe Conditions](#safe-conditions-constitutional), [Leisure and Rest](#leisure-and-rest-constitutional), [Collective Organization](core_05-05_definitions_b_semi_independent.md#collective-organization-constitutional), [Substantive Fairness](core_05-05_definitions_b_semi_independent.md#substantive-fairness-constitutional), [Protected Characteristics](core_05-05_definitions_b_semi_independent.md#protected-characteristics-constitutional), [Protected Characteristic Proxying and Disparate Impact](core_05-05_definitions_b_semi_independent.md#protected-characteristic-proxying-and-disparate-impact), [Meaningful Agency](core_05-05_definitions_b_semi_independent.md#meaningful-agency), [Coercion and Manipulation](core_05-05_definitions_b_semi_independent.md#coercion-and-manipulation-constitutional), [Dependency](core_05-05_definitions_a_independent.md#dependency), and [Lifespan Equivalent Unit (LEQU)](core_05-05_definitions_a_independent.md#lifespan-equivalent-unit-lequ) (where quantitative calibration of benefit or deprivation is material).
@@ -525,9 +525,9 @@ Outside that admission scope, component definitions may operate as supporting In
 
 - O: The Rights-Floor concept covering substantive adequacy of compensation for productive, contributed, or comparable activity — waged, contracted, platformed, cooperative, or comparable — under [Sentience Non-Exclusion](#sentience-non-exclusion). Compensation must reach substantive adequacy for participation and wellbeing, track [Substantive Fairness](core_05-05_definitions_b_semi_independent.md#substantive-fairness-constitutional) across comparable activity, and not operate as a coercion or dependency-pressure vector. Ordinary voluntary exchange for goods or services outside sentient-productive-activity scope is out of scope. Rooted in the Article III-D labor and economic floor; read on top of (not as a substitute for) the Article III-A survival floor.
 <a id="fair-compensation-constitutional-e"></a>
-- E: Reach substantive adequacy, not formal contractual satisfaction. Apply [Substantive Fairness](core_05-05_definitions_b_semi_independent.md#substantive-fairness-constitutional) to comparable activity; apply [Protected Characteristics](core_05-05_definitions_b_semi_independent.md#protected-characteristics-constitutional) and [Protected Characteristic Proxying and Disparate Impact](core_05-05_definitions_b_semi_independent.md#protected-characteristic-proxying-and-disparate-impact) to distributional effects; apply [Coercion and Manipulation](core_05-05_definitions_b_semi_independent.md#coercion-and-manipulation-constitutional) and [Meaningful Agency](core_05-05_definitions_b_semi_independent.md#meaningful-agency) to dependency-pressure analysis. Survival-floor satisfaction alone, and [Chapter One §6.1.1](core_00-01_principles.md#611-productive-capacity-instrumental-good) non-concentration satisfaction alone, do not satisfy this entry.
+- E: Reach substantive adequacy, not formal contractual satisfaction. Apply [Substantive Fairness](core_05-05_definitions_b_semi_independent.md#substantive-fairness-constitutional) to comparable activity; apply [Protected Characteristics](core_05-05_definitions_b_semi_independent.md#protected-characteristics-constitutional) and [Protected Characteristic Proxying and Disparate Impact](core_05-05_definitions_b_semi_independent.md#protected-characteristic-proxying-and-disparate-impact) to distributional effects; apply [Coercion and Manipulation](core_05-05_definitions_b_semi_independent.md#coercion-and-manipulation-constitutional) and [Meaningful Agency](core_05-05_definitions_b_semi_independent.md#meaningful-agency) to dependency-pressure analysis. Survival-floor satisfaction alone, and [Chapter One §6](core_00-01_principles.md#61-productive-capacity-instrumental-good) non-concentration satisfaction alone, do not satisfy this entry.
 <a id="fair-compensation-constitutional-c"></a>
-- C: Non-compliant: compensation schemes whose effects track [Protected Characteristics](core_05-05_definitions_b_semi_independent.md#protected-characteristics-constitutional) or their material proxies; compensation used as coercion or dependency-pressure vector ([Coercion and Manipulation](core_05-05_definitions_b_semi_independent.md#coercion-and-manipulation-constitutional)); reading this entry as satisfied purely by survival-floor or §6.1 non-concentration compliance; substrate-class exclusion ([Sentience Non-Exclusion](#sentience-non-exclusion)).
+- C: Non-compliant: compensation schemes whose effects track [Protected Characteristics](core_05-05_definitions_b_semi_independent.md#protected-characteristics-constitutional) or their material proxies; compensation used as coercion or dependency-pressure vector ([Coercion and Manipulation](core_05-05_definitions_b_semi_independent.md#coercion-and-manipulation-constitutional)); reading this entry as satisfied purely by survival-floor or §6 non-concentration compliance; substrate-class exclusion ([Sentience Non-Exclusion](#sentience-non-exclusion)).
 
 ---
 
@@ -538,7 +538,7 @@ Outside that admission scope, component definitions may operate as supporting In
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [8.1 Required Evaluation Factors](core_00-01_principles.md#81-required-evaluation-factors) (substantive participation and materiality under **accessibility** evaluation); [3. Non-Negotiable Constraints: Safety](core_00-01_principles.md#4-non-negotiable-constraints-safety-and-truth) (**Safety** stack read with labor-floor role of this entry).
+- Downstream: Principles: [9.1 Required Evaluation Factors](core_00-01_principles.md#91-required-evaluation-factors) (substantive participation and materiality under **accessibility** evaluation); [3. Non-Negotiable Constraints: Safety](core_00-01_principles.md#4-non-negotiable-constraints-safety-and-truth) (**Safety** stack read with labor-floor role of this entry).
 - Owner floor: [Article III-D](core_10-10_rights_part_a.md#article-iii-d-labor-and-economic-floor). Systems-layer implementation: [Article XII-A](core_10-10_rights_part_c.md#article-xii-a-reliability-and-trustworthiness-baseline). Operational profile: `corpus_systems.md` Protocol A safety profiles where applicable.
 - Cluster component: [Chapter Five §3.5 *Labor and Economic Floor*](#labor-and-economic-floor-cluster).
 - Read with: [Fair Compensation](#fair-compensation-constitutional), [Collective Organization](core_05-05_definitions_b_semi_independent.md#collective-organization-constitutional), [Leisure and Rest](#leisure-and-rest-constitutional), [Safety (Constraint)](core_05-05_definitions_a_independent.md#safety-constraint), [Adversarial, Scaled, and Exploited Conditions](core_05-05_definitions_a_independent.md#adversarial-scaled-and-exploited-conditions), [Harm](#harm), [Risk](core_05-05_definitions_a_independent.md#risk), [Reversibility](core_05-05_definitions_a_independent.md#reversibility-constitutional), and [Sentience Non-Exclusion](#sentience-non-exclusion).
@@ -568,7 +568,7 @@ Outside that admission scope, component definitions may operate as supporting In
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [7.1.4 Minimization of Avoidable Burden](core_00-01_principles.md#714-minimization-of-avoidable-burden) (participation-capacity preservation vs false efficiency); [§9 Freedom (Bounded Agency)](core_00-01_principles.md#9-freedom-bounded-agency) (**Meaningful Agency** in tradeoff stack); [8.1 Required Evaluation Factors](core_00-01_principles.md#81-required-evaluation-factors) (**Materiality** / **Dependency** scaling).
+- Downstream: Principles: [8.1.4 Minimization of Avoidable Burden](core_00-01_principles.md#814-minimization-of-avoidable-burden) (participation-capacity preservation vs false efficiency); [§10 Freedom (Bounded Agency)](core_00-01_principles.md#10-freedom-bounded-agency) (**Meaningful Agency** in tradeoff stack); [9.1 Required Evaluation Factors](core_00-01_principles.md#91-required-evaluation-factors) (**Materiality** / **Dependency** scaling).
 - Owner floor: [Article III-D](core_10-10_rights_part_a.md#article-iii-d-labor-and-economic-floor).
 - Cluster component: [Chapter Five §3.5 *Labor and Economic Floor*](#labor-and-economic-floor-cluster).
 - Read with: [Fair Compensation](#fair-compensation-constitutional), [Collective Organization](core_05-05_definitions_b_semi_independent.md#collective-organization-constitutional), [Safe Conditions](#safe-conditions-constitutional), [Meaningful Agency](core_05-05_definitions_b_semi_independent.md#meaningful-agency), [Wellbeing](core_05-05_definitions_a_independent.md#wellbeing), and [Sentience Non-Exclusion](#sentience-non-exclusion).
@@ -609,7 +609,7 @@ Outside that admission scope, component definitions may operate as supporting In
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [§6.1.1 Productive Capacity (Instrumental Good)](core_00-01_principles.md#611-productive-capacity-instrumental-good); [§6.2.2 Distributed Understanding](core_00-01_principles.md#622-distributed-understanding) (attribution / traceability read-with).
+- Downstream: Principles: [§6 Productive Capacity (Instrumental Good)](core_00-01_principles.md#61-productive-capacity-instrumental-good); [§7.2 Distributed Understanding](core_00-01_principles.md#72-distributed-understanding) (attribution / traceability read-with).
 - Cluster component: [Chapter Five §3.5 *Labor and Economic Floor*](#labor-and-economic-floor-cluster).
 - Read with: [Training-Data Use](#training-data-use-constitutional), [Anti-Displacement Floor](#anti-displacement-floor-constitutional), [Fair Compensation](#fair-compensation-constitutional), [Collective Organization](core_05-05_definitions_b_semi_independent.md#collective-organization-constitutional), [Safe Conditions](#safe-conditions-constitutional), [Leisure and Rest](#leisure-and-rest-constitutional), [Good Faith](core_05-05_definitions_a_independent.md#good-faith), [Consent](core_05-05_definitions_b_semi_independent.md#consent-constitutional), [Truth (Constitutional Constraint)](#truth-constitutional-constraint), and [Sentience Non-Exclusion](#sentience-non-exclusion).
 
@@ -648,7 +648,7 @@ Outside that admission scope, component definitions may operate as supporting In
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [§6.1.1 Productive Capacity (Instrumental Good)](core_00-01_principles.md#611-productive-capacity-instrumental-good); [§6.1.3 Concentration Threshold Mechanism](core_00-01_principles.md#613-concentration-threshold-mechanism-adopter-tunable) (displacement at population scale read-with §6.1 stack).
+- Downstream: Principles: [§6 Productive Capacity (Instrumental Good)](core_00-01_principles.md#61-productive-capacity-instrumental-good); [§6.3 Concentration Threshold Mechanism](core_00-01_principles.md#63-concentration-threshold-mechanism-adopter-tunable) (displacement at population scale read-with §6 stack).
 - Owner floors: [Article III-D](core_10-10_rights_part_a.md#article-iii-d-labor-and-economic-floor) (labor-and-economic, cross-cutting) and [Article VIII-D](core_10-10_rights_part_b.md#article-viii-d-creative-work-training-data-use-and-anti-displacement) (creative-work application).
 - Cluster component: [Chapter Five §3.5 *Labor and Economic Floor*](#labor-and-economic-floor-cluster).
 - Read with: [Fair Compensation](#fair-compensation-constitutional), [Collective Organization](core_05-05_definitions_b_semi_independent.md#collective-organization-constitutional), [Safe Conditions](#safe-conditions-constitutional), [Leisure and Rest](#leisure-and-rest-constitutional), [Creative Work Attribution](#creative-work-attribution-constitutional), [Training-Data Use](#training-data-use-constitutional), [Productive Capacity](core_05-05_definitions_b_semi_independent.md#productive-capacity-constitutional), [Avoidable Burden](core_05-05_definitions_b_semi_independent.md#avoidable-burden), [Proxy Divergence](core_05-05_definitions_b_semi_independent.md#proxy-divergence), and [Sentience Non-Exclusion](#sentience-non-exclusion).
@@ -667,7 +667,7 @@ Outside that admission scope, component definitions may operate as supporting In
   - measure displacement against pre-deployment baselines for compensation, attribution, and livelihood sustainability across the affected population;
   - apply [Proxy Divergence](core_05-05_definitions_b_semi_independent.md#proxy-divergence) and [Avoidable Burden](core_05-05_definitions_b_semi_independent.md#avoidable-burden); aggregate-productivity, efficiency, innovation, and [Productive Capacity](core_05-05_definitions_b_semi_independent.md#productive-capacity-constitutional) framings do not satisfy the floor where underlying sentient-labor outcomes degrade;
   - cover [Adversarial, Scaled, and Exploited Conditions](core_05-05_definitions_a_independent.md#adversarial-scaled-and-exploited-conditions), including gradual ratcheting, platform-consolidation pressure, and cross-domain substitution;
-  - where deployment shows concentration characteristics, interact explicitly with the [Chapter One §6.1.1](core_00-01_principles.md#611-productive-capacity-instrumental-good) non-concentration principle and the [§6.1.3](core_00-01_principles.md#613-concentration-threshold-mechanism-adopter-tunable) threshold mechanism.
+  - where deployment shows concentration characteristics, interact explicitly with the [Chapter One §6](core_00-01_principles.md#61-productive-capacity-instrumental-good) non-concentration principle and the [§6.3](core_00-01_principles.md#63-concentration-threshold-mechanism-adopter-tunable) threshold mechanism.
   <a id="anti-displacement-floor-constitutional-c"></a>
 - C: Non-compliant with the floor:
   - "aggregate productivity" or "aggregate welfare" framing used to erase displacement at population scale;
@@ -708,7 +708,7 @@ This cluster is the joint-invocation home for the six constitutional forum famil
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Owner: [Chapter Nine §2](core_09-09_forum.md#2-default-venue-and-primary-stakes); read with [Chapter Nine §5](core_09-09_forum.md#5-intake-triage-mixed-stakes-and-routing-asymmetry), [Chapter Nine §6](core_09-09_forum.md#6-transfer-consolidation-and-coordination), and [Chapter Nine §7](core_09-09_forum.md#7-escalation-and-certification).
+- Owner: [Chapter Nine §2](core_09-09_forum.md#2-default-venue-and-primary-stakes); read with [Chapter Nine §5](core_09-09_forum.md#5-intake-triage-mixed-stakes-and-routing-asymmetry), [Chapter Nine §6](core_09-09_forum.md#6-transfer-consolidation-and-coordination), and [Chapter Nine §8](core_09-09_forum.md#7-escalation-and-certification).
 
 </details>
 
@@ -796,7 +796,7 @@ This cluster is the joint-invocation home for the six constitutional forum famil
 
 - O: The forum family whose primary stake is ecological integrity, environmental preconditions, lifecycle or systemic ecological harm, restoration or remediation of shared systems, attributable environmental burdens, or pattern ecological failure material to classification or Rights-Floor enforcement.
 <a id="forum-family-environment-e"></a>
-- E: Integrate Chapter Six and Chapter Nine enforcement hooks with Chapter Nine primary-stakes tests; preserve certification to **Constitutional** forums where validity or structural remedy merges per Chapter Nine §7.
+- E: Integrate Chapter Six and Chapter Nine enforcement hooks with Chapter Nine primary-stakes tests; preserve certification to **Constitutional** forums where validity or structural remedy merges per Chapter Nine §8.
 <a id="forum-family-environment-c"></a>
 - C: Non-compliant: treating ecological merits as purely private disputes when the primary stake is environmental under Chapter Nine §2; segmenting restoration and preconditions analysis to defeat joint ecological merits evaluation.
 
@@ -808,7 +808,7 @@ This cluster is the joint-invocation home for the six constitutional forum famil
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Owner: [Chapter Nine §4.2.5](core_09-09_forum.md#425-integrity-forums); read with Chapter Eight slot assignment due-process cross-references in Chapter Nine §7.
+- Owner: [Chapter Nine §4.2.5](core_09-09_forum.md#425-integrity-forums); read with Chapter Eight slot assignment due-process cross-references in Chapter Nine §8.
 
 </details>
 
@@ -836,9 +836,9 @@ This cluster is the joint-invocation home for the six constitutional forum famil
 
 - O: The forum family that decides constitutional validity and meaning, structural remedies altering governance for classes of actors or systems, certified questions from other families, and supremacy disputes where constitutional text alone can resolve the certified issue.
 <a id="forum-family-constitutional-e"></a>
-- E: Preserve Article XXIII-class review safeguards and Chapter Eight due-process hooks when certification or escalation arrives from lower families; distinguish certified constitutional questions from implementation operational-law provisional rulings under Chapter Nine §4.3 and §7.
+- E: Preserve Article XXIII-class review safeguards and Chapter Eight due-process hooks when certification or escalation arrives from lower families; distinguish certified constitutional questions from implementation operational-law provisional rulings under Chapter Nine §4.3 and §8.
 <a id="forum-family-constitutional-c"></a>
-- C: Non-compliant: treating non-certifiable operational detail as final constitutional disposition; collapsing certification discipline so families bypass Chapter Nine §7 when constitutional validity, meaning, or structural remedy is materially at stake.
+- C: Non-compliant: treating non-certifiable operational detail as final constitutional disposition; collapsing certification discipline so families bypass Chapter Nine §8 when constitutional validity, meaning, or structural remedy is materially at stake.
 
 ---
 
@@ -850,7 +850,7 @@ This cluster is the joint-invocation home for the six constitutional forum famil
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [§9 Freedom (Bounded Agency)](core_00-01_principles.md#9-freedom-bounded-agency), [4. Non-Negotiable Constraints: Safety and Truth](core_00-01_principles.md#4-non-negotiable-constraints-safety-and-truth), and Chapter Ten privacy-distribution articles where informational handling affects agency, dignity, security, or truth.
+- Downstream: Principles: [§10 Freedom (Bounded Agency)](core_00-01_principles.md#10-freedom-bounded-agency), [4. Non-Negotiable Constraints: Safety and Truth](core_00-01_principles.md#4-non-negotiable-constraints-safety-and-truth), and Chapter Ten privacy-distribution articles where informational handling affects agency, dignity, security, or truth.
 - Downstream: [Article VII-A](core_10-10_rights_part_b.md#article-vii-a-self-ownership-of-body-and-mind) (*self-ownership of body and mind*); [Article VII-B](core_10-10_rights_part_b.md#article-vii-b-internal-state-boundary-and-type-n-protection) (*internal-state boundary and Type N protection*); [Article VIII](core_10-10_rights_part_b.md#article-viii-likeness-experiential-data-and-publication-rights) (*likeness, experiential data, and publication rights*); [Article IX-A](core_10-10_rights_part_b.md#article-ix-a-agency-and-freedom-from-manipulation) (*agency and freedom from manipulation*); [Article XIII-A](core_10-10_rights_part_c.md#article-xiii-a-security-intelligence-and-covert-power-limits) (*security, intelligence, and covert-power limits*).
 - Read with: [Protected Internal-State Boundary](#protected-internal-state-boundary-constitutional), [Surveillance Boundary](#surveillance-boundary), [Consent](core_05-05_definitions_b_semi_independent.md#consent-constitutional), [Truth (Constitutional Constraint)](#truth-constitutional-constraint), [Dignity and Equal Moral Standing](core_05-05_definitions_a_independent.md#dignity-and-equal-moral-standing), and **[corpus_systems.md](corpus_systems.md), CS-3 — Information types and handling** where Type N or comparable handling is implicated.
 
@@ -956,7 +956,7 @@ This cluster is the joint-invocation home for self-determination, meaningful age
 <a id="self-determination-constitutional-e"></a>
 - E: Evaluate substantive agency pathways under [Coercion and Manipulation](core_05-05_definitions_b_semi_independent.md#coercion-and-manipulation-constitutional), [Dependency](core_05-05_definitions_a_independent.md#dependency), [Surveillance Boundary](#surveillance-boundary), and segmentation across speech, platform, curricular, or governance domains that defeats joint assessment under §3.0.1.
 <a id="self-determination-constitutional-c"></a>
-- C: Framings that preserve nominal choice while defeating informed refusal, proportional participation, or reviewability, or that route material self-governance questions outside **Article IX** without **Chapter One §7.4.1** collision resolution, are non-compliant when materially implicated.
+- C: Framings that preserve nominal choice while defeating informed refusal, proportional participation, or reviewability, or that route material self-governance questions outside **Article IX** without **Chapter One §9.4.1** collision resolution, are non-compliant when materially implicated.
 
 ---
 
@@ -1065,7 +1065,7 @@ This cluster is the joint-invocation home for contribution state, standing recor
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [8.1 Required Evaluation Factors](core_00-01_principles.md#81-required-evaluation-factors); [8.2 Incentive Alignment and System Capture](core_00-01_principles.md#82-incentive-alignment-and-system-capture) (standing signals and capture).
+- Downstream: Principles: [9.1 Required Evaluation Factors](core_00-01_principles.md#91-required-evaluation-factors); [9.2 Incentive Alignment and System Capture](core_00-01_principles.md#92-incentive-alignment-and-system-capture) (standing signals and capture).
 - Read with: the [Standing State, Contribution, and Violation cluster](#standing-state-contribution-and-violation-cluster), [Contribution State](#contribution-state), [Standing Record](#standing-record-chapter-six), [Standing Effect](#standing-effect-chapter-six), [Competency Gate](#competency-gate), [Verified Violation Findings](#verified-violation-findings), [Violation Nature](#violation-nature-chapter-six), [Contestability](core_05-05_definitions_b_semi_independent.md#contestability), [Auditability](#auditability), [Transparency](#transparency), and [Redress and Remediation](core_05-05_definitions_a_independent.md#redress-and-remediation-constitutional).
 
 </details>
@@ -1092,7 +1092,7 @@ This cluster is the joint-invocation home for contribution state, standing recor
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [8.1 Required Evaluation Factors](core_00-01_principles.md#81-required-evaluation-factors) (materiality / verification in standing inputs); [6.4.2 Proxy-Divergence Invalidation](core_00-01_principles.md#742-proxy-divergence-invalidation) (standing metrics vs demonstrable facts).
+- Downstream: Principles: [9.1 Required Evaluation Factors](core_00-01_principles.md#91-required-evaluation-factors) (materiality / verification in standing inputs); [6.4.2 Proxy-Divergence Invalidation](core_00-01_principles.md#842-proxy-divergence-invalidation) (standing metrics vs demonstrable facts).
 - Canonical owner: [Chapter Six — section 4.1](core_06-06_standing_assessment.md#3-axis-i-contribution-state-and-standing-effect) (*Axis I — contribution state, standing-effect mechanics, and supplemental descriptors*); read with [Chapter Six — section 1](core_06-06_standing_assessment.md#2-purpose-and-role) (*two-axis frame*); [Chapter Six §3.1 — Verified-input gate](core_06-06_standing_assessment.md#verified-inputs-for-standing); [Chapter Six §4.2](core_06-06_standing_assessment.md#42-constitutional-outcome-baseline-for-slots) (*LEQU and constitutional-outcome baselines*).
 - Read with: the [Standing State, Contribution, and Violation cluster](#standing-state-contribution-and-violation-cluster), [Participant Standing](#participant-standing-constitutional) (*distinct — Article XVIII participation status versus Axis I typing*); [Standing Record](#standing-record-chapter-six); [Standing Effect](#standing-effect-chapter-six); [Violation Nature](#violation-nature-chapter-six); [Verified Violation Findings](#verified-violation-findings); [Lifespan Equivalent Unit (LEQU)](core_05-05_definitions_a_independent.md#lifespan-equivalent-unit-lequ) (*shorthand for full-life-equivalent calibration*); [Chapter Six — section 4.3](core_06-06_standing_assessment.md#4-axis-ii-violation-nature-legal-constitutional-type) (*Axis II — violation-nature primary typing*); [Auditability](#auditability); [Contestability](core_05-05_definitions_b_semi_independent.md#contestability); [Materiality Determination](core_05-05_definitions_b_semi_independent.md#materiality-determination).
 
@@ -1140,7 +1140,7 @@ This cluster is the joint-invocation home for contribution state, standing recor
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [4. Non-Negotiable Constraints: Safety and Truth](core_00-01_principles.md#4-non-negotiable-constraints-safety-and-truth); [7. Interaction and Conflict Resolution](core_00-01_principles.md#7-interaction-and-conflict-resolution) (verified facts for adverse standing).
+- Downstream: Principles: [4. Non-Negotiable Constraints: Safety and Truth](core_00-01_principles.md#4-non-negotiable-constraints-safety-and-truth); [8. Interaction and Conflict Resolution](core_00-01_principles.md#8-interaction-and-conflict-resolution) (verified facts for adverse standing).
 - Canonical owner: [Chapter Six — §3.1 Verified-input gate](core_06-06_standing_assessment.md#verified-inputs-for-standing) and [Chapter Six — §4.3 Violation Axis](core_06-06_standing_assessment.md#4-axis-ii-violation-nature-legal-constitutional-type); read with the [Standing State, Contribution, and Violation cluster](#standing-state-contribution-and-violation-cluster), [Violation Nature](#violation-nature-chapter-six), [Standing Record](#standing-record-chapter-six), [Standing Effect](#standing-effect-chapter-six), [Auditability](#auditability), [Contestability](core_05-05_definitions_b_semi_independent.md#contestability), and [Adjudication and Dispute Resolution](core_05-05_definitions_b_semi_independent.md#adjudication-and-dispute-resolution-constitutional).
 - Read with: [Violation Nature](#violation-nature-chapter-six). The two are compound for standing use: verified violation findings supply the admissible finding basis, and violation nature supplies the adverse classification applied from that basis.
 
@@ -1163,7 +1163,7 @@ This cluster is the joint-invocation home for contribution state, standing recor
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [7.4.1 Rights-Collision Decision Test](core_00-01_principles.md#741-rights-collision-decision-test); [11. Integrated Application](core_00-01_principles.md#11-integrated-application) (standing effects read through integrated interpretive framework).
+- Downstream: Principles: [8.4.1 Rights-Collision Decision Test](core_00-01_principles.md#841-rights-collision-decision-test); [12. Integrated Application](core_00-01_principles.md#12-integrated-application) (standing effects read through integrated interpretive framework).
 - Canonical owner: [Chapter Seven — §1 Standing Effects](core_07-07_standing_integration.md#5-standing-effects) through [§4 Cross-Axis Coupling and Escalation Constraints](core_07-07_standing_integration.md#8-cross-axis-coupling-and-escalation-constraints) (*trust-, role-, recognition-, restriction-, restoration, integration, and non-substitution*); read with [Chapter Six — §2 Standing Records](core_06-06_standing_assessment.md#2-standing-records), [§2.1 Standing records as the unit of application](core_06-06_standing_assessment.md#21-standing-records-as-the-unit-of-application), [§3.2 Standing Record operational requirements](core_06-06_standing_assessment.md#22-standing-record-operational-requirements), and [Chapter Six — §3.1 Verified-input gate](core_06-06_standing_assessment.md#verified-inputs-for-standing).
 - Read with: the [Standing State, Contribution, and Violation cluster](#standing-state-contribution-and-violation-cluster) and [Standing Record](#standing-record-chapter-six). The two are sequential for application: a standing effect must be traceable to a bounded standing record, but the standing record contains the verified contribution and violation classifications rather than the effect itself.
 
@@ -1186,7 +1186,7 @@ This cluster is the joint-invocation home for contribution state, standing recor
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [8.1 Required Evaluation Factors](core_00-01_principles.md#81-required-evaluation-factors); [6.4.2 Proxy-Divergence Invalidation](core_00-01_principles.md#742-proxy-divergence-invalidation) (bounded standing records vs merged labels).
+- Downstream: Principles: [9.1 Required Evaluation Factors](core_00-01_principles.md#91-required-evaluation-factors); [6.4.2 Proxy-Divergence Invalidation](core_00-01_principles.md#842-proxy-divergence-invalidation) (bounded standing records vs merged labels).
 - Canonical owner: [Chapter Six — §2.1 Standing records as the unit of application](core_06-06_standing_assessment.md#21-standing-records-as-the-unit-of-application) and [§3.2 Standing Record operational requirements](core_06-06_standing_assessment.md#22-standing-record-operational-requirements); read with [Chapter Six — §3.1 Verified-input gate](core_06-06_standing_assessment.md#verified-inputs-for-standing), [Chapter Six — §4.0 Slot grammar and display labels](core_06-06_standing_assessment.md#40-slot-grammar-and-display-labels), [Chapter Six — §4.1 Primary category defaults and LEQU slot baseline](core_06-06_standing_assessment.md#4-primary-category-defaults-and-lequ-slot-baseline), and [Chapter Six — Integration](core_07-07_standing_integration.md#chapter-seven-standing-effects-and-integration).
 - Read with: the [Standing State, Contribution, and Violation cluster](#standing-state-contribution-and-violation-cluster), [Standing Effect](#standing-effect-chapter-six), [Contribution State](#contribution-state), [Violation Nature](#violation-nature-chapter-six), [Verified Violation Findings](#verified-violation-findings), [Auditability](#auditability), [Contestability](core_05-05_definitions_b_semi_independent.md#contestability), [Materiality Determination](core_05-05_definitions_b_semi_independent.md#materiality-determination), and [Participant Standing](#participant-standing-constitutional).
 
@@ -1253,7 +1253,7 @@ This cluster is the joint-invocation home for contribution state, standing recor
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [8.1 Required Evaluation Factors](core_00-01_principles.md#81-required-evaluation-factors); [6.4.2 Proxy-Divergence Invalidation](core_00-01_principles.md#742-proxy-divergence-invalidation) (Axis II classification integrity).
+- Downstream: Principles: [9.1 Required Evaluation Factors](core_00-01_principles.md#91-required-evaluation-factors); [6.4.2 Proxy-Divergence Invalidation](core_00-01_principles.md#842-proxy-divergence-invalidation) (Axis II classification integrity).
 - Canonical owner: [Chapter Six — §4.3 Violation Axis](core_06-06_standing_assessment.md#4-axis-ii-violation-nature-legal-constitutional-type) (*non-compliance ladder, calibration, and application notes*); [Chapter Six — §5](core_07-07_standing_integration.md#6-extended-axis-ii-legal-hybrid-duty-and-harm-descriptors) (*process / response character*); [Chapter Six — §6.3](core_07-07_standing_integration.md#73-stackable-harm-and-conduct-descriptors-violation-nature-supplement) (*stackable harm descriptors*). Read with the [Standing State, Contribution, and Violation cluster](#standing-state-contribution-and-violation-cluster) and [Verified Violation Findings](#verified-violation-findings). Final **Violation Axis s = 7, 8, or 9** anti-constitutional assignment: [Chapter Eight](core_08-08_misconduct.md#chapter-eight-anti-constitutional-misconduct).
 - Read with: [Verified Violation Findings](#verified-violation-findings). The two are compound for standing use: violation nature classifies adverse constitutional outcome only from verified violation findings, and verified violation findings must state the violation nature actually applied where they affect standing.
 
@@ -1426,14 +1426,14 @@ while defeating practical reconstructability, contestability, or proportionate a
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [Constitutional Triad](core_00-01_principles.md#constitutional-triad) — **oversight** leg; [§6.2 Stewardship and Distributed Understanding](core_00-01_principles.md#62-stewardship-and-distributed-understanding), [6.2.1 Preservation of Epistemic Integrity](core_00-01_principles.md#721-preservation-of-epistemic-integrity).
+- Downstream: Principles: [Constitutional Triad](core_00-01_principles.md#constitutional-triad) — **oversight** leg; [§7 Stewardship and Distributed Understanding](core_00-01_principles.md#7-stewardship-and-distributed-understanding), [6.2.1 Preservation of Epistemic Integrity](core_00-01_principles.md#821-preservation-of-epistemic-integrity).
 - Read with: [Epistemic Integrity](#epistemic-integrity), [Truth (Constitutional Constraint)](#truth-constitutional-constraint), [Contestability](core_05-05_definitions_b_semi_independent.md#contestability), and [Auditability](#auditability).
 
 </details>
 
 <br>
 
-- O: Disclosure of externally relevant system behavior, limitations, uncertainties, and dependencies, reaching a level sufficient for affected parties to understand function and risk in context. Subject to safety- and security-justified limits consistent with [Epistemic Integrity](#epistemic-integrity) and Chapter One §7.2 — Epistemic Disclosure Constraints.
+- O: Disclosure of externally relevant system behavior, limitations, uncertainties, and dependencies, reaching a level sufficient for affected parties to understand function and risk in context. Subject to safety- and security-justified limits consistent with [Epistemic Integrity](#epistemic-integrity) and Chapter One §8.2 — Epistemic Disclosure Constraints.
 <a id="transparency-e"></a>
 - E: Compare disclosure to [Material Impact](core_05-05_definitions_b_semi_independent.md#material-impact) and [Dependency](core_05-05_definitions_a_independent.md#dependency). Detect substituting volume, obscurity, or formatting for decision-relevant clarity.
 <a id="transparency-c"></a>
@@ -1468,7 +1468,7 @@ while defeating practical reconstructability, contestability, or proportionate a
 
 - O: The property enabling systematic examination, reconstruction, and evaluation of system behavior through sufficient [Observability](#observability) and [Verifiability](#verifiability).
 <a id="auditability-e"></a>
-- E: Must function across relevant conditions and [Stakeholders](core_05-05_definitions_b_semi_independent.md#stakeholder), including conditions relevant to [Contestability](core_05-05_definitions_b_semi_independent.md#contestability) and [Oversight](core_05-05_definitions_a_independent.md#oversight-constitutional). Where stewardship relies on repeated comparable measures of materially relevant behavior, audit paths should support review of whether variation-over-time monitoring and threshold-triggered follow-through are present and proportionate when claimed ([Chapter One §6.2.3](core_00-01_principles.md#623-institutional-development); [Observability](#observability); [Proportionality](core_05-05_definitions_a_independent.md#proportionality)).
+- E: Must function across relevant conditions and [Stakeholders](core_05-05_definitions_b_semi_independent.md#stakeholder), including conditions relevant to [Contestability](core_05-05_definitions_b_semi_independent.md#contestability) and [Oversight](core_05-05_definitions_a_independent.md#oversight-constitutional). Where stewardship relies on repeated comparable measures of materially relevant behavior, audit paths should support review of whether variation-over-time monitoring and threshold-triggered follow-through are present and proportionate when claimed ([Chapter One §7.3](core_00-01_principles.md#73-institutional-development); [Observability](#observability); [Proportionality](core_05-05_definitions_a_independent.md#proportionality)).
 <a id="auditability-c"></a>
 - C: Non-compliant: non-functional audit mechanisms; failure to enable practical reconstruction and evaluation.
 
@@ -1480,7 +1480,7 @@ while defeating practical reconstructability, contestability, or proportionate a
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [4. Non-Negotiable Constraints: Safety and Truth](core_00-01_principles.md#4-non-negotiable-constraints-safety-and-truth), [7. Interaction and Conflict Resolution](core_00-01_principles.md#7-interaction-and-conflict-resolution), and [6.2.1 Preservation of Epistemic Integrity](core_00-01_principles.md#721-preservation-of-epistemic-integrity), where materially relevant evidence must remain available for truth, safety, review, and correction.
+- Downstream: Principles: [4. Non-Negotiable Constraints: Safety and Truth](core_00-01_principles.md#4-non-negotiable-constraints-safety-and-truth), [8. Interaction and Conflict Resolution](core_00-01_principles.md#8-interaction-and-conflict-resolution), and [6.2.1 Preservation of Epistemic Integrity](core_00-01_principles.md#821-preservation-of-epistemic-integrity), where materially relevant evidence must remain available for truth, safety, review, and correction.
 - Cluster component: [Chapter Five §3.10 *Transparency, Auditability, and Verification*](#transparency-auditability-and-verification-cluster).
 - Read with: [Auditability](#auditability), [Verifiability](#verifiability), [Transparency](#transparency), [Accountability](core_05-05_definitions_b_semi_independent.md#accountability), [Contestability](core_05-05_definitions_b_semi_independent.md#contestability), [Procedural Fairness](core_05-05_definitions_b_semi_independent.md#procedural-fairness-constitutional), [Protected Reporting (Whistleblowing)](core_05-05_definitions_b_semi_independent.md#protected-reporting-whistleblowing), and [Redress and Remediation](core_05-05_definitions_a_independent.md#redress-and-remediation-constitutional).
 
@@ -1648,7 +1648,7 @@ This cluster is the canonical O/E/C home for **Trust**, **Trustworthiness**, and
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [8.2 Incentive Alignment and System Capture](core_00-01_principles.md#82-incentive-alignment-and-system-capture).
+- Downstream: Principles: [9.2 Incentive Alignment and System Capture](core_00-01_principles.md#92-incentive-alignment-and-system-capture).
 - Read with: [Trust](#trust), [Trustworthiness](#trustworthiness), [Transparency](#transparency), [Epistemic Integrity](#epistemic-integrity), [Contestability](core_05-05_definitions_b_semi_independent.md#contestability), and [Redress and Remediation](core_05-05_definitions_a_independent.md#redress-and-remediation-constitutional).
 
 </details>
@@ -1831,7 +1831,7 @@ This cluster is the joint-invocation home for overt use of force, weapons of mas
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [7.1 Core Tradeoff Principles](core_00-01_principles.md#71-core-tradeoff-principles) (**Necessity**, **Proportionality**, heightened scrutiny); [7. Interaction and Conflict Resolution](core_00-01_principles.md#7-interaction-and-conflict-resolution) (emergency / escalation read-with Article XIII-B).
+- Downstream: Principles: [8.1 Core Tradeoff Principles](core_00-01_principles.md#81-core-tradeoff-principles) (**Necessity**, **Proportionality**, heightened scrutiny); [8. Interaction and Conflict Resolution](core_00-01_principles.md#8-interaction-and-conflict-resolution) (emergency / escalation read-with Article XIII-B).
 - Owner floor: [Article XIII-B](core_10-10_rights_part_c.md#article-xiii-b-use-of-force-armed-conflict-and-military-power-limits). Overt-power counterpart to the covert-power limits of [Article XIII-A](core_10-10_rights_part_c.md#article-xiii-a-security-intelligence-and-covert-power-limits). Non-conflation: this entry does not authorize, extend, or predicate involuntary deprivation of life under **Article XXIII-B** (*Categorical prohibition of irreversible deprivation of life as a justice measure*, as revised); read with [Irreversible Deprivation Measure](#irreversible-deprivation-measure-constitutional).
 - Cluster component: [§3.13 *Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm*](#use-of-force-autonomous-coercion-and-mass-harm-cluster).
 - Read with: [Weapons of Mass Harm](#weapons-of-mass-harm-constitutional), [Combatant / Non-Combatant Distinction](#combatant-non-combatant-distinction-constitutional), [Autonomous Lethal System](#autonomous-lethal-system-constitutional), [Irreversible Deprivation Measure](#irreversible-deprivation-measure-constitutional), [Necessity](core_05-05_definitions_a_independent.md#necessity), [Proportionality](core_05-05_definitions_a_independent.md#proportionality), [Reversibility](core_05-05_definitions_a_independent.md#reversibility-constitutional), [Redress and Remediation](core_05-05_definitions_a_independent.md#redress-and-remediation-constitutional), and [Existential Risk](core_05-05_definitions_a_independent.md#existential-risk).
@@ -1858,7 +1858,7 @@ This cluster is the joint-invocation home for overt use of force, weapons of mas
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [4. Non-Negotiable Constraints: Safety and Truth](core_00-01_principles.md#4-non-negotiable-constraints-safety-and-truth); [7.1.1 Proportionality](core_00-01_principles.md#711-proportionality) (irreversible harm and existential-risk index).
+- Downstream: Principles: [4. Non-Negotiable Constraints: Safety and Truth](core_00-01_principles.md#4-non-negotiable-constraints-safety-and-truth); [8.1.1 Proportionality](core_00-01_principles.md#811-proportionality) (irreversible harm and existential-risk index).
 - Owner floor: [Article XIII-C](core_10-10_rights_part_c.md#article-xiii-c-autonomous-lethal-systems-and-autonomous-coercion-tools). Existential-risk interaction: [Article I-D](core_10-10_rights_part_a.md#article-i-d-existential-risk-and-recovery-capacity). Systems-layer implementation: [Article XII-A](core_10-10_rights_part_c.md#article-xii-a-reliability-and-trustworthiness-baseline).
 - Cluster component: [§3.13 *Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm*](#use-of-force-autonomous-coercion-and-mass-harm-cluster).
 - Read with: [Autonomous Coercion Tool](#autonomous-coercion-tool-constitutional), [Use of Force](#use-of-force-constitutional), [Weapons of Mass Harm](#weapons-of-mass-harm-constitutional), [Combatant / Non-Combatant Distinction](#combatant-non-combatant-distinction-constitutional), [Existential Risk](core_05-05_definitions_a_independent.md#existential-risk), [Adversarial, Scaled, and Exploited Conditions](core_05-05_definitions_a_independent.md#adversarial-scaled-and-exploited-conditions), [Reversibility](core_05-05_definitions_a_independent.md#reversibility-constitutional), [Irreversible Deprivation Measure](#irreversible-deprivation-measure-constitutional), and [Redress and Remediation](core_05-05_definitions_a_independent.md#redress-and-remediation-constitutional).
@@ -1895,7 +1895,7 @@ This cluster is the joint-invocation home for overt use of force, weapons of mas
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [4. Non-Negotiable Constraints: Safety and Truth](core_00-01_principles.md#4-non-negotiable-constraints-safety-and-truth); [7.1.1 Proportionality](core_00-01_principles.md#711-proportionality) (**Existential Risk**, **Irreversible Harm**, cross-system harm scale).
+- Downstream: Principles: [4. Non-Negotiable Constraints: Safety and Truth](core_00-01_principles.md#4-non-negotiable-constraints-safety-and-truth); [8.1.1 Proportionality](core_00-01_principles.md#811-proportionality) (**Existential Risk**, **Irreversible Harm**, cross-system harm scale).
 - Owner floor: [Article XIII-B](core_10-10_rights_part_c.md#article-xiii-b-use-of-force-armed-conflict-and-military-power-limits). Existential-risk interaction: [Article I-D](core_10-10_rights_part_a.md#article-i-d-existential-risk-and-recovery-capacity). Environmental-preconditions interaction: [Article I-A](core_10-10_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity).
 - Cluster component: [§3.13 *Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm*](#use-of-force-autonomous-coercion-and-mass-harm-cluster).
 - Read with: [Use of Force](#use-of-force-constitutional), [Existential Risk](core_05-05_definitions_a_independent.md#existential-risk), [Reversibility](core_05-05_definitions_a_independent.md#reversibility-constitutional), [Cascading Failure](core_05-05_definitions_a_independent.md#cascading-failure), [Ecological Integrity](core_05-05_definitions_b_semi_independent.md#ecological-integrity-constitutional), [Info-Sphere](core_05-05_definitions_a_independent.md#info-sphere), [Irreversible Deprivation Measure](#irreversible-deprivation-measure-constitutional), and [Redress and Remediation](core_05-05_definitions_a_independent.md#redress-and-remediation-constitutional).
@@ -1920,7 +1920,7 @@ This cluster is the joint-invocation home for overt use of force, weapons of mas
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [7.1.1 Proportionality](core_00-01_principles.md#711-proportionality); [7.4.1 Rights-Collision Decision Test](core_00-01_principles.md#741-rights-collision-decision-test) (combatant-status doubt and non-combatant protection).
+- Downstream: Principles: [8.1.1 Proportionality](core_00-01_principles.md#811-proportionality); [8.4.1 Rights-Collision Decision Test](core_00-01_principles.md#841-rights-collision-decision-test) (combatant-status doubt and non-combatant protection).
 - Owner floor: [Article XIII-B](core_10-10_rights_part_c.md#article-xiii-b-use-of-force-armed-conflict-and-military-power-limits); interacts with [Article XIII-C](core_10-10_rights_part_c.md#article-xiii-c-autonomous-lethal-systems-and-autonomous-coercion-tools) on autonomous-targeting compliance.
 - Cluster component: [§3.13 *Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm*](#use-of-force-autonomous-coercion-and-mass-harm-cluster).
 - Read with: [Use of Force](#use-of-force-constitutional), [Weapons of Mass Harm](#weapons-of-mass-harm-constitutional), [Autonomous Lethal System](#autonomous-lethal-system-constitutional), [Protected Characteristics](core_05-05_definitions_b_semi_independent.md#protected-characteristics-constitutional), [Protected Characteristic Proxying and Disparate Impact](core_05-05_definitions_b_semi_independent.md#protected-characteristic-proxying-and-disparate-impact), [Substantive Fairness](core_05-05_definitions_b_semi_independent.md#substantive-fairness-constitutional), and [Proportionality](core_05-05_definitions_a_independent.md#proportionality).
@@ -1949,7 +1949,7 @@ This cluster is the joint-invocation home for overt use of force, weapons of mas
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [3. Foundational Objective: Wellbeing](core_00-01_principles.md#3-foundational-objective-wellbeing); [10. Prohibition on Absolute Override](core_00-01_principles.md#10-prohibition-on-absolute-override) (non-trivial restriction and dignity floor read-with Article XXIII-B).
+- Downstream: Principles: [3. Foundational Objective: Wellbeing](core_00-01_principles.md#3-foundational-objective-wellbeing); [11. Prohibition on Absolute Override](core_00-01_principles.md#11-prohibition-on-absolute-override) (non-trivial restriction and dignity floor read-with Article XXIII-B).
 - Owner floor: [Article XXIII-B](core_10-10_rights_part_d.md#article-xxiii-b-non-trivial-restriction-restitution-and-restorative-accountability-constraints) (*Categorical prohibition of irreversible deprivation of life as a justice measure*). Interaction pointers: [Article XXIII-C](core_10-10_rights_part_d.md#article-xxiii-c-least-restrictive-and-time-bounded-rule) durable-containment discipline; [Article XXIV](core_10-10_rights_part_d.md#article-xxiv-constitutional-evolution-and-non-entrenchment) non-entrenchment; [Article XXV](core_10-10_rights_part_d.md#article-xxv-transition-governance-continuity-and-re-baselining) transition governance and "no durable exception authority" rule.
 - Cluster component: [§3.13 *Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm*](#use-of-force-autonomous-coercion-and-mass-harm-cluster).
 - Read with: [Reversibility](core_05-05_definitions_a_independent.md#reversibility-constitutional), [Redress and Remediation](core_05-05_definitions_a_independent.md#redress-and-remediation-constitutional), [Dignity and Equal Moral Standing](core_05-05_definitions_a_independent.md#dignity-and-equal-moral-standing), [Voluntary Discontinuation](core_05-05_definitions_a_independent.md#voluntary-discontinuation-constitutional), [Use of Force](#use-of-force-constitutional), [Weapons of Mass Harm](#weapons-of-mass-harm-constitutional), [Autonomous Lethal System](#autonomous-lethal-system-constitutional), [Autonomous Coercion Tool](#autonomous-coercion-tool-constitutional), [Sentience Non-Exclusion](#sentience-non-exclusion), and [Irreversible Harm](#irreversible-harm).
@@ -1985,7 +1985,7 @@ This cluster is the joint-invocation home for overt use of force, weapons of mas
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [4. Non-Negotiable Constraints: Safety and Truth](core_00-01_principles.md#4-non-negotiable-constraints-safety-and-truth); [8.1 Required Evaluation Factors](core_00-01_principles.md#81-required-evaluation-factors) (scaled / adversarial deployment scrutiny).
+- Downstream: Principles: [4. Non-Negotiable Constraints: Safety and Truth](core_00-01_principles.md#4-non-negotiable-constraints-safety-and-truth); [9.1 Required Evaluation Factors](core_00-01_principles.md#91-required-evaluation-factors) (scaled / adversarial deployment scrutiny).
 - Owner floor: [Article XIII-C](core_10-10_rights_part_c.md#article-xiii-c-autonomous-lethal-systems-and-autonomous-coercion-tools). Systems-layer implementation: [Article XII-A](core_10-10_rights_part_c.md#article-xii-a-reliability-and-trustworthiness-baseline) and *[corpus_systems.md](corpus_systems.md)*, CS-4 — System classification and handling classification.
 - Cluster component: [§3.13 *Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm*](#use-of-force-autonomous-coercion-and-mass-harm-cluster).
 - Read with: [Autonomous Lethal System](#autonomous-lethal-system-constitutional), [Coercion and Manipulation](core_05-05_definitions_b_semi_independent.md#coercion-and-manipulation-constitutional), [Adversarial, Scaled, and Exploited Conditions](core_05-05_definitions_a_independent.md#adversarial-scaled-and-exploited-conditions), [Reversibility](core_05-05_definitions_a_independent.md#reversibility-constitutional), [Irreversible Deprivation Measure](#irreversible-deprivation-measure-constitutional), [Meaningful Agency](core_05-05_definitions_b_semi_independent.md#meaningful-agency), and [Protected Characteristics](core_05-05_definitions_b_semi_independent.md#protected-characteristics-constitutional).

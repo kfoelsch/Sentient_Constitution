@@ -102,7 +102,7 @@ Items are grouped into **eleven tracks**. Within each track, items are ordered t
 
 | # | Item | Tier | Reason |
 |---|------|------|--------|
-| 8.1 | Labor rights and economic floor beyond survival | T2 | Authors the labor floor; interacts with Ch 1 §6.1 *Productive Capacity* non-concentration rule. |
+| 8.1 | Labor rights and economic floor beyond survival | T2 | Authors the labor floor; interacts with Ch 1 §6 *Productive Capacity* non-concentration rule. |
 | 8.2 | Housing beyond stable shelter (Article III-A extension) | T2 | Tenure-security floor; substrate-agnostic. |
 | 8.3 | Accessibility as a cross-cutting obligation | T2 | Cross-cutting; interacts with Ch 5 *Materiality*, *Dependency*, *Substantive Fairness*. |
 
@@ -116,10 +116,10 @@ Items are grouped into **eleven tracks**. Within each track, items are ordered t
 
 | # | Item | Tier | Reason |
 |---|------|------|--------|
-| 10.1 | Economic concentration thresholds (Ch 1 §6.1 extension or Article IV-C) | T2 | Builds on §6.1 already-landed non-concentration rule. |
+| 10.1 | Economic concentration thresholds (Ch 1 §6 extension or Article IV-C) | T2 | Builds on §6 already-landed non-concentration rule. |
 | 10.2 | Language, culture, and heritage protection | T2 | Article V-B extension or new V-E. |
 | 10.3 | Animals and contested-sentient life | T3 | Reads on top of Track-0 sentience-status adjudication procedure. |
-| 10.4 | Intellectual and creative work | T3 | Article VIII extension; interacts with Ch 1 §6.1 non-concentration rule and Track 8 labor floor. |
+| 10.4 | Intellectual and creative work | T3 | Article VIII extension; interacts with Ch 1 §6 non-concentration rule and Track 8 labor floor. |
 
 ### Track 11 — Adoption framing / plain-language obligation
 
@@ -209,7 +209,7 @@ Each item below specifies (a) owner chapter, (b) insertion site, (c) Ch 5 entrie
 - **Ch 5 extensions:** `Sentience Non-Exclusion` E-line extended to cite Article V-E procedural floor.
 - **Companion routing:** `core_09-09_forum.md` jurisdictional hook (designated forum family); `core_02-04_definition_mechanics.md` burden / traceability link via cross-reference.
 - **Regression seeds:** `RS-CH1-SENT-ADJ-001` (Core; default-inclusion-under-uncertainty preserved against an adversarial reclassification attempt); `RS-CH1-SENT-ADJ-002` (Adversarial; declassification used to contract Article V-A dignity floor); `RS-CH1-SENT-ADJ-003` (Substrate-edge; hybrid biological-synthetic case where a single adopter denies status under one classification taxonomy).
-- **Flagged questions:** **[REVIEW-Q-0.1.A]** default-inclusion-under-uncertainty as `must` or `should`? Recommend `must` to align with Ch 1 §6.1.1 reversibility-under-uncertainty rule. **[REVIEW-Q-0.1.B]** declassification time-bound: 12 months / 24 months / "shortest necessary" + mandatory review? Recommend "shortest necessary" with mandatory periodic review under Ch 8.
+- **Flagged questions:** **[REVIEW-Q-0.1.A]** default-inclusion-under-uncertainty as `must` or `should`? Recommend `must` to align with Ch 1 §6 reversibility-under-uncertainty rule. **[REVIEW-Q-0.1.B]** declassification time-bound: 12 months / 24 months / "shortest necessary" + mandatory review? Recommend "shortest necessary" with mandatory periodic review under Ch 8.
 
 ### Track 1
 
@@ -234,7 +234,7 @@ Each item below specifies (a) owner chapter, (b) insertion site, (c) Ch 5 entrie
 - **Owner chapter:** Chapter Nine, extension of Track 1.1 / 1.2 articles — **not** a new standalone article. Recommend Article VII-D extension (subsection on derivation / instantiation) plus Article (Track 1.2)'s graduated-capability subsection.
 - **Insertion site:** within the Family article (1.1) and within the Children article (1.2) as nested subsections, **plus** Ch 5 entries below.
 - **Ch 5 additions:** `Derived Sentient`, `Instantiation Consent`, `Parent-System Relationship`.
-- **Regression seeds:** `RS-CH1-DERIVED-001` (Core; parent-system claims continuing authority over derived sentient); `RS-CH1-DERIVED-002` (Adversarial; mass-instantiation of derived sentients defended as productive-capacity expansion under §6.1 non-concentration rule).
+- **Regression seeds:** `RS-CH1-DERIVED-001` (Core; parent-system claims continuing authority over derived sentient); `RS-CH1-DERIVED-002` (Adversarial; mass-instantiation of derived sentients defended as productive-capacity expansion under §6 non-concentration rule).
 
 ### Track 2
 
@@ -347,7 +347,7 @@ Each item below specifies (a) owner chapter, (b) insertion site, (c) Ch 5 entrie
 - **Insertion site:** `core_10-10_rights_part_a.md` after Track 2.1 Article III-C bodily-maintenance.
 - **Ch 5 additions:** `Fair Compensation`, `Collective Organization`, `Safe Conditions`, `Leisure and Rest`.
 - **Companion routing:** `corpus_institutions.md` CI-9..12 fiscal material; `corpus_systems.md` Protocol A safety profile cross-reference for `Safe Conditions`.
-- **§6.1 interaction:** explicit; floor not satisfied by §6.1's non-concentration rule alone.
+- **§6 interaction:** explicit; floor not satisfied by §6's non-concentration rule alone.
 - **Regression seeds:** `RS-CH1-LABOR-001` (Core; survival-floor-satisfied-but-exploitative arrangements); `RS-CH1-LABOR-002` (Adversarial; collective-organization floor defeated by classification re-routing).
 
 #### 8.2 — Housing beyond stable shelter (T2)
@@ -359,8 +359,8 @@ Each item below specifies (a) owner chapter, (b) insertion site, (c) Ch 5 entrie
 
 #### 8.3 — Accessibility as a cross-cutting obligation (T2)
 
-- **Owner chapter:** **[REVIEW-Q-8.3.A]** Chapter One §8.1 (evaluation factor) **vs.** Chapter Nine new article. Recommend **both** — Chapter One §8.1 cross-cutting evaluation-factor row, plus Chapter Nine (new Article between V-B and V-C, or **Article V-E** if available) for the rights floor. Distinguish from Article III-B educational accessibility (which stays).
-- **Insertion site (Ch 1):** `core_00-01_principles.md` §7.1 new bullet.
+- **Owner chapter:** **[REVIEW-Q-8.3.A]** Chapter One §10.1 (evaluation factor) **vs.** Chapter Nine new article. Recommend **both** — Chapter One §10.1 cross-cutting evaluation-factor row, plus Chapter Nine (new Article between V-B and V-C, or **Article V-E** if available) for the rights floor. Distinguish from Article III-B educational accessibility (which stays).
+- **Insertion site (Ch 1):** `core_00-01_principles.md` §8.1 new bullet.
 - **Insertion site (Ch 9):** `core_10-10_rights_part_b.md` Article V-E or V-F (depends on Tracks 0.1 / 1.2 / 3.1 letter assignments — see §6 below).
 - **Ch 5 additions:** `Accessibility` plus `Protected Characteristics` extension (extend coverage).
 - **Materiality / Dependency scaling:** explicit.
@@ -370,8 +370,8 @@ Each item below specifies (a) owner chapter, (b) insertion site, (c) Ch 5 entrie
 
 #### 9.1 — Consolidated privacy article (T2)
 
-- **Owner chapter:** Chapter Nine, **[REVIEW-Q-9.1.A]** new umbrella article **vs.** retained distribution with new umbrella pointer (no new article). Recommend **retained distribution + new Ch 5 cluster** — the existing distributed coverage is doctrinally dense and consolidating it risks contracting Article VII-B Type-N protections or Article XIII-A covert-power limits. Promote `Privacy (Informational)` to a peer-level cluster head in Ch 5 §2 with sub-entries pointing back to the existing articles, plus a small Ch 1 §7.x cross-cutting bullet.
-- **Insertion site:** `core_05-05_definitions_a_independent.md` §2 cluster head; `core_00-01_principles.md` §7.x bullet.
+- **Owner chapter:** Chapter Nine, **[REVIEW-Q-9.1.A]** new umbrella article **vs.** retained distribution with new umbrella pointer (no new article). Recommend **retained distribution + new Ch 5 cluster** — the existing distributed coverage is doctrinally dense and consolidating it risks contracting Article VII-B Type-N protections or Article XIII-A covert-power limits. Promote `Privacy (Informational)` to a peer-level cluster head in Ch 5 §2 with sub-entries pointing back to the existing articles, plus a small Ch 1 §8.x cross-cutting bullet.
+- **Insertion site:** `core_05-05_definitions_a_independent.md` §2 cluster head; `core_00-01_principles.md` §8.x bullet.
 - **Ch 5 changes:** extend `Privacy (Informational)` to a cluster head; add sub-entries pointing to Articles VII-A, VII-B, VIII, IX-A, IX-E.
 - **Regression seeds:** `RS-CH1-PRIV-001` (Core; "distributed privacy" framing used to deny consolidated challenge rights); `RS-CH1-PRIV-002` (Adversarial; cluster-head pointer used to import looser standard from one sub-entry into another).
 
@@ -379,11 +379,11 @@ Each item below specifies (a) owner chapter, (b) insertion site, (c) Ch 5 entrie
 
 #### 10.1 — Economic concentration thresholds (T2)
 
-- **Owner chapter:** **[REVIEW-Q-10.1.A]** Chapter One §6.1 extension **vs.** Chapter Nine new article (Article IV-C). Recommend **Chapter One §6.1 extension** plus **Chapter Nine pointer** — threshold mechanism is a principle-layer matter (it scales with adopter context); rights-layer floor lives in Article IV-A non-concentration language already.
-- **Insertion site:** `core_00-01_principles.md` §6.1.1 sub-clause (threshold mechanism; adopter-tunable); `core_10-10_rights_part_a.md` Article IV pointer.
+- **Owner chapter:** **[REVIEW-Q-10.1.A]** Chapter One §6 extension **vs.** Chapter Nine new article (Article IV-C). Recommend **Chapter One §6 extension** plus **Chapter Nine pointer** — threshold mechanism is a principle-layer matter (it scales with adopter context); rights-layer floor lives in Article IV-A non-concentration language already.
+- **Insertion site:** `core_00-01_principles.md` §6 sub-clause (threshold mechanism; adopter-tunable); `core_10-10_rights_part_a.md` Article IV pointer.
 - **Ch 5 additions:** `Concentration Threshold`.
 - **Pluralism preservation:** adopter-tunable within a constitutional floor, not a single global number.
-- **§6.1 interaction:** existing non-concentration rule provides the floor; threshold provides the operational scaling.
+- **§6 interaction:** existing non-concentration rule provides the floor; threshold provides the operational scaling.
 - **Regression seeds:** `RS-CH1-CONC-001` (Core; aggregation under federated structures used to evade the threshold); `RS-CH1-CONC-002` (Adversarial; adopter-tunable framing pushed to nullification).
 
 #### 10.2 — Language, culture, and heritage protection (T2)
@@ -405,7 +405,7 @@ Each item below specifies (a) owner chapter, (b) insertion site, (c) Ch 5 entrie
 - **Owner chapter:** Chapter Nine, **[REVIEW-Q-10.4.A]** Article VIII extension **vs.** new article. Recommend **Article VIII extension** (new VIII-D on creative-labor compensation, training-data use, anti-displacement, attribution).
 - **Insertion site:** `core_10-10_rights_part_b.md` Article VIII new VIII-D.
 - **Ch 5 additions:** `Creative Work Attribution`, `Training-Data Use`, `Anti-Displacement Floor`.
-- **§6.1 / Track 8.1 interaction:** explicit; non-concentration and labor-floor cross-references.
+- **§6 / Track 8.1 interaction:** explicit; non-concentration and labor-floor cross-references.
 - **Companion routing:** `corpus_systems.md` operational detail without narrowing.
 - **Regression seeds:** `RS-CH1-CREATIVE-001` (Core; "fair use" or "transformative" framing used to erase attribution); `RS-CH1-CREATIVE-002` (Adversarial; training-data use defended as non-personal; anti-displacement defeated by aggregate-productivity framing).
 
@@ -421,7 +421,7 @@ Each item below specifies (a) owner chapter, (b) insertion site, (c) Ch 5 entrie
 
 #### 11.2 — Plain-language accessibility obligation (T3)
 
-- **Owner chapter:** **[REVIEW-Q-11.2.A]** Chapter One (principle) **vs.** Chapter Two (definition mechanics). Recommend **Chapter One current §3.4 (originally proposed as a new subsection before the science-informed inquiry insertion) plus Chapter Two §2 cross-reference** — the obligation is a principle-layer stewardship duty under §6.1.4 *Avoidable Burden* and Article VI capability-building, with Chapter Two's existing plain-language guardrails already in `doc_architecture.md` §4.
+- **Owner chapter:** **[REVIEW-Q-11.2.A]** Chapter One (principle) **vs.** Chapter Two (definition mechanics). Recommend **Chapter One current §3.4 (originally proposed as a new subsection before the science-informed inquiry insertion) plus Chapter Two §2 cross-reference** — the obligation is a principle-layer stewardship duty under §6.4 *Avoidable Burden* and Article VI capability-building, with Chapter Two's existing plain-language guardrails already in `doc_architecture.md` §4.
 - **Insertion site:** `core_00-01_principles.md` current §3.4 (originally proposed as a new subsection, or extension of §3.1 / §3.2 — final placement in drafting); `core_02-04_definition_mechanics.md` cross-reference only.
 - **Ch 5 additions:** none; reuses `Avoidable Burden`, `Accessibility` (Track 8.3).
 - **Definitional rigor preservation:** plain-language is not a license to soften definitions.
@@ -521,9 +521,9 @@ The **[REVIEW]** flags inside Section 5 are gathered here for one-pass review. R
 | Q-6.2.A | 6.2 | Autonomous weapons: rights-layer (IX-G) vs. systems-layer (Article XII extension) | Rights-layer (IX-G) |
 | Q-7.1.A | 7.1 | Capital punishment: (a) abolition / (b) tightened carve-out / (c) phased abolition | **(c) phased abolition** — highest-stakes call; user confirm |
 | Q-8.1.A | 8.1 | Labor floor: Article III extension (III-D) vs. new article | III-D |
-| Q-8.3.A | 8.3 | Accessibility owner: Ch 1 §7.1 vs. Ch 9 new article | Both — Ch 1 row + Ch 9 article |
+| Q-8.3.A | 8.3 | Accessibility owner: Ch 1 §8.1 vs. Ch 9 new article | Both — Ch 1 row + Ch 9 article |
 | Q-9.1.A | 9.1 | Privacy: new umbrella article vs. retained distribution + Ch 5 cluster | Retained + Ch 5 cluster |
-| Q-10.1.A | 10.1 | Concentration thresholds: Ch 1 §6.1 vs. Ch 9 IV-C | Ch 1 §6.1 + Ch 9 pointer |
+| Q-10.1.A | 10.1 | Concentration thresholds: Ch 1 §6 vs. Ch 9 IV-C | Ch 1 §6 + Ch 9 pointer |
 | Q-10.2.A | 10.2 | Language / culture: V-B extension vs. new V-E | V-B extension |
 | Q-10.2.B | 10.2 | Indigenous-continuity scope and Article I-A interaction | Open — needs scoping |
 | Q-10.3.A | 10.3 | Animals / contested-sentient life: Ch 5 cluster vs. Ch 9 article | Ch 5 cluster + Article I-A pointer |

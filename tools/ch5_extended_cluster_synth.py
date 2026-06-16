@@ -199,7 +199,7 @@ def synth_forum_families() -> str:
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Owner: [Chapter Nine §2](core_09-09_forum.md#2-default-venue-and-primary-stakes); read with [Chapter Nine §5](core_09-09_forum.md#5-intake-triage-mixed-stakes-and-routing-asymmetry), [Chapter Nine §6](core_09-09_forum.md#6-transfer-consolidation-and-coordination), and [Chapter Nine §7](core_09-09_forum.md#7-escalation-and-certification).
+- Owner: [Chapter Nine §2](core_09-09_forum.md#2-default-venue-and-primary-stakes); read with [Chapter Nine §5](core_09-09_forum.md#5-intake-triage-mixed-stakes-and-routing-asymmetry), [Chapter Nine §6](core_09-09_forum.md#6-transfer-consolidation-and-coordination), and [Chapter Nine §8](core_09-09_forum.md#7-escalation-and-certification).
 
 </details>
 
@@ -279,7 +279,7 @@ def synth_forum_families() -> str:
 
 - O: The forum family whose primary stake is ecological integrity, environmental preconditions, lifecycle or systemic ecological harm, restoration or remediation of shared systems, attributable environmental burdens, or pattern ecological failure material to classification or rights-floor enforcement.
 <a id="forum-family-environment-e"></a>
-- E: Integrate Chapter Six and Chapter Seven integration hooks with Chapter Nine primary-stakes tests; preserve certification to **Constitutional** forums where validity or structural remedy merges per Chapter Nine §7.
+- E: Integrate Chapter Six and Chapter Seven integration hooks with Chapter Nine primary-stakes tests; preserve certification to **Constitutional** forums where validity or structural remedy merges per Chapter Nine §8.
 <a id="forum-family-environment-c"></a>
 - C: Non-compliant: treating ecological merits as purely private disputes when the primary stake is environmental under Chapter Nine §2; segmenting restoration and preconditions analysis to defeat joint ecological merits evaluation.
 
@@ -289,7 +289,7 @@ def synth_forum_families() -> str:
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Owner: [Chapter Nine §4.2.5](core_09-09_forum.md#425-integrity-forums); read with Chapter Eight slot assignment due-process cross-references in Chapter Nine §7.
+- Owner: [Chapter Nine §4.2.5](core_09-09_forum.md#425-integrity-forums); read with Chapter Eight slot assignment due-process cross-references in Chapter Nine §8.
 
 </details>
 
@@ -315,9 +315,9 @@ def synth_forum_families() -> str:
 
 - O: The forum family that decides constitutional validity and meaning, structural remedies altering governance for classes of actors or systems, certified questions from other families, and supremacy disputes where constitutional text alone can resolve the certified issue.
 <a id="forum-family-constitutional-e"></a>
-- E: Preserve Article XXIII-class review safeguards and Chapter Eight due-process hooks when certification or escalation arrives from lower families; distinguish certified constitutional questions from companion operational-law provisional rulings under Chapter Nine §4.3 and §7.
+- E: Preserve Article XXIII-class review safeguards and Chapter Eight due-process hooks when certification or escalation arrives from lower families; distinguish certified constitutional questions from companion operational-law provisional rulings under Chapter Nine §4.3 and §8.
 <a id="forum-family-constitutional-c"></a>
-- C: Non-compliant: treating non-certifiable operational detail as final constitutional disposition; collapsing certification discipline so families bypass Chapter Nine §7 when constitutional validity, meaning, or structural remedy is materially at stake.
+- C: Non-compliant: treating non-certifiable operational detail as final constitutional disposition; collapsing certification discipline so families bypass Chapter Nine §8 when constitutional validity, meaning, or structural remedy is materially at stake.
 """
     )
 

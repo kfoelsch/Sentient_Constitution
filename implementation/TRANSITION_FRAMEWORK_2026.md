@@ -244,7 +244,7 @@ Condensed from [archive/TODO_COMPLETED_2026-Q2.md](../archive/TODO_COMPLETED_202
 - [corpus_joint_structure.md](../corpus_joint_structure.md) — **CJS-5.17**, **CJS-5.5** (*Cross-domain implementation layer*)
 - [corpus_systems.md](../corpus_systems.md) — **Protocol T**
 
-**Dependencies noted in archive:** **Sentient Constitution Chapter Nine** rights floors; **Chapter Four** compliance / enforcement realism (e.g. §7 anchors) where transition touches remedy capacity; emergency/contingency and reversibility definitions; **Protocol A** operational transition and environment controls.
+**Dependencies noted in archive:** **Sentient Constitution Chapter Nine** rights floors; **Chapter Four** compliance / enforcement realism (e.g. §8 anchors) where transition touches remedy capacity; emergency/contingency and reversibility definitions; **Protocol A** operational transition and environment controls.
 
 ---
 

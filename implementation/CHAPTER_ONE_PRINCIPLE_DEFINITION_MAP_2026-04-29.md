@@ -546,7 +546,7 @@ Drafting implication:
 
 This section is properly light. It should not become a duplicate of section 6.
 
-### 11. Integrated Application
+### 12. Integrated Application
 
 Current core attachments:
 

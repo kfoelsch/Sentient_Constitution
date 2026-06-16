@@ -91,7 +91,7 @@ The Earth's biophysical and living-system conditions are preconditions for every
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [3. Foundational Objective: Wellbeing](core_00-01_principles.md#3-foundational-objective-wellbeing), [4.1 Safety](core_00-01_principles.md#41-safety-harm-constraint), and [8.1 Required Evaluation Factors](core_00-01_principles.md#81-required-evaluation-factors).
+- Upstream: Principles: Chapter One [3. Foundational Objective: Wellbeing](core_00-01_principles.md#3-foundational-objective-wellbeing), [4.1 Safety](core_00-01_principles.md#41-safety-harm-constraint), and [9.1 Required Evaluation Factors](core_00-01_principles.md#91-required-evaluation-factors).
 
 </details>
 
@@ -128,7 +128,7 @@ The Earth's biophysical and living-system conditions are preconditions for every
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [4.2 Truth](core_00-01_principles.md#42-truth-epistemic-integrity-constraint), [7.2 Epistemic Disclosure Constraints](core_00-01_principles.md#72-epistemic-disclosure-constraints), and [8.1 Required Evaluation Factors](core_00-01_principles.md#81-required-evaluation-factors).
+- Upstream: Principles: Chapter One [4.2 Truth](core_00-01_principles.md#42-truth-epistemic-integrity-constraint), [8.2 Epistemic Disclosure Constraints](core_00-01_principles.md#82-epistemic-disclosure-constraints), and [9.1 Required Evaluation Factors](core_00-01_principles.md#91-required-evaluation-factors).
 
 </details>
 
@@ -155,7 +155,7 @@ The Earth's biophysical and living-system conditions are preconditions for every
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [3. Foundational Objective: Wellbeing](core_00-01_principles.md#3-foundational-objective-wellbeing), [4.1 Safety](core_00-01_principles.md#41-safety-harm-constraint), and [8. Systemic Evaluation Requirement](core_00-01_principles.md#8-systemic-evaluation-requirement).
+- Upstream: Principles: Chapter One [3. Foundational Objective: Wellbeing](core_00-01_principles.md#3-foundational-objective-wellbeing), [4.1 Safety](core_00-01_principles.md#41-safety-harm-constraint), and [9. Systemic Evaluation Requirement](core_00-01_principles.md#9-systemic-evaluation-requirement).
 - Chapter Five: canonical **Intergenerational Responsibility** O/E/C sits in [**§3.16** *Ecological Integrity, Footprint, and Sustainability*](core_05-05_definitions_b_semi_independent.md#ecological-footprint-semi-independent), read jointly with **Ecological Integrity**, **Sustainability**, **Environmental Preconditions**, and **Ecological Footprint** (joint invocation where footprint burden, disclosure, comparison, reduction, or traceability is materially at issue). Joint invocation for **Indigenous Continuity**, **Language, Culture, and Heritage**, **Natural Systems Standing**, and **Intergenerational Responsibility** also routes through [**§3.21**](core_05-05_definitions_b_semi_independent.md#indigenous-continuity-language-culture-heritage-semi-independent) where community-anchored continuity, heritage, natural-systems standing, and futures-discipline analysis apply together.
 
 </details>
@@ -183,7 +183,7 @@ The Earth's biophysical and living-system conditions are preconditions for every
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [4.1 Safety](core_00-01_principles.md#41-safety-harm-constraint), [7.1 Core Tradeoff Principles](core_00-01_principles.md#71-core-tradeoff-principles), and [8. Systemic Evaluation Requirement](core_00-01_principles.md#8-systemic-evaluation-requirement).
+- Upstream: Principles: Chapter One [4.1 Safety](core_00-01_principles.md#41-safety-harm-constraint), [8.1 Core Tradeoff Principles](core_00-01_principles.md#81-core-tradeoff-principles), and [9. Systemic Evaluation Requirement](core_00-01_principles.md#9-systemic-evaluation-requirement).
 
 </details>
 
@@ -234,7 +234,7 @@ Procedural detail for **Article II** lives in implementation text:
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [4.2 Truth](core_00-01_principles.md#42-truth-epistemic-integrity-constraint), [7.1 Core Tradeoff Principles](core_00-01_principles.md#71-core-tradeoff-principles), and [8.1 Required Evaluation Factors](core_00-01_principles.md#81-required-evaluation-factors).
+- Upstream: Principles: Chapter One [4.2 Truth](core_00-01_principles.md#42-truth-epistemic-integrity-constraint), [8.1 Core Tradeoff Principles](core_00-01_principles.md#81-core-tradeoff-principles), and [9.1 Required Evaluation Factors](core_00-01_principles.md#91-required-evaluation-factors).
 
 </details>
 
@@ -267,7 +267,7 @@ Procedural detail for **Article II** lives in implementation text:
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [4.1 Safety](core_00-01_principles.md#41-safety-harm-constraint), [4.2 Truth](core_00-01_principles.md#42-truth-epistemic-integrity-constraint), and [7.1 Core Tradeoff Principles](core_00-01_principles.md#71-core-tradeoff-principles).
+- Upstream: Principles: Chapter One [4.1 Safety](core_00-01_principles.md#41-safety-harm-constraint), [4.2 Truth](core_00-01_principles.md#42-truth-epistemic-integrity-constraint), and [8.1 Core Tradeoff Principles](core_00-01_principles.md#81-core-tradeoff-principles).
 
 </details>
 
@@ -300,7 +300,7 @@ Procedural detail for **Article II** lives in implementation text:
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [4.1 Safety](core_00-01_principles.md#41-safety-harm-constraint), [7.1 Core Tradeoff Principles](core_00-01_principles.md#71-core-tradeoff-principles), and [8.2 Incentive Alignment and System Capture](core_00-01_principles.md#82-incentive-alignment-and-system-capture).
+- Upstream: Principles: Chapter One [4.1 Safety](core_00-01_principles.md#41-safety-harm-constraint), [8.1 Core Tradeoff Principles](core_00-01_principles.md#81-core-tradeoff-principles), and [9.2 Incentive Alignment and System Capture](core_00-01_principles.md#92-incentive-alignment-and-system-capture).
 
 </details>
 
@@ -328,7 +328,7 @@ Procedural detail for **Article II** lives in implementation text:
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [4.2 Truth](core_00-01_principles.md#42-truth-epistemic-integrity-constraint), [§9 Freedom](core_00-01_principles.md#9-freedom-bounded-agency), and [8.2 Incentive Alignment and System Capture](core_00-01_principles.md#82-incentive-alignment-and-system-capture).
+- Upstream: Principles: Chapter One [4.2 Truth](core_00-01_principles.md#42-truth-epistemic-integrity-constraint), [§10 Freedom](core_00-01_principles.md#10-freedom-bounded-agency), and [9.2 Incentive Alignment and System Capture](core_00-01_principles.md#92-incentive-alignment-and-system-capture).
 
 </details>
 
@@ -357,7 +357,7 @@ Procedural detail for **Article II** lives in implementation text:
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [4.1 Safety](core_00-01_principles.md#41-safety-harm-constraint), [7.1 Core Tradeoff Principles](core_00-01_principles.md#71-core-tradeoff-principles), and [8.1 Required Evaluation Factors](core_00-01_principles.md#81-required-evaluation-factors).
+- Upstream: Principles: Chapter One [4.1 Safety](core_00-01_principles.md#41-safety-harm-constraint), [8.1 Core Tradeoff Principles](core_00-01_principles.md#81-core-tradeoff-principles), and [9.1 Required Evaluation Factors](core_00-01_principles.md#91-required-evaluation-factors).
 
 </details>
 
@@ -405,7 +405,7 @@ Procedural detail for **Article II** lives in implementation text:
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [3. Foundational Objective: Wellbeing](core_00-01_principles.md#3-foundational-objective-wellbeing), [4.1 Safety](core_00-01_principles.md#41-safety-harm-constraint), and [§9 Freedom](core_00-01_principles.md#9-freedom-bounded-agency).
+- Upstream: Principles: Chapter One [3. Foundational Objective: Wellbeing](core_00-01_principles.md#3-foundational-objective-wellbeing), [4.1 Safety](core_00-01_principles.md#41-safety-harm-constraint), and [§10 Freedom](core_00-01_principles.md#10-freedom-bounded-agency).
 
 </details>
 
@@ -452,7 +452,7 @@ Procedural detail for **Article II** lives in implementation text:
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [3. Foundational Objective: Wellbeing](core_00-01_principles.md#3-foundational-objective-wellbeing), [4.2 Truth](core_00-01_principles.md#42-truth-epistemic-integrity-constraint), and [§9 Freedom](core_00-01_principles.md#9-freedom-bounded-agency).
+- Upstream: Principles: Chapter One [3. Foundational Objective: Wellbeing](core_00-01_principles.md#3-foundational-objective-wellbeing), [4.2 Truth](core_00-01_principles.md#42-truth-epistemic-integrity-constraint), and [§10 Freedom](core_00-01_principles.md#10-freedom-bounded-agency).
 
 </details>
 
@@ -489,7 +489,7 @@ Procedural detail for **Article II** lives in implementation text:
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [3. Foundational Objective: Wellbeing](core_00-01_principles.md#3-foundational-objective-wellbeing), [§9 Freedom](core_00-01_principles.md#9-freedom-bounded-agency), [7.3 Freedom-Limitation Constraints](core_00-01_principles.md#73-freedom-limitation-constraints).
+- Upstream: Principles: Chapter One [3. Foundational Objective: Wellbeing](core_00-01_principles.md#3-foundational-objective-wellbeing), [§10 Freedom](core_00-01_principles.md#10-freedom-bounded-agency), [8.3 Freedom-Limitation Constraints](core_00-01_principles.md#83-freedom-limitation-constraints).
 - Downstream: **Article V-A** dignity floor, **Article VII-A** self-ownership non-intrusion floor, **Article V-B** non-discrimination.
 - Read with: Chapter Five *Bodily-Maintenance Access*, *Substantive Fairness*, *Protected Characteristics*; [§3.7 *Bodily-Maintenance Access, Safe Conditions, Tenure Security, Environmental Preconditions, Cultural Continuity, Rest, and Anti-Displacement Floor*](core_05-05_definitions_c_dependent_clusters.md#safe-conditions-tenure-security-and-environmental-preconditions-cluster) (where care access, survival-floor continuity, safe participation conditions, rest or recuperation, tenure, essential operating environments, environmental preconditions, or place-linked continuity are materially implicated together).
 
@@ -536,8 +536,8 @@ Procedural detail for **Article II** lives in implementation text:
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [3. Foundational Objective: Wellbeing](core_00-01_principles.md#3-foundational-objective-wellbeing), [§9 Freedom (Bounded Agency)](core_00-01_principles.md#9-freedom-bounded-agency), [7.3 Freedom-Limitation Constraints](core_00-01_principles.md#73-freedom-limitation-constraints), [7.2.2 Stewardship and Operator Incentive Alignment](core_00-01_principles.md#822-stewardship-and-operator-incentive-alignment).
-- Downstream: **Article III-A** survival floor (read-on-top-of, not substitute-for), **Article III-B** educational access, **Article V-A** dignity, **Article V-B** non-discrimination, **Article IX-B** free association, **Article XII-A** reliability (as it bears on safe conditions), **Article XVIII** standing and participation, **Chapter One §6.1** non-concentration (explicit: §6.1 alone does not satisfy this floor).
+- Upstream: Principles: Chapter One [3. Foundational Objective: Wellbeing](core_00-01_principles.md#3-foundational-objective-wellbeing), [§10 Freedom (Bounded Agency)](core_00-01_principles.md#10-freedom-bounded-agency), [8.3 Freedom-Limitation Constraints](core_00-01_principles.md#83-freedom-limitation-constraints), [9.2.2 Stewardship and Operator Incentive Alignment](core_00-01_principles.md#922-stewardship-and-operator-incentive-alignment).
+- Downstream: **Article III-A** survival floor (read-on-top-of, not substitute-for), **Article III-B** educational access, **Article V-A** dignity, **Article V-B** non-discrimination, **Article IX-B** free association, **Article XII-A** reliability (as it bears on safe conditions), **Article XVIII** standing and participation, **Chapter One §6** non-concentration (explicit: §6 alone does not satisfy this floor).
 - Read with: Chapter Five *Fair Compensation*, *Collective Organization*, *Safe Conditions*, *Anti-Displacement Floor*, *Leisure and Rest*, *Indigenous Continuity*, and *Language, Culture, and Heritage*; [§3.7 *Bodily-Maintenance Access, Safe Conditions, Tenure Security, Environmental Preconditions, Cultural Continuity, Rest, and Anti-Displacement Floor*](core_05-05_definitions_c_dependent_clusters.md#safe-conditions-tenure-security-and-environmental-preconditions-cluster) (where survival, bodily-maintenance access, tenure, rest, safe labor conditions, anti-displacement, environmental preconditions, or place-linked continuity are materially implicated together); [§3.5 *Assembly and Collective Organization*](core_05-05_definitions_c_dependent_clusters.md#assembly-and-collective-organization-cluster) (where assembly and collective-organization pathways are jointly implicated). Implementation routing: `corpus_institutions.md` CI-9 / CI-10 / CI-11 fiscal material; `corpus_systems.md` Protocol A safety profile for *Safe Conditions*.
 
 </details>
@@ -563,7 +563,7 @@ Procedural detail for **Article II** lives in implementation text:
 - **Labor and economic floor:** This Article states the Rights-Floor for productive and contributed activity of sentients under **Sentience Non-Exclusion** — waged, contracted, platformed, cooperative, or comparable.
   - Read this floor **on top of** the **Article III-A** survival floor, not as a substitute for it.
   - Satisfying the **Article III-A** survival floor alone does not satisfy this Article.
-  - Satisfying the **Chapter One §6.1** non-concentration rule alone does not satisfy this Article.
+  - Satisfying the **Chapter One §6** non-concentration rule alone does not satisfy this Article.
   - The Rights-Floor consists of four interlocking components, each defined in Chapter Five: **Fair Compensation**, **Collective Organization**, **Safe Conditions**, and **Leisure and Rest**.
 - **Fair compensation:** Compensation for productive activity must:
   - reach substantive adequacy under [Fair Compensation](core_05-05_definitions_b_semi_independent.md#fair-compensation-constitutional);
@@ -575,6 +575,7 @@ Procedural detail for **Article II** lives in implementation text:
   - Pathways in scope include unions, cooperatives, guilds, associations, worker councils, and comparable substrate-agnostic forms.
   - Retaliation, surveillance, or targeting of collective-organization activity is non-compliant, consistent with **Article IX-B** and **Article XIII-A** covert-power limits.
   - Reclassifying workers into categories designed to defeat collective-organization pathways is non-compliant, regardless of the formal classification label.
+- **Labor mobility.** Non-compete and no-poach agreements are prohibited in any form, scope, or duration. They may not be imposed in employment, operator, steward, platform, or comparable productive-activity arrangements. Wage-fixing, excessive non-solicitation, and other mobility-restricting terms that suppress fair bargaining or productive mobility remain non-compliant where they materially degrade this floor.
 - **Business creation:** Sentients have the right to create, establish, and operate commercial enterprises, entrepreneurial ventures, and for-profit organizational forms, as defined in Chapter Five **Business Creation**.
   - This right covers sole proprietorships, partnerships, corporations, cooperatives with commercial purpose, platform-based businesses, and comparable substrate-agnostic commercial experiments.
   - Denial-by-proxy through commercial licensing regimes, capital-access discrimination, or procedural complexity designed to defeat business-creation pathways is non-compliant.
@@ -589,10 +590,10 @@ Procedural detail for **Article II** lives in implementation text:
 - **Leisure and rest:** Sentients hold a Rights-Floor entitlement to rest, recuperation, and non-productive time sufficient to preserve [Meaningful Agency](core_05-05_definitions_b_semi_independent.md#meaningful-agency), wellbeing, and participation capacity.
   - Compensation and productivity-requirement schemes must not be structured to defeat this floor.
   - Treating rest and recuperation as optional based on substrate or implementation classification is non-compliant under **Sentience Non-Exclusion**.
-- **Non-concentration, pro-competition, and consolidation-ceiling interaction:** **Chapter One §6.1** non-concentration discipline, **§6.1.4** pro-competition / anti-domination discipline, and **§6.1.5** consolidation-ceiling discipline apply to productive-activity power structures, but they are distinct from this floor.
+- **Non-concentration, pro-competition, and consolidation-ceiling interaction:** **Chapter One §6** non-concentration discipline, **§6.4** pro-competition / anti-domination discipline, and **§6.5** consolidation-ceiling discipline apply to productive-activity power structures, but they are distinct from this floor.
   - A market structure that satisfies non-concentration while failing Fair Compensation, Collective Organization, Safe Conditions, or Leisure and Rest is non-compliant under this Article.
-  - A productive-activity structure that satisfies this Article while concentrating power contrary to §6.1 is non-compliant under §6.1.
-  - Labor-market monopsony, no-poach arrangements, broad non-compete or mobility-restricting terms, platform lock-in, supplier dependency control, consolidation above a labor-demand or supplier-dependency ceiling, or gatekeeper practices that suppress fair bargaining or productive mobility are evaluated under §6.1.4 and §6.1.5 as well as this Article where materially relevant.
+  - A productive-activity structure that satisfies this Article while concentrating power contrary to §6 is non-compliant under §6.
+  - Labor-market monopsony, non-compete or no-poach agreements, wage-fixing, excessive non-solicitation or other mobility-restricting terms, platform lock-in, supplier dependency control, consolidation above a labor-demand or supplier-dependency ceiling, or gatekeeper practices that suppress fair bargaining or productive mobility are evaluated under §6.4 and §6.5 as well as this Article where materially relevant.
 - **Limits and implementation routing:** Any limit on **Fair Compensation**, **Collective Organization**, **Safe Conditions**, or **Leisure and Rest** must satisfy **Necessity**, **Proportionality**, **Protected Characteristics**, and **Substantive Fairness**.
   - Operational mechanics — fiscal orientation, transfer and insurance design, standards-setting for Safe Conditions, and collective-organization institutional design — route to `corpus_institutions.md` CI-9 (*Classification-linked institutional obligations*) / CI-10 (*Public revenue, fees, recurring charges, and billing integrity*) / CI-11 (*Resource stewardship and incentive integrity*) and to `corpus_systems.md` Protocol A under **Chapter Fifteen** incorporation discipline.
   - Those implementation texts must not be read to narrow this floor.
@@ -609,7 +610,7 @@ Those requirements protect shared infrastructure and the systems that depend on 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [4.2 Truth](core_00-01_principles.md#42-truth-epistemic-integrity-constraint), [8.1 Required Evaluation Factors](core_00-01_principles.md#81-required-evaluation-factors), and [8.2 Incentive Alignment and System Capture](core_00-01_principles.md#82-incentive-alignment-and-system-capture).
+- Upstream: Principles: Chapter One [4.2 Truth](core_00-01_principles.md#42-truth-epistemic-integrity-constraint), [9.1 Required Evaluation Factors](core_00-01_principles.md#91-required-evaluation-factors), and [9.2 Incentive Alignment and System Capture](core_00-01_principles.md#92-incentive-alignment-and-system-capture).
 
 </details>
 
@@ -638,8 +639,8 @@ Those requirements protect shared infrastructure and the systems that depend on 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [3. Foundational Objective: Wellbeing](core_00-01_principles.md#3-foundational-objective-wellbeing), [7.1 Core Tradeoff Principles](core_00-01_principles.md#71-core-tradeoff-principles), and [8.1 Required Evaluation Factors](core_00-01_principles.md#81-required-evaluation-factors).
-- Read with: [Chapter Five §3.20 *Governance Architecture, Oversight, Dependency, Decentralization, Concentration, Market Structure, and Exit-Path Integrity*](core_05-05_definitions_c_dependent_clusters.md#governance-architecture-oversight-decentralization-and-concentration-cluster) (joint invocation where concentration, oversight, dependency, governing-authority structure, or incentive routing intersect **§6.1** / **§6.1.1** and the *Concentration-threshold interaction* discipline in the operative text below).
+- Upstream: Principles: Chapter One [3. Foundational Objective: Wellbeing](core_00-01_principles.md#3-foundational-objective-wellbeing), [8.1 Core Tradeoff Principles](core_00-01_principles.md#81-core-tradeoff-principles), and [9.1 Required Evaluation Factors](core_00-01_principles.md#91-required-evaluation-factors).
+- Read with: [Chapter Five §3.20 *Governance Architecture, Oversight, Dependency, Decentralization, Concentration, Market Structure, and Exit-Path Integrity*](core_05-05_definitions_c_dependent_clusters.md#governance-architecture-oversight-decentralization-and-concentration-cluster) (joint invocation where concentration, oversight, dependency, governing-authority structure, or incentive routing intersect **§6** / **§6** and the *Concentration-threshold interaction* discipline in the operative text below).
 
 </details>
 
@@ -667,8 +668,8 @@ Those requirements protect shared infrastructure and the systems that depend on 
   
   Systems must not persistently extract from shared infrastructure or foundational dependencies without corresponding support. Persistent imbalances that materially threaten constitutional alignment are subject to audit, challenge, and corrective review under **Articles IX, XII, XIV, and XVII**.
 - **Concentration-threshold interaction:** Resource-allocation arrangements that produce or preserve concentration of wealth, power, control, or opportunity in ways that predictably degrade wellbeing, agency, dignity, or ecological integrity for other sentients engage:
-  - the **Chapter One §6.1.1 non-concentration floor**;
-  - the **[§6.1.3 Concentration Threshold Mechanism](core_00-01_principles.md#613-concentration-threshold-mechanism-adopter-tunable)** discipline.
+  - the **Chapter One §6 non-concentration floor**;
+  - the **[§6.3 Concentration Threshold Mechanism](core_00-01_principles.md#63-concentration-threshold-mechanism-adopter-tunable)** discipline.
   
   Adopter-tunable operational thresholds are permitted within the floor. Threshold regimes set to nullify the floor are non-compliant. Examples of nullifying regimes:
   - thresholds that foreseeably never bind;

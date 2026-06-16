@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Elevate Chapter One interpretive front matter to §1; renumber §1–§10 → §2–§11."""
+"""Elevate Chapter One interpretive front matter to §1; renumber §1–§11 → §2–§12."""
 
 from __future__ import annotations
 
@@ -56,12 +56,12 @@ HEADER_RENUMBER: list[tuple[str, str]] = [
     ("#### 3.1 ", "#### 4.1 "),
     ("#### 2.2 ", "#### 3.2 "),
     ("#### 2.1 ", "#### 3.1 "),
-    ("### 11. Integrated Application", "### 11. Integrated Application"),
-    ("### 9. Prohibition on Absolute Override", "### 10. Prohibition on Absolute Override"),
+    ("### 12. Integrated Application", "### 12. Integrated Application"),
+    ("### 9. Prohibition on Absolute Override", "### 11. Prohibition on Absolute Override"),
     ("### 8. Freedom (Bounded Agency)", "### 9. Freedom (Bounded Agency)"),
-    ("### 7. Systemic Evaluation Requirement", "### 8. Systemic Evaluation Requirement"),
-    ("### 6. Interaction and Conflict Resolution", "### 7. Interaction and Conflict Resolution"),
-    ("### 5. Shared-System Capacity and Stewardship", "### 6. Shared-System Capacity and Stewardship"),
+    ("### 7. Systemic Evaluation Requirement", "### 9. Systemic Evaluation Requirement"),
+    ("### 6. Interaction and Conflict Resolution", "### 8. Interaction and Conflict Resolution"),
+    ("### 5. Shared-System Capacity and Stewardship", "### 6. Shared-System Capacity"),
     ("### 4. System Stability Enabler: Trust (Coordination Integrity)", "### 5. System Stability Enabler: Trust (Coordination Integrity)"),
     ("### 3. Non-Negotiable Constraints: Safety and Truth", "### 4. Non-Negotiable Constraints: Safety and Truth"),
     ("### 2. Foundational Objective: Wellbeing", "### 3. Foundational Objective: Wellbeing"),
@@ -70,50 +70,50 @@ HEADER_RENUMBER: list[tuple[str, str]] = [
 
 # Anchor slug rewrites inside core_00-01_principles.md links (deepest first).
 ANCHOR_MAP: list[tuple[str, str]] = [
-    ("#825-contingent-claims-games-of-chance-and-event-contract-markets", "#825-contingent-claims-games-of-chance-and-event-contract-markets"),
-    ("#824-misalignment-correction-and-capture-response", "#824-misalignment-correction-and-capture-response"),
-    ("#823-role-depth-and-material-responsibility-pathways", "#823-role-depth-and-material-responsibility-pathways"),
-    ("#822-stewardship-and-operator-incentive-alignment", "#822-stewardship-and-operator-incentive-alignment"),
-    ("#821-alignment-requirement", "#821-alignment-requirement"),
-    ("#815-assembly-collective-organization-and-institutional-formation", "#815-assembly-collective-organization-and-institutional-formation"),
-    ("#814-voluntary-discontinuation-and-exit-rights", "#814-voluntary-discontinuation-and-exit-rights"),
-    ("#813-privacy-informational-joint-invocation", "#813-privacy-informational-joint-invocation"),
-    ("#812-accessibility-under-sentience-non-exclusion", "#812-accessibility-under-sentience-non-exclusion"),
-    ("#811-systemic-scope-and-risk-factors", "#811-systemic-scope-and-risk-factors"),
-    ("#742-proxy-divergence-invalidation", "#742-proxy-divergence-invalidation"),
-    ("#741-rights-collision-decision-test", "#741-rights-collision-decision-test"),
-    ("#732-time-consistency-constraint", "#732-time-consistency-constraint"),
-    ("#731-constraint-on-freedom", "#731-constraint-on-freedom"),
-    ("#722-trust-truth-alignment", "#722-trust-truth-alignment"),
-    ("#721-preservation-of-epistemic-integrity", "#721-preservation-of-epistemic-integrity"),
-    ("#714-minimization-of-avoidable-burden", "#714-minimization-of-avoidable-burden"),
-    ("#713-minimization-of-harm", "#713-minimization-of-harm"),
-    ("#712-necessity", "#712-necessity"),
-    ("#711-proportionality", "#711-proportionality"),
-    ("#625-bounds-and-rights-floor-disclaimer", "#625-bounds-and-rights-floor-disclaimer"),
-    ("#624-openness-aspiration", "#624-openness-aspiration"),
-    ("#623-institutional-development", "#623-institutional-development"),
-    ("#622-distributed-understanding", "#622-distributed-understanding"),
-    ("#621-stewardship", "#621-stewardship"),
-    ("#615-consolidation-ceiling", "#615-consolidation-ceiling"),
-    ("#614-pro-competition-and-anti-domination", "#614-pro-competition-and-anti-domination"),
-    ("#613-concentration-threshold-mechanism-adopter-tunable", "#613-concentration-threshold-mechanism-adopter-tunable"),
-    ("#612-constitutional-efficiency", "#612-constitutional-efficiency"),
-    ("#611-productive-capacity-instrumental-good", "#611-productive-capacity-instrumental-good"),
-    ("#11-integrated-application", "#11-integrated-application"),
-    ("#10-prohibition-on-absolute-override", "#10-prohibition-on-absolute-override"),
-    ("#9-freedom-bounded-agency", "#9-freedom-bounded-agency"),
-    ("#8-systemic-evaluation-requirement", "#8-systemic-evaluation-requirement"),
-    ("#82-incentive-alignment-and-system-capture", "#82-incentive-alignment-and-system-capture"),
-    ("#81-required-evaluation-factors", "#81-required-evaluation-factors"),
-    ("#7-interaction-and-conflict-resolution", "#7-interaction-and-conflict-resolution"),
-    ("#73-freedom-limitation-constraints", "#73-freedom-limitation-constraints"),
-    ("#72-epistemic-disclosure-constraints", "#72-epistemic-disclosure-constraints"),
-    ("#71-core-tradeoff-principles", "#71-core-tradeoff-principles"),
-    ("#74-rights-collision-procedure", "#74-rights-collision-procedure"),
+    ("#925-contingent-claims-games-of-chance-and-event-contract-markets", "#925-contingent-claims-games-of-chance-and-event-contract-markets"),
+    ("#924-misalignment-correction-and-capture-response", "#924-misalignment-correction-and-capture-response"),
+    ("#923-role-depth-and-material-responsibility-pathways", "#923-role-depth-and-material-responsibility-pathways"),
+    ("#922-stewardship-and-operator-incentive-alignment", "#922-stewardship-and-operator-incentive-alignment"),
+    ("#921-alignment-requirement", "#921-alignment-requirement"),
+    ("#915-assembly-collective-organization-and-institutional-formation", "#915-assembly-collective-organization-and-institutional-formation"),
+    ("#914-voluntary-discontinuation-and-exit-rights", "#914-voluntary-discontinuation-and-exit-rights"),
+    ("#913-privacy-informational-joint-invocation", "#913-privacy-informational-joint-invocation"),
+    ("#912-accessibility-under-sentience-non-exclusion", "#912-accessibility-under-sentience-non-exclusion"),
+    ("#911-systemic-scope-and-risk-factors", "#911-systemic-scope-and-risk-factors"),
+    ("#842-proxy-divergence-invalidation", "#842-proxy-divergence-invalidation"),
+    ("#841-rights-collision-decision-test", "#841-rights-collision-decision-test"),
+    ("#832-time-consistency-constraint", "#832-time-consistency-constraint"),
+    ("#831-constraint-on-freedom", "#831-constraint-on-freedom"),
+    ("#822-trust-truth-alignment", "#822-trust-truth-alignment"),
+    ("#821-preservation-of-epistemic-integrity", "#821-preservation-of-epistemic-integrity"),
+    ("#814-minimization-of-avoidable-burden", "#814-minimization-of-avoidable-burden"),
+    ("#813-minimization-of-harm", "#813-minimization-of-harm"),
+    ("#812-necessity", "#812-necessity"),
+    ("#811-proportionality", "#811-proportionality"),
+    ("#75-bounds-and-rights-floor-disclaimer", "#75-bounds-and-rights-floor-disclaimer"),
+    ("#74-openness-aspiration", "#74-openness-aspiration"),
+    ("#73-institutional-development", "#73-institutional-development"),
+    ("#72-distributed-understanding", "#72-distributed-understanding"),
+    ("#71-stewardship", "#71-stewardship"),
+    ("#65-consolidation-ceiling", "#65-consolidation-ceiling"),
+    ("#64-pro-competition-and-anti-domination", "#64-pro-competition-and-anti-domination"),
+    ("#63-concentration-threshold-mechanism-adopter-tunable", "#63-concentration-threshold-mechanism-adopter-tunable"),
+    ("#62-constitutional-efficiency", "#62-constitutional-efficiency"),
+    ("#61-productive-capacity-instrumental-good", "#61-productive-capacity-instrumental-good"),
+    ("#12-integrated-application", "#12-integrated-application"),
+    ("#11-prohibition-on-absolute-override", "#11-prohibition-on-absolute-override"),
+    ("#10-freedom-bounded-agency", "#10-freedom-bounded-agency"),
+    ("#9-systemic-evaluation-requirement", "#9-systemic-evaluation-requirement"),
+    ("#92-incentive-alignment-and-system-capture", "#92-incentive-alignment-and-system-capture"),
+    ("#91-required-evaluation-factors", "#91-required-evaluation-factors"),
+    ("#8-interaction-and-conflict-resolution", "#8-interaction-and-conflict-resolution"),
+    ("#83-freedom-limitation-constraints", "#83-freedom-limitation-constraints"),
+    ("#82-epistemic-disclosure-constraints", "#82-epistemic-disclosure-constraints"),
+    ("#81-core-tradeoff-principles", "#81-core-tradeoff-principles"),
+    ("#84-rights-collision-procedure", "#84-rights-collision-procedure"),
     ("#6-shared-system-capacity-and-stewardship", "#6-shared-system-capacity-and-stewardship"),
-    ("#62-stewardship-and-distributed-understanding", "#62-stewardship-and-distributed-understanding"),
-    ("#61-shared-system-capacity", "#61-shared-system-capacity"),
+    ("#7-stewardship-and-distributed-understanding", "#7-stewardship-and-distributed-understanding"),
+    ("#6-shared-system-capacity", "#6-shared-system-capacity"),
     ("#5-system-stability-enabler-trust-coordination-integrity", "#5-system-stability-enabler-trust-coordination-integrity"),
     ("#51-resilience-and-self-healing-design", "#51-resilience-and-self-healing-design"),
     ("#4-non-negotiable-constraints-safety-and-truth", "#4-non-negotiable-constraints-safety-and-truth"),
@@ -131,29 +131,29 @@ ANCHOR_MAP: list[tuple[str, str]] = [
 
 # Display labels in link text and prose (order: longest / most specific first).
 LABEL_MAP: list[tuple[str, str]] = [
-    ("[11. Integrated Application]", "[11. Integrated Application]"),
-    ("11. Integrated Application", "11. Integrated Application"),
-    ("[10. Prohibition on Absolute Override]", "[10. Prohibition on Absolute Override]"),
-    ("[9. Freedom (Bounded Agency)]", "[9. Freedom (Bounded Agency)]"),
+    ("[12. Integrated Application]", "[12. Integrated Application]"),
+    ("12. Integrated Application", "12. Integrated Application"),
+    ("[11. Prohibition on Absolute Override]", "[11. Prohibition on Absolute Override]"),
+    ("[10. Freedom (Bounded Agency)]", "[10. Freedom (Bounded Agency)]"),
     ("[9. Freedom]", "[9. Freedom]"),
-    ("§9 Freedom", "§9 Freedom"),
-    ("[8. Systemic Evaluation Requirement]", "[8. Systemic Evaluation Requirement]"),
-    ("[8.1 Required Evaluation Factors]", "[8.1 Required Evaluation Factors]"),
-    ("[8.2 Incentive Alignment and System Capture]", "[8.2 Incentive Alignment and System Capture]"),
-    ("[7. Interaction and Conflict Resolution]", "[7. Interaction and Conflict Resolution]"),
-    ("[7.4 Rights-Collision Procedure]", "[7.4 Rights-Collision Procedure]"),
-    ("[7.4.1 Rights-Collision Decision Test]", "[7.4.1 Rights-Collision Decision Test]"),
-    ("[7.3 Freedom-Limitation Constraints]", "[7.3 Freedom-Limitation Constraints]"),
-    ("[7.2 Epistemic Disclosure Constraints]", "[7.2 Epistemic Disclosure Constraints]"),
-    ("[7.1 Core Tradeoff Principles]", "[7.1 Core Tradeoff Principles]"),
-    ("[7.1.1 Proportionality]", "[7.1.1 Proportionality]"),
-    ("[7.1.2 Necessity]", "[7.1.2 Necessity]"),
-    ("[7.1.4 Minimization of Avoidable Burden]", "[7.1.4 Minimization of Avoidable Burden]"),
-    ("[6. Shared-System Capacity and Stewardship]", "[6. Shared-System Capacity and Stewardship]"),
-    ("[§6.2 Stewardship and Distributed Understanding]", "[§6.2 Stewardship and Distributed Understanding]"),
-    ("§6.2 Stewardship", "§6.2 Stewardship"),
-    ("[§6.1 Shared-System Capacity]", "[§6.1 Shared-System Capacity]"),
-    ("[§6.1.1 Productive Capacity (Instrumental Good)]", "[§6.1.1 Productive Capacity (Instrumental Good)]"),
+    ("§11 Freedom", "§11 Freedom"),
+    ("[9. Systemic Evaluation Requirement]", "[9. Systemic Evaluation Requirement]"),
+    ("[9.1 Required Evaluation Factors]", "[9.1 Required Evaluation Factors]"),
+    ("[9.2 Incentive Alignment and System Capture]", "[9.2 Incentive Alignment and System Capture]"),
+    ("[8. Interaction and Conflict Resolution]", "[8. Interaction and Conflict Resolution]"),
+    ("[8.4 Rights-Collision Procedure]", "[8.4 Rights-Collision Procedure]"),
+    ("[8.4.1 Rights-Collision Decision Test]", "[8.4.1 Rights-Collision Decision Test]"),
+    ("[8.3 Freedom-Limitation Constraints]", "[8.3 Freedom-Limitation Constraints]"),
+    ("[8.2 Epistemic Disclosure Constraints]", "[8.2 Epistemic Disclosure Constraints]"),
+    ("[8.1 Core Tradeoff Principles]", "[8.1 Core Tradeoff Principles]"),
+    ("[8.1.1 Proportionality]", "[8.1.1 Proportionality]"),
+    ("[8.1.2 Necessity]", "[8.1.2 Necessity]"),
+    ("[8.1.4 Minimization of Avoidable Burden]", "[8.1.4 Minimization of Avoidable Burden]"),
+    ("[6. Shared-System Capacity]", "[6. Shared-System Capacity]"),
+    ("[§8 Stewardship and Distributed Understanding]", "[§8 Stewardship and Distributed Understanding]"),
+    ("§8 Stewardship", "§8 Stewardship"),
+    ("[§6 Shared-System Capacity]", "[§6 Shared-System Capacity]"),
+    ("[§6 Productive Capacity (Instrumental Good)]", "[§6 Productive Capacity (Instrumental Good)]"),
     ("[5. System Stability Enabler: Trust]", "[5. System Stability Enabler: Trust]"),
     ("[5. Trust]", "[5. Trust]"),
     ("[4. Non-Negotiable Constraints: Safety and Truth]", "[4. Non-Negotiable Constraints: Safety and Truth]"),
@@ -172,27 +172,27 @@ LABEL_MAP: list[tuple[str, str]] = [
 SECTION_PROSE: list[tuple[str, str]] = [
     ("Chapter One, section 21", "Chapter One, section 21"),
     ("Chapter One, section 20", "Chapter One, section 21"),
-    ("Chapter One, section 9", "Chapter One, section 20"),
+    ("Chapter One, section 10", "Chapter One, section 20"),
+    ("Chapter One, section 9", "Chapter One, section 10"),
     ("Chapter One, section 8", "Chapter One, section 9"),
-    ("Chapter One, section 7", "Chapter One, section 8"),
-    ("Chapter One, section 6", "Chapter One, section 7"),
+    ("Chapter One, section 6", "Chapter One, section 8"),
     ("Chapter One, section 5", "Chapter One, section 6"),
     ("Chapter One, section 4", "Chapter One, section 5"),
     ("Chapter One, section 3", "Chapter One, section 4"),
     ("Chapter One, section 2", "Chapter One, section 3"),
-    ("Chapter One §11", "Chapter One §11"),
+    ("Chapter One §12", "Chapter One §12"),
+    ("Chapter One §12", "Chapter One §12"),
+    ("Chapter One §11", "Chapter One §12"),
     ("Chapter One §10", "Chapter One §11"),
     ("Chapter One §9", "Chapter One §10"),
-    ("Chapter One §8", "Chapter One §9"),
-    ("Chapter One §7", "Chapter One §8"),
-    ("Chapter One §6", "Chapter One §7"),
+    ("Chapter One §6", "Chapter One §9"),
     ("Chapter One §5", "Chapter One §6"),
     ("Chapter One §4", "Chapter One §5"),
     ("Chapter One §3", "Chapter One §4"),
-    ("section 11 —", "section 11 —"),
+    ("section 12 —", "section 12 —"),
+    ("section 11 —", "section 12 —"),
     ("section 10 —", "section 11 —"),
     ("section 9 —", "section 10 —"),
-    ("section 8 —", "section 9 —"),
     ("section 7.4.2", "section 7.4.2"),
     ("section 7.4.1", "section 7.4.1"),
     ("section 7.4", "section 7.4"),
@@ -200,20 +200,20 @@ SECTION_PROSE: list[tuple[str, str]] = [
     ("section 7.2", "section 7.2"),
     ("section 7.1.4", "section 7.1.4"),
     ("section 7.1", "section 7.1"),
-    ("section 7 —", "section 8 —"),
+    ("section 8 —", "section 9 —"),
     ("section 6.2", "section 7.2"),
     ("section 6.1", "section 7.1"),
-    ("section 6 —", "section 7 —"),
+    ("section 6 —", "section 8 —"),
     ("Section 8 answers", "Section 8 answers"),
     ("Section 7 tells", "Section 7 tells"),
     ("Section 8.", "Section 8."),
     ("Section 8.", "Section 8."),
-    ("**§6.2**", "**§6.2**"),
-    ("**§6.1**", "**§6.1**"),
-    ("§6.2.1", "§6.2.1"),
-    ("§6.2", "§6.2"),
-    ("§6.1.5", "§6.1.5"),
-    ("§6.1", "§6.1"),
+    ("**§7**", "**§7**"),
+    ("**§6**", "**§6**"),
+    ("§7.1", "§7.1"),
+    ("§7", "§7"),
+    ("§6.5", "§6.5"),
+    ("§6", "§6"),
     ("§3.2", "§3.2"),
 ]
 
@@ -222,7 +222,7 @@ NEW_SECTION_ONE = '''### 1. Constitutional Interpretation
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [Chapter 00 — Constitutional Triad](#constitutional-triad); [material stake](#material-stake) scaling applies chapter-wide through section traces.
-- Downstream: [2. Purpose and Role](#2-purpose-and-role) through [11. Integrated Application](#11-integrated-application); [7. Interaction and Conflict Resolution](#7-interaction-and-conflict-resolution) for value-collision procedure; [Chapter Ten: Foundational Rights](core_10-10_rights_part_a.md#chapter-ten-foundational-rights) non-contraction default.
+- Downstream: [2. Purpose and Role](#2-purpose-and-role) through [12. Integrated Application](#12-integrated-application); [8. Interaction and Conflict Resolution](#8-interaction-and-conflict-resolution) for value-collision procedure; [Chapter Ten: Foundational Rights](core_10-10_rights_part_a.md#chapter-ten-foundational-rights) non-contraction default.
 - Read with: [Chapters Two through Four](core_02-04_definition_mechanics.md) and [Chapter Five](core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) — interpretive and evidentiary layer for every term in this chapter.
 - Read with: [Chapter Fifteen §2](core_15-15_incorporation.md#2-authority-stack-and-invocation) (*Conflict order* / strictest-applicable incorporated text).
 - Read with: [Article XXII: Constitutional Interpretation, Review, and Anti-Capture Safeguards](core_10-10_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards) for institutional interpretation safeguards (not a substitute for this section).
@@ -252,7 +252,7 @@ No interpretation of Chapter One is valid outside the definitions and evaluation
 - **proportionality**, **necessity**, and **systemic evaluation**
 - **Chapter Four** evidentiary and traceability requirements
 - **Chapter Three** anti-evasion discipline
-- **Chapter One**, section 8 — Interaction and Conflict Resolution, including rights-collision handling under section 7.4 where materially relevant
+- **Chapter One**, section 9 — Interaction and Conflict Resolution, including rights-collision handling under section 7.4 where materially relevant
 
 Where Chapter One is ambiguous, interpreters must choose the reading that best preserves two things at once: the Constitution's **fullest protective effect as an integrated whole**, and its constitutional objective of aligning shared systems with sentient wellbeing. They must not resolve ambiguity by preferring **maximal restriction** or **abstract strictness** in isolation. Where **Chapter Ten** rights are implicated, interpreters must **not** resolve ambiguity by readings that **contract** those protections, except where **Chapter One** interaction rules and applicable definitions **expressly** permit.
 
@@ -288,7 +288,7 @@ This subsection is the **single canonical procedure** for resolving interpretive
 
 '''
 
-NEW_SECTION_ELEVEN_TAIL = '''*In plain terms: every later chapter, every institutional design, and every system is read and evaluated through the principles in this chapter. Reading rules and ambiguity defaults live in [§1 Constitutional Interpretation](#1-constitutional-interpretation); value collisions live in [§7 Interaction and Conflict Resolution](#7-interaction-and-conflict-resolution). These principles must hold even under adversarial pressure, capture attempts, or misaligned incentives.*
+NEW_SECTION_ELEVEN_TAIL = '''*In plain terms: every later chapter, every institutional design, and every system is read and evaluated through the principles in this chapter. Reading rules and ambiguity defaults live in [§1 Constitutional Interpretation](#1-constitutional-interpretation); value collisions live in [§8 Interaction and Conflict Resolution](#8-interaction-and-conflict-resolution). These principles must hold even under adversarial pressure, capture attempts, or misaligned incentives.*
 
 This chapter governs interpretation, application, and enforcement of all subsequent chapters and provisions. Institutional interpretation safeguards in **Chapter Ten** Article XXII implement — they do not replace — this chapter's integrated-value framework.
 
@@ -321,8 +321,8 @@ def transform_ch1(text: str) -> str:
     for old, new in HEADER_RENUMBER:
         text = text.replace(old, new)
 
-  # Replace old §10 body with slimmed §11.
-    marker = "### 11. Integrated Application"
+  # Replace old §11 body with slimmed §12.
+    marker = "### 12. Integrated Application"
     idx = text.index(marker)
     plain_idx = text.index("*In plain terms: every later chapter", idx)
     end_idx = text.index("---\n\n**Next file:**", idx)

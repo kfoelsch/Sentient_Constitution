@@ -1,7 +1,7 @@
 # Track 7.1 Policy-Selection Memo — Capital Punishment and *Irreversible Sanction*
 
 **Date:** 2026-04-17
-**Scope:** Q-7.1.A from [DEC_CONTENT_GAPS_PLAN_2026-04-16.md](DEC_CONTENT_GAPS_PLAN_2026-04-16.md) §9 (capital-punishment policy). Track 7.1 was deliberately slipped from the 2026-04-16 edition batch per user direction; this memo executes the "dedicated future pass" called for in [TODO.md](../TODO.md) *Deferred — Track 7.1 (capital-punishment policy)*.
+**Scope:** Q-7.1.A from [DEC_CONTENT_GAPS_PLAN_2026-04-16.md](DEC_CONTENT_GAPS_PLAN_2026-04-16.md) §10 (capital-punishment policy). Track 7.1 was deliberately slipped from the 2026-04-16 edition batch per user direction; this memo executes the "dedicated future pass" called for in [TODO.md](../TODO.md) *Deferred — Track 7.1 (capital-punishment policy)*.
 **Authority:** Process and planning artifact under [doc_architecture.md](../doc_architecture.md) §13 / §4 (definitions protocol). Not itself binding constitutional text. Per the standing plan-first gate, **no core-text edits land for Track 7.1 before this memo is accepted.**
 **Status:** Draft — recommending **Option (a): Categorical Abolition** as the doctrinally consistent move. Open for review; the companion implementation pass is ready to execute on acceptance.
 
@@ -19,7 +19,7 @@ The Indigenous-continuity scoping pass (Q-10.2.B) is a separate memo ([DEC_INDIG
 
 ---
 
-## 2. Policy options recap (from memo §5.7.1 / §9)
+## 2. Policy options recap (from memo §5.7.1 / §10)
 
 The three options considered in the 2026-04-16 planning memo, with the memo's own default recommendation noted:
 
@@ -37,15 +37,15 @@ The decision turns on whether the instrument's own stated values are compatible 
 
 ### 3.1 Against the instrument's reversibility discipline
 
-- **Chapter One §7.1.1 — Proportionality, Necessity, and Reversibility-under-Uncertainty.** Where irreversible harm is in play, the instrument requires proceeding only under demonstrated reversibility and containment proportionate to `Irreversible Harm` risk.
+- **Chapter One §9.1.1 — Proportionality, Necessity, and Reversibility-under-Uncertainty.** Where irreversible harm is in play, the instrument requires proceeding only under demonstrated reversibility and containment proportionate to `Irreversible Harm` risk.
 - **Chapter Five — Reversibility.** The `C` bullet states: "*Proceeding without feasible Reversibility or containment where Chapter One, applicable rights, or Classification-Scaled Governance obligations require it is non-compliant, particularly where Irreversible Harm or Cascading Failure is reasonably in play.*"
 - **Chapter Five — Redress and Remediation.** The `O` bullet requires "acknowledgment, correction pathways, and proportionate remedies for material Harm, rights-affecting failures, or Trustworthiness-degrading behavior." Deprivation of life forecloses every one of those by definition.
 
 The sanction is the paradigm irreversible harm. No adjudicative mechanism — however carefully designed — can satisfy `Reversibility` or `Redress and Remediation` once the sanction has been carried out. Option (b) tries to reach the reversibility floor through pre-execution procedural bars (independent review, rehabilitation-path exhaustion, narrow Chapter Eight slot gate). This is a **procedural** answer to a **substantive** reversibility problem: the sanction remains irreversible in substance no matter how many review layers precede it.
 
-### 3.2 Against Chapter One §9 (Prohibition on Absolute Override)
+### 3.2 Against Chapter One §11 (Prohibition on Absolute Override)
 
-- **§8 prohibits any absolute override of the instrument's floor protections.** The current XXII-B (*Capital punishment*) bullet structurally functions as such an override — it authorizes an irreversible deprivation of the survival floor (Article III-A) and the Chapter Ten rights-floor stack in its entirety, on a "final Tier 2 or Tier 3 classification with joint requirements" threshold.
+- **§9 prohibits any absolute override of the instrument's floor protections.** The current XXII-B (*Capital punishment*) bullet structurally functions as such an override — it authorizes an irreversible deprivation of the survival floor (Article III-A) and the Chapter Ten rights-floor stack in its entirety, on a "final Tier 2 or Tier 3 classification with joint requirements" threshold.
 - Option (b) reduces the frequency of the override but does not resolve the categorical tension: a rarely-triggered absolute override is still an absolute override.
 
 Option (a) removes the tension. Option (c) removes the tension prospectively, which the instrument's own transition discipline (Article XXV: "transitional governance exists to secure continuity and non-regression … must not create durable exception authority") restricts.
@@ -77,8 +77,8 @@ The 2026-04-16 memo recommended (c) on the ground that phased abolition respects
 
 | Axis | (a) Categorical | (b) Tightened carve-out | (c) Phased |
 |---|---|---|---|
-| Ch 1 §6.1.1 reversibility | ✅ clean | ❌ irreducible mismatch | ⚠️ clean prospectively only |
-| Ch 1 §8 absolute-override | ✅ clean | ⚠️ rare override still override | ⚠️ clean prospectively only |
+| Ch 1 §6 reversibility | ✅ clean | ❌ irreducible mismatch | ⚠️ clean prospectively only |
+| Ch 1 §9 absolute-override | ✅ clean | ⚠️ rare override still override | ⚠️ clean prospectively only |
 | Ch 5 *Reversibility* `C` | ✅ clean | ❌ foreclosed by substance | ⚠️ clean prospectively only |
 | Ch 5 *Redress and Remediation* `O` | ✅ clean | ❌ foreclosed by substance | ⚠️ clean prospectively only |
 | Article XXIV-A purpose | ✅ clean | ⚠️ outside stated purposes | ⚠️ clean prospectively only |
@@ -96,7 +96,7 @@ This recommendation **revises** the 2026-04-16 memo's default recommendation of 
 
 If the user directs option (b) or (c) instead of (a), the rest of this memo's implementation scope adapts as follows:
 
-- **(b) Tightened carve-out.** Article XXIV-B is edited rather than replaced; the carve-out requirements are hardened (see §6.2 variant). Chapter Five *Irreversible Sanction* is created with the same `O / E / C` shape but its `C` bullet reads "non-compliant except under Article XXIV-B as tightened" rather than "non-compliant without exception." Back-fill pointers into Tracks 2.3 / 6.1 / 6.2 are still pointer-only.
+- **(b) Tightened carve-out.** Article XXIV-B is edited rather than replaced; the carve-out requirements are hardened (see §7 variant). Chapter Five *Irreversible Sanction* is created with the same `O / E / C` shape but its `C` bullet reads "non-compliant except under Article XXIV-B as tightened" rather than "non-compliant without exception." Back-fill pointers into Tracks 2.3 / 6.1 / 6.2 are still pointer-only.
 - **(c) Phased abolition.** New Article XXV-E transition clause lands alongside XXII-B/XXII-C closure. *Irreversible Sanction* `C` bullet reads "non-compliant except under the Article XXV-E phased transition as limited." The rest of the back-fill and architecture-map work is unchanged.
 
 The default below assumes option (a).
@@ -205,7 +205,7 @@ Three seeds land in `CONSTITUTIONAL_REGRESSION_SCENARIOS.md` under the existing 
 
 ### 5.8 Edition cut and MEMLOG
 
-- **Edition:** `SC-Corpus-2026.04.26` (effective `2026-04-17`). (Edition `.21` remains skipped in the memo §7 lineage per the 2026-04-16 slip narrative; `.26` opens the post-batch cut.)
+- **Edition:** `SC-Corpus-2026.04.26` (effective `2026-04-17`). (Edition `.21` remains skipped in the memo §8 lineage per the 2026-04-16 slip narrative; `.26` opens the post-batch cut.)
 - **Footer stamps:** the eight corpus files' *Corpus alignment* footers and header blocks bump to `SC-Corpus-2026.04.26`.
 - **MEMLOG.md:** closure entry authored under the existing `Date / Scope / Decisions / Evidence-Artifacts / Open Risks / Next Actions` template.
 - **TODO.md:** the `[ ]` *Deferred — Track 7.1* line becomes `[x]` with Closure paragraph. The `[ ]` Tier-1 *Capital-punishment abolition or sharper prohibition* item becomes `[x]` with Closure paragraph pointing to the `.26` edition and this memo.

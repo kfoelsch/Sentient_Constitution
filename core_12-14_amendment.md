@@ -155,7 +155,7 @@ For a non-operative reading walkthrough of **Chapters Eleven through Fourteen** 
 - Upstream: [Chapter Twelve](core_12-14_amendment.md#chapter-twelve-non-regression-and-substantive-amendment-validity) non-regression and Test 1; [Authority Stack and Internal Hierarchy](core_05-05_definitions_c_dependent_clusters.md#authority-stack), [Supremacy and Enforceability](core_05-05_definitions_c_dependent_clusters.md#supremacy-and-enforceability), and related [Corpus](core_05-05_definitions_c_dependent_clusters.md#corpus) boundary concepts.
 - Subsections: [§1](#1-additive-expansion-permitted)–[§2](#2-continuity-of-supremacy-and-challenge-rights-during-amendment); [§3](#3-supremacy-relative-to-other-binding-norms)–[§4](#4-disputes-involving-external-legal-orders).
 - Downstream: [Chapter Fourteen](core_12-14_amendment.md#chapter-fourteen-amendment-ratification-and-procedural-validity) adoption and supremacy continuity during amendment; [Article XXIII-A](core_10-10_rights_part_d.md) review pathways preserved against external process gaps; [Chapter Eight, section 7.2 — *Rights-Floor waivers and unconstitutional contract terms*](core_08-08_misconduct.md#62-rights-floor-waivers-and-unconstitutional-contract-terms) where external-order interfaces implicate waiver or pseudo-contract devices.
-- Read with: **[corpus_systems.md](corpus_systems.md)** and **Protocol C** references in operative text on cross-jurisdiction execution; [Chapter Six, section 10 — *Enforcement Realism Anchors*](core_07-07_standing_integration.md#10-enforcement-realism-anchors) where cited in §3.3; [Corpus, Authority Stack, Supremacy, and Enforceability](core_05-05_definitions_c_dependent_clusters.md#corpus-authority-stack-supremacy-and-enforceability-cluster) (*Chapter Five §3.4 cluster — read with [Corpus](core_05-05_definitions_c_dependent_clusters.md#corpus) for custody and adoption*).
+- Read with: **[corpus_systems.md](corpus_systems.md)** and **Protocol C** references in operative text on cross-jurisdiction execution; [Chapter Six, section 11 — *Enforcement Realism Anchors*](core_07-07_standing_integration.md#10-enforcement-realism-anchors) where cited in §3.3; [Corpus, Authority Stack, Supremacy, and Enforceability](core_05-05_definitions_c_dependent_clusters.md#corpus-authority-stack-supremacy-and-enforceability-cluster) (*Chapter Five §3.4 cluster — read with [Corpus](core_05-05_definitions_c_dependent_clusters.md#corpus) for custody and adoption*).
 
 </details>
 
@@ -184,7 +184,7 @@ Constitutional change may add new rights, safeguards, accountability mechanisms,
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [§1](#1-additive-expansion-permitted) permitted expansion boundary.
-- Downstream: [§3](#3-supremacy-relative-to-other-binding-norms) internal hierarchy and stricter-external rule; [Chapter Fourteen §8](core_12-14_amendment.md#8-provisional-effect-rule) provisional effect on rights-affecting amendments.
+- Downstream: [§3](#3-supremacy-relative-to-other-binding-norms) internal hierarchy and stricter-external rule; [Chapter Fourteen §9](core_12-14_amendment.md#8-provisional-effect-rule) provisional effect on rights-affecting amendments.
 - Read with: [Chapters Two through Four](core_02-04_definition_mechanics.md) anti-evasion on "temporary" suspension of supremacy or audit.
 
 </details>
@@ -247,7 +247,7 @@ Where valid external law, regulation, or treaty obligation applicable to the ado
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [§3.1](#31-internal-hierarchy-for-adopters)–[§3.2](#32-stricter-external-protections) hierarchy and stricter-external rule.
-- Downstream: [§4](#4-disputes-involving-external-legal-orders) cooperation and preserved internal pathways; **Protocol C** and [Chapter Six, section 10 — *Enforcement Realism Anchors*](core_07-07_standing_integration.md#10-enforcement-realism-anchors) as cited in operative bullets.
+- Downstream: [§4](#4-disputes-involving-external-legal-orders) cooperation and preserved internal pathways; **Protocol C** and [Chapter Six, section 11 — *Enforcement Realism Anchors*](core_07-07_standing_integration.md#10-enforcement-realism-anchors) as cited in operative bullets.
 - Read with: **[corpus_systems.md](corpus_systems.md)** cross-jurisdiction and anti-evasion controls referenced in operative text.
 
 </details>
@@ -262,7 +262,7 @@ Where external requirements appear irreconcilable with constitutional Rights Flo
 - pursue feasible harmonization and least-harm sequencing.
 - **not** treat external norms as a pretext for selective compliance, forum shopping, reincorporation arbitrage, or evasion of Rights-Floor obligations.
 
-Cross-jurisdiction coordination and anti-evasion execution follow **[corpus_systems.md](corpus_systems.md)**, **Protocol C — Justice Safeguards, Restitution, and Rehabilitation Implementation**. That Protocol includes Cross-Jurisdiction Execution and Anti-Evasion Controls. Execution also follows [Chapter Six, section 10 — *Enforcement Realism Anchors*](core_07-07_standing_integration.md#10-enforcement-realism-anchors), where applicable.
+Cross-jurisdiction coordination and anti-evasion execution follow **[corpus_systems.md](corpus_systems.md)**, **Protocol C — Justice Safeguards, Restitution, and Rehabilitation Implementation**. That Protocol includes Cross-Jurisdiction Execution and Anti-Evasion Controls. Execution also follows [Chapter Six, section 11 — *Enforcement Realism Anchors*](core_07-07_standing_integration.md#10-enforcement-realism-anchors), where applicable.
 
 ### 4. Disputes Involving External Legal Orders
 <details>
@@ -351,7 +351,7 @@ This Constitution may be amended to improve protection, clarity, binding effect,
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [Chapter Fourteen](#chapter-fourteen-amendment-ratification-and-procedural-validity) validity stack; [Chapter Ten](core_10-10_rights_part_a.md#chapter-ten-foundational-rights) Rights Floor.
-- Downstream: [§2](#2-burden-of-justification-and-public-traceability) public justification; [§7](#7-review-triggers) automatic triggers list.
+- Downstream: [§2](#2-burden-of-justification-and-public-traceability) public justification; [§8](#7-review-triggers) automatic triggers list.
 - Read with: [Article XI](core_10-10_rights_part_b.md#article-xi-stakeholder-system-participation-representation-and-due-process) family for materially rights-affecting process design.
 
 </details>
@@ -384,7 +384,7 @@ Proposed amendments must provide publicly auditable justification, including exp
 
 - Upstream: [Chapter Twelve](core_12-14_amendment.md#chapter-twelve-non-regression-and-substantive-amendment-validity) substantive tests; procedural tests in [§4](#4-test-2-procedural-validity-and-publication-integrity)–[§6](#6-test-4-contestability-and-independent-review-validity).
 - Downstream: Operative text: failure of any floor invalidates regardless of procedural completion.
-- Read with: [§9](#9-invalid-change-handling-and-remediation-continuity) remediation when a change fails the floor.
+- Read with: [§10](#9-invalid-change-handling-and-remediation-continuity) remediation when a change fails the floor.
 
 </details>
 
@@ -399,7 +399,7 @@ This chapter states minimum constitutional **procedural and custody** validity c
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [§3](#3-validity-floor-rule) validity-floor rule; [§2](#2-burden-of-justification-and-public-traceability) justification content.
-- Downstream: [§5](#5-test-3-authority-chain-and-custody-validity) Test 3 custody; [§11.1](#111-notice-and-contest) notice and contest requirements.
+- Downstream: [§5](#5-test-3-authority-chain-and-custody-validity) Test 3 custody; [§12.1](#111-notice-and-contest) notice and contest requirements.
 - Read with: [Chapter Four](core_02-04_definition_mechanics.md) burden and tracing requirements cited in operative text.
 
 </details>
@@ -415,7 +415,7 @@ A proposed amendment is invalid unless required publication elements are satisfi
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [§4](#4-test-2-procedural-validity-and-publication-integrity) Test 2 publication integrity.
-- Downstream: [§10](#10-ratification-and-adoption) instruments and custody expectations; [Chapter Five *Corpus*](core_05-05_definitions_c_dependent_clusters.md#corpus) consistency requirements.
+- Downstream: [§11](#10-ratification-and-adoption) instruments and custody expectations; [Chapter Five *Corpus*](core_05-05_definitions_c_dependent_clusters.md#corpus) consistency requirements.
 - Read with: [Chapter Five *Corpus*](core_05-05_definitions_c_dependent_clusters.md#corpus) and [README.md](README.md) (edition identifiers); [Corpus, Authority Stack, Supremacy, and Enforceability](core_05-05_definitions_c_dependent_clusters.md#corpus-authority-stack-supremacy-and-enforceability-cluster) (*Chapter Five §3.4 cluster*).
 
 </details>
@@ -431,7 +431,7 @@ A proposed amendment is invalid where the instrument of adoption, edition identi
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [§1](#1-heightened-review-for-rights-affecting-changes) independent review expectation; [§5](#5-test-3-authority-chain-and-custody-validity) custody baseline.
-- Downstream: [§7](#7-review-triggers) automatic heightened review; [§8](#8-provisional-effect-rule) irreversible effect timing.
+- Downstream: [§8](#7-review-triggers) automatic heightened review; [§9](#8-provisional-effect-rule) irreversible effect timing.
 - Read with: [Article XXIII-A](core_10-10_rights_part_d.md) review and contest pathways.
 
 </details>
@@ -470,8 +470,8 @@ Heightened review is automatically triggered for amendments that materially affe
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [§7](#7-review-triggers) heightened review triggers.
-- Downstream: [§9](#9-invalid-change-handling-and-remediation-continuity) invalidity handling; [Chapter Thirteen §2](core_12-14_amendment.md#2-continuity-of-supremacy-and-challenge-rights-during-amendment) continuity of challenge rights.
+- Upstream: [§8](#7-review-triggers) heightened review triggers.
+- Downstream: [§10](#9-invalid-change-handling-and-remediation-continuity) invalidity handling; [Chapter Thirteen §2](core_12-14_amendment.md#2-continuity-of-supremacy-and-challenge-rights-during-amendment) continuity of challenge rights.
 - Read with: [Chapter Ten](core_10-10_rights_part_a.md#chapter-ten-foundational-rights) rights materiality for what counts as "rights-affecting."
 
 </details>
@@ -486,7 +486,7 @@ Rights-affecting amendments and authority-structure amendments do not take irrev
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [§3](#3-validity-floor-rule)–[§8](#8-provisional-effect-rule) validity and timing rules.
+- Upstream: [§3](#3-validity-floor-rule)–[§9](#8-provisional-effect-rule) validity and timing rules.
 - Downstream: Referral-style obligations in operative bullets route per [Chapter Twelve §4](core_12-14_amendment.md#4-scope-limit-and-layer-discipline) scope limit.
 - Read with: [Chapter Nine](core_09-09_forum.md#chapter-nine-forums-and-jurisdiction) forum-family and jurisdiction routing where invalidity determinations implicate forum role.
 
@@ -508,9 +508,9 @@ On invalidity determination, adopters must publish a time-bounded remediation pl
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [§5](#5-test-3-authority-chain-and-custody-validity) custody validity; [Chapter Thirteen §3.1](core_12-14_amendment.md#31-internal-hierarchy-for-adopters) internal hierarchy for adopters.
-- Subsections: [§10.1](#101-deliberate-adoption)–[§10.3](#103-joining-by-additional-parties).
-- Downstream: [§11](#11-amendment-procedure-requirements) notice and recorded effectiveness.
-- Read with: **[corpus_systems.md](corpus_systems.md)**, **CS-4 — System classification and handling** classification referenced in §10.1; [Chapter Five *Corpus*](core_05-05_definitions_c_dependent_clusters.md#corpus).
+- Subsections: [§11.1](#101-deliberate-adoption)–[§11.3](#103-joining-by-additional-parties).
+- Downstream: [§12](#11-amendment-procedure-requirements) notice and recorded effectiveness.
+- Read with: **[corpus_systems.md](corpus_systems.md)**, **CS-4 — System classification and handling** classification referenced in §11.1; [Chapter Five *Corpus*](core_05-05_definitions_c_dependent_clusters.md#corpus).
 
 </details>
 
@@ -522,8 +522,8 @@ On invalidity determination, adopters must publish a time-bounded remediation pl
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [§10](#10-ratification-and-adoption) ratification frame.
-- Downstream: [§10.2](#102-instrument-of-adoption) instrument requirements; [§10.3](#103-joining-by-additional-parties) joining rules.
+- Upstream: [§11](#10-ratification-and-adoption) ratification frame.
+- Downstream: [§11.2](#102-instrument-of-adoption) instrument requirements; [§11.3](#103-joining-by-additional-parties) joining rules.
 - Read with: [Chapter Eleven §1](core_11-11_governance.md#1-authorization-and-legitimacy-of-governing-authority) documented legitimacy mechanism alongside deliberate adoption.
 
 </details>
@@ -538,7 +538,7 @@ This Constitution binds a steward, organization, federation of bodies, or jurisd
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [§10.1](#101-deliberate-adoption) deliberate adoption requirement.
+- Upstream: [§11.1](#101-deliberate-adoption) deliberate adoption requirement.
 - Downstream: [§5](#5-test-3-authority-chain-and-custody-validity) Test 3 chain checks against instrument contents.
 - Read with: [README.md](README.md) and [Chapter Five *Corpus*](core_05-05_definitions_c_dependent_clusters.md#corpus) (authoritative corpus and edition identifier expectations).
 
@@ -558,8 +558,8 @@ Adopters must maintain an identifiable instrument of adoption. Examples include 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [§10.2](#102-instrument-of-adoption) instrument pattern including joining.
-- Downstream: [§11.2](#112-recorded-effectiveness) undisclosed or bypassed procedure as invalidating.
+- Upstream: [§11.2](#102-instrument-of-adoption) instrument pattern including joining.
+- Downstream: [§12.2](#112-recorded-effectiveness) undisclosed or bypassed procedure as invalidating.
 - Read with: [Article X-B: Collective Harm Boundary and Enforcement Interface](core_10-10_rights_part_b.md#article-x-b-collective-harm-boundary-and-enforcement-interface) where participation weight applies per operative cross-reference.
 
 </details>
@@ -574,8 +574,8 @@ Additional parties may **join** as adopters under rules published by existing ad
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [§4](#4-test-2-procedural-validity-and-publication-integrity) Test 2; [§10](#10-ratification-and-adoption) adoption instruments.
-- Subsections: [§11.1](#111-notice-and-contest); [§11.2](#112-recorded-effectiveness).
+- Upstream: [§4](#4-test-2-procedural-validity-and-publication-integrity) Test 2; [§11](#10-ratification-and-adoption) adoption instruments.
+- Subsections: [§12.1](#111-notice-and-contest); [§12.2](#112-recorded-effectiveness).
 - Downstream: [§12](#12-scope-limit-and-layer-discipline) procedural-only restatement.
 - Read with: [Article X-C: Adult consensual commercial sexual services and sexual exploitation](core_10-10_rights_part_b.md#article-x-c-adult-consensual-commercial-sexual-services-and-sexual-exploitation) where cited for materially high-impact change record (operative cross-reference governs scope).
 
@@ -589,7 +589,7 @@ Additional parties may **join** as adopters under rules published by existing ad
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [§11](#11-amendment-procedure-requirements) procedure requirements header.
+- Upstream: [§12](#11-amendment-procedure-requirements) procedure requirements header.
 - Downstream: [§4](#4-test-2-procedural-validity-and-publication-integrity) overlaps with publication integrity; [§1](#1-heightened-review-for-rights-affecting-changes) heightened review for rights-affecting packages.
 - Read with: [Chapter Four](core_02-04_definition_mechanics.md) burden and tracing; [Article X-C](core_10-10_rights_part_b.md) for materially high-impact changes.
 
@@ -605,9 +605,9 @@ Amendments must be proposed with sufficient specificity and advance publication 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [§11.1](#111-notice-and-contest) notice and contest process.
+- Upstream: [§12.1](#111-notice-and-contest) notice and contest process.
 - Downstream: [§5](#5-test-3-authority-chain-and-custody-validity) alignment of effective date with adoption chain reliability.
-- Read with: [§9](#9-invalid-change-handling-and-remediation-continuity) remediation when undisclosed scope undermines supremacy claims.
+- Read with: [§10](#9-invalid-change-handling-and-remediation-continuity) remediation when undisclosed scope undermines supremacy claims.
 
 </details>
 
@@ -621,7 +621,7 @@ Amendments take effect only on a stated effective date or event recorded in the 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [Chapter Twelve §4](core_12-14_amendment.md#4-scope-limit-and-layer-discipline) substantive-chapter mirror; [§7](#7-review-triggers) and [§9](#9-invalid-change-handling-and-remediation-continuity) trigger language scoped here.
+- Upstream: [Chapter Twelve §4](core_12-14_amendment.md#4-scope-limit-and-layer-discipline) substantive-chapter mirror; [§8](#7-review-triggers) and [§10](#9-invalid-change-handling-and-remediation-continuity) trigger language scoped here.
 - Downstream: [Chapter Six](core_06-06_standing_assessment.md#chapter-six-compliance-violation-and-standing-model) and [Chapter Eight](core_08-08_misconduct.md#chapter-eight-anti-constitutional-misconduct) remain sole canonical homes for listed taxonomies.
 - Read with: [core_10-10_rights_part_d.md](core_10-10_rights_part_d.md) Chapter Ten boundary-watch zone for the converse Rights-Floor discipline pattern.
 
