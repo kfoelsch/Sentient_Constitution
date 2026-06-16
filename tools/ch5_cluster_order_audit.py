@@ -23,6 +23,7 @@ EXPECTED_TOPIC_GROUPS: dict[str, list[str]] = {
         "Accountability",
         "Contestability",
         "Adjudication and Dispute Resolution",
+        "Merits Determination",
         "Collective Accountability Failure",
         "Force Majeure",
         "Capture of Resolution Pathways",
@@ -118,6 +119,7 @@ EXPECTED_CLUSTERS: dict[str, list[str]] = {
         "Forum Family, Environment",
         "Forum Family, Integrity",
         "Forum Family, Constitutional",
+        "Primary-Stakes Routing",
     ],
     "#### 3.8 Self-Determination, Meaningful Agency, Expression, Educational Agency, and Volitional Integrity": [
         "Self-Determination",
@@ -146,6 +148,7 @@ EXPECTED_CLUSTERS: dict[str, list[str]] = {
     "#### 3.10 Transparency, Auditability, and Verification": [
         "Transparency",
         "Auditability",
+        "Evidence Preservation",
         "Audit Scope Sufficiency",
         "Evaluation Completeness Constraint",
         "Observability",
@@ -173,7 +176,7 @@ EXPECTED_CLUSTERS: dict[str, list[str]] = {
         "Autonomous Lethal System",
         "Weapons of Mass Harm",
         "Combatant / Non-Combatant Distinction",
-        "Irreversible Sanction",
+        "Irreversible Deprivation Measure",
         "Autonomous Coercion Tool",
     ],
 }

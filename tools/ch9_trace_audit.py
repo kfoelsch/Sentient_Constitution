@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 """Audit Chapter Ten trace placement and minimum linked-content rules.
 
-Updated 2026-04-16 for the D/E/C widget split (see ``doc_architecture.md``
-rule 12). Each Chapter Ten subarticle must:
+Rules: NAV-TRACE-08, NAV-TRACE-09 in tools/architecture/rule_registry.json.
+Each Chapter Ten subarticle must:
 
 1. Carry a local Trace ``<details>`` block immediately under the subarticle
    heading using the standard Trace summary label, AND

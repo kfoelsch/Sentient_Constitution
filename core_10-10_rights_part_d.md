@@ -599,7 +599,7 @@ Cross-layer drift that imports process mechanics, governance details, or impleme
 
 Conversely, any owner-layer chapter or implementation text file that purports to **narrow, redefine, or relocate** a Chapter Ten Rights Floor through process-mechanics framing, governance-procedure framing, implementation-detail framing, or reader-guidance elevation is non-compliant under **Chapter Twelve** non-regression and under the opening contract of **Part A** (Rights-Floor inviolability against operationalization-driven narrowing).
 
-For a non-operative reading walkthrough of **Chapter Ten** rights-layer architecture, see [architecture_primer.md](architecture_primer.md). The doctrinal map is in [doc_architecture.md](doc_architecture.md) **section 5** (Chapter Ten rows) and **section 17** (current edition cut).
+For a non-operative reading walkthrough of **Chapter Ten** rights-layer architecture, see [archive/ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md](archive/ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md). Routing indexes: [doc_architecture.md](doc_architecture.md) **section 5**; edition metadata: [README.md](README.md).
 
 ---
 

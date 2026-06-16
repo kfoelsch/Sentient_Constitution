@@ -504,6 +504,8 @@ Outside that admission scope, component definitions may operate as supporting In
 
 **Joint invocation and anti-bypass.** Under §3.0.1, a matter within the admission scope must not be segmented into separate compensation, organization, safety, rest, privacy, consent, attribution, displacement, or innovation-reward issues in a way that satisfies one component while defeating materially interdependent duties under **Article III-D** and **Article VIII-D**.
 
+---
+
 <a id="fair-compensation-constitutional"></a>
 
 ##### Fair Compensation
@@ -930,6 +932,8 @@ This cluster is the joint-invocation home for self-determination, meaningful age
 
 **Joint invocation and anti-bypass.** Under §3.0.1, a matter within the admission scope must not be segmented into separate speech, platform, curricular, or surveillance questions in a way that preserves nominal liberty while defeating substantive agency through coercion, manipulation, or informational capture.
 
+---
+
 <a id="self-determination-constitutional"></a>
 
 ##### Self-Determination
@@ -951,6 +955,8 @@ This cluster is the joint-invocation home for self-determination, meaningful age
 <a id="self-determination-constitutional-c"></a>
 - C: Framings that preserve nominal choice while defeating informed refusal, proportional participation, or reviewability, or that route material self-governance questions outside **Article IX** without **Chapter One §6.4.1** collision resolution, are non-compliant when materially implicated.
 
+---
+
 <a id="expression-constitutional"></a>
 
 ##### Expression
@@ -971,6 +977,8 @@ This cluster is the joint-invocation home for self-determination, meaningful age
 <a id="expression-constitutional-c"></a>
 - C: Formal neutrality or private-ordering labels that materially eliminate protected expression, assembly, or press pathways without satisfying limitation tests are non-compliant.
 
+---
+
 <a id="educational-agency"></a>
 
 ##### Educational Agency
@@ -990,6 +998,8 @@ This cluster is the joint-invocation home for self-determination, meaningful age
 - E: Evaluate access, lock-in, assessment opacity, and displacement of learning pathways against [Meaningful Agency](core_05-05_definitions_b_semi_independent.md#meaningful-agency), [Systemic Lock-In](core_05-05_definitions_b_semi_independent.md#systemic-lock-in), [Contestability](core_05-05_definitions_b_semi_independent.md#contestability), and **Article VI-B** contestability expectations.
 <a id="educational-agency-c"></a>
 - C: Symbolic-only access, credential gatekeeping that defeats capability formation, or segmentation that removes contestability or lifelong adaptation where **Article VI** jointly applies is non-compliant.
+
+---
 
 <a id="volitional-integrity"></a>
 
@@ -1810,6 +1820,8 @@ This cluster is the joint-invocation home for overt use of force, weapons of mas
 
 **Joint invocation and anti-bypass.** Under §3.0.1, a matter within the admission scope must not be segmented into separate authorization, targeting, weapons-class, autonomy, coercion, or review questions in a way that satisfies one component while defeating materially interdependent force, discrimination, autonomy-control, or non-conflation duties.
 
+---
+
 <a id="use-of-force-constitutional"></a>
 ##### Use of Force
 
@@ -1834,6 +1846,8 @@ This cluster is the joint-invocation home for overt use of force, weapons of mas
   - denial-of-quarter, collective retaliation, protected-characteristic-based targeting, and substrate-class compulsion into combatant status;
   - emergency-dressed normalization through indefinite extension or routinized reauthorization without substantive review (Article XXIII-D and this entry);
   - reading this entry as a predicate for, or alignment with, irreversible involuntary deprivation outside combat — such measures are categorically prohibited under Article XXIII-B as revised and are governed with [Irreversible Deprivation Measure](#irreversible-deprivation-measure-constitutional).
+
+---
 
 <a id="autonomous-lethal-system-constitutional"></a>
 ##### Autonomous Lethal System
@@ -1870,6 +1884,8 @@ This cluster is the joint-invocation home for overt use of force, weapons of mas
   - deploying or using a system whose independent satisfaction of [Combatant / Non-Combatant Distinction](#combatant-non-combatant-distinction-constitutional) has not been demonstrated under adversarial and scaled conditions;
   - treating such a system as ordinary capability-expansion rather than an [Article I-D](core_10-10_rights_part_a.md#article-i-d-existential-risk-and-recovery-capacity) object when existential-risk thresholds are materially implicated.
 
+---
+
 <a id="weapons-of-mass-harm-constitutional"></a>
 ##### Weapons of Mass Harm
 
@@ -1892,6 +1908,8 @@ This cluster is the joint-invocation home for overt use of force, weapons of mas
 - C: Non-compliant:
   - possession, transfer, deployment, or use of Weapons of Mass Harm without satisfying [Article XIII-B](core_10-10_rights_part_c.md#article-xiii-b-use-of-force-armed-conflict-and-military-power-limits) use-of-force discipline, [Article I-A](core_10-10_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity) environmental-preconditions discipline, and [Article I-D](core_10-10_rights_part_a.md#article-i-d-existential-risk-and-recovery-capacity) existential-risk scrutiny where materially implicated;
   - framing such weapons as out-of-scope of Article I-D by weapon-class taxonomy alone, where foreseeable harm scale implicates the thresholds.
+
+---
 
 <a id="combatant-non-combatant-distinction-constitutional"></a>
 ##### Combatant / Non-Combatant Distinction
@@ -1919,6 +1937,8 @@ This cluster is the joint-invocation home for overt use of force, weapons of mas
   For autonomous systems, evaluate classification accuracy and failure modes under [Adversarial, Scaled, and Exploited Conditions](core_05-05_definitions_a_independent.md#adversarial-scaled-and-exploited-conditions) per [Article XIII-C](core_10-10_rights_part_c.md#article-xiii-c-autonomous-lethal-systems-and-autonomous-coercion-tools).
   <a id="combatant-non-combatant-distinction-constitutional-c"></a>
 - C: Non-compliant: denial-of-quarter; collective retaliation; targeting because of protected characteristics or their material proxies; taxonomy-of-convenience reclassifications that sweep protected populations into combatant status; autonomous-system classification whose accuracy or failure-mode behavior does not independently satisfy this distinction under adversarial and scaled conditions ([Article XIII-C](core_10-10_rights_part_c.md#article-xiii-c-autonomous-lethal-systems-and-autonomous-coercion-tools)).
+
+---
 
 <a id="irreversible-deprivation-measure-constitutional"></a>
 ##### Irreversible Deprivation Measure
@@ -1953,6 +1973,8 @@ This cluster is the joint-invocation home for overt use of force, weapons of mas
   - treating durable containment under Article XXIII-C as a predicate for the prohibited measure;
   - re-labelling an involuntarily-imposed outcome as "voluntary discontinuation" to route into Article VII-E;
   - substrate-class narrowings on taxonomy grounds alone ([Sentience Non-Exclusion](#sentience-non-exclusion)).
+
+---
 
 <a id="autonomous-coercion-tool-constitutional"></a>
 ##### Autonomous Coercion Tool

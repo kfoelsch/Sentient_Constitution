@@ -2,9 +2,8 @@
 """Audit Chapter One D/E/C widget row order for drift-sensitive sections.
 
 This checker intentionally validates a small set of high-value widgets instead
-of trying to infer semantic order everywhere. It protects the functional order
-documented in doc_architecture.md and
-implementation/CHAPTER_ONE_PRINCIPLE_DEFINITION_MATRIX_2026-04-29.md.
+of trying to infer semantic order everywhere. Expected order lives in
+tools/architecture/ch1_dec_order.json (rule NAV-DEC-CH1-ORDER).
 """
 
 from __future__ import annotations
@@ -14,125 +13,17 @@ import re
 import sys
 from pathlib import Path
 
+_TOOLS = Path(__file__).resolve().parent
+if str(_TOOLS) not in sys.path:
+    sys.path.insert(0, str(_TOOLS))
+
+from architecture.load_config import ch1_dec_order_expected  # noqa: E402
 
 DEC_SUMMARY = (
     '<summary><strong><span style="color: #2563eb;">'
     "Definitions · Evaluation · Compliance</span></strong></summary>"
 )
 ROW_RE = re.compile(r"^\s*-\s+\[(?P<name>[^\]]+)\]\(")
-
-
-EXPECTED: dict[str, list[str]] = {
-    "#### 3.1 Safety (Harm Constraint)": [
-        "Safety (Constraint)",
-        "Harm",
-        "Irreversible Harm",
-        "Risk",
-        "Materiality",
-        "Dependency",
-        "Foreseeability",
-    ],
-    "#### 5.1 Shared-System Capacity": [
-        "Productive Capacity",
-        "Constitutional Efficiency",
-        "Wellbeing",
-        "Dignity and Equal Moral Standing",
-        "Meaningful Agency",
-        "Feasibility",
-        "Necessity",
-        "Proportionality",
-        "Avoidable Burden",
-        "Proxy Divergence",
-        "Ecological Integrity",
-        "Environmental Preconditions",
-        "Intergenerational Responsibility",
-    ],
-    "#### 5.2 Stewardship and Distributed Understanding": [
-        "Strategic Stewardship Obligation",
-        "Meaningful Agency",
-        "Auditability",
-        "Contestability",
-        "Educational Agency",
-        "Transparency",
-        "Materiality",
-        "Dependency",
-        "Accessibility",
-        "Safety (Constraint)",
-        "Truth (Constitutional Constraint)",
-        "Necessity",
-        "Proportionality",
-        "Avoidable Burden",
-        "Epistemic Integrity",
-    ],
-    "##### 5.2.1 Stewardship": [
-        "Strategic Stewardship Obligation",
-        "Meaningful Agency",
-        "Auditability",
-    ],
-    "##### 5.2.2 Distributed Understanding": [
-        "Transparency",
-        "Materiality",
-        "Dependency",
-        "Accessibility",
-        "Meaningful Agency",
-        "Contestability",
-    ],
-    "### 8. Freedom (Bounded Agency)": [
-        "Freedom (Bounded Agency)",
-        "Meaningful Agency",
-        "Feasibility",
-        "Necessity",
-        "Proportionality",
-        "Harm Minimization (Tradeoff Selection)",
-        "Dependency",
-    ],
-    "##### 6.4.1 Rights-Collision Decision Test": [
-        "Necessity",
-        "Proportionality",
-        "Feasibility",
-        "Materiality",
-        "Dependency",
-        "Foreseeability",
-        "Proxy Divergence",
-        "Avoidable Burden",
-    ],
-    "#### 7.1 Required Evaluation Factors": [
-        "Dependency",
-        "Materiality",
-        "Foreseeability",
-        "Risk",
-        "Systemic",
-        "System Boundaries",
-        "System Boundary Integrity",
-        "Cascading Failure",
-        "Residual Risk / Misalignment",
-        "Existential Risk",
-        "Incentive Alignment",
-    ],
-    "##### 7.2.2 Stewardship and Operator Incentive Alignment": [
-        "Incentive Alignment",
-        "Productive Capacity",
-        "Constitutional Efficiency",
-        "Avoidable Burden",
-        "Proxy Divergence",
-        "Auditability",
-        "Safety (Constraint)",
-        "Truth (Constitutional Constraint)",
-        "System Capture",
-    ],
-    "### 10. Interpretive Role": [
-        "Corpus",
-        "Authority Stack and Internal Hierarchy",
-        "Supremacy and Enforceability",
-        "Irreversible Harm",
-        "Truth (Constitutional Constraint)",
-        "Meaningful Agency",
-        "Accountability",
-        "System Capture",
-        "Incentive Alignment",
-        "Governance",
-    ],
-}
 
 
 def extract_widget_rows(lines: list[str], heading: str) -> tuple[int, list[str]]:
@@ -163,8 +54,6 @@ def extract_widget_rows(lines: list[str], heading: str) -> tuple[int, list[str]]
         if m:
             rows.append(m.group("name"))
             continue
-        # ch5_dec_widget_audit owns row-shape failures. Here we keep the error
-        # explicit so non-row labels cannot hide from this drift check either.
         raise ValueError(
             f"unexpected non-row content in D/E/C widget for {heading} "
             f"at line {i + 1}: {stripped}"
@@ -181,9 +70,10 @@ def main() -> int:
     root = Path(args.root)
     path = root / "core_00-01_principles.md"
     lines = path.read_text(encoding="utf-8").splitlines()
+    expected_map = ch1_dec_order_expected()
 
     failures: list[str] = []
-    for heading, expected in EXPECTED.items():
+    for heading, expected in expected_map.items():
         try:
             line_no, actual = extract_widget_rows(lines, heading)
         except ValueError as exc:

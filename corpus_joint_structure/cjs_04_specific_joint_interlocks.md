@@ -43,7 +43,10 @@
 
 <br>
 
-*In plain terms: this package covers hybrid decision bodies for institutions and forums in two steps — **CJS-4.1.1** says who must be on the body; **CJS-4.1.2** says what the published rules must spell out about how long people serve. Both steps must be satisfied.*
+*In plain terms: this package covers hybrid decision bodies for institutions and forums in two steps — **CJS-4.1.1** (*Composition floor*) says who must be on the body; **CJS-4.1.2** (*Publication mechanics*) says what the published rules must spell out about how long members serve. Both steps must be satisfied.*
+
+**Router read:** Mandatory read-with for **CJS-R01** (*Delegated binding bodies and hybrid composition (non-forum institutions)*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CI-9.3**.
+**Router read:** Mandatory read-with for **CJS-R02** (*Forum chambers, divisions, and designated panels (Chapter Nine families)*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CF-3**.
 
 A hybrid design that names home and rotating roles but omits **CJS-4.1.2** publication mechanics does not satisfy **CJS-4.1**.
 
@@ -91,7 +94,7 @@ Every covered body must use a **hybrid design** that includes both:
 
 **When a group decides together.** Home-based members must be a **minority** on the deciding group unless the rules use an equivalent published alternative across stages — for example staged roles, mandatory review, or a second review step before the decision binds.
 
-**When one person may decide alone.** If the rules lawfully allow a single member or sole officer to decide, the overall workflow must still include both continuity and rotation somewhere in the path to that decision.
+**When one member may decide alone.** If the rules lawfully allow a single member or sole officer to decide, the overall workflow must still include both continuity and rotation somewhere in the path to that decision.
 
 **Emergencies only.** A body that uses only home-based members or only rotating members **fails this rule** for ordinary binding decisions. The only exception is a **published emergency** plan allowed under the **primary owner**'s continuity rules. Any emergency exception must stay within the emergency, and the rules must document how the body returns to the hybrid mix afterward.
 

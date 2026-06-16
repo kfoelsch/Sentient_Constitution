@@ -75,7 +75,7 @@ During assurance review, ambiguous terms in this file must be interpreted by ref
 
 ---
 
-*Corpus alignment:* edition `SC-Corpus-2026.04.32`, effective **2026-04-24**; canonical mapping in [doc_architecture.md](../doc_architecture.md) **section 17**.
+*Corpus alignment:* edition `SC-Corpus-2026.04.32`, effective **2026-04-24**; edition and custody in [README.md](../README.md) and [Chapter Five *Corpus*](../core_05-05_definitions_c_dependent_clusters.md#corpus).
 
 ---
 

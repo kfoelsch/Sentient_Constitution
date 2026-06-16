@@ -1,0 +1,138 @@
+{
+  "summary": "Machine-checkable editorial rules extracted from doc_architecture.md section 4.",
+  "rules": [
+    {
+      "id": "NAV-READER-06",
+      "legacy_ref": "doc_architecture rule 6",
+      "summary": "Chapter-opening reader guidance in collapsed non-operative details blocks.",
+      "make_target": null,
+      "status": "manual"
+    },
+    {
+      "id": "NAV-TRACE-08",
+      "legacy_ref": "doc_architecture rule 8",
+      "summary": "Trace blocks are blue collapsible details, collapsed by default.",
+      "make_target": "ch9-trace-audit",
+      "status": "blocking"
+    },
+    {
+      "id": "NAV-TRACE-09",
+      "legacy_ref": "doc_architecture rule 9",
+      "summary": "Trace placement under owning unit; Chapter Ten default owner is subarticle.",
+      "make_target": "ch9-trace-audit",
+      "status": "blocking"
+    },
+    {
+      "id": "NAV-TRACE-10",
+      "legacy_ref": "doc_architecture rule 10",
+      "summary": "Trace contents: Upstream, Downstream, Read with inside block; no Definitions line.",
+      "make_target": "trace-routing-prose-audit",
+      "status": "blocking"
+    },
+    {
+      "id": "NAV-DEC-12",
+      "legacy_ref": "doc_architecture rule 12",
+      "summary": "D/E/C widget scope, trigger, roadmap exclusion, row shape, spacer discipline.",
+      "make_target": "ch5-dec-widget-audit",
+      "status": "blocking"
+    },
+    {
+      "id": "NAV-DEC-12-SPACER",
+      "legacy_ref": "doc_architecture rule 12 spacer",
+      "summary": "Collapsible D/E/C keeps trailing br; inline Definition line does not.",
+      "make_target": "nav-widget-spacer-audit",
+      "status": "blocking"
+    },
+    {
+      "id": "NAV-DEC-CH1-ORDER",
+      "legacy_ref": "doc_architecture rule 12 Ch1 order",
+      "summary": "Chapter One D/E/C widgets preserve functional row order.",
+      "make_target": "ch1-dec-order-audit",
+      "status": "blocking"
+    },
+    {
+      "id": "NAV-INDEX-13",
+      "legacy_ref": "doc_architecture rule 13",
+      "summary": "Chapter Three section 1 link-only A-Z in-chapter index.",
+      "make_target": null,
+      "status": "manual"
+    },
+    {
+      "id": "LINK-IN-PARA-14",
+      "legacy_ref": "doc_architecture rule 14",
+      "summary": "In-paragraph operative links only when load-bearing and sparse.",
+      "make_target": "in-paragraph-link-audit",
+      "status": "blocking"
+    },
+    {
+      "id": "CH5-GRAVITY",
+      "legacy_ref": "section 4 admission gate",
+      "summary": "Chapter Five definitions exclude institutional machinery and rights gloss density.",
+      "make_target": "ch5-definitions-gravity-audit",
+      "status": "blocking"
+    },
+    {
+      "id": "CH5-ORDER-01",
+      "legacy_ref": "Order and alphabetization",
+      "summary": "Chapter Five editorial order, separators, compound heading alignment.",
+      "make_target": "ch5-cluster-order-audit",
+      "status": "blocking"
+    },
+    {
+      "id": "CH5-FORMAT",
+      "legacy_ref": "ch5 entry format",
+      "summary": "Trace separators and no redundant (Constitutional) suffix in references.",
+      "make_target": "ch5-entry-format-audit",
+      "status": "blocking"
+    },
+    {
+      "id": "CH5-SINGLE-DEF",
+      "legacy_ref": "single-definition rule",
+      "summary": "One visible Chapter Five definition label per term.",
+      "make_target": "ch5-single-definition-audit",
+      "status": "blocking"
+    },
+    {
+      "id": "LEX-GUARDRAILS",
+      "legacy_ref": "Plain-Language Vocabulary Guardrails",
+      "summary": "Lexical substitutions, forum/court vocabulary, capitalization drift.",
+      "make_target": "lexical-vocabulary-audit",
+      "status": "blocking"
+    },
+    {
+      "id": "PLAIN-JARGON",
+      "legacy_ref": "plain language table",
+      "summary": "Advisory jargon phrase scan from lexical_guardrails.json.",
+      "make_target": "plain-language-audit",
+      "status": "advisory"
+    },
+    {
+      "id": "GLOSS-SUBARTICLE",
+      "legacy_ref": "Plain-language gloss placement",
+      "summary": "Chapter Ten #### subarticles with operative bullets need In plain terms line.",
+      "make_target": "subarticle-gloss-audit",
+      "status": "advisory"
+    },
+    {
+      "id": "OWNER-SINGLE-HOME",
+      "legacy_ref": "Single home rule",
+      "summary": "Heuristic O/E/C-shaped gloss blocks outside Chapter Five owners.",
+      "make_target": "owner-discipline-audit",
+      "status": "advisory"
+    },
+    {
+      "id": "REF-ARTICLES",
+      "legacy_ref": "section 5 article map",
+      "summary": "Chapter Ten article titles and Roman numerals from part files.",
+      "make_target": "reference-audit",
+      "status": "blocking"
+    },
+    {
+      "id": "ROUTER-CJS21",
+      "legacy_ref": "implementation routing",
+      "summary": "Cross-implementation topic routing via CJS-2.1.",
+      "make_target": "router-bidirectional-audit",
+      "status": "blocking"
+    }
+  ]
+}

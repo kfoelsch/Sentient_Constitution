@@ -30,7 +30,7 @@ This file is **part of the Sentient Constitution** and is **binding only togethe
 - Upstream: [Chapter One](core_00-01_principles.md#chapter-01-principles-and-constraints); [Chapters Two through Four](core_02-04_definition_mechanics.md) integrity and verification; [Chapter Eleven](core_10-10_rights_part_a.md#chapter-ten-foundational-rights) Rights Floor; [Chapter Eleven](core_11-11_governance.md#chapter-eleven-constitutional-contract-legitimacy-authorization-and-stewardship) legitimacy and stewardship requirements.
 - Subsections: [§1](#1-non-regression-floor); [§2](#2-test-1-substantive-non-regression-validity); [§3](#3-anti-evasion-clause-and-constitutional-misconduct-referral); [§4](#4-scope-limit-and-layer-discipline).
 - Downstream: [Chapter Thirteen](core_12-14_amendment.md#chapter-thirteen-expansion-supremacy-and-external-legal-orders) expansion and supremacy; [Chapter Fourteen](core_12-14_amendment.md#chapter-fourteen-amendment-ratification-and-procedural-validity) procedural validity, ratification, and amendment requirements; [Chapter Six](core_06-06_standing_assessment.md#chapter-six-compliance-violation-and-standing-model) and [Chapter Eight](core_08-08_misconduct.md#chapter-eight-anti-constitutional-misconduct) for canonical classification where referral triggers route.
-- Read with: [architecture_primer.md](architecture_primer.md) non-operative walkthrough for **Chapters Eleven through Fourteen** on constitutional change and incorporation.
+- Read with: [archive/ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md](archive/ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md) non-operative walkthrough for **Chapters Eleven through Fourteen** on constitutional change and incorporation.
 
 </details>
 
@@ -110,7 +110,7 @@ Where amendment or adoption conduct indicates serious misconduct, a mandatory re
 
 - Upstream: [§3](#3-anti-evasion-clause-and-constitutional-misconduct-referral) referral-only discipline; [Chapter Six](core_06-06_standing_assessment.md#chapter-six-compliance-violation-and-standing-model) and [Chapter Eight](core_08-08_misconduct.md#chapter-eight-anti-constitutional-misconduct) canonical owners.
 - Downstream: [Chapter Fourteen §12](core_12-14_amendment.md#12-scope-limit-and-layer-discipline) mirrored procedural-layer discipline; implementation text for review execution mechanics.
-- Read with: [architecture_primer.md](architecture_primer.md) on change-path and incorporation; [Chapter Fourteen](core_12-14_amendment.md#chapter-fourteen-amendment-ratification-and-procedural-validity) for validity tests that do not duplicate slot-classification taxonomy.
+- Read with: [archive/ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md](archive/ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md) on change-path and incorporation; [Chapter Fourteen](core_12-14_amendment.md#chapter-fourteen-amendment-ratification-and-procedural-validity) for validity tests that do not duplicate slot-classification taxonomy.
 
 </details>
 
@@ -128,7 +128,7 @@ Detailed institutional procedure, staffing mechanics, forum-operational workflow
 
 Cross-layer drift that imports adjudicative workflow or sanction mechanics from **Chapter Six**, **Chapter Seven**, or **Chapter Eight** into **Chapter Twelve** or **Chapter Fourteen** — whether as direct text, as reader-guidance prose treated as operative effect, or as inference from review-trigger language — is non-compliant under this section.
 
-For a non-operative reading walkthrough of **Chapters Eleven through Fourteen** on constitutional change and incorporation, see [architecture_primer.md](architecture_primer.md).
+For a non-operative reading walkthrough of **Chapters Eleven through Fourteen** on constitutional change and incorporation, see [archive/ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md](archive/ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md).
 
 ---
 
@@ -416,7 +416,7 @@ A proposed amendment is invalid unless required publication elements are satisfi
 
 - Upstream: [§4](#4-test-2-procedural-validity-and-publication-integrity) Test 2 publication integrity.
 - Downstream: [§10](#10-ratification-and-adoption) instruments and custody expectations; [Chapter Five *Corpus*](core_05-05_definitions_c_dependent_clusters.md#corpus) consistency requirements.
-- Read with: [doc_architecture.md](doc_architecture.md) document control and edition identifiers referenced in §10; [Corpus, Authority Stack, Supremacy, and Enforceability](core_05-05_definitions_c_dependent_clusters.md#corpus-authority-stack-supremacy-and-enforceability-cluster) (*Chapter Five §3.4 cluster*).
+- Read with: [Chapter Five *Corpus*](core_05-05_definitions_c_dependent_clusters.md#corpus) and [README.md](README.md) (edition identifiers); [Corpus, Authority Stack, Supremacy, and Enforceability](core_05-05_definitions_c_dependent_clusters.md#corpus-authority-stack-supremacy-and-enforceability-cluster) (*Chapter Five §3.4 cluster*).
 
 </details>
 
@@ -540,7 +540,7 @@ This Constitution binds a steward, organization, federation of bodies, or jurisd
 
 - Upstream: [§10.1](#101-deliberate-adoption) deliberate adoption requirement.
 - Downstream: [§5](#5-test-3-authority-chain-and-custody-validity) Test 3 chain checks against instrument contents.
-- Read with: [doc_architecture.md](doc_architecture.md) authoritative corpus and edition identifier expectations.
+- Read with: [README.md](README.md) and [Chapter Five *Corpus*](core_05-05_definitions_c_dependent_clusters.md#corpus) (authoritative corpus and edition identifier expectations).
 
 </details>
 
@@ -551,7 +551,7 @@ This Constitution binds a steward, organization, federation of bodies, or jurisd
 Adopters must maintain an identifiable instrument of adoption. Examples include **joining** by additional parties (with recorded assent), treaty or compact ratification, corporate or intergovernmental resolution, federated registry entry, or equivalent. The instrument must state the adopting entity, scope of adoption, and effective date. It must:
 
 - identify the custodian of the authoritative edition of this Constitution and its integrated implementation files.
-- be consistent with document-control expectations in **doc_architecture.md** (authoritative corpus, edition identifier, custody chain).
+- be consistent with document-control expectations in [README.md](README.md) and [Chapter Five *Corpus*](core_05-05_definitions_c_dependent_clusters.md#corpus) (authoritative corpus, edition identifier, custody chain).
 - be consistent with **Corpus** in Chapter Five ([core_05-05_definitions_a_independent.md](core_05-05_definitions_c_dependent_clusters.md#corpus)).
 
 #### 10.3 Joining by additional parties

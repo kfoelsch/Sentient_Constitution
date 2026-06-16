@@ -1,0 +1,216 @@
+{
+  "chapters": [
+    {
+      "file": "core_00-01_principles.md",
+      "label": "core",
+      "status": "present"
+    },
+    {
+      "file": "core_02-04_definition_mechanics.md",
+      "label": "core",
+      "status": "present"
+    },
+    {
+      "file": "core_05-05_definitions_a_independent.md",
+      "label": "core",
+      "status": "present"
+    },
+    {
+      "file": "core_05-05_definitions_b_semi_independent.md",
+      "label": "core",
+      "status": "present"
+    },
+    {
+      "file": "core_05-05_definitions_c_dependent_clusters.md",
+      "label": "core",
+      "status": "present"
+    },
+    {
+      "file": "core_06-06_standing_assessment.md",
+      "label": "core",
+      "status": "present"
+    },
+    {
+      "file": "core_06-06_sections_5.1-5.8_plain_language.md",
+      "label": "core",
+      "status": "present"
+    },
+    {
+      "file": "core_07-07_standing_integration.md",
+      "label": "core",
+      "status": "present"
+    },
+    {
+      "file": "core_08-08_misconduct.md",
+      "label": "core",
+      "status": "present"
+    },
+    {
+      "file": "core_09-09_forum.md",
+      "label": "core",
+      "status": "present"
+    },
+    {
+      "file": "core_10-10_rights_part_a.md",
+      "label": "core",
+      "status": "present"
+    },
+    {
+      "file": "core_10-10_rights_part_b.md",
+      "label": "core",
+      "status": "present"
+    },
+    {
+      "file": "core_10-10_rights_part_c.md",
+      "label": "core",
+      "status": "present"
+    },
+    {
+      "file": "core_10-10_rights_part_d.md",
+      "label": "core",
+      "status": "present"
+    },
+    {
+      "file": "core_11-11_governance.md",
+      "label": "core",
+      "status": "present"
+    },
+    {
+      "file": "core_12-14_amendment.md",
+      "label": "core",
+      "status": "present"
+    },
+    {
+      "file": "core_15-15_incorporation.md",
+      "label": "core",
+      "status": "present"
+    },
+    {
+      "file": "corpus_systems.md",
+      "label": "corpus_systems",
+      "status": "present"
+    },
+    {
+      "file": "corpus_institutions.md",
+      "label": "corpus_institutions",
+      "status": "present"
+    },
+    {
+      "file": "corpus_forum.md",
+      "label": "corpus_forum",
+      "status": "present"
+    },
+    {
+      "file": "corpus_joint_structure.md",
+      "label": "corpus_joint_structure",
+      "status": "present"
+    }
+  ],
+  "router_sample": [
+    {
+      "id": "CJS-R01",
+      "topic": "Delegated binding bodies and hybrid composition (non-forum institutions)",
+      "primary_owner": "`corpus_institutions.md` **CI-9.3**"
+    },
+    {
+      "id": "CJS-R02",
+      "topic": "Forum chambers, divisions, and designated panels (Chapter Nine families)",
+      "primary_owner": "`corpus_forum.md` **CF-3.5**\u2013**CF-3.8**"
+    },
+    {
+      "id": "CJS-R03",
+      "topic": "Lawful panel formation, disclosure, recusal, substitution, inability-to-form",
+      "primary_owner": "`corpus_forum.md` **CF-4**"
+    },
+    {
+      "id": "CJS-R04",
+      "topic": "Routing, intake, transfer, certification, representative treatment",
+      "primary_owner": "`corpus_forum.md` **CF-5**"
+    },
+    {
+      "id": "CJS-R05",
+      "topic": "Appeal, secondary review, exhaustion",
+      "primary_owner": "`corpus_forum.md` **CF-6**"
+    },
+    {
+      "id": "CJS-R06",
+      "topic": "Forum integrity operations, anti-capture, anti-self-judging support",
+      "primary_owner": "`corpus_forum.md` **CF-7**"
+    },
+    {
+      "id": "CJS-R07",
+      "topic": "Forum forensic and analytical support",
+      "primary_owner": "`corpus_forum.md` **CF-8**"
+    },
+    {
+      "id": "CJS-R08",
+      "topic": "Independent investigative service and prosecution interface",
+      "primary_owner": "`corpus_forum.md` **CF-9**"
+    },
+    {
+      "id": "CJS-R09",
+      "topic": "Technical forums and specialist chambers",
+      "primary_owner": "`corpus_forum.md` **CF-10**"
+    },
+    {
+      "id": "CJS-R10",
+      "topic": "Forum performance, backlog requirements, publication timeliness, accessibility",
+      "primary_owner": "`corpus_forum.md` **CF-11**"
+    },
+    {
+      "id": "CJS-R11",
+      "topic": "Forum continuity",
+      "primary_owner": "`corpus_forum.md` **CF-12**"
+    },
+    {
+      "id": "CJS-R11A",
+      "topic": "Fallback operation",
+      "primary_owner": "`corpus_forum.md` **CF-13**"
+    },
+    {
+      "id": "CJS-R11B",
+      "topic": "Emergency adjudication",
+      "primary_owner": "`corpus_forum.md` **CF-14**"
+    },
+    {
+      "id": "CJS-R12",
+      "topic": "Standard forum records, forms, and evidence artifacts",
+      "primary_owner": "`corpus_forum.md` **CF-15**"
+    },
+    {
+      "id": "CJS-R13",
+      "topic": "Forum staffing, shared administration, structural review, structural records",
+      "primary_owner": "`corpus_forum.md` **CF-16**"
+    },
+    {
+      "id": "CJS-R14",
+      "topic": "Institutional functional lanes and non-delegable splits",
+      "primary_owner": "`corpus_institutions.md` **CI-3**"
+    },
+    {
+      "id": "CJS-R15",
+      "topic": "Contest-integrity monitoring (pathway integrity, not merits)",
+      "primary_owner": "`corpus_institutions.md` **CI-7.3**"
+    },
+    {
+      "id": "CJS-R16",
+      "topic": "Cross-institution coordination, deadlock, and escalation",
+      "primary_owner": "`corpus_institutions.md` **CI-8**"
+    },
+    {
+      "id": "CJS-R17",
+      "topic": "Cross-implementation trust integrity (joint operation model)",
+      "primary_owner": "**CJS-4.3 \u2014 Cross-implementation trust integrity**"
+    },
+    {
+      "id": "CJS-R18",
+      "topic": "Class-scaled lane staffing and competency redundancy for materially binding stewardship",
+      "primary_owner": "`corpus_institutions.md` **CI-3**, **CI-4**, **CI-11**, **CI-12**"
+    },
+    {
+      "id": "CJS-R19",
+      "topic": "Implementation and cross-implementation integrity assurance and resilience operations",
+      "primary_owner": "**CJS-5.8**"
+    }
+  ]
+}

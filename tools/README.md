@@ -32,7 +32,9 @@ Python utilities for this repository. Run from the repo root unless noted.
 
 `ch5_cluster_order_audit.py` guards selected Chapter Five compound §2 topic groups and §3 dependent clusters whose visible heading order is intended to mirror the internal entry/member order. Expand its expected set whenever a new compound heading is intentionally made order-bearing.
 
-`ch1_dec_order_audit.py` guards against AI drift in Chapter One D/E/C widgets by checking the highest-risk principle sections against the functional order documented in `doc_architecture.md` and `implementation/CHAPTER_ONE_PRINCIPLE_DEFINITION_MATRIX_2026-04-29.md`. It is intentionally narrow and blocking in `make regression`.
+Machine-checkable editorial rules: [tools/architecture/rule_registry.json](tools/architecture/rule_registry.json). Full audit catalog: [implementation/AUTOMATED_REFERENCE_CHECKING.md](implementation/AUTOMATED_REFERENCE_CHECKING.md).
+
+`ch1_dec_order_audit.py` guards Chapter One D/E/C functional ordering using [tools/architecture/ch1_dec_order.json](tools/architecture/ch1_dec_order.json) (rule NAV-DEC-CH1-ORDER).
 
 `readability_audit.py` excludes `MEMLOG.md` and `TODO.md` by default because those files are treated as AI-only working memory and project task tracking rather than reader-facing corpus prose.
 

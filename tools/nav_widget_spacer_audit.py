@@ -1,5 +1,8 @@
 #!/usr/bin/env python3
-"""Audit <br> spacer discipline after Trace, D/E/C, and reader-guidance widgets."""
+"""Audit <br> spacer discipline after Trace, D/E/C, and reader-guidance widgets.
+
+Rule: NAV-DEC-12-SPACER in tools/architecture/rule_registry.json.
+"""
 
 from __future__ import annotations
 

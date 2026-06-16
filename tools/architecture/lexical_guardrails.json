@@ -1,0 +1,127 @@
+{
+  "load_bearing_capitalization": [
+    "Wellbeing",
+    "Safety",
+    "Truth",
+    "Rights Floor",
+    "Foundational Rights"
+  ],
+  "plain_language_substitutions": [
+    {
+      "avoid": "person",
+      "prefer": "sentient / sentients; human / humans where biological substrate is material"
+    },
+    {
+      "avoid": "persons",
+      "prefer": "sentients; humans where biological substrate is material"
+    },
+    {
+      "avoid": "epistemic integrity",
+      "prefer": "truthfulness, honest handling of facts, reliable understanding"
+    },
+    {
+      "avoid": "contestability",
+      "prefer": "ability to challenge, real chance to contest, reviewability"
+    },
+    {
+      "avoid": "checkable",
+      "prefer": "can be checked, something sentients can verify, open to verification"
+    },
+    {
+      "avoid": "materiality",
+      "prefer": "importance, significance"
+    },
+    {
+      "avoid": "materially",
+      "prefer": "in ways that matter, with material effect"
+    },
+    {
+      "avoid": "foreseeability",
+      "prefer": "what could reasonably be expected"
+    },
+    {
+      "avoid": "proportionality",
+      "prefer": "fit the risk, no broader than needed, matched to the harm"
+    },
+    {
+      "avoid": "necessity",
+      "prefer": "needed, required, no less restrictive effective option"
+    },
+    {
+      "avoid": "operationalize",
+      "prefer": "put into practice, carry out, implement"
+    },
+    {
+      "avoid": "operationalized",
+      "prefer": "put into practice, carried out, implemented"
+    },
+    {
+      "avoid": "interdependent definitions",
+      "prefer": "linked definitions, connected definitions"
+    },
+    {
+      "avoid": "annex",
+      "prefer": "implementation layer, implementation file, or a specific filename like corpus_systems.md"
+    },
+    {
+      "avoid": "non-compliant",
+      "prefer": "does not meet the rule, fails the rule"
+    },
+    {
+      "avoid": "stakeholder",
+      "prefer": "affected parties, participants, those involved"
+    },
+    {
+      "avoid": "posture",
+      "prefer": "stance, approach, inputs, classification, framing, rule, profile, or a concrete noun"
+    }
+  ],
+  "ambiguous_labels": [
+    {
+      "avoid": "Constitutional Systems",
+      "prefer": "corpus_systems.md with CS chapter or protocol label"
+    },
+    {
+      "avoid": "court",
+      "prefer": "forum, forum family, adjudicative body"
+    },
+    {
+      "avoid": "courts",
+      "prefer": "forums, forum family, adjudicative body"
+    },
+    {
+      "avoid": "tribunal",
+      "prefer": "forum, panel, bench, adjudicative body"
+    },
+    {
+      "avoid": "tribunals",
+      "prefer": "forums, panel, bench, adjudicative body"
+    }
+  ],
+  "co_gloss_registry": [
+    {
+      "heavy_phrase": "early-instantiation window",
+      "plain_counterpart": "the period when a new system or role first goes live and early mistakes are most likely to become entrenched"
+    },
+    {
+      "heavy_phrase": "parent-system continuity interest",
+      "plain_counterpart": "a prior operator's legitimate need to keep essential services stable through a handoff or migration"
+    },
+    {
+      "heavy_phrase": "capability profile materially emerging",
+      "plain_counterpart": "a sentient's real-world abilities are still taking shape, so tests and thresholds must be fair and revisable"
+    }
+  ],
+  "phrase_rules_for_plain_language_audit": [
+    {
+      "name": "extended-narrative-context",
+      "pattern": "\\bextended narrative context\\b",
+      "suggestion": "Prefer a simpler phrase such as 'longer explanation'."
+    },
+    {
+      "name": "non-operative-explanatory-framing",
+      "pattern": "\\bnon-operative explanatory framing\\b",
+      "suggestion": "Prefer a simpler phrase such as 'non-binding explanation'."
+    }
+  ]
+}

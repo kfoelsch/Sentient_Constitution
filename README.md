@@ -21,7 +21,7 @@ Primary source of truth for operative constitutional text: the **Sentient Consti
 
 **Corpus edition:** `SC-Corpus-2026.04.32`
 **Effective date:** 2026-04-24
-**Status:** Substantive binding text through **Chapter Fifteen** is **stable for assurance review** under edition `SC-Corpus-2026.04.32` (see [doc_architecture.md](doc_architecture.md) §**17** *Pass (2026-04-24, edition .32)* for the latest implementation-layer batch).
+**Status:** Substantive binding text through **Chapter Fifteen** is **stable for assurance review** under edition `SC-Corpus-2026.04.32` (effective **2026-04-24**). Custody and binding scope: [Chapter Five *Corpus*](core_05-05_definitions_c_dependent_clusters.md#corpus) and [Chapter Fifteen](core_15-15_incorporation.md).
 
 The assurance baseline is the full operative Sentient Constitution across the numbered core files (**Chapters One through Fifteen**).
 
@@ -38,7 +38,7 @@ This edition treats the following chapters as binding constitutional text, not a
 - Use **Chapter Seven** in `core_07-07_standing_integration.md` for pipeline integration and consequences: standing effects, attachments, descriptors, standing locks, enforcement, and the Chapter Eight pointer.
 - Use **Chapter Eight** in `core_08-08_misconduct.md` only for pipeline top-slot finalization: final **s = 7, 8, or 9** anti-constitutional misconduct assignment within the Violation Axis (unified-incident gravity, criteria, and due-process safeguards).
 - Use **Chapter Nine** in `core_09-09_forum.md` for constitutional forum families, default jurisdiction, and the **cross-forum anti-self-judging** rule.
-- Read **Chapter Ten** in `core_10-10_rights_part_a.md` through `core_10-10_rights_part_d.md` for the Rights Floor (articles appear in **Parts A–D** in a **planet-first** presentation order; non-operative summary in [architecture_primer.md](architecture_primer.md) **section 6**).
+- Read **Chapter Ten** in `core_10-10_rights_part_a.md` through `core_10-10_rights_part_d.md` for the Rights Floor (articles appear in **Parts A–D** in a **planet-first** presentation order; map in [doc_architecture.md](doc_architecture.md) **section 5**).
 - Use **Chapter Eleven** in `core_11-11_governance.md` for constitutional contract, legitimacy, authorization, and stewardship requirements.
 - Use **Chapter Twelve** in `core_12-14_amendment.md` for non-regression and substantive amendment validity (Test 1; anti-evasion; referral triggers).
 - Use **Chapter Thirteen** in `core_12-14_amendment.md` for expansion of protection, supremacy relative to other norms, and external legal orders.
@@ -46,7 +46,7 @@ This edition treats the following chapters as binding constitutional text, not a
 - Use **Chapter Fifteen** in `core_15-15_incorporation.md` for the incorporation bridge (what implementation files bind, adoption and custody, and no silent drift).
 
 **Fast Locator:**
-- Rights Floor -> **Chapter Ten** (`core_10-10_rights_part_a.md` through `core_10-10_rights_part_d.md`; see [architecture_primer.md](architecture_primer.md) **section 6** for Part A–D reading map)
+- Rights Floor -> **Chapter Ten** (`core_10-10_rights_part_a.md` through `core_10-10_rights_part_d.md`; see [doc_architecture.md](doc_architecture.md) **section 5** for stable IDs and routing pointers)
 - Standing pipeline (records, verified inputs, classification, locks, and top-slot review) -> **Chapters Six through Eight** (`core_06-06_standing_assessment.md`, `core_07-07_standing_integration.md`, `core_08-08_misconduct.md`)
 - Anti-constitutional misconduct top-slot finalization (final **s = 7, 8, or 9**; unified-incident gravity) -> **Chapter Eight** (`core_08-08_misconduct.md`)
 - Forum families, jurisdiction, and cross-forum anti-self-judging -> **Chapter Nine** (`core_09-09_forum.md`)
@@ -63,7 +63,7 @@ This edition treats the following chapters as binding constitutional text, not a
 - **Binding:** the numbered `core_*` constitutional files read together as one instrument, plus designated adopted obligations in `corpus_joint_structure.md`, `corpus_systems.md`, `corpus_institutions.md`, `corpus_forum.md`, and `corpus_joint_structure.md`.
 - **Support unless explicitly adopted:** `doc_architecture.md`, `TODO.md`, regression/evidence artifacts, and implementation notes.
 
-The **structure map** ([doc_architecture.md](doc_architecture.md)) and corpus cross-references are maintained in lockstep with the numbered Sentient Constitution core files. Bump the edition label only on a deliberate corpus publication cut.
+The **structure map** ([doc_architecture.md](doc_architecture.md)) and corpus cross-references are maintained in lockstep with the numbered Sentient Constitution core files. Bump the edition label only on a deliberate corpus publication cut. Former `doc_architecture.md` sections **14–19** (worklist, adoption appendix, document control) live in [archive/ARCHITECTURE_ADOPTION_APPENDIX_ARCHIVED_2026-05-08.md](archive/ARCHITECTURE_ADOPTION_APPENDIX_ARCHIVED_2026-05-08.md) and [archive/ARCHITECTURE_WORKLIST_ARCHIVED_2026-05-08.md](archive/ARCHITECTURE_WORKLIST_ARCHIVED_2026-05-08.md).
 
 The constitutional corpus is intentionally written in plain language with low jargon to improve accessibility, audit readability, and practical adoption testing.
 
@@ -93,7 +93,7 @@ Quick authority order:
 - **Process/map support (non-constitutional):** `doc_architecture.md`, `TODO.md`, regression and evidence artifacts unless explicitly incorporated by valid adopting instrument.
 - **Conflict order:** Sentient Constitution meaning controls. Use the **Authority Stack and Internal Hierarchy** cluster in Chapter Five to distinguish source-layer status from last-resort interpretive hierarchy. Incorporated and process layers must satisfy, not narrow, Sentient Constitution constraints.
 
-For longer explanatory orientation and first-pass reading flow, see [architecture_primer.md](architecture_primer.md).
+For longer non-operative orientation, see [archive/ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md](archive/ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md). For ownership, stable IDs, and editing discipline, use [doc_architecture.md](doc_architecture.md).
 
 ---
 

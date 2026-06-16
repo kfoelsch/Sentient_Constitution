@@ -1,0 +1,118 @@
+{
+  "#### 3.1 Safety (Harm Constraint)": [
+    "Safety (Constraint)",
+    "Harm",
+    "Irreversible Harm",
+    "Risk",
+    "Materiality",
+    "Dependency",
+    "Foreseeability"
+  ],
+  "#### 5.1 Shared-System Capacity": [
+    "Productive Capacity",
+    "Constitutional Efficiency",
+    "Wellbeing",
+    "Dignity and Equal Moral Standing",
+    "Meaningful Agency",
+    "Feasibility",
+    "Necessity",
+    "Proportionality",
+    "Avoidable Burden",
+    "Proxy Divergence",
+    "Ecological Integrity",
+    "Environmental Preconditions",
+    "Intergenerational Responsibility",
+    "Concentration Threshold"
+  ],
+  "#### 5.2 Stewardship and Distributed Understanding": [
+    "Strategic Stewardship Obligation",
+    "Meaningful Agency",
+    "Auditability",
+    "Contestability",
+    "Educational Agency",
+    "Transparency",
+    "Materiality",
+    "Dependency",
+    "Accessibility",
+    "Safety (Constraint)",
+    "Truth (Constitutional Constraint)",
+    "Necessity",
+    "Proportionality",
+    "Avoidable Burden",
+    "Epistemic Integrity"
+  ],
+  "##### 5.2.1 Stewardship": [
+    "Strategic Stewardship Obligation",
+    "Meaningful Agency",
+    "Auditability"
+  ],
+  "##### 5.2.2 Distributed Understanding": [
+    "Transparency",
+    "Materiality",
+    "Dependency",
+    "Accessibility",
+    "Meaningful Agency",
+    "Contestability"
+  ],
+  "### 8. Freedom (Bounded Agency)": [
+    "Freedom (Bounded Agency)",
+    "Meaningful Agency",
+    "Consent",
+    "Coercion and Manipulation",
+    "Assembly",
+    "Collective Organization",
+    "System Creation",
+    "Business Creation",
+    "Feasibility",
+    "Necessity",
+    "Proportionality",
+    "Harm Minimization (Tradeoff Selection)",
+    "Dependency"
+  ],
+  "##### 6.4.1 Rights-Collision Decision Test": [
+    "Necessity",
+    "Proportionality",
+    "Feasibility",
+    "Materiality",
+    "Dependency",
+    "Foreseeability",
+    "Proxy Divergence",
+    "Avoidable Burden"
+  ],
+  "#### 7.1 Required Evaluation Factors": [
+    "Dependency",
+    "Materiality",
+    "Foreseeability",
+    "Risk",
+    "Systemic",
+    "System Boundaries",
+    "System Boundary Integrity",
+    "Cascading Failure",
+    "Residual Risk / Misalignment",
+    "Existential Risk",
+    "Incentive Alignment"
+  ],
+  "##### 7.2.2 Stewardship and Operator Incentive Alignment": [
+    "Incentive Alignment",
+    "Productive Capacity",
+    "Constitutional Efficiency",
+    "Avoidable Burden",
+    "Proxy Divergence",
+    "Auditability",
+    "Safety (Constraint)",
+    "Truth (Constitutional Constraint)",
+    "System Capture"
+  ],
+  "### 10. Interpretive Role": [
+    "Corpus",
+    "Authority Stack and Internal Hierarchy",
+    "Supremacy and Enforceability",
+    "Irreversible Harm",
+    "Truth (Constitutional Constraint)",
+    "Meaningful Agency",
+    "Accountability",
+    "System Capture",
+    "Incentive Alignment",
+    "Governance"
+  ]
+}

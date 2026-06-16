@@ -29,7 +29,7 @@ Our constitutional aim is sustainable, resilient, and compassionate systems that
 
 Durable legitimacy also depends on proportionate recognition of lawful stewardship and truthful cooperation, and on respect for bounded aspiration — not solely on sanction and restraint. Chapter One states this dimension at [§2.2 Recognition, Reinforcement, and Aspiration](#22-recognition-reinforcement-and-aspiration).
 
-For a longer, non-binding explanation, see [architecture_primer.md](architecture_primer.md).
+For a longer, non-binding explanation, see [archive/ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md](archive/ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md) or the ownership map in [doc_architecture.md](doc_architecture.md) **section 2**.
 
 ---
 ## CHAPTER 01: PRINCIPLES AND CONSTRAINTS

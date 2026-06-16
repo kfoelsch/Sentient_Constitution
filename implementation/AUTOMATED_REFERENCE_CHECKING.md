@@ -1,61 +1,72 @@
 # Automated Reference Checking
 
-This repository now includes an automated reference-integrity gate intended to run when TODO closure work is completed.
+Single catalog for corpus integrity audits. Rule IDs map to [tools/architecture/rule_registry.json](../tools/architecture/rule_registry.json). Operational commands also appear in [tools/README.md](../tools/README.md) under *Maintenance*.
 
-## Plan -> Act -> Verify flow
+## Blocking bundle (`make regression`)
 
-### Plan
-- Canonical article map source: merged `### Article …:` headings from `core_10-10_rights_part_*.md` (see `tools/reference_audit.py`).
-- Scan scope (default for `make reference-audit`):
-  - `core_*.md` (Sentient Constitution chapters), `corpus_*.md`, companion subfiles such as `corpus_joint_structure/*.md`, `doc_architecture.md`
-  - Optional / suspended: `CONSTITUTIONAL_REGRESSION_SCENARIOS.md` when that file is present again
+| Make target | Tool | Rule ID(s) | Notes |
+|-------------|------|------------|-------|
+| `reference-audit` | `tools/reference_audit.py` | REF-ARTICLES | Chapter Ten article map from part-file headings |
+| `doc-architecture-section-audit` | `tools/architecture/doc_architecture_section_audit.py` | — | No letter-suffixed `##` sections in doc_architecture |
+| `primitive-retirement-audit` | `tools/primitive_retirement_audit.py` | — | Retired primitive label grammar |
+| `section-abbreviation-descriptor-audit` | `tools/section_abbreviation_descriptor_audit.py` | — | `--changed-only` in regression |
+| `scenario-audit` | `tools/scenario_audit.py` | — | When live regression catalog present |
+| `corpus-markdown-audit` | `tools/corpus_markdown_audit.py` | — | Markdown structure |
+| `footer-audit` | `tools/footer_audit.py` | — | Corpus navigation footer chain |
+| `nav-widget-spacer-audit` | `tools/nav_widget_spacer_audit.py` | NAV-DEC-12-SPACER | D/E/C vs inline Definition spacer |
+| `trace-routing-prose-audit` | `tools/trace_routing_prose_audit.py` | NAV-TRACE-10 | Read with inside Trace |
+| `in-paragraph-link-audit` | `tools/in_paragraph_link_audit.py` | LINK-IN-PARA-14 | Proof registry + See anti-patterns |
+| `ch5-definitions-gravity-audit` | `tools/ch5_definitions_gravity_audit.py` | CH5-GRAVITY | Admission gate / de-bundling |
+| `ch5-trace-crosslink-audit` | `tools/ch5_trace_crosslink_audit.py` | NAV-TRACE-10 | Ch5 Read with placement |
+| `ch5-entry-format-audit` | `tools/ch5_entry_format_audit.py` | CH5-FORMAT | Separators, suffix discipline |
+| `ch5-alphabetical-directory-audit` | `tools/ch5_alphabetical_directory_audit.py` | CH5-ORDER-01 | Directory order |
+| `ch5-single-definition-audit` | `tools/ch5_single_definition_audit.py` | CH5-SINGLE-DEF | One label per term |
+| `ch5-dec-widget-audit` | `tools/ch5_dec_widget_audit.py` | NAV-DEC-12 | Widget row shape |
+| `ch5-cluster-order-audit` | `tools/ch5_cluster_order_audit.py` | CH5-ORDER-01 | Compound heading order |
+| `ch1-dec-order-audit` | `tools/ch1_dec_order_audit.py` | NAV-DEC-CH1-ORDER | Config: `ch1_dec_order.json` |
+| `ch9-trace-audit` | `tools/ch9_trace_audit.py` | NAV-TRACE-08–10 | Chapter Ten subarticle traces |
+| `prose-continuity-audit` | `tools/prose_continuity_audit.py` | — | Stray indent / orphan lines |
+| `lexical-vocabulary-audit` | `tools/lexical_vocabulary_audit.py` | LEX-GUARDRAILS | Config: `lexical_guardrails.json` |
+| `cjs-operational-cluster-audit` | `tools/cjs_operational_cluster_audit.py` | — | CJS-5 placement |
+| `router-bidirectional-audit` | `tools/router_bidirectional_audit.py` | ROUTER-CJS21 | CJS-2.1 router |
 
-### Act
-- Run a validation-only check:
-  - `make reference-audit`
-- Run and write an evidence artifact:
-  - `make reference-audit-evidence`
-  - Output: `evidence/<YYYY-MM-DD>/REFERENCE_INTEGRITY_AUDIT_<YYYY-MM-DD>.md`
+## Advisory / extended gates
 
-### Prose continuity (corpus formatting regression)
+| Make target | Tool | Rule ID(s) | Promotion path |
+|-------------|------|------------|----------------|
+| `plain-language-audit` | `tools/plain_language_audit.py` | PLAIN-JARGON | Phrase rules from `lexical_guardrails.json` |
+| `subarticle-gloss-audit` | `tools/subarticle_gloss_audit.py` | GLOSS-SUBARTICLE | Chapter Ten `*In plain terms:*` on `#### Article` |
+| `readability-audit` | `tools/readability_audit.py` | — | `make regression-full`; optional `--with-subarticle-gloss` |
+| `owner-discipline-audit` | `tools/owner_discipline_audit.py` | OWNER-SINGLE-HOME | Heuristic O/E/C outside Ch5; use `--strict` to block |
+| `ch5-cross-file-link-audit` | `tools/ch5_cross_file_link_audit.py` | — | Promote when clean |
+| `ci-cjs-relocation-audit` | `tools/ci_cjs_relocation_audit.py` | — | Relocation drift evidence |
 
-The `tools/prose_continuity_audit.py` gate catches recurring editorial defects: stray leading-space lines (broken Markdown continuations) and a small set of known stranded continuation fragments (for example lines that begin with “Failure to do so” after a paragraph break).
+## Architecture maintenance
 
-- Validation: `make prose-continuity-audit` (also runs as part of `make regression`).
-- Evidence artifact: `make prose-continuity-audit-evidence` → `evidence/<YYYY-MM-DD>/PROSE_CONTINUITY_AUDIT_<YYYY-MM-DD>.md`.
-- Scope defaults to the Sentient Constitution `core_*.md` files, `corpus_joint_structure.md` plus `corpus_joint_structure/*.md`, `corpus_systems.md`, and `corpus_institutions.md`. Use `--no-orphan-lines` to only enforce the indent rule.
+| Make target | Tool | Purpose |
+|-------------|------|---------|
+| `architecture-inventory` | `tools/architecture/inventory_doc_architecture.py` | Section sizes + external references → `evidence/<date>/` |
+| `architecture-index` | `tools/emit_architecture_index.py` | `doc_architecture/generated/stable_id_index.md` |
+| `doc-architecture-section-audit` | `tools/architecture/doc_architecture_section_audit.py` | Numeric `##` sections only (no `1A`/`1B` letter suffixes) |
 
-### Chapter Five trace-block metadata placement
+## Evidence workflow
 
-The `tools/ch5_trace_crosslink_audit.py` gate protects the Chapter Five authoring rule that navigation metadata such as `Read with:` must remain inside the local `Trace` / `<details>` block and must not appear as standalone operative prose.
-It does not prohibit selective same-file cross-definition links in the operative O / E / C body.
-
-- Validation: `make ch5-trace-crosslink-audit` (also runs as part of `make regression`).
-- Current scope: `core_05-05_definitions_a_independent.md`.
-- Failure mode: any `Read with:` line found outside a local `<details>` block is treated as a regression.
-
-### Chapter Ten subarticle trace coverage
-
-The `tools/ch9_trace_audit.py` gate protects the Chapter Ten authoring rule that operative rights traces belong at the `#### Article …` subarticle level, not only at parent-article openings. It also requires a minimum navigation payload in each subarticle trace block: `Principles:` plus linked `Definitions:`.
-
-- Validation: `make ch9-trace-audit` (also runs as part of `make regression`).
-- Current scope: `core_10-10_rights_part_a.md` through `core_10-10_rights_part_d.md`.
-- Failure mode: any Chapter Ten subarticle heading without a local `<details>` trace block, without a `Principles:` line, or without linked definition targets in `Definitions:` is treated as a regression.
-
-### Verify
-- Ensure the command exits successfully.
-- Confirm evidence artifact is present for the run date.
-- Link the artifact in any TODO closure note where relevant.
+1. Run the validation target (or `make regression`).
+2. For dated artifacts: `make reference-audit-evidence`, `make prose-continuity-audit-evidence`, `make lexical-vocabulary-audit-evidence`, or `make architecture-inventory`.
+3. Link evidence in closure notes when closing TODO items.
 
 ## Optional commit-time gate
 
-A hook script is provided at `.githooks/pre-commit`.
+`.githooks/pre-commit` runs `make regression` when binding corpus, audit tooling, or the `Makefile` change; runs `make todo-close-check` when `TODO.md` is staged.
 
-It runs `make regression` when staged changes touch authoritative corpus files, regression scenarios, audit tooling, or the `Makefile`, and runs `make todo-close-check` when `TODO.md` is staged.
-
-To enable it in a git repo:
+Enable:
 
 1. `chmod +x .githooks/pre-commit`
 2. `git config core.hooksPath .githooks`
 
-If this workspace is not currently a git repo, the script is inert.
+## Manual / editorial (no automated gate yet)
+
+- **NAV-READER-06**, **NAV-INDEX-13**: reader-guidance widgets; Chapter Three §1 index
+- **Single-home overlap sweep**: grep discipline in [doc_architecture.md](../doc_architecture.md) **section 12**; overlap theme table archived under `archive/doc_architecture_decision_log/`
+
+Historical navigation decisions: [archive/doc_architecture_decision_log/DEC_WIDGET_AND_NAV_DECISIONS_2026-04-16_2026-06-15.md](../archive/doc_architecture_decision_log/DEC_WIDGET_AND_NAV_DECISIONS_2026-04-16_2026-06-15.md).

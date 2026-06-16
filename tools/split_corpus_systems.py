@@ -175,7 +175,8 @@ def main() -> None:
             chunk = chunk.rstrip() + "\n\n---\n\n"
             chunk += (
                 "*Corpus alignment:* edition `SC-Corpus-2026.04.32`, effective **2026-04-24**; "
-                "canonical mapping in [doc_architecture.md](../doc_architecture.md) **section 17**.\n\n"
+                "edition and custody in [README.md](../README.md) and "
+                "[Chapter Five *Corpus*](../core_05-05_definitions_c_dependent_clusters.md#corpus).\n\n"
                 "---\n\n"
                 f"**Previous file:** [{filenames[index - 1]}]({filenames[index - 1]})\n\n"
                 "**Next file:** [corpus_institutions.md](../corpus_institutions.md)\n"

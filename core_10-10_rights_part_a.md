@@ -39,7 +39,7 @@ Shorter cross-references to those themes elsewhere in this chapter incorporate t
 
 > The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this chapter or in other chapters.
 >
-> For non-operative orientation and detailed rights-layer interpretation guidance, see `doc_architecture.md` section 19.
+> For non-operative orientation and detailed rights-layer interpretation guidance, see [archive/ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md](archive/ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md) and [doc_architecture.md](doc_architecture.md) **section 5** (routing indexes).
 >
 > Chapter Ten reader map (organizational; non-substantive; matches **Part** headings below in **reading order**):
 > - **Part A — Planetary preconditions, material stewardship, survival and educational access, shared resources:**

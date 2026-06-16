@@ -7,7 +7,7 @@
 
 **Corpus (binding scope):** The numbered `core_*` Sentient Constitution files and valid incorporated companion implementation text are the **Corpus** as defined in [Chapter Five *Corpus*](../core_05-05_definitions_c_dependent_clusters.md#corpus). This implementation file is **not** part of that corpus unless an adopting instrument expressly incorporates it.
 
-**Custody:** Record here the repository branch, publication channel, or custodian identity that holds the authoritative edition of the numbered Sentient Constitution `core_*.md` files, [corpus_joint_structure.md](../corpus_joint_structure.md), and [corpus_systems.md](../corpus_systems.md), consistent with [doc_architecture.md](../doc_architecture.md) section 17 (*Corpus document control*).
+**Custody:** Record here the repository branch, publication channel, or custodian identity that holds the authoritative edition of the numbered Sentient Constitution `core_*.md` files, [corpus_joint_structure.md](../corpus_joint_structure.md), and [corpus_systems.md](../corpus_systems.md), consistent with [README.md](../README.md) and [Chapter Five *Corpus*](../core_05-05_definitions_c_dependent_clusters.md#corpus).
 
 **Instrument of adoption:** When an adopter completes deliberate adoption, attach or reference the **instrument of adoption**.
 Examples include joining by additional parties (with recorded assent), treaty or compact ratification, resolution, federated registry entry, or equivalent.
@@ -30,7 +30,7 @@ This framework helps adopters map **2026 real-world conditions** (institutions, 
 | Adoption, supremacy, external law, amendments | [core_12-14_amendment.md](../core_12-14_amendment.md) — **Chapters Twelve and Thirteen**; [core_15-15_incorporation.md](../core_15-15_incorporation.md) — **Chapter Fifteen** |
 | Crisis / subversion / reconstitution (when transition intersects compromise) | [corpus_systems.md](../corpus_systems.md) — **Protocol R**; cross-jurisdiction / anti-evasion — **Protocol C**, subsection **8** |
 
-National-law-specific schedules, filing steps, and polity-specific ballots **belong in this implementation layer** (or adopter annexes), not in Sentient Constitution / CJS / CS — see architecture map checklist 9 closure note in [doc_architecture.md](../doc_architecture.md) section 14.
+National-law-specific schedules, filing steps, and polity-specific ballots **belong in this implementation layer** (or adopter annexes), not in Sentient Constitution / CJS / CS — see [archive/ARCHITECTURE_WORKLIST_ARCHIVED_2026-05-08.md](../archive/ARCHITECTURE_WORKLIST_ARCHIVED_2026-05-08.md).
 
 ---
 
@@ -43,7 +43,7 @@ The corpus defines **rights floors**, **classification-scaled obligations**, **a
 - **Elections, sortition, or federated ratification** infrastructure (credentials, ballots, dispute rules) once chosen as the legitimacy mechanism
 - **Taxation, incorporation, securities listing**, and analogous licensing
 
-Full editorial treatment: [doc_architecture.md](../doc_architecture.md) section 18 (*Constitutional-political embedding boundary*).
+Full editorial treatment: [archive/ARCHITECTURE_ADOPTION_APPENDIX_ARCHIVED_2026-05-08.md](../archive/ARCHITECTURE_ADOPTION_APPENDIX_ARCHIVED_2026-05-08.md) **section 18** (*Constitutional-political embedding boundary*).
 
 ---
 

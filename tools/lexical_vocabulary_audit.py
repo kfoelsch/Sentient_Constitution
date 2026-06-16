@@ -554,8 +554,6 @@ def main() -> int:
 
     root = pathlib.Path(args.root).resolve()
     scope = args.scope or binding_corpus_scope(root, include_support_docs=True)
-    if args.scope is None and (root / "architecture_primer.md").is_file():
-        scope.append("architecture_primer.md")
 
     findings: list[Finding] = []
     for rel_path in scope:

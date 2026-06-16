@@ -11,11 +11,11 @@
 >
 > **Edition and alignment**
 > - These labels track the same edition metadata as the numbered `core_*.md` files (see [README.md](../README.md)), [corpus_institutions.md](../corpus_institutions.md), [corpus_forum.md](../corpus_forum.md), and [corpus_joint_structure.md](../corpus_joint_structure.md).
-> - Canonical mapping: [doc_architecture.md](../doc_architecture.md) **section 17**.
+> - Edition and custody: [README.md](../README.md) and [Chapter Five *Corpus*](../core_05-05_definitions_c_dependent_clusters.md#corpus).
 >
 > **Status**
 > - This is **not** a core constitutional file. It is binding incorporated implementation text where [Chapter Five](../core_05-05_definitions_c_dependent_clusters.md#corpus) and [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) designate it.
-> - Prefer the filename **`corpus_systems.md`** in cross-references; the bare phrase *Constitutional Systems* is not used in corpus body text (see [doc_architecture.md](../doc_architecture.md) — Plain-Language Vocabulary Guardrails, Ambiguous implementation labels).
+> - Prefer the filename **`corpus_systems.md`** in cross-references; the bare phrase *Constitutional Systems* is not used in corpus body text (see [tools/architecture/lexical_guardrails.json](../tools/architecture/lexical_guardrails.json)).
 > - The CS folder is written in plain language with low jargon to improve accessibility, audit readability, and practical adoption testing.
 >
 > **Where this lives**

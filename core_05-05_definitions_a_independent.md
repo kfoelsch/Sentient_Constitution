@@ -77,6 +77,7 @@ This directory lists **Definitions A-Z** and **Clusters A-Z** separately. Each v
 - [Collective Harm Boundary](core_05-05_definitions_c_dependent_clusters.md#collective-harm-boundary)
 - [Collective Organization](core_05-05_definitions_b_semi_independent.md#collective-organization-constitutional)
 - [Combatant / Non-Combatant Distinction](core_05-05_definitions_c_dependent_clusters.md#combatant-non-combatant-distinction-constitutional)
+- [Competency Gate](core_05-05_definitions_c_dependent_clusters.md#competency-gate)
 - [Concentration Threshold](core_05-05_definitions_b_semi_independent.md#concentration-threshold-constitutional)
 - [Consent](core_05-05_definitions_b_semi_independent.md#consent-constitutional)
 - [Consent, Sexual](core_05-05_definitions_b_semi_independent.md#consent-sexual)
@@ -140,8 +141,8 @@ This directory lists **Definitions A-Z** and **Clusters A-Z** separately. Each v
 - [Innovation Reward and Anti-Enclosure](#innovation-reward-and-anti-enclosure)
 - [Instantiation Consent](core_05-05_definitions_b_semi_independent.md#instantiation-consent-constitutional)
 - [Intergenerational Responsibility](core_05-05_definitions_b_semi_independent.md#intergenerational-responsibility-constitutional)
-- [Irreversible Harm](core_05-05_definitions_c_dependent_clusters.md#irreversible-harm)
 - [Irreversible Deprivation Measure](core_05-05_definitions_c_dependent_clusters.md#irreversible-deprivation-measure-constitutional)
+- [Irreversible Harm](core_05-05_definitions_c_dependent_clusters.md#irreversible-harm)
 - [Language, Culture, and Heritage](core_05-05_definitions_b_semi_independent.md#language-culture-and-heritage-constitutional)
 - [Leisure and Rest](core_05-05_definitions_c_dependent_clusters.md#leisure-and-rest-constitutional)
 - [Lifespan Equivalent Unit (LEQU)](#lifespan-equivalent-unit-lequ)
@@ -167,6 +168,7 @@ This directory lists **Definitions A-Z** and **Clusters A-Z** separately. Each v
 - [Parent-System Relationship](core_05-05_definitions_b_semi_independent.md#parent-system-relationship-constitutional)
 - [Participant Standing](core_05-05_definitions_c_dependent_clusters.md#participant-standing-constitutional)
 - [Press and Journalistic Activity](#press-and-journalistic-activity-constitutional)
+- [Primary-Stakes Routing](core_05-05_definitions_c_dependent_clusters.md#primary-stakes-routing)
 - [Privacy (Informational)](core_05-05_definitions_c_dependent_clusters.md#privacy-informational)
 - [Procedural Fairness](core_05-05_definitions_b_semi_independent.md#procedural-fairness-constitutional)
 - [Productive Capacity](core_05-05_definitions_b_semi_independent.md#productive-capacity-constitutional)
@@ -1220,6 +1222,8 @@ Independent Definitions must not fragment, isolate, or redistribute compliance i
 - C: Non-compliant: illusory or pressured consent framed as voluntary discontinuation; conflating this entry with [Irreversible Deprivation Measure](core_05-05_definitions_c_dependent_clusters.md#irreversible-deprivation-measure-constitutional), third-party termination, or Article XXIII-B prohibited measures; relabelling an involuntary outcome as voluntary to route around Article VII-E.
 
 <a id="wellbeing"></a>
+
+---
 
 #### Wellbeing
 

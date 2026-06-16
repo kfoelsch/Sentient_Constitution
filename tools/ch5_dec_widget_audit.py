@@ -1,6 +1,8 @@
 #!/usr/bin/env python3
 """Chapter Five anchor-presence and D/E/C widget row-shape integrity audit.
 
+Rule: NAV-DEC-12 in tools/architecture/rule_registry.json.
+
 This audit supersedes the one-off ``tools/verify_dec_anchors.py`` check by
 running as a blocking regression gate alongside the other ``make regression``
 audits. It enforces two invariants:

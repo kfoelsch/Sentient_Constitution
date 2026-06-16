@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Audit in-paragraph Markdown links against doc_architecture.md rule 14.
+"""Audit in-paragraph Markdown links against LINK-IN-PARA-01 (rule_registry.json).
 
 Default (blocking) mode enforces:
   - no Markdown links on ``See`` routing lines;
