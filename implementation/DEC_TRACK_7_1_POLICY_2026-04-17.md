@@ -37,13 +37,13 @@ The decision turns on whether the instrument's own stated values are compatible 
 
 ### 3.1 Against the instrument's reversibility discipline
 
-- **Chapter One §6.1.1 — Proportionality, Necessity, and Reversibility-under-Uncertainty.** Where irreversible harm is in play, the instrument requires proceeding only under demonstrated reversibility and containment proportionate to `Irreversible Harm` risk.
+- **Chapter One §7.1.1 — Proportionality, Necessity, and Reversibility-under-Uncertainty.** Where irreversible harm is in play, the instrument requires proceeding only under demonstrated reversibility and containment proportionate to `Irreversible Harm` risk.
 - **Chapter Five — Reversibility.** The `C` bullet states: "*Proceeding without feasible Reversibility or containment where Chapter One, applicable rights, or Classification-Scaled Governance obligations require it is non-compliant, particularly where Irreversible Harm or Cascading Failure is reasonably in play.*"
 - **Chapter Five — Redress and Remediation.** The `O` bullet requires "acknowledgment, correction pathways, and proportionate remedies for material Harm, rights-affecting failures, or Trustworthiness-degrading behavior." Deprivation of life forecloses every one of those by definition.
 
 The sanction is the paradigm irreversible harm. No adjudicative mechanism — however carefully designed — can satisfy `Reversibility` or `Redress and Remediation` once the sanction has been carried out. Option (b) tries to reach the reversibility floor through pre-execution procedural bars (independent review, rehabilitation-path exhaustion, narrow Chapter Eight slot gate). This is a **procedural** answer to a **substantive** reversibility problem: the sanction remains irreversible in substance no matter how many review layers precede it.
 
-### 3.2 Against Chapter One §8 (Prohibition on Absolute Override)
+### 3.2 Against Chapter One §9 (Prohibition on Absolute Override)
 
 - **§8 prohibits any absolute override of the instrument's floor protections.** The current XXII-B (*Capital punishment*) bullet structurally functions as such an override — it authorizes an irreversible deprivation of the survival floor (Article III-A) and the Chapter Ten rights-floor stack in its entirety, on a "final Tier 2 or Tier 3 classification with joint requirements" threshold.
 - Option (b) reduces the frequency of the override but does not resolve the categorical tension: a rarely-triggered absolute override is still an absolute override.
@@ -96,7 +96,7 @@ This recommendation **revises** the 2026-04-16 memo's default recommendation of 
 
 If the user directs option (b) or (c) instead of (a), the rest of this memo's implementation scope adapts as follows:
 
-- **(b) Tightened carve-out.** Article XXIV-B is edited rather than replaced; the carve-out requirements are hardened (see §5.2 variant). Chapter Five *Irreversible Sanction* is created with the same `O / E / C` shape but its `C` bullet reads "non-compliant except under Article XXIV-B as tightened" rather than "non-compliant without exception." Back-fill pointers into Tracks 2.3 / 6.1 / 6.2 are still pointer-only.
+- **(b) Tightened carve-out.** Article XXIV-B is edited rather than replaced; the carve-out requirements are hardened (see §6.2 variant). Chapter Five *Irreversible Sanction* is created with the same `O / E / C` shape but its `C` bullet reads "non-compliant except under Article XXIV-B as tightened" rather than "non-compliant without exception." Back-fill pointers into Tracks 2.3 / 6.1 / 6.2 are still pointer-only.
 - **(c) Phased abolition.** New Article XXV-E transition clause lands alongside XXII-B/XXII-C closure. *Irreversible Sanction* `C` bullet reads "non-compliant except under the Article XXV-E phased transition as limited." The rest of the back-fill and architecture-map work is unchanged.
 
 The default below assumes option (a).
@@ -219,7 +219,7 @@ Three seeds land in `CONSTITUTIONAL_REGRESSION_SCENARIOS.md` under the existing 
 - [x] Doctrinal analysis per axis (reversibility, absolute override, justice objective, dignity, non-entrenchment, non-regression frame correction) (section 3).
 - [x] Policy recommendation stated: **(a) Categorical Abolition**, with backstop instructions for (b) and (c) (sections 3.7 / 3.8).
 - [x] What Track 7.1 changes and does not change enumerated (section 4).
-- [x] Article XXIV-B and Article XXIV-C target shapes described (section 5.1 / 5.2).
+- [x] Article XXIV-B and Article XXIV-C target shapes described (section 6.1 / 5.2).
 - [x] *Irreversible Sanction* Ch 5 entry target shape described (section 5.3).
 - [x] Back-fill pointer-only edit list enumerated (section 5.5).
 - [x] Regression seeds enumerated (section 5.6).

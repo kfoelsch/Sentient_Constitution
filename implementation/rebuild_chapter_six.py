@@ -28,8 +28,8 @@ def main():
     # --- Preamble: lines 1-47, update chapter Trace reading order (line 37-38 area)
     preamble = lines_slice(lines, 1, 47)
     preamble = preamble.replace(
-        "- Subsections (reading order): [§1](#1-purpose-and-role); [§1.1](#11-two-axis-overview-reference); [§1.2](#12-shared-domain-lenses-cross-axis-vocabulary); [§2](#2-axis-i-contribution-state-and-standing-effect); [§2.0](#20-scope-contribution-state-and-standing-effect); [§2.1](#21-baseline-contribution)–[§2.7](#27-standing-integration-contribution-and-violation-nature); [§2.8](#28-stackable-benefit-and-stewardship-descriptors-axis-i-supplement); [§3](#3-axis-ii-violation-nature-legal-constitutional-type); [§3.1](#31-formal-non-compliance)–[§3.12](#312-negligence-and-neglect-as-violation-nature); [§3.13](#313-non-exclusive-harm-and-conduct-descriptors); [§4](#4-cross-axis-coupling-and-escalation-constraints); [§5](#5-additive-and-non-substitution-rule); [§6](#6-enforcement-realism-anchors); [§7](#7-tiered-anti-constitutional-misconduct-authoritative-location).",
-        "- Subsections (reading order): [§1](#1-purpose-and-role); [§1.1](#11-chapter-layout-and-reading-order); [§2](#2-standing-forums-and-verified-inputs) (*standing inputs and integration*); [§3](#3-axis-i-contribution-state); [§4](#4-axis-ii-violation-nature); [§5](#5-shared-domain-lenses-cross-axis-vocabulary); [§6](#6-cross-axis-coupling-and-escalation-constraints); [§7](#7-additive-and-non-substitution-rule); [§8](#8-enforcement-realism-anchors); [§9](#9-tiered-anti-constitutional-misconduct-authoritative-location).",
+        "- Subsections (reading order): [§1](#2-purpose-and-role); [§1.1](#11-two-axis-overview-reference); [§1.2](#12-shared-domain-lenses-cross-axis-vocabulary); [§2](#2-axis-i-contribution-state-and-standing-effect); [§2.0](#20-scope-contribution-state-and-standing-effect); [§2.1](#21-baseline-contribution)–[§2.7](#27-standing-integration-contribution-and-violation-nature); [§2.8](#28-stackable-benefit-and-stewardship-descriptors-axis-i-supplement); [§3](#3-axis-ii-violation-nature-legal-constitutional-type); [§3.1](#31-formal-non-compliance)–[§3.12](#312-negligence-and-neglect-as-violation-nature); [§3.13](#313-non-exclusive-harm-and-conduct-descriptors); [§4](#4-cross-axis-coupling-and-escalation-constraints); [§5](#5-additive-and-non-substitution-rule); [§6](#6-enforcement-realism-anchors); [§7](#7-tiered-anti-constitutional-misconduct-authoritative-location).",
+        "- Subsections (reading order): [§1](#2-purpose-and-role); [§1.1](#11-chapter-layout-and-reading-order); [§2](#2-standing-forums-and-verified-inputs) (*standing inputs and integration*); [§3](#3-axis-i-contribution-state); [§4](#4-axis-ii-violation-nature); [§5](#5-shared-domain-lenses-cross-axis-vocabulary); [§6](#6-cross-axis-coupling-and-escalation-constraints); [§7](#7-additive-and-non-substitution-rule); [§8](#8-enforcement-realism-anchors); [§9](#9-tiered-anti-constitutional-misconduct-authoritative-location).",
     )
 
     # Reader guidance block: update constitutional owner bullets (lines 17-26) — replace long paragraph
@@ -45,8 +45,8 @@ def main():
         "> - **Domain lens table (non-operative gloss):** **Section 5** pairs thematic **§3.7** prosocial labels with **§4.13** harm-route descriptors (and **primary typing** where that section states it). **Remedial and restorative benefit** (**§3.7**) is **cross-lens** — it may **stack** with any table row and is **not** its own domain row — and in the adverse column **read with** **§4.5** when civil remedy or restoration obligation is the **dominant** framing (reader illustration in the **§5** table; operative detail in the **remedial and restorative** bullet in **§3.7**).",
     )
     preamble = preamble.replace(
-        "> - **Principle foundation (non-operative gloss):** [Chapter One §5.2 — Stewardship and Distributed Understanding](core_00-01_principles.md#52-stewardship-and-distributed-understanding) states the *why* for **standing** that ties trust-, role-, and recognition-eligibility to **distributed competence** and **consequential stewardship** under audit and contestability — not to opaque prestige or symbolic participation alone. Operative integration lives in **section 1** and **section 2** of this chapter.",
-        "> - **Principle foundation (non-operative gloss):** [Chapter One §5.2 — Stewardship and Distributed Understanding](core_00-01_principles.md#52-stewardship-and-distributed-understanding) states the *why* for **standing** that ties trust-, role-, and recognition-eligibility to **distributed competence** and **consequential stewardship** under audit and contestability — not to opaque prestige or symbolic participation alone. Operative integration lives in **section 2** of this chapter (**standing effect** and **verified inputs for standing**).",
+        "> - **Principle foundation (non-operative gloss):** [Chapter One §6.2 — Stewardship and Distributed Understanding](core_00-01_principles.md#62-stewardship-and-distributed-understanding) states the *why* for **standing** that ties trust-, role-, and recognition-eligibility to **distributed competence** and **consequential stewardship** under audit and contestability — not to opaque prestige or symbolic participation alone. Operative integration lives in **section 1** and **section 2** of this chapter.",
+        "> - **Principle foundation (non-operative gloss):** [Chapter One §6.2 — Stewardship and Distributed Understanding](core_00-01_principles.md#62-stewardship-and-distributed-understanding) states the *why* for **standing** that ties trust-, role-, and recognition-eligibility to **distributed competence** and **consequential stewardship** under audit and contestability — not to opaque prestige or symbolic participation alone. Operative integration lives in **section 2** of this chapter (**standing effect** and **verified inputs for standing**).",
     )
     preamble = preamble.replace(
         "**Standing effect** in this chapter applies only to **verified** standing inputs — **demonstrable** **contribution state** and **verified violation findings** — as stated in **section 1** (**verified inputs for standing**). **Forums** under",
@@ -90,7 +90,7 @@ def main():
     <details>
     <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-    - Upstream: [§1](#1-purpose-and-role) (*purpose and constitutional-meaning-only scope*).
+    - Upstream: [§1](#2-purpose-and-role) (*purpose and constitutional-meaning-only scope*).
     - Downstream: [§2](#2-standing-forums-and-verified-inputs) (*verified inputs, standing effect, integration*); [§3](#3-axis-i-contribution-state) (*Contribution Axis — contribution state*); [§4](#4-axis-ii-violation-nature) (*Violation Axis — violation nature*); [§5](#5-shared-domain-lenses-cross-axis-vocabulary) (*non-operative domain lens table — read after §§3–4*); [§3.7](#37-stackable-benefit-and-stewardship-descriptors-axis-i-supplement) and [§4.13](#413-non-exclusive-harm-and-conduct-descriptors) (*stackable supplemental descriptors*); [§6](#6-cross-axis-coupling-and-escalation-constraints) (*joint assessment*); [§9](#9-axis-ii-grand-anti-constitutional-misconduct-authoritative-location) (*pointer to Chapter Seven for final Violation Axis s = 7, 8, or 9 classification*).
     - Read with: [Chapter Eight](core_08-08_misconduct.md#chapter-seven-axis-ii-grand-anti-constitutional-misconduct) (*authoritative Violation Axis s = 7, 8, or 9 home*).
 
@@ -166,7 +166,7 @@ def main():
     <details>
     <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-    - Upstream: [§1](#1-purpose-and-role) (*two-axis frame*); [Chapter One §5.2 — Stewardship and Distributed Understanding](core_00-01_principles.md#52-stewardship-and-distributed-understanding); [Chapters Two through Four](core_02-04_definition_mechanics.md); [Chapter Five](core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions).
+    - Upstream: [§1](#2-purpose-and-role) (*two-axis frame*); [Chapter One §6.2 — Stewardship and Distributed Understanding](core_00-01_principles.md#62-stewardship-and-distributed-understanding); [Chapters Two through Four](core_02-04_definition_mechanics.md); [Chapter Five](core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions).
     - Downstream: [§3](#3-axis-i-contribution-state) (*contribution state on the **Contribution Axis***); [§4](#4-axis-ii-violation-nature) (*violation nature on the **Violation Axis***); [§6](#6-cross-axis-coupling-and-escalation-constraints) (*joint assessment*).
     - Read with: [Chapter Ten](core_09-09_forum.md#chapter-nine-forums-and-jurisdiction) (*forums separate from standing calculus*); [Article XII-B](core_10-10_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress).
 
@@ -238,7 +238,7 @@ def main():
         "Downstream: [§3.0](#30-scope-contribution-state-axis-i) (*Contribution Axis scope*); [§3.1](#31-baseline-contribution) through [§3.6](#36-reinstatement-review-and-non-entrenchment) (*bands and recognition mechanics*); [§3.7](#37-stackable-benefit-and-stewardship-descriptors-axis-i-supplement) (*supplemental descriptors*); [§4](#4-axis-ii-violation-nature) (*violation nature*); [§6](#6-cross-axis-coupling-and-escalation-constraints)",
     )
     s3_head = s3_head.replace("[§1.2](#12-shared-domain-lenses-cross-axis-vocabulary)", "[§5](#5-shared-domain-lenses-cross-axis-vocabulary)")
-    s3_head = s3_head.replace("[§1](#1-purpose-and-role)", "[§2](#2-standing-forums-and-verified-inputs)")
+    s3_head = s3_head.replace("[§1](#2-purpose-and-role)", "[§2](#2-standing-forums-and-verified-inputs)")
     s3_head = s3_head.replace("[§1.1](#11-two-axis-overview-reference)", "[§1.1](#11-chapter-layout-and-reading-order)")
 
     s3_01 = lines_slice(lines, 181, 209)
@@ -348,8 +348,8 @@ def main():
     s5 = lines_slice(lines, 126, 151)
     s5 = s5.replace("### 1.2 Shared domain lenses", "### 5. Shared domain lenses (cross-axis vocabulary)")
     s5 = s5.replace(
-        "- Upstream: [§1](#1-purpose-and-role) (*purpose and two-axis frame*); [§1.1](#11-two-axis-overview-reference) (*how **sections 2** and **3** fit*).",
-        "- Upstream: [§1](#1-purpose-and-role) (*purpose and two-axis frame*); [§1.1](#11-chapter-layout-and-reading-order) (*reading order*); [§3](#3-axis-i-contribution-state)–[§4](#4-axis-ii-violation-nature) (*primary typing*).",
+        "- Upstream: [§1](#2-purpose-and-role) (*purpose and two-axis frame*); [§1.1](#11-two-axis-overview-reference) (*how **sections 2** and **3** fit*).",
+        "- Upstream: [§1](#2-purpose-and-role) (*purpose and two-axis frame*); [§1.1](#11-chapter-layout-and-reading-order) (*reading order*); [§3](#3-axis-i-contribution-state)–[§4](#4-axis-ii-violation-nature) (*primary typing*).",
     )
     s5 = s5.replace(
         "- Downstream: [§2.8](#28-stackable-benefit-and-stewardship-descriptors-axis-i-supplement) (*Contribution Axis prosocial supplements named in this table*); [§3.13](#313-non-exclusive-harm-and-conduct-descriptors) (*Violation Axis adverse supplements named in this table*); [§4](#4-cross-axis-coupling-and-escalation-constraints) (*joint assessment — no netting*).",
@@ -362,7 +362,7 @@ def main():
     )
     s5 = s5.replace("[§2.8](#28-stackable-benefit-and-stewardship-descriptors-axis-i-supplement)", "[§3.7](#37-stackable-benefit-and-stewardship-descriptors-axis-i-supplement)")
     s5 = s5.replace("[§3.13](#313-non-exclusive-harm-and-conduct-descriptors)", "[§4.13](#413-non-exclusive-harm-and-conduct-descriptors)")
-    s5 = s5.replace("**§§2.2–2.4**", "**§§3.2–3.4**")
+    s5 = s5.replace("**§§3.2–2.4**", "**§§3.2–3.4**")
     s5 = s5.replace("[§3.12](#312-negligence-and-neglect-as-violation-nature)", "[§4.12](#412-negligence-and-neglect-as-violation-nature)")
     s5 = s5.replace("<a id=\"12-shared-domain-lenses-cross-axis-vocabulary\"></a>", "<a id=\"5-shared-domain-lenses-cross-axis-vocabulary\"></a>\n<a id=\"12-shared-domain-lenses-cross-axis-vocabulary\"></a>")
 

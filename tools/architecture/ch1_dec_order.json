@@ -1,5 +1,12 @@
 {
-  "#### 3.1 Safety (Harm Constraint)": [
+  "### 1. Constitutional Interpretation": [
+    "Corpus",
+    "Authority Stack and Internal Hierarchy",
+    "Supremacy and Enforceability",
+    "Proportionality",
+    "Necessity"
+  ],
+  "#### 4.1 Safety (Harm Constraint)": [
     "Safety (Constraint)",
     "Harm",
     "Irreversible Harm",
@@ -8,7 +15,7 @@
     "Dependency",
     "Foreseeability"
   ],
-  "#### 5.1 Shared-System Capacity": [
+  "#### 6.1 Shared-System Capacity": [
     "Productive Capacity",
     "Constitutional Efficiency",
     "Wellbeing",
@@ -24,7 +31,7 @@
     "Intergenerational Responsibility",
     "Concentration Threshold"
   ],
-  "#### 5.2 Stewardship and Distributed Understanding": [
+  "#### 6.2 Stewardship and Distributed Understanding": [
     "Strategic Stewardship Obligation",
     "Meaningful Agency",
     "Auditability",
@@ -41,12 +48,12 @@
     "Avoidable Burden",
     "Epistemic Integrity"
   ],
-  "##### 5.2.1 Stewardship": [
+  "##### 6.2.1 Stewardship": [
     "Strategic Stewardship Obligation",
     "Meaningful Agency",
     "Auditability"
   ],
-  "##### 5.2.2 Distributed Understanding": [
+  "##### 6.2.2 Distributed Understanding": [
     "Transparency",
     "Materiality",
     "Dependency",
@@ -54,7 +61,7 @@
     "Meaningful Agency",
     "Contestability"
   ],
-  "### 8. Freedom (Bounded Agency)": [
+  "### 9. Freedom (Bounded Agency)": [
     "Freedom (Bounded Agency)",
     "Meaningful Agency",
     "Consent",
@@ -69,7 +76,7 @@
     "Harm Minimization (Tradeoff Selection)",
     "Dependency"
   ],
-  "##### 6.4.1 Rights-Collision Decision Test": [
+  "##### 7.4.1 Rights-Collision Decision Test": [
     "Necessity",
     "Proportionality",
     "Feasibility",
@@ -79,7 +86,7 @@
     "Proxy Divergence",
     "Avoidable Burden"
   ],
-  "#### 7.1 Required Evaluation Factors": [
+  "#### 8.1 Required Evaluation Factors": [
     "Dependency",
     "Materiality",
     "Foreseeability",
@@ -92,7 +99,7 @@
     "Existential Risk",
     "Incentive Alignment"
   ],
-  "##### 7.2.2 Stewardship and Operator Incentive Alignment": [
+  "##### 8.2.2 Stewardship and Operator Incentive Alignment": [
     "Incentive Alignment",
     "Productive Capacity",
     "Constitutional Efficiency",
@@ -103,7 +110,7 @@
     "Truth (Constitutional Constraint)",
     "System Capture"
   ],
-  "### 10. Interpretive Role": [
+  "### 11. Integrated Application": [
     "Corpus",
     "Authority Stack and Internal Hierarchy",
     "Supremacy and Enforceability",

@@ -188,7 +188,7 @@ Assessment:
 - Primary: Safety (Constraint); Truth (Constitutional Constraint); Epistemic Integrity.
 - Supporting: Risk; Materiality; Dependency; Foreseeability.
 - Evidence: Auditability; Chapter Four proof.
-- Collision: Classification-Scaled Governance and section 6.2 disclosure constraints govern how rigor, access, safety-sensitive limits, and review scale.
+- Collision: Classification-Scaled Governance and section 7.2 disclosure constraints govern how rigor, access, safety-sensitive limits, and review scale.
 - Boundary: Science-informed inquiry supports Safety and Truth; it is not a third non-negotiable constraint or an exclusive method for every decision.
 
 Drafting implication:
@@ -546,7 +546,7 @@ Drafting implication:
 
 This section is properly light. It should not become a duplicate of section 6.
 
-### 10. Interpretive Role
+### 11. Integrated Application
 
 Current core attachments:
 
@@ -658,9 +658,9 @@ Recommended clarification:
 ## Most Promising Immediate Edits
 
 1. In section 5, add or foreground Freedom (Bounded Agency) as a primary definition alongside Meaningful Agency.
-2. In section 5.1, sort Productive Capacity's definition list into instrumental-good, collision, evidence, and boundary terms.
-3. In section 5.2, split the large definition map into understanding, stewardship, evidence, and boundary groups.
-4. In section 6.4, decide whether Avoidable Burden belongs as a supporting rights-collision term.
+2. In section 6.1, sort Productive Capacity's definition list into instrumental-good, collision, evidence, and boundary terms.
+3. In section 6.2, split the large definition map into understanding, stewardship, evidence, and boundary groups.
+4. In section 7.4, decide whether Avoidable Burden belongs as a supporting rights-collision term.
 5. In section 7.1, test whether Systemic, System Boundaries, Cascading Failure, and Residual Risk / Misalignment should be included.
 6. In section 9, consider shifting emphasis from anti-capture definitions toward interpretive mechanics and authority-stack definitions.
 

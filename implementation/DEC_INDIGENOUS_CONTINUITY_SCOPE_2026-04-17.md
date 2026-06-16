@@ -186,7 +186,7 @@ One seed lands in `CONSTITUTIONAL_REGRESSION_SCENARIOS.md`:
 | Q | Question | Recommendation |
 |---|---|---|
 | Q-10.2.B.1 (resolved) | Scope: (a) / (b) / (c) / (d) | **(b) Chapter Five entry only.** Narrowest scope materially improving on status quo; respects category-contest / territorial-adjudication / adopter-jurisdiction discipline. |
-| Q-10.2.B.2 | Should the Chapter Five entry add an *Upstream* principle-layer link (e.g., to Chapter One §2 *Wellbeing* or §6.1.1 *Reversibility-under-uncertainty*)? | **No.** The entry is a rights-layer concept rooted in Article V-B and Article I-A; no principle-layer upstream is appropriate at this stage. Could be revisited if future regression surfaces a principle-layer connection. |
+| Q-10.2.B.2 | Should the Chapter Five entry add an *Upstream* principle-layer link (e.g., to Chapter One §3 *Wellbeing* or §6.1.1 *Reversibility-under-uncertainty*)? | **No.** The entry is a rights-layer concept rooted in Article V-B and Article I-A; no principle-layer upstream is appropriate at this stage. Could be revisited if future regression surfaces a principle-layer connection. |
 | Q-10.2.B.3 | Should a second seed (RS-CH1-CULT-004) cover the "substrate-agnostic extension to synthetic-sentient communities with continuity interests" edge case? | **No in this pass.** The entry's substrate-agnostic policy is established by *Sentience Non-Exclusion* cross-reference and does not require a dedicated seed at landing. Add if adopter regression surfaces the edge case. |
 
 ---

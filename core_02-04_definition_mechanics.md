@@ -165,7 +165,7 @@ If an interpretation would weaken safeguards, shrink what must be evaluated, or 
 
 - Upstream: Principles: [Chapter Two, section 2 — Definition Structure Requirement](#2-definition-structure-requirement); [Chapter Two, 2.4 Definition Integrity Requirement](#24-definition-integrity-requirement).
 - Downstream: [Chapter Three, section 2 — Non-Compliance from Observable System Behavior](#2-non-compliance-from-observable-system-behavior); [Chapter Four, section 2 — Compliance Evidence Standard](#2-compliance-evidence-standard); [Chapter Four, section 3 — Definition Traceability Requirement](#3-definition-traceability-requirement); [Chapter Six — Contribution, Violation, and Standing Model](core_06-06_standing_assessment.md#chapter-six-compliance-violation-and-standing-model).
-- Read with: [Chapter One, section 3.2 — Truth (Epistemic Integrity Constraint)](core_00-01_principles.md#32-truth-epistemic-integrity-constraint) — interpretation based on observable behavior rather than declared structure or intent operationalizes the constitutional truth constraint at the definition-integrity layer.
+- Read with: [Chapter One, section 4.2 — Truth (Epistemic Integrity Constraint)](core_00-01_principles.md#42-truth-epistemic-integrity-constraint) — interpretation based on observable behavior rather than declared structure or intent operationalizes the constitutional truth constraint at the definition-integrity layer.
 
 </details>
 
@@ -340,7 +340,7 @@ All evaluation standards referenced elsewhere in this chapter are enforced exclu
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: Principles: [Chapter Four, section 1 — Exclusive Enforcement and Burden Allocation](#1-exclusive-enforcement-and-burden-allocation); [Chapter Two, section 2 — Definition Structure Requirement](#2-definition-structure-requirement); [Chapter Two, 2.4 Definition Integrity Requirement](#24-definition-integrity-requirement).
-- Downstream: [2.4 Disqualifying evidence; uncertainty; default rule](#24-disqualifying-evidence-uncertainty-default-rule); [Chapter Four, section 3 — Definition Traceability Requirement](#3-definition-traceability-requirement); [Chapter Four, section 4 — Observability of Traceability Requirement](#4-observability-of-traceability-requirement); [Chapter Four, section 6 — Verification Accessibility and Feasibility Constraint](#6-verification-accessibility-and-feasibility-constraint).
+- Downstream: [2.4 Disqualifying evidence; uncertainty; default rule](#24-disqualifying-evidence-uncertainty-default-rule); [Chapter Four, section 3 — Definition Traceability Requirement](#3-definition-traceability-requirement); [Chapter Four, section 4 — Observability of Traceability Requirement](#4-observability-of-traceability-requirement); [Chapter Four, section 7 — Verification Accessibility and Feasibility Constraint](#6-verification-accessibility-and-feasibility-constraint).
 - Read with: [Chapter Five, section 3 — Dependent clusters (Truth and Epistemic Integrity; Foreseeability Diligence)](core_05-05_definitions_c_dependent_clusters.md#foreseeability-diligence) — foreseeable conditions include adversarial, strategic, scaled, repeated, and misuse contexts where relevant.
 
 </details>
@@ -379,7 +379,7 @@ Verification of evidence must satisfy each of the following, jointly and without
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: Principles: [Chapter Four, section 1 — Exclusive Enforcement and Burden Allocation](#1-exclusive-enforcement-and-burden-allocation); [2.1 Verification requirements for evidence](#21-verification-requirements-for-evidence); [Chapter Two, 2.4 Definition Integrity Requirement](#24-definition-integrity-requirement); [Chapter Three, section 1 — Definition Integrity and Anti-Evasion Constraints](#1-definition-integrity-and-anti-evasion-constraints).
-- Downstream: [2.4 Disqualifying evidence; uncertainty; default rule](#24-disqualifying-evidence-uncertainty-default-rule); [Chapter Four, section 5 — Security-Constrained Observability and Verification Rule](#5-security-constrained-observability-and-verification-rule); [5.1 Cryptographic protection, credentials, and verification](#51-cryptographic-protection-credentials-and-verification-constitutional-layer); [Chapter Six — Contribution, Violation, and Standing Model](core_06-06_standing_assessment.md#chapter-six-compliance-violation-and-standing-model).
+- Downstream: [2.4 Disqualifying evidence; uncertainty; default rule](#24-disqualifying-evidence-uncertainty-default-rule); [Chapter Four, section 6 — Security-Constrained Observability and Verification Rule](#5-security-constrained-observability-and-verification-rule); [5.1 Cryptographic protection, credentials, and verification](#51-cryptographic-protection-credentials-and-verification-constitutional-layer); [Chapter Six — Contribution, Violation, and Standing Model](core_06-06_standing_assessment.md#chapter-six-compliance-violation-and-standing-model).
 - Read with: [Chapter Four, 3.1 Chapter Five definitions and tracing integrity](#31-interdependent-definitions-and-tracing-integrity) — invalidation here tracks the tracing-integrity rule that failure to invoke or correctly apply any materially required **Chapter Five** definition invalidates the associated evaluation, evidence, and compliance determination in full.
 
 </details>
@@ -406,8 +406,8 @@ Where uncertainty prevents definitive demonstration of compliance for materially
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: [2.1 Verification requirements for evidence](#21-verification-requirements-for-evidence); [Chapter One, section 3.1 — Safety (Harm Constraint)](core_00-01_principles.md#31-safety-harm-constraint); [Chapter One, section 3.2 — Truth (Epistemic Integrity Constraint)](core_00-01_principles.md#32-truth-epistemic-integrity-constraint); [Chapter One, section 3.3 — Science-Informed Inquiry and Decision Support](core_00-01_principles.md#33-science-informed-inquiry-and-decision-support); [Chapter One, section 6.2 — Epistemic Disclosure Constraints](core_00-01_principles.md#62-epistemic-disclosure-constraints).
-- Downstream: [Chapter Four, section 3 — Definition Traceability Requirement](#3-definition-traceability-requirement); [Chapter Four, section 6 — Verification Accessibility and Feasibility Constraint](#6-verification-accessibility-and-feasibility-constraint).
+- Upstream: Principles: [2.1 Verification requirements for evidence](#21-verification-requirements-for-evidence); [Chapter One, section 4.1 — Safety (Harm Constraint)](core_00-01_principles.md#41-safety-harm-constraint); [Chapter One, section 4.2 — Truth (Epistemic Integrity Constraint)](core_00-01_principles.md#42-truth-epistemic-integrity-constraint); [Chapter One, section 4.3 — Science-Informed Inquiry and Decision Support](core_00-01_principles.md#43-science-informed-inquiry-and-decision-support); [Chapter One, section 7.2 — Epistemic Disclosure Constraints](core_00-01_principles.md#72-epistemic-disclosure-constraints).
+- Downstream: [Chapter Four, section 3 — Definition Traceability Requirement](#3-definition-traceability-requirement); [Chapter Four, section 7 — Verification Accessibility and Feasibility Constraint](#6-verification-accessibility-and-feasibility-constraint).
 - Read with: [Chapter Five Safety (Constraint)](core_05-05_definitions_a_independent.md#safety-constraint), [Chapter Five Truth (Constitutional Constraint)](core_05-05_definitions_c_dependent_clusters.md#truth-constitutional-constraint), and [Chapter Five Epistemic Integrity](core_05-05_definitions_c_dependent_clusters.md#epistemic-integrity) — this section operationalizes those constraints at the evidence layer.
 
 </details>
@@ -456,7 +456,7 @@ Traceability must be:
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: Principles: [Chapter Four, section 3 — Definition Traceability Requirement](#3-definition-traceability-requirement); [Chapter Four, section 2 — Compliance Evidence Standard](#2-compliance-evidence-standard).
-- Downstream: [Chapter Four, section 5 — Security-Constrained Observability and Verification Rule](#5-security-constrained-observability-and-verification-rule); [Chapter Four, section 6 — Verification Accessibility and Feasibility Constraint](#6-verification-accessibility-and-feasibility-constraint).
+- Downstream: [Chapter Four, section 6 — Security-Constrained Observability and Verification Rule](#5-security-constrained-observability-and-verification-rule); [Chapter Four, section 7 — Verification Accessibility and Feasibility Constraint](#6-verification-accessibility-and-feasibility-constraint).
 - Read with: [Chapter Five Clustered Definitions (Foreseeability Diligence)](core_05-05_definitions_c_dependent_clusters.md#foreseeability-diligence) — design-driven opacity must be evaluated against reasonably foreseeable conditions, not best-case operation.
 
 </details>
@@ -475,8 +475,8 @@ Systems must not rely on components or dependencies that prevent satisfaction of
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: [Chapter Four, section 4 — Observability of Traceability Requirement](#4-observability-of-traceability-requirement); [Chapter One, section 6.2 — Epistemic Disclosure Constraints](core_00-01_principles.md#62-epistemic-disclosure-constraints).
-- Downstream: [5.1 Cryptographic protection, credentials, and verification](#51-cryptographic-protection-credentials-and-verification-constitutional-layer); [Chapter Four, section 6 — Verification Accessibility and Feasibility Constraint](#6-verification-accessibility-and-feasibility-constraint).
+- Upstream: Principles: [Chapter Four, section 4 — Observability of Traceability Requirement](#4-observability-of-traceability-requirement); [Chapter One, section 7.2 — Epistemic Disclosure Constraints](core_00-01_principles.md#72-epistemic-disclosure-constraints).
+- Downstream: [5.1 Cryptographic protection, credentials, and verification](#51-cryptographic-protection-credentials-and-verification-constitutional-layer); [Chapter Four, section 7 — Verification Accessibility and Feasibility Constraint](#6-verification-accessibility-and-feasibility-constraint).
 - Read with: [Chapter Five Clustered Definitions (Foreseeability Diligence)](core_05-05_definitions_c_dependent_clusters.md#foreseeability-diligence) — design choices that predictably prevent verification under reasonably foreseeable conditions are non-compliant regardless of stated security rationale.
 
 </details>
@@ -510,7 +510,7 @@ Restrictions that prevent meaningful independent validation of materially releva
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: [Chapter Four, section 5 — Security-Constrained Observability and Verification Rule](#5-security-constrained-observability-and-verification-rule); [Chapter One, section 3.1 — Safety (Harm Constraint)](core_00-01_principles.md#31-safety-harm-constraint); [Chapter One, section 3.2 — Truth (Epistemic Integrity Constraint)](core_00-01_principles.md#32-truth-epistemic-integrity-constraint).
+- Upstream: Principles: [Chapter Four, section 6 — Security-Constrained Observability and Verification Rule](#5-security-constrained-observability-and-verification-rule); [Chapter One, section 4.1 — Safety (Harm Constraint)](core_00-01_principles.md#41-safety-harm-constraint); [Chapter One, section 4.2 — Truth (Epistemic Integrity Constraint)](core_00-01_principles.md#42-truth-epistemic-integrity-constraint).
 - Downstream: Implementation-layer choices live in `corpus_systems.md`, incorporated implementation protocols, and adopter technical baselines; this subsection states constitutional outcomes only. Cross-reads: Article VII-A (Self-Ownership), Article VII-B (Internal-State Boundary and Type-N Protection), Article XV-A, and Article XVI-A where environment-separation constraints are material.
 - Read with: [Chapter Five Truth (Constitutional Constraint)](core_05-05_definitions_c_dependent_clusters.md#truth-constitutional-constraint) and [Chapter Five Safety (Constraint)](core_05-05_definitions_a_independent.md#safety-constraint) — cryptographic controls must stay consistent with both and must not be invoked to replace sections 3 through 6 of this chapter.
 
@@ -526,7 +526,7 @@ Restrictions that prevent meaningful independent validation of materially releva
 
 <br>
 
-**Cryptography** (encryption, signing, **key** management, **credential** and **token** protection) serves **confidentiality**, **integrity**, **authenticity**, and **misuse resistance**. Those services must stay consistent with [Truth (Constitutional Constraint)](core_05-05_definitions_c_dependent_clusters.md#truth-constitutional-constraint) and [Safety (Constraint)](core_05-05_definitions_a_independent.md#safety-constraint), and with **Articles VII-A and VII-B** (*Self-Ownership*; *Internal-State Boundary and Type-N Protection*). They must also stay consistent with **Chapter One**, section 6.2 (*Epistemic Disclosure Constraints*) where applicable.
+**Cryptography** (encryption, signing, **key** management, **credential** and **token** protection) serves **confidentiality**, **integrity**, **authenticity**, and **misuse resistance**. Those services must stay consistent with [Truth (Constitutional Constraint)](core_05-05_definitions_c_dependent_clusters.md#truth-constitutional-constraint) and [Safety (Constraint)](core_05-05_definitions_a_independent.md#safety-constraint), and with **Articles VII-A and VII-B** (*Self-Ownership*; *Internal-State Boundary and Type-N Protection*). They must also stay consistent with **Chapter One**, section 7.2 (*Epistemic Disclosure Constraints*) where applicable.
 
 **Operational** choices—algorithms, key lengths, rotation cadences, HSM use, and protocol suites—are specified in **corpus_systems.md**, incorporated implementation protocols, and adopters’ technical baselines.
 
@@ -541,7 +541,7 @@ This subsection states **constitutional outcomes**, not cipher catalogs.
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: Principles: [Chapter Four, section 2 — Compliance Evidence Standard](#2-compliance-evidence-standard); [Chapter Four, section 3 — Definition Traceability Requirement](#3-definition-traceability-requirement); [Chapter Four, section 4 — Observability of Traceability Requirement](#4-observability-of-traceability-requirement).
-- Downstream: [Chapter Four, section 5 — Security-Constrained Observability and Verification Rule](#5-security-constrained-observability-and-verification-rule) governs any constraints imposed for security, safety, or operational reasons; [5.1](#51-cryptographic-protection-credentials-and-verification-constitutional-layer) governs cryptographic controls.
+- Downstream: [Chapter Four, section 6 — Security-Constrained Observability and Verification Rule](#5-security-constrained-observability-and-verification-rule) governs any constraints imposed for security, safety, or operational reasons; [5.1](#51-cryptographic-protection-credentials-and-verification-constitutional-layer) governs cryptographic controls.
 - Read with: [Chapter Five Clustered Definitions (Foreseeability Diligence)](core_05-05_definitions_c_dependent_clusters.md#foreseeability-diligence) — theoretical verifiability that is not practically achievable under reasonably foreseeable conditions is non-compliant.
 
 </details>
@@ -560,11 +560,11 @@ Systems must not rely on theoretical verifiability where practical verification 
 
 Where verification is technically possible but not practically achievable, compliance claims must be treated as non-compliant. Any constraints on verification imposed for security, safety, or operational reasons must comply with **section 5** of this chapter (Security-Constrained Observability and Verification Rule). They must comply with **5.1** (*Cryptographic protection, credentials, and verification*) where cryptographic controls apply. Such constraints must **not** reduce verification below a level sufficient to maintain epistemic integrity and independent validation.
 
-**Plain-language accessibility cross-reference.** The **principle-layer plain-language accessibility stewardship duty** stated at [Chapter One §3.4](core_00-01_principles.md#34-plain-language-accessibility-stewardship-duty) operates at the engagement layer (governance, adjudicative, and operational text that sentients must engage to exercise rights, participate in governance, contest decisions, or verify compliance). It does **not** narrow this chapter, Chapter Two, or Chapter Three definition mechanics.
+**Plain-language accessibility cross-reference.** The **principle-layer plain-language accessibility stewardship duty** stated at [Chapter One §4.4](core_00-01_principles.md#44-plain-language-accessibility-stewardship-duty) operates at the engagement layer (governance, adjudicative, and operational text that sentients must engage to exercise rights, participate in governance, contest decisions, or verify compliance). It does **not** narrow this chapter, Chapter Two, or Chapter Three definition mechanics.
 
 If engagement-layer plain language appears to conflict with a Chapter Five Ontological (O), Evaluative (E), or Compliance (C) component, with a definitional gloss, or with the traceability, observability, or verification discipline stated in this chapter, **the definition-layer and verification-layer discipline governs**. Engagement-layer drafting must be adjusted to align with those rules. The adjustment must **not** soften definitional rigor or verification sufficiency.
 
-Jargon, stacked complexity, or opacity used to defeat [Contestability](core_05-05_definitions_b_semi_independent.md#contestability), independent verification under **section 6** of this chapter, or [Article XV: Audit, Transparency, and Independent Verification](core_10-10_rights_part_c.md#article-xv-audit-transparency-and-independent-verification) access is non-compliant under both this chapter and **Chapter One §3.4**.
+Jargon, stacked complexity, or opacity used to defeat [Contestability](core_05-05_definitions_b_semi_independent.md#contestability), independent verification under **section 6** of this chapter, or [Article XV: Audit, Transparency, and Independent Verification](core_10-10_rights_part_c.md#article-xv-audit-transparency-and-independent-verification) access is non-compliant under both this chapter and **Chapter One §4.4**.
 
 ### 7. Contribution and Standing Alignment Pointer
 This chapter does not define the operative constitutional model for:

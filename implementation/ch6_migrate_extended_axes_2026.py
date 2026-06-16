@@ -103,7 +103,7 @@ def main() -> None:
         "<details>\n"
         '<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>\n\n'
         "- Upstream: [§4](#4-axis-ii-violation-nature-legal-constitutional-type) (*scope and ladder — **§§4.0–4.4***); "
-        "[§5](#5-extended-axis-i-standing-hooks-and-supplements) (*paired **E-row** — **§§5.1–5.4***); "
+        "[§5](#5-extended-axis-i-standing-hooks-and-supplements) (*paired **E-row** — **§§6.1–5.4***); "
         "[§1.1](#11-two-axis-overview-reference).\n"
         "- Downstream: [§7](#7-shared-domain-lenses-cross-axis-vocabulary) (*non-operative lens table*); "
         "[§8](#8-cross-axis-coupling-and-escalation-constraints) (*§§8.1–8.2*); "
@@ -188,8 +188,8 @@ def main() -> None:
 
     # --- Explicit markdown link display renumbering (anchors unchanged) ---
     link_fixes = [
-        ("[§3.5](#35-positive-standing-recognition)", "[§5.1](#35-positive-standing-recognition)"),
-        ("[§3.6](#36-restrictive-standing-effects)", "[§5.2](#36-restrictive-standing-effects)"),
+        ("[§3.5](#35-positive-standing-recognition)", "[§6.1](#35-positive-standing-recognition)"),
+        ("[§3.6](#36-restrictive-standing-effects)", "[§6.2](#36-restrictive-standing-effects)"),
         ("[§3.7](#37-reinstatement-review-and-non-entrenchment)", "[§5.3](#37-reinstatement-review-and-non-entrenchment)"),
         ("[§3.8](#38-standing-integration-category-hook)", "[§5.4](#38-standing-integration-category-hook)"),
         ("[§3.9](#39-stackable-benefit-and-stewardship-descriptors-axis-i-supplement)", "[§5.5](#39-stackable-benefit-and-stewardship-descriptors-axis-i-supplement)"),
@@ -225,11 +225,11 @@ def main() -> None:
     # Range links in §1.1 table
     new_body = new_body.replace(
         "| E–1 | [§3.5](#35-positive-standing-recognition) Positive standing recognition | [§4.5](#45-civil-violation) Civil violation · [§4.6](#46-criminal-violation) Criminal violation · [§4.7](#47-constitutional-violation) Constitutional violation |",
-        "| E–1 | [§5.1](#35-positive-standing-recognition) Positive standing recognition | [§6.1](#45-civil-violation) Civil violation · [§6.2](#46-criminal-violation) Criminal violation · [§6.3](#47-constitutional-violation) Constitutional violation |",
+        "| E–1 | [§6.1](#35-positive-standing-recognition) Positive standing recognition | [§6.1](#45-civil-violation) Civil violation · [§6.2](#46-criminal-violation) Criminal violation · [§6.3](#47-constitutional-violation) Constitutional violation |",
     )
     new_body = new_body.replace(
         "| E–2 | [§3.6](#36-restrictive-standing-effects) Restrictive standing effects | [§4.8](#48-concurrent-and-hybrid-violations) Concurrent and hybrid violations · [§4.9](#49-constitutional-floor-rule) Constitutional floor rule |",
-        "| E–2 | [§5.2](#36-restrictive-standing-effects) Restrictive standing effects | [§6.4](#48-concurrent-and-hybrid-violations) Concurrent and hybrid violations · [§6.5](#49-constitutional-floor-rule) Constitutional floor rule |",
+        "| E–2 | [§6.2](#36-restrictive-standing-effects) Restrictive standing effects | [§6.4](#48-concurrent-and-hybrid-violations) Concurrent and hybrid violations · [§6.5](#49-constitutional-floor-rule) Constitutional floor rule |",
     )
     new_body = new_body.replace(
         "| E–3 | [§3.7](#37-reinstatement-review-and-non-entrenchment) Reinstatement, review, and non-entrenchment | [§4.10](#410-collective-accountability-and-acquiescent-participation) Collective accountability and acquiescent participation |",

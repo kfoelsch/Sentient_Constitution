@@ -154,8 +154,8 @@ For a non-operative reading walkthrough of **Chapters Eleven through Fourteen** 
 
 - Upstream: [Chapter Twelve](core_12-14_amendment.md#chapter-twelve-non-regression-and-substantive-amendment-validity) non-regression and Test 1; [Authority Stack and Internal Hierarchy](core_05-05_definitions_c_dependent_clusters.md#authority-stack), [Supremacy and Enforceability](core_05-05_definitions_c_dependent_clusters.md#supremacy-and-enforceability), and related [Corpus](core_05-05_definitions_c_dependent_clusters.md#corpus) boundary concepts.
 - Subsections: [§1](#1-additive-expansion-permitted)–[§2](#2-continuity-of-supremacy-and-challenge-rights-during-amendment); [§3](#3-supremacy-relative-to-other-binding-norms)–[§4](#4-disputes-involving-external-legal-orders).
-- Downstream: [Chapter Fourteen](core_12-14_amendment.md#chapter-fourteen-amendment-ratification-and-procedural-validity) adoption and supremacy continuity during amendment; [Article XXIII-A](core_10-10_rights_part_d.md) review pathways preserved against external process gaps; [Chapter Eight, section 6.2 — *Rights-Floor waivers and unconstitutional contract terms*](core_08-08_misconduct.md#62-rights-floor-waivers-and-unconstitutional-contract-terms) where external-order interfaces implicate waiver or pseudo-contract devices.
-- Read with: **[corpus_systems.md](corpus_systems.md)** and **Protocol C** references in operative text on cross-jurisdiction execution; [Chapter Six, section 9 — *Enforcement Realism Anchors*](core_07-07_standing_integration.md#10-enforcement-realism-anchors) where cited in §3.3; [Corpus, Authority Stack, Supremacy, and Enforceability](core_05-05_definitions_c_dependent_clusters.md#corpus-authority-stack-supremacy-and-enforceability-cluster) (*Chapter Five §3.4 cluster — read with [Corpus](core_05-05_definitions_c_dependent_clusters.md#corpus) for custody and adoption*).
+- Downstream: [Chapter Fourteen](core_12-14_amendment.md#chapter-fourteen-amendment-ratification-and-procedural-validity) adoption and supremacy continuity during amendment; [Article XXIII-A](core_10-10_rights_part_d.md) review pathways preserved against external process gaps; [Chapter Eight, section 7.2 — *Rights-Floor waivers and unconstitutional contract terms*](core_08-08_misconduct.md#62-rights-floor-waivers-and-unconstitutional-contract-terms) where external-order interfaces implicate waiver or pseudo-contract devices.
+- Read with: **[corpus_systems.md](corpus_systems.md)** and **Protocol C** references in operative text on cross-jurisdiction execution; [Chapter Six, section 10 — *Enforcement Realism Anchors*](core_07-07_standing_integration.md#10-enforcement-realism-anchors) where cited in §3.3; [Corpus, Authority Stack, Supremacy, and Enforceability](core_05-05_definitions_c_dependent_clusters.md#corpus-authority-stack-supremacy-and-enforceability-cluster) (*Chapter Five §3.4 cluster — read with [Corpus](core_05-05_definitions_c_dependent_clusters.md#corpus) for custody and adoption*).
 
 </details>
 
@@ -232,7 +232,7 @@ For adopting entities, this Constitution and its integrated definitions govern i
 
 - Upstream: [§3.1](#31-internal-hierarchy-for-adopters) internal hierarchy baseline.
 - Downstream: [§3.3](#33-conflict-disclosure-and-mitigation) when stricter external and constitutional requirements appear to collide.
-- Read with: [Chapter One §3](core_00-01_principles.md#3-non-negotiable-constraints-safety-and-truth) Safety and Truth as non-negotiable ceilings on how far "stricter" external law can be pushed in interpretation.
+- Read with: [Chapter One §4](core_00-01_principles.md#4-non-negotiable-constraints-safety-and-truth) Safety and Truth as non-negotiable ceilings on how far "stricter" external law can be pushed in interpretation.
 
 </details>
 
@@ -247,7 +247,7 @@ Where valid external law, regulation, or treaty obligation applicable to the ado
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [§3.1](#31-internal-hierarchy-for-adopters)–[§3.2](#32-stricter-external-protections) hierarchy and stricter-external rule.
-- Downstream: [§4](#4-disputes-involving-external-legal-orders) cooperation and preserved internal pathways; **Protocol C** and [Chapter Six, section 9 — *Enforcement Realism Anchors*](core_07-07_standing_integration.md#10-enforcement-realism-anchors) as cited in operative bullets.
+- Downstream: [§4](#4-disputes-involving-external-legal-orders) cooperation and preserved internal pathways; **Protocol C** and [Chapter Six, section 10 — *Enforcement Realism Anchors*](core_07-07_standing_integration.md#10-enforcement-realism-anchors) as cited in operative bullets.
 - Read with: **[corpus_systems.md](corpus_systems.md)** cross-jurisdiction and anti-evasion controls referenced in operative text.
 
 </details>
@@ -262,7 +262,7 @@ Where external requirements appear irreconcilable with constitutional Rights Flo
 - pursue feasible harmonization and least-harm sequencing.
 - **not** treat external norms as a pretext for selective compliance, forum shopping, reincorporation arbitrage, or evasion of Rights-Floor obligations.
 
-Cross-jurisdiction coordination and anti-evasion execution follow **[corpus_systems.md](corpus_systems.md)**, **Protocol C — Justice Safeguards, Restitution, and Rehabilitation Implementation**. That Protocol includes Cross-Jurisdiction Execution and Anti-Evasion Controls. Execution also follows [Chapter Six, section 9 — *Enforcement Realism Anchors*](core_07-07_standing_integration.md#10-enforcement-realism-anchors), where applicable.
+Cross-jurisdiction coordination and anti-evasion execution follow **[corpus_systems.md](corpus_systems.md)**, **Protocol C — Justice Safeguards, Restitution, and Rehabilitation Implementation**. That Protocol includes Cross-Jurisdiction Execution and Anti-Evasion Controls. Execution also follows [Chapter Six, section 10 — *Enforcement Realism Anchors*](core_07-07_standing_integration.md#10-enforcement-realism-anchors), where applicable.
 
 ### 4. Disputes Involving External Legal Orders
 <details>
@@ -301,7 +301,7 @@ Adopters must cooperate in good faith with competent external tribunals and regu
 
 - Upstream: [§4.1](#41-good-faith-cooperation) cooperation duty.
 - Downstream: [Chapter Fourteen](core_12-14_amendment.md#chapter-fourteen-amendment-ratification-and-procedural-validity) procedural validity for waivers tied to adoption instruments.
-- Read with: [Article XXIII-A](core_10-10_rights_part_d.md) review and appeal safeguards referenced in operative text; [Chapter Eight, section 6.2 — *Rights-Floor waivers and unconstitutional contract terms*](core_08-08_misconduct.md#62-rights-floor-waivers-and-unconstitutional-contract-terms).
+- Read with: [Article XXIII-A](core_10-10_rights_part_d.md) review and appeal safeguards referenced in operative text; [Chapter Eight, section 7.2 — *Rights-Floor waivers and unconstitutional contract terms*](core_08-08_misconduct.md#62-rights-floor-waivers-and-unconstitutional-contract-terms).
 
 </details>
 
@@ -309,7 +309,7 @@ Adopters must cooperate in good faith with competent external tribunals and regu
 
 *In plain terms: if an outside process cannot deliver timely, real protection, the constitution's own review and appeal routes stay open — boilerplate waivers demanded just to use a product or service do not erase those rights where the chapter applies.*
 
-Constitutional interpretation, appeal, and review pathways under **Article XXIII-A** remain available where external processes do not provide substitute protection within reasonable time and scope. Waivers of challenge rights, standing, or audit rights demanded as a condition of ordinary commercial convenience alone are **anti-constitutional misconduct** within the scope of [Chapter Eight, section 6.2 — *Rights-Floor waivers and unconstitutional contract terms*](core_08-08_misconduct.md#62-rights-floor-waivers-and-unconstitutional-contract-terms), and are **never binding** where applicable. The same **non-binding** discipline applies to agreement terms that purport to waive Rights-Floor protections or to override binding constitutional obligations, as stated in that section.
+Constitutional interpretation, appeal, and review pathways under **Article XXIII-A** remain available where external processes do not provide substitute protection within reasonable time and scope. Waivers of challenge rights, standing, or audit rights demanded as a condition of ordinary commercial convenience alone are **anti-constitutional misconduct** within the scope of [Chapter Eight, section 7.2 — *Rights-Floor waivers and unconstitutional contract terms*](core_08-08_misconduct.md#62-rights-floor-waivers-and-unconstitutional-contract-terms), and are **never binding** where applicable. The same **non-binding** discipline applies to agreement terms that purport to waive Rights-Floor protections or to override binding constitutional obligations, as stated in that section.
 
 ---
 

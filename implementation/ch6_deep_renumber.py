@@ -49,7 +49,7 @@ def main() -> None:
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [§1](#1-purpose-and-role) (*two-axis frame*).
+- Upstream: [§1](#2-purpose-and-role) (*two-axis frame*).
 - Downstream: [§3](#3-axis-i-contribution-state-and-standing-effect) (*Axis I*); [§4](#4-axis-ii-violation-nature-legal-constitutional-type) (*Axis II*); [§6](#6-cross-axis-coupling-and-escalation-constraints) (*joint assessment*).
 - Read with: [Chapter Nine](core_09-09_forum.md#chapter-nine-forums-and-jurisdiction) (*forums separate*).
 
@@ -222,8 +222,8 @@ def main() -> None:
         "(*non-operative lens table — after **§§3–4***)",
     )
     text = text.replace(
-        "Subsections (reading order): [§1](#1-purpose-and-role); [§1.1](#11-two-axis-overview-reference); [§3](#3-axis-i-contribution-state-and-standing-effect);",
-        "Subsections (reading order): [§1](#1-purpose-and-role); [§1.1](#11-two-axis-overview-reference); [§2](#2-standing-effect-verified-inputs-forums); [§3](#3-axis-i-contribution-state-and-standing-effect);",
+        "Subsections (reading order): [§1](#2-purpose-and-role); [§1.1](#11-two-axis-overview-reference); [§3](#3-axis-i-contribution-state-and-standing-effect);",
+        "Subsections (reading order): [§1](#2-purpose-and-role); [§1.1](#11-two-axis-overview-reference); [§2](#2-standing-effect-verified-inputs-forums); [§3](#3-axis-i-contribution-state-and-standing-effect);",
     )
 
     # Constitutional owner block (single long line) — replace key phrases

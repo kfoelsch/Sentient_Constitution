@@ -50,7 +50,7 @@ Adopted governance implementation provides escalation, proportionality of interv
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [3.1 Safety](core_00-01_principles.md#31-safety-harm-constraint), [6.4 Rights-Collision Procedure](core_00-01_principles.md#64-rights-collision-procedure), and [10. Interpretive Role](core_00-01_principles.md#10-interpretive-role).
+- Upstream: Principles: Chapter One [4.1 Safety](core_00-01_principles.md#41-safety-harm-constraint), [7.4 Rights-Collision Procedure](core_00-01_principles.md#74-rights-collision-procedure), and [11. Integrated Application](core_00-01_principles.md#11-integrated-application).
 
 </details>
 
@@ -78,7 +78,7 @@ Adopted governance implementation provides escalation, proportionality of interv
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [3.1 Safety](core_00-01_principles.md#31-safety-harm-constraint), [6.1 Core Tradeoff Principles](core_00-01_principles.md#61-core-tradeoff-principles), and [6.4 Rights-Collision Procedure](core_00-01_principles.md#64-rights-collision-procedure).
+- Upstream: Principles: Chapter One [4.1 Safety](core_00-01_principles.md#41-safety-harm-constraint), [7.1 Core Tradeoff Principles](core_00-01_principles.md#71-core-tradeoff-principles), and [7.4 Rights-Collision Procedure](core_00-01_principles.md#74-rights-collision-procedure).
 
 </details>
 
@@ -136,7 +136,7 @@ Adopted governance implementation provides escalation, proportionality of interv
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [6.1 Core Tradeoff Principles](core_00-01_principles.md#61-core-tradeoff-principles), [6.4 Rights-Collision Procedure](core_00-01_principles.md#64-rights-collision-procedure), and [9. Prohibition on Absolute Override](core_00-01_principles.md#9-prohibition-on-absolute-override).
+- Upstream: Principles: Chapter One [7.1 Core Tradeoff Principles](core_00-01_principles.md#71-core-tradeoff-principles), [7.4 Rights-Collision Procedure](core_00-01_principles.md#74-rights-collision-procedure), and [10. Prohibition on Absolute Override](core_00-01_principles.md#10-prohibition-on-absolute-override).
 
 </details>
 
@@ -189,7 +189,7 @@ Adopted governance implementation provides escalation, proportionality of interv
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [3.1 Safety](core_00-01_principles.md#31-safety-harm-constraint), [6.1 Core Tradeoff Principles](core_00-01_principles.md#61-core-tradeoff-principles), and [6.4 Rights-Collision Procedure](core_00-01_principles.md#64-rights-collision-procedure).
+- Upstream: Principles: Chapter One [4.1 Safety](core_00-01_principles.md#41-safety-harm-constraint), [7.1 Core Tradeoff Principles](core_00-01_principles.md#71-core-tradeoff-principles), and [7.4 Rights-Collision Procedure](core_00-01_principles.md#74-rights-collision-procedure).
 
 </details>
 
@@ -235,7 +235,7 @@ Adopted governance implementation provides escalation, proportionality of interv
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [3.2 Truth](core_00-01_principles.md#32-truth-epistemic-integrity-constraint), [6.2 Epistemic Disclosure Constraints](core_00-01_principles.md#62-epistemic-disclosure-constraints), and [10. Interpretive Role](core_00-01_principles.md#10-interpretive-role).
+- Upstream: Principles: Chapter One [4.2 Truth](core_00-01_principles.md#42-truth-epistemic-integrity-constraint), [7.2 Epistemic Disclosure Constraints](core_00-01_principles.md#72-epistemic-disclosure-constraints), and [11. Integrated Application](core_00-01_principles.md#11-integrated-application).
 
 </details>
 
@@ -270,7 +270,7 @@ Adopted governance implementation provides escalation, proportionality of interv
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [6.4 Rights-Collision Procedure](core_00-01_principles.md#64-rights-collision-procedure), [9. Prohibition on Absolute Override](core_00-01_principles.md#9-prohibition-on-absolute-override), and [10. Interpretive Role](core_00-01_principles.md#10-interpretive-role).
+- Upstream: Principles: Chapter One [7.4 Rights-Collision Procedure](core_00-01_principles.md#74-rights-collision-procedure), [10. Prohibition on Absolute Override](core_00-01_principles.md#10-prohibition-on-absolute-override), and [11. Integrated Application](core_00-01_principles.md#11-integrated-application).
 
 </details>
 
@@ -287,7 +287,7 @@ Adopted governance implementation provides escalation, proportionality of interv
 
 *In plain terms: rights conflicts must be resolved on the record; restoration is preferred where appropriate but must not replace real protection; and public apology must always be voluntary and non-degrading.*
 
-- **Rights-collision procedure:** Where rights conflicts are material, forums and governing bodies must apply **Chapter One §6.4.1** (*Rights-Collision Decision Test*).
+- **Rights-collision procedure:** Where rights conflicts are material, forums and governing bodies must apply **Chapter One §7.4.1** (*Rights-Collision Decision Test*).
   - Records must explicitly identify:
     - rights in tension;
     - rejected alternatives;
@@ -323,7 +323,7 @@ Inertia, convenience, and historical precedent alone cannot entrench arrangement
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [2. Foundational Objective: Wellbeing](core_00-01_principles.md#2-foundational-objective-wellbeing), [7.1 Required Evaluation Factors](core_00-01_principles.md#71-required-evaluation-factors), and [9. Prohibition on Absolute Override](core_00-01_principles.md#9-prohibition-on-absolute-override).
+- Upstream: Principles: Chapter One [3. Foundational Objective: Wellbeing](core_00-01_principles.md#3-foundational-objective-wellbeing), [8.1 Required Evaluation Factors](core_00-01_principles.md#81-required-evaluation-factors), and [10. Prohibition on Absolute Override](core_00-01_principles.md#10-prohibition-on-absolute-override).
 
 </details>
 
@@ -352,7 +352,7 @@ Inertia, convenience, and historical precedent alone cannot entrench arrangement
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [3.2 Truth](core_00-01_principles.md#32-truth-epistemic-integrity-constraint), [7.1 Required Evaluation Factors](core_00-01_principles.md#71-required-evaluation-factors), and [9. Prohibition on Absolute Override](core_00-01_principles.md#9-prohibition-on-absolute-override).
+- Upstream: Principles: Chapter One [4.2 Truth](core_00-01_principles.md#42-truth-epistemic-integrity-constraint), [8.1 Required Evaluation Factors](core_00-01_principles.md#81-required-evaluation-factors), and [10. Prohibition on Absolute Override](core_00-01_principles.md#10-prohibition-on-absolute-override).
 
 </details>
 
@@ -397,7 +397,7 @@ Transitional governance exists to secure continuity and non-regression. It must 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [3.1 Safety](core_00-01_principles.md#31-safety-harm-constraint), [6.1 Core Tradeoff Principles](core_00-01_principles.md#61-core-tradeoff-principles), and [7.1 Required Evaluation Factors](core_00-01_principles.md#71-required-evaluation-factors).
+- Upstream: Principles: Chapter One [4.1 Safety](core_00-01_principles.md#41-safety-harm-constraint), [7.1 Core Tradeoff Principles](core_00-01_principles.md#71-core-tradeoff-principles), and [8.1 Required Evaluation Factors](core_00-01_principles.md#81-required-evaluation-factors).
 
 </details>
 
@@ -435,7 +435,7 @@ Transitional governance exists to secure continuity and non-regression. It must 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [3.1 Safety](core_00-01_principles.md#31-safety-harm-constraint), [6.1 Core Tradeoff Principles](core_00-01_principles.md#61-core-tradeoff-principles), and [9. Prohibition on Absolute Override](core_00-01_principles.md#9-prohibition-on-absolute-override).
+- Upstream: Principles: Chapter One [4.1 Safety](core_00-01_principles.md#41-safety-harm-constraint), [7.1 Core Tradeoff Principles](core_00-01_principles.md#71-core-tradeoff-principles), and [10. Prohibition on Absolute Override](core_00-01_principles.md#10-prohibition-on-absolute-override).
 
 </details>
 
@@ -467,7 +467,7 @@ Transitional governance exists to secure continuity and non-regression. It must 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [3.1 Safety](core_00-01_principles.md#31-safety-harm-constraint), [6.1 Core Tradeoff Principles](core_00-01_principles.md#61-core-tradeoff-principles), and [10. Interpretive Role](core_00-01_principles.md#10-interpretive-role).
+- Upstream: Principles: Chapter One [4.1 Safety](core_00-01_principles.md#41-safety-harm-constraint), [7.1 Core Tradeoff Principles](core_00-01_principles.md#71-core-tradeoff-principles), and [11. Integrated Application](core_00-01_principles.md#11-integrated-application).
 
 </details>
 
@@ -500,7 +500,7 @@ Transitional governance exists to secure continuity and non-regression. It must 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [3.1 Safety](core_00-01_principles.md#31-safety-harm-constraint), [6.4 Rights-Collision Procedure](core_00-01_principles.md#64-rights-collision-procedure), and [7.1 Required Evaluation Factors](core_00-01_principles.md#71-required-evaluation-factors).
+- Upstream: Principles: Chapter One [4.1 Safety](core_00-01_principles.md#41-safety-harm-constraint), [7.4 Rights-Collision Procedure](core_00-01_principles.md#74-rights-collision-procedure), and [8.1 Required Evaluation Factors](core_00-01_principles.md#81-required-evaluation-factors).
 
 </details>
 
@@ -561,7 +561,7 @@ Transitional governance exists to secure continuity and non-regression. It must 
   - meaningful agency.
 
   An exception applies only where:
-  - **Necessity** is documented under **Chapter One §6.4**;
+  - **Necessity** is documented under **Chapter One §7.4**;
   - **timely substitute provision** is feasible where required.
 - **Implementation custody:** The following belong in **`corpus_institutions.md` CI-14** (*Transitional governance and institutional evolution*) and adopting instruments, and must **not** narrow **Chapter Ten** or **Chapter Six** meaning:
   - triggers;

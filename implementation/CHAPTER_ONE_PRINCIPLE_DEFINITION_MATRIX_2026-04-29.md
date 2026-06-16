@@ -33,7 +33,7 @@ Actions:
 
 | Chapter One location | P | S | C | E | B | Action |
 | --- | --- | --- | --- | --- | --- | --- |
-| Interpretive Constraints | Authority Stack and Internal Hierarchy; Corpus; Supremacy and Enforceability | Chapter Two through Four mechanics | Proportionality; Necessity | Chapter Four burden and traceability | Chapter Ten non-contraction; integrated whole | Add/clarify: this opening already says most of this in prose, but the later §9 map should align with it. |
+| §1 Constitutional Interpretation | Authority Stack and Internal Hierarchy; Corpus; Supremacy and Enforceability | Chapter Two through Four mechanics | Proportionality; Necessity | Chapter Four burden and traceability | Chapter Ten non-contraction; integrated whole | Add/clarify: this opening already says most of this in prose, but the later §9 map should align with it. |
 | 1. Purpose and Role | None beyond mechanics | Chapter One integrated value layer | Proportionality; Necessity | Chapter Four traceability | Internal Hierarchy | Keep light. Do not expand into an index. |
 | 2. Wellbeing | Wellbeing | Dignity and Equal Moral Standing; Substantive Fairness | Safety; Truth; rights floor | Materiality | Proxy Divergence | Clarify: Wellbeing is the end; Productive Capacity and Constitutional Efficiency are instruments. |
 | 2.1 Fairness | Dignity and Equal Moral Standing; Procedural Fairness; Substantive Fairness | Protected Characteristics where rights floor is implicated | Proportionality for allocation disputes | Materiality where stakes vary | Chapter Ten owns operative equal-treatment floors | Keep. This is a model section. |
@@ -68,14 +68,14 @@ Actions:
 | 7.2 Incentive Alignment and System Capture | Incentive Alignment; System Capture | Accountability; Oversight; Meaningful Agency | Proportionality; Necessity | Proxy Divergence; Trust Degradation; Epistemic Integrity | Capture of Resolution Pathways in special contexts | Split: general incentive/capture doctrine from 7.2.5 market-specific terms. |
 | 7.2.5 Contingent Claims / Games / Event Markets | Contingent Claim; Game of Chance; Event-Contract Market | Capture of Resolution Pathways; Coercion and Manipulation; Contestability | Necessity; Proportionality | Truth; Dependency | Prices/odds not sufficient evidence for truth or compliance | Keep as special application. Do not let it reshape parent doctrine. |
 | 9. Prohibition on Absolute Override | Proportionality; Necessity | Harm Minimization | Proxy Divergence | Materiality | No value becomes a trump card | Keep light. Do not duplicate section 6. |
-| 10. Interpretive Role | Authority Stack and Internal Hierarchy; Corpus; Supremacy and Enforceability | Truth; Meaningful Agency; Governance | Proportionality; Necessity where ambiguity affects restrictions | Chapter Four burden/traceability | System Capture; Incentive Alignment; Accountability | Add/demote: foreground interpretive mechanics; move anti-capture terms to supporting/boundary role. |
+| 11. Integrated Application | Authority Stack and Internal Hierarchy; Corpus; Supremacy and Enforceability | Truth; Meaningful Agency; Governance | Proportionality; Necessity where ambiguity affects restrictions | Chapter Four burden/traceability | System Capture; Incentive Alignment; Accountability | Add/demote: foreground interpretive mechanics; move anti-capture terms to supporting/boundary role. |
 
 ## Concrete Edit Queue
 
 ### Batch 1: Low-risk normalization
 
 1. Section 5: add or foreground [Freedom (Bounded Agency)] as a primary definition.
-2. Section 9: align the definition list with Interpretive Constraints by foregrounding Authority Stack and Internal Hierarchy, Corpus, and Supremacy and Enforceability.
+2. Section 9: align the definition list with §1 Constitutional Interpretation by foregrounding Authority Stack and Internal Hierarchy, Corpus, and Supremacy and Enforceability.
 3. Section 3.1: foreground Safety (Constraint) as the named primary definition.
 
 Reason:
@@ -95,7 +95,7 @@ These edits make existing doctrine more explicit without changing substantive ru
    - Understanding: Educational Agency; Transparency; Meaningful Agency.
    - Evidence: Auditability; Observability; Materiality; Dependency.
    - Boundary/collision: Safety; Truth; Necessity; Proportionality; Avoidable Burden; Epistemic Integrity.
-3. Section 7.2 Incentive Alignment and System Capture:
+3. Section 8.2 Incentive Alignment and System Capture:
    - Parent doctrine: Incentive Alignment; System Capture.
    - Governance checks: Accountability; Oversight.
    - Failure modes: Proxy Divergence; Trust Degradation; Epistemic Integrity.
@@ -109,7 +109,7 @@ These sections are correct in substance but heavy in presentation. Grouping woul
 
 1. Should Avoidable Burden be added to the main §6.4 rights-collision definition list, or is the current pairing through §6.1.4 enough?
 2. Should §7.1 add Systemic, System Boundaries, System Boundary Integrity, Cascading Failure, and Residual Risk / Misalignment?
-3. Should §5.2.2 Distributed Understanding include Accessibility as a supporting definition, or should ability-profile access remain owned by §3.3 and Article V-G?
+3. Should §6.2.2 Distributed Understanding include Accessibility as a supporting definition, or should ability-profile access remain owned by §3.3 and Article V-G?
 4. Should §4 Trust include Trust Degradation and Misleading Reliance directly, or is it better left to failure-mode sections?
 
 Reason:

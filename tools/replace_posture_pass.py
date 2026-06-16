@@ -15,7 +15,7 @@ RULES: list[tuple[str, str, str, int]] = [
     ("**/*.md", r"#4-posture-limit-and-layer-discipline", "#4-scope-limit-and-layer-discipline", 0),
     ("**/*.md", r"#12-posture-limit-and-layer-discipline", "#12-scope-limit-and-layer-discipline", 0),
     ("**/*.md", r"#4-adoption-posture-and-scope-of-authority", "#4-adoption-framing-and-scope-of-authority", 0),
-    ("**/*.md", r"#722-stewardship-and-operator-incentive-posture", "#722-stewardship-and-operator-incentive-alignment", 0),
+    ("**/*.md", r"#722-stewardship-and-operator-incentive-posture", "#822-stewardship-and-operator-incentive-alignment", 0),
     ("**/*.md", r"#24-disqualifying-evidence-uncertainty-default-posture", "#24-disqualifying-evidence-uncertainty-default-rule", 0),
 ]
 

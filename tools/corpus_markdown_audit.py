@@ -264,13 +264,13 @@ def check_ch2_42_evansion_nesting(section_lines: list[str]) -> list[str]:
             break
     if cat_i is None:
         errors.append(
-            "Chapter Three §2.2: missing category line '- Representation and Proxy-Based Evasion'"
+            "Chapter Three §3.2: missing category line '- Representation and Proxy-Based Evasion'"
         )
         return errors
 
     children = collect_immediate_nested_bullets(section_lines, cat_i)
     if not children:
-        errors.append("Chapter Three §2.2: missing nested lines under Representation and Proxy-Based Evasion")
+        errors.append("Chapter Three §3.2: missing nested lines under Representation and Proxy-Based Evasion")
         return errors
     return errors
 
@@ -311,13 +311,13 @@ def main() -> int:
     )
     if s42 is None:
         findings.append(
-            "Could not slice Chapter Three §2.2 (missing heading or §2.3 boundary)"
+            "Could not slice Chapter Three §3.2 (missing heading or §2.3 boundary)"
         )
     else:
         findings.extend(check_ch2_42_evansion_nesting(s42.splitlines()))
 
     print("Corpus Markdown structure audit:")
-    print(f"- Definition-structure slice file: {args.file} (Ch 3 §2.2 + Ch 4 §3.2)")
+    print(f"- Definition-structure slice file: {args.file} (Ch 3 §3.2 + Ch 4 §3.2)")
     print(
         "- Horizontal-rule (---) blank-line targets: "
         + ", ".join(p.relative_to(root).as_posix() for p in thematic_paths)

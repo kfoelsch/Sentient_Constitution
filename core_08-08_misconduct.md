@@ -103,7 +103,7 @@ Section **6** does not create a second catalogue of independent offenses. It sta
 
 *In plain terms: evaluators first build one coherent picture of what happened: one episode, one sustained campaign, or another unified incident. They then ask how serious that incident is, using six checks: intent, records, rollback, real-world blockage, forcible takeover, and practical nullification of remedies. They may not split one scheme into artificial fragments to game the slot.*
 
-**Unified incident.** Evaluators must treat as **one incident** conduct that shares material **actors**, **objectives**, **temporal continuity**, **causal linkage**, or **unified design**. Artificial fragmentation of one pattern to manipulate anti-constitutional misconduct outcomes is prohibited. Where **section 6.3** and **section 6.4** overlap, assess on a **unified record** per **section 6.4**.
+**Unified incident.** Evaluators must treat as **one incident** conduct that shares material **actors**, **objectives**, **temporal continuity**, **causal linkage**, or **unified design**. Artificial fragmentation of one pattern to manipulate anti-constitutional misconduct outcomes is prohibited. Where **section 7.3** and **section 7.4** overlap, assess on a **unified record** per **section 7.4**.
 
 Criteria **1–4** commonly arise in **change**, **record**, and **validity** pathways. **Criteria 5** and **6** address forcible displacement of constitutional authority and practical nullification of constitutional process or remedies. Evaluators assess all materially implicated criteria together on the **unified incident** record:
 
@@ -221,9 +221,9 @@ The following subsections state criteria interactions and named pattern applicat
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [Chapter One §5.1.1](core_00-01_principles.md#511-productive-capacity-instrumental-good) (*Productive Capacity*); [Chapter One §5.1.3](core_00-01_principles.md#513-concentration-threshold-mechanism-adopter-tunable) (*Concentration Threshold Mechanism*); [Chapter One §5.1.4](core_00-01_principles.md#514-pro-competition-and-anti-domination) (*Pro-Competition and Anti-Domination*); [Chapter One §5.1.5](core_00-01_principles.md#515-consolidation-ceiling) (*Consolidation Ceiling*); [§2](#2-criteria-set-for-slot-assignment) (*Criteria set*).
+- Upstream: [Chapter One §6.1.1](core_00-01_principles.md#611-productive-capacity-instrumental-good) (*Productive Capacity*); [Chapter One §6.1.3](core_00-01_principles.md#613-concentration-threshold-mechanism-adopter-tunable) (*Concentration Threshold Mechanism*); [Chapter One §6.1.4](core_00-01_principles.md#614-pro-competition-and-anti-domination) (*Pro-Competition and Anti-Domination*); [Chapter One §6.1.5](core_00-01_principles.md#615-consolidation-ceiling) (*Consolidation Ceiling*); [§2](#2-criteria-set-for-slot-assignment) (*Criteria set*).
 - Downstream: [§3](#3-violation-axis-s-7-9-slot-assignment-incident-gravity) (*Violation Axis s = 7–9 slot assignment*).
-- Read with: [Concentration Threshold](core_05-05_definitions_b_semi_independent.md#concentration-threshold-constitutional) in **Chapter Five** for definitional anchoring referenced from the **§5.1.3** mechanism.
+- Read with: [Concentration Threshold](core_05-05_definitions_b_semi_independent.md#concentration-threshold-constitutional) in **Chapter Five** for definitional anchoring referenced from the **§6.1.3** mechanism.
 
 </details>
 
@@ -231,13 +231,13 @@ The following subsections state criteria interactions and named pattern applicat
 
 *In plain terms: dangerous concentration of money or power is not a separate “mystery criterion” — it still has to show up through rollback, blocked remedies, or capture that makes constitutional process unusable in practice.*
 
-Prohibited **concentration of wealth, power, control, or opportunity**, including durable domination under **Chapter One §5.1.4** and unrebutted consolidation-ceiling breach under **§5.1.5**, is not a separate slot-assignment criterion. It is reached through the existing criteria where it produces the equivalent constitutional effect:
+Prohibited **concentration of wealth, power, control, or opportunity**, including durable domination under **Chapter One §6.1.4** and unrebutted consolidation-ceiling breach under **§6.1.5**, is not a separate slot-assignment criterion. It is reached through the existing criteria where it produces the equivalent constitutional effect:
 
 - It satisfies **criterion 3** where concentration operates as an **equivalent structural workaround** producing material rollback of constitutional protections.
 - It satisfies **criterion 4** where concentration materially contributes to **Rights-Floor degradation**, delayed correction, or blocked challenge rights.
 - It satisfies **criterion 6** where concentration makes constitutional process or remedies unusable in practice. This can occur through capture, coercive dependency, or usurpation of operative authority, even without overt force.
 
-The absence of overt deception or forcible act does **not** defeat anti-constitutional misconduct assignment where prohibited concentration, durable domination, or unrebutted consolidation-ceiling breach produces the equivalent constitutional effect. Quantitative threshold-setting and ceiling-setting for concentration remain owned by **Chapter One §5.1.1**, **§5.1.3**, and **§5.1.5** and are not relitigated here; this chapter evaluates the **conduct** that creates, maintains, exploits, conceals, or restructures around concentration, consolidation, or domination that has crossed the **§5.1** floor.
+The absence of overt deception or forcible act does **not** defeat anti-constitutional misconduct assignment where prohibited concentration, durable domination, or unrebutted consolidation-ceiling breach produces the equivalent constitutional effect. Quantitative threshold-setting and ceiling-setting for concentration remain owned by **Chapter One §6.1.1**, **§6.1.3**, and **§6.1.5** and are not relitigated here; this chapter evaluates the **conduct** that creates, maintains, exploits, conceals, or restructures around concentration, consolidation, or domination that has crossed the **§6.1** floor.
 
 ### 6.2 Rights-Floor waivers and unconstitutional contract terms
 <details>
@@ -335,7 +335,7 @@ This subsection does **not** add an additional slot-assignment criterion beyond 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [§2](#2-criteria-set-for-slot-assignment) (*Criteria set*); [§6.3](#63-flooding-the-zone-and-contest-pathway-denial) (*Flooding the zone — contest-pathway distinction*); [Chapter One §3.2](core_00-01_principles.md#32-truth-epistemic-integrity-constraint) (*Truth / epistemic integrity*); [Chapter One §7.2.1](core_00-01_principles.md#721-preservation-of-epistemic-integrity) (*Preservation of epistemic integrity*).
+- Upstream: [§2](#2-criteria-set-for-slot-assignment) (*Criteria set*); [§6.3](#63-flooding-the-zone-and-contest-pathway-denial) (*Flooding the zone — contest-pathway distinction*); [Chapter One §4.2](core_00-01_principles.md#42-truth-epistemic-integrity-constraint) (*Truth / epistemic integrity*); [Chapter One §8.2.1](core_00-01_principles.md#721-preservation-of-epistemic-integrity) (*Preservation of epistemic integrity*).
 - Downstream: [§3](#3-violation-axis-s-7-9-slot-assignment-incident-gravity) (*Violation Axis s = 7–9 slot assignment*); [§5](#5-cross-chapter-discipline) (*Cross-chapter discipline*).
 - Read with: [Info-Sphere](core_05-05_definitions_a_independent.md#info-sphere), [Epistemic Integrity](core_05-05_definitions_c_dependent_clusters.md#epistemic-integrity), [Truth (Constitutional Constraint)](core_05-05_definitions_c_dependent_clusters.md#truth-constitutional-constraint), and [Transparency](core_05-05_definitions_c_dependent_clusters.md#transparency) in **Chapter Five**.
 - Rights and verification: [Article V-H: Expression, Assembly, and Press](core_10-10_rights_part_b.md#article-v-h-expression-assembly-and-press) and [Article XV: Audit, Transparency, and Independent Verification](core_10-10_rights_part_c.md#article-xv-audit-transparency-and-independent-verification) in **Chapter Ten**. These supply Rights Floors and verification discipline without relocating slot assignment.
@@ -382,7 +382,7 @@ The following are non-exhaustive examples of in-scope means:
 - Ordinary virality or high attention without the imputed purpose or material effect stated here.
 - Volume alone, without culpable purpose or foreseeable indifference tied to those effects.
 
-**Relation to section 6.3.** The same campaign may implicate both **contest-pathway flooding** and **info-sphere flooding**. Evaluators must assess them together on a **unified record** where facts overlap. They must not double-count the same conduct element toward criteria satisfaction twice without independent substantiation for each pattern.
+**Relation to section 7.3.** The same campaign may implicate both **contest-pathway flooding** and **info-sphere flooding**. Evaluators must assess them together on a **unified record** where facts overlap. They must not double-count the same conduct element toward criteria satisfaction twice without independent substantiation for each pattern.
 
 **Operational response** — including Rights-Floor implementation under **Chapter Ten**, **Article XV** verification and auditability discipline, **[corpus_systems.md](corpus_systems.md)** handling where designated, and institutional governance under **Chapter Fifteen** — remains governed by those instruments and adopted owner layers. This subsection states when such conduct may implicate final anti-constitutional misconduct classification under this chapter; it does not relocate operational rules to this chapter.
 
@@ -508,7 +508,7 @@ This subsection does **not** add an additional slot-assignment criterion beyond 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [§2](#2-criteria-set-for-slot-assignment) (*Criteria set*); [§3](#3-violation-axis-s-7-9-slot-assignment-incident-gravity) (*Violation Axis s = 7–9 slot assignment*); [§4](#4-due-process-safeguards-for-slot-classification) (*Due-process safeguards*); [Chapter One §2.2](core_00-01_principles.md#22-recognition-reinforcement-and-aspiration) (*Recognition, Reinforcement, and Aspiration*); [Chapter One §7.2](core_00-01_principles.md#72-incentive-alignment-and-system-capture) (*Incentive Alignment and System Capture*); [Chapter Seven §4.1](core_07-07_standing_integration.md#38-standing-integration-contribution-and-violation-nature) (*Standing integration*).
+- Upstream: [§2](#2-criteria-set-for-slot-assignment) (*Criteria set*); [§3](#3-violation-axis-s-7-9-slot-assignment-incident-gravity) (*Violation Axis s = 7–9 slot assignment*); [§4](#4-due-process-safeguards-for-slot-classification) (*Due-process safeguards*); [Chapter One §3.2](core_00-01_principles.md#32-recognition-reinforcement-and-aspiration) (*Recognition, Reinforcement, and Aspiration*); [Chapter One §8.2](core_00-01_principles.md#82-incentive-alignment-and-system-capture) (*Incentive Alignment and System Capture*); [Chapter Seven §4.1](core_07-07_standing_integration.md#38-standing-integration-contribution-and-violation-nature) (*Standing integration*).
 - Related patterns: [§6.5](#65-bribery-and-improper-benefit-exchange) where benefit exchange or corrupt linkage is material; [§6.6](#66-unlawful-or-unconstitutional-command-conduct) where the reward pathway follows unlawful or unconstitutional command conduct; [§6.8](#68-enforcement-refusal-suppression-or-non-prosecution-conduct) where enforcement refusal or non-prosecution itself is the accountability-obstruction pathway.
 - Read with: [Accountability](core_05-05_definitions_b_semi_independent.md#accountability), [Auditability](core_05-05_definitions_c_dependent_clusters.md#auditability), [Incentive Alignment](core_05-05_definitions_a_independent.md#incentive-alignment), [Protected Reporting Retaliation and Access Interference](core_05-05_definitions_b_semi_independent.md#protected-reporting-retaliation-and-access-interference), [System Capture](core_05-05_definitions_a_independent.md#system-capture), and [Truth (Constitutional Constraint)](core_05-05_definitions_c_dependent_clusters.md#truth-constitutional-constraint).
 

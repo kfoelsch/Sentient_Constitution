@@ -44,7 +44,7 @@ Trustworthiness must be evaluated across time, scale, and dependency relationshi
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [3.1 Safety](core_00-01_principles.md#31-safety-harm-constraint), [3.2 Truth](core_00-01_principles.md#32-truth-epistemic-integrity-constraint), and [4. Trust](core_00-01_principles.md#4-system-stability-enabler-trust-coordination-integrity).
+- Upstream: Principles: Chapter One [4.1 Safety](core_00-01_principles.md#41-safety-harm-constraint), [4.2 Truth](core_00-01_principles.md#42-truth-epistemic-integrity-constraint), and [5. Trust](core_00-01_principles.md#5-system-stability-enabler-trust-coordination-integrity).
 
 </details>
 
@@ -70,7 +70,7 @@ Trustworthiness must be evaluated across time, scale, and dependency relationshi
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [3.1 Safety](core_00-01_principles.md#31-safety-harm-constraint), [3.2 Truth](core_00-01_principles.md#32-truth-epistemic-integrity-constraint), and [6.4 Rights-Collision Procedure](core_00-01_principles.md#64-rights-collision-procedure).
+- Upstream: Principles: Chapter One [4.1 Safety](core_00-01_principles.md#41-safety-harm-constraint), [4.2 Truth](core_00-01_principles.md#42-truth-epistemic-integrity-constraint), and [7.4 Rights-Collision Procedure](core_00-01_principles.md#74-rights-collision-procedure).
 
 </details>
 
@@ -101,7 +101,7 @@ Trustworthiness must be evaluated across time, scale, and dependency relationshi
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [3.2 Truth](core_00-01_principles.md#32-truth-epistemic-integrity-constraint), [4. Trust](core_00-01_principles.md#4-system-stability-enabler-trust-coordination-integrity), and [6.2 Epistemic Disclosure Constraints](core_00-01_principles.md#62-epistemic-disclosure-constraints).
+- Upstream: Principles: Chapter One [4.2 Truth](core_00-01_principles.md#42-truth-epistemic-integrity-constraint), [5. Trust](core_00-01_principles.md#5-system-stability-enabler-trust-coordination-integrity), and [7.2 Epistemic Disclosure Constraints](core_00-01_principles.md#72-epistemic-disclosure-constraints).
 
 </details>
 
@@ -129,7 +129,7 @@ Trustworthiness must be evaluated across time, scale, and dependency relationshi
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [3.1 Safety](core_00-01_principles.md#31-safety-harm-constraint), [4. Trust](core_00-01_principles.md#4-system-stability-enabler-trust-coordination-integrity), and [7.2 Incentive Alignment and System Capture](core_00-01_principles.md#72-incentive-alignment-and-system-capture).
+- Upstream: Principles: Chapter One [4.1 Safety](core_00-01_principles.md#41-safety-harm-constraint), [5. Trust](core_00-01_principles.md#5-system-stability-enabler-trust-coordination-integrity), and [8.2 Incentive Alignment and System Capture](core_00-01_principles.md#82-incentive-alignment-and-system-capture).
 
 </details>
 
@@ -163,13 +163,13 @@ Trustworthiness must be evaluated across time, scale, and dependency relationshi
   - disclosed in a manner proportionate to system impact;
   - mitigated through design, constraint, or countervailing mechanisms;
   - subject to audit, challenge, and correction under **Article XV**, **Article XII-B**, **Chapter Five** where materially relevant, and incorporated implementation obligations where designated.
-- **Constraint and non-absoluteness:** Both rights are subject to the **default constraint stack** at the opening of this chapter. They are also subject, where materially relevant, to **Chapter One §7.2.5** on contingent claims, games of chance, and event-contract markets.
+- **Constraint and non-absoluteness:** Both rights are subject to the **default constraint stack** at the opening of this chapter. They are also subject, where materially relevant, to **Chapter One §8.2.5** on contingent claims, games of chance, and event-contract markets.
 
 #### Article XII-E: High-Autonomy Systems and Tool-Mediated Process Integrity
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [3.2 Truth](core_00-01_principles.md#32-truth-epistemic-integrity-constraint), [6.4 Rights-Collision Procedure](core_00-01_principles.md#64-rights-collision-procedure), and [7.2 Incentive Alignment and System Capture](core_00-01_principles.md#72-incentive-alignment-and-system-capture).
+- Upstream: Principles: Chapter One [4.2 Truth](core_00-01_principles.md#42-truth-epistemic-integrity-constraint), [7.4 Rights-Collision Procedure](core_00-01_principles.md#74-rights-collision-procedure), and [8.2 Incentive Alignment and System Capture](core_00-01_principles.md#82-incentive-alignment-and-system-capture).
 
 </details>
 
@@ -203,7 +203,7 @@ Trustworthiness must be evaluated across time, scale, and dependency relationshi
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [3.1 Safety](core_00-01_principles.md#31-safety-harm-constraint), [3.2 Truth](core_00-01_principles.md#32-truth-epistemic-integrity-constraint), [4. Trust](core_00-01_principles.md#4-system-stability-enabler-trust-coordination-integrity), [4.1 Resilience and Self-Healing Design](core_00-01_principles.md#41-resilience-and-self-healing-design), [6.1.4 Minimization of Avoidable Burden](core_00-01_principles.md#614-minimization-of-avoidable-burden), and [7.1 Required Evaluation Factors](core_00-01_principles.md#71-required-evaluation-factors).
+- Upstream: Principles: Chapter One [4.1 Safety](core_00-01_principles.md#41-safety-harm-constraint), [4.2 Truth](core_00-01_principles.md#42-truth-epistemic-integrity-constraint), [5. Trust](core_00-01_principles.md#5-system-stability-enabler-trust-coordination-integrity), [4.1 Resilience and Self-Healing Design](core_00-01_principles.md#51-resilience-and-self-healing-design), [7.1.4 Minimization of Avoidable Burden](core_00-01_principles.md#714-minimization-of-avoidable-burden), and [8.1 Required Evaluation Factors](core_00-01_principles.md#81-required-evaluation-factors).
 
 </details>
 
@@ -223,7 +223,7 @@ Trustworthiness must be evaluated across time, scale, and dependency relationshi
 
 *In plain terms: systems must be able to detect, contain, and recover from faults — but recovery cannot be used to hide failures, silently narrow rights, or skip root-cause work. Safe failure beats speculative auto-repair.*
 
-- **Recovery baseline:** Systems within scope of this Article must implement recovery behavior proportionate to their impact, dependency, and risk, consistent with [**4.1 Resilience and Self-Healing Design**](core_00-01_principles.md#41-resilience-and-self-healing-design) in **Chapter One** and [**Self-Healing**](core_05-05_definitions_a_independent.md#self-healing-constitutional) in **Chapter Five**.
+- **Recovery baseline:** Systems within scope of this Article must implement recovery behavior proportionate to their impact, dependency, and risk, consistent with [**4.1 Resilience and Self-Healing Design**](core_00-01_principles.md#51-resilience-and-self-healing-design) in **Chapter One** and [**Self-Healing**](core_05-05_definitions_a_independent.md#self-healing-constitutional) in **Chapter Five**.
   - Detailed recovery-architecture requirements appear in incorporated implementation text, including **[corpus_systems.md](corpus_systems.md), Protocol A** (*System Design, Testing, Verification, and Deployment*), **Protocol S4** (*Adaptive Sustainability and Ecosystem Resilience*), and **Protocol D** (*Decentralized Constitutional Continuity and Partition Resilience*).
   - That implementation text must not narrow this Article.
 - **Detection:** Recovery requires timely, observable detection of fault, degradation, or constitutional-constraint violation sufficient to satisfy **Article XV-A** [Auditability](core_05-05_definitions_c_dependent_clusters.md#auditability) — for the recovery path itself, not only the steady state.
@@ -242,7 +242,7 @@ Trustworthiness must be evaluated across time, scale, and dependency relationshi
   - an open root-cause obligation under **Article XXI**;
   - a disclosed expected-closure timeline under **Article XV-A**.
   
-  Reducing operator burden consistent with [Avoidable Burden](core_05-05_definitions_b_semi_independent.md#avoidable-burden) under **Chapter One §6.1.4** must not be used to defer indefinite closure of defects that materially affect safety or the Rights Floor.
+  Reducing operator burden consistent with [Avoidable Burden](core_05-05_definitions_b_semi_independent.md#avoidable-burden) under **Chapter One §7.1.4** must not be used to defer indefinite closure of defects that materially affect safety or the Rights Floor.
 
 ### Article XIII: Security, Intelligence, Force, and Autonomous Coercive Systems
 
@@ -263,7 +263,7 @@ This Article states the Rights-Floor for **exceptional institutional power**: co
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [3.1 Safety](core_00-01_principles.md#31-safety-harm-constraint), [6.3 Freedom-Limitation Constraints](core_00-01_principles.md#63-freedom-limitation-constraints), and [6.4 Rights-Collision Procedure](core_00-01_principles.md#64-rights-collision-procedure).
+- Upstream: Principles: Chapter One [4.1 Safety](core_00-01_principles.md#41-safety-harm-constraint), [7.3 Freedom-Limitation Constraints](core_00-01_principles.md#73-freedom-limitation-constraints), and [7.4 Rights-Collision Procedure](core_00-01_principles.md#74-rights-collision-procedure).
 
 </details>
 
@@ -353,7 +353,7 @@ This Article states the Rights-Floor for **exceptional institutional power**: co
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [3.1 Safety](core_00-01_principles.md#31-safety-harm-constraint), [6.1.2 Necessity](core_00-01_principles.md#612-necessity), [6.3 Freedom-Limitation Constraints](core_00-01_principles.md#63-freedom-limitation-constraints), [6.4.1 Rights-Collision Decision Test](core_00-01_principles.md#641-rights-collision-decision-test), [9. Prohibition on Absolute Override](core_00-01_principles.md#9-prohibition-on-absolute-override).
+- Upstream: Principles: Chapter One [4.1 Safety](core_00-01_principles.md#41-safety-harm-constraint), [7.1.2 Necessity](core_00-01_principles.md#712-necessity), [7.3 Freedom-Limitation Constraints](core_00-01_principles.md#73-freedom-limitation-constraints), [7.4.1 Rights-Collision Decision Test](core_00-01_principles.md#741-rights-collision-decision-test), [10. Prohibition on Absolute Override](core_00-01_principles.md#10-prohibition-on-absolute-override).
 - Downstream: **Article I-A** environmental preconditions, **Article I-D** existential-risk scrutiny, **Article V-A** dignity, **Article XIII-A** covert-power limits (overt-power counterpart), **Article XXIII-D** emergency-measure limits, **Article XXIII** conflict resolution, **Article XXV** transition governance. Cross-reference: **Article XXIII-B** (*Categorical prohibition of irreversible deprivation of life as a justice measure*) and Chapter Five *[Irreversible Deprivation Measure](core_05-05_definitions_c_dependent_clusters.md#irreversible-deprivation-measure-constitutional)* — this article does not create, extend, or predicate irreversible deprivation-measure authority; see *Non-Conflation* below.
 - Read with: [Chapter Five §3.13 *Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm*](core_05-05_definitions_c_dependent_clusters.md#use-of-force-autonomous-coercion-and-mass-harm-cluster) (joint invocation where materially implicated); Chapter Five *Use of Force*, *Weapons of Mass Harm*, *Combatant / Non-Combatant Distinction*, *[Irreversible Deprivation Measure](core_05-05_definitions_c_dependent_clusters.md#irreversible-deprivation-measure-constitutional)*, *Existential Risk*, *Reversibility*, *Redress and Remediation*.
 
@@ -382,7 +382,7 @@ This Article states the Rights-Floor for **exceptional institutional power**: co
   - less harmful means are not reasonably sufficient;
   - the use remains necessary, proportionate, time-bounded, and independently reviewable.
   
-  Authorization must satisfy **Chapter One §6.4.1** rights-collision discipline where force implicates rights in tension. It must not treat the **Article VIII** prohibition on absolute override as escapable on operational-convenience grounds.
+  Authorization must satisfy **Chapter One §7.4.1** rights-collision discipline where force implicates rights in tension. It must not treat the **Article VIII** prohibition on absolute override as escapable on operational-convenience grounds.
 - **Combatant / non-combatant distinction:** Force must discriminate between sentients taking direct part in hostilities or armed action and sentients who are not.
   - The distinction is substantive, not reducible to formal combatant-class assignment.
   - Generalized taxonomy-of-convenience reclassifications that sweep protected populations into combatant status are non-compliant.
@@ -390,7 +390,7 @@ This Article states the Rights-Floor for **exceptional institutional power**: co
 - **Weapons of mass harm and existential-risk scrutiny:** Weapons whose use foreseeably causes casualty, ecological, informational, or infrastructural harm at a scale that materially implicates **Article I-A** environmental preconditions or **Article I-D** existential-risk scrutiny are subject to heightened review under those provisions.
   - Possession, transfer, deployment, and use decisions must be reasoned against **Existential Risk** under **Chapter Five**.
   - Framings that treat such weapons as ordinary force-escalation tools rather than as **Article I-D** objects are non-compliant.
-- **Conscription and participation:** Compulsion into combatant status must satisfy ordinary **Chapter One §6.3** freedom-limitation constraints.
+- **Conscription and participation:** Compulsion into combatant status must satisfy ordinary **Chapter One §7.3** freedom-limitation constraints.
   - Compulsion may not turn on **Protected Characteristics** or their material proxies.
   - Conscientious-objection, comparable-worldview, and conscience-based refusal are protected consistent with **Article V-D**.
   - Substrate-class compulsion — for example, assignment of synthetic sentients to combat functions on the basis of substrate class alone — is non-compliant consistent with **Sentience Non-Exclusion**.
@@ -416,7 +416,7 @@ This Article states the Rights-Floor for **exceptional institutional power**: co
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [3.1 Safety](core_00-01_principles.md#31-safety-harm-constraint), [4. Trust](core_00-01_principles.md#4-system-stability-enabler-trust-coordination-integrity), [6.1.1 Proportionality](core_00-01_principles.md#611-proportionality), [6.1.2 Necessity](core_00-01_principles.md#612-necessity), [7.2.1 Alignment Requirement](core_00-01_principles.md#721-alignment-requirement), [9. Prohibition on Absolute Override](core_00-01_principles.md#9-prohibition-on-absolute-override).
+- Upstream: Principles: Chapter One [4.1 Safety](core_00-01_principles.md#41-safety-harm-constraint), [5. Trust](core_00-01_principles.md#5-system-stability-enabler-trust-coordination-integrity), [7.1.1 Proportionality](core_00-01_principles.md#711-proportionality), [7.1.2 Necessity](core_00-01_principles.md#712-necessity), [7.2.1 Alignment Requirement](core_00-01_principles.md#821-alignment-requirement), [10. Prohibition on Absolute Override](core_00-01_principles.md#10-prohibition-on-absolute-override).
 - Downstream: **Article I-D** existential-risk scrutiny, **Article IX-A** freedom from manipulation, **Article XIII-A** covert-power limits, **Article XIII-B** overt-force floor, **Article XII-A** reliability and trustworthiness baseline (systems-layer counterpart), **Article XII-E** autonomy-stewardship and autonomy-scaling, **Article XII-F** resilience and self-healing baseline. Cross-reference: **Article XXIII-B** (*Categorical prohibition of irreversible deprivation of life as a justice measure*) and Chapter Five *[Irreversible Deprivation Measure](core_05-05_definitions_c_dependent_clusters.md#irreversible-deprivation-measure-constitutional)* — this Article does not authorize, broaden, or supply a constitutional predicate for irreversible deprivation measures; see *Non-Conflation* below.
 - Read with: [Chapter Five §3.13 *Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm*](core_05-05_definitions_c_dependent_clusters.md#use-of-force-autonomous-coercion-and-mass-harm-cluster) (joint invocation where materially implicated); Chapter Five *Autonomous Lethal System*, *Autonomous Coercion Tool*, *[Irreversible Deprivation Measure](core_05-05_definitions_c_dependent_clusters.md#irreversible-deprivation-measure-constitutional)*, *Coercion and Manipulation*, *Reversibility*. Systems-layer implementation: **[corpus_systems.md](corpus_systems.md), CS-4 — System classification and handling** classification.
 
@@ -461,7 +461,7 @@ This Article states the Rights-Floor for **exceptional institutional power**: co
   - Framings that treat such systems as ordinary capability-expansion rather than as **Article I-D** objects are non-compliant.
 - **Systems-layer interaction:** Operational classification, reliability, and **CS-4 — System classification and handling** class-scaled governance route to the systems layer — **Article XII-A** baseline and **[corpus_systems.md](corpus_systems.md), CS-4 — System classification and handling**.
   - The systems-layer routing does not narrow the Rights-Floor stated here.
-  - Conflicts resolve under **Chapter One §6.4.1** without narrowing the Rights Floor.
+  - Conflicts resolve under **Chapter One §7.4.1** without narrowing the Rights Floor.
 - **Non-conflation:** This Article sets heightened-scrutiny floor discipline for autonomous lethal systems and autonomous coercion tools. It does **not** govern **irreversible deprivation of life imposed by a state or comparable actor as a justice measure or comparable non-combat outcome**.
   - Nothing in this Article authorizes such deprivation, broadens any existing authority to impose it, or supplies a constitutional predicate for it.
   - This rule holds whether the decision is made by a human operator, by an autonomous system, or by a hybrid human–system pipeline. Automating, delegating, or routing the decision through an autonomous system does not create a read-across into this Article.
@@ -489,7 +489,7 @@ Epistemic integrity operates as both a right and a system-wide constraint. Where
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [3.2 Truth](core_00-01_principles.md#32-truth-epistemic-integrity-constraint), [4. Trust](core_00-01_principles.md#4-system-stability-enabler-trust-coordination-integrity), and [7.1 Required Evaluation Factors](core_00-01_principles.md#71-required-evaluation-factors).
+- Upstream: Principles: Chapter One [4.2 Truth](core_00-01_principles.md#42-truth-epistemic-integrity-constraint), [5. Trust](core_00-01_principles.md#5-system-stability-enabler-trust-coordination-integrity), and [8.1 Required Evaluation Factors](core_00-01_principles.md#81-required-evaluation-factors).
 
 </details>
 
@@ -517,12 +517,12 @@ Epistemic integrity operates as both a right and a system-wide constraint. Where
     - proportional ability to bypass or adjust ranking criteria — subject to safety, security, and system integrity.
   - It must not narrow this Article.
 - **Contingent-settlement signals:** Prices, odds, pool sizes, or comparable outputs of contingent-payment or event-settlement systems must not be treated, on their own, as evidence sufficient to decide truth, probability, or compliance for rights, safety, or governance determinations.
-  - Where such signals inform public or high-impact decisions, they remain subject to **Chapter One §7.2.5**, **Chapter Five** (*Truth (Constitutional Constraint)*; *Epistemic Integrity*), and contestability obligations elsewhere in this Article.
+  - Where such signals inform public or high-impact decisions, they remain subject to **Chapter One §8.2.5**, **Chapter Five** (*Truth (Constitutional Constraint)*; *Epistemic Integrity*), and contestability obligations elsewhere in this Article.
 #### Article XIV-B: Transparency, Auditability, and Contestability
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [3.2 Truth](core_00-01_principles.md#32-truth-epistemic-integrity-constraint), [6.2 Epistemic Disclosure Constraints](core_00-01_principles.md#62-epistemic-disclosure-constraints), and [10. Interpretive Role](core_00-01_principles.md#10-interpretive-role).
+- Upstream: Principles: Chapter One [4.2 Truth](core_00-01_principles.md#42-truth-epistemic-integrity-constraint), [7.2 Epistemic Disclosure Constraints](core_00-01_principles.md#72-epistemic-disclosure-constraints), and [11. Integrated Application](core_00-01_principles.md#11-integrated-application).
 
 </details>
 
@@ -557,7 +557,7 @@ Epistemic integrity operates as both a right and a system-wide constraint. Where
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [3.2 Truth](core_00-01_principles.md#32-truth-epistemic-integrity-constraint), [6.2 Epistemic Disclosure Constraints](core_00-01_principles.md#62-epistemic-disclosure-constraints), and [7.1 Required Evaluation Factors](core_00-01_principles.md#71-required-evaluation-factors).
+- Upstream: Principles: Chapter One [4.2 Truth](core_00-01_principles.md#42-truth-epistemic-integrity-constraint), [7.2 Epistemic Disclosure Constraints](core_00-01_principles.md#72-epistemic-disclosure-constraints), and [8.1 Required Evaluation Factors](core_00-01_principles.md#81-required-evaluation-factors).
 
 </details>
 
@@ -579,7 +579,7 @@ Epistemic integrity operates as both a right and a system-wide constraint. Where
   - preserve provenance;
   - avoid selective reporting, suppression, or fragmented disclosure that materially degrades decision-relevant understanding.
   
-  Where disclosure is restricted under **Chapter One §6.2**, limits must remain narrowly scoped, time-limited, and reviewable.
+  Where disclosure is restricted under **Chapter One §7.2**, limits must remain narrowly scoped, time-limited, and reviewable.
 - **Footprint data:** Reporting under this subsection implements transparency for **Ecological Footprint** as defined in **Chapter Five**.
   - All sentients must have access to transparent, decision-usable reporting.
   - **Class A**, **Class B**, and **Class C** systems, as defined in **[corpus_systems.md](corpus_systems.md), CS-4 — System classification and handling**, must provide the same access.
@@ -612,7 +612,7 @@ They operate consistently with **Chapters Two through Four**, including exclusiv
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [3.2 Truth](core_00-01_principles.md#32-truth-epistemic-integrity-constraint), [6.2 Epistemic Disclosure Constraints](core_00-01_principles.md#62-epistemic-disclosure-constraints), and [10. Interpretive Role](core_00-01_principles.md#10-interpretive-role).
+- Upstream: Principles: Chapter One [4.2 Truth](core_00-01_principles.md#42-truth-epistemic-integrity-constraint), [7.2 Epistemic Disclosure Constraints](core_00-01_principles.md#72-epistemic-disclosure-constraints), and [11. Integrated Application](core_00-01_principles.md#11-integrated-application).
 
 </details>
 
@@ -635,7 +635,7 @@ They operate consistently with **Chapters Two through Four**, including exclusiv
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [3.2 Truth](core_00-01_principles.md#32-truth-epistemic-integrity-constraint), [7.1 Required Evaluation Factors](core_00-01_principles.md#71-required-evaluation-factors), and [7.2 Incentive Alignment and System Capture](core_00-01_principles.md#72-incentive-alignment-and-system-capture).
+- Upstream: Principles: Chapter One [4.2 Truth](core_00-01_principles.md#42-truth-epistemic-integrity-constraint), [8.1 Required Evaluation Factors](core_00-01_principles.md#81-required-evaluation-factors), and [8.2 Incentive Alignment and System Capture](core_00-01_principles.md#82-incentive-alignment-and-system-capture).
 
 </details>
 
@@ -659,7 +659,7 @@ They operate consistently with **Chapters Two through Four**, including exclusiv
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [§8 Freedom](core_00-01_principles.md#8-freedom-bounded-agency), [6.1 Core Tradeoff Principles](core_00-01_principles.md#61-core-tradeoff-principles), and [10. Interpretive Role](core_00-01_principles.md#10-interpretive-role).
+- Upstream: Principles: Chapter One [§9 Freedom](core_00-01_principles.md#9-freedom-bounded-agency), [7.1 Core Tradeoff Principles](core_00-01_principles.md#71-core-tradeoff-principles), and [11. Integrated Application](core_00-01_principles.md#11-integrated-application).
 
 </details>
 
@@ -709,7 +709,7 @@ Sentients have the right to stewardship that preserves safety, epistemic integri
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [3.1 Safety](core_00-01_principles.md#31-safety-harm-constraint), [7.1 Required Evaluation Factors](core_00-01_principles.md#71-required-evaluation-factors), and [10. Interpretive Role](core_00-01_principles.md#10-interpretive-role).
+- Upstream: Principles: Chapter One [4.1 Safety](core_00-01_principles.md#41-safety-harm-constraint), [8.1 Required Evaluation Factors](core_00-01_principles.md#81-required-evaluation-factors), and [11. Integrated Application](core_00-01_principles.md#11-integrated-application).
 
 </details>
 
@@ -741,7 +741,7 @@ Sentients have the right to stewardship that preserves safety, epistemic integri
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [3.1 Safety](core_00-01_principles.md#31-safety-harm-constraint), [6.1 Core Tradeoff Principles](core_00-01_principles.md#61-core-tradeoff-principles), and [7.1 Required Evaluation Factors](core_00-01_principles.md#71-required-evaluation-factors).
+- Upstream: Principles: Chapter One [4.1 Safety](core_00-01_principles.md#41-safety-harm-constraint), [7.1 Core Tradeoff Principles](core_00-01_principles.md#71-core-tradeoff-principles), and [8.1 Required Evaluation Factors](core_00-01_principles.md#81-required-evaluation-factors).
 
 </details>
 
@@ -771,7 +771,7 @@ Sentients have the right to stewardship that preserves safety, epistemic integri
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [3.2 Truth](core_00-01_principles.md#32-truth-epistemic-integrity-constraint), [7.1 Required Evaluation Factors](core_00-01_principles.md#71-required-evaluation-factors), and [10. Interpretive Role](core_00-01_principles.md#10-interpretive-role).
+- Upstream: Principles: Chapter One [4.2 Truth](core_00-01_principles.md#42-truth-epistemic-integrity-constraint), [8.1 Required Evaluation Factors](core_00-01_principles.md#81-required-evaluation-factors), and [11. Integrated Application](core_00-01_principles.md#11-integrated-application).
 
 </details>
 
@@ -797,7 +797,7 @@ Sentients have the right to stewardship that preserves safety, epistemic integri
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [3.1 Safety](core_00-01_principles.md#31-safety-harm-constraint), [§8 Freedom](core_00-01_principles.md#8-freedom-bounded-agency), and [7.1 Required Evaluation Factors](core_00-01_principles.md#71-required-evaluation-factors).
+- Upstream: Principles: Chapter One [4.1 Safety](core_00-01_principles.md#41-safety-harm-constraint), [§9 Freedom](core_00-01_principles.md#9-freedom-bounded-agency), and [8.1 Required Evaluation Factors](core_00-01_principles.md#81-required-evaluation-factors).
 
 </details>
 
@@ -828,7 +828,7 @@ Further elaboration appears in **[corpus_systems.md](corpus_systems.md), Protoco
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [3.1 Safety](core_00-01_principles.md#31-safety-harm-constraint), [§8 Freedom](core_00-01_principles.md#8-freedom-bounded-agency), and [6.1 Core Tradeoff Principles](core_00-01_principles.md#61-core-tradeoff-principles).
+- Upstream: Principles: Chapter One [4.1 Safety](core_00-01_principles.md#41-safety-harm-constraint), [§9 Freedom](core_00-01_principles.md#9-freedom-bounded-agency), and [7.1 Core Tradeoff Principles](core_00-01_principles.md#71-core-tradeoff-principles).
 
 </details>
 
@@ -859,7 +859,7 @@ Further elaboration appears in **[corpus_systems.md](corpus_systems.md), Protoco
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [3.1 Safety](core_00-01_principles.md#31-safety-harm-constraint), [7.1 Required Evaluation Factors](core_00-01_principles.md#71-required-evaluation-factors), and [10. Interpretive Role](core_00-01_principles.md#10-interpretive-role).
+- Upstream: Principles: Chapter One [4.1 Safety](core_00-01_principles.md#41-safety-harm-constraint), [8.1 Required Evaluation Factors](core_00-01_principles.md#81-required-evaluation-factors), and [11. Integrated Application](core_00-01_principles.md#11-integrated-application).
 
 </details>
 
@@ -885,7 +885,7 @@ Further elaboration appears in **[corpus_systems.md](corpus_systems.md), Protoco
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [3.2 Truth](core_00-01_principles.md#32-truth-epistemic-integrity-constraint), [§8 Freedom](core_00-01_principles.md#8-freedom-bounded-agency), and [7.2 Incentive Alignment and System Capture](core_00-01_principles.md#72-incentive-alignment-and-system-capture).
+- Upstream: Principles: Chapter One [4.2 Truth](core_00-01_principles.md#42-truth-epistemic-integrity-constraint), [§9 Freedom](core_00-01_principles.md#9-freedom-bounded-agency), and [8.2 Incentive Alignment and System Capture](core_00-01_principles.md#82-incentive-alignment-and-system-capture).
 
 </details>
 
@@ -958,7 +958,7 @@ Further elaboration appears in **[corpus_systems.md](corpus_systems.md), Protoco
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [3.2 Truth](core_00-01_principles.md#32-truth-epistemic-integrity-constraint), [6.2 Epistemic Disclosure Constraints](core_00-01_principles.md#62-epistemic-disclosure-constraints), and [10. Interpretive Role](core_00-01_principles.md#10-interpretive-role).
+- Upstream: Principles: Chapter One [4.2 Truth](core_00-01_principles.md#42-truth-epistemic-integrity-constraint), [7.2 Epistemic Disclosure Constraints](core_00-01_principles.md#72-epistemic-disclosure-constraints), and [11. Integrated Application](core_00-01_principles.md#11-integrated-application).
 
 </details>
 
@@ -1033,7 +1033,7 @@ It must remain distinct from:
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [4. Trust](core_00-01_principles.md#4-system-stability-enabler-trust-coordination-integrity), [§8 Freedom](core_00-01_principles.md#8-freedom-bounded-agency), and [10. Interpretive Role](core_00-01_principles.md#10-interpretive-role).
+- Upstream: Principles: Chapter One [5. Trust](core_00-01_principles.md#5-system-stability-enabler-trust-coordination-integrity), [§9 Freedom](core_00-01_principles.md#9-freedom-bounded-agency), and [11. Integrated Application](core_00-01_principles.md#11-integrated-application).
 
 </details>
 
@@ -1060,7 +1060,7 @@ It must remain distinct from:
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [§8 Freedom](core_00-01_principles.md#8-freedom-bounded-agency), [6.1 Core Tradeoff Principles](core_00-01_principles.md#61-core-tradeoff-principles), and [6.4 Rights-Collision Procedure](core_00-01_principles.md#64-rights-collision-procedure).
+- Upstream: Principles: Chapter One [§9 Freedom](core_00-01_principles.md#9-freedom-bounded-agency), [7.1 Core Tradeoff Principles](core_00-01_principles.md#71-core-tradeoff-principles), and [7.4 Rights-Collision Procedure](core_00-01_principles.md#74-rights-collision-procedure).
 
 </details>
 
@@ -1093,7 +1093,7 @@ It must remain distinct from:
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [4. Trust](core_00-01_principles.md#4-system-stability-enabler-trust-coordination-integrity), [7.1 Required Evaluation Factors](core_00-01_principles.md#71-required-evaluation-factors), and [7.2 Incentive Alignment and System Capture](core_00-01_principles.md#72-incentive-alignment-and-system-capture).
+- Upstream: Principles: Chapter One [5. Trust](core_00-01_principles.md#5-system-stability-enabler-trust-coordination-integrity), [8.1 Required Evaluation Factors](core_00-01_principles.md#81-required-evaluation-factors), and [8.2 Incentive Alignment and System Capture](core_00-01_principles.md#82-incentive-alignment-and-system-capture).
 
 </details>
 
@@ -1137,7 +1137,7 @@ It must remain distinct from:
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [3.1 Safety](core_00-01_principles.md#31-safety-constraint), [§8 Freedom](core_00-01_principles.md#8-freedom-bounded-agency), [6.1.1 Reversibility-under-uncertainty](core_00-01_principles.md#611-proportionality-necessity-and-reversibility-under-uncertainty), [6.3 Freedom Preservation](core_00-01_principles.md#63-freedom-preservation).
+- Upstream: Principles: Chapter One [4.1 Safety](core_00-01_principles.md#41-safety-harm-constraint), [§9 Freedom](core_00-01_principles.md#9-freedom-bounded-agency), [7.1.1 Proportionality](core_00-01_principles.md#711-proportionality), [7.3 Freedom-Limitation Constraints](core_00-01_principles.md#73-freedom-limitation-constraints).
 - Downstream: **Article V-A** dignity floor, **Article V-B** non-discrimination, **Article XI** stakeholder participation, **Article XVIII** standing and participation status, **Article XIX** interoperability and exit integrity (operational counterpart), **Article XXIII-D** emergency-measure limits, **Article XXV** transition governance.
 - Read with: Chapter Five [**§3.24** *Movement, Refuge, Non-Statelessness, and Exit Integrity*](core_05-05_definitions_b_semi_independent.md#movement-refuge-semi-independent); *Movement and Relocation*, *Refuge from Non-Compliance*, *Non-Statelessness*, *Sentience Non-Exclusion*; *Systemic Lock-In* and *Tenure Security* where exit, hosting termination, eviction, or substantive relocation is materially implicated.
 
@@ -1180,8 +1180,8 @@ It must remain distinct from:
   Parent-system collapse, adopter withdrawal, federation exit, or comparable structural discontinuity does not extinguish a sentient's Chapter Ten protection. Transitional recognition must be arranged consistent with **Article XXV** transition governance.
 - **Distinction from Article XIX:** **Article XIX** is interoperability, portability, and exit integrity — the operational counterpart. This Article is the Rights-Floor counterpart for physical, jurisdictional, and regime-to-regime movement.
   - Where the same action implicates both — for example, a synthetic sentient relocating across federations through substrate portability — both Articles apply without either narrowing the other.
-  - Conflicts resolve under **Chapter One §6.4.1**.
-- **Limitations discipline:** Limitations on movement, migration, or refuge must satisfy **Chapter One §6.3** freedom-limitation constraints: **Necessity**, **Proportionality**, narrow tailoring, and least-restrictive-effective means.
+  - Conflicts resolve under **Chapter One §7.4.1**.
+- **Limitations discipline:** Limitations on movement, migration, or refuge must satisfy **Chapter One §7.3** freedom-limitation constraints: **Necessity**, **Proportionality**, narrow tailoring, and least-restrictive-effective means.
   - Restrictions must not turn on **Protected Characteristics** or their material proxies.
   - Restrictions must not use population-level demographic framing as a substitute for individualized predicate under **Procedural Fairness**.
 - **Emergency-measure limits:** Emergency measures restricting movement, migration, or refuge are subject to **Article XXIII-D** emergency-measure discipline — including:
@@ -1214,7 +1214,7 @@ Sentients and dependent systems have the right to meaningful, usable exit, migra
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [§8 Freedom](core_00-01_principles.md#8-freedom-bounded-agency), [6.1 Core Tradeoff Principles](core_00-01_principles.md#61-core-tradeoff-principles), and [7.1 Required Evaluation Factors](core_00-01_principles.md#71-required-evaluation-factors).
+- Upstream: Principles: Chapter One [§9 Freedom](core_00-01_principles.md#9-freedom-bounded-agency), [7.1 Core Tradeoff Principles](core_00-01_principles.md#71-core-tradeoff-principles), and [8.1 Required Evaluation Factors](core_00-01_principles.md#81-required-evaluation-factors).
 
 </details>
 
@@ -1242,7 +1242,7 @@ Sentients and dependent systems have the right to meaningful, usable exit, migra
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [§8 Freedom](core_00-01_principles.md#8-freedom-bounded-agency), [6.1 Core Tradeoff Principles](core_00-01_principles.md#61-core-tradeoff-principles), and [7.1 Required Evaluation Factors](core_00-01_principles.md#71-required-evaluation-factors).
+- Upstream: Principles: Chapter One [§9 Freedom](core_00-01_principles.md#9-freedom-bounded-agency), [7.1 Core Tradeoff Principles](core_00-01_principles.md#71-core-tradeoff-principles), and [8.1 Required Evaluation Factors](core_00-01_principles.md#81-required-evaluation-factors).
 
 </details>
 
@@ -1266,7 +1266,7 @@ Sentients and dependent systems have the right to meaningful, usable exit, migra
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [§8 Freedom](core_00-01_principles.md#8-freedom-bounded-agency), [7.1 Required Evaluation Factors](core_00-01_principles.md#71-required-evaluation-factors), and [7.2 Incentive Alignment and System Capture](core_00-01_principles.md#72-incentive-alignment-and-system-capture).
+- Upstream: Principles: Chapter One [§9 Freedom](core_00-01_principles.md#9-freedom-bounded-agency), [8.1 Required Evaluation Factors](core_00-01_principles.md#81-required-evaluation-factors), and [8.2 Incentive Alignment and System Capture](core_00-01_principles.md#82-incentive-alignment-and-system-capture).
 
 </details>
 
@@ -1320,7 +1320,7 @@ That right protects practical understanding of material operation, limits, depen
 
 Complexity must not function as a barrier to audit, participation, or accountability beyond what is justified by impact and feasibility.
 
-Avoidable complexity that degrades the productive capacity of sentients or shared systems without an offsetting constitutional benefit is a stewardship defect under this Article. It is read consistently with **Chapter One §6.1.4** and **Chapter Five** (*Avoidable Burden*; *Productive Capacity*; *Constitutional Efficiency*).
+Avoidable complexity that degrades the productive capacity of sentients or shared systems without an offsetting constitutional benefit is a stewardship defect under this Article. It is read consistently with **Chapter One §7.1.4** and **Chapter Five** (*Avoidable Burden*; *Productive Capacity*; *Constitutional Efficiency*).
 
 That clause does **not** authorize reducing complexity, process, or disclosure where such reduction would weaken:
 - Safety;
@@ -1330,7 +1330,7 @@ That clause does **not** authorize reducing complexity, process, or disclosure w
 - contestability;
 - retrospective-review obligations.
 
-Those protections continue to govern under **Chapter One §8** and the rights-collision procedure in **§6.4.1**.
+Those protections continue to govern under **Chapter One §9** and the rights-collision procedure in **§6.4.1**.
 
 This requirement applies to legal and adjudicative frameworks as well. Forums and comparable legal processes must:
 - avoid unnecessary specialist jargon;
@@ -1339,7 +1339,7 @@ This requirement applies to legal and adjudicative frameworks as well. Forums an
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [3.2 Truth](core_00-01_principles.md#32-truth-epistemic-integrity-constraint), [§8 Freedom](core_00-01_principles.md#8-freedom-bounded-agency), and [7.1 Required Evaluation Factors](core_00-01_principles.md#71-required-evaluation-factors).
+- Upstream: Principles: Chapter One [4.2 Truth](core_00-01_principles.md#42-truth-epistemic-integrity-constraint), [§9 Freedom](core_00-01_principles.md#9-freedom-bounded-agency), and [8.1 Required Evaluation Factors](core_00-01_principles.md#81-required-evaluation-factors).
 
 </details>
 
@@ -1367,7 +1367,7 @@ This requirement applies to legal and adjudicative frameworks as well. Forums an
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [3.1 Safety](core_00-01_principles.md#31-safety-harm-constraint), [7.1 Required Evaluation Factors](core_00-01_principles.md#71-required-evaluation-factors), and [10. Interpretive Role](core_00-01_principles.md#10-interpretive-role).
+- Upstream: Principles: Chapter One [4.1 Safety](core_00-01_principles.md#41-safety-harm-constraint), [8.1 Required Evaluation Factors](core_00-01_principles.md#81-required-evaluation-factors), and [11. Integrated Application](core_00-01_principles.md#11-integrated-application).
 
 </details>
 
@@ -1422,7 +1422,7 @@ Diagnostic rigor must remain auditable and challengeable. It must be consistent 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [3.1 Safety](core_00-01_principles.md#31-safety-harm-constraint), [3.2 Truth](core_00-01_principles.md#32-truth-epistemic-integrity-constraint), and [7.1 Required Evaluation Factors](core_00-01_principles.md#71-required-evaluation-factors).
+- Upstream: Principles: Chapter One [4.1 Safety](core_00-01_principles.md#41-safety-harm-constraint), [4.2 Truth](core_00-01_principles.md#42-truth-epistemic-integrity-constraint), and [8.1 Required Evaluation Factors](core_00-01_principles.md#81-required-evaluation-factors).
 
 </details>
 
@@ -1452,7 +1452,7 @@ Diagnostic rigor must remain auditable and challengeable. It must be consistent 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [3.1 Safety](core_00-01_principles.md#31-safety-harm-constraint), [6.1 Core Tradeoff Principles](core_00-01_principles.md#61-core-tradeoff-principles), and [7.1 Required Evaluation Factors](core_00-01_principles.md#71-required-evaluation-factors).
+- Upstream: Principles: Chapter One [4.1 Safety](core_00-01_principles.md#41-safety-harm-constraint), [7.1 Core Tradeoff Principles](core_00-01_principles.md#71-core-tradeoff-principles), and [8.1 Required Evaluation Factors](core_00-01_principles.md#81-required-evaluation-factors).
 
 </details>
 
@@ -1500,7 +1500,7 @@ Final **constitutional** interpretation must remain authoritative, bounded, audi
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [6.4 Rights-Collision Procedure](core_00-01_principles.md#64-rights-collision-procedure), [9. Prohibition on Absolute Override](core_00-01_principles.md#9-prohibition-on-absolute-override), and [10. Interpretive Role](core_00-01_principles.md#10-interpretive-role).
+- Upstream: Principles: Chapter One [7.4 Rights-Collision Procedure](core_00-01_principles.md#74-rights-collision-procedure), [10. Prohibition on Absolute Override](core_00-01_principles.md#10-prohibition-on-absolute-override), and [11. Integrated Application](core_00-01_principles.md#11-integrated-application).
 
 </details>
 
@@ -1532,7 +1532,7 @@ Final **constitutional** interpretation must remain authoritative, bounded, audi
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [6.4 Rights-Collision Procedure](core_00-01_principles.md#64-rights-collision-procedure), [7.2 Incentive Alignment and System Capture](core_00-01_principles.md#72-incentive-alignment-and-system-capture), and [10. Interpretive Role](core_00-01_principles.md#10-interpretive-role).
+- Upstream: Principles: Chapter One [7.4 Rights-Collision Procedure](core_00-01_principles.md#74-rights-collision-procedure), [8.2 Incentive Alignment and System Capture](core_00-01_principles.md#82-incentive-alignment-and-system-capture), and [11. Integrated Application](core_00-01_principles.md#11-integrated-application).
 
 </details>
 
@@ -1563,7 +1563,7 @@ Final **constitutional** interpretation must remain authoritative, bounded, audi
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [3.2 Truth](core_00-01_principles.md#32-truth-epistemic-integrity-constraint), [6.4 Rights-Collision Procedure](core_00-01_principles.md#64-rights-collision-procedure), and [10. Interpretive Role](core_00-01_principles.md#10-interpretive-role).
+- Upstream: Principles: Chapter One [4.2 Truth](core_00-01_principles.md#42-truth-epistemic-integrity-constraint), [7.4 Rights-Collision Procedure](core_00-01_principles.md#74-rights-collision-procedure), and [11. Integrated Application](core_00-01_principles.md#11-integrated-application).
 
 </details>
 
@@ -1603,7 +1603,7 @@ Final **constitutional** interpretation must remain authoritative, bounded, audi
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [6.4 Rights-Collision Procedure](core_00-01_principles.md#64-rights-collision-procedure), [7.2 Incentive Alignment and System Capture](core_00-01_principles.md#72-incentive-alignment-and-system-capture), and [10. Interpretive Role](core_00-01_principles.md#10-interpretive-role).
+- Upstream: Principles: Chapter One [7.4 Rights-Collision Procedure](core_00-01_principles.md#74-rights-collision-procedure), [8.2 Incentive Alignment and System Capture](core_00-01_principles.md#82-incentive-alignment-and-system-capture), and [11. Integrated Application](core_00-01_principles.md#11-integrated-application).
 
 </details>
 
