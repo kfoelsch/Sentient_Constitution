@@ -79,6 +79,10 @@
     {
       "avoid": "posture",
       "prefer": "stance, approach, inputs, classification, framing, rule, profile, or a concrete noun"
+    },
+    {
+      "avoid": "Definition map",
+      "prefer": "integrate term relationships in plain prose; use *In plain terms* for reader orientation"
     }
   ],
   "ambiguous_labels": [
@@ -127,6 +131,11 @@
       "name": "non-operative-explanatory-framing",
       "pattern": "\\bnon-operative explanatory framing\\b",
       "suggestion": "Prefer a simpler phrase such as 'non-binding explanation'."
+    },
+    {
+      "name": "definition-map-label",
+      "pattern": "\\*\\*Definition map\\.\\*\\*|\\bDefinition map\\.",
+      "suggestion": "Integrate term relationships in plain prose; use *In plain terms* for reader orientation instead of **Definition map.**"
     }
   ]
 }

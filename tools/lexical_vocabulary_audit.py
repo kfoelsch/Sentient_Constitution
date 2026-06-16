@@ -60,6 +60,7 @@ _TRIBUNAL_ALLOWED_EXTERNAL = re.compile(
 _RIGHTS_FLOOR_CASING = re.compile(r"\b(?:rights floor|rights floors|rights-floor)\b")
 _FOUNDATIONAL_RIGHTS_CASING = re.compile(r"\b(?:Foundational rights|foundational rights)\b")
 _SHOULD_NOT_PROHIBITION = re.compile(r"\bshould\s+not\b", re.IGNORECASE)
+_DEFINITION_MAP_LABEL = re.compile(r"\*\*Definition map\.\*\*|\bDefinition map\.", re.IGNORECASE)
 
 _MALFORMED_CONSTITUTIONAL: list[tuple[str, re.Pattern[str]]] = [
     ("dangling-this-constitutional", re.compile(r"\bthis constitutional\.")),
@@ -495,6 +496,31 @@ def scan_malformed_constitutional_phrasing(rel_path: str, text: str) -> list[Fin
     return findings
 
 
+def scan_avoid_definition_map_label(rel_path: str, text: str) -> list[Finding]:
+    """Reject **Definition map.** meta-labels; integrate term relationships in plain prose."""
+    findings: list[Finding] = []
+    lines = text.splitlines()
+    in_fence = False
+
+    for idx, raw in enumerate(lines, start=1):
+        if raw.strip().startswith("```"):
+            in_fence = not in_fence
+            continue
+        if in_fence:
+            continue
+        if _DEFINITION_MAP_LABEL.search(raw):
+            findings.append(
+                Finding(
+                    file=rel_path,
+                    line=idx,
+                    rule="avoid-definition-map-label",
+                    text=raw.strip(),
+                ),
+            )
+
+    return findings
+
+
 def report_markdown(run_date: str, scope: list[str], findings: list[Finding]) -> str:
     lines: list[str] = [
         f"# Lexical vocabulary audit — {run_date}",
@@ -512,6 +538,7 @@ def report_markdown(run_date: str, scope: list[str], findings: list[Finding]) ->
         "- **`load-bearing-rights-floor-casing`:** reject lowercase **rights floor**, **rights floors**, and **rights-floor** outside Markdown link targets and inline code → use **Rights Floor**, **Rights Floors**, or **Rights-Floor** for the named Chapter Ten layer.",
         "- **`load-bearing-foundational-rights-casing`:** reject **Foundational rights** / **foundational rights** outside Markdown link targets and inline code → use **Foundational Rights** when naming the Chapter Ten title or layer.",
         "- **`avoid-should-not-prohibitions`:** reject **should not** in corpus prose → use **must not** for binding negative constraints.",
+        "- **`avoid-definition-map-label`:** reject **Definition map.** → integrate term relationships in plain prose; use *In plain terms* for reader orientation.",
         "",
         "## Scope",
     ]
@@ -575,6 +602,7 @@ def main() -> int:
         findings.extend(scan_avoid_tribunal_family(rel_path, text))
         findings.extend(scan_load_bearing_capitalization(rel_path, text))
         findings.extend(scan_avoid_should_not_prohibitions(rel_path, text))
+        findings.extend(scan_avoid_definition_map_label(rel_path, text))
         if rel_path in _BREACH_FAMILY_SCOPE:
             findings.extend(scan_avoid_breach_family(rel_path, text))
 
