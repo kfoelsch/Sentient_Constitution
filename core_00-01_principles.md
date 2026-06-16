@@ -57,6 +57,8 @@ This hierarchy is an interpretive rule of last resort and does not license:
 - rights contraction outside expressly permitted interaction rules
 - substitution of one layer for another under ordinary operation
 
+Each principle in this chapter applies together with the [Constitutional Triad](#constitutional-triad) established in [Chapter 00](#chapter-00-preamble--foundational-requirements). Section traces identify which leg or legs are materially implicated and whether duties scale with [material stake](#material-stake).
+
 #### Canonical conflict resolution procedure
 
 This subsection is the **single canonical procedure** for resolving interpretive tension **within the binding constitutional source** (the integrated `core_*` instrument) and for reading **strictest** / **stricter** language in **[Chapter Fifteen](core_15-15_incorporation.md#2-authority-stack-and-invocation)** section 2 (*Conflict order*).
@@ -71,6 +73,7 @@ This subsection is the **single canonical procedure** for resolving interpretive
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
+- Upstream: [Chapter 00 — Constitutional Triad](#constitutional-triad); [material stake](#material-stake) scaling applies chapter-wide through section traces.
 - Upstream: Principles: [Chapter One](#chapter-01-principles-and-constraints) as the integrated value-and-constraint layer.
 - Downstream: [2. Foundational Objective: Wellbeing](#2-foundational-objective-wellbeing), [§2.2 Recognition, Reinforcement, and Aspiration](#22-recognition-reinforcement-and-aspiration), [3.1 Safety](#31-safety-harm-constraint), [3.2 Truth](#32-truth-epistemic-integrity-constraint), [4. Trust](#4-system-stability-enabler-trust-coordination-integrity), [§5.2 Stewardship and Distributed Understanding](#52-stewardship-and-distributed-understanding), [6. Interaction and Conflict Resolution](#6-interaction-and-conflict-resolution), and [§8 Freedom](#8-freedom-bounded-agency).
 - Read with: [Chapters Two through Four](core_02-04_definition_mechanics.md) and [Chapter Five](core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) — the governing mechanics layer for every term used in this chapter; apply O/E/C integrity, anti-evasion, burden, and traceability discipline.
@@ -107,6 +110,7 @@ No single principle may be applied in isolation where doing so would materially 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
+- Read with: [Constitutional Triad](#constitutional-triad) — **participation** and **accountability** legs where wellbeing claims affect voice, access, or burden allocation; [material stake](#material-stake) scaling where materially relevant.
 - Upstream: Principles: [1. Purpose and Role](#1-purpose-and-role).
 - Downstream: [3.1 Safety](#31-safety-harm-constraint), [3.2 Truth](#32-truth-epistemic-integrity-constraint), [§5.2 Stewardship and Distributed Understanding](#52-stewardship-and-distributed-understanding), and [6. Interaction and Conflict Resolution](#6-interaction-and-conflict-resolution).
 - Subsections: [§2.1 Fairness](#21-fairness); [§2.2 Recognition, Reinforcement, and Aspiration](#22-recognition-reinforcement-and-aspiration).
@@ -146,6 +150,7 @@ At this value layer, wellbeing:
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
+- Read with: [Constitutional Triad](#constitutional-triad) — **participation** leg (access, voice, and contestability; general requirement, not [Stakeholder System Participation](core_05-05_definitions_c_dependent_clusters.md#stakeholder-status-emergency-and-participation-weight-cluster) alone); **accountability** leg where benefits and burdens attach.
 - Upstream: Principles: [2. Foundational Objective: Wellbeing](#2-foundational-objective-wellbeing).
 - Downstream: [2.2 Recognition, Reinforcement, and Aspiration](#22-recognition-reinforcement-and-aspiration); [4. Trust](#4-system-stability-enabler-trust-coordination-integrity), [§5.2 Stewardship and Distributed Understanding](#52-stewardship-and-distributed-understanding), [6. Interaction and Conflict Resolution](#6-interaction-and-conflict-resolution), and [6.4.1 Rights-Collision Decision Test](#641-rights-collision-decision-test) where precedence and allocation choices must remain coherent and reviewable.
 - Downstream: Shapes the rights surface for equal standing, non-arbitrary treatment, meaningful challenge, and proportionate restriction limits.
@@ -181,6 +186,7 @@ These facets read through [Dignity and Equal Moral Standing](core_05-05_definiti
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
+- Read with: [Constitutional Triad](#constitutional-triad) — **accountability** leg (anti-reward for betrayal, concealment, and accountability avoidance); **oversight** leg (traceable, non-misleading acclaim).
 - Upstream: Principles: [2. Foundational Objective: Wellbeing](#2-foundational-objective-wellbeing); [2.1 Fairness](#21-fairness).
 - Downstream: [4. Trust](#4-system-stability-enabler-trust-coordination-integrity); [§5.2 Stewardship and Distributed Understanding](#52-stewardship-and-distributed-understanding); [7.2 Incentive Alignment and System Capture](#72-incentive-alignment-and-system-capture); [§8 Freedom](#8-freedom-bounded-agency).
 - Read with: [Chapter Six §1.1 — Shared domain lenses (cross-axis vocabulary)](core_07-07_standing_integration.md#11-shared-domain-lenses-cross-axis-vocabulary) where **domain-aligned** recognition or comparative **Axis I / Axis II** supplemental narratives are material.
@@ -223,6 +229,7 @@ Granular ceremonies, curricula, budgets, programs, and metrics belong in adoptin
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
+- Read with: [Constitutional Triad](#constitutional-triad) — **oversight** and **accountability** legs; [material stake](#material-stake) scaling.
 - Upstream: Principles: [2. Foundational Objective: Wellbeing](#2-foundational-objective-wellbeing).
 - Downstream: [3.3 Science-Informed Inquiry and Decision Support](#33-science-informed-inquiry-and-decision-support), [4. Trust](#4-system-stability-enabler-trust-coordination-integrity), [§8 Freedom](#8-freedom-bounded-agency), [6. Interaction and Conflict Resolution](#6-interaction-and-conflict-resolution), and [6.2.1 Preservation of Epistemic Integrity](#621-preservation-of-epistemic-integrity).
 - Downstream: Shapes the rights surface for reliable systems, info-sphere integrity, audit and review, lifecycle controls, experimentation boundaries, comprehensibility, adaptive response, and emergency handling.
@@ -260,6 +267,7 @@ Safety forbids system conduct or omission that materially increases uncontained 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
+- Read with: [Constitutional Triad](#constitutional-triad) — **oversight** and **accountability** legs; [material stake](#material-stake) scaling.
 - Upstream: Principles: [2. Foundational Objective: Wellbeing](#2-foundational-objective-wellbeing).
 - Downstream: [3.3 Science-Informed Inquiry and Decision Support](#33-science-informed-inquiry-and-decision-support), [4. Trust](#4-system-stability-enabler-trust-coordination-integrity), [6. Interaction and Conflict Resolution](#6-interaction-and-conflict-resolution), [6.2.1 Preservation of Epistemic Integrity](#621-preservation-of-epistemic-integrity), [6.2.2 Trust-Truth Alignment](#622-trust-truth-alignment), and [9. Prohibition on Absolute Override](#9-prohibition-on-absolute-override).
 - Downstream: Anchors the rights surface for truthful evidence, auditability, scientific integrity, retrospective review, and contestable disclosure.
@@ -297,6 +305,7 @@ Where Safety or Truth determinations affect contribution state, verified violati
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
+- Read with: [Constitutional Triad](#constitutional-triad) — **oversight** leg (independent scrutiny, auditability); **participation** leg where affected parties must understand and challenge empirical claims; [material stake](#material-stake) scaling.
 - Upstream: Principles: [3.1 Safety](#31-safety-harm-constraint) and [3.2 Truth](#32-truth-epistemic-integrity-constraint).
 - Downstream: [4. Trust](#4-system-stability-enabler-trust-coordination-integrity), [§5.2 Stewardship and Distributed Understanding](#52-stewardship-and-distributed-understanding), [6.2 Epistemic Disclosure Constraints](#62-epistemic-disclosure-constraints), [7.1 Required Evaluation Factors](#71-required-evaluation-factors), and [7.2 Incentive Alignment and System Capture](#72-incentive-alignment-and-system-capture).
 - Downstream: Shapes the rights surface for reliable empirical evidence, expert-evidence standards, scientific publication and replication integrity, independent verification, lifecycle testing, root-cause review, and safety-sensitive disclosure.
@@ -343,6 +352,7 @@ Safety-sensitive limits on publication, data access, method disclosure, or repli
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
+- Read with: [Constitutional Triad](#constitutional-triad) — **participation** leg (understandable engagement); **oversight** leg (audit and verification readability); [material stake](#material-stake) scaling.
 - Upstream: Principles: [3.2 Truth](#32-truth-epistemic-integrity-constraint), [3.3 Science-Informed Inquiry and Decision Support](#33-science-informed-inquiry-and-decision-support), [6.1.4 Minimization of Avoidable Burden](#614-minimization-of-avoidable-burden), and [7.2.2 Stewardship and Operator Incentive Alignment](#722-stewardship-and-operator-incentive-alignment).
 - Downstream: Rights surface: [Article V-G: Accessibility](core_10-10_rights_part_b.md#article-v-g-accessibility), [Article VI: Right to Sentient-Centered Education](core_10-10_rights_part_b.md#article-vi-right-to-sentient-centered-education), [Article XV: Audit, Transparency, and Independent Verification](core_10-10_rights_part_c.md#article-xv-audit-transparency-and-independent-verification), [Article XX: Comprehensibility and Complexity Stewardship](core_10-10_rights_part_c.md#article-xx-comprehensibility-and-complexity-stewardship).
 - Cross-reference: Chapter Two through Four definition mechanics and plain-language guardrails in [core_02-04_definition_mechanics.md](core_02-04_definition_mechanics.md) remain controlling at the definition layer.
@@ -407,6 +417,7 @@ Plain-language stewardship must not run in reverse either. Framing that misrepre
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
+- Read with: [Constitutional Triad](#constitutional-triad) — **oversight** leg (contestable detection of systemic risk); **accountability** leg (answerability for misleading reliance).
 - Upstream: Principles: [§2.2 Recognition, Reinforcement, and Aspiration](#22-recognition-reinforcement-and-aspiration); [3.1 Safety](#31-safety-harm-constraint); and [3.2 Truth](#32-truth-epistemic-integrity-constraint).
 - Downstream: [§5.2 Stewardship and Distributed Understanding](#52-stewardship-and-distributed-understanding), [6.2.1 Preservation of Epistemic Integrity](#621-preservation-of-epistemic-integrity), [6.2.2 Trust-Truth Alignment](#622-trust-truth-alignment), and [9. Prohibition on Absolute Override](#9-prohibition-on-absolute-override).
 - Downstream: Shapes the rights surface for agency, reliable reliance, transparency, standing, and anti-capture review.
@@ -439,6 +450,7 @@ Trust is a constitutional coordination condition grounded in truth and demonstra
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
+- Read with: [Constitutional Triad](#constitutional-triad) — **oversight** and **accountability** legs; [material stake](#material-stake) scaling for recovery and audit depth.
 - Upstream: Principles: [3.1 Safety](#31-safety-harm-constraint), [3.2 Truth](#32-truth-epistemic-integrity-constraint), and [4. Trust](#4-system-stability-enabler-trust-coordination-integrity).
 - Downstream: [§5.2 Stewardship and Distributed Understanding](#52-stewardship-and-distributed-understanding), [6.1.4 Minimization of Avoidable Burden](#614-minimization-of-avoidable-burden), [7.1 Required Evaluation Factors](#71-required-evaluation-factors), [7.2 Incentive Alignment and System Capture](#72-incentive-alignment-and-system-capture), and [9. Prohibition on Absolute Override](#9-prohibition-on-absolute-override).
 - Downstream: Shapes the rights surface for reliability-with-recovery, root-cause honesty, reversibility, and comprehensibility of degraded and restoring states.
@@ -477,7 +489,7 @@ Operative detail on recovery detection, containment, safe-failure preference, no
 
 ### 5. Shared-System Capacity and Stewardship
 
-This section states the capacity, understanding, participation, and institutional-learning conditions that make bounded agency durable in systems sentients materially depend on. It is intentionally preparatory: §5 builds the shared-system conditions that make [§8 Freedom](#8-freedom-bounded-agency) meaningful rather than merely formal.
+This section states the capacity, understanding, participation, and institutional-learning conditions that make bounded agency durable in systems sentients materially depend on. It is intentionally preparatory: §5 builds the shared-system conditions that make [§8 Freedom](#8-freedom-bounded-agency) meaningful rather than merely formal. It operationalizes the [Constitutional Triad](#constitutional-triad) **participation** and **oversight** legs — scaled to [material stake](#material-stake) — through capacity preservation and distributed stewardship.
 
 This section is organized around two major subsections:
 - [§5.1 Shared-System Capacity](#51-shared-system-capacity) states what shared systems must preserve and improve: Productive Capacity, Constitutional Efficiency, non-concentration, and pro-competition discipline that keeps capacity broadly beneficial and contestable.
@@ -493,6 +505,7 @@ The reader path through §§5-7 is sequential:
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
+- Read with: [Constitutional Triad](#constitutional-triad) — all three legs where concentration or domination defeats voice, scrutiny, or answerability; [material stake](#material-stake) scaling (especially [§5.1.4 Pro-Competition and Anti-Domination](#514-pro-competition-and-anti-domination)).
 - Upstream: Principles: [2. Foundational Objective: Wellbeing](#2-foundational-objective-wellbeing), [4. Trust](#4-system-stability-enabler-trust-coordination-integrity), and [5. Shared-System Capacity and Stewardship](#5-shared-system-capacity-and-stewardship).
 - Downstream: [6.1.4 Minimization of Avoidable Burden](#614-minimization-of-avoidable-burden), [7.2 Incentive Alignment and System Capture](#72-incentive-alignment-and-system-capture), and [7.2.2 Stewardship and Operator Incentive Alignment](#722-stewardship-and-operator-incentive-alignment).
 - Downstream: Shapes the rights surface for ecological preconditions, resource allocation, educational and developmental capacity, lifecycle resilience, interoperability, comprehensibility, and adaptive response; especially [Article I-A: Environmental Preconditions and Ecological Integrity](core_10-10_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity), [Article III: Survival and Equal Educational Access](core_10-10_rights_part_a.md#article-iii-survival-and-equal-educational-access), [Article IV: Resource Allocation, Dependencies, and Ecosystem Funding](core_10-10_rights_part_a.md#article-iv-resource-allocation-dependencies-and-ecosystem-funding), [Article IX: Self-Determination and Agency](core_10-10_rights_part_b.md#article-ix-self-determination-and-agency), [Article XVI: System Lifecycle, Environments, and Reversibility](core_10-10_rights_part_c.md#article-xvi-system-lifecycle-environments-and-reversibility), [Article XIX: Interoperability, Portability, and Exit Integrity](core_10-10_rights_part_c.md#article-xix-interoperability-portability-and-exit-integrity), [Article XX: Comprehensibility and Complexity Stewardship](core_10-10_rights_part_c.md#article-xx-comprehensibility-and-complexity-stewardship), and [Article XXI: Root Cause Analysis and Adaptive Response](core_10-10_rights_part_c.md#article-xxi-root-cause-analysis-and-adaptive-response).
@@ -600,7 +613,9 @@ This provision states threshold-mechanism discipline at principle-layer. It does
 
 *In plain terms: the Constitution does not punish a system merely for being large, useful, or temporarily ahead because it genuinely innovated. It does prohibit durable domination: control over markets, labor, platforms, infrastructure, data, compute, credentials, or resources that lets an actor lock others in, block rivals, suppress fair bargaining, or capture constitutional accountability.*
 
-Shared-system capacity must remain contestable in practice. Where sentients depend on markets, platforms, infrastructure, labor arrangements, resource flows, data access, compute access, credentials, or comparable productive conditions for material opportunity, livelihood, agency, wellbeing, or constitutional review, governing systems and market-structuring arrangements must preserve:
+Shared-system capacity must remain contestable in practice. Under the [Constitutional Triad](#constitutional-triad), domination that hollows **participation**, **oversight**, or **accountability** — scaled to [material stake](#material-stake) — is incompatible with this section regardless of scale or efficiency claims.
+
+Where sentients depend on markets, platforms, infrastructure, labor arrangements, resource flows, data access, compute access, credentials, or comparable productive conditions for material opportunity, livelihood, agency, wellbeing, or constitutional review, governing systems and market-structuring arrangements must preserve:
 
 - contestable participation;
 - meaningful substitutability and exit;
@@ -660,6 +675,7 @@ Adopter-tunable ceilings may vary by domain and jurisdictional context, but they
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
+- Read with: [Constitutional Triad](#constitutional-triad) — primary Chapter One home for the **participation** leg (consequential roles and voice; general requirement, not [Stakeholder System Participation](core_05-05_definitions_c_dependent_clusters.md#stakeholder-status-emergency-and-participation-weight-cluster) alone) and **oversight** leg; [material stake](#material-stake) scaling.
 - Upstream: Principles: [2. Foundational Objective: Wellbeing](#2-foundational-objective-wellbeing); [3.2 Truth](#32-truth-epistemic-integrity-constraint); [4. Trust](#4-system-stability-enabler-trust-coordination-integrity); and [§5.1 Shared-System Capacity](#51-shared-system-capacity).
 - Downstream: [6. Interaction and Conflict Resolution](#6-interaction-and-conflict-resolution) (including [6.1.4 Minimization of Avoidable Burden](#614-minimization-of-avoidable-burden)); [7.1 Required Evaluation Factors](#71-required-evaluation-factors); [7.2.3 Role Depth and Material Responsibility Pathways](#723-role-depth-and-material-responsibility-pathways).
 - Downstream: [8. Freedom (Bounded Agency)](#8-freedom-bounded-agency), which depends on consequential stewardship, distributed understanding, meaningful participation, and repair capacity remaining real under material dependency.
@@ -694,7 +710,7 @@ Adopter-tunable ceilings may vary by domain and jurisdictional context, but they
 
 <br>
 
-**Definition map.** Strategic Stewardship Obligation, Meaningful Agency, Auditability, and Contestability state the stewardship function. Educational Agency and Transparency state the distributed-understanding function that stewardship must produce. Review and correction remain necessary backstops, but they do not replace proactive system design and constitutional alignment.
+**Definition map.** Strategic Stewardship Obligation, Meaningful Agency, Auditability, and Contestability state the stewardship function. Educational Agency and Transparency state the distributed-understanding function that stewardship must produce. Review and correction remain necessary backstops, but they do not replace proactive system design and constitutional alignment. Together they implement the [Constitutional Triad](#constitutional-triad) **participation** and **oversight** legs at principle layer, scaled to [material stake](#material-stake).
 
 Materiality, Dependency, and Accessibility govern evidence, scaling, and actual access. Safety, Truth, Necessity, Proportionality, Avoidable Burden, and Epistemic Integrity bound the duty so stewardship, understanding, and openness remain proportionate, truthful, and security-aware.
 
@@ -842,6 +858,7 @@ This does **not** elevate openness above **Safety**, **Truth**, justified confid
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
+- Read with: [Constitutional Triad](#constitutional-triad) — all three legs (procedure, disclosure, collision, and redress); [material stake](#material-stake) scaling.
 - Upstream: Principles: [2. Foundational Objective: Wellbeing](#2-foundational-objective-wellbeing), [3.1 Safety](#31-safety-harm-constraint), [3.2 Truth](#32-truth-epistemic-integrity-constraint), [4. Trust](#4-system-stability-enabler-trust-coordination-integrity), and [§5.2 Stewardship and Distributed Understanding](#52-stewardship-and-distributed-understanding).
 - Downstream: [6.2.1 Preservation of Epistemic Integrity](#621-preservation-of-epistemic-integrity), [6.4.1 Rights-Collision Decision Test](#641-rights-collision-decision-test), [8. Freedom](#8-freedom-bounded-agency), and [9. Prohibition on Absolute Override](#9-prohibition-on-absolute-override).
 - Downstream: Governs cross-article conflicts across [Chapter Ten: Foundational Rights](core_10-10_rights_part_a.md#chapter-ten-foundational-rights).
@@ -863,6 +880,8 @@ This does **not** elevate openness above **Safety**, **Truth**, justified confid
 *In plain terms: when values collide, Safety and Truth come first. The rest must be resolved through the tradeoff and rights-collision rules in this section — not by treating one value as a trump card, and not by letting many small decisions combine into a result the Constitution would reject.*
 
 Non-negotiable constraints (Safety and Truth) take precedence over other values where conflicts cannot be resolved without violation.
+
+Tradeoffs among other values must preserve the [Constitutional Triad](#constitutional-triad) — **oversight**, **participation**, and **accountability** scaled to [material stake](#material-stake) — not weaken it as the price of resolution.
 
 Repeated or aggregated decisions that individually satisfy these constraints must not, in combination, produce outcomes that would violate them when evaluated collectively. Where values or constraints otherwise interact or conflict, systems must resolve them under the following principles:
 
@@ -967,6 +986,7 @@ Where incentive structures act on stewards or operators, this subsection reinfor
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
+- Read with: [Constitutional Triad](#constitutional-triad) — **oversight** leg (disclosure limits must preserve maximum feasible scrutiny); **participation** leg (informed contestability under limits); [material stake](#material-stake) scaling.
 - Upstream: Principles: [3.1 Safety](#31-safety-harm-constraint), [3.2 Truth](#32-truth-epistemic-integrity-constraint), [4. Trust](#4-system-stability-enabler-trust-coordination-integrity), and [6. Interaction and Conflict Resolution](#6-interaction-and-conflict-resolution).
 - Downstream: [6.2.2 Trust-Truth Alignment](#622-trust-truth-alignment) and [9. Prohibition on Absolute Override](#9-prohibition-on-absolute-override).
 - Downstream: Protects the rights surface for info-sphere integrity, auditability, retrospective review, and informed contestability when disclosure is limited; especially [Article XIV: Info-Sphere Integrity](core_10-10_rights_part_c.md#article-xiv-info-sphere-integrity), [Article XV: Audit, Transparency, and Independent Verification](core_10-10_rights_part_c.md#article-xv-audit-transparency-and-independent-verification), [Article XXII: Constitutional Interpretation, Review, and Anti-Capture Safeguards](core_10-10_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards), and [Article XXIII-E: Retrospective Review and Disclosure](core_10-10_rights_part_d.md#article-xxiii-e-retrospective-review-and-disclosure), plus any rights context where disclosure limits affect contestability or informed participation.
@@ -1064,6 +1084,7 @@ Short-horizon optimization is invalid where it foreseeably produces medium- or l
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
+- Read with: [Constitutional Triad](#constitutional-triad) — all three legs must survive collision resolution; burden and scrutiny scale with [material stake](#material-stake).
 - Upstream: Principles: [6. Interaction and Conflict Resolution](#6-interaction-and-conflict-resolution).
 - Downstream: [7.1 Required Evaluation Factors](#71-required-evaluation-factors), [8. Freedom](#8-freedom-bounded-agency), and [10. Interpretive Role](#10-interpretive-role).
 - Downstream: Supplies the decision procedure for rights collisions across [Chapter Ten: Foundational Rights](core_10-10_rights_part_a.md#chapter-ten-foundational-rights).
@@ -1090,7 +1111,7 @@ Short-horizon optimization is invalid where it foreseeably produces medium- or l
 
 *In plain terms: when rights or constraints conflict, the decision-maker must document the alternatives considered, meet a burden of proof that scales with the stakes, pick the least-restrictive option that actually works, and set review triggers. Preference, inertia, and convenience are not enough.*
 
-Where constitutional rights, constraints, or protections materially conflict in the same decision context, resolution must follow a documented and auditable rights-collision test.
+Where constitutional rights, constraints, or protections materially conflict in the same decision context, resolution must follow a documented and auditable rights-collision test. The selected resolution must not contract the [Constitutional Triad](#constitutional-triad) below what [material stake](#material-stake) requires.
 
 At minimum, the decision record must include:
 - Alternative Set and Rejection Reasons: materially feasible alternatives considered, including non-action baseline, with explicit reasons for rejection.
@@ -1126,12 +1147,13 @@ This section has two reader-facing jobs:
 - [§7.1 Required Evaluation Factors](#71-required-evaluation-factors) sets the minimum scope of a valid evaluation: system boundaries, materiality, dependency, risk, access, privacy, agency, and collective-organization effects.
 - [§7.2 Incentive Alignment and System Capture](#72-incentive-alignment-and-system-capture) checks whether the incentives and control structures acting on the system will preserve or undermine the constitutional outcome the evaluation claims to protect.
 
-Read together, §§5-7 move from capacity and stewardship, to tradeoff procedure, to whole-system validation. A decision that looks acceptable under §6 can still fail §7 if the evaluation omits material system effects or leaves misaligned incentives and capture pathways unaddressed.
+Read together, §§5-7 move from capacity and stewardship, to tradeoff procedure, to whole-system validation. A decision that looks acceptable under §6 can still fail §7 if the evaluation omits material system effects or leaves misaligned incentives and capture pathways unaddressed. Section 7 verifies that the [Constitutional Triad](#constitutional-triad) — scaled to [material stake](#material-stake) — will remain intact under the system's incentive and control structure, not only under its stated rationale.
 
 #### 7.1 Required Evaluation Factors
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
+- Read with: [Constitutional Triad](#constitutional-triad) — evaluation must assess whether required **oversight**, **participation**, and **accountability** will scale with [material stake](#material-stake) (especially [§7.1.2 Accessibility Under Sentience Non-Exclusion](#712-accessibility-under-sentience-non-exclusion)).
 - Upstream: Principles: [2. Foundational Objective: Wellbeing](#2-foundational-objective-wellbeing), [§5.2 Stewardship and Distributed Understanding](#52-stewardship-and-distributed-understanding), and [6. Interaction and Conflict Resolution](#6-interaction-and-conflict-resolution).
 - Downstream: [7.2 Incentive Alignment and System Capture](#72-incentive-alignment-and-system-capture), [8. Freedom](#8-freedom-bounded-agency), [9. Prohibition on Absolute Override](#9-prohibition-on-absolute-override), and [10. Interpretive Role](#10-interpretive-role).
 - Downstream: Supports the rights surface for environmental and resource conditions, system reliability, transparency, lifecycle resilience, portability, comprehensibility, adaptive response, and transition governance; especially [Article I: Environmental Survival](core_10-10_rights_part_a.md#article-i-environmental-survival), [Article II: Material Stewardship and Durable-Use Integrity](core_10-10_rights_part_a.md#article-ii-material-stewardship-and-durable-use-integrity), [Article III: Survival and Equal Educational Access](core_10-10_rights_part_a.md#article-iii-survival-and-equal-educational-access), [Article IV: Resource Allocation, Dependencies, and Ecosystem Funding](core_10-10_rights_part_a.md#article-iv-resource-allocation-dependencies-and-ecosystem-funding), [Article XII: Right to Reliable and Trustworthy Systems](core_10-10_rights_part_c.md#article-xii-right-to-reliable-and-trustworthy-systems), [Article XIV: Info-Sphere Integrity](core_10-10_rights_part_c.md#article-xiv-info-sphere-integrity), [Article XV: Audit, Transparency, and Independent Verification](core_10-10_rights_part_c.md#article-xv-audit-transparency-and-independent-verification), [Article XVI: System Lifecycle, Environments, and Reversibility](core_10-10_rights_part_c.md#article-xvi-system-lifecycle-environments-and-reversibility), [Article XVII: Sandboxed Innovation, Experimentation, and Creative Freedom](core_10-10_rights_part_c.md#article-xvii-sandboxed-innovation-experimentation-and-creative-freedom), [Article XIX: Interoperability, Portability, and Exit Integrity](core_10-10_rights_part_c.md#article-xix-interoperability-portability-and-exit-integrity), [Article XX: Comprehensibility and Complexity Stewardship](core_10-10_rights_part_c.md#article-xx-comprehensibility-and-complexity-stewardship), [Article XXI: Root Cause Analysis and Adaptive Response](core_10-10_rights_part_c.md#article-xxi-root-cause-analysis-and-adaptive-response), [Article XXIV: Constitutional Evolution and Non-Entrenchment](core_10-10_rights_part_d.md#article-xxiv-constitutional-evolution-and-non-entrenchment), and [Article XXV: Transition Governance, Continuity, and Re-Baselining](core_10-10_rights_part_d.md#article-xxv-transition-governance-continuity-and-re-baselining) where lifecycle, dependency, resilience, or lock-in effects matter.
@@ -1159,7 +1181,7 @@ Read together, §§5-7 move from capacity and stewardship, to tradeoff procedure
 
 *In plain terms: system evaluations must look beyond the immediate and local. They must cover cascading dependencies, scale effects, delayed and cumulative harms, adversarial misuse, existential risk, real accessibility across every kind of sentient, and privacy as a joint question across the Chapter Ten privacy loci.*
 
-No evaluation is complete if it considers only immediate or local effects. Evaluations that omit the factors below are invalid for system classification, governance, or decision-making under this Constitution. All binding applications of these principles must consider the following factors.
+No evaluation is complete if it considers only immediate or local effects. Evaluations that omit the factors below are invalid for system classification, governance, or decision-making under this Constitution. All binding applications of these principles must consider the following factors. Evaluations must also confirm that the [Constitutional Triad](#constitutional-triad) will meet [material stake](#material-stake) scaling for the system under review.
 
 For readability, the factors below perform three functions. Section 7.1.1 defines systemic scope and risk. Section 7.1.2 checks whether participation is real across sentient forms and ability profiles. Sections 7.1.3 through 7.1.5 prevent evaluation from being segmented in ways that evade privacy, voluntary agency, assembly, or collective-organization protections.
 
@@ -1215,6 +1237,7 @@ A matter within the cluster's admission scope must not be segmented into separat
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
+- Read with: [Constitutional Triad](#constitutional-triad) — primary Chapter One home for triad **capture** discipline (incentives must not hollow **oversight**, **participation**, or **accountability**); [material stake](#material-stake) scaling.
 - Upstream: Principles: [2. Foundational Objective: Wellbeing](#2-foundational-objective-wellbeing), [§2.2 Recognition, Reinforcement, and Aspiration](#22-recognition-reinforcement-and-aspiration), [3.1 Safety](#31-safety-harm-constraint), [3.2 Truth](#32-truth-epistemic-integrity-constraint), [4. Trust](#4-system-stability-enabler-trust-coordination-integrity), [§5.2 Stewardship and Distributed Understanding](#52-stewardship-and-distributed-understanding), and [7.1 Required Evaluation Factors](#71-required-evaluation-factors).
 - Downstream: [8. Freedom](#8-freedom-bounded-agency) and [9. Prohibition on Absolute Override](#9-prohibition-on-absolute-override).
 - Downstream: Targets the rights surface for agency, participation, incentive alignment, info-sphere integrity, standing, and anti-capture review across [Chapter Ten: Foundational Rights](core_10-10_rights_part_a.md#chapter-ten-foundational-rights); especially [Article IX: Self-Determination and Agency](core_10-10_rights_part_b.md#article-ix-self-determination-and-agency), [Article XI: Stakeholder System Participation, Representation, and Due Process](core_10-10_rights_part_b.md#article-xi-stakeholder-system-participation-representation-and-due-process), [Article XII-D: Incentive-Alignment Constraint](core_10-10_rights_part_c.md#article-xii-d-incentive-alignment-constraint), [Article XIV: Info-Sphere Integrity](core_10-10_rights_part_c.md#article-xiv-info-sphere-integrity), [Article XVIII: Standing and Participation Status](core_10-10_rights_part_c.md#article-xviii-standing-and-participation-status), and [Article XXII: Constitutional Interpretation, Review, and Anti-Capture Safeguards](core_10-10_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards).
@@ -1227,7 +1250,7 @@ A matter within the cluster's admission scope must not be segmented into separat
 
 Systems must ensure that incentive structures acting on agents, operators, or constituent components are aligned with the values and constraints defined in this Constitution.
 
-Those structures must not systematically undermine those values and constraints.
+Those structures must not systematically undermine those values and constraints. They must not capture, hollow, or misalign the [Constitutional Triad](#constitutional-triad) below what [material stake](#material-stake) requires.
 
 ##### 7.2.1 Alignment Requirement
 
@@ -1380,6 +1403,7 @@ Concentrated or obscured control structures that undermine challenge rights, ove
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
+- Read with: [Constitutional Triad](#constitutional-triad) — **participation** leg (meaningful agency and consequential roles); **accountability** leg (agency without answerability is incomplete); [material stake](#material-stake) scaling.
 - Upstream: Principles: [§2.2 Recognition, Reinforcement, and Aspiration](#22-recognition-reinforcement-and-aspiration); [3.1 Safety](#31-safety-harm-constraint); [3.2 Truth](#32-truth-epistemic-integrity-constraint); [4. Trust](#4-system-stability-enabler-trust-coordination-integrity); [§5.1 Shared-System Capacity](#51-shared-system-capacity); [§5.2 Stewardship and Distributed Understanding](#52-stewardship-and-distributed-understanding); [6. Interaction and Conflict Resolution](#6-interaction-and-conflict-resolution); and [7. Systemic Evaluation Requirement](#7-systemic-evaluation-requirement).
 - Downstream: [9. Prohibition on Absolute Override](#9-prohibition-on-absolute-override), [10. Interpretive Role](#10-interpretive-role), and [6.4.1 Rights-Collision Decision Test](#641-rights-collision-decision-test) where concrete applications require collision handling.
 - Downstream: Frames the rights surface for equal status, education, self-ownership, publication and likeness control, agency, cooperative interaction, due process, standing, and anti-capture review.
@@ -1425,6 +1449,7 @@ Feasibility claims that limit agency must be demonstrable under **Chapter Four**
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
+- Read with: [Constitutional Triad](#constitutional-triad) — no single value may be invoked to hollow **oversight**, **participation**, or **accountability** below [material stake](#material-stake) requirements.
 - Upstream: Principles: [2. Foundational Objective: Wellbeing](#2-foundational-objective-wellbeing), [3.1 Safety](#31-safety-harm-constraint), [3.2 Truth](#32-truth-epistemic-integrity-constraint), [4. Trust](#4-system-stability-enabler-trust-coordination-integrity), [§5.2 Stewardship and Distributed Understanding](#52-stewardship-and-distributed-understanding), [6. Interaction and Conflict Resolution](#6-interaction-and-conflict-resolution), and [8. Freedom](#8-freedom-bounded-agency).
 - Downstream: [10. Interpretive Role](#10-interpretive-role).
 - Downstream: Protects the rights surface against one-value override logic that would collapse equality, challenge rights, transparency, contestability, or bounded interpretation.
