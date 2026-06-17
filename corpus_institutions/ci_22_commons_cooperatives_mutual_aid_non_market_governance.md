@@ -30,7 +30,7 @@
 
 **2. Non-market reciprocity.** Institutions must map mutual aid and cooperative infrastructure to **Protocol S5** and **CI-11** so fiscal rules do not accidentally criminalize qualifying solidarity mechanisms.
 
-**3. Anti-romanticization guardrails.** Community process must include appeal to independent review when exclusion or informal power harms sentients; read **CI-18** section 2 and **CI-21**.
+**3. Anti-romanticization guardrails.** Community process must include appeal to independent review when exclusion or informal power harms sentients; read **CI-18.2** and **CI-21**.
 
 ---
 

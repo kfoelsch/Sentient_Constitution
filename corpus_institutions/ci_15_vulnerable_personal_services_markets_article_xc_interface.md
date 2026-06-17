@@ -23,10 +23,46 @@
 
 <br>
 
+*In plain terms: **CI-15** is the institutions layer's rulebook for regulating vulnerable personal-service markets — especially **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*) — without turning regulation into a back door for criminalization, stigma, or moral policing. Adults who voluntarily buy or sell sexual services are not criminals. Exploitation, trafficking, coercion, fraud, and harm to minors or people without decision-making capacity remain fully enforceable. Licensing, zoning, fines, platform bans, payment cutoffs, or housing rules cannot do quietly what criminal law is forbidden to do openly. Shared pathway-integrity floors live in **CJS-5.17**; the constitutional rights floor lives in **Articles X-C**, **X-A**, **V-B**, **I-C**, **IV-A**, **IV-C**, and **Chapter Five**; this file states what each institution must name, publish, and maintain locally.*
 
-Apply `corpus_joint_structure.md` **CJS-5.17** **High-vulnerability personal-service pathway integrity** for the shared floor. **CI-15** states only the Article X-C application-file owner duties for authorization, enforcement separation, transition records, and remedy routing.
+**Quick orientation**
 
-**Local Article X-C role map.** Name the office responsible for application-record custody; decriminalization and non-penal restriction predicates; coercion and invalid-consent intake; due-care and challenge records; remedy and escalation routes; intermediary and supervised-dependency owners; separation and anti-pretext review; workplace, housing, licensing, and transition route owners; and phased transition and record-relief publication. Read **CI-6**, **CI-9**, **CI-12**, and **CI-12.3** for local procedure, scaling, participation, and digital-pathway interfaces.
+- **The basic idea** — implement **Article X-C** through the same general regulatory families used for other lawful personal services (labor, safety, contracts, platforms, payments, dispute resolution), scaled by impact, dependency, isolation, and vulnerability — not through stigma-only singling out.
+- **What stays criminal** — exploitation of minors, people without decision-making capacity, trafficking, coercion, fraud, abuse of dependence, non-consensual acts, and comparable sexual exploitation. Decriminalization does not weaken those enforcement lanes.
+- **What must not happen** — civil fines, licensing denials, zoning blocks, platform visibility cuts, payment de-banking, housing exclusion, or data practices whose main practical effect is prohibition or harassment without a lawful risk predicate tied to real harm, invalid consent, or documented necessity.
+- **Lane separation** — institutions must keep ordinary regulation, exploitation-focused enforcement, and victim-access routes distinct. Exploitation labels must not be used to punish protected consensual conduct without facts; decriminalization must not be used as an excuse to deprioritize exploitation response.
+- **Transition and records** — adopting instruments must provide expungement, sealing, non-disclosure by default, or comparable relief for records and ongoing restrictive measures that predominantly reflect conduct no longer criminal under **Article X-C**.
+- **Read with** — **CI-6** for local procedure maps; **CI-9** for class and tier scaling; **CI-12** for participation and pathway accessibility; **CI-12.3** for digital self-service pathway integrity where platform enrollment, billing, or exit apply.
+
+*In plain terms: you should not need a lawyer to know whether a rule is ordinary workplace safety or a disguised ban on lawful work. If platforms, banks, landlords, or licensing offices can make protected activity functionally impossible while calling it "risk management," the pathway has failed — and if exploitation enforcement gets softer because consensual adult work is no longer a crime, that has failed too.*
+
+*Shared rules live elsewhere.*
+
+- **[CJS-5.17](../corpus_joint_structure.md)** (*Implementation and cross-implementation interoperability, portability, and exit-integrity terms*) — high-vulnerability personal-service pathway integrity: lawful access, practical exit, non-retaliatory reporting, proportionate due care, and anti-pretext separation between ordinary regulation and exploitation response.
+- **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*) in **Chapter Ten** — decriminalization floor, exploitation proscriptions, nondiscrimination, general-market integration, anti-circumvention, and transition relief. **Articles X-A**, **V-B**, **I-C**, **IV-A**, and **IV-C** and **Chapter Five** (*Protected Characteristics*, *Consent*, *Coercion and Manipulation*) remain the rights single home alongside **Article X-C**.
+- **`corpus_systems.md`** — market-mediated personal services interpretation and **S2**/**S3** scaling where platform, data, or system stewardship is material.
+- **CI-15 scope** — does not repeat those floors; states **Article X-C** application-file owner duties for authorization, enforcement separation, transition records, and remedy routing.
+
+**Apply**
+
+- Apply **CJS-5.17** **High-vulnerability personal-service pathway integrity** for the shared floor on lawful access, exit, reporting, due care, and anti-pretext separation.
+- **CI-15** states only local **Article X-C** application-file owner duties. Comparable lawful personal services should use comparable regulatory families unless documented **Necessity** and **Proportionality** justify differentiation.
+
+**Local Article X-C role map**
+
+Each institution in scope must name the office or body responsible for:
+
+- **application-record custody** — the official file showing how **Article X-C** is implemented locally, including predicates, procedures, and review history;
+- **decriminalization and non-penal restriction predicates** — the tests that distinguish lawful consensual activity from restrictions that would replicate forbidden criminal prohibition;
+- **coercion and invalid-consent intake** — how reports of coercion, fraud, incapacity, dependence abuse, trafficking, or non-consensual conduct are received and routed without retaliation against lawful reporters;
+- **due-care and challenge records** — documented risk assessment, proportionate safeguards, and accessible challenge paths scaled to material impact;
+- **remedy and escalation routes** — where affected people obtain non-criminal remedies and where stalled or conflicted review escalates;
+- **intermediary and supervised-dependency owners** — who supervises platforms, matchers, payment rails, landlords, employers, or other chokepoints that can make lawful participation functionally unavailable;
+- **separation and anti-pretext review** — independent review that ordinary regulation, exploitation enforcement, and incentive or visibility tools remain in separate lanes;
+- **workplace, housing, licensing, and transition route owners** — who handles parity with ordinary lawful cooperative work, housing access, licensing decisions, and phased record relief; and
+- **phased transition and record-relief publication** — how expungement, sealing, non-disclosure, retraining, and case-review programs are published and kept current.
+
+Read **CI-6**, **CI-9**, **CI-12**, and **CI-12.3** for local procedure, scaling, participation, and digital-pathway interfaces.
 
 ---
 

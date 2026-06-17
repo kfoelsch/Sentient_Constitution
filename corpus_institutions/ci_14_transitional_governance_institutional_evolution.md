@@ -24,13 +24,40 @@
 
 <br>
 
+*In plain terms: **CI-14** is the institutions layer's "how do we change structure without breaking rights or losing the thread?" rulebook — when an institution redesigns, merges, hands off authority, or moves from legacy operation toward constitutional operation, and what must stay documented, reviewable, and reversible while that happens. Transition is a bridge, not a permanent emergency. Temporary powers must expire, get reauthorized for real reasons, or roll back — and baseline rights cannot quietly shrink because the change is inconvenient. Shared continuity, authority-transfer, sunset, reauthorization, and challenge-pathway floors live in **CJS-5.18**; system phase structure, gate criteria, fallback handling, off-ramps, and re-baselining mechanics live in **Protocol T**; this file states what each institution must name, publish, and maintain locally.*
 
-Institutional redesign, consolidation, or transfer must preserve non-regression and continuity duties. Apply `corpus_joint_structure.md` **CJS-5.18** (*Implementation and cross-implementation data-retention and lifecycle-integrity terms*) **Transition continuity and authority-transfer lifecycle integrity** for the shared continuity, authority-transfer, sunset, reauthorization, and challenge-pathway floor. Where the transition materially involves constitutional systems, institutions must read this section with `corpus_systems.md` **Protocol T** (*Transition Constitution and Migration Governance*). **CI-14** (*Transitional governance and institutional evolution*) states the institutional custody, authorization, and oversight interface; Protocol T remains the operative home for system phase structure, gate criteria, fallback handling, off-ramps, and re-baselining mechanics.
+**Quick orientation**
 
-Institutional transition interface (Article XXV interface):
-- name the institution, role, or body that owns each transition authority, review authority, and evidence-custody duty;
-- publish local procedures for interim authority, review cadence, reauthorization, unresolved-risk explanation, and evidence custody under the CJS-5.18 transition floor;
-- document material institutional transition decisions, delays, reversals, and remediation actions in auditable form with rationale and risk implications.
+- **The basic idea** — institutional redesign, consolidation, or transfer must preserve non-regression and continuity duties. Rights and services do not get a gap year while someone reorganizes the org chart.
+- **Who owns what** — every transition authority, review authority, and evidence-custody duty must have a named institution, role, or body — not an informal working group with no accountability line.
+- **What must be published** — interim authority rules, review cadence, reauthorization windows, how unresolved risk is explained, and how evidence is kept through the handoff.
+- **What must be recorded** — material transition decisions, delays, reversals, and remediation actions, with rationale and risk implications, in auditable form.
+- **CI-14.1** — Article XXV-D role map for non-compliant property, seizure, and voluntary turnover incentives: who decides eligibility, holds custody, adjudicates payouts, executes enforcement, reviews outcomes, and runs the contest path.
+- **CI-14.2** — Article XXV-D trigger catalog, anti-abuse metrics, and publication requirements: what kinds of deprivation or incentive programs are in scope, what abuse signals to watch, and what summaries affected people and oversight bodies must receive.
+- **Read with** — **CI-5** for integrity routing and conflict disclosure; **CI-11** for stewardship and malus/clawback interfaces where **Class A**, **Class B**, or **Critical System Steward** scope applies; **CF-12** for forum continuity during transition; **Protocol T** when constitutional systems are materially involved.
+
+*In plain terms: "we're in transition" is not a license to suspend accountability. If an institution cannot say who holds interim power, when that power ends, how to challenge it, or what happens if the plan stalls, the transition is not constitutionally managed — no matter how many steering committees meet behind closed doors.*
+
+*Shared rules live elsewhere.*
+
+- **[CJS-5.18](../corpus_joint_structure.md)** (*Implementation and cross-implementation data-retention and lifecycle-integrity terms*) — transition continuity, authority-transfer lifecycle integrity, sunset, reauthorization, and challenge-pathway floors, especially **Transition continuity and authority-transfer lifecycle integrity**.
+- **Protocol T** (*Transition Constitution and Migration Governance*) in `corpus_systems.md` — system phase structure, gate criteria, fallback handling, off-ramps, and re-baselining mechanics.
+- **CJS-5.8** (*Implementation and cross-implementation integrity assurance and resilience operations*) — property-custody and incentive-separation control chains.
+- **CI-14 scope** — does not repeat those floors; states institutional custody, authorization, oversight, and publication duties against **Article XXV** (*Transition Governance, Continuity, and Re-Baselining*).
+
+**Apply**
+
+- Apply **CJS-5.18** **Transition continuity and authority-transfer lifecycle integrity** for the shared continuity, authority-transfer, sunset, reauthorization, and challenge-pathway floor.
+- Where the transition materially involves constitutional systems, institutions must read this section with **Protocol T**.
+- **CI-14** states the institutional custody, authorization, and oversight interface; **Protocol T** remains the operative home for system phase structure, gate criteria, fallback handling, off-ramps, and re-baselining mechanics.
+
+**Institutional transition interface (Article XXV interface)**
+
+Each institution in scope must name and maintain locally:
+
+- the institution, role, or body that owns each **transition authority**, **review authority**, and **evidence-custody duty**;
+- published local procedures for **interim authority**, **review cadence**, **reauthorization**, **unresolved-risk explanation**, and **evidence custody** under the **CJS-5.18** transition floor; and
+- auditable records of **material institutional transition decisions**, **delays**, **reversals**, and **remediation actions**, with rationale and risk implications.
 
 ### CI-14.1: Interface — Article XXV-D (non-compliant property, seizure, voluntary incentives)
 <details>
@@ -57,7 +84,23 @@ Institutional transition interface (Article XXV interface):
 
 <br>
 
-Apply `corpus_joint_structure.md` **CJS-5.8** **Property-custody and incentive-separation control chain** for the shared floor. **CI-14.1** states only the Article XXV-D role map: eligibility owner, custody body, incentive or payout adjudicator, enforcement executor, review authority, fund owner, notice channel, contest path, end-date authority, revalidation owner, and **CI-5** conflict-disclosure route. For **Class A**, **Class B**, and **Critical System Steward** scope, connect to **Protocol A** subsection **G** and **CI-11**.
+*In plain terms: when transition plans touch non-compliant property, seizure, impoundment, quarantine, or voluntary turnover incentives, every step in the chain needs a named owner — who decides someone is eligible, who holds the asset, who pays a bounty, who enforces, who reviews, who funds the program, how people are notified, and how they contest. The person who decides payouts must not be the same shop that decides seizures. For high-stakes **Class A**, **Class B**, and **Critical System Steward** scope, read with **Protocol A** subsection **G** and **CI-11**.*
+
+Apply **CJS-5.8** **Property-custody and incentive-separation control chain** for the shared floor. **CI-14.1** states only the **Article XXV-D** role map. Each institution in scope must name locally:
+
+- **eligibility owner** — who decides whether a case, asset, or claim qualifies;
+- **custody body** — who holds seized, impounded, or quarantined property or systems;
+- **incentive or payout adjudicator** — who decides voluntary-turnover or reporting incentives;
+- **enforcement executor** — who carries out deprivation or containment measures;
+- **review authority** — who independently reviews outcomes and proportionality;
+- **fund owner** — who governs incentive or remediation funds;
+- **notice channel** — how affected parties receive prompt, intelligible notice;
+- **contest path** — how challenges are filed, routed, and decided;
+- **end-date authority** — who sets and enforces sunset or program end dates;
+- **revalidation owner** — who re-checks continued necessity before reauthorization; and
+- the **CI-5** **conflict-disclosure route** when roles overlap or the same party holds incompatible duties.
+
+For **Class A**, **Class B**, and **Critical System Steward** scope, connect to **Protocol A** subsection **G** and **CI-11**.
 
 ### CI-14.2: Article XXV-D — trigger catalog, anti-abuse metrics, and publication requirements
 <details>
@@ -84,24 +127,39 @@ Apply `corpus_joint_structure.md` **CJS-5.8** **Property-custody and incentive-s
 
 <br>
 
+*In plain terms: **CI-14.2** turns **Article XXV-D** into a practical checklist institutions must publish in transition plans — what kinds of deprivation or incentive programs are allowed, what abuse patterns are out of bounds, what metrics show the program is not being weaponized, and what summaries ordinary people and oversight bodies receive on a fixed schedule. The constitutional rights floor lives in **Chapter Ten**; this subsection is implementation-only.*
 
 **Constitutional home:** **Chapter Ten**, **Article XXV-D** (*Non-Compliant Property, Seizure, Impoundment, Quarantine, Forfeiture, and Voluntary Turnover Incentives*). This subsection is **implementation-only**; it does not restate the Rights Floor.
 
-**Trigger catalog (for published transition and institution plans):**
-- **Compliance-linked deprivation** — seizure, impoundment, quarantine, or disposition tied to a **Chapter Six**-consistent or equivalent binding finding of non-compliance with applicable rules, with notice and contest paths as Article XXV-D requires.
+**Trigger catalog (for published transition and institution plans)**
+
+Institutions must publish which of the following apply in scope, with local procedure links:
+
+- **Compliance-linked deprivation** — seizure, impoundment, quarantine, or disposition tied to a **Chapter Six**-consistent or equivalent binding finding of non-compliance with applicable rules, with notice and contest paths as **Article XXV-D** requires.
 - **Remedial containment** — proportionate holding or restriction to stop ongoing harm, preserve evidence under [Evidence Preservation](../core_05-05_definitions_c_dependent_clusters.md#evidence-preservation), or prevent flight of assets, distinguished from retaliatory economic stripping.
 - **Voluntary turnover incentive** — time-bounded, published incentive for good-faith voluntary transfer or verified reporting that enables lawful remediation, with **Article XXV-B** reauthorization rules.
-- **Non-compliant examples (illustrative):** pretextual targeting of political opponents; bounty structures that pay on accusation without separation from enforcement; essential-access denial for **Article III-A** tools; selective enforcement correlated with protected-class proxies without individualized predicate.
 
-**Minimum anti-abuse metrics and fields (publish or make available to oversight bodies, scaled to class/tier):**
+**Non-compliant examples (illustrative)** — institutions must treat the following as out of scope or requiring immediate remediation design:
+
+- pretextual targeting of political opponents;
+- bounty structures that pay on accusation without separation from enforcement;
+- essential-access denial for **Article III-A** tools; and
+- selective enforcement correlated with protected-class proxies without individualized predicate.
+
+**Minimum anti-abuse metrics and fields**
+
+Publish or make available to oversight bodies, scaled to class/tier:
+
 - false-accusation or bad-claim rate for incentive programs where measurable;
 - privacy incidents linked to turnover or enforcement operations;
 - selective-enforcement indicators (divergence across comparators, unexplained cohort gaps);
 - **payout / seizure separation** — evidence that incentive adjudication does not control custody or seizure decisions;
-- appeal outcomes and time-to-decision for contests;
+- appeal outcomes and time-to-decision for contests; and
 - restitution or substitute safeguards for **non-culpable holders** where **Article XXV-D** requires proportionate treatment.
 
-**Periodic summaries:** Institutions must publish or provide stakeholder-facing summaries on a fixed cadence (at least annual for high-impact scope, more frequent when programs are active), subject to narrow security, safety, and privacy limits. Summaries must be intelligible without specialist training; raw sensitive data may be aggregated.
+**Periodic summaries**
+
+Institutions must publish or provide stakeholder-facing summaries on a fixed cadence (at least annual for high-impact scope, more frequent when programs are active), subject to narrow security, safety, and privacy limits. Summaries must be intelligible without specialist training; raw sensitive data may be aggregated.
 
 ---
 

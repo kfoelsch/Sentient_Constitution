@@ -23,18 +23,69 @@
 
 <br>
 
+*In plain terms: **CI-16** is the institutions layer's rulebook for innovation rewards — patents, copyrights, exclusivity deals, and similar claims — so creators get fair credit and compensation without turning a temporary reward into permanent lock-in. Innovators can be rewarded, but exclusivity must stay narrow, time-limited, and reviewable. Repair, research, education, interoperability, and public-interest access must not be blocked by a reward claim sitting in a drawer or a registry nobody can search. Shared anti-enclosure, public-interest-use, compulsory-access, anti-warehousing, and duration floors live in **CJS-5.17**; constitutional meaning lives in **Chapter Five** (*Innovation Reward and Anti-Enclosure*) and **Article XVII-D**; this file states what each institution must register, publish, review, and maintain locally.*
 
-**Purpose and owner boundary.** This section governs institutional handling of innovation-reward arrangements within constitutional scope. Constitutional meaning remains in **Chapter Five** (*Innovation Reward and Anti-Enclosure*) and **Chapter Ten**, **Article XVII-D**. Apply `corpus_joint_structure.md` **CJS-5.17** for the shared anti-enclosure, public-interest-use, compulsory-access, anti-warehousing, and duration/reclassification floors. **CI-16** states only the institutional registry, claim-record, access-order, sunset, specialist-review, and appeal duties.
+**Quick orientation**
 
-**1. Disclosure and registry.** Institutions must maintain a public searchable registry owner and entry format stating claimant identity, subject matter, scope, duration, disclosure materials, repair or migration implications, and any asserted secrecy or access limits.
+- **The basic idea** — reward real contribution and disclosure, but do not let reward become durable enclosure, artificial scarcity, or a chokepoint on things society depends on.
+- **What must be public** — a searchable registry showing who claims what, over what scope, for how long, with what disclosure materials, and what repair or migration limits they assert.
+- **What must stay accessible** — repair, safety work, independent verification, research, education, archiving, interoperability testing, and migration where those uses are otherwise lawful and proportionate.
+- **What gets tighter over time** — when an innovation becomes dependency-critical infrastructure — a platform, protocol, model, marketplace, or payment rail — remaining exclusivity must be reassessed, narrowed, converted, or sunset.
+- **Who decides disputes** — specialist review lanes separated from claim-granting or revenue-dependent functions, with **CI-8** escalation when local review stalls or is conflicted.
+- **Read with** — **CI-6** for local procedure maps; **CI-8** for cross-institution escalation; **CJS-5.5** for burden-of-justification and proportionality scaling; **CJS-5.17** for shared anti-enclosure floors.
 
-**2. Reward proportionality and class treatment.** Institutions must maintain the local evidence-record owner and claim-record format for reward scaling and class treatment under **CJS-5.17**.
+*In plain terms: attribution is not ownership forever. You can keep credit after exclusivity ends — but you cannot warehouse a critical standard, shelf a life-saving medicine behind a broad patent, or use secrecy to block repair because the registry says "innovation reward." If the institution that grants claims is also the only place to challenge them, the pathway has failed.*
 
-**3. Public-interest and corrective pathways.** Institutions must name the local procedure owner for public-interest, compulsory-access, anti-warehousing, and domain-carve-out intake under **CJS-5.17**.
+*Shared rules live elsewhere.*
 
-**4. Duration, review, and sunset.** Institutions must maintain the published expiry schedule, review calendar, claim-record update process, and specialist-review route. Apply **CJS-5.17** **Innovation-reward duration and reclassification controls** for shared timing and dependency-critical reclassification; **CI-16** supplies only the local review calendar and record-update duty.
+- **[CJS-5.17](../corpus_joint_structure.md)** (*Implementation and cross-implementation interoperability, portability, and exit-integrity terms*) — innovation reward boundary and anti-enclosure controls; access-preserving reward and anti-warehousing controls; innovation-reward duration and reclassification controls (including publication-based timing and dependency-critical tightening).
+- **Chapter Five** (*Innovation Reward and Anti-Enclosure*) and **Article XVII-D** (*Innovation Reward, Disclosure, and Anti-Enclosure*) in **Chapter Ten** — constitutional reward structure, temporary exclusivity limits, disclosure condition, public-interest floor, domain carve-outs, and reclassification duties.
+- **[CJS-5.5](../corpus_joint_structure.md)** (*Implementation and cross-implementation burden of justification and constraint terms*) — proportionality and burden scaling where reward claims affect material dependency or access burden.
+- **`corpus_systems.md`** **CS-4** — system classification and handling where innovation reward must scale with class, dependency, and coordination effects.
+- **CI-16 scope** — does not repeat those floors; states institutional registry, claim-record, access-order, sunset, specialist-review, and appeal duties.
 
-**5. Specialized review and appeal.** Institutions must maintain a dedicated review-lane office, structural separation from claim-granting or revenue-dependent functions, and secondary review / **CI-8** (*Cross-institution coordination and escalation*) escalation for innovation-reward disputes.
+**Apply**
+
+- Apply **CJS-5.17** for the shared anti-enclosure, public-interest-use, compulsory-access, anti-warehousing, and duration/reclassification floors.
+- Apply **CJS-5.17** **Innovation-reward duration and reclassification controls** for shared timing and dependency-critical reclassification; **CI-16** supplies only the local review calendar and record-update duty.
+- **CI-16** states only local institutional duties for disclosure, registry, claim records, corrective pathways, sunset, and dispute review.
+
+**What each institution must name and maintain locally**
+
+**1. Disclosure and registry**
+
+- **registry owner** — who maintains the public searchable registry and entry format;
+- **claimant identity and subject matter** — who is claiming reward over what;
+- **scope, duration, and disclosure materials** — what is excluded, for how long, and what has been disclosed for independent audit;
+- **repair and migration implications** — what the claim asserts about repair, interoperability, and exit; and
+- **secrecy or access limits** — any asserted confidentiality bounds and their justification route.
+
+**2. Reward proportionality and class treatment**
+
+- **evidence-record owner** — who keeps the local file showing how reward scaling and class treatment were decided;
+- **claim-record format** — the standard record layout for proportionality analysis under **CJS-5.17** and **CS-4** where system class is material; and
+- **class and dependency linkage** — how **Class A**, **Class B**, and **Class C** or dependency-critical status triggers tighter review or access-preserving reward tools.
+
+**3. Public-interest and corrective pathways**
+
+- **procedure owner** — who receives and routes public-interest, compulsory-access, anti-warehousing, and domain-carve-out requests;
+- **corrective-tool inventory** — published list of available paths (compulsory license, access order, buyout, reward conversion, sunset acceleration, or equivalent) under **CJS-5.17**; and
+- **intake and decision record** — auditable record of requests, outcomes, and escalation where corrective access is denied or delayed.
+
+**4. Duration, review, and sunset**
+
+- **published expiry schedule** — when each claim or exclusivity term is scheduled to end or convert;
+- **review calendar** — fixed cadence for dependency-critical and high-impact claim reassessment;
+- **claim-record update process** — how records are updated when scope, class, or dependency status changes; and
+- **specialist-review route** — where sunset, reclassification, or duration disputes are heard independently of claim-granting functions.
+
+**5. Specialized review and appeal**
+
+- **dedicated review-lane office** — a named body for innovation-reward disputes;
+- **structural separation** — review must be separated from claim-granting, registry custody, or revenue-dependent functions that could bias outcomes; and
+- **secondary review and CI-8 escalation** — the route when local specialist review stalls, is captured, or cannot act independently.
+
+Read **CI-6** and **CI-8** for local procedure maps and cross-institution escalation interfaces.
 
 ---
 
