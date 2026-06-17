@@ -1,3 +1,5 @@
+> **Archived 2026-06-16:** Obsolete plain-language companion from before the Chapter Six / Chapter Seven split. Superseded by Chapter Seven §§3.1–3.8 in [`core_07-07_standing_integration.md`](../core_07-07_standing_integration.md) (inline *In plain terms* gloss). Retained for historical reference only; not part of the operative corpus.
+
 # Chapter 6, Sections 5.1–5.8: Understanding Violation Types (Plain Language Version)
 
 **Support document (non-binding):** this file is a plain-language companion for general readers. It is **not** part of the numbered `core_*` binding chain in [README.md](README.md). For operative text, use [core_06-06_standing_assessment.md](core_06-06_standing_assessment.md) and [core_07-07_standing_integration.md](core_07-07_standing_integration.md).

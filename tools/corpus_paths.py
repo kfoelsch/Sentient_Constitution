@@ -14,7 +14,6 @@ CORE_FILES = (
     "core_05-05_definitions_b_semi_independent.md",
     "core_05-05_definitions_c_dependent_clusters.md",
     "core_06-06_standing_assessment.md",
-    "core_06-06_sections_5.1-5.8_plain_language.md",
     "core_07-07_standing_integration.md",
     "core_08-08_misconduct.md",
     "core_09-09_forum.md",
