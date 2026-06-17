@@ -16,7 +16,7 @@
 **Quick orientation**
 
 - **CI-2.1** — default reading stack when institutional text intersects other implementation layers (start here).
-- **CI-2.2** — how deliberately split institutional topics avoid duplication.
+- **CI-2.2** — how deliberately split institutional topics avoid duplication (shared floor in **CJS-2.2**; owner lookup in **CJS-2.1** or **ci_00**).
 
 ### CI-2.1: Institutional read-with contract
 <details>
@@ -57,17 +57,20 @@ For the two-tier definition contract, apply [CJS-2.3](../corpus_joint_structure/
 
 <br>
 
-*In plain terms: some institutional topics are split on purpose across several **CI** files — each file keeps its own slice without copying the whole rulebook.*
+*In plain terms: when one institutional topic is split across several **CI** files on purpose, each file keeps only its slice — and the authoritative owner for a cross-layer topic is named in **CJS-2.1**, not in a local table here.*
 
-Some institutional topics are **deliberately** split across **CI** sections — for example functional lanes (**CI-3**), appointment and removal (**CI-4**), procedure integrity (**CI-6**), and delegated subunits (**CI-9.3**).
+Apply [corpus_joint_structure.md](../corpus_joint_structure.md) **CJS-2.2** (*Intentional overlap (non-duplication discipline)*) for the shared non-duplication floor.
+
+This subsection states only **institutional-local** split discipline. Some institutional topics are **deliberately** split across **CI** sections — for example functional lanes (**CI-3**), appointment and removal (**CI-4**), procedure integrity (**CI-6**), and delegated subunits (**CI-9.3**).
 
 For those splits:
 
-- the **primary owner** named in [CJS-2.1](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) (*Topic router (stable IDs)*) states the **full operative** rules for its assigned scope;
+- the designated **primary owner** states the **full operative** rules for its assigned scope;
 - companion **CI** sections add only the interface text their scope requires;
+- for cross-layer topics, name the primary owner from the applicable row in [CJS-2.1](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) (*Topic router (stable IDs)*);
 - do **not** restate **CJS-5** operational clusters, **CS** classification tables, or **CF** checklists except in brief pointer form when needed for coherence.
 
-For cross-layer overlap discipline, apply [CJS-2.2](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-22-intentional-overlap-non-duplication-discipline) (*Intentional overlap (non-duplication discipline)*).
+For within-folder navigation by topic family, use [ci_00_registry_and_reading_rules.md](ci_00_registry_and_reading_rules.md) (*Institutions registry (stable section families)*).
 
 ---
 
