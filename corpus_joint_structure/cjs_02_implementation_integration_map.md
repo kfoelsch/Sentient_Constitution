@@ -11,7 +11,7 @@
 
 <br>
 
-*In plain terms: **CJS-2** explains how to read joint-structure rules together with **CS**, **CI**, and **CF** — the default reading order, topic routing, and how split topics avoid duplication. For which section owns a cross-layer topic, use **[CJS-0.1](cjs_00_registry_and_reading_rules.md#cjs-01-cross-file-routing)** or **CJS-2.1**; **CI-2**, **CF-2**, and **CS-2** mirror this pattern at the domain layer without maintaining a competing router table.*
+*In plain terms: **CJS-2** names where to read when a topic crosses layers — topic routing, overlap discipline, and definition tiers. Default reading stack: **CJS-1.1**; for which section owns a cross-layer topic, use **[CJS-0.1](cjs_00_registry_and_reading_rules.md#cjs-01-cross-file-routing)** or **CJS-2.1**; **CI-2**, **CF-2**, and **CS-2** mirror this pattern at the domain layer without maintaining a competing router table.*
 
 **Quick orientation**
 
@@ -33,22 +33,15 @@
 
 <br>
 
-*In plain terms: when a topic touches more than one implementation file, read in the default stack order — joint rules first, then systems, institutions, and forums — and only what **CJS-2.1** routes for the topic.*
+*In plain terms: apply the default reading stack in **CJS-1.1**; route topics and mandatory read-with through this section.*
 
-When implementation text intersects other implementation layers, apply the default reading stack in [CJS-1.1](cjs_01_scope_purpose_boundary_interface.md#cjs-11-joint-structural-boundary-and-owner-discipline) (*Joint structural boundary and owner discipline*):
-
-1. **CJS** joint rules first (**CJS-2.1** and **CJS-3**).
-2. **CS** for system classification and stewardship scale.
-3. **CI** for institutional governance and assurance.
-4. **CF** for **Chapter Nine** forum-family doctrine.
-
-Within that stack, read only what **CJS-2.1** routes for the topic.
+When implementation text intersects other implementation layers, apply the default reading stack in [CJS-1.1](cjs_01_scope_purpose_boundary_interface.md#cjs-11-joint-structural-boundary-and-owner-discipline) (*Joint structural boundary and owner discipline*). Within that stack, read only what **CJS-2.1** routes for the topic.
 
 Router rows are **indicative**, not exhaustive: if a matter triggers multiple rows, apply **all** triggered rows whose scope is materially true.
 
 For how **primary owner** and **mandatory read-with** work, read [CJS-0.1](cjs_00_registry_and_reading_rules.md#cjs-01-cross-file-routing) (*Cross-file routing*). For which section owns which topic, use that section, [topic_router_reader_index.md](../doc_architecture/generated/topic_router_reader_index.md), or the integrator router table in this section.
 
-Joint abstractions may specialize **Chapter Five** terms only through the two-tier contract in [CJS-2.3](#cjs-23-two-tier-definition-contract-binding-abstraction--owner-detail) (*Two-tier definition contract (binding abstraction + owner detail)*). They must not redefine constitutional terms or create parallel constitutional definitions.
+Joint abstractions and constitutional non-redefinition discipline: [CJS-1.1](cjs_01_scope_purpose_boundary_interface.md#cjs-11-joint-structural-boundary-and-owner-discipline) (*Joint structural boundary and owner discipline*) and the two-tier contract in [CJS-2.3](#cjs-23-two-tier-definition-contract-binding-abstraction--owner-detail) (*Two-tier definition contract (binding abstraction + owner detail)*).
 
 <details>
 <summary><strong><span style="color: #2563eb;">Integrator reference: full router table (stable row IDs)</span></strong></summary>
@@ -118,6 +111,19 @@ Domain-layer overlap discipline: apply **CI-2.2**, **CF-2.2**, and **CS-2.2** at
 <br>
 
 *In plain terms: CJS may adopt shared joint abstractions only where no single owner file can safely hold the term alone; tests, thresholds, and procedures stay in the primary owner named in **CJS-2.1**.*
+
+<details>
+<summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): two-tier definition contract</span></strong></summary>
+
+> The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this section or in other corpus files.
+
+Some ideas cut across **CJS**, **CS**, **CI**, and **CF**. **CJS-2.3** is the discipline for writing those shared ideas in two tiers — a binding skeleton in **CJS** and operative detail in the primary owner named in **CJS-2.1**. Constitutional and joint operational definition boundaries are in **CJS-1.1** (*Joint structural boundary and owner discipline*).
+
+**Illustrative split** — lawful panel formation when a forum cannot seat a full bench: **CJS** states shared scope, cross-layer triggers, and minimum joint consequences; the forum owner (**CF-4** and related rows in **CJS-2.1**) states disclosure, recusal, substitution, and inability-to-form mechanics.
+
+</details>
+
+<br>
 
 The CJS folder may adopt **binding high-level joint abstractions** only where a term or construct is materially cross-implementation and cannot be safely interpreted through a single owner file alone.
 

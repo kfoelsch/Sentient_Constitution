@@ -25,6 +25,28 @@
 
 *In plain terms: this file states cross-domain requirements that must be satisfied together when more than one implementation layer applies to the same facts. Routing, owner discipline, and the shared implementation-corpus contract are in **CJS-1.1** (*Joint structural boundary and owner discipline*), **CJS-1.2** (*Shared implementation-corpus preamble contract*), and **CJS-2.1** (*Topic router (stable IDs)*). Specific interlocks follow in [cjs_04_specific_joint_interlocks.md](cjs_04_specific_joint_interlocks.md).*
 
+<details>
+<summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): joint structural obligations</span></strong></summary>
+
+> The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this file or in other corpus files.
+
+The implementation corpus is split across **CJS**, **CS**, **CI**, and **CF**. A single real-world situation often touches more than one layer. **CJS-3** is the "you cannot cherry-pick" chapter: cross-cutting rules that must be true **all at once** when multiple layers apply to the same facts. Step-by-step procedures stay in owner files; this file states what must be satisfied together.
+
+| Section | In one line |
+|--------|-------------|
+| **CJS-3.1** | Joint rules apply when the router or adoption says multiple layers matter. |
+| **CJS-3.2** | Satisfy the whole chain; no partial compliance; emergencies must be explicit and bounded. |
+| **CJS-3.3** | Support roles do not decide merits unless law explicitly says they can. |
+| **CJS-3.4** | Institutions that run forum infrastructure must protect real independence. |
+| **CJS-3.5** | System risk and classification labels must align across institution and systems text. |
+| **CJS-3.6** | Cited rules stay traceable; the stricter adopted rule wins on the same risk. |
+
+**One-sentence summary** — when more than one implementation layer applies to the same situation, meet all material duties together; keep support separate from merits, keep forum independence real, keep classifications consistent, and when rules conflict, follow the stricter adopted standard.
+
+</details>
+
+<br>
+
 ### CJS-3.1 When joint obligations apply
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
@@ -168,6 +190,8 @@ Do not give a system one risk or classification label in institutional supervisi
 </details>
 
 <strong><span style="color: #2563eb;">Definition:</span></strong> [Sentient](../core_05-05_definitions_c_dependent_clusters.md#sentient-composite) · [O](../core_05-05_definitions_c_dependent_clusters.md#sentient-composite) · [E](../core_05-05_definitions_c_dependent_clusters.md#sentient-composite-e) · [C](../core_05-05_definitions_c_dependent_clusters.md#sentient-composite-c)
+
+<br>
 
 When **CS**, **CI**, or **CF** cite **CJS-5** (*Implementation and cross-implementation operational cluster library*) operational clusters, adopters must keep those references traceable and must not use implementation text to weaken them.
 

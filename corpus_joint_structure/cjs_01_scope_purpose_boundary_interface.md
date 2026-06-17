@@ -27,12 +27,7 @@
 
 **Quick orientation**
 
-The joint-structure layer (**CJS**) coordinates shared interfaces when more than one implementation layer applies to the same facts:
-
-- **CJS** — [corpus_joint_structure.md](../corpus_joint_structure.md)
-- **CS** — [corpus_systems.md](../corpus_systems.md)
-- **CI** — [corpus_institutions.md](../corpus_institutions.md)
-- **CF** — [corpus_forum.md](../corpus_forum.md)
+For the four implementation layers (**CJS**, **CS**, **CI**, **CF**) and cross-file routing entry points, read **CJS-0** in [cjs_00_registry_and_reading_rules.md](cjs_00_registry_and_reading_rules.md).
 
 **CJS-1.1** states scope, boundary, owner discipline, and the distinction between constitutional definitions and joint operational definitions. **CJS-1.2** states the shared implementation-corpus contract cited across **CS**, **CI**, and **CF**. **CJS-1.3** through **CJS-1.5** supply identifier and parse-mechanics rules for editors, auditors, and **CJS-5** cluster readers.
 
@@ -103,33 +98,74 @@ Under the authority-stack rules named in **CJS-1.2** (*Shared implementation-cor
 
 <br>
 
+*In plain terms: every implementation file (**CJS**, **CS**, **CI**, **CF**) cites this section as the shared starting rulebook — honor constitutional meaning, stay in assigned scope, route cross-layer topics through **[CJS-0.1](cjs_00_registry_and_reading_rules.md#cjs-01-cross-file-routing)** and **CJS-2.1**, satisfy joint duties through **CJS-3**, and never weaken core requirements or Rights Floors.*
+
+<details>
+<summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): shared implementation-corpus contract</span></strong></summary>
+
+> The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this section or in other corpus files.
+
+**CJS-1.2** is the preamble every implementation layer points to instead of copying the same boilerplate. Think of it as three jobs:
+
+1. **Respect the constitution** — use Chapter Five definitions as written; implement Rights Floors faithfully; do not invent parallel definitions or weaker restatements.
+2. **Stay in your lane** — each file adds detail only for topics it owns; when several files touch the same facts, start at **[CJS-0.1](cjs_00_registry_and_reading_rules.md#cjs-01-cross-file-routing)** (*Cross-file routing*), then apply **CJS-2.1** and **CJS-3** instead of cherry-picking one file.
+3. **Know what wins** — numbered `core_*` constitutional text controls meaning; adopted implementation may be stricter but not laxer; conflicts follow **Chapter Fifteen** and **CJS-3.6**.
+
+| If you are trying to… | Read in this section |
+|------------------------|----------------------|
+| Use a constitutional term | **Shared contract** → definitions and vocabulary; **Authority stack** → Chapters Two through Five |
+| Apply oversight, participation, and accountability | **Shared contract** → Chapter One principles ([Constitutional Triad](../core_00_preamble.md#constitutional-triad), [Two Constitutional Aims](../core_01_a_values_principles.md#two-constitutional-aims)) |
+| Tell "Continuity aim" from operational continuity | **Shared contract** → Continuity disambiguation |
+| Find which file owns a topic | **[CJS-0.1](cjs_00_registry_and_reading_rules.md#cjs-01-cross-file-routing)** (reading guide), **CJS-2.1** (integrator router table), or [topic_router_reader_index.md](../doc_architecture/generated/topic_router_reader_index.md) (grouped index) |
+| Satisfy duties across **CS**, **CI**, and **CF** together | **Shared contract** → scope, overlap, and routing → **CJS-3** |
+| Resolve two rules that disagree on the same risk | **Shared contract** → scope, overlap, and routing → **CJS-3.6** |
+| Use intervention or override language | **Authority stack** → **CJS-5.20** (technical integrity) vs **CJS-5.3** (governance authorization) |
+| Handle emergencies spanning multiple files | **Authority stack** → **CJS-2.1** and **CJS-3.2** |
+| Place a definition (not route a topic) | `doc_architecture.md` section 4 (*Project-wide definitions protocol*) |
+
+**One-sentence summary** — implement the constitution faithfully, add detail only where your file owns the topic, start cross-layer reads at **CJS-0.1** and **CJS-2.1**, satisfy joint duties through **CJS-3**, and when rules conflict follow the stricter adopted standard.
+
+</details>
+
+<br>
+
 This subsection gives the shared starting rules for **CJS**, **CS**, **CI**, and **CF**.
 
 Implementation files should point back here instead of repeating long boilerplate.
 
-The shared contract is:
+**Shared contract**
 
-- Use the canonical meaning of constitutional terms. Do not redefine constitutional terms, Rights Floors, or O/E/C definition mechanics.
-- Read implementation obligations through [Chapter One](../core_01_b_stewardship_capacity_principles.md#chapter-01-principles-and-constraints) — including the [Constitutional Triad](../core_00_preamble.md#constitutional-triad) (**oversight**, **participation**, **accountability** scaled to [material stake](../core_00_preamble.md#material-stake)) and [Two Constitutional Aims](../core_01_a_values_principles.md#two-constitutional-aims) (**Flourishing** and **Continuity**). Implementation text must not hollow the Triad below material-stake requirements.
-- **Continuity disambiguation:** constitutional **Continuity aim** (Chapter One §2) is distinct from operational or protocol continuity (for example forum continuity, institutional continuity, or **Protocol D** partition resilience). Do not treat operational continuity language as narrowing the Continuity aim.
-- Add only implementation details that belong inside the file's assigned scope.
-- When implementation files overlap on the same facts, apply **CJS-2.1** (*Topic router (stable IDs)*) for read-with routing, **CJS-3.6** (*Implementation-label traceability and stricter-wins discipline*) for stricter-wins, and **CJS-3** (*Joint structural obligations (cross-domain requirements)*) for other joint requirements.
-- Keep implementation text understandable under **Article XX**.
-- Use **CJS-2.1** (*Topic router (stable IDs)*) and `doc_architecture.md` section 4 to find the single home for each topic.
-- Treat shorthand inside a subsection as local to that subsection unless a canonical owner later adopts it. If local shorthand conflicts with canonical definitions, the canonical definitions control.
+- **Definitions and vocabulary**
+  - Use the canonical meaning of constitutional terms. Do not redefine constitutional terms, Rights Floors, or O/E/C definition mechanics.
+  - Treat shorthand inside a subsection as local to that subsection unless a canonical owner later adopts it. If local shorthand conflicts with canonical definitions, the canonical definitions control.
+- **Chapter One principles**
+  - Read implementation obligations through [Chapter One](../core_01_b_stewardship_capacity_principles.md#chapter-01-principles-and-constraints) — including the [Constitutional Triad](../core_00_preamble.md#constitutional-triad) (**oversight**, **participation**, **accountability** scaled to [material stake](../core_00_preamble.md#material-stake)) and [Two Constitutional Aims](../core_01_a_values_principles.md#two-constitutional-aims) (**Flourishing** and **Continuity**). Implementation text must not hollow the Triad below material-stake requirements.
+  - **Continuity disambiguation:** constitutional **Continuity aim** (Chapter One §2) is distinct from operational or protocol continuity (for example forum continuity, institutional continuity, or **Protocol D** partition resilience). Do not treat operational continuity language as narrowing the Continuity aim.
+- **Scope, overlap, and routing**
+  - Add only implementation details that belong inside the file's assigned scope.
+  - When implementation files overlap on the same facts:
+    - Apply the default reading stack in **CJS-1.1** (*Joint structural boundary and owner discipline*).
+    - Read [CJS-0.1](cjs_00_registry_and_reading_rules.md#cjs-01-cross-file-routing) (*Cross-file routing*) for how **primary owner** and **mandatory read-with** work.
+    - Route through **CJS-2.1** (*Cross-implementation read-with contract*) for the authoritative integrator router table; apply **CJS-2.2** (*Intentional overlap (non-duplication discipline)*) for deliberately split topics.
+    - Apply **CJS-3** (*Joint structural obligations (cross-domain requirements)*) for other joint requirements and **CJS-3.6** (*Implementation-label traceability and stricter-wins discipline*) for stricter-wins.
+  - Keep implementation text understandable under **Article XX**.
+  - To find which section owns a topic: [CJS-0.1](cjs_00_registry_and_reading_rules.md#cjs-01-cross-file-routing), the integrator table in **CJS-2.1**, [topic_router_reader_index.md](../doc_architecture/generated/topic_router_reader_index.md) (generated grouped index), or `doc_architecture.md` section 2 (*Corpus roles*) for layer homes. For definition placement, use `doc_architecture.md` section 4 (*Project-wide definitions protocol*).
 
 This file does not create a separate authority stack. Use the constitutional **Authority Stack and Internal Hierarchy** in `core_05-05_definitions_c_dependent_clusters.md` **Chapter Five**, section **3.4** (*Corpus, Authority Stack, Supremacy, and Enforceability*), read with `core_15-15_incorporation.md` **Chapter Fifteen** for incorporation, edition custody, and anti-drift rules. Applied here:
 
-- The numbered `core_*` Sentient Constitution files control constitutional meaning.
-- Adopted implementation text applies only within valid adoption and incorporation scope.
-- Implementation files may add implementation detail, and may be stricter, but may not weaken Sentient Constitution requirements or Rights Floors.
-- Chapters Two through Four control O/E/C definition mechanics. Chapter Five controls constitutional term definitions.
-- Chapter Ten controls rights language. Implementation files implement Rights Floors and must not restate weaker versions.
-- Chapter Six controls canonical compliance, violation, and standing classification policy.
-- [corpus_systems.md](../corpus_systems.md) Chapters S1 through S3 control data types, system classes, dependency types, and steward tiers.
-- **CJS-5.20** (*Implementation and cross-implementation intervention and override integrity terms*) and **CJS-5.3** (*Implementation and cross-implementation intervention governance and override-authorization terms*) stay separate: **CJS-5.20** states technical intervention and override integrity terms; **CJS-5.3** states governance authorization terms. Both apply where relevant.
-- For cross-domain integrity routing, read **CJS-4.3** (*Cross-implementation trust integrity (joint operation model)*) and the applicable **CJS-5** operational clusters. CJS does not maintain a separate meta-obligation family.
-- For emergency and continuity questions where multiple implementation files govern the same facts, read **CJS-2.1** and **CJS-3.2** (*No false partial compliance across implementation files*).
+- **Constitutional supremacy**
+  - The numbered `core_*` Sentient Constitution files control constitutional meaning.
+  - Adopted implementation text applies only within valid adoption and incorporation scope.
+  - Implementation files may add implementation detail, and may be stricter, but may not weaken Sentient Constitution requirements or Rights Floors.
+- **Canonical homes by layer**
+  - Chapters Two through Four control O/E/C definition mechanics. Chapter Five controls constitutional term definitions.
+  - Chapter Ten controls rights language. Implementation files implement Rights Floors and must not restate weaker versions.
+  - Chapter Six controls canonical compliance, violation, and standing classification policy.
+  - [corpus_systems.md](../corpus_systems.md) Chapters S1 through S3 control data types, system classes, dependency types, and steward tiers.
+- **CJS cross-links**
+  - **CJS-5.20** (*Implementation and cross-implementation intervention and override integrity terms*) and **CJS-5.3** (*Implementation and cross-implementation intervention governance and override-authorization terms*) stay separate: **CJS-5.20** states technical intervention and override integrity terms; **CJS-5.3** states governance authorization terms. Both apply where relevant.
+  - For cross-domain integrity routing, read **CJS-4.3** (*Cross-implementation trust integrity (joint operation model)*) and the applicable **CJS-5** operational clusters. CJS does not maintain a separate meta-obligation family.
+  - For emergency and continuity questions where multiple implementation files govern the same facts, read **CJS-2.1** and **CJS-3.2** (*No false partial compliance across implementation files*).
 
 ### CJS-1.3: Section identifiers and article references
 <details>
@@ -155,29 +191,7 @@ Implementation-file identifiers are local navigation labels, not Sentient Consti
 
 Within this file, headings use **CJS-1** (*Scope, purpose, and boundary interface*) through **CJS-5** (*Implementation and cross-implementation operational cluster library*), meaning *Corpus joint structure* section *n*. Subsections use **CJS-*n*.*m***, such as **CJS-2.1** (*Topic router (stable IDs)*). The abbreviation **CJS** matches `doc_architecture.md`, where it means the *Corpus joint structure* implementation file.
 
-Unless a section says otherwise, **Article** labels with Roman numerals that point to the Sentient Constitution Chapter Ten part files (`core_10-10_rights_part_*.md`) refer to the canonical `
-
-### Article ...` headings in those files.
-<details>
-<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
-
-- Upstream: [CJS-1.2](cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
-- Downstream: this section's local operational requirements for **Article ...` headings in those files.**.
-- Read with: **CJS-5**.
-
-</details>
-
-<details>
-<summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
-
-- [Corpus](../core_05-05_definitions_c_dependent_clusters.md#corpus) · [O](../core_05-05_definitions_c_dependent_clusters.md#corpus) · [E](../core_05-05_definitions_c_dependent_clusters.md#corpus-e) · [C](../core_05-05_definitions_c_dependent_clusters.md#corpus-c)
-- [Authority Stack and Internal Hierarchy](../core_05-05_definitions_c_dependent_clusters.md#authority-stack) · [O](../core_05-05_definitions_c_dependent_clusters.md#authority-stack) · [E](../core_05-05_definitions_c_dependent_clusters.md#authority-stack-e) · [C](../core_05-05_definitions_c_dependent_clusters.md#authority-stack-c)
-- [Supremacy and Enforceability](../core_05-05_definitions_c_dependent_clusters.md#supremacy-and-enforceability) · [O](../core_05-05_definitions_c_dependent_clusters.md#supremacy-and-enforceability) · [E](../core_05-05_definitions_c_dependent_clusters.md#supremacy-and-enforceability-e) · [C](../core_05-05_definitions_c_dependent_clusters.md#supremacy-and-enforceability-c)
-
-</details>
-
-<br>
-
+Unless a section says otherwise, **Article** labels with Roman numerals that point to the Sentient Constitution Chapter Ten part files (`core_10-10_rights_part_*.md`) refer to the canonical `### Article ...` headings in those files.
 
 <details>
 <summary><strong><span style="color: #2563eb;">Implementation parse mechanics (read when using CJS-5 operational clusters)</span></strong></summary>
