@@ -23,7 +23,7 @@
 
 <br>
 
-*In plain terms: this file states what the joint-structure layer owns, how it fits among **CS**, **CI**, and **CF**, and where to find the shared contract other implementation files cite. Start at **CJS-1.1**; continue to **CJS-2.1** for routing. For the layer map and section registry, read [cjs_00_registry_and_reading_rules.md](cjs_00_registry_and_reading_rules.md).*
+*In plain terms: this file states what the joint-structure layer owns, how it fits among **CS**, **CI**, and **CF**, and where to find the shared contract other implementation files cite. Start at **CJS-1.1**; continue to **CJS-2.1** for routing. For the layer map and section registry, read **CJS-0** in [cjs_00_registry_and_reading_rules.md](cjs_00_registry_and_reading_rules.md).*
 
 **Quick orientation**
 

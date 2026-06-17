@@ -5,13 +5,13 @@
 - Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions; and [Chapter Ten](../core_10-10_rights_part_a.md#chapter-ten-foundational-rights) rights architecture where rights interfaces are invoked.
 - Downstream: [CI-2.1: Institutional read-with contract](#ci-21-institutional-read-with-contract); [CI-2.2: Institutional overlap discipline](#ci-22-institutional-overlap-discipline).
 - Read with: **CI-2**; **CI-2.1**; **CI-2.2**; [CJS-2.1](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids); **CJS-2.2**; **CJS-2.3**; **CI-1**.
-- Integrator index (non-operative): institutional primary owners for cross-layer topics live in [CJS-2.1](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) (*Topic router (stable IDs)*); CI-primary **CJS-R** rows are listed in [doc_architecture/generated/ci_primary_router_index.md](../doc_architecture/generated/ci_primary_router_index.md) (generated from the router via `make architecture-index`).
+- Integrator index (non-operative): institutional primary owners for cross-layer topics live in [CJS-2.1](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) (*Topic router*); CI-primary **CJS-R** rows are listed in [doc_architecture/generated/ci_primary_router_index.md](../doc_architecture/generated/ci_primary_router_index.md) (generated from the router via `make architecture-index`). Plain-language grouped index: [topic_router_reader_index.md](../doc_architecture/generated/topic_router_reader_index.md).
 
 </details>
 
 <br>
 
-*In plain terms: **CI-2** explains how to read institutions together with **CJS**, **CS**, and **CF** — the default reading order, and how split topics avoid duplication. For which **CI** section owns a cross-layer topic, use **[CJS-2.1](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids)** or the human section registry in [ci_00_registry_and_reading_rules.md](ci_00_registry_and_reading_rules.md). This file does not maintain a competing router table.*
+*In plain terms: **CI-2** explains how to read institutions together with **CJS**, **CS**, and **CF** — the default reading order, and how split topics avoid duplication. For which **CI** section owns a cross-layer topic, use **[CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-cross-file-routing)** (*Cross-file routing*) or **[CJS-2.1](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids)**; the human section registry is in [ci_00_registry_and_reading_rules.md](ci_00_registry_and_reading_rules.md). This file does not maintain a competing router table.*
 
 **Quick orientation**
 
@@ -67,7 +67,7 @@ For those splits:
 
 - the designated **primary owner** states the **full operative** rules for its assigned scope;
 - companion **CI** sections add only the interface text their scope requires;
-- for cross-layer topics, name the primary owner from the applicable row in [CJS-2.1](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) (*Topic router (stable IDs)*);
+- for cross-layer topics, name the primary owner from the applicable row in [CJS-2.1](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) (*Cross-implementation read-with contract*);
 - do **not** restate **CJS-5** operational clusters, **CS** classification tables, or **CF** checklists except in brief pointer form when needed for coherence.
 
 For within-folder navigation by topic family, use [ci_00_registry_and_reading_rules.md](ci_00_registry_and_reading_rules.md) (*Institutions registry (stable section families)*).

@@ -2,6 +2,7 @@
 
 from __future__ import annotations
 
+import os
 import re
 from dataclasses import dataclass, field
 from pathlib import Path
@@ -20,6 +21,11 @@ SECTION_ID_RE = re.compile(
 SECTION_HEADING_RE = re.compile(
     r"^(##|###)\s+((?:CF|CI|CJS)-[0-9]+(?:\.[0-9]+)?[A-Z]?(?:\.[0-9]+)?)[:*\s]",
     re.M,
+)
+ROUTER_DOMAIN_ORDER = (
+    "Forum operations",
+    "Institutional governance",
+    "Cross-implementation integrity",
 )
 ROUTER_READ_RE = re.compile(r"^\*\*Router read:\*\*.*$", re.M)
 TOPIC_ROUTE_BULLET_RE = re.compile(
@@ -181,7 +187,7 @@ def primary_owner_line(row: RouterRow) -> str:
         suffix = "; see that row for mandatory read-with."
     return (
         f"Topic routing (primary owner): **{row.row_id}** (*{short_topic(row.topic)}*) "
-        f"in **CJS-2.1** (*Topic router (stable IDs)*).{suffix}"
+        f"in **CJS-2.1** (*Topic router*).{suffix}"
     )
 
 
@@ -192,8 +198,85 @@ def read_with_line(row: RouterRow) -> str:
         owners = "primary owners " + ", ".join(f"**{item}**" for item in row.primary_attach)
     return (
         f"Topic routing (mandatory read-with): **{row.row_id}** (*{short_topic(row.topic)}*) "
-        f"in **CJS-2.1** (*Topic router (stable IDs)*); {owners}."
+        f"in **CJS-2.1** (*Topic router*); {owners}."
     )
+
+
+def section_title(text: str, section_id: str) -> str | None:
+    colon = re.compile(
+        rf"^(##|###)\s+{re.escape(section_id)}:\s+(.+?)\s*$",
+        re.M,
+    )
+    match = colon.search(text)
+    if match:
+        return match.group(2).strip()
+    spaced = re.compile(
+        rf"^(##|###)\s+{re.escape(section_id)}\s+(.+?)\s*$",
+        re.M,
+    )
+    match = spaced.search(text)
+    if match:
+        return match.group(2).strip()
+    return None
+
+
+def section_markdown_link(
+    root: Path,
+    section_id: str,
+    section_index: dict[str, Path],
+    *,
+    from_dir: Path | None = None,
+) -> str:
+    path = section_index.get(section_id)
+    if path is None:
+        return f"**{section_id}**"
+    file_text = path.read_text(encoding="utf-8")
+    title = section_title(file_text, section_id) or section_id
+    if from_dir is None:
+        from_dir = root / ROUTER_PATH.parent
+    try:
+        rel = Path(os.path.relpath(path, from_dir))
+    except ValueError:
+        rel = path
+    return f"[{section_id} — {title}]({rel.as_posix()})"
+
+
+def router_domain(row: RouterRow) -> str:
+    if row.primary_attach:
+        first = row.primary_attach[0]
+        if first.startswith("CF-"):
+            return "Forum operations"
+        if first.startswith("CI-"):
+            return "Institutional governance"
+    if re.search(r"\bCJS-", row.owner_cell):
+        return "Cross-implementation integrity"
+    return "Cross-implementation integrity"
+
+
+def human_primary_owner_links(
+    root: Path,
+    row: RouterRow,
+    section_index: dict[str, Path],
+    *,
+    from_dir: Path | None = None,
+) -> str:
+    if not row.primary_attach:
+        return row.owner_cell.strip()
+    links = [
+        section_markdown_link(root, section_id, section_index, from_dir=from_dir)
+        for section_id in row.primary_attach
+    ]
+    return ", ".join(links)
+
+
+def human_read_with_summary(row: RouterRow, *, limit: int = 4) -> str:
+    items = row.read_with_attach[:limit]
+    if not items:
+        return "see integrator table for the full list"
+    summary = ", ".join(f"**{item}**" for item in items)
+    if len(row.read_with_attach) > limit:
+        summary += ", …"
+    return summary
 
 
 def section_has_primary_route(section_text: str, row: RouterRow) -> bool:
