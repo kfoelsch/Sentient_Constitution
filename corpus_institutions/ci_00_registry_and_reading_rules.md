@@ -2,7 +2,7 @@
 
 *In plain terms: this file is the front door to the **institutions** rulebook — how bodies are formed, authorized, overseen, corrected, and dissolved within constitutional boundaries.*
 
-**Corpus edition:** `SC-Corpus-2026.04.33` · **Effective date:** 2026-04-24
+**Corpus edition:** `SC-Corpus-2026.04.34` · **Effective date:** 2026-06-17
 
 <details>
 <summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): edition, status, and where this file lives</span></strong></summary>
@@ -42,7 +42,7 @@ Shared preamble contract: apply [corpus_joint_structure.md](../corpus_joint_stru
 
 > The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this file or in other corpus files.
 >
-> **Principle-layer routing:** Read with [Chapter One](../core_01_b_stewardship_capacity_principles.md#chapter-01-principles-and-constraints) — [Constitutional Triad](../core_00_preamble.md#constitutional-triad). **CI-5** (*Conflict integrity, anti-capture, and anti-corruption*), **CI-6** (*Procedure integrity, contestability, and secondary review*), **CI-7** (*Oversight, assurance, controls, and evidence*), and **CI-12** (*Transparency, participation, and accessible pathways*) implement triad legs at institutional layer.
+> **Principle-layer routing:** Read with [Chapter One](../core_01_b_stewardship_capacity_principles.md#chapter-01-principles-and-constraints) — [Constitutional Triad](../core_00_preamble.md#constitutional-triad). **CI-5** (*Conflict integrity, anti-capture, and anti-corruption*), **CI-6** (*Procedure integrity, contestability, and secondary review*), **CI-7** (*Oversight, assurance, controls, and evidence*), and **CI-8** (*Transparency, participation, and accessible pathways*) implement triad legs at institutional layer.
 >
 > **Implementation cross-reference index (routing only):** Read with Chapter Five constitutional definitions and `corpus_joint_structure.md` **CJS-5** (*Implementation and cross-implementation operational cluster library*) operational clusters where materially applicable. This index does not redefine owner-layer meaning.
 >
@@ -84,6 +84,8 @@ Unless another reference pattern is stated, **Article** labels with Roman numera
 
 *In plain terms: this is the table of contents for the institutions folder — stable families, each with a home file.*
 
+*Filename note:* after the narrative reorder, each `ci_NN_*` prefix matches its **CI-*NN*** section number (for example `ci_08_*` is **CI-8** transparency, and `ci_12_*` is **CI-12** coordination).
+
 | Family | What it covers | Start here |
 |---|---|---|
 | **CI-1** | Scope, purpose, and legitimacy interface | [ci_01_scope_purpose_legitimacy_interface.md](ci_01_scope_purpose_legitimacy_interface.md) |
@@ -93,24 +95,24 @@ Unless another reference pattern is stated, **Article** labels with Roman numera
 | **CI-5** | Conflict integrity, anti-capture, and anti-corruption | [ci_05_conflict_integrity_anti_capture_anti_corruption.md](ci_05_conflict_integrity_anti_capture_anti_corruption.md) |
 | **CI-6** | Procedure integrity, contestability, and secondary review | [ci_06_procedure_integrity_contestability_secondary_review.md](ci_06_procedure_integrity_contestability_secondary_review.md) |
 | **CI-7** | Oversight, assurance, controls, and evidence | [ci_07_oversight_assurance_controls_evidence.md](ci_07_oversight_assurance_controls_evidence.md) |
-| **CI-8** | Cross-institution coordination and escalation | [ci_08_cross_institution_coordination_escalation.md](ci_08_cross_institution_coordination_escalation.md) |
+| **CI-8** | Transparency, participation, and accessible pathways | [ci_08_transparency_participation_accessible_pathways.md](ci_08_transparency_participation_accessible_pathways.md) |
 | **CI-9** | Classification-linked institutional obligations | [ci_09_classification_linked_institutional_obligations.md](ci_09_classification_linked_institutional_obligations.md) |
 | **CI-10** | Public revenue, fees, recurring charges, and billing integrity | [ci_10_public_revenue_fees_recurring_charges_billing_integrity.md](ci_10_public_revenue_fees_recurring_charges_billing_integrity.md) |
 | **CI-11** | Resource stewardship and incentive integrity | [ci_11_resource_stewardship_incentive_integrity.md](ci_11_resource_stewardship_incentive_integrity.md) |
-| **CI-12** | Transparency, participation, and accessible pathways | [ci_12_transparency_participation_accessible_pathways.md](ci_12_transparency_participation_accessible_pathways.md) |
+| **CI-12** | Cross-institution coordination and escalation | [ci_12_cross_institution_coordination_escalation.md](ci_12_cross_institution_coordination_escalation.md) |
 | **CI-13** | Institutional failure, sanctions, dissolution, and accountability | [ci_13_institutional_failure_sanctions_dissolution_accountability.md](ci_13_institutional_failure_sanctions_dissolution_accountability.md) |
 | **CI-14** | Transitional governance and institutional evolution | [ci_14_transitional_governance_institutional_evolution.md](ci_14_transitional_governance_institutional_evolution.md) |
-| **CI-15** | Vulnerable personal services markets — general regulation and Article X-C interface | [ci_15_vulnerable_personal_services_markets_article_xc_interface.md](ci_15_vulnerable_personal_services_markets_article_xc_interface.md) |
-| **CI-16** | Innovation reward, disclosure, and anti-enclosure | [ci_16_innovation_reward_disclosure_anti_enclosure.md](ci_16_innovation_reward_disclosure_anti_enclosure.md) |
-| **CI-17** | Scientific publication, peer review, replication, and evidence stewardship | [ci_17_scientific_publication_peer_review_replication_evidence_stewardship.md](ci_17_scientific_publication_peer_review_replication_evidence_stewardship.md) |
-| **CI-18** | Community life, voluntary association, and non-instrumental time | [ci_18_community_life_voluntary_association_non_instrumental_time.md](ci_18_community_life_voluntary_association_non_instrumental_time.md) |
-| **CI-19** | End-of-life continuity, memorial dignity, and posthumous-data stewardship | [ci_19_end_of_life_continuity_memorial_dignity_posthumous_data.md](ci_19_end_of_life_continuity_memorial_dignity_posthumous_data.md) |
-| **CI-20** | Care labor, dependent support, respite, and care-economy fairness | [ci_20_care_labor_dependent_support_respite_care_economy_fairness.md](ci_20_care_labor_dependent_support_respite_care_economy_fairness.md) |
-| **CI-21** | Relational coercive control, intimate power, and anti-domination routing | [ci_21_relational_coercive_control_intimate_power_anti_domination.md](ci_21_relational_coercive_control_intimate_power_anti_domination.md) |
+| **CI-15** | Neurodiversity, disability justice, and trauma-informed participation | [ci_15_neurodiversity_disability_justice_trauma_informed_participation.md](ci_15_neurodiversity_disability_justice_trauma_informed_participation.md) |
+| **CI-16** | Care labor, dependent support, respite, and care-economy fairness | [ci_16_care_labor_dependent_support_respite_care_economy_fairness.md](ci_16_care_labor_dependent_support_respite_care_economy_fairness.md) |
+| **CI-17** | End-of-life continuity, memorial dignity, and posthumous-data stewardship | [ci_17_end_of_life_continuity_memorial_dignity_posthumous_data.md](ci_17_end_of_life_continuity_memorial_dignity_posthumous_data.md) |
+| **CI-18** | Collective public health, epidemic response, and addiction-informed care | [ci_18_collective_public_health_epidemic_response_addiction_informed_care.md](ci_18_collective_public_health_epidemic_response_addiction_informed_care.md) |
+| **CI-19** | Vulnerable personal services markets — general regulation and Article X-C interface | [ci_19_vulnerable_personal_services_markets_article_xc_interface.md](ci_19_vulnerable_personal_services_markets_article_xc_interface.md) |
+| **CI-20** | Relational coercive control, intimate power, and anti-domination routing | [ci_20_relational_coercive_control_intimate_power_anti_domination.md](ci_20_relational_coercive_control_intimate_power_anti_domination.md) |
+| **CI-21** | Community life, voluntary association, and non-instrumental time | [ci_21_community_life_voluntary_association_non_instrumental_time.md](ci_21_community_life_voluntary_association_non_instrumental_time.md) |
 | **CI-22** | Commons, cooperatives, mutual aid, and non-market community governance | [ci_22_commons_cooperatives_mutual_aid_non_market_governance.md](ci_22_commons_cooperatives_mutual_aid_non_market_governance.md) |
 | **CI-23** | Place-based stewardship, Indigenous continuity, and consultation routes | [ci_23_place_based_stewardship_indigenous_continuity_consultation.md](ci_23_place_based_stewardship_indigenous_continuity_consultation.md) |
-| **CI-24** | Neurodiversity, disability justice, and trauma-informed participation | [ci_24_neurodiversity_disability_justice_trauma_informed_participation.md](ci_24_neurodiversity_disability_justice_trauma_informed_participation.md) |
-| **CI-25** | Collective public health, epidemic response, and addiction-informed care | [ci_25_collective_public_health_epidemic_response_addiction_informed_care.md](ci_25_collective_public_health_epidemic_response_addiction_informed_care.md) |
+| **CI-24** | Innovation reward, disclosure, and anti-enclosure | [ci_24_innovation_reward_disclosure_anti_enclosure.md](ci_24_innovation_reward_disclosure_anti_enclosure.md) |
+| **CI-25** | Scientific publication, peer review, replication, and evidence stewardship | [ci_25_scientific_publication_peer_review_replication_evidence_stewardship.md](ci_25_scientific_publication_peer_review_replication_evidence_stewardship.md) |
 | **CI-26** | Compliance mapping and stable registry | [ci_26_compliance_mapping_stable_registry.md](ci_26_compliance_mapping_stable_registry.md) |
 
 ---

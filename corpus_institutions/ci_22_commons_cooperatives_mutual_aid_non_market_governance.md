@@ -23,7 +23,7 @@
 
 <br>
 
-*In plain terms: **CI-22** is the institutions layer's rulebook for commons, cooperatives, mutual aid, and other ways communities govern shared resources without turning every durable arrangement into a state agency, corporation, or adversarial forum. People should be able to pool resources, rotate stewardship, and help each other through non-market reciprocity — and institutions should recognize those records when funding, zoning, tax, or continuity decisions are on the table. Fiscal rules must not accidentally criminalize lawful solidarity. Community warmth is not a license for informal power, hidden exclusion, or appeal denial. Shared commons, cooperative, and mutual-aid pathway floors live in **CJS-5.12**; constitutional meaning lives in **Article III-D** (*Labor and Economic Floor*), **Article IX-B** (*Stakeholder Role and Participation Rights*), **Article X-A** (*Non-Imposition and Consent in Association*), and **Chapter Five** *Collective Organization*; this file states what each institution must name, file, and maintain locally.*
+*In plain terms: **CI-22** is the institutions layer's rulebook for commons, cooperatives, mutual aid, and other ways communities govern shared resources without turning every durable arrangement into a state agency, corporation, or adversarial forum. Sentients must be able to pool resources, rotate stewardship, and help each other through non-market reciprocity — and institutions should recognize those records when funding, zoning, tax, or continuity decisions are on the table. Fiscal rules must not accidentally criminalize lawful solidarity. Community warmth is not a license for informal power, hidden exclusion, or appeal denial. Shared commons, cooperative, and mutual-aid pathway floors live in **CJS-5.12**; constitutional meaning lives in **Article III-D** (*Labor and Economic Floor*), **Article IX-B** (*Stakeholder Role and Participation Rights*), **Article X-A** (*Non-Imposition and Consent in Association*), and **Chapter Five** *Collective Organization*; this file states what each institution must name, file, and maintain locally.*
 
 **Quick orientation**
 
@@ -32,7 +32,7 @@
 - **Non-market reciprocity** — fiscal, tax, zoning, funding, and eligibility rules must be mapped so lawful solidarity is not accidentally disabled or criminalized.
 - **Anti-romanticization** — informal community process must include independent review when exclusion, shunning, or local hierarchy harms sentients; read **CI-18.2** and **CI-21** where coercive-control patterns are implicated.
 - **Institutional interfaces** — due process, contestability, anti-capture, funding, zoning, tax, and continuity duties route through **CI-6**, **CI-9**, **CI-12**, and **CI-11**.
-- **Hard limits** — informality cannot hide exclusion, coercion, fraud, capture, or appeal denial; romanticized community process cannot block remedy for people harmed by informal power.
+- **Hard limits** — informality cannot hide exclusion, coercion, fraud, capture, or appeal denial; romanticized community process cannot block remedy for sentients harmed by informal power.
 - **Read with** — **CI-6**, **CI-9**, **CI-12**, **CI-11**, **CI-18**, and **CI-21**.
 
 *In plain terms: if your food co-op's governance records are ignored by every funding office, your mutual-aid network gets treated like tax fraud, and the only way to challenge a shunning decision is to accept "that's just how we do things here," the pathway has failed — even when everyone calls it community.*
@@ -72,6 +72,10 @@ Read **CI-6**, **CI-9**, **CI-12**, **CI-11**, **CI-18**, and **CI-21** for loca
 
 ---
 
-**Previous file:** [ci_21_relational_coercive_control_intimate_power_anti_domination.md](ci_21_relational_coercive_control_intimate_power_anti_domination.md)
+**Previous file:** [ci_21_community_life_voluntary_association_non_instrumental_time.md](ci_21_community_life_voluntary_association_non_instrumental_time.md)
+
+---
+
+**Previous file:** [ci_21_community_life_voluntary_association_non_instrumental_time.md](ci_21_community_life_voluntary_association_non_instrumental_time.md)
 
 **Next file:** [ci_23_place_based_stewardship_indigenous_continuity_consultation.md](ci_23_place_based_stewardship_indigenous_continuity_consultation.md)

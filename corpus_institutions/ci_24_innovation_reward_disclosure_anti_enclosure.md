@@ -1,10 +1,10 @@
-## CI-16: Innovation reward, disclosure, and anti-enclosure
+## CI-24: Innovation reward, disclosure, and anti-enclosure
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions; and [Chapter Ten](../core_10-10_rights_part_a.md#chapter-ten-foundational-rights) rights architecture where rights interfaces are invoked.
-- Downstream: this section's local operational requirements for **CI-16: Innovation reward, disclosure, and anti-enclosure**.
-- Read with: **CI-16**; **CI-6**; **CI-8**; **CJS-5.17**; **CJS-5.5**.
+- Downstream: this section's local operational requirements for **CI-24: Innovation reward, disclosure, and anti-enclosure**.
+- Read with: **CI-24**; **CI-6**; **CI-12**; **CJS-5.17**; **CJS-5.5**.
 
 </details>
 
@@ -23,7 +23,7 @@
 
 <br>
 
-*In plain terms: **CI-16** is the institutions layer's rulebook for innovation rewards — patents, copyrights, exclusivity deals, and similar claims — so creators get fair credit and compensation without turning a temporary reward into permanent lock-in. Innovators can be rewarded, but exclusivity must stay narrow, time-limited, and reviewable. Repair, research, education, interoperability, and public-interest access must not be blocked by a reward claim sitting in a drawer or a registry nobody can search. Shared anti-enclosure, public-interest-use, compulsory-access, anti-warehousing, and duration floors live in **CJS-5.17**; constitutional meaning lives in **Chapter Five** (*Innovation Reward and Anti-Enclosure*) and **Article XVII-D**; this file states what each institution must register, publish, review, and maintain locally.*
+*In plain terms: **CI-24** is the institutions layer's rulebook for innovation rewards — patents, copyrights, exclusivity deals, and similar claims — so creators get fair credit and compensation without turning a temporary reward into permanent lock-in. Innovators can be rewarded, but exclusivity must stay narrow, time-limited, and reviewable. Repair, research, education, interoperability, and public-interest access must not be blocked by a reward claim sitting in a drawer or a registry nobody can search. Shared anti-enclosure, public-interest-use, compulsory-access, anti-warehousing, and duration floors live in **CJS-5.17**; constitutional meaning lives in **Chapter Five** (*Innovation Reward and Anti-Enclosure*) and **Article XVII-D**; this file states what each institution must register, publish, review, and maintain locally.*
 
 **Quick orientation**
 
@@ -31,8 +31,8 @@
 - **What must be public** — a searchable registry showing who claims what, over what scope, for how long, with what disclosure materials, and what repair or migration limits they assert.
 - **What must stay accessible** — repair, safety work, independent verification, research, education, archiving, interoperability testing, and migration where those uses are otherwise lawful and proportionate.
 - **What gets tighter over time** — when an innovation becomes dependency-critical infrastructure — a platform, protocol, model, marketplace, or payment rail — remaining exclusivity must be reassessed, narrowed, converted, or sunset.
-- **Who decides disputes** — specialist review lanes separated from claim-granting or revenue-dependent functions, with **CI-8** escalation when local review stalls or is conflicted.
-- **Read with** — **CI-6** for local procedure maps; **CI-8** for cross-institution escalation; **CJS-5.5** for burden-of-justification and proportionality scaling; **CJS-5.17** for shared anti-enclosure floors.
+- **Who decides disputes** — specialist review lanes separated from claim-granting or revenue-dependent functions, with **CI-12** escalation when local review stalls or is conflicted.
+- **Read with** — **CI-6** for local procedure maps; **CI-12** for cross-institution escalation; **CJS-5.5** for burden-of-justification and proportionality scaling; **CJS-5.17** for shared anti-enclosure floors.
 
 *In plain terms: attribution is not ownership forever. You can keep credit after exclusivity ends — but you cannot warehouse a critical standard, shelf a life-saving medicine behind a broad patent, or use secrecy to block repair because the registry says "innovation reward." If the institution that grants claims is also the only place to challenge them, the pathway has failed.*
 
@@ -42,13 +42,13 @@
 - **Chapter Five** (*Innovation Reward and Anti-Enclosure*) and **Article XVII-D** (*Innovation Reward, Disclosure, and Anti-Enclosure*) in **Chapter Ten** — constitutional reward structure, temporary exclusivity limits, disclosure condition, public-interest floor, domain carve-outs, and reclassification duties.
 - **[CJS-5.5](../corpus_joint_structure.md)** (*Implementation and cross-implementation burden of justification and constraint terms*) — proportionality and burden scaling where reward claims affect material dependency or access burden.
 - **`corpus_systems.md`** **CS-4** — system classification and handling where innovation reward must scale with class, dependency, and coordination effects.
-- **CI-16 scope** — does not repeat those floors; states institutional registry, claim-record, access-order, sunset, specialist-review, and appeal duties.
+- **CI-24 scope** — does not repeat those floors; states institutional registry, claim-record, access-order, sunset, specialist-review, and appeal duties.
 
 **Apply**
 
 - Apply **CJS-5.17** for the shared anti-enclosure, public-interest-use, compulsory-access, anti-warehousing, and duration/reclassification floors.
-- Apply **CJS-5.17** **Innovation-reward duration and reclassification controls** for shared timing and dependency-critical reclassification; **CI-16** supplies only the local review calendar and record-update duty.
-- **CI-16** states only local institutional duties for disclosure, registry, claim records, corrective pathways, sunset, and dispute review.
+- Apply **CJS-5.17** **Innovation-reward duration and reclassification controls** for shared timing and dependency-critical reclassification; **CI-24** supplies only the local review calendar and record-update duty.
+- **CI-24** states only local institutional duties for disclosure, registry, claim records, corrective pathways, sunset, and dispute review.
 
 **What each institution must name and maintain locally**
 
@@ -83,12 +83,16 @@
 
 - **dedicated review-lane office** — a named body for innovation-reward disputes;
 - **structural separation** — review must be separated from claim-granting, registry custody, or revenue-dependent functions that could bias outcomes; and
-- **secondary review and CI-8 escalation** — the route when local specialist review stalls, is captured, or cannot act independently.
+- **secondary review and CI-12 escalation** — the route when local specialist review stalls, is captured, or cannot act independently.
 
-Read **CI-6** and **CI-8** for local procedure maps and cross-institution escalation interfaces.
+Read **CI-6** and **CI-12** for local procedure maps and cross-institution escalation interfaces.
 
 ---
 
-**Previous file:** [ci_15_vulnerable_personal_services_markets_article_xc_interface.md](ci_15_vulnerable_personal_services_markets_article_xc_interface.md)
+**Previous file:** [ci_23_place_based_stewardship_indigenous_continuity_consultation.md](ci_23_place_based_stewardship_indigenous_continuity_consultation.md)
 
-**Next file:** [ci_17_scientific_publication_peer_review_replication_evidence_stewardship.md](ci_17_scientific_publication_peer_review_replication_evidence_stewardship.md)
+---
+
+**Previous file:** [ci_23_place_based_stewardship_indigenous_continuity_consultation.md](ci_23_place_based_stewardship_indigenous_continuity_consultation.md)
+
+**Next file:** [ci_25_scientific_publication_peer_review_replication_evidence_stewardship.md](ci_25_scientific_publication_peer_review_replication_evidence_stewardship.md)

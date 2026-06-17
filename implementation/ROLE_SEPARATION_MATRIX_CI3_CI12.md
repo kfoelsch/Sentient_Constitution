@@ -1,4 +1,4 @@
-# Role separation quick reference (CI-3 — CI-8, CI-7 / CF-8 / CF-10)
+# Role separation quick reference (CI-3 — CI-12, CI-7 / CF-8 / CF-10)
 
 **Single-page operator view.** Canonical rules live only in `corpus_institutions.md` and `corpus_forum.md`. This matrix is an index.
 
@@ -12,6 +12,6 @@
 | **CI-7** Assurance line | Operator and independent assurance on same control | Assurance capture | **CI-7** / **CI-7.2** |
 | **CF-8** Forensic support | Investigator and merits judge (same matter) | Anti-self-judging | **CF-8** / **CF-9** |
 | **CF-10** Technical forums | Expert advocate and same-chamber final adjudicator (same matter) | Technical capture | **CF-10** |
-| **CI-8** Cross-institution escalation | Escalation receiver and original decision owner without firewall | Collapse of independence | **CI-8** |
+| **CI-12** Cross-institution escalation | Escalation receiver and original decision owner without firewall | Collapse of independence | **CI-12** |
 
 **Default:** three-lines model (**CI-7.1**); anti-self-judging for forums (**CF-7**); investigations structurally separate from subjects (**CI-5**, **CF-9**).

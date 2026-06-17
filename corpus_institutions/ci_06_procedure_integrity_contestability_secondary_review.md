@@ -25,7 +25,7 @@
 
 <br>
 
-*In plain terms: **CI-6** is the institutions layer's fair-process rulebook — how each institution tells people what happened, why, and how to push back; who runs each step; what records prove the rules were followed; and where to go for a second look when the first decision may be wrong. Shared due-process floors live in **CJS-4.6** and **CJS-5.7**; forum appeal and exhaustion detail lives in **CF-6**; this file states what each institution must publish and maintain locally.*
+*In plain terms: **CI-6** is the institutions layer's fair-process rulebook — how each institution tells sentients what happened, why, and how to push back; who runs each step; what records prove the rules were followed; and where to go for a second look when the first decision may be wrong. Shared due-process floors live in **CJS-4.6** and **CJS-5.7**; forum appeal and exhaustion detail lives in **CF-6**; this file states what each institution must publish and maintain locally.*
 
 **Quick orientation**
 
@@ -35,7 +35,7 @@
 - **Where forum review detail lives** — ordinary appeal lanes, when internal review is enough versus a separate independent reviewer, emergency review, exhaustion, and review windows scaled to urgency (**CF-6** via **CJS-R05**).
 - **Forum-expansion records** — when an institution expands a forum's scope or certifies a route for wider use, it must keep auditable records of that expansion and the contest path for affected parties.
 
-*In plain terms: each institution must write down its fair-process playbook instead of leaving people to guess. The map is not decorative paperwork — it must be usable in practice, with real owners, real records, and real routes to challenge and secondary review.*
+*In plain terms: each institution must write down its fair-process playbook instead of leaving sentients to guess. The map is not decorative paperwork — it must be usable in practice, with real owners, real records, and real routes to challenge and secondary review.*
 
 *Shared rules live elsewhere.* Cross-institution procedural terms are in [corpus_joint_structure.md](../corpus_joint_structure.md) **CJS-4.6** (*Shared procedural abstractions for delegated bodies and forum routing*) and **CJS-5.7** (*Implementation and cross-implementation procedural integrity and adjudication terms*). **CI-6** does not repeat those floors; it keeps only what each institution must name and maintain locally.
 
@@ -48,6 +48,10 @@
 - forum-expansion records when a forum's scope or certified route widens.
 
 For every required step in that map, the institution must also name the local owner, the record that proves the step was done correctly, how to challenge the outcome, and any institution-specific schedule for publication or secondary review.
+
+---
+
+**Previous file:** [ci_05_conflict_integrity_anti_capture_anti_corruption.md](ci_05_conflict_integrity_anti_capture_anti_corruption.md)
 
 ---
 

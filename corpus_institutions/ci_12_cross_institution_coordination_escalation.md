@@ -1,15 +1,12 @@
-## CI-8: Cross-institution coordination and escalation
+## CI-12: Cross-institution coordination and escalation
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions; and [Chapter Ten](../core_10-10_rights_part_a.md#chapter-ten-foundational-rights) rights architecture where rights interfaces are invoked.
-- Downstream: this section's local operational requirements for **CI-8: Cross-institution coordination and escalation**.
-- Read with: **CI-8**.
-- Topic routing (mandatory read-with): **CJS-R04** (*Routing, intake, transfer, certification, representative treatment*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CF-5**.
-- Topic routing (mandatory read-with): **CJS-R08** (*Independent investigative service and prosecution interface*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CF-9**.
-- Topic routing (mandatory read-with): **CJS-R17** (*Cross-implementation trust integrity (joint operation model)*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CJS-4.3**.
-- Topic routing (mandatory read-with): **CJS-R19** (*Implementation and cross-implementation integrity assurance and resilie…*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CJS-5.8**.
+- Downstream: this section's local operational requirements for **CI-12: Cross-institution coordination and escalation**.
+- Read with: **CI-12**.
 - Topic routing (primary owner): **CJS-R16** (*Cross-institution coordination, deadlock, and escalation*) in **CJS-2.1** (*Topic router (stable IDs)*). Mandatory read-with: **CF-5**, **CF-7**.
+- Topic routing (primary owner): **CJS-R18** (*Class-scaled lane staffing and competency redundancy for materially binding stewardship*) in **CJS-2.1** (*Topic router (stable IDs)*). Mandatory read-with: **CJS-4.5**, **CJS-5.2**.
 
 </details>
 
@@ -28,18 +25,18 @@
 
 <br>
 
-*In plain terms: **CI-8** is the institutions layer's overlap-and-deadlock rulebook — what happens when more than one body could handle the same matter, who coordinates handoffs, where to go when they disagree or stall, and how to reach an independent backup when the usual forum or investigator cannot act fairly. Shared coordination floors live in **CJS-5.8**; forum routing and transfer detail lives in **CF-5** and **CF-7**; independent investigative backup lives in **CF-9**; this file states what each institution must publish and maintain locally.*
+*In plain terms: **CI-12** is the institutions layer's overlap-and-deadlock rulebook — what happens when more than one body could handle the same matter, who coordinates handoffs, where to go when they disagree or stall, and how to reach an independent backup when the usual forum or investigator cannot act fairly. Shared coordination floors live in **CJS-5.8**; forum routing and transfer detail lives in **CF-5** and **CF-7**; independent investigative backup lives in **CF-9**; this file states what each institution must publish and maintain locally.*
 
 **Quick orientation**
 
 - **When this applies** — two or more institutions share jurisdiction, evidence custody, review duty, enforcement support, investigative interface, or forum-adjacent routing on the same matter.
 - **What the shared rules already cover** — conflict-order handling, a deadlock-breaker path, evidence-sharing boundaries, who is accountable for what, triggers for outside review when internal deadlock persists, independent investigative backup under **CF-9**, and cross-forum anti-self-judging backup under **Chapter Nine** (**CJS-5.8**).
 - **What each institution must publish** — who owns the coordination protocol; a role map; the records that prove transfers and escalations happened lawfully; deadlines; escalation triggers; and how the public can see the plan.
-- **Where people are sent when local review fails** — **CI-8** is the named escalation route when an institution is conflicted, captured, unavailable, or stonewalling — including when it cannot credibly commission outside assurance under **CI-7.2**.
+- **Where sentients are routed when local review fails** — **CI-12** is the named escalation route when an institution is conflicted, captured, unavailable, or stonewalling — including when it cannot credibly commission outside assurance under **CI-7.2**.
 
 *In plain terms: overlapping authority is not an excuse to improvise after a fight starts. Each affected institution must publish a usable coordination and escalation plan before conflict arises — with real owners, real deadlines, written transfer records, and backup routes that still work when independence is in doubt.*
 
-*Shared rules live elsewhere.* Cross-institution coordination terms are in [corpus_joint_structure.md](../corpus_joint_structure.md) **CJS-5.8** (*Implementation and cross-implementation integrity assurance and resilience operations*), especially **Cross-institution coordination and escalation chain**. **CI-8** does not repeat those floors; it keeps only what each institution must name and maintain locally.
+*Shared rules live elsewhere.* Cross-institution coordination terms are in [corpus_joint_structure.md](../corpus_joint_structure.md) **CJS-5.8** (*Implementation and cross-implementation integrity assurance and resilience operations*), especially **Cross-institution coordination and escalation chain**. **CI-12** does not repeat those floors; it keeps only what each institution must name and maintain locally.
 
 Apply **CJS-5.8** **Cross-institution coordination and escalation chain** for the shared floor.
 
@@ -65,6 +62,10 @@ External-order interactions must remain consistent with constitutional change an
 
 ---
 
-**Previous file:** [ci_07_oversight_assurance_controls_evidence.md](ci_07_oversight_assurance_controls_evidence.md)
+**Previous file:** [ci_11_resource_stewardship_incentive_integrity.md](ci_11_resource_stewardship_incentive_integrity.md)
 
-**Next file:** [ci_09_classification_linked_institutional_obligations.md](ci_09_classification_linked_institutional_obligations.md)
+---
+
+**Previous file:** [ci_11_resource_stewardship_incentive_integrity.md](ci_11_resource_stewardship_incentive_integrity.md)
+
+**Next file:** [ci_13_institutional_failure_sanctions_dissolution_accountability.md](ci_13_institutional_failure_sanctions_dissolution_accountability.md)

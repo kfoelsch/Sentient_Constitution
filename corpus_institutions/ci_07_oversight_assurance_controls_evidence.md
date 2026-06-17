@@ -36,7 +36,7 @@
 **What each institution must publish**
 
 - a local **line map** showing who runs operations, who independently challenges risk or compliance, and who provides independent assurance — without collapsing those roles into one self-checking lane;
-- limits on unjustified concentration of those roles in the same person or office; and
+- limits on unjustified concentration of those roles in the same role-holder or office; and
 - record and evidence custody strong enough to support audit, contest, correction, and continuity transfer under [Evidence Preservation](../core_05-05_definitions_c_dependent_clusters.md#evidence-preservation).
 
 ### CI-7.1: Controls declaration
@@ -64,7 +64,7 @@
 
 <br>
 
-*In plain terms: each institution must report on whether its safeguards work — but reporting is not only once a year. Routine attestation is the slowest tier. When something serious happens, default notice rules kick in immediately: ongoing harm, **Type N** data breaches, corruption discoveries, and major control failures must reach affected people, the assurance line, and supervisors on a published urgency schedule — not at the next annual review.*
+*In plain terms: each institution must report on whether its safeguards work — but reporting is not only once a year. Routine attestation is the slowest tier. When something serious happens, default notice rules kick in immediately: ongoing harm, **Type N** data breaches, corruption discoveries, and major control failures must reach affected sentients, the assurance line, and supervisors on a published urgency schedule — not at the next annual review.*
 
 Apply **CJS-5.8** **Control-failure declaration chain** and **Incident and assurance notification urgency floor** for the shared floors. Read **CJS-5.23** for **CUL** alignment, **CS-3** for **Type N** handling, and **CI-5.3** for corruption and integrity-trigger routing. **CI-7.1** keeps only local duties:
 
@@ -141,7 +141,7 @@ Apply [corpus_joint_structure.md](../corpus_joint_structure.md) **CJS-5.8** for 
 
 <br>
 
-*In plain terms: for high-impact supervised systems (**Class A** or **Class B**), institutions must designate contest-integrity monitors — watchdogs that check whether people can still challenge decisions and use review pathways fairly. Monitors watch pathway integrity (are the routes open, timely, and independent enough?), not the merits of individual disputes.*
+*In plain terms: for high-impact supervised systems (**Class A** or **Class B**), institutions must designate contest-integrity monitors — watchdogs that check whether sentients can still challenge decisions and use review pathways fairly. Monitors watch pathway integrity (are the routes open, timely, and independent enough?), not the merits of individual disputes.*
 
 Apply [corpus_joint_structure.md](../corpus_joint_structure.md) **CJS-5.8** for the shared contest-integrity pathway chain and monitor-independence floor. **CI-7.3** keeps only local duties:
 
@@ -163,4 +163,8 @@ Apply [corpus_joint_structure.md](../corpus_joint_structure.md) **CJS-5.8** for 
 
 **Previous file:** [ci_06_procedure_integrity_contestability_secondary_review.md](ci_06_procedure_integrity_contestability_secondary_review.md)
 
-**Next file:** [ci_08_cross_institution_coordination_escalation.md](ci_08_cross_institution_coordination_escalation.md)
+---
+
+**Previous file:** [ci_06_procedure_integrity_contestability_secondary_review.md](ci_06_procedure_integrity_contestability_secondary_review.md)
+
+**Next file:** [ci_08_transparency_participation_accessible_pathways.md](ci_08_transparency_participation_accessible_pathways.md)

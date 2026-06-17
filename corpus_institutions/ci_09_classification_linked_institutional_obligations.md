@@ -23,7 +23,7 @@
 
 <br>
 
-*In plain terms: **CI-9** is the institutions layer's "how much oversight does this deserve?" rulebook — how formation burdens, governance duties, domain maps, and delegated-subunit rules scale with a system's risk class and stewardship tier. Low-impact organizations should not face needless red tape; high-impact or high-dependency systems must face proportionate scrutiny. Shared scaling floors live in **CJS-5.2**, **CJS-5.16**, and **CJS-5.5**; delegated-body composition rules live in **CJS-4.1**; this file states what each institution must publish and maintain locally.*
+*In plain terms: **CI-9** is the institutions layer's "how much oversight does this deserve?" rulebook — how formation burdens, governance duties, domain maps, and delegated-subunit rules scale with a system's risk class and stewardship tier. Low-impact organizations must not face needless red tape; high-impact or high-dependency systems must face proportionate scrutiny. Shared scaling floors live in **CJS-5.2**, **CJS-5.16**, and **CJS-5.5**; delegated-body composition rules live in **CJS-4.1**; this file states what each institution must publish and maintain locally.*
 
 **Quick orientation**
 
@@ -41,7 +41,7 @@ Apply **CJS-5.2** **Classification-scaled governance burden** for the shared cla
 
 **Constitutional floor for formation**
 
-The operational mechanics in this section — registration, fiscal treatment, liability frameworks, and dissolution pathways — implement the Chapter Five rights floor for [System Creation](../core_05-05_definitions_b_semi_independent.md#system-creation-constitutional) (non-commercial institutional formation) and [Business Creation](../core_05-05_definitions_b_semi_independent.md#business-creation-constitutional) (commercial entrepreneurial formation). These mechanics must not narrow the constitutional floor. They must remain consistent with the [Assembly, Collective Organization, and Institutional Formation cluster](../core_05-05_definitions_c_dependent_clusters.md#assembly-collective-organization-institutional-formation-cluster) and owner-floor provisions in **Article IX-B** (System Creation) and **Article III-D** (Business Creation).
+The operational mechanics in this section — registration, fiscal treatment, liability frameworks, and dissolution pathways — implement the Chapter Five Rights Floor for [System Creation](../core_05-05_definitions_b_semi_independent.md#system-creation-constitutional) (non-commercial institutional formation) and [Business Creation](../core_05-05_definitions_b_semi_independent.md#business-creation-constitutional) (commercial entrepreneurial formation). These mechanics must not narrow the constitutional floor. They must remain consistent with the [Assembly, Collective Organization, and Institutional Formation cluster](../core_05-05_definitions_c_dependent_clusters.md#assembly-collective-organization-institutional-formation-cluster) and owner-floor provisions in **Article IX-B** (System Creation) and **Article III-D** (Business Creation).
 
 ### CI-9.1: Formation proportionality
 <details>
@@ -68,7 +68,7 @@ The operational mechanics in this section — registration, fiscal treatment, li
 
 <br>
 
-*In plain terms: starting or authorizing an institution should be as easy as the risk allows and as rigorous as the risk requires. A small low-impact group should not face the same paperwork as a body supervising survival-critical systems.*
+*In plain terms: starting or authorizing an institution must be as easy as the risk allows and as rigorous as the risk requires. A small low-impact group must not face the same paperwork as a body supervising survival-critical systems.*
 
 Apply **CJS-5.2** **Formation and authorization proportionality floor** for the shared scaling rule. **CI-9.1** keeps only what each formation or authorizing instrument must publish locally:
 
@@ -142,7 +142,7 @@ Apply **CJS-5.16** **Domain and sector classification mapping** for the shared d
 
 <br>
 
-*In plain terms: when an institution creates a subunit or hybrid decision body to share authority, the rules must be written down before people serve — who the parent is, what the subunit may decide, who sits on it, how long they serve, and what safeguards stop the subunit from becoming a shadow power structure.*
+*In plain terms: when an institution creates a subunit or hybrid decision body to share authority, the rules must be written down before sentients serve — who the parent is, what the subunit may decide, who sits on it, how long they serve, and what safeguards stop the subunit from becoming a shadow power structure.*
 
 Apply **CJS-4.1** (*Hybrid delegated authority (delegated binding bodies)*) and **CJS-4.6** (*Shared procedural abstractions for delegated bodies and forum routing*) for shared delegated-body abstractions. **CI-9.3** through **CI-9.3.4** state only institutional design-class, applicability, identification, authority-composition exception, rotating-attachment, and home-based term duties for delegated subunits at or above **Class C** under the highest published **CS-4 — System classification and handling** class.
 
@@ -315,6 +315,10 @@ Apply **CJS-5.5** **Survival-critical access and voluntary-market interface** fo
 
 ---
 
-**Previous file:** [ci_08_cross_institution_coordination_escalation.md](ci_08_cross_institution_coordination_escalation.md)
+**Previous file:** [ci_08_transparency_participation_accessible_pathways.md](ci_08_transparency_participation_accessible_pathways.md)
+
+---
+
+**Previous file:** [ci_08_transparency_participation_accessible_pathways.md](ci_08_transparency_participation_accessible_pathways.md)
 
 **Next file:** [ci_10_public_revenue_fees_recurring_charges_billing_integrity.md](ci_10_public_revenue_fees_recurring_charges_billing_integrity.md)

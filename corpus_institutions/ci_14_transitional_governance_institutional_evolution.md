@@ -33,7 +33,7 @@
 - **What must be published** — interim authority rules, review cadence, reauthorization windows, how unresolved risk is explained, and how evidence is kept through the handoff.
 - **What must be recorded** — material transition decisions, delays, reversals, and remediation actions, with rationale and risk implications, in auditable form.
 - **CI-14.1** — Article XXV-D role map for non-compliant property, seizure, and voluntary turnover incentives: who decides eligibility, holds custody, adjudicates payouts, executes enforcement, reviews outcomes, and runs the contest path.
-- **CI-14.2** — Article XXV-D trigger catalog, anti-abuse metrics, and publication requirements: what kinds of deprivation or incentive programs are in scope, what abuse signals to watch, and what summaries affected people and oversight bodies must receive.
+- **CI-14.2** — Article XXV-D trigger catalog, anti-abuse metrics, and publication requirements: what kinds of deprivation or incentive programs are in scope, what abuse signals to watch, and what summaries affected sentients and oversight bodies must receive.
 - **Read with** — **CI-5** for integrity routing and conflict disclosure; **CI-11** for stewardship and malus/clawback interfaces where **Class A**, **Class B**, or **Critical System Steward** scope applies; **CF-12** for forum continuity during transition; **Protocol T** when constitutional systems are materially involved.
 
 *In plain terms: "we're in transition" is not a license to suspend accountability. If an institution cannot say who holds interim power, when that power ends, how to challenge it, or what happens if the plan stalls, the transition is not constitutionally managed — no matter how many steering committees meet behind closed doors.*
@@ -84,7 +84,7 @@ Each institution in scope must name and maintain locally:
 
 <br>
 
-*In plain terms: when transition plans touch non-compliant property, seizure, impoundment, quarantine, or voluntary turnover incentives, every step in the chain needs a named owner — who decides someone is eligible, who holds the asset, who pays a bounty, who enforces, who reviews, who funds the program, how people are notified, and how they contest. The person who decides payouts must not be the same shop that decides seizures. For high-stakes **Class A**, **Class B**, and **Critical System Steward** scope, read with **Protocol A** subsection **G** and **CI-11**.*
+*In plain terms: when transition plans touch non-compliant property, seizure, impoundment, quarantine, or voluntary turnover incentives, every step in the chain needs a named owner — who decides someone is eligible, who holds the asset, who pays a bounty, who enforces, who reviews, who funds the program, how sentients are notified, and how they contest. The office that decides payouts must not be the same shop that decides seizures. For high-stakes **Class A**, **Class B**, and **Critical System Steward** scope, read with **Protocol A** subsection **G** and **CI-11**.*
 
 Apply **CJS-5.8** **Property-custody and incentive-separation control chain** for the shared floor. **CI-14.1** states only the **Article XXV-D** role map. Each institution in scope must name locally:
 
@@ -127,7 +127,7 @@ For **Class A**, **Class B**, and **Critical System Steward** scope, connect to 
 
 <br>
 
-*In plain terms: **CI-14.2** turns **Article XXV-D** into a practical checklist institutions must publish in transition plans — what kinds of deprivation or incentive programs are allowed, what abuse patterns are out of bounds, what metrics show the program is not being weaponized, and what summaries ordinary people and oversight bodies receive on a fixed schedule. The constitutional rights floor lives in **Chapter Ten**; this subsection is implementation-only.*
+*In plain terms: **CI-14.2** turns **Article XXV-D** into a practical checklist institutions must publish in transition plans — what kinds of deprivation or incentive programs are allowed, what abuse patterns are out of bounds, what metrics show the program is not being weaponized, and what summaries ordinary sentients and oversight bodies receive on a fixed schedule. The constitutional Rights Floor lives in **Chapter Ten**; this subsection is implementation-only.*
 
 **Constitutional home:** **Chapter Ten**, **Article XXV-D** (*Non-Compliant Property, Seizure, Impoundment, Quarantine, Forfeiture, and Voluntary Turnover Incentives*). This subsection is **implementation-only**; it does not restate the Rights Floor.
 
@@ -165,4 +165,8 @@ Institutions must publish or provide stakeholder-facing summaries on a fixed cad
 
 **Previous file:** [ci_13_institutional_failure_sanctions_dissolution_accountability.md](ci_13_institutional_failure_sanctions_dissolution_accountability.md)
 
-**Next file:** [ci_15_vulnerable_personal_services_markets_article_xc_interface.md](ci_15_vulnerable_personal_services_markets_article_xc_interface.md)
+---
+
+**Previous file:** [ci_13_institutional_failure_sanctions_dissolution_accountability.md](ci_13_institutional_failure_sanctions_dissolution_accountability.md)
+
+**Next file:** [ci_15_neurodiversity_disability_justice_trauma_informed_participation.md](ci_15_neurodiversity_disability_justice_trauma_informed_participation.md)

@@ -34,7 +34,7 @@
 - **What dissolution is not** — not a substitute for misconduct classification under **Chapter Eight** or ordinary personal accountability under constitutional law.
 - **Read with** — **CF-7** for lead-record custody and alignment rulings; **CF-11** where forum performance thresholds trigger **CI-13** consequences; **CI-5** for integrity triggers and routing; **CI-8** when cross-institution escalation is needed; **CI-11** for stewardship and malus/clawback interfaces; **CI-14** for transitional governance during structural change.
 
-*In plain terms: breaking constitutional obligations is not an administrative annoyance you can paper over forever. Lesser sanctions come first when they can work — but if an institution resists realignment, hides failures, or keeps harming people after a fair chance to fix things, the consequence path must escalate with continuity safeguards so services, records, and challenge rights do not disappear in the wreckage. The institution under review cannot be the only place those facts are written down.*
+*In plain terms: breaking constitutional obligations is not an administrative annoyance you can paper over forever. Lesser sanctions come first when they can work — but if an institution resists realignment, hides failures, or keeps harming sentients after a fair chance to fix things, the consequence path must escalate with continuity safeguards so services, records, and challenge rights do not disappear in the wreckage. The institution under review cannot be the only place those facts are written down.*
 
 *Shared rules live elsewhere.* Realignment-resistance, dissolution-review triggers, correction urgency, and continuity safeguards during escalation are in [corpus_joint_structure.md](../corpus_joint_structure.md) **CJS-5.23** (*Implementation and cross-implementation structural review, correction urgency, and disclosure terms*), especially **Realignment resistance and dissolution-review trigger floor**. Integrity-trigger routing, verified misconduct handling, and resilience operations are read with **CJS-5.8** (*Implementation and cross-implementation integrity assurance and resilience operations*). Official Integrity forum lead-record mechanics are in **CF-7** (*Integrity safeguards, anti-capture operations, and anti-self-judging support*). **CI-13** does not repeat those floors; it states institutional cooperation, implementation, and publication duties against a forum-held official record.
 
@@ -72,6 +72,10 @@ Where verified realignment resistance satisfies **Chapter Eight** criteria, incl
 
 ---
 
-**Previous file:** [ci_12_transparency_participation_accessible_pathways.md](ci_12_transparency_participation_accessible_pathways.md)
+**Previous file:** [ci_12_cross_institution_coordination_escalation.md](ci_12_cross_institution_coordination_escalation.md)
+
+---
+
+**Previous file:** [ci_12_cross_institution_coordination_escalation.md](ci_12_cross_institution_coordination_escalation.md)
 
 **Next file:** [ci_14_transitional_governance_institutional_evolution.md](ci_14_transitional_governance_institutional_evolution.md)

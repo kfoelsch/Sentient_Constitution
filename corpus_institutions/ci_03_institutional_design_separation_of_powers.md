@@ -196,4 +196,8 @@ Each institution must maintain a plain-language risk appetite and tolerance stat
 
 **Previous file:** [ci_02_implementation_integration_map.md](ci_02_implementation_integration_map.md)
 
+---
+
+**Previous file:** [ci_02_implementation_integration_map.md](ci_02_implementation_integration_map.md)
+
 **Next file:** [ci_04_appointment_competency_rotation_removal.md](ci_04_appointment_competency_rotation_removal.md)

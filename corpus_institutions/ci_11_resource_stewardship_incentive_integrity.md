@@ -33,7 +33,7 @@
 - **CI-11.3** — fiscal-orientation pointers to **CI-10** and **CI-9.4**.
 - **CI-11.4** — how each institution aligns funding choices and pay/incentive design with stewardship duties under **Protocol S5**, including malus and clawback when misconduct is verified.
 
-*In plain terms: you cannot run a serious institution on vibes and vanity metrics. If continuity depends on a resource, name it, stress-test it, and do not let pay schemes reward the people who weaken it.*
+*In plain terms: you cannot run a serious institution on vibes and vanity metrics. If continuity depends on a resource, name it, stress-test it, and do not let pay schemes reward the sentients who weaken it.*
 
 *Shared rules live elsewhere.* Resource and continuity dependency evaluation is in [corpus_joint_structure.md](../corpus_joint_structure.md) **CJS-5.16** (*Implementation and cross-implementation dependency integrity and disclosure terms*), especially **Resource and continuity dependency adequacy**. Severe control failure, verified misconduct, evidence custody, and resilience claims are read with **CJS-5.8** (*Implementation and cross-implementation integrity assurance and resilience operations*). **CI-11** does not repeat those floors; it keeps only institutional stewardship triggers, consequence interfaces, and fiscal-allocation alignment duties.
 
@@ -76,4 +76,8 @@ Taxes, access charges, and similar revenue are covered in **CI-10.1** and **CI-1
 
 **Previous file:** [ci_10_public_revenue_fees_recurring_charges_billing_integrity.md](ci_10_public_revenue_fees_recurring_charges_billing_integrity.md)
 
-**Next file:** [ci_12_transparency_participation_accessible_pathways.md](ci_12_transparency_participation_accessible_pathways.md)
+---
+
+**Previous file:** [ci_10_public_revenue_fees_recurring_charges_billing_integrity.md](ci_10_public_revenue_fees_recurring_charges_billing_integrity.md)
+
+**Next file:** [ci_12_cross_institution_coordination_escalation.md](ci_12_cross_institution_coordination_escalation.md)

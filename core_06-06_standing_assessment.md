@@ -120,7 +120,7 @@ The model is also built to avoid predictable enforcement failures. Contribution-
 
 <br>
 
-*In plain terms: Section 2 creates the **standing record** — a focused case file about one person, institution, or situation over a clear time period. It is not a permanent popularity score or a vague label. The file must spell out who is being assessed and why, stay reviewable by others, be updated when important facts change, and keep prior versions so changes can be traced. Section 3 then sets the evidence rule: only properly verified facts can affect standing; accusations and complaints do not count by themselves; and what someone did well and what they did wrong stay on separate tracks instead of being blended or canceled out.*
+*In plain terms: Section 2 creates the **standing record** — a focused case file about one sentient, institution, or situation over a clear time period. It is not a permanent popularity score or a vague label. The file must spell out who is being assessed and why, stay reviewable by others, be updated when important facts change, and keep prior versions so changes can be traced. Section 3 then sets the evidence rule: only properly verified facts can affect standing; accusations and complaints do not count by themselves; and what a sentient did well and what they did wrong stay on separate tracks instead of being blended or canceled out.*
 
 <a id="21-standing-records-as-the-unit-of-application"></a>
 

@@ -1,6 +1,6 @@
-# Governance disclosure template (CI-12 / CI-26)
+# Governance disclosure template (CI-8 / CI-26)
 
-**Maps to:** `corpus_institutions.md` **CI-12** (*Transparency, participation, accessible pathways*), **CI-12.4** (*Governance disclosure schema*), **CI-26** (*Compliance mapping and stable registry*).  
+**Maps to:** `corpus_institutions.md` **CI-8** (*Transparency, participation, accessible pathways*), **CI-8.4** (*Governance disclosure schema*), **CI-26** (*Compliance mapping and stable registry*).  
 **Non-authoritative** unless adopted.
 
 ## Publication cadence

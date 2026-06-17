@@ -188,4 +188,8 @@ The following shared rules govern class-scaling — local role maps must apply t
 
 **Previous file:** [ci_03_institutional_design_separation_of_powers.md](ci_03_institutional_design_separation_of_powers.md)
 
+---
+
+**Previous file:** [ci_03_institutional_design_separation_of_powers.md](ci_03_institutional_design_separation_of_powers.md)
+
 **Next file:** [ci_05_conflict_integrity_anti_capture_anti_corruption.md](ci_05_conflict_integrity_anti_capture_anti_corruption.md)

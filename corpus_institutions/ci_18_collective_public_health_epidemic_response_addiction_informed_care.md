@@ -1,10 +1,10 @@
-## CI-25: Collective public health, epidemic response, and addiction-informed care
+## CI-18: Collective public health, epidemic response, and addiction-informed care
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions; and [Chapter Ten](../core_10-10_rights_part_a.md#chapter-ten-foundational-rights) rights architecture where rights interfaces are invoked.
-- Downstream: this section's local operational requirements for **CI-25: Collective public health, epidemic response, and addiction-informed care**.
-- Read with: **CI-25**; **CI-5**; **CI-7**.
+- Downstream: this section's local operational requirements for **CI-18: Collective public health, epidemic response, and addiction-informed care**.
+- Read with: **CI-18**; **CI-5**; **CI-7**.
 
 </details>
 
@@ -23,7 +23,7 @@
 
 <br>
 
-*In plain terms: **CI-25** is the institutions layer's rulebook for epidemics, environmental exposure, population-level harm, and addiction — treated as collective-care and governance problems, not as excuses for permanent emergency rule or stigma-driven punishment. When a restriction limits movement, association, access, or participation, the support bundle that makes that restriction necessary must come with it: housing, subsistence, care access, accessibility, ventilation, treatment, or stabilization support where material. Addiction response must route toward care and stabilization, not shame, criminalization, or coercive treatment when a less restrictive pathway can work. Emergency secrecy must have a sunset and review route. Shared collective-health and emergency support-bundle floors live in **CJS-5.5**; constitutional meaning lives in **Article I-D** (*Existential Risk and Recovery Capacity*), **Article III-C** (*Bodily-Maintenance and Healthcare Access*), **Article VII-C** (*Mental-Health Crisis and Involuntary-Intervention Floor*), and **Article XXIII-D** (*Emergency Measures and Continuation Burden*); this file states what each institution must name, file, and maintain locally.*
+*In plain terms: **CI-18** is the institutions layer's rulebook for epidemics, environmental exposure, population-level harm, and addiction — treated as collective-care and governance problems, not as excuses for permanent emergency rule or stigma-driven punishment. When a restriction limits movement, association, access, or participation, the support bundle that makes that restriction necessary must come with it: housing, subsistence, care access, accessibility, ventilation, treatment, or stabilization support where material. Addiction response must route toward care and stabilization, not shame, criminalization, or coercive treatment when a less restrictive pathway can work. Emergency secrecy must have a sunset and review route. Shared collective-health and emergency support-bundle floors live in **CJS-5.5**; constitutional meaning lives in **Article I-D** (*Existential Risk and Recovery Capacity*), **Article III-C** (*Bodily-Maintenance and Healthcare Access*), **Article VII-C** (*Mental-Health Crisis and Involuntary-Intervention Floor*), and **Article XXIII-D** (*Emergency Measures and Continuation Burden*); this file states what each institution must name, file, and maintain locally.*
 
 **Quick orientation**
 
@@ -48,12 +48,12 @@
 - **Chapter Five** [*Emergency and Contingency*](../core_05-05_definitions_b_semi_independent.md#emergency-and-contingency-constitutional) — definitional home for emergency framing, duration, and contingency discipline.
 - **CI-5** — integrity routing and anti-capture interfaces where public-health enforcement or funding creates capture risk.
 - **CI-7** — controls declaration, external-assurance triggers, and oversight when collective-health programs fail or require independent review.
-- **CI-25 scope** — does not repeat those floors; states local pathway, support-bundle, addiction-routing, stigma-control, and emergency-secrecy sunset owner duties.
+- **CI-18 scope** — does not repeat those floors; states local pathway, support-bundle, addiction-routing, stigma-control, and emergency-secrecy sunset owner duties.
 
 **Apply**
 
 - Apply **CJS-5.5** **Collective-health and emergency support-bundle floor** for the shared floor.
-- **CI-25** states only the local pathway owner, support-bundle record, addiction-routing owner, stigma-control file, and emergency-secrecy sunset review route.
+- **CI-18** states only the local pathway owner, support-bundle record, addiction-routing owner, stigma-control file, and emergency-secrecy sunset review route.
 
 **Local collective public-health and addiction-care role map**
 
@@ -69,6 +69,10 @@ Read **CI-5** and **CI-7** for integrity and oversight interfaces.
 
 ---
 
-**Previous file:** [ci_24_neurodiversity_disability_justice_trauma_informed_participation.md](ci_24_neurodiversity_disability_justice_trauma_informed_participation.md)
+**Previous file:** [ci_17_end_of_life_continuity_memorial_dignity_posthumous_data.md](ci_17_end_of_life_continuity_memorial_dignity_posthumous_data.md)
 
-**Next file:** [ci_26_compliance_mapping_stable_registry.md](ci_26_compliance_mapping_stable_registry.md)
+---
+
+**Previous file:** [ci_17_end_of_life_continuity_memorial_dignity_posthumous_data.md](ci_17_end_of_life_continuity_memorial_dignity_posthumous_data.md)
+
+**Next file:** [ci_19_vulnerable_personal_services_markets_article_xc_interface.md](ci_19_vulnerable_personal_services_markets_article_xc_interface.md)

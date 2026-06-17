@@ -153,4 +153,8 @@ Contribution, violation, standing, and Violation Axis classification remain unde
 
 **Previous file:** [ci_04_appointment_competency_rotation_removal.md](ci_04_appointment_competency_rotation_removal.md)
 
+---
+
+**Previous file:** [ci_04_appointment_competency_rotation_removal.md](ci_04_appointment_competency_rotation_removal.md)
+
 **Next file:** [ci_06_procedure_integrity_contestability_secondary_review.md](ci_06_procedure_integrity_contestability_secondary_review.md)
