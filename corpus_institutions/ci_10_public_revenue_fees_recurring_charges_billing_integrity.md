@@ -23,8 +23,19 @@
 
 <br>
 
+*In plain terms: **CI-10** is the institutions layer's money-and-access rulebook — how public revenue, user fees, subscriptions, and recurring charges must stay fair, transparent, and aligned with how essential the underlying system is. You should not be priced out of survival-critical access, tricked into paid renewals, or trapped in billing cycles you cannot exit. Shared fiscal and charge-exit floors live in **CJS-5.5** and **CJS-5.17**; digital pathway detail lives in **CI-12.3**; this file states what each institution must publish and maintain locally.*
 
-**CI-10** collects class-aligned fiscal orientation and recurring-charge institutional duties. Read **CI-9**, **CI-9.3**, and **CI-9.4** for classification and **Article III-A** interfaces. Tax bases, rates, credits, enforcement, and cross-border rules remain governing law outside this file.
+**Quick orientation**
+
+- **What this file covers** — class-aligned fiscal orientation and supervised recurring-charge duties for institutions that set, supervise, or charter fee and billing rules.
+- **What this file does not cover** — tax bases, rates, credits, enforcement mechanics, and cross-border tax law. Those remain governing law outside **CI-10**.
+- **CI-10.1** — public revenue and user fees: charges must align with system class and must not make essential access unaffordable or administratively unreachable.
+- **CI-10.2** — subscriptions, renewals, trials, and commercial billing: honest disclosure before commitment, usable cancel/downgrade paths, and supervision maps for recurring charges.
+- **Read with** — **CI-9** and **CI-9.4** for classification and essential-access interfaces; **CI-12.3** where digital self-service billing pathways apply.
+
+*In plain terms: if money touches access, the charge design must match the system's real importance — and people must be able to see what they owe, challenge unfair fees, and leave recurring charges through a published path that actually works.*
+
+*Shared rules live elsewhere.* Class-aligned revenue and access-burden terms are in [corpus_joint_structure.md](../corpus_joint_structure.md) **CJS-5.5** (*Implementation and cross-implementation burden of justification and constraint terms*). Commitment, renewal, and charge-exit terms are in **CJS-5.17** (*Implementation and cross-implementation interoperability, portability, and exit-integrity terms*). **CI-10** does not repeat those floors; it keeps only institutional fiscal-map, supervision, and reporting duties.
 
 ### CI-10.1: Public revenue, user fees, and class-aligned burden
 <details>
@@ -51,7 +62,14 @@
 
 <br>
 
-Apply `corpus_joint_structure.md` **CJS-5.5** **Class-aligned revenue and access-burden floor** for the shared floor. **CI-10.1** states only the fiscal-map owner, constrained-capacity priority owner, and **Protocol S5** reporting channel; identify **CI-10.2** and **CI-12.3** owners where recurring charges are supervised.
+*In plain terms: fees and public charges must fit the system's risk class — survival-critical and normal-operation-critical access cannot be treated as the main place to extract money. Commercial or premium use may bear more cost; baseline participation should not.*
+
+Apply **CJS-5.5** **Class-aligned revenue and access-burden floor** for the shared floor. **CI-10.1** keeps only what each institution must name and maintain locally:
+
+- who owns the **fiscal map** linking revenue and charge choices to published class and tier assignments;
+- who owns **constrained-capacity priority** rules when limited public capacity must be allocated fairly;
+- the **Protocol S5** reporting channel for resource-allocation and funding-stewardship alignment; and
+- named owners for **CI-10.2** and **CI-12.3** where the institution supervises recurring charges or digital billing pathways.
 
 ### CI-10.2: Recurring charges, renewals, and commercial billing integrity
 <details>
@@ -78,7 +96,22 @@ Apply `corpus_joint_structure.md` **CJS-5.5** **Class-aligned revenue and access
 
 <br>
 
-Apply `corpus_joint_structure.md` **CJS-5.17** **Commitment, renewal, and charge-exit integrity** for the shared floor. **CI-10.2** states only the charge-supervision map owner, stricter-law check, reclassification trigger, and **CI-10.1** fiscal-interface linkage; publish the local map naming charge type, class/tier assignment, accountable office, evidence artifact, and billing/exit complaint route.
+*In plain terms: subscriptions, memberships, trials, and auto-renewals must be honest before you sign up — clear price, clear timing, clear renewal rules — and cancellation or downgrade must work through a published path without dark patterns or surprise charges after exit.*
+
+Apply **CJS-5.17** **Commitment, renewal, and charge-exit integrity** for the shared floor. **CI-10.2** keeps only what each institution must name and maintain locally:
+
+- who owns the **charge-supervision map** for recurring and transaction-linked charges the institution supervises, charters, or sets compliance expectations for;
+- a **stricter-law check** duty where governing law imposes stronger billing or consumer-protection requirements;
+- **reclassification triggers** when essentiality or dependency changes and charge treatment must be reviewed with **CI-9** classification; and
+- linkage to the **CI-10.1** fiscal interface where public revenue and supervised charges intersect.
+
+Each supervised charge type must appear on the local map with:
+
+- charge type and supervised scope;
+- class and tier assignment under **CI-9**;
+- the accountable office;
+- the evidence artifact showing compliance; and
+- the billing and exit complaint route — including coordination with **CI-12.3** where digital self-service pathways apply.
 
 ---
 

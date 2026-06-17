@@ -28,8 +28,38 @@
 
 <br>
 
+*In plain terms: **CI-8** is the institutions layer's overlap-and-deadlock rulebook — what happens when more than one body could handle the same matter, who coordinates handoffs, where to go when they disagree or stall, and how to reach an independent backup when the usual forum or investigator cannot act fairly. Shared coordination floors live in **CJS-5.8**; forum routing and transfer detail lives in **CF-5** and **CF-7**; independent investigative backup lives in **CF-9**; this file states what each institution must publish and maintain locally.*
 
-Where institutions share jurisdiction, evidence custody, review responsibility, enforcement support, investigative interface, or forum-adjacent routing, apply `corpus_joint_structure.md` **CJS-5.8** **Cross-institution coordination and escalation chain** for the shared floor. **CI-8** states only the local protocol owner, role map, record, deadline, escalation-trigger, publication, and **CF-9** / Chapter Nine backup-routing duties.
+**Quick orientation**
+
+- **When this applies** — two or more institutions share jurisdiction, evidence custody, review duty, enforcement support, investigative interface, or forum-adjacent routing on the same matter.
+- **What the shared rules already cover** — conflict-order handling, a deadlock-breaker path, evidence-sharing boundaries, who is accountable for what, triggers for outside review when internal deadlock persists, independent investigative backup under **CF-9**, and cross-forum anti-self-judging backup under **Chapter Nine** (**CJS-5.8**).
+- **What each institution must publish** — who owns the coordination protocol; a role map; the records that prove transfers and escalations happened lawfully; deadlines; escalation triggers; and how the public can see the plan.
+- **Where people are sent when local review fails** — **CI-8** is the named escalation route when an institution is conflicted, captured, unavailable, or stonewalling — including when it cannot credibly commission outside assurance under **CI-7.2**.
+
+*In plain terms: overlapping authority is not an excuse to improvise after a fight starts. Each affected institution must publish a usable coordination and escalation plan before conflict arises — with real owners, real deadlines, written transfer records, and backup routes that still work when independence is in doubt.*
+
+*Shared rules live elsewhere.* Cross-institution coordination terms are in [corpus_joint_structure.md](../corpus_joint_structure.md) **CJS-5.8** (*Implementation and cross-implementation integrity assurance and resilience operations*), especially **Cross-institution coordination and escalation chain**. **CI-8** does not repeat those floors; it keeps only what each institution must name and maintain locally.
+
+Apply **CJS-5.8** **Cross-institution coordination and escalation chain** for the shared floor.
+
+**What each institution must publish**
+
+- who owns the local coordination and escalation protocol;
+- a role map showing which institution or office handles intake, evidence custody, review, enforcement support, investigative interface, transfer, and backup routing for overlapping matters;
+- the records required to review transfer, recusal, unavailability, backup designation, and lawful-panel formation;
+- published deadlines for coordination steps and escalation;
+- published escalation triggers — including when persistent internal deadlock, capture indicators, emergency incapacity, or independence failure requires outside review, **CF-9** backup, or **Chapter Nine** backup routing; and
+- cooperation duties with the independent investigative service interface under **CF-9** and with forum backup-routing rules under **Chapter Nine** where materially applicable.
+
+**What is not allowed**
+
+- leaving shared jurisdiction without a usable escalation path;
+- breaking deadlock through the body whose independence is materially contested;
+- transferring a matter without a reasoned record;
+- letting emergency incapacity, concentration, capture indicators, local enforcement involvement, security-service involvement, private-contractor involvement, or parallel-body involvement defeat independent backup routing.
+
+**External-order boundary**
 
 External-order interactions must remain consistent with constitutional change and supremacy rules in `core_12-14_amendment.md` **Chapters Twelve through Fourteen**.
 
