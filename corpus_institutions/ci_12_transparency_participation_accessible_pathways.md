@@ -5,6 +5,7 @@
 - Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions; and [Chapter Ten](../core_10-10_rights_part_a.md#chapter-ten-foundational-rights) rights architecture where rights interfaces are invoked.
 - Downstream: [CI-12.1: Stakeholder oversight, notification, and binding-governance pathway integrity](#ci-121-stakeholder-oversight-notification-and-binding-governance-pathway-integrity); [CI-12.2: Anti-concentration and participation-legitimacy safeguards](#ci-122-anti-concentration-and-participation-legitimacy-safeguards); [CI-12.3: Digital self-service pathway integrity](#ci-123-digital-self-service-pathway-integrity).
 - Read with: **CI-12**; **CI-12.1**; **CI-12.2**; **CI-8**; **CI-12.3**; **CI-10.2**; **CI-10**.
+- Topic routing (primary owner): **CJS-R18** (*Class-scaled lane staffing and competency redundancy for materially bin…*) in **CJS-2.1** (*Topic router (stable IDs)*). Mandatory read-with: **CJS-4.5**, **CJS-5.2**.
 
 </details>
 
@@ -23,8 +24,6 @@
 
 <br>
 
-
-**Router read:** Primary owner for **CJS-R18** (*Class-scaled lane staffing and competency redundancy for materially bin…*) in **CJS-2.1** (*Topic router (stable IDs)*). Mandatory read-with: **CJS-4.5**, **CJS-5.2**.
 
 Apply `corpus_joint_structure.md` **CJS-5.13** **Institutional participation and pathway accessibility floor** for the shared understandability, participation, challenge, accessibility, protected-escalation, and anti-retaliation floor. **CI-12** states only local publication, office, record, escalation, and stewardship-pathway owner duties linked to **Article III-B** and **Chapter Ten**, section 5.
 

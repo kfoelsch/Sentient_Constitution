@@ -1,21 +1,23 @@
 #!/usr/bin/env python3
-"""Insert standardized **Router read:** blocks for CJS-2.1 bidirectional routing."""
+"""Insert CJS-2.1 topic-routing trace bullets for bidirectional routing."""
 
 from __future__ import annotations
 
 import argparse
 import re
-import sys
 from collections import defaultdict
 from pathlib import Path
 
 from router_table_lib import (
-    ROUTER_READ_RE,
+    CORPUS_FOLDERS,
+    apply_topic_routing_to_trace,
     build_section_index,
     extract_section,
     load_router_rows,
     primary_owner_line,
     read_with_line,
+    strip_legacy_router_read_labels,
+    strip_routing_annotations,
 )
 
 LEGACY_PRIMARY_RE = re.compile(
@@ -43,24 +45,10 @@ def parse_args() -> argparse.Namespace:
     return parser.parse_args()
 
 
-def after_widget_insert_index(section_text: str) -> int:
-    parts = section_text.split("</details>", 2)
-    if len(parts) < 3:
-        return 0
-    prefix = parts[0] + "</details>" + parts[1] + "</details>"
-    tail = parts[2]
-    match = re.search(r"\n*<br>\s*\n*", tail)
-    if match:
-        return len(prefix) + match.end()
-    return len(prefix)
-
-
 def strip_router_lines(section_text: str) -> str:
-    lines = section_text.splitlines()
+    lines = strip_routing_annotations(section_text).splitlines()
     kept: list[str] = []
     for line in lines:
-        if ROUTER_READ_RE.match(line):
-            continue
         if LEGACY_PRIMARY_RE.match(line):
             continue
         kept.append(line)
@@ -69,12 +57,10 @@ def strip_router_lines(section_text: str) -> str:
 
 def apply_router_lines(section_text: str, router_lines: list[str]) -> str:
     cleaned = strip_router_lines(section_text)
-    if not router_lines:
-        return cleaned
-    block = "\n".join(router_lines) + "\n\n"
-    insert_at = after_widget_insert_index(cleaned)
-    tail = cleaned[insert_at:]
-    return cleaned[:insert_at] + block + tail.lstrip("\n")
+    updated = apply_topic_routing_to_trace(cleaned, router_lines)
+    stripped = section_text.rstrip("\n")
+    suffix = section_text[len(stripped) :]
+    return updated.rstrip("\n") + suffix
 
 
 def main() -> int:
@@ -119,7 +105,18 @@ def main() -> int:
         if updated_section == section_text:
             continue
         changed_files[path] = original.replace(section_text, updated_section, 1)
-        print(f"update {path.relative_to(root)} :: {section_id} ({len(lines)} router lines)")
+        print(f"update {path.relative_to(root)} :: {section_id} ({len(lines)} topic-routing bullets)")
+
+    for folder in CORPUS_FOLDERS:
+        folder_path = root / folder
+        if not folder_path.is_dir():
+            continue
+        for path in folder_path.glob("*.md"):
+            original = changed_files.get(path, path.read_text(encoding="utf-8"))
+            cleaned = strip_legacy_router_read_labels(original)
+            if cleaned != original:
+                changed_files[path] = cleaned
+                print(f"strip legacy router labels {path.relative_to(root)}")
 
     if args.write:
         for path, content in changed_files.items():

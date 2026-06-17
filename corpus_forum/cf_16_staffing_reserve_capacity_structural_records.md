@@ -5,6 +5,7 @@
 - Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Nine](../core_09-09_forum.md#chapter-nine-forums-and-jurisdiction) forum-family routing; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
 - Downstream: [CF-16.1 Composition and competence requirements](#cf-161-composition-and-competence-requirements); [CF-16.1.1 Support-role-to-adjudicator pathways](#cf-1611-support-role-to-adjudicator-pathways); [CF-16.2 Reserve, substitute, and surge capacity](#cf-162-reserve-substitute-and-surge-capacity).
 - Read with: **CF-16**; **CF-3**; **CF-5**; **CF-4**; **CF-8**; **CF-11**; **CF-12**; **CF-13**; **CF-14**; **CF-16.1**; **CF-16.1.1**.
+- Topic routing (primary owner): **CJS-R13** (*Forum staffing, shared administration, structural review, structural re…*) in **CJS-2.1** (*Topic router (stable IDs)*). Mandatory read-with: **CI-4**, **CI-5**, **CI-9.3**.
 
 </details>
 
@@ -23,8 +24,6 @@
 
 <br>
 
-
-**Router read:** Primary owner for **CJS-R13** (*Forum staffing, shared administration, structural review, structural re…*) in **CJS-2.1** (*Topic router (stable IDs)*). Mandatory read-with: **CI-4**, **CI-5**, **CI-9.3**.
 
 This chapter governs forum-specific **staffing and competence frameworks**, **support-role-to-adjudicator pathways**, **reserve and surge capacity**, **shared administration and objective assignment** safeguards, **periodic structural review**, **prohibited staffing and capacity patterns**, and the **structural governance record set** that adopting entities must maintain. It complements **CF-3** (forum-structure map, family boundaries, chambers, and minimum bench-support availability), **CF-5** (routing and intake), **CF-4** (panel formation and recusal), **CF-8** (forum forensic and analytical support), **CF-11** (performance and backlog), and **CF-12** through **CF-14** (continuity, fallback operation, and emergency adjudication).
 
@@ -281,9 +280,7 @@ Each adopting entity must maintain and periodically update at least:
 - support-role-to-adjudicator pathway criteria, training or supervised-service requirements, and advancement or denial review routes;
 - disqualification, incompatibility, rotation, cooling-off, and succession rules applicable to forum-family service;
 - reserve-capacity and substitute-service rules;
-- a structural review log recording major redesigns, mergers avoided, chamber additions, and other significant architecture changes affecting forum operation.
-
----
+- a structural review log recording major redesigns, mergers avoided, chamber additions, and other significant architecture changes affecting forum operation.---
 
 ## Relationship to existing files
 <details>

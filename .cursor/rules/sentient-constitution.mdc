@@ -28,7 +28,8 @@ This repository is the **Sentient Constitution** markdown corpus and tooling—n
 |------------|-------------|
 | `court` / `courts` (institutional / adjudicative sense) | `forums`, `forum family` for routing, or `adjudicative body` where a generic label is still needed |
 | `tribunal` / `tribunals` (internal Chapter Nine / forum-governance sense) | `forum` / `forums`, `forum family`, `panel`, `bench`, or `adjudicative body` as context requires |
+| `Router read` (body-prose label for CJS-2.1 routing) | `- Topic routing (primary owner):` or `- Topic routing (mandatory read-with):` bullets inside the Trace `<details>` block |
 
-**Exceptions:** verbatim external quotations; proper names and historical titles where source fidelity requires; lemmas **courtesy** / **courteous** (not the institutional sense).
+**Exceptions:** verbatim external quotations; proper names and historical titles where source fidelity requires; lemmas **courtesy** / **courteous** (not the institutional sense); **Topic router** as the **CJS-2.1** section title.
 
 See [`doc_architecture.md`](../doc_architecture.md) **Plain-Language Vocabulary Guardrails** for the full vocabulary table.

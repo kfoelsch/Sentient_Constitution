@@ -5,6 +5,9 @@
 - Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Nine](../core_09-09_forum.md#chapter-nine-forums-and-jurisdiction) forum-family routing; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
 - Downstream: [CF-7.1 Alignment rulings, component referral, and supervisory coordination](#cf-71-alignment-rulings-component-referral-and-supervisory-coordination); [CF-7.2 Constitutional alignment recognition and review](#cf-72-constitutional-alignment-recognition-and-review); [CF-7.3 Anti-self-judging activation, capture-sensitive routing, contest-integrity interfaces, and family-level capture](#cf-73-anti-self-judging-activation-capture-sensitive-routing-contest-integrity-interfaces-and-family-level-capture).
 - Read with: **CF-7**; **CF-7.1**; **CF-7.2**; **CF-7.3**; **CF-8**; **CF-9**; **CF-5**; **CF-6.1**; **CF-6.1.2**.
+- Topic routing (mandatory read-with): **CJS-R11A** (*Fallback operation*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CF-13**.
+- Topic routing (mandatory read-with): **CJS-R16** (*Cross-institution coordination, deadlock, and escalation*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CI-8**.
+- Topic routing (primary owner): **CJS-R06** (*Forum integrity operations, anti-capture, anti-self-judging support*) in **CJS-2.1** (*Topic router (stable IDs)*). Mandatory read-with: **CI-5**, **CI-7.3**.
 
 </details>
 
@@ -23,10 +26,6 @@
 
 <br>
 
-
-**Router read:** Mandatory read-with for **CJS-R11A** (*Fallback operation*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CF-13**.
-**Router read:** Mandatory read-with for **CJS-R16** (*Cross-institution coordination, deadlock, and escalation*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CI-8**.
-**Router read:** Primary owner for **CJS-R06** (*Forum integrity operations, anti-capture, anti-self-judging support*) in **CJS-2.1** (*Topic router (stable IDs)*). Mandatory read-with: **CI-5**, **CI-7.3**.
 
 **Constitutional index (abridged)**
 - This section collects the forum-side safeguards for Integrity forum alignment work, capture-sensitive routing, anti-self-judging support, and family-level capture activation.

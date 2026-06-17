@@ -5,6 +5,7 @@
 - Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Nine](../core_09-09_forum.md#chapter-nine-forums-and-jurisdiction) forum-family routing; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
 - Downstream: [CF-10.1 Basic rule](#cf-101-basic-rule); [CF-10.2 Purpose](#cf-102-purpose); [CF-10.3 Core functions](#cf-103-core-functions); [CF-10.4 Required chamber coverage](#cf-104-required-chamber-coverage); [CF-10.5 Optional additional chambers](#cf-105-optional-additional-chambers); [CF-10.6 Routing and limits](#cf-106-routing-and-limits); [CF-10.7 Standard-setting constraints](#cf-107-standard-setting-constraints); [CF-10.8 Shared standards and decentralized enforcement](#cf-108-shared-standards-and-decentralized-enforcement); [CF-10.9 Institutional-forum interface](#cf-109-institutional-forum-interface); [CF-10.10 Departure and variance](#cf-1010-departure-and-variance); [CF-10.11 Cross-jurisdiction recognition](#cf-1011-cross-jurisdiction-recognition); [CF-10.12 Educational materials and textbook disputes](#cf-1012-educational-materials-and-textbook-disputes); [CF-10.13 Independence and composition](#cf-1013-independence-and-composition); [CF-10.14 Research and uncertainty-reduction authority](#cf-1014-research-and-uncertainty-reduction-authority); [CF-10.15 Publication and review governance](#cf-1015-publication-and-review-governance).
 - Read with: **CF-10**; **CF-10.1**; **CF-10.2**; **CF-10.3**; **CF-10.4**; **CF-10.5**; **CF-10.6**; **CF-10.7**; **CF-10.8**; **CF-10.9**; **CF-10.10**; **CF-10.11**; **CF-10.12**; **CF-10.13**; **CF-10.14**; **CF-10.15**.
+- Topic routing (primary owner): **CJS-R09** (*Technical forums and specialist chambers*) in **CJS-2.1** (*Topic router (stable IDs)*). Mandatory read-with: **CI-17**.
 
 </details>
 
@@ -23,8 +24,6 @@
 
 <br>
 
-
-**Router read:** Primary owner for **CJS-R09** (*Technical forums and specialist chambers*) in **CJS-2.1** (*Topic router (stable IDs)*). Mandatory read-with: **CI-17**.
 
 ### CF-10.1 Basic rule
 <details>

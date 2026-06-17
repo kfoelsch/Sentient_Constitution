@@ -5,6 +5,7 @@
 - Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Nine](../core_09-09_forum.md#chapter-nine-forums-and-jurisdiction) forum-family routing; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
 - Downstream: [CF-3.1 Core structural rule](#cf-31-core-structural-rule); [CF-3.2 Family-to-forum-structure translation map](#cf-32-family-to-forum-structure-translation-map); [CF-3.3 Family distinction and non-collapse rule](#cf-33-family-distinction-and-non-collapse-rule); [CF-3.5 Chamber creation, identification, and family boundary](#cf-35-chamber-creation-identification-and-family-boundary).
 - Read with: **CF-3**; **CF-5**; **CF-16**; **CF-4**; **CF-11**; **CF-12**; **CF-13**; **CF-14**; **CF-3.1**.
+- Topic routing (primary owner): **CJS-R02** (*Forum chambers, divisions, and designated panels (Chapter Nine families)*) in **CJS-2.1** (*Topic router (stable IDs)*). Mandatory read-with: **CJS-4.1**, **CJS-4.6**, **CJS-5.7**, **CI-9.3**.
 
 </details>
 
@@ -23,8 +24,6 @@
 
 <br>
 
-
-**Router read:** Primary owner for **CJS-R02** (*Forum chambers, divisions, and designated panels (Chapter Nine families)*) in **CJS-2.1** (*Topic router (stable IDs)*). Mandatory read-with: **CJS-4.1**, **CJS-4.6**, **CJS-5.7**, **CI-9.3**.
 
 This section governs how adopting entities convert the forum families recognized in `core_09-09_forum.md` **Chapter Nine** into actual adjudicative bodies, benches, chambers, and support structures.
 

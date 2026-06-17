@@ -93,6 +93,9 @@ Apply `corpus_joint_structure.md` **CJS-5.16** (*Implementation and cross-implem
 - Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions; and [Chapter Ten](../core_10-10_rights_part_a.md#chapter-ten-foundational-rights) rights architecture where rights interfaces are invoked.
 - Downstream: this section's local operational requirements for **CI-9.3: Delegated subunits, institutional design class, and attachment discipline**.
 - Read with: **CI-9.3**; **CI-9.2**; **CI-9.3.1**; **CI-9.3.2**; **CI-9.3.3**; **CI-9.3.4**; **CJS-4.6**.
+- Topic routing (mandatory read-with): **CJS-R02** (*Forum chambers, divisions, and designated panels (Chapter Nine families)*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CF-3**.
+- Topic routing (mandatory read-with): **CJS-R13** (*Forum staffing, shared administration, structural review, structural re…*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CF-16**.
+- Topic routing (primary owner): **CJS-R01** (*Delegated binding bodies and hybrid composition (non-forum institutions)*) in **CJS-2.1** (*Topic router (stable IDs)*). Mandatory read-with: **CJS-4.1**, **CJS-4.6**, **CJS-5.7**, **CI-3**, **CJS-5.2**, **CJS-5.5**.
 
 </details>
 
@@ -112,11 +115,8 @@ Apply `corpus_joint_structure.md` **CJS-5.16** (*Implementation and cross-implem
 <br>
 
 
-**Router read:** Mandatory read-with for **CJS-R02** (*Forum chambers, divisions, and designated panels (Chapter Nine families)*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CF-3**.
-**Router read:** Mandatory read-with for **CJS-R13** (*Forum staffing, shared administration, structural review, structural re…*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CF-16**.
-**Router read:** Primary owner for **CJS-R01** (*Delegated binding bodies and hybrid composition (non-forum institutions)*) in **CJS-2.1** (*Topic router (stable IDs)*). Mandatory read-with: **CJS-4.1**, **CJS-4.6**, **CJS-5.7**, **CI-3**, **CJS-5.2**, **CJS-5.5**.
-
 Apply `corpus_joint_structure.md` **CJS-4.1** (*Hybrid delegated authority (delegated binding bodies)*) and **CJS-4.6** (*Shared procedural abstractions for delegated bodies and forum routing*) for shared delegated-body abstractions. **CI-9.3** through **CI-9.3.4** state only institutional design-class, applicability, identification, authority-composition exception, rotating-attachment, and home-based term duties for delegated subunits at or above **Class C** under the highest published **CS-4 — System classification and handling** class.
+
 ### CI-9.3.1: Identification and competence
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>

@@ -37,6 +37,7 @@ This family collects the operational clusters that govern dependency mapping, me
 - Upstream: [CJS-1.2](cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
 - Downstream: this section's local operational requirements for **CJS-5.16 Implementation and cross-implementation dependency integrity and disclosure terms**.
 - Read with: **CJS-5.16**; **CJS-5.15**; **CJS-5.17**; **CJS-5.9**; **CJS-5.23 and CJS-5.8**; **CI-11**.
+- Topic routing (mandatory read-with): **CJS-R17** (*Cross-implementation trust integrity (joint operation model)*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CJS-4.3**.
 
 </details>
 
@@ -55,8 +56,6 @@ This family collects the operational clusters that govern dependency mapping, me
 
 <br>
 
-
-**Router read:** Mandatory read-with for **CJS-R17** (*Cross-implementation trust integrity (joint operation model)*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CJS-4.3**.
 
 Use this rule when dependency mapping, risk treatment, or accountability depends on standalone system behavior or combined system, dependency, or implementation-layer behavior.
 
@@ -118,6 +117,7 @@ Proportional application
 - OP-O: The more harm a dependency failure could cause, and the more sentients or systems rely on it, the stronger the mapping, disclosure, monitoring, and mitigation duties must be.
 - OP-E: Reviewers must make sure simplified controls for lower-risk systems do not hide a real material exposure.
 - OP-C: A simplified dependency process is non-compliant if important risks still exist but are not disclosed, monitored, or addressed.---
+
 ## CJS-5.17 Implementation and cross-implementation interoperability, portability, and exit-integrity terms
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
@@ -125,6 +125,7 @@ Proportional application
 - Upstream: [CJS-1.2](cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
 - Downstream: this section's local operational requirements for **CJS-5.17 Implementation and cross-implementation interoperability, portability, and exit-integrity terms**.
 - Read with: **CJS-5.17**; **CJS-5.16**; **CJS-5.15**; **CI-12.3**.
+- Topic routing (mandatory read-with): **CJS-R17** (*Cross-implementation trust integrity (joint operation model)*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CJS-4.3**.
 
 </details>
 
@@ -143,8 +144,6 @@ Proportional application
 
 <br>
 
-
-**Router read:** Mandatory read-with for **CJS-R17** (*Cross-implementation trust integrity (joint operation model)*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CJS-4.3**.
 
 Use this rule when lock-in, migration, interface design, or dependency exposure depends on standalone system behavior or combined system, dependency, or implementation-layer behavior.
 
@@ -244,6 +243,7 @@ Proportional application
 - Upstream: [CJS-1.2](cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
 - Downstream: this section's local operational requirements for **CJS-5.18 Implementation and cross-implementation data-retention and lifecycle-integrity terms**.
 - Read with: **CJS-3.5**; **CJS-5.9**; **CJS-5.10**; **CJS-5.11**; **CJS-5.21 and CJS-5.18**; **CJS-5.23 and CJS-5.8**.
+- Topic routing (mandatory read-with): **CJS-R17** (*Cross-implementation trust integrity (joint operation model)*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CJS-4.3**.
 
 </details>
 
@@ -262,8 +262,6 @@ Proportional application
 
 <br>
 
-
-**Router read:** Mandatory read-with for **CJS-R17** (*Cross-implementation trust integrity (joint operation model)*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CJS-4.3**.
 
 Use this rule when accountability, privacy, reversibility, or classification depends on how data is kept, changed, linked, or deleted within a standalone system, institution, forum, or bounded decision domain, or across more than one system or implementation layer.
 

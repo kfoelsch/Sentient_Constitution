@@ -91,6 +91,12 @@ Independent external assurance is mandatory when trigger thresholds are met. App
 - Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions; and [Chapter Ten](../core_10-10_rights_part_a.md#chapter-ten-foundational-rights) rights architecture where rights interfaces are invoked.
 - Downstream: this section's local operational requirements for **CI-7.3: Contest-integrity monitoring (Class A and Class B)**.
 - Read with: **CI-7.3**; **CI-4**; **CI-5**; **CI-6**; **CI-8**; **CI-12**; **CJS-3.3**.
+- Topic routing (mandatory read-with): **CJS-R06** (*Forum integrity operations, anti-capture, anti-self-judging support*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CF-7**.
+- Topic routing (mandatory read-with): **CJS-R07** (*Forum forensic and analytical support*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CF-8**.
+- Topic routing (mandatory read-with): **CJS-R10** (*Forum performance, backlog requirements, publication timeliness, access…*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CF-11**.
+- Topic routing (mandatory read-with): **CJS-R17** (*Cross-implementation trust integrity (joint operation model)*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CJS-4.3**.
+- Topic routing (mandatory read-with): **CJS-R19** (*Implementation and cross-implementation integrity assurance and resilie…*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CJS-5.8**.
+- Topic routing (primary owner): **CJS-R15** (*Contest-integrity monitoring (pathway integrity, not merits)*) in **CJS-2.1** (*Topic router (stable IDs)*). Mandatory read-with: **CF-4**, **CF-11**, **CJS-5.7**.
 
 </details>
 
@@ -109,13 +115,6 @@ Independent external assurance is mandatory when trigger thresholds are met. App
 
 <br>
 
-
-**Router read:** Mandatory read-with for **CJS-R06** (*Forum integrity operations, anti-capture, anti-self-judging support*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CF-7**.
-**Router read:** Mandatory read-with for **CJS-R07** (*Forum forensic and analytical support*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CF-8**.
-**Router read:** Mandatory read-with for **CJS-R10** (*Forum performance, backlog requirements, publication timeliness, access…*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CF-11**.
-**Router read:** Mandatory read-with for **CJS-R17** (*Cross-implementation trust integrity (joint operation model)*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CJS-4.3**.
-**Router read:** Mandatory read-with for **CJS-R19** (*Implementation and cross-implementation integrity assurance and resilie…*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CJS-5.8**.
-**Router read:** Primary owner for **CJS-R15** (*Contest-integrity monitoring (pathway integrity, not merits)*) in **CJS-2.1** (*Topic router (stable IDs)*). Mandatory read-with: **CF-4**, **CF-11**, **CJS-5.7**.
 
 Apply `corpus_joint_structure.md` **CJS-5.8** for the shared contest-integrity pathway chain and contest-monitor independence floor. **CI-7.3** states only monitor designation, local monitor file, attestation interface, output duty, security-power file, and forum-boundary duties for covered **Class A** or **Class B** supervised scope.
 

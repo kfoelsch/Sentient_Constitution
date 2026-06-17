@@ -229,6 +229,7 @@ Proportional application
 - Upstream: [CJS-1.2](cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
 - Downstream: this section's local operational requirements for **CJS-5.14 Implementation and cross-implementation salience integrity and attention-allocation terms**.
 - Read with: **CJS-5.14 and CJS-5.15**; **CJS-5.15**; **CJS-5.22**.
+- Topic routing (mandatory read-with): **CJS-R17** (*Cross-implementation trust integrity (joint operation model)*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CJS-4.3**.
 
 </details>
 
@@ -247,8 +248,6 @@ Proportional application
 
 <br>
 
-
-**Router read:** Mandatory read-with for **CJS-R17** (*Cross-implementation trust integrity (joint operation model)*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CJS-4.3**.
 
 Use this rule when a system decides what sentients see first, see often, see rarely, or do not see at all. This includes ranking, recommendation, filtering, search order, notifications, feeds, alerts, and other tools that steer attention.
 
@@ -308,6 +307,7 @@ Proportional application
 - OP-O: The stronger the system's influence over sentients, communities, the environment, or the information sphere, the stronger these controls must be.
 - OP-E: Reviewers must require the strongest controls for systems that shape large-scale information access or high-impact decisions.
 - OP-C: Simplified rules are non-compliant when they still allow material misunderstanding, manipulation, or barriers to informed participation.---
+
 ## CJS-5.15 Implementation and cross-implementation disclosure sufficiency and observability terms
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
@@ -315,6 +315,7 @@ Proportional application
 - Upstream: [CJS-1.2](cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
 - Downstream: this section's local operational requirements for **CJS-5.15 Implementation and cross-implementation disclosure sufficiency and observability terms**.
 - Read with: **CJS-5.15**; **CJS-5.16**.
+- Topic routing (mandatory read-with): **CJS-R17** (*Cross-implementation trust integrity (joint operation model)*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CJS-4.3**.
 
 </details>
 
@@ -333,8 +334,6 @@ Proportional application
 
 <br>
 
-
-**Router read:** Mandatory read-with for **CJS-R17** (*Cross-implementation trust integrity (joint operation model)*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CJS-4.3**.
 
 Use this rule when informed participation, independent verification, or attribution depends on disclosure within a standalone system, institution, forum, or bounded decision domain, or across systems, dependencies, institutions, or implementation layers.
 

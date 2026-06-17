@@ -5,6 +5,11 @@
 - Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions; and [Chapter Ten](../core_10-10_rights_part_a.md#chapter-ten-foundational-rights) rights architecture where rights interfaces are invoked.
 - Downstream: this section's local operational requirements for **CI-8: Cross-institution coordination and escalation**.
 - Read with: **CI-8**.
+- Topic routing (mandatory read-with): **CJS-R04** (*Routing, intake, transfer, certification, representative treatment*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CF-5**.
+- Topic routing (mandatory read-with): **CJS-R08** (*Independent investigative service and prosecution interface*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CF-9**.
+- Topic routing (mandatory read-with): **CJS-R17** (*Cross-implementation trust integrity (joint operation model)*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CJS-4.3**.
+- Topic routing (mandatory read-with): **CJS-R19** (*Implementation and cross-implementation integrity assurance and resilie…*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CJS-5.8**.
+- Topic routing (primary owner): **CJS-R16** (*Cross-institution coordination, deadlock, and escalation*) in **CJS-2.1** (*Topic router (stable IDs)*). Mandatory read-with: **CF-5**, **CF-7**.
 
 </details>
 
@@ -23,12 +28,6 @@
 
 <br>
 
-
-**Router read:** Mandatory read-with for **CJS-R04** (*Routing, intake, transfer, certification, representative treatment*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CF-5**.
-**Router read:** Mandatory read-with for **CJS-R08** (*Independent investigative service and prosecution interface*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CF-9**.
-**Router read:** Mandatory read-with for **CJS-R17** (*Cross-implementation trust integrity (joint operation model)*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CJS-4.3**.
-**Router read:** Mandatory read-with for **CJS-R19** (*Implementation and cross-implementation integrity assurance and resilie…*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CJS-5.8**.
-**Router read:** Primary owner for **CJS-R16** (*Cross-institution coordination, deadlock, and escalation*) in **CJS-2.1** (*Topic router (stable IDs)*). Mandatory read-with: **CF-5**, **CF-7**.
 
 Where institutions share jurisdiction, evidence custody, review responsibility, enforcement support, investigative interface, or forum-adjacent routing, apply `corpus_joint_structure.md` **CJS-5.8** **Cross-institution coordination and escalation chain** for the shared floor. **CI-8** states only the local protocol owner, role map, record, deadline, escalation-trigger, publication, and **CF-9** / Chapter Nine backup-routing duties.
 

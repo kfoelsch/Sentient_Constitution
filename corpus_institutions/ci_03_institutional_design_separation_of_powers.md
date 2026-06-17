@@ -3,8 +3,11 @@
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions; and [Chapter Ten](../core_10-10_rights_part_a.md#chapter-ten-foundational-rights) rights architecture where rights interfaces are invoked.
-- Downstream: [CI-3.1: Non-delegable governing duties](#ci-21-non-delegable-governing-duties); [CI-3.2: Functional separation lanes](#ci-22-functional-separation-lanes).
+- Downstream: [CI-3.1: Non-delegable governing duties](#ci-31-non-delegable-governing-duties); [CI-3.2: Functional separation lanes](#ci-32-functional-separation-lanes).
 - Read with: **CI-3**; **CI-3.1**; **CI-3.2**; [CJS-2.1](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; **CJS-5.2**; **CJS-5.12**.
+- Topic routing (mandatory read-with): **CJS-R01** (*Delegated binding bodies and hybrid composition (non-forum institutions)*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CI-9.3**.
+- Topic routing (primary owner): **CJS-R14** (*Institutional functional lanes and non-delegable splits*) in **CJS-2.1** (*Topic router (stable IDs)*). Mandatory read-with: **CJS-5.2**.
+- Topic routing (primary owner): **CJS-R18** (*Class-scaled lane staffing and competency redundancy for materially bin…*) in **CJS-2.1** (*Topic router (stable IDs)*). Mandatory read-with: **CJS-4.5**, **CJS-5.2**.
 
 </details>
 
@@ -23,10 +26,16 @@
 
 <br>
 
+*In plain terms: **CI-3** is the institutions layer's separation-of-powers rulebook — how authority is divided, what the top governing body cannot hand off, how power flows through delegation, and what happens in emergencies. Shared lane categories and separation floors live in **CJS-5.2**; this file states what each institution must publish and maintain locally.*
 
-**Router read:** Mandatory read-with for **CJS-R01** (*Delegated binding bodies and hybrid composition (non-forum institutions)*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CI-9.3**.
-**Router read:** Primary owner for **CJS-R14** (*Institutional functional lanes and non-delegable splits*) in **CJS-2.1** (*Topic router (stable IDs)*). Mandatory read-with: **CJS-5.2**.
-**Router read:** Primary owner for **CJS-R18** (*Class-scaled lane staffing and competency redundancy for materially bin…*) in **CJS-2.1** (*Topic router (stable IDs)*). Mandatory read-with: **CJS-4.5**, **CJS-5.2**.
+**Quick orientation**
+
+- **CI-3.1** — decisions that stay with the governing authority and cannot be delegated.
+- **CI-3.2** — required functional lanes (direction, execution, challenge, assurance, publication) and who hosts each one.
+- **CI-3.3** — authority chain from source authorization through every delegated role.
+- **CI-3.4** — emergency delegation limits and rapid post-event review.
+- **CI-3.5** — plain-language risk appetite statement, reviewed on cadence and after serious incidents.
+
 
 ### CI-3.1: Non-delegable governing duties
 <details>
@@ -52,6 +61,8 @@
 </details>
 
 <br>
+
+*In plain terms: some decisions are too important to hand to a subordinate — the governing body must keep them. At minimum that means staying aligned with the constitution, accepting serious risk, and deciding to dissolve the institution. Any other non-delegable duties must be written down in a list.*
 
 The following are non-delegable by the governing authority:
 - constitutional alignment,
@@ -84,7 +95,9 @@ Additional non-delegable duties must be listed.
 
 <br>
 
-Apply `corpus_joint_structure.md` **CJS-5.2** (*Implementation and cross-implementation distributed and proportional authority terms*) **Constitutional lane and functional separation** for the shared lane categories and separation floor.
+*In plain terms: power must be split into distinct jobs so no one office runs everything unchecked. Required lanes include setting direction and policy, carrying decisions out, challenging and reviewing them, auditing and assuring integrity, and publishing evidence. Each institution must publish who holds each lane, note when one body hosts more than one lane, and document safeguards that keep those lanes independent — so outsiders can audit the map, challenge it, and see that power has not quietly pooled in one place.*
+
+Apply [corpus_joint_structure.md](../corpus_joint_structure.md) **CJS-5.2** (*Implementation and cross-implementation distributed and proportional authority terms*) **Constitutional lane and functional separation** for the shared lane categories and separation floor.
 
 This subsection states institutional owner duties: each institution must publish which local office, body, role, or process hosts each required lane; identify any merged hosting arrangement; document independence safeguards where one institution hosts more than one lane; and keep the lane map auditable, contestable, and current enough to prevent capture, unchecked concentration, and silent failure.
 
@@ -109,6 +122,8 @@ This subsection states institutional owner duties: each institution must publish
 </details>
 
 <br>
+
+*In plain terms: every institution must show a clear line of authority from the original grant of power down to each delegated role — and every hand-off of power must be written down with its boundaries.*
 
 Institutions must maintain a clear authority chain from source authorization through each delegated role.
 
@@ -145,6 +160,8 @@ Delegations must state:
 
 <br>
 
+*In plain terms: in a crisis an institution may temporarily hand authority to someone else — but only when truly necessary, only as much as the situation requires, and only with a fast review afterward to confirm the emergency grant was justified.*
+
 Emergency delegation is permitted only for necessity and proportionality reasons and must include rapid post-event review.
 
 ### CI-3.5: Risk profile requirement
@@ -170,6 +187,8 @@ Emergency delegation is permitted only for necessity and proportionality reasons
 </details>
 
 <br>
+
+*In plain terms: each institution must publish, in everyday language, how much risk it is willing to accept — within constitutional limits and scaled to its class and tier duties — and must revisit that statement on a regular schedule and again after any serious incident.*
 
 Each institution must maintain a plain-language risk appetite and tolerance statement aligned to constitutional constraints and class/tier obligations. That statement must be reviewed on a fixed cadence and after material incidents.
 

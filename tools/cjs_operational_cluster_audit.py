@@ -33,7 +33,7 @@ OP_CLUSTER_BLOCK_RE = re.compile(
 
 # CJS-3 may cite CJS-5 clusters; exclude pointer-only lines.
 POINTER_LINE_RE = re.compile(
-    r"^(Apply|Read with|See|Follow|Use)\b|^\*\*Router read:\*\*|^- (Upstream|Downstream|Read with):",
+    r"^(Apply|Read with|See|Follow|Use)\b|^- Topic routing \(|^- (Upstream|Downstream|Read with):",
     re.IGNORECASE,
 )
 

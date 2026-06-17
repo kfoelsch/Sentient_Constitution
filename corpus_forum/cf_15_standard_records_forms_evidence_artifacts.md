@@ -5,6 +5,7 @@
 - Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Nine](../core_09-09_forum.md#chapter-nine-forums-and-jurisdiction) forum-family routing; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
 - Downstream: [CF-15.1 Minimum record set](#cf-151-minimum-record-set); [CF-15.2 Required fields](#cf-152-required-fields).
 - Read with: **CF-15**; **CF-4**; **CF-12**; **CF-13**; **CF-14**; **CF-15.1**; **CF-6**; **CF-6.1**; **CF-8**.
+- Topic routing (primary owner): **CJS-R12** (*Standard forum records, forms, and evidence artifacts*) in **CJS-2.1** (*Topic router (stable IDs)*). Mandatory read-with: **CI-6**.
 
 </details>
 
@@ -23,8 +24,6 @@
 
 <br>
 
-
-**Router read:** Primary owner for **CJS-R12** (*Standard forum records, forms, and evidence artifacts*) in **CJS-2.1** (*Topic router (stable IDs)*). Mandatory read-with: **CI-6**.
 
 **Constitutional index (abridged)**
 - Topic-level routing and cited authorities remain in subsection text and cross-references.

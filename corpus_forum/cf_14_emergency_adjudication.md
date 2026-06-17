@@ -5,6 +5,7 @@
 - Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Nine](../core_09-09_forum.md#chapter-nine-forums-and-jurisdiction) forum-family routing; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
 - Downstream: [CF-14.1 Emergency triage hierarchy](#cf-141-emergency-triage-hierarchy); [CF-14.2 Independent review during emergency mode](#cf-142-independent-review-during-emergency-mode); [CF-14.3 Restoration and reconciliation](#cf-143-restoration-and-reconciliation); [CF-14.4 Post-incident review](#cf-144-post-incident-review); [CF-14.5 Non-compliant emergency patterns](#cf-145-non-compliant-emergency-patterns).
 - Read with: **CF-14**; **CF-14.1**; **CF-14.2**; **CF-14.3**; **CF-14.4**; **CF-14.5**; [CJS-2.1](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router.
+- Topic routing (primary owner): **CJS-R11B** (*Emergency adjudication*) in **CJS-2.1** (*Topic router (stable IDs)*). Mandatory read-with: **CF-11**.
 
 </details>
 
@@ -22,8 +23,6 @@
 
 <br>
 
-
-**Router read:** Primary owner for **CJS-R11B** (*Emergency adjudication*) in **CJS-2.1** (*Topic router (stable IDs)*). Mandatory read-with: **CF-11**.
 
 **Constitutional index (abridged)**
 - Topic-level routing and cited authorities remain in subsection text and cross-references.

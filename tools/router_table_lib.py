@@ -22,6 +22,13 @@ SECTION_HEADING_RE = re.compile(
     re.M,
 )
 ROUTER_READ_RE = re.compile(r"^\*\*Router read:\*\*.*$", re.M)
+TOPIC_ROUTE_BULLET_RE = re.compile(
+    r"^- Topic routing \((?:primary owner|mandatory read-with)\):.*$",
+    re.M,
+)
+TRACE_SUMMARY_MARKER = (
+    '<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>'
+)
 RANGE_RE = re.compile(
     r"\*\*(CF|CI|CJS)-([0-9]+)\.([0-9]+)\*\*[–-]\*\*\1-\2\.([0-9]+)\*\*"
 )
@@ -173,7 +180,7 @@ def primary_owner_line(row: RouterRow) -> str:
     else:
         suffix = "; see that row for mandatory read-with."
     return (
-        f"**Router read:** Primary owner for **{row.row_id}** (*{short_topic(row.topic)}*) "
+        f"Topic routing (primary owner): **{row.row_id}** (*{short_topic(row.topic)}*) "
         f"in **CJS-2.1** (*Topic router (stable IDs)*).{suffix}"
     )
 
@@ -184,7 +191,7 @@ def read_with_line(row: RouterRow) -> str:
     else:
         owners = "primary owners " + ", ".join(f"**{item}**" for item in row.primary_attach)
     return (
-        f"**Router read:** Mandatory read-with for **{row.row_id}** (*{short_topic(row.topic)}*) "
+        f"Topic routing (mandatory read-with): **{row.row_id}** (*{short_topic(row.topic)}*) "
         f"in **CJS-2.1** (*Topic router (stable IDs)*); {owners}."
     )
 
@@ -193,6 +200,8 @@ def section_has_primary_route(section_text: str, row: RouterRow) -> bool:
     if row.row_id not in section_text:
         return False
     lowered = section_text.lower()
+    if "topic routing (primary owner):" in lowered and row.row_id in section_text:
+        return True
     if "**router read:**" in lowered and "primary owner" in lowered and row.row_id in section_text:
         return True
     if "**joint read:**" in lowered and row.row_id in section_text:
@@ -210,8 +219,68 @@ def section_has_read_with_route(section_text: str, row: RouterRow) -> bool:
     if not any(owner in section_text for owner in row.primary_attach):
         return False
     lowered = section_text.lower()
+    if "topic routing (mandatory read-with):" in lowered and row.row_id in section_text:
+        return True
     if "**router read:**" in lowered and "mandatory read-with" in lowered:
         return True
     if "mandatory read-with for" in lowered and row.row_id in section_text:
         return True
     return False
+
+
+def strip_routing_annotations(section_text: str) -> str:
+    lines = section_text.splitlines()
+    kept: list[str] = []
+    for line in lines:
+        if ROUTER_READ_RE.match(line):
+            continue
+        if TOPIC_ROUTE_BULLET_RE.match(line):
+            continue
+        kept.append(line)
+    return "\n".join(kept)
+
+
+def strip_legacy_router_read_labels(text: str) -> str:
+    """Remove legacy **Router read:** body lines without touching topic-routing trace bullets."""
+    lines = text.splitlines()
+    return "\n".join(line for line in lines if not ROUTER_READ_RE.match(line))
+
+
+def trace_content_bounds(section_text: str) -> tuple[int, int] | None:
+    trace_start = section_text.find(TRACE_SUMMARY_MARKER)
+    if trace_start < 0:
+        return None
+    content_start = section_text.find("\n", trace_start)
+    if content_start < 0:
+        return None
+    content_start += 1
+    close = section_text.find("\n</details>", content_start)
+    if close < 0:
+        return None
+    return content_start, close
+
+
+def apply_topic_routing_to_trace(section_text: str, routing_lines: list[str]) -> str:
+    cleaned = strip_routing_annotations(section_text)
+    bounds = trace_content_bounds(cleaned)
+    if bounds is None:
+        if not routing_lines:
+            return cleaned
+        block = "\n".join(f"- {line}" for line in routing_lines) + "\n\n"
+        insert_at = 0
+        parts = cleaned.split("</details>", 2)
+        if len(parts) >= 3:
+            prefix = parts[0] + "</details>" + parts[1] + "</details>"
+            tail = parts[2]
+            match = re.search(r"\n*<br>\s*\n*", tail)
+            insert_at = len(prefix) + (match.end() if match else 0)
+        return cleaned[:insert_at] + block + cleaned[insert_at:].lstrip("\n")
+
+    content_start, content_end = bounds
+    trace_body = cleaned[content_start:content_end].rstrip("\n")
+    if routing_lines:
+        bullets = "\n".join(f"- {line}" for line in routing_lines)
+        new_trace = f"{trace_body}\n{bullets}\n" if trace_body.strip() else f"{bullets}\n"
+    else:
+        new_trace = f"{trace_body}\n" if trace_body else ""
+    return cleaned[:content_start] + new_trace + cleaned[content_end:]

@@ -40,6 +40,7 @@ This family collects the operational clusters that make implementation and cross
 - Upstream: [CJS-1.2](cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
 - Downstream: this section's local operational requirements for **CJS-5.8 Implementation and cross-implementation integrity assurance and resilience operations**.
 - Read with: [CJS-1.2](cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router.
+- Topic routing (primary owner): **CJS-R19** (*Implementation and cross-implementation integrity assurance and resilie…*) in **CJS-2.1** (*Topic router (stable IDs)*). Mandatory read-with: **CJS-5.9**, **CJS-5.23**, **CI-7.3**, **CI-8**, **CF-11**.
 
 </details>
 
@@ -58,8 +59,6 @@ This family collects the operational clusters that make implementation and cross
 
 <br>
 
-
-**Router read:** Primary owner for **CJS-R19** (*Implementation and cross-implementation integrity assurance and resilie…*) in **CJS-2.1** (*Topic router (stable IDs)*). Mandatory read-with: **CJS-5.9**, **CJS-5.23**, **CI-7.3**, **CI-8**, **CF-11**.
 
 Use this rule for **CJS-R19** (*Implementation and cross-implementation integrity assurance and resilience operations*), implementation and cross-implementation integrity assurance and resilience operations.
 
@@ -140,6 +139,7 @@ Adversarial response and revalidation non-entrenchment
 - OP-O: Detection, mitigation, escalation, revalidation, and replacement readiness must operate together as risks change.
 - OP-E: Evaluation must verify review cadence, challengeability, and update paths under changing capabilities, attacks, and dependencies.
 - OP-C: It is non-compliant to preserve legacy structures by inertia when material risk, drift, or known vulnerabilities require correction, reauthorization, or replacement.---
+
 ## CJS-5.9 Implementation and cross-implementation auditability and reconstructability terms
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
@@ -147,6 +147,8 @@ Adversarial response and revalidation non-entrenchment
 - Upstream: [CJS-1.2](cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
 - Downstream: this section's local operational requirements for **CJS-5.9 Implementation and cross-implementation auditability and reconstructability terms**.
 - Read with: **CJS-5.9**; **CJS-5.15**; **CJS-5.10**.
+- Topic routing (mandatory read-with): **CJS-R17** (*Cross-implementation trust integrity (joint operation model)*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CJS-4.3**.
+- Topic routing (mandatory read-with): **CJS-R19** (*Implementation and cross-implementation integrity assurance and resilie…*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CJS-5.8**.
 
 </details>
 
@@ -165,9 +167,6 @@ Adversarial response and revalidation non-entrenchment
 
 <br>
 
-
-**Router read:** Mandatory read-with for **CJS-R17** (*Cross-implementation trust integrity (joint operation model)*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CJS-4.3**.
-**Router read:** Mandatory read-with for **CJS-R19** (*Implementation and cross-implementation integrity assurance and resilie…*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CJS-5.8**.
 
 Use this rule when records, access pathways, or verification design depend on standalone system behavior or combined system, dependency, or implementation-layer behavior.
 
@@ -282,6 +281,7 @@ Access-control integrity and anti-concealment
 - Upstream: [CJS-1.2](cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
 - Downstream: this section's local operational requirements for **CJS-5.11 Implementation and cross-implementation independent verification and claim-integrity terms**.
 - Read with: **CJS-5.11**; **CJS-5.9**; **CJS-5.10**.
+- Topic routing (mandatory read-with): **CJS-R17** (*Cross-implementation trust integrity (joint operation model)*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CJS-4.3**.
 
 </details>
 
@@ -300,8 +300,6 @@ Access-control integrity and anti-concealment
 
 <br>
 
-
-**Router read:** Mandatory read-with for **CJS-R17** (*Cross-implementation trust integrity (joint operation model)*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CJS-4.3**.
 
 Use this rule when evidence quality, verification routes, or trust claims depend on a standalone system, institution, forum, or bounded decision domain, or on how multiple systems, dependencies, or implementation layers work together.
 

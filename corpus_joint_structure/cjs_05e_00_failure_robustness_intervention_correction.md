@@ -42,6 +42,7 @@ This family collects the operational clusters for degraded operation, interventi
 - Upstream: [CJS-1.2](cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
 - Downstream: this section's local operational requirements for **CJS-5.19 Implementation and cross-implementation graceful degradation and failure-mode integrity terms**.
 - Read with: **CJS-5.19**; **CJS-5.14 and CJS-5.15**; **CJS-5.16**; **CJS-5.21 and CJS-5.18**; **CJS-5.23 and CJS-5.8**.
+- Topic routing (mandatory read-with): **CJS-R17** (*Cross-implementation trust integrity (joint operation model)*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CJS-4.3**.
 
 </details>
 
@@ -60,8 +61,6 @@ This family collects the operational clusters for degraded operation, interventi
 
 <br>
 
-
-**Router read:** Mandatory read-with for **CJS-R17** (*Cross-implementation trust integrity (joint operation model)*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CJS-4.3**.
 
 Use this rule when reliability, signaling, containment, or recovery depends on standalone system behavior or combined system, dependency, or implementation-layer behavior.
 
@@ -127,6 +126,7 @@ Proportional application
 - OP-O: Degraded-mode duties scale with impact, dependency, and irreversibility risk.
 - OP-E: Evaluation must verify simplified handling does not hide capability loss or externalize harm.
 - OP-C: Reduced controls are non-compliant where material risk remains.---
+
 ## CJS-5.20 Implementation and cross-implementation intervention and override integrity terms
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
@@ -224,6 +224,7 @@ Proportional application
 - Upstream: [CJS-1.2](cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
 - Downstream: this section's local operational requirements for **CJS-5.21 Implementation and cross-implementation reversibility and containment terms**.
 - Read with: **CJS-5.21 and CJS-5.18**; **CJS-5.16**; **CJS-5.19**; **CJS-5.9**; **CJS-5.10**; **CJS-5.11**.
+- Topic routing (mandatory read-with): **CJS-R17** (*Cross-implementation trust integrity (joint operation model)*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CJS-4.3**.
 
 </details>
 
@@ -242,8 +243,6 @@ Proportional application
 
 <br>
 
-
-**Router read:** Mandatory read-with for **CJS-R17** (*Cross-implementation trust integrity (joint operation model)*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CJS-4.3**.
 
 Use this rule when rollback, failure isolation, or restoration depends on a standalone system, institution, forum, or bounded decision domain, or on more than one system, dependency, institution, or implementation layer.
 
@@ -281,6 +280,7 @@ Compensatory restoration and limitation disclosure
 - OP-C: Hiding rollback limits, overstating reversibility, or failing to plan for foreseeable restoration or compensation is non-compliant.
 
 ---
+
 ## CJS-5.22 Implementation and cross-implementation adversarial robustness and abuse-resistance terms
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
@@ -395,6 +395,7 @@ Proportional application
 - Upstream: [CJS-1.2](cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
 - Downstream: this section's local operational requirements for **CJS-5.23 Implementation and cross-implementation structural review, correction urgency, and disclosure terms**.
 - Read with: **CJS-5.19**; **CJS-5.21 and CJS-5.18**; **CJS-5.23 and CJS-5.8**; **CJS-5.7**; **CJS-5.4 and CJS-5.8**.
+- Topic routing (mandatory read-with): **CJS-R19** (*Implementation and cross-implementation integrity assurance and resilie…*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CJS-5.8**.
 
 </details>
 
@@ -413,8 +414,6 @@ Proportional application
 
 <br>
 
-
-**Router read:** Mandatory read-with for **CJS-R19** (*Implementation and cross-implementation integrity assurance and resilie…*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CJS-5.8**.
 
 Use this rule when recurring failures, Correction Urgency Level (**CUL**) assignment, or structural transparency depends on standalone system behavior or combined institutional, system, dependency, or implementation-layer behavior.
 
