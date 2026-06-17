@@ -384,7 +384,6 @@ def render_report(root: pathlib.Path, run_date: str) -> str:
         )
     lines.append("")
     lines.append("## Evidence Used")
-    lines.append("- `implementation/INSTITUTIONAL_GOVERNANCE_GAP_MATRIX_2026-04-10.md`")
     lines.append("- `implementation/BEST_PRACTICES_CHECK_STANDARD_2026-04-12.md`")
     lines.append("- `implementation/AUTOMATED_REFERENCE_CHECKING.md`")
     lines.append("- `doc_architecture.md` section `15. External framework crosswalk`")

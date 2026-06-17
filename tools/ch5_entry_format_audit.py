@@ -53,13 +53,9 @@ _REDUNDANT_SUFFIX_META_MARKERS = ("`(Constitutional)`",)
 def audit_redundant_suffix(root: pathlib.Path) -> list[str]:
     violations: list[str] = []
     extra_scope = [
-        "architecture_primer.md",
-        "architecture_adoption_appendix.md",
-        "TRUST_UNDER_ATTACK_DELTA_REPORT.md",
-        "implementation/ARCHITECTURE_WORKLIST.md",
-        "implementation/DEC_CONTENT_GAPS_PLAN_2026-04-16.md",
-        "implementation/DEC_INDIGENOUS_CONTINUITY_SCOPE_2026-04-17.md",
-        "implementation/DEC_TRACK_7_1_POLICY_2026-04-17.md",
+        "archive/ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md",
+        "archive/ARCHITECTURE_ADOPTION_APPENDIX_ARCHIVED_2026-05-08.md",
+        "archive/TRUST_UNDER_ATTACK_DELTA_REPORT_ARCHIVED_2026-05-01.md",
         "implementation/TRANSITION_FRAMEWORK_2026.md",
     ]
     for rel in [*binding_corpus_scope(root, include_support_docs=True), *extra_scope]:

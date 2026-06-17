@@ -69,7 +69,7 @@ Use this section as a **factual** inventory to ground gate criteria and risk. It
 - **Critical dependencies:** Digital, financial, energy, supply chain, identity, and communication dependencies ([corpus_systems.md](../corpus_systems.md) Protocol S5; *Dependent Systems Maps* under [Article IV-A](../core_10-10_rights_part_a.md#article-iv-a-dependent-systems-maps)).
 - **Known misalignments:** Gaps versus Article XXV transition rights-floor themes (survival, dignity, agency, contestability, non-discrimination) and versus audit/contestability ([Article IX](../core_10-10_rights_part_b.md#article-ix-self-determination-agency-and-freedom-from-manipulation), [Article XII](../core_10-10_rights_part_c.md#article-xii-reliable-trustworthy-and-contestable-systems), [Article XV](../core_10-10_rights_part_c.md#article-xv-audit-transparency-and-independent-verification), [Article XXV](../core_10-10_rights_part_d.md#article-xxv-transition-governance-continuity-and-re-baselining)).
 
-**Optional risk pointer:** For corpus-level residual risk themes under adversarial pressure (not a substitute for adopter-specific threat modeling), see [TRUST_UNDER_ATTACK_DELTA_REPORT.md](../TRUST_UNDER_ATTACK_DELTA_REPORT.md).
+**Optional risk pointer:** For corpus-level residual risk themes under adversarial pressure (not a substitute for adopter-specific threat modeling), see [archive/TRUST_UNDER_ATTACK_DELTA_REPORT_ARCHIVED_2026-05-01.md](../archive/TRUST_UNDER_ATTACK_DELTA_REPORT_ARCHIVED_2026-05-01.md).
 
 ---
 
@@ -232,7 +232,7 @@ Use when adoption is by **stewards, organizations, federations, or network parti
 
 ## Appendix B — Design rationale (Ticket 7 closure record)
 
-Condensed from [archive/TODO_COMPLETED_2026-Q2.md](../archive/TODO_COMPLETED_2026-Q2.md) — *Ticket 7: Transition constitution framework*.
+Condensed from the 2026-Q2 completed-work archive (*Ticket 7: Transition constitution framework*; prior snapshot removed 2026-06-17 — retrieve from git history if needed).
 
 **Problem addressed:** The target-state constitution was advanced, but migration from current institutions was under-specified, risking governance vacuum or transitional lock-in.
 
@@ -250,7 +250,7 @@ Condensed from [archive/TODO_COMPLETED_2026-Q2.md](../archive/TODO_COMPLETED_202
 
 ## Appendix C — Optional baseline signal (Trust Under Attack delta)
 
-[TRUST_UNDER_ATTACK_DELTA_REPORT.md](../TRUST_UNDER_ATTACK_DELTA_REPORT.md) summarizes **residual risk scores** and **open drill gaps** as of 2026-04-08. Adopters may cite it when building section 4 (baseline) or section 8 (failure/subversion interfaces). It is **not** a substitute for adopter-specific risk assessment.
+[archive/TRUST_UNDER_ATTACK_DELTA_REPORT_ARCHIVED_2026-05-01.md](../archive/TRUST_UNDER_ATTACK_DELTA_REPORT_ARCHIVED_2026-05-01.md) summarizes **residual risk scores** and **open drill gaps** as of 2026-04-08. Adopters may cite it when building section 4 (baseline) or section 8 (failure/subversion interfaces). It is **not** a substitute for adopter-specific risk assessment.
 
 ---
 

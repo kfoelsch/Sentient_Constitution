@@ -44,18 +44,8 @@ Machine-checkable editorial rules: [tools/architecture/rule_registry.json](tools
 
 `plain_language_audit.py` is an advisory checker for jargon-heavy reader notes and navigation prose. It flags exact phrases such as `extended narrative context` and `non-operative explanatory framing`, plus dense guidance sentences that stack abstract terms instead of plain words. Start by running it manually and tune the rule list before promoting it into a blocking bundle.
 
-## Legacy Chapter Ten migration scripts
+## Retired migration scripts
 
-The following were used during **one-off structural rewrites** (readability order, planet-first Parts A–D, material-article insertion, likeness **Article VIII** split, **IX–XXIV** renumbering). They are **not** part of normal editing workflow.
-
-**Do not run** them against the current tree unless you are deliberately replaying history; they can desync the corpus.
-
-| Script | Notes |
-|--------|--------|
-| `ch7_map_iii_material_to_iv.py` | Old string-replacement map (material / agency article IDs); superseded by the current Chapter Ten part files. |
-| `ch7_reorder_readability_iv_ix.py` | Historical heading reorder pass. |
-| `ch7_article_renumber.py`, `ch7_bump_articles_iv_to_xxii.py`, `ch7_execute_planet_first_renumber.py`, `ch7_increment_from_info.py`, `ch7_fix_headings_post_cite.py` | Renumbering / heading fix helpers from migration windows. |
-| `ch7_constraint_stack_ab_regression.py` | A/B regression over Chapter One §7 constraint stack; legacy harness that expected a monolithic `core_constitution.md` (file not present in the split-corpus tree; see `Makefile`). |
-| `reletter_article_i.py` | Early Roman reletter experiment. |
+One-off structural rewrite and migration helpers (Chapter Five cluster inserts, Chapter Ten renumbering, corpus splits, D/E/C widget attachment, doc_architecture slim-down, etc.) were moved to [archive/tools_retired/](../archive/tools_retired/) on **2026-06-17**. **Do not run** them against the current tree unless you are deliberately replaying history from git; they can desync the corpus.
 
 For **current** article numbers and titles, use `make reference-audit` or read Chapter Ten in `core_10-10_rights_part_*.md`.

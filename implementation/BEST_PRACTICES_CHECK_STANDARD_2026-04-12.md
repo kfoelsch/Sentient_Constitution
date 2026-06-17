@@ -244,7 +244,6 @@ Use this row format for the actual review memo or spreadsheet.
 
 This repository already contains useful precursors:
 
-- `implementation/INSTITUTIONAL_GOVERNANCE_GAP_MATRIX_2026-04-10.md`
 - `doc_architecture.md` section `15. External framework crosswalk`
 - dated drill artifacts under `evidence/2026-q2/drills/`
 - `implementation/AUTOMATED_REFERENCE_CHECKING.md`

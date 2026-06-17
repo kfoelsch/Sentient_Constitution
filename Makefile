@@ -139,10 +139,6 @@ regression-full:
 	done; \
 	exit $$status
 
-# A/B Chapter Seven default stack vs. qualified 7.2; restores core_constitution.md after run.
-regression-ch7-stack-ab:
-	$(PYTHON) tools/ch7_constraint_stack_ab_regression.py --root .
-
 reference-audit-evidence:
 	$(PYTHON) tools/reference_audit.py --root . --write-evidence
 
