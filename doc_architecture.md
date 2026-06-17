@@ -115,6 +115,7 @@ Do not maintain hand-edited article or implementation maps here.
 - **Article titles / Roman numerals:** `make reference-audit` / Chapter Ten part files.
 - **Cross-implementation routing:** [corpus_joint_structure.md](corpus_joint_structure.md) **CJS-2.1**; `make router-bidirectional-audit`.
 - **Generated stable-ID index:** [doc_architecture/generated/stable_id_index.md](doc_architecture/generated/stable_id_index.md) via `make architecture-index`.
+- **CI-primary router slice (generated, integrator view):** [doc_architecture/generated/ci_primary_router_index.md](doc_architecture/generated/ci_primary_router_index.md) — filter of **CJS-2.1** rows whose primary owner is **CI**; do not duplicate in `corpus_institutions/` operative text.
 - **CJS cluster bands:** **CJS-5.2–5.7** through **CJS-5.19–5.23** in [corpus_joint_structure.md](corpus_joint_structure.md).
 - **CS stable IDs:** [corpus_systems/cs_00_registry_and_reading_rules.md](corpus_systems/cs_00_registry_and_reading_rules.md).
 

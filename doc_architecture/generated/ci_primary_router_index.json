@@ -1,0 +1,47 @@
+{
+  "ci_primary_router": [
+    {
+      "id": "CJS-R01",
+      "topic": "Delegated binding bodies and hybrid composition (non-forum institutions)",
+      "primary_owner": "`corpus_institutions.md` **CI-9.3**",
+      "primary_attach": [
+        "CI-9.3"
+      ]
+    },
+    {
+      "id": "CJS-R14",
+      "topic": "Institutional functional lanes and non-delegable splits",
+      "primary_owner": "`corpus_institutions.md` **CI-3**",
+      "primary_attach": [
+        "CI-3"
+      ]
+    },
+    {
+      "id": "CJS-R15",
+      "topic": "Contest-integrity monitoring (pathway integrity, not merits)",
+      "primary_owner": "`corpus_institutions.md` **CI-7.3**",
+      "primary_attach": [
+        "CI-7.3"
+      ]
+    },
+    {
+      "id": "CJS-R16",
+      "topic": "Cross-institution coordination, deadlock, and escalation",
+      "primary_owner": "`corpus_institutions.md` **CI-8**",
+      "primary_attach": [
+        "CI-8"
+      ]
+    },
+    {
+      "id": "CJS-R18",
+      "topic": "Class-scaled lane staffing and competency redundancy for materially binding stewardship",
+      "primary_owner": "`corpus_institutions.md` **CI-3**, **CI-4**, **CI-11**, **CI-12**",
+      "primary_attach": [
+        "CI-3",
+        "CI-4",
+        "CI-11",
+        "CI-12"
+      ]
+    }
+  ]
+}

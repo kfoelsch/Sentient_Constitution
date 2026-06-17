@@ -24,9 +24,13 @@
 <br>
 
 
-*In plain terms: this file states what the institutions layer owns, how it fits among **CJS**, **CS**, and **CF**, and where to find scope and identifier rules. For the layer map and section registry, read [ci_00_registry_and_reading_rules.md](ci_00_registry_and_reading_rules.md). Continue to **CI-2** (*Implementation integration map*) for routing.*
+*In plain terms: this file is the institutions layer's own rules of the road — what **CI** owns, how its section numbers work, and where constitutional definitions stay authoritative. For the full layer map and section registry, read [ci_00_registry_and_reading_rules.md](ci_00_registry_and_reading_rules.md). Continue to **CI-2** (*Implementation integration map*) for topic routing.*
 
-Apply [corpus_joint_structure.md](../corpus_joint_structure.md) **CJS-1.1** (*Joint structural boundary and owner discipline*), **CJS-1.2** (*Shared implementation-corpus preamble contract*), **CJS-2.1** (*Topic router (stable IDs)*), and **CJS-3.6** (*Implementation-label traceability and stricter-wins discipline*) for shared implementation-corpus reading, routing, and owner discipline.
+**Quick orientation**
+
+The institutions layer (**CI**) owns formation, authorization, oversight, correction, and dissolution mechanics for institutional governance. **CI-1.1** through **CI-1.4** below state local discipline for definitions, section labels, misconduct routing, and proportionality. Shared cross-layer rules live in **CJS**; this file points there instead of repeating them.
+
+For shared implementation-corpus reading, routing, and owner discipline, apply [corpus_joint_structure.md](../corpus_joint_structure.md) **CJS-1.1** (*Joint structural boundary and owner discipline*), **CJS-1.2** (*Shared implementation-corpus preamble contract*), **CJS-2.1** (*Topic router (stable IDs)*), and **CJS-3.6** (*Implementation-label traceability and stricter-wins discipline*).
 
 ### CI-1.1: Definition discipline and source hierarchy
 <details>
@@ -53,7 +57,11 @@ Apply [corpus_joint_structure.md](../corpus_joint_structure.md) **CJS-1.1** (*Jo
 
 <br>
 
-Definition discipline is single-home. Apply `corpus_joint_structure.md` **CJS-1.2**, **CJS-1.4**, **CJS-1.5**, and **CJS-5** for shared preamble and operational-cluster discipline; `corpus_systems.md` remains home for system taxonomies.
+*In plain terms: each constitutional term has one canonical home — this file does not redefine terms, restate Rights Floors, or copy shared preamble rules already in **CJS**.*
+
+Each constitutional term has one canonical home. This file does not redefine constitutional terms, restate Rights Floors, or duplicate shared preamble or operational-cluster rules.
+
+Apply [corpus_joint_structure.md](../corpus_joint_structure.md) **CJS-1.2**, **CJS-1.4**, **CJS-1.5**, and **CJS-5** for shared preamble and operational-cluster discipline. [corpus_systems.md](../corpus_systems.md) remains home for system taxonomies.
 
 ### CI-1.2: Section identifiers and article references
 <details>
@@ -79,7 +87,16 @@ Definition discipline is single-home. Apply `corpus_joint_structure.md` **CJS-1.
 
 <br>
 
-Apply `corpus_joint_structure.md` **CJS-1.3** (*Section identifiers and article references*) as the shared implementation-corpus identifier rule. In this file specifically, headings use **CI-1** (*Scope, purpose, and legitimacy interface*) through **CI-26** (*Compliance mapping and stable registry*). Subsections under each section use **CI-*n*.*m*** (for example **CI-7.2** (*External assurance triggers*)). They must not be read as Sentient Constitution **Article** numbers. The abbreviation **CI** matches `doc_architecture.md` (*Corpus Institutions* institutional implementation file).
+*In plain terms: labels like **CI-7.2** are navigation markers in this rulebook — not Sentient Constitution **Article** numbers.*
+
+Apply [corpus_joint_structure.md](../corpus_joint_structure.md) **CJS-1.3** (*Section identifiers and article references*) as the shared implementation-corpus identifier rule.
+
+In this file specifically:
+
+- Headings use **CI-1** (*Scope, purpose, and legitimacy interface*) through **CI-26** (*Compliance mapping and stable registry*).
+- Subsections use **CI-*n*.*m***, such as **CI-7.2** (*External assurance triggers*).
+- These labels must not be read as Sentient Constitution **Article** numbers.
+- The abbreviation **CI** matches [doc_architecture.md](../doc_architecture.md) (*Corpus Institutions* institutional implementation file).
 
 Unless another reference pattern is stated, **Article** labels with Roman numerals in this file point to Sentient Constitution Chapter Ten in the `core_10-10_rights_part_*.md` files.
 
@@ -108,7 +125,18 @@ Unless another reference pattern is stated, **Article** labels with Roman numera
 
 <br>
 
-References in this file to **anti-constitutional misconduct** are routing shorthand only. Assessment remains under **Sentient Constitution Chapters Two through Six** and adopting instruments where they apply. **Chapter Eight** (*Anti-Constitutional Misconduct*) in [core_08-08_misconduct.md](../core_08-08_misconduct.md#chapter-eight-anti-constitutional-misconduct) supplies the final **Violation Axis s = 7, 8, or 9** criteria and slot labels for conduct within that chapter's scope. This file does **not** create a parallel offense taxonomy or substitute labels for **Chapter Eight**. **General** classification on **Axes I and II** (contribution **state**, violation nature, standing effect) remains authoritative in **Chapter Six**, and final top-end anti-constitutional-misconduct slot labels remain authoritative in **Chapter Eight**.
+*In plain terms: when this file mentions **anti-constitutional misconduct**, that is a pointer to the real classification rules in Chapters Two through Eight — not a separate offense list here.*
+
+References in this file to **anti-constitutional misconduct** are routing shorthand only. Assessment remains under **Sentient Constitution Chapters Two through Six** and adopting instruments where they apply.
+
+**Chapter Eight** (*Anti-Constitutional Misconduct*) in [core_08-08_misconduct.md](../core_08-08_misconduct.md#chapter-eight-anti-constitutional-misconduct) supplies the final **Violation Axis s = 7, 8, or 9** criteria and slot labels for conduct within that chapter's scope.
+
+This file does **not**:
+
+- create a parallel offense taxonomy, or
+- substitute labels for **Chapter Eight**.
+
+**General** classification on **Axes I and II** (contribution **state**, violation nature, standing effect) remains authoritative in **Chapter Six**. Final top-end anti-constitutional-misconduct slot labels remain authoritative in **Chapter Eight**.
 
 ### CI-1.4: Proportionality rule
 <details>
@@ -135,7 +163,11 @@ References in this file to **anti-constitutional misconduct** are routing shorth
 
 <br>
 
-Institutional burden must scale with impact. This subsection states the CI file's institution-specific baseline. Apply `corpus_joint_structure.md` **CJS-5.2** (*Implementation and cross-implementation distributed and proportional authority terms*), **CJS-5.5** (*Implementation and cross-implementation burden-of-justification and constraint terms*), and **CJS-5.7** (*Implementation and cross-implementation procedural integrity and adjudication terms*) for shared proportionality, burden, and procedural read-with terms where materially applicable.
+*In plain terms: heavier institutional impact means stronger duties — setup, oversight, transparency, and accountability must scale with how much the institution affects sentients and dependencies.*
+
+Institutional burden must scale with impact. This subsection states the CI file's institution-specific baseline.
+
+Apply [corpus_joint_structure.md](../corpus_joint_structure.md) **CJS-5.2** (*Implementation and cross-implementation distributed and proportional authority terms*), **CJS-5.5** (*Implementation and cross-implementation burden-of-justification and constraint terms*), and **CJS-5.7** (*Implementation and cross-implementation procedural integrity and adjudication terms*) for shared proportionality, burden, and procedural read-with terms where materially applicable.
 
 - Low-impact institutional scopes should be simple, accessible, and inexpensive to establish and operate.
 - High-impact institutional scopes must satisfy stronger diligence, assurance, transparency, and accountability duties.
