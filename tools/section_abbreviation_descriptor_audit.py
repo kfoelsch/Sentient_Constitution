@@ -73,8 +73,6 @@ def is_exempt_line(line: str, *, in_trace_widget: bool) -> bool:
         return True
     if stripped.startswith("<"):
         return True
-    if "`INST-PROTO-" in stripped:
-        return True
     if stripped.startswith("- `"):
         return True
     if stripped.startswith("- Upstream:") or stripped.startswith("- Downstream:"):

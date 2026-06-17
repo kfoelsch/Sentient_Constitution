@@ -23,6 +23,8 @@ RETIRED_PATTERNS: tuple[tuple[str, re.Pattern[str]], ...] = (
     ),
     ("retired primitive term", re.compile(r"\b[Pp]rimitives?\b")),
     ("retired corpus_primitives path", re.compile(r"\bcorpus_primitives\.md\b")),
+    ("retired INST-PROTO code", re.compile(r"\bINST-PROTO-\d+\b")),
+    ("retired INST-PROTO shorthand", re.compile(r"\bINST-PROTO\b")),
 )
 
 

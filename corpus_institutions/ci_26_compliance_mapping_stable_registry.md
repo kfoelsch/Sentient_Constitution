@@ -23,45 +23,46 @@
 
 <br>
 
+*In plain terms: **CI-26** is the institutions layer's compliance index — a stable map from **CI** section numbers to the topics they own. Use it for external compliance mapping, audit routing, and cross-reference tables. Operative rules live in the cited **CI** sections; this file does not add new obligations.*
 
-Institutional protocol IDs use the `INST-PROTO-*` convention and remain stable across editorial renumbering.
+**Core section families**
 
-Core registry:
-- `INST-PROTO-1`: Delegation and authority custody
-- `INST-PROTO-2`: Appointment, qualification, and removal
-- `INST-PROTO-3`: Conflict disclosure, recusal, and anti-capture
-- `INST-PROTO-4`: Procedure integrity and adjudication interface
-- `INST-PROTO-5`: Oversight, audit, and evidence
-- `INST-PROTO-6`: Cross-institution escalation and coordination
-- `INST-PROTO-7`: Classification interface and scaling map
-- `INST-PROTO-8`: Dissolution, continuity transfer, and accountability
-- `INST-PROTO-9`: Founding and authorization gate
-- `INST-PROTO-10`: Proportionality calibration and revalidation
-- `INST-PROTO-11`: Three-lines assurance and controls attestation
-- `INST-PROTO-12`: Protected escalation and anti-retaliation
-- `INST-PROTO-13`: Related-party and beneficial-interest disclosure
-- `INST-PROTO-14`: Graduated sanctions and supervisory intervention
-- `INST-PROTO-15`: Governance capability review and stress testing
-- `INST-PROTO-16`: Anti-corruption and anti-fraud prevention and response
-- `INST-PROTO-17`: External assurance triggers and independent review
-- `INST-PROTO-18`: Governance disclosure taxonomy and publication
-- `INST-PROTO-19`: Class-aligned public revenue, fees, and fiscal burden placement (CI-10.1 (*Public revenue, user fees, and class-aligned burden*))
-- `INST-PROTO-20`: Survival floors, voluntary exchange, and Article III-A fiscal interface (CI-9.4 (*Survival floors, voluntary exchange, and markets (Article III-A interface)*))
-- `INST-PROTO-21`: Recurring charges, renewals, and commercial billing integrity (CI-10.2 (*Recurring charges, renewals, and commercial billing integrity*))
-- `INST-PROTO-22`: Digital self-service pathway integrity (CI-12.3 (*Digital self-service pathway integrity*))
-- `INST-PROTO-23`: Vulnerable personal services markets — general regulation and Article X-C interface (CI-15 (*Vulnerable personal services markets — general regulation and Article X-C interface*))
-- `INST-PROTO-24`: Contest-integrity monitoring and monitor/inspector constitutional mandate (CI-7 (*Oversight, assurance, controls, and evidence*))
-- `INST-PROTO-25`: Innovation reward, disclosure, and anti-enclosure (CI-16 (*Innovation reward, disclosure, and anti-enclosure*))
-- `INST-PROTO-26`: Scientific publication, peer review, replication, and evidence stewardship (CI-17 (*Scientific publication, peer review, replication, and evidence stewardship*))
-- `INST-PROTO-27`: Delegated subunits, institutional design class, and attachment discipline (CI-9.3 (*Delegated subunits, institutional design class, and attachment discipline*))
-- `INST-PROTO-28`: Community life, voluntary association, and non-instrumental time (CI-18 (*Community life, voluntary association, and non-instrumental time*))
-- `INST-PROTO-29`: End-of-life continuity, memorial dignity, and posthumous-data stewardship (CI-19 (*End-of-life continuity, memorial dignity, and posthumous-data stewardship*))
-- `INST-PROTO-30`: Care labor, dependent support, respite, and care-economy fairness (CI-20 (*Care labor, dependent support, respite, and care-economy fairness*))
-- `INST-PROTO-31`: Relational coercive control, intimate power, and anti-domination routing (CI-21 (*Relational coercive control, intimate power, and anti-domination routing*))
-- `INST-PROTO-32`: Commons, cooperatives, mutual aid, and non-market community governance (CI-22 (*Commons, cooperatives, mutual aid, and non-market community governance*))
-- `INST-PROTO-33`: Place-based stewardship, Indigenous continuity, and consultation routes (CI-23 (*Place-based stewardship, Indigenous continuity, and consultation routes*))
-- `INST-PROTO-34`: Neurodiversity, disability justice, and trauma-informed participation (CI-24 (*Neurodiversity, disability justice, and trauma-informed participation*))
-- `INST-PROTO-35`: Collective public health, epidemic response, and addiction-informed care (CI-25 (*Collective public health, epidemic response, and addiction-informed care*))
+| Section | Topic |
+|---|---|
+| **CI-1** | Scope, purpose, legitimacy interface, and proportionality discipline |
+| **CI-3** | Institutional design, separation of powers, and authority custody |
+| **CI-4** | Appointment, competency, rotation, removal, and capability review |
+| **CI-5** | Conflict integrity, anti-capture, anti-corruption, and integrity triggers |
+| **CI-6** | Procedure integrity, contestability, and secondary review |
+| **CI-7** | Oversight, assurance, controls, and evidence |
+| **CI-7.1** | Controls declaration, three-lines assurance attestation, and incident notification urgency framework |
+| **CI-7.2** | External assurance triggers and independent review |
+| **CI-7.3** | Contest-integrity monitoring (**Class A** and **Class B**) |
+| **CI-8** | Cross-institution coordination and escalation |
+| **CI-9** | Classification-linked institutional obligations and scaling map |
+| **CI-12** | Transparency, participation, accessible pathways, protected escalation, and disclosure taxonomy |
+| **CI-13** | Institutional failure, graduated sanctions, dissolution, and continuity transfer |
+
+**Domain-specific section homes**
+
+| Section | Topic |
+|---|---|
+| **CI-9.3** | Delegated subunits, institutional design class, and attachment discipline |
+| **CI-9.4** | Survival floors, voluntary exchange, and markets (Article III-A interface) |
+| **CI-10.1** | Public revenue, user fees, and class-aligned burden |
+| **CI-10.2** | Recurring charges, renewals, and commercial billing integrity |
+| **CI-12.3** | Digital self-service pathway integrity |
+| **CI-15** | Vulnerable personal services markets and Article X-C interface |
+| **CI-16** | Innovation reward, disclosure, and anti-enclosure |
+| **CI-17** | Scientific publication, peer review, replication, and evidence stewardship |
+| **CI-18** | Community life, voluntary association, and non-instrumental time |
+| **CI-19** | End-of-life continuity, memorial dignity, and posthumous-data stewardship |
+| **CI-20** | Care labor, dependent support, respite, and care-economy fairness |
+| **CI-21** | Relational coercive control, intimate power, and anti-domination routing |
+| **CI-22** | Commons, cooperatives, mutual aid, and non-market community governance |
+| **CI-23** | Place-based stewardship, Indigenous continuity, and consultation routes |
+| **CI-24** | Neurodiversity, disability justice, and trauma-informed participation |
+| **CI-25** | Collective public health, epidemic response, and addiction-informed care |
 
 Cross-reference mapping tables and article alignment appendices may be expanded here without redefining constitutional terms.
 

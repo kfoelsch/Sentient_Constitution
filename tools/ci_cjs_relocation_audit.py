@@ -239,10 +239,15 @@ def strip_navigation_and_alignment(text: str) -> str:
 
 
 def strip_inst_proto_registry(text: str) -> str:
-    """Remove local INST-PROTO registry lists before relocation scoring."""
+    """Remove local CI-26 compliance index tables before relocation scoring."""
 
+    text = re.sub(
+        r"\n?\*\*Core section families\*\*\n\n\| Section \| Topic \|\n\|---\|---\|\n(?:\| \*\*CI-[^|]+\|[^\n]*\n)+",
+        "\n",
+        text,
+    )
     return re.sub(
-        r"\n?Core registry:\n(?:- `INST-PROTO-[^`\n]+`:[^\n]*\n)+",
+        r"\n?\*\*Domain-specific section homes\*\*\n\n\| Section \| Topic \|\n\|---\|---\|\n(?:\| \*\*CI-[^|]+\|[^\n]*\n)+",
         "\n",
         text,
     )

@@ -138,9 +138,9 @@ This subsection names institutional trigger labels for **CI-5** control maps and
 - reporting suppression; and
 - conflict concealment.
 
-When a trigger fires, route it to the correct owner section — not every problem stays inside the institution that received it:
+When a trigger fires, route it to the correct owner section — not every problem stays inside the institution that received it. Assign a **Notification Urgency Level** under **CJS-5.8** and publish notice through **CI-7.1** without waiting for routine attestation:
 - **CI-5** — receiving and opening reports;
-- **CI-7** — independent assurance checks;
+- **CI-7** — independent assurance checks and urgency-scaled incident notification (**CI-7.1**);
 - **CI-8** — escalation when local review fails;
 - **CI-3** — structural independence and lane safeguards when capture is suspected;
 - **CI-6** — fair procedure and contest rights;

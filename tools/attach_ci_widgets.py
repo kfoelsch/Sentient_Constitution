@@ -240,7 +240,6 @@ def mentioned_links(section_text: str) -> list[str]:
     patterns = (
         r"\bCI-\d+(?:\.\d+)*\b",
         r"\bCJS-\d+[A-Z]?(?:\.\d+)?\b",
-        r"\bINST-PROTO-\d+\b",
     )
     for pattern in patterns:
         for match in re.findall(pattern, section_text):

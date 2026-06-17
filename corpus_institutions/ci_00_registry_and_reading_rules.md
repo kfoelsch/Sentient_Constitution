@@ -46,7 +46,7 @@ Shared preamble contract: apply [corpus_joint_structure.md](../corpus_joint_stru
 >
 > **Implementation cross-reference index (routing only):** Read with Chapter Five constitutional definitions and `corpus_joint_structure.md` **CJS-5** (*Implementation and cross-implementation operational cluster library*) operational clusters where materially applicable. This index does not redefine owner-layer meaning.
 >
-> **Stable registry:** institutional protocol IDs and cross-reference tables live in **CI-26** (*Compliance mapping and stable registry*).
+> **Stable registry:** compliance cross-reference tables and section-family routing live in **CI-26** (*Compliance mapping and stable registry*).
 
 </details>
 

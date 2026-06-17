@@ -38,7 +38,7 @@ Apply `corpus_joint_structure.md` **CJS-5.2** (*Implementation and cross-impleme
 
 - Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions; and [Chapter Ten](../core_10-10_rights_part_a.md#chapter-ten-foundational-rights) rights architecture where rights interfaces are invoked.
 - Downstream: this section's local operational requirements for **CI-9.1: Formation proportionality**.
-- Read with: **CI-9.1**; **CI-7**; **INST-PROTO-24**.
+- Read with: **CI-9.1**; **CI-7**; **CI-7.3**.
 
 </details>
 
@@ -57,7 +57,7 @@ Apply `corpus_joint_structure.md` **CJS-5.2** (*Implementation and cross-impleme
 
 <br>
 
-Apply `corpus_joint_structure.md` **CJS-5.2** (*Implementation and cross-implementation distributed and proportional authority terms*) **Formation and authorization proportionality floor** for the shared scaling rule. This subsection states institutional owner duties: formation instruments must publish the local authorization path, evidence burden, audit cadence, publication depth, continuity-planning depth, compliance-cost expectation, and contest-integrity monitoring route for **Class A** and **Class B** supervised scope (**CI-7** (*Oversight, assurance, controls, and evidence*); **`INST-PROTO-24`**).
+Apply `corpus_joint_structure.md` **CJS-5.2** (*Implementation and cross-implementation distributed and proportional authority terms*) **Formation and authorization proportionality floor** for the shared scaling rule. This subsection states institutional owner duties: formation instruments must publish the local authorization path, evidence burden, audit cadence, publication depth, continuity-planning depth, compliance-cost expectation, and contest-integrity monitoring route for **Class A** and **Class B** supervised scope (**CI-7.3** (*Contest-integrity monitoring (Class A and Class B)*)).
 
 ### CI-9.2: Published industry and domain mapping
 <details>
@@ -176,14 +176,14 @@ Subunits must remain **subordinate** to the parent mandate. They must not operat
 
 Delegated subunits in scope must satisfy **CJS-4.1**. **CI-9.3.2** states only the institutional exception route, substitute capture-safeguard publication duty, and external-assurance requirement where the local instrument departs from **CJS-4.1**.
 
-Where a multi-member body uses a different deciding-bench balance or materially different hybrid staging, the instrument must publish substitute capture safeguards proportionate to institutional design class under **CI-5** (*Conflict integrity, anti-capture, and anti-corruption*). For **Class A** and **Class B**, that pattern is non-compliant unless previewed through **CI-7.2** (*External assurance triggers*) / **`INST-PROTO-17`**, or a published **CI-8** (*Cross-institution coordination and escalation*) functionally independent review arrangement.
+Where a multi-member body uses a different deciding-bench balance or materially different hybrid staging, the instrument must publish substitute capture safeguards proportionate to institutional design class under **CI-5** (*Conflict integrity, anti-capture, and anti-corruption*). For **Class A** and **Class B**, that pattern is non-compliant unless previewed through **CI-7.2** (*External assurance triggers*), or a published **CI-8** (*Cross-institution coordination and escalation*) functionally independent review arrangement.
 ### CI-9.3.3: Rotating authority: attachment bounds
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions; and [Chapter Ten](../core_10-10_rights_part_a.md#chapter-ten-foundational-rights) rights architecture where rights interfaces are invoked.
 - Downstream: this section's local operational requirements for **CI-9.3.3: Rotating authority: attachment bounds**.
-- Read with: **CI-9.3.3**; **CJS-4.1.2**; **INST-PROTO-17**.
+- Read with: **CI-9.3.3**; **CJS-4.1.2**; **CI-7.2**.
 
 </details>
 
@@ -207,7 +207,7 @@ Apply **`corpus_joint_structure.md` CJS-4.1.2** (*Attachment publication*) for s
 **Scaling by institutional design class:**
 - **Class C:** **Suggested** guidance: treat **one calendar year** as the ordinary **maximum** for a single rotating attachment spell unless the instrument publishes a longer ceiling and a brief justification.
 - **Class B:** maximum and minimum attachment rules must be **published**; **undefined discretion** over duration is **non-compliant**.
-- **Class A:** the ordinary **maximum** of **one calendar year** for a single rotating attachment spell is **expected**; any **longer** published ceiling requires **independent external assurance** or **documented external participation** in the approval record under **`INST-PROTO-17`**.
+- **Class A:** the ordinary **maximum** of **one calendar year** for a single rotating attachment spell is **expected**; any **longer** published ceiling requires **independent external assurance** or **documented external participation** in the approval record under **CI-7.2** (*External assurance triggers*).
 
 ### CI-9.3.4: Home-based authority: term and renewal
 <details>
