@@ -7,7 +7,7 @@
 - Read with: **CI-4**; **CI-3**.
 - Topic routing (mandatory read-with): **CJS-R03** (*Lawful panel formation, disclosure, recusal, substitution, inability-to…*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CF-4**.
 - Topic routing (mandatory read-with): **CJS-R13** (*Forum staffing, shared administration, structural review, structural re…*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CF-16**.
-- Topic routing (primary owner): **CJS-R18** (*Class-scaled lane staffing and competency redundancy for materially bin…*) in **CJS-2.1** (*Topic router (stable IDs)*). Mandatory read-with: **CJS-4.5**, **CJS-5.2**.
+- Topic routing (primary owner): **CJS-R18** (*Class-scaled lane staffing and competency redundancy for materially bin…*) in **CJS-2.1** (*Topic router (stable IDs)*). Mandatory read-with: **CJS-4.4**, **CJS-5.2**.
 
 </details>
 
@@ -26,7 +26,7 @@
 
 <br>
 
-*In plain terms: **CI-4** is the institutions layer's appointment and role-stewardship rulebook — who may hold important jobs, what qualifications they need, how backup coverage works, when they must rotate off, and how they can be removed fairly. Shared staffing floors live in **CJS-4.5**; this file states what each institution must publish and maintain locally.*
+*In plain terms: **CI-4** is the institutions layer's appointment and role-stewardship rulebook — who may hold important jobs, what qualifications they need, how backup coverage works, when they must rotate off, and how they can be removed fairly. Shared staffing floors live in **CJS-4.4**; this file states what each institution must publish and maintain locally.*
 
 **Quick orientation**
 
@@ -43,7 +43,7 @@
 
 - Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions; and [Chapter Ten](../core_10-10_rights_part_a.md#chapter-ten-foundational-rights) rights architecture where rights interfaces are invoked.
 - Downstream: this section's local operational requirements for **CI-4.1: Shared staffing and competency floor**.
-- Read with: **CI-4.1**; **CJS-4.5**; **CJS-5.2**.
+- Read with: **CI-4.1**; **CJS-4.4**; **CJS-5.2**.
 
 </details>
 
@@ -60,9 +60,9 @@
 
 <br>
 
-*In plain terms: important jobs must never depend on a single sentient. Shared rules in **CJS-4.5** set the minimum for backup coverage, cross-training, succession planning, and lane staffing — scaled to how binding the institution's duties are.*
+*In plain terms: important jobs must never depend on a single sentient. Shared rules in **CJS-4.4** set the minimum for backup coverage, cross-training, succession planning, and lane staffing — scaled to how binding the institution's duties are.*
 
-Apply [corpus_joint_structure.md](../corpus_joint_structure.md) **CJS-4.5** (*Class-scaled lane staffing and competency redundancy*) for the shared role-boundary, competency-redundancy, succession, and lane-staffing floor.
+Apply [corpus_joint_structure.md](../corpus_joint_structure.md) **CJS-4.4** (*Class-scaled lane staffing and competency redundancy*) for the shared role-boundary, competency-redundancy, succession, and lane-staffing floor.
 
 ### CI-4.2: Role criteria, appointment standards, and removal pathways
 <details>
@@ -153,7 +153,7 @@ Interpretive-body composition controls (**Article XXII** — constitutional inte
 
 - Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions; and [Chapter Ten](../core_10-10_rights_part_a.md#chapter-ten-foundational-rights) rights architecture where rights interfaces are invoked.
 - Downstream: this section's local operational requirements for **CI-4.5: Authorized roles and accountability chains**.
-- Read with: **CI-4.5**; **CJS-4.5**; **CI-3**.
+- Read with: **CI-4.5**; **CJS-4.4**; **CI-3**.
 
 </details>
 
@@ -169,7 +169,7 @@ Interpretive-body composition controls (**Article XXII** — constitutional inte
 
 <br>
 
-*In plain terms: under **Chapter Ten**, section 5 and the **Article XI-D** interface, each institution writes its own map of who is authorized to do what — and who is accountable when things go wrong. That local map must spell out decision power, review power, escalation paths, hiring standards, backup coverage, and how skills stay current. Three shared rulebooks govern what gets stricter for higher-impact systems — apply them locally, do not reinvent them: **CJS-4.5** sets minimum staffing and backup by impact level; **CI-3** assigns each role to a functional lane; **CS-4** and **CS-5** define system class and when critical-stewardship duties apply.*
+*In plain terms: under **Chapter Ten**, section 5 and the **Article XI-D** interface, each institution writes its own map of who is authorized to do what — and who is accountable when things go wrong. That local map must spell out decision power, review power, escalation paths, hiring standards, backup coverage, and how skills stay current. Three shared rulebooks govern what gets stricter for higher-impact systems — apply them locally, do not reinvent them: **CJS-4.4** sets minimum staffing and backup by impact level; **CI-3** assigns each role to a functional lane; **CS-4** and **CS-5** define system class and when critical-stewardship duties apply.*
 
 Under **Chapter Ten**, section 5 (*Authorized Roles, Competency Development, and Contribution*) and the **Article XI-D** interface, each institution maintains its own authorized-role and accountability-chain map. That local map must assign:
 - scope and limits,
@@ -180,7 +180,7 @@ Under **Chapter Ten**, section 5 (*Authorized Roles, Competency Development, and
 - capability-refresh duties.
 
 The following shared rules govern class-scaling — local role maps must apply them, not replace them:
-- **CJS-4.5** (*Class-scaled lane staffing and competency redundancy*) — minimum qualified role holders, backup coverage, and succession depth scaled to binding impact.
+- **CJS-4.4** (*Class-scaled lane staffing and competency redundancy*) — minimum qualified role holders, backup coverage, and succession depth scaled to binding impact.
 - **CI-3** (*Institutional design and separation of powers*) — lane ownership for each required functional lane.
 - `corpus_systems.md` **CS-4 — System classification and handling** and **CS-5 — Critical system stewardship** — classification and stewardship hooks that trigger when class-scaling applies.
 

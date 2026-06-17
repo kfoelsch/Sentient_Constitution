@@ -7,7 +7,7 @@
 - Read with: **CF-4**; **CF-4.1**; **CF-4.2**; **CF-4.3**; **CF-4.4**; **CF-4.5**; [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract.
 - Topic routing (mandatory read-with): **CJS-R11A** (*Fallback operation*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CF-13**.
 - Topic routing (mandatory read-with): **CJS-R15** (*Contest-integrity monitoring (pathway integrity, not merits)*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CI-7.3**.
-- Topic routing (primary owner): **CJS-R03** (*Lawful panel formation, disclosure, recusal, substitution, inability-to…*) in **CJS-2.1** (*Topic router (stable IDs)*). Mandatory read-with: **CJS-4.6**, **CJS-5.7**, **CI-4**, **CI-5**.
+- Topic routing (primary owner): **CJS-R03** (*Lawful panel formation, disclosure, recusal, substitution, inability-to…*) in **CJS-2.1** (*Topic router (stable IDs)*). Mandatory read-with: **CJS-4.5**, **CJS-5.7**, **CI-4**, **CI-5**.
 
 </details>
 
@@ -42,7 +42,7 @@ This section does not alter primary-stakes routing, constitutional family bounda
 
 - Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Nine](../core_09-09_forum.md#chapter-nine-forums-and-jurisdiction) forum-family routing; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
 - Downstream: this section's local operational requirements for **CF-4.1 Lawful panel definitions**.
-- Read with: **CF-4.1**; **CJS-4.6**.
+- Read with: **CF-4.1**; **CJS-4.5**.
 
 </details>
 
@@ -69,7 +69,7 @@ For this section:
 - `panel coordinator` means the published role responsible for recording panel formation, disclosures, recusals, substitutions, and inability-to-form findings. This role may be clerical, judicial-administrative, or equivalent, but must not unilaterally decide contested recusal merits where the coordinator is materially interested.
 - `backup activation` means transfer or co-routing to the constitutionally designated backup family under [Chapter Nine](../core_09-09_forum.md#chapter-nine-forums-and-jurisdiction) when the otherwise designated lead family cannot provide a lawful and independent merits forum.
 
-For cross-implementation interoperability, read these local definitions with `corpus_joint_structure.md` **CJS-4.6** (Tier 1 abstractions for delegated bodies, lawful independent forums, backup activation, and representative treatment).
+For cross-implementation interoperability, read these local definitions with `corpus_joint_structure.md` **CJS-4.5** (Tier 1 abstractions for delegated bodies, lawful independent forums, backup activation, and representative treatment).
 
 ### CF-4.2 Minimum lawful-panel requirements
 <details>

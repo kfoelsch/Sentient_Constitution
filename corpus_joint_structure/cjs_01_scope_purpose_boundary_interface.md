@@ -118,7 +118,7 @@ Under the authority-stack rules named in **CJS-1.2** (*Shared implementation-cor
 | Tell "Continuity aim" from operational continuity | **Shared contract** → Continuity disambiguation |
 | Find which file owns a topic | **[CJS-0.1](cjs_00_registry_and_reading_rules.md#cjs-01-cross-file-routing)** (reading guide), **CJS-2.1** (integrator router table), or [topic_router_reader_index.md](../doc_architecture/generated/topic_router_reader_index.md) (grouped index) |
 | Satisfy duties across **CS**, **CI**, and **CF** together | **Shared contract** → scope, overlap, and routing → **CJS-3** |
-| Resolve two rules that disagree on the same risk | **Shared contract** → scope, overlap, and routing → **CJS-3.6** |
+| Resolve two rules that disagree on the same risk | **Shared contract** → scope, overlap, and routing → **CJS-2.3** (CJS vs **primary owner** collision); **CJS-3.6** (stricter-wins between implementation files) |
 | Use intervention or override language | **Authority stack** → **CJS-5.20** (technical integrity) vs **CJS-5.3** (governance authorization) |
 | Handle emergencies spanning multiple files | **Authority stack** → **CJS-2.1** and **CJS-3.2** |
 | Place a definition (not route a topic) | `doc_architecture.md` section 4 (*Project-wide definitions protocol*) |

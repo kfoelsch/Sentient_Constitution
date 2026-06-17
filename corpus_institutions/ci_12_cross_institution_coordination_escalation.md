@@ -6,7 +6,7 @@
 - Downstream: this section's local operational requirements for **CI-12: Cross-institution coordination and escalation**.
 - Read with: **CI-12**.
 - Topic routing (primary owner): **CJS-R16** (*Cross-institution coordination, deadlock, and escalation*) in **CJS-2.1** (*Topic router (stable IDs)*). Mandatory read-with: **CF-5**, **CF-7**.
-- Topic routing (primary owner): **CJS-R18** (*Class-scaled lane staffing and competency redundancy for materially binding stewardship*) in **CJS-2.1** (*Topic router (stable IDs)*). Mandatory read-with: **CJS-4.5**, **CJS-5.2**.
+- Topic routing (primary owner): **CJS-R18** (*Class-scaled lane staffing and competency redundancy for materially binding stewardship*) in **CJS-2.1** (*Topic router (stable IDs)*). Mandatory read-with: **CJS-4.4**, **CJS-5.2**.
 
 </details>
 

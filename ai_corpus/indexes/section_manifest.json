@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-06-17T13:37:26+00:00",
+  "generated_at": "2026-06-17T22:44:14+00:00",
   "files": {
     "core_00_preamble.md": {
       "total_lines": 52,
@@ -237,20 +237,20 @@
       ]
     },
     "core_01_b_stewardship_capacity_principles.md": {
-      "total_lines": 1263,
+      "total_lines": 1264,
       "sections": [
         {
           "header": "Sentient Constitution — Stewardship, Capacity, and Constitutional Safeguards (Chapter One, Part B)",
           "level": 1,
           "line_start": 1,
-          "line_end": 1263,
+          "line_end": 1264,
           "anchor": null
         },
         {
           "header": "CHAPTER 01, PART B: STEWARDSHIP, CAPACITY, AND CONSTITUTIONAL SAFEGUARDS",
           "level": 2,
           "line_start": 10,
-          "line_end": 1263,
+          "line_end": 1264,
           "anchor": "#chapter-01-part-b-stewardship-capacity-and-constitutional-safeguards"
         },
         {
@@ -600,7 +600,7 @@
           "header": "Reference: Chapter Five vocabulary anchor and cluster index",
           "level": 3,
           "line_start": 1240,
-          "line_end": 1263,
+          "line_end": 1264,
           "anchor": null
         }
       ]
@@ -4943,187 +4943,194 @@
       ]
     },
     "corpus_joint_structure/cjs_00_registry_and_reading_rules.md": {
-      "total_lines": 164,
+      "total_lines": 230,
       "sections": [
         {
           "header": "Constitutional joint structure",
           "level": 1,
           "line_start": 1,
-          "line_end": 164,
+          "line_end": 230,
           "anchor": null
         },
         {
-          "header": "Joint Structure Registry",
+          "header": "CJS-0: Registry and reading rules",
           "level": 2,
-          "line_start": 57,
-          "line_end": 89,
+          "line_start": 28,
+          "line_end": 230,
           "anchor": null
         },
         {
-          "header": "Stable identifiers, edition alignment, and drafting notes",
-          "level": 2,
-          "line_start": 90,
-          "line_end": 133,
+          "header": "CJS-0.1: Cross-file routing",
+          "level": 3,
+          "line_start": 58,
+          "line_end": 115,
           "anchor": null
         },
         {
-          "header": "Cross-domain implementation layer",
-          "level": 2,
-          "line_start": 134,
-          "line_end": 164,
-          "anchor": null
+          "header": "CJS-0.2: Joint structure registry",
+          "level": 3,
+          "line_start": 116,
+          "line_end": 151,
+          "anchor": "#cross-file-routing"
+        },
+        {
+          "header": "CJS-0.3: Stable identifiers, edition alignment, and drafting notes",
+          "level": 3,
+          "line_start": 152,
+          "line_end": 197,
+          "anchor": "#cjs-02-joint-structure-registry"
+        },
+        {
+          "header": "CJS-0.4: Cross-domain implementation layer",
+          "level": 3,
+          "line_start": 198,
+          "line_end": 230,
+          "anchor": "#cjs-03-stable-identifiers-edition-alignment-and-drafting-notes"
         }
       ]
     },
     "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md": {
-      "total_lines": 275,
+      "total_lines": 289,
       "sections": [
         {
           "header": "CJS-1: Scope, purpose, and boundary interface",
           "level": 2,
           "line_start": 1,
-          "line_end": 275,
+          "line_end": 289,
           "anchor": null
         },
         {
           "header": "CJS-1.1: Joint structural boundary and owner discipline",
           "level": 3,
-          "line_start": 39,
-          "line_end": 80,
+          "line_start": 34,
+          "line_end": 75,
           "anchor": null
         },
         {
           "header": "CJS-1.2: Shared implementation-corpus preamble contract",
           "level": 3,
-          "line_start": 81,
-          "line_end": 133,
+          "line_start": 76,
+          "line_end": 169,
           "anchor": null
         },
         {
           "header": "CJS-1.3: Section identifiers and article references",
           "level": 3,
-          "line_start": 134,
-          "line_end": 159,
-          "anchor": null
-        },
-        {
-          "header": "Article ...` headings in those files.",
-          "level": 3,
-          "line_start": 160,
-          "line_end": 186,
+          "line_start": 170,
+          "line_end": 200,
           "anchor": null
         },
         {
           "header": "CJS-1.4: Operational structure and subsection-local terminology",
           "level": 3,
-          "line_start": 187,
-          "line_end": 229,
+          "line_start": 201,
+          "line_end": 243,
           "anchor": null
         },
         {
           "header": "CJS-1.5: Operational clusters",
           "level": 3,
-          "line_start": 230,
-          "line_end": 275,
+          "line_start": 244,
+          "line_end": 289,
           "anchor": null
         }
       ]
     },
     "corpus_joint_structure/cjs_02_implementation_integration_map.md": {
-      "total_lines": 135,
+      "total_lines": 154,
       "sections": [
         {
           "header": "CJS-2: Implementation integration map",
           "level": 2,
           "line_start": 1,
-          "line_end": 135,
+          "line_end": 154,
           "anchor": null
         },
         {
-          "header": "CJS-2.1: Topic router (stable IDs)",
+          "header": "CJS-2.1: Cross-implementation read-with contract",
           "level": 3,
-          "line_start": 15,
-          "line_end": 74,
+          "line_start": 22,
+          "line_end": 78,
           "anchor": null
         },
         {
           "header": "CJS-2.2: Intentional overlap (non-duplication discipline)",
           "level": 3,
-          "line_start": 75,
-          "line_end": 101,
-          "anchor": null
+          "line_start": 79,
+          "line_end": 100,
+          "anchor": "#cjs-21-topic-router-stable-ids"
         },
         {
           "header": "CJS-2.3: Two-tier definition contract (binding abstraction + owner detail)",
           "level": 3,
-          "line_start": 102,
-          "line_end": 135,
+          "line_start": 101,
+          "line_end": 154,
           "anchor": null
         }
       ]
     },
     "corpus_joint_structure/cjs_03_joint_structural_obligations.md": {
-      "total_lines": 182,
+      "total_lines": 206,
       "sections": [
         {
           "header": "CJS-3: Joint structural obligations (cross-domain requirements)",
           "level": 2,
           "line_start": 1,
-          "line_end": 182,
+          "line_end": 206,
           "anchor": null
         },
         {
           "header": "CJS-3.1 When joint obligations apply",
           "level": 3,
-          "line_start": 28,
-          "line_end": 50,
+          "line_start": 50,
+          "line_end": 72,
           "anchor": null
         },
         {
           "header": "CJS-3.2 No false partial compliance across implementation files",
           "level": 3,
-          "line_start": 51,
-          "line_end": 77,
+          "line_start": 73,
+          "line_end": 99,
           "anchor": null
         },
         {
           "header": "CJS-3.3 Boundary Between Support Roles and Merits Decisions",
           "level": 3,
-          "line_start": 78,
-          "line_end": 106,
+          "line_start": 100,
+          "line_end": 128,
           "anchor": null
         },
         {
           "header": "CJS-3.4 Institution-hosted or forum-adjacent operations",
           "level": 3,
-          "line_start": 107,
-          "line_end": 130,
+          "line_start": 129,
+          "line_end": 152,
           "anchor": null
         },
         {
           "header": "CJS-3.5 Classification alignment for supervised scope",
           "level": 3,
-          "line_start": 131,
-          "line_end": 159,
+          "line_start": 153,
+          "line_end": 181,
           "anchor": null
         },
         {
           "header": "CJS-3.6 Implementation-label traceability and stricter-wins discipline",
           "level": 3,
-          "line_start": 160,
-          "line_end": 182,
+          "line_start": 182,
+          "line_end": 206,
           "anchor": null
         }
       ]
     },
     "corpus_joint_structure/cjs_04_specific_joint_interlocks.md": {
-      "total_lines": 334,
+      "total_lines": 321,
       "sections": [
         {
           "header": "CJS-4: Specific joint interlocks and shared abstractions",
           "level": 2,
           "line_start": 1,
-          "line_end": 334,
+          "line_end": 321,
           "anchor": null
         },
         {
@@ -5144,41 +5151,34 @@
           "header": "CJS-4.2 Implementation boundary (primary owner to CJS seam)",
           "level": 3,
           "line_start": 132,
-          "line_end": 159,
+          "line_end": 161,
           "anchor": null
         },
         {
           "header": "CJS-4.3 Cross-implementation trust integrity (joint operation model)",
           "level": 3,
-          "line_start": 160,
-          "line_end": 201,
+          "line_start": 162,
+          "line_end": 214,
           "anchor": null
         },
         {
-          "header": "CJS-4.4 Definition collision and precedence discipline",
+          "header": "CJS-4.4 Class-scaled lane staffing and competency redundancy",
           "level": 3,
-          "line_start": 202,
-          "line_end": 236,
+          "line_start": 215,
+          "line_end": 259,
           "anchor": null
         },
         {
-          "header": "CJS-4.5 Class-scaled lane staffing and competency redundancy",
+          "header": "CJS-4.5 Shared procedural abstractions for delegated bodies and forum routing",
           "level": 3,
-          "line_start": 237,
-          "line_end": 280,
-          "anchor": null
-        },
-        {
-          "header": "CJS-4.6 Shared procedural abstractions for delegated bodies and forum routing",
-          "level": 3,
-          "line_start": 281,
-          "line_end": 334,
+          "line_start": 260,
+          "line_end": 321,
           "anchor": null
         }
       ]
     },
     "corpus_joint_structure/cjs_05_cross_implementation_operational_terms.md": {
-      "total_lines": 164,
+      "total_lines": 166,
       "sections": [
         {
           "header": "CJS-5: Implementation and cross-implementation operational cluster library",
@@ -5191,20 +5191,20 @@
           "header": "CJS-5.0 Role-definition preface and standing competency gate interface",
           "level": 2,
           "line_start": 27,
-          "line_end": 125,
+          "line_end": 127,
           "anchor": null
         },
         {
           "header": "CJS-5.1 Cluster family index",
           "level": 2,
-          "line_start": 126,
-          "line_end": 164,
+          "line_start": 128,
+          "line_end": 166,
           "anchor": null
         }
       ]
     },
     "corpus_joint_structure/cjs_05a_00_authority_constraint_secrecy_procedure.md": {
-      "total_lines": 582,
+      "total_lines": 594,
       "sections": [
         {
           "header": "Authority, constraint, secrecy, and procedure (CJS-5.2–CJS-5.7)",
@@ -5217,48 +5217,48 @@
           "header": "CJS-5.2 Implementation and cross-implementation distributed and proportional authority terms",
           "level": 2,
           "line_start": 40,
-          "line_end": 135,
+          "line_end": 137,
           "anchor": null
         },
         {
           "header": "CJS-5.3 Implementation and cross-implementation intervention governance and override-authorization terms",
           "level": 2,
-          "line_start": 136,
-          "line_end": 208,
+          "line_start": 138,
+          "line_end": 212,
           "anchor": null
         },
         {
           "header": "CJS-5.4 Implementation and cross-implementation reflexive transparency and accountability terms",
           "level": 2,
-          "line_start": 209,
-          "line_end": 294,
+          "line_start": 213,
+          "line_end": 300,
           "anchor": null
         },
         {
           "header": "CJS-5.5 Implementation and cross-implementation burden-of-justification and constraint terms",
           "level": 2,
-          "line_start": 295,
-          "line_end": 396,
+          "line_start": 301,
+          "line_end": 404,
           "anchor": null
         },
         {
           "header": "CJS-5.6 Implementation and cross-implementation constrained-secrecy and protected-investigation terms",
           "level": 2,
-          "line_start": 397,
-          "line_end": 465,
+          "line_start": 405,
+          "line_end": 475,
           "anchor": null
         },
         {
           "header": "CJS-5.7 Implementation and cross-implementation procedural integrity and adjudication terms",
           "level": 2,
-          "line_start": 466,
-          "line_end": 582,
+          "line_start": 476,
+          "line_end": 594,
           "anchor": null
         }
       ]
     },
     "corpus_joint_structure/cjs_05b_00_evidence_audit_claim_integrity.md": {
-      "total_lines": 364,
+      "total_lines": 372,
       "sections": [
         {
           "header": "Evidence, audit, and claim integrity (CJS-5.8–CJS-5.11)",
@@ -5271,34 +5271,34 @@
           "header": "CJS-5.8 Implementation and cross-implementation integrity assurance and resilience operations",
           "level": 2,
           "line_start": 36,
-          "line_end": 155,
+          "line_end": 157,
           "anchor": null
         },
         {
           "header": "CJS-5.9 Implementation and cross-implementation auditability and reconstructability terms",
           "level": 2,
-          "line_start": 156,
-          "line_end": 216,
+          "line_start": 158,
+          "line_end": 220,
           "anchor": null
         },
         {
           "header": "CJS-5.10 Implementation and cross-implementation tiered transparency and audit-access terms",
           "level": 2,
-          "line_start": 217,
-          "line_end": 289,
+          "line_start": 221,
+          "line_end": 295,
           "anchor": null
         },
         {
           "header": "CJS-5.11 Implementation and cross-implementation independent verification and claim-integrity terms",
           "level": 2,
-          "line_start": 290,
-          "line_end": 364,
+          "line_start": 296,
+          "line_end": 372,
           "anchor": null
         }
       ]
     },
     "corpus_joint_structure/cjs_05c_00_participation_comprehension_disclosure.md": {
-      "total_lines": 375,
+      "total_lines": 383,
       "sections": [
         {
           "header": "Participation, comprehension, and disclosure (CJS-5.12–CJS-5.15)",
@@ -5311,34 +5311,34 @@
           "header": "CJS-5.12 Implementation and cross-implementation quorum and participatory legitimacy terms",
           "level": 2,
           "line_start": 37,
-          "line_end": 136,
+          "line_end": 138,
           "anchor": null
         },
         {
           "header": "CJS-5.13 Implementation and cross-implementation comprehensibility and cognitive accessibility terms",
           "level": 2,
-          "line_start": 137,
-          "line_end": 224,
+          "line_start": 139,
+          "line_end": 228,
           "anchor": null
         },
         {
           "header": "CJS-5.14 Implementation and cross-implementation salience integrity and attention-allocation terms",
           "level": 2,
-          "line_start": 225,
-          "line_end": 310,
+          "line_start": 229,
+          "line_end": 316,
           "anchor": null
         },
         {
           "header": "CJS-5.15 Implementation and cross-implementation disclosure sufficiency and observability terms",
           "level": 2,
-          "line_start": 311,
-          "line_end": 375,
+          "line_start": 317,
+          "line_end": 383,
           "anchor": null
         }
       ]
     },
     "corpus_joint_structure/cjs_05d_00_dependency_exit_lifecycle_integrity.md": {
-      "total_lines": 336,
+      "total_lines": 342,
       "sections": [
         {
           "header": "Dependency, exit, and lifecycle integrity (CJS-5.16–CJS-5.18)",
@@ -5351,27 +5351,27 @@
           "header": "CJS-5.16 Implementation and cross-implementation dependency integrity and disclosure terms",
           "level": 2,
           "line_start": 33,
-          "line_end": 120,
+          "line_end": 122,
           "anchor": null
         },
         {
           "header": "CJS-5.17 Implementation and cross-implementation interoperability, portability, and exit-integrity terms",
           "level": 2,
-          "line_start": 121,
-          "line_end": 238,
+          "line_start": 123,
+          "line_end": 242,
           "anchor": null
         },
         {
           "header": "CJS-5.18 Implementation and cross-implementation data-retention and lifecycle-integrity terms",
           "level": 2,
-          "line_start": 239,
-          "line_end": 336,
+          "line_start": 243,
+          "line_end": 342,
           "anchor": null
         }
       ]
     },
     "corpus_joint_structure/cjs_05e_00_failure_robustness_intervention_correction.md": {
-      "total_lines": 474,
+      "total_lines": 484,
       "sections": [
         {
           "header": "Failure, robustness, intervention, and correction (CJS-5.19–CJS-5.23)",
@@ -5384,35 +5384,35 @@
           "header": "CJS-5.19 Implementation and cross-implementation graceful degradation and failure-mode integrity terms",
           "level": 2,
           "line_start": 38,
-          "line_end": 129,
+          "line_end": 131,
           "anchor": null
         },
         {
           "header": "CJS-5.20 Implementation and cross-implementation intervention and override integrity terms",
           "level": 2,
-          "line_start": 130,
-          "line_end": 219,
+          "line_start": 132,
+          "line_end": 223,
           "anchor": null
         },
         {
           "header": "CJS-5.21 Implementation and cross-implementation reversibility and containment terms",
           "level": 2,
-          "line_start": 220,
-          "line_end": 283,
+          "line_start": 224,
+          "line_end": 289,
           "anchor": null
         },
         {
           "header": "CJS-5.22 Implementation and cross-implementation adversarial robustness and abuse-resistance terms",
           "level": 2,
-          "line_start": 284,
-          "line_end": 390,
+          "line_start": 290,
+          "line_end": 398,
           "anchor": null
         },
         {
           "header": "CJS-5.23 Implementation and cross-implementation structural review, correction urgency, and disclosure terms",
           "level": 2,
-          "line_start": 391,
-          "line_end": 474,
+          "line_start": 399,
+          "line_end": 484,
           "anchor": null
         }
       ]
