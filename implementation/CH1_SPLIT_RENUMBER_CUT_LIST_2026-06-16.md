@@ -272,9 +272,9 @@ Keep existing pre-elevation ids from L632–L657 **plus** all superseded primary
 ```markdown
 **Principle hierarchy (Part B).** At principle layer:
 
-1. **Stewardship** ([Stewardship](core_05-05_definitions_b_semi_independent.md#stewardship-constitutional)) orients systems toward durable constitutional alignment over time, including the **Continuity** aim under the [Two Constitutional Aims](core_01_a_values_principles.md#two-constitutional-aims).
-2. **Governance** ([Governance](core_05-05_definitions_b_semi_independent.md#governance)) structures authorized decision-making, participation, and accountability. Where governance and stewardship conflict, stewardship discipline controls at principle layer unless **Necessity** and **Proportionality** expressly justify a bounded, time-limited exception with correction paths. Operative authorization and contract-layer requirements remain owned by **Chapter Eleven**.
-3. **Shared-System Capacity** ([Shared-System Capacity](core_05-05_definitions_b_semi_independent.md#shared-system-capacity-constitutional)) is the durable, contestable ability those jointly produce — an **instrumental outcome**, not a freestanding trump value.
+1. **Stewardship** ([Stewardship](core_05a_accountability_definitions.md#stewardship-constitutional)) orients systems toward durable constitutional alignment over time, including the **Continuity** aim under the [Two Constitutional Aims](core_01_a_values_principles.md#two-constitutional-aims).
+2. **Governance** ([Governance](core_05a_accountability_definitions.md#governance)) structures authorized decision-making, participation, and accountability. Where governance and stewardship conflict, stewardship discipline controls at principle layer unless **Necessity** and **Proportionality** expressly justify a bounded, time-limited exception with correction paths. Operative authorization and contract-layer requirements remain owned by **Chapter Eleven**.
+3. **Shared-System Capacity** ([Shared-System Capacity](core_05c_continuity_definitions.md#shared-system-capacity-constitutional)) is the durable, contestable ability those jointly produce — an **instrumental outcome**, not a freestanding trump value.
 
 **Reading arc:** §6 stewardship → §7 governance discipline → §8 capacity → §9 tradeoffs → §10 whole-system evaluation → §§11–13 agency, integration, and override limits.
 ```
@@ -298,7 +298,7 @@ Governance is **necessary** but **not sufficient**. It must remain subordinate t
 
 *In plain terms: governance that keeps hitting quarterly targets while hollowing safety, truth, participation, or the future is not "working governance" — it is a defect this Constitution names and corrects.*
 
-A **short-horizon governance defect** ([Short-Horizon Governance Defect](core_05-05_definitions_b_semi_independent.md#short-horizon-governance-defect-constitutional)) is a material pattern that optimizes immediate output, convenience, institutional self-protection, or transient stability at the foreseeable expense of medium- or long-horizon constitutional alignment.
+A **short-horizon governance defect** ([Short-Horizon Governance Defect](core_05a_accountability_definitions.md#short-horizon-governance-defect-constitutional)) is a material pattern that optimizes immediate output, convenience, institutional self-protection, or transient stability at the foreseeable expense of medium- or long-horizon constitutional alignment.
 
 Systems must detect, disclose, and correct such defects through **Review and Correction Duty**, contestable oversight, and the incentive and capture discipline in **§§7.3–7.7**.
 ```

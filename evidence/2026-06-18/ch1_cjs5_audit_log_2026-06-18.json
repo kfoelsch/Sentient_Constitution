@@ -37,12 +37,7 @@
       "line": 129,
       "file": "core_01_a_values_principles.md"
     },
-    "3.1": {
-      "title": "Fairness",
-      "line": 170,
-      "file": "core_01_a_values_principles.md"
-    },
-    "3.2": {
+    "3.16": {
       "title": "Recognition, Reinforcement, and Aspiration",
       "line": 213,
       "file": "core_01_a_values_principles.md"
@@ -411,7 +406,7 @@
       "title": "Library: Constitutional compass and cluster map",
       "file": "corpus_joint_structure/cjs_05_cross_implementation_operational_terms.md",
       "start_line": 132,
-      "end_line": 202,
+      "end_line": 205,
       "read_with": [],
       "direct_ch1_refs": [
         "linked"
@@ -1421,7 +1416,7 @@
       "title": "Accountability: distributed and proportional authority terms",
       "file": "corpus_joint_structure/cjs_05a_accountability_operations.md",
       "start_line": 26,
-      "end_line": 127,
+      "end_line": 129,
       "read_with": [],
       "direct_ch1_refs": [
         "10",
@@ -1447,7 +1442,7 @@
       "op_rules": [
         {
           "label": "distributed and proportional authority terms",
-          "line": 66,
+          "line": 68,
           "has_op_o": true,
           "has_op_e": true,
           "has_op_c": true,
@@ -1455,7 +1450,7 @@
         },
         {
           "label": "Anti-concentration guardrails and trigger mitigation",
-          "line": 73,
+          "line": 75,
           "has_op_o": true,
           "has_op_e": true,
           "has_op_c": true,
@@ -1463,7 +1458,7 @@
         },
         {
           "label": "Authority distribution and anti-monopoly floor",
-          "line": 78,
+          "line": 80,
           "has_op_o": true,
           "has_op_e": true,
           "has_op_c": true,
@@ -1471,7 +1466,7 @@
         },
         {
           "label": "Baseline governance accountability conditions",
-          "line": 83,
+          "line": 85,
           "has_op_o": true,
           "has_op_e": true,
           "has_op_c": true,
@@ -1479,7 +1474,7 @@
         },
         {
           "label": "Classification-scaled governance burden",
-          "line": 88,
+          "line": 90,
           "has_op_o": true,
           "has_op_e": true,
           "has_op_c": true,
@@ -1487,7 +1482,7 @@
         },
         {
           "label": "Constitutional lane and functional separation",
-          "line": 93,
+          "line": 95,
           "has_op_o": true,
           "has_op_e": true,
           "has_op_c": true,
@@ -1495,7 +1490,7 @@
         },
         {
           "label": "Contextual and systemic evaluation discipline",
-          "line": 98,
+          "line": 100,
           "has_op_o": true,
           "has_op_e": true,
           "has_op_c": true,
@@ -1503,7 +1498,7 @@
         },
         {
           "label": "Formation and authorization proportionality floor",
-          "line": 103,
+          "line": 105,
           "has_op_o": true,
           "has_op_e": true,
           "has_op_c": true,
@@ -1511,7 +1506,7 @@
         },
         {
           "label": "Proportional oversight-intensity scaling",
-          "line": 108,
+          "line": 110,
           "has_op_o": true,
           "has_op_e": true,
           "has_op_c": true,
@@ -1519,7 +1514,7 @@
         },
         {
           "label": "Representation and participation legitimacy controls",
-          "line": 113,
+          "line": 115,
           "has_op_o": true,
           "has_op_e": true,
           "has_op_c": true,
@@ -1527,7 +1522,7 @@
         },
         {
           "label": "Stewardship-role depth and non-symbolic governance boundary",
-          "line": 118,
+          "line": 120,
           "has_op_o": true,
           "has_op_e": true,
           "has_op_c": true,
@@ -1542,8 +1537,8 @@
       "cluster_id": "CJS-5.12",
       "title": "Accountability: burden-of-justification and constraint terms",
       "file": "corpus_joint_structure/cjs_05a_accountability_operations.md",
-      "start_line": 128,
-      "end_line": 235,
+      "start_line": 130,
+      "end_line": 239,
       "read_with": [],
       "direct_ch1_refs": [
         "6.1",
@@ -1575,7 +1570,7 @@
       "op_rules": [
         {
           "label": "burden-of-justification and constraint terms",
-          "line": 169,
+          "line": 173,
           "has_op_o": true,
           "has_op_e": true,
           "has_op_c": true,
@@ -1583,7 +1578,7 @@
         },
         {
           "label": "Class-aligned revenue and access-burden floor",
-          "line": 176,
+          "line": 180,
           "has_op_o": true,
           "has_op_e": true,
           "has_op_c": true,
@@ -1591,7 +1586,7 @@
         },
         {
           "label": "Collective-health and emergency support-bundle floor",
-          "line": 181,
+          "line": 185,
           "has_op_o": true,
           "has_op_e": true,
           "has_op_c": true,
@@ -1599,7 +1594,7 @@
         },
         {
           "label": "Disclosure, audit, and challenge sufficiency",
-          "line": 186,
+          "line": 190,
           "has_op_o": true,
           "has_op_e": true,
           "has_op_c": true,
@@ -1607,7 +1602,7 @@
         },
         {
           "label": "Incentive proof, residual misalignment, and scaling",
-          "line": 191,
+          "line": 195,
           "has_op_o": true,
           "has_op_e": true,
           "has_op_c": true,
@@ -1615,7 +1610,7 @@
         },
         {
           "label": "Innovation-exclusivity anti-enclosure application",
-          "line": 196,
+          "line": 200,
           "has_op_o": true,
           "has_op_e": true,
           "has_op_c": true,
@@ -1623,7 +1618,7 @@
         },
         {
           "label": "Mechanism-integrity and incentive-alignment floor",
-          "line": 201,
+          "line": 205,
           "has_op_o": true,
           "has_op_e": true,
           "has_op_c": true,
@@ -1631,7 +1626,7 @@
         },
         {
           "label": "Restriction-burden assignment floor",
-          "line": 206,
+          "line": 210,
           "has_op_o": true,
           "has_op_e": true,
           "has_op_c": true,
@@ -1639,7 +1634,7 @@
         },
         {
           "label": "Rights-collision and alternative-selection record",
-          "line": 211,
+          "line": 215,
           "has_op_o": true,
           "has_op_e": true,
           "has_op_c": true,
@@ -1647,7 +1642,7 @@
         },
         {
           "label": "Substantive showing and least-restrictive proof",
-          "line": 216,
+          "line": 220,
           "has_op_o": true,
           "has_op_e": true,
           "has_op_c": true,
@@ -1655,7 +1650,7 @@
         },
         {
           "label": "Survival-critical access and voluntary-market interface",
-          "line": 221,
+          "line": 225,
           "has_op_o": true,
           "has_op_e": true,
           "has_op_c": true,
@@ -1663,7 +1658,7 @@
         },
         {
           "label": "Temporal discipline and revalidation",
-          "line": 226,
+          "line": 230,
           "has_op_o": true,
           "has_op_e": true,
           "has_op_c": true,
@@ -1678,8 +1673,8 @@
       "cluster_id": "CJS-5.13",
       "title": "Accountability: procedural integrity and adjudication terms",
       "file": "corpus_joint_structure/cjs_05a_accountability_operations.md",
-      "start_line": 236,
-      "end_line": 359,
+      "start_line": 240,
+      "end_line": 365,
       "read_with": [],
       "direct_ch1_refs": [
         "10",
@@ -1711,7 +1706,7 @@
       "op_rules": [
         {
           "label": "procedural integrity and adjudication terms",
-          "line": 282,
+          "line": 288,
           "has_op_o": true,
           "has_op_e": true,
           "has_op_c": true,
@@ -1719,7 +1714,7 @@
         },
         {
           "label": "Backup activation",
-          "line": 289,
+          "line": 295,
           "has_op_o": true,
           "has_op_e": true,
           "has_op_c": true,
@@ -1727,7 +1722,7 @@
         },
         {
           "label": "Burden, proportionality, and enforcement selection",
-          "line": 294,
+          "line": 300,
           "has_op_o": true,
           "has_op_e": true,
           "has_op_c": true,
@@ -1735,7 +1730,7 @@
         },
         {
           "label": "Delegated binding body",
-          "line": 299,
+          "line": 305,
           "has_op_o": true,
           "has_op_e": true,
           "has_op_c": true,
@@ -1743,7 +1738,7 @@
         },
         {
           "label": "Deposition or preserved-testimony session",
-          "line": 304,
+          "line": 310,
           "has_op_o": true,
           "has_op_e": true,
           "has_op_c": true,
@@ -1751,7 +1746,7 @@
         },
         {
           "label": "Due-process requirements",
-          "line": 309,
+          "line": 315,
           "has_op_o": true,
           "has_op_e": true,
           "has_op_c": true,
@@ -1759,7 +1754,7 @@
         },
         {
           "label": "Lawful independent forum",
-          "line": 314,
+          "line": 320,
           "has_op_o": true,
           "has_op_e": true,
           "has_op_c": true,
@@ -1767,14 +1762,6 @@
         },
         {
           "label": "Before representative treatment can proceed, the record must identify that shared practice clearly enough that affected parties can contest **who is covered** (scope), **whether representation is adequate**, and **whether sentient-specific exceptions** are required.",
-          "line": 325,
-          "has_op_o": true,
-          "has_op_e": true,
-          "has_op_c": true,
-          "missing": []
-        },
-        {
-          "label": "Restoration accessibility and remedy realism",
           "line": 331,
           "has_op_o": true,
           "has_op_e": true,
@@ -1782,8 +1769,16 @@
           "missing": []
         },
         {
+          "label": "Restoration accessibility and remedy realism",
+          "line": 337,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        },
+        {
           "label": "Review independence and contestability",
-          "line": 336,
+          "line": 342,
           "has_op_o": true,
           "has_op_e": true,
           "has_op_c": true,
@@ -1791,7 +1786,7 @@
         },
         {
           "label": "Sanction validity and restoration conditions",
-          "line": 341,
+          "line": 347,
           "has_op_o": true,
           "has_op_e": true,
           "has_op_c": true,
@@ -1799,7 +1794,7 @@
         },
         {
           "label": "System-class and joint-read scaling",
-          "line": 346,
+          "line": 352,
           "has_op_o": true,
           "has_op_e": true,
           "has_op_c": true,
@@ -1807,7 +1802,7 @@
         },
         {
           "label": "Uncertainty safeguards and anti-abuse floor",
-          "line": 351,
+          "line": 357,
           "has_op_o": true,
           "has_op_e": true,
           "has_op_c": true,
@@ -1822,8 +1817,8 @@
       "cluster_id": "CJS-5.14",
       "title": "Accountability: intervention governance and override-authorization terms",
       "file": "corpus_joint_structure/cjs_05a_accountability_operations.md",
-      "start_line": 360,
-      "end_line": 440,
+      "start_line": 366,
+      "end_line": 446,
       "read_with": [],
       "direct_ch1_refs": [
         "3.1",
@@ -1847,7 +1842,7 @@
       "op_rules": [
         {
           "label": "intervention governance and override-authorization terms",
-          "line": 399,
+          "line": 405,
           "has_op_o": true,
           "has_op_e": true,
           "has_op_c": true,
@@ -1855,7 +1850,7 @@
         },
         {
           "label": "Authorization and role-scope discipline",
-          "line": 406,
+          "line": 412,
           "has_op_o": true,
           "has_op_e": true,
           "has_op_c": true,
@@ -1863,7 +1858,7 @@
         },
         {
           "label": "Emergency governance limits and anti-normalization control",
-          "line": 411,
+          "line": 417,
           "has_op_o": true,
           "has_op_e": true,
           "has_op_c": true,
@@ -1871,7 +1866,7 @@
         },
         {
           "label": "Governance quorum and emergency-sequencing requirements",
-          "line": 416,
+          "line": 422,
           "has_op_o": true,
           "has_op_e": true,
           "has_op_c": true,
@@ -1879,7 +1874,7 @@
         },
         {
           "label": "Joint necessity and technical-governance coupling floor",
-          "line": 421,
+          "line": 427,
           "has_op_o": true,
           "has_op_e": true,
           "has_op_c": true,
@@ -1887,7 +1882,7 @@
         },
         {
           "label": "Proportional procedural scaling",
-          "line": 426,
+          "line": 432,
           "has_op_o": true,
           "has_op_e": true,
           "has_op_c": true,
@@ -1895,7 +1890,7 @@
         },
         {
           "label": "Records, transparency, and challenge pathway duties",
-          "line": 431,
+          "line": 437,
           "has_op_o": true,
           "has_op_e": true,
           "has_op_c": true,
@@ -1910,8 +1905,8 @@
       "cluster_id": "CJS-5.15",
       "title": "Accountability: structural review, correction urgency, and disclosure terms",
       "file": "corpus_joint_structure/cjs_05a_accountability_operations.md",
-      "start_line": 441,
-      "end_line": 519,
+      "start_line": 447,
+      "end_line": 525,
       "read_with": [],
       "direct_ch1_refs": [
         "3.1",
@@ -1938,7 +1933,7 @@
       "op_rules": [
         {
           "label": "structural review, correction urgency, and disclosure terms",
-          "line": 480,
+          "line": 486,
           "has_op_o": true,
           "has_op_e": true,
           "has_op_c": true,
@@ -1946,7 +1941,7 @@
         },
         {
           "label": "Correction Urgency Level (CUL) discipline",
-          "line": 485,
+          "line": 491,
           "has_op_o": true,
           "has_op_e": true,
           "has_op_c": true,
@@ -1954,7 +1949,7 @@
         },
         {
           "label": "Feedback integration and effectiveness verification",
-          "line": 490,
+          "line": 496,
           "has_op_o": true,
           "has_op_e": true,
           "has_op_c": true,
@@ -1962,7 +1957,7 @@
         },
         {
           "label": "Realignment resistance and dissolution-review trigger floor",
-          "line": 495,
+          "line": 501,
           "has_op_o": true,
           "has_op_e": true,
           "has_op_c": true,
@@ -1970,7 +1965,7 @@
         },
         {
           "label": "Stakeholder scope and targeted transparency",
-          "line": 500,
+          "line": 506,
           "has_op_o": true,
           "has_op_e": true,
           "has_op_c": true,
@@ -1978,7 +1973,7 @@
         },
         {
           "label": "Structural records, risk-relevant data, and disclosure timing",
-          "line": 505,
+          "line": 511,
           "has_op_o": true,
           "has_op_e": true,
           "has_op_c": true,
@@ -1986,7 +1981,7 @@
         },
         {
           "label": "Systemic-pattern detection and escalation",
-          "line": 510,
+          "line": 516,
           "has_op_o": true,
           "has_op_e": true,
           "has_op_c": true,

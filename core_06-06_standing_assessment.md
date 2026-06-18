@@ -82,9 +82,9 @@ This file is **part of the Sentient Constitution** and is **binding only togethe
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
 
-- [Materiality Determination](core_05-05_definitions_b_semi_independent.md#materiality-determination) · [O](core_05-05_definitions_b_semi_independent.md#materiality-determination) · [E](core_05-05_definitions_b_semi_independent.md#materiality-determination-e) · [C](core_05-05_definitions_b_semi_independent.md#materiality-determination-c)
-- [Harm](core_05-05_definitions_c_dependent_clusters.md#harm) · [O](core_05-05_definitions_c_dependent_clusters.md#harm) · [E](core_05-05_definitions_c_dependent_clusters.md#harm-e) · [C](core_05-05_definitions_c_dependent_clusters.md#harm-c)
-- [Proportionality](core_05-05_definitions_a_independent.md#proportionality) · [O](core_05-05_definitions_a_independent.md#proportionality) · [E](core_05-05_definitions_a_independent.md#proportionality-e) · [C](core_05-05_definitions_a_independent.md#proportionality-c)
+- [Materiality Determination](core_05o_oversight_definitions.md#materiality-determination) · [O](core_05o_oversight_definitions.md#materiality-determination) · [E](core_05o_oversight_definitions.md#materiality-determination-e) · [C](core_05o_oversight_definitions.md#materiality-determination-c)
+- [Harm](core_05a_accountability_definitions.md#harm) · [O](core_05a_accountability_definitions.md#harm) · [E](core_05a_accountability_definitions.md#harm-e) · [C](core_05a_accountability_definitions.md#harm-c)
+- [Proportionality](core_05a_accountability_definitions.md#proportionality) · [O](core_05a_accountability_definitions.md#proportionality) · [E](core_05a_accountability_definitions.md#proportionality-e) · [C](core_05a_accountability_definitions.md#proportionality-c)
 
 </details>
 
@@ -236,7 +236,7 @@ The following must remain visible enough for future changes to be checked rather
 
 <a id="verified-inputs-for-standing"></a>
 
-#### 3.1 Verified-input gate
+#### 3.16 Verified-input gate
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
@@ -264,7 +264,7 @@ The following must remain visible enough for future changes to be checked rather
 <a id="221-dispute-phase-material-forums-and-challenge-protections"></a>
 <a id="32-dispute-phase-material-forums-and-challenge-protections"></a>
 
-#### 3.2 Dispute-phase material, forums, and challenge protections
+#### 3.16 Dispute-phase material, forums, and challenge protections
 
 Alleged misconduct, unadjudicated claims, provisional routing tags, intake-only narratives, and other dispute-phase material do not supply violation nature for standing purposes by themselves.
 
@@ -278,7 +278,7 @@ Forums under [Chapter Nine](core_09-09_forum.md#chapter-nine-forums-and-jurisdic
 
 #### 3.3 Coexistence and no-offset bridge
 
-*In plain terms: Once Section 3.1 decides what may count, this section explains how verified contribution records and verified violation findings sit together in standing records. Good deeds and bad deeds stay separately traceable. They can coexist, but they do not cancel, average, or relabel each other.*
+*In plain terms: Once Section 3.16 decides what may count, this section explains how verified contribution records and verified violation findings sit together in standing records. Good deeds and bad deeds stay separately traceable. They can coexist, but they do not cancel, average, or relabel each other.*
 
 **The core rule:** verified contribution records and verified violation findings are recorded separately in the relevant **standing record** or standing records. A verified violation may limit standing, restrict role eligibility, or affect remedy access under Chapter Seven, but it must not wipe away verified positive contribution. Verified contribution may support recognition where current and applicable, but it must not offset, average down, excuse, or relabel a verified violation finding.
 
@@ -448,7 +448,7 @@ Positive contribution may coexist with **violation nature** under **section 4.3*
 
 **Violation Axis note for Table 2.** The Violation Axis remains a severity ladder under **section 4.3** and Chapter Eight. Chapter Seven section 4.3 later states the standing-integration consequences of verified Violation Axis slots, including what contribution-linked trust, role, credit, or recognition benefit is blocked or limited while a verified violation finding remains unresolved.
 
-Table 2 treats **Champion contribution** as the top Contribution Axis band. **Champion contribution** occupies the top display range, `s` = 7 through 9, with **recognized**, **distinguished**, and **exemplary** as its slot displays. The Violation Axis works differently at the top end. Chapter Eight supplies the final rules that distinguish the top three Violation Axis slots: `s` = 7, `s` = 8, and `s` = 9. Standing consequences are stated in **Chapter Seven section 1**. Standing integration mechanics are stated in **Chapter Seven section 4**. **Chapter Seven section 2.1** gives the reader-facing domain cross-walk, **Chapter Seven section 2.2** gives the operative Contribution Axis supplement rules, and **Chapter Seven section 2.3** points to the violation-side counterpart in **Chapter Seven section 3.9**.
+Table 2 treats **Champion contribution** as the top Contribution Axis band. **Champion contribution** occupies the top display range, `s` = 7 through 9, with **recognized**, **distinguished**, and **exemplary** as its slot displays. The Violation Axis works differently at the top end. Chapter Eight supplies the final rules that distinguish the top three Violation Axis slots: `s` = 7, `s` = 8, and `s` = 9. Standing consequences are stated in **Chapter Seven section 1**. Standing integration mechanics are stated in **Chapter Seven section 4**. **Chapter Seven section 2.1** gives the reader-facing domain cross-walk, **Chapter Seven section 2.2** gives the operative Contribution Axis supplement rules, and **Chapter Seven section 2.3** points to the violation-side counterpart in **Chapter Seven section 3.16**.
 
 <a id="22-lequ-baseline"></a>
 <a id="2-lequ-baseline"></a>
@@ -515,18 +515,18 @@ Adopted implementation may publish calibrated units, evidentiary methods, and ex
 
 - Upstream: [§2](#2-standing-records) (*standing records*); [§3](#3-verified-inputs-forums-and-no-offset-rules) (*verified-input rule*); [§4.0](#30-slot-grammar-and-display-labels) (*slot grammar and display labels*); [§4.1](#3-axis-i-contribution-state-and-standing-effect) (*primary category defaults, LEQU slot baseline, and contribution state on the **Contribution Axis***); [Chapter Seven §3.9](core_07-07_standing_integration.md#73-stackable-harm-and-conduct-descriptors-violation-nature-supplement) (*Violation Axis supplements*).
 - Downstream: [Chapter Seven §3](core_07-07_standing_integration.md#6-extended-axis-ii-legal-hybrid-duty-and-harm-descriptors) (*process / response character, hybrid, and duty material*); [Chapter Seven §4](core_07-07_standing_integration.md#8-cross-axis-coupling-and-escalation-constraints) (*standing integration and no-netting mechanics*); [Chapter Eight](core_08-08_misconduct.md#chapter-eight-anti-constitutional-misconduct) (*final Violation Axis **s = 7, 8, or 9** anti-constitutional misconduct assignment*).
-- Read with: [Supremacy and Enforceability](core_05-05_definitions_c_dependent_clusters.md#supremacy-and-enforceability), [Constitutional Constraint Violation](core_05-05_definitions_c_dependent_clusters.md#constitutional-constraint-violation), [Harm](core_05-05_definitions_c_dependent_clusters.md#harm), and [Materiality Determination](core_05-05_definitions_b_semi_independent.md#materiality-determination).
+- Read with: [Supremacy and Enforceability](core_05i_integrative_definitions.md#supremacy-and-enforceability), [Constitutional Constraint Violation](core_05i_integrative_definitions.md#constitutional-constraint-violation), [Harm](core_05a_accountability_definitions.md#harm), and [Materiality Determination](core_05o_oversight_definitions.md#materiality-determination).
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
 
-- [Harm](core_05-05_definitions_c_dependent_clusters.md#harm) · [O](core_05-05_definitions_c_dependent_clusters.md#harm) · [E](core_05-05_definitions_c_dependent_clusters.md#harm-e) · [C](core_05-05_definitions_c_dependent_clusters.md#harm-c)
-- [Materiality Determination](core_05-05_definitions_b_semi_independent.md#materiality-determination) · [O](core_05-05_definitions_b_semi_independent.md#materiality-determination) · [E](core_05-05_definitions_b_semi_independent.md#materiality-determination-e) · [C](core_05-05_definitions_b_semi_independent.md#materiality-determination-c)
-- [Constitutional Constraint Violation](core_05-05_definitions_c_dependent_clusters.md#constitutional-constraint-violation) · [O](core_05-05_definitions_c_dependent_clusters.md#constitutional-constraint-violation) · [E](core_05-05_definitions_c_dependent_clusters.md#constitutional-constraint-violation-e) · [C](core_05-05_definitions_c_dependent_clusters.md#constitutional-constraint-violation-c)
-- [Coercion and Manipulation](core_05-05_definitions_b_semi_independent.md#coercion-and-manipulation-constitutional) · [O](core_05-05_definitions_b_semi_independent.md#coercion-and-manipulation-constitutional) · [E](core_05-05_definitions_b_semi_independent.md#coercion-and-manipulation-constitutional-e) · [C](core_05-05_definitions_b_semi_independent.md#coercion-and-manipulation-constitutional-c)
-- [Foreseeability Diligence](core_05-05_definitions_c_dependent_clusters.md#foreseeability-diligence) · [O](core_05-05_definitions_c_dependent_clusters.md#foreseeability-diligence) · [E](core_05-05_definitions_c_dependent_clusters.md#foreseeability-diligence-e) · [C](core_05-05_definitions_c_dependent_clusters.md#foreseeability-diligence-c)
+- [Harm](core_05a_accountability_definitions.md#harm) · [O](core_05a_accountability_definitions.md#harm) · [E](core_05a_accountability_definitions.md#harm-e) · [C](core_05a_accountability_definitions.md#harm-c)
+- [Materiality Determination](core_05o_oversight_definitions.md#materiality-determination) · [O](core_05o_oversight_definitions.md#materiality-determination) · [E](core_05o_oversight_definitions.md#materiality-determination-e) · [C](core_05o_oversight_definitions.md#materiality-determination-c)
+- [Constitutional Constraint Violation](core_05i_integrative_definitions.md#constitutional-constraint-violation) · [O](core_05i_integrative_definitions.md#constitutional-constraint-violation) · [E](core_05i_integrative_definitions.md#constitutional-constraint-violation-e) · [C](core_05i_integrative_definitions.md#constitutional-constraint-violation-c)
+- [Coercion and Manipulation](core_05p_participation_definitions.md#coercion-and-manipulation-constitutional) · [O](core_05p_participation_definitions.md#coercion-and-manipulation-constitutional) · [E](core_05p_participation_definitions.md#coercion-and-manipulation-constitutional-e) · [C](core_05p_participation_definitions.md#coercion-and-manipulation-constitutional-c)
+- [Foreseeability Diligence](core_05o_oversight_definitions.md#foreseeability-diligence) · [O](core_05o_oversight_definitions.md#foreseeability-diligence) · [E](core_05o_oversight_definitions.md#foreseeability-diligence-e) · [C](core_05o_oversight_definitions.md#foreseeability-diligence-c)
 
 </details>
 
@@ -570,7 +570,7 @@ The claimed violation severity counts only to the extent it rests on verified vi
 | 3 | <a id="43-constitutional-substantive-non-compliance"></a>**Significant Substantive Non-Compliance** | Material violation of constitutional constraints, Rights Floors, supremacy and enforceability, anti-evasion requirements, or challenge-and-remedy access, before aggravated, coercive or safeguard-process, critical, or final Chapter Eight top-slot criteria are met. |
 |    4 | <a id="44-duty-based-or-negligent-harm-violation"></a>**Duty-Based or Negligent-Harm Violation** | Duty, foreseeability, and feasible capacity to prevent, mitigate, supervise, or escalate material harm existed, but preventable harm, risk, inadequate operational care, inadequate supervision, delayed escalation, or neglect is verified. This level may co-occur with other severity levels where their criteria also fit. |
 |    5 | <a id="45-aggravated-violation"></a><a id="43-aggravated-violation"></a>**Aggravated Violation** | Formal, remedial substantive, significant substantive, or duty-based violation with worsening features such as evasion, concealment, strategic obstruction of audit, dishonest forum disclosure omission, intentional recusal-process failure, repetition after notice, reckless disregard, exploitative incentive design, structural enablement, or material dependency-asymmetry abuse. |
-|    6 | <a id="46-coercive-or-safeguard-process-violation"></a>**Coercive or Safeguard-Process Violation** | Culpability, coercion, manipulation, violence, credible threat, liberty-threatening response, or comparable social danger serious enough to require criminal-process or equivalent constitutional protections where coercive or liberty-restricting response is in play. This severity may carry **Chapter Seven section 3.2** coercive or liberty-restricting safeguard character, but severity and process / response character remain separately traceable. |
+|    6 | <a id="46-coercive-or-safeguard-process-violation"></a>**Coercive or Safeguard-Process Violation** | Culpability, coercion, manipulation, violence, credible threat, liberty-threatening response, or comparable social danger serious enough to require criminal-process or equivalent constitutional protections where coercive or liberty-restricting response is in play. This severity may carry **Chapter Seven section 3.16** coercive or liberty-restricting safeguard character, but severity and process / response character remain separately traceable. |
 | 7 | <a id="47-critical-non-compliance"></a><a id="44-critical-non-compliance"></a>**Serious anti-constitutional misconduct** where Chapter Eight so assigns / **Critical Non-Compliance** | **At least one LEQU destroyed** or comparable critical harm: catastrophic, existential, irreversible, Rights-Floor-defeating, constitution-undermining, large-scale systemic, severe persistent trauma with durable agency impairment, or material violation of non-negotiable floors including Safety, Truth, and dignity-equality protections. Immediate containment and heightened oversight apply. |
 | 8 | **Grave anti-constitutional misconduct** | **Multiple LEQUs lost**, structural or cross-institutional constitutional damage, or a final Chapter Eight finding establishing **s = 8** grave anti-constitutional misconduct. |
 | 9 | **Pernicious anti-constitutional misconduct** | **Worst-case systemic harm**: rare, intentional, systemic, intergenerational, civilizational, constitution-subverting harm at the widest material scope, or a final Chapter Eight finding establishing **s = 9** pernicious anti-constitutional misconduct. |
@@ -585,7 +585,7 @@ This table is the operative Violation Axis severity ladder for Chapter Six. It s
 
 **Boundary with Contribution Axis.** **Violation nature** may co-occur with **positive-only** **contribution state** under **section 4.1**. Adverse **violation** findings are not "negative contribution," and positive contribution does not offset adverse findings.
 
-**Supplements.** **Chapter Seven section 2.1** gives the reader-facing domain cross-walk. **Chapter Seven section 3.9** gives the operative Violation Axis supplement rules. Read those supplements with this severity ladder and the legal, hybrid, and duty rules in **Chapter Seven §§3.1–3.8**.
+**Supplements.** **Chapter Seven section 2.1** gives the reader-facing domain cross-walk. **Chapter Seven section 3.16** gives the operative Violation Axis supplement rules. Read those supplements with this severity ladder and the legal, hybrid, and duty rules in **Chapter Seven §§3.1–3.8**.
 
 **Violation-specific LEQU limits.** Apply the shared LEQU limits in **section 4.2** to all violation-side calibration. Allegations, intake tags, routing decisions, reputation, disfavored status, or moral dislike do not supply **Violation Axis** severity unless they produce verified, auditable, and contestable findings under this section. Adopted implementation may publish calibrated units, evidentiary methods, and examples for full-life-equivalent loss only as subordinate support for this section, **Table 2**, **Chapter Seven section 4**, **Chapter One**, **Chapter Eight** where final **Violation Axis s = 7, 8, or 9** anti-constitutional misconduct assignment is at issue, and the **Chapter Ten** Rights Floor.
 

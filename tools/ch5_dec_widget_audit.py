@@ -33,7 +33,7 @@ audits. It enforces two invariants:
    the four Chapter Nine parts), every line inside a D/E/C widget that appears
    to be a widget row must match the canonical shape:
 
-       - [Name](core_05-05_definitions_a_independent.md#slug) · [O](...) · [E](...) · [C](...)
+       - [Name](core_05a_accountability_definitions.md#slug) · [O](...) · [E](...) · [C](...)
 
    and every anchor in that row must resolve to a live Chapter Five anchor.
    The single-concept inline form is also recognized:
@@ -65,7 +65,7 @@ _TOOLS = Path(__file__).resolve().parent
 if str(_TOOLS) not in sys.path:
     sys.path.insert(0, str(_TOOLS))
 
-from ch5_paths import CH5_ALL, CH5_PART_A, CH5_PART_B, CH5_PART_C
+from ch5_paths import CH5_ALL, CH5_INDEX as CH5_PART_A, CH5_BANDS
 
 CH5_FILENAME = CH5_PART_A
 
@@ -155,7 +155,7 @@ DETAILS_CLOSE_RE = re.compile(r"^\s*</details>\s*$")
 # middle-dot with single spaces. Each href must point into Chapter Five.
 #
 # Example:
-#   - [Wellbeing](core_05-05_definitions_a_independent.md#wellbeing) · [O](core_05-05_definitions_a_independent.md#wellbeing) · [E](core_05-05_definitions_a_independent.md#wellbeing-e) · [C](core_05-05_definitions_a_independent.md#wellbeing-c)
+#   - [Wellbeing](core_05c_continuity_definitions.md#wellbeing) · [O](core_05c_continuity_definitions.md#wellbeing) · [E](core_05c_continuity_definitions.md#wellbeing-e) · [C](core_05c_continuity_definitions.md#wellbeing-c)
 ROW_RE = re.compile(
     r"^\s*-\s+"
     r"\[(?P<name>[^\]]+)\]\((?P<link>[^)]+)\)"
@@ -245,18 +245,12 @@ def directory_slugs_from_part_a(root: Path) -> set[str]:
                 out.add(m.group(1))
                 continue
             m = re.match(
-                r"^-\s\[[^\]]+\]\(" + re.escape(CH5_PART_B) + r"#([^)]+)\)\s*$",
+                r"^-\s\[[^\]]+\]\((?:\.\./)*(core_05(?:-05_definitions_a_independent|[opaci]_[a-z_]+)\.md)#([^)]+)\)\s*$",
                 s,
             )
             if m:
-                out.add(m.group(1))
+                out.add(m.group(2))
                 continue
-            m = re.match(
-                r"^-\s\[[^\]]+\]\(" + re.escape(CH5_PART_C) + r"#([^)]+)\)\s*$",
-                s,
-            )
-            if m:
-                out.add(m.group(1))
 
     if unified_heading in part_a:
         _, rest = part_a.split(unified_heading, 1)

@@ -39,22 +39,22 @@ This family operationalizes the **Accountability** leg of the [Constitutional Tr
 - Read with: **CJS-5.15** (*Accountability: structural review, correction urgency, and disclosure terms*) and **CJS-5.6** (*Oversight: integrity assurance and resilience operations*) — Evolution, Revalidation, and Non-Entrenchment
 - Read with: **CJS-5.13 — Procedural Integrity and Adjudication**
 - Read with: `corpus_systems.md` **CS-5 — Critical system stewardship**
-- Constitutional frame: **Accountability** leg; **Flourishing** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality Determination](../core_05-05_definitions_b_semi_independent.md#materiality-determination).
-- Finding profile (default): `A·F·SSP` — [Non-Compliance Finding Profile](../core_05-05_definitions_b_semi_independent.md#non-compliance-finding-profile); use **CCL** layer and **structural** or **stewardship** **failure character** when undocumented authority, capture, or concentration is material; add **severity tier** **T1**–**T4** per finding ([Chapter Three, section 2.8](../core_02-04_definition_mechanics.md#28-non-compliance-finding-profiles)).
+- Constitutional frame: **Accountability** leg; **Flourishing** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality Determination](../core_05o_oversight_definitions.md#materiality-determination).
+- Finding profile (default): `A·F·SSP` — [Non-Compliance Finding Profile](../core_05a_accountability_definitions.md#non-compliance-finding-profile); use **CCL** layer and **structural** or **stewardship** **failure character** when undocumented authority, capture, or concentration is material; add **severity tier** **T1**–**T4** per finding ([Chapter Three, section 2.8](../core_02-04_definition_mechanics.md#28-non-compliance-finding-profiles)).
 - Chapter One basis: §2.1, §4, §5.2, §7.2, §10 (see [CJS-5.1](#cjs-51-constitutional-compass-and-cluster-map) map).
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
 
-- [Non-Compliance Finding Profile](../core_05-05_definitions_b_semi_independent.md#non-compliance-finding-profile) · [O](../core_05-05_definitions_b_semi_independent.md#non-compliance-finding-profile) · [E](../core_05-05_definitions_b_semi_independent.md#non-compliance-finding-profile-e) · [C](../core_05-05_definitions_b_semi_independent.md#non-compliance-finding-profile-c)
-- [Accountability](../core_05-05_definitions_b_semi_independent.md#accountability) · [O](../core_05-05_definitions_b_semi_independent.md#accountability) · [E](../core_05-05_definitions_b_semi_independent.md#accountability-e) · [C](../core_05-05_definitions_b_semi_independent.md#accountability-c)
-- [Auditability](../core_05-05_definitions_c_dependent_clusters.md#auditability) · [O](../core_05-05_definitions_c_dependent_clusters.md#auditability) · [E](../core_05-05_definitions_c_dependent_clusters.md#auditability-e) · [C](../core_05-05_definitions_c_dependent_clusters.md#auditability-c)
-- [Transparency](../core_05-05_definitions_c_dependent_clusters.md#transparency) · [O](../core_05-05_definitions_c_dependent_clusters.md#transparency) · [E](../core_05-05_definitions_c_dependent_clusters.md#transparency-e) · [C](../core_05-05_definitions_c_dependent_clusters.md#transparency-c)
-- [Dependency](../core_05-05_definitions_a_independent.md#dependency) · [O](../core_05-05_definitions_a_independent.md#dependency) · [E](../core_05-05_definitions_a_independent.md#dependency-e) · [C](../core_05-05_definitions_a_independent.md#dependency-c)
-- [Governance](../core_05-05_definitions_b_semi_independent.md#governance) · [O](../core_05-05_definitions_b_semi_independent.md#governance) · [E](../core_05-05_definitions_b_semi_independent.md#governance-e) · [C](../core_05-05_definitions_b_semi_independent.md#governance-c)
-- [Oversight](../core_05-05_definitions_a_independent.md#oversight-constitutional) · [O](../core_05-05_definitions_a_independent.md#oversight-constitutional) · [E](../core_05-05_definitions_a_independent.md#oversight-constitutional-e) · [C](../core_05-05_definitions_a_independent.md#oversight-constitutional-c)
-- [Material](../core_05-05_definitions_b_semi_independent.md#material) · [O](../core_05-05_definitions_b_semi_independent.md#material) · [E](../core_05-05_definitions_b_semi_independent.md#material-e) · [C](../core_05-05_definitions_b_semi_independent.md#material-c)
+- [Non-Compliance Finding Profile](../core_05a_accountability_definitions.md#non-compliance-finding-profile) · [O](../core_05a_accountability_definitions.md#non-compliance-finding-profile) · [E](../core_05a_accountability_definitions.md#non-compliance-finding-profile-e) · [C](../core_05a_accountability_definitions.md#non-compliance-finding-profile-c)
+- [Accountability](../core_05a_accountability_definitions.md#accountability) · [O](../core_05a_accountability_definitions.md#accountability) · [E](../core_05a_accountability_definitions.md#accountability-e) · [C](../core_05a_accountability_definitions.md#accountability-c)
+- [Auditability](../core_05o_oversight_definitions.md#auditability) · [O](../core_05o_oversight_definitions.md#auditability) · [E](../core_05o_oversight_definitions.md#auditability-e) · [C](../core_05o_oversight_definitions.md#auditability-c)
+- [Transparency](../core_05o_oversight_definitions.md#transparency) · [O](../core_05o_oversight_definitions.md#transparency) · [E](../core_05o_oversight_definitions.md#transparency-e) · [C](../core_05o_oversight_definitions.md#transparency-c)
+- [Dependency](../core_05c_continuity_definitions.md#dependency) · [O](../core_05c_continuity_definitions.md#dependency) · [E](../core_05c_continuity_definitions.md#dependency-e) · [C](../core_05c_continuity_definitions.md#dependency-c)
+- [Governance](../core_05a_accountability_definitions.md#governance) · [O](../core_05a_accountability_definitions.md#governance) · [E](../core_05a_accountability_definitions.md#governance-e) · [C](../core_05a_accountability_definitions.md#governance-c)
+- [Oversight](../core_05o_oversight_definitions.md#oversight-constitutional) · [O](../core_05o_oversight_definitions.md#oversight-constitutional) · [E](../core_05o_oversight_definitions.md#oversight-constitutional-e) · [C](../core_05o_oversight_definitions.md#oversight-constitutional-c)
+- [Material](../core_05o_oversight_definitions.md#material) · [O](../core_05o_oversight_definitions.md#material) · [E](../core_05o_oversight_definitions.md#material-e) · [C](../core_05o_oversight_definitions.md#material-c)
 - Chapter One basis: §2.1, §4, §5.2, §7.2, §10 (see [CJS-5.1](#cjs-51-constitutional-compass-and-cluster-map) map).
 </details>
 
@@ -144,22 +144,22 @@ Stewardship-role depth and non-symbolic governance boundary
 - Read with: **Chapter One §6.4.1 — Rights-Collision Decision Test**
 - Read with: **`corpus_forum.md` CF-12 through CF-14 — Forum continuity, fallback operation, and emergency adjudication**
 - Read with: Core definitions for necessity, proportionality, materiality, burden, and anti-enclosure.
-- Constitutional frame: **Accountability** leg; **Flourishing** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality Determination](../core_05-05_definitions_b_semi_independent.md#materiality-determination).
-- Finding profile (default): `A·F·SSP` — [Non-Compliance Finding Profile](../core_05-05_definitions_b_semi_independent.md#non-compliance-finding-profile); use **substantive** or **evasive** **failure character** when restrictions persist without revalidation; add **severity tier** **T1**–**T4** per finding ([Chapter Three, section 2.8](../core_02-04_definition_mechanics.md#28-non-compliance-finding-profiles)).
+- Constitutional frame: **Accountability** leg; **Flourishing** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality Determination](../core_05o_oversight_definitions.md#materiality-determination).
+- Finding profile (default): `A·F·SSP` — [Non-Compliance Finding Profile](../core_05a_accountability_definitions.md#non-compliance-finding-profile); use **substantive** or **evasive** **failure character** when restrictions persist without revalidation; add **severity tier** **T1**–**T4** per finding ([Chapter Three, section 2.8](../core_02-04_definition_mechanics.md#28-non-compliance-finding-profiles)).
 - Chapter One basis: §6.1, §6.3, §6.4, §7.1, §8, §9 (see [CJS-5.1](#cjs-51-constitutional-compass-and-cluster-map) map).
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
 
-- [Non-Compliance Finding Profile](../core_05-05_definitions_b_semi_independent.md#non-compliance-finding-profile) · [O](../core_05-05_definitions_b_semi_independent.md#non-compliance-finding-profile) · [E](../core_05-05_definitions_b_semi_independent.md#non-compliance-finding-profile-e) · [C](../core_05-05_definitions_b_semi_independent.md#non-compliance-finding-profile-c)
-- [Proportionality](../core_05-05_definitions_a_independent.md#proportionality) · [O](../core_05-05_definitions_a_independent.md#proportionality) · [E](../core_05-05_definitions_a_independent.md#proportionality-e) · [C](../core_05-05_definitions_a_independent.md#proportionality-c)
-- [Auditability](../core_05-05_definitions_c_dependent_clusters.md#auditability) · [O](../core_05-05_definitions_c_dependent_clusters.md#auditability) · [E](../core_05-05_definitions_c_dependent_clusters.md#auditability-e) · [C](../core_05-05_definitions_c_dependent_clusters.md#auditability-c)
-- [Transparency](../core_05-05_definitions_c_dependent_clusters.md#transparency) · [O](../core_05-05_definitions_c_dependent_clusters.md#transparency) · [E](../core_05-05_definitions_c_dependent_clusters.md#transparency-e) · [C](../core_05-05_definitions_c_dependent_clusters.md#transparency-c)
-- [Dependency](../core_05-05_definitions_a_independent.md#dependency) · [O](../core_05-05_definitions_a_independent.md#dependency) · [E](../core_05-05_definitions_a_independent.md#dependency-e) · [C](../core_05-05_definitions_a_independent.md#dependency-c)
-- [Governance](../core_05-05_definitions_b_semi_independent.md#governance) · [O](../core_05-05_definitions_b_semi_independent.md#governance) · [E](../core_05-05_definitions_b_semi_independent.md#governance-e) · [C](../core_05-05_definitions_b_semi_independent.md#governance-c)
-- [Necessity](../core_05-05_definitions_a_independent.md#necessity) · [O](../core_05-05_definitions_a_independent.md#necessity) · [E](../core_05-05_definitions_a_independent.md#necessity-e) · [C](../core_05-05_definitions_a_independent.md#necessity-c)
-- [Material](../core_05-05_definitions_b_semi_independent.md#material) · [O](../core_05-05_definitions_b_semi_independent.md#material) · [E](../core_05-05_definitions_b_semi_independent.md#material-e) · [C](../core_05-05_definitions_b_semi_independent.md#material-c)
+- [Non-Compliance Finding Profile](../core_05a_accountability_definitions.md#non-compliance-finding-profile) · [O](../core_05a_accountability_definitions.md#non-compliance-finding-profile) · [E](../core_05a_accountability_definitions.md#non-compliance-finding-profile-e) · [C](../core_05a_accountability_definitions.md#non-compliance-finding-profile-c)
+- [Proportionality](../core_05a_accountability_definitions.md#proportionality) · [O](../core_05a_accountability_definitions.md#proportionality) · [E](../core_05a_accountability_definitions.md#proportionality-e) · [C](../core_05a_accountability_definitions.md#proportionality-c)
+- [Auditability](../core_05o_oversight_definitions.md#auditability) · [O](../core_05o_oversight_definitions.md#auditability) · [E](../core_05o_oversight_definitions.md#auditability-e) · [C](../core_05o_oversight_definitions.md#auditability-c)
+- [Transparency](../core_05o_oversight_definitions.md#transparency) · [O](../core_05o_oversight_definitions.md#transparency) · [E](../core_05o_oversight_definitions.md#transparency-e) · [C](../core_05o_oversight_definitions.md#transparency-c)
+- [Dependency](../core_05c_continuity_definitions.md#dependency) · [O](../core_05c_continuity_definitions.md#dependency) · [E](../core_05c_continuity_definitions.md#dependency-e) · [C](../core_05c_continuity_definitions.md#dependency-c)
+- [Governance](../core_05a_accountability_definitions.md#governance) · [O](../core_05a_accountability_definitions.md#governance) · [E](../core_05a_accountability_definitions.md#governance-e) · [C](../core_05a_accountability_definitions.md#governance-c)
+- [Necessity](../core_05a_accountability_definitions.md#necessity) · [O](../core_05a_accountability_definitions.md#necessity) · [E](../core_05a_accountability_definitions.md#necessity-e) · [C](../core_05a_accountability_definitions.md#necessity-c)
+- [Material](../core_05o_oversight_definitions.md#material) · [O](../core_05o_oversight_definitions.md#material) · [E](../core_05o_oversight_definitions.md#material-e) · [C](../core_05o_oversight_definitions.md#material-c)
 
 </details>
 
@@ -259,22 +259,22 @@ Temporal discipline and revalidation
 - Read with: `corpus_systems.md` **CS-3 — Information types and handling** and **CS-4 — System classification and handling**
 - Read with: `corpus_institutions.md`
 - Read with: `corpus_forum.md`
-- Constitutional frame: **Accountability** leg; **Flourishing** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality Determination](../core_05-05_definitions_b_semi_independent.md#materiality-determination).
-- Finding profile (default): `A·F·SSP` — [Non-Compliance Finding Profile](../core_05-05_definitions_b_semi_independent.md#non-compliance-finding-profile); use **formal** **failure character** for pathway or record defects and **substantive** where merits or binding effect is materially affected; add **severity tier** **T1**–**T4** per finding ([Chapter Three, section 2.8](../core_02-04_definition_mechanics.md#28-non-compliance-finding-profiles)).
+- Constitutional frame: **Accountability** leg; **Flourishing** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality Determination](../core_05o_oversight_definitions.md#materiality-determination).
+- Finding profile (default): `A·F·SSP` — [Non-Compliance Finding Profile](../core_05a_accountability_definitions.md#non-compliance-finding-profile); use **formal** **failure character** for pathway or record defects and **substantive** where merits or binding effect is materially affected; add **severity tier** **T1**–**T4** per finding ([Chapter Three, section 2.8](../core_02-04_definition_mechanics.md#28-non-compliance-finding-profiles)).
 - Chapter One basis: §2.1, §3.4, §6.4, §7.1, §8, §10 (see [CJS-5.1](#cjs-51-constitutional-compass-and-cluster-map) map).
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
 
-- [Non-Compliance Finding Profile](../core_05-05_definitions_b_semi_independent.md#non-compliance-finding-profile) · [O](../core_05-05_definitions_b_semi_independent.md#non-compliance-finding-profile) · [E](../core_05-05_definitions_b_semi_independent.md#non-compliance-finding-profile-e) · [C](../core_05-05_definitions_b_semi_independent.md#non-compliance-finding-profile-c)
-- [Proportionality](../core_05-05_definitions_a_independent.md#proportionality) · [O](../core_05-05_definitions_a_independent.md#proportionality) · [E](../core_05-05_definitions_a_independent.md#proportionality-e) · [C](../core_05-05_definitions_a_independent.md#proportionality-c)
-- [Accountability](../core_05-05_definitions_b_semi_independent.md#accountability) · [O](../core_05-05_definitions_b_semi_independent.md#accountability) · [E](../core_05-05_definitions_b_semi_independent.md#accountability-e) · [C](../core_05-05_definitions_b_semi_independent.md#accountability-c)
-- [Contestability](../core_05-05_definitions_b_semi_independent.md#contestability) · [O](../core_05-05_definitions_b_semi_independent.md#contestability) · [E](../core_05-05_definitions_b_semi_independent.md#contestability-e) · [C](../core_05-05_definitions_b_semi_independent.md#contestability-c)
-- [Accessibility](../core_05-05_definitions_a_independent.md#accessibility-constitutional) · [O](../core_05-05_definitions_a_independent.md#accessibility-constitutional) · [E](../core_05-05_definitions_a_independent.md#accessibility-constitutional-e) · [C](../core_05-05_definitions_a_independent.md#accessibility-constitutional-c)
-- [Reversibility](../core_05-05_definitions_a_independent.md#reversibility-constitutional) · [O](../core_05-05_definitions_a_independent.md#reversibility-constitutional) · [E](../core_05-05_definitions_a_independent.md#reversibility-constitutional-e) · [C](../core_05-05_definitions_a_independent.md#reversibility-constitutional-c)
-- [Transparency](../core_05-05_definitions_c_dependent_clusters.md#transparency) · [O](../core_05-05_definitions_c_dependent_clusters.md#transparency) · [E](../core_05-05_definitions_c_dependent_clusters.md#transparency-e) · [C](../core_05-05_definitions_c_dependent_clusters.md#transparency-c)
-- [Dependency](../core_05-05_definitions_a_independent.md#dependency) · [O](../core_05-05_definitions_a_independent.md#dependency) · [E](../core_05-05_definitions_a_independent.md#dependency-e) · [C](../core_05-05_definitions_a_independent.md#dependency-c)
+- [Non-Compliance Finding Profile](../core_05a_accountability_definitions.md#non-compliance-finding-profile) · [O](../core_05a_accountability_definitions.md#non-compliance-finding-profile) · [E](../core_05a_accountability_definitions.md#non-compliance-finding-profile-e) · [C](../core_05a_accountability_definitions.md#non-compliance-finding-profile-c)
+- [Proportionality](../core_05a_accountability_definitions.md#proportionality) · [O](../core_05a_accountability_definitions.md#proportionality) · [E](../core_05a_accountability_definitions.md#proportionality-e) · [C](../core_05a_accountability_definitions.md#proportionality-c)
+- [Accountability](../core_05a_accountability_definitions.md#accountability) · [O](../core_05a_accountability_definitions.md#accountability) · [E](../core_05a_accountability_definitions.md#accountability-e) · [C](../core_05a_accountability_definitions.md#accountability-c)
+- [Contestability](../core_05a_accountability_definitions.md#contestability) · [O](../core_05a_accountability_definitions.md#contestability) · [E](../core_05a_accountability_definitions.md#contestability-e) · [C](../core_05a_accountability_definitions.md#contestability-c)
+- [Accessibility](../core_05p_participation_definitions.md#accessibility-constitutional) · [O](../core_05p_participation_definitions.md#accessibility-constitutional) · [E](../core_05p_participation_definitions.md#accessibility-constitutional-e) · [C](../core_05p_participation_definitions.md#accessibility-constitutional-c)
+- [Reversibility](../core_05c_continuity_definitions.md#reversibility-constitutional) · [O](../core_05c_continuity_definitions.md#reversibility-constitutional) · [E](../core_05c_continuity_definitions.md#reversibility-constitutional-e) · [C](../core_05c_continuity_definitions.md#reversibility-constitutional-c)
+- [Transparency](../core_05o_oversight_definitions.md#transparency) · [O](../core_05o_oversight_definitions.md#transparency) · [E](../core_05o_oversight_definitions.md#transparency-e) · [C](../core_05o_oversight_definitions.md#transparency-c)
+- [Dependency](../core_05c_continuity_definitions.md#dependency) · [O](../core_05c_continuity_definitions.md#dependency) · [E](../core_05c_continuity_definitions.md#dependency-e) · [C](../core_05c_continuity_definitions.md#dependency-c)
 
 </details>
 
@@ -377,7 +377,7 @@ Uncertainty safeguards and anti-abuse floor
 - Read with: **CJS-5.22 — Constrained Secrecy and Protected Investigations**
 - Read with: **CJS-5.3 — Auditability**
 - Read with: **CJS-5.15** (*Accountability: structural review, correction urgency, and disclosure terms*) and **CJS-5.6** (*Oversight: integrity assurance and resilience operations*) — Evolution, Revalidation, and Non-Entrenchment
-- Constitutional frame: **Accountability** leg; **Continuity** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality Determination](../core_05-05_definitions_b_semi_independent.md#materiality-determination).
+- Constitutional frame: **Accountability** leg; **Continuity** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality Determination](../core_05o_oversight_definitions.md#materiality-determination).
 - Cross-leg note: pairs with **CJS-5.23** for governance authorization versus technical intervention integrity.
 - Continuity disambiguation: Distinguish constitutional **Continuity** aim from emergency or operational continuity modes.
 - Chapter One basis: §3.1, §6.1, §6.4, §7.1, §9 (see [CJS-5.1](#cjs-51-constitutional-compass-and-cluster-map) map).
@@ -386,13 +386,13 @@ Uncertainty safeguards and anti-abuse floor
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
 
-- [Auditability](../core_05-05_definitions_c_dependent_clusters.md#auditability) · [O](../core_05-05_definitions_c_dependent_clusters.md#auditability) · [E](../core_05-05_definitions_c_dependent_clusters.md#auditability-e) · [C](../core_05-05_definitions_c_dependent_clusters.md#auditability-c)
-- [Transparency](../core_05-05_definitions_c_dependent_clusters.md#transparency) · [O](../core_05-05_definitions_c_dependent_clusters.md#transparency) · [E](../core_05-05_definitions_c_dependent_clusters.md#transparency-e) · [C](../core_05-05_definitions_c_dependent_clusters.md#transparency-c)
-- [Stakeholder](../core_05-05_definitions_b_semi_independent.md#stakeholder) · [O](../core_05-05_definitions_b_semi_independent.md#stakeholder) · [E](../core_05-05_definitions_b_semi_independent.md#stakeholder-e) · [C](../core_05-05_definitions_b_semi_independent.md#stakeholder-c)
-- [Dependency](../core_05-05_definitions_a_independent.md#dependency) · [O](../core_05-05_definitions_a_independent.md#dependency) · [E](../core_05-05_definitions_a_independent.md#dependency-e) · [C](../core_05-05_definitions_a_independent.md#dependency-c)
-- [Governance](../core_05-05_definitions_b_semi_independent.md#governance) · [O](../core_05-05_definitions_b_semi_independent.md#governance) · [E](../core_05-05_definitions_b_semi_independent.md#governance-e) · [C](../core_05-05_definitions_b_semi_independent.md#governance-c)
-- [Necessity](../core_05-05_definitions_a_independent.md#necessity) · [O](../core_05-05_definitions_a_independent.md#necessity) · [E](../core_05-05_definitions_a_independent.md#necessity-e) · [C](../core_05-05_definitions_a_independent.md#necessity-c)
-- [Material](../core_05-05_definitions_b_semi_independent.md#material) · [O](../core_05-05_definitions_b_semi_independent.md#material) · [E](../core_05-05_definitions_b_semi_independent.md#material-e) · [C](../core_05-05_definitions_b_semi_independent.md#material-c)
+- [Auditability](../core_05o_oversight_definitions.md#auditability) · [O](../core_05o_oversight_definitions.md#auditability) · [E](../core_05o_oversight_definitions.md#auditability-e) · [C](../core_05o_oversight_definitions.md#auditability-c)
+- [Transparency](../core_05o_oversight_definitions.md#transparency) · [O](../core_05o_oversight_definitions.md#transparency) · [E](../core_05o_oversight_definitions.md#transparency-e) · [C](../core_05o_oversight_definitions.md#transparency-c)
+- [Stakeholder](../core_05p_participation_definitions.md#stakeholder) · [O](../core_05p_participation_definitions.md#stakeholder) · [E](../core_05p_participation_definitions.md#stakeholder-e) · [C](../core_05p_participation_definitions.md#stakeholder-c)
+- [Dependency](../core_05c_continuity_definitions.md#dependency) · [O](../core_05c_continuity_definitions.md#dependency) · [E](../core_05c_continuity_definitions.md#dependency-e) · [C](../core_05c_continuity_definitions.md#dependency-c)
+- [Governance](../core_05a_accountability_definitions.md#governance) · [O](../core_05a_accountability_definitions.md#governance) · [E](../core_05a_accountability_definitions.md#governance-e) · [C](../core_05a_accountability_definitions.md#governance-c)
+- [Necessity](../core_05a_accountability_definitions.md#necessity) · [O](../core_05a_accountability_definitions.md#necessity) · [E](../core_05a_accountability_definitions.md#necessity-e) · [C](../core_05a_accountability_definitions.md#necessity-c)
+- [Material](../core_05o_oversight_definitions.md#material) · [O](../core_05o_oversight_definitions.md#material) · [E](../core_05o_oversight_definitions.md#material-e) · [C](../core_05o_oversight_definitions.md#material-c)
 
 </details>
 
@@ -459,7 +459,7 @@ Records, transparency, and challenge pathway duties
 - Read with: **CJS-5.2** (*Oversight: reflexive transparency and accountability terms*) and **CJS-5.6** (*Oversight: integrity assurance and resilience operations*) — Reflexive Transparency and Accountability
 - Read with: `corpus_systems.md` **CS-3 — Information types and handling** and **CS-4 — System classification and handling**
 - Read with: Owner-layer-specific monitoring or publication duties.
-- Constitutional frame: **Accountability** leg; **Continuity** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality Determination](../core_05-05_definitions_b_semi_independent.md#materiality-determination).
+- Constitutional frame: **Accountability** leg; **Continuity** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality Determination](../core_05o_oversight_definitions.md#materiality-determination).
 - Cross-leg note: pairs with **CJS-5.6** for evolution, revalidation, and non-entrenchment.
 - Continuity disambiguation: Distinguish constitutional **Continuity** aim from operational continuity reporting.
 - Chapter One basis: §3.1, §3.2, §4.1, §5.2, §7.1, §7.2 (see [CJS-5.1](#cjs-51-constitutional-compass-and-cluster-map) map).
@@ -468,13 +468,13 @@ Records, transparency, and challenge pathway duties
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
 
-- [Accountability](../core_05-05_definitions_b_semi_independent.md#accountability) · [O](../core_05-05_definitions_b_semi_independent.md#accountability) · [E](../core_05-05_definitions_b_semi_independent.md#accountability-e) · [C](../core_05-05_definitions_b_semi_independent.md#accountability-c)
-- [Reversibility](../core_05-05_definitions_a_independent.md#reversibility-constitutional) · [O](../core_05-05_definitions_a_independent.md#reversibility-constitutional) · [E](../core_05-05_definitions_a_independent.md#reversibility-constitutional-e) · [C](../core_05-05_definitions_a_independent.md#reversibility-constitutional-c)
-- [Transparency](../core_05-05_definitions_c_dependent_clusters.md#transparency) · [O](../core_05-05_definitions_c_dependent_clusters.md#transparency) · [E](../core_05-05_definitions_c_dependent_clusters.md#transparency-e) · [C](../core_05-05_definitions_c_dependent_clusters.md#transparency-c)
-- [Stakeholder](../core_05-05_definitions_b_semi_independent.md#stakeholder) · [O](../core_05-05_definitions_b_semi_independent.md#stakeholder) · [E](../core_05-05_definitions_b_semi_independent.md#stakeholder-e) · [C](../core_05-05_definitions_b_semi_independent.md#stakeholder-c)
-- [Dependency](../core_05-05_definitions_a_independent.md#dependency) · [O](../core_05-05_definitions_a_independent.md#dependency) · [E](../core_05-05_definitions_a_independent.md#dependency-e) · [C](../core_05-05_definitions_a_independent.md#dependency-c)
-- [Oversight](../core_05-05_definitions_a_independent.md#oversight-constitutional) · [O](../core_05-05_definitions_a_independent.md#oversight-constitutional) · [E](../core_05-05_definitions_a_independent.md#oversight-constitutional-e) · [C](../core_05-05_definitions_a_independent.md#oversight-constitutional-c)
-- [Material](../core_05-05_definitions_b_semi_independent.md#material) · [O](../core_05-05_definitions_b_semi_independent.md#material) · [E](../core_05-05_definitions_b_semi_independent.md#material-e) · [C](../core_05-05_definitions_b_semi_independent.md#material-c)
+- [Accountability](../core_05a_accountability_definitions.md#accountability) · [O](../core_05a_accountability_definitions.md#accountability) · [E](../core_05a_accountability_definitions.md#accountability-e) · [C](../core_05a_accountability_definitions.md#accountability-c)
+- [Reversibility](../core_05c_continuity_definitions.md#reversibility-constitutional) · [O](../core_05c_continuity_definitions.md#reversibility-constitutional) · [E](../core_05c_continuity_definitions.md#reversibility-constitutional-e) · [C](../core_05c_continuity_definitions.md#reversibility-constitutional-c)
+- [Transparency](../core_05o_oversight_definitions.md#transparency) · [O](../core_05o_oversight_definitions.md#transparency) · [E](../core_05o_oversight_definitions.md#transparency-e) · [C](../core_05o_oversight_definitions.md#transparency-c)
+- [Stakeholder](../core_05p_participation_definitions.md#stakeholder) · [O](../core_05p_participation_definitions.md#stakeholder) · [E](../core_05p_participation_definitions.md#stakeholder-e) · [C](../core_05p_participation_definitions.md#stakeholder-c)
+- [Dependency](../core_05c_continuity_definitions.md#dependency) · [O](../core_05c_continuity_definitions.md#dependency) · [E](../core_05c_continuity_definitions.md#dependency-e) · [C](../core_05c_continuity_definitions.md#dependency-c)
+- [Oversight](../core_05o_oversight_definitions.md#oversight-constitutional) · [O](../core_05o_oversight_definitions.md#oversight-constitutional) · [E](../core_05o_oversight_definitions.md#oversight-constitutional-e) · [C](../core_05o_oversight_definitions.md#oversight-constitutional-c)
+- [Material](../core_05o_oversight_definitions.md#material) · [O](../core_05o_oversight_definitions.md#material) · [E](../core_05o_oversight_definitions.md#material-e) · [C](../core_05o_oversight_definitions.md#material-c)
 
 </details>
 

@@ -29,11 +29,14 @@ class AlignmentAuditor:
             repo_root / "core_01_a_values_principles.md",
             repo_root / "core_01_b_stewardship_capacity_principles.md",
         ]
-        self.ch5_files = [
-            repo_root / "core_05-05_definitions_a_independent.md",
-            repo_root / "core_05-05_definitions_b_semi_independent.md", 
-            repo_root / "core_05-05_definitions_c_dependent_clusters.md"
-        ]
+        self.ch5_files = [repo_root / name for name in (
+            "core_05-05_definitions_a_independent.md",
+            "core_05o_oversight_definitions.md",
+            "core_05p_participation_definitions.md",
+            "core_05a_accountability_definitions.md",
+            "core_05c_continuity_definitions.md",
+            "core_05i_integrative_definitions.md",
+        )]
         
         # Extracted data
         self.ch1_principles = {}  # principle_id -> {title, anchors: [term, ...]}

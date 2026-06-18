@@ -14,13 +14,13 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
 
-- [Capture of Resolution Pathways](../core_05-05_definitions_b_semi_independent.md#capture-of-resolution-pathways) · [O](../core_05-05_definitions_b_semi_independent.md#capture-of-resolution-pathways) · [E](../core_05-05_definitions_b_semi_independent.md#capture-of-resolution-pathways-e) · [C](../core_05-05_definitions_b_semi_independent.md#capture-of-resolution-pathways-c)
-- [Event-Contract Market](../core_05-05_definitions_a_independent.md#event-contract-market) · [O](../core_05-05_definitions_a_independent.md#event-contract-market) · [E](../core_05-05_definitions_a_independent.md#event-contract-market-e) · [C](../core_05-05_definitions_a_independent.md#event-contract-market-c)
-- [Evidence Preservation](../core_05-05_definitions_c_dependent_clusters.md#evidence-preservation) · [O](../core_05-05_definitions_c_dependent_clusters.md#evidence-preservation) · [E](../core_05-05_definitions_c_dependent_clusters.md#evidence-preservation-e) · [C](../core_05-05_definitions_c_dependent_clusters.md#evidence-preservation-c)
-- [Incentive Alignment](../core_05-05_definitions_a_independent.md#incentive-alignment) · [O](../core_05-05_definitions_a_independent.md#incentive-alignment) · [E](../core_05-05_definitions_a_independent.md#incentive-alignment-e) · [C](../core_05-05_definitions_a_independent.md#incentive-alignment-c)
-- [Contingent Claim](../core_05-05_definitions_a_independent.md#contingent-claim) · [O](../core_05-05_definitions_a_independent.md#contingent-claim) · [E](../core_05-05_definitions_a_independent.md#contingent-claim-e) · [C](../core_05-05_definitions_a_independent.md#contingent-claim-c)
-- [Accountability](../core_05-05_definitions_b_semi_independent.md#accountability) · [O](../core_05-05_definitions_b_semi_independent.md#accountability) · [E](../core_05-05_definitions_b_semi_independent.md#accountability-e) · [C](../core_05-05_definitions_b_semi_independent.md#accountability-c)
-- [Contestability](../core_05-05_definitions_b_semi_independent.md#contestability) · [O](../core_05-05_definitions_b_semi_independent.md#contestability) · [E](../core_05-05_definitions_b_semi_independent.md#contestability-e) · [C](../core_05-05_definitions_b_semi_independent.md#contestability-c)
+- [Capture of Resolution Pathways](../core_05a_accountability_definitions.md#capture-of-resolution-pathways) · [O](../core_05a_accountability_definitions.md#capture-of-resolution-pathways) · [E](../core_05a_accountability_definitions.md#capture-of-resolution-pathways-e) · [C](../core_05a_accountability_definitions.md#capture-of-resolution-pathways-c)
+- [Event-Contract Market](../core_05a_accountability_definitions.md#event-contract-market) · [O](../core_05a_accountability_definitions.md#event-contract-market) · [E](../core_05a_accountability_definitions.md#event-contract-market-e) · [C](../core_05a_accountability_definitions.md#event-contract-market-c)
+- [Evidence Preservation](../core_05o_oversight_definitions.md#evidence-preservation) · [O](../core_05o_oversight_definitions.md#evidence-preservation) · [E](../core_05o_oversight_definitions.md#evidence-preservation-e) · [C](../core_05o_oversight_definitions.md#evidence-preservation-c)
+- [Incentive Alignment](../core_05i_integrative_definitions.md#incentive-alignment) · [O](../core_05i_integrative_definitions.md#incentive-alignment) · [E](../core_05i_integrative_definitions.md#incentive-alignment-e) · [C](../core_05i_integrative_definitions.md#incentive-alignment-c)
+- [Contingent Claim](../core_05a_accountability_definitions.md#contingent-claim) · [O](../core_05a_accountability_definitions.md#contingent-claim) · [E](../core_05a_accountability_definitions.md#contingent-claim-e) · [C](../core_05a_accountability_definitions.md#contingent-claim-c)
+- [Accountability](../core_05a_accountability_definitions.md#accountability) · [O](../core_05a_accountability_definitions.md#accountability) · [E](../core_05a_accountability_definitions.md#accountability-e) · [C](../core_05a_accountability_definitions.md#accountability-c)
+- [Contestability](../core_05a_accountability_definitions.md#contestability) · [O](../core_05a_accountability_definitions.md#contestability) · [E](../core_05a_accountability_definitions.md#contestability-e) · [C](../core_05a_accountability_definitions.md#contestability-c)
 
 </details>
 
@@ -48,10 +48,10 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
 
-- [System Capture](../core_05-05_definitions_a_independent.md#system-capture) · [O](../core_05-05_definitions_a_independent.md#system-capture) · [E](../core_05-05_definitions_a_independent.md#system-capture-e) · [C](../core_05-05_definitions_a_independent.md#system-capture-c)
-- [Incentive Alignment](../core_05-05_definitions_a_independent.md#incentive-alignment) · [O](../core_05-05_definitions_a_independent.md#incentive-alignment) · [E](../core_05-05_definitions_a_independent.md#incentive-alignment-e) · [C](../core_05-05_definitions_a_independent.md#incentive-alignment-c)
-- [Capture of Resolution Pathways](../core_05-05_definitions_b_semi_independent.md#capture-of-resolution-pathways) · [O](../core_05-05_definitions_b_semi_independent.md#capture-of-resolution-pathways) · [E](../core_05-05_definitions_b_semi_independent.md#capture-of-resolution-pathways-e) · [C](../core_05-05_definitions_b_semi_independent.md#capture-of-resolution-pathways-c)
-- [Contestability](../core_05-05_definitions_b_semi_independent.md#contestability) · [O](../core_05-05_definitions_b_semi_independent.md#contestability) · [E](../core_05-05_definitions_b_semi_independent.md#contestability-e) · [C](../core_05-05_definitions_b_semi_independent.md#contestability-c)
+- [System Capture](../core_05c_continuity_definitions.md#system-capture) · [O](../core_05c_continuity_definitions.md#system-capture) · [E](../core_05c_continuity_definitions.md#system-capture-e) · [C](../core_05c_continuity_definitions.md#system-capture-c)
+- [Incentive Alignment](../core_05i_integrative_definitions.md#incentive-alignment) · [O](../core_05i_integrative_definitions.md#incentive-alignment) · [E](../core_05i_integrative_definitions.md#incentive-alignment-e) · [C](../core_05i_integrative_definitions.md#incentive-alignment-c)
+- [Capture of Resolution Pathways](../core_05a_accountability_definitions.md#capture-of-resolution-pathways) · [O](../core_05a_accountability_definitions.md#capture-of-resolution-pathways) · [E](../core_05a_accountability_definitions.md#capture-of-resolution-pathways-e) · [C](../core_05a_accountability_definitions.md#capture-of-resolution-pathways-c)
+- [Contestability](../core_05a_accountability_definitions.md#contestability) · [O](../core_05a_accountability_definitions.md#contestability) · [E](../core_05a_accountability_definitions.md#contestability-e) · [C](../core_05a_accountability_definitions.md#contestability-c)
 
 </details>
 
@@ -75,11 +75,11 @@ Apply [corpus_joint_structure.md](../corpus_joint_structure.md) **CJS-5.6** **Sh
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
 
-- [Accountability](../core_05-05_definitions_b_semi_independent.md#accountability) · [O](../core_05-05_definitions_b_semi_independent.md#accountability) · [E](../core_05-05_definitions_b_semi_independent.md#accountability-e) · [C](../core_05-05_definitions_b_semi_independent.md#accountability-c)
-- [Contingent Claim](../core_05-05_definitions_a_independent.md#contingent-claim) · [O](../core_05-05_definitions_a_independent.md#contingent-claim) · [E](../core_05-05_definitions_a_independent.md#contingent-claim-e) · [C](../core_05-05_definitions_a_independent.md#contingent-claim-c)
-- [Event-Contract Market](../core_05-05_definitions_a_independent.md#event-contract-market) · [O](../core_05-05_definitions_a_independent.md#event-contract-market) · [E](../core_05-05_definitions_a_independent.md#event-contract-market-e) · [C](../core_05-05_definitions_a_independent.md#event-contract-market-c)
-- [Evidence Preservation](../core_05-05_definitions_c_dependent_clusters.md#evidence-preservation) · [O](../core_05-05_definitions_c_dependent_clusters.md#evidence-preservation) · [E](../core_05-05_definitions_c_dependent_clusters.md#evidence-preservation-e) · [C](../core_05-05_definitions_c_dependent_clusters.md#evidence-preservation-c)
-- [Contestability](../core_05-05_definitions_b_semi_independent.md#contestability) · [O](../core_05-05_definitions_b_semi_independent.md#contestability) · [E](../core_05-05_definitions_b_semi_independent.md#contestability-e) · [C](../core_05-05_definitions_b_semi_independent.md#contestability-c)
+- [Accountability](../core_05a_accountability_definitions.md#accountability) · [O](../core_05a_accountability_definitions.md#accountability) · [E](../core_05a_accountability_definitions.md#accountability-e) · [C](../core_05a_accountability_definitions.md#accountability-c)
+- [Contingent Claim](../core_05a_accountability_definitions.md#contingent-claim) · [O](../core_05a_accountability_definitions.md#contingent-claim) · [E](../core_05a_accountability_definitions.md#contingent-claim-e) · [C](../core_05a_accountability_definitions.md#contingent-claim-c)
+- [Event-Contract Market](../core_05a_accountability_definitions.md#event-contract-market) · [O](../core_05a_accountability_definitions.md#event-contract-market) · [E](../core_05a_accountability_definitions.md#event-contract-market-e) · [C](../core_05a_accountability_definitions.md#event-contract-market-c)
+- [Evidence Preservation](../core_05o_oversight_definitions.md#evidence-preservation) · [O](../core_05o_oversight_definitions.md#evidence-preservation) · [E](../core_05o_oversight_definitions.md#evidence-preservation-e) · [C](../core_05o_oversight_definitions.md#evidence-preservation-c)
+- [Contestability](../core_05a_accountability_definitions.md#contestability) · [O](../core_05a_accountability_definitions.md#contestability) · [E](../core_05a_accountability_definitions.md#contestability-e) · [C](../core_05a_accountability_definitions.md#contestability-c)
 
 </details>
 
@@ -113,13 +113,13 @@ Each institution must also name:
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
 
-- [Accountability](../core_05-05_definitions_b_semi_independent.md#accountability) · [O](../core_05-05_definitions_b_semi_independent.md#accountability) · [E](../core_05-05_definitions_b_semi_independent.md#accountability-e) · [C](../core_05-05_definitions_b_semi_independent.md#accountability-c)
-- [Contestability](../core_05-05_definitions_b_semi_independent.md#contestability) · [O](../core_05-05_definitions_b_semi_independent.md#contestability) · [E](../core_05-05_definitions_b_semi_independent.md#contestability-e) · [C](../core_05-05_definitions_b_semi_independent.md#contestability-c)
-- [Oversight](../core_05-05_definitions_a_independent.md#oversight-constitutional) · [O](../core_05-05_definitions_a_independent.md#oversight-constitutional) · [E](../core_05-05_definitions_a_independent.md#oversight-constitutional-e) · [C](../core_05-05_definitions_a_independent.md#oversight-constitutional-c)
-- [Material](../core_05-05_definitions_b_semi_independent.md#material) · [O](../core_05-05_definitions_b_semi_independent.md#material) · [E](../core_05-05_definitions_b_semi_independent.md#material-e) · [C](../core_05-05_definitions_b_semi_independent.md#material-c)
-- [Corpus](../core_05-05_definitions_c_dependent_clusters.md#corpus) · [O](../core_05-05_definitions_c_dependent_clusters.md#corpus) · [E](../core_05-05_definitions_c_dependent_clusters.md#corpus-e) · [C](../core_05-05_definitions_c_dependent_clusters.md#corpus-c)
-- [System Capture](../core_05-05_definitions_a_independent.md#system-capture) · [O](../core_05-05_definitions_a_independent.md#system-capture) · [E](../core_05-05_definitions_a_independent.md#system-capture-e) · [C](../core_05-05_definitions_a_independent.md#system-capture-c)
-- [Incentive Alignment](../core_05-05_definitions_a_independent.md#incentive-alignment) · [O](../core_05-05_definitions_a_independent.md#incentive-alignment) · [E](../core_05-05_definitions_a_independent.md#incentive-alignment-e) · [C](../core_05-05_definitions_a_independent.md#incentive-alignment-c)
+- [Accountability](../core_05a_accountability_definitions.md#accountability) · [O](../core_05a_accountability_definitions.md#accountability) · [E](../core_05a_accountability_definitions.md#accountability-e) · [C](../core_05a_accountability_definitions.md#accountability-c)
+- [Contestability](../core_05a_accountability_definitions.md#contestability) · [O](../core_05a_accountability_definitions.md#contestability) · [E](../core_05a_accountability_definitions.md#contestability-e) · [C](../core_05a_accountability_definitions.md#contestability-c)
+- [Oversight](../core_05o_oversight_definitions.md#oversight-constitutional) · [O](../core_05o_oversight_definitions.md#oversight-constitutional) · [E](../core_05o_oversight_definitions.md#oversight-constitutional-e) · [C](../core_05o_oversight_definitions.md#oversight-constitutional-c)
+- [Material](../core_05o_oversight_definitions.md#material) · [O](../core_05o_oversight_definitions.md#material) · [E](../core_05o_oversight_definitions.md#material-e) · [C](../core_05o_oversight_definitions.md#material-c)
+- [Corpus](../core_05i_integrative_definitions.md#corpus) · [O](../core_05i_integrative_definitions.md#corpus) · [E](../core_05i_integrative_definitions.md#corpus-e) · [C](../core_05i_integrative_definitions.md#corpus-c)
+- [System Capture](../core_05c_continuity_definitions.md#system-capture) · [O](../core_05c_continuity_definitions.md#system-capture) · [E](../core_05c_continuity_definitions.md#system-capture-e) · [C](../core_05c_continuity_definitions.md#system-capture-c)
+- [Incentive Alignment](../core_05i_integrative_definitions.md#incentive-alignment) · [O](../core_05i_integrative_definitions.md#incentive-alignment) · [E](../core_05i_integrative_definitions.md#incentive-alignment-e) · [C](../core_05i_integrative_definitions.md#incentive-alignment-c)
 
 </details>
 

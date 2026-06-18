@@ -33,20 +33,20 @@ This family operationalizes the **Participation** leg of the [Constitutional Tri
 - Read with: **Sentient Constitution Chapter Eleven** section 4
 - Read with: **Chapter Ten Article IX-C**
 - Read with: **Chapter Ten Article XI**
-- Constitutional frame: **Participation** leg; **Flourishing** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality Determination](../core_05-05_definitions_b_semi_independent.md#materiality-determination).
+- Constitutional frame: **Participation** leg; **Flourishing** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality Determination](../core_05o_oversight_definitions.md#materiality-determination).
 - Chapter One basis: §2.1, §4, §5.2, §6.4, §8, §10 (see [CJS-5.1](#cjs-51-constitutional-compass-and-cluster-map) map).
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
 
-- [Foundational Constitutional Choice](../core_05-05_definitions_a_independent.md#foundational-constitutional-choice) · [O](../core_05-05_definitions_a_independent.md#foundational-constitutional-choice) · [E](../core_05-05_definitions_a_independent.md#foundational-constitutional-choice-e) · [C](../core_05-05_definitions_a_independent.md#foundational-constitutional-choice-c)
-- [Stakeholder Participation Weight](../core_05-05_definitions_b_semi_independent.md#stakeholder-participation-weight) · [O](../core_05-05_definitions_b_semi_independent.md#stakeholder-participation-weight) · [E](../core_05-05_definitions_b_semi_independent.md#stakeholder-participation-weight-e) · [C](../core_05-05_definitions_b_semi_independent.md#stakeholder-participation-weight-c)
-- [Constitutional Contract Layer](../core_05-05_definitions_a_independent.md#constitutional-contract-layer) · [O](../core_05-05_definitions_a_independent.md#constitutional-contract-layer) · [E](../core_05-05_definitions_a_independent.md#constitutional-contract-layer-e) · [C](../core_05-05_definitions_a_independent.md#constitutional-contract-layer-c)
-- [Material Impact](../core_05-05_definitions_b_semi_independent.md#material-impact) · [O](../core_05-05_definitions_b_semi_independent.md#material-impact) · [E](../core_05-05_definitions_b_semi_independent.md#material-impact-e) · [C](../core_05-05_definitions_b_semi_independent.md#material-impact-c)
-- [Contestability](../core_05-05_definitions_b_semi_independent.md#contestability) · [O](../core_05-05_definitions_b_semi_independent.md#contestability) · [E](../core_05-05_definitions_b_semi_independent.md#contestability-e) · [C](../core_05-05_definitions_b_semi_independent.md#contestability-c)
-- [Reversibility](../core_05-05_definitions_a_independent.md#reversibility-constitutional) · [O](../core_05-05_definitions_a_independent.md#reversibility-constitutional) · [E](../core_05-05_definitions_a_independent.md#reversibility-constitutional-e) · [C](../core_05-05_definitions_a_independent.md#reversibility-constitutional-c)
-- [Auditability](../core_05-05_definitions_c_dependent_clusters.md#auditability) · [O](../core_05-05_definitions_c_dependent_clusters.md#auditability) · [E](../core_05-05_definitions_c_dependent_clusters.md#auditability-e) · [C](../core_05-05_definitions_c_dependent_clusters.md#auditability-c)
+- [Foundational Constitutional Choice](../core_05i_integrative_definitions.md#foundational-constitutional-choice) · [O](../core_05i_integrative_definitions.md#foundational-constitutional-choice) · [E](../core_05i_integrative_definitions.md#foundational-constitutional-choice-e) · [C](../core_05i_integrative_definitions.md#foundational-constitutional-choice-c)
+- [Stakeholder Participation Weight](../core_05p_participation_definitions.md#stakeholder-participation-weight) · [O](../core_05p_participation_definitions.md#stakeholder-participation-weight) · [E](../core_05p_participation_definitions.md#stakeholder-participation-weight-e) · [C](../core_05p_participation_definitions.md#stakeholder-participation-weight-c)
+- [Constitutional Contract Layer](../core_05i_integrative_definitions.md#constitutional-contract-layer) · [O](../core_05i_integrative_definitions.md#constitutional-contract-layer) · [E](../core_05i_integrative_definitions.md#constitutional-contract-layer-e) · [C](../core_05i_integrative_definitions.md#constitutional-contract-layer-c)
+- [Material Impact](../core_05o_oversight_definitions.md#material-impact) · [O](../core_05o_oversight_definitions.md#material-impact) · [E](../core_05o_oversight_definitions.md#material-impact-e) · [C](../core_05o_oversight_definitions.md#material-impact-c)
+- [Contestability](../core_05a_accountability_definitions.md#contestability) · [O](../core_05a_accountability_definitions.md#contestability) · [E](../core_05a_accountability_definitions.md#contestability-e) · [C](../core_05a_accountability_definitions.md#contestability-c)
+- [Reversibility](../core_05c_continuity_definitions.md#reversibility-constitutional) · [O](../core_05c_continuity_definitions.md#reversibility-constitutional) · [E](../core_05c_continuity_definitions.md#reversibility-constitutional-e) · [C](../core_05c_continuity_definitions.md#reversibility-constitutional-c)
+- [Auditability](../core_05o_oversight_definitions.md#auditability) · [O](../core_05o_oversight_definitions.md#auditability) · [E](../core_05o_oversight_definitions.md#auditability-e) · [C](../core_05o_oversight_definitions.md#auditability-c)
 - Chapter One basis: §2.1, §4, §5.2, §6.4, §8, §10 (see [CJS-5.1](#cjs-51-constitutional-compass-and-cluster-map) map).
 </details>
 
@@ -133,20 +133,20 @@ Weighted participation
 - Read with: **CJS-5.8**.
 - Read with: **CJS-5.8 — Comprehensibility and Cognitive Accessibility**
 - Read with: `corpus_systems.md` **Protocol B — System Comprehensibility and Complexity Stewardship**
-- Constitutional frame: **Participation** leg; **Flourishing** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality Determination](../core_05-05_definitions_b_semi_independent.md#materiality-determination).
+- Constitutional frame: **Participation** leg; **Flourishing** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality Determination](../core_05o_oversight_definitions.md#materiality-determination).
 - Chapter One basis: §3.4, §5.2, §7.1, §8 (see [CJS-5.1](#cjs-51-constitutional-compass-and-cluster-map) map).
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
 
-- [Accountability](../core_05-05_definitions_b_semi_independent.md#accountability) · [O](../core_05-05_definitions_b_semi_independent.md#accountability) · [E](../core_05-05_definitions_b_semi_independent.md#accountability-e) · [C](../core_05-05_definitions_b_semi_independent.md#accountability-c)
-- [Accessibility](../core_05-05_definitions_a_independent.md#accessibility-constitutional) · [O](../core_05-05_definitions_a_independent.md#accessibility-constitutional) · [E](../core_05-05_definitions_a_independent.md#accessibility-constitutional-e) · [C](../core_05-05_definitions_a_independent.md#accessibility-constitutional-c)
-- [Auditability](../core_05-05_definitions_c_dependent_clusters.md#auditability) · [O](../core_05-05_definitions_c_dependent_clusters.md#auditability) · [E](../core_05-05_definitions_c_dependent_clusters.md#auditability-e) · [C](../core_05-05_definitions_c_dependent_clusters.md#auditability-c)
-- [Transparency](../core_05-05_definitions_c_dependent_clusters.md#transparency) · [O](../core_05-05_definitions_c_dependent_clusters.md#transparency) · [E](../core_05-05_definitions_c_dependent_clusters.md#transparency-e) · [C](../core_05-05_definitions_c_dependent_clusters.md#transparency-c)
-- [Stakeholder](../core_05-05_definitions_b_semi_independent.md#stakeholder) · [O](../core_05-05_definitions_b_semi_independent.md#stakeholder) · [E](../core_05-05_definitions_b_semi_independent.md#stakeholder-e) · [C](../core_05-05_definitions_b_semi_independent.md#stakeholder-c)
-- [Dependency](../core_05-05_definitions_a_independent.md#dependency) · [O](../core_05-05_definitions_a_independent.md#dependency) · [E](../core_05-05_definitions_a_independent.md#dependency-e) · [C](../core_05-05_definitions_a_independent.md#dependency-c)
-- [Oversight](../core_05-05_definitions_a_independent.md#oversight-constitutional) · [O](../core_05-05_definitions_a_independent.md#oversight-constitutional) · [E](../core_05-05_definitions_a_independent.md#oversight-constitutional-e) · [C](../core_05-05_definitions_a_independent.md#oversight-constitutional-c)
+- [Accountability](../core_05a_accountability_definitions.md#accountability) · [O](../core_05a_accountability_definitions.md#accountability) · [E](../core_05a_accountability_definitions.md#accountability-e) · [C](../core_05a_accountability_definitions.md#accountability-c)
+- [Accessibility](../core_05p_participation_definitions.md#accessibility-constitutional) · [O](../core_05p_participation_definitions.md#accessibility-constitutional) · [E](../core_05p_participation_definitions.md#accessibility-constitutional-e) · [C](../core_05p_participation_definitions.md#accessibility-constitutional-c)
+- [Auditability](../core_05o_oversight_definitions.md#auditability) · [O](../core_05o_oversight_definitions.md#auditability) · [E](../core_05o_oversight_definitions.md#auditability-e) · [C](../core_05o_oversight_definitions.md#auditability-c)
+- [Transparency](../core_05o_oversight_definitions.md#transparency) · [O](../core_05o_oversight_definitions.md#transparency) · [E](../core_05o_oversight_definitions.md#transparency-e) · [C](../core_05o_oversight_definitions.md#transparency-c)
+- [Stakeholder](../core_05p_participation_definitions.md#stakeholder) · [O](../core_05p_participation_definitions.md#stakeholder) · [E](../core_05p_participation_definitions.md#stakeholder-e) · [C](../core_05p_participation_definitions.md#stakeholder-c)
+- [Dependency](../core_05c_continuity_definitions.md#dependency) · [O](../core_05c_continuity_definitions.md#dependency) · [E](../core_05c_continuity_definitions.md#dependency-e) · [C](../core_05c_continuity_definitions.md#dependency-c)
+- [Oversight](../core_05o_oversight_definitions.md#oversight-constitutional) · [O](../core_05o_oversight_definitions.md#oversight-constitutional) · [E](../core_05o_oversight_definitions.md#oversight-constitutional-e) · [C](../core_05o_oversight_definitions.md#oversight-constitutional-c)
 
 </details>
 
@@ -227,20 +227,20 @@ Summary integrity
 - Read with: **CJS-5.21 — Adversarial Robustness and Abuse Resistance**
 - Read with: **Article XV-A**
 - Read with: **Chapter Ten** incentive-alignment constraints
-- Constitutional frame: **Participation** leg; **Flourishing** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality Determination](../core_05-05_definitions_b_semi_independent.md#materiality-determination).
+- Constitutional frame: **Participation** leg; **Flourishing** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality Determination](../core_05o_oversight_definitions.md#materiality-determination).
 - Chapter One basis: §2, §3.2, §4, §7.1, §8 (see [CJS-5.1](#cjs-51-constitutional-compass-and-cluster-map) map).
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
 
-- [Transparency](../core_05-05_definitions_c_dependent_clusters.md#transparency) · [O](../core_05-05_definitions_c_dependent_clusters.md#transparency) · [E](../core_05-05_definitions_c_dependent_clusters.md#transparency-e) · [C](../core_05-05_definitions_c_dependent_clusters.md#transparency-c)
-- [Oversight](../core_05-05_definitions_a_independent.md#oversight-constitutional) · [O](../core_05-05_definitions_a_independent.md#oversight-constitutional) · [E](../core_05-05_definitions_a_independent.md#oversight-constitutional-e) · [C](../core_05-05_definitions_a_independent.md#oversight-constitutional-c)
-- [Material](../core_05-05_definitions_b_semi_independent.md#material) · [O](../core_05-05_definitions_b_semi_independent.md#material) · [E](../core_05-05_definitions_b_semi_independent.md#material-e) · [C](../core_05-05_definitions_b_semi_independent.md#material-c)
-- [Sentient](../core_05-05_definitions_c_dependent_clusters.md#sentient-composite) · [O](../core_05-05_definitions_c_dependent_clusters.md#sentient-composite) · [E](../core_05-05_definitions_c_dependent_clusters.md#sentient-composite-e) · [C](../core_05-05_definitions_c_dependent_clusters.md#sentient-composite-c)
-- [Consent](../core_05-05_definitions_b_semi_independent.md#consent-constitutional) · [O](../core_05-05_definitions_b_semi_independent.md#consent-constitutional) · [E](../core_05-05_definitions_b_semi_independent.md#consent-constitutional-e) · [C](../core_05-05_definitions_b_semi_independent.md#consent-constitutional-c)
-- [System](../core_05-05_definitions_b_semi_independent.md#system-definition) · [O](../core_05-05_definitions_b_semi_independent.md#system-definition) · [E](../core_05-05_definitions_b_semi_independent.md#system-definition-e) · [C](../core_05-05_definitions_b_semi_independent.md#system-definition-c)
-- [Risk](../core_05-05_definitions_a_independent.md#risk) · [O](../core_05-05_definitions_a_independent.md#risk) · [E](../core_05-05_definitions_a_independent.md#risk-e) · [C](../core_05-05_definitions_a_independent.md#risk-c)
+- [Transparency](../core_05o_oversight_definitions.md#transparency) · [O](../core_05o_oversight_definitions.md#transparency) · [E](../core_05o_oversight_definitions.md#transparency-e) · [C](../core_05o_oversight_definitions.md#transparency-c)
+- [Oversight](../core_05o_oversight_definitions.md#oversight-constitutional) · [O](../core_05o_oversight_definitions.md#oversight-constitutional) · [E](../core_05o_oversight_definitions.md#oversight-constitutional-e) · [C](../core_05o_oversight_definitions.md#oversight-constitutional-c)
+- [Material](../core_05o_oversight_definitions.md#material) · [O](../core_05o_oversight_definitions.md#material) · [E](../core_05o_oversight_definitions.md#material-e) · [C](../core_05o_oversight_definitions.md#material-c)
+- [Sentient](../core_05p_participation_definitions.md#sentient-composite) · [O](../core_05p_participation_definitions.md#sentient-composite) · [E](../core_05p_participation_definitions.md#sentient-composite-e) · [C](../core_05i_integrative_definitions.md#sentient-composite-c)
+- [Consent](../core_05p_participation_definitions.md#consent-constitutional) · [O](../core_05p_participation_definitions.md#consent-constitutional) · [E](../core_05p_participation_definitions.md#consent-constitutional-e) · [C](../core_05p_participation_definitions.md#consent-constitutional-c)
+- [System](../core_05c_continuity_definitions.md#system-definition) · [O](../core_05c_continuity_definitions.md#system-definition) · [E](../core_05c_continuity_definitions.md#system-definition-e) · [C](../core_05c_continuity_definitions.md#system-definition-c)
+- [Risk](../core_05c_continuity_definitions.md#risk) · [O](../core_05c_continuity_definitions.md#risk) · [E](../core_05c_continuity_definitions.md#risk-e) · [C](../core_05c_continuity_definitions.md#risk-c)
 
 </details>
 
@@ -312,20 +312,20 @@ User agency and control
 - Read with: **CJS-5.16 — Dependency Awareness, Disclosure, and Risk Integrity** where dependencies matter
 - Read with: **Article XV-A**
 - Read with: **Article VII-B**
-- Constitutional frame: **Participation** leg; **Flourishing** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality Determination](../core_05-05_definitions_b_semi_independent.md#materiality-determination).
+- Constitutional frame: **Participation** leg; **Flourishing** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality Determination](../core_05o_oversight_definitions.md#materiality-determination).
 - Chapter One basis: §3.2, §6.2, §7.1, §8 (see [CJS-5.1](#cjs-51-constitutional-compass-and-cluster-map) map).
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
 
-- [Accountability](../core_05-05_definitions_b_semi_independent.md#accountability) · [O](../core_05-05_definitions_b_semi_independent.md#accountability) · [E](../core_05-05_definitions_b_semi_independent.md#accountability-e) · [C](../core_05-05_definitions_b_semi_independent.md#accountability-c)
-- [Observability](../core_05-05_definitions_c_dependent_clusters.md#observability) · [O](../core_05-05_definitions_c_dependent_clusters.md#observability) · [E](../core_05-05_definitions_c_dependent_clusters.md#observability-e) · [C](../core_05-05_definitions_c_dependent_clusters.md#observability-c)
-- [Transparency](../core_05-05_definitions_c_dependent_clusters.md#transparency) · [O](../core_05-05_definitions_c_dependent_clusters.md#transparency) · [E](../core_05-05_definitions_c_dependent_clusters.md#transparency-e) · [C](../core_05-05_definitions_c_dependent_clusters.md#transparency-c)
-- [Dependency](../core_05-05_definitions_a_independent.md#dependency) · [O](../core_05-05_definitions_a_independent.md#dependency) · [E](../core_05-05_definitions_a_independent.md#dependency-e) · [C](../core_05-05_definitions_a_independent.md#dependency-c)
-- [Oversight](../core_05-05_definitions_a_independent.md#oversight-constitutional) · [O](../core_05-05_definitions_a_independent.md#oversight-constitutional) · [E](../core_05-05_definitions_a_independent.md#oversight-constitutional-e) · [C](../core_05-05_definitions_a_independent.md#oversight-constitutional-c)
-- [Material](../core_05-05_definitions_b_semi_independent.md#material) · [O](../core_05-05_definitions_b_semi_independent.md#material) · [E](../core_05-05_definitions_b_semi_independent.md#material-e) · [C](../core_05-05_definitions_b_semi_independent.md#material-c)
-- [Consent](../core_05-05_definitions_b_semi_independent.md#consent-constitutional) · [O](../core_05-05_definitions_b_semi_independent.md#consent-constitutional) · [E](../core_05-05_definitions_b_semi_independent.md#consent-constitutional-e) · [C](../core_05-05_definitions_b_semi_independent.md#consent-constitutional-c)
+- [Accountability](../core_05a_accountability_definitions.md#accountability) · [O](../core_05a_accountability_definitions.md#accountability) · [E](../core_05a_accountability_definitions.md#accountability-e) · [C](../core_05a_accountability_definitions.md#accountability-c)
+- [Observability](../core_05o_oversight_definitions.md#observability) · [O](../core_05o_oversight_definitions.md#observability) · [E](../core_05o_oversight_definitions.md#observability-e) · [C](../core_05o_oversight_definitions.md#observability-c)
+- [Transparency](../core_05o_oversight_definitions.md#transparency) · [O](../core_05o_oversight_definitions.md#transparency) · [E](../core_05o_oversight_definitions.md#transparency-e) · [C](../core_05o_oversight_definitions.md#transparency-c)
+- [Dependency](../core_05c_continuity_definitions.md#dependency) · [O](../core_05c_continuity_definitions.md#dependency) · [E](../core_05c_continuity_definitions.md#dependency-e) · [C](../core_05c_continuity_definitions.md#dependency-c)
+- [Oversight](../core_05o_oversight_definitions.md#oversight-constitutional) · [O](../core_05o_oversight_definitions.md#oversight-constitutional) · [E](../core_05o_oversight_definitions.md#oversight-constitutional-e) · [C](../core_05o_oversight_definitions.md#oversight-constitutional-c)
+- [Material](../core_05o_oversight_definitions.md#material) · [O](../core_05o_oversight_definitions.md#material) · [E](../core_05o_oversight_definitions.md#material-e) · [C](../core_05o_oversight_definitions.md#material-c)
+- [Consent](../core_05p_participation_definitions.md#consent-constitutional) · [O](../core_05p_participation_definitions.md#consent-constitutional) · [E](../core_05p_participation_definitions.md#consent-constitutional-e) · [C](../core_05p_participation_definitions.md#consent-constitutional-c)
 
 </details>
 

@@ -11,13 +11,13 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
 
-- [Proportionality](../core_05-05_definitions_a_independent.md#proportionality) · [O](../core_05-05_definitions_a_independent.md#proportionality) · [E](../core_05-05_definitions_a_independent.md#proportionality-e) · [C](../core_05-05_definitions_a_independent.md#proportionality-c)
-- [Accessibility](../core_05-05_definitions_a_independent.md#accessibility-constitutional) · [O](../core_05-05_definitions_a_independent.md#accessibility-constitutional) · [E](../core_05-05_definitions_a_independent.md#accessibility-constitutional-e) · [C](../core_05-05_definitions_a_independent.md#accessibility-constitutional-c)
-- [Dependency](../core_05-05_definitions_a_independent.md#dependency) · [O](../core_05-05_definitions_a_independent.md#dependency) · [E](../core_05-05_definitions_a_independent.md#dependency-e) · [C](../core_05-05_definitions_a_independent.md#dependency-c)
-- [Governance](../core_05-05_definitions_b_semi_independent.md#governance) · [O](../core_05-05_definitions_b_semi_independent.md#governance) · [E](../core_05-05_definitions_b_semi_independent.md#governance-e) · [C](../core_05-05_definitions_b_semi_independent.md#governance-c)
-- [Necessity](../core_05-05_definitions_a_independent.md#necessity) · [O](../core_05-05_definitions_a_independent.md#necessity) · [E](../core_05-05_definitions_a_independent.md#necessity-e) · [C](../core_05-05_definitions_a_independent.md#necessity-c)
-- [Material](../core_05-05_definitions_b_semi_independent.md#material) · [O](../core_05-05_definitions_b_semi_independent.md#material) · [E](../core_05-05_definitions_b_semi_independent.md#material-e) · [C](../core_05-05_definitions_b_semi_independent.md#material-c)
-- [Family and Care Relationships](../core_05-05_definitions_b_semi_independent.md#family-and-care-relationships-constitutional) · [O](../core_05-05_definitions_b_semi_independent.md#family-and-care-relationships-constitutional) · [E](../core_05-05_definitions_b_semi_independent.md#family-and-care-relationships-constitutional-e) · [C](../core_05-05_definitions_b_semi_independent.md#family-and-care-relationships-constitutional-c)
+- [Proportionality](../core_05a_accountability_definitions.md#proportionality) · [O](../core_05a_accountability_definitions.md#proportionality) · [E](../core_05a_accountability_definitions.md#proportionality-e) · [C](../core_05a_accountability_definitions.md#proportionality-c)
+- [Accessibility](../core_05p_participation_definitions.md#accessibility-constitutional) · [O](../core_05p_participation_definitions.md#accessibility-constitutional) · [E](../core_05p_participation_definitions.md#accessibility-constitutional-e) · [C](../core_05p_participation_definitions.md#accessibility-constitutional-c)
+- [Dependency](../core_05c_continuity_definitions.md#dependency) · [O](../core_05c_continuity_definitions.md#dependency) · [E](../core_05c_continuity_definitions.md#dependency-e) · [C](../core_05c_continuity_definitions.md#dependency-c)
+- [Governance](../core_05a_accountability_definitions.md#governance) · [O](../core_05a_accountability_definitions.md#governance) · [E](../core_05a_accountability_definitions.md#governance-e) · [C](../core_05a_accountability_definitions.md#governance-c)
+- [Necessity](../core_05a_accountability_definitions.md#necessity) · [O](../core_05a_accountability_definitions.md#necessity) · [E](../core_05a_accountability_definitions.md#necessity-e) · [C](../core_05a_accountability_definitions.md#necessity-c)
+- [Material](../core_05o_oversight_definitions.md#material) · [O](../core_05o_oversight_definitions.md#material) · [E](../core_05o_oversight_definitions.md#material-e) · [C](../core_05o_oversight_definitions.md#material-c)
+- [Family and Care Relationships](../core_05p_participation_definitions.md#family-and-care-relationships-constitutional) · [O](../core_05p_participation_definitions.md#family-and-care-relationships-constitutional) · [E](../core_05p_participation_definitions.md#family-and-care-relationships-constitutional-e) · [C](../core_05p_participation_definitions.md#family-and-care-relationships-constitutional-c)
 
 </details>
 
@@ -43,7 +43,7 @@
 - **Article VII-D** (*Family, Care Relationships, Reproductive Autonomy, and Non-Separation*) in **Chapter Ten** — family and care relationships, reproductive autonomy, and non-separation floors.
 - **Article III-D** (*Labor and Economic Floor*) in **Chapter Ten** — fair compensation, collective organization, safe conditions, and leisure and rest for productive activity, including care work where material.
 - **Article III-C** (*Bodily-Maintenance and Healthcare Access*) in **Chapter Ten** — bodily-maintenance and healthcare access for dependents without proxy denial.
-- **Chapter Five** [*Family and Care Relationships*](../core_05-05_definitions_b_semi_independent.md#family-and-care-relationships-constitutional) — definitional home for care-relationship duties alongside **Article VII-D**.
+- **Chapter Five** [*Family and Care Relationships*](../core_05p_participation_definitions.md#family-and-care-relationships-constitutional) — definitional home for care-relationship duties alongside **Article VII-D**.
 - **CI-9.4** — survival floors, voluntary exchange, and markets (**Article III-A** interface): essential access cannot depend on unpaid care labor or premium purchasing.
 - **CI-10** — public revenue, fees, recurring charges, and billing integrity: charge design must not defeat care or respite access in practice.
 - **Protocol S5** (*Resource Allocation and Funding Stewardship*) in `corpus_systems.md` — funding stewardship, dependent-systems mapping, and auditable allocation for care-adjacent resource flows.

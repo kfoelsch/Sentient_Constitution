@@ -31,7 +31,7 @@ from ch5_paths import CH5_ALL  # noqa: E402
 from corpus_paths import binding_corpus_scope  # noqa: E402
 
 CH5_FILE_PATTERN = re.compile(
-    r"\]\((core_05-05_definitions_(?:a_independent|b_semi_independent|c_dependent_clusters)\.md)#([^)]+)\)"
+    r"\]\((core_05(?:-05_definitions_a_independent|o_oversight_definitions|p_participation_definitions|a_accountability_definitions|c_continuity_definitions|i_integrative_definitions)\.md)#([^)]+)\)"
 )
 
 def parse_args() -> argparse.Namespace:

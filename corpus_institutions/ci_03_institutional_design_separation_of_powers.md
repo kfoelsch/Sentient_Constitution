@@ -14,13 +14,13 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
 
-- [Authority Stack and Internal Hierarchy](../core_05-05_definitions_c_dependent_clusters.md#authority-stack) · [O](../core_05-05_definitions_c_dependent_clusters.md#authority-stack) · [E](../core_05-05_definitions_c_dependent_clusters.md#authority-stack-e) · [C](../core_05-05_definitions_c_dependent_clusters.md#authority-stack-c)
-- [Accountability](../core_05-05_definitions_b_semi_independent.md#accountability) · [O](../core_05-05_definitions_b_semi_independent.md#accountability) · [E](../core_05-05_definitions_b_semi_independent.md#accountability-e) · [C](../core_05-05_definitions_b_semi_independent.md#accountability-c)
-- [System Capture](../core_05-05_definitions_a_independent.md#system-capture) · [O](../core_05-05_definitions_a_independent.md#system-capture) · [E](../core_05-05_definitions_a_independent.md#system-capture-e) · [C](../core_05-05_definitions_a_independent.md#system-capture-c)
-- [Material Risk](../core_05-05_definitions_b_semi_independent.md#material-risk) · [O](../core_05-05_definitions_b_semi_independent.md#material-risk) · [E](../core_05-05_definitions_b_semi_independent.md#material-risk-e) · [C](../core_05-05_definitions_b_semi_independent.md#material-risk-c)
-- [Governance](../core_05-05_definitions_b_semi_independent.md#governance) · [O](../core_05-05_definitions_b_semi_independent.md#governance) · [E](../core_05-05_definitions_b_semi_independent.md#governance-e) · [C](../core_05-05_definitions_b_semi_independent.md#governance-c)
-- [Material](../core_05-05_definitions_b_semi_independent.md#material) · [O](../core_05-05_definitions_b_semi_independent.md#material) · [E](../core_05-05_definitions_b_semi_independent.md#material-e) · [C](../core_05-05_definitions_b_semi_independent.md#material-c)
-- [Corpus](../core_05-05_definitions_c_dependent_clusters.md#corpus) · [O](../core_05-05_definitions_c_dependent_clusters.md#corpus) · [E](../core_05-05_definitions_c_dependent_clusters.md#corpus-e) · [C](../core_05-05_definitions_c_dependent_clusters.md#corpus-c)
+- [Authority Stack and Internal Hierarchy](../core_05i_integrative_definitions.md#authority-stack) · [O](../core_05i_integrative_definitions.md#authority-stack) · [E](../core_05i_integrative_definitions.md#authority-stack-e) · [C](../core_05i_integrative_definitions.md#authority-stack-c)
+- [Accountability](../core_05a_accountability_definitions.md#accountability) · [O](../core_05a_accountability_definitions.md#accountability) · [E](../core_05a_accountability_definitions.md#accountability-e) · [C](../core_05a_accountability_definitions.md#accountability-c)
+- [System Capture](../core_05c_continuity_definitions.md#system-capture) · [O](../core_05c_continuity_definitions.md#system-capture) · [E](../core_05c_continuity_definitions.md#system-capture-e) · [C](../core_05c_continuity_definitions.md#system-capture-c)
+- [Material Risk](../core_05o_oversight_definitions.md#material-risk) · [O](../core_05o_oversight_definitions.md#material-risk) · [E](../core_05o_oversight_definitions.md#material-risk-e) · [C](../core_05o_oversight_definitions.md#material-risk-c)
+- [Governance](../core_05a_accountability_definitions.md#governance) · [O](../core_05a_accountability_definitions.md#governance) · [E](../core_05a_accountability_definitions.md#governance-e) · [C](../core_05a_accountability_definitions.md#governance-c)
+- [Material](../core_05o_oversight_definitions.md#material) · [O](../core_05o_oversight_definitions.md#material) · [E](../core_05o_oversight_definitions.md#material-e) · [C](../core_05o_oversight_definitions.md#material-c)
+- [Corpus](../core_05i_integrative_definitions.md#corpus) · [O](../core_05i_integrative_definitions.md#corpus) · [E](../core_05i_integrative_definitions.md#corpus-e) · [C](../core_05i_integrative_definitions.md#corpus-c)
 
 </details>
 
@@ -50,13 +50,13 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
 
-- [Material Risk](../core_05-05_definitions_b_semi_independent.md#material-risk) · [O](../core_05-05_definitions_b_semi_independent.md#material-risk) · [E](../core_05-05_definitions_b_semi_independent.md#material-risk-e) · [C](../core_05-05_definitions_b_semi_independent.md#material-risk-c)
-- [Material](../core_05-05_definitions_b_semi_independent.md#material) · [O](../core_05-05_definitions_b_semi_independent.md#material) · [E](../core_05-05_definitions_b_semi_independent.md#material-e) · [C](../core_05-05_definitions_b_semi_independent.md#material-c)
-- [Governance](../core_05-05_definitions_b_semi_independent.md#governance) · [O](../core_05-05_definitions_b_semi_independent.md#governance) · [E](../core_05-05_definitions_b_semi_independent.md#governance-e) · [C](../core_05-05_definitions_b_semi_independent.md#governance-c)
-- [Authority Stack and Internal Hierarchy](../core_05-05_definitions_c_dependent_clusters.md#authority-stack) · [O](../core_05-05_definitions_c_dependent_clusters.md#authority-stack) · [E](../core_05-05_definitions_c_dependent_clusters.md#authority-stack-e) · [C](../core_05-05_definitions_c_dependent_clusters.md#authority-stack-c)
-- [System Capture](../core_05-05_definitions_a_independent.md#system-capture) · [O](../core_05-05_definitions_a_independent.md#system-capture) · [E](../core_05-05_definitions_a_independent.md#system-capture-e) · [C](../core_05-05_definitions_a_independent.md#system-capture-c)
-- [Accountability](../core_05-05_definitions_b_semi_independent.md#accountability) · [O](../core_05-05_definitions_b_semi_independent.md#accountability) · [E](../core_05-05_definitions_b_semi_independent.md#accountability-e) · [C](../core_05-05_definitions_b_semi_independent.md#accountability-c)
-- [Risk](../core_05-05_definitions_a_independent.md#risk) · [O](../core_05-05_definitions_a_independent.md#risk) · [E](../core_05-05_definitions_a_independent.md#risk-e) · [C](../core_05-05_definitions_a_independent.md#risk-c)
+- [Material Risk](../core_05o_oversight_definitions.md#material-risk) · [O](../core_05o_oversight_definitions.md#material-risk) · [E](../core_05o_oversight_definitions.md#material-risk-e) · [C](../core_05o_oversight_definitions.md#material-risk-c)
+- [Material](../core_05o_oversight_definitions.md#material) · [O](../core_05o_oversight_definitions.md#material) · [E](../core_05o_oversight_definitions.md#material-e) · [C](../core_05o_oversight_definitions.md#material-c)
+- [Governance](../core_05a_accountability_definitions.md#governance) · [O](../core_05a_accountability_definitions.md#governance) · [E](../core_05a_accountability_definitions.md#governance-e) · [C](../core_05a_accountability_definitions.md#governance-c)
+- [Authority Stack and Internal Hierarchy](../core_05i_integrative_definitions.md#authority-stack) · [O](../core_05i_integrative_definitions.md#authority-stack) · [E](../core_05i_integrative_definitions.md#authority-stack-e) · [C](../core_05i_integrative_definitions.md#authority-stack-c)
+- [System Capture](../core_05c_continuity_definitions.md#system-capture) · [O](../core_05c_continuity_definitions.md#system-capture) · [E](../core_05c_continuity_definitions.md#system-capture-e) · [C](../core_05c_continuity_definitions.md#system-capture-c)
+- [Accountability](../core_05a_accountability_definitions.md#accountability) · [O](../core_05a_accountability_definitions.md#accountability) · [E](../core_05a_accountability_definitions.md#accountability-e) · [C](../core_05a_accountability_definitions.md#accountability-c)
+- [Risk](../core_05c_continuity_definitions.md#risk) · [O](../core_05c_continuity_definitions.md#risk) · [E](../core_05c_continuity_definitions.md#risk-e) · [C](../core_05c_continuity_definitions.md#risk-c)
 
 </details>
 
@@ -83,13 +83,13 @@ Additional non-delegable duties must be listed.
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
 
-- [Governance](../core_05-05_definitions_b_semi_independent.md#governance) · [O](../core_05-05_definitions_b_semi_independent.md#governance) · [E](../core_05-05_definitions_b_semi_independent.md#governance-e) · [C](../core_05-05_definitions_b_semi_independent.md#governance-c)
-- [Authority Stack and Internal Hierarchy](../core_05-05_definitions_c_dependent_clusters.md#authority-stack) · [O](../core_05-05_definitions_c_dependent_clusters.md#authority-stack) · [E](../core_05-05_definitions_c_dependent_clusters.md#authority-stack-e) · [C](../core_05-05_definitions_c_dependent_clusters.md#authority-stack-c)
-- [System Capture](../core_05-05_definitions_a_independent.md#system-capture) · [O](../core_05-05_definitions_a_independent.md#system-capture) · [E](../core_05-05_definitions_a_independent.md#system-capture-e) · [C](../core_05-05_definitions_a_independent.md#system-capture-c)
-- [Oversight](../core_05-05_definitions_a_independent.md#oversight-constitutional) · [O](../core_05-05_definitions_a_independent.md#oversight-constitutional) · [E](../core_05-05_definitions_a_independent.md#oversight-constitutional-e) · [C](../core_05-05_definitions_a_independent.md#oversight-constitutional-c)
-- [Auditability](../core_05-05_definitions_c_dependent_clusters.md#auditability) · [O](../core_05-05_definitions_c_dependent_clusters.md#auditability) · [E](../core_05-05_definitions_c_dependent_clusters.md#auditability-e) · [C](../core_05-05_definitions_c_dependent_clusters.md#auditability-c)
-- [Concentration Threshold](../core_05-05_definitions_b_semi_independent.md#concentration-threshold-constitutional) · [O](../core_05-05_definitions_b_semi_independent.md#concentration-threshold-constitutional) · [E](../core_05-05_definitions_b_semi_independent.md#concentration-threshold-constitutional-e) · [C](../core_05-05_definitions_b_semi_independent.md#concentration-threshold-constitutional-c)
-- [Contestability](../core_05-05_definitions_b_semi_independent.md#contestability) · [O](../core_05-05_definitions_b_semi_independent.md#contestability) · [E](../core_05-05_definitions_b_semi_independent.md#contestability-e) · [C](../core_05-05_definitions_b_semi_independent.md#contestability-c)
+- [Governance](../core_05a_accountability_definitions.md#governance) · [O](../core_05a_accountability_definitions.md#governance) · [E](../core_05a_accountability_definitions.md#governance-e) · [C](../core_05a_accountability_definitions.md#governance-c)
+- [Authority Stack and Internal Hierarchy](../core_05i_integrative_definitions.md#authority-stack) · [O](../core_05i_integrative_definitions.md#authority-stack) · [E](../core_05i_integrative_definitions.md#authority-stack-e) · [C](../core_05i_integrative_definitions.md#authority-stack-c)
+- [System Capture](../core_05c_continuity_definitions.md#system-capture) · [O](../core_05c_continuity_definitions.md#system-capture) · [E](../core_05c_continuity_definitions.md#system-capture-e) · [C](../core_05c_continuity_definitions.md#system-capture-c)
+- [Oversight](../core_05o_oversight_definitions.md#oversight-constitutional) · [O](../core_05o_oversight_definitions.md#oversight-constitutional) · [E](../core_05o_oversight_definitions.md#oversight-constitutional-e) · [C](../core_05o_oversight_definitions.md#oversight-constitutional-c)
+- [Auditability](../core_05o_oversight_definitions.md#auditability) · [O](../core_05o_oversight_definitions.md#auditability) · [E](../core_05o_oversight_definitions.md#auditability-e) · [C](../core_05o_oversight_definitions.md#auditability-c)
+- [Concentration Threshold](../core_05a_accountability_definitions.md#concentration-threshold-constitutional) · [O](../core_05a_accountability_definitions.md#concentration-threshold-constitutional) · [E](../core_05a_accountability_definitions.md#concentration-threshold-constitutional-e) · [C](../core_05a_accountability_definitions.md#concentration-threshold-constitutional-c)
+- [Contestability](../core_05a_accountability_definitions.md#contestability) · [O](../core_05a_accountability_definitions.md#contestability) · [E](../core_05a_accountability_definitions.md#contestability-e) · [C](../core_05a_accountability_definitions.md#contestability-c)
 
 </details>
 
@@ -114,10 +114,10 @@ This subsection states institutional owner duties: each institution must publish
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
 
-- [Governance](../core_05-05_definitions_b_semi_independent.md#governance) · [O](../core_05-05_definitions_b_semi_independent.md#governance) · [E](../core_05-05_definitions_b_semi_independent.md#governance-e) · [C](../core_05-05_definitions_b_semi_independent.md#governance-c)
-- [Authority Stack and Internal Hierarchy](../core_05-05_definitions_c_dependent_clusters.md#authority-stack) · [O](../core_05-05_definitions_c_dependent_clusters.md#authority-stack) · [E](../core_05-05_definitions_c_dependent_clusters.md#authority-stack-e) · [C](../core_05-05_definitions_c_dependent_clusters.md#authority-stack-c)
-- [System Capture](../core_05-05_definitions_a_independent.md#system-capture) · [O](../core_05-05_definitions_a_independent.md#system-capture) · [E](../core_05-05_definitions_a_independent.md#system-capture-e) · [C](../core_05-05_definitions_a_independent.md#system-capture-c)
-- [Review and Correction Duty](../core_05-05_definitions_b_semi_independent.md#review-and-correction-duty-constitutional) · [O](../core_05-05_definitions_b_semi_independent.md#review-and-correction-duty-constitutional) · [E](../core_05-05_definitions_b_semi_independent.md#review-and-correction-duty-constitutional-e) · [C](../core_05-05_definitions_b_semi_independent.md#review-and-correction-duty-constitutional-c)
+- [Governance](../core_05a_accountability_definitions.md#governance) · [O](../core_05a_accountability_definitions.md#governance) · [E](../core_05a_accountability_definitions.md#governance-e) · [C](../core_05a_accountability_definitions.md#governance-c)
+- [Authority Stack and Internal Hierarchy](../core_05i_integrative_definitions.md#authority-stack) · [O](../core_05i_integrative_definitions.md#authority-stack) · [E](../core_05i_integrative_definitions.md#authority-stack-e) · [C](../core_05i_integrative_definitions.md#authority-stack-c)
+- [System Capture](../core_05c_continuity_definitions.md#system-capture) · [O](../core_05c_continuity_definitions.md#system-capture) · [E](../core_05c_continuity_definitions.md#system-capture-e) · [C](../core_05c_continuity_definitions.md#system-capture-c)
+- [Review and Correction Duty](../core_05a_accountability_definitions.md#review-and-correction-duty-constitutional) · [O](../core_05a_accountability_definitions.md#review-and-correction-duty-constitutional) · [E](../core_05a_accountability_definitions.md#review-and-correction-duty-constitutional-e) · [C](../core_05a_accountability_definitions.md#review-and-correction-duty-constitutional-c)
 
 </details>
 
@@ -148,13 +148,13 @@ Delegations must state:
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
 
-- [Proportionality](../core_05-05_definitions_a_independent.md#proportionality) · [O](../core_05-05_definitions_a_independent.md#proportionality) · [E](../core_05-05_definitions_a_independent.md#proportionality-e) · [C](../core_05-05_definitions_a_independent.md#proportionality-c)
-- [Necessity](../core_05-05_definitions_a_independent.md#necessity) · [O](../core_05-05_definitions_a_independent.md#necessity) · [E](../core_05-05_definitions_a_independent.md#necessity-e) · [C](../core_05-05_definitions_a_independent.md#necessity-c)
-- [Governance](../core_05-05_definitions_b_semi_independent.md#governance) · [O](../core_05-05_definitions_b_semi_independent.md#governance) · [E](../core_05-05_definitions_b_semi_independent.md#governance-e) · [C](../core_05-05_definitions_b_semi_independent.md#governance-c)
-- [Authority Stack and Internal Hierarchy](../core_05-05_definitions_c_dependent_clusters.md#authority-stack) · [O](../core_05-05_definitions_c_dependent_clusters.md#authority-stack) · [E](../core_05-05_definitions_c_dependent_clusters.md#authority-stack-e) · [C](../core_05-05_definitions_c_dependent_clusters.md#authority-stack-c)
-- [System Capture](../core_05-05_definitions_a_independent.md#system-capture) · [O](../core_05-05_definitions_a_independent.md#system-capture) · [E](../core_05-05_definitions_a_independent.md#system-capture-e) · [C](../core_05-05_definitions_a_independent.md#system-capture-c)
-- [Emergency and Contingency](../core_05-05_definitions_b_semi_independent.md#emergency-and-contingency-constitutional) · [O](../core_05-05_definitions_b_semi_independent.md#emergency-and-contingency-constitutional) · [E](../core_05-05_definitions_b_semi_independent.md#emergency-and-contingency-constitutional-e) · [C](../core_05-05_definitions_b_semi_independent.md#emergency-and-contingency-constitutional-c)
-- [Review and Correction Duty](../core_05-05_definitions_b_semi_independent.md#review-and-correction-duty-constitutional) · [O](../core_05-05_definitions_b_semi_independent.md#review-and-correction-duty-constitutional) · [E](../core_05-05_definitions_b_semi_independent.md#review-and-correction-duty-constitutional-e) · [C](../core_05-05_definitions_b_semi_independent.md#review-and-correction-duty-constitutional-c)
+- [Proportionality](../core_05a_accountability_definitions.md#proportionality) · [O](../core_05a_accountability_definitions.md#proportionality) · [E](../core_05a_accountability_definitions.md#proportionality-e) · [C](../core_05a_accountability_definitions.md#proportionality-c)
+- [Necessity](../core_05a_accountability_definitions.md#necessity) · [O](../core_05a_accountability_definitions.md#necessity) · [E](../core_05a_accountability_definitions.md#necessity-e) · [C](../core_05a_accountability_definitions.md#necessity-c)
+- [Governance](../core_05a_accountability_definitions.md#governance) · [O](../core_05a_accountability_definitions.md#governance) · [E](../core_05a_accountability_definitions.md#governance-e) · [C](../core_05a_accountability_definitions.md#governance-c)
+- [Authority Stack and Internal Hierarchy](../core_05i_integrative_definitions.md#authority-stack) · [O](../core_05i_integrative_definitions.md#authority-stack) · [E](../core_05i_integrative_definitions.md#authority-stack-e) · [C](../core_05i_integrative_definitions.md#authority-stack-c)
+- [System Capture](../core_05c_continuity_definitions.md#system-capture) · [O](../core_05c_continuity_definitions.md#system-capture) · [E](../core_05c_continuity_definitions.md#system-capture-e) · [C](../core_05c_continuity_definitions.md#system-capture-c)
+- [Emergency and Contingency](../core_05c_continuity_definitions.md#emergency-and-contingency-constitutional) · [O](../core_05c_continuity_definitions.md#emergency-and-contingency-constitutional) · [E](../core_05c_continuity_definitions.md#emergency-and-contingency-constitutional-e) · [C](../core_05c_continuity_definitions.md#emergency-and-contingency-constitutional-c)
+- [Review and Correction Duty](../core_05a_accountability_definitions.md#review-and-correction-duty-constitutional) · [O](../core_05a_accountability_definitions.md#review-and-correction-duty-constitutional) · [E](../core_05a_accountability_definitions.md#review-and-correction-duty-constitutional-e) · [C](../core_05a_accountability_definitions.md#review-and-correction-duty-constitutional-c)
 
 </details>
 
@@ -177,12 +177,12 @@ Emergency delegation is permitted only for necessity and proportionality reasons
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
 
-- [Material](../core_05-05_definitions_b_semi_independent.md#material) · [O](../core_05-05_definitions_b_semi_independent.md#material) · [E](../core_05-05_definitions_b_semi_independent.md#material-e) · [C](../core_05-05_definitions_b_semi_independent.md#material-c)
-- [Governance](../core_05-05_definitions_b_semi_independent.md#governance) · [O](../core_05-05_definitions_b_semi_independent.md#governance) · [E](../core_05-05_definitions_b_semi_independent.md#governance-e) · [C](../core_05-05_definitions_b_semi_independent.md#governance-c)
-- [Authority Stack and Internal Hierarchy](../core_05-05_definitions_c_dependent_clusters.md#authority-stack) · [O](../core_05-05_definitions_c_dependent_clusters.md#authority-stack) · [E](../core_05-05_definitions_c_dependent_clusters.md#authority-stack-e) · [C](../core_05-05_definitions_c_dependent_clusters.md#authority-stack-c)
-- [System Capture](../core_05-05_definitions_a_independent.md#system-capture) · [O](../core_05-05_definitions_a_independent.md#system-capture) · [E](../core_05-05_definitions_a_independent.md#system-capture-e) · [C](../core_05-05_definitions_a_independent.md#system-capture-c)
-- [Review and Correction Duty](../core_05-05_definitions_b_semi_independent.md#review-and-correction-duty-constitutional) · [O](../core_05-05_definitions_b_semi_independent.md#review-and-correction-duty-constitutional) · [E](../core_05-05_definitions_b_semi_independent.md#review-and-correction-duty-constitutional-e) · [C](../core_05-05_definitions_b_semi_independent.md#review-and-correction-duty-constitutional-c)
-- [Risk](../core_05-05_definitions_a_independent.md#risk) · [O](../core_05-05_definitions_a_independent.md#risk) · [E](../core_05-05_definitions_a_independent.md#risk-e) · [C](../core_05-05_definitions_a_independent.md#risk-c)
+- [Material](../core_05o_oversight_definitions.md#material) · [O](../core_05o_oversight_definitions.md#material) · [E](../core_05o_oversight_definitions.md#material-e) · [C](../core_05o_oversight_definitions.md#material-c)
+- [Governance](../core_05a_accountability_definitions.md#governance) · [O](../core_05a_accountability_definitions.md#governance) · [E](../core_05a_accountability_definitions.md#governance-e) · [C](../core_05a_accountability_definitions.md#governance-c)
+- [Authority Stack and Internal Hierarchy](../core_05i_integrative_definitions.md#authority-stack) · [O](../core_05i_integrative_definitions.md#authority-stack) · [E](../core_05i_integrative_definitions.md#authority-stack-e) · [C](../core_05i_integrative_definitions.md#authority-stack-c)
+- [System Capture](../core_05c_continuity_definitions.md#system-capture) · [O](../core_05c_continuity_definitions.md#system-capture) · [E](../core_05c_continuity_definitions.md#system-capture-e) · [C](../core_05c_continuity_definitions.md#system-capture-c)
+- [Review and Correction Duty](../core_05a_accountability_definitions.md#review-and-correction-duty-constitutional) · [O](../core_05a_accountability_definitions.md#review-and-correction-duty-constitutional) · [E](../core_05a_accountability_definitions.md#review-and-correction-duty-constitutional-e) · [C](../core_05a_accountability_definitions.md#review-and-correction-duty-constitutional-c)
+- [Risk](../core_05c_continuity_definitions.md#risk) · [O](../core_05c_continuity_definitions.md#risk) · [E](../core_05c_continuity_definitions.md#risk-e) · [C](../core_05c_continuity_definitions.md#risk-c)
 
 </details>
 

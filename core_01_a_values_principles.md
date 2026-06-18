@@ -24,11 +24,11 @@ This file is **part of the Sentient Constitution** and is **binding only togethe
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
 
-- [Corpus](core_05-05_definitions_c_dependent_clusters.md#corpus) · [O](core_05-05_definitions_c_dependent_clusters.md#corpus) · [E](core_05-05_definitions_c_dependent_clusters.md#corpus-e) · [C](core_05-05_definitions_c_dependent_clusters.md#corpus-c)
-- [Authority Stack and Internal Hierarchy](core_05-05_definitions_c_dependent_clusters.md#authority-stack) · [O](core_05-05_definitions_c_dependent_clusters.md#authority-stack) · [E](core_05-05_definitions_c_dependent_clusters.md#authority-stack-e) · [C](core_05-05_definitions_c_dependent_clusters.md#authority-stack-c)
-- [Supremacy and Enforceability](core_05-05_definitions_c_dependent_clusters.md#supremacy-and-enforceability) · [O](core_05-05_definitions_c_dependent_clusters.md#supremacy-and-enforceability) · [E](core_05-05_definitions_c_dependent_clusters.md#supremacy-and-enforceability-e) · [C](core_05-05_definitions_c_dependent_clusters.md#supremacy-and-enforceability-c)
-- [Proportionality](core_05-05_definitions_a_independent.md#proportionality) · [O](core_05-05_definitions_a_independent.md#proportionality) · [E](core_05-05_definitions_a_independent.md#proportionality-e) · [C](core_05-05_definitions_a_independent.md#proportionality-c)
-- [Necessity](core_05-05_definitions_a_independent.md#necessity) · [O](core_05-05_definitions_a_independent.md#necessity) · [E](core_05-05_definitions_a_independent.md#necessity-e) · [C](core_05-05_definitions_a_independent.md#necessity-c)
+- [Corpus](core_05i_integrative_definitions.md#corpus) · [O](core_05i_integrative_definitions.md#corpus) · [E](core_05i_integrative_definitions.md#corpus-e) · [C](core_05i_integrative_definitions.md#corpus-c)
+- [Authority Stack and Internal Hierarchy](core_05i_integrative_definitions.md#authority-stack) · [O](core_05i_integrative_definitions.md#authority-stack) · [E](core_05i_integrative_definitions.md#authority-stack-e) · [C](core_05i_integrative_definitions.md#authority-stack-c)
+- [Supremacy and Enforceability](core_05i_integrative_definitions.md#supremacy-and-enforceability) · [O](core_05i_integrative_definitions.md#supremacy-and-enforceability) · [E](core_05i_integrative_definitions.md#supremacy-and-enforceability-e) · [C](core_05i_integrative_definitions.md#supremacy-and-enforceability-c)
+- [Proportionality](core_05a_accountability_definitions.md#proportionality) · [O](core_05a_accountability_definitions.md#proportionality) · [E](core_05a_accountability_definitions.md#proportionality-e) · [C](core_05a_accountability_definitions.md#proportionality-c)
+- [Necessity](core_05a_accountability_definitions.md#necessity) · [O](core_05a_accountability_definitions.md#necessity) · [E](core_05a_accountability_definitions.md#necessity-e) · [C](core_05a_accountability_definitions.md#necessity-c)
 
 </details>
 
@@ -58,7 +58,7 @@ Where ambiguity remains after integrated reading, interpretation must also favor
 
 #### 1.3 Internal hierarchy (last-resort rule)
 
-Within the binding constitutional source, **Chapter One principles** govern high-level constitutional direction. **Article-level obligations and Rights Floors** govern specific operative requirements. The canonical statement of this rule — including its boundary with source-layer authority and its application to adopters under **Chapter Twelve §3.1** — lives in the [Authority Stack and Internal Hierarchy](core_05-05_definitions_c_dependent_clusters.md#authority-stack) cluster in Chapter Five.
+Within the binding constitutional source, **Chapter One principles** govern high-level constitutional direction. **Article-level obligations and Rights Floors** govern specific operative requirements. The canonical statement of this rule — including its boundary with source-layer authority and its application to adopters under **Chapter Twelve §3.1** — lives in the [Authority Stack and Internal Hierarchy](core_05i_integrative_definitions.md#authority-stack) cluster in Chapter Five.
 
 If a genuine incompatibility remains after reading the Constitution as an integrated whole:
 - principles control over articles
@@ -101,8 +101,8 @@ This subsection is the **single canonical procedure** for resolving interpretive
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
 
-- [Proportionality](core_05-05_definitions_a_independent.md#proportionality) · [O](core_05-05_definitions_a_independent.md#proportionality) · [E](core_05-05_definitions_a_independent.md#proportionality-e) · [C](core_05-05_definitions_a_independent.md#proportionality-c)
-- [Necessity](core_05-05_definitions_a_independent.md#necessity) · [O](core_05-05_definitions_a_independent.md#necessity) · [E](core_05-05_definitions_a_independent.md#necessity-e) · [C](core_05-05_definitions_a_independent.md#necessity-c)
+- [Proportionality](core_05a_accountability_definitions.md#proportionality) · [O](core_05a_accountability_definitions.md#proportionality) · [E](core_05a_accountability_definitions.md#proportionality-e) · [C](core_05a_accountability_definitions.md#proportionality-c)
+- [Necessity](core_05a_accountability_definitions.md#necessity) · [O](core_05a_accountability_definitions.md#necessity) · [E](core_05a_accountability_definitions.md#necessity-e) · [C](core_05a_accountability_definitions.md#necessity-c)
 
 </details>
 
@@ -138,18 +138,18 @@ No single principle may be applied in isolation where doing so would materially 
 - Read with: the Chapter Ten Rights Floor generally.
   - Especially [Article V: Equal Basic Rights](core_10-10_rights_part_b.md#article-v-equal-basic-rights), [Article IX: Self-Determination and Agency](core_10-10_rights_part_b.md#article-ix-self-determination-and-agency), [Article XII-B: Right to Challenge, Review, and Redress](core_10-10_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress), and [Article XVIII-B: Contestability and Proportional Restriction Limits](core_10-10_rights_part_c.md#article-xviii-b-contestability-and-proportional-restriction-limits).
   - Apply this where claimed wellbeing gains would justify restrictions on agency, dignity, or contestability.
-  - Especially [Dignity and Equal Moral Standing](core_05-05_definitions_a_independent.md#dignity-and-equal-moral-standing), [Substantive Fairness](core_05-05_definitions_b_semi_independent.md#substantive-fairness-constitutional), and [5. Trust](#5-system-stability-enabler-trust-coordination-integrity) where access, process, distributive alignment, reliance, or coordination integrity is materially at stake.
+  - Especially [Dignity and Equal Moral Standing](core_05p_participation_definitions.md#dignity-and-equal-moral-standing), [Substantive Fairness](core_05p_participation_definitions.md#substantive-fairness-constitutional), and [5. Trust](#5-system-stability-enabler-trust-coordination-integrity) where access, process, distributive alignment, reliance, or coordination integrity is materially at stake.
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
 
-- [Wellbeing](core_05-05_definitions_a_independent.md#wellbeing) · [O](core_05-05_definitions_a_independent.md#wellbeing) · [E](core_05-05_definitions_a_independent.md#wellbeing-e) · [C](core_05-05_definitions_a_independent.md#wellbeing-c)
-- [Dignity and Equal Moral Standing](core_05-05_definitions_a_independent.md#dignity-and-equal-moral-standing) · [O](core_05-05_definitions_a_independent.md#dignity-and-equal-moral-standing) · [E](core_05-05_definitions_a_independent.md#dignity-and-equal-moral-standing-e) · [C](core_05-05_definitions_a_independent.md#dignity-and-equal-moral-standing-c)
-- [Substantive Fairness](core_05-05_definitions_b_semi_independent.md#substantive-fairness-constitutional) · [O](core_05-05_definitions_b_semi_independent.md#substantive-fairness-constitutional) · [E](core_05-05_definitions_b_semi_independent.md#substantive-fairness-constitutional-e) · [C](core_05-05_definitions_b_semi_independent.md#substantive-fairness-constitutional-c)
-- [Materiality](core_05-05_definitions_b_semi_independent.md#materiality-determination) · [O](core_05-05_definitions_b_semi_independent.md#materiality-determination) · [E](core_05-05_definitions_b_semi_independent.md#materiality-determination-e) · [C](core_05-05_definitions_b_semi_independent.md#materiality-determination-c)
-- [Proxy Divergence](core_05-05_definitions_b_semi_independent.md#proxy-divergence) · [O](core_05-05_definitions_b_semi_independent.md#proxy-divergence) · [E](core_05-05_definitions_b_semi_independent.md#proxy-divergence-e) · [C](core_05-05_definitions_b_semi_independent.md#proxy-divergence-c)
+- [Wellbeing](core_05c_continuity_definitions.md#wellbeing) · [O](core_05c_continuity_definitions.md#wellbeing) · [E](core_05c_continuity_definitions.md#wellbeing-e) · [C](core_05c_continuity_definitions.md#wellbeing-c)
+- [Dignity and Equal Moral Standing](core_05p_participation_definitions.md#dignity-and-equal-moral-standing) · [O](core_05p_participation_definitions.md#dignity-and-equal-moral-standing) · [E](core_05p_participation_definitions.md#dignity-and-equal-moral-standing-e) · [C](core_05p_participation_definitions.md#dignity-and-equal-moral-standing-c)
+- [Substantive Fairness](core_05p_participation_definitions.md#substantive-fairness-constitutional) · [O](core_05p_participation_definitions.md#substantive-fairness-constitutional) · [E](core_05p_participation_definitions.md#substantive-fairness-constitutional-e) · [C](core_05p_participation_definitions.md#substantive-fairness-constitutional-c)
+- [Materiality](core_05o_oversight_definitions.md#materiality-determination) · [O](core_05o_oversight_definitions.md#materiality-determination) · [E](core_05o_oversight_definitions.md#materiality-determination-e) · [C](core_05o_oversight_definitions.md#materiality-determination-c)
+- [Proxy Divergence](core_05o_oversight_definitions.md#proxy-divergence) · [O](core_05o_oversight_definitions.md#proxy-divergence) · [E](core_05o_oversight_definitions.md#proxy-divergence-e) · [C](core_05o_oversight_definitions.md#proxy-divergence-c)
 
 </details>
 
@@ -167,28 +167,28 @@ At this value layer, wellbeing:
 - remains bounded by non-negotiable constraints in this chapter
 - cannot be used as a blanket justification for violating Safety, Truth, or rights protections
 
-#### 3.1 Fairness
+#### 3.16 Fairness
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Read with: [Constitutional Triad](core_00_preamble.md#constitutional-triad) — **participation** leg (access, voice, and contestability; general requirement, not [Stakeholder System Participation](core_05-05_definitions_c_dependent_clusters.md#stakeholder-status-emergency-and-participation-weight-cluster) alone); **accountability** leg where benefits and burdens attach.
+- Read with: [Constitutional Triad](core_00_preamble.md#constitutional-triad) — **participation** leg (access, voice, and contestability; general requirement, not [Stakeholder System Participation](core_05p_participation_definitions.md#stakeholder-status-emergency-and-participation-weight-cluster) alone); **accountability** leg where benefits and burdens attach.
 - Upstream: Principles: [3. Foundational Objective: Wellbeing](#3-foundational-objective-wellbeing).
 - Downstream: [3.2 Recognition, Reinforcement, and Aspiration](#32-recognition-reinforcement-and-aspiration); [5. Trust](#5-system-stability-enabler-trust-coordination-integrity), [§6 Stewardship and Distributed Understanding](core_01_b_stewardship_capacity_principles.md#6-stewardship-and-distributed-understanding), [9. Interaction and Conflict Resolution](core_01_b_stewardship_capacity_principles.md#9-interaction-and-conflict-resolution), and [9.4.1 Rights-Collision Decision Test](#841-rights-collision-decision-test) where precedence and allocation choices must remain coherent and reviewable.
 - Downstream: Shapes the rights surface for equal standing, non-arbitrary treatment, meaningful challenge, and proportionate restriction limits.
   - Especially [Article V: Equal Basic Rights](core_10-10_rights_part_b.md#article-v-equal-basic-rights), [Article V-B: Nondiscrimination](core_10-10_rights_part_b.md#article-v-b-nondiscrimination), [Article IX: Self-Determination and Agency](core_10-10_rights_part_b.md#article-ix-self-determination-and-agency), [Article XII-B: Right to Challenge, Review, and Redress](core_10-10_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress), and [Article XVIII-B: Contestability and Proportional Restriction Limits](core_10-10_rights_part_c.md#article-xviii-b-contestability-and-proportional-restriction-limits).
   - Where systematic classification or gravity labels carry sanctions or durable effect, read with [Chapter Eight, section 4 — Due-process safeguards for slot classification](core_08-08_misconduct.md#4-due-process-safeguards-for-slot-classification).
-  - Non-discrimination commitments are elaborated through Chapter Five [§2 — Protected Characteristics, Proxying, Intimate-Signal Gating, and Article X-C Status](core_05-05_definitions_b_semi_independent.md#fairness-and-protected-status-semi-independent).
+  - Non-discrimination commitments are elaborated through Chapter Five [§2 — Protected Characteristics, Proxying, Intimate-Signal Gating, and Article X-C Status](core_05p_participation_definitions.md#fairness-and-protected-status-semi-independent).
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
 
-- [Dignity and Equal Moral Standing](core_05-05_definitions_a_independent.md#dignity-and-equal-moral-standing) · [O](core_05-05_definitions_a_independent.md#dignity-and-equal-moral-standing) · [E](core_05-05_definitions_a_independent.md#dignity-and-equal-moral-standing-e) · [C](core_05-05_definitions_a_independent.md#dignity-and-equal-moral-standing-c)
-- [Procedural Fairness](core_05-05_definitions_b_semi_independent.md#procedural-fairness-constitutional) · [O](core_05-05_definitions_b_semi_independent.md#procedural-fairness-constitutional) · [E](core_05-05_definitions_b_semi_independent.md#procedural-fairness-constitutional-e) · [C](core_05-05_definitions_b_semi_independent.md#procedural-fairness-constitutional-c)
-- [Substantive Fairness](core_05-05_definitions_b_semi_independent.md#substantive-fairness-constitutional) · [O](core_05-05_definitions_b_semi_independent.md#substantive-fairness-constitutional) · [E](core_05-05_definitions_b_semi_independent.md#substantive-fairness-constitutional-e) · [C](core_05-05_definitions_b_semi_independent.md#substantive-fairness-constitutional-c)
-- [Protected Characteristics](core_05-05_definitions_b_semi_independent.md#protected-characteristics-constitutional) · [O](core_05-05_definitions_b_semi_independent.md#protected-characteristics-constitutional) · [E](core_05-05_definitions_b_semi_independent.md#protected-characteristics-constitutional-e) · [C](core_05-05_definitions_b_semi_independent.md#protected-characteristics-constitutional-c)
-- [Protected Characteristic Proxying and Disparate Impact](core_05-05_definitions_b_semi_independent.md#protected-characteristic-proxying-and-disparate-impact) · [O](core_05-05_definitions_b_semi_independent.md#protected-characteristic-proxying-and-disparate-impact) · [E](core_05-05_definitions_b_semi_independent.md#protected-characteristic-proxying-and-disparate-impact-e) · [C](core_05-05_definitions_b_semi_independent.md#protected-characteristic-proxying-and-disparate-impact-c)
+- [Dignity and Equal Moral Standing](core_05p_participation_definitions.md#dignity-and-equal-moral-standing) · [O](core_05p_participation_definitions.md#dignity-and-equal-moral-standing) · [E](core_05p_participation_definitions.md#dignity-and-equal-moral-standing-e) · [C](core_05p_participation_definitions.md#dignity-and-equal-moral-standing-c)
+- [Procedural Fairness](core_05p_participation_definitions.md#procedural-fairness-constitutional) · [O](core_05p_participation_definitions.md#procedural-fairness-constitutional) · [E](core_05p_participation_definitions.md#procedural-fairness-constitutional-e) · [C](core_05p_participation_definitions.md#procedural-fairness-constitutional-c)
+- [Substantive Fairness](core_05p_participation_definitions.md#substantive-fairness-constitutional) · [O](core_05p_participation_definitions.md#substantive-fairness-constitutional) · [E](core_05p_participation_definitions.md#substantive-fairness-constitutional-e) · [C](core_05p_participation_definitions.md#substantive-fairness-constitutional-c)
+- [Protected Characteristics](core_05p_participation_definitions.md#protected-characteristics-constitutional) · [O](core_05p_participation_definitions.md#protected-characteristics-constitutional) · [E](core_05p_participation_definitions.md#protected-characteristics-constitutional-e) · [C](core_05p_participation_definitions.md#protected-characteristics-constitutional-c)
+- [Protected Characteristic Proxying and Disparate Impact](core_05p_participation_definitions.md#protected-characteristic-proxying-and-disparate-impact) · [O](core_05p_participation_definitions.md#protected-characteristic-proxying-and-disparate-impact) · [E](core_05p_participation_definitions.md#protected-characteristic-proxying-and-disparate-impact-e) · [C](core_05p_participation_definitions.md#protected-characteristic-proxying-and-disparate-impact-c)
 
 </details>
 
@@ -204,13 +204,13 @@ Claimed wellbeing that rests on arbitrary exclusion, capricious rules, or opaque
 
 **Access and opportunity.** Sentients need workable paths to participation, learning, and goods that meet real needs. Those paths must not be arbitrarily blocked or skewed by irrelevant factors. Where definitions and rights require it, what matters is substantive opportunity — not openness on paper alone.
 
-**Treatment.** Like cases are handled alike under legitimate rules. Differentiation is permitted when it is justified, proportionate, and consistent with dignity and non-discrimination. Chapter Five spells out those commitments through [Protected Characteristics](core_05-05_definitions_b_semi_independent.md#protected-characteristics-constitutional) and [Protected Characteristic Proxying and Disparate Impact](core_05-05_definitions_b_semi_independent.md#protected-characteristic-proxying-and-disparate-impact), including protections against algorithmic replication of historical disadvantage, intimate-signal gating, and circumvention of Article X-C status. When decisions are materially adverse or contested, review pathways must align with [Procedural Fairness](core_05-05_definitions_b_semi_independent.md#procedural-fairness-constitutional) wherever Chapter Ten or designated owner instruments assign review, notice, or hearing duties.
+**Treatment.** Like cases are handled alike under legitimate rules. Differentiation is permitted when it is justified, proportionate, and consistent with dignity and non-discrimination. Chapter Five spells out those commitments through [Protected Characteristics](core_05p_participation_definitions.md#protected-characteristics-constitutional) and [Protected Characteristic Proxying and Disparate Impact](core_05p_participation_definitions.md#protected-characteristic-proxying-and-disparate-impact), including protections against algorithmic replication of historical disadvantage, intimate-signal gating, and circumvention of Article X-C status. When decisions are materially adverse or contested, review pathways must align with [Procedural Fairness](core_05p_participation_definitions.md#procedural-fairness-constitutional) wherever Chapter Ten or designated owner instruments assign review, notice, or hearing duties.
 
-**Benefits and burdens.** Reward, cost, and risk must line up with comparable contribution, comparable need, or comparable exposure in non-arbitrary ways. No single output metric proves fairness by itself. This facet is read through [Substantive Fairness](core_05-05_definitions_b_semi_independent.md#substantive-fairness-constitutional) and related Rights-Floor obligations.
+**Benefits and burdens.** Reward, cost, and risk must line up with comparable contribution, comparable need, or comparable exposure in non-arbitrary ways. No single output metric proves fairness by itself. This facet is read through [Substantive Fairness](core_05p_participation_definitions.md#substantive-fairness-constitutional) and related Rights-Floor obligations.
 
-These facets read through [Dignity and Equal Moral Standing](core_05-05_definitions_a_independent.md#dignity-and-equal-moral-standing) and inform [5. Trust](#5-system-stability-enabler-trust-coordination-integrity) where reliance, expectation, and coordination integrity are material.
+These facets read through [Dignity and Equal Moral Standing](core_05p_participation_definitions.md#dignity-and-equal-moral-standing) and inform [5. Trust](#5-system-stability-enabler-trust-coordination-integrity) where reliance, expectation, and coordination integrity are material.
 
-#### 3.2 Recognition, Reinforcement, and Aspiration
+#### 3.16 Recognition, Reinforcement, and Aspiration
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
@@ -227,11 +227,11 @@ These facets read through [Dignity and Equal Moral Standing](core_05-05_definiti
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
 
-- [Wellbeing](core_05-05_definitions_a_independent.md#wellbeing) · [O](core_05-05_definitions_a_independent.md#wellbeing) · [E](core_05-05_definitions_a_independent.md#wellbeing-e) · [C](core_05-05_definitions_a_independent.md#wellbeing-c)
-- [Substantive Fairness](core_05-05_definitions_b_semi_independent.md#substantive-fairness-constitutional) · [O](core_05-05_definitions_b_semi_independent.md#substantive-fairness-constitutional) · [E](core_05-05_definitions_b_semi_independent.md#substantive-fairness-constitutional-e) · [C](core_05-05_definitions_b_semi_independent.md#substantive-fairness-constitutional-c)
-- [Contestability](core_05-05_definitions_b_semi_independent.md#contestability) · [O](core_05-05_definitions_b_semi_independent.md#contestability) · [E](core_05-05_definitions_b_semi_independent.md#contestability-e) · [C](core_05-05_definitions_b_semi_independent.md#contestability-c)
-- [Meaningful Agency](core_05-05_definitions_b_semi_independent.md#meaningful-agency) · [O](core_05-05_definitions_a_independent.md#meaningful-agency-o) · [E](core_05-05_definitions_b_semi_independent.md#meaningful-agency-e) · [C](core_05-05_definitions_b_semi_independent.md#meaningful-agency-c)
-- [Incentive Alignment](core_05-05_definitions_a_independent.md#incentive-alignment) · [O](core_05-05_definitions_a_independent.md#incentive-alignment) · [E](core_05-05_definitions_a_independent.md#incentive-alignment-e) · [C](core_05-05_definitions_a_independent.md#incentive-alignment-c)
+- [Wellbeing](core_05c_continuity_definitions.md#wellbeing) · [O](core_05c_continuity_definitions.md#wellbeing) · [E](core_05c_continuity_definitions.md#wellbeing-e) · [C](core_05c_continuity_definitions.md#wellbeing-c)
+- [Substantive Fairness](core_05p_participation_definitions.md#substantive-fairness-constitutional) · [O](core_05p_participation_definitions.md#substantive-fairness-constitutional) · [E](core_05p_participation_definitions.md#substantive-fairness-constitutional-e) · [C](core_05p_participation_definitions.md#substantive-fairness-constitutional-c)
+- [Contestability](core_05a_accountability_definitions.md#contestability) · [O](core_05a_accountability_definitions.md#contestability) · [E](core_05a_accountability_definitions.md#contestability-e) · [C](core_05a_accountability_definitions.md#contestability-c)
+- [Meaningful Agency](core_05p_participation_definitions.md#meaningful-agency) · [O](core_05a_accountability_definitions.md#meaningful-agency-o) · [E](core_05p_participation_definitions.md#meaningful-agency-e) · [C](core_05p_participation_definitions.md#meaningful-agency-c)
+- [Incentive Alignment](core_05i_integrative_definitions.md#incentive-alignment) · [O](core_05i_integrative_definitions.md#incentive-alignment) · [E](core_05i_integrative_definitions.md#incentive-alignment-e) · [C](core_05i_integrative_definitions.md#incentive-alignment-c)
 
 </details>
 
@@ -258,7 +258,7 @@ Celebration must not substitute for proxy optimization that diverges from underl
 <a id="323-aspiration"></a>
 ##### 3.2.3 Aspiration
 
-**Aspiration** covers stated preferences and ends pursued within [§10 Freedom](core_01_b_stewardship_capacity_principles.md#11-freedom-bounded-agency). It is part of wellbeing when consistent with dignity, equal standing, Safety, Truth, and [Substantive Fairness](core_05-05_definitions_b_semi_independent.md#substantive-fairness-constitutional).
+**Aspiration** covers stated preferences and ends pursued within [§10 Freedom](core_01_b_stewardship_capacity_principles.md#11-freedom-bounded-agency). It is part of wellbeing when consistent with dignity, equal standing, Safety, Truth, and [Substantive Fairness](core_05p_participation_definitions.md#substantive-fairness-constitutional).
 
 Within those bounds, systems should **recognize and support** what sentients lawfully want to pursue.
 
@@ -278,7 +278,7 @@ Recognition should feel **meaningful** to those honored and to the communities t
 <a id="325-aligned-recognition-pathways"></a>
 ##### 3.2.5 Aligned Recognition Pathways
 
-Recognition pathways, acclaim, prizes, certification, standing, reputation effects, or comparable incentives that **allocate status**, **resources**, or **material access** must remain consistent with Truth, Safety, contestable procedure where **Chapter Ten** assigns it, and [Incentive Alignment](core_05-05_definitions_a_independent.md#incentive-alignment).
+Recognition pathways, acclaim, prizes, certification, standing, reputation effects, or comparable incentives that **allocate status**, **resources**, or **material access** must remain consistent with Truth, Safety, contestable procedure where **Chapter Ten** assigns it, and [Incentive Alignment](core_05i_integrative_definitions.md#incentive-alignment).
 
 They **must not** systematically reward harm, deception, avoidance of scrutiny, extraction, or erosion of meaningful agency.
 
@@ -313,13 +313,13 @@ Granular ceremonies, curricula, budgets, programs, and metrics belong in adoptin
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
 
-- [Safety (Constraint)](core_05-05_definitions_a_independent.md#safety-constraint) · [O](core_05-05_definitions_a_independent.md#safety-constraint) · [E](core_05-05_definitions_a_independent.md#safety-constraint-e) · [C](core_05-05_definitions_a_independent.md#safety-constraint-c)
-- [Harm](core_05-05_definitions_c_dependent_clusters.md#harm) · [O](core_05-05_definitions_c_dependent_clusters.md#harm) · [E](core_05-05_definitions_c_dependent_clusters.md#harm-e) · [C](core_05-05_definitions_c_dependent_clusters.md#harm-c)
-- [Irreversible Harm](core_05-05_definitions_c_dependent_clusters.md#irreversible-harm) · [O](core_05-05_definitions_c_dependent_clusters.md#irreversible-harm) · [E](core_05-05_definitions_c_dependent_clusters.md#irreversible-harm-e) · [C](core_05-05_definitions_c_dependent_clusters.md#irreversible-harm-c)
-- [Risk](core_05-05_definitions_a_independent.md#risk) · [O](core_05-05_definitions_a_independent.md#risk) · [E](core_05-05_definitions_a_independent.md#risk-e) · [C](core_05-05_definitions_a_independent.md#risk-c)
-- [Materiality](core_05-05_definitions_b_semi_independent.md#materiality-determination) · [O](core_05-05_definitions_b_semi_independent.md#materiality-determination) · [E](core_05-05_definitions_b_semi_independent.md#materiality-determination-e) · [C](core_05-05_definitions_b_semi_independent.md#materiality-determination-c)
-- [Dependency](core_05-05_definitions_a_independent.md#dependency) · [O](core_05-05_definitions_a_independent.md#dependency) · [E](core_05-05_definitions_a_independent.md#dependency-e) · [C](core_05-05_definitions_a_independent.md#dependency-c)
-- [Foreseeability](core_05-05_definitions_c_dependent_clusters.md#foreseeability-diligence) · [O](core_05-05_definitions_c_dependent_clusters.md#foreseeability-diligence) · [E](core_05-05_definitions_c_dependent_clusters.md#foreseeability-diligence-e) · [C](core_05-05_definitions_c_dependent_clusters.md#foreseeability-diligence-c)
+- [Safety (Constraint)](core_05c_continuity_definitions.md#safety-constraint) · [O](core_05c_continuity_definitions.md#safety-constraint) · [E](core_05c_continuity_definitions.md#safety-constraint-e) · [C](core_05c_continuity_definitions.md#safety-constraint-c)
+- [Harm](core_05a_accountability_definitions.md#harm) · [O](core_05a_accountability_definitions.md#harm) · [E](core_05a_accountability_definitions.md#harm-e) · [C](core_05a_accountability_definitions.md#harm-c)
+- [Irreversible Harm](core_05a_accountability_definitions.md#irreversible-harm) · [O](core_05a_accountability_definitions.md#irreversible-harm) · [E](core_05a_accountability_definitions.md#irreversible-harm-e) · [C](core_05a_accountability_definitions.md#irreversible-harm-c)
+- [Risk](core_05c_continuity_definitions.md#risk) · [O](core_05c_continuity_definitions.md#risk) · [E](core_05c_continuity_definitions.md#risk-e) · [C](core_05c_continuity_definitions.md#risk-c)
+- [Materiality](core_05o_oversight_definitions.md#materiality-determination) · [O](core_05o_oversight_definitions.md#materiality-determination) · [E](core_05o_oversight_definitions.md#materiality-determination-e) · [C](core_05o_oversight_definitions.md#materiality-determination-c)
+- [Dependency](core_05c_continuity_definitions.md#dependency) · [O](core_05c_continuity_definitions.md#dependency) · [E](core_05c_continuity_definitions.md#dependency-e) · [C](core_05c_continuity_definitions.md#dependency-c)
+- [Foreseeability](core_05o_oversight_definitions.md#foreseeability-diligence) · [O](core_05o_oversight_definitions.md#foreseeability-diligence) · [E](core_05o_oversight_definitions.md#foreseeability-diligence-e) · [C](core_05o_oversight_definitions.md#foreseeability-diligence-c)
 
 </details>
 
@@ -351,11 +351,11 @@ Safety forbids system conduct or omission that materially increases uncontained 
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
 
-- [Epistemic Integrity](core_05-05_definitions_c_dependent_clusters.md#epistemic-integrity) · [O](core_05-05_definitions_c_dependent_clusters.md#epistemic-integrity-o) · [E](core_05-05_definitions_c_dependent_clusters.md#epistemic-integrity-e) · [C](core_05-05_definitions_c_dependent_clusters.md#epistemic-integrity-c)
-- [Truth (Constitutional Constraint)](core_05-05_definitions_c_dependent_clusters.md#truth-constitutional-constraint) · [O](core_05-05_definitions_c_dependent_clusters.md#truth-constitutional-constraint-o) · [E](core_05-05_definitions_c_dependent_clusters.md#truth-constitutional-constraint-e) · [C](core_05-05_definitions_c_dependent_clusters.md#truth-constitutional-constraint-c)
-- [Materiality](core_05-05_definitions_b_semi_independent.md#materiality-determination) · [O](core_05-05_definitions_b_semi_independent.md#materiality-determination) · [E](core_05-05_definitions_b_semi_independent.md#materiality-determination-e) · [C](core_05-05_definitions_b_semi_independent.md#materiality-determination-c)
-- [Dependency](core_05-05_definitions_a_independent.md#dependency) · [O](core_05-05_definitions_a_independent.md#dependency) · [E](core_05-05_definitions_a_independent.md#dependency-e) · [C](core_05-05_definitions_a_independent.md#dependency-c)
-- [Foreseeability](core_05-05_definitions_c_dependent_clusters.md#foreseeability-diligence) · [O](core_05-05_definitions_c_dependent_clusters.md#foreseeability-diligence) · [E](core_05-05_definitions_c_dependent_clusters.md#foreseeability-diligence-e) · [C](core_05-05_definitions_c_dependent_clusters.md#foreseeability-diligence-c)
+- [Epistemic Integrity](core_05o_oversight_definitions.md#epistemic-integrity) · [O](core_05o_oversight_definitions.md#epistemic-integrity-o) · [E](core_05o_oversight_definitions.md#epistemic-integrity-e) · [C](core_05o_oversight_definitions.md#epistemic-integrity-c)
+- [Truth (Constitutional Constraint)](core_05o_oversight_definitions.md#truth-constitutional-constraint) · [O](core_05o_oversight_definitions.md#truth-constitutional-constraint-o) · [E](core_05o_oversight_definitions.md#truth-constitutional-constraint-e) · [C](core_05o_oversight_definitions.md#truth-constitutional-constraint-c)
+- [Materiality](core_05o_oversight_definitions.md#materiality-determination) · [O](core_05o_oversight_definitions.md#materiality-determination) · [E](core_05o_oversight_definitions.md#materiality-determination-e) · [C](core_05o_oversight_definitions.md#materiality-determination-c)
+- [Dependency](core_05c_continuity_definitions.md#dependency) · [O](core_05c_continuity_definitions.md#dependency) · [E](core_05c_continuity_definitions.md#dependency-e) · [C](core_05c_continuity_definitions.md#dependency-c)
+- [Foreseeability](core_05o_oversight_definitions.md#foreseeability-diligence) · [O](core_05o_oversight_definitions.md#foreseeability-diligence) · [E](core_05o_oversight_definitions.md#foreseeability-diligence-e) · [C](core_05o_oversight_definitions.md#foreseeability-diligence-c)
 
 </details>
 
@@ -388,15 +388,15 @@ Where Safety or Truth determinations affect contribution state, verified violati
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
 
-- [Safety (Constraint)](core_05-05_definitions_a_independent.md#safety-constraint) · [O](core_05-05_definitions_a_independent.md#safety-constraint) · [E](core_05-05_definitions_a_independent.md#safety-constraint-e) · [C](core_05-05_definitions_a_independent.md#safety-constraint-c)
-- [Truth (Constitutional Constraint)](core_05-05_definitions_c_dependent_clusters.md#truth-constitutional-constraint) · [O](core_05-05_definitions_c_dependent_clusters.md#truth-constitutional-constraint-o) · [E](core_05-05_definitions_c_dependent_clusters.md#truth-constitutional-constraint-e) · [C](core_05-05_definitions_c_dependent_clusters.md#truth-constitutional-constraint-c)
-- [Epistemic Integrity](core_05-05_definitions_c_dependent_clusters.md#epistemic-integrity) · [O](core_05-05_definitions_c_dependent_clusters.md#epistemic-integrity-o) · [E](core_05-05_definitions_c_dependent_clusters.md#epistemic-integrity-e) · [C](core_05-05_definitions_c_dependent_clusters.md#epistemic-integrity-c)
-- [Risk](core_05-05_definitions_a_independent.md#risk) · [O](core_05-05_definitions_a_independent.md#risk) · [E](core_05-05_definitions_a_independent.md#risk-e) · [C](core_05-05_definitions_a_independent.md#risk-c)
-- [Materiality](core_05-05_definitions_b_semi_independent.md#materiality-determination) · [O](core_05-05_definitions_b_semi_independent.md#materiality-determination) · [E](core_05-05_definitions_b_semi_independent.md#materiality-determination-e) · [C](core_05-05_definitions_b_semi_independent.md#materiality-determination-c)
-- [Dependency](core_05-05_definitions_a_independent.md#dependency) · [O](core_05-05_definitions_a_independent.md#dependency) · [E](core_05-05_definitions_a_independent.md#dependency-e) · [C](core_05-05_definitions_a_independent.md#dependency-c)
-- [Foreseeability](core_05-05_definitions_c_dependent_clusters.md#foreseeability-diligence) · [O](core_05-05_definitions_c_dependent_clusters.md#foreseeability-diligence) · [E](core_05-05_definitions_c_dependent_clusters.md#foreseeability-diligence-e) · [C](core_05-05_definitions_c_dependent_clusters.md#foreseeability-diligence-c)
-- [Classification-Scaled Governance](core_05-05_definitions_a_independent.md#classification-scaled-governance) · [O](core_05-05_definitions_a_independent.md#classification-scaled-governance) · [E](core_05-05_definitions_a_independent.md#classification-scaled-governance-e) · [C](core_05-05_definitions_a_independent.md#classification-scaled-governance-c)
-- [Auditability](core_05-05_definitions_c_dependent_clusters.md#auditability) · [O](core_05-05_definitions_c_dependent_clusters.md#auditability) · [E](core_05-05_definitions_c_dependent_clusters.md#auditability-e) · [C](core_05-05_definitions_c_dependent_clusters.md#auditability-c)
+- [Safety (Constraint)](core_05c_continuity_definitions.md#safety-constraint) · [O](core_05c_continuity_definitions.md#safety-constraint) · [E](core_05c_continuity_definitions.md#safety-constraint-e) · [C](core_05c_continuity_definitions.md#safety-constraint-c)
+- [Truth (Constitutional Constraint)](core_05o_oversight_definitions.md#truth-constitutional-constraint) · [O](core_05o_oversight_definitions.md#truth-constitutional-constraint-o) · [E](core_05o_oversight_definitions.md#truth-constitutional-constraint-e) · [C](core_05o_oversight_definitions.md#truth-constitutional-constraint-c)
+- [Epistemic Integrity](core_05o_oversight_definitions.md#epistemic-integrity) · [O](core_05o_oversight_definitions.md#epistemic-integrity-o) · [E](core_05o_oversight_definitions.md#epistemic-integrity-e) · [C](core_05o_oversight_definitions.md#epistemic-integrity-c)
+- [Risk](core_05c_continuity_definitions.md#risk) · [O](core_05c_continuity_definitions.md#risk) · [E](core_05c_continuity_definitions.md#risk-e) · [C](core_05c_continuity_definitions.md#risk-c)
+- [Materiality](core_05o_oversight_definitions.md#materiality-determination) · [O](core_05o_oversight_definitions.md#materiality-determination) · [E](core_05o_oversight_definitions.md#materiality-determination-e) · [C](core_05o_oversight_definitions.md#materiality-determination-c)
+- [Dependency](core_05c_continuity_definitions.md#dependency) · [O](core_05c_continuity_definitions.md#dependency) · [E](core_05c_continuity_definitions.md#dependency-e) · [C](core_05c_continuity_definitions.md#dependency-c)
+- [Foreseeability](core_05o_oversight_definitions.md#foreseeability-diligence) · [O](core_05o_oversight_definitions.md#foreseeability-diligence) · [E](core_05o_oversight_definitions.md#foreseeability-diligence-e) · [C](core_05o_oversight_definitions.md#foreseeability-diligence-c)
+- [Classification-Scaled Governance](core_05o_oversight_definitions.md#classification-scaled-governance) · [O](core_05o_oversight_definitions.md#classification-scaled-governance) · [E](core_05o_oversight_definitions.md#classification-scaled-governance-e) · [C](core_05o_oversight_definitions.md#classification-scaled-governance-c)
+- [Auditability](core_05o_oversight_definitions.md#auditability) · [O](core_05o_oversight_definitions.md#auditability) · [E](core_05o_oversight_definitions.md#auditability-e) · [C](core_05o_oversight_definitions.md#auditability-c)
 
 </details>
 
@@ -435,12 +435,12 @@ Safety-sensitive limits on publication, data access, method disclosure, or repli
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
 
-- [Avoidable Burden](core_05-05_definitions_b_semi_independent.md#avoidable-burden) · [O](core_05-05_definitions_b_semi_independent.md#avoidable-burden) · [E](core_05-05_definitions_b_semi_independent.md#avoidable-burden-e) · [C](core_05-05_definitions_b_semi_independent.md#avoidable-burden-c)
-- [Accessibility](core_05-05_definitions_a_independent.md#accessibility-constitutional) · [O](core_05-05_definitions_a_independent.md#accessibility-constitutional) · [E](core_05-05_definitions_a_independent.md#accessibility-constitutional-e) · [C](core_05-05_definitions_a_independent.md#accessibility-constitutional-c)
-- [Contestability](core_05-05_definitions_b_semi_independent.md#contestability) · [O](core_05-05_definitions_b_semi_independent.md#contestability) · [E](core_05-05_definitions_b_semi_independent.md#contestability-e) · [C](core_05-05_definitions_b_semi_independent.md#contestability-c)
-- [Meaningful Agency](core_05-05_definitions_b_semi_independent.md#meaningful-agency) · [O](core_05-05_definitions_a_independent.md#meaningful-agency-o) · [E](core_05-05_definitions_b_semi_independent.md#meaningful-agency-e) · [C](core_05-05_definitions_b_semi_independent.md#meaningful-agency-c)
-- [Transparency](core_05-05_definitions_c_dependent_clusters.md#transparency) · [O](core_05-05_definitions_c_dependent_clusters.md#transparency) · [E](core_05-05_definitions_c_dependent_clusters.md#transparency-e) · [C](core_05-05_definitions_c_dependent_clusters.md#transparency-c)
-- [Truth (Constitutional Constraint)](core_05-05_definitions_c_dependent_clusters.md#truth-constitutional-constraint) · [O](core_05-05_definitions_c_dependent_clusters.md#truth-constitutional-constraint-o) · [E](core_05-05_definitions_c_dependent_clusters.md#truth-constitutional-constraint-e) · [C](core_05-05_definitions_c_dependent_clusters.md#truth-constitutional-constraint-c)
+- [Avoidable Burden](core_05c_continuity_definitions.md#avoidable-burden) · [O](core_05c_continuity_definitions.md#avoidable-burden) · [E](core_05c_continuity_definitions.md#avoidable-burden-e) · [C](core_05c_continuity_definitions.md#avoidable-burden-c)
+- [Accessibility](core_05p_participation_definitions.md#accessibility-constitutional) · [O](core_05p_participation_definitions.md#accessibility-constitutional) · [E](core_05p_participation_definitions.md#accessibility-constitutional-e) · [C](core_05p_participation_definitions.md#accessibility-constitutional-c)
+- [Contestability](core_05a_accountability_definitions.md#contestability) · [O](core_05a_accountability_definitions.md#contestability) · [E](core_05a_accountability_definitions.md#contestability-e) · [C](core_05a_accountability_definitions.md#contestability-c)
+- [Meaningful Agency](core_05p_participation_definitions.md#meaningful-agency) · [O](core_05a_accountability_definitions.md#meaningful-agency-o) · [E](core_05p_participation_definitions.md#meaningful-agency-e) · [C](core_05p_participation_definitions.md#meaningful-agency-c)
+- [Transparency](core_05o_oversight_definitions.md#transparency) · [O](core_05o_oversight_definitions.md#transparency) · [E](core_05o_oversight_definitions.md#transparency-e) · [C](core_05o_oversight_definitions.md#transparency-c)
+- [Truth (Constitutional Constraint)](core_05o_oversight_definitions.md#truth-constitutional-constraint) · [O](core_05o_oversight_definitions.md#truth-constitutional-constraint-o) · [E](core_05o_oversight_definitions.md#truth-constitutional-constraint-e) · [C](core_05o_oversight_definitions.md#truth-constitutional-constraint-c)
 
 </details>
 
@@ -463,7 +463,7 @@ This duty covers instruments and communications that sentients actually engage w
 
 This duty is not limited to one format or channel. It applies to written text, interfaces, spoken communication, and any other way sentients receive binding information.
 
-A channel counts when it provides a plain-language equivalent under [Article V-G](core_10-10_rights_part_b.md#article-v-g-accessibility) and [Sentience Non-Exclusion](core_05-05_definitions_c_dependent_clusters.md#sentience-non-exclusion).
+A channel counts when it provides a plain-language equivalent under [Article V-G](core_10-10_rights_part_b.md#article-v-g-accessibility) and [Sentience Non-Exclusion](core_05p_participation_definitions.md#sentience-non-exclusion).
 
 <a id="442-the-duty"></a>
 ##### 4.4.2 The Duty
@@ -473,7 +473,7 @@ As a stewardship duty under [§9.1.4 Minimization of Avoidable Burden](core_01_b
 - prefer plain, direct language over jargon, stacked modifiers, and nested clauses where plain language is achievable without loss of operative meaning;
 - provide plain-language orientation or summary for technically dense operative material where sentients must engage it;
 - structure text for navigation, locability, and readable reference — supporting the capability-building interest recognized under [Article VI: Right to Sentient-Centered Education](core_10-10_rights_part_b.md#article-vi-right-to-sentient-centered-education);
-- match complexity to the communication's purpose. Avoidable complexity that imposes burden without traceable constitutional outcome is an [Avoidable Burden](core_05-05_definitions_b_semi_independent.md#avoidable-burden) defect under [§9.1.4](core_01_b_stewardship_capacity_principles.md#914-minimization-of-avoidable-burden) and an [Article XX](core_10-10_rights_part_c.md#article-xx-comprehensibility-and-complexity-stewardship) concern.
+- match complexity to the communication's purpose. Avoidable complexity that imposes burden without traceable constitutional outcome is an [Avoidable Burden](core_05c_continuity_definitions.md#avoidable-burden) defect under [§9.1.4](core_01_b_stewardship_capacity_principles.md#914-minimization-of-avoidable-burden) and an [Article XX](core_10-10_rights_part_c.md#article-xx-comprehensibility-and-complexity-stewardship) concern.
 
 <a id="443-definitional-rigor-preserved"></a>
 ##### 4.4.3 Definitional Rigor Preserved
@@ -491,14 +491,14 @@ Where plain-language drafting at the engagement layer appears to conflict with d
 <a id="444-jargon-as-defeat-discipline"></a>
 ##### 4.4.4 Jargon-as-Defeat Discipline
 
-Under this section and under [Truth (Constitutional Constraint)](core_05-05_definitions_c_dependent_clusters.md#truth-constitutional-constraint) *Epistemic Integrity* discipline, it is non-compliant to use jargon, stacked complexity, procedural opacity, or deliberate obfuscation to defeat:
+Under this section and under [Truth (Constitutional Constraint)](core_05o_oversight_definitions.md#truth-constitutional-constraint) *Epistemic Integrity* discipline, it is non-compliant to use jargon, stacked complexity, procedural opacity, or deliberate obfuscation to defeat:
 
-- [Contestability](core_05-05_definitions_b_semi_independent.md#contestability);
-- [Meaningful Agency](core_05-05_definitions_b_semi_independent.md#meaningful-agency);
+- [Contestability](core_05a_accountability_definitions.md#contestability);
+- [Meaningful Agency](core_05p_participation_definitions.md#meaningful-agency);
 - audit access under [Article XV: Audit, Transparency, and Independent Verification](core_10-10_rights_part_c.md#article-xv-audit-transparency-and-independent-verification);
 - the exercise of Chapter Ten rights more broadly.
 
-Plain-language stewardship must not run in reverse either. Framing that misrepresents scope, hides operative effect, or swaps a summary for the operative text that governs is a [Truth](core_05-05_definitions_c_dependent_clusters.md#truth-constitutional-constraint) defect.
+Plain-language stewardship must not run in reverse either. Framing that misrepresents scope, hides operative effect, or swaps a summary for the operative text that governs is a [Truth](core_05o_oversight_definitions.md#truth-constitutional-constraint) defect.
 
 <a id="445-chapter-ten-floor-boundary"></a>
 ##### 4.4.5 Rights-Floor Boundary
@@ -525,12 +525,12 @@ This section states the plain-language dimension of the principle-layer stewards
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
 
-- [Trust](core_05-05_definitions_c_dependent_clusters.md#trust) · [O](core_05-05_definitions_c_dependent_clusters.md#trust) · [E](core_05-05_definitions_c_dependent_clusters.md#trust-e) · [C](core_05-05_definitions_c_dependent_clusters.md#trust-c)
-- [Trustworthiness](core_05-05_definitions_c_dependent_clusters.md#trustworthiness) · [O](core_05-05_definitions_c_dependent_clusters.md#trustworthiness) · [E](core_05-05_definitions_c_dependent_clusters.md#trustworthiness-e) · [C](core_05-05_definitions_c_dependent_clusters.md#trustworthiness-c)
-- [Truth (Constitutional Constraint)](core_05-05_definitions_c_dependent_clusters.md#truth-constitutional-constraint) · [O](core_05-05_definitions_c_dependent_clusters.md#truth-constitutional-constraint-o) · [E](core_05-05_definitions_c_dependent_clusters.md#truth-constitutional-constraint-e) · [C](core_05-05_definitions_c_dependent_clusters.md#truth-constitutional-constraint-c)
-- [Safety (Constraint)](core_05-05_definitions_a_independent.md#safety-constraint) · [O](core_05-05_definitions_a_independent.md#safety-constraint) · [E](core_05-05_definitions_a_independent.md#safety-constraint-e) · [C](core_05-05_definitions_a_independent.md#safety-constraint-c)
-- [Materiality](core_05-05_definitions_b_semi_independent.md#materiality-determination) · [O](core_05-05_definitions_b_semi_independent.md#materiality-determination) · [E](core_05-05_definitions_b_semi_independent.md#materiality-determination-e) · [C](core_05-05_definitions_b_semi_independent.md#materiality-determination-c)
-- [Trust Degradation and Misleading Reliance](core_05-05_definitions_c_dependent_clusters.md#trust-degradation-and-misleading-reliance-constitutional) · [O](core_05-05_definitions_c_dependent_clusters.md#trust-degradation-and-misleading-reliance-constitutional) · [E](core_05-05_definitions_c_dependent_clusters.md#trust-degradation-and-misleading-reliance-e) · [C](core_05-05_definitions_c_dependent_clusters.md#trust-degradation-and-misleading-reliance-c)
+- [Trust](core_05c_continuity_definitions.md#trust) · [O](core_05c_continuity_definitions.md#trust) · [E](core_05c_continuity_definitions.md#trust-e) · [C](core_05c_continuity_definitions.md#trust-c)
+- [Trustworthiness](core_05c_continuity_definitions.md#trustworthiness) · [O](core_05c_continuity_definitions.md#trustworthiness) · [E](core_05c_continuity_definitions.md#trustworthiness-e) · [C](core_05c_continuity_definitions.md#trustworthiness-c)
+- [Truth (Constitutional Constraint)](core_05o_oversight_definitions.md#truth-constitutional-constraint) · [O](core_05o_oversight_definitions.md#truth-constitutional-constraint-o) · [E](core_05o_oversight_definitions.md#truth-constitutional-constraint-e) · [C](core_05o_oversight_definitions.md#truth-constitutional-constraint-c)
+- [Safety (Constraint)](core_05c_continuity_definitions.md#safety-constraint) · [O](core_05c_continuity_definitions.md#safety-constraint) · [E](core_05c_continuity_definitions.md#safety-constraint-e) · [C](core_05c_continuity_definitions.md#safety-constraint-c)
+- [Materiality](core_05o_oversight_definitions.md#materiality-determination) · [O](core_05o_oversight_definitions.md#materiality-determination) · [E](core_05o_oversight_definitions.md#materiality-determination-e) · [C](core_05o_oversight_definitions.md#materiality-determination-c)
+- [Trust Degradation and Misleading Reliance](core_05i_integrative_definitions.md#trust-degradation-and-misleading-reliance-constitutional) · [O](core_05i_integrative_definitions.md#trust-degradation-and-misleading-reliance-constitutional) · [E](core_05c_continuity_definitions.md#trust-degradation-and-misleading-reliance-e) · [C](core_05c_continuity_definitions.md#trust-degradation-and-misleading-reliance-c)
 
 </details>
 
@@ -542,7 +542,7 @@ Shared systems ask sentients to depend on them — for safety, information, acce
 
 **Trust** is the coordination condition: reliance must be justified, not merely produced. **Trustworthiness** is the demonstrated basis for that reliance. **Truth** rules out deception. **Safety** bounds reliance where risk is present. **Materiality** determines how much must be shown in context. **Trust Degradation and Misleading Reliance** names the failure mode — reliance induced, preserved, or measured in constitutionally misleading ways.
 
-Trust is a constitutional coordination condition grounded in truth and demonstrated trustworthiness over time, as defined in Chapter Five ([Trust](core_05-05_definitions_c_dependent_clusters.md#trust); [Trustworthiness](core_05-05_definitions_c_dependent_clusters.md#trustworthiness)).
+Trust is a constitutional coordination condition grounded in truth and demonstrated trustworthiness over time, as defined in Chapter Five ([Trust](core_05c_continuity_definitions.md#trust); [Trustworthiness](core_05c_continuity_definitions.md#trustworthiness)).
 
 Incorporated implementation text may operationalize this section where designated. That implementation must not narrow the Chapter Five definitions.
 
@@ -564,10 +564,10 @@ Trust is invalid where reliance is induced or preserved through suppression, dec
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
 
-- [Self-Healing](core_05-05_definitions_a_independent.md#self-healing-constitutional) · [O](core_05-05_definitions_a_independent.md#self-healing-constitutional) · [E](core_05-05_definitions_a_independent.md#self-healing-constitutional-e) · [C](core_05-05_definitions_a_independent.md#self-healing-constitutional-c)
-- [Reversibility](core_05-05_definitions_a_independent.md#reversibility-constitutional) · [O](core_05-05_definitions_a_independent.md#reversibility-constitutional) · [E](core_05-05_definitions_a_independent.md#reversibility-constitutional-e) · [C](core_05-05_definitions_a_independent.md#reversibility-constitutional-c)
-- [Avoidable Burden](core_05-05_definitions_b_semi_independent.md#avoidable-burden) · [O](core_05-05_definitions_b_semi_independent.md#avoidable-burden) · [E](core_05-05_definitions_b_semi_independent.md#avoidable-burden-e) · [C](core_05-05_definitions_b_semi_independent.md#avoidable-burden-c)
-- [Incentive Alignment](core_05-05_definitions_a_independent.md#incentive-alignment) · [O](core_05-05_definitions_a_independent.md#incentive-alignment) · [E](core_05-05_definitions_a_independent.md#incentive-alignment) · [C](core_05-05_definitions_a_independent.md#incentive-alignment)
+- [Self-Healing](core_05c_continuity_definitions.md#self-healing-constitutional) · [O](core_05c_continuity_definitions.md#self-healing-constitutional) · [E](core_05c_continuity_definitions.md#self-healing-constitutional-e) · [C](core_05c_continuity_definitions.md#self-healing-constitutional-c)
+- [Reversibility](core_05c_continuity_definitions.md#reversibility-constitutional) · [O](core_05c_continuity_definitions.md#reversibility-constitutional) · [E](core_05c_continuity_definitions.md#reversibility-constitutional-e) · [C](core_05c_continuity_definitions.md#reversibility-constitutional-c)
+- [Avoidable Burden](core_05c_continuity_definitions.md#avoidable-burden) · [O](core_05c_continuity_definitions.md#avoidable-burden) · [E](core_05c_continuity_definitions.md#avoidable-burden-e) · [C](core_05c_continuity_definitions.md#avoidable-burden-c)
+- [Incentive Alignment](core_05i_integrative_definitions.md#incentive-alignment) · [O](core_05i_integrative_definitions.md#incentive-alignment) · [E](core_05i_integrative_definitions.md#incentive-alignment) · [C](core_05i_integrative_definitions.md#incentive-alignment)
 
 </details>
 

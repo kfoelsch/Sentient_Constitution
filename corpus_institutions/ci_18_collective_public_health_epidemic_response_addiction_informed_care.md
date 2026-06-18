@@ -11,13 +11,13 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
 
-- [Proportionality](../core_05-05_definitions_a_independent.md#proportionality) · [O](../core_05-05_definitions_a_independent.md#proportionality) · [E](../core_05-05_definitions_a_independent.md#proportionality-e) · [C](../core_05-05_definitions_a_independent.md#proportionality-c)
-- [Governance](../core_05-05_definitions_b_semi_independent.md#governance) · [O](../core_05-05_definitions_b_semi_independent.md#governance) · [E](../core_05-05_definitions_b_semi_independent.md#governance-e) · [C](../core_05-05_definitions_b_semi_independent.md#governance-c)
-- [Necessity](../core_05-05_definitions_a_independent.md#necessity) · [O](../core_05-05_definitions_a_independent.md#necessity) · [E](../core_05-05_definitions_a_independent.md#necessity-e) · [C](../core_05-05_definitions_a_independent.md#necessity-c)
-- [Oversight](../core_05-05_definitions_a_independent.md#oversight-constitutional) · [O](../core_05-05_definitions_a_independent.md#oversight-constitutional) · [E](../core_05-05_definitions_a_independent.md#oversight-constitutional-e) · [C](../core_05-05_definitions_a_independent.md#oversight-constitutional-c)
-- [Material](../core_05-05_definitions_b_semi_independent.md#material) · [O](../core_05-05_definitions_b_semi_independent.md#material) · [E](../core_05-05_definitions_b_semi_independent.md#material-e) · [C](../core_05-05_definitions_b_semi_independent.md#material-c)
-- [Corpus](../core_05-05_definitions_c_dependent_clusters.md#corpus) · [O](../core_05-05_definitions_c_dependent_clusters.md#corpus) · [E](../core_05-05_definitions_c_dependent_clusters.md#corpus-e) · [C](../core_05-05_definitions_c_dependent_clusters.md#corpus-c)
-- [Emergency and Contingency](../core_05-05_definitions_b_semi_independent.md#emergency-and-contingency-constitutional) · [O](../core_05-05_definitions_b_semi_independent.md#emergency-and-contingency-constitutional) · [E](../core_05-05_definitions_b_semi_independent.md#emergency-and-contingency-constitutional-e) · [C](../core_05-05_definitions_b_semi_independent.md#emergency-and-contingency-constitutional-c)
+- [Proportionality](../core_05a_accountability_definitions.md#proportionality) · [O](../core_05a_accountability_definitions.md#proportionality) · [E](../core_05a_accountability_definitions.md#proportionality-e) · [C](../core_05a_accountability_definitions.md#proportionality-c)
+- [Governance](../core_05a_accountability_definitions.md#governance) · [O](../core_05a_accountability_definitions.md#governance) · [E](../core_05a_accountability_definitions.md#governance-e) · [C](../core_05a_accountability_definitions.md#governance-c)
+- [Necessity](../core_05a_accountability_definitions.md#necessity) · [O](../core_05a_accountability_definitions.md#necessity) · [E](../core_05a_accountability_definitions.md#necessity-e) · [C](../core_05a_accountability_definitions.md#necessity-c)
+- [Oversight](../core_05o_oversight_definitions.md#oversight-constitutional) · [O](../core_05o_oversight_definitions.md#oversight-constitutional) · [E](../core_05o_oversight_definitions.md#oversight-constitutional-e) · [C](../core_05o_oversight_definitions.md#oversight-constitutional-c)
+- [Material](../core_05o_oversight_definitions.md#material) · [O](../core_05o_oversight_definitions.md#material) · [E](../core_05o_oversight_definitions.md#material-e) · [C](../core_05o_oversight_definitions.md#material-c)
+- [Corpus](../core_05i_integrative_definitions.md#corpus) · [O](../core_05i_integrative_definitions.md#corpus) · [E](../core_05i_integrative_definitions.md#corpus-e) · [C](../core_05i_integrative_definitions.md#corpus-c)
+- [Emergency and Contingency](../core_05c_continuity_definitions.md#emergency-and-contingency-constitutional) · [O](../core_05c_continuity_definitions.md#emergency-and-contingency-constitutional) · [E](../core_05c_continuity_definitions.md#emergency-and-contingency-constitutional-e) · [C](../core_05c_continuity_definitions.md#emergency-and-contingency-constitutional-c)
 
 </details>
 
@@ -45,7 +45,7 @@
 - **Article VII-C** (*Mental-Health Crisis and Involuntary-Intervention Floor*) in **Chapter Ten** — crisis-intervention limits that collective-health measures do not narrow; coercive treatment beyond those terms is not authorized here.
 - **Article XXIII-D** (*Emergency Measures and Continuation Burden*) in **Chapter Ten** — emergency-measure proportionality, continuation burden, and time-bounded restrictive authority.
 - **Protocol C** §**10** (*Lived-condition floors, continuity, and re-entry alignment*) in `corpus_systems.md` — lived-condition expectations during restrictions, including healthcare, mental-health access, family or care contact, review cadence, and re-entry planning.
-- **Chapter Five** [*Emergency and Contingency*](../core_05-05_definitions_b_semi_independent.md#emergency-and-contingency-constitutional) — definitional home for emergency framing, duration, and contingency discipline.
+- **Chapter Five** [*Emergency and Contingency*](../core_05c_continuity_definitions.md#emergency-and-contingency-constitutional) — definitional home for emergency framing, duration, and contingency discipline.
 - **CI-5** — integrity routing and anti-capture interfaces where public-health enforcement or funding creates capture risk.
 - **CI-7** — controls declaration, external-assurance triggers, and oversight when collective-health programs fail or require independent review.
 - **CI-18 scope** — does not repeat those floors; states local pathway, support-bundle, addiction-routing, stigma-control, and emergency-secrecy sunset owner duties.

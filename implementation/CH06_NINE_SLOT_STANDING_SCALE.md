@@ -8,7 +8,7 @@
 
 **Constitutional guardrails (summary)**
 
-- **Verified inputs only** (demonstrable Contribution Axis; [verified violation findings](../core_05-05_definitions_b_semi_independent.md#verified-violation-findings) for the Violation Axis) per [Verified inputs for standing](../core_06-06_standing_assessment.md#verified-inputs-for-standing).
+- **Verified inputs only** (demonstrable Contribution Axis; [verified violation findings](../core_05a_accountability_definitions.md#verified-violation-findings) for the Violation Axis) per [Verified inputs for standing](../core_06-06_standing_assessment.md#verified-inputs-for-standing).
 - **Constitutional-outcome baseline controls.** Contribution and Violation slot movement are anchored in [Chapter Six §4.2](../core_06-06_standing_assessment.md#42-constitutional-outcome-baseline-for-slots), including the **1 LEQU** full-life-equivalent constitutional-benefit threshold for Contribution Axis **s = 7** and the full-life-equivalent constitutional-loss threshold for Violation Axis **s = 7**. Numeric LEQU credit and violation weights are implementation aids only; they must not count raw efficiency, output, prestige, wealth, utilization, burden shifting, allegations, or disfavored status as classification grounds.
 - **Recency** applies **only** to **contribution** credit expressed in LEQU, per [contribution recency weighting](../core_07-07_standing_integration.md#contribution-recency-weighting) (`w(d)`, half-life ten years, no floor). Compute **`C*`** = sum of (credit × `w(d)`) per unit before slot assignment.
 - **Unresolved** violation findings are **not** time-discounted for standing integration.

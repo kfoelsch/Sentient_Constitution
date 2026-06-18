@@ -33,13 +33,13 @@ A **shell cluster** is a dependent cluster that:
 
 **Example - Shell Cluster (§3.3):**
 ```markdown
-#### 3.3 Accountability, Contestability, Adjudication and Dispute Resolution, Collective Accountability Failure, and Force Majeure
+#### 3.14 Accountability, Contestability, Adjudication and Dispute Resolution, Collective Accountability Failure, and Force Majeure
 
 **Cluster members.** This cluster comprises:
-- [Accountability](core_05-05_definitions_b_semi_independent.md#accountability);
-- [Contestability](core_05-05_definitions_b_semi_independent.md#contestability);
-- [Collective Accountability Failure](core_05-05_definitions_b_semi_independent.md#collective-accountability-failure);
-- [Force Majeure](core_05-05_definitions_b_semi_independent.md#force-majeure-constitutional).
+- [Accountability](core_05a_accountability_definitions.md#accountability);
+- [Contestability](core_05a_accountability_definitions.md#contestability);
+- [Collective Accountability Failure](core_05a_accountability_definitions.md#collective-accountability-failure);
+- [Force Majeure](core_05a_accountability_definitions.md#force-majeure-constitutional).
 
 [No local O/E/C definitions follow - only cluster-level meta text]
 ```
@@ -59,11 +59,11 @@ A **healthy cluster** contains:
 
 **Example - Healthy Cluster (§3.4 partial):**
 ```markdown
-#### 3.4 Animal Life, Sentient Life, and Sentience Status
+#### 3.16 Animal Life, Sentient Life, and Sentience Status
 
 **Cluster members.** This cluster comprises:
-- [Sentient](#sentient), including its sentience-status subcomponents;
-- [Animal Life](#animal-life-constitutional);
+- [Sentient](core_05p_participation_definitions.md#sentient), including its sentience-status subcomponents;
+- [Animal Life](core_05p_participation_definitions.md#animal-life-constitutional);
 ...
 
 <a id="animal-life-constitutional"></a>
@@ -188,8 +188,8 @@ The following 12 clusters contain local O/E/C definitions:
 
 Based on the cluster titles and likely invocation patterns, these clusters should be prioritized:
 
-1. **§3.3 Accountability** — Core constitutional concept
-2. **§3.9 Collective Harm Boundary** — Safety-critical
+1. **§3.14 Accountability** — Core constitutional concept
+2. **§3.16 Collective Harm Boundary** — Safety-critical
 3. **§3.17 Emergency and Contingency** — Time-sensitive operations
 4. **§3.31 Adjudication and Dispute Resolution** — Rights enforcement
 5. **§3.41 Use of Force** — High-stakes applications

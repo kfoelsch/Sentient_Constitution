@@ -60,6 +60,9 @@ ch5-cross-file-link-audit:
 ch5-cluster-order-audit:
 	$(PYTHON) tools/ch5_cluster_order_audit.py --root .
 
+ch5-constitutional-cluster-audit:
+	$(PYTHON) tools/ch5_constitutional_cluster_audit.py --root .
+
 ch1-dec-order-audit:
 	$(PYTHON) tools/ch1_dec_order_audit.py --root .
 
@@ -128,6 +131,7 @@ regression:
 		ch5-single-definition-audit \
 		ch5-dec-widget-audit \
 		ch5-cluster-order-audit \
+		ch5-constitutional-cluster-audit \
 		ch1-dec-order-audit \
 		ch9-trace-audit \
 		prose-continuity-audit \

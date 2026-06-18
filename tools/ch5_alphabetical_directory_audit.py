@@ -20,7 +20,7 @@ from ch5_single_definition_audit import (
     sorted_violations,
 )
 
-CH5_FILE_PATTERN = re.compile(r"^core_05-05_definitions_.*\.md$")
+CH5_FILE_PATTERN = re.compile(r"^core_05(?:-05_definitions_a_independent|o_oversight_definitions|p_participation_definitions|a_accountability_definitions|c_continuity_definitions|i_integrative_definitions)\.md$")
 SECTION1_HEADING = "### 1. Independent Definitions"
 HEADING_RE = re.compile(r"^####\s+(.+)$")
 
@@ -107,13 +107,14 @@ def audit_file(path: pathlib.Path) -> list[str]:
     lines = raw.splitlines()
 
     violations: list[str] = []
-    try:
-        section1_headings = collect_section1_headings(lines)
-    except ValueError as exc:
-        violations.append(str(exc))
-    else:
-        for violation in find_order_violations(section1_headings):
-            violations.append(f"{path}:{violation}")
+    if SECTION1_HEADING in raw:
+        try:
+            section1_headings = collect_section1_headings(lines)
+        except ValueError as exc:
+            violations.append(str(exc))
+        else:
+            for violation in find_order_violations(section1_headings):
+                violations.append(f"{path}:{violation}")
 
     return violations
 

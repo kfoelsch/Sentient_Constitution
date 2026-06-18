@@ -11,9 +11,9 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
 
-- [Corpus](../core_05-05_definitions_c_dependent_clusters.md#corpus) · [O](../core_05-05_definitions_c_dependent_clusters.md#corpus) · [E](../core_05-05_definitions_c_dependent_clusters.md#corpus-e) · [C](../core_05-05_definitions_c_dependent_clusters.md#corpus-c)
-- [Authority Stack and Internal Hierarchy](../core_05-05_definitions_c_dependent_clusters.md#authority-stack) · [O](../core_05-05_definitions_c_dependent_clusters.md#authority-stack) · [E](../core_05-05_definitions_c_dependent_clusters.md#authority-stack-e) · [C](../core_05-05_definitions_c_dependent_clusters.md#authority-stack-c)
-- [Supremacy and Enforceability](../core_05-05_definitions_c_dependent_clusters.md#supremacy-and-enforceability) · [O](../core_05-05_definitions_c_dependent_clusters.md#supremacy-and-enforceability) · [E](../core_05-05_definitions_c_dependent_clusters.md#supremacy-and-enforceability-e) · [C](../core_05-05_definitions_c_dependent_clusters.md#supremacy-and-enforceability-c)
+- [Corpus](../core_05i_integrative_definitions.md#corpus) · [O](../core_05i_integrative_definitions.md#corpus) · [E](../core_05i_integrative_definitions.md#corpus-e) · [C](../core_05i_integrative_definitions.md#corpus-c)
+- [Authority Stack and Internal Hierarchy](../core_05i_integrative_definitions.md#authority-stack) · [O](../core_05i_integrative_definitions.md#authority-stack) · [E](../core_05i_integrative_definitions.md#authority-stack-e) · [C](../core_05i_integrative_definitions.md#authority-stack-c)
+- [Supremacy and Enforceability](../core_05i_integrative_definitions.md#supremacy-and-enforceability) · [O](../core_05i_integrative_definitions.md#supremacy-and-enforceability) · [E](../core_05i_integrative_definitions.md#supremacy-and-enforceability-e) · [C](../core_05i_integrative_definitions.md#supremacy-and-enforceability-c)
 
 </details>
 
@@ -37,13 +37,13 @@ Use these clusters as shared operational terms within standalone implementation 
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
 
-- [Competency Gate](../core_05-05_definitions_c_dependent_clusters.md#competency-gate) · [O](../core_05-05_definitions_c_dependent_clusters.md#competency-gate) · [E](../core_05-05_definitions_c_dependent_clusters.md#competency-gate-e) · [C](../core_05-05_definitions_c_dependent_clusters.md#competency-gate-c)
-- [Accountability](../core_05-05_definitions_b_semi_independent.md#accountability) · [O](../core_05-05_definitions_b_semi_independent.md#accountability) · [E](../core_05-05_definitions_b_semi_independent.md#accountability-e) · [C](../core_05-05_definitions_b_semi_independent.md#accountability-c)
-- [Contestability](../core_05-05_definitions_b_semi_independent.md#contestability) · [O](../core_05-05_definitions_b_semi_independent.md#contestability) · [E](../core_05-05_definitions_b_semi_independent.md#contestability-e) · [C](../core_05-05_definitions_b_semi_independent.md#contestability-c)
-- [Reversibility](../core_05-05_definitions_a_independent.md#reversibility-constitutional) · [O](../core_05-05_definitions_a_independent.md#reversibility-constitutional) · [E](../core_05-05_definitions_a_independent.md#reversibility-constitutional-e) · [C](../core_05-05_definitions_a_independent.md#reversibility-constitutional-c)
-- [Auditability](../core_05-05_definitions_c_dependent_clusters.md#auditability) · [O](../core_05-05_definitions_c_dependent_clusters.md#auditability) · [E](../core_05-05_definitions_c_dependent_clusters.md#auditability-e) · [C](../core_05-05_definitions_c_dependent_clusters.md#auditability-c)
-- [Dependency](../core_05-05_definitions_a_independent.md#dependency) · [O](../core_05-05_definitions_a_independent.md#dependency) · [E](../core_05-05_definitions_a_independent.md#dependency-e) · [C](../core_05-05_definitions_a_independent.md#dependency-c)
-- [Governance](../core_05-05_definitions_b_semi_independent.md#governance) · [O](../core_05-05_definitions_b_semi_independent.md#governance) · [E](../core_05-05_definitions_b_semi_independent.md#governance-e) · [C](../core_05-05_definitions_b_semi_independent.md#governance-c)
+- [Competency Gate](../core_05a_accountability_definitions.md#competency-gate) · [O](../core_05a_accountability_definitions.md#competency-gate) · [E](../core_05a_accountability_definitions.md#competency-gate-e) · [C](../core_05a_accountability_definitions.md#competency-gate-c)
+- [Accountability](../core_05a_accountability_definitions.md#accountability) · [O](../core_05a_accountability_definitions.md#accountability) · [E](../core_05a_accountability_definitions.md#accountability-e) · [C](../core_05a_accountability_definitions.md#accountability-c)
+- [Contestability](../core_05a_accountability_definitions.md#contestability) · [O](../core_05a_accountability_definitions.md#contestability) · [E](../core_05a_accountability_definitions.md#contestability-e) · [C](../core_05a_accountability_definitions.md#contestability-c)
+- [Reversibility](../core_05c_continuity_definitions.md#reversibility-constitutional) · [O](../core_05c_continuity_definitions.md#reversibility-constitutional) · [E](../core_05c_continuity_definitions.md#reversibility-constitutional-e) · [C](../core_05c_continuity_definitions.md#reversibility-constitutional-c)
+- [Auditability](../core_05o_oversight_definitions.md#auditability) · [O](../core_05o_oversight_definitions.md#auditability) · [E](../core_05o_oversight_definitions.md#auditability-e) · [C](../core_05o_oversight_definitions.md#auditability-c)
+- [Dependency](../core_05c_continuity_definitions.md#dependency) · [O](../core_05c_continuity_definitions.md#dependency) · [E](../core_05c_continuity_definitions.md#dependency-e) · [C](../core_05c_continuity_definitions.md#dependency-c)
+- [Governance](../core_05a_accountability_definitions.md#governance) · [O](../core_05a_accountability_definitions.md#governance) · [E](../core_05a_accountability_definitions.md#governance-e) · [C](../core_05a_accountability_definitions.md#governance-c)
 
 </details>
 
@@ -111,7 +111,7 @@ Operational enforcement role
 - OP-C: Operational enforcement is non-compliant when it uses an enforcement label to control investigations, decide merits, bypass forum authorization, evade rights safeguards, hide coercive authority, or investigate its own conduct without an independent route.
 
 Oversight or support role
-- OP-O: An oversight or support role monitors, audits, investigates, provides forensic or technical assistance, preserves records, or supports review without making binding merits determinations within the meaning of [Merits Determination](../core_05-05_definitions_b_semi_independent.md#merits-determination) unless separately authorized.
+- OP-O: An oversight or support role monitors, audits, investigates, provides forensic or technical assistance, preserves records, or supports review without making binding merits determinations within the meaning of [Merits Determination](../core_05a_accountability_definitions.md#merits-determination) unless separately authorized.
 - OP-E: Reviewers must verify independence, reporting line, information access, exclusions from merits authority, escalation route, and protected challenge path.
 - OP-C: Support or oversight is non-compliant when it becomes merits decision-making without separate authority, lacks the independence needed for the task, or cannot escalate material findings.
 
@@ -150,7 +150,7 @@ Use this compass before applying any **CJS-5** (*Implementation and cross-implem
 2. The constitutional band file for the relevant Triad leg, **Continuity** band, or **Integrative** band.
 3. **CJS-2.1** (*Topic router*) mandatory read-with when a topic-router row applies.
 4. Individual cluster OP terms (pinned cluster floor first, then sub-rules).
-5. Where a finding is **non-compliant**, optional [Non-Compliance Finding Profile](../core_05-05_definitions_b_semi_independent.md#non-compliance-finding-profile) metadata (Triad leg · aim · governance layer) per the cluster map below and [Chapter Three, section 2.8](../core_02-04_definition_mechanics.md#28-non-compliance-finding-profiles).
+5. Where a finding is **non-compliant**, optional [Non-Compliance Finding Profile](../core_05a_accountability_definitions.md#non-compliance-finding-profile) metadata (Triad leg · aim · governance layer) per the cluster map below and [Chapter Three, section 2.8](../core_02-04_definition_mechanics.md#28-non-compliance-finding-profiles).
 
 **Constitutional bands**
 
@@ -167,7 +167,7 @@ Use this compass before applying any **CJS-5** (*Implementation and cross-implem
 
 > The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this section or in other corpus files. Per-cluster constitutional framing lives in each cluster's Trace block; use this map for cross-cluster lookup, audits, and migration reference.
 
-**Finding profile shorthand (non-operative).** Default **Triad·Aim·Layer** codes orient material **non-compliance** findings: **O** Oversight · **P** Participation · **A** Accountability · **INT** integrative cross-leg; **F** Flourishing · **C** Continuity aim; **CCL** constitutional contract layer · **SSP** stakeholder system participation · **INT** integrative layer. Canonical rules: [Non-Compliance Finding Profile](../core_05-05_definitions_b_semi_independent.md#non-compliance-finding-profile); [Chapter Three, section 2.8](../core_02-04_definition_mechanics.md#28-non-compliance-finding-profiles). Adjust defaults when facts require; add **failure character** and **severity tier** per finding.
+**Finding profile shorthand (non-operative).** Default **Triad·Aim·Layer** codes orient material **non-compliance** findings: **O** Oversight · **P** Participation · **A** Accountability · **INT** integrative cross-leg; **F** Flourishing · **C** Continuity aim; **CCL** constitutional contract layer · **SSP** stakeholder system participation · **INT** integrative layer. Canonical rules: [Non-Compliance Finding Profile](../core_05a_accountability_definitions.md#non-compliance-finding-profile); [Chapter Three, section 2.8](../core_02-04_definition_mechanics.md#28-non-compliance-finding-profiles). Adjust defaults when facts require; add **failure character** and **severity tier** per finding.
 
 **Cluster map**
 

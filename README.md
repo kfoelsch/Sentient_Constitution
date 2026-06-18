@@ -6,11 +6,11 @@ Operative constitutional text for the **Sentient Constitution** lives in the num
 
 | | |
 |---|---|
-| **Corpus edition** | `SC-Corpus-2026.04.33` |
-| **Effective date** | 2026-04-24 |
-| **Status** | Substantive binding text through **Chapter Fifteen** is **stable for assurance review** under this edition. **SC-Corpus-2026.04.33** splits Chapter One into preamble + Parts A–B, renumbers Part B §§6–13 (stewardship → governance → capacity), and adds Chapter Five stewardship/governance/capacity definitions. |
+| **Corpus edition** | `SC-Corpus-2026.06.18` |
+| **Effective date** | 2026-06-18 |
+| **Status** | Substantive binding text through **Chapter Fifteen** is **stable for assurance review** under this edition. **SC-Corpus-2026.06.18** reorganizes Chapter Five into constitutional **band files** (Oversight, Participation, Accountability, Continuity, Integrative), renumbers §3 dependent clusters **§3.2–§3.16**, and adds the Chapter Five compass in Part A. |
 
-Custody and binding scope: [Chapter Five *Corpus*](core_05-05_definitions_c_dependent_clusters.md#corpus) and [Chapter Fifteen](core_15-15_incorporation.md). Bump the edition label only on a deliberate corpus publication cut.
+Custody and binding scope: [Chapter Five *Corpus*](core_05i_integrative_definitions.md#corpus) and [Chapter Fifteen](core_15-15_incorporation.md). Bump the edition label only on a deliberate corpus publication cut.
 
 ## How to read
 
@@ -35,9 +35,12 @@ The corpus is written in plain language with low jargon to improve accessibility
 
 - **Chapters Two through Four** (structure, integrity, burden, traceability) — [`core_02-04_definition_mechanics.md`](core_02-04_definition_mechanics.md)
 - **Chapter Five** (foundational definitions)
-  - Part A — reader guidance, directory, **§1 Independent Definitions** — [`core_05-05_definitions_a_independent.md`](core_05-05_definitions_a_independent.md)
-  - Part B — **§2 Semi-independent Definitions** — [`core_05-05_definitions_b_semi_independent.md`](core_05-05_definitions_b_semi_independent.md)
-  - Part C — **§3 Dependent clusters** — [`core_05-05_definitions_c_dependent_clusters.md`](core_05-05_definitions_c_dependent_clusters.md)
+  - Part A — compass, reader guidance, directory, §3.0 meta rules — [`core_05-05_definitions_a_independent.md`](core_05-05_definitions_a_independent.md)
+  - Oversight band — §1/§2/§3 **§3.2–§3.4** — [`core_05o_oversight_definitions.md`](core_05o_oversight_definitions.md)
+  - Participation band — §1/§2/§3 **§3.5–§3.7** — [`core_05p_participation_definitions.md`](core_05p_participation_definitions.md)
+  - Accountability band — §1/§2/§3 **§3.8–§3.11** — [`core_05a_accountability_definitions.md`](core_05a_accountability_definitions.md)
+  - Continuity band — §1/§2/§3 **§3.12–§3.15** — [`core_05c_continuity_definitions.md`](core_05c_continuity_definitions.md)
+  - Integrative band — §1/§2/§3 **§3.16** — [`core_05i_integrative_definitions.md`](core_05i_integrative_definitions.md)
 
 ### Standing pipeline
 

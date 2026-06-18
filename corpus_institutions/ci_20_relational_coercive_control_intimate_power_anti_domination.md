@@ -11,13 +11,13 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
 
-- [Contestability](../core_05-05_definitions_b_semi_independent.md#contestability) · [O](../core_05-05_definitions_b_semi_independent.md#contestability) · [E](../core_05-05_definitions_b_semi_independent.md#contestability-e) · [C](../core_05-05_definitions_b_semi_independent.md#contestability-c)
-- [Transparency](../core_05-05_definitions_c_dependent_clusters.md#transparency) · [O](../core_05-05_definitions_c_dependent_clusters.md#transparency) · [E](../core_05-05_definitions_c_dependent_clusters.md#transparency-e) · [C](../core_05-05_definitions_c_dependent_clusters.md#transparency-c)
-- [Dependency](../core_05-05_definitions_a_independent.md#dependency) · [O](../core_05-05_definitions_a_independent.md#dependency) · [E](../core_05-05_definitions_a_independent.md#dependency-e) · [C](../core_05-05_definitions_a_independent.md#dependency-c)
-- [Governance](../core_05-05_definitions_b_semi_independent.md#governance) · [O](../core_05-05_definitions_b_semi_independent.md#governance) · [E](../core_05-05_definitions_b_semi_independent.md#governance-e) · [C](../core_05-05_definitions_b_semi_independent.md#governance-c)
-- [Corpus](../core_05-05_definitions_c_dependent_clusters.md#corpus) · [O](../core_05-05_definitions_c_dependent_clusters.md#corpus) · [E](../core_05-05_definitions_c_dependent_clusters.md#corpus-e) · [C](../core_05-05_definitions_c_dependent_clusters.md#corpus-c)
-- [Coercion and Manipulation](../core_05-05_definitions_b_semi_independent.md#coercion-and-manipulation-constitutional) · [O](../core_05-05_definitions_b_semi_independent.md#coercion-and-manipulation-constitutional) · [E](../core_05-05_definitions_b_semi_independent.md#coercion-and-manipulation-constitutional-e) · [C](../core_05-05_definitions_b_semi_independent.md#coercion-and-manipulation-constitutional-c)
-- [Meaningful Agency](../core_05-05_definitions_b_semi_independent.md#meaningful-agency) · [O](../core_05-05_definitions_b_semi_independent.md#meaningful-agency) · [E](../core_05-05_definitions_b_semi_independent.md#meaningful-agency-e) · [C](../core_05-05_definitions_b_semi_independent.md#meaningful-agency-c)
+- [Contestability](../core_05a_accountability_definitions.md#contestability) · [O](../core_05a_accountability_definitions.md#contestability) · [E](../core_05a_accountability_definitions.md#contestability-e) · [C](../core_05a_accountability_definitions.md#contestability-c)
+- [Transparency](../core_05o_oversight_definitions.md#transparency) · [O](../core_05o_oversight_definitions.md#transparency) · [E](../core_05o_oversight_definitions.md#transparency-e) · [C](../core_05o_oversight_definitions.md#transparency-c)
+- [Dependency](../core_05c_continuity_definitions.md#dependency) · [O](../core_05c_continuity_definitions.md#dependency) · [E](../core_05c_continuity_definitions.md#dependency-e) · [C](../core_05c_continuity_definitions.md#dependency-c)
+- [Governance](../core_05a_accountability_definitions.md#governance) · [O](../core_05a_accountability_definitions.md#governance) · [E](../core_05a_accountability_definitions.md#governance-e) · [C](../core_05a_accountability_definitions.md#governance-c)
+- [Corpus](../core_05i_integrative_definitions.md#corpus) · [O](../core_05i_integrative_definitions.md#corpus) · [E](../core_05i_integrative_definitions.md#corpus-e) · [C](../core_05i_integrative_definitions.md#corpus-c)
+- [Coercion and Manipulation](../core_05p_participation_definitions.md#coercion-and-manipulation-constitutional) · [O](../core_05p_participation_definitions.md#coercion-and-manipulation-constitutional) · [E](../core_05p_participation_definitions.md#coercion-and-manipulation-constitutional-e) · [C](../core_05p_participation_definitions.md#coercion-and-manipulation-constitutional-c)
+- [Meaningful Agency](../core_05p_participation_definitions.md#meaningful-agency) · [O](../core_05p_participation_definitions.md#meaningful-agency) · [E](../core_05p_participation_definitions.md#meaningful-agency-e) · [C](../core_05p_participation_definitions.md#meaningful-agency-c)
 
 </details>
 
@@ -40,7 +40,7 @@
 *Shared rules live elsewhere.*
 
 - **[CJS-5.17](../corpus_joint_structure.md)** (*interoperability, portability, and exit-integrity terms*) — **Dependency-based coercion and reputation-lock pathway integrity**: economic dependence, credential custody, reputation systems, visibility controls, retaliation risk, and practical alternatives evaluated together.
-- **Chapter Five** [*Coercion and Manipulation*](../core_05-05_definitions_b_semi_independent.md#coercion-and-manipulation-constitutional) and [*Meaningful Agency*](../core_05-05_definitions_b_semi_independent.md#meaningful-agency) — definitional home for coercive leverage and dependency-pressure analysis.
+- **Chapter Five** [*Coercion and Manipulation*](../core_05p_participation_definitions.md#coercion-and-manipulation-constitutional) and [*Meaningful Agency*](../core_05p_participation_definitions.md#meaningful-agency) — definitional home for coercive leverage and dependency-pressure analysis.
 - **Article IX-A** (*Freedom from Manipulation*) in **Chapter Ten** — freedom-from-manipulation floor for dependency-rich systems and coercive choice architecture.
 - **Article X-A** (*Non-Imposition and Consent in Association*) in **Chapter Ten** — consent and non-imposition norms in cooperative and associational settings; exit from coercive group settings remains protected.
 - **Article V-D** (*Freedom of Conscience, Religion, and Comparable Worldview*) and **Article VII-D** (*Family, Care Relationships, Reproductive Autonomy, and Non-Separation*) in **Chapter Ten** — conscience, family, and care-relationship protections that **CI-20** does not dissolve.

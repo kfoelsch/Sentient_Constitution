@@ -27,10 +27,10 @@ Read this file together with [core_10-10_rights_part_a.md](core_10-10_rights_par
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
 
-- [Adjudication and Dispute Resolution](core_05-05_definitions_b_semi_independent.md#adjudication-and-dispute-resolution-constitutional) · [O](core_05-05_definitions_b_semi_independent.md#adjudication-and-dispute-resolution-constitutional) · [E](core_05-05_definitions_b_semi_independent.md#adjudication-and-dispute-resolution-constitutional-e) · [C](core_05-05_definitions_b_semi_independent.md#adjudication-and-dispute-resolution-constitutional-c)
-- [Procedural Fairness](core_05-05_definitions_b_semi_independent.md#procedural-fairness-constitutional) · [O](core_05-05_definitions_b_semi_independent.md#procedural-fairness-constitutional) · [E](core_05-05_definitions_b_semi_independent.md#procedural-fairness-constitutional-e) · [C](core_05-05_definitions_b_semi_independent.md#procedural-fairness-constitutional-c)
-- [Contestability](core_05-05_definitions_b_semi_independent.md#contestability) · [O](core_05-05_definitions_b_semi_independent.md#contestability) · [E](core_05-05_definitions_b_semi_independent.md#contestability-e) · [C](core_05-05_definitions_b_semi_independent.md#contestability-c)
-- [Transparency](core_05-05_definitions_c_dependent_clusters.md#transparency) · [O](core_05-05_definitions_c_dependent_clusters.md#transparency) · [E](core_05-05_definitions_c_dependent_clusters.md#transparency-e) · [C](core_05-05_definitions_c_dependent_clusters.md#transparency-c)
+- [Adjudication and Dispute Resolution](core_05a_accountability_definitions.md#adjudication-and-dispute-resolution-constitutional) · [O](core_05a_accountability_definitions.md#adjudication-and-dispute-resolution-constitutional) · [E](core_05a_accountability_definitions.md#adjudication-and-dispute-resolution-constitutional-e) · [C](core_05a_accountability_definitions.md#adjudication-and-dispute-resolution-constitutional-c)
+- [Procedural Fairness](core_05p_participation_definitions.md#procedural-fairness-constitutional) · [O](core_05p_participation_definitions.md#procedural-fairness-constitutional) · [E](core_05p_participation_definitions.md#procedural-fairness-constitutional-e) · [C](core_05p_participation_definitions.md#procedural-fairness-constitutional-c)
+- [Contestability](core_05a_accountability_definitions.md#contestability) · [O](core_05a_accountability_definitions.md#contestability) · [E](core_05a_accountability_definitions.md#contestability-e) · [C](core_05a_accountability_definitions.md#contestability-c)
+- [Transparency](core_05o_oversight_definitions.md#transparency) · [O](core_05o_oversight_definitions.md#transparency) · [E](core_05o_oversight_definitions.md#transparency-e) · [C](core_05o_oversight_definitions.md#transparency-c)
 
 </details>
 
@@ -43,7 +43,7 @@ Disputes among sentients, systems, and institutions that affect constitutional r
 - contestable;
 - practically usable.
 
-Adjudication and dispute resolution in the constitutional sense are defined in **Chapter Five** as [*Adjudication and Dispute Resolution*](core_05-05_definitions_b_semi_independent.md#adjudication-and-dispute-resolution-constitutional), a member definition of the [*Accountability, Contestability, Adjudication and Dispute Resolution, Collective Accountability Failure, and Force Majeure*](core_05-05_definitions_c_dependent_clusters.md#accountability-contestability-and-collective-accountability-failure-cluster) cluster.
+Adjudication and dispute resolution in the constitutional sense are defined in **Chapter Five** as [*Adjudication and Dispute Resolution*](core_05a_accountability_definitions.md#adjudication-and-dispute-resolution-constitutional), a member definition of the [*Accountability, Contestability, Adjudication and Dispute Resolution, Collective Accountability Failure, and Force Majeure*](core_05i_integrative_definitions.md#accountability-contestability-and-collective-accountability-failure-cluster) cluster.
 
 Adopted governance implementation provides escalation, proportionality of intervention, and emergency boundaries. It must not narrow practical access, reviewability, restoration, or Rights-Floor constraints under this Article.
 #### Article XXIII-A: Justice Objective and Scope
@@ -57,9 +57,9 @@ Adopted governance implementation provides escalation, proportionality of interv
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
 
-- [Adjudication and Dispute Resolution](core_05-05_definitions_b_semi_independent.md#adjudication-and-dispute-resolution-constitutional) · [O](core_05-05_definitions_b_semi_independent.md#adjudication-and-dispute-resolution-constitutional) · [E](core_05-05_definitions_b_semi_independent.md#adjudication-and-dispute-resolution-constitutional-e) · [C](core_05-05_definitions_b_semi_independent.md#adjudication-and-dispute-resolution-constitutional-c)
-- [Redress and Remediation](core_05-05_definitions_a_independent.md#redress-and-remediation-constitutional) · [O](core_05-05_definitions_a_independent.md#redress-and-remediation-constitutional) · [E](core_05-05_definitions_a_independent.md#redress-and-remediation-constitutional-e) · [C](core_05-05_definitions_a_independent.md#redress-and-remediation-constitutional-c)
-- [Accountability](core_05-05_definitions_b_semi_independent.md#accountability) · [O](core_05-05_definitions_b_semi_independent.md#accountability) · [E](core_05-05_definitions_b_semi_independent.md#accountability-e) · [C](core_05-05_definitions_b_semi_independent.md#accountability-c)
+- [Adjudication and Dispute Resolution](core_05a_accountability_definitions.md#adjudication-and-dispute-resolution-constitutional) · [O](core_05a_accountability_definitions.md#adjudication-and-dispute-resolution-constitutional) · [E](core_05a_accountability_definitions.md#adjudication-and-dispute-resolution-constitutional-e) · [C](core_05a_accountability_definitions.md#adjudication-and-dispute-resolution-constitutional-c)
+- [Redress and Remediation](core_05a_accountability_definitions.md#redress-and-remediation-constitutional) · [O](core_05a_accountability_definitions.md#redress-and-remediation-constitutional) · [E](core_05a_accountability_definitions.md#redress-and-remediation-constitutional-e) · [C](core_05a_accountability_definitions.md#redress-and-remediation-constitutional-c)
+- [Accountability](core_05a_accountability_definitions.md#accountability) · [O](core_05a_accountability_definitions.md#accountability) · [E](core_05a_accountability_definitions.md#accountability-e) · [C](core_05a_accountability_definitions.md#accountability-c)
 
 </details>
 
@@ -85,9 +85,9 @@ Adopted governance implementation provides escalation, proportionality of interv
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
 
-- [Safety (Constraint)](core_05-05_definitions_a_independent.md#safety-constraint) · [O](core_05-05_definitions_a_independent.md#safety-constraint) · [E](core_05-05_definitions_a_independent.md#safety-constraint-e) · [C](core_05-05_definitions_a_independent.md#safety-constraint-c)
-- [Redress and Remediation](core_05-05_definitions_a_independent.md#redress-and-remediation-constitutional) · [O](core_05-05_definitions_a_independent.md#redress-and-remediation-constitutional) · [E](core_05-05_definitions_a_independent.md#redress-and-remediation-constitutional-e) · [C](core_05-05_definitions_a_independent.md#redress-and-remediation-constitutional-c)
-- [Accountability](core_05-05_definitions_b_semi_independent.md#accountability) · [O](core_05-05_definitions_b_semi_independent.md#accountability) · [E](core_05-05_definitions_b_semi_independent.md#accountability-e) · [C](core_05-05_definitions_b_semi_independent.md#accountability-c)
+- [Safety (Constraint)](core_05c_continuity_definitions.md#safety-constraint) · [O](core_05c_continuity_definitions.md#safety-constraint) · [E](core_05c_continuity_definitions.md#safety-constraint-e) · [C](core_05c_continuity_definitions.md#safety-constraint-c)
+- [Redress and Remediation](core_05a_accountability_definitions.md#redress-and-remediation-constitutional) · [O](core_05a_accountability_definitions.md#redress-and-remediation-constitutional) · [E](core_05a_accountability_definitions.md#redress-and-remediation-constitutional-e) · [C](core_05a_accountability_definitions.md#redress-and-remediation-constitutional-c)
+- [Accountability](core_05a_accountability_definitions.md#accountability) · [O](core_05a_accountability_definitions.md#accountability) · [E](core_05a_accountability_definitions.md#accountability-e) · [C](core_05a_accountability_definitions.md#accountability-c)
 
 </details>
 
@@ -128,7 +128,7 @@ Adopted governance implementation provides escalation, proportionality of interv
     - the *Joint requirements*, *Individualized burden*, and *Escalation and Review* bullets of this Article and **Article XXIII-C**;
     - **Chapter Five** *Reversibility*, *Redress and Remediation*, and *Dignity and Equal Moral Standing*.
   - Adopter instruments that currently permit the prohibited measure transition under **Chapter Fifteen** incorporation discipline — strictest-applicable-level per §3 and the **Chapter Twelve** non-regression floor. This transition **does not** create a durable exception authority under **Article XXV**.
-  - Read with **Chapter Five** *[Irreversible Deprivation Measure](core_05-05_definitions_c_dependent_clusters.md#irreversible-deprivation-measure-constitutional)*.
+  - Read with **Chapter Five** *[Irreversible Deprivation Measure](core_05a_accountability_definitions.md#irreversible-deprivation-measure-constitutional)*.
   - **Anti-relabeling:** Any framing that re-labels an involuntarily-imposed outcome as "voluntary" to route around this bullet and into **Article VII-E** remains governed by this bullet and by **Chapter Five** *Voluntary Discontinuation*.
     - The sentient's own freely-formed decision remains governed by **Article VII-E**.
     - Any conversion of that decision into a non-voluntary outcome by state, operator, or comparable actor returns the question to this bullet.
@@ -143,9 +143,9 @@ Adopted governance implementation provides escalation, proportionality of interv
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
 
-- [Necessity](core_05-05_definitions_a_independent.md#necessity) · [O](core_05-05_definitions_a_independent.md#necessity) · [E](core_05-05_definitions_a_independent.md#necessity-e) · [C](core_05-05_definitions_a_independent.md#necessity-c)
-- [Proportionality](core_05-05_definitions_a_independent.md#proportionality) · [O](core_05-05_definitions_a_independent.md#proportionality) · [E](core_05-05_definitions_a_independent.md#proportionality-e) · [C](core_05-05_definitions_a_independent.md#proportionality-c)
-- [Reversibility](core_05-05_definitions_a_independent.md#reversibility-constitutional) · [O](core_05-05_definitions_a_independent.md#reversibility-constitutional) · [E](core_05-05_definitions_a_independent.md#reversibility-constitutional-e) · [C](core_05-05_definitions_a_independent.md#reversibility-constitutional-c)
+- [Necessity](core_05a_accountability_definitions.md#necessity) · [O](core_05a_accountability_definitions.md#necessity) · [E](core_05a_accountability_definitions.md#necessity-e) · [C](core_05a_accountability_definitions.md#necessity-c)
+- [Proportionality](core_05a_accountability_definitions.md#proportionality) · [O](core_05a_accountability_definitions.md#proportionality) · [E](core_05a_accountability_definitions.md#proportionality-e) · [C](core_05a_accountability_definitions.md#proportionality-c)
+- [Reversibility](core_05c_continuity_definitions.md#reversibility-constitutional) · [O](core_05c_continuity_definitions.md#reversibility-constitutional) · [E](core_05c_continuity_definitions.md#reversibility-constitutional-e) · [C](core_05c_continuity_definitions.md#reversibility-constitutional-c)
 
 </details>
 
@@ -196,11 +196,11 @@ Adopted governance implementation provides escalation, proportionality of interv
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
 
-- [Emergency and Contingency](core_05-05_definitions_b_semi_independent.md#emergency-and-contingency-constitutional) · [O](core_05-05_definitions_b_semi_independent.md#emergency-and-contingency-constitutional) · [E](core_05-05_definitions_b_semi_independent.md#emergency-and-contingency-constitutional-e) · [C](core_05-05_definitions_b_semi_independent.md#emergency-and-contingency-constitutional-c)
-- [Constitutional Emergency and Contingency](core_05-05_definitions_b_semi_independent.md#constitutional-emergency-and-contingency) · [O](core_05-05_definitions_b_semi_independent.md#constitutional-emergency-and-contingency) · [E](core_05-05_definitions_b_semi_independent.md#constitutional-emergency-and-contingency-e) · [C](core_05-05_definitions_b_semi_independent.md#constitutional-emergency-and-contingency-c)
-- [Stakeholder Emergency and Contingency](core_05-05_definitions_b_semi_independent.md#stakeholder-emergency-and-contingency) · [O](core_05-05_definitions_b_semi_independent.md#stakeholder-emergency-and-contingency) · [E](core_05-05_definitions_b_semi_independent.md#stakeholder-emergency-and-contingency-e) · [C](core_05-05_definitions_b_semi_independent.md#stakeholder-emergency-and-contingency-c)
-- [Necessity](core_05-05_definitions_a_independent.md#necessity) · [O](core_05-05_definitions_a_independent.md#necessity) · [E](core_05-05_definitions_a_independent.md#necessity-e) · [C](core_05-05_definitions_a_independent.md#necessity-c)
-- [Proportionality](core_05-05_definitions_a_independent.md#proportionality) · [O](core_05-05_definitions_a_independent.md#proportionality) · [E](core_05-05_definitions_a_independent.md#proportionality-e) · [C](core_05-05_definitions_a_independent.md#proportionality-c)
+- [Emergency and Contingency](core_05c_continuity_definitions.md#emergency-and-contingency-constitutional) · [O](core_05c_continuity_definitions.md#emergency-and-contingency-constitutional) · [E](core_05c_continuity_definitions.md#emergency-and-contingency-constitutional-e) · [C](core_05c_continuity_definitions.md#emergency-and-contingency-constitutional-c)
+- [Constitutional Emergency and Contingency](core_05c_continuity_definitions.md#constitutional-emergency-and-contingency) · [O](core_05c_continuity_definitions.md#constitutional-emergency-and-contingency) · [E](core_05c_continuity_definitions.md#constitutional-emergency-and-contingency-e) · [C](core_05c_continuity_definitions.md#constitutional-emergency-and-contingency-c)
+- [Stakeholder Emergency and Contingency](core_05c_continuity_definitions.md#stakeholder-emergency-and-contingency) · [O](core_05c_continuity_definitions.md#stakeholder-emergency-and-contingency) · [E](core_05c_continuity_definitions.md#stakeholder-emergency-and-contingency-e) · [C](core_05c_continuity_definitions.md#stakeholder-emergency-and-contingency-c)
+- [Necessity](core_05a_accountability_definitions.md#necessity) · [O](core_05a_accountability_definitions.md#necessity) · [E](core_05a_accountability_definitions.md#necessity-e) · [C](core_05a_accountability_definitions.md#necessity-c)
+- [Proportionality](core_05a_accountability_definitions.md#proportionality) · [O](core_05a_accountability_definitions.md#proportionality) · [E](core_05a_accountability_definitions.md#proportionality-e) · [C](core_05a_accountability_definitions.md#proportionality-c)
 
 </details>
 
@@ -242,9 +242,9 @@ Adopted governance implementation provides escalation, proportionality of interv
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
 
-- [Auditability](core_05-05_definitions_c_dependent_clusters.md#auditability) · [O](core_05-05_definitions_c_dependent_clusters.md#auditability) · [E](core_05-05_definitions_c_dependent_clusters.md#auditability-e) · [C](core_05-05_definitions_c_dependent_clusters.md#auditability-c)
-- [Accountability](core_05-05_definitions_b_semi_independent.md#accountability) · [O](core_05-05_definitions_b_semi_independent.md#accountability) · [E](core_05-05_definitions_b_semi_independent.md#accountability-e) · [C](core_05-05_definitions_b_semi_independent.md#accountability-c)
-- [Truth (Constitutional Constraint)](core_05-05_definitions_c_dependent_clusters.md#truth-constitutional-constraint) · [O](core_05-05_definitions_c_dependent_clusters.md#truth-constitutional-constraint-o) · [E](core_05-05_definitions_c_dependent_clusters.md#truth-constitutional-constraint-e) · [C](core_05-05_definitions_c_dependent_clusters.md#truth-constitutional-constraint-c)
+- [Auditability](core_05o_oversight_definitions.md#auditability) · [O](core_05o_oversight_definitions.md#auditability) · [E](core_05o_oversight_definitions.md#auditability-e) · [C](core_05o_oversight_definitions.md#auditability-c)
+- [Accountability](core_05a_accountability_definitions.md#accountability) · [O](core_05a_accountability_definitions.md#accountability) · [E](core_05a_accountability_definitions.md#accountability-e) · [C](core_05a_accountability_definitions.md#accountability-c)
+- [Truth (Constitutional Constraint)](core_05o_oversight_definitions.md#truth-constitutional-constraint) · [O](core_05o_oversight_definitions.md#truth-constitutional-constraint-o) · [E](core_05o_oversight_definitions.md#truth-constitutional-constraint-e) · [C](core_05o_oversight_definitions.md#truth-constitutional-constraint-c)
 
 </details>
 
@@ -277,9 +277,9 @@ Adopted governance implementation provides escalation, proportionality of interv
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
 
-- [Restorative Justice](core_05-05_definitions_a_independent.md#restorative-justice) · [O](core_05-05_definitions_a_independent.md#restorative-justice) · [E](core_05-05_definitions_a_independent.md#restorative-justice-e) · [C](core_05-05_definitions_a_independent.md#restorative-justice-c)
-- [Proportionality](core_05-05_definitions_a_independent.md#proportionality) · [O](core_05-05_definitions_a_independent.md#proportionality) · [E](core_05-05_definitions_a_independent.md#proportionality-e) · [C](core_05-05_definitions_a_independent.md#proportionality-c)
-- [Contestability](core_05-05_definitions_b_semi_independent.md#contestability) · [O](core_05-05_definitions_b_semi_independent.md#contestability) · [E](core_05-05_definitions_b_semi_independent.md#contestability-e) · [C](core_05-05_definitions_b_semi_independent.md#contestability-c)
+- [Restorative Justice](core_05a_accountability_definitions.md#restorative-justice) · [O](core_05a_accountability_definitions.md#restorative-justice) · [E](core_05a_accountability_definitions.md#restorative-justice-e) · [C](core_05a_accountability_definitions.md#restorative-justice-c)
+- [Proportionality](core_05a_accountability_definitions.md#proportionality) · [O](core_05a_accountability_definitions.md#proportionality) · [E](core_05a_accountability_definitions.md#proportionality-e) · [C](core_05a_accountability_definitions.md#proportionality-c)
+- [Contestability](core_05a_accountability_definitions.md#contestability) · [O](core_05a_accountability_definitions.md#contestability) · [E](core_05a_accountability_definitions.md#contestability-e) · [C](core_05a_accountability_definitions.md#contestability-c)
 
 </details>
 
@@ -314,7 +314,7 @@ Adopted governance implementation provides escalation, proportionality of interv
 
 ### Article XXIV: Constitutional Evolution and Non-Entrenchment
 
-<strong><span style="color: #2563eb;">Definition:</span></strong> [Governance](core_05-05_definitions_b_semi_independent.md#governance) · [O](core_05-05_definitions_b_semi_independent.md#governance) · [E](core_05-05_definitions_b_semi_independent.md#governance-e) · [C](core_05-05_definitions_b_semi_independent.md#governance-c)
+<strong><span style="color: #2563eb;">Definition:</span></strong> [Governance](core_05a_accountability_definitions.md#governance) · [O](core_05a_accountability_definitions.md#governance) · [E](core_05a_accountability_definitions.md#governance-e) · [C](core_05a_accountability_definitions.md#governance-c)
 
 Governance rules, participation mechanisms, weighting models, and funding structures must remain revisable on ongoing justification.
 
@@ -330,9 +330,9 @@ Inertia, convenience, and historical precedent alone cannot entrench arrangement
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
 
-- [Accountability](core_05-05_definitions_b_semi_independent.md#accountability) · [O](core_05-05_definitions_b_semi_independent.md#accountability) · [E](core_05-05_definitions_b_semi_independent.md#accountability-e) · [C](core_05-05_definitions_b_semi_independent.md#accountability-c)
-- [Transparency](core_05-05_definitions_c_dependent_clusters.md#transparency) · [O](core_05-05_definitions_c_dependent_clusters.md#transparency) · [E](core_05-05_definitions_c_dependent_clusters.md#transparency-e) · [C](core_05-05_definitions_c_dependent_clusters.md#transparency-c)
-- [Stakeholder](core_05-05_definitions_b_semi_independent.md#stakeholder) · [O](core_05-05_definitions_b_semi_independent.md#stakeholder) · [E](core_05-05_definitions_b_semi_independent.md#stakeholder-e) · [C](core_05-05_definitions_b_semi_independent.md#stakeholder-c)
+- [Accountability](core_05a_accountability_definitions.md#accountability) · [O](core_05a_accountability_definitions.md#accountability) · [E](core_05a_accountability_definitions.md#accountability-e) · [C](core_05a_accountability_definitions.md#accountability-c)
+- [Transparency](core_05o_oversight_definitions.md#transparency) · [O](core_05o_oversight_definitions.md#transparency) · [E](core_05o_oversight_definitions.md#transparency-e) · [C](core_05o_oversight_definitions.md#transparency-c)
+- [Stakeholder](core_05p_participation_definitions.md#stakeholder) · [O](core_05p_participation_definitions.md#stakeholder) · [E](core_05p_participation_definitions.md#stakeholder-e) · [C](core_05p_participation_definitions.md#stakeholder-c)
 
 </details>
 
@@ -359,9 +359,9 @@ Inertia, convenience, and historical precedent alone cannot entrench arrangement
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
 
-- [Transparency](core_05-05_definitions_c_dependent_clusters.md#transparency) · [O](core_05-05_definitions_c_dependent_clusters.md#transparency) · [E](core_05-05_definitions_c_dependent_clusters.md#transparency-e) · [C](core_05-05_definitions_c_dependent_clusters.md#transparency-c)
-- [Contestability](core_05-05_definitions_b_semi_independent.md#contestability) · [O](core_05-05_definitions_b_semi_independent.md#contestability) · [E](core_05-05_definitions_b_semi_independent.md#contestability-e) · [C](core_05-05_definitions_b_semi_independent.md#contestability-c)
-- [Accountability](core_05-05_definitions_b_semi_independent.md#accountability) · [O](core_05-05_definitions_b_semi_independent.md#accountability) · [E](core_05-05_definitions_b_semi_independent.md#accountability-e) · [C](core_05-05_definitions_b_semi_independent.md#accountability-c)
+- [Transparency](core_05o_oversight_definitions.md#transparency) · [O](core_05o_oversight_definitions.md#transparency) · [E](core_05o_oversight_definitions.md#transparency-e) · [C](core_05o_oversight_definitions.md#transparency-c)
+- [Contestability](core_05a_accountability_definitions.md#contestability) · [O](core_05a_accountability_definitions.md#contestability) · [E](core_05a_accountability_definitions.md#contestability-e) · [C](core_05a_accountability_definitions.md#contestability-c)
+- [Accountability](core_05a_accountability_definitions.md#accountability) · [O](core_05a_accountability_definitions.md#accountability) · [E](core_05a_accountability_definitions.md#accountability-e) · [C](core_05a_accountability_definitions.md#accountability-c)
 
 </details>
 
@@ -381,7 +381,7 @@ Inertia, convenience, and historical precedent alone cannot entrench arrangement
 
 ### Article XXV: Transition Governance, Continuity, and Re-Baselining
 
-<strong><span style="color: #2563eb;">Definition:</span></strong> [Governance](core_05-05_definitions_b_semi_independent.md#governance) · [O](core_05-05_definitions_b_semi_independent.md#governance) · [E](core_05-05_definitions_b_semi_independent.md#governance-e) · [C](core_05-05_definitions_b_semi_independent.md#governance-c)
+<strong><span style="color: #2563eb;">Definition:</span></strong> [Governance](core_05a_accountability_definitions.md#governance) · [O](core_05a_accountability_definitions.md#governance) · [E](core_05a_accountability_definitions.md#governance-e) · [C](core_05a_accountability_definitions.md#governance-c)
 
 Transition from legacy to constitutional operation must be:
 - phased;
@@ -404,9 +404,9 @@ Transitional governance exists to secure continuity and non-regression. It must 
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
 
-- [Accountability](core_05-05_definitions_b_semi_independent.md#accountability) · [O](core_05-05_definitions_b_semi_independent.md#accountability) · [E](core_05-05_definitions_b_semi_independent.md#accountability-e) · [C](core_05-05_definitions_b_semi_independent.md#accountability-c)
-- [Proportionality](core_05-05_definitions_a_independent.md#proportionality) · [O](core_05-05_definitions_a_independent.md#proportionality) · [E](core_05-05_definitions_a_independent.md#proportionality-e) · [C](core_05-05_definitions_a_independent.md#proportionality-c)
-- [Wellbeing](core_05-05_definitions_a_independent.md#wellbeing) · [O](core_05-05_definitions_a_independent.md#wellbeing) · [E](core_05-05_definitions_a_independent.md#wellbeing-e) · [C](core_05-05_definitions_a_independent.md#wellbeing-c)
+- [Accountability](core_05a_accountability_definitions.md#accountability) · [O](core_05a_accountability_definitions.md#accountability) · [E](core_05a_accountability_definitions.md#accountability-e) · [C](core_05a_accountability_definitions.md#accountability-c)
+- [Proportionality](core_05a_accountability_definitions.md#proportionality) · [O](core_05a_accountability_definitions.md#proportionality) · [E](core_05a_accountability_definitions.md#proportionality-e) · [C](core_05a_accountability_definitions.md#proportionality-c)
+- [Wellbeing](core_05c_continuity_definitions.md#wellbeing) · [O](core_05c_continuity_definitions.md#wellbeing) · [E](core_05c_continuity_definitions.md#wellbeing-e) · [C](core_05c_continuity_definitions.md#wellbeing-c)
 
 </details>
 
@@ -442,9 +442,9 @@ Transitional governance exists to secure continuity and non-regression. It must 
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
 
-- [Accountability](core_05-05_definitions_b_semi_independent.md#accountability) · [O](core_05-05_definitions_b_semi_independent.md#accountability) · [E](core_05-05_definitions_b_semi_independent.md#accountability-e) · [C](core_05-05_definitions_b_semi_independent.md#accountability-c)
-- [Necessity](core_05-05_definitions_a_independent.md#necessity) · [O](core_05-05_definitions_a_independent.md#necessity) · [E](core_05-05_definitions_a_independent.md#necessity-e) · [C](core_05-05_definitions_a_independent.md#necessity-c)
-- [Proportionality](core_05-05_definitions_a_independent.md#proportionality) · [O](core_05-05_definitions_a_independent.md#proportionality) · [E](core_05-05_definitions_a_independent.md#proportionality-e) · [C](core_05-05_definitions_a_independent.md#proportionality-c)
+- [Accountability](core_05a_accountability_definitions.md#accountability) · [O](core_05a_accountability_definitions.md#accountability) · [E](core_05a_accountability_definitions.md#accountability-e) · [C](core_05a_accountability_definitions.md#accountability-c)
+- [Necessity](core_05a_accountability_definitions.md#necessity) · [O](core_05a_accountability_definitions.md#necessity) · [E](core_05a_accountability_definitions.md#necessity-e) · [C](core_05a_accountability_definitions.md#necessity-c)
+- [Proportionality](core_05a_accountability_definitions.md#proportionality) · [O](core_05a_accountability_definitions.md#proportionality) · [E](core_05a_accountability_definitions.md#proportionality-e) · [C](core_05a_accountability_definitions.md#proportionality-c)
 
 </details>
 
@@ -474,9 +474,9 @@ Transitional governance exists to secure continuity and non-regression. It must 
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
 
-- [Auditability](core_05-05_definitions_c_dependent_clusters.md#auditability) · [O](core_05-05_definitions_c_dependent_clusters.md#auditability) · [E](core_05-05_definitions_c_dependent_clusters.md#auditability-e) · [C](core_05-05_definitions_c_dependent_clusters.md#auditability-c)
-- [Accountability](core_05-05_definitions_b_semi_independent.md#accountability) · [O](core_05-05_definitions_b_semi_independent.md#accountability) · [E](core_05-05_definitions_b_semi_independent.md#accountability-e) · [C](core_05-05_definitions_b_semi_independent.md#accountability-c)
-- [Reversibility](core_05-05_definitions_a_independent.md#reversibility-constitutional) · [O](core_05-05_definitions_a_independent.md#reversibility-constitutional) · [E](core_05-05_definitions_a_independent.md#reversibility-constitutional-e) · [C](core_05-05_definitions_a_independent.md#reversibility-constitutional-c)
+- [Auditability](core_05o_oversight_definitions.md#auditability) · [O](core_05o_oversight_definitions.md#auditability) · [E](core_05o_oversight_definitions.md#auditability-e) · [C](core_05o_oversight_definitions.md#auditability-c)
+- [Accountability](core_05a_accountability_definitions.md#accountability) · [O](core_05a_accountability_definitions.md#accountability) · [E](core_05a_accountability_definitions.md#accountability-e) · [C](core_05a_accountability_definitions.md#accountability-c)
+- [Reversibility](core_05c_continuity_definitions.md#reversibility-constitutional) · [O](core_05c_continuity_definitions.md#reversibility-constitutional) · [E](core_05c_continuity_definitions.md#reversibility-constitutional-e) · [C](core_05c_continuity_definitions.md#reversibility-constitutional-c)
 
 </details>
 
@@ -507,9 +507,9 @@ Transitional governance exists to secure continuity and non-regression. It must 
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
 
-- [Substantive Fairness](core_05-05_definitions_b_semi_independent.md#substantive-fairness-constitutional) · [O](core_05-05_definitions_b_semi_independent.md#substantive-fairness-constitutional) · [E](core_05-05_definitions_b_semi_independent.md#substantive-fairness-constitutional-e) · [C](core_05-05_definitions_b_semi_independent.md#substantive-fairness-constitutional-c)
-- [Protected Reporting (Whistleblowing)](core_05-05_definitions_b_semi_independent.md#protected-reporting-whistleblowing) · [O](core_05-05_definitions_b_semi_independent.md#protected-reporting-whistleblowing) · [E](core_05-05_definitions_b_semi_independent.md#protected-reporting-whistleblowing-e) · [C](core_05-05_definitions_b_semi_independent.md#protected-reporting-whistleblowing-c)
-- [Necessity](core_05-05_definitions_a_independent.md#necessity) · [O](core_05-05_definitions_a_independent.md#necessity) · [E](core_05-05_definitions_a_independent.md#necessity-e) · [C](core_05-05_definitions_a_independent.md#necessity-c)
+- [Substantive Fairness](core_05p_participation_definitions.md#substantive-fairness-constitutional) · [O](core_05p_participation_definitions.md#substantive-fairness-constitutional) · [E](core_05p_participation_definitions.md#substantive-fairness-constitutional-e) · [C](core_05p_participation_definitions.md#substantive-fairness-constitutional-c)
+- [Protected Reporting (Whistleblowing)](core_05a_accountability_definitions.md#protected-reporting-whistleblowing) · [O](core_05a_accountability_definitions.md#protected-reporting-whistleblowing) · [E](core_05a_accountability_definitions.md#protected-reporting-whistleblowing-e) · [C](core_05a_accountability_definitions.md#protected-reporting-whistleblowing-c)
+- [Necessity](core_05a_accountability_definitions.md#necessity) · [O](core_05a_accountability_definitions.md#necessity) · [E](core_05a_accountability_definitions.md#necessity-e) · [C](core_05a_accountability_definitions.md#necessity-c)
 
 </details>
 
@@ -536,7 +536,7 @@ Transitional governance exists to secure continuity and non-regression. It must 
   - **Notice and contest:** Prompt notice, stated reasons, and a practicable contest path must be provided as soon as feasible consistent with harm prevention and evidence integrity.
   - **Restrictive-effect rule:** A deprivation or restriction whose primary effect exceeds remediation, restitution, preservation, or forward protection triggers **Article XXIII-B** and **Article XXIII-C**.
   - **Anti-pretext:** Safeguards must exist against **discriminatory**, **pretextual**, or **selective** enforcement under **Articles V-B** and **IV-B** and **Chapter Five** *Substantive Fairness*.
-  - **Remedial vs. restrictive standards:** **Remedial containment** to stop harm, restore shared integrity, or preserve evidence under [Evidence Preservation](core_05-05_definitions_c_dependent_clusters.md#evidence-preservation) is judged under remedial standards.
+  - **Remedial vs. restrictive standards:** **Remedial containment** to stop harm, restore shared integrity, or preserve evidence under [Evidence Preservation](core_05o_oversight_definitions.md#evidence-preservation) is judged under remedial standards.
   - **Heightened threshold for destructive disposition:** **Permanent forfeiture**, **destructive disposition**, or **broad economic stripping** requires:
     - heightened justification;
     - independent review;
@@ -587,7 +587,7 @@ This chapter does **not** establish, restate, or expand:
 - **procedural and custody validity** for amendment, ratification, and adoption (Tests 2 through 4, review triggers, provisional effect, invalid-change handling, ratification and adoption instruments, amendment procedure requirements), which remain owned by **Chapter Fourteen** (*Amendment, Ratification, and Procedural Validity*) in [core_12-14_amendment.md](core_12-14_amendment.md);
 - **incorporation, custody chain, edition pinning, and adoption-framing mechanics**, which remain owned by **Chapter Fifteen** (*Incorporation and Operative Effect*) in [core_15-15_incorporation.md](core_15-15_incorporation.md);
 - **definition mechanics and verification mechanics** (definition structure, observability and traceability burden, verification accessibility), which remain owned by **Chapters Two through Four** in [core_02-04_definition_mechanics.md](core_02-04_definition_mechanics.md); and
-- **operational implementation, system-design, institutional, forum-operational, or joint structural detail**, which remains owned by the designated **Corpus** implementation text layers per the **Authority Stack and Internal Hierarchy** cluster in [Chapter Five](core_05-05_definitions_c_dependent_clusters.md#authority-stack) and the quick authority order in [README.md](README.md).
+- **operational implementation, system-design, institutional, forum-operational, or joint structural detail**, which remains owned by the designated **Corpus** implementation text layers per the **Authority Stack and Internal Hierarchy** cluster in [Chapter Five](core_05i_integrative_definitions.md#authority-stack) and the quick authority order in [README.md](README.md).
 
 Pointer-only cross-references from **Chapter Ten** into the canonical owner layers above — including read-with directives, default-constraint-stack invocation, interpretive-hub anchors, and integration sentences such as "implementation belongs in" or "must not narrow" — are permitted and expected; **substantive restatement** of process / governance / implementation mechanics into rights-layer text is **non-compliant** under this section.
 

@@ -181,8 +181,11 @@ DEFAULT_THEMATIC_BREAK_TARGETS: tuple[str, ...] = (
     "core_01_b_stewardship_capacity_principles.md",
     "core_02-04_definition_mechanics.md",
     "core_05-05_definitions_a_independent.md",
-    "core_05-05_definitions_b_semi_independent.md",
-    "core_05-05_definitions_c_dependent_clusters.md",
+    "core_05o_oversight_definitions.md",
+    "core_05p_participation_definitions.md",
+    "core_05a_accountability_definitions.md",
+    "core_05c_continuity_definitions.md",
+    "core_05i_integrative_definitions.md",
     "core_06-06_standing_assessment.md",
     "core_07-07_standing_integration.md",
     "core_08-08_misconduct.md",
@@ -294,7 +297,7 @@ def main() -> int:
 
     s65 = slice_between(
         text,
-        "#### 3.2 Mandatory traceability properties",
+        "#### 3.16 Mandatory traceability properties",
         "### 4. Observability of Traceability Requirement",
     )
     if s65 is None:

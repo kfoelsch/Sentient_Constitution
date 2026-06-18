@@ -11,13 +11,13 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
 
-- [Proportionality](../core_05-05_definitions_a_independent.md#proportionality) · [O](../core_05-05_definitions_a_independent.md#proportionality) · [E](../core_05-05_definitions_a_independent.md#proportionality-e) · [C](../core_05-05_definitions_a_independent.md#proportionality-c)
-- [Contestability](../core_05-05_definitions_b_semi_independent.md#contestability) · [O](../core_05-05_definitions_b_semi_independent.md#contestability) · [E](../core_05-05_definitions_b_semi_independent.md#contestability-e) · [C](../core_05-05_definitions_b_semi_independent.md#contestability-c)
-- [Transparency](../core_05-05_definitions_c_dependent_clusters.md#transparency) · [O](../core_05-05_definitions_c_dependent_clusters.md#transparency) · [E](../core_05-05_definitions_c_dependent_clusters.md#transparency-e) · [C](../core_05-05_definitions_c_dependent_clusters.md#transparency-c)
-- [Governance](../core_05-05_definitions_b_semi_independent.md#governance) · [O](../core_05-05_definitions_b_semi_independent.md#governance) · [E](../core_05-05_definitions_b_semi_independent.md#governance-e) · [C](../core_05-05_definitions_b_semi_independent.md#governance-c)
-- [Necessity](../core_05-05_definitions_a_independent.md#necessity) · [O](../core_05-05_definitions_a_independent.md#necessity) · [E](../core_05-05_definitions_a_independent.md#necessity-e) · [C](../core_05-05_definitions_a_independent.md#necessity-c)
-- [Collective Organization](../core_05-05_definitions_b_semi_independent.md#collective-organization-constitutional) · [O](../core_05-05_definitions_b_semi_independent.md#collective-organization-constitutional) · [E](../core_05-05_definitions_b_semi_independent.md#collective-organization-constitutional-e) · [C](../core_05-05_definitions_b_semi_independent.md#collective-organization-constitutional-c)
-- [Incentive Alignment](../core_05-05_definitions_a_independent.md#incentive-alignment) · [O](../core_05-05_definitions_a_independent.md#incentive-alignment) · [E](../core_05-05_definitions_a_independent.md#incentive-alignment-e) · [C](../core_05-05_definitions_a_independent.md#incentive-alignment-c)
+- [Proportionality](../core_05a_accountability_definitions.md#proportionality) · [O](../core_05a_accountability_definitions.md#proportionality) · [E](../core_05a_accountability_definitions.md#proportionality-e) · [C](../core_05a_accountability_definitions.md#proportionality-c)
+- [Contestability](../core_05a_accountability_definitions.md#contestability) · [O](../core_05a_accountability_definitions.md#contestability) · [E](../core_05a_accountability_definitions.md#contestability-e) · [C](../core_05a_accountability_definitions.md#contestability-c)
+- [Transparency](../core_05o_oversight_definitions.md#transparency) · [O](../core_05o_oversight_definitions.md#transparency) · [E](../core_05o_oversight_definitions.md#transparency-e) · [C](../core_05o_oversight_definitions.md#transparency-c)
+- [Governance](../core_05a_accountability_definitions.md#governance) · [O](../core_05a_accountability_definitions.md#governance) · [E](../core_05a_accountability_definitions.md#governance-e) · [C](../core_05a_accountability_definitions.md#governance-c)
+- [Necessity](../core_05a_accountability_definitions.md#necessity) · [O](../core_05a_accountability_definitions.md#necessity) · [E](../core_05a_accountability_definitions.md#necessity-e) · [C](../core_05a_accountability_definitions.md#necessity-c)
+- [Collective Organization](../core_05p_participation_definitions.md#collective-organization-constitutional) · [O](../core_05p_participation_definitions.md#collective-organization-constitutional) · [E](../core_05p_participation_definitions.md#collective-organization-constitutional-e) · [C](../core_05p_participation_definitions.md#collective-organization-constitutional-c)
+- [Incentive Alignment](../core_05i_integrative_definitions.md#incentive-alignment) · [O](../core_05i_integrative_definitions.md#incentive-alignment) · [E](../core_05i_integrative_definitions.md#incentive-alignment-e) · [C](../core_05i_integrative_definitions.md#incentive-alignment-c)
 
 </details>
 
@@ -43,7 +43,7 @@
 - **Article III-D** (*Labor and Economic Floor*) in **Chapter Ten** — collective organization, fair compensation, safe conditions, and leisure and rest for cooperative and comparable productive activity.
 - **Article IX-B** (*Stakeholder Role and Participation Rights*) in **Chapter Ten** — meaningful, proportionate, and challengeable participation in decisions that materially affect stakeholders.
 - **Article X-A** (*Non-Imposition and Consent in Association*) in **Chapter Ten** — consent and non-imposition norms in cooperative ventures; freedom to leave coercive group settings remains protected.
-- **Chapter Five** [*Collective Organization*](../core_05-05_definitions_b_semi_independent.md#collective-organization-constitutional) — definitional home for unions, cooperatives, guilds, associations, and comparable substrate-agnostic forms.
+- **Chapter Five** [*Collective Organization*](../core_05p_participation_definitions.md#collective-organization-constitutional) — definitional home for unions, cooperatives, guilds, associations, and comparable substrate-agnostic forms.
 - **Protocol S5** (*Resource Allocation and Funding Stewardship*) in `corpus_systems.md` — funding stewardship, dependent-systems mapping, and auditable allocation for cooperative and mutual-aid resource flows.
 - **CI-11** — resource stewardship and incentive integrity: fiscal allocation alignment and continuity triggers where commons infrastructure is materially dependent on institutional funding.
 - **CI-6** — procedure integrity, contestability, and secondary review.

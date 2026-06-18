@@ -12,13 +12,13 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
 
-- [Transparency](../core_05-05_definitions_c_dependent_clusters.md#transparency) · [O](../core_05-05_definitions_c_dependent_clusters.md#transparency) · [E](../core_05-05_definitions_c_dependent_clusters.md#transparency-e) · [C](../core_05-05_definitions_c_dependent_clusters.md#transparency-c)
-- [Governance](../core_05-05_definitions_b_semi_independent.md#governance) · [O](../core_05-05_definitions_b_semi_independent.md#governance) · [E](../core_05-05_definitions_b_semi_independent.md#governance-e) · [C](../core_05-05_definitions_b_semi_independent.md#governance-c)
-- [Negligence](../core_05-05_definitions_a_independent.md#negligence) · [O](../core_05-05_definitions_a_independent.md#negligence) · [E](../core_05-05_definitions_a_independent.md#negligence-e) · [C](../core_05-05_definitions_a_independent.md#negligence-c)
-- [Material](../core_05-05_definitions_b_semi_independent.md#material) · [O](../core_05-05_definitions_b_semi_independent.md#material) · [E](../core_05-05_definitions_b_semi_independent.md#material-e) · [C](../core_05-05_definitions_b_semi_independent.md#material-c)
-- [Corpus](../core_05-05_definitions_c_dependent_clusters.md#corpus) · [O](../core_05-05_definitions_c_dependent_clusters.md#corpus) · [E](../core_05-05_definitions_c_dependent_clusters.md#corpus-e) · [C](../core_05-05_definitions_c_dependent_clusters.md#corpus-c)
-- [System](../core_05-05_definitions_b_semi_independent.md#system-definition) · [O](../core_05-05_definitions_b_semi_independent.md#system-definition) · [E](../core_05-05_definitions_b_semi_independent.md#system-definition-e) · [C](../core_05-05_definitions_b_semi_independent.md#system-definition-c)
-- [Strategic Stewardship Obligation](../core_05-05_definitions_b_semi_independent.md#strategic-stewardship-obligation-constitutional) · [O](../core_05-05_definitions_b_semi_independent.md#strategic-stewardship-obligation-constitutional) · [E](../core_05-05_definitions_b_semi_independent.md#strategic-stewardship-obligation-constitutional-e) · [C](../core_05-05_definitions_b_semi_independent.md#strategic-stewardship-obligation-constitutional-c)
+- [Transparency](../core_05o_oversight_definitions.md#transparency) · [O](../core_05o_oversight_definitions.md#transparency) · [E](../core_05o_oversight_definitions.md#transparency-e) · [C](../core_05o_oversight_definitions.md#transparency-c)
+- [Governance](../core_05a_accountability_definitions.md#governance) · [O](../core_05a_accountability_definitions.md#governance) · [E](../core_05a_accountability_definitions.md#governance-e) · [C](../core_05a_accountability_definitions.md#governance-c)
+- [Negligence](../core_05a_accountability_definitions.md#negligence) · [O](../core_05a_accountability_definitions.md#negligence) · [E](../core_05a_accountability_definitions.md#negligence-e) · [C](../core_05a_accountability_definitions.md#negligence-c)
+- [Material](../core_05o_oversight_definitions.md#material) · [O](../core_05o_oversight_definitions.md#material) · [E](../core_05o_oversight_definitions.md#material-e) · [C](../core_05o_oversight_definitions.md#material-c)
+- [Corpus](../core_05i_integrative_definitions.md#corpus) · [O](../core_05i_integrative_definitions.md#corpus) · [E](../core_05i_integrative_definitions.md#corpus-e) · [C](../core_05i_integrative_definitions.md#corpus-c)
+- [System](../core_05c_continuity_definitions.md#system-definition) · [O](../core_05c_continuity_definitions.md#system-definition) · [E](../core_05c_continuity_definitions.md#system-definition-e) · [C](../core_05c_continuity_definitions.md#system-definition-c)
+- [Strategic Stewardship Obligation](../core_05a_accountability_definitions.md#strategic-stewardship-obligation-constitutional) · [O](../core_05a_accountability_definitions.md#strategic-stewardship-obligation-constitutional) · [E](../core_05a_accountability_definitions.md#strategic-stewardship-obligation-constitutional-e) · [C](../core_05a_accountability_definitions.md#strategic-stewardship-obligation-constitutional-c)
 
 </details>
 

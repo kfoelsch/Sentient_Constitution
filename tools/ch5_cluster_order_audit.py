@@ -14,8 +14,7 @@ import sys
 from pathlib import Path
 
 
-PART_B = "core_05-05_definitions_b_semi_independent.md"
-PART_C = "core_05-05_definitions_c_dependent_clusters.md"
+from ch5_paths import CH5_BANDS, CH5_INDEX
 
 
 EXPECTED_TOPIC_GROUPS: dict[str, list[str]] = {
@@ -87,7 +86,7 @@ TOPIC_GROUP_HEADINGS: set[str] = set(EXPECTED_TOPIC_GROUPS) | {
 
 
 EXPECTED_CLUSTERS: dict[str, list[str]] = {
-    "#### 3.1 Animal Life, Sentient Life, and Sentience Status": [
+    "#### 3.5 Animal Life, Sentient Life, and Sentience Status": [
         "Sentient",
         "Sentience Non-Exclusion",
         "Animal Life",
@@ -96,26 +95,26 @@ EXPECTED_CLUSTERS: dict[str, list[str]] = {
         "Sentience Evaluation",
         "Article V-E",
     ],
-    "#### 3.2 Binding Stakeholder Choice": [
+    "#### 3.6 Binding Stakeholder Choice": [
         "Binding Stakeholder Choice — Decision-Resolution Requirements",
         "Stakeholder Representation and Participation-Weight Limits (Binding Stakeholder Choice)",
         "Stakeholder Rights-Collision Record (Binding Stakeholder Choice)",
         "Chapter Eleven §4.3",
     ],
-    "#### 3.3 Collective Harm Boundary, Harm, and Harassment and Bullying": [
+    "#### 3.8 Collective Harm Boundary, Harm, and Harassment and Bullying": [
         "Harm",
         "Collective Harm Boundary",
         "Psychological Harm",
         "Irreversible Harm",
         "Harassment and Bullying",
     ],
-    "#### 3.4 Corpus, Authority Stack, Supremacy, and Enforceability": [
+    "#### 3.16 Corpus, Authority Stack, Supremacy, and Enforceability": [
         "Corpus",
         "Authority Stack and Internal Hierarchy",
         "Supremacy and Enforceability",
         "Constitutional Constraint Violation",
     ],
-    "#### 3.5 Labor and Economic Floor: Compensation, Organization, Safe Conditions, Leisure, and Creative Work": [
+    "#### 3.12 Labor and Economic Floor: Compensation, Organization, Safe Conditions, Leisure, and Creative Work": [
         "Fair Compensation",
         "Safe Conditions",
         "Leisure and Rest",
@@ -124,7 +123,7 @@ EXPECTED_CLUSTERS: dict[str, list[str]] = {
         "Training-Data Use",
         "Anti-Displacement Floor",
     ],
-    "#### 3.6 Forum Families and Dispute Routing": [
+    "#### 3.9 Forum Families and Dispute Routing": [
         "Forum Family, Sentient",
         "Forum Family, Technical",
         "Forum Family, Institutional",
@@ -133,7 +132,7 @@ EXPECTED_CLUSTERS: dict[str, list[str]] = {
         "Forum Family, Constitutional",
         "Primary-Stakes Routing",
     ],
-    "#### 3.8 Self-Determination, Meaningful Agency, Expression, Educational Agency, and Volitional Integrity": [
+    "#### 3.7 Self-Determination, Meaningful Agency, Expression, Educational Agency, and Volitional Integrity": [
         "Self-Determination",
         "Meaningful Agency",
         "Expression",
@@ -141,7 +140,7 @@ EXPECTED_CLUSTERS: dict[str, list[str]] = {
         "Volitional Integrity",
         "Freedom (Bounded Agency)",
     ],
-    "#### 3.9 Standing State, Contribution, and Violation": [
+    "#### 3.10 Standing State, Contribution, and Violation": [
         "Participant Standing",
         "Contribution State",
         "Verified Inputs for Standing",
@@ -157,7 +156,7 @@ EXPECTED_CLUSTERS: dict[str, list[str]] = {
         "Single Catastrophic Incident",
         "Sustained High-Gravity Pattern",
     ],
-    "#### 3.10 Stewardship, Governance Discipline, and Shared-System Capacity": [
+    "#### 3.13 Stewardship, Governance Discipline, and Shared-System Capacity": [
         "Stewardship",
         "Distributed Understanding",
         "Short-Horizon Governance Defect",
@@ -165,7 +164,7 @@ EXPECTED_CLUSTERS: dict[str, list[str]] = {
         "Stewardship Defect",
         "Review and Correction Duty",
     ],
-    "#### 3.12 Transparency, Auditability, and Verification": [
+    "#### 3.2 Transparency, Auditability, and Verification": [
         "Transparency",
         "Auditability",
         "Evidence Preservation",
@@ -179,19 +178,19 @@ EXPECTED_CLUSTERS: dict[str, list[str]] = {
         "Verification Proportionality",
         "Verification Robustness",
     ],
-    "#### 3.13 Trust and Trustworthiness": [
+    "#### 3.15 Trust and Trustworthiness": [
         "Trust",
         "Trustworthiness",
         "Trust Degradation and Misleading Reliance",
     ],
-    "#### 3.14 Truth and Epistemic Integrity": [
+    "#### 3.3 Truth and Epistemic Integrity": [
         "Truth (Constitutional Constraint)",
         "Epistemic Integrity",
         "Foreseeability Diligence",
         "Reasonably Foreseeable",
         "Publication and High-Impact Communication",
     ],
-    "#### 3.15 Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm": [
+    "#### 3.11 Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm": [
         "Use of Force",
         "Autonomous Lethal System",
         "Weapons of Mass Harm",
@@ -216,6 +215,8 @@ def collect_topic_group_entries(lines: list[str], heading: str, group_headings: 
     for i in range(start + 1, len(lines)):
         stripped = lines[i].strip()
         if stripped in group_headings:
+            break
+        if re.match(r"^#### 3\.\d+", stripped):
             break
         m = H4_RE.match(stripped)
         if m:
@@ -256,19 +257,33 @@ def collect_cluster_members(lines: list[str], heading: str) -> tuple[int, list[s
     return member_start + 1, members
 
 
+def find_lines_for_heading(all_lines: dict[str, list[str]], heading: str) -> tuple[str, list[str], int]:
+    prefix = heading[:20]
+    for fname, lines in all_lines.items():
+        for i, line in enumerate(lines):
+            if line.strip() == heading or line.strip().startswith(prefix):
+                if line.strip().startswith("#### 3.") and heading.startswith("#### 3."):
+                    if line.strip() == heading:
+                        return fname, lines, i
+                elif line.strip() == heading:
+                    return fname, lines, i
+    raise ValueError(f"missing heading: {heading}")
+
+
 def main() -> int:
     parser = argparse.ArgumentParser()
     parser.add_argument("--root", default=".", help="repository root")
     args = parser.parse_args()
 
     root = Path(args.root)
-    part_b_lines = (root / PART_B).read_text(encoding="utf-8").splitlines()
-    part_c_lines = (root / PART_C).read_text(encoding="utf-8").splitlines()
+    ch5_files = [CH5_INDEX, *CH5_BANDS]
+    all_lines = {name: (root / name).read_text(encoding="utf-8").splitlines() for name in ch5_files}
 
     failures: list[str] = []
     for heading, expected in EXPECTED_TOPIC_GROUPS.items():
         try:
-            line_no, actual = collect_topic_group_entries(part_b_lines, heading, TOPIC_GROUP_HEADINGS)
+            fname, lines, start_idx = find_lines_for_heading(all_lines, heading)
+            line_no, actual = collect_topic_group_entries(lines, heading, TOPIC_GROUP_HEADINGS)
         except ValueError as exc:
             failures.append(str(exc))
             continue
@@ -276,7 +291,7 @@ def main() -> int:
             failures.append(
                 "\n".join(
                     [
-                        f"{PART_B}:{line_no}: topic-group order drift under {heading}",
+                        f"{fname}:{line_no}: topic-group order drift under {heading}",
                         f"  expected: {expected}",
                         f"  actual:   {actual}",
                     ]
@@ -285,7 +300,8 @@ def main() -> int:
 
     for heading, expected in EXPECTED_CLUSTERS.items():
         try:
-            line_no, actual = collect_cluster_members(part_c_lines, heading)
+            fname, lines, _ = find_lines_for_heading(all_lines, heading)
+            line_no, actual = collect_cluster_members(lines, heading)
         except ValueError as exc:
             failures.append(str(exc))
             continue
@@ -293,7 +309,7 @@ def main() -> int:
             failures.append(
                 "\n".join(
                     [
-                        f"{PART_C}:{line_no}: cluster member order drift under {heading}",
+                        f"{fname}:{line_no}: cluster member order drift under {heading}",
                         f"  expected: {expected}",
                         f"  actual:   {actual}",
                     ]
