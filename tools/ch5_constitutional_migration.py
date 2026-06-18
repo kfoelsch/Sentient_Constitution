@@ -49,7 +49,6 @@ EXTENSIONS = {".md", ".py", ".json", ".csv", ".mmd"}
 CLUSTER_RENUMBER: dict[str, str] = {
     "3.12": "3.2",
     "3.14": "3.3",
-    "3.11": "3.4",
     "3.1": "3.5",
     "3.2": "3.6",
     "3.8": "3.7",
@@ -75,7 +74,6 @@ CLUSTER_TITLES: dict[str, str] = {
     "3.8": "Self-Determination, Meaningful Agency, Expression, Educational Agency, and Volitional Integrity",
     "3.9": "Standing State, Contribution, and Violation",
     "3.10": "Stewardship, Governance Discipline, and Shared-System Capacity",
-    "3.11": "Strategic Stewardship and Stewardship Defect",
     "3.12": "Transparency, Auditability, and Verification",
     "3.13": "Trust and Trustworthiness",
     "3.14": "Truth and Epistemic Integrity",
@@ -100,14 +98,6 @@ CLUSTER_META: dict[str, dict[str, str]] = {
         "cross": "integrative with **Accountability** where contest and correction are implicated",
         "continuity_note": "",
         "basis": "§3.2, §3.3, §4, §7.1, §7.2",
-    },
-    "3.4": {
-        "title": "Strategic Stewardship and Stewardship Defect",
-        "leg": "Oversight",
-        "aim": "Continuity",
-        "cross": "",
-        "continuity_note": "Distinguish constitutional **Continuity** aim from short-horizon operational reporting.",
-        "basis": "§5.1, §6.1, §7.1, §8",
     },
     "3.5": {
         "title": "Animal Life, Sentient Life, and Sentience Status",
@@ -316,8 +306,8 @@ BAND_PREAMBLES: dict[str, str] = {
 NEW_FILES_SPEC: dict[str, dict] = {
     "core_05o_oversight_definitions.md": {
         "band": "o",
-        "family_title": "Oversight leg definitions (§3.2–§3.4 clusters)",
-        "clusters": ["3.2", "3.3", "3.4"],
+        "family_title": "Oversight leg definitions (§3.2–§3.3 clusters)",
+        "clusters": ["3.2", "3.3"],
     },
     "core_05p_participation_definitions.md": {
         "band": "p",
@@ -783,7 +773,7 @@ def build_compass_section() -> str:
 
     band_rows = []
     ranges = {
-        "o": "§3.2–§3.4",
+        "o": "§3.2–§3.3",
         "p": "§3.5–§3.7",
         "a": "§3.8–§3.11",
         "c": "§3.12–§3.15",

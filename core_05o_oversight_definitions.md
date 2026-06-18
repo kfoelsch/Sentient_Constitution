@@ -4,7 +4,7 @@ This file is **part of the Sentient Constitution** and is **binding only togethe
 
 ---
 
-## Oversight leg definitions (§3.2–§3.4 clusters)
+## Oversight leg definitions (§3.2–§3.3 clusters)
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
@@ -24,7 +24,6 @@ This band holds **Oversight**-leg definitions from the [Constitutional Triad](..
 |---|---|
 | **§3.2** | Transparency, Auditability, and Verification |
 | **§3.3** | Truth and Epistemic Integrity |
-| **§3.4** | Strategic Stewardship and Stewardship Defect |
 
 ---
 
@@ -375,6 +374,8 @@ This band holds **Oversight**-leg definitions from the [Constitutional Triad](..
 
 ### Oversight: Dependent clusters
 
+<a id="transparency-auditability-and-verification-cluster"></a>
+
 #### 3.2 Transparency, Auditability, and Verification
 
 <details>
@@ -382,6 +383,7 @@ This band holds **Oversight**-leg definitions from the [Constitutional Triad](..
 
 - Constitutional frame: **Oversight** leg; **Flourishing** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality Determination](../core_05o_oversight_definitions.md#materiality-determination).
 - Chapter One basis: §3.2, §4, §7.1, §7.2 (see [Chapter Five compass](../core_05-05_definitions_a_independent.md#chapter-five-compass-and-definition-map) map).
+- Read with: Apply [Accountability](core_05a_accountability_definitions.md#accountability), [Contestability](core_05a_accountability_definitions.md#contestability), [Procedural Fairness](core_05p_participation_definitions.md#procedural-fairness-constitutional), [Protected Reporting (Whistleblowing)](core_05a_accountability_definitions.md#protected-reporting-whistleblowing), [Materiality Determination](core_05o_oversight_definitions.md#materiality-determination), [Risk](core_05c_continuity_definitions.md#risk), [Safety (Constraint)](core_05c_continuity_definitions.md#safety-constraint), [Truth (Constitutional Constraint)](core_05o_oversight_definitions.md#truth-constitutional-constraint), [Epistemic Integrity](core_05o_oversight_definitions.md#epistemic-integrity), and Chapters Two through Four mechanics where materially implicated.
 
 </details>
 
@@ -415,8 +417,6 @@ independent verification rigor, and audit scope sufficiency than lower-class sys
 - [Verification Independence](#verification-independence);
 - [Verification Proportionality](#verification-proportionality);
 - [Verification Robustness](#verification-robustness).
-
-**Read-with definitions.** Apply [Accountability](core_05a_accountability_definitions.md#accountability), [Contestability](core_05a_accountability_definitions.md#contestability), [Procedural Fairness](core_05p_participation_definitions.md#procedural-fairness-constitutional), [Protected Reporting (Whistleblowing)](core_05a_accountability_definitions.md#protected-reporting-whistleblowing), [Materiality Determination](core_05o_oversight_definitions.md#materiality-determination), [Risk](core_05c_continuity_definitions.md#risk), [Safety (Constraint)](core_05c_continuity_definitions.md#safety-constraint), [Truth (Constitutional Constraint)](core_05o_oversight_definitions.md#truth-constitutional-constraint), [Epistemic Integrity](core_05o_oversight_definitions.md#epistemic-integrity), and Chapters Two through Four mechanics where materially implicated.
 
 **Joint invocation and anti-bypass.** Under §3.0.1, a matter within the admission scope must not be segmented into separate
 disclosure, preservation, logging, metrics, audit sampling, verification UX, or independence questions in a way that satisfies a nominal channel
@@ -563,9 +563,7 @@ while defeating practical reconstructability, contestability, or proportionate a
 
 ---
 
-<a id="trust-and-trustworthiness-cluster"></a>
-
----
+<a id="truth-and-epistemic-integrity-cluster"></a>
 
 #### 3.3 Truth and Epistemic Integrity
 
@@ -575,6 +573,7 @@ while defeating practical reconstructability, contestability, or proportionate a
 - Constitutional frame: **Oversight** leg; **Flourishing** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality Determination](../core_05o_oversight_definitions.md#materiality-determination).
 - Cross-leg note: integrative with **Accountability** where contest and correction are implicated.
 - Chapter One basis: §3.2, §3.3, §4, §7.1, §7.2 (see [Chapter Five compass](../core_05-05_definitions_a_independent.md#chapter-five-compass-and-definition-map) map).
+- Read with: Apply [Good Faith](core_05a_accountability_definitions.md#good-faith), [Materiality Determination](core_05o_oversight_definitions.md#materiality-determination), [Dependency](core_05c_continuity_definitions.md#dependency), [Transparency](core_05o_oversight_definitions.md#transparency), [Auditability](core_05o_oversight_definitions.md#auditability), [Observability](core_05o_oversight_definitions.md#observability), [Verifiability](core_05o_oversight_definitions.md#verifiability), [Contestability](core_05a_accountability_definitions.md#contestability), [Safety (Constraint)](core_05c_continuity_definitions.md#safety-constraint), [Risk](core_05c_continuity_definitions.md#risk), and Chapters Two through Four mechanics where materially implicated.
 
 </details>
 
@@ -589,11 +588,8 @@ This cluster is the canonical O/E/C home for **Truth (Constitutional Constraint)
 
 - [Truth (Constitutional Constraint)](core_05o_oversight_definitions.md#truth-constitutional-constraint);
 - [Epistemic Integrity](core_05o_oversight_definitions.md#epistemic-integrity);
-- [Foreseeability Diligence](core_05o_oversight_definitions.md#foreseeability-diligence);
-- [Reasonably Foreseeable](core_05o_oversight_definitions.md#reasonably-foreseeable);
-- [Publication and High-Impact Communication](core_05o_oversight_definitions.md#publication-and-high-impact-communication) (nested sub-block under §3.12 — publication-conduct floors and interfaces read together with **Truth**, **Epistemic Integrity**, and **Foreseeability**; not separate §3 cluster heads).
-
-**Read-with definitions.** Apply [Good Faith](core_05a_accountability_definitions.md#good-faith), [Materiality Determination](core_05o_oversight_definitions.md#materiality-determination), [Dependency](core_05c_continuity_definitions.md#dependency), [Transparency](core_05o_oversight_definitions.md#transparency), [Auditability](core_05o_oversight_definitions.md#auditability), [Observability](core_05o_oversight_definitions.md#observability), [Verifiability](core_05o_oversight_definitions.md#verifiability), [Contestability](core_05a_accountability_definitions.md#contestability), [Safety (Constraint)](core_05c_continuity_definitions.md#safety-constraint), [Risk](core_05c_continuity_definitions.md#risk), and Chapters Two through Four mechanics where materially implicated.
+- [Foreseeability Diligence and Reasonably Foreseeable](core_05o_oversight_definitions.md#foreseeability-diligence-and-reasonably-foreseeable) (nested sub-block — **Foreseeability Diligence**, **Reasonably Foreseeable**, and supporting foreseeability mechanics read together with **Truth** and **Epistemic Integrity**; not separate §3 cluster heads);
+- [Publication and High-Impact Communication](core_05o_oversight_definitions.md#publication-and-high-impact-communication) (nested sub-block — publication-conduct floors and interfaces read together with **Truth**, **Epistemic Integrity**, and **Foreseeability**; not separate §3 cluster heads).
 
 **Joint invocation and anti-bypass.** Under §3.0.1, a matter within the admission scope must not be segmented into separate disclosure, publication, empirical-method, uncertainty, integrity, verification, or foreseeability questions in a way that satisfies one component while defeating another. Nominal compliance with a disclosure or publication rule is not sufficient where foreseeable-condition analysis, methodological integrity, or honesty about limits and uncertainty remains materially deficient.
 
@@ -651,6 +647,35 @@ This cluster is the canonical O/E/C home for **Truth (Constitutional Constraint)
 
 ---
 
+<a id="foreseeability-diligence-and-reasonably-foreseeable"></a>
+
+##### Foreseeability Diligence and Reasonably Foreseeable
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Read with: Apply [Materiality Determination](core_05o_oversight_definitions.md#materiality-determination), [Evaluation Completeness Constraint](core_05o_oversight_definitions.md#evaluation-completeness-constraint), [Adversarial, Scaled, and Exploited Conditions](core_05o_oversight_definitions.md#adversarial-scaled-and-exploited-conditions), [Auditability](core_05o_oversight_definitions.md#auditability), [Proportionality](core_05a_accountability_definitions.md#proportionality), [System Boundaries](core_05c_continuity_definitions.md#system-boundaries), and Chapters Two through Four mechanics where materially implicated.
+
+</details>
+
+<br>
+
+
+This nested sub-block is the joint-invocation home for **Foreseeability Diligence**, **Reasonably Foreseeable**, and the supporting foreseeability mechanics below within §3.3 *Truth and Epistemic Integrity*. All uses of “reasonably foreseeable” in **Chapters Two through Four** are governed exclusively by these definitions and must remain explicitly traceable where invoked ([core_02-04_definition_mechanics.md](core_02-04_definition_mechanics.md)).
+
+**Admission scope.** This sub-block applies where a matter materially concerns whether outcomes, risks, harms, misuse pathways, or operating conditions were reasonably identifiable before action; whether claims of non-foreseeability are justified; whether analysis depth, scope, and scaling match [Material Impact](core_05o_oversight_definitions.md#material-impact), [Material Risk](core_05o_oversight_definitions.md#material-risk), [Risk](core_05c_continuity_definitions.md#risk), and [Dependency](core_05c_continuity_definitions.md#dependency); or whether evaluation was incomplete in a way that defeats [Safety (Constraint)](core_05c_continuity_definitions.md#safety-constraint), [Risk](core_05c_continuity_definitions.md#risk) assessment, or [Foreseeability Diligence](core_05o_oversight_definitions.md#foreseeability-diligence). Outside that admission scope, individual entries may still operate as supporting definitions without importing the full compound.
+
+**Sub-block members.** This sub-block comprises:
+
+- [Foreseeability Burden](core_05o_oversight_definitions.md#foreseeability-burden);
+- [Foreseeability Diligence](core_05o_oversight_definitions.md#foreseeability-diligence);
+- [Foreseeability Failure](core_05o_oversight_definitions.md#foreseeability-failure);
+- [Foreseeability Scaling](core_05o_oversight_definitions.md#foreseeability-scaling);
+- [Foreseeability Scope](core_05o_oversight_definitions.md#foreseeability-scope);
+- [Reasonably Foreseeable](core_05o_oversight_definitions.md#reasonably-foreseeable).
+
+**Joint invocation within §3.3.** Under §3.0.1, foreseeability analysis must not be segmented into isolated burden, scope, scaling, diligence, failure, or reasonably-foreseeable questions in a way that satisfies one component while defeating another. Claiming unforeseeability without audit-compatible justification, or evaluating only best-case operation where adversarial, scaled, repeated, or misuse contexts are material, is non-compliant within the admission scope.
+
 ##### Foreseeability Burden
 
 - O: Responsibility for claiming non-foreseeability under [Reasonably Foreseeable](core_05o_oversight_definitions.md#reasonably-foreseeable) conditions.
@@ -696,33 +721,6 @@ This cluster is the canonical O/E/C home for **Truth (Constitutional Constraint)
 - E: Include adversarial and scaled conditions, including [Adversarial, Scaled, and Exploited Conditions](core_05o_oversight_definitions.md#adversarial-scaled-and-exploited-conditions).
 <a id="reasonably-foreseeable-c"></a>
 - C: Non-compliant: exclusion of such outcomes.
-
----
-
-<a id="use-of-force-autonomous-coercion-and-mass-harm-cluster"></a>
-
----
-
-#### 3.4 Strategic Stewardship and Stewardship Defect
-
-<details>
-<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
-
-- Constitutional frame: **Oversight** leg; **Continuity** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality Determination](../core_05o_oversight_definitions.md#materiality-determination).
-- Continuity disambiguation: Distinguish constitutional **Continuity** aim from short-horizon operational reporting.
-- Chapter One basis: §5.1, §6.1, §7.1, §8 (see [Chapter Five compass](../core_05-05_definitions_a_independent.md#chapter-five-compass-and-definition-map) map).
-
-</details>
-
-<br>
-
-
-*Merged into [3.10 Stewardship, Governance Discipline, and Shared-System Capacity](core_05a_accountability_definitions.md#stewardship-governance-discipline-and-shared-system-capacity-cluster). This heading retains the legacy anchor only.*
-
----
-
-<a id="transparency-auditability-and-verification-cluster"></a>
-
 
 ---
 

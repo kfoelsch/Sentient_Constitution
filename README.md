@@ -36,7 +36,7 @@ The corpus is written in plain language with low jargon to improve accessibility
 - **Chapters Two through Four** (structure, integrity, burden, traceability) — [`core_02-04_definition_mechanics.md`](core_02-04_definition_mechanics.md)
 - **Chapter Five** (foundational definitions)
   - Part A — compass, reader guidance, directory, §3.0 meta rules — [`core_05-05_definitions_a_independent.md`](core_05-05_definitions_a_independent.md)
-  - Oversight band — §1/§2/§3 **§3.2–§3.4** — [`core_05o_oversight_definitions.md`](core_05o_oversight_definitions.md)
+  - Oversight band — §1/§2/§3 **§3.2–§3.3** — [`core_05o_oversight_definitions.md`](core_05o_oversight_definitions.md)
   - Participation band — §1/§2/§3 **§3.5–§3.7** — [`core_05p_participation_definitions.md`](core_05p_participation_definitions.md)
   - Accountability band — §1/§2/§3 **§3.8–§3.11** — [`core_05a_accountability_definitions.md`](core_05a_accountability_definitions.md)
   - Continuity band — §1/§2/§3 **§3.12–§3.15** — [`core_05c_continuity_definitions.md`](core_05c_continuity_definitions.md)

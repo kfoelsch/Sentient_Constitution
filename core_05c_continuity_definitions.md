@@ -942,6 +942,8 @@ This band holds definitions under the constitutional [Continuity aim](../core_01
 
 ### Continuity: Dependent clusters
 
+<a id="labor-and-economic-floor-cluster"></a>
+
 #### 3.12 Labor and Economic Floor: Compensation, Organization, Safe Conditions, Leisure, and Creative Work
 
 <details>
@@ -950,6 +952,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_01
 - Constitutional frame: **Continuity** leg; **Continuity** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality Determination](../core_05o_oversight_definitions.md#materiality-determination).
 - Continuity disambiguation: Constitutional **Continuity** aim — survival-floor and economic continuity.
 - Chapter One basis: §3.1, §4.1, §5.1, §7.1 (see [Chapter Five compass](../core_05-05_definitions_a_independent.md#chapter-five-compass-and-definition-map) map).
+- Read with: Apply [Collective Organization](core_05p_participation_definitions.md#collective-organization-constitutional), [Productive Capacity](core_05c_continuity_definitions.md#productive-capacity-constitutional), [Privacy (Informational) — peer-level cluster head](core_05a_accountability_definitions.md#privacy-informational-cluster), [Consent](core_05p_participation_definitions.md#consent-constitutional), [Truth (Constitutional Constraint)](core_05o_oversight_definitions.md#truth-constitutional-constraint), [Good Faith](core_05a_accountability_definitions.md#good-faith), [Meaningful Agency](core_05p_participation_definitions.md#meaningful-agency), [Innovation Reward and Anti-Enclosure](core_05i_integrative_definitions.md#innovation-reward-and-anti-enclosure), and [Sentience Non-Exclusion](core_05p_participation_definitions.md#sentience-non-exclusion) where materially implicated.
 
 </details>
 
@@ -978,8 +981,6 @@ Outside that admission scope, component definitions may operate as supporting In
 - [Creative Work Attribution](core_05c_continuity_definitions.md#creative-work-attribution-constitutional);
 - [Training-Data Use](core_05c_continuity_definitions.md#training-data-use-constitutional);
 - [Anti-Displacement Floor](core_05c_continuity_definitions.md#anti-displacement-floor-constitutional).
-
-**Read-with definitions.** Apply [Collective Organization](core_05p_participation_definitions.md#collective-organization-constitutional), [Productive Capacity](core_05c_continuity_definitions.md#productive-capacity-constitutional), [Privacy (Informational) — peer-level cluster head](core_05a_accountability_definitions.md#privacy-informational-cluster), [Consent](core_05p_participation_definitions.md#consent-constitutional), [Truth (Constitutional Constraint)](core_05o_oversight_definitions.md#truth-constitutional-constraint), [Good Faith](core_05a_accountability_definitions.md#good-faith), [Meaningful Agency](core_05p_participation_definitions.md#meaningful-agency), [Innovation Reward and Anti-Enclosure](core_05i_integrative_definitions.md#innovation-reward-and-anti-enclosure), and [Sentience Non-Exclusion](core_05p_participation_definitions.md#sentience-non-exclusion) where materially implicated.
 
 **Joint invocation and anti-bypass.** Under §3.0.1, a matter within the admission scope must not be segmented into separate compensation, organization, safety, rest, privacy, consent, attribution, displacement, or innovation-reward issues in a way that satisfies one component while defeating materially interdependent duties under **Article III-D** and **Article VIII-D**.
 
@@ -1155,10 +1156,7 @@ Outside that admission scope, component definitions may operate as supporting In
 
 ---
 
-<a id="derived-developing-sentients-instantiation-and-care-authority-cluster"></a>
-<a id="forum-families-and-dispute-routing-cluster"></a>
-
----
+<a id="stewardship-governance-discipline-and-shared-system-capacity-cluster"></a>
 
 #### 3.13 Stewardship, Governance Discipline, and Shared-System Capacity
 
@@ -1169,6 +1167,7 @@ Outside that admission scope, component definitions may operate as supporting In
 - Cross-leg note: integrative with **Accountability** where review and correction duties apply.
 - Continuity disambiguation: Constitutional **Continuity** aim — durable governance discipline.
 - Chapter One basis: §5.1, §6.1, §7.1, §8 (see [Chapter Five compass](../core_05-05_definitions_a_independent.md#chapter-five-compass-and-definition-map) map).
+- Read with: Apply [Governance](core_05a_accountability_definitions.md#governance), [Shared-System Capacity](core_05c_continuity_definitions.md#shared-system-capacity-constitutional), [Productive Capacity](core_05c_continuity_definitions.md#productive-capacity-constitutional), [Constitutional Efficiency](core_05c_continuity_definitions.md#constitutional-efficiency), [Proxy Divergence](core_05o_oversight_definitions.md#proxy-divergence), [System Capture](core_05c_continuity_definitions.md#system-capture), [Incentive Alignment](core_05i_integrative_definitions.md#incentive-alignment), [Existential Risk](core_05c_continuity_definitions.md#existential-risk), [Safety (Constraint)](core_05c_continuity_definitions.md#safety-constraint), [Risk](core_05c_continuity_definitions.md#risk), [Foreseeability Diligence](core_05o_oversight_definitions.md#foreseeability-diligence), [Materiality Determination](core_05o_oversight_definitions.md#materiality-determination), [Accountability](core_05a_accountability_definitions.md#accountability), [Concentration Threshold](core_05a_accountability_definitions.md#concentration-threshold-constitutional), and [Proportionality, Necessity, Feasibility, Avoidable Burden, Burden-Reduction Duty, Constitutional Efficiency, Harm Minimization (Tradeoff Selection), and Productive Capacity](core_05c_continuity_definitions.md#proportionality-necessity-feasibility-burden-and-efficiency-cluster) where materially implicated.
 
 </details>
 
@@ -1188,17 +1187,13 @@ This cluster is the joint-invocation home for principle-layer stewardship orient
 - [Stewardship Defect](core_05a_accountability_definitions.md#stewardship-defect-constitutional);
 - [Review and Correction Duty](core_05a_accountability_definitions.md#review-and-correction-duty-constitutional).
 
-**Read-with definitions.** Apply [Governance](core_05a_accountability_definitions.md#governance), [Shared-System Capacity](core_05c_continuity_definitions.md#shared-system-capacity-constitutional), [Productive Capacity](core_05c_continuity_definitions.md#productive-capacity-constitutional), [Constitutional Efficiency](core_05c_continuity_definitions.md#constitutional-efficiency), [Proxy Divergence](core_05o_oversight_definitions.md#proxy-divergence), [System Capture](core_05c_continuity_definitions.md#system-capture), [Incentive Alignment](core_05i_integrative_definitions.md#incentive-alignment), [Existential Risk](core_05c_continuity_definitions.md#existential-risk), [Safety (Constraint)](core_05c_continuity_definitions.md#safety-constraint), [Risk](core_05c_continuity_definitions.md#risk), [Foreseeability Diligence](core_05o_oversight_definitions.md#foreseeability-diligence), [Materiality Determination](core_05o_oversight_definitions.md#materiality-determination), [Accountability](core_05a_accountability_definitions.md#accountability), [Concentration Threshold](core_05a_accountability_definitions.md#concentration-threshold-constitutional), and [Proportionality, Necessity, Feasibility, Avoidable Burden, Burden-Reduction Duty, Constitutional Efficiency, Harm Minimization (Tradeoff Selection), and Productive Capacity](core_05c_continuity_definitions.md#proportionality-necessity-feasibility-burden-and-efficiency-cluster) where materially implicated.
-
 **Joint invocation and anti-bypass.** Under §3.0.1, a matter within the admission scope must not be segmented into separate governance-form, capacity-metric, disclosure-summary, CSR-narrative, compliance-artifact, or short-horizon efficiency or incentive questions in a way that satisfies nominal procedure, masks stewardship defects, or defeats stewardship discipline, distributed understanding, or durable constitutional alignment.
 
 **Read with principles:** [Chapter One Part B](core_01_b_stewardship_capacity_principles.md#chapter-01-part-b-stewardship-capacity-and-constitutional-safeguards) §§6–8; [Two Constitutional Aims](core_01_a_values_principles.md#two-constitutional-aims) — **Continuity** aim.
 
 ---
 
-<a id="strategic-stewardship-and-stewardship-defect-cluster"></a>
-
----
+<a id="privacy-informational-cluster"></a>
 
 #### 3.14 Privacy (Informational) — peer-level cluster head
 
@@ -1207,7 +1202,7 @@ This cluster is the joint-invocation home for principle-layer stewardship orient
 
 - Downstream: Principles: [§10 Freedom (Bounded Agency)](core_01_b_stewardship_capacity_principles.md#11-freedom-bounded-agency), [4. Non-Negotiable Constraints: Safety and Truth](core_01_a_values_principles.md#4-non-negotiable-constraints-safety-and-truth), and Chapter Ten privacy-distribution articles where informational handling affects agency, dignity, security, or truth.
 - Downstream: [Article VII-A](core_10-10_rights_part_b.md#article-vii-a-self-ownership-of-body-and-mind) (*self-ownership of body and mind*); [Article VII-B](core_10-10_rights_part_b.md#article-vii-b-internal-state-boundary-and-type-n-protection) (*internal-state boundary and Type N protection*); [Article VIII](core_10-10_rights_part_b.md#article-viii-likeness-experiential-data-and-publication-rights) (*likeness, experiential data, and publication rights*); [Article IX-A](core_10-10_rights_part_b.md#article-ix-a-agency-and-freedom-from-manipulation) (*agency and freedom from manipulation*); [Article XIII-A](core_10-10_rights_part_c.md#article-xiii-a-security-intelligence-and-covert-power-limits) (*security, intelligence, and covert-power limits*).
-- Read with: [Protected Internal-State Boundary](core_05c_continuity_definitions.md#protected-internal-state-boundary-constitutional), [Surveillance Boundary](core_05c_continuity_definitions.md#surveillance-boundary), [Consent](core_05p_participation_definitions.md#consent-constitutional), [Truth (Constitutional Constraint)](core_05o_oversight_definitions.md#truth-constitutional-constraint), [Dignity and Equal Moral Standing](core_05p_participation_definitions.md#dignity-and-equal-moral-standing), and **[corpus_systems.md](corpus_systems.md), CS-3 — Information types and handling** where Type N or comparable handling is implicated.
+- Read with: Apply [Consent](core_05p_participation_definitions.md#consent-constitutional), [Truth (Constitutional Constraint)](core_05o_oversight_definitions.md#truth-constitutional-constraint), [Dignity and Equal Moral Standing](core_05p_participation_definitions.md#dignity-and-equal-moral-standing), [Coercion and Manipulation](core_05p_participation_definitions.md#coercion-and-manipulation-constitutional), [Meaningful Agency](core_05p_participation_definitions.md#meaningful-agency), [Necessity](core_05a_accountability_definitions.md#necessity), [Proportionality](core_05a_accountability_definitions.md#proportionality), [Protected Internal-State Boundary](core_05c_continuity_definitions.md#protected-internal-state-boundary-constitutional), [Surveillance Boundary](core_05c_continuity_definitions.md#surveillance-boundary), and **[corpus_systems.md](corpus_systems.md), CS-3 — Information types and handling** where Type N or comparable handling is implicated.
 
 - Constitutional frame: **Continuity** leg; **Flourishing** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality Determination](../core_05o_oversight_definitions.md#materiality-determination).
 - Cross-leg note: integrative with **Participation** and **Oversight**.
@@ -1232,8 +1227,6 @@ Operational handling of data under this cluster must align with **[corpus_system
 - [Article VIII](core_10-10_rights_part_b.md#article-viii-likeness-experiential-data-and-publication-rights);
 - [Article IX-A](core_10-10_rights_part_b.md#article-ix-a-agency-and-freedom-from-manipulation);
 - [Article XIII-A](core_10-10_rights_part_c.md#article-xiii-a-security-intelligence-and-covert-power-limits).
-
-**Read-with definitions.** Apply [Consent](core_05p_participation_definitions.md#consent-constitutional), [Truth (Constitutional Constraint)](core_05o_oversight_definitions.md#truth-constitutional-constraint), [Dignity and Equal Moral Standing](core_05p_participation_definitions.md#dignity-and-equal-moral-standing), [Coercion and Manipulation](core_05p_participation_definitions.md#coercion-and-manipulation-constitutional), [Meaningful Agency](core_05p_participation_definitions.md#meaningful-agency), [Necessity](core_05a_accountability_definitions.md#necessity), [Proportionality](core_05a_accountability_definitions.md#proportionality), and **[corpus_systems.md](corpus_systems.md), CS-3 — Information types and handling** where Type N or comparable handling is implicated.
 
 **Joint invocation and anti-bypass.** Under §3.0.1, privacy matters within admission scope must not be segmented across articles or definitions in a way that satisfies one article's standard while evading another's materially implicated discipline, or that isolates privacy analysis from internal-state-boundary or surveillance-boundary assessment where those protections materially intersect. Anti-read-across for standard-setting remains as stated in Chapter Five §2.3.
 
@@ -1269,10 +1262,7 @@ Operational handling of data under this cluster must align with **[corpus_system
 
 ---
 
-<a id="proportionality-necessity-feasibility-burden-and-efficiency-cluster"></a>
-<a id="self-determination-and-meaningful-agency-cluster"></a>
-
----
+<a id="trust-and-trustworthiness-cluster"></a>
 
 #### 3.15 Trust and Trustworthiness
 
@@ -1281,6 +1271,7 @@ Operational handling of data under this cluster must align with **[corpus_system
 
 - Constitutional frame: **Continuity** leg; **Flourishing** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality Determination](../core_05o_oversight_definitions.md#materiality-determination).
 - Chapter One basis: §5, §7.1, §8 (see [Chapter Five compass](../core_05-05_definitions_a_independent.md#chapter-five-compass-and-definition-map) map).
+- Read with: Apply [Transparency](core_05o_oversight_definitions.md#transparency), [Auditability](core_05o_oversight_definitions.md#auditability), [Accountability](core_05a_accountability_definitions.md#accountability), [Epistemic Integrity](core_05o_oversight_definitions.md#epistemic-integrity), [Incentive Alignment](core_05i_integrative_definitions.md#incentive-alignment), [Dependency](core_05c_continuity_definitions.md#dependency), [Verification Accessibility](#verification-accessibility), and [Psychological Harm](core_05a_accountability_definitions.md#psychological-harm) where materially implicated.
 
 </details>
 
@@ -1296,8 +1287,6 @@ This cluster is the canonical O/E/C home for **Trust**, **Trustworthiness**, and
 - [Trust](core_05c_continuity_definitions.md#trust);
 - [Trustworthiness](core_05c_continuity_definitions.md#trustworthiness);
 - [Trust Degradation and Misleading Reliance](core_05c_continuity_definitions.md#trust-degradation-and-misleading-reliance).
-
-**Read-with definitions.** Apply [Transparency](core_05o_oversight_definitions.md#transparency), [Auditability](core_05o_oversight_definitions.md#auditability), [Accountability](core_05a_accountability_definitions.md#accountability), [Epistemic Integrity](core_05o_oversight_definitions.md#epistemic-integrity), [Incentive Alignment](core_05i_integrative_definitions.md#incentive-alignment), [Dependency](core_05c_continuity_definitions.md#dependency), [Verification Accessibility](#verification-accessibility), and [Psychological Harm](core_05a_accountability_definitions.md#psychological-harm) where materially implicated.
 
 **Joint invocation and anti-bypass.** Under §3.0.1, a matter within the admission scope must not be segmented into separate trust-only or trustworthiness-only frames in a way that treats reliance as justified without the joint observable-and-verifiable evidence discipline both entries require, or that satisfies one evaluative subcomponent of [Trustworthiness](core_05c_continuity_definitions.md#trustworthiness) while bypassing another where materially relevant (Chapter Five §3 and Chapter Three §§1–2).
 

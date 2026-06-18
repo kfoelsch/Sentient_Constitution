@@ -189,6 +189,8 @@ This band holds **Integrative** cross-leg definitions that require simultaneous 
 
 ### Integrative: Dependent clusters
 
+<a id="corpus-authority-stack-supremacy-and-enforceability-cluster"></a>
+
 #### 3.16 Corpus, Authority Stack, Supremacy, and Enforceability
 
 <details>
@@ -197,6 +199,7 @@ This band holds **Integrative** cross-leg definitions that require simultaneous 
 - Constitutional frame: **Integrative** leg; **Flourishing** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality Determination](../core_05o_oversight_definitions.md#materiality-determination).
 - Cross-leg note: **Oversight**, **Accountability**, and **Participation** — authority stack spans all Triad legs.
 - Chapter One basis: §2.1, §4, §5.2, §7.2, §10 (see [Chapter Five compass](../core_05-05_definitions_a_independent.md#chapter-five-compass-and-definition-map) map).
+- Read with: Apply [Auditability](core_05o_oversight_definitions.md#auditability), [Contestability](core_05a_accountability_definitions.md#contestability), [Truth (Constitutional Constraint)](core_05o_oversight_definitions.md#truth-constitutional-constraint), [Materiality Determination](core_05o_oversight_definitions.md#materiality-determination), and Chapter Twelve / Chapter Fourteen mechanics where materially implicated.
 
 </details>
 
@@ -213,8 +216,6 @@ This cluster is the joint-invocation home for operative corpus identity, authori
 - [Authority Stack and Internal Hierarchy](core_05i_integrative_definitions.md#authority-stack);
 - [Supremacy and Enforceability](core_05i_integrative_definitions.md#supremacy-and-enforceability);
 - [Constitutional Constraint Violation](core_05i_integrative_definitions.md#constitutional-constraint-violation), where materially implicated in supremacy or custody disputes.
-
-**Read-with definitions.** Apply [Auditability](core_05o_oversight_definitions.md#auditability), [Contestability](core_05a_accountability_definitions.md#contestability), [Truth (Constitutional Constraint)](core_05o_oversight_definitions.md#truth-constitutional-constraint), [Materiality Determination](core_05o_oversight_definitions.md#materiality-determination), and Chapter Twelve / Chapter Fourteen mechanics where materially implicated.
 
 **Joint invocation and anti-bypass.** Under §3.0.1, a matter within the admission scope must not be segmented into separate labeling, process-artifact, edition-display, or interpretive-gloss questions in a way that treats non-binding material as operative corpus or inverts supremacy ordering without a valid adoption path.
 

@@ -996,6 +996,8 @@ Independent Definitions must not fragment, isolate, or redistribute compliance i
 
 ### Participation: Dependent clusters
 
+<a id="animal-life-sentient-life-and-sentience-status-cluster"></a>
+
 #### 3.5 Animal Life, Sentient Life, and Sentience Status
 
 <details>
@@ -1112,11 +1114,7 @@ Unless this Constitution expressly provides otherwise, **sentient** and **sentie
 
 ---
 
-<a id="assembly-collective-organization-institutional-formation-cluster"></a>
-<a id="assembly-and-collective-organization-cluster"></a>
 <a id="binding-stakeholder-choice-cluster"></a>
-
----
 
 #### 3.6 Binding Stakeholder Choice
 
@@ -1184,10 +1182,7 @@ This cluster is the canonical compound-definition home for binding stakeholder c
 
 ---
 
-<a id="safe-conditions-tenure-security-and-environmental-preconditions-cluster"></a>
-<a id="collective-harm-boundary-and-harm-cluster"></a>
-
----
+<a id="self-determination-and-meaningful-agency-cluster"></a>
 
 #### 3.7 Self-Determination, Meaningful Agency, Expression, Educational Agency, and Volitional Integrity
 
@@ -1196,6 +1191,7 @@ This cluster is the canonical compound-definition home for binding stakeholder c
 
 - Constitutional frame: **Participation** leg; **Flourishing** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality Determination](../core_05o_oversight_definitions.md#materiality-determination).
 - Chapter One basis: §10, §2.1, §4 (see [Chapter Five compass](../core_05-05_definitions_a_independent.md#chapter-five-compass-and-definition-map) map).
+- Read with: Apply [Coercion and Manipulation](core_05p_participation_definitions.md#coercion-and-manipulation-constitutional), [Consent](core_05p_participation_definitions.md#consent-constitutional), [Privacy (Informational)](core_05c_continuity_definitions.md#privacy-informational), [Dignity and Equal Moral Standing](core_05p_participation_definitions.md#dignity-and-equal-moral-standing), [Dependency](core_05c_continuity_definitions.md#dependency), [Truth (Constitutional Constraint)](core_05o_oversight_definitions.md#truth-constitutional-constraint), [Reproductive Autonomy](core_05p_participation_definitions.md#reproductive-autonomy-constitutional) where **Article VII-D** joint invocation materially applies, and [Chapter Five §3.22 *Info-Sphere, Expression, Press and Journalistic Activity, and Good Faith (Publication-Scoped Integrity)*](#info-sphere-expression-press-journalistic-activity-and-good-faith-cluster) where materially implicated.
 
 </details>
 
@@ -1214,8 +1210,6 @@ This cluster is the joint-invocation home for self-determination, meaningful age
 - [Educational Agency](core_05p_participation_definitions.md#educational-agency);
 - [Volitional Integrity](core_05p_participation_definitions.md#volitional-integrity);
 - [Freedom (Bounded Agency)](core_05p_participation_definitions.md#freedom-bounded-agency), where volitional or bounded-agency disciplines materially intersect this cluster.
-
-**Read-with definitions.** Apply [Coercion and Manipulation](core_05p_participation_definitions.md#coercion-and-manipulation-constitutional), [Consent](core_05p_participation_definitions.md#consent-constitutional), [Privacy (Informational)](core_05c_continuity_definitions.md#privacy-informational), [Dignity and Equal Moral Standing](core_05p_participation_definitions.md#dignity-and-equal-moral-standing), [Dependency](core_05c_continuity_definitions.md#dependency), [Truth (Constitutional Constraint)](core_05o_oversight_definitions.md#truth-constitutional-constraint), [Reproductive Autonomy](core_05p_participation_definitions.md#reproductive-autonomy-constitutional) where **Article VII-D** joint invocation materially applies, and [Chapter Five §3.22 *Info-Sphere, Expression, Press and Journalistic Activity, and Good Faith (Publication-Scoped Integrity)*](#info-sphere-expression-press-journalistic-activity-and-good-faith-cluster) where materially implicated.
 
 **Joint invocation and anti-bypass.** Under §3.0.1, a matter within the admission scope must not be segmented into separate speech, platform, curricular, or surveillance questions in a way that preserves nominal liberty while defeating substantive agency through coercion, manipulation, or informational capture.
 

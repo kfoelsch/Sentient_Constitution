@@ -1,5 +1,10 @@
 # TODO
 
+**Snapshot (2026-06-18):** Full copy of root `TODO.md` before Chapter Five constitutional band closeout. Retired Part B/C paths in the chapter map below were superseded by five band files; see [archive/core_ch5_retired/README.md](core_ch5_retired/README.md) and [README.md](../README.md) *Edition* (`SC-Corpus-2026.06.18`).
+
+---
+# TODO
+
 **2026-06-17 housecleaning:** Older TODO/MEMLOG snapshots removed from `archive/`; retrieve from git history if needed. Canonical architecture archives remain under [README.md](README.md) *Binding vs support* and [doc_architecture.md](doc_architecture.md). Root retirement snapshots: [archive/TODO_ROOT_RETIRED_2026-05-01.md](archive/TODO_ROOT_RETIRED_2026-05-01.md).
 
 ## Editor Checklist (Pre-Review / Pre-Merge)
@@ -15,7 +20,7 @@
 
 - **Ch 1:** [core_00_preamble.md](core_00_preamble.md), [core_01_a_values_principles.md](core_01_a_values_principles.md) (Part A), and [core_01_b_stewardship_capacity_principles.md](core_01_b_stewardship_capacity_principles.md) (Part B)
 - **Ch 2–4:** [core_02-04_definition_mechanics.md](core_02-04_definition_mechanics.md)
-- **Ch 5:** Part A compass — [core_05-05_definitions_a_independent.md](core_05-05_definitions_a_independent.md); band files — [core_05o_oversight_definitions.md](core_05o_oversight_definitions.md), [core_05p_participation_definitions.md](core_05p_participation_definitions.md), [core_05a_accountability_definitions.md](core_05a_accountability_definitions.md), [core_05c_continuity_definitions.md](core_05c_continuity_definitions.md), [core_05i_integrative_definitions.md](core_05i_integrative_definitions.md) (retired Part B/C → [archive/core_ch5_retired/](archive/core_ch5_retired/README.md))
+- **Ch 5:** [core_05-05_definitions_a_independent.md](core_05-05_definitions_a_independent.md), [core_05-05_definitions_b_semi_independent.md](core_05-05_definitions_b_semi_independent.md), [core_05-05_definitions_c_dependent_clusters.md](core_05-05_definitions_c_dependent_clusters.md)
 - **Ch 6:** [core_06-06_standing_assessment.md](core_06-06_standing_assessment.md)
 - **Ch 7:** [core_07-07_standing_integration.md](core_07-07_standing_integration.md)
 - **Ch 8:** [core_08-08_misconduct.md](core_08-08_misconduct.md)
@@ -53,6 +58,5 @@ Keep this active file limited to editor checks, current open work, and short arc
 ## Archives
 
 - **Architecture process (canonical):** [archive/ARCHITECTURE_WORKLIST_ARCHIVED_2026-05-08.md](archive/ARCHITECTURE_WORKLIST_ARCHIVED_2026-05-08.md), [archive/ARCHITECTURE_ADOPTION_APPENDIX_ARCHIVED_2026-05-08.md](archive/ARCHITECTURE_ADOPTION_APPENDIX_ARCHIVED_2026-05-08.md), [archive/ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md](archive/ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md) — see [README.md](README.md)
-- **2026-06-18 Chapter Five closeout:** [archive/TODO_SNAPSHOT_2026-06-18.md](archive/TODO_SNAPSHOT_2026-06-18.md), [archive/MEMLOG_SNAPSHOT_2026-06-18.md](archive/MEMLOG_SNAPSHOT_2026-06-18.md)
 - **2026-05-01 root retirement:** [archive/TODO_ROOT_RETIRED_2026-05-01.md](archive/TODO_ROOT_RETIRED_2026-05-01.md), [archive/MEMLOG_ROOT_RETIRED_2026-05-01.md](archive/MEMLOG_ROOT_RETIRED_2026-05-01.md)
 - **Older TODO/MEMLOG snapshots:** removed 2026-06-17; retrieve from git history if needed

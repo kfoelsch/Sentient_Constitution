@@ -18,12 +18,12 @@ TRACE_BLOCK_RE = re.compile(
 CLUSTER_HEADING_RE = re.compile(r"^#### (3\.\d+) .+$", re.MULTILINE)
 
 EXPECTED_CLUSTER_IDS = [
-    "3.2", "3.3", "3.4", "3.5", "3.6", "3.7", "3.8", "3.9", "3.10",
+    "3.2", "3.3", "3.5", "3.6", "3.7", "3.8", "3.9", "3.10",
     "3.11", "3.12", "3.13", "3.14", "3.15", "3.16",
 ]
 
 BAND_CLUSTER_RANGES = {
-    "core_05o_oversight_definitions.md": {"3.2", "3.3", "3.4"},
+    "core_05o_oversight_definitions.md": {"3.2", "3.3"},
     "core_05p_participation_definitions.md": {"3.5", "3.6", "3.7"},
     "core_05a_accountability_definitions.md": {"3.8", "3.9", "3.10", "3.11"},
     "core_05c_continuity_definitions.md": {"3.12", "3.13", "3.14", "3.15"},

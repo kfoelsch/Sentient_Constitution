@@ -768,13 +768,15 @@ This band holds **Accountability**-leg definitions: contestability, redress, gov
 
 ### Accountability: Dependent clusters
 
+<a id="collective-harm-boundary-and-harm-cluster"></a>
+
 #### 3.8 Collective Harm Boundary, Harm, and Harassment and Bullying
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Downstream: Principles: [4.1 Safety](core_01_a_values_principles.md#41-safety-harm-constraint), [9. Interaction and Conflict Resolution](core_01_b_stewardship_capacity_principles.md#9-interaction-and-conflict-resolution), and [9.4.1 Rights-Collision Decision Test](core_01_b_stewardship_capacity_principles.md#941-rights-collision-decision-test).
-- Read with: [Materiality Determination](core_05o_oversight_definitions.md#materiality-determination), [Material Impact](core_05o_oversight_definitions.md#material-impact), [Risk](core_05c_continuity_definitions.md#risk), [Non-Imposition (Cooperative Interaction)](core_05p_participation_definitions.md#non-imposition-cooperative-interaction), [Safety (Constraint)](core_05c_continuity_definitions.md#safety-constraint), [Redress and Remediation](core_05a_accountability_definitions.md#redress-and-remediation-constitutional), and [Harm Minimization (Tradeoff Selection)](core_05a_accountability_definitions.md#harm-minimization-tradeoff-selection), where materially implicated.
+- Read with: [Materiality Determination](core_05o_oversight_definitions.md#materiality-determination), [Material Impact](core_05o_oversight_definitions.md#material-impact), [Risk](core_05c_continuity_definitions.md#risk), [Non-Imposition (Cooperative Interaction)](core_05p_participation_definitions.md#non-imposition-cooperative-interaction), [Safety (Constraint)](core_05c_continuity_definitions.md#safety-constraint), [Redress and Remediation](core_05a_accountability_definitions.md#redress-and-remediation-constitutional), and [Harm Minimization (Tradeoff Selection)](core_05a_accountability_definitions.md#harm-minimization-tradeoff-selection), where materially implicated. Those definitions support this cluster but are not themselves cluster members unless another cluster or owner provision independently requires their joint invocation.
 
 - Constitutional frame: **Accountability** leg; **Flourishing** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality Determination](../core_05o_oversight_definitions.md#materiality-determination).
 - Chapter One basis: §3.1, §6.1, §7.1, §9 (see [Chapter Five compass](../core_05-05_definitions_a_independent.md#chapter-five-compass-and-definition-map) map).
@@ -793,8 +795,6 @@ This cluster is the joint-invocation home for harm, the boundary at which one se
 - [Psychological Harm](core_05a_accountability_definitions.md#psychological-harm);
 - [Irreversible Harm](core_05a_accountability_definitions.md#irreversible-harm);
 - [Harassment and Bullying](core_05a_accountability_definitions.md#harassment-and-bullying).
-
-**Read-with definitions.** Apply [Materiality Determination](core_05o_oversight_definitions.md#materiality-determination), [Material Impact](core_05o_oversight_definitions.md#material-impact), [Risk](core_05c_continuity_definitions.md#risk), [Non-Imposition (Cooperative Interaction)](core_05p_participation_definitions.md#non-imposition-cooperative-interaction), [Safety (Constraint)](core_05c_continuity_definitions.md#safety-constraint), [Redress and Remediation](core_05a_accountability_definitions.md#redress-and-remediation-constitutional), and [Harm Minimization (Tradeoff Selection)](core_05a_accountability_definitions.md#harm-minimization-tradeoff-selection) where materially implicated. Those definitions support this cluster but are not themselves cluster members unless another cluster or owner provision independently requires their joint invocation.
 
 **Joint invocation and anti-bypass.** Under §3.0.1, a matter within the admission scope must not be segmented into separate individual-harm, collective-harm, harassment-and-bullying, non-imposition, materiality, freedom-limitation, or remediation questions in a way that recognizes a harm pathway while avoiding the boundary rule, or invokes the boundary rule while understating harm, or isolates generic [Harm](core_05a_accountability_definitions.md#harm) or the boundary rule from [Harassment and Bullying](core_05a_accountability_definitions.md#harassment-and-bullying) where patterned unwanted conduct is materially in play. Offense, preference, discomfort, or disagreement alone is not sufficient without a material harm pathway. Conversely, a formally private, local, expressive, commercial, technical, or collective practice is not outside this cluster where direct, indirect, delayed, cumulative, cross-system, info-sphere, ecological, wellbeing, or agency effects materially degrade protected interests or shared constitutional conditions.
 
@@ -896,10 +896,7 @@ This cluster is the joint-invocation home for harm, the boundary at which one se
 
 ---
 
-<a id="consent-and-sexual-consent-cluster"></a>
-<a id="corpus-authority-stack-supremacy-and-enforceability-cluster"></a>
-
----
+<a id="forum-families-and-dispute-routing-cluster"></a>
 
 #### 3.9 Forum Families and Dispute Routing
 
@@ -908,6 +905,7 @@ This cluster is the joint-invocation home for harm, the boundary at which one se
 
 - Constitutional frame: **Accountability** leg; **Flourishing** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality Determination](../core_05o_oversight_definitions.md#materiality-determination).
 - Chapter One basis: §2.1, §3.4, §6.4, §8, §10 (see [Chapter Five compass](../core_05-05_definitions_a_independent.md#chapter-five-compass-and-definition-map) map).
+- Read with: Apply [Adjudication and Dispute Resolution](core_05a_accountability_definitions.md#adjudication-and-dispute-resolution-constitutional), [Contestability](core_05a_accountability_definitions.md#contestability), [Procedural Fairness](core_05p_participation_definitions.md#procedural-fairness-constitutional), [Auditability](core_05o_oversight_definitions.md#auditability), [Materiality Determination](core_05o_oversight_definitions.md#materiality-determination), [System Capture](core_05c_continuity_definitions.md#system-capture), and Chapter Eight mechanics where materially implicated.
 
 </details>
 
@@ -927,8 +925,6 @@ This cluster is the joint-invocation home for the six constitutional forum famil
 - [Forum Family, Integrity](core_05a_accountability_definitions.md#forum-family-integrity);
 - [Forum Family, Constitutional](core_05a_accountability_definitions.md#forum-family-constitutional);
 - [Primary-Stakes Routing](core_05a_accountability_definitions.md#primary-stakes-routing).
-
-**Read-with definitions.** Apply [Adjudication and Dispute Resolution](core_05a_accountability_definitions.md#adjudication-and-dispute-resolution-constitutional), [Contestability](core_05a_accountability_definitions.md#contestability), [Procedural Fairness](core_05p_participation_definitions.md#procedural-fairness-constitutional), [Auditability](core_05o_oversight_definitions.md#auditability), [Materiality Determination](core_05o_oversight_definitions.md#materiality-determination), [System Capture](core_05c_continuity_definitions.md#system-capture), and Chapter Eight mechanics where materially implicated.
 
 **Joint invocation and anti-bypass.** Under §3.0.1, a matter within the admission scope must not be segmented into separate caption, intake label, or specialty-panel questions in a way that collapses distinct forum functions or defeats primary-stakes routing, certification, or anti-self-judging backup discipline.
 
@@ -1074,10 +1070,7 @@ This cluster is the joint-invocation home for the six constitutional forum famil
 
 ---
 
-<a id="governance-architecture-oversight-decentralization-and-concentration-cluster"></a>
-<a id="privacy-informational-cluster"></a>
-
----
+<a id="standing-state-contribution-and-violation-cluster"></a>
 
 #### 3.10 Standing State, Contribution, and Violation
 
@@ -1086,6 +1079,7 @@ This cluster is the joint-invocation home for the six constitutional forum famil
 
 - Constitutional frame: **Accountability** leg; **Flourishing** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality Determination](../core_05o_oversight_definitions.md#materiality-determination).
 - Chapter One basis: §6.1, §6.3, §6.4, §7.1, §8 (see [Chapter Five compass](../core_05-05_definitions_a_independent.md#chapter-five-compass-and-definition-map) map).
+- Read with: Apply [Auditability](core_05o_oversight_definitions.md#auditability), [Contestability](core_05a_accountability_definitions.md#contestability), [Materiality Determination](core_05o_oversight_definitions.md#materiality-determination), [Adjudication and Dispute Resolution](core_05a_accountability_definitions.md#adjudication-and-dispute-resolution-constitutional), [Chapter Six §4.0](core_06-06_standing_assessment.md#40-slot-grammar-and-display-labels), [Chapter Seven §4.3](core_07-07_standing_integration.md#standing-integration-slot-band-standing-locks), and [Chapter Eight](core_08-08_misconduct.md#chapter-eight-anti-constitutional-misconduct) where materially implicated.
 
 </details>
 
@@ -1112,8 +1106,6 @@ This cluster is the joint-invocation home for contribution state, standing recor
 - [Unified Record](core_05a_accountability_definitions.md#unified-record);
 - [Single Catastrophic Incident](core_05a_accountability_definitions.md#single-catastrophic-incident);
 - [Sustained High-Gravity Pattern](core_05a_accountability_definitions.md#sustained-high-gravity-pattern).
-
-**Read-with definitions.** Apply [Auditability](core_05o_oversight_definitions.md#auditability), [Contestability](core_05a_accountability_definitions.md#contestability), [Materiality Determination](core_05o_oversight_definitions.md#materiality-determination), [Adjudication and Dispute Resolution](core_05a_accountability_definitions.md#adjudication-and-dispute-resolution-constitutional), [Chapter Six §4.0](core_06-06_standing_assessment.md#40-slot-grammar-and-display-labels), [Chapter Seven §4.3](core_07-07_standing_integration.md#standing-integration-slot-band-standing-locks), and [Chapter Eight](core_08-08_misconduct.md#chapter-eight-anti-constitutional-misconduct) where materially implicated.
 
 **Joint invocation and anti-bypass.** Under §3.0.1, a matter within the admission scope must not be segmented into separate narrative, procedural, evidentiary, standing-effect, or incident-gravity compartments in a way that defeats joint assessment, verified-input gates, standing-lock discipline, top-slot review, or non-substitution discipline required by Chapters Six through Eight.
 
@@ -1440,9 +1432,7 @@ This cluster is the joint-invocation home for contribution state, standing recor
 
 ---
 
-<a id="stewardship-governance-discipline-and-shared-system-capacity-cluster"></a>
-
----
+<a id="use-of-force-autonomous-coercion-and-mass-harm-cluster"></a>
 
 #### 3.11 Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm
 
@@ -1453,6 +1443,7 @@ This cluster is the joint-invocation home for contribution state, standing recor
 - Cross-leg note: integrative with **Continuity** where irreversible harm is implicated.
 - Continuity disambiguation: Distinguish constitutional **Continuity** aim from operational force protocols.
 - Chapter One basis: §3.1, §6.1, §7.1, §9 (see [Chapter Five compass](../core_05-05_definitions_a_independent.md#chapter-five-compass-and-definition-map) map).
+- Read with: Apply [Coercion and Manipulation](core_05p_participation_definitions.md#coercion-and-manipulation-constitutional), [Necessity](core_05a_accountability_definitions.md#necessity), [Proportionality](core_05a_accountability_definitions.md#proportionality), [Reversibility](core_05c_continuity_definitions.md#reversibility-constitutional), [Redress and Remediation](core_05a_accountability_definitions.md#redress-and-remediation-constitutional), [Existential Risk](core_05c_continuity_definitions.md#existential-risk), [Safety (Constraint)](core_05c_continuity_definitions.md#safety-constraint), [Adversarial, Scaled, and Exploited Conditions](core_05o_oversight_definitions.md#adversarial-scaled-and-exploited-conditions), and [Sentience Non-Exclusion](core_05p_participation_definitions.md#sentience-non-exclusion) where materially implicated.
 
 </details>
 
@@ -1472,8 +1463,6 @@ This cluster is the joint-invocation home for overt use of force, weapons of mas
 - [Irreversible Deprivation Measure](core_05a_accountability_definitions.md#irreversible-deprivation-measure-constitutional), for non-conflation discipline with **Article XXIII-B**;
 - [Autonomous Coercion Tool](core_05a_accountability_definitions.md#autonomous-coercion-tool-constitutional).
 
-**Read-with definitions.** Apply [Coercion and Manipulation](core_05p_participation_definitions.md#coercion-and-manipulation-constitutional), [Necessity](core_05a_accountability_definitions.md#necessity), [Proportionality](core_05a_accountability_definitions.md#proportionality), [Reversibility](core_05c_continuity_definitions.md#reversibility-constitutional), [Redress and Remediation](core_05a_accountability_definitions.md#redress-and-remediation-constitutional), [Existential Risk](core_05c_continuity_definitions.md#existential-risk), [Safety (Constraint)](core_05c_continuity_definitions.md#safety-constraint), [Adversarial, Scaled, and Exploited Conditions](core_05o_oversight_definitions.md#adversarial-scaled-and-exploited-conditions), and [Sentience Non-Exclusion](core_05p_participation_definitions.md#sentience-non-exclusion) where materially implicated.
-
 **Joint invocation and anti-bypass.** Under §3.0.1, a matter within the admission scope must not be segmented into separate authorization, targeting, weapons-class, autonomy, coercion, or review questions in a way that satisfies one component while defeating materially interdependent force, discrimination, autonomy-control, or non-conflation duties.
 
 ---
@@ -1486,7 +1475,7 @@ This cluster is the joint-invocation home for overt use of force, weapons of mas
 
 - Downstream: Principles: [9.1 Core Tradeoff Principles](core_01_b_stewardship_capacity_principles.md#91-core-tradeoff-principles) (**Necessity**, **Proportionality**, heightened scrutiny); [9. Interaction and Conflict Resolution](core_01_b_stewardship_capacity_principles.md#9-interaction-and-conflict-resolution) (emergency / escalation read-with Article XIII-B).
 - Owner floor: [Article XIII-B](core_10-10_rights_part_c.md#article-xiii-b-use-of-force-armed-conflict-and-military-power-limits). Overt-power counterpart to the covert-power limits of [Article XIII-A](core_10-10_rights_part_c.md#article-xiii-a-security-intelligence-and-covert-power-limits). Non-conflation: this entry does not authorize, extend, or predicate involuntary deprivation of life under **Article XXIII-B** (*Categorical prohibition of irreversible deprivation of life as a justice measure*, as revised); read with [Irreversible Deprivation Measure](core_05a_accountability_definitions.md#irreversible-deprivation-measure-constitutional).
-- Cluster component: [§3.11 *Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm*](core_05o_oversight_definitions.md#use-of-force-autonomous-coercion-and-mass-harm-cluster).
+- Cluster component: [§3.11 *Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm*](core_05a_accountability_definitions.md#use-of-force-autonomous-coercion-and-mass-harm-cluster).
 - Read with: [Weapons of Mass Harm](core_05a_accountability_definitions.md#weapons-of-mass-harm-constitutional), [Combatant / Non-Combatant Distinction](core_05a_accountability_definitions.md#combatant-non-combatant-distinction-constitutional), [Autonomous Lethal System](core_05a_accountability_definitions.md#autonomous-lethal-system-constitutional), [Irreversible Deprivation Measure](core_05a_accountability_definitions.md#irreversible-deprivation-measure-constitutional), [Necessity](core_05a_accountability_definitions.md#necessity), [Proportionality](core_05a_accountability_definitions.md#proportionality), [Reversibility](core_05c_continuity_definitions.md#reversibility-constitutional), [Redress and Remediation](core_05a_accountability_definitions.md#redress-and-remediation-constitutional), and [Existential Risk](core_05c_continuity_definitions.md#existential-risk).
 
 </details>
@@ -1513,7 +1502,7 @@ This cluster is the joint-invocation home for overt use of force, weapons of mas
 
 - Downstream: Principles: [4. Non-Negotiable Constraints: Safety and Truth](core_01_a_values_principles.md#4-non-negotiable-constraints-safety-and-truth); [8.1.1 Proportionality](core_01_b_stewardship_capacity_principles.md#911-proportionality) (irreversible harm and existential-risk index).
 - Owner floor: [Article XIII-C](core_10-10_rights_part_c.md#article-xiii-c-autonomous-lethal-systems-and-autonomous-coercion-tools). Existential-risk interaction: [Article I-D](core_10-10_rights_part_a.md#article-i-d-existential-risk-and-recovery-capacity). Systems-layer implementation: [Article XII-A](core_10-10_rights_part_c.md#article-xii-a-reliability-and-trustworthiness-baseline).
-- Cluster component: [§3.11 *Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm*](core_05o_oversight_definitions.md#use-of-force-autonomous-coercion-and-mass-harm-cluster).
+- Cluster component: [§3.11 *Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm*](core_05a_accountability_definitions.md#use-of-force-autonomous-coercion-and-mass-harm-cluster).
 - Read with: [Autonomous Coercion Tool](core_05a_accountability_definitions.md#autonomous-coercion-tool-constitutional), [Use of Force](core_05a_accountability_definitions.md#use-of-force-constitutional), [Weapons of Mass Harm](core_05a_accountability_definitions.md#weapons-of-mass-harm-constitutional), [Combatant / Non-Combatant Distinction](core_05a_accountability_definitions.md#combatant-non-combatant-distinction-constitutional), [Existential Risk](core_05c_continuity_definitions.md#existential-risk), [Adversarial, Scaled, and Exploited Conditions](core_05o_oversight_definitions.md#adversarial-scaled-and-exploited-conditions), [Reversibility](core_05c_continuity_definitions.md#reversibility-constitutional), [Irreversible Deprivation Measure](core_05a_accountability_definitions.md#irreversible-deprivation-measure-constitutional), and [Redress and Remediation](core_05a_accountability_definitions.md#redress-and-remediation-constitutional).
 
 </details>
@@ -1550,7 +1539,7 @@ This cluster is the joint-invocation home for overt use of force, weapons of mas
 
 - Downstream: Principles: [4. Non-Negotiable Constraints: Safety and Truth](core_01_a_values_principles.md#4-non-negotiable-constraints-safety-and-truth); [8.1.1 Proportionality](core_01_b_stewardship_capacity_principles.md#911-proportionality) (**Existential Risk**, **Irreversible Harm**, cross-system harm scale).
 - Owner floor: [Article XIII-B](core_10-10_rights_part_c.md#article-xiii-b-use-of-force-armed-conflict-and-military-power-limits). Existential-risk interaction: [Article I-D](core_10-10_rights_part_a.md#article-i-d-existential-risk-and-recovery-capacity). Environmental-preconditions interaction: [Article I-A](core_10-10_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity).
-- Cluster component: [§3.11 *Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm*](core_05o_oversight_definitions.md#use-of-force-autonomous-coercion-and-mass-harm-cluster).
+- Cluster component: [§3.11 *Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm*](core_05a_accountability_definitions.md#use-of-force-autonomous-coercion-and-mass-harm-cluster).
 - Read with: [Use of Force](core_05a_accountability_definitions.md#use-of-force-constitutional), [Existential Risk](core_05c_continuity_definitions.md#existential-risk), [Reversibility](core_05c_continuity_definitions.md#reversibility-constitutional), [Cascading Failure](core_05c_continuity_definitions.md#cascading-failure), [Ecological Integrity](core_05c_continuity_definitions.md#ecological-integrity-constitutional), [Info-Sphere](core_05p_participation_definitions.md#info-sphere), [Irreversible Deprivation Measure](core_05a_accountability_definitions.md#irreversible-deprivation-measure-constitutional), and [Redress and Remediation](core_05a_accountability_definitions.md#redress-and-remediation-constitutional).
 
 </details>
@@ -1575,7 +1564,7 @@ This cluster is the joint-invocation home for overt use of force, weapons of mas
 
 - Downstream: Principles: [8.1.1 Proportionality](core_01_b_stewardship_capacity_principles.md#911-proportionality); [9.4.1 Rights-Collision Decision Test](core_01_b_stewardship_capacity_principles.md#941-rights-collision-decision-test) (combatant-status doubt and non-combatant protection).
 - Owner floor: [Article XIII-B](core_10-10_rights_part_c.md#article-xiii-b-use-of-force-armed-conflict-and-military-power-limits); interacts with [Article XIII-C](core_10-10_rights_part_c.md#article-xiii-c-autonomous-lethal-systems-and-autonomous-coercion-tools) on autonomous-targeting compliance.
-- Cluster component: [§3.11 *Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm*](core_05o_oversight_definitions.md#use-of-force-autonomous-coercion-and-mass-harm-cluster).
+- Cluster component: [§3.11 *Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm*](core_05a_accountability_definitions.md#use-of-force-autonomous-coercion-and-mass-harm-cluster).
 - Read with: [Use of Force](core_05a_accountability_definitions.md#use-of-force-constitutional), [Weapons of Mass Harm](core_05a_accountability_definitions.md#weapons-of-mass-harm-constitutional), [Autonomous Lethal System](core_05a_accountability_definitions.md#autonomous-lethal-system-constitutional), [Protected Characteristics](core_05p_participation_definitions.md#protected-characteristics-constitutional), [Protected Characteristic Proxying and Disparate Impact](core_05p_participation_definitions.md#protected-characteristic-proxying-and-disparate-impact), [Substantive Fairness](core_05p_participation_definitions.md#substantive-fairness-constitutional), and [Proportionality](core_05a_accountability_definitions.md#proportionality).
 
 </details>
@@ -1604,7 +1593,7 @@ This cluster is the joint-invocation home for overt use of force, weapons of mas
 
 - Downstream: Principles: [3. Foundational Objective: Wellbeing](core_01_a_values_principles.md#3-foundational-objective-wellbeing); [12. Prohibition on Absolute Override](core_01_b_stewardship_capacity_principles.md#12-prohibition-on-absolute-override) (non-trivial restriction and dignity floor read-with Article XXIII-B).
 - Owner floor: [Article XXIII-B](core_10-10_rights_part_d.md#article-xxiii-b-non-trivial-restriction-restitution-and-restorative-accountability-constraints) (*Categorical prohibition of irreversible deprivation of life as a justice measure*). Interaction pointers: [Article XXIII-C](core_10-10_rights_part_d.md#article-xxiii-c-least-restrictive-and-time-bounded-rule) durable-containment discipline; [Article XXIV](core_10-10_rights_part_d.md#article-xxiv-constitutional-evolution-and-non-entrenchment) non-entrenchment; [Article XXV](core_10-10_rights_part_d.md#article-xxv-transition-governance-continuity-and-re-baselining) transition governance and "no durable exception authority" rule.
-- Cluster component: [§3.11 *Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm*](core_05o_oversight_definitions.md#use-of-force-autonomous-coercion-and-mass-harm-cluster).
+- Cluster component: [§3.11 *Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm*](core_05a_accountability_definitions.md#use-of-force-autonomous-coercion-and-mass-harm-cluster).
 - Read with: [Reversibility](core_05c_continuity_definitions.md#reversibility-constitutional), [Redress and Remediation](core_05a_accountability_definitions.md#redress-and-remediation-constitutional), [Dignity and Equal Moral Standing](core_05p_participation_definitions.md#dignity-and-equal-moral-standing), [Voluntary Discontinuation](core_05c_continuity_definitions.md#voluntary-discontinuation-constitutional), [Use of Force](core_05a_accountability_definitions.md#use-of-force-constitutional), [Weapons of Mass Harm](core_05a_accountability_definitions.md#weapons-of-mass-harm-constitutional), [Autonomous Lethal System](core_05a_accountability_definitions.md#autonomous-lethal-system-constitutional), [Autonomous Coercion Tool](core_05a_accountability_definitions.md#autonomous-coercion-tool-constitutional), [Sentience Non-Exclusion](core_05p_participation_definitions.md#sentience-non-exclusion), and [Irreversible Harm](core_05a_accountability_definitions.md#irreversible-harm).
 
 </details>
@@ -1640,7 +1629,7 @@ This cluster is the joint-invocation home for overt use of force, weapons of mas
 
 - Downstream: Principles: [4. Non-Negotiable Constraints: Safety and Truth](core_01_a_values_principles.md#4-non-negotiable-constraints-safety-and-truth); [10.1 Required Evaluation Factors](core_01_b_stewardship_capacity_principles.md#101-required-evaluation-factors) (scaled / adversarial deployment scrutiny).
 - Owner floor: [Article XIII-C](core_10-10_rights_part_c.md#article-xiii-c-autonomous-lethal-systems-and-autonomous-coercion-tools). Systems-layer implementation: [Article XII-A](core_10-10_rights_part_c.md#article-xii-a-reliability-and-trustworthiness-baseline) and *[corpus_systems.md](corpus_systems.md)*, CS-4 — System classification and handling classification.
-- Cluster component: [§3.11 *Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm*](core_05o_oversight_definitions.md#use-of-force-autonomous-coercion-and-mass-harm-cluster).
+- Cluster component: [§3.11 *Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm*](core_05a_accountability_definitions.md#use-of-force-autonomous-coercion-and-mass-harm-cluster).
 - Read with: [Autonomous Lethal System](core_05a_accountability_definitions.md#autonomous-lethal-system-constitutional), [Coercion and Manipulation](core_05p_participation_definitions.md#coercion-and-manipulation-constitutional), [Adversarial, Scaled, and Exploited Conditions](core_05o_oversight_definitions.md#adversarial-scaled-and-exploited-conditions), [Reversibility](core_05c_continuity_definitions.md#reversibility-constitutional), [Irreversible Deprivation Measure](core_05a_accountability_definitions.md#irreversible-deprivation-measure-constitutional), [Meaningful Agency](core_05p_participation_definitions.md#meaningful-agency), and [Protected Characteristics](core_05p_participation_definitions.md#protected-characteristics-constitutional).
 
 </details>

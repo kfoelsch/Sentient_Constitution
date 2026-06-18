@@ -261,21 +261,20 @@ This directory lists **Definitions A-Z** and **Clusters A-Z** separately. Each v
 <a id="clusters-a-z"></a>
 #### Clusters A-Z
 
-- [3.5 Animal Life, Sentient Life, and Sentience Status](core_05p_participation_definitions.md#35-animal-life-sentient-life-and-sentience-status)
+- [3.5 Animal Life, Sentient Life, and Sentience Status](core_05p_participation_definitions.md#animal-life-sentient-life-and-sentience-status-cluster)
 - [3.6 Binding Stakeholder Choice](core_05p_participation_definitions.md#binding-stakeholder-choice-cluster)
-- [3.8 Collective Harm Boundary, Harm, and Harassment and Bullying](core_05a_accountability_definitions.md#38-collective-harm-boundary-harm-and-harassment-and-bullying)
-- [3.16 Corpus, Authority Stack, Supremacy, and Enforceability](core_05i_integrative_definitions.md#316-corpus-authority-stack-supremacy-and-enforceability)
-- [3.9 Forum Families and Dispute Routing](core_05a_accountability_definitions.md#corpus-authority-stack-supremacy-and-enforceability-cluster)
-- [3.12 Labor and Economic Floor: Compensation, Organization, Safe Conditions, Leisure, and Creative Work](core_05c_continuity_definitions.md#312-labor-and-economic-floor-compensation-organization-safe-conditions-leisure-and-creative-work)
-- [3.14 Privacy (Informational) — peer-level cluster head](core_05c_continuity_definitions.md#strategic-stewardship-and-stewardship-defect-cluster)
-- [3.7 Self-Determination, Meaningful Agency, Expression, Educational Agency, and Volitional Integrity](core_05p_participation_definitions.md#collective-harm-boundary-and-harm-cluster)
-- [3.10 Standing State, Contribution, and Violation](core_05a_accountability_definitions.md#privacy-informational-cluster)
-- [3.13 Stewardship, Governance Discipline, and Shared-System Capacity](core_05c_continuity_definitions.md#forum-families-and-dispute-routing-cluster)
-- [3.4 Strategic Stewardship and Stewardship Defect](core_05o_oversight_definitions.md#use-of-force-autonomous-coercion-and-mass-harm-cluster)
-- [3.2 Transparency, Auditability, and Verification](core_05o_oversight_definitions.md#32-transparency-auditability-and-verification)
-- [3.15 Trust and Trustworthiness](core_05c_continuity_definitions.md#self-determination-and-meaningful-agency-cluster)
-- [3.3 Truth and Epistemic Integrity](core_05o_oversight_definitions.md#trust-and-trustworthiness-cluster)
-- [3.11 Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm](core_05a_accountability_definitions.md#stewardship-governance-discipline-and-shared-system-capacity-cluster)
+- [3.8 Collective Harm Boundary, Harm, and Harassment and Bullying](core_05a_accountability_definitions.md#collective-harm-boundary-and-harm-cluster)
+- [3.16 Corpus, Authority Stack, Supremacy, and Enforceability](core_05i_integrative_definitions.md#corpus-authority-stack-supremacy-and-enforceability-cluster)
+- [3.9 Forum Families and Dispute Routing](core_05a_accountability_definitions.md#forum-families-and-dispute-routing-cluster)
+- [3.12 Labor and Economic Floor: Compensation, Organization, Safe Conditions, Leisure, and Creative Work](core_05c_continuity_definitions.md#labor-and-economic-floor-cluster)
+- [3.14 Privacy (Informational) — peer-level cluster head](core_05c_continuity_definitions.md#privacy-informational-cluster)
+- [3.7 Self-Determination, Meaningful Agency, Expression, Educational Agency, and Volitional Integrity](core_05p_participation_definitions.md#self-determination-and-meaningful-agency-cluster)
+- [3.10 Standing State, Contribution, and Violation](core_05a_accountability_definitions.md#standing-state-contribution-and-violation-cluster)
+- [3.13 Stewardship, Governance Discipline, and Shared-System Capacity](core_05c_continuity_definitions.md#stewardship-governance-discipline-and-shared-system-capacity-cluster)
+- [3.2 Transparency, Auditability, and Verification](core_05o_oversight_definitions.md#transparency-auditability-and-verification-cluster)
+- [3.15 Trust and Trustworthiness](core_05c_continuity_definitions.md#trust-and-trustworthiness-cluster)
+- [3.3 Truth and Epistemic Integrity](core_05o_oversight_definitions.md#truth-and-epistemic-integrity-cluster)
+- [3.11 Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm](core_05a_accountability_definitions.md#use-of-force-autonomous-coercion-and-mass-harm-cluster)
 
 </details>
 
@@ -312,7 +311,7 @@ Use this compass before invoking any Chapter Five definition. Chapter Five suppl
 
 | Band | File | §3 cluster range |
 |---|---|---|
-| **Oversight leg** | [core_05o_oversight_definitions.md](core_05o_oversight_definitions.md) | **§3.2–§3.4** |
+| **Oversight leg** | [core_05o_oversight_definitions.md](core_05o_oversight_definitions.md) | **§3.2–§3.3** |
 | **Participation leg** | [core_05p_participation_definitions.md](core_05p_participation_definitions.md) | **§3.5–§3.7** |
 | **Accountability leg** | [core_05a_accountability_definitions.md](core_05a_accountability_definitions.md) | **§3.8–§3.11** |
 | **Continuity leg** | [core_05c_continuity_definitions.md](core_05c_continuity_definitions.md) | **§3.12–§3.15** |
@@ -331,7 +330,6 @@ Use this compass before invoking any Chapter Five definition. Chapter Five suppl
 |---|---|---|---|---|---|---|---|
 | **§3.2** | Transparency, Auditability, and Verification | Oversight | Flourishing | §3.2, §4, §7.1, §7.2 | — | — | [core_05o_oversight_definitions.md](core_05o_oversight_definitions.md) |
 | **§3.3** | Truth and Epistemic Integrity | Oversight | Flourishing | §3.2, §3.3, §4, §7.1, §7.2 | integrative with **Accountability** where contest and correction are implicated | — | [core_05o_oversight_definitions.md](core_05o_oversight_definitions.md) |
-| **§3.4** | Strategic Stewardship and Stewardship Defect | Oversight | Continuity | §5.1, §6.1, §7.1, §8 | — | Distinguish constitutional **Continuity** aim from short-horizon operational reporting. | [core_05o_oversight_definitions.md](core_05o_oversight_definitions.md) |
 | **§3.5** | Animal Life, Sentient Life, and Sentience Status | Participation | Flourishing | §2.1, §4, §10 | — | — | [core_05p_participation_definitions.md](core_05p_participation_definitions.md) |
 | **§3.6** | Binding Stakeholder Choice | Participation | Flourishing | §2.1, §3.4, §6.4, §8, §10 | integrative with **Accountability** procedural integrity | — | [core_05p_participation_definitions.md](core_05p_participation_definitions.md) |
 | **§3.7** | Self-Determination, Meaningful Agency, Expression, Educational Agency, and Volitional Integrity | Participation | Flourishing | §10, §2.1, §4 | — | — | [core_05p_participation_definitions.md](core_05p_participation_definitions.md) |

@@ -1,12 +1,15 @@
 # MEMLOG
 
+**Snapshot (2026-06-18):** Full copy of root `MEMLOG.md` before Chapter Five constitutional band closeout. Evidence: [evidence/2026-06-18/ch5_constitutional_migration_log_2026-06-18.json](../evidence/2026-06-18/ch5_constitutional_migration_log_2026-06-18.json).
+
+---
+# MEMLOG
+
 ## Purpose
 
 Session memory log for current project context, decisions, and next actions. Keep this file lean; archive detail snapshots rather than carrying full session history forward.
 
 ## Current State
-
-**2026-06-18 — Chapter Five constitutional band reorganization:** Part B/C retired to [archive/core_ch5_retired/](archive/core_ch5_retired/README.md); five band files (`core_05{o,p,a,c,i}_*_definitions.md`) are operative homes; Part A holds compass + directory + §3.0 meta; §3 clusters renumbered **§3.2–§3.16** (hard cut). Edition **`SC-Corpus-2026.06.18`**. `make regression` and `make alignment-audit` pass; evidence in [evidence/2026-06-18/](evidence/2026-06-18/). Pre-closeout meta snapshot: [archive/TODO_SNAPSHOT_2026-06-18.md](archive/TODO_SNAPSHOT_2026-06-18.md), [archive/MEMLOG_SNAPSHOT_2026-06-18.md](archive/MEMLOG_SNAPSHOT_2026-06-18.md).
 
 **2026-06-17 — Non-corpus housecleaning:** Aggressive archive prune (keep canonical architecture anchors + root retirement snapshots only). Retired migration scripts moved to `archive/tools_retired/`; completed implementation plans to `archive/implementation_retired/`. No corpus doctrine changed.
 
@@ -23,7 +26,6 @@ Session memory log for current project context, decisions, and next actions. Kee
 ## Archive Index
 
 - **Architecture process (canonical):** [archive/ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md](archive/ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md), [archive/ARCHITECTURE_ADOPTION_APPENDIX_ARCHIVED_2026-05-08.md](archive/ARCHITECTURE_ADOPTION_APPENDIX_ARCHIVED_2026-05-08.md), [archive/ARCHITECTURE_WORKLIST_ARCHIVED_2026-05-08.md](archive/ARCHITECTURE_WORKLIST_ARCHIVED_2026-05-08.md) — see [README.md](README.md)
-- **2026-06-18 Chapter Five closeout:** [archive/MEMLOG_SNAPSHOT_2026-06-18.md](archive/MEMLOG_SNAPSHOT_2026-06-18.md), [archive/TODO_SNAPSHOT_2026-06-18.md](archive/TODO_SNAPSHOT_2026-06-18.md)
 - **2026-05-01 root retirement:** [archive/MEMLOG_ROOT_RETIRED_2026-05-01.md](archive/MEMLOG_ROOT_RETIRED_2026-05-01.md), [archive/TODO_ROOT_RETIRED_2026-05-01.md](archive/TODO_ROOT_RETIRED_2026-05-01.md)
 - **Older MEMLOG/TODO snapshots:** removed 2026-06-17; retrieve from git history if needed
 
