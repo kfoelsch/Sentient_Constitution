@@ -6,6 +6,14 @@
 
 **Authority note:** the linked subfiles are binding incorporated implementation text where `corpus_joint_structure.md` is incorporated under Sentient Constitution Chapter Fifteen. The wrapper is an index and does not restate or narrow the subfile text.
 
+> **Reader guidance (non-operative): how to read CJS**
+>
+> The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this file or in other corpus files.
+>
+> CJS coordinates shared interfaces among **CJS**, **CS**, **CI**, and **CF**. **Families CJS-0 through CJS-3 are mostly structural** — registry, boundaries, routing, and cross-layer obligations. They bind when routing or adoption says so, but **most readers should not read CJS front to back**. Full reading paths and a “come back when” list: [cjs_00_registry_and_reading_rules.md](corpus_joint_structure/cjs_00_registry_and_reading_rules.md) (*How to read CJS*, at the top of that file).
+>
+> **Quick starts:** [topic router reader index](doc_architecture/generated/topic_router_reader_index.md) (topic-driven) · [corpus_forum.md](corpus_forum.md) · [corpus_institutions.md](corpus_institutions.md) · [corpus_systems.md](corpus_systems.md) (domain-driven) · [CJS-5 cluster index](corpus_joint_structure/cjs_05_cross_implementation_operational_terms.md) (cross-cutting operational terms).
+
 ## Joint Structure Index
 
 | Stable family | Authoritative subfile |

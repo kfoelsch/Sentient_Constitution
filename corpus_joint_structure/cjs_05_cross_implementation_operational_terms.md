@@ -51,6 +51,8 @@ Use these clusters as shared operational terms within standalone implementation 
 
 Use this preface first whenever a later CJS cluster depends on who may hold authority, support review, staff a lane, operate a material function, or make a binding decision. It gives shared role vocabulary for CJS only. It does not replace the role rules in `core_11-11_governance.md` **Chapter Eleven**, section **5**; **Article XI-D**; `core_07-07_standing_integration.md` **Chapter Seven**, section **1.2** (*Competency Gates*); `corpus_institutions.md` **CI-4** (*Appointment, competency, rotation, and removal*); `corpus_systems.md` **CS-5 — Critical system stewardship**; or `corpus_forum.md` forum-formation rules.
 
+Two preface terms are pinned at the top of this section in functional reading order rather than alphabetical order. They state how competency gates and good-standing interface with trust-sensitive roles, and what facts must be verified before any role label in CJS is treated as valid. Read them in listed order before applying any later **CJS-5** cluster that depends on role authority.
+
 Competency gate and standing interface
 - OP-O: Access to trust-sensitive roles, delegated authority, oversight eligibility, enhanced recognition, or more consequential stewardship must satisfy any applicable **Chapter Seven**, section **1.2** competency gate and current good-standing criteria.
 - OP-E: Reviewers must verify demonstrated competence, relevant experience, contribution records, training or qualification criteria, standing locks, disqualification grounds, contestability, and restoration limits. The depth of review scales with role impact, dependency, risk, and reversibility.
@@ -60,6 +62,8 @@ Role-definition reading rule
 - OP-O: A role term is valid only when the materially relevant facts are published and auditable: authority, limits, decision rights, review path, competency basis, standing status, succession coverage, and accountability owner.
 - OP-E: Before applying a CJS term that assumes authority, independence, quorum, support, review, intervention, secrecy, or adjudicative capacity, reviewers must verify the role's real scope.
 - OP-C: A role label is non-compliant if it is only a title, hides credentialing, enables arbitrary gatekeeping, bypasses standing rules, or is used instead of the appointment, competency, removal, recusal, or due-process rules in the owner file.
+
+The role terms below define shared CJS role labels. They assume the preface gates above are satisfied and are ordered alphabetically by title for lookup and maintenance.
 
 Accountable role
 - OP-O: An accountable role is the role assigned responsibility for a decision, control, duty, record, lane, remedy, or escalation path.

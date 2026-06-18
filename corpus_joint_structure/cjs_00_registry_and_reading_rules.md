@@ -4,6 +4,29 @@
 
 **Corpus edition:** `SC-Corpus-2026.04.33` · **Effective date:** 2026-04-24
 
+> **Reader guidance (non-operative): how to read CJS**
+>
+> The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this file or in other corpus files.
+>
+> The joint-structure layer (**CJS**) coordinates how **CJS**, **CS**, **CI**, and **CF** fit together when more than one implementation layer applies to the same facts. **Families CJS-0 through CJS-3 are mostly structural** — registry, boundaries, routing, and cross-layer obligations. They bind when routing or adoption says so, but **most readers should not read CJS front to back**.
+>
+> **Where to start**
+>
+> | If you are… | Start here |
+> |---|---|
+> | **Topic-driven** — you know the subject (forum ops, institutional governance, cross-layer integrity) | [topic_router_reader_index.md](../doc_architecture/generated/topic_router_reader_index.md) → primary owner section |
+> | **Domain-driven** — you care about forums, institutions, or systems | [corpus_forum.md](../corpus_forum.md), [corpus_institutions.md](../corpus_institutions.md), or [corpus_systems.md](../corpus_systems.md) |
+> | **Cross-cutting operational terms** — evidence, procedure, dependency, participation, failure handling, and similar joint terms | [cjs_05_cross_implementation_operational_terms.md](cjs_05_cross_implementation_operational_terms.md) (**CJS-5**) |
+>
+> **Come back to CJS-0 through CJS-3 when**
+> - a citation sends you to **CJS-1.2**, **CJS-2.1**, **CJS-3**, or another section in these families — read that section, not the whole family;
+> - you need to know **which file owns a topic** — [CJS-0.1](#cjs-01-cross-file-routing) (*Cross-file routing*) or the topic index;
+> - you are **editing or auditing** cross-file routing — **CJS-2.1** and **CJS-0.3**.
+>
+> Substantive joint rules and operational terms live in **CJS-4** and **CJS-5**; day-to-day domain doctrine lives in **CS**, **CI**, and **CF** as **CJS-2.1** routes.
+
+<br>
+
 <details>
 <summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): edition, status, and where this file lives</span></strong></summary>
 
@@ -37,7 +60,7 @@
 
 <br>
 
-*In plain terms: this file is the front door to the **joint-structure** folder — cross-file reading guidance, the section-family map, and where to start before **CJS-1**.*
+*In plain terms: this file is the front door to the **joint-structure** folder — cross-file reading guidance, the section-family map, and where to start before **CJS-1**. For where most readers should begin, see **How to read CJS** above.*
 
 **Quick orientation**
 
@@ -140,14 +163,14 @@ Binding router table, overlap discipline, and definition-tier rules: [cjs_02_imp
 
 These are the stable section families for the CJS folder:
 
-| Family | What it covers | Start here |
-|---|---|---|
-| **CJS-0** | Registry, cross-file routing guide, and reading rules | this file (`cjs_00_registry_and_reading_rules.md`) |
-| **CJS-1** | Scope, purpose, and boundary interface | [cjs_01_scope_purpose_boundary_interface.md](cjs_01_scope_purpose_boundary_interface.md) |
-| **CJS-2** | Cross-file integration map: read-with contract, overlap discipline, and definition tiers (reading guide in **CJS-0.1**) | [cjs_02_implementation_integration_map.md](cjs_02_implementation_integration_map.md) |
-| **CJS-3** | General joint structural obligations: requirements that cross domains | [cjs_03_joint_structural_obligations.md](cjs_03_joint_structural_obligations.md) |
-| **CJS-4** | Specific joint interlocks and shared abstractions | [cjs_04_specific_joint_interlocks.md](cjs_04_specific_joint_interlocks.md) |
-| **CJS-5** | Cross-implementation operational cluster library | [cjs_05_cross_implementation_operational_terms.md](cjs_05_cross_implementation_operational_terms.md) |
+| Family | What it covers | Typical reader | Start here |
+|---|---|---|---|
+| **CJS-0** | Registry, cross-file routing guide, and reading rules | Editors, auditors, readers who are lost | this file (`cjs_00_registry_and_reading_rules.md`) |
+| **CJS-1** | Scope, purpose, and boundary interface | Editors, auditors; general readers when cited | [cjs_01_scope_purpose_boundary_interface.md](cjs_01_scope_purpose_boundary_interface.md) |
+| **CJS-2** | Cross-file integration map: read-with contract, overlap discipline, and definition tiers (reading guide in **CJS-0.1**) | Topic lookup, editors, auditors | [cjs_02_implementation_integration_map.md](cjs_02_implementation_integration_map.md) |
+| **CJS-3** | General joint structural obligations: requirements that cross domains | Readers handling cross-layer facts; editors, auditors | [cjs_03_joint_structural_obligations.md](cjs_03_joint_structural_obligations.md) |
+| **CJS-4** | Specific joint interlocks and shared abstractions | Topic-driven readers when routed; implementers | [cjs_04_specific_joint_interlocks.md](cjs_04_specific_joint_interlocks.md) |
+| **CJS-5** | Cross-implementation operational cluster library | Readers needing shared operational terms | [cjs_05_cross_implementation_operational_terms.md](cjs_05_cross_implementation_operational_terms.md) |
 
 ### CJS-0.3: Stable identifiers, edition alignment, and drafting notes
 
