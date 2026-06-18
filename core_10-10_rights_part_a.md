@@ -680,4 +680,6 @@ Those requirements protect shared infrastructure and the systems that depend on 
 
 ---
 
+**Previous file:** [core_09-09_forum.md](core_09-09_forum.md)
+
 **Next file:** [core_10-10_rights_part_b.md](core_10-10_rights_part_b.md)

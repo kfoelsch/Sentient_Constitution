@@ -641,4 +641,6 @@ Any review-trigger, escalation-trigger, or referral-trigger language in this cha
 
 ---
 
+**Previous file:** [core_11-11_governance.md](core_11-11_governance.md)
+
 **Next file:** [core_15-15_incorporation.md](core_15-15_incorporation.md)

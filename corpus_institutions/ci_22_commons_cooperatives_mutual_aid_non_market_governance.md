@@ -74,8 +74,4 @@ Read **CI-6**, **CI-9**, **CI-12**, **CI-11**, **CI-18**, and **CI-21** for loca
 
 **Previous file:** [ci_21_community_life_voluntary_association_non_instrumental_time.md](ci_21_community_life_voluntary_association_non_instrumental_time.md)
 
----
-
-**Previous file:** [ci_21_community_life_voluntary_association_non_instrumental_time.md](ci_21_community_life_voluntary_association_non_instrumental_time.md)
-
 **Next file:** [ci_23_place_based_stewardship_indigenous_continuity_consultation.md](ci_23_place_based_stewardship_indigenous_continuity_consultation.md)

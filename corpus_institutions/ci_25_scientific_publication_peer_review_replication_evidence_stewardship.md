@@ -160,8 +160,4 @@ Read **CI-6** and **CI-12** for local procedure maps and cross-institution escal
 
 **Previous file:** [ci_24_innovation_reward_disclosure_anti_enclosure.md](ci_24_innovation_reward_disclosure_anti_enclosure.md)
 
----
-
-**Previous file:** [ci_24_innovation_reward_disclosure_anti_enclosure.md](ci_24_innovation_reward_disclosure_anti_enclosure.md)
-
 **Next file:** [ci_26_compliance_mapping_stable_registry.md](ci_26_compliance_mapping_stable_registry.md)

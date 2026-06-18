@@ -602,4 +602,6 @@ This table is the operative Violation Axis severity ladder for Chapter Six. It s
 
 ---
 
+**Previous file:** [core_05i_integrative_definitions.md](core_05i_integrative_definitions.md)
+
 **Next file:** [core_07-07_standing_integration.md](core_07-07_standing_integration.md)

@@ -97,7 +97,7 @@ This directory lists **Definitions A-Z** and **Clusters A-Z** separately. Each v
 - [Derived Sentient](core_05p_participation_definitions.md#derived-sentient-constitutional)
 - [Developing Sentient](core_05p_participation_definitions.md#developing-sentient-constitutional)
 - [Dignity and Equal Moral Standing](core_05p_participation_definitions.md#dignity-and-equal-moral-standing)
-- [Distributed Understanding](core_05a_accountability_definitions.md#distributed-understanding-constitutional)
+- [Distributed Understanding](core_05c_continuity_definitions.md#distributed-understanding-constitutional)
 - [Ecological Footprint](core_05c_continuity_definitions.md#ecological-footprint)
 - [Ecological Integrity](core_05c_continuity_definitions.md#ecological-integrity-constitutional)
 - [Educational Agency](core_05p_participation_definitions.md#educational-agency)
@@ -195,7 +195,7 @@ This directory lists **Definitions A-Z** and **Clusters A-Z** separately. Each v
 - [Residual Risk / Misalignment](core_05c_continuity_definitions.md#residual-risk--misalignment)
 - [Restorative Justice](core_05a_accountability_definitions.md#restorative-justice)
 - [Reversibility](core_05c_continuity_definitions.md#reversibility-constitutional)
-- [Review and Correction Duty](core_05a_accountability_definitions.md#review-and-correction-duty-constitutional)
+- [Review and Correction Duty](core_05c_continuity_definitions.md#review-and-correction-duty-constitutional)
 - [Risk](core_05c_continuity_definitions.md#risk)
 - [Risk Evaluation and Disclosure](core_05o_oversight_definitions.md#risk-evaluation-and-disclosure)
 - [Safe Conditions](core_05c_continuity_definitions.md#safe-conditions-constitutional)
@@ -207,7 +207,7 @@ This directory lists **Definitions A-Z** and **Clusters A-Z** separately. Each v
 - [Sentience Status Adjudication](core_05p_participation_definitions.md#sentience-status-adjudication-constitutional)
 - [Sentient](core_05p_participation_definitions.md#sentient-composite)
 - [Shared-System Capacity](core_05c_continuity_definitions.md#shared-system-capacity-constitutional)
-- [Short-Horizon Governance Defect](core_05a_accountability_definitions.md#short-horizon-governance-defect-constitutional)
+- [Short-Horizon Governance Defect](core_05c_continuity_definitions.md#short-horizon-governance-defect-constitutional)
 - [Single Catastrophic Incident](core_05a_accountability_definitions.md#single-catastrophic-incident)
 - [Stakeholder](core_05p_participation_definitions.md#stakeholder)
 - [Stakeholder Emergency and Contingency](core_05c_continuity_definitions.md#stakeholder-emergency-and-contingency)
@@ -217,9 +217,9 @@ This directory lists **Definitions A-Z** and **Clusters A-Z** separately. Each v
 - [Standing Effect](core_05a_accountability_definitions.md#standing-effect-chapter-six)
 - [Standing Lock](core_05a_accountability_definitions.md#standing-lock)
 - [Standing Record](core_05a_accountability_definitions.md#standing-record-chapter-six)
-- [Stewardship](core_05a_accountability_definitions.md#stewardship-constitutional)
-- [Stewardship Defect](core_05a_accountability_definitions.md#stewardship-defect-constitutional)
-- [Strategic Stewardship Obligation](core_05a_accountability_definitions.md#strategic-stewardship-obligation-constitutional)
+- [Stewardship](core_05c_continuity_definitions.md#stewardship-constitutional)
+- [Stewardship Defect](core_05c_continuity_definitions.md#stewardship-defect-constitutional)
+- [Strategic Stewardship Obligation](core_05c_continuity_definitions.md#strategic-stewardship-obligation-constitutional)
 - [Substantive Fairness](core_05p_participation_definitions.md#substantive-fairness-constitutional)
 - [Supremacy and Enforceability](core_05i_integrative_definitions.md#supremacy-and-enforceability)
 - [Surveillance Boundary](core_05c_continuity_definitions.md#surveillance-boundary)
@@ -376,5 +376,7 @@ Where a definition or definition component is designated as part of a Dependent 
 Classification as an Independent or Semi-independent definition does not override or bypass cluster membership. Dependent clusters must be satisfied jointly in full functional system context. No component may be isolated, reclassified, or applied independently in a manner that alters compliance determination
 
 ---
+
+**Previous file:** [core_02-04_definition_mechanics.md](core_02-04_definition_mechanics.md)
 
 **Next file:** [core_05o_oversight_definitions.md](core_05o_oversight_definitions.md)

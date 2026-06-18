@@ -877,4 +877,6 @@ This **Chapter Seven** section **6** does **not** restate Chapter Eight slot-ass
 
 ---
 
+**Previous file:** [core_06-06_standing_assessment.md](core_06-06_standing_assessment.md)
+
 **Next file:** [core_08-08_misconduct.md](core_08-08_misconduct.md)

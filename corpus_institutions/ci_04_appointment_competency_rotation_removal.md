@@ -105,7 +105,7 @@ This subsection states institutional owner duties: each institution must publish
 
 - [Governance](../core_05a_accountability_definitions.md#governance) · [O](../core_05a_accountability_definitions.md#governance) · [E](../core_05a_accountability_definitions.md#governance-e) · [C](../core_05a_accountability_definitions.md#governance-c)
 - [Material](../core_05o_oversight_definitions.md#material) · [O](../core_05o_oversight_definitions.md#material) · [E](../core_05o_oversight_definitions.md#material-e) · [C](../core_05o_oversight_definitions.md#material-c)
-- [Review and Correction Duty](../core_05a_accountability_definitions.md#review-and-correction-duty-constitutional) · [O](../core_05a_accountability_definitions.md#review-and-correction-duty-constitutional) · [E](../core_05a_accountability_definitions.md#review-and-correction-duty-constitutional-e) · [C](../core_05a_accountability_definitions.md#review-and-correction-duty-constitutional-c)
+- [Review and Correction Duty](../core_05c_continuity_definitions.md#review-and-correction-duty-constitutional) · [O](../core_05c_continuity_definitions.md#review-and-correction-duty-constitutional) · [E](../core_05c_continuity_definitions.md#review-and-correction-duty-constitutional-e) · [C](../core_05c_continuity_definitions.md#review-and-correction-duty-constitutional-c)
 
 </details>
 
@@ -183,10 +183,6 @@ The following shared rules govern class-scaling — local role maps must apply t
 - **CJS-4.4** (*Class-scaled lane staffing and competency redundancy*) — minimum qualified role holders, backup coverage, and succession depth scaled to binding impact.
 - **CI-3** (*Institutional design and separation of powers*) — lane ownership for each required functional lane.
 - `corpus_systems.md` **CS-4 — System classification and handling** and **CS-5 — Critical system stewardship** — classification and stewardship hooks that trigger when class-scaling applies.
-
----
-
-**Previous file:** [ci_03_institutional_design_separation_of_powers.md](ci_03_institutional_design_separation_of_powers.md)
 
 ---
 

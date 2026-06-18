@@ -70,8 +70,4 @@ Read **CI-6** and **CI-8.3** for secondary-review and digital-pathway interfaces
 
 **Previous file:** [ci_14_transitional_governance_institutional_evolution.md](ci_14_transitional_governance_institutional_evolution.md)
 
----
-
-**Previous file:** [ci_14_transitional_governance_institutional_evolution.md](ci_14_transitional_governance_institutional_evolution.md)
-
 **Next file:** [ci_16_care_labor_dependent_support_respite_care_economy_fairness.md](ci_16_care_labor_dependent_support_respite_care_economy_fairness.md)

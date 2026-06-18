@@ -91,8 +91,4 @@ Read **CI-6** and **CI-12** for local procedure maps and cross-institution escal
 
 **Previous file:** [ci_23_place_based_stewardship_indigenous_continuity_consultation.md](ci_23_place_based_stewardship_indigenous_continuity_consultation.md)
 
----
-
-**Previous file:** [ci_23_place_based_stewardship_indigenous_continuity_consultation.md](ci_23_place_based_stewardship_indigenous_continuity_consultation.md)
-
 **Next file:** [ci_25_scientific_publication_peer_review_replication_evidence_stewardship.md](ci_25_scientific_publication_peer_review_replication_evidence_stewardship.md)

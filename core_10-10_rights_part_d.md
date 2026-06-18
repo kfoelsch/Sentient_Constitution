@@ -603,4 +603,6 @@ For a non-operative reading walkthrough of **Chapter Ten** rights-layer architec
 
 ---
 
+**Previous file:** [core_10-10_rights_part_c.md](core_10-10_rights_part_c.md)
+
 **Next file:** [core_11-11_governance.md](core_11-11_governance.md)

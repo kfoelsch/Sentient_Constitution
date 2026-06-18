@@ -74,8 +74,4 @@ Where verified realignment resistance satisfies **Chapter Eight** criteria, incl
 
 **Previous file:** [ci_12_cross_institution_coordination_escalation.md](ci_12_cross_institution_coordination_escalation.md)
 
----
-
-**Previous file:** [ci_12_cross_institution_coordination_escalation.md](ci_12_cross_institution_coordination_escalation.md)
-
 **Next file:** [ci_14_transitional_governance_institutional_evolution.md](ci_14_transitional_governance_institutional_evolution.md)

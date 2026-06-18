@@ -117,7 +117,7 @@ This subsection states institutional owner duties: each institution must publish
 - [Governance](../core_05a_accountability_definitions.md#governance) · [O](../core_05a_accountability_definitions.md#governance) · [E](../core_05a_accountability_definitions.md#governance-e) · [C](../core_05a_accountability_definitions.md#governance-c)
 - [Authority Stack and Internal Hierarchy](../core_05i_integrative_definitions.md#authority-stack) · [O](../core_05i_integrative_definitions.md#authority-stack) · [E](../core_05i_integrative_definitions.md#authority-stack-e) · [C](../core_05i_integrative_definitions.md#authority-stack-c)
 - [System Capture](../core_05c_continuity_definitions.md#system-capture) · [O](../core_05c_continuity_definitions.md#system-capture) · [E](../core_05c_continuity_definitions.md#system-capture-e) · [C](../core_05c_continuity_definitions.md#system-capture-c)
-- [Review and Correction Duty](../core_05a_accountability_definitions.md#review-and-correction-duty-constitutional) · [O](../core_05a_accountability_definitions.md#review-and-correction-duty-constitutional) · [E](../core_05a_accountability_definitions.md#review-and-correction-duty-constitutional-e) · [C](../core_05a_accountability_definitions.md#review-and-correction-duty-constitutional-c)
+- [Review and Correction Duty](../core_05c_continuity_definitions.md#review-and-correction-duty-constitutional) · [O](../core_05c_continuity_definitions.md#review-and-correction-duty-constitutional) · [E](../core_05c_continuity_definitions.md#review-and-correction-duty-constitutional-e) · [C](../core_05c_continuity_definitions.md#review-and-correction-duty-constitutional-c)
 
 </details>
 
@@ -154,7 +154,7 @@ Delegations must state:
 - [Authority Stack and Internal Hierarchy](../core_05i_integrative_definitions.md#authority-stack) · [O](../core_05i_integrative_definitions.md#authority-stack) · [E](../core_05i_integrative_definitions.md#authority-stack-e) · [C](../core_05i_integrative_definitions.md#authority-stack-c)
 - [System Capture](../core_05c_continuity_definitions.md#system-capture) · [O](../core_05c_continuity_definitions.md#system-capture) · [E](../core_05c_continuity_definitions.md#system-capture-e) · [C](../core_05c_continuity_definitions.md#system-capture-c)
 - [Emergency and Contingency](../core_05c_continuity_definitions.md#emergency-and-contingency-constitutional) · [O](../core_05c_continuity_definitions.md#emergency-and-contingency-constitutional) · [E](../core_05c_continuity_definitions.md#emergency-and-contingency-constitutional-e) · [C](../core_05c_continuity_definitions.md#emergency-and-contingency-constitutional-c)
-- [Review and Correction Duty](../core_05a_accountability_definitions.md#review-and-correction-duty-constitutional) · [O](../core_05a_accountability_definitions.md#review-and-correction-duty-constitutional) · [E](../core_05a_accountability_definitions.md#review-and-correction-duty-constitutional-e) · [C](../core_05a_accountability_definitions.md#review-and-correction-duty-constitutional-c)
+- [Review and Correction Duty](../core_05c_continuity_definitions.md#review-and-correction-duty-constitutional) · [O](../core_05c_continuity_definitions.md#review-and-correction-duty-constitutional) · [E](../core_05c_continuity_definitions.md#review-and-correction-duty-constitutional-e) · [C](../core_05c_continuity_definitions.md#review-and-correction-duty-constitutional-c)
 
 </details>
 
@@ -181,7 +181,7 @@ Emergency delegation is permitted only for necessity and proportionality reasons
 - [Governance](../core_05a_accountability_definitions.md#governance) · [O](../core_05a_accountability_definitions.md#governance) · [E](../core_05a_accountability_definitions.md#governance-e) · [C](../core_05a_accountability_definitions.md#governance-c)
 - [Authority Stack and Internal Hierarchy](../core_05i_integrative_definitions.md#authority-stack) · [O](../core_05i_integrative_definitions.md#authority-stack) · [E](../core_05i_integrative_definitions.md#authority-stack-e) · [C](../core_05i_integrative_definitions.md#authority-stack-c)
 - [System Capture](../core_05c_continuity_definitions.md#system-capture) · [O](../core_05c_continuity_definitions.md#system-capture) · [E](../core_05c_continuity_definitions.md#system-capture-e) · [C](../core_05c_continuity_definitions.md#system-capture-c)
-- [Review and Correction Duty](../core_05a_accountability_definitions.md#review-and-correction-duty-constitutional) · [O](../core_05a_accountability_definitions.md#review-and-correction-duty-constitutional) · [E](../core_05a_accountability_definitions.md#review-and-correction-duty-constitutional-e) · [C](../core_05a_accountability_definitions.md#review-and-correction-duty-constitutional-c)
+- [Review and Correction Duty](../core_05c_continuity_definitions.md#review-and-correction-duty-constitutional) · [O](../core_05c_continuity_definitions.md#review-and-correction-duty-constitutional) · [E](../core_05c_continuity_definitions.md#review-and-correction-duty-constitutional-e) · [C](../core_05c_continuity_definitions.md#review-and-correction-duty-constitutional-c)
 - [Risk](../core_05c_continuity_definitions.md#risk) · [O](../core_05c_continuity_definitions.md#risk) · [E](../core_05c_continuity_definitions.md#risk-e) · [C](../core_05c_continuity_definitions.md#risk-c)
 
 </details>
@@ -191,10 +191,6 @@ Emergency delegation is permitted only for necessity and proportionality reasons
 *In plain terms: each institution must publish, in everyday language, how much risk it is willing to accept — within constitutional limits and scaled to its class and tier duties — and must revisit that statement on a regular schedule and again after any serious incident.*
 
 Each institution must maintain a plain-language risk appetite and tolerance statement aligned to constitutional constraints and class/tier obligations. That statement must be reviewed on a fixed cadence and after material incidents.
-
----
-
-**Previous file:** [ci_02_implementation_integration_map.md](ci_02_implementation_integration_map.md)
 
 ---
 

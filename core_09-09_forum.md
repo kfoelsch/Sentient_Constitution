@@ -428,4 +428,6 @@ Institutional contest, secondary review, and integrity monitoring in **`corpus_i
 
 ---
 
+**Previous file:** [core_08-08_misconduct.md](core_08-08_misconduct.md)
+
 **Next file:** [core_10-10_rights_part_a.md](core_10-10_rights_part_a.md)

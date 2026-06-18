@@ -528,16 +528,16 @@ This band holds **Accountability**-leg definitions: contestability, redress, gov
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Downstream: Principles: [Constitutional Triad](core_00_preamble.md#constitutional-triad) ([material stake](core_00_preamble.md#material-stake) scaling; CCL vs SSP layering); [§7 Governance Under Stewardship Discipline](core_01_b_stewardship_capacity_principles.md#7-governance-under-stewardship-discipline) (governance capture discipline).
-- Cluster component: [Governance Architecture, Oversight, Dependency, Decentralization, Concentration, Market Structure, and Exit-Path Integrity](core_05a_accountability_definitions.md#governance-architecture-oversight-decentralization-and-concentration-cluster); [Stewardship, Governance Discipline, and Shared-System Capacity](core_05a_accountability_definitions.md#stewardship-governance-discipline-and-shared-system-capacity-cluster).
-- Read with: [Stewardship](core_05a_accountability_definitions.md#stewardship-constitutional), [Short-Horizon Governance Defect](core_05a_accountability_definitions.md#short-horizon-governance-defect-constitutional), [Classification-Scaled Governance](core_05o_oversight_definitions.md#classification-scaled-governance), [Oversight](core_05o_oversight_definitions.md#oversight-constitutional), [Accountability](core_05a_accountability_definitions.md#accountability), [Contestability](core_05a_accountability_definitions.md#contestability), [Proportionality](core_05a_accountability_definitions.md#proportionality), [Necessity](core_05a_accountability_definitions.md#necessity), and [System Capture](core_05c_continuity_definitions.md#system-capture).
+- Cluster component: [Governance Architecture, Oversight, Dependency, Decentralization, Concentration, Market Structure, and Exit-Path Integrity](core_05a_accountability_definitions.md#governance-architecture-oversight-decentralization-and-concentration-cluster); [Stewardship, Governance Discipline, and Shared-System Capacity](core_05c_continuity_definitions.md#stewardship-governance-discipline-and-shared-system-capacity-cluster).
+- Read with: [Stewardship](core_05c_continuity_definitions.md#stewardship-constitutional), [Short-Horizon Governance Defect](core_05c_continuity_definitions.md#short-horizon-governance-defect-constitutional), [Classification-Scaled Governance](core_05o_oversight_definitions.md#classification-scaled-governance), [Oversight](core_05o_oversight_definitions.md#oversight-constitutional), [Accountability](core_05a_accountability_definitions.md#accountability), [Contestability](core_05a_accountability_definitions.md#contestability), [Proportionality](core_05a_accountability_definitions.md#proportionality), [Necessity](core_05a_accountability_definitions.md#necessity), and [System Capture](core_05c_continuity_definitions.md#system-capture).
 
 </details>
 
 <br>
 
-- O: The structures, rules, allocation of authority, and processes by which systems and institutions are directed, constrained, evolved, and held [Accountable](core_05a_accountability_definitions.md#accountability). That includes technical, organizational, economic, and socio-technical layers that materially affect sentients. **Layering:** treat the [Constitutional Contract Layer](core_05i_integrative_definitions.md#constitutional-contract-layer) — including [Foundational Constitutional Choice](core_05i_integrative_definitions.md#foundational-constitutional-choice), constituting or durably structuring *who* may govern and *under what governance layer mechanism* — as the authorization layer. Treat materially rights-affecting decisions made *under* that authorized structure as the **Stakeholder System Participation** layer. There, [Stakeholder](core_05p_participation_definitions.md#stakeholder) identification and [Stakeholder Participation Weight](core_05p_participation_definitions.md#stakeholder-participation-weight) ordinarily apply to proportional voice (subject to rights articles and **Article XI-B** constraints). The two layers are related (stakeholders are often members of the entitled community) but not interchangeable for participation-weight rules. At principle layer, **Governance** is subordinate to [Stewardship](core_05a_accountability_definitions.md#stewardship-constitutional) where authorized structures, incentives, or procedures would otherwise permit foreseeable constitutional drift, Rights-Floor degradation, or short-horizon optimization that defeats durable alignment. Operative authorization requirements remain owned by **Chapter Eleven** and the **Constitutional Contract Layer**.
+- O: The structures, rules, allocation of authority, and processes by which systems and institutions are directed, constrained, evolved, and held [Accountable](core_05a_accountability_definitions.md#accountability). That includes technical, organizational, economic, and socio-technical layers that materially affect sentients. **Layering:** treat the [Constitutional Contract Layer](core_05i_integrative_definitions.md#constitutional-contract-layer) — including [Foundational Constitutional Choice](core_05i_integrative_definitions.md#foundational-constitutional-choice), constituting or durably structuring *who* may govern and *under what governance layer mechanism* — as the authorization layer. Treat materially rights-affecting decisions made *under* that authorized structure as the **Stakeholder System Participation** layer. There, [Stakeholder](core_05p_participation_definitions.md#stakeholder) identification and [Stakeholder Participation Weight](core_05p_participation_definitions.md#stakeholder-participation-weight) ordinarily apply to proportional voice (subject to rights articles and **Article XI-B** constraints). The two layers are related (stakeholders are often members of the entitled community) but not interchangeable for participation-weight rules. At principle layer, **Governance** is subordinate to [Stewardship](core_05c_continuity_definitions.md#stewardship-constitutional) where authorized structures, incentives, or procedures would otherwise permit foreseeable constitutional drift, Rights-Floor degradation, or short-horizon optimization that defeats durable alignment. Operative authorization requirements remain owned by **Chapter Eleven** and the **Constitutional Contract Layer**.
 <a id="governance-e"></a>
-- E: Align with [Classification-Scaled Governance](core_05o_oversight_definitions.md#classification-scaled-governance), [Oversight](core_05o_oversight_definitions.md#oversight-constitutional), [Accountability](core_05a_accountability_definitions.md#accountability), [Contestability](core_05a_accountability_definitions.md#contestability), [Proportionality](core_05a_accountability_definitions.md#proportionality), [Necessity](core_05a_accountability_definitions.md#necessity), and [System Capture](core_05c_continuity_definitions.md#system-capture). Assess whether authority is distributed, bounded, and reviewable in proportion to [material stake](core_00_preamble.md#material-stake). Detect [Short-Horizon Governance Defect](core_05a_accountability_definitions.md#short-horizon-governance-defect-constitutional) where governance optimizes immediate outputs without revalidation against medium- and long-horizon constitutional outcomes. Incorporated governance implementation may specialize these requirements where designated but must not narrow this definition.
+- E: Align with [Classification-Scaled Governance](core_05o_oversight_definitions.md#classification-scaled-governance), [Oversight](core_05o_oversight_definitions.md#oversight-constitutional), [Accountability](core_05a_accountability_definitions.md#accountability), [Contestability](core_05a_accountability_definitions.md#contestability), [Proportionality](core_05a_accountability_definitions.md#proportionality), [Necessity](core_05a_accountability_definitions.md#necessity), and [System Capture](core_05c_continuity_definitions.md#system-capture). Assess whether authority is distributed, bounded, and reviewable in proportion to [material stake](core_00_preamble.md#material-stake). Detect [Short-Horizon Governance Defect](core_05c_continuity_definitions.md#short-horizon-governance-defect-constitutional) where governance optimizes immediate outputs without revalidation against medium- and long-horizon constitutional outcomes. Incorporated governance implementation may specialize these requirements where designated but must not narrow this definition.
 <a id="governance-c"></a>
 - C: Non-compliant: governance arrangements that materially negate required [Oversight](core_05o_oversight_definitions.md#oversight-constitutional), [Contestability](core_05a_accountability_definitions.md#contestability), or [Accountability](core_05a_accountability_definitions.md#accountability); arrangements that produce or entrench [System Capture](core_05c_continuity_definitions.md#system-capture) without mitigation where such capture is materially prohibited; governance arrangements that normalize permanent emergency, suppress correction, or entrench capture while preserving nominal procedure.
 
@@ -609,156 +609,7 @@ This band holds **Accountability**-leg definitions: contestability, redress, gov
 
 ---
 
-#### Stewardship, governance discipline, review, and correction
-
-**Cluster context:** This semi-independent topic group states the consolidated stewardship stack at principle layer: **Stewardship** orientation, **Distributed Understanding**, **Short-Horizon Governance Defect**, **Strategic Stewardship Obligation**, **Stewardship Defect**, and **Review and Correction Duty**. Hierarchy at principle layer: stewardship → governance (subordinate; read with [Governance](core_05a_accountability_definitions.md#governance)) → [Shared-System Capacity](core_05c_continuity_definitions.md#shared-system-capacity-constitutional) (instrumental outcome; read with only). Read with [Chapter One Part B §§6–8](core_01_b_stewardship_capacity_principles.md#chapter-01-part-b-stewardship-capacity-and-constitutional-safeguards) and the [Stewardship, Governance Discipline, and Shared-System Capacity](core_05a_accountability_definitions.md#stewardship-governance-discipline-and-shared-system-capacity-cluster) dependent cluster.
-
-**Topic group members.** This group comprises:
-- [Stewardship](core_05a_accountability_definitions.md#stewardship-constitutional);
-- [Distributed Understanding](core_05a_accountability_definitions.md#distributed-understanding-constitutional);
-- [Short-Horizon Governance Defect](core_05a_accountability_definitions.md#short-horizon-governance-defect-constitutional);
-- [Strategic Stewardship Obligation](core_05a_accountability_definitions.md#strategic-stewardship-obligation-constitutional);
-- [Stewardship Defect](core_05a_accountability_definitions.md#stewardship-defect-constitutional);
-- [Review and Correction Duty](core_05a_accountability_definitions.md#review-and-correction-duty-constitutional).
-
-<a id="stewardship-constitutional"></a>
-
----
-#### Stewardship
-
-<details>
-<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
-
-- Downstream: Principles: [§6 Stewardship and Distributed Understanding](core_01_b_stewardship_capacity_principles.md#6-stewardship-and-distributed-understanding); [§7 Governance Under Stewardship Discipline](core_01_b_stewardship_capacity_principles.md#7-governance-under-stewardship-discipline).
-- Cluster component: [Stewardship, Governance Discipline, and Shared-System Capacity](core_05a_accountability_definitions.md#stewardship-governance-discipline-and-shared-system-capacity-cluster).
-- Read with: [Governance](core_05a_accountability_definitions.md#governance), [Shared-System Capacity](core_05c_continuity_definitions.md#shared-system-capacity-constitutional), [Two Constitutional Aims](core_01_a_values_principles.md#two-constitutional-aims) — **Continuity** aim, and [Ecological Integrity](core_05c_continuity_definitions.md#ecological-integrity-constitutional).
-
-</details>
-
-<br>
-
-- O: The principle-layer orientation of systems, institutions, and authorized actors toward preserving constitutional alignment, repair capacity, [Distributed Understanding](core_05a_accountability_definitions.md#distributed-understanding-constitutional), and long-horizon consequences — including ecological, intergenerational, and **Continuity**-aim effects under the [Two Constitutional Aims](core_01_a_values_principles.md#two-constitutional-aims) — over time.
-<a id="stewardship-constitutional-e"></a>
-- E: Distinguish from governance form, documentation, consultation theater, or single-metric optimization. Assess foresight, correction, participation pathways, and incentive design across delayed, cumulative, systemic, and intergenerational effects. Read with [Strategic Stewardship Obligation](core_05a_accountability_definitions.md#strategic-stewardship-obligation-constitutional) for operative duty on stewards and operators with material influence.
-<a id="stewardship-constitutional-c"></a>
-- C: Non-compliant: long-horizon duties treated as optional; subordinated to short-horizon convenience or metric gaming without [Necessity](core_05a_accountability_definitions.md#necessity) and [Proportionality](core_05a_accountability_definitions.md#proportionality); or masked by non-functional stewardship posture after drift is reasonably foreseeable.
-
-
-<a id="distributed-understanding-constitutional"></a>
-
----
-#### Distributed Understanding
-
-<details>
-<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
-
-- Downstream: Principles: [§6 Stewardship and Distributed Understanding](core_01_b_stewardship_capacity_principles.md#6-stewardship-and-distributed-understanding); [§6.2 Distributed Understanding](core_01_b_stewardship_capacity_principles.md#62-distributed-understanding).
-- Cluster component: [Stewardship, Governance Discipline, and Shared-System Capacity](core_05a_accountability_definitions.md#stewardship-governance-discipline-and-shared-system-capacity-cluster).
-- Read with: [Educational Agency](core_05p_participation_definitions.md#educational-agency), [Transparency](core_05o_oversight_definitions.md#transparency), [Accessibility](core_05p_participation_definitions.md#accessibility-constitutional), [Materiality Determination](core_05o_oversight_definitions.md#materiality-determination), [Dependency](core_05c_continuity_definitions.md#dependency), and [Article XX](core_10-10_rights_part_c.md#article-xx-right-to-understand-and-contest).
-
-</details>
-
-<br>
-
-- O: Workable opportunities for materially affected sentients to learn how shared systems that affect them operate, with understanding scaled by [Materiality Determination](core_05o_oversight_definitions.md#materiality-determination) and [Dependency](core_05c_continuity_definitions.md#dependency), supporting informed participation, stewardship, and [Contestability](core_05a_accountability_definitions.md#contestability).
-<a id="distributed-understanding-constitutional-e"></a>
-- E: Distinguish from nominal disclosure, jargon barriers, or summaries that misstate operative effect. Read with [Educational Agency](core_05p_participation_definitions.md#educational-agency), [Transparency](core_05o_oversight_definitions.md#transparency), and [Accessibility](core_05p_participation_definitions.md#accessibility-constitutional). Scale depth, format, and timing to material impact, dependency, and adversarial conditions without defeating practical comprehension.
-<a id="distributed-understanding-constitutional-c"></a>
-- C: Non-compliant: understanding withheld, obscured, or made practically unusable without [Necessity](core_05a_accountability_definitions.md#necessity), [Proportionality](core_05a_accountability_definitions.md#proportionality), and applicable security limits.
-
-
-<a id="short-horizon-governance-defect-constitutional"></a>
-
----
-#### Short-Horizon Governance Defect
-
-<details>
-<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
-
-- Downstream: Principles: [§7.2 Short-Horizon Governance Defect](core_01_b_stewardship_capacity_principles.md#72-short-horizon-governance-defect); [§7 Governance Under Stewardship Discipline](core_01_b_stewardship_capacity_principles.md#7-governance-under-stewardship-discipline).
-- Cluster component: [Stewardship, Governance Discipline, and Shared-System Capacity](core_05a_accountability_definitions.md#stewardship-governance-discipline-and-shared-system-capacity-cluster).
-- Read with: [Governance](core_05a_accountability_definitions.md#governance), [Stewardship](core_05a_accountability_definitions.md#stewardship-constitutional), [Stewardship Defect](core_05a_accountability_definitions.md#stewardship-defect-constitutional), [System Capture](core_05c_continuity_definitions.md#system-capture), [Proxy Divergence](core_05o_oversight_definitions.md#proxy-divergence), [Review and Correction Duty](core_05a_accountability_definitions.md#review-and-correction-duty-constitutional), and [Two Constitutional Aims](core_01_a_values_principles.md#two-constitutional-aims) — **Continuity** aim.
-
-</details>
-
-<br>
-
-- O: A material governance pattern that optimizes immediate metrics, convenience, institutional self-protection, or transient stability at the foreseeable expense of medium- or long-horizon constitutional alignment, the **Continuity** aim under the [Two Constitutional Aims](core_01_a_values_principles.md#two-constitutional-aims), or Rights-Floor integrity.
-<a id="short-horizon-governance-defect-constitutional-e"></a>
-- E: Include uncorrected [Proxy Divergence](core_05o_oversight_definitions.md#proxy-divergence), permanent-emergency normalization, deferred safeguard maintenance, incentive structures rewarding throughput over outcomes, and governance that treats short-horizon value as sufficient without [Review and Correction Duty](core_05a_accountability_definitions.md#review-and-correction-duty-constitutional) revalidation. Distinguish bounded, time-limited emergency measures that satisfy **Necessity**, **Proportionality**, and applicable Chapter Ten safeguards from defects that persist without correction paths.
-<a id="short-horizon-governance-defect-constitutional-c"></a>
-- C: Non-compliant: maintaining such a pattern after risks or drift are reasonably foreseeable and correction was practicable; using governance form, metrics, or reporting to mask non-functional stewardship or capacity claims.
-
-
-<a id="strategic-stewardship-obligation-constitutional"></a>
-
----
-#### Strategic Stewardship Obligation
-
-<details>
-<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
-
-- Downstream: Principles: [§7.4 Stewardship and Operator Incentive Alignment](core_01_b_stewardship_capacity_principles.md#74-stewardship-and-operator-incentive-alignment), [§10.1 Required Evaluation Factors](core_01_b_stewardship_capacity_principles.md#101-required-evaluation-factors), and Chapter Ten strategy / stewardship requirements.
-- Cluster component: [Stewardship, Governance Discipline, and Shared-System Capacity](core_05a_accountability_definitions.md#stewardship-governance-discipline-and-shared-system-capacity-cluster).
-- Read with: [Stewardship Defect](core_05a_accountability_definitions.md#stewardship-defect-constitutional), [Short-Horizon Governance Defect](core_05a_accountability_definitions.md#short-horizon-governance-defect-constitutional), [Review and Correction Duty](core_05a_accountability_definitions.md#review-and-correction-duty-constitutional), [Governance](core_05a_accountability_definitions.md#governance), [Incentive Alignment](core_05i_integrative_definitions.md#incentive-alignment), [Oversight](core_05o_oversight_definitions.md#oversight-constitutional), [Foreseeability Diligence](core_05o_oversight_definitions.md#foreseeability-diligence), [Materiality Determination](core_05o_oversight_definitions.md#materiality-determination), [Risk](core_05c_continuity_definitions.md#risk), and [Ecological Integrity](core_05c_continuity_definitions.md#ecological-integrity-constitutional).
-
-</details>
-
-<br>
-
-- O: The duty of systems, institutions, operators, and stewards with material or durable influence to govern strategy, incentives, resources, dependencies, ecological effects, safety risks, Rights-Floor impacts, and long-horizon consequences in a way that preserves constitutional alignment over time.
-<a id="strategic-stewardship-obligation-constitutional-e"></a>
-- E: Evaluate foresight, incentive design, revalidation, monitoring, correction, transparency, contingency planning, and allocation of responsibility. Stewardship must account for cumulative, delayed, systemic, ecological, and intergenerational effects, and must update when evidence shows drift, capture, proxy divergence, or material under-performance.
-<a id="strategic-stewardship-obligation-constitutional-c"></a>
-- C: Non-compliant: strategic planning, governance, or operational control that predictably externalizes material harm, ignores observable drift, designs incentives against constitutional outcomes, or treats short-horizon value, convenience, or institutional self-protection as sufficient stewardship.
-
-
-<a id="stewardship-defect-constitutional"></a>
-
----
-#### Stewardship Defect
-
-<details>
-<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
-
-- Downstream: Principles: [§7.4 Stewardship and Operator Incentive Alignment](core_01_b_stewardship_capacity_principles.md#74-stewardship-and-operator-incentive-alignment), [§7 Governance Under Stewardship Discipline](core_01_b_stewardship_capacity_principles.md#7-governance-under-stewardship-discipline), and [§10.1 Required Evaluation Factors](core_01_b_stewardship_capacity_principles.md#101-required-evaluation-factors).
-- Cluster component: [Stewardship, Governance Discipline, and Shared-System Capacity](core_05a_accountability_definitions.md#stewardship-governance-discipline-and-shared-system-capacity-cluster).
-- Read with: [Strategic Stewardship Obligation](core_05a_accountability_definitions.md#strategic-stewardship-obligation-constitutional), [Short-Horizon Governance Defect](core_05a_accountability_definitions.md#short-horizon-governance-defect-constitutional), [Review and Correction Duty](core_05a_accountability_definitions.md#review-and-correction-duty-constitutional), [Governance](core_05a_accountability_definitions.md#governance), [Incentive Alignment](core_05i_integrative_definitions.md#incentive-alignment), [System Capture](core_05c_continuity_definitions.md#system-capture), [Materiality Determination](core_05o_oversight_definitions.md#materiality-determination), [Proxy Divergence](core_05o_oversight_definitions.md#proxy-divergence), and [Accountability](core_05a_accountability_definitions.md#accountability).
-
-</details>
-
-<br>
-
-- O: A material failure of stewardship, strategy, incentive design, monitoring, correction, disclosure, or governance responsibility that foreseeably permits constitutional drift, Rights-Floor degradation, ecological harm, safety risk, truth degradation, capture, or avoidable systemic harm.
-<a id="stewardship-defect-constitutional-e"></a>
-- E: Identify defects by substantive effect and reasonably available evidence, not by whether a policy exists on paper. Include known-risk neglect, incentive misalignment, uncorrected proxy divergence, inadequate monitoring, denial of observable drift, under-resourced safeguards, captured review, and short-horizon governance that defeats durable constitutional duties.
-<a id="stewardship-defect-constitutional-c"></a>
-- C: Non-compliant: maintaining a stewardship posture that materially fails the strategic stewardship obligation after risks, drift, or harmful incentives are reasonably foreseeable; using documentation, branding, or committee form to mask non-functional stewardship.
-
-
-<a id="review-and-correction-duty-constitutional"></a>
-
----
-#### Review and Correction Duty
-
-<details>
-<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
-
-- Downstream: Principles: [§7.4 Stewardship and Operator Incentive Alignment](core_01_b_stewardship_capacity_principles.md#74-stewardship-and-operator-incentive-alignment); [10.1 Required Evaluation Factors](core_01_b_stewardship_capacity_principles.md#101-required-evaluation-factors) (periodic revalidation / drift detection).
-- Owner floor: [Chapter Eleven §3](core_11-11_governance.md#3-strategy-stewardship-direction-and-ecosystem-value-non-corporate).
-- Cluster component: [Stewardship, Governance Discipline, and Shared-System Capacity](core_05a_accountability_definitions.md#stewardship-governance-discipline-and-shared-system-capacity-cluster); [the dependent cluster *Adjudication and Dispute Resolution, Redress and Remediation, Restorative Justice, Review and Correction Duty, and Refuge from Non-Compliance*](core_05a_accountability_definitions.md#accountability-contestability-semi-independent).
-- Read with: [Material Impact](core_05o_oversight_definitions.md#material-impact), [Proxy Divergence](core_05o_oversight_definitions.md#proxy-divergence), [System Capture](core_05c_continuity_definitions.md#system-capture), [Auditability](core_05o_oversight_definitions.md#auditability), and Chapters Two through Four (tracing, observability, verification) as referenced in [Chapter Eleven §3](core_11-11_governance.md#3-strategy-stewardship-direction-and-ecosystem-value-non-corporate).
-
-</details>
-
-<br>
-
-- O: The duty to periodically revalidate strategy and stewardship claims against observable outcomes and to revise them when evidence shows constitutional drift, capture pressure, or material under-performance.
-<a id="review-and-correction-duty-constitutional-e"></a>
-- E: Apply [Materiality Determination](core_05o_oversight_definitions.md#materiality-determination) and evidence-of-drift tests consistent with [Contestability](core_05a_accountability_definitions.md#contestability) and Chapter Six **contribution** **inputs** where stewardship claims are material to classification or standing.
-<a id="review-and-correction-duty-constitutional-c"></a>
-- C: Non-compliant: maintaining published strategy or stewardship claims without periodic revalidation where observability is practicable; refusing revision when outcomes materially contradict stated constitutional alignment.
-
+**Stewardship, governance discipline, review, and correction (§3.13 redirect).** Canonical O/E/C entries for this stack live under [Chapter Five §3.13 *Stewardship, Governance Discipline, and Shared-System Capacity*](core_05c_continuity_definitions.md#stewardship-governance-discipline-and-shared-system-capacity-cluster): [Stewardship](core_05c_continuity_definitions.md#stewardship-constitutional), [Distributed Understanding](core_05c_continuity_definitions.md#distributed-understanding-constitutional), [Strategic Stewardship Obligation](core_05c_continuity_definitions.md#strategic-stewardship-obligation-constitutional), [Short-Horizon Governance Defect](core_05c_continuity_definitions.md#short-horizon-governance-defect-constitutional), [Stewardship Defect](core_05c_continuity_definitions.md#stewardship-defect-constitutional), and [Review and Correction Duty](core_05c_continuity_definitions.md#review-and-correction-duty-constitutional).
 
 ---
 
@@ -1418,7 +1269,7 @@ This cluster is the joint-invocation home for contribution state, standing recor
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Canonical owner: [Chapter Eight §3](core_08-08_misconduct.md#3-violation-axis-s-7-9-slot-assignment-incident-gravity) (*incident gravity*).
-- Read with: the [Standing State, Contribution, and Violation cluster](core_05p_participation_definitions.md#standing-state-contribution-and-violation-cluster), [Top-Slot Review](core_05a_accountability_definitions.md#top-slot-review), [Unified Incident](core_05a_accountability_definitions.md#unified-incident), [Unified Record](core_05a_accountability_definitions.md#unified-record), Chapter Eight criterion 3 (*Material rollback effect*), [System Capture](core_05c_continuity_definitions.md#system-capture), [Review and Correction Duty](core_05a_accountability_definitions.md#review-and-correction-duty-constitutional), and [Accountability](core_05a_accountability_definitions.md#accountability).
+- Read with: the [Standing State, Contribution, and Violation cluster](core_05p_participation_definitions.md#standing-state-contribution-and-violation-cluster), [Top-Slot Review](core_05a_accountability_definitions.md#top-slot-review), [Unified Incident](core_05a_accountability_definitions.md#unified-incident), [Unified Record](core_05a_accountability_definitions.md#unified-record), Chapter Eight criterion 3 (*Material rollback effect*), [System Capture](core_05c_continuity_definitions.md#system-capture), [Review and Correction Duty](core_05c_continuity_definitions.md#review-and-correction-duty-constitutional), and [Accountability](core_05a_accountability_definitions.md#accountability).
 
 </details>
 
@@ -1660,9 +1511,6 @@ This cluster is the joint-invocation home for overt use of force, weapons of mas
 
 ---
 
-**Next file:** [core_06-06_standing_assessment.md](core_06-06_standing_assessment.md)
-
-
----
+**Previous file:** [core_05p_participation_definitions.md](core_05p_participation_definitions.md)
 
 **Next file:** [core_05c_continuity_definitions.md](core_05c_continuity_definitions.md)

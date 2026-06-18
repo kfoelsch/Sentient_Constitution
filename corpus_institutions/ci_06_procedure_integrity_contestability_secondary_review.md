@@ -53,8 +53,4 @@ For every required step in that map, the institution must also name the local ow
 
 **Previous file:** [ci_05_conflict_integrity_anti_capture_anti_corruption.md](ci_05_conflict_integrity_anti_capture_anti_corruption.md)
 
----
-
-**Previous file:** [ci_05_conflict_integrity_anti_capture_anti_corruption.md](ci_05_conflict_integrity_anti_capture_anti_corruption.md)
-
 **Next file:** [ci_07_oversight_assurance_controls_evidence.md](ci_07_oversight_assurance_controls_evidence.md)

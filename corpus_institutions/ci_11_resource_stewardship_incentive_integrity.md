@@ -18,7 +18,7 @@
 - [Material](../core_05o_oversight_definitions.md#material) · [O](../core_05o_oversight_definitions.md#material) · [E](../core_05o_oversight_definitions.md#material-e) · [C](../core_05o_oversight_definitions.md#material-c)
 - [Corpus](../core_05i_integrative_definitions.md#corpus) · [O](../core_05i_integrative_definitions.md#corpus) · [E](../core_05i_integrative_definitions.md#corpus-e) · [C](../core_05i_integrative_definitions.md#corpus-c)
 - [System](../core_05c_continuity_definitions.md#system-definition) · [O](../core_05c_continuity_definitions.md#system-definition) · [E](../core_05c_continuity_definitions.md#system-definition-e) · [C](../core_05c_continuity_definitions.md#system-definition-c)
-- [Strategic Stewardship Obligation](../core_05a_accountability_definitions.md#strategic-stewardship-obligation-constitutional) · [O](../core_05a_accountability_definitions.md#strategic-stewardship-obligation-constitutional) · [E](../core_05a_accountability_definitions.md#strategic-stewardship-obligation-constitutional-e) · [C](../core_05a_accountability_definitions.md#strategic-stewardship-obligation-constitutional-c)
+- [Strategic Stewardship Obligation](../core_05c_continuity_definitions.md#strategic-stewardship-obligation-constitutional) · [O](../core_05c_continuity_definitions.md#strategic-stewardship-obligation-constitutional) · [E](../core_05c_continuity_definitions.md#strategic-stewardship-obligation-constitutional-e) · [C](../core_05c_continuity_definitions.md#strategic-stewardship-obligation-constitutional-c)
 
 </details>
 
@@ -71,10 +71,6 @@ Taxes, access charges, and similar revenue are covered in **CI-10.1** and **CI-1
 - **Funding and allocation governance** — how the institution allocates money, staff, compute, facilities, supplier capacity, and comparable resources within resource-stewardship constraints, including alignment with **Protocol S5** where institutional financing meets system stewardship;
 - **Incentive and remuneration design** — how pay, bonuses, promotion criteria, and similar incentives reward constitutional alignment over short-term optics; and
 - **Malus and clawback pathways** — published routes to recover compensation or impose financial consequences where anti-constitutional misconduct or severe control failure is verified, consistent with **CI-11.1** and related accountability routes.
-
----
-
-**Previous file:** [ci_10_public_revenue_fees_recurring_charges_billing_integrity.md](ci_10_public_revenue_fees_recurring_charges_billing_integrity.md)
 
 ---
 

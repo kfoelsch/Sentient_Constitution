@@ -117,8 +117,4 @@ Each supervised charge type must appear on the local map with:
 
 **Previous file:** [ci_09_classification_linked_institutional_obligations.md](ci_09_classification_linked_institutional_obligations.md)
 
----
-
-**Previous file:** [ci_09_classification_linked_institutional_obligations.md](ci_09_classification_linked_institutional_obligations.md)
-
 **Next file:** [ci_11_resource_stewardship_incentive_integrity.md](ci_11_resource_stewardship_incentive_integrity.md)

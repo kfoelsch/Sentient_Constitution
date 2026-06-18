@@ -988,9 +988,6 @@ Independent Definitions must not fragment, isolate, or redistribute compliance i
   - using anti-constitutional conduct or constitutional hostility claims to extinguish the core protections of the Rights-Floor, [Redress and Remediation](core_05a_accountability_definitions.md#redress-and-remediation-constitutional), or [Procedural Fairness](core_05p_participation_definitions.md#procedural-fairness-constitutional);
   - arbitrary or pretextual imposition of restricted status without documented, ongoing threat to constitutional integrity.
 
----
-
-**Next file:** [core_05-05_definitions_c_dependent_clusters.md](core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions)
 
 ---
 
@@ -1309,7 +1306,8 @@ This cluster is the joint-invocation home for self-determination, meaningful age
 <a id="stakeholder-status-emergency-and-participation-weight-cluster"></a>
 <a id="standing-state-contribution-and-violation-cluster"></a>
 
-
 ---
+
+**Previous file:** [core_05o_oversight_definitions.md](core_05o_oversight_definitions.md)
 
 **Next file:** [core_05a_accountability_definitions.md](core_05a_accountability_definitions.md)

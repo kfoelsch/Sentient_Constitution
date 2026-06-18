@@ -647,4 +647,6 @@ This subsection does **not** add an additional slot-assignment criterion beyond 
 
 ---
 
+**Previous file:** [core_07-07_standing_integration.md](core_07-07_standing_integration.md)
+
 **Next file:** [core_09-09_forum.md](core_09-09_forum.md)

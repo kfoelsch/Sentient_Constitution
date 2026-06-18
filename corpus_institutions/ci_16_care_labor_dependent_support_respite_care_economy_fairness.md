@@ -73,8 +73,4 @@ Read **CI-9.4**, **CI-10**, **Protocol S5**, **CI-20**, and **CI-19** where appl
 
 **Previous file:** [ci_15_neurodiversity_disability_justice_trauma_informed_participation.md](ci_15_neurodiversity_disability_justice_trauma_informed_participation.md)
 
----
-
-**Previous file:** [ci_15_neurodiversity_disability_justice_trauma_informed_participation.md](ci_15_neurodiversity_disability_justice_trauma_informed_participation.md)
-
 **Next file:** [ci_17_end_of_life_continuity_memorial_dignity_posthumous_data.md](ci_17_end_of_life_continuity_memorial_dignity_posthumous_data.md)

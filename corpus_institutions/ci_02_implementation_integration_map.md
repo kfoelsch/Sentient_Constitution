@@ -76,8 +76,4 @@ For within-folder navigation by topic family, use [ci_00_registry_and_reading_ru
 
 **Previous file:** [ci_01_scope_purpose_legitimacy_interface.md](ci_01_scope_purpose_legitimacy_interface.md)
 
----
-
-**Previous file:** [ci_01_scope_purpose_legitimacy_interface.md](ci_01_scope_purpose_legitimacy_interface.md)
-
 **Next file:** [ci_03_institutional_design_separation_of_powers.md](ci_03_institutional_design_separation_of_powers.md)

@@ -604,8 +604,13 @@ BAND_CHAIN = (
 
 def band_footer(filename: str) -> str:
     idx = BAND_CHAIN.index(filename)
+    prev_file = BAND_CHAIN[idx - 1] if idx > 0 else "core_05-05_definitions_a_independent.md"
     next_file = "core_06-06_standing_assessment.md" if idx == len(BAND_CHAIN) - 1 else BAND_CHAIN[idx + 1]
-    return f"\n\n---\n\n**Next file:** [{next_file}]({next_file})\n"
+    return (
+        f"\n\n---\n\n"
+        f"**Previous file:** [{prev_file}]({prev_file})\n\n"
+        f"**Next file:** [{next_file}]({next_file})\n"
+    )
 
 
 def build_anchor_home_map(

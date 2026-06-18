@@ -145,7 +145,6 @@ NEXT_ONLY = {
     "corpus_systems.md",
     "corpus_institutions.md",
     "corpus_forum.md",
-    *CORE_CHAIN,
     CJS_CHAIN[0],
     CS_CHAIN[0],
     CI_CHAIN[0],
@@ -161,13 +160,6 @@ TERMINAL_ALIGNMENT_FILES = {
 CORPUS_ALIGNMENT_RE = re.compile(r"\*Corpus alignment:\* edition")
 PREV_RE = re.compile(r"^\*\*Previous file:\*\* \[([^\]]+)\]\(([^)]+)\)\s*$")
 NEXT_RE = re.compile(r"^\*\*Next file:\*\* \[([^\]]+)\]\(([^)]+)\)\s*$")
-
-FIRST_SUBFILE = {
-    CJS_CHAIN[0],
-    CS_CHAIN[0],
-    CI_CHAIN[0],
-    CF_CHAIN[0],
-}
 
 
 def parse_args() -> argparse.Namespace:
@@ -217,35 +209,30 @@ def expected_prev_link(current: str, prev: str) -> str:
     return basename(prev) if "/" in prev else prev
 
 
+NAV_FOOTER_PATTERNS = (
+    r"\n---\n\n\*\*Previous file:\*\*[^\n]*\n\n\*\*Next file:\*\*[^\n]*\n",
+    r"\n\*\*Previous file:\*\*[^\n]*\n\n\*\*Next file:\*\*[^\n]*\n",
+    r"\n---\n\n\*\*Previous file:\*\*[^\n]*\n",
+    r"\n---\n\n\*\*Next file:\*\*[^\n]*\n",
+    r"\n\*\*Previous file:\*\*[^\n]*\n",
+    r"\n\*\*Next file:\*\*[^\n]*\n",
+)
+
+
 def strip_existing_footer(text: str) -> str:
-    """Remove trailing navigation footer blocks from file tail."""
+    """Remove navigation footer blocks anywhere in the file (including stale mid-file footers)."""
     text = text.rstrip() + "\n"
-    # Repeat until no trailing nav/alignment remains.
+    changed = True
+    while changed:
+        changed = False
+        for pattern in NAV_FOOTER_PATTERNS:
+            new_text = re.sub(pattern, "\n", text)
+            if new_text != text:
+                text = new_text
+                changed = True
+    # Strip terminal corpus-alignment blocks (re-applied only on terminal repair targets).
     while True:
         new_text = text
-        new_text = re.sub(
-            r"\n---\n\n\*\*Previous file:\*\*[^\n]*\n\n\*\*Next file:\*\*[^\n]*\n?$",
-            "\n",
-            new_text,
-            flags=re.DOTALL,
-        )
-        new_text = re.sub(
-            r"\n---\n\n\*\*Next file:\*\*[^\n]*\n?$",
-            "\n",
-            new_text,
-            flags=re.DOTALL,
-        )
-        new_text = re.sub(
-            r"\n\*\*Previous file:\*\*[^\n]*\n\n\*\*Next file:\*\*[^\n]*\n?$",
-            "\n",
-            new_text,
-            flags=re.DOTALL,
-        )
-        new_text = re.sub(
-            r"\n\*\*Next file:\*\*[^\n]*\n?$",
-            "\n",
-            new_text,
-        )
         new_text = re.sub(
             r"\n---\n\n\*Corpus alignment:\*[^\n]*\n\n---\n?",
             "\n",
@@ -348,6 +335,17 @@ def parse_footer(text: str) -> dict:
     }
 
 
+def navigation_footer_line_numbers(text: str) -> tuple[list[int], list[int]]:
+    prev_lines: list[int] = []
+    next_lines: list[int] = []
+    for idx, line in enumerate(text.splitlines(), start=1):
+        if PREV_RE.match(line):
+            prev_lines.append(idx)
+        if NEXT_RE.match(line):
+            next_lines.append(idx)
+    return prev_lines, next_lines
+
+
 def audit_file(
     root: Path,
     rel: str,
@@ -361,6 +359,23 @@ def audit_file(
         return
     text = path.read_text(encoding="utf-8")
     info = parse_footer(text)
+    prev_lines, next_lines = navigation_footer_line_numbers(text)
+
+    if len(next_lines) > 1:
+        errors.append(
+            f"{rel}: multiple **Next file:** footers at lines {next_lines}"
+        )
+    if len(prev_lines) > 1:
+        errors.append(
+            f"{rel}: multiple **Previous file:** footers at lines {prev_lines}"
+        )
+    if len(next_lines) == 1 and info["next_idx"] is not None:
+        last_content_line = len(text.splitlines())
+        if info["next_idx"] < last_content_line - 5:
+            errors.append(
+                f"{rel}: **Next file:** at line {info['next_idx']} is not at file end "
+                f"(stale mid-file navigation footer)"
+            )
 
     if not info["next_href"]:
         errors.append(f"{rel}: missing **Next file:** footer")
@@ -407,9 +422,6 @@ def repair_file(root: Path, rel: str, prev: str | None, nxt: str) -> bool:
     path = root / rel
     if rel in NEXT_ONLY and rel not in TERMINAL_ALIGNMENT_FILES:
         return False
-    if rel in NEXT_ONLY and rel in FIRST_SUBFILE:
-        # first subfile: next only, no repair unless malformed
-        pass
     text = path.read_text(encoding="utf-8")
     body = strip_existing_footer(text)
     footer = build_footer(
@@ -453,9 +465,8 @@ def main() -> int:
             if rel in NEXT_ONLY:
                 if repair_next_only(root, rel, nxt):
                     repaired += 1
-            else:
-                if repair_file(root, rel, prev, nxt):
-                    repaired += 1
+            elif repair_file(root, rel, prev, nxt):
+                repaired += 1
         audit_file(root, rel, prev, nxt, errors)
 
     if args.repair and repaired:

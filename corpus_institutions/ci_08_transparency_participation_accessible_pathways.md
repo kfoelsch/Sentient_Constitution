@@ -219,8 +219,4 @@ Minimum required fields:
 
 **Previous file:** [ci_07_oversight_assurance_controls_evidence.md](ci_07_oversight_assurance_controls_evidence.md)
 
----
-
-**Previous file:** [ci_07_oversight_assurance_controls_evidence.md](ci_07_oversight_assurance_controls_evidence.md)
-
 **Next file:** [ci_09_classification_linked_institutional_obligations.md](ci_09_classification_linked_institutional_obligations.md)

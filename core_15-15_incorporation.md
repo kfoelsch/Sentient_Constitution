@@ -157,4 +157,6 @@ Non-operative orientation: [archive/ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md](
 
 ---
 
+**Previous file:** [core_12-14_amendment.md](core_12-14_amendment.md)
+
 **Next file:** [corpus_joint_structure.md](corpus_joint_structure.md)

@@ -318,7 +318,8 @@ This cluster is the joint-invocation home for operative corpus identity, authori
 
 <a id="labor-and-economic-floor-cluster"></a>
 
-
 ---
+
+**Previous file:** [core_05c_continuity_definitions.md](core_05c_continuity_definitions.md)
 
 **Next file:** [core_06-06_standing_assessment.md](core_06-06_standing_assessment.md)

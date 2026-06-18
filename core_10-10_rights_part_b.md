@@ -1421,4 +1421,6 @@ Stakeholders identified under **Chapter Five** must have participation and repre
 
 ---
 
+**Previous file:** [core_10-10_rights_part_a.md](core_10-10_rights_part_a.md)
+
 **Next file:** [core_10-10_rights_part_c.md](core_10-10_rights_part_c.md)

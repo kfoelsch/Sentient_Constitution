@@ -120,8 +120,4 @@ Read **CI-5**, **CI-9**, **CI-8**, **CI-20**, **CI-22**, **CI-6**, and **CI-12**
 
 **Previous file:** [ci_20_relational_coercive_control_intimate_power_anti_domination.md](ci_20_relational_coercive_control_intimate_power_anti_domination.md)
 
----
-
-**Previous file:** [ci_20_relational_coercive_control_intimate_power_anti_domination.md](ci_20_relational_coercive_control_intimate_power_anti_domination.md)
-
 **Next file:** [ci_22_commons_cooperatives_mutual_aid_non_market_governance.md](ci_22_commons_cooperatives_mutual_aid_non_market_governance.md)

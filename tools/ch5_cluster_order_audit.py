@@ -62,14 +62,6 @@ EXPECTED_TOPIC_GROUPS: dict[str, list[str]] = {
         "Decentralization",
         "Concentration Threshold",
     ],
-    "#### Stewardship, governance discipline, review, and correction": [
-        "Stewardship",
-        "Distributed Understanding",
-        "Short-Horizon Governance Defect",
-        "Strategic Stewardship Obligation",
-        "Stewardship Defect",
-        "Review and Correction Duty",
-    ],
 }
 
 TOPIC_GROUP_HEADINGS: set[str] = set(EXPECTED_TOPIC_GROUPS) | {
@@ -159,8 +151,8 @@ EXPECTED_CLUSTERS: dict[str, list[str]] = {
     "#### 3.13 Stewardship, Governance Discipline, and Shared-System Capacity": [
         "Stewardship",
         "Distributed Understanding",
-        "Short-Horizon Governance Defect",
         "Strategic Stewardship Obligation",
+        "Short-Horizon Governance Defect",
         "Stewardship Defect",
         "Review and Correction Duty",
     ],

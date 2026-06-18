@@ -68,8 +68,4 @@ Read **CI-6**, **CI-9**, **CI-8**, and **CI-8.3** for local procedure, scaling, 
 
 **Previous file:** [ci_18_collective_public_health_epidemic_response_addiction_informed_care.md](ci_18_collective_public_health_epidemic_response_addiction_informed_care.md)
 
----
-
-**Previous file:** [ci_18_collective_public_health_epidemic_response_addiction_informed_care.md](ci_18_collective_public_health_epidemic_response_addiction_informed_care.md)
-
 **Next file:** [ci_20_relational_coercive_control_intimate_power_anti_domination.md](ci_20_relational_coercive_control_intimate_power_anti_domination.md)

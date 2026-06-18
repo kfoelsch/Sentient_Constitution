@@ -159,7 +159,7 @@ Where observable integrity conditions are absent, **legitimacy claims** under se
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: Principles: [3. Foundational Objective: Wellbeing](core_01_a_values_principles.md#3-foundational-objective-wellbeing), [4. Non-Negotiable Constraints: Safety and Truth](core_01_a_values_principles.md#4-non-negotiable-constraints-safety-and-truth); [Chapter Eleven §1](#1-authorization-and-legitimacy-of-governing-authority) authorization scope for stewardship within rule-making power.
-- Downstream: Subsections [3.1](#31-stewardship-direction) and [3.2](#32-ecosystem-value-orientation); canonical definitions for stewardship requirements in [*Strategic Stewardship Obligation*](core_05a_accountability_definitions.md#strategic-stewardship-obligation-constitutional), [*Review and Correction Duty*](core_05a_accountability_definitions.md#review-and-correction-duty-constitutional), [*Burden-Reduction Duty*](core_05c_continuity_definitions.md#burden-reduction-duty-constitutional), and [*Stewardship Defect*](core_05a_accountability_definitions.md#stewardship-defect-constitutional), read through the [Chapter Five §3.16 stewardship compound cluster](core_05a_accountability_definitions.md#stewardship-governance-discipline-and-shared-system-capacity-cluster), including cross-references to [Chapter One §9.1.4](core_01_b_stewardship_capacity_principles.md#914-minimization-of-avoidable-burden) and ([*Avoidable Burden*](core_05c_continuity_definitions.md#avoidable-burden); [*Productive Capacity*](core_05c_continuity_definitions.md#productive-capacity-constitutional); [*Constitutional Efficiency*](core_05c_continuity_definitions.md#constitutional-efficiency)) where applicable.
+- Downstream: Subsections [3.1](#31-stewardship-direction) and [3.2](#32-ecosystem-value-orientation); canonical definitions for stewardship requirements in [*Strategic Stewardship Obligation*](core_05c_continuity_definitions.md#strategic-stewardship-obligation-constitutional), [*Review and Correction Duty*](core_05c_continuity_definitions.md#review-and-correction-duty-constitutional), [*Burden-Reduction Duty*](core_05c_continuity_definitions.md#burden-reduction-duty-constitutional), and [*Stewardship Defect*](core_05c_continuity_definitions.md#stewardship-defect-constitutional), read through the [Chapter Five §3.13 stewardship compound cluster](core_05c_continuity_definitions.md#stewardship-governance-discipline-and-shared-system-capacity-cluster), including cross-references to [Chapter One §9.1.4](core_01_b_stewardship_capacity_principles.md#914-minimization-of-avoidable-burden) and ([*Avoidable Burden*](core_05c_continuity_definitions.md#avoidable-burden); [*Productive Capacity*](core_05c_continuity_definitions.md#productive-capacity-constitutional); [*Constitutional Efficiency*](core_05c_continuity_definitions.md#constitutional-efficiency)) where applicable.
 - Read with: [Chapter Ten](core_10-10_rights_part_a.md#chapter-ten-foundational-rights) Rights Floor; [Chapter Five](core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) for [*Productive Capacity*](core_05c_continuity_definitions.md#productive-capacity-constitutional), [*Constitutional Efficiency*](core_05c_continuity_definitions.md#constitutional-efficiency), [*Avoidable Burden*](core_05c_continuity_definitions.md#avoidable-burden), and stewardship-duty definitions named in text.
 
 </details>
@@ -174,12 +174,12 @@ Those commitments include the **Foundational Objective: Wellbeing** (Chapter One
 
 That alignment applies across time, classification tiers, and federated boundaries, **within the scope of authorized rule-making** under section 1 of this chapter.
 
-Stewardship requirements for this section are stated in **Chapter Five** under the following titles; they are binding here for stewards within that authorized scope. **Strategic Stewardship Obligation** and **Stewardship Defect** are read together through the [Stewardship, Governance Discipline, and Shared-System Capacity](core_05a_accountability_definitions.md#stewardship-governance-discipline-and-shared-system-capacity-cluster) compound cluster.
+Stewardship requirements for this section are stated in **Chapter Five** under the following titles; they are binding here for stewards within that authorized scope. **Strategic Stewardship Obligation** and **Stewardship Defect** are read together through the [Stewardship, Governance Discipline, and Shared-System Capacity](core_05c_continuity_definitions.md#stewardship-governance-discipline-and-shared-system-capacity-cluster) compound cluster.
 
-- [**Strategic Stewardship Obligation**](core_05a_accountability_definitions.md#strategic-stewardship-obligation-constitutional)
-- [**Review and Correction Duty**](core_05a_accountability_definitions.md#review-and-correction-duty-constitutional)
+- [**Strategic Stewardship Obligation**](core_05c_continuity_definitions.md#strategic-stewardship-obligation-constitutional)
+- [**Review and Correction Duty**](core_05c_continuity_definitions.md#review-and-correction-duty-constitutional)
 - [**Burden-Reduction Duty**](core_05c_continuity_definitions.md#burden-reduction-duty-constitutional)
-- [**Stewardship Defect**](core_05a_accountability_definitions.md#stewardship-defect-constitutional)
+- [**Stewardship Defect**](core_05c_continuity_definitions.md#stewardship-defect-constitutional)
 
 #### 3.16 Stewardship Direction
 <details>
@@ -342,5 +342,7 @@ Material stewardship and operation require **sentients** who can **exercise** au
 **Cross-reference (section 5):** **Article XI-D**; adopted governance implementation on role integrity; **[corpus_systems.md](corpus_systems.md), CS-5 — Critical system stewardship** and **Protocol S5**; and **corpus_institutions.md** (**CI-4** (*Appointment, competency, rotation, and removal*), **CI-11** (*Resource stewardship and incentive integrity*), **CI-12** (*Transparency, participation, and accessible pathways*), and related sections as applicable).
 
 ---
+
+**Previous file:** [core_10-10_rights_part_d.md](core_10-10_rights_part_d.md)
 
 **Next file:** [core_12-14_amendment.md](core_12-14_amendment.md)

@@ -69,8 +69,4 @@ Read **CI-8** for participation and accessibility interfaces.
 
 **Previous file:** [ci_16_care_labor_dependent_support_respite_care_economy_fairness.md](ci_16_care_labor_dependent_support_respite_care_economy_fairness.md)
 
----
-
-**Previous file:** [ci_16_care_labor_dependent_support_respite_care_economy_fairness.md](ci_16_care_labor_dependent_support_respite_care_economy_fairness.md)
-
 **Next file:** [ci_18_collective_public_health_epidemic_response_addiction_informed_care.md](ci_18_collective_public_health_epidemic_response_addiction_informed_care.md)

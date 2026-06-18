@@ -163,8 +163,4 @@ Apply [corpus_joint_structure.md](../corpus_joint_structure.md) **CJS-5.6** (*in
 
 **Previous file:** [ci_06_procedure_integrity_contestability_secondary_review.md](ci_06_procedure_integrity_contestability_secondary_review.md)
 
----
-
-**Previous file:** [ci_06_procedure_integrity_contestability_secondary_review.md](ci_06_procedure_integrity_contestability_secondary_review.md)
-
 **Next file:** [ci_08_transparency_participation_accessible_pathways.md](ci_08_transparency_participation_accessible_pathways.md)

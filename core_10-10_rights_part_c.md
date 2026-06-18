@@ -1639,4 +1639,6 @@ Final **constitutional** interpretation must remain authoritative, bounded, audi
 
 ---
 
+**Previous file:** [core_10-10_rights_part_b.md](core_10-10_rights_part_b.md)
+
 **Next file:** [core_10-10_rights_part_d.md](core_10-10_rights_part_d.md)

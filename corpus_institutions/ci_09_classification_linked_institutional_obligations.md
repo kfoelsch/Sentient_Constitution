@@ -165,7 +165,7 @@ Apply **CJS-4.1** (*Hybrid delegated authority (delegated binding bodies)*) and 
 - [Risk](../core_05c_continuity_definitions.md#risk) · [O](../core_05c_continuity_definitions.md#risk) · [E](../core_05c_continuity_definitions.md#risk-e) · [C](../core_05c_continuity_definitions.md#risk-c)
 - [Epistemic Integrity](../core_05o_oversight_definitions.md#epistemic-integrity) · [O](../core_05o_oversight_definitions.md#epistemic-integrity) · [E](../core_05o_oversight_definitions.md#epistemic-integrity-e) · [C](../core_05o_oversight_definitions.md#epistemic-integrity-c)
 - [Procedural Fairness](../core_05p_participation_definitions.md#procedural-fairness-constitutional) · [O](../core_05p_participation_definitions.md#procedural-fairness-constitutional) · [E](../core_05p_participation_definitions.md#procedural-fairness-constitutional-e) · [C](../core_05p_participation_definitions.md#procedural-fairness-constitutional-c)
-- [Review and Correction Duty](../core_05a_accountability_definitions.md#review-and-correction-duty-constitutional) · [O](../core_05a_accountability_definitions.md#review-and-correction-duty-constitutional) · [E](../core_05a_accountability_definitions.md#review-and-correction-duty-constitutional-e) · [C](../core_05a_accountability_definitions.md#review-and-correction-duty-constitutional-c)
+- [Review and Correction Duty](../core_05c_continuity_definitions.md#review-and-correction-duty-constitutional) · [O](../core_05c_continuity_definitions.md#review-and-correction-duty-constitutional) · [E](../core_05c_continuity_definitions.md#review-and-correction-duty-constitutional-e) · [C](../core_05c_continuity_definitions.md#review-and-correction-duty-constitutional-c)
 
 </details>
 
@@ -312,10 +312,6 @@ Apply **CJS-5.12** **Survival-critical access and voluntary-market interface** f
 - who owns the **Article III-A** instrument or program interface;
 - how it links to **CI-10.1** revenue and charge design; and
 - documentation duties for eligibility, migration, fraud control, regional adequacy, and proportionality.
-
----
-
-**Previous file:** [ci_08_transparency_participation_accessible_pathways.md](ci_08_transparency_participation_accessible_pathways.md)
 
 ---
 

@@ -49,4 +49,6 @@ For a longer, non-binding explanation, see [archive/ARCHITECTURE_PRIMER_ARCHIVED
 
 ---
 
+**Previous file:** [README.md](README.md)
+
 **Next file:** [core_01_a_values_principles.md](core_01_a_values_principles.md)

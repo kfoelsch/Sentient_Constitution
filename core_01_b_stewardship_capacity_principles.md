@@ -11,7 +11,7 @@ This file is **part of the Sentient Constitution** and is **binding only togethe
 
 **Principle hierarchy (Part B).** At principle layer:
 
-1. **[Stewardship](core_05a_accountability_definitions.md#stewardship-constitutional)** orients systems toward durable constitutional alignment over time, including the **Continuity** aim under the [Two Constitutional Aims](core_01_a_values_principles.md#two-constitutional-aims).
+1. **[Stewardship](core_05c_continuity_definitions.md#stewardship-constitutional)** orients systems toward durable constitutional alignment over time, including the **Continuity** aim under the [Two Constitutional Aims](core_01_a_values_principles.md#two-constitutional-aims).
 2. **[Governance](core_05a_accountability_definitions.md#governance)** structures authorized decision-making, participation, and accountability. Where governance and stewardship conflict, stewardship discipline controls at principle layer unless **Necessity** and **Proportionality** expressly justify a bounded, time-limited exception with correction paths. Operative authorization and contract-layer requirements remain owned by **Chapter Eleven**.
 3. **[Shared-System Capacity](core_05c_continuity_definitions.md#shared-system-capacity-constitutional)** is the durable, contestable ability those jointly produce — an **instrumental outcome**, not a freestanding trump value.
 
@@ -75,7 +75,7 @@ This file is **part of the Sentient Constitution** and is **binding only togethe
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
 
-- [Strategic Stewardship Obligation](core_05a_accountability_definitions.md#strategic-stewardship-obligation-constitutional) · [O](core_05a_accountability_definitions.md#strategic-stewardship-obligation-constitutional) · [E](core_05a_accountability_definitions.md#strategic-stewardship-obligation-constitutional-e) · [C](core_05a_accountability_definitions.md#strategic-stewardship-obligation-constitutional-c)
+- [Strategic Stewardship Obligation](core_05c_continuity_definitions.md#strategic-stewardship-obligation-constitutional) · [O](core_05c_continuity_definitions.md#strategic-stewardship-obligation-constitutional) · [E](core_05c_continuity_definitions.md#strategic-stewardship-obligation-constitutional-e) · [C](core_05c_continuity_definitions.md#strategic-stewardship-obligation-constitutional-c)
 - [Meaningful Agency](core_05p_participation_definitions.md#meaningful-agency) · [O](core_05a_accountability_definitions.md#meaningful-agency-o) · [E](core_05p_participation_definitions.md#meaningful-agency-e) · [C](core_05p_participation_definitions.md#meaningful-agency-c)
 - [Auditability](core_05o_oversight_definitions.md#auditability) · [O](core_05o_oversight_definitions.md#auditability) · [E](core_05o_oversight_definitions.md#auditability-e) · [C](core_05o_oversight_definitions.md#auditability-c)
 - [Contestability](core_05a_accountability_definitions.md#contestability) · [O](core_05a_accountability_definitions.md#contestability) · [E](core_05a_accountability_definitions.md#contestability-e) · [C](core_05a_accountability_definitions.md#contestability-c)
@@ -97,7 +97,7 @@ This file is **part of the Sentient Constitution** and is **binding only togethe
 
 *In plain terms: systems that affect sentients' lives must not be run only by a sealed-off priesthood of specialists. Sentients need real paths to help operate, maintain, oversee, and improve them — and enough understanding to notice problems and push back. **§6.1–§7.5** carry that discipline: hands-on stewardship, understanding scaled to how much you depend on a system, institutional learning habits, an openness aspiration when safety allows, and clear limits so this section does not override safety, truth, justified secrecy, or the specific rights guaranteed in Chapter Ten.*
 
-Stewardship requires real responsibility with genuine effect — [**Strategic Stewardship Obligation**](core_05a_accountability_definitions.md#strategic-stewardship-obligation-constitutional), [**Meaningful Agency**](core_05p_participation_definitions.md#meaningful-agency) — and records and pathways others can verify and challenge — [**Auditability**](core_05o_oversight_definitions.md#auditability), [**Contestability**](core_05a_accountability_definitions.md#contestability). Distributed understanding requires workable ways to learn how shared systems operate and what they are doing — [**Educational Agency**](core_05p_participation_definitions.md#educational-agency), [**Transparency**](core_05o_oversight_definitions.md#transparency). Together they carry the [Constitutional Triad](core_00_preamble.md#constitutional-triad) **participation** and **oversight** legs at principle layer, scaled to [material stake](core_00_preamble.md#material-stake), and advance the [Two Constitutional Aims](core_01_a_values_principles.md#two-constitutional-aims).
+Stewardship requires real responsibility with genuine effect — [**Strategic Stewardship Obligation**](core_05c_continuity_definitions.md#strategic-stewardship-obligation-constitutional), [**Meaningful Agency**](core_05p_participation_definitions.md#meaningful-agency) — and records and pathways others can verify and challenge — [**Auditability**](core_05o_oversight_definitions.md#auditability), [**Contestability**](core_05a_accountability_definitions.md#contestability). Distributed understanding requires workable ways to learn how shared systems operate and what they are doing — [**Educational Agency**](core_05p_participation_definitions.md#educational-agency), [**Transparency**](core_05o_oversight_definitions.md#transparency). Together they carry the [Constitutional Triad](core_00_preamble.md#constitutional-triad) **participation** and **oversight** legs at principle layer, scaled to [material stake](core_00_preamble.md#material-stake), and advance the [Two Constitutional Aims](core_01_a_values_principles.md#two-constitutional-aims).
 
 **Materiality**, **Dependency**, and **Accessibility** govern how much understanding and access must scale. **Safety**, **Truth**, **Necessity**, **Proportionality**, **Avoidable Burden**, and **Epistemic Integrity** bound the duty so stewardship, understanding, and openness stay proportionate, honest, and security-aware.
 
@@ -116,7 +116,7 @@ Review and correction remain mandatory backstops. They do not replace proactive 
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
 
-- [Strategic Stewardship Obligation](core_05a_accountability_definitions.md#strategic-stewardship-obligation-constitutional) · [O](core_05a_accountability_definitions.md#strategic-stewardship-obligation-constitutional) · [E](core_05a_accountability_definitions.md#strategic-stewardship-obligation-constitutional-e) · [C](core_05a_accountability_definitions.md#strategic-stewardship-obligation-constitutional-c)
+- [Strategic Stewardship Obligation](core_05c_continuity_definitions.md#strategic-stewardship-obligation-constitutional) · [O](core_05c_continuity_definitions.md#strategic-stewardship-obligation-constitutional) · [E](core_05c_continuity_definitions.md#strategic-stewardship-obligation-constitutional-e) · [C](core_05c_continuity_definitions.md#strategic-stewardship-obligation-constitutional-c)
 - [Meaningful Agency](core_05p_participation_definitions.md#meaningful-agency) · [O](core_05a_accountability_definitions.md#meaningful-agency-o) · [E](core_05p_participation_definitions.md#meaningful-agency-e) · [C](core_05p_participation_definitions.md#meaningful-agency-c)
 - [Auditability](core_05o_oversight_definitions.md#auditability) · [O](core_05o_oversight_definitions.md#auditability) · [E](core_05o_oversight_definitions.md#auditability-e) · [C](core_05o_oversight_definitions.md#auditability-c)
 
@@ -176,7 +176,7 @@ Distributed understanding does **not** require every sentient to master every su
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
 
-- [Strategic Stewardship Obligation](core_05a_accountability_definitions.md#strategic-stewardship-obligation-constitutional) · [O](core_05a_accountability_definitions.md#strategic-stewardship-obligation-constitutional) · [E](core_05a_accountability_definitions.md#strategic-stewardship-obligation-constitutional-e) · [C](core_05a_accountability_definitions.md#strategic-stewardship-obligation-constitutional-c)
+- [Strategic Stewardship Obligation](core_05c_continuity_definitions.md#strategic-stewardship-obligation-constitutional) · [O](core_05c_continuity_definitions.md#strategic-stewardship-obligation-constitutional) · [E](core_05c_continuity_definitions.md#strategic-stewardship-obligation-constitutional-e) · [C](core_05c_continuity_definitions.md#strategic-stewardship-obligation-constitutional-c)
 - [Auditability](core_05o_oversight_definitions.md#auditability) · [O](core_05o_oversight_definitions.md#auditability) · [E](core_05o_oversight_definitions.md#auditability-e) · [C](core_05o_oversight_definitions.md#auditability-c)
 - [Materiality](core_05o_oversight_definitions.md#materiality-determination) · [O](core_05o_oversight_definitions.md#materiality-determination) · [E](core_05o_oversight_definitions.md#materiality-determination-e) · [C](core_05o_oversight_definitions.md#materiality-determination-c)
 - [Observability](core_05o_oversight_definitions.md#observability) · [O](core_05o_oversight_definitions.md#observability) · [E](core_05o_oversight_definitions.md#observability-e) · [C](core_05o_oversight_definitions.md#observability-c)
@@ -187,7 +187,7 @@ Distributed understanding does **not** require every sentient to master every su
 
 *In plain terms: institutions have to actually learn — not just upgrade software while those in charge stay clueless. That means feedback loops, documented fixes when things drift, and keeping competence from walking out the door. Tracking how performance varies over time can help, but numbers alone do not count: when indicators look wrong, someone has to investigate and fix the root cause. Dashboards must be honest, scaled to real impact, and written so affected sentients can understand them — not gamed to look good while nothing changes.*
 
-**Institutional development** is the paired obligation that organizations and shared systems **learn** — a core requirement of the **Continuity** aim under the [Two Constitutional Aims](core_01_a_values_principles.md#two-constitutional-aims): feedback loops, documented correction, strategy alignment, and retention of competence that support repair and adaptation. It is not satisfied by upgrading technical artifacts while leaving governance and workforce understanding static. It reads together with [Strategic Stewardship Obligation](core_05a_accountability_definitions.md#strategic-stewardship-obligation-constitutional) and [Auditability](core_05o_oversight_definitions.md#auditability) where materially relevant.
+**Institutional development** is the paired obligation that organizations and shared systems **learn** — a core requirement of the **Continuity** aim under the [Two Constitutional Aims](core_01_a_values_principles.md#two-constitutional-aims): feedback loops, documented correction, strategy alignment, and retention of competence that support repair and adaptation. It is not satisfied by upgrading technical artifacts while leaving governance and workforce understanding static. It reads together with [Strategic Stewardship Obligation](core_05c_continuity_definitions.md#strategic-stewardship-obligation-constitutional) and [Auditability](core_05o_oversight_definitions.md#auditability) where materially relevant.
 
 Where materially relevant behavior supports **repeated, comparable measurement** under [Observability](core_05o_oversight_definitions.md#observability) read with [Auditability](core_05o_oversight_definitions.md#auditability), **structured monitoring of variation over time** is one proportionate way to implement those feedback loops. That monitoring must be paired with **documented investigation and correction** when indicators warrant. **Statistical process control** is a well-known implementation pattern for that discipline, not a universal requirement.
 
@@ -269,7 +269,7 @@ Governance is **necessary** but **not sufficient**. It must remain subordinate t
 
 *In plain terms: governance that keeps hitting quarterly targets while hollowing safety, truth, participation, or the future is not "working governance" — it is a defect this Constitution names and corrects.*
 
-Systems must detect, disclose, and correct **[Short-Horizon Governance Defect](core_05a_accountability_definitions.md#short-horizon-governance-defect-constitutional)** through **Review and Correction Duty**, contestable oversight, and the incentive and capture discipline in **§§7.3–7.6**.
+Systems must detect, disclose, and correct **[Short-Horizon Governance Defect](core_05c_continuity_definitions.md#short-horizon-governance-defect-constitutional)** through **Review and Correction Duty**, contestable oversight, and the incentive and capture discipline in **§§7.3–7.6**.
 
 <a id="72-short-horizon-governance-defect"></a>
 
@@ -1263,5 +1263,7 @@ All foundational principles in this chapter must be implemented through enforcea
 - [CJS-5.1 Constitutional compass and cluster map](corpus_joint_structure/cjs_05_cross_implementation_operational_terms.md#cjs-51-constitutional-compass-and-cluster-map) — primary entry for **CJS-5.2–CJS-5.23** clusters organized by Triad leg, Continuity aim, and integrative cross-leg bands
 
 ---
+
+**Previous file:** [core_01_a_values_principles.md](core_01_a_values_principles.md)
 
 **Next file:** [core_02-04_definition_mechanics.md](core_02-04_definition_mechanics.md)

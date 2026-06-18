@@ -652,4 +652,6 @@ That model is defined in **[Chapter Six — Contribution, Violation, and Standin
 
 ---
 
+**Previous file:** [core_01_b_stewardship_capacity_principles.md](core_01_b_stewardship_capacity_principles.md)
+
 **Next file:** [core_05-05_definitions_a_independent.md](core_05-05_definitions_a_independent.md)

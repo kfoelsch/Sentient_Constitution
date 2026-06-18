@@ -592,4 +592,6 @@ Operative detail on recovery detection, containment, safe-failure preference, no
 
 ---
 
+**Previous file:** [core_00_preamble.md](core_00_preamble.md)
+
 **Next file:** [core_01_b_stewardship_capacity_principles.md](core_01_b_stewardship_capacity_principles.md)

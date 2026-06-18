@@ -71,8 +71,4 @@ Read **Chapter Five** *Indigenous Continuity* and **Article I-A**, **Article V-B
 
 **Previous file:** [ci_22_commons_cooperatives_mutual_aid_non_market_governance.md](ci_22_commons_cooperatives_mutual_aid_non_market_governance.md)
 
----
-
-**Previous file:** [ci_22_commons_cooperatives_mutual_aid_non_market_governance.md](ci_22_commons_cooperatives_mutual_aid_non_market_governance.md)
-
 **Next file:** [ci_24_innovation_reward_disclosure_anti_enclosure.md](ci_24_innovation_reward_disclosure_anti_enclosure.md)
