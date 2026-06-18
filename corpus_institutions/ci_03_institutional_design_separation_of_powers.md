@@ -4,10 +4,10 @@
 
 - Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions; and [Chapter Ten](../core_10-10_rights_part_a.md#chapter-ten-foundational-rights) rights architecture where rights interfaces are invoked.
 - Downstream: [CI-3.1: Non-delegable governing duties](#ci-31-non-delegable-governing-duties); [CI-3.2: Functional separation lanes](#ci-32-functional-separation-lanes).
-- Read with: **CI-3**; **CI-3.1**; **CI-3.2**; [CJS-2.1](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; **CJS-5.2**; **CJS-5.12**.
+- Read with: **CI-3**; **CI-3.1**; **CI-3.2**; [CJS-2.1](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; **CJS-5.11** (*distributed and proportional authority terms*); **CJS-5.7** (*quorum and participatory legitimacy terms*).
 - Topic routing (mandatory read-with): **CJS-R01** (*Delegated binding bodies and hybrid composition (non-forum institutions)*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CI-9.3**.
-- Topic routing (primary owner): **CJS-R14** (*Institutional functional lanes and non-delegable splits*) in **CJS-2.1** (*Topic router (stable IDs)*). Mandatory read-with: **CJS-5.2**.
-- Topic routing (primary owner): **CJS-R18** (*Class-scaled lane staffing and competency redundancy for materially bin…*) in **CJS-2.1** (*Topic router (stable IDs)*). Mandatory read-with: **CJS-4.4**, **CJS-5.2**.
+- Topic routing (primary owner): **CJS-R14** (*Institutional functional lanes and non-delegable splits*) in **CJS-2.1** (*Topic router (stable IDs)*). Mandatory read-with: **CJS-5.11** (*distributed and proportional authority terms*).
+- Topic routing (primary owner): **CJS-R18** (*Class-scaled lane staffing and competency redundancy for materially bin…*) in **CJS-2.1** (*Topic router (stable IDs)*). Mandatory read-with: **CJS-4.4**, **CJS-5.11** (*distributed and proportional authority terms*).
 
 </details>
 
@@ -26,7 +26,7 @@
 
 <br>
 
-*In plain terms: **CI-3** is the institutions layer's separation-of-powers rulebook — how authority is divided, what the top governing body cannot hand off, how power flows through delegation, and what happens in emergencies. Shared lane categories and separation floors live in **CJS-5.2**; this file states what each institution must publish and maintain locally.*
+*In plain terms: **CI-3** is the institutions layer's separation-of-powers rulebook — how authority is divided, what the top governing body cannot hand off, how power flows through delegation, and what happens in emergencies. Shared lane categories and separation floors live in **CJS-5.11** (*distributed and proportional authority terms*); this file states what each institution must publish and maintain locally.*
 
 **Quick orientation**
 
@@ -97,7 +97,7 @@ Additional non-delegable duties must be listed.
 
 *In plain terms: power must be split into distinct jobs so no one office runs everything unchecked. Required lanes include setting direction and policy, carrying decisions out, challenging and reviewing them, auditing and assuring integrity, and publishing evidence. Each institution must publish who holds each lane, note when one body hosts more than one lane, and document safeguards that keep those lanes independent — so outsiders can audit the map, challenge it, and see that power has not quietly pooled in one place.*
 
-Apply [corpus_joint_structure.md](../corpus_joint_structure.md) **CJS-5.2** (*Implementation and cross-implementation distributed and proportional authority terms*) **Constitutional lane and functional separation** for the shared lane categories and separation floor.
+Apply [corpus_joint_structure.md](../corpus_joint_structure.md) **CJS-5.11** (*distributed and proportional authority terms*) **Constitutional lane and functional separation** for the shared lane categories and separation floor.
 
 This subsection states institutional owner duties: each institution must publish which local office, body, role, or process hosts each required lane; identify any merged hosting arrangement; document independence safeguards where one institution hosts more than one lane; and keep the lane map auditable, contestable, and current enough to prevent capture, unchecked concentration, and silent failure.
 

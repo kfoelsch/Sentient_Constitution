@@ -23,7 +23,7 @@
 
 <br>
 
-*In plain terms: **CI-19** is the institutions layer's rulebook for regulating vulnerable personal-service markets — especially **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*) — without turning regulation into a back door for criminalization, stigma, or moral policing. Adults who voluntarily buy or sell sexual services are not criminals. Exploitation, trafficking, coercion, fraud, and harm to minors or sentients without decision-making capacity remain fully enforceable. Licensing, zoning, fines, platform bans, payment cutoffs, or housing rules cannot do quietly what criminal law is forbidden to do openly. Shared pathway-integrity floors live in **CJS-5.17**; the constitutional Rights Floor lives in **Articles X-C**, **X-A**, **V-B**, **I-C**, **IV-A**, **IV-C**, and **Chapter Five**; this file states what each institution must name, publish, and maintain locally.*
+*In plain terms: **CI-19** is the institutions layer's rulebook for regulating vulnerable personal-service markets — especially **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*) — without turning regulation into a back door for criminalization, stigma, or moral policing. Adults who voluntarily buy or sell sexual services are not criminals. Exploitation, trafficking, coercion, fraud, and harm to minors or sentients without decision-making capacity remain fully enforceable. Licensing, zoning, fines, platform bans, payment cutoffs, or housing rules cannot do quietly what criminal law is forbidden to do openly. Shared pathway-integrity floors live in **CJS-5.17** (*interoperability, portability, and exit-integrity terms*); the constitutional Rights Floor lives in **Articles X-C**, **X-A**, **V-B**, **I-C**, **IV-A**, **IV-C**, and **Chapter Five**; this file states what each institution must name, publish, and maintain locally.*
 
 **Quick orientation**
 
@@ -38,7 +38,7 @@
 
 *Shared rules live elsewhere.*
 
-- **[CJS-5.17](../corpus_joint_structure.md)** (*Implementation and cross-implementation interoperability, portability, and exit-integrity terms*) — high-vulnerability personal-service pathway integrity: lawful access, practical exit, non-retaliatory reporting, proportionate due care, and anti-pretext separation between ordinary regulation and exploitation response.
+- **[CJS-5.17](../corpus_joint_structure.md)** (*interoperability, portability, and exit-integrity terms*) — high-vulnerability personal-service pathway integrity: lawful access, practical exit, non-retaliatory reporting, proportionate due care, and anti-pretext separation between ordinary regulation and exploitation response.
 - **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*) in **Chapter Ten** — decriminalization floor, exploitation proscriptions, nondiscrimination, general-market integration, anti-circumvention, and transition relief. **Articles X-A**, **V-B**, **I-C**, **IV-A**, and **IV-C** and **Chapter Five** (*Protected Characteristics*, *Consent*, *Coercion and Manipulation*) remain the rights single home alongside **Article X-C**.
 - **`corpus_systems.md`** — market-mediated personal services interpretation and **S2**/**S3** scaling where platform, data, or system stewardship is material.
 - **CI-19 scope** — does not repeat those floors; states **Article X-C** application-file owner duties for authorization, enforcement separation, transition records, and remedy routing.

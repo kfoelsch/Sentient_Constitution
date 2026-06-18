@@ -5,6 +5,8 @@ Fails when:
 - CJS-3 sections define reusable OP-O / OP-E / OP-C operational cluster terms
   (those belong in CJS-5 per doc_architecture.md).
 - CJS-5 cluster section headings use letter suffixes (CJS-5A.1, CJS-5B, etc.).
+- CJS-5.1 constitutional compass map is incomplete or cluster Trace blocks lack
+  Constitutional frame / Chapter One basis metadata.
 """
 
 from __future__ import annotations
@@ -18,8 +20,22 @@ from corpus_paths import binding_corpus_scope
 
 CJS3_FILE = "corpus_joint_structure/cjs_03_joint_structural_obligations.md"
 CJS5_GLOB = "corpus_joint_structure/cjs_05*.md"
+CJS5_COMPASS_FILE = "corpus_joint_structure/cjs_05_cross_implementation_operational_terms.md"
+CJS5_BAND_FILES = [
+    "corpus_joint_structure/cjs_05o_oversight_operations.md",
+    "corpus_joint_structure/cjs_05p_participation_operations.md",
+    "corpus_joint_structure/cjs_05a_accountability_operations.md",
+    "corpus_joint_structure/cjs_05c_continuity_operations.md",
+    "corpus_joint_structure/cjs_05i_integrative_operations.md",
+]
+EXPECTED_OPERATIONAL_CLUSTER_IDS = [f"CJS-5.{n}" for n in range(2, 24)]
 
 SECTION_HEADING_RE = re.compile(r"^##\s+(CJS-5[A-E](?:\.\d+)?(?::|\s))", re.MULTILINE)
+CLUSTER_HEADING_RE = re.compile(r"^##\s+(CJS-5\.\d+)\s+", re.MULTILINE)
+TRACE_BLOCK_RE = re.compile(
+    r"<details>\s*\n<summary><strong><span style=\"color: #2563eb;\">Trace</span></strong></summary>\s*\n(.*?)\n</details>",
+    re.DOTALL,
+)
 LETTER_CLUSTER_ID_RE = re.compile(r"\bCJS-5[A-E](?:\.\d+)?\b")
 LETTER_ANCHOR_RE = re.compile(r"#cjs-5[a-e]\d*", re.IGNORECASE)
 
@@ -103,6 +119,60 @@ def audit_cjs5_letter_headings(root: Path) -> list[str]:
     return findings
 
 
+def audit_cjs5_compass_and_frames(root: Path) -> list[str]:
+    """Validate CJS-5.1 compass map completeness and constitutional Trace metadata."""
+    findings: list[str] = []
+    compass_path = root / CJS5_COMPASS_FILE
+    if not compass_path.is_file():
+        return [f"Missing required file: {CJS5_COMPASS_FILE}"]
+
+    compass_text = compass_path.read_text(encoding="utf-8")
+    map_start = compass_text.find("**Cluster map**")
+    map_end = compass_text.find("</details>", map_start)
+    map_section = compass_text[map_start:map_end] if map_start != -1 and map_end != -1 else ""
+    map_ids = re.findall(r"\*\*(CJS-5\.\d+)\*\*", map_section)
+    map_ids = [cluster_id for cluster_id in map_ids if cluster_id in EXPECTED_OPERATIONAL_CLUSTER_IDS]
+    if len(set(map_ids)) != 22:
+        findings.append(
+            f"{CJS5_COMPASS_FILE}: constitutional cluster map has {len(set(map_ids))} unique cluster rows; expected 22."
+        )
+
+    discovered: dict[str, str] = {}
+    for rel in CJS5_BAND_FILES:
+        path = root / rel
+        if not path.is_file():
+            findings.append(f"Missing required file: {rel}")
+            continue
+        text = path.read_text(encoding="utf-8")
+        parts = re.split(r"(?=^## CJS-5\.\d+ )", text, flags=re.MULTILINE)
+        for part in parts:
+            heading = CLUSTER_HEADING_RE.match(part)
+            if not heading:
+                continue
+            cluster_id = heading.group(1)
+            trace_match = TRACE_BLOCK_RE.search(part)
+            trace_body = trace_match.group(1) if trace_match else ""
+            discovered[cluster_id] = rel
+            if "- Constitutional frame:" not in trace_body:
+                findings.append(
+                    f"{rel}: {cluster_id} Trace block missing Constitutional frame metadata."
+                )
+            if "- Chapter One basis:" not in trace_body:
+                findings.append(
+                    f"{rel}: {cluster_id} Trace block missing Chapter One basis metadata."
+                )
+
+    for cluster_id in EXPECTED_OPERATIONAL_CLUSTER_IDS:
+        if cluster_id not in discovered:
+            findings.append(f"Expected operational cluster heading missing: {cluster_id}.")
+    for cluster_id in discovered:
+        if cluster_id not in EXPECTED_OPERATIONAL_CLUSTER_IDS:
+            findings.append(
+                f"{discovered[cluster_id]}: unexpected operational cluster heading {cluster_id}."
+            )
+    return findings
+
+
 def audit_letter_cluster_citations(root: Path) -> list[str]:
     """Flag letter-suffixed CJS-5 cluster IDs in binding corpus (not evidence snapshots)."""
     findings: list[str] = []
@@ -116,13 +186,13 @@ def audit_letter_cluster_citations(root: Path) -> list[str]:
             if match:
                 findings.append(
                     f"{rel}:{line_no}: legacy letter cluster ID {match.group()}; "
-                    "use numeric CJS-5.2–CJS-5.23 IDs."
+                    "use numeric CJS-5.5–CJS-5.53 IDs."
                 )
             anchor = LETTER_ANCHOR_RE.search(line)
             if anchor:
                 findings.append(
                     f"{rel}:{line_no}: legacy letter cluster anchor {anchor.group()}; "
-                    "use numeric slug (for example #cjs-52-… for CJS-5.2)."
+                    "use numeric slug (for example #cjs-52-… for CJS-5.5)."
                 )
     return findings
 
@@ -133,6 +203,7 @@ def main() -> int:
     findings: list[str] = []
     findings.extend(audit_cjs3_op_clusters(root))
     findings.extend(audit_cjs5_letter_headings(root))
+    findings.extend(audit_cjs5_compass_and_frames(root))
     findings.extend(audit_letter_cluster_citations(root))
 
     if findings:

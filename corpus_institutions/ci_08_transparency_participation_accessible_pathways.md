@@ -8,7 +8,7 @@
 - Topic routing (mandatory read-with): **CJS-R04** (*Routing, intake, transfer, certification, representative treatment*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CF-5**.
 - Topic routing (mandatory read-with): **CJS-R08** (*Independent investigative service and prosecution interface*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CF-9**.
 - Topic routing (mandatory read-with): **CJS-R17** (*Cross-implementation trust integrity (joint operation model)*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CJS-4.3**.
-- Topic routing (mandatory read-with): **CJS-R19** (*Implementation and cross-implementation integrity assurance and resilie…*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CJS-5.8**.
+- Topic routing (mandatory read-with): **CJS-R19** (*integrity assurance and resilie…*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CJS-5.6** (*integrity assurance and resilience operations*).
 
 </details>
 
@@ -27,7 +27,7 @@
 
 <br>
 
-*In plain terms: **CI-8** is the institutions layer's "can ordinary sentients see, understand, participate in, and challenge governance?" rulebook — how institutions publish understandable information, keep participation routes open, protect sentients who speak up, and make digital and paper pathways actually work. Institutions must not require a lawyer, a marathon attention span, or insider status to know what a decision means, weigh in before it binds you, or leave a service you joined online. Shared comprehensibility and participation floors live in **CJS-5.13**; stakeholder notice and binding-governance pathways live in **CJS-5.12**; anti-concentration safeguards live in **CJS-5.2**; digital self-service exit rules live in **CJS-5.17**; this file states what each institution must publish and maintain locally.*
+*In plain terms: **CI-8** is the institutions layer's "can ordinary sentients see, understand, participate in, and challenge governance?" rulebook — how institutions publish understandable information, keep participation routes open, protect sentients who speak up, and make digital and paper pathways actually work. Institutions must not require a lawyer, a marathon attention span, or insider status to know what a decision means, weigh in before it binds you, or leave a service you joined online. Shared comprehensibility and participation floors live in **CJS-5.8** (*comprehensibility and cognitive accessibility terms*); stakeholder notice and binding-governance pathways live in **CJS-5.7** (*quorum and participatory legitimacy terms*); anti-concentration safeguards live in **CJS-5.11** (*distributed and proportional authority terms*); digital self-service exit rules live in **CJS-5.17** (*interoperability, portability, and exit-integrity terms*); this file states what each institution must publish and maintain locally.*
 
 **Quick orientation**
 
@@ -40,9 +40,9 @@
 
 *In plain terms: dumping data is not transparency. If affected sentients cannot understand a decision, use the participation route, challenge a bad outcome, or exit an online commitment without dark patterns, the institution is not meeting its duties — no matter how many pages it published.*
 
-*Shared rules live elsewhere.* Participation, challenge, accessibility, protected escalation, and anti-retaliation floors are in [corpus_joint_structure.md](../corpus_joint_structure.md) **CJS-5.13** (*Implementation and cross-implementation comprehensibility and cognitive accessibility terms*). Stakeholder oversight and binding-governance pathway integrity are in **CJS-5.12** (*Implementation and cross-implementation quorum and participatory legitimacy terms*). Anti-concentration guardrails are in **CJS-5.2** (*Implementation and cross-implementation distributed and proportional authority terms*). Digital self-service pathway integrity is in **CJS-5.17** (*Implementation and cross-implementation interoperability, portability, and exit-integrity terms*). **CI-8** does not repeat those floors; it keeps only institutional publication, office, record, escalation, and stewardship-pathway application duties linked to **Article III-B** and **Chapter Ten**, section 5.
+*Shared rules live elsewhere.* Participation, challenge, accessibility, protected escalation, and anti-retaliation floors are in [corpus_joint_structure.md](../corpus_joint_structure.md) **CJS-5.8** (*comprehensibility and cognitive accessibility terms*). Stakeholder oversight and binding-governance pathway integrity are in **CJS-5.7** (*quorum and participatory legitimacy terms*). Anti-concentration guardrails are in **CJS-5.11** (*distributed and proportional authority terms*). Digital self-service pathway integrity is in **CJS-5.17** (*interoperability, portability, and exit-integrity terms*). **CI-8** does not repeat those floors; it keeps only institutional publication, office, record, escalation, and stewardship-pathway application duties linked to **Article III-B** and **Chapter Ten**, section 5.
 
-Apply **CJS-5.13** **Institutional participation and pathway accessibility floor** for the shared understandability, participation, challenge, accessibility, protected-escalation, and anti-retaliation floor. **CI-8** states only local publication, office, record, escalation, and stewardship-pathway owner duties.
+Apply **CJS-5.8** **Institutional participation and pathway accessibility floor** for the shared understandability, participation, challenge, accessibility, protected-escalation, and anti-retaliation floor. **CI-8** states only local publication, office, record, escalation, and stewardship-pathway owner duties.
 
 ### CI-8.1: Stakeholder oversight, notification, and binding-governance pathway integrity
 <details>
@@ -71,7 +71,7 @@ Apply **CJS-5.13** **Institutional participation and pathway accessibility floor
 
 *In plain terms: when an institution asks for your input on something that will really bind you, it must say so clearly — who counts as affected, how long you have to respond, what happens to your submission, and what exit or adaptation consequences the decision may create. Symbolic consultation does not count as binding governance, and binding governance cannot be hidden as optional feedback.*
 
-Apply **CJS-5.12** **Stakeholder oversight and binding-governance pathway integrity** for the shared floor. **CI-8.1** keeps only what each institution must name and maintain locally:
+Apply **CJS-5.7** **Stakeholder oversight and binding-governance pathway integrity** for the shared floor. **CI-8.1** keeps only what each institution must name and maintain locally:
 
 - who owns **stakeholder-status** identification for each materially binding governance pathway in scope;
 - a **participation-window file** showing open and close timing, eligible participants, and practical engagement routes for each binding decision event;
@@ -115,7 +115,7 @@ Apply **CJS-5.12** **Stakeholder oversight and binding-governance pathway integr
 
 *In plain terms: institutions must watch whether participation is getting captured or dominated — by a single stakeholder class, a concentration of weight, or informal power — and publish how weighting works, what triggers remediation, and where to escalate through **CI-12** when the fix stalls.*
 
-Apply **CJS-5.2** **Anti-concentration guardrails and trigger mitigation** and **CJS-5.13** **Institutional participation and pathway accessibility floor** for the shared concentration and participation-legitimacy floors. **CI-8.2** keeps only what each institution must name and maintain locally:
+Apply **CJS-5.11** **Anti-concentration guardrails and trigger mitigation** and **CJS-5.8** **Institutional participation and pathway accessibility floor** for the shared concentration and participation-legitimacy floors. **CI-8.2** keeps only what each institution must name and maintain locally:
 
 - who owns the **concentration monitor** for participation-weight and legitimacy risk in the institution's governance pathways;
 - a **weighting publication file** explaining how **Stakeholder Participation Weight** is assigned, bounded, and revalidated;
@@ -137,7 +137,7 @@ Apply **CJS-5.2** **Anti-concentration guardrails and trigger mitigation** and *
 
 - Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions; and [Chapter Ten](../core_10-10_rights_part_a.md#chapter-ten-foundational-rights) rights architecture where rights interfaces are invoked.
 - Downstream: this section's local operational requirements for **CI-8.3: Digital self-service pathway integrity**.
-- Read with: **CI-8.3**; **CI-10.2**; **CI-10**; **CJS-5.17**.
+- Read with: **CI-8.3**; **CI-10.2**; **CI-10**; **CJS-5.17** (*interoperability, portability, and exit-integrity terms*).
 
 </details>
 

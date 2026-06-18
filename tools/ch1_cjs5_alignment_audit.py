@@ -24,11 +24,11 @@ from typing import Dict, List, Optional, Set
 
 CJS5_FILES = [
     "corpus_joint_structure/cjs_05_cross_implementation_operational_terms.md",
-    "corpus_joint_structure/cjs_05a_00_authority_constraint_secrecy_procedure.md",
-    "corpus_joint_structure/cjs_05b_00_evidence_audit_claim_integrity.md",
-    "corpus_joint_structure/cjs_05c_00_participation_comprehension_disclosure.md",
-    "corpus_joint_structure/cjs_05d_00_dependency_exit_lifecycle_integrity.md",
-    "corpus_joint_structure/cjs_05e_00_failure_robustness_intervention_correction.md",
+    "corpus_joint_structure/cjs_05o_oversight_operations.md",
+    "corpus_joint_structure/cjs_05p_participation_operations.md",
+    "corpus_joint_structure/cjs_05a_accountability_operations.md",
+    "corpus_joint_structure/cjs_05c_continuity_operations.md",
+    "corpus_joint_structure/cjs_05i_integrative_operations.md",
 ]
 
 
@@ -61,28 +61,28 @@ EXPECTED_CLUSTER_IDS = [
 
 CLUSTER_PRINCIPLE_MAP = {
     "CJS-5.0": ["2.1", "3.4", "5.2", "7.1", "7.2", "10"],
-    "CJS-5.2": ["2.1", "4", "5.2", "7.2", "10"],
-    "CJS-5.3": ["3.1", "6.1", "6.4", "7.1", "9"],
-    "CJS-5.4": ["3.2", "4", "5.2", "7.1", "7.2"],
-    "CJS-5.5": ["6.1", "6.3", "6.4", "7.1", "8", "9"],
-    "CJS-5.6": ["3.2", "6.2", "6.4", "7.1", "8", "9"],
-    "CJS-5.7": ["2.1", "3.4", "6.4", "7.1", "8", "10"],
-    "CJS-5.8": ["3.1", "3.2", "4.1", "7.1", "7.2"],
-    "CJS-5.9": ["3.2", "4", "7.1", "7.2"],
-    "CJS-5.10": ["3.2", "6.2", "6.4", "7.1", "8"],
-    "CJS-5.11": ["3.2", "3.3", "4", "7.1", "7.2"],
-    "CJS-5.12": ["2.1", "4", "5.2", "6.4", "8", "10"],
-    "CJS-5.13": ["3.4", "5.2", "7.1", "8"],
-    "CJS-5.14": ["2", "3.2", "4", "7.1", "8"],
-    "CJS-5.15": ["3.2", "6.2", "7.1", "8"],
+    "CJS-5.11": ["2.1", "4", "5.2", "7.2", "10"],
+    "CJS-5.14": ["3.1", "6.1", "6.4", "7.1", "9"],
+    "CJS-5.2": ["3.2", "4", "5.2", "7.1", "7.2"],
+    "CJS-5.12": ["6.1", "6.3", "6.4", "7.1", "8", "9"],
+    "CJS-5.22": ["3.2", "6.2", "6.4", "7.1", "8", "9"],
+    "CJS-5.13": ["2.1", "3.4", "6.4", "7.1", "8", "10"],
+    "CJS-5.6": ["3.1", "3.2", "4.1", "7.1", "7.2"],
+    "CJS-5.3": ["3.2", "4", "7.1", "7.2"],
+    "CJS-5.4": ["3.2", "6.2", "6.4", "7.1", "8"],
+    "CJS-5.5": ["3.2", "3.3", "4", "7.1", "7.2"],
+    "CJS-5.7": ["2.1", "4", "5.2", "6.4", "8", "10"],
+    "CJS-5.8": ["3.4", "5.2", "7.1", "8"],
+    "CJS-5.9": ["2", "3.2", "4", "7.1", "8"],
+    "CJS-5.10": ["3.2", "6.2", "7.1", "8"],
     "CJS-5.16": ["3.1", "4.1", "5.1", "7.1", "9"],
     "CJS-5.17": ["5.1", "6.1", "7.1", "8", "9"],
     "CJS-5.18": ["3.2", "6.2", "7.1", "8", "9"],
     "CJS-5.19": ["3.1", "4.1", "5.1", "6.1", "7", "9"],
-    "CJS-5.20": ["3.1", "6.1", "6.4", "7.1", "9"],
-    "CJS-5.21": ["3.1", "4.1", "6.1", "7.1", "9"],
-    "CJS-5.22": ["3.1", "3.2", "4.1", "7.1", "7.2", "9"],
-    "CJS-5.23": ["3.1", "3.2", "4.1", "5.2", "7.1", "7.2"],
+    "CJS-5.23": ["3.1", "6.1", "6.4", "7.1", "9"],
+    "CJS-5.20": ["3.1", "4.1", "6.1", "7.1", "9"],
+    "CJS-5.21": ["3.1", "3.2", "4.1", "7.1", "7.2", "9"],
+    "CJS-5.15": ["3.1", "3.2", "4.1", "5.2", "7.1", "7.2"],
 }
 
 
@@ -177,6 +177,7 @@ class Ch1Cjs5AlignmentAuditor:
         self.gaps: Dict[str, List[Dict[str, object]]] = {
             "missing_anchor": [],
             "weak_trace": [],
+            "constitutional_frame_gap": [],
             "owner_drift": [],
             "op_component_gap": [],
             "overreach": [],
@@ -250,6 +251,12 @@ class Ch1Cjs5AlignmentAuditor:
         refs: Set[str] = set()
         for match in re.finditer(r"Chapter One\s+§+\s*([0-9]+(?:\.[0-9]+)*)", text):
             refs.add(match.group(1))
+        for match in re.finditer(
+            r"Chapter One basis:\s*((?:§[0-9]+(?:\.[0-9]+)*(?:,\s*)?)+)",
+            text,
+        ):
+            for sec in re.findall(r"§([0-9]+(?:\.[0-9]+)*)", match.group(1)):
+                refs.add(sec)
         if any(
             marker in text
             for marker in (
@@ -342,6 +349,28 @@ class Ch1Cjs5AlignmentAuditor:
                 "issue": "Principle basis is inferred from subject matter, not directly cited to Chapter 01.",
                 "inferred_principles": cluster.inferred_principles,
             })
+
+        if cluster.cluster_id.startswith("CJS-5.") and cluster.cluster_id not in {"CJS-5.0", "CJS-5.1"}:
+            trace_match = re.search(
+                r"<details>\s*\n<summary><strong><span style=\"color: #2563eb;\">Trace</span></strong></summary>\s*\n(.*?)\n</details>",
+                cluster.body,
+                flags=re.DOTALL,
+            )
+            trace_body = trace_match.group(1) if trace_match else ""
+            missing_fields = []
+            if "- Constitutional frame:" not in trace_body:
+                missing_fields.append("Constitutional frame")
+            if "- Chapter One basis:" not in trace_body:
+                missing_fields.append("Chapter One basis")
+            if missing_fields:
+                classifications.add("constitutional_frame_gap")
+                self.gaps["constitutional_frame_gap"].append({
+                    "cluster_id": cluster.cluster_id,
+                    "title": cluster.title,
+                    "file": cluster.file,
+                    "line": cluster.start_line,
+                    "issue": f"Missing Trace metadata: {', '.join(missing_fields)}.",
+                })
 
         if not cluster.owner_refs:
             classifications.add("owner_drift")
@@ -502,12 +531,12 @@ class Ch1Cjs5AlignmentAuditor:
             "## Remediation Roadmap",
             "",
             "1. Treat `weak_trace` items as advisory unless the project wants every CJS-5 cluster to cite Chapter 01 directly.",
-            "2. If direct traceability is desired, add concise `Read it with` bullets to high-risk clusters first: CJS-5.3, CJS-5.5, CJS-5.6, CJS-5.12–CJS-5.15.*, CJS-5.16–CJS-5.18.*, and CJS-5.19–CJS-5.23.*.",
+            "2. If direct traceability is desired, add concise `Read it with` bullets to high-risk clusters first: CJS-5.14, CJS-5.12, CJS-5.22, CJS-5.7–CJS-5.10.*, CJS-5.16–CJS-5.18.*, and CJS-5.19–CJS-5.15.*.",
             "3. Keep remediation text limited to routing metadata; do not convert CJS-5 into a competing Chapter 01 or Chapter Five doctrine layer.",
             "",
             "## Manual Review Notes",
             "",
-            "High-risk families for human review are CJS-5.2–CJS-5.7, CJS-5.12–CJS-5.15, CJS-5.16–CJS-5.18, and CJS-5.19–CJS-5.23. The automated pass checks structure and trace signals; semantic adequacy should be reviewed against the operative text before making corpus edits.",
+            "High-risk families for human review are CJS-5.11–CJS-5.13, CJS-5.7–CJS-5.10, CJS-5.16–CJS-5.18, and CJS-5.19–CJS-5.15. The automated pass checks structure and trace signals; semantic adequacy should be reviewed against the operative text before making corpus edits.",
             "",
         ])
         path.write_text("\n".join(lines))

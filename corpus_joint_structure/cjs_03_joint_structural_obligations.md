@@ -103,7 +103,7 @@ Emergency or temporary narrowing is allowed only when it is published, clearly b
 
 - Upstream: [CJS-1.2](cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
 - Downstream: this section's local operational requirements for **CJS-3.3 Boundary Between Support Roles and Merits Decisions**.
-- Read with: **CJS-3.3**; **CJS-5.7**; [Merits Determination](../core_05-05_definitions_b_semi_independent.md#merits-determination).
+- Read with: **CJS-3.3**; **CJS-5.13** (*Accountability: procedural integrity and adjudication terms*); [Merits Determination](../core_05-05_definitions_b_semi_independent.md#merits-determination).
 
 </details>
 
@@ -124,7 +124,7 @@ Roles that monitor, review pathway performance, provide forensic help, or suppor
 
 Institutions must publish what each role is allowed to do and what it is not allowed to decide. They must also state who the role reports to, how often it reports, and how it connects to assurance lanes. Oversight and support roles must not quietly take over merits decision-making assigned to a lawfully constituted forum family under **Chapter Nine**.
 
-See **CI-7.3** (*Contest-integrity monitoring (Class A and Class B)*), **CF-8** (*Forum forensic and analytical support*), **CF-9** (*Independent investigative service and prosecution interface*), and **CJS-5.7** (*Implementation and cross-implementation procedural integrity and adjudication terms*).
+See **CI-7.3** (*Contest-integrity monitoring (Class A and Class B)*), **CF-8** (*Forum forensic and analytical support*), **CF-9** (*Independent investigative service and prosecution interface*), and **CJS-5.13** (*Accountability: procedural integrity and adjudication terms*).
 
 ### CJS-3.4 Institution-hosted or forum-adjacent operations
 <details>
@@ -173,7 +173,7 @@ That includes budget, staffing, records, security, procurement, clerking, digita
 
 <br>
 
-Apply **CJS-5.2** (*Implementation and cross-implementation distributed and proportional authority terms*) **Classification-scaled governance burden** for the shared class- and tier-scaling rule.
+Apply **CJS-5.11** (*Accountability: distributed and proportional authority terms*) **Classification-scaled governance burden** for the shared class- and tier-scaling rule.
 
 When an institution supervises systems governed by `corpus_systems.md` **CS-4 — System classification and handling** or **CS-5 — Critical system stewardship**, its published maps under **CI-9.2** (*Published industry and domain mapping*) and related **CI-9** (*Classification-linked institutional obligations*) material must match the operative systems classification profile, including reclassification triggers.
 
@@ -190,8 +190,6 @@ Do not give a system one risk or classification label in institutional supervisi
 </details>
 
 <strong><span style="color: #2563eb;">Definition:</span></strong> [Sentient](../core_05-05_definitions_c_dependent_clusters.md#sentient-composite) · [O](../core_05-05_definitions_c_dependent_clusters.md#sentient-composite) · [E](../core_05-05_definitions_c_dependent_clusters.md#sentient-composite-e) · [C](../core_05-05_definitions_c_dependent_clusters.md#sentient-composite-c)
-
-<br>
 
 When **CS**, **CI**, or **CF** cite **CJS-5** (*Implementation and cross-implementation operational cluster library*) operational clusters, adopters must keep those references traceable and must not use implementation text to weaken them.
 

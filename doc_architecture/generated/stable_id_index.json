@@ -277,10 +277,10 @@
     },
     {
       "id": "CJS-R19",
-      "topic": "Implementation and cross-implementation integrity assurance and resilience operations",
-      "primary_owner": "**CJS-5.8**",
+      "topic": "integrity assurance and resilience operations",
+      "primary_owner": "**CJS-5.6** (*integrity assurance and resilience operations*)",
       "primary_attach": [
-        "CJS-5.8"
+        "CJS-5.6"
       ]
     }
   ],

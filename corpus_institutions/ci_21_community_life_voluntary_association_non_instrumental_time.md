@@ -4,7 +4,7 @@
 
 - Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions; and [Chapter Ten](../core_10-10_rights_part_a.md#chapter-ten-foundational-rights) rights architecture where rights interfaces are invoked.
 - Downstream: [CI-21.1: Civic infrastructure and non-instrumental time](#ci-211-civic-infrastructure-and-non-instrumental-time); [CI-21.2: Voluntary association and anti-coercion guardrails](#ci-212-voluntary-association-and-anti-coercion-guardrails); [CI-21.3: Referral and escalation interfaces](#ci-213-referral-and-escalation-interfaces).
-- Read with: **CI-21**; **CI-5**; **CI-9**; **CI-8**; **CI-22**; **CI-20**; **CI-6**; **CJS-5.12**.
+- Read with: **CI-21**; **CI-5**; **CI-9**; **CI-8**; **CI-22**; **CI-20**; **CI-6**; **CJS-5.7** (*quorum and participatory legitimacy terms*).
 
 </details>
 
@@ -23,7 +23,7 @@
 
 <br>
 
-*In plain terms: **CI-21** is the institutions layer's rulebook for community life that is not just another productivity slot — gathering, play, recreation, solitude, cultural practice, and voluntary association. Sentients need practical ways to belong, meet, celebrate, rest, and organize without every shared space being monetized, gated, or designed to push them out. You must be free to associate — and free not to associate, and free to leave a group that has turned coercive. Shared community and associational pathway floors live in **CJS-5.12**; constitutional meaning lives in **Article V-H** (*Expression, Assembly, and Press*), **Article X-A** (*Non-Imposition and Consent in Association*), and **Chapter Five** assembly and collective-organization disciplines; this file states what each institution must name, steward, and route locally.*
+*In plain terms: **CI-21** is the institutions layer's rulebook for community life that is not just another productivity slot — gathering, play, recreation, solitude, cultural practice, and voluntary association. Sentients need practical ways to belong, meet, celebrate, rest, and organize without every shared space being monetized, gated, or designed to push them out. You must be free to associate — and free not to associate, and free to leave a group that has turned coercive. Shared community and associational pathway floors live in **CJS-5.7** (*quorum and participatory legitimacy terms*); constitutional meaning lives in **Article V-H** (*Expression, Assembly, and Press*), **Article X-A** (*Non-Imposition and Consent in Association*), and **Chapter Five** assembly and collective-organization disciplines; this file states what each institution must name, steward, and route locally.*
 
 **Quick orientation**
 
@@ -39,14 +39,14 @@
 
 *Shared rules live elsewhere.*
 
-- **[CJS-5.12](../corpus_joint_structure.md)** (*Implementation and cross-implementation quorum and participatory legitimacy terms*) — **Community and associational pathway integrity**: practical participation, freedom not to associate, freedom to leave coercive group settings, and protection against hostile-design exclusion in shared spaces, civic infrastructure, cultural gathering, peaceable assembly, recreation, and non-instrumental time.
+- **[CJS-5.7](../corpus_joint_structure.md)** (*quorum and participatory legitimacy terms*) — **Community and associational pathway integrity**: practical participation, freedom not to associate, freedom to leave coercive group settings, and protection against hostile-design exclusion in shared spaces, civic infrastructure, cultural gathering, peaceable assembly, recreation, and non-instrumental time.
 - **Article V-H** (*Expression, Assembly, and Press*) and **Article X-A** (*Non-Imposition and Consent in Association*) in **Chapter Ten** — assembly, association, consent in cooperative ventures, harassment and bullying limits, and freedom of focus in relational settings.
 - **Chapter Five** — [Assembly](../core_05-05_definitions_b_semi_independent.md#assembly-constitutional), [Collective Organization](../core_05-05_definitions_b_semi_independent.md#collective-organization-constitutional), and [Non-Imposition (Cooperative Interaction)](../core_05-05_definitions_a_independent.md#non-imposition-cooperative-interaction) where associational conduct is material.
 - **CI-21 scope** — does not repeat those floors; states local stewardship, program, referral, and escalation owner duties.
 
 **Apply**
 
-- Apply **CJS-5.12** **Community and associational pathway integrity** for the shared floor on practical access, voluntary association, exit from coercive settings, and anti-hostile-design exclusion.
+- Apply **CJS-5.7** **Community and associational pathway integrity** for the shared floor on practical access, voluntary association, exit from coercive settings, and anti-hostile-design exclusion.
 - **CI-21** states only local stewardship, program, referral, and escalation owner duties across **CI-21.1** through **CI-21.3**.
 
 ### CI-21.1: Civic infrastructure and non-instrumental time

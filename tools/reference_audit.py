@@ -325,6 +325,13 @@ def main() -> int:
     root = pathlib.Path(args.root).resolve()
     scope = args.scope or binding_corpus_scope(root, include_support_docs=True)
     allowed_local_refs = set(binding_corpus_scope(root, include_support_docs=True))
+    allowed_local_refs.update(
+        {
+            "doc_architecture/generated/topic_router_reader_index.md",
+            "doc_architecture/generated/ci_primary_router_index.md",
+            "doc_architecture/generated/stable_id_index.md",
+        }
+    )
     canonical = canonical_map_from_paths(root, args.source)
 
     findings: list[Finding] = []

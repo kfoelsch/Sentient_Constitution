@@ -5,7 +5,7 @@
 - Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Nine](../core_09-09_forum.md#chapter-nine-forums-and-jurisdiction) forum-family routing; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
 - Downstream: [CF-6.1 Disposition-effect categories and record labels](#cf-61-disposition-effect-categories-and-record-labels); [CF-6.2 Core rules](#cf-62-core-rules).
 - Read with: **CF-6**; **CF-6.1**; **CF-6.1.1**; **CF-6.1.2**; **CF-6.1.3**; **CF-4**; **CF-6.1.4**.
-- Topic routing (primary owner): **CJS-R05** (*Appeal, secondary review, exhaustion*) in **CJS-2.1** (*Topic router (stable IDs)*). Mandatory read-with: **CI-6**, **CJS-5.7**.
+- Topic routing (primary owner): **CJS-R05** (*Appeal, secondary review, exhaustion*) in **CJS-2.1** (*Topic router (stable IDs)*). Mandatory read-with: **CI-6**, **CJS-5.13** (*procedural integrity and adjudication terms*).
 
 </details>
 

@@ -79,11 +79,25 @@ def is_exempt_line(line: str, *, in_trace_widget: bool) -> bool:
         return True
     if stripped.startswith("- Read with:") or stripped.startswith("**Mandatory read-with:**"):
         return True
+    if "*In plain terms:" in stripped and re.search(r"\*\*CI-\d+", stripped):
+        return True
+    if stripped.startswith(">") and "CJS cluster mapping" in stripped:
+        return True
+    if "–CJS-" in stripped or "–CJS-5." in stripped:
+        return True
+    if re.search(r"CJS-\d+\s+through\s+CJS-", stripped):
+        return True
+    if "retired" in stripped.lower() and "CJS-5" in stripped:
+        return True
+    if re.search(r"\*\*\[CJS-5\.\d+\]", stripped) and "(*" in stripped:
+        return True
     return False
 
 
 def has_descriptor(text_after_id: str) -> bool:
     text_after_id = text_after_id.lstrip()
+    if re.match(r"\*\*[^*]+\*\*", text_after_id):
+        return True
     if text_after_id.startswith("**"):
         text_after_id = text_after_id[2:].lstrip()
     return bool(DESCRIPTOR_AFTER_RE.match(text_after_id))

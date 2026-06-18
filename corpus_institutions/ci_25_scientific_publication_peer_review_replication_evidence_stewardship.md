@@ -24,7 +24,7 @@
 
 <br>
 
-*In plain terms: **CI-25** is the institutions layer's rulebook for how science and scholarship actually work in practice — publishing claims, peer review, replication, corrections, and keeping evidence trustworthy enough to rely on. Science is public verification infrastructure, not a prestige contest. Evidence quality, critique, replication, and correction behavior must matter more than journal brand, impact factor, or who you know. Correcting an error must always be easier than hiding one. Shared claim-testing, review, reliance, correction, and incentive-integrity floors live in **CJS-5.11**; constitutional meaning lives in **Article XVII-E** (*Scientific Publication, Review, and Replication Integrity*); this file states what each institution must name, file, and maintain locally.*
+*In plain terms: **CI-25** is the institutions layer's rulebook for how science and scholarship actually work in practice — publishing claims, peer review, replication, corrections, and keeping evidence trustworthy enough to rely on. Science is public verification infrastructure, not a prestige contest. Evidence quality, critique, replication, and correction behavior must matter more than journal brand, impact factor, or who you know. Correcting an error must always be easier than hiding one. Shared claim-testing, review, reliance, correction, and incentive-integrity floors live in **CJS-5.5** (*independent verification and claim-integrity terms*); constitutional meaning lives in **Article XVII-E** (*Scientific Publication, Review, and Replication Integrity*); this file states what each institution must name, file, and maintain locally.*
 
 **Quick orientation**
 
@@ -43,7 +43,7 @@
 
 *Shared rules live elsewhere.*
 
-- **[CJS-5.11](../corpus_joint_structure.md)** (*Implementation and cross-implementation independent verification and claim-integrity terms*) — independent verification, reproducibility, anti-single-authority verification, structured claim-testing, reliance and correction integrity, structured review and incentive-integrity floors.
+- **[CJS-5.5](../corpus_joint_structure.md)** (*independent verification and claim-integrity terms*) — independent verification, reproducibility, anti-single-authority verification, structured claim-testing, reliance and correction integrity, structured review and incentive-integrity floors.
 - **Article XVII-E** (*Scientific Publication, Review, and Replication Integrity*) in **Chapter Ten** — science as public verification infrastructure, open publication and evidence sufficiency, review and replication over prestige, correction and contestability.
 - **Chapter One** (*Truth*, epistemic disclosure constraints) and **Article XVI-A** — narrow limits on publication where privacy, biosafety, security, or comparable justification applies.
 - **CF-10** (*Technical specialist forums and specialist chambers*) in `corpus_forum.md` — specialist science-facing technical forum routes under **CJS-R09**.
@@ -51,7 +51,7 @@
 
 **Apply**
 
-- Apply **CJS-5.11** for the shared claim-testing, review, reliance, correction, and incentive-integrity floors.
+- Apply **CJS-5.5** (*independent verification and claim-integrity terms*) for the shared claim-testing, review, reliance, correction, and incentive-integrity floors.
 - **CI-25** states only local **Article XVII-E** publication owner files, ombuds routing, and **CF-10** referral interfaces across **CI-25.1** through **CI-25.5**.
 
 ### CI-25.1: Publication intake and correction records

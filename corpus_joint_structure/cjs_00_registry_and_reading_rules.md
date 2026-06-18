@@ -8,7 +8,7 @@
 >
 > The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this file or in other corpus files.
 >
-> The joint-structure layer (**CJS**) coordinates how **CJS**, **CS**, **CI**, and **CF** fit together when more than one implementation layer applies to the same facts. **Families CJS-0 through CJS-3 are mostly structural** — registry, boundaries, routing, and cross-layer obligations. They bind when routing or adoption says so, but **most readers should not read CJS front to back**.
+> The joint-structure layer (**CJS**) coordinates how **CJS**, **CS**, **CI**, and **CF** fit together when more than one implementation layer applies to the same facts. **Families CJS-0 through CJS-3 are mostly structural** — registry, boundaries, routing, and cross-layer obligations. They bind when routing or adoption says so, but **most readers need not read CJS front to back**.
 >
 > **Where to start**
 >
@@ -130,7 +130,7 @@ Binding router table, overlap discipline, and definition-tier rules: [cjs_02_imp
 > - **Joint obligations:** **CJS-3** (*Joint structural obligations (cross-domain requirements)*) gives requirements that must be satisfied together when more than one implementation file applies to the same facts.
 > - **Domain limits:** CJS coordinates shared interfaces. It does not replace day-to-day domain rules owned only by `corpus_systems.md`, `corpus_institutions.md`, or `corpus_forum.md`.
 >
-> **Implementation cross-reference index (routing only):** Joint-structure obligations may connect with **CJS-5** (*Implementation and cross-implementation operational cluster library*) operational clusters, including **CJS-5.2–CJS-5.7** (*Authority, constraint, secrecy, and procedure*), **CJS-5.8–CJS-5.11** (*Evidence, audit, and claim integrity*), **CJS-5.12–CJS-5.15** (*Participation, comprehension, and disclosure*), **CJS-5.16–CJS-5.18** (*Dependency, exit, and lifecycle integrity*), and **CJS-5.19–CJS-5.23** (*Failure, robustness, intervention, and correction*). This index only helps readers find related material. It does not redefine Chapter Five constitutional terms.
+> **Implementation cross-reference index (routing only):** Joint-structure obligations may connect with **CJS-5** (*Implementation and cross-implementation operational cluster library*) operational clusters. Start at [CJS-5.1 constitutional compass](cjs_05_cross_implementation_operational_terms.md#cjs-51-constitutional-compass-and-cluster-map), then the relevant band: **CJS-5.2–CJS-5.6** (Oversight leg), **CJS-5.7–CJS-5.10** (Participation leg), **CJS-5.11–CJS-5.15** (Accountability leg), **CJS-5.16–CJS-5.21** (Continuity aim), **CJS-5.22–CJS-5.23** (Integrative cross-leg). This index only helps readers find related material. It does not redefine Chapter Five constitutional terms.
 
 </details>
 

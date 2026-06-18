@@ -23,7 +23,7 @@
 
 <br>
 
-*In plain terms: **CI-22** is the institutions layer's rulebook for commons, cooperatives, mutual aid, and other ways communities govern shared resources without turning every durable arrangement into a state agency, corporation, or adversarial forum. Sentients must be able to pool resources, rotate stewardship, and help each other through non-market reciprocity — and institutions should recognize those records when funding, zoning, tax, or continuity decisions are on the table. Fiscal rules must not accidentally criminalize lawful solidarity. Community warmth is not a license for informal power, hidden exclusion, or appeal denial. Shared commons, cooperative, and mutual-aid pathway floors live in **CJS-5.12**; constitutional meaning lives in **Article III-D** (*Labor and Economic Floor*), **Article IX-B** (*Stakeholder Role and Participation Rights*), **Article X-A** (*Non-Imposition and Consent in Association*), and **Chapter Five** *Collective Organization*; this file states what each institution must name, file, and maintain locally.*
+*In plain terms: **CI-22** is the institutions layer's rulebook for commons, cooperatives, mutual aid, and other ways communities govern shared resources without turning every durable arrangement into a state agency, corporation, or adversarial forum. Sentients must be able to pool resources, rotate stewardship, and help each other through non-market reciprocity — and institutions should recognize those records when funding, zoning, tax, or continuity decisions are on the table. Fiscal rules must not accidentally criminalize lawful solidarity. Community warmth is not a license for informal power, hidden exclusion, or appeal denial. Shared commons, cooperative, and mutual-aid pathway floors live in **CJS-5.7** (*quorum and participatory legitimacy terms*); constitutional meaning lives in **Article III-D** (*Labor and Economic Floor*), **Article IX-B** (*Stakeholder Role and Participation Rights*), **Article X-A** (*Non-Imposition and Consent in Association*), and **Chapter Five** *Collective Organization*; this file states what each institution must name, file, and maintain locally.*
 
 **Quick orientation**
 
@@ -39,7 +39,7 @@
 
 *Shared rules live elsewhere.*
 
-- **[CJS-5.12](../corpus_joint_structure.md)** (*Implementation and cross-implementation quorum and participatory legitimacy terms*) — **Commons, cooperative, and mutual-aid pathway integrity**: legible stewardship records, non-market reciprocity, fiscal treatment, exclusion decisions, informal power, and independent-review routes assessed together.
+- **[CJS-5.7](../corpus_joint_structure.md)** (*quorum and participatory legitimacy terms*) — **Commons, cooperative, and mutual-aid pathway integrity**: legible stewardship records, non-market reciprocity, fiscal treatment, exclusion decisions, informal power, and independent-review routes assessed together.
 - **Article III-D** (*Labor and Economic Floor*) in **Chapter Ten** — collective organization, fair compensation, safe conditions, and leisure and rest for cooperative and comparable productive activity.
 - **Article IX-B** (*Stakeholder Role and Participation Rights*) in **Chapter Ten** — meaningful, proportionate, and challengeable participation in decisions that materially affect stakeholders.
 - **Article X-A** (*Non-Imposition and Consent in Association*) in **Chapter Ten** — consent and non-imposition norms in cooperative ventures; freedom to leave coercive group settings remains protected.
@@ -54,7 +54,7 @@
 
 **Apply**
 
-- Apply **CJS-5.12** **Commons, cooperative, and mutual-aid pathway integrity** for the shared floor.
+- Apply **CJS-5.7** **Commons, cooperative, and mutual-aid pathway integrity** for the shared floor.
 - **CI-22** states only local due-process, contestability, anti-capture, funding, zoning, tax, continuity, and independent-review application duties under **CI-6**, **CI-9**, **CI-12**, and **CI-11**.
 
 **Local commons and mutual-aid application role map**

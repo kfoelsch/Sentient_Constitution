@@ -79,7 +79,7 @@ Under the authority-stack rules named in **CJS-1.2** (*Shared implementation-cor
 
 - Upstream: [CJS-1.2](cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
 - Downstream: this section's local operational requirements for **CJS-1.2: Shared implementation-corpus preamble contract**.
-- Read with: **CJS-1.2**; **CJS-2**; **CJS-3**; [CJS-2.1](cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids); **CJS-5.20**; **CJS-5.3**.
+- Read with: **CJS-1.2**; **CJS-2**; **CJS-3**; [CJS-2.1](cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids); **CJS-5.23** (*Integrative: intervention and override integrity terms*); **CJS-5.14** (*Accountability: intervention governance and override-authorization terms*).
 
 </details>
 
@@ -119,7 +119,7 @@ Under the authority-stack rules named in **CJS-1.2** (*Shared implementation-cor
 | Find which file owns a topic | **[CJS-0.1](cjs_00_registry_and_reading_rules.md#cjs-01-cross-file-routing)** (reading guide), **CJS-2.1** (integrator router table), or [topic_router_reader_index.md](../doc_architecture/generated/topic_router_reader_index.md) (grouped index) |
 | Satisfy duties across **CS**, **CI**, and **CF** together | **Shared contract** → scope, overlap, and routing → **CJS-3** |
 | Resolve two rules that disagree on the same risk | **Shared contract** → scope, overlap, and routing → **CJS-2.3** (CJS vs **primary owner** collision); **CJS-3.6** (stricter-wins between implementation files) |
-| Use intervention or override language | **Authority stack** → **CJS-5.20** (technical integrity) vs **CJS-5.3** (governance authorization) |
+| Use intervention or override language | **Authority stack** → **CJS-5.23** (technical integrity) vs **CJS-5.14** (governance authorization) |
 | Handle emergencies spanning multiple files | **Authority stack** → **CJS-2.1** and **CJS-3.2** |
 | Place a definition (not route a topic) | `doc_architecture.md` section 4 (*Project-wide definitions protocol*) |
 
@@ -163,7 +163,7 @@ This file does not create a separate authority stack. Use the constitutional **A
   - Chapter Six controls canonical compliance, violation, and standing classification policy.
   - [corpus_systems.md](../corpus_systems.md) Chapters S1 through S3 control data types, system classes, dependency types, and steward tiers.
 - **CJS cross-links**
-  - **CJS-5.20** (*Implementation and cross-implementation intervention and override integrity terms*) and **CJS-5.3** (*Implementation and cross-implementation intervention governance and override-authorization terms*) stay separate: **CJS-5.20** states technical intervention and override integrity terms; **CJS-5.3** states governance authorization terms. Both apply where relevant.
+  - **CJS-5.23** (*Integrative: intervention and override integrity terms*) and **CJS-5.14** (*Accountability: intervention governance and override-authorization terms*) stay separate: **CJS-5.23** (*Integrative: intervention and override integrity terms*) states technical intervention and override integrity terms; **CJS-5.14** (*Accountability: intervention governance and override-authorization terms*) states governance authorization terms. Both apply where relevant.
   - For cross-domain integrity routing, read **CJS-4.3** (*Cross-implementation trust integrity (joint operation model)*) and the applicable **CJS-5** operational clusters. CJS does not maintain a separate meta-obligation family.
   - For emergency and continuity questions where multiple implementation files govern the same facts, read **CJS-2.1** and **CJS-3.2** (*No false partial compliance across implementation files*).
 

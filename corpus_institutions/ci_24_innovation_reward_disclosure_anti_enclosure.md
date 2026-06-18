@@ -4,7 +4,7 @@
 
 - Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions; and [Chapter Ten](../core_10-10_rights_part_a.md#chapter-ten-foundational-rights) rights architecture where rights interfaces are invoked.
 - Downstream: this section's local operational requirements for **CI-24: Innovation reward, disclosure, and anti-enclosure**.
-- Read with: **CI-24**; **CI-6**; **CI-12**; **CJS-5.17**; **CJS-5.5**.
+- Read with: **CI-24**; **CI-6**; **CI-12**; **CJS-5.17** (*interoperability, portability, and exit-integrity terms*); **CJS-5.12** (*burden-of-justification and constraint terms*).
 
 </details>
 
@@ -23,7 +23,7 @@
 
 <br>
 
-*In plain terms: **CI-24** is the institutions layer's rulebook for innovation rewards — patents, copyrights, exclusivity deals, and similar claims — so creators get fair credit and compensation without turning a temporary reward into permanent lock-in. Innovators can be rewarded, but exclusivity must stay narrow, time-limited, and reviewable. Repair, research, education, interoperability, and public-interest access must not be blocked by a reward claim sitting in a drawer or a registry nobody can search. Shared anti-enclosure, public-interest-use, compulsory-access, anti-warehousing, and duration floors live in **CJS-5.17**; constitutional meaning lives in **Chapter Five** (*Innovation Reward and Anti-Enclosure*) and **Article XVII-D**; this file states what each institution must register, publish, review, and maintain locally.*
+*In plain terms: **CI-24** is the institutions layer's rulebook for innovation rewards — patents, copyrights, exclusivity deals, and similar claims — so creators get fair credit and compensation without turning a temporary reward into permanent lock-in. Innovators can be rewarded, but exclusivity must stay narrow, time-limited, and reviewable. Repair, research, education, interoperability, and public-interest access must not be blocked by a reward claim sitting in a drawer or a registry nobody can search. Shared anti-enclosure, public-interest-use, compulsory-access, anti-warehousing, and duration floors live in **CJS-5.17** (*interoperability, portability, and exit-integrity terms*); constitutional meaning lives in **Chapter Five** (*Innovation Reward and Anti-Enclosure*) and **Article XVII-D**; this file states what each institution must register, publish, review, and maintain locally.*
 
 **Quick orientation**
 
@@ -32,21 +32,21 @@
 - **What must stay accessible** — repair, safety work, independent verification, research, education, archiving, interoperability testing, and migration where those uses are otherwise lawful and proportionate.
 - **What gets tighter over time** — when an innovation becomes dependency-critical infrastructure — a platform, protocol, model, marketplace, or payment rail — remaining exclusivity must be reassessed, narrowed, converted, or sunset.
 - **Who decides disputes** — specialist review lanes separated from claim-granting or revenue-dependent functions, with **CI-12** escalation when local review stalls or is conflicted.
-- **Read with** — **CI-6** for local procedure maps; **CI-12** for cross-institution escalation; **CJS-5.5** for burden-of-justification and proportionality scaling; **CJS-5.17** for shared anti-enclosure floors.
+- **Read with** — **CI-6** for local procedure maps; **CI-12** for cross-institution escalation; **CJS-5.12** (*burden-of-justification and constraint terms*) for burden-of-justification and proportionality scaling; **CJS-5.17** (*interoperability, portability, and exit-integrity terms*) for shared anti-enclosure floors.
 
 *In plain terms: attribution is not ownership forever. You can keep credit after exclusivity ends — but you cannot warehouse a critical standard, shelf a life-saving medicine behind a broad patent, or use secrecy to block repair because the registry says "innovation reward." If the institution that grants claims is also the only place to challenge them, the pathway has failed.*
 
 *Shared rules live elsewhere.*
 
-- **[CJS-5.17](../corpus_joint_structure.md)** (*Implementation and cross-implementation interoperability, portability, and exit-integrity terms*) — innovation reward boundary and anti-enclosure controls; access-preserving reward and anti-warehousing controls; innovation-reward duration and reclassification controls (including publication-based timing and dependency-critical tightening).
+- **[CJS-5.17](../corpus_joint_structure.md)** (*interoperability, portability, and exit-integrity terms*) — innovation reward boundary and anti-enclosure controls; access-preserving reward and anti-warehousing controls; innovation-reward duration and reclassification controls (including publication-based timing and dependency-critical tightening).
 - **Chapter Five** (*Innovation Reward and Anti-Enclosure*) and **Article XVII-D** (*Innovation Reward, Disclosure, and Anti-Enclosure*) in **Chapter Ten** — constitutional reward structure, temporary exclusivity limits, disclosure condition, public-interest floor, domain carve-outs, and reclassification duties.
-- **[CJS-5.5](../corpus_joint_structure.md)** (*Implementation and cross-implementation burden of justification and constraint terms*) — proportionality and burden scaling where reward claims affect material dependency or access burden.
+- **[CJS-5.12](../corpus_joint_structure.md)** (*burden of justification and constraint terms*) — proportionality and burden scaling where reward claims affect material dependency or access burden.
 - **`corpus_systems.md`** **CS-4** — system classification and handling where innovation reward must scale with class, dependency, and coordination effects.
 - **CI-24 scope** — does not repeat those floors; states institutional registry, claim-record, access-order, sunset, specialist-review, and appeal duties.
 
 **Apply**
 
-- Apply **CJS-5.17** for the shared anti-enclosure, public-interest-use, compulsory-access, anti-warehousing, and duration/reclassification floors.
+- Apply **CJS-5.17** (*interoperability, portability, and exit-integrity terms*) for the shared anti-enclosure, public-interest-use, compulsory-access, anti-warehousing, and duration/reclassification floors.
 - Apply **CJS-5.17** **Innovation-reward duration and reclassification controls** for shared timing and dependency-critical reclassification; **CI-24** supplies only the local review calendar and record-update duty.
 - **CI-24** states only local institutional duties for disclosure, registry, claim records, corrective pathways, sunset, and dispute review.
 
@@ -63,13 +63,13 @@
 **2. Reward proportionality and class treatment**
 
 - **evidence-record owner** — who keeps the local file showing how reward scaling and class treatment were decided;
-- **claim-record format** — the standard record layout for proportionality analysis under **CJS-5.17** and **CS-4** where system class is material; and
+- **claim-record format** — the standard record layout for proportionality analysis under **CJS-5.17** (*interoperability, portability, and exit-integrity terms*) and **CS-4** where system class is material; and
 - **class and dependency linkage** — how **Class A**, **Class B**, and **Class C** or dependency-critical status triggers tighter review or access-preserving reward tools.
 
 **3. Public-interest and corrective pathways**
 
 - **procedure owner** — who receives and routes public-interest, compulsory-access, anti-warehousing, and domain-carve-out requests;
-- **corrective-tool inventory** — published list of available paths (compulsory license, access order, buyout, reward conversion, sunset acceleration, or equivalent) under **CJS-5.17**; and
+- **corrective-tool inventory** — published list of available paths (compulsory license, access order, buyout, reward conversion, sunset acceleration, or equivalent) under **CJS-5.17** (*interoperability, portability, and exit-integrity terms*); and
 - **intake and decision record** — auditable record of requests, outcomes, and escalation where corrective access is denied or delayed.
 
 **4. Duration, review, and sunset**

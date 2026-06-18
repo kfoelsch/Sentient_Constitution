@@ -23,7 +23,7 @@
 
 <br>
 
-*In plain terms: **CI-9** is the institutions layer's "how much oversight does this deserve?" rulebook — how formation burdens, governance duties, domain maps, and delegated-subunit rules scale with a system's risk class and stewardship tier. Low-impact organizations must not face needless red tape; high-impact or high-dependency systems must face proportionate scrutiny. Shared scaling floors live in **CJS-5.2**, **CJS-5.16**, and **CJS-5.5**; delegated-body composition rules live in **CJS-4.1**; this file states what each institution must publish and maintain locally.*
+*In plain terms: **CI-9** is the institutions layer's "how much oversight does this deserve?" rulebook — how formation burdens, governance duties, domain maps, and delegated-subunit rules scale with a system's risk class and stewardship tier. Low-impact organizations must not face needless red tape; high-impact or high-dependency systems must face proportionate scrutiny. Shared scaling floors live in **CJS-5.11** (*distributed and proportional authority terms*), **CJS-5.16** (*dependency integrity and disclosure terms*), and **CJS-5.12** (*burden-of-justification and constraint terms*); delegated-body composition rules live in **CJS-4.1**; this file states what each institution must publish and maintain locally.*
 
 **Quick orientation**
 
@@ -35,9 +35,9 @@
 
 *In plain terms: classification is not a decorative label. It is the dial that sets how hard institutions must work — and the dial must match reality, stay published, and tighten when dependency or risk grows.*
 
-*Shared rules live elsewhere.* Class- and tier-scaling terms are in [corpus_joint_structure.md](../corpus_joint_structure.md) **CJS-5.2** (*Implementation and cross-implementation distributed and proportional authority terms*), especially **Classification-scaled governance burden**. **CI-9** does not repeat those floors; it keeps only the institutional application across formation, authorization, oversight, mapping, delegated-subunit, and related duties.
+*Shared rules live elsewhere.* Class- and tier-scaling terms are in [corpus_joint_structure.md](../corpus_joint_structure.md) **CJS-5.11** (*distributed and proportional authority terms*), especially **Classification-scaled governance burden**. **CI-9** does not repeat those floors; it keeps only the institutional application across formation, authorization, oversight, mapping, delegated-subunit, and related duties.
 
-Apply **CJS-5.2** **Classification-scaled governance burden** for the shared class- and tier-scaling rule.
+Apply **CJS-5.11** **Classification-scaled governance burden** for the shared class- and tier-scaling rule.
 
 **Constitutional floor for formation**
 
@@ -70,7 +70,7 @@ The operational mechanics in this section — registration, fiscal treatment, li
 
 *In plain terms: starting or authorizing an institution must be as easy as the risk allows and as rigorous as the risk requires. A small low-impact group must not face the same paperwork as a body supervising survival-critical systems.*
 
-Apply **CJS-5.2** **Formation and authorization proportionality floor** for the shared scaling rule. **CI-9.1** keeps only what each formation or authorizing instrument must publish locally:
+Apply **CJS-5.11** **Formation and authorization proportionality floor** for the shared scaling rule. **CI-9.1** keeps only what each formation or authorizing instrument must publish locally:
 
 - the authorization path — who approves formation and on what basis;
 - the evidence burden — what proof is required before authorization;
@@ -123,7 +123,7 @@ Apply **CJS-5.16** **Domain and sector classification mapping** for the shared d
 - Read with: **CI-9.3**; **CI-9.2**; **CI-9.3.1**; **CI-9.3.2**; **CI-9.3.3**; **CI-9.3.4**; **CJS-4.5**.
 - Topic routing (mandatory read-with): **CJS-R02** (*Forum chambers, divisions, and designated panels (Chapter Nine families)*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CF-3**.
 - Topic routing (mandatory read-with): **CJS-R13** (*Forum staffing, shared administration, structural review, structural re…*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CF-16**.
-- Topic routing (primary owner): **CJS-R01** (*Delegated binding bodies and hybrid composition (non-forum institutions)*) in **CJS-2.1** (*Topic router (stable IDs)*). Mandatory read-with: **CJS-4.1**, **CJS-4.5**, **CJS-5.7**, **CI-3**, **CJS-5.2**, **CJS-5.5**.
+- Topic routing (primary owner): **CJS-R01** (*Delegated binding bodies and hybrid composition (non-forum institutions)*) in **CJS-2.1** (*Topic router (stable IDs)*). Mandatory read-with: **CJS-4.1**, **CJS-4.5**, **CJS-5.13** (*procedural integrity and adjudication terms*), **CI-3**, **CJS-5.11** (*distributed and proportional authority terms*), **CJS-5.12** (*burden-of-justification and constraint terms*).
 
 </details>
 
@@ -307,7 +307,7 @@ Apply **CJS-4.1.2** (*Attachment publication*) for shared home-based continuity 
 
 *In plain terms: essential survival access cannot be made to depend on working, buying premium services, or winning market lotteries. Voluntary markets may operate above the floor, but institutions must document how their instruments protect baseline access, keep charges proportionate, and stay aligned with class-scaled revenue rules under **CI-10.1**.*
 
-Apply **CJS-5.5** **Survival-critical access and voluntary-market interface** for the shared floor. **CI-9.4** keeps only what each institution must name and maintain locally:
+Apply **CJS-5.12** **Survival-critical access and voluntary-market interface** for the shared floor. **CI-9.4** keeps only what each institution must name and maintain locally:
 
 - who owns the **Article III-A** instrument or program interface;
 - how it links to **CI-10.1** revenue and charge design; and

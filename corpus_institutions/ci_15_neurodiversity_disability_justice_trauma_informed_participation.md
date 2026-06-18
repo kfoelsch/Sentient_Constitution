@@ -23,7 +23,7 @@
 
 <br>
 
-*In plain terms: **CI-15** is the institutions layer's rulebook for making participation actually usable for neurodivergent sentients, disabled sentients, and sentients carrying trauma — not just declaring pathways "open" on paper. Hearings, governance forums, and self-service portals must offer real alternatives when ordinary timing, format, sensory load, cognitive load, or adversarial framing would block credible participation. Institutions cannot dismiss someone as "too complex," "lacking capacity," or "not following procedure" when the procedure itself was designed to exclude them. Shared adaptive-participation and cognitive-accessibility floors live in **CJS-5.13**; constitutional meaning lives in **Article V-G** (*Accessibility*), **Article XI** (*Stakeholder System Participation, Representation, and Due Process*), **Article XX** (*Comprehensibility and Complexity Stewardship*), and **Article XXIII** (*Conflict Resolution, Escalation, and Emergency Proportionality*); this file states what each institution must name, file, and maintain locally.*
+*In plain terms: **CI-15** is the institutions layer's rulebook for making participation actually usable for neurodivergent sentients, disabled sentients, and sentients carrying trauma — not just declaring pathways "open" on paper. Hearings, governance forums, and self-service portals must offer real alternatives when ordinary timing, format, sensory load, cognitive load, or adversarial framing would block credible participation. Institutions cannot dismiss someone as "too complex," "lacking capacity," or "not following procedure" when the procedure itself was designed to exclude them. Shared adaptive-participation and cognitive-accessibility floors live in **CJS-5.8** (*comprehensibility and cognitive accessibility terms*); constitutional meaning lives in **Article V-G** (*Accessibility*), **Article XI** (*Stakeholder System Participation, Representation, and Due Process*), **Article XX** (*Comprehensibility and Complexity Stewardship*), and **Article XXIII** (*Conflict Resolution, Escalation, and Emergency Proportionality*); this file states what each institution must name, file, and maintain locally.*
 
 **Quick orientation**
 
@@ -32,14 +32,14 @@
 - **Trauma-informed design** — high-stakes hearings, reviews, and self-service paths must not amplify harm through avoidable adversarial traps, overload, or inaccessible interfaces.
 - **Anti-exclusion review** — when complexity, capacity, or compliance framing would dismiss credible participation, a named review route must exist.
 - **Digital parity** — **CI-8.3** self-service paths must document accommodation and accessibility routing alongside entry, management, and exit paths.
-- **Hard limits** — symbolic substitutes, inaccessible formats, retaliation-linked chill, and trauma-amplifying process design are out of bounds under **CJS-5.13**.
+- **Hard limits** — symbolic substitutes, inaccessible formats, retaliation-linked chill, and trauma-amplifying process design are out of bounds under **CJS-5.8** (*comprehensibility and cognitive accessibility terms*).
 - **Read with** — **CI-6** for secondary review; **CI-8.3** for digital self-service pathway interfaces.
 
 *In plain terms: if the only way to challenge a decision is a three-hour adversarial hearing with no breaks, no written alternative, and a portal that fails screen readers — and you get ruled non-participating for missing the deadline — the pathway has failed, no matter how many accessibility statements are on the website.*
 
 *Shared rules live elsewhere.*
 
-- **[CJS-5.13](../corpus_joint_structure.md)** (*Implementation and cross-implementation comprehensibility and cognitive accessibility terms*) — **Institutional participation and pathway accessibility floor** and **Adaptive participation and support controls**: practical access, protected escalation, anti-retaliation safeguards, proportionate alternatives, pacing, communication modes, sensory and cognitive accessibility, and records for denied accommodations.
+- **[CJS-5.8](../corpus_joint_structure.md)** (*comprehensibility and cognitive accessibility terms*) — **Institutional participation and pathway accessibility floor** and **Adaptive participation and support controls**: practical access, protected escalation, anti-retaliation safeguards, proportionate alternatives, pacing, communication modes, sensory and cognitive accessibility, and records for denied accommodations.
 - **Article V-G** (*Accessibility*) in **Chapter Ten** — cross-cutting accessibility Rights-Floor for genuine, not paper-only, participation across governance, stakeholder, adjudicative, and comparable domains.
 - **Article XI** (*Stakeholder System Participation, Representation, and Due Process*) in **Chapter Ten** — meaningful stakeholder participation, weighted-participation constraints, legitimacy gates, and due-process requirements in governed systems.
 - **Article XX** (*Comprehensibility and Complexity Stewardship*) in **Chapter Ten** — proportional comprehensibility and complexity-stewardship duties that must not be used to block participation or accountability.
@@ -51,14 +51,14 @@
 
 **Apply**
 
-- Apply **CJS-5.13** **Institutional participation and pathway accessibility floor** for the shared adaptive-participation and cognitive-accessibility floor.
+- Apply **CJS-5.8** **Institutional participation and pathway accessibility floor** for the shared adaptive-participation and cognitive-accessibility floor.
 - **CI-15** states only local procedural-design, trauma-informed alternative, and anti-exclusion review owner duties under **Article V-G**, **Article XI**, **Article XX**, and **Article XXIII**.
 
 **Local adaptive participation and anti-exclusion role map**
 
 Each institution in scope must name the office or body responsible for:
 
-- **procedural-design and accommodation documentation** — who documents **CJS-5.13** alternatives, pacing options, communication modes, sensory and cognitive accommodations, supported decision-making routes, and deadline-restoration paths for hearings, governance forums, review panels, and high-stakes institutional processes;
+- **procedural-design and accommodation documentation** — who documents **CJS-5.8** (*comprehensibility and cognitive accessibility terms*) alternatives, pacing options, communication modes, sensory and cognitive accommodations, supported decision-making routes, and deadline-restoration paths for hearings, governance forums, review panels, and high-stakes institutional processes;
 - **trauma-informed pathway alternatives** — who designs and maintains non-default participation options when adversarial framing, overload, retraumatizing process, or inaccessible format would foreseeably block credible participation;
 - **hearing and forum accommodation routing** — who receives accommodation requests, records granted or denied adjustments with reasons, and connects participants to usable substitutes rather than symbolic entry alone;
 - **digital self-service accessibility coordination** — who links **CI-8.3** self-service enrollment, account management, challenge, and exit paths to accommodation and accessibility parity duties under **CI-15**; and

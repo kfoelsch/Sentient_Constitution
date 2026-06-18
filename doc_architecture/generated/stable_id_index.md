@@ -55,7 +55,7 @@ Full router: [corpus_joint_structure/cjs_02_implementation_integration_map.md](.
 | CJS-R16 | Cross-institution coordination, deadlock, and escalation | `corpus_institutions.md` **CI-12** |
 | CJS-R17 | Cross-implementation trust integrity (joint operation model) | **CJS-4.3 — Cross-implementation trust integrity** |
 | CJS-R18 | Class-scaled lane staffing and competency redundancy for materially binding stewardship | `corpus_institutions.md` **CI-3**, **CI-4**, **CI-11**, **CI-12** |
-| CJS-R19 | Implementation and cross-implementation integrity assurance and resilience operations | **CJS-5.8** |
+| CJS-R19 | integrity assurance and resilience operations | **CJS-5.6** (*integrity assurance and resilience operations*) |
 
 ## Chapter Ten articles
 

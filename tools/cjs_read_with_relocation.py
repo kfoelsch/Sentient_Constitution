@@ -14,11 +14,11 @@ import sys
 from pathlib import Path
 
 CJS5_CLUSTER_FILES = [
-    "corpus_joint_structure/cjs_05a_00_authority_constraint_secrecy_procedure.md",
-    "corpus_joint_structure/cjs_05b_00_evidence_audit_claim_integrity.md",
-    "corpus_joint_structure/cjs_05c_00_participation_comprehension_disclosure.md",
-    "corpus_joint_structure/cjs_05d_00_dependency_exit_lifecycle_integrity.md",
-    "corpus_joint_structure/cjs_05e_00_failure_robustness_intervention_correction.md",
+    "corpus_joint_structure/cjs_05o_oversight_operations.md",
+    "corpus_joint_structure/cjs_05p_participation_operations.md",
+    "corpus_joint_structure/cjs_05a_accountability_operations.md",
+    "corpus_joint_structure/cjs_05c_continuity_operations.md",
+    "corpus_joint_structure/cjs_05i_integrative_operations.md",
 ]
 
 SECTION_HEADING_RE = re.compile(r"^## CJS-5\.\d+\b")

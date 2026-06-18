@@ -10,9 +10,9 @@
 >
 > The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this file or in other corpus files.
 >
-> CJS coordinates shared interfaces among **CJS**, **CS**, **CI**, and **CF**. **Families CJS-0 through CJS-3 are mostly structural** — registry, boundaries, routing, and cross-layer obligations. They bind when routing or adoption says so, but **most readers should not read CJS front to back**. Full reading paths and a “come back when” list: [cjs_00_registry_and_reading_rules.md](corpus_joint_structure/cjs_00_registry_and_reading_rules.md) (*How to read CJS*, at the top of that file).
+> CJS coordinates shared interfaces among **CJS**, **CS**, **CI**, and **CF**. **Families CJS-0 through CJS-3 are mostly structural** — registry, boundaries, routing, and cross-layer obligations. They bind when routing or adoption says so, but **most readers need not read CJS front to back**. Full reading paths and a “come back when” list: [cjs_00_registry_and_reading_rules.md](corpus_joint_structure/cjs_00_registry_and_reading_rules.md) (*How to read CJS*, at the top of that file).
 >
-> **Quick starts:** [topic router reader index](doc_architecture/generated/topic_router_reader_index.md) (topic-driven) · [corpus_forum.md](corpus_forum.md) · [corpus_institutions.md](corpus_institutions.md) · [corpus_systems.md](corpus_systems.md) (domain-driven) · [CJS-5 cluster index](corpus_joint_structure/cjs_05_cross_implementation_operational_terms.md) (cross-cutting operational terms).
+> **Quick starts:** [topic router reader index](doc_architecture/generated/topic_router_reader_index.md) (topic-driven) · [corpus_forum.md](corpus_forum.md) · [corpus_institutions.md](corpus_institutions.md) · [corpus_systems.md](corpus_systems.md) (domain-driven) · **CJS-5.1** (*Library: Constitutional compass and cluster map*) (cross-cutting operational terms).
 
 ## Joint Structure Index
 
@@ -23,12 +23,12 @@
 | CJS-2: Implementation integration map | [cjs_02_implementation_integration_map.md](corpus_joint_structure/cjs_02_implementation_integration_map.md) |
 | CJS-3: Joint structural obligations | [cjs_03_joint_structural_obligations.md](corpus_joint_structure/cjs_03_joint_structural_obligations.md) |
 | CJS-4: Specific joint interlocks and shared abstractions | [cjs_04_specific_joint_interlocks.md](corpus_joint_structure/cjs_04_specific_joint_interlocks.md) |
-| CJS-5: Cross-implementation operational cluster library (family and cluster index) | [cjs_05_cross_implementation_operational_terms.md](corpus_joint_structure/cjs_05_cross_implementation_operational_terms.md) |
-| CJS-5.2–CJS-5.7: Authority, constraint, secrecy, and procedure clusters | [cjs_05a_00_authority_constraint_secrecy_procedure.md](corpus_joint_structure/cjs_05a_00_authority_constraint_secrecy_procedure.md) |
-| CJS-5.8–CJS-5.11: Evidence, audit, and claim-integrity clusters | [cjs_05b_00_evidence_audit_claim_integrity.md](corpus_joint_structure/cjs_05b_00_evidence_audit_claim_integrity.md) |
-| CJS-5.12–CJS-5.15: Participation, comprehension, and disclosure clusters | [cjs_05c_00_participation_comprehension_disclosure.md](corpus_joint_structure/cjs_05c_00_participation_comprehension_disclosure.md) |
-| CJS-5.16–CJS-5.18: Dependency, exit, and lifecycle-integrity clusters | [cjs_05d_00_dependency_exit_lifecycle_integrity.md](corpus_joint_structure/cjs_05d_00_dependency_exit_lifecycle_integrity.md) |
-| CJS-5.19–CJS-5.23: Failure, robustness, intervention, and correction clusters | [cjs_05e_00_failure_robustness_intervention_correction.md](corpus_joint_structure/cjs_05e_00_failure_robustness_intervention_correction.md) |
+| CJS-5: Cross-implementation operational cluster library (compass and role preface) | [cjs_05_cross_implementation_operational_terms.md](corpus_joint_structure/cjs_05_cross_implementation_operational_terms.md) |
+| CJS-5.2–CJS-5.6: Oversight leg clusters | [cjs_05o_oversight_operations.md](corpus_joint_structure/cjs_05o_oversight_operations.md) |
+| CJS-5.7–CJS-5.10: Participation leg clusters | [cjs_05p_participation_operations.md](corpus_joint_structure/cjs_05p_participation_operations.md) |
+| CJS-5.11–CJS-5.15: Accountability leg clusters | [cjs_05a_accountability_operations.md](corpus_joint_structure/cjs_05a_accountability_operations.md) |
+| CJS-5.16–CJS-5.21: Continuity aim clusters | [cjs_05c_continuity_operations.md](corpus_joint_structure/cjs_05c_continuity_operations.md) |
+| CJS-5.22–CJS-5.23: Integrative cross-leg clusters | [cjs_05i_integrative_operations.md](corpus_joint_structure/cjs_05i_integrative_operations.md) |
 
 ---
 

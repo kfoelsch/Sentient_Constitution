@@ -1258,6 +1258,9 @@ All foundational principles in this chapter must be implemented through enforcea
 - [Corpus, Authority Stack, Supremacy, and Enforceability](core_05-05_definitions_c_dependent_clusters.md#corpus-authority-stack-supremacy-and-enforceability-cluster)
 - [Accountability, Contestability, and Collective Accountability Failure](core_05-05_definitions_c_dependent_clusters.md#accountability-contestability-and-collective-accountability-failure-cluster)
 
+**CJS-5** (*Implementation and cross-implementation operational cluster library*) operational cluster compass (cross-implementation joint operational terms — read with this chapter's Triad, Aims, and material-stake scaling):
+
+- [CJS-5.1 Constitutional compass and cluster map](corpus_joint_structure/cjs_05_cross_implementation_operational_terms.md#cjs-51-constitutional-compass-and-cluster-map) — primary entry for **CJS-5.2–CJS-5.23** clusters organized by Triad leg, Continuity aim, and integrative cross-leg bands
 
 ---
 

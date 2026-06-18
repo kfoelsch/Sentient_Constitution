@@ -23,7 +23,7 @@
 
 <br>
 
-*In plain terms: **CI-18** is the institutions layer's rulebook for epidemics, environmental exposure, population-level harm, and addiction — treated as collective-care and governance problems, not as excuses for permanent emergency rule or stigma-driven punishment. When a restriction limits movement, association, access, or participation, the support bundle that makes that restriction necessary must come with it: housing, subsistence, care access, accessibility, ventilation, treatment, or stabilization support where material. Addiction response must route toward care and stabilization, not shame, criminalization, or coercive treatment when a less restrictive pathway can work. Emergency secrecy must have a sunset and review route. Shared collective-health and emergency support-bundle floors live in **CJS-5.5**; constitutional meaning lives in **Article I-D** (*Existential Risk and Recovery Capacity*), **Article III-C** (*Bodily-Maintenance and Healthcare Access*), **Article VII-C** (*Mental-Health Crisis and Involuntary-Intervention Floor*), and **Article XXIII-D** (*Emergency Measures and Continuation Burden*); this file states what each institution must name, file, and maintain locally.*
+*In plain terms: **CI-18** is the institutions layer's rulebook for epidemics, environmental exposure, population-level harm, and addiction — treated as collective-care and governance problems, not as excuses for permanent emergency rule or stigma-driven punishment. When a restriction limits movement, association, access, or participation, the support bundle that makes that restriction necessary must come with it: housing, subsistence, care access, accessibility, ventilation, treatment, or stabilization support where material. Addiction response must route toward care and stabilization, not shame, criminalization, or coercive treatment when a less restrictive pathway can work. Emergency secrecy must have a sunset and review route. Shared collective-health and emergency support-bundle floors live in **CJS-5.12** (*burden-of-justification and constraint terms*); constitutional meaning lives in **Article I-D** (*Existential Risk and Recovery Capacity*), **Article III-C** (*Bodily-Maintenance and Healthcare Access*), **Article VII-C** (*Mental-Health Crisis and Involuntary-Intervention Floor*), and **Article XXIII-D** (*Emergency Measures and Continuation Burden*); this file states what each institution must name, file, and maintain locally.*
 
 **Quick orientation**
 
@@ -32,14 +32,14 @@
 - **Addiction-informed care** — routing must favor stabilization and healthcare access over punitive or stigma-driven enforcement where a less restrictive pathway can satisfy the protective need.
 - **Stigma control** — institutions must maintain explicit controls against scapegoating, unsupported quarantine, or public-health framing used to justify degrading treatment.
 - **Emergency discipline** — secrecy, continuity measures, and restrictive powers must be time-bounded, revalidated, and subject to sunset review — not indefinite by inertia.
-- **Hard limits** — unsupported quarantine, stigma-driven enforcement, indefinite opaque continuity, and coercive treatment where care-first alternatives suffice are out of bounds under **CJS-5.5**.
+- **Hard limits** — unsupported quarantine, stigma-driven enforcement, indefinite opaque continuity, and coercive treatment where care-first alternatives suffice are out of bounds under **CJS-5.12** (*burden-of-justification and constraint terms*).
 - **Read with** — **CI-5** for integrity routing; **CI-7** for controls declaration and external-assurance triggers.
 
 *In plain terms: if a lockdown comes with no housing support, addiction is answered only with arrest referrals, and the emergency powers from three years ago still have no published sunset date, collective public health has already failed — even when the briefing slides say "following the science."*
 
 *Shared rules live elsewhere.*
 
-- **[CJS-5.5](../corpus_joint_structure.md)** (*Implementation and cross-implementation burden-of-justification and constraint terms*) — **Collective-health and emergency support-bundle floor**: restriction paired with support, stigma risk, care-first alternatives, externality evidence, emergency duration, secrecy predicate, and sunset rule evaluated together.
+- **[CJS-5.12](../corpus_joint_structure.md)** (*burden-of-justification and constraint terms*) — **Collective-health and emergency support-bundle floor**: restriction paired with support, stigma risk, care-first alternatives, externality evidence, emergency duration, secrecy predicate, and sunset rule evaluated together.
 - **Article I-D** (*Existential Risk and Recovery Capacity*) in **Chapter Ten** — heightened scrutiny for population-level, environmental, or existential-risk-scale collective harms where materially implicated.
 - **Article III-C** (*Bodily-Maintenance and Healthcare Access*) in **Chapter Ten** — bodily-maintenance and healthcare access, including treatment and stabilization pathways, without proxy denial.
 - **Article VII-C** (*Mental-Health Crisis and Involuntary-Intervention Floor*) in **Chapter Ten** — crisis-intervention limits that collective-health measures do not narrow; coercive treatment beyond those terms is not authorized here.
@@ -52,7 +52,7 @@
 
 **Apply**
 
-- Apply **CJS-5.5** **Collective-health and emergency support-bundle floor** for the shared floor.
+- Apply **CJS-5.12** **Collective-health and emergency support-bundle floor** for the shared floor.
 - **CI-18** states only the local pathway owner, support-bundle record, addiction-routing owner, stigma-control file, and emergency-secrecy sunset review route.
 
 **Local collective public-health and addiction-care role map**
@@ -60,7 +60,7 @@
 Each institution in scope must name the office or body responsible for:
 
 - **collective-health pathway** — who owns the official public-health, contagion, environmental-exposure, and population-level harm response pathway, including restriction predicates, care-first alternatives, and challenge routes;
-- **support-bundle record** — who documents and maintains the paired support package for each material restriction — housing, subsistence, care access, accessibility, ventilation or filtration, treatment, stabilization, or comparable support needed to keep the restriction necessary and proportionate under **CJS-5.5**;
+- **support-bundle record** — who documents and maintains the paired support package for each material restriction — housing, subsistence, care access, accessibility, ventilation or filtration, treatment, stabilization, or comparable support needed to keep the restriction necessary and proportionate under **CJS-5.12** (*burden-of-justification and constraint terms*);
 - **addiction-informed routing** — who routes substance-use, dependency, and addiction-response cases to healthcare, stabilization, harm-reduction, and recovery pathways rather than punitive or stigma-only enforcement by default;
 - **stigma-control file** — who maintains published controls against scapegoating, unsupported quarantine, degrading enforcement, and public-health framing used to justify measures that fail **Necessity**, **Proportionality**, or care-first analysis; and
 - **emergency-secrecy sunset review** — who publishes and enforces sunset dates, revalidation cadence, and review routes for emergency secrecy, continuity measures, and restrictive powers — including escalation to **CI-7** external-assurance triggers when review is deferred or box-checked without meaningful risk response.

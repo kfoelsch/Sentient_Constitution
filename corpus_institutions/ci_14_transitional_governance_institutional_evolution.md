@@ -24,7 +24,7 @@
 
 <br>
 
-*In plain terms: **CI-14** is the institutions layer's "how do we change structure without breaking rights or losing the thread?" rulebook — when an institution redesigns, merges, hands off authority, or moves from legacy operation toward constitutional operation, and what must stay documented, reviewable, and reversible while that happens. Transition is a bridge, not a permanent emergency. Temporary powers must expire, get reauthorized for real reasons, or roll back — and baseline rights cannot quietly shrink because the change is inconvenient. Shared continuity, authority-transfer, sunset, reauthorization, and challenge-pathway floors live in **CJS-5.18**; system phase structure, gate criteria, fallback handling, off-ramps, and re-baselining mechanics live in **Protocol T**; this file states what each institution must name, publish, and maintain locally.*
+*In plain terms: **CI-14** is the institutions layer's "how do we change structure without breaking rights or losing the thread?" rulebook — when an institution redesigns, merges, hands off authority, or moves from legacy operation toward constitutional operation, and what must stay documented, reviewable, and reversible while that happens. Transition is a bridge, not a permanent emergency. Temporary powers must expire, get reauthorized for real reasons, or roll back — and baseline rights cannot quietly shrink because the change is inconvenient. Shared continuity, authority-transfer, sunset, reauthorization, and challenge-pathway floors live in **CJS-5.18** (*data-retention and lifecycle-integrity terms*); system phase structure, gate criteria, fallback handling, off-ramps, and re-baselining mechanics live in **Protocol T**; this file states what each institution must name, publish, and maintain locally.*
 
 **Quick orientation**
 
@@ -40,9 +40,9 @@
 
 *Shared rules live elsewhere.*
 
-- **[CJS-5.18](../corpus_joint_structure.md)** (*Implementation and cross-implementation data-retention and lifecycle-integrity terms*) — transition continuity, authority-transfer lifecycle integrity, sunset, reauthorization, and challenge-pathway floors, especially **Transition continuity and authority-transfer lifecycle integrity**.
+- **[CJS-5.18](../corpus_joint_structure.md)** (*data-retention and lifecycle-integrity terms*) — transition continuity, authority-transfer lifecycle integrity, sunset, reauthorization, and challenge-pathway floors, especially **Transition continuity and authority-transfer lifecycle integrity**.
 - **Protocol T** (*Transition Constitution and Migration Governance*) in `corpus_systems.md` — system phase structure, gate criteria, fallback handling, off-ramps, and re-baselining mechanics.
-- **CJS-5.8** (*Implementation and cross-implementation integrity assurance and resilience operations*) — property-custody and incentive-separation control chains.
+- **CJS-5.6** (*integrity assurance and resilience operations*) — property-custody and incentive-separation control chains.
 - **CI-14 scope** — does not repeat those floors; states institutional custody, authorization, oversight, and publication duties against **Article XXV** (*Transition Governance, Continuity, and Re-Baselining*).
 
 **Apply**
@@ -56,7 +56,7 @@
 Each institution in scope must name and maintain locally:
 
 - the institution, role, or body that owns each **transition authority**, **review authority**, and **evidence-custody duty**;
-- published local procedures for **interim authority**, **review cadence**, **reauthorization**, **unresolved-risk explanation**, and **evidence custody** under the **CJS-5.18** transition floor; and
+- published local procedures for **interim authority**, **review cadence**, **reauthorization**, **unresolved-risk explanation**, and **evidence custody** under the **CJS-5.18** (*data-retention and lifecycle-integrity terms*) transition floor; and
 - auditable records of **material institutional transition decisions**, **delays**, **reversals**, and **remediation actions**, with rationale and risk implications.
 
 ### CI-14.1: Interface — Article XXV-D (non-compliant property, seizure, voluntary incentives)
@@ -86,7 +86,7 @@ Each institution in scope must name and maintain locally:
 
 *In plain terms: when transition plans touch non-compliant property, seizure, impoundment, quarantine, or voluntary turnover incentives, every step in the chain needs a named owner — who decides someone is eligible, who holds the asset, who pays a bounty, who enforces, who reviews, who funds the program, how sentients are notified, and how they contest. The office that decides payouts must not be the same shop that decides seizures. For high-stakes **Class A**, **Class B**, and **Critical System Steward** scope, read with **Protocol A** subsection **G** and **CI-11**.*
 
-Apply **CJS-5.8** **Property-custody and incentive-separation control chain** for the shared floor. **CI-14.1** states only the **Article XXV-D** role map. Each institution in scope must name locally:
+Apply **CJS-5.6** **Property-custody and incentive-separation control chain** for the shared floor. **CI-14.1** states only the **Article XXV-D** role map. Each institution in scope must name locally:
 
 - **eligibility owner** — who decides whether a case, asset, or claim qualifies;
 - **custody body** — who holds seized, impounded, or quarantined property or systems;

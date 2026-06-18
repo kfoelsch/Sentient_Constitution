@@ -23,7 +23,7 @@
 
 <br>
 
-*In plain terms: **CI-17** is the institutions layer's rulebook for dying, mourning, and what happens to a sentient's records, likeness, and wishes after death — and for the practical pathways that must work before and during end-of-life care. Advance directives must be kept safe and honored when they are valid. Palliative and comfort care must remain reachable, not buried under billing gates or routing mazes. Memorial and disposition choices deserve dignity and cultural respect. Grief and mourning need real accommodation, not performative sympathy with no pathway. Posthumous likeness, voice, and experiential data must follow the sentient's wishes — not become training fodder or marketing assets by default. Voluntary discontinuation is protected under **Article VII-E** when consent is genuine; no institution may use end-of-life policy as cover for punishment or involuntary deprivation under **Article XXIII-B**. Crisis-intervention safeguards under **Article VII-C** stay fully intact. Shared posthumous-data, retention, and continuity floors live in **CJS-5.18**; constitutional meaning lives in **Articles VII-E**, **VIII**, **III-C**, and **XXIII-B**; this file states what each institution must name, file, and maintain locally.*
+*In plain terms: **CI-17** is the institutions layer's rulebook for dying, mourning, and what happens to a sentient's records, likeness, and wishes after death — and for the practical pathways that must work before and during end-of-life care. Advance directives must be kept safe and honored when they are valid. Palliative and comfort care must remain reachable, not buried under billing gates or routing mazes. Memorial and disposition choices deserve dignity and cultural respect. Grief and mourning need real accommodation, not performative sympathy with no pathway. Posthumous likeness, voice, and experiential data must follow the sentient's wishes — not become training fodder or marketing assets by default. Voluntary discontinuation is protected under **Article VII-E** when consent is genuine; no institution may use end-of-life policy as cover for punishment or involuntary deprivation under **Article XXIII-B**. Crisis-intervention safeguards under **Article VII-C** stay fully intact. Shared posthumous-data, retention, and continuity floors live in **CJS-5.18** (*data-retention and lifecycle-integrity terms*); constitutional meaning lives in **Articles VII-E**, **VIII**, **III-C**, and **XXIII-B**; this file states what each institution must name, file, and maintain locally.*
 
 **Quick orientation**
 
@@ -31,7 +31,7 @@
 - **Advance planning** — advance instructions and substitute decision-maker records must have a named custodian and an auditable chain from creation through incapacity.
 - **Care at the end of life** — palliative and bodily-maintenance access routing must stay practical under **Article III-C**; billing, network, or administrative gates cannot quietly block comfort care.
 - **Memorial and disposition** — memorial files, disposition choices, and grief or cultural-practice accommodation must have named owners and contest routes.
-- **After death** — posthumous likeness and experiential-data controls must honor **Article VIII** defaults and documented wishes; posthumous data retention follows **CJS-5.18** lifecycle rules.
+- **After death** — posthumous likeness and experiential-data controls must honor **Article VIII** defaults and documented wishes; posthumous data retention follows **CJS-5.18** (*data-retention and lifecycle-integrity terms*) lifecycle rules.
 - **Hard limits** — voluntary discontinuation under **Article VII-E** is distinct from involuntary deprivation categorically forbidden under **Article XXIII-B**; crisis-intervention floors under **Article VII-C** are not narrowed.
 - **Read with** — **CI-8** for participation and pathway accessibility.
 
@@ -39,7 +39,7 @@
 
 *Shared rules live elsewhere.*
 
-- **[CJS-5.18](../corpus_joint_structure.md)** (*Implementation and cross-implementation data-retention and lifecycle-integrity terms*) — posthumous-data lifecycle, accountability-preserving records, transition continuity, deletion or de-identification, and anti-surveillance accumulation limits.
+- **[CJS-5.18](../corpus_joint_structure.md)** (*data-retention and lifecycle-integrity terms*) — posthumous-data lifecycle, accountability-preserving records, transition continuity, deletion or de-identification, and anti-surveillance accumulation limits.
 - **Article VII-E** (*Voluntary Discontinuation of One's Own Existence*) in **Chapter Ten** — voluntary discontinuation when consent is real, unpressured, procedurally fair, and reversible until the irreversible moment.
 - **Article VIII** (*Likeness, Experiential Data, and Publication Rights*) in **Chapter Ten** — likeness, experiential and derived data, and publication defaults extending through death where material.
 - **Article III-C** (*Bodily-Maintenance and Healthcare Access*) in **Chapter Ten** — bodily-maintenance and healthcare access, including palliative and comfort care, without proxy denial.
@@ -61,7 +61,7 @@ Each institution in scope must name the office or body responsible for:
 - **palliative access routing** — who routes bodily-maintenance and comfort-care requests through billing, network, eligibility, and referral gates so **Article III-C** access is not defeated in practice;
 - **memorial and disposition files** — who holds memorial preferences, burial or disposition choices, and comparable post-death handling records with auditable custody;
 - **grief and cultural-practice accommodation** — who coordinates leave, ritual space, bereavement support, and culturally specific mourning practices without treating grief as a scheduling inconvenience; and
-- **posthumous likeness or experiential-data controls** — who enforces **Article VIII** defaults and documented wishes for likeness, voice, synthetic depiction, and experiential or derived data after death, including retention, deletion, and secondary-use limits under **CJS-5.18**.
+- **posthumous likeness or experiential-data controls** — who enforces **Article VIII** defaults and documented wishes for likeness, voice, synthetic depiction, and experiential or derived data after death, including retention, deletion, and secondary-use limits under **CJS-5.18** (*data-retention and lifecycle-integrity terms*).
 
 Read **CI-8** for participation and accessibility interfaces.
 

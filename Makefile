@@ -1,7 +1,7 @@
 PYTHON ?= python3
 READABILITY_MAX_GRADE ?= 14.0
 
-.PHONY: reference-audit primitive-retirement-audit section-abbreviation-descriptor-audit scenario-audit prose-continuity-audit corpus-markdown-audit footer-audit nav-widget-spacer-audit trace-routing-prose-audit in-paragraph-link-audit in-paragraph-link-audit-report ch5-definitions-gravity-audit ch5-trace-crosslink-audit ch5-entry-format-audit ch5-alphabetical-directory-audit ch5-single-definition-audit ch5-dec-widget-audit ch5-cross-file-link-audit ch5-cluster-order-audit ch1-dec-order-audit ch9-trace-audit subarticle-gloss-audit lexical-vocabulary-audit lexical-vocabulary-audit-evidence ci-cjs-relocation-audit ci-cjs-relocation-audit-evidence router-bidirectional-audit router-bidirectional-sync plain-language-audit plain-language-audit-evidence cjs-operational-cluster-audit cjs5-cluster-term-order-audit owner-discipline-audit architecture-inventory architecture-index doc-architecture-section-audit regression regression-full regression-ch7-stack-ab reference-audit-evidence prose-continuity-audit-evidence readability-audit readability-audit-with-gloss readability-audit-evidence readability-top-candidates readability-top-candidates-evidence best-practices-check best-practices-check-evidence todo-close-check scoring-v1 alignment-audit ai-manifest-generate ai-manifest-validate ai-manifest-regenerate ai-corpus-sync ai-corpus-help
+.PHONY: reference-audit primitive-retirement-audit section-abbreviation-descriptor-audit scenario-audit prose-continuity-audit corpus-markdown-audit footer-audit nav-widget-spacer-audit trace-routing-prose-audit in-paragraph-link-audit in-paragraph-link-audit-report ch5-definitions-gravity-audit ch5-trace-crosslink-audit ch5-entry-format-audit ch5-alphabetical-directory-audit ch5-single-definition-audit ch5-dec-widget-audit ch5-cross-file-link-audit ch5-cluster-order-audit ch1-dec-order-audit ch9-trace-audit subarticle-gloss-audit lexical-vocabulary-audit lexical-vocabulary-audit-evidence ci-cjs-relocation-audit ci-cjs-relocation-audit-evidence router-bidirectional-audit router-bidirectional-sync plain-language-audit plain-language-audit-evidence cjs-operational-cluster-audit cjs5-cluster-term-order-audit ch1-cjs5-alignment-audit owner-discipline-audit architecture-inventory architecture-index doc-architecture-section-audit regression regression-full regression-ch7-stack-ab reference-audit-evidence prose-continuity-audit-evidence readability-audit readability-audit-with-gloss readability-audit-evidence readability-top-candidates readability-top-candidates-evidence best-practices-check best-practices-check-evidence todo-close-check scoring-v1 alignment-audit ai-manifest-generate ai-manifest-validate ai-manifest-regenerate ai-corpus-sync ai-corpus-help
 
 reference-audit:
 	$(PYTHON) tools/reference_audit.py --root .
@@ -84,6 +84,9 @@ cjs-operational-cluster-audit:
 cjs5-cluster-term-order-audit:
 	$(PYTHON) tools/cjs5_cluster_term_order_audit.py --root .
 
+ch1-cjs5-alignment-audit:
+	$(PYTHON) tools/ch1_cjs5_alignment_audit.py --repo-root .
+
 router-bidirectional-audit:
 	$(PYTHON) tools/router_bidirectional_audit.py --root .
 
@@ -131,6 +134,7 @@ regression:
 		lexical-vocabulary-audit \
 		cjs-operational-cluster-audit \
 		cjs5-cluster-term-order-audit \
+		ch1-cjs5-alignment-audit \
 		router-bidirectional-audit; do \
 		$(MAKE) $$target || status=$$?; \
 	done; \

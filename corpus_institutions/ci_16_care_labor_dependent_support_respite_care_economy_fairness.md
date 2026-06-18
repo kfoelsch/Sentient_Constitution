@@ -23,7 +23,7 @@
 
 <br>
 
-*In plain terms: **CI-16** is the institutions layer's rulebook for care work — the paid and unpaid labor that keeps dependents, elders, disabled sentients, families, and communities functioning. Respite must be a real pathway, not a brochure. Care cannot be treated as invisible background capacity that institutions free-ride on. Coercion in care relationships must have an intake door and escalation route. Reproductive and embodiment-related labor must show up in budgets, metrics, service routes, and labor pathways — not disappear into "family responsibility." Shared care, respite, and support-dependency adequacy floors live in **CJS-5.16**; constitutional meaning lives in **Article VII-D** (*Family, Care Relationships, Reproductive Autonomy, and Non-Separation*), **Article III-D** (*Labor and Economic Floor*), **Article III-C** (*Bodily-Maintenance and Healthcare Access*), and **Chapter Five** *Family and Care Relationships*; this file states what each institution must name, file, and maintain locally.*
+*In plain terms: **CI-16** is the institutions layer's rulebook for care work — the paid and unpaid labor that keeps dependents, elders, disabled sentients, families, and communities functioning. Respite must be a real pathway, not a brochure. Care cannot be treated as invisible background capacity that institutions free-ride on. Coercion in care relationships must have an intake door and escalation route. Reproductive and embodiment-related labor must show up in budgets, metrics, service routes, and labor pathways — not disappear into "family responsibility." Shared care, respite, and support-dependency adequacy floors live in **CJS-5.16** (*dependency integrity and disclosure terms*); constitutional meaning lives in **Article VII-D** (*Family, Care Relationships, Reproductive Autonomy, and Non-Separation*), **Article III-D** (*Labor and Economic Floor*), **Article III-C** (*Bodily-Maintenance and Healthcare Access*), and **Chapter Five** *Family and Care Relationships*; this file states what each institution must name, file, and maintain locally.*
 
 **Quick orientation**
 
@@ -39,7 +39,7 @@
 
 *Shared rules live elsewhere.*
 
-- **[CJS-5.16](../corpus_joint_structure.md)** (*Implementation and cross-implementation dependency integrity and disclosure terms*) — **Care, respite, and support-dependency adequacy**: substitution pathways, crisis coverage, accessibility constraints, and relief without abandonment, retaliation, or unreasonable eligibility burden.
+- **[CJS-5.16](../corpus_joint_structure.md)** (*dependency integrity and disclosure terms*) — **Care, respite, and support-dependency adequacy**: substitution pathways, crisis coverage, accessibility constraints, and relief without abandonment, retaliation, or unreasonable eligibility burden.
 - **Article VII-D** (*Family, Care Relationships, Reproductive Autonomy, and Non-Separation*) in **Chapter Ten** — family and care relationships, reproductive autonomy, and non-separation floors.
 - **Article III-D** (*Labor and Economic Floor*) in **Chapter Ten** — fair compensation, collective organization, safe conditions, and leisure and rest for productive activity, including care work where material.
 - **Article III-C** (*Bodily-Maintenance and Healthcare Access*) in **Chapter Ten** — bodily-maintenance and healthcare access for dependents without proxy denial.

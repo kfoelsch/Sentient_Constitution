@@ -4,7 +4,7 @@
 
 - Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions; and [Chapter Ten](../core_10-10_rights_part_a.md#chapter-ten-foundational-rights) rights architecture where rights interfaces are invoked.
 - Downstream: [CI-7.1: Controls declaration](#ci-71-controls-declaration); [CI-7.2: External assurance triggers](#ci-72-external-assurance-triggers); [CI-7.3: Contest-integrity monitoring (Class A and Class B)](#ci-73-contest-integrity-monitoring-class-a-and-class-b).
-- Read with: **CI-7**; **CI-7.1**; **CI-7.2**; **CI-7.3**; **CI-8**; **CJS-5.8**; [CJS-2.1](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract.
+- Read with: **CI-7**; **CI-7.1**; **CI-7.2**; **CI-7.3**; **CI-8**; **CJS-5.6** (*integrity assurance and resilience operations*); [CJS-2.1](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract.
 
 </details>
 
@@ -23,7 +23,7 @@
 
 <br>
 
-*In plain terms: **CI-7** is the institutions layer's check-and-balance rulebook — how each institution shows its safeguards are working, who watches the watchers, what happens when controls fail, when outside review is required, and how evidence is kept so audits, challenges, and handoffs still work. Shared assurance floors live in **CJS-5.8**; this file states what each institution must publish and maintain locally.*
+*In plain terms: **CI-7** is the institutions layer's check-and-balance rulebook — how each institution shows its safeguards are working, who watches the watchers, what happens when controls fail, when outside review is required, and how evidence is kept so audits, challenges, and handoffs still work. Shared assurance floors live in **CJS-5.6** (*integrity assurance and resilience operations*); this file states what each institution must publish and maintain locally.*
 
 **Quick orientation**
 
@@ -31,7 +31,7 @@
 - **CI-7.2** — published triggers that force independent outside review, and escalation when the institution cannot credibly commission that review itself.
 - **CI-7.3** — contest-integrity monitors for high-impact supervised systems: watchdogs that check whether challenge and review pathways still work (pathway integrity, not re-deciding the underlying dispute).
 
-*Shared rules live elsewhere.* Cross-institution assurance terms are in [corpus_joint_structure.md](../corpus_joint_structure.md) **CJS-5.8** (*Implementation and cross-implementation integrity assurance and resilience operations*), including the **Three-lines assurance model** (operations, independent challenge, and independent assurance must stay distinguishable), the **Incident and assurance notification urgency floor** (**NUL-1** through **NUL-4**), and related control-failure and external-assurance floors. **CI-7** does not repeat those rules; it keeps only what each institution must name and maintain locally.
+*Shared rules live elsewhere.* Cross-institution assurance terms are in [corpus_joint_structure.md](../corpus_joint_structure.md) **CJS-5.6** (*integrity assurance and resilience operations*), including the **Three-lines assurance model** (operations, independent challenge, and independent assurance must stay distinguishable), the **Incident and assurance notification urgency floor** (**NUL-1** through **NUL-4**), and related control-failure and external-assurance floors. **CI-7** does not repeat those rules; it keeps only what each institution must name and maintain locally.
 
 **What each institution must publish**
 
@@ -45,7 +45,7 @@
 
 - Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions; and [Chapter Ten](../core_10-10_rights_part_a.md#chapter-ten-foundational-rights) rights architecture where rights interfaces are invoked.
 - Downstream: this section's local operational requirements for **CI-7.1: Controls declaration**.
-- Read with: **CI-7.1**; **CI-7**; **CI-7.2**; **CI-5.3**; **CJS-5.8**; **CJS-5.23**; **CS-3**.
+- Read with: **CI-7.1**; **CI-7**; **CI-7.2**; **CI-5.3**; **CJS-5.6** (*integrity assurance and resilience operations*); **CJS-5.15** (*structural review, correction urgency, and disclosure terms*); **CS-3**.
 
 </details>
 
@@ -66,7 +66,7 @@
 
 *In plain terms: each institution must report on whether its safeguards work — but reporting is not only once a year. Routine attestation is the slowest tier. When something serious happens, default notice rules kick in immediately: ongoing harm, **Type N** data breaches, corruption discoveries, and major control failures must reach affected sentients, the assurance line, and supervisors on a published urgency schedule — not at the next annual review.*
 
-Apply **CJS-5.8** **Control-failure declaration chain** and **Incident and assurance notification urgency floor** for the shared floors. Read **CJS-5.23** for **CUL** alignment, **CS-3** for **Type N** handling, and **CI-5.3** for corruption and integrity-trigger routing. **CI-7.1** keeps only local duties:
+Apply **CJS-5.6** **Control-failure declaration chain** and **Incident and assurance notification urgency floor** for the shared floors. Read **CJS-5.15** (*structural review, correction urgency, and disclosure terms*) for **CUL** alignment, **CS-3** for **Type N** handling, and **CI-5.3** for corruption and integrity-trigger routing. **CI-7.1** keeps only local duties:
 
 - a published **notification urgency framework** with default **NUL-1** through **NUL-4** bands, notice windows, and who must be told at each band;
 - routine attestation cadence (**NUL-4** baseline only — annual or tighter if the institution chooses);
@@ -105,7 +105,7 @@ Reusable disclosure templates are in `implementation/SYSTEMS_IMPLEMENTATION_TEMP
 
 *In plain terms: sometimes internal review is not enough. When serious incidents, repeated failures, or structural changes create real doubt, the institution must bring in independent outside assurance — and publish the triggers that make that mandatory. If the institution itself is conflicted, captured, missing, or stonewalling, escalation goes to **CI-8**.*
 
-Apply [corpus_joint_structure.md](../corpus_joint_structure.md) **CJS-5.8** for the shared external-assurance trigger floor. **CI-7.2** keeps only:
+Apply [corpus_joint_structure.md](../corpus_joint_structure.md) **CJS-5.6** (*integrity assurance and resilience operations*) for the shared external-assurance trigger floor. **CI-7.2** keeps only:
 
 - published trigger criteria (what forces outside review); and
 - **CI-8** escalation duties when the institution cannot credibly commission that review itself.
@@ -116,13 +116,13 @@ Apply [corpus_joint_structure.md](../corpus_joint_structure.md) **CJS-5.8** for 
 
 - Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions; and [Chapter Ten](../core_10-10_rights_part_a.md#chapter-ten-foundational-rights) rights architecture where rights interfaces are invoked.
 - Downstream: this section's local operational requirements for **CI-7.3: Contest-integrity monitoring (Class A and Class B)**.
-- Read with: **CI-7.3**; **CI-7**; **CI-7.1**; **CI-7.2**; **CI-4**; **CI-5**; **CI-6**; **CI-8**; **CI-12**; **CJS-3.3**; **CJS-5.8**.
+- Read with: **CI-7.3**; **CI-7**; **CI-7.1**; **CI-7.2**; **CI-4**; **CI-5**; **CI-6**; **CI-8**; **CI-12**; **CJS-3.3**; **CJS-5.6** (*integrity assurance and resilience operations*).
 - Topic routing (mandatory read-with): **CJS-R06** (*Forum integrity operations, anti-capture, anti-self-judging support*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CF-7**.
 - Topic routing (mandatory read-with): **CJS-R07** (*Forum forensic and analytical support*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CF-8**.
 - Topic routing (mandatory read-with): **CJS-R10** (*Forum performance, backlog requirements, publication timeliness, access…*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CF-11**.
 - Topic routing (mandatory read-with): **CJS-R17** (*Cross-implementation trust integrity (joint operation model)*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CJS-4.3**.
-- Topic routing (mandatory read-with): **CJS-R19** (*Implementation and cross-implementation integrity assurance and resilie…*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CJS-5.8**.
-- Topic routing (primary owner): **CJS-R15** (*Contest-integrity monitoring (pathway integrity, not merits)*) in **CJS-2.1** (*Topic router (stable IDs)*). Mandatory read-with: **CF-4**, **CF-11**, **CJS-5.7**.
+- Topic routing (mandatory read-with): **CJS-R19** (*integrity assurance and resilie…*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CJS-5.6** (*integrity assurance and resilience operations*).
+- Topic routing (primary owner): **CJS-R15** (*Contest-integrity monitoring (pathway integrity, not merits)*) in **CJS-2.1** (*Topic router (stable IDs)*). Mandatory read-with: **CF-4**, **CF-11**, **CJS-5.13** (*procedural integrity and adjudication terms*).
 
 </details>
 
@@ -143,7 +143,7 @@ Apply [corpus_joint_structure.md](../corpus_joint_structure.md) **CJS-5.8** for 
 
 *In plain terms: for high-impact supervised systems (**Class A** or **Class B**), institutions must designate contest-integrity monitors — watchdogs that check whether sentients can still challenge decisions and use review pathways fairly. Monitors watch pathway integrity (are the routes open, timely, and independent enough?), not the merits of individual disputes.*
 
-Apply [corpus_joint_structure.md](../corpus_joint_structure.md) **CJS-5.8** for the shared contest-integrity pathway chain and monitor-independence floor. **CI-7.3** keeps only local duties:
+Apply [corpus_joint_structure.md](../corpus_joint_structure.md) **CJS-5.6** (*integrity assurance and resilience operations*) for the shared contest-integrity pathway chain and monitor-independence floor. **CI-7.3** keeps only local duties:
 
 - who the monitor is;
 - the local monitor file;

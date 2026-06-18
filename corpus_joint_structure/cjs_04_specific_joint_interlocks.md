@@ -202,15 +202,15 @@ Where trust depends on multiple systems, institutions, dependencies, or implemen
 
 Trust claims must remain consistent with **CJS-3.2** (*No false partial compliance across implementation files*), **CJS-3.5 — Classification alignment for supervised scope**, and **CJS-3.6** (*Implementation-label traceability and stricter-wins discipline*), and with the following **Implementation and cross-implementation** clusters from **CJS-5** (*Implementation and cross-implementation operational cluster library*) where those operational facts materially support the trust claim:
 
-- **CJS-5.9** (*auditability and reconstructability terms*)
-- **CJS-5.11** (*independent verification and claim-integrity terms*)
-- **CJS-5.14** (*salience integrity and attention-allocation terms*)
-- **CJS-5.15** (*disclosure sufficiency and observability terms*)
-- **CJS-5.16** (*dependency integrity and disclosure terms*)
-- **CJS-5.17** (*interoperability, portability, and exit-integrity terms*)
-- **CJS-5.18** (*data-retention and lifecycle-integrity terms*)
-- **CJS-5.19** (*graceful degradation and failure-mode integrity terms*)
-- **CJS-5.21** (*reversibility and containment terms*)
+- **CJS-5.3** (*Oversight: auditability and reconstructability terms*)
+- **CJS-5.5** (*Oversight: independent verification and claim-integrity terms*)
+- **CJS-5.9** (*Participation: salience integrity and attention-allocation terms*)
+- **CJS-5.10** (*Participation: disclosure sufficiency and observability terms*)
+- **CJS-5.16** (*Continuity: dependency integrity and disclosure terms*)
+- **CJS-5.17** (*Continuity: interoperability, portability, and exit-integrity terms*)
+- **CJS-5.18** (*Continuity: data-retention and lifecycle-integrity terms*)
+- **CJS-5.19** (*Continuity: graceful degradation and failure-mode integrity terms*)
+- **CJS-5.20** (*Continuity: reversibility and containment terms*)
 
 ### CJS-4.4 Class-scaled lane staffing and competency redundancy
 <details>
@@ -238,13 +238,13 @@ Trust claims must remain consistent with **CJS-3.2** (*No false partial complian
 
 <br>
 
-*In plain terms: high-impact roles cannot depend on one person. For materially binding constitutional lanes — especially under higher-risk system classes — institutions need enough qualified people, documented backup and succession, and real spread of knowledge so the lane stays competent without becoming fragile or captured.*
+*In plain terms: high-impact roles cannot depend on one sentient. For materially binding constitutional lanes — especially under higher-risk system classes — institutions need enough qualified sentients, documented backup and succession, and real spread of knowledge so the lane stays competent without becoming fragile or captured.*
 
 Use this rule for **CJS-R18** (*Class-scaled lane staffing and competency redundancy for materially binding stewardship*), class-scaled lane staffing and competency redundancy for materially binding stewardship. It covers roles with materially binding effect under **Chapter Ten**, section **5**, where `corpus_systems.md` **CS-4 — System classification and handling** or **CS-5 — Critical system stewardship** scales the burden.
 
-Before applying role, role-holder, stewardship, operator, accountable-role, or lane terms in this subsection, apply **CJS-5.0** (*Role-definition preface and standing competency gate interface*) and the **Chapter Seven**, section **1.2** competency gate interface.
+Before applying role, role-holder, stewardship, operator, accountable-role, or lane terms in this subsection, apply **CJS-5.0** (*Cross-band: Role-definition preface and standing competency gate interface*) and the **Chapter Seven**, section **1.2** competency gate interface.
 
-For **constitutional lane** and functional-separation meaning, apply **CJS-5.2** (*Constitutional lane and functional separation*) with **CI-3** (*Institutional design and separation of powers*).
+For **constitutional lane** and functional-separation meaning, apply **CJS-5.11** (*Constitutional lane and functional separation*) with **CI-3** (*Institutional design and separation of powers*).
 
 For **Class A** and **Class B** systems, each institution that hosts a constitutional lane with materially binding duties must have:
 - at least **three sentients** assigned to the lane;
@@ -295,9 +295,9 @@ This subsection gives shared **CJS** terms for the following **primary owner** p
 - **CF-4** (*Panel formation, disclosure, recusal, and lawful bench constitution*)
 - **CF-5** (*Routing operations, transfer, certification, and representative treatment*)
 
-Apply the operational evaluation terms in **CJS-5.7** (*Implementation and cross-implementation procedural integrity and adjudication terms*). This subsection does not replace **CI** or **CF** detail.
+Apply the operational evaluation terms in **CJS-5.13** (*Accountability: procedural integrity and adjudication terms*). This subsection does not replace **CI** or **CF** detail.
 
-Before applying these procedural role terms, apply the role-definition preface in **CJS-5.0** (*Role-definition preface and standing competency gate interface*), including the competency gate and standing interface.
+Before applying these procedural role terms, apply the role-definition preface in **CJS-5.0** (*Cross-band: Role-definition preface and standing competency gate interface*), including the competency gate and standing interface.
 
 - **Delegated binding body:** a standing or recurring body below a parent institution that exercises materially binding delegated authority within a published scope.
 - **Lawful independent forum:** an adjudicative or equivalent merits forum formed under published authority, with required competence, quorum, and conflict-screened independence.

@@ -16,7 +16,6 @@ CJS5_GLOB = "corpus_joint_structure/cjs_05*.md"
 
 SECTION_SPLIT_RE = re.compile(r"(?=^## CJS-5)", re.MULTILINE)
 SECTION_ID_RE = re.compile(r"^## (CJS-5\S+)", re.MULTILINE)
-CLUSTER_INTRO_RE = re.compile(r"^Implementation and cross-implementation ", re.I)
 
 CJS50_PINNED = {
     "Competency gate and standing interface",
@@ -42,8 +41,6 @@ def sortable_terms(section_id: str, body: str) -> list[str]:
     terms = [match.group(1).strip() for match in OP_BLOCK_RE.finditer(body)]
     filtered: list[str] = []
     for title in terms:
-        if CLUSTER_INTRO_RE.match(title):
-            continue
         if section_id.startswith("CJS-5.0") and title in CJS50_PINNED:
             continue
         filtered.append(title)

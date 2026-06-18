@@ -308,6 +308,8 @@ A system is non-compliant where it:
 
 ## CHAPTER FOUR: BURDEN OF PROOF, TRACEABILITY, AND VERIFICATION
 
+**Application baseline.** This chapter applies subject to [Chapter One](core_01_b_stewardship_capacity_principles.md#chapter-01-principles-and-constraints) and [Chapters Two and Three](#chapter-two-definition-structure-and-component-requirements) in this file. Burden allocation, evidence, traceability, observability, and verification discipline implement the [Constitutional Triad](core_00_preamble.md#constitutional-triad) **oversight** and **accountability** legs established in [Chapter 00](core_00_preamble.md#chapter-00-preamble--foundational-requirements); **participation** where materially required through verification accessibility and independent challenge under sections **5** and **6**. Requirements scale with [material stake](core_00_preamble.md#material-stake).
+
 <details>
 <summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): where Chapter Four lives and what stays here</span></strong></summary>
 

@@ -4,8 +4,8 @@
 
 - Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions; and [Chapter Ten](../core_10-10_rights_part_a.md#chapter-ten-foundational-rights) rights architecture where rights interfaces are invoked.
 - Downstream: [CI-11.1: Continuity planning and consequence interface](#ci-111-continuity-planning-and-consequence-interface); [CI-11.2: High-impact governance continuity and exercises](#ci-112-high-impact-governance-continuity-and-exercises); [CI-11.3: Class-aligned fiscal orientation](#ci-113-class-aligned-fiscal-orientation); [CI-11.4: Local alignment duties](#ci-114-local-alignment-duties).
-- Read with: **CI-11**; **CI-10.1**; **CI-10.2**; **CI-10**; **CI-9.4**; [CJS-5.16](../corpus_joint_structure/cjs_05d_00_dependency_exit_lifecycle_integrity.md#cjs-516-implementation-and-cross-implementation-dependency-integrity-and-disclosure-terms); [CJS-5.8](../corpus_joint_structure/cjs_05b_00_evidence_audit_claim_integrity.md#cjs-58-implementation-and-cross-implementation-integrity-assurance-and-resilience-operations).
-- Topic routing (primary owner): **CJS-R18** (*Class-scaled lane staffing and competency redundancy for materially bin…*) in **CJS-2.1** (*Topic router (stable IDs)*). Mandatory read-with: **CJS-4.4**, **CJS-5.2**.
+- Read with: **CI-11**; **CI-10.1**; **CI-10.2**; **CI-10**; **CI-9.4**; **CJS-5.16** (*dependency integrity and disclosure terms*); **CJS-5.6** (*integrity assurance and resilience operations*).
+- Topic routing (primary owner): **CJS-R18** (*Class-scaled lane staffing and competency redundancy for materially bin…*) in **CJS-2.1** (*Topic router (stable IDs)*). Mandatory read-with: **CJS-4.4**, **CJS-5.11** (*distributed and proportional authority terms*).
 
 </details>
 
@@ -24,7 +24,7 @@
 
 <br>
 
-*In plain terms: **CI-11** is the institutions layer's "do you have enough to keep going honestly?" rulebook — whether an institution has adequate funding, staffing, and capacity to stay operational through stress, whether pay and incentives reward constitutional duty instead of short-term optics, and what happens when leaders sabotage or willfully neglect continuity planning. Shared resource-dependency evaluation lives in **CJS-5.16**; severe control-failure and resilience terms live in **CJS-5.8**; fiscal charge design lives in **CI-10**; this file states what each institution must trigger, publish, and maintain locally.*
+*In plain terms: **CI-11** is the institutions layer's "do you have enough to keep going honestly?" rulebook — whether an institution has adequate funding, staffing, and capacity to stay operational through stress, whether pay and incentives reward constitutional duty instead of short-term optics, and what happens when leaders sabotage or willfully neglect continuity planning. Shared resource-dependency evaluation lives in **CJS-5.16** (*dependency integrity and disclosure terms*); severe control-failure and resilience terms live in **CJS-5.6** (*integrity assurance and resilience operations*); fiscal charge design lives in **CI-10**; this file states what each institution must trigger, publish, and maintain locally.*
 
 **Quick orientation**
 
@@ -35,13 +35,13 @@
 
 *In plain terms: you cannot run a serious institution on vibes and vanity metrics. If continuity depends on a resource, name it, stress-test it, and do not let pay schemes reward the sentients who weaken it.*
 
-*Shared rules live elsewhere.* Resource and continuity dependency evaluation is in [corpus_joint_structure.md](../corpus_joint_structure.md) **CJS-5.16** (*Implementation and cross-implementation dependency integrity and disclosure terms*), especially **Resource and continuity dependency adequacy**. Severe control failure, verified misconduct, evidence custody, and resilience claims are read with **CJS-5.8** (*Implementation and cross-implementation integrity assurance and resilience operations*). **CI-11** does not repeat those floors; it keeps only institutional stewardship triggers, consequence interfaces, and fiscal-allocation alignment duties.
+*Shared rules live elsewhere.* Resource and continuity dependency evaluation is in [corpus_joint_structure.md](../corpus_joint_structure.md) **CJS-5.16** (*dependency integrity and disclosure terms*), especially **Resource and continuity dependency adequacy**. Severe control failure, verified misconduct, evidence custody, and resilience claims are read with **CJS-5.6** (*integrity assurance and resilience operations*). **CI-11** does not repeat those floors; it keeps only institutional stewardship triggers, consequence interfaces, and fiscal-allocation alignment duties.
 
 ### CI-11.1: Continuity planning and consequence interface
 
 Institutions must maintain resource adequacy for safe continuity and constitutional performance.
 
-Apply **CJS-5.16** for shared dependency-chain evaluation across funding, staffing, capacity, and comparable resources. Read with **CJS-5.8** where severe control failure, verified misconduct, evidence custody, or resilience claims are implicated.
+Apply **CJS-5.16** (*dependency integrity and disclosure terms*) for shared dependency-chain evaluation across funding, staffing, capacity, and comparable resources. Read with **CJS-5.6** (*integrity assurance and resilience operations*) where severe control failure, verified misconduct, evidence custody, or resilience claims are implicated.
 
 **CI-11** keeps only the institutional stewardship trigger and local consequence interface:
 
