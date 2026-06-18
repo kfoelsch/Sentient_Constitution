@@ -1,4 +1,4 @@
-# Sentient Constitution — Constitutional contract, legitimacy, authorization, and stewardship
+# Constitutional contract, legitimacy, authorization, and stewardship
 
 This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one instrument. It contains **Chapter Eleven**; chapter numbering and cross-references match the integrated instrument. Reading order, the binding/support split, and corpus edition metadata are maintained in [README.md](README.md).
 

@@ -689,7 +689,7 @@ def build_band_file(
     band = spec["band"]
     leg = BAND_LABELS[band]
     parts = [
-        f"# Sentient Constitution — Constitutional definitions ({leg} band)",
+        f"# Constitutional definitions ({leg} band)",
         "",
         "This file is **part of the Sentient Constitution** and is **binding only together** "
         "with the other numbered `core_*` files read as one instrument. It contains "

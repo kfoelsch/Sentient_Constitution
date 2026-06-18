@@ -1,4 +1,4 @@
-# Sentient Constitution — Anti-Constitutional Misconduct
+# Anti-Constitutional Misconduct
 
 This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one instrument. It contains **Chapter Eight**, the standing-pipeline top-slot finalization chapter for final Violation Axis `s = 7`, `s = 8`, and `s = 9` anti-constitutional misconduct assignment. Chapter numbering and cross-references match the integrated instrument. Reading order, the binding/support split, and corpus edition metadata are maintained in [README.md](README.md).
 

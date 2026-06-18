@@ -1,4 +1,4 @@
-# Sentient Constitution — Values Principles (Chapter One, Part A)
+# Values Principles (Chapter One, Part A)
 
 This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one instrument. It contains **Chapter One, Part A** (§§1–5: interpretation, aims, wellbeing, Safety and Truth, Trust).
 

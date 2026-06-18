@@ -1,4 +1,4 @@
-# Sentient Constitution — Constitutional definitions
+# Constitutional definitions
 
 This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one instrument. It contains **Chapter Five, Part A** — reader guidance, alphabetical directory, §3.0 meta rules, and the constitutional compass.
 

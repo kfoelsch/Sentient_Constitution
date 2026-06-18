@@ -1,4 +1,4 @@
-# Sentient Constitution — Amendment, supremacy, and non-regression
+# Amendment, supremacy, and non-regression
 
 This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one instrument. It contains **Chapters Twelve through Fourteen**; chapter numbering and cross-references match the integrated instrument. Reading order, the binding/support split, and corpus edition metadata are maintained in [README.md](README.md).
 

@@ -1,4 +1,4 @@
-# Sentient Constitution — Preamble
+# Preamble
 
 This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one instrument. It contains **Chapter 00** (preamble / foundational requirements). Reading order and edition metadata are maintained in [README.md](README.md).
 

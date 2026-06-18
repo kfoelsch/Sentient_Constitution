@@ -1,4 +1,4 @@
-# Sentient Constitution — Constitutional definitions (Oversight band)
+# Constitutional definitions (Oversight band)
 
 This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one instrument. It contains **Chapter Five, Oversight band** — Independent, Semi-independent, and Dependent cluster definitions assigned to the **Oversight** constitutional band. Reading order and the compass live in [core_05-05_definitions_a_independent.md](core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions).
 

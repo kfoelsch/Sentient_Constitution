@@ -1,4 +1,4 @@
-# Sentient Constitution — Contribution, violation, and standing
+# Contribution, violation, and standing
 
 This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one instrument. It contains **Chapter Six**: the standing-pipeline foundation for standing records, verified inputs, slot grammar, primary category defaults, the constitutional-outcome slot baseline, the Contribution Axis, and the Violation Axis. Standing effects, Violation Axis attachments, supplemental descriptors, cross-axis integration, no-substitution mechanics, enforcement anchors, and the Chapter Eight pointer continue in [Chapter Seven — Standing Effects and Integration](core_07-07_standing_integration.md#chapter-seven-standing-effects-and-integration). Final top-slot review for Violation Axis `s = 7`, `s = 8`, and `s = 9` anti-constitutional misconduct remains in [Chapter Eight](core_08-08_misconduct.md#chapter-eight-anti-constitutional-misconduct). Reading order, the binding/support split, and corpus edition metadata are maintained in [README.md](README.md).
 

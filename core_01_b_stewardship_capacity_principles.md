@@ -1,4 +1,4 @@
-# Sentient Constitution — Stewardship, Capacity, and Constitutional Safeguards (Chapter One, Part B)
+# Stewardship, Capacity, and Constitutional Safeguards (Chapter One, Part B)
 
 This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one instrument. It contains **Chapter One, Part B** (§§6–13).
 
