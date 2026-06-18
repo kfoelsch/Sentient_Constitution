@@ -42,6 +42,10 @@ This family collects the operational clusters that make affected-party participa
 - Downstream: this section's local operational requirements for **CJS-5.12 Implementation and cross-implementation quorum and participatory legitimacy terms**.
 - Read with: **CJS-5.2 and CJS-5.12**; **CJS-5.7**.
 
+- Read with: **CJS-5.2** (*Implementation and cross-implementation distributed and proportional authority terms*), **CJS-5.12** (*Implementation and cross-implementation quorum and participatory legitimacy terms*), and **CJS-5.7** (*Implementation and cross-implementation procedural integrity and adjudication terms*) for authority, participation legitimacy, and procedural integrity terms
+- Read with: **Sentient Constitution Chapter Eleven** section 4
+- Read with: **Chapter Ten Article IX-C**
+- Read with: **Chapter Ten Article XI**
 </details>
 
 <details>
@@ -60,12 +64,6 @@ This family collects the operational clusters that make affected-party participa
 <br>
 
 Use this rule when participation or quorum rules affect materially binding outcomes within a standalone system, institution, forum, or bounded decision domain, or across more than one implementation file.
-
-Read it with:
-- **CJS-5.2** (*Implementation and cross-implementation distributed and proportional authority terms*), **CJS-5.12** (*Implementation and cross-implementation quorum and participatory legitimacy terms*), and **CJS-5.7** (*Implementation and cross-implementation procedural integrity and adjudication terms*) for authority, participation legitimacy, and procedural integrity terms
-- **Sentient Constitution Chapter Eleven** section 4
-- **Chapter Ten Article IX-C**
-- **Chapter Ten Article XI**
 
 Implementation and cross-implementation quorum and participatory legitimacy terms
 - OP-O: Quorum and participation terms must identify the governing layer, apply the correct legitimacy rule for that layer, and operate consistently across implementation interactions.
@@ -144,6 +142,8 @@ Weighted participation
 - Downstream: this section's local operational requirements for **CJS-5.13 Implementation and cross-implementation comprehensibility and cognitive accessibility terms**.
 - Read with: **CJS-5.13**.
 
+- Read with: **CJS-5.13 — Comprehensibility and Cognitive Accessibility**
+- Read with: `corpus_systems.md` **Protocol B — System Comprehensibility and Complexity Stewardship**
 </details>
 
 <details>
@@ -162,10 +162,6 @@ Weighted participation
 <br>
 
 Use this rule when transparency, participation, auditability, or accountability depends on information being understandable within a standalone system, institution, forum, or bounded decision domain, or across implementation interfaces.
-
-Read it with:
-- **CJS-5.13 — Comprehensibility and Cognitive Accessibility**
-- `corpus_systems.md` **Protocol B — System Comprehensibility and Complexity Stewardship**
 
 Implementation and cross-implementation comprehensibility and cognitive accessibility terms
 - OP-O: Material information must be understandable, evaluable, and usable for lawful participation, audit, and oversight.
@@ -235,6 +231,11 @@ Summary integrity
 - Read with: **CJS-5.14 and CJS-5.15**; **CJS-5.15**; **CJS-5.22**.
 - Topic routing (mandatory read-with): **CJS-R17** (*Cross-implementation trust integrity (joint operation model)*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CJS-4.3**.
 
+- Read with: **CJS-5.14** (*Implementation and cross-implementation salience integrity and attention-allocation terms*) and **CJS-5.15** (*Implementation and cross-implementation disclosure sufficiency and observability terms*) — System Status, Risk, and Scope Representation
+- Read with: **CJS-5.15 — Transparency and Disclosure**
+- Read with: **CJS-5.22 — Adversarial Robustness and Abuse Resistance**
+- Read with: **Article XV-A**
+- Read with: **Chapter Ten** incentive-alignment constraints
 </details>
 
 <details>
@@ -254,13 +255,6 @@ Summary integrity
 
 
 Use this rule when a system decides what sentients see first, see often, see rarely, or do not see at all. This includes ranking, recommendation, filtering, search order, notifications, feeds, alerts, and other tools that steer attention.
-
-Read it with:
-- **CJS-5.14** (*Implementation and cross-implementation salience integrity and attention-allocation terms*) and **CJS-5.15** (*Implementation and cross-implementation disclosure sufficiency and observability terms*) — System Status, Risk, and Scope Representation
-- **CJS-5.15 — Transparency and Disclosure**
-- **CJS-5.22 — Adversarial Robustness and Abuse Resistance**
-- **Article XV-A**
-- **Chapter Ten** incentive-alignment constraints
 
 Implementation and cross-implementation salience integrity and attention-allocation terms
 - OP-O: Systems that direct attention must help sentients make informed choices and must not give a misleading picture of reality.
@@ -323,6 +317,10 @@ User agency and control
 - Read with: **CJS-5.15**; **CJS-5.16**.
 - Topic routing (mandatory read-with): **CJS-R17** (*Cross-implementation trust integrity (joint operation model)*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CJS-4.3**.
 
+- Read with: **CJS-5.15 — Transparency and Disclosure**
+- Read with: **CJS-5.16 — Dependency Awareness, Disclosure, and Risk Integrity** where dependencies matter
+- Read with: **Article XV-A**
+- Read with: **Article VII-B**
 </details>
 
 <details>
@@ -342,12 +340,6 @@ User agency and control
 
 
 Use this rule when informed participation, independent verification, or attribution depends on disclosure within a standalone system, institution, forum, or bounded decision domain, or across systems, dependencies, institutions, or implementation layers.
-
-Read it with:
-- **CJS-5.15 — Transparency and Disclosure**
-- **CJS-5.16 — Dependency Awareness, Disclosure, and Risk Integrity** where dependencies matter
-- **Article XV-A**
-- **Article VII-B**
 
 Implementation and cross-implementation disclosure sufficiency and observability terms
 - OP-O: Affected parties must be given enough clear information to understand what is happening, why it matters, who or what is responsible, and how the claim can be checked.

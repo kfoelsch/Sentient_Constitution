@@ -3,7 +3,8 @@
 
 Per ``doc_architecture.md`` rule 10 (Trace contents), ``Read with:`` routing
 belongs inside the owning unit's Trace block. Operative prose must not carry
-parallel ``**Also read**`` (or equivalent) routing sections with bullet lists.
+parallel ``**Also read**`` (or equivalent) routing sections with bullet lists,
+nor standalone ``Read it with:`` headers followed by routing bullets.
 
 This gate flags those routing headers outside ``<details>`` blocks in the
 binding corpus scope.
@@ -25,6 +26,8 @@ FORBIDDEN_ROUTING_HEADER_RES = (
     re.compile(r"^\*\*Also read\*\*:?\s*$", re.IGNORECASE),
     re.compile(r"^\*\*See also\*\*:?\s*$", re.IGNORECASE),
     re.compile(r"^\*\*Related reading\*\*:?\s*$", re.IGNORECASE),
+    re.compile(r"^Read it with:\s*$", re.IGNORECASE),
+    re.compile(r"^Read with:\s*$", re.IGNORECASE),
 )
 
 

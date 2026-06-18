@@ -48,6 +48,12 @@ This family collects the operational clusters for authority distribution, overri
 - Topic routing (mandatory read-with): **CJS-R14** (*Institutional functional lanes and non-delegable splits*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CI-3**.
 - Topic routing (mandatory read-with): **CJS-R18** (*Class-scaled lane staffing and competency redundancy for materially bin…*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owners **CI-3**, **CI-4**, **CI-11**, **CI-12**.
 
+- Read with: **CJS-5.2** (*Implementation and cross-implementation distributed and proportional authority terms*) and **CJS-5.12** (*Implementation and cross-implementation quorum and participatory legitimacy terms*) — Distributed and Proportional Authority
+- Read with: **CJS-5.15 — Transparency and Disclosure**
+- Read with: **CJS-5.9 — Auditability**
+- Read with: **CJS-5.23** (*Implementation and cross-implementation structural review, correction urgency, and disclosure terms*) and **CJS-5.8** (*Implementation and cross-implementation integrity assurance and resilience operations*) — Evolution, Revalidation, and Non-Entrenchment
+- Read with: **CJS-5.7 — Procedural Integrity and Adjudication**
+- Read with: `corpus_systems.md` **CS-5 — Critical system stewardship**
 </details>
 
 <details>
@@ -68,18 +74,14 @@ This family collects the operational clusters for authority distribution, overri
 
 Use this rule when legitimate governance, participation, concentration control, or system-wide review depends on a standalone system, institution, forum, or bounded decision domain, or on how institutions, systems, dependencies, or implementation layers work together.
 
-Read it with:
-- **CJS-5.2** (*Implementation and cross-implementation distributed and proportional authority terms*) and **CJS-5.12** (*Implementation and cross-implementation quorum and participatory legitimacy terms*) — Distributed and Proportional Authority
-- **CJS-5.15 — Transparency and Disclosure**
-- **CJS-5.9 — Auditability**
-- **CJS-5.23** (*Implementation and cross-implementation structural review, correction urgency, and disclosure terms*) and **CJS-5.8** (*Implementation and cross-implementation integrity assurance and resilience operations*) — Evolution, Revalidation, and Non-Entrenchment
-- **CJS-5.7 — Procedural Integrity and Adjudication**
-- `corpus_systems.md` **CS-5 — Critical system stewardship**
+One cluster-level term is pinned at the top of this section in functional reading order rather than alphabetical order, because distributed-authority failures often surface only when authority, oversight, and verification are judged together; a sub-rule can look satisfied in isolation while capture, monopoly, or illegitimacy remains in the combined claim. It states the integrated obligation, evaluation, and compliance floor for **CJS-5.2** as a whole: authority, oversight, and verification must be assessed as one claim before any named sub-rule is treated as satisfied on its own.
 
 Implementation and cross-implementation distributed and proportional authority terms
 - OP-O: Authority, oversight, and verification must be distributed, transparent, and resistant to capture.
 - OP-E: Reviewers must evaluate all required components together.
 - OP-C: Governance legitimacy is non-compliant if any material component is missing, unevaluated, or bypassed.
+
+The sub-rules below apply that cluster floor to specific anti-concentration, distribution, accountability, classification, lane, systemic, formation, oversight, participation, and stewardship dimensions. Read them together with the cluster floor and the CJS read-with chain.
 
 Anti-concentration guardrails and trigger mitigation
 - OP-O: Systems must define concentration indicators and thresholds, and activate mitigation when thresholds are crossed or credibly approached.
@@ -143,6 +145,13 @@ Stewardship-role depth and non-symbolic governance boundary
 - Downstream: this section's local operational requirements for **CJS-5.3 Implementation and cross-implementation intervention governance and override-authorization terms**.
 - Read with: **CJS-5.20**; **CJS-5.9**; **CJS-5.23 and CJS-5.8**; **CJS-5.3**; **CJS-5.2 and CJS-5.12**; **CJS-5.5**.
 
+- Read with: **CJS-5.3 — Intervention governance and override authorization**
+- Read with: **CJS-5.20 — Intervention and Override Rights**
+- Read with: **CJS-5.2** (*Implementation and cross-implementation distributed and proportional authority terms*) and **CJS-5.12** (*Implementation and cross-implementation quorum and participatory legitimacy terms*) — Distributed and Proportional Authority
+- Read with: **CJS-5.5 — Burden of Justification and Constraint**
+- Read with: **CJS-5.6 — Constrained Secrecy and Protected Investigations**
+- Read with: **CJS-5.9 — Auditability**
+- Read with: **CJS-5.23** (*Implementation and cross-implementation structural review, correction urgency, and disclosure terms*) and **CJS-5.8** (*Implementation and cross-implementation integrity assurance and resilience operations*) — Evolution, Revalidation, and Non-Entrenchment
 </details>
 
 <details>
@@ -162,19 +171,14 @@ Stewardship-role depth and non-symbolic governance boundary
 
 Use this rule when governance-level intervention or override authorization depends on a standalone system, institution, forum, or bounded decision domain, or on how institutions, systems, or implementation layers work together.
 
-Read it with:
-- **CJS-5.3 — Intervention governance and override authorization**
-- **CJS-5.20 — Intervention and Override Rights**
-- **CJS-5.2** (*Implementation and cross-implementation distributed and proportional authority terms*) and **CJS-5.12** (*Implementation and cross-implementation quorum and participatory legitimacy terms*) — Distributed and Proportional Authority
-- **CJS-5.5 — Burden of Justification and Constraint**
-- **CJS-5.6 — Constrained Secrecy and Protected Investigations**
-- **CJS-5.9 — Auditability**
-- **CJS-5.23** (*Implementation and cross-implementation structural review, correction urgency, and disclosure terms*) and **CJS-5.8** (*Implementation and cross-implementation integrity assurance and resilience operations*) — Evolution, Revalidation, and Non-Entrenchment
+One cluster-level term is pinned at the top of this section in functional reading order rather than alphabetical order, because intervention paths can look authorized, sequenced, or well-recorded in separate pieces while the governance intervention as a whole remains unbounded, unchallengeable, or disproportionate. It states the integrated obligation, evaluation, and compliance floor for **CJS-5.3** as a whole: governance intervention and override authorization must be assessed as one claim before any named sub-rule is treated as satisfied on its own.
 
 Implementation and cross-implementation intervention governance and override-authorization terms
 - OP-O: Governance intervention must be necessary, authorized, sequenced, bounded, recorded, challengeable, and proportional.
 - OP-E: Reviewers must evaluate all required components together.
 - OP-C: A claim of intervention-governance validity is non-compliant if any material component is missing, unevaluated, or bypassed.
+
+The sub-rules below apply that cluster floor to specific authorization, emergency-limit, quorum, necessity-coupling, proportional-scaling, and records-transparency-challenge dimensions. Read them together with the cluster floor and the CJS read-with chain.
 
 Authorization and role-scope discipline
 - OP-O: Instruments must define who may authorize or execute intervention, under what conditions, and within what limits.
@@ -218,6 +222,16 @@ Records, transparency, and challenge pathway duties
 - Downstream: this section's local operational requirements for **CJS-5.4 Implementation and cross-implementation reflexive transparency and accountability terms**.
 - Read with: **CJS-5.15**; **CJS-5.9**; **CJS-5.10**; **CJS-5.11**; **CJS-5.23 and CJS-5.8**; **CJS-5.4 and CJS-5.8**.
 
+- Read with: **CJS-5.4** (*Implementation and cross-implementation reflexive transparency and accountability terms*) and **CJS-5.8** (*Implementation and cross-implementation integrity assurance and resilience operations*) — Reflexive Transparency and Accountability
+- Read with: **CJS-5.15 — Transparency and Disclosure**
+- Read with: **CJS-5.9 — Auditability**
+- Read with: **CJS-5.10 — Tiered Transparency and Audit Access**
+- Read with: **CJS-5.11 — Independent Verification and Integrity of Claims**
+- Read with: **CJS-5.23** (*Implementation and cross-implementation structural review, correction urgency, and disclosure terms*) and **CJS-5.8** (*Implementation and cross-implementation integrity assurance and resilience operations*) — Evolution, Revalidation, and Non-Entrenchment
+- Read with: **CJS-5.2** (*Implementation and cross-implementation distributed and proportional authority terms*) and **CJS-5.12** (*Implementation and cross-implementation quorum and participatory legitimacy terms*) — Distributed and Proportional Authority
+- Read with: **CJS-5.5 — Burden of Justification and Constraint**
+- Read with: **CJS-5.6 — Constrained Secrecy and Protected Investigations**
+- Read with: **CJS-5.7 — Procedural Integrity and Adjudication**
 </details>
 
 <details>
@@ -237,22 +251,14 @@ Records, transparency, and challenge pathway duties
 
 Use this rule when legitimacy depends on authorities holding themselves to equal or stronger standards than they apply to others.
 
-Read it with:
-- **CJS-5.4** (*Implementation and cross-implementation reflexive transparency and accountability terms*) and **CJS-5.8** (*Implementation and cross-implementation integrity assurance and resilience operations*) — Reflexive Transparency and Accountability
-- **CJS-5.15 — Transparency and Disclosure**
-- **CJS-5.9 — Auditability**
-- **CJS-5.10 — Tiered Transparency and Audit Access**
-- **CJS-5.11 — Independent Verification and Integrity of Claims**
-- **CJS-5.23** (*Implementation and cross-implementation structural review, correction urgency, and disclosure terms*) and **CJS-5.8** (*Implementation and cross-implementation integrity assurance and resilience operations*) — Evolution, Revalidation, and Non-Entrenchment
-- **CJS-5.2** (*Implementation and cross-implementation distributed and proportional authority terms*) and **CJS-5.12** (*Implementation and cross-implementation quorum and participatory legitimacy terms*) — Distributed and Proportional Authority
-- **CJS-5.5 — Burden of Justification and Constraint**
-- **CJS-5.6 — Constrained Secrecy and Protected Investigations**
-- **CJS-5.7 — Procedural Integrity and Adjudication**
+One cluster-level term is pinned at the top of this section in functional reading order rather than alphabetical order, because reflexive-accountability failures usually appear only when authorities are held to the same or stronger standards they impose; meeting transparency or audit sub-rules for subjects does not by itself prove equal treatment for the authority. It states the integrated obligation, evaluation, and compliance floor for **CJS-5.4** as a whole: reflexive transparency and accountability must be assessed as one claim before any named sub-rule is treated as satisfied on its own.
 
 Implementation and cross-implementation reflexive transparency and accountability terms
 - OP-O: Authorities must be transparent, auditable, realistic about enforcement capacity, open to challenge, and protected against corruption.
 - OP-E: Reviewers must assess all relevant authorities, system components, dependencies, institutional roles, and implementation-layer interactions together.
 - OP-C: Reflexive accountability is non-compliant when authorities use weaker standards for themselves than for subjects.
+
+The sub-rules below apply that cluster floor to specific anti-corruption, enforcement-capacity, misrepresentation, revalidation, opaque-enforcement, parity, pluralistic-validation, and transparency-audit dimensions. Read them together with the cluster floor and the CJS read-with chain.
 
 Anti-corruption and undue-influence auditability controls
 - OP-O: Material benefits and influence channels that could distort high-stakes decisions must be recorded and disclosed in proportion to impact.
@@ -307,6 +313,15 @@ Transparency, audit, and verification-integrity duties
 - Read with: **CJS-5.15**; **CJS-5.17**; **CJS-5.9**; **CJS-5.23 and CJS-5.8**; **CJS-5.5**; **CJS-5.2 and CJS-5.12**.
 - Topic routing (mandatory read-with): **CJS-R01** (*Delegated binding bodies and hybrid composition (non-forum institutions)*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CI-9.3**.
 
+- Read with: **CJS-5.5 — Burden of Justification and Constraint**
+- Read with: **CJS-5.2** (*Implementation and cross-implementation distributed and proportional authority terms*) and **CJS-5.12** (*Implementation and cross-implementation quorum and participatory legitimacy terms*) — Distributed and Proportional Authority
+- Read with: **CJS-5.15 — Transparency and Disclosure**
+- Read with: **CJS-5.17 — Interoperability, Portability, and Exit Integrity**
+- Read with: **CJS-5.9 — Auditability**
+- Read with: **CJS-5.23** (*Implementation and cross-implementation structural review, correction urgency, and disclosure terms*) and **CJS-5.8** (*Implementation and cross-implementation integrity assurance and resilience operations*) — Evolution, Revalidation, and Non-Entrenchment
+- Read with: **Chapter One §6.4.1 — Rights-Collision Decision Test**
+- Read with: **`corpus_forum.md` CF-12 through CF-14 — Forum continuity, fallback operation, and emergency adjudication**
+- Read with: Core definitions for necessity, proportionality, materiality, burden, and anti-enclosure.
 </details>
 
 <details>
@@ -327,21 +342,14 @@ Transparency, audit, and verification-integrity duties
 
 Use this rule when restrictions, least-restrictive choices, or revalidation depend on standalone system behavior or combined institutional, system, dependency, or implementation-layer behavior.
 
-Read it with:
-- **CJS-5.5 — Burden of Justification and Constraint**
-- **CJS-5.2** (*Implementation and cross-implementation distributed and proportional authority terms*) and **CJS-5.12** (*Implementation and cross-implementation quorum and participatory legitimacy terms*) — Distributed and Proportional Authority
-- **CJS-5.15 — Transparency and Disclosure**
-- **CJS-5.17 — Interoperability, Portability, and Exit Integrity**
-- **CJS-5.9 — Auditability**
-- **CJS-5.23** (*Implementation and cross-implementation structural review, correction urgency, and disclosure terms*) and **CJS-5.8** (*Implementation and cross-implementation integrity assurance and resilience operations*) — Evolution, Revalidation, and Non-Entrenchment
-- **Chapter One §6.4.1 — Rights-Collision Decision Test**
-- **`corpus_forum.md` CF-12 through CF-14 — Forum continuity, fallback operation, and emergency adjudication**
-- Core definitions for necessity, proportionality, materiality, burden, and anti-enclosure.
+One cluster-level term is pinned at the top of this section in functional reading order rather than alphabetical order, because restriction claims can look necessary, proportional, or well-documented in separate pieces while the material restriction as a whole remains unjustified, non-least-restrictive, or unlawfully persistent. It states the integrated obligation, evaluation, and compliance floor for **CJS-5.5** as a whole: burden of justification and constraint must be assessed as one claim before any named sub-rule is treated as satisfied on its own.
 
 Implementation and cross-implementation burden-of-justification and constraint terms
 - OP-O: Anyone imposing a material restriction must justify it.
 - OP-E: Evaluation must assess all relevant system components, dependencies, institutional roles, and implementation-layer interactions together.
 - OP-C: It is non-compliant to impose or maintain a material restriction when any material component, dependency, institutional role, or implementation-layer interaction has not been fully evaluated under the same review record.
+
+The sub-rules below apply that cluster floor to specific revenue and access-burden, collective-health support, disclosure, incentive-alignment, anti-enclosure, mechanism-integrity, burden-assignment, rights-collision, least-restrictive, survival-access, and revalidation dimensions. Read them together with the cluster floor and the CJS read-with chain.
 
 Class-aligned revenue and access-burden floor
 - OP-O: Taxes, fees, subscriptions, user charges, commercial-use surcharges, priority fees, or similar revenue measures that materially affect access to a governed system, institution, forum pathway, or implementation interface must align with `corpus_systems.md` **CS-4 — System classification and handling** system class, dependency, and rights-pathway risk. General extraction must not make **Class A** survival access, **Class B** normal-operation-critical access, baseline rights pathways, or ordinary access to infrastructure-like **Class C** coordination practically unavailable.
@@ -389,9 +397,9 @@ Substantive showing and least-restrictive proof
 - OP-C: Speculative harm claims or missing least-restrictive proof are non-compliant.
 
 Survival-critical access and voluntary-market interface
-- OP-O: Where survival-critical access, essential resources, housing, connectivity, or comparable baseline participation depends on a governed system, public program, market interface, or supervised commercial pathway, the baseline floor must not be made contingent on labor, market participation, premium access, or discretionary purchasing. Voluntary exchange, entrepreneurship, cooperative production, and saving may operate above the floor only within constitutional and incorporated constraints.
-- OP-E: Reviewers must compare access design, public revenue, user charges, market infrastructure, eligibility, fraud control, regional adequacy, cost-of-living or comparable local measures, and systems classification together. Where market plumbing, pricing, securities, licensing, or platform infrastructure materially conditions baseline access, review must include `corpus_systems.md` **CS-4 — System classification and handling** and **CS-5 — Critical system stewardship** classification and stewardship duties.
-- OP-C: An access or market arrangement is non-compliant if baseline survival access is practically conditioned on labor or market participation, if nominal floor amounts ignore material place-based necessity without justification, if market infrastructure evades classification-scaled stewardship, or if revenue design shifts the primary burden onto indispensable access contrary to the class-aligned revenue floor.
+- OP-O: People must be able to reach survival-level essentials—housing, connectivity, essential resources, and comparable baseline participation—without being forced into work, market participation, premium upgrades, or discretionary spending just to clear the floor. When a governed system, public program, market interface, or supervised commercial pathway delivers that access, it must protect the floor first. Buying, selling, entrepreneurship, cooperative production, and saving may operate above the floor only within constitutional and incorporated constraints.
+- OP-E: Reviewers must examine the whole access design in one review: who qualifies, what users pay, how the market or platform is built, fraud controls, whether the floor works across regions and local costs of living, and how the system is classified. Where pricing, securities, licensing, or platform infrastructure materially controls baseline access, the review must also apply `corpus_systems.md` **CS-4 — System classification and handling** and **CS-5 — Critical system stewardship**.
+- OP-C: An arrangement is non-compliant if survival-level access effectively requires work or market participation; if published floor amounts ignore real place-based necessity without justification; if market infrastructure evades classification-scaled stewardship; or if revenue design shifts the primary cost onto indispensable access in violation of the class-aligned revenue floor.
 
 Temporal discipline and revalidation
 - OP-O: Material restrictions covered by this rule include limits on rights exercise, access, participation, disclosure, audit, repair, interoperability, exit, restoration, or governance authority, including restrictions adopted to manage rights collisions. They must be scope-limited, time-bound, set to expire without renewed justification, periodically revalidated, and subject to mandatory forum review while they persist where they materially affect rights, standing, remedies, survival-critical access, or governance authority.
@@ -410,6 +418,14 @@ Temporal discipline and revalidation
 - Downstream: this section's local operational requirements for **CJS-5.6 Implementation and cross-implementation constrained-secrecy and protected-investigation terms**.
 - Read with: **CJS-5.15**; **CJS-5.9**; **CJS-5.23 and CJS-5.8**; **CJS-5.6**; **CJS-5.5**; **CJS-5.4 and CJS-5.8**.
 
+- Read with: **CJS-5.6 — Constrained Secrecy and Protected Investigations**
+- Read with: **CJS-5.5 — Burden of Justification and Constraint**
+- Read with: **CJS-5.4** (*Implementation and cross-implementation reflexive transparency and accountability terms*) and **CJS-5.8** (*Implementation and cross-implementation integrity assurance and resilience operations*) — Reflexive Transparency and Accountability
+- Read with: **CJS-5.2** (*Implementation and cross-implementation distributed and proportional authority terms*) and **CJS-5.12** (*Implementation and cross-implementation quorum and participatory legitimacy terms*) — Distributed and Proportional Authority
+- Read with: **CJS-5.15 — Transparency and Disclosure**
+- Read with: **CJS-5.9 — Auditability**
+- Read with: **CJS-5.23** (*Implementation and cross-implementation structural review, correction urgency, and disclosure terms*) and **CJS-5.8** (*Implementation and cross-implementation integrity assurance and resilience operations*) — Evolution, Revalidation, and Non-Entrenchment
+- Read with: **CJS-5.7 — Procedural Integrity and Adjudication**
 </details>
 
 <details>
@@ -429,20 +445,14 @@ Temporal discipline and revalidation
 
 Use this rule when secrecy, protected investigations, oversight, or delayed release depends on standalone system behavior or combined institutional, governance, system, or implementation-layer behavior.
 
-Read it with:
-- **CJS-5.6 — Constrained Secrecy and Protected Investigations**
-- **CJS-5.5 — Burden of Justification and Constraint**
-- **CJS-5.4** (*Implementation and cross-implementation reflexive transparency and accountability terms*) and **CJS-5.8** (*Implementation and cross-implementation integrity assurance and resilience operations*) — Reflexive Transparency and Accountability
-- **CJS-5.2** (*Implementation and cross-implementation distributed and proportional authority terms*) and **CJS-5.12** (*Implementation and cross-implementation quorum and participatory legitimacy terms*) — Distributed and Proportional Authority
-- **CJS-5.15 — Transparency and Disclosure**
-- **CJS-5.9 — Auditability**
-- **CJS-5.23** (*Implementation and cross-implementation structural review, correction urgency, and disclosure terms*) and **CJS-5.8** (*Implementation and cross-implementation integrity assurance and resilience operations*) — Evolution, Revalidation, and Non-Entrenchment
-- **CJS-5.7 — Procedural Integrity and Adjudication**
+One cluster-level term is pinned at the top of this section in functional reading order rather than alphabetical order, because lawful-secrecy failures often surface only when authorization, minimization, oversight, reconstruction, and release review are judged together; a sub-rule can look satisfied in isolation while secrecy still blocks audit, challenge, or timely disclosure. It states the integrated obligation, evaluation, and compliance floor for **CJS-5.6** as a whole: constrained secrecy and protected investigation must be assessed as one claim before any named sub-rule is treated as satisfied on its own.
 
 Implementation and cross-implementation constrained-secrecy and protected-investigation terms
 - OP-O: Secrecy must be authorized, minimized, temporary, overseen, reconstructable, and subject to later release review.
 - OP-E: Evaluation must assess all relevant system components, dependencies, institutional roles, and implementation-layer interactions together.
 - OP-C: It is non-compliant to claim lawful secrecy when a material component has not been fully evaluated, cannot be independently reviewed, or is used to bypass audit or challenge.
+
+The sub-rules below apply that cluster floor to specific authorization, reconstruction, oversight, minimization, and anti-normalization dimensions. Read them together with the cluster floor and the CJS read-with chain.
 
 Authorization and predicate floor
 - OP-O: Disclosure or participation limits require documented, auditable authorization before implementation, except immediate emergencies with prompt post-action review.
@@ -487,6 +497,15 @@ No permanent secrecy and anti-normalization discipline
 - Topic routing (mandatory read-with): **CJS-R05** (*Appeal, secondary review, exhaustion*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CF-6**.
 - Topic routing (mandatory read-with): **CJS-R15** (*Contest-integrity monitoring (pathway integrity, not merits)*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CI-7.3**.
 
+- Read with: **CJS-5.7 — Procedural Integrity and Adjudication**
+- Read with: **CJS-5.5 — Burden of Justification and Constraint**
+- Read with: **CJS-5.4** (*Implementation and cross-implementation reflexive transparency and accountability terms*) and **CJS-5.8** (*Implementation and cross-implementation integrity assurance and resilience operations*) — Reflexive Transparency and Accountability
+- Read with: **CJS-5.9 — Auditability**
+- Read with: **CJS-5.10 — Tiered Transparency and Audit Access**
+- Read with: **CJS-5.3 — Intervention governance and override authorization**
+- Read with: `corpus_systems.md` **CS-3 — Information types and handling** and **CS-4 — System classification and handling**
+- Read with: `corpus_institutions.md`
+- Read with: `corpus_forum.md`
 </details>
 
 <details>
@@ -507,21 +526,14 @@ No permanent secrecy and anti-normalization discipline
 
 Use this rule when due process, reviewability, restoration, or enforcement proportionality depends on a standalone system, institution, forum, or bounded decision domain, or on combined forum, institutional, system, or implementation-layer behavior.
 
-Read it with:
-- **CJS-5.7 — Procedural Integrity and Adjudication**
-- **CJS-5.5 — Burden of Justification and Constraint**
-- **CJS-5.4** (*Implementation and cross-implementation reflexive transparency and accountability terms*) and **CJS-5.8** (*Implementation and cross-implementation integrity assurance and resilience operations*) — Reflexive Transparency and Accountability
-- **CJS-5.9 — Auditability**
-- **CJS-5.10 — Tiered Transparency and Audit Access**
-- **CJS-5.3 — Intervention governance and override authorization**
-- `corpus_systems.md` **CS-3 — Information types and handling** and **CS-4 — System classification and handling**
-- `corpus_institutions.md`
-- `corpus_forum.md`
+One cluster-level term is pinned at the top of this section in functional reading order rather than alphabetical order, because procedural failures often surface only when due process, review independence, enforcement proportionality, and restoration are judged together; a sub-rule can look satisfied in isolation while the pathway as a whole remains unfair, unchallengeable, or practically unreachable. It states the integrated obligation, evaluation, and compliance floor for **CJS-5.7** as a whole: procedural integrity and adjudication must be assessed as one claim before any named sub-rule is treated as satisfied on its own.
 
 Implementation and cross-implementation procedural integrity and adjudication terms
 - OP-O: Procedures must provide due process, independent review, proportional enforcement, accessible restoration, uncertainty safeguards, and anti-abuse limits.
 - OP-E: Evaluation must assess all relevant system components, dependencies, institutional roles, and implementation-layer interactions together.
 - OP-C: It is non-compliant to claim procedural integrity when a material component has not been tested and evaluated in practice.
+
+The sub-rules below apply that cluster floor to specific backup routing, burden and proportionality, delegated bodies, deposition, due process, forum formation, representative treatment, restoration, review independence, sanction validity, class scaling, and uncertainty-safeguard dimensions. Read them together with the cluster floor and the CJS read-with chain.
 
 Backup activation
 - OP-O: Backup routing must document transfer or co-routing to a designated backup forum when the lead forum cannot provide lawful independent merits determination in time.
@@ -554,11 +566,16 @@ Lawful independent forum
 - OP-C: A merits determination is non-compliant when the forum lacks lawful formation, necessary competence, valid quorum, or conflict-screened independence.
 
 Representative treatment
+
+This sub-rule governs **common-question procedure**: a forum resolves one shared issue for many affected parties at once instead of requiring each person to relitigate the same underlying practice alone. It includes scope expansion to a **class** or **subclass** under `core_09-09_forum.md` **Chapter Nine**, **section 6** (*Scope expansion and representative treatment*).
+
+A **common decision rule** is the **named shared practice in dispute** for that expanded proceeding—the specific rule, policy, model behavior, eligibility test, fee formula, routing criterion, or comparable decision basis applied the same way across the group. It is the thing whose lawfulness, application, or effect the forum is deciding for everyone included, not merely a label for "many people were harmed." Examples include a mass-denial algorithm, a published institutional threshold, a standardized sanction trigger, or a system-default setting that drives the same result class-wide.
+
+Before representative treatment can proceed, the record must identify that shared practice clearly enough that affected parties can contest **who is covered** (scope), **whether representation is adequate**, and **whether sentient-specific exceptions** are required.
+
 - OP-O: Common-question procedure may resolve issues for a broader affected group only when commonality, notice, adequate representation, and contestability are preserved.
 - OP-E: Evaluation must verify the common question, affected-group scope, notice sufficiency, representation adequacy, opt-out or separate-process rules where applicable, sentient-specific exceptions, and challenge paths.
 - OP-C: Representative treatment is non-compliant when it suppresses material individualized claims, hides affected parties, weakens adequate representation, or makes contest practically unavailable.
-
-For this cluster, a **common decision rule** is a shared rule, policy logic, model behavior, institutional criterion, or comparable decision basis that materially drives outcomes across multiple affected parties. Common-question procedure must identify that rule or other shared practice clearly enough for affected parties to contest scope, representation, and sentient-specific exceptions.
 
 Restoration accessibility and remedy realism
 - OP-O: Error correction, restoration, mitigation, and compensation must be practically accessible and proportionate in cost and complexity.

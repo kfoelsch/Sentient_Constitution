@@ -39,6 +39,13 @@ This family collects the operational clusters that govern dependency mapping, me
 - Read with: **CJS-5.16**; **CJS-5.15**; **CJS-5.17**; **CJS-5.9**; **CJS-5.23 and CJS-5.8**; **CI-11**.
 - Topic routing (mandatory read-with): **CJS-R17** (*Cross-implementation trust integrity (joint operation model)*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CJS-4.3**.
 
+- Read with: **CJS-5.16 — Dependency Awareness, Disclosure, and Risk Integrity**
+- Read with: **CJS-5.15 — Transparency and Disclosure**
+- Read with: **CJS-5.17 — Interoperability, Portability, and Exit Integrity**
+- Read with: **CJS-5.9 — Auditability**
+- Read with: **CJS-5.23** (*Implementation and cross-implementation structural review, correction urgency, and disclosure terms*) and **CJS-5.8** (*Implementation and cross-implementation integrity assurance and resilience operations*) — Evolution, Revalidation, and Non-Entrenchment
+- Read with: `corpus_systems.md` **Protocol A — System Design, Testing, Verification, and Deployment**
+- Read with: **Article XV-A**
 </details>
 
 <details>
@@ -58,15 +65,6 @@ This family collects the operational clusters that govern dependency mapping, me
 
 
 Use this rule when dependency mapping, risk treatment, or accountability depends on standalone system behavior or combined system, dependency, or implementation-layer behavior.
-
-Read it with:
-- **CJS-5.16 — Dependency Awareness, Disclosure, and Risk Integrity**
-- **CJS-5.15 — Transparency and Disclosure**
-- **CJS-5.17 — Interoperability, Portability, and Exit Integrity**
-- **CJS-5.9 — Auditability**
-- **CJS-5.23** (*Implementation and cross-implementation structural review, correction urgency, and disclosure terms*) and **CJS-5.8** (*Implementation and cross-implementation integrity assurance and resilience operations*) — Evolution, Revalidation, and Non-Entrenchment
-- `corpus_systems.md` **Protocol A — System Design, Testing, Verification, and Deployment**
-- **Article XV-A**
 
 Implementation and cross-implementation dependency integrity and disclosure terms
 - OP-O: If a system relies on something important, that reliance must be named, explained, watched, and handled according to the risk it creates.
@@ -129,6 +127,14 @@ Substitutability, exit constraints, and mitigation duties
 - Read with: **CJS-5.17**; **CJS-5.16**; **CJS-5.15**; **CI-12.3**.
 - Topic routing (mandatory read-with): **CJS-R17** (*Cross-implementation trust integrity (joint operation model)*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CJS-4.3**.
 
+- Read with: **CJS-5.17 — Interoperability, Portability, and Exit Integrity**
+- Read with: **CJS-5.16 — Dependency Awareness, Disclosure, and Risk Integrity**
+- Read with: **CJS-5.15 — Transparency and Disclosure**
+- Read with: `corpus_systems.md` **CS-3 — Information types and handling**
+- Read with: `corpus_systems.md` **CS-4 — System classification and handling**
+- Read with: `corpus_systems.md` **CS-5 — Critical system stewardship**
+- Read with: **Article XIX**
+- Read with: **Article XV-A**
 </details>
 
 <details>
@@ -148,16 +154,6 @@ Substitutability, exit constraints, and mitigation duties
 
 
 Use this rule when lock-in, migration, interface design, or dependency exposure depends on standalone system behavior or combined system, dependency, or implementation-layer behavior.
-
-Read it with:
-- **CJS-5.17 — Interoperability, Portability, and Exit Integrity**
-- **CJS-5.16 — Dependency Awareness, Disclosure, and Risk Integrity**
-- **CJS-5.15 — Transparency and Disclosure**
-- `corpus_systems.md` **CS-3 — Information types and handling**
-- `corpus_systems.md` **CS-4 — System classification and handling**
-- `corpus_systems.md` **CS-5 — Critical system stewardship**
-- **Article XIX**
-- **Article XV-A**
 
 Implementation and cross-implementation interoperability, portability, and exit-integrity terms
 - OP-O: Systems must preserve meaningful exit, usable portability, and fair interoperability.
@@ -249,6 +245,13 @@ Right-to-exit pathway integrity
 - Read with: **CJS-3.5**; **CJS-5.9**; **CJS-5.10**; **CJS-5.11**; **CJS-5.21 and CJS-5.18**; **CJS-5.23 and CJS-5.8**.
 - Topic routing (mandatory read-with): **CJS-R17** (*Cross-implementation trust integrity (joint operation model)*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CJS-4.3**.
 
+- Read with: **CJS-5.9 — Auditability**
+- Read with: **CJS-5.10 — Tiered Transparency and Audit Access**
+- Read with: **CJS-5.11 — Independent Verification and Integrity of Claims**
+- Read with: **CJS-5.21** (*Implementation and cross-implementation reversibility and containment terms*) and **CJS-5.18** (*Implementation and cross-implementation data-retention and lifecycle-integrity terms*) — Reversibility and Containment
+- Read with: **CJS-5.23** (*Implementation and cross-implementation structural review, correction urgency, and disclosure terms*) and **CJS-5.8** (*Implementation and cross-implementation integrity assurance and resilience operations*) — Evolution, Revalidation, and Non-Entrenchment
+- Read with: `corpus_systems.md` **CS-3 — Information types and handling**, including Types **C**, **G**, **H**, **I**, **N**, and **S**
+- Read with: **CJS-3.5 — Classification alignment for supervised scope**
 </details>
 
 <details>
@@ -268,15 +271,6 @@ Right-to-exit pathway integrity
 
 
 Use this rule when accountability, privacy, reversibility, or classification depends on how data is kept, changed, linked, or deleted within a standalone system, institution, forum, or bounded decision domain, or across more than one system or implementation layer.
-
-Read it with:
-- **CJS-5.9 — Auditability**
-- **CJS-5.10 — Tiered Transparency and Audit Access**
-- **CJS-5.11 — Independent Verification and Integrity of Claims**
-- **CJS-5.21** (*Implementation and cross-implementation reversibility and containment terms*) and **CJS-5.18** (*Implementation and cross-implementation data-retention and lifecycle-integrity terms*) — Reversibility and Containment
-- **CJS-5.23** (*Implementation and cross-implementation structural review, correction urgency, and disclosure terms*) and **CJS-5.8** (*Implementation and cross-implementation integrity assurance and resilience operations*) — Evolution, Revalidation, and Non-Entrenchment
-- `corpus_systems.md` **CS-3 — Information types and handling**, including Types **C**, **G**, **H**, **I**, **N**, and **S**
-- **CJS-3.5 — Classification alignment for supervised scope**
 
 Implementation and cross-implementation data-retention and lifecycle-integrity terms
 - OP-O: Data-retention compliance must be evaluated as one lifecycle claim across collection, use, retention, transformation, disclosure, deletion, de-identification, and reclassification.
