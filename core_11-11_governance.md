@@ -1,8 +1,15 @@
 # Constitutional contract, legitimacy, authorization, and stewardship
 
-This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one instrument. It contains **Chapter Eleven**; chapter numbering and cross-references match the integrated instrument. Reading order, the binding/support split, and corpus edition metadata are maintained in [README.md](README.md).
+<details>
+<summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
-**Application baseline.** This chapter applies subject to [core_02-04_definition_mechanics.md](core_02-04_definition_mechanics.md), [core_05-05_definitions_a_independent.md](core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions), and the Rights Floor in [core_10-10_rights_part_a.md](core_10-10_rights_part_a.md) through [core_10-10_rights_part_d.md](core_10-10_rights_part_d.md). This chapter states the **Constitutional Contract Layer** and must fulfill the [Constitutional Triad](core_00_preamble.md#constitutional-triad) — especially **participation** and **accountability** at authorization — scaled to [material stake](core_00_preamble.md#material-stake), distinct from **Stakeholder System Participation** in already-authorized systems ([Chapter 00](core_00_preamble.md#chapter-00-preamble--foundational-requirements)). Amendment and adoption validity controls continue in [core_12-14_amendment.md](core_12-14_amendment.md).
+> The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this file or in other chapters.
+>
+> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one instrument. It contains **Chapter Eleven**, the **Constitutional Contract Layer** — constitutional legitimacy and stewardship requirements for governing authority, distinct from **Stakeholder System Participation** in already-authorized systems ([Chapter 00](core_00_preamble.md#chapter-00-preamble--foundational-requirements)). Amendment and adoption validity controls continue in [Chapters Twelve through Fourteen](core_12-14_amendment.md#chapter-twelve-non-regression-and-substantive-amendment-validity). Chapter numbering and cross-references match the integrated instrument. Reading order, the binding/support split, and corpus edition metadata are maintained in [README.md](README.md).
+
+</details>
+
+<br>
 
 ---
 <a id="chapter-eleven-constitutional-contract-legitimacy-authorization-and-stewardship"></a>
@@ -28,7 +35,7 @@ This chapter states the **Constitutional Contract Layer**: constitutional legiti
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: [Chapter One](core_01_b_stewardship_capacity_principles.md#chapter-01-principles-and-constraints) integrated constraint stack; [Chapter Ten](core_10-10_rights_part_a.md#chapter-ten-foundational-rights) Foundational Rights Floor described in the application baseline above.
+- Upstream: Principles: [Chapter One](core_01_b_stewardship_capacity_principles.md#chapter-01-principles-and-constraints) integrated constraint stack; [Chapter Ten](core_10-10_rights_part_a.md#chapter-ten-foundational-rights) Foundational Rights Floor through [Part D](core_10-10_rights_part_d.md).
 - Downstream: [§§ 1–5](#1-authorization-and-legitimacy-of-governing-authority) (stewardship and collective-choice requirements in this chapter); [Chapter Six](core_06-06_standing_assessment.md#chapter-six-compliance-violation-and-standing-model) general **contribution, violation, and standing** classification (**Axes I and II**); [Chapter Eight](core_08-08_misconduct.md#chapter-eight-anti-constitutional-misconduct) final **Violation Axis s = 7, 8, or 9** slot classification for anti-constitutional misconduct.
 - Read with: [Chapters Two through Four](core_02-04_definition_mechanics.md) (integrity, tracing, verification); [Chapter Five](core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) (canonical definitions); [Chapter Five §3.20 *Governance Architecture, Oversight, Dependency, Decentralization, Concentration, Market Structure, and Exit-Path Integrity*](core_05a_accountability_definitions.md#governance-architecture-oversight-decentralization-and-concentration-cluster) (joint-invocation cluster where authority placement, oversight design, dependency, decentralization, concentration, incentive routing, or exit-path analysis materially affect compliance).
 

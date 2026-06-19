@@ -2,14 +2,13 @@
 
 *In plain terms: this file is the front door to the **institutions** rulebook — how bodies are formed, authorized, overseen, corrected, and dissolved within constitutional boundaries.*
 
-**Corpus edition:** `SC-Corpus-2026.04.34` · **Effective date:** 2026-06-17
-
 <details>
-<summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): edition, status, and where this file lives</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
 > The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this file or in other corpus files.
 >
 > **Edition and alignment**
+> - **Corpus edition:** `SC-Corpus-2026.04.34` · **Effective date:** 2026-06-17
 > - These labels track the same edition metadata as the numbered `core_*.md` files (see [README.md](../README.md)), [corpus_joint_structure.md](../corpus_joint_structure.md), [corpus_systems.md](../corpus_systems.md), and [corpus_forum.md](../corpus_forum.md).
 >
 > **Status**
@@ -19,28 +18,19 @@
 > **Where this lives**
 > - **Navigation wrapper:** [corpus_institutions.md](../corpus_institutions.md) indexes the `corpus_institutions/` subfiles.
 > - **Shared contract:** [corpus_joint_structure.md](../corpus_joint_structure.md) **CJS-1.2** (*Shared implementation-corpus preamble contract*).
-
-</details>
-
-<br>
-
-**Quick orientation**
-
-The institutions layer (**CI**) owns formation, authorization, oversight, correction, and dissolution mechanics for institutional governance:
-
-- **CJS** — [corpus_joint_structure.md](../corpus_joint_structure.md)
-- **CS** — [corpus_systems.md](../corpus_systems.md)
-- **CI** — this folder (`corpus_institutions/`)
-- **CF** — [corpus_forum.md](../corpus_forum.md)
-
-**CI** defines institutional governance law. It does not redefine constitutional terms, Rights Floors, or offense taxonomy.
-
-Shared preamble contract: apply [corpus_joint_structure.md](../corpus_joint_structure.md) **CJS-1.2** (*Shared implementation-corpus preamble contract*).
-
-<details>
-<summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): routing anchors and cluster index</span></strong></summary>
-
-> The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this file or in other corpus files.
+>
+> **Implementation layer map**
+>
+> The institutions layer (**CI**) owns formation, authorization, oversight, correction, and dissolution mechanics for institutional governance:
+>
+> - **CJS** — [corpus_joint_structure.md](../corpus_joint_structure.md)
+> - **CS** — [corpus_systems.md](../corpus_systems.md)
+> - **CI** — this folder (`corpus_institutions/`)
+> - **CF** — [corpus_forum.md](../corpus_forum.md)
+>
+> **CI** defines institutional governance law. It does not redefine constitutional terms, Rights Floors, or offense taxonomy.
+>
+> Shared preamble contract: apply [corpus_joint_structure.md](../corpus_joint_structure.md) **CJS-1.2** (*Shared implementation-corpus preamble contract*).
 >
 > **Principle-layer routing:** Read with [Chapter One](../core_01_b_stewardship_capacity_principles.md#chapter-01-principles-and-constraints) — [Constitutional Triad](../core_00_preamble.md#constitutional-triad), [Two Constitutional Aims](../core_01_a_values_principles.md#two-constitutional-aims), and [material stake](../core_00_preamble.md#material-stake). **CI-5** (*Conflict integrity, anti-capture, and anti-corruption*), **CI-6** (*Procedure integrity, contestability, and secondary review*), **CI-7** (*Oversight, assurance, controls, and evidence*), and **CI-8** (*Transparency, participation, and accessible pathways*) implement triad legs at institutional layer. **CI** institutional rules scale burden and constraint under material stake where materially relevant.
 >
@@ -49,6 +39,8 @@ Shared preamble contract: apply [corpus_joint_structure.md](../corpus_joint_stru
 > **Stable registry:** compliance cross-reference tables and section-family routing live in **CI-26** (*Compliance mapping and stable registry*).
 
 </details>
+
+<br>
 
 ---
 

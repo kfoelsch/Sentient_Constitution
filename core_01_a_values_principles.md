@@ -1,9 +1,18 @@
 # Values Principles (Chapter One, Part A)
 
-This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one instrument. It contains **Chapter One, Part A** (§§1–5: interpretation, aims, wellbeing, Safety and Truth, Trust).
+<details>
+<summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
-**Upstream:** [core_00_preamble.md](core_00_preamble.md)  
-**Next:** [core_01_b_stewardship_capacity_principles.md](core_01_b_stewardship_capacity_principles.md) (Chapter One, Part B).
+> The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this file or in other chapters.
+>
+> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one instrument. It contains **Chapter One, Part A** (§§1–5: interpretation, aims, wellbeing, Safety and Truth, Trust).
+>
+> **Upstream:** [core_00_preamble.md](core_00_preamble.md)  
+> **Next:** [core_01_b_stewardship_capacity_principles.md](core_01_b_stewardship_capacity_principles.md) (Chapter One, Part B).
+
+</details>
+
+<br>
 
 ---
 ## CHAPTER 01, PART A: VALUES PRINCIPLES

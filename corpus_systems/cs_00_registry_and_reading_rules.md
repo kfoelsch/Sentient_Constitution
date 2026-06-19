@@ -2,14 +2,13 @@
 
 *In plain terms: this file is the front door to the **systems-and-data** rulebook — how classified systems are typed, stewarded, tested, and operated without contradicting the Sentient Constitution.*
 
-**Corpus edition:** `SC-Corpus-2026.04.33` · **Effective date:** 2026-04-24
-
 <details>
-<summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): edition, status, and where this file lives</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
 > The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this file or in other corpus files.
 >
 > **Edition and alignment**
+> - **Corpus edition:** `SC-Corpus-2026.04.33` · **Effective date:** 2026-04-24
 > - These labels track the same edition metadata as the numbered `core_*.md` files (see [README.md](../README.md)), [corpus_institutions.md](../corpus_institutions.md), [corpus_forum.md](../corpus_forum.md), and [corpus_joint_structure.md](../corpus_joint_structure.md).
 > - Edition and custody: [README.md](../README.md) and [Chapter Five *Corpus*](../core_05i_integrative_definitions.md#corpus).
 >
@@ -22,30 +21,21 @@
 > - **Navigation wrapper:** [corpus_systems.md](../corpus_systems.md) indexes the `corpus_systems/` subfiles.
 > - **Editorial map:** [doc_architecture.md](../doc_architecture.md) section 4 (definitions protocol) and section 2 (ownership map).
 > - **Shared contract:** [corpus_joint_structure.md](../corpus_joint_structure.md) **CJS-1.2** (*Shared implementation-corpus preamble contract*).
-
-</details>
-
-<br>
-
-**Quick orientation**
-
-The systems layer (**CS**) owns typing, classification, stewardship, and protocol-level engineering rules for systems and data:
-
-- **CJS** — [corpus_joint_structure.md](../corpus_joint_structure.md) (joint-structure interfaces)
-- **CS** — this folder (`corpus_systems/`)
-- **CI** — [corpus_institutions.md](../corpus_institutions.md)
-- **CF** — [corpus_forum.md](../corpus_forum.md)
-
-**CS** is the canonical home for **CS-3–CS-5**, **Protocol A** through **Protocol T**, and related systems labels. Constitutional meanings, Rights Floors, and definition-satisfaction rules remain in the Sentient Constitution and Chapter Five.
-
-System and data obligations here align with [corpus_joint_structure.md — Cross-domain implementation layer](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cross-domain-implementation-layer), especially **CJS-4.3** (*Cross-implementation trust integrity (joint operation model)*) and the **CJS-5** (*Implementation and cross-implementation operational cluster library*) operational cluster library.
-
-Shared preamble contract: apply [corpus_joint_structure.md](../corpus_joint_structure.md) **CJS-1.2** (*Shared implementation-corpus preamble contract*).
-
-<details>
-<summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): routing anchors and cluster index</span></strong></summary>
-
-> The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this file or in other corpus files.
+>
+> **Implementation layer map**
+>
+> The systems layer (**CS**) owns typing, classification, stewardship, and protocol-level engineering rules for systems and data:
+>
+> - **CJS** — [corpus_joint_structure.md](../corpus_joint_structure.md) (joint-structure interfaces)
+> - **CS** — this folder (`corpus_systems/`)
+> - **CI** — [corpus_institutions.md](../corpus_institutions.md)
+> - **CF** — [corpus_forum.md](../corpus_forum.md)
+>
+> **CS** is the canonical home for **CS-3–CS-5**, **Protocol A** through **Protocol T**, and related systems labels. Constitutional meanings, Rights Floors, and definition-satisfaction rules remain in the Sentient Constitution and Chapter Five.
+>
+> System and data obligations here align with [corpus_joint_structure.md — Cross-domain implementation layer](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cross-domain-implementation-layer), especially **CJS-4.3** (*Cross-implementation trust integrity (joint operation model)*) and the **CJS-5** (*Implementation and cross-implementation operational cluster library*) operational cluster library.
+>
+> Shared preamble contract: apply [corpus_joint_structure.md](../corpus_joint_structure.md) **CJS-1.2** (*Shared implementation-corpus preamble contract*).
 >
 > **Principle-layer routing:** Read with [Chapter One](../core_01_b_stewardship_capacity_principles.md#chapter-01-principles-and-constraints) — [Constitutional Triad](../core_00_preamble.md#constitutional-triad), [Two Constitutional Aims](../core_01_a_values_principles.md#two-constitutional-aims), and [material stake](../core_00_preamble.md#material-stake) scaling. **CS-4** (*System classification and handling*) and **CS-5** (*Critical system stewardship*) map to material stake; **Protocol A** subsection **H** and **Protocol D** implement self-healing and partition resilience under the **Continuity aim** (operational continuity language is not a substitute for that aim).
 >
@@ -63,6 +53,8 @@ Shared preamble contract: apply [corpus_joint_structure.md](../corpus_joint_stru
 > - **Chapter Six standing composites:** Standing inputs must be **verified** only ([Chapter Six — Assessment](../core_06-06_standing_assessment.md) section 2). **Forum** allegations and claims are not standing-calculus inputs (**Chapter Nine**). Recency weighting applies only to contribution-linked credit under [Chapter Seven §4.1](../core_07-07_standing_integration.md#38-standing-integration-contribution-and-violation-nature). Numeric interoperability defaults: [implementation/CH06_NINE_SLOT_STANDING_SCALE.md](../implementation/CH06_NINE_SLOT_STANDING_SCALE.md).
 
 </details>
+
+<br>
 
 ---
 

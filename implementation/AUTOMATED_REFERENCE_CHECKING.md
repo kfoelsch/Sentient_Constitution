@@ -14,6 +14,7 @@ Single catalog for corpus integrity audits. Rule IDs map to [tools/architecture/
 | `corpus-markdown-audit` | `tools/corpus_markdown_audit.py` | — | Markdown structure |
 | `footer-audit` | `tools/footer_audit.py` | — | Corpus navigation footer chain |
 | `nav-widget-spacer-audit` | `tools/nav_widget_spacer_audit.py` | NAV-DEC-12-SPACER | D/E/C vs inline Definition spacer |
+| `file-top-placement-audit` | `tools/file_top_placement_audit.py` | NAV-PLACEMENT-01 | File-top Corpus placement widget |
 | `trace-routing-prose-audit` | `tools/trace_routing_prose_audit.py` | NAV-TRACE-10 | Read with inside Trace |
 | `in-paragraph-link-audit` | `tools/in_paragraph_link_audit.py` | LINK-IN-PARA-14 | Proof registry + See anti-patterns |
 | `ch5-definitions-gravity-audit` | `tools/ch5_definitions_gravity_audit.py` | CH5-GRAVITY | Admission gate / de-bundling |

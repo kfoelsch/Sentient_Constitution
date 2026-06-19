@@ -1,8 +1,15 @@
 # Standing effects and integration
 
-This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one instrument. It contains **Chapter Seven**: standing-pipeline integration and consequences, including standing effects, Violation Axis attachments, supplemental descriptors, cross-axis integration, standing locks, no-substitution mechanics, enforcement anchors, and the Chapter Eight pointer. Chapter Six assessment foundations are stated in [core_06-06_standing_assessment.md](core_06-06_standing_assessment.md). Final top-slot review for Violation Axis `s = 7`, `s = 8`, and `s = 9` anti-constitutional misconduct remains in [Chapter Eight](core_08-08_misconduct.md#chapter-eight-anti-constitutional-misconduct). Reading order, the binding/support split, and corpus edition metadata are maintained in [README.md](README.md).
+<details>
+<summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
-**Application baseline.** This chapter applies subject to [Chapter Six](core_06-06_standing_assessment.md#chapter-six-compliance-violation-and-standing-model) classification foundations and [Chapters One through Five](core_01_b_stewardship_capacity_principles.md#chapter-01-principles-and-constraints). Standing effects must not hollow the [Constitutional Triad](core_00_preamble.md#constitutional-triad) below what [material stake](core_00_preamble.md#material-stake) requires, and must be read with the [Two Constitutional Aims](core_01_a_values_principles.md#two-constitutional-aims). Final top-slot anti-constitutional misconduct review continues in [Chapter Eight](core_08-08_misconduct.md#chapter-eight-anti-constitutional-misconduct). Read [Chapters Six–Nine constitutional compass](core_06-06_standing_assessment.md#chapters-six-nine-constitutional-compass) first.
+> The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this file or in other chapters.
+>
+> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one instrument. It contains **Chapter Seven**: standing-pipeline integration and consequences, including standing effects, Violation Axis attachments, supplemental descriptors, cross-axis integration, standing locks, no-substitution mechanics, enforcement anchors, and the Chapter Eight pointer. Chapter Six assessment foundations are stated in [core_06-06_standing_assessment.md](core_06-06_standing_assessment.md). Final top-slot review for Violation Axis `s = 7`, `s = 8`, and `s = 9` anti-constitutional misconduct remains in [Chapter Eight](core_08-08_misconduct.md#chapter-eight-anti-constitutional-misconduct). Read [Chapters Six–Nine constitutional compass](core_06-06_standing_assessment.md#chapters-six-nine-constitutional-compass) first. Reading order, the binding/support split, and corpus edition metadata are maintained in [README.md](README.md).
+
+</details>
+
+<br>
 
 ---
 <a id="chapter-seven-standing-effects-and-integration"></a>

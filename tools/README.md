@@ -16,6 +16,7 @@ Put a **blank line before** `---` when you mean a horizontal rule between sectio
 | Markdown / prose / definitions gravity | `make corpus-markdown-audit`, `make prose-continuity-audit`, `make ch5-definitions-gravity-audit`, `make ch5-trace-crosslink-audit` |
 | Corpus navigation footer chain and formatting | `make footer-audit` |
 | Trace / D/E/C / reader-guidance `<br>` spacer discipline | `make nav-widget-spacer-audit` |
+| File-top Corpus placement widget | `make file-top-placement-audit` |
 | CJS-2.1 topic-router bidirectional read-with links | `make router-bidirectional-audit` |
 | Chapter Five compound heading/member order | `make ch5-cluster-order-audit` |
 | Chapter Five single-definition and owner-roster rule | `make ch5-single-definition-audit` |

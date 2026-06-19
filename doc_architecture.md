@@ -85,6 +85,7 @@ Keep constitutional concept + O/E/C boundary only; cite owner homes for institut
 | NAV-TRACE-08–10 | Trace placement and contents | `make ch9-trace-audit`, `make trace-routing-prose-audit` |
 | NAV-DEC-12 | D/E/C widget discipline | `make ch5-dec-widget-audit`, `make nav-widget-spacer-audit` |
 | NAV-DEC-CH1-ORDER | Chapter One D/E/C order | `make ch1-dec-order-audit` |
+| NAV-PLACEMENT-01 | File-top Corpus placement widget | `make file-top-placement-audit` |
 | LINK-IN-PARA-14 | Load-bearing in-paragraph links | `make in-paragraph-link-audit` |
 | CH5-GRAVITY | Chapter Five admission / de-bundling | `make ch5-definitions-gravity-audit` |
 | CH5-ORDER-01 | Chapter Five editorial order | `make ch5-cluster-order-audit`, `make ch5-entry-format-audit`, `make ch5-constitutional-cluster-audit` |
@@ -96,6 +97,25 @@ Keep constitutional concept + O/E/C boundary only; cite owner homes for institut
 | ROUTER-CJS21 | Cross-implementation routing | `make router-bidirectional-audit` |
 
 Historical D/E/C rollout: [archive/doc_architecture_decision_log/DEC_WIDGET_AND_NAV_DECISIONS_2026-04-16_2026-06-15.md](archive/doc_architecture_decision_log/DEC_WIDGET_AND_NAV_DECISIONS_2026-04-16_2026-06-15.md).
+
+### File-top placement template (NAV-PLACEMENT-01)
+
+One collapsed **Corpus placement** widget per audited file top. Summary label: **`Corpus placement (non-operative): file structure and reading rules`** (same blue `<details>` styling as Trace and Reader guidance).
+
+**Visible before the first `##` heading (or first operative registry section):**
+
+- `#` title.
+- On implementation `*_00_registry_and_reading_rules.md` files only: one-line `*In plain terms:*` front-door gloss.
+- The placement widget, then `<br>` when operative prose or `---` follows.
+
+**Inside the placement widget (non-operative):**
+
+- `core_*` — binding-together notice, which chapter/part/band the file holds, README reading-order pointer, and file-sequence navigation (**Next**, **Upstream**, **Previous**) when present.
+- `*_00_registry` — edition and effective date, core vs implementation status, four-layer map (**CJS** / **CS** / **CI** / **CF**), navigation wrapper link, **CJS-1.2** pointer, and routing-anchor indexes previously split across multiple reader-guidance widgets.
+
+**Do not keep visible at file top:** **Application baseline**, upstream inheritance boilerplate, or pipeline routing that duplicates the Corpus placement widget, chapter reader-guidance widgets, or [README.md](README.md). Chapter-specific scope boundaries and anti-substitution notes belong in the Corpus placement widget (file-level) or in chapter reader-guidance widgets (chapter-level within multi-chapter files).
+
+**Single sources:** global edition and reading order in [README.md](README.md); implementation shared contract in **CJS-1.2**; section-family registries remain in `*_00` files below the file-top block.
 
 ### Plain-language guardrails (summary)
 

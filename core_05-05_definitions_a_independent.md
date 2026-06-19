@@ -1,8 +1,15 @@
 # Constitutional definitions
 
-This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one instrument. It contains **Chapter Five, Part A** — reader guidance, alphabetical directory, §3.0 meta rules, and the constitutional compass.
+<details>
+<summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
-Upstream constitutional direction for this file's definitions begins in [core_00_preamble.md](core_00_preamble.md), [core_01_a_values_principles.md](core_01_a_values_principles.md), and [core_01_b_stewardship_capacity_principles.md](core_01_b_stewardship_capacity_principles.md) and the definition-mechanics pipeline in [core_02-04_definition_mechanics.md](core_02-04_definition_mechanics.md).
+> The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this file or in other chapters.
+>
+> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one instrument. It contains **Chapter Five, Part A** — reader guidance, alphabetical directory, §3.0 meta rules, and the constitutional compass.
+
+</details>
+
+<br>
 
 ---
 

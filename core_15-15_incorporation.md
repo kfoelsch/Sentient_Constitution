@@ -1,10 +1,15 @@
 # Incorporation bridge
 
-This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one instrument. It contains **Chapter Fifteen**; chapter numbering and cross-references match the integrated instrument. Reading order, the binding/support split, and corpus edition metadata are maintained in [README.md](README.md).
+<details>
+<summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
-This chapter is the constitutional bridge to the incorporated implementation files. Read it with the [**Corpus**](core_05i_integrative_definitions.md#corpus) entry in [core_05-05_definitions_a_independent.md](core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) (*operative corpus identity, adopted implementation text, and custody framing*) and with [core_12-14_amendment.md](core_12-14_amendment.md) for adoption, supremacy, and validity controls.
+> The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this file or in other chapters.
+>
+> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one instrument. It contains **Chapter Fifteen**, the constitutional bridge to incorporated implementation files. Read with the [**Corpus**](core_05i_integrative_definitions.md#corpus) entry in [Chapter Five](core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) and [Chapters Twelve through Fourteen](core_12-14_amendment.md#chapter-twelve-non-regression-and-substantive-amendment-validity) for adoption and validity controls. Incorporated implementation text must not narrow substantive constitutional meaning in Chapters One through Eleven — including the [Constitutional Triad](core_00_preamble.md#constitutional-triad) and [Two Constitutional Aims](core_01_a_values_principles.md#two-constitutional-aims). Chapter numbering and cross-references match the integrated instrument. Reading order, the binding/support split, and corpus edition metadata are maintained in [README.md](README.md).
 
-**Application baseline.** This chapter applies subject to [Chapters Twelve through Fourteen](core_12-14_amendment.md#chapter-twelve-non-regression-and-substantive-amendment-validity) for adoption and validity controls and to [Chapters One through Eleven](core_01_b_stewardship_capacity_principles.md#chapter-01-principles-and-constraints) for substantive constitutional meaning that incorporated implementation text must not narrow — including the [Constitutional Triad](core_00_preamble.md#constitutional-triad) and [Two Constitutional Aims](core_01_a_values_principles.md#two-constitutional-aims).
+</details>
+
+<br>
 
 ---
 ## CHAPTER FIFTEEN: INCORPORATION BRIDGE

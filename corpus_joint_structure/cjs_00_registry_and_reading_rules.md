@@ -2,11 +2,25 @@
 
 *In plain terms: this file is the front door to the **joint-structure** rulebook — the shared glue that tells the systems, institutions, and forum implementation files how to work together when more than one of them applies to the same situation.*
 
-**Corpus edition:** `SC-Corpus-2026.04.33` · **Effective date:** 2026-04-24
+<details>
+<summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
-> **Reader guidance (non-operative): how to read CJS**
->
 > The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this file or in other corpus files.
+>
+> **Edition and alignment**
+> - **Corpus edition:** `SC-Corpus-2026.04.33` · **Effective date:** 2026-04-24
+> - These labels track the same edition metadata as the numbered `core_*.md` files (see [README.md](../README.md)), `corpus_systems.md`, `corpus_institutions.md`, and `corpus_forum.md`.
+>
+> **Status**
+> - This is **not** a core constitutional file. It is still part of the constitutional **Corpus** where [Chapter Five](../core_05i_integrative_definitions.md#corpus) and [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) say implementation text is binding when adopted.
+> - The CJS folder is written in plain language with low jargon to improve accessibility, audit readability, and practical adoption testing.
+>
+> **Where this lives**
+> - **Navigation wrapper:** [corpus_joint_structure.md](../corpus_joint_structure.md) indexes the joint-structure subfiles.
+> - **Shared contract:** **CJS-1.2** (*Shared implementation-corpus preamble contract*) in the next file states authority, readability, shorthand, and canonical-meaning rules for all CJS and implementation files.
+> - **Editorial map:** [doc_architecture.md](../doc_architecture.md) is the placement guide; the CJS folder holds binding joint-structural text within **Corpus** as designated in **Chapter Five** and incorporated through **Chapter Fifteen**.
+>
+> **How to read CJS**
 >
 > The joint-structure layer (**CJS**) coordinates how **CJS**, **CS**, **CI**, and **CF** fit together when more than one implementation layer applies to the same facts. **Families CJS-0 through CJS-3 are mostly structural** — registry, boundaries, routing, and cross-layer obligations. They bind when routing or adoption says so, but **most readers need not read CJS front to back**.
 >
@@ -24,25 +38,13 @@
 > - you are **editing or auditing** cross-file routing — **CJS-2.1** and **CJS-0.3**.
 >
 > Substantive joint rules and operational terms live in **CJS-4** and **CJS-5**; day-to-day domain doctrine lives in **CS**, **CI**, and **CF** as **CJS-2.1** routes.
-
-<br>
-
-<details>
-<summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): edition, status, and where this file lives</span></strong></summary>
-
-> The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this file or in other corpus files.
 >
-> **Edition and alignment**
-> - These labels track the same edition metadata as the numbered `core_*.md` files (see [README.md](../README.md)), `corpus_systems.md`, `corpus_institutions.md`, and `corpus_forum.md`.
+> **Implementation layer map**
 >
-> **Status**
-> - This is **not** a core constitutional file. It is still part of the constitutional **Corpus** where [Chapter Five](../core_05i_integrative_definitions.md#corpus) and [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) say implementation text is binding when adopted.
-> - The CJS folder is written in plain language with low jargon to improve accessibility, audit readability, and practical adoption testing.
->
-> **Where this lives**
-> - **Navigation wrapper:** [corpus_joint_structure.md](../corpus_joint_structure.md) indexes the joint-structure subfiles.
-> - **Shared contract:** **CJS-1.2** (*Shared implementation-corpus preamble contract*) in the next file states authority, readability, shorthand, and canonical-meaning rules for all CJS and implementation files.
-> - **Editorial map:** [doc_architecture.md](../doc_architecture.md) is the placement guide; the CJS folder holds binding joint-structural text within **Corpus** as designated in **Chapter Five** and incorporated through **Chapter Fifteen**.
+> - **CJS** — [corpus_joint_structure.md](../corpus_joint_structure.md)
+> - **CS** — [corpus_systems.md](../corpus_systems.md)
+> - **CI** — [corpus_institutions.md](../corpus_institutions.md)
+> - **CF** — [corpus_forum.md](../corpus_forum.md)
 
 </details>
 
@@ -60,7 +62,7 @@
 
 <br>
 
-*In plain terms: this file is the front door to the **joint-structure** folder — cross-file reading guidance, the section-family map, and where to start before **CJS-1**. For where most readers should begin, see **How to read CJS** above.*
+*In plain terms: this file is the front door to the **joint-structure** folder — cross-file reading guidance, the section-family map, and where to start before **CJS-1**. For where most readers should begin, expand **Corpus placement** at the top of this file.*
 
 **Quick orientation**
 

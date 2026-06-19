@@ -1,8 +1,15 @@
 # Definition mechanics and traceability
 
-This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one instrument. It contains **Chapters Two through Four**; chapter numbering and cross-references match the integrated instrument. Reading order, the binding/support split, and corpus edition metadata are maintained in [README.md](README.md).
+<details>
+<summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
-Upstream constitutional direction for this file's terms and evaluative constraints begins in [core_00_preamble.md](core_00_preamble.md), [core_01_a_values_principles.md](core_01_a_values_principles.md), and [core_01_b_stewardship_capacity_principles.md](core_01_b_stewardship_capacity_principles.md) — including the [Constitutional Triad](core_00_preamble.md#constitutional-triad), [Two Constitutional Aims](core_01_a_values_principles.md#two-constitutional-aims), and [material stake](core_00_preamble.md#material-stake) scaling established in Chapter 00 and Chapter One §2. Canonical constitutional term ownership for Chapter Five resides in [core_05-05_definitions_a_independent.md](core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions).
+> The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this file or in other chapters.
+>
+> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one instrument. It contains **Chapters Two through Four**; chapter numbering and cross-references match the integrated instrument. Reading order, the binding/support split, and corpus edition metadata are maintained in [README.md](README.md).
+
+</details>
+
+<br>
 
 ---
 
@@ -328,14 +335,13 @@ Where the [cross-implementation operational cluster family](corpus_joint_structu
 
 ## CHAPTER FOUR: BURDEN OF PROOF, TRACEABILITY, AND VERIFICATION
 
-**Application baseline.** This chapter applies subject to [Chapter One](core_01_b_stewardship_capacity_principles.md#chapter-01-principles-and-constraints) and [Chapters Two and Three](#chapter-two-definition-structure-and-component-requirements) in this file. Burden allocation, evidence, traceability, observability, and verification discipline implement the [Constitutional Triad](core_00_preamble.md#constitutional-triad) **oversight** and **accountability** legs established in [Chapter 00](core_00_preamble.md#chapter-00-preamble--foundational-requirements); **participation** where materially required through verification accessibility and independent challenge under sections **5** and **6**. Requirements scale with [material stake](core_00_preamble.md#material-stake).
-
 <details>
 <summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): where Chapter Four lives and what stays here</span></strong></summary>
 
 > The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this chapter or in other chapters.
 >
 > Where this lives (navigation):
+> - **Triad map:** Burden allocation, evidence, traceability, observability, and verification implement the [Constitutional Triad](core_00_preamble.md#constitutional-triad) **oversight** and **accountability** legs established in [Chapter 00](core_00_preamble.md#chapter-00-preamble--foundational-requirements); **participation** where materially required through verification accessibility and independent challenge under sections **5** and **6**. Requirements scale with [material stake](core_00_preamble.md#material-stake).
 > - **Constitutional owner:** burden allocation, compliance evidence, definition traceability, observability, security-constrained verification, and verification accessibility. **Chapter Six** owns standing-record and verified-input discipline read with this chapter.
 > - **Implementation owner:** deployment, data-handling, and assurance mechanics in designated implementation files must remain consistent with these rules and may be stricter where the corpus already provides stricter-rule logic.
 > - **Anti-relocation rule:** this chapter does not restate Chapter Five definitions, Chapter Six contribution or standing classification, or Chapter Eight top-slot misconduct criteria. **Section 7** states that boundary explicitly.

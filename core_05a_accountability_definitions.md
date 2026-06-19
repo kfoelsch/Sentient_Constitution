@@ -1,6 +1,15 @@
 # Constitutional definitions (Accountability band)
 
-This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one instrument. It contains **Chapter Five, Accountability band** — Independent, Semi-independent, and Dependent cluster definitions assigned to the **Accountability** constitutional band. Reading order and the compass live in [core_05-05_definitions_a_independent.md](core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions).
+<details>
+<summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
+
+> The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this file or in other chapters.
+>
+> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one instrument. It contains **Chapter Five, Accountability band** — Independent, Semi-independent, and Dependent cluster definitions assigned to the **Accountability** constitutional band. Reading order and the compass live in [core_05-05_definitions_a_independent.md](core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions).
+
+</details>
+
+<br>
 
 ---
 

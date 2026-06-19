@@ -1,8 +1,17 @@
 # Preamble
 
-This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one instrument. It contains **Chapter 00** (preamble / foundational requirements). Reading order and edition metadata are maintained in [README.md](README.md).
+<details>
+<summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
-**Next:** [core_01_a_values_principles.md](core_01_a_values_principles.md) (Chapter One, Part A — Values Principles).
+> The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this file or in other chapters.
+>
+> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one instrument. It contains **Chapter 00** (preamble / foundational requirements). Reading order and edition metadata are maintained in [README.md](README.md).
+>
+> **Next:** [core_01_a_values_principles.md](core_01_a_values_principles.md) (Chapter One, Part A — Values Principles).
+
+</details>
+
+<br>
 
 ---
 <a id="chapter-00-preamble--foundational-requirements"></a>

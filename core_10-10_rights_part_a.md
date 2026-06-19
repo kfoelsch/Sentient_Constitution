@@ -1,8 +1,15 @@
 # Foundational Rights (Part A)
 
-This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one instrument. It contains **Chapter Ten, Part A**; article numbering and cross-references match the integrated instrument. Reading order, the binding/support split, and corpus edition metadata are maintained in [README.md](README.md).
+<details>
+<summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
-Upstream constitutional direction for this file begins in [core_00_preamble.md](core_00_preamble.md), [core_01_a_values_principles.md](core_01_a_values_principles.md), and [core_01_b_stewardship_capacity_principles.md](core_01_b_stewardship_capacity_principles.md), [core_02-04_definition_mechanics.md](core_02-04_definition_mechanics.md), and **Chapter Five** — [Part A](core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions), [Part B](core_05-05_definitions_a_independent.md#section-2-semi-independent-definitions), [Part C](core_05-05_definitions_a_independent.md#section-3-dependent-clusters-clustered-definitions). The remaining Chapter Ten rights text continues in [core_10-10_rights_part_b.md](core_10-10_rights_part_b.md), [core_10-10_rights_part_c.md](core_10-10_rights_part_c.md), and [core_10-10_rights_part_d.md](core_10-10_rights_part_d.md).
+> The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this file or in other chapters.
+>
+> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one instrument. It contains **Chapter Ten, Part A**; article numbering and cross-references match the integrated instrument. Reading order, the binding/support split, and corpus edition metadata are maintained in [README.md](README.md).
+
+</details>
+
+<br>
 
 ---
 ## CHAPTER TEN: FOUNDATIONAL RIGHTS

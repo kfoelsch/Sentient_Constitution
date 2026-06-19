@@ -1,8 +1,15 @@
 # Amendment, supremacy, and non-regression
 
-This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one instrument. It contains **Chapters Twelve through Fourteen**; chapter numbering and cross-references match the integrated instrument. Reading order, the binding/support split, and corpus edition metadata are maintained in [README.md](README.md).
+<details>
+<summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
-**Application baseline.** Chapters Twelve through Fourteen apply subject to the Rights Floor in [Chapter Ten](core_10-10_rights_part_a.md#chapter-ten-foundational-rights) through [Part D](core_10-10_rights_part_d.md), definition and verification discipline in [Chapters Two through Five](core_02-04_definition_mechanics.md), and legitimacy requirements in [Chapter Eleven](core_11-11_governance.md#chapter-eleven-constitutional-contract-legitimacy-authorization-and-stewardship). Amendment validity must preserve both [Two Constitutional Aims](core_01_a_values_principles.md#two-constitutional-aims) — **Flourishing** and **Continuity** — and must not hollow the [Constitutional Triad](core_00_preamble.md#constitutional-triad) below [material stake](core_00_preamble.md#material-stake) requirements.
+> The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this file or in other chapters.
+>
+> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one instrument. It contains **Chapters Twelve through Fourteen**. Amendment validity must preserve both [Two Constitutional Aims](core_01_a_values_principles.md#two-constitutional-aims) — **Flourishing** and **Continuity** — and must not hollow the [Constitutional Triad](core_00_preamble.md#constitutional-triad) below [material stake](core_00_preamble.md#material-stake) requirements. Chapter numbering and cross-references match the integrated instrument. Reading order, the binding/support split, and corpus edition metadata are maintained in [README.md](README.md).
+
+</details>
+
+<br>
 
 ---
 

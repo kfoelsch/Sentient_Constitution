@@ -1,9 +1,18 @@
 # Stewardship, Capacity, and Constitutional Safeguards (Chapter One, Part B)
 
-This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one instrument. It contains **Chapter One, Part B** (§§6–13).
+<details>
+<summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
-**Upstream:** [core_01_a_values_principles.md](core_01_a_values_principles.md) (Chapter One, Part A)  
-**Next:** [core_02-04_definition_mechanics.md](core_02-04_definition_mechanics.md)
+> The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this file or in other chapters.
+>
+> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one instrument. It contains **Chapter One, Part B** (§§6–13).
+>
+> **Upstream:** [core_01_a_values_principles.md](core_01_a_values_principles.md) (Chapter One, Part A)  
+> **Next:** [core_02-04_definition_mechanics.md](core_02-04_definition_mechanics.md)
+
+</details>
+
+<br>
 
 ---
 <a id="chapter-01-part-b-stewardship-capacity-and-constitutional-safeguards"></a>

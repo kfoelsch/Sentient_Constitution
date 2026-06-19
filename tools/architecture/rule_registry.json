@@ -51,6 +51,13 @@
       "status": "blocking"
     },
     {
+      "id": "NAV-PLACEMENT-01",
+      "legacy_ref": "doc_architecture file-top placement",
+      "summary": "Single collapsed Corpus placement widget at file top; no visible binding banner, Application baseline, or redundant file-top prose.",
+      "make_target": "file-top-placement-audit",
+      "status": "blocking"
+    },
+    {
       "id": "NAV-INDEX-13",
       "legacy_ref": "doc_architecture rule 13",
       "summary": "Chapter Three section 1 link-only A-Z in-chapter index.",

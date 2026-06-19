@@ -1,8 +1,15 @@
 # Foundational Rights (Part B)
 
-This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one instrument. It contains **Chapter Ten, Part B**; article numbering and cross-references match the integrated instrument. Reading order, the binding/support split, and corpus edition metadata are maintained in [README.md](README.md).
+<details>
+<summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
-Read this file together with [core_10-10_rights_part_a.md](core_10-10_rights_part_a.md), which carries the chapter-wide opening contract, default constraint stack, reading-order explanation, interpretive hubs, and reader map for Chapter Ten.
+> The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this file or in other chapters.
+>
+> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one instrument. It contains **Chapter Ten, Part B**; article numbering and cross-references match the integrated instrument. Reading order, the binding/support split, and corpus edition metadata are maintained in [README.md](README.md).
+
+</details>
+
+<br>
 
 ---
 ## CHAPTER TEN: FOUNDATIONAL RIGHTS

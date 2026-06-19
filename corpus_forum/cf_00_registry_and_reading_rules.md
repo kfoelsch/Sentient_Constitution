@@ -2,14 +2,13 @@
 
 *In plain terms: this file is the front door to the **forum** rulebook — how panels form, cases route, appeals work, and forum operations stay independent when the constitution requires a fair hearing.*
 
-**Corpus edition:** `SC-Corpus-2026.04.33` · **Effective date:** 2026-04-24
-
 <details>
-<summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): edition, status, and where this file lives</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
 > The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this file or in other corpus files.
 >
 > **Edition and alignment**
+> - **Corpus edition:** `SC-Corpus-2026.04.33` · **Effective date:** 2026-04-24
 > - These labels track the same edition metadata as the numbered `core_*.md` files (see [README.md](../README.md)), [corpus_joint_structure.md](../corpus_joint_structure.md), [corpus_systems.md](../corpus_systems.md), and [corpus_institutions.md](../corpus_institutions.md).
 >
 > **Status**
@@ -20,28 +19,19 @@
 > - **Navigation wrapper:** [corpus_forum.md](../corpus_forum.md) indexes the `corpus_forum/` subfiles.
 > - **Constitutional owner:** [core_09-09_forum.md](../core_09-09_forum.md) **Chapter Nine** owns forum-family routing and constitutional forum doctrine; this file operationalizes it and must not redefine it.
 > - **Shared contract:** [corpus_joint_structure.md](../corpus_joint_structure.md) **CJS-1.2** (*Shared implementation-corpus preamble contract*).
-
-</details>
-
-<br>
-
-**Quick orientation**
-
-The forum layer (**CF**) owns forum structure, independence safeguards, process governance, and continuity mechanics:
-
-- **CJS** — [corpus_joint_structure.md](../corpus_joint_structure.md)
-- **CS** — [corpus_systems.md](../corpus_systems.md)
-- **CI** — [corpus_institutions.md](../corpus_institutions.md)
-- **CF** — this folder (`corpus_forum/`)
-
-**CF** does not create new forum families beyond those authorized in **Chapter Nine**. It does not redefine constitutional terms, Rights Floors, or offense taxonomy.
-
-Shared preamble contract: apply [corpus_joint_structure.md](../corpus_joint_structure.md) **CJS-1.2** (*Shared implementation-corpus preamble contract*).
-
-<details>
-<summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): routing anchors and cluster index</span></strong></summary>
-
-> The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this file or in other corpus files.
+>
+> **Implementation layer map**
+>
+> The forum layer (**CF**) owns forum structure, independence safeguards, process governance, and continuity mechanics:
+>
+> - **CJS** — [corpus_joint_structure.md](../corpus_joint_structure.md)
+> - **CS** — [corpus_systems.md](../corpus_systems.md)
+> - **CI** — [corpus_institutions.md](../corpus_institutions.md)
+> - **CF** — this folder (`corpus_forum/`)
+>
+> **CF** does not create new forum families beyond those authorized in **Chapter Nine**. It does not redefine constitutional terms, Rights Floors, or offense taxonomy.
+>
+> Shared preamble contract: apply [corpus_joint_structure.md](../corpus_joint_structure.md) **CJS-1.2** (*Shared implementation-corpus preamble contract*).
 >
 > **Principle-layer routing:** Read with [Chapter One](../core_01_b_stewardship_capacity_principles.md#chapter-01-principles-and-constraints), [Chapters Six–Nine constitutional compass](../core_06-06_standing_assessment.md#chapters-six-nine-constitutional-compass), and [Chapter Nine](../core_09-09_forum.md#chapter-nine-forums-and-jurisdiction) — forums implement [Constitutional Triad](../core_00_preamble.md#constitutional-triad) **participation** and **oversight** legs, scaled to [material stake](../core_00_preamble.md#material-stake). Panel formation, recusal, and review lanes are primary operational homes in **CF-5** (*Routing operations, transfer, certification, and representative treatment*), **CF-7** (*Integrity safeguards and anti-self-judging*), and **CF-8** (*Forum forensic and analytical support*).
 >
@@ -54,6 +44,8 @@ Shared preamble contract: apply [corpus_joint_structure.md](../corpus_joint_stru
 > **Implementation cross-reference index (routing only):** Read with Chapter Five constitutional definitions and `corpus_joint_structure.md` **CJS-5** (*Implementation and cross-implementation operational cluster library*) operational clusters where materially applicable. This index does not redefine owner-layer meaning.
 
 </details>
+
+<br>
 
 ---
 
