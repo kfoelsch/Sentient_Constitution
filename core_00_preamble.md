@@ -37,7 +37,8 @@ That objective is interpreted through:
 - **Chapter One** — principles and constraints
 - **Chapters Two through Four** — definition structure, integrity, burden, tracing, and verification
 - **Chapter Five** in [core_05-05_definitions_a_independent.md](core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) — **Foundational Definitions** and related definitional obligations only; it does **not** state the Rights Floor
-- **Chapters Six through Eight** — contribution and violation **classification** (Axes I and II), final **Violation Axis s = 7, 8, or 9** anti-constitutional misconduct, and forum / jurisdiction allocation
+- **Chapters Six through Eight** — contribution and violation **classification** (Axes I and II) and final **Violation Axis s = 7, 8, or 9** anti-constitutional misconduct under the [Chapters Six–Nine compass](core_06-06_standing_assessment.md#chapters-six-nine-constitutional-compass)
+- **Chapter Nine** — forum families, jurisdiction, and cross-forum anti-self-judging (same compass)
 - **Chapter Ten** — Foundational Rights
 - **Chapter Eleven** — Constitutional Contract Layer, legitimacy, authorization, and stewardship
 

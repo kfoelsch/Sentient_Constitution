@@ -16,10 +16,9 @@ Custody and binding scope: [Chapter Five *Corpus*](core_05i_integrative_definiti
 
 1. **Chapter One** — preamble ([`core_00_preamble.md`](core_00_preamble.md)); Values Principles, Part A ([`core_01_a_values_principles.md`](core_01_a_values_principles.md)); Stewardship, Capacity, and Constitutional Safeguards, Part B ([`core_01_b_stewardship_capacity_principles.md`](core_01_b_stewardship_capacity_principles.md)).
 2. **Chapters Two through Five** — definition structure, integrity, burden, traceability, and the definition stack ([`core_02-04_definition_mechanics.md`](core_02-04_definition_mechanics.md); Chapter Five Parts A–C below). Chapter Five is the **definition stack**, not the Rights Floor.
-3. **Chapters Six through Eight** — one **standing pipeline**: standing record → verified input → contribution / violation classification → attachments, descriptors, locks, and effects → Chapter Eight top-slot review for Violation Axis **s = 7, 8, or 9** anti-constitutional misconduct.
-4. **Chapter Nine** — constitutional forum families, jurisdiction, and cross-forum anti-self-judging ([`core_09-09_forum.md`](core_09-09_forum.md)).
-5. **Chapter Ten** — Rights Floor, Articles I–XXV in planet-first Parts A–D ([`core_10-10_rights_part_a.md`](core_10-10_rights_part_a.md) through [`core_10-10_rights_part_d.md`](core_10-10_rights_part_d.md); article map in [doc_architecture.md](doc_architecture.md) **section 5**).
-6. **Chapters Eleven through Fifteen** — governance, non-regression, supremacy, amendment and ratification, and the incorporation bridge.
+3. **Chapters Six through Nine** — enforce the [Constitutional Triad](core_00_preamble.md#constitutional-triad) and [Two Constitutional Aims](core_01_a_values_principles.md#two-constitutional-aims) through one **standing and adjudication pipeline** ([Chapters Six–Nine compass](core_06-06_standing_assessment.md#chapters-six-nine-constitutional-compass)): standing record → verified input → contribution / violation classification → attachments, descriptors, locks, and effects → Chapter Eight top-slot review for Violation Axis **s = 7, 8, or 9** anti-constitutional misconduct; **Chapter Nine** supplies forum families, jurisdiction, and cross-forum anti-self-judging ([`core_09-09_forum.md`](core_09-09_forum.md)).
+4. **Chapter Ten** — Rights Floor, Articles I–XXV in planet-first Parts A–D ([`core_10-10_rights_part_a.md`](core_10-10_rights_part_a.md) through [`core_10-10_rights_part_d.md`](core_10-10_rights_part_d.md); article map in [doc_architecture.md](doc_architecture.md) **section 5**).
+5. **Chapters Eleven through Fifteen** — governance, non-regression, supremacy, amendment and ratification, and the incorporation bridge.
 
 The corpus is written in plain language with low jargon to improve accessibility, audit readability, and adoption testing.
 
@@ -42,8 +41,9 @@ The corpus is written in plain language with low jargon to improve accessibility
   - Continuity band — §1/§2/§3 **§3.12–§3.15** — [`core_05c_continuity_definitions.md`](core_05c_continuity_definitions.md)
   - Integrative band — §1/§2/§3 **§3.16** — [`core_05i_integrative_definitions.md`](core_05i_integrative_definitions.md)
 
-### Standing pipeline
+### Standing pipeline and forums
 
+- **Chapters Six–Nine compass** — Triad / Aims reader map for the standing and adjudication pipeline — [`#chapters-six-nine-constitutional-compass`](core_06-06_standing_assessment.md#chapters-six-nine-constitutional-compass)
 - **Chapter Six** — standing records, verified inputs, slot grammar, contribution / violation classification — [`core_06-06_standing_assessment.md`](core_06-06_standing_assessment.md)
 - **Chapter Seven** — standing effects, attachments, descriptors, locks, enforcement — [`core_07-07_standing_integration.md`](core_07-07_standing_integration.md)
 - **Chapter Eight** — top-slot finalization for final **s = 7, 8, or 9** anti-constitutional misconduct — [`core_08-08_misconduct.md`](core_08-08_misconduct.md)
@@ -77,6 +77,7 @@ Cross-topic entry points not spelled out in the headings above:
 - Burden of proof, traceability, verification → **Chapter Four** ([`core_02-04_definition_mechanics.md`](core_02-04_definition_mechanics.md))
 - Constitutional Triad, Two Constitutional Aims, material stake → **Chapter 00** and **Chapter One, Part A** ([`#constitutional-triad`](core_00_preamble.md#constitutional-triad), [`#two-constitutional-aims`](core_01_a_values_principles.md#two-constitutional-aims), [`#material-stake`](core_00_preamble.md#material-stake))
 - Contribution / violation classification (Axis I and II) → **Chapter Six**
+- Chapters Six–Nine compass (Triad / Aims) → [`#chapters-six-nine-constitutional-compass`](core_06-06_standing_assessment.md#chapters-six-nine-constitutional-compass)
 - Standing locks and integration consequences → **Chapter Seven**
 - Anti-constitutional misconduct gravity and top-slot review → **Chapter Eight**
 - Incorporation boundary and custody effect → **Chapter Fifteen**

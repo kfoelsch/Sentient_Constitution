@@ -12,7 +12,11 @@ Chapter Six opens the **standing record**, applies the **verified input** gate, 
 
 ## CHAPTER EIGHT: ANTI-CONSTITUTIONAL MISCONDUCT
 
+*Non-operative subtitle:* Continuity and triad-capture guard at Violation Axis **s = 7, 8, or 9**.
+
 This chapter is used only for the most serious anti-constitutional misconduct. It does not cover every violation, and it does not create a separate process. Its job is to decide whether a verified anti-constitutional violation belongs in one of the three highest **Violation Axis** slots: **s = 7**, **s = 8**, or **s = 9**.
+
+Under the [Continuity aim](core_01_a_values_principles.md#continuity) and [Two Constitutional Aims](core_01_a_values_principles.md#two-constitutional-aims), top-slot assignment protects long-horizon constitutional operation when conduct threatens to hollow the [Constitutional Triad](core_00_preamble.md#constitutional-triad) — **oversight**, **participation**, and **accountability** — below [material stake](core_00_preamble.md#material-stake) requirements. Read [Chapters Six–Nine constitutional compass](core_06-06_standing_assessment.md#chapters-six-nine-constitutional-compass) first.
 
 By the time a matter reaches this chapter, the basic work should already be done. Chapter Six should have opened a bounded **standing record**, applied the **verified input** gate, and placed the matter on the shared classification scale. Chapter Seven should have handled ordinary standing integration, including any standing locks and consequence rules.
 
@@ -46,14 +50,19 @@ The named patterns in section 6 are not separate shortcuts. Flooding, bribery, u
 - **Chapter Ten:** supplies the Rights Floor and Article XXIII review and publication safeguards.
 - **Chapter Eleven:** supplies governance legitimacy consequences tied to final Chapter Eight classification.
 - **Chapters Twelve through Fourteen:** supply change-path validity, referral, procedural, and custody rules; they do not assign final Chapter Eight slots.
+- Read with: [Chapters Six–Nine constitutional compass](core_06-06_standing_assessment.md#chapters-six-nine-constitutional-compass).
 
 </details>
 
 <br>
 
-*In plain terms: this chapter is the top of the standing pipeline — it decides only whether verified misconduct reaches the highest three violation slots after Chapters Six and Seven have done their work.*
+*In plain terms: Under the [Continuity aim](core_01_a_values_principles.md#continuity), this chapter **guards** the top of the standing pipeline — it decides only whether verified misconduct reaches the highest three violation slots after Chapters Six and Seven have done their work, when conduct amounts to **triad capture** at scale.*
 
 <a id="1-scope-and-authority"></a>
+
+<a id="chapter-eight-part-a-continuity-frame"></a>
+
+## PART A — CONTINUITY AND TRIAD-CAPTURE FRAME
 
 ### 1. Decision framework, scope, and authority
 <details>
@@ -66,6 +75,7 @@ The named patterns in section 6 are not separate shortcuts. Flooding, bribery, u
 - Safeguards and discipline: [§4](#4-due-process-safeguards-for-slot-classification) (*Due-process safeguards*); [§5](#5-cross-chapter-discipline) (*Cross-chapter discipline*).
 - Pattern applications: [§6](#6-pattern-applications-and-criteria-routing) (*named patterns route into the same criteria and slot rules*).
 - Read with: [Chapters Twelve through Fourteen](core_12-14_amendment.md#chapter-twelve-non-regression-and-substantive-amendment-validity) where **regressive deception** and change-path conduct may implicate **criteria 1–4**.
+- Triad leg(s): **oversight**, **participation**, **accountability** (triad capture at scale). Primary aim(s): **Continuity** (primary), **Flourishing**. [material stake](core_00_preamble.md#material-stake) scaling applies to safeguards and gravity.
 
 </details>
 
@@ -85,6 +95,10 @@ The named patterns in section 6 are not separate shortcuts. Flooding, bribery, u
 6. preserve the cross-chapter boundary in **section 5** and use **section 6** named patterns only as applications of this same sequence.
 
 Section **6** does not create a second catalogue of independent offenses. It states how recurring anti-constitutional patterns route into the unified-incident record, criteria set, gravity rules, safeguards, and chapter boundaries already stated in **sections 1 through 5**.
+
+<a id="chapter-eight-part-b-accountability-scale"></a>
+
+## PART B — ACCOUNTABILITY AT CONSTITUTIONAL SCALE
 
 ### 2. Criteria set (for slot assignment)
 <details>
@@ -161,6 +175,10 @@ Classification proceeds by **unified incident** and final **Violation Axis** slo
 - **Grave anti-constitutional misconduct:** A **final** finding, with **section 4** safeguards, that the **unified incident** is a **single catastrophic incident** **or** a **sustained high-gravity pattern**. That classification requires independent forum review and proportional sanctions or remediation where confirmed. **Alternatively**, a **final** finding that **criterion 5** **or** **criterion 6** **alone** is satisfied—with **section 4** safeguards and accountable attribution under **Chapters Two through Four**—creates the **same** grave classification.
 - **Pernicious anti-constitutional misconduct:** grave is established and at least one added condition is present. The added condition may be both **criterion 5** and **criterion 6** being independently substantiated on the **unified incident** record. It may also be a **single catastrophic incident**, or a **sustained high-gravity pattern**, that includes substantiated **criterion 5** or **criterion 6**. That slot assignment requires maximum constitutional safeguards, remedy priority for affected parties, and anti-capture oversight. 
 
+<a id="chapter-eight-part-c-oversight-safeguards"></a>
+
+## PART C — OVERSIGHT SAFEGUARDS
+
 ### 4. Due-process safeguards for slot classification
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
@@ -178,6 +196,10 @@ Classification proceeds by **unified incident** and final **Violation Axis** slo
 *In plain terms: nobody gets a final anti-constitutional slot 7, 8, or 9 without process. There has to be independent review, a real chance to respond, and a reasoned public record. A genuine drafting mistake that is fixed fast can take some change/record cases out of slots 8 and 9, but it does not excuse a real coup path.*
 
 No final **Violation Axis anti-constitutional misconduct** classification under this chapter may be issued without independent review, contestable notice, and reasoned publication. Publication must satisfy **Chapters Two through Four** tracing standards and **Article XXIII-A** review safeguards. Good-faith drafting error that is promptly disclosed and cured before constitutional effect is not anti-constitutional misconduct **when** that error is material only to **criteria 1–4** in **change** or **record** contexts; it does **not** excuse **criteria 5** or **6** conduct.
+
+<a id="chapter-eight-part-e-cross-chapter-discipline"></a>
+
+## PART E — CROSS-CHAPTER DISCIPLINE
 
 ### 5. Cross-chapter discipline
 <details>
@@ -200,6 +222,10 @@ No final **Violation Axis anti-constitutional misconduct** classification under 
 Those chapters decide whether the constitutional change itself can stand. They do **not** decide the final misconduct label for the sentients or institutions involved. If conduct within this chapter's scope may deserve a final anti-constitutional misconduct classification, including a final **Violation Axis** slot, any connected sanctions, or escalation as anti-constitutional misconduct, that decision remains **in this chapter**.
 
 <a id="6-criteria-interactions-and-named-pattern-routing"></a>
+
+<a id="chapter-eight-part-d-participation-pathways"></a>
+
+## PART D — PARTICIPATION AND PATHWAY INTEGRITY
 
 ### 6. Pattern applications and criteria routing
 <details>

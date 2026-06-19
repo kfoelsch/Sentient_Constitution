@@ -32,8 +32,8 @@ Filename renames require: reference audit, same-change link updates, dated evide
 | Layer | Primary home | Routing |
 |--------|--------------|---------|
 | Values, definition mechanics, definitions | Sentient Constitution `core_*` Ch 1–5 | [README.md](README.md) reading order |
-| Standing pipeline | Ch 6–8 | `core_06-06_standing_assessment.md` through `core_08-08_misconduct.md` |
-| Forums (constitutional) | Ch 9 | `core_09-09_forum.md` |
+| Standing pipeline | Ch 6–8 | `core_06-06_standing_assessment.md` through `core_08-08_misconduct.md`; comprehension layer: [Chapters Six–Nine compass](core_06-06_standing_assessment.md#chapters-six-nine-constitutional-compass) |
+| Forums (constitutional) | Ch 9 | `core_09-09_forum.md` (same compass) |
 | Rights (Articles I–XXV) | Ch 10 | `core_10-10_rights_part_*.md`; titles via `make reference-audit` |
 | Governance / amendment / incorporation | Ch 11–15 | `core_11-11_governance.md`, `core_12-14_amendment.md`, `core_15-15_incorporation.md` |
 | Cross-implementation joint structure | CJS | [corpus_joint_structure.md](corpus_joint_structure.md) **CJS-2.1** (*Topic router*) |

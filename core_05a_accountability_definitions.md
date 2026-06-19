@@ -931,6 +931,7 @@ This cluster is the joint-invocation home for the six constitutional forum famil
 - Constitutional frame: **Accountability** leg; **Flourishing** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality Determination](../core_05o_oversight_definitions.md#materiality-determination).
 - Chapter One basis: §6.1, §6.3, §6.4, §7.1, §8 (see [Chapter Five compass](../core_05-05_definitions_a_independent.md#chapter-five-compass-and-definition-map) map).
 - Read with: Apply [Auditability](core_05o_oversight_definitions.md#auditability), [Contestability](core_05a_accountability_definitions.md#contestability), [Materiality Determination](core_05o_oversight_definitions.md#materiality-determination), [Adjudication and Dispute Resolution](core_05a_accountability_definitions.md#adjudication-and-dispute-resolution-constitutional), [Chapter Six §4.0](core_06-06_standing_assessment.md#40-slot-grammar-and-display-labels), [Chapter Seven §4.3](core_07-07_standing_integration.md#standing-integration-slot-band-standing-locks), and [Chapter Eight](core_08-08_misconduct.md#chapter-eight-anti-constitutional-misconduct) where materially implicated.
+- Downstream: [Chapters Six–Nine constitutional compass](core_06-06_standing_assessment.md#chapters-six-nine-constitutional-compass) (*reader map for Chapters Six through Nine pipeline and Triad / Aims framing*).
 
 </details>
 
