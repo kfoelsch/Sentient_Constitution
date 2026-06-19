@@ -67,9 +67,7 @@ The named patterns in section 6 are not separate shortcuts. Flooding, bribery, u
 
 <a id="chapter-eight-part-a-continuity-frame"></a>
 
-## PART A — CONTINUITY AND TRIAD-CAPTURE FRAME
-
-### 1. Decision framework, scope, and authority
+### 1. Decision framework, scope, and authority — Continuity and triad-capture frame
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
@@ -103,9 +101,7 @@ Section **6** does not create a second catalogue of independent offenses. It sta
 
 <a id="chapter-eight-part-b-accountability-scale"></a>
 
-## PART B — ACCOUNTABILITY AT CONSTITUTIONAL SCALE
-
-### 2. Criteria set (for slot assignment)
+### 2. Criteria set (for slot assignment) — Accountability at constitutional scale
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
@@ -182,9 +178,7 @@ Classification proceeds by **unified incident** and final **Violation Axis** slo
 
 <a id="chapter-eight-part-c-oversight-safeguards"></a>
 
-## PART C — OVERSIGHT SAFEGUARDS
-
-### 4. Due-process safeguards for slot classification
+### 4. Due-process safeguards for slot classification — Oversight safeguards
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
@@ -203,8 +197,6 @@ Classification proceeds by **unified incident** and final **Violation Axis** slo
 No final **Violation Axis anti-constitutional misconduct** classification under this chapter may be issued without independent review, contestable notice, and reasoned publication. Publication must satisfy **Chapters Two through Four** tracing standards and **Article XXIII-A** review safeguards. Good-faith drafting error that is promptly disclosed and cured before constitutional effect is not anti-constitutional misconduct **when** that error is material only to **criteria 1–4** in **change** or **record** contexts; it does **not** excuse **criteria 5** or **6** conduct.
 
 <a id="chapter-eight-part-e-cross-chapter-discipline"></a>
-
-## PART E — CROSS-CHAPTER DISCIPLINE
 
 ### 5. Cross-chapter discipline
 <details>
@@ -230,9 +222,7 @@ Those chapters decide whether the constitutional change itself can stand. They d
 
 <a id="chapter-eight-part-d-participation-pathways"></a>
 
-## PART D — PARTICIPATION AND PATHWAY INTEGRITY
-
-### 6. Pattern applications and criteria routing
+### 6. Pattern applications and criteria routing — Participation and pathway integrity
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 

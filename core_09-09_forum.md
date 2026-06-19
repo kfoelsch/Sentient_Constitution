@@ -23,7 +23,7 @@
 >
 > Where this lives (navigation):
 > - **Constitutional owner:** **section 1** (*purpose* — **primary adjudicative application** of norms this chapter allocates, **as distinct from** routine **executive administration**; **accountability** requirements; **published**, **predictable** **threshold** placement); **default starting venue**, **primary-stakes** routing, and **sentient-accessible** **threshold** **access** expectations (**section 2**, **read with** **sections 5 and 8** and **`corpus_forum.md`**); **forensic and analytical support** across families (**section 3**); **forum families** (sentient, technical, institutional, environment, integrity, constitutional — **section** **4**, mirroring **section** **2**’s **table**); **per-family intake triage** (**section 5**) together with **transfer**, **consolidation**, **certification**, and **backup** discipline (**sections 6 and 7**), implemented so triage **does not** substitute for **lawfully constituted merits panels**; **anti-self-judging** backup routing; and **escalation** hooks tied to **Chapter Six**, **Chapter Eight**, and **Chapter Ten** justice and challenge rights.
-> - **Triad / Aims map:** [Chapters Six–Nine constitutional compass](core_06-06_standing_assessment.md#chapters-six-nine-constitutional-compass) — Parts **A** through **E** in this file.
+> - **Triad / Aims map:** [Chapters Six–Eight standing pipeline map](core_06-06_standing_assessment.md#chapters-six-nine-constitutional-compass) — [§§1–9](#2-purpose-and-role) in this file.
 > - **Chapter Six §§4.0, 3.1, 3.3, 5, 6.1, 6.2, and 6.3 read with section 2:** The **section 4.0** standing-slot grammar and **section 4.1** primary slot defaults supply the shared **s** = 1...9 grammar for disputes this chapter routes. The **shared domain lens** table ([Chapter Six §6](core_07-07_standing_integration.md#71-shared-domain-lenses-cross-axis-vocabulary)) coordinates **Contribution Axis** and **Violation Axis** supplemental vocabulary; **stackable** **Contribution Axis** benefit-and-stewardship descriptors ([Chapter Six §7](core_07-07_standing_integration.md#72-stackable-benefit-and-stewardship-descriptors-contribution-state-supplement)) may inform **contestable** **positive-path** emphasis where **standing** or **recognition** narratives are material; **stackable** **Violation Axis** harm-and-conduct descriptors ([Chapter Six §6.3](core_07-07_standing_integration.md#73-stackable-harm-and-conduct-descriptors-violation-nature-supplement)), the Chapter Six **section 4.3** severity ladder, and Chapter Six **section 5** process / response character may inform **primary** stake, safeguards, and **lead** routing under **section 2**; none of those layers is restated here and none relocates final **Chapter Eight s = 7, 8, or 9** slot-assignment substance.
 > - **Forums (non-operative gloss):** **Forum families** under this chapter are the primary **forums** that apply [Chapter Six](core_06-06_standing_assessment.md#chapter-six-compliance-violation-and-standing-model) classifications to concrete disputes — including matters where **contribution state** (including **recognition** and uplift narratives), **violation severity**, and process / response character **co-present** and must be handled under **Chapter Six** joint-assessment and non-substitution discipline. **Research funding**, **financing**, and **incentive** mechanisms outside adjudication remain in adopted implementation and **[corpus_systems.md](corpus_systems.md)** (see **Chapter Six** reader guidance); they may support prevention and root-cause inquiry and **must not** substitute for **threshold** routing, **merits** determination, authoritative **Chapter Eight** slot assignment where applicable, or **Article XXIII** constraints. **Sections 1, 4.5, 5, 8, and 9** allocate **primary** responsibility for **incentive** structures **primarily** **within** each **family’s** **sphere** (granular detail in **corpus** and implementation); that **allocation** **does** **not** relocate **system-wide** **budget** or **governance-scale** choices reserved to [Chapter Eleven](core_11-11_governance.md#chapter-eleven-constitutional-contract-legitimacy-authorization-and-stewardship) and **[corpus_systems.md](corpus_systems.md)**.
 > - **Implementation owner:** published intake **classes**, day-to-day docket rules, staffing, budgets, granular procedure, operational escalation mechanics, and forensic-support operational requirements live in adopted implementation text and in **[corpus_forum.md](corpus_forum.md)** (**CF-5** (*Routing operations, transfer, certification, and representative treatment*), **CF-8** (*Forum forensic and analytical support*), and related sections); those layers **implement, not narrow**, this chapter.
@@ -53,9 +53,7 @@
 
 <a id="chapter-nine-part-a-participation-architecture"></a>
 
-## PART A — PARTICIPATION ARCHITECTURE
-
-### 1. Purpose and role
+### 1. Purpose and role — participation architecture
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
@@ -133,9 +131,7 @@ At filing, **default** venue follows these rules unless **section 6** transfers 
 
 <a id="chapter-nine-part-b-oversight-architecture"></a>
 
-## PART B — OVERSIGHT ARCHITECTURE
-
-### 3. Forensic and analytical support
+### 3. Forensic and analytical support — oversight architecture
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
@@ -153,9 +149,7 @@ Forum families must have access to **independent** **forensic** or **analytical*
 
 <a id="chapter-nine-part-c-accountability-adjudication"></a>
 
-## PART C — ACCOUNTABILITY THROUGH ADJUDICATION
-
-### 4. Forum families
+### 4. Forum families — accountability through adjudication
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
@@ -293,9 +287,7 @@ Operational requirements — including **published intake classes**, attributabl
 
 <a id="chapter-nine-part-d-continuity-anti-capture"></a>
 
-## PART D — CONTINUITY AND ANTI-CAPTURE
-
-### 6. Transfer, consolidation, and coordination
+### 6. Transfer, consolidation, and coordination — continuity and anti-capture
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
@@ -438,9 +430,7 @@ Incentive devices must not be structured or applied to reward forum shopping, op
 
 <a id="chapter-nine-part-e-implementation-boundary"></a>
 
-## PART E — IMPLEMENTATION BOUNDARY
-
-### 9. Relation to implementation files
+### 9. Relation to implementation files — implementation boundary
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 

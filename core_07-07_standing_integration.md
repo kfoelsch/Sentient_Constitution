@@ -21,34 +21,18 @@
 
 <a id="chapter-seven-part-a-orientation"></a>
 
-## PART A — ORIENTATION
-
 <details>
 <summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): where this file lives</span></strong></summary>
 
 > The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this chapter or in other chapters.
 >
-> **Reading map:**
+> **Core idea:** classification is separated from integration. Chapter Six defines the Contribution Axis (**Flourishing**) and Violation Axis (**Accountability**). This chapter states what those classifications do to standing, trust, roles, remedies, safeguards, and enforcement, while preserving the no-offset rule and Triad scaling. Pipeline position and Triad / Aims framing: [Chapters Six–Eight standing pipeline map](core_06-06_standing_assessment.md#chapters-six-nine-constitutional-compass).
 >
-> | Location | Role |
-> | --- | --- |
-> | **[Chapter Six — classification and record foundation](core_06-06_standing_assessment.md#chapter-six-compliance-violation-and-standing-model)** (**sections 1–4**) | standing records, verified-input gate, slot grammar, Contribution Axis, Violation Axis, and slot calibration |
-> | **Chapter Seven — integration and consequences** (**sections 1–6**) | descriptor vocabulary, attachment rules, standing effects, standing locks, non-offset integration, enforcement anchors, and the Chapter Eight pointer |
-> | **[Chapter Eight — top-slot finalization](core_08-08_misconduct.md#chapter-eight-anti-constitutional-misconduct)** | final Violation Axis `s = 7`, `s = 8`, and `s = 9` anti-constitutional misconduct assignment within this same standing pipeline |
->
-> **Core idea:** classification is separated from integration under [Chapters Six–Nine constitutional compass](core_06-06_standing_assessment.md#chapters-six-nine-constitutional-compass). Chapter Six defines the Contribution Axis (**Flourishing**) and Violation Axis (**Accountability**). This chapter states what those classifications do to standing, trust, roles, remedies, safeguards, and enforcement, while preserving the no-offset rule and Triad scaling.
->
-> **Unified Standing Process:** Chapter Six opens the **standing record**, applies the **verified input** gate, and classifies contribution and violation. This chapter then adds any **attachment / descriptor**, assigns the **standing lock**, and states any **final standing effect**. If the verified violation may require Violation Axis `s = 7`, `s = 8`, or `s = 9` anti-constitutional misconduct assignment, this chapter routes the record to Chapter Eight **top-slot review**.
->
-> **Where you are in the pipeline:** Chapter Seven handles steps 4 and 5: attachments / descriptors, standing effects, standing locks, and enforcement realism.
->
-> **What this chapter decides:** it decides how verified classification records affect trust, roles, recognition, restrictions, remediation, review, and real-world enforcement.
+> **What this chapter decides:** how verified classification records affect trust, roles, recognition, restrictions, remediation, review, and real-world enforcement — pipeline steps 4–5: **attachment / descriptor**, **standing lock**, and **final standing effect**.
 >
 > **What this chapter does not decide:** it does not reopen unverified allegations, merge contribution and violation into one score, or issue final Chapter Eight top-slot assignment.
 >
-> **What happens next:** where a verified violation may be serious, grave, or pernicious anti-constitutional misconduct, Chapter Eight supplies the final top-slot criteria, gravity assignment, and due-process safeguards.
->
-> **Triad / Aims map:** [Chapters Six–Nine constitutional compass](core_06-06_standing_assessment.md#chapters-six-nine-constitutional-compass) — Part **B** through **G** in this file.
+> **Triad / Aims map:** [Chapters Six–Eight standing pipeline map](core_06-06_standing_assessment.md#chapters-six-nine-constitutional-compass) — [§§1–6](#5-standing-effects) in this file.
 
 </details>
 
@@ -67,13 +51,10 @@
 
 *In plain terms: Under the [Constitutional Triad](core_00_preamble.md#constitutional-triad) and [Two Constitutional Aims](core_01_a_values_principles.md#two-constitutional-aims), this file **integrates** verified standing — the middle of the pipeline. Chapter Six records and classifies verified contribution and verified violation findings; this chapter explains how those records affect trust, roles, recognition, restriction, remediation, safeguards, and real-world enforcement without hollowing triad duties below [material stake](core_00_preamble.md#material-stake). Positive contribution can matter, but it does not erase unresolved violation findings. If the violation may belong in the top anti-constitutional slots, this chapter points to Chapter Eight instead of deciding those slots itself. The recurring examples are practical: recent verified help counts more than stale credit; unresolved violations stay live; consequences must fit the offense and leave a lawful path back; harm must actually be repaired; remedy systems need capacity; and evasion through borders, shells, or relabeling does not defeat accountability.*
 
+<a id="5-standing-effects"></a>
 <a id="chapter-seven-part-b-flourishing-consequences"></a>
 
-## PART B — FLOURISHING CONSEQUENCES
-
-<a id="5-standing-effects"></a>
-
-### 1. Standing Effects
+### 1. Standing effects — Flourishing consequences
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
@@ -147,11 +128,11 @@ Satisfying a competency gate may support trust-, role-, authority-, oversight-, 
 <a id="36-restrictive-standing-effects"></a>
 <a id="35-restrictive-standing-effects"></a>
 
+<a id="5-standing-effects"></a>
+
 <a id="chapter-seven-part-c-accountability-consequences"></a>
 
-## PART C — ACCOUNTABILITY CONSEQUENCES
-
-#### 1.3 Restrictive Standing Effects
+#### 1.3 Restrictive standing effects — Accountability consequences
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
@@ -276,9 +257,7 @@ Restoration may require completed correction, restitution, monitoring, safeguard
 
 <a id="chapter-seven-part-d-oversight-vocabulary"></a>
 
-## PART D — OVERSIGHT VOCABULARY AND ATTACHMENTS
-
-### 2. Supplemental descriptors and domain lenses
+### 2. Supplemental descriptors and domain lenses — oversight vocabulary and attachments
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
@@ -669,9 +648,7 @@ Where multiple descriptors apply, the **primary** **harm** route **or** **primar
 
 <a id="chapter-seven-part-e-integrative-discipline"></a>
 
-## PART E — INTEGRATIVE DISCIPLINE (NO HOLLOWING)
-
-### 4. Coupling Between Contribution State and Violation Nature — Escalation Constraints
+### 4. Coupling between Contribution State and Violation Nature — integrative discipline (no hollowing)
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
@@ -819,9 +796,7 @@ The purpose of **standing locks** is to prevent recurrence of harmful, negligent
 
 <a id="chapter-seven-part-f-continuity-enforcement"></a>
 
-## PART F — CONTINUITY ENFORCEMENT
-
-### 5. Enforcement realism anchors
+### 5. Enforcement realism anchors — Continuity enforcement
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
@@ -889,9 +864,7 @@ Constitutional rights are only real if someone can invoke them, verify them, fun
 
 <a id="chapter-seven-part-g-chapter-eight-gateway"></a>
 
-## PART G — CHAPTER EIGHT GATEWAY
-
-### 6. Violation Axis s = 7–9 anti-constitutional misconduct — authoritative location
+### 6. Violation Axis s = 7–9 anti-constitutional misconduct — Chapter Eight gateway
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
