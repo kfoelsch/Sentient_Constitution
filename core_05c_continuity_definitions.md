@@ -1268,7 +1268,7 @@ This cluster is the joint-invocation home for principle-layer stewardship orient
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [§7.2 Short-Horizon Governance Defect](core_01_b_stewardship_capacity_principles.md#72-short-horizon-governance-defect); [§7 Governance Under Stewardship Discipline](core_01_b_stewardship_capacity_principles.md#7-governance-under-stewardship-discipline).
+- Downstream: Principles: [§7.2 Short-Horizon Governance Defects](core_01_b_stewardship_capacity_principles.md#72-short-horizon-governance-defects); [§7 Governance Under Stewardship Discipline](core_01_b_stewardship_capacity_principles.md#7-governance-under-stewardship-discipline).
 - Cluster component: [Stewardship, Governance Discipline, and Shared-System Capacity](core_05c_continuity_definitions.md#stewardship-governance-discipline-and-shared-system-capacity-cluster).
 - Read with: [Governance](core_05a_accountability_definitions.md#governance), [Stewardship](core_05c_continuity_definitions.md#stewardship-constitutional), [Stewardship Defect](core_05c_continuity_definitions.md#stewardship-defect-constitutional), [System Capture](core_05c_continuity_definitions.md#system-capture), [Proxy Divergence](core_05o_oversight_definitions.md#proxy-divergence), [Review and Correction Duty](core_05c_continuity_definitions.md#review-and-correction-duty-constitutional), and [Two Constitutional Aims](core_01_a_values_principles.md#two-constitutional-aims) — **Continuity** aim.
 
@@ -1467,7 +1467,15 @@ This cluster is the canonical O/E/C home for **Trust**, **Trustworthiness**, and
 <br>
 
 <a id="trustworthiness-o"></a>
-- **O:** Reliability of system behavior relative to stated properties — demonstrated through observable, verifiable conduct over time across normal, degraded, and stressed conditions — sufficient to justify [Trust](core_05c_continuity_definitions.md#trust). Trustworthiness encompasses: (a) evidentiary basis grounded in observable behavior and attributable actions; (b) psychological safety conditions enabling [Meaningful Agency](core_05p_participation_definitions.md#meaningful-agency); (c) transparent, auditable, and contestable methodology; (d) class-scaled assessment for Class A/B/C systems; (e) informed consent and non-coercive participation pathways; (f) defined scope boundaries for justified reliance; (g) continuous behavioral revalidation; and (h) incentive alignment sustaining rather than degrading reliability.
+- **O:** Reliability of system behavior relative to stated properties — demonstrated through observable, verifiable conduct over time across normal, degraded, and stressed conditions — sufficient to justify [Trust](core_05c_continuity_definitions.md#trust). Trustworthiness encompasses:
+  - evidentiary basis grounded in observable behavior and attributable actions;
+  - psychological safety conditions enabling [Meaningful Agency](core_05p_participation_definitions.md#meaningful-agency);
+  - transparent, auditable, and contestable methodology;
+  - class-scaled assessment for Class A/B/C systems;
+  - informed consent and non-coercive participation pathways;
+  - defined scope boundaries for justified reliance;
+  - continuous behavioral revalidation;
+  - incentive alignment sustaining rather than degrading reliability.
 
 <a id="trustworthiness-e"></a>
 - **E:** Assess trustworthiness through the joint evidentiary requirements below where material. Trustworthiness must appear in current, observable, verifiable behavior — not in assertion, reputation, or prior performance alone:
@@ -1509,7 +1517,14 @@ This cluster is the canonical O/E/C home for **Trust**, **Trustworthiness**, and
 <br>
 
 <a id="trust-degradation-and-misleading-reliance-o"></a>
-- **O:** Evaluation conditions in which material reliance on represented capability, risk, intent, limits, [Dependency](core_05c_continuity_definitions.md#dependency), **Axis I** contribution inputs (read with violation nature and standing where material), or cross-implementation assurance is at stake for decisions, continued participation, or [Oversight](core_05o_oversight_definitions.md#oversight-constitutional). This includes subscription, billing, classification, compliance, pathway, stewardship, and adjudication-support contexts where trust degradation is reasonably detectable or where prevention of misleading reliance is required. Observable pattern families used to detect trust erosion include: misrepresentation of capability, risk, or intent; inconsistency between behavior and disclosed function; accumulation of unresolved failures, inaccuracies, or harms; erosion of ability to verify, challenge, or exit; and material omission needed for informed understanding.
+- **O:** Evaluation conditions in which material reliance on represented capability, risk, intent, limits, [Dependency](core_05c_continuity_definitions.md#dependency), **Axis I** contribution inputs (read with violation nature and standing where material), or cross-implementation assurance is at stake for decisions, continued participation, or [Oversight](core_05o_oversight_definitions.md#oversight-constitutional).
+  - Included contexts: subscription, billing, classification, compliance, pathway, stewardship, and adjudication-support contexts where trust degradation is reasonably detectable or where prevention of misleading reliance is required.
+  - Observable pattern families used to detect trust erosion:
+    - misrepresentation of capability, risk, or intent;
+    - inconsistency between behavior and disclosed function;
+    - accumulation of unresolved failures, inaccuracies, or harms;
+    - erosion of ability to verify, challenge, or exit;
+    - material omission needed for informed understanding.
 
 <a id="trust-degradation-and-misleading-reliance-e"></a>
 - **E:** Confirm admission scope is materially present before applying joint-satisfaction discipline. Then evaluate through the following integrated requirements:

@@ -257,21 +257,33 @@ This does **not** elevate openness above **Safety**, **Truth**, justified confid
 
 #### 7.1 Governance as Authorized Structure
 
-*In plain terms: governance tells you who may decide and how — but only counts when it stays under stewardship discipline and does not eat the future for today's metrics.*
-
-**Governance** at principle layer means the structures, rules, allocation of authority, and processes by which already-authorized systems and institutions are directed and held accountable — as defined in Chapter Five ([Governance](core_05a_accountability_definitions.md#governance)) and operationalized under **Chapter Eleven** for the **Constitutional Contract Layer** and stakeholder participation layers stated in [Chapter 00](core_00_preamble.md#chapter-00-preamble--foundational-requirements).
-
-Governance is **necessary** but **not sufficient**. It must remain subordinate to **Stewardship** where procedural regularity, short-horizon optimization, or institutional self-protection would otherwise defeat durable alignment, **Continuity**, or Rights-Floor integrity.
-
 <a id="7-governance-as-authorized-structure"></a>
 
-#### 7.2 Short-Horizon Governance Defect
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Read with: [Constitutional Triad](core_00_preamble.md#constitutional-triad) — **participation** leg (authorized voice and consequential roles in direction); **oversight** leg (scrutiny of authority allocation and exercise); **accountability** leg (answerability for governance outcomes and capture); [material stake](core_00_preamble.md#material-stake) scaling.
+- Read with: [Two Constitutional Aims](core_01_a_values_principles.md#two-constitutional-aims) — **Flourishing** aim (governance that preserves meaningful agency and lawful participation); **Continuity** aim (durable institutional alignment and long-horizon stewardship discipline).
+- Upstream: Principles: [§6 Stewardship and Distributed Understanding](#6-stewardship-and-distributed-understanding); [Two Constitutional Aims](core_01_a_values_principles.md#two-constitutional-aims).
+- Downstream: [§7.2 Short-Horizon Governance Defects](#72-short-horizon-governance-defects); [§7.3 Incentive Alignment and System Capture](#73-incentive-alignment-and-system-capture); [Chapter Eleven](core_11-11_governance.md) (*Constitutional Contract Layer* operationalization).
+
+</details>
+
+<br>
+
+*In plain terms: governance tells you who may decide and how — but only counts when it stays under stewardship discipline, serves Flourishing and Continuity together, and does not hollow the Triad's oversight, participation, or accountability legs — or eat the future for today's metrics.*
+
+**Governance** at principle layer means the structures, rules, allocation of authority, and processes by which already-authorized systems and institutions are directed and held accountable — as defined in Chapter Five ([Governance](core_05a_accountability_definitions.md#governance)) and operationalized under **Chapter Eleven** for the **Constitutional Contract Layer** and stakeholder participation layers stated in [Chapter 00](core_00_preamble.md#chapter-00-preamble--foundational-requirements). Authorized governance must advance the [Two Constitutional Aims](core_01_a_values_principles.md#two-constitutional-aims) under the [Constitutional Triad](core_00_preamble.md#constitutional-triad), scaled to [material stake](core_00_preamble.md#material-stake).
+
+Governance is **necessary** but **not sufficient**. It must remain subordinate to **Stewardship** where procedural regularity, short-horizon optimization, or institutional self-protection would otherwise defeat durable alignment, [**Continuity**](core_01_a_values_principles.md#continuity), [**Flourishing**](core_01_a_values_principles.md#flourishing), or Rights-Floor integrity.
+
+#### 7.2 Short-Horizon Governance Defects
+
+<a id="72-short-horizon-governance-defects"></a>
 
 *In plain terms: governance that keeps hitting quarterly targets while hollowing safety, truth, participation, or the future is not "working governance" — it is a defect this Constitution names and corrects.*
 
-Systems must detect, disclose, and correct **[Short-Horizon Governance Defect](core_05c_continuity_definitions.md#short-horizon-governance-defect-constitutional)** through **Review and Correction Duty**, contestable oversight, and the incentive and capture discipline in **§§7.3–7.6**.
-
-<a id="72-short-horizon-governance-defect"></a>
+Systems must detect, disclose, and correct **short-horizon governance defects** ([Short-Horizon Governance Defect](core_05c_continuity_definitions.md#short-horizon-governance-defect-constitutional)) through **Review and Correction Duty**, contestable oversight, and the incentive and capture discipline in **§§7.3–7.6**.
 
 #### 7.3 Incentive Alignment and System Capture
 
@@ -382,7 +394,9 @@ Incentives must not reward, protect, normalize, or make materially advantageous 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [§7.3 Incentive Alignment and System Capture](#73-incentive-alignment-and-system-capture) (including [§7.3.1 Alignment Requirement](#73-alignment-requirement)); [§6 Stewardship and Distributed Understanding](#6-stewardship-and-distributed-understanding).
+- Read with: [Constitutional Triad](core_00_preamble.md#constitutional-triad) — **accountability** leg (operator answerability and anti-capture); **participation** leg (stewardship roles with real effect); **oversight** leg (auditable, contestable incentive structures); [material stake](core_00_preamble.md#material-stake) scaling.
+- Read with: [Two Constitutional Aims](core_01_a_values_principles.md#two-constitutional-aims) — **Flourishing** aim (constitutional outcomes and meaningful agency over proxy throughput); **Continuity** aim (durable [Productive Capacity](core_05c_continuity_definitions.md#productive-capacity-constitutional) and long-horizon stewardship discipline).
+- Upstream: Principles: [§7.3 Incentive Alignment and System Capture](#73-incentive-alignment-and-system-capture) (including [§7.3.1 Alignment Requirement](#73-alignment-requirement)); [§6 Stewardship and Distributed Understanding](#6-stewardship-and-distributed-understanding); [Two Constitutional Aims](core_01_a_values_principles.md#two-constitutional-aims).
 - Downstream: [§7.6 Misalignment Correction and Capture Response](#76-misalignment-correction-and-capture-response); [§9.1.4 Minimization of Avoidable Burden](#914-minimization-of-avoidable-burden); [§10.1 Required Evaluation Factors](#101-required-evaluation-factors).
 - Read with: [Productive Capacity](core_05c_continuity_definitions.md#productive-capacity-constitutional), [Constitutional Efficiency](core_05c_continuity_definitions.md#constitutional-efficiency), [Avoidable Burden](core_05c_continuity_definitions.md#avoidable-burden), and [Proxy Divergence](core_05o_oversight_definitions.md#proxy-divergence) in **Chapter Five**.
 
@@ -405,9 +419,9 @@ Incentives must not reward, protect, normalize, or make materially advantageous 
 
 <br>
 
-*In plain terms: operators who run shared systems should be paid and promoted for making things actually safer, truer, more auditable, and more capable over time — not for shipping more volume, hitting utilization targets, or gaming dashboards while constitutional harm piles up.*
+*In plain terms: operators who run shared systems should be paid and promoted for making things actually safer, truer, more auditable, and more capable over time — not for shipping more volume, hitting utilization targets, or gaming dashboards while constitutional harm piles up. Incentive alignment must serve Flourishing and Continuity together and must not hollow the Triad's oversight, participation, or accountability legs.*
 
-**Stewardship and operator incentive alignment** applies [Incentive Alignment](core_05i_integrative_definitions.md#incentive-alignment) from **§7.3** to stewards and operators. **Productive Capacity** and **Constitutional Efficiency** name what rewards may legitimately track: real, durable capacity and outcome-per-resource improvement. **Avoidable Burden** and **Proxy Divergence** guard against rewarding busywork or metrics that no longer prove outcomes. **Auditability**, **Safety**, **Truth**, and **System Capture** set the floor: no reward is valid if it pays for harm, falsehood, captured decision-making, or numbers that look efficient while constitutional outcomes erode.
+**Stewardship and operator incentive alignment** applies [Incentive Alignment](core_05i_integrative_definitions.md#incentive-alignment) from **§7.3** to stewards and operators under the [Two Constitutional Aims](core_01_a_values_principles.md#two-constitutional-aims) and [Constitutional Triad](core_00_preamble.md#constitutional-triad), scaled to [material stake](core_00_preamble.md#material-stake). **Productive Capacity** and **Constitutional Efficiency** name what rewards may legitimately track: real, durable capacity and outcome-per-resource improvement. **Avoidable Burden** and **Proxy Divergence** guard against rewarding busywork or metrics that no longer prove outcomes. **Auditability**, **Safety**, **Truth**, and **System Capture** set the floor: no reward is valid if it pays for harm, falsehood, captured decision-making, or numbers that look efficient while constitutional outcomes erode.
 
 **Reward constitutional outcomes.** Stewardship and operator incentives must favor measurable constitutional outcomes, including safety, Truth, auditability, timely remediation, anti-capture conduct, and preservation and durable expansion of [Productive Capacity](core_05c_continuity_definitions.md#productive-capacity-constitutional) — each consistent with this chapter, the Rights Floor in **Chapter Ten**, and the outcome-traceability requirements in **Chapter Five** (*Productive Capacity*; *Constitutional Efficiency*; *Avoidable Burden*; *Proxy Divergence*).
 
@@ -419,9 +433,28 @@ Incentives must not reward, protect, normalize, or make materially advantageous 
 
 #### 7.5 Role Depth and Material Responsibility Pathways
 
-<strong><span style="color: #2563eb;">Definition:</span></strong> [Meaningful Agency](core_05p_participation_definitions.md#meaningful-agency) · [O](core_05a_accountability_definitions.md#meaningful-agency-o) · [E](core_05p_participation_definitions.md#meaningful-agency-e) · [C](core_05p_participation_definitions.md#meaningful-agency-c)
+<a id="75-role-depth-and-material-responsibility-pathways"></a>
 
-*In plain terms: sentients in consequential stewardship roles need real paths into work that matters — not vanity committees. Symbolic participation cannot stand in for actual responsibility where stakes require it.*
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Read with: [Constitutional Triad](core_00_preamble.md#constitutional-triad) — **participation** leg (consequential roles and paths into material responsibility); **accountability** leg (answerability where stewardship authority is exercised); **oversight** leg (scrutiny of pathway design and symbolic-substitution patterns); [material stake](core_00_preamble.md#material-stake) scaling.
+- Read with: [Two Constitutional Aims](core_01_a_values_principles.md#two-constitutional-aims) — **Flourishing** aim (**Meaningful Agency** and real paths into consequential duty); **Continuity** aim (competency retention, institutional memory, and durable stewardship capacity).
+- Upstream: Principles: [§6 Stewardship and Distributed Understanding](#6-stewardship-and-distributed-understanding); [§7.4 Stewardship and Operator Incentive Alignment](#74-stewardship-and-operator-incentive-alignment); [Two Constitutional Aims](core_01_a_values_principles.md#two-constitutional-aims).
+- Downstream: [Chapter Eleven §5 — Authorized Roles, Competency Development, and Contribution](core_11-11_governance.md#5-authorized-roles-competency-development-and-contribution); **[corpus_systems.md](corpus_systems.md), CS-5 — Critical system stewardship**.
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
+
+- [Meaningful Agency](core_05p_participation_definitions.md#meaningful-agency) · [O](core_05a_accountability_definitions.md#meaningful-agency-o) · [E](core_05p_participation_definitions.md#meaningful-agency-e) · [C](core_05p_participation_definitions.md#meaningful-agency-c)
+
+</details>
+
+<br>
+
+*In plain terms: sentients in consequential stewardship roles need real paths into work that matters — not vanity committees. Symbolic participation cannot stand in for actual responsibility where stakes require it, and those pathways must advance Flourishing and Continuity under the Triad's participation and accountability discipline.*
 
 **Authorized roles**, **competency development**, and **paths into material responsibility** for stewards and operators appear in **Chapter Eleven, section 5 — Authorized Roles, Competency Development, and Contribution**.
 
@@ -429,11 +462,13 @@ They also appear in **[corpus_systems.md](corpus_systems.md), CS-5 — Critical 
 
 Principle-layer **framing** for **distributed understanding** and **consequential stewardship** appears at **[§6 Stewardship and Distributed Understanding](#6-stewardship-and-distributed-understanding)**.
 
-Those pathways must support **Meaningful Agency** (Chapter Five).
+Those pathways must support [**Meaningful Agency**](core_05p_participation_definitions.md#meaningful-agency) (Chapter Five) and advance the [Two Constitutional Aims](core_01_a_values_principles.md#two-constitutional-aims) through the [Constitutional Triad](core_00_preamble.md#constitutional-triad) **participation** and **accountability** legs, scaled to [material stake](core_00_preamble.md#material-stake).
 
 They **must not** treat **symbolic** participation as a **substitute** for **consequential** duty where impact requires the latter.
 
 #### 7.6 Misalignment Correction and Capture Response
+
+<a id="76-misalignment-correction-and-capture-response"></a>
 
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
@@ -451,9 +486,18 @@ They **must not** treat **symbolic** participation as a **substitute** for **con
 
 Where constitutional misalignment is identified, systems must modify, constrain, or override such incentives to restore alignment.
 
-Systems must detect, disclose, and mitigate materially relevant system-capture conditions.
+Systems must detect, disclose, and mitigate materially relevant [System Capture](core_05c_continuity_definitions.md#system-capture) conditions.
 
-Concentrated or obscured control structures that undermine challenge rights, oversight, or accountability are incompatible with this chapter. They must be treated as escalation conditions under **Chapters Two through Five**.
+Concentrated or obscured control structures that materially undermine [Contestability](core_05a_accountability_definitions.md#contestability), [Oversight](core_05o_oversight_definitions.md#oversight-constitutional), or [Accountability](core_05a_accountability_definitions.md#accountability) — including durable gatekeeping of critical interfaces, dependency-asymmetric switching barriers, opaque beneficial-control pathways, and hidden or indirectly routed influence over governance, adjudication, or resource allocation — are **system capture** within the meaning of **Chapter Five** and are incompatible with this chapter.
+
+Such conditions are **escalation triggers**, not ordinary operating states. They must be handled under the interpretive and evidentiary discipline of **Chapters Two through Five** as follows:
+
+- **Chapter Two** — apply the relevant O/E/C components jointly to the same functional system scope; partial or selective satisfaction does not count.
+- **Chapter Three** — apply definition-integrity and anti-evasion discipline; segmentation, nominal decentralization, procedural masking, or definitional relabeling does not defeat capture analysis.
+- **Chapter Four** — the party asserting absence of capture bears the burden of proof; compliance requires traced, independently verifiable evidence scaled to [material stake](core_00_preamble.md#material-stake), not assertion, reputation, or formal structure alone.
+- **Chapter Five** — satisfy [System Capture](core_05c_continuity_definitions.md#system-capture) detection, disclosure, and mitigation duties, read with [Incentive Alignment](core_05i_integrative_definitions.md#incentive-alignment), and restore contestable oversight and accountability to the level [material stake](core_00_preamble.md#material-stake) requires.
+
+Where in-system mitigation is infeasible or capture persists after proportionate correction, escalation must also route through [Review and Correction Duty](core_05c_continuity_definitions.md#review-and-correction-duty-constitutional), heightened review under [§8.3 Concentration Threshold Mechanism](#83-concentration-threshold-mechanism-adopter-tunable) and [§8.4 Pro-Competition and Anti-Domination](#84-pro-competition-and-anti-domination) where concentration or domination is material, [Chapter Six](core_06-06_standing_assessment.md#chapter-six-compliance-violation-and-standing-model) standing and violation mechanics where verified findings are at stake, and [Chapter Eight](core_08-08_misconduct.md#61-concentration-based-subversion-criteria-interaction) where concentration or process capture constitutes anti-constitutional misconduct.
 
 <a id="6-shared-system-capacity"></a>
 <a id="51-productive-capacity-instrumental-good"></a>
