@@ -458,7 +458,7 @@ A proposed amendment is invalid if it:
 
 - Upstream: [§1](#1-heightened-review-for-rights-affecting-changes)–[§6](#6-test-4-contestability-and-independent-review-validity) validity tests and contestability floor.
 - Downstream: [§12](#12-scope-limit-and-layer-discipline) reminder that trigger language routes to Chapters Six and Seven rather than creating new slot-classification law.
-- Read with: [Chapter Six, section 4 — *Standing Effects*](core_07-07_standing_integration.md#5-standing-effects); [section 4.1 — Axis I (Contribution Axis) and standing effect](core_06-06_standing_assessment.md#3-axis-i-contribution-state-and-standing-effect) (*classification foundations*).
+- Read with: [Chapter Six, section 4 — *Standing Effects*](core_07-07_standing_integration.md#5-standing-effects); [section 4.1 — Axis I (Contribution Axis) and standing effect](core_06-06_standing_assessment.md#42-primary-category-defaults-and-lequ-slot-baseline) (*classification foundations*).
 
 </details>
 
@@ -469,7 +469,7 @@ A proposed amendment is invalid if it:
 Heightened review is automatically triggered for amendments that materially affect any of the following:
 - rights (**Chapter Ten**)
 - constitutional interpretation and review safeguards (**Article XXIII-A**)
-- standing effects ([Chapter Six, section 4 — *Standing Effects*](core_07-07_standing_integration.md#5-standing-effects); read with [section 4.1](core_06-06_standing_assessment.md#3-axis-i-contribution-state-and-standing-effect) — Contribution Axis and standing-effect rules)
+- standing effects ([Chapter Six, section 4 — *Standing Effects*](core_07-07_standing_integration.md#5-standing-effects); read with [section 4.1](core_06-06_standing_assessment.md#42-primary-category-defaults-and-lequ-slot-baseline) — Contribution Axis and standing-effect rules)
 - emergency powers
 - cross-jurisdiction enforcement pathways
 
