@@ -119,7 +119,7 @@ Recognition must remain contestable, reviewable, and non-monopolistic.
 
 A **competency gate** is a published, auditable, contestable readiness threshold that may open access to trust-sensitive roles, delegated authority, oversight eligibility, enhanced recognition, or progressively consequential stewardship responsibility when verified competence, experience, contribution records, and current good-standing criteria satisfy role-proportionate requirements.
 
-Competency gates implement positive standing recognition and role eligibility. They may use contribution records, demonstrated skill, relevant experience, training, role-specific qualification criteria, and observed reliability where those inputs are verified, current enough for the role, and traceable to the standing record or other constitutionally valid readiness record. They must remain proportional to role impact, dependency, and risk.
+Competency gates implement positive standing recognition and role eligibility. They may use contribution records, demonstrated skill, relevant experience, training, role-specific qualification criteria, and observed reliability where those inputs are verified, current enough for the role, and traceable to a **contribution standing record** or other constitutionally valid readiness record. They must remain proportional to role impact, dependency, and risk.
 
 A competency gate must not operate as arbitrary gatekeeping, opaque credentialism, reputation substitution, social-prestige screening, insider sponsorship, or exclusion by inaccessible specialization. Informal, unpaid, peer-organized, mutual-aid, maintenance, repair, teaching, or community stewardship experience must count where it satisfies the same demonstrability, auditability, and contestability standards as formal institutional experience.
 
@@ -190,7 +190,7 @@ A **standing lock** is the restrictive counterpart to a **competency gate**. A c
 
 Standing locks attach to unresolved verified violation findings, not to identity, status, reputation, accusation, or generalized disfavor. They must identify the standing effect blocked or limited, the protected subjects or interests, the corrective condition, the review path, and the reassessment point. They must remain necessary, proportionate, auditable, contestable, time-bounded where required, and compatible with Article XXIII.
 
-Contribution state remains visible while a lock is active. It may support repair credibility, remedial capacity, learning, restitution, safeguard implementation, or later reassessment, but it cannot waive the lock, dilute the verified finding, lower the Violation Axis slot, or substitute reputation for remedy. The detailed slot-band lock map appears in **section 4.3**.
+Contribution state recorded in linked **contribution standing records** remains visible while a lock is active. It may support repair credibility, remedial capacity, learning, restitution, safeguard implementation, or later reassessment, but it cannot waive the lock, dilute the verified finding, lower the Violation Axis slot, or substitute reputation for remedy. The detailed slot-band lock map appears in **section 4.3**.
 
 <a id="37-reinstatement-review-and-non-entrenchment"></a>
 <a id="36-reinstatement-review-and-non-entrenchment"></a>
@@ -680,16 +680,16 @@ Where multiple descriptors apply, the **primary** **harm** route **or** **primar
 
 *In plain terms: good acts and violations both matter, but they do different jobs. Recent contribution may support trust, role, or recognition eligibility. Verified unresolved violations create constraints that contribution cannot erase. Accusations, provisional labels, and unresolved disputes carry no standing weight unless and until the forum process resolves them into verified findings.*
 
-**Standing integration** is the joint assessment of verified **contribution state** and verified **violation nature** when determining current standing effects. It uses the standing-record contents required by **Chapter Six section 2.2** rather than restating or expanding that record layer. For integration, the following determinations must remain separately traceable:
+**Standing integration** is the joint assessment of verified **contribution state** and verified **violation nature** when determining current standing effects. It uses the relevant linked **contribution standing records** and **violation standing records** required by **Chapter Six section 2.2** rather than restating or expanding that record layer. For integration, the following determinations must remain separately traceable:
 
-1. the Contribution Axis classification and any contribution-side supplemental descriptors;
-2. the Violation Axis classification and any process / response character or violation-side supplemental descriptors;
+1. the Contribution Axis classification and any contribution-side supplemental descriptors, drawn from contribution standing records;
+2. the Violation Axis classification and any process / response character or violation-side supplemental descriptors, drawn from violation standing records;
 3. any competency gate satisfied under **section 1.2**, as the downstream positive readiness threshold for trust-, role-, authority-, oversight-, or recognition-linked eligibility; and
 4. the standing lock assigned under **sections 4.2** and **4.3**, as the downstream constraint on any trust-, role-, credit-, authority-, oversight-, or recognition-linked effect.
 
-Process / response character and supplemental descriptors remain dependent detail within the relevant primary axis record; they do not create additional primary axes. Competency gates likewise do not replace Contribution Axis classification; they state whether verified competence, experience, and current good-standing criteria open a role- or trust-sensitive pathway after any standing lock has been assigned.
+Process / response character and supplemental descriptors remain dependent detail within the relevant axis-pure standing record; they do not create additional primary axes. Competency gates likewise do not replace Contribution Axis classification; they state whether verified competence, experience, and current good-standing criteria open a role- or trust-sensitive pathway after any standing lock has been assigned.
 
-Positive contribution may support trust-, role-, credit-, or recognition-linked upside only where the verified violation record permits it. It must not waive a Rights Floor, dilute a verified violation finding, lower the highest applicable violation category, average away a pattern, or substitute for correction, remediation, safeguard implementation, review, or lawful supersession.
+Positive contribution may support trust-, role-, credit-, or recognition-linked upside only where the linked violation standing records permit it. It must not waive a Rights Floor, dilute a verified violation finding, lower the highest applicable violation category, average away a pattern, or substitute for correction, remediation, safeguard implementation, review, or lawful supersession.
 
 Only verified findings affect standing. Allegations, preliminary classifications, investigation labels, triage tags, and provisional forum-routing descriptions may justify process, preservation, temporary safeguards, or scrutiny where otherwise lawful, but they do not create, reduce, or otherwise alter standing unless and until a competent forum or adopting process resolves them into verified findings. Automated, formulaic, or scoring-based standing systems must expose the inputs, weights, rules, and review path used to produce any standing effect.
 
@@ -719,13 +719,13 @@ Verified unresolved violations are not time-discounted merely because time has p
 
 #### 4.2 Standing-lock assignment — violation assessment and non-substitution
 
-*In plain terms: a standing lock comes from the verified violation side of the record. Before a lock can be chosen, the record has to identify the strongest verified violation category that really fits. Contribution stays separately recorded and cannot create, raise, lower, or lift the lock.*
+*In plain terms: a standing lock comes from verified violation standing records. Before a lock can be chosen, the record set has to identify the strongest verified violation category that really fits. Contribution standing records stay separate and cannot create, raise, lower, or lift the lock.*
 
 This subsection prepares the standing-lock assignment in **section 4.3**. It does not restate the verified-input gate, the Contribution Axis bands, the Violation Axis severity ladder, or the process / response character rules. Those rules remain in **Chapter Six section 4.3**, this chapter **section 3**, and this chapter **section 2**.
 
-Standing-lock assignment is based only on **violation nature**: verified violation findings, the highest applicable violation category, any lock-relevant process / response character, and any lock-relevant supplemental violation descriptor. **Contribution state** must be recorded separately where it exists, but it is not an input to lock assignment.
+Standing-lock assignment is based only on **violation nature** in violation standing records: verified violation findings, the highest applicable violation category, any lock-relevant process / response character, and any lock-relevant supplemental violation descriptor. **Contribution state** must be recorded separately in contribution standing records where it exists, but it is not an input to lock assignment.
 
-The standing record must identify the highest applicable violation category under full functional system conditions, without down-classification through fragmentation, relabeling, averaging, local optimization, scope narrowing, procedural substitution, delayed-effect omission, jurisdiction shopping, shell structures, contractual layering, nominal ownership transfer, or positive-contribution offset.
+The relevant violation standing record must identify the highest applicable violation category under full functional system conditions, without down-classification through fragmentation, relabeling, averaging, local optimization, scope narrowing, procedural substitution, delayed-effect omission, jurisdiction shopping, shell structures, contractual layering, nominal ownership transfer, or positive-contribution offset.
 
 For verified dishonest forum disclosure omissions or verified intentional recusal-process failures, standing-lock assignment must account for the forum-specific integrity injury in addition to the informational deception or process violation itself. A lock analysis must test whether the omission or failure impaired panel lawfulness, independence, recusal challenge, evidence integrity, remedy timing, backup routing, practical contestability, or the forum's ability to avoid judging through its own concealed or unresolved defect. Where those effects are verified, they may justify a higher lock band than a comparably material non-forum deception or process violation would receive, subject to the same necessity, proportionality, review, and Article XXIII limits.
 

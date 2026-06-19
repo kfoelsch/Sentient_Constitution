@@ -37,7 +37,7 @@ When [material stake](core_00_preamble.md#material-stake) requires auditable sta
 - Upstream: [Chapters Six–Eight standing pipeline map](#chapters-six-nine-constitutional-compass); [Constitutional Triad](core_00_preamble.md#constitutional-triad); [Two Constitutional Aims](core_01_a_values_principles.md#two-constitutional-aims); [material stake](core_00_preamble.md#material-stake).
 - Upstream: [Chapter One](core_01_b_stewardship_capacity_principles.md#chapter-01-principles-and-constraints) (*Plain-Language Accessibility* stewardship reflected in section-level gloss); [Chapter One §7 — Stewardship and Distributed Understanding](core_01_b_stewardship_capacity_principles.md#6-stewardship-and-distributed-understanding) (*principle-layer foundation for competence-linked, traceable standing — trust, roles, and recognition*); [Chapters Two through Four](core_02-04_definition_mechanics.md) (*integrity, records, and verification*); [Chapter Five](core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) (*definitions and supremacy read with Chapters Two through Four*).
 - Standing pipeline: [Chapter Six — Classification](core_06-06_standing_assessment.md#chapter-six-compliance-violation-and-standing-model) (*record, verification, and classification — sections **1–4***); [Chapter Seven — Standing Effects and Integration](core_07-07_standing_integration.md#chapter-seven-standing-effects-and-integration) (*attachments, descriptors, standing locks, standing effects, and enforcement — sections **1–6***); [Chapter Eight](core_08-08_misconduct.md#chapter-eight-anti-constitutional-misconduct) (*top-slot review and final Violation Axis `s = 7`, `s = 8`, and `s = 9` anti-constitutional misconduct assignment*).
-- Subsections in this file: [§1](#2-purpose-and-role); [§2](#2-standing-records) (*§§2.1–2.2 — standing-record container and Standing Record operational requirements*); [§3](#3-verified-inputs-forums-and-no-offset-rules) (*§§3.1–3.3 — verified-input gate, forum boundary, and no-offset bridge*); [§4](#4-primary-axis-categories-slot-grammar-and-defaults) (*§§4.0–4.3 — slot grammar, primary category defaults, LEQU constitutional-outcome baseline, Contribution Axis rules, and Violation Axis rules*). Continued in [Chapter Seven — Standing Effects and Integration](core_07-07_standing_integration.md#chapter-seven-standing-effects-and-integration): [§1](core_07-07_standing_integration.md#5-standing-effects) through [§6](core_07-07_standing_integration.md#9-violation-axis-s-7-9-anti-constitutional-misconduct-authoritative-location).
+- Subsections in this file: [§1](#2-purpose-and-role); [§2](#2-standing-records) (*§§2.1–2.2 — axis-pure standing records and operational requirements*); [§3](#3-verified-inputs-forums-and-no-offset-rules) (*§§3.1–3.3 — verified-input gate, forum boundary, and linked-record no-offset bridge*); [§4](#4-primary-axis-categories-slot-grammar-and-defaults) (*§§4.0–4.3 — slot grammar, primary category defaults, LEQU constitutional-outcome baseline, Contribution Axis rules, and Violation Axis rules*). Continued in [Chapter Seven — Standing Effects and Integration](core_07-07_standing_integration.md#chapter-seven-standing-effects-and-integration): [§1](core_07-07_standing_integration.md#5-standing-effects) through [§6](core_07-07_standing_integration.md#9-violation-axis-s-7-9-anti-constitutional-misconduct-authoritative-location).
 - Downstream: [Chapter Eight](core_08-08_misconduct.md#chapter-eight-anti-constitutional-misconduct) (*authoritative Violation Axis s = 7, 8, and 9 anti-constitutional misconduct classification*); [Chapter Nine](core_09-09_forum.md#chapter-nine-forums-and-jurisdiction) (*forum allocation for disputes arising under this model*); [Chapter Ten — Article XXIII](core_10-10_rights_part_d.md#article-xxiii-a-justice-objective-and-scope) (*justice constraints on restitution, restorative accountability, and restrictive responses*).
 - Read with: [Chapter Five §3.10 *Standing State, Contribution, and Violation*](core_05a_accountability_definitions.md#standing-state-contribution-and-violation-cluster) (*canonical definition routing*).
 - Read with: [README.md](README.md) (*reading order*); [doc_architecture.md](doc_architecture.md) (*non-binding editorial maps unless adopted*).
@@ -62,7 +62,7 @@ When [material stake](core_00_preamble.md#material-stake) requires auditable sta
 >
 > | Topic | In Chapter Six |
 > | --- | --- |
-> | **Owns (steps 1–3)** | **Standing record** → **verified input** gate → **Contribution Axis** / **Violation Axis** classification |
+> | **Owns (steps 1–3)** | **Axis-pure standing records** → **verified input** gate → **Contribution Axis** / **Violation Axis** classification |
 > | **Sections** | [§2](#2-standing-records) records · [§3](#3-verified-inputs-forums-and-no-offset-rules) gate and no-offset · [§4](#4-primary-axis-categories-slot-grammar-and-defaults) slot grammar and axis rules |
 > | **Not here** | Standing locks and effects → [Chapter Seven](core_07-07_standing_integration.md#chapter-seven-standing-effects-and-integration); top Violation Axis **s = 7–9** → [Chapter Eight](core_08-08_misconduct.md#chapter-eight-anti-constitutional-misconduct); forums → [Chapter Nine](core_09-09_forum.md#chapter-nine-forums-and-jurisdiction) |
 > | **Key rule** | Allegations and dispute narratives do not move standing; only **demonstrable** contribution and **verified violation findings** count |
@@ -125,23 +125,32 @@ The model is also built to avoid predictable enforcement failures. Contribution-
 
 - Upstream: [§1](#2-purpose-and-role) (*two-axis frame*); [Chapters Two through Four](core_02-04_definition_mechanics.md) (*record, verification, and tracing discipline*).
 - Triad leg(s): **oversight**. Primary aim(s): **Flourishing** and **Continuity**. [material stake](core_00_preamble.md#material-stake) scaling applies where record scope is material.
-- Downstream: [§3](#3-verified-inputs-forums-and-no-offset-rules) (*verified-input gate, forum boundary, and no-offset bridge*); [§4.0](#30-slot-grammar-and-display-labels) (*slot grammar and display labels*); [§4.1](#3-primary-category-defaults-and-lequ-slot-baseline) (*primary category defaults, LEQU baseline, and Contribution Axis primary bands*); [§4.3](#4-axis-ii-violation-nature-legal-constitutional-type) (*Violation Axis severity ladder*); [Chapter Seven §1](core_07-07_standing_integration.md#5-standing-effects) (*standing effects*); [Chapter Seven §4](core_07-07_standing_integration.md#8-cross-axis-coupling-and-escalation-constraints) (*joint assessment*).
+- Downstream: [§3](#3-verified-inputs-forums-and-no-offset-rules) (*verified-input gate, forum boundary, and linked-record no-offset bridge*); [§4.0](#30-slot-grammar-and-display-labels) (*slot grammar and display labels*); [§4.1](#3-primary-category-defaults-and-lequ-slot-baseline) (*primary category defaults, LEQU baseline, and Contribution Axis primary bands*); [§4.3](#4-axis-ii-violation-nature-legal-constitutional-type) (*Violation Axis severity ladder*); [Chapter Seven §1](core_07-07_standing_integration.md#5-standing-effects) (*standing effects*); [Chapter Seven §4](core_07-07_standing_integration.md#8-cross-axis-coupling-and-escalation-constraints) (*joint assessment*).
 
 </details>
 
 <br>
 
-*In plain terms: Section 2 creates the **standing record** — a focused case file about one sentient, institution, or situation over a clear time period. It is not a permanent popularity score or a vague label. The file must spell out who is being assessed and why, stay reviewable by others, be updated when important facts change, and keep prior versions so changes can be traced. Section 3 then sets the evidence rule: only properly verified facts can affect standing; accusations and complaints do not count by themselves; and what a sentient did well and what they did wrong stay on separate tracks instead of being blended or canceled out.*
+*In plain terms: Section 2 creates **standing records** — focused case files about one sentient, institution, or situation over a clear time period. Each file is **axis-pure**: a **contribution standing record** for verified good, or a **violation standing record** for verified adverse findings — not both in one file. Related files may **cross-reference** each other when they concern the same subject or situation. The files are not permanent popularity scores or vague labels. Each must spell out who is being assessed and why, stay reviewable by others, be updated when important facts change, and keep prior versions so changes can be traced. Section 3 then sets the evidence rule: only properly verified facts can affect standing; accusations and complaints do not count by themselves; and contribution and violation stay on separate tracks instead of being blended or canceled out.*
 
 <a id="21-standing-records-as-the-unit-of-application"></a>
+<a id="contribution-standing-record"></a>
+<a id="violation-standing-record"></a>
 
 #### 2.1 Standing records as the unit of application
 
-A **standing record** is the bounded record unit used to apply this chapter's categories to a particular subject, functional scope, time window, review status, and decision context. It is the place where verified inputs are recorded and assigned to the applicable **Contribution Axis** entry and **Violation Axis** entry, if any. Any later standing effect belongs to Chapter Seven and must be traceable back to the record without becoming part of the record itself.
+A **standing record** is the bounded classification record used to apply this chapter's categories to a particular subject, functional scope, time window, review status, and decision context. Each standing record is **axis-pure**: it classifies verified inputs on either the **Contribution Axis** or the **Violation Axis**, but not both.
+
+- A **contribution standing record** classifies verified **contribution state** under **section 4.1**.
+- A **violation standing record** classifies verified **violation nature** under **section 4.3** and applicable attachments.
+
+Any later standing effect belongs to Chapter Seven and must be traceable back to the relevant standing record or records without becoming part of the record itself.
 
 A standing record may concern a sentient, institution, system, assessment, bounded event, role, collective, actor-specific record, or other constitutionally relevant unit. It must not collapse distinct subjects, roles, systems, communities, time windows, review statuses, or decision contexts into one undifferentiated standing label.
 
-A standing record is not a freestanding reputation score, dignity rank, permanent status, general worth label, or merged scorecard. It is a bounded case file that keeps each verified input on its own track, so contribution and violations stay separate and reviewable. Detailed operational requirements are stated in **section 2.2**.
+The same subject may hold multiple standing records over time, including linked contribution and violation standing records. Related records must **cross-reference** one another under **section 2.2.4** where they share subject, overlapping time window, bounded event, pattern, or decision context.
+
+A standing record is not a freestanding reputation score, dignity rank, permanent status, general worth label, or merged scorecard. Detailed operational requirements are stated in **section 2.2**.
 
 <a id="25-standing-record-operational-underpinnings"></a>
 <a id="25-standing-record-operational-requirements"></a>
@@ -163,12 +172,22 @@ A **bounded event** is a finite occurrence or time-bounded episode used as the s
 
 ##### 2.2.2 Assessment path
 
-The record must make the assessment path visible:
+Each standing record must make its assessment path visible. The path depends on record type.
 
-1. name the behavior, duty, impact, contribution record, violation finding, or other verified input being assessed;
-2. place any positive constitutional benefit on the **Contribution Axis** under **section 4.1**, including the applicable band and slot `s` where assigned;
-3. place any adverse finding on the **Violation Axis** under **section 4.3** and applicable attachments, including severity level, slot `s` where assigned, process / response character where applicable, and any Chapter Eight top-slot control;
-4. preserve the separate Contribution Axis and Violation Axis classification reasoning needed for any later Chapter Seven integration, without stating or applying a standing effect inside the Chapter Six record; and
+**Contribution standing records** must:
+
+1. name the behavior, duty, impact, or **contribution record** being assessed;
+2. place the verified positive constitutional benefit on the **Contribution Axis** under **section 4.1**, including the applicable band and slot `s` where assigned;
+3. cross-reference any related violation standing records under **section 2.2.4** where required;
+4. preserve the Contribution Axis classification reasoning needed for any later Chapter Seven integration, without stating or applying a standing effect inside the Chapter Six record; and
+5. keep enough evidence, reasoning, review status, and version history for the assessment to be audited, challenged, corrected, expired, or superseded.
+
+**Violation standing records** must:
+
+1. name the behavior, duty, impact, or **violation finding** being assessed;
+2. place the verified adverse finding on the **Violation Axis** under **section 4.3** and applicable attachments, including severity level, slot `s` where assigned, process / response character where applicable, and any Chapter Eight top-slot control;
+3. cross-reference any related contribution standing records under **section 2.2.4** where required;
+4. preserve the Violation Axis classification reasoning needed for any later Chapter Seven integration, without stating or applying a standing effect inside the Chapter Six record; and
 5. keep enough evidence, reasoning, review status, and version history for the assessment to be audited, challenged, corrected, expired, or superseded.
 
 <a id="253-collective-and-actor-specific-records"></a>
@@ -176,35 +195,62 @@ The record must make the assessment path visible:
 
 ##### 2.2.3 Collective and actor-specific records
 
-When multiple actors contribute to the same benefit or violation, records may include both a collective standing record and separate actor-specific records.
+When multiple actors contribute to the same benefit or violation, records may include both a collective standing record and separate actor-specific records. Collective and actor-specific records must remain axis-pure under **section 2.1**.
 
 Shared contribution credit should follow demonstrable role, time, effort, risk, skill, coordination, maintenance, and causal contribution. Broad distribution is favored when many participants produced the benefit and individual shares cannot be cleanly separated.
 
 Shared violation findings must not be assigned by group membership alone. Actor-specific adverse standing requires verified linkage to causal contribution, duty, authority, control, foreseeability, benefit, concealment, or feasible prevention capacity.
 
-<a id="254-minimum-record-contents"></a>
+<a id="254-related-record-cross-references"></a>
+<a id="224-related-record-cross-references"></a>
+
+##### 2.2.4 Related-record cross-references
+
+When a contribution standing record and a violation standing record relate to the same subject, overlapping time window, bounded event, pattern, or decision context, each record must cross-reference the other.
+
+Each cross-reference must identify, at minimum:
+
+- the related record and its axis type;
+- the shared subject, bounded event, pattern, or decision context;
+- the overlap in time window or scope; and
+- the reason the records are linked, including where a violation finding disproves, corrects, or limits a claimed contribution under **section 3.3**.
+
+Cross-references must remain auditable and contestable. They must not substitute for axis-pure classification, create a merged score, or hide scope mismatch between records.
+
+<a id="255-minimum-record-contents"></a>
 <a id="224-minimum-record-contents"></a>
 
-##### 2.2.4 Minimum record contents
+##### 2.2.5 Minimum record contents
 
 Each standing record must state, at minimum:
 
+- the record type — **contribution standing record** or **violation standing record**;
 - the assessed subject and functional scope, including relevant system boundaries, role boundaries, affected communities, and dependency relationships;
 - the behavior or record basis being assessed, including the acts, omissions, duties, impacts, bounded event, pattern within scope, contribution record, or violation finding on which the standing record relies;
 - the applicable time window and current review status, including whether the standing record is provisional, final for a stated purpose, under challenge, superseded, or due for scheduled re-evaluation;
-- the separate Contribution Axis entry, if any, including the primary band, slot `s` where assigned, evidence basis, materiality reasoning, and any adopted LEQU or comparable calibration used for transparent support;
-- the separate Violation Axis entry, if any, including the finding authority or record basis, severity level, slot `s` where assigned, process / response character where applicable, and whether Chapter Eight controls final top-slot assignment;
-- where contribution is shared, the allocation basis used for credit distribution, including how time, effort, coordination, maintenance, causal contribution, and less-visible support work were considered;
-- where violation is shared or distributed, the verified basis for any actor-specific adverse standing, including causal role, duty, authority, control, foreseeability, benefit, concealment, or feasible prevention capacity;
-- where the violation finding involves a forum disclosure omission or intentional recusal-process failure, the verified basis for the omission or failure, the unmet disclosure or recusal duty, the actor's knowledge, recklessness, or intent where found, and whether the conduct materially affected panel lawfulness, independence, recusal challenge, evidence integrity, remedy timing, backup routing, or practical contestability;
+- any related standing records cross-referenced under **section 2.2.4**;
 - the records, witnesses, measurements, audits, forum decisions, or other verification materials that make the standing record demonstrable, reviewable, and contestable under Chapters Two through Four;
-- the Contribution Axis and Violation Axis classification basis that any later Chapter Seven standing effect must use, without using one axis to substitute for the other; and
-- the contestability pathway, review forum or authority, disclosure limits if any, and conditions for correction, restoration, expiration, or scheduled review.
+- the contestability pathway, review forum or authority, disclosure limits if any, and conditions for correction, restoration, expiration, or scheduled review; and
+- the axis-specific classification fields required below.
 
+**Contribution standing records** must also state:
+
+- the Contribution Axis entry, including the primary band, slot `s` where assigned, evidence basis, materiality reasoning, and any adopted LEQU or comparable calibration used for transparent support;
+- where contribution is shared, the allocation basis used for credit distribution, including how time, effort, coordination, maintenance, causal contribution, and less-visible support work were considered; and
+- the Contribution Axis classification basis that any later Chapter Seven standing effect must use.
+
+**Violation standing records** must also state:
+
+- the Violation Axis entry, including the finding authority or record basis, severity level, slot `s` where assigned, process / response character where applicable, and whether Chapter Eight controls final top-slot assignment;
+- where violation is shared or distributed, the verified basis for any actor-specific adverse standing, including causal role, duty, authority, control, foreseeability, benefit, concealment, or feasible prevention capacity;
+- where the violation finding involves a forum disclosure omission or intentional recusal-process failure, the verified basis for the omission or failure, the unmet disclosure or recusal duty, the actor's knowledge, recklessness, or intent where found, and whether the conduct materially affected panel lawfulness, independence, recusal challenge, evidence integrity, remedy timing, backup routing, or practical contestability; and
+- the Violation Axis classification basis that any later Chapter Seven standing effect must use.
+
+<a id="256-versioning-and-implementation-visibility"></a>
 <a id="255-versioning-and-implementation-visibility"></a>
 <a id="225-versioning-and-implementation-visibility"></a>
 
-##### 2.2.5 Versioning and implementation visibility
+##### 2.2.6 Versioning and implementation visibility
 
 Standing records must be versioned when material facts, findings, review outcomes, remediation status, contribution evidence, implementation calibration, or constitutional rules change. A later version may:
 
@@ -246,7 +292,7 @@ None of the following may be buried in a single opaque score or hidden label. Ea
 
 <br>
 
-*In plain terms: Section 3 is the evidence rule for standing. Trust, roles, and recognition depend only on checked facts — not accusations, complaints, or routing labels. Contributions need demonstrable contribution records; violations need verified findings from a competent forum or adopting process, both meeting the integrity standards in Chapters Two through Four. Until findings exist, preliminary dispute material does not change standing by itself. For systems that validly remain **Class P** under CS-4, ordinary private discretion may apply inside that boundary without creating broader standing effects. Good and bad stay on separate tracks: they can coexist in a record, but they do not cancel, average, or relabel each other.*
+*In plain terms: Section 3 is the evidence rule for standing. Trust, roles, and recognition depend only on checked facts — not accusations, complaints, or routing labels. Contributions need demonstrable contribution records and **contribution standing records**; violations need verified findings from a competent forum or adopting process and **violation standing records**, both meeting the integrity standards in Chapters Two through Four. Until findings exist, preliminary dispute material does not change standing by itself. For systems that validly remain **Class P** under CS-4, ordinary private discretion may apply inside that boundary without creating broader standing effects. Contribution and violation stay on separate tracks in separate records; related records may cross-reference each other, but they do not cancel, average, or relabel each other.*
 
 <a id="verified-inputs-for-standing"></a>
 <a id="31-verified-input-gate"></a>
@@ -257,14 +303,14 @@ None of the following may be buried in a single opaque score or hidden label. Ea
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [§2.1](#21-standing-records-as-the-unit-of-application) (*standing records as the unit of application*); [§2.2](#22-standing-record-operational-requirements) (*Standing Record operational requirements*).
-- Downstream: [§3.2](#32-dispute-phase-material-forums-and-challenge-protections) (*dispute-phase material, forums, and challenge protections*); [§3.3](#33-coexistence-and-no-offset-bridge) (*coexistence and no-offset bridge*); [§4.1](#3-axis-i-contribution-state-and-standing-effect) (*Contribution Axis*); [§4.3](#4-axis-ii-violation-nature-legal-constitutional-type) (*Violation Axis*); [Chapter Seven §4](core_07-07_standing_integration.md#8-cross-axis-coupling-and-escalation-constraints) (*joint assessment*).
+- Downstream: [§3.2](#32-dispute-phase-material-forums-and-challenge-protections) (*dispute-phase material, forums, and challenge protections*); [§3.3](#33-coexistence-and-no-offset-bridge) (*linked records and no-offset bridge*); [§4.1](#3-axis-i-contribution-state-and-standing-effect) (*Contribution Axis*); [§4.3](#4-axis-ii-violation-nature-legal-constitutional-type) (*Violation Axis*); [Chapter Seven §4](core_07-07_standing_integration.md#8-cross-axis-coupling-and-escalation-constraints) (*joint assessment*).
 - Read with: [Chapter Nine](core_09-09_forum.md#chapter-nine-forums-and-jurisdiction) (*forums separate*); [corpus_systems.md](corpus_systems.md), CS-4 — System classification and handling (*Class P private-scope proportionality*).
 
 </details>
 
 <br>
 
-**Verified inputs for standing (forums separate).** Standing decisions must be based on verified information in the relevant **standing records**. Forums may have their own separate rules, but any decision that affects a sentient's standing, trust level, role, recognition, or eligibility for recognition may only use verified standing inputs.
+**Verified inputs for standing (forums separate).** Standing decisions must be based on verified information in the relevant **standing records** — **contribution standing records** for contribution-side inputs and **violation standing records** for violation-side inputs. Forums may have their own separate rules, but any decision that affects a sentient's standing, trust level, role, recognition, or eligibility for recognition may only use verified standing inputs.
 
 **Verified inputs** mean:
 
@@ -287,23 +333,24 @@ Forums under [Chapter Nine](core_09-09_forum.md#chapter-nine-forums-and-jurisdic
 <a id="24-coexistence-and-no-offset-bridge"></a>
 <a id="33-coexistence-and-no-offset-bridge"></a>
 
-#### 3.3 Coexistence and no-offset bridge
+#### 3.3 Linked records and no-offset bridge
 
-**The core rule:** verified contribution records and verified violation findings are recorded separately in the relevant **standing record** or standing records. A verified violation may limit standing, restrict role eligibility, or affect remedy access under Chapter Seven, but it must not wipe away verified positive contribution. Verified contribution may support recognition where current and applicable, but it must not offset, average down, excuse, or relabel a verified violation finding.
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-This separation matters in both directions. A long history of contribution may support recognition where the record remains current and verified, but it does not let unresolved violation findings fade away by mere passage of time. Likewise, a verified violation may impose correction, restriction, safeguard, or remediation duties without rewriting unrelated contribution records into a false negative reputation file.
+- Upstream: [§3.1](#31-verified-input-gate) (*verified-input gate*); [§3.2](#32-dispute-phase-material-forums-and-challenge-protections) (*dispute-phase material, forums, and challenge protections*); [§2.2.4](#254-related-record-cross-references) (*related-record cross-references*).
+- Downstream: [§4.0](#30-slot-grammar-and-display-labels) (*slot grammar and display labels*); [§4.1](#3-primary-category-defaults-and-lequ-slot-baseline) (*Contribution Axis*); [§4.3](#4-axis-ii-violation-nature-legal-constitutional-type) (*Violation Axis severity ladder*).
+- Read with: [Chapter Seven §4.1 — Standing integration](core_07-07_standing_integration.md#38-standing-integration-contribution-and-violation-nature) (*non-waiver rule, verified-input boundary, contribution recency weighting, cross-axis integration across linked records*); [Chapter Seven §1.2 — Competency gates](core_07-07_standing_integration.md#competency-gates) (*positive readiness pathways*); [Chapter Seven §1.4 — Standing locks](core_07-07_standing_integration.md#standing-locks-in-the-standing-model) (*restrictive pathways*); [Chapter Seven §4.3 — Standing orientation by Violation Axis slot](core_07-07_standing_integration.md#standing-orientation-by-violation-slot) (*standing-lock effect across `s` = 1–9*).
 
-**The only exception:** If a violation finding itself disproves a claimed contribution — for example, if evidence shows you didn't actually do what your contribution record claims — then that contribution record can be corrected or removed through the proper evidence and review process. But the violation doesn't automatically erase unrelated good work you've done.
+</details>
 
-Each axis must rest on its own supported facts. Analysis, supporting records, and standing records must keep the axes **separately traceable**. No single entry is a net score, blended score, or tradeoff.
+<br>
 
-Any verified contribution record may coexist with verified violation findings, including findings in slots `s` = 7–9.
+**The core rule:** verified **contribution standing records** and verified **violation standing records** are kept separately under **section 2.1**. Under Chapter Seven, applicable **standing locks** drawn from violation standing records may limit standing, restrict role eligibility, or affect remedy access while a verified violation remains unresolved, but they must not wipe away verified positive contribution recorded in contribution standing records. Verified contribution may satisfy applicable **competency gates** and support trust-, role-, or recognition-linked eligibility where current and role-relevant, but it must not offset, average down, excuse, or relabel a verified violation finding, and gate satisfaction does not waive any applicable standing lock. Unresolved verified violations are not time-discounted by mere passage of time, and verified violations must not rewrite unrelated contribution standing records into a false negative reputation file.
 
-The same sentient, institution, assessment, record, or bounded event may carry entries on both axes. A sentient, for example, may have several Contribution Axis records in different slots and a separate confirmed finding on the Violation Axis. An institutional assessment or event record may do the same.
+**The only exception:** If a violation finding itself disproves a claimed contribution — for example, if evidence shows you didn't actually do what your contribution record claims — then the linked contribution standing record can be corrected or removed through the proper evidence and review process, with the required cross-reference under **section 2.2.4**. But the violation does not automatically erase unrelated good work recorded in separate contribution standing records.
 
-The axes remain separate for classification and recordkeeping; they do not turn contribution into violation, or violation into contribution. `s` on one axis does not legally or evidentially fix `s` on the other. **Table 1** and **Table 2** supply shared indexing for reading and comparison. They are not a merged scorecard.
-
-**Standing orientation (detail).** [Chapter Seven §4.1 — Standing integration](core_07-07_standing_integration.md#38-standing-integration-contribution-and-violation-nature) states the non-waiver rule for **verified** contribution, the verified-input boundary, contribution recency weighting, and the cross-axis standing integration rules. [Chapter Seven §4.3 — Standing orientation by Violation Axis slot](core_07-07_standing_integration.md#standing-orientation-by-violation-slot) summarizes the standing-lock effect of **verified violation findings** across the full `s` = 1 through 9 slot display.
+Each axis must rest on its own supported facts in its own axis-pure record. Analysis, supporting records, and standing records must keep the axes **separately traceable**, including where verified violation findings occupy slots `s` = 7–9. No single entry or linked set is a net score, blended score, or tradeoff.
 
 <a id="3-primary-axis-categories-and-slot-defaults"></a>
 <a id="3-primary-axis-categories-slot-grammar-and-defaults"></a>
@@ -396,7 +443,7 @@ Adopted implementation may publish `C*` thresholds, `V(s)` weights, and keyed su
 
 </details>
 
-For record separation and the rule that shared slot numbers do not create a net score, blended score, or tradeoff between axes, see **section 3.3** and the Standing Record requirements in **section 2.2**.
+For axis-pure record separation and the rule that shared slot numbers do not create a net score, blended score, or tradeoff between axes, see **section 3.3** and the standing record requirements in **section 2.2**.
 
 <a id="214-table-2-primary-category-defaults"></a>
 <a id="3-primary-category-defaults-and-lequ-slot-baseline"></a>
@@ -455,7 +502,7 @@ Column 1 uses the same `s` as **Table 1**. Read each row with **section 4.0** an
 |    8 | **distinguished champion** — Distinguished stewardship with durable cross-institutional reliance, structural repair, or prevention that outlasts you. | **Grave anti-constitutional misconduct** — Chapter Eight assigns this when final findings establish grave anti-constitutional misconduct. |
 |    9 | **exemplary champion** — Exemplary stewardship producing rare, durable constitutional-resilience gains at the widest material scope. | **Pernicious anti-constitutional misconduct** — Chapter Eight assigns this when final findings establish pernicious anti-constitutional misconduct. |
 
-Positive contribution may coexist with **violation nature** under **section 4.3** and **Chapter Seven section 3**, subject to the no-offset rules in **section 3.3** and **Chapter Seven section 4.2**. Contribution credit under this table does not require formal governance status, salaried office, licensed-program participation, designated filings, or other official-channel pedigree. Peer, neighbor, voluntary, mutual-aid, and other non-institutional stewardship may count when its effects are demonstrable under the same **auditability** and **contestability** discipline applied to institutional contribution.
+Positive contribution may be recorded in a **contribution standing record** while a subject also holds a linked **violation standing record** under **section 4.3** and **Chapter Seven section 3**, subject to the no-offset rules in **section 3.3** and **Chapter Seven section 4.2**. Contribution credit under this table does not require formal governance status, salaried office, licensed-program participation, designated filings, or other official-channel pedigree. Peer, neighbor, voluntary, mutual-aid, and other non-institutional stewardship may count when its effects are demonstrable under the same **auditability** and **contestability** discipline applied to institutional contribution.
 
 **Violation Axis note for Table 2.** The Violation Axis remains a severity ladder under **section 4.3** and Chapter Eight. Chapter Seven section 4.3 later states the standing-integration consequences of verified Violation Axis slots, including what contribution-linked trust, role, credit, or recognition benefit is blocked or limited while a verified violation finding remains unresolved.
 
@@ -589,7 +636,7 @@ The claimed violation severity counts only to the extent it rests on verified vi
 | 8 | **Grave anti-constitutional misconduct** | **Multiple LEQUs lost**, structural or cross-institutional constitutional damage, or a final Chapter Eight finding establishing **s = 8** grave anti-constitutional misconduct. |
 | 9 | **Pernicious anti-constitutional misconduct** | **Worst-case systemic harm**: rare, intentional, systemic, intergenerational, civilizational, constitution-subverting harm at the widest material scope, or a final Chapter Eight finding establishing **s = 9** pernicious anti-constitutional misconduct. |
 
-This table is the operative Violation Axis severity ladder for Chapter Six. It shows the shared `s` = 1 through 9 slot display while preserving the top-slot boundary: final anti-constitutional misconduct assignment for **s = 7**, **s = 8**, and **s = 9** remains in **Chapter Eight**. Process / response character attaches under **Chapter Seven section 3** and does not create a second severity ladder. Standing records under **§§2.1 and 2.2** must identify the finding authority or record basis and review status for any Violation Axis entry.
+This table is the operative Violation Axis severity ladder for Chapter Six. It shows the shared `s` = 1 through 9 slot display while preserving the top-slot boundary: final anti-constitutional misconduct assignment for **s = 7**, **s = 8**, and **s = 9** remains in **Chapter Eight**. Process / response character attaches under **Chapter Seven section 3** and does not create a second severity ladder. **Violation standing records** under **§§2.1 and 2.2** must identify the finding authority or record basis and review status for the Violation Axis classification.
 
 <a id="48-adjacent-level-application-notes"></a>
 

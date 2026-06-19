@@ -23,7 +23,7 @@ This chapter is used only for the most serious anti-constitutional misconduct. I
 
 Under the [Continuity aim](core_01_a_values_principles.md#continuity) and [Two Constitutional Aims](core_01_a_values_principles.md#two-constitutional-aims), top-slot assignment protects long-horizon constitutional operation when conduct threatens to hollow the [Constitutional Triad](core_00_preamble.md#constitutional-triad) — **oversight**, **participation**, and **accountability** — below [material stake](core_00_preamble.md#material-stake) requirements. Read [Chapters Six–Nine constitutional compass](core_06-06_standing_assessment.md#chapters-six-nine-constitutional-compass) first.
 
-By the time a matter reaches this chapter, the basic work should already be done. Chapter Six should have opened a bounded **standing record**, applied the **verified input** gate, and placed the matter on the shared classification scale. Chapter Seven should have handled ordinary standing integration, including any standing locks and consequence rules.
+By the time a matter reaches this chapter, the basic work should already be done. Chapter Six should have opened a bounded **violation standing record**, applied the **verified input** gate, and placed the matter on the shared classification scale. Chapter Seven should have handled ordinary standing integration, including any standing locks and consequence rules.
 
 Chapter Eight then asks the final top-slot question: what happened, how serious was it, which criteria apply, and have the required due-process safeguards been met? A Chapter Six classification or Chapter Seven standing lock may help explain the record, but neither can replace this chapter's criteria, gravity rules, or safeguards.
 
