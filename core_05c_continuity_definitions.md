@@ -1198,8 +1198,6 @@ This cluster is the joint-invocation home for principle-layer stewardship orient
 
 **Joint invocation and anti-bypass.** Under §3.0.1, a matter within the admission scope must not be segmented into separate governance-form, capacity-metric, disclosure-summary, CSR-narrative, compliance-artifact, or short-horizon efficiency or incentive questions in a way that satisfies nominal procedure, masks stewardship defects, or defeats stewardship discipline, distributed understanding, or durable constitutional alignment.
 
-**Read with principles:** [Chapter One Part B](core_01_b_stewardship_capacity_principles.md#chapter-01-part-b-stewardship-capacity-and-constitutional-safeguards) §§6–8; [Two Constitutional Aims](core_01_a_values_principles.md#two-constitutional-aims) — **Continuity** aim.
-
 <a id="stewardship-constitutional"></a>
 
 ---
@@ -1210,6 +1208,7 @@ This cluster is the joint-invocation home for principle-layer stewardship orient
 
 - Downstream: Principles: [§6 Stewardship and Distributed Understanding](core_01_b_stewardship_capacity_principles.md#6-stewardship-and-distributed-understanding); [§7 Governance Under Stewardship Discipline](core_01_b_stewardship_capacity_principles.md#7-governance-under-stewardship-discipline).
 - Cluster component: [Stewardship, Governance Discipline, and Shared-System Capacity](core_05c_continuity_definitions.md#stewardship-governance-discipline-and-shared-system-capacity-cluster).
+- Read with: [Chapter One Part B](core_01_b_stewardship_capacity_principles.md#chapter-01-part-b-stewardship-capacity-and-constitutional-safeguards) §§6–8; [Two Constitutional Aims](core_01_a_values_principles.md#two-constitutional-aims) — **Continuity** aim (*cluster read-with principles*).
 - Read with: [Governance](core_05a_accountability_definitions.md#governance), [Shared-System Capacity](core_05c_continuity_definitions.md#shared-system-capacity-constitutional), [Two Constitutional Aims](core_01_a_values_principles.md#two-constitutional-aims) — **Continuity** aim, and [Ecological Integrity](core_05c_continuity_definitions.md#ecological-integrity-constitutional).
 
 </details>

@@ -1180,6 +1180,7 @@ Whole-system evaluation under **§10.1** is incomplete if it omits whether incen
 
 - Read with: [Constitutional Triad](core_00_preamble.md#constitutional-triad) — **participation** leg (meaningful agency and consequential roles); **accountability** leg (agency without answerability is incomplete); [material stake](core_00_preamble.md#material-stake) scaling.
 - Read with: [Two Constitutional Aims](core_01_a_values_principles.md#two-constitutional-aims) — **Flourishing** aim (primary Chapter One home for **meaningful agency**); **Continuity** aim (bounded agency that preserves durable, contestable constitutional systems).
+- Read with: [Voluntary Discontinuation](core_05c_continuity_definitions.md#voluntary-discontinuation-constitutional), Chapter Five §2 *Agency, consent, and anti-coercion*, and the [Assembly, Collective Organization, and Institutional Formation cluster](core_05p_participation_definitions.md#assembly-collective-organization-institutional-formation-cluster).
 - Upstream: Principles: [§3.2 Recognition, Reinforcement, and Aspiration](#32-recognition-reinforcement-and-aspiration); [4.1 Safety](#41-safety-harm-constraint); [4.2 Truth](#42-truth-epistemic-integrity-constraint); [5. Trust](#5-system-stability-enabler-trust-coordination-integrity); [§8 Shared-System Capacity](#8-shared-system-capacity); [§6 Stewardship and Distributed Understanding](#6-stewardship-and-distributed-understanding); [9. Interaction and Conflict Resolution](#9-interaction-and-conflict-resolution); [10. Systemic Evaluation Requirement](#10-systemic-evaluation-requirement); and [Two Constitutional Aims](core_01_a_values_principles.md#two-constitutional-aims).
 - Downstream: [12. Prohibition on Absolute Override](#12-prohibition-on-absolute-override), [13. Integrated Application](#13-integrated-application), and [9.4.1 Rights-Collision Decision Test](#941-rights-collision-decision-test) where concrete applications require collision handling.
 - Downstream: Frames the rights surface for equal status, education, self-ownership, publication and likeness control, agency, cooperative interaction, due process, standing, and anti-capture review.
@@ -1208,8 +1209,6 @@ Whole-system evaluation under **§10.1** is incomplete if it omits whether incen
 </details>
 
 <br>
-
-**Read with:** [Voluntary Discontinuation](core_05c_continuity_definitions.md#voluntary-discontinuation-constitutional), Chapter Five §2 *Agency, consent, and anti-coercion*, and the [Assembly, Collective Organization, and Institutional Formation cluster](core_05p_participation_definitions.md#assembly-collective-organization-institutional-formation-cluster).
 
 *In plain terms: freedom is meaningful agency within constitutional limits — advancing **Flourishing** through real choice and **Continuity** through systems that stay contestable — not a license to do anything. Claims that "we had no choice" must be demonstrable under evidence and definition rules, not simply asserted, and must preserve the Triad's **participation** and **accountability** discipline scaled to material stake.*
 

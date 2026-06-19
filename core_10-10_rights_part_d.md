@@ -508,6 +508,7 @@ Transitional governance exists to secure continuity and non-regression. It must 
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: Principles: Chapter One [4.1 Safety](core_01_a_values_principles.md#41-safety-harm-constraint), [9.4 Rights-Collision Procedure](core_01_b_stewardship_capacity_principles.md#94-rights-collision-procedure), and [10.1 Required Evaluation Factors](core_01_b_stewardship_capacity_principles.md#101-required-evaluation-factors).
+- Read with: **Article III-A**; **Article XII**; **Article X-B**; **Chapter Six**; **Chapter One**, including §6 rights-collision procedure; the **default constraint stack** at the opening of Chapter Ten (*possession and remediation interface*).
 
 </details>
 
@@ -525,13 +526,6 @@ Transitional governance exists to secure continuity and non-regression. It must 
 *In plain terms: non-compliant systems and property can be remediated during transition — but only through narrow, documented, reviewable processes that protect basic rights, bar pretext, and do not turn into retaliation or political targeting.*
 
 - **Possession and remediation interface:** Lawful possession and use of assets are protected against **arbitrary** deprivation.
-  - Read with:
-    - **Article III-A**;
-    - **Article XII**;
-    - **Article X-B**;
-    - **Chapter Six**;
-    - **Chapter One**, including §6 rights-collision procedure;
-    - the **default constraint stack** at the opening of Chapter Ten.
   - Assets whose continued operation **materially perpetuates** known non-compliance at scale — after a **documented** Chapter Six determination — are not immunized.
 - **Transition-scoped deprivation:** A **documented transition plan** under **Article XXV-A** may authorize **accelerated remediation** of **materially non-compliant** systems or property. In scope:
   - systems within **Article XII-E**;

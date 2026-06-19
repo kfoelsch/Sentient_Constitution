@@ -12,6 +12,41 @@
 <br>
 
 ---
+<a id="chapters-six-nine-constitutional-compass"></a>
+<a id="chapters-six-eight-standing-pipeline-map"></a>
+
+### Measure, integrate, and guard: Chapters Six through Eight
+
+*Reader guidance (non-operative): does not add, remove, or narrow binding obligations elsewhere in this chapter or in other chapters.*
+
+When [material stake](core_00_preamble.md#material-stake) requires auditable standing, Chapters Six through Eight form one continuous pipeline under the [Constitutional Triad](core_00_preamble.md#constitutional-triad) and [Two Constitutional Aims](core_01_a_values_principles.md#two-constitutional-aims) — not reputation, allegations, or informal scoring.
+
+| Step | Constitutional job | Dominant Triad leg(s) | Primary aim(s) |
+| --- | --- | --- | --- |
+| **[Ch 6 — Measure](core_06-06_standing_assessment.md#chapter-six-compliance-violation-and-standing-model)** | Separate verified Flourishing credit from verified Accountability findings | **Oversight** + **Accountability** | **Flourishing** (Contribution Axis) + **Accountability** (Violation Axis) |
+| **[Ch 7 — Integrate](core_07-07_standing_integration.md#chapter-seven-standing-effects-and-integration)** | Apply consequences without netting axes or hollowing triad duties | All three; **Participation** via competency gates | **Flourishing** + **Continuity** |
+| **[Ch 8 — Guard](core_08-08_misconduct.md#chapter-eight-anti-constitutional-misconduct)** | Stop constitutional capture at top violation slots | All three at scale | **Continuity** (primary) + **Flourishing** |
+
+**Parallel adjudication layer:** [Chapter Nine](core_09-09_forum.md#chapter-nine-forums-and-jurisdiction) hears disputes and produces findings through **participation** and **oversight** forum institutions without substituting for standing calculus.
+
+<br>
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Upstream: [Chapters Six–Eight standing pipeline map](#chapters-six-nine-constitutional-compass); [Constitutional Triad](core_00_preamble.md#constitutional-triad); [Two Constitutional Aims](core_01_a_values_principles.md#two-constitutional-aims); [material stake](core_00_preamble.md#material-stake).
+- Upstream: [Chapter One](core_01_b_stewardship_capacity_principles.md#chapter-01-principles-and-constraints) (*Plain-Language Accessibility* stewardship reflected in section-level gloss); [Chapter One §7 — Stewardship and Distributed Understanding](core_01_b_stewardship_capacity_principles.md#6-stewardship-and-distributed-understanding) (*principle-layer foundation for competence-linked, traceable standing — trust, roles, and recognition*); [Chapters Two through Four](core_02-04_definition_mechanics.md) (*integrity, records, and verification*); [Chapter Five](core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) (*definitions and supremacy read with Chapters Two through Four*).
+- Standing pipeline: [Chapter Six — Classification](core_06-06_standing_assessment.md#chapter-six-compliance-violation-and-standing-model) (*record, verification, and classification — sections **1–4***); [Chapter Seven — Standing Effects and Integration](core_07-07_standing_integration.md#chapter-seven-standing-effects-and-integration) (*attachments, descriptors, standing locks, standing effects, and enforcement — sections **1–6***); [Chapter Eight](core_08-08_misconduct.md#chapter-eight-anti-constitutional-misconduct) (*top-slot review and final Violation Axis `s = 7`, `s = 8`, and `s = 9` anti-constitutional misconduct assignment*).
+- Subsections in this file: [§1](#2-purpose-and-role); [§2](#2-standing-records) (*§§2.1–2.2 — standing-record container and Standing Record operational requirements*); [§3](#3-verified-inputs-forums-and-no-offset-rules) (*§§3.1–3.3 — verified-input gate, forum boundary, and no-offset bridge*); [§4](#4-primary-axis-categories-slot-grammar-and-defaults) (*§§4.0–4.3 — slot grammar, primary category defaults, LEQU constitutional-outcome baseline, Contribution Axis rules, and Violation Axis rules*). Continued in [Chapter Seven — Standing Effects and Integration](core_07-07_standing_integration.md#chapter-seven-standing-effects-and-integration): [§1](core_07-07_standing_integration.md#5-standing-effects) through [§6](core_07-07_standing_integration.md#9-violation-axis-s-7-9-anti-constitutional-misconduct-authoritative-location).
+- Downstream: [Chapter Eight](core_08-08_misconduct.md#chapter-eight-anti-constitutional-misconduct) (*authoritative Violation Axis s = 7, 8, and 9 anti-constitutional misconduct classification*); [Chapter Nine](core_09-09_forum.md#chapter-nine-forums-and-jurisdiction) (*forum allocation for disputes arising under this model*); [Chapter Ten — Article XXIII](core_10-10_rights_part_d.md#article-xxiii-a-justice-objective-and-scope) (*justice constraints on restitution, restorative accountability, and restrictive responses*).
+- Read with: [Chapter Five §3.10 *Standing State, Contribution, and Violation*](core_05a_accountability_definitions.md#standing-state-contribution-and-violation-cluster) (*canonical definition routing*).
+- Read with: [README.md](README.md) (*reading order*); [doc_architecture.md](doc_architecture.md) (*non-binding editorial maps unless adopted*).
+
+</details>
+
+<br>
+
+---
 <a id="chapter-six-compliance-violation-and-standing-model"></a>
 
 ## CHAPTER SIX: CONTRIBUTION, VIOLATION, AND STANDING MODEL — CLASSIFICATION
@@ -36,43 +71,6 @@
 
 <br>
 
-<a id="chapters-six-nine-constitutional-compass"></a>
-<a id="chapters-six-eight-standing-pipeline-map"></a>
-
-### Standing pipeline × Triad × Aims
-
-*Reader guidance (non-operative): does not add, remove, or narrow binding obligations elsewhere in this chapter or in other chapters.*
-
-When [material stake](core_00_preamble.md#material-stake) requires auditable standing, Chapters Six through Eight form one continuous pipeline under the [Constitutional Triad](core_00_preamble.md#constitutional-triad) and [Two Constitutional Aims](core_01_a_values_principles.md#two-constitutional-aims) — not reputation, allegations, or informal scoring.
-
-| Step | Constitutional job | Dominant Triad leg(s) | Primary aim(s) |
-| --- | --- | --- | --- |
-| **[Ch 6 — Measure](core_06-06_standing_assessment.md#chapter-six-compliance-violation-and-standing-model)** | Separate verified Flourishing credit from verified Accountability findings | **Oversight** + **Accountability** | **Flourishing** (Contribution Axis) + **Accountability** (Violation Axis) |
-| **[Ch 7 — Integrate](core_07-07_standing_integration.md#chapter-seven-standing-effects-and-integration)** | Apply consequences without netting axes or hollowing triad duties | All three; **Participation** via competency gates | **Flourishing** + **Continuity** |
-| **[Ch 8 — Guard](core_08-08_misconduct.md#chapter-eight-anti-constitutional-misconduct)** | Stop constitutional capture at top violation slots | All three at scale | **Continuity** (primary) + **Flourishing** |
-
-**Parallel adjudication layer:** [Chapter Nine](core_09-09_forum.md#chapter-nine-forums-and-jurisdiction) hears disputes and produces findings through **participation** and **oversight** forum institutions without substituting for standing calculus.
-
-Read with [Chapter Five §3.10 *Standing State, Contribution, and Violation*](core_05a_accountability_definitions.md#standing-state-contribution-and-violation-cluster) for canonical definition routing.
-
-<br>
-
-<details>
-<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
-
-- Upstream: [Chapters Six–Eight standing pipeline map](#chapters-six-nine-constitutional-compass); [Constitutional Triad](core_00_preamble.md#constitutional-triad); [Two Constitutional Aims](core_01_a_values_principles.md#two-constitutional-aims); [material stake](core_00_preamble.md#material-stake).
-- Upstream: [Chapter One](core_01_b_stewardship_capacity_principles.md#chapter-01-principles-and-constraints) (*Plain-Language Accessibility* stewardship reflected in section-level gloss); [Chapter One §7 — Stewardship and Distributed Understanding](core_01_b_stewardship_capacity_principles.md#6-stewardship-and-distributed-understanding) (*principle-layer foundation for competence-linked, traceable standing — trust, roles, and recognition*); [Chapters Two through Four](core_02-04_definition_mechanics.md) (*integrity, records, and verification*); [Chapter Five](core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) (*definitions and supremacy read with Chapters Two through Four*).
-- Standing pipeline: [Chapter Six — Classification](core_06-06_standing_assessment.md#chapter-six-compliance-violation-and-standing-model) (*record, verification, and classification — sections **1–4***); [Chapter Seven — Standing Effects and Integration](core_07-07_standing_integration.md#chapter-seven-standing-effects-and-integration) (*attachments, descriptors, standing locks, standing effects, and enforcement — sections **1–6***); [Chapter Eight](core_08-08_misconduct.md#chapter-eight-anti-constitutional-misconduct) (*top-slot review and final Violation Axis `s = 7`, `s = 8`, and `s = 9` anti-constitutional misconduct assignment*).
-- Subsections in this file: [§1](#2-purpose-and-role); [§2](#2-standing-records) (*§§2.1–2.2 — standing-record container and Standing Record operational requirements*); [§3](#3-verified-inputs-forums-and-no-offset-rules) (*§§3.1–3.3 — verified-input gate, forum boundary, and no-offset bridge*); [§4](#4-primary-axis-categories-slot-grammar-and-defaults) (*§§4.0–4.3 — slot grammar, primary category defaults, LEQU constitutional-outcome baseline, Contribution Axis rules, and Violation Axis rules*). Continued in [Chapter Seven — Standing Effects and Integration](core_07-07_standing_integration.md#chapter-seven-standing-effects-and-integration): [§1](core_07-07_standing_integration.md#5-standing-effects) through [§6](core_07-07_standing_integration.md#9-violation-axis-s-7-9-anti-constitutional-misconduct-authoritative-location).
-- Downstream: [Chapter Eight](core_08-08_misconduct.md#chapter-eight-anti-constitutional-misconduct) (*authoritative Violation Axis s = 7, 8, and 9 anti-constitutional misconduct classification*); [Chapter Nine](core_09-09_forum.md#chapter-nine-forums-and-jurisdiction) (*forum allocation for disputes arising under this model*); [Chapter Ten — Article XXIII](core_10-10_rights_part_d.md#article-xxiii-a-justice-objective-and-scope) (*justice constraints on restitution, restorative accountability, and restrictive responses*).
-- Read with: [README.md](README.md) (*reading order*); [doc_architecture.md](doc_architecture.md) (*non-binding editorial maps unless adopted*).
-
-</details>
-
-<br>
-
-*In plain terms: This chapter **measures** standing on two separate tracks — verified good (**Flourishing** / Contribution Axis) and proven violations (**Accountability** / Violation Axis) — before Chapter Seven applies locks and effects. Standing follows verifiable competence and care ([Chapter One §7](core_01_b_stewardship_capacity_principles.md#6-stewardship-and-distributed-understanding)), not reputation. The model must work when credit ages, violations stay live until addressed, remedies need resources, accountability crosses borders, and evasion through shells or relabeling is attempted.*
-
 <a id="1-purpose-and-role"></a>
 
 ### 1. Purpose and Role
@@ -83,6 +81,7 @@ Read with [Chapter Five §3.10 *Standing State, Contribution, and Violation*](co
 - Triad leg(s): **oversight**, **accountability**, **participation** (contestability of records). Primary aim(s): **Flourishing** and **Continuity**. [material stake](core_00_preamble.md#material-stake) scaling applies chapter-wide.
 - Downstream: [§2](#2-standing-records) (*standing records and operational requirements*); [§3](#3-verified-inputs-forums-and-no-offset-rules) (*verified-input gate, forum boundary, and no-offset bridge*); [§4](#4-primary-axis-categories-slot-grammar-and-defaults) (*slot grammar, primary axis categories, and LEQU slot baseline*); [Chapter Seven §1](core_07-07_standing_integration.md#5-standing-effects) through [§3](core_07-07_standing_integration.md#6-extended-axis-ii-legal-hybrid-duty-and-harm-descriptors) (*standing effects, supplemental descriptors, and Violation Axis attachments*); [Chapter Seven §4](core_07-07_standing_integration.md#8-cross-axis-coupling-and-escalation-constraints) (*§§4.1–4.3 — mechanics*); [Chapter Seven §5](core_07-07_standing_integration.md#8-enforcement-realism-anchors) (*implementation anchors*); [Chapter Seven §6](core_07-07_standing_integration.md#9-violation-axis-s-7-9-anti-constitutional-misconduct-authoritative-location) (*Chapter Eight pointer*).
 - Read with: [Article XXIII-B: Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints](core_10-10_rights_part_d.md#article-xxiii-b-non-trivial-restriction-restitution-and-restorative-accountability-constraints) and [Article XXIII-C: Least-Restrictive and Time-Bounded Rule](core_10-10_rights_part_d.md#article-xxiii-c-least-restrictive-and-time-bounded-rule) (*justice constraints referenced in this section*).
+- Read with: [corpus_systems.md](corpus_systems.md), CS-4 — System classification and handling (*Class A, B, and C systems*); [§3.1](#verified-inputs-for-standing) (*Class P private-scope boundary*).
 
 </details>
 
@@ -97,14 +96,16 @@ Read with [Chapter Five §3.10 *Standing State, Contribution, and Violation*](co
 
 <br>
 
-*In plain terms: this section sets the conceptual frame only — everyday scoring, restitution and restorative-accountability playbooks, and incentives belong in implementation; classification here does not, by itself, license coercive restrictions beyond the justice guardrails in Chapter Ten.*
+*In plain terms: Standing under this pipeline applies to **sentients**, to **Class A, B, and C** systems under [CS-4 — System classification and handling](corpus_systems.md), and to the **institutions** that design, operate, or govern those systems — not to vague reputation labels. Private **Class P** boundaries are handled in [§3.1](#verified-inputs-for-standing). This chapter **measures** standing on two separate tracks — verified good (**Flourishing** / Contribution Axis) and proven violations (**Accountability** / Violation Axis) — before Chapter Seven applies locks and effects. Standing follows verifiable competence and care ([Chapter One §7](core_01_b_stewardship_capacity_principles.md#6-stewardship-and-distributed-understanding)), not reputation, and the model must work when credit ages, violations stay live until addressed, remedies need resources, accountability crosses borders, and evasion through shells or relabeling is attempted. This section sets the conceptual frame only — everyday scoring, restitution and restorative-accountability playbooks, and incentives belong in implementation; classification here does not, by itself, license coercive restrictions beyond the justice guardrails in Chapter Ten.*
 
 This chapter defines a unified constitutional model with two aligned axes, which combine into **standing effect**: 
 
 - **(I) contribution state**: **positive-only** — baseline and uplift
 - **(II) violation nature**: **adverse** findings — Violation Axis severity, process / response character, and supplements. 
 
-This chapter establishes constitutional meaning only. Procedural scoring, escalation workflows, restitution, remediation operations, restorative-accountability measures, and incentives belong in adopted implementation text.
+**Who this pipeline applies to.** Standing under this chapter applies to **sentients**; to **Class A**, **Class B**, and **Class C** systems classified under **[corpus_systems.md](corpus_systems.md), CS-4 — System classification and handling**; and to **institutions** that design, operate, steward, or govern those systems. Other constitutionally relevant units may carry standing records under **section 2.1**, but the model is built for subjects whose verified contribution or violation findings can lawfully affect trust, roles, recognition, restriction, and remedy. Systems that validly remain **Class P** under **CS-4** are addressed in **section 3.1**.
+
+This chapter states what standing *means* under the Constitution — not how to run it day to day. Scoring procedures, escalation steps, restitution and repair operations, restorative-accountability measures, and incentive design belong in adopted implementation text.
 
 Classification under this chapter does not, by itself, authorize coercive or liberty-restricting severity beyond the justice constraints in Chapter Ten, **Article XXIII** (especially **Article XXIII-B** and **Article XXIII-C**) and corresponding governance safeguards.  
 
@@ -140,7 +141,7 @@ A **standing record** is the bounded record unit used to apply this chapter's ca
 
 A standing record may concern a sentient, institution, system, assessment, bounded event, role, collective, actor-specific record, or other constitutionally relevant unit. It must not collapse distinct subjects, roles, systems, communities, time windows, review statuses, or decision contexts into one undifferentiated standing label.
 
-A standing record is not a freestanding reputation score, dignity rank, permanent status, general worth label, or merged scorecard. It is the bounded application container for separately traceable inputs. Detailed operational requirements are stated in **section 2.2**.
+A standing record is not a freestanding reputation score, dignity rank, permanent status, general worth label, or merged scorecard. It is a bounded case file that keeps each verified input on its own track, so contribution and violations stay separate and reviewable. Detailed operational requirements are stated in **section 2.2**.
 
 <a id="25-standing-record-operational-underpinnings"></a>
 <a id="25-standing-record-operational-requirements"></a>
@@ -153,7 +154,7 @@ A standing record is not a freestanding reputation score, dignity rank, permanen
 
 ##### 2.2.1 Scope and bounded subject
 
-Each standing record opened under **section 2.1** assesses behavior within a specific application context. It must say who or what is being assessed, for what purpose, over what time period, and under what review status.
+Each standing record opened under **section 2.1** looks at conduct in one clearly defined situation. It must say who or what is being assessed, for what purpose, over what time period, and under what review status.
 
 A **bounded event** is a finite occurrence or time-bounded episode used as the subject of a standing record. It is not an open-ended status label. A **pattern** may be assessed only when the record defines the subject, scope, and review period.
 
@@ -214,18 +215,18 @@ Standing records must be versioned when material facts, findings, review outcome
 
 The later version must preserve the prior audit trail and explain the change.
 
-Adopted implementation may define schemas, tags, thresholds, forms, dashboards, and review workflows for standing records. Those materials must implement this subsection, not narrow it.
+Teams may build the practical tools for standing records — data fields, tags, thresholds, forms, dashboards, and review steps. Those tools must follow this rule, not water it down.
 
-The following must remain visible enough for future changes to be checked rather than hidden inside opaque scores:
+None of the following may be buried in a single opaque score or hidden label. Each must stay clear enough that someone can later check what changed and why:
 
-- human-readable category names;
-- slot `s`;
-- axis separation;
-- assessment-to-slot reasoning;
-- evidence provenance;
-- contestability;
-- currentness; and
-- calibration assumptions.
+- plain-language category names;
+- which slot (`s`) applies;
+- keeping contribution and violations on separate tracks;
+- the reasoning that connects the facts to the chosen slot;
+- where the evidence came from;
+- how to challenge the record;
+- whether the information is still current; and
+- the assumptions used to calibrate impact.
 
 <a id="3-verified-inputs-forums-and-no-offset-rules"></a>
 
@@ -245,24 +246,23 @@ The following must remain visible enough for future changes to be checked rather
 
 <br>
 
-*In plain terms: Section 3 explains which inputs are allowed to affect standing. Contributions need demonstrable contribution records. Violations need verified findings from a competent forum or adopting process. Accusations, complaints, and routing labels do not change standing by themselves, and positive contribution does not cancel or average down proven violations.*
+*In plain terms: Section 3 is the evidence rule for standing. Trust, roles, and recognition depend only on checked facts — not accusations, complaints, or routing labels. Contributions need demonstrable contribution records; violations need verified findings from a competent forum or adopting process, both meeting the integrity standards in Chapters Two through Four. Until findings exist, preliminary dispute material does not change standing by itself. For systems that validly remain **Class P** under CS-4, ordinary private discretion may apply inside that boundary without creating broader standing effects. Good and bad stay on separate tracks: they can coexist in a record, but they do not cancel, average, or relabel each other.*
 
 <a id="verified-inputs-for-standing"></a>
+<a id="31-verified-input-gate"></a>
 
-#### 3.16 Verified-input gate
+#### 3.1 Verified-input gate
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [§2.1](#21-standing-records-as-the-unit-of-application) (*standing records as the unit of application*); [§3.2](#22-standing-record-operational-requirements) (*Standing Record operational requirements*).
+- Upstream: [§2.1](#21-standing-records-as-the-unit-of-application) (*standing records as the unit of application*); [§2.2](#22-standing-record-operational-requirements) (*Standing Record operational requirements*).
 - Downstream: [§3.2](#32-dispute-phase-material-forums-and-challenge-protections) (*dispute-phase material, forums, and challenge protections*); [§3.3](#33-coexistence-and-no-offset-bridge) (*coexistence and no-offset bridge*); [§4.1](#3-axis-i-contribution-state-and-standing-effect) (*Contribution Axis*); [§4.3](#4-axis-ii-violation-nature-legal-constitutional-type) (*Violation Axis*); [Chapter Seven §4](core_07-07_standing_integration.md#8-cross-axis-coupling-and-escalation-constraints) (*joint assessment*).
 - Read with: [Chapter Nine](core_09-09_forum.md#chapter-nine-forums-and-jurisdiction) (*forums separate*); [corpus_systems.md](corpus_systems.md), CS-4 — System classification and handling (*Class P private-scope proportionality*).
 
 </details>
 
 <br>
-
-*In plain terms: Within constitutional systems, your standing — how much you're trusted, what roles you can hold, and what recognition you receive — depends only on facts that have been checked and verified. Accusations, complaints, or preliminary labels don't count until they've been properly reviewed through the forum process and turned into official, auditable findings. Until then, they cannot by themselves change your constitutional standing, role eligibility, trust status, or recognition. For systems that validly remain Class P under CS-4 — System classification and handling, ordinary private and intra-unit discretion may apply inside the Class P boundary; that discretion does not create broader standing effects and does not survive reclassification, material externalization, or adjudication duties that otherwise apply.*
 
 **Verified inputs for standing (forums separate).** Standing decisions must be based on verified information in the relevant **standing records**. Forums may have their own separate rules, but any decision that affects a sentient's standing, trust level, role, recognition, or eligibility for recognition may only use verified standing inputs.
 
@@ -271,13 +271,11 @@ The following must remain visible enough for future changes to be checked rather
 - **Contribution Axis:** **demonstrable contribution state** — documented in **contribution records** that show what someone actually did, with enough detail that others can check and verify the claimed contribution.
 - **Violation Axis:** **violation nature** only to the extent a competent forum or adopting process has produced **violation findings**, recorded in **violation finding records**, that are bounded, traceable to the applicable constitutional duties or definitions, supported by verifiable evidence, and auditable and contestable under the **Chapter Four** evidence, traceability, verification, and access rules for the adopting context.
 
-*In plain terms: To affect someone's standing, you need actual records — not just claims or impressions. For contributions, this means documented evidence of what was done. For violations, this means official findings that have been through proper verification and can be challenged if disputed. Both types of records must meet the integrity standards in Chapters Two through Four.*
-
 <a id="23-dispute-phase-material-forums-and-challenge-protections"></a>
 <a id="221-dispute-phase-material-forums-and-challenge-protections"></a>
 <a id="32-dispute-phase-material-forums-and-challenge-protections"></a>
 
-#### 3.16 Dispute-phase material, forums, and challenge protections
+#### 3.2 Dispute-phase material, forums, and challenge protections
 
 Alleged misconduct, unadjudicated claims, provisional routing tags, intake-only narratives, and other dispute-phase material do not supply violation nature for standing purposes by themselves.
 
@@ -290,8 +288,6 @@ Forums under [Chapter Nine](core_09-09_forum.md#chapter-nine-forums-and-jurisdic
 <a id="33-coexistence-and-no-offset-bridge"></a>
 
 #### 3.3 Coexistence and no-offset bridge
-
-*In plain terms: Once Section 3.16 decides what may count, this section explains how verified contribution records and verified violation findings sit together in standing records. Good deeds and bad deeds stay separately traceable. They can coexist, but they do not cancel, average, or relabel each other.*
 
 **The core rule:** verified contribution records and verified violation findings are recorded separately in the relevant **standing record** or standing records. A verified violation may limit standing, restrict role eligibility, or affect remedy access under Chapter Seven, but it must not wipe away verified positive contribution. Verified contribution may support recognition where current and applicable, but it must not offset, average down, excuse, or relabel a verified violation finding.
 

@@ -1219,8 +1219,6 @@ This cluster is the joint-invocation home for self-determination, meaningful age
 
 **Joint invocation and anti-bypass.** Under §3.0.1, a matter within the admission scope must not be segmented into separate speech, platform, curricular, or surveillance questions in a way that preserves nominal liberty while defeating substantive agency through coercion, manipulation, or informational capture.
 
-**Read with principles:** [Constitutional Triad](core_00_preamble.md#constitutional-triad) — **participation** leg; [Two Constitutional Aims](core_01_a_values_principles.md#two-constitutional-aims) — **Flourishing** aim.
-
 ---
 
 <a id="self-determination-constitutional"></a>
@@ -1231,6 +1229,7 @@ This cluster is the joint-invocation home for self-determination, meaningful age
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Cluster component: [Chapter Five §3.7 *Self-Determination, Meaningful Agency, Expression, Educational Agency, and Volitional Integrity*](core_05c_continuity_definitions.md#self-determination-and-meaningful-agency-cluster).
+- Read with: [Constitutional Triad](core_00_preamble.md#constitutional-triad) — **participation** leg; [Two Constitutional Aims](core_01_a_values_principles.md#two-constitutional-aims) — **Flourishing** aim (*cluster read-with principles*).
 - Owner floor: **[Article IX-A](core_10-10_rights_part_b.md#article-ix-a-agency-and-freedom-from-manipulation)** (*agency and freedom from manipulation*).
 - Read with: [Freedom (Bounded Agency)](core_05p_participation_definitions.md#freedom-bounded-agency) and [Meaningful Agency](core_05p_participation_definitions.md#meaningful-agency) where materially implicated.
 

@@ -4,7 +4,9 @@
 Per ``doc_architecture.md`` rule 10 (Trace contents), ``Read with:`` routing
 belongs inside the owning unit's Trace block. Operative prose must not carry
 parallel ``**Also read**`` (or equivalent) routing sections with bullet lists,
-nor standalone ``Read it with:`` headers followed by routing bullets.
+standalone ``Read it with:`` headers followed by routing bullets, nor
+line-initial ``Read with`` / ``**Read with**`` routing (with or without a
+colon) outside Trace.
 
 This gate flags those routing headers outside ``<details>`` blocks in the
 binding corpus scope.
@@ -21,13 +23,17 @@ from corpus_paths import binding_corpus_scope
 
 ROOT = Path(__file__).resolve().parents[1]
 
-# Operative-prose routing headers that should be Trace ``Read with:`` instead.
-FORBIDDEN_ROUTING_HEADER_RES = (
+# Operative-prose routing that should be Trace ``Read with:`` instead.
+FORBIDDEN_ROUTING_PROSE_RES = (
     re.compile(r"^\*\*Also read\*\*:?\s*$", re.IGNORECASE),
     re.compile(r"^\*\*See also\*\*:?\s*$", re.IGNORECASE),
     re.compile(r"^\*\*Related reading\*\*:?\s*$", re.IGNORECASE),
     re.compile(r"^Read it with:\s*$", re.IGNORECASE),
     re.compile(r"^Read with:\s*$", re.IGNORECASE),
+    re.compile(r"^\*\*Read with", re.IGNORECASE),
+    re.compile(r"^Read it with\b", re.IGNORECASE),
+    re.compile(r"^Read with\b", re.IGNORECASE),
+    re.compile(r"^- Read with:", re.IGNORECASE),
 )
 
 
@@ -66,7 +72,7 @@ def audit_file(path: Path, root: Path) -> list[str]:
         if stripped.startswith(">"):
             continue
 
-        for pattern in FORBIDDEN_ROUTING_HEADER_RES:
+        for pattern in FORBIDDEN_ROUTING_PROSE_RES:
             if pattern.match(stripped):
                 findings.append(
                     f"{rel}:{idx}: move routing to Trace ``Read with:`` "
