@@ -73,9 +73,9 @@ When [material stake](core_00_preamble.md#material-stake) requires auditable sta
 > | [§2](#2-standing-records) | **Record layer** — axis-pure standing records, verified-input gate, no-offset bridge, forum boundary | **Oversight**; **Participation** (contestability and forum boundary) | **Flourishing** + **Continuity** (traceable, durable records) |
 > | [§3](#3-slot-grammar-and-display-labels) | **Classification layer** — slot grammar (**Table 1**) | **Oversight** (display discipline) | **Flourishing** |
 > | [§4](#32-constitutional-outcome-baseline-for-slots) | **Calibration layer** — LEQU baseline ([§4.1](#41-lequ-contribution-calibration) contribution · [§4.2](#42-lequ-violation-calibration) violation) | **Oversight** (verified calibration discipline) | **Flourishing** + **Accountability** |
-> | [§5](#33-primary-category-defaults-and-lequ-slot-baseline) | **Classification layer** — primary defaults ([§5.1](#51-contribution-axis-bands-and-table-2) Contribution Axis · [§5.2](#52-violation-axis-severity-ladder) Violation Axis) | **Oversight** + **Accountability** | **Flourishing** + **Accountability** |
+> | [§5](#33-primary-category-defaults-and-lequ-slot-baseline) | **Classification layer** — primary defaults ([§5.1](#51-contribution-axis-bands-and-table-2) Contribution Axis · [§5.2](#52-violation-axis-severity-ladder) Violation Axis · [§5.3](#53-forum-disclosure-and-recusal-process-impact) forum disclosure and recusal) | **Oversight** + **Accountability** | **Flourishing** + **Accountability** |
 >
-> **How §2 and §§3–5 relate:** [§2](#2-standing-records) states *what may be recorded* and *how linked contribution and violation records stay separate* under the [Constitutional Triad](core_00_preamble.md#constitutional-triad) and [Two Constitutional Aims](core_01_a_values_principles.md#two-constitutional-aims). [§§3–5](#3-slot-grammar-and-display-labels) state *how verified standing records map to axis categories* — Flourishing-side contribution under **[§4.1](#41-lequ-contribution-calibration)** and **[§5.1](#51-contribution-axis-bands-and-table-2)**, Accountability-side violation under **[§4.2](#42-lequ-violation-calibration)** and **[§5.2](#52-violation-axis-severity-ladder)**. Section 2 must be satisfied before sections 3–5 categories bind; sections 3–5 do not merge axes, substitute for section 2 record discipline, or apply standing effects. Integration begins in [Chapter Seven](core_07-07_standing_integration.md#chapter-seven-standing-effects-and-integration).
+> **How §2 and §§3–5 relate:** [§2](#2-standing-records) states *what may be recorded* and *how linked contribution and violation records stay separate* under the [Constitutional Triad](core_00_preamble.md#constitutional-triad) and [Two Constitutional Aims](core_01_a_values_principles.md#two-constitutional-aims). [§§3–5](#3-slot-grammar-and-display-labels) state *how verified standing records map to axis categories* — Flourishing-side contribution under **[§4.1](#41-lequ-contribution-calibration)** and **[§5.1](#51-contribution-axis-bands-and-table-2)**, Accountability-side violation under **[§4.2](#42-lequ-violation-calibration)** and **[§5.2](#52-violation-axis-severity-ladder)**, with forum-integrity modifiers under **[§5.3](#53-forum-disclosure-and-recusal-process-impact)** where disclosure or recusal conduct is verified. Section 2 must be satisfied before sections 3–5 categories bind; sections 3–5 do not merge axes, substitute for section 2 record discipline, or apply standing effects. Integration begins in [Chapter Seven](core_07-07_standing_integration.md#chapter-seven-standing-effects-and-integration).
 
 </details>
 
@@ -235,7 +235,7 @@ A standing record **classifies** verified inputs only. It must preserve the axis
 
 - the Violation Axis entry, including the finding authority or record basis, severity level, slot `s` where assigned, process / response character where applicable, and whether Chapter Eight controls final top-slot assignment;
 - where violation is shared or distributed, the verified basis for any actor-specific adverse standing, including causal role, duty, authority, control, foreseeability, benefit, concealment, or feasible prevention capacity;
-- where the violation finding involves a forum disclosure omission or intentional recusal-process failure, the verified basis for the omission or failure, the unmet disclosure or recusal duty, the actor's knowledge, recklessness, or intent where found, and whether the conduct materially affected panel lawfulness, independence, recusal challenge, evidence integrity, remedy timing, backup routing, or practical contestability; and
+- where the violation finding involves a forum disclosure omission or intentional recusal-process failure, the verified basis for the omission or failure, the unmet disclosure or recusal duty, the actor's knowledge, recklessness, or intent where found, and whether the conduct materially affected panel lawfulness, independence, recusal challenge, evidence integrity, remedy timing, backup routing, or practical contestability (read **§5.3** for classification discipline); and
 - the Violation Axis classification basis that any later Chapter Seven standing effect must use.
 
 <a id="233-collective-and-actor-specific-records"></a>
@@ -300,7 +300,7 @@ Forums under [Chapter Nine](core_09-09_forum.md#chapter-nine-forums-and-jurisdic
 <a id="classification-layer-sections-3-5"></a>
 <a id="classification-layer-sections-3-6"></a>
 
-*Reading order (classification layer §§3–5):* **[§3](#3-slot-grammar-and-display-labels)** names the shared slot labels (**Table 1**) · **[§4](#32-constitutional-outcome-baseline-for-slots)** calibrates magnitude in LEQU (**[§4.1](#41-lequ-contribution-calibration)** contribution · **[§4.2](#42-lequ-violation-calibration)** violation) · **[§5](#33-primary-category-defaults-and-lequ-slot-baseline)** classifies verified **contribution state** (**[§5.1](#51-contribution-axis-bands-and-table-2)** · **Table 2**) and verified **violation nature** (**[§5.2](#52-violation-axis-severity-ladder)**). Triad / Aims map and relation to §2: [chapter opening reader guidance](#chapter-six-part-a-orientation). Standing effects begin in [Chapter Seven](core_07-07_standing_integration.md#chapter-seven-standing-effects-and-integration).
+*Reading order (classification layer §§3–5):* **[§3](#3-slot-grammar-and-display-labels)** names the shared slot labels (**Table 1**) · **[§4](#32-constitutional-outcome-baseline-for-slots)** calibrates magnitude in LEQU (**[§4.1](#41-lequ-contribution-calibration)** contribution · **[§4.2](#42-lequ-violation-calibration)** violation) · **[§5](#33-primary-category-defaults-and-lequ-slot-baseline)** classifies verified **contribution state** (**[§5.1](#51-contribution-axis-bands-and-table-2)** · **Table 2**), verified **violation nature** (**[§5.2](#52-violation-axis-severity-ladder)**), and forum-integrity modifiers (**[§5.3](#53-forum-disclosure-and-recusal-process-impact)**). Triad / Aims map and relation to §2: [chapter opening reader guidance](#chapter-six-part-a-orientation). Standing effects begin in [Chapter Seven](core_07-07_standing_integration.md#chapter-seven-standing-effects-and-integration).
 
 <br>
 
@@ -462,7 +462,7 @@ Adopted implementation may publish calibrated units, evidentiary methods, and ex
 
 ### 5. Primary category defaults — Contribution Axis and Violation Axis
 
-*In plain terms: This section translates the abstract nine-slot scale into operative categories on each axis — contribution under **§5.1**, violation under **§5.2** — using the LEQU calibration in **section 4**. The two subsections are parallel; read them side by side, not as a merged score.*
+*In plain terms: This section translates the abstract nine-slot scale into operative categories on each axis — contribution under **§5.1**, violation under **§5.2**, and forum-integrity modifiers under **§5.3** — using the LEQU calibration in **section 4**. Read **§5.1** and **§5.2** side by side for the parallel axes, not as a merged score; read **§5.3** when verified disclosure or recusal conduct is in play.*
 
 **Primary band keys.** Adopted implementation may use stable **C-** contribution-band interchange keys (**C-BL**, **C-PC**, **C-SP**, **C-CH**) and **V-** violation-label keys for interoperable records. Those keys support storage and exchange; operative meaning remains in this chapter's tables. See [CH06_NINE_SLOT_STANDING_SCALE.md](implementation/CH06_NINE_SLOT_STANDING_SCALE.md).
 
@@ -513,13 +513,13 @@ Adopted implementation may publish `C*` thresholds, `V(s)` weights, and keyed su
 <a id="52-violation-axis-severity-ladder"></a>
 <a id="chapter-six-part-e-accountability-measure"></a>
 
-#### 5.2 Violation Axis — severity ladder and application notes
+#### 5.2 Violation Axis — severity ladder
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [§2](#2-standing-records) (*standing records, verified-input gate, and no-offset bridge*); [§3](#31-slot-grammar-and-display-labels) (*slot grammar and display labels*); [§4.2](#42-lequ-violation-calibration) (*violation LEQU calibration*); [§5.1](#51-contribution-axis-bands-and-table-2) (*Contribution Axis rules and **Table 2***); [Chapter Seven §3.9](core_07-07_standing_integration.md#73-stackable-harm-and-conduct-descriptors-violation-nature-supplement) (*Violation Axis supplements*).
-- Downstream: [Chapter Seven §3](core_07-07_standing_integration.md#6-extended-axis-ii-legal-hybrid-duty-and-harm-descriptors) (*process / response character, hybrid, and duty material*); [Chapter Seven §4](core_07-07_standing_integration.md#8-cross-axis-coupling-and-escalation-constraints) (*standing integration and no-netting mechanics*); [Chapter Eight](core_08-08_misconduct.md#chapter-eight-anti-constitutional-misconduct) (*final Violation Axis **s = 7, 8, or 9** anti-constitutional misconduct assignment*).
+- Downstream: [§5.3](#53-forum-disclosure-and-recusal-process-impact) (*forum disclosure and recusal-process impact*); [Chapter Seven §3](core_07-07_standing_integration.md#6-extended-axis-ii-legal-hybrid-duty-and-harm-descriptors) (*process / response character, hybrid, and duty material*); [Chapter Seven §4](core_07-07_standing_integration.md#8-cross-axis-coupling-and-escalation-constraints) (*standing integration and no-netting mechanics*); [Chapter Eight](core_08-08_misconduct.md#chapter-eight-anti-constitutional-misconduct) (*final Violation Axis **s = 7, 8, or 9** anti-constitutional misconduct assignment*).
 - Read with: [Supremacy and Enforceability](core_05i_integrative_definitions.md#supremacy-and-enforceability), [Constitutional Constraint Violation](core_05i_integrative_definitions.md#constitutional-constraint-violation), [Harm](core_05a_accountability_definitions.md#harm), and [Materiality Determination](core_05o_oversight_definitions.md#materiality-determination).
 - Triad leg(s): **accountability**. Primary aim(s): **Flourishing** and **Continuity**. [material stake](core_00_preamble.md#material-stake) scaling applies to severity and verification burden.
 
@@ -551,7 +551,7 @@ The slot scale measures verified constitutional loss, harm, waste, foreclosure, 
 | 2 | <a id="42-remedial-substantive-non-compliance"></a>**Remedial Substantive Non-Compliance** | Real-world duty, harm, rights, Ontological (O), Evaluative (E), or Compliance (C) failure requiring repair, restoration, compensation, injunction, or comparable civil correction. This includes direct, indirect, delayed, aggregated, cross-system, psychological, trauma, coercion-related, agency, wellbeing, dignity, or trust-condition harm where material. |
 | 3 | <a id="43-constitutional-substantive-non-compliance"></a>**Significant Substantive Non-Compliance** | Material violation of constitutional constraints, Rights Floors, supremacy and enforceability, anti-evasion requirements, or challenge-and-remedy access, before aggravated, coercive or safeguard-process, critical, or final Chapter Eight top-slot criteria are met. |
 |    4 | <a id="44-duty-based-or-negligent-harm-violation"></a>**Duty-Based or Negligent-Harm Violation** | Duty, foreseeability, and feasible capacity to prevent, mitigate, supervise, or escalate material harm existed, but preventable harm, risk, inadequate operational care, inadequate supervision, delayed escalation, or neglect is verified. This level may co-occur with other severity levels where their criteria also fit. |
-|    5 | <a id="45-aggravated-violation"></a>**Aggravated Violation** | Formal, remedial substantive, significant substantive, or duty-based violation with worsening features such as evasion, concealment, strategic obstruction of audit, dishonest forum disclosure omission, intentional recusal-process failure, repetition after notice, reckless disregard, exploitative incentive design, structural enablement, or material dependency-asymmetry abuse. |
+|    5 | <a id="45-aggravated-violation"></a>**Aggravated Violation** | Formal, remedial substantive, significant substantive, or duty-based violation with worsening features such as evasion, concealment, strategic obstruction of audit, dishonest forum disclosure omission, intentional recusal-process failure, repetition after notice, reckless disregard, exploitative incentive design, structural enablement, or material dependency-asymmetry abuse. For forum disclosure omission and recusal-process impact, read **§5.3**. |
 |    6 | <a id="46-coercive-or-safeguard-process-violation"></a>**Coercive or Safeguard-Process Violation** | Culpability, coercion, manipulation, violence, credible threat, liberty-threatening response, or comparable social danger serious enough to require criminal-process or equivalent constitutional protections where coercive or liberty-restricting response is in play. This severity may carry **Chapter Seven section 3.2** coercive or liberty-restricting safeguard character, but severity and process / response character remain separately traceable. |
 | 7 | <a id="47-critical-non-compliance"></a>**Serious anti-constitutional misconduct** where Chapter Eight so assigns / **Critical Non-Compliance** | **At least one LEQU destroyed** or comparable critical harm: catastrophic, existential, irreversible, Rights-Floor-defeating, constitution-undermining, large-scale systemic, severe persistent trauma with durable agency impairment, or material violation of non-negotiable floors including Safety, Truth, and dignity-equality protections. Immediate containment and heightened oversight apply. |
 | 8 | **Grave anti-constitutional misconduct** | **Multiple LEQUs lost**, structural or cross-institutional constitutional damage, or a final Chapter Eight finding establishing **s = 8** grave anti-constitutional misconduct. |
@@ -561,7 +561,23 @@ The slot scale measures verified constitutional loss, harm, waste, foreclosure, 
 
 **Applying the ladder.** Assign the **highest** `s` whose criteria fit the verified findings. Formal defects stay at `s` = 1 unless substantive harm, rights burden, or material operational failure is verified. Remedial or civil-correction character alone does not cap escalation where constitutional floors, aggravating features, coercion, liberty danger, or critical harm are verified. Severity and process / response character remain separately traceable and do not form a second ladder.
 
-**Forum disclosure omission and recusal-process impact.**
+<a id="53-forum-disclosure-and-recusal-process-impact"></a>
+<a id="forum-disclosure-omission-and-recusal-process-impact"></a>
+
+#### 5.3 Forum disclosure omission and recusal-process impact
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Upstream: [§2.3.2](#232-minimum-record-contents) (*violation standing record fields*); [§5.2](#52-violation-axis-severity-ladder) (*aggravated violation row and severity ladder*); [corpus_forum.md](corpus_forum.md) **CF-4** (*panel formation, disclosure, recusal, and lawful bench constitution*).
+- Downstream: [Chapter Seven §4](core_07-07_standing_integration.md#8-cross-axis-coupling-and-escalation-constraints) (*standing-lock weighting for forum-integrity injury*); [Chapter Nine §6](core_09-09_forum.md#6-transfer-consolidation-and-coordination) (*backup routing*); [Chapter Eight](core_08-08_misconduct.md#chapter-eight-anti-constitutional-misconduct) (*top-slot review where anti-constitutional misconduct is alleged*).
+- Read with: [Verified inputs for standing](#verified-inputs-for-standing) (*verified-input gate*).
+
+</details>
+
+<br>
+
+*In plain terms: lying on a mandatory forum disclosure, or deliberately skipping a required recusal process, is not treated like ordinary deception or paperwork failure. It can corrupt the forum itself — who is lawfully on the panel, whether anyone can challenge bias, and whether the case is being heard fairly.*
 
 - **What counts.** A verified knowing, reckless, or materially dishonest omission from a mandatory forum disclosure required before merits participation, or a verified intentional failure to follow a required recusal process.
 - **Why it is heightened.** The conduct can distort the legality and independence of the adjudicative forum itself — not merely the underlying merits dispute.

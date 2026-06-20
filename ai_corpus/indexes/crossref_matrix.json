@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/crossref_matrix.schema.json",
-  "generated_at": "2026-06-20T13:26:48+00:00",
+  "generated_at": "2026-06-20T14:00:35+00:00",
   "description": "Source-derived file-to-file Markdown reference graph.",
   "graph": {
     "nodes": [
@@ -2722,7 +2722,7 @@
           },
           {
             "file": "core_07-07_standing_integration.md",
-            "count": 25,
+            "count": 26,
             "anchors": [
               "#38-standing-integration-contribution-and-violation-nature",
               "#5-standing-effects",
@@ -2739,15 +2739,16 @@
           },
           {
             "file": "core_08-08_misconduct.md",
-            "count": 6,
+            "count": 7,
             "anchors": [
               "#chapter-eight-anti-constitutional-misconduct"
             ]
           },
           {
             "file": "core_09-09_forum.md",
-            "count": 5,
+            "count": 6,
             "anchors": [
+              "#6-transfer-consolidation-and-coordination",
               "#chapter-nine-forums-and-jurisdiction"
             ]
           },
@@ -2766,6 +2767,11 @@
               "#article-xxiii-b-non-trivial-restriction-restitution-and-restorative-accountability-constraints",
               "#article-xxiii-c-least-restrictive-and-time-bounded-rule"
             ]
+          },
+          {
+            "file": "corpus_forum.md",
+            "count": 1,
+            "anchors": []
           },
           {
             "file": "corpus_systems.md",
@@ -2913,7 +2919,7 @@
           },
           {
             "file": "core_06-06_standing_assessment.md",
-            "count": 34,
+            "count": 35,
             "anchors": [
               "#2-purpose-and-role",
               "#237-forum-boundary",
@@ -2922,6 +2928,7 @@
               "#42-remedial-substantive-non-compliance",
               "#44-duty-based-or-negligent-harm-violation",
               "#51-contribution-axis-bands-and-table-2",
+              "#53-forum-disclosure-and-recusal-process-impact",
               "#chapter-six-compliance-violation-and-standing-model",
               "#chapters-six-nine-constitutional-compass",
               "#verified-inputs-for-standing"
@@ -10834,10 +10841,11 @@
           },
           {
             "file": "core_06-06_standing_assessment.md",
-            "count": 4,
+            "count": 8,
             "anchors": [
               "#232-minimum-record-contents",
-              "#34-violation-axis-rules-violation-nature-adverse-findings-and-severity"
+              "#52-violation-axis-severity-ladder",
+              "#53-forum-disclosure-and-recusal-process-impact"
             ]
           },
           {

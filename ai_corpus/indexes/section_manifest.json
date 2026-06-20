@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-06-20T13:26:47+00:00",
+  "generated_at": "2026-06-20T14:00:35+00:00",
   "files": {
     "core_00_preamble.md": {
       "total_lines": 64,
@@ -2895,13 +2895,13 @@
       ]
     },
     "core_06-06_standing_assessment.md": {
-      "total_lines": 587,
+      "total_lines": 603,
       "sections": [
         {
           "header": "Contribution, violation, and standing",
           "level": 1,
           "line_start": 1,
-          "line_end": 587,
+          "line_end": 603,
           "anchor": null
         },
         {
@@ -2915,7 +2915,7 @@
           "header": "CHAPTER SIX: CONTRIBUTION, VIOLATION, AND STANDING MODEL — CLASSIFICATION",
           "level": 2,
           "line_start": 51,
-          "line_end": 587,
+          "line_end": 603,
           "anchor": "#chapter-six-compliance-violation-and-standing-model"
         },
         {
@@ -3055,7 +3055,7 @@
           "header": "5. Primary category defaults — Contribution Axis and Violation Axis",
           "level": 3,
           "line_start": 463,
-          "line_end": 587,
+          "line_end": 603,
           "anchor": "#33-primary-category-defaults-and-lequ-slot-baseline"
         },
         {
@@ -3066,11 +3066,18 @@
           "anchor": "#51-contribution-axis-bands-and-table-2"
         },
         {
-          "header": "5.2 Violation Axis — severity ladder and application notes",
+          "header": "5.2 Violation Axis — severity ladder",
           "level": 4,
           "line_start": 516,
-          "line_end": 587,
+          "line_end": 566,
           "anchor": "#chapter-six-part-e-accountability-measure"
+        },
+        {
+          "header": "5.3 Forum disclosure omission and recusal-process impact",
+          "level": 4,
+          "line_start": 567,
+          "line_end": 603,
+          "anchor": "#forum-disclosure-omission-and-recusal-process-impact"
         }
       ]
     },
