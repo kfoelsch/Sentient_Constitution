@@ -37,6 +37,13 @@
       "status": "blocking"
     },
     {
+      "id": "NAV-DEC-12-ORDER",
+      "legacy_ref": "doc_architecture rule 12 trace-to-dec placement",
+      "summary": "D/E/C widget or inline Definition immediately follows Trace when Chapter Five read-with links are present.",
+      "make_target": "trace-dec-widget-order-audit",
+      "status": "blocking"
+    },
+    {
       "id": "NAV-DEC-12-SPACER",
       "legacy_ref": "doc_architecture rule 12 spacer",
       "summary": "Collapsible D/E/C keeps trailing br; inline Definition line does not.",

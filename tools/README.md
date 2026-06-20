@@ -16,6 +16,7 @@ Put a **blank line before** `---` when you mean a horizontal rule between sectio
 | Markdown / prose / definitions gravity | `make corpus-markdown-audit`, `make prose-continuity-audit`, `make ch5-definitions-gravity-audit`, `make ch5-trace-crosslink-audit` |
 | Corpus navigation footer chain and formatting | `make footer-audit` |
 | Trace / D/E/C / reader-guidance `<br>` spacer discipline | `make nav-widget-spacer-audit` |
+| Trace → D/E/C widget order (definition carrier immediately after Trace) | `make trace-dec-widget-order-audit` |
 | File-top Corpus placement widget | `make file-top-placement-audit` |
 | CJS-2.1 topic-router bidirectional read-with links | `make router-bidirectional-audit` |
 | Chapter Five compound heading/member order | `make ch5-cluster-order-audit` |
@@ -32,6 +33,8 @@ Put a **blank line before** `---` when you mean a horizontal rule between sectio
 `ch5_trace_crosslink_audit.py` enforces the Chapter Five navigation-metadata rule: `Read with:` lines belong inside each entry's local `Trace` / `<details>` block, not in operative prose after the block closes. It does not ban selective same-file cross-definition links in O / E / C body text.
 
 `trace_routing_prose_audit.py` enforces the binding-corpus rule that read-with routing stays inside Trace blocks. It also flags disguised navigation such as `Read them with …`, `Each … must be read with …`, and `… also read **§…**` in operative prose.
+
+`trace_dec_widget_order_audit.py` enforces Trace → D/E/C placement: when a `###`–`#####` unit's Trace block carries Chapter Five `· [O]` read-with links, the next block after Trace close must be a **Definitions · Evaluation · Compliance** widget or a single-concept inline **Definition:** line, with only blank lines between.
 
 `ch5_single_definition_audit.py` enforces the Chapter Five directory cleanup rule: one visible definition label, one directory row, no placeholder-only definition shells, and no repeated `Cluster members.` owner roster membership. Anchor fragments remain navigation targets only.
 

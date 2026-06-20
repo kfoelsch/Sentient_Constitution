@@ -89,6 +89,8 @@ CONSUMERS = [
     "core_01_a_values_principles.md",
     "core_01_b_stewardship_capacity_principles.md",
     "core_02-04_definition_mechanics.md",
+    "core_06-06_standing_assessment.md",
+    "core_07-07_standing_integration.md",
     "core_08-08_misconduct.md",
     "core_10-10_rights_part_a.md",
     "core_10-10_rights_part_b.md",

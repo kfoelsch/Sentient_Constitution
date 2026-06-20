@@ -60,8 +60,16 @@
 
 - Upstream: [§5.1](core_06-06_standing_assessment.md#51-contribution-axis-bands-and-table-2) (*primary Contribution Axis rules, bands, and Table 2*); [§5.2](core_06-06_standing_assessment.md#34-violation-axis-rules-violation-nature-adverse-findings-and-severity) (*primary Violation Axis severity ladder, calibration, and application notes*); [§2.2](core_06-06_standing_assessment.md#22-linked-records-and-no-offset-bridge) (*linked records and no-offset bridge*); [§2.1](#71-shared-domain-lenses-cross-axis-vocabulary).
 - Downstream: [§1.2](#competency-gates) (*competency gates*); [§1.3](#standing-locks-in-the-standing-model) (*standing locks*); [§2](#7-supplemental-descriptors-and-domain-lenses) (*supplemental descriptors and domain lenses*); [§3](#6-extended-axis-ii-legal-hybrid-duty-and-harm-descriptors) (*Violation Axis attachments and violation-side descriptors — **§§3.1–3.9***); [§4](#8-cross-axis-coupling-and-escalation-constraints) (*§§4.1–4.3*).
-- Read with: [§2.3.2](core_06-06_standing_assessment.md#verified-inputs-for-standing) (*verified-input gate*); [§2.3.7](core_06-06_standing_assessment.md#237-forum-boundary) (*forum boundary*); [Competency Gate](core_05a_accountability_definitions.md#competency-gate); [Standing Lock](core_05a_accountability_definitions.md#standing-lock).
+- Read with: [§2.3.2](core_06-06_standing_assessment.md#verified-inputs-for-standing) (*verified-input gate*); [§2.3.7](core_06-06_standing_assessment.md#237-forum-boundary) (*forum boundary*).
 - Triad leg(s): **oversight**, **participation**, **accountability**. Primary aim(s): **Flourishing** and **Continuity**. [material stake](core_00_preamble.md#material-stake) scaling applies to standing-effect pathways.
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
+
+- [Competency Gate](core_05a_accountability_definitions.md#competency-gate) · [O](core_05a_accountability_definitions.md#competency-gate) · [E](core_05a_accountability_definitions.md#competency-gate-e) · [C](core_05a_accountability_definitions.md#competency-gate-c)
+- [Standing Lock](core_05a_accountability_definitions.md#standing-lock) · [O](core_05a_accountability_definitions.md#standing-lock) · [E](core_05a_accountability_definitions.md#standing-lock-e) · [C](core_05a_accountability_definitions.md#standing-lock-c)
 
 </details>
 
@@ -381,7 +389,14 @@ This section does not restate the full combination rules. Those mechanics — in
 
 - Upstream: [§1](core_06-06_standing_assessment.md#2-purpose-and-role) (*purpose and constitutional-meaning-only scope*).
 - Downstream: [§2.1.1](#domain-lenses-bodily-relational-care)–[§2.1.5](#domain-lenses-ecology-diligence) (*grouped domain-lens tables*); [§5.1](core_06-06_standing_assessment.md#51-contribution-axis-bands-and-table-2) (*Contribution Axis — primary contribution bands*); [§5.2](core_06-06_standing_assessment.md#34-violation-axis-rules-violation-nature-adverse-findings-and-severity) (*Violation Axis severity ladder*); [§3.2](#72-stackable-benefit-and-stewardship-descriptors-contribution-state-supplement) (*Contribution Axis supplements*); [§3.9](#73-stackable-harm-and-conduct-descriptors-violation-nature-supplement) (*Violation Axis supplements*); [§4](#8-cross-axis-coupling-and-escalation-constraints) (*mechanics*).
-- Read with: [Chapter Eight](core_08-08_misconduct.md#chapter-eight-anti-constitutional-misconduct) (*authoritative Violation Axis s = 7, 8, and 9 anti-constitutional misconduct home*); [Trustworthiness](core_05c_continuity_definitions.md#trustworthiness) — [psychological safety and substantive agency (evaluation)](core_05c_continuity_definitions.md#trustworthiness-e) (*aligns **psychological safety** in the domain-lens table with [Chapter Five](core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions)*).
+- Read with: [Chapter Eight](core_08-08_misconduct.md#chapter-eight-anti-constitutional-misconduct) (*authoritative Violation Axis s = 7, 8, and 9 anti-constitutional misconduct home*).
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
+
+- [Trustworthiness](core_05c_continuity_definitions.md#trustworthiness) · [O](core_05c_continuity_definitions.md#trustworthiness) · [E](core_05c_continuity_definitions.md#trustworthiness-e) · [C](core_05c_continuity_definitions.md#trustworthiness-c)
 
 </details>
 
@@ -468,7 +483,7 @@ The lenses are grouped in **§§2.1.1–2.1.5** — from direct effects on peopl
 - [Epistemic Integrity](core_05o_oversight_definitions.md#epistemic-integrity) · [O](core_05o_oversight_definitions.md#epistemic-integrity-o) · [E](core_05o_oversight_definitions.md#epistemic-integrity-e) · [C](core_05o_oversight_definitions.md#epistemic-integrity-c)
 - [Ecological Integrity](core_05c_continuity_definitions.md#ecological-integrity-constitutional) · [O](core_05c_continuity_definitions.md#ecological-integrity-constitutional) · [E](core_05c_continuity_definitions.md#ecological-integrity-constitutional-e) · [C](core_05c_continuity_definitions.md#ecological-integrity-constitutional-c)
 - [Foreseeability Diligence](core_05o_oversight_definitions.md#foreseeability-diligence) · [O](core_05o_oversight_definitions.md#foreseeability-diligence) · [E](core_05o_oversight_definitions.md#foreseeability-diligence-e) · [C](core_05o_oversight_definitions.md#foreseeability-diligence-c)
-- [Trustworthiness](core_05c_continuity_definitions.md#trustworthiness) — [psychological safety and substantive agency (evaluation)](core_05c_continuity_definitions.md#trustworthiness-e)
+- [Trustworthiness](core_05c_continuity_definitions.md#trustworthiness) · [O](core_05c_continuity_definitions.md#trustworthiness) · [E](core_05c_continuity_definitions.md#trustworthiness-e) · [C](core_05c_continuity_definitions.md#trustworthiness-c)
 
 </details>
 
@@ -533,11 +548,20 @@ Each illustrative item uses **Chapter Six section 5.1** and **Table 2** as the a
 
 <br>
 
-*In plain terms: this section does **not** create a second violation ladder. It adds process and response character to findings — whether the finding mainly calls for repair, coercive or liberty-restricting safeguards, constitutional-floor priority, concurrent treatment, duty resistance, diffusion accountability, or negligence handling — while **Chapter Six section 5.2** remains the adverse severity ladder.*
+*In plain terms: this section does **not** create a second “how bad was it?” ladder — **Chapter Six section 5.2** remains the severity scale. Once misconduct is verified, **§§3.1–3.8** name **what kind of problem it is and what response it calls for**:*
 
-#### Violation Axis attachment categories (process / response character, hybrid, duty, and diffusion — §§3.1–3.8)
+- **§3.1** repair and civil correction
+- **§3.2** coercive or liberty-restricting safeguards and their process protections
+- **§3.3** binding constitutional limits
+- **§3.4** when more than one label fits at once
+- **§3.5** the rule that no process may lawfully fall below constitutional floors
+- **§3.6** shared or spread-out responsibility
+- **§3.7** refusal of unlawful or unconstitutional instructions
+- **§3.8** negligence and neglect
 
-**Sections 3.1 through 3.8** state additional Violation Axis material: remedial / restorative and civil-correction character; coercive or liberty-restricting safeguard character; constitutional-floor character; concurrent character; constitutional floor priority; collective and duty-shaped violation nature; negligence and neglect. These attachment categories classify misconduct under constitutional principles, rights articles, and definitions. More than one category may apply to a single action, pattern, or bounded event. These categories **attach to** verified **violation nature**; they do **not** compete with the **Chapter Six section 5.2** severity ladder or supply final **Chapter Eight s = 7, 8, or 9** assignment. **How** those categories combine with **contribution state** and with **Violation Axis** severity is stated in [**§4.1**](#38-standing-integration-contribution-and-violation-nature) and [**§4.2**](#62-joint-assessment-escalation-constraints-and-scrutiny).
+*Several labels may attach to the same action, pattern, or bounded event. They classify verified **violation nature**; they do **not** by themselves set final **Chapter Eight s = 7, 8, or 9** assignment. [**§4.1**](#38-standing-integration-contribution-and-violation-nature) and [**§4.2**](#62-joint-assessment-escalation-constraints-and-scrutiny) explain how these categories combine with **contribution state** and **Violation Axis** severity.*
+
+**§§3.1–3.8** give formal names to those response types — repair and civil correction; coercive or liberty-restricting safeguards; constitutional-floor issues; concurrent treatment; constitutional-floor priority; collective and duty-shaped responsibility; and negligence or neglect — each grounded in constitutional principles, rights, and definitions. These **attachment categories** apply only when **violation nature** is verified. They are recorded separately from **Chapter Six section 5.2** severity: one tracks *what kind* of violation, the other tracks *how serious* it is.
 
 <a id="61-civil-violation"></a>
 <a id="61-remedial-restorative-and-civil-correction-character"></a>
@@ -549,8 +573,16 @@ Each illustrative item uses **Chapter Six section 5.1** and **Table 2** as the a
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [§4.3, Remedial Substantive Non-Compliance](core_06-06_standing_assessment.md#42-remedial-substantive-non-compliance); [Chapter One §3 — Foundational Objective: Wellbeing](core_01_a_values_principles.md#3-foundational-objective-wellbeing) (*redress and restoration foundation*); [§3.4](#64-concurrent-character-and-non-exclusivity).
-- Downstream: [§3.4](#64-concurrent-character-and-non-exclusivity); [§3.5](#65-constitutional-floor-rule); [§4](#8-cross-axis-coupling-and-escalation-constraints).
+- Downstream: [§3.4](#64-concurrent-character-and-non-exclusivity); [§3.5](#65-constitutional-floor-rule); [§4](#8-cross-axis-coupling-and-escalation-constraints); [§5.1](#51-remediation-capacity-and-funding) (*remediation capacity and funding — general enforcement*).
 - Read with: [Redress and Remediation](core_05a_accountability_definitions.md#redress-and-remediation-constitutional) · [O](core_05a_accountability_definitions.md#redress-and-remediation-constitutional) · [E](core_05a_accountability_definitions.md#redress-and-remediation-constitutional-e) · [C](core_05a_accountability_definitions.md#redress-and-remediation-constitutional-c); [Harm](core_05a_accountability_definitions.md#harm) · [O](core_05a_accountability_definitions.md#harm) · [E](core_05a_accountability_definitions.md#harm-e) · [C](core_05a_accountability_definitions.md#harm-c).
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
+
+- [Harm](core_05a_accountability_definitions.md#harm) · [O](core_05a_accountability_definitions.md#harm) · [E](core_05a_accountability_definitions.md#harm-e) · [C](core_05a_accountability_definitions.md#harm-c)
+- [Redress and Remediation](core_05a_accountability_definitions.md#redress-and-remediation-constitutional) · [O](core_05a_accountability_definitions.md#redress-and-remediation-constitutional) · [E](core_05a_accountability_definitions.md#redress-and-remediation-constitutional-e) · [C](core_05a_accountability_definitions.md#redress-and-remediation-constitutional-c)
 
 </details>
 
@@ -558,15 +590,13 @@ Each illustrative item uses **Chapter Six section 5.1** and **Table 2** as the a
 
 *In plain terms: this is the “make it right” character of a finding — duties, harms, remedies, restoration, compensation, injunctions, or equivalent civil correction — without needing to prove coercive-risk culpability.*
 
-<strong><span style="color: #2563eb;">Definition:</span></strong> [Harm](core_05a_accountability_definitions.md#harm) · [O](core_05a_accountability_definitions.md#harm) · [E](core_05a_accountability_definitions.md#harm-e) · [C](core_05a_accountability_definitions.md#harm-c)
-
 A finding has **remedial, restorative, or civil-correction character** where the violation affects rights, fails to meet applicable duties, or produces harm in a way that calls for repair, compensation, restoration, injunctive constraint, supervision, or equivalent civil correction.
 
 This character may attach to any applicable **Chapter Six section 5.2** severity level. It identifies required correction and **remedy** **path**; it does **not** by itself lower or raise the Violation Axis severity classification.
 
 Coercive-risk culpability need not be established for this character to apply.
 
-Remedial obligation is not defeated by expense, insolvency, restructuring, or administrative inconvenience. Where a factory, institution, platform, or other actor creates pollution, injury, rights burdens, or systemic risk, the constitutional question is what repair, monitoring, compensation, prevention, or successor responsibility is required under verified facts and applicable law, not whether the responsible structure prefers to externalize the cost.
+Remedial capacity, funding, and anti-cost-shifting duties remain governed by [**§5.1**](#51-remediation-capacity-and-funding) (*Remediation capacity and funding*).
 
 <a id="62-criminal-violation"></a>
 <a id="62-coercive-or-liberty-restricting-safeguard-character"></a>
@@ -582,11 +612,9 @@ Remedial obligation is not defeated by expense, insolvency, restructuring, or ad
 
 </details>
 
-<br>
+<strong><span style="color: #2563eb;">Definition:</span></strong> [Coercion and Manipulation](core_05p_participation_definitions.md#coercion-and-manipulation-constitutional) · [O](core_05p_participation_definitions.md#coercion-and-manipulation-constitutional) · [E](core_05p_participation_definitions.md#coercion-and-manipulation-constitutional-e) · [C](core_05p_participation_definitions.md#coercion-and-manipulation-constitutional-c)
 
 *In plain terms: this character applies when coercive control, detention, liberty restriction, or comparable high-impact public-law response is in play; the point is to trigger full process protections, not to create a second finding of guilt inside Chapter Six.*
-
-<strong><span style="color: #2563eb;">Definition:</span></strong> [Coercion and Manipulation](core_05p_participation_definitions.md#coercion-and-manipulation-constitutional) · [O](core_05p_participation_definitions.md#coercion-and-manipulation-constitutional) · [E](core_05p_participation_definitions.md#coercion-and-manipulation-constitutional-e) · [C](core_05p_participation_definitions.md#coercion-and-manipulation-constitutional-c)
 
 A finding has **coercive or liberty-restricting safeguard character** where prohibited conduct, culpability, coercion, violence, credible threat, or comparable social danger makes detention, liberty-restricting, restorative-accountability, or comparable high-impact public-law response possible under applicable law.
 
@@ -606,11 +634,9 @@ This character triggers criminal-process or equivalent constitutional protection
 
 </details>
 
-<br>
+<strong><span style="color: #2563eb;">Definition:</span></strong> [Constitutional Constraint Violation](core_05i_integrative_definitions.md#constitutional-constraint-violation) · [O](core_05i_integrative_definitions.md#constitutional-constraint-violation) · [E](core_05i_integrative_definitions.md#constitutional-constraint-violation-e) · [C](core_05i_integrative_definitions.md#constitutional-constraint-violation-c)
 
 *In plain terms: this character applies when the finding implicates binding constitutional constraints, Rights Floors, supremacy, anti-evasion discipline, or challenge-and-remedy access — and it can ride alongside remedial or coercive-safeguard character.*
-
-<strong><span style="color: #2563eb;">Definition:</span></strong> [Constitutional Constraint Violation](core_05i_integrative_definitions.md#constitutional-constraint-violation) · [O](core_05i_integrative_definitions.md#constitutional-constraint-violation) · [E](core_05i_integrative_definitions.md#constitutional-constraint-violation-e) · [C](core_05i_integrative_definitions.md#constitutional-constraint-violation-c)
 
 A finding has **constitutional-floor character** where it violates binding constitutional constraints, Rights Floors, anti-evasion requirements, challenge-and-remedy access, or supremacy and binding-effect conditions.
 
@@ -627,6 +653,13 @@ The same conduct may also have remedial / restorative or coercive / liberty-rest
 - Upstream: [§3.1](#61-remedial-restorative-and-civil-correction-character)–[§3.3](#63-constitutional-floor-character); [Chapter One §9 — Interaction and Conflict Resolution](core_01_b_stewardship_capacity_principles.md#9-interaction-and-conflict-resolution) (*integrated conflict handling*).
 - Downstream: [§3.9](#73-stackable-harm-and-conduct-descriptors-violation-nature-supplement); [§4](#8-cross-axis-coupling-and-escalation-constraints).
 - Read with: [Materiality Determination](core_05o_oversight_definitions.md#materiality-determination) · [O](core_05o_oversight_definitions.md#materiality-determination) · [E](core_05o_oversight_definitions.md#materiality-determination-e) · [C](core_05o_oversight_definitions.md#materiality-determination-c).
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
+
+- [Materiality Determination](core_05o_oversight_definitions.md#materiality-determination) · [O](core_05o_oversight_definitions.md#materiality-determination) · [E](core_05o_oversight_definitions.md#materiality-determination-e) · [C](core_05o_oversight_definitions.md#materiality-determination-c)
 
 </details>
 
@@ -649,7 +682,7 @@ A single pattern of conduct may carry multiple process / response characters at 
 
 </details>
 
-<br>
+<strong><span style="color: #2563eb;">Definition:</span></strong> [Constitutional Constraint Violation](core_05i_integrative_definitions.md#constitutional-constraint-violation) · [O](core_05i_integrative_definitions.md#constitutional-constraint-violation) · [E](core_05i_integrative_definitions.md#constitutional-constraint-violation-e) · [C](core_05i_integrative_definitions.md#constitutional-constraint-violation-c)
 
 *In plain terms: ordinary remedial, restrictive, or domain-specific processes **cannot** lawfully produce outcomes **below** constitutional floors — domain silos are not an end-run.*
 
@@ -697,6 +730,14 @@ Records must be able to look through formal structure where the structure is use
 - Upstream: [§3.6](#410-collective-accountability-and-acquiescent-participation); [Chapter One §9 — Interaction and Conflict Resolution](core_01_b_stewardship_capacity_principles.md#9-interaction-and-conflict-resolution) (*conflict resolution and rights collision handling*); [Chapter Eight §7](core_08-08_misconduct.md#62-rights-floor-waivers-and-unconstitutional-contract-terms); [Chapter Eight §6.6](core_08-08_misconduct.md#66-unlawful-or-unconstitutional-command-conduct); [Article XXIII-A: Justice Objective and Scope](core_10-10_rights_part_d.md#article-xxiii-a-justice-objective-and-scope).
 - Downstream: [§4](#8-cross-axis-coupling-and-escalation-constraints); [Chapter Nine](core_09-09_forum.md#chapter-nine-forums-and-jurisdiction).
 - Read with: [Contestability](core_05a_accountability_definitions.md#contestability) · [O](core_05a_accountability_definitions.md#contestability) · [E](core_05a_accountability_definitions.md#contestability-e) · [C](core_05a_accountability_definitions.md#contestability-c); [Proportionality](core_05a_accountability_definitions.md#proportionality) · [O](core_05a_accountability_definitions.md#proportionality) · [E](core_05a_accountability_definitions.md#proportionality-e) · [C](core_05a_accountability_definitions.md#proportionality-c).
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
+
+- [Contestability](core_05a_accountability_definitions.md#contestability) · [O](core_05a_accountability_definitions.md#contestability) · [E](core_05a_accountability_definitions.md#contestability-e) · [C](core_05a_accountability_definitions.md#contestability-c)
+- [Proportionality](core_05a_accountability_definitions.md#proportionality) · [O](core_05a_accountability_definitions.md#proportionality) · [E](core_05a_accountability_definitions.md#proportionality-e) · [C](core_05a_accountability_definitions.md#proportionality-c)
 
 </details>
 
@@ -967,9 +1008,13 @@ The purpose of **standing locks** is to prevent recurrence of harmful, negligent
 
 Constitutional standing rules are non-compliant if they exist only as paper classifications. Adopters must maintain the practical capacity needed to correct harm, review restrictions, enforce remedies, and prevent responsible actors from escaping verified obligations through cost, delay, borders, restructuring, or formal identity changes.
 
+<a id="51-remediation-capacity-and-funding"></a>
+
 #### 5.1 Remediation capacity and funding
 
 Correction, repair, compensation, monitoring, safeguard implementation, and recurrence prevention must be supported by real institutional, technical, and financial capacity. Expense, insolvency, administrative inconvenience, or restructuring does not by itself defeat a verified remediation obligation.
+
+Where a factory, institution, platform, or other actor creates pollution, injury, rights burdens, or systemic risk, the constitutional question is what repair, monitoring, compensation, prevention, or successor responsibility is required under verified facts and applicable law, not whether the responsible structure prefers to externalize the cost.
 
 Adopted implementation may specify funding mechanisms, asset recovery, insurance, cleanup funds, successor responsibility, reserve requirements, public remedy funds, or comparable devices. Those mechanisms must not be designed or applied to externalize the cost of verified harm onto affected sentients, communities, ecological subjects, or public remedy systems where responsible actors can lawfully bear it.
 
