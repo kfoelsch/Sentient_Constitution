@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-06-19T18:33:21+00:00",
+  "generated_at": "2026-06-20T13:26:47+00:00",
   "files": {
     "core_00_preamble.md": {
       "total_lines": 64,
@@ -2895,13 +2895,13 @@
       ]
     },
     "core_06-06_standing_assessment.md": {
-      "total_lines": 560,
+      "total_lines": 587,
       "sections": [
         {
           "header": "Contribution, violation, and standing",
           "level": 1,
           "line_start": 1,
-          "line_end": 560,
+          "line_end": 587,
           "anchor": null
         },
         {
@@ -2915,147 +2915,161 @@
           "header": "CHAPTER SIX: CONTRIBUTION, VIOLATION, AND STANDING MODEL — CLASSIFICATION",
           "level": 2,
           "line_start": 51,
-          "line_end": 560,
+          "line_end": 587,
           "anchor": "#chapter-six-compliance-violation-and-standing-model"
         },
         {
           "header": "1. Purpose and Role",
           "level": 3,
-          "line_start": 75,
-          "line_end": 116,
+          "line_start": 86,
+          "line_end": 127,
           "anchor": "#2-purpose-and-role"
         },
         {
           "header": "2. Standing records — oversight foundation",
           "level": 3,
-          "line_start": 117,
-          "line_end": 287,
+          "line_start": 128,
+          "line_end": 306,
           "anchor": "#chapter-six-part-b-oversight-foundation"
         },
         {
           "header": "2.1 Standing records as the unit of application",
           "level": 4,
-          "line_start": 136,
-          "line_end": 154,
+          "line_start": 147,
+          "line_end": 165,
           "anchor": "#violation-standing-record"
         },
         {
           "header": "2.2 Linked records and no-offset bridge",
           "level": 4,
-          "line_start": 155,
-          "line_end": 176,
+          "line_start": 166,
+          "line_end": 187,
           "anchor": "#22-linked-records-and-no-offset-bridge"
         },
         {
           "header": "2.3 Standing record operational requirements",
           "level": 4,
-          "line_start": 177,
-          "line_end": 287,
+          "line_start": 188,
+          "line_end": 306,
           "anchor": "#23-standing-record-operational-requirements"
         },
         {
           "header": "2.3.1 Related record cross-references",
           "level": 5,
-          "line_start": 181,
-          "line_end": 196,
+          "line_start": 192,
+          "line_end": 207,
           "anchor": "#231-related-record-cross-references"
         },
         {
           "header": "2.3.2 Minimum record contents",
           "level": 5,
-          "line_start": 197,
-          "line_end": 231,
+          "line_start": 208,
+          "line_end": 242,
           "anchor": "#232-minimum-record-contents"
         },
         {
           "header": "2.3.3 Collective and actor-specific records",
           "level": 5,
-          "line_start": 232,
-          "line_end": 242,
+          "line_start": 243,
+          "line_end": 253,
           "anchor": "#233-collective-and-actor-specific-records"
         },
         {
           "header": "2.3.4 Versioning",
           "level": 5,
-          "line_start": 243,
-          "line_end": 256,
+          "line_start": 254,
+          "line_end": 267,
           "anchor": "#234-versioning"
         },
         {
           "header": "2.3.5 Implementation visibility",
           "level": 5,
-          "line_start": 257,
-          "line_end": 271,
+          "line_start": 268,
+          "line_end": 282,
           "anchor": "#235-implementation-visibility"
         },
         {
           "header": "2.3.6 Implementation tools",
           "level": 5,
-          "line_start": 272,
-          "line_end": 277,
+          "line_start": 283,
+          "line_end": 288,
           "anchor": "#236-implementation-tools"
         },
         {
           "header": "2.3.7 Forum boundary",
           "level": 5,
-          "line_start": 278,
-          "line_end": 287,
+          "line_start": 289,
+          "line_end": 306,
           "anchor": "#237-forum-boundary"
         },
         {
-          "header": "4. Primary axis categories, slot grammar, and defaults",
+          "header": "3. Slot grammar and display labels",
           "level": 3,
-          "line_start": 288,
-          "line_end": 560,
-          "anchor": "#chapter-six-part-d-flourishing-measure"
+          "line_start": 307,
+          "line_end": 365,
+          "anchor": "#classification-layer-sections-3-6"
         },
         {
-          "header": "4.0 Slot grammar and display labels",
+          "header": "3.1 What the slot grammar does",
           "level": 4,
-          "line_start": 293,
-          "line_end": 379,
-          "anchor": "#40-slot-grammar-and-display-labels"
+          "line_start": 313,
+          "line_end": 325,
+          "anchor": "#311-what-the-slot-grammar-does"
         },
         {
-          "header": "4.0.1 What the slot grammar does",
-          "level": 5,
-          "line_start": 298,
-          "line_end": 313,
-          "anchor": "#401-what-the-slot-grammar-does"
-        },
-        {
-          "header": "4.0.2 Table 1 — slot display labels",
-          "level": 5,
-          "line_start": 314,
-          "line_end": 347,
-          "anchor": "#402-table-1-slot-display-labels"
-        },
-        {
-          "header": "4.0.3 How to read Table 1",
-          "level": 5,
-          "line_start": 348,
-          "line_end": 379,
-          "anchor": "#403-how-to-read-table-1"
-        },
-        {
-          "header": "4.1 LEQU baseline — measuring impact in lifetime-equivalent units",
+          "header": "3.2 Table 1 — slot display labels",
           "level": 4,
-          "line_start": 380,
-          "line_end": 432,
-          "anchor": "#41-constitutional-outcome-baseline-for-slots"
+          "line_start": 326,
+          "line_end": 353,
+          "anchor": "#312-table-1-slot-display-labels"
         },
         {
-          "header": "4.2 Primary category defaults — how the nine slots map to real-world contributions and violations",
+          "header": "3.3 How to read Table 1",
           "level": 4,
-          "line_start": 433,
-          "line_end": 473,
-          "anchor": "#42-primary-category-defaults-and-lequ-slot-baseline"
+          "line_start": 354,
+          "line_end": 365,
+          "anchor": "#313-how-to-read-table-1"
         },
         {
-          "header": "4.3 Accountability measure — Violation Axis rules (adverse findings and severity)",
+          "header": "4. LEQU baseline — measuring impact in lifetime-equivalent units",
+          "level": 3,
+          "line_start": 366,
+          "line_end": 462,
+          "anchor": null
+        },
+        {
+          "header": "4.1 Contribution calibration",
           "level": 4,
-          "line_start": 474,
-          "line_end": 560,
+          "line_start": 385,
+          "line_end": 422,
+          "anchor": "#41-lequ-contribution-calibration"
+        },
+        {
+          "header": "4.2 Violation calibration",
+          "level": 4,
+          "line_start": 423,
+          "line_end": 462,
+          "anchor": "#42-lequ-violation-calibration"
+        },
+        {
+          "header": "5. Primary category defaults — Contribution Axis and Violation Axis",
+          "level": 3,
+          "line_start": 463,
+          "line_end": 587,
+          "anchor": "#33-primary-category-defaults-and-lequ-slot-baseline"
+        },
+        {
+          "header": "5.1 Contribution Axis — bands and Table 2",
+          "level": 4,
+          "line_start": 471,
+          "line_end": 515,
+          "anchor": "#51-contribution-axis-bands-and-table-2"
+        },
+        {
+          "header": "5.2 Violation Axis — severity ladder and application notes",
+          "level": 4,
+          "line_start": 516,
+          "line_end": 587,
           "anchor": "#chapter-six-part-e-accountability-measure"
         }
       ]

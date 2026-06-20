@@ -29,7 +29,7 @@ def remap_anchors(text: str) -> str:
 def main() -> None:
     text = CH06.read_text()
     start = text.index('<a id="21-standing-records-as-the-unit-of-application"></a>')
-    end = text.index('<a id="4-primary-axis-categories-slot-grammar-and-defaults"></a>')
+    end = text.index('<a id="3-primary-axis-categories-slot-grammar-and-defaults"></a>')
     block = text[start:end]
 
     # Split old operational (2.2) vs no-offset (2.3)
@@ -67,9 +67,9 @@ def main() -> None:
     )
     no_offset = no_offset.replace(
         "- Upstream: [§2.2.1](#211-related-record-cross-references) (*related-record cross-references*); [§2.2.2](#212-minimum-record-contents) (*verified-input gate*); [§2.2.7](#227-forum-boundary) (*forum boundary*).\n"
-        "- Downstream: [§4.0](#40-slot-grammar-and-display-labels)",
+        "- Downstream: [§2.3.1](#231-related-record-cross-references) (*related-record cross-references*); [§2.3.2](#232-minimum-record-contents) (*verified-input gate*); [§2.3.7](#237-forum-boundary) (*forum boundary*); [§3.1](#31-slot-grammar-and-display-labels)",
         "- Upstream: [§2.1](#21-standing-records-as-the-unit-of-application) (*axis-pure standing records and linked-record possibility*).\n"
-        "- Downstream: [§2.3.1](#231-related-record-cross-references) (*related-record cross-references*); [§2.3.2](#232-minimum-record-contents) (*verified-input gate*); [§2.3.7](#237-forum-boundary) (*forum boundary*); [§4.0](#40-slot-grammar-and-display-labels)",
+        "- Downstream: [§2.3.1](#231-related-record-cross-references) (*related-record cross-references*); [§2.3.2](#232-minimum-record-contents) (*verified-input gate*); [§2.3.7](#237-forum-boundary) (*forum boundary*); [§3.1](#31-slot-grammar-and-display-labels)",
     )
 
     new_block = intro + no_offset + operational

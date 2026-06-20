@@ -41,7 +41,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [Chapters Six–Nine constitutional compass](core_06-06_standing_assessment.md#chapters-six-nine-constitutional-compass); [Chapter Six — Classification](core_06-06_standing_assessment.md#chapter-six-compliance-violation-and-standing-model) (*sections **1–4**, including standing records, verified inputs, slot grammar, primary category defaults, Contribution Axis rules, and Violation Axis rules*).
+- Upstream: [Chapters Six–Nine constitutional compass](core_06-06_standing_assessment.md#chapters-six-nine-constitutional-compass); [Chapter Six — Classification](core_06-06_standing_assessment.md#chapter-six-compliance-violation-and-standing-model) (*sections **1–6**, including standing records, verified inputs, slot grammar, primary category defaults, Contribution Axis rules, and Violation Axis rules*).
 - This file: [§1](#5-standing-effects) through [§6](#9-violation-axis-s-7-9-anti-constitutional-misconduct-authoritative-location) (*standing effects, attachments, descriptors, integration, non-substitution, enforcement realism, and Chapter Eight pointer*).
 - Downstream: [Chapter Eight](core_08-08_misconduct.md#chapter-eight-anti-constitutional-misconduct); [Chapter Nine](core_09-09_forum.md#chapter-nine-forums-and-jurisdiction); [Chapter Ten — Article XXIII](core_10-10_rights_part_d.md#article-xxiii-a-justice-objective-and-scope).
 
@@ -58,7 +58,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [§4.1](core_06-06_standing_assessment.md#42-primary-category-defaults-and-lequ-slot-baseline) (*primary Contribution Axis rules, bands, and Table 2*); [§4.3](core_06-06_standing_assessment.md#43-violation-axis-rules-violation-nature-adverse-findings-and-severity) (*primary Violation Axis severity ladder, calibration, and application notes*); [§2.1](#71-shared-domain-lenses-cross-axis-vocabulary).
+- Upstream: [§5.1](core_06-06_standing_assessment.md#51-contribution-axis-bands-and-table-2) (*primary Contribution Axis rules, bands, and Table 2*); [§5.2](core_06-06_standing_assessment.md#34-violation-axis-rules-violation-nature-adverse-findings-and-severity) (*primary Violation Axis severity ladder, calibration, and application notes*); [§2.1](#71-shared-domain-lenses-cross-axis-vocabulary).
 - Downstream: [§2](#7-supplemental-descriptors-and-domain-lenses) (*supplemental descriptors and domain lenses*); [§3](#6-extended-axis-ii-legal-hybrid-duty-and-harm-descriptors) (*Violation Axis attachments and violation-side descriptors — **§§3.1–3.9***); [§4](#8-cross-axis-coupling-and-escalation-constraints) (*§§4.1–4.3*).
 - Read with: [§2.3.2](core_06-06_standing_assessment.md#verified-inputs-for-standing) (*verified-input gate*); [§2.3.7](core_06-06_standing_assessment.md#237-forum-boundary) (*forum boundary*).
 - Triad leg(s): **oversight**, **participation**, **accountability**. Primary aim(s): **Flourishing** and **Continuity**. [material stake](core_00_preamble.md#material-stake) scaling applies to standing-effect pathways.
@@ -73,7 +73,7 @@
 
 Standing consequences may affect eligibility for roles, delegated authority, or enhanced trust pathways. These standing-effect pathways classify trust, role, recognition, restriction, remediation, and review consequences under constitutional principles, rights articles, and definitions. More than one pathway may apply to the same sentient, institution, record, assessment, action, pattern, or bounded event. They must not extinguish inherent dignity, equal moral standing, baseline rights, or access to required challenge rights and remedy.
 
-**Informal contribution and standing.** Conduct that advances constitutional outcomes through **informal**, **peer**, **neighbor**, **mutual-aid**, or other **non-official** community pathways may count toward **contribution state** and positive standing recognition. It may count as fully as formal work, and in some factual patterns more. The same **demonstrability**, **auditability**, and **contestability** standards in **section 4.1**, **section 1.1**, and **section 4.1** still apply. Sentients **need not** work within official channels to be a **material** asset to their communities or to earn trust- and recognition-eligible credit under this chapter.
+**Informal contribution and standing.** Conduct that advances constitutional outcomes through **informal**, **peer**, **neighbor**, **mutual-aid**, or other **non-official** community pathways may count toward **contribution state** and positive standing recognition. It may count as fully as formal work, and in some factual patterns more. The same **demonstrability**, **auditability**, and **contestability** standards in **Chapter Six section 5.1**, **section 1.1**, and **Chapter Six section 5.1** still apply. Sentients **need not** work within official channels to be a **material** asset to their communities or to earn trust- and recognition-eligible credit under this chapter.
 
 <a id="35-positive-standing-recognition"></a>
 <a id="34-positive-standing-recognition"></a>
@@ -82,9 +82,9 @@ Standing consequences may affect eligibility for roles, delegated authority, or 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [§4.1](core_06-06_standing_assessment.md#42-primary-category-defaults-and-lequ-slot-baseline) (*Contribution Axis rules, bands, and Table 2*); [§3.2](#72-stackable-benefit-and-stewardship-descriptors-contribution-state-supplement).
+- Upstream: [§5.1](core_06-06_standing_assessment.md#51-contribution-axis-bands-and-table-2) (*Contribution Axis rules, bands, and Table 2*); [§3.2](#72-stackable-benefit-and-stewardship-descriptors-contribution-state-supplement).
 - Downstream: [§1.2](#competency-gates) (*competency gates*); [§1.4](#standing-locks-in-the-standing-model); [§1.5](#37-reinstatement-review-and-non-entrenchment); [§1.6](#38-standing-integration-category-hook).
-- Read with: [Contribution State](core_05a_accountability_definitions.md#contribution-state) (*Chapter Five pointer — operative Contribution Axis text in **section 4.1***); [Competency Gate](core_05a_accountability_definitions.md#competency-gate); [Auditability](core_05o_oversight_definitions.md#auditability) · [O](core_05o_oversight_definitions.md#auditability) · [E](core_05o_oversight_definitions.md#auditability-e) · [C](core_05o_oversight_definitions.md#auditability-c); [Contestability](core_05a_accountability_definitions.md#contestability) · [O](core_05a_accountability_definitions.md#contestability) · [E](core_05a_accountability_definitions.md#contestability-e) · [C](core_05a_accountability_definitions.md#contestability-c).
+- Read with: [Contribution State](core_05a_accountability_definitions.md#contribution-state) (*Chapter Five pointer — operative Contribution Axis text in **Chapter Six section 5.1***); [Competency Gate](core_05a_accountability_definitions.md#competency-gate); [Auditability](core_05o_oversight_definitions.md#auditability) · [O](core_05o_oversight_definitions.md#auditability) · [E](core_05o_oversight_definitions.md#auditability-e) · [C](core_05o_oversight_definitions.md#auditability-c); [Contestability](core_05a_accountability_definitions.md#contestability) · [O](core_05a_accountability_definitions.md#contestability) · [E](core_05a_accountability_definitions.md#contestability-e) · [C](core_05a_accountability_definitions.md#contestability-c).
 
 </details>
 
@@ -106,7 +106,7 @@ Where **positive contribution**, **stewardship-positive contribution**, or **cha
 
 That recognition may cover oversight eligibility, trust pathways, or delegated responsibility.
 
-Recognition **must not** be withheld or discounted solely because the underlying conduct was **informal**, **unpaid**, **peer-organized**, or **outside** **official** programs, offices, or **designated** channels when **section 4.1** is otherwise satisfied.
+Recognition **must not** be withheld or discounted solely because the underlying conduct was **informal**, **unpaid**, **peer-organized**, or **outside** **official** programs, offices, or **designated** channels when **Chapter Six section 5.1** is otherwise satisfied.
 
 Recognition must remain contestable, reviewable, and non-monopolistic.
 
@@ -136,9 +136,9 @@ Satisfying a competency gate may support trust-, role-, authority-, oversight-, 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [§4.1](core_06-06_standing_assessment.md#42-primary-category-defaults-and-lequ-slot-baseline); [§4.3, Formal Non-Compliance](core_06-06_standing_assessment.md#41-formal-non-compliance) (*Formal Non-Compliance ladder class*).
+- Upstream: [§5.1](core_06-06_standing_assessment.md#51-contribution-axis-bands-and-table-2); [§6, Formal Non-Compliance](core_06-06_standing_assessment.md#41-formal-non-compliance) (*Formal Non-Compliance ladder class*).
 - Downstream: [§1.4](#standing-locks-in-the-standing-model); [§1.5](#37-reinstatement-review-and-non-entrenchment); [§1.6](#38-standing-integration-category-hook); [§4.1](#38-standing-integration-contribution-and-violation-nature); [§4.2](#62-joint-assessment-escalation-constraints-and-scrutiny).
-- Read with: [Contribution State](core_05a_accountability_definitions.md#contribution-state) (*Chapter Five pointer — operative Contribution Axis text in **section 4.1***); [Proportionality](core_05a_accountability_definitions.md#proportionality) · [O](core_05a_accountability_definitions.md#proportionality) · [E](core_05a_accountability_definitions.md#proportionality-e) · [C](core_05a_accountability_definitions.md#proportionality-c); [Necessity](core_05a_accountability_definitions.md#necessity) · [O](core_05a_accountability_definitions.md#necessity) · [E](core_05a_accountability_definitions.md#necessity-e) · [C](core_05a_accountability_definitions.md#necessity-c).
+- Read with: [Contribution State](core_05a_accountability_definitions.md#contribution-state) (*Chapter Five pointer — operative Contribution Axis text in **Chapter Six section 5.1***); [Proportionality](core_05a_accountability_definitions.md#proportionality) · [O](core_05a_accountability_definitions.md#proportionality) · [E](core_05a_accountability_definitions.md#proportionality-e) · [C](core_05a_accountability_definitions.md#proportionality-c); [Necessity](core_05a_accountability_definitions.md#necessity) · [O](core_05a_accountability_definitions.md#necessity) · [E](core_05a_accountability_definitions.md#necessity-e) · [C](core_05a_accountability_definitions.md#necessity-c).
 
 </details>
 
@@ -156,7 +156,7 @@ Satisfying a competency gate may support trust-, role-, authority-, oversight-, 
 
 *In plain terms: restrictions on trust or access have to fit both how good the **positive** record is **and** how serious the **violation** side is — a paperwork glitch (**Formal Non-Compliance**) is not, by itself, a license for permanent exile, while repeated, concealed, or rights-burdening conduct can justify stronger limits.*
 
-Standing restrictions must be proportionate to **contribution state** and **violation nature**. **Formal Non-Compliance** findings alone (**section 4.3**) do not justify durable exclusion absent repeated pattern evidence, evasion, or material harm linkage.
+Standing restrictions must be proportionate to **contribution state** and **violation nature**. **Formal Non-Compliance** findings alone (**Chapter Six section 5.2**) do not justify durable exclusion absent repeated pattern evidence, evasion, or material harm linkage.
 
 Severity, pattern, concealment, and remedy status must remain visible in the record. Minor record defects, repeated failures after notice, identity concealment, and serious rights violations are not equivalent for standing-effect purposes. A restriction that escalates because the same conduct recurs, or because the subject hides responsibility, must still be necessary, proportionate, reviewable, and tied to verified findings.
 
@@ -166,7 +166,7 @@ Severity, pattern, concealment, and remedy status must remain visible in the rec
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [§1.2](#competency-gates) (*positive readiness thresholds*); [§1.3](#36-restrictive-standing-effects) (*restrictive standing effects*); [§4.3](core_06-06_standing_assessment.md#43-violation-axis-rules-violation-nature-adverse-findings-and-severity) (*Violation Axis severity ladder*).
+- Upstream: [§1.2](#competency-gates) (*positive readiness thresholds*); [§1.3](#36-restrictive-standing-effects) (*restrictive standing effects*); [§5.2](core_06-06_standing_assessment.md#34-violation-axis-rules-violation-nature-adverse-findings-and-severity) (*Violation Axis severity ladder*).
 - Downstream: [§1.5](#37-reinstatement-review-and-non-entrenchment); [§1.6](#38-standing-integration-category-hook); [§4.2](#62-joint-assessment-escalation-constraints-and-scrutiny) (*standing-lock preparation*); [§4.3](#standing-integration-slot-band-standing-locks) (*slot-band lock map*).
 - Read with: [Standing Lock](core_05a_accountability_definitions.md#standing-lock); [Article XXIII-B: Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints](core_10-10_rights_part_d.md#article-xxiii-b-non-trivial-restriction-restitution-and-restorative-accountability-constraints); [Article XXIII-C: Least-Restrictive and Time-Bounded Rule](core_10-10_rights_part_d.md#article-xxiii-c-least-restrictive-and-time-bounded-rule); [Redress and Remediation](core_05a_accountability_definitions.md#redress-and-remediation-constitutional) · [O](core_05a_accountability_definitions.md#redress-and-remediation-constitutional) · [E](core_05a_accountability_definitions.md#redress-and-remediation-constitutional-e) · [C](core_05a_accountability_definitions.md#redress-and-remediation-constitutional-c).
 
@@ -201,7 +201,7 @@ Contribution state recorded in linked **contribution standing records** remains 
 
 - Upstream: [§1.1](#35-positive-standing-recognition); [§1.3](#36-restrictive-standing-effects); [§1.4](#standing-locks-in-the-standing-model).
 - Downstream: [§1.6](#38-standing-integration-category-hook); [§4.1](#38-standing-integration-contribution-and-violation-nature); [§4.2](#62-joint-assessment-escalation-constraints-and-scrutiny).
-- Read with: [Contribution State](core_05a_accountability_definitions.md#contribution-state) (*Chapter Five pointer — operative Contribution Axis text in **section 4.1***); [Redress and Remediation](core_05a_accountability_definitions.md#redress-and-remediation-constitutional) · [O](core_05a_accountability_definitions.md#redress-and-remediation-constitutional) · [E](core_05a_accountability_definitions.md#redress-and-remediation-constitutional-e) · [C](core_05a_accountability_definitions.md#redress-and-remediation-constitutional-c); [Procedural Fairness](core_05p_participation_definitions.md#procedural-fairness-constitutional) · [O](core_05p_participation_definitions.md#procedural-fairness-constitutional) · [E](core_05p_participation_definitions.md#procedural-fairness-constitutional-e) · [C](core_05p_participation_definitions.md#procedural-fairness-constitutional-c).
+- Read with: [Contribution State](core_05a_accountability_definitions.md#contribution-state) (*Chapter Five pointer — operative Contribution Axis text in **Chapter Six section 5.1***); [Redress and Remediation](core_05a_accountability_definitions.md#redress-and-remediation-constitutional) · [O](core_05a_accountability_definitions.md#redress-and-remediation-constitutional) · [E](core_05a_accountability_definitions.md#redress-and-remediation-constitutional-e) · [C](core_05a_accountability_definitions.md#redress-and-remediation-constitutional-c); [Procedural Fairness](core_05p_participation_definitions.md#procedural-fairness-constitutional) · [O](core_05p_participation_definitions.md#procedural-fairness-constitutional) · [E](core_05p_participation_definitions.md#procedural-fairness-constitutional-e) · [C](core_05p_participation_definitions.md#procedural-fairness-constitutional-c).
 
 </details>
 
@@ -230,9 +230,9 @@ Restoration may require completed correction, restitution, monitoring, safeguard
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [§1.1](#35-positive-standing-recognition)–[§1.5](#37-reinstatement-review-and-non-entrenchment); [§4.3](core_06-06_standing_assessment.md#43-violation-axis-rules-violation-nature-adverse-findings-and-severity) (*violation nature*); [§4.2](#62-joint-assessment-escalation-constraints-and-scrutiny) (*violation assessment and standing-lock preparation*).
+- Upstream: [§1.1](#35-positive-standing-recognition)–[§1.5](#37-reinstatement-review-and-non-entrenchment); [§5.2](core_06-06_standing_assessment.md#34-violation-axis-rules-violation-nature-adverse-findings-and-severity) (*violation nature*); [§4.2](#62-joint-assessment-escalation-constraints-and-scrutiny) (*violation assessment and standing-lock preparation*).
 - Downstream: [§3.2](#72-stackable-benefit-and-stewardship-descriptors-contribution-state-supplement); [§4.1](#38-standing-integration-contribution-and-violation-nature) (*standing integration — mechanics*); [§4.2](#62-joint-assessment-escalation-constraints-and-scrutiny) (*non-substitution and standing-lock preparation*).
-- Read with: [Contribution State](core_05a_accountability_definitions.md#contribution-state) (*Chapter Five pointer — operative Contribution Axis text in **section 4.1***); [Article XXIII-B: Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints](core_10-10_rights_part_d.md#article-xxiii-b-non-trivial-restriction-restitution-and-restorative-accountability-constraints); [Article XXIII-C: Least-Restrictive and Time-Bounded Rule](core_10-10_rights_part_d.md#article-xxiii-c-least-restrictive-and-time-bounded-rule); [Harm](core_05a_accountability_definitions.md#harm) · [O](core_05a_accountability_definitions.md#harm) · [E](core_05a_accountability_definitions.md#harm-e) · [C](core_05a_accountability_definitions.md#harm-c).
+- Read with: [Contribution State](core_05a_accountability_definitions.md#contribution-state) (*Chapter Five pointer — operative Contribution Axis text in **Chapter Six section 5.1***); [Article XXIII-B: Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints](core_10-10_rights_part_d.md#article-xxiii-b-non-trivial-restriction-restitution-and-restorative-accountability-constraints); [Article XXIII-C: Least-Restrictive and Time-Bounded Rule](core_10-10_rights_part_d.md#article-xxiii-c-least-restrictive-and-time-bounded-rule); [Harm](core_05a_accountability_definitions.md#harm) · [O](core_05a_accountability_definitions.md#harm) · [E](core_05a_accountability_definitions.md#harm-e) · [C](core_05a_accountability_definitions.md#harm-c).
 
 </details>
 
@@ -261,7 +261,7 @@ Restoration may require completed correction, restitution, monitoring, safeguard
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [§4.1](core_06-06_standing_assessment.md#42-primary-category-defaults-and-lequ-slot-baseline) (*Contribution Axis primary bands*); [§4.3](core_06-06_standing_assessment.md#43-violation-axis-rules-violation-nature-adverse-findings-and-severity) (*Violation Axis severity ladder*); [§1](#5-standing-effects) (*standing consequences*).
+- Upstream: [§5.1](core_06-06_standing_assessment.md#51-contribution-axis-bands-and-table-2) (*Contribution Axis primary bands*); [§5.2](core_06-06_standing_assessment.md#34-violation-axis-rules-violation-nature-adverse-findings-and-severity) (*Violation Axis severity ladder*); [§1](#5-standing-effects) (*standing consequences*).
 - Downstream: [§2.3](#violation-side-descriptor-application-location) (*violation-side counterpart location*); [§3](#6-extended-axis-ii-legal-hybrid-duty-and-harm-descriptors) (*Violation Axis process / response character and violation-side descriptor application*); [§4](#8-cross-axis-coupling-and-escalation-constraints) (*joint assessment, no-netting mechanics, non-substitution, and standing locks*).
 - Read with: [Chapter Nine](core_09-09_forum.md#chapter-nine-forums-and-jurisdiction) (*primary-stakes routing where descriptors are used in forum narratives*).
 
@@ -280,7 +280,7 @@ Restoration may require completed correction, restitution, monitoring, safeguard
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [§1](core_06-06_standing_assessment.md#2-purpose-and-role) (*purpose and constitutional-meaning-only scope*).
-- Downstream: [§4.1](core_06-06_standing_assessment.md#42-primary-category-defaults-and-lequ-slot-baseline) (*Contribution Axis — primary contribution bands*); [§4.3](core_06-06_standing_assessment.md#43-violation-axis-rules-violation-nature-adverse-findings-and-severity) (*Violation Axis severity ladder*); [§3.2](#72-stackable-benefit-and-stewardship-descriptors-contribution-state-supplement) (*Contribution Axis supplements*); [§2.3](#violation-side-descriptor-application-location) (*violation-side counterpart location*); [§3.9](#73-stackable-harm-and-conduct-descriptors-violation-nature-supplement) (*Violation Axis supplements*); [§4](#8-cross-axis-coupling-and-escalation-constraints) (*mechanics*).
+- Downstream: [§5.1](core_06-06_standing_assessment.md#51-contribution-axis-bands-and-table-2) (*Contribution Axis — primary contribution bands*); [§5.2](core_06-06_standing_assessment.md#34-violation-axis-rules-violation-nature-adverse-findings-and-severity) (*Violation Axis severity ladder*); [§3.2](#72-stackable-benefit-and-stewardship-descriptors-contribution-state-supplement) (*Contribution Axis supplements*); [§2.3](#violation-side-descriptor-application-location) (*violation-side counterpart location*); [§3.9](#73-stackable-harm-and-conduct-descriptors-violation-nature-supplement) (*Violation Axis supplements*); [§4](#8-cross-axis-coupling-and-escalation-constraints) (*mechanics*).
 - Read with: [Chapter Eight](core_08-08_misconduct.md#chapter-eight-anti-constitutional-misconduct) (*authoritative Violation Axis s = 7, 8, and 9 anti-constitutional misconduct home*); [Trustworthiness](core_05c_continuity_definitions.md#trustworthiness) — [psychological safety and substantive agency (evaluation)](core_05c_continuity_definitions.md#trustworthiness-e) (*aligns **psychological safety** in the domain-lens table with [Chapter Five](core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions)*).
 
 </details>
@@ -318,9 +318,9 @@ The table below is the canonical descriptor catalog for this section. It does no
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [§2.1](#71-shared-domain-lenses-cross-axis-vocabulary) (*cross-axis domain lens table naming these supplements*); [§4.1](core_06-06_standing_assessment.md#42-primary-category-defaults-and-lequ-slot-baseline) (*primary Contribution Axis bands and Table 2*); [§1.6](#38-standing-integration-category-hook) (*standing integration — category hook*).
+- Upstream: [§2.1](#71-shared-domain-lenses-cross-axis-vocabulary) (*cross-axis domain lens table naming these supplements*); [§5.1](core_06-06_standing_assessment.md#51-contribution-axis-bands-and-table-2) (*primary Contribution Axis bands and Table 2*); [§1.6](#38-standing-integration-category-hook) (*standing integration — category hook*).
 - Downstream: [§3.9](#73-stackable-harm-and-conduct-descriptors-violation-nature-supplement) (*symmetric adverse descriptors on Violation Axis*); [§4.2](#62-joint-assessment-escalation-constraints-and-scrutiny) (*no netting across axes*).
-- Read with: [Contribution State](core_05a_accountability_definitions.md#contribution-state) (*Chapter Five pointer — operative Contribution Axis text in **section 4.1***); [§2.1](#71-shared-domain-lenses-cross-axis-vocabulary) (*domain lens mapping to violation-side descriptors*); [Trustworthiness](core_05c_continuity_definitions.md#trustworthiness) — [psychological safety and substantive agency (evaluation)](core_05c_continuity_definitions.md#trustworthiness-e) (***psychological safety** in **Peace of body, mind, and/or community***); [Chapter Nine](core_09-09_forum.md#chapter-nine-forums-and-jurisdiction) (*primary-stakes routing with **`corpus_forum.md`***); [Chapter Eight](core_08-08_misconduct.md#chapter-eight-anti-constitutional-misconduct) (*final s = 7, 8, or 9 assignment is not supplied by descriptors*).
+- Read with: [Contribution State](core_05a_accountability_definitions.md#contribution-state) (*Chapter Five pointer — operative Contribution Axis text in **Chapter Six section 5.1***); [§2.1](#71-shared-domain-lenses-cross-axis-vocabulary) (*domain lens mapping to violation-side descriptors*); [Trustworthiness](core_05c_continuity_definitions.md#trustworthiness) — [psychological safety and substantive agency (evaluation)](core_05c_continuity_definitions.md#trustworthiness-e) (***psychological safety** in **Peace of body, mind, and/or community***); [Chapter Nine](core_09-09_forum.md#chapter-nine-forums-and-jurisdiction) (*primary-stakes routing with **`corpus_forum.md`***); [Chapter Eight](core_08-08_misconduct.md#chapter-eight-anti-constitutional-misconduct) (*final s = 7, 8, or 9 assignment is not supplied by descriptors*).
 
 </details>
 
@@ -345,11 +345,11 @@ The table below is the canonical descriptor catalog for this section. It does no
 
 **Stacking.** **Conduct** or a **sustained record** may carry **one or more** contribution-side descriptors from **§2.1**. They **do not** partition **contribution state** into mutually exclusive branches. Use **multiple** descriptors whenever **facts**, **verified effects**, and **evaluation scope** warrant.
 
-**Primary bands.** **Contribution-band** typing under **section 4.1** and **Table 2** remains **authoritative**. Contribution-side descriptors **supplement** that typing; they **must not** replace it or stand in as a parallel **exclusive** **category scheme**.
+**Primary bands.** **Contribution-band** typing under **Chapter Six section 5.1** and **Table 2** remains **authoritative**. Contribution-side descriptors **supplement** that typing; they **must not** replace it or stand in as a parallel **exclusive** **category scheme**.
 
 **Implementation identifiers.** Adopted implementations may label descriptors with **stable identifiers** aligned to **§2.1**. Those identifiers **must not** fork a competing enum.
 
-**Illustrative cross-cutting pro-social conduct** (non-exhaustive; real records often warrant **multiple** descriptors) includes: fairness and process integrity; ecological footprint reduction; efficiency and stewardship without harm externalization; psychological recovery support; access and inclusion; capability-building; truthful accountability infrastructure; mutual aid and coordination; scientific and civic clarity — each read with **section 4.1** and **Table 2** as the authoritative band source and **§§4.1–4.3** when **violation** findings co-exist.
+**Illustrative cross-cutting pro-social conduct** (non-exhaustive; real records often warrant **multiple** descriptors) includes: fairness and process integrity; ecological footprint reduction; efficiency and stewardship without harm externalization; psychological recovery support; access and inclusion; capability-building; truthful accountability infrastructure; mutual aid and coordination; scientific and civic clarity — each read with **Chapter Six section 5.1** and **Table 2** as the authoritative band source and **§§4.1–4.3** when **violation** findings co-exist.
 
 <a id="violation-side-descriptor-application-location"></a>
 
@@ -359,7 +359,7 @@ The table below is the canonical descriptor catalog for this section. It does no
 
 - Upstream: [§2.1](#71-shared-domain-lenses-cross-axis-vocabulary) (*cross-axis domain lens table*); [§3.2](#72-stackable-benefit-and-stewardship-descriptors-contribution-state-supplement) (*contribution-side counterpart*).
 - Downstream: [§3](#6-extended-axis-ii-legal-hybrid-duty-and-harm-descriptors) (*Violation Axis attachments*); [§3.9](#73-stackable-harm-and-conduct-descriptors-violation-nature-supplement) (*full violation-side descriptor application rule*); [§4](#8-cross-axis-coupling-and-escalation-constraints) (*integration mechanics*).
-- Read with: [§4.3](core_06-06_standing_assessment.md#43-violation-axis-rules-violation-nature-adverse-findings-and-severity) (*Violation Axis severity ladder*); [Chapter Eight](core_08-08_misconduct.md#chapter-eight-anti-constitutional-misconduct) (*final top-slot assignment*).
+- Read with: [§5.2](core_06-06_standing_assessment.md#34-violation-axis-rules-violation-nature-adverse-findings-and-severity) (*Violation Axis severity ladder*); [Chapter Eight](core_08-08_misconduct.md#chapter-eight-anti-constitutional-misconduct) (*final top-slot assignment*).
 
 </details>
 
@@ -378,7 +378,7 @@ This subsection is a location rule only. It does not create another violation ca
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [§4.3](core_06-06_standing_assessment.md#43-violation-axis-rules-violation-nature-adverse-findings-and-severity) (*scope, ladder, calibration, and application notes*); [§1](#5-standing-effects) (*standing effects — **§§1.1–1.6***); [§2.1](#71-shared-domain-lenses-cross-axis-vocabulary); [Chapter One §4 — Non-Negotiable Constraints: Safety and Truth](core_01_a_values_principles.md#4-non-negotiable-constraints-safety-and-truth) (*constitutional-floor foundations*); [Chapter One §7 — Stewardship and Distributed Understanding](core_01_b_stewardship_capacity_principles.md#6-stewardship-and-distributed-understanding) (*standing system's principle-layer foundation*).
+- Upstream: [§5.2](core_06-06_standing_assessment.md#34-violation-axis-rules-violation-nature-adverse-findings-and-severity) (*scope, ladder, calibration, and application notes*); [§1](#5-standing-effects) (*standing effects — **§§1.1–1.6***); [§2.1](#71-shared-domain-lenses-cross-axis-vocabulary); [Chapter One §4 — Non-Negotiable Constraints: Safety and Truth](core_01_a_values_principles.md#4-non-negotiable-constraints-safety-and-truth) (*constitutional-floor foundations*); [Chapter One §7 — Stewardship and Distributed Understanding](core_01_b_stewardship_capacity_principles.md#6-stewardship-and-distributed-understanding) (*standing system's principle-layer foundation*).
 - Downstream: [§3.9](#73-stackable-harm-and-conduct-descriptors-violation-nature-supplement) (*violation-side descriptor application*); [§4](#8-cross-axis-coupling-and-escalation-constraints) (*§§4.1–4.3*); [Chapter Eight](core_08-08_misconduct.md#chapter-eight-anti-constitutional-misconduct).
 - Triad leg(s): **oversight**. Primary aim(s): **Flourishing** and **Accountability**. [material stake](core_00_preamble.md#material-stake) scaling applies where attachment character is material.
 - Read with: [§2.3.2](core_06-06_standing_assessment.md#verified-inputs-for-standing) (*verified-input gate*); [§2.3.7](core_06-06_standing_assessment.md#237-forum-boundary) (*forum boundary*).
@@ -387,11 +387,11 @@ This subsection is a location rule only. It does not create another violation ca
 
 <br>
 
-*In plain terms: this section does **not** create a second violation ladder. It adds process and response character to findings — whether the finding mainly calls for repair, coercive or liberty-restricting safeguards, constitutional-floor priority, concurrent treatment, duty resistance, diffusion accountability, or negligence handling — while **section 4.3** remains the adverse severity ladder.*
+*In plain terms: this section does **not** create a second violation ladder. It adds process and response character to findings — whether the finding mainly calls for repair, coercive or liberty-restricting safeguards, constitutional-floor priority, concurrent treatment, duty resistance, diffusion accountability, or negligence handling — while **Chapter Six section 5.2** remains the adverse severity ladder.*
 
 #### Violation Axis attachment categories (process / response character, hybrid, duty, and diffusion — §§3.1–3.8)
 
-**Sections 3.1 through 3.8** state additional Violation Axis material: remedial / restorative and civil-correction character; coercive or liberty-restricting safeguard character; constitutional-floor character; concurrent character; constitutional floor priority; collective and duty-shaped violation nature; negligence and neglect. These attachment categories classify misconduct under constitutional principles, rights articles, and definitions. More than one category may apply to a single action, pattern, or bounded event. These categories **attach to** verified **violation nature**; they do **not** compete with the **section 4.3** severity ladder or supply final **Chapter Eight s = 7, 8, or 9** assignment. **How** those categories combine with **contribution state** and with **Violation Axis** severity is stated in [**§4.1**](#38-standing-integration-contribution-and-violation-nature) and [**§4.2**](#62-joint-assessment-escalation-constraints-and-scrutiny).
+**Sections 3.1 through 3.8** state additional Violation Axis material: remedial / restorative and civil-correction character; coercive or liberty-restricting safeguard character; constitutional-floor character; concurrent character; constitutional floor priority; collective and duty-shaped violation nature; negligence and neglect. These attachment categories classify misconduct under constitutional principles, rights articles, and definitions. More than one category may apply to a single action, pattern, or bounded event. These categories **attach to** verified **violation nature**; they do **not** compete with the **Chapter Six section 5.2** severity ladder or supply final **Chapter Eight s = 7, 8, or 9** assignment. **How** those categories combine with **contribution state** and with **Violation Axis** severity is stated in [**§4.1**](#38-standing-integration-contribution-and-violation-nature) and [**§4.2**](#62-joint-assessment-escalation-constraints-and-scrutiny).
 
 <a id="61-civil-violation"></a>
 <a id="61-remedial-restorative-and-civil-correction-character"></a>
@@ -416,7 +416,7 @@ This subsection is a location rule only. It does not create another violation ca
 
 A finding has **remedial, restorative, or civil-correction character** where the violation affects rights, fails to meet applicable duties, or produces harm in a way that calls for repair, compensation, restoration, injunctive constraint, supervision, or equivalent civil correction.
 
-This character may attach to any applicable **section 4.3** severity level. It identifies required correction and **remedy** **path**; it does **not** by itself lower or raise the Violation Axis severity classification.
+This character may attach to any applicable **Chapter Six section 5.2** severity level. It identifies required correction and **remedy** **path**; it does **not** by itself lower or raise the Violation Axis severity classification.
 
 Coercive-risk culpability need not be established for this character to apply.
 
@@ -444,7 +444,7 @@ Remedial obligation is not defeated by expense, insolvency, restructuring, or ad
 
 A finding has **coercive or liberty-restricting safeguard character** where prohibited conduct, culpability, coercion, violence, credible threat, or comparable social danger makes detention, liberty-restricting, restorative-accountability, or comparable high-impact public-law response possible under applicable law.
 
-This character triggers criminal-process or equivalent constitutional protections before coercive, restorative-accountability, or liberty-restricting consequences may be imposed. It does **not** replace the **section 4.3** severity ladder, and it does **not** itself issue a final criminal conviction where another lawfully constituted process is required.
+This character triggers criminal-process or equivalent constitutional protections before coercive, restorative-accountability, or liberty-restricting consequences may be imposed. It does **not** replace the **Chapter Six section 5.2** severity ladder, and it does **not** itself issue a final criminal conviction where another lawfully constituted process is required.
 
 <a id="63-constitutional-violation"></a>
 <a id="63-constitutional-floor-character"></a>
@@ -488,7 +488,7 @@ The same conduct may also have remedial / restorative or coercive / liberty-rest
 
 *In plain terms: real misconduct is often **more than one kind at once** — the model allows remedial, coercive-safeguard, constitutional-floor, duty, diffusion, and descriptor character to stack when the facts support it.*
 
-A single pattern of conduct may carry multiple process / response characters at once. Classification must not force exclusivity where concurrent character is warranted by facts, impact, applicable law, or required safeguards. Concurrent character remains separately traceable from the **section 4.3** severity level and from any final **Chapter Eight s = 7, 8, or 9** assignment.
+A single pattern of conduct may carry multiple process / response characters at once. Classification must not force exclusivity where concurrent character is warranted by facts, impact, applicable law, or required safeguards. Concurrent character remains separately traceable from the **Chapter Six section 5.2** severity level and from any final **Chapter Eight s = 7, 8, or 9** assignment.
 
 <a id="65-constitutional-floor-rule"></a>
 <a id="49-constitutional-floor-rule"></a>
@@ -575,7 +575,7 @@ They must use protected reporting and adjudication pathways where applicable.
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [§4.3, Duty-Based or Negligent-Harm Violation](core_06-06_standing_assessment.md#44-duty-based-or-negligent-harm-violation); [Chapter One §4.1 — Safety (Harm Constraint)](core_01_a_values_principles.md#41-safety-harm-constraint) (*harm prevention foundation*); [Chapter One §4.2 — Truth (Epistemic Integrity Constraint)](core_01_a_values_principles.md#42-truth-epistemic-integrity-constraint) (*foreseeability and diligence foundation*); [§3.6](#410-collective-accountability-and-acquiescent-participation); [§3.9](#73-stackable-harm-and-conduct-descriptors-violation-nature-supplement) (*Negligent Misconduct supplement*).
+- Upstream: [§6, Duty-Based or Negligent-Harm Violation](core_06-06_standing_assessment.md#44-duty-based-or-negligent-harm-violation); [Chapter One §4.1 — Safety (Harm Constraint)](core_01_a_values_principles.md#41-safety-harm-constraint) (*harm prevention foundation*); [Chapter One §4.2 — Truth (Epistemic Integrity Constraint)](core_01_a_values_principles.md#42-truth-epistemic-integrity-constraint) (*foreseeability and diligence foundation*); [§3.6](#410-collective-accountability-and-acquiescent-participation); [§3.9](#73-stackable-harm-and-conduct-descriptors-violation-nature-supplement) (*Negligent Misconduct supplement*).
 - Downstream: [§4](#8-cross-axis-coupling-and-escalation-constraints).
 - Read with: [Foreseeability Diligence](core_05o_oversight_definitions.md#foreseeability-diligence) · [O](core_05o_oversight_definitions.md#foreseeability-diligence) · [E](core_05o_oversight_definitions.md#foreseeability-diligence-e) · [C](core_05o_oversight_definitions.md#foreseeability-diligence-c); [Feasibility](core_05a_accountability_definitions.md#feasibility) · [O](core_05a_accountability_definitions.md#feasibility) · [E](core_05a_accountability_definitions.md#feasibility-e) · [C](core_05a_accountability_definitions.md#feasibility-c).
 
@@ -632,7 +632,7 @@ They may co-occur with remedial, coercive-safeguard, constitutional-floor, duty,
 
 **Stacking.** **Conduct** may carry **one or more** violation-side descriptors from **§2.1**. They **do not** partition **violation nature** into mutually exclusive branches, and they **must not** replace primary severity typing with an **exclusive violation-category** scheme. Use **multiple** descriptors wherever **facts**, **impact**, and **applicable** **law** warrant.
 
-**Primary typing.** **Severity** typing under **section 4.3** and process / response character under **sections 3.1 through 3.4** stay **separately traceable**. Violation-side descriptors **supplement** those determinations. They **must not** impose **forced** single-box exclusivity where **section 3.4** permits **concurrent** character.
+**Primary typing.** **Severity** typing under **Chapter Six section 5.2** and process / response character under **sections 3.1 through 3.4** stay **separately traceable**. Violation-side descriptors **supplement** those determinations. They **must not** impose **forced** single-box exclusivity where **section 3.4** permits **concurrent** character.
 
 **Verified-input limit.** **Alleged** uses of violation-side descriptors may support **forum** process, triage, routing, scrutiny, or **provisional** classification. They do **not** establish **violation nature** for **standing effect** without **findings**. Read with [**verified inputs for standing**](core_06-06_standing_assessment.md#verified-inputs-for-standing).
 
@@ -652,7 +652,7 @@ Where multiple descriptors apply, the **primary** **harm** route **or** **primar
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [§4.1](core_06-06_standing_assessment.md#42-primary-category-defaults-and-lequ-slot-baseline) through [§3](#6-extended-axis-ii-legal-hybrid-duty-and-harm-descriptors) (*primary categories, standing effects, and Violation Axis attachments*); [§1.6](#38-standing-integration-category-hook) (*standing integration — Contribution Axis hook*); [§2.1](#71-shared-domain-lenses-cross-axis-vocabulary) (*cross-axis domain lens vocabulary*); [§3.2](#72-stackable-benefit-and-stewardship-descriptors-contribution-state-supplement) (*contribution-state supplemental descriptors*); [§3.9](#73-stackable-harm-and-conduct-descriptors-violation-nature-supplement) (*violation-nature supplemental descriptors read with primary-stakes routing*).
+- Upstream: [§5.1](core_06-06_standing_assessment.md#51-contribution-axis-bands-and-table-2) through [§3](#6-extended-axis-ii-legal-hybrid-duty-and-harm-descriptors) (*primary categories, standing effects, and Violation Axis attachments*); [§1.6](#38-standing-integration-category-hook) (*standing integration — Contribution Axis hook*); [§2.1](#71-shared-domain-lenses-cross-axis-vocabulary) (*cross-axis domain lens vocabulary*); [§3.2](#72-stackable-benefit-and-stewardship-descriptors-contribution-state-supplement) (*contribution-state supplemental descriptors*); [§3.9](#73-stackable-harm-and-conduct-descriptors-violation-nature-supplement) (*violation-nature supplemental descriptors read with primary-stakes routing*).
 - Downstream: [§4.1](#38-standing-integration-contribution-and-violation-nature) (*standing integration computation*); [§4.2](#62-joint-assessment-escalation-constraints-and-scrutiny) (*violation assessment and non-substitution preparation*); [§4.3](#standing-integration-slot-band-standing-locks) (*standing locks*); [§5](#8-enforcement-realism-anchors) (*implementation realism*); [Chapter Nine](core_09-09_forum.md#chapter-nine-forums-and-jurisdiction) (*forums applying this classification stack*).
 - Read with: [Article XXIII-B: Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints](core_10-10_rights_part_d.md#article-xxiii-b-non-trivial-restriction-restitution-and-restorative-accountability-constraints) and [Article XXIII-C: Least-Restrictive and Time-Bounded Rule](core_10-10_rights_part_d.md#article-xxiii-c-least-restrictive-and-time-bounded-rule) (*escalation governs scrutiny, not automatic harsher restriction*).
 - Triad leg(s): **oversight**, **participation**, **accountability** (all three — no hollowing). Primary aim(s): **Flourishing** and **Continuity**. [material stake](core_00_preamble.md#material-stake) scaling applies to integration scrutiny.
@@ -685,7 +685,7 @@ Where multiple descriptors apply, the **primary** **harm** route **or** **primar
 1. the Contribution Axis classification and any contribution-side supplemental descriptors, drawn from contribution standing records;
 2. the Violation Axis classification and any process / response character or violation-side supplemental descriptors, drawn from violation standing records;
 3. any competency gate satisfied under **section 1.2**, as the downstream positive readiness threshold for trust-, role-, authority-, oversight-, or recognition-linked eligibility; and
-4. the standing lock assigned under **sections 4.2** and **4.3**, as the downstream constraint on any trust-, role-, credit-, authority-, oversight-, or recognition-linked effect.
+4. the standing lock assigned under **sections 5** and **6**, as the downstream constraint on any trust-, role-, credit-, authority-, oversight-, or recognition-linked effect.
 
 Process / response character and supplemental descriptors remain dependent detail within the relevant axis-pure standing record; they do not create additional primary axes. Competency gates likewise do not replace Contribution Axis classification; they state whether verified competence, experience, and current good-standing criteria open a role- or trust-sensitive pathway after any standing lock has been assigned.
 
@@ -721,7 +721,7 @@ Verified unresolved violations are not time-discounted merely because time has p
 
 *In plain terms: a standing lock comes from verified violation standing records. Before a lock can be chosen, the record set has to identify the strongest verified violation category that really fits. Contribution standing records stay separate and cannot create, raise, lower, or lift the lock.*
 
-This subsection prepares the standing-lock assignment in **section 4.3**. It does not restate the verified-input gate, the Contribution Axis bands, the Violation Axis severity ladder, or the process / response character rules. Those rules remain in **Chapter Six section 4.3**, this chapter **section 3**, and this chapter **section 2**.
+This subsection prepares the standing-lock assignment in **section 4.3**. It does not restate the verified-input gate, the Contribution Axis bands, the Violation Axis severity ladder, or the process / response character rules. Those rules remain in **Chapter Six section 5.2**, this chapter **section 3**, and this chapter **section 2**.
 
 Standing-lock assignment is based only on **violation nature** in violation standing records: verified violation findings, the highest applicable violation category, any lock-relevant process / response character, and any lock-relevant supplemental violation descriptor. **Contribution state** must be recorded separately in contribution standing records where it exists, but it is not an input to lock assignment.
 
@@ -744,9 +744,9 @@ This model is additive and non-exhaustive: lower-severity labels, positive stand
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [§4.3](core_06-06_standing_assessment.md#43-violation-axis-rules-violation-nature-adverse-findings-and-severity) (*violation nature*); [§3](#6-extended-axis-ii-legal-hybrid-duty-and-harm-descriptors) (*process / response character and violation attachments*); [§3.9](#73-stackable-harm-and-conduct-descriptors-violation-nature-supplement) (*violation-nature supplemental descriptors*); [§4.2](#62-joint-assessment-escalation-constraints-and-scrutiny) (*standing-lock preparation and non-substitution discipline*).
+- Upstream: [§5.2](core_06-06_standing_assessment.md#34-violation-axis-rules-violation-nature-adverse-findings-and-severity) (*violation nature*); [§3](#6-extended-axis-ii-legal-hybrid-duty-and-harm-descriptors) (*process / response character and violation attachments*); [§3.9](#73-stackable-harm-and-conduct-descriptors-violation-nature-supplement) (*violation-nature supplemental descriptors*); [§4.2](#62-joint-assessment-escalation-constraints-and-scrutiny) (*standing-lock preparation and non-substitution discipline*).
 - Downstream: [§3.2](#72-stackable-benefit-and-stewardship-descriptors-contribution-state-supplement); [§5](#8-enforcement-realism-anchors).
-- Read with: [Contribution State](core_05a_accountability_definitions.md#contribution-state) (*Chapter Five pointer — operative Contribution Axis text in **section 4.1***); [Article XXIII-B: Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints](core_10-10_rights_part_d.md#article-xxiii-b-non-trivial-restriction-restitution-and-restorative-accountability-constraints); [Article XXIII-C: Least-Restrictive and Time-Bounded Rule](core_10-10_rights_part_d.md#article-xxiii-c-least-restrictive-and-time-bounded-rule); [Harm](core_05a_accountability_definitions.md#harm) · [O](core_05a_accountability_definitions.md#harm) · [E](core_05a_accountability_definitions.md#harm-e) · [C](core_05a_accountability_definitions.md#harm-c).
+- Read with: [Contribution State](core_05a_accountability_definitions.md#contribution-state) (*Chapter Five pointer — operative Contribution Axis text in **Chapter Six section 5.1***); [Article XXIII-B: Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints](core_10-10_rights_part_d.md#article-xxiii-b-non-trivial-restriction-restitution-and-restorative-accountability-constraints); [Article XXIII-C: Least-Restrictive and Time-Bounded Rule](core_10-10_rights_part_d.md#article-xxiii-c-least-restrictive-and-time-bounded-rule); [Harm](core_05a_accountability_definitions.md#harm) · [O](core_05a_accountability_definitions.md#harm) · [E](core_05a_accountability_definitions.md#harm-e) · [C](core_05a_accountability_definitions.md#harm-c).
 
 </details>
 
@@ -767,7 +767,7 @@ This model is additive and non-exhaustive: lower-severity labels, positive stand
 <a id="standing-orientation-by-violation-slot"></a>
 <a id="standing-orientation-by-violation-level"></a>
 
-**Standing orientation by Violation Axis slot band.** This subsection translates the verified violation assessment from **section 4.2** into **standing locks** for trust-, role-, credit-, and recognition-related analysis. It supplements the primary Violation Axis ladder in **[§4.3](core_06-06_standing_assessment.md#43-violation-axis-rules-violation-nature-adverse-findings-and-severity)**. It does not replace the **section 4.3** severity ladder, **section 4.2**, or **[verified inputs for standing](core_06-06_standing_assessment.md#verified-inputs-for-standing)**.
+**Standing orientation by Violation Axis slot band.** This subsection translates the verified violation assessment from **Chapter Six section 5.2** into **standing locks** for trust-, role-, credit-, and recognition-related analysis. It supplements the primary Violation Axis ladder in **[§5.2](core_06-06_standing_assessment.md#34-violation-axis-rules-violation-nature-adverse-findings-and-severity)**. It does not replace the **Chapter Six section 5.2** severity ladder or **[verified inputs for standing](core_06-06_standing_assessment.md#verified-inputs-for-standing)**.
 
 The rule is simple:
 
@@ -853,7 +853,7 @@ Reassessment is not automatic forgiveness. It asks whether the verified obligati
 
 ### Why All This Matters
 
-Constitutional rights are only real if someone can invoke them, verify them, fund their repair, and enforce them against the actors functionally responsible. Section 4 prevents contribution from erasing unresolved violations; section 5 prevents implementation design from making that promise impossible to carry out.
+Constitutional rights are only real if someone can invoke them, verify them, fund their repair, and enforce them against the actors functionally responsible. Section 4 prevents contribution from erasing unresolved violations; section 5.1 prevents implementation design from making that promise impossible to carry out.
 
 <a id="11-tiered-anti-constitutional-misconduct-authoritative-location"></a>
 <a id="10-violation-axis-s-7-9-anti-constitutional-misconduct-authoritative-location"></a>

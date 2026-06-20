@@ -188,17 +188,17 @@ Independent Definitions must not fragment, isolate, or redistribute compliance i
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Canonical owner: [Chapter Six — §4.1 LEQU baseline](core_06-06_standing_assessment.md#41-constitutional-outcome-baseline-for-slots) (*full-life-equivalent benefit and loss, **LEQU** calibration, substrate-agnostic scope*).
+- Canonical owner: [Chapter Six — §4 LEQU baseline](core_06-06_standing_assessment.md#32-constitutional-outcome-baseline-for-slots) (*full-life-equivalent benefit and loss, **LEQU** calibration, substrate-agnostic scope*).
 
 </details>
 
 <br>
 
-- O: Shorthand for a **Lifespan Equivalent Unit** — the numeric or narrative unit adopted implementation uses to express **full-life-equivalent constitutional benefit** or comparable loss when calibrating Contribution Axis or Violation Axis slot magnitude under [Chapter Six](core_06-06_standing_assessment.md) **§4.1**. This entry is a Chapter Five pointer to Chapter Six calibration rules. **Operative** thresholds, baselines, and anti-netting discipline are stated only in Chapter Six; this entry does not restate them.
+- O: Shorthand for a **Lifespan Equivalent Unit** — the numeric or narrative unit adopted implementation uses to express **full-life-equivalent constitutional benefit** or comparable loss when calibrating Contribution Axis or Violation Axis slot magnitude under [Chapter Six](core_06-06_standing_assessment.md) **§4**. This entry is a Chapter Five pointer to Chapter Six calibration rules. **Operative** thresholds, baselines, and anti-netting discipline are stated only in Chapter Six; this entry does not restate them.
 <a id="lifespan-equivalent-unit-lequ-e"></a>
-- E: Apply **only** as implemented consistently with Chapter Six **§4.1** and primary banding under **sections 4.2** and **4.3**; read with [Materiality Determination](core_05o_oversight_definitions.md#materiality-determination) where magnitude disputes are material.
+- E: Apply **only** as implemented consistently with Chapter Six **§4** and primary banding under **§§5.1 and 5.2**; read with [Materiality Determination](core_05o_oversight_definitions.md#materiality-determination) where magnitude disputes are material.
 <a id="lifespan-equivalent-unit-lequ-c"></a>
-- C: Non-compliant: undisclosed, un-auditable, or **species-bound** **LEQU** uses that displace, narrow, or substitute for Chapter Six **§4.1** calibration rules.
+- C: Non-compliant: undisclosed, un-auditable, or **species-bound** **LEQU** uses that displace, narrow, or substitute for Chapter Six **§4** calibration rules.
 
 ---
 

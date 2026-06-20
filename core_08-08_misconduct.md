@@ -39,10 +39,10 @@ Use this chapter in this order:
 2. Use **section 2** to identify the criteria implicated by the incident.
 3. Use **section 3** to decide whether the final slot is **s = 7**, **s = 8**, or **s = 9**.
 4. Apply **section 4** before any classification is final.
-5. Use **section 5** to keep change-path, forum, rights, and governance questions in the correct chapters.
+5. Use **section 5.1** to keep change-path, forum, rights, and governance questions in the correct chapters.
 6. Use **section 6** only to route named patterns into the same framework.
 
-The named patterns in section 6 are not separate shortcuts. Flooding, bribery, unconstitutional commands, reward or protection of misconduct, enforcement suppression, and infrastructure denial or destruction all still have to pass through the same incident, criteria, gravity, and safeguard sequence.
+The named patterns in section 6.1 are not separate shortcuts. Flooding, bribery, unconstitutional commands, reward or protection of misconduct, enforcement suppression, and infrastructure denial or destruction all still have to pass through the same incident, criteria, gravity, and safeguard sequence.
 
 <details>
 <summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): cross-chapter map for Chapter Eight</span></strong></summary>
@@ -72,7 +72,7 @@ The named patterns in section 6 are not separate shortcuts. Flooding, bribery, u
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [Chapter Six](core_06-06_standing_assessment.md#chapter-six-compliance-violation-and-standing-model) (*the Contribution and Violation axes*).
-- Upstream map: [Chapter Six §4.0](core_06-06_standing_assessment.md#40-slot-grammar-and-display-labels) (*standing-slot grammar*).
+- Upstream map: [Chapter Six §3](core_06-06_standing_assessment.md#31-slot-grammar-and-display-labels) (*standing-slot grammar*).
 - Upstream pointer: [Chapter Seven §6](core_07-07_standing_integration.md#9-violation-axis-s-7-9-anti-constitutional-misconduct-authoritative-location) points here as the sole home for final top-end anti-constitutional misconduct assignment.
 - Downstream: [§2](#2-criteria-set-for-slot-assignment) (*Criteria set*); [§3](#3-violation-axis-s-7-9-slot-assignment-incident-gravity) (*Violation Axis s = 7–9 slot assignment*).
 - Safeguards and discipline: [§4](#4-due-process-safeguards-for-slot-classification) (*Due-process safeguards*); [§5](#5-cross-chapter-discipline) (*Cross-chapter discipline*).
@@ -236,7 +236,7 @@ Those chapters decide whether the constitutional change itself can stand. They d
 
 *In plain terms: the rest of the chapter applies the same decision model to recurring anti-constitutional patterns. These examples do not create new criteria; they show how named conduct routes through the criteria, process safeguards, and chapter boundaries already stated above.*
 
-The following subsections state criteria interactions and named pattern applications. They do **not** add independent slot-assignment criteria, relocate operational rules from other chapters, or bypass **section 4** safeguards. Evaluators assess each materially implicated pattern on the **unified incident** record under **section 2**, assign any final slot under **section 3**, preserve required process under **section 4**, and maintain the cross-chapter boundary stated in **section 5**.
+The following subsections state criteria interactions and named pattern applications. They do **not** add independent slot-assignment criteria, relocate operational rules from other chapters, or bypass **section 4** safeguards. Evaluators assess each materially implicated pattern on the **unified incident** record under **section 2**, assign any final slot under **section 3**, preserve required process under **section 4**, and maintain the cross-chapter boundary stated in **section 5.1**.
 
 ### 6.1 Concentration-based subversion: criteria interaction
 <details>
@@ -264,7 +264,7 @@ The absence of overt deception or forcible act does **not** defeat anti-constitu
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [§2](#2-criteria-set-for-slot-assignment) (*Criteria set*); [Chapter Ten](core_10-10_rights_part_a.md#chapter-ten-foundational-rights) Rights Floor; [Chapter Six §5.7](core_07-07_standing_integration.md#67-duty-to-resist-unlawful-or-unconstitutional-instructions) (*Duty to Resist Unlawful or Unconstitutional Instructions*) for unconstitutional-instruction routing named in the second bullet.
+- Upstream: [§2](#2-criteria-set-for-slot-assignment) (*Criteria set*); [Chapter Ten](core_10-10_rights_part_a.md#chapter-ten-foundational-rights) Rights Floor; [Chapter Seven §6.7](core_07-07_standing_integration.md#67-duty-to-resist-unlawful-or-unconstitutional-instructions) (*Duty to Resist Unlawful or Unconstitutional Instructions*) for unconstitutional-instruction routing named in the second bullet.
 - Downstream: [§5](#5-cross-chapter-discipline) (*Cross-chapter discipline*); [Article XXIII-A: Justice Objective and Scope](core_10-10_rights_part_d.md#article-xxiii-a-justice-objective-and-scope) for review pathways that waiver devices must not defeat.
 - Read with: [Chapter Fourteen](core_12-14_amendment.md#chapter-fourteen-amendment-ratification-and-procedural-validity) procedural-validity rules for adoption instruments (contrast with ordinary association terms).
 
@@ -460,7 +460,7 @@ This subsection does **not** add an additional slot-assignment criterion beyond 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [§2](#2-criteria-set-for-slot-assignment) (*Criteria set*); [§3](#3-violation-axis-s-7-9-slot-assignment-incident-gravity) (*Violation Axis s = 7–9 slot assignment*); [§4](#4-due-process-safeguards-for-slot-classification) (*Due-process safeguards*); [Chapter Six §5.6](core_07-07_standing_integration.md#410-collective-accountability-and-acquiescent-participation) (*Collective Accountability and Acquiescent Participation*); [Chapter Six §5.7](core_07-07_standing_integration.md#67-duty-to-resist-unlawful-or-unconstitutional-instructions) (*Duty to Resist Unlawful or Unconstitutional Instructions*).
+- Upstream: [§2](#2-criteria-set-for-slot-assignment) (*Criteria set*); [§3](#3-violation-axis-s-7-9-slot-assignment-incident-gravity) (*Violation Axis s = 7–9 slot assignment*); [§4](#4-due-process-safeguards-for-slot-classification) (*Due-process safeguards*); [Chapter Seven §4.10](core_07-07_standing_integration.md#410-collective-accountability-and-acquiescent-participation) (*Collective Accountability and Acquiescent Participation*); [Chapter Seven §6.7](core_07-07_standing_integration.md#67-duty-to-resist-unlawful-or-unconstitutional-instructions) (*Duty to Resist Unlawful or Unconstitutional Instructions*).
 - Integrity and governance context: [Chapter Nine](core_09-09_forum.md#chapter-nine-forums-and-jurisdiction) for Integrity-family routing where final Chapter Eight classification is the primary stake; [Chapter Eleven](core_11-11_governance.md#chapter-eleven-constitutional-contract-legitimacy-authorization-and-stewardship) where governing authority, stewardship, or role legitimacy is materially distorted; [Chapter Ten](core_10-10_rights_part_a.md#chapter-ten-foundational-rights) Rights Floor where command conduct affects protected rights, challenge, review, or remedy.
 - Read with: [Accountability](core_05a_accountability_definitions.md#accountability), [Collective Accountability Failure](core_05a_accountability_definitions.md#collective-accountability-failure), [Coercion and Manipulation](core_05p_participation_definitions.md#coercion-and-manipulation-constitutional), [Contestability](core_05a_accountability_definitions.md#contestability), [Procedural Fairness](core_05p_participation_definitions.md#procedural-fairness-constitutional), and [Protected Reporting (Whistleblowing)](core_05a_accountability_definitions.md#protected-reporting-whistleblowing).
 
@@ -624,7 +624,7 @@ This subsection does **not** create a mandatory-prosecution rule, add an indepen
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [§2](#2-criteria-set-for-slot-assignment) (*Criteria set*); [§3](#3-violation-axis-s-7-9-slot-assignment-incident-gravity) (*Violation Axis s = 7-9 slot assignment*); [§4](#4-due-process-safeguards-for-slot-classification) (*Due-process safeguards*); [Chapter Six §4.3](core_06-06_standing_assessment.md#43-violation-axis-rules-violation-nature-adverse-findings-and-severity) (*Violation Axis severity, including ecological or infrastructure damage*).
+- Upstream: [§2](#2-criteria-set-for-slot-assignment) (*Criteria set*); [§3](#3-violation-axis-s-7-9-slot-assignment-incident-gravity) (*Violation Axis s = 7-9 slot assignment*); [§4](#4-due-process-safeguards-for-slot-classification) (*Due-process safeguards*); [Chapter Six §5.2](core_06-06_standing_assessment.md#34-violation-axis-rules-violation-nature-adverse-findings-and-severity) (*Violation Axis severity, including ecological or infrastructure damage*).
 - Rights and systems context: [Article III-A](core_10-10_rights_part_a.md#article-iii-a-survival), [Article IV-A](core_10-10_rights_part_a.md#article-iv-a-dependency-mapping-and-resource-flow-transparency), [Article XII-A](core_10-10_rights_part_c.md#article-xii-a-reliability-and-trustworthiness-baseline), [Article XV](core_10-10_rights_part_c.md#article-xv-audit-transparency-and-independent-verification), and adopted [corpus_systems.md](corpus_systems.md) infrastructure, dependency, reliability, and classification controls where materially relevant.
 - Related patterns: [§6](#61-concentration-based-subversion-criteria-interaction) where infrastructure control produces capture or dependency abuse; [§6.6](#66-unlawful-or-unconstitutional-command-conduct) where the conduct is ordered, automated, or technically enforced; [§6.8](#68-enforcement-refusal-suppression-or-non-prosecution-conduct) where accountability for the infrastructure conduct is suppressed.
 - Read with: [Dependency](core_05c_continuity_definitions.md#dependency), [Cascading Failure](core_05c_continuity_definitions.md#cascading-failure), [Safety (Constraint)](core_05c_continuity_definitions.md#safety-constraint), [Reversibility](core_05c_continuity_definitions.md#reversibility-constitutional), [Harm](core_05a_accountability_definitions.md#harm), [Materiality Determination](core_05o_oversight_definitions.md#materiality-determination), and [System Capture](core_05c_continuity_definitions.md#system-capture).
