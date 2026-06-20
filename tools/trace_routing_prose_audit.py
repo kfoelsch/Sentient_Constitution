@@ -8,6 +8,11 @@ standalone ``Read it with:`` headers followed by routing bullets, nor
 line-initial ``Read with`` / ``**Read with**`` routing (with or without a
 colon) outside Trace.
 
+Disguised read-with routing in operative prose is also forbidden — for example
+``Read them with …``, ``… must be read with …``, or ``… also read **§…**``
+when the line's purpose is cross-section navigation rather than operative
+substance.
+
 This gate flags those routing headers outside ``<details>`` blocks in the
 binding corpus scope.
 """
@@ -34,6 +39,13 @@ FORBIDDEN_ROUTING_PROSE_RES = (
     re.compile(r"^Read it with\b", re.IGNORECASE),
     re.compile(r"^Read with\b", re.IGNORECASE),
     re.compile(r"^- Read with:", re.IGNORECASE),
+)
+
+# Disguised read-with navigation outside Trace blocks.
+DISGUISED_READ_WITH_LINE_RES = (
+    re.compile(r"^Read them with\b", re.IGNORECASE),
+    re.compile(r"^Each .+\bmust be read with\b", re.IGNORECASE),
+    re.compile(r";\s*where .+\balso read \*\*", re.IGNORECASE),
 )
 
 
@@ -79,6 +91,14 @@ def audit_file(path: Path, root: Path) -> list[str]:
                     f"(operative prose must not use {stripped!r})"
                 )
                 break
+        else:
+            for pattern in DISGUISED_READ_WITH_LINE_RES:
+                if pattern.search(stripped):
+                    findings.append(
+                        f"{rel}:{idx}: move disguised read-with routing to Trace "
+                        f"``Read with:`` (operative prose must not use {stripped!r})"
+                    )
+                    break
 
     return findings
 
