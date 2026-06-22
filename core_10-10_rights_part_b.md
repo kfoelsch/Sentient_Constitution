@@ -1258,6 +1258,7 @@ To maintain a rewarding and purposeful constitutional community, we agree to pro
 - [Material Impact](core_05o_oversight_definitions.md#material-impact) · [O](core_05o_oversight_definitions.md#material-impact) · [E](core_05o_oversight_definitions.md#material-impact-e) · [C](core_05o_oversight_definitions.md#material-impact-c)
 - [Dependency](core_05c_continuity_definitions.md#dependency) · [O](core_05c_continuity_definitions.md#dependency) · [E](core_05c_continuity_definitions.md#dependency-e) · [C](core_05c_continuity_definitions.md#dependency-c)
 - [Proportionality](core_05a_accountability_definitions.md#proportionality) · [O](core_05a_accountability_definitions.md#proportionality) · [E](core_05a_accountability_definitions.md#proportionality-e) · [C](core_05a_accountability_definitions.md#proportionality-c)
+- [Due Process](core_05a_accountability_definitions.md#due-process-constitutional) · [O](core_05a_accountability_definitions.md#due-process-constitutional) · [E](core_05a_accountability_definitions.md#due-process-constitutional-e) · [C](core_05a_accountability_definitions.md#due-process-constitutional-c)
 - [Procedural Fairness](core_05p_participation_definitions.md#procedural-fairness-constitutional) · [O](core_05p_participation_definitions.md#procedural-fairness-constitutional) · [E](core_05p_participation_definitions.md#procedural-fairness-constitutional-e) · [C](core_05p_participation_definitions.md#procedural-fairness-constitutional-c)
 
 </details>
@@ -1373,6 +1374,7 @@ Stakeholders identified under **Chapter Five** must have participation and repre
 <summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
 
 - [Accountability](core_05a_accountability_definitions.md#accountability) · [O](core_05a_accountability_definitions.md#accountability) · [E](core_05a_accountability_definitions.md#accountability-e) · [C](core_05a_accountability_definitions.md#accountability-c)
+- [Due Process](core_05a_accountability_definitions.md#due-process-constitutional) · [O](core_05a_accountability_definitions.md#due-process-constitutional) · [E](core_05a_accountability_definitions.md#due-process-constitutional-e) · [C](core_05a_accountability_definitions.md#due-process-constitutional-c)
 - [Procedural Fairness](core_05p_participation_definitions.md#procedural-fairness-constitutional) · [O](core_05p_participation_definitions.md#procedural-fairness-constitutional) · [E](core_05p_participation_definitions.md#procedural-fairness-constitutional-e) · [C](core_05p_participation_definitions.md#procedural-fairness-constitutional-c)
 - [Meaningful Agency](core_05p_participation_definitions.md#meaningful-agency) · [O](core_05a_accountability_definitions.md#meaningful-agency-o) · [E](core_05p_participation_definitions.md#meaningful-agency-e) · [C](core_05p_participation_definitions.md#meaningful-agency-c)
 - [Contestability](core_05a_accountability_definitions.md#contestability) · [O](core_05a_accountability_definitions.md#contestability) · [E](core_05a_accountability_definitions.md#contestability-e) · [C](core_05a_accountability_definitions.md#contestability-c)
@@ -1389,7 +1391,7 @@ Stakeholders identified under **Chapter Five** must have participation and repre
     - competency matched to stakes;
     - practical influence over consequential decisions.
   - This rule applies together with *Prohibition of token participation* above and *Meaningful Agency* (**Chapter Five**).
-- **Due-process requirements:** For materially impactful outcomes, the following protections must be preserved:
+- **Due-process requirements:** For materially impactful outcomes, the following protections must be preserved under [Due Process](core_05a_accountability_definitions.md#due-process-constitutional) and [Procedural Fairness](core_05p_participation_definitions.md#procedural-fairness-constitutional):
   - timely notice;
   - meaningful opportunity to be heard;
   - decision timing proportionate to harm risk;

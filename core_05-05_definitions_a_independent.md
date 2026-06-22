@@ -106,6 +106,7 @@ This directory lists **Definitions A-Z** and **Clusters A-Z** separately. Each v
 - [Developing Sentient](core_05p_participation_definitions.md#developing-sentient-constitutional)
 - [Dignity and Equal Moral Standing](core_05p_participation_definitions.md#dignity-and-equal-moral-standing)
 - [Distributed Understanding](core_05c_continuity_definitions.md#distributed-understanding-constitutional)
+- [Due Process](core_05a_accountability_definitions.md#due-process-constitutional)
 - [Ecological Footprint](core_05c_continuity_definitions.md#ecological-footprint)
 - [Ecological Integrity](core_05c_continuity_definitions.md#ecological-integrity-constitutional)
 - [Educational Agency](core_05p_participation_definitions.md#educational-agency)
