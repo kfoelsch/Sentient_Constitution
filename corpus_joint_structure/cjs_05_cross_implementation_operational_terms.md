@@ -134,7 +134,7 @@ Stewardship role
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.2](cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [Chapter One](../core_01_b_stewardship_capacity_principles.md#chapter-01-principles-and-constraints) principles — [Constitutional Triad](../core_00_preamble.md#constitutional-triad), [Two Constitutional Aims](../core_01_a_values_principles.md#two-constitutional-aims), and [material stake](../core_00_preamble.md#material-stake).
+- Upstream: [CJS-1.2](cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [Chapter One](../core_01_b_stewardship_capacity_principles.md#chapter-01-principles-and-constraints) principles — [Constitutional Tetrad](../core_00_preamble.md#constitutional-tetrad), [Two Constitutional Aims](../core_01_a_values_principles.md#two-constitutional-aims), and [material stake](../core_00_preamble.md#material-stake).
 - Downstream: constitutional orientation for all **CJS-5.2–CJS-5.23** operational clusters.
 - Read with: [CJS-5.0](cjs_05_cross_implementation_operational_terms.md#cjs-50-role-definition-preface-and-standing-competency-gate-interface) role preface when role authority is in play; **CJS-2.1** topic router when a cross-layer topic is triggered.
 
@@ -142,15 +142,15 @@ Stewardship role
 
 <br>
 
-Use this compass before applying any **CJS-5** (*Implementation and cross-implementation operational cluster library*) operational cluster. **CJS-5** (*Implementation and cross-implementation operational cluster library*) operationalizes Chapter Five definitions and owner-file rules across **CJS**, **CS**, **CI**, and **CF**; it does not replace the [Constitutional Triad](../core_00_preamble.md#constitutional-triad), [Two Constitutional Aims](../core_01_a_values_principles.md#two-constitutional-aims), or [material stake](../core_00_preamble.md#material-stake) scaling required by [CJS-1.2](cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract).
+Use this compass before applying any **CJS-5** (*Implementation and cross-implementation operational cluster library*) operational cluster. **CJS-5** (*Implementation and cross-implementation operational cluster library*) operationalizes Chapter Five definitions and owner-file rules across **CJS**, **CS**, **CI**, and **CF**; it does not replace the [Constitutional Tetrad](../core_00_preamble.md#constitutional-tetrad), [Two Constitutional Aims](../core_01_a_values_principles.md#two-constitutional-aims), or [material stake](../core_00_preamble.md#material-stake) scaling required by [CJS-1.2](cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract).
 
 **Reading order**
 
 1. This compass and the constitutional bands below.
-2. The constitutional band file for the relevant Triad leg, **Continuity** band, or **Integrative** band.
+2. The constitutional band file for the relevant Tetrad leg, **Continuity** band, or **Integrative** band.
 3. **CJS-2.1** (*Topic router*) mandatory read-with when a topic-router row applies.
 4. Individual cluster OP terms (pinned cluster floor first, then sub-rules).
-5. Where a finding is **non-compliant**, optional [Non-Compliance Finding Profile](../core_05a_accountability_definitions.md#non-compliance-finding-profile) metadata (Triad leg · aim · governance layer) per the cluster map below and [Chapter Three, section 2.8](../core_02-04_definition_mechanics.md#28-non-compliance-finding-profiles).
+5. Where a finding is **non-compliant**, optional [Non-Compliance Finding Profile](../core_05a_accountability_definitions.md#non-compliance-finding-profile) metadata (Tetrad leg · aim · governance layer) per the cluster map below and [Chapter Three, section 2.8](../core_02-04_definition_mechanics.md#28-non-compliance-finding-profiles).
 
 **Constitutional bands**
 
@@ -167,11 +167,11 @@ Use this compass before applying any **CJS-5** (*Implementation and cross-implem
 
 > The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this section or in other corpus files. Per-cluster constitutional framing lives in each cluster's Trace block; use this map for cross-cluster lookup, audits, and migration reference.
 
-**Finding profile shorthand (non-operative).** Default **Triad·Aim·Layer** codes orient material **non-compliance** findings: **O** Oversight · **P** Participation · **A** Accountability · **INT** integrative cross-leg; **F** Flourishing · **C** Continuity aim; **CCL** constitutional contract layer · **SSP** stakeholder system participation · **INT** integrative layer. Canonical rules: [Non-Compliance Finding Profile](../core_05a_accountability_definitions.md#non-compliance-finding-profile); [Chapter Three, section 2.8](../core_02-04_definition_mechanics.md#28-non-compliance-finding-profiles). Adjust defaults when facts require; add **failure character** and **severity tier** per finding.
+**Finding profile shorthand (non-operative).** Default **Tetrad·Aim·Layer** codes orient material **non-compliance** findings: **O** Oversight · **P** Participation · **A** Accountability · **T** Timeliness · **INT** integrative cross-leg; **F** Flourishing · **C** Continuity aim; **CCL** constitutional contract layer · **SSP** stakeholder system participation · **INT** integrative layer. Canonical rules: [Non-Compliance Finding Profile](../core_05a_accountability_definitions.md#non-compliance-finding-profile); [Chapter Three, section 2.8](../core_02-04_definition_mechanics.md#28-non-compliance-finding-profiles). Adjust defaults when facts require; add **failure character** and **severity tier** per finding.
 
 **Cluster map**
 
-| ID | Title | Triad leg / band | Primary aim | Default profile | Chapter One § basis | Cross-leg note | Continuity disambiguation | Prior ID |
+| ID | Title | Tetrad leg / band | Primary aim | Default profile | Chapter One § basis | Cross-leg note | Continuity disambiguation | Prior ID |
 |---|---|---|---|---|---|---|---|---|
 | **CJS-5.2** (*Oversight: reflexive transparency and accountability terms*) | Oversight: reflexive transparency and accountability terms | Oversight | Flourishing | O·F·SSP | §3.2, §4, §5.2, §7.1, §7.2 | — | — | was **CJS-5.4** (*Oversight: tiered transparency and audit-access terms*) |
 | **CJS-5.3** (*Oversight: auditability and reconstructability terms*) | Oversight: auditability and reconstructability terms | Oversight | Flourishing | O·F·SSP | §3.2, §4, §7.1, §7.2 | — | — | was **CJS-5.9** (*Participation: salience integrity and attention-allocation terms*) |

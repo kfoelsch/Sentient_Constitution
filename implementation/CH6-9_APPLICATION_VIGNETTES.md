@@ -155,6 +155,41 @@ Arbitration clauses, shell subcontractors, years of “market efficiency” defe
 
 ---
 
+<a id="vignette-stewardship-delay-deferred-repair"></a>
+
+## Vignette: Stewardship delay and deferred repair
+
+**Domain:** Operator defers safeguard maintenance and repair after documented drift notice.
+
+**Tier:** B (material rights impact, non-imminent) unless ongoing harm escalates to Tier A.
+
+| Stage | Application |
+| --- | --- |
+| Stewardship | [Chapter One §6.1](../core_01_b_stewardship_capacity_principles.md#61-stewardship) — tetrad **timeliness** leg; [Stewardship Defect](../core_05c_continuity_definitions.md#stewardship-defect-constitutional) when chronic delay after notice |
+| Q1 classification | [Ch6 §3 dual-use](../core_06-06_standing_assessment.md#dual-use-classification-dimensions) — **Response timeliness / avoidable delay** aggravates violation `s` = 4–5 |
+| Q2 integration | [Ch7 §3.10](../core_07-07_standing_integration.md#310-non-recurrence-lock-dimensions) — **Remedy commencement / pipeline delay** row |
+| Pipeline clocks | [Article XXIII-G](../core_10-10_rights_part_d.md#article-xxiii-g-timely-resolution-and-anti-delay-floor); **CF-11.3.1** Tier B windows |
+
+**Must not happen:** Treating post-notice deferral as sufficient stewardship when correction was feasible; counting throughput metrics as **Contribution Axis** credit while delay compounds harm.
+
+---
+
+<a id="vignette-pipeline-overrun-tetrad-hollow"></a>
+
+## Vignette: Pipeline overrun and tetrad-hollow forums
+
+**Domain:** Forum family maintains formal intake and records but systematically exceeds **Article XXIII-G** tier milestones without documented extension.
+
+| Stage | Application |
+| --- | --- |
+| Tetrad hollow | **Timeliness** leg hollowed independently — participation and oversight structures exist but material matters do not move |
+| Definitions | [Timeliness](../core_05a_accountability_definitions.md#timeliness-constitutional); [Capture of Resolution Pathways](../core_05a_accountability_definitions.md#capture-of-resolution-pathways) |
+| Top-slot guard | If conduct scales to institutional capture, [Chapter Eight](../core_08-08_misconduct.md#chapter-eight-anti-constitutional-misconduct) **tetrad capture** review |
+
+**Must not happen:** Using allegations as verified standing inputs to buy time; backlog treated as neutral operations metric.
+
+---
+
 ## Cross-vignette discipline
 
 | Rule | Source |
@@ -162,5 +197,6 @@ Arbitration clauses, shell subcontractors, years of “market efficiency” defe
 | Allegations ≠ standing | [Chapter Six §2.3.2](../core_06-06_standing_assessment.md#verified-inputs-for-standing) |
 | No offset across axes | [Chapter Six §2.2](../core_06-06_standing_assessment.md#22-linked-records-and-no-offset-bridge) |
 | Forums ≠ standing calculus | [Chapter Six §2.3.7](../core_06-06_standing_assessment.md#237-forum-boundary) |
+| Tetrad timeliness leg | [Constitutional Tetrad](../core_00_preamble.md#constitutional-tetrad); [Timeliness](../core_05a_accountability_definitions.md#timeliness-constitutional) |
 | Timely + efficient + just together | [Article XXIII-G](../core_10-10_rights_part_d.md#article-xxiii-g-timely-resolution-and-anti-delay-floor) |
 | Numeric tier floors | [CF-11.3.1](../corpus_forum/cf_11_performance_backlog_publication_accessibility.md#cf-1131-target-windows-and-timing-floors) |

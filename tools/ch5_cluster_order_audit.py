@@ -22,6 +22,8 @@ EXPECTED_TOPIC_GROUPS: dict[str, list[str]] = {
         "Accountability",
         "Contestability",
         "Adjudication and Dispute Resolution",
+        "Timeliness",
+        "Timely Resolution",
         "Merits Determination",
         "Collective Accountability Failure",
         "Force Majeure",

@@ -18,15 +18,15 @@
 
 *Reader guidance (non-operative): does not add, remove, or narrow binding obligations elsewhere in this chapter or in other chapters.*
 
-When [material stake](core_00_preamble.md#material-stake) requires auditable standing, Chapters Six through Eight form one continuous pipeline under the [Constitutional Triad](core_00_preamble.md#constitutional-triad) and [Two Constitutional Aims](core_01_a_values_principles.md#two-constitutional-aims) — not reputation, allegations, or informal scoring.
+When [material stake](core_00_preamble.md#material-stake) requires auditable standing, Chapters Six through Eight form one continuous pipeline under the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) and [Two Constitutional Aims](core_01_a_values_principles.md#two-constitutional-aims) — not reputation, allegations, or informal scoring.
 
 This pipeline is a **constitutional coordination and resolution system**: verify facts, classify standing on separate Flourishing and Accountability tracks, integrate consequences without netting axes, and restore where feasible — **quickly, efficiently, and justly** under **Article XXIII-G** (*Timely Resolution and Anti-Delay Floor*), read with [**Article XII-B**](core_10-10_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress). It is not a punishment-first warehouse where material harm may sit unresolved for years.
 
-| Step | Constitutional job | Dominant Triad leg(s) | Primary aim(s) |
+| Step | Constitutional job | Dominant Tetrad leg(s) | Primary aim(s) |
 | --- | --- | --- | --- |
-| **[Ch 6 — Measure](core_06-06_standing_assessment.md#chapter-six-compliance-violation-and-standing-model)** | Separate verified Flourishing credit from verified Accountability findings | **Oversight** + **Accountability** | **Flourishing** (Contribution Axis) + **Accountability** (Violation Axis) |
-| **[Ch 7 — Integrate](core_07-07_standing_integration.md#chapter-seven-standing-effects-and-integration)** | Apply consequences without netting axes or hollowing triad duties | All three; **Participation** via competency gates | **Flourishing** + **Continuity** |
-| **[Ch 8 — Guard](core_08-08_misconduct.md#chapter-eight-anti-constitutional-misconduct)** | Stop constitutional capture at top violation slots | All three at scale | **Continuity** (primary) + **Flourishing** |
+| **[Ch 6 — Measure](core_06-06_standing_assessment.md#chapter-six-compliance-violation-and-standing-model)** | Separate verified Flourishing credit from verified Accountability findings | **Oversight** + **Accountability**; **timeliness** (verified-input and classification clocks) | **Flourishing** (Contribution Axis) + **Accountability** (Violation Axis) |
+| **[Ch 7 — Integrate](core_07-07_standing_integration.md#chapter-seven-standing-effects-and-integration)** | Apply consequences without netting axes or hollowing tetrad duties | All four; **Participation** via competency gates; **timeliness** (remedy commencement) | **Flourishing** + **Continuity** |
+| **[Ch 8 — Guard](core_08-08_misconduct.md#chapter-eight-anti-constitutional-misconduct)** | Stop constitutional capture at top violation slots | All four at scale (**tetrad capture**) | **Continuity** (primary) + **Flourishing** |
 
 **Parallel adjudication layer:** [Chapter Nine](core_09-09_forum.md#chapter-nine-forums-and-jurisdiction) hears disputes and produces findings through **participation** and **oversight** forum institutions without substituting for standing calculus. Domain application vignettes: [implementation/CH6-9_APPLICATION_VIGNETTES.md](../implementation/CH6-9_APPLICATION_VIGNETTES.md).
 
@@ -35,10 +35,10 @@ This pipeline is a **constitutional coordination and resolution system**: verify
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [Chapters Six–Eight standing pipeline map](#chapters-six-nine-constitutional-compass); [Constitutional Triad](core_00_preamble.md#constitutional-triad); [Two Constitutional Aims](core_01_a_values_principles.md#two-constitutional-aims); [material stake](core_00_preamble.md#material-stake).
+- Upstream: [Chapters Six–Eight standing pipeline map](#chapters-six-nine-constitutional-compass); [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad); [Two Constitutional Aims](core_01_a_values_principles.md#two-constitutional-aims); [material stake](core_00_preamble.md#material-stake).
 - Upstream: [Chapter One](core_01_b_stewardship_capacity_principles.md#chapter-01-principles-and-constraints) (*Plain-Language Accessibility* stewardship reflected in section-level gloss); [Chapter One §7 — Stewardship and Distributed Understanding](core_01_b_stewardship_capacity_principles.md#6-stewardship-and-distributed-understanding) (*principle-layer foundation for competence-linked, traceable standing — trust, roles, and recognition*); [Chapters Two through Four](core_02-04_definition_mechanics.md) (*integrity, records, and verification*); [Chapter Five](core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) (*definitions and supremacy read with Chapters Two through Four*).
 - Standing pipeline: [Chapter Six — Classification](core_06-06_standing_assessment.md#chapter-six-compliance-violation-and-standing-model) (*record, verification, and classification — sections **1–6***); [Chapter Seven — Standing Effects and Integration](core_07-07_standing_integration.md#chapter-seven-standing-effects-and-integration) (*attachments, descriptors, standing locks, standing effects, and enforcement — sections **1–6***); [Chapter Eight](core_08-08_misconduct.md#chapter-eight-anti-constitutional-misconduct) (*top-slot review and final Violation Axis `s = 7`, `s = 8`, and `s = 9` anti-constitutional misconduct assignment*).
-- Subsections in this file: [§1](#2-purpose-and-role) (*purpose and two-question frame*); [§2](#2-standing-records) (*§§2.1–2.3 — standing records, no-offset bridge, and operational requirements*); [§3](#6-classification-evaluation-dimensions) (*Question 1 evaluation dimensions*); [§§4–6](#3-slot-grammar-and-display-labels) (*slot grammar, LEQU baseline, and primary axis defaults*). **Triad / Aims map for §2 and §§3–6:** reader guidance under [Chapter Six classification](#chapter-six-compliance-violation-and-standing-model). Continued in [Chapter Seven — Standing Effects and Integration](core_07-07_standing_integration.md#chapter-seven-standing-effects-and-integration): [§1](core_07-07_standing_integration.md#5-standing-effects) through [§6](core_07-07_standing_integration.md#9-violation-axis-s-7-9-anti-constitutional-misconduct-authoritative-location).
+- Subsections in this file: [§1](#2-purpose-and-role) (*purpose and two-question frame*); [§2](#2-standing-records) (*§§2.1–2.3 — standing records, no-offset bridge, and operational requirements*); [§3](#6-classification-evaluation-dimensions) (*Question 1 evaluation dimensions*); [§§4–6](#3-slot-grammar-and-display-labels) (*slot grammar, LEQU baseline, and primary axis defaults*). **Tetrad / Aims map for §2 and §§3–6:** reader guidance under [Chapter Six classification](#chapter-six-compliance-violation-and-standing-model). Continued in [Chapter Seven — Standing Effects and Integration](core_07-07_standing_integration.md#chapter-seven-standing-effects-and-integration): [§1](core_07-07_standing_integration.md#5-standing-effects) through [§6](core_07-07_standing_integration.md#9-violation-axis-s-7-9-anti-constitutional-misconduct-authoritative-location).
 - Downstream: [Chapter Eight](core_08-08_misconduct.md#chapter-eight-anti-constitutional-misconduct) (*authoritative Violation Axis s = 7, 8, and 9 anti-constitutional misconduct classification*); [Chapter Nine](core_09-09_forum.md#chapter-nine-forums-and-jurisdiction) (*forum allocation for disputes arising under this model*); [Article XXIII-G](core_10-10_rights_part_d.md#article-xxiii-g-timely-resolution-and-anti-delay-floor) (*timely resolution and anti-delay floor*); [Article XXIII](core_10-10_rights_part_d.md#article-xxiii-a-justice-objective-and-scope) (*justice constraints on restitution, restorative accountability, and restrictive responses*).
 - Read with: [Chapter Five §3.10 *Standing State, Contribution, and Violation*](core_05a_accountability_definitions.md#standing-state-contribution-and-violation-cluster) (*canonical definition routing*).
 - Read with: [README.md](README.md) (*reading order*); [doc_architecture.md](doc_architecture.md) (*non-binding editorial maps unless adopted*).
@@ -52,7 +52,7 @@ This pipeline is a **constitutional coordination and resolution system**: verify
 
 ## CHAPTER SIX: CONTRIBUTION, VIOLATION, AND STANDING MODEL — CLASSIFICATION
 
-*Non-operative subtitle:* Flourishing and Accountability measurement under Triad discipline.
+*Non-operative subtitle:* Flourishing and Accountability measurement under Tetrad discipline.
 
 <a id="chapter-six-part-a-orientation"></a>
 
@@ -68,17 +68,17 @@ This pipeline is a **constitutional coordination and resolution system**: verify
 > | **Not here** | Standing locks and effects → [Chapter Seven](core_07-07_standing_integration.md#chapter-seven-standing-effects-and-integration); top Violation Axis **s = 7–9** → [Chapter Eight](core_08-08_misconduct.md#chapter-eight-anti-constitutional-misconduct); forums → [Chapter Nine](core_09-09_forum.md#chapter-nine-forums-and-jurisdiction) |
 > | **Key rule** | Allegations and dispute narratives do not move standing; only **demonstrable** contribution and **verified violation findings** count |
 >
-> **Triad / Aims map:** [Chapters Six–Eight standing pipeline map](#chapters-six-nine-constitutional-compass) — this file:
+> **Tetrad / Aims map:** [Chapters Six–Eight standing pipeline map](#chapters-six-nine-constitutional-compass) — this file:
 >
-> | Section | Role in the measure step | Dominant Triad leg(s) | Primary aim(s) |
+> | Section | Role in the measure step | Dominant Tetrad leg(s) | Primary aim(s) |
 > | --- | --- | --- | --- |
-> | [§2](#2-standing-records) | **Record layer** — axis-pure standing records, verified-input gate, no-offset bridge, forum boundary | **Oversight**; **Participation** (contestability and forum boundary) | **Flourishing** + **Continuity** (traceable, durable records) |
+> | [§2](#2-standing-records) | **Record layer** — axis-pure standing records, verified-input gate, no-offset bridge, forum boundary | **Participation**; **Oversight** (contestability and forum boundary) | **Flourishing** + **Continuity** (traceable, durable records) |
 > | [§3](#6-classification-evaluation-dimensions) | **Classification layer** — evaluation dimensions (Question 1 on both axes) | **Oversight** | **Flourishing** + **Accountability** |
 > | [§4](#3-slot-grammar-and-display-labels) | **Classification layer** — slot grammar (**Table 1**) | **Oversight** (display discipline) | **Flourishing** |
 > | [§5](#32-constitutional-outcome-baseline-for-slots) | **Calibration layer** — LEQU baseline ([§5.1](#41-lequ-contribution-calibration) contribution · [§5.2](#42-lequ-violation-calibration) violation) | **Oversight** (verified calibration discipline) | **Flourishing** + **Accountability** |
 > | [§6](#33-primary-category-defaults-and-lequ-slot-baseline) | **Classification layer** — primary defaults ([§6.1](#51-contribution-axis-bands-and-table-2) Contribution Axis · [§6.2](#52-violation-axis-severity-ladder) Violation Axis · [§6.3](#53-forum-disclosure-and-recusal-process-impact) forum disclosure and recusal) | **Oversight** + **Accountability** | **Flourishing** + **Accountability** |
 >
-> **How §2 and §§3–6 relate:** [§2](#2-standing-records) states *what may be recorded* and *how linked contribution and violation records stay separate* under the [Constitutional Triad](core_00_preamble.md#constitutional-triad) and [Two Constitutional Aims](core_01_a_values_principles.md#two-constitutional-aims). [§3](#6-classification-evaluation-dimensions) states *what inputs to evaluate* for Question 1 inside each axis-pure record. [§§4–6](#3-slot-grammar-and-display-labels) state *how verified standing records map to axis categories* — Flourishing-side contribution under **[§5.1](#41-lequ-contribution-calibration)** and **[§6.1](#51-contribution-axis-bands-and-table-2)**, Accountability-side violation under **[§5.2](#42-lequ-violation-calibration)** and **[§6.2](#52-violation-axis-severity-ladder)**, with forum-integrity modifiers under **[§6.3](#53-forum-disclosure-and-recusal-process-impact)** where disclosure or recusal conduct is verified. Section 2 must be satisfied before sections 3–6 categories bind; sections 3–6 do not merge axes, substitute for section 2 record discipline, or apply standing effects. Integration begins in [Chapter Seven](core_07-07_standing_integration.md#chapter-seven-standing-effects-and-integration).
+> **How §2 and §§3–6 relate:** [§2](#2-standing-records) states *what may be recorded* and *how linked contribution and violation records stay separate* under the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) and [Two Constitutional Aims](core_01_a_values_principles.md#two-constitutional-aims). [§3](#6-classification-evaluation-dimensions) states *what inputs to evaluate* for Question 1 inside each axis-pure record. [§§4–6](#3-slot-grammar-and-display-labels) state *how verified standing records map to axis categories* — Flourishing-side contribution under **[§5.1](#41-lequ-contribution-calibration)** and **[§6.1](#51-contribution-axis-bands-and-table-2)**, Accountability-side violation under **[§5.2](#42-lequ-violation-calibration)** and **[§6.2](#52-violation-axis-severity-ladder)**, with forum-integrity modifiers under **[§6.3](#53-forum-disclosure-and-recusal-process-impact)** where disclosure or recusal conduct is verified. Section 2 must be satisfied before sections 3–6 categories bind; sections 3–6 do not merge axes, substitute for section 2 record discipline, or apply standing effects. Integration begins in [Chapter Seven](core_07-07_standing_integration.md#chapter-seven-standing-effects-and-integration).
 
 </details>
 
@@ -91,7 +91,7 @@ This pipeline is a **constitutional coordination and resolution system**: verify
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [Chapters Six–Nine constitutional compass](#chapters-six-nine-constitutional-compass); [Chapter One](core_01_b_stewardship_capacity_principles.md#chapter-01-principles-and-constraints); [Chapter One §7 — Stewardship and Distributed Understanding](core_01_b_stewardship_capacity_principles.md#6-stewardship-and-distributed-understanding) (*standing’s principle-layer foundation — distributed competence and consequential stewardship*); [Chapters Two through Four](core_02-04_definition_mechanics.md); [Chapter Five](core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions).
-- Triad leg(s): **oversight**, **accountability**, **participation** (contestability of records). Primary aim(s): **Flourishing** and **Continuity**. [material stake](core_00_preamble.md#material-stake) scaling applies chapter-wide.
+- Tetrad leg(s): **participation**, **oversight**, **accountability** (contestability of records). Primary aim(s): **Flourishing** and **Continuity**. [material stake](core_00_preamble.md#material-stake) scaling applies chapter-wide.
 - Downstream: [§1.1](#11-two-question-evaluation-discipline) (*two-question evaluation frame*); [§2](#2-standing-records) (*standing records, verified-input gate, forum boundary, and no-offset bridge*); [§3](#6-classification-evaluation-dimensions) through [§6](#33-primary-category-defaults-and-lequ-slot-baseline) (*Question 1 dimensions, slot grammar, LEQU baseline, and primary axis defaults*); [Chapter Seven §1](core_07-07_standing_integration.md#5-standing-effects) through [§3](core_07-07_standing_integration.md#6-extended-axis-ii-legal-hybrid-duty-and-harm-descriptors) (*Question 2, standing effects, supplemental descriptors, and Violation Axis attachments*); [Chapter Seven §4](core_07-07_standing_integration.md#8-cross-axis-coupling-and-escalation-constraints) (*§§4.1–4.3 — mechanics*); [Chapter Seven §5](core_07-07_standing_integration.md#8-enforcement-realism-anchors) (*implementation anchors*); [Chapter Seven §6](core_07-07_standing_integration.md#9-violation-axis-s-7-9-anti-constitutional-misconduct-authoritative-location) (*Chapter Eight pointer*).
 - Read with: [Article XXIII-B: Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints](core_10-10_rights_part_d.md#article-xxiii-b-non-trivial-restriction-restitution-and-restorative-accountability-constraints) and [Article XXIII-C: Least-Restrictive and Time-Bounded Rule](core_10-10_rights_part_d.md#article-xxiii-c-least-restrictive-and-time-bounded-rule) (*justice constraints referenced in this section*).
 - Read with: [corpus_systems.md](corpus_systems.md), CS-4 — System classification and handling (*Class A, B, C, and P systems*).
@@ -158,14 +158,14 @@ Standing effects, Question 2 integration, and cross-axis coupling begin in [Chap
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [§1](#2-purpose-and-role) (*two-axis frame*); [Chapters Two through Four](core_02-04_definition_mechanics.md) (*record, verification, and tracing discipline*).
-- Triad leg(s): **oversight**; **participation** (contestability, challenge paths, forum boundary at **§2.3.7**). Primary aim(s): **Flourishing** and **Continuity** (traceable records that preserve axis separation for later measurement). [material stake](core_00_preamble.md#material-stake) scaling applies where record scope is material.
+- Tetrad leg(s): **participation**; **oversight** (contestability, challenge paths, forum boundary at **§2.3.7**). Primary aim(s): **Flourishing** and **Continuity** (traceable records that preserve axis separation for later measurement). [material stake](core_00_preamble.md#material-stake) scaling applies where record scope is material.
 - Downstream: [§2.2](#22-linked-records-and-no-offset-bridge) (*linked-record no-offset bridge*); [§2.3.2](#232-minimum-record-contents) (*verified-input gate*); [§2.3.7](#237-forum-boundary) (*forum boundary*); [§3](#6-classification-evaluation-dimensions) (*Question 1 evaluation dimensions*); [§§4–6](#3-slot-grammar-and-display-labels) (*slot grammar, LEQU baseline, and axis classification — contribution at **§§5.1 and 6.1**, violation at **§§5.2 and 6.2***); [Chapter Seven §1](core_07-07_standing_integration.md#5-standing-effects) (*standing effects*); [Chapter Seven §4](core_07-07_standing_integration.md#8-cross-axis-coupling-and-escalation-constraints) (*joint assessment*).
 
 </details>
 
 <br>
 
-*In plain terms: Section 2 creates **standing records** — focused case files about one sentient, institution, or situation over a clear time period. Each file is **axis-pure**: a **contribution standing record** for verified good, or a **violation standing record** for verified adverse findings — not both in one file. **Section 2.2** states the no-offset rule when linked contribution and violation records coexist. Related files must **cross-reference** each other under **section 2.3.1**; **section 2.3.2** lists what each file must contain and what counts as verified input. The files are not permanent popularity scores or vague labels. **Sections 2.3.4–2.3.6** cover versioning and implementation visibility; **section 2.3.7** keeps forums separate from standing calculus. Under the [Constitutional Triad](core_00_preamble.md#constitutional-triad), this section is the **oversight** record foundation; under the [Two Constitutional Aims](core_01_a_values_principles.md#two-constitutional-aims), it keeps **Flourishing** credit and **Accountability** findings separately traceable so **sections 3–6** can measure them without merging axes.*
+*In plain terms: Section 2 creates **standing records** — focused case files about one sentient, institution, or situation over a clear time period. Each file is **axis-pure**: a **contribution standing record** for verified good, or a **violation standing record** for verified adverse findings — not both in one file. **Section 2.2** states the no-offset rule when linked contribution and violation records coexist. Related files must **cross-reference** each other under **section 2.3.1**; **section 2.3.2** lists what each file must contain and what counts as verified input. The files are not permanent popularity scores or vague labels. **Sections 2.3.4–2.3.6** cover versioning and implementation visibility; **section 2.3.7** keeps forums separate from standing calculus. Under the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad), this section is the **oversight** record foundation; under the [Two Constitutional Aims](core_01_a_values_principles.md#two-constitutional-aims), it keeps **Flourishing** credit and **Accountability** findings separately traceable so **sections 3–6** can measure them without merging axes.*
 
 <a id="21-standing-records-as-the-unit-of-application"></a>
 <a id="contribution-standing-record"></a>
@@ -270,9 +270,9 @@ A standing record **classifies** verified inputs only. It must preserve the axis
 ##### 2.3.3 Collective and actor-specific records
 
 
-When several people or entities share the same benefit or violation, the system may keep both a collective standing record and separate actor-specific records. Each must stay axis-pure under **section 2.1**.
+When several sentients or entities share the same benefit or violation, the system may keep both a collective standing record and separate actor-specific records. Each must stay axis-pure under **section 2.1**.
 
-For shared credit, recognition should follow what each person actually contributed — role, time, effort, risk, skill, coordination, maintenance, and causal impact. When many people helped and individual shares cannot be cleanly separated, broad distribution is favored.
+For shared credit, recognition should follow what each sentient actually contributed — role, time, effort, risk, skill, coordination, maintenance, and causal impact. When many sentients helped and individual shares cannot be cleanly separated, broad distribution is favored.
 
 For shared violations, blame must not be assigned by group membership alone. Actor-specific adverse standing requires verified linkage to causal role, duty, authority, control, foreseeability, benefit, concealment, or feasible prevention capacity.
 
@@ -431,6 +431,7 @@ Do **not** split LEQU into parallel ecological, system, or resource scores unles
 
 | **Dimension** | **Contribution Q1** | **Violation Q1** |
 | --- | --- | --- |
+| **Response timeliness / avoidable delay** | Prompt verified remediation after notice may support conduct-quality / **Diligence** stack (does not offset open violation records) | Aggravates toward `s` = 4–5 when duty existed and delay compounded harm; links to delayed-escalation band |
 | **Externalized harm / concealed burden** | Caps or disqualifies countable LEQU benefit | — |
 | **Deception / concealment / evasion** | — | Aggravated violation (`s` = 5) |
 | **Violence / coercion / liberty danger** | — | Coercive or safeguard-process violation (`s` = 6) |
@@ -466,7 +467,7 @@ Standing integration examples (Question 2) appear in [Chapter Seven §3.0](core_
 <a id="classification-layer-sections-3-5"></a>
 <a id="classification-layer-sections-3-6"></a>
 
-*Reading order (classification layer §§3–6):* **[§3](#6-classification-evaluation-dimensions)** states Question 1 evaluation dimensions · **[§4](#3-slot-grammar-and-display-labels)** names the shared slot labels (**Table 1**) · **[§5](#32-constitutional-outcome-baseline-for-slots)** calibrates magnitude in LEQU (**[§5.1](#41-lequ-contribution-calibration)** contribution · **[§5.2](#42-lequ-violation-calibration)** violation) · **[§6](#33-primary-category-defaults-and-lequ-slot-baseline)** classifies verified **contribution state** (**[§6.1](#51-contribution-axis-bands-and-table-2)** · **Table 2**), verified **violation nature** (**[§6.2](#52-violation-axis-severity-ladder)**), and forum-integrity modifiers (**[§6.3](#53-forum-disclosure-and-recusal-process-impact)**). Triad / Aims map and relation to §2: [chapter opening reader guidance](#chapter-six-part-a-orientation). Standing effects begin in [Chapter Seven](core_07-07_standing_integration.md#chapter-seven-standing-effects-and-integration).
+*Reading order (classification layer §§3–6):* **[§3](#6-classification-evaluation-dimensions)** states Question 1 evaluation dimensions · **[§4](#3-slot-grammar-and-display-labels)** names the shared slot labels (**Table 1**) · **[§5](#32-constitutional-outcome-baseline-for-slots)** calibrates magnitude in LEQU (**[§5.1](#41-lequ-contribution-calibration)** contribution · **[§5.2](#42-lequ-violation-calibration)** violation) · **[§6](#33-primary-category-defaults-and-lequ-slot-baseline)** classifies verified **contribution state** (**[§6.1](#51-contribution-axis-bands-and-table-2)** · **Table 2**), verified **violation nature** (**[§6.2](#52-violation-axis-severity-ladder)**), and forum-integrity modifiers (**[§6.3](#53-forum-disclosure-and-recusal-process-impact)**). Tetrad / Aims map and relation to §2: [chapter opening reader guidance](#chapter-six-part-a-orientation). Standing effects begin in [Chapter Seven](core_07-07_standing_integration.md#chapter-seven-standing-effects-and-integration).
 
 <br>
 
@@ -552,37 +553,37 @@ For this section, a **full-life-equivalent constitutional benefit** means verifi
 
 **Examples of what counts toward contribution (slot movement up):**
 
-Each row ties verified contribution benefit to the [Constitutional Triad](core_00_preamble.md#constitutional-triad) and [Two Constitutional Aims](core_01_a_values_principles.md#two-constitutional-aims). **Triad leg(s)** name the dominant governance hook; **Primary aim(s)** name the dominant constitutional objective. Full slot assignment still requires **sections 2** and **6.1**.
+Each row ties verified contribution benefit to the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) and [Two Constitutional Aims](core_01_a_values_principles.md#two-constitutional-aims). **Tetrad leg(s)** name the dominant governance hook; **Primary aim(s)** name the dominant constitutional objective. Full slot assignment still requires **sections 2** and **6.1**.
 
-| Type of Benefit | What It Looks Like | Triad leg(s) | Primary aim(s) |
+| Type of Benefit | What It Looks Like | Tetrad leg(s) | Primary aim(s) |
 | --- | --- | --- | --- |
 | Survival & bodily maintenance | Ensuring someone has food, shelter, medical care, or safety | **Participation**, **Oversight** | **Flourishing** |
 | Caretaking & teaching | Raising children, caring for elders, educating others | **Participation**, **Oversight** | **Flourishing**, **Continuity** |
 | Trauma resolution | Helping someone recover from psychological harm that was blocking their wellbeing | **Participation**, **Accountability** | **Flourishing** |
 | Removing severe burdens | Eliminating crushing debt, exploitative working conditions, or systemic barriers | **Participation**, **Oversight** | **Flourishing** |
 | Restoring agency | Enabling someone to make meaningful choices about their own life | **Participation** | **Flourishing** |
-| Expanding productive capacity | Creating tools, infrastructure, or opportunities that let others thrive independently | **Oversight**, **Participation** | **Flourishing**, **Continuity** |
-| Improving time efficiency | Reducing avoidable waiting, administrative friction, or coordination overhead so sentient beings regain usable time for care, rest, agency, learning, or rights-consistent work | **Oversight**, **Participation** | **Flourishing** |
+| Expanding productive capacity | Creating tools, infrastructure, or opportunities that let others thrive independently | **Participation**, **Oversight** | **Flourishing**, **Continuity** |
+| Improving time efficiency | Reducing avoidable waiting, administrative friction, or coordination overhead so sentient beings regain usable time for care, rest, agency, learning, or rights-consistent work | **Participation**, **Oversight** | **Flourishing** |
 | Reducing ecological or infrastructure risk | Preventing environmental collapse or critical system failures | **Oversight**, **Accountability** | **Continuity**, **Flourishing** |
-| Strengthening safety, truth, auditability, or challenge capacity | Building institutions that protect rights and hold power accountable | **Oversight**, **Participation**, **Accountability** | **Flourishing**, **Continuity** |
+| Strengthening safety, truth, auditability, or challenge capacity | Building institutions that protect rights and hold power accountable | **Participation**, **Oversight**, **Accountability** | **Flourishing**, **Continuity** |
 
 The claimed benefit counts only to the extent it remains traceable, non-externalized, and consistent with Safety, Truth, dignity, equal standing, substantive fairness, ecological integrity, intergenerational responsibility, auditability, and contestability. Externalized harms, coercive dependencies, Rights-Floor narrowing, or concealed burdens limit what may count as verified Contribution Axis benefit; they do not offset, reduce, or cure separate Violation Axis findings.
 
 **How slots map to LEQU scale on the contribution side:**
 
-Same [Constitutional Triad](core_00_preamble.md#constitutional-triad) and [Two Constitutional Aims](core_01_a_values_principles.md#two-constitutional-aims) discipline as the examples table above. Higher slots add **Continuity** and broader Triad legs as verified benefit scales across people, time, and institutions.
+Same [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) and [Two Constitutional Aims](core_01_a_values_principles.md#two-constitutional-aims) discipline as the examples table above. Higher slots add **Continuity** and broader Tetrad legs as verified benefit scales across sentients, time, and institutions.
 
-| `s` | Contribution Level | Roughly Equivalent To... | Triad leg(s) | Primary aim(s) |
+| `s` | Contribution Level | Roughly Equivalent To... | Tetrad leg(s) | Primary aim(s) |
 | ---: | --- | --- | --- | --- |
-| 1 | **Baseline contribution** | Meeting constitutional floor without violations | **Oversight**, **Participation** | **Flourishing** |
-| 2 | **Strengthened baseline contribution** | Reliably exceeding the floor in a bounded, demonstrable way | **Oversight**, **Participation** | **Flourishing** |
-| 3 | **Verified positive contribution** | Helping one sentient modestly beyond baseline | **Oversight**, **Participation** | **Flourishing** |
-| 4 | **Material positive contribution** | Helping a small group or single community noticeably | **Oversight**, **Participation** | **Flourishing** |
-| 5 | **Established stewardship-positive contribution** | Creating lasting benefit in a defined domain | **Oversight**, **Participation** | **Flourishing**, **Continuity** |
-| 6 | **Major stewardship-positive contribution** | Approaching one LEQU in impact, or enabling many others to meet obligations | **Oversight**, **Participation**, **Accountability** | **Flourishing**, **Continuity** |
-| 7 | **Recognized champion** | **At least one LEQU** — verifiably saved or transformed one lifetime-equivalent | **Oversight**, **Participation**, **Accountability** | **Flourishing**, **Continuity** |
-| 8 | **Distinguished champion** | **Multiple LEQUs** — lasting institutional repair or prevention that outlives the actors | **Oversight**, **Participation**, **Accountability** | **Flourishing**, **Continuity** |
-| 9 | **Exemplary champion** | **Rare, wide-scope gains** — intergenerational, ecosystem, or civilization-level benefit | **Oversight**, **Participation**, **Accountability** | **Continuity**, **Flourishing** |
+| 1 | **Baseline contribution** | Meeting constitutional floor without violations | **Participation**, **Oversight** | **Flourishing** |
+| 2 | **Strengthened baseline contribution** | Reliably exceeding the floor in a bounded, demonstrable way | **Participation**, **Oversight** | **Flourishing** |
+| 3 | **Verified positive contribution** | Helping one sentient modestly beyond baseline | **Participation**, **Oversight** | **Flourishing** |
+| 4 | **Material positive contribution** | Helping a small group or single community noticeably | **Participation**, **Oversight** | **Flourishing** |
+| 5 | **Established stewardship-positive contribution** | Creating lasting benefit in a defined domain | **Participation**, **Oversight** | **Flourishing**, **Continuity** |
+| 6 | **Major stewardship-positive contribution** | Approaching one LEQU in impact, or enabling many others to meet obligations | **Participation**, **Oversight**, **Accountability** | **Flourishing**, **Continuity** |
+| 7 | **Recognized champion** | **At least one LEQU** — verifiably saved or transformed one lifetime-equivalent | **Participation**, **Oversight**, **Accountability** | **Flourishing**, **Continuity** |
+| 8 | **Distinguished champion** | **Multiple LEQUs** — lasting institutional repair or prevention that outlives the actors | **Participation**, **Oversight**, **Accountability** | **Flourishing**, **Continuity** |
+| 9 | **Exemplary champion** | **Rare, wide-scope gains** — intergenerational, ecosystem, or civilization-level benefit | **Participation**, **Oversight**, **Accountability** | **Continuity**, **Flourishing** |
 
 <a id="42-lequ-violation-calibration"></a>
 
@@ -590,9 +591,9 @@ Same [Constitutional Triad](core_00_preamble.md#constitutional-triad) and [Two C
 
 **Examples of what counts toward violation severity (slot movement up):**
 
-Each row ties verified constitutional loss to the [Constitutional Triad](core_00_preamble.md#constitutional-triad) and [Two Constitutional Aims](core_01_a_values_principles.md#two-constitutional-aims). Full operative severity assignment still requires **sections 2** and **6.2**.
+Each row ties verified constitutional loss to the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) and [Two Constitutional Aims](core_01_a_values_principles.md#two-constitutional-aims). Full operative severity assignment still requires **sections 2** and **6.2**.
 
-| Type of Loss or Danger | What It Looks Like | Triad leg(s) | Primary aim(s) |
+| Type of Loss or Danger | What It Looks Like | Tetrad leg(s) | Primary aim(s) |
 | --- | --- | --- | --- |
 | Survival or bodily-maintenance deprivation | Avoidable death, denied care, unsafe conditions, or material survival deprivation | **Accountability**, **Participation** | **Flourishing** |
 | Severe avoidable burden | Crushing, imposed, or systematically shifted burdens that materially impair wellbeing or agency | **Accountability**, **Participation** | **Flourishing** |
@@ -607,11 +608,11 @@ The claimed violation severity counts only to the extent it rests on verified vi
 
 **How slots map to LEQU scale on the violation side:**
 
-Same Triad and Aims discipline as the examples table above. Higher slots add **Continuity** and broader Triad legs as verified loss scales across people, institutions, and time; once **Continuity** enters at **s = 3**, it remains in the primary-aim column through **s = 9**, and the full Triad is present from **s = 6** upward. Operative criteria for each level are in **section 6.2**; final **Violation Axis** `s` = 7, 8, and 9 assignment remains in **Chapter Eight**.
+Same Tetrad and Aims discipline as the examples table above. Higher slots add **Continuity** and broader Tetrad legs as verified loss scales across sentients, institutions, and time; once **Continuity** enters at **s = 3**, it remains in the primary-aim column through **s = 9**, and the full Tetrad is present from **s = 6** upward. Operative criteria for each level are in **section 6.2**; final **Violation Axis** `s` = 7, 8, and 9 assignment remains in **Chapter Eight**.
 
-| `s` | Violation Level | Roughly Equivalent To... | Triad leg(s) | Primary aim(s) |
+| `s` | Violation Level | Roughly Equivalent To... | Tetrad leg(s) | Primary aim(s) |
 | ---: | --- | --- | --- | --- |
-| 1 | **Formal non-compliance** | Process, records, or challenge-path problems without proven substantive harm | **Oversight**, **Participation** | **Flourishing** |
+| 1 | **Formal non-compliance** | Process, records, or challenge-path problems without proven substantive harm | **Participation**, **Oversight** | **Flourishing** |
 | 2 | **Remedial substantive non-compliance** | Real harm or rights failure requiring repair, restoration, or civil correction | **Accountability**, **Participation** | **Flourishing** |
 | 3 | **Significant substantive non-compliance** | Material constitutional or Rights-Floor violation without aggravated or coercive features | **Accountability**, **Oversight** | **Flourishing**, **Continuity** |
 | 4 | **Duty-based or negligent-harm violation** | Preventable harm from unmet duty, foreseeable risk, or neglect where capacity to act existed | **Accountability**, **Oversight** | **Flourishing**, **Continuity** |
@@ -687,7 +688,7 @@ Adopted implementation may publish `C*` thresholds, `V(s)` weights, and keyed su
 - Upstream: [§2](#2-standing-records) (*standing records, verified-input gate, and no-offset bridge*); [§3](#6-classification-evaluation-dimensions) (*Question 1 evaluation dimensions*); [§4](#31-slot-grammar-and-display-labels) (*slot grammar and display labels*); [§5.2](#42-lequ-violation-calibration) (*violation LEQU calibration*); [§6.1](#51-contribution-axis-bands-and-table-2) (*Contribution Axis rules and **Table 2***); [Chapter Seven §3.9](core_07-07_standing_integration.md#73-stackable-harm-and-conduct-descriptors-violation-nature-supplement) (*Violation Axis supplements*).
 - Downstream: [§6.3](#53-forum-disclosure-and-recusal-process-impact) (*forum disclosure and recusal-process impact*); [Chapter Seven §3](core_07-07_standing_integration.md#6-extended-axis-ii-legal-hybrid-duty-and-harm-descriptors) (*process / response character, hybrid, and duty material*); [Chapter Seven §4](core_07-07_standing_integration.md#8-cross-axis-coupling-and-escalation-constraints) (*standing integration and no-netting mechanics*); [Chapter Eight](core_08-08_misconduct.md#chapter-eight-anti-constitutional-misconduct) (*final Violation Axis **s = 7, 8, or 9** anti-constitutional misconduct assignment*).
 - Read with: [Supremacy and Enforceability](core_05i_integrative_definitions.md#supremacy-and-enforceability), [Constitutional Constraint Violation](core_05i_integrative_definitions.md#constitutional-constraint-violation), [Harm](core_05a_accountability_definitions.md#harm), and [Materiality Determination](core_05o_oversight_definitions.md#materiality-determination).
-- Triad leg(s): **accountability**. Primary aim(s): **Flourishing** and **Continuity**. [material stake](core_00_preamble.md#material-stake) scaling applies to severity and verification burden.
+- Tetrad leg(s): **accountability**. Primary aim(s): **Flourishing** and **Continuity**. [material stake](core_00_preamble.md#material-stake) scaling applies to severity and verification burden.
 
 </details>
 

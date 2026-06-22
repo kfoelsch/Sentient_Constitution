@@ -1511,7 +1511,7 @@ Final **constitutional** interpretation must remain authoritative, bounded, audi
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: Principles: Chapter One [9.4 Rights-Collision Procedure](core_01_b_stewardship_capacity_principles.md#94-rights-collision-procedure), [12. Prohibition on Absolute Override](core_01_b_stewardship_capacity_principles.md#12-prohibition-on-absolute-override), and [13. Integrated Application](core_01_b_stewardship_capacity_principles.md#13-integrated-application).
-- Read with: [Constitutional Triad](core_00_preamble.md#constitutional-triad) — all three legs; triad capture discipline under [§7](core_01_b_stewardship_capacity_principles.md#7-governance-under-stewardship-discipline).
+- Read with: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — all three legs; tetrad capture discipline under [§7](core_01_b_stewardship_capacity_principles.md#7-governance-under-stewardship-discipline).
 
 </details>
 

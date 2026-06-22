@@ -21,10 +21,10 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [Chapter 00 — Constitutional Triad](core_00_preamble.md#constitutional-triad); [material stake](core_00_preamble.md#material-stake) scaling applies chapter-wide through section traces.
+- Upstream: [Chapter 00 — Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad); [material stake](core_00_preamble.md#material-stake) scaling applies chapter-wide through section traces.
 - Downstream: [§1.1 Definitional layer and required disciplines](#11-definitional-layer-and-required-disciplines), [§1.2 Ambiguity resolution](#12-ambiguity-resolution), [§1.3 Internal hierarchy (last-resort rule)](#13-internal-hierarchy-last-resort-rule), [§1.4 Canonical conflict resolution procedure](#14-canonical-conflict-resolution-procedure); [2. Purpose and Role](#2-purpose-and-role) through [13. Integrated Application](#12-integrated-application); [9. Interaction and Conflict Resolution](core_01_b_stewardship_capacity_principles.md#9-interaction-and-conflict-resolution) for value-collision procedure; [Chapter Ten: Foundational Rights](core_10-10_rights_part_a.md#chapter-ten-foundational-rights) non-contraction default.
 - Read with: [Chapters Two through Four](core_02-04_definition_mechanics.md) and [Chapter Five](core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) — interpretive and evidentiary layer for every term in this chapter.
-- Read with: [Constitutional Triad](core_00_preamble.md#constitutional-triad) and [Two Constitutional Aims](#two-constitutional-aims) — interpretive backdrop for the integrated-value framework; [material stake](core_00_preamble.md#material-stake) scaling where materially relevant.
+- Read with: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) and [Two Constitutional Aims](#two-constitutional-aims) — interpretive backdrop for the integrated-value framework; [material stake](core_00_preamble.md#material-stake) scaling where materially relevant.
 - Read with: [Chapter Fifteen §2](core_15-15_incorporation.md#2-authority-stack-and-invocation) (*Conflict order* / strictest-applicable incorporated text).
 - Read with: [Article XXII: Constitutional Interpretation, Review, and Anti-Capture Safeguards](core_10-10_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards) for institutional interpretation safeguards (not a substitute for this section).
 
@@ -79,7 +79,7 @@ This hierarchy is an interpretive rule of last resort and does not license:
 - rights contraction outside expressly permitted interaction rules
 - substitution of one layer for another under ordinary operation
 
-Each principle in this chapter applies together with the [Constitutional Triad](core_00_preamble.md#constitutional-triad) established in [Chapter 00](core_00_preamble.md#chapter-00-preamble--foundational-requirements) and the [Two Constitutional Aims](#two-constitutional-aims) stated in [§2 Purpose and Role](#2-purpose-and-role). Section traces identify which triad leg or legs are materially implicated, which aim or aims are materially implicated, and whether duties scale with [material stake](core_00_preamble.md#material-stake).
+Each principle in this chapter applies together with the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) established in [Chapter 00](core_00_preamble.md#chapter-00-preamble--foundational-requirements) and the [Two Constitutional Aims](#two-constitutional-aims) stated in [§2 Purpose and Role](#2-purpose-and-role). Section traces identify which tetrad leg or legs are materially implicated, which aim or aims are materially implicated, and whether duties scale with [material stake](core_00_preamble.md#material-stake).
 
 #### 1.4 Canonical conflict resolution procedure
 
@@ -95,11 +95,11 @@ This subsection is the **single canonical procedure** for resolving interpretive
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [1. Constitutional Interpretation](#1-constitutional-interpretation); [Chapter 00 — Constitutional Triad](core_00_preamble.md#constitutional-triad); [material stake](core_00_preamble.md#material-stake) scaling applies chapter-wide through section traces.
+- Upstream: [1. Constitutional Interpretation](#1-constitutional-interpretation); [Chapter 00 — Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad); [material stake](core_00_preamble.md#material-stake) scaling applies chapter-wide through section traces.
 - Upstream: Principles: [Chapter One](#chapter-01-principles-and-constraints) as the integrated value-and-constraint layer.
 - Downstream: [Two Constitutional Aims](#two-constitutional-aims) — **Flourishing** aim: [§3](#3-foundational-objective-wellbeing) through [§5](#5-system-stability-enabler-trust-coordination-integrity) and [§10](core_01_b_stewardship_capacity_principles.md#11-freedom-bounded-agency); **Continuity** aim: [§5.1](#51-resilience-and-self-healing-design), [§6](core_01_b_stewardship_capacity_principles.md#8-shared-system-capacity), and [§9](#9-systemic-evaluation-requirement).
 - Downstream: [3. Foundational Objective: Wellbeing](#3-foundational-objective-wellbeing), [§3.2 Recognition, Reinforcement, and Aspiration](#32-recognition-reinforcement-and-aspiration), [4.1 Safety](#41-safety-harm-constraint), [4.2 Truth](#42-truth-epistemic-integrity-constraint), [5. Trust](#5-system-stability-enabler-trust-coordination-integrity), [§6 Stewardship and Distributed Understanding](core_01_b_stewardship_capacity_principles.md#6-stewardship-and-distributed-understanding), [9. Interaction and Conflict Resolution](core_01_b_stewardship_capacity_principles.md#9-interaction-and-conflict-resolution), and [§10 Freedom](core_01_b_stewardship_capacity_principles.md#11-freedom-bounded-agency).
-- Read with: [Constitutional Triad](core_00_preamble.md#constitutional-triad) — all three legs govern how shared systems pursue the [Two Constitutional Aims](#two-constitutional-aims); [material stake](core_00_preamble.md#material-stake) scaling applies chapter-wide through section traces.
+- Read with: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — all three legs govern how shared systems pursue the [Two Constitutional Aims](#two-constitutional-aims); [material stake](core_00_preamble.md#material-stake) scaling applies chapter-wide through section traces.
 - Read with: [Chapters Two through Four](core_02-04_definition_mechanics.md) and [Chapter Five](core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) — the governing mechanics layer for every term used in this chapter; apply O/E/C integrity, anti-evasion, burden, and traceability discipline.
 - Read with: [Chapter Ten: Foundational Rights](core_10-10_rights_part_a.md#chapter-ten-foundational-rights).
   - Especially [Article V: Equal Basic Rights](core_10-10_rights_part_b.md#article-v-equal-basic-rights), [Article XII: Right to Reliable and Trustworthy Systems](core_10-10_rights_part_c.md#article-xii-right-to-reliable-and-trustworthy-systems), and [Article XXII: Constitutional Interpretation, Review, and Anti-Capture Safeguards](core_10-10_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards).
@@ -126,7 +126,7 @@ This chapter establishes the principles and constraints that govern interpretati
 - <a id="flourishing"></a>**Flourishing** — sentient wellbeing sustained through truth, safety, trustworthiness, and meaningful agency
 - <a id="continuity"></a>**Continuity** — long-horizon stability, sustainability, resilience, and ecological wellbeing
 
-Those aims must be pursued together, always within the non-negotiable constraints and rights protections established in this Constitution. The [**Constitutional Triad**](core_00_preamble.md#constitutional-triad) governs how that pursuit remains legitimate: **oversight**, **participation**, and **accountability** scaled to [**material stake**](core_00_preamble.md#material-stake).
+Those aims must be pursued together, always within the non-negotiable constraints and rights protections established in this Constitution. The [**Constitutional Tetrad**](core_00_preamble.md#constitutional-tetrad) governs how that pursuit remains legitimate: **participation**, **oversight**, and **accountability** scaled to [**material stake**](core_00_preamble.md#material-stake).
 
 These values:
 - are not independent, and in ordinary operation they are not strictly hierarchical.
@@ -139,7 +139,7 @@ No single principle may be applied in isolation where doing so would materially 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Read with: [Constitutional Triad](core_00_preamble.md#constitutional-triad) — **participation** and **accountability** legs where wellbeing claims affect voice, access, or burden allocation; [material stake](core_00_preamble.md#material-stake) scaling where materially relevant.
+- Read with: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **participation** and **accountability** legs where wellbeing claims affect voice, access, or burden allocation; [material stake](core_00_preamble.md#material-stake) scaling where materially relevant.
 - Read with: [Two Constitutional Aims](#two-constitutional-aims) — primary Chapter One home for the **Flourishing** aim ([§3](#3-foundational-objective-wellbeing) through [§5](#5-system-stability-enabler-trust-coordination-integrity) and [§10](core_01_b_stewardship_capacity_principles.md#11-freedom-bounded-agency)).
 - Upstream: Principles: [2. Purpose and Role](#2-purpose-and-role); [Two Constitutional Aims](#two-constitutional-aims) — **Flourishing** aim.
 - Downstream: [4.1 Safety](#41-safety-harm-constraint), [4.2 Truth](#42-truth-epistemic-integrity-constraint), [§6 Stewardship and Distributed Understanding](core_01_b_stewardship_capacity_principles.md#6-stewardship-and-distributed-understanding), and [9. Interaction and Conflict Resolution](core_01_b_stewardship_capacity_principles.md#9-interaction-and-conflict-resolution).
@@ -180,7 +180,7 @@ At this value layer, wellbeing:
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Read with: [Constitutional Triad](core_00_preamble.md#constitutional-triad) — **participation** leg (access, voice, and contestability; general requirement, not [Stakeholder System Participation](core_05p_participation_definitions.md#stakeholder-status-emergency-and-participation-weight-cluster) alone); **accountability** leg where benefits and burdens attach.
+- Read with: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **participation** leg (access, voice, and contestability; general requirement, not [Stakeholder System Participation](core_05p_participation_definitions.md#stakeholder-status-emergency-and-participation-weight-cluster) alone); **accountability** leg where benefits and burdens attach.
 - Upstream: Principles: [3. Foundational Objective: Wellbeing](#3-foundational-objective-wellbeing).
 - Downstream: [3.2 Recognition, Reinforcement, and Aspiration](#32-recognition-reinforcement-and-aspiration); [5. Trust](#5-system-stability-enabler-trust-coordination-integrity), [§6 Stewardship and Distributed Understanding](core_01_b_stewardship_capacity_principles.md#6-stewardship-and-distributed-understanding), [9. Interaction and Conflict Resolution](core_01_b_stewardship_capacity_principles.md#9-interaction-and-conflict-resolution), and [9.4.1 Rights-Collision Decision Test](core_01_b_stewardship_capacity_principles.md#841-rights-collision-decision-test) where precedence and allocation choices must remain coherent and reviewable.
 - Downstream: Shapes the rights surface for equal standing, non-arbitrary treatment, meaningful challenge, and proportionate restriction limits.
@@ -221,7 +221,7 @@ These facets read through [Dignity and Equal Moral Standing](core_05p_participat
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Read with: [Constitutional Triad](core_00_preamble.md#constitutional-triad) — **accountability** leg (anti-reward for betrayal, concealment, and accountability avoidance); **oversight** leg (traceable, non-misleading acclaim).
+- Read with: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **accountability** leg (anti-reward for betrayal, concealment, and accountability avoidance); **oversight** leg (traceable, non-misleading acclaim).
 - Upstream: Principles: [3. Foundational Objective: Wellbeing](#3-foundational-objective-wellbeing); [3.1 Fairness](#31-fairness).
 - Downstream: [5. Trust](#5-system-stability-enabler-trust-coordination-integrity); [§6 Stewardship and Distributed Understanding](core_01_b_stewardship_capacity_principles.md#6-stewardship-and-distributed-understanding); [§7 Governance Under Stewardship Discipline](core_01_b_stewardship_capacity_principles.md#7-governance-under-stewardship-discipline); [§10 Freedom](core_01_b_stewardship_capacity_principles.md#11-freedom-bounded-agency).
 - Read with: [Chapter Six §1.1 — Shared domain lenses (cross-axis vocabulary)](core_07-07_standing_integration.md#11-shared-domain-lenses-cross-axis-vocabulary) where **domain-aligned** recognition or comparative **Axis I / Axis II** supplemental narratives are material.
@@ -307,7 +307,7 @@ Granular ceremonies, curricula, budgets, programs, and metrics belong in adoptin
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Read with: [Constitutional Triad](core_00_preamble.md#constitutional-triad) — **oversight** leg (detecting harm risk and epistemic degradation); **participation** leg (understanding and contesting safety and truth determinations); **accountability** leg (answerability for harm, deception, and misleading reliance); [material stake](core_00_preamble.md#material-stake) scaling.
+- Read with: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **participation** leg (understanding and contesting safety and truth determinations); **oversight** leg (detecting harm risk and epistemic degradation); **accountability** leg (answerability for harm, deception, and misleading reliance); [material stake](core_00_preamble.md#material-stake) scaling.
 - Read with: [Two Constitutional Aims](#two-constitutional-aims) — **Flourishing** aim (**Safety** and **Truth** are named constituents under [§2](#2-purpose-and-role)); **Continuity** aim (long-horizon harm prevention and honest stewardship of durable systems).
 - Upstream: Principles: [3. Foundational Objective: Wellbeing](#3-foundational-objective-wellbeing); [Two Constitutional Aims](#two-constitutional-aims).
 - Downstream: [5. Trust](#5-system-stability-enabler-trust-coordination-integrity), [9. Interaction and Conflict Resolution](core_01_b_stewardship_capacity_principles.md#9-interaction-and-conflict-resolution), and [§10 Freedom](core_01_b_stewardship_capacity_principles.md#11-freedom-bounded-agency).
@@ -317,15 +317,15 @@ Granular ceremonies, curricula, budgets, programs, and metrics belong in adoptin
 
 <br>
 
-*In plain terms: Safety and Truth are the Constitution's hard floors — not tradeoffs to optimize away. Shared systems may not foreseeably endanger sentients or deceive them, and both constraints apply within the pursuit of Flourishing and Continuity under the Triad's oversight, participation, and accountability discipline.*
+*In plain terms: Safety and Truth are the Constitution's hard floors — not tradeoffs to optimize away. Shared systems may not foreseeably endanger sentients or deceive them, and both constraints apply within the pursuit of Flourishing and Continuity under the Tetrad's participation, oversight, and accountability discipline.*
 
-**Safety** and **Truth** are non-negotiable constraints that bound every other Chapter One principle — including [§3 Foundational Objective: Wellbeing](#3-foundational-objective-wellbeing) and the [Two Constitutional Aims](#two-constitutional-aims). They are named constituents of [**Flourishing**](#flourishing) and indispensable to [**Continuity**](#continuity): systems cannot flourish through harm or deception, and durable legitimacy requires honest risk stewardship over time. Application of these constraints must satisfy the [Constitutional Triad](core_00_preamble.md#constitutional-triad) — especially where safety determinations affect participation capacity, where truth claims govern reliance, and where accountability for harm or misleading conduct is at stake — scaled to [material stake](core_00_preamble.md#material-stake).
+**Safety** and **Truth** are non-negotiable constraints that bound every other Chapter One principle — including [§3 Foundational Objective: Wellbeing](#3-foundational-objective-wellbeing) and the [Two Constitutional Aims](#two-constitutional-aims). They are named constituents of [**Flourishing**](#flourishing) and indispensable to [**Continuity**](#continuity): systems cannot flourish through harm or deception, and durable legitimacy requires honest risk stewardship over time. Application of these constraints must satisfy the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — especially where safety determinations affect participation capacity, where truth claims govern reliance, and where accountability for harm or misleading conduct is at stake — scaled to [material stake](core_00_preamble.md#material-stake).
 
 #### 4.1 Safety (Harm Constraint)
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Read with: [Constitutional Triad](core_00_preamble.md#constitutional-triad) — **oversight** and **accountability** legs; [material stake](core_00_preamble.md#material-stake) scaling.
+- Read with: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **oversight** and **accountability** legs; [material stake](core_00_preamble.md#material-stake) scaling.
 - Read with: [Two Constitutional Aims](#two-constitutional-aims) — **Flourishing** aim (**Safety** constituent); **Continuity** aim (irreversible-harm prevention and long-horizon risk stewardship).
 - Upstream: Principles: [3. Foundational Objective: Wellbeing](#3-foundational-objective-wellbeing); [Two Constitutional Aims](#two-constitutional-aims).
 - Downstream: [4.3 Science-Informed Inquiry and Decision Support](#43-science-informed-inquiry-and-decision-support), [5. Trust](#5-system-stability-enabler-trust-coordination-integrity), [§10 Freedom](core_01_b_stewardship_capacity_principles.md#11-freedom-bounded-agency), [9. Interaction and Conflict Resolution](core_01_b_stewardship_capacity_principles.md#9-interaction-and-conflict-resolution), and [7.2.1 Preservation of Epistemic Integrity](core_01_b_stewardship_capacity_principles.md#921-preservation-of-epistemic-integrity).
@@ -364,7 +364,7 @@ Safety forbids system conduct or omission that materially increases uncontained 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Read with: [Constitutional Triad](core_00_preamble.md#constitutional-triad) — **oversight** and **accountability** legs; [material stake](core_00_preamble.md#material-stake) scaling.
+- Read with: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **oversight** and **accountability** legs; [material stake](core_00_preamble.md#material-stake) scaling.
 - Read with: [Two Constitutional Aims](#two-constitutional-aims) — **Flourishing** aim (**Truth** constituent); **Continuity** aim (honest stewardship of durable epistemic and institutional conditions).
 - Upstream: Principles: [3. Foundational Objective: Wellbeing](#3-foundational-objective-wellbeing); [Two Constitutional Aims](#two-constitutional-aims).
 - Downstream: [4.3 Science-Informed Inquiry and Decision Support](#43-science-informed-inquiry-and-decision-support), [5. Trust](#5-system-stability-enabler-trust-coordination-integrity), [9. Interaction and Conflict Resolution](core_01_b_stewardship_capacity_principles.md#9-interaction-and-conflict-resolution), [7.2.1 Preservation of Epistemic Integrity](core_01_b_stewardship_capacity_principles.md#921-preservation-of-epistemic-integrity), [7.2.2 Trust-Truth Alignment](core_01_b_stewardship_capacity_principles.md#922-trust-truth-alignment), and [12. Prohibition on Absolute Override](core_01_b_stewardship_capacity_principles.md#12-prohibition-on-absolute-override).
@@ -403,7 +403,7 @@ Where Safety or Truth determinations affect contribution state, verified violati
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Read with: [Constitutional Triad](core_00_preamble.md#constitutional-triad) — **oversight** leg (independent scrutiny, auditability); **participation** leg where affected parties must understand and challenge empirical claims; [material stake](core_00_preamble.md#material-stake) scaling.
+- Read with: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **participation** leg where affected parties must understand and challenge empirical claims; **oversight** leg (independent scrutiny, auditability); [material stake](core_00_preamble.md#material-stake) scaling.
 - Read with: [Two Constitutional Aims](#two-constitutional-aims) — **Flourishing** aim (honest evidence for **Safety** and **Truth**); **Continuity** aim (corrigible, long-horizon empirical stewardship).
 - Upstream: Principles: [4.1 Safety](#41-safety-harm-constraint) and [4.2 Truth](#42-truth-epistemic-integrity-constraint); [Two Constitutional Aims](#two-constitutional-aims).
 - Downstream: [5. Trust](#5-system-stability-enabler-trust-coordination-integrity), [§6 Stewardship and Distributed Understanding](core_01_b_stewardship_capacity_principles.md#6-stewardship-and-distributed-understanding), [9.2 Epistemic Disclosure Constraints](#92-epistemic-disclosure-constraints), [10.1 Required Evaluation Factors](core_01_b_stewardship_capacity_principles.md#101-required-evaluation-factors), and [§7 Governance Under Stewardship Discipline](core_01_b_stewardship_capacity_principles.md#7-governance-under-stewardship-discipline).
@@ -451,7 +451,7 @@ Safety-sensitive limits on publication, data access, method disclosure, or repli
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Read with: [Constitutional Triad](core_00_preamble.md#constitutional-triad) — **participation** leg (understandable engagement); **oversight** leg (audit and verification readability); [material stake](core_00_preamble.md#material-stake) scaling.
+- Read with: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **participation** leg (understandable engagement); **oversight** leg (audit and verification readability); [material stake](core_00_preamble.md#material-stake) scaling.
 - Read with: [Two Constitutional Aims](#two-constitutional-aims) — **Flourishing** aim (meaningful agency through comprehensible **Truth** engagement); **Continuity** aim (durable institutional legibility over time).
 - Upstream: Principles: [4.2 Truth](#42-truth-epistemic-integrity-constraint), [4.3 Science-Informed Inquiry and Decision Support](#43-science-informed-inquiry-and-decision-support), [9.1.4 Minimization of Avoidable Burden](core_01_b_stewardship_capacity_principles.md#914-minimization-of-avoidable-burden), and [§7.4 Stewardship and Operator Incentive Alignment](core_01_b_stewardship_capacity_principles.md#74-stewardship-and-operator-incentive-alignment); [Two Constitutional Aims](#two-constitutional-aims).
 - Downstream: Rights surface: [Article V-G: Accessibility](core_10-10_rights_part_b.md#article-v-g-accessibility), [Article VI: Right to Sentient-Centered Education](core_10-10_rights_part_b.md#article-vi-right-to-sentient-centered-education), [Article XV: Audit, Transparency, and Independent Verification](core_10-10_rights_part_c.md#article-xv-audit-transparency-and-independent-verification), [Article XX: Comprehensibility and Complexity Stewardship](core_10-10_rights_part_c.md#article-xx-comprehensibility-and-complexity-stewardship).
@@ -541,7 +541,7 @@ This section states the plain-language dimension of the principle-layer stewards
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Read with: [Constitutional Triad](core_00_preamble.md#constitutional-triad) — **oversight** leg (contestable detection of systemic risk and trustworthiness); **participation** leg (justified reliance enabling meaningful agency and contestability); **accountability** leg (answerability for misleading reliance); [material stake](core_00_preamble.md#material-stake) scaling.
+- Read with: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **participation** leg (justified reliance enabling meaningful agency and contestability); **oversight** leg (contestable detection of systemic risk and trustworthiness); **accountability** leg (answerability for misleading reliance); [material stake](core_00_preamble.md#material-stake) scaling.
 - Read with: [Two Constitutional Aims](#two-constitutional-aims) — **Flourishing** aim (**trustworthiness** is a named constituent under [§2](#2-purpose-and-role)); **Continuity** aim (durable coordination integrity and system stability over time).
 - Upstream: Principles: [§4 Non-Negotiable Constraints: Safety and Truth](#4-non-negotiable-constraints-safety-and-truth); [§3.2 Recognition, Reinforcement, and Aspiration](#32-recognition-reinforcement-and-aspiration); [Two Constitutional Aims](#two-constitutional-aims).
 - Downstream: [§6 Stewardship and Distributed Understanding](core_01_b_stewardship_capacity_principles.md#6-stewardship-and-distributed-understanding), [7.2.1 Preservation of Epistemic Integrity](core_01_b_stewardship_capacity_principles.md#921-preservation-of-epistemic-integrity), [7.2.2 Trust-Truth Alignment](core_01_b_stewardship_capacity_principles.md#922-trust-truth-alignment), and [12. Prohibition on Absolute Override](core_01_b_stewardship_capacity_principles.md#12-prohibition-on-absolute-override).
@@ -566,15 +566,15 @@ This section states the plain-language dimension of the principle-layer stewards
 
 <br>
 
-*In plain terms: trust is earned through truthfulness and demonstrated reliability over time. It cannot be manufactured through spin, secrecy, or hidden risk transfer — and reliance built on those means is not "trust" within the meaning of this Constitution. Trust coordinates **Flourishing** and **Continuity** together: sentients need systems they can actually rely on, under the Triad's oversight, participation, and accountability discipline scaled to material stake.*
+*In plain terms: trust is earned through truthfulness and demonstrated reliability over time. It cannot be manufactured through spin, secrecy, or hidden risk transfer — and reliance built on those means is not "trust" within the meaning of this Constitution. Trust coordinates **Flourishing** and **Continuity** together: sentients need systems they can actually rely on, under the Tetrad's participation, oversight, and accountability discipline scaled to material stake.*
 
-**Trust** is the coordination bridge between [§4 Safety and Truth](#4-non-negotiable-constraints-safety-and-truth) and the [Two Constitutional Aims](#two-constitutional-aims). **Trustworthiness** is a named constituent of [**Flourishing**](#flourishing); durable [**Continuity**](#continuity) depends on coordination integrity that does not erode through misleading reliance. Application must satisfy the [Constitutional Triad](core_00_preamble.md#constitutional-triad) — especially contestable detection of systemic risk, justified participation under dependency, and accountability for misleading reliance — scaled to [material stake](core_00_preamble.md#material-stake).
+**Trust** is the coordination bridge between [§4 Safety and Truth](#4-non-negotiable-constraints-safety-and-truth) and the [Two Constitutional Aims](#two-constitutional-aims). **Trustworthiness** is a named constituent of [**Flourishing**](#flourishing); durable [**Continuity**](#continuity) depends on coordination integrity that does not erode through misleading reliance. Application must satisfy the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — especially contestable detection of systemic risk, justified participation under dependency, and accountability for misleading reliance — scaled to [material stake](core_00_preamble.md#material-stake).
 
 Shared systems ask sentients to depend on them — for safety, information, access, and coordination. **Trust** is the constitutional rule that such dependence must be warranted by how systems actually behave, not merely induced by how they present themselves.
 
 **Trust** is the coordination condition: reliance must be justified, not merely produced. **Trustworthiness** is the demonstrated basis for that reliance. **Truth** rules out deception. **Safety** bounds reliance where risk is present. **Materiality** determines how much must be shown in context. **Trust Degradation and Misleading Reliance** names the failure mode — reliance induced, preserved, or measured in constitutionally misleading ways.
 
-Trust is a constitutional coordination condition grounded in truth and demonstrated trustworthiness over time — sustaining [**Flourishing**](#flourishing) and [**Continuity**](#continuity) under the [Constitutional Triad](core_00_preamble.md#constitutional-triad), as defined in Chapter Five ([Trust](core_05c_continuity_definitions.md#trust); [Trustworthiness](core_05c_continuity_definitions.md#trustworthiness)).
+Trust is a constitutional coordination condition grounded in truth and demonstrated trustworthiness over time — sustaining [**Flourishing**](#flourishing) and [**Continuity**](#continuity) under the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad), as defined in Chapter Five ([Trust](core_05c_continuity_definitions.md#trust); [Trustworthiness](core_05c_continuity_definitions.md#trustworthiness)).
 
 Incorporated implementation text may operationalize this section where designated. That implementation must not narrow the Chapter Five definitions.
 
@@ -584,7 +584,7 @@ Trust is invalid where reliance is induced or preserved through suppression, dec
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Read with: [Constitutional Triad](core_00_preamble.md#constitutional-triad) — **oversight** and **accountability** legs; [material stake](core_00_preamble.md#material-stake) scaling for recovery and audit depth.
+- Read with: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **oversight** and **accountability** legs; [material stake](core_00_preamble.md#material-stake) scaling for recovery and audit depth.
 - Read with: [Two Constitutional Aims](#two-constitutional-aims) — **Continuity** aim (resilience and self-healing discipline); **Flourishing** aim (trustworthy recovery without epistemic degradation).
 - Upstream: Principles: [2. Purpose and Role](#2-purpose-and-role); [Two Constitutional Aims](#two-constitutional-aims); [4.1 Safety](#41-safety-harm-constraint), [4.2 Truth](#42-truth-epistemic-integrity-constraint), and [5. Trust](#5-system-stability-enabler-trust-coordination-integrity).
 - Downstream: [§6 Stewardship and Distributed Understanding](core_01_b_stewardship_capacity_principles.md#6-stewardship-and-distributed-understanding), [9.1.4 Minimization of Avoidable Burden](core_01_b_stewardship_capacity_principles.md#914-minimization-of-avoidable-burden), [10.1 Required Evaluation Factors](core_01_b_stewardship_capacity_principles.md#101-required-evaluation-factors), [§7 Governance Under Stewardship Discipline](core_01_b_stewardship_capacity_principles.md#7-governance-under-stewardship-discipline), and [12. Prohibition on Absolute Override](core_01_b_stewardship_capacity_principles.md#12-prohibition-on-absolute-override).

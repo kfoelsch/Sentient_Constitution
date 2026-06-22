@@ -325,7 +325,7 @@ If a system cannot yet justify its own calibrated numbers, the interim default s
 - recusal and backup-activation windows short enough that the independence dispute does not itself defeat meaningful remedy;
 - publication windows short enough that challenge rights remain real before practical effect hardens.
 
-**Article XXIII-G tier-default windows (adopter floor).** Until a forum family publishes calibrated targets, the following **maximum** windows apply from the triggering event (filing, protected report, or lawful agency referral) unless a narrower window is required by rights-floor urgency or **Force Majeure** is documented:
+**Article XXIII-G tier-default windows (adopter floor).** Until a forum family publishes calibrated targets, the following **maximum** windows apply from the triggering event (filing, protected report, or lawful agency referral) unless a narrower window is required by **Rights-Floor** urgency or **Force Majeure** is documented:
 
 | **Pipeline stage** | **Tier A** (imminent / dependency-vulnerable) | **Tier B** (material, non-imminent) | **Tier C** (complex / top-slot / cross-border) |
 | --- | --- | --- | --- |

@@ -11,7 +11,7 @@
 <br>
 
 
-This family holds clusters that require simultaneous satisfaction across Triad legs and cannot be owned cleanly by one leg alone: constrained secrecy (Oversight + Accountability) and technical intervention integrity (Accountability + Continuity, complementing **CJS-5.14** governance authorization).
+This family holds clusters that require simultaneous satisfaction across Tetrad legs and cannot be owned cleanly by one leg alone: constrained secrecy (Oversight + Accountability) and technical intervention integrity (Accountability + Continuity, complementing **CJS-5.14** (*Accountability: intervention governance and override-authorization terms*)).
 
 | Cluster | Section |
 |---|---|

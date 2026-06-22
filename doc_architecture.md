@@ -62,7 +62,7 @@ Machine-checkable rules: [tools/architecture/rule_registry.json](tools/architect
 ### What counts as a definition
 
 - **Hard definitions:** Ch 2–4 (`core_02-04_definition_mechanics.md`); Chapter Five §1–§3 (single-home rule below).
-- **Values language:** Chapter One — [Constitutional Triad](core_00_preamble.md#constitutional-triad), [Two Constitutional Aims](core_01_a_values_principles.md#two-constitutional-aims) (**Flourishing** / **Continuity**), and [material stake](core_00_preamble.md#material-stake) at principle layer; vocabulary anchor + cluster index at end of Chapter One, Part B. Use **Continuity aim** when linking to §2; reserve bare *continuity* for operational uses elsewhere.
+- **Values language:** Chapter One — [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad), [Two Constitutional Aims](core_01_a_values_principles.md#two-constitutional-aims) (**Flourishing** / **Continuity**), and [material stake](core_00_preamble.md#material-stake) at principle layer; vocabulary anchor + cluster index at end of Chapter One, Part B. Use **Continuity aim** when linking to §2; reserve bare *continuity* for operational uses elsewhere.
 - **Standing:** Ch 6–7 (**verified** inputs); Ch 9 forums for **allegations**, not standing calculus.
 - **Rights:** Chapter Ten; implementation files **cite** articles.
 - **Joint operational terms:** `corpus_joint_structure.md` only — route via **CJS-2.1**.
@@ -119,7 +119,7 @@ One collapsed **Corpus placement** widget per audited file top. Summary label: *
 
 ### Plain-language guardrails (summary)
 
-Capitalize **Constitutional Triad**, **Two Constitutional Aims**, **Flourishing**, **Continuity** (constitutional aim sense), **material stake**, **Wellbeing**, **Safety**, **Truth**, **Rights Floor**, and **Foundational Rights** when they name constitutional layers. Full tables: [tools/architecture/lexical_guardrails.json](tools/architecture/lexical_guardrails.json). Forum vocabulary: [.cursor/rules/sentient-constitution.mdc](.cursor/rules/sentient-constitution.mdc).
+Capitalize **Constitutional Tetrad**, **Two Constitutional Aims**, **Flourishing**, **Continuity** (constitutional aim sense), **material stake**, **Wellbeing**, **Safety**, **Truth**, **Rights Floor**, and **Foundational Rights** when they name constitutional layers. Full tables: [tools/architecture/lexical_guardrails.json](tools/architecture/lexical_guardrails.json). Forum vocabulary: [.cursor/rules/sentient-constitution.mdc](.cursor/rules/sentient-constitution.mdc).
 
 ### Order and single-home discipline
 

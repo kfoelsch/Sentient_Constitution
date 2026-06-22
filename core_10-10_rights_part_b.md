@@ -1273,7 +1273,7 @@ Stakeholders identified under **Chapter Five** must have participation and repre
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: Principles: Chapter One [4.2 Truth](core_01_a_values_principles.md#42-truth-epistemic-integrity-constraint), [§10 Freedom](core_01_b_stewardship_capacity_principles.md#11-freedom-bounded-agency), and [10.1 Required Evaluation Factors](core_01_b_stewardship_capacity_principles.md#101-required-evaluation-factors).
-- Read with: [Constitutional Triad](core_00_preamble.md#constitutional-triad) — **participation** leg (Stakeholder System Participation layer); [material stake](core_00_preamble.md#material-stake) scaling.
+- Read with: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **participation** leg (Stakeholder System Participation layer); [material stake](core_00_preamble.md#material-stake) scaling.
 
 </details>
 

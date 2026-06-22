@@ -11,7 +11,7 @@
 <br>
 
 
-This family operationalizes the **Participation** leg of the [Constitutional Triad](../core_00_preamble.md#constitutional-triad): quorum, comprehension, salience, and disclosure pathways that let materially affected sentients understand, contest, and shape outcomes. Primary constitutional aim: [Flourishing](../core_01_a_values_principles.md#flourishing).
+This family operationalizes the **Participation** leg of the [Constitutional Tetrad](../core_00_preamble.md#constitutional-tetrad): quorum, comprehension, salience, and disclosure pathways that let materially affected sentients understand, contest, and shape outcomes. Primary constitutional aim: [Flourishing](../core_01_a_values_principles.md#flourishing).
 
 | Cluster | Section |
 |---|---|

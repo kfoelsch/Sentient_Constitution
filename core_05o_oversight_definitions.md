@@ -18,7 +18,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [Chapter Five compass](core_05-05_definitions_a_independent.md#chapter-five-compass-and-definition-map); [Constitutional Triad](../core_00_preamble.md#constitutional-triad); [Two Constitutional Aims](../core_01_a_values_principles.md#two-constitutional-aims).
+- Upstream: [Chapter Five compass](core_05-05_definitions_a_independent.md#chapter-five-compass-and-definition-map); [Constitutional Tetrad](../core_00_preamble.md#constitutional-tetrad); [Two Constitutional Aims](../core_01_a_values_principles.md#two-constitutional-aims).
 - Downstream: Oversight-band canonical definition homes for Chapter Five.
 - Read with: **Oversight** band definitions; mandatory cluster read-with where admission scope applies.
 
@@ -27,7 +27,7 @@
 <br>
 
 
-This band holds **Oversight**-leg definitions from the [Constitutional Triad](../core_00_preamble.md#constitutional-triad): transparency, auditability, truth, materiality classification, and strategic stewardship oversight. Primary constitutional aim: [Flourishing](../core_01_a_values_principles.md#flourishing), with Continuity-scaled clusters where noted in the compass.
+This band holds **Oversight**-leg definitions from the [Constitutional Tetrad](../core_00_preamble.md#constitutional-tetrad): transparency, auditability, truth, materiality classification, and strategic stewardship oversight. Primary constitutional aim: [Flourishing](../core_01_a_values_principles.md#flourishing), with Continuity-scaled clusters where noted in the compass.
 
 | Cluster | Section |
 |---|---|
@@ -88,7 +88,7 @@ This band holds **Oversight**-leg definitions from the [Constitutional Triad](..
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: [Constitutional Triad](core_00_preamble.md#constitutional-triad) — [material stake](core_00_preamble.md#material-stake) scaling.
+- Upstream: Principles: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — [material stake](core_00_preamble.md#material-stake) scaling.
 - Cluster component: [Chapter Five §3.23 *Material Impact, Materiality Determination, Classification-Scaled Governance, Oversight, and Capability Requirement*](core_05c_continuity_definitions.md#materiality-semi-independent).
 - Read with: [Dependency](core_05c_continuity_definitions.md#dependency), [Material Impact](core_05o_oversight_definitions.md#material-impact), [Risk](core_05c_continuity_definitions.md#risk), [System Boundary Integrity](core_05c_continuity_definitions.md#system-boundary-integrity), and [Oversight](core_05o_oversight_definitions.md#oversight-constitutional).
 
@@ -111,7 +111,7 @@ This band holds **Oversight**-leg definitions from the [Constitutional Triad](..
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [Constitutional Triad](core_00_preamble.md#constitutional-triad) (oversight leg; [material stake](core_00_preamble.md#material-stake) scaling); [§7 Governance Under Stewardship Discipline](core_01_b_stewardship_capacity_principles.md#7-governance-under-stewardship-discipline).
+- Downstream: Principles: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) (oversight leg; [material stake](core_00_preamble.md#material-stake) scaling); [§7 Governance Under Stewardship Discipline](core_01_b_stewardship_capacity_principles.md#7-governance-under-stewardship-discipline).
 - Cluster component: [Governance Architecture, Oversight, Dependency, Decentralization, Concentration, Market Structure, and Exit-Path Integrity](core_05a_accountability_definitions.md#governance-architecture-oversight-decentralization-and-concentration-cluster).
 - Read with: [Chapter Five §3.23 *Material Impact, Materiality Determination, Classification-Scaled Governance, Oversight, and Capability Requirement*](core_05c_continuity_definitions.md#materiality-semi-independent), [Accountability](core_05a_accountability_definitions.md#accountability), [Contestability](core_05a_accountability_definitions.md#contestability), [Transparency](core_05o_oversight_definitions.md#transparency), [Auditability](core_05o_oversight_definitions.md#auditability), and [System Capture](core_05c_continuity_definitions.md#system-capture).
 
@@ -439,7 +439,7 @@ while defeating practical reconstructability, contestability, or proportionate a
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [Constitutional Triad](core_00_preamble.md#constitutional-triad) — **oversight** leg; [§6 Stewardship and Distributed Understanding](core_01_b_stewardship_capacity_principles.md#6-stewardship-and-distributed-understanding), [6.2.1 Preservation of Epistemic Integrity](core_01_b_stewardship_capacity_principles.md#921-preservation-of-epistemic-integrity).
+- Downstream: Principles: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **oversight** leg; [§6 Stewardship and Distributed Understanding](core_01_b_stewardship_capacity_principles.md#6-stewardship-and-distributed-understanding), [6.2.1 Preservation of Epistemic Integrity](core_01_b_stewardship_capacity_principles.md#921-preservation-of-epistemic-integrity).
 - Read with: [Epistemic Integrity](core_05o_oversight_definitions.md#epistemic-integrity), [Truth (Constitutional Constraint)](core_05o_oversight_definitions.md#truth-constitutional-constraint), [Contestability](core_05a_accountability_definitions.md#contestability), and [Auditability](core_05o_oversight_definitions.md#auditability).
 
 </details>
@@ -472,7 +472,7 @@ while defeating practical reconstructability, contestability, or proportionate a
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Read with: [Constitutional Triad](core_00_preamble.md#constitutional-triad) — **oversight** leg; [Accountability](core_05a_accountability_definitions.md#accountability), [Contestability](core_05a_accountability_definitions.md#contestability), [Epistemic Integrity](core_05o_oversight_definitions.md#epistemic-integrity), and [Transparency](core_05o_oversight_definitions.md#transparency).
+- Read with: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **oversight** leg; [Accountability](core_05a_accountability_definitions.md#accountability), [Contestability](core_05a_accountability_definitions.md#contestability), [Epistemic Integrity](core_05o_oversight_definitions.md#epistemic-integrity), and [Transparency](core_05o_oversight_definitions.md#transparency).
 - Read with: owner-layer mechanics in [core_02-04_definition_mechanics.md](core_02-04_definition_mechanics.md) Chapters Two through Four.
 
 </details>

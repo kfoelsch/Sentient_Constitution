@@ -5,7 +5,7 @@
 
 > The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this file or in other chapters.
 >
-> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one instrument. It contains **Chapter Eight**, the standing-pipeline top-slot finalization chapter for final Violation Axis `s = 7`, `s = 8`, and `s = 9` anti-constitutional misconduct assignment inside the pipeline begun in [Chapter Six](core_06-06_standing_assessment.md#chapter-six-compliance-violation-and-standing-model) and integrated in [Chapter Seven](core_07-07_standing_integration.md#chapter-seven-standing-effects-and-integration). It does **not** replace general violation classification outside those top slots. Anti-constitutional misconduct at **s = 7, 8, or 9** is triad capture at scale — read with the [Continuity aim](core_01_a_values_principles.md#continuity) under [Two Constitutional Aims](core_01_a_values_principles.md#two-constitutional-aims). Change-path validity interactions continue in [Chapters Twelve through Fourteen](core_12-14_amendment.md#chapter-twelve-non-regression-and-substantive-amendment-validity); justice constraints remain in [Chapter Ten Part D](core_10-10_rights_part_d.md). Chapter numbering and cross-references match the integrated instrument. Reading order, the binding/support split, and corpus edition metadata are maintained in [README.md](README.md).
+> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one instrument. It contains **Chapter Eight**, the standing-pipeline top-slot finalization chapter for final Violation Axis `s = 7`, `s = 8`, and `s = 9` anti-constitutional misconduct assignment inside the pipeline begun in [Chapter Six](core_06-06_standing_assessment.md#chapter-six-compliance-violation-and-standing-model) and integrated in [Chapter Seven](core_07-07_standing_integration.md#chapter-seven-standing-effects-and-integration). It does **not** replace general violation classification outside those top slots. Anti-constitutional misconduct at **s = 7, 8, or 9** is **tetrad capture** at scale — read with the [Continuity aim](core_01_a_values_principles.md#continuity) under [Two Constitutional Aims](core_01_a_values_principles.md#two-constitutional-aims). Change-path validity interactions continue in [Chapters Twelve through Fourteen](core_12-14_amendment.md#chapter-twelve-non-regression-and-substantive-amendment-validity); justice constraints remain in [Chapter Ten Part D](core_10-10_rights_part_d.md). Chapter numbering and cross-references match the integrated instrument. Reading order, the binding/support split, and corpus edition metadata are maintained in [README.md](README.md).
 
 </details>
 
@@ -17,11 +17,11 @@
 
 ## CHAPTER EIGHT: ANTI-CONSTITUTIONAL MISCONDUCT
 
-*Non-operative subtitle:* Continuity and triad-capture guard at Violation Axis **s = 7, 8, or 9**.
+*Non-operative subtitle:* Continuity and tetrad-capture guard at Violation Axis **s = 7, 8, or 9**.
 
 This chapter is used only for the most serious anti-constitutional misconduct. It does not cover every violation, and it does not create a separate process. Its job is to decide whether a verified anti-constitutional violation belongs in one of the three highest **Violation Axis** slots: **s = 7**, **s = 8**, or **s = 9**.
 
-Under the [Continuity aim](core_01_a_values_principles.md#continuity) and [Two Constitutional Aims](core_01_a_values_principles.md#two-constitutional-aims), top-slot assignment protects long-horizon constitutional operation when conduct threatens to hollow the [Constitutional Triad](core_00_preamble.md#constitutional-triad) — **oversight**, **participation**, and **accountability** — below [material stake](core_00_preamble.md#material-stake) requirements. Read [Chapters Six–Nine constitutional compass](core_06-06_standing_assessment.md#chapters-six-nine-constitutional-compass) first.
+Under the [Continuity aim](core_01_a_values_principles.md#continuity) and [Two Constitutional Aims](core_01_a_values_principles.md#two-constitutional-aims), top-slot assignment protects long-horizon constitutional operation when conduct threatens to hollow the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **participation**, **oversight**, **accountability**, and **timeliness** — below [material stake](core_00_preamble.md#material-stake) requirements. Read [Chapters Six–Nine constitutional compass](core_06-06_standing_assessment.md#chapters-six-nine-constitutional-compass) first.
 
 By the time a matter reaches this chapter, the basic work should already be done. Chapter Six should have opened a bounded **violation standing record**, applied the **verified input** gate, and placed the matter on the shared classification scale. Chapter Seven should have handled ordinary standing integration, including any standing locks and consequence rules.
 
@@ -61,13 +61,13 @@ The named patterns in section 6.1 are not separate shortcuts. Flooding, bribery,
 
 <br>
 
-*In plain terms: Under the [Continuity aim](core_01_a_values_principles.md#continuity), this chapter **guards** the top of the standing pipeline — it decides only whether verified misconduct reaches the highest three violation slots after Chapters Six and Seven have done their work, when conduct amounts to **triad capture** at scale.*
+*In plain terms: Under the [Continuity aim](core_01_a_values_principles.md#continuity), this chapter **guards** the top of the standing pipeline — it decides only whether verified misconduct reaches the highest three violation slots after Chapters Six and Seven have done their work, when conduct amounts to **tetrad capture** at scale.*
 
 <a id="1-scope-and-authority"></a>
 
 <a id="chapter-eight-part-a-continuity-frame"></a>
 
-### 1. Decision framework, scope, and authority — Continuity and triad-capture frame
+### 1. Decision framework, scope, and authority — Continuity and tetrad-capture frame
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
@@ -78,7 +78,7 @@ The named patterns in section 6.1 are not separate shortcuts. Flooding, bribery,
 - Safeguards and discipline: [§4](#4-due-process-safeguards-for-slot-classification) (*Due-process safeguards*); [§5](#5-cross-chapter-discipline) (*Cross-chapter discipline*).
 - Pattern applications: [§6](#6-pattern-applications-and-criteria-routing) (*named patterns route into the same criteria and slot rules*).
 - Read with: [Chapters Twelve through Fourteen](core_12-14_amendment.md#chapter-twelve-non-regression-and-substantive-amendment-validity) where **regressive deception** and change-path conduct may implicate **criteria 1–4**.
-- Triad leg(s): **oversight**, **participation**, **accountability** (triad capture at scale). Primary aim(s): **Continuity** (primary), **Flourishing**. [material stake](core_00_preamble.md#material-stake) scaling applies to safeguards and gravity.
+- Tetrad leg(s): **participation**, **oversight**, **accountability**, **timeliness** (tetrad capture at scale). Primary aim(s): **Continuity** (primary), **Flourishing**. [material stake](core_00_preamble.md#material-stake) scaling applies to safeguards and gravity.
 
 </details>
 

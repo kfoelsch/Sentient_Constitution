@@ -18,7 +18,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [Chapter Five compass](core_05-05_definitions_a_independent.md#chapter-five-compass-and-definition-map); [Constitutional Triad](../core_00_preamble.md#constitutional-triad); [Two Constitutional Aims](../core_01_a_values_principles.md#two-constitutional-aims).
+- Upstream: [Chapter Five compass](core_05-05_definitions_a_independent.md#chapter-five-compass-and-definition-map); [Constitutional Tetrad](../core_00_preamble.md#constitutional-tetrad); [Two Constitutional Aims](../core_01_a_values_principles.md#two-constitutional-aims).
 - Downstream: Participation-band canonical definition homes for Chapter Five.
 - Read with: **Participation** band definitions; mandatory cluster read-with where admission scope applies.
 
@@ -392,7 +392,7 @@ Independent Definitions must not fragment, isolate, or redistribute compliance i
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [Constitutional Triad](core_00_preamble.md#constitutional-triad) — **participation** leg; [§10 Freedom (Bounded Agency)](core_01_b_stewardship_capacity_principles.md#11-freedom-bounded-agency), [9.1 Core Tradeoff Principles](core_01_b_stewardship_capacity_principles.md#91-core-tradeoff-principles), and [10.1 Required Evaluation Factors](core_01_b_stewardship_capacity_principles.md#101-required-evaluation-factors) where participation, dependency, and material impact determine the intensity of agency protection.
+- Downstream: Principles: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **participation** leg; [§10 Freedom (Bounded Agency)](core_01_b_stewardship_capacity_principles.md#11-freedom-bounded-agency), [9.1 Core Tradeoff Principles](core_01_b_stewardship_capacity_principles.md#91-core-tradeoff-principles), and [10.1 Required Evaluation Factors](core_01_b_stewardship_capacity_principles.md#101-required-evaluation-factors) where participation, dependency, and material impact determine the intensity of agency protection.
 - Cluster component: [Chapter Five §3.8 *Self-Determination, Meaningful Agency, Expression, Educational Agency, and Volitional Integrity*](core_05c_continuity_definitions.md#self-determination-and-meaningful-agency-cluster), and [Chapter Five §2 *Agency, Consent, and Anti-Coercion*](core_05c_continuity_definitions.md#agency-consent-and-anti-coercion-semi-independent).
 - Read with: [Freedom (Bounded Agency)](core_05p_participation_definitions.md#freedom-bounded-agency), [Consent](core_05p_participation_definitions.md#consent-constitutional), [Coercion and Manipulation](core_05p_participation_definitions.md#coercion-and-manipulation-constitutional), [Dependency](core_05c_continuity_definitions.md#dependency), [Contestability](core_05a_accountability_definitions.md#contestability), [Systemic Lock-In](core_05c_continuity_definitions.md#systemic-lock-in), and [Dignity and Equal Moral Standing](core_05p_participation_definitions.md#dignity-and-equal-moral-standing).
 
@@ -1128,7 +1128,7 @@ Unless this Constitution expressly provides otherwise, **sentient** and **sentie
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Owner floor: [Chapter Eleven §4.3](core_11-11_governance.md#43-decision-resolution-requirements-for-binding-collective-choice) (*Decision-resolution requirements for binding stakeholder choice*).
-- Read with: [Constitutional Triad](core_00_preamble.md#constitutional-triad) — **participation** leg (Stakeholder System Participation layer, distinct from Constitutional Contract Layer authorization); [material stake](core_00_preamble.md#material-stake) scaling.
+- Read with: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **participation** leg (Stakeholder System Participation layer, distinct from Constitutional Contract Layer authorization); [material stake](core_00_preamble.md#material-stake) scaling.
 - Read with: [Stakeholder Status, Emergency, and Participation Weight](core_05p_participation_definitions.md#stakeholder-status-emergency-and-participation-weight-cluster), [Governance](core_05a_accountability_definitions.md#governance), [Constitutional Contract Layer](core_05i_integrative_definitions.md#constitutional-contract-layer), [Foundational Constitutional Choice](core_05i_integrative_definitions.md#foundational-constitutional-choice), [Stakeholder Participation Weight](core_05p_participation_definitions.md#stakeholder-participation-weight), [Article XI](core_10-10_rights_part_b.md#article-xi-stakeholder-system-participation-representation-and-due-process), [Article XXIII-F: Rights-Collision Procedure and Restorative Alignment](core_10-10_rights_part_d.md#article-xxiii-f-rights-collision-procedure-and-restorative-alignment), and [Chapter One §9.4](core_01_b_stewardship_capacity_principles.md#94-rights-collision-procedure).
 
 - Constitutional frame: **Participation** leg; **Flourishing** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality Determination](../core_05o_oversight_definitions.md#materiality-determination).
@@ -1229,7 +1229,7 @@ This cluster is the joint-invocation home for self-determination, meaningful age
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Cluster component: [Chapter Five §3.7 *Self-Determination, Meaningful Agency, Expression, Educational Agency, and Volitional Integrity*](core_05c_continuity_definitions.md#self-determination-and-meaningful-agency-cluster).
-- Read with: [Constitutional Triad](core_00_preamble.md#constitutional-triad) — **participation** leg; [Two Constitutional Aims](core_01_a_values_principles.md#two-constitutional-aims) — **Flourishing** aim (*cluster read-with principles*).
+- Read with: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **participation** leg; [Two Constitutional Aims](core_01_a_values_principles.md#two-constitutional-aims) — **Flourishing** aim (*cluster read-with principles*).
 - Owner floor: **[Article IX-A](core_10-10_rights_part_b.md#article-ix-a-agency-and-freedom-from-manipulation)** (*agency and freedom from manipulation*).
 - Read with: [Freedom (Bounded Agency)](core_05p_participation_definitions.md#freedom-bounded-agency) and [Meaningful Agency](core_05p_participation_definitions.md#meaningful-agency) where materially implicated.
 

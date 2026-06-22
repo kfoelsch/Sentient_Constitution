@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/crossref_matrix.schema.json",
-  "generated_at": "2026-06-20T14:00:35+00:00",
+  "generated_at": "2026-06-22T07:21:36+00:00",
   "description": "Source-derived file-to-file Markdown reference graph.",
   "graph": {
     "nodes": [
@@ -401,9 +401,17 @@
             ]
           },
           {
-            "file": "core_05c_continuity_definitions.md",
+            "file": "core_05a_accountability_definitions.md",
             "count": 1,
             "anchors": [
+              "#timely-resolution-constitutional"
+            ]
+          },
+          {
+            "file": "core_05c_continuity_definitions.md",
+            "count": 2,
+            "anchors": [
+              "#constitutional-efficiency",
               "#materiality-semi-independent"
             ]
           },
@@ -448,7 +456,7 @@
             "count": 38,
             "anchors": [
               "#chapter-00-preamble--foundational-requirements",
-              "#constitutional-triad",
+              "#constitutional-tetrad",
               "#material-stake"
             ]
           },
@@ -695,10 +703,10 @@
         "targets": [
           {
             "file": "core_00_preamble.md",
-            "count": 69,
+            "count": 70,
             "anchors": [
               "#chapter-00-preamble--foundational-requirements",
-              "#constitutional-triad",
+              "#constitutional-tetrad",
               "#material-stake"
             ]
           },
@@ -725,7 +733,7 @@
           },
           {
             "file": "core_05a_accountability_definitions.md",
-            "count": 228,
+            "count": 231,
             "anchors": [
               "#accountability",
               "#accountability-c",
@@ -776,7 +784,8 @@
               "#proportionality-c",
               "#proportionality-e",
               "#systemic",
-              "#systemic-materiality"
+              "#systemic-materiality",
+              "#timeliness-constitutional"
             ]
           },
           {
@@ -1060,7 +1069,7 @@
             "count": 6,
             "anchors": [
               "#chapter-00-preamble--foundational-requirements",
-              "#constitutional-triad",
+              "#constitutional-tetrad",
               "#material-stake"
             ]
           },
@@ -1192,7 +1201,7 @@
           },
           {
             "file": "core_05a_accountability_definitions.md",
-            "count": 65,
+            "count": 67,
             "anchors": [
               "#accountability",
               "#adjudication-and-dispute-resolution-constitutional",
@@ -1245,6 +1254,8 @@
               "#standing-record-chapter-six",
               "#standing-state-contribution-and-violation-cluster",
               "#sustained-high-gravity-pattern",
+              "#timeliness-constitutional",
+              "#timely-resolution-constitutional",
               "#top-slot-review",
               "#unified-incident",
               "#unified-record",
@@ -1451,7 +1462,7 @@
             "file": "core_00_preamble.md",
             "count": 9,
             "anchors": [
-              "#constitutional-triad",
+              "#constitutional-tetrad",
               "#material-stake"
             ]
           },
@@ -1606,7 +1617,7 @@
             "count": 7,
             "anchors": [
               "#chapter-00-preamble--foundational-requirements",
-              "#constitutional-triad",
+              "#constitutional-tetrad",
               "#material-stake"
             ]
           },
@@ -1867,9 +1878,9 @@
         "targets": [
           {
             "file": "core_00_preamble.md",
-            "count": 6,
+            "count": 9,
             "anchors": [
-              "#constitutional-triad",
+              "#constitutional-tetrad",
               "#material-stake"
             ]
           },
@@ -1906,6 +1917,11 @@
             ]
           },
           {
+            "file": "core_02-04_definition_mechanics.md",
+            "count": 1,
+            "anchors": []
+          },
+          {
             "file": "core_05-05_definitions_a_independent.md",
             "count": 2,
             "anchors": [
@@ -1915,7 +1931,7 @@
           },
           {
             "file": "core_05a_accountability_definitions.md",
-            "count": 360,
+            "count": 375,
             "anchors": [
               "#accountability",
               "#accountability-contestability-semi-independent",
@@ -1963,6 +1979,8 @@
               "#standing-lock",
               "#standing-record-chapter-six",
               "#sustained-high-gravity-pattern",
+              "#timeliness-constitutional",
+              "#timely-resolution-constitutional",
               "#top-slot-review",
               "#unified-incident",
               "#unified-record",
@@ -1976,8 +1994,9 @@
           },
           {
             "file": "core_05c_continuity_definitions.md",
-            "count": 107,
+            "count": 120,
             "anchors": [
+              "#avoidable-burden",
               "#cascading-failure",
               "#constitutional-efficiency",
               "#dependency",
@@ -2013,7 +2032,7 @@
           },
           {
             "file": "core_05i_integrative_definitions.md",
-            "count": 17,
+            "count": 18,
             "anchors": [
               "#accountability-contestability-and-collective-accountability-failure-cluster",
               "#constitutional-constraint-violation",
@@ -2025,7 +2044,7 @@
           },
           {
             "file": "core_05o_oversight_definitions.md",
-            "count": 96,
+            "count": 97,
             "anchors": [
               "#adversarial-scaled-and-exploited-conditions",
               "#auditability",
@@ -2046,7 +2065,7 @@
           },
           {
             "file": "core_05p_participation_definitions.md",
-            "count": 89,
+            "count": 91,
             "anchors": [
               "#coercion-and-manipulation-constitutional",
               "#collective-harm-boundary-and-harm-cluster",
@@ -2069,7 +2088,7 @@
           },
           {
             "file": "core_06-06_standing_assessment.md",
-            "count": 33,
+            "count": 35,
             "anchors": [
               "#2-purpose-and-role",
               "#2-standing-records",
@@ -2088,15 +2107,17 @@
           },
           {
             "file": "core_07-07_standing_integration.md",
-            "count": 11,
+            "count": 13,
             "anchors": [
               "#5-standing-effects",
+              "#52-remedy-organ-durability",
               "#6-extended-axis-ii-legal-hybrid-duty-and-harm-descriptors",
               "#73-stackable-harm-and-conduct-descriptors-violation-nature-supplement",
               "#8-cross-axis-coupling-and-escalation-constraints",
               "#chapter-seven-standing-effects-and-integration",
               "#competency-gates",
-              "#standing-integration-slot-band-standing-locks"
+              "#standing-integration-slot-band-standing-locks",
+              "#standing-locks-in-the-standing-model"
             ]
           },
           {
@@ -2113,7 +2134,7 @@
           },
           {
             "file": "core_09-09_forum.md",
-            "count": 13,
+            "count": 14,
             "anchors": [
               "#2-default-venue-and-primary-stakes",
               "#421-sentient-forums",
@@ -2163,12 +2184,13 @@
           },
           {
             "file": "core_10-10_rights_part_d.md",
-            "count": 9,
+            "count": 10,
             "anchors": [
               "#article-xxiii-b-non-trivial-restriction-restitution-and-restorative-accountability-constraints",
               "#article-xxiii-c-least-restrictive-and-time-bounded-rule",
               "#article-xxiii-conflict-resolution-escalation-and-emergency-proportionality",
               "#article-xxiii-d-emergency-measures-and-continuation-burden",
+              "#article-xxiii-g-timely-resolution-and-anti-delay-floor",
               "#article-xxiv-constitutional-evolution-and-non-entrenchment",
               "#article-xxv-transition-governance-continuity-and-re-baselining"
             ]
@@ -2195,10 +2217,10 @@
         "targets": [
           {
             "file": "core_00_preamble.md",
-            "count": 6,
+            "count": 7,
             "anchors": [
               "#chapter-00-preamble--foundational-requirements",
-              "#constitutional-triad",
+              "#constitutional-tetrad",
               "#material-stake"
             ]
           },
@@ -2252,7 +2274,7 @@
           },
           {
             "file": "core_05a_accountability_definitions.md",
-            "count": 132,
+            "count": 136,
             "anchors": [
               "#accountability",
               "#accountability-contestability-semi-independent",
@@ -2272,7 +2294,8 @@
               "#privacy-informational-cluster",
               "#proportionality",
               "#psychological-harm",
-              "#redress-and-remediation-constitutional"
+              "#redress-and-remediation-constitutional",
+              "#timeliness-constitutional"
             ]
           },
           {
@@ -2479,7 +2502,7 @@
             "count": 4,
             "anchors": [
               "#chapter-00-preamble--foundational-requirements",
-              "#constitutional-triad",
+              "#constitutional-tetrad",
               "#material-stake"
             ]
           },
@@ -2638,7 +2661,7 @@
             "file": "core_00_preamble.md",
             "count": 12,
             "anchors": [
-              "#constitutional-triad",
+              "#constitutional-tetrad",
               "#material-stake"
             ]
           },
@@ -2694,7 +2717,7 @@
           },
           {
             "file": "core_05o_oversight_definitions.md",
-            "count": 13,
+            "count": 15,
             "anchors": [
               "#foreseeability-diligence",
               "#foreseeability-diligence-c",
@@ -2722,24 +2745,32 @@
           },
           {
             "file": "core_07-07_standing_integration.md",
-            "count": 26,
+            "count": 53,
             "anchors": [
+              "#210-safe-delegation-competency-gate-dimensions",
+              "#30-non-recurrence-evaluation-and-integration-examples",
+              "#310-non-recurrence-lock-dimensions",
+              "#35-positive-standing-recognition",
               "#38-standing-integration-contribution-and-violation-nature",
               "#5-standing-effects",
               "#6-extended-axis-ii-legal-hybrid-duty-and-harm-descriptors",
+              "#71-shared-domain-lenses-cross-axis-vocabulary",
               "#73-stackable-harm-and-conduct-descriptors-violation-nature-supplement",
               "#8-cross-axis-coupling-and-escalation-constraints",
               "#8-enforcement-realism-anchors",
               "#9-violation-axis-s-7-9-anti-constitutional-misconduct-authoritative-location",
               "#chapter-seven-standing-effects-and-integration",
               "#competency-gates",
+              "#standing-integration-slot-band-standing-locks",
               "#standing-locks-in-the-standing-model",
-              "#standing-orientation-by-violation-slot"
+              "#standing-orientation-by-violation-slot",
+              "#table-c-harm-route-q2-integration",
+              "#table-d-benefit-route-q2-integration"
             ]
           },
           {
             "file": "core_08-08_misconduct.md",
-            "count": 7,
+            "count": 9,
             "anchors": [
               "#chapter-eight-anti-constitutional-misconduct"
             ]
@@ -2754,18 +2785,19 @@
           },
           {
             "file": "core_10-10_rights_part_c.md",
-            "count": 1,
+            "count": 2,
             "anchors": [
               "#article-xii-b-right-to-challenge-review-and-redress"
             ]
           },
           {
             "file": "core_10-10_rights_part_d.md",
-            "count": 3,
+            "count": 4,
             "anchors": [
               "#article-xxiii-a-justice-objective-and-scope",
               "#article-xxiii-b-non-trivial-restriction-restitution-and-restorative-accountability-constraints",
-              "#article-xxiii-c-least-restrictive-and-time-bounded-rule"
+              "#article-xxiii-c-least-restrictive-and-time-bounded-rule",
+              "#article-xxiii-g-timely-resolution-and-anti-delay-floor"
             ]
           },
           {
@@ -2787,13 +2819,13 @@
             "file": "core_00_preamble.md",
             "count": 5,
             "anchors": [
-              "#constitutional-triad",
+              "#constitutional-tetrad",
               "#material-stake"
             ]
           },
           {
             "file": "core_01_a_values_principles.md",
-            "count": 8,
+            "count": 9,
             "anchors": [
               "#3-foundational-objective-wellbeing",
               "#4-non-negotiable-constraints-safety-and-truth",
@@ -2804,8 +2836,9 @@
           },
           {
             "file": "core_01_b_stewardship_capacity_principles.md",
-            "count": 7,
+            "count": 9,
             "anchors": [
+              "#1012-accessibility-under-sentience-non-exclusion",
               "#11-freedom-bounded-agency",
               "#12-prohibition-on-absolute-override",
               "#6-stewardship-and-distributed-understanding",
@@ -2815,14 +2848,14 @@
           },
           {
             "file": "core_05-05_definitions_a_independent.md",
-            "count": 2,
+            "count": 1,
             "anchors": [
               "#chapter-five-foundational-definitions"
             ]
           },
           {
             "file": "core_05a_accountability_definitions.md",
-            "count": 175,
+            "count": 233,
             "anchors": [
               "#accountability",
               "#accountability-c",
@@ -2831,6 +2864,8 @@
               "#collective-accountability-failure-c",
               "#collective-accountability-failure-e",
               "#competency-gate",
+              "#competency-gate-c",
+              "#competency-gate-e",
               "#contestability",
               "#contestability-c",
               "#contestability-e",
@@ -2855,12 +2890,13 @@
               "#standing-lock",
               "#standing-lock-c",
               "#standing-lock-e",
+              "#timeliness-constitutional",
               "#verified-violation-findings"
             ]
           },
           {
             "file": "core_05c_continuity_definitions.md",
-            "count": 18,
+            "count": 22,
             "anchors": [
               "#ecological-integrity-constitutional",
               "#ecological-integrity-constitutional-c",
@@ -2869,12 +2905,13 @@
               "#environmental-preconditions-constitutional-c",
               "#environmental-preconditions-constitutional-e",
               "#trustworthiness",
+              "#trustworthiness-c",
               "#trustworthiness-e"
             ]
           },
           {
             "file": "core_05i_integrative_definitions.md",
-            "count": 18,
+            "count": 22,
             "anchors": [
               "#constitutional-constraint-violation",
               "#constitutional-constraint-violation-c",
@@ -2884,7 +2921,7 @@
           },
           {
             "file": "core_05o_oversight_definitions.md",
-            "count": 62,
+            "count": 74,
             "anchors": [
               "#auditability",
               "#auditability-c",
@@ -2919,24 +2956,49 @@
           },
           {
             "file": "core_06-06_standing_assessment.md",
-            "count": 35,
+            "count": 95,
             "anchors": [
+              "#11-two-question-evaluation-discipline",
               "#2-purpose-and-role",
+              "#22-linked-records-and-no-offset-bridge",
               "#237-forum-boundary",
               "#34-violation-axis-rules-violation-nature-adverse-findings-and-severity",
               "#41-formal-non-compliance",
+              "#42-lequ-violation-calibration",
               "#42-remedial-substantive-non-compliance",
               "#44-duty-based-or-negligent-harm-violation",
               "#51-contribution-axis-bands-and-table-2",
+              "#52-violation-axis-severity-ladder",
               "#53-forum-disclosure-and-recusal-process-impact",
+              "#6-classification-evaluation-dimensions",
               "#chapter-six-compliance-violation-and-standing-model",
               "#chapters-six-nine-constitutional-compass",
+              "#dual-use-classification-dimensions",
+              "#table-a-contribution-q1-magnitude-input-dimensions",
+              "#table-a-violation-q1-severity-input-dimensions",
+              "#table-c-harm-route-descriptors-classification-role",
+              "#table-d-benefit-route-descriptors-classification-role",
               "#verified-inputs-for-standing"
             ]
           },
           {
+            "file": "core_07-07_standing_integration.md",
+            "count": 14,
+            "anchors": [
+              "#10-enforcement-realism-anchors",
+              "#62-joint-assessment-escalation-constraints-and-scrutiny",
+              "#9-violation-axis-s-7-9-anti-constitutional-misconduct-authoritative-location",
+              "#competency-gates",
+              "#standing-integration-slot-band-standing-locks",
+              "#standing-lock-context-compass",
+              "#standing-lock-record-visibility-and-escalation",
+              "#standing-locks-in-the-standing-model",
+              "#violation-axis-slot-lock-and-attachment-compass"
+            ]
+          },
+          {
             "file": "core_08-08_misconduct.md",
-            "count": 13,
+            "count": 16,
             "anchors": [
               "#62-rights-floor-waivers-and-unconstitutional-contract-terms",
               "#66-unlawful-or-unconstitutional-command-conduct",
@@ -2958,19 +3020,32 @@
             ]
           },
           {
-            "file": "core_10-10_rights_part_c.md",
-            "count": 1,
+            "file": "core_10-10_rights_part_b.md",
+            "count": 3,
             "anchors": [
-              "#article-xii-b-right-to-challenge-review-and-redress"
+              "#article-ix-a-agency-and-freedom-from-manipulation",
+              "#article-v-g-accessibility",
+              "#article-vii-self-ownership"
+            ]
+          },
+          {
+            "file": "core_10-10_rights_part_c.md",
+            "count": 4,
+            "anchors": [
+              "#article-xii-b-right-to-challenge-review-and-redress",
+              "#article-xix-interoperability-portability-and-exit-integrity",
+              "#article-xvi-system-lifecycle-environments-and-reversibility",
+              "#article-xxi-root-cause-analysis-and-adaptive-response"
             ]
           },
           {
             "file": "core_10-10_rights_part_d.md",
-            "count": 12,
+            "count": 15,
             "anchors": [
               "#article-xxiii-a-justice-objective-and-scope",
               "#article-xxiii-b-non-trivial-restriction-restitution-and-restorative-accountability-constraints",
-              "#article-xxiii-c-least-restrictive-and-time-bounded-rule"
+              "#article-xxiii-c-least-restrictive-and-time-bounded-rule",
+              "#article-xxiii-g-timely-resolution-and-anti-delay-floor"
             ]
           },
           {
@@ -2994,7 +3069,7 @@
             "file": "core_00_preamble.md",
             "count": 3,
             "anchors": [
-              "#constitutional-triad",
+              "#constitutional-tetrad",
               "#material-stake"
             ]
           },
@@ -3138,7 +3213,7 @@
           },
           {
             "file": "core_06-06_standing_assessment.md",
-            "count": 8,
+            "count": 9,
             "anchors": [
               "#31-slot-grammar-and-display-labels",
               "#34-violation-axis-rules-violation-nature-adverse-findings-and-severity",
@@ -3148,7 +3223,7 @@
           },
           {
             "file": "core_07-07_standing_integration.md",
-            "count": 9,
+            "count": 10,
             "anchors": [
               "#38-standing-integration-contribution-and-violation-nature",
               "#410-collective-accountability-and-acquiescent-participation",
@@ -3239,7 +3314,7 @@
             "file": "core_00_preamble.md",
             "count": 6,
             "anchors": [
-              "#constitutional-triad",
+              "#constitutional-tetrad",
               "#material-stake"
             ]
           },
@@ -3292,12 +3367,13 @@
           },
           {
             "file": "core_06-06_standing_assessment.md",
-            "count": 14,
+            "count": 15,
             "anchors": [
               "#2-standing-records",
               "#31-slot-grammar-and-display-labels",
               "#34-violation-axis-rules-violation-nature-adverse-findings-and-severity",
               "#51-contribution-axis-bands-and-table-2",
+              "#6-classification-evaluation-dimensions",
               "#chapter-six-compliance-violation-and-standing-model",
               "#chapters-six-nine-constitutional-compass"
             ]
@@ -3389,7 +3465,7 @@
             "file": "core_00_preamble.md",
             "count": 2,
             "anchors": [
-              "#constitutional-triad",
+              "#constitutional-tetrad",
               "#material-stake"
             ]
           },
@@ -3603,7 +3679,7 @@
             "file": "core_00_preamble.md",
             "count": 2,
             "anchors": [
-              "#constitutional-triad",
+              "#constitutional-tetrad",
               "#material-stake"
             ]
           },
@@ -3912,7 +3988,7 @@
             "file": "core_00_preamble.md",
             "count": 1,
             "anchors": [
-              "#constitutional-triad"
+              "#constitutional-tetrad"
             ]
           },
           {
@@ -3948,7 +4024,7 @@
           },
           {
             "file": "core_05a_accountability_definitions.md",
-            "count": 217,
+            "count": 221,
             "anchors": [
               "#accountability",
               "#accountability-c",
@@ -3996,6 +4072,9 @@
               "#redress-and-remediation-constitutional-c",
               "#redress-and-remediation-constitutional-e",
               "#self-determination-constitutional-o",
+              "#timely-resolution-constitutional",
+              "#timely-resolution-constitutional-c",
+              "#timely-resolution-constitutional-e",
               "#use-of-force-autonomous-coercion-and-mass-harm-cluster",
               "#use-of-force-constitutional",
               "#use-of-force-constitutional-c",
@@ -4183,6 +4262,13 @@
         "source": "core_10-10_rights_part_d.md",
         "targets": [
           {
+            "file": "core_00_preamble.md",
+            "count": 1,
+            "anchors": [
+              "#material-stake"
+            ]
+          },
+          {
             "file": "core_01_a_values_principles.md",
             "count": 10,
             "anchors": [
@@ -4193,12 +4279,14 @@
           },
           {
             "file": "core_01_b_stewardship_capacity_principles.md",
-            "count": 26,
+            "count": 31,
             "anchors": [
               "#101-required-evaluation-factors",
               "#12-prohibition-on-absolute-override",
               "#13-integrated-application",
+              "#82-constitutional-efficiency",
               "#91-core-tradeoff-principles",
+              "#914-minimization-of-avoidable-burden",
               "#92-epistemic-disclosure-constraints",
               "#94-rights-collision-procedure"
             ]
@@ -4210,7 +4298,7 @@
           },
           {
             "file": "core_05a_accountability_definitions.md",
-            "count": 114,
+            "count": 129,
             "anchors": [
               "#accountability",
               "#accountability-c",
@@ -4218,9 +4306,13 @@
               "#adjudication-and-dispute-resolution-constitutional",
               "#adjudication-and-dispute-resolution-constitutional-c",
               "#adjudication-and-dispute-resolution-constitutional-e",
+              "#capture-of-resolution-pathways",
+              "#capture-of-resolution-pathways-c",
+              "#capture-of-resolution-pathways-e",
               "#contestability",
               "#contestability-c",
               "#contestability-e",
+              "#force-majeure-constitutional",
               "#governance",
               "#governance-c",
               "#governance-e",
@@ -4239,13 +4331,22 @@
               "#redress-and-remediation-constitutional-e",
               "#restorative-justice",
               "#restorative-justice-c",
-              "#restorative-justice-e"
+              "#restorative-justice-e",
+              "#timely-resolution-constitutional",
+              "#timely-resolution-constitutional-c",
+              "#timely-resolution-constitutional-e"
             ]
           },
           {
             "file": "core_05c_continuity_definitions.md",
-            "count": 28,
+            "count": 37,
             "anchors": [
+              "#avoidable-burden",
+              "#avoidable-burden-c",
+              "#avoidable-burden-e",
+              "#constitutional-efficiency",
+              "#constitutional-efficiency-c",
+              "#constitutional-efficiency-e",
               "#constitutional-emergency-and-contingency",
               "#constitutional-emergency-and-contingency-c",
               "#constitutional-emergency-and-contingency-e",
@@ -4276,12 +4377,15 @@
           },
           {
             "file": "core_05o_oversight_definitions.md",
-            "count": 25,
+            "count": 30,
             "anchors": [
               "#auditability",
               "#auditability-c",
               "#auditability-e",
               "#evidence-preservation",
+              "#materiality-determination",
+              "#materiality-determination-c",
+              "#materiality-determination-e",
               "#transparency",
               "#transparency-c",
               "#transparency-e",
@@ -4308,8 +4412,11 @@
           },
           {
             "file": "core_06-06_standing_assessment.md",
-            "count": 1,
-            "anchors": []
+            "count": 4,
+            "anchors": [
+              "#chapters-six-nine-constitutional-compass",
+              "#verified-inputs-for-standing"
+            ]
           },
           {
             "file": "core_07-07_standing_integration.md",
@@ -4335,8 +4442,10 @@
           },
           {
             "file": "core_10-10_rights_part_c.md",
-            "count": 1,
-            "anchors": []
+            "count": 2,
+            "anchors": [
+              "#article-xii-b-right-to-challenge-review-and-redress"
+            ]
           },
           {
             "file": "core_11-11_governance.md",
@@ -4542,7 +4651,7 @@
             "file": "core_00_preamble.md",
             "count": 2,
             "anchors": [
-              "#constitutional-triad",
+              "#constitutional-tetrad",
               "#material-stake"
             ]
           },
@@ -4710,7 +4819,7 @@
             "file": "core_00_preamble.md",
             "count": 2,
             "anchors": [
-              "#constitutional-triad"
+              "#constitutional-tetrad"
             ]
           },
           {
@@ -5239,7 +5348,7 @@
             "file": "core_00_preamble.md",
             "count": 2,
             "anchors": [
-              "#constitutional-triad",
+              "#constitutional-tetrad",
               "#material-stake"
             ]
           },
@@ -5383,7 +5492,7 @@
             "file": "core_00_preamble.md",
             "count": 3,
             "anchors": [
-              "#constitutional-triad",
+              "#constitutional-tetrad",
               "#material-stake"
             ]
           },
@@ -5824,7 +5933,7 @@
             "file": "core_00_preamble.md",
             "count": 4,
             "anchors": [
-              "#constitutional-triad",
+              "#constitutional-tetrad",
               "#material-stake"
             ]
           },
@@ -5979,7 +6088,7 @@
             "file": "core_00_preamble.md",
             "count": 7,
             "anchors": [
-              "#constitutional-triad",
+              "#constitutional-tetrad",
               "#material-stake"
             ]
           },
@@ -6379,7 +6488,7 @@
             "file": "core_00_preamble.md",
             "count": 6,
             "anchors": [
-              "#constitutional-triad",
+              "#constitutional-tetrad",
               "#material-stake"
             ]
           },
@@ -6515,7 +6624,7 @@
             "file": "core_00_preamble.md",
             "count": 5,
             "anchors": [
-              "#constitutional-triad",
+              "#constitutional-tetrad",
               "#material-stake"
             ]
           },
@@ -6668,7 +6777,7 @@
             "file": "core_00_preamble.md",
             "count": 2,
             "anchors": [
-              "#constitutional-triad",
+              "#constitutional-tetrad",
               "#material-stake"
             ]
           },
@@ -7017,7 +7126,7 @@
             "file": "core_00_preamble.md",
             "count": 1,
             "anchors": [
-              "#constitutional-triad"
+              "#constitutional-tetrad"
             ]
           },
           {
@@ -7231,7 +7340,7 @@
             "file": "core_00_preamble.md",
             "count": 2,
             "anchors": [
-              "#constitutional-triad",
+              "#constitutional-tetrad",
               "#material-stake"
             ]
           },
@@ -10268,7 +10377,7 @@
             "file": "core_00_preamble.md",
             "count": 2,
             "anchors": [
-              "#constitutional-triad",
+              "#constitutional-tetrad",
               "#material-stake"
             ]
           },
@@ -11724,7 +11833,7 @@
           },
           {
             "file": "core_05a_accountability_definitions.md",
-            "count": 216,
+            "count": 220,
             "anchors": [
               "#accountability",
               "#accountability-c",
@@ -11751,6 +11860,9 @@
               "#redress-and-remediation-constitutional-c",
               "#redress-and-remediation-constitutional-e",
               "#systemic",
+              "#timely-resolution-constitutional",
+              "#timely-resolution-constitutional-c",
+              "#timely-resolution-constitutional-e",
               "#unified-record",
               "#unified-record-c",
               "#unified-record-e"
@@ -11822,6 +11934,22 @@
               "#stakeholder",
               "#stakeholder-c",
               "#stakeholder-e"
+            ]
+          },
+          {
+            "file": "core_06-06_standing_assessment.md",
+            "count": 2,
+            "anchors": [
+              "#2-standing-records",
+              "#6-classification-evaluation-dimensions"
+            ]
+          },
+          {
+            "file": "core_07-07_standing_integration.md",
+            "count": 2,
+            "anchors": [
+              "#52-remedy-organ-durability",
+              "#chapter-seven-standing-effects-and-integration"
             ]
           },
           {

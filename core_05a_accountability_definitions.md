@@ -18,7 +18,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [Chapter Five compass](core_05-05_definitions_a_independent.md#chapter-five-compass-and-definition-map); [Constitutional Triad](../core_00_preamble.md#constitutional-triad); [Two Constitutional Aims](../core_01_a_values_principles.md#two-constitutional-aims).
+- Upstream: [Chapter Five compass](core_05-05_definitions_a_independent.md#chapter-five-compass-and-definition-map); [Constitutional Tetrad](../core_00_preamble.md#constitutional-tetrad); [Two Constitutional Aims](../core_01_a_values_principles.md#two-constitutional-aims).
 - Downstream: Accountability-band canonical definition homes for Chapter Five.
 - Read with: **Accountability** band definitions; mandatory cluster read-with where admission scope applies.
 
@@ -284,12 +284,13 @@ This band holds **Accountability**-leg definitions: contestability, redress, gov
 
 #### Accountability, contestability, and redress pathways
 
-**Cluster context:** This semi-independent topic group establishes the foundational mechanisms for holding actors responsible and seeking correction of constitutional violations. It covers the attribution of responsibility ([Accountability](core_05a_accountability_definitions.md#accountability)), the ability to challenge and seek remedy ([Contestability](core_05a_accountability_definitions.md#contestability)), formal pathways for resolving disputes ([Adjudication and Dispute Resolution](core_05a_accountability_definitions.md#adjudication-and-dispute-resolution-constitutional)), resolution within materiality-scaled windows ([Timely Resolution](core_05a_accountability_definitions.md#timely-resolution-constitutional)), binding substantive dispositions in those pathways ([Merits Determination](core_05a_accountability_definitions.md#merits-determination)), systemic failures where responsibility is diffused ([Collective Accountability Failure](core_05a_accountability_definitions.md#collective-accountability-failure)), exceptional external disruptions ([Force Majeure](core_05a_accountability_definitions.md#force-majeure-constitutional)), and protection against capture of outcome-determination mechanisms ([Capture of Resolution Pathways](core_05a_accountability_definitions.md#capture-of-resolution-pathways)). These definitions operate together where review, redress, or resolution of constitutional claims is material.
+**Cluster context:** This semi-independent topic group establishes the foundational mechanisms for holding actors responsible and seeking correction of constitutional violations. It covers the attribution of responsibility ([Accountability](core_05a_accountability_definitions.md#accountability)), the ability to challenge and seek remedy ([Contestability](core_05a_accountability_definitions.md#contestability)), formal pathways for resolving disputes ([Adjudication and Dispute Resolution](core_05a_accountability_definitions.md#adjudication-and-dispute-resolution-constitutional)), principle-layer responsiveness across the coordination lifecycle ([Timeliness](core_05a_accountability_definitions.md#timeliness-constitutional)), resolution within materiality-scaled windows ([Timely Resolution](core_05a_accountability_definitions.md#timely-resolution-constitutional)), binding substantive dispositions in those pathways ([Merits Determination](core_05a_accountability_definitions.md#merits-determination)), systemic failures where responsibility is diffused ([Collective Accountability Failure](core_05a_accountability_definitions.md#collective-accountability-failure)), exceptional external disruptions ([Force Majeure](core_05a_accountability_definitions.md#force-majeure-constitutional)), and protection against capture of outcome-determination mechanisms ([Capture of Resolution Pathways](core_05a_accountability_definitions.md#capture-of-resolution-pathways)). These definitions operate together where review, redress, or resolution of constitutional claims is material.
 
 **Topic group members.** This group comprises:
 - [Accountability](core_05a_accountability_definitions.md#accountability);
 - [Contestability](core_05a_accountability_definitions.md#contestability);
 - [Adjudication and Dispute Resolution](core_05a_accountability_definitions.md#adjudication-and-dispute-resolution-constitutional);
+- [Timeliness](core_05a_accountability_definitions.md#timeliness-constitutional);
 - [Timely Resolution](core_05a_accountability_definitions.md#timely-resolution-constitutional);
 - [Merits Determination](core_05a_accountability_definitions.md#merits-determination);
 - [Collective Accountability Failure](core_05a_accountability_definitions.md#collective-accountability-failure);
@@ -304,7 +305,7 @@ This band holds **Accountability**-leg definitions: contestability, redress, gov
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [Constitutional Triad](core_00_preamble.md#constitutional-triad) (accountability leg; [material stake](core_00_preamble.md#material-stake) scaling); [§7 Governance Under Stewardship Discipline](core_01_b_stewardship_capacity_principles.md#7-governance-under-stewardship-discipline) (accountability under anti-capture discipline).
+- Downstream: Principles: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) (accountability leg; [material stake](core_00_preamble.md#material-stake) scaling); [§7 Governance Under Stewardship Discipline](core_01_b_stewardship_capacity_principles.md#7-governance-under-stewardship-discipline) (accountability under anti-capture discipline).
 - Read with: the [Accountability, Contestability, Adjudication and Dispute Resolution, Collective Accountability Failure, and Force Majeure cluster](core_05i_integrative_definitions.md#accountability-contestability-and-collective-accountability-failure-cluster), [Contestability](core_05a_accountability_definitions.md#contestability), and [Auditability](core_05o_oversight_definitions.md#auditability).
 
 </details>
@@ -326,7 +327,7 @@ This band holds **Accountability**-leg definitions: contestability, redress, gov
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [Constitutional Triad](core_00_preamble.md#constitutional-triad) (participation leg); [9. Interaction and Conflict Resolution](core_01_b_stewardship_capacity_principles.md#9-interaction-and-conflict-resolution) (review, escalation, and emergency proportionality read-with); [4. Non-Negotiable Constraints: Safety and Truth](core_01_a_values_principles.md#4-non-negotiable-constraints-safety-and-truth) (where contestability operationalizes Truth / Safety).
+- Downstream: Principles: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) (participation leg); [9. Interaction and Conflict Resolution](core_01_b_stewardship_capacity_principles.md#9-interaction-and-conflict-resolution) (review, escalation, and emergency proportionality read-with); [4. Non-Negotiable Constraints: Safety and Truth](core_01_a_values_principles.md#4-non-negotiable-constraints-safety-and-truth) (where contestability operationalizes Truth / Safety).
 - Read with: the [Accountability, Contestability, Adjudication and Dispute Resolution, Collective Accountability Failure, and Force Majeure cluster](core_05i_integrative_definitions.md#accountability-contestability-and-collective-accountability-failure-cluster), [Accountability](core_05a_accountability_definitions.md#accountability), [Auditability](core_05o_oversight_definitions.md#auditability), [Transparency](core_05o_oversight_definitions.md#transparency), and [Redress and Remediation](core_05a_accountability_definitions.md#redress-and-remediation-constitutional).
 
 </details>
@@ -366,6 +367,29 @@ This band holds **Accountability**-leg definitions: contestability, redress, gov
 - C: Non-compliant: denying access where Chapter Ten or binding instruments require it; capturing forum-style decision power to prevent meaningful review; operating resolution pathways that materially exceed **Article XXIII-G** tier windows without lawful extension; or using delay as a substitute for merits disposition.
 
 
+<a id="timeliness-constitutional"></a>
+
+---
+#### Timeliness
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Upstream: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **timeliness** leg; [material stake](core_00_preamble.md#material-stake) scaling.
+- Downstream: [Timely Resolution](core_05a_accountability_definitions.md#timely-resolution-constitutional) (*implements timeliness leg for resolution pathways*); **Article XXIII-G** (*Timely Resolution and Anti-Delay Floor*); [Chapters Six–Nine constitutional compass](core_06-06_standing_assessment.md#chapters-six-nine-constitutional-compass).
+- Read with: [Capture of Resolution Pathways](core_05a_accountability_definitions.md#capture-of-resolution-pathways), [Constitutional Efficiency](core_05c_continuity_definitions.md#constitutional-efficiency), [Avoidable Burden](core_05c_continuity_definitions.md#avoidable-burden), [Stewardship Defect](core_05c_continuity_definitions.md#stewardship-defect-constitutional), [Review and Correction Duty](core_05c_continuity_definitions.md#review-and-correction-duty-constitutional), and [Stewardship](core_05c_continuity_definitions.md#stewardship-constitutional).
+
+</details>
+
+<br>
+
+- O: Principle-layer responsiveness duty scaling with [material stake](core_00_preamble.md#material-stake) across detection, contestability, resolution, remediation, and stewardship correction in the constitutional coordination lifecycle.
+<a id="timeliness-constitutional-e"></a>
+- E: Distinguish raw throughput from rights-preserving velocity. Read with [Timely Resolution](core_05a_accountability_definitions.md#timely-resolution-constitutional), [Capture of Resolution Pathways](core_05a_accountability_definitions.md#capture-of-resolution-pathways), [Constitutional Efficiency](core_05c_continuity_definitions.md#constitutional-efficiency), [Avoidable Burden](core_05c_continuity_definitions.md#avoidable-burden), [Stewardship Defect](core_05c_continuity_definitions.md#stewardship-defect-constitutional), and [Review and Correction Duty](core_05c_continuity_definitions.md#review-and-correction-duty-constitutional). Timeliness cross-cuts participation, oversight, and accountability but may be hollowed independently where formal structures exist but material problems do not move.
+<a id="timeliness-constitutional-c"></a>
+- C: Non-compliant: designed backlog; self-created delay; indefinite pendency; deferred repair after notice where correction was feasible; efficiency claims that skip verification, individualized attribution, or appeal rights.
+
+
 <a id="timely-resolution-constitutional"></a>
 
 ---
@@ -374,6 +398,7 @@ This band holds **Accountability**-leg definitions: contestability, redress, gov
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
+- Upstream: [Timeliness](core_05a_accountability_definitions.md#timeliness-constitutional) (*implements timeliness leg for resolution pathways*).
 - Downstream: **Article XXIII-G: Timely Resolution and Anti-Delay Floor** ([core_10-10_rights_part_d.md](core_10-10_rights_part_d.md#article-xxiii-g-timely-resolution-and-anti-delay-floor)); **Article XII-B** (*Right to Challenge, Review, and Redress*); [Chapter Seven §5.2](core_07-07_standing_integration.md#52-remedy-organ-durability) (*remedy-organ durability*); [Chapter Nine](core_09-09_forum.md#chapter-nine-forums-and-jurisdiction) (*forum intake and routing*).
 - Cluster component: [the dependent cluster *Accountability, Contestability, Adjudication and Dispute Resolution, Collective Accountability Failure, and Force Majeure*](core_05i_integrative_definitions.md#accountability-contestability-and-collective-accountability-failure-cluster).
 - Read with: [Adjudication and Dispute Resolution](core_05a_accountability_definitions.md#adjudication-and-dispute-resolution-constitutional), [Constitutional Efficiency](core_05c_continuity_definitions.md#constitutional-efficiency), [Avoidable Burden](core_05c_continuity_definitions.md#avoidable-burden), [Capture of Resolution Pathways](core_05a_accountability_definitions.md#capture-of-resolution-pathways), [Procedural Fairness](core_05p_participation_definitions.md#procedural-fairness-constitutional), [Materiality Determination](core_05o_oversight_definitions.md#materiality-determination), and [Chapters Six–Nine constitutional compass](core_06-06_standing_assessment.md#chapters-six-nine-constitutional-compass).
@@ -560,7 +585,7 @@ This band holds **Accountability**-leg definitions: contestability, redress, gov
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [Constitutional Triad](core_00_preamble.md#constitutional-triad) ([material stake](core_00_preamble.md#material-stake) scaling; CCL vs SSP layering); [§7 Governance Under Stewardship Discipline](core_01_b_stewardship_capacity_principles.md#7-governance-under-stewardship-discipline) (governance capture discipline).
+- Downstream: Principles: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) ([material stake](core_00_preamble.md#material-stake) scaling; CCL vs SSP layering); [§7 Governance Under Stewardship Discipline](core_01_b_stewardship_capacity_principles.md#7-governance-under-stewardship-discipline) (governance capture discipline).
 - Cluster component: [Governance Architecture, Oversight, Dependency, Decentralization, Concentration, Market Structure, and Exit-Path Integrity](core_05a_accountability_definitions.md#governance-architecture-oversight-decentralization-and-concentration-cluster); [Stewardship, Governance Discipline, and Shared-System Capacity](core_05c_continuity_definitions.md#stewardship-governance-discipline-and-shared-system-capacity-cluster).
 - Read with: [Stewardship](core_05c_continuity_definitions.md#stewardship-constitutional), [Short-Horizon Governance Defect](core_05c_continuity_definitions.md#short-horizon-governance-defect-constitutional), [Classification-Scaled Governance](core_05o_oversight_definitions.md#classification-scaled-governance), [Oversight](core_05o_oversight_definitions.md#oversight-constitutional), [Accountability](core_05a_accountability_definitions.md#accountability), [Contestability](core_05a_accountability_definitions.md#contestability), [Proportionality](core_05a_accountability_definitions.md#proportionality), [Necessity](core_05a_accountability_definitions.md#necessity), and [System Capture](core_05c_continuity_definitions.md#system-capture).
 
@@ -964,7 +989,7 @@ This cluster is the joint-invocation home for the six constitutional forum famil
 - Constitutional frame: **Accountability** leg; **Flourishing** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality Determination](../core_05o_oversight_definitions.md#materiality-determination).
 - Chapter One basis: §6.1, §6.3, §6.4, §7.1, §8 (see [Chapter Five compass](../core_05-05_definitions_a_independent.md#chapter-five-compass-and-definition-map) map).
 - Read with: Apply [Auditability](core_05o_oversight_definitions.md#auditability), [Contestability](core_05a_accountability_definitions.md#contestability), [Materiality Determination](core_05o_oversight_definitions.md#materiality-determination), [Adjudication and Dispute Resolution](core_05a_accountability_definitions.md#adjudication-and-dispute-resolution-constitutional), [Chapter Six §4](core_06-06_standing_assessment.md#31-slot-grammar-and-display-labels), [Chapter Seven §4.3](core_07-07_standing_integration.md#standing-integration-slot-band-standing-locks), and [Chapter Eight](core_08-08_misconduct.md#chapter-eight-anti-constitutional-misconduct) where materially implicated.
-- Downstream: [Chapters Six–Nine constitutional compass](core_06-06_standing_assessment.md#chapters-six-nine-constitutional-compass) (*reader map for Chapters Six through Nine pipeline and Triad / Aims framing*).
+- Downstream: [Chapters Six–Nine constitutional compass](core_06-06_standing_assessment.md#chapters-six-nine-constitutional-compass) (*reader map for Chapters Six through Nine pipeline and Tetrad / Aims framing*).
 
 </details>
 

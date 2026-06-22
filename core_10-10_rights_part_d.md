@@ -362,7 +362,7 @@ Adopted governance implementation provides escalation, proportionality of interv
   5. **Question 2** integration under **Chapter Seven**;
   6. remedy commencement under **Article XXIII-B** and applicable redress rules.
 
-  Overrun without documented tier-appropriate extension, escalation, or interim relief triggers review and is non-compliant where it foreseeably prolongs ongoing harm or nullifies redress.
+Overrun without documented tier-appropriate extension, escalation, or interim relief triggers review and is non-compliant where it foreseeably prolongs ongoing harm or nullifies redress.
 - **Outer bound:** Adopted instruments must publish tier outer bounds for integrated resolution. Those bounds must favor **days and weeks over months and years** for Tiers A and B. Tier C outer bounds must not exceed **one year** absent reauthorization under **Article XXIII-D** showing continuing necessity, proportionality, and absence of less-restrictive feasible alternatives.
 - **Anti-delay floor:** The following are non-compliant where they foreseeably nullify rights, remedies, or timely protection:
   - designed backlog, chronic underfunding, or inaccessible intake that defeats **Article XII-B** practical access;

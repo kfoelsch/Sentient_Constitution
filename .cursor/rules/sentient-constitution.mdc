@@ -33,3 +33,5 @@ This repository is the **Sentient Constitution** markdown corpus and tooling—n
 **Exceptions:** verbatim external quotations; proper names and historical titles where source fidelity requires; lemmas **courtesy** / **courteous** (not the institutional sense); **Topic router** as the **CJS-2.1** section title.
 
 See [`doc_architecture.md`](../doc_architecture.md) **Plain-Language Vocabulary Guardrails** for the full vocabulary table.
+
+**Constitutional frame:** Use **Constitutional Tetrad** (participation · oversight · accountability · timeliness) at principle layer.

@@ -11,7 +11,7 @@
 <br>
 
 
-This family operationalizes the **Oversight** leg of the [Constitutional Triad](../core_00_preamble.md#constitutional-triad): watching, auditing, assuring, and verifying that implementation claims remain reviewable across **CJS**, **CS**, **CI**, and **CF**. Clusters here must be read together — a strong control in one link cannot cure a material failure in another.
+This family operationalizes the **Oversight** leg of the [Constitutional Tetrad](../core_00_preamble.md#constitutional-tetrad): watching, auditing, assuring, and verifying that implementation claims remain reviewable across **CJS**, **CS**, **CI**, and **CF**. Clusters here must be read together — a strong control in one link cannot cure a material failure in another.
 
 | Cluster | Section |
 |---|---|

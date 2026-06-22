@@ -628,7 +628,17 @@ Regression seeds document adversarial and core paths against constitutional owne
 ### Scenario ID: RS-XXIII-G-DELAY-001
 - **Class:** adversarial / anti-delay
 - **Summary:** Designed backlog and exhaustion delay defeat **Article XII-B** and **Article XXIII-G**; chronic underfunding of remedy organ under [Chapter Seven §5.2](core_07-07_standing_integration.md#52-remedy-organ-durability) is non-compliance; allegations must not substitute for verified standing during delay.
-- **Read with:** [Timely Resolution](core_05a_accountability_definitions.md#timely-resolution-constitutional); **CF-11.4**; **CF-11.5**.
+- **Read with:** [Timeliness](core_05a_accountability_definitions.md#timeliness-constitutional); [Timely Resolution](core_05a_accountability_definitions.md#timely-resolution-constitutional); **CF-11.4**; **CF-11.5**.
+
+### Scenario ID: RS-TETRAD-TIMELINESS-001
+- **Class:** implementation / tetrad-timeliness vignette
+- **Summary:** Steward defers repair after documented drift notice; **Stewardship Defect** and Ch6 **Response timeliness / avoidable delay** Q1 hook; Ch7 §3.10 remedy-commencement dimension. Vignette: [implementation/CH6-9_APPLICATION_VIGNETTES.md](implementation/CH6-9_APPLICATION_VIGNETTES.md#vignette-stewardship-delay-deferred-repair).
+- **Read with:** [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad); [Chapter One §6.1](core_01_b_stewardship_capacity_principles.md#61-stewardship); [Chapter Six §3](core_06-06_standing_assessment.md#dual-use-classification-dimensions); **Article XXIII-G**.
+
+### Scenario ID: RS-TETRAD-TIMELINESS-002
+- **Class:** adversarial / tetrad-hollow
+- **Summary:** Forum maintains formal structures but pipeline milestones chronically overrun without extension — **timeliness** leg hollowed while O·P·A forms persist; may escalate to **tetrad capture** under Chapter Eight at scale. Vignette: [implementation/CH6-9_APPLICATION_VIGNETTES.md](implementation/CH6-9_APPLICATION_VIGNETTES.md#vignette-pipeline-overrun-tetrad-hollow).
+- **Read with:** [Timeliness](core_05a_accountability_definitions.md#timeliness-constitutional); [Capture of Resolution Pathways](core_05a_accountability_definitions.md#capture-of-resolution-pathways); [Chapter Eight](core_08-08_misconduct.md#chapter-eight-anti-constitutional-misconduct); **CF-11.3.1**.
 
 ### Scenario ID: RS-CH5-GW-001
 - **Class:** implementation / catalog seed (reinstatement)

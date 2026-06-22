@@ -321,7 +321,7 @@ A system is non-compliant where it:
 
 - Upstream: [Chapter Three, section 2 — Non-Compliance from Observable System Behavior](#2-non-compliance-from-observable-system-behavior); [Chapter Two, 2.4 Definition Integrity Requirement](#24-definition-integrity-requirement).
 - Downstream: [Chapter Four, section 3 — Definition Traceability Requirement](#3-definition-traceability-requirement); [Chapter Six — Contribution, Violation, and Standing Model](core_06-06_standing_assessment.md#chapter-six-compliance-violation-and-standing-model); [CJS-5.1 Constitutional compass and cluster map](corpus_joint_structure/cjs_05_cross_implementation_operational_terms.md#cjs-51-constitutional-compass-and-cluster-map).
-- Read with: [Non-Compliance Finding Profile](core_05a_accountability_definitions.md#non-compliance-finding-profile) — canonical O/E/C home for profile fields; [Constitutional Triad](core_00_preamble.md#constitutional-triad); [Two Constitutional Aims](core_01_a_values_principles.md#two-constitutional-aims).
+- Read with: [Non-Compliance Finding Profile](core_05a_accountability_definitions.md#non-compliance-finding-profile) — canonical O/E/C home for profile fields; [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad); [Two Constitutional Aims](core_01_a_values_principles.md#two-constitutional-aims).
 
 </details>
 
@@ -341,7 +341,7 @@ Where the [cross-implementation operational cluster family](corpus_joint_structu
 > The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this chapter or in other chapters.
 >
 > Where this lives (navigation):
-> - **Triad map:** Burden allocation, evidence, traceability, observability, and verification implement the [Constitutional Triad](core_00_preamble.md#constitutional-triad) **oversight** and **accountability** legs established in [Chapter 00](core_00_preamble.md#chapter-00-preamble--foundational-requirements); **participation** where materially required through verification accessibility and independent challenge under sections **5** and **6**. Requirements scale with [material stake](core_00_preamble.md#material-stake).
+> - **Tetrad map:** Burden allocation, evidence, traceability, observability, and verification implement the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) **oversight** and **accountability** legs established in [Chapter 00](core_00_preamble.md#chapter-00-preamble--foundational-requirements); **participation** where materially required through verification accessibility and independent challenge under sections **5** and **6**. Requirements scale with [material stake](core_00_preamble.md#material-stake).
 > - **Constitutional owner:** burden allocation, compliance evidence, definition traceability, observability, security-constrained verification, and verification accessibility. **Chapter Six** owns standing-record and verified-input discipline read with this chapter.
 > - **Implementation owner:** deployment, data-handling, and assurance mechanics in designated implementation files must remain consistent with these rules and may be stricter where the corpus already provides stricter-rule logic.
 > - **Anti-relocation rule:** this chapter does not restate Chapter Five definitions, Chapter Six contribution or standing classification, or Chapter Eight top-slot misconduct criteria. **Section 7** states that boundary explicitly.
@@ -421,7 +421,7 @@ Verification of evidence must satisfy each of the following, jointly and without
 Failure to satisfy any required definition or definition component invalidates all dependent compliance claims. Any constraints on evidence generation, disclosure, or verification must comply with **section 5** of this chapter (Security-Constrained Observability and Verification Rule). They must comply with **5.1** where cryptographic controls apply.
 
 #### 2.3 Scaling with impact, dependency, and risk
-This required standard scales with [material stake](core_00_preamble.md#material-stake) as established in [Chapter 00](core_00_preamble.md#constitutional-triad):
+This required standard scales with [material stake](core_00_preamble.md#material-stake) as established in [Chapter 00](core_00_preamble.md#constitutional-tetrad):
 - system impact
 - dependency
 - risk

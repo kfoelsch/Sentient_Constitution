@@ -18,7 +18,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [Chapter Five compass](core_05-05_definitions_a_independent.md#chapter-five-compass-and-definition-map); [Constitutional Triad](../core_00_preamble.md#constitutional-triad); [Two Constitutional Aims](../core_01_a_values_principles.md#two-constitutional-aims).
+- Upstream: [Chapter Five compass](core_05-05_definitions_a_independent.md#chapter-five-compass-and-definition-map); [Constitutional Tetrad](../core_00_preamble.md#constitutional-tetrad); [Two Constitutional Aims](../core_01_a_values_principles.md#two-constitutional-aims).
 - Downstream: Integrative-band canonical definition homes for Chapter Five.
 - Read with: **Integrative** band definitions; mandatory cluster read-with where admission scope applies.
 
@@ -27,7 +27,7 @@
 <br>
 
 
-This band holds **Integrative** cross-leg definitions that require simultaneous satisfaction across Triad legs and cannot be owned cleanly by one leg alone — notably the corpus authority stack, constitutional contract layer, and foundational authorization terms.
+This band holds **Integrative** cross-leg definitions that require simultaneous satisfaction across Tetrad legs and cannot be owned cleanly by one leg alone — notably the corpus authority stack, constitutional contract layer, and foundational authorization terms.
 
 | Cluster | Section |
 |---|---|
@@ -100,7 +100,7 @@ This band holds **Integrative** cross-leg definitions that require simultaneous 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [Constitutional Triad](core_00_preamble.md#constitutional-triad) (triad capture discipline under [§7](core_01_b_stewardship_capacity_principles.md#7-governance-under-stewardship-discipline); [material stake](core_00_preamble.md#material-stake) scaling); [10.1 Required Evaluation Factors](core_01_b_stewardship_capacity_principles.md#101-required-evaluation-factors) and [§7 Governance Under Stewardship Discipline](core_01_b_stewardship_capacity_principles.md#7-governance-under-stewardship-discipline).
+- Downstream: Principles: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) (tetrad capture discipline under [§7](core_01_b_stewardship_capacity_principles.md#7-governance-under-stewardship-discipline); [material stake](core_00_preamble.md#material-stake) scaling); [10.1 Required Evaluation Factors](core_01_b_stewardship_capacity_principles.md#101-required-evaluation-factors) and [§7 Governance Under Stewardship Discipline](core_01_b_stewardship_capacity_principles.md#7-governance-under-stewardship-discipline).
 - Stewardship operationalization: [Chapter One §7.4 Stewardship and Operator Incentive Alignment](core_01_b_stewardship_capacity_principles.md#74-stewardship-and-operator-incentive-alignment).
 - Active correction and capture escalation: [Chapter One §10.2.4 Misalignment Correction and Capture Response](core_01_b_stewardship_capacity_principles.md#76-misalignment-correction-and-capture-response).
 - Cluster component: [Chapter Five §3.20 *Governance Architecture, Oversight, Dependency, Decentralization, Concentration, Market Structure, and Exit-Path Integrity*](core_05a_accountability_definitions.md#governance-architecture-oversight-decentralization-and-concentration-cluster) (hub paths that intersect dependency, concentration, governance-form incentives, or exit-quality analysis — read together with [Chapter Five §3.13 *Contingent Claim, Event-Contract Market, and Game of Chance*](core_05a_accountability_definitions.md#contingent-claim) where contingent structures are materially implicated)
@@ -206,7 +206,7 @@ This band holds **Integrative** cross-leg definitions that require simultaneous 
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Constitutional frame: **Integrative** leg; **Flourishing** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality Determination](../core_05o_oversight_definitions.md#materiality-determination).
-- Cross-leg note: **Oversight**, **Accountability**, and **Participation** — authority stack spans all Triad legs.
+- Cross-leg note: **Oversight**, **Accountability**, and **Participation** — authority stack spans all Tetrad legs.
 - Chapter One basis: §2.1, §4, §5.2, §7.2, §10 (see [Chapter Five compass](../core_05-05_definitions_a_independent.md#chapter-five-compass-and-definition-map) map).
 - Read with: Apply [Auditability](core_05o_oversight_definitions.md#auditability), [Contestability](core_05a_accountability_definitions.md#contestability), [Truth (Constitutional Constraint)](core_05o_oversight_definitions.md#truth-constitutional-constraint), [Materiality Determination](core_05o_oversight_definitions.md#materiality-determination), and Chapter Twelve / Chapter Fourteen mechanics where materially implicated.
 
@@ -237,7 +237,7 @@ This cluster is the joint-invocation home for operative corpus identity, authori
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [13. Integrated Application](core_01_b_stewardship_capacity_principles.md#13-integrated-application) (corpus read as integrated whole); [Constitutional Triad](core_00_preamble.md#constitutional-triad) — **oversight** leg; [Two Constitutional Aims](core_01_a_values_principles.md#two-constitutional-aims) — **Continuity** aim under incorporation and custody; [1. Constitutional Interpretation](core_01_a_values_principles.md#1-constitutional-interpretation) (binding source identification).
+- Downstream: Principles: [13. Integrated Application](core_01_b_stewardship_capacity_principles.md#13-integrated-application) (corpus read as integrated whole); [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **oversight** leg; [Two Constitutional Aims](core_01_a_values_principles.md#two-constitutional-aims) — **Continuity** aim under incorporation and custody; [1. Constitutional Interpretation](core_01_a_values_principles.md#1-constitutional-interpretation) (binding source identification).
 - Downstream: [Chapter Fifteen — Incorporation bridge](core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) (*which adopted **implementation text** text is binding, edition pinning, custody chain, and anti-drift discipline*).
 - Read with: [Authority Stack and Internal Hierarchy](core_05i_integrative_definitions.md#authority-stack) and [Constitutional Constraint Violation](core_05i_integrative_definitions.md#constitutional-constraint-violation).
 - Read with: owner-layer references in [doc_architecture.md](doc_architecture.md) and [README.md](README.md).

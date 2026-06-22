@@ -11,7 +11,7 @@
 <br>
 
 
-This family operationalizes the **Accountability** leg of the [Constitutional Triad](../core_00_preamble.md#constitutional-triad): authority distribution, justification burdens, procedural integrity, intervention authorization, and structural review. Accountability clusters scale with [material stake](../core_00_preamble.md#material-stake) and must remain contestable in practice.
+This family operationalizes the **Accountability** leg of the [Constitutional Tetrad](../core_00_preamble.md#constitutional-tetrad): authority distribution, justification burdens, procedural integrity, intervention authorization, and structural review. Accountability clusters scale with [material stake](../core_00_preamble.md#material-stake) and must remain contestable in practice.
 
 | Cluster | Section |
 |---|---|

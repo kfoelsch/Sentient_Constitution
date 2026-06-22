@@ -241,6 +241,7 @@ This directory lists **Definitions A-Z** and **Clusters A-Z** separately. Each v
 - [Systemic Lock-In](core_05c_continuity_definitions.md#systemic-lock-in)
 - [Systemic Materiality](core_05c_continuity_definitions.md#systemic-materiality)
 - [Tenure Security](core_05c_continuity_definitions.md#tenure-security-constitutional)
+- [Timeliness](core_05a_accountability_definitions.md#timeliness-constitutional)
 - [Timely Resolution](core_05a_accountability_definitions.md#timely-resolution-constitutional)
 - [Top-Slot Review](core_05a_accountability_definitions.md#top-slot-review)
 - [Training-Data Use](core_05c_continuity_definitions.md#training-data-use-constitutional)
@@ -298,7 +299,7 @@ This directory lists **Definitions A-Z** and **Clusters A-Z** separately. Each v
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [Constitutional Triad](../core_00_preamble.md#constitutional-triad); [Two Constitutional Aims](../core_01_a_values_principles.md#two-constitutional-aims); [material stake](../core_00_preamble.md#material-stake).
+- Upstream: [Constitutional Tetrad](../core_00_preamble.md#constitutional-tetrad); [Two Constitutional Aims](../core_01_a_values_principles.md#two-constitutional-aims); [material stake](../core_00_preamble.md#material-stake).
 - Downstream: constitutional orientation for all Chapter Five band definitions and §3 dependent clusters.
 - Read with: [§3.0.1 Joint invocation](core_05-05_definitions_a_independent.md#joint-invocation-and-satisfaction) and [§3.0.2 Standalone interaction](core_05-05_definitions_a_independent.md#standalone-definitions-interaction-and-full-context) meta rules before applying any dependent cluster.
 
@@ -306,12 +307,12 @@ This directory lists **Definitions A-Z** and **Clusters A-Z** separately. Each v
 
 <br>
 
-Use this compass before invoking any Chapter Five definition. Chapter Five supplies canonical O/E/C homes; it does not replace the [Constitutional Triad](../core_00_preamble.md#constitutional-triad), [Two Constitutional Aims](../core_01_a_values_principles.md#two-constitutional-aims), or [material stake](../core_00_preamble.md#material-stake) scaling required by [Chapter Two](../core_02-04_definition_mechanics.md).
+Use this compass before invoking any Chapter Five definition. Chapter Five supplies canonical O/E/C homes; it does not replace the [Constitutional Tetrad](../core_00_preamble.md#constitutional-tetrad), [Two Constitutional Aims](../core_01_a_values_principles.md#two-constitutional-aims), or [material stake](../core_00_preamble.md#material-stake) scaling required by [Chapter Two](../core_02-04_definition_mechanics.md).
 
 **Reading order**
 
 1. This compass and the constitutional bands below.
-2. The band file for the relevant Triad leg, **Continuity** band, or **Integrative** band.
+2. The band file for the relevant Tetrad leg, **Continuity** band, or **Integrative** band.
 3. Individual definition O/E/C entries; dependent clusters per admission scope.
 4. Where a finding is **non-compliant**, optional [Non-Compliance Finding Profile](core_05a_accountability_definitions.md#non-compliance-finding-profile) metadata per cluster map.
 
@@ -334,7 +335,7 @@ Use this compass before invoking any Chapter Five definition. Chapter Five suppl
 
 > The following content is **reader guidance only**. Per-cluster constitutional framing lives in each cluster's Trace block.
 
-| § ID | Title | Triad leg / band | Primary aim | Chapter One § basis | Cross-leg note | Continuity disambiguation | Home file |
+| § ID | Title | Tetrad leg / band | Primary aim | Chapter One § basis | Cross-leg note | Continuity disambiguation | Home file |
 |---|---|---|---|---|---|---|---|
 | **§3.2** | Transparency, Auditability, and Verification | Oversight | Flourishing | §3.2, §4, §7.1, §7.2 | — | — | [core_05o_oversight_definitions.md](core_05o_oversight_definitions.md) |
 | **§3.3** | Truth and Epistemic Integrity | Oversight | Flourishing | §3.2, §3.3, §4, §7.1, §7.2 | integrative with **Accountability** where contest and correction are implicated | — | [core_05o_oversight_definitions.md](core_05o_oversight_definitions.md) |
@@ -349,7 +350,7 @@ Use this compass before invoking any Chapter Five definition. Chapter Five suppl
 | **§3.13** | Stewardship, Governance Discipline, and Shared-System Capacity | Continuity | Continuity | §5.1, §6.1, §7.1, §8 | integrative with **Accountability** where review and correction duties apply | Constitutional **Continuity** aim — durable governance discipline. | [core_05c_continuity_definitions.md](core_05c_continuity_definitions.md) |
 | **§3.14** | Privacy (Informational) — peer-level cluster head | Continuity | Flourishing | §3.2, §4, §7.1, §7.2 | integrative with **Participation** and **Oversight** | — | [core_05c_continuity_definitions.md](core_05c_continuity_definitions.md) |
 | **§3.15** | Trust and Trustworthiness | Continuity | Flourishing | §5, §7.1, §8 | — | — | [core_05c_continuity_definitions.md](core_05c_continuity_definitions.md) |
-| **§3.16** | Corpus, Authority Stack, Supremacy, and Enforceability | Integrative | Flourishing | §2.1, §4, §5.2, §7.2, §10 | **Oversight**, **Accountability**, and **Participation** — authority stack spans all Triad legs | — | [core_05i_integrative_definitions.md](core_05i_integrative_definitions.md) |
+| **§3.16** | Corpus, Authority Stack, Supremacy, and Enforceability | Integrative | Flourishing | §2.1, §4, §5.2, §7.2, §10 | **Oversight**, **Accountability**, and **Participation** — authority stack spans all Tetrad legs | — | [core_05i_integrative_definitions.md](core_05i_integrative_definitions.md) |
 
 </details>
 
