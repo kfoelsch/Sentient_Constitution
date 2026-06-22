@@ -114,7 +114,7 @@ Under the authority-stack rules named in **CJS-1.2** (*Shared implementation-cor
 | If you are trying to… | Read in this section |
 |------------------------|----------------------|
 | Use a constitutional term | **Shared contract** → definitions and vocabulary; **Authority stack** → Chapters Two through Five |
-| Apply participation, oversight, and accountability | **Shared contract** → Chapter One principles ([Constitutional Tetrad](../core_00_preamble.md#constitutional-tetrad), [Two Constitutional Aims](../core_01_a_values_principles.md#two-constitutional-aims)) |
+| Apply participation, oversight, and accountability | **Shared contract** → Chapter One principles ([Constitutional Tetrad](../core_00_preamble.md#constitutional-tetrad), [Two Constitutional Aims](../core_00_preamble.md#two-constitutional-aims)) |
 | Tell "Continuity aim" from operational continuity | **Shared contract** → Continuity disambiguation |
 | Find which file owns a topic | **[CJS-0.1](cjs_00_registry_and_reading_rules.md#cjs-01-cross-file-routing)** (reading guide), **CJS-2.1** (integrator router table), or [topic_router_reader_index.md](../doc_architecture/generated/topic_router_reader_index.md) (grouped index) |
 | Satisfy duties across **CS**, **CI**, and **CF** together | **Shared contract** → scope, overlap, and routing → **CJS-3** |
@@ -139,8 +139,8 @@ Implementation files should point back here instead of repeating long boilerplat
   - Use the canonical meaning of constitutional terms. Do not redefine constitutional terms, Rights Floors, or O/E/C definition mechanics.
   - Treat shorthand inside a subsection as local to that subsection unless a canonical owner later adopts it. If local shorthand conflicts with canonical definitions, the canonical definitions control.
 - **Chapter One principles**
-  - Read implementation obligations through [Chapter One](../core_01_b_stewardship_capacity_principles.md#chapter-01-principles-and-constraints) — including the [Constitutional Tetrad](../core_00_preamble.md#constitutional-tetrad) (**participation**, **oversight**, **accountability**, and **timeliness** scaled to [material stake](../core_00_preamble.md#material-stake)) and [Two Constitutional Aims](../core_01_a_values_principles.md#two-constitutional-aims) (**Flourishing** and **Continuity**). Implementation text must not hollow the Tetrad below material-stake requirements.
-  - **Continuity disambiguation:** constitutional **Continuity aim** (Chapter One §2) is distinct from operational or protocol continuity (for example forum continuity, institutional continuity, or **Protocol D** partition resilience). Do not treat operational continuity language as narrowing the Continuity aim.
+  - Read implementation obligations through [Chapter One](../core_01_b_stewardship_capacity_principles.md#chapter-01-principles-and-constraints) — including the [Constitutional Tetrad](../core_00_preamble.md#constitutional-tetrad) (**participation**, **oversight**, **accountability**, and **timeliness** scaled to [material stake](../core_00_preamble.md#material-stake)) and [Two Constitutional Aims](../core_00_preamble.md#two-constitutional-aims) (**Flourishing** and **Continuity**). Implementation text must not hollow the Tetrad below material-stake requirements.
+  - **Continuity disambiguation:** constitutional **Continuity aim** (Chapter One §1) is distinct from operational or protocol continuity (for example forum continuity, institutional continuity, or **Protocol D** partition resilience). Do not treat operational continuity language as narrowing the Continuity aim.
 - **Scope, overlap, and routing**
   - Add only implementation details that belong inside the file's assigned scope.
   - When implementation files overlap on the same facts:

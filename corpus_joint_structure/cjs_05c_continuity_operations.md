@@ -11,7 +11,7 @@
 <br>
 
 
-This family operationalizes the constitutional [Continuity aim](../core_01_a_values_principles.md#continuity): preserving lawful function under dependency, lifecycle change, stress, and adversarial conditions. **Continuity disambiguation:** constitutional **Continuity aim** (Chapter One §2) is distinct from operational or protocol continuity elsewhere in the corpus.
+This family operationalizes the constitutional [Continuity aim](../core_00_preamble.md#continuity): preserving lawful function under dependency, lifecycle change, stress, and adversarial conditions. **Continuity disambiguation:** constitutional **Continuity aim** (Chapter One §1) is distinct from operational or protocol continuity elsewhere in the corpus.
 
 | Cluster | Section |
 |---|---|

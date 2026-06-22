@@ -321,7 +321,7 @@ A system is non-compliant where it:
 
 - Upstream: [Chapter Three, section 2 — Non-Compliance from Observable System Behavior](#2-non-compliance-from-observable-system-behavior); [Chapter Two, 2.4 Definition Integrity Requirement](#24-definition-integrity-requirement).
 - Downstream: [Chapter Four, section 3 — Definition Traceability Requirement](#3-definition-traceability-requirement); [Chapter Six — Contribution, Violation, and Standing Model](core_06-06_standing_assessment.md#chapter-six-compliance-violation-and-standing-model); [CJS-5.1 Constitutional compass and cluster map](corpus_joint_structure/cjs_05_cross_implementation_operational_terms.md#cjs-51-constitutional-compass-and-cluster-map).
-- Read with: [Non-Compliance Finding Profile](core_05a_accountability_definitions.md#non-compliance-finding-profile) — canonical O/E/C home for profile fields; [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad); [Two Constitutional Aims](core_01_a_values_principles.md#two-constitutional-aims).
+- Read with: [Non-Compliance Finding Profile](core_05a_accountability_definitions.md#non-compliance-finding-profile) — canonical O/E/C home for profile fields; [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad); [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims).
 
 </details>
 
@@ -426,7 +426,7 @@ This required standard scales with [material stake](core_00_preamble.md#material
 - dependency
 - risk
 
-Where scaling affects tradeoffs between sentient wellbeing and long-horizon stability, read with the [Two Constitutional Aims](core_01_a_values_principles.md#two-constitutional-aims) — **Flourishing** and **Continuity** — stated in [Chapter One §2](core_01_a_values_principles.md#2-purpose-and-role).
+Where scaling affects tradeoffs between sentient wellbeing and long-horizon stability, read with the [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) — **Flourishing** and **Continuity** — stated in [Chapter One §1](core_01_a_values_principles.md#1-purpose-and-role).
 
 #### 2.4 Disqualifying evidence; uncertainty; default rule
 The following conditions or evidence types do not meet the burden of proof and are non-compliant:

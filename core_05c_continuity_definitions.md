@@ -18,7 +18,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [Chapter Five compass](core_05-05_definitions_a_independent.md#chapter-five-compass-and-definition-map); [Constitutional Tetrad](../core_00_preamble.md#constitutional-tetrad); [Two Constitutional Aims](../core_01_a_values_principles.md#two-constitutional-aims).
+- Upstream: [Chapter Five compass](core_05-05_definitions_a_independent.md#chapter-five-compass-and-definition-map); [Constitutional Tetrad](../core_00_preamble.md#constitutional-tetrad); [Two Constitutional Aims](../core_00_preamble.md#two-constitutional-aims).
 - Downstream: Continuity-band canonical definition homes for Chapter Five.
 - Read with: **Continuity** band definitions; mandatory cluster read-with where admission scope applies.
 
@@ -27,7 +27,7 @@
 <br>
 
 
-This band holds definitions under the constitutional [Continuity aim](../core_01_a_values_principles.md#continuity): dependency, risk, survival-floor continuity, labor floors, stewardship discipline, privacy lifecycle, and trust. **Continuity disambiguation:** constitutional **Continuity aim** (Chapter One §2) is distinct from operational or protocol continuity elsewhere in the corpus.
+This band holds definitions under the constitutional [Continuity aim](../core_00_preamble.md#continuity): dependency, risk, survival-floor continuity, labor floors, stewardship discipline, privacy lifecycle, and trust. **Continuity disambiguation:** constitutional **Continuity aim** ([Chapter 00 §1](../core_00_preamble.md#continuity); binding O/E/C: [Continuity (Constitutional Aim)](core_05c_continuity_definitions.md#continuity-aim-constitutional)) is distinct from operational or protocol continuity elsewhere in the corpus.
 
 | Cluster | Section |
 |---|---|
@@ -280,7 +280,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_01
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [material stake](core_00_preamble.md#material-stake) scaling; [Two Constitutional Aims](core_01_a_values_principles.md#two-constitutional-aims) — **Continuity** aim ([§9.1](core_01_b_stewardship_capacity_principles.md#101-required-evaluation-factors)).
+- Downstream: Principles: [material stake](core_00_preamble.md#material-stake) scaling; [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) — **Continuity** aim ([§9.1](core_01_b_stewardship_capacity_principles.md#101-required-evaluation-factors)).
 - Read with: [Material Impact](core_05o_oversight_definitions.md#material-impact), [Materiality Determination](core_05o_oversight_definitions.md#materiality-determination), and [Classification-Scaled Governance](core_05o_oversight_definitions.md#classification-scaled-governance).
 
 </details>
@@ -328,7 +328,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_01
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [3. Foundational Objective: Wellbeing](core_01_a_values_principles.md#3-foundational-objective-wellbeing); [Two Constitutional Aims](core_01_a_values_principles.md#two-constitutional-aims) — **Flourishing** aim.
+- Downstream: Principles: [3. Foundational Objective: Wellbeing](core_01_a_values_principles.md#3-foundational-objective-wellbeing); [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) — **Flourishing** aim.
 - Cluster component: [Chapter Five §3.32 *Resilience, Safety, Reversibility, Self-Healing, Cascading Failure, Existential Risk, Environmental Preconditions, and Wellbeing*](core_05p_participation_definitions.md#collective-harm-boundary-and-harm-cluster)
 - Read with: [Harm](core_05a_accountability_definitions.md#harm), [Dependency](core_05c_continuity_definitions.md#dependency), [Meaningful Agency](core_05p_participation_definitions.md#meaningful-agency), and [Environmental Preconditions](core_05c_continuity_definitions.md#environmental-preconditions-constitutional).
 
@@ -355,6 +355,30 @@ This band holds definitions under the constitutional [Continuity aim](../core_01
 
 ### Continuity: Semi-independent terms
 
+<a id="continuity-aim-constitutional"></a>
+
+---
+#### Continuity (Constitutional Aim)
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Upstream: [Two Constitutional Aims](../core_00_preamble.md#two-constitutional-aims); principle-layer gloss at [Chapter 00 §1](../core_00_preamble.md#continuity).
+- Downstream: Principles: [§5.1 Resilience and Self-Healing Design](core_01_a_values_principles.md#51-resilience-and-self-healing-design); [§8 Shared-System Capacity](core_01_b_stewardship_capacity_principles.md#8-shared-system-capacity); Continuity band clusters **§3.12–§3.15**.
+- Read with: [Stewardship](core_05c_continuity_definitions.md#stewardship-constitutional), [Shared-System Capacity](core_05c_continuity_definitions.md#shared-system-capacity-constitutional), [Ecological Integrity](core_05c_continuity_definitions.md#ecological-integrity-constitutional), [Intergenerational Responsibility](core_05c_continuity_definitions.md#intergenerational-responsibility-constitutional), [Self-Healing](core_05c_continuity_definitions.md#self-healing-constitutional), [Indigenous Continuity](core_05c_continuity_definitions.md#indigenous-continuity-constitutional) (distinct subject matter), and [Flourishing](core_05p_participation_definitions.md#flourishing-constitutional) (paired aim).
+
+</details>
+
+<br>
+
+- O: The constitutional aim of long-horizon stability, sustainability, resilience, and ecological wellbeing for sentients and life-supporting systems — evaluated under the [Constitutional Tetrad](../core_00_preamble.md#constitutional-tetrad) and scaled to [material stake](../core_00_preamble.md#material-stake). **Continuity disambiguation:** this entry names the constitutional **Continuity aim** only; it does not govern operational uptime, protocol continuity, or [Indigenous Continuity](core_05c_continuity_definitions.md#indigenous-continuity-constitutional) unless expressly invoked in context.
+<a id="continuity-aim-constitutional-e"></a>
+- E: Assess whether systems preserve durable capacity for repair, adaptation, honest risk stewardship, and ecological boundedness across time — not merely whether current-state metrics look stable. Read with [Stewardship Defect](core_05c_continuity_definitions.md#stewardship-defect-constitutional), [Proxy Divergence](core_05o_oversight_definitions.md#proxy-divergence), [Existential Risk](core_05c_continuity_definitions.md#existential-risk), [Cascading Failure](core_05c_continuity_definitions.md#cascading-failure), and [Flourishing](core_05p_participation_definitions.md#flourishing-constitutional) as paired aim. Short-horizon optimization that hollows **participation**, **oversight**, **accountability**, or **timeliness** below [material stake](../core_00_preamble.md#material-stake) requirements fails **Continuity** even when immediate outputs rise.
+<a id="continuity-aim-constitutional-c"></a>
+- C: Non-compliant: treating **Continuity** as indefinite deferral of correction; stability claims resting on hidden risk transfer, irreversible harm, or ecological burden-shifting; operational "continuity" framing used to defeat [Contestability](core_05a_accountability_definitions.md#contestability) or [Timely Resolution](core_05a_accountability_definitions.md#timely-resolution-constitutional); pursuit of **Continuity** that materially defeats [Flourishing](core_05p_participation_definitions.md#flourishing-constitutional) without express interaction-rule permission under [Chapter One §9](core_01_b_stewardship_capacity_principles.md#9-interaction-and-conflict-resolution).
+
+---
+
 #### Constitutional efficiency, productive capacity, avoidable burden, and burden-reduction duty
 
 **Cluster context:** This semi-independent topic group governs the relationship between resource investment and constitutional outcomes. [Constitutional Efficiency](core_05c_continuity_definitions.md#constitutional-efficiency) measures outcome-per-resource-consumed for constitutionally aligned results. [Productive Capacity](core_05c_continuity_definitions.md#productive-capacity-constitutional) defines the system-level ability for meaningful participation without exploitation. [Avoidable Burden](core_05c_continuity_definitions.md#avoidable-burden) identifies costs not traceable to constitutional outcomes. [Burden-Reduction Duty](core_05c_continuity_definitions.md#burden-reduction-duty-constitutional) imposes an affirmative stewardship obligation to minimize such friction. Where these concepts intersect with proportionality, necessity, and feasibility constraints, [the dependent cluster](core_05c_continuity_definitions.md#proportionality-necessity-feasibility-burden-and-efficiency-cluster) governs joint satisfaction. This cluster does not authorize efficiency gains or burden reduction achieved by weakening [Safety (Constraint)](core_05c_continuity_definitions.md#safety-constraint), [Truth (Constitutional Constraint)](core_05o_oversight_definitions.md#truth-constitutional-constraint), the Chapter Ten Rights Floor, audit, [Contestability](core_05a_accountability_definitions.md#contestability), or retrospective-review obligations.
@@ -378,7 +402,7 @@ This band holds definitions under the constitutional [Continuity aim](../core_01
 
 - Downstream: Principles: [§8 Shared-System Capacity](core_01_b_stewardship_capacity_principles.md#8-shared-system-capacity); [§8.1 Productive Capacity (Instrumental Good)](core_01_b_stewardship_capacity_principles.md#81-productive-capacity-instrumental-good) through [§8.5 Consolidation Ceiling](core_01_b_stewardship_capacity_principles.md#85-consolidation-ceiling).
 - Cluster component: [Stewardship, Governance Discipline, and Shared-System Capacity](core_05c_continuity_definitions.md#stewardship-governance-discipline-and-shared-system-capacity-cluster); [Proportionality, Necessity, Feasibility, Avoidable Burden, Burden-Reduction Duty, Constitutional Efficiency, Harm Minimization (Tradeoff Selection), and Productive Capacity](core_05c_continuity_definitions.md#proportionality-necessity-feasibility-burden-and-efficiency-cluster).
-- Read with: [Stewardship](core_05c_continuity_definitions.md#stewardship-constitutional), [Governance](core_05a_accountability_definitions.md#governance), [Productive Capacity](core_05c_continuity_definitions.md#productive-capacity-constitutional), [Constitutional Efficiency](core_05c_continuity_definitions.md#constitutional-efficiency), [Concentration Threshold](core_05a_accountability_definitions.md#concentration-threshold-constitutional), [Proxy Divergence](core_05o_oversight_definitions.md#proxy-divergence), and [Two Constitutional Aims](core_01_a_values_principles.md#two-constitutional-aims).
+- Read with: [Stewardship](core_05c_continuity_definitions.md#stewardship-constitutional), [Governance](core_05a_accountability_definitions.md#governance), [Productive Capacity](core_05c_continuity_definitions.md#productive-capacity-constitutional), [Constitutional Efficiency](core_05c_continuity_definitions.md#constitutional-efficiency), [Concentration Threshold](core_05a_accountability_definitions.md#concentration-threshold-constitutional), [Proxy Divergence](core_05o_oversight_definitions.md#proxy-divergence), and [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims).
 
 </details>
 
@@ -1208,14 +1232,14 @@ This cluster is the joint-invocation home for principle-layer stewardship orient
 
 - Downstream: Principles: [§6 Stewardship and Distributed Understanding](core_01_b_stewardship_capacity_principles.md#6-stewardship-and-distributed-understanding); [§7 Governance Under Stewardship Discipline](core_01_b_stewardship_capacity_principles.md#7-governance-under-stewardship-discipline).
 - Cluster component: [Stewardship, Governance Discipline, and Shared-System Capacity](core_05c_continuity_definitions.md#stewardship-governance-discipline-and-shared-system-capacity-cluster).
-- Read with: [Chapter One Part B](core_01_b_stewardship_capacity_principles.md#chapter-01-part-b-stewardship-capacity-and-constitutional-safeguards) §§6–8; [Two Constitutional Aims](core_01_a_values_principles.md#two-constitutional-aims) — **Continuity** aim (*cluster read-with principles*).
-- Read with: [Governance](core_05a_accountability_definitions.md#governance), [Shared-System Capacity](core_05c_continuity_definitions.md#shared-system-capacity-constitutional), [Two Constitutional Aims](core_01_a_values_principles.md#two-constitutional-aims) — **Continuity** aim, [Ecological Integrity](core_05c_continuity_definitions.md#ecological-integrity-constitutional), and [Timeliness](core_05a_accountability_definitions.md#timeliness-constitutional).
+- Read with: [Chapter One Part B](core_01_b_stewardship_capacity_principles.md#chapter-01-part-b-stewardship-capacity-and-constitutional-safeguards) §§6–8; [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) — **Continuity** aim (*cluster read-with principles*).
+- Read with: [Governance](core_05a_accountability_definitions.md#governance), [Shared-System Capacity](core_05c_continuity_definitions.md#shared-system-capacity-constitutional), [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) — **Continuity** aim, [Ecological Integrity](core_05c_continuity_definitions.md#ecological-integrity-constitutional), and [Timeliness](core_05a_accountability_definitions.md#timeliness-constitutional).
 
 </details>
 
 <br>
 
-- O: The principle-layer orientation of systems, institutions, and authorized actors toward preserving constitutional alignment, repair capacity, [Distributed Understanding](core_05c_continuity_definitions.md#distributed-understanding-constitutional), and long-horizon consequences — including ecological, intergenerational, and **Continuity**-aim effects under the [Two Constitutional Aims](core_01_a_values_principles.md#two-constitutional-aims) — over time.
+- O: The principle-layer orientation of systems, institutions, and authorized actors toward preserving constitutional alignment, repair capacity, [Distributed Understanding](core_05c_continuity_definitions.md#distributed-understanding-constitutional), and long-horizon consequences — including ecological, intergenerational, and **Continuity**-aim effects under the [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) — over time.
 <a id="stewardship-constitutional-e"></a>
 - E: Distinguish from governance form, documentation, consultation theater, or single-metric optimization. Assess foresight, correction, participation pathways, incentive design, and repair velocity across delayed, cumulative, systemic, and intergenerational effects. Read with [Strategic Stewardship Obligation](core_05c_continuity_definitions.md#strategic-stewardship-obligation-constitutional) and [Timeliness](core_05a_accountability_definitions.md#timeliness-constitutional) for operative duty on stewards and operators with material influence.
 <a id="stewardship-constitutional-c"></a>
@@ -1278,13 +1302,13 @@ This cluster is the joint-invocation home for principle-layer stewardship orient
 
 - Downstream: Principles: [§7.2 Short-Horizon Governance Defects](core_01_b_stewardship_capacity_principles.md#72-short-horizon-governance-defects); [§7 Governance Under Stewardship Discipline](core_01_b_stewardship_capacity_principles.md#7-governance-under-stewardship-discipline).
 - Cluster component: [Stewardship, Governance Discipline, and Shared-System Capacity](core_05c_continuity_definitions.md#stewardship-governance-discipline-and-shared-system-capacity-cluster).
-- Read with: [Governance](core_05a_accountability_definitions.md#governance), [Stewardship](core_05c_continuity_definitions.md#stewardship-constitutional), [Stewardship Defect](core_05c_continuity_definitions.md#stewardship-defect-constitutional), [System Capture](core_05c_continuity_definitions.md#system-capture), [Proxy Divergence](core_05o_oversight_definitions.md#proxy-divergence), [Review and Correction Duty](core_05c_continuity_definitions.md#review-and-correction-duty-constitutional), and [Two Constitutional Aims](core_01_a_values_principles.md#two-constitutional-aims) — **Continuity** aim.
+- Read with: [Governance](core_05a_accountability_definitions.md#governance), [Stewardship](core_05c_continuity_definitions.md#stewardship-constitutional), [Stewardship Defect](core_05c_continuity_definitions.md#stewardship-defect-constitutional), [System Capture](core_05c_continuity_definitions.md#system-capture), [Proxy Divergence](core_05o_oversight_definitions.md#proxy-divergence), [Review and Correction Duty](core_05c_continuity_definitions.md#review-and-correction-duty-constitutional), and [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) — **Continuity** aim.
 
 </details>
 
 <br>
 
-- O: A material governance pattern that optimizes immediate metrics, convenience, institutional self-protection, or transient stability at the foreseeable expense of medium- or long-horizon constitutional alignment, the **Continuity** aim under the [Two Constitutional Aims](core_01_a_values_principles.md#two-constitutional-aims), or Rights-Floor integrity.
+- O: A material governance pattern that optimizes immediate metrics, convenience, institutional self-protection, or transient stability at the foreseeable expense of medium- or long-horizon constitutional alignment, the **Continuity** aim under the [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims), or Rights-Floor integrity.
 <a id="short-horizon-governance-defect-constitutional-e"></a>
 - E: Include uncorrected [Proxy Divergence](core_05o_oversight_definitions.md#proxy-divergence), permanent-emergency normalization, deferred safeguard maintenance, incentive structures rewarding throughput over outcomes, and governance that treats short-horizon value as sufficient without [Review and Correction Duty](core_05c_continuity_definitions.md#review-and-correction-duty-constitutional) revalidation. Distinguish bounded, time-limited emergency measures that satisfy **Necessity**, **Proportionality**, and applicable Chapter Ten safeguards from defects that persist without correction paths.
 <a id="short-horizon-governance-defect-constitutional-c"></a>

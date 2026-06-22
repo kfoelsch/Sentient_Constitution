@@ -93,6 +93,7 @@ This directory lists **Definitions A-Z** and **Clusters A-Z** separately. Each v
 - [Constitutional Contract Layer](core_05i_integrative_definitions.md#constitutional-contract-layer)
 - [Constitutional Efficiency](core_05c_continuity_definitions.md#constitutional-efficiency)
 - [Constitutional Emergency and Contingency](core_05c_continuity_definitions.md#constitutional-emergency-and-contingency)
+- [Continuity (Constitutional Aim)](core_05c_continuity_definitions.md#continuity-aim-constitutional)
 - [Contestability](core_05a_accountability_definitions.md#contestability)
 - [Contested-Sentient Life](core_05p_participation_definitions.md#contested-sentient-life-constitutional)
 - [Contingent Claim](core_05a_accountability_definitions.md#contingent-claim)
@@ -135,6 +136,7 @@ This directory lists **Definitions A-Z** and **Clusters A-Z** separately. Each v
 - [Forum Family, Technical](core_05a_accountability_definitions.md#forum-family-technical)
 - [Foundational Constitutional Choice](core_05i_integrative_definitions.md#foundational-constitutional-choice)
 - [Freedom (Bounded Agency)](core_05p_participation_definitions.md#freedom-bounded-agency)
+- [Flourishing](core_05p_participation_definitions.md#flourishing-constitutional)
 - [Game of Chance](core_05a_accountability_definitions.md#game-of-chance)
 - [Good Faith](core_05a_accountability_definitions.md#good-faith)
 - [Governance](core_05a_accountability_definitions.md#governance)
@@ -176,6 +178,7 @@ This directory lists **Definitions A-Z** and **Clusters A-Z** separately. Each v
 - [Observability](core_05o_oversight_definitions.md#observability)
 - [Oversight](core_05o_oversight_definitions.md#oversight-constitutional)
 - [Parent-System Relationship](core_05p_participation_definitions.md#parent-system-relationship-constitutional)
+- [Participation](core_05p_participation_definitions.md#participation-constitutional)
 - [Participant Standing](core_05a_accountability_definitions.md#participant-standing-constitutional)
 - [Press and Journalistic Activity](core_05o_oversight_definitions.md#press-and-journalistic-activity-constitutional)
 - [Primary-Stakes Routing](core_05a_accountability_definitions.md#primary-stakes-routing)
@@ -299,7 +302,7 @@ This directory lists **Definitions A-Z** and **Clusters A-Z** separately. Each v
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [Constitutional Tetrad](../core_00_preamble.md#constitutional-tetrad); [Two Constitutional Aims](../core_01_a_values_principles.md#two-constitutional-aims); [material stake](../core_00_preamble.md#material-stake).
+- Upstream: [Constitutional Tetrad](../core_00_preamble.md#constitutional-tetrad); [Two Constitutional Aims](../core_00_preamble.md#two-constitutional-aims); [material stake](../core_00_preamble.md#material-stake).
 - Downstream: constitutional orientation for all Chapter Five band definitions and §3 dependent clusters.
 - Read with: [§3.0.1 Joint invocation](core_05-05_definitions_a_independent.md#joint-invocation-and-satisfaction) and [§3.0.2 Standalone interaction](core_05-05_definitions_a_independent.md#standalone-definitions-interaction-and-full-context) meta rules before applying any dependent cluster.
 
@@ -307,7 +310,7 @@ This directory lists **Definitions A-Z** and **Clusters A-Z** separately. Each v
 
 <br>
 
-Use this compass before invoking any Chapter Five definition. Chapter Five supplies canonical O/E/C homes; it does not replace the [Constitutional Tetrad](../core_00_preamble.md#constitutional-tetrad), [Two Constitutional Aims](../core_01_a_values_principles.md#two-constitutional-aims), or [material stake](../core_00_preamble.md#material-stake) scaling required by [Chapter Two](../core_02-04_definition_mechanics.md).
+Use this compass before invoking any Chapter Five definition. Chapter Five supplies canonical O/E/C homes for Tetrad legs ([Participation](core_05p_participation_definitions.md#participation-constitutional), [Oversight](core_05o_oversight_definitions.md#oversight-constitutional), [Accountability](core_05a_accountability_definitions.md#accountability), [Timeliness](core_05a_accountability_definitions.md#timeliness-constitutional)) and constitutional aims ([Flourishing](core_05p_participation_definitions.md#flourishing-constitutional), [Continuity (Constitutional Aim)](core_05c_continuity_definitions.md#continuity-aim-constitutional)); it does not replace the [Constitutional Tetrad](../core_00_preamble.md#constitutional-tetrad), [Two Constitutional Aims](../core_00_preamble.md#two-constitutional-aims), or [material stake](../core_00_preamble.md#material-stake) principle-layer glosses in [Chapter 00 §1](../core_00_preamble.md#the-model).
 
 **Reading order**
 

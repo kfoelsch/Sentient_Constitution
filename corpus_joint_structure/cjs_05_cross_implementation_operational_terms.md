@@ -134,7 +134,7 @@ Stewardship role
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.2](cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [Chapter One](../core_01_b_stewardship_capacity_principles.md#chapter-01-principles-and-constraints) principles — [Constitutional Tetrad](../core_00_preamble.md#constitutional-tetrad), [Two Constitutional Aims](../core_01_a_values_principles.md#two-constitutional-aims), and [material stake](../core_00_preamble.md#material-stake).
+- Upstream: [CJS-1.2](cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [Chapter One](../core_01_b_stewardship_capacity_principles.md#chapter-01-principles-and-constraints) principles — [Constitutional Tetrad](../core_00_preamble.md#constitutional-tetrad), [Two Constitutional Aims](../core_00_preamble.md#two-constitutional-aims), and [material stake](../core_00_preamble.md#material-stake).
 - Downstream: constitutional orientation for all **CJS-5.2–CJS-5.23** operational clusters.
 - Read with: [CJS-5.0](cjs_05_cross_implementation_operational_terms.md#cjs-50-role-definition-preface-and-standing-competency-gate-interface) role preface when role authority is in play; **CJS-2.1** topic router when a cross-layer topic is triggered.
 
@@ -142,7 +142,7 @@ Stewardship role
 
 <br>
 
-Use this compass before applying any **CJS-5** (*Implementation and cross-implementation operational cluster library*) operational cluster. **CJS-5** (*Implementation and cross-implementation operational cluster library*) operationalizes Chapter Five definitions and owner-file rules across **CJS**, **CS**, **CI**, and **CF**; it does not replace the [Constitutional Tetrad](../core_00_preamble.md#constitutional-tetrad), [Two Constitutional Aims](../core_01_a_values_principles.md#two-constitutional-aims), or [material stake](../core_00_preamble.md#material-stake) scaling required by [CJS-1.2](cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract).
+Use this compass before applying any **CJS-5** (*Implementation and cross-implementation operational cluster library*) operational cluster. **CJS-5** (*Implementation and cross-implementation operational cluster library*) operationalizes Chapter Five definitions and owner-file rules across **CJS**, **CS**, **CI**, and **CF**; it does not replace the [Constitutional Tetrad](../core_00_preamble.md#constitutional-tetrad), [Two Constitutional Aims](../core_00_preamble.md#two-constitutional-aims), or [material stake](../core_00_preamble.md#material-stake) scaling required by [CJS-1.2](cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract).
 
 **Reading order**
 

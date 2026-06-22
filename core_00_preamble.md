@@ -23,14 +23,19 @@ No system may preserve legitimacy through avoidable suffering, persistent neglig
 
 ### 1. The Model
 
-<a id="constitutional-tetrad"></a>Those important systems are governed and run under four duties, called the [**Constitutional Tetrad**](#constitutional-tetrad). It lays out the general duties essential systems must meet. The strength of those duties depends on the <a id="material-stake"></a>[**material stake**](#material-stake): how much impact, dependence, and risk are involved. The higher the stake, the stronger the duties must be.
+<a id="the-model"></a><a id="constitutional-tetrad"></a>Those important systems are governed and run under four duties, called the [**Constitutional Tetrad**](#constitutional-tetrad). It lays out the general duties essential systems must meet. The strength of those duties depends on the <a id="material-stake"></a>[**material stake**](#material-stake): how much impact, dependence, and risk are involved. The higher the stake, the stronger the duties must be.
 
 - **participation** — people affected get a real voice, fair representation, a fair chance to challenge decisions, and access to roles that matter in proportion to what's at stake
 - **oversight** — someone is watching, checking, verifying, and keeping records so problems can be found; independent reviewers can constrain bad choices
 - **accountability** — responsibility traces to the right actors; they must answer for their choices; those harmed get redress; bad outcomes trigger real correction
 - **timeliness** — problems get detected, challenged, resolved, and fixed within time limits that match what's at stake; delays that would effectively wipe out someone's rights, remedies, or chance of repair are not legitimate governance
 
-Those four duties serve the [**Two Constitutional Aims**](core_01_a_values_principles.md#two-constitutional-aims), **Flourishing** and **Continuity**. **Flourishing** means sentient wellbeing sustained through truth, safety, trustworthiness, and meaningful agency. **Continuity** means long-horizon stability, sustainability, resilience, and ecological wellbeing. Shared systems must pursue both aims together, not one at the expense of the other.
+<a id="two-constitutional-aims"></a>Those four duties serve what shared systems must optimize for — the [**Two Constitutional Aims**](#two-constitutional-aims):
+
+- <a id="flourishing"></a>**Flourishing** — sentient wellbeing sustained through truth, safety, trustworthiness, and meaningful agency
+- <a id="continuity"></a>**Continuity** — long-horizon stability, sustainability, resilience, and ecological wellbeing
+
+Those aims must be pursued together, always within the non-negotiable constraints and rights protections established in this Constitution. The [**Constitutional Tetrad**](#constitutional-tetrad) governs how that pursuit remains legitimate: **participation**, **oversight**, **accountability**, and **timeliness** scaled to [**material stake**](#material-stake). Binding O/E/C definitions for Tetrad legs and constitutional aims live in Chapter Five: [Participation](core_05p_participation_definitions.md#participation-constitutional), [Oversight](core_05o_oversight_definitions.md#oversight-constitutional), [Accountability](core_05a_accountability_definitions.md#accountability), [Timeliness](core_05a_accountability_definitions.md#timeliness-constitutional), [Flourishing](core_05p_participation_definitions.md#flourishing-constitutional), and [Continuity (Constitutional Aim)](core_05c_continuity_definitions.md#continuity-aim-constitutional).
 
 ### 2. The Measurements
 
@@ -42,7 +47,7 @@ Those four duties serve the [**Two Constitutional Aims**](core_01_a_values_princ
 
 <a id="material-family-orientation"></a>Chapter Five gives the formal definitions for judging when stakes are constitutionally serious enough to require stronger duties. These include [Material](core_05o_oversight_definitions.md#material) (conditions that can cause meaningful impact or risk), [Material Impact](core_05o_oversight_definitions.md#material-impact) and [Material Risk](core_05o_oversight_definitions.md#material-risk) (what is being evaluated), and **Materiality** (the judgment that something crosses constitutional significance — formal home: [Materiality Determination](core_05o_oversight_definitions.md#materiality-determination)). The binding definitions for this family are in Chapter Five, [Materiality, impact, risk, and proxy integrity](core_05c_continuity_definitions.md#materiality-semi-independent). When ordinary prose says something happened *materially*, that signals this family may apply; capitalized **Material** terms trigger the stricter Chapter Five definitions.
 
-Constitutional measurement must support sustainable, resilient, and compassionate systems that protect the healthy existence of all sentients in alignment with the ecological wellbeing of planet Earth. This duty is expressed in binding form through the [Two Constitutional Aims](core_01_a_values_principles.md#two-constitutional-aims) in [Chapter One, §2 Purpose and Role](core_01_a_values_principles.md#2-purpose-and-role).
+Constitutional measurement must support sustainable, resilient, and compassionate systems that protect the healthy existence of all sentients in alignment with the ecological wellbeing of planet Earth. This duty is expressed in binding form through the [Two Constitutional Aims](#two-constitutional-aims) stated above.
 
 ### 3. Governance and Stewardship
 
@@ -59,7 +64,7 @@ Durable legitimacy depends on [Safety](core_01_a_values_principles.md#41-safety-
 
 ### 4. Alignment
 
-This Constitution establishes a binding alignment framework for systems that materially affect sentients. Its objective is durable alignment of shared systems with the **Two Constitutional Aims** across short- and long-horizon behavior.
+This Constitution establishes a binding alignment framework for systems that materially affect sentients. Its objective is durable alignment of shared systems with the [**Two Constitutional Aims**](#two-constitutional-aims) across short- and long-horizon behavior.
 
 That objective is interpreted through:
 - **Chapter One** — principles and constraints

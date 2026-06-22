@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/crossref_matrix.schema.json",
-  "generated_at": "2026-06-22T07:21:36+00:00",
+  "generated_at": "2026-06-22T18:42:58+00:00",
   "description": "Source-derived file-to-file Markdown reference graph.",
   "graph": {
     "nodes": [
@@ -387,10 +387,21 @@
         "targets": [
           {
             "file": "core_01_a_values_principles.md",
-            "count": 6,
+            "count": 9,
             "anchors": [
-              "#2-purpose-and-role",
-              "#32-recognition-reinforcement-and-aspiration"
+              "#1-purpose-and-role",
+              "#32-recognition-reinforcement-and-aspiration",
+              "#41-safety-harm-constraint",
+              "#42-truth-epistemic-integrity-constraint",
+              "#5-system-stability-enabler-trust-coordination-integrity",
+              "#two-constitutional-aims"
+            ]
+          },
+          {
+            "file": "core_01_b_stewardship_capacity_principles.md",
+            "count": 1,
+            "anchors": [
+              "#914-minimization-of-avoidable-burden"
             ]
           },
           {
@@ -409,10 +420,12 @@
           },
           {
             "file": "core_05c_continuity_definitions.md",
-            "count": 2,
+            "count": 5,
             "anchors": [
+              "#avoidable-burden",
               "#constitutional-efficiency",
-              "#materiality-semi-independent"
+              "#materiality-semi-independent",
+              "#productive-capacity-constitutional"
             ]
           },
           {
@@ -462,11 +475,12 @@
           },
           {
             "file": "core_01_b_stewardship_capacity_principles.md",
-            "count": 49,
+            "count": 50,
             "anchors": [
               "#101-required-evaluation-factors",
               "#11-freedom-bounded-agency",
               "#12-prohibition-on-absolute-override",
+              "#13-integrated-application",
               "#6-stewardship-and-distributed-understanding",
               "#7-governance-under-stewardship-discipline",
               "#74-stewardship-and-operator-incentive-alignment",
@@ -712,12 +726,12 @@
           },
           {
             "file": "core_01_a_values_principles.md",
-            "count": 54,
+            "count": 56,
             "anchors": [
-              "#1-constitutional-interpretation",
-              "#11-definitional-layer-and-required-disciplines",
-              "#12-ambiguity-resolution",
-              "#2-purpose-and-role",
+              "#1-purpose-and-role",
+              "#2-constitutional-interpretation",
+              "#21-definitional-layer-and-required-disciplines",
+              "#22-ambiguity-resolution",
               "#3-foundational-objective-wellbeing",
               "#42-truth-epistemic-integrity-constraint",
               "#5-system-stability-enabler-trust-coordination-integrity",
@@ -1077,7 +1091,7 @@
             "file": "core_01_a_values_principles.md",
             "count": 11,
             "anchors": [
-              "#2-purpose-and-role",
+              "#1-purpose-and-role",
               "#41-safety-harm-constraint",
               "#42-truth-epistemic-integrity-constraint",
               "#43-science-informed-inquiry-and-decision-support",
@@ -2510,7 +2524,7 @@
             "file": "core_01_a_values_principles.md",
             "count": 7,
             "anchors": [
-              "#1-constitutional-interpretation",
+              "#2-constitutional-interpretation",
               "#two-constitutional-aims"
             ]
           },
@@ -3481,17 +3495,20 @@
           },
           {
             "file": "core_01_b_stewardship_capacity_principles.md",
-            "count": 27,
+            "count": 30,
             "anchors": [
               "#10-systemic-evaluation-requirement",
               "#101-required-evaluation-factors",
               "#11-freedom-bounded-agency",
               "#7-governance-under-stewardship-discipline",
+              "#73-incentive-alignment-and-system-capture",
               "#74-stewardship-and-operator-incentive-alignment",
               "#83-concentration-threshold-mechanism-adopter-tunable",
+              "#9-interaction-and-conflict-resolution",
               "#91-core-tradeoff-principles",
               "#92-epistemic-disclosure-constraints",
-              "#93-freedom-limitation-constraints"
+              "#93-freedom-limitation-constraints",
+              "#941-rights-collision-decision-test"
             ]
           },
           {
@@ -4824,17 +4841,17 @@
           },
           {
             "file": "core_01_a_values_principles.md",
-            "count": 5,
+            "count": 13,
             "anchors": [
-              "#1-constitutional-interpretation",
+              "#2-constitutional-interpretation",
+              "#24-canonical-conflict-resolution-procedure",
               "#two-constitutional-aims"
             ]
           },
           {
             "file": "core_01_b_stewardship_capacity_principles.md",
-            "count": 9,
+            "count": 1,
             "anchors": [
-              "#14-canonical-conflict-resolution-procedure",
               "#chapter-01-principles-and-constraints"
             ]
           },

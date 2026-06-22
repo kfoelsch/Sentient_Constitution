@@ -30,20 +30,20 @@
           "contains_definitions": false,
           "subsections": [
             {
-              "id": "interpretive-constraints",
-              "header": "1. Constitutional Interpretation",
+              "id": "purpose-and-role",
+              "header": "1. Purpose and Role",
               "level": 3,
-              "line_start": 11,
-              "line_end": 84,
-              "anchor": null
+              "line_start": 22,
+              "line_end": 67,
+              "anchor": "#1-purpose-and-role"
             },
             {
-              "id": "purpose-and-role",
-              "header": "2. Purpose and Role",
+              "id": "interpretive-constraints",
+              "header": "2. Constitutional Interpretation",
               "level": 3,
-              "line_start": 85,
-              "line_end": 128,
-              "anchor": "#two-constitutional-aims"
+              "line_start": 68,
+              "line_end": 153,
+              "anchor": "#2-constitutional-interpretation"
             }
           ]
         }

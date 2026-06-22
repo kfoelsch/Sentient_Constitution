@@ -5,7 +5,7 @@
 
 > The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this file or in other chapters.
 >
-> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one instrument. It contains **Chapters Twelve through Fourteen**. Amendment validity must preserve both [Two Constitutional Aims](core_01_a_values_principles.md#two-constitutional-aims) — **Flourishing** and **Continuity** — and must not hollow the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) below [material stake](core_00_preamble.md#material-stake) requirements. Chapter numbering and cross-references match the integrated instrument. Reading order, the binding/support split, and corpus edition metadata are maintained in [README.md](README.md).
+> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one instrument. It contains **Chapters Twelve through Fourteen**. Amendment validity must preserve both [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) — **Flourishing** and **Continuity** — and must not hollow the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) below [material stake](core_00_preamble.md#material-stake) requirements. Chapter numbering and cross-references match the integrated instrument. Reading order, the binding/support split, and corpus edition metadata are maintained in [README.md](README.md).
 
 </details>
 
