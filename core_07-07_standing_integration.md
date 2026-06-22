@@ -735,6 +735,8 @@ Dimensions decompose verified findings; they do **not** replace the Violation Ax
 
 Article XXIII-B/C, the verified-input gate ([Ch6 §2.3.2](core_06-06_standing_assessment.md#verified-inputs-for-standing)), and the no-substitution rule ([§4.2](#62-joint-assessment-escalation-constraints-and-scrutiny)) apply in every example.
 
+Domain-scale pipeline walkthroughs with **Article XXIII-G** milestone tables: [implementation/CH6-9_APPLICATION_VIGNETTES.md](../implementation/CH6-9_APPLICATION_VIGNETTES.md).
+
 <a id="violation-axis-slot-lock-and-attachment-compass"></a>
 
 **Violation Axis slot and attachment compass.** Severity classification comes from [Chapter Six section 6.2](core_06-06_standing_assessment.md#34-violation-axis-rules-violation-nature-adverse-findings-and-severity). This table maps each slot to the **process / response character** labels **§3** may attach once severity is verified. **Standing locks** are assigned separately under [**§4.2**](core_07-07_standing_integration.md#62-joint-assessment-escalation-constraints-and-scrutiny) and [**§4.3**](core_07-07_standing_integration.md#standing-integration-slot-band-standing-locks). Final **Violation Axis s = 7, 8, or 9** assignment for anti-constitutional misconduct remains in [**Chapter Eight**](core_08-08_misconduct.md#chapter-eight-anti-constitutional-misconduct).
@@ -1344,7 +1346,7 @@ The purpose of **standing locks** is to prevent recurrence of harmful, negligent
 
 - Upstream: [§4](#8-cross-axis-coupling-and-escalation-constraints), including [§4.2](#62-joint-assessment-escalation-constraints-and-scrutiny) and [§4.3](#standing-integration-slot-band-standing-locks) (*classification stack, non-substitution discipline, and standing locks*).
 - Downstream: [Chapter Twelve §1](core_12-14_amendment.md#4-disputes-involving-external-legal-orders) (*external-order disputes read with cross-jurisdiction continuity*); **[corpus_systems.md](corpus_systems.md)** and implementation text (*operational detail for these anchors*).
-- Read with: [Chapter Five — Redress and Remediation](core_05a_accountability_definitions.md#redress-and-remediation-constitutional) (*remedy-organ durability hook*); [Article XII-B](core_10-10_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress) (*challenge and redress access*).
+- Read with: [Chapter Five — Redress and Remediation](core_05a_accountability_definitions.md#redress-and-remediation-constitutional) (*remedy-organ durability hook*); [Article XII-B](core_10-10_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress) (*challenge and redress access*); [Article XXIII-G](core_10-10_rights_part_d.md#article-xxiii-g-timely-resolution-and-anti-delay-floor) (*timely resolution tier milestones*).
 
 </details>
 
@@ -1377,7 +1379,7 @@ Adopted implementation may specify funding mechanisms, asset recovery, insurance
 
 Forums, oversight bodies, complaint offices, technical review bodies, and rights-sensitive administrative systems must have enough staffing, funding, independence, records capacity, and succession planning to make challenge and redress access meaningful. Chronic underfunding, designed backlog, inaccessible intake, or dependency on a single fragile office can itself evidence constitutional non-compliance where it foreseeably nullifies rights or remedies.
 
-Capacity duties scale with risk, volume, vulnerability, and rights sensitivity. Systems such as child protection, environmental enforcement, benefits administration, detention oversight, public-health response, and comparable high-impact systems require durable remedy organs capable of timely intake, preservation, review, and enforcement.
+Capacity duties scale with risk, volume, vulnerability, and rights sensitivity. Systems such as child protection, environmental enforcement, benefits administration, detention oversight, public-health response, and comparable high-impact systems require durable remedy organs capable of timely intake, preservation, review, and enforcement. Those organs must meet **Article XXIII-G** tier milestones and pipeline-stage windows; chronic failure to do so is non-compliance under **Article XII-B** and this section.
 
 #### 5.3 Cross-jurisdiction continuity
 

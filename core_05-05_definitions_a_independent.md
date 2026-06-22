@@ -241,6 +241,7 @@ This directory lists **Definitions A-Z** and **Clusters A-Z** separately. Each v
 - [Systemic Lock-In](core_05c_continuity_definitions.md#systemic-lock-in)
 - [Systemic Materiality](core_05c_continuity_definitions.md#systemic-materiality)
 - [Tenure Security](core_05c_continuity_definitions.md#tenure-security-constitutional)
+- [Timely Resolution](core_05a_accountability_definitions.md#timely-resolution-constitutional)
 - [Top-Slot Review](core_05a_accountability_definitions.md#top-slot-review)
 - [Training-Data Use](core_05c_continuity_definitions.md#training-data-use-constitutional)
 - [Transparency](core_05o_oversight_definitions.md#transparency)

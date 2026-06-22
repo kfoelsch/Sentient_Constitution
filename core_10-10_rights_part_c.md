@@ -87,6 +87,7 @@ Trustworthiness must be evaluated across time, scale, and dependency relationshi
 
 - [Good Faith](core_05a_accountability_definitions.md#good-faith) · [O](core_05a_accountability_definitions.md#good-faith) · [E](core_05a_accountability_definitions.md#good-faith-e) · [C](core_05a_accountability_definitions.md#good-faith-c)
 - [Redress and Remediation](core_05a_accountability_definitions.md#redress-and-remediation-constitutional) · [O](core_05a_accountability_definitions.md#redress-and-remediation-constitutional) · [E](core_05a_accountability_definitions.md#redress-and-remediation-constitutional-e) · [C](core_05a_accountability_definitions.md#redress-and-remediation-constitutional-c)
+- [Timely Resolution](core_05a_accountability_definitions.md#timely-resolution-constitutional) · [O](core_05a_accountability_definitions.md#timely-resolution-constitutional) · [E](core_05a_accountability_definitions.md#timely-resolution-constitutional-e) · [C](core_05a_accountability_definitions.md#timely-resolution-constitutional-c)
 - [Protected Reporting (Whistleblowing)](core_05a_accountability_definitions.md#protected-reporting-whistleblowing) · [O](core_05a_accountability_definitions.md#protected-reporting-whistleblowing) · [E](core_05a_accountability_definitions.md#protected-reporting-whistleblowing-e) · [C](core_05a_accountability_definitions.md#protected-reporting-whistleblowing-c)
 
 </details>
@@ -98,6 +99,7 @@ Trustworthiness must be evaluated across time, scale, and dependency relationshi
 - **Right to challenge, review, and redress:** Good-faith challenges (*Good Faith*, **Chapter Five**), review requests, and protected reports must not be suppressed, obstructed, or penalized.
 - **Access to correction:** Sentients have the right to practical access to review, audit, correction, and proportionate remediation where system failures materially affect them.
   - Redress and remediation for material impacts are governed by **Chapter Five** Independent Definitions (*Redress and Remediation*).
+- **Timely redress:** Practical access includes time-bounded intake, acknowledgment, and proportionate interim relief where ongoing harm is material under **Article XXIII-G** (*Timely Resolution and Anti-Delay Floor*). Indefinite pendency without documented tier-appropriate justification is incompatible with this Article.
 - **Substantive entitlements:** Sentients have the right to:
   - challenge the reliability, integrity, or trustworthiness of systems that materially affect them;
   - access appropriate mechanisms for review, audit, and correction;

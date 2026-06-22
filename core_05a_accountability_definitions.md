@@ -284,12 +284,13 @@ This band holds **Accountability**-leg definitions: contestability, redress, gov
 
 #### Accountability, contestability, and redress pathways
 
-**Cluster context:** This semi-independent topic group establishes the foundational mechanisms for holding actors responsible and seeking correction of constitutional violations. It covers the attribution of responsibility ([Accountability](core_05a_accountability_definitions.md#accountability)), the ability to challenge and seek remedy ([Contestability](core_05a_accountability_definitions.md#contestability)), formal pathways for resolving disputes ([Adjudication and Dispute Resolution](core_05a_accountability_definitions.md#adjudication-and-dispute-resolution-constitutional)), binding substantive dispositions in those pathways ([Merits Determination](core_05a_accountability_definitions.md#merits-determination)), systemic failures where responsibility is diffused ([Collective Accountability Failure](core_05a_accountability_definitions.md#collective-accountability-failure)), exceptional external disruptions ([Force Majeure](core_05a_accountability_definitions.md#force-majeure-constitutional)), and protection against capture of outcome-determination mechanisms ([Capture of Resolution Pathways](core_05a_accountability_definitions.md#capture-of-resolution-pathways)). These definitions operate together where review, redress, or resolution of constitutional claims is material.
+**Cluster context:** This semi-independent topic group establishes the foundational mechanisms for holding actors responsible and seeking correction of constitutional violations. It covers the attribution of responsibility ([Accountability](core_05a_accountability_definitions.md#accountability)), the ability to challenge and seek remedy ([Contestability](core_05a_accountability_definitions.md#contestability)), formal pathways for resolving disputes ([Adjudication and Dispute Resolution](core_05a_accountability_definitions.md#adjudication-and-dispute-resolution-constitutional)), resolution within materiality-scaled windows ([Timely Resolution](core_05a_accountability_definitions.md#timely-resolution-constitutional)), binding substantive dispositions in those pathways ([Merits Determination](core_05a_accountability_definitions.md#merits-determination)), systemic failures where responsibility is diffused ([Collective Accountability Failure](core_05a_accountability_definitions.md#collective-accountability-failure)), exceptional external disruptions ([Force Majeure](core_05a_accountability_definitions.md#force-majeure-constitutional)), and protection against capture of outcome-determination mechanisms ([Capture of Resolution Pathways](core_05a_accountability_definitions.md#capture-of-resolution-pathways)). These definitions operate together where review, redress, or resolution of constitutional claims is material.
 
 **Topic group members.** This group comprises:
 - [Accountability](core_05a_accountability_definitions.md#accountability);
 - [Contestability](core_05a_accountability_definitions.md#contestability);
 - [Adjudication and Dispute Resolution](core_05a_accountability_definitions.md#adjudication-and-dispute-resolution-constitutional);
+- [Timely Resolution](core_05a_accountability_definitions.md#timely-resolution-constitutional);
 - [Merits Determination](core_05a_accountability_definitions.md#merits-determination);
 - [Collective Accountability Failure](core_05a_accountability_definitions.md#collective-accountability-failure);
 - [Force Majeure](core_05a_accountability_definitions.md#force-majeure-constitutional);
@@ -360,9 +361,32 @@ This band holds **Accountability**-leg definitions: contestability, redress, gov
 <a id="adjudicator"></a>
 `adjudicator` means a sentient, panel member, judicial officer, or equivalent authorized decisional actor who has lawful authority to decide contested claims, issue merits determinations within the meaning of [Merits Determination](core_05a_accountability_definitions.md#merits-determination), grant or deny relief, or make binding procedural determinations in an adjudicative matter. Clerical, investigative, analytical, forensic, technical, scheduling, intake, and coordination roles are not adjudicators unless the governing instrument separately gives them lawful decisional authority for the matter at issue.
 <a id="adjudication-and-dispute-resolution-constitutional-e"></a>
-- E: Align with [Procedural Fairness](core_05p_participation_definitions.md#procedural-fairness-constitutional), [Contestability](core_05a_accountability_definitions.md#contestability), [Merits Determination](core_05a_accountability_definitions.md#merits-determination), [Redress and Remediation](core_05a_accountability_definitions.md#redress-and-remediation-constitutional), and resistance to [System Capture](core_05c_continuity_definitions.md#system-capture). Constitutional requirements for access, reviewability, and restoration are governed here and in Article XII-B. Owner-layer procedure appears in incorporated governance, institutional, and forum texts where designated. It must not narrow this definition.
+- E: Align with [Procedural Fairness](core_05p_participation_definitions.md#procedural-fairness-constitutional), [Contestability](core_05a_accountability_definitions.md#contestability), [Timely Resolution](core_05a_accountability_definitions.md#timely-resolution-constitutional), [Merits Determination](core_05a_accountability_definitions.md#merits-determination), [Redress and Remediation](core_05a_accountability_definitions.md#redress-and-remediation-constitutional), and resistance to [System Capture](core_05c_continuity_definitions.md#system-capture). Constitutional requirements for access, reviewability, restoration, and timely resolution are governed here, in [Timely Resolution](core_05a_accountability_definitions.md#timely-resolution-constitutional), and in **Article XII-B** and **Article XXIII-G**. Owner-layer procedure appears in incorporated governance, institutional, and forum texts where designated. It must not narrow this definition.
 <a id="adjudication-and-dispute-resolution-constitutional-c"></a>
-- C: Non-compliant: denying access where Chapter Ten or binding instruments require it; capturing forum-style decision power to prevent meaningful review.
+- C: Non-compliant: denying access where Chapter Ten or binding instruments require it; capturing forum-style decision power to prevent meaningful review; operating resolution pathways that materially exceed **Article XXIII-G** tier windows without lawful extension; or using delay as a substitute for merits disposition.
+
+
+<a id="timely-resolution-constitutional"></a>
+
+---
+#### Timely Resolution
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Downstream: **Article XXIII-G: Timely Resolution and Anti-Delay Floor** ([core_10-10_rights_part_d.md](core_10-10_rights_part_d.md#article-xxiii-g-timely-resolution-and-anti-delay-floor)); **Article XII-B** (*Right to Challenge, Review, and Redress*); [Chapter Seven §5.2](core_07-07_standing_integration.md#52-remedy-organ-durability) (*remedy-organ durability*); [Chapter Nine](core_09-09_forum.md#chapter-nine-forums-and-jurisdiction) (*forum intake and routing*).
+- Cluster component: [the dependent cluster *Accountability, Contestability, Adjudication and Dispute Resolution, Collective Accountability Failure, and Force Majeure*](core_05i_integrative_definitions.md#accountability-contestability-and-collective-accountability-failure-cluster).
+- Read with: [Adjudication and Dispute Resolution](core_05a_accountability_definitions.md#adjudication-and-dispute-resolution-constitutional), [Constitutional Efficiency](core_05c_continuity_definitions.md#constitutional-efficiency), [Avoidable Burden](core_05c_continuity_definitions.md#avoidable-burden), [Capture of Resolution Pathways](core_05a_accountability_definitions.md#capture-of-resolution-pathways), [Procedural Fairness](core_05p_participation_definitions.md#procedural-fairness-constitutional), [Materiality Determination](core_05o_oversight_definitions.md#materiality-determination), and [Chapters Six–Nine constitutional compass](core_06-06_standing_assessment.md#chapters-six-nine-constitutional-compass).
+
+</details>
+
+<br>
+
+- O: Resolution of material constitutional disputes, verified standing records, and proportionate remedy within materiality-scaled windows under **Article XXIII-G**, producing verified outcomes without avoidable delay, exhaustion, or capture of resolution pathways.
+<a id="timely-resolution-constitutional-e"></a>
+- E: Apply **Article XXIII-G** tiers and pipeline-stage milestones; read with [Adjudication and Dispute Resolution](core_05a_accountability_definitions.md#adjudication-and-dispute-resolution-constitutional), [Constitutional Efficiency](core_05c_continuity_definitions.md#constitutional-efficiency), [Avoidable Burden](core_05c_continuity_definitions.md#avoidable-burden), [Capture of Resolution Pathways](core_05a_accountability_definitions.md#capture-of-resolution-pathways), and [Procedural Fairness](core_05p_participation_definitions.md#procedural-fairness-constitutional). Distinguish timely access and verification from raw throughput. Speed must not bypass [Chapters Two through Four](core_02-04_definition_mechanics.md) verified-input gates, **Article XXIII-B** joint requirements, or core challenge and appeal rights.
+<a id="timely-resolution-constitutional-c"></a>
+- C: Non-compliant: designed backlog; delay regimes to exhaust claimants; indefinite pendency without documented tier-appropriate extension; self-created delay; forum shopping or record fragmentation to prolong resolution; efficiency claims that skip verification, individualized attribution, or appeal rights.
 
 
 <a id="merits-determination"></a>

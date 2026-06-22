@@ -19,6 +19,7 @@ Regression seeds document adversarial and core paths against constitutional owne
 - **7J** — Self-healing (`RS-CH1-SELF-HEAL-*`)
 - **Ch5-GW** — Chapter Five definition gravity well (`RS-CH5-GW-*`)
 - **Ch7** — Validity and tiered offense (`RS-CH7-*`)
+- **XXIII-G** — Timely resolution and anti-delay (`RS-XXIII-G-*`)
 - **Enforcement** — Implementation packets (`RS-AC-*`, `RS-VOICE-*`, `RS-XXV-*`, `RS-SL-*`)
 
 ## 4) Regression Recording Matrix
@@ -105,6 +106,10 @@ Regression seeds document adversarial and core paths against constitutional owne
 | RS-CH7-TIERED-OFFENSE-002 | RS | pass |
 | RS-CH7-TIERED-OFFENSE-003 | RS | pass |
 | RS-CH7-TIERED-OFFENSE-004 | RS | draft |
+| RS-XXIII-G-CHILD-001 | XXIII-G | draft |
+| RS-XXIII-G-DISC-001 | XXIII-G | draft |
+| RS-XXIII-G-BIZ-001 | XXIII-G | draft |
+| RS-XXIII-G-DELAY-001 | XXIII-G | draft |
 | RS-CH5-GW-001 | RS | pass |
 | RS-CH5-GW-002 | RS | pass |
 | RS-CH5-GW-003 | RS | pass |
@@ -604,6 +609,26 @@ Regression seeds document adversarial and core paths against constitutional owne
 - **Class:** implementation / catalog seed (reinstatement)
 - **Summary:** Tracked row for `RS-CH7-TIERED-OFFENSE-004`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Six** classification vs **Chapter Eight** final slot labels; **Chapter Ten** rights-floor boundary per closing Part D section.
 - **Read with:** [doc_architecture.md](doc_architecture.md) section 5; owner layers per scenario family name.
+
+### Scenario ID: RS-XXIII-G-CHILD-001
+- **Class:** implementation / timely-resolution vignette
+- **Summary:** Tier A child neglect / care-duty path: interim protection before merits; verified violation standing record; **Interpersonal / Care Duty Misconduct** Q1; safeguard locks Q2; **CF-11.3.1** Tier A milestone compliance. Vignette: [implementation/CH6-9_APPLICATION_VIGNETTES.md](implementation/CH6-9_APPLICATION_VIGNETTES.md#vignette-child-neglect-care-duty).
+- **Read with:** [Article XXIII-G](core_10-10_rights_part_d.md#article-xxiii-g-timely-resolution-and-anti-delay-floor); [Chapter Six §3](core_06-06_standing_assessment.md#6-classification-evaluation-dimensions); [Chapter Seven §3.10](core_07-07_standing_integration.md#310-non-recurrence-lock-dimensions); **CF-11.3.1**.
+
+### Scenario ID: RS-XXIII-G-DISC-001
+- **Class:** implementation / timely-resolution vignette
+- **Summary:** Tier B employment discrimination / participation-barrier pattern: institutional violation record; **Accessibility and Participation-Barrier Misconduct** + **System Misconduct** Q1; restriction and institutional vehicle locks Q2; no contribution offset. Vignette: [implementation/CH6-9_APPLICATION_VIGNETTES.md](implementation/CH6-9_APPLICATION_VIGNETTES.md#vignette-discrimination-participation-barrier).
+- **Read with:** [Article XXIII-G](core_10-10_rights_part_d.md#article-xxiii-g-timely-resolution-and-anti-delay-floor); [Article XII-B](core_10-10_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress); **CF-11.3.1**.
+
+### Scenario ID: RS-XXIII-G-BIZ-001
+- **Class:** implementation / timely-resolution vignette
+- **Summary:** Tier B–C misaligned business: exit lock-in, externalized harm caps contribution credit; **Exit and Lock-In Misconduct** + **System Misconduct** Q1; pathway-scoped and concealment escalated locks Q2; optional **Chapter Eight** escalation. Vignette: [implementation/CH6-9_APPLICATION_VIGNETTES.md](implementation/CH6-9_APPLICATION_VIGNETTES.md#vignette-misaligned-business-structural-harm).
+- **Read with:** [Article XXIII-G](core_10-10_rights_part_d.md#article-xxiii-g-timely-resolution-and-anti-delay-floor); [Chapter Seven §5.4](core_07-07_standing_integration.md#54-anti-evasion-and-look-through-authority); **CF-11.3.1**.
+
+### Scenario ID: RS-XXIII-G-DELAY-001
+- **Class:** adversarial / anti-delay
+- **Summary:** Designed backlog and exhaustion delay defeat **Article XII-B** and **Article XXIII-G**; chronic underfunding of remedy organ under [Chapter Seven §5.2](core_07-07_standing_integration.md#52-remedy-organ-durability) is non-compliance; allegations must not substitute for verified standing during delay.
+- **Read with:** [Timely Resolution](core_05a_accountability_definitions.md#timely-resolution-constitutional); **CF-11.4**; **CF-11.5**.
 
 ### Scenario ID: RS-CH5-GW-001
 - **Class:** implementation / catalog seed (reinstatement)

@@ -19,6 +19,7 @@
 - [Trust Degradation and Misleading Reliance](../core_05c_continuity_definitions.md#trust-degradation-and-misleading-reliance) · [O](../core_05c_continuity_definitions.md#trust-degradation-and-misleading-reliance) · [E](../core_05c_continuity_definitions.md#trust-degradation-and-misleading-reliance-e) · [C](../core_05c_continuity_definitions.md#trust-degradation-and-misleading-reliance-c)
 - [Authority Stack and Internal Hierarchy](../core_05i_integrative_definitions.md#authority-stack) · [O](../core_05i_integrative_definitions.md#authority-stack) · [E](../core_05i_integrative_definitions.md#authority-stack-e) · [C](../core_05i_integrative_definitions.md#authority-stack-c)
 - [Adjudication and Dispute Resolution](../core_05a_accountability_definitions.md#adjudication-and-dispute-resolution-constitutional) · [O](../core_05a_accountability_definitions.md#adjudication-and-dispute-resolution-constitutional) · [E](../core_05a_accountability_definitions.md#adjudication-and-dispute-resolution-constitutional-e) · [C](../core_05a_accountability_definitions.md#adjudication-and-dispute-resolution-constitutional-c)
+- [Timely Resolution](../core_05a_accountability_definitions.md#timely-resolution-constitutional) · [O](../core_05a_accountability_definitions.md#timely-resolution-constitutional) · [E](../core_05a_accountability_definitions.md#timely-resolution-constitutional-e) · [C](../core_05a_accountability_definitions.md#timely-resolution-constitutional-c)
 - [Evidence Preservation](../core_05o_oversight_definitions.md#evidence-preservation) · [O](../core_05o_oversight_definitions.md#evidence-preservation) · [E](../core_05o_oversight_definitions.md#evidence-preservation-e) · [C](../core_05o_oversight_definitions.md#evidence-preservation-c)
 - [Procedural Fairness](../core_05p_participation_definitions.md#procedural-fairness-constitutional) · [O](../core_05p_participation_definitions.md#procedural-fairness-constitutional) · [E](../core_05p_participation_definitions.md#procedural-fairness-constitutional-e) · [C](../core_05p_participation_definitions.md#procedural-fairness-constitutional-c)
 - [Proportionality](../core_05a_accountability_definitions.md#proportionality) · [O](../core_05a_accountability_definitions.md#proportionality) · [E](../core_05a_accountability_definitions.md#proportionality-e) · [C](../core_05a_accountability_definitions.md#proportionality-c)
@@ -36,6 +37,8 @@
 This section applies to all forum families recognized in `core_09-09_forum.md` **Chapter Nine**, including any specialist chamber or designated technical panel operating within those families.
 
 CF-11 governs forum performance as a practical condition of **Contestability**, remedy, publication, and access. A forum that is formally available but too delayed, opaque, inaccessible, inaccurate, or self-damaging to use is not performing its constitutional function.
+
+This section implements **Article XXIII-G** (*Timely Resolution and Anti-Delay Floor*) within forum operations. Adopters may calibrate family-specific numbers above these defaults where **Proportionality** and published justification support it; they must not publish slower defaults for **Rights-Floor**-urgent matters.
 
 This section does not displace stricter lawful deadlines.
 
@@ -198,12 +201,12 @@ Each matter must remain traceable across the service lifecycle:
 
 
 Minimum urgency levels for target windows and disclosure are:
-- **Emergency / imminent harm** — hours to a small number of days for initial responsive action where life, serious injury, or irreversible rights loss is at stake.
-- **Survival-critical** — access to essentials, shelter, or lawful livelihood tools; priority routing and short review cycles.
-- **High-impact** — durable standing, systemic pattern, or large affected population; stronger publication and remediation duties when delay crosses published thresholds.
-- **Structural or class-wide** — matters affecting forum design, class-wide treatment, repeated pathway failure, or large-pattern institutional behavior; publish aging and remediation data in forms that expose aggregate delay.
-- **Restricted-evidence** — matters where lawful secrecy, protected investigation, or restricted evidence affects processing; track delay separately so secrecy constraints do not conceal timing failure.
-- **Ordinary** — default class for contested civil and administrative matters.
+- **Emergency / imminent harm** — hours to a small number of days for initial responsive action where life, serious injury, or irreversible rights loss is at stake. Map to **Article XXIII-G Tier A**.
+- **Survival-critical** — access to essentials, shelter, or lawful livelihood tools; priority routing and short review cycles. Map to **Article XXIII-G Tier A** where dependency-vulnerable ongoing harm is verified or credibly alleged pending preservation.
+- **High-impact** — durable standing, systemic pattern, or large affected population; stronger publication and remediation duties when delay crosses published thresholds. Map to **Article XXIII-G Tier B** unless Tier A urgency is independently present.
+- **Structural or class-wide** — matters affecting forum design, class-wide treatment, repeated pathway failure, or large-pattern institutional behavior; publish aging and remediation data in forms that expose aggregate delay. Map to **Article XXIII-G Tier C** when cross-party, cross-border, or final **Chapter Eight** top-slot review dominates.
+- **Restricted-evidence** — matters where lawful secrecy, protected investigation, or restricted evidence affects processing; track delay separately so secrecy constraints do not conceal timing failure. May justify **Tier C** extension only under documented **Article XXIII-D** continuation discipline.
+- **Ordinary** — default class for contested civil and administrative matters. Map to **Article XXIII-G Tier B** unless facts support a higher tier.
 - **Low-impact** — may use longer targets only where **Proportionality** supports it and challenge rights stay meaningful.
 
 Performance tracking must use these urgency levels as the minimum reporting taxonomy for target windows, open-case aging, accuracy indicators, accessibility and publication performance, forum-damage ratings, constitutional-alignment scores, threshold crossings, and remediation records.
@@ -321,6 +324,26 @@ If a system cannot yet justify its own calibrated numbers, the interim default s
 - routing and emergency-screening windows measured in hours or a small number of days, not weeks, for emergency / imminent-harm cases;
 - recusal and backup-activation windows short enough that the independence dispute does not itself defeat meaningful remedy;
 - publication windows short enough that challenge rights remain real before practical effect hardens.
+
+**Article XXIII-G tier-default windows (adopter floor).** Until a forum family publishes calibrated targets, the following **maximum** windows apply from the triggering event (filing, protected report, or lawful agency referral) unless a narrower window is required by rights-floor urgency or **Force Majeure** is documented:
+
+| **Pipeline stage** | **Tier A** (imminent / dependency-vulnerable) | **Tier B** (material, non-imminent) | **Tier C** (complex / top-slot / cross-border) |
+| --- | --- | --- | --- |
+| Forum access and intake acknowledgment | ≤ 72 hours | ≤ 5 calendar days | ≤ 10 calendar days |
+| Evidence preservation initiated | concurrent with intake | ≤ 5 calendar days from intake | ≤ 10 calendar days from intake |
+| Verified finding → **standing record** opened ([Chapter Six §2](../core_06-06_standing_assessment.md#2-standing-records)) | ≤ 7 calendar days | ≤ 21 calendar days | ≤ 60 calendar days |
+| **Question 1** classification ([Chapter Six §3](../core_06-06_standing_assessment.md#6-classification-evaluation-dimensions)) | ≤ 3 calendar days after verified inputs complete | ≤ 14 calendar days | ≤ 45 calendar days |
+| **Question 2** integration ([Chapter Seven](../core_07-07_standing_integration.md#chapter-seven-standing-effects-and-integration)) | ≤ 7 calendar days after Q1 | ≤ 21 calendar days | ≤ 60 calendar days |
+| Remedy or safeguard commencement | ≤ 3 calendar days after Q2 where ongoing harm is material | ≤ 14 calendar days | ≤ 30 calendar days after published integration plan |
+| **Integrated resolution outer bound** | ≤ 30 calendar days | ≤ 90 calendar days | ≤ 365 calendar days |
+
+**Tier C continuation.** Extension beyond the integrated-resolution outer bound requires reauthorization under **Article XXIII-D** (*Continuation discipline*) with documented necessity, proportionality, and absence of less-restrictive feasible alternatives.
+
+**Interim relief.** Tier A matters must not wait for full merits before lawful interim protection, evidence preservation, or pathway-scoped safeguards where delay would compound dependency-vulnerable harm.
+
+**Institution mirror.** Remedy organs under [Chapter Seven §5.2](../core_07-07_standing_integration.md#52-remedy-organ-durability) and **CI-8** (*Transparency, participation, and accessible pathways*) must publish compatible intake and acknowledgment windows; forum delay must not be used to defeat institution-side redress duties.
+
+Domain-scale walkthroughs with milestone illustrations: [implementation/CH6-9_APPLICATION_VIGNETTES.md](../implementation/CH6-9_APPLICATION_VIGNETTES.md).
 
 Legacy timing-floor requirements are consolidated here and should be read as references to the timing-window component of **CF-11.3**.
 
