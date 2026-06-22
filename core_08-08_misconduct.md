@@ -72,7 +72,7 @@ The named patterns in section 6.1 are not separate shortcuts. Flooding, bribery,
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [Chapter Six](core_06-06_standing_assessment.md#chapter-six-compliance-violation-and-standing-model) (*the Contribution and Violation axes*).
-- Upstream map: [Chapter Six §3](core_06-06_standing_assessment.md#31-slot-grammar-and-display-labels) (*standing-slot grammar*).
+- Upstream map: [Chapter Six §4](core_06-06_standing_assessment.md#31-slot-grammar-and-display-labels) (*standing-slot grammar*).
 - Upstream pointer: [Chapter Seven §6](core_07-07_standing_integration.md#9-violation-axis-s-7-9-anti-constitutional-misconduct-authoritative-location) points here as the sole home for final top-end anti-constitutional misconduct assignment.
 - Downstream: [§2](#2-criteria-set-for-slot-assignment) (*Criteria set*); [§3](#3-violation-axis-s-7-9-slot-assignment-incident-gravity) (*Violation Axis s = 7–9 slot assignment*).
 - Safeguards and discipline: [§4](#4-due-process-safeguards-for-slot-classification) (*Due-process safeguards*); [§5](#5-cross-chapter-discipline) (*Cross-chapter discipline*).
@@ -85,6 +85,8 @@ The named patterns in section 6.1 are not separate shortcuts. Flooding, bribery,
 <br>
 
 *In plain terms: this chapter works in one sequence. First define the incident, then apply the criteria, then judge gravity, then assign the slot, then apply process safeguards. The named patterns later in the chapter are applications of that sequence, not separate routes around it.*
+
+Top-slot review is a specialized **Violation Axis Question 1** gravity step for **s = 7–9** only. Ordinary Question 1 classification remains in [Chapter Six](core_06-06_standing_assessment.md#chapter-six-compliance-violation-and-standing-model); Question 2 lock design remains in [Chapter Seven](core_07-07_standing_integration.md#chapter-seven-standing-effects-and-integration).
 
 **Anti-constitutional misconduct** under the final three violation categories is classified only under **this chapter**. The conduct may arise in **constitutional change** under **Chapters Twelve through Fourteen**, including **regressive deception** reflected in criteria **1–4**. It may also arise through **criteria 5** or **6**, or through other conduct that materially affects constitutional **validity**, **operation**, or **Rights-Floor** governance. **No** adopting instrument, process note, or subsidiary body may issue final **anti-constitutional misconduct** classification in place of **this chapter**.
 
@@ -624,7 +626,7 @@ This subsection does **not** create a mandatory-prosecution rule, add an indepen
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [§2](#2-criteria-set-for-slot-assignment) (*Criteria set*); [§3](#3-violation-axis-s-7-9-slot-assignment-incident-gravity) (*Violation Axis s = 7-9 slot assignment*); [§4](#4-due-process-safeguards-for-slot-classification) (*Due-process safeguards*); [Chapter Six §5.2](core_06-06_standing_assessment.md#34-violation-axis-rules-violation-nature-adverse-findings-and-severity) (*Violation Axis severity, including ecological or infrastructure damage*).
+- Upstream: [§2](#2-criteria-set-for-slot-assignment) (*Criteria set*); [§3](#3-violation-axis-s-7-9-slot-assignment-incident-gravity) (*Violation Axis s = 7-9 slot assignment*); [§4](#4-due-process-safeguards-for-slot-classification) (*Due-process safeguards*); [Chapter Six §6.2](core_06-06_standing_assessment.md#34-violation-axis-rules-violation-nature-adverse-findings-and-severity) (*Violation Axis severity, including ecological or infrastructure damage*).
 - Rights and systems context: [Article III-A](core_10-10_rights_part_a.md#article-iii-a-survival), [Article IV-A](core_10-10_rights_part_a.md#article-iv-a-dependency-mapping-and-resource-flow-transparency), [Article XII-A](core_10-10_rights_part_c.md#article-xii-a-reliability-and-trustworthiness-baseline), [Article XV](core_10-10_rights_part_c.md#article-xv-audit-transparency-and-independent-verification), and adopted [corpus_systems.md](corpus_systems.md) infrastructure, dependency, reliability, and classification controls where materially relevant.
 - Related patterns: [§6](#61-concentration-based-subversion-criteria-interaction) where infrastructure control produces capture or dependency abuse; [§6.6](#66-unlawful-or-unconstitutional-command-conduct) where the conduct is ordered, automated, or technically enforced; [§6.8](#68-enforcement-refusal-suppression-or-non-prosecution-conduct) where accountability for the infrastructure conduct is suppressed.
 - Read with: [Dependency](core_05c_continuity_definitions.md#dependency), [Cascading Failure](core_05c_continuity_definitions.md#cascading-failure), [Safety (Constraint)](core_05c_continuity_definitions.md#safety-constraint), [Reversibility](core_05c_continuity_definitions.md#reversibility-constitutional), [Harm](core_05a_accountability_definitions.md#harm), [Materiality Determination](core_05o_oversight_definitions.md#materiality-determination), and [System Capture](core_05c_continuity_definitions.md#system-capture).
