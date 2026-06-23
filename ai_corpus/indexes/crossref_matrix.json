@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/crossref_matrix.schema.json",
-  "generated_at": "2026-06-22T22:52:55+00:00",
+  "generated_at": "2026-06-23T17:18:11+00:00",
   "description": "Source-derived file-to-file Markdown reference graph.",
   "graph": {
     "nodes": [
@@ -472,7 +472,7 @@
         "targets": [
           {
             "file": "core_00_preamble.md",
-            "count": 71,
+            "count": 72,
             "anchors": [
               "#constitutional-tetrad",
               "#continuity",
@@ -592,7 +592,7 @@
           },
           {
             "file": "core_05o_oversight_definitions.md",
-            "count": 74,
+            "count": 79,
             "anchors": [
               "#auditability",
               "#auditability-c",
@@ -624,7 +624,7 @@
           },
           {
             "file": "core_05p_participation_definitions.md",
-            "count": 54,
+            "count": 86,
             "anchors": [
               "#accessibility-constitutional",
               "#accessibility-constitutional-c",
@@ -636,6 +636,9 @@
               "#meaningful-agency",
               "#meaningful-agency-c",
               "#meaningful-agency-e",
+              "#participation-constitutional",
+              "#participation-constitutional-c",
+              "#participation-constitutional-e",
               "#procedural-fairness-constitutional",
               "#procedural-fairness-constitutional-c",
               "#procedural-fairness-constitutional-e",
@@ -645,6 +648,10 @@
               "#protected-characteristics-constitutional",
               "#protected-characteristics-constitutional-c",
               "#protected-characteristics-constitutional-e",
+              "#protected-commercial-sexual-services-status-and-article-x-c-circumvention",
+              "#protected-intimate-signal-gating",
+              "#protected-intimate-signal-gating-c",
+              "#protected-intimate-signal-gating-e",
               "#sentience-non-exclusion",
               "#stakeholder-status-emergency-and-participation-weight-cluster",
               "#substantive-fairness-constitutional",
@@ -665,6 +672,14 @@
             "count": 1,
             "anchors": [
               "#4-due-process-safeguards-for-slot-classification"
+            ]
+          },
+          {
+            "file": "core_09-09_forum.md",
+            "count": 3,
+            "anchors": [
+              "#422-technical-forum-domains",
+              "#45-shared-standards-and-anti-displacement"
             ]
           },
           {
@@ -718,6 +733,11 @@
             "anchors": [
               "#2-authority-stack-and-invocation"
             ]
+          },
+          {
+            "file": "corpus_forum/cf_10_technical_specialist_forums_specialist_chambers.md",
+            "count": 1,
+            "anchors": []
           }
         ]
       },
@@ -1652,9 +1672,13 @@
           },
           {
             "file": "core_01_a_values_principles.md",
-            "count": 6,
+            "count": 27,
             "anchors": [
               "#3-foundational-objective-wellbeing",
+              "#31-fairness",
+              "#311-access-and-opportunity",
+              "#312-fair-treatment",
+              "#313-benefits-and-burdens",
               "#4-non-negotiable-constraints-safety-and-truth",
               "#5-system-stability-enabler-trust-coordination-integrity"
             ]
@@ -1748,7 +1772,7 @@
           },
           {
             "file": "core_05o_oversight_definitions.md",
-            "count": 47,
+            "count": 49,
             "anchors": [
               "#adversarial-scaled-and-exploited-conditions",
               "#auditability",
@@ -1766,7 +1790,7 @@
           },
           {
             "file": "core_05p_participation_definitions.md",
-            "count": 402,
+            "count": 414,
             "anchors": [
               "#accessibility-constitutional",
               "#animal-life-constitutional",
@@ -1801,6 +1825,7 @@
               "#non-separation-constitutional",
               "#non-statelessness-constitutional",
               "#parent-system-relationship-constitutional",
+              "#participation-constitutional",
               "#procedural-fairness-constitutional",
               "#protected-characteristic-proxying-and-disparate-impact",
               "#protected-characteristics-constitutional",
@@ -3719,9 +3744,10 @@
           },
           {
             "file": "core_01_a_values_principles.md",
-            "count": 19,
+            "count": 20,
             "anchors": [
               "#3-foundational-objective-wellbeing",
+              "#31-fairness",
               "#41-safety-harm-constraint",
               "#42-truth-epistemic-integrity-constraint"
             ]

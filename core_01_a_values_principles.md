@@ -207,11 +207,12 @@ At this value layer, wellbeing:
 - Read with: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **participation** leg (access, voice, and contestability; general requirement, not [Stakeholder System Participation](core_05p_participation_definitions.md#stakeholder-status-emergency-and-participation-weight-cluster) alone); **accountability** leg where benefits and burdens attach.
 - Upstream: Principles: [3. Foundational Objective: Wellbeing](#3-foundational-objective-wellbeing) — including wellbeing as foundational for [Participation](core_05p_participation_definitions.md#participation-constitutional).
 - Downstream: [3.2 Recognition, Reinforcement, and Aspiration](#32-recognition-reinforcement-and-aspiration); [5. Trust](#5-system-stability-enabler-trust-coordination-integrity), [§6 Stewardship and Distributed Understanding](core_01_b_stewardship_capacity_principles.md#6-stewardship-and-distributed-understanding), [9. Interaction and Conflict Resolution](core_01_b_stewardship_capacity_principles.md#9-interaction-and-conflict-resolution), and [9.4.1 Rights-Collision Decision Test](core_01_b_stewardship_capacity_principles.md#841-rights-collision-decision-test) where precedence and allocation choices must remain coherent and reviewable.
+- Subsections (reading order): [§3.1.1](#311-access-and-opportunity) · [§3.1.2](#312-fair-treatment) · [§3.1.3](#313-benefits-and-burdens).
 - Downstream: Shapes the rights surface for equal standing, non-arbitrary treatment, meaningful challenge, and proportionate restriction limits.
   - Especially [Article V: Equal Basic Rights](core_10-10_rights_part_b.md#article-v-equal-basic-rights), [Article V-B: Nondiscrimination](core_10-10_rights_part_b.md#article-v-b-nondiscrimination), [Article IX: Self-Determination and Agency](core_10-10_rights_part_b.md#article-ix-self-determination-and-agency), [Article XII-B: Right to Challenge, Review, and Redress](core_10-10_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress), and [Article XVIII-B: Contestability and Proportional Restriction Limits](core_10-10_rights_part_c.md#article-xviii-b-contestability-and-proportional-restriction-limits).
   - Where systematic classification or gravity labels carry sanctions or durable effect, read with [Chapter Eight, section 4 — Due-process safeguards for slot classification](core_08-08_misconduct.md#4-due-process-safeguards-for-slot-classification).
-  - Non-discrimination commitments are elaborated through Chapter Five [§2 — Protected Characteristics, Proxying, Intimate-Signal Gating, and Article X-C Status](core_05p_participation_definitions.md#fairness-and-protected-status-semi-independent).
-- Read with: [Substantive Fairness](core_05p_participation_definitions.md#substantive-fairness-constitutional) and related Chapter Ten rights-floor obligations where benefits, burdens, rewards, costs, duties, risks, contribution, need, or exposure are material.
+  - Non-discrimination commitments are elaborated through Chapter Five [§2 — Protected Characteristics, Proxying, Intimate-Signal Gating, and Article X-C Status](core_05p_participation_definitions.md#fairness-and-protected-status-semi-independent), including [Protected Commercial Sexual Services Status and Article X-C Circumvention](core_05p_participation_definitions.md#protected-commercial-sexual-services-status-and-article-x-c-circumvention) where §3.1.2 fair-treatment rules implicate Article X-C.
+- Read with: [Substantive Fairness](core_05p_participation_definitions.md#substantive-fairness-constitutional) and related Chapter Ten rights-floor obligations where benefits, burdens, rewards, costs, duties, risks, contribution, need, or exposure are material; [Accessibility](core_05p_participation_definitions.md#accessibility-constitutional) where §3.1.1 access paths are material; [Proxy Divergence](core_05o_oversight_definitions.md#proxy-divergence) where aggregate metrics or scoreboard effects are material.
 
 </details>
 
@@ -219,12 +220,14 @@ At this value layer, wellbeing:
 <summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
 
 - [Dignity and Equal Moral Standing](core_05p_participation_definitions.md#dignity-and-equal-moral-standing) · [O](core_05p_participation_definitions.md#dignity-and-equal-moral-standing) · [E](core_05p_participation_definitions.md#dignity-and-equal-moral-standing-e) · [C](core_05p_participation_definitions.md#dignity-and-equal-moral-standing-c)
+- [Accessibility](core_05p_participation_definitions.md#accessibility-constitutional) · [O](core_05p_participation_definitions.md#accessibility-constitutional) · [E](core_05p_participation_definitions.md#accessibility-constitutional-e) · [C](core_05p_participation_definitions.md#accessibility-constitutional-c)
 - [Participation](core_05p_participation_definitions.md#participation-constitutional) · [O](core_05p_participation_definitions.md#participation-constitutional) · [E](core_05p_participation_definitions.md#participation-constitutional-e) · [C](core_05p_participation_definitions.md#participation-constitutional-c)
 - [Procedural Fairness](core_05p_participation_definitions.md#procedural-fairness-constitutional) · [O](core_05p_participation_definitions.md#procedural-fairness-constitutional) · [E](core_05p_participation_definitions.md#procedural-fairness-constitutional-e) · [C](core_05p_participation_definitions.md#procedural-fairness-constitutional-c)
 - [Substantive Fairness](core_05p_participation_definitions.md#substantive-fairness-constitutional) · [O](core_05p_participation_definitions.md#substantive-fairness-constitutional) · [E](core_05p_participation_definitions.md#substantive-fairness-constitutional-e) · [C](core_05p_participation_definitions.md#substantive-fairness-constitutional-c)
 - [Protected Characteristics](core_05p_participation_definitions.md#protected-characteristics-constitutional) · [O](core_05p_participation_definitions.md#protected-characteristics-constitutional) · [E](core_05p_participation_definitions.md#protected-characteristics-constitutional-e) · [C](core_05p_participation_definitions.md#protected-characteristics-constitutional-c)
 - [Protected Characteristic Proxying and Disparate Impact](core_05p_participation_definitions.md#protected-characteristic-proxying-and-disparate-impact) · [O](core_05p_participation_definitions.md#protected-characteristic-proxying-and-disparate-impact) · [E](core_05p_participation_definitions.md#protected-characteristic-proxying-and-disparate-impact-e) · [C](core_05p_participation_definitions.md#protected-characteristic-proxying-and-disparate-impact-c)
 - [Protected Intimate-Signal Gating](core_05p_participation_definitions.md#protected-intimate-signal-gating) · [O](core_05p_participation_definitions.md#protected-intimate-signal-gating) · [E](core_05p_participation_definitions.md#protected-intimate-signal-gating-e) · [C](core_05p_participation_definitions.md#protected-intimate-signal-gating-c)
+- [Proxy Divergence](core_05o_oversight_definitions.md#proxy-divergence) · [O](core_05o_oversight_definitions.md#proxy-divergence) · [E](core_05o_oversight_definitions.md#proxy-divergence-e) · [C](core_05o_oversight_definitions.md#proxy-divergence-c)
 
 </details>
 
@@ -240,12 +243,16 @@ It is not enough for a system to show a good average result. One headline metric
 
 This section has **three working parts**. They guide this section but do not replace Chapter Five definitions or the Chapter Ten Rights Floor.
 
-**1. Access and opportunity**
+<a id="311-access-and-opportunity"></a>
+##### 3.1.1 Access and Opportunity
+
 - People need practical paths to [Participation](core_05p_participation_definitions.md#participation-constitutional), education, work, care, safety, movement, and other goods that matter to ordinary life.
 - Those paths must not be blocked, priced out, delayed, hidden, or tilted for arbitrary or irrelevant reasons.
 - A door that is open only on paper is not enough where this Constitution requires **substantive** opportunity.
 
-**2. Fair treatment**
+<a id="312-fair-treatment"></a>
+##### 3.1.2 Fair Treatment
+
 - People in similar situations should be treated by the same basic rules.
 - What people receive, owe, or risk should fit what they contributed, what they need, or what burdens they actually face.
 - Different treatment must have a real reason, be proportionate to that reason, respect dignity, and avoid discrimination.
@@ -261,7 +268,9 @@ Unfair treatment creates exclusion and inconsistency. Systems must not hide unfa
 - deny jobs, housing, banking, licenses, standing, or similar access **mainly because** of any lawful form of employment, lawful past employment, lawful perceived employment, or lack of employment;
 - create material disadvantage through licensing, zoning, fees, platform rules, or other neutral-looking requirements that mainly burden lawful work, lawful work history, perceived lawful work, lack of employment, or protected association without the justification this Constitution requires;
 
-**3. Benefits and burdens**
+<a id="313-benefits-and-burdens"></a>
+##### 3.1.3 Benefits and Burdens
+
 - A system is not fair when some people receive the gains while others quietly absorb the costs.
 - Favoritism, hidden cost-shifting, selective enforcement, and scoreboard tricks do not satisfy this requirement.
 
@@ -460,6 +469,7 @@ Where Safety or Truth determinations affect contribution state, verified violati
 - Downstream: [5. Trust](#5-system-stability-enabler-trust-coordination-integrity), [§6 Stewardship and Distributed Understanding](core_01_b_stewardship_capacity_principles.md#6-stewardship-and-distributed-understanding), [9.2 Epistemic Disclosure Constraints](#92-epistemic-disclosure-constraints), [10.1 Required Evaluation Factors](core_01_b_stewardship_capacity_principles.md#101-required-evaluation-factors), and [§7 Governance Under Stewardship Discipline](core_01_b_stewardship_capacity_principles.md#7-governance-under-stewardship-discipline).
 - Downstream: Shapes the rights surface for reliable empirical evidence, expert-evidence standards, scientific publication and replication integrity, independent verification, lifecycle testing, root-cause review, and safety-sensitive disclosure.
   - Especially [Article XII: Right to Reliable and Trustworthy Systems](core_10-10_rights_part_c.md#article-xii-right-to-reliable-and-trustworthy-systems), [Article XV: Audit, Transparency, and Independent Verification](core_10-10_rights_part_c.md#article-xv-audit-transparency-and-independent-verification), [Article XVII-E: Scientific Publication, Review, and Replication Integrity](core_10-10_rights_part_c.md#article-xvii-e-scientific-publication-review-and-replication-integrity), [Article XXI: Root Cause Analysis and Adaptive Response](core_10-10_rights_part_c.md#article-xxi-root-cause-analysis-and-adaptive-response), and [Article XXIII-E: Retrospective Review and Disclosure](core_10-10_rights_part_d.md#article-xxiii-e-retrospective-review-and-disclosure).
+- Read with: [Chapter Nine §4.2.2 — Technical Forum Domains](core_09-09_forum.md#422-technical-forum-domains) and [§4.5 — Shared standards and anti-displacement](core_09-09_forum.md#45-shared-standards-and-anti-displacement) where expert-evidence standards, certified technical questions, or evidence-stewardship disputes are material; [corpus_forum.md CF-10](corpus_forum/cf_10_technical_specialist_forums_specialist_chambers.md) for adopted specialist routes.
 
 </details>
 
@@ -482,7 +492,7 @@ Where Safety or Truth determinations affect contribution state, verified violati
 
 *In plain terms: when a system makes safety, risk, truth, or high-impact governance claims that can be tested, it has to treat evidence like evidence — with clear methods, uncertainty, scrutiny, and willingness to change course when the facts do.*
 
-Science-informed inquiry is a required support discipline for **Safety** and **Truth** where constitutional decisions rest on empirical, predictive, causal, measurable, or otherwise testable propositions. It is not a third non-negotiable constraint separate from Safety and Truth; it is the evidence-and-method discipline that helps those constraints remain honest, corrigible, and proportionate under real conditions.
+Science-informed inquiry is a required support discipline for **Safety** and **Truth** where constitutional decisions rest on empirical, predictive, causal, measurable, or otherwise testable propositions. It is not a third non-negotiable constraint separate from Safety and Truth; it is the requirement to check claims with tested evidence and clear methods so those constraints stay truthful in practice, can be corrected when wrong, and remain proportionate to what is actually known.
 
 Where governance choices rest on **empirical** or **testable** propositions, evidence practices **must** align with **scientific integrity**.
 
@@ -495,6 +505,8 @@ At minimum, where feasible, decision records should include:
 - **independent scrutiny** proportionate to stakes under **Chapter Four** and **Chapter Five** (*Epistemic Integrity*; *Truth (Constitutional Constraint)*)
 
 **Scientific method**, **systematic inquiry**, and **peer-review** norms are **reference disciplines**, not exclusive procedures. Domain-appropriate rigor and **Classification-Scaled Governance** (Chapter Five) govern how formality scales with impact and dependency.
+
+Where expert-evidence standards, methods, or evidence-stewardship disputes require forum resolution, routing follows **Technical Forum Domains** under [Chapter Nine §4.2.2](core_09-09_forum.md#422-technical-forum-domains). Technical forums maintain cross-family standards and may answer certified component questions without displacing primary-stakes routing elsewhere.
 
 Safety-sensitive limits on publication, data access, method disclosure, or replication materials may be justified only under [9.2 Epistemic Disclosure Constraints](#92-epistemic-disclosure-constraints), the Chapter Five definitions listed above, and applicable Chapter Ten rights. Such limits must preserve maximum feasible epistemic integrity through protected records, independent review, delayed disclosure, redaction, secure access, or comparable safeguards; they must not become a means to suppress unfavorable evidence, hide safety defects, or manufacture apparent consensus.
 
@@ -619,17 +631,17 @@ This section states the plain-language dimension of the principle-layer stewards
 
 *In plain terms: trust is earned through truthfulness and demonstrated reliability over time. It cannot be manufactured through spin, secrecy, or hidden risk transfer — and reliance built on those means is not "trust" within the meaning of this Constitution. Trust coordinates **Flourishing** and **Continuity** together: sentients need systems they can actually rely on, under the Tetrad's participation, oversight, accountability, and timeliness discipline scaled to material stake.*
 
-**Trust** is the coordination bridge between [§4 Safety and Truth](#4-non-negotiable-constraints-safety-and-truth) and the [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims). **Trustworthiness** is a named constituent of [**Flourishing**](#flourishing); durable [**Continuity**](#continuity) depends on coordination integrity that does not erode through misleading reliance. Application must satisfy the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — especially contestable detection of systemic risk, justified participation under dependency, and accountability for misleading reliance — scaled to [material stake](core_00_preamble.md#material-stake).
+**Trust** is what lets [§4 Safety and Truth](#4-non-negotiable-constraints-safety-and-truth) work in shared life — the bridge to the [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims). [**Trustworthiness**](#flourishing) is a named part of [**Flourishing**](#flourishing); lasting [**Continuity**](#continuity) requires coordination people can count on, not coordination that crumbles because systems misled them into relying on false assurances. Applying this section means meeting the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad): people must be able to detect and challenge systemic risk, participate meaningfully when they depend on a system, and hold actors answerable when reliance was misleading — scaled to [material stake](core_00_preamble.md#material-stake).
 
 Shared systems ask sentients to depend on them — for safety, information, access, and coordination. **Trust** is the constitutional rule that such dependence must be warranted by how systems actually behave, not merely induced by how they present themselves.
 
-**Trust** is the coordination condition: reliance must be justified, not merely produced. **Trustworthiness** is the demonstrated basis for that reliance. **Truth** rules out deception. **Safety** bounds reliance where risk is present. **Materiality** determines how much must be shown in context. **Trust Degradation and Misleading Reliance** names the failure mode — reliance induced, preserved, or measured in constitutionally misleading ways.
+**Trust** means reliance must be **earned**, not merely **manufactured**. [**Trustworthiness**](core_05c_continuity_definitions.md#trustworthiness) is the demonstrated track record that earns it. [**Truth**](core_05o_oversight_definitions.md#truth-constitutional-constraint) forbids deception. [**Safety**](core_05c_continuity_definitions.md#safety-constraint) limits how far reliance may go when real risk is present. [**Materiality**](core_05o_oversight_definitions.md#materiality-determination) sets how much must be shown and explained in context. [**Trust Degradation and Misleading Reliance**](core_05i_integrative_definitions.md#trust-degradation-and-misleading-reliance-constitutional) names the failure mode — when systems create, preserve, or score reliance in constitutionally misleading ways.
 
-Trust is a constitutional coordination condition grounded in truth and demonstrated trustworthiness over time — sustaining [**Flourishing**](#flourishing) and [**Continuity**](#continuity) under the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad), as defined in Chapter Five ([Trust](core_05c_continuity_definitions.md#trust); [Trustworthiness](core_05c_continuity_definitions.md#trustworthiness)).
+Under this Constitution, trust grows from honest behavior and proven reliability over time. It supports [**Flourishing**](#flourishing) and [**Continuity**](#continuity) under the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad), as defined in Chapter Five ([Trust](core_05c_continuity_definitions.md#trust); [Trustworthiness](core_05c_continuity_definitions.md#trustworthiness)).
 
-Incorporated implementation text may operationalize this section where designated. That implementation must not narrow the Chapter Five definitions.
+Adopted implementation text may spell out how this works in practice where designated. That text must not weaken the Chapter Five definitions.
 
-Trust is invalid where reliance is induced or preserved through suppression, deception, opaque risk transfer, or similar means. That includes anything that materially undermines Truth, Safety, or contestable detection of systemic risk.
+Trust fails when reliance is built or kept through suppression, deception, hidden risk-shifting, or similar tactics — including anything that seriously undermines [Truth](core_05o_oversight_definitions.md#truth-constitutional-constraint), [Safety](core_05c_continuity_definitions.md#safety-constraint), or people's ability to detect and challenge systemic risk.
 
 #### 5.1 Resilience and Self-Healing Design
 <details>
@@ -656,9 +668,9 @@ Trust is invalid where reliance is induced or preserved through suppression, dec
 
 <br>
 
-*In plain terms: systems should detect trouble early, contain it, fail along disclosed paths, and recover. But "self-healing" that hides failure, skips root-cause work, or quietly narrows rights is not resilience — it is deception under Truth and an alignment defect under Incentive Alignment.*
+*In plain terms: systems should detect trouble early, contain it, fail along disclosed paths, and recover — that is part of keeping **Continuity** over time. But "self-healing" that hides failure, skips root-cause work, or quietly narrows rights is not resilience; it undermines **Truth** and **Trust** and is an alignment defect under Incentive Alignment.*
 
-Constitutional systems should aspire to resilience as an active property, not a static claim. Within bounds set by **Safety**, **Truth**, and **Trust**, the constitutional aim is systems that:
+**§5.1** develops [**Continuity**](#continuity) under the [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims): durable operation, honest recovery, and long-horizon stability — paired with [**Flourishing**](#flourishing) through recovery that does not degrade Truth or Trust. Constitutional systems should aspire to resilience as an active property, not a static claim. Within bounds set by **Safety**, **Truth**, and **Trust**, the constitutional aim is systems that:
 
 - detect disturbance early;
 - contain it locally;
@@ -669,7 +681,7 @@ That operative property is **Self-Healing** as defined in Chapter Five.
 
 **Self-Healing** is legitimate only where it makes the system more honest about its own state, not less. Automatic recovery that masks root cause, suppresses evidence of failure, or substitutes for governance is not self-healing within the meaning of this Constitution. It is an epistemic degradation under [§4.2 Truth](#42-truth-epistemic-integrity-constraint) and an alignment defect under **Incentive Alignment** (Chapter Five) and [§7.4 Stewardship and Operator Incentive Alignment](core_01_b_stewardship_capacity_principles.md#74-stewardship-and-operator-incentive-alignment).
 
-Resilience capacity must track dependency and material impact. Systems with material external impact, shared dependencies, or Rights-Floor implications must progressively reduce reliance on emergency intervention. They must do so through tested, audited, and bounded self-recovery. That reduction is part of stewardship under [§7.4 Stewardship and Operator Incentive Alignment](core_01_b_stewardship_capacity_principles.md#74-stewardship-and-operator-incentive-alignment) and of the **Avoidable Burden** **framing** under [§9.1.4 Minimization of Avoidable Burden](core_01_b_stewardship_capacity_principles.md#914-minimization-of-avoidable-burden).
+Resilience capacity must track dependency and material impact. Systems with material external impact, shared dependencies, or Rights-Floor implications must progressively reduce reliance on emergency intervention. They must do so through tested, audited, and bounded self-recovery. That reduction supports [**Continuity**](#continuity) under stewardship at [§7.4 Stewardship and Operator Incentive Alignment](core_01_b_stewardship_capacity_principles.md#74-stewardship-and-operator-incentive-alignment) and through the **Avoidable Burden** **framing** under [§9.1.4 Minimization of Avoidable Burden](core_01_b_stewardship_capacity_principles.md#914-minimization-of-avoidable-burden).
 
 Operative detail on recovery detection, containment, safe-failure preference, non-masking, Rights-Floor continuity, autonomy scaling, and root-cause closure appears at **Article XII-F** in Chapter Ten. Detailed recovery-architecture requirements appear in incorporated implementation text. That implementation must not narrow this section, **Article XII-F**, or **Chapter Five** (*Self-Healing*).
 
