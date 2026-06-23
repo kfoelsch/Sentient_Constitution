@@ -194,12 +194,13 @@ At this value layer, wellbeing:
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Read with: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **participation** leg (access, voice, and contestability; general requirement, not [Stakeholder System Participation](core_05p_participation_definitions.md#stakeholder-status-emergency-and-participation-weight-cluster) alone); **accountability** leg where benefits and burdens attach.
-- Upstream: Principles: [3. Foundational Objective: Wellbeing](#3-foundational-objective-wellbeing).
+- Upstream: Principles: [3. Foundational Objective: Wellbeing](#3-foundational-objective-wellbeing) — including wellbeing as foundational for [Participation](core_05p_participation_definitions.md#participation-constitutional).
 - Downstream: [3.2 Recognition, Reinforcement, and Aspiration](#32-recognition-reinforcement-and-aspiration); [5. Trust](#5-system-stability-enabler-trust-coordination-integrity), [§6 Stewardship and Distributed Understanding](core_01_b_stewardship_capacity_principles.md#6-stewardship-and-distributed-understanding), [9. Interaction and Conflict Resolution](core_01_b_stewardship_capacity_principles.md#9-interaction-and-conflict-resolution), and [9.4.1 Rights-Collision Decision Test](core_01_b_stewardship_capacity_principles.md#841-rights-collision-decision-test) where precedence and allocation choices must remain coherent and reviewable.
 - Downstream: Shapes the rights surface for equal standing, non-arbitrary treatment, meaningful challenge, and proportionate restriction limits.
   - Especially [Article V: Equal Basic Rights](core_10-10_rights_part_b.md#article-v-equal-basic-rights), [Article V-B: Nondiscrimination](core_10-10_rights_part_b.md#article-v-b-nondiscrimination), [Article IX: Self-Determination and Agency](core_10-10_rights_part_b.md#article-ix-self-determination-and-agency), [Article XII-B: Right to Challenge, Review, and Redress](core_10-10_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress), and [Article XVIII-B: Contestability and Proportional Restriction Limits](core_10-10_rights_part_c.md#article-xviii-b-contestability-and-proportional-restriction-limits).
   - Where systematic classification or gravity labels carry sanctions or durable effect, read with [Chapter Eight, section 4 — Due-process safeguards for slot classification](core_08-08_misconduct.md#4-due-process-safeguards-for-slot-classification).
   - Non-discrimination commitments are elaborated through Chapter Five [§2 — Protected Characteristics, Proxying, Intimate-Signal Gating, and Article X-C Status](core_05p_participation_definitions.md#fairness-and-protected-status-semi-independent).
+- Read with: [Substantive Fairness](core_05p_participation_definitions.md#substantive-fairness-constitutional) and related Chapter Ten rights-floor obligations where benefits, burdens, rewards, costs, duties, risks, contribution, need, or exposure are material.
 
 </details>
 
@@ -207,28 +208,53 @@ At this value layer, wellbeing:
 <summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
 
 - [Dignity and Equal Moral Standing](core_05p_participation_definitions.md#dignity-and-equal-moral-standing) · [O](core_05p_participation_definitions.md#dignity-and-equal-moral-standing) · [E](core_05p_participation_definitions.md#dignity-and-equal-moral-standing-e) · [C](core_05p_participation_definitions.md#dignity-and-equal-moral-standing-c)
+- [Participation](core_05p_participation_definitions.md#participation-constitutional) · [O](core_05p_participation_definitions.md#participation-constitutional) · [E](core_05p_participation_definitions.md#participation-constitutional-e) · [C](core_05p_participation_definitions.md#participation-constitutional-c)
 - [Procedural Fairness](core_05p_participation_definitions.md#procedural-fairness-constitutional) · [O](core_05p_participation_definitions.md#procedural-fairness-constitutional) · [E](core_05p_participation_definitions.md#procedural-fairness-constitutional-e) · [C](core_05p_participation_definitions.md#procedural-fairness-constitutional-c)
 - [Substantive Fairness](core_05p_participation_definitions.md#substantive-fairness-constitutional) · [O](core_05p_participation_definitions.md#substantive-fairness-constitutional) · [E](core_05p_participation_definitions.md#substantive-fairness-constitutional-e) · [C](core_05p_participation_definitions.md#substantive-fairness-constitutional-c)
 - [Protected Characteristics](core_05p_participation_definitions.md#protected-characteristics-constitutional) · [O](core_05p_participation_definitions.md#protected-characteristics-constitutional) · [E](core_05p_participation_definitions.md#protected-characteristics-constitutional-e) · [C](core_05p_participation_definitions.md#protected-characteristics-constitutional-c)
 - [Protected Characteristic Proxying and Disparate Impact](core_05p_participation_definitions.md#protected-characteristic-proxying-and-disparate-impact) · [O](core_05p_participation_definitions.md#protected-characteristic-proxying-and-disparate-impact) · [E](core_05p_participation_definitions.md#protected-characteristic-proxying-and-disparate-impact-e) · [C](core_05p_participation_definitions.md#protected-characteristic-proxying-and-disparate-impact-c)
+- [Protected Intimate-Signal Gating](core_05p_participation_definitions.md#protected-intimate-signal-gating) · [O](core_05p_participation_definitions.md#protected-intimate-signal-gating) · [E](core_05p_participation_definitions.md#protected-intimate-signal-gating-e) · [C](core_05p_participation_definitions.md#protected-intimate-signal-gating-c)
 
 </details>
 
 <br>
 
-*In plain terms: wellbeing is not fair when some sentients are arbitrarily shut out, treated by whim, or loaded with costs and risks that others escape. Fairness means real access to what matters, consistent treatment under defensible rules, and benefits and burdens that line up with comparable contribution, need, or exposure — not headline metrics that hide who pays and who benefits.*
+*In plain terms: fairness means the system cannot call itself good while ordinary people are blocked from taking part, treated by unexplained rules, or left carrying costs that others avoid. A fair system gives people real access, uses reasons it can defend, and shares rewards, costs, and risks in a way that matches real contribution, need, and exposure.*
 
-**Fairness** is part of what wellbeing requires wherever sentients coordinate through shared systems. It is not satisfied by aggregate scores alone. The question is whether opportunity, process, and the allocation of benefits and burdens fit legitimate expectations and equal moral standing.
+**Fairness** is part of what [§3](#3-foundational-objective-wellbeing) requires whenever people or other sentients must live, work, learn, trade, or make decisions through shared systems. Where shared systems materially affect sentients, fairness asks whether opportunity, treatment, and the division of benefits and burdens respect [Dignity and Equal Moral Standing](core_05p_participation_definitions.md#dignity-and-equal-moral-standing).
 
-Claimed wellbeing that rests on arbitrary exclusion, capricious rules, or opaque extraction from some sentients for others is not aligned with this objective.
+Fairness helps make [Participation](core_05p_participation_definitions.md#participation-constitutional) real. Participation is not real when people technically have a voice but cannot reach the process, understand the rule, meet the conditions, challenge the outcome, or afford the burden placed on them.
 
-**Three facets.** Fairness in this section has three parts. They orient application here; they do not replace Chapter Five definitions or the Chapter Ten Rights Floor.
+It is not enough for a system to show a good average result. One headline metric, average, ranking, or efficiency claim does not prove fairness by itself. A system can look successful in the aggregate while still being unfair to the people who are excluded, misclassified, underpaid, overburdened, or denied a meaningful chance to object.
 
-- **Access and opportunity.** Sentients need workable paths to participation, learning, and goods that meet real needs. Those paths must not be arbitrarily blocked or skewed by irrelevant factors. Where definitions and rights require it, what matters is substantive opportunity — not openness on paper alone.
-- **Treatment.** Like cases are handled alike under legitimate rules. Differentiation is permitted when it is justified, proportionate, and consistent with dignity and non-discrimination. Chapter Five spells out those commitments through [Protected Characteristics](core_05p_participation_definitions.md#protected-characteristics-constitutional) and [Protected Characteristic Proxying and Disparate Impact](core_05p_participation_definitions.md#protected-characteristic-proxying-and-disparate-impact), including protections against algorithmic replication of historical disadvantage, intimate-signal gating, and circumvention of Article X-C status. When decisions are materially adverse or contested, review pathways must align with [Procedural Fairness](core_05p_participation_definitions.md#procedural-fairness-constitutional) wherever Chapter Ten or designated owner instruments assign review, notice, or hearing duties.
-- **Benefits and burdens.** Reward, cost, and risk must line up with comparable contribution, comparable need, or comparable exposure in non-arbitrary ways. No single output metric proves fairness by itself. This facet is read through [Substantive Fairness](core_05p_participation_definitions.md#substantive-fairness-constitutional) and related Rights-Floor obligations.
+This section has **three working parts**. They guide this section but do not replace Chapter Five definitions or the Chapter Ten Rights Floor.
 
-These facets read through [Dignity and Equal Moral Standing](core_05p_participation_definitions.md#dignity-and-equal-moral-standing) and inform [5. Trust](#5-system-stability-enabler-trust-coordination-integrity) where reliance, expectation, and coordination integrity are material.
+**1. Access and opportunity**
+- People need practical paths to [Participation](core_05p_participation_definitions.md#participation-constitutional), education, work, care, safety, movement, and other goods that matter to ordinary life.
+- Those paths must not be blocked, priced out, delayed, hidden, or tilted for arbitrary or irrelevant reasons.
+- A door that is open only on paper is not enough where this Constitution requires **substantive** opportunity.
+
+**2. Fair treatment**
+- People in similar situations should be treated by the same basic rules.
+- What people receive, owe, or risk should fit what they contributed, what they need, or what burdens they actually face.
+- Different treatment must have a real reason, be proportionate to that reason, respect dignity, and avoid discrimination.
+- The detailed rules are carried through Chapter Five, including [Protected Characteristics](core_05p_participation_definitions.md#protected-characteristics-constitutional) and [Protected Characteristic Proxying and Disparate Impact](core_05p_participation_definitions.md#protected-characteristic-proxying-and-disparate-impact).
+- When a decision seriously affects someone, or when they challenge it, the review path must satisfy [Procedural Fairness](core_05p_participation_definitions.md#procedural-fairness-constitutional) wherever Chapter Ten or the governing instrument requires notice, hearing, explanation, or review.
+
+Claimed wellbeing is not aligned with [§3](#3-foundational-objective-wellbeing) if it depends on arbitrary exclusion, unexplained or unstable rules, hidden extraction, or formal [Participation](core_05p_participation_definitions.md#participation-constitutional) while the fairness conditions that make participation meaningful have failed.
+
+Unfair treatment creates exclusion and inconsistency. Systems must not hide unfair treatment behind technical language, neutral labels, or automated decisions. In particular, they must not:
+- use algorithms, scoring systems, or administrative rules that repeat historical disadvantage without a constitutionally valid reason;
+- use intimate personal signals or sexual history as shortcuts for trust, risk, character, or access — read with [Protected Intimate-Signal Gating](core_05p_participation_definitions.md#protected-intimate-signal-gating);
+- punish lawful employment, employment history, lack of employment, lawful work status, or protected association without a constitutionally valid reason;
+- deny jobs, housing, banking, licenses, standing, or similar access **mainly because** of any lawful form of employment, lawful past employment, lawful perceived employment, or lack of employment;
+- create material disadvantage through licensing, zoning, fees, platform rules, or other neutral-looking requirements that mainly burden lawful work, lawful work history, perceived lawful work, lack of employment, or protected association without the justification this Constitution requires;
+
+**3. Benefits and burdens**
+- A system is not fair when some people receive the gains while others quietly absorb the costs.
+- Favoritism, hidden cost-shifting, selective enforcement, and scoreboard tricks do not satisfy this requirement.
+
+These three parts also support [5. Trust](#5-system-stability-enabler-trust-coordination-integrity) where people must rely on a system, accept its decisions, or coordinate around its promises.
 
 #### 3.2 Recognition, Reinforcement, and Aspiration
 <details>
