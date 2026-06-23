@@ -24,7 +24,7 @@
 ## Files touched (operative)
 
 - `core_00_preamble.md`
-- `core_05a_accountability_definitions.md` — Timeliness (Constitutional); Timely Resolution upstream link
+- `core_05a_accountability_definitions.md` — Timeliness; Timely Resolution upstream link
 - `core_05-05_definitions_a_independent.md` — compass entry
 - `core_05c_continuity_definitions.md` — stewardship cluster timeliness hooks
 - `core_01_b_stewardship_capacity_principles.md` — §6 stewardship timeliness

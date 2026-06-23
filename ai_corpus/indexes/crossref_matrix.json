@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/crossref_matrix.schema.json",
-  "generated_at": "2026-06-22T18:42:58+00:00",
+  "generated_at": "2026-06-22T22:52:55+00:00",
   "description": "Source-derived file-to-file Markdown reference graph.",
   "graph": {
     "nodes": [
@@ -387,14 +387,12 @@
         "targets": [
           {
             "file": "core_01_a_values_principles.md",
-            "count": 9,
+            "count": 6,
             "anchors": [
-              "#1-purpose-and-role",
               "#32-recognition-reinforcement-and-aspiration",
               "#41-safety-harm-constraint",
               "#42-truth-epistemic-integrity-constraint",
-              "#5-system-stability-enabler-trust-coordination-integrity",
-              "#two-constitutional-aims"
+              "#5-system-stability-enabler-trust-coordination-integrity"
             ]
           },
           {
@@ -413,19 +411,24 @@
           },
           {
             "file": "core_05a_accountability_definitions.md",
-            "count": 1,
+            "count": 4,
             "anchors": [
+              "#accountability",
+              "#due-process-constitutional",
+              "#timeliness-constitutional",
               "#timely-resolution-constitutional"
             ]
           },
           {
             "file": "core_05c_continuity_definitions.md",
-            "count": 5,
+            "count": 7,
             "anchors": [
               "#avoidable-burden",
               "#constitutional-efficiency",
+              "#continuity-aim-constitutional",
               "#materiality-semi-independent",
-              "#productive-capacity-constitutional"
+              "#productive-capacity-constitutional",
+              "#sustainability"
             ]
           },
           {
@@ -437,18 +440,21 @@
           },
           {
             "file": "core_05o_oversight_definitions.md",
-            "count": 4,
+            "count": 5,
             "anchors": [
               "#material",
               "#material-impact",
               "#material-risk",
-              "#materiality-determination"
+              "#materiality-determination",
+              "#oversight-constitutional"
             ]
           },
           {
             "file": "core_05p_participation_definitions.md",
-            "count": 2,
+            "count": 4,
             "anchors": [
+              "#flourishing-constitutional",
+              "#participation-constitutional",
               "#stakeholder-status-emergency-and-participation-weight-cluster"
             ]
           },
@@ -466,16 +472,19 @@
         "targets": [
           {
             "file": "core_00_preamble.md",
-            "count": 38,
+            "count": 71,
             "anchors": [
-              "#chapter-00-preamble--foundational-requirements",
               "#constitutional-tetrad",
-              "#material-stake"
+              "#continuity",
+              "#flourishing",
+              "#material-stake",
+              "#the-model",
+              "#two-constitutional-aims"
             ]
           },
           {
             "file": "core_01_b_stewardship_capacity_principles.md",
-            "count": 50,
+            "count": 51,
             "anchors": [
               "#101-required-evaluation-factors",
               "#11-freedom-bounded-agency",
@@ -717,16 +726,20 @@
         "targets": [
           {
             "file": "core_00_preamble.md",
-            "count": 70,
+            "count": 109,
             "anchors": [
               "#chapter-00-preamble--foundational-requirements",
               "#constitutional-tetrad",
-              "#material-stake"
+              "#continuity",
+              "#flourishing",
+              "#material-stake",
+              "#the-model",
+              "#two-constitutional-aims"
             ]
           },
           {
             "file": "core_01_a_values_principles.md",
-            "count": 56,
+            "count": 17,
             "anchors": [
               "#1-purpose-and-role",
               "#2-constitutional-interpretation",
@@ -734,10 +747,7 @@
               "#22-ambiguity-resolution",
               "#3-foundational-objective-wellbeing",
               "#42-truth-epistemic-integrity-constraint",
-              "#5-system-stability-enabler-trust-coordination-integrity",
-              "#continuity",
-              "#flourishing",
-              "#two-constitutional-aims"
+              "#5-system-stability-enabler-trust-coordination-integrity"
             ]
           },
           {
@@ -1080,23 +1090,23 @@
         "targets": [
           {
             "file": "core_00_preamble.md",
-            "count": 6,
+            "count": 8,
             "anchors": [
               "#chapter-00-preamble--foundational-requirements",
               "#constitutional-tetrad",
-              "#material-stake"
+              "#material-stake",
+              "#two-constitutional-aims"
             ]
           },
           {
             "file": "core_01_a_values_principles.md",
-            "count": 11,
+            "count": 9,
             "anchors": [
               "#1-purpose-and-role",
               "#41-safety-harm-constraint",
               "#42-truth-epistemic-integrity-constraint",
               "#43-science-informed-inquiry-and-decision-support",
-              "#44-plain-language-accessibility-stewardship-duty",
-              "#two-constitutional-aims"
+              "#44-plain-language-accessibility-stewardship-duty"
             ]
           },
           {
@@ -1215,7 +1225,7 @@
           },
           {
             "file": "core_05a_accountability_definitions.md",
-            "count": 67,
+            "count": 70,
             "anchors": [
               "#accountability",
               "#adjudication-and-dispute-resolution-constitutional",
@@ -1232,6 +1242,7 @@
               "#contingent-claim",
               "#contribution-state",
               "#decentralization",
+              "#due-process-constitutional",
               "#event-contract-market",
               "#feasibility",
               "#force-majeure-constitutional",
@@ -1283,7 +1294,7 @@
           },
           {
             "file": "core_05c_continuity_definitions.md",
-            "count": 64,
+            "count": 66,
             "anchors": [
               "#anti-displacement-floor-constitutional",
               "#avoidable-burden",
@@ -1292,6 +1303,7 @@
               "#cascading-failure",
               "#constitutional-efficiency",
               "#constitutional-emergency-and-contingency",
+              "#continuity-aim-constitutional",
               "#creative-work-attribution-constitutional",
               "#dependency",
               "#distributed-understanding-constitutional",
@@ -1365,7 +1377,7 @@
           },
           {
             "file": "core_05o_oversight_definitions.md",
-            "count": 45,
+            "count": 46,
             "anchors": [
               "#adversarial-scaled-and-exploited-conditions",
               "#audit-scope-sufficiency",
@@ -1412,7 +1424,7 @@
           },
           {
             "file": "core_05p_participation_definitions.md",
-            "count": 55,
+            "count": 59,
             "anchors": [
               "#accessibility-constitutional",
               "#animal-life-constitutional",
@@ -1434,6 +1446,7 @@
               "#educational-agency",
               "#expression-constitutional",
               "#family-and-care-relationships-constitutional",
+              "#flourishing-constitutional",
               "#freedom-bounded-agency",
               "#graduated-capability-constitutional",
               "#info-sphere",
@@ -1446,6 +1459,7 @@
               "#non-separation-constitutional",
               "#non-statelessness-constitutional",
               "#parent-system-relationship-constitutional",
+              "#participation-constitutional",
               "#procedural-fairness-constitutional",
               "#protected-characteristic-proxying-and-disparate-impact",
               "#protected-characteristics-constitutional",
@@ -1628,25 +1642,26 @@
         "targets": [
           {
             "file": "core_00_preamble.md",
-            "count": 7,
+            "count": 8,
             "anchors": [
               "#chapter-00-preamble--foundational-requirements",
               "#constitutional-tetrad",
-              "#material-stake"
-            ]
-          },
-          {
-            "file": "core_01_a_values_principles.md",
-            "count": 4,
-            "anchors": [
-              "#3-foundational-objective-wellbeing",
-              "#4-non-negotiable-constraints-safety-and-truth",
+              "#material-stake",
               "#two-constitutional-aims"
             ]
           },
           {
+            "file": "core_01_a_values_principles.md",
+            "count": 6,
+            "anchors": [
+              "#3-foundational-objective-wellbeing",
+              "#4-non-negotiable-constraints-safety-and-truth",
+              "#5-system-stability-enabler-trust-coordination-integrity"
+            ]
+          },
+          {
             "file": "core_01_b_stewardship_capacity_principles.md",
-            "count": 42,
+            "count": 45,
             "anchors": [
               "#101-required-evaluation-factors",
               "#11-freedom-bounded-agency",
@@ -1662,7 +1677,7 @@
           },
           {
             "file": "core_05-05_definitions_a_independent.md",
-            "count": 2,
+            "count": 3,
             "anchors": [
               "#chapter-five-compass-and-definition-map",
               "#chapter-five-foundational-definitions"
@@ -1670,12 +1685,13 @@
           },
           {
             "file": "core_05a_accountability_definitions.md",
-            "count": 104,
+            "count": 111,
             "anchors": [
               "#accountability",
               "#accountability-contestability-semi-independent",
               "#adjudication-and-dispute-resolution-constitutional",
               "#contestability",
+              "#due-process-constitutional",
               "#feasibility",
               "#governance",
               "#harassment-and-bullying",
@@ -1686,14 +1702,16 @@
               "#proportionality",
               "#protected-reporting-retaliation-and-access-interference",
               "#protected-reporting-whistleblowing",
-              "#redress-and-remediation-constitutional"
+              "#redress-and-remediation-constitutional",
+              "#timeliness-constitutional"
             ]
           },
           {
             "file": "core_05c_continuity_definitions.md",
-            "count": 71,
+            "count": 82,
             "anchors": [
               "#agency-consent-and-anti-coercion-semi-independent",
+              "#continuity-aim-constitutional",
               "#dependency",
               "#derived-developing-sentients-instantiation-and-care-authority-cluster",
               "#ecological-integrity-constitutional",
@@ -1713,7 +1731,9 @@
               "#system-boundaries",
               "#system-capture",
               "#systemic-lock-in",
-              "#trust"
+              "#trust",
+              "#trustworthiness",
+              "#wellbeing"
             ]
           },
           {
@@ -1728,7 +1748,7 @@
           },
           {
             "file": "core_05o_oversight_definitions.md",
-            "count": 44,
+            "count": 47,
             "anchors": [
               "#adversarial-scaled-and-exploited-conditions",
               "#auditability",
@@ -1746,8 +1766,9 @@
           },
           {
             "file": "core_05p_participation_definitions.md",
-            "count": 389,
+            "count": 402,
             "anchors": [
+              "#accessibility-constitutional",
               "#animal-life-constitutional",
               "#assembly-collective-organization-institutional-formation-cluster",
               "#assembly-constitutional",
@@ -1892,7 +1913,7 @@
         "targets": [
           {
             "file": "core_00_preamble.md",
-            "count": 9,
+            "count": 10,
             "anchors": [
               "#constitutional-tetrad",
               "#material-stake"
@@ -1909,7 +1930,7 @@
           },
           {
             "file": "core_01_b_stewardship_capacity_principles.md",
-            "count": 69,
+            "count": 71,
             "anchors": [
               "#101-required-evaluation-factors",
               "#11-freedom-bounded-agency",
@@ -1945,7 +1966,7 @@
           },
           {
             "file": "core_05a_accountability_definitions.md",
-            "count": 375,
+            "count": 391,
             "anchors": [
               "#accountability",
               "#accountability-contestability-semi-independent",
@@ -1962,6 +1983,7 @@
               "#contingent-claim",
               "#contribution-state",
               "#decentralization",
+              "#due-process-constitutional",
               "#event-contract-market",
               "#force-majeure-constitutional",
               "#forum-family-constitutional",
@@ -2046,7 +2068,7 @@
           },
           {
             "file": "core_05i_integrative_definitions.md",
-            "count": 18,
+            "count": 19,
             "anchors": [
               "#accountability-contestability-and-collective-accountability-failure-cluster",
               "#constitutional-constraint-violation",
@@ -2079,7 +2101,7 @@
           },
           {
             "file": "core_05p_participation_definitions.md",
-            "count": 91,
+            "count": 94,
             "anchors": [
               "#coercion-and-manipulation-constitutional",
               "#collective-harm-boundary-and-harm-cluster",
@@ -2174,11 +2196,12 @@
           },
           {
             "file": "core_10-10_rights_part_b.md",
-            "count": 3,
+            "count": 4,
             "anchors": [
               "#article-vii-e-voluntary-discontinuation-of-ones-own-existence",
               "#article-x-a-non-imposition-and-consent-in-association",
-              "#article-x-b-collective-harm-boundary-and-enforcement-interface"
+              "#article-x-b-collective-harm-boundary-and-enforcement-interface",
+              "#article-xi-stakeholder-system-participation-representation-and-due-process"
             ]
           },
           {
@@ -2231,27 +2254,28 @@
         "targets": [
           {
             "file": "core_00_preamble.md",
-            "count": 7,
+            "count": 15,
             "anchors": [
               "#chapter-00-preamble--foundational-requirements",
               "#constitutional-tetrad",
-              "#material-stake"
+              "#material-stake",
+              "#two-constitutional-aims"
             ]
           },
           {
             "file": "core_01_a_values_principles.md",
-            "count": 23,
+            "count": 16,
             "anchors": [
               "#3-foundational-objective-wellbeing",
               "#4-non-negotiable-constraints-safety-and-truth",
               "#41-safety-harm-constraint",
               "#5-system-stability-enabler-trust-coordination-integrity",
-              "#two-constitutional-aims"
+              "#51-resilience-and-self-healing-design"
             ]
           },
           {
             "file": "core_01_b_stewardship_capacity_principles.md",
-            "count": 79,
+            "count": 81,
             "anchors": [
               "#101-required-evaluation-factors",
               "#1014-voluntary-discontinuation-and-exit-rights",
@@ -2288,7 +2312,7 @@
           },
           {
             "file": "core_05a_accountability_definitions.md",
-            "count": 136,
+            "count": 138,
             "anchors": [
               "#accountability",
               "#accountability-contestability-semi-independent",
@@ -2309,12 +2333,13 @@
               "#proportionality",
               "#psychological-harm",
               "#redress-and-remediation-constitutional",
-              "#timeliness-constitutional"
+              "#timeliness-constitutional",
+              "#timely-resolution-constitutional"
             ]
           },
           {
             "file": "core_05c_continuity_definitions.md",
-            "count": 360,
+            "count": 371,
             "anchors": [
               "#anti-displacement-floor-constitutional",
               "#avoidable-burden",
@@ -2323,6 +2348,7 @@
               "#cascading-failure",
               "#constitutional-efficiency",
               "#constitutional-emergency-and-contingency",
+              "#continuity-aim-constitutional",
               "#creative-work-attribution-constitutional",
               "#dependency",
               "#distributed-understanding-constitutional",
@@ -2350,6 +2376,7 @@
               "#risk",
               "#safe-conditions-constitutional",
               "#safety-constraint",
+              "#self-healing-constitutional",
               "#shared-system-capacity-constitutional",
               "#short-horizon-governance-defect-constitutional",
               "#stakeholder-emergency-and-contingency",
@@ -2386,7 +2413,7 @@
           },
           {
             "file": "core_05o_oversight_definitions.md",
-            "count": 121,
+            "count": 122,
             "anchors": [
               "#adversarial-scaled-and-exploited-conditions",
               "#auditability",
@@ -2408,7 +2435,7 @@
           },
           {
             "file": "core_05p_participation_definitions.md",
-            "count": 142,
+            "count": 145,
             "anchors": [
               "#accessibility-constitutional",
               "#binding-stakeholder-choice-cluster",
@@ -2420,6 +2447,7 @@
               "#dignity-and-equal-moral-standing",
               "#ecological-footprint-semi-independent",
               "#educational-agency",
+              "#flourishing-constitutional",
               "#freedom-bounded-agency",
               "#graduated-capability-constitutional",
               "#lifespan-equivalent-unit-lequ",
@@ -2513,19 +2541,19 @@
         "targets": [
           {
             "file": "core_00_preamble.md",
-            "count": 4,
+            "count": 5,
             "anchors": [
               "#chapter-00-preamble--foundational-requirements",
               "#constitutional-tetrad",
-              "#material-stake"
+              "#material-stake",
+              "#two-constitutional-aims"
             ]
           },
           {
             "file": "core_01_a_values_principles.md",
-            "count": 7,
+            "count": 6,
             "anchors": [
-              "#2-constitutional-interpretation",
-              "#two-constitutional-aims"
+              "#2-constitutional-interpretation"
             ]
           },
           {
@@ -2551,12 +2579,13 @@
           },
           {
             "file": "core_05a_accountability_definitions.md",
-            "count": 25,
+            "count": 30,
             "anchors": [
               "#capture-of-resolution-pathways",
               "#contestability",
               "#contingent-claim",
               "#corpus-authority-stack-supremacy-and-enforceability-cluster",
+              "#due-process-constitutional",
               "#event-contract-market",
               "#game-of-chance",
               "#governance",
@@ -2673,16 +2702,10 @@
         "targets": [
           {
             "file": "core_00_preamble.md",
-            "count": 12,
+            "count": 19,
             "anchors": [
               "#constitutional-tetrad",
-              "#material-stake"
-            ]
-          },
-          {
-            "file": "core_01_a_values_principles.md",
-            "count": 7,
-            "anchors": [
+              "#material-stake",
               "#two-constitutional-aims"
             ]
           },
@@ -2831,21 +2854,21 @@
         "targets": [
           {
             "file": "core_00_preamble.md",
-            "count": 5,
+            "count": 6,
             "anchors": [
               "#constitutional-tetrad",
-              "#material-stake"
+              "#material-stake",
+              "#two-constitutional-aims"
             ]
           },
           {
             "file": "core_01_a_values_principles.md",
-            "count": 9,
+            "count": 8,
             "anchors": [
               "#3-foundational-objective-wellbeing",
               "#4-non-negotiable-constraints-safety-and-truth",
               "#41-safety-harm-constraint",
-              "#42-truth-epistemic-integrity-constraint",
-              "#two-constitutional-aims"
+              "#42-truth-epistemic-integrity-constraint"
             ]
           },
           {
@@ -3081,20 +3104,20 @@
         "targets": [
           {
             "file": "core_00_preamble.md",
-            "count": 3,
+            "count": 8,
             "anchors": [
               "#constitutional-tetrad",
-              "#material-stake"
+              "#continuity",
+              "#material-stake",
+              "#two-constitutional-aims"
             ]
           },
           {
             "file": "core_01_a_values_principles.md",
-            "count": 7,
+            "count": 2,
             "anchors": [
               "#32-recognition-reinforcement-and-aspiration",
-              "#42-truth-epistemic-integrity-constraint",
-              "#continuity",
-              "#two-constitutional-aims"
+              "#42-truth-epistemic-integrity-constraint"
             ]
           },
           {
@@ -3326,16 +3349,10 @@
         "targets": [
           {
             "file": "core_00_preamble.md",
-            "count": 6,
+            "count": 7,
             "anchors": [
               "#constitutional-tetrad",
-              "#material-stake"
-            ]
-          },
-          {
-            "file": "core_01_a_values_principles.md",
-            "count": 1,
-            "anchors": [
+              "#material-stake",
               "#two-constitutional-aims"
             ]
           },
@@ -3477,20 +3494,20 @@
         "targets": [
           {
             "file": "core_00_preamble.md",
-            "count": 2,
+            "count": 3,
             "anchors": [
               "#constitutional-tetrad",
-              "#material-stake"
+              "#material-stake",
+              "#two-constitutional-aims"
             ]
           },
           {
             "file": "core_01_a_values_principles.md",
-            "count": 21,
+            "count": 20,
             "anchors": [
               "#3-foundational-objective-wellbeing",
               "#41-safety-harm-constraint",
-              "#42-truth-epistemic-integrity-constraint",
-              "#two-constitutional-aims"
+              "#42-truth-epistemic-integrity-constraint"
             ]
           },
           {
@@ -3733,7 +3750,7 @@
           },
           {
             "file": "core_05a_accountability_definitions.md",
-            "count": 154,
+            "count": 163,
             "anchors": [
               "#accountability",
               "#accountability-c",
@@ -3744,6 +3761,9 @@
               "#contestability",
               "#contestability-c",
               "#contestability-e",
+              "#due-process-constitutional",
+              "#due-process-constitutional-c",
+              "#due-process-constitutional-e",
               "#educational-agency-o",
               "#expression-constitutional-o",
               "#good-faith",
@@ -3885,7 +3905,7 @@
           },
           {
             "file": "core_05p_participation_definitions.md",
-            "count": 330,
+            "count": 331,
             "anchors": [
               "#accessibility-constitutional",
               "#accessibility-constitutional-c",
@@ -4003,20 +4023,20 @@
         "targets": [
           {
             "file": "core_00_preamble.md",
-            "count": 1,
+            "count": 2,
             "anchors": [
-              "#constitutional-tetrad"
+              "#constitutional-tetrad",
+              "#two-constitutional-aims"
             ]
           },
           {
             "file": "core_01_a_values_principles.md",
-            "count": 43,
+            "count": 42,
             "anchors": [
               "#41-safety-harm-constraint",
               "#42-truth-epistemic-integrity-constraint",
               "#5-system-stability-enabler-trust-coordination-integrity",
-              "#51-resilience-and-self-healing-design",
-              "#two-constitutional-aims"
+              "#51-resilience-and-self-healing-design"
             ]
           },
           {
@@ -4666,18 +4686,18 @@
         "targets": [
           {
             "file": "core_00_preamble.md",
-            "count": 2,
+            "count": 3,
             "anchors": [
               "#constitutional-tetrad",
-              "#material-stake"
+              "#material-stake",
+              "#two-constitutional-aims"
             ]
           },
           {
             "file": "core_01_a_values_principles.md",
-            "count": 2,
+            "count": 1,
             "anchors": [
-              "#4-non-negotiable-constraints-safety-and-truth",
-              "#two-constitutional-aims"
+              "#4-non-negotiable-constraints-safety-and-truth"
             ]
           },
           {
@@ -4834,18 +4854,21 @@
         "targets": [
           {
             "file": "core_00_preamble.md",
-            "count": 2,
+            "count": 4,
             "anchors": [
-              "#constitutional-tetrad"
+              "#constitutional-tetrad",
+              "#two-constitutional-aims"
             ]
           },
           {
             "file": "core_01_a_values_principles.md",
-            "count": 13,
+            "count": 12,
             "anchors": [
               "#2-constitutional-interpretation",
-              "#24-canonical-conflict-resolution-procedure",
-              "#two-constitutional-aims"
+              "#23-conflict-resolution-procedure",
+              "#231-integrated-reading",
+              "#232-last-resort-internal-hierarchy",
+              "#233-incorporation-layer"
             ]
           },
           {
@@ -5363,16 +5386,10 @@
         "targets": [
           {
             "file": "core_00_preamble.md",
-            "count": 2,
+            "count": 3,
             "anchors": [
               "#constitutional-tetrad",
-              "#material-stake"
-            ]
-          },
-          {
-            "file": "core_01_a_values_principles.md",
-            "count": 1,
-            "anchors": [
+              "#material-stake",
               "#two-constitutional-aims"
             ]
           },
@@ -5507,16 +5524,10 @@
         "targets": [
           {
             "file": "core_00_preamble.md",
-            "count": 3,
+            "count": 5,
             "anchors": [
               "#constitutional-tetrad",
-              "#material-stake"
-            ]
-          },
-          {
-            "file": "core_01_a_values_principles.md",
-            "count": 2,
-            "anchors": [
+              "#material-stake",
               "#two-constitutional-aims"
             ]
           },
@@ -5948,16 +5959,10 @@
         "targets": [
           {
             "file": "core_00_preamble.md",
-            "count": 4,
+            "count": 6,
             "anchors": [
               "#constitutional-tetrad",
-              "#material-stake"
-            ]
-          },
-          {
-            "file": "core_01_a_values_principles.md",
-            "count": 2,
-            "anchors": [
+              "#material-stake",
               "#two-constitutional-aims"
             ]
           },
@@ -6235,16 +6240,10 @@
         "targets": [
           {
             "file": "core_00_preamble.md",
-            "count": 6,
+            "count": 7,
             "anchors": [
+              "#continuity",
               "#material-stake"
-            ]
-          },
-          {
-            "file": "core_01_a_values_principles.md",
-            "count": 1,
-            "anchors": [
-              "#continuity"
             ]
           },
           {
@@ -6639,17 +6638,11 @@
         "targets": [
           {
             "file": "core_00_preamble.md",
-            "count": 5,
+            "count": 6,
             "anchors": [
               "#constitutional-tetrad",
+              "#flourishing",
               "#material-stake"
-            ]
-          },
-          {
-            "file": "core_01_a_values_principles.md",
-            "count": 1,
-            "anchors": [
-              "#flourishing"
             ]
           },
           {
@@ -6792,16 +6785,10 @@
         "targets": [
           {
             "file": "core_00_preamble.md",
-            "count": 2,
+            "count": 3,
             "anchors": [
               "#constitutional-tetrad",
-              "#material-stake"
-            ]
-          },
-          {
-            "file": "core_01_a_values_principles.md",
-            "count": 1,
-            "anchors": [
+              "#material-stake",
               "#two-constitutional-aims"
             ]
           },
@@ -7068,11 +7055,17 @@
         "source": "corpus_systems/cs_protocol_a_system_design_testing_verification_deployment.md",
         "targets": [
           {
-            "file": "core_01_a_values_principles.md",
-            "count": 2,
+            "file": "core_00_preamble.md",
+            "count": 1,
             "anchors": [
-              "#51-resilience-and-self-healing-design",
               "#two-constitutional-aims"
+            ]
+          },
+          {
+            "file": "core_01_a_values_principles.md",
+            "count": 1,
+            "anchors": [
+              "#51-resilience-and-self-healing-design"
             ]
           },
           {
@@ -7141,15 +7134,9 @@
         "targets": [
           {
             "file": "core_00_preamble.md",
-            "count": 1,
+            "count": 2,
             "anchors": [
-              "#constitutional-tetrad"
-            ]
-          },
-          {
-            "file": "core_01_a_values_principles.md",
-            "count": 1,
-            "anchors": [
+              "#constitutional-tetrad",
               "#two-constitutional-aims"
             ]
           },
@@ -7355,16 +7342,10 @@
         "targets": [
           {
             "file": "core_00_preamble.md",
-            "count": 2,
+            "count": 3,
             "anchors": [
               "#constitutional-tetrad",
-              "#material-stake"
-            ]
-          },
-          {
-            "file": "core_01_a_values_principles.md",
-            "count": 1,
-            "anchors": [
+              "#material-stake",
               "#two-constitutional-aims"
             ]
           },

@@ -67,7 +67,7 @@ No single principle may be applied in isolation where doing so would materially 
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [Chapter 00 — Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad); [material stake](core_00_preamble.md#material-stake) scaling applies chapter-wide through section traces.
-- Downstream: [§2.1 Definitional layer and required disciplines](#21-definitional-layer-and-required-disciplines), [§2.2 Ambiguity resolution](#22-ambiguity-resolution), [§2.3 Internal hierarchy (last-resort rule)](#23-internal-hierarchy-last-resort-rule), [§2.4 Canonical conflict resolution procedure](#24-canonical-conflict-resolution-procedure); [3. Foundational Objective: Wellbeing](#3-foundational-objective-wellbeing) through [13. Integrated Application](core_01_b_stewardship_capacity_principles.md#13-integrated-application); [9. Interaction and Conflict Resolution](core_01_b_stewardship_capacity_principles.md#9-interaction-and-conflict-resolution) for value-collision procedure; [Chapter Ten: Foundational Rights](core_10-10_rights_part_a.md#chapter-ten-foundational-rights) non-contraction default.
+- Downstream: [§2.1 Definitional layer and required disciplines](#21-definitional-layer-and-required-disciplines), [§2.2 Ambiguity resolution](#22-ambiguity-resolution), [§2.3 Conflict resolution procedure](#23-conflict-resolution-procedure) ([§2.3.1](#231-integrated-reading) · [§2.3.2](#232-last-resort-internal-hierarchy) · [§2.3.3](#233-incorporation-layer)); [3. Foundational Objective: Wellbeing](#3-foundational-objective-wellbeing) through [13. Integrated Application](core_01_b_stewardship_capacity_principles.md#13-integrated-application); [9. Interaction and Conflict Resolution](core_01_b_stewardship_capacity_principles.md#9-interaction-and-conflict-resolution) for value-collision procedure; [Chapter Ten: Foundational Rights](core_10-10_rights_part_a.md#chapter-ten-foundational-rights) non-contraction default.
 - Read with: [Chapters Two through Four](core_02-04_definition_mechanics.md) and [Chapter Five](core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) — interpretive and evidentiary layer for every term in this chapter.
 - Read with: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) and [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) — interpretive backdrop for the integrated-value framework; [material stake](core_00_preamble.md#material-stake) scaling where materially relevant.
 - Read with: [Chapter Fifteen §2](core_15-15_incorporation.md#2-authority-stack-and-invocation) (*Conflict order* / strictest-applicable incorporated text).
@@ -114,13 +114,29 @@ Where ambiguity remains after integrated reading, interpretation must also favor
 - maintenance of truthfulness and reliable understanding
 - protection of meaningful agency consistent with system conditions
 
+<a id="14-canonical-conflict-resolution-procedure"></a>
+<a id="24-canonical-conflict-resolution-procedure"></a>
+<a id="23-conflict-resolution-procedure"></a>
+#### 2.3 Conflict resolution procedure
+
+This subsection is the **single canonical procedure** for resolving interpretive tension **within the binding constitutional source** (the integrated `core_*` instrument) and for reading **strictest** / **stricter** language in **[Chapter Fifteen](core_15-15_incorporation.md#2-authority-stack-and-invocation)** section 2 (*Conflict order*). For **value and rights collisions in operation** — not textual layer precedence — apply **[§9 Interaction and Conflict Resolution](core_01_b_stewardship_capacity_principles.md#9-interaction-and-conflict-resolution)**.
+
+<a id="231-integrated-reading"></a>
+##### 2.3.1 Integrated reading
+
+Apply **[§2.1 Definitional layer and required disciplines](#21-definitional-layer-and-required-disciplines)** and **[§2.2 Ambiguity resolution](#22-ambiguity-resolution)** first:
+- **Chapters Two through Five** operate as the interpretive and evidentiary layer.
+- The **ambiguity** rule requires the fullest **protective** effect as an integrated whole and alignment with sentient wellbeing; it does **not** permit **maximal restriction** or **abstract strictness** in isolation.
+- **Chapter Ten** rights may not be contracted except where **Chapter One** interaction rules and applicable definitions **expressly** permit.
+
 <a id="13-internal-hierarchy-last-resort-rule"></a>
 <a id="23-internal-hierarchy-last-resort-rule"></a>
-#### 2.3 Internal hierarchy (last-resort rule)
+<a id="232-last-resort-internal-hierarchy"></a>
+##### 2.3.2 Last-resort internal hierarchy
 
 Within the binding constitutional source, **Chapter One principles** govern high-level constitutional direction. **Article-level obligations and Rights Floors** govern specific operative requirements. The canonical statement of this rule — including its boundary with source-layer authority and its application to adopters under **Chapter Twelve §3.1** — lives in the [Authority Stack and Internal Hierarchy](core_05i_integrative_definitions.md#authority-stack) cluster in Chapter Five.
 
-If a genuine incompatibility remains after reading the Constitution as an integrated whole:
+If a genuine incompatibility remains after integrated reading under **§2.3.1**:
 - principles control over articles
 - articles control over definitions read as independent substantive glosses
 - canonical definitions continue to govern the meaning of the terms used at each level
@@ -132,19 +148,10 @@ This hierarchy is an interpretive rule of last resort and does not license:
 
 Each principle in this chapter applies together with the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) and [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) established in [Chapter 00 §1 The Model](core_00_preamble.md#the-model). Section traces identify which tetrad leg or legs are materially implicated, which aim or aims are materially implicated, and whether duties scale with [material stake](core_00_preamble.md#material-stake).
 
-<a id="14-canonical-conflict-resolution-procedure"></a>
-<a id="24-canonical-conflict-resolution-procedure"></a>
-#### 2.4 Canonical conflict resolution procedure
+<a id="233-incorporation-layer"></a>
+##### 2.3.3 Incorporation layer
 
-This subsection is the **single canonical procedure** for resolving interpretive tension **within the binding constitutional source** (the integrated `core_*` instrument) and for reading **strictest** / **stricter** language in **[Chapter Fifteen](core_15-15_incorporation.md#2-authority-stack-and-invocation)** section 2 (*Conflict order*).
-
-**Constitutional instrument.** For the numbered Sentient Constitution chapters read as one instrument, apply the interpretive rules in **§§2.1–2.3**:
-- **Chapters Two through Five** operate as the interpretive and evidentiary layer.
-- The **ambiguity** rule in **§2.2** requires the fullest **protective** effect as an integrated whole and alignment with sentient wellbeing; it does **not** permit **maximal restriction** or **abstract strictness** in isolation.
-- **Chapter Ten** rights may not be contracted except where **Chapter One** interaction rules and applicable definitions **expressly** permit.
-- The **Internal hierarchy (last-resort rule)** in **§2.3** applies with its non-licensing limits.
-
-**Incorporation layer ([Chapter Fifteen](core_15-15_incorporation.md#2-authority-stack-and-invocation) §2).** Where that section (*Conflict order*) calls for the **strictest applicable** incorporated **text** or a **stricter clearly adopted baseline** when **edition identifiers or custody records** are missing, contradictory, or materially unreliable, **strictest** and **stricter** carry the same **protective, integrated-reading** meaning as the **ambiguity** rule:
+Where **[Chapter Fifteen](core_15-15_incorporation.md#2-authority-stack-and-invocation)** section 2 (*Conflict order*) calls for the **strictest applicable** incorporated **text** or a **stricter clearly adopted baseline** when **edition identifiers or custody records** are missing, contradictory, or materially unreliable, **strictest** and **stricter** carry the same **protective, integrated-reading** meaning as the **ambiguity** rule in **§2.2**:
 - **Strictest applicable** means the incorporated **text** that preserves the **strongest protective, safety, accountability, and traceability** requirements for the same materially scoped obligation among alternatives that remain coherent with the constitutional reading produced under the **Chapter Fifteen** stack — in the same sense as the Constitution's **fullest protective effect as an integrated whole**, and **not** **maximal restriction** or **abstract strictness** in isolation.
 - **Stricter clearly adopted baseline** means the **adoption-traceable** incorporated edition or **baseline** the adoption chain **clearly supports** when records are unreliable (custody discipline and anti-drift), **not** substantive constitutional ambiguity resolution by preference for **abstract strictness**.
 
@@ -152,7 +159,7 @@ This subsection is the **single canonical procedure** for resolving interpretive
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Read with: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **participation** and **accountability** legs where wellbeing claims affect voice, access, or burden allocation; [material stake](core_00_preamble.md#material-stake) scaling where materially relevant.
+- Read with: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **participation** leg where wellbeing conditions materially affect whether voice, access, and contestability are substantive; **accountability** leg where wellbeing claims affect burden allocation; [material stake](core_00_preamble.md#material-stake) scaling where materially relevant.
 - Read with: [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) — this chapter develops the **Flourishing** aim through [§3](#3-foundational-objective-wellbeing) to [§5](#5-system-stability-enabler-trust-coordination-integrity) and [§10](core_01_b_stewardship_capacity_principles.md#11-freedom-bounded-agency).
 - Upstream: Principles: [Chapter 00 §1 The Model](core_00_preamble.md#the-model); [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) — **Flourishing** aim development.
 - Downstream: [4.1 Safety](#41-safety-harm-constraint), [4.2 Truth](#42-truth-epistemic-integrity-constraint), [§6 Stewardship and Distributed Understanding](core_01_b_stewardship_capacity_principles.md#6-stewardship-and-distributed-understanding), and [9. Interaction and Conflict Resolution](core_01_b_stewardship_capacity_principles.md#9-interaction-and-conflict-resolution).
@@ -168,6 +175,7 @@ This subsection is the **single canonical procedure** for resolving interpretive
 <summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
 
 - [Wellbeing](core_05c_continuity_definitions.md#wellbeing) · [O](core_05c_continuity_definitions.md#wellbeing) · [E](core_05c_continuity_definitions.md#wellbeing-e) · [C](core_05c_continuity_definitions.md#wellbeing-c)
+- [Participation](core_05p_participation_definitions.md#participation-constitutional) · [O](core_05p_participation_definitions.md#participation-constitutional) · [E](core_05p_participation_definitions.md#participation-constitutional-e) · [C](core_05p_participation_definitions.md#participation-constitutional-c)
 - [Dignity and Equal Moral Standing](core_05p_participation_definitions.md#dignity-and-equal-moral-standing) · [O](core_05p_participation_definitions.md#dignity-and-equal-moral-standing) · [E](core_05p_participation_definitions.md#dignity-and-equal-moral-standing-e) · [C](core_05p_participation_definitions.md#dignity-and-equal-moral-standing-c)
 - [Substantive Fairness](core_05p_participation_definitions.md#substantive-fairness-constitutional) · [O](core_05p_participation_definitions.md#substantive-fairness-constitutional) · [E](core_05p_participation_definitions.md#substantive-fairness-constitutional-e) · [C](core_05p_participation_definitions.md#substantive-fairness-constitutional-c)
 - [Materiality](core_05o_oversight_definitions.md#materiality-determination) · [O](core_05o_oversight_definitions.md#materiality-determination) · [E](core_05o_oversight_definitions.md#materiality-determination-e) · [C](core_05o_oversight_definitions.md#materiality-determination-c)
@@ -177,14 +185,17 @@ This subsection is the **single canonical procedure** for resolving interpretive
 
 <br>
 
-*In plain terms: the whole point of these systems is to make sentient lives genuinely better — and that purpose is not satisfied by chasing a proxy metric, nor available as a cover for cutting corners on Safety, Truth, or rights.*
+*In plain terms: the whole point of these systems is to make sentient lives genuinely better — and that purpose is not satisfied by chasing a proxy metric, nor available as a cover for cutting corners on Safety, Truth, or rights. Wellbeing is foundational for participation: token voice without the conditions that make agency real is not participation under this Constitution.*
 
 The ultimate objective of all systems governed under this Constitution is to preserve and advance sentient wellbeing — the [**Flourishing**](#flourishing) aim under the [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims).
+
+Wellbeing is foundational for [Participation](core_05p_participation_definitions.md#participation-constitutional) under the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad). Shared systems may not treat participation as satisfied when underlying wellbeing conditions — including [Meaningful Agency](core_05p_participation_definitions.md#meaningful-agency), fair access, and dignity — are materially degraded.
 
 Wellbeing is defined in Chapter Five Independent Definitions (Wellbeing).
 
 Wellbeing must be interpreted across direct, indirect, delayed, cumulative, and cross-system effects under **Chapters Two through Four** evaluative and tracing requirements.
 At this value layer, wellbeing:
+- is foundational for substantive participation — voice, representation, and contestability require the wellbeing conditions this section protects
 - cannot be treated as satisfied through proxy optimization that materially diverges from underlying constitutional objectives
 - remains bounded by non-negotiable constraints in this chapter
 - cannot be used as a blanket justification for violating Safety, Truth, or rights protections
@@ -260,8 +271,8 @@ These three parts also support [5. Trust](#5-system-stability-enabler-trust-coor
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Read with: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **accountability** leg (anti-reward for betrayal, concealment, and accountability avoidance); **oversight** leg (traceable, non-misleading acclaim).
-- Upstream: Principles: [3. Foundational Objective: Wellbeing](#3-foundational-objective-wellbeing); [3.1 Fairness](#31-fairness).
+- Read with: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **participation** leg where recognition, acclaim, or aspiration pathways materially affect voice, status, or access to consequential roles; **accountability** leg (anti-reward for betrayal, concealment, and accountability avoidance); **oversight** leg (traceable, non-misleading acclaim).
+- Upstream: Principles: [3. Foundational Objective: Wellbeing](#3-foundational-objective-wellbeing) — including wellbeing as foundational for [Participation](core_05p_participation_definitions.md#participation-constitutional); [3.1 Fairness](#31-fairness).
 - Downstream: [5. Trust](#5-system-stability-enabler-trust-coordination-integrity); [§6 Stewardship and Distributed Understanding](core_01_b_stewardship_capacity_principles.md#6-stewardship-and-distributed-understanding); [§7 Governance Under Stewardship Discipline](core_01_b_stewardship_capacity_principles.md#7-governance-under-stewardship-discipline); [§10 Freedom](core_01_b_stewardship_capacity_principles.md#11-freedom-bounded-agency).
 - Read with: [Chapter Six §1.1 — Shared domain lenses (cross-axis vocabulary)](core_07-07_standing_integration.md#11-shared-domain-lenses-cross-axis-vocabulary) where **domain-aligned** recognition or comparative **Axis I / Axis II** supplemental narratives are material.
 - Read with: [Chapter Six §1.2 — Stackable benefit-and-stewardship descriptors (Axis I supplement)](core_07-07_standing_integration.md#12-stackable-benefit-and-stewardship-descriptors-contribution-state-supplement) where contribution state and recognition narratives are material.
@@ -274,6 +285,7 @@ These three parts also support [5. Trust](#5-system-stability-enabler-trust-coor
 <summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
 
 - [Wellbeing](core_05c_continuity_definitions.md#wellbeing) · [O](core_05c_continuity_definitions.md#wellbeing) · [E](core_05c_continuity_definitions.md#wellbeing-e) · [C](core_05c_continuity_definitions.md#wellbeing-c)
+- [Participation](core_05p_participation_definitions.md#participation-constitutional) · [O](core_05p_participation_definitions.md#participation-constitutional) · [E](core_05p_participation_definitions.md#participation-constitutional-e) · [C](core_05p_participation_definitions.md#participation-constitutional-c)
 - [Substantive Fairness](core_05p_participation_definitions.md#substantive-fairness-constitutional) · [O](core_05p_participation_definitions.md#substantive-fairness-constitutional) · [E](core_05p_participation_definitions.md#substantive-fairness-constitutional-e) · [C](core_05p_participation_definitions.md#substantive-fairness-constitutional-c)
 - [Contestability](core_05a_accountability_definitions.md#contestability) · [O](core_05a_accountability_definitions.md#contestability) · [E](core_05a_accountability_definitions.md#contestability-e) · [C](core_05a_accountability_definitions.md#contestability-c)
 - [Meaningful Agency](core_05p_participation_definitions.md#meaningful-agency) · [O](core_05a_accountability_definitions.md#meaningful-agency-o) · [E](core_05p_participation_definitions.md#meaningful-agency-e) · [C](core_05p_participation_definitions.md#meaningful-agency-c)
@@ -283,9 +295,9 @@ These three parts also support [5. Trust](#5-system-stability-enabler-trust-coor
 
 <br>
 
-*In plain terms: wellbeing is not only what's forbidden and what's fair — shared systems should also honestly cheer and reward behavior they want repeated, within truth and rights. Celebrating wins means crediting real contribution, repair, and completion, not hype or manipulated metrics. It also means refusing to reward constitutional betrayal, concealment, retaliation, or accountability avoidance — even when those acts produced institutional advantage.*
+*In plain terms: wellbeing is not only what's forbidden and what's fair — shared systems should also honestly cheer and reward behavior they want repeated, within truth and rights, in ways that support rather than substitute for real participation. Celebrating wins means crediting real contribution, repair, and completion, not hype or manipulated metrics. It also means refusing to reward constitutional betrayal, concealment, retaliation, or accountability avoidance — even when those acts produced institutional advantage.*
 
-**Three dimensions.** Wellbeing depends on what systems forbid and how fairly they distribute costs — and also on what they visibly value, reinforce, and help sentients pursue. This section states those recognition, reinforcement, and aspiration duties. It applies together with [3.1 Fairness](#31-fairness) and remains bounded by Safety, Truth, and the Chapter Ten Rights Floor.
+**Three dimensions.** Wellbeing depends on what systems forbid and how fairly they distribute costs — and also on what they visibly value, reinforce, and help sentients pursue. This section states those recognition, reinforcement, and aspiration duties. Recognition and acclaim that materially affect voice, status, or access must remain consistent with [Participation](core_05p_participation_definitions.md#participation-constitutional) under [§3](#3-foundational-objective-wellbeing) and [3.1 Fairness](#31-fairness). It applies together with [3.1 Fairness](#31-fairness) and remains bounded by Safety, Truth, and the Chapter Ten Rights Floor.
 
 <a id="321-recognition-and-reinforcement"></a>
 ##### 3.2.1 Recognition and Reinforcement
@@ -324,7 +336,7 @@ Recognition should feel **meaningful** to those honored and to the communities t
 <a id="325-aligned-recognition-pathways"></a>
 ##### 3.2.5 Aligned Recognition Pathways
 
-Recognition pathways, acclaim, prizes, certification, standing, reputation effects, or comparable incentives that **allocate status**, **resources**, or **material access** must remain consistent with Truth, Safety, contestable procedure where **Chapter Ten** assigns it, and [Incentive Alignment](core_05i_integrative_definitions.md#incentive-alignment).
+Recognition pathways, acclaim, prizes, certification, standing, reputation effects, or comparable incentives that **allocate status**, **resources**, or **material access** must remain consistent with Truth, Safety, contestable procedure where **Chapter Ten** assigns it, [Participation](core_05p_participation_definitions.md#participation-constitutional), and [Incentive Alignment](core_05i_integrative_definitions.md#incentive-alignment).
 
 They **must not** systematically reward harm, deception, avoidance of scrutiny, extraction, or erosion of meaningful agency.
 

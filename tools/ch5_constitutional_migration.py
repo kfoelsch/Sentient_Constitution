@@ -293,7 +293,7 @@ BAND_PREAMBLES: dict[str, str] = {
         "This band holds definitions under the constitutional [Continuity aim]"
         "(../core_01_a_values_principles.md#continuity): dependency, risk, survival-floor continuity, "
         "labor floors, stewardship discipline, privacy lifecycle, and trust. "
-        "**Continuity disambiguation:** constitutional **Continuity aim** (Chapter One §2) is distinct "
+        "**Continuity disambiguation:** constitutional **Continuity aim** (Chapter One §1) is distinct "
         "from operational or protocol continuity elsewhere in the corpus."
     ),
     "i": (

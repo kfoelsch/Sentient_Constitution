@@ -291,7 +291,7 @@ NEW_FILES: dict[str, dict] = {
             "This family operationalizes the constitutional [Continuity aim]"
             "(../core_01_a_values_principles.md#continuity): preserving lawful function under "
             "dependency, lifecycle change, stress, and adversarial conditions. "
-            "**Continuity disambiguation:** constitutional **Continuity aim** (Chapter One §2) "
+            "**Continuity disambiguation:** constitutional **Continuity aim** (Chapter One §1) "
             "is distinct from operational or protocol continuity elsewhere in the corpus."
         ),
         "clusters": ["CJS-5.16", "CJS-5.17", "CJS-5.18", "CJS-5.19", "CJS-5.20", "CJS-5.21"],
