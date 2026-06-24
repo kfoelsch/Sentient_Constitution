@@ -167,6 +167,8 @@ ROW_RE = re.compile(
     r"\s*$"
 )
 
+PROSE_ANNOTATION_RE = re.compile(r"^\*[^*]+\*")
+
 # Inline "Definition:" single-concept form.
 INLINE_RE = re.compile(
     r'^<strong><span style="color: #2563eb;">Definition:</span></strong>'
@@ -496,6 +498,9 @@ def audit_widgets_in_file(
                             path, k + 1, m, anchors
                         )
                         violations.extend(row_violations)
+                        k += 1
+                        continue
+                    if PROSE_ANNOTATION_RE.match(stripped):
                         k += 1
                         continue
                     # Mis-shaped row-like line.

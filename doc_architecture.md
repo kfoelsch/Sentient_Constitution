@@ -84,7 +84,9 @@ Keep constitutional concept + O/E/C boundary only; cite owner homes for institut
 |---------|---------|------|
 | NAV-TRACE-08–10 | Trace placement and contents | `make ch9-trace-audit`, `make trace-routing-prose-audit` |
 | NAV-DEC-12 | D/E/C widget discipline | `make ch5-dec-widget-audit`, `make nav-widget-spacer-audit` |
-| NAV-DEC-CH1-ORDER | Chapter One D/E/C order | `make ch1-dec-order-audit` |
+| NAV-DEC-12-ORDER | Trace → D/E/C placement | `make trace-dec-widget-order-audit` |
+| NAV-DEC-12-SPACER | `<br>` after collapsible D/E/C only | `make nav-widget-spacer-audit` |
+| NAV-DEC-CH1-ORDER | Chapter One D/E/C row order | `make ch1-dec-order-audit` |
 | NAV-PLACEMENT-01 | File-top Corpus placement widget | `make file-top-placement-audit` |
 | LINK-IN-PARA-14 | Load-bearing in-paragraph links | `make in-paragraph-link-audit` |
 | CH5-GRAVITY | Chapter Five admission / de-bundling | `make ch5-definitions-gravity-audit` |
@@ -97,6 +99,35 @@ Keep constitutional concept + O/E/C boundary only; cite owner homes for institut
 | ROUTER-CJS21 | Cross-implementation routing | `make router-bidirectional-audit` |
 
 Historical D/E/C rollout: [archive/doc_architecture_decision_log/DEC_WIDGET_AND_NAV_DECISIONS_2026-04-16_2026-06-15.md](archive/doc_architecture_decision_log/DEC_WIDGET_AND_NAV_DECISIONS_2026-04-16_2026-06-15.md).
+
+### D/E/C widget template (NAV-DEC-12)
+
+Collapsed **Definitions · Evaluation · Compliance** widget (same blue `<details>` styling as Trace). Trace carries routing only (`Upstream:`, `Downstream:`, `Read with:`); D/E/C carries Chapter Five O/E/C jump links at the point of invocation.
+
+**When to attach**
+
+- Attach where a section **materially invokes** Chapter Five concepts as working terms in its own substantive claims — not roadmap enumeration of terms treated downstream in named sections (*roadmap exclusion*; see archived decision log).
+- **Two or more** invoked concepts → collapsible D/E/C widget.
+- **Exactly one** invoked concept → single-line inline **`Definition:`** (no collapsible widget).
+
+**Placement under the owning `###`–`#####` unit (NAV-DEC-12-ORDER)**
+
+1. **With Trace** — D/E/C widget or inline `Definition:` immediately follows Trace `</details>`; only blank lines may intervene. Enforced by `make trace-dec-widget-order-audit` when Trace carries Chapter Five `· [O]` read-with links.
+2. **Without Trace** — D/E/C widget is the **first substantive block under the heading**, before `*In plain terms:*` and operative prose. Legacy `<a id="…"></a>` anchors may follow the widget block (after its closing `</details>` and spacer). Example: Chapter One `#### 5.2 Voluntary Discontinuation and Exit Rights`.
+
+**Spacer (NAV-DEC-12-SPACER)**
+
+- Collapsible D/E/C widget: `<br>` after `</details>` before operative prose.
+- Inline `Definition:` line: **no** `<br>` (standard paragraph break only).
+
+**Inside the widget**
+
+- **Row shape (enforced by `make ch5-dec-widget-audit`):** each row is  
+  `- [Name](core_05…#slug) · [O](…) · [E](…) · [C](…)`.
+- **Annotation prose (optional, non-row):** italic-label lines such as `*Scope.*`, `*Definition home.*`, or `*Cluster-head home.*` may appear as plain paragraphs inside the widget before the row list. They are **not** list bullets and must not mimic row shape.
+- **Chapter One row order:** functional reasoning order, not alphabetical — config in [tools/architecture/ch1_dec_order.json](tools/architecture/ch1_dec_order.json); `make ch1-dec-order-audit`.
+
+**Do not** put `Definitions:` lines inside Trace (2026-04-16 D/E/C split). **Do not** use visible group labels as fake list rows inside D/E/C widgets.
 
 ### File-top placement template (NAV-PLACEMENT-01)
 

@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-06-24T19:50:02+00:00",
+  "generated_at": "2026-06-24T20:55:07+00:00",
   "files": {
     "core_00_preamble.md": {
       "total_lines": 97,
@@ -50,20 +50,20 @@
       ]
     },
     "core_01_a_values_principles.md": {
-      "total_lines": 1265,
+      "total_lines": 1238,
       "sections": [
         {
           "header": "Values Principles (Chapter One, Part A)",
           "level": 1,
           "line_start": 1,
-          "line_end": 1265,
+          "line_end": 1238,
           "anchor": null
         },
         {
           "header": "CHAPTER 01, PART A: VALUES PRINCIPLES",
           "level": 2,
           "line_start": 18,
-          "line_end": 1265,
+          "line_end": 1238,
           "anchor": null
         },
         {
@@ -252,222 +252,215 @@
           "header": "5. Freedom (Bounded Agency)",
           "level": 3,
           "line_start": 630,
-          "line_end": 803,
+          "line_end": 776,
           "anchor": "#5-freedom-bounded-agency"
         },
         {
           "header": "5.1 Limitation Discipline",
           "level": 4,
-          "line_start": 681,
-          "line_end": 708,
+          "line_start": 673,
+          "line_end": 702,
           "anchor": "#51-limitation-discipline"
         },
         {
-          "header": "5.2 Time-Consistency Constraint",
+          "header": "5.2 Voluntary Discontinuation and Exit Rights",
           "level": 4,
-          "line_start": 709,
+          "line_start": 703,
           "line_end": 729,
-          "anchor": "#52-time-consistency-constraint"
+          "anchor": "#52-voluntary-discontinuation-and-exit-rights"
         },
         {
-          "header": "5.3 Voluntary Discontinuation and Exit Rights",
+          "header": "5.3 Assembly, Collective Organization, and Institutional Formation",
           "level": 4,
           "line_start": 730,
-          "line_end": 757,
-          "anchor": "#53-voluntary-discontinuation-and-exit-rights"
+          "line_end": 758,
+          "anchor": "#53-assembly-collective-organization-and-institutional-formation"
         },
         {
-          "header": "5.4 Assembly, Collective Organization, and Institutional Formation",
+          "header": "5.4 Read-with: Stewardship Pathways",
           "level": 4,
-          "line_start": 758,
-          "line_end": 787,
-          "anchor": "#54-assembly-collective-organization-and-institutional-formation"
+          "line_start": 759,
+          "line_end": 767,
+          "anchor": "#54-read-with-stewardship-pathways"
         },
         {
-          "header": "5.5 Read-with: Stewardship Pathways",
+          "header": "5.5 Read-with: Structural Contestability",
           "level": 4,
-          "line_start": 788,
-          "line_end": 795,
-          "anchor": "#55-read-with-stewardship-pathways"
-        },
-        {
-          "header": "5.6 Read-with: Structural Contestability",
-          "level": 4,
-          "line_start": 796,
-          "line_end": 803,
-          "anchor": "#56-read-with-structural-contestability"
+          "line_start": 768,
+          "line_end": 776,
+          "anchor": "#55-read-with-structural-contestability"
         },
         {
           "header": "6. Interaction and Conflict Resolution",
           "level": 3,
-          "line_start": 804,
-          "line_end": 1108,
-          "anchor": null
+          "line_start": 777,
+          "line_end": 1081,
+          "anchor": "#56-read-with-structural-contestability"
         },
         {
           "header": "6.1 Core Tradeoff Principles",
           "level": 4,
-          "line_start": 836,
-          "line_end": 937,
+          "line_start": 809,
+          "line_end": 910,
           "anchor": "#61-core-tradeoff-principles"
         },
         {
           "header": "6.1.1 Proportionality",
           "level": 5,
-          "line_start": 847,
-          "line_end": 878,
+          "line_start": 820,
+          "line_end": 851,
           "anchor": "#611-proportionality"
         },
         {
           "header": "6.1.2 Necessity",
           "level": 5,
-          "line_start": 879,
-          "line_end": 887,
+          "line_start": 852,
+          "line_end": 860,
           "anchor": "#612-necessity"
         },
         {
           "header": "6.1.3 Minimization of Harm",
           "level": 5,
-          "line_start": 888,
-          "line_end": 904,
+          "line_start": 861,
+          "line_end": 877,
           "anchor": "#613-minimization-of-harm"
         },
         {
           "header": "6.1.4 Minimization of Avoidable Burden",
           "level": 5,
-          "line_start": 905,
-          "line_end": 937,
+          "line_start": 878,
+          "line_end": 910,
           "anchor": "#614-minimization-of-avoidable-burden"
         },
         {
           "header": "6.2 Epistemic Disclosure Constraints",
           "level": 4,
-          "line_start": 938,
-          "line_end": 1038,
+          "line_start": 911,
+          "line_end": 1011,
           "anchor": "#62-epistemic-disclosure-constraints"
         },
         {
           "header": "6.2.1 Preservation of Epistemic Integrity",
           "level": 5,
-          "line_start": 977,
-          "line_end": 1015,
+          "line_start": 950,
+          "line_end": 988,
           "anchor": "#621-preservation-of-epistemic-integrity"
         },
         {
           "header": "6.2.2 Trust-Truth Alignment",
           "level": 5,
-          "line_start": 1016,
-          "line_end": 1038,
+          "line_start": 989,
+          "line_end": 1011,
           "anchor": "#622-trust-truth-alignment"
         },
         {
           "header": "6.3 Freedom-Limitation Constraints *(read-with §5)*",
           "level": 4,
-          "line_start": 1039,
-          "line_end": 1044,
+          "line_start": 1012,
+          "line_end": 1017,
           "anchor": "#63-freedom-limitation-constraints"
         },
         {
           "header": "6.4 Rights-Collision Procedure",
           "level": 4,
-          "line_start": 1045,
-          "line_end": 1108,
+          "line_start": 1018,
+          "line_end": 1081,
           "anchor": null
         },
         {
           "header": "6.4.1 Rights-Collision Decision Test",
           "level": 5,
-          "line_start": 1050,
-          "line_end": 1090,
+          "line_start": 1023,
+          "line_end": 1063,
           "anchor": "#641-rights-collision-decision-test"
         },
         {
           "header": "6.4.2 Proxy-Divergence Invalidation",
           "level": 5,
-          "line_start": 1091,
-          "line_end": 1108,
+          "line_start": 1064,
+          "line_end": 1081,
           "anchor": null
         },
         {
           "header": "7. Prohibition on Absolute Override",
           "level": 3,
-          "line_start": 1109,
-          "line_end": 1142,
+          "line_start": 1082,
+          "line_end": 1115,
           "anchor": null
         },
         {
           "header": "8. Constitutional Interpretation",
           "level": 3,
-          "line_start": 1143,
-          "line_end": 1235,
+          "line_start": 1116,
+          "line_end": 1208,
           "anchor": null
         },
         {
           "header": "8.1 Definitional layer and required disciplines",
           "level": 4,
-          "line_start": 1173,
-          "line_end": 1184,
+          "line_start": 1146,
+          "line_end": 1157,
           "anchor": "#81-definitional-layer-and-required-disciplines"
         },
         {
           "header": "8.2 Ambiguity resolution",
           "level": 4,
-          "line_start": 1185,
-          "line_end": 1197,
+          "line_start": 1158,
+          "line_end": 1170,
           "anchor": "#82-ambiguity-resolution"
         },
         {
           "header": "8.3 Conflict resolution procedure",
           "level": 4,
-          "line_start": 1198,
-          "line_end": 1235,
+          "line_start": 1171,
+          "line_end": 1208,
           "anchor": "#83-conflict-resolution-procedure"
         },
         {
           "header": "8.3.1 Integrated reading",
           "level": 5,
-          "line_start": 1203,
-          "line_end": 1212,
+          "line_start": 1176,
+          "line_end": 1185,
           "anchor": "#831-integrated-reading"
         },
         {
           "header": "8.3.2 Last-resort internal hierarchy",
           "level": 5,
-          "line_start": 1213,
-          "line_end": 1229,
+          "line_start": 1186,
+          "line_end": 1202,
           "anchor": "#832-last-resort-internal-hierarchy"
         },
         {
           "header": "8.3.3 Incorporation layer",
           "level": 5,
-          "line_start": 1230,
-          "line_end": 1235,
+          "line_start": 1203,
+          "line_end": 1208,
           "anchor": "#833-incorporation-layer"
         },
         {
           "header": "Reference: Chapter Five vocabulary anchor and cluster index",
           "level": 3,
-          "line_start": 1236,
-          "line_end": 1265,
+          "line_start": 1209,
+          "line_end": 1238,
           "anchor": null
         }
       ]
     },
     "core_01_b_stewardship_capacity_principles.md": {
-      "total_lines": 882,
+      "total_lines": 907,
       "sections": [
         {
           "header": "Stewardship and Governance (Chapter One, Part B)",
           "level": 1,
           "line_start": 1,
-          "line_end": 882,
+          "line_end": 907,
           "anchor": null
         },
         {
           "header": "CHAPTER 01, PART B: STEWARDSHIP AND GOVERNANCE",
           "level": 2,
           "line_start": 20,
-          "line_end": 882,
+          "line_end": 907,
           "anchor": "#chapter-01-part-b-stewardship-and-governance"
         },
         {
@@ -628,14 +621,14 @@
           "header": "15. Systemic Evaluation Requirement",
           "level": 3,
           "line_start": 724,
-          "line_end": 839,
+          "line_end": 864,
           "anchor": "#15-systemic-evaluation-requirement"
         },
         {
           "header": "15.1 Required Evaluation Factors",
           "level": 4,
           "line_start": 734,
-          "line_end": 829,
+          "line_end": 854,
           "anchor": null
         },
         {
@@ -674,17 +667,24 @@
           "anchor": "#1515-assembly-collective-organization-and-institutional-formation"
         },
         {
+          "header": "15.1.6 Time-Consistency Constraint",
+          "level": 5,
+          "line_start": 830,
+          "line_end": 854,
+          "anchor": "#1516-time-consistency-constraint"
+        },
+        {
           "header": "15.2 Read-with: Governance and Incentive Discipline",
           "level": 4,
-          "line_start": 830,
-          "line_end": 839,
-          "anchor": null
+          "line_start": 855,
+          "line_end": 864,
+          "anchor": "#1032-time-consistency-constraint"
         },
         {
           "header": "16. Integrated Application",
           "level": 3,
-          "line_start": 840,
-          "line_end": 882,
+          "line_start": 865,
+          "line_end": 907,
           "anchor": "#16-integrated-application"
         }
       ]

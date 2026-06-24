@@ -94,19 +94,13 @@
     "Reversibility",
     "Oversight"
   ],
-  "#### 5.2 Time-Consistency Constraint": [
-    "Safety (Constraint)",
-    "Truth (Constitutional Constraint)",
-    "Wellbeing",
-    "Foreseeability"
-  ],
-  "#### 5.3 Voluntary Discontinuation and Exit Rights": [
+  "#### 5.2 Voluntary Discontinuation and Exit Rights": [
     "Voluntary Discontinuation",
     "Consent",
     "Coercion and Manipulation",
     "Dependency"
   ],
-  "#### 5.4 Assembly, Collective Organization, and Institutional Formation": [
+  "#### 5.3 Assembly, Collective Organization, and Institutional Formation": [
     "Assembly",
     "Collective Organization",
     "System Creation",
@@ -134,6 +128,12 @@
     "Residual Risk / Misalignment",
     "Existential Risk",
     "Incentive Alignment"
+  ],
+  "##### 15.1.6 Time-Consistency Constraint": [
+    "Safety (Constraint)",
+    "Truth (Constitutional Constraint)",
+    "Wellbeing",
+    "Foreseeability"
   ],
   "#### 12.4 Stewardship and Operator Incentive Alignment": [
     "Incentive Alignment",

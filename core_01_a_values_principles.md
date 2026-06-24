@@ -636,7 +636,7 @@ Operative detail on recovery detection, containment, safe-failure preference, no
 - Read with: [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) — **Flourishing** aim (this chapter develops **meaningful agency**); **Continuity** aim (bounded agency that preserves durable, contestable constitutional systems).
 - Read with: [Voluntary Discontinuation](core_05c_continuity_definitions.md#voluntary-discontinuation-constitutional), Chapter Five §2 *Agency, consent, and anti-coercion*, and the [Assembly, Collective Organization, and Institutional Formation cluster](core_05p_participation_definitions.md#assembly-collective-organization-institutional-formation-cluster).
 - Upstream: Principles: [§2.2 Recognition, Reinforcement, and Aspiration](#22-recognition-reinforcement-and-aspiration); [3.1 Safety](#31-safety-harm-constraint); [3.2 Truth](#32-truth-epistemic-integrity-constraint); [4. Trust](#4-system-stability-enabler-trust-coordination-integrity); and [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims).
-- Downstream: [§5.1 Limitation Discipline](#51-limitation-discipline) through [§5.4 Assembly, Collective Organization, and Institutional Formation](#54-assembly-collective-organization-and-institutional-formation); [6. Interaction and Conflict Resolution](#6-interaction-and-conflict-resolution); [7. Prohibition on Absolute Override](#7-prohibition-on-absolute-override); [16. Integrated Application](core_01_b_stewardship_capacity_principles.md#16-integrated-application); and [6.4.1 Rights-Collision Decision Test](#641-rights-collision-decision-test) where concrete applications require collision handling.
+- Downstream: [§5.1 Limitation Discipline](#51-limitation-discipline) through [§5.3 Assembly, Collective Organization, and Institutional Formation](#53-assembly-collective-organization-and-institutional-formation); [6. Interaction and Conflict Resolution](#6-interaction-and-conflict-resolution); [7. Prohibition on Absolute Override](#7-prohibition-on-absolute-override); [16. Integrated Application](core_01_b_stewardship_capacity_principles.md#16-integrated-application); and [6.4.1 Rights-Collision Decision Test](#641-rights-collision-decision-test) where concrete applications require collision handling.
 - Downstream: Frames the rights surface for equal status, education, self-ownership, publication and likeness control, agency, cooperative interaction, due process, standing, and anti-capture review.
   - Especially [Article V: Equal Basic Rights](core_10-10_rights_part_b.md#article-v-equal-basic-rights), [Article VI: Right to Sentient-Centered Education](core_10-10_rights_part_b.md#article-vi-right-to-sentient-centered-education), [Article VII: Self-Ownership](core_10-10_rights_part_b.md#article-vii-self-ownership), [Article VIII: Likeness, Experiential Data, and Publication Rights](core_10-10_rights_part_b.md#article-viii-likeness-experiential-data-and-publication-rights), [Article IX: Self-Determination and Agency](core_10-10_rights_part_b.md#article-ix-self-determination-and-agency), [Article X: Cooperative Interaction](core_10-10_rights_part_b.md#article-x-cooperative-interaction), [Article XI: Stakeholder System Participation, Representation, and Due Process](core_10-10_rights_part_b.md#article-xi-stakeholder-system-participation-representation-and-due-process), [Article XVIII: Standing and Participation Status](core_10-10_rights_part_c.md#article-xviii-standing-and-participation-status), and [Article XXII: Constitutional Interpretation, Review, and Anti-Capture Safeguards](core_10-10_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards).
   - This also covers any Chapter Ten rights context where agency is limited or claimed.
@@ -675,18 +675,10 @@ Freedom does not include authority to subvert constitutional systems, defeat con
 <a id="51-limitation-discipline"></a>
 <a id="631-constraint-on-freedom"></a>
 
-*In plain terms: freedom is bounded, not disposable. Do not restrict someone's freedom unless you have to — and then only enough to stop material harm or serious systemic risk, with oversight and reversal where possible.*
-
-Freedom may be limited only where:
-- necessary to prevent **material harm** or **systemic risk**
-- such limitation is **proportionate**, **reversible where possible**, and **subject to oversight**
-
-Constraints may be imposed only when no less-restrictive, reasonably effective alternative exists, consistent with [Necessity](core_05a_accountability_definitions.md#necessity) in **Chapter Five**. Feasibility claims that limit agency must be demonstrable under **Chapter Four** burden and tracing requirements. They must also be consistent with **Chapter Five** definitions (including Feasibility, Necessity, Proportionality, and Harm Minimization (Tradeoff Selection)). Limitations must remain subject to [Oversight](core_05o_oversight_definitions.md#oversight-constitutional) scaled to [material stake](core_00_preamble.md#material-stake).
-
-When freedom limits collide with other constitutional values or rights, apply [§6.1 Core Tradeoff Principles](#61-core-tradeoff-principles) through [§6.4 Rights-Collision Procedure](#64-rights-collision-procedure) after **Safety** and **Truth** are satisfied.
-
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
+
+*Scope.* [§5.1 Limitation Discipline](#51-limitation-discipline) — definitions for when freedom may be limited.
 
 - [Freedom (Bounded Agency)](core_05p_participation_definitions.md#freedom-bounded-agency) · [O](core_05p_participation_definitions.md#freedom-bounded-agency) · [E](core_05p_participation_definitions.md#freedom-bounded-agency-e) · [C](core_05p_participation_definitions.md#freedom-bounded-agency-c)
 - [Feasibility](core_05a_accountability_definitions.md#feasibility) · [O](core_05a_accountability_definitions.md#feasibility) · [E](core_05a_accountability_definitions.md#feasibility-e) · [C](core_05a_accountability_definitions.md#feasibility-c)
@@ -700,43 +692,24 @@ When freedom limits collide with other constitutional values or rights, apply [�
 
 </details>
 
-#### 5.2 Time-Consistency Constraint
+<br>
 
-<a id="52-time-consistency-constraint"></a>
-<a id="632-time-consistency-constraint"></a>
+*In plain terms: freedom is bounded, not disposable. Do not restrict someone's freedom unless you have to — and then only enough to stop material harm or serious systemic risk, with oversight and reversal where possible.*
 
-*In plain terms: a system cannot pass an evaluation today by ignoring the harms it will foreseeably cause later or elsewhere. Short-term wins do not excuse long-term or cross-system violations.*
+Freedom may be limited only where:
+- necessary to prevent **material harm** or **systemic risk**
+- such limitation is **proportionate**, **reversible where possible**, and **subject to oversight**
 
-Short-horizon optimization is invalid where it foreseeably produces medium- or long-horizon violations of **Safety**, **Truth**, or **wellbeing** constraints. That rule applies under cumulative, delayed, or cross-system conditions.
+Constraints may be imposed only when no less-restrictive, reasonably effective alternative exists, consistent with [Necessity](core_05a_accountability_definitions.md#necessity) in **Chapter Five**. Feasibility claims that limit agency must be demonstrable under **Chapter Four** burden and tracing requirements. They must also be consistent with **Chapter Five** definitions (including Feasibility, Necessity, Proportionality, and Harm Minimization (Tradeoff Selection)). Limitations must remain subject to [Oversight](core_05o_oversight_definitions.md#oversight-constitutional) scaled to [material stake](core_00_preamble.md#material-stake).
 
-<details>
-<summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
+When freedom limits collide with other constitutional values or rights, apply [§6.1 Core Tradeoff Principles](#61-core-tradeoff-principles) through [§6.4 Rights-Collision Procedure](#64-rights-collision-procedure) after **Safety** and **Truth** are satisfied.
 
-- [Safety (Constraint)](core_05c_continuity_definitions.md#safety-constraint) · [O](core_05c_continuity_definitions.md#safety-constraint) · [E](core_05c_continuity_definitions.md#safety-constraint-e) · [C](core_05c_continuity_definitions.md#safety-constraint-c)
-- [Truth (Constitutional Constraint)](core_05o_oversight_definitions.md#truth-constitutional-constraint) · [O](core_05o_oversight_definitions.md#truth-constitutional-constraint-o) · [E](core_05o_oversight_definitions.md#truth-constitutional-constraint-e) · [C](core_05o_oversight_definitions.md#truth-constitutional-constraint-c)
-- [Wellbeing](core_05c_continuity_definitions.md#wellbeing) · [O](core_05c_continuity_definitions.md#wellbeing) · [E](core_05c_continuity_definitions.md#wellbeing-e) · [C](core_05c_continuity_definitions.md#wellbeing-c)
-- [Foreseeability](core_05o_oversight_definitions.md#foreseeability-diligence) · [O](core_05o_oversight_definitions.md#foreseeability-diligence) · [E](core_05o_oversight_definitions.md#foreseeability-diligence-e) · [C](core_05o_oversight_definitions.md#foreseeability-diligence-c)
-
-</details>
-
-#### 5.3 Voluntary Discontinuation and Exit Rights
-
-<a id="53-voluntary-discontinuation-and-exit-rights"></a>
-
-*In plain terms: life-changing or hard-to-reverse choices are not "voluntary" just because someone signed a form. Real agency, real consent, and freedom from coercion matter — especially when dependence or pressure is in play.*
-
-A high-stakes life-direction matter may not be treated as voluntary through formal assent where substantive agency, consent, or anti-coercion conditions fail.
-
-**Admission scope.** This subsection applies to voluntary discontinuation; irreversible or practically irreversible self-directed changes; dependency-rich decisions materially affecting continued existence or essential agency; and comparable decisions where voluntariness depends on jointly testing consent, self-determination, coercion/manipulation, information, dependency pressure, and reversibility.
-
-**Definition home.** Chapter Five [Voluntary Discontinuation](core_05c_continuity_definitions.md#voluntary-discontinuation-constitutional) is an Independent Definition in §1. Read with Chapter Five §2 *Agency, consent, and anti-coercion*.
-
-**No ordinary-consent import.** Outside that admission scope, Chapter Five *Consent* (§2), *Self-Determination*, and *Coercion and Manipulation* (§2) remain reusable definitions. This subsection does **not** import voluntary-discontinuation discipline into ordinary consent, privacy, association, publication, training-data, sexual-consent, or commercial-service contexts.
-
-Whole-system evaluations must test these conditions under [§15.1.4 Voluntary Discontinuation and Exit Rights](core_01_b_stewardship_capacity_principles.md#1514-voluntary-discontinuation-and-exit-rights) before classification, governance, limitation, or compliance claims stand where admission scope applies.
+#### 5.2 Voluntary Discontinuation and Exit Rights
 
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
+
+*Definition home.* Chapter Five [Voluntary Discontinuation](core_05c_continuity_definitions.md#voluntary-discontinuation-constitutional) is an Independent Definition in §1. Read with Chapter Five §2 _Agency, consent, and anti-coercion_.
 
 - [Voluntary Discontinuation](core_05c_continuity_definitions.md#voluntary-discontinuation-constitutional) · [O](core_05c_continuity_definitions.md#voluntary-discontinuation-constitutional) · [E](core_05c_continuity_definitions.md#voluntary-discontinuation-constitutional-e) · [C](core_05c_continuity_definitions.md#voluntary-discontinuation-constitutional-c)
 - [Consent](core_05p_participation_definitions.md#consent-constitutional) · [O](core_05p_participation_definitions.md#consent-constitutional) · [E](core_05p_participation_definitions.md#consent-constitutional-e) · [C](core_05p_participation_definitions.md#consent-constitutional-c)
@@ -745,8 +718,24 @@ Whole-system evaluations must test these conditions under [§15.1.4 Voluntary Di
 
 </details>
 
-#### 5.4 Assembly, Collective Organization, and Institutional Formation
+<br>
 
+<a id="52-voluntary-discontinuation-and-exit-rights"></a>
+<a id="53-voluntary-discontinuation-and-exit-rights"></a>
+
+*In plain terms: life-changing or hard-to-reverse choices are not "voluntary" just because someone signed a form. Real agency, real consent, and freedom from coercion matter — especially when dependence or pressure is in play.*
+
+A high-stakes life-direction matter may not be treated as voluntary through formal assent where substantive agency, consent, or anti-coercion conditions fail.
+
+**Admission scope.** This subsection applies to voluntary discontinuation; irreversible or practically irreversible self-directed changes; dependency-rich decisions materially affecting continued existence or essential agency; and comparable decisions where voluntariness depends on jointly testing consent, self-determination, coercion/manipulation, information, dependency pressure, and reversibility.
+
+**No ordinary-consent import.** Outside that admission scope, Chapter Five *Consent* (§2), *Self-Determination*, and *Coercion and Manipulation* (§2) remain reusable definitions. This subsection does **not** import voluntary-discontinuation discipline into ordinary consent, privacy, association, publication, training-data, sexual-consent, or commercial-service contexts.
+
+Whole-system evaluations must test these conditions under [§15.1.4 Voluntary Discontinuation and Exit Rights](core_01_b_stewardship_capacity_principles.md#1514-voluntary-discontinuation-and-exit-rights) before classification, governance, limitation, or compliance claims stand where admission scope applies.
+
+#### 5.3 Assembly, Collective Organization, and Institutional Formation
+
+<a id="53-assembly-collective-organization-and-institutional-formation"></a>
 <a id="54-assembly-collective-organization-and-institutional-formation"></a>
 
 *In plain terms: you cannot chop assembly, union-style organizing, platform access, or permission-to-operate questions into separate boxes in a way that keeps the paperwork friendly but defeats real collective action.*
@@ -773,16 +762,18 @@ Whole-system evaluations must test anti-segmentation under [§15.1.5 Assembly, C
 
 </details>
 
-#### 5.5 Read-with: Stewardship Pathways
+#### 5.4 Read-with: Stewardship Pathways
 
+<a id="54-read-with-stewardship-pathways"></a>
 <a id="55-read-with-stewardship-pathways"></a>
 
 *In plain terms: meaningful agency is not only what you may choose in the abstract — it includes real paths into learning roles, operations, and consequential duty where safety and consent allow.*
 
 Read [§11.1 Stewardship](core_01_b_stewardship_capacity_principles.md#111-stewardship) and [§12.4 Stewardship and Operator Incentive Alignment](core_01_b_stewardship_capacity_principles.md#124-stewardship-and-operator-incentive-alignment) for role-depth, competency, and material-responsibility pathways. Symbolic participation must not substitute for consequential duty where impact requires the latter.
 
-#### 5.6 Read-with: Structural Contestability
+#### 5.5 Read-with: Structural Contestability
 
+<a id="55-read-with-structural-contestability"></a>
 <a id="56-read-with-structural-contestability"></a>
 
 *In plain terms: freedom also means you are not locked into chokepoints — contestable markets, exit paths, and anti-domination discipline keep agency real at scale.*
@@ -812,7 +803,7 @@ Read [§14 Market Structure](core_01_b_stewardship_capacity_principles.md#14-mar
 
 <br>
 
-*In plain terms: values and rights will collide — **Safety** and **Truth** come first. After that, limits must be proportionate, necessary, harm-minimizing, and as light as possible. Truth cannot be hidden for comfort; freedom limits apply under [§5.1](#51-limitation-discipline) and [§5.2](#52-time-consistency-constraint); rights conflicts need a documented decision test; and metrics that lie about compliance do not count. **§6.1–§6.4** carry the tradeoff rules, disclosure limits, and rights-collision procedure.*
+*In plain terms: values and rights will collide — **Safety** and **Truth** come first. After that, limits must be proportionate, necessary, harm-minimizing, and as light as possible. Truth cannot be hidden for comfort; freedom limits apply under [§5.1](#51-limitation-discipline); rights conflicts need a documented decision test; and metrics that lie about compliance do not count. Short-horizon optimization cannot pass evaluation under [§15.1.6 Time-Consistency Constraint](core_01_b_stewardship_capacity_principles.md#1516-time-consistency-constraint). **§6.1–§6.4** carry the tradeoff rules, disclosure limits, and rights-collision procedure.*
 
 **Safety** and **Truth** take precedence where conflicts cannot be resolved without violating them.
 
@@ -1028,7 +1019,7 @@ Trust must not be preserved through deception or suppression of truth. Where ten
 
 <a id="63-freedom-limitation-constraints"></a>
 
-Operative freedom-limitation discipline lives at **[§5.1 Limitation Discipline](#51-limitation-discipline)** and **[§5.2 Time-Consistency Constraint](#52-time-consistency-constraint)**. When freedom limits collide with other values or rights, resolve under **[§6.1 Core Tradeoff Principles](#61-core-tradeoff-principles)** through **[§6.4 Rights-Collision Procedure](#64-rights-collision-procedure)** after **Safety** and **Truth** are satisfied.
+Operative freedom-limitation discipline lives at **[§5.1 Limitation Discipline](#51-limitation-discipline)**. Time-consistency evaluation discipline lives at **[§15.1.6 Time-Consistency Constraint](core_01_b_stewardship_capacity_principles.md#1516-time-consistency-constraint)**. When freedom limits collide with other values or rights, resolve under **[§6.1 Core Tradeoff Principles](#61-core-tradeoff-principles)** through **[§6.4 Rights-Collision Procedure](#64-rights-collision-procedure)** after **Safety** and **Truth** are satisfied.
 
 #### 6.4 Rights-Collision Procedure
 

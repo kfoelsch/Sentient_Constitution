@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/crossref_matrix.schema.json",
-  "generated_at": "2026-06-24T19:50:03+00:00",
+  "generated_at": "2026-06-24T20:55:08+00:00",
   "description": "Source-derived file-to-file Markdown reference graph.",
   "graph": {
     "nodes": [
@@ -467,7 +467,7 @@
         "targets": [
           {
             "file": "core_00_preamble.md",
-            "count": 108,
+            "count": 109,
             "anchors": [
               "#constitutional-tetrad",
               "#continuity",
@@ -479,7 +479,7 @@
           },
           {
             "file": "core_01_b_stewardship_capacity_principles.md",
-            "count": 33,
+            "count": 35,
             "anchors": [
               "#11-stewardship-and-distributed-understanding",
               "#111-stewardship",
@@ -493,6 +493,7 @@
               "#151-required-evaluation-factors",
               "#1514-voluntary-discontinuation-and-exit-rights",
               "#1515-assembly-collective-organization-and-institutional-formation",
+              "#1516-time-consistency-constraint",
               "#16-integrated-application"
             ]
           },
@@ -510,7 +511,7 @@
           },
           {
             "file": "core_05a_accountability_definitions.md",
-            "count": 143,
+            "count": 152,
             "anchors": [
               "#accountability",
               "#contestability",
@@ -544,7 +545,7 @@
           },
           {
             "file": "core_05c_continuity_definitions.md",
-            "count": 152,
+            "count": 144,
             "anchors": [
               "#avoidable-burden",
               "#avoidable-burden-c",
@@ -610,7 +611,7 @@
           },
           {
             "file": "core_05o_oversight_definitions.md",
-            "count": 176,
+            "count": 169,
             "anchors": [
               "#auditability",
               "#auditability-c",
@@ -819,7 +820,7 @@
           },
           {
             "file": "core_01_a_values_principles.md",
-            "count": 57,
+            "count": 58,
             "anchors": [
               "#1-purpose-and-role",
               "#2-foundational-objective-wellbeing",
@@ -828,11 +829,12 @@
               "#32-truth-epistemic-integrity-constraint",
               "#4-system-stability-enabler-trust-coordination-integrity",
               "#5-freedom-bounded-agency",
-              "#53-voluntary-discontinuation-and-exit-rights",
-              "#54-assembly-collective-organization-and-institutional-formation",
+              "#52-voluntary-discontinuation-and-exit-rights",
+              "#53-assembly-collective-organization-and-institutional-formation",
               "#6-interaction-and-conflict-resolution",
               "#614-minimization-of-avoidable-burden",
               "#62-epistemic-disclosure-constraints",
+              "#63-freedom-limitation-constraints",
               "#641-rights-collision-decision-test",
               "#642-proxy-divergence-invalidation",
               "#7-prohibition-on-absolute-override",
@@ -908,7 +910,7 @@
           },
           {
             "file": "core_05c_continuity_definitions.md",
-            "count": 165,
+            "count": 173,
             "anchors": [
               "#avoidable-burden",
               "#avoidable-burden-c",
@@ -988,7 +990,7 @@
           },
           {
             "file": "core_05o_oversight_definitions.md",
-            "count": 113,
+            "count": 121,
             "anchors": [
               "#auditability",
               "#auditability-c",
@@ -2313,7 +2315,7 @@
           },
           {
             "file": "core_01_a_values_principles.md",
-            "count": 36,
+            "count": 35,
             "anchors": [
               "#2-foundational-objective-wellbeing",
               "#31-safety-harm-constraint",
@@ -2323,7 +2325,6 @@
               "#5-freedom-bounded-agency",
               "#51-limitation-discipline",
               "#514-voluntary-discontinuation-and-exit-rights",
-              "#52-time-consistency-constraint",
               "#6-interaction-and-conflict-resolution",
               "#61-core-tradeoff-principles",
               "#611-proportionality",
@@ -2334,7 +2335,7 @@
           },
           {
             "file": "core_01_b_stewardship_capacity_principles.md",
-            "count": 54,
+            "count": 55,
             "anchors": [
               "#11-stewardship-and-distributed-understanding",
               "#112-distributed-understanding",
@@ -2350,6 +2351,7 @@
               "#141-concentration-threshold-mechanism-adopter-tunable",
               "#143-consolidation-ceiling",
               "#151-required-evaluation-factors",
+              "#1516-time-consistency-constraint",
               "#chapter-01-part-b-stewardship-and-governance"
             ]
           },

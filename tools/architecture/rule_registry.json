@@ -32,14 +32,14 @@
     {
       "id": "NAV-DEC-12",
       "legacy_ref": "doc_architecture rule 12",
-      "summary": "D/E/C widget scope, trigger, roadmap exclusion, row shape, spacer discipline.",
+      "summary": "D/E/C widget scope, trigger, roadmap exclusion, row shape, annotation prose, spacer discipline.",
       "make_target": "ch5-dec-widget-audit",
       "status": "blocking"
     },
     {
       "id": "NAV-DEC-12-ORDER",
       "legacy_ref": "doc_architecture rule 12 trace-to-dec placement",
-      "summary": "D/E/C widget or inline Definition immediately follows Trace when Chapter Five read-with links are present.",
+      "summary": "With Trace: D/E/C or inline Definition immediately after Trace. Without Trace: D/E/C is first block under heading.",
       "make_target": "trace-dec-widget-order-audit",
       "status": "blocking"
     },

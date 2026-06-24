@@ -723,7 +723,7 @@ Adopter-tunable ceilings may vary by domain and jurisdiction, but they may not b
 <a id="15-systemic-evaluation-requirement"></a>
 ### 15. Systemic Evaluation Requirement
 
-*In plain terms: before anyone classifies a system, claims compliance, or locks in a governance decision, they must look at the whole picture — not only what happens here and now. That means tracing dependencies and delayed harm, checking whether every kind of sentient can really participate, making sure privacy, voluntary choice ([§5.3](core_01_a_values_principles.md#53-voluntary-discontinuation-and-exit-rights)), assembly, and collective-organization ([§5.4](core_01_a_values_principles.md#54-assembly-collective-organization-and-institutional-formation)) questions are not split up to dodge review, and confirming that rewards and control structures will not quietly undermine the outcome the evaluation claims to protect. **§6 Interaction** tells decision-makers **how** to resolve conflicts among values, rights, and constraints. **§15 Systemic Evaluation** tells them **what** an evaluation must include before a classification, governance decision, limitation, or compliance claim can stand.
+*In plain terms: before anyone classifies a system, claims compliance, or locks in a governance decision, they must look at the whole picture — not only what happens here and now. That means tracing dependencies and delayed harm, rejecting short-horizon optimization that foreseeably violates **Safety**, **Truth**, or **wellbeing** later or elsewhere ([§15.1.6](#1516-time-consistency-constraint)), checking whether every kind of sentient can really participate, making sure privacy, voluntary choice ([§5.2](core_01_a_values_principles.md#52-voluntary-discontinuation-and-exit-rights)), assembly, and collective-organization ([§5.3](core_01_a_values_principles.md#53-assembly-collective-organization-and-institutional-formation)) questions are not split up to dodge review, and confirming that rewards and control structures will not quietly undermine the outcome the evaluation claims to protect. **§6 Interaction** tells decision-makers **how** to resolve conflicts among values, rights, and constraints. **§15 Systemic Evaluation** tells them **what** an evaluation must include before a classification, governance decision, limitation, or compliance claim can stand.
 
 **How to read this section:**
 - **[§15.1 Required Evaluation Factors](#151-required-evaluation-factors)** — the minimum scope of a valid evaluation: system boundaries, materiality, dependency, risk, access, privacy, agency, and collective-organization effects.
@@ -737,7 +737,7 @@ Read together, **§§11–15** move from capacity and stewardship, to tradeoff p
 
 - Read with: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — evaluation must assess whether required **participation**, **oversight**, **accountability**, and **timeliness** will scale with [material stake](core_00_preamble.md#material-stake) (especially [§15.1.2 Accessibility Under Sentience Non-Exclusion](#1512-accessibility-under-sentience-non-exclusion)).
 - Read with: [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) — **Continuity** aim (systemic scope, dependency, resilience, and ecological effects).
-- Upstream: Principles: [Chapter 00 §1 The Model](core_00_preamble.md#the-model); [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) — **Continuity** aim development; [2. Foundational Objective: Wellbeing](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [§5.3 Voluntary Discontinuation and Exit Rights](core_01_a_values_principles.md#53-voluntary-discontinuation-and-exit-rights), [§5.4 Assembly, Collective Organization, and Institutional Formation](core_01_a_values_principles.md#54-assembly-collective-organization-and-institutional-formation), [§11 Stewardship and Distributed Understanding](core_01_b_stewardship_capacity_principles.md#11-stewardship-and-distributed-understanding), and [6. Interaction and Conflict Resolution](core_01_a_values_principles.md#6-interaction-and-conflict-resolution).
+- Upstream: Principles: [Chapter 00 §1 The Model](core_00_preamble.md#the-model); [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) — **Continuity** aim development; [2. Foundational Objective: Wellbeing](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [§5.2 Voluntary Discontinuation and Exit Rights](core_01_a_values_principles.md#52-voluntary-discontinuation-and-exit-rights), [§5.3 Assembly, Collective Organization, and Institutional Formation](core_01_a_values_principles.md#53-assembly-collective-organization-and-institutional-formation), [§11 Stewardship and Distributed Understanding](core_01_b_stewardship_capacity_principles.md#11-stewardship-and-distributed-understanding), and [6. Interaction and Conflict Resolution](core_01_a_values_principles.md#6-interaction-and-conflict-resolution).
 - Downstream: [12. Governance Under Stewardship Discipline](#12-governance-under-stewardship-discipline), [5. Freedom](core_01_a_values_principles.md#5-freedom-bounded-agency), [7. Prohibition on Absolute Override](core_01_a_values_principles.md#7-prohibition-on-absolute-override), and [16. Integrated Application](#16-integrated-application).
 - Downstream: Supports the rights surface for environmental and resource conditions, system reliability, transparency, lifecycle resilience, portability, comprehensibility, adaptive response, and transition governance; especially [Article I: Environmental Survival](core_10-10_rights_part_a.md#article-i-environmental-survival), [Article II: Material Stewardship and Durable-Use Integrity](core_10-10_rights_part_a.md#article-ii-material-stewardship-and-durable-use-integrity), [Article III: Survival and Equal Educational Access](core_10-10_rights_part_a.md#article-iii-survival-and-equal-educational-access), [Article IV: Resource Allocation, Dependencies, and Ecosystem Funding](core_10-10_rights_part_a.md#article-iv-resource-allocation-dependencies-and-ecosystem-funding), [Article XII: Right to Reliable and Trustworthy Systems](core_10-10_rights_part_c.md#article-xii-right-to-reliable-and-trustworthy-systems), [Article XIV: Info-Sphere Integrity](core_10-10_rights_part_c.md#article-xiv-info-sphere-integrity), [Article XV: Audit, Transparency, and Independent Verification](core_10-10_rights_part_c.md#article-xv-audit-transparency-and-independent-verification), [Article XVI: System Lifecycle, Environments, and Reversibility](core_10-10_rights_part_c.md#article-xvi-system-lifecycle-environments-and-reversibility), [Article XVII: Sandboxed Innovation, Experimentation, and Creative Freedom](core_10-10_rights_part_c.md#article-xvii-sandboxed-innovation-experimentation-and-creative-freedom), [Article XIX: Interoperability, Portability, and Exit Integrity](core_10-10_rights_part_c.md#article-xix-interoperability-portability-and-exit-integrity), [Article XX: Comprehensibility and Complexity Stewardship](core_10-10_rights_part_c.md#article-xx-comprehensibility-and-complexity-stewardship), [Article XXI: Root Cause Analysis and Adaptive Response](core_10-10_rights_part_c.md#article-xxi-root-cause-analysis-and-adaptive-response), [Article XXIV: Constitutional Evolution and Non-Entrenchment](core_10-10_rights_part_d.md#article-xxiv-constitutional-evolution-and-non-entrenchment), and [Article XXV: Transition Governance, Continuity, and Re-Baselining](core_10-10_rights_part_d.md#article-xxv-transition-governance-continuity-and-re-baselining) where lifecycle, dependency, resilience, or lock-in effects matter.
 
@@ -762,11 +762,11 @@ Read together, **§§11–15** move from capacity and stewardship, to tradeoff p
 
 <br>
 
-*In plain terms: a valid evaluation must look beyond what is immediate and local — through the five factor groups below — and confirm that participation, oversight, accountability, and timeliness will scale with how much is at stake.*
+*In plain terms: a valid evaluation must look beyond what is immediate and local — through the six factor groups below — and confirm that participation, oversight, accountability, and timeliness will scale with how much is at stake.*
 
 No evaluation is complete if it considers only immediate or local effects. Evaluations that omit the factors below are invalid for system classification, governance, or decision-making under this Constitution. All binding applications of these principles must consider the following factors. Evaluations must also confirm that the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) will meet [material stake](core_00_preamble.md#material-stake) scaling for the system under review.
 
-**How to read the factors:** [§15.1.1](#1511-systemic-scope-and-risk-factors) covers systemic scope and risk. [§15.1.2](#1512-accessibility-under-sentience-non-exclusion) checks whether participation is real across sentient forms and ability profiles. [§§15.1.3–15.1.5](#1513-privacy-informational-joint-invocation) prevent evaluation from being split into separate boxes in ways that evade privacy, voluntary agency ([§5.3](core_01_a_values_principles.md#53-voluntary-discontinuation-and-exit-rights)), assembly, or collective-organization ([§5.4](core_01_a_values_principles.md#54-assembly-collective-organization-and-institutional-formation)) protections.
+**How to read the factors:** [§15.1.1](#1511-systemic-scope-and-risk-factors) covers systemic scope and risk. [§15.1.6](#1516-time-consistency-constraint) forbids short-horizon optimization from passing evaluation. [§15.1.2](#1512-accessibility-under-sentience-non-exclusion) checks whether participation is real across sentient forms and ability profiles. [§§15.1.3–15.1.5](#1513-privacy-informational-joint-invocation) prevent evaluation from being split into separate boxes in ways that evade privacy, voluntary agency ([§5.2](core_01_a_values_principles.md#52-voluntary-discontinuation-and-exit-rights)), assembly, or collective-organization ([§5.3](core_01_a_values_principles.md#53-assembly-collective-organization-and-institutional-formation)) protections.
 
 ##### 15.1.1 Systemic Scope and Risk Factors
 
@@ -809,23 +809,48 @@ A single privacy matter may materially implicate more than one of the distribute
 
 <a id="1514-voluntary-discontinuation-and-exit-rights"></a>
 
-*In plain terms: evaluations must test whether high-stakes choices satisfy [§5.3 Voluntary Discontinuation and Exit Rights](core_01_a_values_principles.md#53-voluntary-discontinuation-and-exit-rights) — not only whether forms were signed.*
+*In plain terms: evaluations must test whether high-stakes choices satisfy [§5.2 Voluntary Discontinuation and Exit Rights](core_01_a_values_principles.md#52-voluntary-discontinuation-and-exit-rights) — not only whether forms were signed.*
 
-Evaluations of classification, governance, limitation, or compliance claims must reach **[§5.3 Voluntary Discontinuation and Exit Rights](core_01_a_values_principles.md#53-voluntary-discontinuation-and-exit-rights)** where its admission scope applies. This factor does **not** restate §5.3; it requires whole-system review to test voluntariness, consent, anti-coercion, dependency pressure, information, and reversibility before such claims stand.
+Evaluations of classification, governance, limitation, or compliance claims must reach **[§5.2 Voluntary Discontinuation and Exit Rights](core_01_a_values_principles.md#52-voluntary-discontinuation-and-exit-rights)** where its admission scope applies. This factor does **not** restate §5.2; it requires whole-system review to test voluntariness, consent, anti-coercion, dependency pressure, information, and reversibility before such claims stand.
 
-- *Evaluation duty.* Where admission scope applies, the evaluation is incomplete if it treats formal assent as sufficient without jointly testing the conditions §5.3 names.
+- *Evaluation duty.* Where admission scope applies, the evaluation is incomplete if it treats formal assent as sufficient without jointly testing the conditions §5.2 names.
 - *Scope of this factor.* This factor states evaluation-integration discipline only. It does **not** create, extend, or narrow any Chapter Ten Rights-Floor.
 
 ##### 15.1.5 Assembly, Collective Organization, and Institutional Formation
 
 <a id="1515-assembly-collective-organization-and-institutional-formation"></a>
 
-*In plain terms: evaluations must test whether assembly and collective-organization questions satisfy [§5.4](core_01_a_values_principles.md#54-assembly-collective-organization-and-institutional-formation) — not only whether each paperwork box was checked separately.*
+*In plain terms: evaluations must test whether assembly and collective-organization questions satisfy [§5.3](core_01_a_values_principles.md#53-assembly-collective-organization-and-institutional-formation) — not only whether each paperwork box was checked separately.*
 
-Evaluations must reach **[§5.4 Assembly, Collective Organization, and Institutional Formation](core_01_a_values_principles.md#54-assembly-collective-organization-and-institutional-formation)** where cluster admission scope applies. This factor does **not** restate §5.4; it requires whole-system review for anti-segmentation before classification, governance, or compliance claims stand.
+Evaluations must reach **[§5.3 Assembly, Collective Organization, and Institutional Formation](core_01_a_values_principles.md#53-assembly-collective-organization-and-institutional-formation)** where cluster admission scope applies. This factor does **not** restate §5.3; it requires whole-system review for anti-segmentation before classification, governance, or compliance claims stand.
 
 - *Evaluation duty.* Where admission scope applies, the evaluation is incomplete if it routes the matter through one framing alone in a way that defeats assembly or collective-organization protection.
 - *Scope of this factor.* This factor states evaluation-integration discipline only. It does **not** create, extend, or narrow any Chapter Ten Rights-Floor.
+
+##### 15.1.6 Time-Consistency Constraint
+
+<a id="1516-time-consistency-constraint"></a>
+<a id="52-time-consistency-constraint"></a>
+<a id="532-time-consistency-constraint"></a>
+<a id="632-time-consistency-constraint"></a>
+<a id="1032-time-consistency-constraint"></a>
+
+*In plain terms: a system cannot pass an evaluation today by ignoring the harms it will foreseeably cause later or elsewhere. Short-term wins do not excuse long-term or cross-system violations.*
+
+Short-horizon optimization is invalid where it foreseeably produces medium- or long-horizon violations of **Safety**, **Truth**, or **wellbeing** constraints. That rule applies under cumulative, delayed, or cross-system conditions.
+
+- *Evaluation duty.* An evaluation is incomplete if it treats near-term metrics, local compliance, or short-horizon efficiency as sufficient while foreseeable medium- or long-horizon violations remain unaddressed.
+- *Read with.* [§15.1.1 Systemic Scope and Risk Factors](#1511-systemic-scope-and-risk-factors) (delayed, cumulative, and probabilistic impacts); [§12.2 Short-Horizon Governance Defects](#122-short-horizon-governance-defects) (operational correction); [§6.3 Freedom-Limitation Constraints](core_01_a_values_principles.md#63-freedom-limitation-constraints) (cross-read stub).
+
+<details>
+<summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
+
+- [Safety (Constraint)](core_05c_continuity_definitions.md#safety-constraint) · [O](core_05c_continuity_definitions.md#safety-constraint) · [E](core_05c_continuity_definitions.md#safety-constraint-e) · [C](core_05c_continuity_definitions.md#safety-constraint-c)
+- [Truth (Constitutional Constraint)](core_05o_oversight_definitions.md#truth-constitutional-constraint) · [O](core_05o_oversight_definitions.md#truth-constitutional-constraint-o) · [E](core_05o_oversight_definitions.md#truth-constitutional-constraint-e) · [C](core_05o_oversight_definitions.md#truth-constitutional-constraint-c)
+- [Wellbeing](core_05c_continuity_definitions.md#wellbeing) · [O](core_05c_continuity_definitions.md#wellbeing) · [E](core_05c_continuity_definitions.md#wellbeing-e) · [C](core_05c_continuity_definitions.md#wellbeing-c)
+- [Foreseeability](core_05o_oversight_definitions.md#foreseeability-diligence) · [O](core_05o_oversight_definitions.md#foreseeability-diligence) · [E](core_05o_oversight_definitions.md#foreseeability-diligence-e) · [C](core_05o_oversight_definitions.md#foreseeability-diligence-c)
+
+</details>
 
 #### 15.2 Read-with: Governance and Incentive Discipline
 

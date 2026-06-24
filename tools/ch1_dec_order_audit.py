@@ -24,6 +24,8 @@ DEC_SUMMARY = (
     "Definitions · Evaluation · Compliance</span></strong></summary>"
 )
 ROW_RE = re.compile(r"^\s*-\s+\[(?P<name>[^\]]+)\]\(")
+ANNOTATION_ROW_RE = re.compile(r"^\s*-\s+\*[^*]+\*")
+PROSE_ANNOTATION_RE = re.compile(r"^\*[^*]+\*")
 
 
 def extract_widget_rows(lines: list[str], heading: str) -> tuple[int, list[str]]:
@@ -53,6 +55,10 @@ def extract_widget_rows(lines: list[str], heading: str) -> tuple[int, list[str]]
         m = ROW_RE.match(lines[i])
         if m:
             rows.append(m.group("name"))
+            continue
+        if ANNOTATION_ROW_RE.match(lines[i]):
+            continue
+        if PROSE_ANNOTATION_RE.match(stripped):
             continue
         raise ValueError(
             f"unexpected non-row content in D/E/C widget for {heading} "
