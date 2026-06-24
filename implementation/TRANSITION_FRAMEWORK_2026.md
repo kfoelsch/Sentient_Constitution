@@ -151,7 +151,7 @@ Where external requirements appear irreconcilable with rights floors, document c
 
 Per **Protocol T** and [corpus_joint_structure.md](../corpus_joint_structure.md) **CJS-5.17** (*interoperability, portability, and exit-integrity terms*) / **CJS-5.12** (*Cross-domain implementation layer*), interaction with non-aligned or legacy external systems is **transitional**; reduce reliance when viable alternatives exist. Document material dependency, transition, and disclosure obligations per **Protocol T** §§1–2 and §5 (*Gate criteria*; *Transition audit, disclosure, and challenge*).
 
-For technical and organizational **exit, migration, and interoperability**, align with [core_10-10_rights_part_c.md](../core_10-10_rights_part_c.md) **Article XIX** (*Interoperability, Portability, and Exit Integrity*); where **movement**, **refuge**, or **non-statelessness** is materially implicated, read jointly with **Article XVIII-D** (*Movement, Migration, and Refuge*) and [Chapter Five §3.24 *Movement, Refuge, Non-Statelessness, and Exit Integrity*](../core_05i_integrative_definitions.md#movement-refuge-non-statelessness-and-exit-integrity-cluster). Coordinate with **CJS-5.17** (*interoperability, portability, and exit-integrity terms*) / **CJS-5.12** (*burden-of-justification and constraint terms*) in [corpus_joint_structure.md](../corpus_joint_structure.md) so transition does not create **systemic lock-in** under [Chapter Five *Systemic Lock-In*](../core_05c_continuity_definitions.md#systemic-lock-in).
+For technical and organizational **exit, migration, and interoperability**, align with [core_10-10_rights_part_c.md](../core_10-10_rights_part_c.md) **Article XIX** (*Interoperability, Portability, and Exit Integrity*); where **movement**, **refuge**, or **non-statelessness** is materially implicated, read jointly with **Article XVIII-D** (*Movement, Migration, and Refuge*) and [Chapter Five Chapter One §8.24 *Movement, Refuge, Non-Statelessness, and Exit Integrity*](../core_05i_integrative_definitions.md#movement-refuge-non-statelessness-and-exit-integrity-cluster). Coordinate with **CJS-5.17** (*interoperability, portability, and exit-integrity terms*) / **CJS-5.12** (*burden-of-justification and constraint terms*) in [corpus_joint_structure.md](../corpus_joint_structure.md) so transition does not create **systemic lock-in** under [Chapter Five *Systemic Lock-In*](../core_05c_continuity_definitions.md#systemic-lock-in).
 
 ---
 
@@ -171,7 +171,7 @@ Material transition decisions, delays, reversals, and gate outcomes must be **lo
 
 | ID | Pack | Purpose |
 |----|------|---------|
-| **RS-T7-001** | Continuity | Gate blocking, rights-floor continuity, off-ramp/re-baselining — hooks: Article XXV; **Protocol T** §§1–5 |
+| **RS-T7-001** | Continuity | Gate blocking, rights-floor continuity, off-ramp/re-baselining — hooks: Article XXV; **Protocol T** §§1–10 |
 
 Source narrative and pass/fail conditions: [CONSTITUTIONAL_REGRESSION_SCENARIOS.md](../CONSTITUTIONAL_REGRESSION_SCENARIOS.md) — scenario **RS-T7-001**.
 

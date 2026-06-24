@@ -41,7 +41,7 @@ This family operationalizes the **Accountability** leg of the [Constitutional Te
 - Read with: `corpus_systems.md` **CS-5 — Critical system stewardship**
 - Constitutional frame: **Accountability** leg; **Flourishing** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality Determination](../core_05o_oversight_definitions.md#materiality-determination).
 - Finding profile (default): `A·F·SSP` — [Non-Compliance Finding Profile](../core_05a_accountability_definitions.md#non-compliance-finding-profile); use **CCL** layer and **structural** or **stewardship** **failure character** when undocumented authority, capture, or concentration is material; add **severity tier** **T1**–**T4** per finding ([Chapter Three, section 2.8](../core_02-04_definition_mechanics.md#28-non-compliance-finding-profiles)).
-- Chapter One basis: §2.1, §4, §5.2, §7.2, §10 (see [CJS-5.1](#cjs-51-constitutional-compass-and-cluster-map) map).
+- Chapter One basis: Chapter One §7.1, §3, §4.2, §12.2, §6 (see [cluster map](#cjs-51-constitutional-compass-and-cluster-map)).
 </details>
 
 <details>
@@ -55,7 +55,7 @@ This family operationalizes the **Accountability** leg of the [Constitutional Te
 - [Governance](../core_05a_accountability_definitions.md#governance) · [O](../core_05a_accountability_definitions.md#governance) · [E](../core_05a_accountability_definitions.md#governance-e) · [C](../core_05a_accountability_definitions.md#governance-c)
 - [Oversight](../core_05o_oversight_definitions.md#oversight-constitutional) · [O](../core_05o_oversight_definitions.md#oversight-constitutional) · [E](../core_05o_oversight_definitions.md#oversight-constitutional-e) · [C](../core_05o_oversight_definitions.md#oversight-constitutional-c)
 - [Material](../core_05o_oversight_definitions.md#material) · [O](../core_05o_oversight_definitions.md#material) · [E](../core_05o_oversight_definitions.md#material-e) · [C](../core_05o_oversight_definitions.md#material-c)
-- Chapter One basis: §2.1, §4, §5.2, §7.2, §10 (see [CJS-5.1](#cjs-51-constitutional-compass-and-cluster-map) map).
+- Chapter One basis: Chapter One §7.1, §3, §4.2, §12.2, §6 (see [cluster map](#cjs-51-constitutional-compass-and-cluster-map)).
 </details>
 
 <br>
@@ -141,12 +141,12 @@ Stewardship-role depth and non-symbolic governance boundary
 - Read with: **CJS-5.17 — Interoperability, Portability, and Exit Integrity**
 - Read with: **CJS-5.3 — Auditability**
 - Read with: **CJS-5.15** (*Accountability: structural review, correction urgency, and disclosure terms*) and **CJS-5.6** (*Oversight: integrity assurance and resilience operations*) — Evolution, Revalidation, and Non-Entrenchment
-- Read with: **Chapter One §9.2.1 — Rights-Collision Decision Test**
+- Read with: **Chapter One §6.4.1 — Rights-Collision Decision Test**
 - Read with: **`corpus_forum.md` CF-12 through CF-14 — Forum continuity, fallback operation, and emergency adjudication**
 - Read with: Core definitions for necessity, proportionality, materiality, burden, and anti-enclosure.
 - Constitutional frame: **Accountability** leg; **Flourishing** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality Determination](../core_05o_oversight_definitions.md#materiality-determination).
 - Finding profile (default): `A·F·SSP` — [Non-Compliance Finding Profile](../core_05a_accountability_definitions.md#non-compliance-finding-profile); use **substantive** or **evasive** **failure character** when restrictions persist without revalidation; add **severity tier** **T1**–**T4** per finding ([Chapter Three, section 2.8](../core_02-04_definition_mechanics.md#28-non-compliance-finding-profiles)).
-- Chapter One basis: §6.1, §6.3, §6.4, §7.1, §8, §9 (see [CJS-5.1](#cjs-51-constitutional-compass-and-cluster-map) map).
+- Chapter One basis: §11.1, §11.3, §11.4, §12.1, §13, §14 (see [cluster map](#cjs-51-constitutional-compass-and-cluster-map)).
 </details>
 
 <details>
@@ -213,9 +213,9 @@ Restriction-burden assignment floor
 - OP-C: Hidden, reversed, or displaced burden is non-compliant.
 
 Rights-collision and alternative-selection record
-- OP-O: When restrictions are justified by conflict among rights or duties, the record must apply Chapter One §9.2.1 and identify the conflict, affected populations, alternatives, trade-offs, least-restrictive effective selection, review triggers, and any required forum-review path.
+- OP-O: When restrictions are justified by conflict among rights or duties, the record must apply Chapter One §6.4.1 and identify the conflict, affected populations, alternatives, trade-offs, least-restrictive effective selection, review triggers, and any required forum-review path.
 - OP-E: Evaluation must verify enough detail to test principle-based decision-making, least-restrictive selection, and the availability of ordinary or emergency forum review.
-- OP-C: A restriction justified by rights conflict is non-compliant if it lacks the Chapter One §9.2.1 record, omits required forum review, or treats emergency circumstances as a reason to bypass review rather than sequence it.
+- OP-C: A restriction justified by rights conflict is non-compliant if it lacks the Chapter One §6.4.1 record, omits required forum review, or treats emergency circumstances as a reason to bypass review rather than sequence it.
 
 Substantive showing and least-restrictive proof
 - OP-O: Justification must show material harm or protective need, proportionality, and no adequate less restrictive alternative.
@@ -261,7 +261,7 @@ Temporal discipline and revalidation
 - Read with: `corpus_forum.md`
 - Constitutional frame: **Accountability** leg; **Flourishing** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality Determination](../core_05o_oversight_definitions.md#materiality-determination).
 - Finding profile (default): `A·F·SSP` — [Non-Compliance Finding Profile](../core_05a_accountability_definitions.md#non-compliance-finding-profile); use **formal** **failure character** for pathway or record defects and **substantive** where merits or binding effect is materially affected; add **severity tier** **T1**–**T4** per finding ([Chapter Three, section 2.8](../core_02-04_definition_mechanics.md#28-non-compliance-finding-profiles)).
-- Chapter One basis: §2.1, §3.4, §6.4, §7.1, §8, §10 (see [CJS-5.1](#cjs-51-constitutional-compass-and-cluster-map) map).
+- Chapter One basis: Chapter One §7.1, §2.4, §11.4, §12.1, §13, §6 (see [cluster map](#cjs-51-constitutional-compass-and-cluster-map)).
 </details>
 
 <details>
@@ -380,7 +380,7 @@ Uncertainty safeguards and anti-abuse floor
 - Constitutional frame: **Accountability** leg; **Continuity** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality Determination](../core_05o_oversight_definitions.md#materiality-determination).
 - Cross-leg note: pairs with **CJS-5.23** for governance authorization versus technical intervention integrity.
 - Continuity disambiguation: Distinguish constitutional **Continuity** aim from emergency or operational continuity modes.
-- Chapter One basis: §3.1, §6.1, §6.4, §7.1, §9 (see [CJS-5.1](#cjs-51-constitutional-compass-and-cluster-map) map).
+- Chapter One basis: §2.1, §11.1, §11.4, §12.1, §14 (see [cluster map](#cjs-51-constitutional-compass-and-cluster-map)).
 </details>
 
 <details>
@@ -462,7 +462,7 @@ Records, transparency, and challenge pathway duties
 - Constitutional frame: **Accountability** leg; **Continuity** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality Determination](../core_05o_oversight_definitions.md#materiality-determination).
 - Cross-leg note: pairs with **CJS-5.6** for evolution, revalidation, and non-entrenchment.
 - Continuity disambiguation: Distinguish constitutional **Continuity** aim from operational continuity reporting.
-- Chapter One basis: §3.1, §3.2, §4.1, §5.2, §7.1, §7.2 (see [CJS-5.1](#cjs-51-constitutional-compass-and-cluster-map) map).
+- Chapter One basis: §2.1, §2.2, §3.1, §4.2, §12.1, §12.2 (see [cluster map](#cjs-51-constitutional-compass-and-cluster-map)).
 </details>
 
 <details>

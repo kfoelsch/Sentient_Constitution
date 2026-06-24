@@ -34,7 +34,7 @@ This family operationalizes the **Participation** leg of the [Constitutional Tet
 - Read with: **Chapter Ten Article IX-C**
 - Read with: **Chapter Ten Article XI**
 - Constitutional frame: **Participation** leg; **Flourishing** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality Determination](../core_05o_oversight_definitions.md#materiality-determination).
-- Chapter One basis: §2.1, §4, §5.2, §6.4, §8, §10 (see [CJS-5.1](#cjs-51-constitutional-compass-and-cluster-map) map).
+- Chapter One basis: Chapter One §7.1, §3, §4.2, §11.4, §13, §6 (see [cluster map](#cjs-51-constitutional-compass-and-cluster-map)).
 </details>
 
 <details>
@@ -47,7 +47,7 @@ This family operationalizes the **Participation** leg of the [Constitutional Tet
 - [Contestability](../core_05a_accountability_definitions.md#contestability) · [O](../core_05a_accountability_definitions.md#contestability) · [E](../core_05a_accountability_definitions.md#contestability-e) · [C](../core_05a_accountability_definitions.md#contestability-c)
 - [Reversibility](../core_05c_continuity_definitions.md#reversibility-constitutional) · [O](../core_05c_continuity_definitions.md#reversibility-constitutional) · [E](../core_05c_continuity_definitions.md#reversibility-constitutional-e) · [C](../core_05c_continuity_definitions.md#reversibility-constitutional-c)
 - [Auditability](../core_05o_oversight_definitions.md#auditability) · [O](../core_05o_oversight_definitions.md#auditability) · [E](../core_05o_oversight_definitions.md#auditability-e) · [C](../core_05o_oversight_definitions.md#auditability-c)
-- Chapter One basis: §2.1, §4, §5.2, §6.4, §8, §10 (see [CJS-5.1](#cjs-51-constitutional-compass-and-cluster-map) map).
+- Chapter One basis: Chapter One §7.1, §3, §4.2, §11.4, §13, §6 (see [cluster map](#cjs-51-constitutional-compass-and-cluster-map)).
 </details>
 
 <br>
@@ -134,7 +134,7 @@ Weighted participation
 - Read with: **CJS-5.8 — Comprehensibility and Cognitive Accessibility**
 - Read with: `corpus_systems.md` **Protocol B — System Comprehensibility and Complexity Stewardship**
 - Constitutional frame: **Participation** leg; **Flourishing** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality Determination](../core_05o_oversight_definitions.md#materiality-determination).
-- Chapter One basis: §3.4, §5.2, §7.1, §8 (see [CJS-5.1](#cjs-51-constitutional-compass-and-cluster-map) map).
+- Chapter One basis: §2.4, §4.2, §12.1, §13 (see [cluster map](#cjs-51-constitutional-compass-and-cluster-map)).
 </details>
 
 <details>
@@ -228,7 +228,7 @@ Summary integrity
 - Read with: **Article XV-A**
 - Read with: **Chapter Ten** incentive-alignment constraints
 - Constitutional frame: **Participation** leg; **Flourishing** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality Determination](../core_05o_oversight_definitions.md#materiality-determination).
-- Chapter One basis: §2, §3.2, §4, §7.1, §8 (see [CJS-5.1](#cjs-51-constitutional-compass-and-cluster-map) map).
+- Chapter One basis: §8, §2.2, §3, §12.1, §13 (see [cluster map](#cjs-51-constitutional-compass-and-cluster-map)).
 </details>
 
 <details>
@@ -313,7 +313,7 @@ User agency and control
 - Read with: **Article XV-A**
 - Read with: **Article VII-B**
 - Constitutional frame: **Participation** leg; **Flourishing** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality Determination](../core_05o_oversight_definitions.md#materiality-determination).
-- Chapter One basis: §3.2, §6.2, §7.1, §8 (see [CJS-5.1](#cjs-51-constitutional-compass-and-cluster-map) map).
+- Chapter One basis: §2.2, §11.2, §12.1, §13 (see [cluster map](#cjs-51-constitutional-compass-and-cluster-map)).
 </details>
 
 <details>

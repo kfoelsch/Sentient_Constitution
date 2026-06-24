@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Swap Ch6 §2.2 (operational) and §2.3 (no-offset); renumber subsections and anchors."""
+"""Swap Ch6 Chapter One §8.2 (operational) and Chapter One §8.3 (no-offset); renumber subsections and anchors."""
 
 from pathlib import Path
 
@@ -66,10 +66,10 @@ def main() -> None:
         "#### 2.2 Linked records and no-offset bridge",
     )
     no_offset = no_offset.replace(
-        "- Upstream: [§2.2.1](#211-related-record-cross-references) (*related-record cross-references*); [§2.2.2](#212-minimum-record-contents) (*verified-input gate*); [§2.2.7](#227-forum-boundary) (*forum boundary*).\n"
-        "- Downstream: [§2.3.1](#231-related-record-cross-references) (*related-record cross-references*); [§2.3.2](#232-minimum-record-contents) (*verified-input gate*); [§2.3.7](#237-forum-boundary) (*forum boundary*); [§3.1](#31-slot-grammar-and-display-labels)",
-        "- Upstream: [§2.1](#21-standing-records-as-the-unit-of-application) (*axis-pure standing records and linked-record possibility*).\n"
-        "- Downstream: [§2.3.1](#231-related-record-cross-references) (*related-record cross-references*); [§2.3.2](#232-minimum-record-contents) (*verified-input gate*); [§2.3.7](#237-forum-boundary) (*forum boundary*); [§3.1](#31-slot-grammar-and-display-labels)",
+        "- Upstream: [Chapter One §8.2.1](#211-related-record-cross-references) (*related-record cross-references*); [Chapter One §8.2.2](#212-minimum-record-contents) (*verified-input gate*); [Chapter One §8.2.7](#227-forum-boundary) (*forum boundary*).\n"
+        "- Downstream: [§14.3.1](#231-related-record-cross-references) (*related-record cross-references*); [§14.3.2](#232-minimum-record-contents) (*verified-input gate*); [Chapter One §8.3.7](#237-forum-boundary) (*forum boundary*); [Chapter One §8.1](#31-slot-grammar-and-display-labels)",
+        "- Upstream: [Chapter One §8.1](#21-standing-records-as-the-unit-of-application) (*axis-pure standing records and linked-record possibility*).\n"
+        "- Downstream: [§14.3.1](#231-related-record-cross-references) (*related-record cross-references*); [§14.3.2](#232-minimum-record-contents) (*verified-input gate*); [Chapter One §8.3.7](#237-forum-boundary) (*forum boundary*); [Chapter One §8.1](#31-slot-grammar-and-display-labels)",
     )
 
     new_block = intro + no_offset + operational
@@ -100,22 +100,22 @@ def main() -> None:
     # Header-level prose outside swapped block
     replacements = [
         (
-            "(*§§2.1–2.3 — standing records, operational requirements, and no-offset bridge*)",
-            "(*§§2.1–2.3 — standing records, no-offset bridge, and operational requirements*)",
+            "(*§Chapter One §8.1–2.3 — standing records, operational requirements, and no-offset bridge*)",
+            "(*§Chapter One §8.1–2.3 — standing records, no-offset bridge, and operational requirements*)",
         ),
         (
             "**Axis-pure standing records** → **verified-input gate and forum boundary** → **no-offset bridge**",
             "**Axis-pure standing records** → **no-offset bridge** → **verified-input gate and forum boundary**",
         ),
         (
-            "- Downstream: [§2.2.2](#232-minimum-record-contents) (*verified-input gate*); [§2.2.7](#237-forum-boundary) (*forum boundary*); [§2.2](#22-linked-records-and-no-offset-bridge) (*linked-record no-offset bridge*);",
-            "- Downstream: [§2.2](#22-linked-records-and-no-offset-bridge) (*linked-record no-offset bridge*); [§2.3.2](#232-minimum-record-contents) (*verified-input gate*); [§2.3.7](#237-forum-boundary) (*forum boundary*);",
+            "- Downstream: [Chapter One §8.2.2](#232-minimum-record-contents) (*verified-input gate*); [Chapter One §8.2.7](#237-forum-boundary) (*forum boundary*); [Chapter One §8.2](#22-linked-records-and-no-offset-bridge) (*linked-record no-offset bridge*);",
+            "- Downstream: [Chapter One §8.2](#22-linked-records-and-no-offset-bridge) (*linked-record no-offset bridge*); [§14.3.2](#232-minimum-record-contents) (*verified-input gate*); [Chapter One §8.3.7](#237-forum-boundary) (*forum boundary*);",
         ),
         (
             "*In plain terms: Section 2 creates **standing records** — focused case files about one sentient, institution, or situation over a clear time period. Each file is **axis-pure**: a **contribution standing record** for verified good, or a **violation standing record** for verified adverse findings — not both in one file. Related files may **cross-reference** each other; **section 2.3.2** lists what each file must contain and what counts as verified input. The files are not permanent popularity scores or vague labels. **Sections 2.3.4–2.3.6** cover versioning and implementation visibility; **section 2.3.7** keeps forums separate from standing calculus; **section 2.2** states the no-offset rule when linked contribution and violation records coexist.*",
             "*In plain terms: Section 2 creates **standing records** — focused case files about one sentient, institution, or situation over a clear time period. Each file is **axis-pure**: a **contribution standing record** for verified good, or a **violation standing record** for verified adverse findings — not both in one file. **Section 2.2** states the no-offset rule when linked contribution and violation records coexist. Related files must **cross-reference** each other under **section 2.3.1**; **section 2.3.2** lists what each file must contain and what counts as verified input. The files are not permanent popularity scores or vague labels. **Sections 2.3.4–2.3.6** cover versioning and implementation visibility; **section 2.3.7** keeps forums separate from standing calculus.*",
         ),
-        ("**§§2.1 and 2.3.2**", "**§§2.1 and 2.3.2**"),  # already correct after remap
+        ("**§Chapter One §8.1 and 2.3.2**", "**§Chapter One §8.1 and 2.3.2**"),  # already correct after remap
     ]
     for old, new in replacements:
         if old in text:
@@ -131,17 +131,17 @@ def main() -> None:
             continue
         original = path.read_text()
         updated = remap_anchors(original)
-        updated = updated.replace("§2.2.7", "§2.3.7")
-        updated = updated.replace("§2.2.2", "§2.3.2")
-        updated = updated.replace("§2.2.1", "§2.3.1")
-        updated = updated.replace("Chapter Six §2.2 Standing Record operational requirements", "Chapter Six §2.3 Standing record operational requirements")
-        updated = updated.replace("§2.2 Standing Record operational requirements", "§2.3 Standing record operational requirements")
-        updated = updated.replace("operational requirements in Chapter Six §2.2", "operational requirements in Chapter Six §2.3")
+        updated = updated.replace("Chapter One §8.2.7", "Chapter One §8.3.7")
+        updated = updated.replace("Chapter One §8.2.2", "§14.3.2")
+        updated = updated.replace("Chapter One §8.2.1", "§14.3.1")
+        updated = updated.replace("Chapter Six Chapter One §8.2 Standing Record operational requirements", "Chapter Six Chapter One §8.3 Standing record operational requirements")
+        updated = updated.replace("Chapter One §8.2 Standing Record operational requirements", "Chapter One §8.3 Standing record operational requirements")
+        updated = updated.replace("operational requirements in Chapter Six Chapter One §8.2", "operational requirements in Chapter Six Chapter One §8.3")
         updated = updated.replace("Chapter Six section 2.2", "Chapter Six section 2.3")
         if updated != original:
             path.write_text(updated)
 
-    print("Swapped §2.2 and §2.3; renumbered subsections and anchors.")
+    print("Swapped Chapter One §8.2 and Chapter One §8.3; renumbered subsections and anchors.")
 
 
 if __name__ == "__main__":

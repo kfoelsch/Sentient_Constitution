@@ -22,8 +22,8 @@
 | Orientation | Integrated | Reader-guidance widget, Trace, §1 |
 | Oversight foundation | Oversight | §2 |
 | Accountability gate | Accountability + Participation boundary | §3 |
-| Flourishing measure | Flourishing | §4.0, §4.1 (LEQU baseline), §4.2 (primary category defaults) |
-| Accountability measure | Accountability | §4.3 |
+| Flourishing measure | Flourishing | §4.0, Chapter One §8.1 (LEQU baseline), Chapter One §8.2 (primary category defaults) |
+| Accountability measure | Accountability | §3.3 |
 
 ## Chapter Seven — section map
 
@@ -58,7 +58,7 @@
 | Continuity and triad-capture frame | Continuity | Intro + §1 |
 | Accountability at constitutional scale | Accountability | §2, §3 |
 | Oversight safeguards | Oversight | §4 |
-| Participation and pathway integrity | Participation | §6 (+ §6.1–6.9) |
+| Participation and pathway integrity | Participation | §6 (+ §11.1–6.9) |
 | Cross-chapter discipline | Integrative | §5 |
 
 ## Chapter Nine — section map (section numbers unchanged; trace fixed)
@@ -78,7 +78,7 @@
 - `core_08-08_misconduct.md`
 - `core_09-09_forum.md`
 - `core_00_preamble.md`
-- `core_05a_accountability_definitions.md` (§3.10 trace)
+- `core_05a_accountability_definitions.md` (Chapter One §8.10 trace)
 - `README.md`
 - `doc_architecture.md`
 - `corpus_forum/cf_00_registry_and_reading_rules.md`

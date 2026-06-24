@@ -143,7 +143,7 @@
         "c_star_cumulative": {
           "type": "number",
           "minimum": 0,
-          "description": "Recency-weighted sum of verified contribution credit in LEQU (Chapter Seven §4.1) before slot assignment."
+          "description": "Recency-weighted sum of verified contribution credit in LEQU (Chapter Seven Chapter One §8.1) before slot assignment."
         },
         "contribution_slot": {
           "$ref": "#/$defs/nineSlotIndex",
@@ -156,7 +156,7 @@
         "v_star_sum": {
           "type": "number",
           "minimum": 0,
-          "description": "Optional sum of 3^(s-1) over findings; for analytics only, not a substitute for highest applicable severity (Chapter Seven §4.2)."
+          "description": "Optional sum of 3^(s-1) over findings; for analytics only, not a substitute for highest applicable severity (Chapter Seven Chapter One §8.2)."
         }
       }
     }

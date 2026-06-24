@@ -16,7 +16,7 @@
 5. **Conflicts** — disclosed interests for decision participants (link to **CI-5**).
 6. **Assurance results** — internal / external assurance outcomes.
 7. **Unresolved risks** — open items, mitigations, owners.
-8. **Plain-language summary** — 1–2 pages max; must stand alone for non-specialists (**Chapter One §4.4** stewardship alignment).
+8. **Plain-language summary** — 1–2 pages max; must stand alone for non-specialists (**Chapter One §3.4** stewardship alignment).
 9. **Accessibility** — formats, languages, reasonable accommodations for access.
 
 ## Comparison fields (period-over-period)

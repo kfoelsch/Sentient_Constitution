@@ -149,8 +149,8 @@ Step 3: Run `make ai-corpus-sync`
 | File | Lines | Primary Content |
 |------|-------|-----------------|
 | core_00_preamble.md | ~52 | Chapter 00 — triad, material stake, CCL/SSP layering |
-| core_01_a_values_principles.md | ~595 | Chapter One, Part A — Values Principles (§§1–5) |
-| core_01_b_stewardship_capacity_principles.md | ~1,254 | Chapter One, Part B — §§6–13 (stewardship → governance → capacity) |
+| core_01_a_values_principles.md | ~595 | Chapter One, Part A — Values Principles (§§1–8) |
+| core_01_b_stewardship_capacity_principles.md | ~879 | Chapter One, Part B — §§11–16 (stewardship → evaluation → integrated capstone) |
 | core_02-04_definition_mechanics.md | ~530 | O/E/C structure, burden, traceability |
 | core_05-05_definitions_a_independent.md | ~1,300 | Independent definitions A-Z |
 | core_05-05_definitions_b_semi_independent.md | ~1,900 | Semi-independent definitions |

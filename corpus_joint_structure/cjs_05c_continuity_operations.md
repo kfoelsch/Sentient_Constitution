@@ -41,7 +41,7 @@ This family operationalizes the constitutional [Continuity aim](../core_00_pream
 - Read with: **Article XV-A**
 - Constitutional frame: **Continuity band** leg; **Continuity** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality Determination](../core_05o_oversight_definitions.md#materiality-determination).
 - Continuity disambiguation: Constitutional **Continuity** aim — not protocol or forum continuity alone.
-- Chapter One basis: §3.1, §4.1, §5.1, §7.1, §9 (see [CJS-5.1](#cjs-51-constitutional-compass-and-cluster-map) map).
+- Chapter One basis: §2.1, §3.1, §4.1, §12.1, §14 (see [cluster map](#cjs-51-constitutional-compass-and-cluster-map)).
 </details>
 
 <details>
@@ -54,7 +54,7 @@ This family operationalizes the constitutional [Continuity aim](../core_00_pream
 - [Dependency](../core_05c_continuity_definitions.md#dependency) · [O](../core_05c_continuity_definitions.md#dependency) · [E](../core_05c_continuity_definitions.md#dependency-e) · [C](../core_05c_continuity_definitions.md#dependency-c)
 - [Governance](../core_05a_accountability_definitions.md#governance) · [O](../core_05a_accountability_definitions.md#governance) · [E](../core_05a_accountability_definitions.md#governance-e) · [C](../core_05a_accountability_definitions.md#governance-c)
 - [Oversight](../core_05o_oversight_definitions.md#oversight-constitutional) · [O](../core_05o_oversight_definitions.md#oversight-constitutional) · [E](../core_05o_oversight_definitions.md#oversight-constitutional-e) · [C](../core_05o_oversight_definitions.md#oversight-constitutional-c)
-- Chapter One basis: §3.1, §4.1, §5.1, §7.1, §9 (see [CJS-5.1](#cjs-51-constitutional-compass-and-cluster-map) map).
+- Chapter One basis: §2.1, §3.1, §4.1, §12.1, §14 (see [cluster map](#cjs-51-constitutional-compass-and-cluster-map)).
 </details>
 
 <br>
@@ -131,7 +131,7 @@ Substitutability, exit constraints, and mitigation duties
 - Read with: **Article XV-A**
 - Constitutional frame: **Continuity band** leg; **Continuity** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality Determination](../core_05o_oversight_definitions.md#materiality-determination).
 - Continuity disambiguation: Constitutional **Continuity** aim — exit paths preserve lawful agency and system survivability.
-- Chapter One basis: §5.1, §6.1, §7.1, §8, §9 (see [CJS-5.1](#cjs-51-constitutional-compass-and-cluster-map) map).
+- Chapter One basis: §4.1, §11.1, §12.1, §13, §14 (see [cluster map](#cjs-51-constitutional-compass-and-cluster-map)).
 </details>
 
 <details>
@@ -250,7 +250,7 @@ Right-to-exit pathway integrity
 - Read with: **CJS-3.5 — Classification alignment for supervised scope**
 - Constitutional frame: **Continuity band** leg; **Continuity** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality Determination](../core_05o_oversight_definitions.md#materiality-determination).
 - Continuity disambiguation: Constitutional **Continuity** aim — lifecycle rules must not narrow the Continuity aim.
-- Chapter One basis: §3.2, §6.2, §7.1, §8, §9 (see [CJS-5.1](#cjs-51-constitutional-compass-and-cluster-map) map).
+- Chapter One basis: §2.2, §11.2, §12.1, §13, §14 (see [cluster map](#cjs-51-constitutional-compass-and-cluster-map)).
 </details>
 
 <details>
@@ -346,7 +346,7 @@ Transparency disclosures and stakeholder legibility
 - Read with: `corpus_systems.md` **Protocol A — System Design, Testing, Verification, and Deployment**
 - Constitutional frame: **Continuity band** leg; **Continuity** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality Determination](../core_05o_oversight_definitions.md#materiality-determination).
 - Continuity disambiguation: Operational degradation discipline serves constitutional **Continuity**; not a substitute for it.
-- Chapter One basis: §3.1, §4.1, §5.1, §6.1, §7, §9 (see [CJS-5.1](#cjs-51-constitutional-compass-and-cluster-map) map).
+- Chapter One basis: §2.1, §3.1, §4.1, §11.1, §12, §14 (see [cluster map](#cjs-51-constitutional-compass-and-cluster-map)).
 </details>
 
 <details>
@@ -439,7 +439,7 @@ Signaling integrity and anti-silent-failure controls
 - Read with: **CJS-5.5 — Independent Verification and Integrity of Claims**
 - Constitutional frame: **Continuity band** leg; **Continuity** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality Determination](../core_05o_oversight_definitions.md#materiality-determination).
 - Continuity disambiguation: Constitutional **Continuity** aim — reversibility protects against irreversible constitutional harm.
-- Chapter One basis: §3.1, §4.1, §6.1, §7.1, §9 (see [CJS-5.1](#cjs-51-constitutional-compass-and-cluster-map) map).
+- Chapter One basis: §2.1, §3.1, §11.1, §12.1, §14 (see [cluster map](#cjs-51-constitutional-compass-and-cluster-map)).
 </details>
 
 <details>
@@ -510,7 +510,7 @@ Rollback and containment capability
 - Read with: **CJS-5.22 — Constrained Secrecy and Protected Investigations**
 - Constitutional frame: **Continuity band** leg; **Continuity** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality Determination](../core_05o_oversight_definitions.md#materiality-determination).
 - Continuity disambiguation: Adversarial resilience serves constitutional **Continuity** under material stake.
-- Chapter One basis: §3.1, §3.2, §4.1, §7.1, §7.2, §9 (see [CJS-5.1](#cjs-51-constitutional-compass-and-cluster-map) map).
+- Chapter One basis: §2.1, §2.2, §3.1, §12.1, §12.2, §14 (see [cluster map](#cjs-51-constitutional-compass-and-cluster-map)).
 </details>
 
 <details>

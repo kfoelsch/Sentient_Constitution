@@ -41,7 +41,7 @@ This family operationalizes the **Oversight** leg of the [Constitutional Tetrad]
 - Read with: **CJS-5.22 — Constrained Secrecy and Protected Investigations**
 - Read with: **CJS-5.13 — Procedural Integrity and Adjudication**
 - Constitutional frame: **Oversight** leg; **Flourishing** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality Determination](../core_05o_oversight_definitions.md#materiality-determination).
-- Chapter One basis: §3.2, §4, §5.2, §7.1, §7.2 (see [CJS-5.1](#cjs-51-constitutional-compass-and-cluster-map) map).
+- Chapter One basis: §2.2, §3, §4.2, §12.1, §12.2 (see [cluster map](#cjs-51-constitutional-compass-and-cluster-map)).
 </details>
 
 <details>
@@ -54,7 +54,7 @@ This family operationalizes the **Oversight** leg of the [Constitutional Tetrad]
 - [Dependency](../core_05c_continuity_definitions.md#dependency) · [O](../core_05c_continuity_definitions.md#dependency) · [E](../core_05c_continuity_definitions.md#dependency-e) · [C](../core_05c_continuity_definitions.md#dependency-c)
 - [Governance](../core_05a_accountability_definitions.md#governance) · [O](../core_05a_accountability_definitions.md#governance) · [E](../core_05a_accountability_definitions.md#governance-e) · [C](../core_05a_accountability_definitions.md#governance-c)
 - [Oversight](../core_05o_oversight_definitions.md#oversight-constitutional) · [O](../core_05o_oversight_definitions.md#oversight-constitutional) · [E](../core_05o_oversight_definitions.md#oversight-constitutional-e) · [C](../core_05o_oversight_definitions.md#oversight-constitutional-c)
-- Chapter One basis: §3.2, §4, §5.2, §7.1, §7.2 (see [CJS-5.1](#cjs-51-constitutional-compass-and-cluster-map) map).
+- Chapter One basis: §2.2, §3, §4.2, §12.1, §12.2 (see [cluster map](#cjs-51-constitutional-compass-and-cluster-map)).
 </details>
 
 <br>
@@ -130,7 +130,7 @@ Transparency, audit, and verification-integrity duties
 - Read with: **Article XV-A**
 - Read with: **Article VII-B**
 - Constitutional frame: **Oversight** leg; **Flourishing** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality Determination](../core_05o_oversight_definitions.md#materiality-determination).
-- Chapter One basis: §3.2, §4, §7.1, §7.2 (see [CJS-5.1](#cjs-51-constitutional-compass-and-cluster-map) map).
+- Chapter One basis: §2.2, §3, §12.1, §12.2 (see [cluster map](#cjs-51-constitutional-compass-and-cluster-map)).
 </details>
 
 <details>
@@ -187,12 +187,12 @@ Operational transparency and structured logging requirements
 - Read with: **CJS-5.4 — Tiered Transparency and Audit Access**
 - Read with: **CJS-5.3 — Auditability**
 - Read with: **CJS-5.20** (*Continuity: reversibility and containment terms*) and **CJS-5.18** (*Continuity: data-retention and lifecycle-integrity terms*) — Reversibility and Containment
-- Read with: **Chapter One §9.2.1 — Rights-Collision Decision Test**
+- Read with: **Chapter One §6.4.1 — Rights-Collision Decision Test**
 - Read with: **`corpus_forum.md` CF-12 through CF-14 — Forum continuity, fallback operation, and emergency adjudication**
 - Read with: **Article XV-A**
 - Read with: **Article VII-B**
 - Constitutional frame: **Oversight** leg; **Flourishing** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality Determination](../core_05o_oversight_definitions.md#materiality-determination).
-- Chapter One basis: §3.2, §6.2, §6.4, §7.1, §8 (see [CJS-5.1](#cjs-51-constitutional-compass-and-cluster-map) map).
+- Chapter One basis: §2.2, §11.2, §11.4, §12.1, §13 (see [cluster map](#cjs-51-constitutional-compass-and-cluster-map)).
 </details>
 
 <details>
@@ -265,7 +265,7 @@ Tier structure and baseline accessibility
 - Read with: **CJS-5.4 — Tiered Transparency and Audit Access**
 - Read with: Chapter Fourteen and rights-layer protections where material claims shape rights-relevant decisions.
 - Constitutional frame: **Oversight** leg; **Flourishing** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality Determination](../core_05o_oversight_definitions.md#materiality-determination).
-- Chapter One basis: §3.2, §3.3, §4, §7.1, §7.2 (see [CJS-5.1](#cjs-51-constitutional-compass-and-cluster-map) map).
+- Chapter One basis: §2.2, §2.3, §3, §12.1, §12.2 (see [cluster map](#cjs-51-constitutional-compass-and-cluster-map)).
 </details>
 
 <details>
@@ -337,7 +337,7 @@ Structured review and incentive-integrity floor
 - Constitutional frame: **Oversight** leg; **Continuity** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality Determination](../core_05o_oversight_definitions.md#materiality-determination).
 - Cross-leg note: integrative with **Accountability** where contest, correction, and assurance routing are implicated.
 - Continuity disambiguation: Distinguish constitutional **Continuity** aim from operational resilience or protocol continuity.
-- Chapter One basis: §3.1, §3.2, §4.1, §7.1, §7.2 (see [CJS-5.1](#cjs-51-constitutional-compass-and-cluster-map) map).
+- Chapter One basis: §2.1, §2.2, §3.1, §12.1, §12.2 (see [cluster map](#cjs-51-constitutional-compass-and-cluster-map)).
 </details>
 
 <details>

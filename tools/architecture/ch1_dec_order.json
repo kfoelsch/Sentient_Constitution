@@ -1,12 +1,12 @@
 {
-  "### 2. Constitutional Interpretation": [
+  "### 8. Constitutional Interpretation": [
     "Corpus",
     "Authority Stack and Internal Hierarchy",
     "Supremacy and Enforceability",
     "Proportionality",
     "Necessity"
   ],
-  "#### 4.1 Safety (Harm Constraint)": [
+  "#### 3.1 Safety (Harm Constraint)": [
     "Safety (Constraint)",
     "Harm",
     "Irreversible Harm",
@@ -15,7 +15,7 @@
     "Dependency",
     "Foreseeability"
   ],
-  "### 6. Stewardship and Distributed Understanding": [
+  "### 11. Stewardship and Distributed Understanding": [
     "Strategic Stewardship Obligation",
     "Meaningful Agency",
     "Auditability",
@@ -32,7 +32,7 @@
     "Avoidable Burden",
     "Epistemic Integrity"
   ],
-  "### 8. Shared-System Capacity": [
+  "### 13. Shared-System Capacity": [
     "Productive Capacity",
     "Constitutional Efficiency",
     "Wellbeing",
@@ -47,7 +47,7 @@
     "Environmental Preconditions",
     "Intergenerational Responsibility"
   ],
-  "### 9. Market Structure": [
+  "### 14. Market Structure": [
     "Market Structure",
     "Concentration Threshold",
     "Contestability",
@@ -55,12 +55,12 @@
     "Dependency",
     "Meaningful Agency"
   ],
-  "#### 6.1 Stewardship": [
+  "#### 11.1 Stewardship": [
     "Strategic Stewardship Obligation",
     "Meaningful Agency",
     "Auditability"
   ],
-  "#### 6.2 Distributed Understanding": [
+  "#### 11.2 Distributed Understanding": [
     "Transparency",
     "Materiality",
     "Dependency",
@@ -68,7 +68,7 @@
     "Meaningful Agency",
     "Contestability"
   ],
-  "### 12. Freedom (Bounded Agency)": [
+  "### 5. Freedom (Bounded Agency)": [
     "Freedom (Bounded Agency)",
     "Meaningful Agency",
     "Consent",
@@ -83,7 +83,36 @@
     "Harm Minimization (Tradeoff Selection)",
     "Dependency"
   ],
-  "##### 10.4.1 Rights-Collision Decision Test": [
+  "#### 5.1 Limitation Discipline": [
+    "Freedom (Bounded Agency)",
+    "Feasibility",
+    "Necessity",
+    "Proportionality",
+    "Harm Minimization (Tradeoff Selection)",
+    "Harm",
+    "Risk",
+    "Reversibility",
+    "Oversight"
+  ],
+  "#### 5.2 Time-Consistency Constraint": [
+    "Safety (Constraint)",
+    "Truth (Constitutional Constraint)",
+    "Wellbeing",
+    "Foreseeability"
+  ],
+  "#### 5.3 Voluntary Discontinuation and Exit Rights": [
+    "Voluntary Discontinuation",
+    "Consent",
+    "Coercion and Manipulation",
+    "Dependency"
+  ],
+  "#### 5.4 Assembly, Collective Organization, and Institutional Formation": [
+    "Assembly",
+    "Collective Organization",
+    "System Creation",
+    "Business Creation"
+  ],
+  "##### 6.4.1 Rights-Collision Decision Test": [
     "Necessity",
     "Proportionality",
     "Feasibility",
@@ -93,7 +122,7 @@
     "Proxy Divergence",
     "Avoidable Burden"
   ],
-  "#### 11.1 Required Evaluation Factors": [
+  "#### 15.1 Required Evaluation Factors": [
     "Dependency",
     "Materiality",
     "Foreseeability",
@@ -106,7 +135,7 @@
     "Existential Risk",
     "Incentive Alignment"
   ],
-  "#### 7.4 Stewardship and Operator Incentive Alignment": [
+  "#### 12.4 Stewardship and Operator Incentive Alignment": [
     "Incentive Alignment",
     "Productive Capacity",
     "Constitutional Efficiency",
@@ -118,7 +147,7 @@
     "System Capture",
     "Meaningful Agency"
   ],
-  "### 14. Integrated Application": [
+  "### 16. Integrated Application": [
     "Corpus",
     "Authority Stack and Internal Hierarchy",
     "Supremacy and Enforceability",

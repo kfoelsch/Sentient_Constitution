@@ -27,8 +27,8 @@ The corpus is written in plain language with low jargon to improve accessibility
 ### Values and principles
 
 - **Chapter 00** (Preamble) — [`core_00_preamble.md`](core_00_preamble.md)
-- **Chapter One, Part A** (Values Principles, §§1–5) — [`core_01_a_values_principles.md`](core_01_a_values_principles.md)
-- **Chapter One, Part B** (Stewardship and Governance, §§6–13) — [`core_01_b_stewardship_capacity_principles.md`](core_01_b_stewardship_capacity_principles.md)
+- **Chapter One, Part A** (Values Principles, §§1–8) — [`core_01_a_values_principles.md`](core_01_a_values_principles.md)
+- **Chapter One, Part B** (Stewardship and Governance, §§11–16; §16 integrated application capstone) — [`core_01_b_stewardship_capacity_principles.md`](core_01_b_stewardship_capacity_principles.md)
 
 ### Definition mechanics and definitions
 

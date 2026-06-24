@@ -341,7 +341,7 @@ If a system cannot yet justify its own calibrated numbers, the interim default s
 
 **Interim relief.** Tier A matters must not wait for full merits before lawful interim protection, evidence preservation, or pathway-scoped safeguards where delay would compound dependency-vulnerable harm.
 
-**Institution mirror.** Remedy organs under [Chapter Seven §5.2](../core_07-07_standing_integration.md#52-remedy-organ-durability) and **CI-8** (*Transparency, participation, and accessible pathways*) must publish compatible intake and acknowledgment windows; forum delay must not be used to defeat institution-side redress duties.
+**Institution mirror.** Remedy organs under [Chapter Seven Chapter One §6.2](../core_07-07_standing_integration.md#52-remedy-organ-durability) and **CI-8** (*Transparency, participation, and accessible pathways*) must publish compatible intake and acknowledgment windows; forum delay must not be used to defeat institution-side redress duties.
 
 Domain-scale walkthroughs with milestone illustrations: [implementation/CH6-9_APPLICATION_VIGNETTES.md](../implementation/CH6-9_APPLICATION_VIGNETTES.md).
 

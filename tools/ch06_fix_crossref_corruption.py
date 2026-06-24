@@ -12,17 +12,17 @@ FIXES: list[tuple[str, str, str]] = [
     ("core_08-08_misconduct.md", "section 5.1.2** named", "section 6** named"),
     ("core_08-08_misconduct.md", "section 5.1.1.2", "section 6.1"),
     ("core_08-08_misconduct.md", "boundary in **section 5.1**", "boundary in **section 5**"),
-    ("core_08-08_misconduct.md", "Chapter Six §5.1.2", "Chapter Six §5.2"),
+    ("core_08-08_misconduct.md", "Chapter Six Chapter One §8.1.2", "Chapter Six Chapter One §6.2"),
     # Chapter Nine — restore internal §6; fix Ch6 refs
     ("core_09-09_forum.md", "(**section 5.1**)", "(**section 5**)"),
     ("core_09-09_forum.md", "Chapter Six **section 5.1.2** severity", "Chapter Six **section 5.2** severity"),
     ("core_09-09_forum.md", "unless **section 5.1.2** transfers", "unless **section 6** transfers"),
     ("core_09-09_forum.md", "(with **section 5.1.2**)", "(with **section 6**)"),
     ("core_09-09_forum.md", "under **section 5.1.2**", "under **section 6**"),
-    ("core_09-09_forum.md", "[Chapter Six §5.1.2](core_07-07_standing_integration.md#71-shared-domain-lenses-cross-axis-vocabulary)", "[Chapter Seven §2.1](core_07-07_standing_integration.md#71-shared-domain-lenses-cross-axis-vocabulary)"),
-    ("core_09-09_forum.md", "[Chapter Six §5.1.2.3](core_07-07_standing_integration.md#73-stackable-harm-and-conduct-descriptors-violation-nature-supplement)", "[Chapter Seven §3.9](core_07-07_standing_integration.md#73-stackable-harm-and-conduct-descriptors-violation-nature-supplement)"),
-    ("core_09-09_forum.md", "[Chapter Six §5.1.2](core_06-06_standing_assessment.md#34-violation-axis-rules-violation-nature-adverse-findings-and-severity)", "[Chapter Six §5.2](core_06-06_standing_assessment.md#34-violation-axis-rules-violation-nature-adverse-findings-and-severity)"),
-    ("core_09-09_forum.md", "[Chapter Six §5.1](core_07-07_standing_integration.md#6-extended-axis-ii-legal-hybrid-duty-and-harm-descriptors)", "[Chapter Seven §3](core_07-07_standing_integration.md#6-extended-axis-ii-legal-hybrid-duty-and-harm-descriptors)"),
+    ("core_09-09_forum.md", "[Chapter Six Chapter One §8.1.2](core_07-07_standing_integration.md#71-shared-domain-lenses-cross-axis-vocabulary)", "[Chapter Seven Chapter One §8.1](core_07-07_standing_integration.md#71-shared-domain-lenses-cross-axis-vocabulary)"),
+    ("core_09-09_forum.md", "[Chapter Six Chapter One §8.1.2.3](core_07-07_standing_integration.md#73-stackable-harm-and-conduct-descriptors-violation-nature-supplement)", "[Chapter Seven §3.9](core_07-07_standing_integration.md#73-stackable-harm-and-conduct-descriptors-violation-nature-supplement)"),
+    ("core_09-09_forum.md", "[Chapter Six Chapter One §8.1.2](core_06-06_standing_assessment.md#34-violation-axis-rules-violation-nature-adverse-findings-and-severity)", "[Chapter Six Chapter One §6.2](core_06-06_standing_assessment.md#34-violation-axis-rules-violation-nature-adverse-findings-and-severity)"),
+    ("core_09-09_forum.md", "[Chapter Six Chapter One §8.1](core_07-07_standing_integration.md#6-extended-axis-ii-legal-hybrid-duty-and-harm-descriptors)", "[Chapter Seven §3](core_07-07_standing_integration.md#6-extended-axis-ii-legal-hybrid-duty-and-harm-descriptors)"),
     ("core_09-09_forum.md", "**section 5.1** primary category defaults", "**§5** primary category defaults"),
     # Chapter Seven — Ch6 severity refs
     ("core_07-07_standing_integration.md", "Chapter Six section 5.1.1.2", "Chapter Six section 5.2"),
@@ -38,9 +38,9 @@ FIXES: list[tuple[str, str, str]] = [
     # Corpus Ch9 §6
     ("corpus_joint_structure/cjs_05a_accountability_operations.md", "Chapter Nine**, **section 5.1.2**", "Chapter Nine**, **section 6**"),
     ("corpus_forum/cf_06_appeal_secondary_review_exhaustion_pathways.md", "Chapter Nine**, **section 5.1.2**", "Chapter Nine**, **section 6**"),
-    ("core_08-08_misconduct.md", "[Chapter Six §5.1.7](core_07-07_standing_integration.md#67-duty-to-resist-unlawful-or-unconstitutional-instructions)", "[Chapter Seven §6.7](core_07-07_standing_integration.md#67-duty-to-resist-unlawful-or-unconstitutional-instructions)"),
-    ("core_08-08_misconduct.md", "[Chapter Six §5.1.6](core_07-07_standing_integration.md#410-collective-accountability-and-acquiescent-participation)", "[Chapter Seven §4.10](core_07-07_standing_integration.md#410-collective-accountability-and-acquiescent-participation)"),
-    ("corpus_forum/cf_04_panel_formation_disclosure_recusal_bench_constitution.md", "Chapter Six §5.1.2", "Chapter Six §5.2"),
+    ("core_08-08_misconduct.md", "[Chapter Six Chapter One §8.1.7](core_07-07_standing_integration.md#67-duty-to-resist-unlawful-or-unconstitutional-instructions)", "[Chapter Seven §6.7](core_07-07_standing_integration.md#67-duty-to-resist-unlawful-or-unconstitutional-instructions)"),
+    ("core_08-08_misconduct.md", "[Chapter Six Chapter One §8.1.6](core_07-07_standing_integration.md#410-collective-accountability-and-acquiescent-participation)", "[Chapter Seven Chapter One §8.10](core_07-07_standing_integration.md#410-collective-accountability-and-acquiescent-participation)"),
+    ("corpus_forum/cf_04_panel_formation_disclosure_recusal_bench_constitution.md", "Chapter Six Chapter One §8.1.2", "Chapter Six Chapter One §6.2"),
 ]
     for rel, old, new in FIXES:
         path = ROOT / rel

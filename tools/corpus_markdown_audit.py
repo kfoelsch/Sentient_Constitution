@@ -162,14 +162,14 @@ def check_ch4_32_mandatory_traceability_bidirectional(section_lines: list[str]) 
             break
     if parent_i is None:
         errors.append(
-            "Chapter Four §3.2: missing parent bullet '- bidirectional, such that:'"
+            "Chapter Four Chapter One §8.2: missing parent bullet '- bidirectional, such that:'"
         )
         return errors
 
     children = collect_immediate_nested_bullets(section_lines, parent_i)
     if len(children) < 2:
         errors.append(
-            "Chapter Four §3.2: '- bidirectional, such that:' must be followed by at least two nested child bullets"
+            "Chapter Four Chapter One §8.2: '- bidirectional, such that:' must be followed by at least two nested child bullets"
         )
 
     return errors
@@ -269,13 +269,13 @@ def check_ch2_42_evansion_nesting(section_lines: list[str]) -> list[str]:
             break
     if cat_i is None:
         errors.append(
-            "Chapter Three §3.2: missing category line '- Representation and Proxy-Based Evasion'"
+            "Chapter Three Chapter One §8.2: missing category line '- Representation and Proxy-Based Evasion'"
         )
         return errors
 
     children = collect_immediate_nested_bullets(section_lines, cat_i)
     if not children:
-        errors.append("Chapter Three §3.2: missing nested lines under Representation and Proxy-Based Evasion")
+        errors.append("Chapter Three Chapter One §8.2: missing nested lines under Representation and Proxy-Based Evasion")
         return errors
     return errors
 
@@ -302,7 +302,7 @@ def main() -> int:
     )
     if s65 is None:
         findings.append(
-            "Could not slice Chapter Four §3.2 (missing heading or section 4 boundary)"
+            "Could not slice Chapter Four Chapter One §8.2 (missing heading or section 4 boundary)"
         )
     else:
         findings.extend(
@@ -316,13 +316,13 @@ def main() -> int:
     )
     if s42 is None:
         findings.append(
-            "Could not slice Chapter Three §3.2 (missing heading or §2.3 boundary)"
+            "Could not slice Chapter Three Chapter One §8.2 (missing heading or Chapter One §8.3 boundary)"
         )
     else:
         findings.extend(check_ch2_42_evansion_nesting(s42.splitlines()))
 
     print("Corpus Markdown structure audit:")
-    print(f"- Definition-structure slice file: {args.file} (Ch 3 §3.2 + Ch 4 §3.2)")
+    print(f"- Definition-structure slice file: {args.file} (Ch 3 Chapter One §8.2 + Ch 4 Chapter One §8.2)")
     print(
         "- Horizontal-rule (---) blank-line targets: "
         + ", ".join(p.relative_to(root).as_posix() for p in thematic_paths)

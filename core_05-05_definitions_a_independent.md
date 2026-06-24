@@ -326,11 +326,11 @@ Use this compass before invoking any Chapter Five definition. Chapter Five suppl
 
 | Band | File | §3 cluster range |
 |---|---|---|
-| **Oversight leg** | [core_05o_oversight_definitions.md](core_05o_oversight_definitions.md) | **§3.2–§3.3** |
+| **Oversight leg** | [core_05o_oversight_definitions.md](core_05o_oversight_definitions.md) | **Chapter One §8.2–§3.3** |
 | **Participation leg** | [core_05p_participation_definitions.md](core_05p_participation_definitions.md) | **§3.5–§3.7** |
-| **Accountability leg** | [core_05a_accountability_definitions.md](core_05a_accountability_definitions.md) | **§3.8–§3.11** |
-| **Continuity leg** | [core_05c_continuity_definitions.md](core_05c_continuity_definitions.md) | **§3.12–§3.15** |
-| **Integrative leg** | [core_05i_integrative_definitions.md](core_05i_integrative_definitions.md) | **§3.16** |
+| **Accountability leg** | [core_05a_accountability_definitions.md](core_05a_accountability_definitions.md) | **§3.8–Chapter One §8.11** |
+| **Continuity leg** | [core_05c_continuity_definitions.md](core_05c_continuity_definitions.md) | **Chapter One §8.12–Chapter One §8.15** |
+| **Integrative leg** | [core_05i_integrative_definitions.md](core_05i_integrative_definitions.md) | **Chapter One §8.16** |
 
 ---
 
@@ -343,20 +343,20 @@ Use this compass before invoking any Chapter Five definition. Chapter Five suppl
 
 | § ID | Title | Tetrad leg / band | Primary aim | Chapter One § basis | Cross-leg note | Continuity disambiguation | Home file |
 |---|---|---|---|---|---|---|---|
-| **§3.2** | Transparency, Auditability, and Verification | Oversight | Flourishing | §3.2, §4, §7.1, §7.2 | — | — | [core_05o_oversight_definitions.md](core_05o_oversight_definitions.md) |
-| **§3.3** | Truth and Epistemic Integrity | Oversight | Flourishing | §3.2, §3.3, §4, §7.1, §7.2 | integrative with **Accountability** where contest and correction are implicated | — | [core_05o_oversight_definitions.md](core_05o_oversight_definitions.md) |
-| **§3.5** | Animal Life, Sentient Life, and Sentience Status | Participation | Flourishing | §2.1, §4, §10 | — | — | [core_05p_participation_definitions.md](core_05p_participation_definitions.md) |
-| **§3.6** | Binding Stakeholder Choice | Participation | Flourishing | §2.1, §3.4, §6.4, §8, §10 | integrative with **Accountability** procedural integrity | — | [core_05p_participation_definitions.md](core_05p_participation_definitions.md) |
-| **§3.7** | Self-Determination, Meaningful Agency, Expression, Educational Agency, and Volitional Integrity | Participation | Flourishing | §10, §2.1, §4 | — | — | [core_05p_participation_definitions.md](core_05p_participation_definitions.md) |
-| **§3.8** | Collective Harm Boundary, Harm, and Harassment and Bullying | Accountability | Flourishing | §3.1, §6.1, §7.1, §9 | — | — | [core_05a_accountability_definitions.md](core_05a_accountability_definitions.md) |
-| **§3.9** | Forum Families and Dispute Routing | Accountability | Flourishing | §2.1, §3.4, §6.4, §8, §10 | — | — | [core_05a_accountability_definitions.md](core_05a_accountability_definitions.md) |
-| **§3.10** | Standing State, Contribution, and Violation | Accountability | Flourishing | §6.1, §6.3, §6.4, §7.1, §8 | — | — | [core_05a_accountability_definitions.md](core_05a_accountability_definitions.md) |
-| **§3.11** | Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm | Accountability | Continuity | §3.1, §6.1, §7.1, §9 | integrative with **Continuity** where irreversible harm is implicated | Distinguish constitutional **Continuity** aim from operational force protocols. | [core_05a_accountability_definitions.md](core_05a_accountability_definitions.md) |
-| **§3.12** | Labor and Economic Floor: Compensation, Organization, Safe Conditions, Leisure, and Creative Work | Continuity | Continuity | §3.1, §4.1, §5.1, §7.1 | — | Constitutional **Continuity** aim — survival-floor and economic continuity. | [core_05c_continuity_definitions.md](core_05c_continuity_definitions.md) |
-| **§3.13** | Stewardship, Governance Discipline, and Shared-System Capacity | Continuity | Continuity | §5.1, §6.1, §7.1, §8 | integrative with **Accountability** where review and correction duties apply | Constitutional **Continuity** aim — durable governance discipline. | [core_05c_continuity_definitions.md](core_05c_continuity_definitions.md) |
-| **§3.14** | Privacy (Informational) — peer-level cluster head | Continuity | Flourishing | §3.2, §4, §7.1, §7.2 | integrative with **Participation** and **Oversight** | — | [core_05c_continuity_definitions.md](core_05c_continuity_definitions.md) |
-| **§3.15** | Trust and Trustworthiness | Continuity | Flourishing | §5, §7.1, §8 | — | — | [core_05c_continuity_definitions.md](core_05c_continuity_definitions.md) |
-| **§3.16** | Corpus, Authority Stack, Supremacy, and Enforceability | Integrative | Flourishing | §2.1, §4, §5.2, §7.2, §10 | **Oversight**, **Accountability**, and **Participation** — authority stack spans all Tetrad legs | — | [core_05i_integrative_definitions.md](core_05i_integrative_definitions.md) |
+| **Chapter One §8.2** | Transparency, Auditability, and Verification | Oversight | Flourishing | Chapter One §8.2, §4, §12.1, §12.2 | — | — | [core_05o_oversight_definitions.md](core_05o_oversight_definitions.md) |
+| **§3.3** | Truth and Epistemic Integrity | Oversight | Flourishing | Chapter One §8.2, §3.3, §4, §12.1, §12.2 | integrative with **Accountability** where contest and correction are implicated | — | [core_05o_oversight_definitions.md](core_05o_oversight_definitions.md) |
+| **§3.5** | Animal Life, Sentient Life, and Sentience Status | Participation | Flourishing | Chapter One §8.1, §4, §10 | — | — | [core_05p_participation_definitions.md](core_05p_participation_definitions.md) |
+| **§3.6** | Binding Stakeholder Choice | Participation | Flourishing | Chapter One §8.1, §3.4, §11.4, §8, §10 | integrative with **Accountability** procedural integrity | — | [core_05p_participation_definitions.md](core_05p_participation_definitions.md) |
+| **§3.7** | Self-Determination, Meaningful Agency, Expression, Educational Agency, and Volitional Integrity | Participation | Flourishing | §10, Chapter One §8.1, §4 | — | — | [core_05p_participation_definitions.md](core_05p_participation_definitions.md) |
+| **§3.8** | Collective Harm Boundary, Harm, and Harassment and Bullying | Accountability | Flourishing | Chapter One §8.1, §11.1, §12.1, §9 | — | — | [core_05a_accountability_definitions.md](core_05a_accountability_definitions.md) |
+| **§3.9** | Forum Families and Dispute Routing | Accountability | Flourishing | Chapter One §8.1, §3.4, §11.4, §8, §10 | — | — | [core_05a_accountability_definitions.md](core_05a_accountability_definitions.md) |
+| **Chapter One §8.10** | Standing State, Contribution, and Violation | Accountability | Flourishing | §11.1, §11.3, §11.4, §12.1, §8 | — | — | [core_05a_accountability_definitions.md](core_05a_accountability_definitions.md) |
+| **Chapter One §8.11** | Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm | Accountability | Continuity | Chapter One §8.1, §11.1, §12.1, §9 | integrative with **Continuity** where irreversible harm is implicated | Distinguish constitutional **Continuity** aim from operational force protocols. | [core_05a_accountability_definitions.md](core_05a_accountability_definitions.md) |
+| **Chapter One §8.12** | Labor and Economic Floor: Compensation, Organization, Safe Conditions, Leisure, and Creative Work | Continuity | Continuity | Chapter One §8.1, Chapter One §8.1, Chapter One §8.1, §12.1 | — | Constitutional **Continuity** aim — survival-floor and economic continuity. | [core_05c_continuity_definitions.md](core_05c_continuity_definitions.md) |
+| **Chapter One §8.13** | Stewardship, Governance Discipline, and Shared-System Capacity | Continuity | Continuity | Chapter One §8.1, §11.1, §12.1, §8 | integrative with **Accountability** where review and correction duties apply | Constitutional **Continuity** aim — durable governance discipline. | [core_05c_continuity_definitions.md](core_05c_continuity_definitions.md) |
+| **Chapter One §8.14** | Privacy (Informational) — peer-level cluster head | Continuity | Flourishing | Chapter One §8.2, §4, §12.1, §12.2 | integrative with **Participation** and **Oversight** | — | [core_05c_continuity_definitions.md](core_05c_continuity_definitions.md) |
+| **Chapter One §8.15** | Trust and Trustworthiness | Continuity | Flourishing | §5, §12.1, §8 | — | — | [core_05c_continuity_definitions.md](core_05c_continuity_definitions.md) |
+| **Chapter One §8.16** | Corpus, Authority Stack, Supremacy, and Enforceability | Integrative | Flourishing | Chapter One §8.1, §4, Chapter One §6.2, §12.2, §10 | **Oversight**, **Accountability**, and **Participation** — authority stack spans all Tetrad legs | — | [core_05i_integrative_definitions.md](core_05i_integrative_definitions.md) |
 
 </details>
 

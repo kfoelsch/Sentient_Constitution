@@ -37,7 +37,7 @@ This family holds clusters that require simultaneous satisfaction across Tetrad 
 - Read with: **CJS-5.13 — Procedural Integrity and Adjudication**
 - Constitutional frame: **Integrative** leg; **Flourishing** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality Determination](../core_05o_oversight_definitions.md#materiality-determination).
 - Cross-leg note: **Oversight** and **Accountability** — secrecy limits must remain auditable and challengeable.
-- Chapter One basis: §3.2, §6.2, §6.4, §7.1, §8, §9 (see [CJS-5.1](#cjs-51-constitutional-compass-and-cluster-map) map).
+- Chapter One basis: §2.2, §11.2, §11.4, §12.1, §13, §14 (see [cluster map](#cjs-51-constitutional-compass-and-cluster-map)).
 </details>
 
 <details>
@@ -50,7 +50,7 @@ This family holds clusters that require simultaneous satisfaction across Tetrad 
 - [Oversight](../core_05o_oversight_definitions.md#oversight-constitutional) · [O](../core_05o_oversight_definitions.md#oversight-constitutional) · [E](../core_05o_oversight_definitions.md#oversight-constitutional-e) · [C](../core_05o_oversight_definitions.md#oversight-constitutional-c)
 - [Material](../core_05o_oversight_definitions.md#material) · [O](../core_05o_oversight_definitions.md#material) · [E](../core_05o_oversight_definitions.md#material-e) · [C](../core_05o_oversight_definitions.md#material-c)
 - [System](../core_05c_continuity_definitions.md#system-definition) · [O](../core_05c_continuity_definitions.md#system-definition) · [E](../core_05c_continuity_definitions.md#system-definition-e) · [C](../core_05c_continuity_definitions.md#system-definition-c)
-- Chapter One basis: §3.2, §6.2, §6.4, §7.1, §8, §9 (see [CJS-5.1](#cjs-51-constitutional-compass-and-cluster-map) map).
+- Chapter One basis: §2.2, §11.2, §11.4, §12.1, §13, §14 (see [cluster map](#cjs-51-constitutional-compass-and-cluster-map)).
 </details>
 
 <br>
@@ -109,13 +109,13 @@ No permanent secrecy and anti-normalization discipline
 - Read with: **CJS-5.21 — Adversarial Robustness and Abuse Resistance**
 - Read with: **CJS-5.15** (*Accountability: structural review, correction urgency, and disclosure terms*) and **CJS-5.6** (*Oversight: integrity assurance and resilience operations*) — Evolution, Revalidation, and Non-Entrenchment
 - Read with: **CJS-5.14 — Intervention governance and override authorization**
-- Read with: **Chapter One §9.2.1 — Rights-Collision Decision Test**
+- Read with: **Chapter One §6.4.1 — Rights-Collision Decision Test**
 - Read with: **`corpus_forum.md` CF-12 through CF-14 — Forum continuity, fallback operation, and emergency adjudication**
 - Read with: Constitutional hooks in **Articles IX, XII, and XIII**
 - Constitutional frame: **Integrative** leg; **Continuity** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality Determination](../core_05o_oversight_definitions.md#materiality-determination).
 - Cross-leg note: **Accountability** and **Continuity** — technical complement to **CJS-5.14** governance authorization.
 - Continuity disambiguation: Distinguish technical intervention integrity from constitutional **Continuity** aim language.
-- Chapter One basis: §3.1, §6.1, §6.4, §7.1, §9 (see [CJS-5.1](#cjs-51-constitutional-compass-and-cluster-map) map).
+- Chapter One basis: §2.1, §11.1, §11.4, §12.1, §14 (see [cluster map](#cjs-51-constitutional-compass-and-cluster-map)).
 </details>
 
 <details>
