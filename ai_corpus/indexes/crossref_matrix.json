@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/crossref_matrix.schema.json",
-  "generated_at": "2026-06-23T17:18:11+00:00",
+  "generated_at": "2026-06-24T02:07:33+00:00",
   "description": "Source-derived file-to-file Markdown reference graph.",
   "graph": {
     "nodes": [
@@ -472,7 +472,7 @@
         "targets": [
           {
             "file": "core_00_preamble.md",
-            "count": 72,
+            "count": 73,
             "anchors": [
               "#constitutional-tetrad",
               "#continuity",
@@ -538,7 +538,7 @@
           },
           {
             "file": "core_05c_continuity_definitions.md",
-            "count": 69,
+            "count": 72,
             "anchors": [
               "#avoidable-burden",
               "#avoidable-burden-c",
@@ -573,7 +573,7 @@
           },
           {
             "file": "core_05i_integrative_definitions.md",
-            "count": 24,
+            "count": 25,
             "anchors": [
               "#authority-stack",
               "#authority-stack-c",
@@ -592,7 +592,7 @@
           },
           {
             "file": "core_05o_oversight_definitions.md",
-            "count": 79,
+            "count": 82,
             "anchors": [
               "#auditability",
               "#auditability-c",
@@ -2324,7 +2324,7 @@
               "#932-time-consistency-constraint",
               "#941-rights-collision-decision-test",
               "#942-proxy-divergence-invalidation",
-              "#chapter-01-part-b-stewardship-capacity-and-constitutional-safeguards"
+              "#chapter-01-part-b-stewardship-and-governance"
             ]
           },
           {

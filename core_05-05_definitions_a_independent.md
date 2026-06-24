@@ -149,6 +149,7 @@ This directory lists **Definitions A-Z** and **Clusters A-Z** separately. Each v
 - [Incentive Alignment](core_05i_integrative_definitions.md#incentive-alignment)
 - [Incentive Alignment — baseline constitutional alignment](core_05i_integrative_definitions.md#incentive-alignment-baseline-constitutional-alignment)
 - [Incentive Alignment — contingent claims, games of chance, and event-contract markets](core_05i_integrative_definitions.md#incentive-alignment-contingent-claims-games-of-chance-and-event-contract-markets)
+- [Insider Advantage](core_05a_accountability_definitions.md#insider-advantage)
 - [Indigenous Continuity](core_05c_continuity_definitions.md#indigenous-continuity-constitutional)
 - [Info-Sphere](core_05p_participation_definitions.md#info-sphere)
 - [Innovation Reward and Anti-Enclosure](core_05i_integrative_definitions.md#innovation-reward-and-anti-enclosure)

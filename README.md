@@ -14,7 +14,7 @@ Custody and binding scope: [Chapter Five *Corpus*](core_05i_integrative_definiti
 
 ## How to read
 
-1. **Chapter One** — preamble ([`core_00_preamble.md`](core_00_preamble.md)); Values Principles, Part A ([`core_01_a_values_principles.md`](core_01_a_values_principles.md)); Stewardship, Capacity, and Constitutional Safeguards, Part B ([`core_01_b_stewardship_capacity_principles.md`](core_01_b_stewardship_capacity_principles.md)).
+1. **Chapter One** — preamble ([`core_00_preamble.md`](core_00_preamble.md)); Values Principles, Part A ([`core_01_a_values_principles.md`](core_01_a_values_principles.md)); Stewardship and Governance, Part B ([`core_01_b_stewardship_capacity_principles.md`](core_01_b_stewardship_capacity_principles.md)).
 2. **Chapters Two through Five** — definition structure, integrity, burden, traceability, and the definition stack ([`core_02-04_definition_mechanics.md`](core_02-04_definition_mechanics.md); Chapter Five Parts A–C below). Chapter Five is the **definition stack**, not the Rights Floor.
 3. **Chapters Six through Nine** — enforce the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) and [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) through one **standing, verification, and forum coordination pipeline** ([Chapters Six–Nine compass](core_06-06_standing_assessment.md#chapters-six-nine-constitutional-compass)), governed by **Article XXIII-G** (*Timely Resolution and Anti-Delay Floor*): standing record → verified input → contribution / violation classification → attachments, descriptors, locks, and effects → Chapter Eight top-slot review for Violation Axis **s = 7, 8, or 9** anti-constitutional misconduct; **Chapter Nine** supplies forum families, jurisdiction, and cross-forum anti-self-judging ([`core_09-09_forum.md`](core_09-09_forum.md)).
 4. **Chapter Ten** — Rights Floor, Articles I–XXV in planet-first Parts A–D ([`core_10-10_rights_part_a.md`](core_10-10_rights_part_a.md) through [`core_10-10_rights_part_d.md`](core_10-10_rights_part_d.md); article map in [doc_architecture.md](doc_architecture.md) **section 5**).
@@ -28,7 +28,7 @@ The corpus is written in plain language with low jargon to improve accessibility
 
 - **Chapter 00** (Preamble) — [`core_00_preamble.md`](core_00_preamble.md)
 - **Chapter One, Part A** (Values Principles, §§1–5) — [`core_01_a_values_principles.md`](core_01_a_values_principles.md)
-- **Chapter One, Part B** (Stewardship, Capacity, and Constitutional Safeguards, §§6–13) — [`core_01_b_stewardship_capacity_principles.md`](core_01_b_stewardship_capacity_principles.md)
+- **Chapter One, Part B** (Stewardship and Governance, §§6–13) — [`core_01_b_stewardship_capacity_principles.md`](core_01_b_stewardship_capacity_principles.md)
 
 ### Definition mechanics and definitions
 
