@@ -102,7 +102,7 @@ This band holds **Integrative** cross-leg definitions that require simultaneous 
 
 - Downstream: Principles: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) (tetrad capture discipline under [§7](core_01_b_stewardship_capacity_principles.md#7-governance-under-stewardship-discipline); [material stake](core_00_preamble.md#material-stake) scaling); [10.1 Required Evaluation Factors](core_01_b_stewardship_capacity_principles.md#101-required-evaluation-factors) and [§7 Governance Under Stewardship Discipline](core_01_b_stewardship_capacity_principles.md#7-governance-under-stewardship-discipline).
 - Principle-layer rule: [Chapter One §7.3.1 Alignment Requirement](core_01_b_stewardship_capacity_principles.md#73-alignment-requirement); stewardship and operator application anchor: [Chapter One §7.4 Stewardship and Operator Incentive Alignment](core_01_b_stewardship_capacity_principles.md#74-stewardship-and-operator-incentive-alignment).
-- Active correction and capture escalation: [Chapter One §10.2.4 Misalignment Correction and Capture Response](core_01_b_stewardship_capacity_principles.md#76-misalignment-correction-and-capture-response).
+- Active correction and capture escalation: [Chapter One §7.3.2 Misalignment Correction and Capture Response](core_01_b_stewardship_capacity_principles.md#732-misalignment-correction-and-capture-response).
 - Cluster component: [Chapter Five §3.20 *Governance Architecture, Oversight, Dependency, Decentralization, Concentration, Market Structure, and Exit-Path Integrity*](core_05a_accountability_definitions.md#governance-architecture-oversight-decentralization-and-concentration-cluster) (hub paths that intersect dependency, concentration, governance-form incentives, or exit-quality analysis — read together with [Chapter Five §3.13 *Contingent Claim, Event-Contract Market, and Game of Chance*](core_05a_accountability_definitions.md#contingent-claim) where contingent structures are materially implicated)
 - Read with: System Capture, Proxy Divergence, Truth (Constitutional Constraint), Epistemic Integrity, and Meaningful Agency.
 
@@ -116,7 +116,7 @@ This band holds **Integrative** cross-leg definitions that require simultaneous 
 <a id="incentive-alignment-e"></a>
 - E: Assess alignment across delayed and aggregated effects, not only immediate or local outputs — including effects on [Risk](core_05c_continuity_definitions.md#risk), [Harm](core_05a_accountability_definitions.md#harm), and [Meaningful Agency](core_05p_participation_definitions.md#meaningful-agency).
 <a id="incentive-alignment-c"></a>
-- C: Sustained incentives that predictably undermine Chapter One values without mitigation, disclosure, or feasible override are non-compliant. Systems must actively detect, disclose, and correct such misalignments (Chapter One §10.2.4). Concentrated or obscured control structures defeating challenge or oversight are escalation conditions under Chapters Two–Five.
+- C: Sustained incentives that predictably undermine Chapter One values without mitigation, disclosure, or feasible override are non-compliant. Systems must actively detect, disclose, and correct such misalignments (Chapter One §7.3.2). Concentrated or obscured control structures defeating challenge or oversight are escalation conditions under Chapters Two–Five.
 
 ##### Incentive Alignment — strategic, scaled, and adversarial evaluation
 
@@ -127,7 +127,7 @@ This band holds **Integrative** cross-leg definitions that require simultaneous 
 
 - O: [Contingent Claim](core_05a_accountability_definitions.md#contingent-claim) structures, including [Game of Chance](core_05a_accountability_definitions.md#game-of-chance) and [Event-Contract Market](core_05a_accountability_definitions.md#event-contract-market) forms, are within scope where materially relevant.
 <a id="incentive-alignment-contingent-claims-games-of-chance-and-event-contract-markets-e"></a>
-- E: Such systems must satisfy Chapter One §7.3.2, including:
+- E: Such systems must satisfy Chapter One §7.3.3, including:
   - Application of [Necessity](core_05a_accountability_definitions.md#necessity) and [Proportionality](core_05a_accountability_definitions.md#proportionality) to underlying permitted events
   - Governance of resolution procedures (independence, multi-source rules where feasible, contestable dispute pathways)
   - Concentration, leverage, and exposure limits scaled to vulnerability and systemic stability

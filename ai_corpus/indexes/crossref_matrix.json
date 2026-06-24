@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/crossref_matrix.schema.json",
-  "generated_at": "2026-06-24T02:07:33+00:00",
+  "generated_at": "2026-06-24T08:10:38+00:00",
   "description": "Source-derived file-to-file Markdown reference graph.",
   "graph": {
     "nodes": [
@@ -440,13 +440,14 @@
           },
           {
             "file": "core_05o_oversight_definitions.md",
-            "count": 5,
+            "count": 6,
             "anchors": [
               "#material",
               "#material-impact",
               "#material-risk",
               "#materiality-determination",
-              "#oversight-constitutional"
+              "#oversight-constitutional",
+              "#proxy-divergence"
             ]
           },
           {
@@ -746,7 +747,7 @@
         "targets": [
           {
             "file": "core_00_preamble.md",
-            "count": 109,
+            "count": 116,
             "anchors": [
               "#chapter-00-preamble--foundational-requirements",
               "#constitutional-tetrad",
@@ -759,7 +760,7 @@
           },
           {
             "file": "core_01_a_values_principles.md",
-            "count": 17,
+            "count": 16,
             "anchors": [
               "#1-purpose-and-role",
               "#2-constitutional-interpretation",
@@ -777,7 +778,7 @@
           },
           {
             "file": "core_05a_accountability_definitions.md",
-            "count": 231,
+            "count": 224,
             "anchors": [
               "#accountability",
               "#accountability-c",
@@ -815,6 +816,9 @@
               "#harm-minimization-tradeoff-selection",
               "#harm-minimization-tradeoff-selection-c",
               "#harm-minimization-tradeoff-selection-e",
+              "#insider-advantage",
+              "#insider-advantage-c",
+              "#insider-advantage-e",
               "#irreversible-harm",
               "#irreversible-harm-c",
               "#irreversible-harm-e",
@@ -834,7 +838,7 @@
           },
           {
             "file": "core_05c_continuity_definitions.md",
-            "count": 228,
+            "count": 233,
             "anchors": [
               "#avoidable-burden",
               "#avoidable-burden-c",
@@ -909,7 +913,7 @@
           },
           {
             "file": "core_05i_integrative_definitions.md",
-            "count": 41,
+            "count": 36,
             "anchors": [
               "#accountability-contestability-and-collective-accountability-failure-cluster",
               "#authority-stack",
@@ -927,7 +931,7 @@
           },
           {
             "file": "core_05o_oversight_definitions.md",
-            "count": 205,
+            "count": 203,
             "anchors": [
               "#auditability",
               "#auditability-c",
@@ -966,7 +970,7 @@
           },
           {
             "file": "core_05p_participation_definitions.md",
-            "count": 98,
+            "count": 99,
             "anchors": [
               "#accessibility-constitutional",
               "#accessibility-constitutional-c",
@@ -1023,7 +1027,7 @@
           },
           {
             "file": "core_10-10_rights_part_a.md",
-            "count": 18,
+            "count": 17,
             "anchors": [
               "#article-i-a-environmental-preconditions-and-ecological-integrity",
               "#article-i-d-existential-risk-and-recovery-capacity",
@@ -1086,10 +1090,15 @@
           },
           {
             "file": "core_11-11_governance.md",
-            "count": 3,
+            "count": 4,
             "anchors": [
               "#5-authorized-roles-competency-development-and-contribution"
             ]
+          },
+          {
+            "file": "corpus_institutions.md",
+            "count": 1,
+            "anchors": []
           },
           {
             "file": "corpus_joint_structure/cjs_05_cross_implementation_operational_terms.md",
@@ -1100,7 +1109,7 @@
           },
           {
             "file": "corpus_systems.md",
-            "count": 4,
+            "count": 5,
             "anchors": []
           }
         ]
@@ -1245,7 +1254,7 @@
           },
           {
             "file": "core_05a_accountability_definitions.md",
-            "count": 70,
+            "count": 71,
             "anchors": [
               "#accountability",
               "#adjudication-and-dispute-resolution-constitutional",
@@ -1279,6 +1288,7 @@
               "#harassment-and-bullying",
               "#harm",
               "#harm-minimization-tradeoff-selection",
+              "#insider-advantage",
               "#irreversible-deprivation-measure-constitutional",
               "#irreversible-harm",
               "#merits-determination",
@@ -1955,7 +1965,7 @@
           },
           {
             "file": "core_01_b_stewardship_capacity_principles.md",
-            "count": 71,
+            "count": 72,
             "anchors": [
               "#101-required-evaluation-factors",
               "#11-freedom-bounded-agency",
@@ -1991,7 +2001,7 @@
           },
           {
             "file": "core_05a_accountability_definitions.md",
-            "count": 391,
+            "count": 409,
             "anchors": [
               "#accountability",
               "#accountability-contestability-semi-independent",
@@ -2023,6 +2033,7 @@
               "#harassment-and-bullying",
               "#harm",
               "#harm-minimization-tradeoff-selection",
+              "#insider-advantage",
               "#irreversible-deprivation-measure-constitutional",
               "#irreversible-harm",
               "#merits-determination",
@@ -2093,7 +2104,7 @@
           },
           {
             "file": "core_05i_integrative_definitions.md",
-            "count": 19,
+            "count": 20,
             "anchors": [
               "#accountability-contestability-and-collective-accountability-failure-cluster",
               "#constitutional-constraint-violation",
@@ -2105,7 +2116,7 @@
           },
           {
             "file": "core_05o_oversight_definitions.md",
-            "count": 97,
+            "count": 103,
             "anchors": [
               "#adversarial-scaled-and-exploited-conditions",
               "#auditability",
@@ -2126,7 +2137,7 @@
           },
           {
             "file": "core_05p_participation_definitions.md",
-            "count": 94,
+            "count": 96,
             "anchors": [
               "#coercion-and-manipulation-constitutional",
               "#collective-harm-boundary-and-harm-cluster",
@@ -2300,7 +2311,7 @@
           },
           {
             "file": "core_01_b_stewardship_capacity_principles.md",
-            "count": 81,
+            "count": 83,
             "anchors": [
               "#101-required-evaluation-factors",
               "#1014-voluntary-discontinuation-and-exit-rights",
@@ -2309,6 +2320,7 @@
               "#62-distributed-understanding",
               "#7-governance-under-stewardship-discipline",
               "#72-short-horizon-governance-defects",
+              "#73-alignment-requirement",
               "#74-openness-aspiration",
               "#74-stewardship-and-operator-incentive-alignment",
               "#8-shared-system-capacity",
@@ -2583,14 +2595,15 @@
           },
           {
             "file": "core_01_b_stewardship_capacity_principles.md",
-            "count": 10,
+            "count": 11,
             "anchors": [
               "#101-required-evaluation-factors",
               "#11-freedom-bounded-agency",
               "#13-integrated-application",
               "#7-governance-under-stewardship-discipline",
+              "#73-alignment-requirement",
+              "#732-misalignment-correction-and-capture-response",
               "#74-stewardship-and-operator-incentive-alignment",
-              "#76-misalignment-correction-and-capture-response",
               "#9-interaction-and-conflict-resolution"
             ]
           },
@@ -2604,7 +2617,7 @@
           },
           {
             "file": "core_05a_accountability_definitions.md",
-            "count": 30,
+            "count": 31,
             "anchors": [
               "#capture-of-resolution-pathways",
               "#contestability",
@@ -2616,6 +2629,7 @@
               "#governance",
               "#governance-architecture-oversight-decentralization-and-concentration-cluster",
               "#harm",
+              "#insider-advantage",
               "#necessity",
               "#proportionality"
             ]

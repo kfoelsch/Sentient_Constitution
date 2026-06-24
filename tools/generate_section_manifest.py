@@ -27,7 +27,10 @@ def manifest_for(path: Path) -> dict:
     lines = path.read_text(encoding="utf-8").splitlines()
     sections: list[dict] = []
     pending_anchor: str | None = None
+    consumed_anchor_lines: set[int] = set()
     for idx, line in enumerate(lines, start=1):
+        if idx in consumed_anchor_lines:
+            continue
         anchor = ANCHOR_RE.match(line.strip())
         if anchor:
             pending_anchor = f"#{anchor.group(1)}"
@@ -35,13 +38,23 @@ def manifest_for(path: Path) -> dict:
         heading = HEADING_RE.match(line.strip())
         if not heading:
             continue
+        section_anchor = pending_anchor
+        for lookahead_idx in range(idx + 1, len(lines) + 1):
+            lookahead_line = lines[lookahead_idx - 1].strip()
+            if not lookahead_line:
+                continue
+            following_anchor = ANCHOR_RE.match(lookahead_line)
+            if following_anchor:
+                section_anchor = f"#{following_anchor.group(1)}"
+                consumed_anchor_lines.add(lookahead_idx)
+            break
         sections.append(
             {
                 "header": heading.group(2).strip(),
                 "level": len(heading.group(1)),
                 "line_start": idx,
                 "line_end": len(lines),
-                "anchor": pending_anchor,
+                "anchor": section_anchor,
             }
         )
         pending_anchor = None
