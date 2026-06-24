@@ -59,7 +59,7 @@ Adopted governance implementation provides escalation, proportionality of interv
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [4.1 Safety](core_01_a_values_principles.md#31-safety-harm-constraint), [9.4 Rights-Collision Procedure](core_01_a_values_principles.md#64-rights-collision-procedure), and [13. Integrated Application](core_01_b_stewardship_capacity_principles.md#16-integrated-application).
+- Upstream: Principles: Chapter One [4.1 Safety](core_01_a_values_principles.md#31-safety-harm-constraint), [Chapter One §6.3 Rights-Collision Procedure](core_01_a_values_principles.md#63-rights-collision-procedure), and [13. Integrated Application](core_01_b_stewardship_capacity_principles.md#16-integrated-application).
 
 </details>
 
@@ -87,7 +87,7 @@ Adopted governance implementation provides escalation, proportionality of interv
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [4.1 Safety](core_01_a_values_principles.md#31-safety-harm-constraint), [10.1 Core Tradeoff Principles](core_01_a_values_principles.md#61-core-tradeoff-principles), and [9.4 Rights-Collision Procedure](core_01_a_values_principles.md#64-rights-collision-procedure).
+- Upstream: Principles: Chapter One [4.1 Safety](core_01_a_values_principles.md#31-safety-harm-constraint), [10.1 Core Tradeoff Principles](core_01_a_values_principles.md#61-core-tradeoff-principles), and [Chapter One §6.3 Rights-Collision Procedure](core_01_a_values_principles.md#63-rights-collision-procedure).
 
 </details>
 
@@ -145,7 +145,7 @@ Adopted governance implementation provides escalation, proportionality of interv
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [10.1 Core Tradeoff Principles](core_01_a_values_principles.md#61-core-tradeoff-principles), [9.4 Rights-Collision Procedure](core_01_a_values_principles.md#64-rights-collision-procedure), and [8. Prohibition on Absolute Override](#7-prohibition-on-absolute-override).
+- Upstream: Principles: Chapter One [10.1 Core Tradeoff Principles](core_01_a_values_principles.md#61-core-tradeoff-principles), [Chapter One §6.3 Rights-Collision Procedure](core_01_a_values_principles.md#63-rights-collision-procedure), and [8. Prohibition on Absolute Override](#7-prohibition-on-absolute-override).
 
 </details>
 
@@ -198,7 +198,7 @@ Adopted governance implementation provides escalation, proportionality of interv
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [4.1 Safety](core_01_a_values_principles.md#31-safety-harm-constraint), [10.1 Core Tradeoff Principles](core_01_a_values_principles.md#61-core-tradeoff-principles), and [9.4 Rights-Collision Procedure](core_01_a_values_principles.md#64-rights-collision-procedure).
+- Upstream: Principles: Chapter One [4.1 Safety](core_01_a_values_principles.md#31-safety-harm-constraint), [10.1 Core Tradeoff Principles](core_01_a_values_principles.md#61-core-tradeoff-principles), and [Chapter One §6.3 Rights-Collision Procedure](core_01_a_values_principles.md#63-rights-collision-procedure).
 
 </details>
 
@@ -279,7 +279,7 @@ Adopted governance implementation provides escalation, proportionality of interv
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [9.4 Rights-Collision Procedure](core_01_a_values_principles.md#64-rights-collision-procedure), [8. Prohibition on Absolute Override](#7-prohibition-on-absolute-override), and [13. Integrated Application](core_01_b_stewardship_capacity_principles.md#16-integrated-application).
+- Upstream: Principles: Chapter One [Chapter One §6.3 Rights-Collision Procedure](core_01_a_values_principles.md#63-rights-collision-procedure), [8. Prohibition on Absolute Override](#7-prohibition-on-absolute-override), and [13. Integrated Application](core_01_b_stewardship_capacity_principles.md#16-integrated-application).
 
 </details>
 
@@ -296,7 +296,7 @@ Adopted governance implementation provides escalation, proportionality of interv
 
 *In plain terms: rights conflicts must be resolved on the record; restoration is preferred where appropriate but must not replace real protection; and public apology must always be voluntary and non-degrading.*
 
-- **Rights-collision procedure:** Where rights conflicts are material, forums and governing bodies must apply **Chapter One §3.4.1** (*Rights-Collision Decision Test*).
+- **Rights-collision procedure:** Where rights conflicts are material, forums and governing bodies must apply **Chapter One §6.3.1** (*Rights-Collision Decision Test*).
   - Records must explicitly identify:
     - rights in tension;
     - rejected alternatives;
@@ -325,7 +325,7 @@ Adopted governance implementation provides escalation, proportionality of interv
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [§13.2 Constitutional Efficiency](core_01_b_stewardship_capacity_principles.md#132-constitutional-efficiency), [Chapter One §8.1.4 Minimization of Avoidable Burden](core_01_a_values_principles.md#614-minimization-of-avoidable-burden), and [Chapter One §6.4 Rights-Collision Procedure](core_01_a_values_principles.md#64-rights-collision-procedure); [Chapters Six–Nine constitutional compass](core_06-06_standing_assessment.md#chapters-six-nine-constitutional-compass) (*standing, integration, and forum coordination pipeline*).
+- Upstream: Principles: Chapter One [§13.2 Constitutional Efficiency](core_01_b_stewardship_capacity_principles.md#132-constitutional-efficiency), [Chapter One §6.1.2 Minimization of Avoidable Burden](core_01_a_values_principles.md#612-minimization-of-avoidable-burden), and [Chapter One §6.3 Rights-Collision Procedure](core_01_a_values_principles.md#63-rights-collision-procedure); [Chapters Six–Nine constitutional compass](core_06-06_standing_assessment.md#chapters-six-nine-constitutional-compass) (*standing, integration, and forum coordination pipeline*).
 
 </details>
 
@@ -561,7 +561,7 @@ Transitional governance exists to secure continuity and non-regression. It must 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [4.1 Safety](core_01_a_values_principles.md#31-safety-harm-constraint), [9.4 Rights-Collision Procedure](core_01_a_values_principles.md#64-rights-collision-procedure), and [11.1 Required Evaluation Factors](core_01_b_stewardship_capacity_principles.md#151-required-evaluation-factors).
+- Upstream: Principles: Chapter One [4.1 Safety](core_01_a_values_principles.md#31-safety-harm-constraint), [Chapter One §6.3 Rights-Collision Procedure](core_01_a_values_principles.md#63-rights-collision-procedure), and [11.1 Required Evaluation Factors](core_01_b_stewardship_capacity_principles.md#151-required-evaluation-factors).
 - Read with: **Article III-A**; **Article XII**; **Article X-B**; **Chapter Six**; **Chapter One**, including §6 rights-collision procedure; the **default constraint stack** at the opening of Chapter Ten (*possession and remediation interface*).
 
 </details>
@@ -616,7 +616,7 @@ Transitional governance exists to secure continuity and non-regression. It must 
   - meaningful agency.
 
   An exception applies only where:
-  - **Necessity** is documented under **Chapter One §6.4**;
+  - **Necessity** is documented under **Chapter One §6.3**;
   - **timely substitute provision** is feasible where required.
 - **Implementation custody:** The following belong in **`corpus_institutions.md` CI-14** (*Transitional governance and institutional evolution*) and adopting instruments, and must **not** narrow **Chapter Ten** or **Chapter Six** meaning:
   - triggers;

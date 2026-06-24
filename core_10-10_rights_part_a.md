@@ -37,7 +37,7 @@ Articles need not repeat this stack where it applies generically.
 **Interpretive hubs.** Unless a more specific article supplies a different rule, the following anchors govern recurring themes:
 - **challenge, review, and proportionate remediation** — **Article XII-B** and Chapter Five (*Redress and Remediation*)
 - **audit records and independent verification** — **Article XV** together with **Chapters Two through Four**
-- **justice, restitution, restriction boundaries, emergencies, and adjudicated rights collision** — **Article XXIII** and **Chapter One**, [Chapter One §6.4.1 Rights-Collision Decision Test](#641-rights-collision-decision-test)
+- **justice, restitution, restriction boundaries, emergencies, and adjudicated rights collision** — **Article XXIII** and **Chapter One**, [Chapter One §6.3.1 Rights-Collision Decision Test](#631-rights-collision-decision-test)
 
 Shorter cross-references to those themes elsewhere in this chapter incorporate these anchors.
 

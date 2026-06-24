@@ -64,7 +64,7 @@ The principles of this Article constrain all interpretation, design, and operati
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [Chapter One §8.1 Fairness](core_01_a_values_principles.md#21-fairness), [Chapter One §5 Freedom](#5-freedom-bounded-agency)-bounded-agency), [10.1 Core Tradeoff Principles](core_01_a_values_principles.md#61-core-tradeoff-principles), and [9.4 Rights-Collision Procedure](core_01_a_values_principles.md#64-rights-collision-procedure).
+- Upstream: Principles: Chapter One [Chapter One §8.1 Fairness](core_01_a_values_principles.md#21-fairness), [Chapter One §5 Freedom](#5-freedom-bounded-agency)-bounded-agency), [10.1 Core Tradeoff Principles](core_01_a_values_principles.md#61-core-tradeoff-principles), and [Chapter One §6.3 Rights-Collision Procedure](core_01_a_values_principles.md#63-rights-collision-procedure).
 
 </details>
 
@@ -114,7 +114,7 @@ The principles of this Article constrain all interpretation, design, and operati
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [4.1 Safety](core_01_a_values_principles.md#31-safety-harm-constraint), [Chapter One §5 Freedom](#5-freedom-bounded-agency)-bounded-agency), and [9.4 Rights-Collision Procedure](core_01_a_values_principles.md#64-rights-collision-procedure).
+- Upstream: Principles: Chapter One [4.1 Safety](core_01_a_values_principles.md#31-safety-harm-constraint), [Chapter One §5 Freedom](#5-freedom-bounded-agency)-bounded-agency), and [Chapter One §6.3 Rights-Collision Procedure](core_01_a_values_principles.md#63-rights-collision-procedure).
 
 </details>
 
@@ -148,7 +148,7 @@ The principles of this Article constrain all interpretation, design, and operati
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [Chapter One §5 Freedom](#5-freedom-bounded-agency)-bounded-agency), [10.1 Core Tradeoff Principles](core_01_a_values_principles.md#61-core-tradeoff-principles), and [9.4 Rights-Collision Procedure](core_01_a_values_principles.md#64-rights-collision-procedure).
+- Upstream: Principles: Chapter One [Chapter One §5 Freedom](#5-freedom-bounded-agency)-bounded-agency), [10.1 Core Tradeoff Principles](core_01_a_values_principles.md#61-core-tradeoff-principles), and [Chapter One §6.3 Rights-Collision Procedure](core_01_a_values_principles.md#63-rights-collision-procedure).
 
 </details>
 
@@ -352,7 +352,7 @@ The principles of this Article constrain all interpretation, design, and operati
   - venue choice;
   - access-gating via compute, credentialing, or comparable means.
   
-  **Article III-B** (educational accessibility), **Article III-C** (healthcare non-denial-by-proxy), **Article V-C** (full inclusion), and this Article are mutually reinforcing. Conflicts resolve under **Chapter One §3.4.1** without narrowing any floor.
+  **Article III-B** (educational accessibility), **Article III-C** (healthcare non-denial-by-proxy), **Article V-C** (full inclusion), and this Article are mutually reinforcing. Conflicts resolve under **Chapter One §6.3.1** without narrowing any floor.
 - **Non-conflation:** This Article states cross-cutting accessibility Rights-Floor discipline.
   - **Article III-B** owns education-specific accessibility (non-narrowed by this Article).
   - **Chapter One §14.1** states the cross-cutting evaluation-factor treatment.
@@ -396,7 +396,7 @@ The principles of this Article constrain all interpretation, design, and operati
   - Press and journalistic activity are governed by function, not by credential or institutional status.
 - **Limitations discipline:** Limitations on expression, assembly, or press must satisfy **Chapter One §5.1** limitation discipline: **Necessity**, **Proportionality**, narrow tailoring, and least-restrictive-effective means.
   - Content-based restriction is subject to the highest scrutiny.
-  - Viewpoint-based restriction is prohibited absent satisfaction of the **Article V-B** non-discrimination floor and **Chapter One §3.4.1** genuine-rights-collision resolution.
+  - Viewpoint-based restriction is prohibited absent satisfaction of the **Article V-B** non-discrimination floor and **Chapter One §6.3.1** genuine-rights-collision resolution.
   - Restrictions must not turn on **Protected Characteristics** or on their material proxies.
 - **Anti-chilling discipline:** Measures that do not formally restrict expression, assembly, or press but that materially chill them are evaluated on substantive effect, not formal design — consistent with **Chapter One §5** *Trust* and **Article IX-A** freedom-from-manipulation. Examples in scope:
   - disproportionate surveillance;
@@ -409,7 +409,7 @@ The principles of this Article constrain all interpretation, design, and operati
   - Where **Article VIII-C** and this Article interact, the lawful critical-reporting floor controls against read-ups that would convert good-faith standards into a shield against criticism.
 - **Non-conflation:** This Article states a Rights Floor.
   - Implementation specifics — licensing regimes, accreditation systems, broadcast or platform-carriage rules, content-moderation procedures, runtime-assembly allocation protocols — route to incorporated implementation text under **Chapter Fifteen** and must not narrow this floor.
-  - Conflicts with **Article X-A** cooperative-interaction consent rules, **Article XI** stakeholder-participation rights, **Article XIV** info-sphere / epistemic-integrity obligations, **Article XV-A** auditability obligations, and the **Article XIII-A** protected-activity shield resolve under **Chapter One §3.4.1** without narrowing any.
+  - Conflicts with **Article X-A** cooperative-interaction consent rules, **Article XI** stakeholder-participation rights, **Article XIV** info-sphere / epistemic-integrity obligations, **Article XV-A** auditability obligations, and the **Article XIII-A** protected-activity shield resolve under **Chapter One §6.3.1** without narrowing any.
 
 ### Article VI: Right to Sentient-Centered Education
 
@@ -503,7 +503,7 @@ Once survival is secured, sentients must be able to direct their own lives and b
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [Chapter One §5 Freedom](#5-freedom-bounded-agency)-bounded-agency), [§5.1 Limitation Discipline](core_01_a_values_principles.md#51-limitation-discipline), and [9.4 Rights-Collision Procedure](core_01_a_values_principles.md#64-rights-collision-procedure).
+- Upstream: Principles: Chapter One [Chapter One §5 Freedom](#5-freedom-bounded-agency)-bounded-agency), [§5.1 Limitation Discipline](core_01_a_values_principles.md#51-limitation-discipline), and [Chapter One §6.3 Rights-Collision Procedure](core_01_a_values_principles.md#63-rights-collision-procedure).
 
 </details>
 
@@ -792,7 +792,7 @@ Likeness, reputation in the info-sphere, experiential and derived data, and outw
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [Chapter One §5 Freedom](#5-freedom-bounded-agency)-bounded-agency), [9.2 Epistemic Disclosure Constraints](core_01_a_values_principles.md#62-epistemic-disclosure-constraints), and [9.4 Rights-Collision Procedure](core_01_a_values_principles.md#64-rights-collision-procedure).
+- Upstream: Principles: Chapter One [Chapter One §5 Freedom](#5-freedom-bounded-agency)-bounded-agency), [9.2 Epistemic Disclosure Constraints](core_01_a_values_principles.md#62-epistemic-disclosure-constraints), and [Chapter One §6.3 Rights-Collision Procedure](core_01_a_values_principles.md#63-rights-collision-procedure).
 
 </details>
 
@@ -883,7 +883,7 @@ All use, storage, transformation, and disclosure of such data must remain subjec
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [4.2 Truth](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [Chapter One §5 Freedom](#5-freedom-bounded-agency)-bounded-agency), [§13.1 Productive Capacity (Instrumental Good)](core_01_b_stewardship_capacity_principles.md#131-productive-capacity-instrumental-good), [10.1.4 Minimization of Avoidable Burden](core_01_a_values_principles.md#614-minimization-of-avoidable-burden), [11.1 Required Evaluation Factors](core_01_b_stewardship_capacity_principles.md#151-required-evaluation-factors), and [§12 Governance Under Stewardship Discipline](core_01_b_stewardship_capacity_principles.md#12-governance-under-stewardship-discipline).
+- Upstream: Principles: Chapter One [4.2 Truth](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [Chapter One §5 Freedom](#5-freedom-bounded-agency)-bounded-agency), [§13.1 Productive Capacity (Instrumental Good)](core_01_b_stewardship_capacity_principles.md#131-productive-capacity-instrumental-good), [Chapter One §6.1.2 Minimization of Avoidable Burden](core_01_a_values_principles.md#612-minimization-of-avoidable-burden), [11.1 Required Evaluation Factors](core_01_b_stewardship_capacity_principles.md#151-required-evaluation-factors), and [§12 Governance Under Stewardship Discipline](core_01_b_stewardship_capacity_principles.md#12-governance-under-stewardship-discipline).
 - Downstream: **Article III-D** labor-and-economic floor; **Article VIII-A** likeness; **Article VIII-B** experiential and derived data; **Article VIII-C** publication; **Chapter One §9** non-concentration and **§11.3** concentration-threshold mechanism.
 - Read with: [Chapter Five Chapter One §8.16 *Labor and Economic Floor: Compensation, Organization, Safe Conditions, Leisure, and Creative Work*](core_05i_integrative_definitions.md#labor-and-economic-floor-cluster) (joint invocation with **Article III-D** and [Chapter Five §3.7 *Privacy (Informational)*](core_05a_accountability_definitions.md#privacy-informational-cluster) where materially implicated).
 
@@ -929,7 +929,7 @@ All use, storage, transformation, and disclosure of such data must remain subjec
 - **§6 / §11.3 interaction:** Creative-work markets that concentrate material, platform, information-sphere, or capability control in ways that predictably degrade the creative-labor livelihoods or attribution structures of other sentients engage **Chapter One §9** non-concentration and the **[§11.3](core_01_b_stewardship_capacity_principles.md#141-concentration-threshold-mechanism-adopter-tunable)** concentration-threshold mechanism.
   - Productive-capacity framing does not satisfy this Article where the pattern exhibits the prohibited concentration.
 - **Publication discipline preserved:** **Article VIII-A** (likeness), **Article VIII-B** (experiential data), and **Article VIII-C** (publication) retain their operative scope. **Article VIII-D** does not narrow them.
-  - Where creative-work matters materially implicate likeness, experiential data, or publication discipline, **Article VIII-A / VIII-B / VIII-C** apply jointly with **Article VIII-D** under **Chapter One §3.4.1**.
+  - Where creative-work matters materially implicate likeness, experiential data, or publication discipline, **Article VIII-A / VIII-B / VIII-C** apply jointly with **Article VIII-D** under **Chapter One §6.3.1**.
 - **Non-conflation:** **Article VIII-D** states a creative-labor, training-data, and anti-displacement floor.
   - It does not constitute authority over copyright, trademark, patent, or other adopter-specified intellectual-property regimes; those regimes operate within this floor.
   - Narrowing this floor under adopter-specified IP-regime framing is non-compliant.
@@ -985,7 +985,7 @@ Self-determination is valid only within the bounds stated in **Chapter One**: sa
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [Chapter One §5 Freedom](#5-freedom-bounded-agency)-bounded-agency), [9.4 Rights-Collision Procedure](core_01_a_values_principles.md#64-rights-collision-procedure), and [11.1 Required Evaluation Factors](core_01_b_stewardship_capacity_principles.md#151-required-evaluation-factors).
+- Upstream: Principles: Chapter One [Chapter One §5 Freedom](#5-freedom-bounded-agency)-bounded-agency), [Chapter One §6.3 Rights-Collision Procedure](core_01_a_values_principles.md#63-rights-collision-procedure), and [11.1 Required Evaluation Factors](core_01_b_stewardship_capacity_principles.md#151-required-evaluation-factors).
 
 </details>
 
@@ -1030,7 +1030,7 @@ Self-determination is valid only within the bounds stated in **Chapter One**: sa
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [Chapter One §5 Freedom](#5-freedom-bounded-agency)-bounded-agency), [9.4 Rights-Collision Procedure](core_01_a_values_principles.md#64-rights-collision-procedure), and [13. Integrated Application](core_01_b_stewardship_capacity_principles.md#16-integrated-application).
+- Upstream: Principles: Chapter One [Chapter One §5 Freedom](#5-freedom-bounded-agency)-bounded-agency), [Chapter One §6.3 Rights-Collision Procedure](core_01_a_values_principles.md#63-rights-collision-procedure), and [13. Integrated Application](core_01_b_stewardship_capacity_principles.md#16-integrated-application).
 
 </details>
 
@@ -1061,7 +1061,7 @@ Self-determination is valid only within the bounds stated in **Chapter One**: sa
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [Chapter One §5 Freedom](#5-freedom-bounded-agency)-bounded-agency), [9.4 Rights-Collision Procedure](core_01_a_values_principles.md#64-rights-collision-procedure), and [13. Integrated Application](core_01_b_stewardship_capacity_principles.md#16-integrated-application).
+- Upstream: Principles: Chapter One [Chapter One §5 Freedom](#5-freedom-bounded-agency)-bounded-agency), [Chapter One §6.3 Rights-Collision Procedure](core_01_a_values_principles.md#63-rights-collision-procedure), and [13. Integrated Application](core_01_b_stewardship_capacity_principles.md#16-integrated-application).
 - Read with: **[corpus_systems.md](corpus_systems.md), CS-4 — System classification and handling** for **Class P** (personal, private-use, isolated, and experimental **mode**): operational retention, boundaries, and scaling.
 
 </details>
@@ -1191,7 +1191,7 @@ To maintain a rewarding and purposeful constitutional community, we agree to pro
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [4.1 Safety](core_01_a_values_principles.md#31-safety-harm-constraint), [10.1 Core Tradeoff Principles](core_01_a_values_principles.md#61-core-tradeoff-principles), and [9.4 Rights-Collision Procedure](core_01_a_values_principles.md#64-rights-collision-procedure).
+- Upstream: Principles: Chapter One [4.1 Safety](core_01_a_values_principles.md#31-safety-harm-constraint), [10.1 Core Tradeoff Principles](core_01_a_values_principles.md#61-core-tradeoff-principles), and [Chapter One §6.3 Rights-Collision Procedure](core_01_a_values_principles.md#63-rights-collision-procedure).
 
 </details>
 
@@ -1366,7 +1366,7 @@ Stakeholders identified under **Chapter Five** must have participation and repre
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [4.2 Truth](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [9.4 Rights-Collision Procedure](core_01_a_values_principles.md#64-rights-collision-procedure), and [§12 Governance Under Stewardship Discipline](core_01_b_stewardship_capacity_principles.md#12-governance-under-stewardship-discipline).
+- Upstream: Principles: Chapter One [4.2 Truth](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [Chapter One §6.3 Rights-Collision Procedure](core_01_a_values_principles.md#63-rights-collision-procedure), and [§12 Governance Under Stewardship Discipline](core_01_b_stewardship_capacity_principles.md#12-governance-under-stewardship-discipline).
 
 </details>
 

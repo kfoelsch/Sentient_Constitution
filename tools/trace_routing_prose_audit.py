@@ -6,7 +6,8 @@ belongs inside the owning unit's Trace block. Operative prose must not carry
 parallel ``**Also read**`` (or equivalent) routing sections with bullet lists,
 standalone ``Read it with:`` headers followed by routing bullets, nor
 line-initial ``Read with`` / ``**Read with**`` routing (with or without a
-colon) outside Trace.
+colon) outside Trace. Standalone ``#### … Read-with: …`` subsection headings
+and line-initial ``Read [`` cross-link routing are also forbidden outside Trace.
 
 Disguised read-with routing in operative prose is also forbidden — for example
 ``Read them with …``, ``… must be read with …``, or ``… also read **§…**``
@@ -46,7 +47,11 @@ DISGUISED_READ_WITH_LINE_RES = (
     re.compile(r"^Read them with\b", re.IGNORECASE),
     re.compile(r"^Each .+\bmust be read with\b", re.IGNORECASE),
     re.compile(r";\s*where .+\balso read \*\*", re.IGNORECASE),
+    re.compile(r"^Read \[", re.IGNORECASE),
 )
+
+# Standalone read-with subsection headings belong in Trace, not as operative headings.
+READ_WITH_HEADING_RE = re.compile(r"^#{1,6}\s+.*\bRead-with:", re.IGNORECASE)
 
 
 def parse_args() -> argparse.Namespace:
@@ -82,6 +87,13 @@ def audit_file(path: Path, root: Path) -> list[str]:
         if in_details:
             continue
         if stripped.startswith(">"):
+            continue
+
+        if READ_WITH_HEADING_RE.match(stripped):
+            findings.append(
+                f"{rel}:{idx}: move read-with routing into Trace ``Read with:`` "
+                f"(operative headings must not use {stripped!r})"
+            )
             continue
 
         for pattern in FORBIDDEN_ROUTING_PROSE_RES:

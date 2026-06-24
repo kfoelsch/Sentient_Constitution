@@ -187,7 +187,7 @@ Operational transparency and structured logging requirements
 - Read with: **CJS-5.4 — Tiered Transparency and Audit Access**
 - Read with: **CJS-5.3 — Auditability**
 - Read with: **CJS-5.20** (*Continuity: reversibility and containment terms*) and **CJS-5.18** (*Continuity: data-retention and lifecycle-integrity terms*) — Reversibility and Containment
-- Read with: **Chapter One §6.4.1 — Rights-Collision Decision Test**
+- Read with: **Chapter One §6.3.1 — Rights-Collision Decision Test**
 - Read with: **`corpus_forum.md` CF-12 through CF-14 — Forum continuity, fallback operation, and emergency adjudication**
 - Read with: **Article XV-A**
 - Read with: **Article VII-B**

@@ -234,7 +234,7 @@ Participant-facing disclosure during degraded and recovering operation must accu
 
 **Root-cause closure discipline:** Self-healing that succeeds operationally but leaves a known defective condition in place is a conditional state, not a final one. Operators must maintain an **open root-cause obligations register** recording recurring fault classes, confidence levels, material uncertainties, and disclosed expected-closure timeline per **Article XV-A**.
 
-Recurrence of the same fault class across cycles must be treated as a single open root-cause obligation and not as closure of each incident. Reducing operator burden consistent with **Avoidable Burden** under **Chapter One §14.1.4** must not be used to defer indefinite closure of defects that materially affect safety or the Rights Floor.
+Recurrence of the same fault class across cycles must be treated as a single open root-cause obligation and not as closure of each incident. Reducing operator burden consistent with **Avoidable Burden** under **Chapter One §6.1.2** must not be used to defer indefinite closure of defects that materially affect safety or the Rights Floor.
 
 **High-autonomy recovery (Article XII-E pointer):** Autonomous recovery by high-autonomy systems is subject to **Article XII-E**. Recovery authority must not be used to bypass [Contestability](../core_05a_accountability_definitions.md#contestability), challenge under **Article XII-B**, or independent verification under **Article XV-A** and Article XV's verification-access provisions. Internalization of contestability intake, audit-event emission, or external-review pathways during recovery is prohibited; such channels must remain materially external or independently verifiable.
 

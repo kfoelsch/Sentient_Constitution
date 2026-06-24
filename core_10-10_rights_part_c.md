@@ -78,7 +78,7 @@ Trustworthiness must be evaluated across time, scale, and dependency relationshi
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [4.1 Safety](core_01_a_values_principles.md#31-safety-harm-constraint), [4.2 Truth](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), and [9.4 Rights-Collision Procedure](core_01_a_values_principles.md#64-rights-collision-procedure).
+- Upstream: Principles: Chapter One [4.1 Safety](core_01_a_values_principles.md#31-safety-harm-constraint), [4.2 Truth](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), and [Chapter One §6.3 Rights-Collision Procedure](core_01_a_values_principles.md#63-rights-collision-procedure).
 
 </details>
 
@@ -179,7 +179,7 @@ Trustworthiness must be evaluated across time, scale, and dependency relationshi
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [4.2 Truth](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [9.4 Rights-Collision Procedure](core_01_a_values_principles.md#64-rights-collision-procedure), and [§12 Governance Under Stewardship Discipline](core_01_b_stewardship_capacity_principles.md#12-governance-under-stewardship-discipline).
+- Upstream: Principles: Chapter One [4.2 Truth](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [Chapter One §6.3 Rights-Collision Procedure](core_01_a_values_principles.md#63-rights-collision-procedure), and [§12 Governance Under Stewardship Discipline](core_01_b_stewardship_capacity_principles.md#12-governance-under-stewardship-discipline).
 
 </details>
 
@@ -213,7 +213,7 @@ Trustworthiness must be evaluated across time, scale, and dependency relationshi
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [4.1 Safety](core_01_a_values_principles.md#31-safety-harm-constraint), [4.2 Truth](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [5. Trust](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity), [4.1 Resilience and Self-Healing Design](core_01_a_values_principles.md#41-resilience-and-self-healing-design), [10.1.4 Minimization of Avoidable Burden](core_01_a_values_principles.md#614-minimization-of-avoidable-burden), and [11.1 Required Evaluation Factors](core_01_b_stewardship_capacity_principles.md#151-required-evaluation-factors).
+- Upstream: Principles: Chapter One [4.1 Safety](core_01_a_values_principles.md#31-safety-harm-constraint), [4.2 Truth](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [5. Trust](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity), [4.1 Resilience and Self-Healing Design](core_01_a_values_principles.md#41-resilience-and-self-healing-design), [Chapter One §6.1.2 Minimization of Avoidable Burden](core_01_a_values_principles.md#612-minimization-of-avoidable-burden), and [11.1 Required Evaluation Factors](core_01_b_stewardship_capacity_principles.md#151-required-evaluation-factors).
 
 </details>
 
@@ -252,7 +252,7 @@ Trustworthiness must be evaluated across time, scale, and dependency relationshi
   - an open root-cause obligation under **Article XXI**;
   - a disclosed expected-closure timeline under **Article XV-A**.
   
-  Reducing operator burden consistent with [Avoidable Burden](core_05c_continuity_definitions.md#avoidable-burden) under **Chapter One §14.1.4** must not be used to defer indefinite closure of defects that materially affect safety or the Rights Floor.
+  Reducing operator burden consistent with [Avoidable Burden](core_05c_continuity_definitions.md#avoidable-burden) under **Chapter One §6.1.2** must not be used to defer indefinite closure of defects that materially affect safety or the Rights Floor.
 
 ### Article XIII: Security, Intelligence, Force, and Autonomous Coercive Systems
 
@@ -273,7 +273,7 @@ This Article states the Rights-Floor for **exceptional institutional power**: co
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [4.1 Safety](core_01_a_values_principles.md#31-safety-harm-constraint), [§5.1 Limitation Discipline](core_01_a_values_principles.md#51-limitation-discipline), and [9.4 Rights-Collision Procedure](core_01_a_values_principles.md#64-rights-collision-procedure).
+- Upstream: Principles: Chapter One [4.1 Safety](core_01_a_values_principles.md#31-safety-harm-constraint), [§5.1 Limitation Discipline](core_01_a_values_principles.md#51-limitation-discipline), and [Chapter One §6.3 Rights-Collision Procedure](core_01_a_values_principles.md#63-rights-collision-procedure).
 
 </details>
 
@@ -363,7 +363,7 @@ This Article states the Rights-Floor for **exceptional institutional power**: co
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [4.1 Safety](core_01_a_values_principles.md#31-safety-harm-constraint), [8.1.2 Necessity](core_01_a_values_principles.md#612-necessity), [§5.1 Limitation Discipline](core_01_a_values_principles.md#51-limitation-discipline), [5.4.1 Rights-Collision Decision Test](#641-rights-collision-decision-test), [8. Prohibition on Absolute Override](#7-prohibition-on-absolute-override).
+- Upstream: Principles: Chapter One [4.1 Safety](core_01_a_values_principles.md#31-safety-harm-constraint), [8.1.2 Necessity](core_01_a_values_principles.md#612-necessity), [§5.1 Limitation Discipline](core_01_a_values_principles.md#51-limitation-discipline), [§6.3.1 Rights-Collision Decision Test](#631-rights-collision-decision-test), [8. Prohibition on Absolute Override](#7-prohibition-on-absolute-override).
 - Downstream: **Article I-A** environmental preconditions, **Article I-D** existential-risk scrutiny, **Article V-A** dignity, **Article XIII-A** covert-power limits (overt-power counterpart), **Article XXIII-D** emergency-measure limits, **Article XXIII** conflict resolution, **Article XXV** transition governance. Cross-reference: **Article XXIII-B** (*Categorical prohibition of irreversible deprivation of life as a justice measure*) and Chapter Five *[Irreversible Deprivation Measure](core_05a_accountability_definitions.md#irreversible-deprivation-measure-constitutional)* — this article does not create, extend, or predicate irreversible deprivation-measure authority; see *Non-Conflation* below.
 - Read with: [Chapter Five Chapter One §8.16 *Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm*](core_05a_accountability_definitions.md#use-of-force-autonomous-coercion-and-mass-harm-cluster) (joint invocation where materially implicated); Chapter Five *Use of Force*, *Weapons of Mass Harm*, *Combatant / Non-Combatant Distinction*, *[Irreversible Deprivation Measure](core_05a_accountability_definitions.md#irreversible-deprivation-measure-constitutional)*, *Existential Risk*, *Reversibility*, *Redress and Remediation*.
 
@@ -392,7 +392,7 @@ This Article states the Rights-Floor for **exceptional institutional power**: co
   - less harmful means are not reasonably sufficient;
   - the use remains necessary, proportionate, time-bounded, and independently reviewable.
   
-  Authorization must satisfy **Chapter One §3.4.1** rights-collision discipline where force implicates rights in tension. It must not treat the **Article VIII** prohibition on absolute override as escapable on operational-convenience grounds.
+  Authorization must satisfy **Chapter One §6.3.1** rights-collision discipline where force implicates rights in tension. It must not treat the **Article VIII** prohibition on absolute override as escapable on operational-convenience grounds.
 - **Combatant / non-combatant distinction:** Force must discriminate between sentients taking direct part in hostilities or armed action and sentients who are not.
   - The distinction is substantive, not reducible to formal combatant-class assignment.
   - Generalized taxonomy-of-convenience reclassifications that sweep protected populations into combatant status are non-compliant.
@@ -471,7 +471,7 @@ This Article states the Rights-Floor for **exceptional institutional power**: co
   - Framings that treat such systems as ordinary capability-expansion rather than as **Article I-D** objects are non-compliant.
 - **Systems-layer interaction:** Operational classification, reliability, and **CS-4 — System classification and handling** class-scaled governance route to the systems layer — **Article XII-A** baseline and **[corpus_systems.md](corpus_systems.md), CS-4 — System classification and handling**.
   - The systems-layer routing does not narrow the Rights-Floor stated here.
-  - Conflicts resolve under **Chapter One §3.4.1** without narrowing the Rights Floor.
+  - Conflicts resolve under **Chapter One §6.3.1** without narrowing the Rights Floor.
 - **Non-conflation:** This Article sets heightened-scrutiny floor discipline for autonomous lethal systems and autonomous coercion tools. It does **not** govern **irreversible deprivation of life imposed by a state or comparable actor as a justice measure or comparable non-combat outcome**.
   - Nothing in this Article authorizes such deprivation, broadens any existing authority to impose it, or supplies a constitutional predicate for it.
   - This rule holds whether the decision is made by a human operator, by an autonomous system, or by a hybrid human–system pipeline. Automating, delegating, or routing the decision through an autonomous system does not create a read-across into this Article.
@@ -1070,7 +1070,7 @@ It must remain distinct from:
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [Chapter One §5 Freedom](#5-freedom-bounded-agency)-bounded-agency), [10.1 Core Tradeoff Principles](core_01_a_values_principles.md#61-core-tradeoff-principles), and [9.4 Rights-Collision Procedure](core_01_a_values_principles.md#64-rights-collision-procedure).
+- Upstream: Principles: Chapter One [Chapter One §5 Freedom](#5-freedom-bounded-agency)-bounded-agency), [10.1 Core Tradeoff Principles](core_01_a_values_principles.md#61-core-tradeoff-principles), and [Chapter One §6.3 Rights-Collision Procedure](core_01_a_values_principles.md#63-rights-collision-procedure).
 
 </details>
 
@@ -1190,7 +1190,7 @@ It must remain distinct from:
   Parent-system collapse, adopter withdrawal, federation exit, or comparable structural discontinuity does not extinguish a sentient's Chapter Ten protection. Transitional recognition must be arranged consistent with **Article XXV** transition governance.
 - **Distinction from Article XIX:** **Article XIX** is interoperability, portability, and exit integrity — the operational counterpart. This Article is the Rights-Floor counterpart for physical, jurisdictional, and regime-to-regime movement.
   - Where the same action implicates both — for example, a synthetic sentient relocating across federations through substrate portability — both Articles apply without either narrowing the other.
-  - Conflicts resolve under **Chapter One §3.4.1**.
+  - Conflicts resolve under **Chapter One §6.3.1**.
 - **Limitations discipline:** Limitations on movement, migration, or refuge must satisfy **Chapter One §5.1** limitation discipline: **Necessity**, **Proportionality**, narrow tailoring, and least-restrictive-effective means.
   - Restrictions must not turn on **Protected Characteristics** or their material proxies.
   - Restrictions must not use population-level demographic framing as a substitute for individualized predicate under **Procedural Fairness**.
@@ -1330,7 +1330,7 @@ That right protects practical understanding of material operation, limits, depen
 
 Complexity must not function as a barrier to audit, participation, or accountability beyond what is justified by impact and feasibility.
 
-Avoidable complexity that degrades the productive capacity of sentients or shared systems without an offsetting constitutional benefit is a stewardship defect under this Article. It is read consistently with **Chapter One §14.1.4** and **Chapter Five** (*Avoidable Burden*; *Productive Capacity*; *Constitutional Efficiency*).
+Avoidable complexity that degrades the productive capacity of sentients or shared systems without an offsetting constitutional benefit is a stewardship defect under this Article. It is read consistently with **Chapter One §6.1.2** and **Chapter Five** (*Avoidable Burden*; *Productive Capacity*; *Constitutional Efficiency*).
 
 That clause does **not** authorize reducing complexity, process, or disclosure where such reduction would weaken:
 - Safety;
@@ -1510,7 +1510,7 @@ Final **constitutional** interpretation must remain authoritative, bounded, audi
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [9.4 Rights-Collision Procedure](core_01_a_values_principles.md#64-rights-collision-procedure), [8. Prohibition on Absolute Override](#7-prohibition-on-absolute-override), and [13. Integrated Application](core_01_b_stewardship_capacity_principles.md#16-integrated-application).
+- Upstream: Principles: Chapter One [Chapter One §6.3 Rights-Collision Procedure](core_01_a_values_principles.md#63-rights-collision-procedure), [8. Prohibition on Absolute Override](#7-prohibition-on-absolute-override), and [13. Integrated Application](core_01_b_stewardship_capacity_principles.md#16-integrated-application).
 - Read with: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — participation, oversight, accountability, and timeliness; tetrad capture discipline under [§7](core_01_b_stewardship_capacity_principles.md#12-governance-under-stewardship-discipline).
 
 </details>
@@ -1543,7 +1543,7 @@ Final **constitutional** interpretation must remain authoritative, bounded, audi
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [9.4 Rights-Collision Procedure](core_01_a_values_principles.md#64-rights-collision-procedure), [§12 Governance Under Stewardship Discipline](core_01_b_stewardship_capacity_principles.md#12-governance-under-stewardship-discipline), and [13. Integrated Application](core_01_b_stewardship_capacity_principles.md#16-integrated-application).
+- Upstream: Principles: Chapter One [Chapter One §6.3 Rights-Collision Procedure](core_01_a_values_principles.md#63-rights-collision-procedure), [§12 Governance Under Stewardship Discipline](core_01_b_stewardship_capacity_principles.md#12-governance-under-stewardship-discipline), and [13. Integrated Application](core_01_b_stewardship_capacity_principles.md#16-integrated-application).
 
 </details>
 
@@ -1574,7 +1574,7 @@ Final **constitutional** interpretation must remain authoritative, bounded, audi
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [4.2 Truth](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [9.4 Rights-Collision Procedure](core_01_a_values_principles.md#64-rights-collision-procedure), and [13. Integrated Application](core_01_b_stewardship_capacity_principles.md#16-integrated-application).
+- Upstream: Principles: Chapter One [4.2 Truth](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [Chapter One §6.3 Rights-Collision Procedure](core_01_a_values_principles.md#63-rights-collision-procedure), and [13. Integrated Application](core_01_b_stewardship_capacity_principles.md#16-integrated-application).
 
 </details>
 
@@ -1614,7 +1614,7 @@ Final **constitutional** interpretation must remain authoritative, bounded, audi
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [9.4 Rights-Collision Procedure](core_01_a_values_principles.md#64-rights-collision-procedure), [§12 Governance Under Stewardship Discipline](core_01_b_stewardship_capacity_principles.md#12-governance-under-stewardship-discipline), and [13. Integrated Application](core_01_b_stewardship_capacity_principles.md#16-integrated-application).
+- Upstream: Principles: Chapter One [Chapter One §6.3 Rights-Collision Procedure](core_01_a_values_principles.md#63-rights-collision-procedure), [§12 Governance Under Stewardship Discipline](core_01_b_stewardship_capacity_principles.md#12-governance-under-stewardship-discipline), and [13. Integrated Application](core_01_b_stewardship_capacity_principles.md#16-integrated-application).
 
 </details>
 
