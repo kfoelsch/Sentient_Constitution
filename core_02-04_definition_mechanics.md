@@ -440,7 +440,7 @@ Where uncertainty prevents definitive demonstration of compliance for materially
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: [2.1 Verification requirements for evidence](#21-verification-requirements-for-evidence); [Chapter One, section 4.1 — Safety (Harm Constraint)](core_01_a_values_principles.md#41-safety-harm-constraint); [Chapter One, section 4.2 — Truth (Epistemic Integrity Constraint)](core_01_a_values_principles.md#42-truth-epistemic-integrity-constraint); [Chapter One, section 4.3 — Science-Informed Inquiry and Decision Support](core_01_a_values_principles.md#43-science-informed-inquiry-and-decision-support); [Chapter One, section 8.2 — Epistemic Disclosure Constraints](core_01_b_stewardship_capacity_principles.md#92-epistemic-disclosure-constraints).
+- Upstream: Principles: [2.1 Verification requirements for evidence](#21-verification-requirements-for-evidence); [Chapter One, section 4.1 — Safety (Harm Constraint)](core_01_a_values_principles.md#41-safety-harm-constraint); [Chapter One, section 4.2 — Truth (Epistemic Integrity Constraint)](core_01_a_values_principles.md#42-truth-epistemic-integrity-constraint); [Chapter One, section 4.3 — Science-Informed Inquiry and Decision Support](core_01_a_values_principles.md#43-science-informed-inquiry-and-decision-support); [Chapter One, section 8.2 — Epistemic Disclosure Constraints](core_01_b_stewardship_capacity_principles.md#102-epistemic-disclosure-constraints).
 - Downstream: [Chapter Four, section 3 — Definition Traceability Requirement](#3-definition-traceability-requirement); [Chapter Four, section 8 — Verification Accessibility and Feasibility Constraint](#6-verification-accessibility-and-feasibility-constraint).
 - Read with: [Chapter Five Safety (Constraint)](core_05c_continuity_definitions.md#safety-constraint), [Chapter Five Truth (Constitutional Constraint)](core_05o_oversight_definitions.md#truth-constitutional-constraint), and [Chapter Five Epistemic Integrity](core_05o_oversight_definitions.md#epistemic-integrity) — this section operationalizes those constraints at the evidence layer.
 
@@ -518,7 +518,7 @@ Systems must not rely on components or dependencies that prevent satisfaction of
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: [Chapter Four, section 4 — Observability of Traceability Requirement](#4-observability-of-traceability-requirement); [Chapter One, section 8.2 — Epistemic Disclosure Constraints](core_01_b_stewardship_capacity_principles.md#92-epistemic-disclosure-constraints).
+- Upstream: Principles: [Chapter Four, section 4 — Observability of Traceability Requirement](#4-observability-of-traceability-requirement); [Chapter One, section 8.2 — Epistemic Disclosure Constraints](core_01_b_stewardship_capacity_principles.md#102-epistemic-disclosure-constraints).
 - Downstream: [5.1 Cryptographic protection, credentials, and verification](#51-cryptographic-protection-credentials-and-verification-constitutional-layer); [Chapter Four, section 8 — Verification Accessibility and Feasibility Constraint](#6-verification-accessibility-and-feasibility-constraint).
 - Read with: [Chapter Five Clustered Definitions (Foreseeability Diligence)](core_05o_oversight_definitions.md#foreseeability-diligence) — design choices that predictably prevent verification under reasonably foreseeable conditions are non-compliant regardless of stated security rationale.
 

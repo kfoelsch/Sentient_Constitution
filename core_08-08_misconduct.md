@@ -244,7 +244,7 @@ The following subsections state criteria interactions and named pattern applicat
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [Chapter One §8](core_01_b_stewardship_capacity_principles.md#81-productive-capacity-instrumental-good) (*Productive Capacity*); [Chapter One §8.3](core_01_b_stewardship_capacity_principles.md#83-concentration-threshold-mechanism-adopter-tunable) (*Concentration Threshold Mechanism*); [Chapter One §8.4](core_01_b_stewardship_capacity_principles.md#84-pro-competition-and-anti-domination) (*Pro-Competition and Anti-Domination*); [Chapter One §8.5](core_01_b_stewardship_capacity_principles.md#85-consolidation-ceiling) (*Consolidation Ceiling*); [§2](#2-criteria-set-for-slot-assignment) (*Criteria set*).
+- Upstream: [Chapter One §8](core_01_b_stewardship_capacity_principles.md#81-productive-capacity-instrumental-good) (*Productive Capacity*); [Chapter One §9.1](core_01_b_stewardship_capacity_principles.md#91-concentration-threshold-mechanism-adopter-tunable) (*Concentration Threshold Mechanism*); [Chapter One §9.2](core_01_b_stewardship_capacity_principles.md#92-pro-competition-and-anti-domination) (*Pro-Competition and Anti-Domination*); [Chapter One §9.3](core_01_b_stewardship_capacity_principles.md#93-consolidation-ceiling) (*Consolidation Ceiling*); [§2](#2-criteria-set-for-slot-assignment) (*Criteria set*).
 - Downstream: [§3](#3-violation-axis-s-7-9-slot-assignment-incident-gravity) (*Violation Axis s = 7–9 slot assignment*).
 - Read with: [Concentration Threshold](core_05a_accountability_definitions.md#concentration-threshold-constitutional) in **Chapter Five** for definitional anchoring referenced from the **§6.3** mechanism.
 
@@ -254,13 +254,13 @@ The following subsections state criteria interactions and named pattern applicat
 
 *In plain terms: dangerous concentration of money or power is not a separate “mystery criterion” — it still has to show up through rollback, blocked remedies, or capture that makes constitutional process unusable in practice.*
 
-Prohibited **concentration of wealth, power, control, or opportunity**, including durable domination under **Chapter One §6.4** and unrebutted consolidation-ceiling breach under **§6.5**, is not a separate slot-assignment criterion. It is reached through the existing criteria where it produces the equivalent constitutional effect:
+Prohibited **concentration of wealth, power, control, or opportunity**, including durable domination under **Chapter One §9.2** and unrebutted consolidation-ceiling breach under **§9.3**, is not a separate slot-assignment criterion. It is reached through the existing criteria where it produces the equivalent constitutional effect:
 
 - It satisfies **criterion 3** where concentration operates as an **equivalent structural workaround** producing material rollback of constitutional protections.
 - It satisfies **criterion 4** where concentration materially contributes to **Rights-Floor degradation**, delayed correction, or blocked challenge rights.
 - It satisfies **criterion 6** where concentration makes constitutional process or remedies unusable in practice. This can occur through capture, coercive dependency, or usurpation of operative authority, even without overt force.
 
-The absence of overt deception or forcible act does **not** defeat anti-constitutional misconduct assignment where prohibited concentration, durable domination, or unrebutted consolidation-ceiling breach produces the equivalent constitutional effect. Quantitative threshold-setting and ceiling-setting for concentration remain owned by **Chapter One §6**, **§6.3**, and **§6.5** and are not relitigated here; this chapter evaluates the **conduct** that creates, maintains, exploits, conceals, or restructures around concentration, consolidation, or domination that has crossed the **§6** floor.
+The absence of overt deception or forcible act does **not** defeat anti-constitutional misconduct assignment where prohibited concentration, durable domination, or unrebutted consolidation-ceiling breach produces the equivalent constitutional effect. Quantitative threshold-setting and ceiling-setting for concentration remain owned by **Chapter One §6**, **§6.3**, and **§9.3** and are not relitigated here; this chapter evaluates the **conduct** that creates, maintains, exploits, conceals, or restructures around concentration, consolidation, or domination that has crossed the **§6** floor.
 
 ### 6.2 Rights-Floor waivers and unconstitutional contract terms
 <details>
@@ -358,7 +358,7 @@ This subsection does **not** add an additional slot-assignment criterion beyond 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [§2](#2-criteria-set-for-slot-assignment) (*Criteria set*); [§6.3](#63-flooding-the-zone-and-contest-pathway-denial) (*Flooding the zone — contest-pathway distinction*); [Chapter One §4.2](core_01_a_values_principles.md#42-truth-epistemic-integrity-constraint) (*Truth / epistemic integrity*); [Chapter One §10.2.1](core_01_b_stewardship_capacity_principles.md#921-preservation-of-epistemic-integrity) (*Preservation of epistemic integrity*).
+- Upstream: [§2](#2-criteria-set-for-slot-assignment) (*Criteria set*); [§6.3](#63-flooding-the-zone-and-contest-pathway-denial) (*Flooding the zone — contest-pathway distinction*); [Chapter One §4.2](core_01_a_values_principles.md#42-truth-epistemic-integrity-constraint) (*Truth / epistemic integrity*); [Chapter One §10.2.1](core_01_b_stewardship_capacity_principles.md#1021-preservation-of-epistemic-integrity) (*Preservation of epistemic integrity*).
 - Downstream: [§3](#3-violation-axis-s-7-9-slot-assignment-incident-gravity) (*Violation Axis s = 7–9 slot assignment*); [§5](#5-cross-chapter-discipline) (*Cross-chapter discipline*).
 - Read with: [Info-Sphere](core_05p_participation_definitions.md#info-sphere), [Epistemic Integrity](core_05o_oversight_definitions.md#epistemic-integrity), [Truth (Constitutional Constraint)](core_05o_oversight_definitions.md#truth-constitutional-constraint), and [Transparency](core_05o_oversight_definitions.md#transparency) in **Chapter Five**.
 - Rights and verification: [Article V-H: Expression, Assembly, and Press](core_10-10_rights_part_b.md#article-v-h-expression-assembly-and-press) and [Article XV: Audit, Transparency, and Independent Verification](core_10-10_rights_part_c.md#article-xv-audit-transparency-and-independent-verification) in **Chapter Ten**. These supply Rights Floors and verification discipline without relocating slot assignment.

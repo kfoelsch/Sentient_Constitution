@@ -188,7 +188,7 @@ This band holds **Oversight**-leg definitions from the [Constitutional Tetrad](.
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [10.1 Required Evaluation Factors](core_01_b_stewardship_capacity_principles.md#101-required-evaluation-factors) (**Materiality** DEC stack; evaluation completeness); [9.1 Core Tradeoff Principles](core_01_b_stewardship_capacity_principles.md#91-core-tradeoff-principles) (proportionality stack read with material effects).
+- Downstream: Principles: [11.1 Required Evaluation Factors](core_01_b_stewardship_capacity_principles.md#111-required-evaluation-factors) (**Materiality** DEC stack; evaluation completeness); [10.1 Core Tradeoff Principles](core_01_b_stewardship_capacity_principles.md#101-core-tradeoff-principles) (proportionality stack read with material effects).
 - Read with: [Material Impact](core_05o_oversight_definitions.md#material-impact), [Material Risk](core_05o_oversight_definitions.md#material-risk), [Systemic Materiality](core_05a_accountability_definitions.md#systemic-materiality), and [Classification-Scaled Governance](core_05o_oversight_definitions.md#classification-scaled-governance).
 
 </details>
@@ -209,7 +209,7 @@ This band holds **Oversight**-leg definitions from the [Constitutional Tetrad](.
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [material stake](core_00_preamble.md#material-stake) scaling proxy; Chapter One surfaces this definition across **Safety** (**§3.1**), **Truth** (**§3.2**), **Trust** (**§7**), **§7** stewardship and openness passages, **§8.1**, **§8.2**, and **§9.4.2** where **Materiality** appears in D/E/C widgets — see [10.1 Required Evaluation Factors](core_01_b_stewardship_capacity_principles.md#101-required-evaluation-factors) as the principal systems-evaluation home.
+- Downstream: Principles: [material stake](core_00_preamble.md#material-stake) scaling proxy; Chapter One surfaces this definition across **Safety** (**§3.1**), **Truth** (**§3.2**), **Trust** (**§7**), **§7** stewardship and openness passages, **§8.1**, **§8.2**, and **§10.4.2** where **Materiality** appears in D/E/C widgets — see [11.1 Required Evaluation Factors](core_01_b_stewardship_capacity_principles.md#111-required-evaluation-factors) as the principal systems-evaluation home.
 - Cluster component: [the dependent cluster *Material Impact, Materiality Determination, Classification-Scaled Governance, Oversight, and Capability Requirement*](core_05c_continuity_definitions.md#materiality-semi-independent).
 - Read with: [Material Impact](core_05o_oversight_definitions.md#material-impact), [Material Risk](core_05o_oversight_definitions.md#material-risk), [Systemic Materiality](core_05a_accountability_definitions.md#systemic-materiality), and [Auditability](core_05o_oversight_definitions.md#auditability).
 
@@ -231,7 +231,7 @@ This band holds **Oversight**-leg definitions from the [Constitutional Tetrad](.
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [10.1 Required Evaluation Factors](core_01_b_stewardship_capacity_principles.md#101-required-evaluation-factors) (aggregation and boundary integrity in evaluation); [9.4.2 Proxy-Divergence Invalidation](core_01_b_stewardship_capacity_principles.md#942-proxy-divergence-invalidation) (metric/reality gaps that can manipulate materiality).
+- Downstream: Principles: [11.1 Required Evaluation Factors](core_01_b_stewardship_capacity_principles.md#111-required-evaluation-factors) (aggregation and boundary integrity in evaluation); [9.4.2 Proxy-Divergence Invalidation](core_01_b_stewardship_capacity_principles.md#1042-proxy-divergence-invalidation) (metric/reality gaps that can manipulate materiality).
 - Read with: [Materiality Determination](core_05o_oversight_definitions.md#materiality-determination), [System Boundaries](core_05c_continuity_definitions.md#system-boundaries), [System Boundary Integrity](core_05c_continuity_definitions.md#system-boundary-integrity), [Systemic Materiality](core_05a_accountability_definitions.md#systemic-materiality), [Auditability](core_05o_oversight_definitions.md#auditability), and [Accountability](core_05a_accountability_definitions.md#accountability).
 
 </details>
@@ -252,7 +252,7 @@ This band holds **Oversight**-leg definitions from the [Constitutional Tetrad](.
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [material stake](core_00_preamble.md#material-stake) scaling proxy; [10.1 Required Evaluation Factors](core_01_b_stewardship_capacity_principles.md#101-required-evaluation-factors); [§6 Stewardship and Distributed Understanding — §6.2 Distributed Understanding](core_01_b_stewardship_capacity_principles.md#62-distributed-understanding) (understanding scales with **Materiality**); [8.1.1 Proportionality](core_01_b_stewardship_capacity_principles.md#911-proportionality) (material impact in the tradeoff index).
+- Downstream: Principles: [material stake](core_00_preamble.md#material-stake) scaling proxy; [11.1 Required Evaluation Factors](core_01_b_stewardship_capacity_principles.md#111-required-evaluation-factors); [§6 Stewardship and Distributed Understanding — §6.2 Distributed Understanding](core_01_b_stewardship_capacity_principles.md#62-distributed-understanding) (understanding scales with **Materiality**); [8.1.1 Proportionality](core_01_b_stewardship_capacity_principles.md#1011-proportionality) (material impact in the tradeoff index).
 - Cluster component: [the dependent cluster *Material Impact, Materiality Determination, Classification-Scaled Governance, Oversight, and Capability Requirement*](core_05c_continuity_definitions.md#materiality-semi-independent).
 - Read with: [Harm](core_05a_accountability_definitions.md#harm), [Risk](core_05c_continuity_definitions.md#risk), [Systemic Materiality](core_05a_accountability_definitions.md#systemic-materiality), [Dependency](core_05c_continuity_definitions.md#dependency), [Classification-Scaled Governance](core_05o_oversight_definitions.md#classification-scaled-governance), [Oversight](core_05o_oversight_definitions.md#oversight-constitutional), and [Transparency](core_05o_oversight_definitions.md#transparency).
 
@@ -274,7 +274,7 @@ This band holds **Oversight**-leg definitions from the [Constitutional Tetrad](.
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [10.1 Required Evaluation Factors](core_01_b_stewardship_capacity_principles.md#101-required-evaluation-factors) (tail risks, existential risk posture); [8.1.1 Proportionality](core_01_b_stewardship_capacity_principles.md#911-proportionality) (**Risk**, **Irreversible Harm**, **Existential Risk** index).
+- Downstream: Principles: [11.1 Required Evaluation Factors](core_01_b_stewardship_capacity_principles.md#111-required-evaluation-factors) (tail risks, existential risk posture); [8.1.1 Proportionality](core_01_b_stewardship_capacity_principles.md#1011-proportionality) (**Risk**, **Irreversible Harm**, **Existential Risk** index).
 - Read with: [Harm](core_05a_accountability_definitions.md#harm), [Irreversible Harm](core_05a_accountability_definitions.md#irreversible-harm), [Risk](core_05c_continuity_definitions.md#risk), [Safety (Constraint)](core_05c_continuity_definitions.md#safety-constraint), and [Classification-Scaled Governance](core_05o_oversight_definitions.md#classification-scaled-governance).
 
 </details>
@@ -295,7 +295,7 @@ This band holds **Oversight**-leg definitions from the [Constitutional Tetrad](.
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [8.1.1 Proportionality](core_01_b_stewardship_capacity_principles.md#911-proportionality) (reversibility under uncertainty); [10.1 Required Evaluation Factors](core_01_b_stewardship_capacity_principles.md#101-required-evaluation-factors) (precaution against omitted harms).
+- Downstream: Principles: [8.1.1 Proportionality](core_01_b_stewardship_capacity_principles.md#1011-proportionality) (reversibility under uncertainty); [11.1 Required Evaluation Factors](core_01_b_stewardship_capacity_principles.md#111-required-evaluation-factors) (precaution against omitted harms).
 - Read with: [Material Impact](core_05o_oversight_definitions.md#material-impact), [Material Risk](core_05o_oversight_definitions.md#material-risk), [Irreversible Harm](core_05a_accountability_definitions.md#irreversible-harm), [Safety (Constraint)](core_05c_continuity_definitions.md#safety-constraint), and [Classification-Scaled Governance](core_05o_oversight_definitions.md#classification-scaled-governance).
 
 </details>
@@ -317,7 +317,7 @@ This band holds **Oversight**-leg definitions from the [Constitutional Tetrad](.
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [9.4.2 Proxy-Divergence Invalidation](core_01_b_stewardship_capacity_principles.md#942-proxy-divergence-invalidation), [10.1 Required Evaluation Factors](core_01_b_stewardship_capacity_principles.md#101-required-evaluation-factors), and [§7 Governance Under Stewardship Discipline](core_01_b_stewardship_capacity_principles.md#7-governance-under-stewardship-discipline).
+- Downstream: Principles: [9.4.2 Proxy-Divergence Invalidation](core_01_b_stewardship_capacity_principles.md#1042-proxy-divergence-invalidation), [11.1 Required Evaluation Factors](core_01_b_stewardship_capacity_principles.md#111-required-evaluation-factors), and [§7 Governance Under Stewardship Discipline](core_01_b_stewardship_capacity_principles.md#7-governance-under-stewardship-discipline).
 - Cluster component: [the dependent cluster *Proxy Integrity and Indicator-Reality Alignment*](core_05c_continuity_definitions.md#materiality-semi-independent).
 - Read with: [Proxy Metric Gaming and Indicator-Reality Gaps](core_05o_oversight_definitions.md#proxy-metric-gaming-and-indicator-reality-gaps), [Materiality Determination](core_05o_oversight_definitions.md#materiality-determination), [Materiality Integrity Constraint](core_05o_oversight_definitions.md#materiality-integrity-constraint), [System Boundary Integrity](core_05c_continuity_definitions.md#system-boundary-integrity), [Incentive Alignment](core_05i_integrative_definitions.md#incentive-alignment), [Auditability](core_05o_oversight_definitions.md#auditability), and [Truth (Constitutional Constraint)](core_05o_oversight_definitions.md#truth-constitutional-constraint).
 
@@ -340,7 +340,7 @@ This band holds **Oversight**-leg definitions from the [Constitutional Tetrad](.
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [9.4.2 Proxy-Divergence Invalidation](core_01_b_stewardship_capacity_principles.md#942-proxy-divergence-invalidation), [§7 Governance Under Stewardship Discipline](core_01_b_stewardship_capacity_principles.md#7-governance-under-stewardship-discipline), and Chapter Four verification duties where metrics become evidence of compliance.
+- Downstream: Principles: [9.4.2 Proxy-Divergence Invalidation](core_01_b_stewardship_capacity_principles.md#1042-proxy-divergence-invalidation), [§7 Governance Under Stewardship Discipline](core_01_b_stewardship_capacity_principles.md#7-governance-under-stewardship-discipline), and Chapter Four verification duties where metrics become evidence of compliance.
 - Cluster component: [the dependent cluster *Proxy Integrity and Indicator-Reality Alignment*](core_05c_continuity_definitions.md#materiality-semi-independent).
 - Read with: [Proxy Divergence](core_05o_oversight_definitions.md#proxy-divergence), [Incentive Alignment](core_05i_integrative_definitions.md#incentive-alignment), [Auditability](core_05o_oversight_definitions.md#auditability), [Transparency](core_05o_oversight_definitions.md#transparency), [Materiality Determination](core_05o_oversight_definitions.md#materiality-determination), and [Truth (Constitutional Constraint)](core_05o_oversight_definitions.md#truth-constitutional-constraint).
 
@@ -362,7 +362,7 @@ This band holds **Oversight**-leg definitions from the [Constitutional Tetrad](.
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [10.1 Required Evaluation Factors](core_01_b_stewardship_capacity_principles.md#101-required-evaluation-factors); [4. Non-Negotiable Constraints: Safety and Truth](core_01_a_values_principles.md#4-non-negotiable-constraints-safety-and-truth) (**Safety** / **Truth** degradation paths).
+- Downstream: Principles: [11.1 Required Evaluation Factors](core_01_b_stewardship_capacity_principles.md#111-required-evaluation-factors); [4. Non-Negotiable Constraints: Safety and Truth](core_01_a_values_principles.md#4-non-negotiable-constraints-safety-and-truth) (**Safety** / **Truth** degradation paths).
 - Read with: [Materiality Determination](core_05o_oversight_definitions.md#materiality-determination), [Systemic Materiality](core_05a_accountability_definitions.md#systemic-materiality), [Risk](core_05c_continuity_definitions.md#risk), [Safety (Constraint)](core_05c_continuity_definitions.md#safety-constraint), [Epistemic Integrity](core_05o_oversight_definitions.md#epistemic-integrity), and [Meaningful Agency](core_05p_participation_definitions.md#meaningful-agency).
 
 </details>
@@ -439,7 +439,7 @@ while defeating practical reconstructability, contestability, or proportionate a
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **oversight** leg; [§6 Stewardship and Distributed Understanding](core_01_b_stewardship_capacity_principles.md#6-stewardship-and-distributed-understanding), [6.2.1 Preservation of Epistemic Integrity](core_01_b_stewardship_capacity_principles.md#921-preservation-of-epistemic-integrity).
+- Downstream: Principles: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **oversight** leg; [§6 Stewardship and Distributed Understanding](core_01_b_stewardship_capacity_principles.md#6-stewardship-and-distributed-understanding), [10.2.1 Preservation of Epistemic Integrity](core_01_b_stewardship_capacity_principles.md#1021-preservation-of-epistemic-integrity).
 - Read with: [Epistemic Integrity](core_05o_oversight_definitions.md#epistemic-integrity), [Truth (Constitutional Constraint)](core_05o_oversight_definitions.md#truth-constitutional-constraint), [Contestability](core_05a_accountability_definitions.md#contestability), and [Auditability](core_05o_oversight_definitions.md#auditability).
 
 </details>
@@ -493,7 +493,7 @@ while defeating practical reconstructability, contestability, or proportionate a
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [4. Non-Negotiable Constraints: Safety and Truth](core_01_a_values_principles.md#4-non-negotiable-constraints-safety-and-truth), [9. Interaction and Conflict Resolution](core_01_b_stewardship_capacity_principles.md#9-interaction-and-conflict-resolution), and [6.2.1 Preservation of Epistemic Integrity](core_01_b_stewardship_capacity_principles.md#921-preservation-of-epistemic-integrity), where materially relevant evidence must remain available for truth, safety, review, and correction.
+- Downstream: Principles: [4. Non-Negotiable Constraints: Safety and Truth](core_01_a_values_principles.md#4-non-negotiable-constraints-safety-and-truth), [10. Interaction and Conflict Resolution](core_01_b_stewardship_capacity_principles.md#10-interaction-and-conflict-resolution), and [10.2.1 Preservation of Epistemic Integrity](core_01_b_stewardship_capacity_principles.md#1021-preservation-of-epistemic-integrity), where materially relevant evidence must remain available for truth, safety, review, and correction.
 - Cluster component: [Chapter Five §3.2 *Transparency, Auditability, and Verification*](core_05o_oversight_definitions.md#transparency-auditability-and-verification-cluster).
 - Read with: [Auditability](core_05o_oversight_definitions.md#auditability), [Verifiability](core_05o_oversight_definitions.md#verifiability), [Transparency](core_05o_oversight_definitions.md#transparency), [Accountability](core_05a_accountability_definitions.md#accountability), [Contestability](core_05a_accountability_definitions.md#contestability), [Procedural Fairness](core_05p_participation_definitions.md#procedural-fairness-constitutional), [Protected Reporting (Whistleblowing)](core_05a_accountability_definitions.md#protected-reporting-whistleblowing), and [Redress and Remediation](core_05a_accountability_definitions.md#redress-and-remediation-constitutional).
 

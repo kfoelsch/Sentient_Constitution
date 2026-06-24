@@ -85,6 +85,7 @@ This directory lists **Definitions A-Z** and **Clusters A-Z** separately. Each v
 - [Collective Organization](core_05p_participation_definitions.md#collective-organization-constitutional)
 - [Combatant / Non-Combatant Distinction](core_05a_accountability_definitions.md#combatant-non-combatant-distinction-constitutional)
 - [Competency Gate](core_05a_accountability_definitions.md#competency-gate)
+- [Market Structure](core_05a_accountability_definitions.md#market-structure-constitutional)
 - [Concentration Threshold](core_05a_accountability_definitions.md#concentration-threshold-constitutional)
 - [Consent](core_05p_participation_definitions.md#consent-constitutional)
 - [Consent, Sexual](core_05p_participation_definitions.md#consent-sexual)

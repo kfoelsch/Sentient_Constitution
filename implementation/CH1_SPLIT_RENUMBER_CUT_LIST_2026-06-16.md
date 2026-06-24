@@ -1,6 +1,6 @@
 # Chapter One split and renumber — cut list and migration spec
 
-**Status:** Applied (2026-06-16) — Chapter One split, Part B renumber, Chapter Five definitions (P3), corpus-wide link migration, edition `SC-Corpus-2026.04.33`. **2026-06-16 follow-up:** Part filenames reordered to `core_01_a_values_principles.md` / `core_01_b_stewardship_capacity_principles.md` (Chapter Five `_a_`/`_b_` convention; fixes reverse alphabetical sort).  
+**Status:** Applied (2026-06-16) — Chapter One split, Part B renumber, Chapter Five definitions (P3), corpus-wide link migration, edition `SC-Corpus-2026.04.33`. **2026-06-16 follow-up:** Part filenames reordered to `core_01_a_values_principles.md` / `core_01_b_stewardship_capacity_principles.md` (Chapter Five `_a_`/`_b_` convention; fixes reverse alphabetical sort). **2026-06-24 follow-up:** §8.3–§8.5 elevated to **§9 Market Structure**; former §9–§13 renumbered to §10–§14; Chapter Five **Market Structure** O/E/C added (`#market-structure-constitutional`). Migration script: `tools/ch1_market_structure_split.py`.  
 **Date:** 2026-06-16  
 **Scope:** Split `core_00-01_principles.md` into three files; renumber Chapter One Part B §§6–13 per stewardship → governance → capacity hierarchy.
 
@@ -79,13 +79,13 @@ Binding only together with other `core_*` files. **Chapter One, Part A** — §�
 |---|---|
 | `#7-stewardship-and-distributed-understanding` | `core_01_b_stewardship_capacity_principles.md#6-stewardship-and-distributed-understanding` |
 | `#6-shared-system-capacity` | `core_01_b_stewardship_capacity_principles.md#8-shared-system-capacity` |
-| `#814-minimization-of-avoidable-burden` | `core_01_b_stewardship_capacity_principles.md#914-minimization-of-avoidable-burden` |
-| `#91-required-evaluation-factors` | `core_01_b_stewardship_capacity_principles.md#101-required-evaluation-factors` |
+| `#1014-minimization-of-avoidable-burden` | `core_01_b_stewardship_capacity_principles.md#1014-minimization-of-avoidable-burden` |
+| `#91-required-evaluation-factors` | `core_01_b_stewardship_capacity_principles.md#111-required-evaluation-factors` |
 | `#92-incentive-alignment-and-system-capture` | `core_01_b_stewardship_capacity_principles.md#7-governance-under-stewardship-discipline` |
 | `#922-stewardship-and-operator-incentive-alignment` | `core_01_b_stewardship_capacity_principles.md#74-stewardship-and-operator-incentive-alignment` |
-| `#11-prohibition-on-absolute-override` | `core_01_b_stewardship_capacity_principles.md#12-prohibition-on-absolute-override` |
-| `#821-preservation-of-epistemic-integrity` | `core_01_b_stewardship_capacity_principles.md#921-preservation-of-epistemic-integrity` |
-| `#822-trust-truth-alignment` | `core_01_b_stewardship_capacity_principles.md#922-trust-truth-alignment` |
+| `#11-prohibition-on-absolute-override` | `core_01_b_stewardship_capacity_principles.md#13-prohibition-on-absolute-override` |
+| `#1021-preservation-of-epistemic-integrity` | `core_01_b_stewardship_capacity_principles.md#1021-preservation-of-epistemic-integrity` |
+| `#1022-trust-truth-alignment` | `core_01_b_stewardship_capacity_principles.md#1022-trust-truth-alignment` |
 
 **Anchors retained in Part A:** `#two-constitutional-aims`, `#flourishing`, `#continuity`, all §1–§5 anchors unchanged.
 
@@ -194,6 +194,50 @@ Binding only together with other `core_*` files. **Chapter One, Part A** — §�
 
 ---
 
+## 3B. Market Structure split (2026-06-24)
+
+**Scope:** Split anti-concentration / contestability material out of **§8 Shared-System Capacity** into new **§9 Market Structure**; renumber former §9–§13 → §10–§14. Add Chapter Five **Market Structure** definition in `core_05a_accountability_definitions.md`.
+
+### 3B.1 Section renumber (pre-split → post-split)
+
+| Pre-split § | Post-split § | Title |
+|---|---|---|
+| §8.1–§8.2 | **§8.1–§8.2** | Productive Capacity; Constitutional Efficiency |
+| §8.3–§8.5 | **§9.1–§9.3** | Concentration Threshold; Pro-Competition and Anti-Domination; Consolidation Ceiling |
+| *(new parent)* | **§9** | Market Structure (section intro + D/E/C widget) |
+| §9 | **§10** | Interaction and Conflict Resolution |
+| §10 | **§11** | Systemic Evaluation Requirement |
+| §11 | **§12** | Freedom (Bounded Agency) |
+| §12 | **§13** | Prohibition on Absolute Override |
+| §13 | **§14** | Integrated Application |
+
+### 3B.2 Subsection renumber (tradeoffs and evaluation)
+
+| Pre-split | Post-split |
+|---|---|
+| §9.1–§9.4 | §10.1–§10.4 |
+| §9.1.1–§9.1.4 | §10.1.1–§10.1.4 |
+| §9.2.1–§9.2.2 | §10.2.1–§10.2.2 |
+| §9.3.1–§9.3.2 | §10.3.1–§10.3.2 |
+| §9.4.1–§9.4.2 | §10.4.1–§10.4.2 |
+| §10.1–§10.2 | §11.1–§11.2 |
+| §10.1.1–§10.1.5 | §11.1.1–§11.1.5 |
+
+### 3B.3 Non-concentration pointer migration
+
+| Stale reference | Current owner |
+|---|---|
+| `Chapter One §6` non-concentration | **§9 Market Structure** (`#9-market-structure`) |
+| `§6.4` pro-competition / anti-domination | **§9.2** |
+| `§6.5` consolidation ceiling | **§9.3** |
+| `§8.3` concentration threshold | **§9.1** |
+| `§8.4` pro-competition / anti-domination | **§9.2** |
+| `§8.5` consolidation ceiling | **§9.3** |
+
+**Reading arc (current):** §6 stewardship → §7 governance discipline → §8 capacity → **§9 market structure** → §10 tradeoffs → §11 whole-system evaluation → §§12–14 agency, integration, and override limits.
+
+---
+
 ## 4. Anchor ID migration
 
 **Rule:** Every **primary** anchor gets a new canonical id matching the new section number. **All old ids** remain as empty redirect anchors in `core_01_b_stewardship_capacity_principles.md` (or retired stub) for one edition cycle.
@@ -243,13 +287,51 @@ Binding only together with other `core_*` files. **Chapter One, Part A** — §�
 | `11-prohibition-on-absolute-override` | `12-prohibition-on-absolute-override` | §12 |
 | `12-integrated-application` | `13-integrated-application` | §13 |
 
+### 4.1B Market Structure split anchors (2026-06-24; pre-split → post-split)
+
+| Pre-split anchor | Post-split canonical anchor | Section |
+|---|---|---|
+| `83-concentration-threshold-mechanism-adopter-tunable` | `91-concentration-threshold-mechanism-adopter-tunable` | §9.1 |
+| `84-pro-competition-and-anti-domination` | `92-pro-competition-and-anti-domination` | §9.2 |
+| `85-consolidation-ceiling` | `93-consolidation-ceiling` | §9.3 |
+| `851-consolidation-risk-pre-lock-in-impairment` | `931-consolidation-risk-pre-lock-in-impairment` | §9.3.1 |
+| `852-ceiling-discipline-adopter-requirements` | `932-ceiling-discipline-adopter-requirements` | §9.3.2 |
+| *(new)* | `9-market-structure` | §9 |
+| `9-interaction-and-conflict-resolution` | `10-interaction-and-conflict-resolution` | §10 |
+| `91-core-tradeoff-principles` | `101-core-tradeoff-principles` | §10.1 |
+| `911-proportionality` | `1011-proportionality` | §10.1.1 |
+| `912-necessity` | `1012-necessity` | §10.1.2 |
+| `913-minimization-of-harm` | `1013-minimization-of-harm` | §10.1.3 |
+| `914-minimization-of-avoidable-burden` | `1014-minimization-of-avoidable-burden` | §10.1.4 |
+| `92-epistemic-disclosure-constraints` | `102-epistemic-disclosure-constraints` | §10.2 |
+| `921-preservation-of-epistemic-integrity` | `1021-preservation-of-epistemic-integrity` | §10.2.1 |
+| `922-trust-truth-alignment` | `1022-trust-truth-alignment` | §10.2.2 |
+| `93-freedom-limitation-constraints` | `103-freedom-limitation-constraints` | §10.3 |
+| `931-constraint-on-freedom` | `1031-constraint-on-freedom` | §10.3.1 |
+| `932-time-consistency-constraint` | `1032-time-consistency-constraint` | §10.3.2 |
+| `941-rights-collision-decision-test` | `1041-rights-collision-decision-test` | §10.4.1 |
+| `942-proxy-divergence-invalidation` | `1042-proxy-divergence-invalidation` | §10.4.2 |
+| `10-systemic-evaluation-requirement` | `11-systemic-evaluation-requirement` | §11 |
+| `101-required-evaluation-factors` | `111-required-evaluation-factors` | §11.1 |
+| `1011-systemic-scope-and-risk-factors` | `1111-systemic-scope-and-risk-factors` | §11.1.1 |
+| `1012-accessibility-under-sentience-non-exclusion` | `1112-accessibility-under-sentience-non-exclusion` | §11.1.2 |
+| `1013-privacy-informational-joint-invocation` | `1113-privacy-informational-joint-invocation` | §11.1.3 |
+| `1014-voluntary-discontinuation-and-exit-rights` | `1114-voluntary-discontinuation-and-exit-rights` | §11.1.4 |
+| `1015-assembly-collective-organization-and-institutional-formation` | `1115-assembly-collective-organization-and-institutional-formation` | §11.1.5 |
+| `102-read-with-governance-and-incentive-discipline` | `112-read-with-governance-and-incentive-discipline` | §11.2 |
+| `11-freedom-bounded-agency` | `12-freedom-bounded-agency` | §12 |
+| `12-prohibition-on-absolute-override` | `13-prohibition-on-absolute-override` | §13 |
+| `13-integrated-application` | `14-integrated-application` | §14 |
+
 ### 4.2 New anchors to add
 
 | Anchor | Section |
 |---|---|
 | `7-governance-as-authorized-structure` | §7.1 |
 | `72-short-horizon-governance-defect` | §7.2 |
-| `102-read-with-governance-and-incentive-discipline` | §10.2 |
+| `102-read-with-governance-and-incentive-discipline` | `112-read-with-governance-and-incentive-discipline` | §11.2 |
+| `9-market-structure` | §9 |
+| `market-structure-constitutional` | Chapter Five O/E/C (`core_05a_accountability_definitions.md`) |
 | `chapter-01-part-b-stewardship-capacity-and-constitutional-safeguards` | Part B H2 |
 
 ### 4.3 Legacy redirect block (retain in Part B)
@@ -313,7 +395,7 @@ Replace old §6–§9 sequence paragraph with:
 **§8** states **Shared-System Capacity** as an instrumental outcome downstream of **§6 Stewardship** and **§7 Governance Under Stewardship Discipline**. Capacity claims fail where they rest on domination, proxy divergence, irreversible lock-in, or governance that defeats the [Constitutional Triad](core_00_preamble.md#constitutional-triad).
 ```
 
-### 5.5 §10.2 Read-with pointer (new)
+### 5.5 §11.2 Read-with pointer (new)
 
 ```markdown
 #### 10.2 Read-with: Governance and Incentive Discipline
@@ -321,7 +403,7 @@ Replace old §6–§9 sequence paragraph with:
 Whole-system evaluation under **§10.1** is incomplete if it omits whether incentives and governance structures will preserve constitutional outcomes. Apply **§7 Governance Under Stewardship Discipline** for that discipline; **§10.1** does not duplicate **§7**.
 ```
 
-### 5.6 §13 Integrated Application — arc rewrite
+### 5.6 §14 Integrated Application — arc rewrite
 
 Replace "§§6–9" language with:
 
@@ -411,8 +493,8 @@ core_00-01_principles.md#92-incentive-alignment-and-system-capture
 core_00-01_principles.md#922-stewardship-and-operator-incentive-alignment
   → core_01_b_stewardship_capacity_principles.md#74-stewardship-and-operator-incentive-alignment
 
-core_00-01_principles.md#814-minimization-of-avoidable-burden
-  → core_01_b_stewardship_capacity_principles.md#914-minimization-of-avoidable-burden
+core_00-01_principles.md#1014-minimization-of-avoidable-burden
+  → core_01_b_stewardship_capacity_principles.md#1014-minimization-of-avoidable-burden
 
 core_00-01_principles.md#constitutional-triad
   → core_00_preamble.md#constitutional-triad

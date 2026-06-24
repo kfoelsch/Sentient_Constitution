@@ -141,7 +141,7 @@ Stewardship-role depth and non-symbolic governance boundary
 - Read with: **CJS-5.17 — Interoperability, Portability, and Exit Integrity**
 - Read with: **CJS-5.3 — Auditability**
 - Read with: **CJS-5.15** (*Accountability: structural review, correction urgency, and disclosure terms*) and **CJS-5.6** (*Oversight: integrity assurance and resilience operations*) — Evolution, Revalidation, and Non-Entrenchment
-- Read with: **Chapter One §6.4.1 — Rights-Collision Decision Test**
+- Read with: **Chapter One §9.2.1 — Rights-Collision Decision Test**
 - Read with: **`corpus_forum.md` CF-12 through CF-14 — Forum continuity, fallback operation, and emergency adjudication**
 - Read with: Core definitions for necessity, proportionality, materiality, burden, and anti-enclosure.
 - Constitutional frame: **Accountability** leg; **Flourishing** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality Determination](../core_05o_oversight_definitions.md#materiality-determination).
@@ -213,9 +213,9 @@ Restriction-burden assignment floor
 - OP-C: Hidden, reversed, or displaced burden is non-compliant.
 
 Rights-collision and alternative-selection record
-- OP-O: When restrictions are justified by conflict among rights or duties, the record must apply Chapter One §6.4.1 and identify the conflict, affected populations, alternatives, trade-offs, least-restrictive effective selection, review triggers, and any required forum-review path.
+- OP-O: When restrictions are justified by conflict among rights or duties, the record must apply Chapter One §9.2.1 and identify the conflict, affected populations, alternatives, trade-offs, least-restrictive effective selection, review triggers, and any required forum-review path.
 - OP-E: Evaluation must verify enough detail to test principle-based decision-making, least-restrictive selection, and the availability of ordinary or emergency forum review.
-- OP-C: A restriction justified by rights conflict is non-compliant if it lacks the Chapter One §6.4.1 record, omits required forum review, or treats emergency circumstances as a reason to bypass review rather than sequence it.
+- OP-C: A restriction justified by rights conflict is non-compliant if it lacks the Chapter One §9.2.1 record, omits required forum review, or treats emergency circumstances as a reason to bypass review rather than sequence it.
 
 Substantive showing and least-restrictive proof
 - OP-O: Justification must show material harm or protective need, proportionality, and no adequate less restrictive alternative.

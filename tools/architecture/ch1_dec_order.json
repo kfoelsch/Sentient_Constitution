@@ -45,8 +45,15 @@
     "Proxy Divergence",
     "Ecological Integrity",
     "Environmental Preconditions",
-    "Intergenerational Responsibility",
-    "Concentration Threshold"
+    "Intergenerational Responsibility"
+  ],
+  "### 9. Market Structure": [
+    "Market Structure",
+    "Concentration Threshold",
+    "Contestability",
+    "Proxy Divergence",
+    "Dependency",
+    "Meaningful Agency"
   ],
   "#### 6.1 Stewardship": [
     "Strategic Stewardship Obligation",
@@ -61,7 +68,7 @@
     "Meaningful Agency",
     "Contestability"
   ],
-  "### 11. Freedom (Bounded Agency)": [
+  "### 12. Freedom (Bounded Agency)": [
     "Freedom (Bounded Agency)",
     "Meaningful Agency",
     "Consent",
@@ -76,7 +83,7 @@
     "Harm Minimization (Tradeoff Selection)",
     "Dependency"
   ],
-  "##### 9.4.1 Rights-Collision Decision Test": [
+  "##### 10.4.1 Rights-Collision Decision Test": [
     "Necessity",
     "Proportionality",
     "Feasibility",
@@ -86,7 +93,7 @@
     "Proxy Divergence",
     "Avoidable Burden"
   ],
-  "#### 10.1 Required Evaluation Factors": [
+  "#### 11.1 Required Evaluation Factors": [
     "Dependency",
     "Materiality",
     "Foreseeability",
@@ -111,7 +118,7 @@
     "System Capture",
     "Meaningful Agency"
   ],
-  "### 13. Integrated Application": [
+  "### 14. Integrated Application": [
     "Corpus",
     "Authority Stack and Internal Hierarchy",
     "Supremacy and Enforceability",
