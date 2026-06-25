@@ -84,7 +84,7 @@ or phase-transition** behavior, classification must reflect **post-threshold** c
 
 **Adversarial and strategic dynamics:** Risk assessment must include **adversarial use**, **strategic exploitation**, and **coordinated misuse** where they materially alter impact, dependency, or risk.
 
-**Reclassification requirement:** Systems must undergo **continuous or regularly scheduled** evaluation sufficient to detect material changes within timeframes appropriate to class and risk profile.
+**Reclassification requirement:** Systems must undergo **continuous or regularly scheduled** evaluation sufficient to detect material changes within timeframes appropriate to class and risk profile. Whole-system evaluation under **Chapter One §15.1** is **mandatory at full depth** for **Class A**, **Class B**, and **Class C**; **mandatory but proportionate** for **Class L** (including lower default periodic cadence and simplified records where permitted); and **encouraged** for **Class P** while validly **Class P**.
 
 **System classification** must be **reassessed** whenever material changes alter impact, dependency, or risk. Reclassification must reflect the **highest applicable** classification under updated conditions.
 
@@ -389,7 +389,7 @@ Dependencies may form among participants, users, and local organizations, but re
 
 The system may influence local coordination, services, exchanges, or participation, and may create meaningful but bounded obligations. It does not materially affect critical infrastructure, foundational systems, or large-scale public coordination, and does not create systemic dependency or irreversible external effects beyond local scope.
 
-**Operational interpretation:** Shared use and external effects beyond private scope, but with limited scale, dependency, and constitutional burden. This implies real accountability and compliance at proportionate levels. Requirements remain applicable and enforceable, scaled to limited impact and dependency, with basic accountability, transparency, fairness, and correction while preserving substantial operator flexibility.
+**Operational interpretation:** Shared use and external effects beyond private scope, but with limited scale, dependency, and constitutional burden. This implies real accountability and compliance at proportionate levels. Requirements remain applicable and enforceable, scaled to limited impact and dependency, with basic accountability, transparency, fairness, and correction while preserving substantial operator flexibility. Whole-system evaluation under **Chapter One §15.1** is **mandatory** before classification, governance, limitation, or compliance claims stand, but evaluation depth, record form, and periodic re-evaluation cadence remain **proportionate** to **Class L** impact and dependency.
 
 **Local or regional scope alone** does not govern classification.
 

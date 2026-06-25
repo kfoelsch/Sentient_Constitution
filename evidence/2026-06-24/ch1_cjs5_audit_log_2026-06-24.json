@@ -64,27 +64,17 @@
     },
     "5.1": {
       "title": "Limitation Discipline",
-      "line": 673,
+      "line": 676,
       "file": "core_01_a_values_principles.md"
     },
     "5.2": {
       "title": "Voluntary Discontinuation and Exit Rights",
-      "line": 703,
+      "line": 710,
       "file": "core_01_a_values_principles.md"
     },
     "5.3": {
       "title": "Assembly, Collective Organization, and Institutional Formation",
-      "line": 730,
-      "file": "core_01_a_values_principles.md"
-    },
-    "5.4": {
-      "title": "Read-with: Stewardship Pathways",
-      "line": 759,
-      "file": "core_01_a_values_principles.md"
-    },
-    "5.5": {
-      "title": "Read-with: Structural Contestability",
-      "line": 768,
+      "line": 739,
       "file": "core_01_a_values_principles.md"
     },
     "6": {
@@ -99,42 +89,37 @@
     },
     "6.2": {
       "title": "Epistemic Disclosure Constraints",
-      "line": 911,
+      "line": 901,
       "file": "core_01_a_values_principles.md"
     },
     "6.3": {
-      "title": "Freedom-Limitation Constraints *(read-with \u00a75)*",
-      "line": 1012,
-      "file": "core_01_a_values_principles.md"
-    },
-    "6.4": {
       "title": "Rights-Collision Procedure",
-      "line": 1018,
+      "line": 1008,
       "file": "core_01_a_values_principles.md"
     },
     "7": {
       "title": "Prohibition on Absolute Override",
-      "line": 1082,
+      "line": 1077,
       "file": "core_01_a_values_principles.md"
     },
     "8": {
       "title": "Constitutional Interpretation",
-      "line": 1116,
+      "line": 1111,
       "file": "core_01_a_values_principles.md"
     },
     "8.1": {
       "title": "Definitional layer and required disciplines",
-      "line": 1146,
+      "line": 1141,
       "file": "core_01_a_values_principles.md"
     },
     "8.2": {
       "title": "Ambiguity resolution",
-      "line": 1158,
+      "line": 1153,
       "file": "core_01_a_values_principles.md"
     },
     "8.3": {
       "title": "Conflict resolution procedure",
-      "line": 1171,
+      "line": 1166,
       "file": "core_01_a_values_principles.md"
     },
     "11": {
@@ -144,102 +129,97 @@
     },
     "11.1": {
       "title": "Stewardship",
-      "line": 114,
+      "line": 116,
       "file": "core_01_b_stewardship_capacity_principles.md"
     },
     "11.2": {
       "title": "Distributed Understanding",
-      "line": 146,
+      "line": 148,
       "file": "core_01_b_stewardship_capacity_principles.md"
     },
     "11.3": {
       "title": "Institutional Development",
-      "line": 175,
+      "line": 178,
       "file": "core_01_b_stewardship_capacity_principles.md"
     },
     "11.4": {
       "title": "Openness Aspiration",
-      "line": 205,
+      "line": 209,
       "file": "core_01_b_stewardship_capacity_principles.md"
     },
     "12": {
       "title": "Governance Under Stewardship Discipline",
-      "line": 242,
+      "line": 247,
       "file": "core_01_b_stewardship_capacity_principles.md"
     },
     "12.1": {
       "title": "Governance as Authorized Structure",
-      "line": 261,
+      "line": 266,
       "file": "core_01_b_stewardship_capacity_principles.md"
     },
     "12.2": {
-      "title": "Short-Horizon Governance Defects",
-      "line": 283,
+      "title": "Incentive Alignment and System Capture",
+      "line": 288,
       "file": "core_01_b_stewardship_capacity_principles.md"
     },
     "12.3": {
-      "title": "Incentive Alignment and System Capture",
-      "line": 291,
-      "file": "core_01_b_stewardship_capacity_principles.md"
-    },
-    "12.4": {
       "title": "Stewardship and Operator Incentive Alignment",
-      "line": 435,
+      "line": 443,
       "file": "core_01_b_stewardship_capacity_principles.md"
     },
     "13": {
       "title": "Shared-System Capacity",
-      "line": 484,
+      "line": 493,
       "file": "core_01_b_stewardship_capacity_principles.md"
     },
     "13.1": {
       "title": "Productive Capacity (Instrumental Good)",
-      "line": 522,
+      "line": 531,
       "file": "core_01_b_stewardship_capacity_principles.md"
     },
     "13.2": {
       "title": "Constitutional Efficiency",
-      "line": 551,
+      "line": 560,
       "file": "core_01_b_stewardship_capacity_principles.md"
     },
     "14": {
       "title": "Market Structure",
-      "line": 567,
+      "line": 576,
       "file": "core_01_b_stewardship_capacity_principles.md"
     },
     "14.1": {
       "title": "Concentration Threshold Mechanism (Adopter-Tunable)",
-      "line": 601,
+      "line": 610,
       "file": "core_01_b_stewardship_capacity_principles.md"
     },
     "14.2": {
       "title": "Pro-Competition and Anti-Domination",
-      "line": 640,
+      "line": 646,
       "file": "core_01_b_stewardship_capacity_principles.md"
     },
     "14.3": {
       "title": "Consolidation Ceiling",
-      "line": 677,
+      "line": 683,
       "file": "core_01_b_stewardship_capacity_principles.md"
     },
     "15": {
       "title": "Systemic Evaluation Requirement",
-      "line": 724,
+      "line": 730,
       "file": "core_01_b_stewardship_capacity_principles.md"
     },
     "15.1": {
       "title": "Required Evaluation Factors",
-      "line": 734,
+      "line": 765,
       "file": "core_01_b_stewardship_capacity_principles.md"
     },
     "15.2": {
       "title": "Read-with: Governance and Incentive Discipline",
-      "line": 855,
+      "line": 896,
       "file": "core_01_b_stewardship_capacity_principles.md"
     },
     "16": {
       "title": "Integrated Application",
-      "line": 865,
+      "line": 910,
       "file": "core_01_b_stewardship_capacity_principles.md"
     }
   },
@@ -651,7 +631,7 @@
         "12.1",
         "13",
         "2.2",
-        "6.4.1",
+        "6.3.1",
         "linked"
       ],
       "inferred_principles": [
@@ -1556,7 +1536,7 @@
         "12.1",
         "13",
         "14",
-        "6.4.1",
+        "6.3.1",
         "linked"
       ],
       "inferred_principles": [
@@ -2821,7 +2801,7 @@
         "12.1",
         "14",
         "2.1",
-        "6.4.1",
+        "6.3.1",
         "linked"
       ],
       "inferred_principles": [

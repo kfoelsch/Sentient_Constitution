@@ -193,7 +193,7 @@ The meanings of **Trust**, **Trustworthiness**, and **Trust Degradation and Misl
 
 A trustworthiness claim is non-compliant if one implementation file gives reassuring signals while another implementation file in the same chain leaves unresolved problems that defeat observable, verifiable, or contestable reliance.
 
-For implementation routing, **Class A**, **Class B**, and **Class C** systems follow [corpus_systems.md](../corpus_systems.md) **CS-4 — System classification and handling** and **CS-5 — Critical system stewardship** for class-scaled trustworthiness assurance. **Class L** and **Class P** systems follow S2 criteria and limits and may not evade obligations where material external effects exist.
+For implementation routing, **Class A**, **Class B**, and **Class C** systems follow [corpus_systems.md](../corpus_systems.md) **CS-4 — System classification and handling** and **CS-5 — Critical system stewardship** for class-scaled trustworthiness assurance. **Class L** and **Class P** systems follow **CS-4** criteria and limits, apply **Chapter One §15.1** evaluation discipline at proportionate depth (**Class L**, mandatory) or as encouraged practice (**Class P**), and may not evade obligations where material external effects exist.
 
 Where trust depends on multiple systems, institutions, dependencies, or implementation layers, institutions must maintain a published and auditable map that identifies:
 - the implementation duties, classification conditions, dependencies, steward duties, and assurance burdens supporting the trust claim;
