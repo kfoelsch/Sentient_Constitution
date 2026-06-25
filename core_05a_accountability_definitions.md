@@ -47,7 +47,7 @@ This band holds **Accountability**-leg definitions: contestability, redress, gov
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [§12.3.2 Contingent claims, games of chance, and event-contract markets](core_01_b_stewardship_capacity_principles.md#77-contingent-claims-games-of-chance-and-event-contract-markets).
+- Downstream: Principles: [§12.2.3 Contingent claims, games of chance, and event-contract markets](core_01_b_stewardship_capacity_principles.md#1223-contingent-claims-games-of-chance-and-event-contract-markets).
 - Cluster component: [Chapter Five Chapter One §8.13 *Contingent Claim, Event-Contract Market, and Game of Chance*](core_05a_accountability_definitions.md#contingent-claim)
 - Read with: [Game of Chance](core_05a_accountability_definitions.md#game-of-chance), [Event-Contract Market](core_05a_accountability_definitions.md#event-contract-market), [Capture of Resolution Pathways](core_05a_accountability_definitions.md#capture-of-resolution-pathways), [Insider Advantage](core_05a_accountability_definitions.md#insider-advantage), [Incentive Alignment](core_05i_integrative_definitions.md#incentive-alignment), [Risk](core_05c_continuity_definitions.md#risk), [Dependency](core_05c_continuity_definitions.md#dependency), and [Coercion and Manipulation](core_05p_participation_definitions.md#coercion-and-manipulation-constitutional).
 
@@ -57,7 +57,7 @@ This band holds **Accountability**-leg definitions: contestability, redress, gov
 
 - O: A claim whose payoff is conditioned on the occurrence, non-occurrence, or quantitative resolution of an uncertain future event external to the claim itself. Covers speculative and insurance-like structures. [Game of Chance](core_05a_accountability_definitions.md#game-of-chance) and [Event-Contract Market](core_05a_accountability_definitions.md#event-contract-market) are subclasses.
 <a id="contingent-claim-e"></a>
-- E: Identify the resolving event, the outcome-resolution source (Chapter One §12.3.2), and [Dependency](core_05c_continuity_definitions.md#dependency) and concentration exposure. [Incentive Alignment](core_05i_integrative_definitions.md#incentive-alignment), [Coercion and Manipulation](core_05p_participation_definitions.md#coercion-and-manipulation-constitutional), [Capture of Resolution Pathways](core_05a_accountability_definitions.md#capture-of-resolution-pathways), [Insider Advantage](core_05a_accountability_definitions.md#insider-advantage), and [System Capture](core_05c_continuity_definitions.md#system-capture) apply where aggregated claims may influence fiduciary, public, or rights-relevant decisions.
+- E: Identify the resolving event, the outcome-resolution source (Chapter One §12.2.3), and [Dependency](core_05c_continuity_definitions.md#dependency) and concentration exposure. [Incentive Alignment](core_05i_integrative_definitions.md#incentive-alignment), [Coercion and Manipulation](core_05p_participation_definitions.md#coercion-and-manipulation-constitutional), [Capture of Resolution Pathways](core_05a_accountability_definitions.md#capture-of-resolution-pathways), [Insider Advantage](core_05a_accountability_definitions.md#insider-advantage), and [System Capture](core_05c_continuity_definitions.md#system-capture) apply where aggregated claims may influence fiduciary, public, or rights-relevant decisions.
 <a id="contingent-claim-c"></a>
 - C: Structures that reliably reward unlawful [Harm](core_05a_accountability_definitions.md#harm), material distortion of rights-relevant decisions, or [Capture of Resolution Pathways](core_05a_accountability_definitions.md#capture-of-resolution-pathways) without proportionate mitigation are non-compliant.
 
@@ -70,7 +70,7 @@ This band holds **Accountability**-leg definitions: contestability, redress, gov
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [§12.3.2 Contingent claims, games of chance, and event-contract markets](core_01_b_stewardship_capacity_principles.md#77-contingent-claims-games-of-chance-and-event-contract-markets).
+- Downstream: Principles: [§12.2.3 Contingent claims, games of chance, and event-contract markets](core_01_b_stewardship_capacity_principles.md#1223-contingent-claims-games-of-chance-and-event-contract-markets).
 - Cluster component: [Chapter Five Chapter One §8.13 *Contingent Claim, Event-Contract Market, and Game of Chance*](core_05a_accountability_definitions.md#contingent-claim)
 - Read with: [Contingent Claim](core_05a_accountability_definitions.md#contingent-claim), [Capture of Resolution Pathways](core_05a_accountability_definitions.md#capture-of-resolution-pathways), [Insider Advantage](core_05a_accountability_definitions.md#insider-advantage), [Truth (Constitutional Constraint)](core_05o_oversight_definitions.md#truth-constitutional-constraint), [Incentive Alignment](core_05i_integrative_definitions.md#incentive-alignment), and [Epistemic Integrity](core_05o_oversight_definitions.md#epistemic-integrity).
 
@@ -80,7 +80,7 @@ This band holds **Accountability**-leg definitions: contestability, redress, gov
 
 - O: A [Contingent Claim](core_05a_accountability_definitions.md#contingent-claim) venue that matches counterparties, prices, or settles payments against resolution of an external event. Includes prediction-style event markets, event-settlement systems, insurance pools, health plans, and other structures where payments are contingent on the occurrence or measurement of future events external to the parties' control.
 <a id="event-contract-market-e"></a>
-- E: Cover outcome-resolution source independence and multiplicity, privileged-information pathways, [Insider Advantage](core_05a_accountability_definitions.md#insider-advantage), coordination risk, and treatment of settlement prices or odds as authoritative [Truth (Constitutional Constraint)](core_05o_oversight_definitions.md#truth-constitutional-constraint). Per Chapter One §12.3.2, prices or odds are not themselves sufficient evidence for rights, safety, or governance determinations. Also cover [Capture of Resolution Pathways](core_05a_accountability_definitions.md#capture-of-resolution-pathways) under [Adversarial, Scaled, and Exploited Conditions](core_05o_oversight_definitions.md#adversarial-scaled-and-exploited-conditions).
+- E: Cover outcome-resolution source independence and multiplicity, privileged-information pathways, [Insider Advantage](core_05a_accountability_definitions.md#insider-advantage), coordination risk, and treatment of settlement prices or odds as authoritative [Truth (Constitutional Constraint)](core_05o_oversight_definitions.md#truth-constitutional-constraint). Per Chapter One §12.2.3, prices or odds are not themselves sufficient evidence for rights, safety, or governance determinations. Also cover [Capture of Resolution Pathways](core_05a_accountability_definitions.md#capture-of-resolution-pathways) under [Adversarial, Scaled, and Exploited Conditions](core_05o_oversight_definitions.md#adversarial-scaled-and-exploited-conditions).
 <a id="event-contract-market-c"></a>
 - C: Markets that structurally invite material distortion of fiduciary, public, or rights-relevant decisions — or that permit [Insider Advantage](core_05a_accountability_definitions.md#insider-advantage) without proportionate mitigation — are non-compliant.
 
@@ -116,7 +116,7 @@ This band holds **Accountability**-leg definitions: contestability, redress, gov
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [§12.3.2 Contingent claims, games of chance, and event-contract markets](core_01_b_stewardship_capacity_principles.md#77-contingent-claims-games-of-chance-and-event-contract-markets).
+- Downstream: Principles: [§12.2.3 Contingent claims, games of chance, and event-contract markets](core_01_b_stewardship_capacity_principles.md#1223-contingent-claims-games-of-chance-and-event-contract-markets).
 - Cluster component: [Chapter Five Chapter One §8.13 *Contingent Claim, Event-Contract Market, and Game of Chance*](core_05a_accountability_definitions.md#contingent-claim)
 - Read with: [Contingent Claim](core_05a_accountability_definitions.md#contingent-claim), [Coercion and Manipulation](core_05p_participation_definitions.md#coercion-and-manipulation-constitutional), [Incentive Alignment](core_05i_integrative_definitions.md#incentive-alignment), [Dependency](core_05c_continuity_definitions.md#dependency), [Capture of Resolution Pathways](core_05a_accountability_definitions.md#capture-of-resolution-pathways), and [Insider Advantage](core_05a_accountability_definitions.md#insider-advantage).
 
@@ -139,7 +139,7 @@ This band holds **Accountability**-leg definitions: contestability, redress, gov
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [§12.3.2 Contingent claims, games of chance, and event-contract markets](core_01_b_stewardship_capacity_principles.md#77-contingent-claims-games-of-chance-and-event-contract-markets).
+- Downstream: Principles: [§12.2.3 Contingent claims, games of chance, and event-contract markets](core_01_b_stewardship_capacity_principles.md#1223-contingent-claims-games-of-chance-and-event-contract-markets).
 - Cluster component: [Chapter Five Chapter One §8.13 *Contingent Claim, Event-Contract Market, and Game of Chance*](core_05a_accountability_definitions.md#contingent-claim)
 - Read with: [Contingent Claim](core_05a_accountability_definitions.md#contingent-claim), [Event-Contract Market](core_05a_accountability_definitions.md#event-contract-market), [Game of Chance](core_05a_accountability_definitions.md#game-of-chance), [Capture of Resolution Pathways](core_05a_accountability_definitions.md#capture-of-resolution-pathways), [Incentive Alignment](core_05i_integrative_definitions.md#incentive-alignment), [Truth (Constitutional Constraint)](core_05o_oversight_definitions.md#truth-constitutional-constraint), [Epistemic Integrity](core_05o_oversight_definitions.md#epistemic-integrity), [Contestability](core_05a_accountability_definitions.md#contestability), [Coercion and Manipulation](core_05p_participation_definitions.md#coercion-and-manipulation-constitutional), and [Oversight](core_05o_oversight_definitions.md#oversight-constitutional).
 
@@ -538,14 +538,14 @@ This band holds **Accountability**-leg definitions: contestability, redress, gov
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [§12.3.2 Contingent claims, games of chance, and event-contract markets](core_01_b_stewardship_capacity_principles.md#77-contingent-claims-games-of-chance-and-event-contract-markets).
+- Downstream: Principles: [§12.2.3 Contingent claims, games of chance, and event-contract markets](core_01_b_stewardship_capacity_principles.md#1223-contingent-claims-games-of-chance-and-event-contract-markets).
 - Read with: [System Capture](core_05c_continuity_definitions.md#system-capture), the [Capture, Resolution Integrity, and Anti-Capture cluster](core_05a_accountability_definitions.md#capture-of-resolution-pathways), [Incentive Alignment](core_05i_integrative_definitions.md#incentive-alignment), [Insider Advantage](core_05a_accountability_definitions.md#insider-advantage), [Contingent Claim](core_05a_accountability_definitions.md#contingent-claim), [Event-Contract Market](core_05a_accountability_definitions.md#event-contract-market), [Oversight](core_05o_oversight_definitions.md#oversight-constitutional), and [Contestability](core_05a_accountability_definitions.md#contestability).
 
 </details>
 
 <br>
 
-- O: A specialization of [System Capture](core_05c_continuity_definitions.md#system-capture) in which concentrated incentives, control, or privileged information bias the actors, processes, data feeds, or authorities ("outcome-resolution sources" under Chapter One §12.3.2) that resolve [Contingent Claim](core_05a_accountability_definitions.md#contingent-claim) settlements or analogous rights-relevant resolutions.
+- O: A specialization of [System Capture](core_05c_continuity_definitions.md#system-capture) in which concentrated incentives, control, or privileged information bias the actors, processes, data feeds, or authorities ("outcome-resolution sources" under Chapter One §12.2.3) that resolve [Contingent Claim](core_05a_accountability_definitions.md#contingent-claim) settlements or analogous rights-relevant resolutions.
 <a id="capture-of-resolution-pathways-e"></a>
 - E: Cover resolver independence from parties with material stake in the outcome, multi-source rules where feasible, contestable dispute pathways, and role separation between market-making, settlement, and adjudication where conflicts could distort outcomes. Align with [System Capture](core_05c_continuity_definitions.md#system-capture) and [Oversight](core_05o_oversight_definitions.md#oversight-constitutional) under [Adversarial, Scaled, and Exploited Conditions](core_05o_oversight_definitions.md#adversarial-scaled-and-exploited-conditions).
 <a id="capture-of-resolution-pathways-c"></a>

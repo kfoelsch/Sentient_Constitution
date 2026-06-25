@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 """Migrate Chapter Five definitions to constitutional Triad / Aims band organization.
 
-Renumbers Chapter One Â§8.1â€“Chapter One Â§8.15 dependent clusters into band-aligned ranges, distributes Â§1
-Independent and Â§2 Semi-independent content across five band files, writes the
+Renumbers Chapter One ?8.1ÿÿÿChapter One ?8.15 dependent clusters into band-aligned ranges, distributes ?1
+Independent and ?2 Semi-independent content across five band files, writes the
 Chapter Five compass in Part A, and updates corpus-wide references.
 
   python3 tools/ch5_constitutional_migration.py [--dry-run]
@@ -45,7 +45,7 @@ BAND_LABELS = {
 SKIP_DIRS = {"archive", ".git", "__pycache__", "node_modules", "ai_corpus", "tools", "evidence"}
 EXTENSIONS = {".md", ".py", ".json", ".csv", ".mmd"}
 
-# old Â§3 cluster number -> new Â§3 cluster number
+# old ?3 cluster number -> new ?3 cluster number
 CLUSTER_RENUMBER: dict[str, str] = {
     "3.12": "3.2",
     "3.14": "3.3",
@@ -70,7 +70,7 @@ CLUSTER_TITLES: dict[str, str] = {
     "3.4": "Corpus, Authority Stack, Supremacy, and Enforceability",
     "3.5": "Labor and Economic Floor: Compensation, Organization, Safe Conditions, Leisure, and Creative Work",
     "3.6": "Forum Families and Dispute Routing",
-    "3.7": "Privacy (Informational) â€” peer-level cluster head",
+    "3.7": "Privacy (Informational) ÿÿÿ peer-level cluster head",
     "3.8": "Self-Determination, Meaningful Agency, Expression, Educational Agency, and Volitional Integrity",
     "3.9": "Standing State, Contribution, and Violation",
     "3.10": "Stewardship, Governance Discipline, and Shared-System Capacity",
@@ -89,7 +89,7 @@ CLUSTER_META: dict[str, dict[str, str]] = {
         "aim": "Flourishing",
         "cross": "",
         "continuity_note": "",
-        "basis": "Chapter One Â§8.2, Â§4, Â§12.1, Â§12.2",
+        "basis": "Chapter One ?8.2, ?4, ?12.1, ?12.3",
     },
     "3.3": {
         "title": "Truth and Epistemic Integrity",
@@ -97,7 +97,7 @@ CLUSTER_META: dict[str, dict[str, str]] = {
         "aim": "Flourishing",
         "cross": "integrative with **Accountability** where contest and correction are implicated",
         "continuity_note": "",
-        "basis": "Chapter One Â§8.2, Â§3.3, Â§4, Â§12.1, Â§12.2",
+        "basis": "Chapter One ?8.2, ?3.3, ?4, ?12.1, ?12.3",
     },
     "3.5": {
         "title": "Animal Life, Sentient Life, and Sentience Status",
@@ -105,7 +105,7 @@ CLUSTER_META: dict[str, dict[str, str]] = {
         "aim": "Flourishing",
         "cross": "",
         "continuity_note": "",
-        "basis": "Chapter One Â§8.1, Â§4, Â§10",
+        "basis": "Chapter One ?8.1, ?4, ?10",
     },
     "3.6": {
         "title": "Binding Stakeholder Choice",
@@ -113,7 +113,7 @@ CLUSTER_META: dict[str, dict[str, str]] = {
         "aim": "Flourishing",
         "cross": "integrative with **Accountability** procedural integrity",
         "continuity_note": "",
-        "basis": "Chapter One Â§8.1, Â§3.4, Â§11.4, Â§8, Â§10",
+        "basis": "Chapter One ?8.1, ?3.4, ?11.4, ?8, ?10",
     },
     "3.7": {
         "title": "Self-Determination, Meaningful Agency, Expression, Educational Agency, and Volitional Integrity",
@@ -121,7 +121,7 @@ CLUSTER_META: dict[str, dict[str, str]] = {
         "aim": "Flourishing",
         "cross": "",
         "continuity_note": "",
-        "basis": "Â§10, Chapter One Â§8.1, Â§4",
+        "basis": "?10, Chapter One ?8.1, ?4",
     },
     "3.8": {
         "title": "Collective Harm Boundary, Harm, and Harassment and Bullying",
@@ -129,7 +129,7 @@ CLUSTER_META: dict[str, dict[str, str]] = {
         "aim": "Flourishing",
         "cross": "",
         "continuity_note": "",
-        "basis": "Chapter One Â§8.1, Â§11.1, Â§12.1, Â§9",
+        "basis": "Chapter One ?8.1, ?11.1, ?12.1, ?9",
     },
     "3.9": {
         "title": "Forum Families and Dispute Routing",
@@ -137,7 +137,7 @@ CLUSTER_META: dict[str, dict[str, str]] = {
         "aim": "Flourishing",
         "cross": "",
         "continuity_note": "",
-        "basis": "Chapter One Â§8.1, Â§3.4, Â§11.4, Â§8, Â§10",
+        "basis": "Chapter One ?8.1, ?3.4, ?11.4, ?8, ?10",
     },
     "3.10": {
         "title": "Standing State, Contribution, and Violation",
@@ -145,7 +145,7 @@ CLUSTER_META: dict[str, dict[str, str]] = {
         "aim": "Flourishing",
         "cross": "",
         "continuity_note": "",
-        "basis": "Â§11.1, Â§11.3, Â§11.4, Â§12.1, Â§8",
+        "basis": "?11.1, ?11.3, ?11.4, ?12.1, ?8",
     },
     "3.11": {
         "title": "Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm",
@@ -153,31 +153,31 @@ CLUSTER_META: dict[str, dict[str, str]] = {
         "aim": "Continuity",
         "cross": "integrative with **Continuity** where irreversible harm is implicated",
         "continuity_note": "Distinguish constitutional **Continuity** aim from operational force protocols.",
-        "basis": "Chapter One Â§8.1, Â§11.1, Â§12.1, Â§9",
+        "basis": "Chapter One ?8.1, ?11.1, ?12.1, ?9",
     },
     "3.12": {
         "title": "Labor and Economic Floor: Compensation, Organization, Safe Conditions, Leisure, and Creative Work",
         "leg": "Continuity",
         "aim": "Continuity",
         "cross": "",
-        "continuity_note": "Constitutional **Continuity** aim â€” survival-floor and economic continuity.",
-        "basis": "Chapter One Â§8.1, Chapter One Â§8.1, Chapter One Â§8.1, Â§12.1",
+        "continuity_note": "Constitutional **Continuity** aim ÿÿÿ survival-floor and economic continuity.",
+        "basis": "Chapter One ?8.1, Chapter One ?8.1, Chapter One ?8.1, ?12.1",
     },
     "3.13": {
         "title": "Stewardship, Governance Discipline, and Shared-System Capacity",
         "leg": "Continuity",
         "aim": "Continuity",
         "cross": "integrative with **Accountability** where review and correction duties apply",
-        "continuity_note": "Constitutional **Continuity** aim â€” durable governance discipline.",
-        "basis": "Chapter One Â§8.1, Â§11.1, Â§12.1, Â§8",
+        "continuity_note": "Constitutional **Continuity** aim ÿÿÿ durable governance discipline.",
+        "basis": "Chapter One ?8.1, ?11.1, ?12.1, ?8",
     },
     "3.14": {
-        "title": "Privacy (Informational) â€” peer-level cluster head",
+        "title": "Privacy (Informational) ÿÿÿ peer-level cluster head",
         "leg": "Continuity",
         "aim": "Flourishing",
         "cross": "integrative with **Participation** and **Oversight**",
         "continuity_note": "",
-        "basis": "Chapter One Â§8.2, Â§4, Â§12.1, Â§12.2",
+        "basis": "Chapter One ?8.2, ?4, ?12.1, ?12.3",
     },
     "3.15": {
         "title": "Trust and Trustworthiness",
@@ -185,15 +185,15 @@ CLUSTER_META: dict[str, dict[str, str]] = {
         "aim": "Flourishing",
         "cross": "",
         "continuity_note": "",
-        "basis": "Â§5, Â§12.1, Â§8",
+        "basis": "?5, ?12.1, ?8",
     },
     "3.16": {
         "title": "Corpus, Authority Stack, Supremacy, and Enforceability",
         "leg": "Integrative",
         "aim": "Flourishing",
-        "cross": "**Oversight**, **Accountability**, and **Participation** â€” authority stack spans all Triad legs",
+        "cross": "**Oversight**, **Accountability**, and **Participation** ÿÿÿ authority stack spans all Triad legs",
         "continuity_note": "",
-        "basis": "Chapter One Â§8.1, Â§4, Chapter One Â§6.2, Â§12.2, Â§10",
+        "basis": "Chapter One ?8.1, ?4, Chapter One ?6.2, ?12.3, ?10",
     },
 }
 
@@ -293,12 +293,12 @@ BAND_PREAMBLES: dict[str, str] = {
         "This band holds definitions under the constitutional [Continuity aim]"
         "(../core_01_a_values_principles.md#continuity): dependency, risk, survival-floor continuity, "
         "labor floors, stewardship discipline, privacy lifecycle, and trust. "
-        "**Continuity disambiguation:** constitutional **Continuity aim** (Chapter One Â§1) is distinct "
+        "**Continuity disambiguation:** constitutional **Continuity aim** (Chapter One ?1) is distinct "
         "from operational or protocol continuity elsewhere in the corpus."
     ),
     "i": (
         "This band holds **Integrative** cross-leg definitions that require simultaneous satisfaction "
-        "across Triad legs and cannot be owned cleanly by one leg alone â€” notably the corpus authority "
+        "across Triad legs and cannot be owned cleanly by one leg alone ÿÿÿ notably the corpus authority "
         "stack, constitutional contract layer, and foundational authorization terms."
     ),
 }
@@ -306,27 +306,27 @@ BAND_PREAMBLES: dict[str, str] = {
 NEW_FILES_SPEC: dict[str, dict] = {
     "core_05o_oversight_definitions.md": {
         "band": "o",
-        "family_title": "Oversight leg definitions (Chapter One Â§8.2â€“Â§3.3 clusters)",
+        "family_title": "Oversight leg definitions (Chapter One ?8.2ÿÿÿ?3.3 clusters)",
         "clusters": ["3.2", "3.3"],
     },
     "core_05p_participation_definitions.md": {
         "band": "p",
-        "family_title": "Participation leg definitions (Â§3.5â€“Â§3.7 clusters)",
+        "family_title": "Participation leg definitions (?3.5ÿÿÿ?3.7 clusters)",
         "clusters": ["3.5", "3.6", "3.7"],
     },
     "core_05a_accountability_definitions.md": {
         "band": "a",
-        "family_title": "Accountability leg definitions (Â§3.8â€“Chapter One Â§8.11 clusters)",
+        "family_title": "Accountability leg definitions (?3.8ÿÿÿChapter One ?8.11 clusters)",
         "clusters": ["3.8", "3.9", "3.10", "3.11"],
     },
     "core_05c_continuity_definitions.md": {
         "band": "c",
-        "family_title": "Continuity aim definitions (Chapter One Â§8.12â€“Chapter One Â§8.15 clusters)",
+        "family_title": "Continuity aim definitions (Chapter One ?8.12ÿÿÿChapter One ?8.15 clusters)",
         "clusters": ["3.12", "3.13", "3.14", "3.15"],
     },
     "core_05i_integrative_definitions.md": {
         "band": "i",
-        "family_title": "Integrative cross-leg definitions (Chapter One Â§8.16 cluster)",
+        "family_title": "Integrative cross-leg definitions (Chapter One ?8.16 cluster)",
         "clusters": ["3.16"],
     },
 }
@@ -366,7 +366,7 @@ ANCHOR_RE = re.compile(r'<a id="([^"]+)"></a>')
 
 
 def renumber_cluster_refs(text: str) -> str:
-    """Renumber Â§3.N cluster references using temp tokens."""
+    """Renumber ?3.N cluster references using temp tokens."""
     ordered = sorted(CLUSTER_RENUMBER.items(), key=lambda kv: len(kv[0]), reverse=True)
     temps: dict[str, str] = {}
     for idx, (old, new) in enumerate(ordered):
@@ -375,14 +375,14 @@ def renumber_cluster_refs(text: str) -> str:
         token = f"__CH5SEC{idx:02d}__"
         temps[token] = new
         for pattern in (
-            rf"\bÂ§{re.escape(old)}\b",
+            rf"\b?{re.escape(old)}\b",
             rf"\bsection {re.escape(old)}\b",
             rf"\bSection {re.escape(old)}\b",
-            rf"\*\*Â§{re.escape(old)}\b",
-            rf"Chapter Five Â§{re.escape(old)}\b",
+            rf"\*\*?{re.escape(old)}\b",
+            rf"Chapter Five ?{re.escape(old)}\b",
             rf"Chapter Five, section {re.escape(old)}\b",
             rf"#### {re.escape(old)}\s",
-            rf"Â§{re.escape(old)}\s+\*",
+            rf"?{re.escape(old)}\s+\*",
         ):
             text = re.sub(pattern, lambda m, t=token: m.group(0).replace(old, t), text)
         text = re.sub(rf"\b{re.escape(old)}\b(?=\s+\*)", token, text)
@@ -449,7 +449,7 @@ def extract_independent_section(part_a: str) -> tuple[str, dict[str, str]]:
     marker = "### 1. Independent Definitions"
     idx = part_a.find(marker)
     if idx < 0:
-        raise RuntimeError("Â§1 marker not found in Part A")
+        raise RuntimeError("?1 marker not found in Part A")
     pre = part_a[:idx].rstrip()
     rest = part_a[idx:]
     footer_idx = rest.find("**Previous file:**")
@@ -698,7 +698,7 @@ def build_band_file(
         "",
         "This file is **part of the Sentient Constitution** and is **binding only together** "
         "with the other numbered `core_*` files read as one instrument. It contains "
-        f"**Chapter Five, {leg} band** â€” Independent, Semi-independent, and Dependent cluster "
+        f"**Chapter Five, {leg} band** ÿÿÿ Independent, Semi-independent, and Dependent cluster "
         f"definitions assigned to the **{leg}** constitutional band. "
         f"Reading order and the compass live in [{PART_A}]({PART_A}#chapter-five-foundational-definitions).",
         "",
@@ -726,7 +726,7 @@ def build_band_file(
         "|---|---|",
     ]
     for cid in spec["clusters"]:
-        parts.append(f"| **Â§{cid}** | {CLUSTER_META[cid]['title']} |")
+        parts.append(f"| **?{cid}** | {CLUSTER_META[cid]['title']} |")
     parts.extend(["", "---", ""])
 
     parts.extend([f"### {leg}: Independent terms", ""])
@@ -770,19 +770,19 @@ def build_compass_section() -> str:
     for new_id in sorted(CLUSTER_META.keys(), key=lambda x: float(x.split(".")[1])):
         m = CLUSTER_META[new_id]
         bf = BAND_FILES[CLUSTER_BAND[new_id]]
-        cross = m.get("cross", "") or "â€”"
-        cont = m.get("continuity_note", "") or "â€”"
+        cross = m.get("cross", "") or "ÿÿÿ"
+        cont = m.get("continuity_note", "") or "ÿÿÿ"
         rows.append(
-            f"| **Â§{new_id}** | {m['title']} | {m['leg']} | {m['aim']} | {m.get('basis', 'â€”')} | {cross} | {cont} | [{bf}]({bf}) |"
+            f"| **?{new_id}** | {m['title']} | {m['leg']} | {m['aim']} | {m.get('basis', 'ÿÿÿ')} | {cross} | {cont} | [{bf}]({bf}) |"
         )
 
     band_rows = []
     ranges = {
-        "o": "Chapter One Â§8.2â€“Â§3.3",
-        "p": "Â§3.5â€“Â§3.7",
-        "a": "Â§3.8â€“Chapter One Â§8.11",
-        "c": "Chapter One Â§8.12â€“Chapter One Â§8.15",
-        "i": "Chapter One Â§8.16",
+        "o": "Chapter One ?8.2ÿÿÿ?3.3",
+        "p": "?3.5ÿÿÿ?3.7",
+        "a": "?3.8ÿÿÿChapter One ?8.11",
+        "c": "Chapter One ?8.12ÿÿÿChapter One ?8.15",
+        "i": "Chapter One ?8.16",
     }
     for band in BAND_ORDER:
         bf = BAND_FILES[band]
@@ -799,8 +799,8 @@ def build_compass_section() -> str:
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [Constitutional Triad](../core_00_preamble.md#constitutional-triad); [Two Constitutional Aims](../core_01_a_values_principles.md#two-constitutional-aims); [material stake](../core_00_preamble.md#material-stake).
-- Downstream: constitutional orientation for all Chapter Five band definitions and Â§3 dependent clusters.
-- Read with: [Â§3.0.1 Joint invocation](#joint-invocation-and-satisfaction) and [Â§3.0.2 Standalone interaction](#standalone-definitions-interaction-and-full-context) meta rules before applying any dependent cluster.
+- Downstream: constitutional orientation for all Chapter Five band definitions and ?3 dependent clusters.
+- Read with: [?3.0.1 Joint invocation](#joint-invocation-and-satisfaction) and [?3.0.2 Standalone interaction](#standalone-definitions-interaction-and-full-context) meta rules before applying any dependent cluster.
 
 </details>
 
@@ -817,7 +817,7 @@ Use this compass before invoking any Chapter Five definition. Chapter Five suppl
 
 **Constitutional bands**
 
-| Band | File | Â§3 cluster range |
+| Band | File | ?3 cluster range |
 |---|---|---|
 {chr(10).join(band_rows)}
 
@@ -830,7 +830,7 @@ Use this compass before invoking any Chapter Five definition. Chapter Five suppl
 
 > The following content is **reader guidance only**. Per-cluster constitutional framing lives in each cluster's Trace block.
 
-| Â§ ID | Title | Triad leg / band | Primary aim | Chapter One Â§ basis | Cross-leg note | Continuity disambiguation | Home file |
+| ? ID | Title | Triad leg / band | Primary aim | Chapter One ? basis | Cross-leg note | Continuity disambiguation | Home file |
 |---|---|---|---|---|---|---|---|
 {chr(10).join(rows)}
 
@@ -923,7 +923,7 @@ def build_part_a(pre: str, meta: str, footer: str, anchor_home: dict[str, str], 
 
     intro = (
         "\n\nThis file is the **Chapter Five index**: reader guidance, alphabetical directory, "
-        "Â§3.0 joint-invocation meta rules, and the constitutional compass. "
+        "?3.0 joint-invocation meta rules, and the constitutional compass. "
         "Independent, semi-independent, and dependent definition bodies live in the five band files "
         f"([Oversight]({BAND_FILES['o']}), [Participation]({BAND_FILES['p']}), "
         f"[Accountability]({BAND_FILES['a']}), [Continuity]({BAND_FILES['c']}), "
@@ -935,7 +935,7 @@ def build_part_a(pre: str, meta: str, footer: str, anchor_home: dict[str, str], 
             pre_lines[i] = (
                 "This file is **part of the Sentient Constitution** and is **binding only together** "
                 "with the other numbered `core_*` files read as one instrument. It contains "
-                "**Chapter Five, Part A** â€” reader guidance, alphabetical directory, Â§3.0 meta rules, "
+                "**Chapter Five, Part A** ÿÿÿ reader guidance, alphabetical directory, ?3.0 meta rules, "
                 "and the constitutional compass."
             )
             break
@@ -959,7 +959,7 @@ def build_part_a(pre: str, meta: str, footer: str, anchor_home: dict[str, str], 
 
 
 def build_redirect_stub(old_file: str, new_file: str, note: str) -> str:
-    return f"""# Redirect â€” retired Chapter Five file
+    return f"""# Redirect ÿÿÿ retired Chapter Five file
 
 This file is **retired** after the Chapter Five constitutional band reorganization. {note}
 

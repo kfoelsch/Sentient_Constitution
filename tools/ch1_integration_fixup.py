@@ -60,10 +60,10 @@ FIXUPS = [
     # Part B ops section refs
     ("#11-stewardship-and-distributed-understanding", "#11-stewardship-and-distributed-understanding"),
     ("#12-governance-under-stewardship-discipline", "#12-governance-under-stewardship-discipline"),
-    ("#124-stewardship-and-operator-incentive-alignment", "#124-stewardship-and-operator-incentive-alignment"),
+    ("#123-stewardship-and-operator-incentive-alignment", "#123-stewardship-and-operator-incentive-alignment"),
     ("[§11 Stewardship and Distributed Understanding](core_01_b_stewardship_capacity_principles.md#11-stewardship", "[§11 Stewardship and Distributed Understanding](core_01_b_stewardship_capacity_principles.md#11-stewardship"),
     ("[§12 Governance Under Stewardship Discipline](core_01_b_stewardship_capacity_principles.md#12-governance", "[§12 Governance Under Stewardship Discipline](core_01_b_stewardship_capacity_principles.md#12-governance"),
-    ("[§12.4 Stewardship and Operator Incentive Alignment](core_01_b_stewardship_capacity_principles.md#124-", "[§12.4 Stewardship and Operator Incentive Alignment](core_01_b_stewardship_capacity_principles.md#124-"),
+    ("[§12.2 Stewardship and Operator Incentive Alignment](core_01_b_stewardship_capacity_principles.md#124-", "[§12.2 Stewardship and Operator Incentive Alignment](core_01_b_stewardship_capacity_principles.md#124-"),
     ("[§13 Shared-System Capacity](core_01_b_stewardship_capacity_principles.md#8-shared", "[§13 Shared-System Capacity](core_01_b_stewardship_capacity_principles.md#13-shared"),
     ("[§11 Stewardship and Distributed Understanding](#6-stewardship", "[§11 Stewardship and Distributed Understanding](#11-stewardship"),
     ("[§12 Governance Under Stewardship Discipline](#7-governance", "[§12 Governance Under Stewardship Discipline](#12-governance"),
