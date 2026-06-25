@@ -74,11 +74,11 @@
 | `#611-proportionality` | `#611-proportionality` |
 | `#641-rights-collision-decision-test` | `#641-rights-collision-decision-test` |
 | `#632-time-consistency-constraint` | `#632-time-consistency-constraint` |
-| `#151-required-evaluation-factors` | `#151-required-evaluation-factors` |
+| `#131-required-evaluation-factors` | `#131-required-evaluation-factors` |
 | `#5-freedom-bounded-agency` | `#5-freedom-bounded-agency` |
 | `#7-prohibition-on-absolute-override` | `#7-prohibition-on-absolute-override` |
 | `#3-integrated-application` | `#3-integrated-application` |
-| `#11-stewardship-and-distributed-understanding` | `#11-stewardship-and-distributed-understanding` |
+| `#9-stewardship-and-distributed-understanding` | `#9-stewardship-and-distributed-understanding` |
 | `#10-market-structure` | `#10-market-structure` |
 | `#1433-ceiling-crossing-rebuttal-and-remedies` | `#1433-ceiling-crossing-rebuttal-and-remedies` |
 

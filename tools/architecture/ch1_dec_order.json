@@ -15,8 +15,10 @@
     "Dependency",
     "Foreseeability"
   ],
-  "### 11. Stewardship and Distributed Understanding": [
+  "### 9. Stewardship and Distributed Understanding": [
     "Strategic Stewardship Obligation",
+    "Participation",
+    "Oversight",
     "Meaningful Agency",
     "Auditability",
     "Contestability",
@@ -32,7 +34,7 @@
     "Avoidable Burden",
     "Epistemic Integrity"
   ],
-  "### 13. Shared-System Capacity": [
+  "### 11. Shared-System Capacity": [
     "Productive Capacity",
     "Constitutional Efficiency",
     "Wellbeing",
@@ -47,7 +49,7 @@
     "Environmental Preconditions",
     "Intergenerational Responsibility"
   ],
-  "### 14. Market Structure": [
+  "### 12. Market Structure": [
     "Market Structure",
     "Concentration Threshold",
     "Contestability",
@@ -55,12 +57,12 @@
     "Dependency",
     "Meaningful Agency"
   ],
-  "#### 11.1 Stewardship": [
+  "#### 9.1 Stewardship": [
     "Strategic Stewardship Obligation",
     "Meaningful Agency",
     "Auditability"
   ],
-  "#### 11.2 Distributed Understanding": [
+  "#### 9.2 Distributed Understanding": [
     "Transparency",
     "Materiality",
     "Dependency",
@@ -106,7 +108,7 @@
     "System Creation",
     "Business Creation"
   ],
-  "##### 6.4.1 Rights-Collision Decision Test": [
+  "##### 6.3.1 Rights-Collision Decision Test": [
     "Necessity",
     "Proportionality",
     "Feasibility",
@@ -116,7 +118,7 @@
     "Proxy Divergence",
     "Avoidable Burden"
   ],
-  "#### 15.1 Required Evaluation Factors": [
+  "#### 13.1 Required Evaluation Factors": [
     "Dependency",
     "Materiality",
     "Foreseeability",
@@ -129,13 +131,13 @@
     "Existential Risk",
     "Incentive Alignment"
   ],
-  "##### 15.1.6 Time-Consistency Constraint": [
+  "##### 13.1.6 Time-Consistency Constraint": [
     "Safety (Constraint)",
     "Truth (Constitutional Constraint)",
     "Wellbeing",
     "Foreseeability"
   ],
-  "#### 12.4 Stewardship and Operator Incentive Alignment": [
+  "#### 10.3 Stewardship and Operator Incentive Alignment": [
     "Incentive Alignment",
     "Productive Capacity",
     "Constitutional Efficiency",
@@ -147,7 +149,7 @@
     "System Capture",
     "Meaningful Agency"
   ],
-  "### 16. Integrated Application": [
+  "### 14. Integrated Application": [
     "Corpus",
     "Authority Stack and Internal Hierarchy",
     "Supremacy and Enforceability",

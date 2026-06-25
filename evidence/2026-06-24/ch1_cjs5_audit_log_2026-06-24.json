@@ -122,104 +122,104 @@
       "line": 1166,
       "file": "core_01_a_values_principles.md"
     },
-    "11": {
+    "9": {
       "title": "Stewardship and Distributed Understanding",
-      "line": 63,
+      "line": 104,
+      "file": "core_01_b_stewardship_capacity_principles.md"
+    },
+    "9.1": {
+      "title": "Stewardship",
+      "line": 157,
+      "file": "core_01_b_stewardship_capacity_principles.md"
+    },
+    "9.2": {
+      "title": "Distributed Understanding",
+      "line": 189,
+      "file": "core_01_b_stewardship_capacity_principles.md"
+    },
+    "9.3": {
+      "title": "Institutional Development",
+      "line": 219,
+      "file": "core_01_b_stewardship_capacity_principles.md"
+    },
+    "9.4": {
+      "title": "Openness Aspiration",
+      "line": 252,
+      "file": "core_01_b_stewardship_capacity_principles.md"
+    },
+    "10": {
+      "title": "Governance Under Stewardship Discipline",
+      "line": 290,
+      "file": "core_01_b_stewardship_capacity_principles.md"
+    },
+    "10.1": {
+      "title": "Governance as Authorized Structure",
+      "line": 309,
+      "file": "core_01_b_stewardship_capacity_principles.md"
+    },
+    "10.2": {
+      "title": "Incentive Alignment and System Capture",
+      "line": 331,
+      "file": "core_01_b_stewardship_capacity_principles.md"
+    },
+    "10.3": {
+      "title": "Stewardship and Operator Incentive Alignment",
+      "line": 486,
+      "file": "core_01_b_stewardship_capacity_principles.md"
+    },
+    "11": {
+      "title": "Shared-System Capacity",
+      "line": 536,
       "file": "core_01_b_stewardship_capacity_principles.md"
     },
     "11.1": {
-      "title": "Stewardship",
-      "line": 116,
+      "title": "Productive Capacity (Instrumental Good)",
+      "line": 574,
       "file": "core_01_b_stewardship_capacity_principles.md"
     },
     "11.2": {
-      "title": "Distributed Understanding",
-      "line": 148,
-      "file": "core_01_b_stewardship_capacity_principles.md"
-    },
-    "11.3": {
-      "title": "Institutional Development",
-      "line": 178,
-      "file": "core_01_b_stewardship_capacity_principles.md"
-    },
-    "11.4": {
-      "title": "Openness Aspiration",
-      "line": 209,
+      "title": "Constitutional Efficiency",
+      "line": 603,
       "file": "core_01_b_stewardship_capacity_principles.md"
     },
     "12": {
-      "title": "Governance Under Stewardship Discipline",
-      "line": 247,
+      "title": "Market Structure",
+      "line": 619,
       "file": "core_01_b_stewardship_capacity_principles.md"
     },
     "12.1": {
-      "title": "Governance as Authorized Structure",
-      "line": 266,
+      "title": "Concentration Threshold Mechanism (Adopter-Tunable)",
+      "line": 653,
       "file": "core_01_b_stewardship_capacity_principles.md"
     },
     "12.2": {
-      "title": "Incentive Alignment and System Capture",
-      "line": 288,
+      "title": "Pro-Competition and Anti-Domination",
+      "line": 689,
       "file": "core_01_b_stewardship_capacity_principles.md"
     },
     "12.3": {
-      "title": "Stewardship and Operator Incentive Alignment",
-      "line": 443,
+      "title": "Consolidation Ceiling",
+      "line": 726,
       "file": "core_01_b_stewardship_capacity_principles.md"
     },
     "13": {
-      "title": "Shared-System Capacity",
-      "line": 493,
+      "title": "Systemic Evaluation Requirement",
+      "line": 773,
       "file": "core_01_b_stewardship_capacity_principles.md"
     },
     "13.1": {
-      "title": "Productive Capacity (Instrumental Good)",
-      "line": 531,
+      "title": "Required Evaluation Factors",
+      "line": 809,
       "file": "core_01_b_stewardship_capacity_principles.md"
     },
     "13.2": {
-      "title": "Constitutional Efficiency",
-      "line": 560,
+      "title": "Read-with: Governance and Incentive Discipline",
+      "line": 960,
       "file": "core_01_b_stewardship_capacity_principles.md"
     },
     "14": {
-      "title": "Market Structure",
-      "line": 576,
-      "file": "core_01_b_stewardship_capacity_principles.md"
-    },
-    "14.1": {
-      "title": "Concentration Threshold Mechanism (Adopter-Tunable)",
-      "line": 610,
-      "file": "core_01_b_stewardship_capacity_principles.md"
-    },
-    "14.2": {
-      "title": "Pro-Competition and Anti-Domination",
-      "line": 646,
-      "file": "core_01_b_stewardship_capacity_principles.md"
-    },
-    "14.3": {
-      "title": "Consolidation Ceiling",
-      "line": 683,
-      "file": "core_01_b_stewardship_capacity_principles.md"
-    },
-    "15": {
-      "title": "Systemic Evaluation Requirement",
-      "line": 730,
-      "file": "core_01_b_stewardship_capacity_principles.md"
-    },
-    "15.1": {
-      "title": "Required Evaluation Factors",
-      "line": 765,
-      "file": "core_01_b_stewardship_capacity_principles.md"
-    },
-    "15.2": {
-      "title": "Read-with: Governance and Incentive Discipline",
-      "line": 896,
-      "file": "core_01_b_stewardship_capacity_principles.md"
-    },
-    "16": {
       "title": "Integrated Application",
-      "line": 910,
+      "line": 974,
       "file": "core_01_b_stewardship_capacity_principles.md"
     }
   },

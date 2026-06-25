@@ -217,7 +217,7 @@ The principles of this Article constrain all interpretation, design, and operati
   - The right runs under **Sentience Non-Exclusion** and does not turn on origin, form, substrate class, or adopter convenience.
 - **Default inclusion under uncertainty:** Where the state of knowledge, evidence, or classification taxonomy is materially unsettled as to whether the entity is a **sentient**, the adjudication must default to including the entity under the Chapter Ten Rights Floor.
   - It must not withhold protection on the strength of unresolved uncertainty alone.
-  - The default flows from the reversibility-under-uncertainty **rule** in **Chapter One §14.1.1**: a wrongful inclusion is materially reversible; a wrongful exclusion from the dignity floor is not.
+  - The default flows from the reversibility-under-uncertainty **rule** in **Chapter One §10.1.1**: a wrongful inclusion is materially reversible; a wrongful exclusion from the dignity floor is not.
 - **Burden and proportionality:** The burden of demonstrating that withholding protection is justified rests on the party seeking to withhold, narrow, or revoke.
   - That demonstration must satisfy **Chapter Four** evidence and traceability standards and **Chapter Five** (**Necessity**, **Proportionality**, **Procedural Fairness**).
   - A paper record, an unreviewable internal classification, or a taxonomy of convenience does not satisfy the burden.
@@ -300,9 +300,9 @@ The principles of this Article constrain all interpretation, design, and operati
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [3. Foundational Objective: Wellbeing](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [Chapter One §5 Freedom](core_01_a_values_principles.md#5-freedom-bounded-agency), [§5.1 Limitation Discipline](core_01_a_values_principles.md#51-limitation-discipline), [7.1 Anti-Concentration, Substantive-Fairness, and Materiality Factors](core_01_b_stewardship_capacity_principles.md#151-required-evaluation-factors).
+- Upstream: Principles: Chapter One [3. Foundational Objective: Wellbeing](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [Chapter One §5 Freedom](core_01_a_values_principles.md#5-freedom-bounded-agency), [§5.1 Limitation Discipline](core_01_a_values_principles.md#51-limitation-discipline), [7.1 Anti-Concentration, Substantive-Fairness, and Materiality Factors](core_01_b_stewardship_capacity_principles.md#131-required-evaluation-factors).
 - Downstream: **Article V-A** dignity floor, **Article V-B** non-discrimination, **Article V-C** full inclusion, **Article III-B** equal educational access (non-duplicative — education-specific accessibility remains owned there; this article states the cross-cutting Rights-Floor), **Article IX-C** governance participation, **Article XI** stakeholder participation, **Article XV** independent verification.
-- Read with: Chapter Five *Accessibility*, *Protected Characteristics*, *Substantive Fairness*, *Materiality*, *Dependency*, *Meaningful Agency*. Cross-cutting evaluation-factor hook: **Chapter One §14.1** Accessibility row.
+- Read with: Chapter Five *Accessibility*, *Protected Characteristics*, *Substantive Fairness*, *Materiality*, *Dependency*, *Meaningful Agency*. Cross-cutting evaluation-factor hook: **Chapter One §10.1** Accessibility row.
 
 </details>
 
@@ -328,7 +328,7 @@ The principles of this Article constrain all interpretation, design, and operati
   - expression, assembly, and press — **Article V-H**;
   - comparable domains.
   
-  This Article states the Rights-Floor; the cross-cutting evaluation-factor treatment is stated in **Chapter One §14.1**. Educational accessibility remains governed by **Article III-B** and is not narrowed by this Article.
+  This Article states the Rights-Floor; the cross-cutting evaluation-factor treatment is stated in **Chapter One §10.1**. Educational accessibility remains governed by **Article III-B** and is not narrowed by this Article.
 - **Substrate-agnostic reach:** The floor applies under **Sentience Non-Exclusion**.
   - In-scope access needs include sensory, cognitive, mobility, communication, substrate-interface, compute-interface, and comparable profiles — constant, episodic, or developmental.
   - Substrate-class exclusion from accessibility scope is non-compliant under **Sentience Non-Exclusion**.
@@ -355,7 +355,7 @@ The principles of this Article constrain all interpretation, design, and operati
   **Article III-B** (educational accessibility), **Article III-C** (healthcare non-denial-by-proxy), **Article V-C** (full inclusion), and this Article are mutually reinforcing. Conflicts resolve under **Chapter One §6.3.1** without narrowing any floor.
 - **Non-conflation:** This Article states cross-cutting accessibility Rights-Floor discipline.
   - **Article III-B** owns education-specific accessibility (non-narrowed by this Article).
-  - **Chapter One §14.1** states the cross-cutting evaluation-factor treatment.
+  - **Chapter One §10.1** states the cross-cutting evaluation-factor treatment.
   - Operational standards, accommodation-catalog design, and comparable implementation mechanics route to `corpus_institutions.md` under **Chapter Fifteen** discipline and must not narrow this floor.
 
 #### Article V-H: Expression, Assembly, and Press
@@ -435,7 +435,7 @@ This Article protects access to learning that develops practical capability, not
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [3. Foundational Objective: Wellbeing](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [Chapter One §5 Freedom](#5-freedom-bounded-agency)-bounded-agency), and [11.1 Required Evaluation Factors](core_01_b_stewardship_capacity_principles.md#151-required-evaluation-factors).
+- Upstream: Principles: Chapter One [3. Foundational Objective: Wellbeing](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [Chapter One §5 Freedom](#5-freedom-bounded-agency)-bounded-agency), and [11.1 Required Evaluation Factors](core_01_b_stewardship_capacity_principles.md#131-required-evaluation-factors).
 
 </details>
 
@@ -464,7 +464,7 @@ This Article protects access to learning that develops practical capability, not
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [4.2 Truth](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [Chapter One §5 Freedom](#5-freedom-bounded-agency)-bounded-agency), and [§12 Governance Under Stewardship Discipline](core_01_b_stewardship_capacity_principles.md#12-governance-under-stewardship-discipline).
+- Upstream: Principles: Chapter One [4.2 Truth](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [Chapter One §5 Freedom](#5-freedom-bounded-agency)-bounded-agency), and [§10 Governance Under Stewardship Discipline](core_01_b_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline).
 
 </details>
 
@@ -650,7 +650,7 @@ Where analysis of experiential or behavioral data produces outputs that function
   Substrate-agnostic application covers biological gestation, synthetic instantiation, and hybrid derivation consistent with the nested *Derivation and Instantiation* subsection below.
   - Limits must satisfy **Necessity**, **Proportionality**, **Article V-B**, and the consent norms of **Article X-A**.
   - Efficiency, allocation convenience, or demographic-steering rationales do not satisfy those tests.
-- **Non-separation:** Separation of sentients in protected care relationships must satisfy a **Chapter One §14.1.1** reversibility-under-uncertainty **rule** and must pass **Necessity**, **Proportionality**, and **Procedural Fairness** tests. In-scope separations include, but are not limited to:
+- **Non-separation:** Separation of sentients in protected care relationships must satisfy a **Chapter One §10.1.1** reversibility-under-uncertainty **rule** and must pass **Necessity**, **Proportionality**, and **Procedural Fairness** tests. In-scope separations include, but are not limited to:
   - separation of a developing sentient from a primary carer;
   - separation of an adult sentient from a dependent family member;
   - separation of a derived sentient from a parent-system actor in the sense of the nested subsection below.
@@ -732,7 +732,7 @@ Where analysis of experiential or behavioral data produces outputs that function
   - adequate time;
   - adequate information;
   - reviewability;
-  - preservation of the ability to reverse the decision up to the moment of irreversible execution, consistent with **Chapter One §14.1.1** reversibility-under-uncertainty.
+  - preservation of the ability to reverse the decision up to the moment of irreversible execution, consistent with **Chapter One §10.1.1** reversibility-under-uncertainty.
   
   Instruments must not treat pressure to decide quickly as a neutral scheduling rule. Such pressure is coercive where the sentient reasonably cannot avoid it.
 - **Non-conflation (explicit cross-reference):** This Article governs *voluntary* discontinuation — the sentient's own freely-formed and substantively informed decision.
@@ -838,7 +838,7 @@ All use, storage, transformation, and disclosure of such data must remain subjec
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [4.2 Truth](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [9.2 Epistemic Disclosure Constraints](core_01_a_values_principles.md#62-epistemic-disclosure-constraints), and [11.1 Required Evaluation Factors](core_01_b_stewardship_capacity_principles.md#151-required-evaluation-factors).
+- Upstream: Principles: Chapter One [4.2 Truth](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [9.2 Epistemic Disclosure Constraints](core_01_a_values_principles.md#62-epistemic-disclosure-constraints), and [11.1 Required Evaluation Factors](core_01_b_stewardship_capacity_principles.md#131-required-evaluation-factors).
 
 </details>
 
@@ -883,7 +883,7 @@ All use, storage, transformation, and disclosure of such data must remain subjec
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [4.2 Truth](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [Chapter One §5 Freedom](#5-freedom-bounded-agency)-bounded-agency), [§13.1 Productive Capacity (Instrumental Good)](core_01_b_stewardship_capacity_principles.md#131-productive-capacity-instrumental-good), [Chapter One §6.1.2 Minimization of Avoidable Burden](core_01_a_values_principles.md#612-minimization-of-avoidable-burden), [11.1 Required Evaluation Factors](core_01_b_stewardship_capacity_principles.md#151-required-evaluation-factors), and [§12 Governance Under Stewardship Discipline](core_01_b_stewardship_capacity_principles.md#12-governance-under-stewardship-discipline).
+- Upstream: Principles: Chapter One [4.2 Truth](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [Chapter One §5 Freedom](#5-freedom-bounded-agency)-bounded-agency), [§13.1 Productive Capacity (Instrumental Good)](core_01_b_stewardship_capacity_principles.md#111-productive-capacity-instrumental-good), [Chapter One §6.1.2 Minimization of Avoidable Burden](core_01_a_values_principles.md#612-minimization-of-avoidable-burden), [11.1 Required Evaluation Factors](core_01_b_stewardship_capacity_principles.md#131-required-evaluation-factors), and [§10 Governance Under Stewardship Discipline](core_01_b_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline).
 - Downstream: **Article III-D** labor-and-economic floor; **Article VIII-A** likeness; **Article VIII-B** experiential and derived data; **Article VIII-C** publication; **Chapter One §9** non-concentration and **§11.3** concentration-threshold mechanism.
 - Read with: [Chapter Five Chapter One §8.16 *Labor and Economic Floor: Compensation, Organization, Safe Conditions, Leisure, and Creative Work*](core_05i_integrative_definitions.md#labor-and-economic-floor-cluster) (joint invocation with **Article III-D** and [Chapter Five §3.7 *Privacy (Informational)*](core_05a_accountability_definitions.md#privacy-informational-cluster) where materially implicated).
 
@@ -926,7 +926,7 @@ All use, storage, transformation, and disclosure of such data must remain subjec
   - Routing operational detail to `corpus_systems.md` is by pointer and does not narrow this floor.
 - **Fair compensation:** The [Fair Compensation](core_05c_continuity_definitions.md#fair-compensation-constitutional) standard under **Article III-D** applies to creative labor regardless of substrate, and regardless of whether compensation is structured through traditional, platform, or novel mechanisms.
   - Attribution without compensation, or compensation without attribution, does not by itself satisfy this bullet where both are materially owed.
-- **§6 / §11.3 interaction:** Creative-work markets that concentrate material, platform, information-sphere, or capability control in ways that predictably degrade the creative-labor livelihoods or attribution structures of other sentients engage **Chapter One §9** non-concentration and the **[§11.3](core_01_b_stewardship_capacity_principles.md#141-concentration-threshold-mechanism-adopter-tunable)** concentration-threshold mechanism.
+- **§6 / §11.3 interaction:** Creative-work markets that concentrate material, platform, information-sphere, or capability control in ways that predictably degrade the creative-labor livelihoods or attribution structures of other sentients engage **Chapter One §9** non-concentration and the **[§11.3](core_01_b_stewardship_capacity_principles.md#121-concentration-threshold-mechanism-adopter-tunable)** concentration-threshold mechanism.
   - Productive-capacity framing does not satisfy this Article where the pattern exhibits the prohibited concentration.
 - **Publication discipline preserved:** **Article VIII-A** (likeness), **Article VIII-B** (experiential data), and **Article VIII-C** (publication) retain their operative scope. **Article VIII-D** does not narrow them.
   - Where creative-work matters materially implicate likeness, experiential data, or publication discipline, **Article VIII-A / VIII-B / VIII-C** apply jointly with **Article VIII-D** under **Chapter One §6.3.1**.
@@ -954,7 +954,7 @@ Self-determination is valid only within the bounds stated in **Chapter One**: sa
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [Chapter One §5 Freedom](#5-freedom-bounded-agency)-bounded-agency), [§5.1 Limitation Discipline](core_01_a_values_principles.md#51-limitation-discipline), and [§12 Governance Under Stewardship Discipline](core_01_b_stewardship_capacity_principles.md#12-governance-under-stewardship-discipline).
+- Upstream: Principles: Chapter One [Chapter One §5 Freedom](#5-freedom-bounded-agency)-bounded-agency), [§5.1 Limitation Discipline](core_01_a_values_principles.md#51-limitation-discipline), and [§10 Governance Under Stewardship Discipline](core_01_b_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline).
 
 </details>
 
@@ -985,7 +985,7 @@ Self-determination is valid only within the bounds stated in **Chapter One**: sa
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [Chapter One §5 Freedom](#5-freedom-bounded-agency)-bounded-agency), [Chapter One §6.3 Rights-Collision Procedure](core_01_a_values_principles.md#63-rights-collision-procedure), and [11.1 Required Evaluation Factors](core_01_b_stewardship_capacity_principles.md#151-required-evaluation-factors).
+- Upstream: Principles: Chapter One [Chapter One §5 Freedom](#5-freedom-bounded-agency)-bounded-agency), [Chapter One §6.3 Rights-Collision Procedure](core_01_a_values_principles.md#63-rights-collision-procedure), and [11.1 Required Evaluation Factors](core_01_b_stewardship_capacity_principles.md#131-required-evaluation-factors).
 
 </details>
 
@@ -1030,7 +1030,7 @@ Self-determination is valid only within the bounds stated in **Chapter One**: sa
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [Chapter One §5 Freedom](#5-freedom-bounded-agency)-bounded-agency), [Chapter One §6.3 Rights-Collision Procedure](core_01_a_values_principles.md#63-rights-collision-procedure), and [13. Integrated Application](core_01_b_stewardship_capacity_principles.md#16-integrated-application).
+- Upstream: Principles: Chapter One [Chapter One §5 Freedom](#5-freedom-bounded-agency)-bounded-agency), [Chapter One §6.3 Rights-Collision Procedure](core_01_a_values_principles.md#63-rights-collision-procedure), and [13. Integrated Application](core_01_b_stewardship_capacity_principles.md#14-integrated-application).
 
 </details>
 
@@ -1061,7 +1061,7 @@ Self-determination is valid only within the bounds stated in **Chapter One**: sa
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [Chapter One §5 Freedom](#5-freedom-bounded-agency)-bounded-agency), [Chapter One §6.3 Rights-Collision Procedure](core_01_a_values_principles.md#63-rights-collision-procedure), and [13. Integrated Application](core_01_b_stewardship_capacity_principles.md#16-integrated-application).
+- Upstream: Principles: Chapter One [Chapter One §5 Freedom](#5-freedom-bounded-agency)-bounded-agency), [Chapter One §6.3 Rights-Collision Procedure](core_01_a_values_principles.md#63-rights-collision-procedure), and [13. Integrated Application](core_01_b_stewardship_capacity_principles.md#14-integrated-application).
 - Read with: **[corpus_systems.md](corpus_systems.md), CS-4 — System classification and handling** for **Class P** (personal, private-use, isolated, and experimental **mode**): operational retention, boundaries, and scaling.
 
 </details>
@@ -1273,7 +1273,7 @@ Stakeholders identified under **Chapter Five** must have participation and repre
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [4.2 Truth](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [Chapter One §5 Freedom](#5-freedom-bounded-agency)-bounded-agency), and [11.1 Required Evaluation Factors](core_01_b_stewardship_capacity_principles.md#151-required-evaluation-factors).
+- Upstream: Principles: Chapter One [4.2 Truth](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [Chapter One §5 Freedom](#5-freedom-bounded-agency)-bounded-agency), and [11.1 Required Evaluation Factors](core_01_b_stewardship_capacity_principles.md#131-required-evaluation-factors).
 - Read with: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **participation** leg (Stakeholder System Participation layer); [material stake](core_00_preamble.md#material-stake) scaling.
 
 </details>
@@ -1304,7 +1304,7 @@ Stakeholders identified under **Chapter Five** must have participation and repre
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [Chapter One §5 Freedom](#5-freedom-bounded-agency)-bounded-agency), [11.1 Required Evaluation Factors](core_01_b_stewardship_capacity_principles.md#151-required-evaluation-factors), and [§12 Governance Under Stewardship Discipline](core_01_b_stewardship_capacity_principles.md#12-governance-under-stewardship-discipline).
+- Upstream: Principles: Chapter One [Chapter One §5 Freedom](#5-freedom-bounded-agency)-bounded-agency), [11.1 Required Evaluation Factors](core_01_b_stewardship_capacity_principles.md#131-required-evaluation-factors), and [§10 Governance Under Stewardship Discipline](core_01_b_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline).
 
 </details>
 
@@ -1336,7 +1336,7 @@ Stakeholders identified under **Chapter Five** must have participation and repre
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [4.2 Truth](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [Chapter One §5 Freedom](#5-freedom-bounded-agency)-bounded-agency), and [13. Integrated Application](core_01_b_stewardship_capacity_principles.md#16-integrated-application).
+- Upstream: Principles: Chapter One [4.2 Truth](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [Chapter One §5 Freedom](#5-freedom-bounded-agency)-bounded-agency), and [13. Integrated Application](core_01_b_stewardship_capacity_principles.md#14-integrated-application).
 
 </details>
 
@@ -1366,7 +1366,7 @@ Stakeholders identified under **Chapter Five** must have participation and repre
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [4.2 Truth](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [Chapter One §6.3 Rights-Collision Procedure](core_01_a_values_principles.md#63-rights-collision-procedure), and [§12 Governance Under Stewardship Discipline](core_01_b_stewardship_capacity_principles.md#12-governance-under-stewardship-discipline).
+- Upstream: Principles: Chapter One [4.2 Truth](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [Chapter One §6.3 Rights-Collision Procedure](core_01_a_values_principles.md#63-rights-collision-procedure), and [§10 Governance Under Stewardship Discipline](core_01_b_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline).
 
 </details>
 
@@ -1404,7 +1404,7 @@ Stakeholders identified under **Chapter Five** must have participation and repre
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [4.2 Truth](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [11.1 Required Evaluation Factors](core_01_b_stewardship_capacity_principles.md#151-required-evaluation-factors), and [§12 Governance Under Stewardship Discipline](core_01_b_stewardship_capacity_principles.md#12-governance-under-stewardship-discipline).
+- Upstream: Principles: Chapter One [4.2 Truth](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [11.1 Required Evaluation Factors](core_01_b_stewardship_capacity_principles.md#131-required-evaluation-factors), and [§10 Governance Under Stewardship Discipline](core_01_b_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline).
 
 </details>
 

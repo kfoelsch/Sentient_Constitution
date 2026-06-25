@@ -481,20 +481,20 @@
             "file": "core_01_b_stewardship_capacity_principles.md",
             "count": 35,
             "anchors": [
-              "#11-stewardship-and-distributed-understanding",
-              "#111-stewardship",
-              "#12-governance-under-stewardship-discipline",
+              "#9-stewardship-and-distributed-understanding",
+              "#91-stewardship",
+              "#10-governance-under-stewardship-discipline",
               "#122--under-stewardship-discipline",
               "#124-stewardship-and-operator-incentive-alignment",
-              "#13-shared-system-capacity",
-              "#14-market-structure",
-              "#142-pro-competition-and-anti-domination",
-              "#15-systemic-evaluation-requirement",
-              "#151-required-evaluation-factors",
-              "#1514-voluntary-discontinuation-and-exit-rights",
-              "#1515-assembly-collective-organization-and-institutional-formation",
-              "#1516-time-consistency-constraint",
-              "#16-integrated-application"
+              "#11-shared-system-capacity",
+              "#12-market-structure",
+              "#122-pro-competition-and-anti-domination",
+              "#13-systemic-evaluation-requirement",
+              "#131-required-evaluation-factors",
+              "#1314-voluntary-discontinuation-and-exit-rights",
+              "#1315-assembly-collective-organization-and-institutional-formation",
+              "#1316-time-consistency-constraint",
+              "#14-integrated-application"
             ]
           },
           {
@@ -847,7 +847,7 @@
             "file": "core_01_b_stewardship_capacity_principles.md",
             "count": 2,
             "anchors": [
-              "#11-stewardship-and-distributed-understanding"
+              "#9-stewardship-and-distributed-understanding"
             ]
           },
           {
@@ -1558,11 +1558,11 @@
             "file": "core_01_b_stewardship_capacity_principles.md",
             "count": 14,
             "anchors": [
-              "#11-stewardship-and-distributed-understanding",
-              "#112-distributed-understanding",
-              "#12-governance-under-stewardship-discipline",
+              "#9-stewardship-and-distributed-understanding",
+              "#92-distributed-understanding",
+              "#10-governance-under-stewardship-discipline",
               "#123-institutional-development",
-              "#151-required-evaluation-factors"
+              "#131-required-evaluation-factors"
             ]
           },
           {
@@ -1721,10 +1721,10 @@
             "file": "core_01_b_stewardship_capacity_principles.md",
             "count": 17,
             "anchors": [
-              "#11-stewardship-and-distributed-understanding",
-              "#12-governance-under-stewardship-discipline",
-              "#13-shared-system-capacity",
-              "#151-required-evaluation-factors"
+              "#9-stewardship-and-distributed-understanding",
+              "#10-governance-under-stewardship-discipline",
+              "#11-shared-system-capacity",
+              "#131-required-evaluation-factors"
             ]
           },
           {
@@ -1989,14 +1989,14 @@
             "file": "core_01_b_stewardship_capacity_principles.md",
             "count": 39,
             "anchors": [
-              "#12-governance-under-stewardship-discipline",
-              "#131-productive-capacity-instrumental-good",
-              "#14-market-structure",
-              "#141-concentration-threshold-mechanism-adopter-tunable",
-              "#142-pro-competition-and-anti-domination",
-              "#143-consolidation-ceiling",
-              "#151-required-evaluation-factors",
-              "#16-integrated-application",
+              "#10-governance-under-stewardship-discipline",
+              "#111-productive-capacity-instrumental-good",
+              "#12-market-structure",
+              "#121-concentration-threshold-mechanism-adopter-tunable",
+              "#122-pro-competition-and-anti-domination",
+              "#123-consolidation-ceiling",
+              "#131-required-evaluation-factors",
+              "#14-integrated-application",
               "#77-contingent-claims-games-of-chance-and-event-contract-markets"
             ]
           },
@@ -2337,21 +2337,21 @@
             "file": "core_01_b_stewardship_capacity_principles.md",
             "count": 55,
             "anchors": [
-              "#11-stewardship-and-distributed-understanding",
-              "#112-distributed-understanding",
-              "#12-governance-under-stewardship-discipline",
+              "#9-stewardship-and-distributed-understanding",
+              "#92-distributed-understanding",
+              "#10-governance-under-stewardship-discipline",
               "#122-short-horizon-governance-defects",
               "#123-alignment-requirement",
               "#124-openness-aspiration",
               "#124-stewardship-and-operator-incentive-alignment",
-              "#13-shared-system-capacity",
-              "#131-productive-capacity-instrumental-good",
-              "#132-constitutional-efficiency",
-              "#14-market-structure",
-              "#141-concentration-threshold-mechanism-adopter-tunable",
-              "#143-consolidation-ceiling",
-              "#151-required-evaluation-factors",
-              "#1516-time-consistency-constraint",
+              "#11-shared-system-capacity",
+              "#111-productive-capacity-instrumental-good",
+              "#112-constitutional-efficiency",
+              "#12-market-structure",
+              "#121-concentration-threshold-mechanism-adopter-tunable",
+              "#123-consolidation-ceiling",
+              "#131-required-evaluation-factors",
+              "#1316-time-consistency-constraint",
               "#chapter-01-part-b-stewardship-and-governance"
             ]
           },
@@ -2613,12 +2613,12 @@
             "file": "core_01_b_stewardship_capacity_principles.md",
             "count": 8,
             "anchors": [
-              "#12-governance-under-stewardship-discipline",
+              "#10-governance-under-stewardship-discipline",
               "#123-alignment-requirement",
               "#1232-misalignment-correction-and-capture-response",
               "#124-stewardship-and-operator-incentive-alignment",
-              "#151-required-evaluation-factors",
-              "#16-integrated-application"
+              "#131-required-evaluation-factors",
+              "#14-integrated-application"
             ]
           },
           {
@@ -2766,7 +2766,7 @@
             "file": "core_01_b_stewardship_capacity_principles.md",
             "count": 5,
             "anchors": [
-              "#11-stewardship-and-distributed-understanding",
+              "#9-stewardship-and-distributed-understanding",
               "#chapter-01-principles-and-constraints"
             ]
           },
@@ -2932,8 +2932,8 @@
             "file": "core_01_b_stewardship_capacity_principles.md",
             "count": 4,
             "anchors": [
-              "#11-stewardship-and-distributed-understanding",
-              "#12-governance-under-stewardship-discipline"
+              "#9-stewardship-and-distributed-understanding",
+              "#10-governance-under-stewardship-discipline"
             ]
           },
           {
@@ -3178,11 +3178,11 @@
             "file": "core_01_b_stewardship_capacity_principles.md",
             "count": 6,
             "anchors": [
-              "#12-governance-under-stewardship-discipline",
-              "#131-productive-capacity-instrumental-good",
-              "#141-concentration-threshold-mechanism-adopter-tunable",
-              "#142-pro-competition-and-anti-domination",
-              "#143-consolidation-ceiling",
+              "#10-governance-under-stewardship-discipline",
+              "#111-productive-capacity-instrumental-good",
+              "#121-concentration-threshold-mechanism-adopter-tunable",
+              "#122-pro-competition-and-anti-domination",
+              "#123-consolidation-ceiling",
               "#chapter-01-principles-and-constraints"
             ]
           },
@@ -3571,12 +3571,12 @@
             "file": "core_01_b_stewardship_capacity_principles.md",
             "count": 14,
             "anchors": [
-              "#12-governance-under-stewardship-discipline",
+              "#10-governance-under-stewardship-discipline",
               "#123-incentive-alignment-and-system-capture",
               "#124-stewardship-and-operator-incentive-alignment",
-              "#141-concentration-threshold-mechanism-adopter-tunable",
-              "#15-systemic-evaluation-requirement",
-              "#151-required-evaluation-factors"
+              "#121-concentration-threshold-mechanism-adopter-tunable",
+              "#13-systemic-evaluation-requirement",
+              "#131-required-evaluation-factors"
             ]
           },
           {
@@ -3791,11 +3791,11 @@
             "file": "core_01_b_stewardship_capacity_principles.md",
             "count": 19,
             "anchors": [
-              "#12-governance-under-stewardship-discipline",
-              "#131-productive-capacity-instrumental-good",
-              "#141-concentration-threshold-mechanism-adopter-tunable",
-              "#151-required-evaluation-factors",
-              "#16-integrated-application"
+              "#10-governance-under-stewardship-discipline",
+              "#111-productive-capacity-instrumental-good",
+              "#121-concentration-threshold-mechanism-adopter-tunable",
+              "#131-required-evaluation-factors",
+              "#14-integrated-application"
             ]
           },
           {
@@ -4100,10 +4100,10 @@
             "file": "core_01_b_stewardship_capacity_principles.md",
             "count": 40,
             "anchors": [
-              "#12-governance-under-stewardship-discipline",
+              "#10-governance-under-stewardship-discipline",
               "#123-alignment-requirement",
-              "#151-required-evaluation-factors",
-              "#16-integrated-application"
+              "#131-required-evaluation-factors",
+              "#14-integrated-application"
             ]
           },
           {
@@ -4369,9 +4369,9 @@
             "file": "core_01_b_stewardship_capacity_principles.md",
             "count": 11,
             "anchors": [
-              "#132-constitutional-efficiency",
-              "#151-required-evaluation-factors",
-              "#16-integrated-application"
+              "#112-constitutional-efficiency",
+              "#131-required-evaluation-factors",
+              "#14-integrated-application"
             ]
           },
           {
@@ -4577,8 +4577,8 @@
             "file": "core_01_b_stewardship_capacity_principles.md",
             "count": 3,
             "anchors": [
-              "#11-stewardship-and-distributed-understanding",
-              "#131-productive-capacity-instrumental-good",
+              "#9-stewardship-and-distributed-understanding",
+              "#111-productive-capacity-instrumental-good",
               "#chapter-01-principles-and-constraints"
             ]
           },

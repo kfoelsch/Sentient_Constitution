@@ -151,7 +151,7 @@ Arbitration clauses, shell subcontractors, years of “market efficiency” defe
 
 - Counting revenue growth as **Contribution Axis** credit while lock-in injury remains open.
 - Forum treating arbitration clause as permanent bar to **Article XII-B** access.
-- Efficiency arguments that skip verification or individualized attribution (**Chapter One §13.2**).
+- Efficiency arguments that skip verification or individualized attribution (**Chapter One §9.2**).
 
 ---
 
@@ -165,7 +165,7 @@ Arbitration clauses, shell subcontractors, years of “market efficiency” defe
 
 | Stage | Application |
 | --- | --- |
-| Stewardship | [Chapter One §11.1](../core_01_b_stewardship_capacity_principles.md#111-stewardship) — tetrad **timeliness** leg; [Stewardship Defect](../core_05c_continuity_definitions.md#stewardship-defect-constitutional) when chronic delay after notice |
+| Stewardship | [Chapter One §9.1](../core_01_b_stewardship_capacity_principles.md#91-stewardship) — tetrad **timeliness** leg; [Stewardship Defect](../core_05c_continuity_definitions.md#stewardship-defect-constitutional) when chronic delay after notice |
 | Q1 classification | [Ch6 §3 dual-use](../core_06-06_standing_assessment.md#dual-use-classification-dimensions) — **Response timeliness / avoidable delay** aggravates violation `s` = 4–5 |
 | Q2 integration | [Ch7 Chapter One §8.10](../core_07-07_standing_integration.md#310-non-recurrence-lock-dimensions) — **Remedy commencement / pipeline delay** row |
 | Pipeline clocks | [Article XXIII-G](../core_10-10_rights_part_d.md#article-xxiii-g-timely-resolution-and-anti-delay-floor); **CF-11.3.1** Tier B windows |

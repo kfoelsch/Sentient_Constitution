@@ -59,7 +59,7 @@ Adopted governance implementation provides escalation, proportionality of interv
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [4.1 Safety](core_01_a_values_principles.md#31-safety-harm-constraint), [Chapter One §6.3 Rights-Collision Procedure](core_01_a_values_principles.md#63-rights-collision-procedure), and [13. Integrated Application](core_01_b_stewardship_capacity_principles.md#16-integrated-application).
+- Upstream: Principles: Chapter One [4.1 Safety](core_01_a_values_principles.md#31-safety-harm-constraint), [Chapter One §6.3 Rights-Collision Procedure](core_01_a_values_principles.md#63-rights-collision-procedure), and [13. Integrated Application](core_01_b_stewardship_capacity_principles.md#14-integrated-application).
 
 </details>
 
@@ -244,7 +244,7 @@ Adopted governance implementation provides escalation, proportionality of interv
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [4.2 Truth](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [9.2 Epistemic Disclosure Constraints](core_01_a_values_principles.md#62-epistemic-disclosure-constraints), and [13. Integrated Application](core_01_b_stewardship_capacity_principles.md#16-integrated-application).
+- Upstream: Principles: Chapter One [4.2 Truth](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [9.2 Epistemic Disclosure Constraints](core_01_a_values_principles.md#62-epistemic-disclosure-constraints), and [13. Integrated Application](core_01_b_stewardship_capacity_principles.md#14-integrated-application).
 
 </details>
 
@@ -279,7 +279,7 @@ Adopted governance implementation provides escalation, proportionality of interv
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [Chapter One §6.3 Rights-Collision Procedure](core_01_a_values_principles.md#63-rights-collision-procedure), [8. Prohibition on Absolute Override](#7-prohibition-on-absolute-override), and [13. Integrated Application](core_01_b_stewardship_capacity_principles.md#16-integrated-application).
+- Upstream: Principles: Chapter One [Chapter One §6.3 Rights-Collision Procedure](core_01_a_values_principles.md#63-rights-collision-procedure), [8. Prohibition on Absolute Override](#7-prohibition-on-absolute-override), and [13. Integrated Application](core_01_b_stewardship_capacity_principles.md#14-integrated-application).
 
 </details>
 
@@ -325,7 +325,7 @@ Adopted governance implementation provides escalation, proportionality of interv
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [§13.2 Constitutional Efficiency](core_01_b_stewardship_capacity_principles.md#132-constitutional-efficiency), [Chapter One §6.1.2 Minimization of Avoidable Burden](core_01_a_values_principles.md#612-minimization-of-avoidable-burden), and [Chapter One §6.3 Rights-Collision Procedure](core_01_a_values_principles.md#63-rights-collision-procedure); [Chapters Six–Nine constitutional compass](core_06-06_standing_assessment.md#chapters-six-nine-constitutional-compass) (*standing, integration, and forum coordination pipeline*).
+- Upstream: Principles: Chapter One [§13.2 Constitutional Efficiency](core_01_b_stewardship_capacity_principles.md#112-constitutional-efficiency), [Chapter One §6.1.2 Minimization of Avoidable Burden](core_01_a_values_principles.md#612-minimization-of-avoidable-burden), and [Chapter One §6.3 Rights-Collision Procedure](core_01_a_values_principles.md#63-rights-collision-procedure); [Chapters Six–Nine constitutional compass](core_06-06_standing_assessment.md#chapters-six-nine-constitutional-compass) (*standing, integration, and forum coordination pipeline*).
 
 </details>
 
@@ -348,7 +348,7 @@ Adopted governance implementation provides escalation, proportionality of interv
 - **Coordination purpose:** Constitutional justice under **Article XXIII-A** operates through a **constitutional coordination and resolution system** — verify facts, classify standing, integrate consequences, and restore where feasible — not through indefinite adversarial delay, reputation scoring, or punishment for its own sake.
 - **Three joint requirements:** Material resolution pathways must be **timely**, **efficient**, and **just** together:
   - **Timely** — bounded clocks scaled to [material stake](core_00_preamble.md#material-stake) and harm urgency;
-  - **Efficient** — [Constitutional Efficiency](core_05c_continuity_definitions.md#constitutional-efficiency) in the sense of Chapter One [§13.2](core_01_b_stewardship_capacity_principles.md#132-constitutional-efficiency) — real constitutional outcome per sentient time and shared effort consumed, not raw throughput or docket-clearing;
+  - **Efficient** — [Constitutional Efficiency](core_05c_continuity_definitions.md#constitutional-efficiency) in the sense of Chapter One [§13.2](core_01_b_stewardship_capacity_principles.md#112-constitutional-efficiency) — real constitutional outcome per sentient time and shared effort consumed, not raw throughput or docket-clearing;
   - **Just** — **Article XXIII-A**, **Article XXIII-B**, and **Article XXIII-C** remain fully applicable; speed must not bypass verified-input gates ([Chapter Six §14.3.2](core_06-06_standing_assessment.md#verified-inputs-for-standing)), individualized attribution, proportionate remedy, or core challenge and appeal rights.
 - **Materiality tiers.** Adopters must classify each material dispute into one tier under [Materiality Determination](core_05o_oversight_definitions.md#materiality-determination) and apply the default windows below unless a narrower window is required by **Rights-Floor** urgency or a documented extension is authorized under **Article XXIII-D** (*Continuation discipline*):
   - **Tier A — imminent or dependency-vulnerable ongoing harm** (for example acute care-duty failure, ongoing violence, or participation-barrier injury in dependency-asymmetric settings): lawful **interim protection** must be available without waiting for full merits; intake, acknowledgment, and evidence preservation must begin **within days**, not weeks, unless [Force Majeure](core_05a_accountability_definitions.md#force-majeure-constitutional) or a documented safety constraint prevents it;
@@ -370,7 +370,7 @@ Overrun without documented tier-appropriate extension, escalation, or interim re
   - self-created delay, procedural layering, forum shopping, or record fragmentation used to prolong resolution without milestone justification;
   - treating allegations as verified standing inputs to buy time ([Chapter Six §14.3.2](core_06-06_standing_assessment.md#verified-inputs-for-standing));
   - [Capture of Resolution Pathways](core_05a_accountability_definitions.md#capture-of-resolution-pathways) through delay, opacity, or resolver bias;
-  - efficiency claims that skip verification, individualized attribution, or appeal rights contrary to Chapter One [§13.2](core_01_b_stewardship_capacity_principles.md#132-constitutional-efficiency).
+  - efficiency claims that skip verification, individualized attribution, or appeal rights contrary to Chapter One [§13.2](core_01_b_stewardship_capacity_principles.md#112-constitutional-efficiency).
 - **Implementation defaults:** Numeric tier-default windows and stage tables belong in adopted **`corpus_forum.md`** and **`corpus_institutions.md`** text within incorporation scope. Those defaults must implement this Article and must not narrow **Article XII-B**, **Article XXIII-B**, or **Article XXIII-C**. Default floor tables: [CF-11.3.1](../corpus_forum/cf_11_performance_backlog_publication_accessibility.md#cf-1131-target-windows-and-timing-floors). Domain walkthroughs: [implementation/CH6-9_APPLICATION_VIGNETTES.md](../implementation/CH6-9_APPLICATION_VIGNETTES.md).
 
 ### Article XXIV: Constitutional Evolution and Non-Entrenchment
@@ -384,7 +384,7 @@ Inertia, convenience, and historical precedent alone cannot entrench arrangement
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [3. Foundational Objective: Wellbeing](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [11.1 Required Evaluation Factors](core_01_b_stewardship_capacity_principles.md#151-required-evaluation-factors), and [8. Prohibition on Absolute Override](#7-prohibition-on-absolute-override).
+- Upstream: Principles: Chapter One [3. Foundational Objective: Wellbeing](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [11.1 Required Evaluation Factors](core_01_b_stewardship_capacity_principles.md#131-required-evaluation-factors), and [8. Prohibition on Absolute Override](#7-prohibition-on-absolute-override).
 
 </details>
 
@@ -413,7 +413,7 @@ Inertia, convenience, and historical precedent alone cannot entrench arrangement
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [4.2 Truth](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [11.1 Required Evaluation Factors](core_01_b_stewardship_capacity_principles.md#151-required-evaluation-factors), and [8. Prohibition on Absolute Override](#7-prohibition-on-absolute-override).
+- Upstream: Principles: Chapter One [4.2 Truth](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [11.1 Required Evaluation Factors](core_01_b_stewardship_capacity_principles.md#131-required-evaluation-factors), and [8. Prohibition on Absolute Override](#7-prohibition-on-absolute-override).
 
 </details>
 
@@ -458,7 +458,7 @@ Transitional governance exists to secure continuity and non-regression. It must 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [4.1 Safety](core_01_a_values_principles.md#31-safety-harm-constraint), [10.1 Core Tradeoff Principles](core_01_a_values_principles.md#61-core-tradeoff-principles), and [11.1 Required Evaluation Factors](core_01_b_stewardship_capacity_principles.md#151-required-evaluation-factors).
+- Upstream: Principles: Chapter One [4.1 Safety](core_01_a_values_principles.md#31-safety-harm-constraint), [10.1 Core Tradeoff Principles](core_01_a_values_principles.md#61-core-tradeoff-principles), and [11.1 Required Evaluation Factors](core_01_b_stewardship_capacity_principles.md#131-required-evaluation-factors).
 
 </details>
 
@@ -528,7 +528,7 @@ Transitional governance exists to secure continuity and non-regression. It must 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [4.1 Safety](core_01_a_values_principles.md#31-safety-harm-constraint), [10.1 Core Tradeoff Principles](core_01_a_values_principles.md#61-core-tradeoff-principles), and [13. Integrated Application](core_01_b_stewardship_capacity_principles.md#16-integrated-application).
+- Upstream: Principles: Chapter One [4.1 Safety](core_01_a_values_principles.md#31-safety-harm-constraint), [10.1 Core Tradeoff Principles](core_01_a_values_principles.md#61-core-tradeoff-principles), and [13. Integrated Application](core_01_b_stewardship_capacity_principles.md#14-integrated-application).
 
 </details>
 
@@ -561,7 +561,7 @@ Transitional governance exists to secure continuity and non-regression. It must 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [4.1 Safety](core_01_a_values_principles.md#31-safety-harm-constraint), [Chapter One §6.3 Rights-Collision Procedure](core_01_a_values_principles.md#63-rights-collision-procedure), and [11.1 Required Evaluation Factors](core_01_b_stewardship_capacity_principles.md#151-required-evaluation-factors).
+- Upstream: Principles: Chapter One [4.1 Safety](core_01_a_values_principles.md#31-safety-harm-constraint), [Chapter One §6.3 Rights-Collision Procedure](core_01_a_values_principles.md#63-rights-collision-procedure), and [11.1 Required Evaluation Factors](core_01_b_stewardship_capacity_principles.md#131-required-evaluation-factors).
 - Read with: **Article III-A**; **Article XII**; **Article X-B**; **Chapter Six**; **Chapter One**, including §6 rights-collision procedure; the **default constraint stack** at the opening of Chapter Ten (*possession and remediation interface*).
 
 </details>

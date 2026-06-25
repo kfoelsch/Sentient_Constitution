@@ -77,11 +77,11 @@ Binding only together with other `core_*` files. **Chapter One, Part A** — §�
 
 | Old ref pattern | New ref |
 |---|---|
-| `#7-stewardship-and-distributed-understanding` | `core_01_b_stewardship_capacity_principles.md#11-stewardship-and-distributed-understanding` |
-| `#6-shared-system-capacity` | `core_01_b_stewardship_capacity_principles.md#13-shared-system-capacity` |
+| `#7-stewardship-and-distributed-understanding` | `core_01_b_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding` |
+| `#6-shared-system-capacity` | `core_01_b_stewardship_capacity_principles.md#11-shared-system-capacity` |
 | `#614-minimization-of-avoidable-burden` | `core_01_a_values_principles.md#614-minimization-of-avoidable-burden` |
-| `#91-required-evaluation-factors` | `core_01_b_stewardship_capacity_principles.md#151-required-evaluation-factors` |
-| `#92-incentive-alignment-and-system-capture` | `core_01_b_stewardship_capacity_principles.md#12-governance-under-stewardship-discipline` |
+| `#91-required-evaluation-factors` | `core_01_b_stewardship_capacity_principles.md#131-required-evaluation-factors` |
+| `#92-incentive-alignment-and-system-capture` | `core_01_b_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline` |
 | `#922-stewardship-and-operator-incentive-alignment` | `core_01_b_stewardship_capacity_principles.md#124-stewardship-and-operator-incentive-alignment` |
 | `#11-prohibition-on-absolute-override` | `core_01_a_values_principles.md#7-prohibition-on-absolute-override` |
 | `#621-preservation-of-epistemic-integrity` | `core_01_a_values_principles.md#621-preservation-of-epistemic-integrity` |
@@ -227,7 +227,7 @@ Binding only together with other `core_*` files. **Chapter One, Part A** — §�
 
 | Stale reference | Current owner |
 |---|---|
-| `Chapter One §6` non-concentration | **§14 Market Structure** (`#14-market-structure`) |
+| `Chapter One §6` non-concentration | **§14 Market Structure** (`#12-market-structure`) |
 | `§11.4` pro-competition / anti-domination | **§14.2** |
 | `§6.5` consolidation ceiling | **§14.3** |
 | `§8.3` concentration threshold | **§14.1** |
@@ -392,7 +392,7 @@ Replace old §6–§9 sequence paragraph with:
 ```markdown
 *In plain terms: shared systems must keep building real productive capacity — but capacity is something stewardship and lawful governance produce and preserve, not a license to concentrate power.*
 
-**§8** states **Shared-System Capacity** as an instrumental outcome downstream of **§11 Stewardship** and **§12 Governance Under Stewardship Discipline**. Capacity claims fail where they rest on domination, proxy divergence, irreversible lock-in, or governance that defeats the [Constitutional Triad](core_00_preamble.md#constitutional-triad).
+**§8** states **Shared-System Capacity** as an instrumental outcome downstream of **§11 Stewardship** and **§10 Governance Under Stewardship Discipline**. Capacity claims fail where they rest on domination, proxy divergence, irreversible lock-in, or governance that defeats the [Constitutional Triad](core_00_preamble.md#constitutional-triad).
 ```
 
 ### 5.5 §11.2 Read-with pointer (new)
@@ -400,10 +400,10 @@ Replace old §6–§9 sequence paragraph with:
 ```markdown
 #### 10.2 Read-with: Governance and Incentive Discipline
 
-Whole-system evaluation under **Chapter One §8.1** is incomplete if it omits whether incentives and governance structures will preserve constitutional outcomes. Apply **§12 Governance Under Stewardship Discipline** for that discipline; **Chapter One §8.1** does not duplicate **§7**.
+Whole-system evaluation under **Chapter One §8.1** is incomplete if it omits whether incentives and governance structures will preserve constitutional outcomes. Apply **§10 Governance Under Stewardship Discipline** for that discipline; **Chapter One §8.1** does not duplicate **§7**.
 ```
 
-### 5.6 Chapter One §16 Integrated Application — arc rewrite
+### 5.6 Chapter One §14 Integrated Application — arc rewrite
 
 Replace "§§6–9" language with:
 
@@ -482,13 +482,13 @@ Run in order after file split. Example patterns:
 
 ```
 core_00-01_principles.md#7-stewardship-and-distributed-understanding
-  → core_01_b_stewardship_capacity_principles.md#11-stewardship-and-distributed-understanding
+  → core_01_b_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding
 
 core_00-01_principles.md#6-shared-system-capacity
-  → core_01_b_stewardship_capacity_principles.md#13-shared-system-capacity
+  → core_01_b_stewardship_capacity_principles.md#11-shared-system-capacity
 
 core_00-01_principles.md#92-incentive-alignment-and-system-capture
-  → core_01_b_stewardship_capacity_principles.md#12-governance-under-stewardship-discipline
+  → core_01_b_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline
 
 core_00-01_principles.md#922-stewardship-and-operator-incentive-alignment
   → core_01_b_stewardship_capacity_principles.md#124-stewardship-and-operator-incentive-alignment

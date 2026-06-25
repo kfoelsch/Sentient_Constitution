@@ -4,7 +4,7 @@
 
 ## Target architecture
 
-**Reading order:** Part A (§§1–8) → Part B (§§11–16, capstone §16).
+**Reading order:** Part A (§§1–8) → Part B (§§9–14, capstone §16).
 
 | Current § | New § | Title | File |
 |---------|------|-------|------|
@@ -43,8 +43,8 @@
 | `#7-prohibition-on-absolute-override` | `#7-prohibition-on-absolute-override` |
 | `#8-constitutional-interpretation` | `#8-constitutional-interpretation` |
 | `#81-definitional-layer-and-required-disciplines` | `#81-definitional-layer-and-required-disciplines` |
-| `#15-systemic-evaluation-requirement` | `#15-systemic-evaluation-requirement` |
-| `#151-required-evaluation-factors` | `#151-required-evaluation-factors` |
-| `#16-integrated-application` | `#16-integrated-application` |
+| `#13-systemic-evaluation-requirement` | `#13-systemic-evaluation-requirement` |
+| `#131-required-evaluation-factors` | `#131-required-evaluation-factors` |
+| `#14-integrated-application` | `#14-integrated-application` |
 
 Legacy redirect stubs retained for superseded anchors (one edition cycle).
