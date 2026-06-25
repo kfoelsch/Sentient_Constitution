@@ -48,6 +48,12 @@
 <a id="1042-proxy-divergence-invalidation"></a>
 <a id="11-systemic-evaluation-requirement"></a>
 <a id="111-required-evaluation-factors"></a>
+<a id="1111-systemic-scope-and-risk-factors"></a>
+<a id="1112-accessibility-under-sentience-non-exclusion"></a>
+<a id="1113-privacy-informational-joint-invocation"></a>
+<a id="611-systemic-scope-and-risk-factors"></a>
+<a id="612-accessibility-under-sentience-non-exclusion"></a>
+<a id="613-privacy-informational-joint-invocation"></a>
 <a id="112-read-with-governance-and-incentive-discipline"></a>
 <a id="12-freedom-bounded-agency"></a>
 <a id="13-prohibition-on-absolute-override"></a>
@@ -762,6 +768,7 @@ Adopter-tunable ceilings may vary by domain and jurisdiction, but they may not b
 
 *In plain terms: before anyone classifies a system, claims compliance, or locks in a governance decision, they must look at the whole picture — not only what happens here and now. That means tracing dependencies and delayed harm, rejecting short-horizon optimization that foreseeably violates **Safety**, **Truth**, or **wellbeing** later or elsewhere ([§15.1.6](#1516-time-consistency-constraint)), checking whether every kind of sentient can really participate, making sure privacy, voluntary choice ([§5.2](core_01_a_values_principles.md#52-voluntary-discontinuation-and-exit-rights)), assembly, and collective-organization ([§5.3](core_01_a_values_principles.md#53-assembly-collective-organization-and-institutional-formation)) questions are not split up to dodge review, confirming that **oversight** and **accountability** will scale with how much is at stake — not ceremonial transparency or blame-shifting, but real visibility, challenge paths, and answerability — and confirming that rewards and control structures will not quietly undermine the outcome the evaluation claims to protect. For **Class A**, **Class B**, and **Class C** systems under **[corpus_systems.md](corpus_systems.md), CS-4 — System classification and handling**, that whole-system check is **mandatory** at full depth before those claims stand. **Class L** systems must complete it **proportionately** — real evaluation records, lighter default cadence unless conditions change. **Class P** systems are **encouraged** to apply the same discipline while the system remains validly private and contained.*
 
+<a id="151-required-evaluation-factors"></a>
 #### 15.1 Required Evaluation Factors
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
@@ -808,6 +815,7 @@ No evaluation is complete if it considers only immediate or local effects. Evalu
 
 This section states evaluation discipline at principle layer; operative class definitions, reclassification triggers, record forms, and handling profiles remain in **CS-4**.
 
+<a id="1511-systemic-scope-and-risk-factors"></a>
 ##### 15.1.1 Systemic Scope and Risk Factors
 
 *In plain terms: look past the immediate neighborhood. Ask what happens when effects chain through dependencies, pile up at scale, arrive late or add up over time, get attacked or gamed, or flirt with existential harm.*
@@ -819,7 +827,17 @@ Evaluations must consider:
 - **adversarial conditions and misuse potential** — how bad actors or predictable abuse could exploit the system
 - **existential risks** — outcomes that could threaten sentient survival or recovery at civilization scale
 
+<a id="1512-accessibility-under-sentience-non-exclusion"></a>
 ##### 15.1.2 Accessibility Under Sentience Non-Exclusion
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Read with: Chapter Five [Accessibility](core_05p_participation_definitions.md#accessibility-constitutional), [Protected Characteristics](core_05p_participation_definitions.md#protected-characteristics-constitutional), and [Protected Characteristic Proxying and Disparate Impact](core_05p_participation_definitions.md#protected-characteristic-proxying-and-disparate-impact).
+
+</details>
+
+<br>
 
 *In plain terms: accessibility on paper is not accessibility in practice. Every sentient form and ability profile must be able to actually participate — and the bar rises when the domain matters more or dependence runs deeper.*
 
@@ -830,14 +848,15 @@ Evaluations must secure real participation for every sentient form and ability p
 - *Scaling.* The floor for actual participation rises with the domain's [Materiality](core_05o_oversight_definitions.md#materiality-determination) (how consequential the domain is) and with affected parties' [Dependency](core_05c_continuity_definitions.md#dependency) on the system (how reliant they are). Higher materiality or greater dependency demands a higher floor of actual participation.
 - *Anti-evasion.* Two patterns are refused: a **"general access" pattern** — claiming broad availability in the aggregate while the specific affected profile is in fact defeated; and **selective-Materiality scaling** — down-scaling the standard in a way whose effect is to defeat the participation floor.
 - *Rights-Floor owner.* [Article V-G](core_10-10_rights_part_b.md#article-v-g-accessibility). Education-specific accessibility remains governed by [Article III-B](core_10-10_rights_part_a.md#article-iii-b-equal-educational-access) and is **not** narrowed by this factor.
-- *Read with.* Chapter Five [Accessibility](core_05p_participation_definitions.md#accessibility-constitutional), [Protected Characteristics](core_05p_participation_definitions.md#protected-characteristics-constitutional), and [Protected Characteristic Proxying and Disparate Impact](core_05p_participation_definitions.md#protected-characteristic-proxying-and-disparate-impact).
 
+<a id="1513-privacy-informational-joint-invocation"></a>
 ##### 15.1.3 Privacy (Informational) Joint Invocation
 
-*In plain terms: privacy rules are spread across several Chapter Ten articles. When a case touches more than one, you cannot handle it through one door and pretend the others do not apply — and you cannot use the loosest rule from one article to soften another.*
+*In plain terms: privacy rules are spread across several Chapter Ten articles — and informational privacy enables **participation**: without adequate boundaries, sentients cannot safely speak, deliberate, associate, or challenge systems that affect them. When a case touches more than one, you cannot handle it through one door and pretend the others do not apply — and you cannot use the loosest rule from one article to soften another.*
 
 A single privacy matter may materially implicate more than one of the distributed Chapter Ten privacy loci at the same time. When it does, evaluation must reach **every** such locus; closing the matter under one locus alone is not enough.
 
+- *Participation enablement.* [Privacy (Informational)](core_05c_continuity_definitions.md#privacy-informational) enables substantive [Participation](core_05p_participation_definitions.md#participation-constitutional) under the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad). Evaluations must confirm that privacy protections supporting voice, deliberation, association, and challenge are not defeated through segmentation, read-across, or exposure pressure that chills those acts.
 - *Cluster loci.* The distributed privacy coverage lives across **Article VII-A** (self-ownership); **Article VII-B** (internal-state boundary and Type-N); **Article VIII** (publication and reconstruction discipline); **Article IX-A** (freedom-from-manipulation, treating privacy as a coercion-vector); and **Article XIII-A** (covert-power limits).
 - *Joint-invocation rule.* Where the matter materially implicates more than one locus, evaluation must reach **each** such locus and may **not** segment the matter — that is, route it through one locus in a way that lets the discipline of another locus be evaded.
 - *Cluster-head home.* Chapter Five [§3.7 Privacy (Informational) — peer-level cluster head](core_05a_accountability_definitions.md#privacy-informational-cluster). Umbrella definition: [Privacy (Informational)](core_05c_continuity_definitions.md#privacy-informational).
@@ -875,12 +894,20 @@ Evaluations must reach **[§5.3 Assembly, Collective Organization, and Instituti
 <a id="632-time-consistency-constraint"></a>
 <a id="1032-time-consistency-constraint"></a>
 
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Read with: [§15.1.1 Systemic Scope and Risk Factors](#1511-systemic-scope-and-risk-factors) (delayed, cumulative, and probabilistic impacts); [§12.2 Incentive Alignment and System Capture](#122-incentive-alignment-and-system-capture) (short-horizon defect correction and operational incentive discipline); [§5.1 Limitation Discipline](core_01_a_values_principles.md#51-limitation-discipline).
+
+</details>
+
+<br>
+
 *In plain terms: a system cannot pass an evaluation today by ignoring the harms it will foreseeably cause later or elsewhere. Short-term wins do not excuse long-term or cross-system violations.*
 
 Short-horizon optimization is invalid where it foreseeably produces medium- or long-horizon violations of **Safety**, **Truth**, or **wellbeing** constraints. That rule applies under cumulative, delayed, or cross-system conditions.
 
 - *Evaluation duty.* An evaluation is incomplete if it treats near-term metrics, local compliance, or short-horizon efficiency as sufficient while foreseeable medium- or long-horizon violations remain unaddressed.
-- *Read with.* [§15.1.1 Systemic Scope and Risk Factors](#1511-systemic-scope-and-risk-factors) (delayed, cumulative, and probabilistic impacts); [§12.2 Incentive Alignment and System Capture](#122-incentive-alignment-and-system-capture) (short-horizon defect correction and operational incentive discipline); [§5.1 Limitation Discipline](core_01_a_values_principles.md#51-limitation-discipline).
 
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>

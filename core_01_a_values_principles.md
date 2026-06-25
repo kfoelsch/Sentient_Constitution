@@ -1201,13 +1201,17 @@ Where **[Chapter Fifteen](core_15-15_incorporation.md#2-authority-stack-and-invo
 - **Strictest applicable** means the incorporated **text** that preserves the **strongest protective, safety, accountability, and traceability** requirements for the same materially scoped obligation among alternatives that remain coherent with the constitutional reading produced under the **Chapter Fifteen** stack — in the same sense as the Constitution's **fullest protective effect as an integrated whole**, and **not** **maximal restriction** or **abstract strictness** in isolation.
 - **Stricter clearly adopted baseline** means the **adoption-traceable** incorporated edition or **baseline** the adoption chain **clearly supports** when records are unreliable (custody discipline and anti-drift), **not** substantive constitutional ambiguity resolution by preference for **abstract strictness**.
 
-### Reference: Chapter Five vocabulary anchor and cluster index
+<a id="chapter-one-part-a-chapter-five-vocabulary-anchor"></a>
+<details>
+<summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): Chapter Five vocabulary anchor and cluster index</span></strong></summary>
+
+> The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this file or in other chapters. Per-section **Trace** and **Definitions · Evaluation · Compliance** widgets carry routing and O/E/C links at the point each § materially invokes a term; this block is a chapter-level crosswalk for readers finishing Part A.
 
 **Principle-layer vocabulary** (canonical homes in Chapter One (Parts A and B)):
 
 - [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **participation**, **oversight**, **accountability**, and **timeliness**, scaled to [material stake](core_00_preamble.md#material-stake)
 - [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) — [Flourishing](core_00_preamble.md#flourishing) and [Continuity](core_00_preamble.md#continuity) (constitutional **Continuity aim**, distinct from operational or protocol continuity elsewhere in the corpus)
-- [material stake](core_00_preamble.md#material-stake) — impact, dependency, and risk scaling for tetrad duties; read with the [Material family orientation](#material-family-orientation) and Chapter Five entries below
+- [material stake](core_00_preamble.md#material-stake) — impact, dependency, and risk scaling for tetrad duties; read with the [Material family orientation](core_00_preamble.md#material-family-orientation) and Chapter Five entries below
 
 **Chapter Five proxy definitions** (O/E/C satisfaction — trace under Chapters Two through Four when materially relevant):
 
@@ -1225,6 +1229,10 @@ Where **[Chapter Fifteen](core_15-15_incorporation.md#2-authority-stack-and-invo
 **CJS-5** (*Implementation and cross-implementation operational cluster library*) operational cluster compass (cross-implementation joint operational terms — read with this chapter's Tetrad, Aims, and material-stake scaling):
 
 - [CJS-5.1 Constitutional compass and cluster map](corpus_joint_structure/cjs_05_cross_implementation_operational_terms.md#cjs-51-constitutional-compass-and-cluster-map) — primary entry for **CJS-5.2–CJS-5.23** clusters organized by Tetrad leg, Continuity aim, and integrative cross-leg bands
+
+</details>
+
+<br>
 
 ---
 

@@ -32,7 +32,7 @@ Put a **blank line before** `---` when you mean a horizontal rule between sectio
 
 `ch5_trace_crosslink_audit.py` enforces the Chapter Five navigation-metadata rule: `Read with:` lines belong inside each entry's local `Trace` / `<details>` block, not in operative prose after the block closes. It does not ban selective same-file cross-definition links in O / E / C body text.
 
-`trace_routing_prose_audit.py` enforces the binding-corpus rule that read-with routing stays inside Trace blocks. It also flags disguised navigation such as `Read them with …`, `Each … must be read with …`, and `… also read **§…**` in operative prose.
+`trace_routing_prose_audit.py` enforces the binding-corpus rule that read-with routing stays inside Trace blocks. It also flags disguised navigation such as `Read them with …`, `Each … must be read with …`, `… also read **§…**`, and operative bullet labels such as `- *Read with.*` in operative prose.
 
 `trace_dec_widget_order_audit.py` enforces Trace → D/E/C placement: when a `###`–`#####` unit's Trace block carries Chapter Five `· [O]` read-with links, the next block after Trace close must be a **Definitions · Evaluation · Compliance** widget or a single-concept inline **Definition:** line, with only blank lines between.
 
