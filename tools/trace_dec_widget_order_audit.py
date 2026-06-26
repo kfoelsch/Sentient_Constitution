@@ -15,6 +15,13 @@ Only blank lines may appear between Trace close and that definition carrier.
 
 Sections whose Trace blocks carry no Chapter Five ``· [O]`` read-with links are
 exempt from the requirement (structural / routing-only traces).
+
+Without Trace, the D/E/C widget must be the first substantive block under the
+owning ``####`` or ``#####`` heading (before *In plain terms* or operative prose).
+
+A ``###`` heading that carries a small roadmap-only D/E/C widget (two or fewer
+O/E/C rows) must not also host ``####`` subsections with their own D/E/C widgets
+(roadmap exclusion).
 """
 
 from __future__ import annotations
@@ -39,8 +46,12 @@ INLINE_DEFINITION_RE = re.compile(
     r"<strong><span style=\"color: #2563eb;\">Definition:</span></strong>"
 )
 OEC_READ_WITH_RE = re.compile(r"· \[O\]\(")
+OEC_ROW_RE = re.compile(
+    r"^\s*-\s+\[[^\]]+\]\([^)]+\)\s*·\s*\[O\]\([^)]+\)\s*·\s*\[E\]\([^)]+\)\s*·\s*\[C\]\([^)]+\)\s*$"
+)
 HEADING_RE = re.compile(r"^(#{1,6})\s+")
 PLAIN_TERMS_RE = re.compile(r"^\*In plain terms:")
+ANCHOR_RE = re.compile(r'^<a id="[^"]+"></a>$')
 
 
 def parse_args() -> argparse.Namespace:
@@ -84,6 +95,158 @@ def classify_definition_carrier(lines: list[str], idx: int) -> str | None:
     if INLINE_DEFINITION_RE.search(stripped):
         return "inline-definition"
     return None
+
+
+def section_end(lines: list[str], start: int, level: int) -> int:
+    for idx in range(start + 1, len(lines)):
+        next_level = heading_level(lines[idx])
+        if next_level is not None and next_level <= level:
+            return idx
+    return len(lines)
+
+
+def is_skippable_before_dec(line: str) -> bool:
+    stripped = line.strip()
+    if not stripped:
+        return True
+    if ANCHOR_RE.match(stripped):
+        return True
+    return False
+
+
+def is_substantive_before_dec(line: str) -> bool:
+    stripped = line.strip()
+    if not stripped or is_skippable_before_dec(line):
+        return False
+    if stripped == "<details>" or stripped == "</details>":
+        return False
+    if TRACE_SUMMARY in stripped or DEC_SUMMARY in stripped:
+        return False
+    return True
+
+
+def find_dec_widget(lines: list[str], start: int, end: int) -> int | None:
+    idx = start
+    while idx < end:
+        if lines[idx].strip() == "<details>":
+            summary_idx = next_nonempty(lines, idx + 1)
+            if (
+                summary_idx is not None
+                and summary_idx < end
+                and lines[summary_idx].strip() == DEC_SUMMARY
+            ):
+                return idx
+        idx += 1
+    return None
+
+
+def unit_has_trace(lines: list[str], start: int, end: int) -> bool:
+    idx = start
+    while idx < end:
+        if lines[idx].strip() == "<details>":
+            summary_idx = next_nonempty(lines, idx + 1)
+            if (
+                summary_idx is not None
+                and summary_idx < end
+                and lines[summary_idx].strip() == TRACE_SUMMARY
+            ):
+                return True
+        idx += 1
+    return False
+
+
+def count_dec_rows(lines: list[str], dec_open_idx: int, end: int) -> int:
+    count = 0
+    idx = dec_open_idx + 1
+    while idx < end and lines[idx].strip() != "</details>":
+        if OEC_ROW_RE.match(lines[idx]):
+            count += 1
+        idx += 1
+    return count
+
+
+def audit_dec_without_trace_placement(
+    lines: list[str], rel: str, start: int, end: int, heading_text: str, level: int
+) -> list[str]:
+    if level < 4 or unit_has_trace(lines, start, end):
+        return []
+
+    dec_idx = find_dec_widget(lines, start, end)
+    if dec_idx is None:
+        return []
+
+    for idx in range(start + 1, dec_idx):
+        if is_substantive_before_dec(lines[idx]):
+            preview = lines[idx].strip()[:72]
+            return [
+                f"{rel}:{idx + 1}: D/E/C widget on {heading_text!r} must be the "
+                f"first substantive block under the heading (found prose first: "
+                f"{preview!r})"
+            ]
+    return []
+
+
+def audit_roadmap_exclusion_parent_dec(
+    lines: list[str], rel: str, start: int, end: int, heading_text: str, level: int
+) -> list[str]:
+    if level != 3 or not rel.startswith("core_01_"):
+        return []
+
+    first_child = end
+    for idx in range(start + 1, end):
+        if heading_level(lines[idx]) == 4:
+            first_child = idx
+            break
+
+    parent_dec = find_dec_widget(lines, start, first_child)
+    if parent_dec is None:
+        return []
+
+    row_count = count_dec_rows(lines, parent_dec, first_child)
+    if row_count > 2:
+        return []
+
+    for idx in range(first_child, end):
+        if heading_level(lines[idx]) != 4:
+            continue
+        child_end = section_end(lines, idx, 4)
+        if find_dec_widget(lines, idx, child_end) is not None:
+            return [
+                f"{rel}:{parent_dec + 1}: remove roadmap-only parent D/E/C widget on "
+                f"{heading_text!r} ({row_count} row(s)); subsection "
+                f"{lines[idx].strip()!r} owns the operative definitions "
+                f"(roadmap exclusion)"
+            ]
+
+    return []
+
+
+def audit_heading_units(path: Path, root: Path) -> list[str]:
+    rel = path.relative_to(root).as_posix()
+    if rel.startswith("core_05-05_definitions_"):
+        return []
+
+    lines = path.read_text(encoding="utf-8").splitlines()
+    findings: list[str] = []
+
+    for idx, line in enumerate(lines):
+        level = heading_level(line)
+        if level is None or level < 3:
+            continue
+        end = section_end(lines, idx, level)
+        heading_text = line.strip()
+        findings.extend(
+            audit_dec_without_trace_placement(
+                lines, rel, idx, end, heading_text, level
+            )
+        )
+        findings.extend(
+            audit_roadmap_exclusion_parent_dec(
+                lines, rel, idx, end, heading_text, level
+            )
+        )
+
+    return findings
 
 
 def audit_file(path: Path, root: Path) -> list[str]:
@@ -155,6 +318,7 @@ def audit_file(path: Path, root: Path) -> list[str]:
 
         idx = close_idx + 1
 
+    findings.extend(audit_heading_units(path, root))
     return findings
 
 

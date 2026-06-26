@@ -343,7 +343,7 @@ If a system cannot yet justify its own calibrated numbers, the interim default s
 
 **Institution mirror.** Remedy organs under [Chapter Seven Chapter One §6.2](../core_07-07_standing_integration.md#52-remedy-organ-durability) and **CI-8** (*Transparency, participation, and accessible pathways*) must publish compatible intake and acknowledgment windows; forum delay must not be used to defeat institution-side redress duties.
 
-Domain-scale walkthroughs with milestone illustrations: [implementation/CH6-9_APPLICATION_VIGNETTES.md](../implementation/CH6-9_APPLICATION_VIGNETTES.md).
+Domain-scale walkthroughs with milestone illustrations: [Chapters Six–Nine application vignettes](../core_06-09_application_vignettes.md#chapters-six-nine-application-vignettes).
 
 Legacy timing-floor requirements are consolidated here and should be read as references to the timing-window component of **CF-11.3**.
 

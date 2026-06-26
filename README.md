@@ -50,7 +50,8 @@ The corpus is written in plain language with low jargon to improve accessibility
 
 ### Forums
 
-- **Chapter Nine** — forum families, default jurisdiction, cross-forum anti-self-judging — [`core_09-09_forum.md`](core_09-09_forum.md)
+- **Chapter Nine** — forum families supervise dispute handling on the standing pipeline (routing, jurisdiction, cross-forum anti-self-judging) — [`core_09-09_forum.md`](core_09-09_forum.md)
+- **Chapters Six–Nine application vignettes** — illustrative domain walkthroughs for the standing and forum supervision pipeline — [`core_06-09_application_vignettes.md`](core_06-09_application_vignettes.md)
 
 ### Rights Floor
 

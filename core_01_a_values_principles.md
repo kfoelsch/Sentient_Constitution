@@ -787,14 +787,6 @@ Whole-system evaluations must test anti-segmentation under [§13.1.5 Assembly, C
 
 </details>
 
-<details>
-<summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
-
-- [Safety (Constraint)](core_05c_continuity_definitions.md#safety-constraint) · [O](core_05c_continuity_definitions.md#safety-constraint) · [E](core_05c_continuity_definitions.md#safety-constraint-e) · [C](core_05c_continuity_definitions.md#safety-constraint-c)
-- [Truth (Constitutional Constraint)](core_05o_oversight_definitions.md#truth-constitutional-constraint) · [O](core_05o_oversight_definitions.md#truth-constitutional-constraint-o) · [E](core_05o_oversight_definitions.md#truth-constitutional-constraint-e) · [C](core_05o_oversight_definitions.md#truth-constitutional-constraint-c)
-
-</details>
-
 <br>
 
 *In plain terms: values and rights will collide — **Safety** and **Truth** come first. After that, limits must be proportionate, necessary, harm-minimizing, and as light as possible. Truth cannot be hidden for comfort; freedom limits apply under [§5.1](#51-limitation-discipline); rights conflicts need a documented decision test; and metrics that lie about compliance do not count. Short-horizon optimization cannot pass evaluation under [§13.1.6 Time-Consistency Constraint](core_01_b_stewardship_capacity_principles.md#1316-time-consistency-constraint). **§6.1–§6.3** carry the tradeoff rules, disclosure limits, and rights-collision procedure.*
@@ -808,6 +800,19 @@ Many small decisions that each look fine may still combine into an outcome this 
 <a id="61-core-tradeoff-principles"></a>
 #### 6.1 Core Tradeoff Principles
 
+<details>
+<summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
+
+*Scope.* [§6.1 Core Tradeoff Principles](#61-core-tradeoff-principles) — definitions for necessity, harm minimization, and harm in the tradeoff stack.
+
+- [Necessity](core_05a_accountability_definitions.md#necessity) · [O](core_05a_accountability_definitions.md#necessity) · [E](core_05a_accountability_definitions.md#necessity-e) · [C](core_05a_accountability_definitions.md#necessity-c)
+- [Harm Minimization (Tradeoff Selection)](core_05a_accountability_definitions.md#harm-minimization-tradeoff-selection) · [O](core_05a_accountability_definitions.md#harm-minimization-tradeoff-selection) · [E](core_05a_accountability_definitions.md#harm-minimization-tradeoff-selection-e) · [C](core_05a_accountability_definitions.md#harm-minimization-tradeoff-selection-c)
+- [Harm](core_05a_accountability_definitions.md#harm) · [O](core_05a_accountability_definitions.md#harm) · [E](core_05a_accountability_definitions.md#harm-e) · [C](core_05a_accountability_definitions.md#harm-c)
+
+</details>
+
+<br>
+
 *In plain terms: when you have to limit something, match the remedy to the problem — use the lightest step that still works, choose the least harmful option, and waste the least sentient time once Safety, Truth, and rights are already satisfied. The bar rises fast when harm could be irreversible or could lock systems in.*
 
 **How to read the stack:** Apply in order — [§6.1.1 Proportionality](#611-proportionality), then the **Necessity** and **harm-minimization** rules in this subsection, then [§6.1.2 Minimization of Avoidable Burden](#612-minimization-of-avoidable-burden). They are one sequence, not independent rules.
@@ -815,15 +820,6 @@ Many small decisions that each look fine may still combine into an outcome this 
 - **Necessity** — constraints may be imposed only when no less-restrictive, reasonably effective alternative exists.
 - **Minimization of harm** — where tradeoffs are required, systems must choose the option that minimizes total harm across sentients, systems, and time horizons.
 - **[§6.1.2 Minimization of Avoidable Burden](#612-minimization-of-avoidable-burden)** — only after Safety, Truth, rights, proportionality, necessity, and harm minimization are satisfied, prefer the option that wastes the least sentient time, attention, and effort.
-
-<details>
-<summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
-
-- [Necessity](core_05a_accountability_definitions.md#necessity) · [O](core_05a_accountability_definitions.md#necessity) · [E](core_05a_accountability_definitions.md#necessity-e) · [C](core_05a_accountability_definitions.md#necessity-c)
-- [Harm Minimization (Tradeoff Selection)](core_05a_accountability_definitions.md#harm-minimization-tradeoff-selection) · [O](core_05a_accountability_definitions.md#harm-minimization-tradeoff-selection) · [E](core_05a_accountability_definitions.md#harm-minimization-tradeoff-selection-e) · [C](core_05a_accountability_definitions.md#harm-minimization-tradeoff-selection-c)
-- [Harm](core_05a_accountability_definitions.md#harm) · [O](core_05a_accountability_definitions.md#harm) · [E](core_05a_accountability_definitions.md#harm-e) · [C](core_05a_accountability_definitions.md#harm-c)
-
-</details>
 
 <br>
 

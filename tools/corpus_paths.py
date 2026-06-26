@@ -20,6 +20,7 @@ CORE_FILES = (
     "core_07-07_standing_integration.md",
     "core_08-08_misconduct.md",
     "core_09-09_forum.md",
+    "core_06-09_application_vignettes.md",
     "core_10-10_rights_part_a.md",
     "core_10-10_rights_part_b.md",
     "core_10-10_rights_part_c.md",

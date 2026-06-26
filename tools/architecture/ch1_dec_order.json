@@ -108,6 +108,11 @@
     "System Creation",
     "Business Creation"
   ],
+  "#### 6.1 Core Tradeoff Principles": [
+    "Necessity",
+    "Harm Minimization (Tradeoff Selection)",
+    "Harm"
+  ],
   "##### 6.3.1 Rights-Collision Decision Test": [
     "Necessity",
     "Proportionality",

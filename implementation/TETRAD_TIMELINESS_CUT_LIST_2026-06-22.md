@@ -9,8 +9,8 @@
 |--------|------|
 | `#constitutional-tetrad` | [core_00_preamble.md](../core_00_preamble.md) — four legs |
 | `#timeliness-constitutional` | [core_05a_accountability_definitions.md](../core_05a_accountability_definitions.md) — principle-layer timeliness leg |
-| `#vignette-stewardship-delay-deferred-repair` | [implementation/CH6-9_APPLICATION_VIGNETTES.md](CH6-9_APPLICATION_VIGNETTES.md) |
-| `#vignette-pipeline-overrun-tetrad-hollow` | [implementation/CH6-9_APPLICATION_VIGNETTES.md](CH6-9_APPLICATION_VIGNETTES.md) |
+| `#vignette-stewardship-delay-deferred-repair` | [core_06-09_application_vignettes.md](../core_06-09_application_vignettes.md#vignette-stewardship-delay-deferred-repair) |
+| `#vignette-pipeline-overrun-tetrad-hollow` | [core_06-09_application_vignettes.md](../core_06-09_application_vignettes.md#vignette-pipeline-overrun-tetrad-hollow) |
 
 ## Terminology
 
@@ -36,7 +36,7 @@
 - `corpus_joint_structure/cjs_05_cross_implementation_operational_terms.md` — **T** finding-profile code
 - `tools/architecture/lexical_guardrails.json`
 - `doc_architecture.md`, `README.md`
-- `implementation/CH6-9_APPLICATION_VIGNETTES.md`
+- `core_06-09_application_vignettes.md`
 - `CONSTITUTIONAL_REGRESSION_SCENARIOS.md` — RS-TETRAD-TIMELINESS-001/002
 
 ## Verification

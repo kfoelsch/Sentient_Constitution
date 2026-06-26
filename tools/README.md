@@ -34,7 +34,7 @@ Put a **blank line before** `---` when you mean a horizontal rule between sectio
 
 `trace_routing_prose_audit.py` enforces the binding-corpus rule that read-with routing stays inside Trace blocks. It also flags disguised navigation such as `Read them with …`, `Each … must be read with …`, `… also read **§…**`, and operative bullet labels such as `- *Read with.*` in operative prose.
 
-`trace_dec_widget_order_audit.py` enforces Trace → D/E/C placement: when a `###`–`#####` unit's Trace block carries Chapter Five `· [O]` read-with links, the next block after Trace close must be a **Definitions · Evaluation · Compliance** widget or a single-concept inline **Definition:** line, with only blank lines between.
+`trace_dec_widget_order_audit.py` enforces Trace → D/E/C placement: when a `###`–`#####` unit's Trace block carries Chapter Five `· [O]` read-with links, the next block after Trace close must be a **Definitions · Evaluation · Compliance** widget or a single-concept inline **Definition:** line, with only blank lines between. Without Trace, the D/E/C widget must be the first substantive block under `####` / `#####`. It also flags roadmap-only parent `###` D/E/C widgets (≤2 rows) when a `####` subsection owns operative definitions.
 
 `ch5_single_definition_audit.py` enforces the Chapter Five directory cleanup rule: one visible definition label, one directory row, no placeholder-only definition shells, and no repeated `Cluster members.` owner roster membership. Anchor fragments remain navigation targets only.
 

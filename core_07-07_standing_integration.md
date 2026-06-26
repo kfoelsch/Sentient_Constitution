@@ -735,7 +735,7 @@ Dimensions decompose verified findings; they do **not** replace the Violation Ax
 
 Article XXIII-B/C, the verified-input gate ([Ch6 §14.3.2](core_06-06_standing_assessment.md#verified-inputs-for-standing)), and the no-substitution rule ([Chapter One §8.2](#62-joint-assessment-escalation-constraints-and-scrutiny)) apply in every example.
 
-Domain-scale pipeline walkthroughs with **Article XXIII-G** milestone tables: [implementation/CH6-9_APPLICATION_VIGNETTES.md](../implementation/CH6-9_APPLICATION_VIGNETTES.md).
+Domain-scale pipeline walkthroughs with **Article XXIII-G** milestone tables: [Chapters Six–Nine application vignettes](core_06-09_application_vignettes.md#chapters-six-nine-application-vignettes).
 
 <a id="violation-axis-slot-lock-and-attachment-compass"></a>
 
