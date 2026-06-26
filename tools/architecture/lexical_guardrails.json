@@ -109,6 +109,14 @@
     {
       "avoid": "tribunals",
       "prefer": "forums, panel, bench, adjudicative body"
+    },
+    {
+      "avoid": "standing calculus",
+      "prefer": "standing-record classification under Chapter Six; classify standing records on the Contribution and Violation axes"
+    },
+    {
+      "avoid": "standing-calculus",
+      "prefer": "standing-record classification under Chapter Six"
     }
   ],
   "co_gloss_registry": [

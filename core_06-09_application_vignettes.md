@@ -215,7 +215,7 @@ Arbitration clauses, shell subcontractors, years of “market efficiency” defe
 | --- | --- |
 | Allegations ≠ standing | [Chapter Six §2.3.2](core_06-06_standing_assessment.md#232-minimum-record-contents) |
 | No offset across axes | [Chapter Six §2.2](core_06-06_standing_assessment.md#22-linked-records-and-no-offset-bridge) |
-| Forums ≠ standing calculus | [Chapter Six §2.3.7](core_06-06_standing_assessment.md#237-forum-boundary) |
+| Forums ≠ standing-record classification | [Chapter Six §2.3.7](core_06-06_standing_assessment.md#237-forum-boundary) |
 | Tetrad timeliness leg | [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad); [Timeliness](core_05a_accountability_definitions.md#timeliness-constitutional) |
 | Timely + efficient + just together | [Article XXIII-G](core_10-10_rights_part_d.md#article-xxiii-g-timely-resolution-and-anti-delay-floor) |
 | Numeric tier floors | [CF-11.3.1](corpus_forum/cf_11_performance_backlog_publication_accessibility.md#cf-1131-target-windows-and-timing-floors) |

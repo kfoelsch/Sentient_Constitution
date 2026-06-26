@@ -18,7 +18,7 @@
 
 *Reader guidance (non-operative): does not add, remove, or narrow binding obligations elsewhere in this chapter or in other chapters.*
 
-When [material stake](core_00_preamble.md#material-stake) requires auditable standing, Chapters Six through Eight form one continuous **standing pipeline** under the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) and [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) — not reputation, allegations, or informal scoring. [Chapter Nine](core_09-09_forum.md#chapter-nine-forums-and-jurisdiction) **supervises** how disputes move through that pipeline; it does **not** run standing calculus or form a parallel adjudication track.
+When [material stake](core_00_preamble.md#material-stake) requires auditable standing, Chapters Six through Eight form one continuous **standing pipeline** under the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) and [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) — not reputation, allegations, or informal scoring. [Chapter Nine](core_09-09_forum.md#chapter-nine-forums-and-jurisdiction) **supervises** how disputes move through that pipeline; it does **not** classify standing records under Chapter Six or form a parallel adjudication track.
 
 This pipeline is a **constitutional coordination and resolution system**: verify facts, classify standing on separate Flourishing and Accountability tracks, integrate consequences without netting axes, and restore where feasible — **quickly, efficiently, and justly** under **Article XXIII-G** (*Timely Resolution and Anti-Delay Floor*), read with [**Article XII-B**](core_10-10_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress). It is not a punishment-first warehouse where material harm may sit unresolved for years.
 
@@ -27,7 +27,7 @@ This pipeline is a **constitutional coordination and resolution system**: verify
 | **[Ch 6 — Measure](core_06-06_standing_assessment.md#chapter-six-compliance-violation-and-standing-model)** | Separate verified Flourishing credit from verified Accountability findings | **Oversight** + **Accountability**; **timeliness** (verified-input and classification clocks) | **Flourishing** (Contribution Axis) + **Accountability** (Violation Axis) |
 | **[Ch 7 — Integrate](core_07-07_standing_integration.md#chapter-seven-standing-effects-and-integration)** | Apply consequences without netting axes or hollowing tetrad duties | All four; **Participation** via competency gates; **timeliness** (remedy commencement) | **Flourishing** + **Continuity** |
 | **[Ch 8 — Guard](core_08-08_misconduct.md#chapter-eight-anti-constitutional-misconduct)** | Stop constitutional capture at top violation slots | All four at scale (**tetrad capture**) | **Continuity** (primary) + **Flourishing** |
-| **[Ch 9 — Supervise](core_09-09_forum.md#chapter-nine-forums-and-jurisdiction)** | Supervise dispute handling — routing, merits review, remediation sequencing, interim relief — so the pipeline moves lawfully **without substituting for standing calculus** | **Participation** + **Oversight** + **Timeliness** ([Article XXIII-G](core_10-10_rights_part_d.md#article-xxiii-g-timely-resolution-and-anti-delay-floor)) | **Accountability** (verified findings feed the pipeline) |
+| **[Ch 9 — Supervise](core_09-09_forum.md#chapter-nine-forums-and-jurisdiction)** | Supervise dispute handling — routing, merits review, remediation sequencing, interim relief — so the pipeline moves lawfully **without substituting forum process for Chapter Six standing-record classification** | **Participation** + **Oversight** + **Timeliness** ([Article XXIII-G](core_10-10_rights_part_d.md#article-xxiii-g-timely-resolution-and-anti-delay-floor)) | **Accountability** (verified findings feed the pipeline) |
 
 **Forum supervision (Chapter Nine).** Forum families **supervise** how concrete disputes traverse the standing pipeline above. They supply accessible challenge, independent review, forensic support, coordinated sequencing, and tier-default clocks — and they produce **verified findings** that may open or update standing records under [Chapter Six §2](core_06-06_standing_assessment.md#2-standing-records). They do **not** hear disputes as a separate adjudication layer, merge axes, or substitute dispute narratives for standing classification ([Chapter Six §2.3.7](core_06-06_standing_assessment.md#237-forum-boundary)). Illustrative domain walkthroughs: [Chapters Six–Nine application vignettes](core_06-09_application_vignettes.md#chapters-six-nine-application-vignettes).
 
@@ -136,8 +136,8 @@ The model is also built to avoid predictable enforcement failures. Contribution-
 
 | **Axis** | **Question 1 (Chapter Six)** | **Question 2 (Chapter Seven)** |
 | --- | --- | --- |
-| **Violation** ([§3](#6-classification-evaluation-dimensions) · [Ch7 §3.0](core_07-07_standing_integration.md#30-non-recurrence-evaluation-and-integration-examples)) | How bad was it? → Violation Axis slot ([**Table A (Violation)**](#table-a-violation-q1-severity-input-dimensions)) | How do we ensure it does not recur? → standing-lock design under [Ch7 **Chapter One §8.10**](core_07-07_standing_integration.md#310-non-recurrence-lock-dimensions) |
-| **Contribution** ([§3](#6-classification-evaluation-dimensions) · [Ch7 Chapter One §8.10](core_07-07_standing_integration.md#210-safe-delegation-competency-gate-dimensions)) | How good was it? → Contribution Axis slot ([**Table A (Contribution)**](#table-a-contribution-q1-magnitude-input-dimensions)) | What may it safely unlock? → competency-gate design under [Ch7 **Chapter One §8.10**](core_07-07_standing_integration.md#210-safe-delegation-competency-gate-dimensions) |
+| **Violation** ([§3](#6-classification-evaluation-dimensions) · [Ch7 §3.0](core_07-07_standing_integration.md#30-non-recurrence-evaluation-and-integration-examples)) | How bad was it? → Violation Axis slot ([**Violation table**](#violation-table-q1-severity-input-dimensions)) | How do we ensure it does not recur? → standing-lock design under [Ch7 **Chapter One §8.10**](core_07-07_standing_integration.md#310-non-recurrence-lock-dimensions) |
+| **Contribution** ([§3](#6-classification-evaluation-dimensions) · [Ch7 Chapter One §8.10](core_07-07_standing_integration.md#210-safe-delegation-competency-gate-dimensions)) | How good was it? → Contribution Axis slot ([**Contribution table**](#contribution-table-q1-magnitude-input-dimensions)) | What may it safely unlock? → competency-gate design under [Ch7 **Chapter One §8.10**](core_07-07_standing_integration.md#210-safe-delegation-competency-gate-dimensions) |
 
 **Chapter Six reading order (classification).**
 
@@ -166,7 +166,7 @@ Standing effects, Question 2 integration, and cross-axis coupling begin in [Chap
 
 <br>
 
-*In plain terms: Section 2 creates **standing records** — focused case files about one sentient, institution, or situation over a clear time period. Each file is **axis-pure**: a **contribution standing record** for verified good, or a **violation standing record** for verified adverse findings — not both in one file. **Section 2.2** states the no-offset rule when linked contribution and violation records coexist. Related files must **cross-reference** each other under **section 2.3.1**; **section 2.3.2** lists what each file must contain and what counts as verified input. The files are not permanent popularity scores or vague labels. **Sections 2.3.4–2.3.6** cover versioning and implementation visibility; **section 2.3.7** keeps forums separate from standing calculus. Under the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad), this section is the **oversight** record foundation; under the [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims), it keeps **Flourishing** credit and **Accountability** findings separately traceable so **sections 3–6** can measure them without merging axes.*
+*In plain terms: Section 2 creates **standing records** — focused case files about one sentient, institution, or situation over a clear time period. Each file is **axis-pure**: a **contribution standing record** for verified good, or a **violation standing record** for verified adverse findings — not both in one file. **Section 2.2** states the no-offset rule when linked contribution and violation records coexist. Related files must **cross-reference** each other under **section 2.3.1**; **section 2.3.2** lists what each file must contain and what counts as verified input. The files are not permanent popularity scores or vague labels. **Sections 2.3.4–2.3.6** cover versioning and implementation visibility; **section 2.3.7** states the forum boundary — supervision and verified findings feed standing through the gate; dispute-phase material does not. Under the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad), this section is the **oversight** record foundation; under the [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims), it keeps **Flourishing** credit and **Accountability** findings separately traceable so **sections 3–6** can measure them without merging axes.*
 
 <a id="21-standing-records-as-the-unit-of-application"></a>
 <a id="contribution-standing-record"></a>
@@ -318,7 +318,17 @@ Teams may build practical tools for standing records — data fields, tags, thre
 
 <a id="chapter-six-part-c-accountability-gate"></a>
 
-Forums under [Chapter Nine](core_09-09_forum.md#chapter-nine-forums-and-jurisdiction) hear and resolve allegations and claims. They are not an extension of this chapter's standing-calculus layer. Nothing in this rule reduces challenge, remedy, or procedural protections required under [Article XII-B](core_10-10_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress) and related provisions.
+*In plain terms: forums are where disputes get supervised, challenged, and turned into verified outcomes — but filing a claim or winning a narrative fight is not the same as updating standing. Allegations and intake paperwork stay routing material until verified. When a forum produces a verified finding under Chapters Two through Four, that finding can feed the standing records in this section — but forums do not merge good and bad into one score, skip axis-pure records, or classify standing records by themselves.*
+
+Forum families under [Chapter Nine](core_09-09_forum.md#chapter-nine-forums-and-jurisdiction) **supervise** how concrete disputes traverse the standing pipeline. They supply accessible challenge, independent review, forensic support, remediation sequencing, and tier-default clocks under [Article XXIII-G](core_10-10_rights_part_d.md#article-xxiii-g-timely-resolution-and-anti-delay-floor), and they may produce **verified findings** that open or update standing records under **section 2.3.2** when those findings satisfy the verified-input gate under Chapters Two through Four.
+
+Forum supervision is **not** standing-record classification in this chapter. In particular:
+
+- **Dispute-phase material** — allegations, unadjudicated claims, provisional routing tags, intake-only narratives, and other non-verified forum-phase inputs — does not by itself supply contribution state or violation nature for standing under **section 2.3.2**.
+- Forum proceedings must **not** merge Contribution Axis and Violation Axis material into one net score, blended merits answer, or undifferentiated standing label; linked records remain axis-pure under **sections 2.1** and **2.2**.
+- Forum outputs must **not** substitute dispute narratives, routing convenience, or panel preference for demonstrable verified inputs, axis-pure classification, or the standing-effect mechanics owned by [Chapter Seven](core_07-07_standing_integration.md#chapter-seven-standing-effects-and-integration).
+
+This boundary does **not** reduce challenge, remedy, interim relief, or procedural protections required under [Article XII-B](core_10-10_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress), [Article XXIII-G](core_10-10_rights_part_d.md#article-xxiii-g-timely-resolution-and-anti-delay-floor), or related justice articles. It requires that verified forum findings enter standing through the same gate as other verified inputs — not around it.
 
 <a id="6-classification-evaluation-dimensions"></a>
 
@@ -336,11 +346,11 @@ Forums under [Chapter Nine](core_09-09_forum.md#chapter-nine-forums-and-jurisdic
 
 *In plain terms: before Chapter Seven assigns **competency gates** or **standing locks**, each axis must answer **Question 1** — **how good was the contribution?** or **how bad was the violation?** This section decomposes the inputs to **[Chapter One §8.1](#41-lequ-contribution-calibration)** / **[§11.1](#51-contribution-axis-bands-and-table-2)** and **[Chapter One §6.2](#42-lequ-violation-calibration)** / **[§11.2](#52-violation-axis-severity-ladder)**. It does **not** create a second slot ladder, form a net score across axes, or apply standing effects. **Question 2** — safe delegation (contribution) and non-recurrence control (violation) — continues in [Chapter Seven](core_07-07_standing_integration.md#chapter-seven-standing-effects-and-integration).*
 
-**Question 1 only.** Apply these dimensions inside **contribution standing records** and **violation standing records** under **section 2**. Descriptor labels pair with [Chapter Seven Chapter One §8.1](core_07-07_standing_integration.md#71-shared-domain-lenses-cross-axis-vocabulary); **Table D** and **Table C** below state each descriptor's **classification role**. Integration roles for Question 2 appear in [Chapter Seven Chapter One §8.10](core_07-07_standing_integration.md#table-d-benefit-route-q2-integration) and [Chapter One §8.10](core_07-07_standing_integration.md#table-c-harm-route-q2-integration).
+**Question 1 only.** Apply these dimensions inside **contribution standing records** and **violation standing records** under **section 2**. Descriptor labels pair with [Chapter Seven Chapter One §8.1](core_07-07_standing_integration.md#71-shared-domain-lenses-cross-axis-vocabulary); **Table D** and **Table C** below state each descriptor's **classification role**. Integration roles for Question 2 appear in [Chapter Seven Chapter One §8.10](core_07-07_standing_integration.md#benefit-route-descriptors-q2-integration) and [Chapter One §8.10](core_07-07_standing_integration.md#harm-route-descriptors-q2-integration).
 
-<a id="table-a-contribution-q1-magnitude-input-dimensions"></a>
+<a id="contribution-table-q1-magnitude-input-dimensions"></a>
 
-**Table A (Contribution) — Question 1: magnitude-input dimensions (how good was it?).** These dimensions feed Contribution Axis slot assignment and stacked benefit descriptors recorded in the **contribution standing record**. Operative band criteria remain in **section 6.1**; LEQU calibration remains in **section 5.1**.
+**Contribution table — Question 1: magnitude-input dimensions (how good was it?).** These dimensions feed Contribution Axis slot assignment and stacked benefit descriptors recorded in the **contribution standing record**. Operative band criteria remain in **section 6.1**; LEQU calibration remains in **section 5.1**.
 
 | **Dimension** | **Role in Q1** | **Corpus anchor** |
 | --- | --- | --- |
@@ -348,7 +358,7 @@ Forums under [Chapter Nine](core_09-09_forum.md#chapter-nine-forums-and-jurisdic
 | **Sentient scope (count, depth, vulnerability)** | Modulates LEQU assessment and materiality | [Chapter One §8.1](#41-lequ-contribution-calibration) examples; [Materiality Determination](core_05o_oversight_definitions.md#materiality-determination) |
 | **Temporal scope (duration, durability)** | Modulates LEQU assessment | Lasting stewardship, cross-generational benefit, durable institutional repair toward `s` = 8–9 |
 | **Spatial / institutional scope** | Modulates LEQU assessment | Cross-community, cross-institutional, or civilization-scale benefit |
-| **Benefit-route stack** | Names routes of verified benefit; stackable | [Chapter Seven Chapter One §8.1](core_07-07_standing_integration.md#71-shared-domain-lenses-cross-axis-vocabulary); [**Table D**](#table-d-benefit-route-descriptors-classification-role) |
+| **Benefit-route stack** | Names routes of verified benefit; stackable | [Chapter Seven Chapter One §8.1](core_07-07_standing_integration.md#71-shared-domain-lenses-cross-axis-vocabulary); [**Table D**](#benefit-route-descriptors-q1-classification-role) |
 | **Conduct-quality stack** | How benefit was produced; may limit countable benefit | Traceability, non-externalization, diligence, constitutional alignment; externalized harm or concealed burden caps benefit ([Chapter One §8.1](#41-lequ-contribution-calibration)) |
 
 **Q1 outputs (record in the contribution standing record; not standing effects).**
@@ -359,10 +369,9 @@ Forums under [Chapter Nine](core_09-09_forum.md#chapter-nine-forums-and-jurisdic
 
 Do **not** split LEQU into parallel ecological, system, or resource benefit scores unless adopted implementation needs transparent decomposition for audit.
 
-<a id="table-a-violation-q1-severity-input-dimensions"></a>
-<a id="table-a-q1-severity-input-dimensions"></a>
+<a id="violation-table-q1-severity-input-dimensions"></a>
 
-**Table A (Violation) — Question 1: severity-input dimensions (how bad was it?).** These dimensions feed Violation Axis slot assignment and stacked harm descriptors recorded in the **violation standing record**. Operative slot criteria remain in **section 6.2**; LEQU calibration remains in **section 5.2**.
+**Violation table — Question 1: severity-input dimensions (how bad was it?).** These dimensions feed Violation Axis slot assignment and stacked harm descriptors recorded in the **violation standing record**. Operative slot criteria remain in **section 6.2**; LEQU calibration remains in **section 5.2**.
 
 | **Dimension** | **Role in Q1** | **Corpus anchor** |
 | --- | --- | --- |
@@ -370,7 +379,7 @@ Do **not** split LEQU into parallel ecological, system, or resource benefit scor
 | **Sentient scope (count, depth, vulnerability)** | Modulates LEQU assessment and materiality | [Chapter One §6.2](#42-lequ-violation-calibration) examples; [Materiality Determination](core_05o_oversight_definitions.md#materiality-determination) |
 | **Temporal scope (duration, irreversibility)** | Modulates LEQU assessment | Persistent trauma, irreversible loss, durable agency impairment in `s` = 7 criteria ([§11.2](#52-violation-axis-severity-ladder)) |
 | **Spatial / institutional scope** | Modulates LEQU assessment | Cross-community, cross-institutional, or civilizational reach toward `s` = 8–9 |
-| **Harm-route stack** | Names routes of verified harm; stackable | [Chapter Seven Chapter One §8.1](core_07-07_standing_integration.md#71-shared-domain-lenses-cross-axis-vocabulary); [**Table C**](#table-c-harm-route-descriptors-classification-role) |
+| **Harm-route stack** | Names routes of verified harm; stackable | [Chapter Seven Chapter One §8.1](core_07-07_standing_integration.md#71-shared-domain-lenses-cross-axis-vocabulary); [**Table C**](#harm-route-descriptors-q1-classification-role) |
 | **Conduct-character stack** | How harm was caused; may escalate slot | Violence/coercion → `s` = 6; negligence → `s` = 4; deception/concealment → `s` = 5; diffusion → `s` = 4–5; Rights-Floor defeat → `s` = 3 or 7–9 |
 
 **Q1 outputs (record in the violation standing record; not standing effects).**
@@ -381,10 +390,9 @@ Do **not** split LEQU into parallel ecological, system, or resource benefit scor
 
 Do **not** split LEQU into parallel ecological, system, or resource scores unless adopted implementation needs transparent decomposition for audit.
 
-<a id="table-d-benefit-route-descriptors-classification-role"></a>
-<a id="table-d-benefit-route-descriptors-and-evaluation-role"></a>
+<a id="benefit-route-descriptors-q1-classification-role"></a>
 
-**Table D — Benefit-route descriptors: Question 1 classification role.** Descriptor catalog: [Chapter Seven Chapter One §8.1](core_07-07_standing_integration.md#71-shared-domain-lenses-cross-axis-vocabulary). Question 2 safe-delegation role: [Chapter Seven Chapter One §8.10](core_07-07_standing_integration.md#table-d-benefit-route-q2-integration).
+**Table D — Benefit-route descriptors: Question 1 classification role.** Descriptor catalog: [Chapter Seven Chapter One §8.1](core_07-07_standing_integration.md#71-shared-domain-lenses-cross-axis-vocabulary). Question 2 safe-delegation role: [Chapter Seven Chapter One §8.10](core_07-07_standing_integration.md#benefit-route-descriptors-q2-integration).
 
 | **Benefit-route descriptor** | **Chapter One §8.1 anchor** ([Ch7](core_07-07_standing_integration.md#71-shared-domain-lenses-cross-axis-vocabulary)) | **Q1 (how good?)** |
 | --- | --- | --- |
@@ -402,10 +410,9 @@ Do **not** split LEQU into parallel ecological, system, or resource scores unles
 | **Diligence** | Chapter One §8.1.5 | Foreseeable-risk prevention and competent supervision |
 | **Access and Inclusion** | Chapter One §8.1.1 | Substantive participation and accessibility benefit; modulates materiality in dependency-asymmetric settings |
 
-<a id="table-c-harm-route-descriptors-classification-role"></a>
-<a id="table-c-harm-route-descriptors-and-evaluation-role"></a>
+<a id="harm-route-descriptors-q1-classification-role"></a>
 
-**Table C — Harm-route descriptors: Question 1 classification role.** Descriptor catalog: [Chapter Seven Chapter One §8.1](core_07-07_standing_integration.md#71-shared-domain-lenses-cross-axis-vocabulary). Question 2 non-recurrence role: [Chapter Seven Chapter One §8.10](core_07-07_standing_integration.md#table-c-harm-route-q2-integration).
+**Table C — Harm-route descriptors: Question 1 classification role.** Descriptor catalog: [Chapter Seven Chapter One §8.1](core_07-07_standing_integration.md#71-shared-domain-lenses-cross-axis-vocabulary). Question 2 non-recurrence role: [Chapter Seven Chapter One §8.10](core_07-07_standing_integration.md#harm-route-descriptors-q2-integration).
 
 | **Harm-route descriptor** | **Chapter One §8.1 anchor** ([Ch7](core_07-07_standing_integration.md#71-shared-domain-lenses-cross-axis-vocabulary)) | **Q1 (how bad?)** |
 | --- | --- | --- |

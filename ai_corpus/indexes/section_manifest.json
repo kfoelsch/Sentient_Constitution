@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-06-25T03:25:52+00:00",
+  "generated_at": "2026-06-26T08:56:10+00:00",
   "files": {
     "core_00_preamble.md": {
       "total_lines": 97,
@@ -50,20 +50,20 @@
       ]
     },
     "core_01_a_values_principles.md": {
-      "total_lines": 1241,
+      "total_lines": 1237,
       "sections": [
         {
           "header": "Values Principles (Chapter One, Part A)",
           "level": 1,
           "line_start": 1,
-          "line_end": 1241,
+          "line_end": 1237,
           "anchor": null
         },
         {
           "header": "CHAPTER 01, PART A: VALUES PRINCIPLES",
           "level": 2,
           "line_start": 18,
-          "line_end": 1241,
+          "line_end": 1237,
           "anchor": null
         },
         {
@@ -280,362 +280,362 @@
           "header": "6. Interaction and Conflict Resolution",
           "level": 3,
           "line_start": 777,
-          "line_end": 1076,
+          "line_end": 1072,
           "anchor": "#56-read-with-structural-contestability"
         },
         {
           "header": "6.1 Core Tradeoff Principles",
           "level": 4,
-          "line_start": 809,
-          "line_end": 900,
+          "line_start": 801,
+          "line_end": 896,
           "anchor": "#61-core-tradeoff-principles"
         },
         {
           "header": "6.1.1 Proportionality",
           "level": 5,
-          "line_start": 834,
-          "line_end": 867,
+          "line_start": 830,
+          "line_end": 863,
           "anchor": "#611-proportionality"
         },
         {
           "header": "6.1.2 Minimization of Avoidable Burden",
           "level": 5,
-          "line_start": 868,
-          "line_end": 900,
+          "line_start": 864,
+          "line_end": 896,
           "anchor": "#614-minimization-of-avoidable-burden"
         },
         {
           "header": "6.2 Epistemic Disclosure Constraints",
           "level": 4,
-          "line_start": 901,
-          "line_end": 1007,
+          "line_start": 897,
+          "line_end": 1003,
           "anchor": "#62-epistemic-disclosure-constraints"
         },
         {
           "header": "6.2.1 Preservation of Epistemic Integrity",
           "level": 5,
-          "line_start": 940,
-          "line_end": 978,
+          "line_start": 936,
+          "line_end": 974,
           "anchor": "#621-preservation-of-epistemic-integrity"
         },
         {
           "header": "6.2.2 Trust-Truth Alignment",
           "level": 5,
-          "line_start": 979,
-          "line_end": 1007,
+          "line_start": 975,
+          "line_end": 1003,
           "anchor": "#622-trust-truth-alignment"
         },
         {
           "header": "6.3 Rights-Collision Procedure",
           "level": 4,
-          "line_start": 1008,
-          "line_end": 1076,
+          "line_start": 1004,
+          "line_end": 1072,
           "anchor": "#54-rights-collision-procedure"
         },
         {
           "header": "6.3.1 Rights-Collision Decision Test",
           "level": 5,
-          "line_start": 1015,
-          "line_end": 1058,
+          "line_start": 1011,
+          "line_end": 1054,
           "anchor": "#541-rights-collision-decision-test"
         },
         {
           "header": "6.3.2 Proxy-Divergence Invalidation",
           "level": 5,
-          "line_start": 1059,
-          "line_end": 1076,
+          "line_start": 1055,
+          "line_end": 1072,
           "anchor": "#542-proxy-divergence-invalidation"
         },
         {
           "header": "7. Prohibition on Absolute Override",
           "level": 3,
-          "line_start": 1077,
-          "line_end": 1110,
+          "line_start": 1073,
+          "line_end": 1106,
           "anchor": null
         },
         {
           "header": "8. Constitutional Interpretation",
           "level": 3,
-          "line_start": 1111,
-          "line_end": 1241,
+          "line_start": 1107,
+          "line_end": 1237,
           "anchor": null
         },
         {
           "header": "8.1 Definitional layer and required disciplines",
           "level": 4,
-          "line_start": 1141,
-          "line_end": 1152,
+          "line_start": 1137,
+          "line_end": 1148,
           "anchor": "#81-definitional-layer-and-required-disciplines"
         },
         {
           "header": "8.2 Ambiguity resolution",
           "level": 4,
-          "line_start": 1153,
-          "line_end": 1165,
+          "line_start": 1149,
+          "line_end": 1161,
           "anchor": "#82-ambiguity-resolution"
         },
         {
           "header": "8.3 Conflict resolution procedure",
           "level": 4,
-          "line_start": 1166,
-          "line_end": 1241,
+          "line_start": 1162,
+          "line_end": 1237,
           "anchor": "#83-conflict-resolution-procedure"
         },
         {
           "header": "8.3.1 Integrated reading",
           "level": 5,
-          "line_start": 1171,
-          "line_end": 1180,
+          "line_start": 1167,
+          "line_end": 1176,
           "anchor": "#831-integrated-reading"
         },
         {
           "header": "8.3.2 Last-resort internal hierarchy",
           "level": 5,
-          "line_start": 1181,
-          "line_end": 1197,
+          "line_start": 1177,
+          "line_end": 1193,
           "anchor": "#832-last-resort-internal-hierarchy"
         },
         {
           "header": "8.3.3 Incorporation layer",
           "level": 5,
-          "line_start": 1198,
-          "line_end": 1241,
+          "line_start": 1194,
+          "line_end": 1237,
           "anchor": "#833-incorporation-layer"
         }
       ]
     },
     "core_01_b_stewardship_capacity_principles.md": {
-      "total_lines": 979,
+      "total_lines": 1018,
       "sections": [
         {
           "header": "Stewardship and Governance (Chapter One, Part B)",
           "level": 1,
           "line_start": 1,
-          "line_end": 979,
+          "line_end": 1018,
           "anchor": null
         },
         {
           "header": "CHAPTER 01, PART B: STEWARDSHIP AND GOVERNANCE",
           "level": 2,
           "line_start": 20,
-          "line_end": 979,
+          "line_end": 1018,
           "anchor": "#chapter-01-part-b-stewardship-and-governance"
         },
         {
-          "header": "11. Stewardship and Distributed Understanding",
+          "header": "9. Stewardship and Distributed Understanding",
           "level": 3,
-          "line_start": 69,
-          "line_end": 252,
+          "line_start": 104,
+          "line_end": 290,
           "anchor": "#9-stewardship-and-distributed-understanding"
         },
         {
-          "header": "11.1 Stewardship",
+          "header": "9.1 Stewardship",
           "level": 4,
-          "line_start": 122,
-          "line_end": 153,
+          "line_start": 158,
+          "line_end": 189,
           "anchor": "#91-stewardship"
         },
         {
-          "header": "11.2 Distributed Understanding",
+          "header": "9.2 Distributed Understanding",
           "level": 4,
-          "line_start": 154,
-          "line_end": 183,
+          "line_start": 190,
+          "line_end": 219,
           "anchor": "#92-distributed-understanding"
         },
         {
-          "header": "11.3 Institutional Development",
+          "header": "9.3 Institutional Development",
           "level": 4,
-          "line_start": 184,
-          "line_end": 214,
-          "anchor": null
+          "line_start": 220,
+          "line_end": 252,
+          "anchor": "#93-institutional-development"
         },
         {
-          "header": "11.4 Openness Aspiration",
+          "header": "9.4 Openness Aspiration",
           "level": 4,
-          "line_start": 215,
-          "line_end": 252,
+          "line_start": 253,
+          "line_end": 290,
           "anchor": "#94-openness-aspiration"
         },
         {
-          "header": "12. Governance Under Stewardship Discipline",
+          "header": "10. Governance Under Stewardship Discipline",
           "level": 3,
-          "line_start": 253,
-          "line_end": 498,
+          "line_start": 291,
+          "line_end": 536,
           "anchor": "#10-governance-under-stewardship-discipline"
         },
         {
-          "header": "12.1 Governance as Authorized Structure",
+          "header": "10.1 Governance as Authorized Structure",
           "level": 4,
-          "line_start": 272,
-          "line_end": 293,
-          "anchor": "#101-governance-as-authorized-structure"
+          "line_start": 310,
+          "line_end": 331,
+          "anchor": "#10-governance-as-authorized-structure"
         },
         {
-          "header": "12.2 Incentive Alignment and System Capture",
+          "header": "10.2 Incentive Alignment and System Capture",
           "level": 4,
-          "line_start": 294,
-          "line_end": 448,
+          "line_start": 332,
+          "line_end": 486,
           "anchor": "#102-incentive-alignment-and-system-capture"
         },
         {
-          "header": "12.2.1 Alignment Requirement",
+          "header": "10.2.1 Alignment Requirement",
           "level": 5,
-          "line_start": 342,
-          "line_end": 362,
-          "anchor": "#1021-alignment-requirement"
+          "line_start": 380,
+          "line_end": 400,
+          "anchor": "#102-alignment-requirement"
         },
         {
-          "header": "12.2.2 Misalignment Correction and Capture Response",
+          "header": "10.2.2 Misalignment Correction and Capture Response",
           "level": 5,
-          "line_start": 363,
-          "line_end": 387,
+          "line_start": 401,
+          "line_end": 425,
           "anchor": "#1022-misalignment-correction-and-capture-response"
         },
         {
-          "header": "12.2.3 Contingent claims, games of chance, and event-contract markets",
+          "header": "10.2.3 Contingent claims, games of chance, and event-contract markets",
           "level": 5,
-          "line_start": 388,
-          "line_end": 448,
+          "line_start": 426,
+          "line_end": 486,
           "anchor": "#1023-contingent-claims-games-of-chance-and-event-contract-markets"
         },
         {
-          "header": "12.3 Stewardship and Operator Incentive Alignment",
+          "header": "10.3 Stewardship and Operator Incentive Alignment",
           "level": 4,
-          "line_start": 449,
-          "line_end": 498,
+          "line_start": 487,
+          "line_end": 536,
           "anchor": "#103-stewardship-and-operator-incentive-alignment"
         },
         {
-          "header": "13. Shared-System Capacity",
+          "header": "11. Shared-System Capacity",
           "level": 3,
-          "line_start": 499,
-          "line_end": 581,
+          "line_start": 537,
+          "line_end": 619,
           "anchor": "#111-productive-capacity-instrumental-good"
         },
         {
-          "header": "13.1 Productive Capacity (Instrumental Good)",
+          "header": "11.1 Productive Capacity (Instrumental Good)",
           "level": 4,
-          "line_start": 537,
-          "line_end": 565,
+          "line_start": 575,
+          "line_end": 603,
           "anchor": null
         },
         {
-          "header": "13.2 Constitutional Efficiency",
+          "header": "11.2 Constitutional Efficiency",
           "level": 4,
-          "line_start": 566,
-          "line_end": 581,
+          "line_start": 604,
+          "line_end": 619,
           "anchor": null
         },
         {
-          "header": "14. Market Structure",
+          "header": "12. Market Structure",
           "level": 3,
-          "line_start": 582,
-          "line_end": 735,
+          "line_start": 620,
+          "line_end": 773,
           "anchor": "#12-market-structure"
         },
         {
-          "header": "14.1 Concentration Threshold Mechanism (Adopter-Tunable)",
+          "header": "12.1 Concentration Threshold Mechanism (Adopter-Tunable)",
           "level": 4,
-          "line_start": 616,
-          "line_end": 651,
+          "line_start": 654,
+          "line_end": 689,
           "anchor": "#121-concentration-threshold-mechanism-adopter-tunable"
         },
         {
-          "header": "14.2 Pro-Competition and Anti-Domination",
+          "header": "12.2 Pro-Competition and Anti-Domination",
           "level": 4,
-          "line_start": 652,
-          "line_end": 688,
+          "line_start": 690,
+          "line_end": 726,
           "anchor": "#122-pro-competition-and-anti-domination"
         },
         {
-          "header": "14.3 Consolidation Ceiling",
+          "header": "12.3 Consolidation Ceiling",
           "level": 4,
-          "line_start": 689,
-          "line_end": 735,
+          "line_start": 727,
+          "line_end": 773,
           "anchor": "#1231-consolidation-risk-pre-lock-in-impairment"
         },
         {
-          "header": "14.3.1 Consolidation Risk (Pre-Lock-In Impairment)",
+          "header": "12.3.1 Consolidation Risk (Pre-Lock-In Impairment)",
           "level": 5,
-          "line_start": 692,
-          "line_end": 706,
+          "line_start": 730,
+          "line_end": 744,
           "anchor": null
         },
         {
-          "header": "14.3.2 Ceiling Discipline (Adopter Requirements)",
+          "header": "12.3.2 Ceiling Discipline (Adopter Requirements)",
           "level": 5,
-          "line_start": 707,
-          "line_end": 735,
+          "line_start": 745,
+          "line_end": 773,
           "anchor": "#1232-ceiling-discipline-adopter-requirements"
         },
         {
-          "header": "15. Systemic Evaluation Requirement",
+          "header": "13. Systemic Evaluation Requirement",
           "level": 3,
-          "line_start": 736,
-          "line_end": 936,
+          "line_start": 774,
+          "line_end": 974,
           "anchor": "#13-systemic-evaluation-requirement"
         },
         {
-          "header": "15.1 Required Evaluation Factors",
+          "header": "13.1 Required Evaluation Factors",
           "level": 4,
-          "line_start": 772,
-          "line_end": 922,
+          "line_start": 810,
+          "line_end": 960,
           "anchor": "#131-required-evaluation-factors"
         },
         {
-          "header": "15.1.1 Systemic Scope and Risk Factors",
+          "header": "13.1.1 Systemic Scope and Risk Factors",
           "level": 5,
-          "line_start": 819,
-          "line_end": 830,
+          "line_start": 857,
+          "line_end": 868,
           "anchor": "#1311-systemic-scope-and-risk-factors"
         },
         {
-          "header": "15.1.2 Accessibility Under Sentience Non-Exclusion",
+          "header": "13.1.2 Accessibility Under Sentience Non-Exclusion",
           "level": 5,
-          "line_start": 831,
-          "line_end": 852,
+          "line_start": 869,
+          "line_end": 890,
           "anchor": "#1312-accessibility-under-sentience-non-exclusion"
         },
         {
-          "header": "15.1.3 Privacy (Informational) Joint Invocation",
+          "header": "13.1.3 Privacy (Informational) Joint Invocation",
           "level": 5,
-          "line_start": 853,
-          "line_end": 866,
+          "line_start": 891,
+          "line_end": 904,
           "anchor": "#1313-privacy-informational-joint-invocation"
         },
         {
-          "header": "15.1.4 Voluntary Discontinuation and Exit Rights",
+          "header": "13.1.4 Voluntary Discontinuation and Exit Rights",
           "level": 5,
-          "line_start": 867,
-          "line_end": 877,
+          "line_start": 905,
+          "line_end": 915,
           "anchor": "#1314-voluntary-discontinuation-and-exit-rights"
         },
         {
-          "header": "15.1.5 Assembly, Collective Organization, and Institutional Formation",
+          "header": "13.1.5 Assembly, Collective Organization, and Institutional Formation",
           "level": 5,
-          "line_start": 878,
-          "line_end": 888,
+          "line_start": 916,
+          "line_end": 926,
           "anchor": "#1315-assembly-collective-organization-and-institutional-formation"
         },
         {
-          "header": "15.1.6 Time-Consistency Constraint",
+          "header": "13.1.6 Time-Consistency Constraint",
           "level": 5,
-          "line_start": 889,
-          "line_end": 922,
+          "line_start": 927,
+          "line_end": 960,
           "anchor": "#1316-time-consistency-constraint"
         },
         {
-          "header": "15.2 Read-with: Governance and Incentive Discipline",
+          "header": "13.2 Read-with: Governance and Incentive Discipline",
           "level": 4,
-          "line_start": 923,
-          "line_end": 936,
+          "line_start": 961,
+          "line_end": 974,
           "anchor": "#132-read-with-governance-and-incentive-discipline"
         },
         {
-          "header": "16. Integrated Application",
+          "header": "14. Integrated Application",
           "level": 3,
-          "line_start": 937,
-          "line_end": 979,
+          "line_start": 975,
+          "line_end": 1018,
           "anchor": "#14-integrated-application"
         }
       ]
@@ -2986,221 +2986,221 @@
       ]
     },
     "core_06-06_standing_assessment.md": {
-      "total_lines": 770,
+      "total_lines": 778,
       "sections": [
         {
           "header": "Contribution, violation, and standing",
           "level": 1,
           "line_start": 1,
-          "line_end": 770,
+          "line_end": 778,
           "anchor": null
         },
         {
-          "header": "Measure, integrate, and guard: Chapters Six through Eight",
+          "header": "Measure, integrate, guard, and supervise: Chapters Six through Nine",
           "level": 3,
           "line_start": 17,
-          "line_end": 52,
+          "line_end": 53,
           "anchor": "#chapters-six-nine-constitutional-compass"
         },
         {
           "header": "CHAPTER SIX: CONTRIBUTION, VIOLATION, AND STANDING MODEL — CLASSIFICATION",
           "level": 2,
-          "line_start": 53,
-          "line_end": 770,
+          "line_start": 54,
+          "line_end": 778,
           "anchor": "#chapter-six-compliance-violation-and-standing-model"
         },
         {
           "header": "1. Purpose and Role",
           "level": 3,
-          "line_start": 89,
-          "line_end": 154,
+          "line_start": 90,
+          "line_end": 155,
           "anchor": "#2-purpose-and-role"
         },
         {
           "header": "1.1 Two-question evaluation discipline",
           "level": 4,
-          "line_start": 130,
-          "line_end": 154,
+          "line_start": 131,
+          "line_end": 155,
           "anchor": "#two-question-evaluation-discipline"
         },
         {
           "header": "2. Standing records — oversight foundation",
           "level": 3,
-          "line_start": 155,
-          "line_end": 323,
+          "line_start": 156,
+          "line_end": 334,
           "anchor": "#chapter-six-part-b-oversight-foundation"
         },
         {
           "header": "2.1 Standing records as the unit of application",
           "level": 4,
-          "line_start": 174,
-          "line_end": 192,
+          "line_start": 175,
+          "line_end": 193,
           "anchor": "#violation-standing-record"
         },
         {
           "header": "2.2 Linked records and no-offset bridge",
           "level": 4,
-          "line_start": 193,
-          "line_end": 214,
+          "line_start": 194,
+          "line_end": 215,
           "anchor": "#22-linked-records-and-no-offset-bridge"
         },
         {
           "header": "2.3 Standing record operational requirements",
           "level": 4,
-          "line_start": 215,
-          "line_end": 323,
+          "line_start": 216,
+          "line_end": 334,
           "anchor": "#231-related-record-cross-references"
         },
         {
           "header": "2.3.1 Related record cross-references",
           "level": 5,
-          "line_start": 219,
-          "line_end": 234,
+          "line_start": 220,
+          "line_end": 235,
           "anchor": null
         },
         {
           "header": "2.3.2 Minimum record contents",
           "level": 5,
-          "line_start": 235,
-          "line_end": 269,
+          "line_start": 236,
+          "line_end": 270,
           "anchor": "#232-minimum-record-contents"
         },
         {
           "header": "2.3.3 Collective and actor-specific records",
           "level": 5,
-          "line_start": 270,
-          "line_end": 280,
+          "line_start": 271,
+          "line_end": 281,
           "anchor": "#233-collective-and-actor-specific-records"
         },
         {
           "header": "2.3.4 Versioning",
           "level": 5,
-          "line_start": 281,
-          "line_end": 294,
+          "line_start": 282,
+          "line_end": 295,
           "anchor": "#234-versioning"
         },
         {
           "header": "2.3.5 Implementation visibility",
           "level": 5,
-          "line_start": 295,
-          "line_end": 309,
+          "line_start": 296,
+          "line_end": 310,
           "anchor": "#235-implementation-visibility"
         },
         {
           "header": "2.3.6 Implementation tools",
           "level": 5,
-          "line_start": 310,
-          "line_end": 315,
+          "line_start": 311,
+          "line_end": 316,
           "anchor": "#236-implementation-tools"
         },
         {
           "header": "2.3.7 Forum boundary",
           "level": 5,
-          "line_start": 316,
-          "line_end": 323,
+          "line_start": 317,
+          "line_end": 334,
           "anchor": "#chapter-six-part-c-accountability-gate"
         },
         {
           "header": "3. Classification evaluation dimensions — Question 1 (how good / how bad?)",
           "level": 3,
-          "line_start": 324,
-          "line_end": 473,
+          "line_start": 335,
+          "line_end": 481,
           "anchor": "#6-classification-evaluation-dimensions"
         },
         {
           "header": "4. Slot grammar and display labels",
           "level": 3,
-          "line_start": 474,
-          "line_end": 532,
+          "line_start": 482,
+          "line_end": 540,
           "anchor": "#31-slot-grammar-and-display-labels"
         },
         {
           "header": "4.1 What the slot grammar does",
           "level": 4,
-          "line_start": 480,
-          "line_end": 492,
+          "line_start": 488,
+          "line_end": 500,
           "anchor": "#311-what-the-slot-grammar-does"
         },
         {
           "header": "4.2 Table 1 — slot display labels",
           "level": 4,
-          "line_start": 493,
-          "line_end": 520,
+          "line_start": 501,
+          "line_end": 528,
           "anchor": "#312-table-1-slot-display-labels"
         },
         {
           "header": "4.3 How to read Table 1",
           "level": 4,
-          "line_start": 521,
-          "line_end": 532,
+          "line_start": 529,
+          "line_end": 540,
           "anchor": "#313-how-to-read-table-1"
         },
         {
           "header": "5. LEQU baseline — measuring impact in lifetime-equivalent units",
           "level": 3,
-          "line_start": 533,
-          "line_end": 629,
+          "line_start": 541,
+          "line_end": 637,
           "anchor": "#32-constitutional-outcome-baseline-for-slots"
         },
         {
           "header": "5.1 Contribution calibration",
           "level": 4,
-          "line_start": 552,
-          "line_end": 589,
+          "line_start": 560,
+          "line_end": 597,
           "anchor": "#41-lequ-contribution-calibration"
         },
         {
           "header": "5.2 Violation calibration",
           "level": 4,
-          "line_start": 590,
-          "line_end": 629,
+          "line_start": 598,
+          "line_end": 637,
           "anchor": "#42-lequ-violation-calibration"
         },
         {
           "header": "6. Primary category defaults — Contribution Axis and Violation Axis",
           "level": 3,
-          "line_start": 630,
-          "line_end": 770,
+          "line_start": 638,
+          "line_end": 778,
           "anchor": "#33-primary-category-defaults-and-lequ-slot-baseline"
         },
         {
           "header": "6.1 Contribution Axis — bands and Table 2",
           "level": 4,
-          "line_start": 638,
-          "line_end": 682,
+          "line_start": 646,
+          "line_end": 690,
           "anchor": "#51-contribution-axis-bands-and-table-2"
         },
         {
           "header": "6.2 Violation Axis — severity ladder",
           "level": 4,
-          "line_start": 683,
-          "line_end": 733,
+          "line_start": 691,
+          "line_end": 741,
           "anchor": "#chapter-six-part-e-accountability-measure"
         },
         {
           "header": "6.3 Forum disclosure omission and recusal-process impact",
           "level": 4,
-          "line_start": 734,
-          "line_end": 770,
+          "line_start": 742,
+          "line_end": 778,
           "anchor": "#forum-disclosure-omission-and-recusal-process-impact"
         }
       ]
     },
     "core_07-07_standing_integration.md": {
-      "total_lines": 1466,
+      "total_lines": 1465,
       "sections": [
         {
           "header": "Standing effects and integration",
           "level": 1,
           "line_start": 1,
-          "line_end": 1466,
+          "line_end": 1465,
           "anchor": null
         },
         {
           "header": "CHAPTER SEVEN: STANDING EFFECTS AND INTEGRATION",
           "level": 2,
           "line_start": 18,
-          "line_end": 1466,
+          "line_end": 1465,
           "anchor": "#chapter-six-compliance-violation-and-standing-model"
         },
         {
@@ -3375,7 +3375,7 @@
           "header": "3. Violation Axis Attachments — process / response character, hybrid rules, and duties",
           "level": 3,
           "line_start": 670,
-          "line_end": 1209,
+          "line_end": 1208,
           "anchor": "#6-axis-ii-extended"
         },
         {
@@ -3473,91 +3473,91 @@
           "header": "3.10 Non-recurrence lock dimensions (Question 2)",
           "level": 4,
           "line_start": 1121,
-          "line_end": 1209,
+          "line_end": 1208,
           "anchor": "#3-10-non-recurrence-lock-dimensions"
         },
         {
           "header": "4. Coupling between Contribution State and Violation Nature — integrative discipline (no hollowing)",
           "level": 3,
-          "line_start": 1210,
-          "line_end": 1363,
+          "line_start": 1209,
+          "line_end": 1362,
           "anchor": "#chapter-seven-part-e-integrative-discipline"
         },
         {
           "header": "4.1 Standing integration — contribution and violation nature",
           "level": 4,
-          "line_start": 1238,
-          "line_end": 1284,
+          "line_start": 1237,
+          "line_end": 1283,
           "anchor": "#211-standing-integration-contribution-and-violation-nature"
         },
         {
           "header": "4.2 Standing-lock assignment — violation assessment and non-substitution",
           "level": 4,
-          "line_start": 1285,
-          "line_end": 1307,
+          "line_start": 1284,
+          "line_end": 1306,
           "anchor": "#62-joint-assessment-escalation-constraints-and-scrutiny"
         },
         {
           "header": "4.3 Standing integration — slot-band standing locks",
           "level": 4,
-          "line_start": 1308,
-          "line_end": 1363,
+          "line_start": 1307,
+          "line_end": 1362,
           "anchor": "#standing-integration-slot-band-standing-locks"
         },
         {
           "header": "5. Enforcement realism anchors — Continuity enforcement",
           "level": 3,
-          "line_start": 1364,
-          "line_end": 1422,
+          "line_start": 1363,
+          "line_end": 1421,
           "anchor": "#chapter-seven-part-f-continuity-enforcement"
         },
         {
           "header": "5.1 Remediation capacity and funding",
           "level": 4,
-          "line_start": 1391,
-          "line_end": 1398,
+          "line_start": 1390,
+          "line_end": 1397,
           "anchor": "#51-remediation-capacity-and-funding"
         },
         {
           "header": "5.2 Remedy-organ durability",
           "level": 4,
-          "line_start": 1399,
-          "line_end": 1404,
+          "line_start": 1398,
+          "line_end": 1403,
           "anchor": null
         },
         {
           "header": "5.3 Cross-jurisdiction continuity",
           "level": 4,
-          "line_start": 1405,
-          "line_end": 1410,
+          "line_start": 1404,
+          "line_end": 1409,
           "anchor": null
         },
         {
           "header": "5.4 Anti-evasion and look-through authority",
           "level": 4,
-          "line_start": 1411,
-          "line_end": 1416,
+          "line_start": 1410,
+          "line_end": 1415,
           "anchor": null
         },
         {
           "header": "5.5 Reassessment after real correction",
           "level": 4,
-          "line_start": 1417,
-          "line_end": 1422,
+          "line_start": 1416,
+          "line_end": 1421,
           "anchor": null
         },
         {
           "header": "Why All This Matters",
           "level": 3,
-          "line_start": 1423,
-          "line_end": 1435,
+          "line_start": 1422,
+          "line_end": 1434,
           "anchor": null
         },
         {
           "header": "6. Violation Axis s = 7–9 anti-constitutional misconduct — Chapter Eight gateway",
           "level": 3,
-          "line_start": 1436,
-          "line_end": 1466,
+          "line_start": 1435,
+          "line_end": 1465,
           "anchor": "#chapter-seven-part-g-chapter-eight-gateway"
         }
       ]
@@ -3912,6 +3912,172 @@
           "line_start": 433,
           "line_end": 453,
           "anchor": "#chapter-nine-part-e-implementation-boundary"
+        }
+      ]
+    },
+    "core_06-09_application_vignettes.md": {
+      "total_lines": 227,
+      "sections": [
+        {
+          "header": "Chapters Six–Nine application vignettes",
+          "level": 1,
+          "line_start": 1,
+          "line_end": 227,
+          "anchor": null
+        },
+        {
+          "header": "CHAPTERS SIX–NINE: PIPELINE APPLICATION VIGNETTES",
+          "level": 2,
+          "line_start": 17,
+          "line_end": 227,
+          "anchor": "#chapters-six-nine-application-vignettes"
+        },
+        {
+          "header": "1. Child neglect / care-duty failure (Tier A)",
+          "level": 3,
+          "line_start": 44,
+          "line_end": 90,
+          "anchor": "#vignette-child-neglect-care-duty"
+        },
+        {
+          "header": "Situation",
+          "level": 4,
+          "line_start": 46,
+          "line_end": 49,
+          "anchor": null
+        },
+        {
+          "header": "Legacy failure mode",
+          "level": 4,
+          "line_start": 50,
+          "line_end": 53,
+          "anchor": null
+        },
+        {
+          "header": "Pipeline pass",
+          "level": 4,
+          "line_start": 54,
+          "line_end": 66,
+          "anchor": null
+        },
+        {
+          "header": "Milestone table (Tier A defaults)",
+          "level": 4,
+          "line_start": 67,
+          "line_end": 79,
+          "anchor": null
+        },
+        {
+          "header": "Must not happen",
+          "level": 4,
+          "line_start": 80,
+          "line_end": 90,
+          "anchor": null
+        },
+        {
+          "header": "2. Employment discrimination / participation-barrier injury (Tier B)",
+          "level": 3,
+          "line_start": 91,
+          "line_end": 134,
+          "anchor": "#vignette-discrimination-participation-barrier"
+        },
+        {
+          "header": "Situation",
+          "level": 4,
+          "line_start": 93,
+          "line_end": 96,
+          "anchor": null
+        },
+        {
+          "header": "Legacy failure mode",
+          "level": 4,
+          "line_start": 97,
+          "line_end": 100,
+          "anchor": null
+        },
+        {
+          "header": "Pipeline pass",
+          "level": 4,
+          "line_start": 101,
+          "line_end": 112,
+          "anchor": null
+        },
+        {
+          "header": "Milestone table (Tier B defaults)",
+          "level": 4,
+          "line_start": 113,
+          "line_end": 124,
+          "anchor": null
+        },
+        {
+          "header": "Must not happen",
+          "level": 4,
+          "line_start": 125,
+          "line_end": 134,
+          "anchor": null
+        },
+        {
+          "header": "3. Misaligned business / exit lock-in and externalized harm (Tier B–C)",
+          "level": 3,
+          "line_start": 135,
+          "line_end": 178,
+          "anchor": "#vignette-misaligned-business-structural-harm"
+        },
+        {
+          "header": "Situation",
+          "level": 4,
+          "line_start": 137,
+          "line_end": 140,
+          "anchor": null
+        },
+        {
+          "header": "Legacy failure mode",
+          "level": 4,
+          "line_start": 141,
+          "line_end": 144,
+          "anchor": null
+        },
+        {
+          "header": "Pipeline pass",
+          "level": 4,
+          "line_start": 145,
+          "line_end": 156,
+          "anchor": null
+        },
+        {
+          "header": "Milestone table (Tier B default; Tier C if escalated)",
+          "level": 4,
+          "line_start": 157,
+          "line_end": 168,
+          "anchor": null
+        },
+        {
+          "header": "Must not happen",
+          "level": 4,
+          "line_start": 169,
+          "line_end": 178,
+          "anchor": null
+        },
+        {
+          "header": "4. Stewardship delay and deferred repair",
+          "level": 3,
+          "line_start": 179,
+          "line_end": 197,
+          "anchor": "#vignette-stewardship-delay-deferred-repair"
+        },
+        {
+          "header": "5. Pipeline overrun and tetrad-hollow forums",
+          "level": 3,
+          "line_start": 198,
+          "line_end": 211,
+          "anchor": "#vignette-pipeline-overrun-tetrad-hollow"
+        },
+        {
+          "header": "Cross-vignette discipline",
+          "level": 3,
+          "line_start": 212,
+          "line_end": 227,
+          "anchor": null
         }
       ]
     },
