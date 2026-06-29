@@ -331,4 +331,4 @@ This cluster is the joint-invocation home for operative corpus identity, authori
 
 **Previous file:** [core_05c_continuity_definitions.md](core_05c_continuity_definitions.md)
 
-**Next file:** [core_06-06_standing_assessment.md](core_06-06_standing_assessment.md)
+**Next file:** [core_05A_system_alignment_certification.md](core_05A_system_alignment_certification.md)
