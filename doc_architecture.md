@@ -29,6 +29,8 @@ Filename renames require: reference audit, same-change link updates, dated evide
 
 **Numbering note:** When a passage says only “Chapter Twelve,” disambiguate by filename — see [README.md](README.md).
 
+**Constitutional owner layers:** canonical positive register — [Chapter Five — Constitutional Owner Layers](core_05i_integrative_definitions.md#constitutional-owner-layers). The table below is the editorial mirror; substantive owner discipline and non-relocation rules live in that Chapter Five entry.
+
 | Layer | Primary home | Routing |
 |--------|--------------|---------|
 | Values, definition mechanics, definitions | Sentient Constitution `core_*` Ch 1–5 | [README.md](README.md) reading order |

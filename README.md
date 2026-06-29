@@ -104,7 +104,7 @@ Designated obligations in these wrappers and their subfile directories are **bin
 | **Binding incorporated implementation** | Designated obligations in the companion wrappers and linked subfiles above, within valid adoption scope |
 | **Process / map support** | [doc_architecture.md](doc_architecture.md), `TODO.md`, regression and evidence artifacts, and implementation notes unless explicitly adopted |
 
-**Conflict order:** Sentient Constitution meaning controls. Use the **Authority Stack and Internal Hierarchy** cluster in Chapter Five to distinguish source-layer status from last-resort interpretive hierarchy. Incorporated and process layers must satisfy, not narrow, Sentient Constitution constraints.
+**Conflict order:** Sentient Constitution meaning controls. Use the **Authority Stack and Internal Hierarchy** and **Constitutional Owner Layers** clusters in Chapter Five to distinguish source-layer status, substantive owner routing, and last-resort interpretive hierarchy. Incorporated and process layers must satisfy, not narrow, Sentient Constitution constraints.
 
 The structure map ([doc_architecture.md](doc_architecture.md)) and corpus cross-references are maintained in lockstep with the numbered core files. Former `doc_architecture.md` sections **14–19** (worklist, adoption appendix, document control) live in [archive/ARCHITECTURE_ADOPTION_APPENDIX_ARCHIVED_2026-05-08.md](archive/ARCHITECTURE_ADOPTION_APPENDIX_ARCHIVED_2026-05-08.md) and [archive/ARCHITECTURE_WORKLIST_ARCHIVED_2026-05-08.md](archive/ARCHITECTURE_WORKLIST_ARCHIVED_2026-05-08.md).
 

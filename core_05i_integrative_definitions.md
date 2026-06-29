@@ -265,7 +265,7 @@ This cluster is the joint-invocation home for operative corpus identity, authori
 
 - Downstream: Principles: [2. Constitutional Interpretation](core_01_a_values_principles.md#8-constitutional-interpretation); [13. Integrated Application](core_01_b_stewardship_capacity_principles.md#14-integrated-application) (Authority Stack vs Internal Hierarchy read-with Chapter One).
 - Downstream: [Chapter One — §2 Constitutional Interpretation](core_01_a_values_principles.md#8-constitutional-interpretation) (integrated reading and last-resort hierarchy); [Chapter Thirteen Chapter One §8.1](core_13-15_amendment.md#31-internal-hierarchy-for-adopters) (*Internal Hierarchy for Adopters*); [Chapter Sixteen §2](core_16-16_incorporation.md#2-authority-stack-and-invocation) (*Authority stack and invocation*).
-- Read with: [Corpus](core_05i_integrative_definitions.md#corpus), [Supremacy and Enforceability](core_05i_integrative_definitions.md#supremacy-and-enforceability), and [Constitutional Constraint Violation](core_05i_integrative_definitions.md#constitutional-constraint-violation).
+- Read with: [Corpus](core_05i_integrative_definitions.md#corpus), [Constitutional Owner Layers](core_05i_integrative_definitions.md#constitutional-owner-layers), [Supremacy and Enforceability](core_05i_integrative_definitions.md#supremacy-and-enforceability), and [Constitutional Constraint Violation](core_05i_integrative_definitions.md#constitutional-constraint-violation).
 - Read with: owner-layer references in [doc_architecture.md](doc_architecture.md) and [README.md](README.md).
 
 </details>
@@ -278,7 +278,7 @@ This cluster is the joint-invocation home for operative corpus identity, authori
     - binding incorporated implementation source — designated obligations in adopted implementation text within valid Chapter Fourteen / Fourteen adoption scope;
     - process/map support sources — `doc_architecture.md`, `TODO.md`, and regression/evidence artifacts, unless explicitly incorporated by valid adopting instrument.
   - **Internal Hierarchy:** the last-resort interpretive ordering rule that resolves genuine residual incompatibility within the binding constitutional source after integrated reading under [Chapter One — §2 Constitutional Interpretation](core_01_a_values_principles.md#8-constitutional-interpretation) has been exhausted. Within that source, Chapter One principles govern high-level constitutional direction; article-level obligations and Rights Floors govern specific operative requirements; principles control over articles only for genuine residual incompatibility; and articles control over definitions read as independent substantive glosses. Canonical Chapter Five definitions continue to govern the meaning of the terms used at each layer.
-  - **Boundary between them:** the Authority Stack decides which source layer is speaking and whether that layer is binding, incorporated, or support-only. Internal Hierarchy decides how binding constitutional meaning is resolved once the operative layer has been identified. For adopters, Chapter Thirteen Chapter One §8.1 applies this paired discipline at the binding-corpus / adopted-implementation boundary: this Constitution and its integrated definitions govern interpretation and compliance, while adopted implementation text governs only within its stated adoption scope and remains subject to [Chapter Thirteen non-regression](core_13-15_amendment.md) and [Supremacy and Enforceability](core_05i_integrative_definitions.md#supremacy-and-enforceability).
+  - **Boundary between them:** the Authority Stack decides which source layer is speaking and whether that layer is binding, incorporated, or support-only. Internal Hierarchy decides how binding constitutional meaning is resolved once the operative layer has been identified. **Constitutional Owner Layers** — the positive register of which chapter owns which substantive domain — is stated in [Constitutional Owner Layers](core_05i_integrative_definitions.md#constitutional-owner-layers) and works with both: first identify source status under the Authority Stack, then identify substantive owner under Constitutional Owner Layers, then apply Internal Hierarchy only for genuine residual incompatibility within the binding constitutional source. For adopters, Chapter Thirteen Chapter One §8.1 applies this paired discipline at the binding-corpus / adopted-implementation boundary: this Constitution and its integrated definitions govern interpretation and compliance, while adopted implementation text governs only within its stated adoption scope and remains subject to [Chapter Thirteen non-regression](core_13-15_amendment.md) and [Supremacy and Enforceability](core_05i_integrative_definitions.md#supremacy-and-enforceability).
 <a id="authority-stack-e"></a>
 - E: First identify the operative edition/custody chain and source layer under the Authority Stack. Then apply integrated reading under [Chapter One — §2 Constitutional Interpretation](core_01_a_values_principles.md#8-constitutional-interpretation). Preserve the Constitution's fullest protective effect as an integrated whole and the [Chapter Six](core_06-06_rights_part_a.md#chapter-six-foundational-rights) non-contraction default. Use Internal Hierarchy only as a last-resort residual rule; do not use it to replace ordinary integrated reading or to resolve mere disagreement over canonical term meaning. Where the dispute is term meaning, the Chapter Five canonical definition governs at every layer. Reject interpretations that invert source precedence, obscure source status, treat non-incorporated process text as binding constitutional law, or let incorporated/support layers narrow Sentient Constitution meaning. Apply Chapter Four burden, tracing, and verification requirements to any claim that a layer collision exists.
 <a id="authority-stack-c"></a>
@@ -287,6 +287,51 @@ This cluster is the joint-invocation home for operative corpus identity, authori
   - invoking Internal Hierarchy to license abstract-strictness preferences, to contract [Chapter Six](core_06-06_rights_part_a.md#chapter-six-foundational-rights) protections outside expressly permitted Chapter One interaction rules, or to substitute one layer for another under ordinary operation;
   - treating canonical Chapter Five definitions as a competing substantive layer that displaces principles or articles ([Chapter One — §2 Constitutional Interpretation](core_01_a_values_principles.md#8-constitutional-interpretation));
   - for adopters, treating adopted implementation text as overriding binding constitutional source within scope of adoption, or as relaxing [Chapter Twelve](core_13-15_amendment.md) non-regression floors (Chapter Thirteen Chapter One §8.1; [Supremacy and Enforceability](core_05i_integrative_definitions.md#supremacy-and-enforceability)).
+
+---
+
+<a id="constitutional-owner-layers"></a>
+
+##### Constitutional Owner Layers
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Upstream: [Authority Stack and Internal Hierarchy](core_05i_integrative_definitions.md#authority-stack) (*source status, internal precedence, and owner routing read together*).
+- Downstream: [Chapter Six — Layer scope](core_06-06_rights_part_d.md#chapter-six--layer-scope); [Chapter Thirteen §4 Layer scope](core_13-15_amendment.md#4-layer-scope) and [Chapter Fifteen §12 Layer scope](core_13-15_amendment.md#12-layer-scope) (*validity-layer discipline*); chapter opening owner statements across the numbered `core_*` instrument.
+- Read with: [doc_architecture.md](doc_architecture.md) section 2 (*editorial mirror of this register*); [README.md](README.md) reading order; [corpus_joint_structure.md](corpus_joint_structure.md) **CJS-2.1** (*implementation topic router*).
+
+</details>
+
+<br>
+
+- O: The positive register pairing each substantive constitutional domain with its single owner home within the operative [Corpus](core_05i_integrative_definitions.md#corpus), read together with [Authority Stack and Internal Hierarchy](core_05i_integrative_definitions.md#authority-stack). Each row names what that owner **establishes**; other layers must not absorb, restate, or relocate those obligations. Pointer cross-references, read-with routing, and integration sentences such as "implementation belongs in" or "must not narrow" are permitted; **substantive restatement** into a non-owner layer is non-compliant. **Non-relocation rule:** Under ordinary operation, text in one owner layer must not import obligations from another owner layer except by pointer, read-with routing, or express cross-reference. Where validity or governance chapters use trigger, referral, or escalation language, that language operates as a **routing heuristic only** unless the owner chapter expressly states otherwise. Owner rows:
+
+| Owner layer | Constitutional home | Owns (substantive) | Implementation home |
+|-------------|---------------------|--------------------|---------------------|
+| Principles and interpretation | Chapters 00–01 | Values, aims, interaction rules, constitutional interpretation | — |
+| Definition mechanics | Chapters 02–04 | Definition structure, burden, traceability, verification accessibility | — |
+| Canonical terms | Chapter 05 | O/E/C definitions and dependent clusters | — |
+| Rights Floor | Chapter 06 | Articles I–XXV Rights Floors and rights-level interpretive scope | — |
+| System alignment certification | Chapter 07 | System alignment certification records where material | [corpus_systems.md](corpus_systems.md) |
+| Standing classification | Chapters 08–09 | Contribution / violation / standing classification (Axes I / II), standing integration | — |
+| Anti-constitutional misconduct | Chapter 10 | Final Violation Axis **s** = 7, 8, or 9 classification, criteria, and cross-chapter discipline | — |
+| Forums and jurisdiction | Chapter 11 | Forum families, default venue, jurisdiction, adjudicative routing | [corpus_forum.md](corpus_forum.md) |
+| Governance legitimacy | Chapter 12 | Constitutional-contract legitimacy, stewardship direction, concentration and democratic checks | [corpus_institutions.md](corpus_institutions.md) |
+| Substantive change validity | Chapter 13 | Non-regression and substantive amendment validity (Test 1) | — |
+| Procedural change validity | Chapter 15 | Amendment, ratification, and procedural/custody validity (Tests 2–4), review triggers, invalid-change handling | — |
+| Incorporation and custody | Chapter 16 | Incorporation bridge, edition pinning, custody chain, adoption framing | — |
+| Cross-implementation joint structure | CJS | Cross-file interface terms with no stable single-file home | [corpus_joint_structure.md](corpus_joint_structure.md) |
+| Systems, institutions, forum operations | CS / CI / CF | Operational how-to within adoption scope | companion wrappers + subfiles |
+
+<a id="constitutional-owner-layers-e"></a>
+- E: For any materially scoped obligation, first identify source status under the Authority Stack, then identify the owner row in this register. Apply substance only from the owner home; elsewhere use pointers only. Preserve the [Chapter Six](core_06-06_rights_part_a.md#chapter-six-foundational-rights) non-contraction default and [Chapter One — §2 Constitutional Interpretation](core_01_a_values_principles.md#8-constitutional-interpretation) integrated reading before invoking Internal Hierarchy. For implementation topics routed across CS, CI, CF, and CJS, apply **CJS-2.1** after owner identification. Apply Chapter Four burden, tracing, and verification requirements to any claim that owner boundaries were crossed.
+<a id="constitutional-owner-layers-c"></a>
+- C: Non-compliant:
+  - substantive restatement of one owner layer's obligations inside another owner layer, including elevation of reader-guidance prose to operative effect;
+  - treating trigger, referral, or escalation language in validity or governance chapters as final classification or sanction law where the owner layer reserves that authority to Chapters 08–10;
+  - using process, governance, or implementation framing to narrow, redefine, or relocate [Chapter Six](core_06-06_rights_part_a.md#chapter-six-foundational-rights) Rights Floors contrary to [Chapter Thirteen](core_13-15_amendment.md) non-regression and the Chapter Six opening contract;
+  - inventing parallel taxonomies or workflows in non-owner layers when this register already assigns a canonical home.
 
 ---
 

@@ -93,6 +93,7 @@ This directory lists **Definitions A-Z** and **Clusters A-Z** separately. Each v
 - [Constitutional Contract Layer](core_05i_integrative_definitions.md#constitutional-contract-layer)
 - [Constitutional Efficiency](core_05c_continuity_definitions.md#constitutional-efficiency)
 - [Constitutional Emergency and Contingency](core_05c_continuity_definitions.md#constitutional-emergency-and-contingency)
+- [Constitutional Owner Layers](core_05i_integrative_definitions.md#constitutional-owner-layers)
 - [Contestability](core_05a_accountability_definitions.md#contestability)
 - [Contested-Sentient Life](core_05p_participation_definitions.md#contested-sentient-life-constitutional)
 - [Contingent Claim](core_05a_accountability_definitions.md#contingent-claim)

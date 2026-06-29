@@ -35,7 +35,7 @@
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [Chapter One](core_01_b_stewardship_capacity_principles.md#chapter-01-principles-and-constraints); [Chapters Two through Four](core_02-04_definition_mechanics.md) integrity and verification; [Chapter Six](core_06-06_rights_part_a.md#chapter-six-foundational-rights) Rights Floor; [Chapter Twelve](core_12-12_governance.md#chapter-twelve-constitutional-contract-legitimacy-authorization-and-stewardship) legitimacy and stewardship requirements.
-- Subsections: [§1](#1-non-regression-floor); [§2](#2-test-1-substantive-non-regression-validity); [§3](#3-anti-evasion-clause-and-constitutional-misconduct-referral); [§4](#4-scope-limit-and-layer-discipline).
+- Subsections: [§1](#1-non-regression-floor); [§2](#2-test-1-substantive-non-regression-validity); [§3](#3-anti-evasion-clause-and-constitutional-misconduct-referral); [§4](#4-layer-scope).
 - Downstream: [Chapter Fourteen](core_13-15_amendment.md#chapter-fourteen-expansion-supremacy-and-external-legal-orders) expansion and supremacy; [Chapter Fifteen](core_13-15_amendment.md#chapter-fifteen-amendment-ratification-and-procedural-validity) procedural validity, ratification, and amendment requirements; [Chapter Eight](core_08-08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) and [Chapter Ten](core_10-10_misconduct.md#chapter-ten-anti-constitutional-misconduct) for canonical classification where referral triggers route.
 - Read with: [archive/ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md](archive/ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md) non-operative walkthrough for **Chapters Eleven through Fourteen** on constitutional change and incorporation.
 
@@ -44,6 +44,8 @@
 <br>
 
 *In plain terms: you cannot amend the constitution backward — core protections for sentients, integrity rules, rights, and legitimacy floors have to hold, and clever relabeling or hiding a rollback in "guidance" or "temporary" measures does not make it valid.*
+
+This chapter is the constitutional owner of **substantive non-regression and substantive amendment validity** (Test 1), anti-evasion controls, and validity-protection measures. Layer discipline is stated in **[§4 Layer scope](#4-layer-scope)** and in [Constitutional Owner Layers](core_05i_integrative_definitions.md#constitutional-owner-layers).
 
 No constitutional change is valid if it violates the non-regression requirements of this chapter.
 
@@ -99,7 +101,7 @@ Invalidity includes indirect narrowing through definitions, standing gates, evid
 
 - Upstream: [§1](#1-non-regression-floor)–[§2](#2-test-1-substantive-non-regression-validity) substantive invalidity standards.
 - Downstream: Mandatory referral records route to [Chapter Eight](core_08-08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) (Axes I and II) and [Chapter Ten](core_10-10_misconduct.md#chapter-ten-anti-constitutional-misconduct) (final Violation Axis s = 7, 8, or 9 classification); this chapter does not classify.
-- Read with: [Chapter Thirteen §4](#4-scope-limit-and-layer-discipline) scope limit (triggers are not canonical slot-classification or sanction law).
+- Read with: [Chapter Thirteen §4](#4-layer-scope) layer scope (triggers are not canonical slot-classification or sanction law).
 
 </details>
 
@@ -111,31 +113,46 @@ Repackaging a regressive change as interpretation guidance, implementation memo,
 
 Where amendment or adoption conduct indicates serious misconduct, a mandatory referral record must be opened. **Serious misconduct** includes willful deceptive intent, knowing falsification or suppression, material rollback effect, and causally significant obstruction or degradation (read with [**Chapter Ten**, **section 2** (*Criteria set*)](core_10-10_misconduct.md#2-criteria-set-for-slot-assignment), **criteria 1** **through** **4** on **change** or **record** pathways). **Forcible** or **nullification** misconduct routes through **criteria 5** and **6** of the same section where material. That record must be transmitted to the canonical classification authorities; **this chapter does not itself classify**. **General contribution, violation, and standing** classification (Axes I and II) is owned by **Chapter Eight** (*Contribution, Violation, and Standing Model*) in [core_08-08_standing_assessment.md](core_08-08_standing_assessment.md) and [core_09-09_standing_integration.md](core_09-09_standing_integration.md). **Final Violation Axis s = 7, s = 8, and s = 9** classification for **anti-constitutional misconduct** — including criteria, due-process safeguards, and cross-chapter discipline — is owned **only** by **Chapter Ten** (*Anti-Constitutional Misconduct*) in [core_10-10_misconduct.md](core_10-10_misconduct.md#chapter-ten-anti-constitutional-misconduct), as allocated under **Chapter Eight** [section 4.0](core_08-08_standing_assessment.md#31-slot-grammar-and-display-labels) and [section 10](core_09-09_standing_integration.md#10-violation-axis-s-7-9-anti-constitutional-misconduct-authoritative-location) (*Violation Axis s = 7–9 anti-constitutional misconduct — authoritative location*). This chapter issues **referral and review triggers only**; it does not attach, narrow, or expand canonical labels.
 
-### 4. Scope Limit and Layer Discipline
+<a id="4-scope-limit-and-layer-discipline"></a>
+<a id="4-layer-scope"></a>
+
+### 4. Layer scope
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [§3](#3-anti-evasion-clause-and-constitutional-misconduct-referral) referral-only discipline; [Chapter Eight](core_08-08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) and [Chapter Ten](core_10-10_misconduct.md#chapter-ten-anti-constitutional-misconduct) canonical owners.
-- Downstream: [Chapter Fifteen §12](core_13-15_amendment.md#12-scope-limit-and-layer-discipline) mirrored procedural-layer discipline; implementation text for review execution mechanics.
-- Read with: [archive/ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md](archive/ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md) on change-path and incorporation; [Chapter Fifteen](core_13-15_amendment.md#chapter-fifteen-amendment-ratification-and-procedural-validity) for validity tests that do not duplicate slot-classification taxonomy.
+- Downstream: [Chapter Fifteen §12](#12-layer-scope) mirrored procedural-layer discipline; implementation text for review execution mechanics.
+- Read with: [Constitutional Owner Layers](core_05i_integrative_definitions.md#constitutional-owner-layers); [archive/ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md](archive/ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md) on change-path and incorporation; [Chapter Fifteen](core_13-15_amendment.md#chapter-fifteen-amendment-ratification-and-procedural-validity) for validity tests that do not duplicate slot-classification taxonomy.
 
 </details>
 
 <br>
 
-*In plain terms: Chapter Thirteen can demand extra review, preserve evidence, or pause things when validity is in doubt — but it does not run parallel classification forums or invent new offense categories; anything that sounds like final accountability disposition or final Violation Axis slot assignment still belongs to Chapters Six, Seven, and Eight.*
+*In plain terms: Chapter Thirteen can demand extra review, preserve evidence, or pause things when validity is in doubt — but it does not run parallel classification or invent new offense categories; final standing classification belongs to Chapters Eight and Nine, and final Violation Axis **s** = 7, 8, or 9 assignment belongs to Chapter Ten.*
 
 This chapter may impose immediate validity-protection controls. Those controls include heightened review, provisional suspension where materially necessary, [Evidence Preservation](core_05o_oversight_definitions.md#evidence-preservation), and remediation publication.
 
-This chapter does not establish final constitutional offense labels, final offense classification, or a sanction taxonomy. It does not establish a **second canonical** compliance / violation / standing taxonomy parallel to **Chapter Eight**.
+Under [Constitutional Owner Layers](core_05i_integrative_definitions.md#constitutional-owner-layers), this chapter must not absorb, restate, or relocate obligations owned by another constitutional owner layer — including final offense classification, sanction taxonomy, standing classification, adjudicative workflow, or procedural amendment validity owned by Chapters Eight, Ten, Eleven, and Fifteen respectively. Slot-flavored or classification-flavored language in this chapter or in **Chapter Fifteen** operates only as a **trigger or referral heuristic** for routing to canonical owners and is **non-canonical** for final offense classification.
 
-Where slot-flavored or classification-flavored language appears in this chapter or in **Chapter Fifteen**, it operates only as a **trigger or referral heuristic** for routing matters to the canonical owners. For final offense classification, that language is **non-canonical**.
+Cross-layer drift that imports adjudicative workflow, sanction mechanics, or classification substance from another owner layer into **Chapter Thirteen** or **Chapter Fifteen** — whether as direct text, as reader-guidance prose elevated to operative effect, or as inference from review-trigger language — is **non-compliant** under this section.
 
-Detailed institutional procedure, staffing mechanics, forum-operational workflow, and cross-implementation joint structural integration for review execution belong to the owner layers (**Sentient Constitution Chapters Six through Fourteen** and designated implementation text where applicable). Those owner layers must not be read as relocating constitutional validity standards out of **Chapters Eleven and Thirteen**, Axes I / II classification authority out of **Chapter Eight**, or final **Violation Axis s = 7, 8, or 9** classification authority out of **Chapter Ten** in [core_10-10_misconduct.md](core_10-10_misconduct.md#chapter-ten-anti-constitutional-misconduct).
+Future additions that touch offense-flavored, sanction-flavored, or classification-flavored language must include an explicit non-relocation pointer to the canonical owner home in [Constitutional Owner Layers](core_05i_integrative_definitions.md#constitutional-owner-layers).
 
-Cross-layer drift that imports adjudicative workflow or sanction mechanics from **Chapter Eight**, **Chapter Nine**, or **Chapter Ten** into **Chapter Thirteen** or **Chapter Fifteen** — whether as direct text, as reader-guidance prose treated as operative effect, or as inference from review-trigger language — is non-compliant under this section.
+<details>
+<summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): Chapter Thirteen layer routing index</span></strong></summary>
 
-For a non-operative reading walkthrough of **Chapters Eleven through Fourteen** on constitutional change and incorporation, see [archive/ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md](archive/ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md).
+> The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this chapter or in other chapters.
+>
+> Canonical owner routing lives in [Constitutional Owner Layers](core_05i_integrative_definitions.md#constitutional-owner-layers). For editorial orientation, obligations outside the substantive change-validity owner layer include:
+> - **general contribution / violation / standing classification** (Axes I / II) — **Chapter Eight** in [core_08-08_standing_assessment.md](core_08-08_standing_assessment.md) and [core_09-09_standing_integration.md](core_09-09_standing_integration.md);
+> - **final Violation Axis s = 7, 8, or 9** classification for **anti-constitutional misconduct** — **Chapter Ten** in [core_10-10_misconduct.md](core_10-10_misconduct.md#chapter-ten-anti-constitutional-misconduct);
+> - **forum-operational workflow and adjudicative procedure** — **Chapter Eleven** and [corpus_forum.md](corpus_forum.md);
+> - **procedural and custody validity** for amendment, ratification, and adoption — **Chapter Fifteen** in this file; and
+> - **detailed institutional procedure, staffing mechanics, and cross-implementation joint structural integration** for review execution — designated implementation text and owner chapters named in [Constitutional Owner Layers](core_05i_integrative_definitions.md#constitutional-owner-layers).
+>
+> Owner layers must not be read as relocating constitutional validity standards out of **Chapters Thirteen and Fifteen**, Axes I / II classification authority out of **Chapter Eight**, or final **Violation Axis s = 7, 8, or 9** classification authority out of **Chapter Ten**. For a non-operative architecture walkthrough, see [archive/ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md](archive/ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md).
+
+</details>
 
 ---
 
@@ -341,7 +358,7 @@ Constitutional interpretation, appeal, and review pathways under **Article XXIII
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [Chapter Thirteen](core_13-15_amendment.md#chapter-thirteen-non-regression-and-substantive-amendment-validity) Test 1 and non-regression; [Chapter Fourteen](core_13-15_amendment.md#chapter-fourteen-expansion-supremacy-and-external-legal-orders) supremacy and external-order interface; [Chapter Twelve](core_12-12_governance.md#chapter-twelve-constitutional-contract-legitimacy-authorization-and-stewardship) legitimacy context for collective change.
-- Subsections: [§§ 1–12](#1-heightened-review-for-rights-affecting-changes) procedural and custody validity suite (Tests 2–4, ratification, procedure requirements, and scope limit).
+- Subsections: [§§ 1–12](#1-heightened-review-for-rights-affecting-changes) procedural and custody validity suite (Tests 2–4, ratification, procedure requirements, and layer scope).
 - Downstream: Adoption instruments and edition custody tie to [Chapter Five *Corpus*](core_05i_integrative_definitions.md#corpus), [Corpus, Authority Stack, Supremacy, and Enforceability](core_05a_accountability_definitions.md#corpus-authority-stack-supremacy-and-enforceability-cluster) (*Chapter Five Chapter One §8.16 cluster*), and [doc_architecture.md](doc_architecture.md); invalidity remediation interfaces with owner implementation layers.
 - Read with: [Chapters Two through Four](core_02-04_definition_mechanics.md) publication, burden, and tracing requirements invoked in Tests 2 and 11.
 
@@ -350,6 +367,8 @@ Constitutional interpretation, appeal, and review pathways under **Article XXIII
 <br>
 
 *In plain terms: this chapter is the procedural and paperwork spine for legitimate change — publish clearly, prove custody of the real text, let independent reviewers and the public contest it, and do not let rights-affecting updates snap irreversibly into place before those guardrails have actually run.*
+
+This chapter is the constitutional owner of **procedural and custody validity** for amendment and adoption (Tests 2 through 4), review triggers, provisional effect, invalid-change handling, ratification instruments, and amendment procedure requirements. Layer discipline is stated in **[§12 Layer scope](#12-layer-scope)** and in [Constitutional Owner Layers](core_05i_integrative_definitions.md#constitutional-owner-layers).
 
 This Constitution may be amended to improve protection, clarity, binding effect, or institutional fitness under changing conditions, subject to **Chapter Thirteen** (non-regression), **Chapter Fourteen** (supremacy and external-order interface), and the validity conditions in this chapter.
 
@@ -457,7 +476,7 @@ A proposed amendment is invalid if it:
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [§1](#1-heightened-review-for-rights-affecting-changes)–[§6](#6-test-4-contestability-and-independent-review-validity) validity tests and contestability floor.
-- Downstream: [§12](#12-scope-limit-and-layer-discipline) reminder that trigger language routes to Chapters Six and Seven rather than creating new slot-classification law.
+- Downstream: [§12](#12-layer-scope) reminder that trigger language routes to canonical owners rather than creating new slot-classification law.
 - Read with: [Chapter Eight, section 4 — *Standing Effects*](core_09-09_standing_integration.md#5-standing-effects); [section 4.1 — Axis I (Contribution Axis) and standing effect](core_08-08_standing_assessment.md#33-primary-category-defaults-and-lequ-slot-baseline) (*classification foundations*).
 
 </details>
@@ -494,7 +513,7 @@ Rights-affecting amendments and authority-structure amendments do not take irrev
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [§3](#3-validity-floor-rule)–[§9](#8-provisional-effect-rule) validity and timing rules.
-- Downstream: Referral-style obligations in operative bullets route per [Chapter Thirteen §4](core_13-15_amendment.md#4-scope-limit-and-layer-discipline) scope limit.
+- Downstream: Referral-style obligations in operative bullets route per [Chapter Thirteen §4](#4-layer-scope) layer scope.
 - Read with: [Chapter Eleven](core_11-11_forum.md#chapter-eleven-forums-and-jurisdiction) forum-family and jurisdiction routing where invalidity determinations implicate forum role.
 
 </details>
@@ -583,7 +602,7 @@ Additional parties may **join** as adopters under rules published by existing ad
 
 - Upstream: [§4](#4-test-2-procedural-validity-and-publication-integrity) Test 2; [§11](#10-ratification-and-adoption) adoption instruments.
 - Subsections: [§12.1](#121-notice-and-contest); [§12.2](#122-recorded-effectiveness).
-- Downstream: [§12](#12-scope-limit-and-layer-discipline) procedural-only restatement.
+- Downstream: [§12](#12-layer-scope) procedural-layer discipline restatement.
 - Read with: [Article X-C: Adult consensual commercial sexual services and sexual exploitation](core_06-06_rights_part_b.md#article-x-c-adult-consensual-commercial-sexual-services-and-sexual-exploitation) where cited for materially high-impact change record (operative cross-reference governs scope).
 
 </details>
@@ -624,27 +643,42 @@ Amendments must be proposed with sufficient specificity and advance publication 
 
 Amendments take effect only on a stated effective date or event recorded in the adoption chain. Amendments that are undisclosed to affected stakeholders in material scope, or that bypass recorded procedure, do not satisfy constitutional amendment requirements for supremacy purposes.
 
-### 12. Scope Limit and Layer Discipline
+<a id="12-scope-limit-and-layer-discipline"></a>
+<a id="12-layer-scope"></a>
+
+### 12. Layer scope
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [Chapter Thirteen §4](core_13-15_amendment.md#4-scope-limit-and-layer-discipline) substantive-chapter mirror; [§8](#7-review-triggers) and [§10](#9-invalid-change-handling-and-remediation-continuity) trigger language scoped here.
+- Upstream: [Chapter Thirteen §4](#4-layer-scope) substantive-chapter mirror; [§8](#7-review-triggers) and [§10](#9-invalid-change-handling-and-remediation-continuity) trigger language scoped here.
 - Downstream: [Chapter Eight](core_08-08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) and [Chapter Ten](core_10-10_misconduct.md#chapter-ten-anti-constitutional-misconduct) remain sole canonical homes for listed taxonomies.
-- Read with: [core_06-06_rights_part_d.md](core_06-06_rights_part_d.md) Chapter Six boundary-watch zone for the converse Rights-Floor discipline pattern.
+- Read with: [Chapter Six — Layer scope](core_06-06_rights_part_d.md#chapter-six--layer-scope) and [Constitutional Owner Layers](core_05i_integrative_definitions.md#constitutional-owner-layers) for the converse Rights-Floor discipline pattern.
 
 </details>
 
 <br>
 
-*In plain terms: Chapter Fifteen owns how amendments are published, chained, reviewed, and ratified — not the full taxonomy of compliance violations or final Violation Axis s = 7, 8, or 9 anti-constitutional misconduct slots; escalation wording here is routing, not a second accountability-disposition code.*
+*In plain terms: Chapter Fifteen owns how amendments are published, chained, reviewed, and ratified — not the full taxonomy of compliance violations or final Violation Axis **s** = 7, 8, or 9 anti-constitutional misconduct slots; escalation wording here is routing, not a second accountability-disposition code.*
 
-This chapter states **procedural and custody** validity and invalid-change-handling requirements only (Tests 2 through 4, review triggers, provisional effect, invalid-change remediation, ratification and adoption instruments, and amendment procedure requirements). It does **not** establish, restate, or expand:
+This chapter is the constitutional owner of **procedural and custody** validity and invalid-change-handling requirements (Tests 2 through 4, review triggers, provisional effect, invalid-change remediation, ratification and adoption instruments, and amendment procedure requirements).
 
-- **general contribution / violation / standing classification** (Axes I / II), which remains owned by **Chapter Eight** (*Contribution, Violation, and Standing Model*) in [core_08-08_standing_assessment.md](core_08-08_standing_assessment.md) and [core_09-09_standing_integration.md](core_09-09_standing_integration.md);
-- **final Violation Axis s = 7, 8, or 9** classification for **anti-constitutional misconduct** (criteria, due-process safeguards, and cross-chapter discipline), which remains owned **only** by **Chapter Ten** (*Anti-Constitutional Misconduct*) in [core_10-10_misconduct.md](core_10-10_misconduct.md#chapter-ten-anti-constitutional-misconduct); or
-- **sanction taxonomy** or adjudicative workflow, which remains in the owner layers identified by **Chapter Thirteen, section 4** (*Scope Limit and Layer Discipline*).
+Under [Constitutional Owner Layers](core_05i_integrative_definitions.md#constitutional-owner-layers), this chapter must not absorb, restate, or relocate obligations owned by another constitutional owner layer. Any review-trigger, escalation-trigger, or referral-trigger language in this chapter — including mandatory escalation language in **section 7** (*Review Triggers*) and in **section 9** (*Invalid-Change Handling and Remediation Continuity*) — operates as a **trigger or referral heuristic** for routing to canonical owners and is **non-canonical** for final offense classification.
 
-Any review-trigger, escalation-trigger, or referral-trigger language in this chapter — including mandatory escalation language in **section 7** (*Review Triggers*) and in **section 9** (*Invalid-Change Handling and Remediation Continuity*) — operates as a **trigger or referral heuristic** for routing to the canonical owners named above and is **non-canonical** for final offense classification. Future additions to this chapter that touch offense-flavored or sanction-flavored language must include an explicit non-relocation pointer to the **Chapter Eight** general-classification home and the **Chapter Ten** final **Violation Axis s = 7, 8, or 9** classification home, preserving the layer boundary stated in **Chapter Thirteen, section 4**.
+Cross-layer drift that imports classification substance, sanction mechanics, or adjudicative workflow from another owner layer into **Chapter Fifteen** — whether as direct text, as reader-guidance prose elevated to operative effect, or as inference from review-trigger language — is **non-compliant** under this section.
+
+Future additions that touch offense-flavored or sanction-flavored language must include an explicit non-relocation pointer to the canonical owner home in [Constitutional Owner Layers](core_05i_integrative_definitions.md#constitutional-owner-layers).
+
+<details>
+<summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): Chapter Fifteen layer routing index</span></strong></summary>
+
+> The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this chapter or in other chapters.
+>
+> Canonical owner routing lives in [Constitutional Owner Layers](core_05i_integrative_definitions.md#constitutional-owner-layers). For editorial orientation, obligations outside the procedural change-validity owner layer include:
+> - **general contribution / violation / standing classification** (Axes I / II) — **Chapter Eight** in [core_08-08_standing_assessment.md](core_08-08_standing_assessment.md) and [core_09-09_standing_integration.md](core_09-09_standing_integration.md);
+> - **final Violation Axis s = 7, 8, or 9** classification for **anti-constitutional misconduct** — **Chapter Ten** in [core_10-10_misconduct.md](core_10-10_misconduct.md#chapter-ten-anti-constitutional-misconduct); and
+> - **sanction taxonomy** and adjudicative workflow — owner layers identified in [Chapter Thirteen §4 Layer scope](#4-layer-scope) and [Constitutional Owner Layers](core_05i_integrative_definitions.md#constitutional-owner-layers).
+
+</details>
 
 ---
 

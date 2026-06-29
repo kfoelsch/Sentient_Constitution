@@ -626,35 +626,41 @@ Transitional governance exists to secure continuity and non-regression. It must 
   - fund governance;
   - adversarial review.
 
-### Chapter Six — Scope Limit and Layer Discipline (Rights-Floor Boundary Watch)
+<a id="chapter-six--layer-scope"></a>
+
+### Chapter Six — Layer scope
+
+*In plain terms: Chapter Six states what sentients are entitled to at the Rights-Floor level. Classification, forums, governance, amendment procedure, and day-to-day implementation live in their own owner chapters; this chapter may point there but must not restate them.*
 
 This closing section is operative for **Chapter Six** as a whole and applies across **Parts A through D** (Articles **I** through **XXV**, including all sub-articles).
 
-This chapter states **Rights Floors and rights-level interpretive scope** for sentients (substrate-agnostic under *Sentience Non-Exclusion*). Rights-Floor language operates at the Rights-Floor layer; designated implementation layers operationalize these rights but must not narrow, redefine, or relocate them, as already stated at the opening of **Part A**. This section operates the converse-direction discipline: **Chapter Six** does not absorb process mechanics, governance details, or implementation obligations belonging to other owner layers.
+This chapter is the constitutional owner of **Rights Floors and rights-level interpretive scope** for sentients (substrate-agnostic under *Sentience Non-Exclusion*). Designated implementation layers operationalize these rights but must not narrow, redefine, or relocate them, as already stated at the opening of **Part A**.
 
-This chapter does **not** establish, restate, or expand:
+Under [Constitutional Owner Layers](core_05i_integrative_definitions.md#constitutional-owner-layers), this chapter must not absorb, restate, or relocate obligations owned by another constitutional owner layer. Pointer cross-references — including read-with directives, default-constraint-stack invocation, interpretive-hub anchors, and integration sentences such as "implementation belongs in" or "must not narrow" — are permitted and expected; **substantive restatement** of process, governance, or implementation mechanics into rights-layer text is **non-compliant**.
 
-- **general contribution / violation / standing classification** (Axes I / II), which remains owned by **Chapter Eight** (*Contribution, Violation, and Standing Model*) in [core_08-08_standing_assessment.md](core_08-08_standing_assessment.md) and [core_09-09_standing_integration.md](core_09-09_standing_integration.md);
-- **final Violation Axis s = 7, 8, or 9** classification for **anti-constitutional misconduct** (criteria, due-process safeguards, and cross-chapter discipline), which remains owned **only** by **Chapter Ten** (*Anti-Constitutional Misconduct*) in [core_10-10_misconduct.md](core_10-10_misconduct.md#chapter-ten-anti-constitutional-misconduct);
-- **forum structure, family, jurisdiction, or adjudicative workflow**, which remains owned by **Chapter Eleven** (*Adjudicative Bodies, Jurisdiction, and Constitutional Adjudication*) in [core_11-11_forum.md](core_11-11_forum.md), with implementation-layer detail in [corpus_forum.md](corpus_forum.md);
-- **governance legitimacy mechanics**, including stewardship-direction **rules**, ecosystem-value orientation, concentration-threshold enforcement procedure, and democratic-institution checks at the operating layer, which remain owned by **Chapter Twelve** (*Governance Legitimacy*) in [core_12-12_governance.md](core_12-12_governance.md);
-- **substantive non-regression validity standards**, which remain owned by **Chapter Thirteen** (*Non-Regression and Substantive Amendment Validity*) in [core_13-15_amendment.md](core_13-15_amendment.md);
-- **procedural and custody validity** for amendment, ratification, and adoption (Tests 2 through 4, review triggers, provisional effect, invalid-change handling, ratification and adoption instruments, amendment procedure requirements), which remain owned by **Chapter Fifteen** (*Amendment, Ratification, and Procedural Validity*) in [core_13-15_amendment.md](core_13-15_amendment.md);
-- **incorporation, custody chain, edition pinning, and adoption-framing mechanics**, which remain owned by **Chapter Sixteen** (*Incorporation and Operative Effect*) in [core_16-16_incorporation.md](core_16-16_incorporation.md);
-- **definition mechanics and verification mechanics** (definition structure, observability and traceability burden, verification accessibility), which remain owned by **Chapters Two through Four** in [core_02-04_definition_mechanics.md](core_02-04_definition_mechanics.md); and
-- **operational implementation, system-design, institutional, forum-operational, or joint structural detail**, which remains owned by the designated **Corpus** implementation text layers per the **Authority Stack and Internal Hierarchy** cluster in [Chapter Five](core_05i_integrative_definitions.md#authority-stack) and the quick authority order in [README.md](README.md).
+Cross-layer drift that imports obligations from another owner layer into **Chapter Six** — whether as direct text, as reader-guidance prose elevated to operative effect, or as inference from cross-references — is **non-compliant** under this section. Conversely, any owner-layer chapter or implementation text that purports to **narrow, redefine, or relocate** a Chapter Six Rights Floor is non-compliant under **Chapter Thirteen** non-regression and under the opening contract of **Part A**.
 
-Pointer-only cross-references from **Chapter Six** into the canonical owner layers above — including read-with directives, default-constraint-stack invocation, interpretive-hub anchors, and integration sentences such as "implementation belongs in" or "must not narrow" — are permitted and expected; **substantive restatement** of process / governance / implementation mechanics into rights-layer text is **non-compliant** under this section.
+Future additions to **Chapter Six** that touch process-flavored, governance-flavored, or implementation-flavored language must include an explicit non-relocation pointer to the canonical owner home in [Constitutional Owner Layers](core_05i_integrative_definitions.md#constitutional-owner-layers) (and, where applicable, to the corresponding Chapter Five definition entry).
 
-Reader-guidance, reading-map, and orientation prose in this chapter (including the **Part A** opening default-constraint stack, planet-first reading-order explanation, interpretive-hub anchors, and reader map; the **Part D** justice-and-evolution opening framing; and any forward / backward navigation pointers across **Parts A through D**) is **non-operative for relocation**: it does not create, narrow, or relocate Rights Floors and does not import process / governance / implementation mechanics from other owner layers into **Chapter Six**.
+<details>
+<summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): Chapter Six layer routing index</span></strong></summary>
 
-Future additions to **Chapter Six** that touch process-flavored, governance-flavored, or implementation-flavored language **must include an explicit non-relocation pointer** to the canonical owner home named above (and, where applicable, to the corresponding Chapter Five definition entry as the constitutional-layer integration point) so the rights-layer floor stays at the rights-layer floor and the process / governance / implementation home retains canonical authority.
+> The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this chapter or in other chapters.
+>
+> Canonical owner routing lives in [Constitutional Owner Layers](core_05i_integrative_definitions.md#constitutional-owner-layers). For editorial orientation, obligations outside the Rights-Floor owner layer include:
+> - **general contribution / violation / standing classification** (Axes I / II) — **Chapter Eight** (*Contribution, Violation, and Standing Model*) in [core_08-08_standing_assessment.md](core_08-08_standing_assessment.md) and [core_09-09_standing_integration.md](core_09-09_standing_integration.md);
+> - **final Violation Axis s = 7, 8, or 9** classification for **anti-constitutional misconduct** — **Chapter Ten** (*Anti-Constitutional Misconduct*) in [core_10-10_misconduct.md](core_10-10_misconduct.md#chapter-ten-anti-constitutional-misconduct);
+> - **forum structure, family, jurisdiction, or adjudicative workflow** — **Chapter Eleven** in [core_11-11_forum.md](core_11-11_forum.md), with implementation detail in [corpus_forum.md](corpus_forum.md);
+> - **governance legitimacy mechanics** — **Chapter Twelve** (*Governance Legitimacy*) in [core_12-12_governance.md](core_12-12_governance.md);
+> - **substantive non-regression validity standards** — **Chapter Thirteen** in [core_13-15_amendment.md](core_13-15_amendment.md);
+> - **procedural and custody validity** for amendment, ratification, and adoption — **Chapter Fifteen** in [core_13-15_amendment.md](core_13-15_amendment.md);
+> - **incorporation, custody chain, edition pinning, and adoption-framing mechanics** — **Chapter Sixteen** in [core_16-16_incorporation.md](core_16-16_incorporation.md);
+> - **definition mechanics and verification mechanics** — **Chapters Two through Four** in [core_02-04_definition_mechanics.md](core_02-04_definition_mechanics.md); and
+> - **operational implementation detail** — designated **Corpus** implementation text per [Constitutional Owner Layers](core_05i_integrative_definitions.md#constitutional-owner-layers) and [README.md](README.md).
+>
+> Reader-guidance, reading-map, and orientation prose in this chapter is **non-operative for relocation**: it does not create, narrow, or relocate Rights Floors. For a non-operative architecture walkthrough, see [archive/ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md](archive/ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md); routing indexes: [doc_architecture.md](doc_architecture.md) **section 5**; edition metadata: [README.md](README.md).
 
-Cross-layer drift that imports process mechanics, governance details, or implementation obligations from **Chapters Two through Four**, **Chapter Eight**, **Chapter Ten**, **Chapter Eleven**, **Chapter Twelve**, **Chapter Thirteen**, **Chapter Sixteen**, or any implementation text file into **Chapter Six** — whether as direct text, as reader-guidance prose elevated to operative **effect**, or as inference from cross-references — is **non-compliant** under this section.
-
-Conversely, any owner-layer chapter or implementation text file that purports to **narrow, redefine, or relocate** a Chapter Six Rights Floor through process-mechanics framing, governance-procedure framing, implementation-detail framing, or reader-guidance elevation is non-compliant under **Chapter Thirteen** non-regression and under the opening contract of **Part A** (Rights-Floor inviolability against operationalization-driven narrowing).
-
-For a non-operative reading walkthrough of **Chapter Six** rights-layer architecture, see [archive/ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md](archive/ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md). Routing indexes: [doc_architecture.md](doc_architecture.md) **section 5**; edition metadata: [README.md](README.md).
+</details>
 
 ---
 
