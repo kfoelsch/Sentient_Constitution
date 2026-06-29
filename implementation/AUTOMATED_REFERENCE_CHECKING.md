@@ -6,7 +6,7 @@ Single catalog for corpus integrity audits. Rule IDs map to [tools/architecture/
 
 | Make target | Tool | Rule ID(s) | Notes |
 |-------------|------|------------|-------|
-| `reference-audit` | `tools/reference_audit.py` | REF-ARTICLES | Chapter Ten article map from part-file headings |
+| `reference-audit` | `tools/reference_audit.py` | REF-ARTICLES | Chapter Six article map from part-file headings |
 | `doc-architecture-section-audit` | `tools/architecture/doc_architecture_section_audit.py` | — | No letter-suffixed `##` sections in doc_architecture |
 | `primitive-retirement-audit` | `tools/primitive_retirement_audit.py` | — | Retired primitive label grammar |
 | `section-abbreviation-descriptor-audit` | `tools/section_abbreviation_descriptor_audit.py` | — | `--changed-only` in regression |
@@ -26,7 +26,7 @@ Single catalog for corpus integrity audits. Rule IDs map to [tools/architecture/
 | `ch5-dec-widget-audit` | `tools/ch5_dec_widget_audit.py` | NAV-DEC-12 | Widget row shape |
 | `ch5-cluster-order-audit` | `tools/ch5_cluster_order_audit.py` | CH5-ORDER-01 | Compound heading order |
 | `ch1-dec-order-audit` | `tools/ch1_dec_order_audit.py` | NAV-DEC-CH1-ORDER | Config: `ch1_dec_order.json` |
-| `ch9-trace-audit` | `tools/ch9_trace_audit.py` | NAV-TRACE-08–10 | Chapter Ten subarticle traces |
+| `ch9-trace-audit` | `tools/ch9_trace_audit.py` | NAV-TRACE-08–10 | Chapter Six subarticle traces |
 | `prose-continuity-audit` | `tools/prose_continuity_audit.py` | — | Stray indent / orphan lines |
 | `lexical-vocabulary-audit` | `tools/lexical_vocabulary_audit.py` | LEX-GUARDRAILS | Config: `lexical_guardrails.json` |
 | `cjs-operational-cluster-audit` | `tools/cjs_operational_cluster_audit.py` | — | CJS-5 placement |
@@ -37,7 +37,7 @@ Single catalog for corpus integrity audits. Rule IDs map to [tools/architecture/
 | Make target | Tool | Rule ID(s) | Promotion path |
 |-------------|------|------------|----------------|
 | `plain-language-audit` | `tools/plain_language_audit.py` | PLAIN-JARGON | Phrase rules from `lexical_guardrails.json` |
-| `subarticle-gloss-audit` | `tools/subarticle_gloss_audit.py` | GLOSS-SUBARTICLE | Chapter Ten `*In plain terms:*` on `#### Article` |
+| `subarticle-gloss-audit` | `tools/subarticle_gloss_audit.py` | GLOSS-SUBARTICLE | Chapter Six `*In plain terms:*` on `#### Article` |
 | `readability-audit` | `tools/readability_audit.py` | — | `make regression-full`; optional `--with-subarticle-gloss` |
 | `owner-discipline-audit` | `tools/owner_discipline_audit.py` | OWNER-SINGLE-HOME | Heuristic O/E/C outside Ch5; use `--strict` to block |
 | `ch5-cross-file-link-audit` | `tools/ch5_cross_file_link_audit.py` | — | Promote when clean |

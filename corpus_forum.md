@@ -4,7 +4,7 @@
 
 **Compatibility entrypoint:** this root file is the stable navigation wrapper for the forum implementation file. Substantive CF text now lives in the `corpus_forum/` subfiles listed below. Broad references to `corpus_forum.md` continue to mean the forum implementation file as a whole.
 
-**Authority note:** the linked subfiles are binding incorporated implementation text where `corpus_forum.md` is incorporated under Sentient Constitution Chapter Fifteen. The wrapper is an index and does not restate or narrow the subfile text.
+**Authority note:** the linked subfiles are binding incorporated implementation text where `corpus_forum.md` is incorporated under Sentient Constitution Chapter Sixteen. The wrapper is an index and does not restate or narrow the subfile text.
 
 ## Forum Index
 

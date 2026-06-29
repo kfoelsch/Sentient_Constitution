@@ -2,7 +2,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.2](cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
+- Upstream: [CJS-1.2](cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
 - Downstream: [CJS-3.1 When joint obligations apply](#cjs-31-when-joint-obligations-apply); [CJS-3.2 No false partial compliance across implementation files](#cjs-32-no-false-partial-compliance-across-implementation-files); [CJS-3.3 Boundary Between Support Roles and Merits Decisions](#cjs-33-boundary-between-support-roles-and-merits-decisions); [CJS-3.4 Institution-hosted or forum-adjacent operations](#cjs-34-institution-hosted-or-forum-adjacent-operations); [CJS-3.5 Classification alignment for supervised scope](#cjs-35-classification-alignment-for-supervised-scope); [CJS-3.6 Implementation-label traceability and stricter-wins discipline](#cjs-36-implementation-label-traceability-and-stricter-wins-discipline) and related local subsections.
 - Read with: **CJS-3**; [CJS-2.1](cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids); **CJS-4.1**; **CJS-4.5**; **CJS-3.1**; [CJS-1.2](cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract.
 
@@ -51,7 +51,7 @@ The implementation corpus is split across **CJS**, **CS**, **CI**, and **CF**. A
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.2](cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
+- Upstream: [CJS-1.2](cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
 - Downstream: this section's local operational requirements for **CJS-3.1 When joint obligations apply**.
 - Read with: **CJS-3.1**; [CJS-2.1](cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids).
 
@@ -74,7 +74,7 @@ Joint obligations apply when **CJS-2.1** (*Topic router (stable IDs)*) says that
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.2](cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
+- Upstream: [CJS-1.2](cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
 - Downstream: this section's local operational requirements for **CJS-3.2 No false partial compliance across implementation files**.
 - Read with: **CJS-3.2**; [CJS-2.1](cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids).
 
@@ -101,7 +101,7 @@ Emergency or temporary narrowing is allowed only when it is published, clearly b
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.2](cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
+- Upstream: [CJS-1.2](cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
 - Downstream: this section's local operational requirements for **CJS-3.3 Boundary Between Support Roles and Merits Decisions**.
 - Read with: **CJS-3.3**; **CJS-5.13** (*Accountability: procedural integrity and adjudication terms*); [Merits Determination](../core_05a_accountability_definitions.md#merits-determination).
 
@@ -120,9 +120,9 @@ Emergency or temporary narrowing is allowed only when it is published, clearly b
 
 <br>
 
-Roles that monitor, review pathway performance, provide forensic help, or support investigations must not make binding merits determinations within the meaning of [Merits Determination](../core_05a_accountability_definitions.md#merits-determination) under [Chapter Nine](../core_09-09_forum.md#chapter-nine-forums-and-jurisdiction) and **Adjudication and Dispute Resolution**. The only exception is when a separate lawful instrument clearly gives a named role limited authority to decide merits issues.
+Roles that monitor, review pathway performance, provide forensic help, or support investigations must not make binding merits determinations within the meaning of [Merits Determination](../core_05a_accountability_definitions.md#merits-determination) under [Chapter Eleven](../core_11-11_forum.md#chapter-eleven-forums-and-jurisdiction) and **Adjudication and Dispute Resolution**. The only exception is when a separate lawful instrument clearly gives a named role limited authority to decide merits issues.
 
-Institutions must publish what each role is allowed to do and what it is not allowed to decide. They must also state who the role reports to, how often it reports, and how it connects to assurance lanes. Oversight and support roles must not quietly take over merits decision-making assigned to a lawfully constituted forum family under **Chapter Nine**.
+Institutions must publish what each role is allowed to do and what it is not allowed to decide. They must also state who the role reports to, how often it reports, and how it connects to assurance lanes. Oversight and support roles must not quietly take over merits decision-making assigned to a lawfully constituted forum family under **Chapter Eleven**.
 
 See **CI-7.3** (*Contest-integrity monitoring (Class A and Class B)*), **CF-8** (*Forum forensic and analytical support*), **CF-9** (*Independent investigative service and prosecution interface*), and **CJS-5.13** (*Accountability: procedural integrity and adjudication terms*).
 
@@ -130,7 +130,7 @@ See **CI-7.3** (*Contest-integrity monitoring (Class A and Class B)*), **CF-8** 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.2](cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
+- Upstream: [CJS-1.2](cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
 - Downstream: this section's local operational requirements for **CJS-3.4 Institution-hosted or forum-adjacent operations**.
 - Read with: **CJS-3.4**.
 
@@ -154,7 +154,7 @@ That includes budget, staffing, records, security, procurement, clerking, digita
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.2](cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
+- Upstream: [CJS-1.2](cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
 - Downstream: this section's local operational requirements for **CJS-3.5 Classification alignment for supervised scope**.
 - Read with: **CJS-3.5**.
 
@@ -183,7 +183,7 @@ Do not give a system one risk or classification label in institutional supervisi
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.2](cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
+- Upstream: [CJS-1.2](cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
 - Downstream: this section's local operational requirements for **CJS-3.6 Implementation-label traceability and stricter-wins discipline**.
 - Read with: **CJS-3.6**; [CJS-2.1](cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids); **CJS-1.2**.
 
@@ -193,9 +193,9 @@ Do not give a system one risk or classification label in institutional supervisi
 
 When **CS**, **CI**, or **CF** cite **CJS-5** (*Implementation and cross-implementation operational cluster library*) operational clusters, adopters must keep those references traceable and must not use implementation text to weaken them.
 
-If two implementation files set different standards for the same meaningful risk, the stricter clearly adopted rule controls, following **Chapter Fifteen** and the classification/material-impact rules at the start of `corpus_systems.md`.
+If two implementation files set different standards for the same meaningful risk, the stricter clearly adopted rule controls, following **Chapter Sixteen** and the classification/material-impact rules at the start of `corpus_systems.md`.
 
-If a cited profile and a cited implementation label seem to conflict, apply the Sentient Constitution **Chapter Fifteen** conflict order and the same stricter-wins discipline stated above.
+If a cited profile and a cited implementation label seem to conflict, apply the Sentient Constitution **Chapter Sixteen** conflict order and the same stricter-wins discipline stated above.
 
 ---
 

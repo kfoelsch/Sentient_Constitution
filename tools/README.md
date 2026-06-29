@@ -10,7 +10,7 @@ Put a **blank line before** `---` when you mean a horizontal rule between sectio
 
 | Target | Command |
 |--------|---------|
-| Article reference integrity (Chapter Ten part files) | `make reference-audit` |
+| Article reference integrity (Chapter Six part files) | `make reference-audit` |
 | Regression scenario matrix checks | `make scenario-audit` |
 | Blocking regression bundle | `make regression` |
 | Markdown / prose / definitions gravity | `make corpus-markdown-audit`, `make prose-continuity-audit`, `make ch5-definitions-gravity-audit`, `make ch5-trace-crosslink-audit` |
@@ -28,7 +28,7 @@ Put a **blank line before** `---` when you mean a horizontal rule between sectio
 | Regression bundle plus readability gate | `make regression-full` |
 | Institutional benchmark review | `make best-practices-check` |
 
-`reference_audit.py` builds the **canonical Chapter Ten map** from merged `### Article …:` headings in `core_10-10_rights_part_*.md` (falling back across part files as needed). If a citation fails the audit, fix the citing file or the heading—not the audit script.
+`reference_audit.py` builds the **canonical Chapter Six map** from merged `### Article …:` headings in `core_06-06_rights_part_*.md` (falling back across part files as needed). If a citation fails the audit, fix the citing file or the heading—not the audit script.
 
 `ch5_trace_crosslink_audit.py` enforces the Chapter Five navigation-metadata rule: `Read with:` lines belong inside each entry's local `Trace` / `<details>` block, not in operative prose after the block closes. It does not ban selective same-file cross-definition links in O / E / C body text.
 
@@ -38,7 +38,7 @@ Put a **blank line before** `---` when you mean a horizontal rule between sectio
 
 `ch5_single_definition_audit.py` enforces the Chapter Five directory cleanup rule: one visible definition label, one directory row, no placeholder-only definition shells, and no repeated `Cluster members.` owner roster membership. Anchor fragments remain navigation targets only.
 
-`ch9_trace_audit.py` enforces the Chapter Ten trace-placement rule: each `#### Article …` subarticle in the rights split files must carry its own local `Trace` / `<details>` block, and each block must include both `Principles:` and linked `Definitions:` metadata.
+`ch9_trace_audit.py` enforces the Chapter Six trace-placement rule: each `#### Article …` subarticle in the rights split files must carry its own local `Trace` / `<details>` block, and each block must include both `Principles:` and linked `Definitions:` metadata.
 
 `ch5_cluster_order_audit.py` guards selected Chapter Five compound §2 topic groups and §3 dependent clusters whose visible heading order is intended to mirror the internal entry/member order. Expand its expected set whenever a new compound heading is intentionally made order-bearing.
 
@@ -52,6 +52,6 @@ Machine-checkable editorial rules: [tools/architecture/rule_registry.json](tools
 
 ## Retired migration scripts
 
-One-off structural rewrite and migration helpers (Chapter Five cluster inserts, Chapter Ten renumbering, corpus splits, D/E/C widget attachment, doc_architecture slim-down, etc.) were moved to [archive/tools_retired/](../archive/tools_retired/) on **2026-06-17**. **Do not run** them against the current tree unless you are deliberately replaying history from git; they can desync the corpus.
+One-off structural rewrite and migration helpers (Chapter Five cluster inserts, Chapter Six renumbering, corpus splits, D/E/C widget attachment, doc_architecture slim-down, etc.) were moved to [archive/tools_retired/](../archive/tools_retired/) on **2026-06-17**. **Do not run** them against the current tree unless you are deliberately replaying history from git; they can desync the corpus.
 
-For **current** article numbers and titles, use `make reference-audit` or read Chapter Ten in `core_10-10_rights_part_*.md`.
+For **current** article numbers and titles, use `make reference-audit` or read Chapter Six in `core_06-06_rights_part_*.md`.

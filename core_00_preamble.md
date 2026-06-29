@@ -25,7 +25,7 @@ No system may preserve legitimacy through avoidable suffering, persistent neglig
 
 <a id="the-model"></a><a id="constitutional-tetrad"></a>Those important systems are governed and run under four duties, called the [**Constitutional Tetrad**](#constitutional-tetrad). It lays out the general duties essential systems must meet. The strength of those duties depends on the <a id="material-stake"></a>[**material stake**](#material-stake): how much impact, dependence, and risk are involved. The higher the stake, the stronger the duties must be.
 
-- **participation** — people affected get a real voice, fair representation, a fair chance to challenge decisions, and access to roles that matter in proportion to what's at stake
+- **participation** — affected sentients get a real voice, fair representation, a fair chance to challenge decisions, and access to roles that matter in proportion to what's at stake
 - **oversight** — someone is watching, checking, verifying, and keeping records so problems can be found; independent reviewers can constrain bad choices
 - **accountability** — responsibility traces to the right actors; they must answer for their choices; those harmed get redress; bad outcomes trigger real correction
 - **timeliness** — problems get detected, challenged, resolved, and fixed within time limits that match what's at stake; delays that would effectively wipe out someone's rights, remedies, or chance of repair are not legitimate governance
@@ -81,12 +81,12 @@ That objective is interpreted through:
 - **Chapter One** — principles and constraints
 - **Chapters Two through Four** — definition structure, integrity, burden, tracing, and verification
 - **Chapter Five** in [core_05-05_definitions_a_independent.md](core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) — **Foundational Definitions** and related definitional obligations only; it does **not** state the Rights Floor
-- **Chapters Six through Eight** — the auditable standing pipeline: Chapter Six measures verified contribution and violation records on separate axes; Chapter Seven integrates standing effects without netting axes; Chapter Eight guards against anti-constitutional misconduct under the [Chapters Six–Nine compass](core_06-06_standing_assessment.md#chapters-six-nine-constitutional-compass)
-- **Chapter Nine** — forum families, jurisdiction, and cross-forum anti-self-judging (same compass)
-- **Chapter Ten** — Foundational Rights
-- **Chapter Eleven** — Constitutional Contract Layer, legitimacy, authorization, and stewardship
-- **Chapters Twelve through Fourteen** — non-regression, supremacy, external-order interaction, amendment, ratification, adoption, and procedural validity
-- **Chapter Fifteen** — incorporation bridge for adopted implementation text, custody, edition discipline, and no silent drift
+- **Chapters Eight through Ten** — the auditable standing pipeline: Chapter Eight measures verified contribution and violation records on separate axes; Chapter Nine integrates standing effects without netting axes; Chapter Ten guards against anti-constitutional misconduct under the [Chapters Eight–Eleven compass](core_08-08_standing_assessment.md#chapters-eight-eleven-constitutional-compass)
+- **Chapter Eleven** — forum families, jurisdiction, and cross-forum anti-self-judging (same compass)
+- **Chapter Six** — Foundational Rights
+- **Chapter Twelve** — Constitutional Contract Layer, legitimacy, authorization, and stewardship
+- **Chapters Thirteen through Fifteen** — non-regression, supremacy, external-order interaction, amendment, ratification, adoption, and procedural validity
+- **Chapter Sixteen** — incorporation bridge for adopted implementation text, custody, edition discipline, and no silent drift
 
 The chapters that follow apply this framework as one integrated instrument: principles, definitions, rights, forums, governance, amendment rules, and incorporated implementation layers must be read together to preserve the Constitution's protective purpose.
 

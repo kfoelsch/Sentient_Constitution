@@ -143,7 +143,7 @@ def parse_args() -> argparse.Namespace:
         "--with-subarticle-gloss",
         action="store_true",
         help=(
-            "After the readability scan, run the Chapter Nine sub-article plain-terms "
+            "After the readability scan, run the Chapter Eleven sub-article plain-terms "
             "gate (same logic as tools/subarticle_gloss_audit.py) and append results."
         ),
     )
@@ -534,7 +534,7 @@ def main() -> int:
     gloss_errors: list[str] = []
     if args.with_subarticle_gloss and args.top_candidates <= 0:
         gloss_errors = subarticle_gloss_errors(root)
-        gloss_lines = ["", "## Subarticle gloss audit (Chapter Ten, bundled)", ""]
+        gloss_lines = ["", "## Subarticle gloss audit (Chapter Six, bundled)", ""]
         if gloss_errors:
             gloss_lines.append("- Result: `FAIL`")
             gloss_lines.extend(f"  - {e}" for e in gloss_errors)

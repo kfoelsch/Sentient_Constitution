@@ -27,15 +27,16 @@ Filename renames require: reference audit, same-change link updates, dated evide
 
 ## 2. Corpus roles (single source of truth)
 
-**Numbering note:** When a passage says only “Chapter Eleven,” disambiguate by filename — see [README.md](README.md).
+**Numbering note:** When a passage says only “Chapter Twelve,” disambiguate by filename — see [README.md](README.md).
 
 | Layer | Primary home | Routing |
 |--------|--------------|---------|
 | Values, definition mechanics, definitions | Sentient Constitution `core_*` Ch 1–5 | [README.md](README.md) reading order |
-| Standing pipeline | Ch 6–8 | `core_06-06_standing_assessment.md` through `core_08-08_misconduct.md`; comprehension layer: [Chapters Six–Nine compass](core_06-06_standing_assessment.md#chapters-six-nine-constitutional-compass) |
-| Forums (constitutional) | Ch 9 | `core_09-09_forum.md` (same compass) |
-| Rights (Articles I–XXV) | Ch 10 | `core_10-10_rights_part_*.md`; titles via `make reference-audit` |
-| Governance / amendment / incorporation | Ch 11–15 | `core_11-11_governance.md`, `core_12-14_amendment.md`, `core_15-15_incorporation.md` |
+| Rights (Articles I–XXV) | Ch 6 | `core_06-06_rights_part_*.md`; titles via `make reference-audit` |
+| System alignment certification | Ch 7 | `core_07-07_system_alignment_certification.md` |
+| Standing pipeline | Ch 8–10 | `core_08-08_standing_assessment.md` through `core_10-10_misconduct.md`; comprehension layer: [Chapters Eight–Eleven compass](core_08-08_standing_assessment.md#chapters-eight-eleven-constitutional-compass) |
+| Forums (constitutional) | Ch 11 | `core_11-11_forum.md` (same compass) |
+| Governance / amendment / incorporation | Ch 12–16 | `core_12-12_governance.md`, `core_13-15_amendment.md`, `core_16-16_incorporation.md` |
 | Cross-implementation joint structure | CJS | [corpus_joint_structure.md](corpus_joint_structure.md) **CJS-2.1** (*Topic router*) |
 | Systems, institutions, forum operations | CS / CI / CF | Companion wrappers + subfiles |
 
@@ -51,7 +52,7 @@ Filename renames require: reference audit, same-change link updates, dated evide
 2. **Implementation files own** *how* (taxonomies, protocols, institutions, forums, joint interlocks).
 3. **No duplicate definitions** across layers — implementation files *apply* Chapter Five terms.
 4. **Stricter wins** where the corpus already says so; core values and rights prevail over conflicting operational wording.
-5. **Chapter Ten implements detail** for Articles I–XXV; do not invent parallel rights in implementation files.
+5. **Chapter Six implements detail** for Articles I–XXV; do not invent parallel rights in implementation files.
 
 ---
 
@@ -63,8 +64,8 @@ Machine-checkable rules: [tools/architecture/rule_registry.json](tools/architect
 
 - **Hard definitions:** Ch 2–4 (`core_02-04_definition_mechanics.md`); Chapter Five §1–§3 (single-home rule below).
 - **Values language:** Chapter 00 §1 — [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad), [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) (**Flourishing** / **Continuity**), and [material stake](core_00_preamble.md#material-stake) at principle layer; Chapter Five O/E/C for Tetrad legs ([Participation](core_05p_participation_definitions.md#participation-constitutional), [Oversight](core_05o_oversight_definitions.md#oversight-constitutional), [Accountability](core_05a_accountability_definitions.md#accountability), [Timeliness](core_05a_accountability_definitions.md#timeliness-constitutional)) and aims ([Flourishing](core_05p_participation_definitions.md#flourishing-constitutional), [Continuity (Constitutional Aim)](core_05c_continuity_definitions.md#continuity-aim-constitutional)); Chapter One develops those aims into operative principles; vocabulary anchor + cluster index at end of Chapter One, Part A (§§1–8). **Reading arc:** Part A (values, bounded agency, tradeoffs, override prohibition, interpretation) → Part B (§§9–13 stewardship through systemic evaluation) → **§14 Integrated Application** capstone in Part B. Use **Continuity aim** when linking to Chapter One §11; reserve bare *continuity* for operational uses elsewhere.
-- **Standing:** Ch 6–7 (**verified** inputs); Ch 9 forums for **allegations**, not standing-record classification inputs.
-- **Rights:** Chapter Ten; implementation files **cite** articles.
+- **Standing:** Ch 8–9 (**verified** inputs); Ch 11 forums for **allegations**, not standing-record classification inputs.
+- **Rights:** Chapter Six; implementation files **cite** articles.
 - **Joint operational terms:** `corpus_joint_structure.md` only — route via **CJS-2.1**.
 - **Operational taxonomies:** **CS-3**, **CS-4**, **CS-5** and named protocols.
 
@@ -93,7 +94,7 @@ Keep constitutional concept + O/E/C boundary only; cite owner homes for institut
 | CH5-ORDER-01 | Chapter Five editorial order | `make ch5-cluster-order-audit`, `make ch5-entry-format-audit`, `make ch5-constitutional-cluster-audit` |
 | CH5-SINGLE-DEF | One visible definition per term | `make ch5-single-definition-audit` |
 | LEX-GUARDRAILS | Vocabulary and capitalization | `make lexical-vocabulary-audit` |
-| GLOSS-SUBARTICLE | Chapter Ten `*In plain terms:*` on subarticles | `make subarticle-gloss-audit` |
+| GLOSS-SUBARTICLE | Chapter Six `*In plain terms:*` on subarticles | `make subarticle-gloss-audit` |
 | OWNER-SINGLE-HOME | Competing O/E/C gloss heuristics | `make owner-discipline-audit` |
 | REF-ARTICLES | Article titles and Roman numerals | `make reference-audit` |
 | ROUTER-CJS21 | Cross-implementation routing | `make router-bidirectional-audit` |
@@ -165,7 +166,7 @@ Chapter Five editorial order: `make ch5-entry-format-audit`, `make ch5-alphabeti
 Do not maintain hand-edited article or implementation maps here.
 
 - **Sentient Constitution chapters:** [README.md](README.md) inventory.
-- **Article titles / Roman numerals:** `make reference-audit` / Chapter Ten part files.
+- **Article titles / Roman numerals:** `make reference-audit` / Chapter Six part files.
 - **Cross-implementation routing:** [corpus_joint_structure.md](corpus_joint_structure.md) **CJS-2.1**; `make router-bidirectional-audit`.
 - **Generated stable-ID index:** [doc_architecture/generated/stable_id_index.md](doc_architecture/generated/stable_id_index.md) via `make architecture-index`.
 - **Topic router reader index (generated, human view):** [doc_architecture/generated/topic_router_reader_index.md](doc_architecture/generated/topic_router_reader_index.md) — plain-language grouped index derived from **CJS-2.1**; reading guidance in **CJS-0.1** ([cjs_00_registry_and_reading_rules.md](corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-cross-file-routing)). Authoritative mandatory read-with lists remain in the integrator table.
@@ -202,8 +203,8 @@ flowchart TB
 
 ## 7. Cross-reference convention
 
-- **Rights:** `Sentient Constitution Ch 10 Art III` or spelled-out article cite.
-- **Standing / forums:** Ch 6–7; Ch 9 for allegations.
+- **Rights:** `Sentient Constitution Ch 6 Art III` or spelled-out article cite.
+- **Standing / forums:** Ch 8–9; Ch 11 for allegations.
 - **CJS:** specific **CJS-5.*n*** heading; router **CJS-2.1**.
 - **CS / CI / CF:** named chapter or section label in the companion file.
 
@@ -211,7 +212,7 @@ flowchart TB
 
 ## 8. Dependency order for editing
 
-1. Ch 1 → Ch 2–4 → Ch 5 → Ch 6–7 → Ch 8 → Ch 9 → Ch 10 → Ch 11 → Ch 12–14 → Ch 15.
+1. Ch 1 → Ch 2–4 → Ch 5 → Ch 6 → Ch 7 → Ch 8 → Ch 9 → Ch 10 → Ch 11 → Ch 12 → Ch 13–15 → Ch 16.
 2. Then **CJS-4.3** / **CJS-5**, then **CS-3 → CS-4 → CS-5**, then **Protocol A → B → S4 → S5**.
 
 Redundancy sweeps: center-out from Chapter Five definitions (**section 13**).

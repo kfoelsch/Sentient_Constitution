@@ -30,7 +30,7 @@ audits. It enforces two invariants:
 
 2. **D/E/C widget row-shape and anchor resolution.** Across the consumer core
    files (``core_00_preamble.md`, `core_01_a_values_principles.md`, and `core_01_b_stewardship_capacity_principles.md``, ``core_02-04_definition_mechanics.md``,
-   the four Chapter Nine parts), every line inside a D/E/C widget that appears
+   the four Chapter Eleven parts), every line inside a D/E/C widget that appears
    to be a widget row must match the canonical shape:
 
        - [Name](core_05a_accountability_definitions.md#slug) · [O](...) · [E](...) · [C](...)
@@ -89,13 +89,13 @@ CONSUMERS = [
     "core_01_a_values_principles.md",
     "core_01_b_stewardship_capacity_principles.md",
     "core_02-04_definition_mechanics.md",
-    "core_06-06_standing_assessment.md",
-    "core_07-07_standing_integration.md",
-    "core_08-08_misconduct.md",
-    "core_10-10_rights_part_a.md",
-    "core_10-10_rights_part_b.md",
-    "core_10-10_rights_part_c.md",
-    "core_10-10_rights_part_d.md",
+    "core_08-08_standing_assessment.md",
+    "core_09-09_standing_integration.md",
+    "core_10-10_misconduct.md",
+    "core_06-06_rights_part_a.md",
+    "core_06-06_rights_part_b.md",
+    "core_06-06_rights_part_c.md",
+    "core_06-06_rights_part_d.md",
 ]
 
 # Headings that are cluster parents without direct O/E/C body. The audit does
@@ -228,7 +228,7 @@ def collect_all_ch5_anchors(root: Path) -> set[str]:
 
 
 def directory_slugs_from_part_a(root: Path) -> set[str]:
-    """Anchor fragments declared by the Chapter Five A-Z directory."""
+    """Anchor fragments declared by the Chapter Seven-Z directory."""
     path = root / CH5_PART_A
     if not path.exists():
         return set()

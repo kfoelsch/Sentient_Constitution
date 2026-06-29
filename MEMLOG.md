@@ -6,7 +6,7 @@ Session memory log for current project context, decisions, and next actions. Kee
 
 ## Current State
 
-**2026-06-18 — Chapter Five constitutional band reorganization:** Part B/C retired to [archive/core_ch5_retired/](archive/core_ch5_retired/README.md); five band files (`core_05{o,p,a,c,i}_*_definitions.md`) are operative homes; Part A holds compass + directory + §3.0 meta; §3 clusters renumbered **§3.2–§3.16** (hard cut). Edition **`SC-Corpus-2026.06.18`**. `make regression` and `make alignment-audit` pass; evidence in [evidence/2026-06-18/](evidence/2026-06-18/). Pre-closeout meta snapshot: [archive/TODO_SNAPSHOT_2026-06-18.md](archive/TODO_SNAPSHOT_2026-06-18.md), [archive/MEMLOG_SNAPSHOT_2026-06-18.md](archive/MEMLOG_SNAPSHOT_2026-06-18.md).
+**2026-06-18 — Chapter Five constitutional band reorganization:** Part B/C retired to [archive/core_ch5_retired/](archive/core_ch5_retired/README.md); five band files (`core_05{o,p,a,c,i}_*_definitions.md`) are operative homes; Part A holds compass + directory + §3.0 meta; §3 clusters renumbered **Chapter One §8.2–Chapter One §8.16** (hard cut). Edition **`SC-Corpus-2026.06.18`**. `make regression` and `make alignment-audit` pass; evidence in [evidence/2026-06-18/](evidence/2026-06-18/). Pre-closeout meta snapshot: [archive/TODO_SNAPSHOT_2026-06-18.md](archive/TODO_SNAPSHOT_2026-06-18.md), [archive/MEMLOG_SNAPSHOT_2026-06-18.md](archive/MEMLOG_SNAPSHOT_2026-06-18.md).
 
 **2026-06-17 — Non-corpus housecleaning:** Aggressive archive prune (keep canonical architecture anchors + root retirement snapshots only). Retired migration scripts moved to `archive/tools_retired/`; completed implementation plans to `archive/implementation_retired/`. No corpus doctrine changed.
 

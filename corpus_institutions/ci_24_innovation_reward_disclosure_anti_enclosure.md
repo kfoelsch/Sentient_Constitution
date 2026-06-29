@@ -2,7 +2,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions; and [Chapter Ten](../core_10-10_rights_part_a.md#chapter-ten-foundational-rights) rights architecture where rights interfaces are invoked.
+- Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions; and [Chapter Six](../core_06-06_rights_part_a.md#chapter-six-foundational-rights) rights architecture where rights interfaces are invoked.
 - Downstream: this section's local operational requirements for **CI-24: Innovation reward, disclosure, and anti-enclosure**.
 - Read with: **CI-24**; **CI-6**; **CI-12**; **CJS-5.17** (*interoperability, portability, and exit-integrity terms*); **CJS-5.12** (*burden-of-justification and constraint terms*).
 
@@ -39,7 +39,7 @@
 *Shared rules live elsewhere.*
 
 - **[CJS-5.17](../corpus_joint_structure.md)** (*interoperability, portability, and exit-integrity terms*) — innovation reward boundary and anti-enclosure controls; access-preserving reward and anti-warehousing controls; innovation-reward duration and reclassification controls (including publication-based timing and dependency-critical tightening).
-- **Chapter Five** (*Innovation Reward and Anti-Enclosure*) and **Article XVII-D** (*Innovation Reward, Disclosure, and Anti-Enclosure*) in **Chapter Ten** — constitutional reward structure, temporary exclusivity limits, disclosure condition, public-interest floor, domain carve-outs, and reclassification duties.
+- **Chapter Five** (*Innovation Reward and Anti-Enclosure*) and **Article XVII-D** (*Innovation Reward, Disclosure, and Anti-Enclosure*) in **Chapter Six** — constitutional reward structure, temporary exclusivity limits, disclosure condition, public-interest floor, domain carve-outs, and reclassification duties.
 - **[CJS-5.12](../corpus_joint_structure.md)** (*burden of justification and constraint terms*) — proportionality and burden scaling where reward claims affect material dependency or access burden.
 - **`corpus_systems.md`** **CS-4** — system classification and handling where innovation reward must scale with class, dependency, and coordination effects.
 - **CI-24 scope** — does not repeat those floors; states institutional registry, claim-record, access-order, sunset, specialist-review, and appeal duties.

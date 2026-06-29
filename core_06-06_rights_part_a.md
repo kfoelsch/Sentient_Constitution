@@ -5,17 +5,17 @@
 
 > The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this file or in other chapters.
 >
-> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one instrument. It contains **Chapter Ten, Part A**; article numbering and cross-references match the integrated instrument. Reading order, the binding/support split, and corpus edition metadata are maintained in [README.md](README.md).
+> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one instrument. It contains **Chapter Six, Part A**; article numbering and cross-references match the integrated instrument. Reading order, the binding/support split, and corpus edition metadata are maintained in [README.md](README.md).
 
 </details>
 
 <br>
 
 ---
-## CHAPTER TEN: FOUNDATIONAL RIGHTS
+## CHAPTER SIX: FOUNDATIONAL RIGHTS
 This chapter is the constitutional owner of Rights Floors and rights-level interpretive scope.
 
-Designated implementation layers operationalize these rights but must not narrow, redefine, or relocate them. The converse-direction discipline — **Chapter Ten** does not absorb process mechanics, governance details, or implementation obligations belonging to **Chapters Two through Four**, **Chapter Six**, **Chapter Eight**, **Chapter Nine**, **Chapter Eleven**, **Chapter Twelve**, **Chapter Fifteen**, **Chapter Fifteen**, or any implementation layer — is stated in the closing **Scope Limit and Layer Discipline (Rights-Floor Boundary Watch)** section at the end of **Part D** and applies across **Parts A through D**.
+Designated implementation layers operationalize these rights but must not narrow, redefine, or relocate them. The converse-direction discipline — **Chapter Six** does not absorb process mechanics, governance details, or implementation obligations belonging to **Chapters Two through Four**, **Chapter Eight**, **Chapter Ten**, **Chapter Eleven**, **Chapter Twelve**, **Chapter Thirteen**, **Chapter Sixteen**, **Chapter Sixteen**, or any implementation layer — is stated in the closing **Scope Limit and Layer Discipline (Rights-Floor Boundary Watch)** section at the end of **Part D** and applies across **Parts A through D**.
 
 **Default constraint stack.** Unless a provision in this chapter expressly states otherwise, rights in this chapter are subject to the following:
 - **Chapter One** — Safety, Truth, Necessity, Proportionality, systemic evaluation including local, aggregate, delayed, and cross-system effects, [Chapter One §6 Interaction and Conflict Resolution](#6-interaction-and-conflict-resolution), the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad), [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims), and [material stake](core_00_preamble.md#material-stake) scaling.
@@ -42,13 +42,13 @@ Articles need not repeat this stack where it applies generically.
 Shorter cross-references to those themes elsewhere in this chapter incorporate these anchors.
 
 <details>
-<summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): Chapter Ten map and architecture pointer</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): Chapter Six map and architecture pointer</span></strong></summary>
 
 > The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this chapter or in other chapters.
 >
 > For non-operative orientation and detailed rights-layer interpretation guidance, see [archive/ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md](archive/ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md) and [doc_architecture.md](doc_architecture.md) **section 5** (routing indexes).
 >
-> Chapter Ten reader map (organizational; non-substantive; matches **Part** headings below in **reading order**):
+> Chapter Six reader map (organizational; non-substantive; matches **Part** headings below in **reading order**):
 > - **Part A — Planetary preconditions, material stewardship, survival and educational access, shared resources:**
 >   - **Article I** — environmental survival
 >   - **Article II** — material stewardship and durable-use integrity, **II-A**–**II-E**
@@ -122,14 +122,14 @@ The Earth's biophysical and living-system conditions are preconditions for every
 - **Preconditions, integrity, and sustainability:** **Environmental Preconditions**, **Ecological Integrity**, and **Sustainability** in Chapter Five are operative under this Article.
   - Life-supporting natural systems hold continuity and integrity interests of their own. Those interests inform interpretation alongside sentient interests.
   - Material degradation that violates this Article or binding environmental constraints is non-compliant where applicable.
-- **Animal life interaction:** [Animal Life](core_05p_participation_definitions.md#animal-life-constitutional) occupies the welfare-protection domain between **Natural Systems Standing** and the Chapter Ten Rights Floor for sentients.
+- **Animal life interaction:** [Animal Life](core_05p_participation_definitions.md#animal-life-constitutional) occupies the welfare-protection domain between **Natural Systems Standing** and the Chapter Six Rights Floor for sentients.
   - It establishes minimum cruelty and welfare floors for animal life under **Sentience Non-Exclusion** where welfare-like harm is materially implicated.
   - It is not a substitute for sentience-status adjudication where the record materially implicates sentience.
 - **Contested-sentient life interaction:** [Contested-Sentient Life](core_05p_participation_definitions.md#contested-sentient-life-constitutional) applies under **Sentience Non-Exclusion** where sentience is uncertain, disputed, materially contested, or under adjudication.
   - It routes the question to the [Sentience Status Adjudication](core_05p_participation_definitions.md#sentience-status-adjudication-constitutional) procedure (owner article **Article V-E**).
-  - Under **Article V-E**, materially unsettled sentience status defaults to inclusion under the Chapter Ten Rights Floor unless the party seeking to withhold, narrow, or revoke protection satisfies the applicable burden.
+  - Under **Article V-E**, materially unsettled sentience status defaults to inclusion under the Chapter Six Rights Floor unless the party seeking to withhold, narrow, or revoke protection satisfies the applicable burden.
   
-  These references are definitional only. They do **not** narrow **Article I-A** protections; the Chapter Ten floor for entities determined sentient or default-included under **Article V-E** during adjudication; or the scope of **Natural Systems Standing**.
+  These references are definitional only. They do **not** narrow **Article I-A** protections; the Chapter Six floor for entities determined sentient or default-included under **Article V-E** during adjudication; or the scope of **Natural Systems Standing**.
 
 #### Article I-B: Ecological Footprint and Transparency
 <details>
@@ -453,7 +453,7 @@ Procedural detail for **Article II** lives in implementation text:
   
   Those rules may structure delivery. They must not be used to defeat minimum access to survival essentials or to impose invidious exclusion contrary to **Articles III** and **V**.
   - Detailed fiscal orientation — including the rule that fees and charges must not undermine minimum access to survival-relevant inputs — is governed by `corpus_institutions.md` **CI-9** (*Classification-linked institutional obligations*), **CI-10** (*Public revenue, fees, recurring charges, and billing integrity*), and **CI-11** (*Resource stewardship and incentive integrity*).
-  - This Article does not prescribe a single funding model. Employment, entrepreneurship, voluntary exchange, and other lawful economic activity above any survival floor remain permitted, subject to Chapter One, Chapter Ten, and incorporated instruments — including `corpus_systems.md` where market-structuring or high-impact commercial systems apply.
+  - This Article does not prescribe a single funding model. Employment, entrepreneurship, voluntary exchange, and other lawful economic activity above any survival floor remain permitted, subject to Chapter One, Chapter Six, and incorporated instruments — including `corpus_systems.md` where market-structuring or high-impact commercial systems apply.
 
 #### Article III-B: Equal Educational Access
 <details>
@@ -535,7 +535,7 @@ Procedural detail for **Article II** lives in implementation text:
   - affirmative access does not license compelled treatment.
   - Any compelled or involuntary intervention is governed by **Article VII-C** and the **Article VII-A** / **Article XXIII** framework.
 - **Limits and implementation routing:** Any limit on access must satisfy **Necessity**, **Proportionality**, **Protected Characteristics**, and **Substantive Fairness**.
-  - Operational mechanics — cost, distribution, workforce, and system design — route to institutional implementation text (**`corpus_institutions.md`** CI-9 (*Classification-linked institutional obligations*) / CI-10 (*Public revenue, fees, recurring charges, and billing integrity*) / CI-11 (*Resource stewardship and incentive integrity*)) and other incorporated implementation text under **Chapter Fifteen** discipline.
+  - Operational mechanics — cost, distribution, workforce, and system design — route to institutional implementation text (**`corpus_institutions.md`** CI-9 (*Classification-linked institutional obligations*) / CI-10 (*Public revenue, fees, recurring charges, and billing integrity*) / CI-11 (*Resource stewardship and incentive integrity*)) and other incorporated implementation text under **Chapter Sixteen** discipline.
   - That implementation text must not be read to narrow this floor.
 
 #### Article III-D: Labor and Economic Floor
@@ -602,7 +602,7 @@ Procedural detail for **Article II** lives in implementation text:
   - A productive-activity structure that satisfies this Article while concentrating power contrary to §6 is non-compliant under §6.
   - Labor-market monopsony, non-compete or no-poach agreements, wage-fixing, excessive non-solicitation or other mobility-restricting terms, platform lock-in, supplier dependency control, consolidation above a labor-demand or supplier-dependency ceiling, or gatekeeper practices that suppress fair bargaining or productive mobility are evaluated under §14.2 and §14.3 as well as this Article where materially relevant.
 - **Limits and implementation routing:** Any limit on **Fair Compensation**, **Collective Organization**, **Safe Conditions**, or **Leisure and Rest** must satisfy **Necessity**, **Proportionality**, **Protected Characteristics**, and **Substantive Fairness**.
-  - Operational mechanics — fiscal orientation, transfer and insurance design, standards-setting for Safe Conditions, and collective-organization institutional design — route to `corpus_institutions.md` CI-9 (*Classification-linked institutional obligations*) / CI-10 (*Public revenue, fees, recurring charges, and billing integrity*) / CI-11 (*Resource stewardship and incentive integrity*) and to `corpus_systems.md` Protocol A under **Chapter Fifteen** incorporation discipline.
+  - Operational mechanics — fiscal orientation, transfer and insurance design, standards-setting for Safe Conditions, and collective-organization institutional design — route to `corpus_institutions.md` CI-9 (*Classification-linked institutional obligations*) / CI-10 (*Public revenue, fees, recurring charges, and billing integrity*) / CI-11 (*Resource stewardship and incentive integrity*) and to `corpus_systems.md` Protocol A under **Chapter Sixteen** incorporation discipline.
   - Those implementation texts must not be read to narrow this floor.
 
 ### Article IV: Resource Allocation, Dependencies, and Ecosystem Funding
@@ -687,6 +687,6 @@ Those requirements protect shared infrastructure and the systems that depend on 
 
 ---
 
-**Previous file:** [core_06-09_application_vignettes.md](core_06-09_application_vignettes.md)
+**Previous file:** [core_08-11_application_vignettes.md](core_08-11_application_vignettes.md)
 
-**Next file:** [core_10-10_rights_part_b.md](core_10-10_rights_part_b.md)
+**Next file:** [core_06-06_rights_part_b.md](core_06-06_rights_part_b.md)

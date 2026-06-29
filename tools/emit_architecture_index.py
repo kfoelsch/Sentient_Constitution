@@ -177,9 +177,9 @@ def render_markdown(root: Path) -> str:
     lines.extend(
         [
             "",
-            "## Chapter Ten articles",
+            "## Chapter Six articles",
             "",
-            "Article titles and Roman numerals: `make reference-audit` / `core_10-10_rights_part_*.md`.",
+            "Article titles and Roman numerals: `make reference-audit` / `core_06-06_rights_part_*.md`.",
             "",
         ]
     )

@@ -12,12 +12,12 @@
 > - These labels track the same edition metadata as the numbered `core_*.md` files (see [README.md](../README.md)), [corpus_joint_structure.md](../corpus_joint_structure.md), [corpus_systems.md](../corpus_systems.md), and [corpus_institutions.md](../corpus_institutions.md).
 >
 > **Status**
-> - This is **not** a core constitutional file. It is binding incorporated implementation text where [Chapter Five](../core_05i_integrative_definitions.md#corpus) and [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) designate it.
+> - This is **not** a core constitutional file. It is binding incorporated implementation text where [Chapter Five](../core_05i_integrative_definitions.md#corpus) and [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) designate it.
 > - The CF folder is written in plain language with low jargon to improve accessibility, audit readability, and practical adoption testing.
 >
 > **Where this lives**
 > - **Navigation wrapper:** [corpus_forum.md](../corpus_forum.md) indexes the `corpus_forum/` subfiles.
-> - **Constitutional owner:** [core_09-09_forum.md](../core_09-09_forum.md) **Chapter Nine** owns forum-family routing and constitutional forum doctrine; this file operationalizes it and must not redefine it.
+> - **Constitutional owner:** [core_11-11_forum.md](../core_11-11_forum.md) **Chapter Eleven** owns forum-family routing and constitutional forum doctrine; this file operationalizes it and must not redefine it.
 > - **Shared contract:** [corpus_joint_structure.md](../corpus_joint_structure.md) **CJS-1.2** (*Shared implementation-corpus preamble contract*).
 >
 > **Implementation layer map**
@@ -29,17 +29,17 @@
 > - **CI** — [corpus_institutions.md](../corpus_institutions.md)
 > - **CF** — this folder (`corpus_forum/`)
 >
-> **CF** does not create new forum families beyond those authorized in **Chapter Nine**. It does not redefine constitutional terms, Rights Floors, or offense taxonomy.
+> **CF** does not create new forum families beyond those authorized in **Chapter Eleven**. It does not redefine constitutional terms, Rights Floors, or offense taxonomy.
 >
 > Shared preamble contract: apply [corpus_joint_structure.md](../corpus_joint_structure.md) **CJS-1.2** (*Shared implementation-corpus preamble contract*).
 >
-> **Principle-layer routing:** Read with [Chapter One](../core_01_b_stewardship_capacity_principles.md#chapter-01-principles-and-constraints), [Chapters Six–Nine constitutional compass](../core_06-06_standing_assessment.md#chapters-six-nine-constitutional-compass), and [Chapter Nine](../core_09-09_forum.md#chapter-nine-forums-and-jurisdiction) — forums implement [Constitutional Tetrad](../core_00_preamble.md#constitutional-tetrad) **participation** and **oversight** legs, scaled to [material stake](../core_00_preamble.md#material-stake). Panel formation, recusal, and review lanes are primary operational homes in **CF-5** (*Routing operations, transfer, certification, and representative treatment*), **CF-7** (*Integrity safeguards and anti-self-judging*), and **CF-8** (*Forum forensic and analytical support*).
+> **Principle-layer routing:** Read with [Chapter One](../core_01_b_stewardship_capacity_principles.md#chapter-01-principles-and-constraints), [Chapters Eight–Eleven constitutional compass](../core_08-08_standing_assessment.md#chapters-eight-eleven-constitutional-compass), and [Chapter Eleven](../core_11-11_forum.md#chapter-eleven-forums-and-jurisdiction) — forums implement [Constitutional Tetrad](../core_00_preamble.md#constitutional-tetrad) **participation** and **oversight** legs, scaled to [material stake](../core_00_preamble.md#material-stake). Panel formation, recusal, and review lanes are primary operational homes in **CF-5** (*Routing operations, transfer, certification, and representative treatment*), **CF-7** (*Integrity safeguards and anti-self-judging*), and **CF-8** (*Forum forensic and analytical support*).
 >
 > **File-specific implementation anchors**
 > - **Operational home:** forum structure, forum independence safeguards, forum process governance, and forum continuity mechanics.
-> - **Boundary rule:** this file does **not** redefine constitutional terms, Rights Floors, offense taxonomy, or the constitutional routing logic owned by `core_09-09_forum.md` **Chapter Nine**.
-> - **Forum-family limit:** this file does **not** create new forum families beyond those authorized in **Chapter Nine**.
-> - **Chapter Ten structure:** operationalizes challenge and redress through **Article XII-B**; auditability through **Article XV-A** with **Chapters Two through Four**; interpretation safeguards through **Article XXII**; justice and emergency boundaries through **Article XXIII**; transition-phase adjudication support as **Article XXV** references into this file and **`corpus_institutions.md`** **CI-14** (*Transitional governance and institutional evolution*).
+> - **Boundary rule:** this file does **not** redefine constitutional terms, Rights Floors, offense taxonomy, or the constitutional routing logic owned by `core_11-11_forum.md` **Chapter Eleven**.
+> - **Forum-family limit:** this file does **not** create new forum families beyond those authorized in **Chapter Eleven**.
+> - **Chapter Six structure:** operationalizes challenge and redress through **Article XII-B**; auditability through **Article XV-A** with **Chapters Two through Four**; interpretation safeguards through **Article XXII**; justice and emergency boundaries through **Article XXIII**; transition-phase adjudication support as **Article XXV** references into this file and **`corpus_institutions.md`** **CI-14** (*Transitional governance and institutional evolution*).
 >
 > **Implementation cross-reference index (routing only):** Read with Chapter Five constitutional definitions and `corpus_joint_structure.md` **CJS-5** (*Implementation and cross-implementation operational cluster library*) operational clusters where materially applicable. This index does not redefine owner-layer meaning.
 
@@ -53,7 +53,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-1.3](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-13-section-identifiers-and-article-references) section identifiers; [Chapter Nine](../core_09-09_forum.md#chapter-nine-forums-and-jurisdiction) forum-family routing; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
+- Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-1.3](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-13-section-identifiers-and-article-references) section identifiers; [Chapter Eleven](../core_11-11_forum.md#chapter-eleven-forums-and-jurisdiction) forum-family routing; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
 - Downstream: [Forums registry (stable section families)](#forums-registry-stable-section-families).
 - Read with: **CF-1**; **CJS-1.3**.
 
@@ -65,13 +65,13 @@
 
 Apply [corpus_joint_structure.md](../corpus_joint_structure.md) **CJS-1.3** (*Section identifiers and article references*) as the shared implementation-corpus identifier rule. In this file specifically, headings use **CF-1** (*Scope, authority, and boundary rules*) through **CF-16** (*Forum staffing, reserve capacity, shared administration, structural review, and structural records*). Subsections use **CF-*n*.*m*** (for example **CF-7.2** (*Constitutional alignment recognition and review*)). They must not be read as Sentient Constitution **Article** numbers. The abbreviation **CF** matches [doc_architecture.md](../doc_architecture.md) (*corpus_forum.md*).
 
-Unless another reference pattern is stated, **Article** labels with Roman numerals in this file point to Sentient Constitution Chapter Ten in the `core_10-10_rights_part_*.md` files.
+Unless another reference pattern is stated, **Article** labels with Roman numerals in this file point to Sentient Constitution Chapter Six in the `core_06-06_rights_part_*.md` files.
 
 ## Forums registry (stable section families)
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Nine](../core_09-09_forum.md#chapter-nine-forums-and-jurisdiction) forum-family routing; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
+- Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Eleven](../core_11-11_forum.md#chapter-eleven-forums-and-jurisdiction) forum-family routing; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
 - Downstream: this section's local operational requirements for **Forums registry (stable section families)**.
 - Read with: **CF-1**; **CF-2**; **CF-3**; **CF-4**; **CF-5**; **CF-6**; **CF-6.1**; **CF-6.1.1**.
 

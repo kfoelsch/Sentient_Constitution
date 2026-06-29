@@ -148,19 +148,19 @@ Before necessary transfer, delegation, or exit: maintain **continuity of functio
 
 **Scale** them by **CS-4 — System classification and handling** class and **CSS-A/B/C**.
 
-Maintain **role clarity**, **backup authority**, and communications preserving **epistemic integrity** and **auditability** without displacing **Article XVIII-A**, Chapter Eleven decision-resolution requirements, or **CJS-5.14** (*intervention governance and override-authorization terms*) and **CJS-5.23** (*intervention and override integrity terms*).
+Maintain **role clarity**, **backup authority**, and communications preserving **epistemic integrity** and **auditability** without displacing **Article XVIII-A**, Chapter Twelve decision-resolution requirements, or **CJS-5.14** (*intervention governance and override-authorization terms*) and **CJS-5.23** (*intervention and override integrity terms*).
 
 **Competency, succession, and oversight effectiveness:** Maintain **competency**, **succession readiness**, and **effective oversight** proportional to **highest affected class (A/B/C)** and **CSS tier**.
 
 *Accountability*, *Oversight*, and related definitions remain **Chapter Five** (no O/E/C restatement here).
 
-**Competency:** **Maximum calendar age** and **life-stage ceilings** **must not** be used as **stand-alone eligibility** rules for **Critical System Steward** roles. **They** **must not** be used as **stand-alone eligibility** rules for **governing personnel** exercising material authority over classified systems (**Sentient Constitution Chapter Ten**, section 1 — *Authorization and Legitimacy of Governing Authority*; **Chapter Ten**, **Article IX-C** *Governance Participation and Voting Entitlement*, implemented in **Chapter Ten**, section **4.1 — Entitlement and eligibility**).
+**Competency:** **Maximum calendar age** and **life-stage ceilings** **must not** be used as **stand-alone eligibility** rules for **Critical System Steward** roles. **They** **must not** be used as **stand-alone eligibility** rules for **governing personnel** exercising material authority over classified systems (**Sentient Constitution Chapter Six**, section 1 — *Authorization and Legitimacy of Governing Authority*; **Chapter Six**, **Article IX-C** *Governance Participation and Voting Entitlement*, implemented in **Chapter Six**, section **4.1 — Entitlement and eligibility**).
 
 **Authorized roles and contribution pathways:** Maintain **published** role definitions (or equivalent) for personnel/agents exercising **Critical System Stewardship** or **material** operational authority: **scope**, **limits**, **custody**, and **escalation**, so accountability is **traceable** (**Article XV-A**).
 
 Provide **cross-domain exposure**, **mentorship**, and **rotation** proportional to **CSS** tier and **Class A/B/C** exposure so **caretaker competency** is not siloed.
 
-Provide **documented**, **low-friction** paths for **qualified** contributors to assume **progressively consequential** duties (**delegation**, **pairing**, **staged** trust) **without** **arbitrary** exclusion that serves **capture** or **symbolic** participation only, consistent with **Sentient Constitution Chapter Ten**, section 5.
+Provide **documented**, **low-friction** paths for **qualified** contributors to assume **progressively consequential** duties (**delegation**, **pairing**, **staged** trust) **without** **arbitrary** exclusion that serves **capture** or **symbolic** participation only, consistent with **Sentient Constitution Chapter Six**, section 5.
 
 **Incentive** and **remuneration** design aligns with **Sentient Constitution Chapter One**, section 7.2 and **Protocol S5** where applicable. **It** **must not** systematically reward **concealment**, **latency gaming**, or **trade-downs** against **safety** or **Truth**.
 
@@ -194,7 +194,7 @@ Use **independent** or **functionally independent** evaluators where **Class A/B
 
 **Cross-reference:** **Articles IX, XI, XVI**, **CS-4 — System classification and handling**, **CJS-5.11** (*distributed and proportional authority terms*) and **CJS-5.7** (*quorum and participatory legitimacy terms*), **CJS-5.13** (*procedural integrity and adjudication terms*), **Conduct** above.
 
-**Intervention trigger:** Where a steward is **unable or unwilling** to maintain continuity per obligations, activate **intervention and override**. **That** activation uses **CJS-5.14** (*intervention governance and override-authorization terms*), **CJS-5.23** (*intervention and override integrity terms*), related **corpus_joint_structure.md** operational clusters, and Chapter Ten rights routing.
+**Intervention trigger:** Where a steward is **unable or unwilling** to maintain continuity per obligations, activate **intervention and override**. **That** activation uses **CJS-5.14** (*intervention governance and override-authorization terms*), **CJS-5.23** (*intervention and override integrity terms*), related **corpus_joint_structure.md** operational clusters, and Chapter Six rights routing.
 
 **Its** purpose is to preserve function, recoverability, and **Foundational Rights**.
 

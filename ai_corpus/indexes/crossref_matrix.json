@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/crossref_matrix.schema.json",
-  "generated_at": "2026-06-26T08:56:11+00:00",
+  "generated_at": "2026-06-29T09:03:20+00:00",
   "description": "Source-derived file-to-file Markdown reference graph.",
   "graph": {
     "nodes": [
@@ -45,51 +45,55 @@
         "type": "core"
       },
       {
-        "id": "core_06-06_standing_assessment.md",
+        "id": "core_07-07_system_alignment_certification.md",
         "type": "core"
       },
       {
-        "id": "core_07-07_standing_integration.md",
+        "id": "core_08-08_standing_assessment.md",
         "type": "core"
       },
       {
-        "id": "core_08-08_misconduct.md",
+        "id": "core_09-09_standing_integration.md",
         "type": "core"
       },
       {
-        "id": "core_09-09_forum.md",
+        "id": "core_10-10_misconduct.md",
         "type": "core"
       },
       {
-        "id": "core_06-09_application_vignettes.md",
+        "id": "core_11-11_forum.md",
         "type": "core"
       },
       {
-        "id": "core_10-10_rights_part_a.md",
+        "id": "core_08-11_application_vignettes.md",
         "type": "core"
       },
       {
-        "id": "core_10-10_rights_part_b.md",
+        "id": "core_06-06_rights_part_a.md",
         "type": "core"
       },
       {
-        "id": "core_10-10_rights_part_c.md",
+        "id": "core_06-06_rights_part_b.md",
         "type": "core"
       },
       {
-        "id": "core_10-10_rights_part_d.md",
+        "id": "core_06-06_rights_part_c.md",
         "type": "core"
       },
       {
-        "id": "core_11-11_governance.md",
+        "id": "core_06-06_rights_part_d.md",
         "type": "core"
       },
       {
-        "id": "core_12-14_amendment.md",
+        "id": "core_12-12_governance.md",
         "type": "core"
       },
       {
-        "id": "core_15-15_incorporation.md",
+        "id": "core_13-15_amendment.md",
+        "type": "core"
+      },
+      {
+        "id": "core_16-16_incorporation.md",
         "type": "core"
       },
       {
@@ -458,10 +462,10 @@
             ]
           },
           {
-            "file": "core_06-06_standing_assessment.md",
+            "file": "core_08-08_standing_assessment.md",
             "count": 1,
             "anchors": [
-              "#chapters-six-nine-constitutional-compass"
+              "#chapters-eight-eleven-constitutional-compass"
             ]
           }
         ]
@@ -712,38 +716,15 @@
             ]
           },
           {
-            "file": "core_07-07_standing_integration.md",
-            "count": 2,
-            "anchors": [
-              "#11-shared-domain-lenses-cross-axis-vocabulary",
-              "#12-stackable-benefit-and-stewardship-descriptors-contribution-state-supplement"
-            ]
-          },
-          {
-            "file": "core_08-08_misconduct.md",
-            "count": 1,
-            "anchors": [
-              "#4-due-process-safeguards-for-slot-classification"
-            ]
-          },
-          {
-            "file": "core_09-09_forum.md",
-            "count": 3,
-            "anchors": [
-              "#422-technical-forum-domains",
-              "#45-shared-standards-and-anti-displacement"
-            ]
-          },
-          {
-            "file": "core_10-10_rights_part_a.md",
+            "file": "core_06-06_rights_part_a.md",
             "count": 5,
             "anchors": [
               "#article-iii-b-equal-educational-access",
-              "#chapter-ten-foundational-rights"
+              "#chapter-six-foundational-rights"
             ]
           },
           {
-            "file": "core_10-10_rights_part_b.md",
+            "file": "core_06-06_rights_part_b.md",
             "count": 24,
             "anchors": [
               "#article-ix-self-determination-and-agency",
@@ -758,7 +739,7 @@
             ]
           },
           {
-            "file": "core_10-10_rights_part_c.md",
+            "file": "core_06-06_rights_part_c.md",
             "count": 57,
             "anchors": [
               "#article-xii-b-right-to-challenge-review-and-redress",
@@ -779,7 +760,7 @@
             ]
           },
           {
-            "file": "core_10-10_rights_part_d.md",
+            "file": "core_06-06_rights_part_d.md",
             "count": 7,
             "anchors": [
               "#article-xxiii-conflict-resolution-escalation-and-emergency-proportionality",
@@ -787,7 +768,30 @@
             ]
           },
           {
-            "file": "core_15-15_incorporation.md",
+            "file": "core_09-09_standing_integration.md",
+            "count": 2,
+            "anchors": [
+              "#11-shared-domain-lenses-cross-axis-vocabulary",
+              "#12-stackable-benefit-and-stewardship-descriptors-contribution-state-supplement"
+            ]
+          },
+          {
+            "file": "core_10-10_misconduct.md",
+            "count": 1,
+            "anchors": [
+              "#4-due-process-safeguards-for-slot-classification"
+            ]
+          },
+          {
+            "file": "core_11-11_forum.md",
+            "count": 3,
+            "anchors": [
+              "#422-technical-forum-domains",
+              "#45-shared-standards-and-anti-displacement"
+            ]
+          },
+          {
+            "file": "core_16-16_incorporation.md",
             "count": 3,
             "anchors": [
               "#2-authority-stack-and-invocation"
@@ -1063,29 +1067,7 @@
             ]
           },
           {
-            "file": "core_06-06_standing_assessment.md",
-            "count": 3,
-            "anchors": [
-              "#chapter-six-compliance-violation-and-standing-model"
-            ]
-          },
-          {
-            "file": "core_08-08_misconduct.md",
-            "count": 3,
-            "anchors": [
-              "#61-concentration-based-subversion-criteria-interaction"
-            ]
-          },
-          {
-            "file": "core_09-09_forum.md",
-            "count": 4,
-            "anchors": [
-              "#2-purpose-and-role",
-              "#4-forum-families"
-            ]
-          },
-          {
-            "file": "core_10-10_rights_part_a.md",
+            "file": "core_06-06_rights_part_a.md",
             "count": 17,
             "anchors": [
               "#article-i-a-environmental-preconditions-and-ecological-integrity",
@@ -1096,11 +1078,11 @@
               "#article-iii-d-labor-and-economic-floor",
               "#article-iii-survival-and-equal-educational-access",
               "#article-iv-resource-allocation-dependencies-and-ecosystem-funding",
-              "#chapter-ten-foundational-rights"
+              "#chapter-six-foundational-rights"
             ]
           },
           {
-            "file": "core_10-10_rights_part_b.md",
+            "file": "core_06-06_rights_part_b.md",
             "count": 7,
             "anchors": [
               "#article-ix-self-determination-and-agency",
@@ -1110,7 +1092,7 @@
             ]
           },
           {
-            "file": "core_10-10_rights_part_c.md",
+            "file": "core_06-06_rights_part_c.md",
             "count": 35,
             "anchors": [
               "#article-xii-a-reliability-and-trustworthiness-baseline",
@@ -1131,7 +1113,7 @@
             ]
           },
           {
-            "file": "core_10-10_rights_part_d.md",
+            "file": "core_06-06_rights_part_d.md",
             "count": 3,
             "anchors": [
               "#article-xxiii-f-rights-collision-procedure-and-restorative-alignment",
@@ -1140,7 +1122,36 @@
             ]
           },
           {
-            "file": "core_11-11_governance.md",
+            "file": "core_07-07_system_alignment_certification.md",
+            "count": 3,
+            "anchors": [
+              "#chapter-seven-system-alignment-certification-and-recognition"
+            ]
+          },
+          {
+            "file": "core_08-08_standing_assessment.md",
+            "count": 3,
+            "anchors": [
+              "#chapter-eight-compliance-violation-and-standing-model"
+            ]
+          },
+          {
+            "file": "core_10-10_misconduct.md",
+            "count": 3,
+            "anchors": [
+              "#61-concentration-based-subversion-criteria-interaction"
+            ]
+          },
+          {
+            "file": "core_11-11_forum.md",
+            "count": 4,
+            "anchors": [
+              "#2-purpose-and-role",
+              "#4-forum-families"
+            ]
+          },
+          {
+            "file": "core_12-12_governance.md",
             "count": 4,
             "anchors": [
               "#5-authorized-roles-competency-development-and-contribution"
@@ -1249,24 +1260,24 @@
             "anchors": []
           },
           {
-            "file": "core_06-06_standing_assessment.md",
-            "count": 9,
-            "anchors": [
-              "#chapter-six-compliance-violation-and-standing-model"
-            ]
-          },
-          {
-            "file": "core_07-07_standing_integration.md",
-            "count": 1,
-            "anchors": [
-              "#chapter-seven-standing-effects-and-integration"
-            ]
-          },
-          {
-            "file": "core_10-10_rights_part_c.md",
+            "file": "core_06-06_rights_part_c.md",
             "count": 2,
             "anchors": [
               "#article-xv-audit-transparency-and-independent-verification"
+            ]
+          },
+          {
+            "file": "core_08-08_standing_assessment.md",
+            "count": 9,
+            "anchors": [
+              "#chapter-eight-compliance-violation-and-standing-model"
+            ]
+          },
+          {
+            "file": "core_09-09_standing_integration.md",
+            "count": 1,
+            "anchors": [
+              "#chapter-nine-standing-effects-and-integration"
             ]
           },
           {
@@ -1702,7 +1713,7 @@
             ]
           },
           {
-            "file": "core_10-10_rights_part_b.md",
+            "file": "core_06-06_rights_part_b.md",
             "count": 1,
             "anchors": [
               "#article-v-h-expression-assembly-and-press"
@@ -1907,19 +1918,7 @@
             ]
           },
           {
-            "file": "core_06-06_standing_assessment.md",
-            "count": 2,
-            "anchors": [
-              "#32-constitutional-outcome-baseline-for-slots"
-            ]
-          },
-          {
-            "file": "core_09-09_forum.md",
-            "count": 1,
-            "anchors": []
-          },
-          {
-            "file": "core_10-10_rights_part_a.md",
+            "file": "core_06-06_rights_part_a.md",
             "count": 9,
             "anchors": [
               "#article-i-a-environmental-preconditions-and-ecological-integrity",
@@ -1929,7 +1928,7 @@
             ]
           },
           {
-            "file": "core_10-10_rights_part_b.md",
+            "file": "core_06-06_rights_part_b.md",
             "count": 50,
             "anchors": [
               "#article-ix-a-agency-and-freedom-from-manipulation",
@@ -1952,7 +1951,7 @@
             ]
           },
           {
-            "file": "core_10-10_rights_part_c.md",
+            "file": "core_06-06_rights_part_c.md",
             "count": 10,
             "anchors": [
               "#article-xiii-a-security-intelligence-and-covert-power-limits",
@@ -1961,21 +1960,33 @@
             ]
           },
           {
-            "file": "core_10-10_rights_part_d.md",
+            "file": "core_06-06_rights_part_d.md",
             "count": 1,
             "anchors": [
               "#article-xxiii-f-rights-collision-procedure-and-restorative-alignment"
             ]
           },
           {
-            "file": "core_11-11_governance.md",
+            "file": "core_08-08_standing_assessment.md",
+            "count": 2,
+            "anchors": [
+              "#32-constitutional-outcome-baseline-for-slots"
+            ]
+          },
+          {
+            "file": "core_11-11_forum.md",
+            "count": 1,
+            "anchors": []
+          },
+          {
+            "file": "core_12-12_governance.md",
             "count": 5,
             "anchors": [
               "#43-decision-resolution-requirements-for-binding-collective-choice"
             ]
           },
           {
-            "file": "core_15-15_incorporation.md",
+            "file": "core_16-16_incorporation.md",
             "count": 1,
             "anchors": []
           },
@@ -2204,70 +2215,7 @@
             ]
           },
           {
-            "file": "core_06-06_standing_assessment.md",
-            "count": 35,
-            "anchors": [
-              "#2-purpose-and-role",
-              "#2-standing-records",
-              "#21-standing-records-as-the-unit-of-application",
-              "#23-standing-record-operational-requirements",
-              "#232-minimum-record-contents",
-              "#31-slot-grammar-and-display-labels",
-              "#32-constitutional-outcome-baseline-for-slots",
-              "#33-primary-category-defaults-and-lequ-slot-baseline",
-              "#34-violation-axis-rules-violation-nature-adverse-findings-and-severity",
-              "#51-contribution-axis-bands-and-table-2",
-              "#chapter-six-compliance-violation-and-standing-model",
-              "#chapters-six-nine-constitutional-compass",
-              "#verified-inputs-for-standing"
-            ]
-          },
-          {
-            "file": "core_07-07_standing_integration.md",
-            "count": 13,
-            "anchors": [
-              "#5-standing-effects",
-              "#52-remedy-organ-durability",
-              "#6-extended-axis-ii-legal-hybrid-duty-and-harm-descriptors",
-              "#73-stackable-harm-and-conduct-descriptors-violation-nature-supplement",
-              "#8-cross-axis-coupling-and-escalation-constraints",
-              "#chapter-seven-standing-effects-and-integration",
-              "#competency-gates",
-              "#standing-integration-slot-band-standing-locks",
-              "#standing-locks-in-the-standing-model"
-            ]
-          },
-          {
-            "file": "core_08-08_misconduct.md",
-            "count": 17,
-            "anchors": [
-              "#1-decision-framework-scope-and-authority",
-              "#2-criteria-set-for-slot-assignment",
-              "#3-violation-axis-s-7-9-slot-assignment-incident-gravity",
-              "#4-due-process-safeguards-for-slot-classification",
-              "#64-info-sphere-zone-flooding",
-              "#chapter-eight-anti-constitutional-misconduct"
-            ]
-          },
-          {
-            "file": "core_09-09_forum.md",
-            "count": 14,
-            "anchors": [
-              "#2-default-venue-and-primary-stakes",
-              "#421-sentient-forums",
-              "#422-technical-forum-domains",
-              "#423-institutional-forums",
-              "#424-environment-forums",
-              "#425-integrity-forums",
-              "#426-constitutional-forums",
-              "#5-intake-triage-mixed-stakes-and-routing-asymmetry",
-              "#6-transfer-consolidation-and-coordination",
-              "#7-escalation-and-certification",
-              "#chapter-nine-forums-and-jurisdiction"
-            ]
-          },
-          {
-            "file": "core_10-10_rights_part_a.md",
+            "file": "core_06-06_rights_part_a.md",
             "count": 11,
             "anchors": [
               "#article-i-a-environmental-preconditions-and-ecological-integrity",
@@ -2276,7 +2224,7 @@
             ]
           },
           {
-            "file": "core_10-10_rights_part_b.md",
+            "file": "core_06-06_rights_part_b.md",
             "count": 4,
             "anchors": [
               "#article-vii-e-voluntary-discontinuation-of-ones-own-existence",
@@ -2286,7 +2234,7 @@
             ]
           },
           {
-            "file": "core_10-10_rights_part_c.md",
+            "file": "core_06-06_rights_part_c.md",
             "count": 23,
             "anchors": [
               "#article-xii-a-reliability-and-trustworthiness-baseline",
@@ -2301,7 +2249,7 @@
             ]
           },
           {
-            "file": "core_10-10_rights_part_d.md",
+            "file": "core_06-06_rights_part_d.md",
             "count": 10,
             "anchors": [
               "#article-xxiii-b-non-trivial-restriction-restitution-and-restorative-accountability-constraints",
@@ -2311,6 +2259,69 @@
               "#article-xxiii-g-timely-resolution-and-anti-delay-floor",
               "#article-xxiv-constitutional-evolution-and-non-entrenchment",
               "#article-xxv-transition-governance-continuity-and-re-baselining"
+            ]
+          },
+          {
+            "file": "core_08-08_standing_assessment.md",
+            "count": 35,
+            "anchors": [
+              "#2-purpose-and-role",
+              "#2-standing-records",
+              "#21-standing-records-as-the-unit-of-application",
+              "#23-standing-record-operational-requirements",
+              "#232-minimum-record-contents",
+              "#31-slot-grammar-and-display-labels",
+              "#32-constitutional-outcome-baseline-for-slots",
+              "#33-primary-category-defaults-and-lequ-slot-baseline",
+              "#34-violation-axis-rules-violation-nature-adverse-findings-and-severity",
+              "#51-contribution-axis-bands-and-table-2",
+              "#chapter-eight-compliance-violation-and-standing-model",
+              "#chapters-eight-eleven-constitutional-compass",
+              "#verified-inputs-for-standing"
+            ]
+          },
+          {
+            "file": "core_09-09_standing_integration.md",
+            "count": 13,
+            "anchors": [
+              "#5-standing-effects",
+              "#52-remedy-organ-durability",
+              "#6-extended-axis-ii-legal-hybrid-duty-and-harm-descriptors",
+              "#73-stackable-harm-and-conduct-descriptors-violation-nature-supplement",
+              "#8-cross-axis-coupling-and-escalation-constraints",
+              "#chapter-nine-standing-effects-and-integration",
+              "#competency-gates",
+              "#standing-integration-slot-band-standing-locks",
+              "#standing-locks-in-the-standing-model"
+            ]
+          },
+          {
+            "file": "core_10-10_misconduct.md",
+            "count": 17,
+            "anchors": [
+              "#1-decision-framework-scope-and-authority",
+              "#2-criteria-set-for-slot-assignment",
+              "#3-violation-axis-s-7-9-slot-assignment-incident-gravity",
+              "#4-due-process-safeguards-for-slot-classification",
+              "#64-info-sphere-zone-flooding",
+              "#chapter-ten-anti-constitutional-misconduct"
+            ]
+          },
+          {
+            "file": "core_11-11_forum.md",
+            "count": 14,
+            "anchors": [
+              "#2-default-venue-and-primary-stakes",
+              "#421-sentient-forums",
+              "#422-technical-forum-domains",
+              "#423-institutional-forums",
+              "#424-environment-forums",
+              "#425-integrity-forums",
+              "#426-constitutional-forums",
+              "#5-intake-triage-mixed-stakes-and-routing-asymmetry",
+              "#6-transfer-consolidation-and-coordination",
+              "#7-escalation-and-certification",
+              "#chapter-eleven-forums-and-jurisdiction"
             ]
           },
           {
@@ -2548,7 +2559,7 @@
             ]
           },
           {
-            "file": "core_10-10_rights_part_a.md",
+            "file": "core_06-06_rights_part_a.md",
             "count": 21,
             "anchors": [
               "#article-i-a-environmental-preconditions-and-ecological-integrity",
@@ -2560,7 +2571,7 @@
             ]
           },
           {
-            "file": "core_10-10_rights_part_b.md",
+            "file": "core_06-06_rights_part_b.md",
             "count": 20,
             "anchors": [
               "#article-ix-a-agency-and-freedom-from-manipulation",
@@ -2574,7 +2585,7 @@
             ]
           },
           {
-            "file": "core_10-10_rights_part_c.md",
+            "file": "core_06-06_rights_part_c.md",
             "count": 9,
             "anchors": [
               "#article-xii-a-reliability-and-trustworthiness-baseline",
@@ -2586,7 +2597,7 @@
             ]
           },
           {
-            "file": "core_10-10_rights_part_d.md",
+            "file": "core_06-06_rights_part_d.md",
             "count": 10,
             "anchors": [
               "#article-xxiii-conflict-resolution-escalation-and-emergency-proportionality",
@@ -2595,7 +2606,7 @@
             ]
           },
           {
-            "file": "core_11-11_governance.md",
+            "file": "core_12-12_governance.md",
             "count": 4,
             "anchors": [
               "#3-strategy-stewardship-direction-and-ecosystem-value-non-corporate",
@@ -2603,12 +2614,12 @@
             ]
           },
           {
-            "file": "core_12-14_amendment.md",
+            "file": "core_13-15_amendment.md",
             "count": 2,
             "anchors": []
           },
           {
-            "file": "core_15-15_incorporation.md",
+            "file": "core_16-16_incorporation.md",
             "count": 4,
             "anchors": []
           },
@@ -2731,46 +2742,46 @@
             ]
           },
           {
-            "file": "core_06-06_standing_assessment.md",
-            "count": 1,
-            "anchors": []
-          },
-          {
-            "file": "core_10-10_rights_part_a.md",
+            "file": "core_06-06_rights_part_a.md",
             "count": 2,
             "anchors": [
-              "#chapter-ten-foundational-rights"
+              "#chapter-six-foundational-rights"
             ]
           },
           {
-            "file": "core_10-10_rights_part_b.md",
+            "file": "core_06-06_rights_part_b.md",
             "count": 3,
             "anchors": [
               "#article-ix-c-governance-participation-and-voting-entitlement"
             ]
           },
           {
-            "file": "core_11-11_governance.md",
+            "file": "core_07-07_system_alignment_certification.md",
+            "count": 1,
+            "anchors": []
+          },
+          {
+            "file": "core_12-12_governance.md",
             "count": 5,
             "anchors": [
               "#41-entitlement-and-eligibility",
               "#43-decision-resolution-requirements-for-binding-collective-choice",
-              "#chapter-eleven-constitutional-contract-legitimacy-authorization-and-stewardship"
+              "#chapter-twelve-constitutional-contract-legitimacy-authorization-and-stewardship"
             ]
           },
           {
-            "file": "core_12-14_amendment.md",
+            "file": "core_13-15_amendment.md",
             "count": 3,
             "anchors": [
               "#31-internal-hierarchy-for-adopters"
             ]
           },
           {
-            "file": "core_15-15_incorporation.md",
+            "file": "core_16-16_incorporation.md",
             "count": 2,
             "anchors": [
               "#2-authority-stack-and-invocation",
-              "#chapter-fifteen-incorporation-bridge"
+              "#chapter-sixteen-incorporation-bridge"
             ]
           },
           {
@@ -2781,7 +2792,63 @@
         ]
       },
       {
-        "source": "core_06-06_standing_assessment.md",
+        "source": "core_07-07_system_alignment_certification.md",
+        "targets": [
+          {
+            "file": "core_01_b_stewardship_capacity_principles.md",
+            "count": 2,
+            "anchors": [
+              "#13-systemic-evaluation-requirement",
+              "#9-stewardship-and-distributed-understanding"
+            ]
+          },
+          {
+            "file": "core_05-05_definitions_a_independent.md",
+            "count": 1,
+            "anchors": [
+              "#chapter-five-foundational-definitions"
+            ]
+          },
+          {
+            "file": "core_05i_integrative_definitions.md",
+            "count": 1,
+            "anchors": []
+          },
+          {
+            "file": "core_08-08_standing_assessment.md",
+            "count": 2,
+            "anchors": [
+              "#chapter-eight-compliance-violation-and-standing-model"
+            ]
+          },
+          {
+            "file": "core_09-09_standing_integration.md",
+            "count": 1,
+            "anchors": [
+              "#chapter-nine-standing-effects-and-integration"
+            ]
+          },
+          {
+            "file": "core_11-11_forum.md",
+            "count": 1,
+            "anchors": [
+              "#chapter-eleven-forums-and-jurisdiction"
+            ]
+          },
+          {
+            "file": "corpus_forum.md",
+            "count": 1,
+            "anchors": []
+          },
+          {
+            "file": "corpus_systems.md",
+            "count": 1,
+            "anchors": []
+          }
+        ]
+      },
+      {
+        "source": "core_08-08_standing_assessment.md",
         "targets": [
           {
             "file": "core_00_preamble.md",
@@ -2857,24 +2924,41 @@
             ]
           },
           {
-            "file": "core_06-06_standing_assessment.md",
+            "file": "core_06-06_rights_part_c.md",
+            "count": 2,
+            "anchors": [
+              "#article-xii-b-right-to-challenge-review-and-redress"
+            ]
+          },
+          {
+            "file": "core_06-06_rights_part_d.md",
+            "count": 7,
+            "anchors": [
+              "#article-xxiii-a-justice-objective-and-scope",
+              "#article-xxiii-b-non-trivial-restriction-restitution-and-restorative-accountability-constraints",
+              "#article-xxiii-c-least-restrictive-and-time-bounded-rule",
+              "#article-xxiii-g-timely-resolution-and-anti-delay-floor"
+            ]
+          },
+          {
+            "file": "core_08-08_standing_assessment.md",
             "count": 4,
             "anchors": [
               "#2-standing-records",
               "#237-forum-boundary",
-              "#chapter-six-compliance-violation-and-standing-model"
+              "#chapter-eight-compliance-violation-and-standing-model"
             ]
           },
           {
-            "file": "core_06-09_application_vignettes.md",
+            "file": "core_08-11_application_vignettes.md",
             "count": 2,
             "anchors": [
-              "#chapters-six-nine-application-vignettes"
+              "#chapters-eight-eleven-application-vignettes"
             ]
           },
           {
-            "file": "core_07-07_standing_integration.md",
-            "count": 54,
+            "file": "core_09-09_standing_integration.md",
+            "count": 55,
             "anchors": [
               "#210-safe-delegation-competency-gate-dimensions",
               "#30-non-recurrence-evaluation-and-integration-examples",
@@ -2889,7 +2973,7 @@
               "#8-enforcement-realism-anchors",
               "#9-violation-axis-s-7-9-anti-constitutional-misconduct-authoritative-location",
               "#benefit-route-descriptors-q2-integration",
-              "#chapter-seven-standing-effects-and-integration",
+              "#chapter-nine-standing-effects-and-integration",
               "#competency-gates",
               "#harm-route-descriptors-q2-integration",
               "#standing-integration-slot-band-standing-locks",
@@ -2898,35 +2982,18 @@
             ]
           },
           {
-            "file": "core_08-08_misconduct.md",
+            "file": "core_10-10_misconduct.md",
             "count": 9,
             "anchors": [
-              "#chapter-eight-anti-constitutional-misconduct"
+              "#chapter-ten-anti-constitutional-misconduct"
             ]
           },
           {
-            "file": "core_09-09_forum.md",
+            "file": "core_11-11_forum.md",
             "count": 7,
             "anchors": [
               "#6-transfer-consolidation-and-coordination",
-              "#chapter-nine-forums-and-jurisdiction"
-            ]
-          },
-          {
-            "file": "core_10-10_rights_part_c.md",
-            "count": 2,
-            "anchors": [
-              "#article-xii-b-right-to-challenge-review-and-redress"
-            ]
-          },
-          {
-            "file": "core_10-10_rights_part_d.md",
-            "count": 7,
-            "anchors": [
-              "#article-xxiii-a-justice-objective-and-scope",
-              "#article-xxiii-b-non-trivial-restriction-restitution-and-restorative-accountability-constraints",
-              "#article-xxiii-c-least-restrictive-and-time-bounded-rule",
-              "#article-xxiii-g-timely-resolution-and-anti-delay-floor"
+              "#chapter-eleven-forums-and-jurisdiction"
             ]
           },
           {
@@ -2942,7 +3009,7 @@
         ]
       },
       {
-        "source": "core_07-07_standing_integration.md",
+        "source": "core_09-09_standing_integration.md",
         "targets": [
           {
             "file": "core_00_preamble.md",
@@ -3084,13 +3151,50 @@
             ]
           },
           {
-            "file": "core_06-06_standing_assessment.md",
-            "count": 95,
+            "file": "core_06-06_rights_part_a.md",
+            "count": 2,
+            "anchors": [
+              "#chapter-six-foundational-rights"
+            ]
+          },
+          {
+            "file": "core_06-06_rights_part_b.md",
+            "count": 3,
+            "anchors": [
+              "#article-ix-a-agency-and-freedom-from-manipulation",
+              "#article-v-g-accessibility",
+              "#article-vii-self-ownership"
+            ]
+          },
+          {
+            "file": "core_06-06_rights_part_c.md",
+            "count": 4,
+            "anchors": [
+              "#article-xii-b-right-to-challenge-review-and-redress",
+              "#article-xix-interoperability-portability-and-exit-integrity",
+              "#article-xvi-system-lifecycle-environments-and-reversibility",
+              "#article-xxi-root-cause-analysis-and-adaptive-response"
+            ]
+          },
+          {
+            "file": "core_06-06_rights_part_d.md",
+            "count": 15,
+            "anchors": [
+              "#article-xxiii-a-justice-objective-and-scope",
+              "#article-xxiii-b-non-trivial-restriction-restitution-and-restorative-accountability-constraints",
+              "#article-xxiii-c-least-restrictive-and-time-bounded-rule",
+              "#article-xxiii-g-timely-resolution-and-anti-delay-floor"
+            ]
+          },
+          {
+            "file": "core_08-08_standing_assessment.md",
+            "count": 97,
             "anchors": [
               "#11-two-question-evaluation-discipline",
               "#2-purpose-and-role",
               "#22-linked-records-and-no-offset-bridge",
               "#237-forum-boundary",
+              "#34-question-1-classification-illustrations",
               "#34-violation-axis-rules-violation-nature-adverse-findings-and-severity",
               "#41-formal-non-compliance",
               "#42-lequ-violation-calibration",
@@ -3101,8 +3205,8 @@
               "#53-forum-disclosure-and-recusal-process-impact",
               "#6-classification-evaluation-dimensions",
               "#benefit-route-descriptors-q1-classification-role",
-              "#chapter-six-compliance-violation-and-standing-model",
-              "#chapters-six-nine-constitutional-compass",
+              "#chapter-eight-compliance-violation-and-standing-model",
+              "#chapters-eight-eleven-constitutional-compass",
               "#contribution-table-q1-magnitude-input-dimensions",
               "#dual-use-classification-dimensions",
               "#harm-route-descriptors-q1-classification-role",
@@ -3111,14 +3215,14 @@
             ]
           },
           {
-            "file": "core_06-09_application_vignettes.md",
+            "file": "core_08-11_application_vignettes.md",
             "count": 1,
             "anchors": [
-              "#chapters-six-nine-application-vignettes"
+              "#chapters-eight-eleven-application-vignettes"
             ]
           },
           {
-            "file": "core_07-07_standing_integration.md",
+            "file": "core_09-09_standing_integration.md",
             "count": 14,
             "anchors": [
               "#10-enforcement-realism-anchors",
@@ -3133,59 +3237,23 @@
             ]
           },
           {
-            "file": "core_08-08_misconduct.md",
+            "file": "core_10-10_misconduct.md",
             "count": 16,
             "anchors": [
               "#62-rights-floor-waivers-and-unconstitutional-contract-terms",
               "#66-unlawful-or-unconstitutional-command-conduct",
-              "#chapter-eight-anti-constitutional-misconduct"
+              "#chapter-ten-anti-constitutional-misconduct"
             ]
           },
           {
-            "file": "core_09-09_forum.md",
+            "file": "core_11-11_forum.md",
             "count": 8,
             "anchors": [
-              "#chapter-nine-forums-and-jurisdiction"
+              "#chapter-eleven-forums-and-jurisdiction"
             ]
           },
           {
-            "file": "core_10-10_rights_part_a.md",
-            "count": 2,
-            "anchors": [
-              "#chapter-ten-foundational-rights"
-            ]
-          },
-          {
-            "file": "core_10-10_rights_part_b.md",
-            "count": 3,
-            "anchors": [
-              "#article-ix-a-agency-and-freedom-from-manipulation",
-              "#article-v-g-accessibility",
-              "#article-vii-self-ownership"
-            ]
-          },
-          {
-            "file": "core_10-10_rights_part_c.md",
-            "count": 4,
-            "anchors": [
-              "#article-xii-b-right-to-challenge-review-and-redress",
-              "#article-xix-interoperability-portability-and-exit-integrity",
-              "#article-xvi-system-lifecycle-environments-and-reversibility",
-              "#article-xxi-root-cause-analysis-and-adaptive-response"
-            ]
-          },
-          {
-            "file": "core_10-10_rights_part_d.md",
-            "count": 15,
-            "anchors": [
-              "#article-xxiii-a-justice-objective-and-scope",
-              "#article-xxiii-b-non-trivial-restriction-restitution-and-restorative-accountability-constraints",
-              "#article-xxiii-c-least-restrictive-and-time-bounded-rule",
-              "#article-xxiii-g-timely-resolution-and-anti-delay-floor"
-            ]
-          },
-          {
-            "file": "core_12-14_amendment.md",
+            "file": "core_13-15_amendment.md",
             "count": 1,
             "anchors": [
               "#4-disputes-involving-external-legal-orders"
@@ -3199,7 +3267,7 @@
         ]
       },
       {
-        "source": "core_08-08_misconduct.md",
+        "source": "core_10-10_misconduct.md",
         "targets": [
           {
             "file": "core_00_preamble.md",
@@ -3348,55 +3416,23 @@
             ]
           },
           {
-            "file": "core_06-06_standing_assessment.md",
-            "count": 9,
-            "anchors": [
-              "#31-slot-grammar-and-display-labels",
-              "#34-violation-axis-rules-violation-nature-adverse-findings-and-severity",
-              "#chapter-six-compliance-violation-and-standing-model",
-              "#chapters-six-nine-constitutional-compass"
-            ]
-          },
-          {
-            "file": "core_07-07_standing_integration.md",
-            "count": 10,
-            "anchors": [
-              "#38-standing-integration-contribution-and-violation-nature",
-              "#410-collective-accountability-and-acquiescent-participation",
-              "#67-duty-to-resist-unlawful-or-unconstitutional-instructions",
-              "#9-violation-axis-s-7-9-anti-constitutional-misconduct-authoritative-location",
-              "#chapter-seven-standing-effects-and-integration"
-            ]
-          },
-          {
-            "file": "core_09-09_forum.md",
-            "count": 12,
-            "anchors": [
-              "#2-default-venue-and-primary-stakes",
-              "#5-intake-triage-mixed-stakes-and-routing-asymmetry",
-              "#6-transfer-consolidation-and-coordination",
-              "#7-escalation-and-certification",
-              "#chapter-nine-forums-and-jurisdiction"
-            ]
-          },
-          {
-            "file": "core_10-10_rights_part_a.md",
+            "file": "core_06-06_rights_part_a.md",
             "count": 4,
             "anchors": [
               "#article-iii-a-survival",
               "#article-iv-a-dependency-mapping-and-resource-flow-transparency",
-              "#chapter-ten-foundational-rights"
+              "#chapter-six-foundational-rights"
             ]
           },
           {
-            "file": "core_10-10_rights_part_b.md",
+            "file": "core_06-06_rights_part_b.md",
             "count": 1,
             "anchors": [
               "#article-v-h-expression-assembly-and-press"
             ]
           },
           {
-            "file": "core_10-10_rights_part_c.md",
+            "file": "core_06-06_rights_part_c.md",
             "count": 3,
             "anchors": [
               "#article-xii-a-reliability-and-trustworthiness-baseline",
@@ -3404,7 +3440,7 @@
             ]
           },
           {
-            "file": "core_10-10_rights_part_d.md",
+            "file": "core_06-06_rights_part_d.md",
             "count": 4,
             "anchors": [
               "#article-xxiii-a-justice-objective-and-scope",
@@ -3412,18 +3448,50 @@
             ]
           },
           {
-            "file": "core_11-11_governance.md",
-            "count": 2,
+            "file": "core_08-08_standing_assessment.md",
+            "count": 9,
             "anchors": [
-              "#chapter-eleven-constitutional-contract-legitimacy-authorization-and-stewardship"
+              "#31-slot-grammar-and-display-labels",
+              "#34-violation-axis-rules-violation-nature-adverse-findings-and-severity",
+              "#chapter-eight-compliance-violation-and-standing-model",
+              "#chapters-eight-eleven-constitutional-compass"
             ]
           },
           {
-            "file": "core_12-14_amendment.md",
+            "file": "core_09-09_standing_integration.md",
+            "count": 10,
+            "anchors": [
+              "#38-standing-integration-contribution-and-violation-nature",
+              "#410-collective-accountability-and-acquiescent-participation",
+              "#67-duty-to-resist-unlawful-or-unconstitutional-instructions",
+              "#9-violation-axis-s-7-9-anti-constitutional-misconduct-authoritative-location",
+              "#chapter-nine-standing-effects-and-integration"
+            ]
+          },
+          {
+            "file": "core_11-11_forum.md",
+            "count": 12,
+            "anchors": [
+              "#2-default-venue-and-primary-stakes",
+              "#5-intake-triage-mixed-stakes-and-routing-asymmetry",
+              "#6-transfer-consolidation-and-coordination",
+              "#7-escalation-and-certification",
+              "#chapter-eleven-forums-and-jurisdiction"
+            ]
+          },
+          {
+            "file": "core_12-12_governance.md",
+            "count": 2,
+            "anchors": [
+              "#chapter-twelve-constitutional-contract-legitimacy-authorization-and-stewardship"
+            ]
+          },
+          {
+            "file": "core_13-15_amendment.md",
             "count": 5,
             "anchors": [
-              "#chapter-fourteen-amendment-ratification-and-procedural-validity",
-              "#chapter-twelve-non-regression-and-substantive-amendment-validity"
+              "#chapter-fifteen-amendment-ratification-and-procedural-validity",
+              "#chapter-thirteen-non-regression-and-substantive-amendment-validity"
             ]
           },
           {
@@ -3444,7 +3512,7 @@
         ]
       },
       {
-        "source": "core_09-09_forum.md",
+        "source": "core_11-11_forum.md",
         "targets": [
           {
             "file": "core_00_preamble.md",
@@ -3496,7 +3564,36 @@
             ]
           },
           {
-            "file": "core_06-06_standing_assessment.md",
+            "file": "core_06-06_rights_part_a.md",
+            "count": 2,
+            "anchors": [
+              "#chapter-six-foundational-rights"
+            ]
+          },
+          {
+            "file": "core_06-06_rights_part_b.md",
+            "count": 1,
+            "anchors": [
+              "#article-v-e-sentience-status-adjudication-floor"
+            ]
+          },
+          {
+            "file": "core_06-06_rights_part_c.md",
+            "count": 5,
+            "anchors": [
+              "#article-xii-b-right-to-challenge-review-and-redress"
+            ]
+          },
+          {
+            "file": "core_06-06_rights_part_d.md",
+            "count": 6,
+            "anchors": [
+              "#article-xxiii-a-justice-objective-and-scope",
+              "#article-xxiii-c-least-restrictive-and-time-bounded-rule"
+            ]
+          },
+          {
+            "file": "core_08-08_standing_assessment.md",
             "count": 16,
             "anchors": [
               "#2-standing-records",
@@ -3505,17 +3602,17 @@
               "#34-violation-axis-rules-violation-nature-adverse-findings-and-severity",
               "#51-contribution-axis-bands-and-table-2",
               "#6-classification-evaluation-dimensions",
-              "#chapter-six-compliance-violation-and-standing-model",
-              "#chapters-six-nine-constitutional-compass"
+              "#chapter-eight-compliance-violation-and-standing-model",
+              "#chapters-eight-eleven-constitutional-compass"
             ]
           },
           {
-            "file": "core_06-09_application_vignettes.md",
+            "file": "core_08-11_application_vignettes.md",
             "count": 1,
             "anchors": []
           },
           {
-            "file": "core_07-07_standing_integration.md",
+            "file": "core_09-09_standing_integration.md",
             "count": 17,
             "anchors": [
               "#6-extended-axis-ii-legal-hybrid-duty-and-harm-descriptors",
@@ -3526,55 +3623,26 @@
             ]
           },
           {
-            "file": "core_08-08_misconduct.md",
+            "file": "core_10-10_misconduct.md",
             "count": 10,
             "anchors": [
               "#3-violation-axis-s-7-9-slot-assignment-incident-gravity",
               "#4-due-process-safeguards-for-slot-classification",
-              "#chapter-eight-anti-constitutional-misconduct"
+              "#chapter-ten-anti-constitutional-misconduct"
             ]
           },
           {
-            "file": "core_10-10_rights_part_a.md",
-            "count": 2,
-            "anchors": [
-              "#chapter-ten-foundational-rights"
-            ]
-          },
-          {
-            "file": "core_10-10_rights_part_b.md",
-            "count": 1,
-            "anchors": [
-              "#article-v-e-sentience-status-adjudication-floor"
-            ]
-          },
-          {
-            "file": "core_10-10_rights_part_c.md",
-            "count": 5,
-            "anchors": [
-              "#article-xii-b-right-to-challenge-review-and-redress"
-            ]
-          },
-          {
-            "file": "core_10-10_rights_part_d.md",
-            "count": 6,
-            "anchors": [
-              "#article-xxiii-a-justice-objective-and-scope",
-              "#article-xxiii-c-least-restrictive-and-time-bounded-rule"
-            ]
-          },
-          {
-            "file": "core_11-11_governance.md",
+            "file": "core_12-12_governance.md",
             "count": 3,
             "anchors": [
-              "#chapter-eleven-constitutional-contract-legitimacy-authorization-and-stewardship"
+              "#chapter-twelve-constitutional-contract-legitimacy-authorization-and-stewardship"
             ]
           },
           {
-            "file": "core_15-15_incorporation.md",
+            "file": "core_16-16_incorporation.md",
             "count": 2,
             "anchors": [
-              "#chapter-fifteen-incorporation-bridge"
+              "#chapter-sixteen-incorporation-bridge"
             ]
           },
           {
@@ -3595,7 +3663,7 @@
         ]
       },
       {
-        "source": "core_06-09_application_vignettes.md",
+        "source": "core_08-11_application_vignettes.md",
         "targets": [
           {
             "file": "core_00_preamble.md",
@@ -3627,21 +3695,34 @@
             ]
           },
           {
-            "file": "core_06-06_standing_assessment.md",
-            "count": 10,
+            "file": "core_06-06_rights_part_a.md",
+            "count": 1,
+            "anchors": []
+          },
+          {
+            "file": "core_06-06_rights_part_d.md",
+            "count": 2,
+            "anchors": [
+              "#article-xxiii-g-timely-resolution-and-anti-delay-floor"
+            ]
+          },
+          {
+            "file": "core_08-08_standing_assessment.md",
+            "count": 11,
             "anchors": [
               "#2-standing-records",
               "#22-linked-records-and-no-offset-bridge",
               "#231-related-record-cross-references",
               "#232-minimum-record-contents",
               "#237-forum-boundary",
+              "#34-question-1-classification-illustrations",
               "#6-classification-evaluation-dimensions",
-              "#chapters-six-nine-constitutional-compass",
+              "#chapters-eight-eleven-constitutional-compass",
               "#dual-use-classification-dimensions"
             ]
           },
           {
-            "file": "core_07-07_standing_integration.md",
+            "file": "core_09-09_standing_integration.md",
             "count": 5,
             "anchors": [
               "#210-safe-delegation-competency-gate-dimensions",
@@ -3650,29 +3731,17 @@
             ]
           },
           {
-            "file": "core_08-08_misconduct.md",
+            "file": "core_10-10_misconduct.md",
             "count": 1,
             "anchors": [
-              "#chapter-eight-anti-constitutional-misconduct"
+              "#chapter-ten-anti-constitutional-misconduct"
             ]
           },
           {
-            "file": "core_09-09_forum.md",
+            "file": "core_11-11_forum.md",
             "count": 2,
             "anchors": [
-              "#chapter-nine-forums-and-jurisdiction"
-            ]
-          },
-          {
-            "file": "core_10-10_rights_part_a.md",
-            "count": 1,
-            "anchors": []
-          },
-          {
-            "file": "core_10-10_rights_part_d.md",
-            "count": 2,
-            "anchors": [
-              "#article-xxiii-g-timely-resolution-and-anti-delay-floor"
+              "#chapter-eleven-forums-and-jurisdiction"
             ]
           },
           {
@@ -3685,7 +3754,7 @@
         ]
       },
       {
-        "source": "core_10-10_rights_part_a.md",
+        "source": "core_06-06_rights_part_a.md",
         "targets": [
           {
             "file": "core_00_preamble.md",
@@ -3883,12 +3952,12 @@
             ]
           },
           {
-            "file": "core_06-09_application_vignettes.md",
+            "file": "core_06-06_rights_part_b.md",
             "count": 1,
             "anchors": []
           },
           {
-            "file": "core_10-10_rights_part_b.md",
+            "file": "core_08-11_application_vignettes.md",
             "count": 1,
             "anchors": []
           },
@@ -3900,7 +3969,7 @@
         ]
       },
       {
-        "source": "core_10-10_rights_part_b.md",
+        "source": "core_06-06_rights_part_b.md",
         "targets": [
           {
             "file": "core_00_preamble.md",
@@ -4194,12 +4263,12 @@
             ]
           },
           {
-            "file": "core_10-10_rights_part_a.md",
+            "file": "core_06-06_rights_part_a.md",
             "count": 2,
             "anchors": []
           },
           {
-            "file": "core_10-10_rights_part_c.md",
+            "file": "core_06-06_rights_part_c.md",
             "count": 1,
             "anchors": []
           },
@@ -4211,7 +4280,7 @@
         ]
       },
       {
-        "source": "core_10-10_rights_part_c.md",
+        "source": "core_06-06_rights_part_c.md",
         "targets": [
           {
             "file": "core_00_preamble.md",
@@ -4463,17 +4532,17 @@
             ]
           },
           {
-            "file": "core_10-10_rights_part_a.md",
+            "file": "core_06-06_rights_part_a.md",
             "count": 1,
             "anchors": []
           },
           {
-            "file": "core_10-10_rights_part_b.md",
+            "file": "core_06-06_rights_part_b.md",
             "count": 1,
             "anchors": []
           },
           {
-            "file": "core_10-10_rights_part_d.md",
+            "file": "core_06-06_rights_part_d.md",
             "count": 1,
             "anchors": []
           },
@@ -4485,7 +4554,7 @@
         ]
       },
       {
-        "source": "core_10-10_rights_part_d.md",
+        "source": "core_06-06_rights_part_d.md",
         "targets": [
           {
             "file": "core_00_preamble.md",
@@ -4636,54 +4705,54 @@
             ]
           },
           {
-            "file": "core_06-06_standing_assessment.md",
-            "count": 4,
-            "anchors": [
-              "#chapters-six-nine-constitutional-compass",
-              "#verified-inputs-for-standing"
-            ]
-          },
-          {
-            "file": "core_07-07_standing_integration.md",
+            "file": "core_06-06_rights_part_a.md",
             "count": 1,
             "anchors": []
           },
           {
-            "file": "core_08-08_misconduct.md",
-            "count": 1,
-            "anchors": [
-              "#chapter-eight-anti-constitutional-misconduct"
-            ]
-          },
-          {
-            "file": "core_09-09_forum.md",
-            "count": 1,
-            "anchors": []
-          },
-          {
-            "file": "core_10-10_rights_part_a.md",
-            "count": 1,
-            "anchors": []
-          },
-          {
-            "file": "core_10-10_rights_part_c.md",
+            "file": "core_06-06_rights_part_c.md",
             "count": 2,
             "anchors": [
               "#article-xii-b-right-to-challenge-review-and-redress"
             ]
           },
           {
-            "file": "core_11-11_governance.md",
+            "file": "core_08-08_standing_assessment.md",
+            "count": 4,
+            "anchors": [
+              "#chapters-eight-eleven-constitutional-compass",
+              "#verified-inputs-for-standing"
+            ]
+          },
+          {
+            "file": "core_09-09_standing_integration.md",
+            "count": 1,
+            "anchors": []
+          },
+          {
+            "file": "core_10-10_misconduct.md",
+            "count": 1,
+            "anchors": [
+              "#chapter-ten-anti-constitutional-misconduct"
+            ]
+          },
+          {
+            "file": "core_11-11_forum.md",
+            "count": 1,
+            "anchors": []
+          },
+          {
+            "file": "core_12-12_governance.md",
             "count": 2,
             "anchors": []
           },
           {
-            "file": "core_12-14_amendment.md",
+            "file": "core_13-15_amendment.md",
             "count": 2,
             "anchors": []
           },
           {
-            "file": "core_15-15_incorporation.md",
+            "file": "core_16-16_incorporation.md",
             "count": 1,
             "anchors": []
           },
@@ -4695,7 +4764,7 @@
         ]
       },
       {
-        "source": "core_11-11_governance.md",
+        "source": "core_12-12_governance.md",
         "targets": [
           {
             "file": "core_00_preamble.md",
@@ -4798,28 +4867,14 @@
             ]
           },
           {
-            "file": "core_06-06_standing_assessment.md",
-            "count": 3,
-            "anchors": [
-              "#chapter-six-compliance-violation-and-standing-model"
-            ]
-          },
-          {
-            "file": "core_08-08_misconduct.md",
-            "count": 2,
-            "anchors": [
-              "#chapter-eight-anti-constitutional-misconduct"
-            ]
-          },
-          {
-            "file": "core_10-10_rights_part_a.md",
+            "file": "core_06-06_rights_part_a.md",
             "count": 6,
             "anchors": [
-              "#chapter-ten-foundational-rights"
+              "#chapter-six-foundational-rights"
             ]
           },
           {
-            "file": "core_10-10_rights_part_b.md",
+            "file": "core_06-06_rights_part_b.md",
             "count": 6,
             "anchors": [
               "#article-ix-c-governance-participation-and-voting-entitlement",
@@ -4830,25 +4885,39 @@
             ]
           },
           {
-            "file": "core_10-10_rights_part_c.md",
+            "file": "core_06-06_rights_part_c.md",
             "count": 2,
             "anchors": [
               "#article-xviii-standing-and-participation-status"
             ]
           },
           {
-            "file": "core_10-10_rights_part_d.md",
+            "file": "core_06-06_rights_part_d.md",
             "count": 3,
             "anchors": [
               "#article-xxiii-f-rights-collision-procedure-and-restorative-alignment"
             ]
           },
           {
-            "file": "core_12-14_amendment.md",
+            "file": "core_08-08_standing_assessment.md",
+            "count": 3,
+            "anchors": [
+              "#chapter-eight-compliance-violation-and-standing-model"
+            ]
+          },
+          {
+            "file": "core_10-10_misconduct.md",
+            "count": 2,
+            "anchors": [
+              "#chapter-ten-anti-constitutional-misconduct"
+            ]
+          },
+          {
+            "file": "core_13-15_amendment.md",
             "count": 4,
             "anchors": [
-              "#chapter-fourteen-amendment-ratification-and-procedural-validity",
-              "#chapter-twelve-non-regression-and-substantive-amendment-validity"
+              "#chapter-fifteen-amendment-ratification-and-procedural-validity",
+              "#chapter-thirteen-non-regression-and-substantive-amendment-validity"
             ]
           },
           {
@@ -4869,7 +4938,7 @@
         ]
       },
       {
-        "source": "core_12-14_amendment.md",
+        "source": "core_13-15_amendment.md",
         "targets": [
           {
             "file": "core_00_preamble.md",
@@ -4948,48 +5017,14 @@
             ]
           },
           {
-            "file": "core_06-06_standing_assessment.md",
-            "count": 9,
-            "anchors": [
-              "#31-slot-grammar-and-display-labels",
-              "#33-primary-category-defaults-and-lequ-slot-baseline",
-              "#chapter-six-compliance-violation-and-standing-model"
-            ]
-          },
-          {
-            "file": "core_07-07_standing_integration.md",
-            "count": 8,
-            "anchors": [
-              "#10-enforcement-realism-anchors",
-              "#10-violation-axis-s-7-9-anti-constitutional-misconduct-authoritative-location",
-              "#5-standing-effects"
-            ]
-          },
-          {
-            "file": "core_08-08_misconduct.md",
-            "count": 12,
-            "anchors": [
-              "#2-criteria-set-for-slot-assignment",
-              "#62-rights-floor-waivers-and-unconstitutional-contract-terms",
-              "#chapter-eight-anti-constitutional-misconduct"
-            ]
-          },
-          {
-            "file": "core_09-09_forum.md",
-            "count": 1,
-            "anchors": [
-              "#chapter-nine-forums-and-jurisdiction"
-            ]
-          },
-          {
-            "file": "core_10-10_rights_part_a.md",
+            "file": "core_06-06_rights_part_a.md",
             "count": 6,
             "anchors": [
-              "#chapter-ten-foundational-rights"
+              "#chapter-six-foundational-rights"
             ]
           },
           {
-            "file": "core_10-10_rights_part_b.md",
+            "file": "core_06-06_rights_part_b.md",
             "count": 4,
             "anchors": [
               "#article-x-b-collective-harm-boundary-and-enforcement-interface",
@@ -4998,20 +5033,54 @@
             ]
           },
           {
-            "file": "core_10-10_rights_part_d.md",
+            "file": "core_06-06_rights_part_d.md",
             "count": 5,
             "anchors": []
           },
           {
-            "file": "core_11-11_governance.md",
-            "count": 5,
+            "file": "core_08-08_standing_assessment.md",
+            "count": 9,
             "anchors": [
-              "#1-authorization-and-legitimacy-of-governing-authority",
-              "#chapter-eleven-constitutional-contract-legitimacy-authorization-and-stewardship"
+              "#31-slot-grammar-and-display-labels",
+              "#33-primary-category-defaults-and-lequ-slot-baseline",
+              "#chapter-eight-compliance-violation-and-standing-model"
             ]
           },
           {
-            "file": "core_12-14_amendment.md",
+            "file": "core_09-09_standing_integration.md",
+            "count": 8,
+            "anchors": [
+              "#10-enforcement-realism-anchors",
+              "#10-violation-axis-s-7-9-anti-constitutional-misconduct-authoritative-location",
+              "#5-standing-effects"
+            ]
+          },
+          {
+            "file": "core_10-10_misconduct.md",
+            "count": 12,
+            "anchors": [
+              "#2-criteria-set-for-slot-assignment",
+              "#62-rights-floor-waivers-and-unconstitutional-contract-terms",
+              "#chapter-ten-anti-constitutional-misconduct"
+            ]
+          },
+          {
+            "file": "core_11-11_forum.md",
+            "count": 1,
+            "anchors": [
+              "#chapter-eleven-forums-and-jurisdiction"
+            ]
+          },
+          {
+            "file": "core_12-12_governance.md",
+            "count": 5,
+            "anchors": [
+              "#1-authorization-and-legitimacy-of-governing-authority",
+              "#chapter-twelve-constitutional-contract-legitimacy-authorization-and-stewardship"
+            ]
+          },
+          {
+            "file": "core_13-15_amendment.md",
             "count": 19,
             "anchors": [
               "#12-scope-limit-and-layer-discipline",
@@ -5019,13 +5088,13 @@
               "#31-internal-hierarchy-for-adopters",
               "#4-scope-limit-and-layer-discipline",
               "#8-provisional-effect-rule",
-              "#chapter-fourteen-amendment-ratification-and-procedural-validity",
-              "#chapter-thirteen-expansion-supremacy-and-external-legal-orders",
-              "#chapter-twelve-non-regression-and-substantive-amendment-validity"
+              "#chapter-fifteen-amendment-ratification-and-procedural-validity",
+              "#chapter-fourteen-expansion-supremacy-and-external-legal-orders",
+              "#chapter-thirteen-non-regression-and-substantive-amendment-validity"
             ]
           },
           {
-            "file": "core_15-15_incorporation.md",
+            "file": "core_16-16_incorporation.md",
             "count": 1,
             "anchors": []
           },
@@ -5037,7 +5106,7 @@
         ]
       },
       {
-        "source": "core_15-15_incorporation.md",
+        "source": "core_16-16_incorporation.md",
         "targets": [
           {
             "file": "core_00_preamble.md",
@@ -5121,49 +5190,49 @@
             ]
           },
           {
-            "file": "core_06-06_standing_assessment.md",
+            "file": "core_06-06_rights_part_a.md",
             "count": 2,
             "anchors": [
-              "#chapter-six-compliance-violation-and-standing-model"
+              "#chapter-six-foundational-rights"
             ]
           },
           {
-            "file": "core_08-08_misconduct.md",
-            "count": 1,
-            "anchors": [
-              "#chapter-eight-anti-constitutional-misconduct"
-            ]
-          },
-          {
-            "file": "core_09-09_forum.md",
-            "count": 1,
-            "anchors": [
-              "#chapter-nine-forums-and-jurisdiction"
-            ]
-          },
-          {
-            "file": "core_10-10_rights_part_a.md",
+            "file": "core_08-08_standing_assessment.md",
             "count": 2,
             "anchors": [
-              "#chapter-ten-foundational-rights"
+              "#chapter-eight-compliance-violation-and-standing-model"
             ]
           },
           {
-            "file": "core_11-11_governance.md",
+            "file": "core_10-10_misconduct.md",
+            "count": 1,
+            "anchors": [
+              "#chapter-ten-anti-constitutional-misconduct"
+            ]
+          },
+          {
+            "file": "core_11-11_forum.md",
+            "count": 1,
+            "anchors": [
+              "#chapter-eleven-forums-and-jurisdiction"
+            ]
+          },
+          {
+            "file": "core_12-12_governance.md",
             "count": 2,
             "anchors": [
               "#1-authorization-and-legitimacy-of-governing-authority",
-              "#chapter-eleven-constitutional-contract-legitimacy-authorization-and-stewardship"
+              "#chapter-twelve-constitutional-contract-legitimacy-authorization-and-stewardship"
             ]
           },
           {
-            "file": "core_12-14_amendment.md",
+            "file": "core_13-15_amendment.md",
             "count": 11,
             "anchors": [
               "#3-anti-evasion-clause-and-constitutional-misconduct-referral",
-              "#chapter-fourteen-amendment-ratification-and-procedural-validity",
-              "#chapter-thirteen-expansion-supremacy-and-external-legal-orders",
-              "#chapter-twelve-non-regression-and-substantive-amendment-validity"
+              "#chapter-fifteen-amendment-ratification-and-procedural-validity",
+              "#chapter-fourteen-expansion-supremacy-and-external-legal-orders",
+              "#chapter-thirteen-non-regression-and-substantive-amendment-validity"
             ]
           },
           {
@@ -5646,10 +5715,10 @@
             ]
           },
           {
-            "file": "core_15-15_incorporation.md",
+            "file": "core_16-16_incorporation.md",
             "count": 6,
             "anchors": [
-              "#chapter-fifteen-incorporation-bridge"
+              "#chapter-sixteen-incorporation-bridge"
             ]
           },
           {
@@ -5799,10 +5868,10 @@
             ]
           },
           {
-            "file": "core_15-15_incorporation.md",
+            "file": "core_16-16_incorporation.md",
             "count": 6,
             "anchors": [
-              "#chapter-fifteen-incorporation-bridge"
+              "#chapter-sixteen-incorporation-bridge"
             ]
           },
           {
@@ -5851,10 +5920,10 @@
             ]
           },
           {
-            "file": "core_15-15_incorporation.md",
+            "file": "core_16-16_incorporation.md",
             "count": 4,
             "anchors": [
-              "#chapter-fifteen-incorporation-bridge"
+              "#chapter-sixteen-incorporation-bridge"
             ]
           },
           {
@@ -5972,17 +6041,17 @@
             ]
           },
           {
-            "file": "core_09-09_forum.md",
+            "file": "core_11-11_forum.md",
             "count": 1,
             "anchors": [
-              "#chapter-nine-forums-and-jurisdiction"
+              "#chapter-eleven-forums-and-jurisdiction"
             ]
           },
           {
-            "file": "core_15-15_incorporation.md",
+            "file": "core_16-16_incorporation.md",
             "count": 7,
             "anchors": [
-              "#chapter-fifteen-incorporation-bridge"
+              "#chapter-sixteen-incorporation-bridge"
             ]
           },
           {
@@ -6104,10 +6173,10 @@
             ]
           },
           {
-            "file": "core_15-15_incorporation.md",
+            "file": "core_16-16_incorporation.md",
             "count": 8,
             "anchors": [
-              "#chapter-fifteen-incorporation-bridge"
+              "#chapter-sixteen-incorporation-bridge"
             ]
           },
           {
@@ -6231,10 +6300,10 @@
             ]
           },
           {
-            "file": "core_15-15_incorporation.md",
+            "file": "core_16-16_incorporation.md",
             "count": 2,
             "anchors": [
-              "#chapter-fifteen-incorporation-bridge"
+              "#chapter-sixteen-incorporation-bridge"
             ]
           },
           {
@@ -6383,10 +6452,10 @@
             ]
           },
           {
-            "file": "core_15-15_incorporation.md",
+            "file": "core_16-16_incorporation.md",
             "count": 6,
             "anchors": [
-              "#chapter-fifteen-incorporation-bridge"
+              "#chapter-sixteen-incorporation-bridge"
             ]
           },
           {
@@ -6523,10 +6592,10 @@
             ]
           },
           {
-            "file": "core_15-15_incorporation.md",
+            "file": "core_16-16_incorporation.md",
             "count": 7,
             "anchors": [
-              "#chapter-fifteen-incorporation-bridge"
+              "#chapter-sixteen-incorporation-bridge"
             ]
           },
           {
@@ -6645,10 +6714,10 @@
             ]
           },
           {
-            "file": "core_15-15_incorporation.md",
+            "file": "core_16-16_incorporation.md",
             "count": 3,
             "anchors": [
-              "#chapter-fifteen-incorporation-bridge"
+              "#chapter-sixteen-incorporation-bridge"
             ]
           },
           {
@@ -6786,10 +6855,10 @@
             ]
           },
           {
-            "file": "core_15-15_incorporation.md",
+            "file": "core_16-16_incorporation.md",
             "count": 6,
             "anchors": [
-              "#chapter-fifteen-incorporation-bridge"
+              "#chapter-sixteen-incorporation-bridge"
             ]
           },
           {
@@ -6928,10 +6997,10 @@
             ]
           },
           {
-            "file": "core_15-15_incorporation.md",
+            "file": "core_16-16_incorporation.md",
             "count": 5,
             "anchors": [
-              "#chapter-fifteen-incorporation-bridge"
+              "#chapter-sixteen-incorporation-bridge"
             ]
           },
           {
@@ -7001,22 +7070,22 @@
             ]
           },
           {
-            "file": "core_06-06_standing_assessment.md",
+            "file": "core_08-08_standing_assessment.md",
             "count": 1,
             "anchors": []
           },
           {
-            "file": "core_07-07_standing_integration.md",
+            "file": "core_09-09_standing_integration.md",
             "count": 1,
             "anchors": [
               "#38-standing-integration-contribution-and-violation-nature"
             ]
           },
           {
-            "file": "core_15-15_incorporation.md",
+            "file": "core_16-16_incorporation.md",
             "count": 3,
             "anchors": [
-              "#chapter-fifteen-incorporation-bridge"
+              "#chapter-sixteen-incorporation-bridge"
             ]
           },
           {
@@ -7149,10 +7218,10 @@
             ]
           },
           {
-            "file": "core_15-15_incorporation.md",
+            "file": "core_16-16_incorporation.md",
             "count": 1,
             "anchors": [
-              "#chapter-fifteen-incorporation-bridge"
+              "#chapter-sixteen-incorporation-bridge"
             ]
           },
           {
@@ -7197,10 +7266,10 @@
             ]
           },
           {
-            "file": "core_15-15_incorporation.md",
+            "file": "core_16-16_incorporation.md",
             "count": 4,
             "anchors": [
-              "#chapter-fifteen-incorporation-bridge"
+              "#chapter-sixteen-incorporation-bridge"
             ]
           },
           {
@@ -7558,10 +7627,10 @@
             ]
           },
           {
-            "file": "core_15-15_incorporation.md",
+            "file": "core_16-16_incorporation.md",
             "count": 3,
             "anchors": [
-              "#chapter-fifteen-incorporation-bridge"
+              "#chapter-sixteen-incorporation-bridge"
             ]
           },
           {
@@ -7826,24 +7895,24 @@
             ]
           },
           {
-            "file": "core_08-08_misconduct.md",
+            "file": "core_06-06_rights_part_a.md",
+            "count": 5,
+            "anchors": [
+              "#chapter-six-foundational-rights"
+            ]
+          },
+          {
+            "file": "core_10-10_misconduct.md",
             "count": 1,
             "anchors": [
-              "#chapter-eight-anti-constitutional-misconduct"
+              "#chapter-ten-anti-constitutional-misconduct"
             ]
           },
           {
-            "file": "core_10-10_rights_part_a.md",
+            "file": "core_16-16_incorporation.md",
             "count": 5,
             "anchors": [
-              "#chapter-ten-foundational-rights"
-            ]
-          },
-          {
-            "file": "core_15-15_incorporation.md",
-            "count": 5,
-            "anchors": [
-              "#chapter-fifteen-incorporation-bridge"
+              "#chapter-sixteen-incorporation-bridge"
             ]
           },
           {
@@ -7893,17 +7962,17 @@
             ]
           },
           {
-            "file": "core_10-10_rights_part_a.md",
+            "file": "core_06-06_rights_part_a.md",
             "count": 3,
             "anchors": [
-              "#chapter-ten-foundational-rights"
+              "#chapter-six-foundational-rights"
             ]
           },
           {
-            "file": "core_15-15_incorporation.md",
+            "file": "core_16-16_incorporation.md",
             "count": 3,
             "anchors": [
-              "#chapter-fifteen-incorporation-bridge"
+              "#chapter-sixteen-incorporation-bridge"
             ]
           },
           {
@@ -8035,17 +8104,17 @@
             ]
           },
           {
-            "file": "core_10-10_rights_part_a.md",
+            "file": "core_06-06_rights_part_a.md",
             "count": 6,
             "anchors": [
-              "#chapter-ten-foundational-rights"
+              "#chapter-six-foundational-rights"
             ]
           },
           {
-            "file": "core_15-15_incorporation.md",
+            "file": "core_16-16_incorporation.md",
             "count": 6,
             "anchors": [
-              "#chapter-fifteen-incorporation-bridge"
+              "#chapter-sixteen-incorporation-bridge"
             ]
           },
           {
@@ -8162,17 +8231,17 @@
             ]
           },
           {
-            "file": "core_10-10_rights_part_a.md",
+            "file": "core_06-06_rights_part_a.md",
             "count": 6,
             "anchors": [
-              "#chapter-ten-foundational-rights"
+              "#chapter-six-foundational-rights"
             ]
           },
           {
-            "file": "core_15-15_incorporation.md",
+            "file": "core_16-16_incorporation.md",
             "count": 6,
             "anchors": [
-              "#chapter-fifteen-incorporation-bridge"
+              "#chapter-sixteen-incorporation-bridge"
             ]
           },
           {
@@ -8274,17 +8343,17 @@
             ]
           },
           {
-            "file": "core_10-10_rights_part_a.md",
+            "file": "core_06-06_rights_part_a.md",
             "count": 4,
             "anchors": [
-              "#chapter-ten-foundational-rights"
+              "#chapter-six-foundational-rights"
             ]
           },
           {
-            "file": "core_15-15_incorporation.md",
+            "file": "core_16-16_incorporation.md",
             "count": 4,
             "anchors": [
-              "#chapter-fifteen-incorporation-bridge"
+              "#chapter-sixteen-incorporation-bridge"
             ]
           },
           {
@@ -8374,17 +8443,17 @@
             ]
           },
           {
-            "file": "core_10-10_rights_part_a.md",
+            "file": "core_06-06_rights_part_a.md",
             "count": 1,
             "anchors": [
-              "#chapter-ten-foundational-rights"
+              "#chapter-six-foundational-rights"
             ]
           },
           {
-            "file": "core_15-15_incorporation.md",
+            "file": "core_16-16_incorporation.md",
             "count": 1,
             "anchors": [
-              "#chapter-fifteen-incorporation-bridge"
+              "#chapter-sixteen-incorporation-bridge"
             ]
           },
           {
@@ -8492,17 +8561,17 @@
             ]
           },
           {
-            "file": "core_10-10_rights_part_a.md",
+            "file": "core_06-06_rights_part_a.md",
             "count": 4,
             "anchors": [
-              "#chapter-ten-foundational-rights"
+              "#chapter-six-foundational-rights"
             ]
           },
           {
-            "file": "core_15-15_incorporation.md",
+            "file": "core_16-16_incorporation.md",
             "count": 4,
             "anchors": [
-              "#chapter-fifteen-incorporation-bridge"
+              "#chapter-sixteen-incorporation-bridge"
             ]
           },
           {
@@ -8625,17 +8694,17 @@
             ]
           },
           {
-            "file": "core_10-10_rights_part_a.md",
+            "file": "core_06-06_rights_part_a.md",
             "count": 5,
             "anchors": [
-              "#chapter-ten-foundational-rights"
+              "#chapter-six-foundational-rights"
             ]
           },
           {
-            "file": "core_15-15_incorporation.md",
+            "file": "core_16-16_incorporation.md",
             "count": 5,
             "anchors": [
-              "#chapter-fifteen-incorporation-bridge"
+              "#chapter-sixteen-incorporation-bridge"
             ]
           },
           {
@@ -8783,17 +8852,17 @@
             ]
           },
           {
-            "file": "core_10-10_rights_part_a.md",
+            "file": "core_06-06_rights_part_a.md",
             "count": 9,
             "anchors": [
-              "#chapter-ten-foundational-rights"
+              "#chapter-six-foundational-rights"
             ]
           },
           {
-            "file": "core_15-15_incorporation.md",
+            "file": "core_16-16_incorporation.md",
             "count": 9,
             "anchors": [
-              "#chapter-fifteen-incorporation-bridge"
+              "#chapter-sixteen-incorporation-bridge"
             ]
           },
           {
@@ -8907,17 +8976,17 @@
             ]
           },
           {
-            "file": "core_10-10_rights_part_a.md",
+            "file": "core_06-06_rights_part_a.md",
             "count": 3,
             "anchors": [
-              "#chapter-ten-foundational-rights"
+              "#chapter-six-foundational-rights"
             ]
           },
           {
-            "file": "core_15-15_incorporation.md",
+            "file": "core_16-16_incorporation.md",
             "count": 3,
             "anchors": [
-              "#chapter-fifteen-incorporation-bridge"
+              "#chapter-sixteen-incorporation-bridge"
             ]
           },
           {
@@ -9007,17 +9076,17 @@
             ]
           },
           {
-            "file": "core_10-10_rights_part_a.md",
+            "file": "core_06-06_rights_part_a.md",
             "count": 1,
             "anchors": [
-              "#chapter-ten-foundational-rights"
+              "#chapter-six-foundational-rights"
             ]
           },
           {
-            "file": "core_15-15_incorporation.md",
+            "file": "core_16-16_incorporation.md",
             "count": 1,
             "anchors": [
-              "#chapter-fifteen-incorporation-bridge"
+              "#chapter-sixteen-incorporation-bridge"
             ]
           },
           {
@@ -9107,17 +9176,17 @@
             ]
           },
           {
-            "file": "core_10-10_rights_part_a.md",
+            "file": "core_06-06_rights_part_a.md",
             "count": 1,
             "anchors": [
-              "#chapter-ten-foundational-rights"
+              "#chapter-six-foundational-rights"
             ]
           },
           {
-            "file": "core_15-15_incorporation.md",
+            "file": "core_16-16_incorporation.md",
             "count": 1,
             "anchors": [
-              "#chapter-fifteen-incorporation-bridge"
+              "#chapter-sixteen-incorporation-bridge"
             ]
           },
           {
@@ -9207,17 +9276,17 @@
             ]
           },
           {
-            "file": "core_10-10_rights_part_a.md",
+            "file": "core_06-06_rights_part_a.md",
             "count": 1,
             "anchors": [
-              "#chapter-ten-foundational-rights"
+              "#chapter-six-foundational-rights"
             ]
           },
           {
-            "file": "core_15-15_incorporation.md",
+            "file": "core_16-16_incorporation.md",
             "count": 1,
             "anchors": [
-              "#chapter-fifteen-incorporation-bridge"
+              "#chapter-sixteen-incorporation-bridge"
             ]
           },
           {
@@ -9331,17 +9400,17 @@
             ]
           },
           {
-            "file": "core_10-10_rights_part_a.md",
+            "file": "core_06-06_rights_part_a.md",
             "count": 3,
             "anchors": [
-              "#chapter-ten-foundational-rights"
+              "#chapter-six-foundational-rights"
             ]
           },
           {
-            "file": "core_15-15_incorporation.md",
+            "file": "core_16-16_incorporation.md",
             "count": 3,
             "anchors": [
-              "#chapter-fifteen-incorporation-bridge"
+              "#chapter-sixteen-incorporation-bridge"
             ]
           },
           {
@@ -9425,17 +9494,17 @@
             ]
           },
           {
-            "file": "core_10-10_rights_part_a.md",
+            "file": "core_06-06_rights_part_a.md",
             "count": 1,
             "anchors": [
-              "#chapter-ten-foundational-rights"
+              "#chapter-six-foundational-rights"
             ]
           },
           {
-            "file": "core_15-15_incorporation.md",
+            "file": "core_16-16_incorporation.md",
             "count": 1,
             "anchors": [
-              "#chapter-fifteen-incorporation-bridge"
+              "#chapter-sixteen-incorporation-bridge"
             ]
           },
           {
@@ -9525,17 +9594,17 @@
             ]
           },
           {
-            "file": "core_10-10_rights_part_a.md",
+            "file": "core_06-06_rights_part_a.md",
             "count": 1,
             "anchors": [
-              "#chapter-ten-foundational-rights"
+              "#chapter-six-foundational-rights"
             ]
           },
           {
-            "file": "core_15-15_incorporation.md",
+            "file": "core_16-16_incorporation.md",
             "count": 1,
             "anchors": [
-              "#chapter-fifteen-incorporation-bridge"
+              "#chapter-sixteen-incorporation-bridge"
             ]
           },
           {
@@ -9625,17 +9694,17 @@
             ]
           },
           {
-            "file": "core_10-10_rights_part_a.md",
+            "file": "core_06-06_rights_part_a.md",
             "count": 1,
             "anchors": [
-              "#chapter-ten-foundational-rights"
+              "#chapter-six-foundational-rights"
             ]
           },
           {
-            "file": "core_15-15_incorporation.md",
+            "file": "core_16-16_incorporation.md",
             "count": 1,
             "anchors": [
-              "#chapter-fifteen-incorporation-bridge"
+              "#chapter-sixteen-incorporation-bridge"
             ]
           },
           {
@@ -9725,17 +9794,17 @@
             ]
           },
           {
-            "file": "core_10-10_rights_part_a.md",
+            "file": "core_06-06_rights_part_a.md",
             "count": 1,
             "anchors": [
-              "#chapter-ten-foundational-rights"
+              "#chapter-six-foundational-rights"
             ]
           },
           {
-            "file": "core_15-15_incorporation.md",
+            "file": "core_16-16_incorporation.md",
             "count": 1,
             "anchors": [
-              "#chapter-fifteen-incorporation-bridge"
+              "#chapter-sixteen-incorporation-bridge"
             ]
           },
           {
@@ -9819,17 +9888,17 @@
             ]
           },
           {
-            "file": "core_10-10_rights_part_a.md",
+            "file": "core_06-06_rights_part_a.md",
             "count": 1,
             "anchors": [
-              "#chapter-ten-foundational-rights"
+              "#chapter-six-foundational-rights"
             ]
           },
           {
-            "file": "core_15-15_incorporation.md",
+            "file": "core_16-16_incorporation.md",
             "count": 1,
             "anchors": [
-              "#chapter-fifteen-incorporation-bridge"
+              "#chapter-sixteen-incorporation-bridge"
             ]
           },
           {
@@ -9925,17 +9994,17 @@
             ]
           },
           {
-            "file": "core_10-10_rights_part_a.md",
+            "file": "core_06-06_rights_part_a.md",
             "count": 1,
             "anchors": [
-              "#chapter-ten-foundational-rights"
+              "#chapter-six-foundational-rights"
             ]
           },
           {
-            "file": "core_15-15_incorporation.md",
+            "file": "core_16-16_incorporation.md",
             "count": 1,
             "anchors": [
-              "#chapter-fifteen-incorporation-bridge"
+              "#chapter-sixteen-incorporation-bridge"
             ]
           },
           {
@@ -10028,17 +10097,17 @@
             ]
           },
           {
-            "file": "core_10-10_rights_part_a.md",
+            "file": "core_06-06_rights_part_a.md",
             "count": 4,
             "anchors": [
-              "#chapter-ten-foundational-rights"
+              "#chapter-six-foundational-rights"
             ]
           },
           {
-            "file": "core_15-15_incorporation.md",
+            "file": "core_16-16_incorporation.md",
             "count": 4,
             "anchors": [
-              "#chapter-fifteen-incorporation-bridge"
+              "#chapter-sixteen-incorporation-bridge"
             ]
           },
           {
@@ -10128,17 +10197,17 @@
             ]
           },
           {
-            "file": "core_10-10_rights_part_a.md",
+            "file": "core_06-06_rights_part_a.md",
             "count": 1,
             "anchors": [
-              "#chapter-ten-foundational-rights"
+              "#chapter-six-foundational-rights"
             ]
           },
           {
-            "file": "core_15-15_incorporation.md",
+            "file": "core_16-16_incorporation.md",
             "count": 1,
             "anchors": [
-              "#chapter-fifteen-incorporation-bridge"
+              "#chapter-sixteen-incorporation-bridge"
             ]
           },
           {
@@ -10228,17 +10297,17 @@
             ]
           },
           {
-            "file": "core_10-10_rights_part_a.md",
+            "file": "core_06-06_rights_part_a.md",
             "count": 1,
             "anchors": [
-              "#chapter-ten-foundational-rights"
+              "#chapter-six-foundational-rights"
             ]
           },
           {
-            "file": "core_15-15_incorporation.md",
+            "file": "core_16-16_incorporation.md",
             "count": 1,
             "anchors": [
-              "#chapter-fifteen-incorporation-bridge"
+              "#chapter-sixteen-incorporation-bridge"
             ]
           },
           {
@@ -10322,17 +10391,17 @@
             ]
           },
           {
-            "file": "core_10-10_rights_part_a.md",
+            "file": "core_06-06_rights_part_a.md",
             "count": 1,
             "anchors": [
-              "#chapter-ten-foundational-rights"
+              "#chapter-six-foundational-rights"
             ]
           },
           {
-            "file": "core_15-15_incorporation.md",
+            "file": "core_16-16_incorporation.md",
             "count": 1,
             "anchors": [
-              "#chapter-fifteen-incorporation-bridge"
+              "#chapter-sixteen-incorporation-bridge"
             ]
           },
           {
@@ -10416,17 +10485,17 @@
             ]
           },
           {
-            "file": "core_10-10_rights_part_a.md",
+            "file": "core_06-06_rights_part_a.md",
             "count": 6,
             "anchors": [
-              "#chapter-ten-foundational-rights"
+              "#chapter-six-foundational-rights"
             ]
           },
           {
-            "file": "core_15-15_incorporation.md",
+            "file": "core_16-16_incorporation.md",
             "count": 6,
             "anchors": [
-              "#chapter-fifteen-incorporation-bridge"
+              "#chapter-sixteen-incorporation-bridge"
             ]
           },
           {
@@ -10516,17 +10585,17 @@
             ]
           },
           {
-            "file": "core_10-10_rights_part_a.md",
+            "file": "core_06-06_rights_part_a.md",
             "count": 1,
             "anchors": [
-              "#chapter-ten-foundational-rights"
+              "#chapter-six-foundational-rights"
             ]
           },
           {
-            "file": "core_15-15_incorporation.md",
+            "file": "core_16-16_incorporation.md",
             "count": 1,
             "anchors": [
-              "#chapter-fifteen-incorporation-bridge"
+              "#chapter-sixteen-incorporation-bridge"
             ]
           },
           {
@@ -10621,24 +10690,24 @@
             ]
           },
           {
-            "file": "core_06-06_standing_assessment.md",
+            "file": "core_08-08_standing_assessment.md",
             "count": 1,
             "anchors": [
-              "#chapters-six-nine-constitutional-compass"
+              "#chapters-eight-eleven-constitutional-compass"
             ]
           },
           {
-            "file": "core_09-09_forum.md",
+            "file": "core_11-11_forum.md",
             "count": 4,
             "anchors": [
-              "#chapter-nine-forums-and-jurisdiction"
+              "#chapter-eleven-forums-and-jurisdiction"
             ]
           },
           {
-            "file": "core_15-15_incorporation.md",
+            "file": "core_16-16_incorporation.md",
             "count": 3,
             "anchors": [
-              "#chapter-fifteen-incorporation-bridge"
+              "#chapter-sixteen-incorporation-bridge"
             ]
           },
           {
@@ -10796,17 +10865,17 @@
             ]
           },
           {
-            "file": "core_09-09_forum.md",
+            "file": "core_11-11_forum.md",
             "count": 1,
             "anchors": [
-              "#chapter-nine-forums-and-jurisdiction"
+              "#chapter-eleven-forums-and-jurisdiction"
             ]
           },
           {
-            "file": "core_15-15_incorporation.md",
+            "file": "core_16-16_incorporation.md",
             "count": 1,
             "anchors": [
-              "#chapter-fifteen-incorporation-bridge"
+              "#chapter-sixteen-incorporation-bridge"
             ]
           },
           {
@@ -10846,17 +10915,17 @@
             ]
           },
           {
-            "file": "core_09-09_forum.md",
+            "file": "core_11-11_forum.md",
             "count": 4,
             "anchors": [
-              "#chapter-nine-forums-and-jurisdiction"
+              "#chapter-eleven-forums-and-jurisdiction"
             ]
           },
           {
-            "file": "core_15-15_incorporation.md",
+            "file": "core_16-16_incorporation.md",
             "count": 4,
             "anchors": [
-              "#chapter-fifteen-incorporation-bridge"
+              "#chapter-sixteen-incorporation-bridge"
             ]
           },
           {
@@ -10997,17 +11066,17 @@
             ]
           },
           {
-            "file": "core_09-09_forum.md",
+            "file": "core_11-11_forum.md",
             "count": 9,
             "anchors": [
-              "#chapter-nine-forums-and-jurisdiction"
+              "#chapter-eleven-forums-and-jurisdiction"
             ]
           },
           {
-            "file": "core_15-15_incorporation.md",
+            "file": "core_16-16_incorporation.md",
             "count": 9,
             "anchors": [
-              "#chapter-fifteen-incorporation-bridge"
+              "#chapter-sixteen-incorporation-bridge"
             ]
           },
           {
@@ -11134,7 +11203,7 @@
             ]
           },
           {
-            "file": "core_06-06_standing_assessment.md",
+            "file": "core_08-08_standing_assessment.md",
             "count": 8,
             "anchors": [
               "#232-minimum-record-contents",
@@ -11143,31 +11212,31 @@
             ]
           },
           {
-            "file": "core_07-07_standing_integration.md",
+            "file": "core_09-09_standing_integration.md",
             "count": 2,
             "anchors": [
               "#8-cross-axis-coupling-and-escalation-constraints"
             ]
           },
           {
-            "file": "core_08-08_misconduct.md",
+            "file": "core_10-10_misconduct.md",
             "count": 2,
             "anchors": [
               "#2-criteria-set-for-slot-assignment"
             ]
           },
           {
-            "file": "core_09-09_forum.md",
+            "file": "core_11-11_forum.md",
             "count": 18,
             "anchors": [
-              "#chapter-nine-forums-and-jurisdiction"
+              "#chapter-eleven-forums-and-jurisdiction"
             ]
           },
           {
-            "file": "core_15-15_incorporation.md",
+            "file": "core_16-16_incorporation.md",
             "count": 14,
             "anchors": [
-              "#chapter-fifteen-incorporation-bridge"
+              "#chapter-sixteen-incorporation-bridge"
             ]
           },
           {
@@ -11255,17 +11324,17 @@
             ]
           },
           {
-            "file": "core_09-09_forum.md",
+            "file": "core_11-11_forum.md",
             "count": 4,
             "anchors": [
-              "#chapter-nine-forums-and-jurisdiction"
+              "#chapter-eleven-forums-and-jurisdiction"
             ]
           },
           {
-            "file": "core_15-15_incorporation.md",
+            "file": "core_16-16_incorporation.md",
             "count": 3,
             "anchors": [
-              "#chapter-fifteen-incorporation-bridge"
+              "#chapter-sixteen-incorporation-bridge"
             ]
           },
           {
@@ -11389,17 +11458,17 @@
             ]
           },
           {
-            "file": "core_09-09_forum.md",
+            "file": "core_11-11_forum.md",
             "count": 13,
             "anchors": [
-              "#chapter-nine-forums-and-jurisdiction"
+              "#chapter-eleven-forums-and-jurisdiction"
             ]
           },
           {
-            "file": "core_15-15_incorporation.md",
+            "file": "core_16-16_incorporation.md",
             "count": 13,
             "anchors": [
-              "#chapter-fifteen-incorporation-bridge"
+              "#chapter-sixteen-incorporation-bridge"
             ]
           },
           {
@@ -11547,17 +11616,17 @@
             ]
           },
           {
-            "file": "core_09-09_forum.md",
+            "file": "core_11-11_forum.md",
             "count": 24,
             "anchors": [
-              "#chapter-nine-forums-and-jurisdiction"
+              "#chapter-eleven-forums-and-jurisdiction"
             ]
           },
           {
-            "file": "core_15-15_incorporation.md",
+            "file": "core_16-16_incorporation.md",
             "count": 24,
             "anchors": [
-              "#chapter-fifteen-incorporation-bridge"
+              "#chapter-sixteen-incorporation-bridge"
             ]
           },
           {
@@ -11681,17 +11750,17 @@
             ]
           },
           {
-            "file": "core_09-09_forum.md",
+            "file": "core_11-11_forum.md",
             "count": 7,
             "anchors": [
-              "#chapter-nine-forums-and-jurisdiction"
+              "#chapter-eleven-forums-and-jurisdiction"
             ]
           },
           {
-            "file": "core_15-15_incorporation.md",
+            "file": "core_16-16_incorporation.md",
             "count": 7,
             "anchors": [
-              "#chapter-fifteen-incorporation-bridge"
+              "#chapter-sixteen-incorporation-bridge"
             ]
           },
           {
@@ -11830,17 +11899,17 @@
             ]
           },
           {
-            "file": "core_09-09_forum.md",
+            "file": "core_11-11_forum.md",
             "count": 11,
             "anchors": [
-              "#chapter-nine-forums-and-jurisdiction"
+              "#chapter-eleven-forums-and-jurisdiction"
             ]
           },
           {
-            "file": "core_15-15_incorporation.md",
+            "file": "core_16-16_incorporation.md",
             "count": 11,
             "anchors": [
-              "#chapter-fifteen-incorporation-bridge"
+              "#chapter-sixteen-incorporation-bridge"
             ]
           },
           {
@@ -11967,17 +12036,17 @@
             ]
           },
           {
-            "file": "core_09-09_forum.md",
+            "file": "core_11-11_forum.md",
             "count": 16,
             "anchors": [
-              "#chapter-nine-forums-and-jurisdiction"
+              "#chapter-eleven-forums-and-jurisdiction"
             ]
           },
           {
-            "file": "core_15-15_incorporation.md",
+            "file": "core_16-16_incorporation.md",
             "count": 16,
             "anchors": [
-              "#chapter-fifteen-incorporation-bridge"
+              "#chapter-sixteen-incorporation-bridge"
             ]
           },
           {
@@ -12122,7 +12191,7 @@
             ]
           },
           {
-            "file": "core_06-06_standing_assessment.md",
+            "file": "core_08-08_standing_assessment.md",
             "count": 2,
             "anchors": [
               "#2-standing-records",
@@ -12130,32 +12199,32 @@
             ]
           },
           {
-            "file": "core_06-09_application_vignettes.md",
+            "file": "core_08-11_application_vignettes.md",
             "count": 1,
             "anchors": [
-              "#chapters-six-nine-application-vignettes"
+              "#chapters-eight-eleven-application-vignettes"
             ]
           },
           {
-            "file": "core_07-07_standing_integration.md",
+            "file": "core_09-09_standing_integration.md",
             "count": 2,
             "anchors": [
               "#52-remedy-organ-durability",
-              "#chapter-seven-standing-effects-and-integration"
+              "#chapter-nine-standing-effects-and-integration"
             ]
           },
           {
-            "file": "core_09-09_forum.md",
+            "file": "core_11-11_forum.md",
             "count": 19,
             "anchors": [
-              "#chapter-nine-forums-and-jurisdiction"
+              "#chapter-eleven-forums-and-jurisdiction"
             ]
           },
           {
-            "file": "core_15-15_incorporation.md",
+            "file": "core_16-16_incorporation.md",
             "count": 19,
             "anchors": [
-              "#chapter-fifteen-incorporation-bridge"
+              "#chapter-sixteen-incorporation-bridge"
             ]
           },
           {
@@ -12261,17 +12330,17 @@
             ]
           },
           {
-            "file": "core_09-09_forum.md",
+            "file": "core_11-11_forum.md",
             "count": 9,
             "anchors": [
-              "#chapter-nine-forums-and-jurisdiction"
+              "#chapter-eleven-forums-and-jurisdiction"
             ]
           },
           {
-            "file": "core_15-15_incorporation.md",
+            "file": "core_16-16_incorporation.md",
             "count": 9,
             "anchors": [
-              "#chapter-fifteen-incorporation-bridge"
+              "#chapter-sixteen-incorporation-bridge"
             ]
           },
           {
@@ -12377,17 +12446,17 @@
             ]
           },
           {
-            "file": "core_09-09_forum.md",
+            "file": "core_11-11_forum.md",
             "count": 5,
             "anchors": [
-              "#chapter-nine-forums-and-jurisdiction"
+              "#chapter-eleven-forums-and-jurisdiction"
             ]
           },
           {
-            "file": "core_15-15_incorporation.md",
+            "file": "core_16-16_incorporation.md",
             "count": 5,
             "anchors": [
-              "#chapter-fifteen-incorporation-bridge"
+              "#chapter-sixteen-incorporation-bridge"
             ]
           },
           {
@@ -12493,17 +12562,17 @@
             ]
           },
           {
-            "file": "core_09-09_forum.md",
+            "file": "core_11-11_forum.md",
             "count": 6,
             "anchors": [
-              "#chapter-nine-forums-and-jurisdiction"
+              "#chapter-eleven-forums-and-jurisdiction"
             ]
           },
           {
-            "file": "core_15-15_incorporation.md",
+            "file": "core_16-16_incorporation.md",
             "count": 6,
             "anchors": [
-              "#chapter-fifteen-incorporation-bridge"
+              "#chapter-sixteen-incorporation-bridge"
             ]
           },
           {
@@ -12624,17 +12693,17 @@
             ]
           },
           {
-            "file": "core_09-09_forum.md",
+            "file": "core_11-11_forum.md",
             "count": 7,
             "anchors": [
-              "#chapter-nine-forums-and-jurisdiction"
+              "#chapter-eleven-forums-and-jurisdiction"
             ]
           },
           {
-            "file": "core_15-15_incorporation.md",
+            "file": "core_16-16_incorporation.md",
             "count": 7,
             "anchors": [
-              "#chapter-fifteen-incorporation-bridge"
+              "#chapter-sixteen-incorporation-bridge"
             ]
           },
           {
@@ -12767,24 +12836,24 @@
             ]
           },
           {
-            "file": "core_09-09_forum.md",
+            "file": "core_11-11_forum.md",
             "count": 9,
             "anchors": [
-              "#chapter-nine-forums-and-jurisdiction"
+              "#chapter-eleven-forums-and-jurisdiction"
             ]
           },
           {
-            "file": "core_11-11_governance.md",
+            "file": "core_12-12_governance.md",
             "count": 1,
             "anchors": [
               "#5-authorized-roles-competency-development-and-contribution"
             ]
           },
           {
-            "file": "core_15-15_incorporation.md",
+            "file": "core_16-16_incorporation.md",
             "count": 8,
             "anchors": [
-              "#chapter-fifteen-incorporation-bridge"
+              "#chapter-sixteen-incorporation-bridge"
             ]
           },
           {

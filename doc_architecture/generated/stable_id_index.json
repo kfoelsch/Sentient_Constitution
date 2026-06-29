@@ -26,67 +26,92 @@
       "status": "present"
     },
     {
-      "file": "core_05-05_definitions_b_semi_independent.md",
+      "file": "core_05o_oversight_definitions.md",
       "label": "core",
       "status": "present"
     },
     {
-      "file": "core_05-05_definitions_c_dependent_clusters.md",
+      "file": "core_05p_participation_definitions.md",
       "label": "core",
       "status": "present"
     },
     {
-      "file": "core_06-06_standing_assessment.md",
+      "file": "core_05a_accountability_definitions.md",
       "label": "core",
       "status": "present"
     },
     {
-      "file": "core_07-07_standing_integration.md",
+      "file": "core_05c_continuity_definitions.md",
       "label": "core",
       "status": "present"
     },
     {
-      "file": "core_08-08_misconduct.md",
+      "file": "core_05i_integrative_definitions.md",
       "label": "core",
       "status": "present"
     },
     {
-      "file": "core_09-09_forum.md",
+      "file": "core_07-07_system_alignment_certification.md",
       "label": "core",
       "status": "present"
     },
     {
-      "file": "core_10-10_rights_part_a.md",
+      "file": "core_08-08_standing_assessment.md",
       "label": "core",
       "status": "present"
     },
     {
-      "file": "core_10-10_rights_part_b.md",
+      "file": "core_09-09_standing_integration.md",
       "label": "core",
       "status": "present"
     },
     {
-      "file": "core_10-10_rights_part_c.md",
+      "file": "core_10-10_misconduct.md",
       "label": "core",
       "status": "present"
     },
     {
-      "file": "core_10-10_rights_part_d.md",
+      "file": "core_11-11_forum.md",
       "label": "core",
       "status": "present"
     },
     {
-      "file": "core_11-11_governance.md",
+      "file": "core_08-11_application_vignettes.md",
       "label": "core",
       "status": "present"
     },
     {
-      "file": "core_12-14_amendment.md",
+      "file": "core_06-06_rights_part_a.md",
       "label": "core",
       "status": "present"
     },
     {
-      "file": "core_15-15_incorporation.md",
+      "file": "core_06-06_rights_part_b.md",
+      "label": "core",
+      "status": "present"
+    },
+    {
+      "file": "core_06-06_rights_part_c.md",
+      "label": "core",
+      "status": "present"
+    },
+    {
+      "file": "core_06-06_rights_part_d.md",
+      "label": "core",
+      "status": "present"
+    },
+    {
+      "file": "core_12-12_governance.md",
+      "label": "core",
+      "status": "present"
+    },
+    {
+      "file": "core_13-15_amendment.md",
+      "label": "core",
+      "status": "present"
+    },
+    {
+      "file": "core_16-16_incorporation.md",
       "label": "core",
       "status": "present"
     },
@@ -122,7 +147,7 @@
     },
     {
       "id": "CJS-R02",
-      "topic": "Forum chambers, divisions, and designated panels (Chapter Nine families)",
+      "topic": "Forum chambers, divisions, and designated panels (Chapter Eleven families)",
       "primary_owner": "`corpus_forum.md` **CF-3.5**\u2013**CF-3.8**",
       "primary_attach": [
         "CF-3"
@@ -278,7 +303,7 @@
     {
       "id": "CJS-R19",
       "topic": "integrity assurance and resilience operations",
-      "primary_owner": "**CJS-5.6** (*integrity assurance and resilience operations*)",
+      "primary_owner": "**CJS-5.6** (*Oversight: integrity assurance and resilience operations*)",
       "primary_attach": [
         "CJS-5.6"
       ]

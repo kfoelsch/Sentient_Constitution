@@ -2,7 +2,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Nine](../core_09-09_forum.md#chapter-nine-forums-and-jurisdiction) forum-family routing; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
+- Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Eleven](../core_11-11_forum.md#chapter-eleven-forums-and-jurisdiction) forum-family routing; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
 - Downstream: this section's local operational requirements for **CF-1: Scope, authority, and boundary rules**.
 - Read with: **CF-1**; [CJS-2.1](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; **CJS-5**; **CJS-2**; **CJS-3**.
 
@@ -29,12 +29,12 @@
 This file governs how constitutional forum families are constituted, supported, monitored, kept independent, and kept operable under stress.
 
 **Core / implementation boundary for forums:**
-- `core_09-09_forum.md` **Chapter Nine** owns which forum family decides which primary question and why.
+- `core_11-11_forum.md` **Chapter Eleven** owns which forum family decides which primary question and why.
 - `corpus_forum.md` owns how forums are operationally constituted, reviewed, supported, measured, and kept independent in practice.
 
 This file must not:
 - collapse distinct forum families into one another;
-- silently expand constitutional-forum jurisdiction beyond Chapter Nine;
+- silently expand constitutional-forum jurisdiction beyond Chapter Eleven;
 - replace general constitutional due-process, traceability, or rights rules with weaker local procedure;
 - create a parallel offense taxonomy.
 

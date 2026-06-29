@@ -1,6 +1,6 @@
 ## Protocol C: Justice Safeguards, Restitution, and Rehabilitation Implementation
 
-Constitutional tracing: This protocol implements Sentient Constitution Chapter Ten, **Article XXIII** (*Conflict Resolution, Escalation, and Emergency Proportionality*). **It** also implements **Sentient Constitution Chapter Six** (compliance, violation, and standing model) and `corpus_joint_structure.md` **CJS-5.13** (implementation and cross-implementation procedural integrity and adjudication terms), read with **corpus_joint_structure.md CJS-5.13** (*procedural integrity and adjudication terms*). **It** operationalizes the justice objective that interventions remain safety-protective, restitution-oriented, rehabilitation-capable where feasible, and accountability-grounded.
+Constitutional tracing: This protocol implements Sentient Constitution Chapter Six, **Article XXIII** (*Conflict Resolution, Escalation, and Emergency Proportionality*). **It** also implements **Sentient Constitution Chapter Eight** (compliance, violation, and standing model) and `corpus_joint_structure.md` **CJS-5.13** (implementation and cross-implementation procedural integrity and adjudication terms), read with **corpus_joint_structure.md CJS-5.13** (*procedural integrity and adjudication terms*). **It** operationalizes the justice objective that interventions remain safety-protective, restitution-oriented, rehabilitation-capable where feasible, and accountability-grounded.
 
 **It does** **not** create substitute rights or narrow constitutional constraints.
 
@@ -82,7 +82,7 @@ See Sentient Constitution **Chapter Four** (*Enforcement Realism Anchors*) and *
 
 **Judgment and award realism:** Where foreign forums, arbitral tribunals, or sovereign regulators issue enforceable outcomes, systems must map recognition, registration, and fallback dependency-linked enforcement. They must **not** treat absence of a single global judiciary as permission for indefinite non-compliance.
 
-Apply Sentient Constitution **Chapter Thirteen** (*Disputes Involving External Legal Orders*) where applicable.
+Apply Sentient Constitution **Chapter Fourteen** (*Disputes Involving External Legal Orders*) where applicable.
 
 **Fallback enforcement pathways:** Where recognition or cooperation is unavailable, systems must apply fallback controls proportionate to impact. Those controls may include access constraints, dependency-linked restrictions, escrow/holdback mechanisms, or heightened monitoring. Keep controls sufficient to prevent evasion-driven non-enforcement.
 
@@ -134,7 +134,7 @@ Evasive down-tiering requires corrective reclassification and enforcement review
 
 <br>
 
-This subsection implements **non-degrading lived conditions** and **continuity of support** while **non-trivial restrictions** remain in force. It does **not** add criminal-law detail, create a sanction taxonomy, or restate **Chapter Six** classification. It **does** require that implementation of restrictions — including detention-like conditions, durable containment under **Article XXIII-C**, **quarantine**, **supervised operation**, **role exclusion**, and comparable measures — preserves access to conditions that keep **restorative**, **least-restrictive**, and **dignity** commitments concrete rather than nominal.
+This subsection implements **non-degrading lived conditions** and **continuity of support** while **non-trivial restrictions** remain in force. It does **not** add criminal-law detail, create a sanction taxonomy, or restate **Chapter Eight** classification. It **does** require that implementation of restrictions — including detention-like conditions, durable containment under **Article XXIII-C**, **quarantine**, **supervised operation**, **role exclusion**, and comparable measures — preserves access to conditions that keep **restorative**, **least-restrictive**, and **dignity** commitments concrete rather than nominal.
 
 **Minimum lived-condition expectations (class- and context-scaled):** Responsible bodies must document and deliver, where **Necessity** and **Proportionality** allow, **healthcare and mental-health access** appropriate to the restriction’s purpose; **family, care, or trusted-contact** access where **safety** permits; **education, training, or capability development** access where the restriction is not narrowly justified to prevent it; **counsel, advocate, or independent representative** access for rights-affecting processes; **scheduled review** with **written reasons** at **intervals** that match impact and duration; **conditions** that **do not** impose **sensory deprivation**, **social isolation**, or **degradation** as an **unjustified** end; and **re-entry planning** that **does not** **sabotage** formal restoration through **withheld records**, **credential stripping without individualized predicate**, or **indefinite administrative deferral** of stated review triggers.
 

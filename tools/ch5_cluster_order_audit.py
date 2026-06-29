@@ -22,6 +22,7 @@ EXPECTED_TOPIC_GROUPS: dict[str, list[str]] = {
         "Accountability",
         "Contestability",
         "Adjudication and Dispute Resolution",
+        "Due Process",
         "Timeliness",
         "Timely Resolution",
         "Merits Determination",
@@ -60,6 +61,7 @@ EXPECTED_TOPIC_GROUPS: dict[str, list[str]] = {
         "Non-Statelessness",
     ],
     "#### Governance architecture, decentralization, and concentration": [
+        "Market Structure",
         "Governance",
         "Decentralization",
         "Concentration Threshold",
@@ -93,7 +95,7 @@ EXPECTED_CLUSTERS: dict[str, list[str]] = {
         "Binding Stakeholder Choice — Decision-Resolution Requirements",
         "Stakeholder Representation and Participation-Weight Limits (Binding Stakeholder Choice)",
         "Stakeholder Rights-Collision Record (Binding Stakeholder Choice)",
-        "Chapter Eleven §3.3",
+        "Chapter Twelve §3.3",
     ],
     "#### 3.8 Collective Harm Boundary, Harm, and Harassment and Bullying": [
         "Harm",

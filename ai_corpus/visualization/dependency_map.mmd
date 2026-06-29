@@ -9,14 +9,15 @@ graph TB
         Ch05A["Ch 5 §1: Independent Definitions<br/>core_05-05_definitions_a_independent.md"]
         Ch05B["Ch 5 §2: Semi-Independent<br/>core_05-05_definitions_b_semi_independent.md"]
         Ch05C["Ch 5 §3: Dependent Clusters<br/>core_05-05_definitions_c_dependent_clusters.md"]
-        Ch06A["Ch 6 Part A: Classification<br/>core_06-06_standing_assessment.md"]
-        Ch06B["Ch 6 Part B: Integration<br/>core_07-07_standing_integration.md"]
-        Ch07["Ch 7: Misconduct<br/>core_08-08_misconduct.md"]
-        Ch08["Ch 8: Forums<br/>core_09-09_forum.md"]
-        Ch09["Ch 9: Rights (A-D)<br/>4 files"]
-        Ch10["Ch 10: Governance<br/>core_11-11_governance.md"]
-        Ch1113["Ch 11-13: Amendment<br/>core_12-14_amendment.md"]
-        Ch14["Ch 14: Incorporation<br/>core_15-15_incorporation.md"]
+        Ch06["Ch 6: Rights (A-D)<br/>4 files"]
+        Ch07["Ch 7: System Alignment<br/>core_07-07_system_alignment_certification.md"]
+        Ch08["Ch 8: Classification<br/>core_08-08_standing_assessment.md"]
+        Ch09["Ch 9: Integration<br/>core_09-09_standing_integration.md"]
+        Ch10["Ch 10: Misconduct<br/>core_10-10_misconduct.md"]
+        Ch11["Ch 11: Forums<br/>core_11-11_forum.md"]
+        Ch12["Ch 12: Governance<br/>core_12-12_governance.md"]
+        Ch1315["Ch 13-15: Amendment<br/>core_13-15_amendment.md"]
+        Ch16["Ch 16: Incorporation<br/>core_16-16_incorporation.md"]
     end
 
     subgraph Companions["🛠️ Implementation Companions"]
@@ -28,7 +29,7 @@ graph TB
     end
 
     %% Cross-references: Chapter 5 definitions are the hub
-    Ch05A -->|"40+ refs"| Ch09
+    Ch05A -->|"40+ refs"| Ch06
     Ch05A -->|"35 refs"| Ch05B
     Ch05A -->|"25 refs"| Ch05C
     Ch05A -->|"20 refs"| CS
@@ -36,26 +37,26 @@ graph TB
 
     Ch05B -->|"45 refs"| Ch05A
     Ch05B -->|"30 refs"| Ch05C
-    Ch05B -->|"20 refs"| Ch09
-    Ch05B -->|"15 refs"| Ch06A
+    Ch05B -->|"20 refs"| Ch06
+    Ch05B -->|"15 refs"| Ch08
 
     Ch05C -->|"50 refs"| Ch05A
     Ch05C -->|"40 refs"| Ch05B
 
     %% Rights reference definitions heavily
-    Ch09 -->|"15 refs"| Ch05A
-    Ch09 -->|"25 refs"| Ch05B
-    Ch09 -->|"18 refs"| Ch05C
+    Ch06 -->|"15 refs"| Ch05A
+    Ch06 -->|"25 refs"| Ch05B
+    Ch06 -->|"18 refs"| Ch05C
 
     %% Systems companion is well-connected
     CS -->|"30 refs"| Ch05A
     CS -->|"20 refs"| Ch05B
-    CS -->|"35 refs"| Ch09
+    CS -->|"35 refs"| Ch06
     CS -->|"15 refs"| CJS
 
     %% Institutions companion connects
     CI -->|"20 refs"| Ch05B
-    CI -->|"18 refs"| Ch09
+    CI -->|"18 refs"| Ch06
     CI -->|"25 refs"| CJS
     CI -->|"15 refs"| CF
 
@@ -64,7 +65,7 @@ graph TB
     Ch01A -->|"10 refs"| Ch05A
     Ch01A -->|"6 refs"| Ch05B
     Ch01B -->|"8 refs"| Ch05B
-    Ch01B -->|"5 refs"| Ch09
+    Ch01B -->|"5 refs"| Ch06
 
     %% Definition mechanics underpin everything
     Ch02 -->|"25 refs"| Ch05A
@@ -74,7 +75,7 @@ graph TB
     style Ch05A fill:#ffccbc,stroke:#bf360c,stroke-width:3px
     style Ch05B fill:#ffccbc,stroke:#bf360c,stroke-width:3px
     style Ch05C fill:#ffccbc,stroke:#bf360c,stroke-width:3px
-    style Ch09 fill:#c8e6c9,stroke:#2e7d32,stroke-width:2px
+    style Ch06 fill:#c8e6c9,stroke:#2e7d32,stroke-width:2px
     style CS fill:#fff9c4,stroke:#f57f17,stroke-width:2px
     style Ch00 fill:#e3f2fd,stroke:#1565c0,stroke-width:2px
     style Ch01A fill:#e3f2fd,stroke:#1565c0,stroke-width:2px

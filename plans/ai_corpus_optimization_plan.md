@@ -43,17 +43,17 @@ The older per-definition JSON files under `ai_corpus/definitions/` are retained 
 | `core_05-05_definitions_a_independent.md` | ~1,300 | Core | Chapter 5 §1 (independent definitions A-Z) |
 | `core_05-05_definitions_b_semi_independent.md` | ~1,900 | Core | Chapter 5 §2 (semi-independent definitions) |
 | `core_05-05_definitions_c_dependent_clusters.md` | ~1,800 | Core | Chapter 5 §3 (dependent clusters) |
-| `core_06-06_standing_assessment.md` | ~880 | Core | Chapter 6 Part A (two-axis model) |
-| `core_07-07_standing_integration.md` | ~780 | Core | Chapter 6 Part B (integration, effects) |
-| `core_08-08_misconduct.md` | ~420 | Core | Chapter 7 (anti-constitutional misconduct) |
-| `core_09-09_forum.md` | ~380 | Core | Chapter 8 (forums, jurisdiction) |
-| `core_10-10_rights_part_a.md` | ~630 | Core | Chapter 9 Part A (Articles I-IV) |
-| `core_10-10_rights_part_b.md` | ~1,380 | Core | Chapter 9 Part B (Articles V-XI) |
-| `core_10-10_rights_part_c.md` | ~1,600 | Core | Chapter 9 Part C (Articles XII-XXII) |
-| `core_10-10_rights_part_d.md` | ~560 | Core | Chapter 9 Part D (Articles XXIII-XXV) |
-| `core_11-11_governance.md` | ~330 | Core | Chapter 10 (constitutional contract) |
-| `core_12-14_amendment.md` | ~640 | Core | Chapters 11-13 (non-regression, amendment) |
-| `core_15-15_incorporation.md` | ~160 | Core | Chapter 14 (incorporation bridge) |
+| `core_08-08_standing_assessment.md` | ~880 | Core | Chapter 6 Part A (two-axis model) |
+| `core_09-09_standing_integration.md` | ~780 | Core | Chapter 6 Part B (integration, effects) |
+| `core_10-10_misconduct.md` | ~420 | Core | Chapter 7 (anti-constitutional misconduct) |
+| `core_11-11_forum.md` | ~380 | Core | Chapter 8 (forums, jurisdiction) |
+| `core_06-06_rights_part_a.md` | ~630 | Core | Chapter 9 Part A (Articles I-IV) |
+| `core_06-06_rights_part_b.md` | ~1,380 | Core | Chapter 9 Part B (Articles V-XI) |
+| `core_06-06_rights_part_c.md` | ~1,600 | Core | Chapter 9 Part C (Articles XII-XXII) |
+| `core_06-06_rights_part_d.md` | ~560 | Core | Chapter 9 Part D (Articles XXIII-XXV) |
+| `core_12-12_governance.md` | ~330 | Core | Chapter 10 (constitutional contract) |
+| `core_13-15_amendment.md` | ~640 | Core | Chapters 11-13 (non-regression, amendment) |
+| `core_16-16_incorporation.md` | ~160 | Core | Chapter 14 (incorporation bridge) |
 | `corpus_systems.md` | ~2,170 | Companion | Systems companion (CS-3–CS-5, Protocols A, B, S4, S5) |
 | `corpus_institutions.md` | ~940 | Companion | Institutional governance (CI-1 to CI-26) |
 | `corpus_forum.md` | ~1,150 | Companion | Forum operations |
@@ -84,7 +84,7 @@ When editing content that uses defined terms:
 **Pattern B: Hub-and-Spoke Navigation**
 ```
 For Chapter 9 rights editing:
-1. Read the specific Article from core_10-10_rights_part_*.md
+1. Read the specific Article from core_06-06_rights_part_*.md
 2. Read doc_architecture.md section 2 for corpus role mapping
 3. Read relevant implementation companion sections only if operational detail needed
 ```
@@ -157,7 +157,7 @@ Index of all Chapter 5 definitions with:
 Directed graph of file-to-file Markdown references:
 ```json
 {
-  "source": "core_10-10_rights_part_c.md",
+  "source": "core_06-06_rights_part_c.md",
   "targets": [
     {"file": "core_05-05_definitions_a_independent.md", "count": 15, "anchors": [...]},
     {"file": "corpus_systems.md", "count": 8, "anchors": [...]}

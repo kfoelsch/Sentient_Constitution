@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
-"""Audit Chapter Ten trace placement and minimum linked-content rules.
+"""Audit Chapter Six trace placement and minimum linked-content rules.
 
 Rules: NAV-TRACE-08, NAV-TRACE-09 in tools/architecture/rule_registry.json.
-Each Chapter Ten subarticle must:
+Each Chapter Six subarticle must:
 
 1. Carry a local Trace ``<details>`` block immediately under the subarticle
    heading using the standard Trace summary label, AND
@@ -27,10 +27,10 @@ import sys
 
 
 DEFAULT_FILES = [
-    "core_10-10_rights_part_a.md",
-    "core_10-10_rights_part_b.md",
-    "core_10-10_rights_part_c.md",
-    "core_10-10_rights_part_d.md",
+    "core_06-06_rights_part_a.md",
+    "core_06-06_rights_part_b.md",
+    "core_06-06_rights_part_c.md",
+    "core_06-06_rights_part_d.md",
 ]
 
 
@@ -41,7 +41,7 @@ def parse_args() -> argparse.Namespace:
         "--files",
         nargs="*",
         default=DEFAULT_FILES,
-        help="Chapter Ten files under --root.",
+        help="Chapter Six files under --root.",
     )
     return parser.parse_args()
 
@@ -77,7 +77,7 @@ def main() -> int:
             details_idx = next_nonempty(lines, idx + 1)
             if details_idx is None or lines[details_idx].strip() != "<details>":
                 violations.append(
-                    f"{path}:{lineno}: Chapter Ten subarticles must carry a local Trace/details block immediately under the subarticle heading"
+                    f"{path}:{lineno}: Chapter Six subarticles must carry a local Trace/details block immediately under the subarticle heading"
                 )
                 continue
 
@@ -108,7 +108,7 @@ def main() -> int:
 
             if principles_line is None:
                 violations.append(
-                    f"{path}:{lineno}: Chapter Ten subarticle Trace blocks must include a '- Principles:' or '- Upstream: Principles:' line"
+                    f"{path}:{lineno}: Chapter Six subarticle Trace blocks must include a '- Principles:' or '- Upstream: Principles:' line"
                 )
 
             # Per doc_architecture.md rule 12 (2026-04-16 D/E/C split), the
@@ -167,7 +167,7 @@ def main() -> int:
         return 1
 
     print(
-        "PASS: Chapter Ten subarticle Trace blocks are present, no legacy "
+        "PASS: Chapter Six subarticle Trace blocks are present, no legacy "
         "'- Definitions:' lines remain inside Trace, and Principles upstream "
         "is named where required."
     )

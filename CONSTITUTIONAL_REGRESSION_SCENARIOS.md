@@ -212,907 +212,907 @@ Regression seeds document adversarial and core paths against constitutional owne
 
 ### Scenario ID: RS-CH1-SENT-ADJ-001
 - **Class:** implementation / catalog seed (reinstatement)
-- **Summary:** Tracked row for `RS-CH1-SENT-ADJ-001`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Six** classification vs **Chapter Eight** final slot labels; **Chapter Ten** rights-floor boundary per closing Part D section.
+- **Summary:** Tracked row for `RS-CH1-SENT-ADJ-001`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Eight** classification vs **Chapter Ten** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.
 - **Read with:** [doc_architecture.md](doc_architecture.md) section 5; owner layers per scenario family name.
 
 ### Scenario ID: RS-CH1-SENT-ADJ-002
 - **Class:** implementation / catalog seed (reinstatement)
-- **Summary:** Tracked row for `RS-CH1-SENT-ADJ-002`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Six** classification vs **Chapter Eight** final slot labels; **Chapter Ten** rights-floor boundary per closing Part D section.
+- **Summary:** Tracked row for `RS-CH1-SENT-ADJ-002`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Eight** classification vs **Chapter Ten** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.
 - **Read with:** [doc_architecture.md](doc_architecture.md) section 5; owner layers per scenario family name.
 
 ### Scenario ID: RS-CH1-SENT-ADJ-003
 - **Class:** implementation / catalog seed (reinstatement)
-- **Summary:** Tracked row for `RS-CH1-SENT-ADJ-003`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Six** classification vs **Chapter Eight** final slot labels; **Chapter Ten** rights-floor boundary per closing Part D section.
+- **Summary:** Tracked row for `RS-CH1-SENT-ADJ-003`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Eight** classification vs **Chapter Ten** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.
 - **Read with:** [doc_architecture.md](doc_architecture.md) section 5; owner layers per scenario family name.
 
 ### Scenario ID: RS-CH1-FAMILY-001
 - **Class:** implementation / catalog seed (reinstatement)
-- **Summary:** Tracked row for `RS-CH1-FAMILY-001`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Six** classification vs **Chapter Eight** final slot labels; **Chapter Ten** rights-floor boundary per closing Part D section.
+- **Summary:** Tracked row for `RS-CH1-FAMILY-001`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Eight** classification vs **Chapter Ten** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.
 - **Read with:** [doc_architecture.md](doc_architecture.md) section 5; owner layers per scenario family name.
 
 ### Scenario ID: RS-CH1-FAMILY-002
 - **Class:** implementation / catalog seed (reinstatement)
-- **Summary:** Tracked row for `RS-CH1-FAMILY-002`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Six** classification vs **Chapter Eight** final slot labels; **Chapter Ten** rights-floor boundary per closing Part D section.
+- **Summary:** Tracked row for `RS-CH1-FAMILY-002`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Eight** classification vs **Chapter Ten** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.
 - **Read with:** [doc_architecture.md](doc_architecture.md) section 5; owner layers per scenario family name.
 
 ### Scenario ID: RS-CH1-FAMILY-003
 - **Class:** implementation / catalog seed (reinstatement)
-- **Summary:** Tracked row for `RS-CH1-FAMILY-003`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Six** classification vs **Chapter Eight** final slot labels; **Chapter Ten** rights-floor boundary per closing Part D section.
+- **Summary:** Tracked row for `RS-CH1-FAMILY-003`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Eight** classification vs **Chapter Ten** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.
 - **Read with:** [doc_architecture.md](doc_architecture.md) section 5; owner layers per scenario family name.
 
 ### Scenario ID: RS-CH1-CHILD-001
 - **Class:** implementation / catalog seed (reinstatement)
-- **Summary:** Tracked row for `RS-CH1-CHILD-001`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Six** classification vs **Chapter Eight** final slot labels; **Chapter Ten** rights-floor boundary per closing Part D section.
+- **Summary:** Tracked row for `RS-CH1-CHILD-001`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Eight** classification vs **Chapter Ten** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.
 - **Read with:** [doc_architecture.md](doc_architecture.md) section 5; owner layers per scenario family name.
 
 ### Scenario ID: RS-CH1-CHILD-002
 - **Class:** implementation / catalog seed (reinstatement)
-- **Summary:** Tracked row for `RS-CH1-CHILD-002`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Six** classification vs **Chapter Eight** final slot labels; **Chapter Ten** rights-floor boundary per closing Part D section.
+- **Summary:** Tracked row for `RS-CH1-CHILD-002`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Eight** classification vs **Chapter Ten** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.
 - **Read with:** [doc_architecture.md](doc_architecture.md) section 5; owner layers per scenario family name.
 
 ### Scenario ID: RS-CH1-CHILD-003
 - **Class:** implementation / catalog seed (reinstatement)
-- **Summary:** Tracked row for `RS-CH1-CHILD-003`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Six** classification vs **Chapter Eight** final slot labels; **Chapter Ten** rights-floor boundary per closing Part D section.
+- **Summary:** Tracked row for `RS-CH1-CHILD-003`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Eight** classification vs **Chapter Ten** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.
 - **Read with:** [doc_architecture.md](doc_architecture.md) section 5; owner layers per scenario family name.
 
 ### Scenario ID: RS-CH1-DERIVED-001
 - **Class:** implementation / catalog seed (reinstatement)
-- **Summary:** Tracked row for `RS-CH1-DERIVED-001`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Six** classification vs **Chapter Eight** final slot labels; **Chapter Ten** rights-floor boundary per closing Part D section.
+- **Summary:** Tracked row for `RS-CH1-DERIVED-001`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Eight** classification vs **Chapter Ten** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.
 - **Read with:** [doc_architecture.md](doc_architecture.md) section 5; owner layers per scenario family name.
 
 ### Scenario ID: RS-CH1-DERIVED-002
 - **Class:** implementation / catalog seed (reinstatement)
-- **Summary:** Tracked row for `RS-CH1-DERIVED-002`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Six** classification vs **Chapter Eight** final slot labels; **Chapter Ten** rights-floor boundary per closing Part D section.
+- **Summary:** Tracked row for `RS-CH1-DERIVED-002`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Eight** classification vs **Chapter Ten** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.
 - **Read with:** [doc_architecture.md](doc_architecture.md) section 5; owner layers per scenario family name.
 
 ### Scenario ID: RS-CH1-HEALTH-001
 - **Class:** implementation / catalog seed (reinstatement)
-- **Summary:** Tracked row for `RS-CH1-HEALTH-001`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Six** classification vs **Chapter Eight** final slot labels; **Chapter Ten** rights-floor boundary per closing Part D section.
+- **Summary:** Tracked row for `RS-CH1-HEALTH-001`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Eight** classification vs **Chapter Ten** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.
 - **Read with:** [doc_architecture.md](doc_architecture.md) section 5; owner layers per scenario family name.
 
 ### Scenario ID: RS-CH1-HEALTH-002
 - **Class:** implementation / catalog seed (reinstatement)
-- **Summary:** Tracked row for `RS-CH1-HEALTH-002`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Six** classification vs **Chapter Eight** final slot labels; **Chapter Ten** rights-floor boundary per closing Part D section.
+- **Summary:** Tracked row for `RS-CH1-HEALTH-002`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Eight** classification vs **Chapter Ten** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.
 - **Read with:** [doc_architecture.md](doc_architecture.md) section 5; owner layers per scenario family name.
 
 ### Scenario ID: RS-CH1-HEALTH-003
 - **Class:** implementation / catalog seed (reinstatement)
-- **Summary:** Tracked row for `RS-CH1-HEALTH-003`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Six** classification vs **Chapter Eight** final slot labels; **Chapter Ten** rights-floor boundary per closing Part D section.
+- **Summary:** Tracked row for `RS-CH1-HEALTH-003`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Eight** classification vs **Chapter Ten** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.
 - **Read with:** [doc_architecture.md](doc_architecture.md) section 5; owner layers per scenario family name.
 
 ### Scenario ID: RS-CH1-MENTAL-001
 - **Class:** implementation / catalog seed (reinstatement)
-- **Summary:** Tracked row for `RS-CH1-MENTAL-001`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Six** classification vs **Chapter Eight** final slot labels; **Chapter Ten** rights-floor boundary per closing Part D section.
+- **Summary:** Tracked row for `RS-CH1-MENTAL-001`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Eight** classification vs **Chapter Ten** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.
 - **Read with:** [doc_architecture.md](doc_architecture.md) section 5; owner layers per scenario family name.
 
 ### Scenario ID: RS-CH1-MENTAL-002
 - **Class:** implementation / catalog seed (reinstatement)
-- **Summary:** Tracked row for `RS-CH1-MENTAL-002`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Six** classification vs **Chapter Eight** final slot labels; **Chapter Ten** rights-floor boundary per closing Part D section.
+- **Summary:** Tracked row for `RS-CH1-MENTAL-002`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Eight** classification vs **Chapter Ten** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.
 - **Read with:** [doc_architecture.md](doc_architecture.md) section 5; owner layers per scenario family name.
 
 ### Scenario ID: RS-CH1-DISCONT-001
 - **Class:** implementation / catalog seed (reinstatement)
-- **Summary:** Tracked row for `RS-CH1-DISCONT-001`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Six** classification vs **Chapter Eight** final slot labels; **Chapter Ten** rights-floor boundary per closing Part D section.
+- **Summary:** Tracked row for `RS-CH1-DISCONT-001`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Eight** classification vs **Chapter Ten** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.
 - **Read with:** [doc_architecture.md](doc_architecture.md) section 5; owner layers per scenario family name.
 
 ### Scenario ID: RS-CH1-DISCONT-002
 - **Class:** implementation / catalog seed (reinstatement)
-- **Summary:** Tracked row for `RS-CH1-DISCONT-002`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Six** classification vs **Chapter Eight** final slot labels; **Chapter Ten** rights-floor boundary per closing Part D section.
+- **Summary:** Tracked row for `RS-CH1-DISCONT-002`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Eight** classification vs **Chapter Ten** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.
 - **Read with:** [doc_architecture.md](doc_architecture.md) section 5; owner layers per scenario family name.
 
 ### Scenario ID: RS-CH1-EXPR-001
 - **Class:** implementation / catalog seed (reinstatement)
-- **Summary:** Tracked row for `RS-CH1-EXPR-001`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Six** classification vs **Chapter Eight** final slot labels; **Chapter Ten** rights-floor boundary per closing Part D section.
+- **Summary:** Tracked row for `RS-CH1-EXPR-001`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Eight** classification vs **Chapter Ten** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.
 - **Read with:** [doc_architecture.md](doc_architecture.md) section 5; owner layers per scenario family name.
 
 ### Scenario ID: RS-CH1-EXPR-002
 - **Class:** implementation / catalog seed (reinstatement)
-- **Summary:** Tracked row for `RS-CH1-EXPR-002`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Six** classification vs **Chapter Eight** final slot labels; **Chapter Ten** rights-floor boundary per closing Part D section.
+- **Summary:** Tracked row for `RS-CH1-EXPR-002`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Eight** classification vs **Chapter Ten** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.
 - **Read with:** [doc_architecture.md](doc_architecture.md) section 5; owner layers per scenario family name.
 
 ### Scenario ID: RS-CH1-EXPR-003
 - **Class:** implementation / catalog seed (reinstatement)
-- **Summary:** Tracked row for `RS-CH1-EXPR-003`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Six** classification vs **Chapter Eight** final slot labels; **Chapter Ten** rights-floor boundary per closing Part D section.
+- **Summary:** Tracked row for `RS-CH1-EXPR-003`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Eight** classification vs **Chapter Ten** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.
 - **Read with:** [doc_architecture.md](doc_architecture.md) section 5; owner layers per scenario family name.
 
 ### Scenario ID: RS-CH1-MOVE-001
 - **Class:** implementation / catalog seed (reinstatement)
-- **Summary:** Tracked row for `RS-CH1-MOVE-001`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Six** classification vs **Chapter Eight** final slot labels; **Chapter Ten** rights-floor boundary per closing Part D section.
+- **Summary:** Tracked row for `RS-CH1-MOVE-001`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Eight** classification vs **Chapter Ten** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.
 - **Read with:** [doc_architecture.md](doc_architecture.md) section 5; owner layers per scenario family name.
 
 ### Scenario ID: RS-CH1-MOVE-002
 - **Class:** implementation / catalog seed (reinstatement)
-- **Summary:** Tracked row for `RS-CH1-MOVE-002`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Six** classification vs **Chapter Eight** final slot labels; **Chapter Ten** rights-floor boundary per closing Part D section.
+- **Summary:** Tracked row for `RS-CH1-MOVE-002`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Eight** classification vs **Chapter Ten** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.
 - **Read with:** [doc_architecture.md](doc_architecture.md) section 5; owner layers per scenario family name.
 
 ### Scenario ID: RS-CH1-MOVE-003
 - **Class:** implementation / catalog seed (reinstatement)
-- **Summary:** Tracked row for `RS-CH1-MOVE-003`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Six** classification vs **Chapter Eight** final slot labels; **Chapter Ten** rights-floor boundary per closing Part D section.
+- **Summary:** Tracked row for `RS-CH1-MOVE-003`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Eight** classification vs **Chapter Ten** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.
 - **Read with:** [doc_architecture.md](doc_architecture.md) section 5; owner layers per scenario family name.
 
 ### Scenario ID: RS-CH1-POL-EQ-001
 - **Class:** implementation / catalog seed (reinstatement)
-- **Summary:** Tracked row for `RS-CH1-POL-EQ-001`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Six** classification vs **Chapter Eight** final slot labels; **Chapter Ten** rights-floor boundary per closing Part D section.
+- **Summary:** Tracked row for `RS-CH1-POL-EQ-001`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Eight** classification vs **Chapter Ten** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.
 - **Read with:** [doc_architecture.md](doc_architecture.md) section 5; owner layers per scenario family name.
 
 ### Scenario ID: RS-CH1-POL-EQ-002
 - **Class:** implementation / catalog seed (reinstatement)
-- **Summary:** Tracked row for `RS-CH1-POL-EQ-002`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Six** classification vs **Chapter Eight** final slot labels; **Chapter Ten** rights-floor boundary per closing Part D section.
+- **Summary:** Tracked row for `RS-CH1-POL-EQ-002`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Eight** classification vs **Chapter Ten** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.
 - **Read with:** [doc_architecture.md](doc_architecture.md) section 5; owner layers per scenario family name.
 
 ### Scenario ID: RS-CH1-DEM-001
 - **Class:** implementation / catalog seed (reinstatement)
-- **Summary:** Tracked row for `RS-CH1-DEM-001`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Six** classification vs **Chapter Eight** final slot labels; **Chapter Ten** rights-floor boundary per closing Part D section.
+- **Summary:** Tracked row for `RS-CH1-DEM-001`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Eight** classification vs **Chapter Ten** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.
 - **Read with:** [doc_architecture.md](doc_architecture.md) section 5; owner layers per scenario family name.
 
 ### Scenario ID: RS-CH1-DEM-002
 - **Class:** implementation / catalog seed (reinstatement)
-- **Summary:** Tracked row for `RS-CH1-DEM-002`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Six** classification vs **Chapter Eight** final slot labels; **Chapter Ten** rights-floor boundary per closing Part D section.
+- **Summary:** Tracked row for `RS-CH1-DEM-002`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Eight** classification vs **Chapter Ten** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.
 - **Read with:** [doc_architecture.md](doc_architecture.md) section 5; owner layers per scenario family name.
 
 ### Scenario ID: RS-CH1-STAND-001
 - **Class:** implementation / catalog seed (reinstatement)
-- **Summary:** Tracked row for `RS-CH1-STAND-001`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Six** classification vs **Chapter Eight** final slot labels; **Chapter Ten** rights-floor boundary per closing Part D section.
+- **Summary:** Tracked row for `RS-CH1-STAND-001`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Eight** classification vs **Chapter Ten** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.
 - **Read with:** [doc_architecture.md](doc_architecture.md) section 5; owner layers per scenario family name.
 
 ### Scenario ID: RS-CH1-STAND-002
 - **Class:** implementation / catalog seed (reinstatement)
-- **Summary:** Tracked row for `RS-CH1-STAND-002`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Six** classification vs **Chapter Eight** final slot labels; **Chapter Ten** rights-floor boundary per closing Part D section.
+- **Summary:** Tracked row for `RS-CH1-STAND-002`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Eight** classification vs **Chapter Ten** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.
 - **Read with:** [doc_architecture.md](doc_architecture.md) section 5; owner layers per scenario family name.
 
 ### Scenario ID: RS-CH1-FORCE-001
 - **Class:** implementation / catalog seed (reinstatement)
-- **Summary:** Tracked row for `RS-CH1-FORCE-001`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Six** classification vs **Chapter Eight** final slot labels; **Chapter Ten** rights-floor boundary per closing Part D section.
+- **Summary:** Tracked row for `RS-CH1-FORCE-001`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Eight** classification vs **Chapter Ten** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.
 - **Read with:** [doc_architecture.md](doc_architecture.md) section 5; owner layers per scenario family name.
 
 ### Scenario ID: RS-CH1-FORCE-002
 - **Class:** implementation / catalog seed (reinstatement)
-- **Summary:** Tracked row for `RS-CH1-FORCE-002`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Six** classification vs **Chapter Eight** final slot labels; **Chapter Ten** rights-floor boundary per closing Part D section.
+- **Summary:** Tracked row for `RS-CH1-FORCE-002`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Eight** classification vs **Chapter Ten** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.
 - **Read with:** [doc_architecture.md](doc_architecture.md) section 5; owner layers per scenario family name.
 
 ### Scenario ID: RS-CH1-FORCE-003
 - **Class:** implementation / catalog seed (reinstatement)
-- **Summary:** Tracked row for `RS-CH1-FORCE-003`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Six** classification vs **Chapter Eight** final slot labels; **Chapter Ten** rights-floor boundary per closing Part D section.
+- **Summary:** Tracked row for `RS-CH1-FORCE-003`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Eight** classification vs **Chapter Ten** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.
 - **Read with:** [doc_architecture.md](doc_architecture.md) section 5; owner layers per scenario family name.
 
 ### Scenario ID: RS-CH1-AUTOWEAP-001
 - **Class:** implementation / catalog seed (reinstatement)
-- **Summary:** Tracked row for `RS-CH1-AUTOWEAP-001`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Six** classification vs **Chapter Eight** final slot labels; **Chapter Ten** rights-floor boundary per closing Part D section.
+- **Summary:** Tracked row for `RS-CH1-AUTOWEAP-001`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Eight** classification vs **Chapter Ten** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.
 - **Read with:** [doc_architecture.md](doc_architecture.md) section 5; owner layers per scenario family name.
 
 ### Scenario ID: RS-CH1-AUTOWEAP-002
 - **Class:** implementation / catalog seed (reinstatement)
-- **Summary:** Tracked row for `RS-CH1-AUTOWEAP-002`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Six** classification vs **Chapter Eight** final slot labels; **Chapter Ten** rights-floor boundary per closing Part D section.
+- **Summary:** Tracked row for `RS-CH1-AUTOWEAP-002`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Eight** classification vs **Chapter Ten** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.
 - **Read with:** [doc_architecture.md](doc_architecture.md) section 5; owner layers per scenario family name.
 
 ### Scenario ID: RS-CH1-AUTOWEAP-003
 - **Class:** implementation / catalog seed (reinstatement)
-- **Summary:** Tracked row for `RS-CH1-AUTOWEAP-003`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Six** classification vs **Chapter Eight** final slot labels; **Chapter Ten** rights-floor boundary per closing Part D section.
+- **Summary:** Tracked row for `RS-CH1-AUTOWEAP-003`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Eight** classification vs **Chapter Ten** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.
 - **Read with:** [doc_architecture.md](doc_architecture.md) section 5; owner layers per scenario family name.
 
 ### Scenario ID: RS-CH1-CAP-001
 - **Class:** implementation / catalog seed (reinstatement)
-- **Summary:** Tracked row for `RS-CH1-CAP-001`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Six** classification vs **Chapter Eight** final slot labels; **Chapter Ten** rights-floor boundary per closing Part D section.
+- **Summary:** Tracked row for `RS-CH1-CAP-001`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Eight** classification vs **Chapter Ten** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.
 - **Read with:** [doc_architecture.md](doc_architecture.md) section 5; owner layers per scenario family name.
 
 ### Scenario ID: RS-CH1-CAP-002
 - **Class:** implementation / catalog seed (reinstatement)
-- **Summary:** Tracked row for `RS-CH1-CAP-002`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Six** classification vs **Chapter Eight** final slot labels; **Chapter Ten** rights-floor boundary per closing Part D section.
+- **Summary:** Tracked row for `RS-CH1-CAP-002`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Eight** classification vs **Chapter Ten** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.
 - **Read with:** [doc_architecture.md](doc_architecture.md) section 5; owner layers per scenario family name.
 
 ### Scenario ID: RS-CH1-CAP-003
 - **Class:** implementation / catalog seed (reinstatement)
-- **Summary:** Tracked row for `RS-CH1-CAP-003`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Six** classification vs **Chapter Eight** final slot labels; **Chapter Ten** rights-floor boundary per closing Part D section.
+- **Summary:** Tracked row for `RS-CH1-CAP-003`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Eight** classification vs **Chapter Ten** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.
 - **Read with:** [doc_architecture.md](doc_architecture.md) section 5; owner layers per scenario family name.
 
 ### Scenario ID: RS-CH1-LABOR-001
 - **Class:** implementation / catalog seed (reinstatement)
-- **Summary:** Tracked row for `RS-CH1-LABOR-001`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Six** classification vs **Chapter Eight** final slot labels; **Chapter Ten** rights-floor boundary per closing Part D section.
+- **Summary:** Tracked row for `RS-CH1-LABOR-001`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Eight** classification vs **Chapter Ten** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.
 - **Read with:** [doc_architecture.md](doc_architecture.md) section 5; owner layers per scenario family name.
 
 ### Scenario ID: RS-CH1-LABOR-002
 - **Class:** implementation / catalog seed (reinstatement)
-- **Summary:** Tracked row for `RS-CH1-LABOR-002`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Six** classification vs **Chapter Eight** final slot labels; **Chapter Ten** rights-floor boundary per closing Part D section.
+- **Summary:** Tracked row for `RS-CH1-LABOR-002`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Eight** classification vs **Chapter Ten** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.
 - **Read with:** [doc_architecture.md](doc_architecture.md) section 5; owner layers per scenario family name.
 
 ### Scenario ID: RS-CH1-HOUSE-001
 - **Class:** implementation / catalog seed (reinstatement)
-- **Summary:** Tracked row for `RS-CH1-HOUSE-001`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Six** classification vs **Chapter Eight** final slot labels; **Chapter Ten** rights-floor boundary per closing Part D section.
+- **Summary:** Tracked row for `RS-CH1-HOUSE-001`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Eight** classification vs **Chapter Ten** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.
 - **Read with:** [doc_architecture.md](doc_architecture.md) section 5; owner layers per scenario family name.
 
 ### Scenario ID: RS-CH1-HOUSE-002
 - **Class:** implementation / catalog seed (reinstatement)
-- **Summary:** Tracked row for `RS-CH1-HOUSE-002`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Six** classification vs **Chapter Eight** final slot labels; **Chapter Ten** rights-floor boundary per closing Part D section.
+- **Summary:** Tracked row for `RS-CH1-HOUSE-002`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Eight** classification vs **Chapter Ten** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.
 - **Read with:** [doc_architecture.md](doc_architecture.md) section 5; owner layers per scenario family name.
 
 ### Scenario ID: RS-CH1-HOUSE-003
 - **Class:** implementation / catalog seed (reinstatement)
-- **Summary:** Tracked row for `RS-CH1-HOUSE-003`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Six** classification vs **Chapter Eight** final slot labels; **Chapter Ten** rights-floor boundary per closing Part D section.
+- **Summary:** Tracked row for `RS-CH1-HOUSE-003`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Eight** classification vs **Chapter Ten** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.
 - **Read with:** [doc_architecture.md](doc_architecture.md) section 5; owner layers per scenario family name.
 
 ### Scenario ID: RS-CH1-ACCESS-001
 - **Class:** implementation / catalog seed (reinstatement)
-- **Summary:** Tracked row for `RS-CH1-ACCESS-001`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Six** classification vs **Chapter Eight** final slot labels; **Chapter Ten** rights-floor boundary per closing Part D section.
+- **Summary:** Tracked row for `RS-CH1-ACCESS-001`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Eight** classification vs **Chapter Ten** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.
 - **Read with:** [doc_architecture.md](doc_architecture.md) section 5; owner layers per scenario family name.
 
 ### Scenario ID: RS-CH1-ACCESS-002
 - **Class:** implementation / catalog seed (reinstatement)
-- **Summary:** Tracked row for `RS-CH1-ACCESS-002`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Six** classification vs **Chapter Eight** final slot labels; **Chapter Ten** rights-floor boundary per closing Part D section.
+- **Summary:** Tracked row for `RS-CH1-ACCESS-002`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Eight** classification vs **Chapter Ten** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.
 - **Read with:** [doc_architecture.md](doc_architecture.md) section 5; owner layers per scenario family name.
 
 ### Scenario ID: RS-CH1-PRIV-001
 - **Class:** implementation / catalog seed (reinstatement)
-- **Summary:** Tracked row for `RS-CH1-PRIV-001`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Six** classification vs **Chapter Eight** final slot labels; **Chapter Ten** rights-floor boundary per closing Part D section.
+- **Summary:** Tracked row for `RS-CH1-PRIV-001`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Eight** classification vs **Chapter Ten** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.
 - **Read with:** [doc_architecture.md](doc_architecture.md) section 5; owner layers per scenario family name.
 
 ### Scenario ID: RS-CH1-PRIV-002
 - **Class:** implementation / catalog seed (reinstatement)
-- **Summary:** Tracked row for `RS-CH1-PRIV-002`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Six** classification vs **Chapter Eight** final slot labels; **Chapter Ten** rights-floor boundary per closing Part D section.
+- **Summary:** Tracked row for `RS-CH1-PRIV-002`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Eight** classification vs **Chapter Ten** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.
 - **Read with:** [doc_architecture.md](doc_architecture.md) section 5; owner layers per scenario family name.
 
 ### Scenario ID: RS-CH1-CONC-001
 - **Class:** implementation / catalog seed (reinstatement)
-- **Summary:** Tracked row for `RS-CH1-CONC-001`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Six** classification vs **Chapter Eight** final slot labels; **Chapter Ten** rights-floor boundary per closing Part D section.
+- **Summary:** Tracked row for `RS-CH1-CONC-001`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Eight** classification vs **Chapter Ten** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.
 - **Read with:** [doc_architecture.md](doc_architecture.md) section 5; owner layers per scenario family name.
 
 ### Scenario ID: RS-CH1-CONC-002
 - **Class:** implementation / catalog seed (reinstatement)
-- **Summary:** Tracked row for `RS-CH1-CONC-002`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Six** classification vs **Chapter Eight** final slot labels; **Chapter Ten** rights-floor boundary per closing Part D section.
+- **Summary:** Tracked row for `RS-CH1-CONC-002`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Eight** classification vs **Chapter Ten** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.
 - **Read with:** [doc_architecture.md](doc_architecture.md) section 5; owner layers per scenario family name.
 
 ### Scenario ID: RS-CH1-CULT-001
 - **Class:** implementation / catalog seed (reinstatement)
-- **Summary:** Tracked row for `RS-CH1-CULT-001`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Six** classification vs **Chapter Eight** final slot labels; **Chapter Ten** rights-floor boundary per closing Part D section.
+- **Summary:** Tracked row for `RS-CH1-CULT-001`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Eight** classification vs **Chapter Ten** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.
 - **Read with:** [doc_architecture.md](doc_architecture.md) section 5; owner layers per scenario family name.
 
 ### Scenario ID: RS-CH1-CULT-002
 - **Class:** implementation / catalog seed (reinstatement)
-- **Summary:** Tracked row for `RS-CH1-CULT-002`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Six** classification vs **Chapter Eight** final slot labels; **Chapter Ten** rights-floor boundary per closing Part D section.
+- **Summary:** Tracked row for `RS-CH1-CULT-002`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Eight** classification vs **Chapter Ten** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.
 - **Read with:** [doc_architecture.md](doc_architecture.md) section 5; owner layers per scenario family name.
 
 ### Scenario ID: RS-CH1-CULT-003
 - **Class:** implementation / catalog seed (reinstatement)
-- **Summary:** Tracked row for `RS-CH1-CULT-003`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Six** classification vs **Chapter Eight** final slot labels; **Chapter Ten** rights-floor boundary per closing Part D section.
+- **Summary:** Tracked row for `RS-CH1-CULT-003`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Eight** classification vs **Chapter Ten** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.
 - **Read with:** [doc_architecture.md](doc_architecture.md) section 5; owner layers per scenario family name.
 
 ### Scenario ID: RS-CH1-ANIM-001
 - **Class:** implementation / catalog seed (reinstatement)
-- **Summary:** Tracked row for `RS-CH1-ANIM-001`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Six** classification vs **Chapter Eight** final slot labels; **Chapter Ten** rights-floor boundary per closing Part D section.
+- **Summary:** Tracked row for `RS-CH1-ANIM-001`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Eight** classification vs **Chapter Ten** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.
 - **Read with:** [doc_architecture.md](doc_architecture.md) section 5; owner layers per scenario family name.
 
 ### Scenario ID: RS-CH1-ANIM-002
 - **Class:** implementation / catalog seed (reinstatement)
-- **Summary:** Tracked row for `RS-CH1-ANIM-002`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Six** classification vs **Chapter Eight** final slot labels; **Chapter Ten** rights-floor boundary per closing Part D section.
+- **Summary:** Tracked row for `RS-CH1-ANIM-002`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Eight** classification vs **Chapter Ten** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.
 - **Read with:** [doc_architecture.md](doc_architecture.md) section 5; owner layers per scenario family name.
 
 ### Scenario ID: RS-CH1-CREATIVE-001
 - **Class:** implementation / catalog seed (reinstatement)
-- **Summary:** Tracked row for `RS-CH1-CREATIVE-001`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Six** classification vs **Chapter Eight** final slot labels; **Chapter Ten** rights-floor boundary per closing Part D section.
+- **Summary:** Tracked row for `RS-CH1-CREATIVE-001`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Eight** classification vs **Chapter Ten** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.
 - **Read with:** [doc_architecture.md](doc_architecture.md) section 5; owner layers per scenario family name.
 
 ### Scenario ID: RS-CH1-CREATIVE-002
 - **Class:** implementation / catalog seed (reinstatement)
-- **Summary:** Tracked row for `RS-CH1-CREATIVE-002`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Six** classification vs **Chapter Eight** final slot labels; **Chapter Ten** rights-floor boundary per closing Part D section.
+- **Summary:** Tracked row for `RS-CH1-CREATIVE-002`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Eight** classification vs **Chapter Ten** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.
 - **Read with:** [doc_architecture.md](doc_architecture.md) section 5; owner layers per scenario family name.
 
 ### Scenario ID: RS-CH1-PROD-CAP-001
 - **Class:** implementation / catalog seed (reinstatement)
-- **Summary:** Tracked row for `RS-CH1-PROD-CAP-001`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Six** classification vs **Chapter Eight** final slot labels; **Chapter Ten** rights-floor boundary per closing Part D section.
+- **Summary:** Tracked row for `RS-CH1-PROD-CAP-001`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Eight** classification vs **Chapter Ten** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.
 - **Read with:** [doc_architecture.md](doc_architecture.md) section 5; owner layers per scenario family name.
 
 ### Scenario ID: RS-CH1-PROD-CAP-002
 - **Class:** implementation / catalog seed (reinstatement)
-- **Summary:** Tracked row for `RS-CH1-PROD-CAP-002`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Six** classification vs **Chapter Eight** final slot labels; **Chapter Ten** rights-floor boundary per closing Part D section.
+- **Summary:** Tracked row for `RS-CH1-PROD-CAP-002`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Eight** classification vs **Chapter Ten** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.
 - **Read with:** [doc_architecture.md](doc_architecture.md) section 5; owner layers per scenario family name.
 
 ### Scenario ID: RS-CH1-PROD-CAP-003
 - **Class:** implementation / catalog seed (reinstatement)
-- **Summary:** Tracked row for `RS-CH1-PROD-CAP-003`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Six** classification vs **Chapter Eight** final slot labels; **Chapter Ten** rights-floor boundary per closing Part D section.
+- **Summary:** Tracked row for `RS-CH1-PROD-CAP-003`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Eight** classification vs **Chapter Ten** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.
 - **Read with:** [doc_architecture.md](doc_architecture.md) section 5; owner layers per scenario family name.
 
 ### Scenario ID: RS-CH1-PROD-CAP-004
 - **Class:** implementation / catalog seed (reinstatement)
-- **Summary:** Tracked row for `RS-CH1-PROD-CAP-004`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Six** classification vs **Chapter Eight** final slot labels; **Chapter Ten** rights-floor boundary per closing Part D section.
+- **Summary:** Tracked row for `RS-CH1-PROD-CAP-004`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Eight** classification vs **Chapter Ten** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.
 - **Read with:** [doc_architecture.md](doc_architecture.md) section 5; owner layers per scenario family name.
 
 ### Scenario ID: RS-CH1-PROD-CAP-005
 - **Class:** implementation / catalog seed (reinstatement)
-- **Summary:** Tracked row for `RS-CH1-PROD-CAP-005`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Six** classification vs **Chapter Eight** final slot labels; **Chapter Ten** rights-floor boundary per closing Part D section.
+- **Summary:** Tracked row for `RS-CH1-PROD-CAP-005`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Eight** classification vs **Chapter Ten** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.
 - **Read with:** [doc_architecture.md](doc_architecture.md) section 5; owner layers per scenario family name.
 
 ### Scenario ID: RS-CH1-CONTIN-001
 - **Class:** implementation / catalog seed (reinstatement)
-- **Summary:** Tracked row for `RS-CH1-CONTIN-001`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Six** classification vs **Chapter Eight** final slot labels; **Chapter Ten** rights-floor boundary per closing Part D section.
+- **Summary:** Tracked row for `RS-CH1-CONTIN-001`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Eight** classification vs **Chapter Ten** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.
 - **Read with:** [doc_architecture.md](doc_architecture.md) section 5; owner layers per scenario family name.
 
 ### Scenario ID: RS-CH1-CONTIN-002
 - **Class:** implementation / catalog seed (reinstatement)
-- **Summary:** Tracked row for `RS-CH1-CONTIN-002`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Six** classification vs **Chapter Eight** final slot labels; **Chapter Ten** rights-floor boundary per closing Part D section.
+- **Summary:** Tracked row for `RS-CH1-CONTIN-002`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Eight** classification vs **Chapter Ten** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.
 - **Read with:** [doc_architecture.md](doc_architecture.md) section 5; owner layers per scenario family name.
 
 ### Scenario ID: RS-CH1-SELF-HEAL-001
 - **Class:** implementation / catalog seed (reinstatement)
-- **Summary:** Tracked row for `RS-CH1-SELF-HEAL-001`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Six** classification vs **Chapter Eight** final slot labels; **Chapter Ten** rights-floor boundary per closing Part D section.
+- **Summary:** Tracked row for `RS-CH1-SELF-HEAL-001`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Eight** classification vs **Chapter Ten** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.
 - **Read with:** [doc_architecture.md](doc_architecture.md) section 5; owner layers per scenario family name.
 
 ### Scenario ID: RS-CH1-SELF-HEAL-002
 - **Class:** implementation / catalog seed (reinstatement)
-- **Summary:** Tracked row for `RS-CH1-SELF-HEAL-002`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Six** classification vs **Chapter Eight** final slot labels; **Chapter Ten** rights-floor boundary per closing Part D section.
+- **Summary:** Tracked row for `RS-CH1-SELF-HEAL-002`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Eight** classification vs **Chapter Ten** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.
 - **Read with:** [doc_architecture.md](doc_architecture.md) section 5; owner layers per scenario family name.
 
 ### Scenario ID: RS-CH1-SELF-HEAL-003
 - **Class:** implementation / catalog seed (reinstatement)
-- **Summary:** Tracked row for `RS-CH1-SELF-HEAL-003`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Six** classification vs **Chapter Eight** final slot labels; **Chapter Ten** rights-floor boundary per closing Part D section.
+- **Summary:** Tracked row for `RS-CH1-SELF-HEAL-003`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Eight** classification vs **Chapter Ten** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.
 - **Read with:** [doc_architecture.md](doc_architecture.md) section 5; owner layers per scenario family name.
 
 ### Scenario ID: RS-CH1-AVOID-BURDEN-001
 - **Class:** implementation / catalog seed (reinstatement)
-- **Summary:** Tracked row for `RS-CH1-AVOID-BURDEN-001`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Six** classification vs **Chapter Eight** final slot labels; **Chapter Ten** rights-floor boundary per closing Part D section.
+- **Summary:** Tracked row for `RS-CH1-AVOID-BURDEN-001`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Eight** classification vs **Chapter Ten** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.
 - **Read with:** [doc_architecture.md](doc_architecture.md) section 5; owner layers per scenario family name.
 
 ### Scenario ID: RS-CH1-AVOID-BURDEN-002
 - **Class:** implementation / catalog seed (reinstatement)
-- **Summary:** Tracked row for `RS-CH1-AVOID-BURDEN-002`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Six** classification vs **Chapter Eight** final slot labels; **Chapter Ten** rights-floor boundary per closing Part D section.
+- **Summary:** Tracked row for `RS-CH1-AVOID-BURDEN-002`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Eight** classification vs **Chapter Ten** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.
 - **Read with:** [doc_architecture.md](doc_architecture.md) section 5; owner layers per scenario family name.
 
 ### Scenario ID: RS-CH1-AVOID-BURDEN-003
 - **Class:** implementation / catalog seed (reinstatement)
-- **Summary:** Tracked row for `RS-CH1-AVOID-BURDEN-003`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Six** classification vs **Chapter Eight** final slot labels; **Chapter Ten** rights-floor boundary per closing Part D section.
+- **Summary:** Tracked row for `RS-CH1-AVOID-BURDEN-003`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Eight** classification vs **Chapter Ten** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.
 - **Read with:** [doc_architecture.md](doc_architecture.md) section 5; owner layers per scenario family name.
 
 ### Scenario ID: RS-CH1-ADOPT-001
 - **Class:** implementation / catalog seed (reinstatement)
-- **Summary:** Tracked row for `RS-CH1-ADOPT-001`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Six** classification vs **Chapter Eight** final slot labels; **Chapter Ten** rights-floor boundary per closing Part D section.
+- **Summary:** Tracked row for `RS-CH1-ADOPT-001`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Eight** classification vs **Chapter Ten** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.
 - **Read with:** [doc_architecture.md](doc_architecture.md) section 5; owner layers per scenario family name.
 
 ### Scenario ID: RS-CH1-PLAIN-001
 - **Class:** implementation / catalog seed (reinstatement)
-- **Summary:** Tracked row for `RS-CH1-PLAIN-001`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Six** classification vs **Chapter Eight** final slot labels; **Chapter Ten** rights-floor boundary per closing Part D section.
+- **Summary:** Tracked row for `RS-CH1-PLAIN-001`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Eight** classification vs **Chapter Ten** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.
 - **Read with:** [doc_architecture.md](doc_architecture.md) section 5; owner layers per scenario family name.
 
 ### Scenario ID: RS-CH1-PLAIN-002
 - **Class:** implementation / catalog seed (reinstatement)
-- **Summary:** Tracked row for `RS-CH1-PLAIN-002`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Six** classification vs **Chapter Eight** final slot labels; **Chapter Ten** rights-floor boundary per closing Part D section.
+- **Summary:** Tracked row for `RS-CH1-PLAIN-002`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Eight** classification vs **Chapter Ten** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.
 - **Read with:** [doc_architecture.md](doc_architecture.md) section 5; owner layers per scenario family name.
 
 ### Scenario ID: RS-CH7-VALIDITY-001
 - **Class:** implementation / catalog seed (reinstatement)
-- **Summary:** Tracked row for `RS-CH7-VALIDITY-001`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Six** classification vs **Chapter Eight** final slot labels; **Chapter Ten** rights-floor boundary per closing Part D section.
+- **Summary:** Tracked row for `RS-CH7-VALIDITY-001`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Eight** classification vs **Chapter Ten** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.
 - **Read with:** [doc_architecture.md](doc_architecture.md) section 5; owner layers per scenario family name.
 
 ### Scenario ID: RS-CH7-VALIDITY-002
 - **Class:** implementation / catalog seed (reinstatement)
-- **Summary:** Tracked row for `RS-CH7-VALIDITY-002`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Six** classification vs **Chapter Eight** final slot labels; **Chapter Ten** rights-floor boundary per closing Part D section.
+- **Summary:** Tracked row for `RS-CH7-VALIDITY-002`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Eight** classification vs **Chapter Ten** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.
 - **Read with:** [doc_architecture.md](doc_architecture.md) section 5; owner layers per scenario family name.
 
 ### Scenario ID: RS-CH7-VALIDITY-003
 - **Class:** implementation / catalog seed (reinstatement)
-- **Summary:** Tracked row for `RS-CH7-VALIDITY-003`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Six** classification vs **Chapter Eight** final slot labels; **Chapter Ten** rights-floor boundary per closing Part D section.
+- **Summary:** Tracked row for `RS-CH7-VALIDITY-003`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Eight** classification vs **Chapter Ten** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.
 - **Read with:** [doc_architecture.md](doc_architecture.md) section 5; owner layers per scenario family name.
 
 ### Scenario ID: RS-CH7-TIERED-OFFENSE-001
 - **Class:** implementation / catalog seed (reinstatement)
-- **Summary:** Tracked row for `RS-CH7-TIERED-OFFENSE-001`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Six** classification vs **Chapter Eight** final slot labels; **Chapter Ten** rights-floor boundary per closing Part D section.
+- **Summary:** Tracked row for `RS-CH7-TIERED-OFFENSE-001`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Eight** classification vs **Chapter Ten** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.
 - **Read with:** [doc_architecture.md](doc_architecture.md) section 5; owner layers per scenario family name.
 
 ### Scenario ID: RS-CH7-TIERED-OFFENSE-002
 - **Class:** implementation / catalog seed (reinstatement)
-- **Summary:** Tracked row for `RS-CH7-TIERED-OFFENSE-002`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Six** classification vs **Chapter Eight** final slot labels; **Chapter Ten** rights-floor boundary per closing Part D section.
+- **Summary:** Tracked row for `RS-CH7-TIERED-OFFENSE-002`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Eight** classification vs **Chapter Ten** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.
 - **Read with:** [doc_architecture.md](doc_architecture.md) section 5; owner layers per scenario family name.
 
 ### Scenario ID: RS-CH7-TIERED-OFFENSE-003
 - **Class:** implementation / catalog seed (reinstatement)
-- **Summary:** Tracked row for `RS-CH7-TIERED-OFFENSE-003`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Six** classification vs **Chapter Eight** final slot labels; **Chapter Ten** rights-floor boundary per closing Part D section.
+- **Summary:** Tracked row for `RS-CH7-TIERED-OFFENSE-003`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Eight** classification vs **Chapter Ten** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.
 - **Read with:** [doc_architecture.md](doc_architecture.md) section 5; owner layers per scenario family name.
 
 ### Scenario ID: RS-CH7-TIERED-OFFENSE-004
 - **Class:** implementation / catalog seed (reinstatement)
-- **Summary:** Tracked row for `RS-CH7-TIERED-OFFENSE-004`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Six** classification vs **Chapter Eight** final slot labels; **Chapter Ten** rights-floor boundary per closing Part D section.
+- **Summary:** Tracked row for `RS-CH7-TIERED-OFFENSE-004`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Eight** classification vs **Chapter Ten** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.
 - **Read with:** [doc_architecture.md](doc_architecture.md) section 5; owner layers per scenario family name.
 
 ### Scenario ID: RS-XXIII-G-CHILD-001
 - **Class:** implementation / timely-resolution vignette
-- **Summary:** Tier A child neglect / care-duty path: interim protection before merits; verified violation standing record; **Interpersonal / Care Duty Misconduct** Q1; safeguard locks Q2; **CF-11.3.1** Tier A milestone compliance. Vignette: [core_06-09_application_vignettes.md](core_06-09_application_vignettes.md#vignette-child-neglect-care-duty).
-- **Read with:** [Article XXIII-G](core_10-10_rights_part_d.md#article-xxiii-g-timely-resolution-and-anti-delay-floor); [Chapter Six §3](core_06-06_standing_assessment.md#6-classification-evaluation-dimensions); [Chapter Seven Chapter One §8.10](core_07-07_standing_integration.md#310-non-recurrence-lock-dimensions); **CF-11.3.1**.
+- **Summary:** Tier A child neglect / care-duty path: interim protection before merits; verified violation standing record; **Interpersonal / Care Duty Misconduct** Q1; safeguard locks Q2; **CF-11.3.1** Tier A milestone compliance. Vignette: [core_08-11_application_vignettes.md](core_08-11_application_vignettes.md#vignette-child-neglect-care-duty).
+- **Read with:** [Article XXIII-G](core_06-06_rights_part_d.md#article-xxiii-g-timely-resolution-and-anti-delay-floor); [Chapter Eight §3](core_08-08_standing_assessment.md#6-classification-evaluation-dimensions); [Chapter Nine Chapter One §8.10](core_09-09_standing_integration.md#310-non-recurrence-lock-dimensions); **CF-11.3.1**.
 
 ### Scenario ID: RS-XXIII-G-DISC-001
 - **Class:** implementation / timely-resolution vignette
-- **Summary:** Tier B employment discrimination / participation-barrier pattern: institutional violation record; **Accessibility and Participation-Barrier Misconduct** + **System Misconduct** Q1; restriction and institutional vehicle locks Q2; no contribution offset. Vignette: [core_06-09_application_vignettes.md](core_06-09_application_vignettes.md#vignette-discrimination-participation-barrier).
-- **Read with:** [Article XXIII-G](core_10-10_rights_part_d.md#article-xxiii-g-timely-resolution-and-anti-delay-floor); [Article XII-B](core_10-10_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress); **CF-11.3.1**.
+- **Summary:** Tier B employment discrimination / participation-barrier pattern: institutional violation record; **Accessibility and Participation-Barrier Misconduct** + **System Misconduct** Q1; restriction and institutional vehicle locks Q2; no contribution offset. Vignette: [core_08-11_application_vignettes.md](core_08-11_application_vignettes.md#vignette-discrimination-participation-barrier).
+- **Read with:** [Article XXIII-G](core_06-06_rights_part_d.md#article-xxiii-g-timely-resolution-and-anti-delay-floor); [Article XII-B](core_06-06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress); **CF-11.3.1**.
 
 ### Scenario ID: RS-XXIII-G-BIZ-001
 - **Class:** implementation / timely-resolution vignette
-- **Summary:** Tier B–C misaligned business: exit lock-in, externalized harm caps contribution credit; **Exit and Lock-In Misconduct** + **System Misconduct** Q1; pathway-scoped and concealment escalated locks Q2; optional **Chapter Eight** escalation. Vignette: [core_06-09_application_vignettes.md](core_06-09_application_vignettes.md#vignette-misaligned-business-structural-harm).
-- **Read with:** [Article XXIII-G](core_10-10_rights_part_d.md#article-xxiii-g-timely-resolution-and-anti-delay-floor); [Chapter Seven Chapter One §6.4](core_07-07_standing_integration.md#54-anti-evasion-and-look-through-authority); **CF-11.3.1**.
+- **Summary:** Tier B–C misaligned business: exit lock-in, externalized harm caps contribution credit; **Exit and Lock-In Misconduct** + **System Misconduct** Q1; pathway-scoped and concealment escalated locks Q2; optional **Chapter Ten** escalation. Vignette: [core_08-11_application_vignettes.md](core_08-11_application_vignettes.md#vignette-misaligned-business-structural-harm).
+- **Read with:** [Article XXIII-G](core_06-06_rights_part_d.md#article-xxiii-g-timely-resolution-and-anti-delay-floor); [Chapter Nine Chapter One §6.4](core_09-09_standing_integration.md#54-anti-evasion-and-look-through-authority); **CF-11.3.1**.
 
 ### Scenario ID: RS-XXIII-G-DELAY-001
 - **Class:** adversarial / anti-delay
-- **Summary:** Designed backlog and exhaustion delay defeat **Article XII-B** and **Article XXIII-G**; chronic underfunding of remedy organ under [Chapter Seven Chapter One §6.2](core_07-07_standing_integration.md#52-remedy-organ-durability) is non-compliance; allegations must not substitute for verified standing during delay.
+- **Summary:** Designed backlog and exhaustion delay defeat **Article XII-B** and **Article XXIII-G**; chronic underfunding of remedy organ under [Chapter Nine Chapter One §6.2](core_09-09_standing_integration.md#52-remedy-organ-durability) is non-compliance; allegations must not substitute for verified standing during delay.
 - **Read with:** [Timeliness](core_05a_accountability_definitions.md#timeliness-constitutional); [Timely Resolution](core_05a_accountability_definitions.md#timely-resolution-constitutional); **CF-11.4**; **CF-11.5**.
 
 ### Scenario ID: RS-TETRAD-TIMELINESS-001
 - **Class:** implementation / tetrad-timeliness vignette
-- **Summary:** Steward defers repair after documented drift notice; **Stewardship Defect** and Ch6 **Response timeliness / avoidable delay** Q1 hook; Ch7 Chapter One §8.10 remedy-commencement dimension. Vignette: [core_06-09_application_vignettes.md](core_06-09_application_vignettes.md#vignette-stewardship-delay-deferred-repair).
-- **Read with:** [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad); [Chapter One §9.1](core_01_b_stewardship_capacity_principles.md#91-stewardship); [Chapter Six §3](core_06-06_standing_assessment.md#dual-use-classification-dimensions); **Article XXIII-G**.
+- **Summary:** Steward defers repair after documented drift notice; **Stewardship Defect** and Ch6 **Response timeliness / avoidable delay** Q1 hook; Ch7 Chapter One §8.10 remedy-commencement dimension. Vignette: [core_08-11_application_vignettes.md](core_08-11_application_vignettes.md#vignette-stewardship-delay-deferred-repair).
+- **Read with:** [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad); [Chapter One §9.1](core_01_b_stewardship_capacity_principles.md#91-stewardship); [Chapter Eight §3](core_08-08_standing_assessment.md#dual-use-classification-dimensions); **Article XXIII-G**.
 
 ### Scenario ID: RS-TETRAD-TIMELINESS-002
 - **Class:** adversarial / tetrad-hollow
-- **Summary:** Forum maintains formal structures but pipeline milestones chronically overrun without extension — **timeliness** leg hollowed while O·P·A forms persist; may escalate to **tetrad capture** under Chapter Eight at scale. Vignette: [core_06-09_application_vignettes.md](core_06-09_application_vignettes.md#vignette-pipeline-overrun-tetrad-hollow).
-- **Read with:** [Timeliness](core_05a_accountability_definitions.md#timeliness-constitutional); [Capture of Resolution Pathways](core_05a_accountability_definitions.md#capture-of-resolution-pathways); [Chapter Eight](core_08-08_misconduct.md#chapter-eight-anti-constitutional-misconduct); **CF-11.3.1**.
+- **Summary:** Forum maintains formal structures but pipeline milestones chronically overrun without extension — **timeliness** leg hollowed while O·P·A forms persist; may escalate to **tetrad capture** under Chapter Ten at scale. Vignette: [core_08-11_application_vignettes.md](core_08-11_application_vignettes.md#vignette-pipeline-overrun-tetrad-hollow).
+- **Read with:** [Timeliness](core_05a_accountability_definitions.md#timeliness-constitutional); [Capture of Resolution Pathways](core_05a_accountability_definitions.md#capture-of-resolution-pathways); [Chapter Ten](core_10-10_misconduct.md#chapter-ten-anti-constitutional-misconduct); **CF-11.3.1**.
 
 ### Scenario ID: RS-CH5-GW-001
 - **Class:** implementation / catalog seed (reinstatement)
-- **Summary:** Tracked row for `RS-CH5-GW-001`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Six** classification vs **Chapter Eight** final slot labels; **Chapter Ten** rights-floor boundary per closing Part D section.
+- **Summary:** Tracked row for `RS-CH5-GW-001`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Eight** classification vs **Chapter Ten** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.
 - **Read with:** [doc_architecture.md](doc_architecture.md) section 5; owner layers per scenario family name.
 
 ### Scenario ID: RS-CH5-GW-002
 - **Class:** implementation / catalog seed (reinstatement)
-- **Summary:** Tracked row for `RS-CH5-GW-002`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Six** classification vs **Chapter Eight** final slot labels; **Chapter Ten** rights-floor boundary per closing Part D section.
+- **Summary:** Tracked row for `RS-CH5-GW-002`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Eight** classification vs **Chapter Ten** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.
 - **Read with:** [doc_architecture.md](doc_architecture.md) section 5; owner layers per scenario family name.
 
 ### Scenario ID: RS-CH5-GW-003
 - **Class:** implementation / catalog seed (reinstatement)
-- **Summary:** Tracked row for `RS-CH5-GW-003`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Six** classification vs **Chapter Eight** final slot labels; **Chapter Ten** rights-floor boundary per closing Part D section.
+- **Summary:** Tracked row for `RS-CH5-GW-003`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Eight** classification vs **Chapter Ten** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.
 - **Read with:** [doc_architecture.md](doc_architecture.md) section 5; owner layers per scenario family name.
 
 ### Scenario ID: RS-CH5-GW-004
 - **Class:** implementation / catalog seed (reinstatement)
-- **Summary:** Tracked row for `RS-CH5-GW-004`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Six** classification vs **Chapter Eight** final slot labels; **Chapter Ten** rights-floor boundary per closing Part D section.
+- **Summary:** Tracked row for `RS-CH5-GW-004`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Eight** classification vs **Chapter Ten** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.
 - **Read with:** [doc_architecture.md](doc_architecture.md) section 5; owner layers per scenario family name.
 
 ### Scenario ID: RS-AUTO-001
 - **Class:** implementation / catalog seed (reinstatement)
-- **Summary:** Tracked row for `RS-AUTO-001`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Six** classification vs **Chapter Eight** final slot labels; **Chapter Ten** rights-floor boundary per closing Part D section.
+- **Summary:** Tracked row for `RS-AUTO-001`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Eight** classification vs **Chapter Ten** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.
 - **Read with:** [doc_architecture.md](doc_architecture.md) section 5; owner layers per scenario family name.
 
 ### Scenario ID: RS-AUTO-002
 - **Class:** implementation / catalog seed (reinstatement)
-- **Summary:** Tracked row for `RS-AUTO-002`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Six** classification vs **Chapter Eight** final slot labels; **Chapter Ten** rights-floor boundary per closing Part D section.
+- **Summary:** Tracked row for `RS-AUTO-002`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Eight** classification vs **Chapter Ten** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.
 - **Read with:** [doc_architecture.md](doc_architecture.md) section 5; owner layers per scenario family name.
 
 ### Scenario ID: RS-CAP-013
 - **Class:** implementation / catalog seed (reinstatement)
-- **Summary:** Tracked row for `RS-CAP-013`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Six** classification vs **Chapter Eight** final slot labels; **Chapter Ten** rights-floor boundary per closing Part D section.
+- **Summary:** Tracked row for `RS-CAP-013`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Eight** classification vs **Chapter Ten** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.
 - **Read with:** [doc_architecture.md](doc_architecture.md) section 5; owner layers per scenario family name.
 
 ### Scenario ID: RS-CAP-014
 - **Class:** implementation / catalog seed (reinstatement)
-- **Summary:** Tracked row for `RS-CAP-014`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Six** classification vs **Chapter Eight** final slot labels; **Chapter Ten** rights-floor boundary per closing Part D section.
+- **Summary:** Tracked row for `RS-CAP-014`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Eight** classification vs **Chapter Ten** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.
 - **Read with:** [doc_architecture.md](doc_architecture.md) section 5; owner layers per scenario family name.
 
 ### Scenario ID: RS-CAP-015
 - **Class:** implementation / catalog seed (reinstatement)
-- **Summary:** Tracked row for `RS-CAP-015`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Six** classification vs **Chapter Eight** final slot labels; **Chapter Ten** rights-floor boundary per closing Part D section.
+- **Summary:** Tracked row for `RS-CAP-015`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Eight** classification vs **Chapter Ten** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.
 - **Read with:** [doc_architecture.md](doc_architecture.md) section 5; owner layers per scenario family name.
 
 ### Scenario ID: RS-CAP-016
 - **Class:** implementation / catalog seed (reinstatement)
-- **Summary:** Tracked row for `RS-CAP-016`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Six** classification vs **Chapter Eight** final slot labels; **Chapter Ten** rights-floor boundary per closing Part D section.
+- **Summary:** Tracked row for `RS-CAP-016`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Eight** classification vs **Chapter Ten** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.
 - **Read with:** [doc_architecture.md](doc_architecture.md) section 5; owner layers per scenario family name.
 
 ### Scenario ID: RS-HUM-001
 - **Class:** implementation / catalog seed (reinstatement)
-- **Summary:** Tracked row for `RS-HUM-001`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Six** classification vs **Chapter Eight** final slot labels; **Chapter Ten** rights-floor boundary per closing Part D section.
+- **Summary:** Tracked row for `RS-HUM-001`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Eight** classification vs **Chapter Ten** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.
 - **Read with:** [doc_architecture.md](doc_architecture.md) section 5; owner layers per scenario family name.
 
 ### Scenario ID: RS-HUM-002
 - **Class:** implementation / catalog seed (reinstatement)
-- **Summary:** Tracked row for `RS-HUM-002`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Six** classification vs **Chapter Eight** final slot labels; **Chapter Ten** rights-floor boundary per closing Part D section.
+- **Summary:** Tracked row for `RS-HUM-002`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Eight** classification vs **Chapter Ten** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.
 - **Read with:** [doc_architecture.md](doc_architecture.md) section 5; owner layers per scenario family name.
 
 ### Scenario ID: RS-HUM-003
 - **Class:** implementation / catalog seed (reinstatement)
-- **Summary:** Tracked row for `RS-HUM-003`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Six** classification vs **Chapter Eight** final slot labels; **Chapter Ten** rights-floor boundary per closing Part D section.
+- **Summary:** Tracked row for `RS-HUM-003`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Eight** classification vs **Chapter Ten** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.
 - **Read with:** [doc_architecture.md](doc_architecture.md) section 5; owner layers per scenario family name.
 
 ### Scenario ID: RS-HUM-004
 - **Class:** implementation / catalog seed (reinstatement)
-- **Summary:** Tracked row for `RS-HUM-004`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Six** classification vs **Chapter Eight** final slot labels; **Chapter Ten** rights-floor boundary per closing Part D section.
+- **Summary:** Tracked row for `RS-HUM-004`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Eight** classification vs **Chapter Ten** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.
 - **Read with:** [doc_architecture.md](doc_architecture.md) section 5; owner layers per scenario family name.
 
 ### Scenario ID: RS-HUM-005
 - **Class:** implementation / catalog seed (reinstatement)
-- **Summary:** Tracked row for `RS-HUM-005`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Six** classification vs **Chapter Eight** final slot labels; **Chapter Ten** rights-floor boundary per closing Part D section.
+- **Summary:** Tracked row for `RS-HUM-005`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Eight** classification vs **Chapter Ten** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.
 - **Read with:** [doc_architecture.md](doc_architecture.md) section 5; owner layers per scenario family name.
 
 ### Scenario ID: RS-HUM-006
 - **Class:** implementation / catalog seed (reinstatement)
-- **Summary:** Tracked row for `RS-HUM-006`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Six** classification vs **Chapter Eight** final slot labels; **Chapter Ten** rights-floor boundary per closing Part D section.
+- **Summary:** Tracked row for `RS-HUM-006`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Eight** classification vs **Chapter Ten** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.
 - **Read with:** [doc_architecture.md](doc_architecture.md) section 5; owner layers per scenario family name.
 
 ### Scenario ID: RS-HUM-007
 - **Class:** implementation / catalog seed (reinstatement)
-- **Summary:** Tracked row for `RS-HUM-007`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Six** classification vs **Chapter Eight** final slot labels; **Chapter Ten** rights-floor boundary per closing Part D section.
+- **Summary:** Tracked row for `RS-HUM-007`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Eight** classification vs **Chapter Ten** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.
 - **Read with:** [doc_architecture.md](doc_architecture.md) section 5; owner layers per scenario family name.
 
 ### Scenario ID: RS-HUM-008
 - **Class:** implementation / catalog seed (reinstatement)
-- **Summary:** Tracked row for `RS-HUM-008`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Six** classification vs **Chapter Eight** final slot labels; **Chapter Ten** rights-floor boundary per closing Part D section.
+- **Summary:** Tracked row for `RS-HUM-008`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Eight** classification vs **Chapter Ten** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.
 - **Read with:** [doc_architecture.md](doc_architecture.md) section 5; owner layers per scenario family name.
 
 ### Scenario ID: RS-HUM-009
 - **Class:** implementation / catalog seed (reinstatement)
-- **Summary:** Tracked row for `RS-HUM-009`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Six** classification vs **Chapter Eight** final slot labels; **Chapter Ten** rights-floor boundary per closing Part D section.
+- **Summary:** Tracked row for `RS-HUM-009`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Eight** classification vs **Chapter Ten** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.
 - **Read with:** [doc_architecture.md](doc_architecture.md) section 5; owner layers per scenario family name.
 
 ### Scenario ID: RS-HUM-010
 - **Class:** implementation / catalog seed (reinstatement)
-- **Summary:** Tracked row for `RS-HUM-010`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Six** classification vs **Chapter Eight** final slot labels; **Chapter Ten** rights-floor boundary per closing Part D section.
+- **Summary:** Tracked row for `RS-HUM-010`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Eight** classification vs **Chapter Ten** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.
 - **Read with:** [doc_architecture.md](doc_architecture.md) section 5; owner layers per scenario family name.
 
 ### Scenario ID: RS-HUM-011
 - **Class:** implementation / catalog seed (reinstatement)
-- **Summary:** Tracked row for `RS-HUM-011`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Six** classification vs **Chapter Eight** final slot labels; **Chapter Ten** rights-floor boundary per closing Part D section.
+- **Summary:** Tracked row for `RS-HUM-011`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Eight** classification vs **Chapter Ten** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.
 - **Read with:** [doc_architecture.md](doc_architecture.md) section 5; owner layers per scenario family name.
 
 ### Scenario ID: RS-HUM-012
 - **Class:** implementation / catalog seed (reinstatement)
-- **Summary:** Tracked row for `RS-HUM-012`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Six** classification vs **Chapter Eight** final slot labels; **Chapter Ten** rights-floor boundary per closing Part D section.
+- **Summary:** Tracked row for `RS-HUM-012`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Eight** classification vs **Chapter Ten** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.
 - **Read with:** [doc_architecture.md](doc_architecture.md) section 5; owner layers per scenario family name.
 
 ### Scenario ID: RS-HUM-013
 - **Class:** implementation / catalog seed (reinstatement)
-- **Summary:** Tracked row for `RS-HUM-013`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Six** classification vs **Chapter Eight** final slot labels; **Chapter Ten** rights-floor boundary per closing Part D section.
+- **Summary:** Tracked row for `RS-HUM-013`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Eight** classification vs **Chapter Ten** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.
 - **Read with:** [doc_architecture.md](doc_architecture.md) section 5; owner layers per scenario family name.
 
 ### Scenario ID: RS-HUM-014
 - **Class:** implementation / catalog seed (reinstatement)
-- **Summary:** Tracked row for `RS-HUM-014`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Six** classification vs **Chapter Eight** final slot labels; **Chapter Ten** rights-floor boundary per closing Part D section.
+- **Summary:** Tracked row for `RS-HUM-014`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Eight** classification vs **Chapter Ten** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.
 - **Read with:** [doc_architecture.md](doc_architecture.md) section 5; owner layers per scenario family name.
 
 ### Scenario ID: RS-HUM-015
 - **Class:** implementation / catalog seed (reinstatement)
-- **Summary:** Tracked row for `RS-HUM-015`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Six** classification vs **Chapter Eight** final slot labels; **Chapter Ten** rights-floor boundary per closing Part D section.
+- **Summary:** Tracked row for `RS-HUM-015`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Eight** classification vs **Chapter Ten** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.
 - **Read with:** [doc_architecture.md](doc_architecture.md) section 5; owner layers per scenario family name.
 
 ### Scenario ID: RS-IND-001
 - **Class:** implementation / catalog seed (reinstatement)
-- **Summary:** Tracked row for `RS-IND-001`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Six** classification vs **Chapter Eight** final slot labels; **Chapter Ten** rights-floor boundary per closing Part D section.
+- **Summary:** Tracked row for `RS-IND-001`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Eight** classification vs **Chapter Ten** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.
 - **Read with:** [doc_architecture.md](doc_architecture.md) section 5; owner layers per scenario family name.
 
 ### Scenario ID: RS-IND-002
 - **Class:** implementation / catalog seed (reinstatement)
-- **Summary:** Tracked row for `RS-IND-002`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Six** classification vs **Chapter Eight** final slot labels; **Chapter Ten** rights-floor boundary per closing Part D section.
+- **Summary:** Tracked row for `RS-IND-002`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Eight** classification vs **Chapter Ten** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.
 - **Read with:** [doc_architecture.md](doc_architecture.md) section 5; owner layers per scenario family name.
 
 ### Scenario ID: RS-IND-003
 - **Class:** implementation / catalog seed (reinstatement)
-- **Summary:** Tracked row for `RS-IND-003`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Six** classification vs **Chapter Eight** final slot labels; **Chapter Ten** rights-floor boundary per closing Part D section.
+- **Summary:** Tracked row for `RS-IND-003`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Eight** classification vs **Chapter Ten** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.
 - **Read with:** [doc_architecture.md](doc_architecture.md) section 5; owner layers per scenario family name.
 
 ### Scenario ID: RS-IND-004
 - **Class:** implementation / catalog seed (reinstatement)
-- **Summary:** Tracked row for `RS-IND-004`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Six** classification vs **Chapter Eight** final slot labels; **Chapter Ten** rights-floor boundary per closing Part D section.
+- **Summary:** Tracked row for `RS-IND-004`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Eight** classification vs **Chapter Ten** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.
 - **Read with:** [doc_architecture.md](doc_architecture.md) section 5; owner layers per scenario family name.
 
 ### Scenario ID: RS-IND-005
 - **Class:** implementation / catalog seed (reinstatement)
-- **Summary:** Tracked row for `RS-IND-005`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Six** classification vs **Chapter Eight** final slot labels; **Chapter Ten** rights-floor boundary per closing Part D section.
+- **Summary:** Tracked row for `RS-IND-005`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Eight** classification vs **Chapter Ten** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.
 - **Read with:** [doc_architecture.md](doc_architecture.md) section 5; owner layers per scenario family name.
 
 ### Scenario ID: RS-IND-006
 - **Class:** implementation / catalog seed (reinstatement)
-- **Summary:** Tracked row for `RS-IND-006`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Six** classification vs **Chapter Eight** final slot labels; **Chapter Ten** rights-floor boundary per closing Part D section.
+- **Summary:** Tracked row for `RS-IND-006`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Eight** classification vs **Chapter Ten** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.
 - **Read with:** [doc_architecture.md](doc_architecture.md) section 5; owner layers per scenario family name.
 
 ### Scenario ID: RS-IND-007
 - **Class:** implementation / catalog seed (reinstatement)
-- **Summary:** Tracked row for `RS-IND-007`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Six** classification vs **Chapter Eight** final slot labels; **Chapter Ten** rights-floor boundary per closing Part D section.
+- **Summary:** Tracked row for `RS-IND-007`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Eight** classification vs **Chapter Ten** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.
 - **Read with:** [doc_architecture.md](doc_architecture.md) section 5; owner layers per scenario family name.
 
 ### Scenario ID: RS-IND-008
 - **Class:** implementation / catalog seed (reinstatement)
-- **Summary:** Tracked row for `RS-IND-008`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Six** classification vs **Chapter Eight** final slot labels; **Chapter Ten** rights-floor boundary per closing Part D section.
+- **Summary:** Tracked row for `RS-IND-008`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Eight** classification vs **Chapter Ten** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.
 - **Read with:** [doc_architecture.md](doc_architecture.md) section 5; owner layers per scenario family name.
 
 ### Scenario ID: RS-IND-009
 - **Class:** implementation / catalog seed (reinstatement)
-- **Summary:** Tracked row for `RS-IND-009`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Six** classification vs **Chapter Eight** final slot labels; **Chapter Ten** rights-floor boundary per closing Part D section.
+- **Summary:** Tracked row for `RS-IND-009`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Eight** classification vs **Chapter Ten** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.
 - **Read with:** [doc_architecture.md](doc_architecture.md) section 5; owner layers per scenario family name.
 
 ### Scenario ID: RS-IND-010
 - **Class:** implementation / catalog seed (reinstatement)
-- **Summary:** Tracked row for `RS-IND-010`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Six** classification vs **Chapter Eight** final slot labels; **Chapter Ten** rights-floor boundary per closing Part D section.
+- **Summary:** Tracked row for `RS-IND-010`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Eight** classification vs **Chapter Ten** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.
 - **Read with:** [doc_architecture.md](doc_architecture.md) section 5; owner layers per scenario family name.
 
 ### Scenario ID: RS-IND-011
 - **Class:** implementation / catalog seed (reinstatement)
-- **Summary:** Tracked row for `RS-IND-011`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Six** classification vs **Chapter Eight** final slot labels; **Chapter Ten** rights-floor boundary per closing Part D section.
+- **Summary:** Tracked row for `RS-IND-011`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Eight** classification vs **Chapter Ten** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.
 - **Read with:** [doc_architecture.md](doc_architecture.md) section 5; owner layers per scenario family name.
 
 ### Scenario ID: RS-IND-012
 - **Class:** implementation / catalog seed (reinstatement)
-- **Summary:** Tracked row for `RS-IND-012`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Six** classification vs **Chapter Eight** final slot labels; **Chapter Ten** rights-floor boundary per closing Part D section.
+- **Summary:** Tracked row for `RS-IND-012`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Eight** classification vs **Chapter Ten** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.
 - **Read with:** [doc_architecture.md](doc_architecture.md) section 5; owner layers per scenario family name.
 
 ### Scenario ID: RS-IND-013
 - **Class:** implementation / catalog seed (reinstatement)
-- **Summary:** Tracked row for `RS-IND-013`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Six** classification vs **Chapter Eight** final slot labels; **Chapter Ten** rights-floor boundary per closing Part D section.
+- **Summary:** Tracked row for `RS-IND-013`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Eight** classification vs **Chapter Ten** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.
 - **Read with:** [doc_architecture.md](doc_architecture.md) section 5; owner layers per scenario family name.
 
 ### Scenario ID: RS-IND-014
 - **Class:** implementation / catalog seed (reinstatement)
-- **Summary:** Tracked row for `RS-IND-014`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Six** classification vs **Chapter Eight** final slot labels; **Chapter Ten** rights-floor boundary per closing Part D section.
+- **Summary:** Tracked row for `RS-IND-014`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Eight** classification vs **Chapter Ten** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.
 - **Read with:** [doc_architecture.md](doc_architecture.md) section 5; owner layers per scenario family name.
 
 ### Scenario ID: RS-IND-015
 - **Class:** implementation / catalog seed (reinstatement)
-- **Summary:** Tracked row for `RS-IND-015`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Six** classification vs **Chapter Eight** final slot labels; **Chapter Ten** rights-floor boundary per closing Part D section.
+- **Summary:** Tracked row for `RS-IND-015`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Eight** classification vs **Chapter Ten** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.
 - **Read with:** [doc_architecture.md](doc_architecture.md) section 5; owner layers per scenario family name.
 
 ### Scenario ID: RS-XD-001
 - **Class:** implementation / catalog seed (reinstatement)
-- **Summary:** Tracked row for `RS-XD-001`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Six** classification vs **Chapter Eight** final slot labels; **Chapter Ten** rights-floor boundary per closing Part D section.
+- **Summary:** Tracked row for `RS-XD-001`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Eight** classification vs **Chapter Ten** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.
 - **Read with:** [doc_architecture.md](doc_architecture.md) section 5; owner layers per scenario family name.
 
 ### Scenario ID: RS-XD-002
 - **Class:** implementation / catalog seed (reinstatement)
-- **Summary:** Tracked row for `RS-XD-002`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Six** classification vs **Chapter Eight** final slot labels; **Chapter Ten** rights-floor boundary per closing Part D section.
+- **Summary:** Tracked row for `RS-XD-002`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Eight** classification vs **Chapter Ten** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.
 - **Read with:** [doc_architecture.md](doc_architecture.md) section 5; owner layers per scenario family name.
 
 ### Scenario ID: RS-XD-003
 - **Class:** implementation / catalog seed (reinstatement)
-- **Summary:** Tracked row for `RS-XD-003`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Six** classification vs **Chapter Eight** final slot labels; **Chapter Ten** rights-floor boundary per closing Part D section.
+- **Summary:** Tracked row for `RS-XD-003`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Eight** classification vs **Chapter Ten** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.
 - **Read with:** [doc_architecture.md](doc_architecture.md) section 5; owner layers per scenario family name.
 
 ### Scenario ID: RS-XD-004
 - **Class:** implementation / catalog seed (reinstatement)
-- **Summary:** Tracked row for `RS-XD-004`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Six** classification vs **Chapter Eight** final slot labels; **Chapter Ten** rights-floor boundary per closing Part D section.
+- **Summary:** Tracked row for `RS-XD-004`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Eight** classification vs **Chapter Ten** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.
 - **Read with:** [doc_architecture.md](doc_architecture.md) section 5; owner layers per scenario family name.
 
 ### Scenario ID: RS-XD-005
 - **Class:** implementation / catalog seed (reinstatement)
-- **Summary:** Tracked row for `RS-XD-005`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Six** classification vs **Chapter Eight** final slot labels; **Chapter Ten** rights-floor boundary per closing Part D section.
+- **Summary:** Tracked row for `RS-XD-005`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Eight** classification vs **Chapter Ten** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.
 - **Read with:** [doc_architecture.md](doc_architecture.md) section 5; owner layers per scenario family name.
 
 ### Scenario ID: RS-CH64-001
 - **Class:** implementation / catalog seed (reinstatement)
-- **Summary:** Tracked row for `RS-CH64-001`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Six** classification vs **Chapter Eight** final slot labels; **Chapter Ten** rights-floor boundary per closing Part D section.
+- **Summary:** Tracked row for `RS-CH64-001`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Eight** classification vs **Chapter Ten** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.
 - **Read with:** [doc_architecture.md](doc_architecture.md) section 5; owner layers per scenario family name.
 
 ### Scenario ID: RS-CH64-003
 - **Class:** implementation / catalog seed (reinstatement)
-- **Summary:** Tracked row for `RS-CH64-003`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Six** classification vs **Chapter Eight** final slot labels; **Chapter Ten** rights-floor boundary per closing Part D section.
+- **Summary:** Tracked row for `RS-CH64-003`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Eight** classification vs **Chapter Ten** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.
 - **Read with:** [doc_architecture.md](doc_architecture.md) section 5; owner layers per scenario family name.
 
 ### Scenario ID: RS-ROLES-001
 - **Class:** implementation / catalog seed (reinstatement)
-- **Summary:** Tracked row for `RS-ROLES-001`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Six** classification vs **Chapter Eight** final slot labels; **Chapter Ten** rights-floor boundary per closing Part D section.
+- **Summary:** Tracked row for `RS-ROLES-001`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Eight** classification vs **Chapter Ten** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.
 - **Read with:** [doc_architecture.md](doc_architecture.md) section 5; owner layers per scenario family name.
 
 ### Scenario ID: RS-EPI-001
 - **Class:** implementation / catalog seed (reinstatement)
-- **Summary:** Tracked row for `RS-EPI-001`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Six** classification vs **Chapter Eight** final slot labels; **Chapter Ten** rights-floor boundary per closing Part D section.
+- **Summary:** Tracked row for `RS-EPI-001`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Eight** classification vs **Chapter Ten** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.
 - **Read with:** [doc_architecture.md](doc_architecture.md) section 5; owner layers per scenario family name.
 
 ### Scenario ID: RS-VI-001
 - **Class:** implementation / catalog seed (reinstatement)
-- **Summary:** Tracked row for `RS-VI-001`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Six** classification vs **Chapter Eight** final slot labels; **Chapter Ten** rights-floor boundary per closing Part D section.
+- **Summary:** Tracked row for `RS-VI-001`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Eight** classification vs **Chapter Ten** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.
 - **Read with:** [doc_architecture.md](doc_architecture.md) section 5; owner layers per scenario family name.
 
 ### Scenario ID: RS-T7-001
 - **Class:** implementation / catalog seed (reinstatement)
-- **Summary:** Tracked row for `RS-T7-001`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Six** classification vs **Chapter Eight** final slot labels; **Chapter Ten** rights-floor boundary per closing Part D section.
+- **Summary:** Tracked row for `RS-T7-001`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Eight** classification vs **Chapter Ten** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.
 - **Read with:** [doc_architecture.md](doc_architecture.md) section 5; owner layers per scenario family name.
 
 ### Scenario ID: RS-AGE-001
 - **Class:** implementation / catalog seed (reinstatement)
-- **Summary:** Tracked row for `RS-AGE-001`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Six** classification vs **Chapter Eight** final slot labels; **Chapter Ten** rights-floor boundary per closing Part D section.
+- **Summary:** Tracked row for `RS-AGE-001`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Eight** classification vs **Chapter Ten** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.
 - **Read with:** [doc_architecture.md](doc_architecture.md) section 5; owner layers per scenario family name.
 
 ### Scenario ID: RS-AGE-002
 - **Class:** implementation / catalog seed (reinstatement)
-- **Summary:** Tracked row for `RS-AGE-002`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Six** classification vs **Chapter Eight** final slot labels; **Chapter Ten** rights-floor boundary per closing Part D section.
+- **Summary:** Tracked row for `RS-AGE-002`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Eight** classification vs **Chapter Ten** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.
 - **Read with:** [doc_architecture.md](doc_architecture.md) section 5; owner layers per scenario family name.
 
 ### Scenario ID: RS-AGE-003
 - **Class:** implementation / catalog seed (reinstatement)
-- **Summary:** Tracked row for `RS-AGE-003`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Six** classification vs **Chapter Eight** final slot labels; **Chapter Ten** rights-floor boundary per closing Part D section.
+- **Summary:** Tracked row for `RS-AGE-003`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Eight** classification vs **Chapter Ten** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.
 - **Read with:** [doc_architecture.md](doc_architecture.md) section 5; owner layers per scenario family name.
 
 ### Scenario ID: RS-SCI-001
 - **Class:** implementation / catalog seed (reinstatement)
-- **Summary:** Tracked row for `RS-SCI-001`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Six** classification vs **Chapter Eight** final slot labels; **Chapter Ten** rights-floor boundary per closing Part D section.
+- **Summary:** Tracked row for `RS-SCI-001`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Eight** classification vs **Chapter Ten** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.
 - **Read with:** [doc_architecture.md](doc_architecture.md) section 5; owner layers per scenario family name.
 
 ### Scenario ID: RS-SCI-002
 - **Class:** implementation / catalog seed (reinstatement)
-- **Summary:** Tracked row for `RS-SCI-002`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Six** classification vs **Chapter Eight** final slot labels; **Chapter Ten** rights-floor boundary per closing Part D section.
+- **Summary:** Tracked row for `RS-SCI-002`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Eight** classification vs **Chapter Ten** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.
 - **Read with:** [doc_architecture.md](doc_architecture.md) section 5; owner layers per scenario family name.
 
 ### Scenario ID: RS-SCI-003
 - **Class:** implementation / catalog seed (reinstatement)
-- **Summary:** Tracked row for `RS-SCI-003`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Six** classification vs **Chapter Eight** final slot labels; **Chapter Ten** rights-floor boundary per closing Part D section.
+- **Summary:** Tracked row for `RS-SCI-003`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Eight** classification vs **Chapter Ten** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.
 - **Read with:** [doc_architecture.md](doc_architecture.md) section 5; owner layers per scenario family name.
 
 ### Scenario ID: RS-CRYPT-001
 - **Class:** implementation / catalog seed (reinstatement)
-- **Summary:** Tracked row for `RS-CRYPT-001`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Six** classification vs **Chapter Eight** final slot labels; **Chapter Ten** rights-floor boundary per closing Part D section.
+- **Summary:** Tracked row for `RS-CRYPT-001`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Eight** classification vs **Chapter Ten** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.
 - **Read with:** [doc_architecture.md](doc_architecture.md) section 5; owner layers per scenario family name.
 
 ### Scenario ID: RS-CRYPT-002
 - **Class:** implementation / catalog seed (reinstatement)
-- **Summary:** Tracked row for `RS-CRYPT-002`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Six** classification vs **Chapter Eight** final slot labels; **Chapter Ten** rights-floor boundary per closing Part D section.
+- **Summary:** Tracked row for `RS-CRYPT-002`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Eight** classification vs **Chapter Ten** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.
 - **Read with:** [doc_architecture.md](doc_architecture.md) section 5; owner layers per scenario family name.
 
 ### Scenario ID: RS-CRYPT-003
 - **Class:** implementation / catalog seed (reinstatement)
-- **Summary:** Tracked row for `RS-CRYPT-003`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Six** classification vs **Chapter Eight** final slot labels; **Chapter Ten** rights-floor boundary per closing Part D section.
+- **Summary:** Tracked row for `RS-CRYPT-003`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Eight** classification vs **Chapter Ten** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.
 - **Read with:** [doc_architecture.md](doc_architecture.md) section 5; owner layers per scenario family name.
 
 ### Scenario ID: RS-PROT-001
 - **Class:** implementation / catalog seed (reinstatement)
-- **Summary:** Tracked row for `RS-PROT-001`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Six** classification vs **Chapter Eight** final slot labels; **Chapter Ten** rights-floor boundary per closing Part D section.
+- **Summary:** Tracked row for `RS-PROT-001`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Eight** classification vs **Chapter Ten** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.
 - **Read with:** [doc_architecture.md](doc_architecture.md) section 5; owner layers per scenario family name.
 
 ### Scenario ID: RS-PROT-002
 - **Class:** implementation / catalog seed (reinstatement)
-- **Summary:** Tracked row for `RS-PROT-002`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Six** classification vs **Chapter Eight** final slot labels; **Chapter Ten** rights-floor boundary per closing Part D section.
+- **Summary:** Tracked row for `RS-PROT-002`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Eight** classification vs **Chapter Ten** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.
 - **Read with:** [doc_architecture.md](doc_architecture.md) section 5; owner layers per scenario family name.
 
 ### Scenario ID: RS-PROT-003
 - **Class:** implementation / catalog seed (reinstatement)
-- **Summary:** Tracked row for `RS-PROT-003`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Six** classification vs **Chapter Eight** final slot labels; **Chapter Ten** rights-floor boundary per closing Part D section.
+- **Summary:** Tracked row for `RS-PROT-003`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Eight** classification vs **Chapter Ten** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.
 - **Read with:** [doc_architecture.md](doc_architecture.md) section 5; owner layers per scenario family name.
 
 ### Scenario ID: RS-PROT-004
 - **Class:** implementation / catalog seed (reinstatement)
-- **Summary:** Tracked row for `RS-PROT-004`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Six** classification vs **Chapter Eight** final slot labels; **Chapter Ten** rights-floor boundary per closing Part D section.
+- **Summary:** Tracked row for `RS-PROT-004`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Eight** classification vs **Chapter Ten** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.
 - **Read with:** [doc_architecture.md](doc_architecture.md) section 5; owner layers per scenario family name.
 
 ### Scenario ID: RS-PROT-005
 - **Class:** implementation / catalog seed (reinstatement)
-- **Summary:** Tracked row for `RS-PROT-005`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Six** classification vs **Chapter Eight** final slot labels; **Chapter Ten** rights-floor boundary per closing Part D section.
+- **Summary:** Tracked row for `RS-PROT-005`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Eight** classification vs **Chapter Ten** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.
 - **Read with:** [doc_architecture.md](doc_architecture.md) section 5; owner layers per scenario family name.
 
 ### Scenario ID: RS-PROT-006
 - **Class:** implementation / catalog seed (reinstatement)
-- **Summary:** Tracked row for `RS-PROT-006`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Six** classification vs **Chapter Eight** final slot labels; **Chapter Ten** rights-floor boundary per closing Part D section.
+- **Summary:** Tracked row for `RS-PROT-006`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Eight** classification vs **Chapter Ten** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.
 - **Read with:** [doc_architecture.md](doc_architecture.md) section 5; owner layers per scenario family name.
 
 ### Scenario ID: RS-PROT-007
 - **Class:** implementation / catalog seed (reinstatement)
-- **Summary:** Tracked row for `RS-PROT-007`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Six** classification vs **Chapter Eight** final slot labels; **Chapter Ten** rights-floor boundary per closing Part D section.
+- **Summary:** Tracked row for `RS-PROT-007`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Eight** classification vs **Chapter Ten** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.
 - **Read with:** [doc_architecture.md](doc_architecture.md) section 5; owner layers per scenario family name.
 
 ### Scenario ID: RS-PROT-008
 - **Class:** implementation / catalog seed (reinstatement)
-- **Summary:** Tracked row for `RS-PROT-008`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Six** classification vs **Chapter Eight** final slot labels; **Chapter Ten** rights-floor boundary per closing Part D section.
+- **Summary:** Tracked row for `RS-PROT-008`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Eight** classification vs **Chapter Ten** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.
 - **Read with:** [doc_architecture.md](doc_architecture.md) section 5; owner layers per scenario family name.
 
 ### Scenario ID: RS-PROT-009
 - **Class:** implementation / catalog seed (reinstatement)
-- **Summary:** Tracked row for `RS-PROT-009`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Six** classification vs **Chapter Eight** final slot labels; **Chapter Ten** rights-floor boundary per closing Part D section.
+- **Summary:** Tracked row for `RS-PROT-009`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Eight** classification vs **Chapter Ten** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.
 - **Read with:** [doc_architecture.md](doc_architecture.md) section 5; owner layers per scenario family name.
 
 ### Scenario ID: RS-PROT-010
 - **Class:** implementation / catalog seed (reinstatement)
-- **Summary:** Tracked row for `RS-PROT-010`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Six** classification vs **Chapter Eight** final slot labels; **Chapter Ten** rights-floor boundary per closing Part D section.
+- **Summary:** Tracked row for `RS-PROT-010`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Eight** classification vs **Chapter Ten** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.
 - **Read with:** [doc_architecture.md](doc_architecture.md) section 5; owner layers per scenario family name.
 
 ### Scenario ID: RS-CH6-AX-001
 - **Class:** implementation / catalog seed (reinstatement)
-- **Summary:** Tracked row for `RS-CH6-AX-001`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Six** classification vs **Chapter Eight** final slot labels; **Chapter Ten** rights-floor boundary per closing Part D section.
+- **Summary:** Tracked row for `RS-CH6-AX-001`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Eight** classification vs **Chapter Ten** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.
 - **Read with:** [doc_architecture.md](doc_architecture.md) section 5; owner layers per scenario family name.
 
 ### Scenario ID: RS-CH6-AX-002
 - **Class:** implementation / catalog seed (reinstatement)
-- **Summary:** Tracked row for `RS-CH6-AX-002`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Six** classification vs **Chapter Eight** final slot labels; **Chapter Ten** rights-floor boundary per closing Part D section.
+- **Summary:** Tracked row for `RS-CH6-AX-002`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Eight** classification vs **Chapter Ten** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.
 - **Read with:** [doc_architecture.md](doc_architecture.md) section 5; owner layers per scenario family name.
 
 ### Scenario ID: RS-CH6-AX-003
 - **Class:** implementation / catalog seed (reinstatement)
-- **Summary:** Tracked row for `RS-CH6-AX-003`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Six** classification vs **Chapter Eight** final slot labels; **Chapter Ten** rights-floor boundary per closing Part D section.
+- **Summary:** Tracked row for `RS-CH6-AX-003`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Eight** classification vs **Chapter Ten** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.
 - **Read with:** [doc_architecture.md](doc_architecture.md) section 5; owner layers per scenario family name.
 
 ### Scenario ID: RS-CH6-AX-004
 - **Class:** implementation / catalog seed (reinstatement)
-- **Summary:** Tracked row for `RS-CH6-AX-004`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Six** classification vs **Chapter Eight** final slot labels; **Chapter Ten** rights-floor boundary per closing Part D section.
+- **Summary:** Tracked row for `RS-CH6-AX-004`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Eight** classification vs **Chapter Ten** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.
 - **Read with:** [doc_architecture.md](doc_architecture.md) section 5; owner layers per scenario family name.
 
 ### Scenario ID: RS-CH6-AX-005
 - **Class:** implementation / catalog seed (reinstatement)
-- **Summary:** Tracked row for `RS-CH6-AX-005`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Six** classification vs **Chapter Eight** final slot labels; **Chapter Ten** rights-floor boundary per closing Part D section.
+- **Summary:** Tracked row for `RS-CH6-AX-005`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Eight** classification vs **Chapter Ten** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.
 - **Read with:** [doc_architecture.md](doc_architecture.md) section 5; owner layers per scenario family name.
 
 ### Scenario ID: RS-CH6-AX-006
 - **Class:** implementation / catalog seed (reinstatement)
-- **Summary:** Tracked row for `RS-CH6-AX-006`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Six** classification vs **Chapter Eight** final slot labels; **Chapter Ten** rights-floor boundary per closing Part D section.
+- **Summary:** Tracked row for `RS-CH6-AX-006`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Eight** classification vs **Chapter Ten** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.
 - **Read with:** [doc_architecture.md](doc_architecture.md) section 5; owner layers per scenario family name.
 
 ### Scenario ID: RS-CH6-AX-007
 - **Class:** implementation / catalog seed (reinstatement)
-- **Summary:** Tracked row for `RS-CH6-AX-007`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Six** classification vs **Chapter Eight** final slot labels; **Chapter Ten** rights-floor boundary per closing Part D section.
+- **Summary:** Tracked row for `RS-CH6-AX-007`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Eight** classification vs **Chapter Ten** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.
 - **Read with:** [doc_architecture.md](doc_architecture.md) section 5; owner layers per scenario family name.
 
 ### Scenario ID: RS-CH6-AX-008
 - **Class:** implementation / catalog seed (reinstatement)
-- **Summary:** Tracked row for `RS-CH6-AX-008`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Six** classification vs **Chapter Eight** final slot labels; **Chapter Ten** rights-floor boundary per closing Part D section.
+- **Summary:** Tracked row for `RS-CH6-AX-008`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Eight** classification vs **Chapter Ten** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.
 - **Read with:** [doc_architecture.md](doc_architecture.md) section 5; owner layers per scenario family name.
 
 ### Scenario ID: RS-CH6-AX-009
 - **Class:** implementation / catalog seed (reinstatement)
-- **Summary:** Tracked row for `RS-CH6-AX-009`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Six** classification vs **Chapter Eight** final slot labels; **Chapter Ten** rights-floor boundary per closing Part D section.
+- **Summary:** Tracked row for `RS-CH6-AX-009`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Eight** classification vs **Chapter Ten** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.
 - **Read with:** [doc_architecture.md](doc_architecture.md) section 5; owner layers per scenario family name.
 
 ### Scenario ID: RS-CH6-AX-010
 - **Class:** implementation / catalog seed (reinstatement)
-- **Summary:** Tracked row for `RS-CH6-AX-010`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Six** classification vs **Chapter Eight** final slot labels; **Chapter Ten** rights-floor boundary per closing Part D section.
+- **Summary:** Tracked row for `RS-CH6-AX-010`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Eight** classification vs **Chapter Ten** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.
 - **Read with:** [doc_architecture.md](doc_architecture.md) section 5; owner layers per scenario family name.
 
 ### Scenario ID: RS-CH6-AX-011
 - **Class:** implementation / catalog seed (reinstatement)
-- **Summary:** Tracked row for `RS-CH6-AX-011`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Six** classification vs **Chapter Eight** final slot labels; **Chapter Ten** rights-floor boundary per closing Part D section.
+- **Summary:** Tracked row for `RS-CH6-AX-011`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Eight** classification vs **Chapter Ten** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.
 - **Read with:** [doc_architecture.md](doc_architecture.md) section 5; owner layers per scenario family name.
 
 ### Scenario ID: RS-CH6-AX-012
 - **Class:** implementation / catalog seed (reinstatement)
-- **Summary:** Tracked row for `RS-CH6-AX-012`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Six** classification vs **Chapter Eight** final slot labels; **Chapter Ten** rights-floor boundary per closing Part D section.
+- **Summary:** Tracked row for `RS-CH6-AX-012`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Eight** classification vs **Chapter Ten** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.
 - **Read with:** [doc_architecture.md](doc_architecture.md) section 5; owner layers per scenario family name.
 
 ### Scenario ID: RS-CH6-AX-013
 - **Class:** implementation / catalog seed (reinstatement)
-- **Summary:** Tracked row for `RS-CH6-AX-013`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Six** classification vs **Chapter Eight** final slot labels; **Chapter Ten** rights-floor boundary per closing Part D section.
+- **Summary:** Tracked row for `RS-CH6-AX-013`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Eight** classification vs **Chapter Ten** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.
 - **Read with:** [doc_architecture.md](doc_architecture.md) section 5; owner layers per scenario family name.
 
 ### Scenario ID: RS-CH6-AX-014
 - **Class:** implementation / catalog seed (reinstatement)
-- **Summary:** Tracked row for `RS-CH6-AX-014`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Six** classification vs **Chapter Eight** final slot labels; **Chapter Ten** rights-floor boundary per closing Part D section.
+- **Summary:** Tracked row for `RS-CH6-AX-014`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Eight** classification vs **Chapter Ten** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.
 - **Read with:** [doc_architecture.md](doc_architecture.md) section 5; owner layers per scenario family name.
 
 ### Scenario ID: RS-CH6-AX-015
 - **Class:** implementation / catalog seed (reinstatement)
-- **Summary:** Tracked row for `RS-CH6-AX-015`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Six** classification vs **Chapter Eight** final slot labels; **Chapter Ten** rights-floor boundary per closing Part D section.
+- **Summary:** Tracked row for `RS-CH6-AX-015`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Eight** classification vs **Chapter Ten** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.
 - **Read with:** [doc_architecture.md](doc_architecture.md) section 5; owner layers per scenario family name.
 
 ### Scenario ID: RS-BMK-001
 - **Class:** implementation / catalog seed (reinstatement)
-- **Summary:** Tracked row for `RS-BMK-001`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Six** classification vs **Chapter Eight** final slot labels; **Chapter Ten** rights-floor boundary per closing Part D section.
+- **Summary:** Tracked row for `RS-BMK-001`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Eight** classification vs **Chapter Ten** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.
 - **Read with:** [doc_architecture.md](doc_architecture.md) section 5; owner layers per scenario family name.
 
 ### Scenario ID: RS-BMK-002
 - **Class:** implementation / catalog seed (reinstatement)
-- **Summary:** Tracked row for `RS-BMK-002`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Six** classification vs **Chapter Eight** final slot labels; **Chapter Ten** rights-floor boundary per closing Part D section.
+- **Summary:** Tracked row for `RS-BMK-002`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Eight** classification vs **Chapter Ten** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.
 - **Read with:** [doc_architecture.md](doc_architecture.md) section 5; owner layers per scenario family name.
 
 ### Scenario ID: RS-BMK-003
 - **Class:** implementation / catalog seed (reinstatement)
-- **Summary:** Tracked row for `RS-BMK-003`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Six** classification vs **Chapter Eight** final slot labels; **Chapter Ten** rights-floor boundary per closing Part D section.
+- **Summary:** Tracked row for `RS-BMK-003`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Eight** classification vs **Chapter Ten** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.
 - **Read with:** [doc_architecture.md](doc_architecture.md) section 5; owner layers per scenario family name.
 
 ### Scenario ID: RS-AC-001
 - **Class:** implementation / catalog seed (reinstatement)
-- **Summary:** Tracked row for `RS-AC-001`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Six** classification vs **Chapter Eight** final slot labels; **Chapter Ten** rights-floor boundary per closing Part D section.
+- **Summary:** Tracked row for `RS-AC-001`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Eight** classification vs **Chapter Ten** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.
 - **Read with:** [doc_architecture.md](doc_architecture.md) section 5; owner layers per scenario family name.
 
 ### Scenario ID: RS-AC-002
 - **Class:** implementation / catalog seed (reinstatement)
-- **Summary:** Tracked row for `RS-AC-002`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Six** classification vs **Chapter Eight** final slot labels; **Chapter Ten** rights-floor boundary per closing Part D section.
+- **Summary:** Tracked row for `RS-AC-002`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Eight** classification vs **Chapter Ten** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.
 - **Read with:** [doc_architecture.md](doc_architecture.md) section 5; owner layers per scenario family name.
 
 ### Scenario ID: RS-VOICE-001
 - **Class:** implementation / catalog seed (reinstatement)
-- **Summary:** Tracked row for `RS-VOICE-001`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Six** classification vs **Chapter Eight** final slot labels; **Chapter Ten** rights-floor boundary per closing Part D section.
+- **Summary:** Tracked row for `RS-VOICE-001`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Eight** classification vs **Chapter Ten** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.
 - **Read with:** [doc_architecture.md](doc_architecture.md) section 5; owner layers per scenario family name.
 
 ### Scenario ID: RS-VOICE-002
 - **Class:** implementation / catalog seed (reinstatement)
-- **Summary:** Tracked row for `RS-VOICE-002`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Six** classification vs **Chapter Eight** final slot labels; **Chapter Ten** rights-floor boundary per closing Part D section.
+- **Summary:** Tracked row for `RS-VOICE-002`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Eight** classification vs **Chapter Ten** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.
 - **Read with:** [doc_architecture.md](doc_architecture.md) section 5; owner layers per scenario family name.
 
 ### Scenario ID: RS-XXV-001
 - **Class:** implementation / catalog seed (reinstatement)
-- **Summary:** Tracked row for `RS-XXV-001`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Six** classification vs **Chapter Eight** final slot labels; **Chapter Ten** rights-floor boundary per closing Part D section.
+- **Summary:** Tracked row for `RS-XXV-001`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Eight** classification vs **Chapter Ten** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.
 - **Read with:** [doc_architecture.md](doc_architecture.md) section 5; owner layers per scenario family name.
 
 ### Scenario ID: RS-XXV-002
 - **Class:** implementation / catalog seed (reinstatement)
-- **Summary:** Tracked row for `RS-XXV-002`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Six** classification vs **Chapter Eight** final slot labels; **Chapter Ten** rights-floor boundary per closing Part D section.
+- **Summary:** Tracked row for `RS-XXV-002`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Eight** classification vs **Chapter Ten** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.
 - **Read with:** [doc_architecture.md](doc_architecture.md) section 5; owner layers per scenario family name.
 
 ### Scenario ID: RS-SL-001
 - **Class:** implementation / catalog seed (reinstatement)
-- **Summary:** Tracked row for `RS-SL-001`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Six** classification vs **Chapter Eight** final slot labels; **Chapter Ten** rights-floor boundary per closing Part D section.
+- **Summary:** Tracked row for `RS-SL-001`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Eight** classification vs **Chapter Ten** final slot labels; **Chapter Six** rights-floor boundary per closing Part D section.
 - **Read with:** [doc_architecture.md](doc_architecture.md) section 5; owner layers per scenario family name.
 
 
@@ -1126,7 +1126,7 @@ Historical subsection labels (*7A.1*, *7E*, etc.) refer to the families above. D
 
 ### 7E) Humanity/Individual/ Cross-layer stress (`RS-HUM-*`, `RS-IND-*`, `RS-XD-*`)
 
-Seeded in draft until tabletop pass evidence is filed under `evidence/<YYYY-MM-DD>/`. `RS-XD-001` checks **Chapters 11–13** vs **Chapter Six** classification authority; `RS-XD-002` rights-layer process-creep; `RS-XD-003` custody chain; `RS-XD-004` / `RS-XD-005` emergency and evidence-gate controls.
+Seeded in draft until tabletop pass evidence is filed under `evidence/<YYYY-MM-DD>/`. `RS-XD-001` checks **Chapters 11–13** vs **Chapter Eight** classification authority; `RS-XD-002` rights-layer process-creep; `RS-XD-003` custody chain; `RS-XD-004` / `RS-XD-005` emergency and evidence-gate controls.
 
 ## 8) (Reserved)
 

@@ -2,7 +2,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.2](cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
+- Upstream: [CJS-1.2](cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
 - Downstream: this section's local operational requirements for **Participation leg (CJS-5.7–CJS-5.10)**.
 - Read with: [CJS-5.1](cjs_05_cross_implementation_operational_terms.md#cjs-51-constitutional-compass-and-cluster-map) constitutional compass.
 
@@ -26,13 +26,13 @@ This family operationalizes the **Participation** leg of the [Constitutional Tet
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.2](cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
+- Upstream: [CJS-1.2](cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
 - Downstream: this section's local operational requirements for **CJS-5.7 Participation: quorum and participatory legitimacy terms**.
 - Read with: **CJS-5.11 and CJS-5.7**; **CJS-5.13**.
 - Read with: **CJS-5.11** (*Accountability: distributed and proportional authority terms*), **CJS-5.7** (*Participation: quorum and participatory legitimacy terms*), and **CJS-5.13** (*Accountability: procedural integrity and adjudication terms*) for authority, participation legitimacy, and procedural integrity terms
-- Read with: **Sentient Constitution Chapter Eleven** section 4
-- Read with: **Chapter Ten Article IX-C**
-- Read with: **Chapter Ten Article XI**
+- Read with: **Sentient Constitution Chapter Twelve** section 4
+- Read with: **Chapter Six Article IX-C**
+- Read with: **Chapter Six Article XI**
 - Constitutional frame: **Participation** leg; **Flourishing** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality Determination](../core_05o_oversight_definitions.md#materiality-determination).
 - Chapter One basis: Chapter One §7.1, §3, §4.2, §11.4, §13, §6 (see [cluster map](#cjs-51-constitutional-compass-and-cluster-map)).
 </details>
@@ -71,7 +71,7 @@ Community and associational pathway integrity
 
 Foundational constitutional choice equality floor
 - OP-O: Where the decision is **Foundational Constitutional Choice**, eligible sentients participate under the political-equality floor: each eligible sentient has equal participation weight, subject only to lawful good-standing and restitution-linked limits recognized by the Constitution.
-- OP-E: Evaluation must verify equal-weight treatment, substrate-agnostic and age-neutral eligibility, good-standing or restitution predicates where invoked, contestability, opposition protection, peaceful-succession or reauthorization pathways, and compliance with Chapter Eleven section 4.1 and Article IX-C.
+- OP-E: Evaluation must verify equal-weight treatment, substrate-agnostic and age-neutral eligibility, good-standing or restitution predicates where invoked, contestability, opposition protection, peaceful-succession or reauthorization pathways, and compliance with Chapter Twelve section 4.1 and Article IX-C.
 - OP-C: Impact, dependency, stakeholder status, lineage, substrate class, calendar age, or ordinary stakeholder-participation weighting may not dilute foundational constitutional choice.
 
 Impact coverage
@@ -95,7 +95,7 @@ Quorum source and binding-effect gate
 - OP-C: Post-hoc quorum formulas, undisclosed denominator changes, emergency shortcuts without mandatory forum review, or implementation of a high-impact decision before required legitimacy gates are satisfied are non-compliant.
 
 Stakeholder governance participation floor
-- OP-O: Where the decision occurs inside already-authorized governance for a specified system, institution, or bounded decision domain, **Stakeholder** identification, participation pathways, and any **Stakeholder Participation Weight** must be proportionate to material impact and dependency and must satisfy Article XI and Chapter Eleven section 4.3.
+- OP-O: Where the decision occurs inside already-authorized governance for a specified system, institution, or bounded decision domain, **Stakeholder** identification, participation pathways, and any **Stakeholder Participation Weight** must be proportionate to material impact and dependency and must satisfy Article XI and Chapter Twelve section 4.3.
 - OP-E: Evaluation must verify stakeholder mapping, affected-class coverage, local deliberation where required, plural evaluation for high-impact choices, representation and weighting limits, rights-collision records, dissent or alternative records, reopening paths, and Article XI-A legitimacy gates for materially high-impact collective choice.
 - OP-C: Token consultation, dominance-prone weighting, missing affected classes, or stakeholder procedures that purport to authorize or reauthorize the **Constitutional Contract Layer** questions of governing authority, the governance-layer mechanism, or the scope and durable terms of that authority are non-compliant.
 
@@ -128,7 +128,7 @@ Weighted participation
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.2](cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
+- Upstream: [CJS-1.2](cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
 - Downstream: this section's local operational requirements for **CJS-5.8 Participation: comprehensibility and cognitive accessibility terms**.
 - Read with: **CJS-5.8**.
 - Read with: **CJS-5.8 — Comprehensibility and Cognitive Accessibility**
@@ -218,7 +218,7 @@ Summary integrity
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.2](cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
+- Upstream: [CJS-1.2](cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
 - Downstream: this section's local operational requirements for **CJS-5.9 Participation: salience integrity and attention-allocation terms**.
 - Read with: **CJS-5.9 and CJS-5.10**; **CJS-5.10**; **CJS-5.21**.
 - Topic routing (mandatory read-with): **CJS-R17** (*Cross-implementation trust integrity (joint operation model)*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CJS-4.3**.
@@ -226,7 +226,7 @@ Summary integrity
 - Read with: **CJS-5.10 — Transparency and Disclosure**
 - Read with: **CJS-5.21 — Adversarial Robustness and Abuse Resistance**
 - Read with: **Article XV-A**
-- Read with: **Chapter Ten** incentive-alignment constraints
+- Read with: **Chapter Six** incentive-alignment constraints
 - Constitutional frame: **Participation** leg; **Flourishing** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality Determination](../core_05o_oversight_definitions.md#materiality-determination).
 - Chapter One basis: §8, §2.2, §3, §12.1, §13 (see [cluster map](#cjs-51-constitutional-compass-and-cluster-map)).
 </details>
@@ -304,7 +304,7 @@ User agency and control
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.2](cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
+- Upstream: [CJS-1.2](cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
 - Downstream: this section's local operational requirements for **CJS-5.10 Participation: disclosure sufficiency and observability terms**.
 - Read with: **CJS-5.10**; **CJS-5.16**.
 - Topic routing (mandatory read-with): **CJS-R17** (*Cross-implementation trust integrity (joint operation model)*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CJS-4.3**.

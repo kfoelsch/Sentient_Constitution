@@ -2,7 +2,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.2](cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
+- Upstream: [CJS-1.2](cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
 - Downstream: this section's local operational requirements for **CJS-5: operational cluster library**.
 - Read with: **CJS-5**.
 
@@ -28,7 +28,7 @@ Use these clusters as shared operational terms within standalone implementation 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.2](cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
+- Upstream: [CJS-1.2](cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
 - Downstream: this section's local operational requirements for **CJS-5.0 Cross-band: Role-definition preface and standing competency gate interface**.
 - Read with: **CJS-5.0**.
 
@@ -49,12 +49,12 @@ Use these clusters as shared operational terms within standalone implementation 
 
 <br>
 
-Use this preface first whenever a later CJS cluster depends on who may hold authority, support review, staff a lane, operate a material function, or make a binding decision. It gives shared role vocabulary for CJS only. It does not replace the role rules in `core_11-11_governance.md` **Chapter Eleven**, section **5**; **Article XI-D**; `core_07-07_standing_integration.md` **Chapter Seven**, section **1.2** (*Competency Gates*); `corpus_institutions.md` **CI-4** (*Appointment, competency, rotation, and removal*); `corpus_systems.md` **CS-5 — Critical system stewardship**; or `corpus_forum.md` forum-formation rules.
+Use this preface first whenever a later CJS cluster depends on who may hold authority, support review, staff a lane, operate a material function, or make a binding decision. It gives shared role vocabulary for CJS only. It does not replace the role rules in `core_12-12_governance.md` **Chapter Twelve**, section **5**; **Article XI-D**; `core_09-09_standing_integration.md` **Chapter Nine**, section **1.2** (*Competency Gates*); `corpus_institutions.md` **CI-4** (*Appointment, competency, rotation, and removal*); `corpus_systems.md` **CS-5 — Critical system stewardship**; or `corpus_forum.md` forum-formation rules.
 
 Two preface terms are pinned at the top of this section in functional reading order rather than alphabetical order. They state how competency gates and good-standing interface with trust-sensitive roles, and what facts must be verified before any role label in CJS is treated as valid. Read them in listed order before applying any later **CJS-5** cluster that depends on role authority.
 
 Competency gate and standing interface
-- OP-O: Access to trust-sensitive roles, delegated authority, oversight eligibility, enhanced recognition, or more consequential stewardship must satisfy any applicable **Chapter Seven**, section **1.2** competency gate and current good-standing criteria.
+- OP-O: Access to trust-sensitive roles, delegated authority, oversight eligibility, enhanced recognition, or more consequential stewardship must satisfy any applicable **Chapter Nine**, section **1.2** competency gate and current good-standing criteria.
 - OP-E: Reviewers must verify demonstrated competence, relevant experience, contribution records, training or qualification criteria, standing locks, disqualification grounds, contestability, and restoration limits. The depth of review scales with role impact, dependency, risk, and reversibility.
 - OP-C: A competency gate is non-compliant if it becomes insider sponsorship, prestige screening, inaccessible specialization, reputation substitution, or a way to ignore unresolved violation findings, standing locks, Rights Floors, remediation, safeguards, or lawful review.
 

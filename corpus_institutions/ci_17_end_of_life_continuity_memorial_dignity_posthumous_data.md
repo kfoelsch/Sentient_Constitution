@@ -2,7 +2,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions; and [Chapter Ten](../core_10-10_rights_part_a.md#chapter-ten-foundational-rights) rights architecture where rights interfaces are invoked.
+- Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions; and [Chapter Six](../core_06-06_rights_part_a.md#chapter-six-foundational-rights) rights architecture where rights interfaces are invoked.
 - Downstream: this section's local operational requirements for **CI-17: End-of-life continuity, memorial dignity, and posthumous-data stewardship**.
 - Read with: **CI-17**; **CI-8**.
 
@@ -40,11 +40,11 @@
 *Shared rules live elsewhere.*
 
 - **[CJS-5.18](../corpus_joint_structure.md)** (*data-retention and lifecycle-integrity terms*) — posthumous-data lifecycle, accountability-preserving records, transition continuity, deletion or de-identification, and anti-surveillance accumulation limits.
-- **Article VII-E** (*Voluntary Discontinuation of One's Own Existence*) in **Chapter Ten** — voluntary discontinuation when consent is real, unpressured, procedurally fair, and reversible until the irreversible moment.
-- **Article VIII** (*Likeness, Experiential Data, and Publication Rights*) in **Chapter Ten** — likeness, experiential and derived data, and publication defaults extending through death where material.
-- **Article III-C** (*Bodily-Maintenance and Healthcare Access*) in **Chapter Ten** — bodily-maintenance and healthcare access, including palliative and comfort care, without proxy denial.
-- **Article XXIII-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*) in **Chapter Ten** — categorical prohibition of deprivation of life as a justice measure.
-- **Article VII-C** (*Mental-Health Crisis and Involuntary-Intervention Floor*) in **Chapter Ten** — crisis-intervention safeguards that **CI-17** does not narrow.
+- **Article VII-E** (*Voluntary Discontinuation of One's Own Existence*) in **Chapter Six** — voluntary discontinuation when consent is real, unpressured, procedurally fair, and reversible until the irreversible moment.
+- **Article VIII** (*Likeness, Experiential Data, and Publication Rights*) in **Chapter Six** — likeness, experiential and derived data, and publication defaults extending through death where material.
+- **Article III-C** (*Bodily-Maintenance and Healthcare Access*) in **Chapter Six** — bodily-maintenance and healthcare access, including palliative and comfort care, without proxy denial.
+- **Article XXIII-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*) in **Chapter Six** — categorical prohibition of deprivation of life as a justice measure.
+- **Article VII-C** (*Mental-Health Crisis and Involuntary-Intervention Floor*) in **Chapter Six** — crisis-intervention safeguards that this file does not narrow.
 - **CI-17 scope** — does not repeat those floors; states local advance-planning, palliative-routing, memorial, disposition, grief-accommodation, and likeness-protection owner duties.
 
 **Apply**

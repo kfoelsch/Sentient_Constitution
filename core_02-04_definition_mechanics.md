@@ -173,7 +173,7 @@ If an interpretation would weaken safeguards, shrink what must be evaluated, or 
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: Principles: [Chapter Two, section 2 — Definition Structure Requirement](#2-definition-structure-requirement); [Chapter Two, 2.4 Definition Integrity Requirement](#24-definition-integrity-requirement).
-- Downstream: [Chapter Three, section 2 — Non-Compliance from Observable System Behavior](#2-non-compliance-from-observable-system-behavior); [Chapter Four, section 2 — Compliance Evidence Standard](#2-compliance-evidence-standard); [Chapter Four, section 3 — Definition Traceability Requirement](#3-definition-traceability-requirement); [Chapter Six — Contribution, Violation, and Standing Model](core_06-06_standing_assessment.md#chapter-six-compliance-violation-and-standing-model).
+- Downstream: [Chapter Three, section 2 — Non-Compliance from Observable System Behavior](#2-non-compliance-from-observable-system-behavior); [Chapter Four, section 2 — Compliance Evidence Standard](#2-compliance-evidence-standard); [Chapter Four, section 3 — Definition Traceability Requirement](#3-definition-traceability-requirement); [Chapter Eight — Contribution, Violation, and Standing Model](core_08-08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model).
 - Read with: [Chapter One, section 4.2 — Truth (Epistemic Integrity Constraint)](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint) — interpretation based on observable behavior rather than declared structure or intent operationalizes the constitutional truth constraint at the definition-integrity layer.
 
 </details>
@@ -214,7 +214,7 @@ This section does not define evaluation standards, evidence sufficiency, or burd
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: Principles: [Chapter Three, section 1 — Definition Integrity and Anti-Evasion Constraints](#1-definition-integrity-and-anti-evasion-constraints); [Chapter Two, 2.4 Definition Integrity Requirement](#24-definition-integrity-requirement).
-- Downstream: the non-reductive, reductive, cross-component, cross-system, temporal, and uncertainty integrity constraints in sections [2.1](#21-evasion-is-non-compliance) through [2.7](#27-uncertainty-integrity-and-non-exploitation-constraint) of this chapter; [Chapter Four, section 4 — Observability of Traceability Requirement](#4-observability-of-traceability-requirement); [Chapter Six — Contribution, Violation, and Standing Model](core_06-06_standing_assessment.md#chapter-six-compliance-violation-and-standing-model).
+- Downstream: the non-reductive, reductive, cross-component, cross-system, temporal, and uncertainty integrity constraints in sections [2.1](#21-evasion-is-non-compliance) through [2.7](#27-uncertainty-integrity-and-non-exploitation-constraint) of this chapter; [Chapter Four, section 4 — Observability of Traceability Requirement](#4-observability-of-traceability-requirement); [Chapter Eight — Contribution, Violation, and Standing Model](core_08-08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model).
 - Read with: [Chapter Two, section 2 — Definition Structure Requirement](#2-definition-structure-requirement) for the joint-satisfaction rule under full functional system conditions; [Chapter Four, 2.1 — Verification requirements for evidence](#21-verification-requirements-for-evidence) — observable outcomes govern declared representations at the evidence layer.
 
 </details>
@@ -234,7 +234,7 @@ Systems are non-compliant where:
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: Principles: [Chapter Three, section 2 — Non-Compliance from Observable System Behavior](#2-non-compliance-from-observable-system-behavior); [Chapter Two, 2.4.2 Non-Compliance by Structural or Applied Weakening](#242-non-compliance-by-structural-or-applied-weakening).
-- Downstream: [2.2 Non-Reductive Evasion Types](#22-non-reductive-evasion-types); [2.3 Reductive Evasion](#23-reductive-evasion); [Chapter Four, 2.4 — Disqualifying evidence; uncertainty; default rule](#24-disqualifying-evidence-uncertainty-default-rule); [Chapter Six — Contribution, Violation, and Standing Model](core_06-06_standing_assessment.md#chapter-six-compliance-violation-and-standing-model).
+- Downstream: [2.2 Non-Reductive Evasion Types](#22-non-reductive-evasion-types); [2.3 Reductive Evasion](#23-reductive-evasion); [Chapter Four, 2.4 — Disqualifying evidence; uncertainty; default rule](#24-disqualifying-evidence-uncertainty-default-rule); [Chapter Eight — Contribution, Violation, and Standing Model](core_08-08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model).
 - Read with: [Chapter Two, 2.4.5 Interpretation Rule Under Ambiguity](#245-interpretation-rule-under-ambiguity) — interpretations that weaken safeguards, shrink what must be evaluated, or worsen real-world results are invalid and reinforce the anti-evasion determination made on observable outcomes rather than declared intent.
 
 </details>
@@ -320,7 +320,7 @@ A system is non-compliant where it:
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [Chapter Three, section 2 — Non-Compliance from Observable System Behavior](#2-non-compliance-from-observable-system-behavior); [Chapter Two, 2.4 Definition Integrity Requirement](#24-definition-integrity-requirement).
-- Downstream: [Chapter Four, section 3 — Definition Traceability Requirement](#3-definition-traceability-requirement); [Chapter Six — Contribution, Violation, and Standing Model](core_06-06_standing_assessment.md#chapter-six-compliance-violation-and-standing-model); [CJS-5.1 Constitutional compass and cluster map](corpus_joint_structure/cjs_05_cross_implementation_operational_terms.md#cjs-51-constitutional-compass-and-cluster-map).
+- Downstream: [Chapter Four, section 3 — Definition Traceability Requirement](#3-definition-traceability-requirement); [Chapter Eight — Contribution, Violation, and Standing Model](core_08-08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model); [CJS-5.1 Constitutional compass and cluster map](corpus_joint_structure/cjs_05_cross_implementation_operational_terms.md#cjs-51-constitutional-compass-and-cluster-map).
 - Read with: [Non-Compliance Finding Profile](core_05a_accountability_definitions.md#non-compliance-finding-profile) — canonical O/E/C home for profile fields; [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad); [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims).
 
 </details>
@@ -329,7 +329,7 @@ A system is non-compliant where it:
 
 *In plain terms: a non-compliance finding can name what kind of constitutional failure occurred — Oversight, Participation, or Accountability crossed with Flourishing or Continuity — without changing the verdict. Profiles help routing and audits; they do not replace definition satisfaction tests.*
 
-Material **non-compliance** findings under this chapter or under invoked **Chapter Five** definitions may carry a [Non-Compliance Finding Profile](core_05a_accountability_definitions.md#non-compliance-finding-profile). The profile is orientation and routing metadata only. It does not alter whether the underlying definition is satisfied, does not create a parallel verdict label, and does not replace [Chapter Six](core_06-06_standing_assessment.md#chapter-six-compliance-violation-and-standing-model) contribution or violation classification where verified findings affect standing.
+Material **non-compliance** findings under this chapter or under invoked **Chapter Five** definitions may carry a [Non-Compliance Finding Profile](core_05a_accountability_definitions.md#non-compliance-finding-profile). The profile is orientation and routing metadata only. It does not alter whether the underlying definition is satisfied, does not create a parallel verdict label, and does not replace [Chapter Eight](core_08-08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) contribution or violation classification where verified findings affect standing.
 
 Where the [cross-implementation operational cluster family](corpus_joint_structure/cjs_05_cross_implementation_operational_terms.md#cjs-5-cross-implementation-operational-terms) supplies the operative OP-C term, use the default profile in the [constitutional compass and cluster map](corpus_joint_structure/cjs_05_cross_implementation_operational_terms.md#cjs-51-constitutional-compass-and-cluster-map) unless facts require a documented adjustment under the profile's Evaluation component.
 
@@ -342,9 +342,9 @@ Where the [cross-implementation operational cluster family](corpus_joint_structu
 >
 > Where this lives (navigation):
 > - **Tetrad map:** Burden allocation, evidence, traceability, observability, and verification implement the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) **oversight** and **accountability** legs established in [Chapter 00](core_00_preamble.md#chapter-00-preamble--foundational-requirements); **participation** where materially required through verification accessibility and independent challenge under sections **5** and **6**. Requirements scale with [material stake](core_00_preamble.md#material-stake).
-> - **Constitutional owner:** burden allocation, compliance evidence, definition traceability, observability, security-constrained verification, and verification accessibility. **Chapter Six** owns standing-record and verified-input discipline read with this chapter.
+> - **Constitutional owner:** burden allocation, compliance evidence, definition traceability, observability, security-constrained verification, and verification accessibility. **Chapter Eight** owns standing-record and verified-input discipline read with this chapter.
 > - **Implementation owner:** deployment, data-handling, and assurance mechanics in designated implementation files must remain consistent with these rules and may be stricter where the corpus already provides stricter-rule logic.
-> - **Anti-relocation rule:** this chapter does not restate Chapter Five definitions, Chapter Six contribution or standing classification, or Chapter Eight top-slot misconduct criteria. **Section 7** states that boundary explicitly.
+> - **Anti-relocation rule:** this chapter does not restate Chapter Five definitions, Chapter Eight contribution or standing classification, or Chapter Ten top-slot misconduct criteria. **Section 7** states that boundary explicitly.
 
 </details>
 
@@ -364,7 +364,7 @@ All evaluation standards referenced elsewhere in this chapter are enforced exclu
 - **Section 5:** **Justified limits** on the manner, scope, timing, or accessibility of disclosure and verification; **pretextual** security claims cannot nullify tracing or independent validation. It does **not** define evidence sufficiency (section 2) or substitute crypto for sections **3** through **6** (**5.1**).
 - **Section 6:** **Practical achievability** for appropriately authorized or affected parties—cost, delay, complexity, and structural dependence must not make independent verification **practically** illusory. Constraints here remain subject to section **5**. It does **not** restate burden allocation (section **1**). **Section 6.1** states how the Chapter One §3.4 plain-language duty interacts with definition and verification layers without narrowing them.
 
-Section **7** is a **non-operative boundary pointer**. Chapter Four (§§1–6) ends at burden, evidence, traceability, observability, and verification discipline. **Section 7** marks where that pipeline stops and **[Chapter Six — Contribution, Violation, and Standing Model](core_06-06_standing_assessment.md#chapter-six-compliance-violation-and-standing-model)** begins for contribution state, violation nature, and standing classification — so those topics are not relocated here by mistake.
+Section **7** is a **non-operative boundary pointer**. Chapter Four (§§1–6) ends at burden, evidence, traceability, observability, and verification discipline. **Section 7** marks where that pipeline stops and **[Chapter Eight — Contribution, Violation, and Standing Model](core_08-08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model)** begins for contribution state, violation nature, and standing classification — so those topics are not relocated here by mistake.
 
 ### 2. Compliance Evidence Standard
 #### 2.1 Verification requirements for evidence
@@ -411,7 +411,7 @@ Verification of evidence must satisfy each of the following, jointly and without
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: Principles: [Chapter Four, section 1 — Exclusive Enforcement and Burden Allocation](#1-exclusive-enforcement-and-burden-allocation); [2.1 Verification requirements for evidence](#21-verification-requirements-for-evidence); [Chapter Two, 2.4 Definition Integrity Requirement](#24-definition-integrity-requirement); [Chapter Three, section 1 — Definition Integrity and Anti-Evasion Constraints](#1-definition-integrity-and-anti-evasion-constraints).
-- Downstream: [2.4 Disqualifying evidence; uncertainty; default rule](#24-disqualifying-evidence-uncertainty-default-rule); [Chapter Four, section 6 — Security-Constrained Observability and Verification Rule](#5-security-constrained-observability-and-verification-rule); [5.1 Cryptographic protection, credentials, and verification](#51-cryptographic-protection-credentials-and-verification-constitutional-layer); [Chapter Six — Contribution, Violation, and Standing Model](core_06-06_standing_assessment.md#chapter-six-compliance-violation-and-standing-model).
+- Downstream: [2.4 Disqualifying evidence; uncertainty; default rule](#24-disqualifying-evidence-uncertainty-default-rule); [Chapter Four, section 6 — Security-Constrained Observability and Verification Rule](#5-security-constrained-observability-and-verification-rule); [5.1 Cryptographic protection, credentials, and verification](#51-cryptographic-protection-credentials-and-verification-constitutional-layer); [Chapter Eight — Contribution, Violation, and Standing Model](core_08-08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model).
 - Read with: [Chapter Four, 3.1 Chapter Five definitions and tracing integrity](#31-interdependent-definitions-and-tracing-integrity) — invalidation here tracks the tracing-integrity rule that failure to invoke or correctly apply any materially required **Chapter Five** definition invalidates the associated evaluation, evidence, and compliance determination in full.
 
 </details>
@@ -617,7 +617,7 @@ Where verification is technically possible but not practically achievable, compl
 
 - Upstream: Principles: [Chapter Four, section 6 — Verification Accessibility and Feasibility Constraint](#6-verification-accessibility-and-feasibility-constraint); [Chapter One §3.4 — Plain-Language Accessibility Stewardship Duty](core_01_a_values_principles.md#34-plain-language-accessibility-stewardship-duty).
 - Downstream: [Chapter Four, section 7 — Contribution and Standing Alignment Pointer](#7-contribution-and-standing-alignment-pointer).
-- Read with: [Contestability](core_05a_accountability_definitions.md#contestability) and [Article XV: Audit, Transparency, and Independent Verification](core_10-10_rights_part_c.md#article-xv-audit-transparency-and-independent-verification) — opacity used to defeat challenge or audit access is non-compliant under both this subsection and Chapter One §3.4.
+- Read with: [Contestability](core_05a_accountability_definitions.md#contestability) and [Article XV: Audit, Transparency, and Independent Verification](core_06-06_rights_part_c.md#article-xv-audit-transparency-and-independent-verification) — opacity used to defeat challenge or audit access is non-compliant under both this subsection and Chapter One §3.4.
 
 </details>
 
@@ -629,21 +629,21 @@ The plain-language accessibility duty at [Chapter One §3.4](core_01_a_values_pr
 
 If engagement-layer plain language conflicts with a Chapter Five Ontological (O), Evaluative (E), or Compliance (C) component, a definitional gloss, or this chapter's traceability, observability, or verification rules, the definition and verification layers govern. Engagement-layer drafting must be adjusted to align without softening definitional rigor or verification sufficiency.
 
-Jargon, stacked complexity, or opacity used to defeat [Contestability](core_05a_accountability_definitions.md#contestability), independent verification under **section 6** or **6.1** of this chapter, or [Article XV: Audit, Transparency, and Independent Verification](core_10-10_rights_part_c.md#article-xv-audit-transparency-and-independent-verification) access is non-compliant under this chapter and **Chapter One §3.4**.
+Jargon, stacked complexity, or opacity used to defeat [Contestability](core_05a_accountability_definitions.md#contestability), independent verification under **section 6** or **6.1** of this chapter, or [Article XV: Audit, Transparency, and Independent Verification](core_06-06_rights_part_c.md#article-xv-audit-transparency-and-independent-verification) access is non-compliant under this chapter and **Chapter One §3.4**.
 
 ### 7. Contribution and Standing Alignment Pointer
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: Principles: [Chapter Four, sections 1 through 6](#1-exclusive-enforcement-and-burden-allocation) — burden, evidence, traceability, observability, and verification pipeline.
-- Downstream: [Chapter Six — Contribution, Violation, and Standing Model](core_06-06_standing_assessment.md#chapter-six-compliance-violation-and-standing-model); [Chapter Seven — Standing Effects and Integration](core_07-07_standing_integration.md#chapter-seven-standing-effects-and-integration) for standing effects and locks after classification.
+- Downstream: [Chapter Eight — Contribution, Violation, and Standing Model](core_08-08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model); [Chapter Nine — Standing Effects and Integration](core_09-09_standing_integration.md#chapter-nine-standing-effects-and-integration) for standing effects and locks after classification.
 - Read with: [Chapter Four reader guidance](#chapter-four-burden-of-proof-traceability-and-verification) — anti-relocation rule; this section implements that boundary at the end of the chapter.
 
 </details>
 
 <br>
 
-*In plain terms: this section is a signpost, not a new rule. Chapter Four stops at whether compliance is proved and independently checkable. What a verified finding does to contribution credit, violation classification, or standing lives in Chapter Six — this section says so explicitly so those topics are not smuggled into the verification chapter.*
+*In plain terms: this section is a signpost, not a new rule. Chapter Four stops at whether compliance is proved and independently checkable. What a verified finding does to contribution credit, violation classification, or standing lives in Chapter Eight — this section says so explicitly so those topics are not smuggled into the verification chapter.*
 
 This section is **non-operative**. It states a **layer boundary** only.
 
@@ -654,7 +654,7 @@ It does **not** define the operative constitutional model for:
 - violation nature
 - standing effect
 
-That model is defined in **[Chapter Six — Contribution, Violation, and Standing Model](core_06-06_standing_assessment.md#chapter-six-compliance-violation-and-standing-model)**. Readers must not treat this chapter's verification pipeline as substituting for Chapter Six standing-record, verified-input, or classification rules. Implementation workflows that operationalize verification remain subject to both chapters in their respective layers.
+That model is defined in **[Chapter Eight — Contribution, Violation, and Standing Model](core_08-08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model)**. Readers must not treat this chapter's verification pipeline as substituting for Chapter Eight standing-record, verified-input, or classification rules. Implementation workflows that operationalize verification remain subject to both chapters in their respective layers.
 
 ---
 

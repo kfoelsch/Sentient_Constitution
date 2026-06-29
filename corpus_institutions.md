@@ -4,7 +4,7 @@
 
 **Compatibility entrypoint:** this root file is the stable navigation wrapper for the institutions implementation file. Substantive CI text now lives in the `corpus_institutions/` subfiles listed below. Broad references to `corpus_institutions.md` continue to mean the institutions implementation file as a whole.
 
-**Authority note:** the linked subfiles are binding incorporated implementation text where `corpus_institutions.md` is incorporated under Sentient Constitution Chapter Fifteen. The wrapper is an index and does not restate or narrow the subfile text.
+**Authority note:** the linked subfiles are binding incorporated implementation text where `corpus_institutions.md` is incorporated under Sentient Constitution Chapter Sixteen. The wrapper is an index and does not restate or narrow the subfile text.
 
 ## Institutions Index
 

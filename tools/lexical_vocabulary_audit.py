@@ -13,7 +13,7 @@ from dataclasses import dataclass
 from corpus_paths import binding_corpus_scope
 
 # Enforce **breach**-family ban only where the chapter-six pass has landed; expand as other scoped files are scrubbed.
-_BREACH_FAMILY_SCOPE = frozenset({"core_06-06_standing_assessment.md", "core_07-07_standing_integration.md"})
+_BREACH_FAMILY_SCOPE = frozenset({"core_08-08_standing_assessment.md", "core_09-09_standing_integration.md"})
 
 # Standalone word "cloud" / "Cloud" / "CLOUD", including compounds like cloud-native (still banned).
 # Does not match substrings inside unrelated tokens (e.g. "icloud" as one word — no boundary before 'c').
@@ -241,7 +241,7 @@ def run_internal_regression_checks() -> None:
     standing_calculus_findings = scan_avoid_standing_calculus(
         "internal-regression.md",
         "Forums must not run standing calculus.\n"
-        "Use standing-record classification under Chapter Six instead.\n"
+        "Use standing-record classification under Chapter Eight instead.\n"
         "`standing calculus` inside backticks is documentation only.\n",
     )
     if len(standing_calculus_findings) != 1:
@@ -251,7 +251,7 @@ def run_internal_regression_checks() -> None:
 
 
 def scan_avoid_standing_calculus(rel_path: str, text: str) -> list[Finding]:
-    """Reject undefined **standing calculus** jargon; prefer Chapter Six standing-record classification wording."""
+    """Reject undefined **standing calculus** jargon; prefer Chapter Eight standing-record classification wording."""
     findings: list[Finding] = []
     lines = text.splitlines()
     in_fence = False
@@ -607,13 +607,13 @@ def report_markdown(run_date: str, scope: list[str], findings: list[Finding]) ->
         "- **`malformed-constitutional-*`:** reject **this constitutional.** / **implement this constitutional.** / **the constitutional requires** / **under the constitutional.** (line-end) / **with this constitutional when** / **constitutional-free**, and hyphen glitches **constitutional-valid**, **constitutional-bounded**, **constitutional-governed**, **constitutional-scaled**, **constitutional-compatible**, **constitutional-applicable**, **constitutional-material**, **constitutional-hook** (use *constitutionally …* or **this Constitution** / **constitutional hook** as appropriate).",
         "- **`prefer-sentients-not-person-people-phrasing`:** reject standalone **person** / **persons** (including possessives), **people**, and **people and agents** → use **sentient** / **sentients** (or another defined corpus term). Exceptions are preserved by boundary rules for compounds and lemmas such as **in-person**, **personal**, **personnel**, **persona**, **personalized**, and **non-personal data**.",
         "- **`avoid-accession-jargon`:** reject **accede**, **acceding**, and **accession** → prefer **join** / **joining** / **additional parties** adoption wording.",
-        "- **`avoid-undefined-breach-family`:** reject standalone **breach** / **breaches** / **breached** / **breaching**, **duty breach**, and **duty-breaching** → prefer **violation**, **non-compliance**, **unmet duties**, or defined Chapter Six typing (see `.cursor/rules/clarity.mdc`). *Currently enforced only on files in `_BREACH_FAMILY_SCOPE` inside `tools/lexical_vocabulary_audit.py`.*",
+        "- **`avoid-undefined-breach-family`:** reject standalone **breach** / **breaches** / **breached** / **breaching**, **duty breach**, and **duty-breaching** → prefer **violation**, **non-compliance**, **unmet duties**, or defined Chapter Eight typing (see `.cursor/rules/clarity.mdc`). *Currently enforced only on files in `_BREACH_FAMILY_SCOPE` inside `tools/lexical_vocabulary_audit.py`.*",
         "- **`avoid-minima`:** reject **minima** → prefer **requirements**, **floors**, **conditions**, or another context-specific term.",
         "- **`avoid-court-family`:** reject **court** / **courts** in institutional senses → prefer **forum** / **forums**, **forum family**, or **adjudicative body**.",
-        "- **`avoid-tribunal-family`:** reject internal Chapter Nine / forum-governance **tribunal** / **tribunals** → prefer **forum** / **forums**, **forum family**, **panel**, **bench**, or **adjudicative body**. **Allowed:** external or historical tribunal wording where source fidelity or external legal-order references require it.",
-        "- **`avoid-standing-calculus`:** reject **standing calculus** / **standing-calculus** (undefined jargon) → prefer **standing-record classification under Chapter Six**, **classify standing records** on the Contribution and Violation axes, or other explicit Chapter Six wording.",
-        "- **`load-bearing-rights-floor-casing`:** reject lowercase **rights floor**, **rights floors**, and **rights-floor** outside Markdown link targets and inline code → use **Rights Floor**, **Rights Floors**, or **Rights-Floor** for the named Chapter Ten layer.",
-        "- **`load-bearing-foundational-rights-casing`:** reject **Foundational rights** / **foundational rights** outside Markdown link targets and inline code → use **Foundational Rights** when naming the Chapter Ten title or layer.",
+        "- **`avoid-tribunal-family`:** reject internal Chapter Eleven / forum-governance **tribunal** / **tribunals** → prefer **forum** / **forums**, **forum family**, **panel**, **bench**, or **adjudicative body**. **Allowed:** external or historical tribunal wording where source fidelity or external legal-order references require it.",
+        "- **`avoid-standing-calculus`:** reject **standing calculus** / **standing-calculus** (undefined jargon) → prefer **standing-record classification under Chapter Eight**, **classify standing records** on the Contribution and Violation axes, or other explicit Chapter Eight wording.",
+        "- **`load-bearing-rights-floor-casing`:** reject lowercase **rights floor**, **rights floors**, and **rights-floor** outside Markdown link targets and inline code → use **Rights Floor**, **Rights Floors**, or **Rights-Floor** for the named Chapter Six layer.",
+        "- **`load-bearing-foundational-rights-casing`:** reject **Foundational rights** / **foundational rights** outside Markdown link targets and inline code → use **Foundational Rights** when naming the Chapter Six title or layer.",
         "- **`avoid-should-not-prohibitions`:** reject **should not** in corpus prose → use **must not** for binding negative constraints.",
         "- **`avoid-definition-map-label`:** reject **Definition map.** → integrate term relationships in plain prose; use *In plain terms* for reader orientation.",
         "- **`avoid-router-read-label`:** reject **Router read:** in implementation-corpus body prose → use `- Topic routing (primary owner):` or `- Topic routing (mandatory read-with):` bullets inside the Trace `<details>` block.",

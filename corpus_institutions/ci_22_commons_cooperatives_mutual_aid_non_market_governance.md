@@ -2,7 +2,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions; and [Chapter Ten](../core_10-10_rights_part_a.md#chapter-ten-foundational-rights) rights architecture where rights interfaces are invoked.
+- Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions; and [Chapter Six](../core_06-06_rights_part_a.md#chapter-six-foundational-rights) rights architecture where rights interfaces are invoked.
 - Downstream: this section's local operational requirements for **CI-22: Commons, cooperatives, mutual aid, and non-market community governance**.
 - Read with: **CI-22**; **CI-6**; **CI-9**; **CI-12**; **CI-11**; **CI-18**; **CI-21**.
 
@@ -40,9 +40,9 @@
 *Shared rules live elsewhere.*
 
 - **[CJS-5.7](../corpus_joint_structure.md)** (*quorum and participatory legitimacy terms*) — **Commons, cooperative, and mutual-aid pathway integrity**: legible stewardship records, non-market reciprocity, fiscal treatment, exclusion decisions, informal power, and independent-review routes assessed together.
-- **Article III-D** (*Labor and Economic Floor*) in **Chapter Ten** — collective organization, fair compensation, safe conditions, and leisure and rest for cooperative and comparable productive activity.
-- **Article IX-B** (*Stakeholder Role and Participation Rights*) in **Chapter Ten** — meaningful, proportionate, and challengeable participation in decisions that materially affect stakeholders.
-- **Article X-A** (*Non-Imposition and Consent in Association*) in **Chapter Ten** — consent and non-imposition norms in cooperative ventures; freedom to leave coercive group settings remains protected.
+- **Article III-D** (*Labor and Economic Floor*) in **Chapter Six** — collective organization, fair compensation, safe conditions, and leisure and rest for cooperative and comparable productive activity.
+- **Article IX-B** (*Stakeholder Role and Participation Rights*) in **Chapter Six** — meaningful, proportionate, and challengeable participation in decisions that materially affect stakeholders.
+- **Article X-A** (*Non-Imposition and Consent in Association*) in **Chapter Six** — consent and non-imposition norms in cooperative ventures; freedom to leave coercive group settings remains protected.
 - **Chapter Five** [*Collective Organization*](../core_05p_participation_definitions.md#collective-organization-constitutional) — definitional home for unions, cooperatives, guilds, associations, and comparable substrate-agnostic forms.
 - **Protocol S5** (*Resource Allocation and Funding Stewardship*) in `corpus_systems.md` — funding stewardship, dependent-systems mapping, and auditable allocation for cooperative and mutual-aid resource flows.
 - **CI-11** — resource stewardship and incentive integrity: fiscal allocation alignment and continuity triggers where commons infrastructure is materially dependent on institutional funding.

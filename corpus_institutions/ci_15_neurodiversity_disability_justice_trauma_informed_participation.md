@@ -2,7 +2,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions; and [Chapter Ten](../core_10-10_rights_part_a.md#chapter-ten-foundational-rights) rights architecture where rights interfaces are invoked.
+- Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions; and [Chapter Six](../core_06-06_rights_part_a.md#chapter-six-foundational-rights) rights architecture where rights interfaces are invoked.
 - Downstream: this section's local operational requirements for **CI-15: Neurodiversity, disability justice, and trauma-informed participation**.
 - Read with: **CI-15**; **CI-8.3**; **CI-6**.
 
@@ -40,10 +40,10 @@
 *Shared rules live elsewhere.*
 
 - **[CJS-5.8](../corpus_joint_structure.md)** (*comprehensibility and cognitive accessibility terms*) — **Institutional participation and pathway accessibility floor** and **Adaptive participation and support controls**: practical access, protected escalation, anti-retaliation safeguards, proportionate alternatives, pacing, communication modes, sensory and cognitive accessibility, and records for denied accommodations.
-- **Article V-G** (*Accessibility*) in **Chapter Ten** — cross-cutting accessibility Rights-Floor for genuine, not paper-only, participation across governance, stakeholder, adjudicative, and comparable domains.
-- **Article XI** (*Stakeholder System Participation, Representation, and Due Process*) in **Chapter Ten** — meaningful stakeholder participation, weighted-participation constraints, legitimacy gates, and due-process requirements in governed systems.
-- **Article XX** (*Comprehensibility and Complexity Stewardship*) in **Chapter Ten** — proportional comprehensibility and complexity-stewardship duties that must not be used to block participation or accountability.
-- **Article XXIII** (*Conflict Resolution, Escalation, and Emergency Proportionality*) in **Chapter Ten** — procedural fairness, least-restrictive measures, and challenge rights in high-stakes review contexts.
+- **Article V-G** (*Accessibility*) in **Chapter Six** — cross-cutting accessibility Rights-Floor for genuine, not paper-only, participation across governance, stakeholder, adjudicative, and comparable domains.
+- **Article XI** (*Stakeholder System Participation, Representation, and Due Process*) in **Chapter Six** — meaningful stakeholder participation, weighted-participation constraints, legitimacy gates, and due-process requirements in governed systems.
+- **Article XX** (*Comprehensibility and Complexity Stewardship*) in **Chapter Six** — proportional comprehensibility and complexity-stewardship duties that must not be used to block participation or accountability.
+- **Article XXIII** (*Conflict Resolution, Escalation, and Emergency Proportionality*) in **Chapter Six** — procedural fairness, least-restrictive measures, and challenge rights in high-stakes review contexts.
 - **Chapter Five** [*Accessibility*](../core_05p_participation_definitions.md#accessibility-constitutional), [*Procedural Fairness*](../core_05p_participation_definitions.md#procedural-fairness-constitutional), and [*Protected Characteristics*](../core_05p_participation_definitions.md#protected-characteristics-constitutional) — definitional home for accommodation, fair process, and anti-discrimination analysis.
 - **CI-8** and **CI-8.3** — transparency, participation, and digital self-service pathway integrity, including accommodation routing tied to **CI-15**.
 - **CI-6** — procedure integrity, contestability, and secondary review when participation or accommodation disputes stall.

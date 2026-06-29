@@ -2,7 +2,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions; and [Chapter Ten](../core_10-10_rights_part_a.md#chapter-ten-foundational-rights) rights architecture where rights interfaces are invoked.
+- Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions; and [Chapter Six](../core_06-06_rights_part_a.md#chapter-six-foundational-rights) rights architecture where rights interfaces are invoked.
 - Downstream: this section's local operational requirements for **CI-18: Collective public health, epidemic response, and addiction-informed care**.
 - Read with: **CI-18**; **CI-5**; **CI-7**.
 
@@ -40,10 +40,10 @@
 *Shared rules live elsewhere.*
 
 - **[CJS-5.12](../corpus_joint_structure.md)** (*burden-of-justification and constraint terms*) — **Collective-health and emergency support-bundle floor**: restriction paired with support, stigma risk, care-first alternatives, externality evidence, emergency duration, secrecy predicate, and sunset rule evaluated together.
-- **Article I-D** (*Existential Risk and Recovery Capacity*) in **Chapter Ten** — heightened scrutiny for population-level, environmental, or existential-risk-scale collective harms where materially implicated.
-- **Article III-C** (*Bodily-Maintenance and Healthcare Access*) in **Chapter Ten** — bodily-maintenance and healthcare access, including treatment and stabilization pathways, without proxy denial.
-- **Article VII-C** (*Mental-Health Crisis and Involuntary-Intervention Floor*) in **Chapter Ten** — crisis-intervention limits that collective-health measures do not narrow; coercive treatment beyond those terms is not authorized here.
-- **Article XXIII-D** (*Emergency Measures and Continuation Burden*) in **Chapter Ten** — emergency-measure proportionality, continuation burden, and time-bounded restrictive authority.
+- **Article I-D** (*Existential Risk and Recovery Capacity*) in **Chapter Six** — heightened scrutiny for population-level, environmental, or existential-risk-scale collective harms where materially implicated.
+- **Article III-C** (*Bodily-Maintenance and Healthcare Access*) in **Chapter Six** — bodily-maintenance and healthcare access, including treatment and stabilization pathways, without proxy denial.
+- **Article VII-C** (*Mental-Health Crisis and Involuntary-Intervention Floor*) in **Chapter Six** — crisis-intervention limits that collective-health measures do not narrow; coercive treatment beyond those terms is not authorized here.
+- **Article XXIII-D** (*Emergency Measures and Continuation Burden*) in **Chapter Six** — emergency-measure proportionality, continuation burden, and time-bounded restrictive authority.
 - **Protocol C** §**10** (*Lived-condition floors, continuity, and re-entry alignment*) in `corpus_systems.md` — lived-condition expectations during restrictions, including healthcare, mental-health access, family or care contact, review cadence, and re-entry planning.
 - **Chapter Five** [*Emergency and Contingency*](../core_05c_continuity_definitions.md#emergency-and-contingency-constitutional) — definitional home for emergency framing, duration, and contingency discipline.
 - **CI-5** — integrity routing and anti-capture interfaces where public-health enforcement or funding creates capture risk.

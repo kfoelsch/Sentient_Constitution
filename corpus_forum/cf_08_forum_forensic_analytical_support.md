@@ -2,7 +2,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Nine](../core_09-09_forum.md#chapter-nine-forums-and-jurisdiction) forum-family routing; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
+- Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Eleven](../core_11-11_forum.md#chapter-eleven-forums-and-jurisdiction) forum-family routing; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
 - Downstream: [CF-8.1 When forensic or analytical support is required](#cf-81-when-forensic-or-analytical-support-is-required); [CF-8.2 What support personnel may do](#cf-82-what-support-personnel-may-do); [CF-8.3 Independence, conflicts, and challenges](#cf-83-independence-conflicts-and-challenges); [CF-8.4 Evidence custody and method records](#cf-84-evidence-custody-and-method-records); [CF-8.5 Reports, explanations, and emergency preservation](#cf-85-reports-explanations-and-emergency-preservation); [CF-8.6 Boundary with contest-integrity monitoring](#cf-86-boundary-with-contest-integrity-monitoring).
 - Read with: **CF-8**; **CF-8.1**; **CF-8.2**; **CF-8.3**; **CF-8.4**; **CF-8.5**; **CF-8.6**.
 - Topic routing (primary owner): **CJS-R07** (*Forum forensic and analytical support*) in **CJS-2.1** (*Topic router (stable IDs)*). Mandatory read-with: **CI-7.3**.
@@ -26,7 +26,7 @@
 <br>
 
 
-Where a **constitutional community** establishes, adopts, or relies on **forum** families under `core_09-09_forum.md` **Chapter Nine**, it must ensure those families maintain or can obtain access to **independent forensic and analytical support**. In ordinary terms, a forum must have access to qualified help when the facts are too technical, hidden, fragmented, or causally tangled for the parties and the panel to handle fairly on their own.
+Where a **constitutional community** establishes, adopts, or relies on **forum** families under `core_11-11_forum.md` **Chapter Eleven**, it must ensure those families maintain or can obtain access to **independent forensic and analytical support**. In ordinary terms, a forum must have access to qualified help when the facts are too technical, hidden, fragmented, or causally tangled for the parties and the panel to handle fairly on their own.
 
 This support exists to help the forum understand evidence. It does not create another merits forum, another prosecutor, or another decision-maker.
 
@@ -34,7 +34,7 @@ This support exists to help the forum understand evidence. It does not create an
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Nine](../core_09-09_forum.md#chapter-nine-forums-and-jurisdiction) forum-family routing; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
+- Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Eleven](../core_11-11_forum.md#chapter-eleven-forums-and-jurisdiction) forum-family routing; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
 - Downstream: this section's local operational requirements for **CF-8.1 When forensic or analytical support is required**.
 - Read with: **CF-8.1**.
 
@@ -69,7 +69,7 @@ The support requirement is practical, not decorative. If a case cannot be fairly
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Nine](../core_09-09_forum.md#chapter-nine-forums-and-jurisdiction) forum-family routing; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
+- Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Eleven](../core_11-11_forum.md#chapter-eleven-forums-and-jurisdiction) forum-family routing; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
 - Downstream: this section's local operational requirements for **CF-8.2 What support personnel may do**.
 - Read with: **CF-8.2**.
 
@@ -106,7 +106,7 @@ Support personnel must not impose sanctions, decide liability, make final credib
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Nine](../core_09-09_forum.md#chapter-nine-forums-and-jurisdiction) forum-family routing; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
+- Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Eleven](../core_11-11_forum.md#chapter-eleven-forums-and-jurisdiction) forum-family routing; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
 - Downstream: this section's local operational requirements for **CF-8.3 Independence, conflicts, and challenges**.
 - Read with: **CF-8.3**.
 
@@ -128,7 +128,7 @@ Support personnel must not impose sanctions, decide liability, make final credib
 <br>
 
 
-Appointment, conflict disclosure, recusal, and challenge pathways must satisfy `corpus_institutions.md` **CI-4** (*Appointment, competency, rotation, and removal*), **CI-5** (*Conflict integrity, anti-capture, and anti-corruption*), and `core_09-09_forum.md` **Chapter Nine**.
+Appointment, conflict disclosure, recusal, and challenge pathways must satisfy `corpus_institutions.md` **CI-4** (*Appointment, competency, rotation, and removal*), **CI-5** (*Conflict integrity, anti-capture, and anti-corruption*), and `core_11-11_forum.md` **Chapter Eleven**.
 
 Parties and materially affected sentients must have a meaningful opportunity, consistent with lawful restrictions, to challenge:
 - the scope of the assignment;
@@ -142,7 +142,7 @@ Exculpatory, mitigating, inculpatory, and impeachment evidence must be preserved
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Nine](../core_09-09_forum.md#chapter-nine-forums-and-jurisdiction) forum-family routing; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
+- Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Eleven](../core_11-11_forum.md#chapter-eleven-forums-and-jurisdiction) forum-family routing; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
 - Downstream: this section's local operational requirements for **CF-8.4 Evidence custody and method records**.
 - Read with: **CF-8.4**.
 
@@ -171,13 +171,13 @@ Forensic and analytical support must leave a record that later reviewers can fol
 - uncertainty statements, assumptions, and limits;
 - access, retention, segregation, and disclosure handling for restricted or sensitive material.
 
-Evidence handling must satisfy Chapter Five [Evidence Preservation](../core_05o_oversight_definitions.md#evidence-preservation). Access to restricted evidence must also satisfy **Chapter Five** (*Auditability*, *Verifiability*, *Verification Accessibility*, *Transparency*), `core_02-04_definition_mechanics.md` **Chapters Two through Four** security-constrained observability requirements, `corpus_systems.md` restricted-data rules, and `core_10-10_rights_part_c.md` **Article XV-A** plus Article XV's verification-access provisions.
+Evidence handling must satisfy Chapter Five [Evidence Preservation](../core_05o_oversight_definitions.md#evidence-preservation). Access to restricted evidence must also satisfy **Chapter Five** (*Auditability*, *Verifiability*, *Verification Accessibility*, *Transparency*), `core_02-04_definition_mechanics.md` **Chapters Two through Four** security-constrained observability requirements, `corpus_systems.md` restricted-data rules, and `core_06-06_rights_part_c.md` **Article XV-A** plus Article XV's verification-access provisions.
 
 ### CF-8.5 Reports, explanations, and emergency preservation
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Nine](../core_09-09_forum.md#chapter-nine-forums-and-jurisdiction) forum-family routing; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
+- Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Eleven](../core_11-11_forum.md#chapter-eleven-forums-and-jurisdiction) forum-family routing; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
 - Downstream: this section's local operational requirements for **CF-8.5 Reports, explanations, and emergency preservation**.
 - Read with: **CF-8.5**.
 
@@ -207,7 +207,7 @@ Emergency ex parte preservation steps may be permitted only when delay would for
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Nine](../core_09-09_forum.md#chapter-nine-forums-and-jurisdiction) forum-family routing; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
+- Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Eleven](../core_11-11_forum.md#chapter-eleven-forums-and-jurisdiction) forum-family routing; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
 - Downstream: this section's local operational requirements for **CF-8.6 Boundary with contest-integrity monitoring**.
 - Read with: **CF-8.6**; **CF-8**.
 

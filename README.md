@@ -1,6 +1,6 @@
 # Constitution Corpus README
 
-Operative constitutional text for the **Sentient Constitution** lives in the numbered `core_*` files, read together as one instrument (**Chapters One through Fifteen**).
+Operative constitutional text for the **Sentient Constitution** lives in the numbered `core_*` files, read together as one instrument (**Chapters One through Sixteen**).
 
 ## Edition
 
@@ -8,17 +8,17 @@ Operative constitutional text for the **Sentient Constitution** lives in the num
 |---|---|
 | **Corpus edition** | `SC-Corpus-2026.06.18` |
 | **Effective date** | 2026-06-18 |
-| **Status** | Substantive binding text through **Chapter Fifteen** is **stable for assurance review** under this edition. **SC-Corpus-2026.06.18** reorganizes Chapter Five into constitutional **band files** (Oversight, Participation, Accountability, Continuity, Integrative), renumbers §3 dependent clusters **§3.2–§3.16**, and adds the Chapter Five compass in Part A. |
+| **Status** | Substantive binding text through **Chapter Sixteen** is **stable for assurance review** under this edition. **SC-Corpus-2026.06.18** reorganizes Chapter Five into constitutional **band files** (Oversight, Participation, Accountability, Continuity, Integrative), renumbers §3 dependent clusters **§3.2–§3.16**, and adds the Chapter Five compass in Part A. |
 
-Custody and binding scope: [Chapter Five *Corpus*](core_05i_integrative_definitions.md#corpus) and [Chapter Fifteen](core_15-15_incorporation.md). Bump the edition label only on a deliberate corpus publication cut.
+Custody and binding scope: [Chapter Five *Corpus*](core_05i_integrative_definitions.md#corpus) and [Chapter Sixteen](core_16-16_incorporation.md). Bump the edition label only on a deliberate corpus publication cut.
 
 ## How to read
 
 1. **Chapter One** — preamble ([`core_00_preamble.md`](core_00_preamble.md)); Values Principles, Part A ([`core_01_a_values_principles.md`](core_01_a_values_principles.md)); Stewardship and Governance, Part B ([`core_01_b_stewardship_capacity_principles.md`](core_01_b_stewardship_capacity_principles.md)).
 2. **Chapters Two through Five** — definition structure, integrity, burden, traceability, and the definition stack ([`core_02-04_definition_mechanics.md`](core_02-04_definition_mechanics.md); Chapter Five Parts A–C below). Chapter Five is the **definition stack**, not the Rights Floor.
-3. **Chapter 5A and Chapters Six through Nine** — enforce the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) and [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) through one **system alignment, standing, verification, and forum coordination pipeline** ([Chapters Six–Nine compass](core_06-06_standing_assessment.md#chapters-six-nine-constitutional-compass)), governed by **Article XXIII-G** (*Timely Resolution and Anti-Delay Floor*): system alignment certification record where material → standing record → verified input → contribution / violation classification → attachments, descriptors, locks, and effects → Chapter Eight top-slot review for Violation Axis **s = 7, 8, or 9** anti-constitutional misconduct; **Chapter Nine** supplies forum families, jurisdiction, and cross-forum anti-self-judging ([`core_09-09_forum.md`](core_09-09_forum.md)).
-4. **Chapter Ten** — Rights Floor, Articles I–XXV in planet-first Parts A–D ([`core_10-10_rights_part_a.md`](core_10-10_rights_part_a.md) through [`core_10-10_rights_part_d.md`](core_10-10_rights_part_d.md); article map in [doc_architecture.md](doc_architecture.md) **section 5**).
-5. **Chapters Eleven through Fifteen** — governance, non-regression, supremacy, amendment and ratification, and the incorporation bridge.
+3. **Chapter Six** — Rights Floor, Articles I–XXV in planet-first Parts A–D ([`core_06-06_rights_part_a.md`](core_06-06_rights_part_a.md) through [`core_06-06_rights_part_d.md`](core_06-06_rights_part_d.md); article map in [doc_architecture.md](doc_architecture.md) **section 5**).
+4. **Chapter Seven and Chapters Eight through Eleven** — enforce the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) and [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) through one **system alignment, standing, verification, and forum coordination pipeline** ([Chapters Eight–Eleven compass](core_08-08_standing_assessment.md#chapters-eight-eleven-constitutional-compass)), governed by **Article XXIII-G** (*Timely Resolution and Anti-Delay Floor*): system alignment certification record where material → standing record → verified input → contribution / violation classification → attachments, descriptors, locks, and effects → Chapter Ten top-slot review for Violation Axis **s = 7, 8, or 9** anti-constitutional misconduct; **Chapter Eleven** supplies forum families, jurisdiction, and cross-forum anti-self-judging ([`core_11-11_forum.md`](core_11-11_forum.md)).
+5. **Chapters Twelve through Sixteen** — governance, non-regression, supremacy, amendment and ratification, and the incorporation bridge.
 
 The corpus is written in plain language with low jargon to improve accessibility, audit readability, and adoption testing.
 
@@ -43,34 +43,34 @@ The corpus is written in plain language with low jargon to improve accessibility
 
 ### Standing pipeline and forums
 
-- **Chapter 5A** — system alignment certification and recognition records before standing — [`core_05A_system_alignment_certification.md`](core_05A_system_alignment_certification.md)
-- **Chapters Six–Nine compass** — Tetrad / Aims reader map for the standing and adjudication pipeline — [`#chapters-six-nine-constitutional-compass`](core_06-06_standing_assessment.md#chapters-six-nine-constitutional-compass)
-- **Chapter Six** — standing records, verified inputs, slot grammar, contribution / violation classification — [`core_06-06_standing_assessment.md`](core_06-06_standing_assessment.md)
-- **Chapter Seven** — standing effects, attachments, descriptors, locks, enforcement — [`core_07-07_standing_integration.md`](core_07-07_standing_integration.md)
-- **Chapter Eight** — top-slot finalization for final **s = 7, 8, or 9** anti-constitutional misconduct — [`core_08-08_misconduct.md`](core_08-08_misconduct.md)
+- **Chapter Seven** — system alignment certification and recognition records before standing — [`core_07-07_system_alignment_certification.md`](core_07-07_system_alignment_certification.md)
+- **Chapters Eight–Eleven compass** — Tetrad / Aims reader map for the standing and adjudication pipeline — [`#chapters-eight-eleven-constitutional-compass`](core_08-08_standing_assessment.md#chapters-eight-eleven-constitutional-compass)
+- **Chapter Eight** — standing records, verified inputs, slot grammar, contribution / violation classification — [`core_08-08_standing_assessment.md`](core_08-08_standing_assessment.md)
+- **Chapter Nine** — standing effects, attachments, descriptors, locks, enforcement — [`core_09-09_standing_integration.md`](core_09-09_standing_integration.md)
+- **Chapter Ten** — top-slot finalization for final **s = 7, 8, or 9** anti-constitutional misconduct — [`core_10-10_misconduct.md`](core_10-10_misconduct.md)
 
 ### Forums
 
-- **Chapter Nine** — forum families supervise dispute handling on the standing pipeline (routing, jurisdiction, cross-forum anti-self-judging) — [`core_09-09_forum.md`](core_09-09_forum.md)
-- **Chapters Six–Nine application vignettes** — illustrative domain walkthroughs for the standing and forum supervision pipeline — [`core_06-09_application_vignettes.md`](core_06-09_application_vignettes.md)
+- **Chapter Eleven** — forum families supervise dispute handling on the standing pipeline (routing, jurisdiction, cross-forum anti-self-judging) — [`core_11-11_forum.md`](core_11-11_forum.md)
+- **Chapters Eight–Eleven application vignettes** — illustrative domain walkthroughs for the standing and forum supervision pipeline — [`core_08-11_application_vignettes.md`](core_08-11_application_vignettes.md)
 
 ### Rights Floor
 
-- **Chapter Ten** (Articles I–XXV; planet-first presentation in Parts A–D)
-  - Part A — Articles I–IV — [`core_10-10_rights_part_a.md`](core_10-10_rights_part_a.md)
-  - Part B — Articles V–XI — [`core_10-10_rights_part_b.md`](core_10-10_rights_part_b.md)
-  - Part C — Articles XII–XXI — [`core_10-10_rights_part_c.md`](core_10-10_rights_part_c.md)
-  - Part D — Articles XXII–XXV (transition and re-baselining in **Article XXV**) — [`core_10-10_rights_part_d.md`](core_10-10_rights_part_d.md)
+- **Chapter Six** (Articles I–XXV; planet-first presentation in Parts A–D)
+  - Part A — Articles I–IV — [`core_06-06_rights_part_a.md`](core_06-06_rights_part_a.md)
+  - Part B — Articles V–XI — [`core_06-06_rights_part_b.md`](core_06-06_rights_part_b.md)
+  - Part C — Articles XII–XXI — [`core_06-06_rights_part_c.md`](core_06-06_rights_part_c.md)
+  - Part D — Articles XXII–XXV (transition and re-baselining in **Article XXV**) — [`core_06-06_rights_part_d.md`](core_06-06_rights_part_d.md)
   - Stable IDs and routing — [doc_architecture.md](doc_architecture.md) **section 5**
 
 ### Governance, amendment, and incorporation
 
-- **Chapter Eleven** — constitutional contract, legitimacy, authorization, stewardship — [`core_11-11_governance.md`](core_11-11_governance.md)
-- **Chapters Twelve through Fourteen** — [`core_12-14_amendment.md`](core_12-14_amendment.md)
-  - **Chapter Twelve** — non-regression and substantive amendment validity (Test 1)
-  - **Chapter Thirteen** — expansion of protection, supremacy, external legal orders
-  - **Chapter Fourteen** — ratification, adoption, procedural validity (Tests 2–4)
-- **Chapter Fifteen** — incorporation bridge (adoption, custody, no silent drift) — [`core_15-15_incorporation.md`](core_15-15_incorporation.md)
+- **Chapter Twelve** — constitutional contract, legitimacy, authorization, stewardship — [`core_12-12_governance.md`](core_12-12_governance.md)
+- **Chapters Thirteen through Fifteen** — [`core_13-15_amendment.md`](core_13-15_amendment.md)
+  - **Chapter Thirteen** — non-regression and substantive amendment validity (Test 1)
+  - **Chapter Fourteen** — expansion of protection, supremacy, external legal orders
+  - **Chapter Fifteen** — ratification, adoption, procedural validity (Tests 2–4)
+- **Chapter Sixteen** — incorporation bridge (adoption, custody, no silent drift) — [`core_16-16_incorporation.md`](core_16-16_incorporation.md)
 
 ## Common lookups
 
@@ -78,12 +78,12 @@ Cross-topic entry points not spelled out in the headings above:
 
 - Burden of proof, traceability, verification → **Chapter Four** ([`core_02-04_definition_mechanics.md`](core_02-04_definition_mechanics.md))
 - Constitutional Tetrad, Two Constitutional Aims, material stake → **Chapter 00 §1 The Model** ([`#constitutional-tetrad`](core_00_preamble.md#constitutional-tetrad), [`#two-constitutional-aims`](core_00_preamble.md#two-constitutional-aims), [`#material-stake`](core_00_preamble.md#material-stake)); Chapter One develops the aims into operative principles
-- System alignment certification and recognition records → **Chapter 5A**
-- Contribution / violation classification (Axis I and II) → **Chapter Six**
-- Chapters Six–Nine compass (Tetrad / Aims) → [`#chapters-six-nine-constitutional-compass`](core_06-06_standing_assessment.md#chapters-six-nine-constitutional-compass)
-- Standing locks and integration consequences → **Chapter Seven**
-- Anti-constitutional misconduct gravity and top-slot review → **Chapter Eight**
-- Incorporation boundary and custody effect → **Chapter Fifteen**
+- System alignment certification and recognition records → **Chapter Seven**
+- Contribution / violation classification (Axis I and II) → **Chapter Eight**
+- Chapters Eight–Eleven compass (Tetrad / Aims) → [`#chapters-eight-eleven-constitutional-compass`](core_08-08_standing_assessment.md#chapters-eight-eleven-constitutional-compass)
+- Standing locks and integration consequences → **Chapter Nine**
+- Anti-constitutional misconduct gravity and top-slot review → **Chapter Ten**
+- Incorporation boundary and custody effect → **Chapter Sixteen**
 
 ## Companion implementation corpus
 
@@ -94,13 +94,13 @@ Designated obligations in these wrappers and their subfile directories are **bin
 - [**corpus_institutions.md**](corpus_institutions.md) — institutional governance, oversight, proportionality-scaled formation, sanctions and dissolution
 - [**corpus_forum.md**](corpus_forum.md) — forum operations; substantive CF text in `corpus_forum/` (panel formation, recusal, review lanes, continuity, emergency adjudication)
 
-[Chapter Fifteen](core_15-15_incorporation.md) is the constitutional incorporation bridge. Operative enforcement within any adopter is contingent on valid adoption under **Chapter Fourteen** (ratification) and **Chapter Fifteen** (incorporation and custody). Substantive content stands as stated in the instrument regardless of adoption; "the instrument lacks jurisdiction" addresses enforcement against non-adopters, not a rebuttal of substantive claims. See Chapter Fifteen **§4 Adoption framing and scope of authority** for the full self-description.
+[Chapter Sixteen](core_16-16_incorporation.md) is the constitutional incorporation bridge. Operative enforcement within any adopter is contingent on valid adoption under **Chapter Fifteen** (ratification) and **Chapter Sixteen** (incorporation and custody). Substantive content stands as stated in the instrument regardless of adoption; "the instrument lacks jurisdiction" addresses enforcement against non-adopters, not a rebuttal of substantive claims. See Chapter Sixteen **§4 Adoption framing and scope of authority** for the full self-description.
 
 ## Binding vs support
 
 | Layer | What counts |
 |-------|-------------|
-| **Binding constitutional source** | Numbered `core_*` files ([`core_00_preamble.md`](core_00_preamble.md) through [`core_15-15_incorporation.md`](core_15-15_incorporation.md)) read as one instrument |
+| **Binding constitutional source** | Numbered `core_*` files ([`core_00_preamble.md`](core_00_preamble.md) through [`core_16-16_incorporation.md`](core_16-16_incorporation.md)) read as one instrument |
 | **Binding incorporated implementation** | Designated obligations in the companion wrappers and linked subfiles above, within valid adoption scope |
 | **Process / map support** | [doc_architecture.md](doc_architecture.md), `TODO.md`, regression and evidence artifacts, and implementation notes unless explicitly adopted |
 

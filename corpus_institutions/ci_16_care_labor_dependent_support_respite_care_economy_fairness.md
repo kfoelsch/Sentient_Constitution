@@ -2,7 +2,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions; and [Chapter Ten](../core_10-10_rights_part_a.md#chapter-ten-foundational-rights) rights architecture where rights interfaces are invoked.
+- Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions; and [Chapter Six](../core_06-06_rights_part_a.md#chapter-six-foundational-rights) rights architecture where rights interfaces are invoked.
 - Downstream: this section's local operational requirements for **CI-16: Care labor, dependent support, respite, and care-economy fairness**.
 - Read with: **CI-16**; **CI-9.4**; **CI-10**; **CI-8.4**; **CI-20**; **CI-19**.
 
@@ -30,7 +30,7 @@
 - **The basic idea** — care labor is operational capacity; institutions that depend on it must name who routes respite, measures unpaid care, handles coercion reports, and funds reproductive-labor pathways.
 - **Respite** — carers and dependents need substitution, crisis coverage, and relief without abandonment, retaliation, or impossible eligibility hoops.
 - **Visibility** — unpaid and paid care must appear in governance metrics and dependency maps, not stay off the books.
-- **Coercion in care** — intake and escalation routes must connect to **CI-20** without dissolving lawful association or conscience protections that **Chapter Ten** guarantees.
+- **Coercion in care** — intake and escalation routes must connect to **CI-20** without dissolving lawful association or conscience protections that **Chapter Six** guarantees.
 - **Reproductive-labor fairness** — metrics, budgets, service pathways, and labor routes must treat reproductive and maintenance labor as governable, not as a private default obligation.
 - **Hard limits** — survival floors cannot be conditioned on care labor (**CI-9.4**); billing and charges cannot quietly block care access (**CI-10**); funding allocation must stay auditable (**Protocol S5**).
 - **Read with** — **CI-9.4**, **CI-10**, **CI-8.4**, **CI-20**, and **CI-19** where applicable.
@@ -40,9 +40,9 @@
 *Shared rules live elsewhere.*
 
 - **[CJS-5.16](../corpus_joint_structure.md)** (*dependency integrity and disclosure terms*) — **Care, respite, and support-dependency adequacy**: substitution pathways, crisis coverage, accessibility constraints, and relief without abandonment, retaliation, or unreasonable eligibility burden.
-- **Article VII-D** (*Family, Care Relationships, Reproductive Autonomy, and Non-Separation*) in **Chapter Ten** — family and care relationships, reproductive autonomy, and non-separation floors.
-- **Article III-D** (*Labor and Economic Floor*) in **Chapter Ten** — fair compensation, collective organization, safe conditions, and leisure and rest for productive activity, including care work where material.
-- **Article III-C** (*Bodily-Maintenance and Healthcare Access*) in **Chapter Ten** — bodily-maintenance and healthcare access for dependents without proxy denial.
+- **Article VII-D** (*Family, Care Relationships, Reproductive Autonomy, and Non-Separation*) in **Chapter Six** — family and care relationships, reproductive autonomy, and non-separation floors.
+- **Article III-D** (*Labor and Economic Floor*) in **Chapter Six** — fair compensation, collective organization, safe conditions, and leisure and rest for productive activity, including care work where material.
+- **Article III-C** (*Bodily-Maintenance and Healthcare Access*) in **Chapter Six** — bodily-maintenance and healthcare access for dependents without proxy denial.
 - **Chapter Five** [*Family and Care Relationships*](../core_05p_participation_definitions.md#family-and-care-relationships-constitutional) — definitional home for care-relationship duties alongside **Article VII-D**.
 - **CI-9.4** — survival floors, voluntary exchange, and markets (**Article III-A** interface): essential access cannot depend on unpaid care labor or premium purchasing.
 - **CI-10** — public revenue, fees, recurring charges, and billing integrity: charge design must not defeat care or respite access in practice.

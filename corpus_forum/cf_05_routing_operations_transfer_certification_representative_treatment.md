@@ -2,7 +2,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Nine](../core_09-09_forum.md#chapter-nine-forums-and-jurisdiction) forum-family routing; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
+- Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Eleven](../core_11-11_forum.md#chapter-eleven-forums-and-jurisdiction) forum-family routing; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
 - Downstream: [CF-5.1 Published intake classes](#cf-51-published-intake-classes).
 - Read with: **CF-5**; **CF-5.1**; **CF-5.2**; **CF-7**; [CJS-2.1](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract.
 - Topic routing (mandatory read-with): **CJS-R16** (*Cross-institution coordination, deadlock, and escalation*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CI-12**.
@@ -30,7 +30,7 @@
 - Detailed routing rules and source authorities are listed in the relevant subsections and cross-references below.
 - Canonical owner map: `corpus_joint_structure.md` **CJS-2.1** (*Topic router (stable IDs)*) and `doc_architecture.md` section 4.
 
-This section turns [Chapter Nine](../core_09-09_forum.md#chapter-nine-forums-and-jurisdiction) forum-access rules into day-to-day routing requirements. It explains how forum families must handle:
+This section turns [Chapter Eleven](../core_11-11_forum.md#chapter-eleven-forums-and-jurisdiction) forum-access rules into day-to-day routing requirements. It explains how forum families must handle:
 - published intake classes and intake triage (**CF-5.1** (*Published intake classes*), **CF-5.2** (*Intake triage body*));
 - decisions about where a matter should go;
 - tie-breaks when a matter involves more than one kind of stake;
@@ -40,15 +40,15 @@ This section turns [Chapter Nine](../core_09-09_forum.md#chapter-nine-forums-and
 - records and public notice when routing rules change;
 - coordination with **Integrity** forum **alignment** rulings (**CF-7** (*Integrity safeguards, anti-capture operations, and anti-self-judging support*)) when intake, referral, and certification steps overlap.
 
-This section implements the primary-stakes rule in `core_09-09_forum.md` **Chapter Nine**. It does not change that rule.
+This section implements the primary-stakes rule in `core_11-11_forum.md` **Chapter Eleven**. It does not change that rule.
 
-**Chapter Nine linkage.** Each forum family must have an intake triage body, as required by **Chapter Nine**, **section 5**. That requirement works alongside **default venue** in **section 2**, **forensic and analytical support** in **section 3**, and **transfer**, **consolidation**, **certification**, and **backup** discipline in **sections 6 and 7**. An intake triage body helps route matters at the start; it is **not** a separate forum family and cannot replace a lawfully constituted **merits** panel. **CF-5.1** (*Published intake classes*) and **CF-5.2** (*Intake triage body*) state the operational rules for that boundary.
+**Chapter Eleven linkage.** Each forum family must have an intake triage body, as required by **Chapter Eleven**, **section 5**. That requirement works alongside **default venue** in **section 2**, **forensic and analytical support** in **section 3**, and **transfer**, **consolidation**, **certification**, and **backup** discipline in **sections 6 and 7**. An intake triage body helps route matters at the start; it is **not** a separate forum family and cannot replace a lawfully constituted **merits** panel. **CF-5.1** (*Published intake classes*) and **CF-5.2** (*Intake triage body*) state the operational rules for that boundary.
 
 ### CF-5.1 Published intake classes
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Nine](../core_09-09_forum.md#chapter-nine-forums-and-jurisdiction) forum-family routing; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
+- Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Eleven](../core_11-11_forum.md#chapter-eleven-forums-and-jurisdiction) forum-family routing; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
 - Downstream: this section's local operational requirements for **CF-5.1 Published intake classes**.
 - Read with: **CF-5.1**.
 
@@ -75,7 +75,7 @@ Each required forum family must publish an intake path. At minimum, that path mu
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Nine](../core_09-09_forum.md#chapter-nine-forums-and-jurisdiction) forum-family routing; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
+- Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Eleven](../core_11-11_forum.md#chapter-eleven-forums-and-jurisdiction) forum-family routing; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions.
 - Downstream: this section's local operational requirements for **CF-5.2 Intake triage body**.
 - Read with: **CF-5.2**; **CF-5.1**.
 

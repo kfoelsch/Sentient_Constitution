@@ -7,12 +7,12 @@ import re
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
-CH06 = ROOT / "core_06-06_standing_assessment.md"
+CH06 = ROOT / "core_08-08_standing_assessment.md"
 
 KEEP = {
-    "chapters-six-nine-constitutional-compass",
-    "chapter-six-compliance-violation-and-standing-model",
-    "chapter-six-part-a-orientation",
+    "chapters-eight-eleven-constitutional-compass",
+    "chapter-eight-compliance-violation-and-standing-model",
+    "chapter-eight-part-a-orientation",
     "2-purpose-and-role",
     "2-standing-records",
     "chapter-six-part-b-oversight-foundation",
@@ -52,7 +52,7 @@ KEEP = {
 
 REDIRECT: dict[str, str] = {
     "1-purpose-and-role": "2-purpose-and-role",
-    "chapters-six-eight-standing-pipeline-map": "chapters-six-nine-constitutional-compass",
+    "chapters-six-eight-standing-pipeline-map": "chapters-eight-eleven-constitutional-compass",
     "2-primary-contribution-and-violation-levels": "2-standing-records",
     "2-standing-effect-verified-inputs-forums": "2-standing-records",
     "2-standing-records-and-verified-inputs": "2-standing-records",
@@ -177,8 +177,8 @@ def prune_ch06(text: str) -> str:
 
 def update_links(text: str) -> str:
     for old, new in sorted(REDIRECT.items(), key=lambda x: -len(x[0])):
-        text = text.replace(f"core_06-06_standing_assessment.md#{old}", f"core_06-06_standing_assessment.md#{new}")
-        text = text.replace(f"core_06-06_standing_assessment.md##{old}", f"core_06-06_standing_assessment.md#{new}")
+        text = text.replace(f"core_08-08_standing_assessment.md#{old}", f"core_08-08_standing_assessment.md#{new}")
+        text = text.replace(f"core_08-08_standing_assessment.md##{old}", f"core_08-08_standing_assessment.md#{new}")
         # same-file anchors
         text = re.sub(rf"\(#{re.escape(old)}\)", f"(#{new})", text)
         text = re.sub(rf"\(#{re.escape(old)}-", f"(#{new}-", text)

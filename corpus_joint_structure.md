@@ -4,7 +4,7 @@
 
 **Compatibility entrypoint:** this root file is the stable navigation wrapper for the joint-structure implementation file. Substantive CJS text now lives in the `corpus_joint_structure/` subfiles listed below. Broad references to `corpus_joint_structure.md` continue to mean the joint-structure implementation file as a whole.
 
-**Authority note:** the linked subfiles are binding incorporated implementation text where `corpus_joint_structure.md` is incorporated under Sentient Constitution Chapter Fifteen. The wrapper is an index and does not restate or narrow the subfile text.
+**Authority note:** the linked subfiles are binding incorporated implementation text where `corpus_joint_structure.md` is incorporated under Sentient Constitution Chapter Sixteen. The wrapper is an index and does not restate or narrow the subfile text.
 
 > **Reader guidance (non-operative): how to read CJS**
 >

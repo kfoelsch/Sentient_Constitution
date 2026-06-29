@@ -1,7 +1,7 @@
 ## Protocol S5 — Resource Allocation and Funding Stewardship
 
 Constitutional tracing: This protocol specifies implementation-file-level funding stewardship, dependent-systems mapping.
-and cross-system resource-flow obligations implementing Sentient Constitution Chapter Ten, Article IV-A (see doc_architecture.md section 5).
+and cross-system resource-flow obligations implementing Sentient Constitution Chapter Six, Article IV-A (see doc_architecture.md section 5).
 
 **Protocol S4** governs adaptive adjustment of allocation in response to degradation and systemic risk. This protocol does not replace or narrow Sentient Constitution Chapters Two through Five. Where this protocol is silent, Sentient Constitution Chapters Two through Five govern.
 
@@ -109,7 +109,7 @@ All such mechanisms must remain consistent with constitutional constraints and s
 
 One such reference model includes **a portion allocated to builders and maintainers over a defined period**. **It** includes **a portion reserved for ongoing system sustainability and upgrades**. **It** includes **a portion allocated to broader ecosystem development and constitutional project funding**.
 
-**Default funding models must** **remain easy to understand and verify** (**Article XX-A** and **Article XV-A**). **They** must **be disclosed transparently**. **They** must **remain subject to modification through stakeholder deliberation** (**Article XI**; **Chapter Ten**, section **4**, where binding collective choice applies).
+**Default funding models must** **remain easy to understand and verify** (**Article XX-A** and **Article XV-A**). **They** must **be disclosed transparently**. **They** must **remain subject to modification through stakeholder deliberation** (**Article XI**; **Chapter Six**, section **4**, where binding collective choice applies).
 
 **Reference allocation guidance.** To support early system design and reduce path-dependent drift.
 systems may consider illustrative allocation patterns appropriate to their role and criticality. For example, substrate systems may emphasize stability, with higher allocation toward operations, security, and ecosystem reserves.
@@ -149,7 +149,7 @@ No minimum participation threshold is required to initiate review, though outcom
 
 **Triggers for review include, but are not limited to** **evidence of disproportionate or persistent extraction**. **They** include **failure to meet required allocation categories**. **They** include **emerging concentration of funding or influence**. **They** include **material misalignment with constitutional principles**.
 
-**Challenges must** be **documented and supported by evidence where feasible**. **They** must **remain subject to audit and evaluation under Article XV-A**. **They** must **be resolved through participatory processes** (**Article XI**; **Chapter Ten**, section **4**, where binding collective choice applies) **and, where necessary, Article XXIII-A** (justice objective and review scope).
+**Challenges must** be **documented and supported by evidence where feasible**. **They** must **remain subject to audit and evaluation under Article XV-A**. **They** must **be resolved through participatory processes** (**Article XI**; **Chapter Six**, section **4**, where binding collective choice applies) **and, where necessary, Article XXIII-A** (justice objective and review scope).
 
 **Due process in funding changes.** Funding-related decisions apply **Article XI**, **Article XV-A**, and `corpus_joint_structure.md` **CJS-5.13** (*procedural integrity and adjudication terms*) / **CJS-5.13** (*procedural integrity and adjudication terms*) for process depth, duration, reviewability, and proportionality. Protocol S5 funding records add:
 - transparent proposal;
@@ -159,9 +159,9 @@ No minimum participation threshold is required to initiate review, though outcom
 - audit and review route;
 - reversibility assessment where feasible.
 
-**Steward, operator, and governance remuneration (incentive governance).** Compensation, equity, bonuses, performance metrics, and deferred incentives for **builders, operators, maintainers, and human governance roles** must be **aligned with long-term constitutional outcomes**. **That** requirement applies when those roles materially influence resource flows or funding decisions. **That** obligation applies when those roles materially influence dependent-systems maps. **It** applies when those roles materially influence **system classification** or **Critical System Stewardship** (CS-5 — Critical system stewardship). That alignment includes ecosystem-aware stewardship under **Sentient Constitution Chapter Ten**, **Articles I-B** and **XI**. **It** includes substrate and dependency integrity (**Articles I–III and V**). **It** includes non-entrenchment and fitness over time (**Article XXIV-A**).
+**Steward, operator, and governance remuneration (incentive governance).** Compensation, equity, bonuses, performance metrics, and deferred incentives for **builders, operators, maintainers, and human governance roles** must be **aligned with long-term constitutional outcomes**. **That** requirement applies when those roles materially influence resource flows or funding decisions. **That** obligation applies when those roles materially influence dependent-systems maps. **It** applies when those roles materially influence **system classification** or **Critical System Stewardship** (CS-5 — Critical system stewardship). That alignment includes ecosystem-aware stewardship under **Sentient Constitution Chapter Six**, **Articles I-B** and **XI**. **It** includes substrate and dependency integrity (**Articles I–III and V**). **It** includes non-entrenchment and fitness over time (**Article XXIV-A**).
 
-Remuneration design must satisfy [corpus_joint_structure.md — Cross-domain implementation layer](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cross-domain-implementation-layer), including **CJS-5.12** (*burden-of-justification and constraint terms*) mechanism-integrity and incentive-alignment requirements, incorporated via **Sentient Constitution Chapter Fifteen**, and **Sentient Constitution Chapter One**. **That** includes the requirement that incentives not systematically undermine Safety, Truth (Epistemic Integrity), or meaningful agency.
+Remuneration design must satisfy [corpus_joint_structure.md — Cross-domain implementation layer](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cross-domain-implementation-layer), including **CJS-5.12** (*burden-of-justification and constraint terms*) mechanism-integrity and incentive-alignment requirements, incorporated via **Sentient Constitution Chapter Sixteen**, and **Sentient Constitution Chapter One**. **That** includes the requirement that incentives not systematically undermine Safety, Truth (Epistemic Integrity), or meaningful agency.
 
 **Conflict-free remuneration processes.** Where humans hold authority over allocation, enforcement, classification, or oversight, structures must **mitigate personal enrichment** from decisions those same roles approve, delay, or fail to rectify.
 
@@ -173,7 +173,7 @@ Variable pay or equity tied to metrics susceptible to **gaming** at the expense 
 
 **Examples** include multi-period evaluation, independent outcome attestation, metric redesign, or caps. **Those** safeguards must be proportional to **system class** (CS-4 — System classification and handling) and **stewardship tier** (CS-5 — Critical system stewardship).
 
-**Observability of alignment.** To support **Article XV-A** and participatory review under **Article XI**, stewards and funders must maintain **auditable documentation** of governance and stewardship compensation policies and material changes thereto. **That** documentation is subject to **privacy** and **security** limits under **Sentient Constitution Chapter Ten** (including **Articles II-B, XII-A, and XI** where applicable), **Chapter Five** Independent Definitions where relevant, and **[corpus_systems.md](../corpus_systems.md), CS-3 — Information types and handling**. **It** must be sufficient to detect **systematic misalignment** between stated constitutional obligations and incentive structures.
+**Observability of alignment.** To support **Article XV-A** and participatory review under **Article XI**, stewards and funders must maintain **auditable documentation** of governance and stewardship compensation policies and material changes thereto. **That** documentation is subject to **privacy** and **security** limits under **Sentient Constitution Chapter Six** (including **Articles II-B, XII-A, and XI** where applicable), **Chapter Five** Independent Definitions where relevant, and **[corpus_systems.md](../corpus_systems.md), CS-3 — Information types and handling**. **It** must be sufficient to detect **systematic misalignment** between stated constitutional obligations and incentive structures.
 
 ---
 

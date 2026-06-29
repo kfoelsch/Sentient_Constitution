@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Promote Chapter Six LEQU from Chapter One §8.2 to top-level §4; renumber §3.3→§5, §3.4→§6."""
+"""Promote Chapter Eight LEQU from Chapter One §8.2 to top-level §4; renumber §3.3→§5, §3.4→§6."""
 
 from __future__ import annotations
 
@@ -7,7 +7,7 @@ import re
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
-CH06 = ROOT / "core_06-06_standing_assessment.md"
+CH06 = ROOT / "core_08-08_standing_assessment.md"
 
 # Visible heading / section-number renames (longest match first in application order)
 CH06_HEADINGS = [
@@ -60,7 +60,7 @@ CH06_PROSE = [
     ("[Chapter One §8.2](#32-constitutional-outcome-baseline-for-slots)", "[§4](#32-constitutional-outcome-baseline-for-slots)"),
     ("[§3.3](#33-primary-category-defaults-and-lequ-slot-baseline)", "[§5](#33-primary-category-defaults-and-lequ-slot-baseline)"),
     ("[§3.4, ", "[§6, "),
-    ("under **section 4.2**", "under **Chapter Seven section 4.2**"),
+    ("under **section 4.2**", "under **Chapter Nine section 4.2**"),
     ("For this subsection,", "For this section,"),
     ("subordinate to this subsection,", "subordinate to this section,"),
     ("Apply the highest **section 6** level", "Apply the highest **section 6** level"),
@@ -70,55 +70,55 @@ CH06_PROSE = [
 ]
 
 CH7_GUARDS = [
-    ("Chapter Seven section 4.3", "@@CH7-S43@@"),
-    ("Chapter Seven section 4.2", "@@CH7-S42@@"),
-    ("Chapter Seven section 4", "@@CH7-S4@@"),
-    ("Chapter Seven §3.3", "@@CH7-43@@"),
-    ("Chapter Seven Chapter One §8.2", "@@CH7-42@@"),
-    ("Chapter Seven Chapter One §8.1", "@@CH7-41@@"),
-    ("Chapter Seven §4", "@@CH7-4@@"),
+    ("Chapter Nine section 4.3", "@@CH7-S43@@"),
+    ("Chapter Nine section 4.2", "@@CH7-S42@@"),
+    ("Chapter Nine section 4", "@@CH7-S4@@"),
+    ("Chapter Nine §3.3", "@@CH7-43@@"),
+    ("Chapter Nine Chapter One §8.2", "@@CH7-42@@"),
+    ("Chapter Nine Chapter One §8.1", "@@CH7-41@@"),
+    ("Chapter Nine §4", "@@CH7-4@@"),
     ("§Chapter One §8.1–4.3", "@@CH7-SS413@@"),
 ]
 
 CROSS_FILE = [
-    ("Chapter Six Chapter One §8.2", "Chapter Six §4"),
-    ("Chapter Six — Chapter One §8.2", "Chapter Six — §4"),
-    ("Chapter Six section 3.2", "Chapter Six section 4"),
-    ("Chapter Six — section 3.2", "Chapter Six — section 4"),
-    ("Chapter Six §3.3", "Chapter Six §5"),
-    ("Chapter Six — §3.3", "Chapter Six — §5"),
-    ("Chapter Six section 3.3", "Chapter Six section 5"),
-    ("Chapter Six — section 3.3", "Chapter Six — section 5"),
-    ("Chapter Six §3.4", "Chapter Six §6"),
-    ("Chapter Six — §3.4", "Chapter Six — §6"),
-    ("Chapter Six section 3.4", "Chapter Six section 6"),
-    ("Chapter Six — section 3.4", "Chapter Six — section 6"),
+    ("Chapter Eight Chapter One §8.2", "Chapter Eight §4"),
+    ("Chapter Eight — Chapter One §8.2", "Chapter Eight — §4"),
+    ("Chapter Eight section 3.2", "Chapter Eight section 4"),
+    ("Chapter Eight — section 3.2", "Chapter Eight — section 4"),
+    ("Chapter Eight §3.3", "Chapter Eight §5"),
+    ("Chapter Eight — §3.3", "Chapter Eight — §5"),
+    ("Chapter Eight section 3.3", "Chapter Eight section 5"),
+    ("Chapter Eight — section 3.3", "Chapter Eight — section 5"),
+    ("Chapter Eight §3.4", "Chapter Eight §6"),
+    ("Chapter Eight — §3.4", "Chapter Eight — §6"),
+    ("Chapter Eight section 3.4", "Chapter Eight section 6"),
+    ("Chapter Eight — section 3.4", "Chapter Eight — section 6"),
     ("sections 3.3** and **3.4", "sections 5** and **6"),
     ("sections **3.3** and **3.4", "sections **5** and **6"),
-    ("Chapter Six **Chapter One §8.2**", "Chapter Six **§4**"),
-    ("Chapter Six **§3.4**", "Chapter Six **§6**"),
-    ("Chapter Six **§§3.3–3.4**", "Chapter Six **§§5–6**"),
-    ("Chapter Six **§14.3.2** and **§3.4**", "Chapter Six **§14.3.2** and **§6**"),
-    ("canonical Axis II classification rules are in Chapter Six **§3.4**", "canonical Axis II classification rules are in Chapter Six **§6**"),
-    ("under Chapter Six section 3.4", "under Chapter Six section 6"),
-    ("under Chapter Six section 3.3", "under Chapter Six section 5"),
-    ("Chapter Six section 3.4 severity", "Chapter Six section 6 severity"),
-    ("Chapter Six section 3.3** into", "Chapter Six section 5** into"),
-    ("Chapter Six section 3.4** severity", "Chapter Six section 6** severity"),
-    ("Chapter Six section 3.3**,", "Chapter Six section 5**,"),
+    ("Chapter Eight **Chapter One §8.2**", "Chapter Eight **§4**"),
+    ("Chapter Eight **§3.4**", "Chapter Eight **§6**"),
+    ("Chapter Eight **§§3.3–3.4**", "Chapter Eight **§§5–6**"),
+    ("Chapter Eight **§14.3.2** and **§3.4**", "Chapter Eight **§14.3.2** and **§6**"),
+    ("canonical Axis II classification rules are in Chapter Eight **§3.4**", "canonical Axis II classification rules are in Chapter Eight **§6**"),
+    ("under Chapter Eight section 3.4", "under Chapter Eight section 6"),
+    ("under Chapter Eight section 3.3", "under Chapter Eight section 5"),
+    ("Chapter Eight section 3.4 severity", "Chapter Eight section 6 severity"),
+    ("Chapter Eight section 3.3** into", "Chapter Eight section 5** into"),
+    ("Chapter Eight section 3.4** severity", "Chapter Eight section 6** severity"),
+    ("Chapter Eight section 3.3**,", "Chapter Eight section 5**,"),
     ("core **Chapter One §8.2**.", "core **§4**."),
     ("core **Chapter One §8.2**", "core **§4**"),
     ("**section 3.4** severity typing", "**section 6** severity typing"),
     ("(*sections **1–3**, including", "(*sections **1–6**, including"),
-    ("Chapter Six **§§2–3**", "Chapter Six **§§2–6**"),
-    ("[§3.3](core_06-06_standing_assessment.md#33-primary-category-defaults-and-lequ-slot-baseline)", "[§5](core_06-06_standing_assessment.md#33-primary-category-defaults-and-lequ-slot-baseline)"),
-    ("[§3.4](core_06-06_standing_assessment.md#34-violation-axis-rules-violation-nature-adverse-findings-and-severity)", "[§6](core_06-06_standing_assessment.md#34-violation-axis-rules-violation-nature-adverse-findings-and-severity)"),
-    ("[Chapter One §8.2](core_06-06_standing_assessment.md#32-constitutional-outcome-baseline-for-slots)", "[§4](core_06-06_standing_assessment.md#32-constitutional-outcome-baseline-for-slots)"),
+    ("Chapter Eight **§§2–3**", "Chapter Eight **§§2–6**"),
+    ("[§3.3](core_08-08_standing_assessment.md#33-primary-category-defaults-and-lequ-slot-baseline)", "[§5](core_08-08_standing_assessment.md#33-primary-category-defaults-and-lequ-slot-baseline)"),
+    ("[§3.4](core_08-08_standing_assessment.md#34-violation-axis-rules-violation-nature-adverse-findings-and-severity)", "[§6](core_08-08_standing_assessment.md#34-violation-axis-rules-violation-nature-adverse-findings-and-severity)"),
+    ("[Chapter One §8.2](core_08-08_standing_assessment.md#32-constitutional-outcome-baseline-for-slots)", "[§4](core_08-08_standing_assessment.md#32-constitutional-outcome-baseline-for-slots)"),
     ("[§3.4, Formal Non-Compliance]", "[§6, Formal Non-Compliance]"),
     ("[§3.4, Duty-Based or Negligent-Harm Violation]", "[§6, Duty-Based or Negligent-Harm Violation]"),
-    ("Chapter Six §Chapter One §8.1–3.3 read with Chapter Seven", "Chapter Six §§3–5 read with Chapter Seven"),
+    ("Chapter Eight §Chapter One §8.1–3.3 read with Chapter Nine", "Chapter Eight §§3–5 read with Chapter Nine"),
     ("**section 3.1** standing-slot grammar and **section 3.3** primary slot defaults", "**section 3.1** standing-slot grammar and **section 5** primary slot defaults"),
-    ("the Chapter Six **section 3.4** severity ladder", "the Chapter Six **section 6** severity ladder"),
+    ("the Chapter Eight **section 3.4** severity ladder", "the Chapter Eight **section 6** severity ladder"),
     ("[§§3–5](#3-slot-grammar-and-display-labels)", "[§§3–5](#3-slot-grammar-and-display-labels)"),
     ("#3-primary-axis-categories-slot-grammar-and-defaults", "#3-slot-grammar-and-display-labels"),
 ]

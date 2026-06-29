@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-06-26T08:56:10+00:00",
+  "generated_at": "2026-06-29T09:03:20+00:00",
   "files": {
     "core_00_preamble.md": {
       "total_lines": 97,
@@ -405,20 +405,20 @@
       ]
     },
     "core_01_b_stewardship_capacity_principles.md": {
-      "total_lines": 1018,
+      "total_lines": 1019,
       "sections": [
         {
           "header": "Stewardship and Governance (Chapter One, Part B)",
           "level": 1,
           "line_start": 1,
-          "line_end": 1018,
+          "line_end": 1019,
           "anchor": null
         },
         {
           "header": "CHAPTER 01, PART B: STEWARDSHIP AND GOVERNANCE",
           "level": 2,
           "line_start": 20,
-          "line_end": 1018,
+          "line_end": 1019,
           "anchor": "#chapter-01-part-b-stewardship-and-governance"
         },
         {
@@ -572,7 +572,7 @@
           "header": "13. Systemic Evaluation Requirement",
           "level": 3,
           "line_start": 774,
-          "line_end": 974,
+          "line_end": 975,
           "anchor": "#13-systemic-evaluation-requirement"
         },
         {
@@ -625,17 +625,17 @@
           "anchor": "#1316-time-consistency-constraint"
         },
         {
-          "header": "13.2 Read-with: Governance and Incentive Discipline",
+          "header": "13.2 Governance and Incentive Discipline",
           "level": 4,
           "line_start": 961,
-          "line_end": 974,
+          "line_end": 975,
           "anchor": "#132-read-with-governance-and-incentive-discipline"
         },
         {
           "header": "14. Integrated Application",
           "level": 3,
-          "line_start": 975,
-          "line_end": 1018,
+          "line_start": 976,
+          "line_end": 1019,
           "anchor": "#14-integrated-application"
         }
       ]
@@ -2985,29 +2985,83 @@
         }
       ]
     },
-    "core_06-06_standing_assessment.md": {
-      "total_lines": 778,
+    "core_07-07_system_alignment_certification.md": {
+      "total_lines": 93,
+      "sections": [
+        {
+          "header": "System Alignment Certification and Recognition",
+          "level": 1,
+          "line_start": 1,
+          "line_end": 93,
+          "anchor": null
+        },
+        {
+          "header": "CHAPTER SEVEN: SYSTEM ALIGNMENT CERTIFICATION AND RECOGNITION",
+          "level": 2,
+          "line_start": 20,
+          "line_end": 93,
+          "anchor": "#chapter-seven-system-alignment-certification-and-recognition"
+        },
+        {
+          "header": "1. Purpose and Role",
+          "level": 3,
+          "line_start": 24,
+          "line_end": 42,
+          "anchor": null
+        },
+        {
+          "header": "2. Certification Record",
+          "level": 3,
+          "line_start": 43,
+          "line_end": 60,
+          "anchor": null
+        },
+        {
+          "header": "3. Forum Supervision and Component Roles",
+          "level": 3,
+          "line_start": 61,
+          "line_end": 72,
+          "anchor": null
+        },
+        {
+          "header": "4. Relationship to Standing",
+          "level": 3,
+          "line_start": 73,
+          "line_end": 82,
+          "anchor": null
+        },
+        {
+          "header": "5. Reopening, Drift, and Non-Evasion",
+          "level": 3,
+          "line_start": 83,
+          "line_end": 93,
+          "anchor": null
+        }
+      ]
+    },
+    "core_08-08_standing_assessment.md": {
+      "total_lines": 815,
       "sections": [
         {
           "header": "Contribution, violation, and standing",
           "level": 1,
           "line_start": 1,
-          "line_end": 778,
+          "line_end": 815,
           "anchor": null
         },
         {
-          "header": "Measure, integrate, guard, and supervise: Chapters Six through Nine",
+          "header": "Measure, integrate, guard, and supervise: Chapters Eight through Eleven",
           "level": 3,
           "line_start": 17,
           "line_end": 53,
-          "anchor": "#chapters-six-nine-constitutional-compass"
+          "anchor": "#chapters-eight-eleven-constitutional-compass"
         },
         {
-          "header": "CHAPTER SIX: CONTRIBUTION, VIOLATION, AND STANDING MODEL — CLASSIFICATION",
+          "header": "CHAPTER EIGHT: CONTRIBUTION, VIOLATION, AND STANDING MODEL — CLASSIFICATION",
           "level": 2,
           "line_start": 54,
-          "line_end": 778,
-          "anchor": "#chapter-six-compliance-violation-and-standing-model"
+          "line_end": 815,
+          "anchor": "#chapter-eight-compliance-violation-and-standing-model"
         },
         {
           "header": "1. Purpose and Role",
@@ -3104,89 +3158,110 @@
           "header": "3. Classification evaluation dimensions — Question 1 (how good / how bad?)",
           "level": 3,
           "line_start": 335,
-          "line_end": 481,
+          "line_end": 525,
           "anchor": "#6-classification-evaluation-dimensions"
+        },
+        {
+          "header": "3.1 Magnitude-input dimensions",
+          "level": 4,
+          "line_start": 353,
+          "line_end": 398,
+          "anchor": "#contribution-table-q1-magnitude-input-dimensions"
+        },
+        {
+          "header": "3.2 Route descriptor classification roles",
+          "level": 4,
+          "line_start": 399,
+          "line_end": 447,
+          "anchor": "#benefit-route-descriptors-q1-classification-role"
+        },
+        {
+          "header": "3.3 Dual-use classification hooks",
+          "level": 4,
+          "line_start": 448,
+          "line_end": 470,
+          "anchor": "#33-dual-use-classification-hooks"
+        },
+        {
+          "header": "3.4 Question 1 classification illustrations",
+          "level": 4,
+          "line_start": 471,
+          "line_end": 525,
+          "anchor": "#34-question-1-classification-illustrations"
         },
         {
           "header": "4. Slot grammar and display labels",
           "level": 3,
-          "line_start": 482,
-          "line_end": 540,
+          "line_start": 526,
+          "line_end": 577,
           "anchor": "#31-slot-grammar-and-display-labels"
         },
         {
           "header": "4.1 What the slot grammar does",
           "level": 4,
-          "line_start": 488,
-          "line_end": 500,
+          "line_start": 532,
+          "line_end": 545,
           "anchor": "#311-what-the-slot-grammar-does"
         },
         {
           "header": "4.2 Table 1 — slot display labels",
           "level": 4,
-          "line_start": 501,
-          "line_end": 528,
-          "anchor": "#312-table-1-slot-display-labels"
-        },
-        {
-          "header": "4.3 How to read Table 1",
-          "level": 4,
-          "line_start": 529,
-          "line_end": 540,
+          "line_start": 546,
+          "line_end": 577,
           "anchor": "#313-how-to-read-table-1"
         },
         {
           "header": "5. LEQU baseline — measuring impact in lifetime-equivalent units",
           "level": 3,
-          "line_start": 541,
-          "line_end": 637,
+          "line_start": 578,
+          "line_end": 674,
           "anchor": "#32-constitutional-outcome-baseline-for-slots"
         },
         {
           "header": "5.1 Contribution calibration",
           "level": 4,
-          "line_start": 560,
-          "line_end": 597,
+          "line_start": 597,
+          "line_end": 634,
           "anchor": "#41-lequ-contribution-calibration"
         },
         {
           "header": "5.2 Violation calibration",
           "level": 4,
-          "line_start": 598,
-          "line_end": 637,
+          "line_start": 635,
+          "line_end": 674,
           "anchor": "#42-lequ-violation-calibration"
         },
         {
           "header": "6. Primary category defaults — Contribution Axis and Violation Axis",
           "level": 3,
-          "line_start": 638,
-          "line_end": 778,
+          "line_start": 675,
+          "line_end": 815,
           "anchor": "#33-primary-category-defaults-and-lequ-slot-baseline"
         },
         {
           "header": "6.1 Contribution Axis — bands and Table 2",
           "level": 4,
-          "line_start": 646,
-          "line_end": 690,
+          "line_start": 683,
+          "line_end": 727,
           "anchor": "#51-contribution-axis-bands-and-table-2"
         },
         {
           "header": "6.2 Violation Axis — severity ladder",
           "level": 4,
-          "line_start": 691,
-          "line_end": 741,
+          "line_start": 728,
+          "line_end": 778,
           "anchor": "#chapter-six-part-e-accountability-measure"
         },
         {
           "header": "6.3 Forum disclosure omission and recusal-process impact",
           "level": 4,
-          "line_start": 742,
-          "line_end": 778,
+          "line_start": 779,
+          "line_end": 815,
           "anchor": "#forum-disclosure-omission-and-recusal-process-impact"
         }
       ]
     },
-    "core_07-07_standing_integration.md": {
+    "core_09-09_standing_integration.md": {
       "total_lines": 1465,
       "sections": [
         {
@@ -3197,11 +3272,11 @@
           "anchor": null
         },
         {
-          "header": "CHAPTER SEVEN: STANDING EFFECTS AND INTEGRATION",
+          "header": "CHAPTER NINE: STANDING EFFECTS AND INTEGRATION",
           "level": 2,
           "line_start": 18,
           "line_end": 1465,
-          "anchor": "#chapter-six-compliance-violation-and-standing-model"
+          "anchor": "#chapter-eight-compliance-violation-and-standing-model"
         },
         {
           "header": "1. Standing effects — Flourishing consequences",
@@ -3309,7 +3384,7 @@
           "anchor": "#chapter-seven-part-d-oversight-vocabulary"
         },
         {
-          "header": "2.0 Contribution classification pointer — Question 1 lives in Chapter Six",
+          "header": "2.0 Contribution classification pointer — Question 1 lives in Chapter Eight",
           "level": 4,
           "line_start": 394,
           "line_end": 401,
@@ -3554,7 +3629,7 @@
           "anchor": null
         },
         {
-          "header": "6. Violation Axis s = 7–9 anti-constitutional misconduct — Chapter Eight gateway",
+          "header": "6. Violation Axis s = 7–9 anti-constitutional misconduct — Chapter Ten gateway",
           "level": 3,
           "line_start": 1435,
           "line_end": 1465,
@@ -3562,7 +3637,7 @@
         }
       ]
     },
-    "core_08-08_misconduct.md": {
+    "core_10-10_misconduct.md": {
       "total_lines": 675,
       "sections": [
         {
@@ -3573,11 +3648,11 @@
           "anchor": null
         },
         {
-          "header": "CHAPTER EIGHT: ANTI-CONSTITUTIONAL MISCONDUCT",
+          "header": "CHAPTER TEN: ANTI-CONSTITUTIONAL MISCONDUCT",
           "level": 2,
           "line_start": 18,
           "line_end": 675,
-          "anchor": "#chapter-eight-anti-constitutional-misconduct"
+          "anchor": "#chapter-ten-anti-constitutional-misconduct"
         },
         {
           "header": "1. Decision framework, scope, and authority — Continuity and tetrad-capture frame",
@@ -3693,7 +3768,7 @@
         }
       ]
     },
-    "core_09-09_forum.md": {
+    "core_11-11_forum.md": {
       "total_lines": 453,
       "sections": [
         {
@@ -3704,7 +3779,7 @@
           "anchor": null
         },
         {
-          "header": "CHAPTER NINE: FORUMS AND JURISDICTION",
+          "header": "CHAPTER ELEVEN: FORUMS AND JURISDICTION",
           "level": 2,
           "line_start": 15,
           "line_end": 453,
@@ -3893,7 +3968,7 @@
           "anchor": null
         },
         {
-          "header": "Chapter Eight slot assignment and independent review",
+          "header": "Chapter Ten slot assignment and independent review",
           "level": 4,
           "line_start": 406,
           "line_end": 410,
@@ -3915,22 +3990,22 @@
         }
       ]
     },
-    "core_06-09_application_vignettes.md": {
+    "core_08-11_application_vignettes.md": {
       "total_lines": 227,
       "sections": [
         {
-          "header": "Chapters Six–Nine application vignettes",
+          "header": "Chapters Eight–Eleven application vignettes",
           "level": 1,
           "line_start": 1,
           "line_end": 227,
           "anchor": null
         },
         {
-          "header": "CHAPTERS SIX–NINE: PIPELINE APPLICATION VIGNETTES",
+          "header": "CHAPTERS EIGHT–ELEVEN: PIPELINE APPLICATION VIGNETTES",
           "level": 2,
           "line_start": 17,
           "line_end": 227,
-          "anchor": "#chapters-six-nine-application-vignettes"
+          "anchor": "#chapters-eight-eleven-application-vignettes"
         },
         {
           "header": "1. Child neglect / care-duty failure (Tier A)",
@@ -4081,7 +4156,7 @@
         }
       ]
     },
-    "core_10-10_rights_part_a.md": {
+    "core_06-06_rights_part_a.md": {
       "total_lines": 692,
       "sections": [
         {
@@ -4092,7 +4167,7 @@
           "anchor": null
         },
         {
-          "header": "CHAPTER TEN: FOUNDATIONAL RIGHTS",
+          "header": "CHAPTER SIX: FOUNDATIONAL RIGHTS",
           "level": 2,
           "line_start": 15,
           "line_end": 692,
@@ -4240,7 +4315,7 @@
         }
       ]
     },
-    "core_10-10_rights_part_b.md": {
+    "core_06-06_rights_part_b.md": {
       "total_lines": 1435,
       "sections": [
         {
@@ -4251,7 +4326,7 @@
           "anchor": null
         },
         {
-          "header": "CHAPTER TEN: FOUNDATIONAL RIGHTS",
+          "header": "CHAPTER SIX: FOUNDATIONAL RIGHTS",
           "level": 2,
           "line_start": 15,
           "line_end": 1435,
@@ -4546,7 +4621,7 @@
         }
       ]
     },
-    "core_10-10_rights_part_c.md": {
+    "core_06-06_rights_part_c.md": {
       "total_lines": 1653,
       "sections": [
         {
@@ -4557,7 +4632,7 @@
           "anchor": null
         },
         {
-          "header": "CHAPTER TEN: FOUNDATIONAL RIGHTS",
+          "header": "CHAPTER SIX: FOUNDATIONAL RIGHTS",
           "level": 2,
           "line_start": 15,
           "line_end": 1653,
@@ -4915,7 +4990,7 @@
         }
       ]
     },
-    "core_10-10_rights_part_d.md": {
+    "core_06-06_rights_part_d.md": {
       "total_lines": 663,
       "sections": [
         {
@@ -4926,7 +5001,7 @@
           "anchor": null
         },
         {
-          "header": "CHAPTER TEN: FOUNDATIONAL RIGHTS",
+          "header": "CHAPTER SIX: FOUNDATIONAL RIGHTS",
           "level": 2,
           "line_start": 15,
           "line_end": 663,
@@ -5052,7 +5127,7 @@
           "anchor": null
         },
         {
-          "header": "Chapter Ten — Scope Limit and Layer Discipline (Rights-Floor Boundary Watch)",
+          "header": "Chapter Six — Scope Limit and Layer Discipline (Rights-Floor Boundary Watch)",
           "level": 3,
           "line_start": 629,
           "line_end": 663,
@@ -5060,7 +5135,7 @@
         }
       ]
     },
-    "core_11-11_governance.md": {
+    "core_12-12_governance.md": {
       "total_lines": 355,
       "sections": [
         {
@@ -5071,11 +5146,11 @@
           "anchor": null
         },
         {
-          "header": "CHAPTER ELEVEN: CONSTITUTIONAL CONTRACT, LEGITIMACY, AUTHORIZATION, AND STEWARDSHIP",
+          "header": "CHAPTER TWELVE: CONSTITUTIONAL CONTRACT, LEGITIMACY, AUTHORIZATION, AND STEWARDSHIP",
           "level": 2,
           "line_start": 16,
           "line_end": 355,
-          "anchor": "#chapter-eleven-constitutional-contract-legitimacy-authorization-and-stewardship"
+          "anchor": "#chapter-twelve-constitutional-contract-legitimacy-authorization-and-stewardship"
         },
         {
           "header": "0. Layer Boundary for This Chapter",
@@ -5177,7 +5252,7 @@
         }
       ]
     },
-    "core_12-14_amendment.md": {
+    "core_13-15_amendment.md": {
       "total_lines": 653,
       "sections": [
         {
@@ -5188,7 +5263,7 @@
           "anchor": null
         },
         {
-          "header": "CHAPTER TWELVE: NON-REGRESSION AND SUBSTANTIVE AMENDMENT VALIDITY",
+          "header": "CHAPTER THIRTEEN: NON-REGRESSION AND SUBSTANTIVE AMENDMENT VALIDITY",
           "level": 2,
           "line_start": 16,
           "line_end": 141,
@@ -5223,7 +5298,7 @@
           "anchor": null
         },
         {
-          "header": "CHAPTER THIRTEEN: EXPANSION, SUPREMACY, AND EXTERNAL LEGAL ORDERS",
+          "header": "CHAPTER FOURTEEN: EXPANSION, SUPREMACY, AND EXTERNAL LEGAL ORDERS",
           "level": 2,
           "line_start": 142,
           "line_end": 322,
@@ -5293,7 +5368,7 @@
           "anchor": null
         },
         {
-          "header": "CHAPTER FOURTEEN: AMENDMENT, RATIFICATION, AND PROCEDURAL VALIDITY",
+          "header": "CHAPTER FIFTEEN: AMENDMENT, RATIFICATION, AND PROCEDURAL VALIDITY",
           "level": 2,
           "line_start": 323,
           "line_end": 653,
@@ -5420,7 +5495,7 @@
         }
       ]
     },
-    "core_15-15_incorporation.md": {
+    "core_16-16_incorporation.md": {
       "total_lines": 167,
       "sections": [
         {
@@ -5431,7 +5506,7 @@
           "anchor": null
         },
         {
-          "header": "CHAPTER FIFTEEN: INCORPORATION BRIDGE",
+          "header": "CHAPTER SIXTEEN: INCORPORATION BRIDGE",
           "level": 2,
           "line_start": 15,
           "line_end": 167,

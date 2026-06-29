@@ -2,7 +2,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions; and [Chapter Ten](../core_10-10_rights_part_a.md#chapter-ten-foundational-rights) rights architecture where rights interfaces are invoked.
+- Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions; and [Chapter Six](../core_06-06_rights_part_a.md#chapter-six-foundational-rights) rights architecture where rights interfaces are invoked.
 - Downstream: [CI-14.1: Interface — Article XXV-D (non-compliant property, seizure, voluntary incentives)](#ci-141-interface-article-xxv-d-non-compliant-property-seizure-voluntary-incentives); [CI-14.2: Article XXV-D — trigger catalog, anti-abuse metrics, and publication requirements](#ci-142-article-xxv-d-trigger-catalog-anti-abuse-metrics-and-publication-requirements).
 - Read with: **CI-14**; **CI-14.1**; **CI-5**; **CI-11**; **CI-14.2**; [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router.
 - Topic routing (mandatory read-with): **CJS-R11** (*Forum continuity*) in **CJS-2.1** (*Topic router (stable IDs)*); primary owner **CF-12**.
@@ -63,7 +63,7 @@ Each institution in scope must name and maintain locally:
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions; and [Chapter Ten](../core_10-10_rights_part_a.md#chapter-ten-foundational-rights) rights architecture where rights interfaces are invoked.
+- Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions; and [Chapter Six](../core_06-06_rights_part_a.md#chapter-six-foundational-rights) rights architecture where rights interfaces are invoked.
 - Downstream: this section's local operational requirements for **CI-14.1: Interface — Article XXV-D (non-compliant property, seizure, voluntary incentives)**.
 - Read with: **CI-14.1**; **CI-5**; **CI-11**.
 
@@ -106,7 +106,7 @@ For **Class A**, **Class B**, and **Critical System Steward** scope, connect to 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Fifteen](../core_15-15_incorporation.md#chapter-fifteen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions; and [Chapter Ten](../core_10-10_rights_part_a.md#chapter-ten-foundational-rights) rights architecture where rights interfaces are invoked.
+- Upstream: [CJS-1.2](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-12-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-2.1](../corpus_joint_structure/cjs_02_implementation_integration_map.md#cjs-21-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16-16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) canonical definitions; and [Chapter Six](../core_06-06_rights_part_a.md#chapter-six-foundational-rights) rights architecture where rights interfaces are invoked.
 - Downstream: this section's local operational requirements for **CI-14.2: Article XXV-D — trigger catalog, anti-abuse metrics, and publication requirements**.
 - Read with: **CI-14.2**.
 
@@ -127,15 +127,15 @@ For **Class A**, **Class B**, and **Critical System Steward** scope, connect to 
 
 <br>
 
-*In plain terms: **CI-14.2** turns **Article XXV-D** into a practical checklist institutions must publish in transition plans — what kinds of deprivation or incentive programs are allowed, what abuse patterns are out of bounds, what metrics show the program is not being weaponized, and what summaries ordinary sentients and oversight bodies receive on a fixed schedule. The constitutional Rights Floor lives in **Chapter Ten**; this subsection is implementation-only.*
+*In plain terms: **CI-14.2** turns **Article XXV-D** into a practical checklist institutions must publish in transition plans — what kinds of deprivation or incentive programs are allowed, what abuse patterns are out of bounds, what metrics show the program is not being weaponized, and what summaries ordinary sentients and oversight bodies receive on a fixed schedule. The constitutional Rights Floor lives in **Chapter Six**; this subsection is implementation-only.*
 
-**Constitutional home:** **Chapter Ten**, **Article XXV-D** (*Non-Compliant Property, Seizure, Impoundment, Quarantine, Forfeiture, and Voluntary Turnover Incentives*). This subsection is **implementation-only**; it does not restate the Rights Floor.
+**Constitutional home:** **Chapter Six**, **Article XXV-D** (*Non-Compliant Property, Seizure, Impoundment, Quarantine, Forfeiture, and Voluntary Turnover Incentives*). This subsection is **implementation-only**; it does not restate the Rights Floor.
 
 **Trigger catalog (for published transition and institution plans)**
 
 Institutions must publish which of the following apply in scope, with local procedure links:
 
-- **Compliance-linked deprivation** — seizure, impoundment, quarantine, or disposition tied to a **Chapter Six**-consistent or equivalent binding finding of non-compliance with applicable rules, with notice and contest paths as **Article XXV-D** requires.
+- **Compliance-linked deprivation** — seizure, impoundment, quarantine, or disposition tied to a **Chapter Eight**-consistent or equivalent binding finding of non-compliance with applicable rules, with notice and contest paths as **Article XXV-D** requires.
 - **Remedial containment** — proportionate holding or restriction to stop ongoing harm, preserve evidence under [Evidence Preservation](../core_05o_oversight_definitions.md#evidence-preservation), or prevent flight of assets, distinguished from retaliatory economic stripping.
 - **Voluntary turnover incentive** — time-bounded, published incentive for good-faith voluntary transfer or verified reporting that enables lawful remediation, with **Article XXV-B** reauthorization rules.
 

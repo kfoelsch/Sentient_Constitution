@@ -5,11 +5,11 @@
 Requirements and limitations scale proportionally with system classification and potential impact. They must impose proportionate safeguards on publication within their boundaries where necessary to preserve trust, safety, and constitutional compliance.
 
 ### I. Purpose and scope
-**Sentient Constitution Chapter Ten** (Articles **I**–**XXV**; presentation **Parts A–D**) states Foundational Rights that depend upon strong, reproducible procedures and governance. That includes info-sphere, audit, and comprehensibility hooks where they apply to data handling (e.g., **Articles XIV**, **XV**, and **XX**).
+**Sentient Constitution Chapter Six** (Articles **I**–**XXV**; presentation **Parts A–D**) states Foundational Rights that depend upon strong, reproducible procedures and governance. That includes info-sphere, audit, and comprehensibility hooks where they apply to data handling (e.g., **Articles XIV**, **XV**, and **XX**).
 
 Therefore, all data must be identified as belonging to one or more of the types defined in CS-3 — Information types and handling. Where multiple classifications apply, the most restrictive applicable protections govern, subject to proportionality (**CJS-5.11** (*distributed and proportional authority terms*) and **CJS-5.7** (*quorum and participatory legitimacy terms*)).
 
-Handling must align with Sentient Constitution Chapter Ten and scale with system class under CS-4 — System classification and handling. Where data handling supports material portability, audit, repair, continuity, migration, or cross-implementation operation for **Class A**, **Class B**, or **Class C** systems, format, schema, API, and interchange-protocol choices must also satisfy `corpus_joint_structure.md` **CJS-5.17** (*interoperability, portability, and exit-integrity terms*).
+Handling must align with Sentient Constitution Chapter Six and scale with system class under CS-4 — System classification and handling. Where data handling supports material portability, audit, repair, continuity, migration, or cross-implementation operation for **Class A**, **Class B**, or **Class C** systems, format, schema, API, and interchange-protocol choices must also satisfy `corpus_joint_structure.md` **CJS-5.17** (*interoperability, portability, and exit-integrity terms*).
 
 **Class A/B/C public-interest visibility default.** For **Class A**, **Class B**, and **Class C** systems, data necessary to understand system purpose, classification, dependency structure, operational status, material risks, performance, failures, governance, audit outcomes, stakeholder effects, and constitutional compliance is **public by default**.
 
@@ -35,7 +35,7 @@ Protection may be reduced only through **justified, documented override** under 
 
 All classification decisions and transformations must remain **transparent (`corpus_joint_structure.md` CJS-5.10 (*disclosure sufficiency and observability terms*))**, **auditable (`corpus_joint_structure.md` CJS-5.3 (*auditability and reconstructability terms*))**, and **subject to challenge (`corpus_joint_structure.md` CJS-5.13 (*procedural integrity and adjudication terms*))**.
 
-**Misclassification:** Misclassification, evasive structuring, or functional circumvention violates **informational integrity** (**Article XIV**), auditability where observable evidence is implicated (**Article XV-A**), and **applicable rights under Chapter Ten, Articles V through IX**.
+**Misclassification:** Misclassification, evasive structuring, or functional circumvention violates **informational integrity** (**Article XIV**), auditability where observable evidence is implicated (**Article XV-A**), and **applicable rights under Chapter Six, Articles V through IX**.
 
 ### IV. Anti-circumvention and integrity of classification
 Data classification under CS-3 — Information types and handling is binding across all systems, processes, and transformations. **No system may:**
@@ -47,7 +47,7 @@ Data classification under CS-3 — Information types and handling is binding acr
 - **de-anonymize** anonymized data except under **CJS-5.12** (*burden-of-justification and constraint terms*), with such actions **fully documented and auditable**
 
 ### V. Cross-domain governance principles
-All data, regardless of classification, must be handled in accordance with the following cross-domain principles. These principles govern how classifications are applied, enforced, and interacted with across systems, and ensure alignment with **Chapter Ten, Articles V through IX** and **CJS-5** (*Implementation and cross-implementation operational cluster library*) operational clusters in **corpus_joint_structure.md**.
+All data, regardless of classification, must be handled in accordance with the following cross-domain principles. These principles govern how classifications are applied, enforced, and interacted with across systems, and ensure alignment with **Chapter Six, Articles V through IX** and **CJS-5** (*Implementation and cross-implementation operational cluster library*) operational clusters in **corpus_joint_structure.md**.
 
 **1. Proportional access and handling.** Access and handling must scale with **impact on sentients, the environment, and the info-sphere**.
 
@@ -61,7 +61,7 @@ Reductions in protection may occur only through **proportional application** (**
 
 **3. Tiered transparency and audit access.** Data access must satisfy `corpus_joint_structure.md` **CJS-5.4** (*tiered transparency and audit-access terms*) for balancing transparency, auditability, and protected-boundary constraints.
 
-It must also balance protection of internal states and sensitive data (**Sentient Constitution Chapter Ten, Article VII-B**; Types **H**, **I**, **N**, and **S** in this chapter). Where applicable based on system impact (**CJS-5.11** (*distributed and proportional authority terms*) and **CJS-5.7** (*quorum and participatory legitimacy terms*)), systems must support **baseline accessibility** (sufficient visibility into behavior and effects for informed participation and risk evaluation). Systems must support qualified audit access (structured pathways for independent auditors to deeper data where verification requires it) and forensic access (full reconstruction in cases of harm, dispute, or credible risk, consistent with **CJS-5.11** (*distributed and proportional authority terms*) and **CJS-5.7** (*quorum and participatory legitimacy terms*) and **CJS-5.12** (*burden-of-justification and constraint terms*)).
+It must also balance protection of internal states and sensitive data (**Sentient Constitution Chapter Six, Article VII-B**; Types **H**, **I**, **N**, and **S** in this chapter). Where applicable based on system impact (**CJS-5.11** (*distributed and proportional authority terms*) and **CJS-5.7** (*quorum and participatory legitimacy terms*)), systems must support **baseline accessibility** (sufficient visibility into behavior and effects for informed participation and risk evaluation). Systems must support qualified audit access (structured pathways for independent auditors to deeper data where verification requires it) and forensic access (full reconstruction in cases of harm, dispute, or credible risk, consistent with **CJS-5.11** (*distributed and proportional authority terms*) and **CJS-5.7** (*quorum and participatory legitimacy terms*) and **CJS-5.12** (*burden-of-justification and constraint terms*)).
 
 Restrictions on access must be **narrowly scoped**, **justified**, **auditable**, and **subject to challenge (`corpus_joint_structure.md` CJS-5.13 (*procedural integrity and adjudication terms*))**.
 
@@ -89,7 +89,7 @@ Responsibility must remain assignable through transparent, auditable processes.
 
 Attribution must resist **tampering, repudiation, or ambiguity**.
 
-All data access, processing, and transformation must be **attributable** to identifiable systems, agents, or sentients (**Chapter Ten, Article VII** — self-ownership and attributable representation where applicable) and **recorded** in a manner sufficient for audit and reconstruction (`corpus_joint_structure.md` **CJS-5.3** (*auditability and reconstructability terms*)). Systems must ensure **clear responsibility** for actions taken on data and **traceability** of decisions and outcomes.
+All data access, processing, and transformation must be **attributable** to identifiable systems, agents, or sentients (**Chapter Six, Article VII** — self-ownership and attributable representation where applicable) and **recorded** in a manner sufficient for audit and reconstruction (`corpus_joint_structure.md` **CJS-5.3** (*auditability and reconstructability terms*)). Systems must ensure **clear responsibility** for actions taken on data and **traceability** of decisions and outcomes.
 
 **7. Proportional attribution and retention.** Attribution requirements do **not** imply universal or persistent logging of all actions.
 
@@ -309,7 +309,7 @@ Where identity or attribution systems support security, intelligence, screening,
 
 **Type N: Neurocognitive and internal data.** **Default classification:** Non-Accessible by Default.  
 **Normative alignment:** CJS-5.10 (*disclosure sufficiency and observability terms*).
-CJS-5.5 (*independent verification and claim-integrity terms*), CJS-5.12 (*burden-of-justification and constraint terms*), CJS-5.22 (*constrained-secrecy and protected-investigation terms*), **Sentient Constitution Chapter Ten, Article VII-B** (*Internal-State Boundary and Type-N Protection*), and **corpus_joint_structure.md** **CJS-4.3** (*Cross-implementation trust integrity (joint operation model)*) and **CJS-5** (*Implementation and cross-implementation operational cluster library*) operational clusters, incorporated via **Sentient Constitution Chapter Fifteen**.
+CJS-5.5 (*independent verification and claim-integrity terms*), CJS-5.12 (*burden-of-justification and constraint terms*), CJS-5.22 (*constrained-secrecy and protected-investigation terms*), **Sentient Constitution Chapter Six, Article VII-B** (*Internal-State Boundary and Type-N Protection*), and **corpus_joint_structure.md** **CJS-4.3** (*Cross-implementation trust integrity (joint operation model)*) and **CJS-5** (*Implementation and cross-implementation operational cluster library*) operational clusters, incorporated via **Sentient Constitution Chapter Sixteen**.
 
 **Definition:** All data that represents or enables reconstruction of sentients' internal states. This category is foundational to self-ownership (**Article VII-A**; **Article VII-B**). It includes thoughts, intentions, beliefs, subjective experiences, internal perception, private cognitive processes, internal memory, non-public emotional or psychological states, and physical or behavioral data that could be used to reconstruct or infer the above.
 

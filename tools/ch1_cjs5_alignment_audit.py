@@ -115,13 +115,13 @@ OWNER_PATTERNS = [
     r"`corpus_institutions\.md`",
     r"`corpus_forum\.md`",
     r"`core_[^`]+\.md`",
-    r"Chapter Ten",
+    r"Chapter Six",
     r"Foundational Rights",
     r"Chapter Five",
     r"Core definitions",
     r"\bArticle\s+[IVX]+(?:-[A-Z])?\b",
-    r"Chapter Seven",
-    r"Chapter Eleven",
+    r"Chapter Nine",
+    r"Chapter Twelve",
 ]
 
 

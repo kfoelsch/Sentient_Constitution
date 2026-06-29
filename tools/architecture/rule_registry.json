@@ -18,7 +18,7 @@
     {
       "id": "NAV-TRACE-09",
       "legacy_ref": "doc_architecture rule 9",
-      "summary": "Trace placement under owning unit; Chapter Ten default owner is subarticle.",
+      "summary": "Trace placement under owning unit; Chapter Six default owner is subarticle.",
       "make_target": "ch9-trace-audit",
       "status": "blocking"
     },
@@ -123,7 +123,7 @@
     {
       "id": "GLOSS-SUBARTICLE",
       "legacy_ref": "Plain-language gloss placement",
-      "summary": "Chapter Ten #### subarticles with operative bullets need In plain terms line.",
+      "summary": "Chapter Six #### subarticles with operative bullets need In plain terms line.",
       "make_target": "subarticle-gloss-audit",
       "status": "advisory"
     },
@@ -137,7 +137,7 @@
     {
       "id": "REF-ARTICLES",
       "legacy_ref": "section 5 article map",
-      "summary": "Chapter Ten article titles and Roman numerals from part files.",
+      "summary": "Chapter Six article titles and Roman numerals from part files.",
       "make_target": "reference-audit",
       "status": "blocking"
     },
