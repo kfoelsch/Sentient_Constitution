@@ -393,7 +393,7 @@ This section does not restate the full combination rules. Those mechanics — in
 
 #### 2.0 Contribution classification pointer — Question 1 lives in Chapter Six
 
-*In plain terms: **how good was it?** is a **classification** question. Apply [Chapter Six section 3](core_06-06_standing_assessment.md#6-classification-evaluation-dimensions) — [**Contribution table**](core_06-06_standing_assessment.md#contribution-table-q1-magnitude-input-dimensions), [**Table D**](core_06-06_standing_assessment.md#benefit-route-descriptors-q1-classification-role), and [**dual-use classification hooks**](core_06-06_standing_assessment.md#dual-use-classification-dimensions) — inside the **contribution standing record** before any competency gate is assigned. **What may it safely unlock?** is Question 2; read [**Chapter One §8.10**](#210-safe-delegation-competency-gate-dimensions).*
+*In plain terms: **how good was it?** is a **classification** question. Apply [Chapter Six section 3](core_06-06_standing_assessment.md#6-classification-evaluation-dimensions) — [**Contribution table**](core_06-06_standing_assessment.md#contribution-table-q1-magnitude-input-dimensions), [**benefit-route descriptors**](core_06-06_standing_assessment.md#benefit-route-descriptors-q1-classification-role), and [**dual-use classification hooks**](core_06-06_standing_assessment.md#dual-use-classification-dimensions) — inside the **contribution standing record** before any competency gate is assigned. **What may it safely unlock?** is Question 2; read [**Chapter One §8.10**](#210-safe-delegation-competency-gate-dimensions).*
 
 <a id="11-two-axis-overview-reference"></a>
 <a id="11-shared-domain-lenses-cross-axis-vocabulary"></a>
@@ -404,7 +404,7 @@ This section does not restate the full combination rules. Those mechanics — in
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [§1](core_06-06_standing_assessment.md#2-purpose-and-role) (*purpose and constitutional-meaning-only scope*).
-- Downstream: [Ch6 §3](core_06-06_standing_assessment.md#6-classification-evaluation-dimensions) (*Question 1 — benefit-route classification role*); [Chapter One §8.10](#210-safe-delegation-competency-gate-dimensions) (*Question 2 — Table D integration role*); [Chapter One §8.1.1](#domain-lenses-bodily-relational-care)–[Chapter One §8.1.5](#domain-lenses-ecology-diligence) (*grouped domain-lens tables*); [Chapter One §8.10](#310-non-recurrence-lock-dimensions) (*Question 2 — Table C integration role*); [§11.1](core_06-06_standing_assessment.md#51-contribution-axis-bands-and-table-2) (*Contribution Axis — primary contribution bands*); [§11.2](core_06-06_standing_assessment.md#34-violation-axis-rules-violation-nature-adverse-findings-and-severity) (*Violation Axis severity ladder*); [Chapter One §8.2](#72-stackable-benefit-and-stewardship-descriptors-contribution-state-supplement) (*Contribution Axis supplements*); [§3.9](#73-stackable-harm-and-conduct-descriptors-violation-nature-supplement) (*Violation Axis supplements*); [§4](#8-cross-axis-coupling-and-escalation-constraints) (*mechanics*).
+- Downstream: [Ch6 §3](core_06-06_standing_assessment.md#6-classification-evaluation-dimensions) (*Question 1 — benefit-route classification role*); [Chapter One §8.10](#210-safe-delegation-competency-gate-dimensions) (*Question 2 — benefit-route integration role*); [Chapter One §8.1.1](#domain-lenses-bodily-relational-care)–[Chapter One §8.1.5](#domain-lenses-ecology-diligence) (*grouped domain-lens tables*); [Chapter One §8.10](#310-non-recurrence-lock-dimensions) (*Question 2 — harm-route integration role*); [§11.1](core_06-06_standing_assessment.md#51-contribution-axis-bands-and-table-2) (*Contribution Axis — primary contribution bands*); [§11.2](core_06-06_standing_assessment.md#34-violation-axis-rules-violation-nature-adverse-findings-and-severity) (*Violation Axis severity ladder*); [Chapter One §8.2](#72-stackable-benefit-and-stewardship-descriptors-contribution-state-supplement) (*Contribution Axis supplements*); [§3.9](#73-stackable-harm-and-conduct-descriptors-violation-nature-supplement) (*Violation Axis supplements*); [§4](#8-cross-axis-coupling-and-escalation-constraints) (*mechanics*).
 - Read with: [Chapter Eight](core_08-08_misconduct.md#chapter-eight-anti-constitutional-misconduct) (*authoritative Violation Axis s = 7, 8, and 9 anti-constitutional misconduct home*).
 
 </details>
@@ -418,7 +418,7 @@ This section does not restate the full combination rules. Those mechanics — in
 
 <br>
 
-*In plain terms: the grouped tables below are a starter map for **observable good** on one side and **verified harm** on the other. Each row pairs a common kind of help with a common kind of injury or misconduct so both can be read in one place. These categories are a **foundation**, not a closed list — including starter lenses for **caretaking**, **education**, **discovery**, and comparable domains — and further domain lenses may be added later when they remain auditable, contestable, and aligned with the two axes. **§2.0** points to [Chapter Six section 3](core_06-06_standing_assessment.md#6-classification-evaluation-dimensions) for contribution Question 1; **Chapter One §8.2** explains how the good-side descriptors may be used; the harm-side counterpart is **§3.9**, after **section 3** attachment rules. For how each benefit-route descriptor feeds **Question 1** (magnitude), read [Ch6 §3, Table D](core_06-06_standing_assessment.md#benefit-route-descriptors-q1-classification-role); for **Question 2** (safe delegation), read [**Chapter One §8.10, Table D**](#benefit-route-descriptors-q2-integration). For harm routes, read [Ch6 §3, Table C](core_06-06_standing_assessment.md#harm-route-descriptors-q1-classification-role) and [**Chapter One §8.10, Table C**](#harm-route-descriptors-q2-integration).*
+*In plain terms: the grouped tables below are a starter map for **observable good** on one side and **verified harm** on the other. Each row pairs a common kind of help with a common kind of injury or misconduct so both can be read in one place. These categories are a **foundation**, not a closed list — including starter lenses for **caretaking**, **education**, **discovery**, and comparable domains — and further domain lenses may be added later when they remain auditable, contestable, and aligned with the two axes. **§2.0** points to [Chapter Six section 3](core_06-06_standing_assessment.md#6-classification-evaluation-dimensions) for contribution Question 1; **Chapter One §8.2** explains how the good-side descriptors may be used; the harm-side counterpart is **§3.9**, after **section 3** attachment rules. For how each benefit-route descriptor feeds **Question 1** (magnitude), read [Ch6 §3.2, benefit-route descriptors](core_06-06_standing_assessment.md#benefit-route-descriptors-q1-classification-role); for **Question 2** (safe delegation), read [**Chapter One §8.10, benefit-route descriptors**](#benefit-route-descriptors-q2-integration). For harm routes, read [Ch6 §3.2, harm-route descriptors](core_06-06_standing_assessment.md#harm-route-descriptors-q1-classification-role) and [**Chapter One §8.10, harm-route descriptors**](#harm-route-descriptors-q2-integration).*
 
 The left column names **demonstrable, auditable ways** conduct has helped. The right column names **verified ways** conduct has harmed, failed duties, or injured interests. The table supplements — and does not replace — primary contribution bands, Violation Axis severity, process / response character under **section 3**, or Chapter Eight slot assignment.
 
@@ -491,7 +491,7 @@ The lenses are grouped in **§Chapter One §8.1.1–2.1.5** — from direct effe
 
 - Upstream: [Ch6 §3](core_06-06_standing_assessment.md#6-classification-evaluation-dimensions) (*contribution Question 1 — classification*); [Chapter One §8.1](#71-shared-domain-lenses-cross-axis-vocabulary) (*cross-axis domain lens table naming these supplements*); [§11.1](core_06-06_standing_assessment.md#51-contribution-axis-bands-and-table-2) (*primary Contribution Axis bands and Table 2*); [§1.5](#38-standing-integration-category-hook) (*standing integration — when both records matter*).
 - Downstream: [Chapter One §8.10](#210-safe-delegation-competency-gate-dimensions) (*Question 2 safe-delegation dimensions*); [§3.9](#73-stackable-harm-and-conduct-descriptors-violation-nature-supplement) (*symmetric adverse descriptors on Violation Axis*); [Chapter One §8.2](#62-joint-assessment-escalation-constraints-and-scrutiny) (*no netting across axes*).
-- Read with: [Table D — Benefit-route descriptors: Question 2 integration role](#benefit-route-descriptors-q2-integration); [Contribution State](core_05a_accountability_definitions.md#contribution-state) (*Chapter Five pointer — operative Contribution Axis text in **Chapter Six section 6.1***); [§1.1](#35-positive-standing-recognition) (*positive standing recognition*); [§1.5](#38-standing-integration-category-hook) (*standing integration hook*); [Chapter One §8.1](#38-standing-integration-contribution-and-violation-nature) through [§3.3](#standing-integration-slot-band-standing-locks) (*standing effect integration*); [Chapter One §8.1](#71-shared-domain-lenses-cross-axis-vocabulary) (*domain lens mapping*); [Trustworthiness](core_05c_continuity_definitions.md#trustworthiness) — [psychological safety and substantive agency (evaluation)](core_05c_continuity_definitions.md#trustworthiness-e) (***psychological safety** in **Peace of body, mind, and/or community***); [Chapter Nine](core_09-09_forum.md#chapter-nine-forums-and-jurisdiction) (*primary-stakes routing with **`corpus_forum.md`***); [Chapter Eight](core_08-08_misconduct.md#chapter-eight-anti-constitutional-misconduct) (*final s = 7, 8, or 9 assignment is not supplied by descriptors*).
+- Read with: [Benefit-route descriptors — Question 2 integration role](#benefit-route-descriptors-q2-integration); [Contribution State](core_05a_accountability_definitions.md#contribution-state) (*Chapter Five pointer — operative Contribution Axis text in **Chapter Six section 6.1***); [§1.1](#35-positive-standing-recognition) (*positive standing recognition*); [§1.5](#38-standing-integration-category-hook) (*standing integration hook*); [Chapter One §8.1](#38-standing-integration-contribution-and-violation-nature) through [§3.3](#standing-integration-slot-band-standing-locks) (*standing effect integration*); [Chapter One §8.1](#71-shared-domain-lenses-cross-axis-vocabulary) (*domain lens mapping*); [Trustworthiness](core_05c_continuity_definitions.md#trustworthiness) — [psychological safety and substantive agency (evaluation)](core_05c_continuity_definitions.md#trustworthiness-e) (***psychological safety** in **Peace of body, mind, and/or community***); [Chapter Nine](core_09-09_forum.md#chapter-nine-forums-and-jurisdiction) (*primary-stakes routing with **`corpus_forum.md`***); [Chapter Eight](core_08-08_misconduct.md#chapter-eight-anti-constitutional-misconduct) (*final s = 7, 8, or 9 assignment is not supplied by descriptors*).
 
 </details>
 
@@ -510,7 +510,7 @@ The lenses are grouped in **§Chapter One §8.1.1–2.1.5** — from direct effe
 
 <br>
 
-*In plain terms: use the contribution-side descriptors in **Chapter One §8.1** to explain **how** someone helped. They sit on top of the main contribution bands; they do not create a second contribution ladder. For competency-gate evaluation, each descriptor feeds **Question 1** (magnitude inputs) under [Ch6 §3, Table D](core_06-06_standing_assessment.md#benefit-route-descriptors-q1-classification-role) and **Question 2** (safe pathway opening) under [**Chapter One §8.10, Table D**](#benefit-route-descriptors-q2-integration).*
+*In plain terms: use the contribution-side descriptors in **Chapter One §8.1** to explain **how** someone helped. They sit on top of the main contribution bands; they do not create a second contribution ladder. For competency-gate evaluation, each descriptor feeds **Question 1** (magnitude inputs) under [Ch6 §3.2, benefit-route descriptors](core_06-06_standing_assessment.md#benefit-route-descriptors-q1-classification-role) and **Question 2** (safe pathway opening) under [**Chapter One §8.10, benefit-route descriptors**](#benefit-route-descriptors-q2-integration).*
 
 **Scope.** Contribution-side descriptors in **Chapter One §8.1** support:
 
@@ -558,7 +558,7 @@ Each illustrative item uses **Chapter Six section 6.1** and **Table 2** as the a
 
 - Upstream: [Ch6 §3](core_06-06_standing_assessment.md#6-classification-evaluation-dimensions) (*contribution Question 1 — classification*); [§2.0](#20-evaluation-dimensions-contribution-magnitude-and-safe-delegation) (*classification pointer*); [§1.2](#competency-gates) (*competency gate requirements*); [§1.2.4](#competency-gate-standing-lock-interface) (*standing-lock clearance*).
 - Downstream: [Chapter One §8.1](#38-standing-integration-contribution-and-violation-nature); [§3](#6-extended-axis-ii-legal-hybrid-duty-and-harm-descriptors) (*Violation Axis integration under **§3.0** and **Chapter One §8.10***).
-- Read with: [Table D — Benefit-route descriptors: Question 2 integration role](#benefit-route-descriptors-q2-integration); [Ch6 §3 — dual-use classification hooks](core_06-06_standing_assessment.md#dual-use-classification-dimensions); [contribution recency weighting](#contribution-recency-weighting).
+- Read with: [Benefit-route descriptors — Question 2 integration role](#benefit-route-descriptors-q2-integration); [Ch6 §3 — dual-use classification hooks](core_06-06_standing_assessment.md#dual-use-classification-dimensions); [contribution recency weighting](#contribution-recency-weighting).
 
 </details>
 
@@ -609,7 +609,7 @@ Question 2 dimensions operate on **contribution standing records** and readiness
 
 <a id="benefit-route-descriptors-q2-integration"></a>
 
-**Table D — Benefit-route descriptors: Question 2 safe-delegation role.** Descriptor catalog: [Chapter One §8.1](#71-shared-domain-lenses-cross-axis-vocabulary). Question 1 classification role: [Ch6 §3, Table D](core_06-06_standing_assessment.md#benefit-route-descriptors-q1-classification-role).
+**Benefit-route descriptors — Question 2 safe-delegation role.** Descriptor catalog: [Chapter One §8.1](#71-shared-domain-lenses-cross-axis-vocabulary). Question 1 classification role: [Ch6 §3.2, benefit-route descriptors](core_06-06_standing_assessment.md#benefit-route-descriptors-q1-classification-role).
 
 | **Benefit-route descriptor** | **Chapter One §8.1 anchor** | **Q2 (safe to unlock?)** |
 | --- | --- | --- |
@@ -646,7 +646,7 @@ Question 2 dimensions operate on **contribution standing records** and readiness
 
 **Worked examples — contribution classification (Q1) and safe delegation (Q2).**
 
-*Example 1 — Informal ecological stewardship.* Verified habitat restoration through a peer mutual-aid network; demonstrable cross-community benefit below one LEQU; no linked violation record.
+*Example 1 — Informal ecological stewardship.* Verified habitat restoration through a peer mutual-aid network; demonstrable cross-community benefit below one LEQU; no linked violation record. **Question 1 dimension pass:** [Ch6 §3.4, Example 1](core_06-06_standing_assessment.md#34-question-1-classification-illustrations).
 
 | **Question** | **Assessment** |
 | --- | --- |
@@ -712,7 +712,7 @@ Dimensions decompose verified findings; they do **not** replace the Violation Ax
 
 **Worked examples — violation classification (Q1) and non-recurrence (Q2).**
 
-*Example 1 — Ecological negligence with concealment.* Verified ecological negligence by a trust-sensitive land steward; concealment after regulator notice; moderate integrated LEQU below `s` = 7; three affected communities.
+*Example 1 — Ecological negligence with concealment.* Verified ecological negligence by a trust-sensitive land steward; concealment after regulator notice; moderate integrated LEQU below `s` = 7; three affected communities. **Question 1 dimension pass:** [Ch6 §3.4, Example 2](core_06-06_standing_assessment.md#34-question-1-classification-illustrations).
 
 | **Question** | **Assessment** |
 | --- | --- |
@@ -1083,9 +1083,9 @@ Remedial capacity, funding, and anti-cost-shifting duties remain governed by [**
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [Ch6 §3](core_06-06_standing_assessment.md#6-classification-evaluation-dimensions) (*Table C — harm-route classification role*); [§3.0](#30-non-recurrence-evaluation-and-integration-examples) (*integration sequence*); [§3, slots 7–9](#63-anti-constitutional-lock-attachments-slots-7-9) through [§3, slots 1–2](#61-correction-lock-attachments-slots-1-2) (*slot-band attachment rules*); [Chapter One §8.1](#71-shared-domain-lenses-cross-axis-vocabulary) (*cross-axis domain lens table*); [Chapter One §8.2](#72-stackable-benefit-and-stewardship-descriptors-contribution-state-supplement) (*symmetric prosocial descriptors*).
-- Downstream: [Chapter One §8.10](#310-non-recurrence-lock-dimensions) (*Question 2 — Table C integration role*); [§4](#8-cross-axis-coupling-and-escalation-constraints); [Chapter Nine](core_09-09_forum.md#chapter-nine-forums-and-jurisdiction) (*primary-stakes routing with **`corpus_forum.md`***).
-- Read with: [Chapter One §8.1](#71-shared-domain-lenses-cross-axis-vocabulary) (*domain lens mapping from **`Chapter One §8.2`** supplements*); [Table C — Harm-route descriptors: Question 2 integration role](#harm-route-descriptors-q2-integration); [Chapter Eight](core_08-08_misconduct.md#chapter-eight-anti-constitutional-misconduct) (*final Violation Axis s = 7, 8, and 9 assignment*); [Harm](core_05a_accountability_definitions.md#harm) · [O](core_05a_accountability_definitions.md#harm) · [E](core_05a_accountability_definitions.md#harm-e) · [C](core_05a_accountability_definitions.md#harm-c).
+- Upstream: [Ch6 §3](core_06-06_standing_assessment.md#6-classification-evaluation-dimensions) (*harm-route classification role*); [§3.0](#30-non-recurrence-evaluation-and-integration-examples) (*integration sequence*); [§3, slots 7–9](#63-anti-constitutional-lock-attachments-slots-7-9) through [§3, slots 1–2](#61-correction-lock-attachments-slots-1-2) (*slot-band attachment rules*); [Chapter One §8.1](#71-shared-domain-lenses-cross-axis-vocabulary) (*cross-axis domain lens table*); [Chapter One §8.2](#72-stackable-benefit-and-stewardship-descriptors-contribution-state-supplement) (*symmetric prosocial descriptors*).
+- Downstream: [Chapter One §8.10](#310-non-recurrence-lock-dimensions) (*Question 2 — harm-route integration role*); [§4](#8-cross-axis-coupling-and-escalation-constraints); [Chapter Nine](core_09-09_forum.md#chapter-nine-forums-and-jurisdiction) (*primary-stakes routing with **`corpus_forum.md`***).
+- Read with: [Chapter One §8.1](#71-shared-domain-lenses-cross-axis-vocabulary) (*domain lens mapping from **`Chapter One §8.2`** supplements*); [Harm-route descriptors — Question 2 integration role](#harm-route-descriptors-q2-integration); [Chapter Eight](core_08-08_misconduct.md#chapter-eight-anti-constitutional-misconduct) (*final Violation Axis s = 7, 8, and 9 assignment*); [Harm](core_05a_accountability_definitions.md#harm) · [O](core_05a_accountability_definitions.md#harm) · [E](core_05a_accountability_definitions.md#harm-e) · [C](core_05a_accountability_definitions.md#harm-c).
 
 </details>
 
@@ -1099,7 +1099,7 @@ Remedial capacity, funding, and anti-cost-shifting duties remain governed by [**
 
 <br>
 
-*In plain terms: use the violation-side descriptors in Chapter One §8.1 to explain the kind of harm, conduct pattern, or response character involved. They supplement the main severity ladder and process / response character tags; they do not create Chapter Eight slots or move standing without verified findings. For standing-lock evaluation, each descriptor feeds **Question 1** (severity inputs) under [Ch6 §3, Table C](core_06-06_standing_assessment.md#harm-route-descriptors-q1-classification-role) and **Question 2** (pathway scope and recurrence controls) under [**Chapter One §8.10, Table C**](#harm-route-descriptors-q2-integration).*
+*In plain terms: use the violation-side descriptors in Chapter One §8.1 to explain the kind of harm, conduct pattern, or response character involved. They supplement the main severity ladder and process / response character tags; they do not create Chapter Eight slots or move standing without verified findings. For standing-lock evaluation, each descriptor feeds **Question 1** (severity inputs) under [Ch6 §3.2, harm-route descriptors](core_06-06_standing_assessment.md#harm-route-descriptors-q1-classification-role) and **Question 2** (pathway scope and recurrence controls) under [**Chapter One §8.10, harm-route descriptors**](#harm-route-descriptors-q2-integration).*
 
 **Scope.** Violation-side descriptors in **Chapter One §8.1** support **classification**, **triage**, and **routing** (including **Chapter Nine** *primary-stakes* expectations read with **`corpus_forum.md`** where applicable).
 
@@ -1124,7 +1124,7 @@ Where multiple descriptors apply, the **primary** **harm** route **or** **primar
 
 - Upstream: [§3.0](#30-non-recurrence-evaluation-and-integration-examples) (*integration sequence*); [Ch6 §3](core_06-06_standing_assessment.md#6-classification-evaluation-dimensions) (*violation Question 1 — classification*); [Standing lock context compass](#standing-lock-context-compass); [§1.3](#standing-locks-in-the-standing-model) (*standing lock record requirements*).
 - Downstream: [Chapter One §8.10](#210-safe-delegation-competency-gate-dimensions); [Chapter One §8.1](#38-standing-integration-contribution-and-violation-nature); [Chapter One §8.2](#62-joint-assessment-escalation-constraints-and-scrutiny); [§3.3](#standing-integration-slot-band-standing-locks); [Chapter One §6.3](#54-anti-evasion-and-look-through-authority) (*anti-evasion enforcement*).
-- Read with: [Chapter One §8.10](#210-safe-delegation-competency-gate-dimensions) (*symmetric contribution-side Question 2*); [Table C — Harm-route descriptors: Question 2 integration role](#harm-route-descriptors-q2-integration); [Ch6 §3 — dual-use classification hooks](core_06-06_standing_assessment.md#dual-use-classification-dimensions); [Timeliness](core_05a_accountability_definitions.md#timeliness-constitutional); **Article XXIII-G**.
+- Read with: [Chapter One §8.10](#210-safe-delegation-competency-gate-dimensions) (*symmetric contribution-side Question 2*); [Harm-route descriptors — Question 2 integration role](#harm-route-descriptors-q2-integration); [Ch6 §3 — dual-use classification hooks](core_06-06_standing_assessment.md#dual-use-classification-dimensions); [Timeliness](core_05a_accountability_definitions.md#timeliness-constitutional); **Article XXIII-G**.
 
 </details>
 
@@ -1163,7 +1163,7 @@ Question 2 dimensions operate on **violation standing records only**. **Contribu
 
 <a id="harm-route-descriptors-q2-integration"></a>
 
-**Table C — Harm-route descriptors: Question 2 non-recurrence role.** Descriptor catalog: [Chapter One §8.1](#71-shared-domain-lenses-cross-axis-vocabulary). Question 1 classification role: [Ch6 §3, Table C](core_06-06_standing_assessment.md#harm-route-descriptors-q1-classification-role).
+**Harm-route descriptors — Question 2 non-recurrence role.** Descriptor catalog: [Chapter One §8.1](#71-shared-domain-lenses-cross-axis-vocabulary). Question 1 classification role: [Ch6 §3.2, harm-route descriptors](core_06-06_standing_assessment.md#harm-route-descriptors-q1-classification-role).
 
 | **Harm-route descriptor** | **Chapter One §8.1 anchor** | **Q2 (non-recurrence?)** |
 | --- | --- | --- |

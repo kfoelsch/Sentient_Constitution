@@ -31,7 +31,7 @@
 > 4. **Milestone table** — **Article XXIII-G** tier windows from **CF-11.3.1** (adopter floor).
 > 5. **Must not happen** — anti-patterns the constitution rejects.
 >
-> **References:** [Chapter Six §3](core_06-06_standing_assessment.md#6-classification-evaluation-dimensions) (Question 1 dimensions); [Chapter Seven §2.1](core_07-07_standing_integration.md#210-safe-delegation-competency-gate-dimensions) and [Chapter Seven §3.1](core_07-07_standing_integration.md#310-non-recurrence-lock-dimensions) (Question 2); [Chapter Nine](core_09-09_forum.md#chapter-nine-forums-and-jurisdiction) (forum routing and supervision); [implementation/CH06_NINE_SLOT_STANDING_SCALE.md](implementation/CH06_NINE_SLOT_STANDING_SCALE.md) (numeric layer).
+> **References:** [Chapter Six §3](core_06-06_standing_assessment.md#6-classification-evaluation-dimensions) (Question 1 dimensions); [Chapter Six §3.4](core_06-06_standing_assessment.md#34-question-1-classification-illustrations) (Question 1 classification illustrations); [Chapter Seven §2.1](core_07-07_standing_integration.md#210-safe-delegation-competency-gate-dimensions) and [Chapter Seven §3.1](core_07-07_standing_integration.md#310-non-recurrence-lock-dimensions) (Question 2); [Chapter Nine](core_09-09_forum.md#chapter-nine-forums-and-jurisdiction) (forum routing and supervision); [implementation/CH06_NINE_SLOT_STANDING_SCALE.md](implementation/CH06_NINE_SLOT_STANDING_SCALE.md) (numeric layer).
 >
 > Regression hooks: `RS-XXIII-G-CHILD-001`, `RS-XXIII-G-DISC-001`, `RS-XXIII-G-BIZ-001`, `RS-XXIII-G-DELAY-001` in [CONSTITUTIONAL_REGRESSION_SCENARIOS.md](CONSTITUTIONAL_REGRESSION_SCENARIOS.md).
 

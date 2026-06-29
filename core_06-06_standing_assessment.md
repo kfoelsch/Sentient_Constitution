@@ -346,7 +346,11 @@ This boundary does **not** reduce challenge, remedy, interim relief, or procedur
 
 *In plain terms: before Chapter Seven assigns **competency gates** or **standing locks**, each axis must answer **Question 1** — **how good was the contribution?** or **how bad was the violation?** This section decomposes the inputs to **[Chapter One §8.1](#41-lequ-contribution-calibration)** / **[§11.1](#51-contribution-axis-bands-and-table-2)** and **[Chapter One §6.2](#42-lequ-violation-calibration)** / **[§11.2](#52-violation-axis-severity-ladder)**. It does **not** create a second slot ladder, form a net score across axes, or apply standing effects. **Question 2** — safe delegation (contribution) and non-recurrence control (violation) — continues in [Chapter Seven](core_07-07_standing_integration.md#chapter-seven-standing-effects-and-integration).*
 
-**Question 1 only.** Apply these dimensions inside **contribution standing records** and **violation standing records** under **section 2**. Descriptor labels pair with [Chapter Seven Chapter One §8.1](core_07-07_standing_integration.md#71-shared-domain-lenses-cross-axis-vocabulary); **Table D** and **Table C** below state each descriptor's **classification role**. Integration roles for Question 2 appear in [Chapter Seven Chapter One §8.10](core_07-07_standing_integration.md#benefit-route-descriptors-q2-integration) and [Chapter One §8.10](core_07-07_standing_integration.md#harm-route-descriptors-q2-integration).
+**Question 1 only.** Apply these dimensions inside **contribution standing records** and **violation standing records** under **section 2**. Descriptor labels pair with [Chapter Seven Chapter One §8.1](core_07-07_standing_integration.md#71-shared-domain-lenses-cross-axis-vocabulary); the **benefit-route** and **harm-route descriptor** tables in **section 3.2** state each descriptor's **classification role**. Integration roles for Question 2 appear in [Chapter Seven Chapter One §8.10](core_07-07_standing_integration.md#benefit-route-descriptors-q2-integration) and [Chapter One §8.10](core_07-07_standing_integration.md#harm-route-descriptors-q2-integration).
+
+<a id="31-magnitude-input-dimensions"></a>
+
+#### 3.1 Magnitude-input dimensions
 
 <a id="contribution-table-q1-magnitude-input-dimensions"></a>
 
@@ -358,7 +362,7 @@ This boundary does **not** reduce challenge, remedy, interim relief, or procedur
 | **Sentient scope (count, depth, vulnerability)** | Modulates LEQU assessment and materiality | [Chapter One §8.1](#41-lequ-contribution-calibration) examples; [Materiality Determination](core_05o_oversight_definitions.md#materiality-determination) |
 | **Temporal scope (duration, durability)** | Modulates LEQU assessment | Lasting stewardship, cross-generational benefit, durable institutional repair toward `s` = 8–9 |
 | **Spatial / institutional scope** | Modulates LEQU assessment | Cross-community, cross-institutional, or civilization-scale benefit |
-| **Benefit-route stack** | Names routes of verified benefit; stackable | [Chapter Seven Chapter One §8.1](core_07-07_standing_integration.md#71-shared-domain-lenses-cross-axis-vocabulary); [**Table D**](#benefit-route-descriptors-q1-classification-role) |
+| **Benefit-route stack** | Names routes of verified benefit; stackable | [Chapter Seven Chapter One §8.1](core_07-07_standing_integration.md#71-shared-domain-lenses-cross-axis-vocabulary); [**benefit-route descriptors**](#benefit-route-descriptors-q1-classification-role) |
 | **Conduct-quality stack** | How benefit was produced; may limit countable benefit | Traceability, non-externalization, diligence, constitutional alignment; externalized harm or concealed burden caps benefit ([Chapter One §8.1](#41-lequ-contribution-calibration)) |
 
 **Q1 outputs (record in the contribution standing record; not standing effects).**
@@ -379,7 +383,7 @@ Do **not** split LEQU into parallel ecological, system, or resource benefit scor
 | **Sentient scope (count, depth, vulnerability)** | Modulates LEQU assessment and materiality | [Chapter One §6.2](#42-lequ-violation-calibration) examples; [Materiality Determination](core_05o_oversight_definitions.md#materiality-determination) |
 | **Temporal scope (duration, irreversibility)** | Modulates LEQU assessment | Persistent trauma, irreversible loss, durable agency impairment in `s` = 7 criteria ([§11.2](#52-violation-axis-severity-ladder)) |
 | **Spatial / institutional scope** | Modulates LEQU assessment | Cross-community, cross-institutional, or civilizational reach toward `s` = 8–9 |
-| **Harm-route stack** | Names routes of verified harm; stackable | [Chapter Seven Chapter One §8.1](core_07-07_standing_integration.md#71-shared-domain-lenses-cross-axis-vocabulary); [**Table C**](#harm-route-descriptors-q1-classification-role) |
+| **Harm-route stack** | Names routes of verified harm; stackable | [Chapter Seven Chapter One §8.1](core_07-07_standing_integration.md#71-shared-domain-lenses-cross-axis-vocabulary); [**harm-route descriptors**](#harm-route-descriptors-q1-classification-role) |
 | **Conduct-character stack** | How harm was caused; may escalate slot | Violence/coercion → `s` = 6; negligence → `s` = 4; deception/concealment → `s` = 5; diffusion → `s` = 4–5; Rights-Floor defeat → `s` = 3 or 7–9 |
 
 **Q1 outputs (record in the violation standing record; not standing effects).**
@@ -390,9 +394,13 @@ Do **not** split LEQU into parallel ecological, system, or resource benefit scor
 
 Do **not** split LEQU into parallel ecological, system, or resource scores unless adopted implementation needs transparent decomposition for audit.
 
+<a id="32-route-descriptor-classification-roles"></a>
+
+#### 3.2 Route descriptor classification roles
+
 <a id="benefit-route-descriptors-q1-classification-role"></a>
 
-**Table D — Benefit-route descriptors: Question 1 classification role.** Descriptor catalog: [Chapter Seven Chapter One §8.1](core_07-07_standing_integration.md#71-shared-domain-lenses-cross-axis-vocabulary). Question 2 safe-delegation role: [Chapter Seven Chapter One §8.10](core_07-07_standing_integration.md#benefit-route-descriptors-q2-integration).
+**Benefit-route descriptors — Question 1 classification role.** Descriptor catalog: [Chapter Seven Chapter One §8.1](core_07-07_standing_integration.md#71-shared-domain-lenses-cross-axis-vocabulary). Question 2 safe-delegation role: [Chapter Seven Chapter One §8.10](core_07-07_standing_integration.md#benefit-route-descriptors-q2-integration).
 
 | **Benefit-route descriptor** | **Chapter One §8.1 anchor** ([Ch7](core_07-07_standing_integration.md#71-shared-domain-lenses-cross-axis-vocabulary)) | **Q1 (how good?)** |
 | --- | --- | --- |
@@ -412,7 +420,7 @@ Do **not** split LEQU into parallel ecological, system, or resource scores unles
 
 <a id="harm-route-descriptors-q1-classification-role"></a>
 
-**Table C — Harm-route descriptors: Question 1 classification role.** Descriptor catalog: [Chapter Seven Chapter One §8.1](core_07-07_standing_integration.md#71-shared-domain-lenses-cross-axis-vocabulary). Question 2 non-recurrence role: [Chapter Seven Chapter One §8.10](core_07-07_standing_integration.md#harm-route-descriptors-q2-integration).
+**Harm-route descriptors — Question 1 classification role.** Descriptor catalog: [Chapter Seven Chapter One §8.1](core_07-07_standing_integration.md#71-shared-domain-lenses-cross-axis-vocabulary). Question 2 non-recurrence role: [Chapter Seven Chapter One §8.10](core_07-07_standing_integration.md#harm-route-descriptors-q2-integration).
 
 | **Harm-route descriptor** | **Chapter One §8.1 anchor** ([Ch7](core_07-07_standing_integration.md#71-shared-domain-lenses-cross-axis-vocabulary)) | **Q1 (how bad?)** |
 | --- | --- | --- |
@@ -435,6 +443,10 @@ Do **not** split LEQU into parallel ecological, system, or resource scores unles
 <a id="dual-use-contribution-evaluation-dimensions"></a>
 <a id="dual-use-evaluation-dimensions"></a>
 
+<a id="33-dual-use-classification-hooks"></a>
+
+#### 3.3 Dual-use classification hooks
+
 **Dual-use dimensions — Question 1 (classification hook).** These factors may also affect Question 2 standing integration in Chapter Seven. Record the **classification hook** here; read [Chapter Seven Chapter One §8.10](core_07-07_standing_integration.md#210-safe-delegation-competency-gate-dimensions) and [Chapter One §8.10](core_07-07_standing_integration.md#310-non-recurrence-lock-dimensions) for integration hooks. Do **not** double-count into a composite score.
 
 | **Dimension** | **Contribution Q1** | **Violation Q1** |
@@ -454,18 +466,52 @@ Do **not** split LEQU into parallel ecological, system, or resource scores unles
 | **Lifecycle / irreversibility concealment** | — | Aggravated violation (`s` = 5) when material irreversibility concealed after notice |
 
 <a id="section-6-classification-worked-examples"></a>
+<a id="34-question-1-classification-illustrations"></a>
 
-**Worked examples — Question 1 classification only.**
+#### 3.4 Question 1 classification illustrations
 
-*Contribution — informal ecological stewardship.* Verified habitat restoration through peer mutual-aid; cross-community benefit below one LEQU.
+*In plain terms: these illustrations show how **section 3** dimensions are applied inside axis-pure standing records. They record **Question 1 outputs** — magnitude inputs, stacked route descriptors, conduct-quality or conduct-character tags, and dual-use hooks — **not** slot numbers, display labels, or standing effects. Slot assignment follows **[§§4–6](#3-slot-grammar-and-display-labels)** after LEQU calibration; Question 2 integration begins in [Chapter Seven](core_07-07_standing_integration.md#chapter-seven-standing-effects-and-integration).*
 
-| **Q1 — How good?** | `s` = 4–5; **Ecological Stewardship** + **Diligence** stacked |
+**Example 1 — Riparian cooperative restoration (contribution).**
 
-*Violation — ecological negligence with concealment.* Verified negligent harm; concealment after notice; moderate LEQU below `s` = 7.
+**Situation.** After spring flooding, four sentients in an informal riparian cooperative stabilize a degraded half-kilometer creek buffer between two downstream neighborhoods. The work is unpaid mutual aid — no municipal contract, no licensed-program enrollment, and no platform payout trail. A watershed council later asks whether the cooperative's verified repair should enter a **contribution standing record**.
 
-| **Q1 — How bad?** | `s` = 4–5; **Ecological Misconduct** + **Negligent Misconduct** stacked |
+**Verified inputs.** Soil-test logs, planting receipts, timestamped before/after habitat photos, and contestable neighbor attestations satisfy the verified-input gate under **section 2**. Allegations that one member previously dumped waste upstream remain a separate, unverified routing thread and do **not** enter this record.
 
-Standing integration examples (Question 2) appear in [Chapter Seven §3.0](core_07-07_standing_integration.md#30-non-recurrence-evaluation-and-integration-examples) and [Chapter Seven §2.1](core_07-07_standing_integration.md#210-safe-delegation-competency-gate-dimensions). Domain-scale pipeline walkthroughs (child neglect, discrimination, misaligned business) appear in [Chapters Six–Nine application vignettes](core_06-09_application_vignettes.md#chapters-six-nine-application-vignettes).
+**Question 1 dimension pass** (contribution standing record):
+
+| **Dimension** | **Verified assessment** |
+| --- | --- |
+| Constitutional outcome magnitude (LEQU) | Integrated benefit is material but below one LEQU — localized ecological gain, not civilizational scale |
+| Sentient scope | Two neighborhoods with elevated flood vulnerability; modest sentient count; no dependency-asymmetric caretaking duty in this fact pattern |
+| Temporal scope | Native plantings, berm repair, and erosion controls expected to endure multiple growing seasons |
+| Spatial / institutional scope | Cross-neighborhood benefit along a shared watershed segment; informal coordination, not cross-institutional repair |
+| Benefit-route stack | **Ecological Stewardship** + **Diligence** — documented planting plan, scheduled follow-up monitoring, and soil checks |
+| Conduct-quality stack | Traceable work; runoff not externalized onto adjacent parcels; no concealed burden on downstream irrigators |
+
+**Q1 outputs recorded:** stacked **Ecological Stewardship** and **Diligence** benefit-route descriptors; LEQU and scope inputs ready for **[section 5.1](#41-lequ-contribution-calibration)** calibration and **[section 6.1](#51-contribution-axis-bands-and-table-2)** band assignment. No standing effects apply in Chapter Six.
+
+**Example 2 — Watershed steward negligence with concealed test results (violation).**
+
+**Situation.** A sentient holds a community-trust contract to maintain pesticide-free buffer zones above three agricultural cooperatives' irrigation intakes. Regulator notice eight months earlier flagged failing retaining berms. The steward continued applying restricted herbicide through a subcontractor, submitted altered lab exports to the trust board, and told downstream growers that intake readings were "within normal variance."
+
+**Verified inputs.** A forum produces a verified violation finding → an axis-pure **violation standing record** opens under **section 2** with the preserved notice chain, authentic-versus-submitted lab comparison, and intake contamination readings across two growing seasons. The steward's later volunteer trash cleanup along the same creek is routed to a **linked contribution standing record** under **section 2.2**; it does **not** offset this violation record.
+
+**Question 1 dimension pass** (violation standing record):
+
+| **Dimension** | **Verified assessment** |
+| --- | --- |
+| Constitutional outcome magnitude (LEQU) | Moderate integrated constitutional loss — crop risk, water insecurity, and remediation cost — below one LEQU destroyed |
+| Sentient scope | Three cooperatives with irrigation dependency; **materiality** elevated in dependency-asymmetric settings |
+| Temporal scope | Contamination and false assurance persisted across two growing seasons after notice |
+| Spatial / institutional scope | Localized watershed harm with cross-cooperative reach; trust-contract stewardship role |
+| Harm-route stack | **Ecological Misconduct** + **Negligent Misconduct** |
+| Conduct-character stack | Negligence where maintenance duty existed; deception/concealment after notice |
+| Dual-use hooks | **Deception / concealment / evasion**; **Response timeliness / avoidable delay** (harm compounded after duty to act) |
+
+**Q1 outputs recorded:** stacked **Ecological Misconduct** and **Negligent Misconduct** harm-route descriptors; aggravated conduct-character inputs; dual-use classification hooks noted for [Chapter Seven Question 2](core_07-07_standing_integration.md#30-non-recurrence-evaluation-and-integration-examples). **Violation Axis slot** and display label are assigned only after **[section 5.2](#42-lequ-violation-calibration)** calibration and **[section 6.2](#52-violation-axis-severity-ladder)**.
+
+Question 2 integration examples (competency gates, standing locks) appear in [Chapter Seven §2.1](core_07-07_standing_integration.md#210-safe-delegation-competency-gate-dimensions) and [Chapter Seven §3.0](core_07-07_standing_integration.md#30-non-recurrence-evaluation-and-integration-examples). Domain-scale pipeline walkthroughs with **Article XXIII-G** milestone tables (child neglect, discrimination, misaligned business) appear in [Chapters Six–Nine application vignettes](core_06-09_application_vignettes.md#chapters-six-nine-application-vignettes).
 
 <a id="3-slot-grammar-and-display-labels"></a>
 <a id="3-primary-axis-categories-slot-grammar-and-defaults"></a>
@@ -474,8 +520,6 @@ Standing integration examples (Question 2) appear in [Chapter Seven §3.0](core_
 
 <a id="classification-layer-sections-3-5"></a>
 <a id="classification-layer-sections-3-6"></a>
-
-*Reading order (classification layer §§3–6):* **[§3](#6-classification-evaluation-dimensions)** states Question 1 evaluation dimensions · **[§4](#3-slot-grammar-and-display-labels)** names the shared slot labels (**Table 1**) · **[§5](#32-constitutional-outcome-baseline-for-slots)** calibrates magnitude in LEQU (**[Chapter One §8.1](#41-lequ-contribution-calibration)** contribution · **[Chapter One §6.2](#42-lequ-violation-calibration)** violation) · **[§6](#33-primary-category-defaults-and-lequ-slot-baseline)** classifies verified **contribution state** (**[§11.1](#51-contribution-axis-bands-and-table-2)** · **Table 2**), verified **violation nature** (**[§11.2](#52-violation-axis-severity-ladder)**), and forum-integrity modifiers (**[§11.3](#53-forum-disclosure-and-recusal-process-impact)**). Tetrad / Aims map and relation to §2: [chapter opening reader guidance](#chapter-six-part-a-orientation). Standing effects begin in [Chapter Seven](core_07-07_standing_integration.md#chapter-seven-standing-effects-and-integration).
 
 <br>
 
@@ -497,10 +541,17 @@ The same slot number can appear on both axes, but the axes remain separate. A co
 The display labels make the slot ranges visible without adding a separate category layer. On the Contribution Axis, the first six slots use paired band-step labels: **basic** / **strengthened**, **verified** / **material**, and **established** / **major**; the top three use **recognized**, **distinguished**, and **exemplary** champion labels. On the Violation Axis, the first six slots use paired band-step labels: **formal** / **remedial substantive**, **significant substantive** / **duty-based or negligent-harm**, and **aggravated** / **coercive or safeguard-process**; the top three use **Serious**, **Grave**, and **Pernicious** anti-constitutional misconduct labels. Operative criteria for Violation Axis `s` = 7, 8, and 9 remain in **section 6.2** and **Chapter Eight**.
 
 <a id="312-table-1-slot-display-labels"></a>
+<a id="313-how-to-read-table-1"></a>
 
 #### 4.2 Table 1 — slot display labels
 
-**Table 1** names the nine slots and shows the Contribution Axis and Violation Axis display scales side by side. It does **not** decide whether any sentient, institution, record, assessment, or event belongs in a slot. It only supplies the shared display language used once a contribution state or violation severity has been determined under **sections 5 and 6**.
+**Table 1** is a naming table. It names the nine slots and shows the Contribution Axis and Violation Axis display scales side by side. It gives consistent words for the slot scale; it does **not** create a parallel category system, and it does **not** decide whether any sentient, institution, record, assessment, or event belongs in a slot. It only supplies shared display language used once a contribution state or violation severity has been determined under **sections 5 and 6**.
+
+Use **Table 1** this way:
+
+- **Table 1** supplies **display labels only**. Operative Contribution Axis rules are in **section 6.1** (**Table 2**); operative Violation Axis severity is in **section 6.2**.
+- On the Contribution Axis, slots `s` = 1–6 use paired band-step labels; slots `s` = 7–9 use **recognized**, **distinguished**, and **exemplary** champion labels.
+- On the Violation Axis, slots `s` = 1–6 use paired band-step labels; slots `s` = 7–9 use **Serious**, **Grave**, and **Pernicious** anti-constitutional misconduct labels. Authoritative severity criteria remain in **section 6.2**.
 
 Read each row as follows:
 
@@ -510,7 +561,7 @@ Read each row as follows:
 
 The display labels combine the slot's band with its internal step. For example, **strengthened baseline contribution** means the second slot within the baseline contribution band. It does not replace the contribution rules in **section 6.1**.
 
-The four Contribution Axis primary bands and their operative rules are stated in **section 6.1**. Violation Axis display labels pair with the operative severity ladder in **section 6.2**.
+For axis-pure record separation and the rule that shared slot numbers do not create a net score, blended score, or tradeoff between axes, see **section 2.2** and **sections 2.3.1–2.3.2**.
 
 |  `s` | Contribution Axis display label | Violation Axis display label |
 | ---: | --- | --- |
@@ -523,20 +574,6 @@ The four Contribution Axis primary bands and their operative rules are stated in
 |    7 | **recognized** *champion* | **Serious** *anti-constitutional misconduct* |
 |    8 | **distinguished** *champion* | **Grave** *anti-constitutional misconduct* |
 |    9 | **exemplary** *champion* | **Pernicious** *anti-constitutional misconduct* |
-
-<a id="313-how-to-read-table-1"></a>
-
-#### 4.3 How to read Table 1
-
-Table 1 is a naming table. It gives consistent words for the slot scale; it does not create a parallel category system.
-
-Use Table 1 this way:
-
-- Table 1 supplies **display labels only**. Operative Contribution Axis rules are in **section 6.1** (**Table 2**); operative Violation Axis severity is in **section 6.2**.
-- On the Contribution Axis, slots `s` = 1–6 use paired band-step labels; slots `s` = 7–9 use **recognized**, **distinguished**, and **exemplary** champion labels.
-- On the Violation Axis, slots `s` = 1–6 use paired band-step labels; slots `s` = 7–9 use **Serious**, **Grave**, and **Pernicious** anti-constitutional misconduct labels. Authoritative severity criteria remain in **section 6.2**.
-
-For axis-pure record separation and the rule that shared slot numbers do not create a net score, blended score, or tradeoff between axes, see **section 2.2** and **sections 2.3.1–2.3.2**.
 
 ### 5. LEQU baseline — measuring impact in lifetime-equivalent units
 
