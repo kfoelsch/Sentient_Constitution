@@ -307,7 +307,7 @@ This band holds **Accountability**-leg definitions: contestability, redress, gov
 
 #### Accountability, contestability, and redress pathways
 
-**Cluster context:** This semi-independent topic group establishes the foundational mechanisms for holding actors responsible and seeking correction of constitutional violations. It covers the attribution of responsibility ([Accountability](core_05a_accountability_definitions.md#accountability)), the ability to challenge and seek remedy ([Contestability](core_05a_accountability_definitions.md#contestability)), formal pathways for resolving disputes ([Adjudication and Dispute Resolution](core_05a_accountability_definitions.md#adjudication-and-dispute-resolution-constitutional)), fair and reviewable process for materially rights-affecting decisions and outcomes ([Due Process](core_05a_accountability_definitions.md#due-process-constitutional)), principle-layer responsiveness across the coordination lifecycle ([Timeliness](core_05a_accountability_definitions.md#timeliness-constitutional)), resolution within materiality-scaled windows ([Timely Resolution](core_05a_accountability_definitions.md#timely-resolution-constitutional)), binding substantive dispositions in those pathways ([Merits Determination](core_05a_accountability_definitions.md#merits-determination)), systemic failures where responsibility is diffused ([Collective Accountability Failure](core_05a_accountability_definitions.md#collective-accountability-failure)), exceptional external disruptions ([Force Majeure](core_05a_accountability_definitions.md#force-majeure-constitutional)), and protection against capture of outcome-determination mechanisms ([Capture of Resolution Pathways](core_05a_accountability_definitions.md#capture-of-resolution-pathways)). These definitions operate together where review, redress, or resolution of constitutional claims is material.
+**Cluster context:** This semi-independent topic group establishes the foundational mechanisms for holding actors responsible and seeking correction of constitutional violations. It covers the attribution of responsibility ([Accountability](core_05a_accountability_definitions.md#accountability)), the ability to challenge and seek remedy ([Contestability](core_05a_accountability_definitions.md#contestability)), formal pathways for resolving disputes ([Adjudication and Dispute Resolution](core_05a_accountability_definitions.md#adjudication-and-dispute-resolution-constitutional)), fair and reviewable process for materially rights-affecting decisions and outcomes ([Due Process](core_05a_accountability_definitions.md#due-process-constitutional)), principle-layer responsiveness across the coordination lifecycle ([Timeliness](core_05a_accountability_definitions.md#timeliness-constitutional)), resolution within materiality-scaled windows ([Timely Resolution](core_05a_accountability_definitions.md#timely-resolution-constitutional)), binding substantive dispositions in those pathways ([Merits Determination](core_05a_accountability_definitions.md#merits-determination)), temporary pause or reliance-limit orders pending further review ([Stay](core_05a_accountability_definitions.md#stay)), systemic failures where responsibility is diffused ([Collective Accountability Failure](core_05a_accountability_definitions.md#collective-accountability-failure)), exceptional external disruptions ([Force Majeure](core_05a_accountability_definitions.md#force-majeure-constitutional)), and protection against capture of outcome-determination mechanisms ([Capture of Resolution Pathways](core_05a_accountability_definitions.md#capture-of-resolution-pathways)). These definitions operate together where review, redress, or resolution of constitutional claims is material.
 
 **Topic group members.** This group comprises:
 - [Accountability](core_05a_accountability_definitions.md#accountability);
@@ -317,6 +317,7 @@ This band holds **Accountability**-leg definitions: contestability, redress, gov
 - [Timeliness](core_05a_accountability_definitions.md#timeliness-constitutional);
 - [Timely Resolution](core_05a_accountability_definitions.md#timely-resolution-constitutional);
 - [Merits Determination](core_05a_accountability_definitions.md#merits-determination);
+- [Stay](core_05a_accountability_definitions.md#stay);
 - [Collective Accountability Failure](core_05a_accountability_definitions.md#collective-accountability-failure);
 - [Force Majeure](core_05a_accountability_definitions.md#force-majeure-constitutional);
 - [Capture of Resolution Pathways](core_05a_accountability_definitions.md#capture-of-resolution-pathways).
@@ -477,11 +478,55 @@ This band holds **Accountability**-leg definitions: contestability, redress, gov
 
 <br>
 
-- O: A binding decision that resolves substantive issues in an adjudicative or equivalent dispute — including liability, entitlement, validity, mandate, remedy, classification outcome, rights restriction, or comparable rights-affecting disposition — as distinguished from decisions that govern only pathway integrity, panel formation, routing, monitoring, evidence preservation, coordination, sequencing, or other procedural housekeeping. Final [Chapter Ten](core_10-10_misconduct.md#chapter-ten-anti-constitutional-misconduct) Violation Axis slot assignment is a specialized classification outcome governed by that chapter; it is not a substitute for ordinary forum merits authority and is not itself a pathway decision.
+- O: A binding decision that resolves substantive issues in an adjudicative or equivalent dispute — as distinguished from pathway, sequencing, or procedural housekeeping orders. A merits determination may finally resolve, for example:
+
+  - liability;
+  - entitlement;
+  - validity;
+  - mandate;
+  - remedy;
+  - classification outcome;
+  - rights restriction; or
+  - another comparable rights-affecting disposition.
+
+  It does not include decisions that govern only:
+
+  - pathway integrity;
+  - panel formation;
+  - routing;
+  - monitoring;
+  - evidence preservation;
+  - coordination;
+  - sequencing; or
+  - other procedural housekeeping — including [Stays](core_05a_accountability_definitions.md#stay).
+
+  Final [Chapter Ten](core_10-10_misconduct.md#chapter-ten-anti-constitutional-misconduct) Violation Axis slot assignment is a specialized classification outcome governed by that chapter. It is not a substitute for ordinary forum merits authority and is not itself a pathway decision.
 <a id="merits-determination-e"></a>
-- E: Ask whether the decision finally resolves a contested substantive question for the matter or only enables, schedules, monitors, preserves, routes, or coordinates review. Treat binding procedural determinations — for example lawful panel constitution, published routing, proportionate stays, and sequencing orders that do not finally dispose of the primary stake — as non-merits unless the governing instrument expressly treats them as merits dispositions. Treat contest-integrity monitoring outputs as pathway decisions unless a separate lawful instrument gives the monitor limited merits authority. Read [Chapter Eleven](core_11-11_forum.md#chapter-eleven-forums-and-jurisdiction) for primary-stakes and reserved-merits routing; read owner layers for family-specific reserved questions.
+- E: Ask whether the decision finally resolves a contested substantive question for the matter or only enables, schedules, monitors, preserves, routes, or coordinates review. Treat binding procedural determinations — for example lawful panel constitution, published routing, proportionate [Stays](core_05a_accountability_definitions.md#stay), and sequencing orders that do not finally dispose of the primary stake — as non-merits. A [Stay](core_05a_accountability_definitions.md#stay) is never a merits disposition; substantive resolution requires a separate [Merits Determination](core_05a_accountability_definitions.md#merits-determination) under lawful merits authority. Treat contest-integrity monitoring outputs as pathway decisions unless a separate lawful instrument gives the monitor limited merits authority. Read [Chapter Eleven](core_11-11_forum.md#chapter-eleven-forums-and-jurisdiction) for primary-stakes and reserved-merits routing; read owner layers for family-specific reserved questions.
 <a id="merits-determination-c"></a>
 - C: Non-compliant: support, oversight, forensic, investigative, or monitoring roles issuing binding merits outcomes without separate lawful authority; using pathway, monitoring, or forensic roles to pre-decide substantive issues assigned to a lawfully constituted merits forum; or treating routing, intake, or contest-integrity findings as final merits dispositions.
+
+
+<a id="stay"></a>
+
+---
+#### Stay
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Downstream: [Chapter Seven §6](core_07-07_system_alignment_certification.md#6-supervisory-sequence-and-contestability-chain) (*supervisory sequence, component referral, and reliance limits during contest*); [Chapter Eleven](core_11-11_forum.md#chapter-eleven-forums-and-jurisdiction) (*transfer, certification, and interim relief*); `corpus_forum.md` **CF-6** (*appeal and secondary review*) and **CF-15** (*interim-relief order*).
+- Read with: [Merits Determination](core_05a_accountability_definitions.md#merits-determination), [Contestability](core_05a_accountability_definitions.md#contestability), [Adjudication and Dispute Resolution](core_05a_accountability_definitions.md#adjudication-and-dispute-resolution-constitutional), [Timely Resolution](core_05a_accountability_definitions.md#timely-resolution-constitutional), [Necessity](core_05a_accountability_definitions.md#necessity), [Proportionality](core_05a_accountability_definitions.md#proportionality), and [Procedural Fairness](core_05p_participation_definitions.md#procedural-fairness-constitutional).
+
+</details>
+
+<br>
+
+- O: A temporary order that holds off a specified next step until timely further review or a required component finding is complete. A stay may pause or limit an action, reliance on a finding, enforcement of a restriction, referral of a component question, or finalization of a certification or similar outcome. It is not a final yes or no on the merits. A stay is always temporary and is always a scheduling or sequencing order — never a [Merits Determination](core_05a_accountability_definitions.md#merits-determination). Any binding ruling on substantive issues must be issued separately under lawful merits authority.
+<a id="stay-e"></a>
+- E: Identify what is paused (action, reliance, finalization, or enforcement); the lawful authority issuing the stay; the scope, duration, or review trigger; and whether the stay is proportionate under [Necessity](core_05a_accountability_definitions.md#necessity) and [Proportionality](core_05a_accountability_definitions.md#proportionality) to prevent foreseeable harm, preserve evidence, prevent irreversible dependence, or allow required component review. Distinguish stay from final disposition, mere informal delay, or silence treated as approval. When substantive issues are ready for decision, issue a separate [Merits Determination](core_05a_accountability_definitions.md#merits-determination); do not fold merits outcomes into the stay. Read [Contestability](core_05a_accountability_definitions.md#contestability) and [Timely Resolution](core_05a_accountability_definitions.md#timely-resolution-constitutional) for challenge and review timing.
+<a id="stay-c"></a>
+- C: Non-compliant: using informal delay or silence as a substitute for a documented stay where one is required; indefinite stays without documented review trigger or tier-appropriate prompt review; stays that block [Contestability](core_05a_accountability_definitions.md#contestability) or required component review; treating a stay as final approval or merits disposition; issuing or labeling a [Merits Determination](core_05a_accountability_definitions.md#merits-determination) as a stay, or folding merits outcomes into a stay order without a separate merits ruling; or refusing to lift or narrow a stay when required review is complete or the stated grounds no longer hold.
 
 
 <a id="collective-accountability-failure"></a>

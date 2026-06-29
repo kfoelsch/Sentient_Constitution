@@ -231,6 +231,7 @@ This directory lists **Definitions A-Z** and **Clusters A-Z** separately. Each v
 - [Standing Effect](core_05a_accountability_definitions.md#standing-effect-chapter-six)
 - [Standing Lock](core_05a_accountability_definitions.md#standing-lock)
 - [Standing Record](core_05a_accountability_definitions.md#standing-record-chapter-six)
+- [Stay](core_05a_accountability_definitions.md#stay)
 - [Stewardship](core_05c_continuity_definitions.md#stewardship-constitutional)
 - [Stewardship Defect](core_05c_continuity_definitions.md#stewardship-defect-constitutional)
 - [Strategic Stewardship Obligation](core_05c_continuity_definitions.md#strategic-stewardship-obligation-constitutional)

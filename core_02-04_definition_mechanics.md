@@ -234,7 +234,7 @@ Systems are non-compliant where:
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: Principles: [Chapter Three, section 2 — Non-Compliance from Observable System Behavior](#2-non-compliance-from-observable-system-behavior); [Chapter Two, 2.4.2 Non-Compliance by Structural or Applied Weakening](#242-non-compliance-by-structural-or-applied-weakening).
-- Downstream: [2.2 Non-Reductive Evasion Types](#22-non-reductive-evasion-types); [2.3 Reductive Evasion](#23-reductive-evasion); [Chapter Four, 2.4 — Disqualifying evidence; uncertainty; default rule](#24-disqualifying-evidence-uncertainty-default-rule); [Chapter Eight — Contribution, Violation, and Standing Model](core_08-08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model).
+- Downstream: [2.2 Non-Reductive Evasion Types](#22-non-reductive-evasion-types); [2.3 Reductive Evasion](#23-reductive-evasion); [Chapter Four, 2.4 — Disqualifying evidence; uncertainty; default rule](#24-disqualifying-evidence-uncertainty-default-rule); [Chapter Seven §9](core_07-07_system_alignment_certification.md#9-reopening-drift-and-non-evasion) (*system alignment certification reopening and anti-evasion pointer*); [Chapter Eight — Contribution, Violation, and Standing Model](core_08-08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model).
 - Read with: [Chapter Two, 2.4.5 Interpretation Rule Under Ambiguity](#245-interpretation-rule-under-ambiguity) — interpretations that weaken safeguards, shrink what must be evaluated, or worsen real-world results are invalid and reinforce the anti-evasion determination made on observable outcomes rather than declared intent.
 
 </details>
