@@ -241,6 +241,7 @@ This directory lists **Definitions A-Z** and **Clusters A-Z** separately. Each v
 - [Sustainability](core_05c_continuity_definitions.md#sustainability)
 - [Sustained High-Gravity Pattern](core_05a_accountability_definitions.md#sustained-high-gravity-pattern)
 - [System](core_05c_continuity_definitions.md#system-definition)
+- [System Alignment Certification](core_05c_continuity_definitions.md#system-alignment-certification-constitutional)
 - [System Boundaries](core_05c_continuity_definitions.md#system-boundaries)
 - [System Boundary Integrity](core_05c_continuity_definitions.md#system-boundary-integrity)
 - [System Capture](core_05c_continuity_definitions.md#system-capture)

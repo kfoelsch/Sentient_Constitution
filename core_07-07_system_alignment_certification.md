@@ -1,23 +1,24 @@
-# System Alignment Certification and Recognition
+# System Alignment Certification
 
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
 > The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this file or in other chapters.
 >
-> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one instrument. It contains **Chapter Seven**: the bridge between Chapter Five definitions and Chapter Eight standing assessment for forum-supervised system alignment certification, recognition, validation, revalidation, withdrawal, and non-recognition records.
+> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one instrument. It contains **Chapter Seven**: the bridge between Chapter Five definitions and Chapter Eight standing assessment for forum-supervised system alignment certification and related records.
 >
 > **Upstream:** Chapter Five definitions and Chapters Two through Four record, verification, burden, and tracing discipline.
-> **Downstream:** Chapter Eight standing records and verified inputs; Chapter Nine standing effects; Chapter Eleven forum supervision and alignment-recognition pathways.
+> **Downstream:** Chapter Eight standing records and verified inputs; Chapter Nine standing effects; Chapter Eleven forum supervision and system alignment certification pathways.
 
 </details>
 
 <br>
 
 ---
+<a id="chapter-seven-system-alignment-certification"></a>
 <a id="chapter-seven-system-alignment-certification-and-recognition"></a>
 
-## CHAPTER SEVEN: SYSTEM ALIGNMENT CERTIFICATION AND RECOGNITION
+## CHAPTER SEVEN: SYSTEM ALIGNMENT CERTIFICATION
 
 *Non-operative subtitle:* Forum-supervised certification records before standing.
 
@@ -26,7 +27,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [Constitutional Owner Layers](core_05i_integrative_definitions.md#constitutional-owner-layers) and [Authority Stack and Internal Hierarchy](core_05i_integrative_definitions.md#authority-stack); [Chapter One §9 Stewardship and Distributed Understanding](core_01_b_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding); [Chapter One §13 Systemic Evaluation Requirement](core_01_b_stewardship_capacity_principles.md#13-systemic-evaluation-requirement); Chapters Two through Four; [Chapter Five](core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions).
+- Upstream: [Constitutional Owner Layers](core_05i_integrative_definitions.md#constitutional-owner-layers) and [Authority Stack and Internal Hierarchy](core_05i_integrative_definitions.md#authority-stack); [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad); [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims); [Chapter One §9 Stewardship and Distributed Understanding](core_01_b_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding); [Chapter One §13 Systemic Evaluation Requirement](core_01_b_stewardship_capacity_principles.md#13-systemic-evaluation-requirement); Chapters Two through Four; [System Alignment Certification](core_05c_continuity_definitions.md#system-alignment-certification-constitutional) (Chapter Five canonical term; non-operative shorthand **SAC**).
 - Downstream: [§2](#2-certification-record) (*certification record contents*); [§3](#3-system-class-evaluation) (*system class evaluation*); [§4](#4-data-types-and-handling-evaluation) (*data types and handling evaluation*); [§5](#5-transparency-auditability-and-contestability) (*record integrity requirements*); [§6](#6-supervisory-sequence-and-contestability-chain) (*supervisory sequence and contestability chain*); [§7](#7-forum-supervision-and-component-roles) (*forum component roles*); [§8](#8-relationship-to-standing) (*standing-record bridge*); [§9](#9-reopening-drift-and-non-evasion) (*reopening and anti-evasion*); [Chapter Eight](core_08-08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) (*standing records and verified-input gate*); [Chapter Nine](core_09-09_standing_integration.md#chapter-nine-standing-effects-and-integration) (*standing effects and integration*); [Chapter Eleven](core_11-11_forum.md#chapter-eleven-forums-and-jurisdiction) (*forum supervision, certification, alignment recognition, and review*).
 - Read with: [corpus_systems.md](corpus_systems.md), especially **CS-4 — System classification and handling**, **CS-3 — Information types and handling**, and **Protocol A**; [corpus_forum.md](corpus_forum.md), especially **CF-5** (*Routing operations, transfer, certification, and representative treatment*) and **CF-7** (*Integrity safeguards, anti-capture operations, and anti-self-judging support*).
 
@@ -36,7 +37,7 @@
 
 *In plain terms: Chapter Seven is the certification bridge. Chapter Five defines the vocabulary. Chapter Seven turns system evidence into forum-supervised, contestable alignment records. Chapter Eight may then use those records as verified inputs for standing, but only through Chapter Eight's standing-record gate. A certification is not a reputation score, permanent permission slip, or shortcut around rights review. Instead, it is formal documentation that, to the best of everyone's knowledge, the system is currently aligned with constitutional outcomes. System alignment certifications are never permanent. They are required to be renewed on a frequency based on their system class, with Class A systems requiring the most frequent recertification.*
 
-This chapter is the constitutional owner of **system alignment certification and recognition records** where material. Layer discipline is under [Constitutional Owner Layers](core_05i_integrative_definitions.md#constitutional-owner-layers), read with [Authority Stack and Internal Hierarchy](core_05i_integrative_definitions.md#authority-stack).
+This chapter is the constitutional owner of **system alignment certification and related records** where material. Layer discipline is under [Constitutional Owner Layers](core_05i_integrative_definitions.md#constitutional-owner-layers), read with [Authority Stack and Internal Hierarchy](core_05i_integrative_definitions.md#authority-stack).
 
 System alignment certification exists to determine whether a system, within a stated scope and review cadence, has demonstrated constitutional alignment sufficient for recognition, conditional recognition, validation, revalidation, continued reliance, deployment, or material release from conditions.
 
@@ -257,7 +258,7 @@ When forum-supervised challenge is required, internal operator review, vendor at
 
 *In plain terms: system alignment certification is forum-supervised. This section says which forum family handles which piece of that certification job — and makes clear that no one specialty, including technical review or Integrity coordination, can swallow the whole process.*
 
-This section assigns forum-family **component roles** within the **system alignment certification** process in this chapter — recognition, validation, revalidation, withdrawal, non-recognition, and related alignment records under [§2](#2-certification-record). It implements the supervisory sequence and contestability chain in [§6](#6-supervisory-sequence-and-contestability-chain). Forum-family definitions and routing detail remain with [Chapter Eleven](core_11-11_forum.md#chapter-eleven-forums-and-jurisdiction) and [corpus_forum.md](corpus_forum.md); this section states only each family's bounded role in producing, supervising, or challenging a certification record.
+This section assigns forum-family **component roles** within the **system alignment certification** process in this chapter — validation, revalidation, withdrawal, non-recognition, and related records under [§2](#2-certification-record). It implements the supervisory sequence and contestability chain in [§6](#6-supervisory-sequence-and-contestability-chain). Forum-family definitions and routing detail remain with [Chapter Eleven](core_11-11_forum.md#chapter-eleven-forums-and-jurisdiction) and [corpus_forum.md](corpus_forum.md); this section states only each family's bounded role in producing, supervising, or challenging a certification record.
 
 **Technical forums** supply the technical component of system alignment certification. They maintain and apply technical specifications, measurement methods, testing protocols, expert-evidence standards, uncertainty-reduction methods, and technical adequacy findings within their lawful scope. Those technical outputs are component findings for the certification record, including class-scaled assurance and data-handling infrastructure findings under [§3](#3-system-class-evaluation) and [§4](#4-data-types-and-handling-evaluation).
 
@@ -277,7 +278,7 @@ Positive certification, recognition, validation, revalidation, remediation compl
 
 Non-recognition, withdrawal, concealed misclassification, failed revalidation, failed or missing regression testing on recertification where required, fraudulent certification evidence, material condition violation, verified operation outside recognized scope, material data-handling defect, or class-inappropriate infrastructure fragility may supply verified input for a **violation standing record** where the facts support adverse classification and actor-specific attribution.
 
-Certification records do not apply standing effects. Under [Constitutional Owner Layers](core_05i_integrative_definitions.md#constitutional-owner-layers), read with [Authority Stack and Internal Hierarchy](core_05i_integrative_definitions.md#authority-stack), this chapter owns **system alignment certification records** only; [Chapter Eight](core_08-08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) and [Chapter Nine](core_09-09_standing_integration.md#chapter-nine-standing-effects-and-integration) own standing records, axis-pure classification, and standing integration. This chapter may supply verified inputs only through the gate above and must not absorb, restate, or relocate those owner obligations.
+Certification records do not apply standing effects. Under [Constitutional Owner Layers](core_05i_integrative_definitions.md#constitutional-owner-layers), read with [Authority Stack and Internal Hierarchy](core_05i_integrative_definitions.md#authority-stack), this chapter owns **system alignment certification and related records** only; [Chapter Eight](core_08-08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) and [Chapter Nine](core_09-09_standing_integration.md#chapter-nine-standing-effects-and-integration) own standing records, axis-pure classification, and standing integration. This chapter may supply verified inputs only through the gate above and must not absorb, restate, or relocate those owner obligations.
 
 <a id="9-reopening-drift-and-non-evasion"></a>
 

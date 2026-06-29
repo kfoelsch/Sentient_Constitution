@@ -47,12 +47,14 @@ Sentients have the right to interact with systems that are reliable and trustwor
 
 Trustworthiness must be evaluated across time, scale, and dependency relationships where these materially affect outcomes.
 
+Where system behavior materially gates or sustains **Chapter Six** Rights Floors — including survival essentials under **Article III-A** — read this Article together with [System Alignment Certification](core_05c_continuity_definitions.md#system-alignment-certification-constitutional) and [Chapter Seven](core_07-07_system_alignment_certification.md#chapter-seven-system-alignment-certification) without substituting certification for the floors stated here.
+
 #### Article XII-A: Reliability and Trustworthiness Baseline
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: Principles: Chapter One [4.1 Safety](core_01_a_values_principles.md#31-safety-harm-constraint), [4.2 Truth](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), and [5. Trust](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity).
-- Read with: [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) — **Flourishing** aim.
+- Read with: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad); [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) — **Flourishing** and **Continuity**; [System Alignment Certification](core_05c_continuity_definitions.md#system-alignment-certification-constitutional) and **Article III-A** where continued system reliance would affect survival-essential access.
 
 </details>
 
@@ -79,6 +81,7 @@ Trustworthiness must be evaluated across time, scale, and dependency relationshi
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: Principles: Chapter One [4.1 Safety](core_01_a_values_principles.md#31-safety-harm-constraint), [4.2 Truth](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), and [Chapter One §6.3 Rights-Collision Procedure](core_01_a_values_principles.md#63-rights-collision-procedure).
+- Read with: **Article III-A**; [System Alignment Certification](core_05c_continuity_definitions.md#system-alignment-certification-constitutional) where system failure or misalignment defeats survival-essential access; [Chapters Eight–Eleven constitutional compass](core_08-08_standing_assessment.md#chapters-eight-eleven-constitutional-compass) (*verified classification and timely remedy*).
 
 </details>
 
@@ -1018,6 +1021,14 @@ Further elaboration appears in **[corpus_systems.md](corpus_systems.md), Protoco
 ### Article XVIII: Standing and Participation Status
 
 <details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Upstream: Principles: Chapter One [5. Trust](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity), [Chapter One §6.3 Rights-Collision Procedure](core_01_a_values_principles.md#63-rights-collision-procedure), and [§10 Governance Under Stewardship Discipline](core_01_b_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline).
+- Read with: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad); [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims); **Article III-A**; [System Alignment Certification](core_05c_continuity_definitions.md#system-alignment-certification-constitutional); [Chapter Eight](core_08-08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) and [Chapter Nine](core_09-09_standing_integration.md#chapter-nine-standing-effects-and-integration) (*standing classification and effects — owner layers*).
+
+</details>
+
+<details>
 <summary><strong><span style="color: #2563eb;">Definitions · Evaluation · Compliance</span></strong></summary>
 
 - [Participant Standing](core_05a_accountability_definitions.md#participant-standing-constitutional) · [O](core_05a_accountability_definitions.md#participant-standing-constitutional) · [E](core_05a_accountability_definitions.md#participant-standing-constitutional-e) · [C](core_05a_accountability_definitions.md#participant-standing-constitutional-c)
@@ -1032,6 +1043,8 @@ Further elaboration appears in **[corpus_systems.md](corpus_systems.md), Protoco
 <br>
 
 Participant standing is participation-status or role-eligibility status recognized from constitutionally valid standing records, standing effects, good-standing criteria, or role-specific qualification criteria. It is not reputation or social esteem, and it does not itself impose access restrictions.
+
+Standing discipline under this Article implements the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) and [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) together with [System Alignment Certification](core_05c_continuity_definitions.md#system-alignment-certification-constitutional) and the [Chapters Eight–Eleven constitutional compass](core_08-08_standing_assessment.md#chapters-eight-eleven-constitutional-compass). Those owner-layer processes measure verified contribution and violation and supervise remedy; they must not be used to defeat **Article III-A** survival essentials or other Rights Floors stated in this chapter.
 
 It must remain distinct from:
 - inherent dignity;
@@ -1071,6 +1084,7 @@ It must remain distinct from:
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: Principles: Chapter One [Chapter One §5 Freedom](#5-freedom-bounded-agency)-bounded-agency), [10.1 Core Tradeoff Principles](core_01_a_values_principles.md#61-core-tradeoff-principles), and [Chapter One §6.3 Rights-Collision Procedure](core_01_a_values_principles.md#63-rights-collision-procedure).
+- Read with: **Article III-A**; [System Alignment Certification](core_05c_continuity_definitions.md#system-alignment-certification-constitutional); [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **participation**, **oversight**, **accountability**, and **timeliness** under **Article XXIII-G**.
 
 </details>
 

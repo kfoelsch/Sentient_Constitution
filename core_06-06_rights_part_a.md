@@ -26,6 +26,8 @@ Designated implementation layers operationalize these rights but must not narrow
 
 Articles need not repeat this stack where it applies generically.
 
+**Rights-Floor supply and enforcement orientation.** Maintaining Chapter Six Rights Floors — especially survival essentials under **Article III-A** (food, water, shelter, operating-environment, and comparable substrate-agnostic inputs) — is pursued under the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) and [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims). **Flourishing** requires that those essentials remain accessible in practice; **Continuity** requires durable, non-regressive supply and class-scaled revalidation where shared systems gate or sustain delivery. [System Alignment Certification](core_05c_continuity_definitions.md#system-alignment-certification-constitutional) (Chapter Five term; [Chapter Seven](core_07-07_system_alignment_certification.md#chapter-seven-system-alignment-certification) process owner) verifies constitutional alignment of materially impactful systems before recognition or continued reliance at scale, including Rights-Floor compatibility. **Article XII** challenge and audit rights, **Article XVIII-B** non-foreclosure of survival-critical access, and the [Chapters Eight–Eleven constitutional compass](core_08-08_standing_assessment.md#chapters-eight-eleven-constitutional-compass) supply contestability, verified classification, and timely remedy. Those owner-layer mechanisms implement the Tetrad and Aims; they do not substitute for, narrow, or relocate the floors stated in this chapter.
+
 **Reading order and fulfillment.** This chapter uses a **planet-first presentation order** for readability:
 - **Part A** presents **Articles I** and **II** (environmental survival; material stewardship), then **Article III** (survival in **III-A** and equal educational access in **III-B**), then **Article IV** (dependency and resource-flow transparency).
 - **Part B** continues with **Article V**, **Article VI**, **Articles VII–X**, and **Article XI** (equal basic rights; sentient-centered education; self-ownership; likeness, data, and publication; agency; cooperative interaction; stakeholder governance).
@@ -38,6 +40,7 @@ Articles need not repeat this stack where it applies generically.
 - **challenge, review, and proportionate remediation** — **Article XII-B** and Chapter Five (*Redress and Remediation*)
 - **audit records and independent verification** — **Article XV** together with **Chapters Two through Four**
 - **justice, restitution, restriction boundaries, emergencies, and adjudicated rights collision** — **Article XXIII** and **Chapter One**, [Chapter One §6.3.1 Rights-Collision Decision Test](#631-rights-collision-decision-test)
+- **floor supply, system alignment certification, and non-foreclosure of essentials** — **Article III-A**; [System Alignment Certification](core_05c_continuity_definitions.md#system-alignment-certification-constitutional) and [Chapter Seven](core_07-07_system_alignment_certification.md#chapter-seven-system-alignment-certification); **Article XII-B**; **Article XV** where audit applies; **Article XVIII-B**; **Article XXIII-G**; [Chapters Eight–Eleven constitutional compass](core_08-08_standing_assessment.md#chapters-eight-eleven-constitutional-compass)
 
 Shorter cross-references to those themes elsewhere in this chapter incorporate these anchors.
 
@@ -413,6 +416,8 @@ Procedural detail for **Article II** lives in implementation text:
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: Principles: Chapter One [3. Foundational Objective: Wellbeing](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [4.1 Safety](core_01_a_values_principles.md#31-safety-harm-constraint), and [Chapter One §5 Freedom](#5-freedom-bounded-agency)-bounded-agency).
+- Read with: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **participation** in allocation and contest pathways, **oversight** and audit, **accountability** and remedy, **timeliness** under **Article XXIII-G**; [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) — **Flourishing** (survival-essential access) and **Continuity** (durable supply and non-regressive delivery).
+- Downstream: [System Alignment Certification](core_05c_continuity_definitions.md#system-alignment-certification-constitutional) and [Chapter Seven](core_07-07_system_alignment_certification.md#chapter-seven-system-alignment-certification) where systems gate or sustain delivery; **Article XII-B**; **Article XVIII-B**; [Chapters Eight–Eleven constitutional compass](core_08-08_standing_assessment.md#chapters-eight-eleven-constitutional-compass).
 
 </details>
 
@@ -453,6 +458,7 @@ Procedural detail for **Article II** lives in implementation text:
   
   Those rules may structure delivery. They must not be used to defeat minimum access to survival essentials or to impose invidious exclusion contrary to **Articles III** and **V**.
   - Detailed fiscal orientation — including the rule that fees and charges must not undermine minimum access to survival-relevant inputs — is governed by `corpus_institutions.md` **CI-9** (*Classification-linked institutional obligations*), **CI-10** (*Public revenue, fees, recurring charges, and billing integrity*), and **CI-11** (*Resource stewardship and incentive integrity*).
+  - Where materially impactful systems supply, allocate, price, host, or terminate access to survival essentials, [System Alignment Certification](core_05c_continuity_definitions.md#system-alignment-certification-constitutional) under [Chapter Seven](core_07-07_system_alignment_certification.md#chapter-seven-system-alignment-certification) applies without narrowing this floor.
   - This Article does not prescribe a single funding model. Employment, entrepreneurship, voluntary exchange, and other lawful economic activity above any survival floor remain permitted, subject to Chapter One, Chapter Six, and incorporated instruments — including `corpus_systems.md` where market-structuring or high-impact commercial systems apply.
 
 #### Article III-B: Equal Educational Access

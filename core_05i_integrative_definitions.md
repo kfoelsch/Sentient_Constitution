@@ -313,7 +313,7 @@ This cluster is the joint-invocation home for operative corpus identity, authori
 | Definition mechanics | Chapters 02–04 | Definition structure, burden, traceability, verification accessibility | — |
 | Canonical terms | Chapter 05 | O/E/C definitions and dependent clusters | — |
 | Rights Floor | Chapter 06 | Articles I–XXV Rights Floors and rights-level interpretive scope | — |
-| System alignment certification | Chapter 07 | System alignment certification records where material | [corpus_systems.md](corpus_systems.md) |
+| System alignment certification | Chapter 07 | System alignment certification and related records where material; Chapter Five [System Alignment Certification](core_05c_continuity_definitions.md#system-alignment-certification-constitutional) | [corpus_systems.md](corpus_systems.md) |
 | Standing classification | Chapters 08–09 | Contribution / violation / standing classification (Axes I / II), standing integration | — |
 | Anti-constitutional misconduct | Chapter 10 | Final Violation Axis **s** = 7, 8, or 9 classification, criteria, and cross-chapter discipline | — |
 | Forums and jurisdiction | Chapter 11 | Forum families, default venue, jurisdiction, adjudicative routing | [corpus_forum.md](corpus_forum.md) |

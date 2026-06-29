@@ -243,6 +243,42 @@ This band holds definitions under the constitutional [Continuity aim](../core_00
 
 ---
 
+<a id="system-alignment-certification-constitutional"></a>
+
+#### System Alignment Certification
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Constitutional frame: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **oversight**, **accountability**, **participation**, and **timeliness**; [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) — **Flourishing** (primary) and **Continuity**; scales with [material stake](core_00_preamble.md#material-stake).
+- Canonical owner: [Chapter Seven — System Alignment Certification](core_07-07_system_alignment_certification.md#chapter-seven-system-alignment-certification) (*process, record contents, supervisory sequence, and standing-record bridge*); read with [Constitutional Owner Layers](core_05i_integrative_definitions.md#constitutional-owner-layers).
+- Downstream: [Chapter Eight — Standing records and verified-input gate](core_08-08_standing_assessment.md#2-standing-records); [Chapter Eleven](core_11-11_forum.md#chapter-eleven-forums-and-jurisdiction) (*forum supervision*); [Article III-A](core_06-06_rights_part_a.md#article-iii-a-survival) (*survival-essential access floor where certification gates delivery or continued operation*).
+- Read with: [Classification-Scaled Governance](core_05o_oversight_definitions.md#classification-scaled-governance), [Auditability](core_05o_oversight_definitions.md#auditability), [Contestability](core_05a_accountability_definitions.md#contestability), [Timely Resolution](core_05a_accountability_definitions.md#timely-resolution-constitutional), [Verified Inputs for Standing](core_05a_accountability_definitions.md#verified-inputs-for-standing), [Standing Record](core_05a_accountability_definitions.md#standing-record-chapter-six), [Trustworthiness](core_05c_continuity_definitions.md#trustworthiness), [System Boundaries](core_05c_continuity_definitions.md#system-boundaries), [System Capture](core_05c_continuity_definitions.md#system-capture), and [corpus_systems.md](corpus_systems.md) **CS-4 — System classification and handling**.
+
+</details>
+
+<br>
+
+*In plain terms: **system alignment certification** (non-operative shorthand: **SAC**) is the forum-supervised check that a system is actually aligned with constitutional outcomes before people rely on it at scale — including checks that critical Rights Floors such as food, water, and shelter are not quietly defeated by how the system is built, classified, or operated.*
+
+- O: The forum-supervised process — and the bounded **System Alignment Certification Record** it produces — by which a [System](core_05c_continuity_definitions.md#system-definition), within stated scope, class, time window, and review cadence, demonstrates constitutional alignment sufficient for recognition, conditional recognition, validation, revalidation, continued reliance, deployment, or material release from conditions. Canonical process, record contents, supervisory sequence, contestability chain, and standing-record bridge are stated in [Chapter Seven](core_07-07_system_alignment_certification.md#chapter-seven-system-alignment-certification); this entry is the Chapter Five meaning only. System alignment certification operates under the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) and [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims): it supplies **oversight** and **accountability** verification; preserves **participation** and **contestability** through forum-supervised review; and must remain **timely** under [Timely Resolution](core_05a_accountability_definitions.md#timely-resolution-constitutional) and **Article XXIII-G**. It supports **Flourishing** by verifying that systems materially affecting sentients preserve wellbeing, agency, and [Chapter Six](core_06-06_rights_part_a.md#chapter-six-foundational-rights) Rights Floors — including survival-essential access under **Article III-A** where deployment, operation, or continued reliance would supply, gate, or sustain food, water, shelter, operating-environment, or comparable substrate-agnostic essentials. It supports **Continuity** through class-scaled revalidation, regression testing where required, drift reopening, and non-regressive review. A **System Alignment Certification Record** is scope-bound, time-bound, and contestable; it is not a reputation score, permanent permission slip, vendor attestation, internal sign-off, or shortcut around Rights-Floor review, [Sentience Status Adjudication](core_05p_participation_definitions.md#sentience-status-adjudication-constitutional), or [Chapter Eight](core_08-08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) standing classification.
+<a id="system-alignment-certification-constitutional-e"></a>
+- E: Evaluate whether:
+  1. materially impactful alignment review ran through forum-supervised process under [Chapter Seven](core_07-07_system_alignment_certification.md#chapter-seven-system-alignment-certification) and applicable [Chapter Eleven](core_11-11_forum.md#chapter-eleven-forums-and-jurisdiction) routing;
+  2. the record states system identity, scope, class assignment and rationale, data-handling posture, technical and stakeholder review components, supervisory sequence, outcome, reliance limits, revalidation cadence, and contestability chain as Chapter Seven requires;
+  3. class-scaled assurance, regression testing on recertification where required, and Rights-Floor, accessibility, dependency, and ecological components were actually evaluated rather than asserted;
+  4. recognition or continued reliance does not foreclose survival-essential access, challenge, audit, or remedy pathways protected under **Article III-A**, **Article XII-B**, **Article XVIII-B**, or applicable incorporated procedure; and
+  5. any feed into [Chapter Eight](core_08-08_standing_assessment.md#2-standing-records) standing records satisfies [Verified Inputs for Standing](core_05a_accountability_definitions.md#verified-inputs-for-standing) and does not substitute certification for standing classification or standing effects.
+<a id="system-alignment-certification-constitutional-c"></a>
+- C: Non-compliant:
+  - treating vendor attestation, internal operator review, or technical sign-off as a substitute for forum-supervised system alignment certification where Chapter Seven requires it;
+  - non-time-bound, non-contestable, or concealed certification records; certification finished while required component findings remain unresolved;
+  - class understatement, missing regression coverage on required recertification, or operation outside recognized scope treated as aligned;
+  - using certification, recognition, or conditional reliance to narrow, bypass, or defeat **Chapter Six** Rights Floors — including **Article III-A** survival essentials — or to delay [Sentience Status Adjudication](core_05p_participation_definitions.md#sentience-status-adjudication-constitutional) where materially implicated;
+  - feeding [Chapter Eight](core_08-08_standing_assessment.md#2-standing-records) standing classification from unverified, uncontested, or dispute-phase material; or treating a certification record as a standing record, standing effect, or merged merit score.
+
+---
+
 <a id="system-capture"></a>
 
 #### System Capture

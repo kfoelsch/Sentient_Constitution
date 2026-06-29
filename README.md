@@ -43,7 +43,7 @@ The corpus is written in plain language with low jargon to improve accessibility
 
 ### Standing pipeline and forums
 
-- **Chapter Seven** — system alignment certification and recognition records before standing — [`core_07-07_system_alignment_certification.md`](core_07-07_system_alignment_certification.md)
+- **Chapter Seven** — system alignment certification records before standing — [`core_07-07_system_alignment_certification.md`](core_07-07_system_alignment_certification.md)
 - **Chapters Eight–Eleven compass** — Tetrad / Aims reader map for the standing and adjudication pipeline — [`#chapters-eight-eleven-constitutional-compass`](core_08-08_standing_assessment.md#chapters-eight-eleven-constitutional-compass)
 - **Chapter Eight** — standing records, verified inputs, slot grammar, contribution / violation classification — [`core_08-08_standing_assessment.md`](core_08-08_standing_assessment.md)
 - **Chapter Nine** — standing effects, attachments, descriptors, locks, enforcement — [`core_09-09_standing_integration.md`](core_09-09_standing_integration.md)
@@ -78,7 +78,7 @@ Cross-topic entry points not spelled out in the headings above:
 
 - Burden of proof, traceability, verification → **Chapter Four** ([`core_02-04_definition_mechanics.md`](core_02-04_definition_mechanics.md))
 - Constitutional Tetrad, Two Constitutional Aims, material stake → **Chapter 00 §1 The Model** ([`#constitutional-tetrad`](core_00_preamble.md#constitutional-tetrad), [`#two-constitutional-aims`](core_00_preamble.md#two-constitutional-aims), [`#material-stake`](core_00_preamble.md#material-stake)); Chapter One develops the aims into operative principles
-- System alignment certification and recognition records → **Chapter Seven**
+- System alignment certification records → **Chapter Seven**
 - Contribution / violation classification (Axis I and II) → **Chapter Eight**
 - Chapters Eight–Eleven compass (Tetrad / Aims) → [`#chapters-eight-eleven-constitutional-compass`](core_08-08_standing_assessment.md#chapters-eight-eleven-constitutional-compass)
 - Standing locks and integration consequences → **Chapter Nine**
