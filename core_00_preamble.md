@@ -23,7 +23,7 @@ No system may preserve legitimacy through avoidable suffering, persistent neglig
 
 ### 1. The Model
 
-<a id="the-model"></a><a id="constitutional-tetrad"></a>Those important systems are governed and run under four duties, called the [**Constitutional Tetrad**](#constitutional-tetrad). It lays out the general duties essential systems must meet. The strength of those duties depends on the <a id="material-stake"></a>[**material stake**](#material-stake): how much impact, dependence, and risk are involved. The higher the stake, the stronger the duties must be.
+<a id="the-model"></a><a id="constitutional-tetrad"></a>The critical systems that support sentient life, both biologically and materially, are governed and run under four duties, called the [**Constitutional Tetrad**](#constitutional-tetrad). It lays out the general duties those systems must meet. The strength of those duties depends on the <a id="material-stake"></a>[**material stake**](#material-stake): how much impact, dependence, and risk are involved. The higher the stake, the stronger the duties must be.
 
 - **participation** — affected sentients get a real voice, fair representation, a fair chance to challenge decisions, and access to roles that matter in proportion to what's at stake
 - **oversight** — someone is watching, checking, verifying, and keeping records so problems can be found; independent reviewers can constrain bad choices
