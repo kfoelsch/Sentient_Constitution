@@ -50,9 +50,9 @@
 
 <br>
 
-*In plain terms: Chapter Six states the basic rights no sentient may be pushed below. Other chapters help implement, measure, certify, and enforce those rights, but they do not get to shrink them.*
+*In plain terms: Chapter Six states the basic rights no sentient may be pushed below. Those Rights Floors protect **Flourishing** and **Continuity** under the [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) and must remain available, reviewable, and enforceable through the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **participation**, **oversight**, **accountability**, and **timeliness** — scaled to [material stake](core_00_preamble.md#material-stake). Other chapters help implement, measure, certify, and enforce those rights, but they do not get to shrink them.*
 
-Chapter Six is the constitutional owner of **Rights Floors** and rights-level interpretation. A Rights Floor is a baseline protection: what must remain available, reviewable, and enforceable before later governance, certification, classification, or implementation choices can be accepted. The broader constitutional stack explains how that floor is interpreted, limited, verified, and enforced. Unless a provision in this chapter expressly says otherwise, every Chapter Six right is read with:
+Chapter Six is the constitutional owner of **Rights Floors** and rights-level interpretation. A Rights Floor is a baseline protection: what must remain available, reviewable, and enforceable before later governance, certification, classification, or implementation choices can be accepted. Those floors serve the [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims): **Flourishing** requires that baseline protections remain accessible in practice; **Continuity** requires that they remain durable, non-regressive, and repairable over time. Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **participation**, **oversight**, **accountability**, and **timeliness** — scaled to [material stake](core_00_preamble.md#material-stake). The broader constitutional stack explains how that floor is interpreted, limited, verified, and enforced. Unless a provision in this chapter expressly says otherwise, every Chapter Six right is read with:
 - **Chapter One**, including:
   - **value constraints** — Safety, Truth, Necessity, Proportionality, and systemic evaluation of local, aggregate, delayed, and cross-system effects;
   - **interaction discipline** — [Chapter One §6 Interaction and Conflict Resolution](core_01_a_values_principles.md#6-interaction-and-conflict-resolution);
@@ -92,7 +92,9 @@ Shorter cross-references to those themes elsewhere in this chapter incorporate t
 
 <strong><span style="color: #2563eb;">Definition:</span></strong> [Environmental Preconditions](core_05c_continuity_definitions.md#environmental-preconditions-constitutional) · [O](core_05c_continuity_definitions.md#environmental-preconditions-constitutional) · [E](core_05c_continuity_definitions.md#environmental-preconditions-constitutional-e) · [C](core_05c_continuity_definitions.md#environmental-preconditions-constitutional-c)
 
-Every sentient depends on Earth's physical environment and living systems. Protecting and restoring them is therefore a shared interest. Chapter Five defines those conditions under **Environmental Preconditions**. When that definition is relevant to the situation, **Chapters Two through Four** also apply — for traceable records, independent verification, stable definitions, and blocking evasion.
+*In plain terms: **Article I** is the planet-first Rights Floor — Earth's life-support systems must hold so **Flourishing** and **Continuity** remain possible for every sentient, and later governance cannot shrink that floor through certification, classification, or implementation choices.*
+
+Every sentient depends on Earth's physical environment and living systems. Protecting and restoring them is therefore a shared constitutional interest. This Article states the Rights Floor for environmental survival under the [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims): **Flourishing** requires that sentients retain access to life-supporting conditions; **Continuity** requires durable ecological integrity, sustainability, and intergenerational repair where material harm would foreclose future wellbeing. Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **participation** in materially consequential environmental decisions, **oversight** through traceable integrity and footprint records, **accountability** for material harm and evasion, and **timeliness** in detection and remedy — scaled to [material stake](core_00_preamble.md#material-stake). Chapter Five defines those conditions under **Environmental Preconditions**. When that definition is relevant to the situation, **Chapters Two through Four** also apply — for traceable records, independent verification, stable definitions, and blocking evasion.
 
 #### Article I-A: Environmental Preconditions and Ecological Integrity
 <details>
@@ -231,7 +233,9 @@ Every sentient depends on Earth's physical environment and living systems. Prote
 
 ### Article II: Material Stewardship and Durable-Use Integrity
 
-This Article states **constitutional floors** for the material stewardship of durable and network-dependent products. Interpretation must remain consistent with **Article I** (*Environmental Survival*) and with Chapter Five where ecological footprint, intergenerational responsibility, and materiality apply.
+*In plain terms: **Article II** is the material-stewardship Rights Floor — durable and network-dependent products must be designed, described, and supported honestly so **Flourishing** is not defeated by misleading longevity claims or blocked repair paths, and **Continuity** is not defeated by avoidable premature discard or hidden lifecycle burden.*
+
+This Article states **constitutional floors** for the material stewardship of durable and network-dependent products under the [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims): **Flourishing** requires that sentients can rely on honest lifecycle representation and practicable repair and maintenance; **Continuity** requires durable-use integrity, intergenerational responsibility, and non-regressive support for products on which communities depend. Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **participation** in materially consequential stewardship decisions, **oversight** through auditable lifecycle and support records, **accountability** for misrepresentation and avoidable obsolescence, and **timeliness** in remedy when support windows lapse — scaled to [material stake](core_00_preamble.md#material-stake). Interpretation must remain consistent with **Article I** (*Environmental Survival*) and with Chapter Five where ecological footprint, intergenerational responsibility, and materiality apply.
 
 The canonical Chapter Five anchors for those concepts live in the **Article II-A** (*Material Stewardship and Lifecycle Honesty*) *Definitions · Evaluation · Compliance* widget, which is where this Article operatively invokes them. The opening sentence above is a roadmap pointer under [doc_architecture.md](doc_architecture.md) rule 12 *Roadmap exclusion* and does not re-invoke those concepts at the Article-opener level.
 
@@ -262,8 +266,8 @@ Procedural detail for **Article II** (*Material Stewardship and Durable-Use Inte
 *In plain terms: durable goods must be designed and described honestly, so that buyers are not pushed into avoidable replacement or misled about how long the product will last.*
 
 - **Floors:** Producers and operators of physical goods, and of materially equivalent durable products offered into general use, must design, represent, and support them so that:
-  - avoidable premature discard is constrained relative to feasible alternatives;
-  - misrepresented longevity is constrained relative to feasible alternatives.
+  - products must not be designed or supported so that sentients must replace them sooner than necessary when a reasonably available alternative would last longer;
+  - durability, lifespan, and support claims must not be materially false or misleading when honest claims were feasible.
   
   Interpretation must remain consistent with **Article I-B** (*Ecological Footprint and Transparency*), **Article I-C** (*Intergenerational Responsibility*), **Truth (Constitutional Constraint)**, **Article XII** (*Right to Reliable and Trustworthy Systems*) (including **Article XII-C** (*Prohibition of False Trust and Misleading Reliance*) where reliance is induced), and Chapter Five (**Ecological Footprint**; **Intergenerational Responsibility**; **Materiality**).
 - **Records:** Where **Materiality** and incorporated classification require, operators must maintain stakeholder-accessible, auditable records of:
@@ -304,7 +308,7 @@ Procedural detail for **Article II** (*Material Stewardship and Durable-Use Inte
   
   OEM-only or proprietary lockout is permitted only where the operator can demonstrate **Necessity** and **Proportionality** for safety, security, **Truth**, or binding law.
   
-  Contract terms or technical measures whose primary effect is unlawful repair foreclosure — without such justification — implicate **Article XII-D** (*Incentive-Alignment Constraint*) where they preserve misaligned revenue at sentients' expense.
+  When contract terms or technical restrictions mainly block lawful repair — without the safety, security, **Truth**, or legal justification required above — they also trigger **Article XII-D** (*Incentive-Alignment Constraint*) if their main effect is to protect unfair revenue at sentients' expense.
 
 #### Article II-C: Designed Obsolescence and Incentive Discipline
 <details>
@@ -328,11 +332,13 @@ Procedural detail for **Article II** (*Material Stewardship and Durable-Use Inte
 
 *In plain terms: you may not shorten useful life on purpose, nor use software updates mainly to push new purchases, when the foreseeable effect is to pressure **sentients** to discard or replace goods that could still reasonably serve them.*
 
-- **Floors:** A producer or operator violates this Article — and **Chapter One**, section 7.2, and **Article XII-D** (*Incentive-Alignment Constraint*) where incentives reward discard or withheld repair enablers — when the design or operation of products or embedded software makes either of the following the foreseeable primary outcome of normal, lawful use or of discretionary remote update policy:
-  - premature loss of useful function;
-  - coerced replacement.
+- **Floors:** A producer or operator violates this Article when the design or everyday operation of a product or embedded software — including discretionary remote updates — can reasonably be expected to make either outcome the main result of normal lawful use:
+  - the product stops being useful sooner than it should; or
+  - sentients are pushed to replace it when replacement is not reasonably necessary.
   
-  This floor does not apply where the operator can document **Necessity** and **Proportionality** — for example, safety remediation, security response, or genuine interoperability limits. Those reasons must not substitute for feasible durable design.
+  When incentives reward discard or withholding repair tools, parts, and documentation, this also triggers [Chapter One §10.2 Incentive Alignment and System Capture](core_01_b_stewardship_capacity_principles.md#102-incentive-alignment-and-system-capture) and **Article XII-D** (*Incentive-Alignment Constraint*).
+  
+  This floor does not apply when the operator can document **Necessity** and **Proportionality** — for example, a genuine safety fix, security response, or real interoperability limit. Those reasons must not replace a durable design that was reasonably available.
 
 #### Article II-D: Post-Sale Access and Subscription Integrity
 <details>
@@ -358,16 +364,17 @@ Procedural detail for **Article II** (*Material Stewardship and Durable-Use Inte
 
 *In plain terms: a feature you bought outright cannot be quietly turned into a subscription, and any relevant operator dependencies including infrastructure, software, and services, must be disclosed up front.*
 
-- **Floors:** Operators must not use remote policy, authentication, or license changes to convert materially sold capabilities into subscription-only access. Any such conversion requires a new, explicit, informed, and revocable agreement that satisfies **Article IX-B** (*Stakeholder Role and Participation Rights*), **Meaningful Agency**, and **Truth**.
-  - Silent, coercive, or dependency-forced conversion implicates **Article XII-C** (*Prohibition of False Trust and Misleading Reliance*) and Chapter Five **Trust Degradation and Misleading Reliance** where reliance is induced inconsistently with actual rights of use.
-  - Operators must make foreseeable operator-service dependency for core or prominently marketed features clear at the time the materially binding commitment is made.
-  - Measures whose primary commercial purpose is recurring rent for functionality already transferred — without **Necessity** tied to lawful cost recovery, security, safety, or proportionate service — implicate **Article XII-D** (*Incentive-Alignment Constraint*).
+- **Floors:** Operators must not use software or firmware updates, authentication or account-access changes, or license changes to turn capabilities that were sold outright into subscription-only access. Any such change requires a new agreement that is explicit, informed, and revocable, and that satisfies **Article IX-B** (*Stakeholder Role and Participation Rights*), **Meaningful Agency**, and **Truth**.
+  - Silent, coercive, or lock-in-driven conversion also triggers **Article XII-C** (*Prohibition of False Trust and Misleading Reliance*) and Chapter Five **Trust Degradation and Misleading Reliance** when sentients were led to rely on use rights that the operator did not honor.
+  - Operators must disclose at purchase — when the binding commitment is made — any foreseeable need to rely on the operator's ongoing services for core or prominently marketed features.
+  - Billing or access rules whose main commercial purpose is recurring payment for functionality already sold outright also trigger **Article XII-D** (*Incentive-Alignment Constraint*) unless the operator can show **Necessity** tied to lawful cost recovery, security, safety, or proportionate ongoing service.
 
 #### Article II-E: Info-Sphere Dependency, Continuity, and Operator Non-Viability
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: Principles: Chapter One [4.1 Safety](core_01_a_values_principles.md#31-safety-harm-constraint), [10.1 Core Tradeoff Principles](core_01_a_values_principles.md#61-core-tradeoff-principles), and [11.1 Required Evaluation Factors](core_01_b_stewardship_capacity_principles.md#131-required-evaluation-factors).
+- Read with: [Article XIX-A](core_06-06_rights_part_c.md#article-xix-a-portability-rights) (*Portability Rights*); [corpus_systems.md](corpus_systems.md) **CS-3 — Information types and handling**; `corpus_joint_structure.md` **CJS-5.17** (*interoperability, portability, and exit-integrity terms*) and **CJS-5.18** (*data-retention and lifecycle-integrity terms*); [Chapter One §10.2.4 Successor responsibility and formal-structure non-escape](core_01_b_stewardship_capacity_principles.md#1024-successor-responsibility-and-formal-structure-non-escape); [Chapter Nine §5.1](core_09-09_standing_integration.md#51-remediation-capacity-and-funding) and [§5.4](core_09-09_standing_integration.md#54-anti-evasion-and-look-through-authority).
 
 </details>
 
@@ -384,7 +391,7 @@ Procedural detail for **Article II** (*Material Stewardship and Durable-Use Inte
 
 <br>
 
-*In plain terms: when a product needs the operator's servers to work, the operator must say so up front, plan for what happens if the service shuts down, and not let bankruptcy or a sale erase those continuity duties.*
+*In plain terms: when a product needs the operator's servers to work, the operator must say so up front, must not trap continuity-critical data in forms that cannot be exported except where confidentiality truly requires it, plan for what happens if the service shuts down, and not let bankruptcy or a sale erase those continuity duties.*
 
 - **Floors:** For products whose lawful core use depends on operator-controlled network services, operators must disclose — before any materially binding commitment, and in proportion to **Materiality** and dependency — all of the following:
   - what requires ongoing operator access;
@@ -392,21 +399,23 @@ Procedural detail for **Article II** (*Material Stewardship and Durable-Use Inte
   - where data is located;
   - what portability exists;
   - what continuity measures are in place.
-- **Continuity planning:** Incorporated **high-dependency** categories require practicable continuity planning. Examples:
+  
+  Operators must not collect or retain continuity-critical sentient data in forms that cannot be exported, migrated, or transferred under the disclosed continuity and export paths, except where **Necessity** requires confidentiality, security, or lawful non-disclosure — in which case the limitation, scope, and any lawful substitute export path must be disclosed before commitment. Read with [corpus_systems.md](corpus_systems.md) **CS-3 — Information types and handling**, **section VI.5** (*Continuity-critical collection and exportability*), and **Article XIX-A** (*Portability Rights*).
+- **Continuity planning:** For incorporated **high-dependency** product categories, operators must maintain workable plans for what happens if the service stops or the operator goes away. Examples:
   - escrow;
   - successor handoff;
   - local or peer modes;
   - export paths;
   - comparable commitments.
   
-  Those measures must prevent externalized discard and captive loss from substituting for **Intergenerational Responsibility** and **Article I-C** (*Intergenerational Responsibility*).
+  Those measures must stop operators from dumping long-term harm onto sentients — or trapping them in products they can no longer use — instead of meeting **Intergenerational Responsibility** and **Article I-C** (*Intergenerational Responsibility*).
 - **Service shutdown:** Cessation of material services must follow:
   - documented notice;
   - proportionate migration or minimum-operation windows;
-  - good-faith data preservation and export where feasible.
+  - usable export or handoff of continuity-critical data under the disclosed export paths, preserved through shutdown and migration windows — not merely a discretionary promise to try.
   
-  Conduct evaluated under Chapter Five **Negligence** — including neglect-mediated deterioration where applicable — remains subject to constitutional standards.
-- **No corporate-form escape:** Receivership, restructuring, or asset transfer does not by itself extinguish continuity requirements. Successors or estates inherit proportionate duties unless less harmful alternatives are demonstrably infeasible under **Necessity** review.
+  Operators can still be held to constitutional standards when their conduct qualifies as **Negligence** under Chapter Five — including harm that builds up over time because maintenance, support, or continuity duties were neglected.
+- **Successor and formal-structure duties:** Restructuring, sale, receivership, or insolvency does not by itself extinguish the continuity duties stated in this Article. Read with [Chapter One §10.2.4 Successor responsibility and formal-structure non-escape](core_01_b_stewardship_capacity_principles.md#1024-successor-responsibility-and-formal-structure-non-escape) and [Chapter Nine §5.1](core_09-09_standing_integration.md#51-remediation-capacity-and-funding) / [§5.4](core_09-09_standing_integration.md#54-anti-evasion-and-look-through-authority).
 
 **Remediation** for **Article II** (*Material Stewardship and Durable-Use Integrity*) follows the **interpretive hubs** stated at the opening of this chapter (challenge and redress; justice and escalation).
 

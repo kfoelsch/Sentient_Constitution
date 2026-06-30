@@ -368,7 +368,7 @@ Governance is **necessary** but **not sufficient**. It must give way to **Stewar
 
 *In plain terms: governance that keeps hitting quarterly targets while hollowing safety, truth, participation, or the future is not "working governance" — it is a defect this Constitution names and corrects through the incentive and capture discipline below. Incentives acting on operators, agents, and system components — including compensation, promotion, equity, and comparable reward pathways — must pull toward constitutional outcomes. They may not quietly reward behavior that undermines Safety, Truth, rights, stability, or meaningful agency, whether directly, through delay, through aggregation, or through arrangements that materially depend on misconduct or its concealment.*
 
-Systems must detect, disclose, and correct **short-horizon governance defects** ([Short-Horizon Governance Defect](core_05c_continuity_definitions.md#short-horizon-governance-defect-constitutional)) through [Review and Correction Duty](core_05c_continuity_definitions.md#review-and-correction-duty-constitutional), contestable oversight, and the alignment, misalignment-correction, and capture-response rules in **§§10.2.1–12.3**.
+Systems must detect, disclose, and correct **short-horizon governance defects** ([Short-Horizon Governance Defect](core_05c_continuity_definitions.md#short-horizon-governance-defect-constitutional)) through [Review and Correction Duty](core_05c_continuity_definitions.md#review-and-correction-duty-constitutional), contestable oversight, and the alignment, misalignment-correction, capture-response, and successor-responsibility rules in **§§10.2.1–10.2.4** and **§§12.1–12.3**.
 
 Systems must ensure that incentive structures acting on agents, operators, or constituent components are aligned with the values and constraints defined in this Constitution.
 
@@ -483,6 +483,19 @@ Where in-system mitigation is infeasible or capture persists after proportionate
 - evaluate misuse consistent with [§13.1 Required Evaluation Factors](#131-required-evaluation-factors), including coordination to affect resolving events and scale dynamics.
 
 **Implementation custody.** This chapter states constitutional direction, not the detailed licensing, criminal, tax, or cross-border enforcement rules for gambling and contingent settlement. Those details belong in adopting law and designated incorporated instruments — including [corpus_systems.md](corpus_systems.md) for classifying and scaling stewardship of materially impactful systems, and [corpus_institutions.md](corpus_institutions.md) for conflict and procedure rules where institutions supervise or constitutionally govern such activity.
+
+##### 10.2.4 Successor responsibility and formal-structure non-escape
+
+<a id="1024-successor-responsibility-and-formal-structure-non-escape"></a>
+<a id="1024-formal-structure-non-escape"></a>
+
+*In plain terms: bankruptcy, a sale, a reorganization, or changing corporate labels cannot by themselves wipe out constitutional duties. Whoever continues the work — successors, estates, receivers, or comparable transferees — inherits proportionate obligations unless a less harmful path is shown under **Necessity**.*
+
+Receivership, restructuring, asset transfer, dissolution, insolvency, or comparable change of formal identity does **not** by itself extinguish verified constitutional duties — including continuity, remedy, export, migration, environmental, and other Rights-Floor obligations that remain material after the change.
+
+Successors, estates, receivers, and comparable transferees inherit proportionate duties to satisfy or lawfully transfer those obligations unless less harmful alternatives are demonstrably infeasible under [Necessity](core_05a_accountability_definitions.md#necessity) and [Proportionality](core_05a_accountability_definitions.md#proportionality) review.
+
+Read with [Chapter Nine §5.1](core_09-09_standing_integration.md#51-remediation-capacity-and-funding) and [§5.4](core_09-09_standing_integration.md#54-anti-evasion-and-look-through-authority); [Accountability](core_05a_accountability_definitions.md#accountability); [corpus_systems.md](corpus_systems.md) **Protocol C — Justice safeguards, restitution, and rehabilitation** (*Entity continuity checks*).
 
 #### 10.3 Stewardship and Operator Incentive Alignment
 

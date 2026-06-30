@@ -115,13 +115,13 @@ Each summary states what the chapter does and what it produces.
 <a id="5-key-practical-process-pipelines"></a>
 ### 5. Key Practical Process Pipelines
 
-Chapters Seven through Eleven link into one practical chain. Together they turn constitutional duties into records people can check, challenge, and repair — so the [**Constitutional Tetrad**](#constitutional-tetrad), [**Two Constitutional Aims**](#two-constitutional-aims), and Rights Floors stay real in day-to-day life, not only on paper.
+Chapters Seven through Eleven link into one practical chain. Together they turn constitutional duties into records sentients can check, challenge, and repair — so the [**Constitutional Tetrad**](#constitutional-tetrad), [**Two Constitutional Aims**](#two-constitutional-aims), and Rights Floors stay real in day-to-day life, not only on paper.
 
 Each step below states what the process does and what it produces.
 
 **System alignment certification** ([Chapter Seven](core_07-07_system_alignment_certification.md#chapter-seven-system-alignment-certification))
 
-- **What it does:** Before a system that materially affects sentients can be recognized or relied on at scale, evidence is gathered and reviewed under forum supervision — including whether the system respects survival essentials, safety, participation, and other constitutional floors. People with standing can challenge the result. High-risk systems must be recertified on a regular schedule; certification is never permanent.
+- **What it does:** Before a system that materially affects sentients can be recognized or relied on at scale, evidence is gathered and reviewed under forum supervision — including whether the system respects survival essentials, safety, participation, and other constitutional floors. Sentients with standing can challenge the result. High-risk systems must be recertified on a regular schedule; certification is never permanent.
 - **What it produces:** A **system alignment certification record** — a bounded, contestable answer to whether that system is aligned enough to recognize, continue relying on, deploy, or release from conditions *right now*, within a stated scope and time window.
 
 **Standing measurement** ([Chapter Eight](core_08-08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model))

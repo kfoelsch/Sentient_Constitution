@@ -1391,6 +1391,10 @@ Constitutional standing rules are non-compliant if they exist only as paper clas
 
 Correction, repair, compensation, monitoring, safeguard implementation, and recurrence prevention must be supported by real institutional, technical, and financial capacity. Expense, insolvency, administrative inconvenience, or restructuring does not by itself defeat a verified remediation obligation.
 
+Receivership, asset transfer, reorganization, dissolution, or comparable change of formal identity does not by itself extinguish verified constitutional duties. Successors, estates, receivers, and comparable transferees inherit proportionate obligations to satisfy or lawfully transfer those duties unless less harmful alternatives are demonstrably infeasible under [Necessity](core_05a_accountability_definitions.md#necessity) and [Proportionality](core_05a_accountability_definitions.md#proportionality) — read with [Chapter One §10.2.4 Successor responsibility and formal-structure non-escape](core_01_b_stewardship_capacity_principles.md#1024-successor-responsibility-and-formal-structure-non-escape).
+
+Those duties include continuity-critical obligations where material — including export, migration, service handoff, environmental repair, remedy funding, and other Rights-Floor duties that remain live after the change. Read with **Article II-E** (*Info-Sphere Dependency, Continuity, and Operator Non-Viability*), **Article I** (*Environmental Survival*), **Article III-A** (*Survival*), **Article XIX-A** (*Portability Rights*), and applicable continuity rules under incorporated implementation text.
+
 Where a factory, institution, platform, or other actor creates pollution, injury, rights burdens, or systemic risk, the constitutional question is what repair, monitoring, compensation, prevention, or successor responsibility is required under verified facts and applicable law, not whether the responsible structure prefers to externalize the cost.
 
 Adopted implementation may specify funding mechanisms, asset recovery, insurance, cleanup funds, successor responsibility, reserve requirements, public remedy funds, or comparable devices. Those mechanisms must not be designed or applied to externalize the cost of verified harm onto affected sentients, communities, ecological subjects, or public remedy systems where responsible actors can lawfully bear it.
@@ -1409,9 +1413,9 @@ Adopters must maintain lawful cooperation, recognition, transfer, [Evidence Pres
 
 #### 5.4 Anti-evasion and look-through authority
 
-Where a sentient, institution, platform, enterprise, state organ, or coordinated group uses formal structure to avoid verified obligations, forums and implementation systems must be able to look through form to functional control, benefit, continuity, and responsibility. Relevant evasion patterns include reincorporation, shell structures, contractual layering, nominal ownership transfer, asset stripping, forum shopping, record fragmentation, and successor entities that continue the same harmful function.
+Where a sentient, institution, platform, enterprise, state organ, or coordinated group uses formal structure to avoid verified obligations, forums and implementation systems must be able to look through form to functional control, benefit, continuity, and responsibility. Relevant evasion patterns include reincorporation, shell structures, contractual layering, nominal ownership transfer, asset stripping, forum shopping, record fragmentation, receivership or restructuring used to shed live duties, and successor entities that continue the same harmful function.
 
-Evasion can aggravate violation nature when it conceals responsibility, frustrates audit, blocks remedy, or repeats harm after notice. Anti-evasion tools must remain evidence-based, contestable, proportionate, and reviewable; they authorize functional accountability, not guilt by association.
+Evasion can aggravate violation nature when it conceals responsibility, frustrates audit, blocks remedy, or repeats harm after notice. Anti-evasion tools must remain evidence-based, contestable, proportionate, and reviewable; they authorize functional accountability, not guilt by association. Read with [Chapter One §10.2.4 Successor responsibility and formal-structure non-escape](core_01_b_stewardship_capacity_principles.md#1024-successor-responsibility-and-formal-structure-non-escape).
 
 #### 5.5 Reassessment after real correction
 

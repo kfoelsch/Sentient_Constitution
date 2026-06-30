@@ -9,7 +9,7 @@ Requirements and limitations scale proportionally with system classification and
 
 Therefore, all data must be identified as belonging to one or more of the types defined in CS-3 — Information types and handling. Where multiple classifications apply, the most restrictive applicable protections govern, subject to proportionality (**CJS-5.11** (*distributed and proportional authority terms*) and **CJS-5.7** (*quorum and participatory legitimacy terms*)).
 
-Handling must align with Sentient Constitution Chapter Six and scale with system class under CS-4 — System classification and handling. Where data handling supports material portability, audit, repair, continuity, migration, or cross-implementation operation for **Class A**, **Class B**, or **Class C** systems, format, schema, API, and interchange-protocol choices must also satisfy `corpus_joint_structure.md` **CJS-5.17** (*interoperability, portability, and exit-integrity terms*).
+Handling must align with Sentient Constitution Chapter Six and scale with system class under CS-4 — System classification and handling. Where data handling supports material portability, audit, repair, continuity, migration, or cross-implementation operation for **Class A**, **Class B**, or **Class C** systems, format, schema, API, and interchange-protocol choices must also satisfy `corpus_joint_structure.md` **CJS-5.17** (*interoperability, portability, and exit-integrity terms*). **Continuity-critical collection and exportability** for those classes is stated in **section VI.5** below and read with **Article II-E** (*Info-Sphere Dependency, Continuity, and Operator Non-Viability*).
 
 **Class A/B/C public-interest visibility default.** For **Class A**, **Class B**, and **Class C** systems, data necessary to understand system purpose, classification, dependency structure, operational status, material risks, performance, failures, governance, audit outcomes, stakeholder effects, and constitutional compliance is **public by default**.
 
@@ -151,6 +151,14 @@ Identity systems must preserve **continuity** where desired, **separation** wher
 Systems must **not** create **persistent or hidden** linkages between identities and other data domains without justification. **They** must **not** **enable cross-domain correlation** that undermines classification protections.
 
 All linkage mechanisms must remain **transparent (`corpus_joint_structure.md` CJS-5.10 (*disclosure sufficiency and observability terms*))**, **auditable (`corpus_joint_structure.md` CJS-5.3 (*auditability and reconstructability terms*))**, and **subject to revalidation (`corpus_joint_structure.md` CJS-5.18 (*data-retention and lifecycle-integrity terms*))**.
+
+**5. Continuity-critical collection and exportability.** For **Class A**, **Class B**, and **Class C** systems, operators must **not** collect or retain continuity-critical sentient data in forms that cannot be exported, migrated, or transferred under disclosed continuity and export paths, except where **Necessity** requires confidentiality, security, **Type N** or comparable protected-boundary constraints, or lawful non-disclosure.
+
+Where export is limited, the limitation, scope, and any lawful substitute export path must be disclosed before a materially binding commitment.
+
+Shutdown, migration, operator exit, and service-end paths must preserve usable export or handoff of continuity-critical data under those disclosed paths — not merely a discretionary promise to try later.
+
+Read with **Article II-E** (*Info-Sphere Dependency, Continuity, and Operator Non-Viability*), **Article XIX-A** (*Portability Rights*), and `corpus_joint_structure.md` **CJS-5.17** (*interoperability, portability, and exit-integrity terms*).
 
 ---
 

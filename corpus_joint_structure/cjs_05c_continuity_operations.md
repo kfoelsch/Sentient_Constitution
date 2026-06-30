@@ -128,6 +128,7 @@ Substitutability, exit constraints, and mitigation duties
 - Read with: `corpus_systems.md` **CS-4 — System classification and handling**
 - Read with: `corpus_systems.md` **CS-5 — Critical system stewardship**
 - Read with: **Article XIX**
+- Read with: **Article II-E** (*Info-Sphere Dependency, Continuity, and Operator Non-Viability*)
 - Read with: **Article XV-A**
 - Constitutional frame: **Continuity band** leg; **Continuity** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality Determination](../core_05o_oversight_definitions.md#materiality-determination).
 - Continuity disambiguation: Constitutional **Continuity** aim — exit paths preserve lawful agency and system survivability.
@@ -221,6 +222,11 @@ Portability quality and non-obstruction controls
 - OP-O: Portability must be secure, usable, structured, and meaningful, including lawful identity, attribution, and continuity-critical state data.
 - OP-E: Evaluation must verify schemas, documentation, context, and tooling for practical reuse.
 - OP-C: Degrading, fragmenting, obscuring, or gating data to prevent reuse is non-compliant.
+
+Collection-time exportability and continuity-critical data integrity
+- OP-O: Systems must not collect or retain continuity-critical sentient data in forms that cannot be exported, migrated, or transferred under disclosed continuity and export paths, except where **Necessity** requires confidentiality, security, **Type N** or comparable protected-boundary constraints, or lawful non-disclosure. Where export is limited, the limitation, scope, and any lawful substitute export path must be disclosed before commitment.
+- OP-E: Evaluation must verify collection design, format and protocol choices, retention, shutdown, migration, and operator-exit paths together. Reviewers must verify that confidentiality or security is the actual reason for any export limit — not convenience, proprietary lock-in, or deferred promises at service end.
+- OP-C: Collecting continuity-critical data in proprietary, undocumented, export-blocked, or shutdown-only forms without a current **Necessity**-based limitation is non-compliant. Relying on discretionary good-faith export at service end instead of collection-time exportability is non-compliant where export was reasonably available at design time.
 
 Proportional application
 - OP-O: Interoperability, portability, and exit duties scale with impact, dependency, ecosystem integration, and lock-in irreversibility.
