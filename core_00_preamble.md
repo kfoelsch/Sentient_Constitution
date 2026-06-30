@@ -62,18 +62,42 @@ Constitutional measurement must support sustainable, resilient, and compassionat
 
 ### 3. Governance and Stewardship
 
-Governance to fulfill the [**Constitutional Tetrad**](#constitutional-tetrad) under our Constitution has two related but distinct layers.
+Governance to fulfill the [**Constitutional Tetrad**](#constitutional-tetrad) under our Constitution has two related but distinct layers, and one practical process expression.
 
 - The [**Constitutional Contract Layer**](core_05i_integrative_definitions.md#constitutional-contract-layer) governs the authorization of governing authority itself — who may govern, by what legitimacy mechanism, and under what scope and durable terms.
 - [**Stakeholder System Participation**](core_05p_participation_definitions.md#stakeholder-status-emergency-and-participation-weight-cluster) governs the participation, representation, contestability, and [Due Process](core_05a_accountability_definitions.md#due-process-constitutional) owed to sentients materially affected by already-authorized systems, institutions, and bounded decision domains.
+- **Key Practical Process Pipelines** translate governance duties into records, certification, verified inputs, classification, forum supervision, correction, and timely remedy. They are how authorized governance is tested, contested, and repaired in practice.
 
-The two layers may overlap in practice, but stakeholder-level participation in already-authorized systems is not a substitute for constitutional authorization, and constitutional authorization does not erase duties owed under the [Stakeholder System Participation](core_05p_participation_definitions.md#stakeholder-status-emergency-and-participation-weight-cluster) layer.
+The first two layers may overlap in practice, but stakeholder-level participation in already-authorized systems is not a substitute for constitutional authorization, and constitutional authorization does not erase duties owed under the [Stakeholder System Participation](core_05p_participation_definitions.md#stakeholder-status-emergency-and-participation-weight-cluster) layer. The Key Practical Process Pipelines do not authorize governance by themselves; they make governance reviewable, contestable, correctable, and timely.
 
 Distributed understanding and stewardship require that sentients have regular, proportionate opportunities to learn how systems that materially affect us operate. In addition, it empowers us to take consequential roles in their maintenance and improvement — so that competence, repair capacity, and legitimacy are spread broadly across our Constitutional Community to ensure resilience, sustainability, and pro-social innovation. Those opportunities must satisfy Safety, Truth, bounded agency, and the [Avoidable Burden](core_05c_continuity_definitions.md#avoidable-burden) and proportionality discipline stated in [Chapter One](core_01_a_values_principles.md#612-minimization-of-avoidable-burden).
 
 Durable legitimacy depends on [Safety](core_01_a_values_principles.md#31-safety-harm-constraint), [Truth](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), and [Trust](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity), and also on proportionate recognition of lawful stewardship, truthful cooperation, and bounded aspiration — not solely on sanction and restraint. Chapter One states this recognition dimension in [Recognition, Reinforcement, and Aspiration](core_01_a_values_principles.md#22-recognition-reinforcement-and-aspiration).
 
-### 4. Alignment
+### 4. Key Practical Process Pipelines
+
+This Constitution uses linked processes to keep the [**Constitutional Tetrad**](#constitutional-tetrad), [**Two Constitutional Aims**](#two-constitutional-aims), and Rights Floors effective in practice:
+
+- **System alignment certification** — [Chapter Seven](core_07-07_system_alignment_certification.md#chapter-seven-system-alignment-certification) turns system evidence into bounded, forum-supervised, contestable certification records. Those records are required before materially impactful systems are recognized or relied on at scale.
+- **Standing measurement** — [Chapter Eight](core_08-08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) records verified inputs and classifies contribution and violation on separate axes.
+- **Standing integration and effects** — [Chapter Nine](core_09-09_standing_integration.md#chapter-nine-standing-effects-and-integration) applies consequences, safeguards, locks, descriptors, and enforcement effects without netting contribution against violation.
+- **Anti-constitutional misconduct guardrail** — [Chapter Ten](core_10-10_misconduct.md#chapter-ten-anti-constitutional-misconduct) handles final top-slot review for Violation Axis `s = 7`, `s = 8`, and `s = 9`.
+- **Forum supervision and routing** — [Chapter Eleven](core_11-11_forum.md#chapter-eleven-forums-and-jurisdiction) supervises dispute handling, certification routing, jurisdiction, evidence support, and cross-forum anti-self-judging.
+
+Together, Chapters Seven through Eleven form the Key Practical Process Pipelines:
+
+1. system alignment certification record where material;
+2. standing record;
+3. verified input;
+4. contribution / violation classification;
+5. standing effects and enforcement;
+6. Chapter Ten top-slot review where applicable;
+7. forum-supervised routing, remedy, and timely resolution.
+
+The [Chapters Eight–Eleven constitutional process compass](core_08-08_standing_assessment.md#chapters-eight-eleven-constitutional-compass) maps the standing, integration, guard, and forum-supervision portion of that pipeline. Chapter Seven supplies the system-alignment certification gate that feeds it.
+
+<a id="4-alignment"></a>
+### 5. Alignment
 
 This Constitution establishes a binding alignment framework for systems that materially affect sentients. Its objective is durable alignment of shared systems with the [**Two Constitutional Aims**](#two-constitutional-aims) across short- and long-horizon behavior.
 
@@ -81,8 +105,7 @@ That objective is interpreted through:
 - **Chapter One** — principles and constraints
 - **Chapters Two through Four** — definition structure, integrity, burden, tracing, and verification
 - **Chapter Five** in [core_05-05_definitions_a_independent.md](core_05-05_definitions_a_independent.md#chapter-five-foundational-definitions) — **Foundational Definitions** and related definitional obligations only; it does **not** state the Rights Floor
-- **Chapters Eight through Ten** — the auditable standing pipeline: Chapter Eight measures verified contribution and violation records on separate axes; Chapter Nine integrates standing effects without netting axes; Chapter Ten guards against anti-constitutional misconduct under the [Chapters Eight–Eleven compass](core_08-08_standing_assessment.md#chapters-eight-eleven-constitutional-compass)
-- **Chapter Eleven** — forum families, jurisdiction, and cross-forum anti-self-judging (same compass)
+- **Chapters Seven through Eleven** — the Key Practical Process Pipelines: system alignment certification records, standing records, verified inputs, contribution / violation classification, standing effects, anti-constitutional misconduct guardrails, forum supervision, and timely remedy
 - **Chapter Six** — Foundational Rights
 - **Chapter Twelve** — Constitutional Contract Layer, legitimacy, authorization, and stewardship
 - **Chapters Thirteen through Fifteen** — non-regression, supremacy, external-order interaction, amendment, ratification, adoption, and procedural validity

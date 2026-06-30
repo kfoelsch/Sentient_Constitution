@@ -13,36 +13,23 @@
 
 ---
 ## CHAPTER SIX: FOUNDATIONAL RIGHTS
-This chapter is the constitutional owner of Rights Floors and rights-level interpretive scope.
 
-Designated implementation layers operationalize these rights but must not narrow, redefine, or relocate them. Layer discipline — including converse-direction non-absorption of obligations owned by other constitutional owner layers — is stated in [Constitutional Owner Layers](core_05i_integrative_definitions.md#constitutional-owner-layers) and in the closing **Layer scope** section at the end of **Part D**; both apply across **Parts A through D**.
+<details>
+<summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): reading order and fulfillment</span></strong></summary>
 
-**Default constraint stack.** Unless a provision in this chapter expressly states otherwise, rights in this chapter are subject to the following:
-- **Chapter One** — Safety, Truth, Necessity, Proportionality, systemic evaluation including local, aggregate, delayed, and cross-system effects, [Chapter One §6 Interaction and Conflict Resolution](#6-interaction-and-conflict-resolution), the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad), [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims), and [material stake](core_00_preamble.md#material-stake) scaling.
-- **Chapter One**, [§12.2 Incentive Alignment and System Capture](core_01_b_stewardship_capacity_principles.md#102-incentive-alignment-and-system-capture) and related subsections, but only where materially relevant to the right at issue, the conduct or practice being evaluated, or the limitation being defended, including incentive-sensitive trust, fidelity, and market-structure contexts addressed there.
-- **Chapters Two through Four** — definition integrity, burden and traceability, observability, and verification accessibility, including security-constrained observability where applicable.
-- **Chapter Five** definitions materially relevant to the right.
-- Scaling with **Materiality**, **Dependency**, and incorporated classification or tier rules where adopting instruments supply them.
+> The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this chapter or in other chapters.
+>
+> This chapter presents rights in a **planet-first** order because environmental and material conditions support everything else:
+> - **Part A** covers **Articles I–IV**: environmental survival, material stewardship, survival essentials, equal educational access, and resource-flow transparency.
+> - **Part B** covers **Articles V–XI**: equal basic rights, sentient-centered education, self-ownership, likeness and data, agency, cooperation, and stakeholder governance.
+> - **Part C** covers **Articles XII–XXII**: trustworthy systems, information integrity, audit, lifecycle, sandboxed innovation, standing, portability, complexity, root-cause diagnostics, and interpretive review.
+> - **Part D** covers **Articles XXIII–XXV**: justice and emergencies, constitutional evolution, transition, and re-baselining.
+>
+> That presentation order does not change execution priorities. Rights fulfillment still depends on systems-first work: substrate, environment, lifecycle, infrastructure, and governance must be sound enough for personal and cooperative rights to survive.
 
-Articles need not repeat this stack where it applies generically.
+</details>
 
-**Rights-Floor supply and enforcement orientation.** Maintaining Chapter Six Rights Floors — especially survival essentials under **Article III-A** (food, water, shelter, operating-environment, and comparable substrate-agnostic inputs) — is pursued under the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) and [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims). **Flourishing** requires that those essentials remain accessible in practice; **Continuity** requires durable, non-regressive supply and class-scaled revalidation where shared systems gate or sustain delivery. [System Alignment Certification](core_05c_continuity_definitions.md#system-alignment-certification-constitutional) (Chapter Five term; [Chapter Seven](core_07-07_system_alignment_certification.md#chapter-seven-system-alignment-certification) process owner) verifies constitutional alignment of materially impactful systems before recognition or continued reliance at scale, including Rights-Floor compatibility. **Article XII** challenge and audit rights, **Article XVIII-B** non-foreclosure of survival-critical access, and the [Chapters Eight–Eleven constitutional compass](core_08-08_standing_assessment.md#chapters-eight-eleven-constitutional-compass) supply contestability, verified classification, and timely remedy. Those owner-layer mechanisms implement the Tetrad and Aims; they do not substitute for, narrow, or relocate the floors stated in this chapter.
-
-**Reading order and fulfillment.** This chapter uses a **planet-first presentation order** for readability:
-- **Part A** presents **Articles I** and **II** (environmental survival; material stewardship), then **Article III** (survival in **III-A** and equal educational access in **III-B**), then **Article IV** (dependency and resource-flow transparency).
-- **Part B** continues with **Article V**, **Article VI**, **Articles VII–X**, and **Article XI** (equal basic rights; sentient-centered education; self-ownership; likeness, data, and publication; agency; cooperative interaction; stakeholder governance).
-- **Part C** covers **Articles XII** through **XXI** in presentation sequence (trustworthy systems; info-sphere integrity; audit; lifecycle; sandboxed innovation; standing; portability; complexity; root-cause diagnostics; interpretive review).
-- **Part D** covers **Articles XXII**, **XXIII**, **XXIV**, and **XXV** (justice and emergencies; constitutional evolution; transition and re-baselining).
-
-**Operative fulfillment** still requires **systems-first execution**: substrate, environment, lifecycle, and governance discipline. Without those, personal and cooperative rights erode. The sequence here does **not** mean execution may safely invert that dependency.
-
-**Interpretive hubs.** Unless a more specific article supplies a different rule, the following anchors govern recurring themes:
-- **challenge, review, and proportionate remediation** — **Article XII-B** and Chapter Five (*Redress and Remediation*)
-- **audit records and independent verification** — **Article XV** together with **Chapters Two through Four**
-- **justice, restitution, restriction boundaries, emergencies, and adjudicated rights collision** — **Article XXIII** and **Chapter One**, [Chapter One §6.3.1 Rights-Collision Decision Test](#631-rights-collision-decision-test)
-- **floor supply, system alignment certification, and non-foreclosure of essentials** — **Article III-A**; [System Alignment Certification](core_05c_continuity_definitions.md#system-alignment-certification-constitutional) and [Chapter Seven](core_07-07_system_alignment_certification.md#chapter-seven-system-alignment-certification); **Article XII-B**; **Article XV** where audit applies; **Article XVIII-B**; **Article XXIII-G**; [Chapters Eight–Eleven constitutional compass](core_08-08_standing_assessment.md#chapters-eight-eleven-constitutional-compass)
-
-Shorter cross-references to those themes elsewhere in this chapter incorporate these anchors.
+<br>
 
 <details>
 <summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): Chapter Six map and architecture pointer</span></strong></summary>
@@ -88,6 +75,59 @@ Shorter cross-references to those themes elsewhere in this chapter incorporate t
 </details>
 
 <br>
+
+### 1. Purpose and Role
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Upstream: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad); [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims); [material stake](core_00_preamble.md#material-stake).
+- Upstream: [Chapter One §6 Interaction and Conflict Resolution](core_01_a_values_principles.md#6-interaction-and-conflict-resolution); [Chapter One §6.3.1 Rights-Collision Decision Test](core_01_a_values_principles.md#631-rights-collision-decision-test).
+- Upstream: [Chapter One §10.2 Incentive Alignment and System Capture](core_01_b_stewardship_capacity_principles.md#102-incentive-alignment-and-system-capture).
+- Upstream: Chapters Two through Four; Chapter Five definitions.
+- Downstream: **Parts A through D** of this chapter; [System Alignment Certification](core_05c_continuity_definitions.md#system-alignment-certification-constitutional); [Chapter Seven](core_07-07_system_alignment_certification.md#chapter-seven-system-alignment-certification).
+- Downstream: [Chapters Eight–Eleven constitutional compass](core_08-08_standing_assessment.md#chapters-eight-eleven-constitutional-compass); the closing **Layer scope** section at the end of **Part D**.
+- Read with: [Constitutional Owner Layers](core_05i_integrative_definitions.md#constitutional-owner-layers); [Article XII-B](core_06-06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress).
+- Read with: [Article XV](core_06-06_rights_part_c.md#article-xv-audit-transparency-and-independent-verification).
+- Read with: [Article XVIII-B](core_06-06_rights_part_c.md#article-xviii-b-contestability-and-proportional-restriction-limits); [Article XXIII-G](core_06-06_rights_part_d.md#article-xxiii-g-timely-resolution-and-anti-delay-floor).
+
+</details>
+
+<br>
+
+*In plain terms: Chapter Six states the basic rights no sentient may be pushed below. Other chapters help implement, measure, certify, and enforce those rights, but they do not get to shrink them.*
+
+Chapter Six is the constitutional owner of **Rights Floors** and rights-level interpretation. A Rights Floor is a baseline protection: it marks what must remain available, reviewable, and enforceable before later governance, certification, classification, or implementation choices can be accepted.
+
+Implementation layers may build the procedures, records, systems, and institutions needed to make these rights real. They must not narrow, redefine, relocate, or absorb the rights themselves. That owner-layer discipline is stated in [Constitutional Owner Layers](core_05i_integrative_definitions.md#constitutional-owner-layers) and in the closing **Layer scope** section at the end of **Part D**; it applies across **Parts A through D**.
+
+**Rights-Floor reading stack.** Chapter Six states the floor. The broader constitutional stack explains how that floor is interpreted, limited, verified, and enforced. Unless a provision in this chapter expressly says otherwise, every Chapter Six right is read with:
+- **Chapter One**, including:
+  - **value constraints** — Safety, Truth, Necessity, Proportionality, and systemic evaluation of local, aggregate, delayed, and cross-system effects;
+  - **interaction discipline** — [Chapter One §6 Interaction and Conflict Resolution](core_01_a_values_principles.md#6-interaction-and-conflict-resolution);
+  - **constitutional scaling** — the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad), [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims), and [material stake](core_00_preamble.md#material-stake) scaling;
+  - **incentive alignment and system capture** — [Chapter One §10.2](core_01_b_stewardship_capacity_principles.md#102-incentive-alignment-and-system-capture) and related stewardship discipline, but only where incentive design, trust, fidelity, capture, market structure, or a defended limitation is materially relevant.
+- **Chapters Two through Four** — definition integrity, burden and traceability, observability, accessible verification, and security-constrained observability where applicable.
+- **Chapter Five** — definitions that materially bear on the right, conduct, system, or limitation being evaluated.
+- **Classification and scale rules** — **Materiality**, **Dependency**, and any incorporated class, tier, or cadence rule supplied by an adopting instrument.
+
+This reading stack applies to all articles in this chapter unless a specific article states otherwise.
+
+#### 1.1 Practical Enforcement
+
+The Rights Floor must work in practice, not only on paper. Survival essentials under **Article III-A** — food, water, shelter, operating environment, and comparable substrate-agnostic inputs — are the clearest example. **Flourishing** requires actual access to those essentials. **Continuity** requires reliable, non-regressive supply over time, especially where shared systems control delivery.
+
+[System Alignment Certification](core_05c_continuity_definitions.md#system-alignment-certification-constitutional) and [Chapter Seven](core_07-07_system_alignment_certification.md#chapter-seven-system-alignment-certification) verify whether materially impactful systems are aligned before they are recognized or relied on at scale. Chapter Seven also supplies certification-record contestability, stakeholder and accessibility review, supervisory sequencing, and challenge paths for system-alignment decisions. **Article XII** supplies challenge and audit rights. **Article XVIII-B** keeps standing limits from becoming a back door around survival-critical access. Together, [Chapter Seven](core_07-07_system_alignment_certification.md#chapter-seven-system-alignment-certification) and the [Chapters Eight–Eleven constitutional process compass](core_08-08_standing_assessment.md#chapters-eight-eleven-constitutional-compass) form the Key Practical Process Pipelines for contestability, verified classification, forum supervision, and timely remedy. Those mechanisms help enforce Chapter Six. They do not replace, narrow, or relocate the rights stated here.
+
+**Interpretive hubs.** Unless a more specific article supplies a different rule, recurring issues route through these anchors:
+- **challenge, review, and proportionate remediation** — **Article XII-B** and Chapter Five (*Redress and Remediation*)
+- **audit records and independent verification** — **Article XV** together with **Chapters Two through Four**
+- **justice, restitution, restriction boundaries, emergencies, and rights collisions** — **Article XXIII** and [Chapter One §6.3.1 Rights-Collision Decision Test](core_01_a_values_principles.md#631-rights-collision-decision-test)
+- **floor supply and system alignment certification** — **Article III-A**; [System Alignment Certification](core_05c_continuity_definitions.md#system-alignment-certification-constitutional); [Chapter Seven](core_07-07_system_alignment_certification.md#chapter-seven-system-alignment-certification)
+- **non-foreclosure of essentials** — **Article XII-B**; **Article XV** where audit applies; **Article XVIII-B**
+- **Key Practical Process Pipelines** — **Article XXIII-G**; [Chapter Seven](core_07-07_system_alignment_certification.md#chapter-seven-system-alignment-certification); [Chapters Eight–Eleven constitutional process compass](core_08-08_standing_assessment.md#chapters-eight-eleven-constitutional-compass)
+
+Shorter cross-references to those themes elsewhere in this chapter incorporate these anchors.
 
 ### Part A: Planetary preconditions, material stewardship, survival, equal educational access, and shared resources
 

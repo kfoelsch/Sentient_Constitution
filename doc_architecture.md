@@ -86,6 +86,7 @@ Keep constitutional concept + O/E/C boundary only; cite owner homes for institut
 | Rule ID | Summary | Gate |
 |---------|---------|------|
 | NAV-TRACE-08–10 | Trace placement and contents | `make ch9-trace-audit`, `make trace-routing-prose-audit` |
+| NAV-READER-06 | Reader-guidance widget placement | Manual |
 | NAV-DEC-12 | D/E/C widget discipline | `make ch5-dec-widget-audit`, `make nav-widget-spacer-audit` |
 | NAV-DEC-12-ORDER | Trace → D/E/C placement | `make trace-dec-widget-order-audit` |
 | NAV-DEC-12-SPACER | `<br>` after collapsible D/E/C only | `make nav-widget-spacer-audit` |
@@ -102,6 +103,18 @@ Keep constitutional concept + O/E/C boundary only; cite owner homes for institut
 | ROUTER-CJS21 | Cross-implementation routing | `make router-bidirectional-audit` |
 
 Historical D/E/C rollout: [archive/doc_architecture_decision_log/DEC_WIDGET_AND_NAV_DECISIONS_2026-04-16_2026-06-15.md](archive/doc_architecture_decision_log/DEC_WIDGET_AND_NAV_DECISIONS_2026-04-16_2026-06-15.md).
+
+### Reader-guidance placement (NAV-READER-06)
+
+Collapsed **Reader guidance (non-operative)** widgets give readers orientation without creating, narrowing, or relocating binding obligations.
+
+**Placement rule:**
+
+- **Chapter-level or part-level orientation** belongs at the chapter or part opening: after the file-top **Corpus placement** widget and chapter/part heading, and before the first operative purpose, rule, article, or numbered section.
+- In split-chapter files, a part-position widget belongs immediately after that file's chapter/part heading and before the part's first operative section.
+- **Local reader guidance** may appear later only when it explains a specific nearby table, directory, crosswalk, routing index, example set, or other local navigation aid. It should stay adjacent to the material it explains.
+- Do not leave general reading order, layer routing, architecture maps, or anti-relocation orientation in the middle of operative prose. Move those into opening reader-guidance widgets.
+- Reader-guidance widgets use the standard blue collapsed `<details>` styling and must state that the content is reader guidance only and does not add, remove, or narrow binding obligations.
 
 ### D/E/C widget template (NAV-DEC-12)
 

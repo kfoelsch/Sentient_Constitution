@@ -4,7 +4,7 @@
     {
       "id": "NAV-READER-06",
       "legacy_ref": "doc_architecture rule 6",
-      "summary": "Chapter-opening reader guidance in collapsed non-operative details blocks.",
+      "summary": "Chapter- and part-level reader guidance belongs at the opening before operative sections; local guidance may appear adjacent to the material it explains.",
       "make_target": null,
       "status": "manual"
     },
